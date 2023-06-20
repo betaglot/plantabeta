@@ -6,3 +6,4 @@
  - PlantingBags
  - Gloves
  - CacheBag
+ - Flag
