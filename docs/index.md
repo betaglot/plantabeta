@@ -11,7 +11,7 @@ hero:
   actions:
     - theme: brand
       text: Get Started
-      link: /introduction.md
+      link: /guide/introduction.md
 
 features:
   - icon: 🌲
