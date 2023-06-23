@@ -1,7 +1,5 @@
----
-
-title: 
-
----
-
 # Density 
+
+## Quote
+
+- "Tighten up"

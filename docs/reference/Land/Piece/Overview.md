@@ -7,16 +7,19 @@ title:
 # Piece Overview
 
 ## Piece Anatomy
-- PieceBoundary
-    - PieceBack
-    - PieceSide
-        - PieceLeftSide
-        - PieceRightSide
-    - PieceFront
-- ResidualPatch
+
+### PieceBoundary
+- PieceBack
+- PieceSide
+    - PieceLeftSide
+    - PieceRightSide
+- PieceFront
+
+### ResidualPatch
 
 ## Piece Shape
-- Square
-- Triangle
-- Pocket
-- Hourglass
+
+### SquarePiece
+### TrianglePiece
+### PocketPiece
+### HourglassPiece

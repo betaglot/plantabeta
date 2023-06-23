@@ -10,3 +10,6 @@ title:
 - BlockAccess
 
 ## Block Properties
+- BlockLocation
+    - Altitude
+    - Access
