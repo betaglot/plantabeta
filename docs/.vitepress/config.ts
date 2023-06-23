@@ -4,6 +4,7 @@ export default defineConfig({
     lang: 'en-US',
     title: 'Plantbeta',
     description: 'The elements of Planting',
+    lastUpdated: true,
     themeConfig: {
       search: {
         provider: 'local'

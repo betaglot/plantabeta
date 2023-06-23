@@ -1,4 +1,6 @@
-# Glove Overview
+---
+
+title: Glove Overview
 
 ## Glove Anatomy
 

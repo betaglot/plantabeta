@@ -1,4 +1,6 @@
-# Plant Overview
+---
+
+title: Plant Overview
 
 ## Plant Anatomy
 

@@ -1,3 +1,5 @@
-# Clothing Overview
+---
+
+title:  Clothing Overview
 
 ## Clothing Properties

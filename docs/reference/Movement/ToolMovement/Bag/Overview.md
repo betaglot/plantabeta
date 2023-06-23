@@ -1,4 +1,6 @@
-# Bag Overview
+---
+
+title:  Bag Overview
 
 ## Bag Anatomy
 

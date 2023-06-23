@@ -1,4 +1,6 @@
-# Shovel Overview
+---
+
+title:  Shovel Overview
 
 ## Shovel Anatomy
 

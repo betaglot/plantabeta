@@ -1,4 +1,6 @@
-# Head Overview
+---
+
+title:  Head Overview
 
 ## Head Anatomy
 

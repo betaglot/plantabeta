@@ -1,4 +1,6 @@
-# Hole Overview
+---
+
+title:  Hole Overview
 
 ## Hole Anatomy
 

@@ -1,4 +1,6 @@
-# Gaiter Overview
+---
+
+title:  Gaiter Overview
 
 ## Gaiter Anatomy
 

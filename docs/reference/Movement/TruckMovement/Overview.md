@@ -1,4 +1,6 @@
-# Truck Overview
+---
+
+title:  Truck Overview
 
 ## Truck Anatomy
 

@@ -1,1 +1,3 @@
-# ClothingLayer
+---
+
+title:  ClothingLayer
