@@ -1,3 +1,1 @@
----
-
-title: PlantType
+# PlantType

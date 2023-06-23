@@ -1,6 +1,4 @@
----
-
-title:  Foot Overview
+# Foot Overview
 
 ## Foot Anatomy
 

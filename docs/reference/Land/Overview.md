@@ -4,7 +4,7 @@ title:
 
 ---
 
-# {{ $frontmatter.title }} Overview
+# Land Overview
 
 ## What is Land?
 
@@ -24,4 +24,3 @@ title:
 - BurntLand
 - BurntStump
 
-## LandTree

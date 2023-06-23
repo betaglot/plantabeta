@@ -1,6 +1,4 @@
----
-
-title:  Movement Overview
+# Movement Overview
 
 ## What is Movement?
 

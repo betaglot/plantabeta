@@ -1,3 +1,1 @@
----
-
-title: Arm Sidebag Lift
+# Arm Sidebag Lift

@@ -1,3 +1,1 @@
----
-
-title:  Neuro Overview
+# Neuro Overview

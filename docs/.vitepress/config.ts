@@ -6,6 +6,14 @@ export default defineConfig({
     description: 'The elements of Planting',
     lastUpdated: true,
     themeConfig: {
+      socialLinks: [
+        { icon: 'youtube', link: 'https://github.com/vuejs/vitepress' },
+        { icon: 'instagram', link: 'https://github.com/vuejs/vitepress' }
+      ],
+      footer: {
+        message: 'Sponsored by Quastuco.com',
+        copyright: 'Copyright © 2023-present'
+      },
       search: {
         provider: 'local'
       },

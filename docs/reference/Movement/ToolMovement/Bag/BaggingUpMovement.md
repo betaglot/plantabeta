@@ -1,3 +1,1 @@
----
-
-title:  BaggingUpMovement
+# BaggingUpMovement

@@ -4,7 +4,7 @@ title:
 
 ---
 
-# {{ $frontmatter.title }} Overview
+# Block Overview
 
 ## Block Anatomy
 - BlockAccess

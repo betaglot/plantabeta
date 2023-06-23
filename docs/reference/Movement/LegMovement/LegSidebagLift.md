@@ -1,3 +1,1 @@
----
-
-title:  SidebagLift
+# SidebagLift

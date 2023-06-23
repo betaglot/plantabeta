@@ -4,4 +4,4 @@ title:
 
 ---
 
-# {{ $frontmatter.title }}
+# ArmProp

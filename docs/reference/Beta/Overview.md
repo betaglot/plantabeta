@@ -1,10 +1,6 @@
----
 
-title: 
 
----
-
-# {{ $frontmatter.title }} Overview
+# Beta Overview
 
 ## What is beta
 

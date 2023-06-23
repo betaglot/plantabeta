@@ -7,7 +7,9 @@ titleTemplate: Plantbeta
 hero: 
   name: Plantbeta
   text: The elements of Planting
-  tagline: Simple, powerful, and fast. Meet the modern SSG framework you've always wanted.
+  tagline:
+  image: 
+    src: /YourLogoHere.png 
   actions:
     - theme: brand
       text: Get Started
@@ -16,11 +18,11 @@ hero:
 features:
   - icon: 🌲
     title: Plant Better Quality 
-    details: 
+    details: No More Replants!
   - icon: 🤑
     title: Plant Faster 
     details: Make more Money!
   - icon: 😊
-    title: 
-    details: 
+    title: Feel Better
+    details: Less Injuries, Better Mental Health!
 ---

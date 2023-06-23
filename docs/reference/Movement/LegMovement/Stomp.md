@@ -1,3 +1,1 @@
----
-
-title:  Stomp
+# Stomp

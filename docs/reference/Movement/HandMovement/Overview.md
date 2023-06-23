@@ -1,6 +1,4 @@
----
-
-title:  Hand Overview
+# Hand Overview
 
 ## Hand Anatomy
 

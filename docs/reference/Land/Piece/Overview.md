@@ -4,7 +4,7 @@ title:
 
 ---
 
-# {{ $frontmatter.title }} Overview
+# Piece Overview
 
 ## Piece Anatomy
 - PieceBoundary

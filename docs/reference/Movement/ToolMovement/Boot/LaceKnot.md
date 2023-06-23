@@ -1,8 +1,3 @@
----
-
-title: 
-
-
 # LaceKnot
 
 ## LaceTieUp
