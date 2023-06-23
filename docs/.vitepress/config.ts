@@ -178,6 +178,9 @@ function sidebarReference() {
 
             ]},
             { text: 'ToolMovement', collapsed: true, items: [
+              { text: 'Bag', collapsed: true , items: [
+                { text: 'Overview', link: '/reference/Movement/ToolMovement/Bag/Overview.md'},
+              ]},
               { text: 'Overview', link: '/reference/Movement/ToolMovement/Overview'},
               { text: 'Overview', link: '/reference/Movement/ToolMovement/Bag'},
               { text: 'Overview', link: '/reference/Movement/ToolMovement/Boot'},
