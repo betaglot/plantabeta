@@ -1,7 +1,7 @@
 ---
 layout: home
 
-title: Home
+title: Plantbeta
 titleTemplate: Plantbeta
 
 hero: 
