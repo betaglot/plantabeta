@@ -1,6 +1,6 @@
 # ArmBlock
 
-<div style="display: flex; width: %100">
+<div style="display: flex; width: %100; margin-top: 50px">
     <div style="margin: 5px; width: 50%">
         <img height="350" width="350" src="/MovementPhoto.png"/>
     </div>

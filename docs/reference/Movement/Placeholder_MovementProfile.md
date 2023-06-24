@@ -34,6 +34,11 @@
 </div>
 
 
+## ElementRelationshipsGraph
+
+Graph which represents how this element is related to other elements in Plantbeta.
+<img height="350" width="350" src="/DirectedGraph_UndirectedGraph.png"/>
+
 ## LandElements
 - Description of how this movement relates to a particular [LandElement]().
 - Description of how this movement relates to a particular [LandElement]().

@@ -4,13 +4,12 @@
 
 ## RectilinearAlignment
 
-- How to Plant a straight line in
+- Straight lines only
+- How to Plant a straight line into Piece which is also perpendicularily aligned with road.  
 
 ## PerpendicularAlignment
 
-[SquareFill]
-[SquarePiece]
-[SquareRoute]
+[SquareFill](), [SquarePiece](), [SquareRoute]()
 
 
 ## ParallelAlignment

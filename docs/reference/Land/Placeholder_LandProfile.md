@@ -7,3 +7,40 @@
         <p >Description of LandElement. How the LandElement got its name. Common misconceptions about the LandElement. How to differentiate this LandElement from another similar LandElement</p>
     </div>
 </div>
+
+## ElementRelationshipsGraph
+
+Graph which represents how this element is related to other elements in Plantbeta.
+<img height="350" width="350" src="/DirectedGraph_UndirectedGraph.png"/>
+
+## MovementElements
+- Description of how this LandElement relates to a particular [Movement]().
+- Description of how this LandElement relates to a particular [Movement]().
+- Description of how this LandElement relates to a particular [Movement]().
+
+## RouteElements
+- Description of how this LandElement relates to a particular [RouteElement]().
+- Description of how this LandElement relates to a particular [RouteElement]().
+- Description of how this LandElement relates to a particular [RouteElement]().
+
+## NeuroElements
+- Description of how this LandElement relates to a particular [NeuroElement]().
+- Description of how this LandElement relates to a particular [NeuroElement]().
+- Description of how this LandElement relates to a particular [NeuroElement]().
+
+## Quotes
+
+Quotes about this Element
+
+- "Quote1"
+- "Quote2"
+- "Quote3"
+- "Quote4"
+
+### RelatedMovements
+
+Links to other related LandElements. Related because they are the same LandType or because they are performed at the same time or within the same sequence. 
+
+- [Link]()
+- [Link]()
+- [Link]()
