@@ -5,6 +5,7 @@ export default defineConfig({
     title: 'Plantbeta',
     description: 'The elements of Planting',
     lastUpdated: true,
+    base: '/plantbeta/',
     themeConfig: {
       socialLinks: [
         { icon: 'youtube', link: 'https://github.com/vuejs/vitepress' },
