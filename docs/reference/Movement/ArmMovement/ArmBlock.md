@@ -2,10 +2,10 @@
 
 <div style="display: flex; width: %100">
     <div style="margin: 5px; width: 50%">
-        <p >Description of Movement. How the movement got its name. The purpose of the movement. Common misconceptions about the movement. How to differentiate this movement from another similar movement</p>
+        <img height="350" width="350" src="/MovementPhoto.png"/>
     </div>
     <div style="margin: 5px; width: 50%">
-        <img height="350" width="350" src="/MovementPhoto.png"/>
+        <p >Description of Movement. How the movement got its name. The purpose of the movement. Common misconceptions about the movement. How to differentiate this movement from another similar movement</p>
     </div>
 </div>
 
