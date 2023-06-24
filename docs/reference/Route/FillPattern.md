@@ -1,1 +1,0 @@
-# FillPattern Overview

@@ -6,9 +6,19 @@ title:
 
 # Piece Overview
 
-## Piece Anatomy
+## PieceAnatomy
+
+## PieceDifficulty
+
+- Easiest part of Piece. Creamiest part.
+
+
 
 ### PieceBoundary
+- TreeLine
+- Road
+- ContiguousPiece
+- Cliff
 - PieceBack
 - PieceSide
     - PieceLeftSide

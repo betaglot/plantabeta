@@ -6,7 +6,7 @@ titleTemplate: Plantbeta
 
 hero: 
   name: Plantbeta
-  text: The elements of Planting
+  text: The Elements of Planting
   tagline:
   image: 
     src: /YourLogoHere.png 

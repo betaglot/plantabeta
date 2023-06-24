@@ -1,0 +1,10 @@
+# TypewriterFill
+
+Using TypewriterFill to fill a Piece is analogous to using a ZigzagLine for AreaFill
+
+## ParallelLine
+
+- GoBackOnLine
+
+RectilinearPiece
+

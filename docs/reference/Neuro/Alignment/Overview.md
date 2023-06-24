@@ -4,6 +4,8 @@
 
 ## RectilinearAlignment
 
+- How to Plant a straight line in
+
 ## PerpendicularAlignment
 
 [SquareFill]
@@ -22,6 +24,8 @@
 - Spacing
 - Radius
 - Diameter
+
+## How to Find Midline
 
 
 

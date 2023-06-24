@@ -1,5 +1,0 @@
-# 
-
-## ParallelRoute
-
-RectilinearPiece
