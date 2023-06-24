@@ -203,7 +203,7 @@ function sidebarReference() {
               { text: 'HeadProtraction', link: '/reference/Movement/HeadMovement/HeadProtraction'},
               { text: 'HeadRetraction', link: '/reference/Movement/HeadMovement/HeadRetraction'},
               { text: 'HeadTiltIntoWind', link: '/reference/Movement/HeadMovement/HeadTiltIntoWind'},
-              { text: 'ListenTo', link: '/reference/Movement/HeadMovement/ListenTo'},
+              { text: 'Hearing', link: '/reference/Movement/HeadMovement/Hearing'},
               { text: 'LookAway', link: '/reference/Movement/HeadMovement/LookAway'},
               { text: 'NeckExtension', link: '/reference/Movement/HeadMovement/NeckExtension'},
             ]},
@@ -307,11 +307,11 @@ function sidebarReference() {
           { text: 'Event', collapsed: true, items: [
             { text: 'Overview', link: '/reference/Neuro/Event/Overview'},
           ]},
-          { text: 'ListenTo', collapsed: true, items: [
-            { text: 'Overview', link: '/reference/Neuro/ListenTo/Overview'},
-            { text: 'ShovelSound', link: '/reference/Neuro/ListenTo/Overview'},
-            { text: 'SlashSound', link: '/reference/Neuro/ListenTo/SlashSound'},
-            { text: 'SoilSound', link: '/reference/Neuro/ListenTo/SoilSound'},
+          { text: 'Hearing', collapsed: true, items: [
+            { text: 'Overview', link: '/reference/Neuro/Hearing/Overview'},
+            { text: 'ShovelSound', link: '/reference/Neuro/Hearing/Overview'},
+            { text: 'SlashSound', link: '/reference/Neuro/Hearing/SlashSound'},
+            { text: 'SoilSound', link: '/reference/Neuro/Hearing/SoilSound'},
           ]},
           { text: 'Music', collapsed: true, items: [
             { text: 'Overview', link: '/reference/Neuro/Music/Overview'},

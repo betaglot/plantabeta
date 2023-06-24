@@ -1,5 +1,0 @@
-# Density 
-
-## Quote
-
-- "Tighten up"

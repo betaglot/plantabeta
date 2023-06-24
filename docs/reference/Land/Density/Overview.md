@@ -12,3 +12,7 @@ title:
 - 6Plot
 - 7Plot
 - 8Plot
+
+## Quote
+
+- "Tighten up"
