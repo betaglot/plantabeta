@@ -2,8 +2,8 @@
 
 # Beta Overview
 
-## What is beta
+<!-- ## What is beta
 
 Beta is what you actually do implement
 Elements are just options possibilities
-Beta requires decision 
+Beta requires decision  -->

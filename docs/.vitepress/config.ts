@@ -53,7 +53,6 @@ function sidebarGuide() {
       items: [
         { text: 'Introduction', link: '/guide/introduction' },
         { text: 'Getting Started', link: '/guide/getting-started' },
-        { text: 'What is Beta?', link: '/reference/Beta/Overview'},
         { text: 'Go to Reference', link: '/reference/Overview'},
       ]
     }

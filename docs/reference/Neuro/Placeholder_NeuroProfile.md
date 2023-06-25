@@ -3,7 +3,7 @@
         <img height="350" width="350" src="/NeuroImage.png"/>
     </div>
     <div style="margin: 5px; width: 50%">
-        <p >Description of Movement. How the movement got its name. The purpose of the movement. Common misconceptions about the movement. How to differentiate this movement from another similar movement</p>
+        <p >Description of NeuroElement. How the NeuroElement got its name. The purpose of the NeuroElement. Common misconceptions about the NeuroElement. How to differentiate this NeuroElement from another similar NeuroElement</p>
     </div>
 </div>
 

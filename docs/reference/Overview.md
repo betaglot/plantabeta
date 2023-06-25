@@ -1,20 +1,7 @@
 # Reference Overview
 
-Table of Contents
+- Reference is laid out similarily to a wikipedia page. There are many links between pages. Links are highlighted as [green text](/reference/Overview) (< this link links to the the current page).
 
-## 1
+- Reference is used to find knowledge gaps while browsing during long car rides.
 
-## 2
-
-### 3
-
-#### 4
-
-##### 5
-
-###### 6
-
-
-
-
-[[toc]]
+- Reference is easy searched by using the Hash symbol # to target the headers of the reference contents.
