@@ -3,7 +3,7 @@ import { defineConfig } from 'vitepress'
 export default defineConfig({
     lang: 'en-US',
     title: 'Plantbeta',
-    description: 'The elements of Planting',
+    description: 'The elements ',
     lastUpdated: true,
     base: '/plantbeta/',
     ignoreDeadLinks: true,
@@ -13,7 +13,7 @@ export default defineConfig({
         { icon: 'instagram', link: 'https://github.com/vuejs/vitepress' }
       ],
       footer: {
-        message: 'Sponsored by Quastuco.com',
+        message: 'Sponsored by <CompanyName>',
         copyright: 'Copyright © 2023-present'
       },
       search: {
