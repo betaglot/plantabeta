@@ -7,7 +7,7 @@ title:
 # Land Overview
 
 ## What is Land?
-
+<!-- 
 - Obstacle
 - Residual
 - Trench
@@ -22,5 +22,5 @@ title:
 - FastLand
 - SlowLand
 - BurntLand
-- BurntStump
+- BurntStump -->
 
