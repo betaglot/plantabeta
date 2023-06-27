@@ -9,7 +9,7 @@ hero:
   text: The Elements of Planting
   tagline:
   image: 
-    src: /YourLogoHere.png 
+    src: /MainSponsorLogo.png 
   actions:
     - theme: brand
       text: Get Started
