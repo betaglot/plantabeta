@@ -17,3 +17,11 @@ Beta requires decision  -->
 > Beta in climbing can be very detailed down to the exact way you **grip** a specific hold i.e. “pinch the left side with your first two fingers so there’s space to match with your other hand”.
 
 - https://www.climbernews.com/what-is-climbing-beta/
+
+
+## Analogy between Climbing and Planting
+
+
+
+## How is "Beta" used in Planting?
+
