@@ -2,9 +2,16 @@
 
 ## Who is Plantbeta for?
 
-- Rookie Planters
-- Experienced Planters
-- Planter Instructors
+### Rookie Planters
+- A planter who hasn't completed a full season 
+
+### Experienced Planters
+- A planter who has planted for at least one year
+
+### Planter Instructors
+- People who teach planters how to plant.
+
+### PotentialPlanters
 - People who are interested in becoming a planter.
 
 ## What is Plantbeta?

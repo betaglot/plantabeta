@@ -25,11 +25,11 @@ export default defineConfig({
 
       sidebar: {
         '/guide/': sidebarGuide(),
-        '/reference/': sidebarReference()
+        '/reference/': sidebarReference(),
+        '/tests/': sidebarTests()
       }
   }
 })
-
 
 function nav(){
   return [
@@ -40,10 +40,19 @@ function nav(){
       text: 'Reference',
       link: '/reference/Overview',
       activeMatch: '/reference/'
+    },
+    {
+      text: 'Tests',
+      link: '/tests/Overview',
+      activeMatch: '/tests/'
+    },
+    {
+      text: 'Apply',
+      link: 'https://www.quastuco.com/'
     }
+
   ]
 }
-
 
 function sidebarGuide() {
   return [
@@ -52,7 +61,7 @@ function sidebarGuide() {
       collapsed: false,
       items: [
         { text: 'Introduction', link: '/guide/introduction' },
-        { text: 'Getting Started', link: '/guide/getting-started' },
+        { text: 'Getting Started', link: '/guide/GettingStarted' },
         { text: 'Go to Reference', link: '/reference/Overview'},
       ]
     }
@@ -330,7 +339,6 @@ function sidebarReference() {
          
           { text: 'DistanceEstimation', link: '/reference/Neuro/DistanceEstimation'},
           { text: 'Fatigue', link: '/reference/Neuro/Fatigue'},
-  
           { text: 'Proprioception', link: '/reference/Neuro/Proprioception'},
           { text: 'Thermoception', link: '/reference/Neuro/Thermoception'},
   
@@ -398,4 +406,13 @@ function sidebarReference() {
       ]
     }   
   ] 
+}
+
+function sidebarTests() {
+  return [
+    {text: 'Tests', collapsed: true,  items: [
+      {text: 'Overview', link: '/tests/Overview'}
+    ]}
+  ]
+
 }
