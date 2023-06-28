@@ -1,7 +1,5 @@
 # Alignment Overview
 
-
-
 ## RectilinearAlignment
 
 - Straight lines only
@@ -11,11 +9,7 @@
 
 [SquareFill](), [SquarePiece](), [SquareRoute]()
 
-
 ## ParallelAlignment
-
-
-
 
 ### CircleAlignment
 
