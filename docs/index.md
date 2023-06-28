@@ -6,10 +6,10 @@ titleTemplate: Plantbeta
 
 hero: 
   name: Plantbeta
-  text: The Elements of Planting
+  text: Be a Better Planter
   tagline:
   image: 
-    src: /MainSponsorLogo.png 
+    src: /QuastucoLogo.png 
   actions:
     - theme: brand
       text: Get Started
