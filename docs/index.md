@@ -13,7 +13,9 @@ hero:
   actions:
     - theme: brand
       text: Get Started
-      link: /guide/introduction.md
+      link: /guide/introduction
+    - text: Proposal
+      link: /QuastucoProposal
 
 features:
   - icon: 🌲

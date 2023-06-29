@@ -1,22 +1,142 @@
-# Quastuco: Fostering Innovation and Education
+<img id="QuastucoLogo" width="25%" height="auto" src="/QuastucoLogo.png" />
 
-- I’m the guy who broke a toilet the night of your 25th anniversary.
-- You're gonna think I'm being greedy.
-- You're going to think that I can't deliver
+
+# Quastuco: Fostering Innovation and Education through Research and Development
+
+## What does every rookie do before they go planting?
+
+Rookie planters ALWAYS Google "How to Plant trees?" before starting the season. Why? To educate themselves as much as possible before starting work, because they know that the more knowledge they have about planting the more money they will make.
+
+The best resource which can be found is Replant.ca, but this site could be better.
+
+- The [Dictionary](http://www.replant.ca/dictionary.html) has no images.
+- The book [Step By Step](https://jonathan-scooter-clark.blogspot.com/2018/03/step-by-step.html) only has a couple chapters about how to actually plant trees AND you need to pay for it. I've personally bought two editions of the book and neither are useful to the planters themselves, it seems like the book is more useful to people like yourselves who run planting companies.
+- Their [videos](https://jonathan-scooter-clark.blogspot.com/2017/02/tree-planter-training-learning-how-to.html) are not very useful.
+
 
 ## What is Plantbeta?
 
-## Update Quastuco.com
+- Plantbeta is a web app which contains all the information that a planter needs to know to perform their job in the [Reference](/reference/Overview) section. 
+- Plantbeta has a [Tests](/tests/Overview) section for planters to reinforce their knowledge and to find any gaps in their knowledge.
+- Unlike Replant.ca, Plantbeta contains no information about the business side of planting, it's only from the planter's perspective. 
 
+## How is Plantbeta Innovative and Educational?
 
-- The Photos section of your website doesn't work
-- [Material Design 3 ]('https://m3.material.io/')
-- Quastuco has a Facebook page, but Gen Z doesn't use Facebook. 
-    - [NBC news](https://www.nbcnews.com/tech/tech-news/gen-z-facebook-pew-research-center-finds-rcna42429)
+> Work smarter not harder
+
+- Plantbeta is **FREE** educational resource for planters.
+- Plantbeta explains how to plant in greater nuance than ever before, by breaking down a planter's experience into 4 interdependent subsystems:
+    - Land System
+    - Movement System
+    - Routing System
+        - Also known as 'Land Management'
+    - Neuro System
+
+- Plantbeta is innovative since it uses evidence based knowledge from the [Huberman Lab Podcast](https://hubermanlab.com/). The podcast is run by the [Andrew Huberman](https://hubermanlab.com/about/) who is a highly respected university professor from California. Some of the topics which are directly applicable to planting are: 
+    - [Fitness](https://hubermanlab.com/guest-series-dr-andy-galpin-maximize-recovery-to-achieve-fitness-and-performance-goals/), how to build muscle, how to recover, how to use supplments, how to train endurance, how the body converts food into energy.
+    - [Sleep](https://hubermanlab.com/sleep-toolkit-tools-for-optimizing-sleep-and-sleep-wake-timing/)
+    - [Salt](https://hubermanlab.com/using-salt-to-optimize-mental-and-physical-performance/), the importance of salt for mental and physical performance.
+    - [Learning](https://hubermanlab.com/how-to-learn-skills-faster/), how to learn faster and more deeply.
+    - [Caffeine](https://hubermanlab.com/using-caffeine-to-optimize-mental-and-physical-performance/), how to use caffeine to optimize mental and physical performance... and how to not overdo it.
 
 
 ## How does Plantbeta add Value to Quastuco?
 
-## Who is the user?
+> "We take pride in our work and reputation as we strive to be one of the most efficient and innovative companies on the market"
+
+- Plantbeta will increase Quastuco's reputation, since Quastuco's logo is prominently displayed on the home page and on every other page, therefore advertising Quastuco to every user, everytime they use the app. With a greater amount of advertising comes a greater number of applicants, so you can be more selective in your hiring process.
+
+> "When all our systems are in place, you as the planter will meet your goals."
+
+- Plantbeta systematizes a planter's education. Plantbeta will reduce the time it takes for rookies to learn how to plant, therefore increasing Quastuco's planting rate.
+
+
+> "Statement of Goals and Objective - 2023 Safety Improvement Plan...
+Flagging reduction, the goal is a 60% reduction in single use plastics...Veteran planters will be provided with techniques to reduce their flagging use"
+
+- Plantbeta will increase the value of experienced planters, by identifying then filling in their knowledge gaps.
+
+
+- You, the Overland family could be in the planters in the movement element photos if you wanted.
+
+## Update Quastuco.com
+
+### In addition to Plantbeta, Quastuco would benefit from the development of Quastuco.com.
+
+- The [Photos](https://www.quastuco.com/photos/) section of your website doesn't work, a blank screen is rendered and images can only been seen one at a time if you click on the blank area. 
+- The new site would use [Material Design 3 ]('https://m3.material.io/') standards which were published in Nov 2022. Material Design is what Google and Youtube use to style their websites and is the cutting edge of web design. Update Quastuco's site now to the current cutting edge and you won't need to update it for a long time. If the current site is kept the way it is, then it will look ancient in 5 years.
+- Quastuco has a Facebook page which has a good design, but Gen Z doesn't use Facebook, so, future planters won't see it. 
+    - [NBC news](https://www.nbcnews.com/tech/tech-news/gen-z-facebook-pew-research-center-finds-rcna42429)
+- Other planting companies have well designed websites
+    - [Outland Website](https://www.outlandplanting.ca/)
+    - [Brinkman Website](https://www.brinkmanreforestation.ca/)
+
+
+
+# Ok, these are good ideas, but how can you TRUST that I can deliver?
+
+- I'm very passionate about making Plantbeta. I've been designing ways to improve planting since my first year here eight years ago, when I designed a flagging device. I've also created multiple innovative prototypes of planting bags. All of these projects were designed in my own time, because I wanted to make them. 
+- This summer I will be getting an [official certification](https://certification.vuejs.org/) in the programming language that runs Plantbeta. I've already pre ordered the certification, but the exam isn't ready yet. Plantbeta will be a project that I will use in my design portfolio, when looking for employment throughout my design career.
+    - Vue.js, is the programming language being used for Plantbeta. It is one of the most popular and therefore one of the largest communities for web development, so if there are any programming obstacles that I can't figure out myself, then I'll be able to get help from the community.  
+- I've already made dozens of pages of designs for Plantbeta, but I haven't gotten the opportunity to implement them into a web app. 
+- There are many other planting projects which I'd like to work with Quastuco to implement in the years to come, such as:
+    - Paper flagging tape which doesn't fall off branches, so the flag is highly visible and therefore fewer flags are needed. Also the paper won't be as toxic to the earth as plastic flagging tape. 
+    - Gloves which are specifically designed for planters.
+    - Making a sponsorship deal with Patagonia.
+    - Adding a section to Plantbeta for Supervisors.
+    - Creating a position for a person who repairs planter's clothing and boots to increase their longevity. A torn stitch in a boot could be repaired before it grows and reduces a planter's performance. 
+
+
+## So, how do we make this happen?
+
+### Research during this current season {#research} 
+
+#### Photography
+- Take photos of land from the ground and from the air (with Jess's help), then abstract them into Land Diagrams.
+- Take photos and videos of Planters for Movement and Route Element Profiles. 
+
+#### Recording Observations
+
+- What are the most common ways that planters lose time?
+- What parts of the land does RookieStare most frequently occur?
+- Expand the LandSystem section, adding more microsite types to Plantbeta.
+- HighBaller Observation
+    - Identify individual strengths and weaknesses.
+    - How do HighBallers plant more trees? How much has to do with movement speed and how much to do with Routing (Land Management)?
+- LowBaller Observation
+    - Identify individual strengths and weaknesses.
+    - Observe what makes them slow and record it using the elements of Plantbeta.
+
+
+#### Asking Planters Questions
+
+- What is going on in their heads when Rookies RookieStare?
+- What Plantbeta elements have rookies never heard of?
+- What would planters want from Planbeta?
+- What are the most common quality faults that supervisors observe?
+- How do planters plan their piece?
+
+
+<style>
+h1 {
+    text-align: center;
+}
+
+h2 {
+    text-decoration: underline;
+    text-align: center;
+}
+
+#QuastucoLogo{
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 30px;
+}
+
+#research{
+    text-decoration: underline;
+    text-align: center;
+}
+</style>
 
 

@@ -37,6 +37,10 @@ export default defineConfig({
   }
 })
 
+function head(){
+  return []
+}
+
 function nav(){
   return [
     { text: 'Guide', 

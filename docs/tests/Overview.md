@@ -1,5 +1,7 @@
 # Tests
 
+Multiple choice tests, where planters choose from a selection of images or a selection of text answers.
+
 ## LandTest
 
 - [LandTest1]()
