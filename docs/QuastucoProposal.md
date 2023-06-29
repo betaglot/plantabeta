@@ -3,6 +3,26 @@
 
 # Quastuco: Fostering Innovation and Education through Research and Development
 
+::: tip You're gonna think...
+- That I can't deliver on my promises.
+- You’re gonna think that this is more complicated than it needs to be.
+- You’re gonna think that this is too much for a Rookie to take in.
+- Why should we listen to the guy who clogged a toilet by flushing down his underwear his first year here?
+- You're gonna think that a web app can't make people better planters.
+- You're gonna think that I'm not qualified.
+:::
+
+Would you be against giving me a chance to address all of your concerns with this page and while having a conversation in person?
+<pre>
+
+
+
+
+
+
+</pre>
+
+
 ## What does every rookie do before they go planting?
 
 Rookie planters ALWAYS Google "How to Plant trees?" before starting the season. Why? To educate themselves as much as possible before starting work, because they know that the more knowledge they have about planting the more money they will make.
@@ -59,28 +79,37 @@ The best resource which can be found is Replant.ca, but this site could be bette
 > "We take pride in our work and reputation as we strive to be one of the most efficient and innovative companies on the market"
 
 - Plantbeta will increase Quastuco's reputation, since Quastuco's logo is prominently displayed on the home page and on every other page, therefore advertising Quastuco to every user, everytime they use the app. With a greater amount of advertising comes a greater number of applicants, so you can be more selective in your hiring process.
-- You, the Overland family could be in the planters in the movement element photos if you wanted.
+- You, Bunky and the Overland family, could be the planters in the movement element photos if you wanted.
 - Quastuco can be one who posts an annoucement Plantbeta to King Kong Reforestation.
 
----
+<pre>
+
+
+</pre>
 
 > "When all our systems are in place, you as the planter will meet your goals."
 
 - Plantbeta systematizes a planter's education. Plantbeta will reduce the time it takes for rookies to learn how to plant, therefore increasing Quastuco's planting rate.
 
----
+<pre>
+
+
+</pre>
 
 > "Statement of Goals and Objective - 2023 Safety Improvement Plan...
 Flagging reduction, the goal is a 60% reduction in single use plastics...Veteran planters will be provided with techniques to reduce their flagging use"
 
 - Plantbeta will increase the value of experienced planters, by identifying then filling in their knowledge gaps.
+<pre>
 
+
+</pre>
 ## Update Quastuco.com
 
 ### In addition to Plantbeta, Quastuco would benefit from the development of Quastuco.com.
-
-- The [Photos](https://www.quastuco.com/photos/) section of your website doesn't work, a blank screen is rendered and images can only been seen one at a time if you click on the blank area. 
 - The new site would use [Material Design 3 ]('https://m3.material.io/') standards which were published in Nov 2022. Material Design is what Google and Youtube use to style their websites and is the cutting edge of web design. Update Quastuco's site now to the current cutting edge and you won't need to update it for a long time. If the current site is kept the way it is, then it will look ancient in 5 years.
+- The [Photos](https://www.quastuco.com/photos/) section of your website doesn't work, a blank screen is rendered and images can only been seen one at a time if you click on the blank area. 
+- Update the photos used on the website.
 - Quastuco has a Facebook page which has a good design, but Gen Z doesn't use Facebook, so, future planters won't see it. 
     - [NBC news](https://www.nbcnews.com/tech/tech-news/gen-z-facebook-pew-research-center-finds-rcna42429)
 - Other planting companies have well designed websites
@@ -93,6 +122,7 @@ Flagging reduction, the goal is a 60% reduction in single use plastics...Veteran
 ::: danger Ok...
 #  These are good ideas, but how can you TRUST that I can deliver?
 :::
+
 - I'm very passionate about making Plantbeta. I've been designing ways to improve planting since my first year here eight years ago, when I designed a flagging device. I've also created multiple innovative prototypes of planting bags. All of these projects were designed in my own time, because I wanted to make them. 
 - This summer I will be getting an [official certification](https://certification.vuejs.org/) in the programming language that runs Plantbeta. I've already pre ordered the certification, but the exam isn't ready yet. Plantbeta will be a project that I will use in my design portfolio, when looking for employment throughout my design career.
     - Vue.js, is the programming language being used for Plantbeta. It is one of the most popular and therefore one of the largest communities for web development, so if there are any programming obstacles that I can't figure out myself, then I'll be able to get help from the community.  
