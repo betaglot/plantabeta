@@ -19,6 +19,20 @@ The best resource which can be found is Replant.ca, but this site could be bette
 - Plantbeta is a web app which contains all the information that a planter needs to know to perform their job in the [Reference](/reference/Overview) section. 
 - Plantbeta has a [Tests](/tests/Overview) section for planters to reinforce their knowledge and to find any gaps in their knowledge.
 - Unlike Replant.ca, Plantbeta contains no information about the business side of planting, it's only from the planter's perspective. 
+- Each element of Plantbeta has its own profile. Currently you will see placeholders for each section of the profile. Each element profile has a profile picture, element description, a relationship graph showing how it relates to elements from the other subsystems, descriptions of how elements from other subsystems relate to the current element and at the bottom of the profile there are links to related elements (like the "See Also" section in Wikipedia pages). Not only are planters shown all the elements, but more importantly they are shown how they relate to each other. Some elements are highly related to such as Attention (NeuroElement), while others are not related to other subsystems such as TreeLoad (grabbing a tree from your bag).
+    - [PocketArea](/reference/Land/Area/PocketArea.md)
+        - It's more efficient to AreaFill than PerimeterFill (RouteElements) a PocketArea.
+        - You need to define the boundaries of the area (NeuroElement).
+    - [HandScreef](/reference/Movement/HandMovement/HandScreef)
+        - The SoilType (LandElement) determines if you ShovelScreef or HandScreef.
+        - You need to see and feel (NeuroElements) where the duff layer becomes MineralSoil to perform an effective HandScreef.
+    - [BackFill](/reference/Route/PieceFill/BackFill)
+        - The shape of the Piece (LandElement) determines if you want to BackFill or AreaFill.
+    - [BagUpSizeDecision](/reference/Neuro/Decision/BagUpSizeDecision)
+        - The land affects the BagUpSize, bigger BagUpSize for straight trenches (LandElement) compared to RawLand (LandElement).
+        - BagUpSize depends on how fatigued (Neuro) you are.
+        - BagUpSize affects how fast you can move (MovementElement) and how easily you can climb over slash (LandElement).
+        - If you need to BackFill (RouteElement) a piece then you typically have a large BagUpSize.
 
 ## How is Plantbeta Innovative and Educational?
 
@@ -45,19 +59,21 @@ The best resource which can be found is Replant.ca, but this site could be bette
 > "We take pride in our work and reputation as we strive to be one of the most efficient and innovative companies on the market"
 
 - Plantbeta will increase Quastuco's reputation, since Quastuco's logo is prominently displayed on the home page and on every other page, therefore advertising Quastuco to every user, everytime they use the app. With a greater amount of advertising comes a greater number of applicants, so you can be more selective in your hiring process.
+- You, the Overland family could be in the planters in the movement element photos if you wanted.
+- Quastuco can be one who posts an annoucement Plantbeta to King Kong Reforestation.
+
+---
 
 > "When all our systems are in place, you as the planter will meet your goals."
 
 - Plantbeta systematizes a planter's education. Plantbeta will reduce the time it takes for rookies to learn how to plant, therefore increasing Quastuco's planting rate.
 
+---
 
 > "Statement of Goals and Objective - 2023 Safety Improvement Plan...
 Flagging reduction, the goal is a 60% reduction in single use plastics...Veteran planters will be provided with techniques to reduce their flagging use"
 
 - Plantbeta will increase the value of experienced planters, by identifying then filling in their knowledge gaps.
-
-
-- You, the Overland family could be in the planters in the movement element photos if you wanted.
 
 ## Update Quastuco.com
 
@@ -71,10 +87,12 @@ Flagging reduction, the goal is a 60% reduction in single use plastics...Veteran
     - [Outland Website](https://www.outlandplanting.ca/)
     - [Brinkman Website](https://www.brinkmanreforestation.ca/)
 
+---
+---
 
-
-# Ok, these are good ideas, but how can you TRUST that I can deliver?
-
+::: danger Ok...
+#  These are good ideas, but how can you TRUST that I can deliver?
+:::
 - I'm very passionate about making Plantbeta. I've been designing ways to improve planting since my first year here eight years ago, when I designed a flagging device. I've also created multiple innovative prototypes of planting bags. All of these projects were designed in my own time, because I wanted to make them. 
 - This summer I will be getting an [official certification](https://certification.vuejs.org/) in the programming language that runs Plantbeta. I've already pre ordered the certification, but the exam isn't ready yet. Plantbeta will be a project that I will use in my design portfolio, when looking for employment throughout my design career.
     - Vue.js, is the programming language being used for Plantbeta. It is one of the most popular and therefore one of the largest communities for web development, so if there are any programming obstacles that I can't figure out myself, then I'll be able to get help from the community.  
@@ -82,14 +100,16 @@ Flagging reduction, the goal is a 60% reduction in single use plastics...Veteran
 - There are many other planting projects which I'd like to work with Quastuco to implement in the years to come, such as:
     - Paper flagging tape which doesn't fall off branches, so the flag is highly visible and therefore fewer flags are needed. Also the paper won't be as toxic to the earth as plastic flagging tape. 
     - Gloves which are specifically designed for planters.
-    - Making a sponsorship deal with Patagonia.
+    - Making a pro deal with Patagonia clothing.
     - Adding a section to Plantbeta for Supervisors.
+    - Using AI to optimize planting.
+    - Create a guide for Planter Instructors. 
     - Creating a position for a person who repairs planter's clothing and boots to increase their longevity. A torn stitch in a boot could be repaired before it grows and reduces a planter's performance. 
 
 
 ## So, how do we make this happen?
 
-### Research during this current season {#research} 
+### Research during this current season 2023 {#title1} 
 
 #### Photography
 - Take photos of land from the ground and from the air (with Jess's help), then abstract them into Land Diagrams.
@@ -108,13 +128,29 @@ Flagging reduction, the goal is a 60% reduction in single use plastics...Veteran
     - Observe what makes them slow and record it using the elements of Plantbeta.
 
 
-#### Asking Planters Questions
+#### Asking Planters and Supervisors Questions
 
 - What is going on in their heads when Rookies RookieStare?
 - What Plantbeta elements have rookies never heard of?
 - What would planters want from Planbeta?
 - What are the most common quality faults that supervisors observe?
 - How do planters plan their piece?
+ 
+## Web Development During the OffSeason {#title2}
+
+From the end of this planting season to end of next season, I'll be making Plantbeta and building Quastuco's new website. Some of the task will be: 
+- Building Quastuco.com
+- Editing videos of Movements into Gifs and Photos
+- Editing and inserting photos into ElementProfiles
+- Making LandDiagrams from LandPhotos
+- Writing all the text for Plantbeta.
+- Building the Tests.
+- Graphing the relationships between elements
+
+In time for the start of the 2024 hiring, Quastuco.com will be ready by the end of October along with a selection of the most important Plantbeta Elements. The rest of the elements will be completed by the end of June 2024.
+
+
+
 
 
 <style>
@@ -127,14 +163,14 @@ h2 {
     text-align: center;
 }
 
-#QuastucoLogo{
+#QuastucoLogo {
     margin-left: auto;
     margin-right: auto;
     margin-bottom: 30px;
 }
 
-#research{
-    text-decoration: underline;
+#title1, #title2 {
+    
     text-align: center;
 }
 </style>
