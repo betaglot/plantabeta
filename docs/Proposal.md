@@ -178,7 +178,7 @@ In time for the start of the 2024 hiring, Quastuco.com will be ready by the end 
 
 
 
-<style>
+<style module>
 h1 {
     text-align: center;
 }
