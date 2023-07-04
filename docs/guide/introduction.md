@@ -33,13 +33,4 @@
 - When planning how you're going to plant your piece.
 
 
-<style>
-h1 {
-    text-align: center;
-}
 
-h2 {
-    text-decoration: underline;
-    text-align: center;
-}
-</style>
