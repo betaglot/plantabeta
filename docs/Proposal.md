@@ -178,26 +178,6 @@ In time for the start of the 2024 hiring, Quastuco.com will be ready by the end 
 
 
 
-<style module>
-h1 {
-    text-align: center;
-}
 
-h2 {
-    text-decoration: underline;
-    text-align: center;
-}
-
-#QuastucoLogo {
-    margin-left: auto;
-    margin-right: auto;
-    margin-bottom: 30px;
-}
-
-#title1, #title2 {
-    
-    text-align: center;
-}
-</style>
 
 
