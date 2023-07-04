@@ -1,18 +1,13 @@
-<img id="QuastucoLogo" width="25%" height="auto" src="/QuastucoLogo.png" />
-
-
-# Quastuco: Fostering Innovation and Education through Research and Development
 
 ::: tip You're gonna think...
 - That I can't deliver on my promises.
 - You’re gonna think that this is more complicated than it needs to be.
 - You’re gonna think that this is too much for a Rookie to take in.
-- Why should we listen to the guy who clogged a toilet by flushing down his underwear his first year here?
 - You're gonna think that a web app can't make people better planters.
 - You're gonna think that I'm not qualified.
 :::
 
-Would you be against giving me a chance to address all of your concerns with this page and while having a conversation in person?
+
 <pre>
 
 

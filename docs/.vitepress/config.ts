@@ -13,15 +13,14 @@ export default defineConfig({
       ['link', { rel: "icon", type: "image/png", sizes: "16x16", href: "/favicon-16x16.png"}],
       ['link', { rel: "manifest", href: "/site.webmanifest"}],],
    themeConfig: {
-      logo: '/QuastucoLogo.png',
       socialLinks: [
         { icon: 'youtube', link: 'https://github.com/vuejs/vitepress' },
         { icon: 'instagram', link: 'https://github.com/vuejs/vitepress' }
       ],
-      footer: {
-        message: 'Sponsored by Quastuco',
-        copyright: 'Copyright © 2023-present'
-      },
+      // footer: {
+      //   message: 'Sponsored by Quastuco',
+      //   copyright: 'Copyright © 2023-present'
+      // },
       search: {
         provider: 'local'
       },
@@ -56,10 +55,10 @@ function nav(){
       link: '/tests/Overview',
       activeMatch: '/tests/'
     },
-    {
-      text: 'Apply',
-      link: 'https://www.quastuco.com/'
-    }
+    // {
+    //   text: 'Apply',
+    //   link: 'https://www.quastuco.com/'
+    // }
 
   ]
 }

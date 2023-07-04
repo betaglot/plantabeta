@@ -8,14 +8,12 @@ hero:
   name: Plantbeta
   text: Be a Better Planter
   tagline:
-  image: 
-    src: /QuastucoLogo.png 
   actions:
     - theme: brand
       text: Get Started
       link: /guide/introduction
-    - text: Proposal
-      link: /QuastucoProposal
+    # - text: Proposal
+    #   link: /Proposal
 
 features:
   - icon: 🌲
