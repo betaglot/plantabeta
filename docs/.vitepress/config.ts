@@ -420,7 +420,12 @@ function sidebarReference() {
 function sidebarTests() {
   return [
     {text: 'Tests', collapsed: true,  items: [
-      {text: 'Overview', link: '/tests/Overview'}
+      {text: 'Overview', link: '/tests/Overview'},
+      {text: 'Labelling', link: '/tests/Test_LabelDiagram'},
+      {text: 'Matching', link: '/tests/Test_Matching'},
+      {text: 'MultipleChoice', link: '/tests/Test_MultipleChoice'},
+      {text: 'Sequencing', link: '/tests/Test_Sequencing'},
+     
     ]}
   ]
 
