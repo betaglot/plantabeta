@@ -1,10 +1,13 @@
+---
+layout: doc
+---
+
+<script setup>
+import JoinKlimbeta from './Join_Klimbeta_Plantbeta.vue'
+</script>  
 # What is Beta?
 
-<!-- ## What is beta
 
-Beta is what you actually do implement
-Elements are just options possibilities
-Beta requires decision  -->
 
 ## 'Beta' is from the climbing community
 
@@ -20,7 +23,8 @@ Beta requires decision  -->
 
 
 ## Analogy between Climbing and Planting
-
+  
+<JoinKlimbeta />
 
 
 ## How is "Beta" used in Planting?
