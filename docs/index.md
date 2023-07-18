@@ -8,6 +8,7 @@ hero:
   name: Plantbeta
   text: 
   tagline: How to be a Tree Planter
+  image: /android-chrome-512x512.png
   actions:
     - theme: brand
       text: Get Started

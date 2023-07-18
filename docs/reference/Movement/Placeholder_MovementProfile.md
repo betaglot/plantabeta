@@ -65,8 +65,11 @@ Quotes about this Movement
 
 - Ways that this Movement could be performed in correctly, causing injury or causing inefficiencies.
 
+## Examples
 
-### RelatedMovements
+- Use Media donated by Planters. 
+
+## Related MovementElements
 
 Links to other related movements. Related because they are the same MovementType or because they are performed at the same time or within the same sequence. 
 

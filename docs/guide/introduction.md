@@ -9,17 +9,19 @@
 
 ## Who uses Plantbeta?
 
-### [Rookie Planters]()
+### [Potential Planters](/guide/Who/PotentialPlanter)
+- People who are interested in becoming a planter.
+
+### [Rookie Planters](/guide/Who/RookiePlanter)
 - A planter who hasn't completed a full planting season.
 
-### [Experienced Planters]()
+### [Experienced Planters](/guide/Who/ExperiencedPlanter)
 - A planter who has planted for at least one year.
 
-### [Planter Instructors]()
+### [Planter Instructors](/guide/Who/PlanterInstructor)
 - People who teach planters how to plant.
 
-### [Potential Planters]()
-- People who are interested in becoming a planter.
+
 
 ## Why was Plantbeta created?
 

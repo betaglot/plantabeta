@@ -1,3 +1,4 @@
+
 <div style="display: flex; width: %100; margin-top: 100px;">
     <div style="margin: 5px; width: 50%">
         <img height="350" width="350" src="/RoutePhoto.png"/>
@@ -27,7 +28,11 @@ Graph which represents how this element is related to other elements in Plantbet
 - Description of how this RouteElement relates to a particular [MovementElement]().
 - Description of how this RouteElement relates to a particular [MovementElement]().
 
-## RelatedRouteElements
+## Examples
+
+- Use Media donated by Planters. 
+
+## Related RouteElements
 
 Links to other related NeuroElements. 
 

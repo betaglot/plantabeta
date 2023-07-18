@@ -13,6 +13,7 @@ export default defineConfig({
       ['link', { rel: "icon", type: "image/png", sizes: "16x16", href: "/favicon-16x16.png"}],
       ['link', { rel: "manifest", href: "/site.webmanifest"}],],
    themeConfig: {
+      logo: 'android-chrome-512x512.png',
       socialLinks: [
         { icon: 'youtube', link: 'https://github.com/vuejs/vitepress' },
         { icon: 'instagram', link: 'https://github.com/vuejs/vitepress' }
@@ -33,7 +34,6 @@ export default defineConfig({
         '/reference/': sidebarReference(),
         '/tests/': sidebarTests(),
         '/development/': sidebarDevelopment(),
-        '/sponsor/': sidebarSponsor(),
       }
   }
 })
@@ -59,7 +59,7 @@ function nav(){
     },
     {
       text: 'Sponsor',
-      link: '/sponsor/Overview',
+      link: '/sponsor/Sponsor',
       activeMatch: '/sponsor/'
     },
     {
@@ -103,8 +103,8 @@ function sidebarReference() {
       text: 'Reference',
       items: [
         { text: 'Overview', link:'/reference/Overview'},
-        { text: 'Beta', link: '/reference/Beta/Overview' },
-        { text: 'Land', collapsed: true, items: [
+        { text: 'Beta Elements', link: '/reference/Beta/Overview' },
+        { text: 'Land Elements', collapsed: true, items: [
           { text: 'Overview', link: '/reference/Land/Overview'},
           { text: 'Area', collapsed: true, items: [
             { text: 'Overview', link: '/reference/Land/Area/Overview'},
@@ -170,7 +170,7 @@ function sidebarReference() {
           ]},
         ]
         },
-        { text: 'Movement', collapsed: true, items: [
+        { text: 'Movement Elements', collapsed: true, items: [
             { text: 'Overview', link: '/reference/Movement/Overview'},
             { text: 'Arm Movement', collapsed: true, items: [
               { text: 'Overview', link: '/reference/Movement/ArmMovement/Overview'},
@@ -313,7 +313,7 @@ function sidebarReference() {
             ]}
           ],
         },
-        { text: 'Neuro', collapsed: true, items:[
+        { text: 'Neuro Elements', collapsed: true, items:[
           { text: 'Overview', link: '/reference/Neuro/Overview'},
           { text: 'Alignment', collapsed: true, items: [
             { text: 'Overview', link: '/reference/Neuro/Alignment/Overview'},
@@ -371,7 +371,7 @@ function sidebarReference() {
           { text: 'Thermoception', link: '/reference/Neuro/Thermoception'},
   
         ]},
-        { text: 'Route', collapsed: true, items: [
+        { text: 'Route Elements', collapsed: true, items: [
           { text: 'Overview', link: '/reference/Route/Overview' },
           { text: 'AreaFill', collapsed: true, items: [
             { text: 'Overview', link: '/reference/Route/AreaFill/Overview'},
@@ -430,9 +430,12 @@ function sidebarReference() {
             { text: 'FollowingFill', link: '/reference/Route/TeamFill/FollowingFill'},
           ]},
         ]},
-        { text: '_', link: 'reference/Overview' } 
+        
+        
       ]
-    }   
+    },
+    { text: 'Glossary', link: '/reference/glossary/Glossary' },
+    { text: 'Go to Development', link: 'development/Overview' }    
   ] 
 }
 
@@ -461,12 +464,3 @@ function sidebarDevelopment() {
   ]
 }
 
-function sidebarSponsor() {
-  return [
-    {text: '', link: ''},
-    {text: '', link: ''},
-    {text: '', link: ''},
-    {text: '', link: ''},
-    {text: '', link: ''},
-  ]
-}

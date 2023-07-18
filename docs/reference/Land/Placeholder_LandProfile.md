@@ -37,7 +37,11 @@ Quotes about this Element
 - "Quote3"
 - "Quote4"
 
-### RelatedMovements
+## Examples
+
+- Use Media donated by Planters. 
+
+## Related LandElements
 
 Links to other related LandElements. Related because they are the same LandType or because they are performed at the same time or within the same sequence. 
 
