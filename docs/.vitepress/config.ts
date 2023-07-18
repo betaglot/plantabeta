@@ -17,10 +17,10 @@ export default defineConfig({
         { icon: 'youtube', link: 'https://github.com/vuejs/vitepress' },
         { icon: 'instagram', link: 'https://github.com/vuejs/vitepress' }
       ],
-      // footer: {
-      //   message: 'Sponsored by Quastuco',
-      //   copyright: 'Copyright © 2023-present'
-      // },
+      footer: {
+        message: 'Become a Planter',
+        copyright: 'Copyright Plantbeta © 2023-present'
+      },
       search: {
         provider: 'local'
       },
@@ -31,7 +31,9 @@ export default defineConfig({
       sidebar: {
         '/guide/': sidebarGuide(),
         '/reference/': sidebarReference(),
-        '/tests/': sidebarTests()
+        '/tests/': sidebarTests(),
+        '/development/': sidebarDevelopment(),
+        '/sponsor/': sidebarSponsor(),
       }
   }
 })
@@ -49,6 +51,16 @@ function nav(){
       text: 'Reference',
       link: '/reference/Overview',
       activeMatch: '/reference/'
+    },
+    {
+      text: 'Development',
+      link: 'development/Overview',
+      activeMatch: '/development/'
+    },
+    {
+      text: 'Sponsor',
+      link: '/sponsor/Overview',
+      activeMatch: '/sponsor/'
     },
     {
       text: 'Tests',
@@ -71,6 +83,13 @@ function sidebarGuide() {
       items: [
         { text: 'Introduction', link: '/guide/introduction' },
         { text: 'Getting Started', link: '/guide/GettingStarted' },
+        { text: 'Planters', items: [
+          { text: 'Potential Planter', link: '/guide/Who/PotentialPlanter'},
+          { text: 'Rookie Planter', link: '/guide/Who/RookiePlanter'},
+          { text: 'Experienced Planter', link: '/guide/Who/ExperiencedPlanter'},
+          { text: 'Planter Supervisor', link: '/guide/Who/PlanterSupervisor'},
+          { text: 'Planter Instructor', link: '/guide/Who/PlanterInstructor'}
+        ]},
         { text: 'Go to Reference', link: '/reference/Overview'},
       ]
     }
@@ -429,4 +448,25 @@ function sidebarTests() {
     ]}
   ]
 
+}
+
+function sidebarDevelopment() {
+  return [
+    {text: 'Overview', link: ''},
+    {text: 'Donate Media', link: '/development/Donation'},
+    {text: 'Feedback', link: '/development/Feedback'},
+    {text: 'Research Questions', link: '/development/ResearchQuestions'},
+    {text: 'Roadmap', link: '/development/Roadmap'},
+
+  ]
+}
+
+function sidebarSponsor() {
+  return [
+    {text: '', link: ''},
+    {text: '', link: ''},
+    {text: '', link: ''},
+    {text: '', link: ''},
+    {text: '', link: ''},
+  ]
 }

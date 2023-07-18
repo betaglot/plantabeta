@@ -9,20 +9,21 @@
 
 ## Who uses Plantbeta?
 
-### Rookie Planters
-- A planter who hasn't completed a full planting season. 
+### [Rookie Planters]()
+- A planter who hasn't completed a full planting season.
 
-### Experienced Planters
+### [Experienced Planters]()
 - A planter who has planted for at least one year.
 
-### Planter Instructors
+### [Planter Instructors]()
 - People who teach planters how to plant.
 
-### PotentialPlanters
+### [Potential Planters]()
 - People who are interested in becoming a planter.
 
 ## Why was Plantbeta created?
 
+- To steepen the learning curve for Rookie Planters.
 - To increase access to tree planter knowledge.
 - To put all planter knowledge in one location online.
 - To decrease the amount of flagging tape used by planters. 

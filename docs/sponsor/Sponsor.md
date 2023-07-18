@@ -1,0 +1,5 @@
+# Sponsorship
+
+## Patreon
+
+## Kickstarter

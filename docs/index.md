@@ -6,8 +6,8 @@ titleTemplate: Plantbeta
 
 hero: 
   name: Plantbeta
-  text: Be a Better Planter
-  tagline:
+  text: 
+  tagline: How to be a Tree Planter
   actions:
     - theme: brand
       text: Get Started
