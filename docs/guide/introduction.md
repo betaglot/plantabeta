@@ -2,9 +2,9 @@
 
 ## What is Plantbeta?
 
-
+- Plantbeta is a [system]() which contains four subsystems: Movement System, Land System, Route System and Neuro System.
 - Plantbeta is a tool for Tree Planting Education
-- Plantbeta is a system which contains four subsystems: Movement System, Land System, Route System and Neuro System.
+
 
 
 ## Who uses Plantbeta?
@@ -32,9 +32,10 @@
 
 ## When is Plantbeta used?
 
+
 - Before and during your rookie season.
-- While in transit to your block.
 - When planning how you're going to plant your piece.
+- Reference is used to find knowledge gaps while browsing while in transit to the block and during camp moves.
 
 
 

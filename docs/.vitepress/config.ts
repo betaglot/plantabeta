@@ -78,21 +78,23 @@ function nav(){
 function sidebarGuide() {
   return [
     {
-      text: 'Guide',
+      text: 'Introduction',
       collapsed: false,
       items: [
-        { text: 'Introduction', link: '/guide/introduction' },
+        { text: 'What is Plantbeta?', link: '/guide/introduction' },
         { text: 'Getting Started', link: '/guide/GettingStarted' },
-        { text: 'Planters', items: [
-          { text: 'Potential Planter', link: '/guide/Who/PotentialPlanter'},
-          { text: 'Rookie Planter', link: '/guide/Who/RookiePlanter'},
-          { text: 'Experienced Planter', link: '/guide/Who/ExperiencedPlanter'},
-          { text: 'Planter Supervisor', link: '/guide/Who/PlanterSupervisor'},
-          { text: 'Planter Instructor', link: '/guide/Who/PlanterInstructor'}
-        ]},
-        { text: 'Go to Reference', link: '/reference/Overview'},
+        
+        
       ]
-    }
+    },
+    { text: 'Planters', collapsed: false, items: [
+      { text: 'Potential Planter', link: '/guide/Who/PotentialPlanter'},
+      { text: 'Rookie Planter', link: '/guide/Who/RookiePlanter'},
+      { text: 'Experienced Planter', link: '/guide/Who/ExperiencedPlanter'},
+      { text: 'Planter Supervisor', link: '/guide/Who/PlanterSupervisor'},
+      { text: 'Planter Instructor', link: '/guide/Who/PlanterInstructor'}
+    ]},
+    { text: 'Go to Reference', link: '/reference/Overview'},
   ]
 }
 
