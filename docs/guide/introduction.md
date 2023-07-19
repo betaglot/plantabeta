@@ -31,6 +31,10 @@ InsertImage(VennDiagram of Beta and Subsystems)
 - To put all planter knowledge in one location online.
 - To decrease the amount of flagging tape used by planters. 
 
+Do reduce injury by using optimal movement techniques
+
+- 
+
 ## When is [Plantbeta](/guide/introduction.html#what-is-plantbeta) used?
 
 

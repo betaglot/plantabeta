@@ -88,6 +88,14 @@ function sidebarGuide() {
         
       ]
     },
+    {
+      text: 'Purpose', collapsed: false, items: [
+        { text: 'To Steepen Learning Curve', link: '/guide/Why/LearningCurve'},
+        { text: 'To Increase Communication', link: '/guide/Why/Communication'},
+        { text: 'To Increase Productivity', link: '/guide/Why/Productivity'},
+        { text: 'To Reduce Injury', link: '/guide/Why/Injury'},     
+      ]
+    },
     { text: 'Planter Guide', collapsed: false, items: [
       { text: 'Potential Planter', link: '/guide/Who/PotentialPlanter'},
       { text: 'Rookie Planter', link: '/guide/Who/RookiePlanter'},
@@ -463,6 +471,8 @@ function sidebarDevelopment() {
     {text: 'Feedback', link: '/development/Feedback'},
     {text: 'Research Questions', link: '/development/ResearchQuestions'},
     {text: 'Roadmap', link: '/development/Roadmap'},
+    {text: 'Downloads', link: '/development/Downloads'},
+    
 
   ]
 }
