@@ -85,7 +85,7 @@ function sidebarGuide() {
         { text: 'What is an Element?', link: '/guide/ElementDefinition'},
         { text: 'Getting Started', link: '/guide/GettingStarted' },
         
-        
+
       ]
     },
     {
