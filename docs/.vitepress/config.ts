@@ -82,12 +82,13 @@ function sidebarGuide() {
       collapsed: false,
       items: [
         { text: 'What is Plantbeta?', link: '/guide/introduction' },
+        { text: 'What is an Element?', link: '/guide/ElementDefinition'},
         { text: 'Getting Started', link: '/guide/GettingStarted' },
         
         
       ]
     },
-    { text: 'Planters', collapsed: false, items: [
+    { text: 'Planter Guide', collapsed: false, items: [
       { text: 'Potential Planter', link: '/guide/Who/PotentialPlanter'},
       { text: 'Rookie Planter', link: '/guide/Who/RookiePlanter'},
       { text: 'Experienced Planter', link: '/guide/Who/ExperiencedPlanter'},
@@ -457,7 +458,7 @@ function sidebarTests() {
 
 function sidebarDevelopment() {
   return [
-    {text: 'Overview', link: ''},
+    {text: 'Overview', link: '/development/Overview'},
     {text: 'Donate Media', link: '/development/Donation'},
     {text: 'Feedback', link: '/development/Feedback'},
     {text: 'Research Questions', link: '/development/ResearchQuestions'},

@@ -1,13 +1,14 @@
-# Introduction
-
-## What is Plantbeta?
+# What is [Plantbeta](/guide/introduction.html#what-is-plantbeta)?
 
 - Plantbeta is a [system]() which contains four subsystems: Movement System, Land System, Route System and Neuro System.
-- Plantbeta is a tool for Tree Planting Education
+
+InsertImage(VennDiagram of Beta and Subsystems) 
+
+- [Plantbeta](/guide/introduction.html#what-is-plantbeta) is a tool for Tree Planter Education
 
 
 
-## Who uses Plantbeta?
+## Who uses [Plantbeta](/guide/introduction.html#what-is-plantbeta)?
 
 ### [Potential Planters](/guide/Who/PotentialPlanter)
 - People who are interested in becoming a planter.
@@ -23,14 +24,14 @@
 
 
 
-## Why was Plantbeta created?
+## Why was [Plantbeta](/guide/introduction.html#what-is-plantbeta) created?
 
 - To steepen the learning curve for Rookie Planters.
 - To increase access to tree planter knowledge.
 - To put all planter knowledge in one location online.
 - To decrease the amount of flagging tape used by planters. 
 
-## When is Plantbeta used?
+## When is [Plantbeta](/guide/introduction.html#what-is-plantbeta) used?
 
 
 - Before and during your rookie season.
