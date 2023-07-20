@@ -6,8 +6,16 @@ This glossary is intended to provide some guidance about the meanings of terms t
 
 ## One
 
+> One
+
 ## Two
+
+> Two
 
 ## Three
 
+> Three
+
 ## Four
+
+> Four

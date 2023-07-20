@@ -22,6 +22,15 @@ If you are an individual user and have enjoyed the productivity of using [Plantb
 
 <img src = '/KickstarterLogo.png' width= 10%>
 
+Bagups
+Bundle
+Mound
+Use obstacles to group trees into donation sizes
+Donate a trench
+Donate an area
+Donate a line in
+
+
 ### Patreon
 
 <img src = '/PatreonLogo.png' width= 10%>

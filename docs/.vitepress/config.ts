@@ -386,6 +386,7 @@ function sidebarReference() {
           { text: 'Overview', link: '/reference/Route/Overview' },
           { text: 'AreaFill', collapsed: true, items: [
             { text: 'Overview', link: '/reference/Route/AreaFill/Overview'},
+            { text: 'BoustroFill', link: '/reference/Route/AreaFill/BoustroFill'},            
             { text: 'CircleFill', link: '/reference/Route/AreaFill/CircleFill'},
             { text: 'DiamondFill', link: '/reference/Route/AreaFill/DiamondFill'},
             { text: 'SquareFill', link: '/reference/Route/AreaFill/SquareFill'},
