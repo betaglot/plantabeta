@@ -38,7 +38,7 @@ PieceFill > AreaFill > RouteLine > RoutePoint
 - Dish Pit
 - [Boustrophedon](https://en.wikipedia.org/wiki/Boustrophedon)
 
-![Boustrophedon](/../../public/Boustrophedon.jpg)
+![Boustrophedon](/Boustrophedon.jpg)
 
 
 Don't go over the same place more than once.
