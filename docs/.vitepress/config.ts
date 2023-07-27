@@ -67,10 +67,10 @@ function nav(){
       link: '/tests/Overview',
       activeMatch: '/tests/'
     },
-    // {
-    //   text: 'Apply',
-    //   link: 'https://www.quastuco.com/'
-    // }
+    {
+      text: 'Apply',
+      link: ''
+    }
 
   ]
 }
