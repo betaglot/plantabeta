@@ -53,6 +53,11 @@ function nav(){
       activeMatch: '/reference/'
     },
     {
+      text: 'Tests',
+      link: '/tests/Overview',
+      activeMatch: '/tests/'
+    },
+    {
       text: 'Development',
       link: 'development/Overview',
       activeMatch: '/development/'
@@ -62,6 +67,7 @@ function nav(){
       link: '/sponsor/Sponsor',
       activeMatch: '/sponsor/'
     },
+<<<<<<< Updated upstream
     {
       text: 'Tests',
       link: '/tests/Overview',
@@ -71,6 +77,12 @@ function nav(){
       text: 'Apply',
       link: ''
     }
+=======
+    // {
+    //   text: 'Apply',
+    //   link: 'https://www.quastuco.com/'
+    // }
+>>>>>>> Stashed changes
 
   ]
 }
