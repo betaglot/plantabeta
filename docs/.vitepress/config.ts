@@ -93,11 +93,9 @@ function sidebarGuide() {
       text: 'Introduction',
       collapsed: false,
       items: [
-        { text: 'What is Plantbeta?', link: '/guide/introduction' },
         { text: 'What is an Element?', link: '/guide/ElementDefinition'},
-        { text: 'Getting Started', link: '/guide/GettingStarted' },
-        
-
+        { text: 'What is Plantbeta?', link: '/guide/introduction' },
+        { text: 'Getting Started', link: '/guide/GettingStarted' },      
       ]
     },
     {

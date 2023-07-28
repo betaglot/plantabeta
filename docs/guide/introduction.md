@@ -37,4 +37,26 @@ InsertImage(VennDiagram of Beta and Subsystems)
 - Reference is used to find knowledge gaps while browsing while in transit to the block and during camp moves.
 
 
+## Where on Earth is Plantbeta useful?
+
+### British Columbia
+
+- [SteepSlopeWalk]()
+- [WetLog]()
+- [Burns]()
+
+### Ontario
+
+
+- [FastLand]() [Trenches]()
+- [Burns]()
+
+### Quebec
+
+### Alberta
+
+- [Burns]()
+
+
+
 
