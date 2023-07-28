@@ -1,6 +1,11 @@
 # What is [Plantbeta](/guide/introduction.html#what-is-plantbeta)?
 
-- Plantbeta is a [system]() which contains four subsystems: Movement System, Land System, Route System and Neuro System.
+Plantbeta is a [system]() which contains four subsystems: 
+
+- [LandSystem](/reference/Land/Overview)
+- [MovementSystem](/reference/Movement/Overview)
+- [RouteSystem](/reference/Route/Overview)
+- [NeuroSystem](/reference/Neuro/Overview)
 
 InsertImage(VennDiagram of Beta and Subsystems) 
 
@@ -11,7 +16,7 @@ InsertImage(VennDiagram of Beta and Subsystems)
 ## Who uses [Plantbeta](/guide/introduction.html#what-is-plantbeta)?
 
 ### [Potential Planters](/guide/Who/PotentialPlanter)
-- People who are interested in becoming a planter.
+- People who are interested in becoming a planter, but have no planting experience.
 
 ### [Rookie Planters](/guide/Who/RookiePlanter)
 - A planter who hasn't completed a full planting season.
@@ -21,19 +26,8 @@ InsertImage(VennDiagram of Beta and Subsystems)
 
 ### [Planter Instructors](/guide/Who/PlanterInstructor)
 - People who teach planters how to plant.
+- The Planter Instructor can be a Planter Supervisor who is instructing on of their crew; an Experienced Planter giving advice to another Planter or a person who's job title is Planter Instructor (a position which only exists in a handful of planting companies).
 
-
-
-## Why was [Plantbeta](/guide/introduction.html#what-is-plantbeta) created?
-
-- To steepen the learning curve for Rookie Planters.
-- To increase access to tree planter knowledge.
-- To put all planter knowledge in one location online.
-- To decrease the amount of flagging tape used by planters. 
-
-Do reduce injury by using optimal movement techniques
-
-- 
 
 ## When is [Plantbeta](/guide/introduction.html#what-is-plantbeta) used?
 

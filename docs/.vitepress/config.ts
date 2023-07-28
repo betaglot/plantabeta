@@ -76,11 +76,6 @@ function nav(){
       activeMatch: '/sponsor/'
     },
     {
-      text: 'Tests',
-      link: '/tests/Overview',
-      activeMatch: '/tests/'
-    },
-    {
       text: 'Apply',
       link: ''
     }
@@ -106,7 +101,7 @@ function sidebarGuide() {
       ]
     },
     {
-      text: 'Purpose', collapsed: false, items: [
+      text: 'Objectives', collapsed: false, items: [
         { text: 'To Steepen Learning Curve', link: '/guide/Why/LearningCurve'},
         { text: 'To Increase Communication', link: '/guide/Why/Communication'},
         { text: 'To Increase Productivity', link: '/guide/Why/Productivity'},
