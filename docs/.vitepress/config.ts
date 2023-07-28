@@ -72,7 +72,7 @@ function nav(){
     },
     {
       text: 'Sponsor',
-      link: '/sponsor/Sponsor',
+      link: '/sponsor/Overview',
       activeMatch: '/sponsor/'
     },
     {
