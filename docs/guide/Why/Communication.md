@@ -1,7 +1,21 @@
-# To Increase Communication
+# What do you mean?
 
-Enriches the language of planting by providing names for movements which 
-It provides a name for a particular movement that planters perform,so that they can communicate what they're doing to other planters, checkers, and supervisors. 
+## Better Instructions
+
+### Supervisor to Planter. 
+
+When cutting pieces.
+
+> Line in over there.
+
+- [Landmark]()
 
 
-Report for Planters
+## Increase Clarity
+> How much of your piece is filled?
+-
+
+
+## Better TeamPlanting
+
+

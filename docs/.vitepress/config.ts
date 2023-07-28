@@ -34,9 +34,17 @@ export default defineConfig({
         '/reference/': sidebarReference(),
         '/tests/': sidebarTests(),
         '/development/': sidebarDevelopment(),
+        '/sponsor/' : sidebarSponsor(),
       }
   }
 })
+
+function sidebarSponsor() {
+  return [
+    { text: 'How to be a Sponsor', link: '/sponsor/Overview' },
+    { text: 'Kickstarter', link: '/sponsor/Kickstarter'}
+  ]
+}
 
 function head(){
   return []
@@ -67,7 +75,6 @@ function nav(){
       link: '/sponsor/Sponsor',
       activeMatch: '/sponsor/'
     },
-<<<<<<< Updated upstream
     {
       text: 'Tests',
       link: '/tests/Overview',
@@ -77,12 +84,10 @@ function nav(){
       text: 'Apply',
       link: ''
     }
-=======
     // {
     //   text: 'Apply',
     //   link: 'https://www.quastuco.com/'
     // }
->>>>>>> Stashed changes
 
   ]
 }
@@ -450,7 +455,7 @@ function sidebarReference() {
       ]},
     ]},
     { text: 'Glossary', link: '/reference/glossary/Glossary' },
-    { text: 'Go to Development', link: 'development/Overview' }    
+    { text: 'Gallery', link: 'reference/gallery/Overview'}  
   ] 
 }
 

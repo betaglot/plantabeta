@@ -20,7 +20,7 @@ hero:
     - text: Develop
       link: /development/Overview
     - text: Sponsor
-      link: /sponsor/Sponsor
+      link: /sponsor/Overview
 
 features:
   - icon: 🌲

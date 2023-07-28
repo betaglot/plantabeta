@@ -20,7 +20,7 @@ Injury due to lack of knowledge
 
 ## Repetitive Strain
 
-- Do ambidextrous planters suffer less injury caused by repetitive strain
+- Do ambidextrous planters suffer less injury caused by repetitive strain?
     - Repetitive Motion
     - Greater movement variability reduces movement repetition. 
         - How many [HandClosing]()  methods do you know? 
