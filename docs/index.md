@@ -13,8 +13,14 @@ hero:
     - theme: brand
       text: Get Started
       link: /guide/introduction
-    # - text: Proposal
-    #   link: /Proposal
+    - text: Find
+      link: /reference/Overview
+    - text: Test
+      link: /tests/Overview
+    - text: Develop
+      link: /development/Overview
+    - text: Sponsor
+      link: /sponsor/Sponsor
 
 features:
   - icon: 🌲

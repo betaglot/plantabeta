@@ -1,8 +1,17 @@
-# To Reduce Injury
+# Needless Injury
 
-Repetitive Strain
+Injury due to lack of knowledge
 
-- Ambidexterity
+- Nuanced
+    - HandClose with neutral wrist even when angle of approach is not optimal.
+
+## Choose Safer Alternatives
+
+## Repetitive Strain
+
+- Ambidextrous planters 
+    - Less repetition
+    - greater movement variability
 
 
 ## Fall
