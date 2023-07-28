@@ -2,22 +2,40 @@
 
 Injury due to lack of knowledge
 
-- Nuanced
-    - HandClose with neutral wrist even when angle of approach is not optimal.
+
+## Rare Situations  
+
+> Situations which rarely occur 
+
+- Once a week
+- Once a month
+    - Planting in [Snow]()
+- Once a season
+
+## Nuanced Movement
+    
+- HandClose with neutral wrist even when angle of approach is not optimal.
 
 ## Choose Safer Alternatives
 
 ## Repetitive Strain
 
-- Ambidextrous planters 
-    - Less repetition
-    - greater movement variability
-
+- Do ambidextrous planters suffer less injury caused by repetitive strain
+    - Repetitive Motion
+    - Greater movement variability reduces movement repetition. 
+        - How many [HandClosing]()  methods do you know? 
+    
 
 ## Fall
 
+- How to control a fall
+    - [BodyAbsorb]()
+    - [BodyRedirect]()
+    - [ToSit]()
+
 - BootSnag
-- [BodyAbsorb]()
+    - How to release your foot from a BootSnag.  
+
 
 
 ## Wrist Tendonitis
@@ -27,6 +45,9 @@ Injury due to lack of knowledge
 
 ## Christmas Toe
 
-- [ShovelScreef]() instead of [FootScreef]()
+Don't use your big toe for everything
+
+- [ShovelScreef]() instead of only [FootScreef]()
+- [HandClose]() instead of only [FootClose]() 
 
 ## 
