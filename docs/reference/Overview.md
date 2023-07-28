@@ -3,18 +3,6 @@
 
 [[toc]]
 
-## Planters
-
-### [Potential Planter](/guide/Who/PotentialPlanter)
-
-### [Rookie Planter](/guide/Who/RookiePlanter)
-
-### [Experienced Planter](/guide/Who/ExperiencedPlanter)
-
-### [Planter Supervisor](/guide/Who/PlanterSupervisor)
-
-### [Planter Instructor](/guide/Who/PlanterInstructor)
- 
 
 
 ## How to use the Reference Section
