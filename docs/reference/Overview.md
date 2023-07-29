@@ -25,6 +25,8 @@ Click on the Hash Symbol
 
 ## On This Page
 
+This list is like a Table of Contents for your current page, use it to **navigate** to the Title that you're looking for. 
+
 [InsertImage](Screenshot of Phone)
 [InsertImage](Screenshot of Tablet)
 [InsertImage](Screenshot of Desktop)
