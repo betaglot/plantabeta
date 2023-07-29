@@ -5,6 +5,8 @@ Links to Articles
 Follow the stream of consciousness of BeginnerMind first hearing about Tree Planting
 
 
+
+
 ::: details How much does a planter usually plant in a day?
 
 Range between 1000 and 3000
@@ -21,7 +23,7 @@ On some very difficult Land 500 trees is a good day.
 
 :::
 
-::: details What types of Land are planted?
+::: details What does a typical ?
 
 :::
 
@@ -29,11 +31,22 @@ On some very difficult Land 500 trees is a good day.
 
 :::
 
-::: details 
+::: details How much are Planters paid per tree?
+
+
 
 :::
 
-::: details
+
+::: details How many Planters work in Canada every year?
+
+British Columbia
+
+
+
+:::
+
+::: details What does a Planter's typical day look like?
 
 :::
 
