@@ -93,6 +93,7 @@ function sidebarGuide() {
       text: 'Introduction',
       collapsed: false,
       items: [
+        { text: 'What is Tree Planting?', link: '/guide/What/WhatTreePlanting'},
         { text: 'What is an Element?', link: '/guide/ElementDefinition'},
         { text: 'What is Plantbeta?', link: '/guide/introduction' },
         { text: 'Getting Started', link: '/guide/GettingStarted' },      
