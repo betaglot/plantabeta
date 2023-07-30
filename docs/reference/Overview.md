@@ -1,4 +1,5 @@
 # How to use the Reference Section
+<!-- How to use the Prototype that Kickstarters will see -->
 
 - Reference is laid out similarily to a wikipedia page. There are many links between pages. Links are highlighted as [green text](/reference/Overview) (< this link links to the the current page).
 
@@ -8,36 +9,14 @@
 
 :::
 
-## '# Symbol'
+## Links
 
-Click on the Hash Symbol
-
-### Autoscroll when you click on the '#'
-
-
+- All links are displayed in [green font](/guide/GoBack)
+- Sometimes most of the sentence can be green links.
+    - [LineIn]() over by the [rock]() then [start]() [backfilling]().
 
 
-## Sidebars
 
-[InsertImage](Screenshot of Phone)
-[InsertImage](Screenshot of Tablet)
-[InsertImage](Screenshot of Desktop)
-
-## On This Page
-
-This list is like a Table of Contents for your current page, use it to **navigate** to the Title that you're looking for. 
-
-[InsertImage](Screenshot of Phone)
-[InsertImage](Screenshot of Tablet)
-[InsertImage](Screenshot of Desktop)
-
-## Search
-
-Reference is easy searched by using the Hash symbol # to target the headers of the reference contents.
-
-[InsertImage](Screenshot of Phone)
-[InsertImage](Screenshot of Tablet)
-[InsertImage](Screenshot of Desktop)
 
 ## Glossary
 
