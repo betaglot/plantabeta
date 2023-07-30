@@ -1,30 +1,5 @@
 # Getting Started
 
-The reference section is divided into four subsystems
-
-
-Describe an Image Label an Image
-
-::: tip [LandSystem](/reference/Land/Overview)
-
-Stump, SteepSlope, TrenchLand, Log, RawLand, ClaySoil, Rain, Snow, Road, AirTemperature, RiparianArea, FillBlock, MoundLand
-
-:::
-
-::: warning [MovementSystem](/reference/Movement/Overview)
-
-ShovelScreef, DownClimb, ShovelSwing, StepOver, PunchClose, StompClose, TreeInsert, HoleOpen, FlagRip, LookAt, ArmSwing, DeepSquat 
-
-:::
-
-::: danger [RouteSystem](/reference/Route/Overview)
-
-StumpFill, ZigzagLine, BoustroFill, LogFill, PieceBoundary, MaximumSpacing, GhostLine, HighFlag, LineIn, BoundaryFlag, TurnAroundPoint
-
-:::
-
-::: info [NeuroSystem](/reference/Neuro/Overview)
-:::
 
 - Browse the Reference to find Elements which are novel to you, then follow their links to gain a deeper understanding to how the Element relates to other Elements.
 
@@ -43,11 +18,10 @@ Plantbeta is divided into 6 sections:
 - [Apply]()
     - Get a job
 
-## Links
 
-- All links are displayed in [green font](/guide/GoBack)
-- Sometimes most of the sentence can be green links.
-    - [LineIn]() over by the [rock]() then [start]() [backfilling]().
+
+## [How to Navigate this website.](/guide/How/Navigation)
+
 
 
 ## Choose Your Path

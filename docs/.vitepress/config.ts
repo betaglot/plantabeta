@@ -96,7 +96,8 @@ function sidebarGuide() {
         { text: 'What is Tree Planting?', link: '/guide/What/WhatTreePlanting'},
         { text: 'What is an Element?', link: '/guide/ElementDefinition'},
         { text: 'What is Plantbeta?', link: '/guide/introduction' },
-        { text: 'Getting Started', link: '/guide/GettingStarted' },      
+        { text: 'Getting Started', link: '/guide/GettingStarted' },  
+        { text: 'Navigation', link: '/guide/How/Navigation'}    
       ]
     },
     {
