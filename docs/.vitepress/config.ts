@@ -164,6 +164,8 @@ function sidebarReference() {
       { text: 'Raw', collapsed: true, items: [
         { text: 'RawLand Overview', link: '/reference/Land/Raw/Overview'},
         { text: 'BurnPit', link: '/reference/Land/Raw/BurnPit'},
+        { text: 'BurntLand', link: '/reference/Land/Raw/BurntLand'},
+        
       ]},
       { text: 'Slash', collapsed: true, items: [
         { text: 'Slash Overview', link: '/reference/Land/Slash/Overview'},
