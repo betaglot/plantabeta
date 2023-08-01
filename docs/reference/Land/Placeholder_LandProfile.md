@@ -8,6 +8,14 @@
     </div>
 </div>
 
+## Element Purpose
+
+- 
+
+## Element Properties
+
+- 
+
 ## ElementRelationshipsGraph
 
 Graph which represents how this element is related to other elements in Plantbeta.

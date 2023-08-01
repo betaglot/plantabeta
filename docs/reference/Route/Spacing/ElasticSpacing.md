@@ -1,3 +1,4 @@
+# ElasticSpacing
 
 <div style="display: flex; width: %100; margin-top: 100px;">
     <div style="margin: 5px; width: 50%">
@@ -22,18 +23,18 @@ Graph which represents how this element is related to other elements in Plantbet
 <img height="350" width="350" src="/DirectedGraph_UndirectedGraph.png"/>
 
 ## LandElements
-- Description of how this RouteElement relates to a particular [LandElement]().
-- Description of how this RouteElement relates to a particular [LandElement]().
-- Description of how this RouteElement relates to a particular [LandElement]().
+- [StumpCluster]().
+- [LandSlopeAngle]().
+- [LandElement]().
 ## NeuroElements
-- Description of how this RouteElement relates to a particular [NeuroElement]().
-- Description of how this RouteElement relates to a particular [NeuroElement]().
-- Description of how this RouteElement relates to a particular [NeuroElement]().
+- []().
+- []().
+- [WorkingMemory]().
 
 ## MovementElements
-- Description of how this RouteElement relates to a particular [MovementElement]().
-- Description of how this RouteElement relates to a particular [MovementElement]().
-- Description of how this RouteElement relates to a particular [MovementElement]().
+- [MovementSize]().
+- [LookAt]().
+- [ExtraStep]().
 
 ## Examples
 
@@ -43,6 +44,6 @@ Graph which represents how this element is related to other elements in Plantbet
 
 Links to other related RouteElements. 
 
-- [Link]()
+- [MaximumSpacing]()
 - [Link]()
 - [Link]()

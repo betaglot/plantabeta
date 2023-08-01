@@ -1,9 +1,21 @@
 # Kickstarter
 
+## If Overfunded
+
+- Create a part time position to help with the project.
+
+## Wildfire
+
+- At least replant the plantations
+
 ## Rewards
 
 ::: tip 1 Tree = $0.15 CAD
 :::
+
+## Risks
+
+
 
 ### Planter Sponsor (Unlimited) < $100
 
@@ -48,7 +60,7 @@
  
 ### Diamond Sponsor (2 available) $10,000
 
-- Your name on the Sponsors Page.
+- Your company's name on the Sponsors Page.
 - Your company's logo on the Home page in the most prominent position and size.
 - Your company's name in the footer of each page.
     - "Sponsored by OrganizationName"

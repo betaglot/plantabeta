@@ -33,6 +33,14 @@
     
 </div>
 
+## Element Purpose
+
+- 
+
+## Element Properties
+
+- 
+
 
 ## ElementRelationshipsGraph
 
