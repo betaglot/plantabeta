@@ -316,7 +316,15 @@ function sidebarReference() {
           { text: 'Flag Overview', link: '/reference/Movement/ToolMovement/Flag'},
           { text: 'Gaiter Overview', link: '/reference/Movement/ToolMovement/Gaiter'},
           { text: 'Glove Overview', link: '/reference/Movement/ToolMovement/Glove'},
-          { text: 'Shovel Overview', link: '/reference/Movement/ToolMovement/Shovel'},
+          { text: 'Shovel', collapsed: true, items: [
+            { text: 'Shovel Overview', link: '/reference/Movement/ToolMovement/Shovel/Overview'},
+            { text: 'ShovelChop', link: '/reference/Movement/ToolMovement/Shovel/ShovelChop'},
+            { text: 'ShovelPogo', link: '/reference/Movement/ToolMovement/Shovel/ShovelPogo'},
+            { text: 'ShovelScreef', link: '/reference/Movement/ToolMovement/Shovel/ShovelScreef'},
+            { text: 'ShovelSwing', link: '/reference/Movement/ToolMovement/Shovel/ShovelSwing'},
+            { text: 'ShovelTest', link: '/reference/Movement/ToolMovement/Shovel/ShovelTest'},
+          ]}
+
           
 
         ]},
