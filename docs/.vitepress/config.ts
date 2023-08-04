@@ -19,7 +19,7 @@ export default defineConfig({
         { icon: 'instagram', link: 'https://www.instagram.com/theplantbeta/' }
       ],
       footer: {
-        message: 'Sponsored by "MainSponsor"',
+        message: '',
         copyright: 'Copyright Plantbeta © 2023-present'
       },
       search: {
@@ -75,13 +75,10 @@ function nav(){
       link: '/sponsor/Overview',
       activeMatch: '/sponsor/'
     },
-    {
-      text: 'Apply',
-      link: ''
-    }
+    
     // {
     //   text: 'Apply',
-    //   link: 'https://www.quastuco.com/'
+    //   link: ''
     // }
 
   ]

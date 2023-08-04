@@ -10,6 +10,66 @@ Simple.
 <!-- https://dictionary.cambridge.org/dictionary/english/element -->
 
 
+## Elements of ...
+
+## Elements of Geometry
+
+- Line
+- Move
+- Linear
+-Most concentrated impact
+-Most efficient movement line
+-Point
+
+Pythagorean Theorem
+
+Flower of Life
+
+Equilateral Triangle
+
+- Perfect Spacing
+- perfect density
+- route 
+
+Triangle Sides Theorem 
+
+Route
+
+## Elements of Music
+- rhythm
+- melody
+- harmony
+- tempo
+- pitch 
+
+## Elements of Chemistry
+- periodic table of elements
+- 
+
+## Elements of Design
+
+Line
+
+## Elements of Avatar Bending
+
+Fire
+
+Water
+
+Earth
+
+Air
+
+## Elements of HTML web pages
+
+Paragraph
+
+Link
+
+Flexbox
+
+
+
 ## Geometric Element
 
 [InsertImage] Byrne Euclid Pythagorean and Definition page, FlowerOfLife

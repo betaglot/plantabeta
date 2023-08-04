@@ -8,7 +8,6 @@ hero:
   name: Plantbeta
   text: 
   tagline: How to be a Tree Planter
-  image: /MainSponsorLogo.png
   actions:
     - theme: brand
       text: Get Started
