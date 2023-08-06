@@ -5,13 +5,13 @@ layout: doc
 <script setup>
 import JoinKlimbeta from './Join_Klimbeta_Plantbeta.vue'
 </script>  
-# Why Beta??
 
 
 
-## <u>What is Beta?</u>
 
-### 'Beta' is from the climbing community
+# <u>What is Beta?</u>
+
+## 'Beta' is from the climbing community
 
 - If you're a climber, then you're likely familiar with the term "beta"
 
@@ -31,13 +31,15 @@ import JoinKlimbeta from './Join_Klimbeta_Plantbeta.vue'
 <JoinKlimbeta />
 
 
-## <u>How is Beta used in Planting?</u>
+## How is Beta used in Planting?
 
-## <u>When is Beta used?</u>
-
-
+## When is Beta used?
 
 
-Footnotes:
+
+
+::: details Footnotes:
 
 - https://www.climbernews.com/what-is-climbing-beta/
+
+:::
