@@ -158,3 +158,7 @@ From the end of this planting season to end of next season, I'll be making Plant
 ### Patreon
 
 <img src = '/PatreonLogo.png' width= 10%>
+
+::: tip Send an email to:
+christopheralduncan@gmail.com
+:::

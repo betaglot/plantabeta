@@ -1,5 +1,9 @@
 # Give Feedback
 
+::: tip Send an email to:
+christopheralduncan@gmail.com
+:::
+
 ## Like or Dislike
 
 ## Suggest New [Elements]()

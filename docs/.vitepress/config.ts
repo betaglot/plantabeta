@@ -479,13 +479,11 @@ function sidebarDevelopment() {
   return [
     {text: 'Development Overview', link: '/development/Overview'},
     {text: 'Donate Media', link: '/development/Donation'},
+    {text: 'Downloads', link: '/development/Downloads'},
     {text: 'Feedback', link: '/development/Feedback'},
     {text: 'Research Questions', link: '/development/ResearchQuestions'},
     {text: 'Roadmap', link: '/development/Roadmap'},
-    {text: 'Downloads', link: '/development/Downloads'},
-    { text: 'ElementRelationshipDiagram', link: '/development/ElementRelationshipDiagram'},
-    
-
+    {text: 'ElementRelationshipDiagram', link: '/development/ElementRelationshipDiagram'},
   ]
 }
 

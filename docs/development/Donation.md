@@ -6,5 +6,6 @@
 ## Image Donation
 
 
-
-Send to email:
+::: tip Send an email to:
+christopheralduncan@gmail.com
+:::
