@@ -1,5 +1,17 @@
 # ElementRelationshipDiagram
 
+Related Terms
+
+- Web 
+    - Web of Connections
+    - Connections between Subsystems
+- Tree
+    - Element Hierarchy
+- Network
+    - High Complexity
+- Connectome
+- Graph
+
 
 - https://www.nytimes.com/interactive/2015/05/17/us/elections/2016-presidential-campaigns-staff-connections-clinton-bush-cruz-paul-rubio-walker.html
 

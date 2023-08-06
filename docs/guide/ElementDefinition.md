@@ -1,5 +1,17 @@
 # What is an Element?
 
+## Synonyms
+- Units
+- Foundations
+- First Principles
+
+
+Elements of a system
+
+Systematic Approach
+
+What is a System?
+
 > Elementary, my dear Watson.
 
 Simple.
@@ -9,11 +21,48 @@ Simple.
 
 <!-- https://dictionary.cambridge.org/dictionary/english/element -->
 
+::: details External Links
+
+- https://www.c82.net/euclid/
+
+:::
 
 ## Elements of ...
 
 ## Elements of Geometry
+[InsertImage] Byrne Euclid Pythagorean and Definition page, FlowerOfLife
 
+
+Euclid's Elements
+
+The Euclid's Elements is compilation of elements which was written over x years ago. Until last century most people studied <u>The Elements</u> in school.
+
+Planters mostly use Book 1 which is simple. 
+
+::: tip Definitions
+
+[InsertImage] Title Page
+
+:::
+
+Axioms
+
+[InsertImage]
+
+
+Postulates
+
+[InsertImage]
+
+
+Theorems
+
+[InsertImage]
+
+
+Problems
+
+[InsertImage] 1.1 Equilateral Triangle
 - Line
 - Move
 - Linear
@@ -44,13 +93,28 @@ Route
 
 ## Elements of Chemistry
 - periodic table of elements
-- 
+    - Trends
+    - Groups
+    - Periods 
 
-## Elements of Design
+[InsertImage] PeriodicTable
 
-Line
+> Two elements bonded together in a compound.
+
+Simple chemical substance.
+
+
+::: details External Links
+
+- https://archive.org/details/tom-jackson-the-periodic-table-a-visual-guide-to-the-elements-white-lion-publishing-2020/page/n3/mode/2up
+
+:::
 
 ## Elements of Avatar Bending
+
+Avatar
+
+[InsertImage] Aang
 
 Fire
 
@@ -69,59 +133,6 @@ Link
 Flexbox
 
 
-
-## Geometric Element
-
-[InsertImage] Byrne Euclid Pythagorean and Definition page, FlowerOfLife
-
-
-Euclid's Elements
-
-The Euclid's Elements is compilation of elements which was written over x years ago. Until last century most people studied <u>The Elements</u> in school.
-
-::: tip Definitions
-
-[InsertImage]
-
-:::
-
-Axioms
-
-[InsertImage]
-
-
-Postulates
-
-[InsertImage]
-
-
-Theorems
-
-[InsertImage]
-
-
-Problems
-
-[InsertImage]
-
-
-## Chemical Element
-
-[InsertImage] PeriodicTable
-
-> Two elements bonded together in a compound.
-
-Simple chemical substance.
-
-
-## Air, Water, Earth, Fire
-
-Avatar
-
-[InsertImage] Aang
-
-
-
 ## ElementNames
 
 Like Natural languages Greek, Latin
@@ -136,9 +147,11 @@ Adductor
 
 Abductor
 
-### Affixes
+### Element Name Affixes
 
-#### Prefix
+#### Element Name Prefix
+
+Shovel is a Prefix 
 
 
 ::: tip Shovel
@@ -151,7 +164,9 @@ Abductor
 
 
 
-#### Suffix
+#### Element Name Suffix
+
+Grip is an  Element Name Suffix
 
 ::: tip Grip
 
@@ -172,4 +187,31 @@ Elements are added together to create new, more complex, elements. For example [
 
 ## Element Composition
 
+Element Hierarchy
+
+- Adding Elements together 
+- Increase Complexity
+
 ## Element Decomposition
+
+### Purpose
+
+- Chunking
+- Parsing
+
+### Actions
+
+Break down into Simples
+
+Break down the movement
+
+
+
+Element Hierarchy
+
+[InsertDiagram] Element Tree Branching Down
+
+- Decomposing Elements into more fundamental elements. 
+- Understanding all the definitions
+
+Element ---> Element ---> Definitions
