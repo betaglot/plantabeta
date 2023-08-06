@@ -11,6 +11,10 @@ Related Terms
     - High Complexity
 - Connectome
 - Graph
+    - Dependencies graph
+        - https://writings.stephenwolfram.com/2020/09/the-empirical-metamathematics-of-euclid-and-beyond/
+
+
 
 
 - https://www.nytimes.com/interactive/2015/05/17/us/elections/2016-presidential-campaigns-staff-connections-clinton-bush-cruz-paul-rubio-walker.html

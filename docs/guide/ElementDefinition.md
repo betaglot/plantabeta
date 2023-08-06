@@ -1,16 +1,6 @@
 # What is an Element?
 
-## Synonyms
-- Units
-- Foundations
-- First Principles
-
-
-Elements of a system
-
-Systematic Approach
-
-What is a System?
+## Definition
 
 > Elementary, my dear Watson.
 
@@ -21,16 +11,33 @@ Simple.
 
 <!-- https://dictionary.cambridge.org/dictionary/english/element -->
 
-::: details External Links
 
-- https://www.c82.net/euclid/
+## Synonyms
+- Units
+- Foundations
+- First Principles
+
+
+## System
+
+A systematic approach to Tree Planting.
+
+::: tip What is a System?
+
 
 :::
 
+
+
+
+
+
 ## Elements of ...
 
+
+
 ## Elements of Geometry
-[InsertImage] Byrne Euclid Pythagorean and Definition page, FlowerOfLife
+
 
 
 Euclid's Elements
@@ -39,57 +46,96 @@ The Euclid's Elements is compilation of elements which was written over x years 
 
 Planters mostly use Book 1 which is simple. 
 
-::: tip Definitions
+
 
 [InsertImage] Title Page
 
-:::
-
-Axioms
-
-[InsertImage]
 
 
-Postulates
+### Axioms
 
 [InsertImage]
 
 
-Theorems
+### Postulates
 
 [InsertImage]
 
 
-Problems
+### Theorems
 
-[InsertImage] 1.1 Equilateral Triangle
-- Line
+[InsertImage]
+
+
+### Problems
+
+
+[InsertDiagram] - Line
 - Move
 - Linear
 -Most concentrated impact
 -Most efficient movement line
 -Point
 
-Pythagorean Theorem
+[InsertDiagram] Pythagorean Theorem
 
-Flower of Life
 
-Equilateral Triangle
+[InsertDiagram] Flower of Life
 
+
+
+### Equilateral Triangle
+
+[InsertImage] 1.1 Equilateral Triangle
 - Perfect Spacing
 - perfect density
 - route 
 
-Triangle Sides Theorem 
+### Triangle Sides Theorem 
 
-Route
+### Route
+
+<!--  -->
+::: details Read Further
+
+Wolfram Alpha
+- https://writings.stephenwolfram.com/2020/09/the-empirical-metamathematics-of-euclid-and-beyond/
+
+Byrne's Euclid
+- https://www.c82.net/euclid/
+
+:::
+
+## Elements of a Set
+
+[InsertImage] Venn Diagram set theory
+
+::: tip What is a Set?
+
+Set Theory
+
+- No Duplicates
+
+:::
+
+### Phylogenic Tree
+
+Mammal Example
+
+[InsertImage] Phylogenetic Tree
+
+Plant Example
+
+[InsertImage] Phylogenetic Tree
+
+
 
 ## Elements of Music
-- rhythm
-- melody
-- harmony
-- tempo
-- pitch 
+- Rhythm
+- Melody
+- Harmony
+- Tempo
+- Pitch 
 
 ## Elements of Chemistry
 - periodic table of elements
@@ -160,10 +206,6 @@ Shovel is a Prefix
 
 :::
 
-
-
-
-
 #### Element Name Suffix
 
 Grip is an  Element Name Suffix
@@ -190,22 +232,27 @@ Elements are added together to create new, more complex, elements. For example [
 Element Hierarchy
 
 - Adding Elements together 
+    - Like creating a Chemical Compound
+        - [InsertImage] Water H20
 - Increase Complexity
+- MovementSeries
+- MovementSet
 
 ## Element Decomposition
 
 ### Purpose
 
+- Simplification
 - Chunking
 - Parsing
 
 ### Actions
 
-Break down into Simples
+- Break down into Simples
 
-Break down the movement
+> Break down the movement.
 
-
+> Break down into its component parts.
 
 Element Hierarchy
 
