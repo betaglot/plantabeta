@@ -1,11 +1,15 @@
-# Needless Injury
+# Prevent Needless Injury
 
-Injury due to lack of knowledge
+- Injury due to lack of knowledge
 
 
 ## Rare Situations  
 
 > Situations which rarely occur 
+
+Just in case
+
+In the unlikely event that ...
 
 - Once a week
 - Once a month
@@ -13,8 +17,11 @@ Injury due to lack of knowledge
 - Once a season
 
 ## Nuanced Movement
-    
+
+Planters can get injured when they don't adapt movements to the specific situation
+
 - HandClose with neutral wrist even when angle of approach is not optimal.
+- 
 
 ## Choose Safer Alternatives
 
