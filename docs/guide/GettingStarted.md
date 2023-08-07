@@ -1,8 +1,5 @@
 # Getting Started
 
-
-- Browse the Reference to find Elements which are novel to you, then follow their links to gain a deeper understanding to how the Element relates to other Elements.
-
 ## Website Sections
 
 Plantbeta is divided into 6 sections:
@@ -15,8 +12,7 @@ Plantbeta is divided into 6 sections:
 - [Development]()
     - How this website is being created
 - [Sponsor]()
-- [Apply]()
-    - Get a job
+
 
 
 
@@ -25,6 +21,8 @@ Plantbeta is divided into 6 sections:
 
 
 ## Choose Your Path
+
+[InsertImage] Fork in the road
 
 ### [Potential Planter](/guide/Who/PotentialPlanter)
 

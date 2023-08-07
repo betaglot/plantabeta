@@ -27,14 +27,7 @@ A systematic approach to Tree Planting.
 
 :::
 
-
-
-
-
-
 ## Elements of ...
-
-
 
 ## Elements of Geometry
 
@@ -226,6 +219,8 @@ Each of the Beta Subsystems ([Land](), [Movement](), [Route](), [Neuro]() ) has 
 
 Elements are added together to create new, more complex, elements. For example [ShovelScreef]() = {[HandleGrip](), [ShaftGrip](), [Soil](), [SlopeAngle](), [Slash](), [Attention]()} 
 
+
+## Element Properties
 
 ## Element Composition
 

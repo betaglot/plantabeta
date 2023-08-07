@@ -84,3 +84,11 @@ Links to other related movements. Related because they are the same MovementType
 - [Link]()
 - [Link]()
 - [Link]()
+
+::: details External References
+
+- One
+- Two
+- Three
+
+:::

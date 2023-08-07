@@ -41,3 +41,10 @@ Links to other related NeuroElements.
 - [Link]()
 - [Link]()
 
+::: details External References
+
+- One
+- Two
+- Three
+
+:::

@@ -56,3 +56,11 @@ Links to other related LandElements. Related because they are the same LandType 
 - [Link]()
 - [Link]()
 - [Link]()
+
+::: details External References
+
+- One
+- Two
+- Three
+
+:::

@@ -13,6 +13,7 @@ export default defineConfig({
       ['link', { rel: "icon", type: "image/png", sizes: "16x16", href: "/favicon-16x16.png"}],
       ['link', { rel: "manifest", href: "/site.webmanifest"}],],
    themeConfig: {
+      outline: [2,4],
       logo: 'android-chrome-512x512.png',
       socialLinks: [
         { icon: 'youtube', link: 'https://github.com/vuejs/vitepress' },
@@ -71,7 +72,7 @@ function nav(){
       activeMatch: '/development/'
     },
     {
-      text: 'Sponsor',
+      text: 'Sponsors',
       link: '/sponsor/Overview',
       activeMatch: '/sponsor/'
     },

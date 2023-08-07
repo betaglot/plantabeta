@@ -46,3 +46,11 @@ Links to other related RouteElements.
 - [Link]()
 - [Link]()
 - [Link]()
+
+::: details External References
+
+- One
+- Two
+- Three
+
+:::
