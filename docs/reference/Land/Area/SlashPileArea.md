@@ -1,3 +1,3 @@
-# SlashPileArea
+# 🌲 SlashPileArea
 
 <!-- @include: /../Placeholder_LandProfile.md -->

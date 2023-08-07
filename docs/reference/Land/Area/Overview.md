@@ -1,10 +1,4 @@
----
-
-title: 
-
----
-
-# Area Overview
+# 🌲 Area Overview
 
 # AreaAnatomy
 - Obstacle

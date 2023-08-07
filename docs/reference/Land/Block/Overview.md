@@ -1,10 +1,4 @@
----
-
-title: 
-
----
-
-# Block Overview
+# 🌲 Block Overview
 
 ## Block Anatomy
 - BlockAccess

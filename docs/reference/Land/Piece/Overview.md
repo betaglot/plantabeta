@@ -1,10 +1,4 @@
----
-
-title: 
-
----
-
-# Piece Overview
+# 🌲 Piece Overview
 
 ## PieceAnatomy
 

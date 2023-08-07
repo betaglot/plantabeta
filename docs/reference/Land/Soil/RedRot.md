@@ -1,4 +1,4 @@
-# RedRot
+# 🌲 RedRot
 
 
 ## Dark RedRot

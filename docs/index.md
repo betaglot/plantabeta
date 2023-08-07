@@ -12,7 +12,7 @@ hero:
     - theme: brand
       text: Get Started
       link: /guide/introduction
-    - text: Find
+    - text: 🌲👣🧠✌
       link: /reference/Overview
     - text: Test
       link: /tests/Overview
