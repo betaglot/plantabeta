@@ -1,4 +1,4 @@
-# Bag Overview
+# ✌ Bag Overview
 
 ## Bag Anatomy
 

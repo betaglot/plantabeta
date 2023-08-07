@@ -1,3 +1,3 @@
-# BodySlot
+# ✌ BodySlot
 
 <!-- @include: /../Placeholder_MovementProfile.md -->

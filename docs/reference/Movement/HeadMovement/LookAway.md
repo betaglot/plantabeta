@@ -1,3 +1,3 @@
-# LookAway
+# ✌ LookAway
 
 <!-- @include: /../Placeholder_MovementProfile.md -->
