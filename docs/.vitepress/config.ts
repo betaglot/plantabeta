@@ -446,7 +446,7 @@ function sidebarReference() {
         { text: '👣 MaximumSpacing', link: '/reference/Route/Spacing/MaximumSpacing'},
         { text: '👣 MinimumSpacing', link: '/reference/Route/Spacing/MinimumSpacing'},
         { text: '👣 OptimalSpacing', link: '/reference/Route/Spacing/OptimalSpacing'},
-        { text: '👣 ElasticSpacing', link: '/reference/Route/Spacing/ReactiveSpacing'},
+        { text: '👣 ElasticSpacing', link: '/reference/Route/Spacing/ElasticSpacing'},
         { text: '👣 SpacingOnSlope', link: '/reference/Route/Spacing/SpacingOnSlope'},
   
       ]},
