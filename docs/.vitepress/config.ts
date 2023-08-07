@@ -120,9 +120,9 @@ function sidebarGuide() {
 function sidebarReference() {
   return [
     {text: 'Go to Guide', link: '/guide/introduction'},
-    { text: 'Beta Elements', collapsed: true, items: [
-      {text: 'What is Beta?', link: '/reference/Beta/Overview'},
-      {text: 'Beta Examples', link: '/reference/Beta/BetaExamples'},
+    { text: '💬 Beta Elements', collapsed: true, items: [
+      {text: '💬 What is Beta?', link: '/reference/Beta/Overview'},
+      {text: '💬 Beta Examples', link: '/reference/Beta/BetaExamples'},
     ]},
     { text: '🌲 Land Elements', collapsed: true, items: [
       { text: '🌲 Land Overview', link: '/reference/Land/Overview'},
