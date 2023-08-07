@@ -1,8 +1,21 @@
 # ✌ Movement Overview
 
-## What is Movement?
+## What is a Movement?
 
 ## Movement Types
+
+### Static Movement
+
+No Acceleration
+
+[Stand]()
+
+
+
+### Dynamic Movement
+
+Acceleration
+
 
 ### Movement Tree
 
