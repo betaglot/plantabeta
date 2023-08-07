@@ -39,7 +39,7 @@ Graph which represents how this element is related to other elements in Plantbet
 
 - Use Media donated by Planters. 
 
-## Related RouteElements
+## Related 👣 RouteElements
 
 Links to other related RouteElements. 
 

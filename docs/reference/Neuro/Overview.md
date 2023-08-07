@@ -1,3 +1,3 @@
-# Neuro Overview
+# 🧠 Neuro Overview
 
 <!-- @include: /../Placeholder_NeuroProfile.md -->

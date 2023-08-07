@@ -1,4 +1,4 @@
-# Acceptance
+# 🧠 Acceptance
 
 ## DiscomfortAcceptance
 
