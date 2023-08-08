@@ -62,22 +62,22 @@ Planters mostly use Book 1 which is simple.
 
 
 
-### Axioms
+### Axioms = Element
 
 [InsertImage]
 
 
-### Postulates
+### Postulates = Element
 
 [InsertImage]
 
 
-### Theorems
+### Theorems = Element
 
 [InsertImage]
 
 
-### Problems
+### Problems = Element
 
 
 [InsertDiagram] - Line
@@ -118,6 +118,11 @@ Byrne's Euclid
 
 ## Elements of a Set
 
+{ 1,2,3,4,5...}
+
+1 = Element
+
+
 [InsertImage] Venn Diagram set theory
 
 ::: tip What is a Set?
@@ -141,11 +146,11 @@ Plant Example
 
 
 ## Elements of Music
-- Rhythm
-- Melody
-- Harmony
-- Tempo
-- Pitch 
+- Rhythm = Element
+- Melody = Element
+- Harmony = Element
+- Tempo = Element
+- Pitch = Element
 
 ## Elements of Chemistry
 - periodic table of elements
@@ -154,6 +159,10 @@ Plant Example
     - Periods 
 
 [InsertImage] PeriodicTable
+
+Iron = Element
+Carbon = Element
+Water  = Elements
 
 > Two elements bonded together in a compound.
 
@@ -172,20 +181,40 @@ Avatar
 
 [InsertImage] Aang
 
-Fire
+Fire = Element
 
-Water
+Water = Element
 
-Earth
+Earth = Element
 
-Air
+Air = Element
 
 ## Elements of Skateboarding
 
+Trick = Element
+
+[Element Difficulty](https://www.youtube.com/watch?v=OOg-4mtA3Zo&ab_channel=WIRED)
+
+Level of Complexity
+
 ::: details External Links
 
+I Will Explain This New Olympic Sport To You: Skateboarding
 - https://defector.com/i-will-explain-this-new-olympic-sport-to-you-skateboarding
 
+The ultimate list of skateboard tricks
+- https://www.surfertoday.com/skateboarding/the-ultimate-list-of-skateboard-tricks
+
+Skateboard Trick List
+- https://www.skateboardhere.com/skateboard-trick-list.html
+
+Wikipedia
+- https://en.wikipedia.org/wiki/Freestyle_skateboarding_tricks
+
+- https://www.ign.com/wikis/tony-hawks-pro-skater-1-and-2/Tricks_List#Grab_Tricks
+
+21 Levels of Skateboarding with Tony Hawk: Easy to Complex | WIRED
+- https://www.youtube.com/watch?v=OOg-4mtA3Zo&ab_channel=WIRED
 :::
 
 ## Elements of Gymnastics
