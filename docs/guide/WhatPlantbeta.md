@@ -10,7 +10,7 @@ The reference section is divided into four subsystems
 
 Describe an Image Label an Image
 
-## [🌲](/reference/Land/Overview) --- [✌](/reference/Movement/Overview) --- [👣](/reference/Route/Overview) --- [🧠](/reference/Neuro/Overview) --- [💬](/reference/Beta/Overview)
+## [🌲](/reference/Land/Overview) -- [✌](/reference/Movement/Overview) -- [👣](/reference/Route/Overview) -- [🧠](/reference/Neuro/Overview) -- [💬](/reference/Beta/Overview)
 
 ---
 
