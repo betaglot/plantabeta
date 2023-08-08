@@ -1,6 +1,18 @@
 # What is an Element?
 
+Plantbeta breaks down a planter's experience into simple elements. Each element has its own particular properties which when varied affect 
+
+A change in the properties 
+
+Change Element properties affect how it relates to other elements and changes their properties too. 
+
+Ripple out across the web of relationships. 
+
+Elements are mixed together to create more complex elements or linked together into a new sequence of elements.
+
 ## Definition
+
+
 
 > Elementary, my dear Watson.
 
@@ -16,6 +28,10 @@ Simple.
 - Units
 - Foundations
 - First Principles
+- Fundamental Principal
+- Fundamental Unit
+- Basic Part
+
 
 
 ## System
@@ -163,6 +179,24 @@ Water
 Earth
 
 Air
+
+## Elements of Skateboarding
+
+::: details External Links
+
+- https://defector.com/i-will-explain-this-new-olympic-sport-to-you-skateboarding
+
+:::
+
+## Elements of Gymnastics
+
+::: details External Links
+
+- https://www.gymnastics-history.com/category/code-of-points/
+- https://defector.com/i-will-explain-this-new-olympic-sport-to-you-skateboarding
+- https://apps.apple.com/app/gymsymbol/id1501949485
+
+:::
 
 ## Elements of HTML web pages
 
