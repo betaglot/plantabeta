@@ -197,6 +197,7 @@ Trick = Element
 
 Level of Complexity
 
+
 ::: details External Links
 
 I Will Explain This New Olympic Sport To You: Skateboarding
