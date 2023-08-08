@@ -100,10 +100,12 @@ function sidebarGuide() {
     },
     {
       text: 'Objectives', collapsed: false, items: [
-        { text: 'To Steepen Learning Curve', link: '/guide/Why/LearningCurve'},
-        { text: 'To Increase Communication', link: '/guide/Why/Communication'},
-        { text: 'To Increase Productivity', link: '/guide/Why/Productivity'},
-        { text: 'To Reduce Injury', link: '/guide/Why/Injury'},     
+        { text: '🔥🌲🔥 Replant Burnt Land', link: '/guide/Why/Wildfire'},
+        { text: '✌ Reduce Injury', link: '/guide/Why/Injury'},
+        { text: '👣 Increase Productivity', link: '/guide/Why/Productivity'},
+        { text: '💬 Increase Communication', link: '/guide/Why/Communication'},
+        { text: '🧠 Steepen Learning Curve', link: '/guide/Why/LearningCurve'},
+        { text: '💲 Increase Profit', link: '/guide/Why/Company'}     
       ]
     },
     { text: 'Planter Guide', collapsed: false, items: [
@@ -119,11 +121,8 @@ function sidebarGuide() {
 
 function sidebarReference() {
   return [
-    {text: 'Go to Guide', link: '/guide/introduction'},
-    { text: '💬 Beta Elements', collapsed: true, items: [
-      {text: '💬 What is Beta?', link: '/reference/Beta/Overview'},
-      {text: '💬 Beta Examples', link: '/reference/Beta/BetaExamples'},
-    ]},
+    {text: 'Go to Guide', link: '/guide/WhatPlantbeta'},
+    
     { text: '🌲 Land Elements', collapsed: true, items: [
       { text: '🌲 Land Overview', link: '/reference/Land/Overview'},
       { text: '🌲 Area', collapsed: true, items: [
@@ -456,6 +455,10 @@ function sidebarReference() {
         { text: '👣 CrossingFill', link: '/reference/Route/TeamFill/CrossingFill'},
         { text: '👣 FollowingFill', link: '/reference/Route/TeamFill/FollowingFill'},
       ]},
+    ]},
+    { text: '💬 Beta Elements', collapsed: true, items: [
+      {text: '💬 What is Beta?', link: '/reference/Beta/Overview'},
+      {text: '💬 Beta Examples', link: '/reference/Beta/BetaExamples'},
     ]},
     { text: 'Glossary', link: '/reference/glossary/Glossary' },
     { text: 'Gallery', link: 'reference/gallery/Overview'}  

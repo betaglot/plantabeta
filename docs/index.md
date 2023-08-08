@@ -11,7 +11,7 @@ hero:
   actions:
     - theme: brand
       text: Get Started
-      link: /guide/introduction
+      link: /guide/WhatPlantbeta
     - text: 🌲👣🧠✌💬
       link: /reference/Overview
     - text: Test

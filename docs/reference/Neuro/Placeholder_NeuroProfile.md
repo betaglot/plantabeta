@@ -20,11 +20,15 @@
 Graph which represents how this element is related to other elements in Plantbeta.
 <img height="350" width="350" src="/DirectedGraph_UndirectedGraph.png"/>
 
-## LandElements
+
+## ✌ MovementElements
+
+
+## 🌲 LandElements
 - Description of how this NeuroElement relates to a particular [LandElement]().
 - Description of how this NeuroElement relates to a particular [LandElement]().
 - Description of how this NeuroElement relates to a particular [LandElement]().
-## RouteElements
+## 👣 RouteElements
 - Description of how this NeuroElement relates to a particular [RouteElement]().
 - Description of how this NeuroElement relates to a particular [RouteElement]().
 - Description of how this NeuroElement relates to a particular [RouteElement]().

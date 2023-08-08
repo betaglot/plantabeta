@@ -47,16 +47,16 @@
 Graph which represents how this element is related to other elements in Plantbeta.
 <img height="350" width="350" src="/DirectedGraph_UndirectedGraph.png"/>
 
-## LandElements
+## 🌲 LandElements
 - Description of how this movement relates to a particular [LandElement]().
 - Description of how this movement relates to a particular [LandElement]().
 - Description of how this movement relates to a particular [LandElement]().
-## RouteElements
+## 👣 RouteElements
 - Description of how this movement relates to a particular [RouteElement]().
 - Description of how this movement relates to a particular [RouteElement]().
 - Description of how this movement relates to a particular [RouteElement]().
 
-## NeuroElements
+## 🧠 NeuroElements
 - Description of how this movement relates to a particular [NeuroElement]().
 - Description of how this movement relates to a particular [NeuroElement]().
 - Description of how this movement relates to a particular [NeuroElement]().
