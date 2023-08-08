@@ -8,12 +8,29 @@
     </div>
 </div>
 
-## Element Purpose
+## Questions about the Element
 
-- 
+::: details Questions 1
+
+Answer 1
+
+:::
+
+::: details Questions 2
+
+Answer 2
+
+:::
+
+::: details Questions 3
+
+Answer 3
+
+:::
 
 ## Element Properties
 
+- Size
 - 
 
 ## ElementRelationshipsGraph
@@ -21,17 +38,19 @@
 Graph which represents how this element is related to other elements in Plantbeta.
 <img height="350" width="350" src="/DirectedGraph_UndirectedGraph.png"/>
 
-## ✌ MovementElements
+## Related 🌲 LandElements 🌲
+
+## Related ✌ MovementElements ✌
 - Description of how this LandElement relates to a particular [Movement]().
 - Description of how this LandElement relates to a particular [Movement]().
 - Description of how this LandElement relates to a particular [Movement]().
 
-## 👣 RouteElements
+## Related 👣 RouteElements 👣
 - Description of how this LandElement relates to a particular [RouteElement]().
 - Description of how this LandElement relates to a particular [RouteElement]().
 - Description of how this LandElement relates to a particular [RouteElement]().
 
-## 🧠 NeuroElements
+## Related 🧠 NeuroElements 🧠
 - Description of how this LandElement relates to a particular [NeuroElement]().
 - Description of how this LandElement relates to a particular [NeuroElement]().
 - Description of how this LandElement relates to a particular [NeuroElement]().
@@ -49,7 +68,7 @@ Quotes about this Element
 
 - Use Media donated by Planters. 
 
-## Related 🌲 LandElements  🌲
+## See also:
 
 Links to other related LandElements. Related because they are the same LandType or because they are performed at the same time or within the same sequence. 
 

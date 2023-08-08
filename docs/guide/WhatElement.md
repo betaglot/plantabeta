@@ -31,6 +31,7 @@ A systematic approach to Tree Planting.
 
 ## Elements of Geometry
 
+🔺🔻⬛🔳⭕〰📐compass
 
 
 Euclid's Elements

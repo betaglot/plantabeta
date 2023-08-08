@@ -92,8 +92,8 @@ function sidebarGuide() {
       collapsed: false,
       items: [
         { text: 'What is Tree Planting?', link: '/guide/What/WhatTreePlanting'},
-        { text: 'What is an Element?', link: '/guide/ElementDefinition'},
-        { text: 'What is Plantbeta?', link: '/guide/introduction' },
+        { text: 'What is an Element?', link: '/guide/WhatElement'},
+        { text: 'What is Plantbeta?', link: '/guide/WhatPlantbeta' },
         { text: 'Getting Started', link: '/guide/GettingStarted' },  
         { text: 'Navigation', link: '/guide/How/Navigation'}    
       ]
@@ -488,6 +488,7 @@ function sidebarDevelopment() {
     {text: 'Research Questions', link: '/development/ResearchQuestions'},
     {text: 'Roadmap', link: '/development/Roadmap'},
     {text: 'ElementRelationshipDiagram', link: '/development/ElementRelationshipDiagram'},
+    {text: 'StyleGuide', link: '/development/Style_Guide'},
   ]
 }
 

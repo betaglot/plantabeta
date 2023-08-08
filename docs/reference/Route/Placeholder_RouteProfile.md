@@ -8,6 +8,26 @@
     </div>
 </div>
 
+## Questions about the Element
+
+::: details Questions 1
+
+Answer 1
+
+:::
+
+::: details Questions 2
+
+Answer 2
+
+:::
+
+::: details Questions 3
+
+Answer 3
+
+:::
+
 ## Element Purpose
 
 - 
@@ -21,16 +41,16 @@
 Graph which represents how this element is related to other elements in Plantbeta.
 <img height="350" width="350" src="/DirectedGraph_UndirectedGraph.png"/>
 
-## 🌲 LandElements
+## Related 🌲 LandElements
 - Description of how this RouteElement relates to a particular [LandElement]().
 - Description of how this RouteElement relates to a particular [LandElement]().
 - Description of how this RouteElement relates to a particular [LandElement]().
-## 🧠 NeuroElements
+## Related 🧠 NeuroElements
 - Description of how this RouteElement relates to a particular [NeuroElement]().
 - Description of how this RouteElement relates to a particular [NeuroElement]().
 - Description of how this RouteElement relates to a particular [NeuroElement]().
 
-## ✌ MovementElements
+## Related ✌ MovementElements
 - Description of how this RouteElement relates to a particular [MovementElement]().
 - Description of how this RouteElement relates to a particular [MovementElement]().
 - Description of how this RouteElement relates to a particular [MovementElement]().

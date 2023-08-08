@@ -1,3 +1,7 @@
 # 💬 Beta Examples 💬
 
-Paper[2953,2958] 
+
+
+![Paper_BetaQuote](/Paper_BetaQuote2.jpg)
+
+![Paper_BetaQuote](/Paper_BetaQuote.jpg)

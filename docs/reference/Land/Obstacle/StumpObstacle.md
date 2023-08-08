@@ -9,33 +9,112 @@
     </div>
 </div>
 
-## Element Purpose
+## Questions about StumpObstacle
 
-- 
+::: details Questions 1
 
-## Element Properties
+Answer 1
 
-- 
+:::
+
+::: details Questions 2
+
+Answer 2
+
+:::
+
+::: details Questions 3
+
+Answer 3
+
+:::
+
+## StumpObstacle Properties
+
+[InsertDiagram] Labelled Stump; Green background  
+
+- StumpHeight
+- StumpSide
+- StumpButtressCount
+
+
+
 
 ## ElementRelationshipsGraph
 
 Graph which represents how this element is related to other elements in Plantbeta.
 <img height="350" width="350" src="/DirectedGraph_UndirectedGraph.png"/>
 
-## ✌ MovementElements
-- Description of how this LandElement relates to a particular [Movement]().
-- Description of how this LandElement relates to a particular [Movement]().
-- Description of how this LandElement relates to a particular [Movement]().
+## Related 🌲 LandElements  🌲
 
-## 👣 RouteElements
-- Description of how this LandElement relates to a particular [RouteElement]().
-- Description of how this LandElement relates to a particular [RouteElement]().
-- Description of how this LandElement relates to a particular [RouteElement]().
+### [🌲Microsite]()
 
-## 🧠 NeuroElements
-- Description of how this LandElement relates to a particular [NeuroElement]().
-- Description of how this LandElement relates to a particular [NeuroElement]().
-- Description of how this LandElement relates to a particular [NeuroElement]().
+- 
+
+### [🌲HighStump]()
+
+- 
+
+### [🌲SnowPack]() 
+
+- block snow from crushing the seedling
+
+
+## Related ✌ MovementElements ✌
+
+### [✌ShovelPryScreef]()
+
+- 
+
+### [✌TrunkGrip]()
+
+- 
+
+### [✌CreaseGrip]()
+
+- 
+
+
+👣✌🌲🧠💬
+## Related 👣 RouteElements 👣
+
+### [👣ObstacleFill]
+
+### [👣AreaBoundary]()
+
+- 
+
+### [👣DownSlope]()
+
+- 
+
+### [👣UpSlope]()
+
+- 
+
+### [👣StumpFlag]()
+
+- [FlagSite]()
+
+### [👣BoundaryFlag]() 
+
+- 
+
+### [👣Landmark]() 
+
+- 
+
+### [👣TargetPoint]()
+
+- 
+
+
+## Related 🧠 NeuroElements 🧠
+
+### [🧠Orientation]() 
+- North side of the stump. 
+- 
+- 
 
 ## Quotes
 
@@ -50,7 +129,7 @@ Quotes about this Element
 
 - Use Media donated by Planters. 
 
-## Related 🌲 LandElements  🌲
+## See also:
 
 Links to other related LandElements. Related because they are the same LandType or because they are performed at the same time or within the same sequence. 
 
@@ -60,7 +139,8 @@ Links to other related LandElements. Related because they are the same LandType 
 
 ::: details External References
 
-- One
+1. Wikipedia
+    - https://en.wikipedia.org/wiki/Tree_stump
 - Two
 - Three
 

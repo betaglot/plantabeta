@@ -7,10 +7,25 @@
     </div>
 </div>
 
-## Element Purpose
+## Questions about the Element
 
-- 
+::: details Questions 1
 
+Answer 1
+
+:::
+
+::: details Questions 2
+
+Answer 2
+
+:::
+
+::: details Questions 3
+
+Answer 3
+
+:::
 ## Element Properties
 
 - 
@@ -20,15 +35,16 @@
 Graph which represents how this element is related to other elements in Plantbeta.
 <img height="350" width="350" src="/DirectedGraph_UndirectedGraph.png"/>
 
+## Related 🧠 NeuroElements 🧠
 
-## ✌ MovementElements
+## Related ✌ MovementElements
 
 
-## 🌲 LandElements
+## Related 🌲 LandElements
 - Description of how this NeuroElement relates to a particular [LandElement]().
 - Description of how this NeuroElement relates to a particular [LandElement]().
 - Description of how this NeuroElement relates to a particular [LandElement]().
-## 👣 RouteElements
+## Related 👣 RouteElements
 - Description of how this NeuroElement relates to a particular [RouteElement]().
 - Description of how this NeuroElement relates to a particular [RouteElement]().
 - Description of how this NeuroElement relates to a particular [RouteElement]().
@@ -37,7 +53,7 @@ Graph which represents how this element is related to other elements in Plantbet
 
 - Use Media donated by Planters. 
 
-## Related 🧠 NeuroElements 🧠
+## See also:
 
 Links to other related NeuroElements. 
 

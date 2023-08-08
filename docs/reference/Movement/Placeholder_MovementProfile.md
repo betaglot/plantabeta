@@ -8,6 +8,8 @@
     </div>
 </div>
 
+## Questions about the Element
+
 ## RequiredTools
 
 - Tool1
@@ -47,16 +49,18 @@
 Graph which represents how this element is related to other elements in Plantbeta.
 <img height="350" width="350" src="/DirectedGraph_UndirectedGraph.png"/>
 
-## 🌲 LandElements
+## Related ✌ MovementElements ✌
+
+## Related 🌲 LandElements
 - Description of how this movement relates to a particular [LandElement]().
 - Description of how this movement relates to a particular [LandElement]().
 - Description of how this movement relates to a particular [LandElement]().
-## 👣 RouteElements
+## Related 👣 RouteElements
 - Description of how this movement relates to a particular [RouteElement]().
 - Description of how this movement relates to a particular [RouteElement]().
 - Description of how this movement relates to a particular [RouteElement]().
 
-## 🧠 NeuroElements
+## Related 🧠 NeuroElements
 - Description of how this movement relates to a particular [NeuroElement]().
 - Description of how this movement relates to a particular [NeuroElement]().
 - Description of how this movement relates to a particular [NeuroElement]().
@@ -77,9 +81,11 @@ Quotes about this Movement
 
 - Use Media donated by Planters. 
 
-## Related ✌ MovementElements ✌
+
 
 Links to other related movements. Related because they are the same MovementType or because they are performed at the same time or within the same sequence. 
+
+## See also:
 
 - [Link]()
 - [Link]()

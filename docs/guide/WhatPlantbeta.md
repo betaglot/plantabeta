@@ -8,37 +8,49 @@ Plantbeta is a [system]() which contains four subsystems:
 The reference section is divided into four subsystems
 
 
-Describe an Image Label an Image
+Describe the Elements and their relationships to other Elements
+
+Describe an Image Label an [InsertImage]
 
 ## [🌲](/reference/Land/Overview) -- [✌](/reference/Movement/Overview) -- [👣](/reference/Route/Overview) -- [🧠](/reference/Neuro/Overview) -- [💬](/reference/Beta/Overview)
 
----
 
-### [🌲 LandSystem](/reference/Land/Overview)
+::: details Why Emojis?
 
-Stump, SteepSlope, TrenchLand, Log, RawLand, ClaySoil, Rain, Snow, Road, AirTemperature, RiparianArea, FillBlock, MoundLand
+- Multicultural understanding
+- Universally Rendered.
+- Graphic is easier to find visually.
+- Smaller width than any word which could describe "Land", "Movement", "Neuro", "Route", "Beta" 
 
----
-
-### [✌ MovementSystem](/reference/Movement/Overview)
-
-ShovelScreef, DownClimb, ShovelSwing, StepOver, PunchClose, StompClose, TreeInsert, HoleOpen, FlagRip, LookAt, ArmSwing, DeepSquat 
+:::
 
 ---
 
-### [👣 RouteSystem](/reference/Route/Overview)
+### [🌲 LandSystem 🌲](/reference/Land/Overview)
 
-StumpFill, ZigzagLine, BoustroFill, LogFill, PieceBoundary, MaximumSpacing, GhostLine, HighFlag, LineIn, BoundaryFlag, TurnAroundPoint
-
----
-
-### [🧠 NeuroSystem](/reference/Neuro/Overview)
-
-Attention
+🌲Stump, 🌲SteepSlope, 🌲TrenchLand, 🌲Log, 🌲RawLand, 🌲ClaySoil, 🌲Rain, 🌲Snow, 🌲Road, 🌲AirTemperature, 🌲RiparianArea, 🌲FillBlock, 🌲MoundLand
 
 ---
 
-### 💬 [BetaSystem](/reference/Beta/Overview)
+### [✌ MovementSystem ✌](/reference/Movement/Overview)
+
+✌ShovelScreef, ✌DownClimb, ✌ShovelSwing, ✌StepOver, ✌PunchClose, ✌StompClose, ✌TreeInsert, ✌HoleOpen, ✌FlagRip, ✌LookAt, ✌ArmSwing, ✌DeepSquat 
+
+---
+
+### [👣 RouteSystem 👣](/reference/Route/Overview)
+
+👣StumpFill, 👣ZigzagLine, 👣BoustroFill, 👣LogFill, 👣PieceBoundary, 👣MaximumSpacing, 👣GhostLine, 👣HighFlag, 👣LineIn, 👣BoundaryFlag, 👣TurnAroundPoint
+
+---
+
+### [🧠 NeuroSystem 🧠](/reference/Neuro/Overview)
+
+🧠Attention
+
+---
+
+### [💬 BetaSystem 💬](/reference/Beta/Overview)
 
 
 
@@ -46,7 +58,15 @@ InsertImage(VennDiagram of Beta and Subsystems)
 
 - [Plantbeta](/guide/introduction.html#what-is-plantbeta) is a tool for Tree Planter Education
 
+## Other Sport
 
+Analogy
+
+Isomorphism
+
+- Douglas Hofstadter
+
+Join Table
 
 ## Who uses [Plantbeta](/guide/introduction.html#what-is-plantbeta)?
 
