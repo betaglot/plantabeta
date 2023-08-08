@@ -1,4 +1,4 @@
-# 🌲 BurnPit
+# 🌲 BurnPit 🌲
 
 - The area of land which is the remants of a burnt BurnPile.
 

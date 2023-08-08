@@ -1,4 +1,4 @@
-# 🧠 Sequence
+# 🧠 Sequence 🧠
 
 ## Sequence Error
 

@@ -1,3 +1,3 @@
-# 🧠 Communication
+# 🧠 Communication 🧠
 
 ## Tone

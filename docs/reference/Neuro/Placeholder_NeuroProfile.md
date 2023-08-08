@@ -37,7 +37,7 @@ Graph which represents how this element is related to other elements in Plantbet
 
 - Use Media donated by Planters. 
 
-## Related 🧠 NeuroElements
+## Related 🧠 NeuroElements 🧠
 
 Links to other related NeuroElements. 
 

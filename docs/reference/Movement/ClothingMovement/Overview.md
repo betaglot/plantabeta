@@ -1,4 +1,4 @@
-# ✌ Clothing Overview
+# ✌ Clothing Overview ✌
 
 ## Clothing Properties
 

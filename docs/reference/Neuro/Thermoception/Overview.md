@@ -1,4 +1,4 @@
-# 🧠 Thermoception Overview
+# 🧠 Thermoception Overview 🧠
 
 ## HeatTransfer
 

@@ -1,4 +1,4 @@
-# ✌ Glove Overview
+# ✌ Glove Overview ✌
 
 ## Glove Anatomy
 

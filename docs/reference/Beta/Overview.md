@@ -9,7 +9,7 @@ import JoinKlimbeta from './Join_Klimbeta_Plantbeta.vue'
 
 
 
-# 💬 What is Beta?
+# 💬 What is Beta? 💬
 
 ## 'Beta' is from the climbing community
 

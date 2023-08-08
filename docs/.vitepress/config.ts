@@ -54,7 +54,7 @@ function head(){
 function nav(){
   return [
     { text: 'Guide', 
-      link: '/guide/introduction', 
+      link: '/guide/WhatPlantbeta', 
       activeMatch: '/guide/' },
     {
       text: 'Reference',

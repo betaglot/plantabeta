@@ -1,1 +1,1 @@
-# 🧠 Competition
+# 🧠 Competition 🧠

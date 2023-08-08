@@ -1,4 +1,4 @@
-# ✌ Head Overview
+# ✌ Head Overview ✌
 
 ## Head Anatomy
 

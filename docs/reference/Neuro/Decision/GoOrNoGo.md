@@ -1,4 +1,4 @@
-# 🧠 GoOrNoGo
+# 🧠 GoOrNoGo 🧠
 
 ## Unplantable?
 

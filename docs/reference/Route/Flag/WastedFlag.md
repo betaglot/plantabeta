@@ -1,4 +1,4 @@
-# 👣 WastedFlag
+# 👣 WastedFlag 👣
 
 - LowFlag
 - FlagError

@@ -1,4 +1,4 @@
-# 🌲 BurnPileSlash
+# 🌲 BurnPileSlash 🌲
 
 ## Spacing
 

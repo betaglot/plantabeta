@@ -1,4 +1,4 @@
-# ✌ Truck Overview
+# ✌ Truck Overview ✌
 
 ## Truck Anatomy
 
