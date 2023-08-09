@@ -103,7 +103,7 @@ function sidebarGuide() {
         { text: '🔥🌲🔥 Replant Burnt Land', link: '/guide/Why/Wildfire'},
         { text: '✌ Reduce Injury', link: '/guide/Why/Injury'},
         { text: '👣 Increase Productivity', link: '/guide/Why/Productivity'},
-        { text: '💬 Increase Communication', link: '/guide/Why/Communication'},
+        { text: '💬 Better Communication', link: '/guide/Why/Communication'},
         { text: '🧠 Steepen Learning Curve', link: '/guide/Why/LearningCurve'},
         { text: '💲 Increase Profit', link: '/guide/Why/Company'}     
       ]
@@ -339,61 +339,79 @@ function sidebarReference() {
       ],
     },
     { text: '🧠 Neuro Elements', collapsed: true, items:[
-      { text: '🧠Neuro Overview', link: '/reference/Neuro/Overview'},
-      { text: '🧠Alignment', collapsed: true, items: [
-        { text: '🧠Alignment Overview', link: '/reference/Neuro/Alignment/Overview'},
+      { text: '🧠 Neuro Overview', link: '/reference/Neuro/Overview'},
+      { text: '🧠 Alignment', collapsed: true, items: [
+        { text: '🧠 Alignment Overview', link: '/reference/Neuro/Alignment/Overview'},
       ]},
-      { text: '🧠Attention', collapsed: true, items: [
-        { text: '🧠Attention Overview', link: '/reference/Neuro/Attention/Overview'},
+      { text: '🧠 Attention', collapsed: true, items: [
+        { text: '🧠 Attention Overview', link: '/reference/Neuro/Attention/Overview'},
       ]},
-      { text: '🧠Awareness', collapsed: true, items: [
-        { text: '🧠Awareness Overview', link: '/reference/Neuro/Awareness/Overview'},
+      { text: '🧠 Awareness', collapsed: true, items: [
+        { text: '🧠 Awareness Overview', link: '/reference/Neuro/Awareness/Overview'},
       ]},
-      { text: '🧠Counting', collapsed: true, items: [
-        { text: '🧠Counting Overview', link: '/reference/Neuro/Counting/Overview'},
+      { text: '🧠 Counting', collapsed: true, items: [
+        { text: '🧠 Counting Overview', link: '/reference/Neuro/Counting/Overview'},
       ]},
-      { text: '🧠Decision', collapsed: true, items: [
-        { text: '🧠GoOrNoGo', link: '/reference/Neuro/Decision/GoOrNoGo'},
+      { text: '🧠 Decision', collapsed: true, items: [
+        { text: '🧠  GoOrNoGo', link: '/reference/Neuro/Decision/GoOrNoGo'},
+        { text: '🧠  MicrositeSelection', link: '/reference/Neuro/Decision/MicrositeSelection'},
       ]},
-      { text: '🧠Emotion', collapsed: true, items: [
-        { text: '🧠Emotion Overview', link: '/reference/Neuro/Emotion/Overview'},
-        { text: '🧠Anger', link: '/reference/Neuro/Emotion/Anger'},
-        { text: '🧠Disgust', link: '/reference/Neuro/Emotion/Disgust'},
-        { text: '🧠Fear', link: '/reference/Neuro/Emotion/Fear'},
-        { text: '🧠Joy', link: '/reference/Neuro/Emotion/Joy'},
-        { text: '🧠Sadness', link: '/reference/Neuro/Emotion/Sadness'},
+      { text: '🧠 Emotion', collapsed: true, items: [
+        { text: '🧠 Emotion Overview', link: '/reference/Neuro/Emotion/Overview'},
+        { text: '🧠 Anger', link: '/reference/Neuro/Emotion/Anger'},
+        { text: '🧠 Disgust', link: '/reference/Neuro/Emotion/Disgust'},
+        { text: '🧠 Fear', link: '/reference/Neuro/Emotion/Fear'},
+        { text: '🧠 Joy', link: '/reference/Neuro/Emotion/Joy'},
+        { text: '🧠 Sadness', link: '/reference/Neuro/Emotion/Sadness'},
       ]},
-      { text: '🧠Energy', collapsed: true, items: [
-        { text: '🧠Energy Overview', link: '/reference/Neuro/Energy/Overview'},
+      { text: '🧠 Energy', collapsed: true, items: [
+        { text: '🧠 Energy Overview', link: '/reference/Neuro/Energy/Overview'},
       ]},
-      { text: '🧠Event', collapsed: true, items: [
-        { text: '🧠Event Overview', link: '/reference/Neuro/Event/Overview'},
+      { text: '🧠  Estimation', collapsed: true, items: [
+        { text: '🧠 AreaEstimation', link: '/reference/Neuro/Estimation/AreaEstimation'},
+        { text: '🧠 BagFillEstimation', link: '/reference/Neuro/Estimation/BagFillEstimation'},
+        { text: '🧠 DistanceEstimation', link: '/reference/Neuro/Estimation/DistanceEstimation'},
+        { text: '🧠 TimeEstimation', link: '/reference/Neuro/Estimation/TimeEstimation'},
+        
       ]},
-      { text: '🧠Hearing', collapsed: true, items: [
-        { text: '🧠Hearing Overview', link: '/reference/Neuro/Hearing/Overview'},
-        { text: '🧠ShovelSound', link: '/reference/Neuro/Hearing/Overview'},
-        { text: '🧠SlashSound', link: '/reference/Neuro/Hearing/SlashSound'},
-        { text: '🧠SoilSound', link: '/reference/Neuro/Hearing/SoilSound'},
+      { text: '🧠 Event', collapsed: true, items: [
+        { text: '🧠 Event Overview', link: '/reference/Neuro/Event/Overview'},
       ]},
-      { text: '🧠Music', collapsed: true, items: [
-        { text: '🧠Music Overview', link: '/reference/Neuro/Music/Overview'},
-        { text: '🧠Playlists', link: '/reference/Neuro/Music/Overview'},
+      { text: '🧠 Hearing', collapsed: true, items: [
+        { text: '🧠 Hearing Overview', link: '/reference/Neuro/Hearing/Overview'},
+        { text: '🧠 ShovelSound', link: '/reference/Neuro/Hearing/Overview'},
+        { text: '🧠 SlashSound', link: '/reference/Neuro/Hearing/SlashSound'},
+        { text: '🧠 SoilSound', link: '/reference/Neuro/Hearing/SoilSound'},
+      ]},
+      { text: '🧠  Memory', collapsed: true, items: [
+        { text: '🧠  Overview', link: '/reference/Neuro/Memory/Overview'},
+        { text: '🧠  WorkingMemory', link: '/reference/Neuro/Memory/WorkingMemory'},
+        { text: '🧠  ShortTermMemory', link: '/reference/Neuro/Memory/ShortTermMemory'},
+        { text: '🧠  LongTermMemory', link: '/reference/Neuro/Memory/LongTermMemory'},
+        { text: '🧠  NumberMemory', link: '/reference/Neuro/Memory/NumberMemory'},
+        { text: '🧠  RouteMemory', link: '/reference/Neuro/Memory/RouteMemory'},
+
+
+      ]},
+      { text: '🧠 Music', collapsed: true, items: [
+        { text: '🧠 Music Overview', link: '/reference/Neuro/Music/Overview'},
+        { text: '🧠 Playlists', link: '/reference/Neuro/Music/Overview'},
       
       ]},
-      { text: '🧠Time', collapsed: true, items: [
-        { text: '🧠Time Overview', link: '/reference/Neuro/Time/Overview'},
-        { text: '🧠BagUpTime', link: '/reference/Neuro/Time/BagUpTime'},
-        { text: '🧠DailySchedule', link: '/reference/Neuro/Time/DailySchedule'},
-        { text: '🧠MovementTiming', link: '/reference/Neuro/Time/MovementTiming'},
-        { text: '🧠Planning', link: '/reference/Neuro/Time/Planning'},
-        { text: '🧠Sequence', link: '/reference/Neuro/Time/Sequence'},
-        { text: '🧠Timer', link: '/reference/Neuro/Time/Timer'},
+      { text: '🧠 Time', collapsed: true, items: [
+        { text: '🧠 Time Overview', link: '/reference/Neuro/Time/Overview'},
+        { text: '🧠 BagUpTime', link: '/reference/Neuro/Time/BagUpTime'},
+        { text: '🧠 DailySchedule', link: '/reference/Neuro/Time/DailySchedule'},
+        { text: '🧠 MovementTiming', link: '/reference/Neuro/Time/MovementTiming'},
+        { text: '🧠 Planning', link: '/reference/Neuro/Time/Planning'},
+        { text: '🧠 Sequence', link: '/reference/Neuro/Time/Sequence'},
+        { text: '🧠 Timer', link: '/reference/Neuro/Time/Timer'},
       ]},
       
-      { text: '🧠DistanceEstimation', link: '/reference/Neuro/DistanceEstimation'},
-      { text: '🧠Fatigue', link: '/reference/Neuro/Fatigue'},
-      { text: '🧠Proprioception', link: '/reference/Neuro/Proprioception'},
-      { text: '🧠Thermoception', link: '/reference/Neuro/Thermoception'},
+      { text: '🧠 DistanceEstimation', link: '/reference/Neuro/DistanceEstimation'},
+      { text: '🧠 Fatigue', link: '/reference/Neuro/Fatigue'},
+      { text: '🧠 Proprioception', link: '/reference/Neuro/Proprioception'},
+      { text: '🧠 Thermoception', link: '/reference/Neuro/Thermoception'},
 
     ]},
     { text: '👣 Route Elements', collapsed: true, items: [
@@ -417,6 +435,7 @@ function sidebarReference() {
         { text: '👣 TrenchExitFlag', link: '/reference/Route/Flag/TrenchExitFlag'},
         { text: '👣 WastedFlag', link: '/reference/Route/Flag/WastedFlag'},
       ]},
+
       { text: '👣 ObstacleFill', collapsed: true, items: [
         { text: '👣 ObstacleFill Overview', link: '/reference/Route/ObstacleFill/Overview'},
       ]},
