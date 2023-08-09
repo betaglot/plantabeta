@@ -2,6 +2,12 @@
 
 [InsertImage] Tree Planter planting a tree
 
+Every year millions of trees are planted across Canada. Each plant is planted in a microsite by a planter. A planter must carry 
+
+Every step of the way can be optimized. 
+
+A one percent increase in productivity can 
+
 ::: details Links to Articles
 
 Tree Planting - Province of British Columbia
