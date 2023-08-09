@@ -312,15 +312,55 @@ function sidebarReference() {
         ]},
         { text: '✌ ToolMovement', collapsed: true, items: [
           { text: '✌ Tool Overview', link: '/reference/Movement/ToolMovement/Overview'},
-          { text: '✌ Bag Overview', link: '/reference/Movement/ToolMovement/Bag'},
-          { text: '✌ Boot Overview', link: '/reference/Movement/ToolMovement/Boot'},
-          { text: '✌ Box Overview', link: '/reference/Movement/ToolMovement/Box'},
-          { text: '✌ Bundle Overview', link: '/reference/Movement/ToolMovement/Bundle'},
-          { text: '✌ Flag Overview', link: '/reference/Movement/ToolMovement/Flag'},
-          { text: '✌ Gaiter Overview', link: '/reference/Movement/ToolMovement/Gaiter'},
-          { text: '✌ Glove Overview', link: '/reference/Movement/ToolMovement/Glove'},
+          { text: '✌ Bag', collapsed: true, items: [
+            { text: 'Overview', link: '/reference/Movement/ToolMovement/Bag/Overview'},
+            { text: 'BagAdjustment', link: '/reference/Movement/ToolMovement/Bag/BagAdjustment'},
+            { text: 'BagDeadlift', link: '/reference/Movement/ToolMovement/Bag/BagDeadlift'},
+            { text: 'BagEmpty', link: '/reference/Movement/ToolMovement/Bag/BagEmpty'},
+            { text: 'BaggingUp', link: '/reference/Movement/ToolMovement/Bag/BaggingUp'},
+            { text: 'BagOff', link: '/reference/Movement/ToolMovement/Bag/BagOff'},
+            { text: 'BagOn', link: '/reference/Movement/ToolMovement/Bag/BagOn'},
+            { text: 'BagSlide', link: '/reference/Movement/ToolMovement/Bag/BagSlide'},
+            
+          ]},
+          { text: '✌ Boot ', collapsed: true, items: [
+            { text: 'Overview', link: '/reference/Movement/ToolMovement/Boot/Overview'},
+            { text: 'BootScreef', link: '/reference/Movement/ToolMovement/Boot/BootScreef'},
+            { text: 'LaceKnot', link: '/reference/Movement/ToolMovement/Boot/LaceKnot'},
+          ]},
+            { text: '✌ Box', collapsed: true, items: [
+            { text: 'Overview', link: '/reference/Movement/ToolMovement/Box/Overview'},
+          ]},  
+          { text: '✌ Bundle ', collapsed: true, items: [
+            { text: 'Overview', link: '/reference/Movement/ToolMovement/Bundle/Overview'},
+            { text: 'BundleGrip', link: '/reference/Movement/ToolMovement/Bundle/BundleGrip'},
+            { text: 'BundlePeel', link: '/reference/Movement/ToolMovement/Bundle/BundlePeel'},
+          ]},
+          { text: '✌ Flag', collapsed: true, items: [
+            { text: 'Overview', link: '/reference/Movement/ToolMovement/Flag/Overview'},
+            { text: 'FlagErrorRecovery', link: '/reference/Movement/ToolMovement/Flag/FlagErrorRecovery'},
+            { text: 'FlagKnot', link: '/reference/Movement/ToolMovement/Flag/FlagKnot'},
+            { text: 'FlagLoad', link: '/reference/Movement/ToolMovement/Flag/FlagLoad'},
+            { text: 'FlagRip', link: '/reference/Movement/ToolMovement/Flag/FlagRip'},
+            { text: 'FlagRoll', link: '/reference/Movement/ToolMovement/Flag/FlagRoll'},
+            { text: 'FlagThrow', link: '/reference/Movement/ToolMovement/Flag/FlagThrow'},
+            { text: 'FlagUnload', link: '/reference/Movement/ToolMovement/Flag/FlagUnoad'},
+            { text: 'FlagWeave', link: '/reference/Movement/ToolMovement/Flag/FlagWeave'},
+            { text: 'FlagWrap', link: '/reference/Movement/ToolMovement/Flag/FlagWrap'},
+          ]},
+          
+          
+          { text: '✌ Gaiter ', collapsed: true, items: [
+
+            {text: 'Overview' ,link: '/reference/Movement/ToolMovement/Gaiter/Overview'},
+            {text: 'GaiterOn' ,link: '/reference/Movement/ToolMovement/Gaiter/GaiterOn'},
+            {text: 'GaiterOff' ,link: '/reference/Movement/ToolMovement/Gaiter/GaiterOff'},
+          ]},
+          { text: '✌ Glove', collapsed: true, items:[
+            { text: 'Overview', link: '/reference/Movement/ToolMovement/Glove/Overview'},
+          ]},
           { text: '✌ Shovel', collapsed: true, items: [
-            { text: '✌ Shovel Overview', link: '/reference/Movement/ToolMovement/Shovel/Overview'},
+            { text: '✌ Overview', link: '/reference/Movement/ToolMovement/Shovel/Overview'},
             { text: '✌ ShovelChop', link: '/reference/Movement/ToolMovement/Shovel/ShovelChop'},
             { text: '✌ ShovelPogo', link: '/reference/Movement/ToolMovement/Shovel/ShovelPogo'},
             { text: '✌ ShovelScreef', link: '/reference/Movement/ToolMovement/Shovel/ShovelScreef'},
@@ -332,7 +372,7 @@ function sidebarReference() {
 
         ]},
         { text: '✌ TruckMovement', collapsed: true, items: [
-          { text: '✌ Truck Overview', link: '/reference/Movement/TruckMovement/Overview'},
+          { text: '✌ Overview', link: '/reference/Movement/TruckMovement/Overview'},
           { text: '✌ Sleep', link: '/reference/Movement/TruckMovement/Sleep'},
           { text: '✌ Sit', link: '/reference/Movement/TruckMovement/Sit'},
         ]}
