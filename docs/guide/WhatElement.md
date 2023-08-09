@@ -4,11 +4,13 @@ Plantbeta breaks down a planter's experience into simple elements. Each element 
 
 A change in the properties 
 
+
 Change Element properties affect how it relates to other elements and changes their properties too. 
 
 Ripple out across the web of relationships. 
 
 Elements are mixed together to create more complex elements or linked together into a new sequence of elements.
+
 
 ## Definition
 
