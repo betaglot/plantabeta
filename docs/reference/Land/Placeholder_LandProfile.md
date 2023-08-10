@@ -83,3 +83,15 @@ Links to other related LandElements. Related because they are the same LandType 
 - Three
 
 :::
+
+::: details DesignProcess: PaperPhoto
+
+## DesignProcess: PaperPhoto
+
+![PaperPhoto](/Paper_BetaQuote.jpg)
+
+---
+
+![PaperPhoto](/Paper_BetaQuote2.jpg)
+
+:::

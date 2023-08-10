@@ -70,3 +70,15 @@ Image Sequence of Searching through Sidebar
 #### Example
 
 Image Sequence of Searching through Sidebar
+
+::: details DesignProcess: PaperPhoto
+
+## DesignProcess: PaperPhoto
+
+![PaperPhoto](/Paper_BetaQuote.jpg)
+
+---
+
+![PaperPhoto](/Paper_BetaQuote2.jpg)
+
+:::

@@ -98,3 +98,15 @@ Links to other related movements. Related because they are the same MovementType
 - Three
 
 :::
+
+::: details DesignProcess: PaperPhoto
+
+## DesignProcess: PaperPhoto
+
+![PaperPhoto](/Paper_BetaQuote.jpg)
+
+---
+
+![PaperPhoto](/Paper_BetaQuote2.jpg)
+
+:::

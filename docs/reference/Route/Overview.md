@@ -70,3 +70,17 @@ Don't go over the same place more than once.
 - PinchedArea
 - PinchedPiece
 - 
+
+
+
+::: details DesignProcess: PaperPhoto
+
+## DesignProcess: PaperPhoto
+
+![PaperPhoto](/Paper_BetaQuote.jpg)
+
+---
+
+![PaperPhoto](/Paper_BetaQuote2.jpg)
+
+:::

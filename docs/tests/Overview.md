@@ -41,3 +41,18 @@ https://brilliant.org/
 - [NeuroTest3]()
 - [NeuroTest4]()
 - [NeuroTest5]()
+
+
+
+
+::: details DesignProcess: PaperPhoto
+
+## DesignProcess: PaperPhoto
+
+![PaperPhoto](/Paper_BetaQuote.jpg)
+
+---
+
+![PaperPhoto](/Paper_BetaQuote2.jpg)
+
+:::

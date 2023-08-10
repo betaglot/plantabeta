@@ -2,11 +2,7 @@
 
 [InsertDiagram] Roadmap Timeline Infographic from Canva
 
-::: details PaperPhoto
 
-![](/)
-
-:::
 
 ## What is a Roadmap?
 
@@ -59,3 +55,17 @@ To [Reforest](https://www.lasy.gov.pl/en/information/news/a-forest-is-much-more-
 ## Future Features
 
 - 3D models of the Elements.
+
+
+
+::: details DesignProcess: PaperPhoto
+
+## DesignProcess: PaperPhoto
+
+![PaperPhoto](/Paper_BetaQuote.jpg)
+
+---
+
+![PaperPhoto](/Paper_BetaQuote2.jpg)
+
+:::

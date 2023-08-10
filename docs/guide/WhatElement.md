@@ -346,3 +346,16 @@ OpenHole = LookAtTarget --> ShovelProbeThrow --> ShovelThrow --> ShovelOpenHole
 - https://dictionary.cambridge.org/dictionary/english/element
 
 :::
+
+
+::: details DesignProcess: PaperPhoto
+
+## DesignProcess: PaperPhoto
+
+![PaperPhoto](/Paper_BetaQuote.jpg)
+
+---
+
+![PaperPhoto](/Paper_BetaQuote2.jpg)
+
+:::

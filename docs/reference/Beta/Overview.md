@@ -43,3 +43,17 @@ import JoinKlimbeta from './Join_Klimbeta_Plantbeta.vue'
 - https://www.climbernews.com/what-is-climbing-beta/
 
 :::
+
+
+
+::: details DesignProcess: PaperPhoto
+
+## DesignProcess: PaperPhoto
+
+![PaperPhoto](/Paper_BetaQuote.jpg)
+
+---
+
+![PaperPhoto](/Paper_BetaQuote2.jpg)
+
+:::

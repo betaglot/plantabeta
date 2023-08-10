@@ -26,4 +26,16 @@
 - SquareOff Pocket
 - SquareOff BackLine
 
-<!-- @include: /../Placeholder_RouteProfile.md -->
+
+
+::: details DesignProcess: PaperPhoto
+
+## DesignProcess: PaperPhoto
+
+![PaperPhoto](/Paper_BetaQuote.jpg)
+
+---
+
+![PaperPhoto](/Paper_BetaQuote2.jpg)
+
+:::
