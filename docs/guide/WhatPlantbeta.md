@@ -1,7 +1,8 @@
-# What is [Plantbeta](/guide/introduction.html#what-is-plantbeta)?
+# What is Plantbeta?
 
 <!-- What do Kickstarters need to know about Plantbeta to understand how it adds value to planters -->
 
+## [Systematized](https://dictionary.cambridge.org/dictionary/english/systematize) Tree Planting
 
 Plantbeta is a [system]() which contains four subsystems: 
 
@@ -113,5 +114,16 @@ Join Table
 - [Burns]()
 
 
+::: details DesignProcess: PaperPhoto
+
+## DesignProcess: PaperPhoto
+
+![PaperPhoto](/Paper_BetaQuote.jpg)
+
+---
+
+![PaperPhoto](/Paper_BetaQuote2.jpg)
+
+:::
 
 

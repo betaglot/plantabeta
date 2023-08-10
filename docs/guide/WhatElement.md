@@ -1,42 +1,49 @@
 # What is an Element?
 
+> An element is one of the parts of something that makes it work, or a quality that makes someone or something effective.
+
 Plantbeta breaks down a planter's experience into simple elements. Each element has its own particular properties which when varied affect 
 
-A change in the properties 
+Change Element properties affect how it relates to other elements and changes their properties too. These changes ripple out across Plantbeta's web of relationships.
+
+Com
+
+Hundreds of thousands of hours of practice. Ordered, compiled, structured **Systemized**
+
+Using the same system structure as the fields that you study during the school year. What if there was a touring course which would be 5 hours long? 
+
+Students already use
+
+Slot Tree planting into the system structure template
 
 
-Change Element properties affect how it relates to other elements and changes their properties too. 
+Planters learn how to plant
 
-Ripple out across the web of relationships. 
+Planters already know how to 
 
-Elements are mixed together to create more complex elements or linked together into a new sequence of elements.
+- HierarchySystem
+- SequenceSystem
+- ObjectOrientedProgramming
+- NamingSystem
+- **Textbook Structure**
 
+### Purpose of Elements
 
-## Definition
+- Simplification
+- Chunking
+- Parsing
 
-
-
-> Elementary, my dear Watson.
-
-Simple.
-
-
-> one of the parts of something that makes it work, or a quality that makes someone or something effective
-
-<!-- https://dictionary.cambridge.org/dictionary/english/element -->
-
-
-## Synonyms
+### Synonyms
 - Units
 - Foundations
 - First Principles
 - Fundamental Principal
 - Fundamental Unit
 - Basic Part
+- Building blocks
 
 
-
-## System
+### System
 
 A systematic approach to Tree Planting.
 
@@ -48,9 +55,6 @@ A systematic approach to Tree Planting.
 ## Elements of ...
 
 ## Elements of Geometry
-
-🔺🔻⬛🔳⭕〰📐compass
-
 
 Euclid's Elements
 
@@ -291,36 +295,54 @@ Elements are added together to create new, more complex, elements. For example [
 
 ## Element Composition
 
-Element Hierarchy
+Elements are mixed together to create more complex elements or linked together into a new sequence of elements.
+
+### Element Mixture Composition
 
 - Adding Elements together 
     - Like creating a Chemical Compound
         - [InsertImage] Water H20
 - Increase Complexity
-- MovementSeries
-- MovementSet
+- Element Hierarchy
+
+
+### Element Sequence Composition
+
+A sequential pattern of elements.
+
+- MovementSequence
+    - PlantingSeqence
+- RouteSequence
+- NeuroSequence
 
 ## Element Decomposition
 
-### Purpose
+A full body movement can be broken down into 
 
-- Simplification
-- Chunking
-- Parsing
+### Element Mixture Decomposition
 
-### Actions
+Breaking down an element into more simple elements.
 
-- Break down into Simples
+::: tip Example:
 
-> Break down the movement.
+InsertTree = TreeGrip + BendOver + ShovelProp
 
-> Break down into its component parts.
+:::
 
-Element Hierarchy
+### Element Sequence Decomposition
 
-[InsertDiagram] Element Tree Branching Down
+Breaking down the sequence of elements.
 
-- Decomposing Elements into more fundamental elements. 
-- Understanding all the definitions
+::: tip Example: 
 
-Element ---> Element ---> Definitions
+OpenHole = LookAtTarget --> ShovelProbeThrow --> ShovelThrow --> ShovelOpenHole
+
+:::
+
+
+
+::: details External Links
+
+- https://dictionary.cambridge.org/dictionary/english/element
+
+:::

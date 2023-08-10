@@ -2,11 +2,19 @@
 
 [InsertDiagram] Roadmap Timeline Infographic from Canva
 
+::: details PaperPhoto
+
+![](/)
+
+:::
+
 ## What is a Roadmap?
 
 > A *Roadmap* is
 
 Vertical Timeline
+
+Tree View 
 
 ## Future Developments
 

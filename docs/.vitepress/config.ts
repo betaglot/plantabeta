@@ -548,6 +548,7 @@ function sidebarDevelopment() {
     {text: 'Roadmap', link: '/development/Roadmap'},
     {text: 'ElementRelationshipDiagram', link: '/development/ElementRelationshipDiagram'},
     {text: 'StyleGuide', link: '/development/Style_Guide'},
+    {text: 'PaperPhoto', link: '/development/PaperPhoto'},
   ]
 }
 

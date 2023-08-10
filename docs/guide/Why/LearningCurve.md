@@ -2,7 +2,13 @@
 
 [InsertImage] Learning Curve Graph
 
-- It doesn't need to be totally trial and error.
+::: warning Trial and Error
+
+The difference between intelligence and wisdom is that an intelligent person knows all the theory and practices to solve a problem, but a wise person knows which theories and practices are best suited solve the particular problem.
+
+There will always be an element of Trial and Error in tree planting. A goal of Plantbeta is to minimize Trial and Error's role in learning how to be a planter.
+
+:::
 
 ## Decrease the time it takes to train a RookiePlanter
 
@@ -16,7 +22,5 @@
 
 ## Decrease the time it takes to master Tree Planting
 
-
-
 - Learn all the tricks and tips in fewer seasons.
-- Diminishing returns after the third year
+- Diminishing returns after the third year.
