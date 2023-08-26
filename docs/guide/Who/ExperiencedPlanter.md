@@ -1,10 +1,16 @@
 # Experienced Planter
 
-## Learn How to be an Ambidextrous Planter
+## How to be an AmbidextrousPlanter
 
 To reduce injury caused by repetitive strain.
 
 ::: details DesignProcess: PaperPhoto
+
+## How to become an ElitePlanter
+
+- Highballer
+- Company Highballer
+- Record setting Highballer
 
 ## DesignProcess: PaperPhoto
 

@@ -1,5 +1,111 @@
 # ElementRelationshipDiagram
 
+## Value of PlantbetaElements
+
+
+The fuel of Planting. Data, Knowledge, MetabolicEnergy, Seedlings, Microsite, Product, Service
+
+The value of an Element is it's ability to solve essential a Problems or fulfill essential needs.
+
+Value Producer
+
+Value Consumer
+
+### Example of a Value
+
+- Text
+    - RequiredMove
+    - Force required
+    - Direction of travel
+    - Instruction for what to do next.
+- Number
+    - Density
+    - TreeCount
+    - RouteSequenceNumber
+    - MoveSequenceNumber
+    - StepCount
+- Location
+    - TargetLocation in the Land.
+    - PotentialMicrosite
+    - 
+- Array
+    - MoveSequence
+    - Set of Submoves
+    - RouteSequence
+
+### Outcome > Output
+
+False value is a bunch of features that planters don't use. The value of a stump is not its color (HexadecimalValue, RGB values), rather value comes from the stump's PotentialMicrosites. The RouteElement(PotentialMicrosite, FlagSite) gives the LandElement(Stump) value
+
+Theorem the name of an object, while Problem is the object's values and methods.
+
+
+
+### What are the needs of Move?
+
+- Energy to move.
+- Knowing where to go
+    - Route
+- Knowing how to move
+    - MoveSelection
+
+- Required Tools 
+    - A spade is more valuable than an extractor since it can solve more problems more efficiently. A spade solves the same problems as an extractor and can solve even more problems than an extractor.  
+
+### What are the needs of Route?
+
+- Land to plant seedlings.
+
+### What are the needs of Land?
+
+- Seedlings to plant in Land.
+
+### What are the needs of Neuro
+
+- Knowing to pay attention to in the BetaInstance?
+- Knowing what to do next.
+
+
+
+### Value Exchange
+
+Subsystems give each other value.
+
+The RouteElement(GoodMicrosite, FlagSite) gives the LandElement(Stump) value. The stump gives Route value by providing PotentialMicrosite.
+
+HoleOpen gives value to InsertTree
+
+### Value Chain
+
+Value Stream
+
+Value is added along the chain of steps. PlantingSequence
+
+---
+
+
+## State
+
+---
+
+## Relationship
+
+### Degree of Influence
+
+---
+
+## Element
+
+---
+
+## Hierarchy
+
+---
+
+## Timeline
+
+---
+
 Related Terms
 
 - Web 

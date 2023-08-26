@@ -2,14 +2,116 @@
 
 <!-- What do Kickstarters need to know about Plantbeta to understand how it adds value to planters -->
 
+## How does Plantbeta add Value to Planters?
+
+![ValuePyramid](/ValuePyramid.png)
+
+### Self-Transcendence
+
+- Reforestation
+- Climate Change Action
+
+### Self-Actualization
+
+- Pride in mastering one of the most difficult summer jobs in Canada. 
+
+### Belonging
+
+- Join the collective knowledge.
+- See if you want to belong to the tree planter community . 
+- Belong to the group ExperiencedPlanters or even ElitePlanters.
+
+### Increases Motivation and Hope while reducing Anxiety
+
+- Worrying about what to expect during your Rookie season. 
+- "I can do this"
+
+### Rewarding
+
+- Be able to track your progress as a Planter by the number of elements that you understand.
+- Complete Tests
+
+### Badge Value
+
+- Highballer
+- Personal Best Planting Day
+- Get a perfect score on the tests
+
+### Wellness
+
+- 
+
+### Informs
+
+- What is tree planting really like?
+- Plan what to bring ahead of first planting season
+
+### Provides Access and Informs
+
+- Access to information about being a Planter.
+- Provides access to information about how to plant which currently only exists in the brains of ExperiencedPlanters.
+
+
+### Saves Time and Cost 
+
+- Increased planting rate decreases the number of days it takes to complete a planting season.
+
+### Simplifies and Organizes
+
+- Systematic
+- Easy to search
+- Standardized Naming System
+
+
+### Reduces Risk
+
+- Plantbeta reduces the Risk that a hired RookiePlanter will be a lowballer.
+- Reduces the risk of Injury
+
+### Variety
+
+- Plantbeta provides information about how to plant a variety of different locations across the world.
+
+### Integrates and Connects the Tree Planting Community
+
+- Connects tree planting to sports.
+- Connects RookiePlanters to ExperiencedPlanters
+
+### Reduces Effort
+
+- Plantbeta informs Planters on the 
+- Increased CognitiveEase leads to feelings of effortlessness.
+- Fluid movement through the land.
+- Reduces the distance travelled by planters by using efficient Routing.
+
+### Avoids hassles
+
+- Avoids the hassle of training rookies for PlanterSupervisors, when they have so many other tasks to perform during a planting day.  
+
+### Increases Quality
+
+- Increases the quality of the planted seedlings.
+- Increases the ability of planters.
+
+
+
+::: details Harvard Business Review
+
+- https://hbr.org/2016/09/the-elements-of-value
+
+:::
+
+---
+
 ## [Systematized](https://dictionary.cambridge.org/dictionary/english/systematize) Tree Planting
+
+
+Plantbeta.com is a product. 
+
+Plantbeta will provide a service around the planting season to implement Plantbeta in planting companies. 
 
 Plantbeta is a [system]() which contains four subsystems: 
 
-The reference section is divided into four subsystems
-
-
-Describe the Elements and their relationships to other Elements
 
 Describe an Image Label an [InsertImage]
 
@@ -27,31 +129,31 @@ Describe an Image Label an [InsertImage]
 
 ---
 
-### [🌲 LandSystem 🌲](/reference/Land/Overview)
+### [🌲 Examples of the Land System 🌲](/reference/Land/Overview)
 
 🌲Stump, 🌲SteepSlope, 🌲TrenchLand, 🌲Log, 🌲RawLand, 🌲ClaySoil, 🌲Rain, 🌲Snow, 🌲Road, 🌲AirTemperature, 🌲RiparianArea, 🌲FillBlock, 🌲MoundLand
 
 ---
 
-### [✌ MovementSystem ✌](/reference/Movement/Overview)
+### [✌ Examples of the Move System ✌](/reference/Movement/Overview)
 
 ✌ShovelScreef, ✌DownClimb, ✌ShovelSwing, ✌StepOver, ✌PunchClose, ✌StompClose, ✌TreeInsert, ✌HoleOpen, ✌FlagRip, ✌LookAt, ✌ArmSwing, ✌DeepSquat 
 
 ---
 
-### [👣 RouteSystem 👣](/reference/Route/Overview)
+### [👣 Examples of the Route System 👣](/reference/Route/Overview)
 
 👣StumpFill, 👣ZigzagLine, 👣BoustroFill, 👣LogFill, 👣PieceBoundary, 👣MaximumSpacing, 👣GhostLine, 👣HighFlag, 👣LineIn, 👣BoundaryFlag, 👣TurnAroundPoint
 
 ---
 
-### [🧠 NeuroSystem 🧠](/reference/Neuro/Overview)
+### [🧠 Examples of the Neuro System 🧠](/reference/Neuro/Overview)
 
 🧠Attention
 
 ---
 
-### [💬 BetaSystem 💬](/reference/Beta/Overview)
+### [💬 Examples of the Beta System 💬](/reference/Beta/Overview)
 
 
 
