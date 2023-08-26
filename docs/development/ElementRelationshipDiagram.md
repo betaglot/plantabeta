@@ -15,7 +15,11 @@ Related Terms
         - https://writings.stephenwolfram.com/2020/09/the-empirical-metamathematics-of-euclid-and-beyond/
 
 
+- https://healthtech.teknologiateollisuus.fi/en/upgraded-startup-sig/health-ecosystem-maps/helsinki-health-ecosystem-metro-map
 
+- http://startupsac.com/sse/
+
+- https://visiblenetworklabs.com/guides/relationship-mapping-for-public-health/
 
 - https://www.nytimes.com/interactive/2015/05/17/us/elections/2016-presidential-campaigns-staff-connections-clinton-bush-cruz-paul-rubio-walker.html
 
