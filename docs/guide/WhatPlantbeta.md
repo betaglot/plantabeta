@@ -137,7 +137,7 @@ Describe an Image Label an [InsertImage]
 
 ### [✌ Examples of the Move System ✌](/reference/Movement/Overview)
 
-✌ShovelScreef, ✌DownClimb, ✌ShovelSwing, ✌StepOver, ✌PunchClose, ✌StompClose, ✌TreeInsert, ✌HoleOpen, ✌FlagRip, ✌LookAt, ✌ArmSwing, ✌DeepSquat 
+✌SpadeScreef, ✌DownClimb, ✌SpadeSwing, ✌StepOver, ✌PunchClose, ✌StompClose, ✌TreeInsert, ✌HoleOpen, ✌FlagRip, ✌LookAt, ✌ArmSwing, ✌DeepSquat 
 
 ---
 

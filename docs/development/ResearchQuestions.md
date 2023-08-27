@@ -69,7 +69,7 @@
 - When did tree planting start in Canada?
 - Are there any 5th generation planters in Canada?
 - Why do planters use spades instead of hoes?
-- What is the difference between a spade and a shovel?
+- What is the difference between a spade and a Spade?
 - 
 - 
 - 

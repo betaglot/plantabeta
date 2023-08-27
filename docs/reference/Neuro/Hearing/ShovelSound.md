@@ -1,3 +1,3 @@
-# 🧠 ShovelSound 🧠
+# 🧠 SpadeSound 🧠
 
 <!-- @include: /../Placeholder_NeuroProfile.md -->

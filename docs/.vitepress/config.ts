@@ -249,8 +249,8 @@ function sidebarReference() {
           { text: '✌ HandPoke', link: '/reference/Movement/HandMovement/HandPoke'},
           { text: '✌ HandScreef', link: '/reference/Movement/HandMovement/HandScreef'},
           { text: '✌ InsertTree', link: '/reference/Movement/HandMovement/InsertTree'},
-          { text: '✌ ShovelHandleGrip', link: '/reference/Movement/HandMovement/ShovelHandleGrip'},
-          { text: '✌ ShovelShaftGrip', link: '/reference/Movement/HandMovement/ShovelShaftGrip'},
+          { text: '✌ SpadeHandleGrip', link: '/reference/Movement/HandMovement/SpadeHandleGrip'},
+          { text: '✌ SpadeShaftGrip', link: '/reference/Movement/HandMovement/SpadeShaftGrip'},
           { text: '✌ TreeGrip', link: '/reference/Movement/HandMovement/Overview'},
           { text: '✌ TreeTestGrip', link: '/reference/Movement/HandMovement/TreeTestGrip'},
         ]},
@@ -307,7 +307,7 @@ function sidebarReference() {
           { text: '✌ Screefing Overview', link: '/reference/Movement/ScreefMovement/Overview'},
           { text: '✌ BootScreef', link: '/reference/Movement/ToolMovement/Boot/BootScreef'},
           { text: '✌ HandScreef', link: '/reference/Movement/HandMovement/HandScreef'},
-          { text: '✌ ShovelScreef', link: '/reference/Movement/ToolMovement/Shovel/ShovelScreef'},
+          { text: '✌ SpadeScreef', link: '/reference/Movement/ToolMovement/Spade/SpadeScreef'},
 
         ]},
         { text: '✌ ToolMovement', collapsed: true, items: [
@@ -359,13 +359,13 @@ function sidebarReference() {
           { text: '✌ Glove', collapsed: true, items:[
             { text: 'Overview', link: '/reference/Movement/ToolMovement/Glove/Overview'},
           ]},
-          { text: '✌ Shovel', collapsed: true, items: [
-            { text: '✌ Overview', link: '/reference/Movement/ToolMovement/Shovel/Overview'},
-            { text: '✌ ShovelChop', link: '/reference/Movement/ToolMovement/Shovel/ShovelChop'},
-            { text: '✌ ShovelPogo', link: '/reference/Movement/ToolMovement/Shovel/ShovelPogo'},
-            { text: '✌ ShovelScreef', link: '/reference/Movement/ToolMovement/Shovel/ShovelScreef'},
-            { text: '✌ ShovelSwing', link: '/reference/Movement/ToolMovement/Shovel/ShovelSwing'},
-            { text: '✌ ShovelTest', link: '/reference/Movement/ToolMovement/Shovel/ShovelTest'},
+          { text: '✌ Spade', collapsed: true, items: [
+            { text: '✌ Overview', link: '/reference/Movement/ToolMovement/Spade/Overview'},
+            { text: '✌ SpadeChop', link: '/reference/Movement/ToolMovement/Spade/SpadeChop'},
+            { text: '✌ SpadePogo', link: '/reference/Movement/ToolMovement/Spade/SpadePogo'},
+            { text: '✌ SpadeScreef', link: '/reference/Movement/ToolMovement/Spade/SpadeScreef'},
+            { text: '✌ SpadeSwing', link: '/reference/Movement/ToolMovement/Spade/SpadeSwing'},
+            { text: '✌ SpadeTest', link: '/reference/Movement/ToolMovement/Spade/SpadeTest'},
           ]}
 
           
@@ -419,7 +419,7 @@ function sidebarReference() {
       ]},
       { text: '🧠 Hearing', collapsed: true, items: [
         { text: '🧠 Hearing Overview', link: '/reference/Neuro/Hearing/Overview'},
-        { text: '🧠 ShovelSound', link: '/reference/Neuro/Hearing/Overview'},
+        { text: '🧠 SpadeSound', link: '/reference/Neuro/Hearing/Overview'},
         { text: '🧠 SlashSound', link: '/reference/Neuro/Hearing/SlashSound'},
         { text: '🧠 SoilSound', link: '/reference/Neuro/Hearing/SoilSound'},
       ]},
@@ -497,7 +497,6 @@ function sidebarReference() {
         { text: '👣 SpiralLine', link: '/reference/Route/RouteLine/SpiralLine'},
         { text: '👣 TurnAroundLine', link: '/reference/Route/RouteLine/TurnAroundLine'},
         { text: '👣 ZigzagLine', link: '/reference/Route/RouteLine/ZigzagLine'},
-
       ]},
       { text: '👣 Spacing', collapsed: true, items: [
         { text: '👣 Spacing Overview', link: '/reference/Route/Spacing/Overview'},
@@ -508,11 +507,11 @@ function sidebarReference() {
         { text: '👣 SpacingOnSlope', link: '/reference/Route/Spacing/SpacingOnSlope'},
   
       ]},
-      { text: '👣 TeamFill', collapsed: true, items: [
-        { text: '👣 TeamFill Overview', link: '/reference/Route/TeamFill/Overview'},
-        { text: '👣 BouncingFill', link: '/reference/Route/TeamFill/BouncingFill'},
-        { text: '👣 CrossingFill', link: '/reference/Route/TeamFill/CrossingFill'},
-        { text: '👣 FollowingFill', link: '/reference/Route/TeamFill/FollowingFill'},
+      { text: '👣 TeamPlant', collapsed: true, items: [
+        { text: '👣 TeamPlant Overview', link: '/reference/Route/TeamPlant/Overview'},
+        { text: '👣 BouncingFill', link: '/reference/Route/TeamPlant/BouncingFill'},
+        { text: '👣 CrossingFill', link: '/reference/Route/TeamPlant/CrossingFill'},
+        { text: '👣 FollowingFill', link: '/reference/Route/TeamPlant/FollowingFill'},
       ]},
     ]},
     { text: '💬 Beta Elements', collapsed: true, items: [

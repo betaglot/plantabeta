@@ -20,7 +20,7 @@ Use single words instead of phrases when useful, but not as a rule. There's no p
 
 ### Planter to planter
 
-TeamFill
+TeamPlant
 
 Make a plan
 

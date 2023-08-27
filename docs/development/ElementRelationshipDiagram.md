@@ -13,6 +13,7 @@ Value Consumer
 
 ### Example of a Value
 
+
 - Text
     - RequiredMove
     - Force required
@@ -69,19 +70,64 @@ Theorem the name of an object, while Problem is the object's values and methods.
 
 ### Value Exchange
 
+A complex
+
+The value exchange of woven fiber neighbors is the tension force holding each other in place. Warp Weft. ForceExchange.
+
 Subsystems give each other value.
 
 The RouteElement(GoodMicrosite, FlagSite) gives the LandElement(Stump) value. The stump gives Route value by providing PotentialMicrosite.
 
-HoleOpen gives value to InsertTree
+
+What does paired element get in return?
 
 ### Value Chain
 
 Value Stream
 
+Value added along the sequence
+
+Like Bioamplification of poison in Predatory Birds 
+
+Exponential 
+
+[Addition of MarginalGains Infographic]
+
+MoveValue
+
+- Successful SpadeProbe PositiveLandTest. The Spade goes in deep enough to bury the seedling's roots.
+
+HoleOpen gives value to InsertTree
+
+RelativeValue
+
+- TallPersonBeta 
+    - "That ContactSurface isn't useful for me"
+    - TeamPlant
+
+LandValue
+- RockCap is not valuable for planting.
+- CreamyLand
+
 Value is added along the chain of steps. PlantingSequence
 
+MicrositeValidation Threshold MinimumValue
+- SoilProperties
+- ObstacleFill
+- 
+
+Microsite gets more and more valuable until the hole is closed
+
 ---
+
+## How to Read the Diagram
+
+EyePath
+
+Sequence
+
+UX
+
 
 
 ## State

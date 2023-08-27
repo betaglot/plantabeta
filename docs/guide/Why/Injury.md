@@ -50,14 +50,14 @@ Planters can get injured when they don't adapt movements to the specific situati
 
 ## Wrist Tendonitis
 
-- [ArmAbsorb]() during the impact of [ShovelThrow]()
+- [ArmAbsorb]() during the impact of [SpadeThrow]()
 - 
 
 ## Christmas Toe
 
 Don't use your big toe for everything
 
-- [ShovelScreef]() instead of only [FootScreef]()
+- [SpadeScreef]() instead of only [FootScreef]()
 - [HandClose]() instead of only [FootClose]() 
 
 ## 

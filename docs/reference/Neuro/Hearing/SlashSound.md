@@ -1,6 +1,6 @@
 # 🧠 Soil Sound 🧠
 
-## ShovelSoilTest
+## SpadeSoilTest
 
 ## Loudness
 

@@ -261,12 +261,12 @@ Abductor
 
 #### Element Name Prefix
 
-Shovel is a Prefix 
+Spade is a Prefix 
 
 
-::: tip Shovel
+::: tip Spade
 
-**Shovel**Grip, **Shovel**Open, **Shovel** Close, **Shovel**Screef, **Shovel**Swing, **Shovel**Prop
+**Spade**Grip, **Spade**Open, **Spade** Close, **Spade**Screef, **Spade**Swing, **Spade**Prop
 
 :::
 
@@ -276,7 +276,7 @@ Grip is an  Element Name Suffix
 
 ::: tip Grip
 
-Shovel**Grip**, Tree**Grip**, Box**Grip**, Branch**Grip**, Bag**Grip**, Log**Grip**, Stump**Grip**, Handle**Grip**, Bundle**Grip**
+Spade**Grip**, Tree**Grip**, Box**Grip**, Branch**Grip**, Bag**Grip**, Log**Grip**, Stump**Grip**, Handle**Grip**, Bundle**Grip**
 
 :::
 
@@ -288,7 +288,7 @@ Route
 
 Each of the Beta Subsystems ([Land](), [Movement](), [Route](), [Neuro]() ) has its own elements, although most elements are a combination of all four subsystems. For example [HandClose]() depends on the [SoilType]() (Land), [Touch and Pressure sensations]() (Neuro), and the obstacles which narrow the range of [approach trajectories]() possible to perform the [HandClose]() (Route).
 
-Elements are added together to create new, more complex, elements. For example [ShovelScreef]() = {[HandleGrip](), [ShaftGrip](), [Soil](), [SlopeAngle](), [Slash](), [Attention]()} 
+Elements are added together to create new, more complex, elements. For example [SpadeScreef]() = {[HandleGrip](), [ShaftGrip](), [Soil](), [SlopeAngle](), [Slash](), [Attention]()} 
 
 
 ## Element Properties
@@ -325,7 +325,7 @@ Breaking down an element into more simple elements.
 
 ::: tip Example:
 
-InsertTree = TreeGrip + BendOver + ShovelProp
+InsertTree = TreeGrip + BendOver + SpadeProp
 
 :::
 
@@ -335,7 +335,7 @@ Breaking down the sequence of elements.
 
 ::: tip Example: 
 
-OpenHole = LookAtTarget --> ShovelProbeThrow --> ShovelThrow --> ShovelOpenHole
+OpenHole = LookAtTarget --> SpadeProbeThrow --> SpadeThrow --> SpadeOpenHole
 
 :::
 

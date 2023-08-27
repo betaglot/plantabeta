@@ -2,7 +2,7 @@
 
 ## Tool List
 
- - Shovel
+ - Spade
  - PlantingBags
  - Gloves
  - CacheBag

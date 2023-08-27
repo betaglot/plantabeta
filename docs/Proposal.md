@@ -39,7 +39,7 @@ The best resource which can be found is Replant.ca, but this site could be bette
         - It's more efficient to AreaFill than PerimeterFill (RouteElements) a PocketArea.
         - You need to define the boundaries of the area (NeuroElement).
     - [HandScreef](/reference/Movement/HandMovement/HandScreef)
-        - The SoilType (LandElement) determines if you ShovelScreef or HandScreef.
+        - The SoilType (LandElement) determines if you SpadeScreef or HandScreef.
         - You need to see and feel (NeuroElements) where the duff layer becomes MineralSoil to perform an effective HandScreef.
     - [BackFill](/reference/Route/PieceFill/BackFill)
         - The shape of the Piece (LandElement) determines if you want to BackFill or AreaFill.

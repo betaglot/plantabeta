@@ -41,9 +41,9 @@
     - CutBank [InsertImage]   
 ### Paddling
 
-- Paddle = Shovel
-    - [ShovelScreef]() is like taking a forward stroke or a draw stroke with a canoe paddle 
-    - [ShovelGrip]()
+- Paddle = Spade
+    - [SpadeScreef]() is like taking a forward stroke or a draw stroke with a canoe paddle 
+    - [SpadeGrip]()
         - [ShaftGrip]()
         - [HandleGrip]()
 

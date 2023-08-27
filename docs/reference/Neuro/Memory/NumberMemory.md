@@ -22,5 +22,5 @@ How many trees did you bag up?
 
 ## GiveBundle
 
-How many bundles di you give someone while TeamFilling.
+How many bundles di you give someone while TeamPlanting.
 
