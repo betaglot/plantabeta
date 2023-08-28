@@ -1,11 +1,19 @@
 # ElementRelationshipDiagram
 
-## Value of PlantbetaElements
+## Value of PlantbetaElements to Other PlantbetaElements
 
+::: warning Not Value of Plantbeta in general
+
+The properties and actions of an element gives value 
+
+All elements are interdependent. 
+
+:::
+
+Elements are only valuable if they can be used to solve essential a Problems or fulfill essential needs. 
 
 The fuel of Planting. Data, Knowledge, MetabolicEnergy, Seedlings, Microsite, Product, Service
 
-The value of an Element is it's ability to solve essential a Problems or fulfill essential needs.
 
 Value Producer
 
@@ -83,29 +91,26 @@ What does paired element get in return?
 
 ### Value Chain
 
-Value Stream
+Also known as a Value Stream.
 
-Value added along the sequence
+Value is added along a sequence of steps. Like Bioamplification of poison in Predatory Birds 
 
-Like Bioamplification of poison in Predatory Birds 
+- Exponential 
+- [Addition of MarginalGains Infographic]
 
-Exponential 
 
-[Addition of MarginalGains Infographic]
-
-MoveValue
-
+#### MoveValue
 - Successful SpadeProbe PositiveLandTest. The Spade goes in deep enough to bury the seedling's roots.
+- HoleOpen gives value to InsertTree
 
-HoleOpen gives value to InsertTree
-
-RelativeValue
-
+#### RelativeValue
 - TallPersonBeta 
     - "That ContactSurface isn't useful for me"
     - TeamPlant
 
-LandValue
+#### RouteValue
+
+#### LandValue
 - RockCap is not valuable for planting.
 - CreamyLand
 

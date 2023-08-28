@@ -1,6 +1,11 @@
-# What is Plantbeta?
+# [Systematized](https://dictionary.cambridge.org/dictionary/english/systematize) Tree Planting
 
-<!-- What do Kickstarters need to know about Plantbeta to understand how it adds value to planters -->
+Plantbeta.com is a **product**. 
+
+Plantbeta will provide a **service** to planting companies before and during the planting season. 
+
+
+![Gif of BetaLabelled PlantingSequence]()
 
 ## How does Plantbeta add Value to Planters?
 
@@ -8,53 +13,55 @@
 
 ### Self-Transcendence
 
-- Reforestation
-- Climate Change Action
+- Plantbeta makes Reforestation easier. Reforestation directly or indirectly benefits every species of life on earth. 
+- Learning how to plant trees is a Climate Change Action. Planters are the people who implement the tree planting initiatives of organizations around the world. 
 
 ### Self-Actualization
 
-- Pride in mastering one of the most difficult summer jobs in Canada. 
+- Take pride in mastering one of the most difficult manual labor jobs in Canada.
+-   
 
 ### Belonging
 
-- Join the collective knowledge.
+- Join the collective consciousness of the tree planting and reforestation communities.
 - See if you want to belong to the tree planter community . 
 - Belong to the group ExperiencedPlanters or even ElitePlanters.
 
 ### Increases Motivation and Hope while reducing Anxiety
 
-- Worrying about what to expect during your Rookie season. 
+- Plantbeta reduced the worrying about what to expect during your Rookie season. 
 - "I can do this"
+- The fear of the unknown, especially unknown unknowns, can be paralyzing. Plantbeta is being created to minimize the number of unknowns in a tree planter's experience.
+- There is a whole page in Plantbeta specifically devoted to Motivation. It's easy to become unmotivated when you're tired, you've spent the past few days in the rain and the land is difficult, but there is knowledge that Planters and PlanterSupervisors can use to keep planting! 
 
 ### Rewarding
 
-- Be able to track your progress as a Planter by the number of elements that you understand.
+- Plantbeta is designed to increase the planting rate of any Planter, therefore increasing the income of any Planter who studies Plantbeta.
+- Be able to track your progress as a Planter by the number of elements that you've understood then mastered.
 - Complete Tests
 
 ### Badge Value
 
-- Highballer
-- Personal Best Planting Day
-- Get a perfect score on the tests
+- By learning all the theory and practices of Plantbeta, you can become a Highballer. 
+- Increase your Personal Best (PB) Planting Day. Planting 2,000 in a day is a standard checkpoint for planters across Canada.
+- Total trees planted during your career is usually 100,000+. Achieving a million trees planting is a badge to be proud of. 
+- Get a perfect score on Plantbeta's tests to add to your CV when applying for planter jobs. 
 
 ### Wellness
 
 - 
 
-### Informs
+### Provides Access and Informs
 
 - What is tree planting really like?
 - Plan what to bring ahead of first planting season
-
-### Provides Access and Informs
-
 - Access to information about being a Planter.
 - Provides access to information about how to plant which currently only exists in the brains of ExperiencedPlanters.
 
 
 ### Saves Time and Cost 
 
-- Increased planting rate decreases the number of days it takes to complete a planting season.
+- Plantbeta is designed to increase a Planter's planting rate, which will decrease the number of days it takes to complete a planting season. Shorter seasons means less money spent on feeding, transporting and housing planters.
 
 ### Simplifies and Organizes
 
@@ -103,17 +110,6 @@
 
 ---
 
-## [Systematized](https://dictionary.cambridge.org/dictionary/english/systematize) Tree Planting
-
-
-Plantbeta.com is a product. 
-
-Plantbeta will provide a service around the planting season to implement Plantbeta in planting companies. 
-
-Plantbeta is a [system]() which contains four subsystems: 
-
-
-Describe an Image Label an [InsertImage]
 
 ## [🌲](/reference/Land/Overview) -- [✌](/reference/Movement/Overview) -- [👣](/reference/Route/Overview) -- [🧠](/reference/Neuro/Overview) -- [💬](/reference/Beta/Overview)
 
