@@ -16,11 +16,14 @@ The fuel of Planting. Data, Knowledge, MetabolicEnergy, Seedlings, Microsite, Pr
 
 
 Value Producer
+- ValueCreation
+- ValueAddition
+- ValueSubtraction
 
 Value Consumer
+- ValueCapture
 
 ### Example of a Value
-
 
 - Text
     - RequiredMove
@@ -52,6 +55,37 @@ Theorem the name of an object, while Problem is the object's values and methods.
 
 ### What are the needs of Move?
 
+### MoveElementValue
+- SavesTime
+- Simplifies      
+- ReducesRisk
+    - SpadeProbe
+- Organizes
+- Integrates
+- Connects
+    - TransitionMove
+- ReducesEffort
+- AvoidsHassles
+    - BodyRotate before BodySlot to prevent BagSnag
+    - Any Snag is a hassle
+- ReducesCost
+    - Flag is a cost in money terms and planter resources too.
+- Variety
+    - A highly adaptable Move
+    - Versitile
+- SensoryAppeal
+    - SpadeProbe
+- Informs
+    - SpadeProbe
+- Access
+
+
+MoveSelection.MoveEvaluation
+    - "Is that the **best** move for the current BetaInstance"
+    - Neuro.Judgement
+        - All evaluations are judgements. See Kahneman
+    - What is the most valuable move gi
+    - Which move solves the current state?
 - Energy to move.
 - Knowing where to go
     - Route
@@ -64,16 +98,77 @@ Theorem the name of an object, while Problem is the object's values and methods.
 ### What are the needs of Route?
 
 - Land to plant seedlings.
+- RouteSelection.RouteEvaluation
+
+### RouteElementValue
+- Simplifies
+    - A RouteLine is more simple than RouteShape.
+- SavesTime
+    - Most direct Route
+    - Minimium ObstacleDensity
+- ReducesEffort
+    - Most direct Route
+    - Minimium ObstacleDensity
+
+- SavesTime
+- Simplifies      
+- ReducesRisk
+- Organizes
+- Integrates
+- Connects
+- ReducesEffort
+- AvoidsHassles
+- ReducesCost
+- Variety    
+- SensoryAppeal
+- Informs
+- Access
 
 ### What are the needs of Land?
 
 - Seedlings to plant in Land.
+- MicrositeEvaluation
+    - SaveTime
+
+### LandElementValue 
+- SavesTime
+    - ObstacleDensity
+    - A Microsite is more Valuable after it has been Screefed. Unless the soil is very thin and the Screefing destroyed the Microsite.
+
+- Simplifies      
+- ReducesRisk
+- Organizes
+- Integrates
+- Connects
+- ReducesEffort
+    - Easy HoleMove in CreamyLand is HighLandValue.
+    - Strenuous SlashMove in SlashyLand is LowLandValue.
+- AvoidsHassles
+- ReducesCost
+- Variety    
+- SensoryAppeal
+- Informs
+- Access   
 
 ### What are the needs of Neuro
 
 - Knowing to pay attention to in the BetaInstance?
 - Knowing what to do next.
 
+### NeuroElementValue
+- SavesTime
+- Simplifies      
+- ReducesRisk
+- Organizes
+- Integrates
+- Connects
+- ReducesEffort
+- AvoidsHassles
+- ReducesCost
+- Variety    
+- SensoryAppeal
+- Informs
+- Access
 
 
 ### Value Exchange
@@ -135,7 +230,13 @@ UX
 
 
 
-## State
+## (State)Attencide
+
+Anything that a planter needs to remember during a planting sequence.
+
+RouteState
+
+MoveState
 
 ---
 

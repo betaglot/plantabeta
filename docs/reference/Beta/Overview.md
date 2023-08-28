@@ -36,7 +36,19 @@ import JoinKlimbeta from './Join_Klimbeta_Plantbeta.vue'
 ## When is Beta used?
 
 
+## BetaInstance
 
+### Definition(BetaInstance)
+
+- Snapshot of what a planter is doing and thinking in a particular Moment.
+- The current state of the Land, Route, Planter[Move, Neuro].
+- An element of a BetaStack or BetaSequence.
+- There is no time in a BetaInstance
+
+
+
+
+---
 
 ::: details Footnotes:
 
