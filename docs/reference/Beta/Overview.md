@@ -2,9 +2,7 @@
 layout: doc
 ---
 
-<script setup>
-import JoinKlimbeta from './Join_Klimbeta_Plantbeta.vue'
-</script>
+
 
 # 💬 What is Beta? 💬
 
