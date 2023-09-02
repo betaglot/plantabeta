@@ -125,25 +125,25 @@ Plantbeta will provide a **service** to planting companies before and during the
 
 ---
 
-### [🌲 Examples of the Land System 🌲](/reference/Land/Overview)
+### [🌲 Examples of the Land Subsystem 🌲](/reference/Land/Overview)
 
 🌲Stump, 🌲SteepSlope, 🌲TrenchLand, 🌲Log, 🌲RawLand, 🌲ClaySoil, 🌲Rain, 🌲Snow, 🌲Road, 🌲AirTemperature, 🌲RiparianArea, 🌲FillBlock, 🌲MoundLand
 
 ---
 
-### [✌ Examples of the Move System ✌](/reference/Movement/Overview)
+### [✌ Examples of the Move Subsystem ✌](/reference/Movement/Overview)
 
 ✌SpadeScreef, ✌DownClimb, ✌SpadeSwing, ✌StepOver, ✌PunchClose, ✌StompClose, ✌TreeInsert, ✌HoleOpen, ✌FlagRip, ✌LookAt, ✌ArmSwing, ✌DeepSquat 
 
 ---
 
-### [👣 Examples of the Route System 👣](/reference/Route/Overview)
+### [👣 Examples of the Route Subsystem 👣](/reference/Route/Overview)
 
 👣StumpFill, 👣ZigzagLine, 👣BoustroFill, 👣LogFill, 👣PieceBoundary, 👣MaximumSpacing, 👣GhostLine, 👣HighFlag, 👣LineIn, 👣BoundaryFlag, 👣TurnAroundPoint
 
 ---
 
-### [🧠 Examples of the Neuro System 🧠](/reference/Neuro/Overview)
+### [🧠 Examples of the Neuro Subsystem 🧠](/reference/Neuro/Overview)
 
 🧠Attention
 

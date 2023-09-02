@@ -4,10 +4,7 @@ layout: doc
 
 <script setup>
 import JoinKlimbeta from './Join_Klimbeta_Plantbeta.vue'
-</script>  
-
-
-
+</script>
 
 # 💬 What is Beta? 💬
 
@@ -15,26 +12,46 @@ import JoinKlimbeta from './Join_Klimbeta_Plantbeta.vue'
 
 - If you're a climber, then you're likely familiar with the term "beta"
 
-> In climbing *beta* is the information about the *movements*, *sequences*, and *holds* of a climb. If someone asks you for a climb's beta, then they want to know how you climbed it. 
+> In climbing _beta_ is the information about the _movements_, _sequences_, and _holds_ of a climb. If someone asks you for a climb's beta, then they want to know how you climbed it.
 
-> Beta could be something as simple as the general type of *holds*, like “it’s all slopers” or just the type of rock and length.
+> Beta could be something as simple as the general type of _holds_, like “it’s all slopers” or just the type of rock and length.
 
-> Beta in climbing can be very detailed down to the exact way you *grip* a specific hold i.e. “pinch the left side with your first two fingers so there’s space to match with your other hand”.
+> Beta in climbing can be very detailed down to the exact way you _grip_ a specific hold i.e. “pinch the left side with your first two fingers so there’s space to match with your other hand”.
 
 > BetaSpray
 
+## Analogy between 🟧Climbing🟧 and 🟩Planting🟩
 
+This each line are analog pairs. The equal signs = denotes where Climbing and Planting are exactly the same.
 
-
-## Analogy between Climbing and Planting
-  
-<JoinKlimbeta />
+|        🟧🟧🟧🟧🟧 Climbing | Planting 🟩🟩🟩🟩🟩 |
+| -------------------------: | :------------------ |
+|                  🟧 Beta = | = Beta 🟩           |
+|                  🟧 Wall = | = Land 🟩           |
+|                 🟧 Route = | = Route 🟩          |
+|                 🟧 Neuro = | = Neuro 🟩          |
+|          🟧 Wall Section🟧 | 🟩 Piece 🟩         |
+|         🟧ContactSurface = | = ContactSurface 🟩 |
+|               🟧Climbing🟧 | 🟩Area 🟩           |
+|                  🟧 Hold🟧 | 🟩Microsite 🟩      |
+|               🟧 Volume 🟧 | 🟩 Mound, Trench 🟩 |
+|             🟧 WallAngle🟧 | 🟩 SlopeAngle 🟩    |
+|          🟧 ClimbingShoe🟧 | 🟩PlantingBoot 🟩   |
+|              🟧 Redpoint🟧 | 🟩 Replanting Required 🟩       |
+|        🟧 Flash, Onsight🟧 | 🟩No replanting 🟩  |
+|         🟧 RockOver Move = | = RockOver Move 🟩  |
+|          🟧 RouteFinding = | = RouteFinding 🟩   |
+|             🟧 One Pitch🟧 | One BagUp 🟩        |
+|                  🟧 Fall = | = Fall 🟩           |
+| 🟧 Anchor, Belay Station🟧 | 🟩Cache 🟩          |
+|             🟧 Approach 🟧 | 🟩 Walk In 🟩       |
+|                 🟧 Crag 🟧 | 🟩 Block 🟩         |
+|                🟧 Climbing | Planting 🟩         |
 
 
 ## How is Beta used in Planting?
 
 ## When is Beta used?
-
 
 ## BetaInstance
 
@@ -45,9 +62,6 @@ import JoinKlimbeta from './Join_Klimbeta_Plantbeta.vue'
 - An element of a BetaStack or BetaSequence.
 - There is no time in a BetaInstance
 
-
-
-
 ---
 
 ::: details Footnotes:
@@ -55,8 +69,6 @@ import JoinKlimbeta from './Join_Klimbeta_Plantbeta.vue'
 - https://www.climbernews.com/what-is-climbing-beta/
 
 :::
-
-
 
 ::: details DesignProcess: PaperPhoto
 

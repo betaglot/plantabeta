@@ -1,27 +1,55 @@
 # ElementRelationshipDiagram
 
-## Value of PlantbetaElements to Other PlantbetaElements
+## Element Value Change
 
-::: warning Not Value of Plantbeta in general
+```
+Value Addition // [!code ++]
+Value Subtraction // [!code --]
 
-The properties and actions of an element gives value 
+Saves Time // [!code ++]
+Wastes Time // [!code --]
 
-All elements are interdependent. 
+Simplifies // [!code ++]
+Complicates      // [!code --]
 
-:::
+DecreasesRisk // [!code ++]
+Increase Risk // [!code --]
 
-Elements are only valuable if they can be used to solve essential a Problems or fulfill essential needs. 
+Organizes // [!code ++]
+Disorganizes // [!code --]
 
-The fuel of Planting. Data, Knowledge, MetabolicEnergy, Seedlings, Microsite, Product, Service
+Integrates // [!code ++]
+Disintegrates // [!code --]
+
+Connects // [!code ++]
+Disconnects // [!code --]
+
+Reduces Effort // [!code ++]
+Increases Effort // [!code --]
+
+Avoids Hassles // [!code ++]
+Embraces Hassles // [!code --]
+
+Reduces Cost // [!code ++]
+Increases Cost // [!code --]
+
+Increases Variety // [!code ++]
+Reduces Variety    // [!code --]
+
+SensoryAppeal // [!code ++]
+Obscures(SensoryAppeal) // [!code --]
+
+Informs // [!code ++]
+Disinforms // [!code --]
+
+Adds Access // [!code ++]
+Removes Access // [!code --]
+
+Removes Value Subtraction  // [!code ++]
+Removes Value Addition // [!code --]
 
 
-Value Producer
-- ValueCreation
-- ValueAddition
-- ValueSubtraction
-
-Value Consumer
-- ValueCapture
+```
 
 ### Example of a Value
 
@@ -52,33 +80,126 @@ False value is a bunch of features that planters don't use. The value of a stump
 Theorem the name of an object, while Problem is the object's values and methods.
 
 
+### Value Exchange
 
-### What are the needs of Move?
+
+
+The value exchange of woven fiber neighbors is the tension force holding each other in place. Warp Weft. ForceExchange.
+
+Subsystems give each other value.
+
+The RouteElement(GoodMicrosite, FlagSite) gives the LandElement(Stump) value. The stump gives Route value by providing PotentialMicrosite.
+
+The exchange doesn't need to be mutually beneficial. Both ValueAddition or (ValueAddition + ValueSubtraction).
+
+What does paired element get in return?
+
+### Value Chain
+
+Also known as a Value Stream.
+
+Value is added along a sequence of steps. Like Bioamplification of poison in Predatory Birds 
+
+- Exponential 
+- [Addition of MarginalGains Infographic]
+
+---
 
 ### MoveElementValue
-- SavesTime
-- Simplifies      
-- ReducesRisk
-    - SpadeProbe
-- Organizes
-- Integrates
-- Connects
-    - TransitionMove
-- ReducesEffort
-- AvoidsHassles
-    - BodyRotate before BodySlot to prevent BagSnag
-    - Any Snag is a hassle
-- ReducesCost
-    - Flag is a cost in money terms and planter resources too.
-- Variety
-    - A highly adaptable Move
-    - Versitile
-- SensoryAppeal
-    - SpadeProbe
-- Informs
-    - SpadeProbe
-- Access
 
+::: tip MoveElementValue Addition
+
+---
+
+**Saves Time**
+- FlagMove while Walking away.
+- Use one forceful ScreefMove instead of many weak ScreefMoves.
+- FootScreef a thin DuffLayer instead of bending over to ShovelScreef.   
+
+**Simplifies**
+- MoveShape 
+- HighFlag your LineIn to make it easier for the Planter in a neighbouring piece to see their piece boundary lines. 
+
+**Reduces Risk**
+- SpadeProbe the soil to reduce the risk of hurting your wrist by hitting a subsurface rock. 
+- Reduce the risk of injury by learning how to fall properly.
+- Use ArmFlag to reduce the risk of Falling.
+
+**Connects**
+- AbsorbMove allows smooth transitions between Movements.
+- Use ArmAbsorb to redirect Spade during ShovelMoves.
+
+**Reduces Effort**
+- Remove Clothing Layer to reduce your body's need for sweat.
+- Stick Spade in the ground when you get to the cache to avoid having to pick it up from the ground when you return to the Land. 
+
+**Avoids Hassles**
+- BodyRotate before BodySlot to prevent BagSnag
+- Any Snag is a hassle
+- ArmBlock to prevent getting hit with a branch in the face.
+- Adjust your bags to avoid getting abraisions on your hips.
+
+**Reduces Cost**
+- Flag is a cost in money terms and planter resources too.
+
+**Increases Variety**
+- HandClose is more versitile than FootClose.
+
+**SensoryAppeal**
+- Not listening to music with headphones, so you can hear the properties of the soil. 
+
+**Informs**
+- SpadeProbe to feel the ground instead of only using vision for MicrositeSelection.
+
+**Access**
+- Fold a plant out of the way of Hole.
+- Move a branch out of the way when walking through Slash or a residual patch.
+
+
+:::
+
+
+::: danger MoveElementValue Subtraction
+
+---
+
+**WastesTime**
+- Deadwalking
+
+**Complicates**
+
+**Increase Risk**
+- Walking on wet logs
+
+**Disorganizes**
+- GhostLine
+
+**Disintegrates**
+
+**Disconnects**
+
+**Increases Effort**
+- Climbing over a SlashPile instead of going around it.
+
+**EmbracesHassles**
+
+**IncreasesCost**
+- FlagRipError so that the flag is longer than it needs to be.
+
+**Reduces Variety**
+- LimitedRangeOfMotion
+- Tight Clothing
+- Not planting Ambidextrously
+
+**Obscures (SensoryAppeal)**
+- ThickGloves so you can't feel your PlantingHand
+
+**Disinforms**
+
+**RemovesAccess**
+- HoleCollapse
+
+:::
 
 MoveSelection.MoveEvaluation
     - "Is that the **best** move for the current BetaInstance"
@@ -95,103 +216,216 @@ MoveSelection.MoveEvaluation
 - Required Tools 
     - A spade is more valuable than an extractor since it can solve more problems more efficiently. A spade solves the same problems as an extractor and can solve even more problems than an extractor.  
 
-### What are the needs of Route?
-
-- Land to plant seedlings.
-- RouteSelection.RouteEvaluation
+---
 
 ### RouteElementValue
-- Simplifies
-    - A RouteLine is more simple than RouteShape.
-- SavesTime
-    - Most direct Route
-    - Minimium ObstacleDensity
-- ReducesEffort
-    - Most direct Route
-    - Minimium ObstacleDensity
 
-- SavesTime
-- Simplifies      
-- ReducesRisk
-- Organizes
-- Integrates
-- Connects
-- ReducesEffort
-- AvoidsHassles
-- ReducesCost
-- Variety    
-- SensoryAppeal
-- Informs
-- Access
+::: tip RouteElementValue Addition
 
-### What are the needs of Land?
+---
 
-- Seedlings to plant in Land.
-- MicrositeEvaluation
-    - SaveTime
+**Saves Time**
+- Most direct Route
+- Minimium ObstacleDensity
+
+**Simplifies**
+- A RouteLine is more simple than RouteShape.
+**Reduces Risk**
+
+**Organizes**
+
+**Integrates**
+
+**Connects**
+
+**Reduces Effort**
+- Most direct Route
+- Minimium ObstacleDensity
+
+**Avoids Hassles**
+
+**Reduces Cost**
+
+**Increases Variety** 
+
+**SensoryAppeal**
+
+**Informs**
+
+**Increases Access**
+:::
+
+
+::: danger RouteElementValue Subtraction
+
+---
+
+**Wastes Time**
+
+**Complicates**      
+
+**Increase Risk**
+
+**Disorganizes**
+
+**Disintegrates**
+
+**Disconnects**
+
+**Increases Effort**
+
+**Embraces Hassles**
+
+**Increases Cost**
+
+**Reduces Variety**    
+
+**Obscures (SensoryAppeal)**
+
+**Disinforms**
+
+**Removes Access**
+
+:::
+
+---
 
 ### LandElementValue 
-- SavesTime
-    - ObstacleDensity
-    - A Microsite is more Valuable after it has been Screefed. Unless the soil is very thin and the Screefing destroyed the Microsite.
+::: tip LandElementValue Addition
 
-- Simplifies      
-- ReducesRisk
-- Organizes
-- Integrates
-- Connects
-- ReducesEffort
-    - Easy HoleMove in CreamyLand is HighLandValue.
-    - Strenuous SlashMove in SlashyLand is LowLandValue.
-- AvoidsHassles
-- ReducesCost
-- Variety    
-- SensoryAppeal
-- Informs
-- Access   
+---
 
-### What are the needs of Neuro
+**SavesTime**
+- ObstacleDensity
+- A Microsite is more Valuable after it has been Screefed. Unless the soil is very thin and the Screefing destroyed the Microsite.
 
-- Knowing to pay attention to in the BetaInstance?
-- Knowing what to do next.
+**Simplifies**      
+
+**ReducesRisk**
+
+**Organizes**
+
+**Integrates**
+
+**Connects**
+
+**ReducesEffort**
+- Easy HoleMove in CreamyLand is HighLandValue.
+- Strenuous SlashMove in SlashyLand is LowLandValue.
+
+**AvoidsHassles**
+
+**ReducesCost**
+
+**Variety**    
+
+**SensoryAppeal**
+
+**Informs**
+
+**Access**   
+:::
+
+
+::: danger LandElementValue Subtraction
+
+---
+
+**Wastes Time**
+
+**Complicates**      
+
+**Increase Risk**
+
+**Disorganizes**
+
+**Disintegrates**
+
+**Disconnects**
+
+**Increases Effort**
+
+**Embraces Hassles**
+
+**Increases Cost**
+
+**Reduces Variety**    
+
+**Obscures (SensoryAppeal)**
+
+**Disinforms**
+
+**Removes Access**
+:::
+
+---
 
 ### NeuroElementValue
-- SavesTime
-- Simplifies      
-- ReducesRisk
-- Organizes
-- Integrates
-- Connects
-- ReducesEffort
-- AvoidsHassles
-- ReducesCost
-- Variety    
-- SensoryAppeal
-- Informs
-- Access
+::: tip NeuroElementValue Addition
+
+---
+
+**SavesTime**
+
+**Simplifies**
+
+**ReducesRisk**
+
+**Organizes**
+
+**Integrates**
+
+**Connects**
+
+**ReducesEffort**
+
+**AvoidsHassles**
+
+**ReducesCost**
+
+**Variety**
+
+**SensoryAppeal**
+
+**Informs**
+
+**Access**
+
+:::
+
+::: danger NeuroElementValue Subtraction
+
+---
+
+**WastesTime**
+
+**Complicates**
+
+**IncreaseRisk**
+
+**Disorganizes**
+
+**Disintegrates**
+
+**Disconnects**
+
+**IncreasesEffort**
+
+**EmbracesHassles**
+
+**IncreasesCost**
+
+**ReducesVariety**
+
+**Obscures**
+(SensoryAppeal)
+**Disinforms**
+
+**RemovesAccess**
 
 
-### Value Exchange
+:::
 
-A complex
-
-The value exchange of woven fiber neighbors is the tension force holding each other in place. Warp Weft. ForceExchange.
-
-Subsystems give each other value.
-
-The RouteElement(GoodMicrosite, FlagSite) gives the LandElement(Stump) value. The stump gives Route value by providing PotentialMicrosite.
-
-
-What does paired element get in return?
-
-### Value Chain
-
-Also known as a Value Stream.
-
-Value is added along a sequence of steps. Like Bioamplification of poison in Predatory Birds 
-
-- Exponential 
-- [Addition of MarginalGains Infographic]
 
 
 #### MoveValue

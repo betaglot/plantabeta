@@ -77,11 +77,11 @@ The best resource which can be found is Replant.ca, but this site could be bette
 
 - Plantbeta is **FREE** educational resource for planters.
 - Plantbeta explains how to plant in greater nuance than ever before, by breaking down a planter's experience into 4 interdependent subsystems:
-    - Land System
-    - Movement System
-    - Routing System
+    - Land Subsystem
+    - Movement Subsystem
+    - Routing Subsystem
         - Also known as 'Land Management'
-    - Neuro System
+    - Neuro Subsystem
 
 - Plantbeta is innovative since it uses evidence based knowledge from the [Huberman Lab Podcast](https://hubermanlab.com/). The podcast is run by the [Andrew Huberman](https://hubermanlab.com/about/) who is a highly respected university professor from California. Some of the topics which are directly applicable to planting are: 
     - [Fitness](https://hubermanlab.com/guest-series-dr-andy-galpin-maximize-recovery-to-achieve-fitness-and-performance-goals/), how to build muscle, how to recover, how to use supplments, how to train endurance, how the body converts food into energy.
@@ -120,7 +120,7 @@ The best resource which can be found is Replant.ca, but this site could be bette
 
 - What are the most common ways that planters lose time?
 - What parts of the land does RookieStare most frequently occur?
-- Expand the LandSystem section, adding more microsite types to Plantbeta.
+- Expand the LandSubsystem section, adding more microsite types to Plantbeta.
 - HighBaller Observation
     - Identify individual strengths and weaknesses.
     - How do HighBallers plant more trees? How much has to do with movement speed and how much to do with Routing (Land Management)?

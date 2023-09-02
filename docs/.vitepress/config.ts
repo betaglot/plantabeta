@@ -122,8 +122,8 @@ function sidebarGuide() {
 function sidebarReference() {
   return [
     {text: 'Go to Guide', link: '/guide/WhatPlantbeta'},
-    
-    { text: '🌲 Land Elements', collapsed: true, items: [
+    {text: 'How to Use Reference', link: '/reference/Overview'},
+    { text: '🌲 Land Subsystem', collapsed: true, items: [
       { text: '🌲 Land Overview', link: '/reference/Land/Overview'},
       { text: '🌲 Area', collapsed: true, items: [
         { text: '🌲 Area Overview', link: '/reference/Land/Area/Overview'},
@@ -191,7 +191,7 @@ function sidebarReference() {
       ]},
     ]
     },
-    { text: '✌ Movement Elements', collapsed: true, items: [
+    { text: '✌ Movement Subsystem', collapsed: true, items: [
         { text: '✌ Movement Overview', link: '/reference/Movement/Overview'},
         { text: '✌ ArmMovement', collapsed: true, items: [
           { text: '✌ ArmMovement Overview', link: '/reference/Movement/ArmMovement/Overview'},
@@ -378,7 +378,7 @@ function sidebarReference() {
         ]}
       ],
     },
-    { text: '🧠 Neuro Elements', collapsed: true, items:[
+    { text: '🧠 Neuro Subsystem', collapsed: true, items:[
       { text: '🧠 Neuro Overview', link: '/reference/Neuro/Overview'},
       { text: '🧠 Alignment', collapsed: true, items: [
         { text: '🧠 Alignment Overview', link: '/reference/Neuro/Alignment/Overview'},
@@ -454,7 +454,7 @@ function sidebarReference() {
       { text: '🧠 Thermoception', link: '/reference/Neuro/Thermoception'},
 
     ]},
-    { text: '👣 Route Elements', collapsed: true, items: [
+    { text: '👣 Route Subsystem', collapsed: true, items: [
       { text: '👣Route Overview', link: '/reference/Route/Overview' },
       { text: '👣AreaFill', collapsed: true, items: [
         { text: '👣 AreaFill Overview', link: '/reference/Route/AreaFill/Overview'},
@@ -514,7 +514,7 @@ function sidebarReference() {
         { text: '👣 FollowingFill', link: '/reference/Route/TeamPlant/FollowingFill'},
       ]},
     ]},
-    { text: '💬 Beta Elements', collapsed: true, items: [
+    { text: '💬 Beta System', collapsed: true, items: [
       {text: '💬 What is Beta?', link: '/reference/Beta/Overview'},
       {text: '💬 Beta Examples', link: '/reference/Beta/BetaExamples'},
     ]},
