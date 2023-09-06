@@ -1,4 +1,4 @@
-# 👣 TypewriterFill 👣
+# 🔃 TypewriterFill 🔃
 
 TypewriterFill != BoustroFill
 

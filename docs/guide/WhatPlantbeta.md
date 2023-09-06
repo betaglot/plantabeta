@@ -111,7 +111,7 @@ Plantbeta will provide a **service** to planting companies before and during the
 ---
 
 
-## [🌲](/reference/Land/Overview) -- [✌](/reference/Movement/Overview) -- [👣](/reference/Route/Overview) -- [🧠](/reference/Neuro/Overview) -- [💬](/reference/Beta/Overview)
+## [🌲](/reference/Land/Overview) -- [✌](/reference/Movement/Overview) -- [🔃](/reference/Route/Overview) -- [🧠](/reference/Neuro/Overview) -- [💬](/reference/Beta/Overview)
 
 
 ::: details Why Emojis?
@@ -137,9 +137,9 @@ Plantbeta will provide a **service** to planting companies before and during the
 
 ---
 
-### [👣 Examples of the Route Subsystem 👣](/reference/Route/Overview)
+### [🔃 Examples of the Route Subsystem 🔃](/reference/Route/Overview)
 
-👣StumpFill, 👣ZigzagLine, 👣BoustroFill, 👣LogFill, 👣PieceBoundary, 👣MaximumSpacing, 👣GhostLine, 👣HighFlag, 👣LineIn, 👣BoundaryFlag, 👣TurnAroundPoint
+🔃StumpFill, 🔃ZigzagLine, 🔃BoustroFill, 🔃LogFill, 🔃PieceBoundary, 🔃MaximumSpacing, 🔃GhostLine, 🔃HighFlag, 🔃LineIn, 🔃BoundaryFlag, 🔃TurnAroundPoint
 
 ---
 

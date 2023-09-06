@@ -1,4 +1,4 @@
-# [🌲](/reference/Land/Overview) -- [✌](/reference/Movement/Overview) -- [👣](/reference/Route/Overview) -- [🧠](/reference/Neuro/Overview) -- [💬](/reference/Beta/Overview)
+# [🌲](/reference/Land/Overview) -- [✌](/reference/Movement/Overview) -- [🔃](/reference/Route/Overview) -- [🧠](/reference/Neuro/Overview) -- [💬](/reference/Beta/Overview)
 
 ![HandClose](/Screenshot_HandClose.png)
 
@@ -9,7 +9,7 @@
 
 ## [✌✌✌  Movement  ✌✌✌](/reference/Movement/Overview)
 
-## [👣👣👣  Route  👣👣👣](/reference/Route/Overview)
+## [🔃🔃🔃  Route  🔃🔃🔃](/reference/Route/Overview)
 
 ## [🧠🧠🧠  Neuro  🧠🧠🧠](/reference/Neuro/Overview)
 

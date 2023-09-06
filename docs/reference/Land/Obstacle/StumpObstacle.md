@@ -75,36 +75,36 @@ Graph which represents how this element is related to other elements in Plantbet
 - 
 
 
-👣✌🌲🧠💬
-## Related 👣 RouteElements 👣
+🔃✌🌲🧠💬
+## Related 🔃 RouteElements 🔃
 
-### [👣ObstacleFill]
+### [🔃ObstacleFill]
 
-### [👣AreaBoundary]()
-
-- 
-
-### [👣DownSlope]()
+### [🔃AreaBoundary]()
 
 - 
 
-### [👣UpSlope]()
+### [🔃DownSlope]()
 
 - 
 
-### [👣StumpFlag]()
+### [🔃UpSlope]()
+
+- 
+
+### [🔃StumpFlag]()
 
 - [FlagSite]()
 
-### [👣BoundaryFlag]() 
+### [🔃BoundaryFlag]() 
 
 - 
 
-### [👣Landmark]() 
+### [🔃Landmark]() 
 
 - 
 
-### [👣TargetPoint]()
+### [🔃TargetPoint]()
 
 - 
 

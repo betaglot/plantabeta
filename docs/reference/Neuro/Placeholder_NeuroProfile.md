@@ -44,7 +44,7 @@ Graph which represents how this element is related to other elements in Plantbet
 - Description of how this NeuroElement relates to a particular [LandElement]().
 - Description of how this NeuroElement relates to a particular [LandElement]().
 - Description of how this NeuroElement relates to a particular [LandElement]().
-## Related 👣 RouteElements
+## Related 🔃 RouteElements
 - Description of how this NeuroElement relates to a particular [RouteElement]().
 - Description of how this NeuroElement relates to a particular [RouteElement]().
 - Description of how this NeuroElement relates to a particular [RouteElement]().

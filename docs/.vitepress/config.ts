@@ -102,7 +102,7 @@ function sidebarGuide() {
       text: 'Objectives', collapsed: false, items: [
         { text: '🔥🌲🔥 Replant Burnt Land', link: '/guide/Why/Wildfire'},
         { text: '✌ Reduce Injury', link: '/guide/Why/Injury'},
-        { text: '👣 Increase Productivity', link: '/guide/Why/Productivity'},
+        { text: '🔃 Increase Productivity', link: '/guide/Why/Productivity'},
         { text: '💬 Better Communication', link: '/guide/Why/Communication'},
         { text: '🧠 Steepen Learning Curve', link: '/guide/Why/LearningCurve'},
         { text: '💲 Increase Profit', link: '/guide/Why/Company'}     
@@ -454,64 +454,64 @@ function sidebarReference() {
       { text: '🧠 Thermoception', link: '/reference/Neuro/Thermoception'},
 
     ]},
-    { text: '👣 Route Subsystem', collapsed: true, items: [
-      { text: '👣Route Overview', link: '/reference/Route/Overview' },
-      { text: '👣AreaFill', collapsed: true, items: [
-        { text: '👣 AreaFill Overview', link: '/reference/Route/AreaFill/Overview'},
-        { text: '👣 BoustroFill', link: '/reference/Route/AreaFill/BoustroFill'},            
-        { text: '👣 CircleFill', link: '/reference/Route/AreaFill/CircleFill'},
-        { text: '👣 DiamondFill', link: '/reference/Route/AreaFill/DiamondFill'},
-        { text: '👣 SquareFill', link: '/reference/Route/AreaFill/SquareFill'},
-        { text: '👣 TriangleFill', link: '/reference/Route/AreaFill/TriangleFill'},
+    { text: '🔃 Route Subsystem', collapsed: true, items: [
+      { text: '🔃Route Overview', link: '/reference/Route/Overview' },
+      { text: '🔃AreaFill', collapsed: true, items: [
+        { text: '🔃 AreaFill Overview', link: '/reference/Route/AreaFill/Overview'},
+        { text: '🔃 BoustroFill', link: '/reference/Route/AreaFill/BoustroFill'},            
+        { text: '🔃 CircleFill', link: '/reference/Route/AreaFill/CircleFill'},
+        { text: '🔃 DiamondFill', link: '/reference/Route/AreaFill/DiamondFill'},
+        { text: '🔃 SquareFill', link: '/reference/Route/AreaFill/SquareFill'},
+        { text: '🔃 TriangleFill', link: '/reference/Route/AreaFill/TriangleFill'},
         
       ]},
-      { text: '👣 Flag', collapsed: true, items: [
-        { text: '👣 Flag Overview', link: '/reference/Route/Flag/Overview'},
-        { text: '👣 BoundaryFlag', link: '/reference/Route/Flag/BoundaryFlag'},
-        { text: '👣 FlagLocation', link: '/reference/Route/Flag/FlagLocation'},
-        { text: '👣 HighFlag', link: '/reference/Route/Flag/HighFlag'},
-        { text: '👣 LineInFlag', link: '/reference/Route/Flag/LineInFlag'},
-        { text: '👣 NaturalFlag', link: '/reference/Route/Flag/NaturalFlag'},
-        { text: '👣 TrenchExitFlag', link: '/reference/Route/Flag/TrenchExitFlag'},
-        { text: '👣 WastedFlag', link: '/reference/Route/Flag/WastedFlag'},
+      { text: '🔃 Flag', collapsed: true, items: [
+        { text: '🔃 Flag Overview', link: '/reference/Route/Flag/Overview'},
+        { text: '🔃 BoundaryFlag', link: '/reference/Route/Flag/BoundaryFlag'},
+        { text: '🔃 FlagLocation', link: '/reference/Route/Flag/FlagLocation'},
+        { text: '🔃 HighFlag', link: '/reference/Route/Flag/HighFlag'},
+        { text: '🔃 LineInFlag', link: '/reference/Route/Flag/LineInFlag'},
+        { text: '🔃 NaturalFlag', link: '/reference/Route/Flag/NaturalFlag'},
+        { text: '🔃 TrenchExitFlag', link: '/reference/Route/Flag/TrenchExitFlag'},
+        { text: '🔃 WastedFlag', link: '/reference/Route/Flag/WastedFlag'},
       ]},
 
-      { text: '👣 ObstacleFill', collapsed: true, items: [
-        { text: '👣 ObstacleFill Overview', link: '/reference/Route/ObstacleFill/Overview'},
+      { text: '🔃 ObstacleFill', collapsed: true, items: [
+        { text: '🔃 ObstacleFill Overview', link: '/reference/Route/ObstacleFill/Overview'},
       ]},
-      { text: '👣 PieceFill', collapsed: true, items: [
-        { text: '👣 PieceFill Overview', link: '/reference/Route/PieceFill/Overview'},
-        { text: '👣 AreaFill', link: '/reference/Route/PieceFill/AreaFill'},
-        { text: '👣 BackFill', link: '/reference/Route/PieceFill/BackFill'},
-        { text: '👣 OpenEndedFill', link: '/reference/Route/PieceFill/OpenEndedFill'},
-        { text: '👣 PerimeterFill', link: '/reference/Route/PieceFill/PerimeterFill'},
-        { text: '👣 TypewriterFill', link: '/reference/Route/PieceFill/TypewriterFill'},
+      { text: '🔃 PieceFill', collapsed: true, items: [
+        { text: '🔃 PieceFill Overview', link: '/reference/Route/PieceFill/Overview'},
+        { text: '🔃 AreaFill', link: '/reference/Route/PieceFill/AreaFill'},
+        { text: '🔃 BackFill', link: '/reference/Route/PieceFill/BackFill'},
+        { text: '🔃 OpenEndedFill', link: '/reference/Route/PieceFill/OpenEndedFill'},
+        { text: '🔃 PerimeterFill', link: '/reference/Route/PieceFill/PerimeterFill'},
+        { text: '🔃 TypewriterFill', link: '/reference/Route/PieceFill/TypewriterFill'},
         
       ]},
-      { text: '👣 RouteLine', collapsed: true, items: [
-        { text: '👣 RouteLine Overview', link: '/reference/Route/RouteLine/Overview'},
-        { text: '👣 AroundLine', link: '/reference/Route/RouteLine/AroundLine'},
-        { text: '👣 GhostLine', link: '/reference/Route/RouteLine/GhostLine'},
-        { text: '👣 ParallelLine', link: '/reference/Route/RouteLine/ParallelLine'},
-        { text: '👣 PerimeterLine', link: '/reference/Route/RouteLine/PerimeterLine'},
-        { text: '👣 SpiralLine', link: '/reference/Route/RouteLine/SpiralLine'},
-        { text: '👣 TurnAroundLine', link: '/reference/Route/RouteLine/TurnAroundLine'},
-        { text: '👣 ZigzagLine', link: '/reference/Route/RouteLine/ZigzagLine'},
+      { text: '🔃 RouteLine', collapsed: true, items: [
+        { text: '🔃 RouteLine Overview', link: '/reference/Route/RouteLine/Overview'},
+        { text: '🔃 AroundLine', link: '/reference/Route/RouteLine/AroundLine'},
+        { text: '🔃 GhostLine', link: '/reference/Route/RouteLine/GhostLine'},
+        { text: '🔃 ParallelLine', link: '/reference/Route/RouteLine/ParallelLine'},
+        { text: '🔃 PerimeterLine', link: '/reference/Route/RouteLine/PerimeterLine'},
+        { text: '🔃 SpiralLine', link: '/reference/Route/RouteLine/SpiralLine'},
+        { text: '🔃 TurnAroundLine', link: '/reference/Route/RouteLine/TurnAroundLine'},
+        { text: '🔃 ZigzagLine', link: '/reference/Route/RouteLine/ZigzagLine'},
       ]},
-      { text: '👣 Spacing', collapsed: true, items: [
-        { text: '👣 Spacing Overview', link: '/reference/Route/Spacing/Overview'},
-        { text: '👣 MaximumSpacing', link: '/reference/Route/Spacing/MaximumSpacing'},
-        { text: '👣 MinimumSpacing', link: '/reference/Route/Spacing/MinimumSpacing'},
-        { text: '👣 OptimalSpacing', link: '/reference/Route/Spacing/OptimalSpacing'},
-        { text: '👣 ElasticSpacing', link: '/reference/Route/Spacing/ElasticSpacing'},
-        { text: '👣 SpacingOnSlope', link: '/reference/Route/Spacing/SpacingOnSlope'},
+      { text: '🔃 Spacing', collapsed: true, items: [
+        { text: '🔃 Spacing Overview', link: '/reference/Route/Spacing/Overview'},
+        { text: '🔃 MaximumSpacing', link: '/reference/Route/Spacing/MaximumSpacing'},
+        { text: '🔃 MinimumSpacing', link: '/reference/Route/Spacing/MinimumSpacing'},
+        { text: '🔃 OptimalSpacing', link: '/reference/Route/Spacing/OptimalSpacing'},
+        { text: '🔃 ElasticSpacing', link: '/reference/Route/Spacing/ElasticSpacing'},
+        { text: '🔃 SpacingOnSlope', link: '/reference/Route/Spacing/SpacingOnSlope'},
   
       ]},
-      { text: '👣 TeamPlant', collapsed: true, items: [
-        { text: '👣 TeamPlant Overview', link: '/reference/Route/TeamPlant/Overview'},
-        { text: '👣 BouncingFill', link: '/reference/Route/TeamPlant/BouncingFill'},
-        { text: '👣 CrossingFill', link: '/reference/Route/TeamPlant/CrossingFill'},
-        { text: '👣 FollowingFill', link: '/reference/Route/TeamPlant/FollowingFill'},
+      { text: '🔃 TeamPlant', collapsed: true, items: [
+        { text: '🔃 TeamPlant Overview', link: '/reference/Route/TeamPlant/Overview'},
+        { text: '🔃 BouncingFill', link: '/reference/Route/TeamPlant/BouncingFill'},
+        { text: '🔃 CrossingFill', link: '/reference/Route/TeamPlant/CrossingFill'},
+        { text: '🔃 FollowingFill', link: '/reference/Route/TeamPlant/FollowingFill'},
       ]},
     ]},
     { text: '💬 Beta System', collapsed: true, items: [

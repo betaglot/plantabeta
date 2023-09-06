@@ -45,7 +45,7 @@ Graph which represents how this element is related to other elements in Plantbet
 - Description of how this LandElement relates to a particular [Movement]().
 - Description of how this LandElement relates to a particular [Movement]().
 
-## Related 👣 RouteElements 👣
+## Related 🔃 RouteElements 🔃
 - Description of how this LandElement relates to a particular [RouteElement]().
 - Description of how this LandElement relates to a particular [RouteElement]().
 - Description of how this LandElement relates to a particular [RouteElement]().
