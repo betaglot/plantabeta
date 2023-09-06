@@ -1,8 +1,7 @@
-# So you want to be a planter, eh?
+# Potential Planter
 
 
-
-Do you have what it takes to be a planter?
+You're wondering if you want to become a planter
 
 How difficult is tree planting?
 
@@ -13,7 +12,33 @@ What is tree planting like?
 
 
 
-## What translates to planting?
+## What activities translate well to planting?
+
+### Design
+- Geometry
+
+### Rugby
+- Resilience
+- Leg Strength
+- DynamicMovements
+
+### Wrestling
+- FullBodyMovement
+- Resilience
+- Movement Sequences
+
+### Hiking
+- Endurance
+- Walking over complex land.
+
+### Climbing
+- Finger Strength
+- Route Planning
+
+### Ultramarathon Runner
+- Endurance
+- Controlled Falling
+- Leg Strength
 
 ::: details DesignProcess: PaperPhoto
 
