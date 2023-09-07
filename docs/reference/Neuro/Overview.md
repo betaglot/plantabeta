@@ -1,6 +1,6 @@
-# 🧠 Neuro Overview 🧠
+# 💜 Neuro Overview 💜
 
-## Brain Emoji 🧠
+## Brain Emoji 💜
 
 
 

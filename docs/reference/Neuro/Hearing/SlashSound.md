@@ -1,4 +1,4 @@
-# 🧠 Soil Sound 🧠
+# 💜 Soil Sound 💜
 
 ## SpadeSoilTest
 

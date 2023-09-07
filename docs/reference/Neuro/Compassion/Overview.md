@@ -1,3 +1,3 @@
-# 🧠 Compassion 🧠
+# 💜 Compassion 💜
 
 ## SelfCompassion

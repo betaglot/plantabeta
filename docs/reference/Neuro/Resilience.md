@@ -1,4 +1,4 @@
-# 🧠 Resilience 🧠
+# 💜 Resilience 💜
 
 😣 
 Persevering Face 😣

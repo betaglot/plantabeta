@@ -41,16 +41,16 @@ Answer 3
 Graph which represents how this element is related to other elements in Plantbeta.
 <img height="350" width="350" src="/DirectedGraph_UndirectedGraph.png"/>
 
-## Related 🌲 LandElements
+## Related 🟩 LandElements
 - Description of how this RouteElement relates to a particular [LandElement]().
 - Description of how this RouteElement relates to a particular [LandElement]().
 - Description of how this RouteElement relates to a particular [LandElement]().
-## Related 🧠 NeuroElements
+## Related 💜 NeuroElements
 - Description of how this RouteElement relates to a particular [NeuroElement]().
 - Description of how this RouteElement relates to a particular [NeuroElement]().
 - Description of how this RouteElement relates to a particular [NeuroElement]().
 
-## Related ✌ MovementElements
+## Related 🟠 MovementElements
 - Description of how this RouteElement relates to a particular [MovementElement]().
 - Description of how this RouteElement relates to a particular [MovementElement]().
 - Description of how this RouteElement relates to a particular [MovementElement]().
@@ -59,7 +59,7 @@ Graph which represents how this element is related to other elements in Plantbet
 
 - Use Media donated by Planters. 
 
-## Related 🔃 RouteElements 🔃
+## Related 🔺 RouteElements 🔺
 
 Links to other related RouteElements. 
 

@@ -1,2 +1,2 @@
-# 🧠 Calm 🧠
+# 💜 Calm 💜
 ## Decrease Arousal

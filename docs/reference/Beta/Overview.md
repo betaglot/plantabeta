@@ -4,7 +4,7 @@ layout: doc
 
 
 
-# 💬 What is Beta? 💬
+# 🔷 What is Beta? 🔷
 
 ## 'Beta' is from the climbing community
 

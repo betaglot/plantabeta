@@ -111,7 +111,7 @@ Plantbeta will provide a **service** to planting companies before and during the
 ---
 
 
-## [🌲](/reference/Land/Overview) -- [✌](/reference/Movement/Overview) -- [🔃](/reference/Route/Overview) -- [🧠](/reference/Neuro/Overview) -- [💬](/reference/Beta/Overview)
+## [🟩](/reference/Land/Overview) -- [🟠](/reference/Movement/Overview) -- [🔺](/reference/Route/Overview) -- [💜](/reference/Neuro/Overview) -- [🔷](/reference/Beta/Overview)
 
 
 ::: details Why Emojis?
@@ -125,31 +125,31 @@ Plantbeta will provide a **service** to planting companies before and during the
 
 ---
 
-### [🌲 Examples of the Land Subsystem 🌲](/reference/Land/Overview)
+### [🟩 Examples of the Land Subsystem 🟩](/reference/Land/Overview)
 
-🌲Stump, 🌲SteepSlope, 🌲TrenchLand, 🌲Log, 🌲RawLand, 🌲ClaySoil, 🌲Rain, 🌲Snow, 🌲Road, 🌲AirTemperature, 🌲RiparianArea, 🌲FillBlock, 🌲MoundLand
-
----
-
-### [✌ Examples of the Move Subsystem ✌](/reference/Movement/Overview)
-
-✌SpadeScreef, ✌DownClimb, ✌SpadeSwing, ✌StepOver, ✌PunchClose, ✌StompClose, ✌TreeInsert, ✌HoleOpen, ✌FlagRip, ✌LookAt, ✌ArmSwing, ✌DeepSquat 
+🟩Stump, 🟩SteepSlope, 🟩TrenchLand, 🟩Log, 🟩RawLand, 🟩ClaySoil, 🟩Rain, 🟩Snow, 🟩Road, 🟩AirTemperature, 🟩RiparianArea, 🟩FillBlock, 🟩MoundLand
 
 ---
 
-### [🔃 Examples of the Route Subsystem 🔃](/reference/Route/Overview)
+### [🟠 Examples of the Move Subsystem 🟠](/reference/Movement/Overview)
 
-🔃StumpFill, 🔃ZigzagLine, 🔃BoustroFill, 🔃LogFill, 🔃PieceBoundary, 🔃MaximumSpacing, 🔃GhostLine, 🔃HighFlag, 🔃LineIn, 🔃BoundaryFlag, 🔃TurnAroundPoint
-
----
-
-### [🧠 Examples of the Neuro Subsystem 🧠](/reference/Neuro/Overview)
-
-🧠Attention
+🟠SpadeScreef, 🟠DownClimb, 🟠SpadeSwing, 🟠StepOver, 🟠PunchClose, 🟠StompClose, 🟠TreeInsert, 🟠HoleOpen, 🟠FlagRip, 🟠LookAt, 🟠ArmSwing, 🟠DeepSquat 
 
 ---
 
-### [💬 Examples of the Beta System 💬](/reference/Beta/Overview)
+### [🔺 Examples of the Route Subsystem 🔺](/reference/Route/Overview)
+
+🔺StumpFill, 🔺ZigzagLine, 🔺BoustroFill, 🔺LogFill, 🔺PieceBoundary, 🔺MaximumSpacing, 🔺GhostLine, 🔺HighFlag, 🔺LineIn, 🔺BoundaryFlag, 🔺TurnAroundPoint
+
+---
+
+### [💜 Examples of the Neuro Subsystem 💜](/reference/Neuro/Overview)
+
+💜Attention
+
+---
+
+### [🔷 Examples of the Beta System 🔷](/reference/Beta/Overview)
 
 
 

@@ -1,4 +1,4 @@
-# ✌ Gaiter Overview ✌
+# 🟠 Gaiter Overview 🟠
 
 ## Gaiter Anatomy
 

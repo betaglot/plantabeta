@@ -1,4 +1,4 @@
-# ✌ Plant Overview ✌
+# 🟠 Plant Overview 🟠
 
 ## Plant Anatomy
 

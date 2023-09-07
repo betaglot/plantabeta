@@ -1,3 +1,3 @@
-# ✌ LegAdduction ✌
+# 🟠 LegAdduction 🟠
 
 <!-- @include: /../Placeholder_MovementProfile.md -->

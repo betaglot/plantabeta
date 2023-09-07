@@ -35,16 +35,16 @@ Answer 3
 Graph which represents how this element is related to other elements in Plantbeta.
 <img height="350" width="350" src="/DirectedGraph_UndirectedGraph.png"/>
 
-## Related 🧠 NeuroElements 🧠
+## Related 💜 NeuroElements 💜
 
-## Related ✌ MovementElements
+## Related 🟠 MovementElements
 
 
-## Related 🌲 LandElements
+## Related 🟩 LandElements
 - Description of how this NeuroElement relates to a particular [LandElement]().
 - Description of how this NeuroElement relates to a particular [LandElement]().
 - Description of how this NeuroElement relates to a particular [LandElement]().
-## Related 🔃 RouteElements
+## Related 🔺 RouteElements
 - Description of how this NeuroElement relates to a particular [RouteElement]().
 - Description of how this NeuroElement relates to a particular [RouteElement]().
 - Description of how this NeuroElement relates to a particular [RouteElement]().

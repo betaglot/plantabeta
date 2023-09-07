@@ -1,4 +1,4 @@
-# 🌲 StumpObstacle 🌲
+# 🟩 StumpObstacle 🟩
 
 <div style="display: flex; width: %100; margin-top: 100px;">
     <div style="margin: 5px; width: 50%">
@@ -45,73 +45,73 @@ Answer 3
 Graph which represents how this element is related to other elements in Plantbeta.
 <img height="350" width="350" src="/DirectedGraph_UndirectedGraph.png"/>
 
-## Related 🌲 LandElements  🌲
+## Related 🟩 LandElements  🟩
 
-### [🌲Microsite]()
-
-- 
-
-### [🌲HighStump]()
+### [🟩Microsite]()
 
 - 
 
-### [🌲SnowPack]() 
+### [🟩HighStump]()
+
+- 
+
+### [🟩SnowPack]() 
 
 - block snow from crushing the seedling
 
 
-## Related ✌ MovementElements ✌
+## Related 🟠 MovementElements 🟠
 
-### [✌SpadePryScreef]()
-
-- 
-
-### [✌TrunkGrip]()
+### [🟠SpadePryScreef]()
 
 - 
 
-### [✌CreaseGrip]()
+### [🟠TrunkGrip]()
+
+- 
+
+### [🟠CreaseGrip]()
 
 - 
 
 
-🔃✌🌲🧠💬
-## Related 🔃 RouteElements 🔃
+🔺🟠🟩💜🔷
+## Related 🔺 RouteElements 🔺
 
-### [🔃ObstacleFill]
+### [🔺ObstacleFill]
 
-### [🔃AreaBoundary]()
-
-- 
-
-### [🔃DownSlope]()
+### [🔺AreaBoundary]()
 
 - 
 
-### [🔃UpSlope]()
+### [🔺DownSlope]()
 
 - 
 
-### [🔃StumpFlag]()
+### [🔺UpSlope]()
+
+- 
+
+### [🔺StumpFlag]()
 
 - [FlagSite]()
 
-### [🔃BoundaryFlag]() 
+### [🔺BoundaryFlag]() 
 
 - 
 
-### [🔃Landmark]() 
+### [🔺Landmark]() 
 
 - 
 
-### [🔃TargetPoint]()
+### [🔺TargetPoint]()
 
 - 
 
 
-## Related 🧠 NeuroElements 🧠
+## Related 💜 NeuroElements 💜
 
-### [🧠Orientation]() 
+### [💜Orientation]() 
 - North side of the stump. 
 - 
 - 

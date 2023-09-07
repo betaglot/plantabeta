@@ -1,4 +1,4 @@
-# 🌲 Obstacle Overview 🌲
+# 🟩 Obstacle Overview 🟩
 
 ## What is an Obstacle?
 

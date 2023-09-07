@@ -1,6 +1,6 @@
-# 🔃 [Route](https://dictionary.cambridge.org/dictionary/english/route) Overview  🔃
+# 🔺 [Route](https://dictionary.cambridge.org/dictionary/english/route) Overview  🔺
 
-## Footprint Emoji 🔃
+## Footprint Emoji 🔺
 
 
 > a particular way or direction between places

@@ -1,3 +1,3 @@
-# 🧠 Algorithm 🧠
+# 💜 Algorithm 💜
 
 <!-- @include: /../Placeholder_NeuroProfile.md -->

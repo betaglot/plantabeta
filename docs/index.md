@@ -12,7 +12,7 @@ hero:
     - theme: brand
       text: Get Started
       link: /guide/WhatPlantbeta
-    - text: 🌲🔃🧠✌💬
+    - text: 🟩🔺💜🟠🔷
       link: /reference/Overview
     - text: Test
       link: /tests/Overview
@@ -22,7 +22,7 @@ hero:
       link: /sponsor/Overview
 
 features:
-  - icon: 🌲
+  - icon: 🟩
     title: Plant Better Quality 
     details: No More Replants!
   - icon: 🤑

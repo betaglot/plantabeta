@@ -1,3 +1,3 @@
-# 🧠 BagUpTime 🧠
+# 💜 BagUpTime 💜
 
 <!-- @include: /../Placeholder_NeuroProfile.md -->

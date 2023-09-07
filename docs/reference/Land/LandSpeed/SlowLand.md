@@ -1,3 +1,3 @@
-# 🌲 SlowLand 🌲
+# 🟩 SlowLand 🟩
 
 <!-- @include: /../Placeholder_LandProfile.md -->

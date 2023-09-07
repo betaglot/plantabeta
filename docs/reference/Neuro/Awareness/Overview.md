@@ -1,3 +1,3 @@
-# 🧠 Awareness Overview 🧠
+# 💜 Awareness Overview 💜
 
 ## Differences between Awareness and Attention
