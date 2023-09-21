@@ -43,7 +43,6 @@ export default defineConfig({
 function sidebarSponsor() {
   return [
     { text: 'How to be a Sponsor', link: '/sponsor/Overview' },
-    { text: 'Kickstarter', link: '/sponsor/Kickstarter'}
   ]
 }
 
@@ -54,21 +53,21 @@ function head(){
 function nav(){
   return [
     { text: 'Guide', 
-      link: '/guide/WhatPlantbeta', 
+      link: '/guide/What/WhatPlantbeta', 
       activeMatch: '/guide/' },
     {
       text: 'Reference',
-      link: '/reference/Overview',
+      link: '/reference/ReferenceOverview',
       activeMatch: '/reference/'
     },
     {
       text: 'Tests',
-      link: '/tests/Overview',
+      link: '/tests/TestsOverview',
       activeMatch: '/tests/'
     },
     {
       text: 'Development',
-      link: 'development/Overview',
+      link: 'development/DevelopmentOverview',
       activeMatch: '/development/'
     },
     {
@@ -92,8 +91,8 @@ function sidebarGuide() {
       collapsed: false,
       items: [
         { text: 'What is Tree Planting?', link: '/guide/What/WhatTreePlanting'},
-        { text: 'What is an Element?', link: '/guide/WhatElement'},
-        { text: 'What is Plantbeta?', link: '/guide/WhatPlantbeta' },
+        { text: 'What is an Element?', link: '/guide/What/WhatElement'},
+        { text: 'What is Plantbeta?', link: '/guide/What/WhatPlantbeta' },
         { text: 'Getting Started', link: '/guide/GettingStarted' },  
         { text: 'Website Navigation', link: '/guide/How/Navigation'}    
       ]
@@ -121,10 +120,10 @@ function sidebarGuide() {
 
 function sidebarReference() {
   return [
-    {text: 'Go to Guide', link: '/guide/WhatPlantbeta'},
+    {text: 'Go to Guide', link: '/guide/What/WhatPlantbeta'},
     {text: 'How to Use Reference', link: '/reference/Overview'},
     { text: '🟩 Environment', collapsed: true, items: [
-      { text: '🟩 Environment Overview', link: '/reference/Environment/Overview'},
+      { text: '🟩 Environment Overview', link: '/reference/Environment/EnvironmentOverview'},
       { text: '🟩 Area', collapsed: true, items: [
         { text: '🟩 Area Overview', link: '/reference/Environment/Area/Overview'},
         { text: '🟩 PocketArea', link: '/reference/Environment/Area/PocketArea'},
@@ -192,7 +191,7 @@ function sidebarReference() {
     ]
     },
     { text: '🟠 Move', collapsed: true, items: [
-        { text: '🟠 Move Overview', link: '/reference/Move/Overview'},
+        { text: '🟠 Move Overview', link: '/reference/Move/MoveOverview'},
         { text: '🟠 ArmMove', collapsed: true, items: [
           { text: '🟠 ArmMove Overview', link: '/reference/Move/ArmMove/Overview'},
           { text: '🟠 ArmBlock', link: '/reference/Move/ArmMove/ArmBlock'},
@@ -379,7 +378,7 @@ function sidebarReference() {
       ],
     },
     { text: '💜 Neuro', collapsed: true, items:[
-      { text: '💜 Neuro Overview', link: '/reference/Neuro/Overview'},
+      { text: '💜 Neuro Overview', link: '/reference/Neuro/NeuroOverview'},
       { text: '💜 Alignment', collapsed: true, items: [
         { text: '💜 Alignment Overview', link: '/reference/Neuro/Alignment/Overview'},
       ]},
@@ -455,7 +454,7 @@ function sidebarReference() {
 
     ]},
     { text: '🔺 Route', collapsed: true, items: [
-      { text: '🔺Route Overview', link: '/reference/Route/Overview' },
+      { text: '🔺Route Overview', link: '/reference/Route/RouteOverview' },
       { text: '🔺AreaFill', collapsed: true, items: [
         { text: '🔺 AreaFill Overview', link: '/reference/Route/AreaFill/Overview'},
         { text: '🔺 BoustroFill', link: '/reference/Route/AreaFill/BoustroFill'},            
@@ -519,7 +518,7 @@ function sidebarReference() {
       {text: '🔷 Beta Examples', link: '/reference/Beta/BetaExamples'},
     ]},
     { text: 'Glossary', link: '/reference/glossary/Glossary' },
-    { text: 'Gallery', link: 'reference/gallery/Overview'}  
+    { text: 'Gallery', link: '/reference/gallery/Overview'}  
   ] 
 }
 

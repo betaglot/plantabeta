@@ -1,11 +1,33 @@
 # [Systematized](https://dictionary.cambridge.org/dictionary/english/systematize) Tree Planting
 
-Plantbeta.com is a **product**. 
+Plantbeta.com is a **product** specifically designed to train planters how to plant more efficiently. 
 
-Plantbeta will provide a **service** to planting companies before and during the planting season. 
+- Plantbeta is a web app which contains all the information that a planter needs to know to perform their job in the [Reference](/reference/ReferenceOverview) section. 
+- Plantbeta has a [Tests](/tests/TestsOverview) section for planters to reinforce their knowledge and to find any gaps in their knowledge.
+- Unlike [Replant.ca](/https://replant.ca/), Plantbeta contains no information about the business side of planting, it's only from the planter's perspective. 
+- Each element of Plantbeta has its own profile. Currently you will see placeholders for each section of the profile. Each element profile has a profile picture, element description, a relationship graph showing how it relates to elements from the other subsystems, descriptions of how elements from other subsystems relate to the current element and at the bottom of the profile there are links to related elements (like the "See Also" section in Wikipedia pages). Not only are planters shown all the elements, but more importantly they are shown how they relate to each other. Some elements are highly related to other element such as [Attention](/reference/Neuro/Attention) (NeuroElement), while others are not related to other subsystems such as [TreeLoad](/reference/Move/ArmMove/TreeLoad) (grabbing a tree from your bag).
+    - [PocketArea](/reference/Environment/Area/PocketArea)
+        - It's more efficient to AreaFill than PerimeterFill (RouteElements) a PocketArea.
+        - You need to define the boundaries of the area (NeuroElement).
+    - [HandScreef](/reference/Move/HandMove/HandScreef)
+        - The SoilType (EnvironmentElement) determines if you SpadeScreef or HandScreef.
+        - You need to see and feel (NeuroElements) where the duff layer becomes MineralSoil to perform an effective HandScreef.
+    - [BackFill](/reference/Route/PieceFill/BackFill)
+        - The shape of the Piece (EnvironmentElement) determines if you want to BackFill or AreaFill.
+    - [BagUpSizeDecision](/reference/Neuro/Decision/BagUpSizeDecision)
+        - The Environment affects the BagUpSize, bigger BagUpSize for straight trenches (EnvironmentElement) compared to RawEnvironment (EnvironmentElement).
+        - BagUpSize depends on how fatigued (Neuro) you are.
+        - BagUpSize affects how fast you can move (MoveElement) and how easily you can climb over slash (EnvironmentElement).
+        - If you need to BackFill (RouteElement) a piece then you typically have a large BagUpSize.
 
-<!-- 
-![Gif of BetaLabelled PlantingSequence]() -->
+Plantbeta will provide a planter training **service** to planting companies before and during the planting season. 
+
+::: tip You're going think...
+- That Plantbeta can't deliver on its promises.
+- You’re going to think that this is more complicated than it needs to be.
+- You’re going to think that this is too much for a Rookie to take in.
+- You're going to think that a web app can't make people better planters.
+:::
 
 ## How does Plantbeta add Value to Planters?
 
@@ -179,23 +201,14 @@ Plantbeta will provide a **service** to planting companies before and during the
 
 ### [🔷 Examples of the Beta System 🔷](/reference/Beta/Overview)
 
+![BetaVenn](/BetaVenn.png)
 
 
-InsertImage(VennDiagram of Beta and Subsystems) 
 
-- [Plantbeta](/guide/introduction.html#what-is-plantbeta) is a tool for Tree Planter Education
 
-## Other Sport
 
-Analogy
 
-Isomorphism
-
-- Douglas Hofstadter
-
-Join Table
-
-## Who uses [Plantbeta](/guide/introduction.html#what-is-plantbeta)?
+## Who uses Plantbeta?
 
 ### [Potential Planters](/guide/Who/PotentialPlanter)
 - People who are interested in becoming a planter, but have no planting experience.
@@ -211,7 +224,7 @@ Join Table
 - The Planter Instructor can be a Planter Supervisor who is instructing on of their crew; an Experienced Planter giving advice to another Planter or a person who's job title is Planter Instructor (a position which only exists in a handful of planting companies).
 
 
-## When is [Plantbeta](/guide/introduction.html#what-is-plantbeta) used?
+## When is Plantbeta used?
 
 
 - Before and during your rookie season.
@@ -219,27 +232,25 @@ Join Table
 - Reference is used to find knowledge gaps while browsing while in transit to the block and during camp moves.
 
 
-## Where on Earth is Plantbeta useful?
-
-### British Columbia
-
-- [SteepSlopeWalk]()
-- [WetLog]()
-- [Burns]()
-
-### Ontario
 
 
-- [FastEnvironment]() [Trenches]()
-- [Burns]()
+## How is Plantbeta Innovative and Educational?
 
-### Quebec
+> Work smarter not harder
 
-### Alberta
+- Plantbeta is **FREE** educational resource for planters.
+- Plantbeta explains how to plant in greater nuance than ever before, by breaking down a planter's experience into 4 interdependent subsystems:
+    - Environment Subsystem
+    - Move Subsystem
+    - Routing Subsystem
+        - Also known as 'Land Management'
+    - Neuro Subsystem
 
-- [Burns]()
-
-
-
+- Plantbeta is innovative by using evidence-based knowledge from the [Huberman Lab Podcast](https://hubermanlab.com/). The podcast is run by [Andrew Huberman](https://hubermanlab.com/about/) who is a highly respected university professor from California. Some of the topics which are directly applicable to planting are: 
+    - [Fitness](https://hubermanlab.com/guest-series-dr-andy-galpin-maximize-recovery-to-achieve-fitness-and-performance-goals/), how to build muscle, how to recover, how to use supplments, how to train endurance, how the body converts food into energy.
+    - [Sleep](https://hubermanlab.com/sleep-toolkit-tools-for-optimizing-sleep-and-sleep-wake-timing/)
+    - [Salt](https://hubermanlab.com/using-salt-to-optimize-mental-and-physical-performance/), the importance of salt for mental and physical performance.
+    - [Learning](https://hubermanlab.com/how-to-learn-skills-faster/), how to learn faster and more deeply.
+    - [Caffeine](https://hubermanlab.com/using-caffeine-to-optimize-mental-and-physical-performance/), how to use caffeine to optimize mental and physical performance... and how to not overdo it.
 
 

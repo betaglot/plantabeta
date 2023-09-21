@@ -30,12 +30,17 @@ Answer 3
 
 ## Element Properties
 
-- Size
-- 
+- Element Size
+- Element Shape
+- Element Color
+- Element's Frequency of Occurrence
 
-## ElementRelationshipsGraph
+## Element Relationships Chart
 
-Graph which represents how this element is related to other elements in Plantbeta.
+Graph which represents how this element is related to other elements in Plantbeta. 
+🛠 The Element Relationships Chart is still [under development](/development/ElementRelationshipDiagram)
+
+
 <img height="350" width="350" src="/DirectedGraph_UndirectedGraph.png"/>
 
 ## Related 🟩 EnvironmentElements 🟩

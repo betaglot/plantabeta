@@ -33,6 +33,8 @@ Answer 3
 ## ElementRelationshipsGraph
 
 Graph which represents how this element is related to other elements in Plantbeta.
+🛠 The Element Relationships Chart is still [under development](/development/ElementRelationshipDiagram)
+
 <img height="350" width="350" src="/DirectedGraph_UndirectedGraph.png"/>
 
 ## Related 💜 NeuroElements 💜

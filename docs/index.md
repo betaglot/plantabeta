@@ -11,13 +11,13 @@ hero:
   actions:
     - theme: brand
       text: Get Started
-      link: /guide/WhatPlantbeta
+      link: /guide/What/WhatPlantbeta
     - text: 🟩🔺💜🟠🔷
-      link: /reference/Overview
+      link: /reference/ReferenceOverview
     - text: Test
-      link: /tests/Overview
+      link: /tests/TestsOverview
     - text: Develop
-      link: /development/Overview
+      link: /development/DevelopmentOverview
     - text: Sponsor
       link: /sponsor/Overview
 
