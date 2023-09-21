@@ -62,7 +62,7 @@ Don't go over the same place more than once.
 
 ## FillError
 
-### PinchedLand
+### PinchedEnvironment
 
 - FrontFillError
 

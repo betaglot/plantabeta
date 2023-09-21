@@ -48,7 +48,7 @@ Plantbeta is divided into 6 sections:
 
 1. Assign readings and tests to your crew members.
 2. Group Elements together into lesson plans.
-3. Adapt your lessons to the current LandType. 
+3. Adapt your lessons to the current EnvironmentType. 
 
 
 

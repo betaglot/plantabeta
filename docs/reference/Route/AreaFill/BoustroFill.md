@@ -48,13 +48,13 @@ Graph which represents how this element is related to other elements in Plantbet
 ### [ZigZag]()
 - 
 
-## LandElements
+## EnvironmentElements
 
-### [TrenchLand]
+### [TrenchEnvironment]
 
-### [SlopedLand]()
-- Travel across the land instead of up and down
-- Description of how this RouteElement relates to a particular [LandElement]().
+### [SlopedEnvironment]()
+- Travel across the Environment instead of up and down
+- Description of how this RouteElement relates to a particular [EnvironmentElement]().
 
 ### [Obstacle]() Preventing BoustroFill
 

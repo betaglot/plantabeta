@@ -4,36 +4,9 @@
 
 Plantbeta breaks down a planter's experience into simple elements. Each element has its own particular properties which when varied affect 
 
-Change Element properties affect how it relates to other elements and changes their properties too. These changes ripple out across Plantbeta's web of relationships.
+Changing an Element's properties affects how it relates to other elements and changes their properties too. These changes ripple out across Plantbeta's web of relationships.
 
-Com
-
-Hundreds of thousands of hours of practice. Ordered, compiled, structured **Systemized**
-
-Using the same system structure as the fields that you study during the school year. What if there was a touring course which would be 5 hours long? 
-
-Students already use
-
-Slot Tree planting into the system structure template
-
-
-Planters learn how to plant
-
-Planters already know how to 
-
-- HierarchySystem
-- SequenceSystem
-- ObjectOrientedProgramming
-- NamingSystem
-- **Textbook Structure**
-
-### Purpose of Elements
-
-- Simplification
-- Chunking
-- Parsing
-
-### Synonyms
+## Synonyms
 - Units
 - Foundations
 - First Principles
@@ -42,19 +15,14 @@ Planters already know how to
 - Basic Part
 - Building blocks
 
+## Purpose of Elements
 
-### System
+- The simplification of a planter's experience.
+- Chunking a planter's experience into discrete pieces of information so that they can combined in novel ways.
 
-A systematic approach to Tree Planting.
+## The Elements of ...
 
-::: tip What is a System?
-
-
-:::
-
-## Elements of ...
-
-## Elements of Geometry
+### The Elements of Geometry
 
 Euclid's Elements
 
@@ -68,22 +36,22 @@ Planters mostly use Book 1 which is simple.
 
 
 
-### Axioms = Element
+#### Axiom = Element
 
 [InsertImage]
 
 
-### Postulates = Element
+#### Postulate = Element
 
 [InsertImage]
 
 
-### Theorems = Element
+#### Theorem = Element
 
 [InsertImage]
 
 
-### Problems = Element
+#### Problem = Element
 
 
 [InsertDiagram] - Line
@@ -100,16 +68,16 @@ Planters mostly use Book 1 which is simple.
 
 
 
-### Equilateral Triangle
+#### Equilateral Triangle
 
 [InsertImage] 1.1 Equilateral Triangle
 - Perfect Spacing
 - perfect density
 - route 
 
-### Triangle Sides Theorem 
+#### Triangle Sides Theorem 
 
-### Route
+#### Route
 
 <!--  -->
 ::: details Read Further
@@ -122,7 +90,7 @@ Byrne's Euclid
 
 :::
 
-## Elements of a Set
+### The Elements of a Set
 
  1,2,3,4,5...
 
@@ -139,7 +107,7 @@ Set Theory
 
 :::
 
-### Phylogenic Tree
+### The Elements of a Phylogenic Tree
 
 Mammal Example
 
@@ -151,14 +119,14 @@ Plant Example
 
 
 
-## Elements of Music
+### The Elements of Music
 - Rhythm = Element
 - Melody = Element
 - Harmony = Element
 - Tempo = Element
 - Pitch = Element
 
-## Elements of Chemistry
+### The Elements of Chemistry
 - periodic table of elements
     - Trends
     - Groups
@@ -181,9 +149,9 @@ Simple chemical substance.
 
 :::
 
-## Elements of Avatar Bending
+### The Elements of Avatar Bending
 
-Avatar
+Avatar the Last Air Bender
 
 [InsertImage] Aang
 
@@ -195,36 +163,7 @@ Earth = Element
 
 Air = Element
 
-## Elements of Skateboarding
-
-Trick = Element
-
-[Element Difficulty](https://www.youtube.com/watch?v=OOg-4mtA3Zo&ab_channel=WIRED)
-
-Level of Complexity
-
-
-::: details External Links
-
-I Will Explain This New Olympic Sport To You: Skateboarding
-- https://defector.com/i-will-explain-this-new-olympic-sport-to-you-skateboarding
-
-The ultimate list of skateboard tricks
-- https://www.surfertoday.com/skateboarding/the-ultimate-list-of-skateboard-tricks
-
-Skateboard Trick List
-- https://www.skateboardhere.com/skateboard-trick-list.html
-
-Wikipedia
-- https://en.wikipedia.org/wiki/Freestyle_skateboarding_tricks
-
-- https://www.ign.com/wikis/tony-hawks-pro-skater-1-and-2/Tricks_List#Grab_Tricks
-
-21 Levels of Skateboarding with Tony Hawk: Easy to Complex | WIRED
-- https://www.youtube.com/watch?v=OOg-4mtA3Zo&ab_channel=WIRED
-:::
-
-## Elements of Gymnastics
+### The Elements of Gymnastics
 
 ::: details External Links
 
@@ -234,7 +173,7 @@ Wikipedia
 
 :::
 
-## Elements of HTML web pages
+### The Elements of HTML web pages
 
 Paragraph
 
@@ -286,7 +225,7 @@ Route
 
 <img height="300" width="500" src="/PascalCase.png">
 
-Each of the Beta Subsystems ([Land](), [Movement](), [Route](), [Neuro]() ) has its own elements, although most elements are a combination of all four subsystems. For example [HandClose]() depends on the [SoilType]() (Land), [Touch and Pressure sensations]() (Neuro), and the obstacles which narrow the range of [approach trajectories]() possible to perform the [HandClose]() (Route).
+Each of the Beta Subsystems ([Environment](), [Movement](), [Route](), [Neuro]() ) has its own elements, although most elements are a combination of all four subsystems. For example [HandClose]() depends on the [SoilType]() (Environment), [Touch and Pressure sensations]() (Neuro), and the obstacles which narrow the range of [approach trajectories]() possible to perform the [HandClose]() (Route).
 
 Elements are added together to create new, more complex, elements. For example [SpadeScreef]() = {[HandleGrip](), [ShaftGrip](), [Soil](), [SlopeAngle](), [Slash](), [Attention]()} 
 

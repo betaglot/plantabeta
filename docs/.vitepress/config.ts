@@ -17,7 +17,7 @@ export default defineConfig({
       logo: 'android-chrome-512x512.png',
       socialLinks: [
         { icon: 'youtube', link: 'https://github.com/vuejs/vitepress' },
-        { icon: 'instagram', link: 'https://www.instagram.com/theplantbeta/' }
+        { icon: 'instagram', link: 'https://www.instagram.com/the_plantbeta/' }
       ],
       footer: {
         message: '',
@@ -95,12 +95,12 @@ function sidebarGuide() {
         { text: 'What is an Element?', link: '/guide/WhatElement'},
         { text: 'What is Plantbeta?', link: '/guide/WhatPlantbeta' },
         { text: 'Getting Started', link: '/guide/GettingStarted' },  
-        { text: 'Navigation', link: '/guide/How/Navigation'}    
+        { text: 'Website Navigation', link: '/guide/How/Navigation'}    
       ]
     },
     {
       text: 'Objectives', collapsed: false, items: [
-        { text: '🔥🟩🔥 Replant Burnt Land', link: '/guide/Why/Wildfire'},
+        { text: '🔥🟩🔥 Replant Burnt Environment', link: '/guide/Why/Wildfire'},
         { text: '🟠 Reduce Injury', link: '/guide/Why/Injury'},
         { text: '🔺 Increase Productivity', link: '/guide/Why/Productivity'},
         { text: '🔷 Better Communication', link: '/guide/Why/Communication'},
@@ -123,75 +123,75 @@ function sidebarReference() {
   return [
     {text: 'Go to Guide', link: '/guide/WhatPlantbeta'},
     {text: 'How to Use Reference', link: '/reference/Overview'},
-    { text: '🟩 Land Subsystem', collapsed: true, items: [
-      { text: '🟩 Land Overview', link: '/reference/Land/Overview'},
+    { text: '🟩 Environment', collapsed: true, items: [
+      { text: '🟩 Environment Overview', link: '/reference/Environment/Overview'},
       { text: '🟩 Area', collapsed: true, items: [
-        { text: '🟩 Area Overview', link: '/reference/Land/Area/Overview'},
-        { text: '🟩 PocketArea', link: '/reference/Land/Area/PocketArea'},
-        { text: '🟩 RiparianArea', link: '/reference/Land/Area/RiparianArea'},
-        { text: '🟩 RockCapArea', link: '/reference/Land/Area/RockCapArea'},
-        { text: '🟩 SlashPileArea', link: '/reference/Land/Area/SlashPileArea'},
+        { text: '🟩 Area Overview', link: '/reference/Environment/Area/Overview'},
+        { text: '🟩 PocketArea', link: '/reference/Environment/Area/PocketArea'},
+        { text: '🟩 RiparianArea', link: '/reference/Environment/Area/RiparianArea'},
+        { text: '🟩 RockCapArea', link: '/reference/Environment/Area/RockCapArea'},
+        { text: '🟩 SlashPileArea', link: '/reference/Environment/Area/SlashPileArea'},
       ]},
       { text: '🟩 Block', collapsed: true, items: [
-        { text: '🟩 Block Overview', link: '/reference/Land/Block/Overview'},
-        { text: '🟩 FillBlock', link: '/reference/Land/Block/FillBlock'},
-        { text: '🟩 Road', link: '/reference/Land/Block/Road'},
+        { text: '🟩 Block Overview', link: '/reference/Environment/Block/Overview'},
+        { text: '🟩 FillBlock', link: '/reference/Environment/Block/FillBlock'},
+        { text: '🟩 Road', link: '/reference/Environment/Block/Road'},
       ]},
       { text: '🟩 Density', collapsed: true, items: [
-        { text: '🟩 Density Overview', link: '/reference/Land/Density/Overview'},
-        { text: '🟩 Plot', link: '/reference/Land/Density/Plot'},
+        { text: '🟩 Density Overview', link: '/reference/Environment/Density/Overview'},
+        { text: '🟩 Plot', link: '/reference/Environment/Density/Plot'},
       
       ]},
-      { text: '🟩 LandSpeed', collapsed: true, items: [
-        { text: '🟩 LandSpeed Overview', link: '/reference/Land/LandSpeed/Overview'},
-        { text: '🟩 FastLand', link: '/reference/Land/LandSpeed/FastLand'},
-        { text: '🟩 SlowLand', link: '/reference/Land/LandSpeed/SlowLand'},
+      { text: '🟩 EnvironmentSpeed', collapsed: true, items: [
+        { text: '🟩 EnvironmentSpeed Overview', link: '/reference/Environment/EnvironmentSpeed/Overview'},
+        { text: '🟩 FastEnvironment', link: '/reference/Environment/EnvironmentSpeed/FastEnvironment'},
+        { text: '🟩 SlowEnvironment', link: '/reference/Environment/EnvironmentSpeed/SlowEnvironment'},
       ]},
       { text: '🟩 Obstacle', collapsed: true, items: [
-        { text: '🟩 Obstacle Overview', link: '/reference/Land/Obstacle/Overview'},
-        { text: '🟩 LogObstacle', link: '/reference/Land/Obstacle/LogObstacle'},
-        { text: '🟩 RockObstacle', link: '/reference/Land/Obstacle/RockObstacle'},
-        { text: '🟩 StumpObstacle', link: '/reference/Land/Obstacle/StumpObstacle'},
+        { text: '🟩 Obstacle Overview', link: '/reference/Environment/Obstacle/Overview'},
+        { text: '🟩 LogObstacle', link: '/reference/Environment/Obstacle/LogObstacle'},
+        { text: '🟩 RockObstacle', link: '/reference/Environment/Obstacle/RockObstacle'},
+        { text: '🟩 StumpObstacle', link: '/reference/Environment/Obstacle/StumpObstacle'},
       ]},
       { text: '🟩 Piece', collapsed: true, items: [
-        { text: '🟩 Piece Overview', link: '/reference/Land/Piece/Overview'},
-        { text: '🟩 PieceTopography', link: '/reference/Land/Piece/PieceTopography'},
+        { text: '🟩 Piece Overview', link: '/reference/Environment/Piece/Overview'},
+        { text: '🟩 PieceTopography', link: '/reference/Environment/Piece/PieceTopography'},
       ]},
       { text: '🟩 Prep', collapsed: true, items: [
-        { text: '🟩 PrepLand Overview', link: '/reference/Land/Prep/Overview'},
-        { text: '🟩 MoundLand', link: '/reference/Land/Prep/MoundLand'},
-        { text: '🟩 TrenchLand', link: '/reference/Land/Prep/TrenchLand'},
+        { text: '🟩 PrepEnvironment Overview', link: '/reference/Environment/Prep/Overview'},
+        { text: '🟩 MoundEnvironment', link: '/reference/Environment/Prep/MoundEnvironment'},
+        { text: '🟩 TrenchEnvironment', link: '/reference/Environment/Prep/TrenchEnvironment'},
       ]},
       { text: '🟩 Raw', collapsed: true, items: [
-        { text: '🟩 RawLand Overview', link: '/reference/Land/Raw/Overview'},
-        { text: '🟩 BurnPit', link: '/reference/Land/Raw/BurnPit'},
-        { text: '🟩 BurntLand', link: '/reference/Land/Raw/BurntLand'},
+        { text: '🟩 RawEnvironment Overview', link: '/reference/Environment/Raw/Overview'},
+        { text: '🟩 BurnPit', link: '/reference/Environment/Raw/BurnPit'},
+        { text: '🟩 BurntEnvironment', link: '/reference/Environment/Raw/BurntEnvironment'},
         
       ]},
       { text: '🟩 Slash', collapsed: true, items: [
-        { text: '🟩 Slash Overview', link: '/reference/Land/Slash/Overview'},
-        { text: '🟩 BurnPileSlash', link: '/reference/Land/Slash/BurnPileSlash'},
-        { text: '🟩 HighSlash', link: '/reference/Land/Slash/HighSlash'},
-        { text: '🟩 LowSlash', link: '/reference/Land/Slash/LowSlash'},
-        { text: '🟩 WetSlash', link: '/reference/Land/Slash/WetSlash'},
+        { text: '🟩 Slash Overview', link: '/reference/Environment/Slash/Overview'},
+        { text: '🟩 BurnPileSlash', link: '/reference/Environment/Slash/BurnPileSlash'},
+        { text: '🟩 HighSlash', link: '/reference/Environment/Slash/HighSlash'},
+        { text: '🟩 LowSlash', link: '/reference/Environment/Slash/LowSlash'},
+        { text: '🟩 WetSlash', link: '/reference/Environment/Slash/WetSlash'},
       ]},
       { text: '🟩 Soil', collapsed: true, items: [
-        { text: '🟩 Soil Overview', link: '/reference/Land/Soil/Overview'},
-        { text: '🟩 ClaySoil', link: '/reference/Land/Soil/ClaySoil'},
-        { text: '🟩 DrySoil', link: '/reference/Land/Soil/DrySoil'},
-        { text: '🟩 GravelSoil', link: '/reference/Land/Soil/GravelSoil'},
-        { text: '🟩 MineralSoil', link: '/reference/Land/Soil/MineralSoil'},
-        { text: '🟩 RedRot', link: '/reference/Land/Soil/RedRot'},
-        { text: '🟩 SandSoil', link: '/reference/Land/Soil/SandSoil'},
-        { text: '🟩 WetSoil', link: '/reference/Land/Soil/WetSoil'},
+        { text: '🟩 Soil Overview', link: '/reference/Environment/Soil/Overview'},
+        { text: '🟩 ClaySoil', link: '/reference/Environment/Soil/ClaySoil'},
+        { text: '🟩 DrySoil', link: '/reference/Environment/Soil/DrySoil'},
+        { text: '🟩 GravelSoil', link: '/reference/Environment/Soil/GravelSoil'},
+        { text: '🟩 MineralSoil', link: '/reference/Environment/Soil/MineralSoil'},
+        { text: '🟩 RedRot', link: '/reference/Environment/Soil/RedRot'},
+        { text: '🟩 SandSoil', link: '/reference/Environment/Soil/SandSoil'},
+        { text: '🟩 WetSoil', link: '/reference/Environment/Soil/WetSoil'},
   
       ]},
       { text: '🟩 Weather', collapsed: true, items: [
-        { text: '🟩 Weather Overview', link: '/reference/Land/Weather/Overview'},
+        { text: '🟩 Weather Overview', link: '/reference/Environment/Weather/Overview'},
       ]},
     ]
     },
-    { text: '🟠 Movement Subsystem', collapsed: true, items: [
+    { text: '🟠 Movement', collapsed: true, items: [
         { text: '🟠 Movement Overview', link: '/reference/Movement/Overview'},
         { text: '🟠 ArmMovement', collapsed: true, items: [
           { text: '🟠 ArmMovement Overview', link: '/reference/Movement/ArmMovement/Overview'},
@@ -378,7 +378,7 @@ function sidebarReference() {
         ]}
       ],
     },
-    { text: '💜 Neuro Subsystem', collapsed: true, items:[
+    { text: '💜 Neuro', collapsed: true, items:[
       { text: '💜 Neuro Overview', link: '/reference/Neuro/Overview'},
       { text: '💜 Alignment', collapsed: true, items: [
         { text: '💜 Alignment Overview', link: '/reference/Neuro/Alignment/Overview'},
@@ -417,8 +417,8 @@ function sidebarReference() {
       { text: '💜 Event', collapsed: true, items: [
         { text: '💜 Event Overview', link: '/reference/Neuro/Event/Overview'},
       ]},
-      { text: '💜 Hearing', collapsed: true, items: [
-        { text: '💜 Hearing Overview', link: '/reference/Neuro/Hearing/Overview'},
+      { text: '💜 Listening', collapsed: true, items: [
+        { text: '💜 Listening Overview', link: '/reference/Neuro/Hearing/Overview'},
         { text: '💜 SpadeSound', link: '/reference/Neuro/Hearing/Overview'},
         { text: '💜 SlashSound', link: '/reference/Neuro/Hearing/SlashSound'},
         { text: '💜 SoilSound', link: '/reference/Neuro/Hearing/SoilSound'},
@@ -438,6 +438,8 @@ function sidebarReference() {
         { text: '💜 Playlists', link: '/reference/Neuro/Music/Overview'},
       
       ]},
+      { text: '💜 Proprioception', link: '/reference/Neuro/Proprioception'},
+
       { text: '💜 Time', collapsed: true, items: [
         { text: '💜 Time Overview', link: '/reference/Neuro/Time/Overview'},
         { text: '💜 BagUpTime', link: '/reference/Neuro/Time/BagUpTime'},
@@ -448,13 +450,11 @@ function sidebarReference() {
         { text: '💜 Timer', link: '/reference/Neuro/Time/Timer'},
       ]},
       
-      { text: '💜 DistanceEstimation', link: '/reference/Neuro/DistanceEstimation'},
-      { text: '💜 Fatigue', link: '/reference/Neuro/Fatigue'},
-      { text: '💜 Proprioception', link: '/reference/Neuro/Proprioception'},
+      
       { text: '💜 Thermoception', link: '/reference/Neuro/Thermoception'},
 
     ]},
-    { text: '🔺 Route Subsystem', collapsed: true, items: [
+    { text: '🔺 Route', collapsed: true, items: [
       { text: '🔺Route Overview', link: '/reference/Route/Overview' },
       { text: '🔺AreaFill', collapsed: true, items: [
         { text: '🔺 AreaFill Overview', link: '/reference/Route/AreaFill/Overview'},

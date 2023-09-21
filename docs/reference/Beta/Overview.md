@@ -25,7 +25,7 @@ This each line are analog pairs. The equal signs = denotes where Climbing and Pl
 |        🟧🟧🟧🟧🟧 Climbing | Planting 🟩🟩🟩🟩🟩 |
 | -------------------------: | :------------------ |
 |                  🟧 Beta = | = Beta 🟩           |
-|                  🟧 Wall = | = Land 🟩           |
+|                  🟧 Wall = | = Environment 🟩           |
 |                 🟧 Route = | = Route 🟩          |
 |                 🟧 Neuro = | = Neuro 🟩          |
 |          🟧 Wall Section🟧 | 🟩 Piece 🟩         |
@@ -56,7 +56,7 @@ This each line are analog pairs. The equal signs = denotes where Climbing and Pl
 ### Definition(BetaInstance)
 
 - Snapshot of what a planter is doing and thinking in a particular Moment.
-- The current state of the Land, Route, Planter[Move, Neuro].
+- The current state of the Environment, Route, Planter[Move, Neuro].
 - An element of a BetaStack or BetaSequence.
 - There is no time in a BetaInstance
 

@@ -40,10 +40,10 @@ Graph which represents how this element is related to other elements in Plantbet
 ## Related 🟠 MovementElements
 
 
-## Related 🟩 LandElements
-- Description of how this NeuroElement relates to a particular [LandElement]().
-- Description of how this NeuroElement relates to a particular [LandElement]().
-- Description of how this NeuroElement relates to a particular [LandElement]().
+## Related 🟩 EnvironmentElements
+- Description of how this NeuroElement relates to a particular [EnvironmentElement]().
+- Description of how this NeuroElement relates to a particular [EnvironmentElement]().
+- Description of how this NeuroElement relates to a particular [EnvironmentElement]().
 ## Related 🔺 RouteElements
 - Description of how this NeuroElement relates to a particular [RouteElement]().
 - Description of how this NeuroElement relates to a particular [RouteElement]().

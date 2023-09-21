@@ -35,18 +35,18 @@ The best resource which can be found is Replant.ca, but this site could be bette
 - Plantbeta has a [Tests](/tests/Overview) section for planters to reinforce their knowledge and to find any gaps in their knowledge.
 - Unlike Replant.ca, Plantbeta contains no information about the business side of planting, it's only from the planter's perspective. 
 - Each element of Plantbeta has its own profile. Currently you will see placeholders for each section of the profile. Each element profile has a profile picture, element description, a relationship graph showing how it relates to elements from the other subsystems, descriptions of how elements from other subsystems relate to the current element and at the bottom of the profile there are links to related elements (like the "See Also" section in Wikipedia pages). Not only are planters shown all the elements, but more importantly they are shown how they relate to each other. Some elements are highly related to such as Attention (NeuroElement), while others are not related to other subsystems such as TreeLoad (grabbing a tree from your bag).
-    - [PocketArea](/reference/Land/Area/PocketArea.md)
+    - [PocketArea](/reference/Environment/Area/PocketArea.md)
         - It's more efficient to AreaFill than PerimeterFill (RouteElements) a PocketArea.
         - You need to define the boundaries of the area (NeuroElement).
     - [HandScreef](/reference/Movement/HandMovement/HandScreef)
-        - The SoilType (LandElement) determines if you SpadeScreef or HandScreef.
+        - The SoilType (EnvironmentElement) determines if you SpadeScreef or HandScreef.
         - You need to see and feel (NeuroElements) where the duff layer becomes MineralSoil to perform an effective HandScreef.
     - [BackFill](/reference/Route/PieceFill/BackFill)
-        - The shape of the Piece (LandElement) determines if you want to BackFill or AreaFill.
+        - The shape of the Piece (EnvironmentElement) determines if you want to BackFill or AreaFill.
     - [BagUpSizeDecision](/reference/Neuro/Decision/BagUpSizeDecision)
-        - The land affects the BagUpSize, bigger BagUpSize for straight trenches (LandElement) compared to RawLand (LandElement).
+        - The Environment affects the BagUpSize, bigger BagUpSize for straight trenches (EnvironmentElement) compared to RawEnvironment (EnvironmentElement).
         - BagUpSize depends on how fatigued (Neuro) you are.
-        - BagUpSize affects how fast you can move (MovementElement) and how easily you can climb over slash (LandElement).
+        - BagUpSize affects how fast you can move (MovementElement) and how easily you can climb over slash (EnvironmentElement).
         - If you need to BackFill (RouteElement) a piece then you typically have a large BagUpSize.
 
 ## How is Plantbeta Innovative and Educational?
@@ -55,7 +55,7 @@ The best resource which can be found is Replant.ca, but this site could be bette
 
 - Plantbeta is **FREE** educational resource for planters.
 - Plantbeta explains how to plant in greater nuance than ever before, by breaking down a planter's experience into 4 interdependent subsystems:
-    - Land System
+    - Environment System
     - Movement System
     - Routing System
         - Also known as 'Land Management'
@@ -74,7 +74,7 @@ The best resource which can be found is Replant.ca, but this site could be bette
 > "We take pride in our work and reputation as we strive to be one of the most efficient and innovative companies on the market"
 
 - Plantbeta will increase Quastuco's reputation, since Quastuco's logo is prominently displayed on the home page and on every other page, therefore advertising Quastuco to every user, everytime they use the app. With a greater amount of advertising comes a greater number of applicants, so you can be more selective in your hiring process.
-- You, Bunky and the Overland family, could be the planters in the movement element photos if you wanted.
+- You, Bunky and the OverEnvironment family, could be the planters in the movement element photos if you wanted.
 - Quastuco can be one who posts an annoucement Plantbeta to King Kong Reforestation.
 
 <pre>
@@ -108,7 +108,7 @@ Flagging reduction, the goal is a 60% reduction in single use plastics...Veteran
 - Quastuco has a Facebook page which has a good design, but Gen Z doesn't use Facebook, so, future planters won't see it. 
     - [NBC news](https://www.nbcnews.com/tech/tech-news/gen-z-facebook-pew-research-center-finds-rcna42429)
 - Other planting companies have well designed websites
-    - [Outland Website](https://www.outlandplanting.ca/)
+    - [OutEnvironment Website](https://www.outEnvironmentplanting.ca/)
     - [Brinkman Website](https://www.brinkmanreforestation.ca/)
 
 ---
@@ -137,14 +137,14 @@ Flagging reduction, the goal is a 60% reduction in single use plastics...Veteran
 ### Research during this current season 2023 {#title1} 
 
 #### Photography
-- Take photos of land from the ground and from the air (with Jess's help), then abstract them into Land Diagrams.
+- Take photos of Environment from the ground and from the air (with Jess's help), then abstract them into Environment Diagrams.
 - Take photos and videos of Planters for Movement and Route Element Profiles. 
 
 #### Recording Observations
 
 - What are the most common ways that planters lose time?
-- What parts of the land does RookieStare most frequently occur?
-- Expand the LandSystem section, adding more microsite types to Plantbeta.
+- What parts of the Environment does RookieStare most frequently occur?
+- Expand the EnvironmentSystem section, adding more microsite types to Plantbeta.
 - HighBaller Observation
     - Identify individual strengths and weaknesses.
     - How do HighBallers plant more trees? How much has to do with movement speed and how much to do with Routing (Land Management)?
@@ -167,7 +167,7 @@ From the end of this planting season to end of next season, I'll be making Plant
 - Building Quastuco.com
 - Editing videos of Movements into Gifs and Photos
 - Editing and inserting photos into ElementProfiles
-- Making LandDiagrams from LandPhotos
+- Making EnvironmentDiagrams from EnvironmentPhotos
 - Writing all the text for Plantbeta.
 - Building the Tests.
 - Graphing the relationships between elements

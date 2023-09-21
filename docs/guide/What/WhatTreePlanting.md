@@ -1,35 +1,51 @@
 # What is Tree Planting?
 
-[InsertImage] Tree Planter planting a tree
+![InstaPhoto033](/InstaPhoto033.jpg)
 
-Every year millions of trees are planted across Canada. Each plant is planted in a microsite by a planter. A planter must carry 
+Every year millions of tree seedlings are planted across Canada. As shown in the image above, the planter finds a suitable place to plant a seedling, then uses a spade to open holes for the seedling to be inserted, then the planter closes the hole and the cycle repeats thousands of times each day.  
 
-Every step of the way can be optimized. 
+Every step of the planting process can be optimized, usually it takes planters a whole season (approximately 80 days) to learn how to plant trees efficiently.  
 
-A one percent increase in productivity can 
+For a great look at what tree planting is like, watch this documentary [One Million Trees](https://www.youtube.com/watch?v=ep6sWECi3BE)
 
-::: details Links to Articles
+![OneMillionTrees](/OneMillionTrees.png)
+
+::: details Click Here to view links to recent media articles about Tree Planting 
 
 Tree Planting - Province of British Columbia
 - https://www2.gov.bc.ca/gov/content/industry/forestry/managing-our-forest-resources/silviculture/tree-planting
 
 Ontario woman goes viral for planting more than 4,500 trees in a day
 - https://nationalpost.com/news/canada/she-planted-more-than-4500-trees-in-a-day-and-found-an-audience-of-millions
+
+'Completely different, crazy world' of B.C. tree planting revealed in documentary One Million Trees
+- https://www.cbc.ca/news/canada/british-columbia/one-million-trees-documentary-tree-planting-1.5791939
+
+Forestry sector scrambles to recruit tree planters to sow millions — perhaps billions — more seedlings
+- https://www.cbc.ca/news/canada/british-columbia/tree-planters-shortage-climate-change-1.5170853
+
 :::
 
 <!--  -->
-::: tip Frequently Asked Questions
+
+## Frequently Asked Questions about Tree Planting
+
+::: tip 
 
 - Click on each question to view its answer. 
 - Click again to hide the answer.
 
 :::
 <!--  -->
-::: details $$$ How much does a planter usually plant in a day? $$$
+::: details How much does a planter usually plant in a day?
 
-Range between 1000 and 3000
+Planters in Canada usually plant between 1000 and 3000 trees a day.
 
-On some very difficult Land 500 trees is a good day.
+In some very difficult Environments 500 trees is a good day.
+
+The current record is held by [Antoine Moses](https://www.instagram.com/antomosplant/)
+
+![Guiness](/Guiness.png)
 
 :::
 <!--  -->
@@ -37,33 +53,52 @@ On some very difficult Land 500 trees is a good day.
 
 Seedling
 
+![InstaPhoto025](/InstaPhoto025.jpeg)
+
+---
+
+![InstaPhoto011](/InstaPhoto011.jpg)
+
 :::
 <!--  -->
-::: details What does a typical piece of land look like?
+::: details What does a typical planting Environment look like?
 
-[InsertImage]
+![InstaPhoto015](/InstaPhoto015.jpg)
+
+---
+
+![InstaPhoto031](/InstaPhoto031.jpg)
+
+---
+
+![InstaPhoto033](/InstaPhoto033.jpg)
+
+---
+
+![InstaPhoto034](/InstaPhoto034.jpg)
+
 
 :::
 <!--  -->
-::: details What species of Trees are planted?
+::: details What types of Trees are planted?
+
+The three main types of seedlings which are planted are: 
 
 Pine
-[InsertImage]
+![InstaPhoto011](/InstaPhoto011.jpg)
 
 Spruce
-[InsertImage]
+![InstaPhoto059](/InstaPhoto059.jpg)
 
 Fir
-[InsertImage]
+![InstaPhoto071](/InstaPhoto071.jpg)
 
-Larch
-[InsertImage]
 
 :::
 <!--  -->
 ::: details How much are Planters paid per tree?
 
-The "centage" for each tree planted usually ranges from 15 to 18 cents in British Columbia. Sometimes it can go as high as 45 cents for very difficult or inaccessible land. 
+The "centage" for each tree planted usually ranges from 15 to 18 cents in British Columbia. Sometimes it can go as high as 45 cents for very difficult or inaccessible Environment. 
 
 :::
 
@@ -80,11 +115,11 @@ Approximately 6500 planters each season in Canada
 
 - Wake 
 - Load gear into vehicles
-- Drive to Land
+- Drive to Environment
 - Plant for 8.5 hours
     - Take trees out of boxes or trays, then load the trees into bags
     [InsertImage] 
-    - Put on the bags and walk into your land 
+    - Put on the bags and walk into your Environment 
     [InsertImage]
     - Plant all the trees in your bag
 

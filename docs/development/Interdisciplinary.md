@@ -23,7 +23,7 @@
 ### Geology
 
 - Soil deposition patterns
-    - Being able to guess where soil is thickest is especially useful in RockyLand which has been eroded by water.
+    - Being able to guess where soil is thickest is especially useful in RockyEnvironment which has been eroded by water.
 
 ### Hockey
 
@@ -47,7 +47,7 @@
         - [ShaftGrip]()
         - [HandleGrip]()
 
-### Landscaping
+### Environmentscaping
 
 - Lawn Mower uses Route
     - https://www.wired.com/2012/08/optimal-lawn-mowing-patterns/

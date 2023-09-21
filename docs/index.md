@@ -22,7 +22,7 @@ hero:
       link: /sponsor/Overview
 
 features:
-  - icon: 🟩
+  - icon: 🌲
     title: Plant Better Quality 
     details: No More Replants!
   - icon: 🤑

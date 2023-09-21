@@ -376,7 +376,7 @@
         "type": "sidecar"
       },
       {
-        "title": "Dev.Element.ElementDiagram.Labels.TextLabel.LandLabel",
+        "title": "Dev.Element.ElementDiagram.Labels.TextLabel.EnvironmentLabel",
         "color": "#ffffffff",
         "textcolor": "#000000ff",
         "type": "sidecar"
@@ -2084,7 +2084,7 @@
         "type": "sidecar"
       },
       {
-        "title": "Beta.BetaDiagram.POV.FromLandView",
+        "title": "Beta.BetaDiagram.POV.FromEnvironmentView",
         "color": "#4986e7ff",
         "textcolor": "white",
         "type": "sidecar"
@@ -2442,7 +2442,7 @@
         "type": "sidecar"
       },
       {
-        "title": "Route.Chunking.Landmark",
+        "title": "Route.Chunking.Environmentmark",
         "color": "#f83a22b8",
         "textcolor": "white",
         "type": "sidecar"
@@ -2544,7 +2544,7 @@
         "type": "sidecar"
       },
       {
-        "title": "Route.LandInfluenceRoute.Overview",
+        "title": "Route.EnvironmentInfluenceRoute.Overview",
         "color": "#f83a22b8",
         "textcolor": "white",
         "type": "sidecar"
@@ -2616,7 +2616,7 @@
         "type": "sidecar"
       },
       {
-        "title": "Route.ReadLand",
+        "title": "Route.ReadEnvironment",
         "color": "#f83a22b8",
         "textcolor": "white",
         "type": "sidecar"
@@ -3000,7 +3000,7 @@
         "type": "sidecar"
       },
       {
-        "title": "Route.RoutePoint.Landmark",
+        "title": "Route.RoutePoint.Environmentmark",
         "color": "#f83a22b8",
         "textcolor": "white",
         "type": "sidecar"
@@ -3718,13 +3718,13 @@
         "type": "sidecar"
       },
       {
-        "title": "Move.BodyMove.Landing",
+        "title": "Move.BodyMove.Environmenting",
         "color": "#ff7537ff",
         "textcolor": "white",
         "type": "sidecar"
       },
       {
-        "title": "Move.BodyMove.Landing.MoveError.LegProp",
+        "title": "Move.BodyMove.Environmenting.MoveError.LegProp",
         "color": "#ff7537ff",
         "textcolor": "white",
         "type": "sidecar"
@@ -6106,659 +6106,659 @@
     "modified_date": 1692845469914
   },
   {
-    "title": "Land",
+    "title": "Environment",
     "uuid": "838d06f0-393d-11ee-a0d1-d93a7e5e9515",
     "children": [
       {
-        "title": "Land.Area.Overview",
+        "title": "Environment.Area.Overview",
         "color": "#008000ff",
         "textcolor": "#ffffffff",
         "type": "sidecar"
       },
       {
-        "title": "Land.Area.PocketArea",
+        "title": "Environment.Area.PocketArea",
         "color": "#008000ff",
         "textcolor": "#ffffffff",
         "type": "sidecar"
       },
       {
-        "title": "Land.Area.RiparianArea",
+        "title": "Environment.Area.RiparianArea",
         "color": "#008000ff",
         "textcolor": "#ffffffff",
         "type": "sidecar"
       },
       {
-        "title": "Land.Area.RockCapArea",
+        "title": "Environment.Area.RockCapArea",
         "color": "#008000ff",
         "textcolor": "#ffffffff",
         "type": "sidecar"
       },
       {
-        "title": "Land.Area.SlashPileArea",
+        "title": "Environment.Area.SlashPileArea",
         "color": "#008000ff",
         "textcolor": "#ffffffff",
         "type": "sidecar"
       },
       {
-        "title": "Land.Block.FillBlock",
+        "title": "Environment.Block.FillBlock",
         "color": "#008000ff",
         "textcolor": "#ffffffff",
         "type": "sidecar"
       },
       {
-        "title": "Land.Block.OverflowBlock",
+        "title": "Environment.Block.OverflowBlock",
         "color": "#008000ff",
         "textcolor": "#ffffffff",
         "type": "sidecar"
       },
       {
-        "title": "Land.Block.Overview",
+        "title": "Environment.Block.Overview",
         "color": "#008000ff",
         "textcolor": "#ffffffff",
         "type": "sidecar"
       },
       {
-        "title": "Land.Block.Road",
+        "title": "Environment.Block.Road",
         "color": "#008000ff",
         "textcolor": "#ffffffff",
         "type": "sidecar"
       },
       {
-        "title": "Land.Block.WalkInBlock",
+        "title": "Environment.Block.WalkInBlock",
         "color": "#008000ff",
         "textcolor": "#ffffffff",
         "type": "sidecar"
       },
       {
-        "title": "Land.ContactSurface.LogSurface",
+        "title": "Environment.ContactSurface.LogSurface",
         "color": "#008000ff",
         "textcolor": "#ffffffff",
         "type": "sidecar"
       },
       {
-        "title": "Land.ContactSurface.Overview",
+        "title": "Environment.ContactSurface.Overview",
         "color": "#008000ff",
         "textcolor": "#ffffffff",
         "type": "sidecar"
       },
       {
-        "title": "Land.ContactSurface.RockSurface",
+        "title": "Environment.ContactSurface.RockSurface",
         "color": "#008000ff",
         "textcolor": "#ffffffff",
         "type": "sidecar"
       },
       {
-        "title": "Land.ContactSurface.Texture",
+        "title": "Environment.ContactSurface.Texture",
         "color": "#008000ff",
         "textcolor": "#ffffffff",
         "type": "sidecar"
       },
       {
-        "title": "Land.ContactSurface.WetSurface",
+        "title": "Environment.ContactSurface.WetSurface",
         "color": "#008000ff",
         "textcolor": "#ffffffff",
         "type": "sidecar"
       },
       {
-        "title": "Land.CropTree.NaturalTree",
+        "title": "Environment.CropTree.NaturalTree",
         "color": "#008000ff",
         "textcolor": "#ffffffff",
         "type": "sidecar"
       },
       {
-        "title": "Land.CropTree.PlantedTree",
+        "title": "Environment.CropTree.PlantedTree",
         "color": "#008000ff",
         "textcolor": "#ffffffff",
         "type": "sidecar"
       },
       {
-        "title": "Land.CropTree.SpeciesMix",
+        "title": "Environment.CropTree.SpeciesMix",
         "color": "#008000ff",
         "textcolor": "#ffffffff",
         "type": "sidecar"
       },
       {
-        "title": "Land.Density.4",
+        "title": "Environment.Density.4",
         "color": "#008000ff",
         "textcolor": "#ffffffff",
         "type": "sidecar"
       },
       {
-        "title": "Land.Density.5",
+        "title": "Environment.Density.5",
         "color": "#008000ff",
         "textcolor": "#ffffffff",
         "type": "sidecar"
       },
       {
-        "title": "Land.Density.6",
+        "title": "Environment.Density.6",
         "color": "#008000ff",
         "textcolor": "#ffffffff",
         "type": "sidecar"
       },
       {
-        "title": "Land.Density.7",
+        "title": "Environment.Density.7",
         "color": "#008000ff",
         "textcolor": "#ffffffff",
         "type": "sidecar"
       },
       {
-        "title": "Land.Density.8",
+        "title": "Environment.Density.8",
         "color": "#008000ff",
         "textcolor": "#ffffffff",
         "type": "sidecar"
       },
       {
-        "title": "Land.Density.Overiew",
+        "title": "Environment.Density.Overiew",
         "color": "#008000ff",
         "textcolor": "#ffffffff",
         "type": "sidecar"
       },
       {
-        "title": "Land.Density.Plot",
+        "title": "Environment.Density.Plot",
         "color": "#008000ff",
         "textcolor": "#ffffffff",
         "type": "sidecar"
       },
       {
-        "title": "Land.LandAnalysis",
+        "title": "Environment.EnvironmentAnalysis",
         "color": "#008000ff",
         "textcolor": "#ffffffff",
         "type": "sidecar"
       },
       {
-        "title": "Land.LandCard",
+        "title": "Environment.EnvironmentCard",
         "color": "#008000ff",
         "textcolor": "#ffffffff",
         "type": "sidecar"
       },
       {
-        "title": "Land.LandCompletion.ClosedLand",
+        "title": "Environment.EnvironmentCompletion.ClosedEnvironment",
         "color": "#008000ff",
         "textcolor": "#ffffffff",
         "type": "sidecar"
       },
       {
-        "title": "Land.LandCompletion.OpenLand",
+        "title": "Environment.EnvironmentCompletion.OpenEnvironment",
         "color": "#008000ff",
         "textcolor": "#ffffffff",
         "type": "sidecar"
       },
       {
-        "title": "Land.LandDiagram.CacheDiagram.CacheSize",
+        "title": "Environment.EnvironmentDiagram.CacheDiagram.CacheSize",
         "color": "#008000ff",
         "textcolor": "#ffffffff",
         "type": "sidecar"
       },
       {
-        "title": "Land.LandDiagram.CacheDiagram.ColorCode",
+        "title": "Environment.EnvironmentDiagram.CacheDiagram.ColorCode",
         "color": "#008000ff",
         "textcolor": "#ffffffff",
         "type": "sidecar"
       },
       {
-        "title": "Land.LandDiagram.CacheDiagram.Hatching",
+        "title": "Environment.EnvironmentDiagram.CacheDiagram.Hatching",
         "color": "#008000ff",
         "textcolor": "#ffffffff",
         "type": "sidecar"
       },
       {
-        "title": "Land.LandDiagram.CacheDiagram.LevelOfDetail",
+        "title": "Environment.EnvironmentDiagram.CacheDiagram.LevelOfDetail",
         "color": "#008000ff",
         "textcolor": "#ffffffff",
         "type": "sidecar"
       },
       {
-        "title": "Land.LandDiagram.CacheDiagram.Overview",
+        "title": "Environment.EnvironmentDiagram.CacheDiagram.Overview",
         "color": "#008000ff",
         "textcolor": "#ffffffff",
         "type": "sidecar"
       },
       {
-        "title": "Land.LandDiagram.Line.ContourLine",
+        "title": "Environment.EnvironmentDiagram.Line.ContourLine",
         "color": "#008000ff",
         "textcolor": "#ffffffff",
         "type": "sidecar"
       },
       {
-        "title": "Land.LandDiagram.ObstacleDiagram.ColorCode",
+        "title": "Environment.EnvironmentDiagram.ObstacleDiagram.ColorCode",
         "color": "#008000ff",
         "textcolor": "#ffffffff",
         "type": "sidecar"
       },
       {
-        "title": "Land.LandDiagram.ObstacleDiagram.Hatching",
+        "title": "Environment.EnvironmentDiagram.ObstacleDiagram.Hatching",
         "color": "#008000ff",
         "textcolor": "#ffffffff",
         "type": "sidecar"
       },
       {
-        "title": "Land.LandDiagram.ObstacleDiagram.LevelOfDetail",
+        "title": "Environment.EnvironmentDiagram.ObstacleDiagram.LevelOfDetail",
         "color": "#008000ff",
         "textcolor": "#ffffffff",
         "type": "sidecar"
       },
       {
-        "title": "Land.LandDiagram.ObstacleDiagram.Overview",
+        "title": "Environment.EnvironmentDiagram.ObstacleDiagram.Overview",
         "color": "#008000ff",
         "textcolor": "#ffffffff",
         "type": "sidecar"
       },
       {
-        "title": "Land.LandDiagram.Overview",
+        "title": "Environment.EnvironmentDiagram.Overview",
         "color": "#008000ff",
         "textcolor": "#ffffffff",
         "type": "sidecar"
       },
       {
-        "title": "Land.LandDiagram.PlotDiagram",
+        "title": "Environment.EnvironmentDiagram.PlotDiagram",
         "color": "#008000ff",
         "textcolor": "#ffffffff",
         "type": "sidecar"
       },
       {
-        "title": "Land.LandDiagram.TreeSilhouette",
+        "title": "Environment.EnvironmentDiagram.TreeSilhouette",
         "color": "#008000ff",
         "textcolor": "#ffffffff",
         "type": "sidecar"
       },
       {
-        "title": "Land.LandDifficulty.LandComplexity",
+        "title": "Environment.EnvironmentDifficulty.EnvironmentComplexity",
         "color": "#008000ff",
         "textcolor": "#ffffffff",
         "type": "sidecar"
       },
       {
-        "title": "Land.LandDifficulty.LandIntensity",
+        "title": "Environment.EnvironmentDifficulty.EnvironmentIntensity",
         "color": "#008000ff",
         "textcolor": "#ffffffff",
         "type": "sidecar"
       },
       {
-        "title": "Land.LandDifficulty.LandRisk",
+        "title": "Environment.EnvironmentDifficulty.EnvironmentRisk",
         "color": "#008000ff",
         "textcolor": "#ffffffff",
         "type": "sidecar"
       },
       {
-        "title": "Land.LandDifficulty.Overview",
+        "title": "Environment.EnvironmentDifficulty.Overview",
         "color": "#008000ff",
         "textcolor": "#ffffffff",
         "type": "sidecar"
       },
       {
-        "title": "Land.LandError",
+        "title": "Environment.EnvironmentError",
         "color": "#008000ff",
         "textcolor": "#ffffffff",
         "type": "sidecar"
       },
       {
-        "title": "Land.LandError.PlantedTreeError",
+        "title": "Environment.EnvironmentError.PlantedTreeError",
         "color": "#008000ff",
         "textcolor": "#ffffffff",
         "type": "sidecar"
       },
       {
-        "title": "Land.LandError.PlantedTreeError.LeanerTree",
+        "title": "Environment.EnvironmentError.PlantedTreeError.LeanerTree",
         "color": "#008000ff",
         "textcolor": "#ffffffff",
         "type": "sidecar"
       },
       {
-        "title": "Land.LandEvent",
+        "title": "Environment.EnvironmentEvent",
         "color": "#008000ff",
         "textcolor": "#ffffffff",
         "type": "sidecar"
       },
       {
-        "title": "Land.LandName",
+        "title": "Environment.EnvironmentName",
         "color": "#008000ff",
         "textcolor": "#ffffffff",
         "type": "sidecar"
       },
       {
-        "title": "Land.LandProperties.InorganicLand",
+        "title": "Environment.EnvironmentProperties.InorganicEnvironment",
         "color": "#008000ff",
         "textcolor": "#ffffffff",
         "type": "sidecar"
       },
       {
-        "title": "Land.LandProperties.OrganicLand",
+        "title": "Environment.EnvironmentProperties.OrganicEnvironment",
         "color": "#008000ff",
         "textcolor": "#ffffffff",
         "type": "sidecar"
       },
       {
-        "title": "Land.LandProperties.Overview",
+        "title": "Environment.EnvironmentProperties.Overview",
         "color": "#008000ff",
         "textcolor": "#ffffffff",
         "type": "sidecar"
       },
       {
-        "title": "Land.LandQuestion",
+        "title": "Environment.EnvironmentQuestion",
         "color": "#008000ff",
         "textcolor": "#ffffffff",
         "type": "sidecar"
       },
       {
-        "title": "Land.LandSequence",
+        "title": "Environment.EnvironmentSequence",
         "color": "#008000ff",
         "textcolor": "#ffffffff",
         "type": "sidecar"
       },
       {
-        "title": "Land.LandSpace.Overview",
+        "title": "Environment.EnvironmentSpace.Overview",
         "color": "#008000ff",
         "textcolor": "#ffffffff",
         "type": "sidecar"
       },
       {
-        "title": "Land.LandSpace.Routesetting",
+        "title": "Environment.EnvironmentSpace.Routesetting",
         "color": "#008000ff",
         "textcolor": "#ffffffff",
         "type": "sidecar"
       },
       {
-        "title": "Land.LandSpeed.FastLand",
+        "title": "Environment.EnvironmentSpeed.FastEnvironment",
         "color": "#008000ff",
         "textcolor": "#ffffffff",
         "type": "sidecar"
       },
       {
-        "title": "Land.LandSpeed.Overview",
+        "title": "Environment.EnvironmentSpeed.Overview",
         "color": "#008000ff",
         "textcolor": "#ffffffff",
         "type": "sidecar"
       },
       {
-        "title": "Land.LandSpeed.SlowLand",
+        "title": "Environment.EnvironmentSpeed.SlowEnvironment",
         "color": "#008000ff",
         "textcolor": "#ffffffff",
         "type": "sidecar"
       },
       {
-        "title": "Land.MixedLand",
+        "title": "Environment.MixedEnvironment",
         "color": "#008000ff",
         "textcolor": "#ffffffff",
         "type": "sidecar"
       },
       {
-        "title": "Land.Obstacle.FallenTree",
+        "title": "Environment.Obstacle.FallenTree",
         "color": "#008000ff",
         "textcolor": "#ffffffff",
         "type": "sidecar"
       },
       {
-        "title": "Land.Obstacle.FallenTree.FallenConiferObstacle",
+        "title": "Environment.Obstacle.FallenTree.FallenConiferObstacle",
         "color": "#008000ff",
         "textcolor": "#ffffffff",
         "type": "sidecar"
       },
       {
-        "title": "Land.Obstacle.FallenTree.FallenDeciduousObstacle",
+        "title": "Environment.Obstacle.FallenTree.FallenDeciduousObstacle",
         "color": "#008000ff",
         "textcolor": "#ffffffff",
         "type": "sidecar"
       },
       {
-        "title": "Land.Obstacle.LogObstacle",
+        "title": "Environment.Obstacle.LogObstacle",
         "color": "#008000ff",
         "textcolor": "#ffffffff",
         "type": "sidecar"
       },
       {
-        "title": "Land.Obstacle.MicrositeObstacle.BlockerHold",
+        "title": "Environment.Obstacle.MicrositeObstacle.BlockerHold",
         "color": "#008000ff",
         "textcolor": "#ffffffff",
         "type": "sidecar"
       },
       {
-        "title": "Land.Obstacle.ObstacleAlignment",
+        "title": "Environment.Obstacle.ObstacleAlignment",
         "color": "#008000ff",
         "textcolor": "#ffffffff",
         "type": "sidecar"
       },
       {
-        "title": "Land.Obstacle.Overview",
+        "title": "Environment.Obstacle.Overview",
         "color": "#008000ff",
         "textcolor": "#ffffffff",
         "type": "sidecar"
       },
       {
-        "title": "Land.Obstacle.RockObstacle",
+        "title": "Environment.Obstacle.RockObstacle",
         "color": "#008000ff",
         "textcolor": "#ffffffff",
         "type": "sidecar"
       },
       {
-        "title": "Land.Obstacle.StumpObstacle",
+        "title": "Environment.Obstacle.StumpObstacle",
         "color": "#008000ff",
         "textcolor": "#ffffffff",
         "type": "sidecar"
       },
       {
-        "title": "Land.Obstacle.WaterObstacle",
+        "title": "Environment.Obstacle.WaterObstacle",
         "color": "#008000ff",
         "textcolor": "#ffffffff",
         "type": "sidecar"
       },
       {
-        "title": "Land.Overview",
+        "title": "Environment.Overview",
         "color": "#008000ff",
         "textcolor": "#ffffffff",
         "type": "sidecar"
       },
       {
-        "title": "Land.Piece.Overview",
+        "title": "Environment.Piece.Overview",
         "color": "#008000ff",
         "textcolor": "#ffffffff",
         "type": "sidecar"
       },
       {
-        "title": "Land.Piece.PieceShape",
+        "title": "Environment.Piece.PieceShape",
         "color": "#008000ff",
         "textcolor": "#ffffffff",
         "type": "sidecar"
       },
       {
-        "title": "Land.Piece.PieceShape.IrregularPieceShape",
+        "title": "Environment.Piece.PieceShape.IrregularPieceShape",
         "color": "#008000ff",
         "textcolor": "#ffffffff",
         "type": "sidecar"
       },
       {
-        "title": "Land.Piece.PieceTopography",
+        "title": "Environment.Piece.PieceTopography",
         "color": "#008000ff",
         "textcolor": "#ffffffff",
         "type": "sidecar"
       },
       {
-        "title": "Land.Piece.PieceTopography.ConcavePiece",
+        "title": "Environment.Piece.PieceTopography.ConcavePiece",
         "color": "#008000ff",
         "textcolor": "#ffffffff",
         "type": "sidecar"
       },
       {
-        "title": "Land.Piece.PieceTopography.ContourLine",
+        "title": "Environment.Piece.PieceTopography.ContourLine",
         "color": "#008000ff",
         "textcolor": "#ffffffff",
         "type": "sidecar"
       },
       {
-        "title": "Land.Piece.PieceTopography.ConvexPiece",
+        "title": "Environment.Piece.PieceTopography.ConvexPiece",
         "color": "#008000ff",
         "textcolor": "#ffffffff",
         "type": "sidecar"
       },
       {
-        "title": "Land.Piece.PieceTopography.SlopeAngle",
+        "title": "Environment.Piece.PieceTopography.SlopeAngle",
         "color": "#008000ff",
         "textcolor": "#ffffffff",
         "type": "sidecar"
       },
       {
-        "title": "Land.PlantIdentification",
+        "title": "Environment.PlantIdentification",
         "color": "#008000ff",
         "textcolor": "#ffffffff",
         "type": "sidecar"
       },
       {
-        "title": "Land.Prep.MoundPrep",
+        "title": "Environment.Prep.MoundPrep",
         "color": "#008000ff",
         "textcolor": "#ffffffff",
         "type": "sidecar"
       },
       {
-        "title": "Land.Prep.Overview",
+        "title": "Environment.Prep.Overview",
         "color": "#008000ff",
         "textcolor": "#ffffffff",
         "type": "sidecar"
       },
       {
-        "title": "Land.Prep.TrenchPrep",
+        "title": "Environment.Prep.TrenchPrep",
         "color": "#008000ff",
         "textcolor": "#ffffffff",
         "type": "sidecar"
       },
       {
-        "title": "Land.Raw.BurntRaw",
+        "title": "Environment.Raw.BurntRaw",
         "color": "#008000ff",
         "textcolor": "#ffffffff",
         "type": "sidecar"
       },
       {
-        "title": "Land.Raw.Overview",
+        "title": "Environment.Raw.Overview",
         "color": "#008000ff",
         "textcolor": "#ffffffff",
         "type": "sidecar"
       },
       {
-        "title": "Land.Raw.WinterCut",
+        "title": "Environment.Raw.WinterCut",
         "color": "#008000ff",
         "textcolor": "#ffffffff",
         "type": "sidecar"
       },
       {
-        "title": "Land.Screef.10x10Screef",
+        "title": "Environment.Screef.10x10Screef",
         "color": "#008000ff",
         "textcolor": "#ffffffff",
         "type": "sidecar"
       },
       {
-        "title": "Land.Screef.DinnerPlateScreef",
+        "title": "Environment.Screef.DinnerPlateScreef",
         "color": "#008000ff",
         "textcolor": "#ffffffff",
         "type": "sidecar"
       },
       {
-        "title": "Land.Screef.Overview",
+        "title": "Environment.Screef.Overview",
         "color": "#008000ff",
         "textcolor": "#ffffffff",
         "type": "sidecar"
       },
       {
-        "title": "Land.Screef.PocketScreef",
+        "title": "Environment.Screef.PocketScreef",
         "color": "#008000ff",
         "textcolor": "#ffffffff",
         "type": "sidecar"
       },
       {
-        "title": "Land.Slash.BurnPileSlash",
+        "title": "Environment.Slash.BurnPileSlash",
         "color": "#008000ff",
         "textcolor": "#ffffffff",
         "type": "sidecar"
       },
       {
-        "title": "Land.Slash.HighSlash",
+        "title": "Environment.Slash.HighSlash",
         "color": "#008000ff",
         "textcolor": "#ffffffff",
         "type": "sidecar"
       },
       {
-        "title": "Land.Slash.LowSlash",
+        "title": "Environment.Slash.LowSlash",
         "color": "#008000ff",
         "textcolor": "#ffffffff",
         "type": "sidecar"
       },
       {
-        "title": "Land.Slash.Overview",
+        "title": "Environment.Slash.Overview",
         "color": "#008000ff",
         "textcolor": "#ffffffff",
         "type": "sidecar"
       },
       {
-        "title": "Land.Slash.WetSlash",
+        "title": "Environment.Slash.WetSlash",
         "color": "#008000ff",
         "textcolor": "#ffffffff",
         "type": "sidecar"
       },
       {
-        "title": "Land.Soil.ClaySoil",
+        "title": "Environment.Soil.ClaySoil",
         "color": "#008000ff",
         "textcolor": "#ffffffff",
         "type": "sidecar"
       },
       {
-        "title": "Land.Soil.DrySoil",
+        "title": "Environment.Soil.DrySoil",
         "color": "#008000ff",
         "textcolor": "#ffffffff",
         "type": "sidecar"
       },
       {
-        "title": "Land.Soil.GravelSoil",
+        "title": "Environment.Soil.GravelSoil",
         "color": "#008000ff",
         "textcolor": "#ffffffff",
         "type": "sidecar"
       },
       {
-        "title": "Land.Soil.MineralSoil",
+        "title": "Environment.Soil.MineralSoil",
         "color": "#008000ff",
         "textcolor": "#ffffffff",
         "type": "sidecar"
       },
       {
-        "title": "Land.Soil.Overview",
+        "title": "Environment.Soil.Overview",
         "color": "#008000ff",
         "textcolor": "#ffffffff",
         "type": "sidecar"
       },
       {
-        "title": "Land.Soil.RedRot",
+        "title": "Environment.Soil.RedRot",
         "color": "#008000ff",
         "textcolor": "#ffffffff",
         "type": "sidecar"
       },
       {
-        "title": "Land.Soil.SandSoil",
+        "title": "Environment.Soil.SandSoil",
         "color": "#008000ff",
         "textcolor": "#ffffffff",
         "type": "sidecar"
       },
       {
-        "title": "Land.Soil.WetSoil",
+        "title": "Environment.Soil.WetSoil",
         "color": "#008000ff",
         "textcolor": "#ffffffff",
         "type": "sidecar"
       },
       {
-        "title": "Land.Weather.AirTemperature",
+        "title": "Environment.Weather.AirTemperature",
         "color": "#008000ff",
         "textcolor": "#ffffffff",
         "type": "sidecar"
       },
       {
-        "title": "Land.Weather.Humidity",
+        "title": "Environment.Weather.Humidity",
         "color": "#008000ff",
         "textcolor": "#ffffffff",
         "type": "sidecar"
       },
       {
-        "title": "Land.Weather.Overview",
+        "title": "Environment.Weather.Overview",
         "color": "#008000ff",
         "textcolor": "#ffffffff",
         "type": "sidecar"
       },
       {
-        "title": "Land.Weather.Precipitation",
+        "title": "Environment.Weather.Precipitation",
         "color": "#008000ff",
         "textcolor": "#ffffffff",
         "type": "sidecar"
@@ -6966,7 +6966,7 @@
         "type": "sidecar"
       },
       {
-        "title": "Neuro.Estimation.LandEstimation.Fraction",
+        "title": "Neuro.Estimation.EnvironmentEstimation.Fraction",
         "color": "#cd74e6ff",
         "textcolor": "white",
         "type": "sidecar"

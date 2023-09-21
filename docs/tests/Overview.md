@@ -10,13 +10,13 @@ https://brilliant.org/
 - Sequence
 - Crosswords
 
-## LandTest
+## EnvironmentTest
 
-- [LandTest1]()
-- [LandTest2]()
-- [LandTest3]()
-- [LandTest4]()
-- [LandTest5]()
+- [EnvironmentTest1]()
+- [EnvironmentTest2]()
+- [EnvironmentTest3]()
+- [EnvironmentTest4]()
+- [EnvironmentTest5]()
 
 ## MovementTest
 

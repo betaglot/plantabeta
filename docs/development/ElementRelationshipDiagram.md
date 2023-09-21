@@ -65,7 +65,7 @@ Removes Value Addition // [!code --]
     - MoveSequenceNumber
     - StepCount
 - Location
-    - TargetLocation in the Land.
+    - TargetLocation in the Environment.
     - PotentialMicrosite
     - 
 - Array
@@ -75,7 +75,7 @@ Removes Value Addition // [!code --]
 
 ### Outcome > Output
 
-False value is a bunch of features that planters don't use. The value of a stump is not its color (HexadecimalValue, RGB values), rather value comes from the stump's PotentialMicrosites. The RouteElement(PotentialMicrosite, FlagSite) gives the LandElement(Stump) value
+False value is a bunch of features that planters don't use. The value of a stump is not its color (HexadecimalValue, RGB values), rather value comes from the stump's PotentialMicrosites. The RouteElement(PotentialMicrosite, FlagSite) gives the EnvironmentElement(Stump) value
 
 Theorem the name of an object, while Problem is the object's values and methods.
 
@@ -88,7 +88,7 @@ The value exchange of woven fiber neighbors is the tension force holding each ot
 
 Subsystems give each other value.
 
-The RouteElement(GoodMicrosite, FlagSite) gives the LandElement(Stump) value. The stump gives Route value by providing PotentialMicrosite.
+The RouteElement(GoodMicrosite, FlagSite) gives the EnvironmentElement(Stump) value. The stump gives Route value by providing PotentialMicrosite.
 
 The exchange doesn't need to be mutually beneficial. Both ValueAddition or (ValueAddition + ValueSubtraction).
 
@@ -131,7 +131,7 @@ Value is added along a sequence of steps. Like Bioamplification of poison in Pre
 
 **Reduces Effort**
 - Remove Clothing Layer to reduce your body's need for sweat.
-- Stick Spade in the ground when you get to the cache to avoid having to pick it up from the ground when you return to the Land. 
+- Stick Spade in the ground when you get to the cache to avoid having to pick it up from the ground when you return to the Environment. 
 
 **Avoids Hassles**
 - BodyRotate before BodySlot to prevent BagSnag
@@ -290,8 +290,8 @@ MoveSelection.MoveEvaluation
 
 ---
 
-### LandElementValue 
-::: tip LandElementValue Addition
+### EnvironmentElementValue 
+::: tip EnvironmentElementValue Addition
 
 ---
 
@@ -310,8 +310,8 @@ MoveSelection.MoveEvaluation
 **Connects**
 
 **ReducesEffort**
-- Easy HoleMove in CreamyLand is HighLandValue.
-- Strenuous SlashMove in SlashyLand is LowLandValue.
+- Easy HoleMove in CreamyEnvironment is HighEnvironmentValue.
+- Strenuous SlashMove in SlashyEnvironment is LowEnvironmentValue.
 
 **AvoidsHassles**
 
@@ -327,7 +327,7 @@ MoveSelection.MoveEvaluation
 :::
 
 
-::: danger LandElementValue Subtraction
+::: danger EnvironmentElementValue Subtraction
 
 ---
 
@@ -429,7 +429,7 @@ MoveSelection.MoveEvaluation
 
 
 #### MoveValue
-- Successful SpadeProbe PositiveLandTest. The Spade goes in deep enough to bury the seedling's roots.
+- Successful SpadeProbe PositiveEnvironmentTest. The Spade goes in deep enough to bury the seedling's roots.
 - HoleOpen gives value to InsertTree
 
 #### RelativeValue
@@ -439,9 +439,9 @@ MoveSelection.MoveEvaluation
 
 #### RouteValue
 
-#### LandValue
+#### EnvironmentValue
 - RockCap is not valuable for planting.
-- CreamyLand
+- CreamyEnvironment
 
 Value is added along the chain of steps. PlantingSequence
 

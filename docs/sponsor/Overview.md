@@ -57,18 +57,18 @@ The best resource which can be found is Replant.ca, but this site could be bette
 - Plantbeta has a [Tests](/tests/Overview) section for planters to reinforce their knowledge and to find any gaps in their knowledge.
 - Unlike Replant.ca, Plantbeta contains no information about the business side of planting, it's only from the planter's perspective. 
 - Each element of Plantbeta has its own profile. Currently you will see placeholders for each section of the profile. Each element profile has a profile picture, element description, a relationship graph showing how it relates to elements from the other subsystems, descriptions of how elements from other subsystems relate to the current element and at the bottom of the profile there are links to related elements (like the "See Also" section in Wikipedia pages). Not only are planters shown all the elements, but more importantly they are shown how they relate to each other. Some elements are highly related to such as Attention (NeuroElement), while others are not related to other subsystems such as TreeLoad (grabbing a tree from your bag).
-    - [PocketArea](/reference/Land/Area/PocketArea.md)
+    - [PocketArea](/reference/Environment/Area/PocketArea.md)
         - It's more efficient to AreaFill than PerimeterFill (RouteElements) a PocketArea.
         - You need to define the boundaries of the area (NeuroElement).
     - [HandScreef](/reference/Movement/HandMovement/HandScreef)
-        - The SoilType (LandElement) determines if you SpadeScreef or HandScreef.
+        - The SoilType (EnvironmentElement) determines if you SpadeScreef or HandScreef.
         - You need to see and feel (NeuroElements) where the duff layer becomes MineralSoil to perform an effective HandScreef.
     - [BackFill](/reference/Route/PieceFill/BackFill)
-        - The shape of the Piece (LandElement) determines if you want to BackFill or AreaFill.
+        - The shape of the Piece (EnvironmentElement) determines if you want to BackFill or AreaFill.
     - [BagUpSizeDecision](/reference/Neuro/Decision/BagUpSizeDecision)
-        - The land affects the BagUpSize, bigger BagUpSize for straight trenches (LandElement) compared to RawLand (LandElement).
+        - The Environment affects the BagUpSize, bigger BagUpSize for straight trenches (EnvironmentElement) compared to RawEnvironment (EnvironmentElement).
         - BagUpSize depends on how fatigued (Neuro) you are.
-        - BagUpSize affects how fast you can move (MovementElement) and how easily you can climb over slash (LandElement).
+        - BagUpSize affects how fast you can move (MovementElement) and how easily you can climb over slash (EnvironmentElement).
         - If you need to BackFill (RouteElement) a piece then you typically have a large BagUpSize.
 
 ## How is Plantbeta Innovative and Educational?
@@ -77,7 +77,7 @@ The best resource which can be found is Replant.ca, but this site could be bette
 
 - Plantbeta is **FREE** educational resource for planters.
 - Plantbeta explains how to plant in greater nuance than ever before, by breaking down a planter's experience into 4 interdependent subsystems:
-    - Land Subsystem
+    - Environment Subsystem
     - Movement Subsystem
     - Routing Subsystem
         - Also known as 'Land Management'
@@ -113,14 +113,14 @@ The best resource which can be found is Replant.ca, but this site could be bette
 
 
 #### Photography
-- Take photos of land from the ground and from the air, then abstract them into Land Diagrams.
+- Take photos of Environment from the ground and from the air, then abstract them into Environment Diagrams.
 - Take photos and videos of Planters for Movement and Route Element Profiles. 
 
 #### Recording Observations
 
 - What are the most common ways that planters lose time?
-- What parts of the land does RookieStare most frequently occur?
-- Expand the LandSubsystem section, adding more microsite types to Plantbeta.
+- What parts of the Environment does RookieStare most frequently occur?
+- Expand the EnvironmentSubsystem section, adding more microsite types to Plantbeta.
 - HighBaller Observation
     - Identify individual strengths and weaknesses.
     - How do HighBallers plant more trees? How much has to do with movement speed and how much to do with Routing (Land Management)?
@@ -142,7 +142,7 @@ The best resource which can be found is Replant.ca, but this site could be bette
 From the end of this planting season to end of next season, I'll be making Plantbeta and building Quastuco's new website. Some of the task will be: 
 - Editing videos of Movements into Gifs and Photos
 - Editing and inserting photos into ElementProfiles
-- Making LandDiagrams from LandPhotos
+- Making EnvironmentDiagrams from EnvironmentPhotos
 - Writing all the text for Plantbeta.
 - Building the Tests.
 - Graphing the relationships between elements
