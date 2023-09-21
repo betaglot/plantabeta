@@ -16,7 +16,7 @@ export default defineConfig({
       outline: [2,4],
       logo: 'android-chrome-512x512.png',
       socialLinks: [
-        { icon: 'youtube', link: 'https://github.com/vuejs/vitepress' },
+        { icon: 'youtube', link: 'https://www.youtube.com/@Klimbeta' },
         { icon: 'instagram', link: 'https://www.instagram.com/the_plantbeta/' }
       ],
       footer: {
