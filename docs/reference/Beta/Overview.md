@@ -68,14 +68,4 @@ This each line are analog pairs. The equal signs = denotes where Climbing and Pl
 
 :::
 
-::: details DesignProcess: PaperPhoto
 
-## DesignProcess: PaperPhoto
-
-![PaperPhoto](/Paper_BetaQuote.jpg)
-
----
-
-![PaperPhoto](/Paper_BetaQuote2.jpg)
-
-:::

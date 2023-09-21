@@ -5566,7 +5566,7 @@
         "type": "sidecar"
       },
       {
-        "title": "Move.Overview.ConcertedMovement",
+        "title": "Move.Overview.ConcertedMove",
         "color": "#ff7537ff",
         "textcolor": "white",
         "type": "sidecar"
@@ -5590,13 +5590,13 @@
         "type": "sidecar"
       },
       {
-        "title": "Move.Overview.MovementType",
+        "title": "Move.Overview.MoveType",
         "color": "#ff7537ff",
         "textcolor": "white",
         "type": "sidecar"
       },
       {
-        "title": "Move.Overview.MovementType.RelativeMovement",
+        "title": "Move.Overview.MoveType.RelativeMove",
         "color": "#ff7537ff",
         "textcolor": "white",
         "type": "sidecar"

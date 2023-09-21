@@ -59,14 +59,3 @@ To [Reforest](https://www.lasy.gov.pl/en/information/news/a-forest-is-much-more-
 
 
 
-::: details DesignProcess: PaperPhoto
-
-## DesignProcess: PaperPhoto
-
-![PaperPhoto](/Paper_BetaQuote.jpg)
-
----
-
-![PaperPhoto](/Paper_BetaQuote2.jpg)
-
-:::

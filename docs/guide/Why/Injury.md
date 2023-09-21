@@ -2,31 +2,12 @@
 
 - Injury due to lack of knowledge
 
-## Plantbeta's added value
-
-
-
-## Rare Situations  
-
-> Situations which rarely occur 
-
-Just in case
-
-In the unlikely event that ...
-
-- Once a week
-- Once a month
-    - Planting in [Snow]()
-- Once a season
-
-## Nuanced Movement
-
-Planters can get injured when they don't adapt movements to the specific situation
-
-- HandClose with neutral wrist even when angle of approach is not optimal.
-- 
 
 ## Choose Safer Alternatives
+
+Planters can get injured when they don't adapt movements to the specific situation. Plantbeta gives many options to adapt movements for any situation. 
+
+Some Planters only know how to [HandClose]() one way, but there are many different ways. Even slightly varying a movements can reduce repetitive strain injuries.
 
 ## Repetitive Strain
 
@@ -36,11 +17,17 @@ Planters can get injured when they don't adapt movements to the specific situati
         - How many [HandClosing]()  methods do you know? 
     
 
-## Fall
+## Reduces Injuries from Falling
+
+Plantbeta teaches planters how to move through their [Environment]() 
+
+Falling is a large part of Climbing. Plantbeta transfers the knowledge of how to fall safely from climbing to Planting.
+
+
 
 - How to control a fall
-    - [BodyAbsorb]()
-    - [BodyRedirect]()
+    - [BodyAbsorb](/reference/Move/BodyMove/BodyAbsorb)
+    - [BodyRedirect](/reference/Move/BodyMove/BodyRedirect)
     - [ToSit]()
 
 - BootSnag
@@ -63,14 +50,3 @@ Don't use your big toe for everything
 ## 
 
 
-::: details DesignProcess: PaperPhoto
-
-## DesignProcess: PaperPhoto
-
-![PaperPhoto](/Paper_BetaQuote.jpg)
-
----
-
-![PaperPhoto](/Paper_BetaQuote2.jpg)
-
-:::

@@ -139,7 +139,7 @@ Plantbeta will provide a **service** to planting companies before and during the
 ---
 
 
-## [🟩](/reference/Environment/Overview) -- [🟠](/reference/Movement/Overview) -- [🔺](/reference/Route/Overview) -- [💜](/reference/Neuro/Overview) -- [🔷](/reference/Beta/Overview)
+## [🟩](/reference/Environment/Overview) -- [🟠](/reference/Move/Overview) -- [🔺](/reference/Route/Overview) -- [💜](/reference/Neuro/Overview) -- [🔷](/reference/Beta/Overview)
 
 
 ::: details Why Emojis?
@@ -147,7 +147,7 @@ Plantbeta will provide a **service** to planting companies before and during the
 - Multicultural understanding
 - Universally Rendered.
 - Graphic is easier to find visually.
-- Smaller width than any word which could describe "Environment", "Movement", "Neuro", "Route", "Beta" 
+- Smaller width than any word which could describe "Environment", "Move", "Neuro", "Route", "Beta" 
 
 :::
 
@@ -159,7 +159,7 @@ Plantbeta will provide a **service** to planting companies before and during the
 
 ---
 
-### [🟠 Examples of the Move Subsystem 🟠](/reference/Movement/Overview)
+### [🟠 Examples of the Move Subsystem 🟠](/reference/Move/Overview)
 
 🟠SpadeScreef, 🟠DownClimb, 🟠SpadeSwing, 🟠StepOver, 🟠PunchClose, 🟠StompClose, 🟠TreeInsert, 🟠HoleOpen, 🟠FlagRip, 🟠LookAt, 🟠ArmSwing, 🟠DeepSquat 
 
@@ -240,16 +240,6 @@ Join Table
 - [Burns]()
 
 
-::: details DesignProcess: PaperPhoto
 
-## DesignProcess: PaperPhoto
-
-![PaperPhoto](/Paper_BetaQuote.jpg)
-
----
-
-![PaperPhoto](/Paper_BetaQuote2.jpg)
-
-:::
 
 

@@ -40,10 +40,10 @@ Graph which represents how this element is related to other elements in Plantbet
 
 ## Related 🟩 EnvironmentElements 🟩
 
-## Related 🟠 MovementElements 🟠
-- Description of how this EnvironmentElement relates to a particular [Movement]().
-- Description of how this EnvironmentElement relates to a particular [Movement]().
-- Description of how this EnvironmentElement relates to a particular [Movement]().
+## Related 🟠 MoveElements 🟠
+- Description of how this EnvironmentElement relates to a particular [Move]().
+- Description of how this EnvironmentElement relates to a particular [Move]().
+- Description of how this EnvironmentElement relates to a particular [Move]().
 
 ## Related 🔺 RouteElements 🔺
 - Description of how this EnvironmentElement relates to a particular [RouteElement]().
@@ -84,14 +84,3 @@ Links to other related EnvironmentElements. Related because they are the same En
 
 :::
 
-::: details DesignProcess: PaperPhoto
-
-## DesignProcess: PaperPhoto
-
-![PaperPhoto](/Paper_BetaQuote.jpg)
-
----
-
-![PaperPhoto](/Paper_BetaQuote2.jpg)
-
-:::

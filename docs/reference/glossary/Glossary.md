@@ -22,14 +22,3 @@ This glossary is intended to provide some guidance about the meanings of terms t
 
 
 
-::: details DesignProcess: PaperPhoto
-
-## DesignProcess: PaperPhoto
-
-![PaperPhoto](/Paper_BetaQuote.jpg)
-
----
-
-![PaperPhoto](/Paper_BetaQuote2.jpg)
-
-:::

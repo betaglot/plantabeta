@@ -225,7 +225,7 @@ Route
 
 <img height="300" width="500" src="/PascalCase.png">
 
-Each of the Beta Subsystems ([Environment](), [Movement](), [Route](), [Neuro]() ) has its own elements, although most elements are a combination of all four subsystems. For example [HandClose]() depends on the [SoilType]() (Environment), [Touch and Pressure sensations]() (Neuro), and the obstacles which narrow the range of [approach trajectories]() possible to perform the [HandClose]() (Route).
+Each of the Beta Subsystems ([Environment](), [Move](), [Route](), [Neuro]() ) has its own elements, although most elements are a combination of all four subsystems. For example [HandClose]() depends on the [SoilType]() (Environment), [Touch and Pressure sensations]() (Neuro), and the obstacles which narrow the range of [approach trajectories]() possible to perform the [HandClose]() (Route).
 
 Elements are added together to create new, more complex, elements. For example [SpadeScreef]() = {[HandleGrip](), [ShaftGrip](), [Soil](), [SlopeAngle](), [Slash](), [Attention]()} 
 
@@ -249,7 +249,7 @@ Elements are mixed together to create more complex elements or linked together i
 
 A sequential pattern of elements.
 
-- MovementSequence
+- MoveSequence
     - PlantingSeqence
 - RouteSequence
 - NeuroSequence
@@ -287,14 +287,3 @@ OpenHole = LookAtTarget --> SpadeProbeThrow --> SpadeThrow --> SpadeOpenHole
 :::
 
 
-::: details DesignProcess: PaperPhoto
-
-## DesignProcess: PaperPhoto
-
-![PaperPhoto](/Paper_BetaQuote.jpg)
-
----
-
-![PaperPhoto](/Paper_BetaQuote2.jpg)
-
-:::

@@ -60,7 +60,7 @@ Graph which represents how this element is related to other elements in Plantbet
 - block snow from crushing the seedling
 
 
-## Related 🟠 MovementElements 🟠
+## Related 🟠 MoveElements 🟠
 
 ### [🟠SpadePryScreef]()
 
@@ -148,14 +148,3 @@ Links to other related EnvironmentElements. Related because they are the same En
 
 
 
-::: details DesignProcess: PaperPhoto
-
-## DesignProcess: PaperPhoto
-
-![PaperPhoto](/Paper_BetaQuote.jpg)
-
----
-
-![PaperPhoto](/Paper_BetaQuote2.jpg)
-
-:::

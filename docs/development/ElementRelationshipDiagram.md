@@ -126,7 +126,7 @@ Value is added along a sequence of steps. Like Bioamplification of poison in Pre
 - Use ArmFlag to reduce the risk of Falling.
 
 **Connects**
-- AbsorbMove allows smooth transitions between Movements.
+- AbsorbMove allows smooth transitions between Moves.
 - Use ArmAbsorb to redirect Spade during ShovelMoves.
 
 **Reduces Effort**

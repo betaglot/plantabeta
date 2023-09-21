@@ -1,7 +1,7 @@
 # 🔺 Flag Overview 🔺
 
 Tool=Flagger
-Movement=Flagging
+Move=Flagging
 
 FlagRip
 
@@ -35,14 +35,3 @@ Flag is considered a WastedFlag when it can't be useful for any future [Filling]
 
 
 
-::: details DesignProcess: PaperPhoto
-
-## DesignProcess: PaperPhoto
-
-![PaperPhoto](/Paper_BetaQuote.jpg)
-
----
-
-![PaperPhoto](/Paper_BetaQuote2.jpg)
-
-:::

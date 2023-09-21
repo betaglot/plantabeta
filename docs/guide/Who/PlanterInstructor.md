@@ -23,14 +23,3 @@ Minimum downtime
     - Report
 - Talk to rookies about their experience to gain insights about their perspective.
 
-::: details DesignProcess: PaperPhoto
-
-## DesignProcess: PaperPhoto
-
-![PaperPhoto](/Paper_BetaQuote.jpg)
-
----
-
-![PaperPhoto](/Paper_BetaQuote2.jpg)
-
-:::

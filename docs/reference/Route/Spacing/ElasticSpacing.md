@@ -31,8 +31,8 @@ Graph which represents how this element is related to other elements in Plantbet
 - []().
 - [WorkingMemory]().
 
-## MovementElements
-- [MovementSize]().
+## MoveElements
+- [MoveSize]().
 - [LookAt]().
 - [ExtraStep]().
 

@@ -13,7 +13,7 @@ Shorter season
 - PlantingRate
     - Daily Trees in the Ground
 - Fewer Planters
-- Fewer Movements
+- Fewer Moves
 - Less Deadwalking
 - Fewer Injury
 - More efficient routes
@@ -35,14 +35,3 @@ Such traits include:
 :::
 
 
-::: details DesignProcess: PaperPhoto
-
-## DesignProcess: PaperPhoto
-
-![PaperPhoto](/Paper_BetaQuote.jpg)
-
----
-
-![PaperPhoto](/Paper_BetaQuote2.jpg)
-
-:::

@@ -37,7 +37,7 @@ Graph which represents how this element is related to other elements in Plantbet
 
 ## Related 💜 NeuroElements 💜
 
-## Related 🟠 MovementElements
+## Related 🟠 MoveElements
 
 
 ## Related 🟩 EnvironmentElements
@@ -69,14 +69,3 @@ Links to other related NeuroElements.
 
 :::
 
-::: details DesignProcess: PaperPhoto
-
-## DesignProcess: PaperPhoto
-
-![PaperPhoto](/Paper_BetaQuote.jpg)
-
----
-
-![PaperPhoto](/Paper_BetaQuote2.jpg)
-
-:::

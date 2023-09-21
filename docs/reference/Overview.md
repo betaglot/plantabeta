@@ -1,4 +1,4 @@
-# [🟩](/reference/Environment/Overview) -- [🟠](/reference/Movement/Overview) -- [🔺](/reference/Route/Overview) -- [💜](/reference/Neuro/Overview) -- [🔷](/reference/Beta/Overview)
+# [🟩](/reference/Environment/Overview) -- [🟠](/reference/Move/Overview) -- [🔺](/reference/Route/Overview) -- [💜](/reference/Neuro/Overview) -- [🔷](/reference/Beta/Overview)
 
 
 - Reference is laid out similarily to a wikipedia page. There are many links between pages. Links are highlighted as [green text](/reference/Overview) (< this link links to the the current page).
@@ -6,7 +6,7 @@
 
 ## [🟩🟩🟩  Environment  🟩🟩🟩](/reference/Environment/Overview) 
 
-## [🟠🟠🟠  Movement  🟠🟠🟠](/reference/Movement/Overview)
+## [🟠🟠🟠  Move  🟠🟠🟠](/reference/Move/Overview)
 
 ## [🔺🔺🔺  Route  🔺🔺🔺](/reference/Route/Overview)
 
@@ -33,14 +33,3 @@
 
 
 
-::: details DesignProcess: PaperPhoto
-
-## DesignProcess: PaperPhoto
-
-![PaperPhoto](/Paper_BetaQuote.jpg)
-
----
-
-![PaperPhoto](/Paper_BetaQuote2.jpg)
-
-:::

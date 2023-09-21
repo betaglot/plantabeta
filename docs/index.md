@@ -25,9 +25,9 @@ features:
   - icon: 🌲
     title: Plant Better Quality 
     details: No More Replants!
-  - icon: 🤑
-    title: Plant Faster 
-    details: Make more Money!
+  - icon: 🛠️
+    title: Under Construction 
+    details: Last Updated September 21, 2023
   - icon: 😊
     title: Feel Better
     details: Less Injuries, Better Mental Health!

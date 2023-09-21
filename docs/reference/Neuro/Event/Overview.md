@@ -28,7 +28,7 @@
 - onBlockCompletion()
 
 
-## MovementEvent
+## MoveEvent
 
 ### ToolEvent
 

@@ -20,12 +20,12 @@ What is tree planting like?
 ### Rugby
 - Resilience
 - Leg Strength
-- DynamicMovements
+- DynamicMoves
 
 ### Wrestling
-- FullBodyMovement
+- FullBodyMove
 - Resilience
-- Movement Sequences
+- Move Sequences
 
 ### Hiking
 - Endurance
@@ -40,14 +40,3 @@ What is tree planting like?
 - Controlled Falling
 - Leg Strength
 
-::: details DesignProcess: PaperPhoto
-
-## DesignProcess: PaperPhoto
-
-![PaperPhoto](/Paper_BetaQuote.jpg)
-
----
-
-![PaperPhoto](/Paper_BetaQuote2.jpg)
-
-:::

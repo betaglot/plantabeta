@@ -1,4 +1,4 @@
-# 💜 MovementTiming 💜
+# 💜 MoveTiming 💜
 
 ## PlantingRate
 

@@ -50,10 +50,10 @@ Graph which represents how this element is related to other elements in Plantbet
 - Description of how this RouteElement relates to a particular [NeuroElement]().
 - Description of how this RouteElement relates to a particular [NeuroElement]().
 
-## Related 🟠 MovementElements
-- Description of how this RouteElement relates to a particular [MovementElement]().
-- Description of how this RouteElement relates to a particular [MovementElement]().
-- Description of how this RouteElement relates to a particular [MovementElement]().
+## Related 🟠 MoveElements
+- Description of how this RouteElement relates to a particular [MoveElement]().
+- Description of how this RouteElement relates to a particular [MoveElement]().
+- Description of how this RouteElement relates to a particular [MoveElement]().
 
 ## Examples
 
@@ -75,14 +75,3 @@ Links to other related RouteElements.
 
 :::
 
-::: details DesignProcess: PaperPhoto
-
-## DesignProcess: PaperPhoto
-
-![PaperPhoto](/Paper_BetaQuote.jpg)
-
----
-
-![PaperPhoto](/Paper_BetaQuote2.jpg)
-
-:::

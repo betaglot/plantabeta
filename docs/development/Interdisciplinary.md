@@ -33,7 +33,7 @@
 ### Basketball
 
 - Play diagram [InsertImage]
-- MovementSequence
+- MoveSequence
 
 ### Skiing
 
@@ -63,7 +63,7 @@
 ### Martial Arts
 
 - []()
-- [BranchDeflection](/reference/Movement/PlantMovement/BranchDeflection)
+- [BranchDeflection](/reference/Move/PlantMove/BranchDeflection)
 - [HeadBob]()
 - [HandClose]()
     - [PunchClose]()

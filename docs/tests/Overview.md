@@ -18,13 +18,13 @@ https://brilliant.org/
 - [EnvironmentTest4]()
 - [EnvironmentTest5]()
 
-## MovementTest
+## MoveTest
 
-- [MovementTest1]()
-- [MovementTest2]()
-- [MovementTest3]()
-- [MovementTest4]()
-- [MovementTest5]()
+- [MoveTest1]()
+- [MoveTest2]()
+- [MoveTest3]()
+- [MoveTest4]()
+- [MoveTest5]()
 
 ## RouteTest
 
@@ -45,14 +45,3 @@ https://brilliant.org/
 
 
 
-::: details DesignProcess: PaperPhoto
-
-## DesignProcess: PaperPhoto
-
-![PaperPhoto](/Paper_BetaQuote.jpg)
-
----
-
-![PaperPhoto](/Paper_BetaQuote2.jpg)
-
-:::
