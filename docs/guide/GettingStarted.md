@@ -22,16 +22,18 @@ Plantbeta is divided into 6 sections:
 
 ## Choose Your Path
 
-[InsertImage] Fork in the road
+![PathFork](/PathFork.jpg)
+
+The users of Plantbeta can take multiple paths through Plantbeta depending on their needs.
 
 ### [Potential Planter](/guide/Who/PotentialPlanter)
 
-1. Browse sidebars to familarize yourself with the general categories of [Plantbeta]().
-2. Look at the [Gallery]()
+1. Browse sidebars to familarize yourself with the general categories of Plantbeta's [Reference Section](/reference/ReferenceOverview).
+2. Look at the [Gallery](/reference/gallery/Overview)
 
 ### [Rookie Planter](/guide/Who/RookiePlanter)
 
-1. Browse sidebars to familarize yourself with the general categories of [Plantbeta](). 
+1. Browse sidebars to familarize yourself with the general categories of Plantbeta. 
 2. Test yourself to find knowledge gaps.
 
 ### [Experienced Planter](/guide/Who/ExperiencedPlanter)

@@ -6,7 +6,10 @@ layout: doc
 
 # 🔷 What is Beta? 🔷
 
-## 'Beta' is from the climbing community
+![BetaVenn](/BetaVenn.png)
+
+
+## "Beta" is from the climbing community
 
 - If you're a climber, then you're likely familiar with the term "beta"
 
@@ -47,11 +50,11 @@ This each line are analog pairs. The equal signs = denotes where Climbing and Pl
 |                🟧 Climbing | Planting 🟩         |
 
 
-## How is Beta used in Planting?
+<!-- ## How is Beta used in Planting?
 
 ## When is Beta used?
 
-## BetaInstance
+## BetaInstance -->
 
 ### Definition(BetaInstance)
 

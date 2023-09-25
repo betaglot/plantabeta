@@ -1,5 +1,6 @@
 # Potential Planter
 
+> A person who wants to become a planter.
 
 You're wondering if you want to become a planter
 

@@ -11,6 +11,8 @@ Some Planters only know how to [HandClose](/reference/Move/HandMove/HandClose) o
 
 ## Repetitive Strain
 
+Injury can occur in planters when they perform the same movement repeatedly.
+
 - Do ambidextrous planters suffer less injury caused by repetitive strain?
     - Repetitive Motion
     - Greater movement variability reduces movement repetition. 
@@ -19,35 +21,31 @@ Some Planters only know how to [HandClose](/reference/Move/HandMove/HandClose) o
 
 ## Reduces Injuries from Falling
 
-Plantbeta teaches planters how to move through their [Environment](/reference/Environment/EnvironmentOverview) 
+Plantbeta teaches planters how to move through their [Environment](/reference/Environment/EnvironmentOverview) safely. 
 
 Falling is a large part of Climbing. Plantbeta transfers the knowledge of how to fall safely from climbing to Planting.
-
-
 
 ::: tip Some of the Moves used to safely Fall
 - [BodyAbsorb](/reference/Move/BodyMove/BodyAbsorb)
 - [BodyRedirect](/reference/Move/BodyMove/BodyRedirect)
 :::
 
-
-- BootSnag
-    - How to release your foot from a BootSnag.  
-
-
-
 ## Wrist Tendonitis
+
+Wrist Tendonitis occurs from straining the tissues around the wrist. The strain can be acute, such as when a planter hits a rock with full force and doesn't absorb the shock, or the strain can be from repetitive use.
 
 - [ArmAbsorb](/reference/Move/ArmMove/ArmAbsorb) during the impact of [SpadeThrow](/reference/Move/ToolMove/Spade/SpadeThrow)
 - 
 
 ## Christmas Toe
 
-Don't use your big toe for everything
+Planters kick To remove the layer of organic material off an intended microsite. Christmas Toe is when your big toe becomes numb from all the kicking impacts and you only regain sensation around Christmas time (six months after the season is over). Christmas Toe not only affects feet, it also affects how planters walk therefore affecting the biomechanics of the entire lower body.
+
+A greater knowledge of possible alternative movements can prevent Christmas Toe from ever occuring.
 
 - [SpadeScreef]() instead of only [FootScreef]()
 - [HandClose]() instead of only [FootClose]() 
 
-## 
+
 
 

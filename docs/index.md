@@ -23,8 +23,8 @@ hero:
 
 features:
   - icon: 🌲
-    title: Plant Better Quality 
-    details: No More Replants!
+    title: Plant More Efficiently 
+    details: Increase your Ability to Plant Trees
   - icon: 🛠️
     title: Under Construction 
     details: Last Updated September 21, 2023

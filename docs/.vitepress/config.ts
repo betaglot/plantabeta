@@ -514,7 +514,7 @@ function sidebarReference() {
       ]},
     ]},
     { text: '🔷 Beta System', collapsed: true, items: [
-      {text: '🔷 What is Beta?', link: '/reference/Beta/Overview'},
+      {text: '🔷 What is Beta?', link: '/reference/Beta/BetaOverview'},
       {text: '🔷 Beta Examples', link: '/reference/Beta/BetaExamples'},
     ]},
     { text: 'Glossary', link: '/reference/glossary/Glossary' },

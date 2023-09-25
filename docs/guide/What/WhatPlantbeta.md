@@ -1,5 +1,7 @@
 # [Systematized](https://dictionary.cambridge.org/dictionary/english/systematize) Tree Planting
 
+![BetaVenn](/BetaVenn.png)
+
 Plantbeta.com is a **product** specifically designed to train planters how to plant more efficiently. 
 
 - Plantbeta is a web app which contains all the information that a planter needs to know to perform their job in the [Reference](/reference/ReferenceOverview) section. 
@@ -42,9 +44,9 @@ Plantbeta will provide a planter training **service** to planting companies befo
  
 ### Self-Actualization
 
-- Take pride in mastering one of the most difficult manual labor jobs in Canada.
--   
+- Take pride in mastering one of the most difficult manual labor jobs in Canada.  
 
+![Actualization](/Actualization.png)
 ---
  
 ### Belonging
@@ -83,7 +85,7 @@ Plantbeta will provide a planter training **service** to planting companies befo
  
 ### Wellness
 
-- 
+- Plantbeta is designed to [reduce planter injury](/guide/Why/Injury).
 
 ---
  
@@ -112,7 +114,7 @@ Plantbeta will provide a planter training **service** to planting companies befo
  
 ### Reduces Risk
 
-- Plantbeta reduces the Risk that a hired RookiePlanter will be a lowballer.
+- Plantbeta reduces the Risk that a hired RookiePlanter underperform and become a burden to their Supervisor and Company.
 - Reduces the risk of Injury
 
 ---
@@ -123,9 +125,10 @@ Plantbeta will provide a planter training **service** to planting companies befo
 
 ---
  
-### Integrates and Connects the Tree Planting Community
+### Integrates
 
-- Connects tree planting to sports.
+- Connects planting to climbing
+    - [BetaComp](https://klimbeta.github.io/BetaComp/)
 - Connects RookiePlanters to ExperiencedPlanters
 
 ---
@@ -195,17 +198,7 @@ Plantbeta will provide a planter training **service** to planting companies befo
 
 ### [💜 Examples of the Neuro Subsystem 💜](/reference/Neuro/Overview)
 
-💜Attention
-
----
-
-### [🔷 Examples of the Beta System 🔷](/reference/Beta/Overview)
-
-![BetaVenn](/BetaVenn.png)
-
-
-
-
+💜Attention, 💜Awareness, 💜Counting, 💜Decision, 💜Emotion, 💜Estimation, 💜Listening, 💜Memory, 💜Proprioception
 
 
 ## Who uses Plantbeta?
@@ -239,12 +232,21 @@ Plantbeta will provide a planter training **service** to planting companies befo
 > Work smarter not harder
 
 - Plantbeta is **FREE** educational resource for planters.
-- Plantbeta explains how to plant in greater nuance than ever before, by breaking down a planter's experience into 4 interdependent subsystems:
-    - Environment Subsystem
-    - Move Subsystem
-    - Routing Subsystem
-        - Also known as 'Land Management'
-    - Neuro Subsystem
+
+### Plantbeta utilizes Climbing  
+
+Plantbeta borrows the concept of Beta to explain how to plant in greater nuance than ever before, by breaking down a planter's experience into 4 interdependent subsystems, planters can pinpoint the aspects of their experience which can be improved, while also having a greater vocabulary to explain what they're doing to other planter who [share the same Piece of Land](/reference/Route/TeamPlant/Overview).
+
+![BetaVenn](/BetaVenn.png)
+
+By connecting Climbing and Planting through their mutual use of a Beta System, Planters can improve their planting ability **before and after their planting season** by practicing indoor climbing. 
+
+There
+
+![BetaComp_01](/BetaComp_01.png)
+
+
+### Huberman Lab Podcast
 
 - Plantbeta is innovative by using evidence-based knowledge from the [Huberman Lab Podcast](https://hubermanlab.com/). The podcast is run by [Andrew Huberman](https://hubermanlab.com/about/) who is a highly respected university professor from California. Some of the topics which are directly applicable to planting are: 
     - [Fitness](https://hubermanlab.com/guest-series-dr-andy-galpin-maximize-recovery-to-achieve-fitness-and-performance-goals/), how to build muscle, how to recover, how to use supplments, how to train endurance, how the body converts food into energy.
@@ -253,4 +255,17 @@ Plantbeta will provide a planter training **service** to planting companies befo
     - [Learning](https://hubermanlab.com/how-to-learn-skills-faster/), how to learn faster and more deeply.
     - [Caffeine](https://hubermanlab.com/using-caffeine-to-optimize-mental-and-physical-performance/), how to use caffeine to optimize mental and physical performance... and how to not overdo it.
 
+![Galpin_01](/Galpin_01.jpeg)
+
+---
+
+![Galpin_02](/Galpin_02.jpeg)
+
+---
+
+![Galpin_03](/Galpin_03.jpeg)
+
+---
+
+![Galpin_04](/Galpin_04.jpeg)
 
