@@ -22,64 +22,39 @@ Changing an Element's properties affects how it relates to other elements and ch
 
 ## The Elements of ...
 
-### The Elements of Geometry
+### Euclid's Elements of Geometry
 
-Euclid's Elements
 
-The Euclid's Elements is compilation of elements which was written over x years ago. Until last century most people studied <u>The Elements</u> in school.
-
-Planters mostly use Book 1 which is simple. 
+The Euclid's Elements is compilation of elements which was written over 2000 years ago. Until last century most people studied <u>The Elements</u> in school. Planters mostly use the Elements from Book 1.
 
 
 
-[InsertImage] Title Page
+![Byrne_01](/Byrne_01.jpg)
 
 
 
-#### Axiom = Element
+#### Axioms and Postulates are Elements
 
-[InsertImage]
+![Byrne_04](/Byrne_04.jpg)
 
-
-#### Postulate = Element
-
-[InsertImage]
 
 
 #### Theorem = Element
 
-[InsertImage]
+![Byrne_07](/Byrne_07.jpg)
 
 
 #### Problem = Element
 
-
-[InsertDiagram] - Line
-- Move
-- Linear
--Most concentrated impact
--Most efficient movement line
--Point
-
-[InsertDiagram] Pythagorean Theorem
-
-
-[InsertDiagram] Flower of Life
-
-
-
-#### Equilateral Triangle
-
-[InsertImage] 1.1 Equilateral Triangle
+![Byrne_05](/Byrne_05.jpg) 
+1.1 Equilateral Triangle
 - Perfect Spacing
-- perfect density
-- route 
+- Perfect density
+- Route 
 
-#### Triangle Sides Theorem 
+![Byrne_06](/Byrne_06.jpg)
 
-#### Route
 
-<!--  -->
 ::: details Read Further
 
 Wolfram Alpha
@@ -120,6 +95,9 @@ Plant Example
 
 
 ### The Elements of Music
+
+![MusicElements](/MusicElements.png)
+
 - Rhythm = Element
 - Melody = Element
 - Harmony = Element
@@ -132,7 +110,7 @@ Plant Example
     - Groups
     - Periods 
 
-[InsertImage] PeriodicTable
+![PeriodicTable](/PeriodicTable.jpg)
 
 Iron = Element
 Carbon = Element
@@ -153,7 +131,7 @@ Simple chemical substance.
 
 Avatar the Last Air Bender
 
-[InsertImage] Aang
+![AvatarBending](/AvatarBending.png)
 
 Fire = Element
 
@@ -184,17 +162,7 @@ Flexbox
 
 ## ElementNames
 
-Like Natural languages Greek, Latin
-
-Like Chemistry
-
-The category it belong to
-
-Like Anatomy
-
-Adductor
-
-Abductor
+You will notice that all ElementNames have no spaces between their words, this is to make it easier to search for terms with Plantbeta's search and when searching with your eyes.
 
 ### Element Name Affixes
 
@@ -219,9 +187,6 @@ Spade**Grip**, Tree**Grip**, Box**Grip**, Branch**Grip**, Bag**Grip**, Log**Grip
 
 :::
 
-Route
-
-- You will notice that all ElementNames have no spaces between their words, this is to make it easier to search for terms with Plantbeta's search and when looking with your eyes.
 
 <img height="300" width="500" src="/PascalCase.png">
 
