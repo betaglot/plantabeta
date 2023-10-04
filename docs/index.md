@@ -27,7 +27,7 @@ features:
     details: Increase your Ability to Plant Trees
   - icon: 🛠️
     title: Under Construction 
-    details: Last Updated September 30, 2023
+    details: Last Updated October 4, 2023
   - icon: 😊
     title: Feel Better
     details: Less Injuries, Better Mental Health!
