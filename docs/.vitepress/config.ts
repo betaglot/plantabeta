@@ -75,6 +75,10 @@ function nav(){
       link: '/sponsor/Overview',
       activeMatch: '/sponsor/'
     },
+    {
+      text: '🔷 BetaComp',
+      link: 'https://klimbeta.github.io/BetaComp/',
+    },
     
     // {
     //   text: 'Apply',

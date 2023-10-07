@@ -69,7 +69,7 @@ The best resource which can be found is Replant.ca, but this site could be bette
     - [Caffeine](https://hubermanlab.com/using-caffeine-to-optimize-mental-and-physical-performance/), how to use caffeine to optimize mental and physical performance... and how to not overdo it.
 
 
-## How does Plantbeta add Value to Quastuco?
+## How does Plantbeta provide Value to Quastuco?
 
 > "We take pride in our work and reputation as we strive to be one of the most efficient and innovative companies on the market"
 

@@ -31,7 +31,7 @@ Plantbeta will provide a planter training **service** to planting companies befo
 - You're going to think that a web app can't make people better planters.
 :::
 
-## How does Plantbeta add Value to Planters?
+## How does Plantbeta provide Value to Planters?
 
 ![ValuePyramid](/ValuePyramid.png)
 

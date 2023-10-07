@@ -8,6 +8,9 @@ hero:
   name: Plantbeta
   text: 
   tagline: How to be a Tree Planter
+  image:
+    src: /BetaVenn.png
+    alt: BetaVenn
   actions:
     - theme: brand
       text: Get Started
