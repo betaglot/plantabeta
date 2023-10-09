@@ -7,7 +7,7 @@ Plantbeta is divided into 6 sections:
 - [Guide]()
     - How to use this website
 - [Reference]()
-    - All the theory and problems that you encounter while being a planter.
+    - All the theory and problems that you encounter while being a Planter.
 - [Tests]()
 - [Development]()
     - How this website is being created

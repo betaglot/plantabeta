@@ -3,7 +3,7 @@
 - That I can't deliver on my promises.
 - You’re gonna think that this is more complicated than it needs to be.
 - You’re gonna think that this is too much for a Rookie to take in.
-- You're gonna think that a web app can't make people better planters.
+- You're gonna think that a web app can't make people better Planters.
 - You're gonna think that I'm not qualified.
 :::
 
@@ -20,21 +20,21 @@
 
 ## What does every rookie do before they go planting?
 
-Rookie planters ALWAYS Google "How to Plant trees?" before starting the season. Why? To educate themselves as much as possible before starting work, because they know that the more knowledge they have about planting the more money they will make.
+Rookie Planters ALWAYS Google "How to Plant trees?" before starting the season. Why? To educate themselves as much as possible before starting work, because they know that the more knowledge they have about planting the more money they will make.
 
 The best resource which can be found is Replant.ca, but this site could be better.
 
 - The [Dictionary](http://www.replant.ca/dictionary.html) has no images.
-- The book [Step By Step](https://jonathan-scooter-clark.blogspot.com/2018/03/step-by-step.html) only has a couple chapters about how to actually plant trees AND you need to pay for it. I've personally bought two editions of the book and neither are useful to the planters themselves, it seems like the book is more useful to people like yourselves who run planting companies.
-- Their [videos](https://jonathan-scooter-clark.blogspot.com/2017/02/tree-planter-training-learning-how-to.html) are not very useful.
+- The book [Step By Step](https://jonathan-scooter-clark.blogspot.com/2018/03/step-by-step.html) only has a couple chapters about how to actually plant trees AND you need to pay for it. I've personally bought two editions of the book and neither are useful to the Planters themselves, it seems like the book is more useful to people like yourselves who run planting companies.
+- Their [videos](https://jonathan-scooter-clark.blogspot.com/2017/02/tree-Planter-training-learning-how-to.html) are not very useful.
 
 
 ## What is Plantbeta?
 
-- Plantbeta is a web app which contains all the information that a planter needs to know to perform their job in the [Reference](/reference/Overview) section. 
-- Plantbeta has a [Tests](/tests/Overview) section for planters to reinforce their knowledge and to find any gaps in their knowledge.
-- Unlike Replant.ca, Plantbeta contains no information about the business side of planting, it's only from the planter's perspective. 
-- Each element of Plantbeta has its own profile. Currently you will see placeholders for each section of the profile. Each element profile has a profile picture, element description, a relationship graph showing how it relates to elements from the other subsystems, descriptions of how elements from other subsystems relate to the current element and at the bottom of the profile there are links to related elements (like the "See Also" section in Wikipedia pages). Not only are planters shown all the elements, but more importantly they are shown how they relate to each other. Some elements are highly related to such as Attention (NeuroElement), while others are not related to other subsystems such as TreeLoad (grabbing a tree from your bag).
+- Plantbeta is a web app which contains all the information that a Planter needs to know to perform their job in the [Reference](/reference/Overview) section. 
+- Plantbeta has a [Tests](/tests/Overview) section for Planters to reinforce their knowledge and to find any gaps in their knowledge.
+- Unlike Replant.ca, Plantbeta contains no information about the business side of planting, it's only from the Planter's perspective. 
+- Each element of Plantbeta has its own profile. Currently you will see placeholders for each section of the profile. Each element profile has a profile picture, element description, a relationship graph showing how it relates to elements from the other subsystems, descriptions of how elements from other subsystems relate to the current element and at the bottom of the profile there are links to related elements (like the "See Also" section in Wikipedia pages). Not only are Planters shown all the elements, but more importantly they are shown how they relate to each other. Some elements are highly related to such as Attention (NeuroElement), while others are not related to other subsystems such as TreeLoad (grabbing a tree from your bag).
     - [PocketArea](/reference/Environment/Area/PocketArea.md)
         - It's more efficient to AreaFill than PerimeterFill (RouteElements) a PocketArea.
         - You need to define the boundaries of the area (NeuroElement).
@@ -53,8 +53,8 @@ The best resource which can be found is Replant.ca, but this site could be bette
 
 > Work smarter not harder
 
-- Plantbeta is **FREE** educational resource for planters.
-- Plantbeta explains how to plant in greater nuance than ever before, by breaking down a planter's experience into 4 interdependent subsystems:
+- Plantbeta is **FREE** educational resource for Planters.
+- Plantbeta explains how to plant in greater nuance than ever before, by breaking down a Planter's experience into 4 interdependent subsystems:
     - Environment System
     - Move System
     - Routing System
@@ -74,7 +74,7 @@ The best resource which can be found is Replant.ca, but this site could be bette
 > "We take pride in our work and reputation as we strive to be one of the most efficient and innovative companies on the market"
 
 - Plantbeta will increase Quastuco's reputation, since Quastuco's logo is prominently displayed on the home page and on every other page, therefore advertising Quastuco to every user, everytime they use the app. With a greater amount of advertising comes a greater number of applicants, so you can be more selective in your hiring process.
-- You, Bunky and the OverEnvironment family, could be the planters in the movement element photos if you wanted.
+- You, Bunky and the OverEnvironment family, could be the Planters in the movement element photos if you wanted.
 - Quastuco can be one who posts an annoucement Plantbeta to King Kong Reforestation.
 
 <pre>
@@ -82,9 +82,9 @@ The best resource which can be found is Replant.ca, but this site could be bette
 
 </pre>
 
-> "When all our systems are in place, you as the planter will meet your goals."
+> "When all our systems are in place, you as the Planter will meet your goals."
 
-- Plantbeta systematizes a planter's education. Plantbeta will reduce the time it takes for rookies to learn how to plant, therefore increasing Quastuco's planting rate.
+- Plantbeta systematizes a Planter's education. Plantbeta will reduce the time it takes for rookies to learn how to plant, therefore increasing Quastuco's planting rate.
 
 <pre>
 
@@ -92,9 +92,9 @@ The best resource which can be found is Replant.ca, but this site could be bette
 </pre>
 
 > "Statement of Goals and Objective - 2023 Safety Improvement Plan...
-Flagging reduction, the goal is a 60% reduction in single use plastics...Veteran planters will be provided with techniques to reduce their flagging use"
+Flagging reduction, the goal is a 60% reduction in single use plastics...Veteran Planters will be provided with techniques to reduce their flagging use"
 
-- Plantbeta will increase the value of experienced planters, by identifying then filling in their knowledge gaps.
+- Plantbeta will increase the value of experienced Planters, by identifying then filling in their knowledge gaps.
 <pre>
 
 
@@ -105,7 +105,7 @@ Flagging reduction, the goal is a 60% reduction in single use plastics...Veteran
 - The new site would use [Material Design 3 ]('https://m3.material.io/') standards which were published in Nov 2022. Material Design is what Google and Youtube use to style their websites and is the cutting edge of web design. Update Quastuco's site now to the current cutting edge and you won't need to update it for a long time. If the current site is kept the way it is, then it will look ancient in 5 years.
 - The [Photos](https://www.quastuco.com/photos/) section of your website doesn't work, a blank screen is rendered and images can only been seen one at a time if you click on the blank area. 
 - Update the photos used on the website.
-- Quastuco has a Facebook page which has a good design, but Gen Z doesn't use Facebook, so, future planters won't see it. 
+- Quastuco has a Facebook page which has a good design, but Gen Z doesn't use Facebook, so, future Planters won't see it. 
     - [NBC news](https://www.nbcnews.com/tech/tech-news/gen-z-facebook-pew-research-center-finds-rcna42429)
 - Other planting companies have well designed websites
     - [OutEnvironment Website](https://www.outEnvironmentplanting.ca/)
@@ -124,12 +124,12 @@ Flagging reduction, the goal is a 60% reduction in single use plastics...Veteran
 - I've already made dozens of pages of designs for Plantbeta, but I haven't gotten the opportunity to implement them into a web app. 
 - There are many other planting projects which I'd like to work with Quastuco to implement in the years to come, such as:
     - Paper flagging tape which doesn't fall off branches, so the flag is highly visible and therefore fewer flags are needed. Also the paper won't be as toxic to the earth as plastic flagging tape. 
-    - Gloves which are specifically designed for planters.
+    - Gloves which are specifically designed for Planters.
     - Making a pro deal with Patagonia clothing.
     - Adding a section to Plantbeta for Supervisors.
     - Using AI to optimize planting.
     - Create a guide for Planter Instructors. 
-    - Creating a position for a person who repairs planter's clothing and boots to increase their longevity. A torn stitch in a boot could be repaired before it grows and reduces a planter's performance. 
+    - Creating a position for a person who repairs Planter's clothing and boots to increase their longevity. A torn stitch in a boot could be repaired before it grows and reduces a Planter's performance. 
 
 
 ## So, how do we make this happen?
@@ -142,7 +142,7 @@ Flagging reduction, the goal is a 60% reduction in single use plastics...Veteran
 
 #### Recording Observations
 
-- What are the most common ways that planters lose time?
+- What are the most common ways that Planters lose time?
 - What parts of the Environment does RookieStare most frequently occur?
 - Expand the EnvironmentSystem section, adding more microsite types to Plantbeta.
 - HighBaller Observation
@@ -157,9 +157,9 @@ Flagging reduction, the goal is a 60% reduction in single use plastics...Veteran
 
 - What is going on in their heads when Rookies RookieStare?
 - What Plantbeta elements have rookies never heard of?
-- What would planters want from Planbeta?
+- What would Planters want from Planbeta?
 - What are the most common quality faults that supervisors observe?
-- How do planters plan their piece?
+- How do Planters plan their piece?
  
 ## Web Development During the OffSeason {#title2}
 

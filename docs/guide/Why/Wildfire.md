@@ -1,6 +1,6 @@
 # Wildfire
 
-All of Canada's burnt environments will need to be replanted as efficiently as possible. Plantbeta increases the efficiency of every planter who studies it.
+All of Canada's burnt environments will need to be replanted as efficiently as possible. Plantbeta increases the efficiency of every Planter who studies it.
 
 
 ![Wildfire_02](/Wildfire_02.png)

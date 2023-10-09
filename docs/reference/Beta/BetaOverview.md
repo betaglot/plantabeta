@@ -6,7 +6,7 @@ layout: doc
 
 # 🔷 What is Beta? 🔷
 
-![BetaVenn](/BetaVenn.png)
+![BetaSetDiagram](/BetaSetDiagram.png)
 
 
 ## "Beta" is from the climbing community
@@ -58,7 +58,7 @@ This each line are analog pairs. The equal signs = denotes where Climbing and Pl
 
 ### Definition(BetaInstance)
 
-- Snapshot of what a planter is doing and thinking in a particular Moment.
+- Snapshot of what a Planter is doing and thinking in a particular Moment.
 - The current state of the Environment, Route, Planter[Move, Neuro].
 - An element of a BetaStack or BetaSequence.
 - There is no time in a BetaInstance

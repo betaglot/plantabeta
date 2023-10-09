@@ -46,19 +46,21 @@ Graph which represents how this element is related to other elements in Plantbet
 ## Related 🟩 EnvironmentElements 🟩
 
 ## Related 🟠 MoveElements 🟠
-- Description of how this EnvironmentElement relates to a particular [Move]().
-- Description of how this EnvironmentElement relates to a particular [Move]().
-- Description of how this EnvironmentElement relates to a particular [Move]().
+- Description of how this EnvironmentElement relates to a particular [Move](/reference/Move/MoveOverview).
+- Description of how this EnvironmentElement relates to a particular [Move](/reference/Move/MoveOverview).
+- Description of how this EnvironmentElement relates to a particular [Move](/reference/Move/MoveOverview).
+
 
 ## Related 🔺 RouteElements 🔺
-- Description of how this EnvironmentElement relates to a particular [RouteElement]().
-- Description of how this EnvironmentElement relates to a particular [RouteElement]().
-- Description of how this EnvironmentElement relates to a particular [RouteElement]().
+- Description of how this EnvironmentElement relates to a particular [RouteElement](/reference/Route/RouteOverview).
+- Description of how this EnvironmentElement relates to a particular [RouteElement](/reference/Route/RouteOverview).
+- Description of how this EnvironmentElement relates to a particular [RouteElement](/reference/Route/RouteOverview).
 
 ## Related 💜 NeuroElements 💜
-- Description of how this EnvironmentElement relates to a particular [NeuroElement]().
-- Description of how this EnvironmentElement relates to a particular [NeuroElement]().
-- Description of how this EnvironmentElement relates to a particular [NeuroElement]().
+- Description of how this EnvironmentElement relates to a particular [NeuroElement](/reference/Neuro/NeuroOverview).
+- Description of how this EnvironmentElement relates to a particular [NeuroElement](/reference/Neuro/NeuroOverview).
+- Description of how this EnvironmentElement relates to a particular [NeuroElement](/reference/Neuro/NeuroOverview).
+
 
 ## Quotes
 

@@ -1,18 +1,22 @@
-# Give Feedback
+# Contact
 
 ::: tip Send an email to:
 christopheralduncan@gmail.com
 :::
 
-## Like or Dislike
+## Give Feedback
 
-## Suggest New [Elements]()
+### Likes or Dislikes
 
-## Suggest New Features
+What parts of Plantbeta do you like or Dislike and Why?
+
+### Suggest New [Elements](/guide/What/WhatElement)
+
+### Suggest New Features
 
 What are some features that you would like to see
 
-## Clarification
+### Clarification
 
 Which parts of of [Plantbeta](/guide/introduction.html#what-is-plantbeta) are: 
 
@@ -21,6 +25,6 @@ Which parts of of [Plantbeta](/guide/introduction.html#what-is-plantbeta) are:
 - Contradictory
 
 
-## Errors
+### Errors
 - Typos
 - Conceptual Errors

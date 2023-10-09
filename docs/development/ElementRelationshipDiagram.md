@@ -75,7 +75,7 @@ Removes Value Addition // [!code --]
 
 ### Outcome > Output
 
-False value is a bunch of features that planters don't use. The value of a stump is not its color (HexadecimalValue, RGB values), rather value comes from the stump's PotentialMicrosites. The RouteElement(PotentialMicrosite, FlagSite) gives the EnvironmentElement(Stump) value
+False value is a bunch of features that Planters don't use. The value of a stump is not its color (HexadecimalValue, RGB values), rather value comes from the stump's PotentialMicrosites. The RouteElement(PotentialMicrosite, FlagSite) gives the EnvironmentElement(Stump) value
 
 Theorem the name of an object, while Problem is the object's values and methods.
 
@@ -140,7 +140,7 @@ Value is added along a sequence of steps. Like Bioamplification of poison in Pre
 - Adjust your bags to avoid getting abraisions on your hips.
 
 **Reduces Cost**
-- Flag is a cost in money terms and planter resources too.
+- Flag is a cost in money terms and Planter resources too.
 
 **Increases Variety**
 - HandClose is more versitile than FootClose.
@@ -466,7 +466,7 @@ UX
 
 ## (State)Attencide
 
-Anything that a planter needs to remember during a planting sequence.
+Anything that a Planter needs to remember during a planting sequence.
 
 RouteState
 

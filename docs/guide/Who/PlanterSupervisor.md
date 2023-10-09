@@ -1,6 +1,6 @@
 # Planter Supervisor
 
-> A person who manages a crew of planters
+> A person who manages a crew of Planters
 
 Also known as:
 

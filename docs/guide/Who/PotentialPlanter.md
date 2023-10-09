@@ -1,8 +1,8 @@
 # Potential Planter
 
-> A person who wants to become a planter.
+> A person who wants to become a Planter.
 
-You're wondering if you want to become a planter
+You're wondering if you want to become a Planter
 
 How difficult is tree planting?
 

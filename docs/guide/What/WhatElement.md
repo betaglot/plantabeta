@@ -2,7 +2,7 @@
 
 > An element is one of the parts of something that makes it work, or a quality that makes someone or something effective.
 
-Plantbeta breaks down a planter's experience into simple elements. Each element has its own particular properties which when varied affect 
+Plantbeta breaks down a Planter's experience into simple elements. Each element has its own particular properties which when varied affect 
 
 Changing an Element's properties affects how it relates to other elements and changes their properties too. These changes ripple out across Plantbeta's web of relationships.
 
@@ -17,8 +17,8 @@ Changing an Element's properties affects how it relates to other elements and ch
 
 ## Purpose of Elements
 
-- The simplification of a planter's experience.
-- Chunking a planter's experience into discrete pieces of information so that they can combined in novel ways.
+- The simplification of a Planter's experience.
+- Chunking a Planter's experience into discrete pieces of information so that they can combined in novel ways.
 
 ## The Elements of ...
 

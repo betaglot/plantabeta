@@ -54,7 +54,7 @@ Graph which represents how this element is related to other elements in Plantbet
 
 ### [SlopedEnvironment]()
 - Travel across the Environment instead of up and down
-- Description of how this RouteElement relates to a particular [EnvironmentElement]().
+- Description of how this RouteElement relates to a particular [EnvironmentElement](/reference/Environment/EnvironmentOverview).
 
 ### [Obstacle]() Preventing BoustroFill
 

@@ -44,18 +44,18 @@ Graph which represents how this element is related to other elements in Plantbet
 <img height="350" width="350" src="/DirectedGraph_UndirectedGraph.png"/>
 
 ## Related 🟩 EnvironmentElements
-- Description of how this RouteElement relates to a particular [EnvironmentElement]().
-- Description of how this RouteElement relates to a particular [EnvironmentElement]().
-- Description of how this RouteElement relates to a particular [EnvironmentElement]().
+- Description of how this RouteElement relates to a particular [EnvironmentElement](/reference/Environment/EnvironmentOverview).
+- Description of how this RouteElement relates to a particular [EnvironmentElement](/reference/Environment/EnvironmentOverview).
+- Description of how this RouteElement relates to a particular [EnvironmentElement](/reference/Environment/EnvironmentOverview).
 ## Related 💜 NeuroElements
-- Description of how this RouteElement relates to a particular [NeuroElement]().
-- Description of how this RouteElement relates to a particular [NeuroElement]().
-- Description of how this RouteElement relates to a particular [NeuroElement]().
+- Description of how this RouteElement relates to a particular [NeuroElement](/reference/Neuro/NeuroOverview).
+- Description of how this RouteElement relates to a particular [NeuroElement](/reference/Neuro/NeuroOverview).
+- Description of how this RouteElement relates to a particular [NeuroElement](/reference/Neuro/NeuroOverview).
 
 ## Related 🟠 MoveElements
-- Description of how this RouteElement relates to a particular [MoveElement]().
-- Description of how this RouteElement relates to a particular [MoveElement]().
-- Description of how this RouteElement relates to a particular [MoveElement]().
+- Description of how this RouteElement relates to a particular [MoveElement](/reference/Move/MoveOverview).
+- Description of how this RouteElement relates to a particular [MoveElement](/reference/Move/MoveOverview).
+- Description of how this RouteElement relates to a particular [MoveElement](/reference/Move/MoveOverview).
 
 ## Examples
 

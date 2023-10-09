@@ -7,10 +7,10 @@ titleTemplate: Plantbeta
 hero: 
   name: Plantbeta
   text: 
-  tagline: How to be a Tree Planter
+  tagline: Using Climbing to Plant Trees
   image:
-    src: /BetaVenn.png
-    alt: BetaVenn
+    src: /BetaSetDiagram.png
+    alt: BetaSetDiagram
   actions:
     - theme: brand
       text: Get Started
@@ -28,10 +28,13 @@ features:
   - icon: 🌲
     title: Plant More Efficiently 
     details: Increase your Ability to Plant Trees
+    link: /guide/What/WhatPlantbeta
   - icon: 🛠️
     title: Under Construction 
-    details: Last Updated October 4, 2023
-  - icon: 😊
-    title: Feel Better
-    details: Less Injuries, Better Mental Health!
+    details: Last Updated October 9, 2023. This website is a prototype, not the final product
+    link: /development/DevelopmentOverview
+  - icon: 🔷
+    title: BetaComp
+    details: Click Here to Discover How Climbing is Used to Train Planters
+    link: /guide/How/BetaComp
 ---

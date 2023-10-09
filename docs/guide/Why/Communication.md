@@ -6,7 +6,7 @@ Be able to describe more experiences.
 
 ## Greater Precision
 
-Pinpoint the specific part of a planter's experience.
+Pinpoint the specific part of a Planter's experience.
 
 ## More Concise
 
@@ -24,7 +24,7 @@ An increased vocabulary and standardization of communication improves the effect
 
 ### Planters Communicating with Themselves
 
-Plantbeta increases the vocabulary of a planter's internal dialog which improves [short term memory](/reference/Neuro/Memory/ShortTermMemory) of planter's experience. 
+Plantbeta increases the vocabulary of a Planter's internal dialog which improves [short term memory](/reference/Neuro/Memory/ShortTermMemory) of Planter's experience. 
 
 ### Planter Communicating with Other Planters
 

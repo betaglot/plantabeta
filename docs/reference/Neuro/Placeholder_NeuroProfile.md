@@ -40,16 +40,18 @@ Graph which represents how this element is related to other elements in Plantbet
 ## Related 💜 NeuroElements 💜
 
 ## Related 🟠 MoveElements
-
+- Description of how this NeuroElement relates to a particular [MoveElement](/reference/Move/MoveOverview).
+- Description of how this NeuroElement relates to a particular [MoveElement](/reference/Move/MoveOverview).
+- Description of how this NeuroElement relates to a particular [MoveElement](/reference/Move/MoveOverview).
 
 ## Related 🟩 EnvironmentElements
-- Description of how this NeuroElement relates to a particular [EnvironmentElement]().
-- Description of how this NeuroElement relates to a particular [EnvironmentElement]().
-- Description of how this NeuroElement relates to a particular [EnvironmentElement]().
+- Description of how this NeuroElement relates to a particular [EnvironmentElement](/reference/Environment/EnvironmentOverview).
+- Description of how this NeuroElement relates to a particular [EnvironmentElement](/reference/Environment/EnvironmentOverview).
+- Description of how this NeuroElement relates to a particular [EnvironmentElement](/reference/Environment/EnvironmentOverview).
 ## Related 🔺 RouteElements
-- Description of how this NeuroElement relates to a particular [RouteElement]().
-- Description of how this NeuroElement relates to a particular [RouteElement]().
-- Description of how this NeuroElement relates to a particular [RouteElement]().
+- Description of how this NeuroElement relates to a particular [RouteElement](/reference/Route/RouteOverview).
+- Description of how this NeuroElement relates to a particular [RouteElement](/reference/Route/RouteOverview).
+- Description of how this NeuroElement relates to a particular [RouteElement](/reference/Route/RouteOverview).
 
 ## Examples
 

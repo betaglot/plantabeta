@@ -2,9 +2,9 @@
 
 ![InstaPhoto033](/InstaPhoto033.jpg)
 
-Every year millions of tree seedlings are planted across Canada. As shown in the image above, the planter finds a suitable place to plant a seedling, then uses a spade to open holes for the seedling to be inserted, then the planter closes the hole and the cycle repeats thousands of times each day.  
+Every year millions of tree seedlings are planted across Canada. As shown in the image above, the Planter finds a suitable place to plant a seedling, then uses a spade to open holes for the seedling to be inserted, then the Planter closes the hole and the cycle repeats thousands of times each day.  
 
-Every step of the planting process can be optimized, usually it takes planters a whole season (approximately 80 days) to learn how to plant trees efficiently.  
+Every step of the planting process can be optimized, usually it takes Planters a whole season (approximately 80 days) to learn how to plant trees efficiently.  
 
 For a great look at what tree planting is like, watch this documentary [One Million Trees](https://www.youtube.com/watch?v=ep6sWECi3BE)
 
@@ -21,8 +21,8 @@ Ontario woman goes viral for planting more than 4,500 trees in a day
 'Completely different, crazy world' of B.C. tree planting revealed in documentary One Million Trees
 - https://www.cbc.ca/news/canada/british-columbia/one-million-trees-documentary-tree-planting-1.5791939
 
-Forestry sector scrambles to recruit tree planters to sow millions — perhaps billions — more seedlings
-- https://www.cbc.ca/news/canada/british-columbia/tree-planters-shortage-climate-change-1.5170853
+Forestry sector scrambles to recruit tree Planters to sow millions — perhaps billions — more seedlings
+- https://www.cbc.ca/news/canada/british-columbia/tree-Planters-shortage-climate-change-1.5170853
 
 :::
 
@@ -37,7 +37,7 @@ Forestry sector scrambles to recruit tree planters to sow millions — perhaps b
 
 :::
 <!--  -->
-::: details How much does a planter usually plant in a day?
+::: details How much does a Planter usually plant in a day?
 
 Planters in Canada usually plant between 1000 and 3000 trees a day.
 
@@ -105,7 +105,7 @@ The "centage" for each tree planted usually ranges from 15 to 18 cents in Britis
 <!--  -->
 ::: details How many Planters work in Canada every year?
 
-Approximately 6500 planters each season in Canada
+Approximately 6500 Planters each season in Canada
 
 - https://montreal.citynews.ca/2022/08/08/record-for-amount-of-trees-24-hours/
 
