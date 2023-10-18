@@ -11,7 +11,7 @@ InsertDiagram of
 
 <div style="display: flex; width: %100; margin-top: 100px;">
     <div style="margin: 5px; width: 50%">
-        <img height="350" width="350" src="/RoutePhoto.png"/>
+        <img height="350" width="350" src="/Route/RouteImage.png"/>
     </div>
     <div style="margin: 5px; width: 50%">
         <p >Description of RouteElement. How the RouteElement got its name. Common misconceptions about the RouteElement. How to differentiate this RouteElement from another similar RouteElement</p>

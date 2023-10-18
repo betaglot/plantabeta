@@ -26,7 +26,7 @@
 
 <div style="display: flex; width: %100; margin-top: 50px;">
     <div style="margin: 5px; width: 50%">
-        <img height="350" width="350" src="/NeuroImage.png"/>
+        <img height="350" width="350" src="/Neuro/NeuroImage.png"/>
     </div>
     <div style="margin: 5px; width: 50%">
         <p >Description of NeuroElement. How the <neuro>NeuroElement </neuro>got its name. The purpose of the NeuroElement. Common misconceptions about the NeuroElement. How to differentiate this <neuro>NeuroElement </neuro>from another similar NeuroElement</p>
