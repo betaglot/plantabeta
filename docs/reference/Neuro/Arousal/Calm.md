@@ -1,2 +1,2 @@
-# 💜 Calm 💜
+# 💜 <neuro>Calm </neuro>💜
 ## Decrease Arousal

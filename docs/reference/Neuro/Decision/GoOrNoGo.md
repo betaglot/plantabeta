@@ -1,4 +1,4 @@
-# 💜 GoOrNoGo 💜
+# 💜 <neuro>GoOrNoGo </neuro>💜
 
 ## Unplantable?
 

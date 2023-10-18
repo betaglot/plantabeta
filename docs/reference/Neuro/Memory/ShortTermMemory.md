@@ -1,1 +1,1 @@
-# Short Term Memory
+# <neuro>Short Term Memory</neuro>

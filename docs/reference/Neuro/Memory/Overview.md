@@ -1,4 +1,4 @@
-# Memory Overview
+# <neuro>Memory Overview</neuro>
 
 > Fire together, wire together
 

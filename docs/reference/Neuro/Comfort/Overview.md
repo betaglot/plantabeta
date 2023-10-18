@@ -1,3 +1,3 @@
-# 💜 Communication 💜
+# 💜 <neuro>Communication </neuro>💜
 
 ## Tone

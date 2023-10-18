@@ -1,1 +1,1 @@
-# Long Term Memory
+# <neuro>Long Term Memory</neuro>

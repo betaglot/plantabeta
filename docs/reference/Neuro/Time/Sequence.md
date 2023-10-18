@@ -1,4 +1,4 @@
-# 💜 Sequence 💜
+# 💜 <neuro>Sequence </neuro>💜
 
 ## Sequence Error
 

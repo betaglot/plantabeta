@@ -1,4 +1,4 @@
-# 💜 Resilience 💜
+# 💜 <neuro>Resilience </neuro>💜
 
 😣 
 Persevering Face 😣

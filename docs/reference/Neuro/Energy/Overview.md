@@ -1,1 +1,1 @@
-# Energy Overview
+# <neuro>Energy Overview</neuro>

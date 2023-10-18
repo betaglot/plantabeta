@@ -1,15 +1,15 @@
 # [🟩](/reference/Environment/Overview) - [🟠](/reference/Move/Overview) - [🔺](/reference/Route/Overview) - [💜](/reference/Neuro/Overview) - [🔷](/reference/Beta/Overview)
 
 
-## [🟩🟩🟩  Environment  🟩🟩🟩](/reference/Environment/EnvironmentOverview) 
+## [<envi>🟩🟩🟩  Environment  🟩🟩🟩</envi>](/reference/Environment/EnvironmentOverview) 
 
-## [🟠🟠🟠  Move  🟠🟠🟠](/reference/Move/MoveOverview)
+## [<move>🟠🟠🟠  Move  🟠🟠🟠</move>](/reference/Move/MoveOverview)
 
-## [🔺🔺🔺  Route  🔺🔺🔺](/reference/Route/RouteOverview)
+## [<route>🔺🔺🔺  Route  🔺🔺🔺</route>](/reference/Route/RouteOverview)
 
-## [💜💜💜  Neuro  💜💜💜](/reference/Neuro/NeuroOverview)
+## [<neuro>💜💜💜  Neuro  💜💜💜</neuro>](/reference/Neuro/NeuroOverview)
 
-## [🔷🔷🔷  Beta  🔷🔷🔷](/reference/Beta/BetaOverview)
+## [<beta>🔷🔷🔷  Beta  🔷🔷🔷</beta>](/reference/Beta/BetaOverview)
 
 - Reference is laid out similarily to a wikipedia page. There are many links between pages. Links are highlighted as [green text](/reference/ReferenceOverview) (👈 this link links to the the current page).
 

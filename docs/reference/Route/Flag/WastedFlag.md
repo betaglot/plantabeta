@@ -1,4 +1,4 @@
-# 🔺 WastedFlag 🔺
+# 🔺 <route>WastedFlag </route>🔺
 
 - LowFlag
 - FlagError

@@ -1,4 +1,4 @@
-# Number Memory
+# <neuro>Number Memory</neuro>
 
 ## Mnemonics
 

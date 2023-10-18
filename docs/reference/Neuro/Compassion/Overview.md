@@ -1,3 +1,3 @@
-# 💜 Compassion 💜
+# 💜 <neuro>Compassion </neuro>💜
 
 ## SelfCompassion

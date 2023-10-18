@@ -1,4 +1,4 @@
-# 💜 Alignment Overview 💜
+# 💜 <neuro>Alignment Overview</neuro> 💜
 
 ## RectilinearAlignment
 

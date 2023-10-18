@@ -1,4 +1,4 @@
-# 💜 Acceptance 💜
+# 💜 <neuro>Acceptance</neuro> 💜
 
 ## DiscomfortAcceptance
 
