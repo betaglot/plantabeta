@@ -51,24 +51,24 @@ Graph which represents how this element is related to other elements in Plantbet
 
 <img height="350" width="350" src="/DirectedGraph_UndirectedGraph.png"/>
 
-## Related 🟠 MoveElements 🟠
-- Description of how this MoveElement relates to a particular [MoveElement](/reference/Move/MoveOverview).
-- Description of how this MoveElement relates to a particular [MoveElement](/reference/Move/MoveOverview).
-- Description of how this MoveElement relates to a particular [MoveElement](/reference/Move/MoveOverview).
+## Related 🟠 <move>MoveElements </move>🟠
+- Description of how this MoveElement relates to a particular [<move>MoveElement</move>](/reference/Move/MoveOverview).
+- Description of how this MoveElement relates to a particular [<move>MoveElement</move>](/reference/Move/MoveOverview).
+- Description of how this MoveElement relates to a particular [<move>MoveElement</move>](/reference/Move/MoveOverview).
 
-## Related 🟩 EnvironmentElements
+## Related 🟩<envi> EnvironmentElements </envi>🟩
 - Description of how this MoveElement relates to a particular [EnvironmentElement](/reference/Environment/EnvironmentOverview).
 - Description of how this MoveElement relates to a particular [EnvironmentElement](/reference/Environment/EnvironmentOverview).
 - Description of how this MoveElement relates to a particular [EnvironmentElement](/reference/Environment/EnvironmentOverview).
 ## Related 🔺 RouteElements
-- Description of how this MoveElement relates to a particular [RouteElement](/reference/Route/RouteOverview).
-- Description of how this MoveElement relates to a particular [RouteElement](/reference/Route/RouteOverview).
-- Description of how this MoveElement relates to a particular [RouteElement](/reference/Route/RouteOverview).
+- Description of how this MoveElement relates to a particular [<route>RouteElement</route>](/reference/Route/RouteOverview).
+- Description of how this MoveElement relates to a particular [<route>RouteElement</route>](/reference/Route/RouteOverview).
+- Description of how this MoveElement relates to a particular [<route>RouteElement</route>](/reference/Route/RouteOverview).
 
-## Related 💜 NeuroElements
-- Description of how this Move relates to a particular [NeuroElement](/reference/Neuro/NeuroOverview).
-- Description of how this Move relates to a particular [NeuroElement](/reference/Neuro/NeuroOverview).
-- Description of how this Move relates to a particular [NeuroElement](/reference/Neuro/NeuroOverview).
+## Related 💜 <neuro>NeuroElements</neuro>
+- Description of how this Move relates to a particular [<neuro>NeuroElement</neuro>](/reference/Neuro/NeuroOverview).
+- Description of how this Move relates to a particular [<neuro>NeuroElement</neuro>](/reference/Neuro/NeuroOverview).
+- Description of how this Move relates to a particular [<neuro>NeuroElement</neuro>](/reference/Neuro/NeuroOverview).
 ## Quotes
 
 Quotes about this Move

@@ -4,7 +4,7 @@
         <img height="350" width="350" src="/EnvironmentPhoto.png"/>
     </div>
     <div style="margin: 5px; width: 50%">
-        <p >Description of EnvironmentElement. How the EnvironmentElement got its name. Common misconceptions about the EnvironmentElement. How to differentiate this EnvironmentElement from another similar EnvironmentElement</p>
+        <p >Description of EnvironmentElement. How the <envi>EnvironmentElement </envi>got its name. Common misconceptions about the EnvironmentElement. How to differentiate this <envi>EnvironmentElement </envi>from another similar EnvironmentElement</p>
     </div>
 </div>
 
@@ -43,23 +43,23 @@ Graph which represents how this element is related to other elements in Plantbet
 
 <img height="350" width="350" src="/DirectedGraph_UndirectedGraph.png"/>
 
-## Related 🟩 EnvironmentElements 🟩
+## Related 🟩 <envi>EnvironmentElements </envi>🟩
 
-## Related 🟠 MoveElements 🟠
-- Description of how this EnvironmentElement relates to a particular [Move](/reference/Move/MoveOverview).
-- Description of how this EnvironmentElement relates to a particular [Move](/reference/Move/MoveOverview).
-- Description of how this EnvironmentElement relates to a particular [Move](/reference/Move/MoveOverview).
+## Related 🟠 <move>MoveElements </move>🟠
+- Description of how this <envi>EnvironmentElement </envi>relates to a particular [<move>MoveElement</move>](/reference/Move/MoveOverview).
+- Description of how this <envi>EnvironmentElement </envi>relates to a particular [<move>MoveElement</move>](/reference/Move/MoveOverview).
+- Description of how this <envi>EnvironmentElement </envi>relates to a particular [<move>MoveElement</move>](/reference/Move/MoveOverview).
 
 
-## Related 🔺 RouteElements 🔺
-- Description of how this EnvironmentElement relates to a particular [RouteElement](/reference/Route/RouteOverview).
-- Description of how this EnvironmentElement relates to a particular [RouteElement](/reference/Route/RouteOverview).
-- Description of how this EnvironmentElement relates to a particular [RouteElement](/reference/Route/RouteOverview).
+## Related 🔺 <route>RouteElements </route>🔺
+- Description of how this <envi>EnvironmentElement </envi>relates to a particular [<route>RouteElement</route>](/reference/Route/RouteOverview).
+- Description of how this <envi>EnvironmentElement </envi>relates to a particular [<route>RouteElement</route>](/reference/Route/RouteOverview).
+- Description of how this <envi>EnvironmentElement </envi>relates to a particular [<route>RouteElement</route>](/reference/Route/RouteOverview).
 
-## Related 💜 NeuroElements 💜
-- Description of how this EnvironmentElement relates to a particular [NeuroElement](/reference/Neuro/NeuroOverview).
-- Description of how this EnvironmentElement relates to a particular [NeuroElement](/reference/Neuro/NeuroOverview).
-- Description of how this EnvironmentElement relates to a particular [NeuroElement](/reference/Neuro/NeuroOverview).
+## Related 💜 <neuro>NeuroElements</neuro> 💜
+- Description of how this <envi>EnvironmentElement </envi>relates to a particular [<neuro>NeuroElement</neuro>](/reference/Neuro/NeuroOverview).
+- Description of how this <envi>EnvironmentElement </envi>relates to a particular [<neuro>NeuroElement</neuro>](/reference/Neuro/NeuroOverview).
+- Description of how this <envi>EnvironmentElement </envi>relates to a particular [<neuro>NeuroElement</neuro>](/reference/Neuro/NeuroOverview).
 
 
 ## Quotes

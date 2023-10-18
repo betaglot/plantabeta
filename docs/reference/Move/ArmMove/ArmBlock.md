@@ -40,14 +40,14 @@
 - Description of how this movement relates to a particular [EnvironmentElement](/reference/Environment/EnvironmentOverview).
 - Description of how this movement relates to a particular [EnvironmentElement](/reference/Environment/EnvironmentOverview).
 ## RouteElements
-- Description of how this movement relates to a particular [RouteElement](/reference/Route/RouteOverview).
-- Description of how this movement relates to a particular [RouteElement](/reference/Route/RouteOverview).
-- Description of how this movement relates to a particular [RouteElement](/reference/Route/RouteOverview).
+- Description of how this movement relates to a particular [<route>RouteElement</route>](/reference/Route/RouteOverview).
+- Description of how this movement relates to a particular [<route>RouteElement</route>](/reference/Route/RouteOverview).
+- Description of how this movement relates to a particular [<route>RouteElement</route>](/reference/Route/RouteOverview).
 
 ## NeuroElements
-- Description of how this movement relates to a particular [NeuroElement](/reference/Neuro/NeuroOverview).
-- Description of how this movement relates to a particular [NeuroElement](/reference/Neuro/NeuroOverview).
-- Description of how this movement relates to a particular [NeuroElement](/reference/Neuro/NeuroOverview).
+- Description of how this movement relates to a particular [<neuro>NeuroElement</neuro>](/reference/Neuro/NeuroOverview).
+- Description of how this movement relates to a particular [<neuro>NeuroElement</neuro>](/reference/Neuro/NeuroOverview).
+- Description of how this movement relates to a particular [<neuro>NeuroElement</neuro>](/reference/Neuro/NeuroOverview).
 ## Quotes
 
 Quotes about this Move

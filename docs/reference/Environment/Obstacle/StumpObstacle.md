@@ -5,7 +5,7 @@
         <img height="350" width="350" src="/EnvironmentPhoto.png"/>
     </div>
     <div style="margin: 5px; width: 50%">
-        <p >Description of EnvironmentElement. How the EnvironmentElement got its name. Common misconceptions about the EnvironmentElement. How to differentiate this EnvironmentElement from another similar EnvironmentElement</p>
+        <p >Description of EnvironmentElement. How the <envi>EnvironmentElement </envi>got its name. Common misconceptions about the EnvironmentElement. How to differentiate this <envi>EnvironmentElement </envi>from another similar EnvironmentElement</p>
     </div>
 </div>
 
@@ -45,7 +45,7 @@ Answer 3
 Graph which represents how this element is related to other elements in Plantbeta.
 <img height="350" width="350" src="/DirectedGraph_UndirectedGraph.png"/>
 
-## Related 🟩 EnvironmentElements  🟩
+## Related 🟩<envi> EnvironmentElements </envi>🟩  🟩
 
 ### [🟩Microsite]()
 
@@ -60,7 +60,7 @@ Graph which represents how this element is related to other elements in Plantbet
 - block snow from crushing the seedling
 
 
-## Related 🟠 MoveElements 🟠
+## Related 🟠 <move>MoveElements </move>🟠
 
 ### [🟠SpadePryScreef]()
 
@@ -76,7 +76,7 @@ Graph which represents how this element is related to other elements in Plantbet
 
 
 🔺🟠🟩💜🔷
-## Related 🔺 RouteElements 🔺
+## Related 🔺 <route>RouteElements </route>🔺
 
 ### [🔺ObstacleFill]
 
@@ -109,7 +109,7 @@ Graph which represents how this element is related to other elements in Plantbet
 - 
 
 
-## Related 💜 NeuroElements 💜
+## Related 💜 <neuro>NeuroElements</neuro> 💜
 
 ### [💜Orientation]() 
 - North side of the stump. 

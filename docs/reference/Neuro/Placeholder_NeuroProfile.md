@@ -3,7 +3,7 @@
         <img height="350" width="350" src="/NeuroImage.png"/>
     </div>
     <div style="margin: 5px; width: 50%">
-        <p >Description of NeuroElement. How the NeuroElement got its name. The purpose of the NeuroElement. Common misconceptions about the NeuroElement. How to differentiate this NeuroElement from another similar NeuroElement</p>
+        <p >Description of NeuroElement. How the <neuro>NeuroElement </neuro>got its name. The purpose of the NeuroElement. Common misconceptions about the NeuroElement. How to differentiate this <neuro>NeuroElement </neuro>from another similar NeuroElement</p>
     </div>
 </div>
 
@@ -37,21 +37,21 @@ Graph which represents how this element is related to other elements in Plantbet
 
 <img height="350" width="350" src="/DirectedGraph_UndirectedGraph.png"/>
 
-## Related 💜 NeuroElements 💜
+## Related 💜 <neuro>NeuroElements</neuro> 💜
 
-## Related 🟠 MoveElements
-- Description of how this NeuroElement relates to a particular [MoveElement](/reference/Move/MoveOverview).
-- Description of how this NeuroElement relates to a particular [MoveElement](/reference/Move/MoveOverview).
-- Description of how this NeuroElement relates to a particular [MoveElement](/reference/Move/MoveOverview).
+## Related 🟠<move> MoveElements </move>🟠
+- Description of how this <neuro>NeuroElement </neuro>relates to a particular [<move>MoveElement</move>](/reference/Move/MoveOverview).
+- Description of how this <neuro>NeuroElement </neuro>relates to a particular [<move>MoveElement</move>](/reference/Move/MoveOverview).
+- Description of how this <neuro>NeuroElement </neuro>relates to a particular [<move>MoveElement</move>](/reference/Move/MoveOverview).
 
-## Related 🟩 EnvironmentElements
-- Description of how this NeuroElement relates to a particular [EnvironmentElement](/reference/Environment/EnvironmentOverview).
-- Description of how this NeuroElement relates to a particular [EnvironmentElement](/reference/Environment/EnvironmentOverview).
-- Description of how this NeuroElement relates to a particular [EnvironmentElement](/reference/Environment/EnvironmentOverview).
-## Related 🔺 RouteElements
-- Description of how this NeuroElement relates to a particular [RouteElement](/reference/Route/RouteOverview).
-- Description of how this NeuroElement relates to a particular [RouteElement](/reference/Route/RouteOverview).
-- Description of how this NeuroElement relates to a particular [RouteElement](/reference/Route/RouteOverview).
+## Related 🟩<envi> EnvironmentElements </envi>🟩
+- Description of how this <neuro>NeuroElement </neuro>relates to a particular [EnvironmentElement](/reference/Environment/EnvironmentOverview).
+- Description of how this <neuro>NeuroElement </neuro>relates to a particular [EnvironmentElement](/reference/Environment/EnvironmentOverview).
+- Description of how this <neuro>NeuroElement </neuro>relates to a particular [EnvironmentElement](/reference/Environment/EnvironmentOverview).
+## Related 🔺 <route>RouteElements</route> 🔺
+- Description of how this <neuro>NeuroElement </neuro>relates to a particular [<route>RouteElement</route>](/reference/Route/RouteOverview).
+- Description of how this <neuro>NeuroElement </neuro>relates to a particular [<route>RouteElement</route>](/reference/Route/RouteOverview).
+- Description of how this <neuro>NeuroElement </neuro>relates to a particular [<route>RouteElement</route>](/reference/Route/RouteOverview).
 
 ## Examples
 

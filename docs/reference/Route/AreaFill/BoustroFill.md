@@ -61,14 +61,14 @@ Graph which represents how this element is related to other elements in Plantbet
 #### FallenTree
 
 ## NeuroElements
-- Description of how this RouteElement relates to a particular [NeuroElement]().
-- Description of how this RouteElement relates to a particular [NeuroElement]().
-- Description of how this RouteElement relates to a particular [NeuroElement]().
+- Description of how this RouteElement relates to a particular [<neuro>NeuroElement</neuro>]().
+- Description of how this RouteElement relates to a particular [<neuro>NeuroElement</neuro>]().
+- Description of how this RouteElement relates to a particular [<neuro>NeuroElement</neuro>]().
 
 ## MoveElements
 - [TurnAround]
-- Description of how this RouteElement relates to a particular [MoveElement]().
-- Description of how this RouteElement relates to a particular [MoveElement]().
+- Description of how this RouteElement relates to a particular [<move>MoveElement</move>]().
+- Description of how this RouteElement relates to a particular [<move>MoveElement</move>]().
 
 ## Examples
 
