@@ -1,4 +1,4 @@
-# 🟠 Clothing Overview 🟠
+# 🟠 <move>Clothing Overview </move>🟠
 
 ## Clothing Properties
 
