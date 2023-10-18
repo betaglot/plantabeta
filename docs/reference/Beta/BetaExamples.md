@@ -1,4 +1,4 @@
-# 🔷 Beta Examples 🔷
+# 🔷 <beta>Beta Examples</beta> 🔷
 
 
 

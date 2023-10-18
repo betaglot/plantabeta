@@ -4,7 +4,7 @@ layout: doc
 
 
 
-# 🔷 What is Beta? 🔷
+# 🔷 <beta>What is Beta?</beta> 🔷
 
 ![BetaSetDiagram](/BetaSetDiagram.png)
 
