@@ -437,6 +437,7 @@ function sidebarReference() {
                 { text: '🟠 Overview', link: '/reference/Move/ToolMove/Spade/Overview' },
                 { text: '🟠 SpadeChop', link: '/reference/Move/ToolMove/Spade/SpadeChop' },
                 { text: '🟠 SpadePogo', link: '/reference/Move/ToolMove/Spade/SpadePogo' },
+                { text: '🟠 SpadeProp', link: '/reference/Move/ToolMove/Spade/SpadeProp' },
                 { text: '🟠 SpadeScreef', link: '/reference/Move/ToolMove/Spade/SpadeScreef' },
                 { text: '🟠 SpadeSwing', link: '/reference/Move/ToolMove/Spade/SpadeSwing' },
                 { text: '🟠 SpadeTest', link: '/reference/Move/ToolMove/Spade/SpadeTest' },
