@@ -16,7 +16,7 @@
 - Tool2
 - Tool3
 
-## MoveSequence
+## <move>Move Sequence</move>
 
 <div style="display: flex">
     <div>

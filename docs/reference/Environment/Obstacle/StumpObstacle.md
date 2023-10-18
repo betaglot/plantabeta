@@ -5,7 +5,7 @@
         <img height="350" width="350" src="/Environment/EnvironmentImage.png"/>
     </div>
     <div style="margin: 5px; width: 50%">
-        <p >Description of EnvironmentElement. How the <envi>EnvironmentElement </envi>got its name. Common misconceptions about the EnvironmentElement. How to differentiate this <envi>EnvironmentElement </envi>from another similar EnvironmentElement</p>
+        <p >Description of <envi>EnvironmentElement</envi>. How the <envi>EnvironmentElement </envi>got its name. Common misconceptions about the <envi>EnvironmentElement</envi>. How to differentiate this <envi>EnvironmentElement </envi>from another similar EnvironmentElement</p>
     </div>
 </div>
 

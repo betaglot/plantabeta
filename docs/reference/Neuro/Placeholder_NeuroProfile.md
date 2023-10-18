@@ -3,7 +3,7 @@
         <img height="350" width="350" src="/Neuro/NeuroImage.png"/>
     </div>
     <div style="margin: 5px; width: 50%">
-        <p >Description of NeuroElement. How the <neuro>NeuroElement </neuro>got its name. The purpose of the NeuroElement. Common misconceptions about the NeuroElement. How to differentiate this <neuro>NeuroElement </neuro>from another similar NeuroElement</p>
+        <p >Description of <neuro>NeuroElement</neuro>. How the <neuro>NeuroElement </neuro>got its name. The purpose of the <neuro>NeuroElement</neuro>. Common misconceptions about the <neuro>NeuroElement</neuro>. How to differentiate this <neuro>NeuroElement </neuro>from another similar NeuroElement</p>
     </div>
 </div>
 
