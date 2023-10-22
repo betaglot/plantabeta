@@ -78,8 +78,8 @@ function nav() {
       activeMatch: '/sponsor/'
     },
     {
-      text: '🔷 BetaComp',
-      link: 'https://klimbeta.github.io/BetaComp/',
+      text: '🔷 Klimbeta',
+      link: 'https://klimbeta.github.io/klimbeta/',
     },
 
     // {

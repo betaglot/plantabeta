@@ -1,6 +1,6 @@
-# BetaComp
+# Klimbeta
 
-![BetaComp_Plantbeta](/BetaComp_Plantbeta.png)
+![Klimbeta_Plantbeta](/Klimbeta_Plantbeta.png)
 
 ## Story of Young People Who Want to Combat Climate Change 
 

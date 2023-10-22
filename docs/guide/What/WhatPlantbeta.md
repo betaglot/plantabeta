@@ -59,16 +59,16 @@ Plantbeta will provide a Planter training **service** to planting companies befo
  
 ### Increases Motivation and Hope while reducing Anxiety
 
-- Plantbeta reduced the worrying about what to expect during your Rookie season. 
+- <envi>Plantbeta</envi> reduced the worrying about what to expect during your Rookie season. 
 - "I can do this"
-- The fear of the unknown, especially unknown unknowns, can be paralyzing. Plantbeta is being created to minimize the number of unknowns in a tree Planter's experience.
-- There is a whole page in Plantbeta specifically devoted to Motivation. It's easy to become unmotivated when you're tired, you've spent the past few days in the rain and the Environment is difficult, but there is knowledge that Planters and PlanterSupervisors can use to keep planting! 
+- The fear of the unknown, especially unknown unknowns, can be paralyzing. <envi>Plantbeta</envi> is being created to minimize the number of unknowns in a tree Planter's experience.
+- There is a whole page in <envi>Plantbeta</envi> specifically devoted to Motivation. It's easy to become unmotivated when you're tired, you've spent the past few days in the rain and the Environment is difficult, but there is knowledge that Planters and PlanterSupervisors can use to keep planting! 
 
 ---
  
 ### Rewarding
 
-- Plantbeta is designed to increase the planting rate of any Planter, therefore increasing the income of any Planter who studies Plantbeta.
+- <envi>Plantbeta</envi> is designed to increase the planting rate of any Planter, therefore increasing the income of any Planter who studies <envi>Plantbeta</envi>.
 - Be able to track your progress as a Planter by the number of elements that you've understood then mastered.
 - Complete Tests
 
@@ -76,16 +76,16 @@ Plantbeta will provide a Planter training **service** to planting companies befo
  
 ### Badge Value
 
-- By learning all the theory and practices of Plantbeta, you can become a Highballer. 
+- By learning all the theory and practices of <envi>Plantbeta</envi>, you can become a Highballer. 
 - Increase your Personal Best (PB) Planting Day. Planting 2,000 in a day is a standard checkpoint for Planters across Canada.
 - Total trees planted during your career is usually 100,000+. Achieving a million trees planting is a badge to be proud of. 
-- Get a perfect score on Plantbeta's tests to add to your CV when applying for Planter jobs. 
+- Get a perfect score on <envi>Plantbeta</envi>'s tests to add to your CV when applying for Planter jobs. 
 
 ---
  
 ### Wellness
 
-- Plantbeta is designed to [reduce Planter injury](/guide/Why/Injury).
+- <envi>Plantbeta</envi> is designed to [reduce Planter injury](/guide/Why/Injury).
 
 ---
  
@@ -128,7 +128,7 @@ Plantbeta will provide a Planter training **service** to planting companies befo
 ### Integrates
 
 - Connects planting to climbing
-    - [BetaComp](https://klimbeta.github.io/BetaComp/)
+    - [<move>Klimbeta</move>](https://klimbeta.github.io/klimbeta/)
 - Connects RookiePlanters to ExperiencedPlanters
 
 ---
@@ -136,7 +136,7 @@ Plantbeta will provide a Planter training **service** to planting companies befo
 ### Reduces Effort
 
 - Plantbeta informs Planters on the 
-- Increased CognitiveEase leads to feelings of effortlessness.
+- Increased <neuro>CognitiveEase</neuro> leads to feelings of effortlessness.
 - Fluid movement through the Environment.
 - Reduces the distance travelled by Planters by using efficient Routing.
 

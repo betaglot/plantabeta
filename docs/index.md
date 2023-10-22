@@ -34,7 +34,7 @@ features:
     details: Last Updated October 9, 2023. This website is a prototype, not the final product
     link: /development/DevelopmentOverview
   - icon: 🔷
-    title: BetaComp
+    title: Klimbeta
     details: Click Here to Discover How Climbing is Used to Train Planters
-    link: /guide/How/BetaComp
+    link: /guide/How/Klimbeta
 ---
