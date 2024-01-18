@@ -687,6 +687,7 @@ function sidebarDevelopment() {
     { text: 'Research Questions', link: '/development/ResearchQuestions' },
     { text: 'Roadmap', link: '/development/Roadmap' },
     { text: 'ElementRelationshipDiagram', link: '/development/ElementRelationshipDiagram' },
+    { text: 'Planter Computation', link: '/development/PlanterComputation' },
   ]
 }
 
