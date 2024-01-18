@@ -190,7 +190,7 @@ Spade**Grip**, Tree**Grip**, Box**Grip**, Branch**Grip**, Bag**Grip**, Log**Grip
 
 <img height="300" width="500" src="/PascalCase.png">
 
-Each of the Beta Subsystems ([Environment](), [Move](), [Route](), [Neuro]() ) has its own elements, although most elements are a combination of all four subsystems. For example [HandClose]() depends on the [SoilType]() (Environment), [Touch and Pressure sensations]() (Neuro), and the obstacles which narrow the range of [approach trajectories]() possible to perform the [HandClose]() (Route).
+Each of the Beta Subsystems ([Eco](), [Move](), [Route](), [Neuro]() ) has its own elements, although most elements are a combination of all four subsystems. For example [HandClose]() depends on the [SoilType]() (Eco), [Touch and Pressure sensations]() (Neuro), and the obstacles which narrow the range of [approach trajectories]() possible to perform the [HandClose]() (Route).
 
 Elements are added together to create new, more complex, elements. For example [SpadeScreef]() = {[HandleGrip](), [ShaftGrip](), [Soil](), [SlopeAngle](), [Slash](), [Attention]()} 
 

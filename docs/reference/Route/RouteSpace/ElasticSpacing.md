@@ -22,10 +22,10 @@
 Graph which represents how this element is related to other elements in Plantbeta.
 <img height="350" width="350" src="/DirectedGraph_UndirectedGraph.png"/>
 
-## EnvironmentElements
+## EcoElements
 - [StumpCluster]().
-- [EnvironmentSlopeAngle]().
-- [EnvironmentElement]().
+- [EcoSlopeAngle]().
+- [EcoElement]().
 ## NeuroElements
 - []().
 - []().

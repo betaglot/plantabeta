@@ -10,13 +10,13 @@ https://brilliant.org/
 - Sequence
 - Crosswords
 
-## EnvironmentTest
+## EcoTest
 
-- [EnvironmentTest1]()
-- [EnvironmentTest2]()
-- [EnvironmentTest3]()
-- [EnvironmentTest4]()
-- [EnvironmentTest5]()
+- [EcoTest1]()
+- [EcoTest2]()
+- [EcoTest3]()
+- [EcoTest4]()
+- [EcoTest5]()
 
 ## MoveTest
 

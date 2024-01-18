@@ -1,4 +1,4 @@
-# 💜 <neuro>EnvironmentJudgement </neuro>💜
+# 💜 <neuro>EcoJudgement </neuro>💜
 
 <div style="display: flex; width: %100; margin-top: 50px;">
     <div style="margin: 5px; width: 50%">
@@ -46,10 +46,10 @@ Graph which represents how this element is related to other elements in Plantbet
 - Description of how this <neuro>NeuroElement </neuro>relates to a particular [<move>MoveElement</move>](/reference/Move/MoveOverview).
 - Description of how this <neuro>NeuroElement </neuro>relates to a particular [<move>MoveElement</move>](/reference/Move/MoveOverview).
 
-## Related 🟩<envi> EnvironmentElements </envi>🟩
-- Description of how this <neuro>NeuroElement </neuro>relates to a particular [EnvironmentElement](/reference/Environment/EnvironmentOverview).
-- Description of how this <neuro>NeuroElement </neuro>relates to a particular [EnvironmentElement](/reference/Environment/EnvironmentOverview).
-- Description of how this <neuro>NeuroElement </neuro>relates to a particular [EnvironmentElement](/reference/Environment/EnvironmentOverview).
+## Related 🟩<envi> EcoElements </envi>🟩
+- Description of how this <neuro>NeuroElement </neuro>relates to a particular [EcoElement](/reference/Eco/EcoOverview).
+- Description of how this <neuro>NeuroElement </neuro>relates to a particular [EcoElement](/reference/Eco/EcoOverview).
+- Description of how this <neuro>NeuroElement </neuro>relates to a particular [EcoElement](/reference/Eco/EcoOverview).
 ## Related 🔺 RouteElements
 - Description of how this <neuro>NeuroElement </neuro>relates to a particular [<route>RouteElement</route>](/reference/Route/RouteOverview).
 - Description of how this <neuro>NeuroElement </neuro>relates to a particular [<route>RouteElement</route>](/reference/Route/RouteOverview).

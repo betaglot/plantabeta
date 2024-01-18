@@ -49,7 +49,7 @@ Don't go over the same place more than once.
 
 - https://www.frontiersin.org/articles/10.3389/frobt.2021.624333/full
 
-- https://www.researchgate.net/figure/Complete-coverage-path-planning-in-an-unstructured-environment_fig3_8345839
+- https://www.researchgate.net/figure/Complete-coverage-path-planning-in-an-unstructured-Eco_fig3_8345839
 
 ## Target
 - TargetLandMark
@@ -62,7 +62,7 @@ Don't go over the same place more than once.
 
 ## FillError
 
-### PinchedEnvironment
+### PinchedEco
 
 - FrontFillError
 

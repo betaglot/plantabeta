@@ -16,7 +16,7 @@ A greater Planter efficiency leads to:
 - A shorter season
 - PlantingRate
     - Daily Trees in the Ground
-- Fewer Planters required to Fill an Environment
+- Fewer Planters required to Fill an Eco
 - Fewer Moves performed by Planter, therefore less Metabolic Energy used.
 - Less [Deadwalking]()
 - Fewer Injury

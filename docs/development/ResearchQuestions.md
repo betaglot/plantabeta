@@ -43,7 +43,7 @@
 -  How can Planters be outfitted with military grade boots?
 - How does the rate in North America change throughout the year? 
 - Are there every any days when a tree isn't planted in Canada?
-- Are there residential Environmentscaping companies which use Canadian tree Planter tools? 
+- Are there residential Ecoscaping companies which use Canadian tree Planter tools? 
 - Do any Planters gain mass by the end of their season? 
 - Do any Planters have a warm up routine for before starting their planting day?
 - How can bioplastics be used as flag?

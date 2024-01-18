@@ -31,7 +31,7 @@ features:
     link: /guide/What/WhatPlantbeta
   - icon: 🛠️
     title: Under Construction 
-    details: Last Updated October 9, 2023. This website is a prototype, not the final product
+    details: Last Updated January 18, 2024. This website is a prototype, not the final product
     link: /development/DevelopmentOverview
   - icon: 🔷
     title: Klimbeta

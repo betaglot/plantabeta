@@ -105,7 +105,7 @@ function sidebarGuide() {
     },
     {
       text: 'Objectives', collapsed: false, items: [
-        { text: '🔥🌲🔥 Replant Burnt Environments', link: '/guide/Why/Wildfire' },
+        { text: '🔥🌲🔥 Replant Burnt Ecos', link: '/guide/Why/Wildfire' },
         { text: '🟠 Reduce Injury', link: '/guide/Why/Injury' },
         { text: '🔺 Increase Productivity', link: '/guide/Why/Productivity' },
         { text: '🔷 Better Communication', link: '/guide/Why/Communication' },
@@ -137,92 +137,92 @@ function sidebarReference() {
       ]
     },
     {
-      text: '🟩 Environment', collapsed: true, items: [
-        { text: '🟩 Environment Overview', link: '/reference/Environment/EnvironmentOverview' },
+      text: '🟩 Eco', collapsed: true, items: [
+        { text: '🟩 Eco Overview', link: '/reference/Eco/EcoOverview' },
         {
           text: '🟩 Area', collapsed: true, items: [
-            { text: '🟩 Area Overview', link: '/reference/Environment/Area/Overview' },
-            { text: '🟩 PocketArea', link: '/reference/Environment/Area/PocketArea' },
-            { text: '🟩 RiparianArea', link: '/reference/Environment/Area/RiparianArea' },
-            { text: '🟩 RockCapArea', link: '/reference/Environment/Area/RockCapArea' },
-            { text: '🟩 SlashPileArea', link: '/reference/Environment/Area/SlashPileArea' },
+            { text: '🟩 Area Overview', link: '/reference/Eco/Area/Overview' },
+            { text: '🟩 PocketArea', link: '/reference/Eco/Area/PocketArea' },
+            { text: '🟩 RiparianArea', link: '/reference/Eco/Area/RiparianArea' },
+            { text: '🟩 RockCapArea', link: '/reference/Eco/Area/RockCapArea' },
+            { text: '🟩 SlashPileArea', link: '/reference/Eco/Area/SlashPileArea' },
           ]
         },
         {
           text: '🟩 Block', collapsed: true, items: [
-            { text: '🟩 Block Overview', link: '/reference/Environment/Block/Overview' },
-            { text: '🟩 FillBlock', link: '/reference/Environment/Block/FillBlock' },
-            { text: '🟩 Road', link: '/reference/Environment/Block/Road' },
+            { text: '🟩 Block Overview', link: '/reference/Eco/Block/Overview' },
+            { text: '🟩 FillBlock', link: '/reference/Eco/Block/FillBlock' },
+            { text: '🟩 Road', link: '/reference/Eco/Block/Road' },
           ]
         },
         {
           text: '🟩 Density', collapsed: true, items: [
-            { text: '🟩 Density Overview', link: '/reference/Environment/Density/Overview' },
-            { text: '🟩 Plot', link: '/reference/Environment/Density/Plot' },
+            { text: '🟩 Density Overview', link: '/reference/Eco/Density/Overview' },
+            { text: '🟩 Plot', link: '/reference/Eco/Density/Plot' },
 
           ]
         },
         {
-          text: '🟩 EnvironmentSpeed', collapsed: true, items: [
-            { text: '🟩 EnvironmentSpeed Overview', link: '/reference/Environment/EnvironmentSpeed/Overview' },
-            { text: '🟩 FastEnvironment', link: '/reference/Environment/EnvironmentSpeed/FastEnvironment' },
-            { text: '🟩 SlowEnvironment', link: '/reference/Environment/EnvironmentSpeed/SlowEnvironment' },
+          text: '🟩 LandSpeed', collapsed: true, items: [
+            { text: '🟩 LandSpeed Overview', link: '/reference/Eco/LandSpeed/Overview' },
+            { text: '🟩 FastLand', link: '/reference/Eco/LandSpeed/FastLand' },
+            { text: '🟩 SlowLand', link: '/reference/Eco/LandSpeed/SlowLand' },
           ]
         },
         {
           text: '🟩 Obstacle', collapsed: true, items: [
-            { text: '🟩 Obstacle Overview', link: '/reference/Environment/Obstacle/Overview' },
-            { text: '🟩 LogObstacle', link: '/reference/Environment/Obstacle/LogObstacle' },
-            { text: '🟩 RockObstacle', link: '/reference/Environment/Obstacle/RockObstacle' },
-            { text: '🟩 StumpObstacle', link: '/reference/Environment/Obstacle/StumpObstacle' },
+            { text: '🟩 Obstacle Overview', link: '/reference/Eco/Obstacle/Overview' },
+            { text: '🟩 LogObstacle', link: '/reference/Eco/Obstacle/LogObstacle' },
+            { text: '🟩 RockObstacle', link: '/reference/Eco/Obstacle/RockObstacle' },
+            { text: '🟩 StumpObstacle', link: '/reference/Eco/Obstacle/StumpObstacle' },
           ]
         },
         {
           text: '🟩 Piece', collapsed: true, items: [
-            { text: '🟩 Piece Overview', link: '/reference/Environment/Piece/Overview' },
-            { text: '🟩 PieceTopography', link: '/reference/Environment/Piece/PieceTopography' },
+            { text: '🟩 Piece Overview', link: '/reference/Eco/Piece/Overview' },
+            { text: '🟩 PieceTopography', link: '/reference/Eco/Piece/PieceTopography' },
           ]
         },
         {
           text: '🟩 Prep', collapsed: true, items: [
-            { text: '🟩 PrepEnvironment Overview', link: '/reference/Environment/Prep/Overview' },
-            { text: '🟩 MoundEnvironment', link: '/reference/Environment/Prep/MoundEnvironment' },
-            { text: '🟩 TrenchEnvironment', link: '/reference/Environment/Prep/TrenchEnvironment' },
+            { text: '🟩 PrepEco Overview', link: '/reference/Eco/Prep/Overview' },
+            { text: '🟩 MoundEco', link: '/reference/Eco/Prep/MoundEco' },
+            { text: '🟩 TrenchEco', link: '/reference/Eco/Prep/TrenchEco' },
           ]
         },
         {
           text: '🟩 Raw', collapsed: true, items: [
-            { text: '🟩 RawEnvironment Overview', link: '/reference/Environment/Raw/Overview' },
-            { text: '🟩 BurnPit', link: '/reference/Environment/Raw/BurnPit' },
-            { text: '🟩 BurntEnvironment', link: '/reference/Environment/Raw/BurntEnvironment' },
+            { text: '🟩 RawEco Overview', link: '/reference/Eco/Raw/Overview' },
+            { text: '🟩 BurnPit', link: '/reference/Eco/Raw/BurnPit' },
+            { text: '🟩 BurntEco', link: '/reference/Eco/Raw/BurntEco' },
 
           ]
         },
         {
           text: '🟩 Slash', collapsed: true, items: [
-            { text: '🟩 Slash Overview', link: '/reference/Environment/Slash/Overview' },
-            { text: '🟩 BurnPileSlash', link: '/reference/Environment/Slash/BurnPileSlash' },
-            { text: '🟩 HighSlash', link: '/reference/Environment/Slash/HighSlash' },
-            { text: '🟩 LowSlash', link: '/reference/Environment/Slash/LowSlash' },
-            { text: '🟩 WetSlash', link: '/reference/Environment/Slash/WetSlash' },
+            { text: '🟩 Slash Overview', link: '/reference/Eco/Slash/Overview' },
+            { text: '🟩 BurnPileSlash', link: '/reference/Eco/Slash/BurnPileSlash' },
+            { text: '🟩 HighSlash', link: '/reference/Eco/Slash/HighSlash' },
+            { text: '🟩 LowSlash', link: '/reference/Eco/Slash/LowSlash' },
+            { text: '🟩 WetSlash', link: '/reference/Eco/Slash/WetSlash' },
           ]
         },
         {
           text: '🟩 Soil', collapsed: true, items: [
-            { text: '🟩 Soil Overview', link: '/reference/Environment/Soil/Overview' },
-            { text: '🟩 ClaySoil', link: '/reference/Environment/Soil/ClaySoil' },
-            { text: '🟩 DrySoil', link: '/reference/Environment/Soil/DrySoil' },
-            { text: '🟩 GravelSoil', link: '/reference/Environment/Soil/GravelSoil' },
-            { text: '🟩 MineralSoil', link: '/reference/Environment/Soil/MineralSoil' },
-            { text: '🟩 RedRot', link: '/reference/Environment/Soil/RedRot' },
-            { text: '🟩 SandSoil', link: '/reference/Environment/Soil/SandSoil' },
-            { text: '🟩 WetSoil', link: '/reference/Environment/Soil/WetSoil' },
+            { text: '🟩 Soil Overview', link: '/reference/Eco/Soil/Overview' },
+            { text: '🟩 ClaySoil', link: '/reference/Eco/Soil/ClaySoil' },
+            { text: '🟩 DrySoil', link: '/reference/Eco/Soil/DrySoil' },
+            { text: '🟩 GravelSoil', link: '/reference/Eco/Soil/GravelSoil' },
+            { text: '🟩 MineralSoil', link: '/reference/Eco/Soil/MineralSoil' },
+            { text: '🟩 RedRot', link: '/reference/Eco/Soil/RedRot' },
+            { text: '🟩 SandSoil', link: '/reference/Eco/Soil/SandSoil' },
+            { text: '🟩 WetSoil', link: '/reference/Eco/Soil/WetSoil' },
 
           ]
         },
         {
           text: '🟩 Weather', collapsed: true, items: [
-            { text: '🟩 Weather Overview', link: '/reference/Environment/Weather/Overview' },
+            { text: '🟩 Weather Overview', link: '/reference/Eco/Weather/Overview' },
           ]
         },
       ]

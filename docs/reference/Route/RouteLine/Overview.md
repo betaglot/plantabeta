@@ -1,6 +1,6 @@
 # 🔺 <route>RouteLine Overview </route>🔺
 
-> The path that a Planter follows when filling an Environment.
+> The path that a Planter follows when filling an Eco.
 
 ## [AroundLine](/reference/Route/RouteLine/AroundLine)
 

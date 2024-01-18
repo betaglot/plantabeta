@@ -21,7 +21,7 @@ Injury can occur in Planters when they perform the same movement repeatedly.
 
 ## Reduces Injuries from Falling
 
-Plantbeta teaches Planters how to move through their [Environment](/reference/Environment/EnvironmentOverview) safely. 
+Plantbeta teaches Planters how to move through their [Eco](/reference/Eco/EcoOverview) safely. 
 
 Falling is a large part of Climbing. Plantbeta transfers the knowledge of how to fall safely from climbing to Planting.
 

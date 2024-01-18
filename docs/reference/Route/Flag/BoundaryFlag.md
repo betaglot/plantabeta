@@ -46,10 +46,10 @@ Graph which represents how this element is related to other elements in Plantbet
 
 <img height="350" width="350" src="/DirectedGraph_UndirectedGraph.png"/>
 
-## Related 🟩<envi> EnvironmentElements </envi>🟩
-- Description of how this RouteElement relates to a particular [EnvironmentElement](/reference/Environment/EnvironmentOverview).
-- Description of how this RouteElement relates to a particular [EnvironmentElement](/reference/Environment/EnvironmentOverview).
-- Description of how this RouteElement relates to a particular [EnvironmentElement](/reference/Environment/EnvironmentOverview).
+## Related 🟩<envi> EcoElements </envi>🟩
+- Description of how this RouteElement relates to a particular [EcoElement](/reference/Eco/EcoOverview).
+- Description of how this RouteElement relates to a particular [EcoElement](/reference/Eco/EcoOverview).
+- Description of how this RouteElement relates to a particular [EcoElement](/reference/Eco/EcoOverview).
 ## Related 💜 <neuro>NeuroElements</neuro>
 - Description of how this RouteElement relates to a particular [<neuro>NeuroElement</neuro>](/reference/Neuro/NeuroOverview).
 - Description of how this RouteElement relates to a particular [<neuro>NeuroElement</neuro>](/reference/Neuro/NeuroOverview).

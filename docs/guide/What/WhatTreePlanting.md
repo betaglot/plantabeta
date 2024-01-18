@@ -41,7 +41,7 @@ Forestry sector scrambles to recruit tree Planters to sow millions — perhaps b
 
 Planters in Canada usually plant between 1000 and 3000 trees a day.
 
-In some very difficult Environments 500 trees is a good day.
+In some very difficult Ecos 500 trees is a good day.
 
 The current record is held by [Antoine Moses](https://www.instagram.com/antomosplant/)
 
@@ -61,7 +61,7 @@ Seedling
 
 :::
 <!--  -->
-::: details What does a typical planting Environment look like?
+::: details What does a typical planting Eco look like?
 
 ![InstaPhoto015](/InstaPhoto015.jpg)
 
@@ -98,7 +98,7 @@ Fir
 <!--  -->
 ::: details How much are Planters paid per tree?
 
-The "centage" for each tree planted usually ranges from 15 to 18 cents in British Columbia. Sometimes it can go as high as 45 cents for very difficult or inaccessible Environment. 
+The "centage" for each tree planted usually ranges from 15 to 18 cents in British Columbia. Sometimes it can go as high as 45 cents for very difficult or inaccessible Eco. 
 
 :::
 
@@ -115,11 +115,11 @@ Approximately 6500 Planters each season in Canada
 
 - Wake 
 - Load gear into vehicles
-- Drive to Environment
+- Drive to Eco
 - Plant for 8.5 hours
     - Take trees out of boxes or trays, then load the trees into bags
     [InsertImage] 
-    - Put on the bags and walk into your Environment 
+    - Put on the bags and walk into your Eco 
     [InsertImage]
     - Plant all the trees in your bag
 

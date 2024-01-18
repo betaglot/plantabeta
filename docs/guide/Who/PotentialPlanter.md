@@ -30,7 +30,7 @@ What is tree planting like?
 
 ### Hiking
 - Endurance
-- Walking over complex Environment.
+- Walking over complex Eco.
 
 ### Climbing
 - Finger Strength

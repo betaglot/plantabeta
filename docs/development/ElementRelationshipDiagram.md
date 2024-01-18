@@ -1,5 +1,12 @@
 # ElementRelationshipDiagram
 
+## Python
+
+```py
+for bundle in box:
+    print(bundle)
+```
+
 ## Element Value Change
 
 ```
@@ -65,7 +72,7 @@ Removes Value Addition // [!code --]
     - MoveSequenceNumber
     - StepCount
 - Location
-    - TargetLocation in the Environment.
+    - TargetLocation in the Eco.
     - PotentialMicrosite
     - 
 - Array
@@ -75,7 +82,7 @@ Removes Value Addition // [!code --]
 
 ### Outcome > Output
 
-False value is a bunch of features that Planters don't use. The value of a stump is not its color (HexadecimalValue, RGB values), rather value comes from the stump's PotentialMicrosites. The RouteElement(PotentialMicrosite, FlagSite) gives the EnvironmentElement(Stump) value
+False value is a bunch of features that Planters don't use. The value of a stump is not its color (HexadecimalValue, RGB values), rather value comes from the stump's PotentialMicrosites. The RouteElement(PotentialMicrosite, FlagSite) gives the EcoElement(Stump) value
 
 Theorem the name of an object, while Problem is the object's values and methods.
 
@@ -88,7 +95,7 @@ The value exchange of woven fiber neighbors is the tension force holding each ot
 
 Subsystems give each other value.
 
-The RouteElement(GoodMicrosite, FlagSite) gives the EnvironmentElement(Stump) value. The stump gives Route value by providing PotentialMicrosite.
+The RouteElement(GoodMicrosite, FlagSite) gives the EcoElement(Stump) value. The stump gives Route value by providing PotentialMicrosite.
 
 The exchange doesn't need to be mutually beneficial. Both ValueAddition or (ValueAddition + ValueSubtraction).
 
@@ -131,7 +138,7 @@ Value is added along a sequence of steps. Like Bioamplification of poison in Pre
 
 **Reduces Effort**
 - Remove Clothing Layer to reduce your body's need for sweat.
-- Stick Spade in the ground when you get to the cache to avoid having to pick it up from the ground when you return to the Environment. 
+- Stick Spade in the ground when you get to the cache to avoid having to pick it up from the ground when you return to the Eco. 
 
 **Avoids Hassles**
 - BodyRotate before BodySlot to prevent BagSnag
@@ -290,8 +297,8 @@ MoveSelection.MoveEvaluation
 
 ---
 
-### EnvironmentElementValue 
-::: tip EnvironmentElementValue Addition
+### EcoElementValue 
+::: tip EcoElementValue Addition
 
 ---
 
@@ -310,8 +317,8 @@ MoveSelection.MoveEvaluation
 **Connects**
 
 **ReducesEffort**
-- Easy HoleMove in CreamyEnvironment is HighEnvironmentValue.
-- Strenuous SlashMove in SlashyEnvironment is LowEnvironmentValue.
+- Easy HoleMove in CreamyEco is HighEcoValue.
+- Strenuous SlashMove in SlashyEco is LowEcoValue.
 
 **AvoidsHassles**
 
@@ -327,7 +334,7 @@ MoveSelection.MoveEvaluation
 :::
 
 
-::: danger EnvironmentElementValue Subtraction
+::: danger EcoElementValue Subtraction
 
 ---
 
@@ -429,7 +436,7 @@ MoveSelection.MoveEvaluation
 
 
 #### MoveValue
-- Successful SpadeProbe PositiveEnvironmentTest. The Spade goes in deep enough to bury the seedling's roots.
+- Successful SpadeProbe PositiveEcoTest. The Spade goes in deep enough to bury the seedling's roots.
 - HoleOpen gives value to InsertTree
 
 #### RelativeValue
@@ -439,9 +446,9 @@ MoveSelection.MoveEvaluation
 
 #### RouteValue
 
-#### EnvironmentValue
+#### EcoValue
 - RockCap is not valuable for planting.
-- CreamyEnvironment
+- CreamyEco
 
 Value is added along the chain of steps. PlantingSequence
 

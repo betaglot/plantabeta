@@ -6,7 +6,7 @@
 
 ## NeuroEvent
 
-## EnvironmentEvent
+## EcoEvent
 
 ### WeatherEvent
 - onSnow()

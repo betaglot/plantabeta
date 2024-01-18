@@ -68,7 +68,7 @@ Planters become physically fit and ambidextrous
 
 #### Neuro
 
-#### Environment
+#### Eco
 
 
 #### Photo of Shared Beta between Planting and Climbing

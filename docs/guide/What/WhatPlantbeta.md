@@ -8,18 +8,18 @@ Plantbeta.com is a **product** specifically designed to train Planters how to pl
 - Plantbeta has a [Tests](/tests/TestsOverview) section for Planters to reinforce their knowledge and to find any gaps in their knowledge.
 - Unlike [Replant.ca](/https://replant.ca/), Plantbeta contains no information about the business side of planting, it's only from the Planter's perspective. 
 - Each element of Plantbeta has its own profile. Currently you will see placeholders for each section of the profile. Each element profile has a profile picture, element description, a relationship graph showing how it relates to elements from the other subsystems, descriptions of how elements from other subsystems relate to the current element and at the bottom of the profile there are links to related elements (like the "See Also" section in Wikipedia pages). Not only are Planters shown all the elements, but more importantly they are shown how they relate to each other. Some elements are highly related to other element such as [Attention](/reference/Neuro/Attention) (NeuroElement), while others are not related to other subsystems such as [TreeLoad](/reference/Move/ArmMove/TreeLoad) (grabbing a tree from your bag).
-    - [PocketArea](/reference/Environment/Area/PocketArea)
+    - [PocketArea](/reference/Eco/Area/PocketArea)
         - It's more efficient to AreaFill than PerimeterFill (RouteElements) a PocketArea.
         - You need to define the boundaries of the area (NeuroElement).
     - [HandScreef](/reference/Move/HandMove/HandScreef)
-        - The SoilType (EnvironmentElement) determines if you SpadeScreef or HandScreef.
+        - The SoilType (EcoElement) determines if you SpadeScreef or HandScreef.
         - You need to see and feel (NeuroElements) where the duff layer becomes MineralSoil to perform an effective HandScreef.
     - [BackFill](/reference/Route/PieceFill/BackFill)
-        - The shape of the Piece (EnvironmentElement) determines if you want to BackFill or AreaFill.
+        - The shape of the Piece (EcoElement) determines if you want to BackFill or AreaFill.
     - [BagUpSizeDecision](/reference/Neuro/Decision/BagUpSizeDecision)
-        - The Environment affects the BagUpSize, bigger BagUpSize for straight trenches (EnvironmentElement) compared to RawEnvironment (EnvironmentElement).
+        - The Eco affects the BagUpSize, bigger BagUpSize for straight trenches (EcoElement) compared to RawEco (EcoElement).
         - BagUpSize depends on how fatigued (Neuro) you are.
-        - BagUpSize affects how fast you can move (MoveElement) and how easily you can climb over slash (EnvironmentElement).
+        - BagUpSize affects how fast you can move (MoveElement) and how easily you can climb over slash (EcoElement).
         - If you need to BackFill (RouteElement) a piece then you typically have a large BagUpSize.
 
 Plantbeta will provide a Planter training **service** to planting companies before and during the planting season. 
@@ -62,7 +62,7 @@ Plantbeta will provide a Planter training **service** to planting companies befo
 - <envi>Plantbeta</envi> reduced the worrying about what to expect during your Rookie season. 
 - "I can do this"
 - The fear of the unknown, especially unknown unknowns, can be paralyzing. <envi>Plantbeta</envi> is being created to minimize the number of unknowns in a tree Planter's experience.
-- There is a whole page in <envi>Plantbeta</envi> specifically devoted to Motivation. It's easy to become unmotivated when you're tired, you've spent the past few days in the rain and the Environment is difficult, but there is knowledge that Planters and PlanterSupervisors can use to keep planting! 
+- There is a whole page in <envi>Plantbeta</envi> specifically devoted to Motivation. It's easy to become unmotivated when you're tired, you've spent the past few days in the rain and the Eco is difficult, but there is knowledge that Planters and PlanterSupervisors can use to keep planting! 
 
 ---
  
@@ -137,7 +137,7 @@ Plantbeta will provide a Planter training **service** to planting companies befo
 
 - Plantbeta informs Planters on the 
 - Increased <neuro>CognitiveEase</neuro> leads to feelings of effortlessness.
-- Fluid movement through the Environment.
+- Fluid movement through the Eco.
 - Reduces the distance travelled by Planters by using efficient Routing.
 
 ---
@@ -164,7 +164,7 @@ Plantbeta will provide a Planter training **service** to planting companies befo
 ---
 
 
-## [🟩](/reference/Environment/Overview) -- [🟠](/reference/Move/Overview) -- [🔺](/reference/Route/Overview) -- [💜](/reference/Neuro/Overview) -- [🔷](/reference/Beta/Overview)
+## [🟩](/reference/Eco/Overview) -- [🟠](/reference/Move/Overview) -- [🔺](/reference/Route/Overview) -- [💜](/reference/Neuro/Overview) -- [🔷](/reference/Beta/Overview)
 
 
 ::: details Why Emojis?
@@ -172,15 +172,15 @@ Plantbeta will provide a Planter training **service** to planting companies befo
 - Multicultural understanding
 - Universally Rendered.
 - Graphic is easier to find visually.
-- Smaller width than any word which could describe "Environment", "Move", "Neuro", "Route", "Beta" 
+- Smaller width than any word which could describe "Eco", "Move", "Neuro", "Route", "Beta" 
 
 :::
 
 ---
 
-### [🟩 Examples of the Environment Subsystem 🟩](/reference/Environment/Overview)
+### [🟩 Examples of the Eco Subsystem 🟩](/reference/Eco/Overview)
 
-🟩Stump, 🟩SteepSlope, 🟩TrenchEnvironment, 🟩Log, 🟩RawEnvironment, 🟩ClaySoil, 🟩Rain, 🟩Snow, 🟩Road, 🟩AirTemperature, 🟩RiparianArea, 🟩FillBlock, 🟩MoundEnvironment
+🟩Stump, 🟩SteepSlope, 🟩TrenchEco, 🟩Log, 🟩RawEco, 🟩ClaySoil, 🟩Rain, 🟩Snow, 🟩Road, 🟩AirTemperature, 🟩RiparianArea, 🟩FillBlock, 🟩MoundEco
 
 ---
 

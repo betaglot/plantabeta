@@ -50,7 +50,7 @@ The users of Plantbeta can take multiple paths through Plantbeta depending on th
 
 1. Assign readings and tests to your crew members.
 2. Group Elements together into lesson plans.
-3. Adapt your lessons to the current EnvironmentType. 
+3. Adapt your lessons to the current EcoType. 
 
 
 

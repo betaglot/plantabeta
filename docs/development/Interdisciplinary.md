@@ -24,7 +24,7 @@
 ### Geology
 
 - Soil deposition patterns
-    - Being able to guess where soil is thickest is especially useful in RockyEnvironment which has been eroded by water.
+    - Being able to guess where soil is thickest is especially useful in RockyEco which has been eroded by water.
 
 ## Sports
 
