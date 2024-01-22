@@ -1,6 +1,6 @@
 # [Systematic](https://dictionary.cambridge.org/dictionary/english/systematize) Tree Planters
 
-![BetaSetDiagram](/BetaSetDiagram.png)
+![BetaLogo](/BetaLogo.png)
 
 ::: tip Plantbeta's **Mission**
 
@@ -257,7 +257,7 @@ Plantbeta will provide a Planter training **service** to planting companies befo
 
 Plantbeta borrows the concept of Beta to explain how to plant in greater nuance than ever before, by breaking down a Planter's experience into 4 interdependent subsystems, Planters can pinpoint the aspects of their experience which can be improved, while also having a greater vocabulary to explain what they're doing to other Planter who [share the same Piece of Land](/reference/Route/TeamPlant/Overview).
 
-![BetaSetDiagram](/BetaSetDiagram.png)
+![BetaLogo](/BetaLogo.png)
 
 By connecting Climbing and Planting through their mutual use of a Beta System, Planters can improve their planting ability **before and after their planting season** by practicing indoor climbing. 
 

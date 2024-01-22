@@ -9,8 +9,8 @@ hero:
   text: 
   tagline: Using Climbing to Plant Trees
   image:
-    src: /BetaSetDiagram.png
-    alt: BetaSetDiagram
+    src: /BetaLogo.png
+    alt: BetaLogo
   actions:
     - theme: brand
       text: Get Started

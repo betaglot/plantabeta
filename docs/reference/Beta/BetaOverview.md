@@ -6,7 +6,7 @@ layout: doc
 
 # 🔷 <beta>What is Beta?</beta> 🔷
 
-![BetaSetDiagram](/BetaSetDiagram.png)
+![BetaLogo](/BetaLogo.png)
 
 
 ## "Beta" is from the climbing community
