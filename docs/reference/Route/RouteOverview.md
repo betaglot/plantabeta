@@ -1,5 +1,12 @@
 # 🔺 <route>[Route](https://dictionary.cambridge.org/dictionary/english/route) Overview</route>  🔺
 
+
+## What is a Route?
+
+- Computational Geometry
+- The interface between Move, Neuro and Eco.
+- Route is an abstract layer on top of Eco. A route is where the Planter
+
 ## Footprint Emoji 🔺
 
 

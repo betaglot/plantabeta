@@ -50,9 +50,9 @@ Graph which represents how this element is related to other elements in Plantbet
 
 ## EcoElements
 
-### [TrenchEco]
+### [TrenchLand]
 
-### [SlopedEco]()
+### [SlopedLand]()
 - Travel across the Eco instead of up and down
 - Description of how this RouteElement relates to a particular [EcoElement](/reference/Eco/EcoOverview).
 

@@ -1,6 +1,26 @@
-# [Systematized](https://dictionary.cambridge.org/dictionary/english/systematize) Tree Planting
+# [Systematic](https://dictionary.cambridge.org/dictionary/english/systematize) Tree Planters
 
 ![BetaSetDiagram](/BetaSetDiagram.png)
+
+::: tip Plantbeta's **Mission**
+
+- To create a **open source** resource for planters where all knowledge is coherent and integrated into a single system which can be applied to Canada's boreal forest. 
+- To research and implement ways to make planters more effective by applying cutting edge interdisciplinary science to planter instruction.
+- To innovate planter tools.
+
+
+:::
+
+
+::: tip Plantbeta's **Vision**
+
+- To reduce Climate Change by increasing the quantity, quality and planting rate of the plants which are planted every year until the end of time.
+
+:::
+
+::: tip Plantbeta's **Values**
+
+:::
 
 Plantbeta.com is a **product** specifically designed to train Planters how to plant more efficiently. 
 
@@ -17,7 +37,7 @@ Plantbeta.com is a **product** specifically designed to train Planters how to pl
     - [BackFill](/reference/Route/PieceFill/BackFill)
         - The shape of the Piece (EcoElement) determines if you want to BackFill or AreaFill.
     - [BagUpSizeDecision](/reference/Neuro/Decision/BagUpSizeDecision)
-        - The Eco affects the BagUpSize, bigger BagUpSize for straight trenches (EcoElement) compared to RawEco (EcoElement).
+        - The Eco affects the BagUpSize, bigger BagUpSize for straight trenches (EcoElement) compared to RawLand (EcoElement).
         - BagUpSize depends on how fatigued (Neuro) you are.
         - BagUpSize affects how fast you can move (MoveElement) and how easily you can climb over slash (EcoElement).
         - If you need to BackFill (RouteElement) a piece then you typically have a large BagUpSize.
@@ -59,16 +79,16 @@ Plantbeta will provide a Planter training **service** to planting companies befo
  
 ### Increases Motivation and Hope while reducing Anxiety
 
-- <envi>Plantbeta</envi> reduced the worrying about what to expect during your Rookie season. 
+- <eco>Plantbeta</eco> reduced the worrying about what to expect during your Rookie season. 
 - "I can do this"
-- The fear of the unknown, especially unknown unknowns, can be paralyzing. <envi>Plantbeta</envi> is being created to minimize the number of unknowns in a tree Planter's experience.
-- There is a whole page in <envi>Plantbeta</envi> specifically devoted to Motivation. It's easy to become unmotivated when you're tired, you've spent the past few days in the rain and the Eco is difficult, but there is knowledge that Planters and PlanterSupervisors can use to keep planting! 
+- The fear of the unknown, especially unknown unknowns, can be paralyzing. <eco>Plantbeta</eco> is being created to minimize the number of unknowns in a tree Planter's experience.
+- There is a whole page in <eco>Plantbeta</eco> specifically devoted to Motivation. It's easy to become unmotivated when you're tired, you've spent the past few days in the rain and the Eco is difficult, but there is knowledge that Planters and PlanterSupervisors can use to keep planting! 
 
 ---
  
 ### Rewarding
 
-- <envi>Plantbeta</envi> is designed to increase the planting rate of any Planter, therefore increasing the income of any Planter who studies <envi>Plantbeta</envi>.
+- <eco>Plantbeta</eco> is designed to increase the planting rate of any Planter, therefore increasing the income of any Planter who studies <eco>Plantbeta</eco>.
 - Be able to track your progress as a Planter by the number of elements that you've understood then mastered.
 - Complete Tests
 
@@ -76,16 +96,16 @@ Plantbeta will provide a Planter training **service** to planting companies befo
  
 ### Badge Value
 
-- By learning all the theory and practices of <envi>Plantbeta</envi>, you can become a Highballer. 
+- By learning all the theory and practices of <eco>Plantbeta</eco>, you can become a Highballer. 
 - Increase your Personal Best (PB) Planting Day. Planting 2,000 in a day is a standard checkpoint for Planters across Canada.
 - Total trees planted during your career is usually 100,000+. Achieving a million trees planting is a badge to be proud of. 
-- Get a perfect score on <envi>Plantbeta</envi>'s tests to add to your CV when applying for Planter jobs. 
+- Get a perfect score on <eco>Plantbeta</eco>'s tests to add to your CV when applying for Planter jobs. 
 
 ---
  
 ### Wellness
 
-- <envi>Plantbeta</envi> is designed to [reduce Planter injury](/guide/Why/Injury).
+- <eco>Plantbeta</eco> is designed to [reduce Planter injury](/guide/Why/Injury).
 
 ---
  
@@ -180,7 +200,7 @@ Plantbeta will provide a Planter training **service** to planting companies befo
 
 ### [🟩 Examples of the Eco Subsystem 🟩](/reference/Eco/Overview)
 
-🟩Stump, 🟩SteepSlope, 🟩TrenchEco, 🟩Log, 🟩RawEco, 🟩ClaySoil, 🟩Rain, 🟩Snow, 🟩Road, 🟩AirTemperature, 🟩RiparianArea, 🟩FillBlock, 🟩MoundEco
+🟩Stump, 🟩SteepSlope, 🟩TrenchLand, 🟩Log, 🟩RawLand, 🟩ClaySoil, 🟩Rain, 🟩Snow, 🟩Road, 🟩AirTemperature, 🟩RiparianArea, 🟩FillBlock, 🟩MoundLand
 
 ---
 

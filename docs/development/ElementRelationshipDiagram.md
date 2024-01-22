@@ -318,7 +318,7 @@ MoveSelection.MoveEvaluation
 
 **ReducesEffort**
 - Easy HoleMove in CreamyEco is HighEcoValue.
-- Strenuous SlashMove in SlashyEco is LowEcoValue.
+- Strenuous SlashMove in SlashyLand is LowEcoValue.
 
 **AvoidsHassles**
 

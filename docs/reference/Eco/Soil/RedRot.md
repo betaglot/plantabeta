@@ -1,4 +1,4 @@
-# 🟩  <envi>RedRot</envi> 🟩
+# 🟩  <eco>RedRot</eco> 🟩
 
 
 ## Dark RedRot

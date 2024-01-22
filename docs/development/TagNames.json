@@ -6458,7 +6458,7 @@
         "type": "sidecar"
       },
       {
-        "title": "Eco.LandSpeed.FastEco",
+        "title": "Eco.LandSpeed.FastLand",
         "color": "#008000ff",
         "textcolor": "#ffffffff",
         "type": "sidecar"
@@ -6470,7 +6470,7 @@
         "type": "sidecar"
       },
       {
-        "title": "Eco.LandSpeed.SlowEco",
+        "title": "Eco.LandSpeed.SlowLand",
         "color": "#008000ff",
         "textcolor": "#ffffffff",
         "type": "sidecar"

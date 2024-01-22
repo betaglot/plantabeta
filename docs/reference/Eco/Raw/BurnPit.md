@@ -1,4 +1,4 @@
-# 🟩  <envi>BurnPit </envi>🟩
+# 🟩  <eco>BurnPit </eco>🟩
 
 - The area of Eco which is the remants of a burnt BurnPile.
 

@@ -1,11 +1,11 @@
-# 🟩  <envi>StumpObstacle</envi> 🟩
+# 🟩  <eco>StumpObstacle</eco> 🟩
 
 <div style="display: flex; width: %100; margin-top: 100px;">
     <div style="margin: 5px; width: 50%">
         <img height="350" width="350" src="/Eco/EcoImage.png"/>
     </div>
     <div style="margin: 5px; width: 50%">
-        <p >Description of <envi>EcoElement</envi>. How the <envi>EcoElement </envi>got its name. Common misconceptions about the <envi>EcoElement</envi>. How to differentiate this <envi>EcoElement </envi>from another similar EcoElement</p>
+        <p >Description of <eco>EcoElement</eco>. How the <eco>EcoElement </eco>got its name. Common misconceptions about the <eco>EcoElement</eco>. How to differentiate this <eco>EcoElement </eco>from another similar EcoElement</p>
     </div>
 </div>
 
@@ -45,7 +45,7 @@ Answer 3
 Graph which represents how this element is related to other elements in Plantbeta.
 <img height="350" width="350" src="/DirectedGraph_UndirectedGraph.png"/>
 
-## Related 🟩<envi> EcoElements </envi>🟩  🟩
+## Related 🟩<eco> EcoElements </eco>🟩  🟩
 
 ### [🟩Microsite]()
 

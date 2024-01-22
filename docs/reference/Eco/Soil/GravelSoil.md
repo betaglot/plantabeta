@@ -1,4 +1,4 @@
-# 🟩  <envi>GravelSoil</envi> 🟩
+# 🟩  <eco>GravelSoil</eco> 🟩
 
 
 <div style="display: flex; width: %100; margin-top: 100px;">
@@ -6,7 +6,7 @@
         <img height="350" width="350" src="/Eco/EcoImage.png"/>
     </div>
     <div style="margin: 5px; width: 50%">
-        <p >Description of <envi>EcoElement</envi>. How the <envi>EcoElement </envi>got its name. Common misconceptions about the <envi>EcoElement</envi>. How to differentiate this <envi>EcoElement </envi>from another similar EcoElement</p>
+        <p >Description of <eco>EcoElement</eco>. How the <eco>EcoElement </eco>got its name. Common misconceptions about the <eco>EcoElement</eco>. How to differentiate this <eco>EcoElement </eco>from another similar EcoElement</p>
     </div>
 </div>
 
@@ -45,23 +45,23 @@ Graph which represents how this element is related to other elements in Plantbet
 
 <img height="350" width="350" src="/DirectedGraph_UndirectedGraph.png"/>
 
-## Related 🟩 <envi>EcoElements </envi>🟩
+## Related 🟩 <eco>EcoElements </eco>🟩
 
 ## Related 🟠 <move>MoveElements </move>🟠
-- Description of how this <envi>EcoElement </envi>relates to a particular [<move>MoveElement</move>](/reference/Move/MoveOverview).
-- Description of how this <envi>EcoElement </envi>relates to a particular [<move>MoveElement</move>](/reference/Move/MoveOverview).
-- Description of how this <envi>EcoElement </envi>relates to a particular [<move>MoveElement</move>](/reference/Move/MoveOverview).
+- Description of how this <eco>EcoElement </eco>relates to a particular [<move>MoveElement</move>](/reference/Move/MoveOverview).
+- Description of how this <eco>EcoElement </eco>relates to a particular [<move>MoveElement</move>](/reference/Move/MoveOverview).
+- Description of how this <eco>EcoElement </eco>relates to a particular [<move>MoveElement</move>](/reference/Move/MoveOverview).
 
 
 ## Related 🔺 <route>RouteElements </route>🔺
-- Description of how this <envi>EcoElement </envi>relates to a particular [<route>RouteElement</route>](/reference/Route/RouteOverview).
-- Description of how this <envi>EcoElement </envi>relates to a particular [<route>RouteElement</route>](/reference/Route/RouteOverview).
-- Description of how this <envi>EcoElement </envi>relates to a particular [<route>RouteElement</route>](/reference/Route/RouteOverview).
+- Description of how this <eco>EcoElement </eco>relates to a particular [<route>RouteElement</route>](/reference/Route/RouteOverview).
+- Description of how this <eco>EcoElement </eco>relates to a particular [<route>RouteElement</route>](/reference/Route/RouteOverview).
+- Description of how this <eco>EcoElement </eco>relates to a particular [<route>RouteElement</route>](/reference/Route/RouteOverview).
 
 ## Related 💜 <neuro>NeuroElements</neuro> 💜
-- Description of how this <envi>EcoElement </envi>relates to a particular [<neuro>NeuroElement</neuro>](/reference/Neuro/NeuroOverview).
-- Description of how this <envi>EcoElement </envi>relates to a particular [<neuro>NeuroElement</neuro>](/reference/Neuro/NeuroOverview).
-- Description of how this <envi>EcoElement </envi>relates to a particular [<neuro>NeuroElement</neuro>](/reference/Neuro/NeuroOverview).
+- Description of how this <eco>EcoElement </eco>relates to a particular [<neuro>NeuroElement</neuro>](/reference/Neuro/NeuroOverview).
+- Description of how this <eco>EcoElement </eco>relates to a particular [<neuro>NeuroElement</neuro>](/reference/Neuro/NeuroOverview).
+- Description of how this <eco>EcoElement </eco>relates to a particular [<neuro>NeuroElement</neuro>](/reference/Neuro/NeuroOverview).
 
 
 ## Quotes

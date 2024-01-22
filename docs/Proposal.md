@@ -44,7 +44,7 @@ The best resource which can be found is Replant.ca, but this site could be bette
     - [BackFill](/reference/Route/PieceFill/BackFill)
         - The shape of the Piece (EcoElement) determines if you want to BackFill or AreaFill.
     - [BagUpSizeDecision](/reference/Neuro/Decision/BagUpSizeDecision)
-        - The Eco affects the BagUpSize, bigger BagUpSize for straight trenches (EcoElement) compared to RawEco (EcoElement).
+        - The Eco affects the BagUpSize, bigger BagUpSize for straight trenches (EcoElement) compared to RawLand (EcoElement).
         - BagUpSize depends on how fatigued (Neuro) you are.
         - BagUpSize affects how fast you can move (MoveElement) and how easily you can climb over slash (EcoElement).
         - If you need to BackFill (RouteElement) a piece then you typically have a large BagUpSize.

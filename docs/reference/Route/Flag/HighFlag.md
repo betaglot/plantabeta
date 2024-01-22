@@ -51,7 +51,7 @@ Graph which represents how this element is related to other elements in Plantbet
 
 <img height="350" width="350" src="/DirectedGraph_UndirectedGraph.png"/>
 
-## Related 🟩<envi> EcoElements </envi>🟩
+## Related 🟩<eco> EcoElements </eco>🟩
 - Description of how this RouteElement relates to a particular [EcoElement](/reference/Eco/EcoOverview).
 - Description of how this RouteElement relates to a particular [EcoElement](/reference/Eco/EcoOverview).
 - Description of how this RouteElement relates to a particular [EcoElement](/reference/Eco/EcoOverview).

@@ -57,7 +57,7 @@ Graph which represents how this element is related to other elements in Plantbet
 - Description of how this MoveElement relates to a particular [<move>MoveElement</move>](/reference/Move/MoveOverview).
 - Description of how this MoveElement relates to a particular [<move>MoveElement</move>](/reference/Move/MoveOverview).
 
-## Related 🟩<envi> EcoElements </envi>🟩
+## Related 🟩<eco> EcoElements </eco>🟩
 - Description of how this MoveElement relates to a particular [EcoElement](/reference/Eco/EcoOverview).
 - Description of how this MoveElement relates to a particular [EcoElement](/reference/Eco/EcoOverview).
 - Description of how this MoveElement relates to a particular [EcoElement](/reference/Eco/EcoOverview).

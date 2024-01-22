@@ -77,10 +77,10 @@ function nav() {
       link: '/sponsor/Overview',
       activeMatch: '/sponsor/'
     },
-    {
-      text: '🔷 Klimbeta',
-      link: 'https://klimbeta.github.io/klimbeta/',
-    },
+    // {
+    //   text: '🔷 Klimbeta',
+    //   link: 'https://klimbeta.github.io/klimbeta/',
+    // },
 
     // {
     //   text: 'Apply',
@@ -185,16 +185,16 @@ function sidebarReference() {
         },
         {
           text: '🟩 Prep', collapsed: true, items: [
-            { text: '🟩 PrepEco Overview', link: '/reference/Eco/Prep/Overview' },
-            { text: '🟩 MoundEco', link: '/reference/Eco/Prep/MoundEco' },
-            { text: '🟩 TrenchEco', link: '/reference/Eco/Prep/TrenchEco' },
+            { text: '🟩 PrepLand Overview', link: '/reference/Eco/Prep/Overview' },
+            { text: '🟩 MoundLand', link: '/reference/Eco/Prep/MoundLand' },
+            { text: '🟩 TrenchLand', link: '/reference/Eco/Prep/TrenchLand' },
           ]
         },
         {
           text: '🟩 Raw', collapsed: true, items: [
-            { text: '🟩 RawEco Overview', link: '/reference/Eco/Raw/Overview' },
+            { text: '🟩 RawLand Overview', link: '/reference/Eco/Raw/Overview' },
             { text: '🟩 BurnPit', link: '/reference/Eco/Raw/BurnPit' },
-            { text: '🟩 BurntEco', link: '/reference/Eco/Raw/BurntEco' },
+            { text: '🟩 BurntLand', link: '/reference/Eco/Raw/BurntLand' },
 
           ]
         },
@@ -682,11 +682,13 @@ function sidebarDevelopment() {
   return [
     { text: 'Development Overview', link: '/development/Overview' },
     { text: 'Contact', link: '/development/Contact' },
+    { text: 'Academia', link: '/development/Academia' },
     { text: 'Donate Media', link: '/development/Donation' },
     { text: 'Downloads', link: '/development/Downloads' },
     { text: 'Research Questions', link: '/development/ResearchQuestions' },
     { text: 'Roadmap', link: '/development/Roadmap' },
     { text: 'ElementRelationshipDiagram', link: '/development/ElementRelationshipDiagram' },
+    { text: 'Style Guide', link: '/development/Style-Guide' },
   ]
 }
 

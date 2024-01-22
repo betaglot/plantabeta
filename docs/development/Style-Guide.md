@@ -1,5 +1,7 @@
 # Style Guide
 
+https://developers.google.com/style
+
 ## Bilingual
 
 { French,  English }
@@ -11,5 +13,9 @@
 Periods
 
 ## Gender Neutral Pronouns
+
+## Person
+
+https://developers.google.com/style/person
 
 

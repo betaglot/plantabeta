@@ -31,10 +31,10 @@ features:
     link: /guide/What/WhatPlantbeta
   - icon: 🛠️
     title: Under Construction 
-    details: Last Updated January 18, 2024. This website is a prototype, not the final product
+    details: Last Updated January 22, 2024. This website is a prototype, not the final product
     link: /development/DevelopmentOverview
-  - icon: 🔷
-    title: Klimbeta
-    details: Click Here to Discover How Climbing is Used to Train Planters
-    link: /guide/How/Klimbeta
+  # - icon: 🔷
+  #   title: Klimbeta
+  #   details: Click Here to Discover How Climbing is Used to Train Planters
+  #   link: /guide/How/Klimbeta
 ---
