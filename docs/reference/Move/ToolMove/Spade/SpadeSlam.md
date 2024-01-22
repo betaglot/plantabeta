@@ -1,4 +1,4 @@
-# <move>Spade Throw</move>
+# <move>Spade Slam</move>
 
 
 <div style="display: flex; width: %100; margin-top: 50px;">
