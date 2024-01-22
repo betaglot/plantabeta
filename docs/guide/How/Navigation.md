@@ -1,5 +1,9 @@
 # Navigate 
 
+## Website tour videos
+
+- Create a screen captured video of the website with narration and captions.
+
 ## Navigation Bar
 
 - Use the **Navigation Bar** to quickly jump to sections of the website. 
