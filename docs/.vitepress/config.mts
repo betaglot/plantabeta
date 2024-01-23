@@ -131,9 +131,11 @@ function sidebarReference() {
     { text: 'Go to Guide', link: '/guide/What/WhatPlantbeta' },
     { text: 'How to Use Reference', link: '/reference/Overview' },
     {
-      text: '🔷 Beta System', collapsed: true, items: [
+      text: '🔷 Beta', collapsed: true, items: [
         { text: '🔷 What is Beta?', link: '/reference/Beta/BetaOverview' },
         { text: '🔷 Beta Examples', link: '/reference/Beta/BetaExamples' },
+        { text: '🔷 BetaDiagram', link: '/reference/Beta/BetaDiagram' },
+        { text: '🔷 BetaScript', link: '/reference/Beta/BetaScript' },
       ]
     },
     {
@@ -687,6 +689,7 @@ function sidebarDevelopment() {
     { text: 'Downloads', link: '/development/Downloads' },
     { text: 'Research Questions', link: '/development/ResearchQuestions' },
     { text: 'Roadmap', link: '/development/Roadmap' },
+    { text: 'Simulation', link: '/development/Simulation' },
     { text: 'ElementRelationshipDiagram', link: '/development/ElementRelationshipDiagram' },
   ]
 }

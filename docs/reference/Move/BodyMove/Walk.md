@@ -54,9 +54,9 @@ Graph which represents how this element is related to other elements in Plantbet
 <img height="350" width="350" src="/DirectedGraph_UndirectedGraph.png"/>
 
 ## Related 🟠 <move>MoveElements </move>🟠
-- Description of how this MoveElement relates to a particular [<move>MoveElement</move>](/reference/Move/MoveOverview).
-- Description of how this MoveElement relates to a particular [<move>MoveElement</move>](/reference/Move/MoveOverview).
-- Description of how this MoveElement relates to a particular [<move>MoveElement</move>](/reference/Move/MoveOverview).
+- Walk  [<move>DeadWalking</move>](/reference/Move/MoveError#dead-walk).
+- Description of how this Walk relates to a particular [<move>MoveElement</move>](/reference/Move/MoveOverview).
+- Description of how this Walk relates to a particular [<move>MoveElement</move>](/reference/Move/MoveOverview).
 
 ## Related 🟩<eco> EcoElements </eco>🟩
 - Description of how this MoveElement relates to a particular [EcoElement](/reference/Eco/EcoOverview).

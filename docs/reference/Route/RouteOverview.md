@@ -1,4 +1,4 @@
-# 🔺 <route>[Route](https://dictionary.cambridge.org/dictionary/english/route) Overview</route>  🔺
+# 🔺 <route>Route Overview</route>  🔺
 
 
 ## What is a Route?
@@ -7,8 +7,14 @@
 - The interface between Move, Neuro and Eco.
 - Route is an abstract layer on top of Eco. A route is where the Planter
 
-## Footprint Emoji 🔺
+### Purpose of Route
 
+- Minimize Deadwalking
+- To be able to have a detailed mental model of your land, so that you can plan how you're going to fill your lang.
+
+::: tip
+Route is Represented as a Red Triangle Emoji 🔺
+:::
 
 > a particular way or direction between places
 
@@ -41,6 +47,10 @@ PieceFill > AreaFill > RouteLine > RoutePoint
 > A *FillPattern* is the RouteLine, 
 
 > A Series of Points
+
+### Complete Coverage Path
+
+> Complete coverage path planning algorithm, on the other hand, is used in application where an autonomous mobile robot is required to visit all the points at least once in the given environment size with known obstacles.
 
 - Vacuuming
 - Lawn Mowing

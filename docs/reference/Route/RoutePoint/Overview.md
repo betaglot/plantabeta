@@ -16,5 +16,10 @@ ___ | **Site** | **Microsite**
 ### Voronoi Diagram
 
 - Spacing between Sites.
+- Dual with Delaunay Triangulation
 
 ### Delaunay Triangulation
+
+- Decompose a plane polygon into Triangles
+
+[TriangleFill](/reference/Route/AreaFill/TriangleFill)
