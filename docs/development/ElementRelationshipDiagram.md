@@ -236,7 +236,7 @@ MoveSelection.MoveEvaluation
 - Minimium ObstacleDensity
 
 **Simplifies**
-- A RouteLine is more simple than RouteShape.
+- A RouteCurve is more simple than RouteShape.
 **Reduces Risk**
 
 **Organizes**

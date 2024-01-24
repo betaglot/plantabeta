@@ -1,8 +1,10 @@
 # 🟠 <move>Move Overview </move>🟠
 
-## V Sign Emoji 🟠
+## Orange Circle Emoji 🟠
 
 ## What is a Move?
+
+- Movement
 
 ## Move Types
 
@@ -35,5 +37,17 @@ Acceleration
 - ### Hook
 
 
+## Move Sequence
 
+- Represented in Python as a List object.
+
+## Move Neuroscience
+
+### How does knowledge of neuroscientific mechanisms of movement improve planter effectiveness?
+
+- Learning
+
+### Types
+
+- Central Pattern Generators
 

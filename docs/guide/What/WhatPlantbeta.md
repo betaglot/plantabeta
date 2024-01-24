@@ -204,19 +204,19 @@ Plantbeta will provide a Planter training **service** to planting companies befo
 
 ---
 
-### [🟠 Examples of the Move Subsystem 🟠](/reference/Move/Overview)
+### [🟠 Examples of the Move Module 🟠](/reference/Move/Overview)
 
 🟠SpadeScreef, 🟠DownClimb, 🟠SpadeSwing, 🟠StepOver, 🟠PunchClose, 🟠StompClose, 🟠TreeInsert, 🟠HoleOpen, 🟠FlagRip, 🟠LookAt, 🟠ArmSwing, 🟠DeepSquat 
 
 ---
 
-### [🔺 Examples of the Route Subsystem 🔺](/reference/Route/Overview)
+### [🔺 Examples of the Route Module 🔺](/reference/Route/Overview)
 
 🔺StumpFill, 🔺ZigzagLine, 🔺BoustroFill, 🔺LogFill, 🔺PieceBoundary, 🔺MaximumSpacing, 🔺GhostLine, 🔺HighFlag, 🔺LineIn, 🔺BoundaryFlag, 🔺TurnAroundPoint
 
 ---
 
-### [💜 Examples of the Neuro Subsystem 💜](/reference/Neuro/Overview)
+### [💜 Examples of the Neuro Module 💜](/reference/Neuro/Overview)
 
 💜Attention, 💜Awareness, 💜Counting, 💜Decision, 💜Emotion, 💜Estimation, 💜Listening, 💜Memory, 💜Proprioception
 
@@ -289,3 +289,8 @@ There
 
 ![Galpin_04](/Galpin_04.jpeg)
 
+
+## Plantbeta Strategy
+
+- To achieve the largest market share possible.
+- To modernize planting by leveraging computer science's ability to automate the boring stuff. To make being a Tree Planter less boring, more engaging, less dangerous and to conserve metabolic and neural energy.

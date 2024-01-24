@@ -6,6 +6,7 @@
 - Computational Geometry
 - The interface between Move, Neuro and Eco.
 - Route is an abstract layer on top of Eco. A route is where the Planter
+- A routes start and finish at the Cache.
 
 ### Purpose of Route
 
@@ -38,13 +39,13 @@ Polygon Decomposition
 
 ## Routing Scope
 
-PieceFill > AreaFill > RouteLine > RoutePoint
+PieceFill > AreaFill > RouteCurve > RoutePoint
 
 ## GeneralDirection
 
 ## FillPattern
 
-> A *FillPattern* is the RouteLine, 
+> A *FillPattern* is the RouteCurve, 
 
 > A Series of Points
 

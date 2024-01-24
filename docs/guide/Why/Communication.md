@@ -38,7 +38,8 @@ Instructions
 
 When cutting pieces.
 
-> Line in over there.
+*" Line in over there." = "Start over there"*
+
 
 *Over where?*
 

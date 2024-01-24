@@ -2,6 +2,10 @@
 
 https://developers.google.com/style
 
+## ElementName
+
+- PascaleCase
+
 ## Bilingual
 
 { French,  English }

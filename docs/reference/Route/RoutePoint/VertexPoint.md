@@ -1,3 +1,3 @@
 # 🔺 <route>Vertex </route> 🔺
 
-The point where RouteLines converge into or diverge from.
+The point where RouteCurves converge into or diverge from.

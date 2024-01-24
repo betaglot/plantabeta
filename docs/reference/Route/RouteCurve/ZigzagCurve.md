@@ -1,4 +1,4 @@
-# 🔺 <route>ZigzagRoute</route> 🔺
+# 🔺 <route>Zigzag Curve</route> 🔺
 
 
 <div style="display: flex; width: %100; margin-top: 100px;">

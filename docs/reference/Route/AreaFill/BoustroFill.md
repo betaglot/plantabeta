@@ -36,7 +36,7 @@ Graph which represents how this element is related to other elements in Plantbet
 ### [TurnAround]()
 - Turn around at the end of each line. 
 
-### [RouteLine]()
+### [RouteCurve]()
 - 
 
 ### [ParallelLine]()

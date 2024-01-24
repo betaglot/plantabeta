@@ -388,7 +388,7 @@
         "type": "sidecar"
       },
       {
-        "title": "Dev.Element.ElementDiagram.Labels.TextLabel.RouteLineLabel",
+        "title": "Dev.Element.ElementDiagram.Labels.TextLabel.RouteCurveLabel",
         "color": "#ffffffff",
         "textcolor": "#000000ff",
         "type": "sidecar"
@@ -2838,139 +2838,139 @@
         "type": "sidecar"
       },
       {
-        "title": "Route.RouteLine.AdvancingMove",
+        "title": "Route.RouteCurve.AdvancingMove",
         "color": "#f83a22b8",
         "textcolor": "white",
         "type": "sidecar"
       },
       {
-        "title": "Route.RouteLine.BagUpLine",
+        "title": "Route.RouteCurve.BagUpLine",
         "color": "#f83a22b8",
         "textcolor": "white",
         "type": "sidecar"
       },
       {
-        "title": "Route.RouteLine.BeeLine",
+        "title": "Route.RouteCurve.BeeLine",
         "color": "#f83a22b8",
         "textcolor": "white",
         "type": "sidecar"
       },
       {
-        "title": "Route.RouteLine.BoundaryLine.ArtificialBoundaryLine",
+        "title": "Route.RouteCurve.BoundaryLine.ArtificialBoundaryLine",
         "color": "#f83a22b8",
         "textcolor": "white",
         "type": "sidecar"
       },
       {
-        "title": "Route.RouteLine.BoundaryLine.NaturalBoundaryLine",
+        "title": "Route.RouteCurve.BoundaryLine.NaturalBoundaryLine",
         "color": "#f83a22b8",
         "textcolor": "white",
         "type": "sidecar"
       },
       {
-        "title": "Route.RouteLine.CircumventLine",
+        "title": "Route.RouteCurve.CircumventLine",
         "color": "#f83a22b8",
         "textcolor": "white",
         "type": "sidecar"
       },
       {
-        "title": "Route.RouteLine.Eddy",
+        "title": "Route.RouteCurve.Eddy",
         "color": "#f83a22b8",
         "textcolor": "white",
         "type": "sidecar"
       },
       {
-        "title": "Route.RouteLine.GhostLine",
+        "title": "Route.RouteCurve.GhostLine",
         "color": "#f83a22b8",
         "textcolor": "white",
         "type": "sidecar"
       },
       {
-        "title": "Route.RouteLine.LineIn",
+        "title": "Route.RouteCurve.LineIn",
         "color": "#f83a22b8",
         "textcolor": "white",
         "type": "sidecar"
       },
       {
-        "title": "Route.RouteLine.Overview",
+        "title": "Route.RouteCurve.Overview",
         "color": "#f83a22b8",
         "textcolor": "white",
         "type": "sidecar"
       },
       {
-        "title": "Route.RouteLine.ParallelLine",
+        "title": "Route.RouteCurve.ParallelLine",
         "color": "#f83a22b8",
         "textcolor": "white",
         "type": "sidecar"
       },
       {
-        "title": "Route.RouteLine.PerimeterLine",
+        "title": "Route.RouteCurve.PerimeterLine",
         "color": "#f83a22b8",
         "textcolor": "white",
         "type": "sidecar"
       },
       {
-        "title": "Route.RouteLine.RouteDisplacementLine",
+        "title": "Route.RouteCurve.RouteDisplacementLine",
         "color": "#f83a22b8",
         "textcolor": "white",
         "type": "sidecar"
       },
       {
-        "title": "Route.RouteLine.RouteDistanceLine",
+        "title": "Route.RouteCurve.RouteDistanceLine",
         "color": "#f83a22b8",
         "textcolor": "white",
         "type": "sidecar"
       },
       {
-        "title": "Route.RouteLine.RouteDistanceLine.RouteCircuitLine",
+        "title": "Route.RouteCurve.RouteDistanceLine.RouteCircuitLine",
         "color": "#f83a22b8",
         "textcolor": "white",
         "type": "sidecar"
       },
       {
-        "title": "Route.RouteLine.RouteLineOfBestFit",
+        "title": "Route.RouteCurve.RouteCurveOfBestFit",
         "color": "#f83a22b8",
         "textcolor": "white",
         "type": "sidecar"
       },
       {
-        "title": "Route.RouteLine.RouteLineOverlap",
+        "title": "Route.RouteCurve.RouteCurveOverlap",
         "color": "#f83a22b8",
         "textcolor": "white",
         "type": "sidecar"
       },
       {
-        "title": "Route.RouteLine.RouteLinearLine",
+        "title": "Route.RouteCurve.RouteCurvearLine",
         "color": "#f83a22b8",
         "textcolor": "white",
         "type": "sidecar"
       },
       {
-        "title": "Route.RouteLine.RouteMirrorLine",
+        "title": "Route.RouteCurve.RouteMirrorLine",
         "color": "#f83a22b8",
         "textcolor": "white",
         "type": "sidecar"
       },
       {
-        "title": "Route.RouteLine.RouteReferenceLine",
+        "title": "Route.RouteCurve.RouteReferenceLine",
         "color": "#f83a22b8",
         "textcolor": "white",
         "type": "sidecar"
       },
       {
-        "title": "Route.RouteLine.RouteTrackingLine.Overview",
+        "title": "Route.RouteCurve.RouteTrackingLine.Overview",
         "color": "#f83a22b8",
         "textcolor": "white",
         "type": "sidecar"
       },
       {
-        "title": "Route.RouteLine.SpiralLine",
+        "title": "Route.RouteCurve.SpiralLine",
         "color": "#f83a22b8",
         "textcolor": "white",
         "type": "sidecar"
       },
       {
-        "title": "Route.RouteLine.ZigzagLine",
+        "title": "Route.RouteCurve.ZigzagLine",
         "color": "#f83a22b8",
         "textcolor": "white",
         "type": "sidecar"
