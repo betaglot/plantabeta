@@ -1,31 +1,26 @@
-# [🟩](/reference/Eco/Overview) - [🟠](/reference/Move/Overview) - [🔺](/reference/Route/Overview) - [💜](/reference/Neuro/Overview) - [🔷](/reference/Beta/Overview)
+# [🟩](/reference/Eco/EcoOverview) - [🟠](/reference/Move/MoveOverview) - [🔺](/reference/Route/RouteOverview) - [💜](/reference/Neuro/NeuroOverview) - [🔷](/reference/Beta/BetaOverview)
 
 
-## [<eco>🟩🟩🟩  Eco  🟩🟩🟩</eco>](/reference/Eco/EcoOverview) 
+## [<eco>🟩 Eco 🟩</eco>](/reference/Eco/EcoOverview) 
 
-## [<move>🟠🟠🟠  Move  🟠🟠🟠</move>](/reference/Move/MoveOverview)
+## [<move>🟠 Move 🟠</move>](/reference/Move/MoveOverview)
 
-## [<route>🔺🔺🔺  Route  🔺🔺🔺</route>](/reference/Route/RouteOverview)
+## [<route>🔺 Route 🔺</route>](/reference/Route/RouteOverview)
 
-## [<neuro>💜💜💜  Neuro  💜💜💜</neuro>](/reference/Neuro/NeuroOverview)
+## [<neuro>💜 Neuro 💜</neuro>](/reference/Neuro/NeuroOverview)
 
-## [<beta>🔷🔷🔷  Beta  🔷🔷🔷</beta>](/reference/Beta/BetaOverview)
-
-- Reference is laid out similarily to a Wikipedia page. There are many links between pages. Links are highlighted as [green text](/reference/ReferenceOverview) (👈 this link links to the the current page).
+## [<beta>🔷 Beta 🔷</beta>](/reference/Beta/BetaOverview)
 
 
 ## Glossary
 
-A list of all terms that Planters must be familiar with to master planting.
+A list of all terms that you must be familiar with to master planting.
 
-## Gallery 
+## Media Library 
 
-You can submit photos to the gallery.
+You can submit images, audio and videos to the media library.
 
-Gallery is useful to gain a deeper understanding of what to expect during your Rookie Season.
-
-The reference Section will link to tagged images, so that Planters can look for specific tags.
-
+Use the media library to gain a deeper understanding of what to expect during your Rookie Season.
 
 
 

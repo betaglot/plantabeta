@@ -10,15 +10,36 @@
     </div>
 </div>
 
-## Questions about the Element
+## TreeGrip Purpose
+
+- TreeGrip is the interface between Planter and Seedling.
+
+## TreeGrip Parameters
+
+- HandSize
+- PodSize
+- PodIntegrity
+    - Is the TreePod falling apart? 
 
 ## RequiredTools
 
-- Tool1
-- Tool2
-- Tool3
+- Glove
 
-## <move>Move Sequence</move>
+## PodGrip
+
+### Submoves
+
+- FingerCurl
+- FingerUncurl
+- Finger
+
+### Supermove
+
+- InsertTree
+- BagFill
+- TreeRemove
+
+### <move>PodGrip Sequence</move>
 
 <div style="display: flex">
     <div>
@@ -32,19 +53,40 @@
     <div>
         <img style="margin: 5px" height="200" width="200" src="/Move/MoveImage.png"/>
         <p>Description of Move Photo</p>
-    </div>
-    
-    
+    </div>    
 </div>
 
-## Element Purpose
 
-- 
+## StemGrip
 
-## Element Properties
+### <move>StemGrip Sequence</move>
 
-- 
+<div style="display: flex">
+    <div>
+        <img style="margin: 5px" height="200" width="200" src="/Move/MoveImage.png"/>
+        <p>Description of Move Photo</p>
+    </div>
+    <div>
+        <img style="margin: 5px" height="200" width="200" src="/Move/MoveImage.png"/>
+        <p>Description of Move Photo</p>
+    </div>
+    <div>
+        <img style="margin: 5px" height="200" width="200" src="/Move/MoveImage.png"/>
+        <p>Description of Move Photo</p>
+    </div>    
+</div>
 
+### Submoves
+
+- FingerCurl
+- FingerUncurl
+- Finger
+
+### Supermove
+
+- InsertTree
+- BagFill
+- TreeRemove
 
 ## ElementRelationshipsGraph
 

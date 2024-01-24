@@ -1,4 +1,4 @@
-# Planter Computer
+# Planter as Computer
 
 ## What is Computation?
 
@@ -7,6 +7,23 @@
 > Computer
 
 :::
+
+
+## Analogy 
+
+| Python | Plantbeta|
+|--- |--- |
+user | Eco
+input |
+output |
+math
+conditional execution |
+repetition |
+algorithm |
+syntax |
+runtime errors |
+
+
 
 ### Algorithm
 

@@ -129,7 +129,7 @@ function sidebarGuide() {
 function sidebarReference() {
   return [
     { text: 'Go to Guide', link: '/guide/What/WhatPlantbeta' },
-    { text: 'How to Use Reference', link: '/reference/Overview' },
+    { text: 'How to Use Reference', link: '/reference/ReferenceOverview' },
     {
       text: '🔷 Beta', collapsed: true, items: [
         { text: '🔷 What is Beta?', link: '/reference/Beta/BetaOverview' },
@@ -468,7 +468,9 @@ function sidebarReference() {
             { text: '🟠 Sleep', link: '/reference/Move/TruckMove/Sleep' },
             { text: '🟠 Sit', link: '/reference/Move/TruckMove/Sit' },
           ]
-        }
+        },
+        { text: '🟠 Kinesiology', link: '/reference/Move/Kinesiology/KinesiologyOverview' },
+
       ],
     },
     {
@@ -701,9 +703,11 @@ function sidebarDevelopment() {
     { text: 'Downloads', link: '/development/Downloads' },
     { text: 'DX', link: '/development/DX' },
     { text: 'Open Source', link: '/development/OpenSource' },
+    { text: 'Python', link: '/development/PythonPlanter' },
     { text: 'Research Questions', link: '/development/ResearchQuestions' },
     { text: 'Roadmap', link: '/development/Roadmap' },
     { text: 'Simulation', link: '/development/Simulation' },
+    { text: 'Tagging', link: '/development/Tagging' },
     { text: 'UX', link: '/development/UX' },
   ]
 }
