@@ -704,6 +704,7 @@ function sidebarDevelopment() {
     { text: 'Downloads', link: '/development/Downloads' },
     { text: 'DX', link: '/development/DX' },
     { text: 'Open Source', link: '/development/OpenSource' },
+    { text: 'PaperPhoto', link: '/development/PaperPhoto' },
     { text: 'Python', link: '/development/PythonPlanter' },
     { text: 'Research Questions', link: '/development/ResearchQuestions' },
     { text: 'Roadmap', link: '/development/Roadmap' },
