@@ -17,7 +17,8 @@ export default defineConfig({
     logo: 'android-chrome-512x512.png',
     socialLinks: [
       { icon: 'youtube', link: 'https://www.youtube.com/@Klimbeta' },
-      { icon: 'instagram', link: 'https://www.instagram.com/the_plantbeta/' }
+      { icon: 'instagram', link: 'https://www.instagram.com/the_plantbeta/' },
+      { icon: 'github', link: 'https://github.com/klimbeta/plantbeta' }
     ],
     footer: {
       message: '',
