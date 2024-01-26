@@ -12,7 +12,22 @@ https://brilliant.org/
 
 ## EcoTest
 
-- [EcoTest1]()
+- Tree Genus Identification (Species Identification is more nuanced than required)
+
+```py
+treeList = [
+    'Abies', 
+    'Alnus', 
+    'Pinus', 
+    'Populus', 
+    'Pseudotsuga', 
+    'Quercus', 
+    'Salix', 
+    'Thuja', 
+    'Tsuga'
+    ]
+```
+
 - [EcoTest2]()
 - [EcoTest3]()
 - [EcoTest4]()

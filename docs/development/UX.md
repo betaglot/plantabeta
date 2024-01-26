@@ -2,9 +2,17 @@
 
 ## Hardware
 
+### GoPro
+
+- GoPros are used to record your Beta.
+
 ### Phone
 
+- Touch keyboard
+
 ### Tablet
+
+- Ipad
 
 ### Projector
 
@@ -15,4 +23,8 @@
 - Morning
 
 ### Desktop
+
+### Physical Keyboard
+
+- When transcribing Beta it helps to have a Physical Keyboard so that all fingers can be used to type while maximizing the screen viewport
 

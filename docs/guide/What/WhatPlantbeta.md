@@ -1,4 +1,4 @@
-# [Systematic](https://dictionary.cambridge.org/dictionary/english/systematize) Tree Planters
+# Tree Planter System
 
 ![BetaLogo](/BetaLogo.png)
 
@@ -23,6 +23,7 @@
 :::
 
 Plantbeta.com is a **product** specifically designed to train Planters how to plant more efficiently. 
+
 
 - Plantbeta is a web app which contains all the information that a Planter needs to know to perform their job in the [Reference](/reference/ReferenceOverview) section. 
 - Plantbeta has a [Tests](/tests/TestsOverview) section for Planters to reinforce their knowledge and to find any gaps in their knowledge.
@@ -294,3 +295,12 @@ There
 
 - To achieve the largest market share possible.
 - To modernize planting by leveraging computer science's ability to automate the boring stuff. To make being a Tree Planter less boring, more engaging, less dangerous and to conserve metabolic and neural energy.
+
+
+## What Plantbeta is Not
+
+Limits, Boundary, Constraint, Scope
+
+- Logistics for management
+- Cook
+- Nursery

@@ -4,3 +4,6 @@ This glossary is intended to provide some guidance about the meanings of terms t
 
 
 
+# Tamp
+
+- to press soil down firmly

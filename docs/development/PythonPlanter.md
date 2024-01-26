@@ -98,4 +98,13 @@ runtime errors |
 
 - 
 
+## Monty Python References
 
+### Shrubbery
+
+> a plant with a wooden stem and many small branches that usually does not grow very tall
+
+<iframe width="789" height="444" src="https://www.youtube.com/embed/zIV4poUZAQo" title="The Knights Who Say &quot;Ni!&quot; - Monty Python and the Holy Grail" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+- In the future shrubs will be planted among crop trees to prevent soil erosion.
+- In northern Alberta they plant Rhododendron Shrubs (locally known as Labrador Tea)

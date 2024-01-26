@@ -1,5 +1,12 @@
 # 💜 <neuro>Neuro Overview </neuro>💜
 
+::: danger
+
+It is easy to get lost in neuroscience, but always try to minimize the amount of technical knowledge and only present neuroscience in the context of Plantbeta. Every section needs to directly link back to a planter's experience and not a person's experience in general.
+
+:::
+
+
 ## What is Neuro?
 
 Short for Neuroscience
@@ -20,4 +27,6 @@ Short for Neuroscience
 - Equanimity
 - 1st Person Experience
 - Suffering
+
+
 
