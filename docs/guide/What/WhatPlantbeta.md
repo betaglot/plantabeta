@@ -1,5 +1,11 @@
 # Tree Planter System
 
+<div >
+<iframe width="" height="100%" src="https://www.youtube.com/embed/V7rxBzzc4D0?playlist=V7rxBzzc4D0&loop=1" title="Plantbeta Emojis" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen style="display: block;
+  margin-left: auto;
+  margin-right: auto;"></iframe>
+</div>
+
 ![BetaLogo](/BetaLogo.png)
 
 ::: tip Plantbeta's **Mission**
@@ -22,35 +28,6 @@
 
 :::
 
-Plantbeta.com is a **product** specifically designed to train Planters how to plant more efficiently. 
-
-
-- Plantbeta is a web app which contains all the information that a Planter needs to know to perform their job in the [Reference](/reference/ReferenceOverview) section. 
-- Plantbeta has a [Tests](/tests/TestsOverview) section for Planters to reinforce their knowledge and to find any gaps in their knowledge.
-- Unlike [Replant.ca](/https://replant.ca/), Plantbeta contains no information about the business side of planting, it's only from the Planter's perspective. 
-- Each element of Plantbeta has its own profile. Currently you will see placeholders for each section of the profile. Each element profile has a profile picture, element description, a relationship graph showing how it relates to elements from the other subsystems, descriptions of how elements from other subsystems relate to the current element and at the bottom of the profile there are links to related elements (like the "See Also" section in Wikipedia pages). Not only are Planters shown all the elements, but more importantly they are shown how they relate to each other. Some elements are highly related to other element such as [Attention](/reference/Neuro/Attention) (NeuroElement), while others are not related to other subsystems such as [TreeLoad](/reference/Move/ArmMove/TreeLoad) (grabbing a tree from your bag).
-    - [PocketArea](/reference/Eco/Area/PocketArea)
-        - It's more efficient to AreaFill than PerimeterFill (RouteElements) a PocketArea.
-        - You need to define the boundaries of the area (NeuroElement).
-    - [HandScreef](/reference/Move/HandMove/HandScreef)
-        - The SoilType (EcoElement) determines if you SpadeScreef or HandScreef.
-        - You need to see and feel (NeuroElements) where the duff layer becomes MineralSoil to perform an effective HandScreef.
-    - [BackFill](/reference/Route/PieceFill/BackFill)
-        - The shape of the Piece (EcoElement) determines if you want to BackFill or AreaFill.
-    - [BagUpSizeDecision](/reference/Neuro/Decision/BagUpSizeDecision)
-        - The Eco affects the BagUpSize, bigger BagUpSize for straight trenches (EcoElement) compared to RawLand (EcoElement).
-        - BagUpSize depends on how fatigued (Neuro) you are.
-        - BagUpSize affects how fast you can move (MoveElement) and how easily you can climb over slash (EcoElement).
-        - If you need to BackFill (RouteElement) a piece then you typically have a large BagUpSize.
-
-Plantbeta will provide a Planter training **service** to planting companies before and during the planting season. 
-
-::: tip You're going think...
-- That Plantbeta can't deliver on its promises.
-- You’re going to think that this is more complicated than it needs to be.
-- You’re going to think that this is too much for a Rookie to take in.
-- You're going to think that a web app can't make people better Planters.
-:::
 
 ## How does Plantbeta provide Value to Planters?
 
@@ -183,112 +160,6 @@ Plantbeta will provide a Planter training **service** to planting companies befo
 :::
 
 ---
-
-
-## [🟩](/reference/Eco/Overview) -- [🟠](/reference/Move/Overview) -- [🔺](/reference/Route/Overview) -- [💜](/reference/Neuro/Overview) -- [🔷](/reference/Beta/Overview)
-
-
-::: details Why Emojis?
-
-- Multicultural understanding
-- Universally Rendered.
-- Graphic is easier to find visually.
-- Smaller width than any word which could describe "Eco", "Move", "Neuro", "Route", "Beta" 
-
-:::
-
----
-
-### [🟩 Examples of the Eco Subsystem 🟩](/reference/Eco/Overview)
-
-🟩Stump, 🟩SteepSlope, 🟩TrenchLand, 🟩Log, 🟩RawLand, 🟩ClaySoil, 🟩Rain, 🟩Snow, 🟩Road, 🟩AirTemperature, 🟩RiparianArea, 🟩FillBlock, 🟩MoundLand
-
----
-
-### [🟠 Examples of the Move Module 🟠](/reference/Move/Overview)
-
-🟠SpadeScreef, 🟠DownClimb, 🟠SpadeSwing, 🟠StepOver, 🟠PunchClose, 🟠StompClose, 🟠TreeInsert, 🟠HoleOpen, 🟠FlagRip, 🟠LookAt, 🟠ArmSwing, 🟠DeepSquat 
-
----
-
-### [🔺 Examples of the Route Module 🔺](/reference/Route/Overview)
-
-🔺StumpFill, 🔺ZigzagLine, 🔺BoustroFill, 🔺LogFill, 🔺PieceBoundary, 🔺MaximumSpacing, 🔺GhostLine, 🔺HighFlag, 🔺LineIn, 🔺BoundaryFlag, 🔺TurnAroundPoint
-
----
-
-### [💜 Examples of the Neuro Module 💜](/reference/Neuro/Overview)
-
-💜Attention, 💜Awareness, 💜Counting, 💜Decision, 💜Emotion, 💜Estimation, 💜Listening, 💜Memory, 💜Proprioception
-
-
-## Who uses Plantbeta?
-
-### [Potential Planters](/guide/Who/PotentialPlanter)
-- People who are interested in becoming a Planter, but have no planting experience.
-
-### [Rookie Planters](/guide/Who/RookiePlanter)
-- A Planter who hasn't completed a full planting season.
-
-### [Experienced Planters](/guide/Who/ExperiencedPlanter)
-- A Planter who has planted for at least one year.
-
-### [Planter Instructors](/guide/Who/PlanterInstructor)
-- People who teach Planters how to plant.
-- The Planter Instructor can be a Planter Supervisor who is instructing on of their crew; an Experienced Planter giving advice to another Planter or a person who's job title is Planter Instructor (a position which only exists in a handful of planting companies).
-
-
-## When is Plantbeta used?
-
-
-- Before and during your rookie season.
-- When planning how you're going to plant your piece.
-- Reference is used to find knowledge gaps while browsing while in transit to the block and during camp moves.
-
-
-
-
-## How is Plantbeta Innovative and Educational?
-
-> Work smarter not harder
-
-- Plantbeta is **FREE** educational resource for Planters.
-
-### Plantbeta utilizes Climbing  
-
-Plantbeta borrows the concept of Beta to explain how to plant in greater nuance than ever before, by breaking down a Planter's experience into 4 interdependent subsystems, Planters can pinpoint the aspects of their experience which can be improved, while also having a greater vocabulary to explain what they're doing to other Planter who [share the same Piece of Land](/reference/Route/TeamPlant/Overview).
-
-![BetaLogo](/BetaLogo.png)
-
-By connecting Climbing and Planting through their mutual use of a Beta System, Planters can improve their planting ability **before and after their planting season** by practicing indoor climbing. 
-
-There
-
-![BetaComp_01](/BetaComp_01.png)
-
-
-### Huberman Lab Podcast
-
-- Plantbeta is innovative by using evidence-based knowledge from the [Huberman Lab Podcast](https://hubermanlab.com/). The podcast is run by [Andrew Huberman](https://hubermanlab.com/about/) who is a highly respected university professor from California. Some of the topics which are directly applicable to planting are: 
-    - [Fitness](https://hubermanlab.com/guest-series-dr-andy-galpin-maximize-recovery-to-achieve-fitness-and-performance-goals/), how to build muscle, how to recover, how to use supplments, how to train endurance, how the body converts food into energy.
-    - [Sleep](https://hubermanlab.com/sleep-toolkit-tools-for-optimizing-sleep-and-sleep-wake-timing/)
-    - [Salt](https://hubermanlab.com/using-salt-to-optimize-mental-and-physical-performance/), the importance of salt for mental and physical performance.
-    - [Learning](https://hubermanlab.com/how-to-learn-skills-faster/), how to learn faster and more deeply.
-    - [Caffeine](https://hubermanlab.com/using-caffeine-to-optimize-mental-and-physical-performance/), how to use caffeine to optimize mental and physical performance... and how to not overdo it.
-
-![Galpin_01](/Galpin_01.jpeg)
-
----
-
-![Galpin_02](/Galpin_02.jpeg)
-
----
-
-![Galpin_03](/Galpin_03.jpeg)
-
----
-
-![Galpin_04](/Galpin_04.jpeg)
 
 
 ## Plantbeta Strategy

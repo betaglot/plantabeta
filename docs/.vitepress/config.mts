@@ -105,13 +105,13 @@ function sidebarGuide() {
       ]
     },
     {
-      text: 'Objectives', collapsed: false, items: [
-        { text: '🔥🌲🔥 Replant Burnt Ecos', link: '/guide/Why/Wildfire' },
-        { text: '🟠 Reduce Injury', link: '/guide/Why/Injury' },
-        { text: '🔺 Increase Productivity', link: '/guide/Why/Productivity' },
-        { text: '🔷 Better Communication', link: '/guide/Why/Communication' },
-        { text: '💜 Steepen Learning Curve', link: '/guide/Why/LearningCurve' },
-        { text: '💲 Increase Profit', link: '/guide/Why/Company' }
+      text: 'Purpose', collapsed: false, items: [
+        { text: '🔥🌲🔥 To Replant Burnt Land', link: '/guide/Why/Wildfire' },
+        { text: '🟠 To Reduce Injury', link: '/guide/Why/Injury' },
+        { text: '🔺 To Increase Productivity', link: '/guide/Why/Productivity' },
+        { text: '🔷 To Improve Communication', link: '/guide/Why/Communication' },
+        { text: '💜 To Steepen Learning Curve', link: '/guide/Why/LearningCurve' },
+        { text: '💲 To Increase Profit', link: '/guide/Why/Company' }
       ]
     },
     {
@@ -130,7 +130,7 @@ function sidebarGuide() {
 function sidebarReference() {
   return [
     { text: 'Go to Guide', link: '/guide/What/WhatPlantbeta' },
-    { text: 'How to Use Reference', link: '/reference/ReferenceOverview' },
+    { text: 'Reference Overview', link: '/reference/ReferenceOverview' },
     {
       text: '🔷 Beta', collapsed: true, items: [
         { text: '🔷 What is Beta?', link: '/reference/Beta/BetaOverview' },
