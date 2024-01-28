@@ -1,4 +1,4 @@
-# Simulation
+# 🛠 Simulation
 
 - Use Simulation to model movements. Ultimately the goal is to have a planter coded in Unity.
 - 3D model of planter

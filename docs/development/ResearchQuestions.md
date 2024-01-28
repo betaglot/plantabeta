@@ -1,4 +1,4 @@
-# Questions about Planting and Plantbeta
+# 🛠 Questions about Planting and Plantbeta
 
 - What is the most important piece of information that a Planter needs to know?
 - What is the slowest part of a PlantingSequence?

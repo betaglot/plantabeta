@@ -47,9 +47,7 @@ function sidebarSponsor() {
   ]
 }
 
-function head() {
-  return []
-}
+
 
 function nav() {
   return [
@@ -121,6 +119,12 @@ function sidebarGuide() {
         { text: 'Experienced Planter', link: '/guide/Who/ExperiencedPlanter' },
         { text: 'Planter Supervisor', link: '/guide/Who/PlanterSupervisor' },
         { text: 'Planter Instructor', link: '/guide/Who/PlanterInstructor' }
+      ]
+    },
+    {
+      text: 'Gear Guide', collapsed: false, items: [
+        { text: 'What to bring?', link: '/guide/What/WhatToBring' },
+        { text: 'Gear List', link: '/guide/What/List' }
       ]
     },
     { text: 'Go to Reference', link: '/reference/Overview' },
@@ -699,7 +703,7 @@ function sidebarDevelopment() {
     { text: 'Development Overview', link: '/development/Overview' },
     { text: 'Contact', link: '/development/Contact' },
     { text: 'Academia', link: '/development/Academia' },
-    { text: 'Data Visualization', link: '/development/ElementRelationshipDiagram' },
+    { text: 'Data Visualization', link: '/development/ElementsGraph' },
     { text: 'Donate Media', link: '/development/Donation' },
     { text: 'Downloads', link: '/development/Downloads' },
     { text: 'DX', link: '/development/DX' },
@@ -708,6 +712,7 @@ function sidebarDevelopment() {
     { text: 'Python', link: '/development/PythonPlanter' },
     { text: 'Research Questions', link: '/development/ResearchQuestions' },
     { text: 'Roadmap', link: '/development/Roadmap' },
+    { text: 'Sequence', link: '/development/Sequence' },
     { text: 'Simulation', link: '/development/Simulation' },
     { text: 'Tagging', link: '/development/Tagging' },
     { text: 'UX', link: '/development/UX' },

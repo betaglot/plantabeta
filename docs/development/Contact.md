@@ -1,4 +1,4 @@
-# Contact
+# 🛠 Contact
 
 ::: tip Send an email to:
 christopheralduncan@gmail.com

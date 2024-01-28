@@ -1,6 +1,9 @@
-# Style Guide
+# 🛠 Style Guide
 
 https://developers.google.com/style
+
+
+## You, not them
 
 ## ElementName
 

@@ -72,10 +72,7 @@
 
 Quotes about this Move
 
-- "Quote1"
-- "Quote2"
-- "Quote3"
-- "Quote4"
+> Quote
 
 ## MoveErrors
 

@@ -466,19 +466,19 @@
         "type": "sidecar"
       },
       {
-        "title": "Dev.Element.ElementRelationshipDiagram",
+        "title": "Dev.Element.ElementsGraph",
         "color": "#ffffffff",
         "textcolor": "#000000ff",
         "type": "sidecar"
       },
       {
-        "title": "Dev.Element.ElementRelationshipDiagram.ElementDependencies",
+        "title": "Dev.Element.ElementsGraph.ElementDependencies",
         "color": "#ffffffff",
         "textcolor": "#000000ff",
         "type": "sidecar"
       },
       {
-        "title": "Dev.Element.ElementRelationshipDiagram.MetroMap",
+        "title": "Dev.Element.ElementsGraph.MetroMap",
         "color": "#ffffffff",
         "textcolor": "#000000ff",
         "type": "sidecar"

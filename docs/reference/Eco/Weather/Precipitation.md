@@ -43,41 +43,32 @@ Answer 3
 - Element Color
 - Element's Frequency of Occurrence
 
-## Element Relationships Chart
+## Elements Graph
 
-Graph which represents how this element is related to other elements in Plantbeta. 
-🛠 The Element Relationships Chart is still [under development](/development/ElementRelationshipDiagram)
-
-
-<img height="350" width="350" src="/DirectedGraph_UndirectedGraph.png"/>
+<iframe 
+    width="100%" 
+    height="500" 
+    frameborder="0"
+    src="https://observablehq.com/embed/@d3/force-directed-graph/2?cells=chart"
+></iframe>
 
 ## Related 🟩 <eco>EcoElements </eco>🟩
 
 ## Related 🟠 <move>MoveElements </move>🟠
-- Description of how this <eco>EcoElement </eco>relates to a particular [<move>MoveElement</move>](/reference/Move/MoveOverview).
-- Description of how this <eco>EcoElement </eco>relates to a particular [<move>MoveElement</move>](/reference/Move/MoveOverview).
-- Description of how this <eco>EcoElement </eco>relates to a particular [<move>MoveElement</move>](/reference/Move/MoveOverview).
 
 
 ## Related 🔺 <route>RouteElements </route>🔺
-- Description of how this <eco>EcoElement </eco>relates to a particular [<route>RouteElement</route>](/reference/Route/RouteOverview).
-- Description of how this <eco>EcoElement </eco>relates to a particular [<route>RouteElement</route>](/reference/Route/RouteOverview).
-- Description of how this <eco>EcoElement </eco>relates to a particular [<route>RouteElement</route>](/reference/Route/RouteOverview).
+
 
 ## Related 💜 <neuro>NeuroElements</neuro> 💜
-- Description of how this <eco>EcoElement </eco>relates to a particular [<neuro>NeuroElement</neuro>](/reference/Neuro/NeuroOverview).
-- Description of how this <eco>EcoElement </eco>relates to a particular [<neuro>NeuroElement</neuro>](/reference/Neuro/NeuroOverview).
-- Description of how this <eco>EcoElement </eco>relates to a particular [<neuro>NeuroElement</neuro>](/reference/Neuro/NeuroOverview).
+
 
 
 ## Quotes
 
 Quotes about this Element
 
-- "Quote1"
-- "Quote2"
-- "Quote3"
-- "Quote4"
+> Quote
 
 ## Examples
 

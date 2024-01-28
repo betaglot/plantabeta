@@ -1,4 +1,4 @@
-# UX: User Experience
+# 🛠 UX: User Experience of Plantbeta
 
 ## Hardware
 

@@ -1,4 +1,4 @@
-# Planter as Computer
+# 🛠 Planter as Computer
 
 ## What is Computation?
 

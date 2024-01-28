@@ -120,10 +120,7 @@ Graph which represents how this element is related to other elements in Plantbet
 
 Quotes about this Element
 
-- "Quote1"
-- "Quote2"
-- "Quote3"
-- "Quote4"
+> Quote
 
 ## Examples
 

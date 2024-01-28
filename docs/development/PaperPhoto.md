@@ -1,4 +1,4 @@
-# PaperPhoto
+# 🛠 PaperPhoto
 
 ```md
 Add the Image path to a clipboard above the image using a Python Loop.
