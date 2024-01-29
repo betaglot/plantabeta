@@ -1,6 +1,9 @@
 ::: details 🛠
 
-
+![PaperPhoto](/PaperPhoto/0048.jpg)
+![PaperPhoto](/PaperPhoto/0049.jpg)
+![PaperPhoto](/PaperPhoto/0052.jpg)
+![PaperPhoto](/PaperPhoto/0057.jpg)
 
 :::
 

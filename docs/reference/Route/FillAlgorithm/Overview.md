@@ -1,7 +1,7 @@
 ::: details 🛠
 
 
-
+![PaperPhoto](/PaperPhoto/0058.jpg)
 :::
 
 # 🔺 <route>Fill Algorithm Overview </route>🔺

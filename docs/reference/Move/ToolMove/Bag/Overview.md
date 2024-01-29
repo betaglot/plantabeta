@@ -1,6 +1,6 @@
 ::: details 🛠
 
-
+![PaperPhoto](/PaperPhoto/0048.jpg)
 
 :::
 

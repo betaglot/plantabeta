@@ -41,6 +41,39 @@ export default defineConfig({
   }
 })
 
+function sidebarDevelopment() {
+  return [
+    { text: 'Development Overview', link: '/development/Overview' },
+    { text: 'Contact', link: '/development/Contact' },
+    { text: 'Academia', link: '/development/Academia' },
+    { text: 'Data Visualization', link: '/development/ElementsGraph' },
+    { text: 'Donate Media', link: '/development/Donation' },
+    { text: 'Downloads', link: '/development/Downloads' },
+    { text: 'DX', link: '/development/DX' },
+    {
+      text: 'Graphics', collapsed: false, items: [
+        { text: 'Beta Graphics', link: '/development/Graphics/BetaGraphic' },
+        { text: 'DX Graphics', link: '/development/Graphics/BetaGraphic' },
+        { text: 'Eco Graphics', link: '/development/Graphics/BetaGraphic' },
+        { text: 'Move Graphics', link: '/development/Graphics/BetaGraphic' },
+        { text: 'Neuro Graphics', link: '/development/Graphics/BetaGraphic' },
+        { text: 'Route Graphics', link: '/development/Graphics/RouteGraphic' },
+        { text: 'UX Graphics', link: '/development/Graphics/UXGraphic' },
+      ]
+    },
+    { text: 'Open Source', link: '/development/OpenSource' },
+    { text: 'PaperPhoto', link: '/development/PaperPhoto' },
+    { text: 'Python', link: '/development/PythonPlanter' },
+    { text: 'Research Questions', link: '/development/ResearchQuestions' },
+    { text: 'Roadmap', link: '/development/Roadmap' },
+    { text: 'Sequence', link: '/development/Sequence' },
+    { text: 'Simulation', link: '/development/Simulation' },
+    { text: 'Tagging', link: '/development/Tagging' },
+    { text: 'NewTools', link: '/development/NewTools' },
+    { text: 'UX', link: '/development/UX' },
+  ]
+}
+
 function sidebarSponsor() {
   return [
     { text: 'How to be a Sponsor', link: '/sponsor/Overview' },
@@ -462,7 +495,7 @@ function sidebarReference() {
             },
             {
               text: '🟠 Spade', collapsed: true, items: [
-                { text: '🟠 Overview', link: '/reference/Move/ToolMove/Spade/Overview' },        
+                { text: '🟠 Overview', link: '/reference/Move/ToolMove/Spade/Overview' },
                 { text: '🟠 Spade Sequence', link: '/reference/Move/ToolMove/Spade/SpadeSequence' },
                 { text: '🟠 SpadeGrip', link: '/reference/Move/ToolMove/Spade/SpadeGrip' },
                 { text: '🟠 SpadeChop', link: '/reference/Move/ToolMove/Spade/SpadeChop' },
@@ -704,25 +737,3 @@ function sidebarTests() {
   ]
 
 }
-
-function sidebarDevelopment() {
-  return [
-    { text: 'Development Overview', link: '/development/Overview' },
-    { text: 'Contact', link: '/development/Contact' },
-    { text: 'Academia', link: '/development/Academia' },
-    { text: 'Data Visualization', link: '/development/ElementsGraph' },
-    { text: 'Donate Media', link: '/development/Donation' },
-    { text: 'Downloads', link: '/development/Downloads' },
-    { text: 'DX', link: '/development/DX' },
-    { text: 'Open Source', link: '/development/OpenSource' },
-    { text: 'PaperPhoto', link: '/development/PaperPhoto' },
-    { text: 'Python', link: '/development/PythonPlanter' },
-    { text: 'Research Questions', link: '/development/ResearchQuestions' },
-    { text: 'Roadmap', link: '/development/Roadmap' },
-    { text: 'Sequence', link: '/development/Sequence' },
-    { text: 'Simulation', link: '/development/Simulation' },
-    { text: 'Tagging', link: '/development/Tagging' },
-    { text: 'UX', link: '/development/UX' },
-  ]
-}
-
