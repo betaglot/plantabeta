@@ -6,19 +6,19 @@
 
 Tools you need to perform planter movements.
 
-## 🟠 <move>Spade</move>
+### 🟠 <move>Spade</move>
 
 - Often called a shovel, but is never used to scoop soil like a shovel.
 
-## 🟠 <move>Planter Bags</move>
+### 🟠 <move>Planter Bags</move>
 
 
 
-## 🟠 <move>Cache Bag</move>
+### 🟠 <move>Cache Bag</move>
 
-## 🟠 <move>Water Container</move>
+### 🟠 <move>Water Container</move>
 
-## 🟠 <move>Clothing</move>
+### 🟠 <move>Clothing</move>
 
 ::: tip 
 
