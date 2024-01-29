@@ -26,6 +26,9 @@
 
 ::: tip Plantbeta's **Values**
 
+- Practice is more important than Theory
+- All Planter knowledge is freely available
+
 :::
 
 

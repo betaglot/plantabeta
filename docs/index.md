@@ -31,9 +31,9 @@ features:
     link: /guide/What/WhatPlantbeta
   - icon: 🛠️
     title: Under Construction 
-    details: Last Updated January 28, 2024. This website is a prototype, not the final product
+    details: Last Updated January 29, 2024. This website is a prototype, not the final product
     link: /development/DevelopmentOverview
   - icon: ⏳
-    title: 98 days
+    title: 97 days
     details: until May 5 start day!
 ---

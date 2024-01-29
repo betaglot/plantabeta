@@ -1,13 +1,6 @@
 # 🟩  <eco>StumpObstacle</eco> 🟩
 
-<div style="display: flex; width: %100; margin-top: 100px;">
-    <div style="margin: 5px; width: 50%">
-        <img height="350" width="350" src="/Eco/EcoImage.png"/>
-    </div>
-    <div style="margin: 5px; width: 50%">
-        <p >Description of <eco>EcoElement</eco>. How the <eco>EcoElement </eco>got its name. Common misconceptions about the <eco>EcoElement</eco>. How to differentiate this <eco>EcoElement </eco>from another similar EcoElement</p>
-    </div>
-</div>
+![EcoImage](/Eco/EcoImage.png)
 
 ## Questions about StumpObstacle
 

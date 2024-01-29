@@ -1,14 +1,6 @@
 # 💜 <neuro>Playlists</neuro> 💜
 
-<div style="display: flex; width: %100; margin-top: 50px;">
-    <div style="margin: 5px; width: 50%">
-        <img height="350" width="350" src="/Neuro/NeuroImage.png"/>
-    </div>
-    <div style="margin: 5px; width: 50%">
-        <p >Description of <neuro>NeuroElement</neuro>. How the <neuro>NeuroElement </neuro>got its name. The purpose of the <neuro>NeuroElement</neuro>. Common misconceptions about the <neuro>NeuroElement</neuro>. How to differentiate this <neuro>NeuroElement </neuro>from another similar NeuroElement</p>
-    </div>
-</div>
-
+![NeuroImage](/Neuro/NeuroImage.png)
 ## Questions about the Element
 
 ::: details Questions 1
@@ -51,13 +43,9 @@ Answer 3
 - Description of how this <neuro>NeuroElement </neuro>relates to a particular [<move>MoveElement</move>](/reference/Move/MoveOverview).
 
 ## Related 🟩<eco> EcoElements </eco>🟩
-- Description of how this <neuro>NeuroElement </neuro>relates to a particular [EcoElement](/reference/Eco/EcoOverview).
-- Description of how this <neuro>NeuroElement </neuro>relates to a particular [EcoElement](/reference/Eco/EcoOverview).
-- Description of how this <neuro>NeuroElement </neuro>relates to a particular [EcoElement](/reference/Eco/EcoOverview).
+- 
 ## Related 🔺 RouteElements
-- Description of how this <neuro>NeuroElement </neuro>relates to a particular [<route>RouteElement</route>](/reference/Route/RouteOverview).
-- Description of how this <neuro>NeuroElement </neuro>relates to a particular [<route>RouteElement</route>](/reference/Route/RouteOverview).
-- Description of how this <neuro>NeuroElement </neuro>relates to a particular [<route>RouteElement</route>](/reference/Route/RouteOverview).
+- 
 
 ## Examples
 

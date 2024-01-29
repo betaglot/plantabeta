@@ -487,6 +487,11 @@ function sidebarReference() {
           ]
         },
         {
+          text: '💜 Arousal', collapsed: true, items: [
+            { text: '💜 Arousal Overview', link: '/reference/Neuro/Arousal/Overview' },
+          ]
+        },
+        {
           text: '💜 Attention', collapsed: true, items: [
             { text: '💜 Attention Overview', link: '/reference/Neuro/Attention/Overview' },
           ]
@@ -572,7 +577,6 @@ function sidebarReference() {
             { text: '💜 DailySchedule', link: '/reference/Neuro/Time/DailySchedule' },
             { text: '💜 MoveTiming', link: '/reference/Neuro/Time/MoveTiming' },
             { text: '💜 Planning', link: '/reference/Neuro/Time/Planning' },
-            { text: '💜 Sequence', link: '/reference/Neuro/Time/Sequence' },
             { text: '💜 Timer', link: '/reference/Neuro/Time/Timer' },
           ]
         },
