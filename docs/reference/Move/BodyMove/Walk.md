@@ -62,7 +62,12 @@
 
 
 
-<img height="350" width="350" src="/DirectedGraph_UndirectedGraph.png"/>
+<iframe 
+    width="100%" 
+    height="500" 
+    frameborder="0"
+    src="https://observablehq.com/embed/@d3/force-directed-graph/2?cells=chart"
+></iframe>
 
 ## Related 🟠 <move>MoveElements </move>🟠
 - Walk  [<move>DeadWalking</move>](/reference/Move/MoveError#dead-walk).

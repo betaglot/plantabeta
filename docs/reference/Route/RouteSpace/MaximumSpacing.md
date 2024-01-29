@@ -42,21 +42,20 @@ Answer 3
 
 
 
-<img height="350" width="350" src="/DirectedGraph_UndirectedGraph.png"/>
+<iframe 
+    width="100%" 
+    height="500" 
+    frameborder="0"
+    src="https://observablehq.com/embed/@d3/force-directed-graph/2?cells=chart"
+></iframe>
 
 ## Related 🟩<eco> EcoElements </eco>🟩
-- Description of how this RouteElement relates to a particular [EcoElement](/reference/Eco/EcoOverview).
-- Description of how this RouteElement relates to a particular [EcoElement](/reference/Eco/EcoOverview).
-- Description of how this RouteElement relates to a particular [EcoElement](/reference/Eco/EcoOverview).
+- 
 ## Related 💜 <neuro>NeuroElements</neuro>
-- Description of how this RouteElement relates to a particular [<neuro>NeuroElement</neuro>](/reference/Neuro/NeuroOverview).
-- Description of how this RouteElement relates to a particular [<neuro>NeuroElement</neuro>](/reference/Neuro/NeuroOverview).
-- Description of how this RouteElement relates to a particular [<neuro>NeuroElement</neuro>](/reference/Neuro/NeuroOverview).
+
 
 ## Related 🟠<move> MoveElements </move>🟠
-- Description of how this RouteElement relates to a particular [<move>MoveElement</move>](/reference/Move/MoveOverview).
-- Description of how this RouteElement relates to a particular [<move>MoveElement</move>](/reference/Move/MoveOverview).
-- Description of how this RouteElement relates to a particular [<move>MoveElement</move>](/reference/Move/MoveOverview).
+- 
 
 ## Examples
 

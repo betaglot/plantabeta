@@ -2,23 +2,23 @@
 
 ## Neck Support
 
+## Light Exposure and Darkness Exposure
 
-<div style="display: flex; width: %100; margin-top: 50px;">
-    <div style="margin: 5px; width: 50%">
-        <img height="350" width="350" src="/Move/MoveImage.png"/>
-    </div>
-    <div style="margin: 5px; width: 50%">
-        <p >Description of Move. How the movement got its name. The purpose of the movement. Common misconceptions about the movement. How to differentiate this movement from another similar movement</p>
-    </div>
-</div>
+- HubermanLab
+
+## Nap
+
+## Body Temperature
+
+
 
 ## Questions about the Element
 
 ## RequiredTools
 
-- Tool1
-- Tool2
-- Tool3
+- Ear Plugs
+- Face mask
+- Pillow
 
 ## <move>Move Sequence</move>
 
@@ -35,8 +35,6 @@
         <img style="margin: 5px" height="200" width="200" src="/Move/MoveImage.png"/>
         <p>Description of Move Photo</p>
     </div>
-    
-    
 </div>
 
 ## Element Purpose
@@ -52,26 +50,26 @@
 
 
 
-<img height="350" width="350" src="/DirectedGraph_UndirectedGraph.png"/>
+<iframe 
+    width="100%" 
+    height="500" 
+    frameborder="0"
+    src="https://observablehq.com/embed/@d3/force-directed-graph/2?cells=chart"
+></iframe>
 
 ## Related 🟠 <move>MoveElements </move>🟠
-- Description of how this MoveElement relates to a particular [<move>MoveElement</move>](/reference/Move/MoveOverview).
-- Description of how this MoveElement relates to a particular [<move>MoveElement</move>](/reference/Move/MoveOverview).
-- Description of how this MoveElement relates to a particular [<move>MoveElement</move>](/reference/Move/MoveOverview).
+- After work
 
 ## Related 🟩<eco> EcoElements </eco>🟩
-- Description of how this MoveElement relates to a particular [EcoElement](/reference/Eco/EcoOverview).
-- Description of how this MoveElement relates to a particular [EcoElement](/reference/Eco/EcoOverview).
-- Description of how this MoveElement relates to a particular [EcoElement](/reference/Eco/EcoOverview).
+- Bumpy road
 ## Related 🔺 RouteElements
-- Description of how this MoveElement relates to a particular [<route>RouteElement</route>](/reference/Route/RouteOverview).
-- Description of how this MoveElement relates to a particular [<route>RouteElement</route>](/reference/Route/RouteOverview).
-- Description of how this MoveElement relates to a particular [<route>RouteElement</route>](/reference/Route/RouteOverview).
+- 
 
 ## Related 💜 <neuro>NeuroElements</neuro>
-- Description of how this Move relates to a particular [<neuro>NeuroElement</neuro>](/reference/Neuro/NeuroOverview).
-- Description of how this Move relates to a particular [<neuro>NeuroElement</neuro>](/reference/Neuro/NeuroOverview).
-- Description of how this Move relates to a particular [<neuro>NeuroElement</neuro>](/reference/Neuro/NeuroOverview).
+- Fatigue
+- Meditation
+- Relaxation
+
 ## Quotes
 
 Quotes about this Move

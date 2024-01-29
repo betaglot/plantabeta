@@ -586,13 +586,18 @@ function sidebarReference() {
       text: '🔺 Route', collapsed: true, items: [
         { text: '🔺Route Overview', link: '/reference/Route/RouteOverview' },
         {
-          text: '🔺AreaFill', collapsed: true, items: [
-            { text: '🔺 AreaFill Overview', link: '/reference/Route/AreaFill/Overview' },
-            { text: '🔺 BoustroFill', link: '/reference/Route/AreaFill/BoustroFill' },
-            { text: '🔺 CircleFill', link: '/reference/Route/AreaFill/CircleFill' },
-            { text: '🔺 DiamondFill', link: '/reference/Route/AreaFill/DiamondFill' },
-            { text: '🔺 SquareFill', link: '/reference/Route/AreaFill/SquareFill' },
-            { text: '🔺 TriangleFill', link: '/reference/Route/AreaFill/TriangleFill' },
+          text: '🔺 Fill Algorithms', collapsed: true, items: [
+            { text: '🔺 Fill Algorithms Overview', link: '/reference/Route/FillAlgorithm/Overview' },
+            { text: '🔺 BoustroFill', link: '/reference/Route/FillAlgorithm/BoustroFill' },
+            { text: '🔺 CircleFill', link: '/reference/Route/FillAlgorithm/CircleFill' },
+            { text: '🔺 DiamondFill', link: '/reference/Route/FillAlgorithm/DiamondFill' },
+            { text: '🔺 SquareFill', link: '/reference/Route/FillAlgorithm/SquareFill' },
+            { text: '🔺 TriangleFill', link: '/reference/Route/FillAlgorithm/TriangleFill' },
+            { text: '🔺 ChunkFill', link: '/reference/Route/FillAlgorithm/ChunkFill' },
+            { text: '🔺 BackFill', link: '/reference/Route/FillAlgorithm/BackFill' },
+            { text: '🔺 OpenEndedFill', link: '/reference/Route/FillAlgorithm/OpenEndedFill' },
+            { text: '🔺 PerimeterFill', link: '/reference/Route/FillAlgorithm/PerimeterFill' },
+            { text: '🔺 TypewriterFill', link: '/reference/Route/FillAlgorithm/TypewriterFill' },
 
           ]
         },
@@ -612,17 +617,6 @@ function sidebarReference() {
         {
           text: '🔺 ObstacleFill', collapsed: true, items: [
             { text: '🔺 ObstacleFill Overview', link: '/reference/Route/ObstacleFill/Overview' },
-          ]
-        },
-        {
-          text: '🔺 PieceFill', collapsed: true, items: [
-            { text: '🔺 PieceFill Overview', link: '/reference/Route/PieceFill/Overview' },
-            { text: '🔺 AreaFill', link: '/reference/Route/PieceFill/AreaFill' },
-            { text: '🔺 BackFill', link: '/reference/Route/PieceFill/BackFill' },
-            { text: '🔺 OpenEndedFill', link: '/reference/Route/PieceFill/OpenEndedFill' },
-            { text: '🔺 PerimeterFill', link: '/reference/Route/PieceFill/PerimeterFill' },
-            { text: '🔺 TypewriterFill', link: '/reference/Route/PieceFill/TypewriterFill' },
-
           ]
         },
         {
