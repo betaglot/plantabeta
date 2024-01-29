@@ -1,5 +1,7 @@
 # 🛠 Planter as Computer
 
+![PythonLogo](/Python/PythonLogo.png)
+
 ## What is Computation?
 
 ::: tip Definition of Computation
