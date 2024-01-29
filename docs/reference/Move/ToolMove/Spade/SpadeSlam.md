@@ -1,4 +1,10 @@
-# <move>Spade Slam</move>
+::: details 🛠
+
+
+
+:::
+
+# 🟠 <move>Spade Slam</move> 🟠
 
 
 ![MoveImage](/Move/MoveImage.png)

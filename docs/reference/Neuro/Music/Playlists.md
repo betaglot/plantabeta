@@ -1,3 +1,9 @@
+::: details 🛠
+
+
+
+:::
+
 # 💜 <neuro>Playlists</neuro> 💜
 
 ![NeuroImage](/Neuro/NeuroImage.png)

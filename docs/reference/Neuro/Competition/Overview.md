@@ -1,1 +1,7 @@
+::: details 🛠
+
+
+
+:::
+
 # 💜 <neuro>Competition </neuro>💜

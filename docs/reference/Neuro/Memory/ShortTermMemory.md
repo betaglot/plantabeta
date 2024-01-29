@@ -1,3 +1,9 @@
+::: details 🛠
+
+
+
+:::
+
 # <neuro>Short Term Memory</neuro>
 
 ![NeuroImage](/Neuro/NeuroImage.png)

@@ -1,3 +1,9 @@
+::: details 🛠
+
+
+
+:::
+
 # 🟩  <eco>LogObstacle</eco> 🟩
 
 

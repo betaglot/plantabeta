@@ -1,3 +1,9 @@
+::: details 🛠
+
+
+
+:::
+
 # 🔺 <route>ElasticSpacing </route>🔺
 
 ![RouteImage](/Route/RouteImage.png)

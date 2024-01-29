@@ -1,1 +1,7 @@
+::: details 🛠
+
+
+
+:::
+
 # 🔷 <beta>BetaDiagram</beta> 🔷

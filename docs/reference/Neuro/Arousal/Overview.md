@@ -1,3 +1,9 @@
+::: details 🛠
+
+
+
+:::
+
 # <neuro>💜 Arousal 💜</neuro>
 
 ::: warning Not Sexual Arousal

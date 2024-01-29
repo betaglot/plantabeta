@@ -1,3 +1,9 @@
+::: details 🛠
+
+
+
+:::
+
 # 💜 <neuro>EcoJudgement </neuro>💜
 
 ![NeuroImage](/Neuro/NeuroImage.png)

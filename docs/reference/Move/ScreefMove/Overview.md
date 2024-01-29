@@ -1,3 +1,9 @@
+::: details 🛠
+
+
+
+:::
+
 # 🟠 <move>Screef Overview </move>🟠
 
 ## Screef Anatomy

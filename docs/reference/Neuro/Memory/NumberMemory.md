@@ -1,3 +1,9 @@
+::: details 🛠
+
+
+
+:::
+
 # <neuro>Number Memory</neuro>
 
 ## Mnemonics

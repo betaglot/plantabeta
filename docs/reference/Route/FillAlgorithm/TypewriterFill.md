@@ -1,3 +1,9 @@
+::: details 🛠
+
+
+
+:::
+
 # 🔺 <route>TypewriterFill </route>🔺
 
 TypewriterFill != BoustroFill

@@ -1,3 +1,9 @@
+::: details 🛠
+
+
+
+:::
+
 # 🔺 <route>HighFlag </route>🔺
 
 ## Where in Eco?

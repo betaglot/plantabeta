@@ -1,3 +1,9 @@
+::: details 🛠
+
+
+
+:::
+
 # 🟠 <move>Body Overview </move>🟠
 
 ## Body Anatomy

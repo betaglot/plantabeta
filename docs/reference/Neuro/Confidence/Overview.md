@@ -1,3 +1,9 @@
+::: details 🛠
+
+
+
+:::
+
 # 💜 <neuro>Confidence </neuro>💜
 
 ![NeuroImage](/Neuro/NeuroImage.png)

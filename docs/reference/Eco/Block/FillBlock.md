@@ -1,3 +1,9 @@
+::: details 🛠
+
+
+
+:::
+
 # 🟩  <eco>FillBlock </eco>🟩
 
 ## FillBlock Purpose

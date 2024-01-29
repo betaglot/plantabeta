@@ -1,3 +1,9 @@
+::: details 🛠
+
+
+
+:::
+
 # 🟠 <move>NeutralShoulderPosture</move> 🟠
 
 

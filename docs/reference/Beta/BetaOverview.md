@@ -4,6 +4,12 @@ layout: doc
 
 
 
+::: details 🛠
+
+
+
+:::
+
 # 🔷 <beta>What is Beta?</beta> 🔷
 
 ![BetaLogo](/BetaLogo.png)

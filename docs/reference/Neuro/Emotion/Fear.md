@@ -1,3 +1,9 @@
+::: details 🛠
+
+
+
+:::
+
 # 💜 <neuro>Fear </neuro>💜
 
 ## Doubt

@@ -1,3 +1,9 @@
+::: details 🛠
+
+
+
+:::
+
 # 💜 <neuro>BagUpTime </neuro>💜
 
 ![NeuroImage](/Neuro/NeuroImage.png)

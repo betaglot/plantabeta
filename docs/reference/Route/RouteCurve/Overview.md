@@ -1,3 +1,9 @@
+::: details 🛠
+
+
+
+:::
+
 # 🔺 <route>RouteCurve Overview </route>🔺
 
 ## What is a RouteCurve?

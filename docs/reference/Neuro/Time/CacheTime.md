@@ -1,3 +1,9 @@
+::: details 🛠
+
+
+
+:::
+
 # 💜 <neuro>CacheTime </neuro>💜
 
 ![NeuroImage](/Neuro/NeuroImage.png)

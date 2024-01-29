@@ -1,3 +1,9 @@
+::: details 🛠
+
+
+
+:::
+
 # 🟠 <move>Glove Overview </move>🟠
 
 ## Glove Anatomy

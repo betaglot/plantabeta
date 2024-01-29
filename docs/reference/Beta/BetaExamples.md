@@ -1,3 +1,9 @@
+::: details 🛠
+
+
+
+:::
+
 # 🔷 <beta>Beta Examples</beta> 🔷
 
 

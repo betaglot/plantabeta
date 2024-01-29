@@ -1,3 +1,9 @@
+::: details 🛠
+
+
+
+:::
+
 # 💜 <neuro>Anger </neuro>💜
 
 ![NeuroImage](/Neuro/NeuroImage.png)

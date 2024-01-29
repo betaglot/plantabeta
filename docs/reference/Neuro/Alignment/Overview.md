@@ -1,3 +1,9 @@
+::: details 🛠
+
+
+
+:::
+
 # 💜 <neuro>Alignment Overview</neuro> 💜
 
 ## RectilinearAlignment

@@ -1,3 +1,9 @@
+::: details 🛠
+
+
+
+:::
+
 # 💜 <neuro>Neuro Overview </neuro>💜
 
 ::: danger

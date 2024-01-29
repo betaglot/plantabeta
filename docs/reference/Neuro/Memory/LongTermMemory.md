@@ -1,3 +1,9 @@
+::: details 🛠
+
+
+
+:::
+
 # <neuro>Long Term Memory</neuro>
 
 ![NeuroImage](/Neuro/NeuroImage.png)

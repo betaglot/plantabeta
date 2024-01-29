@@ -1,3 +1,9 @@
+::: details 🛠
+
+
+
+:::
+
 # 🟠 <move>BagOn </move>🟠
 
 ![MoveImage](/Move/MoveImage.png)

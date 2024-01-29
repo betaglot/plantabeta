@@ -1,3 +1,9 @@
+::: details 🛠
+
+
+
+:::
+
 # 💜 <neuro>SpadeSound </neuro>💜
 
 ![NeuroImage](/Neuro/NeuroImage.png)

@@ -1,3 +1,9 @@
+::: details 🛠
+
+
+
+:::
+
 # 💜 <neuro>MindfulBreathing</neuro> 💜
 
 ![NeuroImage](/Neuro/NeuroImage.png)

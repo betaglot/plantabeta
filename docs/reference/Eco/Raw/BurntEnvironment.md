@@ -1,1 +1,7 @@
+::: details 🛠
+
+
+
+:::
+
 # 🟩  <eco>BurntLand</eco> 🟩

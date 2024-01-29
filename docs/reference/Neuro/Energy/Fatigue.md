@@ -1,3 +1,9 @@
+::: details 🛠
+
+
+
+:::
+
 # 💜 <neuro>Fatigue </neuro>💜
 
 ![NeuroImage](/Neuro/NeuroImage.png)

@@ -1,3 +1,9 @@
+::: details 🛠
+
+
+
+:::
+
 # 🔺 <route>PerimeterLine </route>🔺
 
 ## 'L's

@@ -1,3 +1,9 @@
+::: details 🛠
+
+
+
+:::
+
 # 🟠 <move>BagDeadlift </move>🟠
 
 ![MoveImage](/Move/MoveImage.png)

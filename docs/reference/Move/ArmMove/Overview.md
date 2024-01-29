@@ -1,3 +1,9 @@
+::: details 🛠
+
+
+
+:::
+
 # 🟠 <move>Arm Overview </move>🟠
 
 ## Arm Anatomy

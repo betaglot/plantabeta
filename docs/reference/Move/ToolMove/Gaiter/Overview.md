@@ -1,3 +1,9 @@
+::: details 🛠
+
+
+
+:::
+
 # 🟠 <move>Gaiter Overview</move> 🟠
 
 ## Gaiter Anatomy

@@ -1,3 +1,9 @@
+::: details 🛠
+
+
+
+:::
+
 # 💜 <neuro>Decision Overview </neuro>💜
 
 ## Conscious Decision

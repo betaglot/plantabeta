@@ -1,3 +1,9 @@
+::: details 🛠
+
+
+
+:::
+
 # <route>ObstacleClusterFill</route>
 
 ## Definition: Cluster

@@ -1,3 +1,9 @@
+::: details 🛠
+
+
+
+:::
+
 # <neuro>Working Memory</neuro>
 
 ![NeuroImage](/Neuro/NeuroImage.png)

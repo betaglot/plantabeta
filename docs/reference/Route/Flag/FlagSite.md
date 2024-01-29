@@ -1,3 +1,9 @@
+::: details 🛠
+
+
+
+:::
+
 # 🔺 <route>FlagSite </route>🔺
 
 ## StumpFlag

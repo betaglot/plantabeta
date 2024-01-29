@@ -1,3 +1,9 @@
+::: details 🛠
+
+
+
+:::
+
 # 🟠 <move>Foot Overview </move>🟠
 
 ## Foot Anatomy

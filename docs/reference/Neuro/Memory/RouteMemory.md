@@ -1,3 +1,9 @@
+::: details 🛠
+
+
+
+:::
+
 # <neuro>RouteMemory</neuro>
 
 ## Flag is a Mnemonic for RouteMemory

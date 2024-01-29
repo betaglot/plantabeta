@@ -1,3 +1,9 @@
+::: details 🛠
+
+
+
+:::
+
 # 🟩  <eco>Density Overview</eco> 🟩
 
 ## Density Value

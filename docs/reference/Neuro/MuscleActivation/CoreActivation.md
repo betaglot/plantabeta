@@ -1,3 +1,9 @@
+::: details 🛠
+
+
+
+:::
+
 # 💜 <neuro>CoreActivation</neuro> 💜
 
 ![NeuroImage](/Neuro/NeuroImage.png)

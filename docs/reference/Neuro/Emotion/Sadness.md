@@ -1,3 +1,9 @@
+::: details 🛠
+
+
+
+:::
+
 # 💜 <neuro>Sadness </neuro>💜
 
 ![NeuroImage](/Neuro/NeuroImage.png)

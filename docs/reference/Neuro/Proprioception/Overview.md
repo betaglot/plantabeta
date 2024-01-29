@@ -1,3 +1,9 @@
+::: details 🛠
+
+
+
+:::
+
 # 💜 <neuro>Proprioception</neuro> 💜
 
 ![NeuroImage](/Neuro/NeuroImage.png)

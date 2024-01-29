@@ -1,3 +1,9 @@
+::: details 🛠
+
+
+
+:::
+
 # 🟠 <move>Hole Overview </move>🟠
 
 ## Hole Anatomy

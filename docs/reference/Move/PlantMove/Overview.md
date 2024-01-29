@@ -1,3 +1,9 @@
+::: details 🛠
+
+
+
+:::
+
 # 🟠 <move>Plant Overview </move>🟠
 
 ## Plant Anatomy

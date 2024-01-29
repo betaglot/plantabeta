@@ -1,3 +1,9 @@
+::: details 🛠
+
+
+
+:::
+
 # 💜 <neuro>Soil Sound </neuro>💜
 
 ## SpadeSoilTest

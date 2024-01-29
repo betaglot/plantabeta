@@ -1,3 +1,9 @@
+::: details 🛠
+
+
+
+:::
+
 # 🟠 <move>Cache Overview</move> 🟠
 
 ![CacheOverview](/Move/CacheOverview.png)

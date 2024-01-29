@@ -1,3 +1,9 @@
+::: details 🛠
+
+
+
+:::
+
 # 🟠 <move>Move Overview </move>🟠
 
 ## Orange Circle Emoji 🟠

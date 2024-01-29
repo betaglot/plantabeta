@@ -1,3 +1,9 @@
+::: details 🛠
+
+
+
+:::
+
 # 💜 <neuro>MoveTiming </neuro>💜
 
 ## PlantingRate

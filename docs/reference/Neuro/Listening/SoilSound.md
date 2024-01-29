@@ -1,3 +1,9 @@
+::: details 🛠
+
+
+
+:::
+
 # 💜 <neuro>SoilSound </neuro>💜
 
 ![NeuroImage](/Neuro/NeuroImage.png)

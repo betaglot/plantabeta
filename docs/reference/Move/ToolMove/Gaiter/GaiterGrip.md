@@ -1,3 +1,9 @@
+::: details 🛠
+
+
+
+:::
+
 # 🟠 <move>GaiterGrip </move>🟠
 
 ::: info

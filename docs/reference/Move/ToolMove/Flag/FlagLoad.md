@@ -1,3 +1,9 @@
+::: details 🛠
+
+
+
+:::
+
 # 🟠 <move>FlagLoad </move>🟠
 
 ![MoveImage](/Move/MoveImage.png)

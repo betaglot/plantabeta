@@ -1,3 +1,9 @@
+::: details 🛠
+
+
+
+:::
+
 # 💜 <neuro>Compression Sense </neuro>💜
 
 ![NeuroImage](/Neuro/NeuroImage.png)

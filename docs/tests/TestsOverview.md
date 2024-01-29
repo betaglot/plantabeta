@@ -1,3 +1,9 @@
+::: details 🛠
+
+
+
+:::
+
 # Tests
 
 Multiple choice tests, where Planters choose from a selection of images or a selection of text answers.

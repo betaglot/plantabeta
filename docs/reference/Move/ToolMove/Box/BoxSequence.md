@@ -1,3 +1,9 @@
+::: details 🛠
+
+
+
+:::
+
 # 🟠 <move>Box Sequence</move> 🟠
 
 ## BoxLoad(Truck)

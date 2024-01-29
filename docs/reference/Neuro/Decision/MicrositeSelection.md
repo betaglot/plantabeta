@@ -1,3 +1,9 @@
+::: details 🛠
+
+
+
+:::
+
 # 💜 <neuro>MicrositeSelection </neuro>💜
 
 <!-- - Choose the particular side of the stump -->

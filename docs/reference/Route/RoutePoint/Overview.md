@@ -1,3 +1,9 @@
+::: details 🛠
+
+
+
+:::
+
 # <route>Route Point Overview</route>
 
 ## Site vs Microsite

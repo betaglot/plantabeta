@@ -1,3 +1,9 @@
+::: details 🛠
+
+
+
+:::
+
 # 💜 <neuro>GoOrNoGo </neuro>💜
 
 ## Unplantable?

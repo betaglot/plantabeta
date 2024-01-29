@@ -1,1 +1,7 @@
+::: details 🛠
+
+
+
+:::
+
 # Multiple Choice

@@ -1,3 +1,9 @@
+::: details 🛠
+
+
+
+:::
+
 # 🟠 <move>GaiterOff </move>🟠
 
 ![MoveImage](/Move/MoveImage.png)

@@ -1,3 +1,9 @@
+::: details 🛠
+
+
+
+:::
+
 # 💜 <neuro>Algorithm </neuro>💜
 
 ![NeuroImage](/Neuro/NeuroImage.png)

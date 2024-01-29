@@ -1,3 +1,9 @@
+::: details 🛠
+
+
+
+:::
+
 # 🟩  <eco>StumpObstacle</eco> 🟩
 
 ![EcoImage](/Eco/EcoImage.png)

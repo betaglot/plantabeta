@@ -1,3 +1,9 @@
+::: details 🛠
+
+
+
+:::
+
 # 🟠 <move>ArmBlock </move>🟠
 
 ![MoveImage](/Move/MoveImage.png)

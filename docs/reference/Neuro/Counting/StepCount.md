@@ -1,3 +1,9 @@
+::: details 🛠
+
+
+
+:::
+
 # 💜 <neuro>StepCount </neuro>💜
 
 ![NeuroImage](/Neuro/NeuroImage.png)

@@ -1,3 +1,9 @@
+::: details 🛠
+
+
+
+:::
+
 # 💜 <neuro>Disgust </neuro>💜
 
 ![NeuroImage](/Neuro/NeuroImage.png)

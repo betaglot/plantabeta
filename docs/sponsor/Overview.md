@@ -1,3 +1,9 @@
+::: details 🛠
+
+
+
+:::
+
 # Become a [Plantbeta](/guide/What/WhatPlantbeta) Sponsor
 
 Plantbeta is completely free to use. The tremendous amount of effort needed to maintain and develop new features for the project is only made sustainable thanks to the generous financial backing of our sponsors.

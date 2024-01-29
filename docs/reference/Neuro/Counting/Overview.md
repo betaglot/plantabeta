@@ -1,3 +1,9 @@
+::: details 🛠
+
+
+
+:::
+
 # 💜 <neuro>Counting </neuro>💜
 
 ![NeuroImage](/Neuro/NeuroImage.png)

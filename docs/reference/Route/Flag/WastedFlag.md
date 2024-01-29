@@ -1,3 +1,9 @@
+::: details 🛠
+
+
+
+:::
+
 # 🔺 <route>WastedFlag </route>🔺
 
 - LowFlag

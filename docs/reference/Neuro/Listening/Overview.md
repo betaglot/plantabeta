@@ -1,3 +1,9 @@
+::: details 🛠
+
+
+
+:::
+
 # 💜 <neuro>Hearing</neuro> 💜
 
 ![NeuroImage](/Neuro/NeuroImage.png)

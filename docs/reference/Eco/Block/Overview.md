@@ -1,3 +1,9 @@
+::: details 🛠
+
+
+
+:::
+
 # 🟩  <eco>Block Overview</eco> 🟩
 
 ![Block](/Eco/Block.png)

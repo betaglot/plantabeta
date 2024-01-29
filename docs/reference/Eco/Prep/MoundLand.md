@@ -1,3 +1,9 @@
+::: details 🛠
+
+
+
+:::
+
 # 🟩  <eco>MoundLand</eco> 🟩
 
 ## Mounding Error

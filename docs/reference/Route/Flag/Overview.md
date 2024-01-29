@@ -1,3 +1,9 @@
+::: details 🛠
+
+
+
+:::
+
 # 🔺 <route>Flag Overview </route>🔺
 
 Tool=Flagger

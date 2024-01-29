@@ -1,3 +1,9 @@
+::: details 🛠
+
+
+
+:::
+
 # 🟠 <move>Bag Overview </move>🟠
 
 ## Bag Anatomy

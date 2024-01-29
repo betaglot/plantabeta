@@ -1,1 +1,7 @@
-# <move>GloveSequence</move>
+::: details 🛠
+
+
+
+:::
+
+# 🟠 <move>GloveSequence</move> 🟠

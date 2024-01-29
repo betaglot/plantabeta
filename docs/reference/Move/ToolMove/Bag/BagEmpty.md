@@ -1,3 +1,9 @@
+::: details 🛠
+
+
+
+:::
+
 # 🟠 <move>BagEmpty </move>🟠
 
 ![MoveImage](/Move/MoveImage.png)

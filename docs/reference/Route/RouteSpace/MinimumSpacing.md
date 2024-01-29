@@ -1,3 +1,9 @@
+::: details 🛠
+
+
+
+:::
+
 # 🔺 <route>MinimumSpacing </route>🔺
 
 - Space off Unburnt BurnPile

@@ -1,3 +1,9 @@
+::: details 🛠
+
+
+
+:::
+
 # 🔺 <route>BouncingFill </route>🔺
 
 ## 2PlanterBounceFill

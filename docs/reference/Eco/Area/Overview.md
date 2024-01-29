@@ -1,3 +1,9 @@
+::: details 🛠
+
+
+
+:::
+
 # 🟩  <eco>Area Overview</eco> 🟩 
 
 # AreaAnatomy

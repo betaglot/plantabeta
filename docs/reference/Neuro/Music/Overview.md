@@ -1,3 +1,9 @@
+::: details 🛠
+
+
+
+:::
+
 # 💜<neuro>🎼 Music </neuro>💜
 
 ![NeuroImage](/Neuro/NeuroImage.png)

@@ -1,3 +1,9 @@
+::: details 🛠
+
+
+
+:::
+
 # 🔺 <route>BeeLine</route> 🔺
 
 ## AlsoKnownAs

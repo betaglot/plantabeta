@@ -1,3 +1,9 @@
+::: details 🛠
+
+
+
+:::
+
 # 💜 <neuro>BundleCounting </neuro>💜
 
 ![NeuroImage](/Neuro/NeuroImage.png)

@@ -1,3 +1,9 @@
+::: details 🛠
+
+
+
+:::
+
 ![NeuroImage](/Neuro/NeuroImage.png)
 ## Questions about the Element
 

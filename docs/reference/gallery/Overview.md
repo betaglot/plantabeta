@@ -1,3 +1,9 @@
+::: details 🛠
+
+
+
+:::
+
 # Gallery
 
 Planters can submit photos to the gallery

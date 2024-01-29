@@ -1,3 +1,9 @@
+::: details 🛠
+
+
+
+:::
+
 # 💜 <neuro>Timer </neuro>💜
 
 ![NeuroImage](/Neuro/NeuroImage.png)

@@ -1,3 +1,9 @@
+::: details 🛠
+
+
+
+:::
+
 # 🟠 <move>Tool Overview</move> 🟠
 
 ## Tool List

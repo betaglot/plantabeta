@@ -1,3 +1,9 @@
+::: details 🛠
+
+
+
+:::
+
 # 💜 <neuro>Acceptance</neuro> 💜
 
 ## DiscomfortAcceptance

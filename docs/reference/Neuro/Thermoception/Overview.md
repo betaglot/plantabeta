@@ -1,3 +1,9 @@
+::: details 🛠
+
+
+
+:::
+
 # 💜 <neuro>Thermoception Overview</neuro> 💜
 
 ## HeatTransfer

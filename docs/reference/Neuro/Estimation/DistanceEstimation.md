@@ -1,3 +1,9 @@
+::: details 🛠
+
+
+
+:::
+
 # 💜 <neuro>DistancEstimation </neuro>💜
 
 ![NeuroImage](/Neuro/NeuroImage.png)

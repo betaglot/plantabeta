@@ -1,3 +1,9 @@
+::: details 🛠
+
+
+
+:::
+
 # 🟠 <move>Flag Overview </move>🟠
 
 ## Flag Anatomy

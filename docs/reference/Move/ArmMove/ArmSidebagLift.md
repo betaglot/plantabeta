@@ -1,3 +1,9 @@
+::: details 🛠
+
+
+
+:::
+
 # 🟠 <move>Arm Sidebag Lift</move> 🟠
 
 

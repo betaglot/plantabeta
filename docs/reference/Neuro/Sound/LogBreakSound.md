@@ -1,3 +1,9 @@
+::: details 🛠
+
+
+
+:::
+
 # 💜 <neuro>LogBreakSound</neuro> 💜
 
 ![NeuroImage](/Neuro/NeuroImage.png)

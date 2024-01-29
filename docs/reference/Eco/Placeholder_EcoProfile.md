@@ -1,3 +1,9 @@
+::: details 🛠
+
+
+
+:::
+
 
 ![EcoImage](/Eco/EcoImage.png)
 

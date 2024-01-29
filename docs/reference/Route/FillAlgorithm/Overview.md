@@ -1,3 +1,9 @@
+::: details 🛠
+
+
+
+:::
+
 # 🔺 <route>Fill Algorithm Overview </route>🔺
 
 ## Fill Algorithm
