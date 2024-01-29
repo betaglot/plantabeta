@@ -1,3 +1,9 @@
+---
+
+navbar: false
+sidebar: false
+---
+
 ::: details 🛠
 
 

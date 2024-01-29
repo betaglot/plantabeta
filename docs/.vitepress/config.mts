@@ -51,7 +51,7 @@ function sidebarDevelopment() {
     { text: 'Downloads', link: '/development/Downloads' },
     { text: 'DX', link: '/development/DX' },
     {
-      text: 'Graphics', collapsed: false, items: [
+      text: 'Graphics', collapsed: true, items: [
         { text: 'Beta Graphics', link: '/development/Graphics/BetaGraphic' },
         { text: 'DX Graphics', link: '/development/Graphics/BetaGraphic' },
         { text: 'Eco Graphics', link: '/development/Graphics/BetaGraphic' },
