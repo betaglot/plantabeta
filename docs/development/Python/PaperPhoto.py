@@ -563,5 +563,30 @@ PaperPhotoList = [
     '3321.jpg'
 ]
 
+
+"""
+Target Output  
+
+=================================================================
+
+::: info 0010.jpg
+
+```md
+![PaperPhoto](/PaperPhoto/0010.jpg)
+```
+
+![PaperPhoto](/PaperPhoto/0010.jpg)
+
+:::
+
+===================================================================
+
+"""
+
 for Paper in PaperPhotoList:
-    print(Paper)
+    print(f'::: info {Paper}')
+    print('```md')
+    print(f'![PaperPhoto](/PaperPhoto/{Paper})')
+    print('```')
+    print(f'![PaperPhoto](/PaperPhoto/{Paper})')
+    print(':::')
