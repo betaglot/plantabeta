@@ -1,3 +1,9 @@
+::: details 🛠
+
+
+
+:::
+
 # Rookie Planter
 
 > A Planter who has not completed their first planting season.

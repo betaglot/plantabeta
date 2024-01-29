@@ -1,3 +1,9 @@
+::: details 🛠
+
+
+
+:::
+
 # 🛠 Sequence
 
 All sequences are lists 

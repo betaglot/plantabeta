@@ -1,3 +1,9 @@
+::: details 🛠
+
+
+
+:::
+
 # 🛠 Planter as Computer
 
 ![PythonLogo](/Python/PythonLogo.png)

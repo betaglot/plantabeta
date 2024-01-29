@@ -1,3 +1,9 @@
+::: details 🛠
+
+
+
+:::
+
 # 🛠 Interdisciplinary
 
 ## Design

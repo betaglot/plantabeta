@@ -1,3 +1,9 @@
+::: details 🛠
+
+
+
+:::
+
 # Navigate 
 
 ## Website tour videos

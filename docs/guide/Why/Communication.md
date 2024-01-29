@@ -1,3 +1,9 @@
+::: details 🛠
+
+
+
+:::
+
 # Better Communication
 
 ## Greater Vocabulary

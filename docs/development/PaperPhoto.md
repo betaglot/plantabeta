@@ -1,3 +1,9 @@
+::: details 🛠
+
+
+
+:::
+
 <!-- <script setup>
 import PaperPhotoGallery from '../components/PaperPhotoGallery.vue'
 </script> -->

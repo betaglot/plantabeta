@@ -1,3 +1,9 @@
+::: details 🛠
+
+
+
+:::
+
 # Wildfire
 
 All of Canada's burnt Ecos will need to be replanted as efficiently as possible. Plantbeta increases the efficiency of every Planter who studies it.

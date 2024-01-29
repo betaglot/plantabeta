@@ -1,3 +1,9 @@
+::: details 🛠
+
+
+
+:::
+
 # 🛠 Downloads
 
 Free to download resources here

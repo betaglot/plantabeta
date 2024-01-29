@@ -1,3 +1,10 @@
+::: details 🛠
+
+
+
+:::
+
+
 # Planter Instructor
 
 > A person who teaches RookiePlanters and ExperiencedPlanters how to improve their planting ability.

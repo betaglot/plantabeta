@@ -1,3 +1,9 @@
+::: details 🛠
+
+
+
+:::
+
 # What is an Element?
 
 > An element is one of the parts of something that makes it work, or a quality that makes someone or something effective.

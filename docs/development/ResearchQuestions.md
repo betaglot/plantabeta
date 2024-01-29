@@ -1,3 +1,9 @@
+::: details 🛠
+
+
+
+:::
+
 # 🛠 Questions about Planting and Plantbeta
 
 - What is the most important piece of information that a Planter needs to know?

@@ -1,3 +1,9 @@
+::: details 🛠
+
+
+
+:::
+
 # Planter Supervisor
 
 > A person who manages a crew of Planters

@@ -1,3 +1,9 @@
+::: details 🛠
+
+
+
+:::
+
 # Gear List
 
 

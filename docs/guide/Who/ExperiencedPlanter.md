@@ -1,3 +1,9 @@
+::: details 🛠
+
+
+
+:::
+
 # Experienced Planter
 
 > A Planter who has completed their first planting season.

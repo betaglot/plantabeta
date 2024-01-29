@@ -1,3 +1,9 @@
+::: details 🛠
+
+
+
+:::
+
 # Potential Planter
 
 > A person who wants to become a Planter.

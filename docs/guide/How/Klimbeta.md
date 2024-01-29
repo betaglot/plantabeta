@@ -1,3 +1,9 @@
+::: details 🛠
+
+
+
+:::
+
 # Klimbeta
 
 ![Klimbeta_Plantbeta](/Klimbeta_Plantbeta.png)

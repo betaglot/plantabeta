@@ -1,3 +1,9 @@
+::: details 🛠
+
+
+
+:::
+
 # What is Tree Planting?
 
 ![InstaPhoto033](/InstaPhoto033.jpg)

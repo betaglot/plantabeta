@@ -1,3 +1,9 @@
+::: details 🛠
+
+
+
+:::
+
 # To Steepen Learning Curve
 
 [InsertImage] Learning Curve Graph

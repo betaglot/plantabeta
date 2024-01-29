@@ -1,3 +1,9 @@
+::: details 🛠
+
+
+
+:::
+
 # What to bring as a Motel Planter?
 
 - Planters which don't live in tents, ie not in a bush camp.

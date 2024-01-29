@@ -1,3 +1,9 @@
+::: details 🛠
+
+
+
+:::
+
 # 🛠 DX: Developer Experience
 
 ## Typescript
@@ -18,3 +24,12 @@
 
 ### Extensions
 
+```md
+
+::: details 🛠
+
+
+
+:::
+
+```

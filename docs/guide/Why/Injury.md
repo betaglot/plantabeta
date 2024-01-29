@@ -1,3 +1,9 @@
+::: details 🛠
+
+
+
+:::
+
 # Prevent Needless Injury
 
 - Injury due to lack of knowledge
