@@ -1,4 +1,11 @@
-# 🟠 <move>GaiterOn </move>🟠
+# 🟠 <move>GaiterGrip </move>🟠
+
+::: info
+
+
+
+:::
+
 
 ![MoveImage](/Move/MoveImage.png)
 

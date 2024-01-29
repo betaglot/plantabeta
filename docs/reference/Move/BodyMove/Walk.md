@@ -53,8 +53,6 @@
 
 ## ElementRelationshipsGraph
 
-
-
 <iframe 
     width="100%" 
     height="500" 
@@ -68,18 +66,12 @@
 - Description of how this Walk relates to a particular [<move>MoveElement</move>](/reference/Move/MoveOverview).
 
 ## Related 🟩<eco> EcoElements </eco>🟩
-- Description of how this MoveElement relates to a particular [EcoElement](/reference/Eco/EcoOverview).
-- Description of how this MoveElement relates to a particular [EcoElement](/reference/Eco/EcoOverview).
-- Description of how this MoveElement relates to a particular [EcoElement](/reference/Eco/EcoOverview).
+- 
 ## Related 🔺 RouteElements
-- Description of how this MoveElement relates to a particular [<route>RouteElement</route>](/reference/Route/RouteOverview).
-- Description of how this MoveElement relates to a particular [<route>RouteElement</route>](/reference/Route/RouteOverview).
-- Description of how this MoveElement relates to a particular [<route>RouteElement</route>](/reference/Route/RouteOverview).
+- 
 
 ## Related 💜 <neuro>NeuroElements</neuro>
-- Description of how this Move relates to a particular [<neuro>NeuroElement</neuro>](/reference/Neuro/NeuroOverview).
-- Description of how this Move relates to a particular [<neuro>NeuroElement</neuro>](/reference/Neuro/NeuroOverview).
-- Description of how this Move relates to a particular [<neuro>NeuroElement</neuro>](/reference/Neuro/NeuroOverview).
+- 
 ## Quotes
 
 Quotes about this Move

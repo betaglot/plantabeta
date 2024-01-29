@@ -31,8 +31,6 @@ Answer 3
 
 ## ElementRelationshipsGraph
 
-
-
 <iframe 
     width="100%" 
     height="500" 

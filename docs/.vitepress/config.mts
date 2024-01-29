@@ -390,6 +390,7 @@ function sidebarReference() {
             {
               text: '🟠 Bag', collapsed: true, items: [
                 { text: 'Overview', link: '/reference/Move/ToolMove/Bag/Overview' },
+                { text: 'BagGrip', link: '/reference/Move/ToolMove/Bag/BagGrip' },
                 { text: 'Bag Sequence', link: '/reference/Move/ToolMove/Bag/BagSequence' },
                 { text: 'BagAdjustment', link: '/reference/Move/ToolMove/Bag/BagAdjustment' },
                 { text: 'BagDeadlift', link: '/reference/Move/ToolMove/Bag/BagDeadlift' },
@@ -405,6 +406,7 @@ function sidebarReference() {
               text: '🟠 Boot ', collapsed: true, items: [
                 { text: 'Overview', link: '/reference/Move/ToolMove/Boot/Overview' },
                 { text: 'Boot Sequence', link: '/reference/Move/ToolMove/Boot/BootSequence' },
+                { text: 'BootGrip', link: '/reference/Move/ToolMove/Boot/BootGrip' },
                 { text: 'BootScreef', link: '/reference/Move/ToolMove/Boot/BootScreef' },
                 { text: 'LaceKnot', link: '/reference/Move/ToolMove/Boot/LaceKnot' },
               ]
@@ -413,6 +415,7 @@ function sidebarReference() {
               text: '🟠 Box', collapsed: true, items: [
                 { text: 'Overview', link: '/reference/Move/ToolMove/Box/Overview' },
                 { text: 'Box Sequence', link: '/reference/Move/ToolMove/Box/BoxSequence' },
+                { text: 'BoxGrip', link: '/reference/Move/ToolMove/Box/BoxGrip' },
               ]
             },
             {
@@ -427,6 +430,7 @@ function sidebarReference() {
               text: '🟠 Flag', collapsed: true, items: [
                 { text: 'Overview', link: '/reference/Move/ToolMove/Flag/Overview' },
                 { text: 'Flag Sequence', link: '/reference/Move/ToolMove/Flag/FlagSequence' },
+                { text: 'FlagGrip', link: '/reference/Move/ToolMove/Flag/FlagGrip' },
                 { text: 'FlagErrorRecovery', link: '/reference/Move/ToolMove/Flag/FlagErrorRecovery' },
                 { text: 'FlagKnot', link: '/reference/Move/ToolMove/Flag/FlagKnot' },
                 { text: 'FlagLoad', link: '/reference/Move/ToolMove/Flag/FlagLoad' },
@@ -442,6 +446,8 @@ function sidebarReference() {
               text: '🟠 Gaiter ', collapsed: true, items: [
 
                 { text: 'Overview', link: '/reference/Move/ToolMove/Gaiter/Overview' },
+                { text: 'Gaiter Sequence', link: '/reference/Move/ToolMove/Gaiter/GaiterSequence' },
+                { text: 'GaiterGrip', link: '/reference/Move/ToolMove/Gaiter/GaiterGrip' },
                 { text: 'GaiterOn', link: '/reference/Move/ToolMove/Gaiter/GaiterOn' },
                 { text: 'GaiterOff', link: '/reference/Move/ToolMove/Gaiter/GaiterOff' },
               ]
@@ -450,12 +456,15 @@ function sidebarReference() {
               text: '🟠 Glove', collapsed: true, items: [
                 { text: 'Overview', link: '/reference/Move/ToolMove/Glove/Overview' },
                 { text: 'Glove Sequence', link: '/reference/Move/ToolMove/Glove/GloveSequence' },
+                { text: 'GloveGrip', link: '/reference/Move/ToolMove/Glove/GloveGrip' },
+
               ]
             },
             {
               text: '🟠 Spade', collapsed: true, items: [
-                { text: '🟠 Overview', link: '/reference/Move/ToolMove/Spade/Overview' },
+                { text: '🟠 Overview', link: '/reference/Move/ToolMove/Spade/Overview' },        
                 { text: '🟠 Spade Sequence', link: '/reference/Move/ToolMove/Spade/SpadeSequence' },
+                { text: '🟠 SpadeGrip', link: '/reference/Move/ToolMove/Spade/SpadeGrip' },
                 { text: '🟠 SpadeChop', link: '/reference/Move/ToolMove/Spade/SpadeChop' },
                 { text: '🟠 SpadePogo', link: '/reference/Move/ToolMove/Spade/SpadePogo' },
                 { text: '🟠 SpadeProp', link: '/reference/Move/ToolMove/Spade/SpadeProp' },

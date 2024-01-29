@@ -1,5 +1,11 @@
 # 🛠 Sequence
 
+All sequences are lists 
+
+```py
+PythonDataType = List[]
+```
+
 Standardize the way that sequences of BetaElements are represented in code and graphically. 
 
 💜 Graphic

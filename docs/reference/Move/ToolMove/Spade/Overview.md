@@ -1,3 +1,9 @@
+::: details 🛠
+
+
+
+:::
+ 
 # 🟠 <move>Spade Overview </move>🟠
 
 ## StaffSpade

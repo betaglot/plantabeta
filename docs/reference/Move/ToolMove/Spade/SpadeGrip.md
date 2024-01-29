@@ -1,4 +1,9 @@
-# 🟠 <move>GaiterOn </move>🟠
+::: details 🛠
+
+![PaperPhoto](/PaperPhoto/0016.jpg)
+
+:::
+# 🟠 <move>SpadeGrip </move>🟠
 
 ![MoveImage](/Move/MoveImage.png)
 
