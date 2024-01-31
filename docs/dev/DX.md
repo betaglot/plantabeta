@@ -16,11 +16,15 @@ A developer creates code and a writer creates the text presented to the planters
 
 - Shrubbery.py
 
-## Where to get Content?
+## Content Writing
 
 Content can be written outside of VScode, then inserted later.
 
 ### PaperMine
+
+Use images and video when describing all the properties of an element. 
+
+Look at a Spade while listing out all the properties of the spade instead of using a mental image. Concrete is less cognitively demanding. There is very little creativity when listing properties, they're just facts.
 
 ### TagSpaces
 

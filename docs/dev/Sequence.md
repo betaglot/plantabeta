@@ -18,6 +18,12 @@ Standardize the way that sequences of BetaElements are represented in code and g
 
 🔷 Code
 
+## Differentiate(Sequence, Supermove, Move, Submove, BodyMove)
+
+An ArmSequence is a list of ArmMoves performed in Parallel (BoxCarry), Concurrently (SpadeLift, TreeLoad)
+
+
+
 ## Control Flow Statements
 
 Control flow is the codified version of [Decision Making](/reference/Neuro/Decision/Overview)
