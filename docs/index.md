@@ -20,7 +20,7 @@ hero:
     - text: Test
       link: /tests/TestsOverview
     - text: Develop
-      link: /development/DevelopmentOverview
+      link: /dev/devOverview
     - text: Sponsor
       link: /sponsor/Overview
 
@@ -32,7 +32,7 @@ features:
   - icon: 🛠️
     title: Under Construction 
     details: Last Updated January 31, 2024. This website is a prototype, not the final product
-    link: /development/DevelopmentOverview
+    link: /dev/devOverview
   - icon: ⏳
     title: 95 days
     details: until May 5 start day!

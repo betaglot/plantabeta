@@ -39,7 +39,7 @@ Answer 3
 ## Elements Graph
 
 Graph which represents how this element is related to other elements in Plantbeta. 
-🛠 The Element Relationships Chart is still [under development](/development/ElementsGraph)
+🛠 The Element Relationships Chart is still [under development](/dev/ElementsGraph)
 
 
 <iframe 

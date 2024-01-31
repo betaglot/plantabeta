@@ -10,29 +10,29 @@ Plantbeta is constantly being expanded and improved. Plantbeta is being developp
 
 ## Contact
 
-::: tip Send an email to:
+<!-- ::: tip Send an email to:
 christopheralduncan@gmail.com
-:::
+::: -->
 
-## [Donate Media](/development/Donation)
+## [Donate Media](/dev/Donation)
 
 Donate Images, Video, Writings, Audio to Plantbeta.
 
-## [Feedback](/development/Feedback)
+## [Feedback](/dev/Feedback)
 
 Give feedback to Plantbeta about what works and doesn't work well, what's unclear and what you've learned. 
 
-## [Research Questions](/development/ResearchQuestions)
+## [Research Questions](/dev/ResearchQuestions)
 
 A list of questions which have come up during the design process and don't have a good answer yet. 
 
-## [Roadmap](/development/Roadmap)
+## [Roadmap](/dev/Roadmap)
 
 Directions for future developments.
 
 Where can Plantbeta lead.
 
-## [Downloads](/development/Downloads)
+## [Downloads](/dev/Downloads)
 
 Download Printable resources
 

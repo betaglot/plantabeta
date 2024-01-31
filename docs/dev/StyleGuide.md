@@ -4,7 +4,7 @@
 
 :::
 
-# 🛠 Design Guide
+# 🛠 Style Guide
 
 https://developers.google.com/style
 
@@ -17,7 +17,7 @@ https://developers.google.com/style
 
 ## Bilingual
 
-{ French,  English }
+ French,  English
 
 ## Tense
 
@@ -35,20 +35,28 @@ https://developers.google.com/style/person
 ## Color
 
 ### MoveColor
-
-```css
+```ts
 #bf6a34
 ```
-
 ### RouteColor
+```ts
+#f44747
+```
 ### BetaColor
+```ts
+#569cd6 
+```
 ### EcoColor
+```ts
+#6a9955 
+```
 ### NeuroColor
+```ts
+#c586c0 
+```
 ### BackgroundColor
-#bf6a34
-route { color: #f44747 }
-neuro { color: #c586c0 }
-beta { color: #569cd6 }
-eco { color: #6a9955 }
-bg { color: #1f1f1f }
+```ts
+#1f1f1f
+```
+
 

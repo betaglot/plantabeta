@@ -49,7 +49,7 @@
 - Walking while carrying all your gear. WalkIn towards your cache
 - WalkIn occurs when the truck can't drop you off close to your cache.
 - Sometimes some of your gear will be brought by your supervisor on with an ATV or being carried.
-    - Use case for a [Cart](/development/Tools#cart)
+    - Use case for a [Cart](/dev/Tools#cart)
 
 ### Deadwalk
 

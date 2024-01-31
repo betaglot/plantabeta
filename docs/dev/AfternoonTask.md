@@ -2,6 +2,8 @@
 
 In the afternoon it can be difficult to pay attention and it's not possible to consume caffeine to increase attention, so the best use of afternoon time is to explore. Explore and save what you found in Keep.
 
+A MorningTask is one  which requires high levels of concentration and where there is a clear goal. 
+
 ## Explore 
 
 ::: danger Danger: Instagram
@@ -10,11 +12,16 @@ Avoid <strong>Instagram</strong> during explorations, since it is designed to wa
 
 :::
 
+::: tip [OpenSource](/dev/)
+Open Source is the most important thing to understand for Plantbeta's growth and implementation. I need to become an expert. Play the wikipedia game.
+:::
 
 - D3.js
 - Python
 - Vue
 - Geomatics
+- HubermanLab website
+    - Figure out how they are coding the timestamps
 
 ## Forestry in BC
 
