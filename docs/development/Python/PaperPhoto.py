@@ -584,9 +584,9 @@ Target Output
 """
 
 for Paper in PaperPhotoList:
-    print(f'::: info {Paper}')
+    print(f'## {Paper}')
     print('```md')
     print(f'![PaperPhoto](/PaperPhoto/{Paper})')
     print('```')
     print(f'![PaperPhoto](/PaperPhoto/{Paper})')
-    print(':::')
+   
