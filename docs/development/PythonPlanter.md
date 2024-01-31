@@ -58,20 +58,22 @@ runtime errors |
 
 ## Computer Science
 
-
-
-
 - What are the computations that planters use?
-
 - Just like Python, all objects in a planter's experience are objects. 
-
-
 
 ## Data Types
 
+There is nothing too small to describe with code. Opening a water bottle can have a Sequence List
+
+
+
+### Object
+
+Every BetaElement is an object.
+
 ### List
 
-- Planting Sequence
+- Any Sequence
 - 
 -
 

@@ -6,19 +6,39 @@
 
 # 🛠 DX: Developer Experience
 
-## Typescript
+::: tip Difference Between Developer and Writer
+
+A developer creates code and a writer creates the text presented to the planters.
+
+:::
 
 ## Python
 
 - Shrubbery.py
 
-## Markdown
+## Where to get Content?
 
-## Vue
+Content can be written outside of VScode, then inserted later.
 
-## Database
+### PaperMine
 
-## Hosting
+### TagSpaces
+
+### Planting Videos
+
+## Frontend
+
+### Markdown
+
+### Vue
+
+## Backend
+
+## Typescript
+
+### Database
+
+### Hosting
 
 ## VSCode
 
@@ -33,3 +53,4 @@
 :::
 
 ```
+

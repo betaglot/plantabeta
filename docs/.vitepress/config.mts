@@ -43,10 +43,11 @@ export default defineConfig({
 
 function sidebarDevelopment() {
   return [
-    { text: 'Development Overview', link: '/development/Overview' },
+    { text: 'Development Overview', link: '/development/DevelopmentOverview' },
     { text: 'Contact', link: '/development/Contact' },
     { text: 'Academia', link: '/development/Academia' },
     { text: 'Data Visualization', link: '/development/ElementsGraph' },
+    { text: 'DesignGuide', link: '/development/DesignGuide' },
     { text: 'Donate Media', link: '/development/Donation' },
     { text: 'Downloads', link: '/development/Downloads' },
     { text: 'DX', link: '/development/DX' },
@@ -68,9 +69,11 @@ function sidebarDevelopment() {
     { text: 'Roadmap', link: '/development/Roadmap' },
     { text: 'Sequence', link: '/development/Sequence' },
     { text: 'Simulation', link: '/development/Simulation' },
+
     { text: 'Tagging', link: '/development/Tagging' },
     { text: 'NewTools', link: '/development/NewTools' },
     { text: 'UX', link: '/development/UX' },
+    { text: 'AfternoonTask', link: '/development/AfternoonTask' },
   ]
 }
 
