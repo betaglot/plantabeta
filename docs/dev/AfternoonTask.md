@@ -4,7 +4,9 @@ In the afternoon it can be difficult to pay attention and it's not possible to c
 
 A MorningTask is one  which requires high levels of concentration and where there is a clear goal. 
 
-## Explore 
+## Exploratory Learning
+
+Follow Rabbit holes, turn up the curiosity, there is no definite place to get to, just wander around the topic to familiarize yourself with it.
 
 ::: danger Danger: Instagram
 
@@ -16,12 +18,24 @@ Avoid <strong>Instagram</strong> during explorations, since it is designed to wa
 Open Source is the most important thing to understand for Plantbeta's growth and implementation. I need to become an expert. Play the wikipedia game.
 :::
 
+
+
+- Laravel
 - D3.js
 - Python
 - Vue
 - Geomatics
 - HubermanLab website
     - Figure out how they are coding the timestamps
+
+
+## Documentation
+
+Crop or label screenshots of these sites, currently Plantbeta is just documentation.
+
+See what works and straight up copy when general enough, they're all open source anyway. 
+
+Look at the documentation for these sites:
 
 ## Forestry in BC
 

@@ -66,23 +66,23 @@ https://developers.google.com/style/person
 
 ## Color
 
-### MoveColor
+### <move>MoveColor</move>
 ```ts
 #bf6a34
 ```
-### RouteColor
+### <route>RouteColor</route>
 ```ts
 #f44747
 ```
-### BetaColor
+### <beta>BetaColor</beta>
 ```ts
 #569cd6 
 ```
-### EcoColor
+### <eco>EcoColor</eco>
 ```ts
 #6a9955 
 ```
-### NeuroColor
+### <neuro>NeuroColor</neuro>
 ```ts
 #c586c0 
 ```
