@@ -4,19 +4,14 @@
 
 :::
 
-# Meet Plantbeta
-
-Plantbeta is a systematic approach to being a planter.
+# <eco>Meet Plantbeta</eco>
 
 ::: info Plantbeta's **Mission**
 
 - To create a **open source** resource for planters where all knowledge is coherent and integrated into a single system which can be used to plant many types of land across the world. 
 - To research and implement ways to make planters more effective by applying cutting edge interdisciplinary science to planter instruction.
 - To innovate planter tools.
-
-
 :::
-
 
 ::: info Plantbeta's **Vision**
 
@@ -32,7 +27,7 @@ Plantbeta is a systematic approach to being a planter.
 :::
 
 ::: tip 💡 New to Planting?
-Check out the [Novice Planter Guide](/guide/Who/NovicePlanter)
+Find out [what tree planting is](/guide/WhatPlanting) like across the world
 :::
 
 ## Why Plantbeta?
@@ -46,20 +41,6 @@ If you're an Experienced Planter, then Plantbeta gives you the resources to find
 ### A Community System
 
 Plantbeta combines the best practices of the Planting Industry to offer the most robust and planter friendly planter system available. In addition, dozens of talented planters from across Canada have [contributed to the system](/dev/Contribute). Who knows, maybe you'll even become a Plantbeta contributor.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
@@ -211,3 +192,147 @@ Limits, Boundary, Constraint, Scope
 - Logistics for management
 - Cook
 - Nursery
+
+
+## Website Sections
+
+Plantbeta is divided into 6 sections:
+
+- [Guide]()
+    - How to use this website
+- [Reference]()
+    - All the theory and problems that you encounter while being a Planter.
+- [Tests]()
+- [Development]()
+    - How this website is being created
+- [Sponsor]()
+
+
+
+
+## [How to Navigate this website.](/guide/How/Navigation)
+
+::: details 🛠
+
+
+
+:::
+
+## Navigate 
+
+### Website tour videos
+
+- Create a screen captured video of the website with narration and captions.
+
+### Navigation Bar
+
+- Use the **Navigation Bar** to quickly jump to sections of the website. 
+- Use the social media icons to visit Plantbeta's social media.
+- Toggle between LightTheme and DarkTheme.
+
+[InsertImage] Screenshot of nav Bar
+
+### Links
+
+- All links are displayed in [green font](/guide/GoBack)
+- Sometimes most of the sentence can be green links.
+    - [LineIn]() over by the [rock]() then [start]() [backfilling]().
+
+### Headers
+
+1. Click on a header once to reveal a green Hash Symbol '#'.
+
+2. Click on the green Hash symbol again to bring the header to the top of your screen.
+
+::: tip Link directly to the header
+
+1. Clicking on the button changes the URL. 
+2. Copy the URL
+
+[InsertImage] Screenshot with Plantbeta tabs open
+
+:::
+
+### Sidebar
+
+Use **Sidebar** to navigate the website.
+
+[InsertImage](Screenshot of Phone)
+[InsertImage](Screenshot of Tablet)
+[InsertImage](Screenshot of Desktop)
+
+### On This Page
+
+Use **On This Page** to navigate to the Title that you're looking for. 
+
+[InsertImage](Screenshot of Phone)
+[InsertImage](Screenshot of Tablet)
+[InsertImage](Screenshot of Desktop)
+
+### Search
+
+Reference is easy **searched** by using the Hash symbol <eco>#</eco> to target the headers of the reference contents.
+
+#### Phone
+[InsertImage](Screenshot of Phone)
+
+##### Example
+
+Image Sequence of Searching through Sidebar
+
+
+#### Tablet
+[InsertImage](Screenshot of Tablet)
+
+##### Example
+
+Image Sequence of Searching through Sidebar
+
+#### Desktop
+[InsertImage](Screenshot of Desktop)
+
+##### Example
+
+Image Sequence of Searching through Sidebar
+
+
+
+
+
+## Choose Your Path
+
+![PathFork](/PathFork.jpg)
+
+The users of Plantbeta can take multiple paths through Plantbeta depending on their needs.
+
+### [Potential Planter](/guide/Who/PotentialPlanter)
+
+1. Browse sidebars to familarize yourself with the general categories of Plantbeta's [Reference Section](/reference/ReferenceOverview).
+2. Look at the [Gallery](/reference/gallery/Overview)
+
+### [Novice Planter](/guide/Who/NovicePlanter)
+
+1. Browse sidebars to familarize yourself with the general categories of Plantbeta. 
+2. Test yourself to find knowledge gaps.
+
+### [Experienced Planter](/guide/Who/ExperiencedPlanter)
+
+1. Test yourself to find knowledge gaps.
+
+### [Planter Supervisor](/guide/Who/PlanterSupervisor)
+
+1. Test yourself to find knowledge gaps.
+2. Assign readings and tests to your crew members.
+
+
+### [Planter Instructor](/guide/Who/PlanterInstructor)
+
+1. Assign readings and tests to your crew members.
+2. Group Elements together into lesson plans.
+3. Adapt your lessons to the current EcoType. 
+
+
+
+
+
+

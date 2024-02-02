@@ -95,9 +95,9 @@ function nav() {
       activeMatch: '/reference/'
     },
     {
-      text: 'Tests',
-      link: '/tests/TestsOverview',
-      activeMatch: '/tests/'
+      text: 'Tutorials',
+      link: '/tutorials/TutorialsOverview',
+      activeMatch: '/tutorials/'
     },
     {
       text: 'Development',
@@ -129,10 +129,7 @@ function sidebarGuide() {
       collapsed: false,
       items: [
         { text: 'What is Tree Planting?', link: '/guide/What/WhatTreePlanting' },
-        { text: 'What is an Element?', link: '/guide/What/WhatElement' },
         { text: 'What is Plantbeta?', link: '/guide/What/WhatPlantbeta' },
-        { text: 'Getting Started', link: '/guide/GettingStarted' },
-        { text: 'Website Navigation', link: '/guide/How/Navigation' }
       ]
     },
     {
@@ -156,8 +153,8 @@ function sidebarGuide() {
     },
     {
       text: 'Gear Guide', collapsed: false, items: [
-        { text: 'What to bring?', link: '/guide/What/WhatToBring' },
-        { text: 'Gear List', link: '/guide/What/List' }
+        { text: 'What Gear to bring?', link: '/guide/What/WhatGear' },
+        { text: 'Gear List', link: '/guide/What/GearList' }
       ]
     },
     { text: 'Go to Reference', link: '/reference/Overview' },
@@ -166,18 +163,18 @@ function sidebarGuide() {
 
 function sidebarReference() {
   return [
-    { text: 'Go to Guide', link: '/guide/What/WhatPlantbeta' },
-    { text: 'Reference Overview', link: '/reference/ReferenceOverview' },
+    { text: '<strong>Reference Overview</strong>', link: '/reference/ReferenceOverview' },
     {
-      text: '🔷 Beta', collapsed: true, items: [
+      text: '🔷 <beta>Beta</beta>', collapsed: true, items: [
         { text: '🔷 What is Beta?', link: '/reference/Beta/BetaOverview' },
         { text: '🔷 Beta Examples', link: '/reference/Beta/BetaExamples' },
         { text: '🔷 BetaDiagram', link: '/reference/Beta/BetaDiagram' },
         { text: '🔷 BetaScript', link: '/reference/Beta/BetaScript' },
+
       ]
     },
     {
-      text: '🟩 Eco', collapsed: true, items: [
+      text: '🟩 <eco>Eco</eco>', collapsed: true, items: [
         { text: '🟩 Eco Overview', link: '/reference/Eco/EcoOverview' },
         {
           text: '🟩 Area', collapsed: true, items: [
@@ -268,7 +265,7 @@ function sidebarReference() {
       ]
     },
     {
-      text: '🟠 Move', collapsed: true, items: [
+      text: '🟠 <move>Move</move>', collapsed: true, items: [
         { text: '🟠 Move Overview', link: '/reference/Move/MoveOverview' },
         {
           text: '🟠 ArmMove', collapsed: true, items: [
@@ -521,7 +518,7 @@ function sidebarReference() {
       ],
     },
     {
-      text: '💜 Neuro', collapsed: true, items: [
+      text: '💜 <neuro>Neuro</neuro>', collapsed: true, items: [
         { text: '💜 Neuro Overview', link: '/reference/Neuro/NeuroOverview' },
         {
           text: '💜 Alignment', collapsed: true, items: [
@@ -629,7 +626,7 @@ function sidebarReference() {
       ]
     },
     {
-      text: '🔺 Route', collapsed: true, items: [
+      text: '🔺 <route>Route</route>', collapsed: true, items: [
         { text: '🔺Route Overview', link: '/reference/Route/RouteOverview' },
         {
           text: '🔺 Fill Algorithms', collapsed: true, items: [
@@ -718,10 +715,12 @@ function sidebarReference() {
         },
       ]
     },
-    { text: 'Glossary', link: '/reference/glossary/Glossary' },
-    { text: 'Gallery', link: '/reference/gallery/Overview' }
+    { text: '📃 Glossary', link: '/reference/glossary/Glossary' },
+    { text: '📷 Media Database', link: '/reference/media/Overview' }
   ]
 }
+
+
 
 function sidebarTutorials() {
   return [

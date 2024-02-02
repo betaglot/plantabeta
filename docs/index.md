@@ -17,8 +17,8 @@ hero:
       link: /guide/What/WhatPlantbeta
     - text: 🟩🔺🔷💜🟠
       link: /reference/ReferenceOverview
-    - text: Test
-      link: /tests/TestsOverview
+    - text: Tutorial
+      link: /tutorials/TutorialsOverview
     - text: Develop
       link: /dev/devOverview
     - text: Sponsor
@@ -27,9 +27,9 @@ hero:
 features:
   - icon: 🛠️
     title: Under Construction 
-    details: Last Updated February 1, 2024. This website is a prototype, not the final product
+    details: Last Updated February 2, 2024. This website is a prototype, not the final product
     link: /dev/devOverview
   - icon: ⏳
-    title: 94 days
+    title: 93 days
     details: until May 5 start day!
 ---

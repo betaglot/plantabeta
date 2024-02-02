@@ -6,6 +6,10 @@
 
 # Reference Overview
 
+::: tip What is a Beta Element?
+Find out how Plantbeta [is composed of Beta Elements](/reference/Beta/BetaOverview). 
+:::
+
 ## [<eco>**🟩___Eco___**</eco>![](/Eco/Eco_Emoji.png)](/reference/Eco/EcoOverview) 
 
 ## [<move>**🟠___Move___**</move>![](/Move/Move_Emoji.png)](/reference/Move/MoveOverview)
@@ -18,13 +22,13 @@
 ## [<beta>**🔷___Beta___**</beta>![](/Beta/Beta_Emoji.png)](/reference/Beta/BetaOverview)
 
 
-## Glossary
+## [Glossary](/reference/glossary/Glossary)
 
 A list of all terms that you must be familiar with to master planting.
 
-## Media Library 
+## [Media Database](/reference/media/Overview)
 
-You can submit images, audio and videos to the media library.
+You can [submit images, audio and videos](/dev/Contribute) to the media library.
 
 Use the media library to gain a deeper understanding of what to expect during your Novice Season.
 
