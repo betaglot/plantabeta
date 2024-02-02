@@ -132,4 +132,10 @@ When is it useful for emojis to be monochrome outlines?
 - Which renderer to use for emojis in images?
     - No shading
 
+`eco`
+
+<eco>`eco`</eco>
+
+`<eco>eco</eco>`
+
 
