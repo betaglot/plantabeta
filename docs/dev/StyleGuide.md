@@ -138,4 +138,8 @@ When is it useful for emojis to be monochrome outlines?
 
 <code><move>eco</move></code>
 
+```html
+<code><move>eco</move></code>
+```
+
 
