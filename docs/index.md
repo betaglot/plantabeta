@@ -20,7 +20,7 @@ hero:
     - text: Tutorial
       link: /tutorials/TutorialsOverview
     - text: Develop
-      link: /dev/devOverview
+      link: /dev/DevOverview
     - text: Sponsor
       link: /sponsor/Overview
 
