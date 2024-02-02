@@ -24,11 +24,11 @@ You can contribute to the 2 Billion Tree by using Plantbeta.
 
 ### 🔥 Get all articles about wildfires and replanting
 
-## Rookie Planter Story without Plantbeta
+## Novice Planter Story without Plantbeta
 
-Explain what tree planting is from the perspective of a Rookie Planter.
+Explain what tree planting is from the perspective of a Novice Planter.
 
-## Rookie Planter Story with BetaComp and Plantbeta
+## Novice Planter Story with BetaComp and Plantbeta
 
 Show the utility of BetaComp for Planters
 
@@ -38,10 +38,10 @@ Show the utility of BetaComp for Planters
 
 #### Statistics
 - Number of Planters in Canada
-- Number of Rookies in Canada
+- Number of Novices in Canada
 - Area of Land
-- Time it takes to train a Rookie
-- Number of Trees planted by a Rookie compared to an Experienced Planter.
+- Time it takes to train a Novice
+- Number of Trees planted by a Novice compared to an Experienced Planter.
 
 
 ### 2. How [Plantbeta]() helps Planting to Combat Climate Change

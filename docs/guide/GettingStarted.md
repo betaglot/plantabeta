@@ -37,7 +37,7 @@ The users of Plantbeta can take multiple paths through Plantbeta depending on th
 1. Browse sidebars to familarize yourself with the general categories of Plantbeta's [Reference Section](/reference/ReferenceOverview).
 2. Look at the [Gallery](/reference/gallery/Overview)
 
-### [Rookie Planter](/guide/Who/RookiePlanter)
+### [Novice Planter](/guide/Who/NovicePlanter)
 
 1. Browse sidebars to familarize yourself with the general categories of Plantbeta. 
 2. Test yourself to find knowledge gaps.

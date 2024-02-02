@@ -34,7 +34,7 @@ export default defineConfig({
     sidebar: {
       '/guide/': sidebarGuide(),
       '/reference/': sidebarReference(),
-      '/tests/': sidebarTests(),
+      '/tutorials/': sidebarTutorials(),
       '/dev/': sidebarDevelopment(),
       '/sponsor/': sidebarSponsor(),
     }
@@ -148,7 +148,7 @@ function sidebarGuide() {
     {
       text: 'Planter Guide', collapsed: false, items: [
         { text: 'Potential Planter', link: '/guide/Who/PotentialPlanter' },
-        { text: 'Rookie Planter', link: '/guide/Who/RookiePlanter' },
+        { text: 'Novice Planter', link: '/guide/Who/NovicePlanter' },
         { text: 'Experienced Planter', link: '/guide/Who/ExperiencedPlanter' },
         { text: 'Planter Supervisor', link: '/guide/Who/PlanterSupervisor' },
         { text: 'Planter Instructor', link: '/guide/Who/PlanterInstructor' }
@@ -723,15 +723,19 @@ function sidebarReference() {
   ]
 }
 
-function sidebarTests() {
+function sidebarTutorials() {
   return [
     {
-      text: 'Tests', collapsed: true, items: [
-        { text: 'Tests Overview', link: '/tests/Overview' },
-        { text: 'Labelling', link: '/tests/Test_LabelDiagram' },
-        { text: 'Matching', link: '/tests/Test_Matching' },
-        { text: 'MultipleChoice', link: '/tests/Test_MultipleChoice' },
-        { text: 'Sequencing', link: '/tests/Test_Sequencing' },
+      text: 'Tutorials', collapsed: true, items: [
+        { text: 'Tutorial Overview', link: '/tutorials/Overview' },
+        {
+          text: 'Video Tutorials Overview', collapsed: false, items: [
+            { text: 'Video Tutorials Overview', link: '/tutorials/VideoTutorialsOverview' }]
+        },
+        { text: 'Labelling', link: '/tutorials/Test_LabelDiagram' },
+        { text: 'Matching', link: '/tutorials/Test_Matching' },
+        { text: 'MultipleChoice', link: '/tutorials/Test_MultipleChoice' },
+        { text: 'Sequencing', link: '/tutorials/Test_Sequencing' },
       ]
     }
   ]

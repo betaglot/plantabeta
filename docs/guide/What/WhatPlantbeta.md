@@ -4,19 +4,13 @@
 
 :::
 
-# Tree Planter System
+# Meet Plantbeta
 
-<div >
-<iframe width="" height="100%" src="https://www.youtube.com/embed/V7rxBzzc4D0?playlist=V7rxBzzc4D0&loop=1" title="Plantbeta Emojis" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen style="display: block;
-  margin-left: auto;
-  margin-right: auto;"></iframe>
-</div>
+Plantbeta is a systematic approach to being a planter.
 
-![BetaLogo](/BetaLogo.png)
+::: info Plantbeta's **Mission**
 
-::: tip Plantbeta's **Mission**
-
-- To create a **open source** resource for planters where all knowledge is coherent and integrated into a single system which can be applied to Canada's boreal forest. 
+- To create a **open source** resource for planters where all knowledge is coherent and integrated into a single system which can be used to plant many types of land across the world. 
 - To research and implement ways to make planters more effective by applying cutting edge interdisciplinary science to planter instruction.
 - To innovate planter tools.
 
@@ -24,18 +18,51 @@
 :::
 
 
-::: tip Plantbeta's **Vision**
+::: info Plantbeta's **Vision**
 
 - To reduce Climate Change by increasing the quantity, quality and planting rate of the plants which are planted every year until the end of time.
 
 :::
 
-::: tip Plantbeta's **Values**
+::: info Plantbeta's **Values**
 
 - Practice is more important than Theory
 - All Planter knowledge is freely available
 
 :::
+
+::: tip 💡 New to Planting?
+Check out the [Novice Planter Guide](/guide/Who/NovicePlanter)
+:::
+
+## Why Plantbeta?
+
+### A Progressive System
+
+Plantbeta is a "progressive" system, meaning that Planbeta grows with your planting experience. If you're a Novice Planter, then Plantbeta's library of reference material, guides, tests and video tutorials (🛠 coming soon!) will help you to learn how to be a planter without becoming overwhelmed in your first week on the job.
+
+If you're an Experienced Planter, then Plantbeta gives you the resources to find and fill your knowledge gaps, so that you can unlock your full planting potential.
+
+### A Community System
+
+Plantbeta combines the best practices of the Planting Industry to offer the most robust and planter friendly planter system available. In addition, dozens of talented planters from across Canada have [contributed to the system](/dev/Contribute). Who knows, maybe you'll even become a Plantbeta contributor.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 ## How does Plantbeta provide Value to Planters?
@@ -66,7 +93,7 @@
  
 ### Increases Motivation and Hope while reducing Anxiety
 
-- <eco>Plantbeta</eco> reduced the worrying about what to expect during your Rookie season. 
+- <eco>Plantbeta</eco> reduced the worrying about what to expect during your Novice season. 
 - "I can do this"
 - The fear of the unknown, especially unknown unknowns, can be paralyzing. <eco>Plantbeta</eco> is being created to minimize the number of unknowns in a tree Planter's experience.
 - There is a whole page in <eco>Plantbeta</eco> specifically devoted to Motivation. It's easy to become unmotivated when you're tired, you've spent the past few days in the rain and the Eco is difficult, but there is knowledge that Planters and PlanterSupervisors can use to keep planting! 
@@ -121,7 +148,7 @@
  
 ### Reduces Risk
 
-- Plantbeta reduces the Risk that a hired RookiePlanter underperform and become a burden to their Supervisor and Company.
+- Plantbeta reduces the Risk that a hired NovicePlanter underperform and become a burden to their Supervisor and Company.
 - Reduces the risk of Injury
 
 ---
@@ -136,7 +163,7 @@
 
 - Connects planting to climbing
     - [<move>Klimbeta</move>](https://klimbeta.github.io/klimbeta/)
-- Connects RookiePlanters to ExperiencedPlanters
+- Connects NovicePlanters to ExperiencedPlanters
 
 ---
  
@@ -151,7 +178,7 @@
  
 ### Avoids hassles
 
-- Avoids the hassle of training rookies for PlanterSupervisors, when they have so many other tasks to perform during a planting day.  
+- Avoids the hassle of training Novices for PlanterSupervisors, when they have so many other tasks to perform during a planting day.  
 
 ---
  

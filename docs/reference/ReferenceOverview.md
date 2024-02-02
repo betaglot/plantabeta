@@ -26,7 +26,7 @@ A list of all terms that you must be familiar with to master planting.
 
 You can submit images, audio and videos to the media library.
 
-Use the media library to gain a deeper understanding of what to expect during your Rookie Season.
+Use the media library to gain a deeper understanding of what to expect during your Novice Season.
 
 
 

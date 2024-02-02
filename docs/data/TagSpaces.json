@@ -2142,13 +2142,13 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Guide.Who.RookiePlanter",
+                    "title": "Guide.Who.NovicePlanter",
                     "color": "#ffffffff",
                     "textcolor": "#000000ff",
                     "type": "sidecar"
                 },
                 {
-                    "title": "Guide.Who.RookiePlanter.RookieStare",
+                    "title": "Guide.Who.NovicePlanter.NoviceStare",
                     "color": "#ffffffff",
                     "textcolor": "#000000ff",
                     "type": "sidecar"

@@ -2,7 +2,7 @@
 ::: tip You're gonna think...
 - That I can't deliver on my promises.
 - You’re gonna think that this is more complicated than it needs to be.
-- You’re gonna think that this is too much for a Rookie to take in.
+- You’re gonna think that this is too much for a Novice to take in.
 - You're gonna think that a web app can't make people better Planters.
 - You're gonna think that I'm not qualified.
 :::
@@ -18,9 +18,9 @@
 </pre>
 
 
-## What does every rookie do before they go planting?
+## What does every Novice do before they go planting?
 
-Rookie Planters ALWAYS Google "How to Plant trees?" before starting the season. Why? To educate themselves as much as possible before starting work, because they know that the more knowledge they have about planting the more money they will make.
+Novice Planters ALWAYS Google "How to Plant trees?" before starting the season. Why? To educate themselves as much as possible before starting work, because they know that the more knowledge they have about planting the more money they will make.
 
 The best resource which can be found is Replant.ca, but this site could be better.
 
@@ -84,7 +84,7 @@ The best resource which can be found is Replant.ca, but this site could be bette
 
 > "When all our systems are in place, you as the Planter will meet your goals."
 
-- Plantbeta systematizes a Planter's education. Plantbeta will reduce the time it takes for rookies to learn how to plant, therefore increasing Quastuco's planting rate.
+- Plantbeta systematizes a Planter's education. Plantbeta will reduce the time it takes for Novices to learn how to plant, therefore increasing Quastuco's planting rate.
 
 <pre>
 
@@ -143,7 +143,7 @@ Flagging reduction, the goal is a 60% reduction in single use plastics...Veteran
 #### Recording Observations
 
 - What are the most common ways that Planters lose time?
-- What parts of the Eco does RookieStare most frequently occur?
+- What parts of the Eco does NoviceStare most frequently occur?
 - Expand the EcoSystem section, adding more microsite types to Plantbeta.
 - HighBaller Observation
     - Identify individual strengths and weaknesses.
@@ -155,8 +155,8 @@ Flagging reduction, the goal is a 60% reduction in single use plastics...Veteran
 
 #### Asking Planters and Supervisors Questions
 
-- What is going on in their heads when Rookies RookieStare?
-- What Plantbeta elements have rookies never heard of?
+- What is going on in their heads when Novices NoviceStare?
+- What Plantbeta elements have Novices never heard of?
 - What would Planters want from Planbeta?
 - What are the most common quality faults that supervisors observe?
 - How do Planters plan their piece?

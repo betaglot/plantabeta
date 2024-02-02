@@ -7,7 +7,7 @@ titleTemplate: Plantbeta
 hero: 
   name: Plantbeta
   text: 
-  tagline: Being a Planter
+  tagline: How to Be a Planter
   image:
     src: /BetaLogo.png
     alt: BetaLogo
@@ -25,10 +25,6 @@ hero:
       link: /sponsor/Overview
 
 features:
-  - icon: 🌲
-    title: Plant More Efficiently 
-    details: Increase your Ability to Plant Trees
-    link: /guide/What/WhatPlantbeta
   - icon: 🛠️
     title: Under Construction 
     details: Last Updated February 1, 2024. This website is a prototype, not the final product

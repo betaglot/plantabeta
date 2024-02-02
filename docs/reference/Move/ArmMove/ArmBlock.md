@@ -34,19 +34,14 @@
 </div>
 
 
-## EcoElements
-- Description of how this movement relates to a particular [EcoElement](/reference/Eco/EcoOverview).
-- Description of how this movement relates to a particular [EcoElement](/reference/Eco/EcoOverview).
-- Description of how this movement relates to a particular [EcoElement](/reference/Eco/EcoOverview).
-## RouteElements
-- Description of how this movement relates to a particular [<route>RouteElement</route>](/reference/Route/RouteOverview).
-- Description of how this movement relates to a particular [<route>RouteElement</route>](/reference/Route/RouteOverview).
-- Description of how this movement relates to a particular [<route>RouteElement</route>](/reference/Route/RouteOverview).
+## Related EcoElements 🟩
+- 
 
-## NeuroElements
-- Description of how this movement relates to a particular [<neuro>NeuroElement</neuro>](/reference/Neuro/NeuroOverview).
-- Description of how this movement relates to a particular [<neuro>NeuroElement</neuro>](/reference/Neuro/NeuroOverview).
-- Description of how this movement relates to a particular [<neuro>NeuroElement</neuro>](/reference/Neuro/NeuroOverview).
+## Related RouteElements 🔺
+- 
+
+## Related NeuroElements 💜
+- 
 ## Quotes
 
 Quotes about this Move
@@ -58,7 +53,7 @@ Quotes about this Move
 - Ways that this Move could be performed in correctly, causing injury or causing inefficiencies.
 
 
-### RelatedMoves
+### RelatedMoves 🟠
 
 Links to other related movements. Related because they are the same MoveType or because they are performed at the same time or within the same sequence. 
 

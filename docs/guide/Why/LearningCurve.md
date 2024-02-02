@@ -16,11 +16,11 @@ There will always be an element of Trial and Error in tree planting. A goal of P
 
 :::
 
-## Decrease the time it takes to train a RookiePlanter
+## Decrease the time it takes to train a NovicePlanter
 
-[InsertDiagram] Horizontal Timeline of Rookie Season
+[InsertDiagram] Horizontal Timeline of Novice Season
 
-- Rookies usually take about a month before they can consistently plant a the same rate as experienced Planters.
+- Novices usually take about a month before they can consistently plant a the same rate as experienced Planters.
 - Make the learning process more intense and shorter.
 - Learn as much as possible during the days leading up to the season start.
 - Lay the theoretical foundations before practicing planting in the field.  
