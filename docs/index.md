@@ -7,7 +7,7 @@ titleTemplate: Plantbeta
 hero: 
   name: Plantbeta
   text: 
-  tagline: Using Climbing to Plant Trees
+  tagline: Being a Planter
   image:
     src: /BetaLogo.png
     alt: BetaLogo
