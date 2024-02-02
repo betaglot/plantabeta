@@ -39,9 +39,11 @@ No Acronyms
 
 Write complete sentences.
 
-Point form is lazy. Think about all the coding documentation which is not easy to read. Too formal, too concise
+Point form is lazy. Think about all the coding documentation which is not easy to read. Too formal, too concise, humans don't process language like computers, point of view matters.
 
 ## You, not them
+
+Second person instead of 3rd person
 
 ## ElementName
 
@@ -90,5 +92,44 @@ https://developers.google.com/style/person
 ```ts
 #1f1f1f
 ```
+
+## Emoji
+
+### Literal or Metaphorical
+
+### Tree 🌲
+
+### Face emojis
+
+- Emotion
+- Sleep
+
+### Purpose(Emoji)
+
+- Visual Search
+- For planters to use the emojis 
+- Each emoji can be easily handwritten, since electronics don't do well in extreme weather, in terms of breaking and in UX. You can't easily view a screen in summer sun, or rain, definitely not in snow.
+
+The BetaModules are aliased as emojis.
+
+::: tip ?
+When is it useful for emojis to be monochrome outlines?
+:::
+
+
+### Ambifix for Page Title
+
+### Postfix
+
+- Postfix for
+
+### Prefix
+
+- Prefix for
+
+### Emoji Only
+
+- Which renderer to use for emojis in images?
+    - No shading
 
 
