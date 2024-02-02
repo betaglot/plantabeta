@@ -136,6 +136,6 @@ When is it useful for emojis to be monochrome outlines?
 
 <beta>`eco`</beta>
 
-`<eco>eco</eco>`
+<code><move>eco</move></code>
 
 
