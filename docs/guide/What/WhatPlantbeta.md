@@ -27,7 +27,7 @@
 :::
 
 ::: tip 💡 New to Planting?
-Find out [what tree planting is](/guide/WhatPlanting) like across the world
+Find out [what tree planting is](/guide/WhatTreePlanting) like across the world
 :::
 
 ## Why Plantbeta?
