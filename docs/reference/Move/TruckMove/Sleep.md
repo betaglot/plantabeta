@@ -61,16 +61,16 @@
     src="https://observablehq.com/embed/@d3/force-directed-graph/2?cells=chart"
 ></iframe>
 
-## Related 🟠 <move>MoveElements </move>🟠
+## Related <move>MoveElements </move>🟠
 - After work
 
-## Related 🟩<eco> EcoElements </eco>🟩
+## Related<eco> EcoElements </eco>🟩
 - Bumpy road
-## Related 🔺 RouteElements
+## Related RouteElements 🔺
 - 
 
-## Related 💜 <neuro>NeuroElements</neuro>
-- Fatigue
+## Related <neuro>NeuroElements</neuro> 💜
+-  Fatigue
 - Meditation
 - Relaxation
 

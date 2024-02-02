@@ -49,15 +49,15 @@ Graph which represents how this element is related to other elements in Plantbet
     src="https://observablehq.com/embed/@d3/force-directed-graph/2?cells=chart"
 ></iframe>
 
-## Related 🟩 <eco>EcoElements </eco>🟩
+## Related <eco>EcoElements </eco>🟩
 
-## Related 🟠 <move>MoveElements </move>🟠
-
-
-## Related 🔺 <route>RouteElements </route>🔺
+## Related <move>MoveElements </move>🟠
 
 
-## Related 💜 <neuro>NeuroElements</neuro> 💜
+## Related <route>RouteElements </route>🔺
+
+
+## Related <neuro>NeuroElements</neuro> 💜
 
 
 

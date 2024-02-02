@@ -42,13 +42,13 @@ Graph which represents how this element is related to other elements in Plantbet
     src="https://observablehq.com/embed/@d3/force-directed-graph/2?cells=chart"
 ></iframe>
 
-## Related 💜 <neuro>NeuroElements</neuro> 💜
+## Related <neuro>NeuroElements</neuro> 💜
 
-## Related 🟠<move> MoveElements </move>🟠
+## Related<move> MoveElements </move>🟠
 - 
-## Related 🟩<eco> EcoElements </eco>🟩
+## Related<eco> EcoElements </eco>🟩
 - 
-## Related 🔺 RouteElements
+## Related RouteElements 🔺
 - 
 
 ## Examples

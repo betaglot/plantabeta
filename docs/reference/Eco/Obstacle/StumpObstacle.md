@@ -49,7 +49,7 @@ Graph which represents how this element is related to other elements in Plantbet
     src="https://observablehq.com/embed/@d3/force-directed-graph/2?cells=chart"
 ></iframe>
 
-## Related 🟩<eco> EcoElements </eco>🟩  🟩
+## Related<eco> EcoElements </eco>🟩  🟩
 
 ### [🟩Microsite]()
 
@@ -64,7 +64,7 @@ Graph which represents how this element is related to other elements in Plantbet
 - block snow from crushing the seedling
 
 
-## Related 🟠 <move>MoveElements </move>🟠
+## Related <move>MoveElements </move>🟠
 
 ### [🟠SpadePryScreef]()
 
@@ -80,7 +80,7 @@ Graph which represents how this element is related to other elements in Plantbet
 
 
 🔺🟠🟩💜🔷
-## Related 🔺 <route>RouteElements </route>🔺
+## Related <route>RouteElements </route>🔺
 
 ### [🔺ObstacleFill]
 
@@ -113,7 +113,7 @@ Graph which represents how this element is related to other elements in Plantbet
 - 
 
 
-## Related 💜 <neuro>NeuroElements</neuro> 💜
+## Related <neuro>NeuroElements</neuro> 💜
 
 ### [💜Orientation]() 
 - North side of the stump. 
