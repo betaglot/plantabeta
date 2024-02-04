@@ -20,11 +20,11 @@ Tools you need to perform planter movements.
 
 
 
-### 🟠 <move><move>Cache Bag</move>
+### 🟠 <move>Cache Bag</move>
 
-### 🟠 <move><move>Water Container</move>
+### 🟠 <move>Water Container</move>
 
-### 🟠 <move><move>Clothing</move>
+### 🟠 <move>Clothing</move>
 
 ::: tip 
 
