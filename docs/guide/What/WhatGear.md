@@ -8,15 +8,15 @@
 
 - Planters which don't live in tents, ie not in a bush camp.
 
-## 🟠 <move><move>Move Tools</move>
+## 🟠 <move>Move Tools</move>
 
 Tools you need to perform planter movements.
 
-### 🟠 <move><move>Spade</move>
+### 🟠 <move>Spade</move>
 
 - Often called a shovel, but is never used to scoop soil like a shovel.
 
-### 🟠 <move><move>Planter Bags</move>
+### 🟠 <move>Planter Bags</move>
 
 
 
