@@ -265,7 +265,7 @@ function sidebarReference() {
       ]
     },
     {
-      text: '🟠 <move><move>Move</move>', collapsed: true, items: [
+      text: '🟠 <move>Move</move>', collapsed: true, items: [
         { text: '🟠 <move>Move Overview</move>', link: '/reference/Move/MoveOverview' },
         {
           text: '🟠 <move>ArmMove</move>', collapsed: true, items: [
