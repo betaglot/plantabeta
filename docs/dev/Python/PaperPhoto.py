@@ -563,7 +563,6 @@ PaperPhotoList = [
     '3321.jpg'
 ]
 
-
 """
 Target Output  
 

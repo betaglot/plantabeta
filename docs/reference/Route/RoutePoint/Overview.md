@@ -24,6 +24,26 @@ ___ | **Site** | **Microsite**
 - Spacing between Sites.
 - Dual with Delaunay Triangulation
 
+
+#### Descriptions of Voronoi Cell Shape
+
+- Platonic Shapes
+    - Triangle, Square, Pentagon, Hexagon 
+
+- Angular
+
+- Slice
+
+- Thin
+
+Round
+
+Hexagonal
+
+#### Voronoi Iteration
+
+Makes the Voronoi Cells more 
+
 ### Delaunay Triangulation
 
 - Decompose a plane polygon into Triangles

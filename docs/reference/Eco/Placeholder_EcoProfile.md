@@ -29,12 +29,18 @@ Answer 3
 
 ## Element Properties
 
-- Element Size
-- Element Shape
-- Element Color
-- Element's Frequency of Occurrence
+### Element Size
+### Element Shape
+### Element Color
+### Element's Frequency of Occurrence
 
 ## Elements Graph
+
+::: details How to use Elements Graph?
+Hover:
+Select:
+
+:::
 
 <iframe 
     width="100%" 

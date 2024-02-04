@@ -7,6 +7,16 @@
 # 🟩  <eco>Plot </eco>🟩
 
 
+> The area of the circle who's radius is created by a plot cord of a given length, usually 4 meters
+
+## Circle
+
+## Plot Construction
+
+## Counting
+
+
+
 ![EcoImage](/Eco/EcoImage.png)
 
 ## Questions about the Element
@@ -31,13 +41,18 @@ Answer 3
 
 ## Element Properties
 
-- Element Size
-- Element Shape
-- Element Color
-- Element's Frequency of Occurrence
+### Element Size
+### Element Shape
+### Element Color
+### Element's Frequency of Occurrence
 
 ## Elements Graph
 
+::: details How to use Elements Graph?
+Hover:
+Select:
+
+:::
 <iframe 
     width="100%" 
     height="684" 
@@ -55,6 +70,7 @@ Answer 3
 
 ## Related <neuro>NeuroElements</neuro> 💜
 
+- [Counting](/reference/Neuro/Counting/Overview)
 
 
 ## Quotes

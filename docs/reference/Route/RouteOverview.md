@@ -1,7 +1,6 @@
 ::: details 🛠
 
 
-
 :::
 
 # 🔺 <route>Route Overview</route>  🔺
@@ -95,5 +94,8 @@ Don't go over the same place more than once.
 - PinchedPiece
 - 
 
+## $$$
+- Route Affects productivity the most because route has deadwalking and cache positioning. Route Starts and Finishes at the cache. 
 
+- Even the most atheletic planter is wasting time during deadwalking. Minimizing deadwalking benefits all planters and supervisors.
 

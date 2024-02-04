@@ -8,6 +8,14 @@
 
 ![Block](/Eco/Block.png)
 
+> The area of land that your crew is planting in. 
+
+Usually Composed of Contiguous Subareas
+
+Down the Road
+
+Dispersed
+
 ## Block Anatomy
 - BlockAccess
 - Road
