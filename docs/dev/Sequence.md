@@ -12,6 +12,14 @@ All sequences are lists
 PythonDataType = List[]
 ```
 
+```md
+1. Thing1
+2. Thing2
+3. Thing3
+4. Thing4
+
+```
+
 Standardize the way that sequences of BetaElements are represented in code and graphically. 
 
 💜 Graphic

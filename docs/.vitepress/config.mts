@@ -731,19 +731,15 @@ function sidebarReference() {
 
 function sidebarTutorials() {
   return [
+    { text: 'Tutorial Overview', link: '/tutorials/Overview' },
     {
-      text: 'Tutorials', collapsed: true, items: [
-        { text: 'Tutorial Overview', link: '/tutorials/Overview' },
-        {
-          text: 'Video Tutorials Overview', collapsed: false, items: [
-            { text: 'Video Tutorials Overview', link: '/tutorials/VideoTutorialsOverview' }]
-        },
-        { text: 'Labelling', link: '/tutorials/Test_LabelDiagram' },
-        { text: 'Matching', link: '/tutorials/Test_Matching' },
-        { text: 'MultipleChoice', link: '/tutorials/Test_MultipleChoice' },
-        { text: 'Sequencing', link: '/tutorials/Test_Sequencing' },
-      ]
-    }
+      text: 'Video Tutorials Overview', collapsed: false, items: [
+        { text: 'Video Tutorials Overview', link: '/tutorials/VideoTutorialsOverview' }]
+    },
+    { text: 'Labelling', link: '/tutorials/Test_LabelDiagram' },
+    { text: 'Matching', link: '/tutorials/Test_Matching' },
+    { text: 'MultipleChoice', link: '/tutorials/Test_MultipleChoice' },
+    { text: 'Sequencing', link: '/tutorials/Test_Sequencing' },
   ]
 
 }

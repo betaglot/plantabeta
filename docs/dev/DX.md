@@ -27,10 +27,14 @@ Content can be written outside of VScode, then inserted later.
 Homonyms = {
     'cache': ['cash'],
     'route': ['root'],
-    'neuro': ['narrow']
+    'neuro': ['narrow'],
+    'slash': ['/'],
 }
 
 ```
+
+#### Dictation Sequence
+
 0. SetUp Laptop with Plantbeta open on left half and the google doc open on the right. Record the audio with your phone being held up close to your mouth. 
 
 1. Look at the Page. 
@@ -43,12 +47,27 @@ Homonyms = {
     - Use Plantbeta terminology, don't worry about 
     - Glance at the text, but don't read it. Sometimes the recording stops.
 
-3. Parse the output by adding bullet points
+3. Paste Raw output into VScode Parse the output by adding bullet points
 4. Rephrase and correct grammar
     - Add punctuation
     - Capitalize
     - Replace homonyms
-5. Insert into the body of the 
+5. Insert into the body of the page, formatted according to [StyleGuide](/dev/StyleGuide)
+    - Replace with 'Dictation1' in Design Box after insertion (so you don't find it again in next step)
+
+6. Search for empty design box to find the next page to dictate (there's about 360 left to go, approx 60 hours or work)
+
+```md
+::: details 🛠
+
+
+
+:::
+```
+
+::: tip 
+Complete all the steps each day to refine your process. For instance after parsing today I realized that for postcedent dictations I need to create new lines and punctuation. 
+:::
 
 ### PaperMine
 

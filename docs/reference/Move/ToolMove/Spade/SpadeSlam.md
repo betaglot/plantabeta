@@ -1,6 +1,8 @@
 ::: details 🛠
 
-
+WWE Slam move
+- Step up then drop down
+- When to pull your punch, pull your slam?
 
 :::
 
