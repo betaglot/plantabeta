@@ -115,10 +115,10 @@ function nav() {
     //   link: 'https://klimbeta.github.io/klimbeta/',
     // },
 
-    // {
-    //   text: 'Apply',
-    //   link: ''
-    // }
+    {
+      text: 'Deployed',
+      link: 'https://klimbeta.github.io/plantbeta/'
+    }
 
   ]
 }
