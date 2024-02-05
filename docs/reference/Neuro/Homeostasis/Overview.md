@@ -1,10 +1,20 @@
 ::: details 🛠 DesignBox
 
-
+- Planter_Brain_Homeostasis_BodyTemperature_Hyperthermia_HotWeather_FastLand_
+- Planter_Brain_Homeostasis_BodyTemperature_Hyperthermia_HotWeather_HeatStroke_
+- Planter_Brain_Homeostasis_BodyTemperature_Hypothermia_ColdWeather_Clothing_ClothingLayer_BaseLayer_
+- Planter_Brain_Homeostasis_BodyTemperature_PlantingResearch_
+- Planter_Brain_Homeostasis_Hydration
+- Planter_Brain_Hunger_BloodGlucose_Units_
+- Planter_Brain_Hunger_Thirst_Hydration_
+- Sleep
+- BloodGlucose
+- Blood PH
+- Hydration
 
 :::
 
-# 💜 <neuro>LandJudgement </neuro>💜
+# 💜 <neuro>Homeostasis </neuro>💜
 
 ![NeuroImage](/Neuro/NeuroImage.png)
 ## Questions about the Element

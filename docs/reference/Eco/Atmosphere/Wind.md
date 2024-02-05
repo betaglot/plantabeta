@@ -4,9 +4,10 @@
 
 :::
 
-# 💜 <neuro>LandJudgement </neuro>💜
+# 🟩  <eco>Wind</eco> 🟩
 
-![NeuroImage](/Neuro/NeuroImage.png)
+![EcoImage](/Eco/EcoImage.png)
+
 ## Questions about the Element
 
 ::: details Questions 1
@@ -26,11 +27,21 @@ Answer 2
 Answer 3
 
 :::
+
 ## Element Properties
 
-- 
+### Element Size
+### Element Shape
+### Element Color
+### Element's Frequency of Occurrence
 
-## ElementRelationshipsGraph
+## Elements Graph
+
+::: details How to use Elements Graph?
+Hover:
+Select:
+
+:::
 
 <iframe 
     width="100%" 
@@ -39,14 +50,23 @@ Answer 3
     src="https://observablehq.com/embed/@d3/force-directed-graph/2?cells=chart"
 ></iframe>
 
+## Related <eco>EcoElements </eco>🟩
+
+## Related <move>MoveElements </move>🟠
+
+
+## Related <route>RouteElements </route>🔺
+
+
 ## Related <neuro>NeuroElements</neuro> 💜
 
-## Related<move> MoveElements </move>🟠
-- 
-## Related<eco> EcoElements </eco>🟩
-- 
-## Related RouteElements 🔺
-- 
+
+
+## Quotes
+
+Quotes about this Element
+
+> Quote
 
 ## Examples
 
@@ -54,7 +74,7 @@ Answer 3
 
 ## See also:
 
-Links to other related NeuroElements. 
+Links to other related EcoElements. Related because they are the same EcoType or because they are performed at the same time or within the same sequence. 
 
 - [Link]()
 - [Link]()

@@ -40,7 +40,7 @@ export default defineConfig({
     }
   }
 })
-
+// #Dev
 function sidebarDevelopment() {
   return [
     { text: 'Development Overview', link: '/dev/DevOverview' },
@@ -82,7 +82,7 @@ function sidebarSponsor() {
     { text: 'How to be a Sponsor', link: '/sponsor/Overview' },
   ]
 }
-
+// # Nav
 function nav() {
   return [
     {
@@ -123,6 +123,7 @@ function nav() {
   ]
 }
 
+//#Guide
 function sidebarGuide() {
   return [
     {
@@ -161,7 +162,7 @@ function sidebarGuide() {
     { text: 'Go to Reference', link: '/reference/Overview' },
   ]
 }
-
+// #Reference
 function sidebarReference() {
   return [
     { text: '<strong>Reference Overview</strong>', link: '/reference/ReferenceOverview' },
@@ -174,16 +175,32 @@ function sidebarReference() {
 
       ]
     },
+    // #Eco
     {
       text: '🟩 <eco>Eco</eco>', collapsed: true, items: [
         { text: '🟩 <eco>Eco Overview</eco>', link: '/reference/Eco/EcoOverview' },
         {
+          text: '🟩 <eco>Animals</eco>', collapsed: true, items: [
+            { text: '🟩 <eco>Animals Overview</eco>', link: '/reference/Eco/Animals/Overview' },
+            
+          ]
+        },
+        {
           text: '🟩 <eco>Area</eco>', collapsed: true, items: [
-            { text: '🟩 <eco>Area Overview</eco></eco>', link: '/reference/Eco/Area/Overview' },
-            { text: '🟩 <eco>PocketArea</eco></eco>', link: '/reference/Eco/Area/PocketArea' },
-            { text: '🟩 <eco>RiparianArea</eco></eco>', link: '/reference/Eco/Area/RiparianArea' },
+            { text: '🟩 <eco>Area Overview</eco>', link: '/reference/Eco/Area/Overview' },
+            { text: '🟩 <eco>PocketArea</eco>', link: '/reference/Eco/Area/PocketArea' },
+            { text: '🟩 <eco>RiparianArea</eco>', link: '/reference/Eco/Area/RiparianArea' },
             { text: '🟩 <eco>RockCapArea</eco>', link: '/reference/Eco/Area/RockCapArea' },
             { text: '🟩 <eco>SlashPileArea</eco>', link: '/reference/Eco/Area/SlashPileArea' },
+          ]
+        },
+        {
+          text: '🟩 <eco>Atmosphere</eco>', collapsed: true, items: [
+            { text: '🟩 <eco>Overview</eco>', link: '/reference/Eco/Atmosphere/Overview' },
+            { text: '🟩 <eco>AirTemperature</eco>', link: '/reference/Eco/Atmosphere/AirTemperature' },
+            { text: '🟩 <eco>Humidity</eco>', link: '/reference/Eco/Atmosphere/Humidity' },
+            { text: '🟩 <eco>Precipitation</eco>', link: '/reference/Eco/Atmosphere/Precipitation' },
+            { text: '🟩 <eco>Wind</eco>', link: '/reference/Eco/Atmosphere/Wind' },
           ]
         },
         {
@@ -259,12 +276,16 @@ function sidebarReference() {
           ]
         },
         {
-          text: '🟩 <eco>Weather</eco>', collapsed: true, items: [
-            { text: '🟩 <eco>Weather Overview</eco>', link: '/reference/Eco/Weather/Overview' },
+          text: '🟩 <eco>Sun</eco>', collapsed: true, items: [
+            { text: '🟩 <eco>Overview</eco>', link: '/reference/Eco/Sun/Overview' },
+
+
           ]
         },
+
       ]
     },
+    // #Move
     {
       text: '🟠 <move>Move</move>', collapsed: true, items: [
         { text: '🟠 <move>Move Overview</move>', link: '/reference/Move/MoveOverview' },
@@ -458,6 +479,11 @@ function sidebarReference() {
               ]
             },
             {
+              text: '🟠 <move>Carabiner </move>', collapsed: true, items: [
+                { text: 'Overview</move>', link: '/reference/Move/ToolMove/Carabiner/Overview' },
+              ]
+            },
+            {
               text: '🟠 <move>Flag</move>', collapsed: true, items: [
                 { text: 'Overview</move>', link: '/reference/Move/ToolMove/Flag/Overview' },
                 { text: 'Flag Sequence</move>', link: '/reference/Move/ToolMove/Flag/FlagSequence' },
@@ -492,6 +518,11 @@ function sidebarReference() {
               ]
             },
             {
+              text: '🟠 <move>Rope</move>', collapsed: true, items: [
+                { text: 'Overview</move>', link: '/reference/Move/ToolMove/RopeOverview' },
+              ]
+            },
+            {
               text: '🟠 <move>Spade</move>', collapsed: true, items: [
                 { text: '🟠 <move>Overview</move>', link: '/reference/Move/ToolMove/Spade/Overview' },
                 { text: '🟠 <move>Spade Sequence</move>', link: '/reference/Move/ToolMove/Spade/SpadeSequence' },
@@ -507,7 +538,7 @@ function sidebarReference() {
           ]
         },
         {
-          text: '🟠 <move>TruckMove</move>', collapsed: true, items: [
+          text: '🟠 <move>Truck</move>', collapsed: true, items: [
             { text: '🟠 <move>Overview</move>', link: '/reference/Move/TruckMove/Overview' },
             { text: '🟠 <move>Truck Sequence</move>', link: '/reference/Move/TruckMove/TruckSequence' },
             { text: '🟠 <move>Sleep</move>', link: '/reference/Move/TruckMove/Sleep' },
@@ -518,6 +549,7 @@ function sidebarReference() {
 
       ],
     },
+    // #Neuro
     {
       text: '💜 <neuro>Neuro</neuro>', collapsed: true, items: [
         { text: '💜 <neuro>Neuro Overview</neuro>', link: '/reference/Neuro/NeuroOverview' },
@@ -593,7 +625,11 @@ function sidebarReference() {
             { text: '💜 <neuro>Event Overview</neuro>', link: '/reference/Neuro/Event/Overview' },
           ]
         },
-
+        {
+          text: '💜 <neuro>Homeostasis</neuro>', collapsed: true, items: [
+            { text: '💜 <neuro>Homeostasis Overview</neuro>', link: '/reference/Neuro/Homeostasis/Overview' },
+          ]
+        },
         {
           text: '💜 <neuro> Memory</neuro>', collapsed: true, items: [
             { text: '💜 <neuro> Overview</neuro>', link: '/reference/Neuro/Memory/Overview' },
@@ -633,6 +669,7 @@ function sidebarReference() {
 
       ]
     },
+    // #Route
     {
       text: '🔺 <route>Route</route>', collapsed: true, items: [
         { text: '🔺 <route>Route Overview</route>', link: '/reference/Route/RouteOverview' },
