@@ -4,7 +4,7 @@ In the afternoon it can be difficult to pay attention and it's not possible to c
 
 A MorningTask is one  which requires high levels of concentration and where there is a clear goal. 
 
-## Exploratory Learning
+## Task: Exploratory Learning
 
 Follow Rabbit holes, turn up the curiosity, there is no definite place to get to, just wander around the topic to familiarize yourself with it.
 
@@ -29,7 +29,7 @@ Open Source is the most important thing to understand for Plantbeta's growth and
     - Figure out how they are coding the timestamps
 
 
-## Documentation
+## Task: Documentation Design Research
 
 Crop or label screenshots of these sites, currently Plantbeta is just documentation.
 
@@ -37,7 +37,7 @@ See what works and straight up copy when general enough, they're all open source
 
 Look at the documentation for these sites:
 
-## Forestry in BC
+## Task: Forestry in BC Research
 
 - I need to have at least some understanding about how the planting industry works, especially how the financials work since Plantbeta will cost something to implement. 
 
@@ -45,6 +45,12 @@ Look at the documentation for these sites:
 
 - Find other groups who are doing the similar things to Plantbeta, such as [Flash Forest](https://flashforest.ca/).
 
-## Explore Plantbeta
+## Task: Explore Plantbeta
 
 - **Add PaperPhotos** to each page. So much of Plantbeta has already been created on paper and in my mind, the goal now is just to get all of that information into Plantbeta so that it can be used in the upcoming planting seasons.
+
+- Test UI and UX
+
+## Dictation
+
+See [Dictation]()

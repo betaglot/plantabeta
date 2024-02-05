@@ -43,7 +43,7 @@ export default defineConfig({
 
 function sidebarDevelopment() {
   return [
-    { text: 'Development Overview', link: '/dev/devOverview' },
+    { text: 'Development Overview', link: '/dev/DevOverview' },
     { text: 'Contact', link: '/dev/Contact' },
     { text: 'Academia', link: '/dev/Academia' },
     { text: 'Data Visualization', link: '/dev/ElementsGraph' },
@@ -61,6 +61,7 @@ function sidebarDevelopment() {
         { text: 'UX Graphics', link: '/dev/Graphics/UXGraphic' },
       ]
     },
+    { text: 'Offline', link: '/dev/Offline' },
     { text: 'Open Source', link: '/dev/OpenSource' },
     { text: 'PaperPhoto', link: '/dev/PaperPhoto' },
     { text: 'Python', link: '/dev/PythonPlanter' },
@@ -732,10 +733,7 @@ function sidebarReference() {
 function sidebarTutorials() {
   return [
     { text: 'Tutorial Overview', link: '/tutorials/Overview' },
-    {
-      text: 'Video Tutorials Overview', collapsed: false, items: [
-        { text: 'Video Tutorials Overview', link: '/tutorials/VideoTutorialsOverview' }]
-    },
+    { text: 'Video Tutorials Overview', link: '/tutorials/VideoTutorialsOverview' },
     { text: 'Labelling', link: '/tutorials/Test_LabelDiagram' },
     { text: 'Matching', link: '/tutorials/Test_Matching' },
     { text: 'MultipleChoice', link: '/tutorials/Test_MultipleChoice' },

@@ -1,4 +1,4 @@
-::: details 🛠
+::: details 🛠 DesignBox
 
 
 
@@ -20,8 +20,11 @@ A developer creates code and a writer creates the text presented to the planters
 
 Content can be written outside of VScode, then inserted later.
 
+
 ### Dictation
 
+
+#### DictationError
 ```py
 
 Homonyms = {
@@ -29,6 +32,7 @@ Homonyms = {
     'route': ['root'],
     'neuro': ['narrow'],
     'slash': ['/'],
+    'planter': ['planetary'],
 }
 
 ```
@@ -37,7 +41,7 @@ Homonyms = {
 
 0. SetUp Laptop with Plantbeta open on left half and the google doc open on the right. Record the audio with your phone being held up close to your mouth. 
 
-1. Look at the Page. 
+1. Look at the Page and the PaperPhotos in DesignBox. 
     - Think of something to say for each header. Say the header that you're thinking about, eg. "Subelements", "Related Elements", "Element Properties", "Definition"...etc
     - Say period, new line, 
 
@@ -47,7 +51,7 @@ Homonyms = {
     - Use Plantbeta terminology, don't worry about 
     - Glance at the text, but don't read it. Sometimes the recording stops.
 
-3. Paste Raw output into VScode Parse the output by adding bullet points
+3. Paste Raw output into VScode Parse the output by adding empty lines between parts
 4. Rephrase and correct grammar
     - Add punctuation
     - Capitalize
@@ -58,7 +62,7 @@ Homonyms = {
 6. Search for empty design box to find the next page to dictate (there's about 360 left to go, approx 60 hours or work)
 
 ```md
-::: details 🛠
+::: details 🛠 DesignBox
 
 
 
@@ -77,6 +81,20 @@ Look at a Spade while listing out all the properties of the spade instead of usi
 
 ### TagSpaces
 
+Use TagSpaces to 
+
+Convert the list of Papers associated with a given tag into a markdown photos
+
+
+```py
+
+PaperList = []
+
+for Paper in PaperPhotoList:
+    print(f'## {Paper}')
+    print(f'![PaperPhoto](/PaperPhoto/{Paper})')
+
+```
 ### Planting Videos
 
 ## Frontend
@@ -99,7 +117,7 @@ Look at a Spade while listing out all the properties of the spade instead of usi
 
 ```md
 
-::: details 🛠
+::: details 🛠 DesignBox
 
 
 

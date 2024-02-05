@@ -1,4 +1,4 @@
-::: details 🛠
+::: details 🛠 DesignBox
 
 ![PaperPhoto](/PaperPhoto/0019.jpg)
 

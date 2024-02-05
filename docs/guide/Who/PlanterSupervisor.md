@@ -1,4 +1,4 @@
-::: details 🛠
+::: details 🛠 DesignBox
 
 Supervisor is too many syllables. NameTooLong
 

@@ -4,7 +4,7 @@ layout: doc
 
 
 
-::: details 🛠
+::: details 🛠 DesignBox
 
 
 
@@ -77,7 +77,7 @@ This each line are analog pairs. The equal signs = denotes where Climbing and Pl
 
 :::
 
-::: details 🛠
+::: details 🛠 DesignBox
 
 
 

@@ -4,7 +4,7 @@ navbar: false
 sidebar: false
 ---
 
-::: details 🛠
+::: details 🛠 DesignBox
 
 
 

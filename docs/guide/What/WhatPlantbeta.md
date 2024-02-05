@@ -1,4 +1,4 @@
-::: details 🛠
+::: details 🛠 DesignBox
 
 
 
@@ -212,7 +212,7 @@ Plantbeta is divided into 6 sections:
 
 ## [How to Navigate this website.](/guide/How/Navigation)
 
-::: details 🛠
+::: details 🛠 DesignBox
 
 
 

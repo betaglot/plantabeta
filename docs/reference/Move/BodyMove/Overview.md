@@ -1,4 +1,4 @@
-::: details 🛠
+::: details 🛠 DesignBox
 
 - Body move overview every single move is a body move so body move is the superset of everything because a planter is a body so there's body moves and then there's each limb has their own particular variation for about for a body move body moves
 
