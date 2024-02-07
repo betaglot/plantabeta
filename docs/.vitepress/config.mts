@@ -319,7 +319,7 @@ function sidebarReference() {
           text: '🟠 <move>CacheMove</move>', collapsed: true, items: [
             { text: '🟠 <move>CacheMove Overview</move>', link: '/reference/Move/CacheMove/Overview' },
             { text: '🟠 <move>Cache Sequence</move>', link: '/reference/Move/CacheMove/CacheSequence' },
-            { text: '🟠 <move>GarbageBox</move>', link: '/reference/Move/CacheMove/GarbageBox' },
+            { text: '🟠 <move>Eating</move>', link: '/reference/Move/CacheMove/Eating' },
             { text: '🟠 <move>TarpOff</move>', link: '/reference/Move/CacheMove/TarpOff' },
             { text: '🟠 <move>TarpOn</move>', link: '/reference/Move/CacheMove/TarpOn' },
           ]

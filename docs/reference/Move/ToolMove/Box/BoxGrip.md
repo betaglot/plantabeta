@@ -1,16 +1,14 @@
 ::: details 🛠 DesignBox
 
-
+- BoxHandleGrip
+- BoxCornerGrip
+- BoxEdgeGrip
 
 :::
 
 # 🟠 <move>BoxGrip </move>🟠
 
-::: info
 
-
-
-:::
 
 
 ![MoveImage](/Move/MoveImage.png)
