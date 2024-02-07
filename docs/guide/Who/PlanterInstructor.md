@@ -14,6 +14,13 @@
 
 :::
 
+
+## Using Plantbeta Before the Season
+
+## Using Plantbeta During the Season
+
+## Using Plantbeta After the Season
+
 ## Tasks of Planter Instructors
 
 - Observe Novices to see which elements each is lacking and to give the Novice a report on things to work on.

@@ -649,7 +649,8 @@ function sidebarReference() {
             { text: '💜 <neuro>Muscle Overview</neuro>', link: '/reference/Neuro/Muscle/Overview' },
           ]
         },
-        { text: '💜 <neuro>Proprioception</neuro>', link: '/reference/Neuro/Proprioception' },
+        { text: '💜 <neuro>Proprioception</neuro>', link: '/reference/Neuro/Proprioception/Overview' },
+        { text: '💜 <neuro>Resilience</neuro>', link: '/reference/Neuro/Resilience/Overview' },
         {
           text: '💜 <neuro>SpatialCognition</neuro>', collapsed: true, items: [
             { text: '💜 <neuro>SpatialCognition Overview</neuro>', link: '/reference/Neuro/SpatialCognition/Overview' },

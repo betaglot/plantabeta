@@ -2,6 +2,7 @@
 
 ![PaperPhoto](/PaperPhoto/0017.jpg)
 
+
 :::
 
 # 🛠 Sequence
@@ -86,6 +87,8 @@ Control flow is the codified version of [Decision Making](/reference/Neuro/Decis
 ## Concurrency
 
 > In computer science, concurrency is the ability of different parts or units of a program, algorithm, or problem to be executed out-of-order or in partial order, without affecting the outcome. 
+
+Asyncronous
 
 ## Parallelism
 

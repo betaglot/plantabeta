@@ -23,7 +23,7 @@
 ## RequiredTools
 
 - Ear Plugs
-- Face mask
+- Sleep Mask
 - Pillow
 
 ## <move>Move Sequence</move>

@@ -8,6 +8,13 @@ Supervisor is too many syllables. NameTooLong
 
 > A person who manages a crew of Planters
 
+
+## Using Plantbeta Before the Season
+
+## Using Plantbeta During the Season
+
+## Using Plantbeta After the Season
+
 Supervisors need to traverse the exact same ground as planters 
 
 
