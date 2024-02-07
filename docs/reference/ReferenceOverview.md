@@ -1,6 +1,8 @@
 ::: details 🛠 DesignBox
 
+Reference overview should have a table of contents for the whole module
 
+Module overview 
 
 :::
 

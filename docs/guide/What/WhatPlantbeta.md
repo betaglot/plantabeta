@@ -32,6 +32,10 @@ Find out [what tree planting is](/guide/WhatTreePlanting) like across the world
 
 ## Why Plantbeta?
 
+### A Flexible System
+
+Flexibility gives systems resilience, they are able to return quickly to a previous good condition after problems.
+
 ### A Progressive System
 
 Plantbeta is a "progressive" system, meaning that Planbeta grows with your planting experience. If you're a Novice Planter, then Plantbeta's library of reference material, guides, tests and video tutorials (🛠 coming soon!) will help you to learn how to be a planter without becoming overwhelmed in your first week on the job.

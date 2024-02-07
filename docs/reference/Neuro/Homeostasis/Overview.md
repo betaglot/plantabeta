@@ -11,12 +11,43 @@
 - BloodGlucose
 - Blood PH
 - Hydration
+- Glabrous Skin in the hands, feet and forehead
+
+## HeatTransfer
+
+### Conduction
+- WetGloves
+### Radiation
+
+### EvaporativeCooling
+#### PhaseChange
+- Sweating
+- WetClothes
+- WetGloves in the Wind
+    - WaterproofGloves
+
+
+
+## Hot 
+
+- Hyperthermia
+- Sweating
+## Cold
+
+- Hypothermia
+- ColdFingers
 
 :::
 
 # 💜 <neuro>Homeostasis </neuro>💜
 
 ![NeuroImage](/Neuro/NeuroImage.png)
+
+
+
+
+
+
 ## Questions about the Element
 
 ::: details Questions 1

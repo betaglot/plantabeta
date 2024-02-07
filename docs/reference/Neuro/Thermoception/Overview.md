@@ -6,29 +6,7 @@
 
 # 💜 <neuro>Thermoception Overview</neuro> 💜
 
-## HeatTransfer
 
-### Conduction
-- WetGloves
-### Radiation
-
-### EvaporativeCooling
-#### PhaseChange
-- Sweating
-- WetClothes
-- WetGloves in the Wind
-    - WaterproofGloves
-
-
-
-## Hot 
-
-- Hyperthermia
-- Sweating
-## Cold
-
-- Hypothermia
-- ColdFingers
 
 ![NeuroImage](/Neuro/NeuroImage.png)
 ## Questions about the Element
