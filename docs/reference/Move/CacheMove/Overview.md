@@ -22,7 +22,7 @@
 
 :::
 
-# 🟠 <move>Cache Overview</move> 🟠
+# 🟠 <move>Cache Overview</move>
 
 ![CacheOverview](/Move/CacheOverview.png)
 

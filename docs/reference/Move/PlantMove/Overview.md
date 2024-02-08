@@ -4,7 +4,7 @@
 
 :::
 
-# 🟠 <move>Plant Overview </move>🟠
+# 🟠 <move>Plant Overview </move>
 
 ## Plant Anatomy
 

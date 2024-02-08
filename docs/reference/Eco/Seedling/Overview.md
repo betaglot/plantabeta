@@ -43,7 +43,7 @@
 - TreeTransport_Crummy_MaximumTreeBoxCount_SpaceLimit	
 :::
 
-# 🟩  <eco>Seedling Overview</eco> 🟩
+# 🟩  <eco>Seedling Overview</eco>
 
 Commonly known as a "Tree", even if 
 

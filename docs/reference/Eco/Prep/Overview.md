@@ -4,7 +4,7 @@
 
 :::
 
-# 🟩  <eco>Prep Eco Overview</eco> 🟩
+# 🟩  <eco>Prep Eco Overview</eco>
 
 
 

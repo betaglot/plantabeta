@@ -4,7 +4,7 @@
 
 :::
  
-# 🟠 <move>Spade Overview </move>🟠
+# 🟠 <move>Spade Overview</move>
 
 ## StaffSpade
 

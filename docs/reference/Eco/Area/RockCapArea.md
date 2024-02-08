@@ -4,7 +4,7 @@
 
 :::
 
-# 🟩  <eco>RockCapArea</eco> 🟩
+# 🟩  <eco>RockCapArea</eco>
 
 ![RockyLand](/Eco/RockyLand.png)
 

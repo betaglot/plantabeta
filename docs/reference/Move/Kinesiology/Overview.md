@@ -4,7 +4,7 @@
 
 :::
 
-# Kinesiology
+# 🟠 <move>Kinesiology</move>
 
 ## Fitness and Nutrition
 

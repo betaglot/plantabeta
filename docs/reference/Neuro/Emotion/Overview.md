@@ -4,4 +4,4 @@
 
 :::
 
-# 💜 <neuro>Emotion Overview </neuro>💜
+# 💜 <neuro>Emotion Overview </neuro>

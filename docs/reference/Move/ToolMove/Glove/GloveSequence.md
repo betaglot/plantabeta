@@ -4,4 +4,4 @@
 
 :::
 
-# 🟠 <move>GloveSequence</move> 🟠
+# 🟠 <move>GloveSequence</move>

@@ -4,4 +4,4 @@
 
 :::
 
-# 🟠 <move>Leg Sequence</move> 🟠
+# 🟠 <move>Leg Sequence</move>

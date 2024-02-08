@@ -4,7 +4,7 @@
 
 :::
 
-# 💜 <neuro>Slash Sound </neuro>💜
+# 💜 <neuro>Slash Sound </neuro>
 
 
 ## Falling

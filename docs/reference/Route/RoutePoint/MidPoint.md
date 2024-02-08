@@ -4,4 +4,4 @@
 
 :::
 
-# 🔺 <route>MidPoint</route> 🔺
+# 🔺 <route>MidPoint</route>

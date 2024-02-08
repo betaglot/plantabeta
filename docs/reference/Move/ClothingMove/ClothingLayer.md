@@ -4,7 +4,7 @@
 
 :::
 
-# 🟠 <move>ClothingLayer</move> 🟠
+# 🟠 <move>ClothingLayer</move>
 
 
 ## AddClothingLayer

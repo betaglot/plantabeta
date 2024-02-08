@@ -4,7 +4,7 @@
 
 :::
 
-# 🟠 <move>Tool Overview</move> 🟠
+# 🟠 <move>Tool Overview</move>
 
 ## Tool List
 

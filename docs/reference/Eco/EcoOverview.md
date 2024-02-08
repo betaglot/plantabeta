@@ -4,7 +4,7 @@
 
 :::
 
-# 🟩  <eco>Eco Overview</eco> 🟩
+# 🟩  <eco>Eco Overview</eco>
 
 ![InstaPhoto088](/InstaPhoto088.jpg)
 

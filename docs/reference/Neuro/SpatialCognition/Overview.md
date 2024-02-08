@@ -1,4 +1,4 @@
-# 💜 <neuro>Spatial Cognition</neuro> 💜
+# 💜 <neuro>Spatial Cognition</neuro>
 
 - Visuospatial Ability
 - Spatial Visualization

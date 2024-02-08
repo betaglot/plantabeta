@@ -4,7 +4,7 @@
 
 :::
 
-# 🟩  <eco>Piece Overview </eco>🟩
+# 🟩  <eco>Piece Overview </eco>
 
 ## PieceAnatomy
 

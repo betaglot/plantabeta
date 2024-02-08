@@ -10,7 +10,7 @@
 
 :::
 
-# 🟩  <eco>Slash Overview</eco> 🟩
+# 🟩  <eco>Slash Overview</eco>
 
 ## DeadSlash
 

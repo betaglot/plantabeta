@@ -4,7 +4,7 @@
 
 :::
 
-# 🟩  <eco>Density Overview</eco> 🟩
+# 🟩  <eco>Density Overview</eco>
 
 The number of [crop trees](/Glossary/glossary#crop-tree) within a given area.
 

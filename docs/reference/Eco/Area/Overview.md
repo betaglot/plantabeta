@@ -4,7 +4,7 @@
 
 :::
 
-# 🟩  <eco>Area Overview</eco> 🟩 
+# 🟩  <eco>Area Overview</eco> 
 
 # AreaAnatomy
 - Obstacle

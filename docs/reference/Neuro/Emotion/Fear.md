@@ -4,7 +4,7 @@
 
 :::
 
-# 💜 <neuro>Fear </neuro>💜
+# 💜 <neuro>Fear </neuro>
 
 ## Doubt
 

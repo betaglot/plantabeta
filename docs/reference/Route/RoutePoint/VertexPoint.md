@@ -4,6 +4,6 @@
 
 :::
 
-# 🔺 <route>Vertex </route> 🔺
+# 🔺 <route>Vertex</route>
 
 The point where RouteCurves converge into or diverge from.

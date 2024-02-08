@@ -4,7 +4,7 @@
 
 :::
 
-# 🟠 <move>Head Overview </move>🟠
+# 🟠 <move>Head Overview </move>
 
 ## Head Anatomy
 

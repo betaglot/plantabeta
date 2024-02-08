@@ -4,6 +4,6 @@
 
 :::
 
-# 💜 <neuro>Communication </neuro>💜
+# 💜 <neuro>Communication </neuro>
 
 ## Tone

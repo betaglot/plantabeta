@@ -4,4 +4,4 @@
 
 :::
 
-# 🟠 <move>Hand Sequence</move> 🟠
+# 🟠 <move>Hand Sequence</move>

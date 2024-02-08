@@ -4,7 +4,7 @@
 
 :::
 
-# 💜 <neuro>Timer </neuro>💜
+# 💜 <neuro>Timer </neuro>
 
 ![NeuroImage](/Neuro/NeuroImage.png)
 ## Questions about the Element
@@ -39,15 +39,15 @@ Answer 3
     src="https://observablehq.com/embed/@d3/force-directed-graph/2?cells=chart"
 ></iframe>
 
-## Related <neuro>NeuroElements</neuro> 💜
+## Related 💜<neuro>NeuroElements</neuro> 
 
-## Related<move> MoveElements </move>🟠
+## Related 🟠<move>MoveElements</move>
 - 
-## Related<eco> EcoElements </eco>🟩
+## Related 🟩<eco>EcoElements</eco>
 - Description of how this <neuro>NeuroElement </neuro>relates to a particular [EcoElement](/reference/Eco/EcoOverview).
 - Description of how this <neuro>NeuroElement </neuro>relates to a particular [EcoElement](/reference/Eco/EcoOverview).
 - Description of how this <neuro>NeuroElement </neuro>relates to a particular [EcoElement](/reference/Eco/EcoOverview).
-## Related RouteElements 🔺
+## Related 🔺<route>RouteElements</route>
 - 
 
 ## Examples

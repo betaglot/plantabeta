@@ -4,4 +4,4 @@
 
 :::
 
-# 🟩  <eco>BurntLand</eco> 🟩
+# 🟩  <eco>BurntLand</eco>

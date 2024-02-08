@@ -4,4 +4,4 @@
 
 :::
 
-# 💜 <neuro>Avoidance </neuro>💜
+# 💜 <neuro>Avoidance</neuro>

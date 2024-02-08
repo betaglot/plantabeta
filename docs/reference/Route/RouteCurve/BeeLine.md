@@ -4,7 +4,7 @@
 
 :::
 
-# 🔺 <route>BeeLine</route> 🔺
+# 🔺 <route>BeeLine</route>
 
 ## AlsoKnownAs
 

@@ -4,4 +4,4 @@
 
 :::
 
-# 🟠 <move>Boot </move>🟠
+# 🟠 <move>Boot </move>

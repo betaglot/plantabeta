@@ -4,7 +4,7 @@
 
 :::
 
-# 💜 <neuro>Neuro Overview </neuro>💜
+# 💜 <neuro>Neuro Overview </neuro>
 
 ::: danger
 

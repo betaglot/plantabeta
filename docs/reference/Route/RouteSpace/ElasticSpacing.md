@@ -4,7 +4,7 @@
 
 :::
 
-# 🔺 <route>ElasticSpacing </route>🔺
+# 🔺 <route>ElasticSpacing </route>
 
 ![RouteImage](/Route/RouteImage.png)
 

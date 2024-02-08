@@ -6,7 +6,7 @@
 - LandLibrary_LandObstacle_SubsurfaceObstacle_RockHit																									
 :::
 
-# 🟩  <eco>Obstacle Overview</eco> 🟩
+# 🟩  <eco>Obstacle Overview</eco>
 
 ## What is an Obstacle?
 

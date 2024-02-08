@@ -8,7 +8,7 @@
 
 :::
 
-# 🟠 <move>Eating</move> 🟠
+# 🟠 <move>Eating</move>
 
 
 ![MoveImage](/Move/MoveImage.png)
@@ -58,15 +58,15 @@
     src="https://observablehq.com/embed/@d3/force-directed-graph/2?cells=chart"
 ></iframe>
 
-## Related <move>MoveElements </move>🟠
+## Related <move>MoveElements </move>
 - 
 
-## Related<eco> EcoElements </eco>🟩
+## Related 🟩<eco>EcoElements</eco>
 - 
-## Related RouteElements 🔺
+## Related 🔺<route>RouteElements</route>
 - 
 
-## Related <neuro>NeuroElements</neuro> 💜
+## Related 💜<neuro>NeuroElements</neuro> 
 -  
 ## Quotes
 

@@ -39,7 +39,7 @@
 
 :::
 
-# 🔺 <route>Route Overview</route>  🔺
+# 🔺 <route>Route Overview</route>
 
 
 ## What is a Route?

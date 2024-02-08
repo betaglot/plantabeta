@@ -4,4 +4,4 @@
 
 :::
 
-# 💜 <neuro>Competition </neuro>💜
+# 💜 <neuro>Competition </neuro>

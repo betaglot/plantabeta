@@ -4,7 +4,7 @@
 
 :::
 
-# <neuro>💜 Arousal 💜</neuro>
+# 💜 <neuro>Arousal</neuro>
 
 ::: warning Not Sexual Arousal
 

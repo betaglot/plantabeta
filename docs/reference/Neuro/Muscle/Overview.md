@@ -1,4 +1,4 @@
-# 💜 <neuro>Muscle</neuro> 💜
+# 💜 <neuro>Muscle</neuro>
 
 
 

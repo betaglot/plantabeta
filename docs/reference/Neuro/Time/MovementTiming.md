@@ -4,7 +4,7 @@
 
 :::
 
-# 💜 <neuro>MoveTiming </neuro>💜
+# 💜 <neuro>MoveTiming </neuro>
 
 ## PlantingRate
 
@@ -54,19 +54,19 @@ Answer 3
     src="https://observablehq.com/embed/@d3/force-directed-graph/2?cells=chart"
 ></iframe>
 
-## Related<eco> EcoElements </eco>🟩
+## Related 🟩<eco>EcoElements</eco>
 - 
 ## Related <neuro>NeuroElements</neuro>
 
 
-## Related<move> MoveElements </move>🟠
+## Related 🟠<move>MoveElements</move>
 - 
 
 ## Examples
 
 - Use Media donated by Planters. 
 
-## Related <route>RouteElements </route>🔺
+## Related <route>RouteElements </route>
 
 Links to other related RouteElements. 
 

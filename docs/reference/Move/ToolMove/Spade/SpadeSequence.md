@@ -4,4 +4,4 @@
 
 :::
 
-# 🟠 <move>Spade Sequence</move> 🟠
+# 🟠 <move>Spade Sequence</move>

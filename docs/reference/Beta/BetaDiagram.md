@@ -4,4 +4,4 @@
 
 :::
 
-# 🔷 <beta>BetaDiagram</beta> 🔷
+# 🔷 <beta>BetaDiagram</beta>

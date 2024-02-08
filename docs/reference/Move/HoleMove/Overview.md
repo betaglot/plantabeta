@@ -14,7 +14,7 @@
 - HoleLibrary_Underrock_RockPry_ShovelMovement_ShovelBlade_																									
 :::
 
-# 🟠 <move>Hole Overview </move>🟠
+# 🟠 <move>Hole Overview </move>
 
 ## Hole Anatomy
 

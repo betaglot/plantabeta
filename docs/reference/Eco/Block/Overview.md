@@ -4,7 +4,7 @@
 
 :::
 
-# 🟩  <eco>Block Overview</eco> 🟩
+# 🟩  <eco>Block Overview</eco>
 
 ![Block](/Eco/Block.png)
 

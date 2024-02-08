@@ -4,7 +4,7 @@
 
 :::
 
-# 💜 <neuro>Event</neuro> 💜
+# 💜 <neuro>Event</neuro>
 
 - EventListener
 - Conditional

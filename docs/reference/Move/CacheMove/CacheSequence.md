@@ -4,4 +4,4 @@
 
 :::
 
-# 🟠 <move>Cache Sequence</move> 🟠
+# 🟠 <move>Cache Sequence</move>

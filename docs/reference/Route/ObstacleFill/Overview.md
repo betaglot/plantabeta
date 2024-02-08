@@ -4,7 +4,7 @@
 
 :::
 
-# 🔺 <route>ObstacleFill Overview </route>🔺
+# 🔺 <route>ObstacleFill Overview</route>
 
 
 

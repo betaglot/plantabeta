@@ -4,7 +4,7 @@
 
 :::
 
-# 🟠 <move>Move Overview </move>🟠
+# 🟠 <move>Move Overview </move>
 
 ## Orange Circle Emoji 🟠
 

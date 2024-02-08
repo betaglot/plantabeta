@@ -4,7 +4,7 @@
 
 :::
 
-# 🟠 <move>Hearing </move>🟠
+# 🟠 <move>Hearing </move>
 
 
 ![MoveImage](/Move/MoveImage.png)
@@ -54,17 +54,17 @@
     src="https://observablehq.com/embed/@d3/force-directed-graph/2?cells=chart"
 ></iframe>
 
-## Related <move>MoveElements </move>🟠
+## Related <move>MoveElements </move>
 - Description of how this MoveElement relates to a particular [<move>MoveElement</move>](/reference/Move/MoveOverview).
 - Description of how this MoveElement relates to a particular [<move>MoveElement</move>](/reference/Move/MoveOverview).
 - Description of how this MoveElement relates to a particular [<move>MoveElement</move>](/reference/Move/MoveOverview).
 
-## Related<eco> EcoElements </eco>🟩
+## Related 🟩<eco>EcoElements</eco>
 - 
-## Related RouteElements 🔺
+## Related 🔺<route>RouteElements</route>
 - 
 
-## Related <neuro>NeuroElements</neuro> 💜
+## Related 💜<neuro>NeuroElements</neuro> 
 -  
 ## Quotes
 

@@ -4,5 +4,6 @@
 
 :::
 
-# 💜 <neuro>Calm </neuro>💜
+# 💜 <neuro>Calm</neuro>
+
 ## Decrease Arousal

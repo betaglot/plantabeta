@@ -4,7 +4,7 @@
 
 :::
 
-# 🟩  <eco>RedRot</eco> 🟩
+# 🟩  <eco>RedRot</eco>
 
 
 ## Dark RedRot

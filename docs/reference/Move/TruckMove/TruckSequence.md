@@ -4,4 +4,4 @@
 
 :::
 
-# 🟠 <move>Truck Sequence</move> 🟠
+# 🟠 <move>Truck Sequence</move>

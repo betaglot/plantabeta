@@ -20,7 +20,7 @@
 
 :::
 
-# 🟩  <eco>AtmoshpereOverview</eco> 🟩
+# 🟩  <eco>AtmoshpereOverview</eco>
 
 
 

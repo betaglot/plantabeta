@@ -4,7 +4,7 @@
 
 :::
 
-# 🔺 <route>Flag Overview </route>🔺
+# 🔺 <route>Flag Overview </route>
 
 Tool=Flagger
 Move=Flagging

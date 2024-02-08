@@ -9,7 +9,7 @@ steeper land is inherently slower land could be described as fast slow closer re
 
 :::
 
-# 🟩  <eco>LandSpeed Overview</eco> 🟩
+# 🟩  <eco>LandSpeed Overview</eco>
 
 
 

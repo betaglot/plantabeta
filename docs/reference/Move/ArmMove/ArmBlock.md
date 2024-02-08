@@ -4,7 +4,7 @@
 
 :::
 
-# 🟠 <move>ArmBlock </move>🟠
+# 🟠 <move>ArmBlock </move>
 
 ![MoveImage](/Move/MoveImage.png)
 
@@ -37,7 +37,7 @@
 ## Related EcoElements 🟩
 - 
 
-## Related RouteElements 🔺
+## Related 🔺<route>RouteElements</route>
 - 
 
 ## Related NeuroElements 💜

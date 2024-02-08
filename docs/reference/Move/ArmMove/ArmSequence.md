@@ -4,4 +4,4 @@
 
 :::
 
-# 🟠 <move>Arm Sequence</move> 🟠
+# 🟠 <move>Arm Sequence</move>

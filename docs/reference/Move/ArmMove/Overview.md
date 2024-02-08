@@ -4,7 +4,7 @@
 
 :::
 
-# 🟠 <move>Arm Overview </move>🟠
+# 🟠 <move>Arm Overview </move>
 
 ## Arm Anatomy
 

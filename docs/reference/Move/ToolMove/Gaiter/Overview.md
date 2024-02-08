@@ -4,7 +4,7 @@
 
 :::
 
-# 🟠 <move>Gaiter Overview</move> 🟠
+# 🟠 <move>Gaiter Overview</move>
 
 ## Gaiter Anatomy
 

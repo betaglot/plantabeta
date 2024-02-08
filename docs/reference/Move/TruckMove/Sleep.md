@@ -4,7 +4,7 @@
 
 :::
 
-# 🟠 <move>Sleeping </move>🟠
+# 🟠 <move>Sleeping </move>
 
 ## Neck Support
 
@@ -61,15 +61,15 @@
     src="https://observablehq.com/embed/@d3/force-directed-graph/2?cells=chart"
 ></iframe>
 
-## Related <move>MoveElements </move>🟠
+## Related <move>MoveElements </move>
 - After work
 
-## Related<eco> EcoElements </eco>🟩
+## Related 🟩<eco>EcoElements</eco>
 - Bumpy road
-## Related RouteElements 🔺
+## Related 🔺<route>RouteElements</route>
 - 
 
-## Related <neuro>NeuroElements</neuro> 💜
+## Related 💜<neuro>NeuroElements</neuro> 
 -  Fatigue
 - Meditation
 - Relaxation

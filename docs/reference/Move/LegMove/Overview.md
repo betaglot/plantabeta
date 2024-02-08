@@ -4,7 +4,7 @@
 
 :::
 
-# 🟠 <move>Leg Overview</move> 🟠
+# 🟠 <move>Leg Overview</move>
 
 ## Leg Anatomy
 

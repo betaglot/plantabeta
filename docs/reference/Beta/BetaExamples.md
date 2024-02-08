@@ -4,7 +4,7 @@
 
 :::
 
-# 🔷 <beta>Beta Examples</beta> 🔷
+# 🔷 <beta>Beta Examples</beta>
 
 
 

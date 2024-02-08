@@ -4,6 +4,6 @@
 
 :::
 
-# 💜 <neuro>Attention Overview</neuro> 💜
+# 💜 <neuro>Attention Overview</neuro>
 
 ## Differences between Awareness and Attention

@@ -4,7 +4,7 @@
 
 :::
 
-# 🟩  <eco>SandSoil</eco> 🟩
+# 🟩  <eco>SandSoil</eco>
 
 
 ![EcoImage](/Eco/EcoImage.png)
@@ -53,13 +53,13 @@ Select:
 
 ## Related <eco>EcoElements </eco>🟩
 
-## Related <move>MoveElements </move>🟠
+## Related <move>MoveElements </move>
 
 
-## Related <route>RouteElements </route>🔺
+## Related <route>RouteElements </route>
 
 
-## Related <neuro>NeuroElements</neuro> 💜
+## Related 💜<neuro>NeuroElements</neuro> 
 
 
 

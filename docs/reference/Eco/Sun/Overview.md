@@ -5,7 +5,7 @@
 
 :::
 
-# 🟩  <eco>Sun Overview</eco> 🟩
+# 🟩  <eco>Sun Overview</eco>
 
 
 

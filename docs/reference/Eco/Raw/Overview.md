@@ -5,7 +5,7 @@ Raw land overview raw land is land which is been cut but not but this not all th
 
 :::
 
-# 🟩  <eco>RawLand Overview</eco> 🟩
+# 🟩  <eco>RawLand Overview</eco>
 
 
 

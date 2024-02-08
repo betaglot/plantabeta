@@ -4,7 +4,7 @@
 
 :::
 
-# 💜 <neuro>Decision Overview </neuro>💜
+# 💜 <neuro>Decision Overview </neuro>
 
 ## Conscious Decision
 

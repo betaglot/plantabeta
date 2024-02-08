@@ -4,4 +4,4 @@
 
 :::
 
-# 🟠 <move>Flag Sequence</move> 🟠
+# 🟠 <move>Flag Sequence</move>

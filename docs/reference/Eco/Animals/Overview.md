@@ -17,4 +17,4 @@
 
 :::
 
-# 🟩 <eco>Animals Overview</eco> 🟩
+# 🟩 <eco>Animals Overview</eco>
