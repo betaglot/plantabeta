@@ -4,7 +4,7 @@
 
 :::
 
-# 🟠 <move>Foot Overview </move>
+# 🟠 <move>Foot Overview</move>
 
 ## Foot Anatomy
 

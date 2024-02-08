@@ -4,7 +4,7 @@
 
 :::
 
-# 🔺 <route>PerimeterFill </route>
+# 🔺 <route>PerimeterFill</route>
 
 - Plant a PerimeterLine, only turning back on your line if you reach the road again
 
@@ -65,7 +65,7 @@ Answer 3
 
 - Use Media donated by Planters. 
 
-## Related <route>RouteElements </route>
+## Related <route>RouteElements</route>
 
 Links to other related RouteElements. 
 

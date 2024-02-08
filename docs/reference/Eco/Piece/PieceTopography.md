@@ -4,7 +4,7 @@
 
 :::
 
-# 🟩  <eco>Piece Topography </eco>
+# 🟩  <eco>Piece Topography</eco>
 
 
 ![EcoImage](/Eco/EcoImage.png)
@@ -51,12 +51,12 @@ Select:
     src="https://observablehq.com/embed/@d3/force-directed-graph/2?cells=chart"
 ></iframe>
 
-## Related <eco>EcoElements </eco>🟩
+## Related <eco>EcoElements</eco>🟩
 
-## Related <move>MoveElements </move>
+## Related <move>MoveElements</move>
 
 
-## Related <route>RouteElements </route>
+## Related <route>RouteElements</route>
 
 
 ## Related 💜<neuro>NeuroElements</neuro> 

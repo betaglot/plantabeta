@@ -4,4 +4,4 @@
 
 :::
 
-# 🟠 <move>Bundle Overview </move>
+# 🟠 <move>Bundle Overview</move>

@@ -4,7 +4,7 @@
 
 :::
 
-# 🟠 <move>Walk </move>
+# 🟠 <move>Walk</move>
 
 
 ![MoveImage](/Move/MoveImage.png)
@@ -66,7 +66,7 @@
     src="https://observablehq.com/embed/@d3/force-directed-graph/2?cells=chart"
 ></iframe>
 
-## Related <move>MoveElements </move>
+## Related <move>MoveElements</move>
 - Walk  [<move>DeadWalking</move>](/reference/Move/MoveError#dead-walk).
 - Description of how this Walk relates to a particular [<move>MoveElement</move>](/reference/Move/MoveOverview).
 - Description of how this Walk relates to a particular [<move>MoveElement</move>](/reference/Move/MoveOverview).

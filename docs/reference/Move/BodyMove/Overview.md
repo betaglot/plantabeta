@@ -16,7 +16,7 @@
 
 :::
 
-# 🟠 <move>Body Overview </move>
+# 🟠 <move>Body Overview</move>
 
 ## Body Anatomy
 

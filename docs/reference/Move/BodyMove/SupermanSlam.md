@@ -4,6 +4,6 @@
 
 :::
 
-# 🟠 <move>SupermanSlam </move>
+# 🟠 <move>SupermanSlam</move>
 
 Superman Punch

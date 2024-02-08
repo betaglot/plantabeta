@@ -4,7 +4,7 @@
 
 :::
 
-# 🟩  <eco>Plot </eco>🟩
+# 🟩  <eco>Plot</eco>🟩
 
 
 > The area of the circle who's radius is created by a plot cord of a given length, usually 4 meters
@@ -60,12 +60,12 @@ Select:
     src="https://observablehq.com/embed/@d3/force-directed-graph/2?cells=chart"
 ></iframe>
 
-## Related <eco>EcoElements </eco>🟩
+## Related <eco>EcoElements</eco>🟩
 
-## Related <move>MoveElements </move>
+## Related <move>MoveElements</move>
 
 
-## Related <route>RouteElements </route>
+## Related <route>RouteElements</route>
 
 
 ## Related 💜<neuro>NeuroElements</neuro> 

@@ -4,7 +4,7 @@
 
 :::
 
-# 🔺 <route>SpiralRoute </route>
+# 🔺 <route>SpiralRoute</route>
 
 
 ![RouteImage](/Route/RouteImage.png)
@@ -58,7 +58,7 @@ Answer 3
 
 - Use Media donated by Planters. 
 
-## Related <route>RouteElements </route>
+## Related <route>RouteElements</route>
 
 Links to other related RouteElements. 
 

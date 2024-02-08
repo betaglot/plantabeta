@@ -4,7 +4,7 @@
 
 :::
 
-# 🟠 <move>Bag Overview </move>
+# 🟠 <move>Bag Overview</move>
 
 ## Bag Anatomy
 

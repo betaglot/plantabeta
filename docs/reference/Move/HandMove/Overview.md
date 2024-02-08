@@ -4,7 +4,7 @@
 
 :::
 
-# 🟠 <move>Hand Overview </move>
+# 🟠 <move>Hand Overview</move>
 
 ## Hand Anatomy
 

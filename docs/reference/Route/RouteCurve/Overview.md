@@ -4,7 +4,7 @@
 
 :::
 
-# 🔺 <route>RouteCurve Overview </route>
+# 🔺 <route>RouteCurve Overview</route>
 
 ## What is a RouteCurve?
 

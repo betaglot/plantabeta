@@ -4,7 +4,7 @@
 
 :::
 
-# 🟩  <eco>WetSlash </eco>🟩
+# 🟩  <eco>WetSlash</eco>🟩
 
 
 

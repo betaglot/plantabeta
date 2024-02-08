@@ -4,7 +4,7 @@
 
 :::
 
-# 🟠 <move>Screef Overview </move>
+# 🟠 <move>Screef Overview</move>
 
 ## Screef Anatomy
 - Center

@@ -4,7 +4,7 @@
 
 :::
 
-# 🟠 <move>FlagGrip </move>
+# 🟠 <move>FlagGrip</move>
 
 ::: info
 
@@ -60,7 +60,7 @@
     src="https://observablehq.com/embed/@d3/force-directed-graph/2?cells=chart"
 ></iframe>
 
-## Related <move>MoveElements </move>
+## Related <move>MoveElements</move>
 - 
 
 ## Related 🟩<eco>EcoElements</eco>

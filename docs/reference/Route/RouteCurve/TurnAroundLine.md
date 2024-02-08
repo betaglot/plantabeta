@@ -4,7 +4,7 @@
 
 :::
 
-# 🔺 <route>GoBack </route>
+# 🔺 <route>GoBack</route>
 
 - Turn around
 - Go back on your line
@@ -68,7 +68,7 @@ Answer 3
 
 - Use Media donated by Planters. 
 
-## Related <route>RouteElements </route>
+## Related <route>RouteElements</route>
 
 Links to other related RouteElements. 
 

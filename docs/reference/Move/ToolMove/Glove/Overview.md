@@ -4,7 +4,7 @@
 
 :::
 
-# 🟠 <move>Glove Overview </move>
+# 🟠 <move>Glove Overview</move>
 
 ## Glove Anatomy
 

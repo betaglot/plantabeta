@@ -4,7 +4,7 @@
 
 :::
 
-# 🟠 <move>FlagRoll </move>
+# 🟠 <move>FlagRoll</move>
 
 ## FlagUnroll
 

@@ -4,7 +4,7 @@
 
 :::
 
-# 🟠 <move>Clothing Overview </move>
+# 🟠 <move>Clothing Overview</move>
 
 ## Clothing Properties
 

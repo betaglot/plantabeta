@@ -4,7 +4,7 @@
 
 :::
 
-# 🟠 <move>Truck Overview </move>
+# 🟠 <move>Truck Overview</move>
 
 ## Truck Anatomy
 

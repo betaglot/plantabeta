@@ -457,7 +457,7 @@ function sidebarReference() {
               ]
             },
             {
-              text: '🟠 <move>Boot </move>', collapsed: true, items: [
+              text: '🟠 <move>Boot</move>', collapsed: true, items: [
                 { text: 'Overview</move>', link: '/reference/Move/ToolMove/Boot/Overview' },
                 { text: 'Boot Sequence</move>', link: '/reference/Move/ToolMove/Boot/BootSequence' },
                 { text: 'BootGrip</move>', link: '/reference/Move/ToolMove/Boot/BootGrip' },
@@ -473,7 +473,7 @@ function sidebarReference() {
               ]
             },
             {
-              text: '🟠 <move>Bundle </move>', collapsed: true, items: [
+              text: '🟠 <move>Bundle</move>', collapsed: true, items: [
                 { text: 'Overview</move>', link: '/reference/Move/ToolMove/Bundle/Overview' },
                 { text: 'Bundle Sequence</move>', link: '/reference/Move/ToolMove/Bundle/BundleSequence' },
                 { text: 'BundleGrip</move>', link: '/reference/Move/ToolMove/Bundle/BundleGrip' },
@@ -481,7 +481,7 @@ function sidebarReference() {
               ]
             },
             {
-              text: '🟠 <move>Carabiner </move>', collapsed: true, items: [
+              text: '🟠 <move>Carabiner</move>', collapsed: true, items: [
                 { text: 'Overview</move>', link: '/reference/Move/ToolMove/Carabiner/Overview' },
               ]
             },
@@ -502,7 +502,7 @@ function sidebarReference() {
               ]
             },
             {
-              text: '🟠 <move>Gaiter </move>', collapsed: true, items: [
+              text: '🟠 <move>Gaiter</move>', collapsed: true, items: [
 
                 { text: 'Overview</move>', link: '/reference/Move/ToolMove/Gaiter/Overview' },
                 { text: 'Gaiter Sequence</move>', link: '/reference/Move/ToolMove/Gaiter/GaiterSequence' },
@@ -594,8 +594,8 @@ function sidebarReference() {
         },
         {
           text: '💜 <neuro>Decision</neuro>', collapsed: true, items: [
-            { text: '💜 <neuro> GoOrNoGo</neuro>', link: '/reference/Neuro/Decision/GoOrNoGo' },
-            { text: '💜 <neuro> MicrositeSelection</neuro>', link: '/reference/Neuro/Decision/MicrositeSelection' },
+            { text: '💜 <neuro>GoOrNoGo</neuro>', link: '/reference/Neuro/Decision/GoOrNoGo' },
+            { text: '💜 <neuro>MicrositeSelection</neuro>', link: '/reference/Neuro/Decision/MicrositeSelection' },
           ]
         },
         {
@@ -614,7 +614,7 @@ function sidebarReference() {
           ]
         },
         {
-          text: '💜 <neuro> Estimation</neuro>', collapsed: true, items: [
+          text: '💜 <neuro>Estimation</neuro>', collapsed: true, items: [
             { text: '💜 <neuro>AreaEstimation</neuro>', link: '/reference/Neuro/Estimation/AreaEstimation' },
             { text: '💜 <neuro>BagFillEstimation</neuro>', link: '/reference/Neuro/Estimation/BagFillEstimation' },
             { text: '💜 <neuro>DistanceEstimation</neuro>', link: '/reference/Neuro/Estimation/DistanceEstimation' },
@@ -633,13 +633,13 @@ function sidebarReference() {
           ]
         },
         {
-          text: '💜 <neuro> Memory</neuro>', collapsed: true, items: [
-            { text: '💜 <neuro> Overview</neuro>', link: '/reference/Neuro/Memory/Overview' },
-            { text: '💜 <neuro> WorkingMemory</neuro>', link: '/reference/Neuro/Memory/WorkingMemory' },
-            { text: '💜 <neuro> ShortTermMemory</neuro>', link: '/reference/Neuro/Memory/ShortTermMemory' },
-            { text: '💜 <neuro> LongTermMemory</neuro>', link: '/reference/Neuro/Memory/LongTermMemory' },
-            { text: '💜 <neuro> NumberMemory</neuro>', link: '/reference/Neuro/Memory/NumberMemory' },
-            { text: '💜 <neuro> RouteMemory</neuro>', link: '/reference/Neuro/Memory/RouteMemory' },
+          text: '💜 <neuro>Memory</neuro>', collapsed: true, items: [
+            { text: '💜 <neuro>Overview</neuro>', link: '/reference/Neuro/Memory/Overview' },
+            { text: '💜 <neuro>WorkingMemory</neuro>', link: '/reference/Neuro/Memory/WorkingMemory' },
+            { text: '💜 <neuro>ShortTermMemory</neuro>', link: '/reference/Neuro/Memory/ShortTermMemory' },
+            { text: '💜 <neuro>LongTermMemory</neuro>', link: '/reference/Neuro/Memory/LongTermMemory' },
+            { text: '💜 <neuro>NumberMemory</neuro>', link: '/reference/Neuro/Memory/NumberMemory' },
+            { text: '💜 <neuro>RouteMemory</neuro>', link: '/reference/Neuro/Memory/RouteMemory' },
 
 
           ]

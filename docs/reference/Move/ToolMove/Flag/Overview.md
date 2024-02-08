@@ -4,7 +4,7 @@
 
 :::
 
-# 🟠 <move>Flag Overview </move>
+# 🟠 <move>Flag Overview</move>
 
 ## Flag Anatomy
 
