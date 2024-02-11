@@ -41,6 +41,16 @@ Write complete sentences.
 
 Point form is lazy. Think about all the coding documentation which is not easy to read. Too formal, too concise, humans don't process language like computers, point of view matters.
 
+## "a" not "the"
+
+> The definite article "the" is used before a noun to indicate that the identity of the noun is known to the reader. The indefinite article "a, an" is used before a noun that is general or when its identity is not known.
+
+Good
+> Obstacle within a Hole
+
+Bad
+> Obstacle within the Hole
+
 ## You, not them
 
 Second person instead of 3rd person

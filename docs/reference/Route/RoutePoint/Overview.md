@@ -1,6 +1,8 @@
 ::: details 🛠 DesignBox
 
+- https://gwlucastrig.github.io/TinfourDocs/DelaunayIntro/index.html
 
+![DelaunayOptimality](/Route/Voronoi/DelaunayOptimality.png)
 
 :::
 

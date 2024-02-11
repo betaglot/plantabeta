@@ -38,7 +38,6 @@ export default defineConfig({
       '/reference/': sidebarReference(),
       '/tutorials/': sidebarTutorials(),
       '/dev/': sidebarDevelopment(),
-      '/sponsor/': sidebarSponsor(),
     }
   }
 })
@@ -47,7 +46,8 @@ function sidebarDevelopment() {
   return [
     { text: 'Development Overview', link: '/dev/DevOverview' },
     { text: 'Contact', link: '/dev/Contact' },
-    { text: 'Academia', link: '/dev/Academia' },
+    { text: 'Academia', link: '/dev/Academia' },   
+    { text: 'Art', link: '/dev/art/Overview' },
     { text: 'Data Visualization', link: '/dev/ElementsGraph' },
     { text: 'Donate Media', link: '/dev/Donation' },
     { text: 'Downloads', link: '/dev/Downloads' },
@@ -73,17 +73,12 @@ function sidebarDevelopment() {
     { text: 'Simulation', link: '/dev/Simulation' },
     { text: 'StyleGuide', link: '/dev/StyleGuide' },
     { text: 'Tagging', link: '/dev/Tagging' },
-    { text: 'NewTools', link: '/dev/NewTools' },
+    { text: 'Tools', link: '/dev/Tools' },
     { text: 'UX', link: '/dev/UX' },
     { text: 'AfternoonTask', link: '/dev/AfternoonTask' },
   ]
 }
 
-function sidebarSponsor() {
-  return [
-    { text: 'How to be a Sponsor', link: '/sponsor/Overview' },
-  ]
-}
 // # Nav
 function nav() {
   return [
@@ -106,11 +101,6 @@ function nav() {
       text: 'Development',
       link: 'dev/DevOverview',
       activeMatch: '/dev/'
-    },
-    {
-      text: 'Sponsors',
-      link: '/sponsor/Overview',
-      activeMatch: '/sponsor/'
     },
     // {
     //   text: '🔷 Klimbeta',
@@ -172,6 +162,7 @@ function sidebarReference() {
       text: '🔷 <beta>Beta</beta>', collapsed: true, items: [
         { text: '🔷 What is <beta>Beta</beta>?', link: '/reference/Beta/BetaOverview' },
         { text: '🔷 <beta>Beta</beta> Examples', link: '/reference/Beta/BetaExamples' },
+        { text: '🔷 <beta>BetaAction</beta>', link: '/reference/Beta/BetaAction' },
         { text: '🔷 <beta>BetaDiagram</beta>', link: '/reference/Beta/BetaDiagram' },
         { text: '🔷 <beta>BetaScript</beta>', link: '/reference/Beta/BetaScript' },
 
@@ -184,7 +175,7 @@ function sidebarReference() {
         {
           text: '🟩 <eco>Animals</eco>', collapsed: true, items: [
             { text: '🟩 <eco>Animals Overview</eco>', link: '/reference/Eco/Animals/Overview' },
-            
+
           ]
         },
         {
@@ -229,7 +220,9 @@ function sidebarReference() {
         {
           text: '🟩 <eco>Obstacle</eco>', collapsed: true, items: [
             { text: '🟩 <eco>Obstacle Overview</eco>', link: '/reference/Eco/Obstacle/Overview' },
+            { text: '🟩 <eco>HoleObstacle</eco>', link: '/reference/Eco/Obstacle/HoleObstacle' },
             { text: '🟩 <eco>LogObstacle</eco>', link: '/reference/Eco/Obstacle/LogObstacle' },
+            { text: '🟩 <eco>MicrositeObstacle</eco>', link: '/reference/Eco/Obstacle/MicrositeObstacle' },
             { text: '🟩 <eco>RockObstacle</eco>', link: '/reference/Eco/Obstacle/RockObstacle' },
             { text: '🟩 <eco>StumpObstacle</eco>', link: '/reference/Eco/Obstacle/StumpObstacle' },
           ]
@@ -768,8 +761,7 @@ function sidebarReference() {
   ]
 }
 
-
-
+// #Tutorial
 function sidebarTutorials() {
   return [
     { text: 'Tutorial Overview', link: '/tutorials/Overview' },

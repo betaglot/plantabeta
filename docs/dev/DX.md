@@ -125,3 +125,7 @@ for Paper in PaperPhotoList:
 
 ```
 
+## List all Files
+```sh
+find -type f -print0 | xargs -0 ls -t
+```

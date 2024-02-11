@@ -1,6 +1,6 @@
 ::: details 🛠 DesignBox
 
-
+- StumpObstacle is only an Obstacle for Cows
 
 :::
 

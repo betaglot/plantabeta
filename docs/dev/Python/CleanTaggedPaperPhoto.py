@@ -1,3 +1,7 @@
+"""
+All the PaperPhotos which have been Tagged
+
+"""
 tags = [
     {
         "name": "0010.jpg",

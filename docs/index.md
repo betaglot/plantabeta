@@ -27,9 +27,9 @@ hero:
 features:
   - icon: 🛠️
     title: Under Construction 
-    details: Last Updated February 9, 2024. This website is a prototype, not the final product
+    details: Last Updated February 11, 2024. This website is a prototype, not the final product
     link: /dev/devOverview
   - icon: ⏳
-    title: 85 days
+    title: 83 days
     details: until May 5 start day!
 ---
