@@ -6,7 +6,7 @@
 
 # To Steepen Learning Curve
 
-[InsertImage] Learning Curve Graph
+![LearningCurve](/guide/LearningCurve.png)
 
 ::: warning Trial and Error
 

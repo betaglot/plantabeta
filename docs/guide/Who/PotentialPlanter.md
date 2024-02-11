@@ -25,6 +25,9 @@ What is tree planting like?
 - Geometry
 
 ### Rugby
+
+![AllBlacksRugby](/guide/AllBlacksRugby.jpg)
+
 - Resilience
 - Leg Strength
 - DynamicMoves

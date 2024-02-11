@@ -172,6 +172,8 @@ function sidebarReference() {
     {
       text: '🟩 <eco>Eco</eco>', collapsed: true, items: [
         { text: '🟩 <eco>Eco Overview</eco>', link: '/reference/Eco/EcoOverview' },
+        { text: '🟩 <eco>Eco Sequence</eco>', link: '/reference/Eco/EcoSequence/Overview' },
+        { text: '🟩 <eco>Eco Difficulty</eco>', link: '/reference/Eco/EcoDifficulty' },
         {
           text: '🟩 <eco>Animals</eco>', collapsed: true, items: [
             { text: '🟩 <eco>Animals Overview</eco>', link: '/reference/Eco/Animals/Overview' },
@@ -284,6 +286,8 @@ function sidebarReference() {
     {
       text: '🟠 <move>Move</move>', collapsed: true, items: [
         { text: '🟠 <move>Move Overview</move>', link: '/reference/Move/MoveOverview' },
+        { text: '🟠 <move>Move Sequence</move>', link: '/reference/Move/MoveOverview' },
+        { text: '🟠 <move>Move Difficulty</move>', link: '/reference/Move/MoveDifficulty' },
         {
           text: '🟠 <move>ArmMove</move>', collapsed: true, items: [
             { text: '🟠 <move>ArmMove Overview</move>', link: '/reference/Move/ArmMove/Overview' },
@@ -548,6 +552,8 @@ function sidebarReference() {
     {
       text: '💜 <neuro>Neuro</neuro>', collapsed: true, items: [
         { text: '💜 <neuro>Neuro Overview</neuro>', link: '/reference/Neuro/NeuroOverview' },
+        { text: '💜 <neuro>Neuro Sequence</neuro>', link: '/reference/Neuro/NeuroSequence/Overview' },
+        { text: '💜 <neuro>Neuro Difficulty</neuro>', link: '/reference/Neuro/NeuroDifficulty' },
         {
           text: '💜 <neuro>Arousal</neuro>', collapsed: true, items: [
             { text: '💜 <neuro>Arousal Overview</neuro>', link: '/reference/Neuro/Arousal/Overview' },
@@ -669,6 +675,9 @@ function sidebarReference() {
     {
       text: '🔺 <route>Route</route>', collapsed: true, items: [
         { text: '🔺 <route>Route Overview</route>', link: '/reference/Route/RouteOverview' },
+        { text: '🔺 <route>Route Sequence</route>', link: '/reference/Route/RouteSequence/Overview' },
+        { text: '🔺 <route>Route Difficulty</route>', link: '/reference/Route/RouteDifficulty' },
+
         {
           text: '🔺 <route>Fill Algorithms</route>', collapsed: true, items: [
             { text: '🔺 <route>Fill Algorithms Overview</route>', link: '/reference/Route/FillAlgorithm/Overview' },

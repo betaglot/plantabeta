@@ -21,10 +21,12 @@ Use TagSpaces or equivalent
 ## Tagging Video
 
 - Decompose Video into images
+    - https://thepythoncode.com/article/extract-frames-from-videos-in-python
 - Number each frame
 - Choose frame rate
 - Choose the least blurry frame
     - Use upsampling to reduce blur
+
 
 ## Tagging Images
 

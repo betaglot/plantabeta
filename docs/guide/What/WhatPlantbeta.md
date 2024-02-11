@@ -27,7 +27,7 @@
 :::
 
 ::: tip 💡 New to Planting?
-Find out [what tree planting is](/guide/WhatTreePlanting) like across the world
+Find out [how trees are planted](/guide/WhatTreePlanting) in Canada
 :::
 
 ## Why Plantbeta?
@@ -46,11 +46,20 @@ If you're an Experienced Planter, then Plantbeta gives you the resources to find
 
 Plantbeta combines the best practices of the Planting Industry to offer the most robust and planter friendly planter system available. In addition, dozens of talented planters from across Canada have [contributed to the system](/dev/Contribute). Who knows, maybe you'll even become a Plantbeta contributor.
 
+## What Plantbeta is Not
+
+::: danger Plantbeta does not include: 
+
+- Logistics for management
+- How to Cook for Tree Planters
+- Tree Nursery Operation
+- Anything to do with cutting down trees
+- Medical Advice for Planters
+:::
 
 
 
-
-## How does Plantbeta provide Value to Planters?
+<!-- ## How does Plantbeta provide Value to Planters?
 
 ![ValuePyramid](/ValuePyramid.png)
 
@@ -180,25 +189,11 @@ Plantbeta combines the best practices of the Planting Industry to offer the most
 
 :::
 
----
+--- -->
 
 
-## Plantbeta Strategy
 
-- To achieve the largest market share possible.
-- To modernize planting by leveraging computer science's ability to automate the boring stuff. To make being a Tree Planter less boring, more engaging, less dangerous and to conserve metabolic and neural energy.
-
-
-## What Plantbeta is Not
-
-Limits, Boundary, Constraint, Scope
-
-- Logistics for management
-- Cook
-- Nursery
-
-
-## Website Sections
+<!-- ## Website Sections
 
 Plantbeta is divided into 6 sections:
 
@@ -339,4 +334,4 @@ The users of Plantbeta can take multiple paths through Plantbeta depending on th
 
 
 
-
+ -->
