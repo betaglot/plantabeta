@@ -516,6 +516,12 @@
         "Eco.LandProperties.Overview",
         "Eco.Overview"
     ],
+    "Eco/EcoSequence/Overview.md": [
+        "Eco.LandSequence"
+    ],
+    "Eco/EcoGeometry/EcoSpace.md": [
+        "Eco.LandSpace.Overview"
+    ],
     "Eco/LandSpeed/FastLand.md": [],
     "Eco/LandSpeed/Overview.md": [
         "Eco.LandSpace.Routesetting",

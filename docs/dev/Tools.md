@@ -9,29 +9,57 @@
 
 # 🛠 Tools Innovation
 
-## Cart
+![TreePlanter](/TreePlanter001.jpg)
+![TreePlanter](/TreePlanter.jpg)
+
+## <move>Cart</move>
 
 - WalkIn
 - BoxMove
 
-## Planter Bags
+## <move>Planter Bags</move>
+
+### 'Basket' instead of 'Sidebags'
 
 `Analogy{Saddle: PlanterBag}`
 
-### Bag Material
-
+### <move>Bag Material</move>
 - Not plastic
+- Carbon Fiber
+- 
 
-### Corset
+### <move>Corset</move>
 
 - Planters wear a corset under their waist belt like a saddle pad
 - Corset restricts BendOver
 
-### Waistbelt
+### <move>Waistbelt</move>
 
 - Suspension System
 
-### Bag Skeleton
+### <move>BagFrame</move>
+
+::: details Images
+
+![BagFrame_001](/dev/BagFrame_001.jpg)
+
+:::
+
+Frame which supports the bag
+
+https://www.carryology.com/liking/industry/human-interface-a-guide-to-backpack-harness-innovation/
+
+
+#### Laminated Plywood
+
+https://www.eaa.org/eaa/aircraft-building/builderresources/while-youre-building/building-articles/wood/laminating-and-bending-wood
+
+Make cardboard prototype.
+
+"Lay up"
+
+
+### <move>BagSkeleton</move>
 
 Pannier
 
@@ -39,13 +67,13 @@ Pannier
 - To keep sidebags from rubbing on legs.
 - Suspension system
 
-### BackBag Flap
+### <move>BackBag Flap</move>
 
 - Use waterproof Flap instead of sphincter design, since sphincter allows water to collect and slowly seep into backbag.
 - Pocket on underside of Flap
 
 
-## Flag
+## <route>Flag</route>
 
 - Paper
 - Conformable
@@ -55,7 +83,16 @@ Pannier
 - Recycled
 - Curls by itself
 
-## Vambrace
+## <move>Vambrace</move>
+
+::: tip AlsoKnownAs
+Bracer, Gauntlet,
+:::
+
+![GRG Pouch](/po-grgp-nln-detail03.jpg)
+![GRG Pouch](/po-grgp-nln-detail04.jpg)
+
+- https://eu.directactiongear.com/en/grg-pouchr.html#RGR
 
 "han kote" is a Japanese Vambrace
 
@@ -67,6 +104,8 @@ The goal of vambrace is to keep the hand clean and warm. There isn't a need to p
 
 - The prinicipal constraint is being able to fit your hand, proximal of the knuckles, into the OpenHole without getting snagged on the hole.
 
+### Lightyear Notepad
+
 ### Warmth
 - Vambrace triplet brochure conductive metal sheets to wear on core then transfer to forearms
     - Extra weight for more heat during cold weather
@@ -74,11 +113,17 @@ The goal of vambrace is to keep the hand clean and warm. There isn't a need to p
 - You only need to worry about the back of your hands. Glabrous warms the palm
 - Wool lining
 
-### Flagger
+### <move>Flagger</move>
 
 Ideally there would be a Flagger on each Vambrace
 
-## Glove
+## <move>Rope</move>
+
+### <route>PlotCord</route>
+
+### <eco>Lashing SummerCache</eco>
+
+## <move>Glove</move>
 
 - SplitMitt Shell
     - Easier to repair 
@@ -95,11 +140,53 @@ Ideally there would be a Flagger on each Vambrace
 - Glove which does not collect dirt unlike the knitted gloves currently used by most planters
 - Easily taken off without getting dirt inside
 
-### Abrasion Resistant Material
+### <move>Abrasion Resistant Material</move>
 
 Cordura or Kevlar
 - https://www.testextextile.com/evaluating-the-abrasion-resistance-of-different-fabric-types/#Most_Abrasion-Resistant_Synthetic_Fibers
 
-## Cache Bag
+## <move>Cache Bag</move>
 
-## Water Volume
+## <move>Water Volume</move>
+
+
+## <move>PlanterSuit</move>
+
+```py
+SuitParts = [
+    'LeftVambrace',
+    'RightVambrace',
+    'LeftShoulder',
+    'RightShoulder', 
+    'LeftGreave', 
+    'RightGreave', 
+    'Hips',
+    'Hat',
+    'Neck'
+]
+
+```
+
+Spacesuit
+
+- Swap out hips to dry the sweat to prevent SkinErosion. Wet skin erodes more than dry skin.
+- Adding a warm layer without having to take off your entire top layer
+- Vambraces are constant
+
+### Systematic
+
+Everything fits together and is modular.
+
+Gasket
+
+### Modularity
+
+#### Suit of Armor
+- Samurai Armor
+
+#### SuitSwap out parts to adapt to Eco and Move.
+
+
+
+### LocalizedRepair
+

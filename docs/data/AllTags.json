@@ -29,8 +29,8 @@
     "Eco.LandEvent",
     "Eco.LandName",
     "Eco.LandQuestion",
-    "Eco.LandSequence",
-    "Eco.LandSpace.Overview",
+
+   
     "Eco.MixedLand",
     "Move.ToolMove.SpadeMove.SpadeDrop",
     "Move.ToolMove.SpadeMove.SpadePogo",

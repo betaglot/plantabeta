@@ -288,6 +288,14 @@ function sidebarReference() {
         { text: '🟠 <move>Move Overview</move>', link: '/reference/Move/MoveOverview' },
         { text: '🟠 <move>Move Sequence</move>', link: '/reference/Move/MoveOverview' },
         { text: '🟠 <move>Move Difficulty</move>', link: '/reference/Move/MoveDifficulty' },
+        {text: '🟠 <move>MoveGeometry</move>', collapsed: true, items: [
+          { text: '🟠 <move>Overview</move>', link: '/reference/Move/MoveGeometry/Overview' },
+          { text: '🟠 <move>MovePoint</move>', link: '/reference/Move/MoveGeometry/MovePoint' },
+          { text: '🟠 <move>MoveCurve</move>', link: '/reference/Move/MoveGeometry/MoveCurve' },
+          { text: '🟠 <move>MoveSpace</move>', link: '/reference/Move/MoveGeometry/MoveSpace' },
+          { text: '🟠 <move>MoveSurface</move>', link: '/reference/Move/MoveGeometry/MoveSurface' },
+        ]
+        },
         {
           text: '🟠 <move>ArmMove</move>', collapsed: true, items: [
             { text: '🟠 <move>ArmMove Overview</move>', link: '/reference/Move/ArmMove/Overview' },
@@ -713,48 +721,53 @@ function sidebarReference() {
           ]
         },
         {
-          text: '🔺 <route>RouteCurve</route>', collapsed: true, items: [
-            { text: '🔺 <route>RouteCurve Overview</route>', link: '/reference/Route/RouteCurve/Overview' },
-            { text: '🔺 <route>AroundCurve</route>', link: '/reference/Route/RouteCurve/AroundCurve' },
-            { text: '🔺 <route>GhostLine</route>', link: '/reference/Route/RouteCurve/GhostLine' },
-            { text: '🔺 <route>ParallelCurve</route>', link: '/reference/Route/RouteCurve/ParalleCurvee' },
-            { text: '🔺 <route>PerimeterCurve</route>', link: '/reference/Route/RouteCurve/PerimeterCurve' },
-            { text: '🔺 <route>SpiralCurve</route>', link: '/reference/Route/RouteCurve/SpiralCurve' },
-            { text: '🔺 <route>TurnAroundCurve</route>', link: '/reference/Route/RouteCurve/TurnAroundCurve' },
-            { text: '🔺 <route>ZigzagCurve</route>', link: '/reference/Route/RouteCurve/ZigzagCurve' },
-          ]
-        },
-        {
-          text: '🔺 <route>RouteSpace</route>', collapsed: true, items: [
-            { text: '🔺 <route>Spacing Overview</route>', link: '/reference/Route/RouteSpace/Overview' },
-            { text: '🔺 <route>MaximumSpacing</route>', link: '/reference/Route/RouteSpace/MaximumSpacing' },
-            { text: '🔺 <route>MinimumSpacing</route>', link: '/reference/Route/RouteSpace/MinimumSpacing' },
-            { text: '🔺 <route>OptimalSpacing</route>', link: '/reference/Route/RouteSpace/OptimalSpacing' },
-            { text: '🔺 <route>ElasticSpacing</route>', link: '/reference/Route/RouteSpace/ElasticSpacing' },
-            { text: '🔺 <route>SpacingOnSlope</route>', link: '/reference/Route/RouteSpace/SpacingOnSlope' },
+          text: '🔺 <route>RouteGeometry</route>', collapsed: true, items: [
+            {
+              text: '🔺 <route>RoutePoint</route>', collapsed: true, items: [
+                { text: '🔺 <route>Overview</route>', link: '/reference/Route/RoutePoint/Overview' },
+                { text: '🔺 <route>CenterPoint</route>', link: '/reference/Route/RoutePoint/CenterPoint' },
+                { text: '🔺 <route>InflectionPoint</route>', link: '/reference/Route/RoutePoint/InflectionPoint' },
+                { text: '🔺 <route>Midpoint</route>', link: '/reference/Route/RoutePoint/Midpoint' },
+                { text: '🔺 <route>ReferencePoint</route>', link: '/reference/Route/RoutePoint/ReferencePoint' },
+                { text: '🔺 <route>ReflectionPoint</route>', link: '/reference/Route/RoutePoint/ReflectionPoint' },
+                { text: '🔺 <route>TargetPoint</route>', link: '/reference/Route/RoutePoint/TargetPoint' },
+    
+              ]
+            },
+            {
+              text: '🔺 <route>RouteCurve</route>', collapsed: true, items: [
+                { text: '🔺 <route>RouteCurve Overview</route>', link: '/reference/Route/RouteCurve/Overview' },
+                { text: '🔺 <route>AroundCurve</route>', link: '/reference/Route/RouteCurve/AroundCurve' },
+                { text: '🔺 <route>GhostLine</route>', link: '/reference/Route/RouteCurve/GhostLine' },
+                { text: '🔺 <route>ParallelCurve</route>', link: '/reference/Route/RouteCurve/ParalleCurvee' },
+                { text: '🔺 <route>PerimeterCurve</route>', link: '/reference/Route/RouteCurve/PerimeterCurve' },
+                { text: '🔺 <route>SpiralCurve</route>', link: '/reference/Route/RouteCurve/SpiralCurve' },
+                { text: '🔺 <route>TurnAroundCurve</route>', link: '/reference/Route/RouteCurve/TurnAroundCurve' },
+                { text: '🔺 <route>ZigzagCurve</route>', link: '/reference/Route/RouteCurve/ZigzagCurve' },
+              ]
+            },
+            {
+              text: '🔺 <route>RouteSpace</route>', collapsed: true, items: [
+                { text: '🔺 <route>Spacing Overview</route>', link: '/reference/Route/RouteSpace/Overview' },
+                { text: '🔺 <route>MaximumSpacing</route>', link: '/reference/Route/RouteSpace/MaximumSpacing' },
+                { text: '🔺 <route>MinimumSpacing</route>', link: '/reference/Route/RouteSpace/MinimumSpacing' },
+                { text: '🔺 <route>OptimalSpacing</route>', link: '/reference/Route/RouteSpace/OptimalSpacing' },
+                { text: '🔺 <route>ElasticSpacing</route>', link: '/reference/Route/RouteSpace/ElasticSpacing' },
+                { text: '🔺 <route>SpacingOnSlope</route>', link: '/reference/Route/RouteSpace/SpacingOnSlope' },
+    
+              ]
+            },
+            {
+              text: '🔺 <route>RouteSurface</route>', collapsed: true, items: [
+                { text: '🔺 <route>Overview</route>', link: '/reference/Route/RouteSurface/Overview' },
+                { text: '🔺 <route>RouteSurface Texture</route>', link: '/reference/Route/RouteSurface/RouteSurfaceTexture' },
+              ]
+            },
 
           ]
         },
-        {
-          text: '🔺 <route>RoutePoint</route>', collapsed: true, items: [
-            { text: '🔺 <route>Overview</route>', link: '/reference/Route/RoutePoint/Overview' },
-            { text: '🔺 <route>CenterPoint</route>', link: '/reference/Route/RoutePoint/CenterPoint' },
-            { text: '🔺 <route>InflectionPoint</route>', link: '/reference/Route/RoutePoint/InflectionPoint' },
-            { text: '🔺 <route>Midpoint</route>', link: '/reference/Route/RoutePoint/Midpoint' },
-            { text: '🔺 <route>ReferencePoint</route>', link: '/reference/Route/RoutePoint/ReferencePoint' },
-            { text: '🔺 <route>ReflectionPoint</route>', link: '/reference/Route/RoutePoint/ReflectionPoint' },
-            { text: '🔺 <route>TargetPoint</route>', link: '/reference/Route/RoutePoint/TargetPoint' },
-
-          ]
-        },
-        {
-          text: '🔺 <route>RouteSurface</route>', collapsed: true, items: [
-            { text: '🔺 <route>Overview</route>', link: '/reference/Route/RouteSurface/Overview' },
-            { text: '🔺 <route>RouteSurface Texture</route>', link: '/reference/Route/RouteSurface/RouteSurfaceTexture' },
-
-
-          ]
-        },
+       
+        
         {
           text: '🔺 <route>TeamPlant</route>', collapsed: true, items: [
             { text: '🔺 <route>TeamPlant Overview</route>', link: '/reference/Route/TeamPlant/Overview' },

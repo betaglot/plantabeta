@@ -153,3 +153,76 @@ When is it useful for emojis to be monochrome outlines?
 ```
 
 
+## DesignBox
+
+```md
+::: details 🛠 DesignBox
+
+
+
+:::
+```
+### DesignBox.Move
+
+```md
+::: details 🛠 DesignBox
+
+
+
+:::
+
+# 🟠 <move>Move</move>
+
+```
+
+### DesignBox.Eco
+
+```md
+::: details 🛠 DesignBox
+
+
+
+:::
+
+# 🟩 <eco>Eco</eco>
+
+```
+
+### DesignBox.Route
+
+```md
+::: details 🛠 DesignBox
+
+
+
+:::
+
+# 🔺 <route>Route</route>
+
+```
+
+### DesignBox.Neuro
+
+```md
+::: details 🛠 DesignBox
+
+
+
+:::
+
+# 💜 <neuro>Neuro</neuro>
+```
+
+### DesignBox.Beta
+
+```md
+::: details 🛠 DesignBox
+
+
+
+:::
+
+# 🔷 <beta>Beta</beta>
+
+```
+
