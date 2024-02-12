@@ -4,4 +4,4 @@
 
 :::
 
-# 🟩  <eco>EcoDifficulty</eco>
+# 🟩  <eco>Vegetation</eco>

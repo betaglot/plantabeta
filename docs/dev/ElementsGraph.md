@@ -138,7 +138,7 @@ Value is added along a sequence of steps. Like Bioamplification of poison in Pre
 **Saves Time**
 - FlagMove while Walking away.
 - Use one forceful ScreefMove instead of many weak ScreefMoves.
-- FootScreef a thin DuffLayer instead of bending over to ShovelScreef.   
+- FootScreef a thin DuffLayer instead of bending over to SpadeScreef.   
 
 **Simplifies**
 - MoveShape 
@@ -151,7 +151,7 @@ Value is added along a sequence of steps. Like Bioamplification of poison in Pre
 
 **Connects**
 - AbsorbMove allows smooth transitions between Moves.
-- Use ArmAbsorb to redirect Spade during ShovelMoves.
+- Use ArmAbsorb to redirect Spade during SpadeMoves.
 
 **Reduces Effort**
 - Remove Clothing Layer to reduce your body's need for sweat.

@@ -43648,7 +43648,7 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Move.ToolMove.ShovelMove.Overview",
+                    "title": "Move.ToolMove.SpadeMove.Overview",
                     "color": "#ff7537ff",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -43688,7 +43688,7 @@
                 "textcolor": "#000000ff"
             },
             {
-                "title": "Move.ToolMove.ShovelMove.Overview",
+                "title": "Move.ToolMove.SpadeMove.Overview",
                 "color": "#ff7537ff",
                 "textcolor": "white"
             },
@@ -46633,7 +46633,7 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Move.ToolMove.ShovelMove.ShovelProp",
+                    "title": "Move.ToolMove.SpadeMove.SpadeProp",
                     "color": "#ff7537ff",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -46698,7 +46698,7 @@
                 "textcolor": "white"
             },
             {
-                "title": "Move.ToolMove.ShovelMove.ShovelProp",
+                "title": "Move.ToolMove.SpadeMove.SpadeProp",
                 "color": "#ff7537ff",
                 "textcolor": "white"
             },
@@ -49767,7 +49767,7 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Move.ToolMove.ShovelMove.ShovelProbe",
+                    "title": "Move.ToolMove.SpadeMove.SpadeProbe",
                     "color": "#ff7537ff",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -49833,7 +49833,7 @@
                 "textcolor": "white"
             },
             {
-                "title": "Move.ToolMove.ShovelMove.ShovelProbe",
+                "title": "Move.ToolMove.SpadeMove.SpadeProbe",
                 "color": "#ff7537ff",
                 "textcolor": "white"
             },
@@ -51439,7 +51439,7 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Move.ToolMove.ShovelMove.Overview",
+                    "title": "Move.ToolMove.SpadeMove.Overview",
                     "color": "#ff7537ff",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -51508,7 +51508,7 @@
                 "textcolor": "white"
             },
             {
-                "title": "Move.ToolMove.ShovelMove.Overview",
+                "title": "Move.ToolMove.SpadeMove.Overview",
                 "color": "#ff7537ff",
                 "textcolor": "white"
             },
@@ -56148,7 +56148,7 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Move.HandMove.ShovelHandleGrip",
+                    "title": "Move.HandMove.SpadeHandleGrip",
                     "color": "#ff7537ff",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -56203,7 +56203,7 @@
                 "textcolor": "#000000ff"
             },
             {
-                "title": "Move.HandMove.ShovelHandleGrip",
+                "title": "Move.HandMove.SpadeHandleGrip",
                 "color": "#ff7537ff",
                 "textcolor": "white"
             },
@@ -58400,7 +58400,7 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Move.ToolMove.ShovelMove.Overview",
+                    "title": "Move.ToolMove.SpadeMove.Overview",
                     "color": "#ff7537ff",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -58434,7 +58434,7 @@
                 "textcolor": "white"
             },
             {
-                "title": "Move.ToolMove.ShovelMove.Overview",
+                "title": "Move.ToolMove.SpadeMove.Overview",
                 "color": "#ff7537ff",
                 "textcolor": "white"
             },
@@ -60619,7 +60619,7 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Move.ToolMove.ShovelMove.Overview",
+                    "title": "Move.ToolMove.SpadeMove.Overview",
                     "color": "#ff7537ff",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -60658,7 +60658,7 @@
                 "textcolor": "white"
             },
             {
-                "title": "Move.ToolMove.ShovelMove.Overview",
+                "title": "Move.ToolMove.SpadeMove.Overview",
                 "color": "#ff7537ff",
                 "textcolor": "white"
             },
@@ -60820,7 +60820,7 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Move.ToolMove.ShovelMove.ShovelScreef",
+                    "title": "Move.ToolMove.SpadeMove.SpadeScreef",
                     "color": "#ff7537ff",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -60874,7 +60874,7 @@
                 "textcolor": "white"
             },
             {
-                "title": "Move.ToolMove.ShovelMove.ShovelScreef",
+                "title": "Move.ToolMove.SpadeMove.SpadeScreef",
                 "color": "#ff7537ff",
                 "textcolor": "white"
             },
@@ -64518,7 +64518,7 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Move.ToolMove.ShovelMove.ShovelUnplant",
+                    "title": "Move.ToolMove.SpadeMove.SpadeUnplant",
                     "color": "#ffffffff",
                     "textcolor": "#000000ff",
                     "type": "sidecar"
@@ -64588,7 +64588,7 @@
                 "textcolor": "#ffffffff"
             },
             {
-                "title": "Move.ToolMove.ShovelMove.ShovelUnplant",
+                "title": "Move.ToolMove.SpadeMove.SpadeUnplant",
                 "color": "#ffffffff",
                 "textcolor": "#000000ff"
             },
@@ -80114,7 +80114,7 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Move.ToolMove.ShovelMove.ShovelProp",
+                    "title": "Move.ToolMove.SpadeMove.SpadeProp",
                     "color": "#ff7537ff",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -80145,7 +80145,7 @@
                 "textcolor": "white"
             },
             {
-                "title": "Move.ToolMove.ShovelMove.ShovelProp",
+                "title": "Move.ToolMove.SpadeMove.SpadeProp",
                 "color": "#ff7537ff",
                 "textcolor": "white"
             }

@@ -6,12 +6,12 @@
 - HoleLibrary_ParaLog_RottenLog_RedRot_DuffShot_												
 - HoleLibrary_ParaLog_RottenLog_TreeInspector												
 - HoleLibrary_ParaRock_RockSize_LithosphereInfluence												
-- HoleLibrary_ParaStump_FastLand_OneHandMovement_ShovelLeverScreef_												
-- HoleLibrary_Root_ThickRoot_ShovelSnag												
+- HoleLibrary_ParaStump_FastLand_OneHandMovement_SpadeLeverScreef_												
+- HoleLibrary_Root_ThickRoot_SpadeSnag												
 - HoleLibrary_Root_ThinRoot_PlantingSound												
-- HoleLibrary_TreeFertilizerHole_ParaHole_ShovelThrow												
+- HoleLibrary_TreeFertilizerHole_ParaHole_SpadeThrow												
 - HoleLibrary_TreeFertilizerHole_SameHole_PlantingSequence												
-- HoleLibrary_Underrock_RockPry_ShovelMovement_ShovelBlade_																									
+- HoleLibrary_Underrock_RockPry_SpadeMovement_SpadeBlade_																									
 :::
 
 # 🟠 <move>Hole Overview</move>
