@@ -1,6 +1,7 @@
 ::: details 🛠 DesignBox
 
-
+- SelfAwareness
+    - Stephen Fleming [Know Thyself](https://metacoglab.org/people)
 
 :::
 

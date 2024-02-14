@@ -428,9 +428,9 @@
         "Dev.ToolDiagram",
         "Dev.ToolDiagram.BagsDiagram",
         "Dev.Tools",
-        "Dev.Tools.Kit",
         "Dev.Tools.Cart",
         "Dev.Tools.Flag",
+        "Dev.Tools.Kit",
         "Dev.Tools.PlantingBag",
         "Dev.Tools.Screefer",
         "Dev.Tools.Spade"
@@ -510,6 +510,9 @@
         "Eco.EcoDifficulty.LandRisk",
         "Eco.EcoDifficulty.Overview"
     ],
+    "Eco/EcoGeometry/EcoSpace.md": [
+        "Eco.LandSpace.Overview"
+    ],
     "Eco/EcoOverview.md": [
         "Eco.LandProperties.InorganicLand",
         "Eco.LandProperties.OrganicLand",
@@ -518,9 +521,6 @@
     ],
     "Eco/EcoSequence/Overview.md": [
         "Eco.LandSequence"
-    ],
-    "Eco/EcoGeometry/EcoSpace.md": [
-        "Eco.LandSpace.Overview"
     ],
     "Eco/LandSpeed/FastLand.md": [],
     "Eco/LandSpeed/Overview.md": [
@@ -1416,64 +1416,106 @@
     "Move/ToolMove/Rope/Overview.md": [],
     "Move/ToolMove/Spade/Overview.md": [
         "Move.ToolMove.SpadeMove.Overview",
-        "Move.ToolMove.SpadeMove.SpadeClose"
+        "Move.ToolMove.SpadeMove.SpadeClose",
+        "Move.ToolMove.SpadeMove.SpadeDrop",
+        "Move.ToolMove.SpadeMove.SpadePush",
+        "Move.ToolMove.SpadeMove.SpadeUnplant"
     ],
     "Move/ToolMove/Spade/SpadeChop.md": [
         "Move.ToolMove.SpadeMove.SpadeChop"
     ],
     "Move/ToolMove/Spade/SpadeGrip.md": [],
-    "Move/ToolMove/Spade/SpadePogo.md": [],
-    "Move/ToolMove/Spade/SpadeProp.md": [],
-    "Move/ToolMove/Spade/SpadeScreef.md": [],
-    "Move/ToolMove/Spade/SpadeSequence.md": [],
-    "Move/ToolMove/Spade/SpadeSlam.md": [],
-    "Move/ToolMove/Spade/SpadeSwing.md": [
-        "Move.ToolMove.SpadeMove.SpadeCircumduction"
+    "Move/ToolMove/Spade/SpadePogo.md": [
+        "Move.ToolMove.SpadeMove.SpadePogo"
     ],
-    "Move/ToolMove/Spade/SpadeTest.md": [],
-    "Move/TruckMove/Overview.md": [],
-    "Move/TruckMove/Sit.md": [],
-    "Move/TruckMove/Sleep.md": [],
+    "Move/ToolMove/Spade/SpadeProp.md": [
+        "Move.ToolMove.SpadeMove.SpadeProp"
+    ],
+    "Move/ToolMove/Spade/SpadeScreef.md": [
+        "Move.ToolMove.SpadeMove.SpadeScreef"
+    ],
+    "Move/ToolMove/Spade/SpadeSequence.md": [
+        "Move.ToolMove.SpadeMove.SpadeSwap"
+    ],
+    "Move/ToolMove/Spade/SpadeSlam.md": [
+        "Move.ToolMove.SpadeMove.SpadeSlam"
+    ],
+    "Move/ToolMove/Spade/SpadeSwing.md": [
+        "Move.ToolMove.SpadeMove.SpadeCircumduction",
+        "Move.ToolMove.SpadeMove.SpadeSwing"
+    ],
+    "Move/ToolMove/Spade/SpadeTest.md": [
+        "Move.ToolMove.SpadeMove.SpadePoke",
+        "Move.ToolMove.SpadeMove.SpadeProbe"
+    ],
+    "Move/TruckMove/Overview.md": [
+        "Move.ToolMove.TruckMove.Overview"
+    ],
+    "Move/TruckMove/Sit.md": [
+        "Move.ToolMove.TruckMove.Sit"
+    ],
+    "Move/TruckMove/Sleep.md": [
+        "Move.ToolMove.TruckMove.Sleep"
+    ],
     "Move/TruckMove/TruckSequence.md": [],
     "Neuro/Acceptance/Overview.md": [],
     "Neuro/Algorithm/Overview.md": [],
-    "Neuro/Arousal/Calm.md": [],
-    "Neuro/Arousal/Overview.md": [],
-    "Neuro/Attention/Overview.md": [],
+    "Neuro/Arousal/Calm.md": [
+        "Neuro.Calm"
+    ],
+    "Neuro/Arousal/Overview.md": [
+        "Neuro.Adrenaline"
+    ],
+    "Neuro/Attention/Overview.md": [
+        "Neuro.Attention"
+    ],
     "Neuro/Audio/BranchBreakSound.md": [],
     "Neuro/Audio/LogBreakSound.md": [],
     "Neuro/Audio/Music/Overview.md": [],
     "Neuro/Audio/Music/Playlists.md": [],
-    "Neuro/Audio/Overview.md": [],
+    "Neuro/Audio/Overview.md": [
+        "Neuro.Hearing"
+    ],
     "Neuro/Audio/SlashSound.md": [],
     "Neuro/Audio/SoilSound.md": [],
     "Neuro/Audio/SpadeSound.md": [],
     "Neuro/Avoidance/Overview.md": [],
-    "Neuro/Awareness/Overview.md": [],
+    "Neuro/Awareness/Overview.md": [
+        "Neuro.Awareness"
+    ],
     "Neuro/Comfort/Overview.md": [],
     "Neuro/Compassion/Overview.md": [],
     "Neuro/Competition/Overview.md": [],
     "Neuro/CompressionSense/Overview.md": [],
     "Neuro/Confidence/Overview.md": [],
     "Neuro/Counting/BundleCounting.md": [],
-    "Neuro/Counting/Overview.md": [],
+    "Neuro/Counting/Overview.md": [
+        "Neuro.Counting"
+    ],
     "Neuro/Counting/StepCount.md": [],
     "Neuro/Decision/BagUpSizeDecision.md": [],
     "Neuro/Decision/GoOrNoGo.md": [],
     "Neuro/Decision/MicrositeSelection.md": [],
-    "Neuro/Decision/Overview.md": [],
+    "Neuro/Decision/Overview.md": [
+        "Neuro.Decision"
+    ],
     "Neuro/Emotion/Anger.md": [],
     "Neuro/Emotion/Disgust.md": [],
     "Neuro/Emotion/Fear.md": [],
     "Neuro/Emotion/Joy.md": [],
-    "Neuro/Emotion/Overview.md": [],
+    "Neuro/Emotion/Overview.md": [
+        "Neuro.Emotion"
+    ],
     "Neuro/Emotion/Sadness.md": [],
     "Neuro/Energy/Fatigue.md": [],
-    "Neuro/Energy/Overview.md": [],
+    "Neuro/Energy/Overview.md": [
+        "Neuro.Energy"
+    ],
     "Neuro/Estimation/AreaEstimation.md": [],
     "Neuro/Estimation/BagFillEstimation.md": [],
     "Neuro/Estimation/DistanceEstimation.md": [],
     "Neuro/Estimation/Overview.md": [
+        "Neuro.Estimation",
         "Neuro.Estimation.BagFill",
         "Neuro.Estimation.LandEstimation.Fraction",
         "Neuro.Estimation.RouteEstimation.AreaEstimation",
@@ -1486,7 +1528,20 @@
         "Neuro.Event"
     ],
     "Neuro/Homeostasis/Overview.md": [],
-    "Neuro/Judgement/LandJudgement.md": [],
+    "Neuro/Judgement/LandJudgement.md": [
+        "Neuro.Judgement",
+        "Neuro.Logic.Boolean",
+        "Neuro.Logic.Deduction",
+        "Neuro.Logic.Induction",
+        "Neuro.Logic.Overview"
+    ],
+    "Neuro/Learning/Overview.md": [
+        "Neuro.Learning.Feedback",
+        "Neuro.Learning.Overview",
+        "Neuro.Learning.Recall",
+        "Neuro.Learning.Recall.NonverbalRecall",
+        "Neuro.Learning.Review"
+    ],
     "Neuro/Memory/LongTermMemory.md": [],
     "Neuro/Memory/NumberMemory.md": [],
     "Neuro/Memory/Overview.md": [
@@ -1496,10 +1551,36 @@
     "Neuro/Memory/RouteMemory.md": [],
     "Neuro/Memory/ShortTermMemory.md": [],
     "Neuro/Memory/WorkingMemory.md": [],
-    "Neuro/Mindfulness/MindfulBreathing.md": [],
+    "Neuro/Mindfulness/MindfulBreathing.md": [
+        "Neuro.Meditation",
+        "Neuro.NonDual"
+    ],
     "Neuro/Muscle/Overview.md": [],
-    "Neuro/NeuroOverview.md": [],
-    "Neuro/Placeholder_NeuroProfile.md": [],
+    "Neuro/NeuroOverview.md": [
+        "Neuro.CognitiveEase",
+        "Neuro.CognitiveEase.Clarity",
+        "Neuro.CognitiveEase.FeelsEffortless",
+        "Neuro.CognitiveEase.FeelsFamiliar",
+        "Neuro.CognitiveEase.FeelsGood",
+        "Neuro.CognitiveEase.FeelsTrue",
+        "Neuro.CognitiveEase.Good",
+        "Neuro.CognitiveEase.Priming",
+        "Neuro.CognitiveEase.Repetition",
+        "Neuro.Difficulty",
+        "Neuro.Difficulty.NeuroComplexity",
+        "Neuro.Difficulty.NeuroIntensity",
+        "Neuro.Difficulty.NeuroRisk",
+        "Neuro.FlowState",
+        "Neuro.NeuroDifficulty.NeuroComplexity",
+        "Neuro.NeuroDifficulty.NeuroIntensity",
+        "Neuro.NeuroDifficulty.NeuroRisk",
+        "Neuro.NeuroDifficulty.Overview",
+        "Neuro.NeuroError",
+        "Neuro.NeuroEvent",
+        "Neuro.NeuroName",
+        "Neuro.NeuroQuestion",
+        "Neuro.Overview"
+    ],
     "Neuro/Proprioception/Overview.md": [],
     "Neuro/Resilience/Overview.md": [],
     "Neuro/SpatialCognition/Overview.md": [
@@ -1510,6 +1591,8 @@
         "Neuro.Alignment.OptimalAlignment",
         "Neuro.Alignment.Parallel",
         "Neuro.Alignment.Perpendicular",
+        "Neuro.Chunking",
+        "Neuro.Chunking.Fraction",
         "Neuro.Orientation",
         "Neuro.Orientation.ToCache",
         "Neuro.Orientation.ToCardinalDirection",
@@ -1522,7 +1605,10 @@
     "Neuro/Time/DailySchedule.md": [],
     "Neuro/Time/MovementTiming.md": [],
     "Neuro/Time/Overview.md": [],
-    "Neuro/Time/Planning.md": [],
+    "Neuro/Time/Planning.md": [
+        "Neuro.Planning",
+        "Neuro.Planning.Prediction"
+    ],
     "Neuro/Time/Timer.md": [],
     "ReferenceOverview.md": [
         "Reference.Overview"
@@ -1647,18 +1733,45 @@
         "Route.RouteDifficulty.RouteRisk"
     ],
     "Route/RouteOverview.md": [
+        "Neuro.Vision",
+        "Neuro.Vision.Find.BackLine",
+        "Neuro.Vision.Find.FarSide",
+        "Neuro.Vision.Find.FindFirstBagUp",
+        "Neuro.Vision.Find.Flag",
+        "Neuro.Vision.Find.Overview",
+        "Neuro.Vision.Hidden",
+        "Neuro.Vision.SeenFromCache",
+        "Route.Overview",
+        "Route.ReadLand",
+        "Route.RouteAnalysis",
+        "Route.RouteDirection.RouteDownSlope",
+        "Route.RouteDirection.RouteTraverseSlope",
+        "Route.RouteDirection.RouteUpSlope",
         "Route.RouteError",
         "Route.RouteError.Deadwalking",
         "Route.RouteError.PinchedArea",
         "Route.RouteError.RedundantRoute",
         "Route.RouteError.TooClose",
         "Route.RouteError.TooFar",
+        "Route.RouteEvent",
+        "Route.RouteEvent.AreaClosed",
+        "Route.RouteEvent.CompletionEvent",
+        "Route.RouteEvent.PositionEvent",
+        "Route.RouteGrid",
+        "Route.RouteGrid.RouteHexagonGrid",
+        "Route.RouteGrid.RouteSquareGrid",
+        "Route.RouteGrid.RouteTriangleGrid",
+        "Route.RouteName",
         "Route.RouteProperties.Overview",
         "Route.RouteProperties.RouteAccuracy",
         "Route.RouteProperties.RouteLength",
         "Route.RouteProperties.RoutePermutation",
         "Route.RouteProperties.RoutePrecision",
-        "Route.RouteProperties.RouteTreeCount"
+        "Route.RouteProperties.RouteTreeCount",
+        "Route.RouteQuestion",
+        "Route.RouteShape",
+        "Route.RouteShape.RouteNegativeShape",
+        "Route.RouteSuperposition"
     ],
     "Route/RoutePoint/CenterPoint.md": [],
     "Route/RoutePoint/InflectionPoint.md": [],

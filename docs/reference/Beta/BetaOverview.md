@@ -65,7 +65,7 @@ This each line are analog pairs. The equal signs = denotes where Climbing and Pl
 
 :::
 
-### Definition(BetaInstance)
+## Definition(BetaInstance)
 
 - Snapshot of what a Planter is doing and thinking in a particular Moment.
 - The current state of the Eco, Route, Planter[Move, Neuro].

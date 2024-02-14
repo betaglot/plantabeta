@@ -1,6 +1,6 @@
 ::: details 🛠 DesignBox
 
-
+- AlsoKnownAs(SpadeProp)
 
 :::
 

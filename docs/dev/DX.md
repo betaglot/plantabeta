@@ -129,3 +129,24 @@ for Paper in PaperPhotoList:
 ```sh
 find -type f -print0 | xargs -0 ls -t
 ```
+
+## <neuro>WTF is going on?</neuro>
+
+It's ok to be confused by your own work. Complex systems don't start off being coherent. 
+
+**Trust your visions**, just because I'm not explaining things well and I'm improvising, doesn't mean that the work is incorrect.
+
+Work at different scopes. You're not going to be able to explain the big picture well if you don't know the details. The details are the individual pages of elements.
+
+::: tip Coherence
+Coherence is developed
+
+> the situation when the parts of something fit together in a natural or reasonable way
+:::
+
+### <neuro> “I looked forward to another 500 pounds of squat. I looked forward to doing more and more curls until my arms would fall off. Why? Because I knew that every rep that I did and every set that I did and more weights that I lifted, I get one step closer to turning that **vision** into reality.”</neuro>
+
+You're not making it worse, each workblock makes it better, deciding that what you wrote needs to be changed is an improvement. Finding out what doesn't work is a form of improvement. Plantbeta is a really difficult project, **expect to feel its difficulties!**
+
+<move>Keep going!!!</move>
+
