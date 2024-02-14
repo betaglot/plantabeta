@@ -1004,7 +1004,7 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Dev.Tools.CacheBag",
+                    "title": "Dev.Tools.Kit",
                     "color": "#ffffffff",
                     "textcolor": "#000000ff",
                     "type": "sidecar"
@@ -1068,7 +1068,7 @@
                 "textcolor": "#000000ff"
             },
             {
-                "title": "Dev.Tools.CacheBag",
+                "title": "Dev.Tools.Kit",
                 "color": "#ffffffff",
                 "textcolor": "#000000ff"
             },
@@ -46597,7 +46597,7 @@
             "lastUpdated": 1692978839605,
             "tags": [
                 {
-                    "title": "Dev.Tools.CacheBag",
+                    "title": "Dev.Tools.Kit",
                     "color": "#ffffffff",
                     "textcolor": "#000000ff",
                     "type": "sidecar"
@@ -46668,7 +46668,7 @@
         "extension": "jpg",
         "tags": [
             {
-                "title": "Dev.Tools.CacheBag",
+                "title": "Dev.Tools.Kit",
                 "color": "#ffffffff",
                 "textcolor": "#000000ff"
             },
@@ -47084,7 +47084,7 @@
             "lastUpdated": 1692978839605,
             "tags": [
                 {
-                    "title": "Dev.Tools.CacheBag",
+                    "title": "Dev.Tools.Kit",
                     "color": "#ffffffff",
                     "textcolor": "#000000ff",
                     "type": "sidecar"
@@ -47149,7 +47149,7 @@
         "extension": "jpg",
         "tags": [
             {
-                "title": "Dev.Tools.CacheBag",
+                "title": "Dev.Tools.Kit",
                 "color": "#ffffffff",
                 "textcolor": "#000000ff"
             },
@@ -81725,7 +81725,7 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Dev.Tools.CacheBag",
+                    "title": "Dev.Tools.Kit",
                     "color": "#ffffffff",
                     "textcolor": "#000000ff",
                     "type": "sidecar"
@@ -81849,7 +81849,7 @@
                 "textcolor": "white"
             },
             {
-                "title": "Dev.Tools.CacheBag",
+                "title": "Dev.Tools.Kit",
                 "color": "#ffffffff",
                 "textcolor": "#000000ff"
             },

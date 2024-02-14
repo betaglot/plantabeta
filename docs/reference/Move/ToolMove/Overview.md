@@ -11,5 +11,5 @@
  - Spade
  - PlantingBags
  - Gloves
- - CacheBag
+ - Kit
  - Flag

@@ -1,20 +1,25 @@
 ::: details 🛠 DesignBox
 
-
+- ComputationalModel
 
 :::
 
 # 🛠 Planter as Computer
 
+::: tip BetaScript
+The Source Code for Plantbeta is called [BetaScript](/reference/Beta/BetaScript).
+:::
+
+
 ![PythonLogo](/Python/PythonLogo.png)
 
 ## What is Computation?
 
-::: tip Definition of Computation
 
 > Computer
 
-:::
+
+
 
 
 ## Analogy 
@@ -60,6 +65,8 @@ runtime errors |
 
 - What are the computations that planters use?
 - Just like Python, all objects in a planter's experience are objects. 
+
+
 
 ## Data Types
 

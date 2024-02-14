@@ -33,7 +33,7 @@
 - Tarp
 - Box
 - Anchor
-- 
+- Kit
 
 ## Cache Properties
 - BoxCount

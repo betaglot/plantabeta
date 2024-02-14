@@ -8,7 +8,7 @@
 - PlantingTool_Carabiner_ToolTransport_WalkIn																			
 - Rope
 - GearLoop
-- CacheBag
+- Kit
 - Gromet
 - Tarp
 

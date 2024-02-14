@@ -160,8 +160,8 @@ function sidebarReference() {
     { text: '<strong>Reference Overview</strong>', link: '/reference/ReferenceOverview' },
     {
       text: '🔷 <beta>Beta</beta>', collapsed: true, items: [
-        { text: '🔷 What is <beta>Beta</beta>?', link: '/reference/Beta/BetaOverview' },
-        { text: '🔷 <beta>Beta</beta> Examples', link: '/reference/Beta/BetaExamples' },
+        { text: '🔷 <beta>What is Beta</beta>?', link: '/reference/Beta/BetaOverview' },
+        { text: '🔷 <beta>Beta Examples</beta>', link: '/reference/Beta/BetaExamples' },
         { text: '🔷 <beta>BetaAction</beta>', link: '/reference/Beta/BetaAction' },
         { text: '🔷 <beta>BetaDiagram</beta>', link: '/reference/Beta/BetaDiagram' },
         { text: '🔷 <beta>BetaScript</beta>', link: '/reference/Beta/BetaScript' },
@@ -525,8 +525,13 @@ function sidebarReference() {
               ]
             },
             {
+              text: '🟠 <move>Kit</move>', collapsed: true, items: [
+                { text: '<move>Overview</move>', link: '/reference/Move/ToolMove/Kit/Overview' },
+              ]
+            },
+            {
               text: '🟠 <move>Rope</move>', collapsed: true, items: [
-                { text: 'Overview</move>', link: '/reference/Move/ToolMove/RopeOverview' },
+                { text: '<move>Overview</move>', link: '/reference/Move/ToolMove/Rope/Overview' },
               ]
             },
             {

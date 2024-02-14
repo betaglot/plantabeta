@@ -1,6 +1,13 @@
 ::: details 🛠 DesignBox
 
+- Self awareness
 
+- Good tree
+
+- Good spacing
+
+- This looks right
+    - Visual plot
 
 :::
 

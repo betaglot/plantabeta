@@ -428,7 +428,7 @@
         "Dev.ToolDiagram",
         "Dev.ToolDiagram.BagsDiagram",
         "Dev.Tools",
-        "Dev.Tools.CacheBag",
+        "Dev.Tools.Kit",
         "Dev.Tools.Cart",
         "Dev.Tools.Flag",
         "Dev.Tools.PlantingBag",

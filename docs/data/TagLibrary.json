@@ -1806,7 +1806,7 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Dev.Tools.CacheBag",
+                    "title": "Dev.Tools.Kit",
                     "color": "#ffffffff",
                     "textcolor": "#000000ff",
                     "type": "sidecar"
