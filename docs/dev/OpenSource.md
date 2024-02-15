@@ -1,6 +1,8 @@
 ::: details 🛠 DesignBox
 
-
+- A moral argument for planter optimization 
+    - Help these poor kids 
+    - Rich old mother grandmother 
 
 :::
 
@@ -28,3 +30,5 @@
 - Having an open mind is important to open source projects. It doesn't matter who created or developed an idea, it only matters if the idea is good for Plantbeta.
 
 ## Quansight
+
+- Python

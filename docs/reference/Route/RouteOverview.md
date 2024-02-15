@@ -35,7 +35,9 @@
 - PlantingProcess_LastBagUp_FinishByTreeCount_TargetTreeCount
 - PlantingProcess_LastBagUp_WalkOut_WalkOutTime
 - PlantingProcess_Replant_MissedLand_TreeFlag												
-- PlantingProcess_Replant_MissedMicrosite_TreeFlag																									
+- PlantingProcess_Replant_MissedMicrosite_TreeFlag			
+
+> Optimal routeline has zero displacement from route start to route fish, both are at the cache
 
 :::
 

@@ -20,3 +20,8 @@ Is local wireless sharing a thing? Would I be able to share websites using bluet
 
 Could I set up a dev container?
 
+## Printout
+
+- LetterSizedPaper
+
+Give planters a treeview of actions. Practical tool on letter sized paper

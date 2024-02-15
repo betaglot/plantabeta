@@ -1,6 +1,6 @@
 ::: details 🛠 DesignBox
 
-
+- Arm wrestling screef. ArmLock then use your whole body
 
 :::
 

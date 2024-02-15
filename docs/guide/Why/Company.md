@@ -1,6 +1,9 @@
 ::: details 🛠 DesignBox
 
+- Plantbeta is a service
 
+- Planters are given nothing 
+    - "Untrained planters are inefficient" is a logical proposition?
 
 :::
 

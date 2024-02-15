@@ -1,6 +1,6 @@
 ::: details 🛠 DesignBox
 
-
+- Alpinistes do spadeprop all the time when using an ice axe
 
 :::
 

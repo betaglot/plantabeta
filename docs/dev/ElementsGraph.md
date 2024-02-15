@@ -4,12 +4,6 @@
 
 :::
 
-::: details 🛠 DesignBox
-
-
-
-:::
-
 # 🛠 Elements Graph
 
 ## D3
@@ -75,7 +69,7 @@ Removes Value Addition // [!code --]
 
 ```
 
-### Example of a Value
+### Example of an Element's Value
 
 - Text
     - RequiredMove
@@ -516,7 +510,16 @@ MoveState
 
 ---
 
-Related Terms
+
+## D3
+
+Write a python script to convert the config into a json that D3 treemap can use. So you don't have to worry about updating both
+
+There shouldn't be a node called overview, so use the name in the sidebar, not the file name
+
+
+
+## Related Terms
 
 - Web 
     - Web of Connections

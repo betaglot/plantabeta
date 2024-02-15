@@ -1,6 +1,12 @@
 ::: details 🛠 DesignBox
 
+- LeadPlanter
+- FollowingPlanter
 
+
+Connection Communication
+
+TeamPlant is safer, but more complex
 
 :::
 

@@ -1,6 +1,9 @@
 ::: details 🛠 DesignBox
 
+- Plant hexagons
 
+Move on a hexagonal grid like CGP grey YouTube 
+https://youtu.be/bgR3yESAEVE
 
 :::
 

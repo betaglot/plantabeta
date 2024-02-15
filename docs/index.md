@@ -7,7 +7,7 @@ titleTemplate: Plantbeta
 hero: 
   name: Plantbeta
   text: 
-  tagline: How to Be a Planter
+  tagline: You can Plant more Trees
   image:
     src: /BetaLogo.png
     alt: BetaLogo
@@ -27,9 +27,9 @@ hero:
 features:
   - icon: 🛠️
     title: Under Construction 
-    details: Last Updated February 12, 2024. This website is a prototype, not the final product
+    details: Last Updated February 15, 2024. This website is a prototype, not the final product
     link: /dev/devOverview
   - icon: ⏳
-    title: 83 days
+    title: 80 days
     details: until May 5 start day!
 ---

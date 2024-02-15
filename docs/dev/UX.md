@@ -1,6 +1,6 @@
 ::: details 🛠 DesignBox
 
-
+![ThumbnailIndex](/dev/ThumbnailIndex.jpg)
 
 :::
 

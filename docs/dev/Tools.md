@@ -83,6 +83,9 @@ Pannier
 - Recycled
 - Curls by itself
 
+Stick them together with honey like cheap bookbinding 
+Wax to waterproof 
+
 ## <move>Vambrace</move>
 
 ::: tip AlsoKnownAs
@@ -190,3 +193,10 @@ Gasket
 
 ### LocalizedRepair
 
+## Treepod
+
+Design Treepod to be like ammo.
+
+Seven sided hexagon with honey glue on the last side
+
+Treepod
