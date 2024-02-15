@@ -1,6 +1,9 @@
 ::: details 🛠 DesignBox
 
-![ThumbnailIndex](/dev/ThumbnailIndex.jpg)
+
+
+- You need to give them something that they can keep
+
 
 :::
 
@@ -42,7 +45,21 @@
 
 Search Box
 
+### Visual Search
+
+#### ThumbnailIndex
+![ThumbnailIndex](/dev/ThumbnailIndex.jpg)
+
+#### TableOfContents
+
+Sidebar
+
+In Details
+
 Algolia
 - How to I manually suppplement Algolia since it has gaps?
 FAQ
 
+## Website Navigation
+
+Path Redundancy

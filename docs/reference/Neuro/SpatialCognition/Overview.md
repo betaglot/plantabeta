@@ -1,3 +1,10 @@
+::: details 🛠 DesignBox
+
+- Spatially complex
+
+
+:::
+
 # 💜 <neuro>Spatial Cognition</neuro>
 
 - Visuospatial Ability

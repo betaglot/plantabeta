@@ -1,6 +1,6 @@
 ::: details 🛠 DesignBox
 
-
+- Minimize burn dust inhaled by moveselection
 
 :::
 
