@@ -1,8 +1,8 @@
----
-layout: doc
----
-
 ::: details 🛠 DesignBox
+
+> Beta is what you actually do implement
+> Elements are just options possibilities
+> Beta requires decision 
 
 :::
 

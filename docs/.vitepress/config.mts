@@ -71,6 +71,7 @@ function sidebarDevelopment() {
     { text: 'Roadmap', link: '/dev/Roadmap' },
     { text: 'Sequence', link: '/dev/Sequence' },
     { text: 'Simulation', link: '/dev/Simulation' },
+    { text: 'SocialMedia', link: '/dev/SocialMedia' },
     { text: 'StyleGuide', link: '/dev/StyleGuide' },
     { text: 'Tagging', link: '/dev/Tagging' },
     { text: 'Tools', link: '/dev/Tools' },
@@ -654,6 +655,11 @@ function sidebarReference() {
             { text: '💜 <neuro>RouteMemory</neuro>', link: '/reference/Neuro/Memory/RouteMemory' },
 
 
+          ]
+        },
+        {
+          text: '💜 <neuro>Mindfulness</neuro>', collapsed: true, items: [
+            { text: '💜 <neuro>Overview</neuro>', link: '/reference/Neuro/Mindfulness/Overview' },
           ]
         },
         {

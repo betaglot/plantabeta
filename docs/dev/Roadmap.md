@@ -63,5 +63,40 @@ To [Reforest](https://www.lasy.gov.pl/en/information/news/a-forest-is-much-more-
 
 - 3D models of the Elements.
 
+### Polyglot
+
+### French
+### German
+### Spanish
+### Portugese
+
+
+## Future of Planting
+
+### Residential Planting
+
+Route line equals street
+Promotional video
+
+LawnScreef
+
+Trees are not meant to be loners
+
+### More planting BurntLand 
+
+### More Raw
+- More RawLand less Clearcutting
+- More Slash
+
+It would be better for the earth if planting was more difficult. 
+
+Train planters so the difficulty is mitigated by people learning a skill instead of making something
+
+
+### Africa
+
+### Shrub Planting
+
+
 
 

@@ -51,7 +51,8 @@
     ],
     "Beta/BetaExamples.md": [
         "Beta.BetaExamples",
-        "Beta.BetaExamples.BetaQuote"
+        "Beta.BetaExamples.BetaQuote",
+        "Beta.BetaVideo"
     ],
     "Beta/BetaOverview.md": [
         "Beta.BetaEvent",
@@ -63,7 +64,8 @@
         "Beta.BetaProperties.BetaType",
         "Beta.BetaProperties.ElementCount",
         "Beta.BetaProperties.SubsystemCount",
-        "Beta.BetaQuestion"
+        "Beta.BetaQuestion",
+        "Beta.Overview"
     ],
     "Beta/BetaScript.md": [],
     "dev/Academia.md": [],
@@ -74,9 +76,14 @@
     "dev/Attencide.md": [],
     "dev/Contact.md": [],
     "dev/Contribute.md": [
-        "Dev.Donation"
+        "Dev.Donation",
+        "Dev.Feedback"
     ],
-    "dev/DevOverview.md": [],
+    "dev/DevOverview.md": [
+        "Dev.Overview",
+        "Dev.Plantbeta.SeedIdea",
+        "Dev.Youtube"
+    ],
     "dev/Downloads.md": [
         "Dev.Downloads"
     ],
@@ -209,7 +216,8 @@
         "Move.PlanterDiagram.LevelOfDetail"
     ],
     "dev/Graphics/NeuroGraphic.md": [
-        "Dev.NeuroDiagram.NeuroTimeline"
+        "Dev.NeuroDiagram.NeuroTimeline",
+        "Neuro.NeuroCard"
     ],
     "dev/Graphics/Overview.md": [
         "Dev.Element.ElementCard",
@@ -294,9 +302,11 @@
         "Dev.Infographic.VoronoiDiagram",
         "Dev.Infographic.Web",
         "Dev.Poster",
-        "Dev.Scroll"
+        "Dev.Scroll",
+        "Route.LandInfluenceRoute.Overview"
     ],
     "dev/Graphics/RouteGraphic.md": [
+        "Route.RouteCard",
         "Route.RouteDiagram.Overview",
         "Route.RouteDiagram.RouteDirectedLine",
         "Route.RouteDiagram.RouteNotDirectedLine",
@@ -307,6 +317,7 @@
     "dev/Interdisciplinary.md": [],
     "dev/Offline.md": [],
     "dev/OpenSource.md": [
+        "Dev.Voss",
         "Sponsor.Kickstarter",
         "Sponsor.Kickstarter.ProjectVideo",
         "Sponsor.Kickstarter.Risk",
@@ -394,6 +405,13 @@
     "dev/Sequence.md": [],
     "dev/Simulation.md": [],
     "dev/StyleGuide.md": [
+        "Dev.Breadcrumb",
+        "Dev.Carousel",
+        "Dev.DataType.Array",
+        "Dev.DataType.Boolean",
+        "Dev.GridView",
+        "Dev.HeroImage",
+        "Dev.ImageLayer",
         "Dev.LevelOfAbstraction",
         "Dev.LevelOfAbstraction.AbstractIdea",
         "Dev.LevelOfAbstraction.ConcreteIdea",
@@ -404,6 +422,8 @@
         "Dev.LevelOfDetail.SimplifyDetail.CropDiagram",
         "Dev.PageLayout",
         "Dev.PageLayout.CloseUp",
+        "Dev.RelationByAlignment",
+        "Dev.RelationByProximity",
         "Dev.StyleGuide"
     ],
     "dev/Tagging.md": [
@@ -445,6 +465,7 @@
         "Dev.Search",
         "Dev.Search.AdvancedSearch",
         "Dev.Search.SearchResults",
+        "Dev.Story",
         "Dev.ToReduceConfusion",
         "Dev.UX.Event.OnClick",
         "Dev.UX.Event.OnHover",
@@ -514,9 +535,19 @@
         "Eco.LandSpace.Overview"
     ],
     "Eco/EcoOverview.md": [
+        "Eco.EcoAnalysis",
+        "Eco.LandCompletion.ClosedLand",
+        "Eco.LandCompletion.OpenLand",
+        "Eco.LandError",
+        "Eco.LandError.PlantedTreeError",
+        "Eco.LandError.PlantedTreeError.LeanerTree",
+        "Eco.LandEvent",
+        "Eco.LandName",
         "Eco.LandProperties.InorganicLand",
         "Eco.LandProperties.OrganicLand",
         "Eco.LandProperties.Overview",
+        "Eco.LandQuestion",
+        "Eco.MixedLand",
         "Eco.Overview"
     ],
     "Eco/EcoSequence/Overview.md": [
@@ -632,6 +663,7 @@
         "Eco.Vegetation.ResidualPatch"
     ],
     "glossary/Glossary.md": [
+        "Dev.AlsoKnownAs",
         "Reference.Glossary"
     ],
     "guide/How/Klimbeta.md": [],
@@ -662,6 +694,7 @@
         "Dev.Pedagogy",
         "Dev.Pedagogy.Curriculum.LessonSequence",
         "Dev.Pedagogy.Curriculum.Timeline",
+        "Dev.PlanterMetaInstructor",
         "Guide.Who.PlanterInstructor",
         "Guide.Who.PlanterInstructor.Handout",
         "Guide.Who.PlanterInstructor.InstructorGuide.Curriculum",
@@ -1571,6 +1604,7 @@
         "Neuro.Difficulty.NeuroIntensity",
         "Neuro.Difficulty.NeuroRisk",
         "Neuro.FlowState",
+        "Neuro.Music",
         "Neuro.NeuroDifficulty.NeuroComplexity",
         "Neuro.NeuroDifficulty.NeuroIntensity",
         "Neuro.NeuroDifficulty.NeuroRisk",
@@ -1579,7 +1613,19 @@
         "Neuro.NeuroEvent",
         "Neuro.NeuroName",
         "Neuro.NeuroQuestion",
-        "Neuro.Overview"
+        "Neuro.Overview",
+        "Neuro.PatternRecognition",
+        "Neuro.Proprioception",
+        "Neuro.Rehearsal",
+        "Neuro.SpatialSense",
+        "Neuro.State",
+        "Neuro.State.Arousal",
+        "Neuro.State.EmotionalState",
+        "Neuro.State.EnergyState",
+        "Neuro.Stress.TooManyOptions",
+        "Neuro.Thermoception",
+        "Neuro.Time",
+        "Neuro.Visualization"
     ],
     "Neuro/Proprioception/Overview.md": [],
     "Neuro/Resilience/Overview.md": [],
@@ -1741,6 +1787,7 @@
         "Neuro.Vision.Find.Overview",
         "Neuro.Vision.Hidden",
         "Neuro.Vision.SeenFromCache",
+        "Route.Direction",
         "Route.Overview",
         "Route.ReadLand",
         "Route.RouteAnalysis",

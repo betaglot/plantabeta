@@ -1,5 +1,15 @@
 ::: details 🛠 DesignBox
 
+Spandrel art between plating plot radius cirle area circleshape
+
+Route Fill
+
+Cirles make hexagons
+
+Center is hole
+.
+
+Fillin spandrels to show the mortar between ideal tree spacing spgeres
 
 ![PaperPhoto](/PaperPhoto/0058.jpg)
 :::

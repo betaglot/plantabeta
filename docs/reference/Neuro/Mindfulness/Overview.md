@@ -1,12 +1,22 @@
 ::: details 🛠 DesignBox
 
+- Acceptance
+- Equanimity
+- WakingUp App
 
+Vipassana
 
 :::
 
-# 💜 <neuro>MindfulBreathing</neuro>
+# 💜 <neuro>Mindfulness</neuro>
 
 ![NeuroImage](/Neuro/NeuroImage.png)
+
+## Disce Pati 
+
+Learn To Suffer
+
+
 ## Questions about the Element
 
 ::: details Questions 1

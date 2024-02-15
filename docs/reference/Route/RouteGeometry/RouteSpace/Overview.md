@@ -28,10 +28,22 @@ Placement of Trees
 
 
 Parsing Land into VoronoiCells 
+
+
 ### Partition
 
->
+Spandrel art between plating plot radius cirle area circleshape
+
+Route Fill
+
+Cirles make hexagons
+
+Center is hole
+.
+
+Fillin spandrels to show the mortar between ideal tree spacing spgeres
 
 ![PentagonPartitions](/Route/PentagonPartitions.png)
 ![SquarePartitions](/Route/SquarePartitions.png)
 ![Pentomino](/Route/Pentomino.png)
+![PeelStationFloor](/art/PeelStationFloor.jpg)

@@ -50,9 +50,18 @@
 
 ### Skiing
 
+#### PolePlant
+Pole plant in skiing 
+Body dynamic and Pole plant != Static body
+
+Planting while your body is moving away or towards hole
+
+#### Carving
 - Carving turns on steep slopes
-    - CutBank [InsertImage]   
+    - CutBank [InsertImage]  
+
 ### Paddling
+
 
 - Paddle = Spade
     - [SpadeScreef]() is like taking a forward stroke or a draw stroke with a canoe paddle 
@@ -62,7 +71,7 @@
 
 ## Martial Arts
 
-- []()
+
 - [BranchDeflection](/reference/Move/PlantMove/BranchDeflection)
 - [HeadBob]()
 - [HandClose]()

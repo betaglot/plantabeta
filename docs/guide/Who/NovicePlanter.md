@@ -1,6 +1,7 @@
 ::: details 🛠 DesignBox
 
-
+Scaffold
+Give a place to start
 
 :::
 
