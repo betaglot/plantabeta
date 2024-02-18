@@ -6,7 +6,7 @@
 
 # 🟩  <eco>Eco Overview</eco>
 
-![InstaPhoto088](/InstaPhoto088.jpg)
+![](/Eco/Eco_Emoji.png)
 
 ## What is Eco?
 
@@ -15,22 +15,6 @@ Most Planters would call Eco 'the Land', but it's more than just the Land. Eco i
 
 
 
-<!-- 
-- Obstacle
-- Residual
-- Trench
-- Mound
-- PreppedLand
-- RawLand
-- SlopedLand
-- SteepSlopedLand
-- WetLand
-- DryLand
-- SlashyLand
-- FastLand
-- SlowLand
-- BurntLand
-- BurntStump -->
 
 
 

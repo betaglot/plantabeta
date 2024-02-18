@@ -190,10 +190,11 @@ Gasket
 #### SuitSwap out parts to adapt to Eco and Move.
 
 
-
 ### LocalizedRepair
 
-## Treepod
+
+
+## <eco>Treepod</eco>
 
 Design Treepod to be like ammo.
 
@@ -202,7 +203,7 @@ Seven sided hexagon with honey glue on the last side
 Treepod
 
 
-## Bundle Wrapper 
+## <eco>Bundle Wrapper</eco>
 
 Waxed paper bundle wrappers
 

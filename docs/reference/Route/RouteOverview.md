@@ -42,6 +42,7 @@
 :::
 
 # 🔺 <route>Route Overview</route>
+![](/Route/Route_Emoji.png)
 
 
 ## What is a Route?
@@ -56,9 +57,6 @@
 - Minimize Deadwalking
 - To be able to have a detailed mental model of your land, so that you can plan how you're going to fill your lang.
 
-::: tip
-Route is Represented as a Red Triangle Emoji 🔺
-:::
 
 > a particular way or direction between places
 

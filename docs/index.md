@@ -21,15 +21,15 @@ hero:
       link: /tutorials/TutorialsOverview
     - text: Develop
       link: /dev/DevOverview
-    - text: Sponsor
-      link: /sponsor/Overview
+    # - text: Sponsor
+    #   link: /sponsor/Overview
 
 features:
   - icon: 🛠️
     title: Under Construction 
-    details: Last Updated February 15, 2024. This website is a prototype, not the final product
+    details: Last Updated February 18, 2024. This website is a prototype, not the final product
     link: /dev/devOverview
   - icon: ⏳
-    title: 80 days
+    title: 77 days
     details: until May 5 start day!
 ---

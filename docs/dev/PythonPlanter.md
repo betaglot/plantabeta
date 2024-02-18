@@ -44,8 +44,15 @@ runtime errors |
 
 ### Input/Output
 
-- Return Value
+#### Return Value
+Moves return force
 
+MoveFunction
+```py
+def move(move{}, eco{}, route{}, neuro):
+    force = (submove{} + submove{}) 
+    return force
+```
 ## Computational Neuroscience
 
 ## Computational Geometry

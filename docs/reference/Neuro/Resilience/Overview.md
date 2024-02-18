@@ -15,6 +15,17 @@ You don't need to do it alone
 # 💜 <neuro>Resilience </neuro>
 
 ![NeuroImage](/Neuro/NeuroImage.png)
+
+
+## Growth Mindset
+
+<iframe width="575" height="323" src="https://www.youtube.com/embed/aQDOU3hPci0" title="How to Enhance Performance &amp; Learning by Applying a Growth Mindset | Huberman Lab Podcast" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+
+## Mental Toughness
+
+<iframe width="789" height="444" src="https://www.youtube.com/embed/nDLb8_wgX50" title="David Goggins: How to Build Immense Inner Strength" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 ## Questions about the Element
 
 ::: details Questions 1

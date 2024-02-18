@@ -66,7 +66,7 @@ function sidebarDevelopment() {
     { text: 'Offline', link: '/dev/Offline' },
     { text: 'Open Source', link: '/dev/OpenSource' },
     { text: 'PaperPhoto', link: '/dev/PaperPhoto' },
-    { text: 'Python', link: '/dev/PythonPlanter' },
+    { text: 'PythonPlanter', link: '/dev/PythonPlanter' },
     { text: 'Research Questions', link: '/dev/ResearchQuestions' },
     { text: 'Roadmap', link: '/dev/Roadmap' },
     { text: 'Sequence', link: '/dev/Sequence' },
@@ -99,7 +99,7 @@ function nav() {
       activeMatch: '/tutorials/'
     },
     {
-      text: 'Development',
+      text: 'Dev',
       link: 'dev/DevOverview',
       activeMatch: '/dev/'
     },

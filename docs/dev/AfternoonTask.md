@@ -51,6 +51,13 @@ Look at the documentation for these sites:
 
 - Test UI and UX
 
+
+## Task: Patagonia
+
+- Learn about the projects that they collaborate with.
+- Learn the names of the people in charge of Action
+- Find products which can be modified into [Planter Tools](/dev/Tools)
+
 ## Dictation
 
 See [Dictation]()

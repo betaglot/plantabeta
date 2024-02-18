@@ -10,9 +10,11 @@ Plantbeta is constantly being expanded and improved. Plantbeta is being developp
 
 ## Contact
 
-<!-- ::: tip Send an email to:
-christopheralduncan@gmail.com
-::: -->
+::: tip Send an email to:
+
+plantbeta.info@gmail.com
+
+:::
 
 ## [Donate Media](/dev/Donation)
 

@@ -5,6 +5,7 @@
 :::
 
 # 💜 <neuro>Neuro Overview </neuro>
+![](/Neuro/Neuro_Emoji.png)
 
 ::: danger
 
@@ -17,9 +18,10 @@ It is easy to get lost in neuroscience, but always try to minimize the amount of
 
 Short for Neuroscience
 
+- Computational Neuroscience
 - Cognitive Neuroscience
 - Neuropsychology
-- Neurobiology
+- Sensory Neuroscience
 
 
 ### Huberman Lab Podcast
