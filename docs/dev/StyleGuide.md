@@ -1,6 +1,27 @@
 ::: details 🛠 DesignBox
 
+<h2>PageTags</h2>
 
+- "Dev.Breadcrumb"
+- "Dev.Carousel"
+- "Dev.DataType.Array"
+- "Dev.DataType.Boolean"
+- "Dev.GridView"
+- "Dev.HeroImage"
+- "Dev.ImageLayer"
+- "Dev.LevelOfAbstraction"
+- "Dev.LevelOfAbstraction.AbstractIdea"
+- "Dev.LevelOfAbstraction.ConcreteIdea"
+- "Dev.LevelOfDetail"
+- "Dev.LevelOfDetail.ComplexifyDetail"
+- "Dev.LevelOfDetail.LessIsMore"
+- "Dev.LevelOfDetail.SimplifyDetail"
+- "Dev.LevelOfDetail.SimplifyDetail.CropDiagram"
+- "Dev.PageLayout"
+- "Dev.PageLayout.CloseUp"
+- "Dev.RelationByAlignment"
+- "Dev.RelationByProximity"
+- "Dev.StyleGuide"
 
 :::
 

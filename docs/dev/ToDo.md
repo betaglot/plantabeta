@@ -1,17 +1,17 @@
 # ToDo
 
 ## Add Tags to each Page's Design Box
-    1. Make dict `PageNamespace: [TagName]`
-        - [Title](Python/Dict_PageTags.py")
-        - 
-    2. Copy all Tags from Dict_PageTags.py" to 
+1. Make dict `PageNamespace: [TagName]`
+    - PagePathAndTags.json
+2. Copy all Tags from PagePathAndTags.json to each Page
+    - Make a script which puts all the tags into code boxes which can be copied
 
 ## Add PaperPhoto to DesignBox
 
 1. <s>Make dict `PageNamespace: [TagName]`</s>
     
-2. Make dict `PaperPhoto: [TagName]`
-    - [Title](."dev/data/TaggedPaperPhotos.json)
+2. <s> Make dict `PaperPhoto: [TagName]`</s>
+   
 3. Make a dict `PageNamespace: [PaperPhoto]`
 
 ## Add PaperText to DesignBox

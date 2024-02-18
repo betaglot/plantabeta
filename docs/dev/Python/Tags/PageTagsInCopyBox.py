@@ -1,4 +1,4 @@
-{
+tags = {
     "Beta/BetaAction.md": [
         "Beta.BetaAction.AskBeta",
         "Beta.BetaAction.ChunkBeta.BetaChunk",
@@ -832,7 +832,7 @@
         "Move.BodyMove.SpineExtension"
     ],
     "Move/BodyMove/Stand.md": [
-        "Move.BodyMove.Stand"
+        "Move.BodyMove.Stand",
     ],
     "Move/BodyMove/StandUp.md": [
         "Move.BodyMove.StandUp"
@@ -1947,3 +1947,25 @@
         "Tests.Sequencing"
     ]
 }
+
+
+# for i in tags:
+#     print(i)
+#     print("```json")
+#     for x in tags.values():
+#         print(f"{tags[x]}\n")
+#     print("```")
+
+for x, y in tags.items():
+    print(f"### {x}")
+    print("```md")
+    print("<h2>PageTags</h2>")
+    print()
+    for i in y:
+        print(f"- \"{i}\"")
+    print()
+    print()
+    print()
+    print("```")
+    print()
+    print()
