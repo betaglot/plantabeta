@@ -16,5 +16,6 @@
 
 ## Add PaperText to DesignBox
 
-
-
+## Get Assistant for $20/hour
+- Dictation
+- Just to keep me on track

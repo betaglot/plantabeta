@@ -25,3 +25,5 @@ Could I set up a dev container?
 - LetterSizedPaper
 
 Give planters a treeview of actions. Practical tool on letter sized paper
+
+How to print out documentation like [Python's Docs](https://docs.python.org/3/download.html)?

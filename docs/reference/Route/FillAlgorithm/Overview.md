@@ -12,6 +12,12 @@ Center is hole
 Fillin spandrels to show the mortar between ideal tree spacing spgeres
 
 ![PaperPhoto](/PaperPhoto/0058.jpg)
+
+- [The Fastest Maze-Solving Competition On Earth](https://www.youtube.com/watch?v=ZMQbHMgK2rw&ab_channel=Veritasium)
+- [HexagonFillPattern](https://www.youtube.com/watch?v=BM9Qe4XjJ0k&ab_channel=VeRLab-LaboratoryofComputerVisionandRobotics)
+- https://www.fujipress.jp/jrm/rb/robot003000010005/
+
+
 :::
 
 # 🔺 <route>Fill Algorithm Overview</route>
