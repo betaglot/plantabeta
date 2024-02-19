@@ -23,35 +23,55 @@ Content can be written outside of VScode, then inserted later.
 
 ### Dictation
 
+Dictation will be performed at Arch Street, so the setup is a large TV, laptop, phone
 
 #### DictationError
 ```py
 
 Homonyms = {
-    'cache': ['cash'],
-    'route': ['root'],
-    'neuro': ['narrow'],
-    'slash': ['/'],
-    'planter': ['planetary'],
+    'cash': 'cache',
+    'narrow': 'neuro',
+    '/': 'slash',
+    'planetary': 'planter',
+    'Roland': 'RawLand',
+    'Rollins': 'RawLand',
+    'screaming': 'screefing',
+    'Jay root': 'Jroot' 
 }
 
 ```
+
+#### Dictation Formatting
+
+- $ "*dollar*" to denote a paragraph
+
+```md
+
+- 
+```
+
+- . "*dot*" for period
 
 #### Dictation Sequence
 
 0. SetUp Laptop with Plantbeta open on left half and the google doc open on the right. Record the audio with your phone being held up close to your mouth. 
 
-1. Look at the Page and the PaperPhotos in DesignBox. 
+1. Look at the Page, Tags and the PaperPhotos in DesignBox. 
     - Think of something to say for each header. Say the header that you're thinking about, eg. "Subelements", "Related Elements", "Element Properties", "Definition"...etc
     - Say period, new line, 
 
 
 2. Record the audio in a Google Doc until you can't think of anything else to say.
     - Make sure that you're enunciating
-    - Use Plantbeta terminology, don't worry about 
+    - Use Plantbeta terminology, don't worry about grammar
     - Glance at the text, but don't read it. Sometimes the recording stops.
 
 3. Paste Raw output into VScode Parse the output by adding empty lines between parts
+
+- How to use Python to process the raw dictation?
+- Make each dictation into a string 
+    - str.replace() homonyms, AlsoKnownAs, Common Errors 
+
 4. Rephrase and correct grammar
     - Add punctuation
     - Capitalize
@@ -125,7 +145,7 @@ for Paper in PaperPhotoList:
 
 ```
 
-## List all Files
+## List all Files in a directory
 ```sh
 find -type f -print0 | xargs -0 ls -t
 ```
@@ -147,6 +167,8 @@ Coherence is developed
 ### <neuro> “I looked forward to another 500 pounds of squat. I looked forward to doing more and more curls until my arms would fall off. Why? Because I knew that every rep that I did and every set that I did and more weights that I lifted, I get one step closer to turning that **vision** into reality.”</neuro>
 
 You're not making it worse, each workblock makes it better, deciding that what you wrote needs to be changed is an improvement. Finding out what doesn't work is a form of improvement. Plantbeta is a really difficult project, **expect to feel its difficulties!**
+
+Just get as much information out of your head and into data structures, so that they can be processed.
 
 <move>Keep going!!!</move>
 
