@@ -11,7 +11,19 @@ How would you even know?
 Wouldn't it be nice to know what you've forgotten. If you could take a test to find out, would you take it?
 
 Percentages
+<h2>PageTags</h2>
 
+- "Dev.Pedagogy"
+- "Dev.Pedagogy.Curriculum.LessonSequence"
+- "Dev.Pedagogy.Curriculum.Timeline"
+- "Dev.PlanterMetaInstructor"
+- "Guide.Who.PlanterInstructor"
+- "Guide.Who.PlanterInstructor.Handout"
+- "Guide.Who.PlanterInstructor.InstructorGuide.Curriculum"
+- "Guide.Who.PlanterInstructor.InstructorGuide.Template"
+- "Guide.Who.PlanterInstructor.TeachingBlock"
+- "Guide.Who.PlanterInstructor.TeachingPiece"
+- "Guide.Who.PlanterInstructor.TeachingPlot"
 :::
 
 

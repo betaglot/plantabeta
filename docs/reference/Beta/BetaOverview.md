@@ -3,7 +3,19 @@
 > Beta is what you actually do implement
 > Elements are just options possibilities
 > Beta requires decision 
+<h2>PageTags</h2>
 
+- "Beta.BetaEvent"
+- "Beta.BetaInstance"
+- "Beta.BetaInstance.BetaInstanceComparison"
+- "Beta.BetaName"
+- "Beta.BetaProperties.BetaAccuracy"
+- "Beta.BetaProperties.BetaPrecision"
+- "Beta.BetaProperties.BetaType"
+- "Beta.BetaProperties.ElementCount"
+- "Beta.BetaProperties.SubsystemCount"
+- "Beta.BetaQuestion"
+- "Beta.Overview"
 :::
 
 # 🔷 <beta>What is Beta?</beta> 🔷

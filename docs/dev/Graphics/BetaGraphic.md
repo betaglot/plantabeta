@@ -1,3 +1,11 @@
+::: details 🛠 DesignBox
+
+<h2>PageTags</h2>
+
+- "Beta.BetaCard"
+- "Beta.BetaTimeline"
+
+:::
 # 🛠 Beta Graphics
 
 How is Risk visualized?

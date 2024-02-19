@@ -4,7 +4,17 @@
 ![PaperPhoto](/PaperPhoto/0049.jpg)
 ![PaperPhoto](/PaperPhoto/0052.jpg)
 ![PaperPhoto](/PaperPhoto/0057.jpg)
+<h2>PageTags</h2>
 
+- "Dev.ToolDiagram"
+- "Dev.ToolDiagram.BagsDiagram"
+- "Dev.Tools"
+- "Dev.Tools.Cart"
+- "Dev.Tools.Flag"
+- "Dev.Tools.Kit"
+- "Dev.Tools.PlantingBag"
+- "Dev.Tools.Screefer"
+- "Dev.Tools.Spade"
 :::
 
 # 🛠 Tools Innovation

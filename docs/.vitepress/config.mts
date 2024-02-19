@@ -422,16 +422,16 @@ function sidebarReference() {
           ]
         },
         {
-          text: '🟠 <move>PlantMove</move>', collapsed: true, items: [
-            { text: '🟠 <move>PlantMove Overview</move>', link: '/reference/Move/PlantMove/Overview' },
-            { text: '🟠 <move>BranchArmDeflection</move>', link: '/reference/Move/PlantMove/BranchArmDeflection' },
-            { text: '🟠 <move>BranchDeflection</move>', link: '/reference/Move/PlantMove/BranchDeflection' },
-            { text: '🟠 <move>BranchMove</move>', link: '/reference/Move/PlantMove/BranchMove' },
-            { text: '🟠 <move>BranchWhip</move>', link: '/reference/Move/PlantMove/BranchWhip' },
-            { text: '🟠 <move>Bush</move>', link: '/reference/Move/PlantMove/Bush' },
-            { text: '🟠 <move>SlashPile</move>', link: '/reference/Move/PlantMove/SlashPile' },
-            { text: '🟠 <move>Log</move>', link: '/reference/Move/PlantMove/Log' },
-            { text: '🟠 <move>Stump</move>', link: '/reference/Move/PlantMove/Stump' },
+          text: '🟠 <move>VegeMove</move>', collapsed: true, items: [
+            { text: '🟠 <move>VegeMove Overview</move>', link: '/reference/Move/VegeMove/Overview' },
+            { text: '🟠 <move>BranchArmDeflection</move>', link: '/reference/Move/VegeMove/BranchArmDeflection' },
+            { text: '🟠 <move>BranchDeflection</move>', link: '/reference/Move/VegeMove/BranchDeflection' },
+            { text: '🟠 <move>BranchMove</move>', link: '/reference/Move/VegeMove/BranchMove' },
+            { text: '🟠 <move>BranchWhip</move>', link: '/reference/Move/VegeMove/BranchWhip' },
+            { text: '🟠 <move>Bush</move>', link: '/reference/Move/VegeMove/Bush' },
+            { text: '🟠 <move>SlashPile</move>', link: '/reference/Move/VegeMove/SlashPile' },
+            { text: '🟠 <move>Log</move>', link: '/reference/Move/VegeMove/Log' },
+            { text: '🟠 <move>Stump</move>', link: '/reference/Move/VegeMove/Stump' },
 
           ]
         },

@@ -1,7 +1,9 @@
 ::: details 🛠 DesignBox
 
 - Minimize burn dust inhaled by moveselection
+<h2>PageTags</h2>
 
+- "Eco.Slash.BurnPileSlash"
 :::
 
 # 🟩  <eco>BurnPileSlash</eco>

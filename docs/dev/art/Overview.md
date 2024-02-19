@@ -1,3 +1,10 @@
+::: details 🛠 DesignBox
+<h2>PageTags</h2>
+
+- "Dev.Sculpture"
+
+
+:::
 # Art
 
 Art which represents Planting

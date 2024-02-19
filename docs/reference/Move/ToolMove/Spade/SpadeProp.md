@@ -1,7 +1,9 @@
 ::: details 🛠 DesignBox
 
 - Alpinistes do spadeprop all the time when using an ice axe
+<h2>PageTags</h2>
 
+- "Move.ToolMove.SpadeMove.SpadeProp"
 :::
 
 # 🟠 <move>SpadeProp</move>

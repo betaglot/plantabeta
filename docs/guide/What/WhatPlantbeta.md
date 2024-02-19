@@ -1,6 +1,15 @@
 ::: details 🛠 DesignBox
 
+<h2>PageTags</h2>
 
+- "Guide.GettingStarted"
+- "Guide.What.WhatElement"
+- "Guide.What.WhatElement.ElementName.Affix"
+- "Guide.What.WhatElement.Euclid"
+- "Guide.What.WhatPlantbeta"
+- "Guide.What.WhatPlantbeta.PlanterQuestion"
+- "Guide.What.WhatPlantbeta.Product"
+- "Guide.What.WhatPlantbeta.Service"
 
 :::
 

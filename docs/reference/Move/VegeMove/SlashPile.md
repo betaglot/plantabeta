@@ -1,10 +1,12 @@
 ::: details 🛠 DesignBox
 
+<h2>PageTags</h2>
 
+- "Move.VegeMove.SlashPile"
 
 :::
 
-# 🟠 <move>TrunkMove</move>
+# 🟠 <move>SlashPile</move>
 
 
 ![MoveImage](/Move/MoveImage.png)

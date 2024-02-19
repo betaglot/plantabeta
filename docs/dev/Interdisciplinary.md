@@ -72,7 +72,7 @@ Planting while your body is moving away or towards hole
 ## Martial Arts
 
 
-- [BranchDeflection](/reference/Move/PlantMove/BranchDeflection)
+- [BranchDeflection](/reference/Move/VegeMove/BranchDeflection)
 - [HeadBob]()
 - [HandClose]()
     - [PunchClose]()

@@ -1,5 +1,7 @@
 ::: details 🛠 DesignBox
+<h2>PageTags</h2>
 
+- "Eco.Slash.Overview"
 - Slash is anything on the land that has been cut and is not living anymore and is usually in your way and it can it can be an obstacle to your root 
 
 - you normally have to go around slash although sometimes you can go through it you can have big slash piles or smaller Slash piles slash and vegetation

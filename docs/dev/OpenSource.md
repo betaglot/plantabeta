@@ -4,6 +4,21 @@
     - Help these poor kids 
     - Rich old mother grandmother 
 
+
+<h2>PageTags</h2>
+
+- "Dev.Voss"
+- "Sponsor.Kickstarter"
+- "Sponsor.Kickstarter.ProjectVideo"
+- "Sponsor.Kickstarter.Risk"
+- "Sponsor.Overview"
+- "Sponsor.Patreon"
+- "Sponsor.Promotion.Instagram.StoryIdea"
+- "Sponsor.Promotion.InstagramStoryIdea.()OfTheDay"
+- "Sponsor.Promotion.InstagramStoryIdea.()OfTheMonth"
+- "Sponsor.Promotion.InstagramStoryIdea.()OfTheSeason"
+- "Sponsor.Promotion.InstagramStoryIdea.()OfTheWeek"
+- "Sponsor.Promotion.Video.MusicVideo"
 :::
 
 # 🛠 Open Source Project

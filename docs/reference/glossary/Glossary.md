@@ -1,6 +1,9 @@
 ::: details 🛠 DesignBox
 
+<h2>PageTags</h2>
 
+- "Dev.AlsoKnownAs"
+- "Reference.Glossary"
 
 :::
 

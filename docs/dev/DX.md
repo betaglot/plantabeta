@@ -1,6 +1,24 @@
 ::: details 🛠 DesignBox
 
+<h2>PageTags</h2>
 
+- "Dev.DesignProcess"
+- "Dev.DesignProcess.Attencide"
+- "Dev.DesignProcess.DataCollection"
+- "Dev.DesignProcess.DataMining"
+- "Dev.DesignProcess.Delegation"
+- "Dev.DesignProcess.ExpandIdea"
+- "Dev.DesignProcess.Feedback.CaptiveAudience"
+- "Dev.DesignProcess.Feedback.Overview"
+- "Dev.DesignProcess.Observation"
+- "Dev.DesignProcess.PaperMine"
+- "Dev.DesignProcess.RefinementRequiresExcess"
+- "Dev.DesignProcess.RoughSketch"
+- "Dev.DesignProcess.SeedIdea"
+- "Dev.DesignProcess.SimplifyIdea"
+- "Dev.DesignProcess.StartWithEasy"
+- "Dev.DesignProcess.Testing"
+- "Dev.SheetInking"
 
 :::
 

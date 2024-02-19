@@ -1,6 +1,10 @@
 ::: details 🛠 DesignBox
 
+<h2>PageTags</h2>
 
+- "Dev.Overview"
+- "Dev.Plantbeta.SeedIdea"
+- "Dev.Youtube"
 
 :::
 

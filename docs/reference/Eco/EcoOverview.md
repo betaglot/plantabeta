@@ -1,6 +1,21 @@
 ::: details 🛠 DesignBox
 
+<h2>PageTags</h2>
 
+- "Eco.EcoAnalysis"
+- "Eco.LandCompletion.ClosedLand"
+- "Eco.LandCompletion.OpenLand"
+- "Eco.LandError"
+- "Eco.LandError.PlantedTreeError"
+- "Eco.LandError.PlantedTreeError.LeanerTree"
+- "Eco.LandEvent"
+- "Eco.LandName"
+- "Eco.LandProperties.InorganicLand"
+- "Eco.LandProperties.OrganicLand"
+- "Eco.LandProperties.Overview"
+- "Eco.LandQuestion"
+- "Eco.MixedLand"
+- "Eco.Overview"
 
 :::
 

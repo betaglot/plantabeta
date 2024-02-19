@@ -1,6 +1,31 @@
 ::: details 🛠 DesignBox
 
+<h2>PageTags</h2>
 
+- "Dev.Hardware"
+- "Dev.Hardware.Clipboard"
+- "Dev.Hardware.Keyboard.NumberPad"
+- "Dev.Hardware.Laptop"
+- "Dev.Hardware.Pen"
+- "Dev.Harware.Paper"
+- "Dev.Search"
+- "Dev.Search.AdvancedSearch"
+- "Dev.Search.SearchResults"
+- "Dev.Story"
+- "Dev.ToReduceConfusion"
+- "Dev.UX.Event.OnClick"
+- "Dev.UX.Event.OnHover"
+- "Dev.UX.EyePath.EyeClockwisePath"
+- "Dev.UX.EyePath.EyeUpPath"
+- "Dev.UX.EyePathway"
+- "Dev.UX.Keybindings"
+- "Guide.How.Navigation"
+- "Guide.How.ReadDiagram"
+- "Guide.How.Search"
+- "Guide.How.ShareLink"
+- "Guide.How.Understanding"
+- "Guide.How.Understanding.CurrentUnderstanding"
+- "Guide.How.Understanding.Interstanding"
 
 - You need to give them something that they can keep
 

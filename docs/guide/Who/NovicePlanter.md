@@ -2,7 +2,10 @@
 
 Scaffold
 Give a place to start
+<h2>PageTags</h2>
 
+- "Guide.Who.NovicePlanter"
+- "Guide.Who.NovicePlanter.NoviceStare"
 :::
 
 # Novice Planter

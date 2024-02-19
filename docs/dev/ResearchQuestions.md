@@ -1,6 +1,28 @@
 ::: details 🛠 DesignBox
 
+<h2>PageTags</h2>
 
+- "Dev.Interdisciplinary"
+- "Dev.Interdisciplinary.Analogy"
+- "Dev.Interdisciplinary.BenderAvatar"
+- "Dev.Interdisciplinary.Biology"
+- "Dev.Interdisciplinary.Chemistry"
+- "Dev.Interdisciplinary.Chess"
+- "Dev.Interdisciplinary.Climbing"
+- "Dev.Interdisciplinary.Climbing.Udini"
+- "Dev.Interdisciplinary.Dance"
+- "Dev.Interdisciplinary.Gaming"
+- "Dev.Interdisciplinary.Geology"
+- "Dev.Interdisciplinary.Gymnastics"
+- "Dev.Interdisciplinary.Music"
+- "Dev.Interdisciplinary.Music.Rhythm"
+- "Dev.Interdisciplinary.Music.SongStructure"
+- "Dev.Interdisciplinary.Parkour"
+- "Dev.Interdisciplinary.Skateboarding"
+- "Dev.Interdisciplinary.Soccer"
+- "Dev.Interdisciplinary.WebDev"
+- "Dev.Interdisciplinary.WebDev.CSS.Flexbox"
+- "Dev.ResearchQuestions"
 
 :::
 

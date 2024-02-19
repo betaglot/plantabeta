@@ -1,7 +1,9 @@
 ::: details 🛠 DesignBox
 
 - Arm wrestling screef. ArmLock then use your whole body
+<h2>PageTags</h2>
 
+- "Move.ToolMove.SpadeMove.SpadeScreef"
 :::
 
 # 🟠 <move>SpadeScreef</move>

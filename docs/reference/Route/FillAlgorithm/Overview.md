@@ -17,6 +17,44 @@ Fillin spandrels to show the mortar between ideal tree spacing spgeres
 - [HexagonFillPattern](https://www.youtube.com/watch?v=BM9Qe4XjJ0k&ab_channel=VeRLab-LaboratoryofComputerVisionandRobotics)
 - https://www.fujipress.jp/jrm/rb/robot003000010005/
 
+<h2>PageTags</h2>
+
+- "Route.AreaFill.AreaBoundary.BoundaryLine"
+- "Route.AreaFill.AreaBoundary.BoundaryPoint"
+- "Route.AreaFill.AreaBoundary.SideBoundary"
+- "Route.AreaFill.AreaDefinition"
+- "Route.AreaFill.BagUpArtithmetic"
+- "Route.AreaFill.BoustroFill"
+- "Route.AreaFill.CircleFill"
+- "Route.AreaFill.CircleFill.CircleSegmentFill"
+- "Route.AreaFill.CircleFill.SemicircleFill"
+- "Route.AreaFill.DiamondFill"
+- "Route.AreaFill.Overview"
+- "Route.AreaFill.PenroseFill"
+- "Route.AreaFill.SimplifyAreaShape"
+- "Route.AreaFill.SquareFill"
+- "Route.AreaFill.TrapezoidFill"
+- "Route.AreaFill.TriangleFill"
+- "Route.Chunking"
+- "Route.Chunking.ChunkNaming"
+- "Route.Chunking.ChunkPair"
+- "Route.Chunking.ChunkTriplet"
+- "Route.Chunking.Fraction.FirstQuarterRoute"
+- "Route.Chunking.Fraction.HalfRoute.Overview"
+- "Route.Chunking.Fraction.LastQuarterRoute"
+- "Route.Chunking.Fraction.QuarterRoute.Overview"
+- "Route.Chunking.Fraction.SecondQuarterRoute"
+- "Route.Chunking.Fraction.ThirdQuarterRoute"
+- "Route.Chunking.Landmark"
+- "Route.Chunking.Tessellation"
+- "Route.PieceFill.AreaFill"
+- "Route.PieceFill.BackFill"
+- "Route.PieceFill.OpenEndedFill"
+- "Route.PieceFill.Overview"
+- "Route.PieceFill.PerimeterFill"
+- "Route.PieceFill.PocketFill"
+- "Route.PieceFill.StraightenFill"
+- "Route.PieceFill.TypewriterFill"
 
 :::
 

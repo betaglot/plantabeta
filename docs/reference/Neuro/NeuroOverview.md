@@ -1,6 +1,43 @@
 ::: details 🛠 DesignBox
 
+<h2>PageTags</h2>
 
+- "Neuro.CognitiveEase"
+- "Neuro.CognitiveEase.Clarity"
+- "Neuro.CognitiveEase.FeelsEffortless"
+- "Neuro.CognitiveEase.FeelsFamiliar"
+- "Neuro.CognitiveEase.FeelsGood"
+- "Neuro.CognitiveEase.FeelsTrue"
+- "Neuro.CognitiveEase.Good"
+- "Neuro.CognitiveEase.Priming"
+- "Neuro.CognitiveEase.Repetition"
+- "Neuro.Difficulty"
+- "Neuro.Difficulty.NeuroComplexity"
+- "Neuro.Difficulty.NeuroIntensity"
+- "Neuro.Difficulty.NeuroRisk"
+- "Neuro.FlowState"
+- "Neuro.Music"
+- "Neuro.NeuroDifficulty.NeuroComplexity"
+- "Neuro.NeuroDifficulty.NeuroIntensity"
+- "Neuro.NeuroDifficulty.NeuroRisk"
+- "Neuro.NeuroDifficulty.Overview"
+- "Neuro.NeuroError"
+- "Neuro.NeuroEvent"
+- "Neuro.NeuroName"
+- "Neuro.NeuroQuestion"
+- "Neuro.Overview"
+- "Neuro.PatternRecognition"
+- "Neuro.Proprioception"
+- "Neuro.Rehearsal"
+- "Neuro.SpatialSense"
+- "Neuro.State"
+- "Neuro.State.Arousal"
+- "Neuro.State.EmotionalState"
+- "Neuro.State.EnergyState"
+- "Neuro.Stress.TooManyOptions"
+- "Neuro.Thermoception"
+- "Neuro.Time"
+- "Neuro.Visualization"
 
 :::
 

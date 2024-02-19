@@ -1,6 +1,10 @@
 ::: details 🛠 DesignBox
 
+<h2>PageTags</h2>
 
+- "Beta.BetaExamples"
+- "Beta.BetaExamples.BetaQuote"
+- "Beta.BetaVideo"
 
 :::
 

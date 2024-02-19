@@ -1,10 +1,13 @@
 ::: details 🛠 DesignBox
 
+<h2>PageTags</h2>
 
+- "Neuro.Memory"
+- "Neuro.Memory.Mnemonic"
 
 :::
 
-# <neuro>Memory Overview</neuro>
+# 💜 <neuro>Memory Overview</neuro>
 
 > Fire together, wire together
 

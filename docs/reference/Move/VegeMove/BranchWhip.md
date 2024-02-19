@@ -1,10 +1,12 @@
 ::: details 🛠 DesignBox
 
+<h2>PageTags</h2>
 
+- "Move.VegeMove.BranchWhip"
 
 :::
 
-# 🟠 <move>PlantType</move>
+# 🟠 <move>BranchWhip</move>
 
 
 ![MoveImage](/Move/MoveImage.png)

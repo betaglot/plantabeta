@@ -1,6 +1,9 @@
 ::: details 🛠 DesignBox
 
+<h2>PageTags</h2>
 
+- "Move.HoleMove.CloseHole"
+- "Move.HoleMove.CloseHole.MultipleToolClose"
 
 :::
 

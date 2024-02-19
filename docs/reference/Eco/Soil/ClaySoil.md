@@ -1,7 +1,9 @@
 ::: details 🛠 DesignBox
 
 
+<h2>PageTags</h2>
 
+- "Eco.Soil.ClaySoil"
 :::
 
 # 🟩  <eco>ClaySoil</eco>

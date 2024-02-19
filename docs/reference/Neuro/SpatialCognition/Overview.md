@@ -1,7 +1,23 @@
 ::: details 🛠 DesignBox
 
 - Spatially complex
+<h2>PageTags</h2>
 
+- "Neuro.Alignment"
+- "Neuro.Alignment.AlignmentRange"
+- "Neuro.Alignment.AlignOn()"
+- "Neuro.Alignment.LineExtension"
+- "Neuro.Alignment.OptimalAlignment"
+- "Neuro.Alignment.Parallel"
+- "Neuro.Alignment.Perpendicular"
+- "Neuro.Chunking"
+- "Neuro.Chunking.Fraction"
+- "Neuro.Orientation"
+- "Neuro.Orientation.ToCache"
+- "Neuro.Orientation.ToCardinalDirection"
+- "Neuro.Orientation.ToPieceBack"
+- "Neuro.Orientation.ToRoad"
+- "Neuro.Orientation.ToTarget"
 
 :::
 

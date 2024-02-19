@@ -1,7 +1,9 @@
 ::: details 🛠 DesignBox
 
 
+<h2>PageTags</h2>
 
+- "Move.BodyMove.BodyAbsorb"
 :::
 
 # 🟠 <move>BodyAbsorb</move>

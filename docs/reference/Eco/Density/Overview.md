@@ -1,6 +1,14 @@
 ::: details 🛠 DesignBox
 
+<h2>PageTags</h2>
 
+- "Eco.Density.4"
+- "Eco.Density.5"
+- "Eco.Density.6"
+- "Eco.Density.7"
+- "Eco.Density.8"
+- "Eco.Density.Overiew"
+- "Eco.Density.Plot"
 
 :::
 

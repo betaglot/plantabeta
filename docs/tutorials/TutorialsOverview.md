@@ -1,6 +1,21 @@
 ::: details 🛠 DesignBox
 
+<h2>PageTags</h2>
 
+- "Test.LabelDiagram"
+- "Tests.BetaDecomposition"
+- "Tests.FillInBlank"
+- "Tests.IncreasingDifficulty"
+- "Tests.MatchingTest"
+- "Tests.MoveDecomposition"
+- "Tests.MoveTest.VideoAnswer"
+- "Tests.MultipleChoiceTest"
+- "Tests.Overview"
+- "Tests.Recall.Recall.RecallBetaDiagram"
+- "Tests.RouteDecomposition"
+- "Tests.RouteSurfaceHighlight"
+- "Tests.Senario"
+- "Tests.Sequencing"
 
 :::
 

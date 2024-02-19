@@ -1,7 +1,10 @@
 ::: details 🛠 DesignBox
 
 - AlsoKnownAs(SpadeProp)
+<h2>PageTags</h2>
 
+- "Move.ToolMove.SpadeMove.SpadePoke"
+- "Move.ToolMove.SpadeMove.SpadeProbe"
 :::
 
 # 🟠 <move>SpadeTest</move>

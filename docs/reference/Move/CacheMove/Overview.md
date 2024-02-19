@@ -1,5 +1,12 @@
 ::: details 🛠 DesignBox
+<h2>PageTags</h2>
 
+- "Move.CacheMove.BagsPlacement"
+- "Move.CacheMove.BoxPlacement"
+- "Move.CacheMove.BundlePlacement"
+- "Move.CacheMove.CacheBreak.Overview"
+- "Move.CacheMove.GarbageBox"
+- "Move.CacheMove.Overview"
 - Cache move so a cache move the cache is a good example of where the root really matters 
 
 - a cache is typically about 3 m wide 2 m in the other direction and maybe a meter tall 

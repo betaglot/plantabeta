@@ -1,7 +1,9 @@
 ::: details 🛠 DesignBox
 
 
+<h2>PageTags</h2>
 
+- "Eco.Weather.Humidity"
 :::
 
 # 🟩  <eco>Humidity</eco>🟩

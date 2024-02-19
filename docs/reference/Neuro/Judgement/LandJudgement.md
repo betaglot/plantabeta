@@ -1,6 +1,12 @@
 ::: details 🛠 DesignBox
 
+<h2>PageTags</h2>
 
+- "Neuro.Judgement"
+- "Neuro.Logic.Boolean"
+- "Neuro.Logic.Deduction"
+- "Neuro.Logic.Induction"
+- "Neuro.Logic.Overview"
 
 :::
 

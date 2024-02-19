@@ -1,7 +1,9 @@
 ::: details 🛠 DesignBox
 
 
+<h2>PageTags</h2>
 
+- "Move.LegMove.LegSwing"
 :::
 
 # 🟠 <move>LegSwing</move>

@@ -1,7 +1,11 @@
 ::: details 🛠 DesignBox
 
 
+<h2>PageTags</h2>
 
+- "Move.HandMove.HandClose"
+- "Move.HandMove.HandClose.HammerClose"
+- "Move.HandMove.HandClose.PunchClose"
 :::
 
 # 🟠 <move>HandClose</move>

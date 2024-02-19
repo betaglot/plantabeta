@@ -5,7 +5,10 @@
 - WakingUp App
 
 Vipassana
+<h2>PageTags</h2>
 
+- "Neuro.Meditation"
+- "Neuro.NonDual"
 :::
 
 # 💜 <neuro>Mindfulness</neuro>

@@ -1,6 +1,11 @@
 ::: details 🛠 DesignBox
 
+<h2>PageTags</h2>
 
+- "Move.LegMove.Step"
+- "Move.LegMove.Step.BackStep"
+- "Move.LegMove.Step.KickStep"
+- "Move.LegMove.Step.SideStep"
 
 :::
 

@@ -4,7 +4,9 @@
 WWE Slam move
 - Step up then drop down
 - When to pull your punch, pull your slam?
+<h2>PageTags</h2>
 
+- "Move.ToolMove.SpadeMove.SpadeSlam"
 :::
 
 # 🟠 <move>Spade Slam</move>

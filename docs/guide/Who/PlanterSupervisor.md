@@ -1,7 +1,10 @@
 ::: details 🛠 DesignBox
 
 Supervisor is too many syllables. NameTooLong
+<h2>PageTags</h2>
 
+- "Guide.Who.PlanterRecruiter"
+- "Guide.Who.PlanterSupervisor"
 :::
 
 # Planter Supervisor
