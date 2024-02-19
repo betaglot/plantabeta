@@ -9,3 +9,7 @@
 :::
 
 # 🟩  <eco>Vegetation</eco>
+
+::: details Definition
+> All the plants, living or dead, planted or natural.
+:::

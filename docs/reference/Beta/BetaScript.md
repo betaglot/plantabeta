@@ -18,7 +18,11 @@ BetaScript is the Python package which is used to formally write Beta.
 > "What is the output what are the inputs and how are they processed? "
 :::
 
+
+
 ## Python
+
+### [PythonPlanter](/dev/PythonPlanter)
 
 Use Python's syntax to code Plantbeta.
 
@@ -41,6 +45,8 @@ for Bundle in Box:
 
 ```
 
+
+## Sequence
 
 
 

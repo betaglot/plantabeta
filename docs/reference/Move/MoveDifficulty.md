@@ -9,4 +9,4 @@
 
 :::
 
-# 🟠 <move>MoveDifficulty</move>
+# 🔷 <move>MoveDifficulty</move>

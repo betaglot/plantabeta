@@ -4,4 +4,4 @@
 
 :::
 
-# 🟠 <move>Body Sequence</move>
+# 🔷 <move>Body Sequence</move>

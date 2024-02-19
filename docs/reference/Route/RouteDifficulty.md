@@ -13,4 +13,4 @@
 
 :::
 
-# 🔺 <route>RouteDifficulty</route>
+# 🔷 <route>RouteDifficulty</route>

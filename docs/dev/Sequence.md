@@ -5,7 +5,23 @@
 
 :::
 
-# 🛠 Sequence
+# 🔷 Sequence
+
+```py
+Sequence[]
+```
+
+
+
+
+## Rhythm
+
+## Timing
+
+### Frame Rate
+
+
+
 
 All sequences are lists 
 

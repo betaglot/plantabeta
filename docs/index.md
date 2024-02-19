@@ -28,7 +28,7 @@ features:
   - icon: 🛠️
     title: Under Construction 
     details: Last Updated February 19, 2024. This website is a prototype, not the final product
-    link: /dev/devOverview
+    link: /dev/DevOverview
   - icon: ⏳
     title: 76 days
     details: until May 5 start day!

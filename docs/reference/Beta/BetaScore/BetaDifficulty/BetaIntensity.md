@@ -4,4 +4,4 @@
 
 :::
 
-# 🔷 <move>Truck Sequence</move>
+# 🔷 <beta>BetaIntensity</beta>

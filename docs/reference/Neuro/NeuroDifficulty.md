@@ -1,1 +1,7 @@
-# Neuro Difficulty
+::: details 🛠 DesignBox
+
+
+
+:::
+
+# 🔷 <neuro>Neuro Difficulty</neuro>

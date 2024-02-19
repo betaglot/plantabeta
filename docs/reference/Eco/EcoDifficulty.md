@@ -9,4 +9,4 @@
 
 :::
 
-# 🟩  <eco>EcoDifficulty</eco>
+# 🔷 <eco>EcoDifficulty</eco>
