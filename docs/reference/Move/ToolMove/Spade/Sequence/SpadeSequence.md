@@ -6,4 +6,4 @@
 
 :::
 
-# 🔷 <move>Spade Sequence</move>
+# 🔷 <move>Spade Phrase</move>

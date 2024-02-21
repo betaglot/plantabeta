@@ -39,7 +39,7 @@ Summer Cache
 - Tool2
 - Tool3
 
-## <move>Move Sequence</move>
+## <move>Move Phrase</move>
 
 <div style="display: flex">
     <div>
@@ -102,7 +102,7 @@ Quotes about this Move
 
 
 
-Links to other related movements. Related because they are the same MoveType or because they are performed at the same time or within the same sequence. 
+Links to other related movements. Related because they are the same MoveType or because they are performed at the same time or within the same Phrase. 
 
 ## See also:
 

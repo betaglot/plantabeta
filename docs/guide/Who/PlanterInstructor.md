@@ -14,7 +14,7 @@ Percentages
 <h2>PageTags</h2>
 
 - "Dev.Pedagogy"
-- "Dev.Pedagogy.Curriculum.LessonSequence"
+- "Dev.Pedagogy.Curriculum.LessonPhrase"
 - "Dev.Pedagogy.Curriculum.Timeline"
 - "Dev.PlanterMetaInstructor"
 - "Guide.Who.PlanterInstructor"

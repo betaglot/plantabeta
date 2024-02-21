@@ -7,4 +7,4 @@
 - "Move.HandMove.HandMatch"
 :::
 
-# 🔷 <move>Hand Sequence</move>
+# 🔷 <move>Hand Phrase</move>

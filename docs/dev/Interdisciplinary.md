@@ -46,7 +46,7 @@
 ### Basketball
 
 - Play diagram [InsertImage]
-- MoveSequence
+- MovePhrase
 
 ### Skiing
 

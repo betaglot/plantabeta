@@ -12,7 +12,7 @@
 - HoleLibrary_Root_ThickRoot_SpadeSnag												
 - HoleLibrary_Root_ThinRoot_PlantingSound												
 - HoleLibrary_TreeFertilizerHole_ParaHole_SpadeThrow												
-- HoleLibrary_TreeFertilizerHole_SameHole_PlantingSequence												
+- HoleLibrary_TreeFertilizerHole_SameHole_PlantingPhrase												
 - HoleLibrary_Underrock_RockPry_SpadeMovement_SpadeBlade_																									
 :::
 

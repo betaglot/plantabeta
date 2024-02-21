@@ -85,7 +85,7 @@ Quotes about this Element
 
 ## See also:
 
-Links to other related EcoElements. Related because they are the same EcoType or because they are performed at the same time or within the same sequence. 
+Links to other related EcoElements. Related because they are the same EcoType or because they are performed at the same time or within the same Phrase. 
 
 - [Link]()
 - [Link]()

@@ -286,7 +286,7 @@ Reference is easy **searched** by using the Hash symbol <eco>#</eco> to target t
 
 ##### Example
 
-Image Sequence of Searching through Sidebar
+Image Phrase of Searching through Sidebar
 
 
 #### Tablet
@@ -294,14 +294,14 @@ Image Sequence of Searching through Sidebar
 
 ##### Example
 
-Image Sequence of Searching through Sidebar
+Image Phrase of Searching through Sidebar
 
 #### Desktop
 [InsertImage](Screenshot of Desktop)
 
 ##### Example
 
-Image Sequence of Searching through Sidebar
+Image Phrase of Searching through Sidebar
 
 
 

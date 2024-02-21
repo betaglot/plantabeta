@@ -1,16 +1,12 @@
 ::: details 🛠 <dev>DesignBox</dev> 
 
-- AlsoKnownAs(SpadeProp)
 <h2>PageTags</h2>
 
-- "Move.ToolMove.SpadeMove.SpadePoke"
-- "Move.ToolMove.SpadeMove.SpadeProbe"
+- "Move.ToolMove.BagMove.BagOn"
+
 :::
 
-# 🟠 <move>SpadeTest</move>
-
-## MicrositeSelection
-
+# 🟠 <move>BagOn</move>
 
 ![MoveImage](/Move/MoveImage.png)
 
@@ -22,7 +18,7 @@
 - Tool2
 - Tool3
 
-## <move>Move Sequence</move>
+## <move>Move Phrase</move>
 
 <div style="display: flex">
     <div>
@@ -85,7 +81,7 @@ Quotes about this Move
 
 
 
-Links to other related movements. Related because they are the same MoveType or because they are performed at the same time or within the same sequence. 
+Links to other related movements. Related because they are the same MoveType or because they are performed at the same time or within the same Phrase. 
 
 ## See also:
 

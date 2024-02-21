@@ -4,4 +4,4 @@
 
 :::
 
-# 🟠 <move>Boot Sequence</move>
+# 🟠 <move>Boot Phrase</move>

@@ -4,4 +4,4 @@
 
 :::
 
-# 🔷 <move>Head Sequence</move>
+# 🔷 <move>Head Phrase</move>

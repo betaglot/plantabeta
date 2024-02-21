@@ -57,16 +57,16 @@
 - "ElementRelationshipDiagram.MetroMap"
 - "ElementRelationshipDiagram.NodeSize"
 - "ElementRelationshipDiagram.PostIt"
-- "ElementRelationshipDiagram.Sequence"
-- "ElementRelationshipDiagram.Sequence.ContiguousElement"
-- "ElementRelationshipDiagram.Sequence.FinishElement"
-- "ElementRelationshipDiagram.Sequence.InfraElement"
-- "ElementRelationshipDiagram.Sequence.ReorderSequence"
-- "ElementRelationshipDiagram.Sequence.SequenceInsertion"
-- "ElementRelationshipDiagram.Sequence.SequencePop"
-- "ElementRelationshipDiagram.Sequence.SequencePush"
-- "ElementRelationshipDiagram.Sequence.SequenceSplice"
-- "ElementRelationshipDiagram.Sequence.StartElement"
+- "ElementRelationshipDiagram.Phrase"
+- "ElementRelationshipDiagram.Phrase.ContiguousElement"
+- "ElementRelationshipDiagram.Phrase.FinishElement"
+- "ElementRelationshipDiagram.Phrase.InfraElement"
+- "ElementRelationshipDiagram.Phrase.ReorderPhrase"
+- "ElementRelationshipDiagram.Phrase.PhraseInsertion"
+- "ElementRelationshipDiagram.Phrase.PhrasePop"
+- "ElementRelationshipDiagram.Phrase.PhrasePush"
+- "ElementRelationshipDiagram.Phrase.PhraseSplice"
+- "ElementRelationshipDiagram.Phrase.StartElement"
 - "ElementRelationshipDiagram.StakeholderMap"
 - "ElementRelationshipDiagram.Symbols"
 - "ElementRelationshipDiagram.Timeline"
@@ -148,17 +148,17 @@ Removes Value Addition // [!code --]
 - Number
     - Density
     - TreeCount
-    - RouteSequenceNumber
-    - MoveSequenceNumber
+    - RoutePhraseNumber
+    - MovePhraseNumber
     - StepCount
 - Location
     - TargetLocation in the Eco.
     - PotentialMicrosite
     - 
 - Array
-    - MoveSequence
+    - MovePhrase
     - Set of Submoves
-    - RouteSequence
+    - RoutePhrase
 
 ### Outcome > Output
 
@@ -185,7 +185,7 @@ What does paired element get in return?
 
 Also known as a Value Stream.
 
-Value is added along a sequence of steps. Like Bioamplification of poison in Predatory Birds 
+Value is added along a Phrase of steps. Like Bioamplification of poison in Predatory Birds 
 
 - Exponential 
 - [Addition of MarginalGains Infographic]
@@ -530,7 +530,7 @@ MoveSelection.MoveEvaluation
 - RockCap is not valuable for planting.
 - CreamyEco
 
-Value is added along the chain of steps. PlantingSequence
+Value is added along the chain of steps. PlantingPhrase
 
 MicrositeValidation Threshold MinimumValue
 - SoilProperties
@@ -545,7 +545,7 @@ Microsite gets more and more valuable until the hole is closed
 
 EyePath
 
-Sequence
+Phrase
 
 UX
 
@@ -553,7 +553,7 @@ UX
 
 ## (State)Attencide
 
-Anything that a Planter needs to remember during a planting sequence.
+Anything that a Planter needs to remember during a planting Phrase.
 
 RouteState
 

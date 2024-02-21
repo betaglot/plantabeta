@@ -1,9 +1,9 @@
 ::: details 🛠 <dev>DesignBox</dev> 
 <h2>PageTags</h2>
 
-- "Eco.LandSequence"
+- "Eco.LandPhrase"
 
 
 :::
 
-# 🟩 <eco>EcoSequence</eco>
+# 🟩 <eco>EcoPhrase</eco>

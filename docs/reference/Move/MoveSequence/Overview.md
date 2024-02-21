@@ -2,51 +2,50 @@
 
 <h2>PageTags</h2>
 
-- "Move.MoveSequence"
-- "Move.MoveSequence.AnteMove"
-- "Move.MoveSequence.ArmSequence"
-- "Move.MoveSequence.Attempt"
-- "Move.MoveSequence.BaggingUpSequence"
-- "Move.MoveSequence.BodySequence"
-- "Move.MoveSequence.ContiguousMove"
-- "Move.MoveSequence.CurrentMove"
-- "Move.MoveSequence.FootSequence"
-- "Move.MoveSequence.HandSequence"
-- "Move.MoveSequence.InitiationMove"
-- "Move.MoveSequence.IntermembralTiming"
-- "Move.MoveSequence.LegSequence"
-- "Move.MoveSequence.MoveChunk.MovePhrase"
-- "Move.MoveSequence.MoveCycle"
-- "Move.MoveSequence.MoveCycle.DoUntil"
-- "Move.MoveSequence.MoveCycle.DoWhile"
-- "Move.MoveSequence.MoveDensity"
-- "Move.MoveSequence.MoveEndurance"
-- "Move.MoveSequence.MoveLineSequence"
-- "Move.MoveSequence.MoveNestedSequence"
-- "Move.MoveSequence.MoveOverlap"
-- "Move.MoveSequence.MoveRhythm"
-- "Move.MoveSequence.MoveSequenceArea"
-- "Move.MoveSequence.MoveSequenceError"
-- "Move.MoveSequence.MoveSequenceVariation"
-- "Move.MoveSequence.MoveShapeSequence.MoveShapeOverlap"
-- "Move.MoveSequence.MoveSpaceSequence.MoveSpaceOverlap"
-- "Move.MoveSequence.MoveTempo"
-- "Move.MoveSequence.PlantingSequence"
-- "Move.MoveSequence.PostMove"
-- "Move.MoveSequence.SimultaneousMove"
-- "Move.MoveSequence.SpadeSequence"
-- "Move.MoveSequence.SubmoveSequence"
-- "Move.MoveSequence.TransitionMove"
+- "Move.MovePhrase"
+- "Move.MovePhrase.AnteMove"
+- "Move.MovePhrase.ArmPhrase"
+- "Move.MovePhrase.Attempt"
+- "Move.MovePhrase.BaggingUpPhrase"
+- "Move.MovePhrase.BodyPhrase"
+- "Move.MovePhrase.ContiguousMove"
+- "Move.MovePhrase.CurrentMove"
+- "Move.MovePhrase.FootPhrase"
+- "Move.MovePhrase.HandPhrase"
+- "Move.MovePhrase.InitiationMove"
+- "Move.MovePhrase.IntermembralTiming"
+- "Move.MovePhrase.LegPhrase"
+- "Move.MovePhrase.MoveChunk.MovePhrase"
+- "Move.MovePhrase.MoveCycle"
+- "Move.MovePhrase.MoveCycle.DoUntil"
+- "Move.MovePhrase.MoveCycle.DoWhile"
+- "Move.MovePhrase.MoveDensity"
+- "Move.MovePhrase.MoveEndurance"
+- "Move.MovePhrase.MoveLinePhrase"
+- "Move.MovePhrase.MoveNestedPhrase"
+- "Move.MovePhrase.MoveOverlap"
+- "Move.MovePhrase.MoveRhythm"
+- "Move.MovePhrase.MovePhraseArea"
+- "Move.MovePhrase.MovePhraseError"
+- "Move.MovePhrase.MovePhraseVariation"
+- "Move.MovePhrase.MoveShapePhrase.MoveShapeOverlap"
+- "Move.MovePhrase.MoveSpacePhrase.MoveSpaceOverlap"
+- "Move.MovePhrase.MoveTempo"
+- "Move.MovePhrase.PlantingPhrase"
+- "Move.MovePhrase.PostMove"
+- "Move.MovePhrase.SimultaneousMove"
+- "Move.MovePhrase.SpadePhrase"
+- "Move.MovePhrase.SubmovePhrase"
+- "Move.MovePhrase.TransitionMove"
 
 :::
 
-# 🟠 <move>MoveSequence Overview</move>
+# 🟠 <move>MovePhrase Overview</move>
 
-## GetVege()
+## Get()
 
 
-
-## PutTree() 
+## Put() 
 
 ### def Put():
 

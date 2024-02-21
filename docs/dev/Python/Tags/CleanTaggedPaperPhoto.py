@@ -1918,7 +1918,7 @@ tags = [
                     "title": "Move.MoveLine"
                 },
                 {
-                    "title": "Move.MoveSequence"
+                    "title": "Move.MovePhrase"
                 },
                 {
                     "title": "Plantbeta"
@@ -1947,7 +1947,7 @@ tags = [
                 "title": "Move.MoveLine"
             },
             {
-                "title": "Move.MoveSequence"
+                "title": "Move.MovePhrase"
             },
             {
                 "title": "Plantbeta"
@@ -2184,7 +2184,7 @@ tags = [
                     "title": "Move.MoveDiagram.MoveTimeline"
                 },
                 {
-                    "title": "Move.MoveSequence"
+                    "title": "Move.MovePhrase"
                 },
                 {
                     "title": "Plantbeta"
@@ -2204,7 +2204,7 @@ tags = [
                 "title": "Move.MoveDiagram.MoveTimeline"
             },
             {
-                "title": "Move.MoveSequence"
+                "title": "Move.MovePhrase"
             },
             {
                 "title": "Plantbeta"
@@ -2710,7 +2710,7 @@ tags = [
                     "title": "Dev.DesignProcess.SimplifyIdea"
                 },
                 {
-                    "title": "Dev.Element.ElementDiagram.Labels.NumberLabel.SequenceNumberLabel"
+                    "title": "Dev.Element.ElementDiagram.Labels.NumberLabel.PhraseNumberLabel"
                 },
                 {
                     "title": "Dev.Element.ElementDiagram.LevelOfDetail"
@@ -2740,10 +2740,10 @@ tags = [
                     "title": "Move.MoveProperties.MoveShape.TriangleMove"
                 },
                 {
-                    "title": "Move.MoveSequence.MoveTempo"
+                    "title": "Move.MovePhrase.MoveTempo"
                 },
                 {
-                    "title": "Move.MoveSequence.PlantingSequence"
+                    "title": "Move.MovePhrase.PlantingPhrase"
                 },
                 {
                     "title": "Move.MoveShape"
@@ -2785,7 +2785,7 @@ tags = [
                 "title": "Dev.DesignProcess.SimplifyIdea"
             },
             {
-                "title": "Dev.Element.ElementDiagram.Labels.NumberLabel.SequenceNumberLabel"
+                "title": "Dev.Element.ElementDiagram.Labels.NumberLabel.PhraseNumberLabel"
             },
             {
                 "title": "Dev.Element.ElementDiagram.LevelOfDetail"
@@ -2815,10 +2815,10 @@ tags = [
                 "title": "Move.MoveProperties.MoveShape.TriangleMove"
             },
             {
-                "title": "Move.MoveSequence.MoveTempo"
+                "title": "Move.MovePhrase.MoveTempo"
             },
             {
-                "title": "Move.MoveSequence.PlantingSequence"
+                "title": "Move.MovePhrase.PlantingPhrase"
             },
             {
                 "title": "Move.MoveShape"
@@ -2911,7 +2911,7 @@ tags = [
                     "title": "Dev.System.Syntax.ElementHierarchySyntax"
                 },
                 {
-                    "title": "Move.MoveSequence.MoveRhythm"
+                    "title": "Move.MovePhrase.MoveRhythm"
                 },
                 {
                     "title": "Move.Overview.MoveHierarchy"
@@ -2991,7 +2991,7 @@ tags = [
                 "title": "Dev.System.Syntax.ElementHierarchySyntax"
             },
             {
-                "title": "Move.MoveSequence.MoveRhythm"
+                "title": "Move.MovePhrase.MoveRhythm"
             },
             {
                 "title": "Move.Overview.MoveHierarchy"
@@ -3283,7 +3283,7 @@ tags = [
                     "title": "Route.ObstacleFill.Overview"
                 },
                 {
-                    "title": "Route.RouteSequence.PostMicrositeAnteMicrosite"
+                    "title": "Route.RoutePhrase.PostMicrositeAnteMicrosite"
                 },
                 {
                     "title": "TagTest"
@@ -3324,7 +3324,7 @@ tags = [
                 "title": "Route.ObstacleFill.Overview"
             },
             {
-                "title": "Route.RouteSequence.PostMicrositeAnteMicrosite"
+                "title": "Route.RoutePhrase.PostMicrositeAnteMicrosite"
             },
             {
                 "title": "TagTest"
@@ -3763,7 +3763,7 @@ tags = [
                     "title": "Move.MoveProperties.MoveShape.Overview"
                 },
                 {
-                    "title": "Move.MoveSequence.MoveTempo"
+                    "title": "Move.MovePhrase.MoveTempo"
                 },
                 {
                     "title": "Move.MoveType.DynamicMove"
@@ -3841,7 +3841,7 @@ tags = [
                 "title": "Move.MoveProperties.MoveShape.Overview"
             },
             {
-                "title": "Move.MoveSequence.MoveTempo"
+                "title": "Move.MovePhrase.MoveTempo"
             },
             {
                 "title": "Move.MoveType.DynamicMove"
@@ -4274,25 +4274,25 @@ tags = [
                     "title": "Move.MoveProperties.MoveSize"
                 },
                 {
-                    "title": "Move.MoveSequence.MoveOverlap"
+                    "title": "Move.MovePhrase.MoveOverlap"
                 },
                 {
-                    "title": "Move.MoveSequence.MoveSequenceVariation"
+                    "title": "Move.MovePhrase.MovePhraseVariation"
                 },
                 {
-                    "title": "Move.MoveSequence.MoveShapeSequence.MoveShapeOverlap"
+                    "title": "Move.MovePhrase.MoveShapePhrase.MoveShapeOverlap"
                 },
                 {
                     "title": "Plantbeta"
                 },
                 {
-                    "title": "Route.RouteSequence.RouteSequenceVariation"
+                    "title": "Route.RoutePhrase.RoutePhraseVariation"
                 },
                 {
-                    "title": "Route.RouteSequence.RouteShapeSequence.RouteShapeOverlap"
+                    "title": "Route.RoutePhrase.RouteShapePhrase.RouteShapeOverlap"
                 },
                 {
-                    "title": "Route.RouteSequence.RouteSpaceSequence.RouteSpaceOverlap"
+                    "title": "Route.RoutePhrase.RouteSpacePhrase.RouteSpaceOverlap"
                 },
                 {
                     "title": "TagTest"
@@ -4327,25 +4327,25 @@ tags = [
                 "title": "Move.MoveProperties.MoveSize"
             },
             {
-                "title": "Move.MoveSequence.MoveOverlap"
+                "title": "Move.MovePhrase.MoveOverlap"
             },
             {
-                "title": "Move.MoveSequence.MoveSequenceVariation"
+                "title": "Move.MovePhrase.MovePhraseVariation"
             },
             {
-                "title": "Move.MoveSequence.MoveShapeSequence.MoveShapeOverlap"
+                "title": "Move.MovePhrase.MoveShapePhrase.MoveShapeOverlap"
             },
             {
                 "title": "Plantbeta"
             },
             {
-                "title": "Route.RouteSequence.RouteSequenceVariation"
+                "title": "Route.RoutePhrase.RoutePhraseVariation"
             },
             {
-                "title": "Route.RouteSequence.RouteShapeSequence.RouteShapeOverlap"
+                "title": "Route.RoutePhrase.RouteShapePhrase.RouteShapeOverlap"
             },
             {
-                "title": "Route.RouteSequence.RouteSpaceSequence.RouteSpaceOverlap"
+                "title": "Route.RoutePhrase.RouteSpacePhrase.RouteSpaceOverlap"
             },
             {
                 "title": "TagTest"
@@ -4503,10 +4503,10 @@ tags = [
                     "title": "Move.MoveProperties.MoveShape.Overview"
                 },
                 {
-                    "title": "Move.MoveSequence.MoveSequenceArea"
+                    "title": "Move.MovePhrase.MovePhraseArea"
                 },
                 {
-                    "title": "Move.MoveSequence.MoveSequenceVariation"
+                    "title": "Move.MovePhrase.MovePhraseVariation"
                 },
                 {
                     "title": "Plantbeta"
@@ -4518,7 +4518,7 @@ tags = [
                     "title": "Route.RouteProperties.RoutePermutation"
                 },
                 {
-                    "title": "Route.RouteSequence.RouteSequenceVariation"
+                    "title": "Route.RoutePhrase.RoutePhraseVariation"
                 },
                 {
                     "title": "TagTest"
@@ -4568,10 +4568,10 @@ tags = [
                 "title": "Move.MoveProperties.MoveShape.Overview"
             },
             {
-                "title": "Move.MoveSequence.MoveSequenceArea"
+                "title": "Move.MovePhrase.MovePhraseArea"
             },
             {
-                "title": "Move.MoveSequence.MoveSequenceVariation"
+                "title": "Move.MovePhrase.MovePhraseVariation"
             },
             {
                 "title": "Plantbeta"
@@ -4583,7 +4583,7 @@ tags = [
                 "title": "Route.RouteProperties.RoutePermutation"
             },
             {
-                "title": "Route.RouteSequence.RouteSequenceVariation"
+                "title": "Route.RoutePhrase.RoutePhraseVariation"
             },
             {
                 "title": "TagTest"
@@ -4616,7 +4616,7 @@ tags = [
                     "title": "Move.MovePoint.MoveContactPoint"
                 },
                 {
-                    "title": "Move.MoveSequence.CurrentMove"
+                    "title": "Move.MovePhrase.CurrentMove"
                 },
                 {
                     "title": "Plantbeta"
@@ -4625,13 +4625,13 @@ tags = [
                     "title": "Route.RouteDifficulty.Overview"
                 },
                 {
-                    "title": "Route.RouteSequence.RouteSurfaceSequence.AnteRouteSurface"
+                    "title": "Route.RoutePhrase.RouteSurfacePhrase.AnteRouteSurface"
                 },
                 {
-                    "title": "Route.RouteSequence.RouteSurfaceSequence.CurrentRouteSurface"
+                    "title": "Route.RoutePhrase.RouteSurfacePhrase.CurrentRouteSurface"
                 },
                 {
-                    "title": "Route.RouteSequence.RouteSurfaceSequence.PostRouteSurface"
+                    "title": "Route.RoutePhrase.RouteSurfacePhrase.PostRouteSurface"
                 },
                 {
                     "title": "Route.RouteGeometry.RouteSpace.RouteRangeOfLoadingAngles"
@@ -4662,7 +4662,7 @@ tags = [
                 "title": "Move.MovePoint.MoveContactPoint"
             },
             {
-                "title": "Move.MoveSequence.CurrentMove"
+                "title": "Move.MovePhrase.CurrentMove"
             },
             {
                 "title": "Plantbeta"
@@ -4671,13 +4671,13 @@ tags = [
                 "title": "Route.RouteDifficulty.Overview"
             },
             {
-                "title": "Route.RouteSequence.RouteSurfaceSequence.AnteRouteSurface"
+                "title": "Route.RoutePhrase.RouteSurfacePhrase.AnteRouteSurface"
             },
             {
-                "title": "Route.RouteSequence.RouteSurfaceSequence.CurrentRouteSurface"
+                "title": "Route.RoutePhrase.RouteSurfacePhrase.CurrentRouteSurface"
             },
             {
-                "title": "Route.RouteSequence.RouteSurfaceSequence.PostRouteSurface"
+                "title": "Route.RoutePhrase.RouteSurfacePhrase.PostRouteSurface"
             },
             {
                 "title": "Route.RouteGeometry.RouteSpace.RouteRangeOfLoadingAngles"
@@ -4779,7 +4779,7 @@ tags = [
                     "title": "Move.MoveError.Overview"
                 },
                 {
-                    "title": "Move.MoveSequence"
+                    "title": "Move.MovePhrase"
                 },
                 {
                     "title": "Move.MoveValidation"
@@ -4824,7 +4824,7 @@ tags = [
                 "title": "Move.MoveError.Overview"
             },
             {
-                "title": "Move.MoveSequence"
+                "title": "Move.MovePhrase"
             },
             {
                 "title": "Move.MoveValidation"
@@ -4903,7 +4903,7 @@ tags = [
                     "title": "Beta.BetaDiagram"
                 },
                 {
-                    "title": "Dev.Element.ElementDiagram.ElementDiagramError.SequenceNumberLabelError"
+                    "title": "Dev.Element.ElementDiagram.ElementDiagramError.PhraseNumberLabelError"
                 },
                 {
                     "title": "Dev.Element.ElementDiagram.Hatching"
@@ -4912,7 +4912,7 @@ tags = [
                     "title": "Dev.Element.ElementDiagram.Labels.ArrowLabel"
                 },
                 {
-                    "title": "Dev.Element.ElementDiagram.Labels.NumberLabel.SequenceNumberLabel"
+                    "title": "Dev.Element.ElementDiagram.Labels.NumberLabel.PhraseNumberLabel"
                 },
                 {
                     "title": "Dev.Element.ElementDiagram.Labels.TextLabel.MoveLabel"
@@ -4930,7 +4930,7 @@ tags = [
                     "title": "Move.MoveProperties.MoveShape.Overview"
                 },
                 {
-                    "title": "Move.MoveSequence.TransitionMove"
+                    "title": "Move.MovePhrase.TransitionMove"
                 },
                 {
                     "title": "Move.Overview.MoveHierarchy"
@@ -4956,7 +4956,7 @@ tags = [
                 "title": "Beta.BetaDiagram"
             },
             {
-                "title": "Dev.Element.ElementDiagram.ElementDiagramError.SequenceNumberLabelError"
+                "title": "Dev.Element.ElementDiagram.ElementDiagramError.PhraseNumberLabelError"
             },
             {
                 "title": "Dev.Element.ElementDiagram.Hatching"
@@ -4965,7 +4965,7 @@ tags = [
                 "title": "Dev.Element.ElementDiagram.Labels.ArrowLabel"
             },
             {
-                "title": "Dev.Element.ElementDiagram.Labels.NumberLabel.SequenceNumberLabel"
+                "title": "Dev.Element.ElementDiagram.Labels.NumberLabel.PhraseNumberLabel"
             },
             {
                 "title": "Dev.Element.ElementDiagram.Labels.TextLabel.MoveLabel"
@@ -4983,7 +4983,7 @@ tags = [
                 "title": "Move.MoveProperties.MoveShape.Overview"
             },
             {
-                "title": "Move.MoveSequence.TransitionMove"
+                "title": "Move.MovePhrase.TransitionMove"
             },
             {
                 "title": "Move.Overview.MoveHierarchy"
@@ -5116,7 +5116,7 @@ tags = [
                     "title": "Move.MoveProperties.SubmovementCount"
                 },
                 {
-                    "title": "Move.MoveSequence.MoveDensity"
+                    "title": "Move.MovePhrase.MoveDensity"
                 },
                 {
                     "title": "Plantbeta"
@@ -5148,7 +5148,7 @@ tags = [
                 "title": "Move.MoveProperties.SubmovementCount"
             },
             {
-                "title": "Move.MoveSequence.MoveDensity"
+                "title": "Move.MovePhrase.MoveDensity"
             },
             {
                 "title": "Plantbeta"
@@ -5205,10 +5205,10 @@ tags = [
                     "title": "Move.MoveError.Overview"
                 },
                 {
-                    "title": "Move.MoveSequence.MoveCycle"
+                    "title": "Move.MovePhrase.MoveCycle"
                 },
                 {
-                    "title": "Move.MoveSequence.MoveRhythm"
+                    "title": "Move.MovePhrase.MoveRhythm"
                 },
                 {
                     "title": "Plantbeta"
@@ -5223,7 +5223,7 @@ tags = [
                     "title": "Route.RouteGeometry.RoutePoint.RouteDivergencePoint"
                 },
                 {
-                    "title": "Route.RouteSequence.RouteCycle"
+                    "title": "Route.RoutePhrase.RouteCycle"
                 },
                 {
                     "title": "TagTest"
@@ -5269,10 +5269,10 @@ tags = [
                 "title": "Move.MoveError.Overview"
             },
             {
-                "title": "Move.MoveSequence.MoveCycle"
+                "title": "Move.MovePhrase.MoveCycle"
             },
             {
-                "title": "Move.MoveSequence.MoveRhythm"
+                "title": "Move.MovePhrase.MoveRhythm"
             },
             {
                 "title": "Plantbeta"
@@ -5287,7 +5287,7 @@ tags = [
                 "title": "Route.RouteGeometry.RoutePoint.RouteDivergencePoint"
             },
             {
-                "title": "Route.RouteSequence.RouteCycle"
+                "title": "Route.RoutePhrase.RouteCycle"
             },
             {
                 "title": "TagTest"
@@ -5790,7 +5790,7 @@ tags = [
                     "title": "Dev.Element.ElementDiagram.Labels.NumberLabel"
                 },
                 {
-                    "title": "Dev.Element.ElementDiagram.Labels.NumberLabel.SequenceNumberLabel"
+                    "title": "Dev.Element.ElementDiagram.Labels.NumberLabel.PhraseNumberLabel"
                 },
                 {
                     "title": "Dev.Element.ElementDiagram.Labels.TextLabel.MoveLabel"
@@ -5817,19 +5817,19 @@ tags = [
                     "title": "Move.MovePoint.MoveStartPoint"
                 },
                 {
-                    "title": "Move.MoveSequence.MoveDensity"
+                    "title": "Move.MovePhrase.MoveDensity"
                 },
                 {
-                    "title": "Move.MoveSequence.MoveSequenceArea"
+                    "title": "Move.MovePhrase.MovePhraseArea"
                 },
                 {
-                    "title": "Move.MoveSequence.MoveShapeSequence.MoveShapeOverlap"
+                    "title": "Move.MovePhrase.MoveShapePhrase.MoveShapeOverlap"
                 },
                 {
                     "title": "Plantbeta"
                 },
                 {
-                    "title": "Route.RouteSequence.RouteShapeSequence.RouteShapeOverlap"
+                    "title": "Route.RoutePhrase.RouteShapePhrase.RouteShapeOverlap"
                 },
                 {
                     "title": "TagTest"
@@ -5855,7 +5855,7 @@ tags = [
                 "title": "Dev.Element.ElementDiagram.Labels.NumberLabel"
             },
             {
-                "title": "Dev.Element.ElementDiagram.Labels.NumberLabel.SequenceNumberLabel"
+                "title": "Dev.Element.ElementDiagram.Labels.NumberLabel.PhraseNumberLabel"
             },
             {
                 "title": "Dev.Element.ElementDiagram.Labels.TextLabel.MoveLabel"
@@ -5882,19 +5882,19 @@ tags = [
                 "title": "Move.MovePoint.MoveStartPoint"
             },
             {
-                "title": "Move.MoveSequence.MoveDensity"
+                "title": "Move.MovePhrase.MoveDensity"
             },
             {
-                "title": "Move.MoveSequence.MoveSequenceArea"
+                "title": "Move.MovePhrase.MovePhraseArea"
             },
             {
-                "title": "Move.MoveSequence.MoveShapeSequence.MoveShapeOverlap"
+                "title": "Move.MovePhrase.MoveShapePhrase.MoveShapeOverlap"
             },
             {
                 "title": "Plantbeta"
             },
             {
-                "title": "Route.RouteSequence.RouteShapeSequence.RouteShapeOverlap"
+                "title": "Route.RoutePhrase.RouteShapePhrase.RouteShapeOverlap"
             },
             {
                 "title": "TagTest"
@@ -6333,10 +6333,10 @@ tags = [
                     "title": "Route.RouteGeometry.RouteCurve.RouteDistanceLine.RouteCircuitLine"
                 },
                 {
-                    "title": "Route.RouteSequence.AreaFillSequence.RouteShapeInscription.Overview"
+                    "title": "Route.RoutePhrase.AreaFillPhrase.RouteShapeInscription.Overview"
                 },
                 {
-                    "title": "Route.RouteSequence.AreaFillSequence.RouteShapeInscription.RouteSquareInscription"
+                    "title": "Route.RoutePhrase.AreaFillPhrase.RouteShapeInscription.RouteSquareInscription"
                 },
                 {
                     "title": "TagTest"
@@ -6371,10 +6371,10 @@ tags = [
                 "title": "Route.RouteGeometry.RouteCurve.RouteDistanceLine.RouteCircuitLine"
             },
             {
-                "title": "Route.RouteSequence.AreaFillSequence.RouteShapeInscription.Overview"
+                "title": "Route.RoutePhrase.AreaFillPhrase.RouteShapeInscription.Overview"
             },
             {
-                "title": "Route.RouteSequence.AreaFillSequence.RouteShapeInscription.RouteSquareInscription"
+                "title": "Route.RoutePhrase.AreaFillPhrase.RouteShapeInscription.RouteSquareInscription"
             },
             {
                 "title": "TagTest"
@@ -6430,7 +6430,7 @@ tags = [
                     "title": "Plantbeta"
                 },
                 {
-                    "title": "Route.RouteSequence.AreaFillSequence.RouteShapeInscription.RouteCircleInscription"
+                    "title": "Route.RoutePhrase.AreaFillPhrase.RouteShapeInscription.RouteCircleInscription"
                 },
                 {
                     "title": "TagTest"
@@ -6483,7 +6483,7 @@ tags = [
                 "title": "Plantbeta"
             },
             {
-                "title": "Route.RouteSequence.AreaFillSequence.RouteShapeInscription.RouteCircleInscription"
+                "title": "Route.RoutePhrase.AreaFillPhrase.RouteShapeInscription.RouteCircleInscription"
             },
             {
                 "title": "TagTest"
@@ -6527,10 +6527,10 @@ tags = [
                     "title": "Move.MoveProperties.MoveShape.Overview"
                 },
                 {
-                    "title": "Move.MoveSequence.MoveOverlap"
+                    "title": "Move.MovePhrase.MoveOverlap"
                 },
                 {
-                    "title": "Move.MoveSequence.MoveSpaceSequence.MoveSpaceOverlap"
+                    "title": "Move.MovePhrase.MoveSpacePhrase.MoveSpaceOverlap"
                 },
                 {
                     "title": "Move.Physics.Tangent"
@@ -6551,10 +6551,10 @@ tags = [
                     "title": "Route.RouteGeometry.RouteCurve.RouteLinearLine"
                 },
                 {
-                    "title": "Route.RouteSequence.AreaFillSequence.RouteShapeInscription.Overview"
+                    "title": "Route.RoutePhrase.AreaFillPhrase.RouteShapeInscription.Overview"
                 },
                 {
-                    "title": "Route.RouteSequence.RouteSpaceSequence.RouteSpaceOverlap"
+                    "title": "Route.RoutePhrase.RouteSpacePhrase.RouteSpaceOverlap"
                 },
                 {
                     "title": "Route.RouteGeometry.RouteSpace.RouteRangeOfLoadingAngles"
@@ -6598,10 +6598,10 @@ tags = [
                 "title": "Move.MoveProperties.MoveShape.Overview"
             },
             {
-                "title": "Move.MoveSequence.MoveOverlap"
+                "title": "Move.MovePhrase.MoveOverlap"
             },
             {
-                "title": "Move.MoveSequence.MoveSpaceSequence.MoveSpaceOverlap"
+                "title": "Move.MovePhrase.MoveSpacePhrase.MoveSpaceOverlap"
             },
             {
                 "title": "Move.Physics.Tangent"
@@ -6622,10 +6622,10 @@ tags = [
                 "title": "Route.RouteGeometry.RouteCurve.RouteLinearLine"
             },
             {
-                "title": "Route.RouteSequence.AreaFillSequence.RouteShapeInscription.Overview"
+                "title": "Route.RoutePhrase.AreaFillPhrase.RouteShapeInscription.Overview"
             },
             {
-                "title": "Route.RouteSequence.RouteSpaceSequence.RouteSpaceOverlap"
+                "title": "Route.RoutePhrase.RouteSpacePhrase.RouteSpaceOverlap"
             },
             {
                 "title": "Route.RouteGeometry.RouteSpace.RouteRangeOfLoadingAngles"
@@ -6663,7 +6663,7 @@ tags = [
                     "title": "Move.MoveProperties.MoveType.CircumductionMove"
                 },
                 {
-                    "title": "Move.MoveSequence.MoveShapeSequence.MoveShapeOverlap"
+                    "title": "Move.MovePhrase.MoveShapePhrase.MoveShapeOverlap"
                 },
                 {
                     "title": "Plantbeta"
@@ -6678,7 +6678,7 @@ tags = [
                     "title": "Route.AreaFill.PenroseFill"
                 },
                 {
-                    "title": "Route.RouteSequence.AreaFillSequence.RouteShapeInscription.RouteCircleInscription"
+                    "title": "Route.RoutePhrase.AreaFillPhrase.RouteShapeInscription.RouteCircleInscription"
                 },
                 {
                     "title": "TagTest"
@@ -6710,7 +6710,7 @@ tags = [
                 "title": "Move.MoveProperties.MoveType.CircumductionMove"
             },
             {
-                "title": "Move.MoveSequence.MoveShapeSequence.MoveShapeOverlap"
+                "title": "Move.MovePhrase.MoveShapePhrase.MoveShapeOverlap"
             },
             {
                 "title": "Plantbeta"
@@ -6725,7 +6725,7 @@ tags = [
                 "title": "Route.AreaFill.PenroseFill"
             },
             {
-                "title": "Route.RouteSequence.AreaFillSequence.RouteShapeInscription.RouteCircleInscription"
+                "title": "Route.RoutePhrase.AreaFillPhrase.RouteShapeInscription.RouteCircleInscription"
             },
             {
                 "title": "TagTest"
@@ -6769,7 +6769,7 @@ tags = [
                     "title": "Route.RouteGeometry.RoutePoint.Overview"
                 },
                 {
-                    "title": "Route.RouteSequence.AreaFillSequence.RouteShapeInscription.Overview"
+                    "title": "Route.RoutePhrase.AreaFillPhrase.RouteShapeInscription.Overview"
                 },
                 {
                     "title": "TagTest"
@@ -6810,7 +6810,7 @@ tags = [
                 "title": "Route.RouteGeometry.RoutePoint.Overview"
             },
             {
-                "title": "Route.RouteSequence.AreaFillSequence.RouteShapeInscription.Overview"
+                "title": "Route.RoutePhrase.AreaFillPhrase.RouteShapeInscription.Overview"
             },
             {
                 "title": "TagTest"
@@ -6866,13 +6866,13 @@ tags = [
                     "title": "Route.RouteGeometry.RoutePoint.VertexPoint"
                 },
                 {
-                    "title": "Route.RouteSequence.AreaFillSequence.RouteShapeInscription.RouteCircleInscription"
+                    "title": "Route.RoutePhrase.AreaFillPhrase.RouteShapeInscription.RouteCircleInscription"
                 },
                 {
-                    "title": "Route.RouteSequence.AreaFillSequence.RouteShapeInscription.RouteSquareInscription"
+                    "title": "Route.RoutePhrase.AreaFillPhrase.RouteShapeInscription.RouteSquareInscription"
                 },
                 {
-                    "title": "Route.RouteSequence.AreaFillSequence.RouteShapeInscription.RouteTriangleInscription"
+                    "title": "Route.RoutePhrase.AreaFillPhrase.RouteShapeInscription.RouteTriangleInscription"
                 },
                 {
                     "title": "Route.RouteShape.RouteNegativeShape"
@@ -6931,13 +6931,13 @@ tags = [
                 "title": "Route.RouteGeometry.RoutePoint.VertexPoint"
             },
             {
-                "title": "Route.RouteSequence.AreaFillSequence.RouteShapeInscription.RouteCircleInscription"
+                "title": "Route.RoutePhrase.AreaFillPhrase.RouteShapeInscription.RouteCircleInscription"
             },
             {
-                "title": "Route.RouteSequence.AreaFillSequence.RouteShapeInscription.RouteSquareInscription"
+                "title": "Route.RoutePhrase.AreaFillPhrase.RouteShapeInscription.RouteSquareInscription"
             },
             {
-                "title": "Route.RouteSequence.AreaFillSequence.RouteShapeInscription.RouteTriangleInscription"
+                "title": "Route.RoutePhrase.AreaFillPhrase.RouteShapeInscription.RouteTriangleInscription"
             },
             {
                 "title": "Route.RouteShape.RouteNegativeShape"
@@ -7006,7 +7006,7 @@ tags = [
                     "title": "Route.RouteGeometry.RoutePoint.CenterPoint"
                 },
                 {
-                    "title": "Route.RouteSequence.AreaFillSequence.RouteShapeInscription.Overview"
+                    "title": "Route.RoutePhrase.AreaFillPhrase.RouteShapeInscription.Overview"
                 },
                 {
                     "title": "Route.Spacing.ClosestTree"
@@ -7069,7 +7069,7 @@ tags = [
                 "title": "Route.RouteGeometry.RoutePoint.CenterPoint"
             },
             {
-                "title": "Route.RouteSequence.AreaFillSequence.RouteShapeInscription.Overview"
+                "title": "Route.RoutePhrase.AreaFillPhrase.RouteShapeInscription.Overview"
             },
             {
                 "title": "Route.Spacing.ClosestTree"
@@ -7896,7 +7896,7 @@ tags = [
                     "title": "Move.MoveProperties.MoveType.CompressionMove"
                 },
                 {
-                    "title": "Move.MoveSequence.TransitionMove"
+                    "title": "Move.MovePhrase.TransitionMove"
                 },
                 {
                     "title": "Plantbeta"
@@ -7940,7 +7940,7 @@ tags = [
                 "title": "Move.MoveProperties.MoveType.CompressionMove"
             },
             {
-                "title": "Move.MoveSequence.TransitionMove"
+                "title": "Move.MovePhrase.TransitionMove"
             },
             {
                 "title": "Plantbeta"
@@ -8958,10 +8958,10 @@ tags = [
                     "title": "Move.MoveProperties.MoveShape.CircleMove"
                 },
                 {
-                    "title": "Move.MoveSequence.MoveLineSequence"
+                    "title": "Move.MovePhrase.MoveLinePhrase"
                 },
                 {
-                    "title": "Move.MoveSequence.SubmoveSequence"
+                    "title": "Move.MovePhrase.SubmovePhrase"
                 },
                 {
                     "title": "Plantbeta"
@@ -8993,10 +8993,10 @@ tags = [
                 "title": "Move.MoveProperties.MoveShape.CircleMove"
             },
             {
-                "title": "Move.MoveSequence.MoveLineSequence"
+                "title": "Move.MovePhrase.MoveLinePhrase"
             },
             {
-                "title": "Move.MoveSequence.SubmoveSequence"
+                "title": "Move.MovePhrase.SubmovePhrase"
             },
             {
                 "title": "Plantbeta"
@@ -10015,7 +10015,7 @@ tags = [
                     "title": "Dev.System.Theorem"
                 },
                 {
-                    "title": "Move.MoveSequence.MoveSequenceError"
+                    "title": "Move.MovePhrase.MovePhraseError"
                 },
                 {
                     "title": "Neuro.Logic.Deduction",
@@ -10064,7 +10064,7 @@ tags = [
                 "title": "Dev.System.Theorem"
             },
             {
-                "title": "Move.MoveSequence.MoveSequenceError"
+                "title": "Move.MovePhrase.MovePhraseError"
             },
             {
                 "title": "Neuro.Logic.Deduction",
@@ -10342,16 +10342,16 @@ tags = [
                     "title": "Dev.Transcription"
                 },
                 {
-                    "title": "Move.MoveSequence"
+                    "title": "Move.MovePhrase"
                 },
                 {
-                    "title": "Move.MoveSequence.AnteMove"
+                    "title": "Move.MovePhrase.AnteMove"
                 },
                 {
-                    "title": "Move.MoveSequence.PostMove"
+                    "title": "Move.MovePhrase.PostMove"
                 },
                 {
-                    "title": "Move.MoveSequence.TransitionMove"
+                    "title": "Move.MovePhrase.TransitionMove"
                 },
                 {
                     "title": "Move.Overview.MoveHierarchy"
@@ -10389,16 +10389,16 @@ tags = [
                 "title": "Dev.Transcription"
             },
             {
-                "title": "Move.MoveSequence"
+                "title": "Move.MovePhrase"
             },
             {
-                "title": "Move.MoveSequence.AnteMove"
+                "title": "Move.MovePhrase.AnteMove"
             },
             {
-                "title": "Move.MoveSequence.PostMove"
+                "title": "Move.MovePhrase.PostMove"
             },
             {
-                "title": "Move.MoveSequence.TransitionMove"
+                "title": "Move.MovePhrase.TransitionMove"
             },
             {
                 "title": "Move.Overview.MoveHierarchy"
@@ -10527,7 +10527,7 @@ tags = [
                     "title": "Move.MoveDecomposition"
                 },
                 {
-                    "title": "Move.MoveSequence.SimultaneousMove"
+                    "title": "Move.MovePhrase.SimultaneousMove"
                 },
                 {
                     "title": "Plantbeta"
@@ -10565,7 +10565,7 @@ tags = [
                 "title": "Move.MoveDecomposition"
             },
             {
-                "title": "Move.MoveSequence.SimultaneousMove"
+                "title": "Move.MovePhrase.SimultaneousMove"
             },
             {
                 "title": "Plantbeta"
@@ -10674,19 +10674,19 @@ tags = [
                     "title": "Move.MovePoint.MoveFinishPoint"
                 },
                 {
-                    "title": "Move.MoveSequence.MoveChunk.MovePhrase"
+                    "title": "Move.MovePhrase.MoveChunk.MovePhrase"
                 },
                 {
-                    "title": "Move.MoveSequence.MoveCycle.DoUntil"
+                    "title": "Move.MovePhrase.MoveCycle.DoUntil"
                 },
                 {
-                    "title": "Move.MoveSequence.PostMove"
+                    "title": "Move.MovePhrase.PostMove"
                 },
                 {
                     "title": "Plantbeta"
                 },
                 {
-                    "title": "Route.RouteSequence.RouteCycle.DoUntil"
+                    "title": "Route.RoutePhrase.RouteCycle.DoUntil"
                 },
                 {
                     "title": "TagTest"
@@ -10712,19 +10712,19 @@ tags = [
                 "title": "Move.MovePoint.MoveFinishPoint"
             },
             {
-                "title": "Move.MoveSequence.MoveChunk.MovePhrase"
+                "title": "Move.MovePhrase.MoveChunk.MovePhrase"
             },
             {
-                "title": "Move.MoveSequence.MoveCycle.DoUntil"
+                "title": "Move.MovePhrase.MoveCycle.DoUntil"
             },
             {
-                "title": "Move.MoveSequence.PostMove"
+                "title": "Move.MovePhrase.PostMove"
             },
             {
                 "title": "Plantbeta"
             },
             {
-                "title": "Route.RouteSequence.RouteCycle.DoUntil"
+                "title": "Route.RoutePhrase.RouteCycle.DoUntil"
             },
             {
                 "title": "TagTest"
@@ -10765,13 +10765,13 @@ tags = [
                     "title": "Move.MoveProperties.Overview"
                 },
                 {
-                    "title": "Move.MoveSequence"
+                    "title": "Move.MovePhrase"
                 },
                 {
-                    "title": "Move.MoveSequence.AnteMove"
+                    "title": "Move.MovePhrase.AnteMove"
                 },
                 {
-                    "title": "Move.MoveSequence.PostMove"
+                    "title": "Move.MovePhrase.PostMove"
                 },
                 {
                     "title": "Move.MoveType.DynamicMove"
@@ -10824,13 +10824,13 @@ tags = [
                 "title": "Move.MoveProperties.Overview"
             },
             {
-                "title": "Move.MoveSequence"
+                "title": "Move.MovePhrase"
             },
             {
-                "title": "Move.MoveSequence.AnteMove"
+                "title": "Move.MovePhrase.AnteMove"
             },
             {
-                "title": "Move.MoveSequence.PostMove"
+                "title": "Move.MovePhrase.PostMove"
             },
             {
                 "title": "Move.MoveType.DynamicMove"
@@ -10880,7 +10880,7 @@ tags = [
                     "title": "Move.MoveProperties.MoveState"
                 },
                 {
-                    "title": "Move.MoveSequence.MoveChunk.MovePhrase"
+                    "title": "Move.MovePhrase.MoveChunk.MovePhrase"
                 },
                 {
                     "title": "Plantbeta"
@@ -10915,7 +10915,7 @@ tags = [
                 "title": "Move.MoveProperties.MoveState"
             },
             {
-                "title": "Move.MoveSequence.MoveChunk.MovePhrase"
+                "title": "Move.MovePhrase.MoveChunk.MovePhrase"
             },
             {
                 "title": "Plantbeta"
@@ -11179,7 +11179,7 @@ tags = [
                     "title": "Dev.Element.ElementDiagram.ColorCode"
                 },
                 {
-                    "title": "Dev.Element.ElementSequence"
+                    "title": "Dev.Element.ElementPhrase"
                 },
                 {
                     "title": "Dev.Element.ElementTimeline"
@@ -11191,10 +11191,10 @@ tags = [
                     "title": "Move.HeadMove.LookAt"
                 },
                 {
-                    "title": "Move.MoveSequence"
+                    "title": "Move.MovePhrase"
                 },
                 {
-                    "title": "Move.MoveSequence.MoveTempo"
+                    "title": "Move.MovePhrase.MoveTempo"
                 },
                 {
                     "title": "Plantbeta"
@@ -11217,7 +11217,7 @@ tags = [
                 "title": "Dev.Element.ElementDiagram.ColorCode"
             },
             {
-                "title": "Dev.Element.ElementSequence"
+                "title": "Dev.Element.ElementPhrase"
             },
             {
                 "title": "Dev.Element.ElementTimeline"
@@ -11229,10 +11229,10 @@ tags = [
                 "title": "Move.HeadMove.LookAt"
             },
             {
-                "title": "Move.MoveSequence"
+                "title": "Move.MovePhrase"
             },
             {
-                "title": "Move.MoveSequence.MoveTempo"
+                "title": "Move.MovePhrase.MoveTempo"
             },
             {
                 "title": "Plantbeta"
@@ -11337,7 +11337,7 @@ tags = [
                     "title": "Move.MoveProperties.MoveType.CompressionMove"
                 },
                 {
-                    "title": "Move.MoveSequence.SimultaneousMove"
+                    "title": "Move.MovePhrase.SimultaneousMove"
                 },
                 {
                     "title": "Plantbeta"
@@ -11384,7 +11384,7 @@ tags = [
                 "title": "Move.MoveProperties.MoveType.CompressionMove"
             },
             {
-                "title": "Move.MoveSequence.SimultaneousMove"
+                "title": "Move.MovePhrase.SimultaneousMove"
             },
             {
                 "title": "Plantbeta"
@@ -11440,10 +11440,10 @@ tags = [
                     "title": "Move.MoveProperties.SubmovementCount"
                 },
                 {
-                    "title": "Move.MoveSequence.MoveDensity"
+                    "title": "Move.MovePhrase.MoveDensity"
                 },
                 {
-                    "title": "Move.MoveSequence.TransitionMove"
+                    "title": "Move.MovePhrase.TransitionMove"
                 },
                 {
                     "title": "Plantbeta"
@@ -11493,10 +11493,10 @@ tags = [
                 "title": "Move.MoveProperties.SubmovementCount"
             },
             {
-                "title": "Move.MoveSequence.MoveDensity"
+                "title": "Move.MovePhrase.MoveDensity"
             },
             {
-                "title": "Move.MoveSequence.TransitionMove"
+                "title": "Move.MovePhrase.TransitionMove"
             },
             {
                 "title": "Plantbeta"
@@ -11792,7 +11792,7 @@ tags = [
                     "title": "Move.MoveProperties.MoveRangeOfMotion"
                 },
                 {
-                    "title": "Move.MoveSequence.MoveChunk.MovePhrase"
+                    "title": "Move.MovePhrase.MoveChunk.MovePhrase"
                 },
                 {
                     "title": "Plantbeta"
@@ -11827,7 +11827,7 @@ tags = [
                 "title": "Move.MoveProperties.MoveRangeOfMotion"
             },
             {
-                "title": "Move.MoveSequence.MoveChunk.MovePhrase"
+                "title": "Move.MovePhrase.MoveChunk.MovePhrase"
             },
             {
                 "title": "Plantbeta"
@@ -11990,7 +11990,7 @@ tags = [
             "lastUpdated": 1692978839586,
             "tags": [
                 {
-                    "title": "Dev.Element.ElementSequence"
+                    "title": "Dev.Element.ElementPhrase"
                 },
                 {
                     "title": "Dev.Infographic.HistoryOfInformationGraphics.336"
@@ -12008,7 +12008,7 @@ tags = [
                     "title": "Move.MoveComposition.MoveSelection.MoveComparison"
                 },
                 {
-                    "title": "Move.MoveSequence"
+                    "title": "Move.MovePhrase"
                 },
                 {
                     "title": "Plantbeta"
@@ -12017,7 +12017,7 @@ tags = [
                     "title": "Route.RouteComposition.RouteSelection.RouteComparison"
                 },
                 {
-                    "title": "Route.RouteSequence"
+                    "title": "Route.RoutePhrase"
                 },
                 {
                     "title": "TagTest"
@@ -12031,7 +12031,7 @@ tags = [
         "extension": "jpg",
         "tags": [
             {
-                "title": "Dev.Element.ElementSequence"
+                "title": "Dev.Element.ElementPhrase"
             },
             {
                 "title": "Dev.Infographic.HistoryOfInformationGraphics.336"
@@ -12049,7 +12049,7 @@ tags = [
                 "title": "Move.MoveComposition.MoveSelection.MoveComparison"
             },
             {
-                "title": "Move.MoveSequence"
+                "title": "Move.MovePhrase"
             },
             {
                 "title": "Plantbeta"
@@ -12058,7 +12058,7 @@ tags = [
                 "title": "Route.RouteComposition.RouteSelection.RouteComparison"
             },
             {
-                "title": "Route.RouteSequence"
+                "title": "Route.RoutePhrase"
             },
             {
                 "title": "TagTest"
@@ -12442,7 +12442,7 @@ tags = [
                     "title": "Move.MoveDiagram.MoveTimeline"
                 },
                 {
-                    "title": "Move.MoveSequence.MoveCycle"
+                    "title": "Move.MovePhrase.MoveCycle"
                 },
                 {
                     "title": "Neuro.CognitiveEase.Repetition",
@@ -12465,7 +12465,7 @@ tags = [
                     "title": "Route.RouteDiagram.RouteTimeline"
                 },
                 {
-                    "title": "Route.RouteSequence.RouteCycle"
+                    "title": "Route.RoutePhrase.RouteCycle"
                 },
                 {
                     "title": "TagTest"
@@ -12491,7 +12491,7 @@ tags = [
                 "title": "Move.MoveDiagram.MoveTimeline"
             },
             {
-                "title": "Move.MoveSequence.MoveCycle"
+                "title": "Move.MovePhrase.MoveCycle"
             },
             {
                 "title": "Neuro.CognitiveEase.Repetition",
@@ -12514,7 +12514,7 @@ tags = [
                 "title": "Route.RouteDiagram.RouteTimeline"
             },
             {
-                "title": "Route.RouteSequence.RouteCycle"
+                "title": "Route.RoutePhrase.RouteCycle"
             },
             {
                 "title": "TagTest"
@@ -12640,7 +12640,7 @@ tags = [
                     "title": "Move.MoveProperties.MoveType.ExpansionMove"
                 },
                 {
-                    "title": "Move.MoveSequence.MoveOverlap"
+                    "title": "Move.MovePhrase.MoveOverlap"
                 },
                 {
                     "title": "Plantbeta"
@@ -12678,7 +12678,7 @@ tags = [
                 "title": "Move.MoveProperties.MoveType.ExpansionMove"
             },
             {
-                "title": "Move.MoveSequence.MoveOverlap"
+                "title": "Move.MovePhrase.MoveOverlap"
             },
             {
                 "title": "Plantbeta"
@@ -12904,7 +12904,7 @@ tags = [
                     "title": "Route.RouteGeometry.RouteSpace.RouteRangeOfLoadingAngles"
                 },
                 {
-                    "title": "Move.MoveSequence.MoveDensity"
+                    "title": "Move.MovePhrase.MoveDensity"
                 },
                 {
                     "title": "Neuro.Vision.Hidden",
@@ -12952,7 +12952,7 @@ tags = [
                 "title": "Route.RouteGeometry.RouteSpace.RouteRangeOfLoadingAngles"
             },
             {
-                "title": "Move.MoveSequence.MoveDensity"
+                "title": "Move.MovePhrase.MoveDensity"
             },
             {
                 "title": "Neuro.Vision.Hidden",
@@ -13043,10 +13043,10 @@ tags = [
                     "title": "Move.MoveDifficulty.MoveIntensity"
                 },
                 {
-                    "title": "Move.MoveSequence"
+                    "title": "Move.MovePhrase"
                 },
                 {
-                    "title": "Move.MoveSequence.MoveNestedSequence"
+                    "title": "Move.MovePhrase.MoveNestedPhrase"
                 },
                 {
                     "title": "Plantbeta"
@@ -13075,10 +13075,10 @@ tags = [
                 "title": "Move.MoveDifficulty.MoveIntensity"
             },
             {
-                "title": "Move.MoveSequence"
+                "title": "Move.MovePhrase"
             },
             {
-                "title": "Move.MoveSequence.MoveNestedSequence"
+                "title": "Move.MovePhrase.MoveNestedPhrase"
             },
             {
                 "title": "Plantbeta"
@@ -13694,7 +13694,7 @@ tags = [
                     "title": "Dev.Tagging.TagName"
                 },
                 {
-                    "title": "Move.MoveSequence"
+                    "title": "Move.MovePhrase"
                 },
                 {
                     "title": "Neuro.Alignment",
@@ -13763,7 +13763,7 @@ tags = [
                 "title": "Dev.Tagging.TagName"
             },
             {
-                "title": "Move.MoveSequence"
+                "title": "Move.MovePhrase"
             },
             {
                 "title": "Neuro.Alignment",
@@ -13916,16 +13916,16 @@ tags = [
                     "title": "Dev.LevelOfDetail.SimplifyDetail"
                 },
                 {
-                    "title": "Dev.Pedagogy.Curriculum.LessonSequence"
+                    "title": "Dev.Pedagogy.Curriculum.LessonPhrase"
                 },
                 {
                     "title": "Dev.Pedagogy.Curriculum.Timeline"
                 },
                 {
-                    "title": "Move.MoveSequence"
+                    "title": "Move.MovePhrase"
                 },
                 {
-                    "title": "Move.MoveSequence.HandSequence"
+                    "title": "Move.MovePhrase.HandPhrase"
                 },
                 {
                     "title": "Neuro.Learning.Overview",
@@ -13967,16 +13967,16 @@ tags = [
                 "title": "Dev.LevelOfDetail.SimplifyDetail"
             },
             {
-                "title": "Dev.Pedagogy.Curriculum.LessonSequence"
+                "title": "Dev.Pedagogy.Curriculum.LessonPhrase"
             },
             {
                 "title": "Dev.Pedagogy.Curriculum.Timeline"
             },
             {
-                "title": "Move.MoveSequence"
+                "title": "Move.MovePhrase"
             },
             {
-                "title": "Move.MoveSequence.HandSequence"
+                "title": "Move.MovePhrase.HandPhrase"
             },
             {
                 "title": "Neuro.Learning.Overview",
@@ -14133,7 +14133,7 @@ tags = [
                     "title": "Move.HandMove.HandSwap"
                 },
                 {
-                    "title": "Move.MoveSequence"
+                    "title": "Move.MovePhrase"
                 },
                 {
                     "title": "Plantbeta"
@@ -14192,7 +14192,7 @@ tags = [
                 "title": "Move.HandMove.HandSwap"
             },
             {
-                "title": "Move.MoveSequence"
+                "title": "Move.MovePhrase"
             },
             {
                 "title": "Plantbeta"
@@ -14729,7 +14729,7 @@ tags = [
                     "title": "Land.Piece.PieceTopography.SlopeAngle"
                 },
                 {
-                    "title": "Move.MoveSequence.MoveDensity"
+                    "title": "Move.MovePhrase.MoveDensity"
                 },
                 {
                     "title": "Move.Physics.LoadingAngle"
@@ -14804,7 +14804,7 @@ tags = [
                 "title": "Land.Piece.PieceTopography.SlopeAngle"
             },
             {
-                "title": "Move.MoveSequence.MoveDensity"
+                "title": "Move.MovePhrase.MoveDensity"
             },
             {
                 "title": "Move.Physics.LoadingAngle"
@@ -14942,7 +14942,7 @@ tags = [
                     "title": "Move.MovePoint.MovePausePoint"
                 },
                 {
-                    "title": "Move.MoveSequence.MoveTempo"
+                    "title": "Move.MovePhrase.MoveTempo"
                 },
                 {
                     "title": "Plantbeta"
@@ -14983,7 +14983,7 @@ tags = [
                 "title": "Move.MovePoint.MovePausePoint"
             },
             {
-                "title": "Move.MoveSequence.MoveTempo"
+                "title": "Move.MovePhrase.MoveTempo"
             },
             {
                 "title": "Plantbeta"
@@ -15030,7 +15030,7 @@ tags = [
                     "title": "Move.MoveDiagram.MoveTimeline"
                 },
                 {
-                    "title": "Move.MoveSequence"
+                    "title": "Move.MovePhrase"
                 },
                 {
                     "title": "Neuro.CognitiveEase.Repetition",
@@ -15081,7 +15081,7 @@ tags = [
                 "title": "Move.MoveDiagram.MoveTimeline"
             },
             {
-                "title": "Move.MoveSequence"
+                "title": "Move.MovePhrase"
             },
             {
                 "title": "Neuro.CognitiveEase.Repetition",
@@ -15232,7 +15232,7 @@ tags = [
                     "title": "Move.MoveLine"
                 },
                 {
-                    "title": "Move.MoveSequence"
+                    "title": "Move.MovePhrase"
                 },
                 {
                     "title": "Neuro.Alignment",
@@ -15280,7 +15280,7 @@ tags = [
                 "title": "Move.MoveLine"
             },
             {
-                "title": "Move.MoveSequence"
+                "title": "Move.MovePhrase"
             },
             {
                 "title": "Neuro.Alignment",
@@ -15398,10 +15398,10 @@ tags = [
                     "title": "Guide.What.WhatElement.ElementName.Affix"
                 },
                 {
-                    "title": "Move.MoveSequence.SimultaneousMove"
+                    "title": "Move.MovePhrase.SimultaneousMove"
                 },
                 {
-                    "title": "Move.MoveSequence.TransitionMove"
+                    "title": "Move.MovePhrase.TransitionMove"
                 },
                 {
                     "title": "Plantbeta"
@@ -15410,7 +15410,7 @@ tags = [
                     "title": "Route.Chunking.ChunkNaming"
                 },
                 {
-                    "title": "Route.RouteSequence.BagUpSequence"
+                    "title": "Route.RoutePhrase.BagUpPhrase"
                 },
                 {
                     "title": "TagTest"
@@ -15433,10 +15433,10 @@ tags = [
                 "title": "Guide.What.WhatElement.ElementName.Affix"
             },
             {
-                "title": "Move.MoveSequence.SimultaneousMove"
+                "title": "Move.MovePhrase.SimultaneousMove"
             },
             {
-                "title": "Move.MoveSequence.TransitionMove"
+                "title": "Move.MovePhrase.TransitionMove"
             },
             {
                 "title": "Plantbeta"
@@ -15445,7 +15445,7 @@ tags = [
                 "title": "Route.Chunking.ChunkNaming"
             },
             {
-                "title": "Route.RouteSequence.BagUpSequence"
+                "title": "Route.RoutePhrase.BagUpPhrase"
             },
             {
                 "title": "TagTest"
@@ -15477,7 +15477,7 @@ tags = [
                     "title": "Move.MoveProperties.MoveType.CompressionMove"
                 },
                 {
-                    "title": "Move.MoveSequence"
+                    "title": "Move.MovePhrase"
                 },
                 {
                     "title": "Plantbeta"
@@ -15518,7 +15518,7 @@ tags = [
                 "title": "Move.MoveProperties.MoveType.CompressionMove"
             },
             {
-                "title": "Move.MoveSequence"
+                "title": "Move.MovePhrase"
             },
             {
                 "title": "Plantbeta"
@@ -15565,7 +15565,7 @@ tags = [
                     "title": "Move.MoveDiagram.Overview"
                 },
                 {
-                    "title": "Move.MoveSequence"
+                    "title": "Move.MovePhrase"
                 },
                 {
                     "title": "Move.Physics.Vector"
@@ -15603,7 +15603,7 @@ tags = [
                 "title": "Move.MoveDiagram.Overview"
             },
             {
-                "title": "Move.MoveSequence"
+                "title": "Move.MovePhrase"
             },
             {
                 "title": "Move.Physics.Vector"
@@ -15747,7 +15747,7 @@ tags = [
                     "title": "Dev.Element.ElementDiagram.Hatching"
                 },
                 {
-                    "title": "Dev.Element.ElementSequence"
+                    "title": "Dev.Element.ElementPhrase"
                 },
                 {
                     "title": "Dev.RelationByProximity"
@@ -15756,13 +15756,13 @@ tags = [
                     "title": "Move.MoveDiagram.MoveTimeline"
                 },
                 {
-                    "title": "Move.MoveSequence"
+                    "title": "Move.MovePhrase"
                 },
                 {
-                    "title": "Move.MoveSequence.ContiguousMove"
+                    "title": "Move.MovePhrase.ContiguousMove"
                 },
                 {
-                    "title": "Move.MoveSequence.MoveOverlap"
+                    "title": "Move.MovePhrase.MoveOverlap"
                 },
                 {
                     "title": "Move.MoveSpace.Overview"
@@ -15794,7 +15794,7 @@ tags = [
                 "title": "Dev.Element.ElementDiagram.Hatching"
             },
             {
-                "title": "Dev.Element.ElementSequence"
+                "title": "Dev.Element.ElementPhrase"
             },
             {
                 "title": "Dev.RelationByProximity"
@@ -15803,13 +15803,13 @@ tags = [
                 "title": "Move.MoveDiagram.MoveTimeline"
             },
             {
-                "title": "Move.MoveSequence"
+                "title": "Move.MovePhrase"
             },
             {
-                "title": "Move.MoveSequence.ContiguousMove"
+                "title": "Move.MovePhrase.ContiguousMove"
             },
             {
-                "title": "Move.MoveSequence.MoveOverlap"
+                "title": "Move.MovePhrase.MoveOverlap"
             },
             {
                 "title": "Move.MoveSpace.Overview"
@@ -15844,7 +15844,7 @@ tags = [
                     "title": "Dev.Element.ElementDiagram.ColorCode"
                 },
                 {
-                    "title": "Dev.Element.ElementSequence"
+                    "title": "Dev.Element.ElementPhrase"
                 },
                 {
                     "title": "Dev.Infographic"
@@ -15871,7 +15871,7 @@ tags = [
                     "title": "Move.MoveName.Overview"
                 },
                 {
-                    "title": "Move.MoveSequence"
+                    "title": "Move.MovePhrase"
                 },
                 {
                     "title": "Neuro.NeuroName",
@@ -15907,7 +15907,7 @@ tags = [
                 "title": "Dev.Element.ElementDiagram.ColorCode"
             },
             {
-                "title": "Dev.Element.ElementSequence"
+                "title": "Dev.Element.ElementPhrase"
             },
             {
                 "title": "Dev.Infographic"
@@ -15934,7 +15934,7 @@ tags = [
                 "title": "Move.MoveName.Overview"
             },
             {
-                "title": "Move.MoveSequence"
+                "title": "Move.MovePhrase"
             },
             {
                 "title": "Neuro.NeuroName",
@@ -16040,7 +16040,7 @@ tags = [
                     "title": "Dev.Element.ElementDiagram.Labels"
                 },
                 {
-                    "title": "Dev.Element.ElementSequence"
+                    "title": "Dev.Element.ElementPhrase"
                 },
                 {
                     "title": "Dev.Infographic.Storyboard"
@@ -16055,7 +16055,7 @@ tags = [
                     "title": "Dev.LevelOfDetail"
                 },
                 {
-                    "title": "Move.MoveSequence"
+                    "title": "Move.MovePhrase"
                 },
                 {
                     "title": "Plantbeta"
@@ -16075,7 +16075,7 @@ tags = [
                 "title": "Dev.Element.ElementDiagram.Labels"
             },
             {
-                "title": "Dev.Element.ElementSequence"
+                "title": "Dev.Element.ElementPhrase"
             },
             {
                 "title": "Dev.Infographic.Storyboard"
@@ -16090,7 +16090,7 @@ tags = [
                 "title": "Dev.LevelOfDetail"
             },
             {
-                "title": "Move.MoveSequence"
+                "title": "Move.MovePhrase"
             },
             {
                 "title": "Plantbeta"
@@ -16128,7 +16128,7 @@ tags = [
                     "title": "Move.MoveLine"
                 },
                 {
-                    "title": "Move.MoveSequence"
+                    "title": "Move.MovePhrase"
                 },
                 {
                     "title": "Plantbeta"
@@ -16163,7 +16163,7 @@ tags = [
                 "title": "Move.MoveLine"
             },
             {
-                "title": "Move.MoveSequence"
+                "title": "Move.MovePhrase"
             },
             {
                 "title": "Plantbeta"
@@ -16201,7 +16201,7 @@ tags = [
                     "title": "Dev.Tagging.TagChip.TagChipHighlight"
                 },
                 {
-                    "title": "Dev.Transcription.TranscriptionSequence"
+                    "title": "Dev.Transcription.TranscriptionPhrase"
                 },
                 {
                     "title": "Plantbeta"
@@ -16239,7 +16239,7 @@ tags = [
                 "title": "Dev.Tagging.TagChip.TagChipHighlight"
             },
             {
-                "title": "Dev.Transcription.TranscriptionSequence"
+                "title": "Dev.Transcription.TranscriptionPhrase"
             },
             {
                 "title": "Plantbeta"
@@ -16283,7 +16283,7 @@ tags = [
                     "title": "Move.MoveAnalysis"
                 },
                 {
-                    "title": "Move.MoveSequence"
+                    "title": "Move.MovePhrase"
                 },
                 {
                     "title": "Plantbeta"
@@ -16339,7 +16339,7 @@ tags = [
                 "title": "Move.MoveAnalysis"
             },
             {
-                "title": "Move.MoveSequence"
+                "title": "Move.MovePhrase"
             },
             {
                 "title": "Plantbeta"
@@ -16474,7 +16474,7 @@ tags = [
                     "title": "Dev.VideoAnalysis.VideoTagging"
                 },
                 {
-                    "title": "Move.MoveSequence"
+                    "title": "Move.MovePhrase"
                 },
                 {
                     "title": "Plantbeta"
@@ -16518,7 +16518,7 @@ tags = [
                 "title": "Dev.VideoAnalysis.VideoTagging"
             },
             {
-                "title": "Move.MoveSequence"
+                "title": "Move.MovePhrase"
             },
             {
                 "title": "Plantbeta"
@@ -16565,7 +16565,7 @@ tags = [
                     "title": "Move.MoveProperties.MoveType.RestMove"
                 },
                 {
-                    "title": "Move.MoveSequence.MoveTempo"
+                    "title": "Move.MovePhrase.MoveTempo"
                 },
                 {
                     "title": "Plantbeta"
@@ -16615,7 +16615,7 @@ tags = [
                 "title": "Move.MoveProperties.MoveType.RestMove"
             },
             {
-                "title": "Move.MoveSequence.MoveTempo"
+                "title": "Move.MovePhrase.MoveTempo"
             },
             {
                 "title": "Plantbeta"
@@ -16659,7 +16659,7 @@ tags = [
                     "title": "Move.MoveLine"
                 },
                 {
-                    "title": "Move.MoveSequence.MoveOverlap"
+                    "title": "Move.MovePhrase.MoveOverlap"
                 },
                 {
                     "title": "Move.MoveSpace.Overview"
@@ -16694,7 +16694,7 @@ tags = [
                 "title": "Move.MoveLine"
             },
             {
-                "title": "Move.MoveSequence.MoveOverlap"
+                "title": "Move.MovePhrase.MoveOverlap"
             },
             {
                 "title": "Move.MoveSpace.Overview"
@@ -17353,7 +17353,7 @@ tags = [
                     "title": "Dev.LevelOfDetail.LessIsMore"
                 },
                 {
-                    "title": "Land.LandSequence"
+                    "title": "Land.LandPhrase"
                 },
                 {
                     "title": "Move.LegMove.LegProp"
@@ -17407,7 +17407,7 @@ tags = [
                 "title": "Dev.LevelOfDetail.LessIsMore"
             },
             {
-                "title": "Land.LandSequence"
+                "title": "Land.LandPhrase"
             },
             {
                 "title": "Move.LegMove.LegProp"
@@ -17727,7 +17727,7 @@ tags = [
                     "title": "Move.MoveProperties.MoveType.ExpansionMove"
                 },
                 {
-                    "title": "Move.MoveSequence.MoveRhythm"
+                    "title": "Move.MovePhrase.MoveRhythm"
                 },
                 {
                     "title": "Neuro.CognitiveEase.Repetition",
@@ -17769,7 +17769,7 @@ tags = [
                 "title": "Move.MoveProperties.MoveType.ExpansionMove"
             },
             {
-                "title": "Move.MoveSequence.MoveRhythm"
+                "title": "Move.MovePhrase.MoveRhythm"
             },
             {
                 "title": "Neuro.CognitiveEase.Repetition",
@@ -17802,13 +17802,13 @@ tags = [
                     "title": "Move.MoveProperties.MoveType.ReleaseMove"
                 },
                 {
-                    "title": "Move.MoveSequence.MoveRhythm"
+                    "title": "Move.MovePhrase.MoveRhythm"
                 },
                 {
-                    "title": "Move.MoveSequence.MoveTempo"
+                    "title": "Move.MovePhrase.MoveTempo"
                 },
                 {
-                    "title": "Move.MoveSequence.SimultaneousMove"
+                    "title": "Move.MovePhrase.SimultaneousMove"
                 },
                 {
                     "title": "Plantbeta"
@@ -17837,13 +17837,13 @@ tags = [
                 "title": "Move.MoveProperties.MoveType.ReleaseMove"
             },
             {
-                "title": "Move.MoveSequence.MoveRhythm"
+                "title": "Move.MovePhrase.MoveRhythm"
             },
             {
-                "title": "Move.MoveSequence.MoveTempo"
+                "title": "Move.MovePhrase.MoveTempo"
             },
             {
-                "title": "Move.MoveSequence.SimultaneousMove"
+                "title": "Move.MovePhrase.SimultaneousMove"
             },
             {
                 "title": "Plantbeta"
@@ -17872,7 +17872,7 @@ tags = [
                     "title": "Dev.Interdisciplinary.Music"
                 },
                 {
-                    "title": "Move.MoveSequence"
+                    "title": "Move.MovePhrase"
                 },
                 {
                     "title": "Move.Overview.MovementType.RelativeMovement"
@@ -17904,7 +17904,7 @@ tags = [
                 "title": "Dev.Interdisciplinary.Music"
             },
             {
-                "title": "Move.MoveSequence"
+                "title": "Move.MovePhrase"
             },
             {
                 "title": "Move.Overview.MovementType.RelativeMovement"
@@ -17942,7 +17942,7 @@ tags = [
                     "title": "Dev.Transcription"
                 },
                 {
-                    "title": "Dev.Transcription.TranscriptionSequence"
+                    "title": "Dev.Transcription.TranscriptionPhrase"
                 },
                 {
                     "title": "Move.BodyMove.BodyAbsorb"
@@ -17954,7 +17954,7 @@ tags = [
                     "title": "Move.MoveProperties.MoveDuration"
                 },
                 {
-                    "title": "Move.MoveSequence.SimultaneousMove"
+                    "title": "Move.MovePhrase.SimultaneousMove"
                 },
                 {
                     "title": "Plantbeta"
@@ -17980,7 +17980,7 @@ tags = [
                 "title": "Dev.Transcription"
             },
             {
-                "title": "Dev.Transcription.TranscriptionSequence"
+                "title": "Dev.Transcription.TranscriptionPhrase"
             },
             {
                 "title": "Move.BodyMove.BodyAbsorb"
@@ -17992,7 +17992,7 @@ tags = [
                 "title": "Move.MoveProperties.MoveDuration"
             },
             {
-                "title": "Move.MoveSequence.SimultaneousMove"
+                "title": "Move.MovePhrase.SimultaneousMove"
             },
             {
                 "title": "Plantbeta"
@@ -18024,10 +18024,10 @@ tags = [
                     "title": "Move.MoveProperties.MoveDuration"
                 },
                 {
-                    "title": "Move.MoveSequence"
+                    "title": "Move.MovePhrase"
                 },
                 {
-                    "title": "Move.MoveSequence.MoveRhythm"
+                    "title": "Move.MovePhrase.MoveRhythm"
                 },
                 {
                     "title": "Plantbeta"
@@ -18056,10 +18056,10 @@ tags = [
                 "title": "Move.MoveProperties.MoveDuration"
             },
             {
-                "title": "Move.MoveSequence"
+                "title": "Move.MovePhrase"
             },
             {
-                "title": "Move.MoveSequence.MoveRhythm"
+                "title": "Move.MovePhrase.MoveRhythm"
             },
             {
                 "title": "Plantbeta"
@@ -18088,16 +18088,16 @@ tags = [
                     "title": "Move.MoveProperties.MoveType.RestMove"
                 },
                 {
-                    "title": "Move.MoveSequence.MoveDensity"
+                    "title": "Move.MovePhrase.MoveDensity"
                 },
                 {
-                    "title": "Move.MoveSequence.MoveEndurance"
+                    "title": "Move.MovePhrase.MoveEndurance"
                 },
                 {
-                    "title": "Move.MoveSequence.MoveRhythm"
+                    "title": "Move.MovePhrase.MoveRhythm"
                 },
                 {
-                    "title": "Move.MoveSequence.MoveTempo"
+                    "title": "Move.MovePhrase.MoveTempo"
                 },
                 {
                     "title": "Plantbeta"
@@ -18123,16 +18123,16 @@ tags = [
                 "title": "Move.MoveProperties.MoveType.RestMove"
             },
             {
-                "title": "Move.MoveSequence.MoveDensity"
+                "title": "Move.MovePhrase.MoveDensity"
             },
             {
-                "title": "Move.MoveSequence.MoveEndurance"
+                "title": "Move.MovePhrase.MoveEndurance"
             },
             {
-                "title": "Move.MoveSequence.MoveRhythm"
+                "title": "Move.MovePhrase.MoveRhythm"
             },
             {
-                "title": "Move.MoveSequence.MoveTempo"
+                "title": "Move.MovePhrase.MoveTempo"
             },
             {
                 "title": "Plantbeta"
@@ -18231,7 +18231,7 @@ tags = [
                     "title": "Move.MovePoint.MovePausePoint"
                 },
                 {
-                    "title": "Move.MoveSequence.InitiationMove"
+                    "title": "Move.MovePhrase.InitiationMove"
                 },
                 {
                     "title": "Neuro.Music",
@@ -18258,7 +18258,7 @@ tags = [
                 "title": "Move.MovePoint.MovePausePoint"
             },
             {
-                "title": "Move.MoveSequence.InitiationMove"
+                "title": "Move.MovePhrase.InitiationMove"
             },
             {
                 "title": "Neuro.Music",
@@ -18288,16 +18288,16 @@ tags = [
                     "title": "Dev.Interdisciplinary.Climbing"
                 },
                 {
-                    "title": "Move.MoveSequence"
+                    "title": "Move.MovePhrase"
                 },
                 {
-                    "title": "Move.MoveSequence.ContiguousMove"
+                    "title": "Move.MovePhrase.ContiguousMove"
                 },
                 {
-                    "title": "Move.MoveSequence.MoveNestedSequence"
+                    "title": "Move.MovePhrase.MoveNestedPhrase"
                 },
                 {
-                    "title": "Move.MoveSequence.MoveOverlap"
+                    "title": "Move.MovePhrase.MoveOverlap"
                 },
                 {
                     "title": "Move.Overview.MoveHierarchy.Submovement"
@@ -18323,16 +18323,16 @@ tags = [
                 "title": "Dev.Interdisciplinary.Climbing"
             },
             {
-                "title": "Move.MoveSequence"
+                "title": "Move.MovePhrase"
             },
             {
-                "title": "Move.MoveSequence.ContiguousMove"
+                "title": "Move.MovePhrase.ContiguousMove"
             },
             {
-                "title": "Move.MoveSequence.MoveNestedSequence"
+                "title": "Move.MovePhrase.MoveNestedPhrase"
             },
             {
-                "title": "Move.MoveSequence.MoveOverlap"
+                "title": "Move.MovePhrase.MoveOverlap"
             },
             {
                 "title": "Move.Overview.MoveHierarchy.Submovement"
@@ -18383,7 +18383,7 @@ tags = [
                     "title": "ElementRelationshipDiagram"
                 },
                 {
-                    "title": "Dev.Element.ElementSequence"
+                    "title": "Dev.Element.ElementPhrase"
                 },
                 {
                     "title": "Dev.Element.ElementTimeline"
@@ -18438,7 +18438,7 @@ tags = [
                 "title": "ElementRelationshipDiagram"
             },
             {
-                "title": "Dev.Element.ElementSequence"
+                "title": "Dev.Element.ElementPhrase"
             },
             {
                 "title": "Dev.Element.ElementTimeline"
@@ -18565,13 +18565,13 @@ tags = [
                     "title": "Move.MoveProperties.MoveDependencies.Overview"
                 },
                 {
-                    "title": "Move.MoveSequence.AnteMove"
+                    "title": "Move.MovePhrase.AnteMove"
                 },
                 {
-                    "title": "Move.MoveSequence.ContiguousMove"
+                    "title": "Move.MovePhrase.ContiguousMove"
                 },
                 {
-                    "title": "Move.MoveSequence.PostMove"
+                    "title": "Move.MovePhrase.PostMove"
                 },
                 {
                     "title": "Plantbeta"
@@ -18608,13 +18608,13 @@ tags = [
                 "title": "Move.MoveProperties.MoveDependencies.Overview"
             },
             {
-                "title": "Move.MoveSequence.AnteMove"
+                "title": "Move.MovePhrase.AnteMove"
             },
             {
-                "title": "Move.MoveSequence.ContiguousMove"
+                "title": "Move.MovePhrase.ContiguousMove"
             },
             {
-                "title": "Move.MoveSequence.PostMove"
+                "title": "Move.MovePhrase.PostMove"
             },
             {
                 "title": "Plantbeta"
@@ -18816,7 +18816,7 @@ tags = [
                     "title": "Move.MoveDiagram.MoveTimeline"
                 },
                 {
-                    "title": "Move.MoveSequence"
+                    "title": "Move.MovePhrase"
                 },
                 {
                     "title": "Neuro.Chunking",
@@ -18865,7 +18865,7 @@ tags = [
                 "title": "Move.MoveDiagram.MoveTimeline"
             },
             {
-                "title": "Move.MoveSequence"
+                "title": "Move.MovePhrase"
             },
             {
                 "title": "Neuro.Chunking",
@@ -19219,7 +19219,7 @@ tags = [
                     "title": "Move.MovePoint.MoveStartPoint"
                 },
                 {
-                    "title": "Move.MoveSequence.Attempt"
+                    "title": "Move.MovePhrase.Attempt"
                 },
                 {
                     "title": "Plantbeta"
@@ -19272,7 +19272,7 @@ tags = [
                 "title": "Move.MovePoint.MoveStartPoint"
             },
             {
-                "title": "Move.MoveSequence.Attempt"
+                "title": "Move.MovePhrase.Attempt"
             },
             {
                 "title": "Plantbeta"
@@ -19630,7 +19630,7 @@ tags = [
                     "title": "Move.MoveDifficulty.MoveComplexity"
                 },
                 {
-                    "title": "Move.MoveSequence"
+                    "title": "Move.MovePhrase"
                 },
                 {
                     "title": "Move.Overview.MoveHierarchy.Submovement"
@@ -19681,7 +19681,7 @@ tags = [
                 "title": "Move.MoveDifficulty.MoveComplexity"
             },
             {
-                "title": "Move.MoveSequence"
+                "title": "Move.MovePhrase"
             },
             {
                 "title": "Move.Overview.MoveHierarchy.Submovement"
@@ -21492,7 +21492,7 @@ tags = [
                     "title": "Dev.System.Byrne"
                 },
                 {
-                    "title": "Move.MoveSequence"
+                    "title": "Move.MovePhrase"
                 },
                 {
                     "title": "Plantbeta"
@@ -21521,7 +21521,7 @@ tags = [
                 "title": "Dev.System.Byrne"
             },
             {
-                "title": "Move.MoveSequence"
+                "title": "Move.MovePhrase"
             },
             {
                 "title": "Plantbeta"
@@ -22325,7 +22325,7 @@ tags = [
                     "title": "Move.MoveDiagram.MoveTimeline"
                 },
                 {
-                    "title": "Move.MoveSequence"
+                    "title": "Move.MovePhrase"
                 },
                 {
                     "title": "Plantbeta"
@@ -22366,7 +22366,7 @@ tags = [
                 "title": "Move.MoveDiagram.MoveTimeline"
             },
             {
-                "title": "Move.MoveSequence"
+                "title": "Move.MovePhrase"
             },
             {
                 "title": "Plantbeta"
@@ -22868,7 +22868,7 @@ tags = [
                     "title": "Dev.ImageLayer"
                 },
                 {
-                    "title": "Move.MoveSequence"
+                    "title": "Move.MovePhrase"
                 },
                 {
                     "title": "Plantbeta"
@@ -22894,7 +22894,7 @@ tags = [
                 "title": "Dev.ImageLayer"
             },
             {
-                "title": "Move.MoveSequence"
+                "title": "Move.MovePhrase"
             },
             {
                 "title": "Plantbeta"
@@ -22993,7 +22993,7 @@ tags = [
                     "title": "Move.LegMove.LegAbsorb"
                 },
                 {
-                    "title": "Move.MoveSequence"
+                    "title": "Move.MovePhrase"
                 },
                 {
                     "title": "Move.Overview.MoveHierarchy"
@@ -23026,7 +23026,7 @@ tags = [
                 "title": "Move.LegMove.LegAbsorb"
             },
             {
-                "title": "Move.MoveSequence"
+                "title": "Move.MovePhrase"
             },
             {
                 "title": "Move.Overview.MoveHierarchy"
@@ -23144,7 +23144,7 @@ tags = [
                     "title": "Dev.Transcription"
                 },
                 {
-                    "title": "Move.MoveSequence"
+                    "title": "Move.MovePhrase"
                 },
                 {
                     "title": "Plantbeta"
@@ -23173,7 +23173,7 @@ tags = [
                 "title": "Dev.Transcription"
             },
             {
-                "title": "Move.MoveSequence"
+                "title": "Move.MovePhrase"
             },
             {
                 "title": "Plantbeta"
@@ -23214,7 +23214,7 @@ tags = [
                     "title": "Move.MoveLine"
                 },
                 {
-                    "title": "Move.MoveSequence"
+                    "title": "Move.MovePhrase"
                 },
                 {
                     "title": "Plantbeta"
@@ -23255,7 +23255,7 @@ tags = [
                 "title": "Move.MoveLine"
             },
             {
-                "title": "Move.MoveSequence"
+                "title": "Move.MovePhrase"
             },
             {
                 "title": "Plantbeta"
@@ -23672,7 +23672,7 @@ tags = [
                     "title": "Dev.Transcription"
                 },
                 {
-                    "title": "Move.MoveSequence"
+                    "title": "Move.MovePhrase"
                 },
                 {
                     "title": "Move.MoveType.DynamicMove"
@@ -23710,7 +23710,7 @@ tags = [
                 "title": "Dev.Transcription"
             },
             {
-                "title": "Move.MoveSequence"
+                "title": "Move.MovePhrase"
             },
             {
                 "title": "Move.MoveType.DynamicMove"
@@ -24054,13 +24054,13 @@ tags = [
                     "title": "Dev.Interdisciplinary.Climbing"
                 },
                 {
-                    "title": "Move.MoveSequence"
+                    "title": "Move.MovePhrase"
                 },
                 {
                     "title": "Plantbeta"
                 },
                 {
-                    "title": "Route.RouteSequence"
+                    "title": "Route.RoutePhrase"
                 },
                 {
                     "title": "TagTest"
@@ -24083,13 +24083,13 @@ tags = [
                 "title": "Dev.Interdisciplinary.Climbing"
             },
             {
-                "title": "Move.MoveSequence"
+                "title": "Move.MovePhrase"
             },
             {
                 "title": "Plantbeta"
             },
             {
-                "title": "Route.RouteSequence"
+                "title": "Route.RoutePhrase"
             },
             {
                 "title": "TagTest"
@@ -24419,10 +24419,10 @@ tags = [
                     "title": "Move.MoveProperties.MovePermutation"
                 },
                 {
-                    "title": "Move.MoveSequence.AnteMove"
+                    "title": "Move.MovePhrase.AnteMove"
                 },
                 {
-                    "title": "Move.MoveSequence.PostMove"
+                    "title": "Move.MovePhrase.PostMove"
                 },
                 {
                     "title": "Move.Physics.Displacement"
@@ -24469,10 +24469,10 @@ tags = [
                 "title": "Move.MoveProperties.MovePermutation"
             },
             {
-                "title": "Move.MoveSequence.AnteMove"
+                "title": "Move.MovePhrase.AnteMove"
             },
             {
-                "title": "Move.MoveSequence.PostMove"
+                "title": "Move.MovePhrase.PostMove"
             },
             {
                 "title": "Move.Physics.Displacement"
@@ -25353,7 +25353,7 @@ tags = [
                     "title": "Move.MoveDiagram.MoveTimeline"
                 },
                 {
-                    "title": "Move.MoveSequence"
+                    "title": "Move.MovePhrase"
                 },
                 {
                     "title": "Move.Overview.MoveHierarchy.Submovement"
@@ -25385,7 +25385,7 @@ tags = [
                 "title": "Move.MoveDiagram.MoveTimeline"
             },
             {
-                "title": "Move.MoveSequence"
+                "title": "Move.MovePhrase"
             },
             {
                 "title": "Move.Overview.MoveHierarchy.Submovement"
@@ -25466,7 +25466,7 @@ tags = [
                     "title": "Move.MoveLine"
                 },
                 {
-                    "title": "Move.MoveSequence"
+                    "title": "Move.MovePhrase"
                 },
                 {
                     "title": "Plantbeta"
@@ -25495,7 +25495,7 @@ tags = [
                 "title": "Move.MoveLine"
             },
             {
-                "title": "Move.MoveSequence"
+                "title": "Move.MovePhrase"
             },
             {
                 "title": "Plantbeta"
@@ -25792,7 +25792,7 @@ tags = [
                     "title": "Move.MoveCard"
                 },
                 {
-                    "title": "Move.MoveSequence"
+                    "title": "Move.MovePhrase"
                 },
                 {
                     "title": "Move.MoveSize"
@@ -25839,7 +25839,7 @@ tags = [
                 "title": "Move.MoveCard"
             },
             {
-                "title": "Move.MoveSequence"
+                "title": "Move.MovePhrase"
             },
             {
                 "title": "Move.MoveSize"
@@ -25889,7 +25889,7 @@ tags = [
                     "title": "Move.MoveEvent"
                 },
                 {
-                    "title": "Move.MoveSequence"
+                    "title": "Move.MovePhrase"
                 },
                 {
                     "title": "Move.MoveShape"
@@ -25936,7 +25936,7 @@ tags = [
                 "title": "Move.MoveEvent"
             },
             {
-                "title": "Move.MoveSequence"
+                "title": "Move.MovePhrase"
             },
             {
                 "title": "Move.MoveShape"
@@ -26115,7 +26115,7 @@ tags = [
                     "title": "Move.MoveLine"
                 },
                 {
-                    "title": "Move.MoveSequence"
+                    "title": "Move.MovePhrase"
                 },
                 {
                     "title": "Move.MoveShape"
@@ -26156,7 +26156,7 @@ tags = [
                 "title": "Move.MoveLine"
             },
             {
-                "title": "Move.MoveSequence"
+                "title": "Move.MovePhrase"
             },
             {
                 "title": "Move.MoveShape"
@@ -26203,7 +26203,7 @@ tags = [
                     "title": "Move.MoveDiagram.MoveTimeline"
                 },
                 {
-                    "title": "Move.MoveSequence"
+                    "title": "Move.MovePhrase"
                 },
                 {
                     "title": "Move.Overview.MoveHierarchy.Submovement"
@@ -26250,7 +26250,7 @@ tags = [
                 "title": "Move.MoveDiagram.MoveTimeline"
             },
             {
-                "title": "Move.MoveSequence"
+                "title": "Move.MovePhrase"
             },
             {
                 "title": "Move.Overview.MoveHierarchy.Submovement"
@@ -26303,7 +26303,7 @@ tags = [
                     "title": "Move.MoveName.Overview"
                 },
                 {
-                    "title": "Move.MoveSequence"
+                    "title": "Move.MovePhrase"
                 },
                 {
                     "title": "Plantbeta"
@@ -26347,7 +26347,7 @@ tags = [
                 "title": "Move.MoveName.Overview"
             },
             {
-                "title": "Move.MoveSequence"
+                "title": "Move.MovePhrase"
             },
             {
                 "title": "Plantbeta"
@@ -26382,7 +26382,7 @@ tags = [
                     "title": "Move.LegMove.Kneel"
                 },
                 {
-                    "title": "Move.MoveSequence.BaggingUpSequence"
+                    "title": "Move.MovePhrase.BaggingUpPhrase"
                 },
                 {
                     "title": "Move.ToolMove.BagMove.BaggingUp"
@@ -26421,7 +26421,7 @@ tags = [
                 "title": "Move.LegMove.Kneel"
             },
             {
-                "title": "Move.MoveSequence.BaggingUpSequence"
+                "title": "Move.MovePhrase.BaggingUpPhrase"
             },
             {
                 "title": "Move.ToolMove.BagMove.BaggingUp"
@@ -28193,7 +28193,7 @@ tags = [
                     "title": "Route.Overview"
                 },
                 {
-                    "title": "Route.RouteSequence.PostMicrositeAnteMicrosite"
+                    "title": "Route.RoutePhrase.PostMicrositeAnteMicrosite"
                 },
                 {
                     "title": "TagTest"
@@ -28231,7 +28231,7 @@ tags = [
                 "title": "Route.Overview"
             },
             {
-                "title": "Route.RouteSequence.PostMicrositeAnteMicrosite"
+                "title": "Route.RoutePhrase.PostMicrositeAnteMicrosite"
             },
             {
                 "title": "TagTest"
@@ -28428,7 +28428,7 @@ tags = [
                     "title": "Land.LandCompletion.OpenLand"
                 },
                 {
-                    "title": "Move.MoveSequence.PlantingSequence"
+                    "title": "Move.MovePhrase.PlantingPhrase"
                 },
                 {
                     "title": "Move.ToolMove.BagMove.Overview"
@@ -28452,7 +28452,7 @@ tags = [
                     "title": "Route.RouteEvent.PositionEvent"
                 },
                 {
-                    "title": "Route.RouteSequence"
+                    "title": "Route.RoutePhrase"
                 },
                 {
                     "title": "TagTest"
@@ -28478,7 +28478,7 @@ tags = [
                 "title": "Land.LandCompletion.OpenLand"
             },
             {
-                "title": "Move.MoveSequence.PlantingSequence"
+                "title": "Move.MovePhrase.PlantingPhrase"
             },
             {
                 "title": "Move.ToolMove.BagMove.Overview"
@@ -28502,7 +28502,7 @@ tags = [
                 "title": "Route.RouteEvent.PositionEvent"
             },
             {
-                "title": "Route.RouteSequence"
+                "title": "Route.RoutePhrase"
             },
             {
                 "title": "TagTest"
@@ -28564,7 +28564,7 @@ tags = [
                     "title": "Route.RouteGeometry.RoutePoint.Landmark"
                 },
                 {
-                    "title": "Route.RouteSequence.LookAt.Flag"
+                    "title": "Route.RoutePhrase.LookAt.Flag"
                 },
                 {
                     "title": "TagTest"
@@ -28623,7 +28623,7 @@ tags = [
                 "title": "Route.RouteGeometry.RoutePoint.Landmark"
             },
             {
-                "title": "Route.RouteSequence.LookAt.Flag"
+                "title": "Route.RoutePhrase.LookAt.Flag"
             },
             {
                 "title": "TagTest"
@@ -28755,7 +28755,7 @@ tags = [
                     "title": "Land.LandEvent"
                 },
                 {
-                    "title": "Land.LandSequence"
+                    "title": "Land.LandPhrase"
                 },
                 {
                     "title": "Neuro.Visualization",
@@ -28771,7 +28771,7 @@ tags = [
                     "title": "Route.RouteEvent"
                 },
                 {
-                    "title": "Route.RouteSequence"
+                    "title": "Route.RoutePhrase"
                 },
                 {
                     "title": "TagTest"
@@ -28803,7 +28803,7 @@ tags = [
                 "title": "Land.LandEvent"
             },
             {
-                "title": "Land.LandSequence"
+                "title": "Land.LandPhrase"
             },
             {
                 "title": "Neuro.Visualization",
@@ -28819,7 +28819,7 @@ tags = [
                 "title": "Route.RouteEvent"
             },
             {
-                "title": "Route.RouteSequence"
+                "title": "Route.RoutePhrase"
             },
             {
                 "title": "TagTest"
@@ -28989,10 +28989,10 @@ tags = [
                     "title": "Move.HoleMove.CloseHole"
                 },
                 {
-                    "title": "Move.MoveSequence"
+                    "title": "Move.MovePhrase"
                 },
                 {
-                    "title": "Move.MoveSequence.BaggingUpSequence"
+                    "title": "Move.MovePhrase.BaggingUpPhrase"
                 },
                 {
                     "title": "Neuro.Attention",
@@ -29030,7 +29030,7 @@ tags = [
                     "title": "Route.RouteGeometry.RoutePoint.TargetPoint"
                 },
                 {
-                    "title": "Route.RouteSequence.BagUpSequence"
+                    "title": "Route.RoutePhrase.BagUpPhrase"
                 },
                 {
                     "title": "TagTest"
@@ -29062,10 +29062,10 @@ tags = [
                 "title": "Move.HoleMove.CloseHole"
             },
             {
-                "title": "Move.MoveSequence"
+                "title": "Move.MovePhrase"
             },
             {
-                "title": "Move.MoveSequence.BaggingUpSequence"
+                "title": "Move.MovePhrase.BaggingUpPhrase"
             },
             {
                 "title": "Neuro.Attention",
@@ -29103,7 +29103,7 @@ tags = [
                 "title": "Route.RouteGeometry.RoutePoint.TargetPoint"
             },
             {
-                "title": "Route.RouteSequence.BagUpSequence"
+                "title": "Route.RoutePhrase.BagUpPhrase"
             },
             {
                 "title": "TagTest"
@@ -29135,7 +29135,7 @@ tags = [
                     "title": "Move.MoveError.Slip.Overview"
                 },
                 {
-                    "title": "Move.MoveSequence"
+                    "title": "Move.MovePhrase"
                 },
                 {
                     "title": "Move.VegeMove.Overview"
@@ -29176,7 +29176,7 @@ tags = [
                 "title": "Move.MoveError.Slip.Overview"
             },
             {
-                "title": "Move.MoveSequence"
+                "title": "Move.MovePhrase"
             },
             {
                 "title": "Move.VegeMove.Overview"
@@ -30146,10 +30146,10 @@ tags = [
                     "title": "Route.RouteGeometry.RoutePoint.Microsite.PlantedMicrosite"
                 },
                 {
-                    "title": "Route.RouteSequence"
+                    "title": "Route.RoutePhrase"
                 },
                 {
-                    "title": "Route.RouteSequence.CurrentMicrosite"
+                    "title": "Route.RoutePhrase.CurrentMicrosite"
                 },
                 {
                     "title": "Route.Spacing.ElasticSpacing.RelativeDisplacement"
@@ -30193,10 +30193,10 @@ tags = [
                 "title": "Route.RouteGeometry.RoutePoint.Microsite.PlantedMicrosite"
             },
             {
-                "title": "Route.RouteSequence"
+                "title": "Route.RoutePhrase"
             },
             {
-                "title": "Route.RouteSequence.CurrentMicrosite"
+                "title": "Route.RoutePhrase.CurrentMicrosite"
             },
             {
                 "title": "Route.Spacing.ElasticSpacing.RelativeDisplacement"
@@ -30225,7 +30225,7 @@ tags = [
                     "title": "Dev.Transcription"
                 },
                 {
-                    "title": "Dev.Transcription.TranscriptionSequence"
+                    "title": "Dev.Transcription.TranscriptionPhrase"
                 },
                 {
                     "title": "Plantbeta"
@@ -30254,7 +30254,7 @@ tags = [
                 "title": "Dev.Transcription"
             },
             {
-                "title": "Dev.Transcription.TranscriptionSequence"
+                "title": "Dev.Transcription.TranscriptionPhrase"
             },
             {
                 "title": "Plantbeta"
@@ -30696,7 +30696,7 @@ tags = [
                     "title": "Move.MoveEvent"
                 },
                 {
-                    "title": "Move.MoveSequence"
+                    "title": "Move.MovePhrase"
                 },
                 {
                     "title": "Move.Overview.MovementType.RelativeMovement"
@@ -30713,7 +30713,7 @@ tags = [
                     "title": "Plantbeta"
                 },
                 {
-                    "title": "Route.RouteSequence"
+                    "title": "Route.RoutePhrase"
                 },
                 {
                     "title": "TagTest"
@@ -30736,7 +30736,7 @@ tags = [
                 "title": "Move.MoveEvent"
             },
             {
-                "title": "Move.MoveSequence"
+                "title": "Move.MovePhrase"
             },
             {
                 "title": "Move.Overview.MovementType.RelativeMovement"
@@ -30753,7 +30753,7 @@ tags = [
                 "title": "Plantbeta"
             },
             {
-                "title": "Route.RouteSequence"
+                "title": "Route.RoutePhrase"
             },
             {
                 "title": "TagTest"
@@ -31098,7 +31098,7 @@ tags = [
                     "title": "Route.Flag.Overview"
                 },
                 {
-                    "title": "Route.RouteSequence"
+                    "title": "Route.RoutePhrase"
                 },
                 {
                     "title": "TagTest"
@@ -31124,7 +31124,7 @@ tags = [
                 "title": "Route.Flag.Overview"
             },
             {
-                "title": "Route.RouteSequence"
+                "title": "Route.RoutePhrase"
             },
             {
                 "title": "TagTest"
@@ -31156,10 +31156,10 @@ tags = [
                     "title": "Route.RouteGeometry.RoutePoint.FlagSite"
                 },
                 {
-                    "title": "Route.RouteSequence.CurrentMicrosite"
+                    "title": "Route.RoutePhrase.CurrentMicrosite"
                 },
                 {
-                    "title": "Route.RouteSequence.CurrentTree"
+                    "title": "Route.RoutePhrase.CurrentTree"
                 },
                 {
                     "title": "TagTest"
@@ -31188,10 +31188,10 @@ tags = [
                 "title": "Route.RouteGeometry.RoutePoint.FlagSite"
             },
             {
-                "title": "Route.RouteSequence.CurrentMicrosite"
+                "title": "Route.RoutePhrase.CurrentMicrosite"
             },
             {
-                "title": "Route.RouteSequence.CurrentTree"
+                "title": "Route.RoutePhrase.CurrentTree"
             },
             {
                 "title": "TagTest"
@@ -31242,7 +31242,7 @@ tags = [
                     "title": "Route.RouteDiagram.RouteNotDirectedLine"
                 },
                 {
-                    "title": "Route.RouteSequence"
+                    "title": "Route.RoutePhrase"
                 },
                 {
                     "title": "TagTest"
@@ -31290,7 +31290,7 @@ tags = [
                 "title": "Route.RouteDiagram.RouteNotDirectedLine"
             },
             {
-                "title": "Route.RouteSequence"
+                "title": "Route.RoutePhrase"
             },
             {
                 "title": "TagTest"
@@ -31337,10 +31337,10 @@ tags = [
                     "title": "Route.RouteGeometry.RoutePoint.FlagSite"
                 },
                 {
-                    "title": "Route.RouteSequence.CurrentMicrosite"
+                    "title": "Route.RoutePhrase.CurrentMicrosite"
                 },
                 {
-                    "title": "Route.RouteSequence.CurrentTree"
+                    "title": "Route.RoutePhrase.CurrentTree"
                 },
                 {
                     "title": "Route.Spacing.MinimumSpacing"
@@ -31387,10 +31387,10 @@ tags = [
                 "title": "Route.RouteGeometry.RoutePoint.FlagSite"
             },
             {
-                "title": "Route.RouteSequence.CurrentMicrosite"
+                "title": "Route.RoutePhrase.CurrentMicrosite"
             },
             {
-                "title": "Route.RouteSequence.CurrentTree"
+                "title": "Route.RoutePhrase.CurrentTree"
             },
             {
                 "title": "Route.Spacing.MinimumSpacing"
@@ -32890,7 +32890,7 @@ tags = [
                     "title": "Route.RouteGeometry.RoutePoint.Microsite.MicrositeSelection"
                 },
                 {
-                    "title": "Route.RouteSequence"
+                    "title": "Route.RoutePhrase"
                 },
                 {
                     "title": "TagTest"
@@ -32927,7 +32927,7 @@ tags = [
                 "title": "Route.RouteGeometry.RoutePoint.Microsite.MicrositeSelection"
             },
             {
-                "title": "Route.RouteSequence"
+                "title": "Route.RoutePhrase"
             },
             {
                 "title": "TagTest"
@@ -33709,7 +33709,7 @@ tags = [
                     "title": "Route.RouteDiagram.Overview"
                 },
                 {
-                    "title": "Route.RouteSequence"
+                    "title": "Route.RoutePhrase"
                 },
                 {
                     "title": "Route.Spacing.ElasticSpacing"
@@ -33738,7 +33738,7 @@ tags = [
                 "title": "Route.RouteDiagram.Overview"
             },
             {
-                "title": "Route.RouteSequence"
+                "title": "Route.RoutePhrase"
             },
             {
                 "title": "Route.Spacing.ElasticSpacing"
@@ -34023,7 +34023,7 @@ tags = [
                     "title": "Move.LegMove.Kneel"
                 },
                 {
-                    "title": "Move.MoveSequence"
+                    "title": "Move.MovePhrase"
                 },
                 {
                     "title": "Move.ToolMove.BagMove.BagOn"
@@ -34061,7 +34061,7 @@ tags = [
                 "title": "Move.LegMove.Kneel"
             },
             {
-                "title": "Move.MoveSequence"
+                "title": "Move.MovePhrase"
             },
             {
                 "title": "Move.ToolMove.BagMove.BagOn"
@@ -34273,7 +34273,7 @@ tags = [
                     "title": "Move.FootMove.FootScreef"
                 },
                 {
-                    "title": "Move.MoveSequence"
+                    "title": "Move.MovePhrase"
                 },
                 {
                     "title": "Move.Overview"
@@ -34302,7 +34302,7 @@ tags = [
                 "title": "Move.FootMove.FootScreef"
             },
             {
-                "title": "Move.MoveSequence"
+                "title": "Move.MovePhrase"
             },
             {
                 "title": "Move.Overview"
@@ -34337,7 +34337,7 @@ tags = [
                     "title": "Move.HoleMove.HoleOpen"
                 },
                 {
-                    "title": "Move.MoveSequence"
+                    "title": "Move.MovePhrase"
                 },
                 {
                     "title": "TagTest"
@@ -34363,7 +34363,7 @@ tags = [
                 "title": "Move.HoleMove.HoleOpen"
             },
             {
-                "title": "Move.MoveSequence"
+                "title": "Move.MovePhrase"
             },
             {
                 "title": "TagTest"
@@ -34662,7 +34662,7 @@ tags = [
                     "title": "Dev.System"
                 },
                 {
-                    "title": "Move.MoveSequence"
+                    "title": "Move.MovePhrase"
                 },
                 {
                     "title": "Move.Physics.Overview"
@@ -34688,7 +34688,7 @@ tags = [
                 "title": "Dev.System"
             },
             {
-                "title": "Move.MoveSequence"
+                "title": "Move.MovePhrase"
             },
             {
                 "title": "Move.Physics.Overview"
@@ -36925,7 +36925,7 @@ tags = [
                     "title": "Move.MoveDiagram.MoveTimeline"
                 },
                 {
-                    "title": "Move.MoveSequence"
+                    "title": "Move.MovePhrase"
                 },
                 {
                     "title": "TagTest"
@@ -36960,7 +36960,7 @@ tags = [
                 "title": "Move.MoveDiagram.MoveTimeline"
             },
             {
-                "title": "Move.MoveSequence"
+                "title": "Move.MovePhrase"
             },
             {
                 "title": "TagTest"
@@ -38141,13 +38141,13 @@ tags = [
                     "title": "Move.MoveError.Slip.Overview"
                 },
                 {
-                    "title": "Move.MoveSequence"
+                    "title": "Move.MovePhrase"
                 },
                 {
                     "title": "Plantbeta"
                 },
                 {
-                    "title": "Route.RouteSequence"
+                    "title": "Route.RoutePhrase"
                 },
                 {
                     "title": "TagTest"
@@ -38167,13 +38167,13 @@ tags = [
                 "title": "Move.MoveError.Slip.Overview"
             },
             {
-                "title": "Move.MoveSequence"
+                "title": "Move.MovePhrase"
             },
             {
                 "title": "Plantbeta"
             },
             {
-                "title": "Route.RouteSequence"
+                "title": "Route.RoutePhrase"
             },
             {
                 "title": "TagTest"
@@ -40880,10 +40880,10 @@ tags = [
                     "title": "Route.RouteShape"
                 },
                 {
-                    "title": "Route.RouteSequence.BagUpSequence"
+                    "title": "Route.RoutePhrase.BagUpPhrase"
                 },
                 {
-                    "title": "Route.RouteSequence.AreaFillSequence.Overview"
+                    "title": "Route.RoutePhrase.AreaFillPhrase.Overview"
                 },
                 {
                     "title": "NotPaper"
@@ -40900,10 +40900,10 @@ tags = [
                 "title": "Route.RouteShape"
             },
             {
-                "title": "Route.RouteSequence.BagUpSequence"
+                "title": "Route.RoutePhrase.BagUpPhrase"
             },
             {
-                "title": "Route.RouteSequence.AreaFillSequence.Overview"
+                "title": "Route.RoutePhrase.AreaFillPhrase.Overview"
             },
             {
                 "title": "NotPaper"
@@ -43036,7 +43036,7 @@ tags = [
                 "title": "ElementRelationshipDiagram.ElementValue.ElementEvaluation"
             },
             {
-                "title": "ElementRelationshipDiagram.Sequence"
+                "title": "ElementRelationshipDiagram.Phrase"
             },
             {
                 "title": "ElementRelationshipDiagram.StakeholderMap"
@@ -43138,7 +43138,7 @@ tags = [
                 "title": "ElementRelationshipDiagram.PostIt"
             },
             {
-                "title": "ElementRelationshipDiagram.Sequence"
+                "title": "ElementRelationshipDiagram.Phrase"
             },
             {
                 "title": "Dev.System.Value"
@@ -43159,7 +43159,7 @@ tags = [
                 "title": "ElementRelationshipDiagram.ElementValue.ElementValueChain"
             },
             {
-                "title": "ElementRelationshipDiagram.Sequence"
+                "title": "ElementRelationshipDiagram.Phrase"
             },
             {
                 "title": "NotPaper"
@@ -43303,7 +43303,7 @@ tags = [
                 "title": "ElementRelationshipDiagram.PostIt"
             },
             {
-                "title": "ElementRelationshipDiagram.Sequence"
+                "title": "ElementRelationshipDiagram.Phrase"
             },
             {
                 "title": "NotPaper"
@@ -43408,10 +43408,10 @@ tags = [
                 "title": "NotPaper"
             },
             {
-                "title": "ElementRelationshipDiagram.Sequence.StartElement"
+                "title": "ElementRelationshipDiagram.Phrase.StartElement"
             },
             {
-                "title": "ElementRelationshipDiagram.Sequence.FinishElement"
+                "title": "ElementRelationshipDiagram.Phrase.FinishElement"
             },
             {
                 "title": "ElementRelationshipDiagram.EcosystemMapPie.PieSection"
@@ -43426,13 +43426,13 @@ tags = [
                 "title": "NotPaper"
             },
             {
-                "title": "ElementRelationshipDiagram.Sequence"
+                "title": "ElementRelationshipDiagram.Phrase"
             },
             {
                 "title": "ElementRelationshipDiagram.PostIt"
             },
             {
-                "title": "ElementRelationshipDiagram.Sequence.StartElement"
+                "title": "ElementRelationshipDiagram.Phrase.StartElement"
             },
             {
                 "title": "ElementRelationshipDiagram.EcosystemMapPie.PieSection"
@@ -43450,25 +43450,25 @@ tags = [
                 "title": "ElementRelationshipDiagram.EcosystemMapPie.PieSection"
             },
             {
-                "title": "ElementRelationshipDiagram.Sequence.SequencePop"
+                "title": "ElementRelationshipDiagram.Phrase.PhrasePop"
             },
             {
-                "title": "ElementRelationshipDiagram.Sequence.SequencePush"
+                "title": "ElementRelationshipDiagram.Phrase.PhrasePush"
             },
             {
-                "title": "ElementRelationshipDiagram.Sequence.SequenceInsertion"
+                "title": "ElementRelationshipDiagram.Phrase.PhraseInsertion"
             },
             {
-                "title": "ElementRelationshipDiagram.Sequence.SequenceSplice"
+                "title": "ElementRelationshipDiagram.Phrase.PhraseSplice"
             },
             {
-                "title": "ElementRelationshipDiagram.Sequence.StartElement"
+                "title": "ElementRelationshipDiagram.Phrase.StartElement"
             },
             {
-                "title": "ElementRelationshipDiagram.Sequence.ReorderSequence"
+                "title": "ElementRelationshipDiagram.Phrase.ReorderPhrase"
             },
             {
-                "title": "ElementRelationshipDiagram.Sequence.InfraElement"
+                "title": "ElementRelationshipDiagram.Phrase.InfraElement"
             }
         ],
         "thumbPath": ".ts\\90105.png.jpg"
@@ -44412,7 +44412,7 @@ tags = [
                     "title": "RawVideo"
                 },
                 {
-                    "title": "Move.MoveSequence.PlantingSequence"
+                    "title": "Move.MovePhrase.PlantingPhrase"
                 },
                 {
                     "title": "Land.Slash.LowSlash"
@@ -44438,7 +44438,7 @@ tags = [
                 "title": "RawVideo"
             },
             {
-                "title": "Move.MoveSequence.PlantingSequence"
+                "title": "Move.MovePhrase.PlantingPhrase"
             },
             {
                 "title": "Land.Slash.LowSlash"
@@ -44559,7 +44559,7 @@ tags = [
                     "title": "RawVideo"
                 },
                 {
-                    "title": "Move.MoveSequence.BaggingUpSequence"
+                    "title": "Move.MovePhrase.BaggingUpPhrase"
                 },
                 {
                     "title": "Move.CacheMove.BundlePlacement"
@@ -44576,7 +44576,7 @@ tags = [
                 "title": "RawVideo"
             },
             {
-                "title": "Move.MoveSequence.BaggingUpSequence"
+                "title": "Move.MovePhrase.BaggingUpPhrase"
             },
             {
                 "title": "Move.CacheMove.BundlePlacement"
@@ -44885,7 +44885,7 @@ tags = [
                     "title": "Move.HandMove.HandClose"
                 },
                 {
-                    "title": "Move.MoveSequence.PlantingSequence"
+                    "title": "Move.MovePhrase.PlantingPhrase"
                 },
                 {
                     "title": "Move.FootMove.FootClose"
@@ -44938,7 +44938,7 @@ tags = [
                 "title": "Move.HandMove.HandClose"
             },
             {
-                "title": "Move.MoveSequence.PlantingSequence"
+                "title": "Move.MovePhrase.PlantingPhrase"
             },
             {
                 "title": "Move.FootMove.FootClose"
@@ -45123,7 +45123,7 @@ tags = [
                     "title": "Move.ToolMove.BagMove.BaggingUp"
                 },
                 {
-                    "title": "Move.MoveSequence.BaggingUpSequence"
+                    "title": "Move.MovePhrase.BaggingUpPhrase"
                 },
                 {
                     "title": "Guide.Why.Productivity.Efficiency.Redundancy"
@@ -45173,7 +45173,7 @@ tags = [
                 "title": "Move.ToolMove.BagMove.BaggingUp"
             },
             {
-                "title": "Move.MoveSequence.BaggingUpSequence"
+                "title": "Move.MovePhrase.BaggingUpPhrase"
             },
             {
                 "title": "Guide.Why.Productivity.Efficiency.Redundancy"
@@ -45272,7 +45272,7 @@ tags = [
                     "title": "Move.CacheMove.GarbageBox"
                 },
                 {
-                    "title": "Move.MoveSequence.BaggingUpSequence"
+                    "title": "Move.MovePhrase.BaggingUpPhrase"
                 }
             ],
             "id": "5b4d54d18ef94fcb91f8f6917e4817f0"
@@ -45325,7 +45325,7 @@ tags = [
                 "title": "Move.CacheMove.GarbageBox"
             },
             {
-                "title": "Move.MoveSequence.BaggingUpSequence"
+                "title": "Move.MovePhrase.BaggingUpPhrase"
             }
         ],
         "thumbPath": "Plantbeta_Video\\.ts\\Video_014.mp4.jpg"
@@ -45377,7 +45377,7 @@ tags = [
                     "title": "RawVideo"
                 },
                 {
-                    "title": "Move.MoveSequence.BaggingUpSequence"
+                    "title": "Move.MovePhrase.BaggingUpPhrase"
                 },
                 {
                     "title": "Move.ToolMove.BundleMove.BundleGrip"
@@ -45451,7 +45451,7 @@ tags = [
                 "title": "RawVideo"
             },
             {
-                "title": "Move.MoveSequence.BaggingUpSequence"
+                "title": "Move.MovePhrase.BaggingUpPhrase"
             },
             {
                 "title": "Move.ToolMove.BundleMove.BundleGrip"

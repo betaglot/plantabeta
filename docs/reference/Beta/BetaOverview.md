@@ -32,7 +32,7 @@ Betamax was a piece of hardware (similar to a VHS tape or cassete) which was use
 
 - If you're a climber, then you're likely familiar with the term "beta"
 
-> In climbing _beta_ is the information about the _movements_, _sequences_, and _holds_ of a climb. If someone asks you for a climb's beta, then they want to know how you climbed it.
+> In climbing _beta_ is the information about the _movements_, _Phrases_, and _holds_ of a climb. If someone asks you for a climb's beta, then they want to know how you climbed it.
 
 > Beta could be something as simple as the general type of _holds_, like “it’s all slopers” or just the type of rock and length.
 
@@ -81,7 +81,7 @@ This each line are analog pairs. The equal signs = denotes where Climbing and Pl
 
 - Snapshot of what a Planter is doing and thinking in a particular Moment.
 - The current state of the Eco, Route, Planter[Move, Neuro].
-- An element of a BetaStack or BetaSequence.
+- An element of a BetaStack or BetaPhrase.
 - There is no time in a BetaInstance
 
 ---
@@ -285,7 +285,7 @@ Elements are added together to create new, more complex, elements. For example [
 
 ### Element Composition
 
-Elements are mixed together to create more complex elements or linked together into a new sequence of elements.
+Elements are mixed together to create more complex elements or linked together into a new Phrase of elements.
 
 #### Element Mixture Composition
 
@@ -295,14 +295,14 @@ Elements are mixed together to create more complex elements or linked together i
 - Increase Complexity
 - Element Hierarchy
 
-#### Element Sequence Composition
+#### Element Phrase Composition
 
 A sequential pattern of elements.
 
-- MoveSequence
+- MovePhrase
   - PlantingSeqence
-- RouteSequence
-- NeuroSequence
+- RoutePhrase
+- NeuroPhrase
 
 ### Element Decomposition
 
@@ -318,9 +318,9 @@ InsertTree = TreeGrip + BendOver + SpadeProp
 
 :::
 
-#### Element Sequence Decomposition
+#### Element Phrase Decomposition
 
-Breaking down the sequence of elements.
+Breaking down the Phrase of elements.
 
 ::: tip Example:
 

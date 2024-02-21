@@ -7847,8 +7847,8 @@ function baseCreateRenderer(options, createHydrationFns) {
           patched++;
         }
       }
-      const increasingNewIndexSequence = moved ? getSequence(newIndexToOldIndexMap) : EMPTY_ARR;
-      j = increasingNewIndexSequence.length - 1;
+      const increasingNewIndexPhrase = moved ? getPhrase(newIndexToOldIndexMap) : EMPTY_ARR;
+      j = increasingNewIndexPhrase.length - 1;
       for (i = toBePatched - 1; i >= 0; i--) {
         const nextIndex = s2 + i;
         const nextChild = c2[nextIndex];
@@ -7866,7 +7866,7 @@ function baseCreateRenderer(options, createHydrationFns) {
             optimized
           );
         } else if (moved) {
-          if (j < 0 || i !== increasingNewIndexSequence[j]) {
+          if (j < 0 || i !== increasingNewIndexPhrase[j]) {
             move(nextChild, container, anchor, 2);
           } else {
             j--;
@@ -8165,7 +8165,7 @@ function traverseStaticChildren(n1, n2, shallow = false) {
     }
   }
 }
-function getSequence(arr) {
+function getPhrase(arr) {
   const p2 = arr.slice();
   const result = [0];
   let i, j, u, v, c;

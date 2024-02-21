@@ -4,4 +4,4 @@
 
 :::
 
-# 🟠 <move>Bundle Sequence</move>
+# 🟠 <move>Bundle Phrase</move>

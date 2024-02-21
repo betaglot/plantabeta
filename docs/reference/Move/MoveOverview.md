@@ -207,7 +207,7 @@ Acceleration
 - ### Hook
 
 
-## Move Sequence
+## Move Phrase
 
 - Represented in Python as a List object.
 

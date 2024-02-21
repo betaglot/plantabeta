@@ -11,8 +11,18 @@
 
 # 🟠 <move>Flag Overview</move>
 
+## FlagPut
+
+post verb (MAKE KNOWN)
+ 
+> to make information known to the public, or to put up signs on land or other property
+
+Flags are posted throughout the land.
+
 ## Flag Anatomy
 
+- FlagBody
+- FlagEnd
 
 ## Flag Properties
 

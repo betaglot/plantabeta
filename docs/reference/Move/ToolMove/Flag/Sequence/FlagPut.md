@@ -1,15 +1,28 @@
 ::: details 🛠 <dev>DesignBox</dev> 
 
-- Arm wrestling screef. ArmLock then use your whole body
 <h2>PageTags</h2>
 
-- "Move.ToolMove.SpadeMove.SpadeScreef"
+- "Move.ToolMove.FlagMove.FlagWrap"
+- "Move.ToolMove.FlagMove.FlagWeave"
+- "Move.ToolMove.FlagMove.FlagThrow"
+- "Move.ToolMove.FlagMove.FlagKnot"
+
 :::
 
-# 🟠 <move>SpadeScreef</move>
+# 🟠 <move>PutFlag</move>
 
+> placing a Flag in the Land
 
 ![MoveImage](/Move/MoveImage.png)
+
+## FlagKnot
+
+## FlagThrow
+
+## FlagWeave
+
+## FlagWrap
+
 
 ## Questions about the Element
 
@@ -19,7 +32,7 @@
 - Tool2
 - Tool3
 
-## <move>Move Sequence</move>
+## <move>Move Phrase</move>
 
 <div style="display: flex">
     <div>
@@ -82,7 +95,7 @@ Quotes about this Move
 
 
 
-Links to other related movements. Related because they are the same MoveType or because they are performed at the same time or within the same sequence. 
+Links to other related movements. Related because they are the same MoveType or because they are performed at the same time or within the same Phrase. 
 
 ## See also:
 

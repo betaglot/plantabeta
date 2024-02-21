@@ -5,9 +5,9 @@
 
 :::
 
-# 🔷 Sequence
+# 🔷 Phrase
 
-Sequences are represented as 
+Phrases are represented as 
 - Cards
 - Python List
 - Python Loop
@@ -16,15 +16,15 @@ Sequences are represented as
 
 
 ```py
-Sequence[]
+Phrase[]
 ```
 
 
-## Card Sequence
+## Card Phrase
 
 Deck of cards
 
-Sequence of MOvementCards
+Phrase of MOvementCards
 
 MoveCard
 
@@ -55,7 +55,7 @@ MoveCards are positioned in a FillChart
 
 
 
-All sequences are lists 
+All Phrases are lists 
 
 ```py
 PythonDataType = List[]
@@ -69,15 +69,15 @@ PythonDataType = List[]
 
 ```
 
-Standardize the way that sequences of BetaElements are represented in code and graphically. 
+Standardize the way that Phrases of BetaElements are represented in code and graphically. 
 
 💜 Graphic
 
 🔷 Code
 
-## Differentiate(Sequence, Supermove, Move, Submove, BodyMove)
+## Differentiate(Phrase, Supermove, Move, Submove, BodyMove)
 
-An ArmSequence is a list of ArmMoves performed in Parallel (BoxCarry), Concurrently (SpadeLift, TreeLoad)
+An ArmPhrase is a list of ArmMoves performed in Parallel (BoxCarry), Concurrently (SpadeLift, TreeLoad)
 
 
 
@@ -92,7 +92,7 @@ Control flow is the codified version of [Decision Making](/reference/Neuro/Decis
 
 ### 💜 Flow Chart
 
-- Highlight current Sequence branch, synchronize with 
+- Highlight current Phrase branch, synchronize with 
 
 ### If
 
@@ -106,14 +106,14 @@ Control flow is the codified version of [Decision Making](/reference/Neuro/Decis
 ## GIF
 
 ### Vue Component
-- Be able to toggle between GIF and SequenceStrip
+- Be able to toggle between GIF and PhraseStrip
 - Modify framerate of GIF using Input Stepper
 - Change 
 
 
 ## Comic Strip
 
-- SequenceStrip
+- PhraseStrip
 - Numbering in top corner
 
 
@@ -125,7 +125,7 @@ Control flow is the codified version of [Decision Making](/reference/Neuro/Decis
 
 ### Sorting
 
-- Reverse Sequence
+- Reverse Phrase
 
 ### GroupBy
 
@@ -142,8 +142,16 @@ Asyncronous
 
 > Parallel computing is a type of computation in which many calculations or processes are carried out simultaneously. Large problems can often be divided into smaller ones, which can then be solved at the same time.
 
-## Differentiate(Algorithm, Sequence)
+## Differentiate(Algorithm, Phrase)
 
-All algorithms are sequences. "Sequence" is more commonplace than "Algorithm". Use "Sequence" instead of Algorithm to increase accessiblity to atheletes and other people who are averse to math. The purpose of Plantbeta is not to convince people of the utility of mathematical **theory**, rather, it's to use math in **practice**.
+All algorithms are Phrases. "Phrase" is more commonplace than "Algorithm". Use "Phrase" instead of Algorithm to increase accessiblity to atheletes and other people who are averse to math. The purpose of Plantbeta is not to convince people of the utility of mathematical **theory**, rather, it's to use math in **practice**.
 
-- ProbeSequence or Probe Algorithm
+- ProbePhrase or Probe Algorithm
+
+
+
+
+
+
+
+

@@ -4,4 +4,4 @@
 
 :::
 
-# 🔷 <move>Clothing Sequence</move>
+# 🔷 <move>Clothing Phrase</move>

@@ -41,7 +41,7 @@
 - BagFill
 - TreeRemove
 
-### <move>PodGrip Sequence</move>
+### <move>PodGrip Phrase</move>
 
 <div style="display: flex">
     <div>
@@ -61,7 +61,7 @@
 
 ## StemGrip
 
-### <move>StemGrip Sequence</move>
+### <move>StemGrip Phrase</move>
 
 <div style="display: flex">
     <div>
@@ -125,7 +125,7 @@ Quotes about this Move
 
 
 
-Links to other related movements. Related because they are the same MoveType or because they are performed at the same time or within the same sequence. 
+Links to other related movements. Related because they are the same MoveType or because they are performed at the same time or within the same Phrase. 
 
 ## See also:
 

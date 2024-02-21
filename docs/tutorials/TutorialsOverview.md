@@ -28,7 +28,7 @@ https://brilliant.org/
 
 - Matching
 - Multiple Choice
-- Sequence
+- Phrase
 - Crosswords
 
 ## EcoTest

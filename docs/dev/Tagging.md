@@ -15,7 +15,7 @@
 - "Dev.Tagging.TagName"
 - "Dev.Tagging.TagPath"
 - "Dev.Transcription"
-- "Dev.Transcription.TranscriptionSequence"
+- "Dev.Transcription.TranscriptionPhrase"
 - "Dev.VideoAnalysis.VideoTagging"
 - "Move.MoveVideo"
 :::

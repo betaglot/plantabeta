@@ -6,7 +6,7 @@
 
 :::
 
-# 🔷 <move>Box Sequence</move>
+# 🔷 <move>Box Phrase</move>
 
 
 

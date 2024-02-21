@@ -121,7 +121,7 @@ def move(move{}, eco{}, route{}, neuro):
 
 ## Data Types
 
-There is nothing too small to describe with code. Opening a water bottle can have a Sequence List
+There is nothing too small to describe with code. Opening a water bottle can have a Phrase List
 
 
 
@@ -131,7 +131,7 @@ Every BetaElement is an object.
 
 ### List
 
-- Any Sequence
+- Any Phrase
 - 
 -
 

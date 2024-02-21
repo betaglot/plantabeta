@@ -70,7 +70,7 @@ Homonyms = {
 
 - . "*dot*" for period
 
-#### Dictation Sequence
+#### Dictation Phrase
 
 0. SetUp Laptop with Plantbeta open on left half and the google doc open on the right. Record the audio with your phone being held up close to your mouth. 
 

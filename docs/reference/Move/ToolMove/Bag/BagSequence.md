@@ -4,7 +4,7 @@
 
 :::
 
-# 🔷 <move>Bag Sequence</move>
+# 🔷 <move>Bag Phrase</move>
 
 ## BagFill
 

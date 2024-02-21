@@ -29,7 +29,7 @@
 # 🛠 Questions about Planting and Plantbeta
 
 - What is the most important piece of information that a Planter needs to know?
-- What is the slowest part of a PlantingSequence?
+- What is the slowest part of a PlantingPhrase?
 - How to measure the force required to open a hole?
 - What type of AI is needed to track a Planter from a drone with a camera?
 - How can motion tracking be overlaid on a topographical map?

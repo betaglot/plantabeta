@@ -37,7 +37,7 @@ What is tree planting like?
 ### Wrestling
 - FullBodyMove
 - Resilience
-- Move Sequences
+- Move Phrases
 
 ### Hiking
 - Endurance

@@ -8,4 +8,4 @@
 
 :::
 
-# 🔷 <move>Foot Sequence</move>
+# 🔷 <move>Foot Phrase</move>

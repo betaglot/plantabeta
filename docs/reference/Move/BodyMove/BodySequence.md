@@ -1,7 +1,25 @@
-::: details 🛠 <dev>DesignBox</dev> 
-
-
+::: details 🛠 <dev>DesignBox</dev>
 
 :::
 
-# 🔷 <move>Body Sequence</move>
+# 🔷 <move>Body Phrase</move>
+
+## Get
+
+## Put
+
+```py
+Put = [
+    'MicrositeSelection',
+    'Screef',
+    'Get',
+    'OpenHole',
+    'HandPut'
+    'CloseHole',
+    'PostFlag'
+]
+
+
+
+
+```

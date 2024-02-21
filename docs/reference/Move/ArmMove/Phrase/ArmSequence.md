@@ -4,4 +4,8 @@
 <h2>PageTags</h2>
 :::
 
-# 🔷 <move>Arm Sequence</move>
+# 🔷 <move>Arm Phrase</move>
+
+## Get
+
+## Put

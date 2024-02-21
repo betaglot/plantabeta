@@ -162,16 +162,16 @@
         "ElementRelationshipDiagram.MetroMap",
         "ElementRelationshipDiagram.NodeSize",
         "ElementRelationshipDiagram.PostIt",
-        "ElementRelationshipDiagram.Sequence",
-        "ElementRelationshipDiagram.Sequence.ContiguousElement",
-        "ElementRelationshipDiagram.Sequence.FinishElement",
-        "ElementRelationshipDiagram.Sequence.InfraElement",
-        "ElementRelationshipDiagram.Sequence.ReorderSequence",
-        "ElementRelationshipDiagram.Sequence.SequenceInsertion",
-        "ElementRelationshipDiagram.Sequence.SequencePop",
-        "ElementRelationshipDiagram.Sequence.SequencePush",
-        "ElementRelationshipDiagram.Sequence.SequenceSplice",
-        "ElementRelationshipDiagram.Sequence.StartElement",
+        "ElementRelationshipDiagram.Phrase",
+        "ElementRelationshipDiagram.Phrase.ContiguousElement",
+        "ElementRelationshipDiagram.Phrase.FinishElement",
+        "ElementRelationshipDiagram.Phrase.InfraElement",
+        "ElementRelationshipDiagram.Phrase.ReorderPhrase",
+        "ElementRelationshipDiagram.Phrase.PhraseInsertion",
+        "ElementRelationshipDiagram.Phrase.PhrasePop",
+        "ElementRelationshipDiagram.Phrase.PhrasePush",
+        "ElementRelationshipDiagram.Phrase.PhraseSplice",
+        "ElementRelationshipDiagram.Phrase.StartElement",
         "ElementRelationshipDiagram.StakeholderMap",
         "ElementRelationshipDiagram.Symbols",
         "ElementRelationshipDiagram.Timeline"
@@ -233,7 +233,7 @@
         "Dev.Element.ElementDiagram.ConnectorLine.LineThickness",
         "Dev.Element.ElementDiagram.ElementArrow",
         "Dev.Element.ElementDiagram.ElementDiagramError.Floating",
-        "Dev.Element.ElementDiagram.ElementDiagramError.SequenceNumberLabelError",
+        "Dev.Element.ElementDiagram.ElementDiagramError.PhraseNumberLabelError",
         "Dev.Element.ElementDiagram.ElementLine.ElementLineHighlight",
         "Dev.Element.ElementDiagram.ElementTreeDiagram.ElementHierarchy.Overview",
         "Dev.Element.ElementDiagram.ElementTreeDiagram.ElementHierarchy.SiblingElement",
@@ -244,7 +244,7 @@
         "Dev.Element.ElementDiagram.Labels.ArrowLabel",
         "Dev.Element.ElementDiagram.Labels.Lasso",
         "Dev.Element.ElementDiagram.Labels.NumberLabel",
-        "Dev.Element.ElementDiagram.Labels.NumberLabel.SequenceNumberLabel",
+        "Dev.Element.ElementDiagram.Labels.NumberLabel.PhraseNumberLabel",
         "Dev.Element.ElementDiagram.Labels.PictogramLabel",
         "Dev.Element.ElementDiagram.Labels.TextLabel",
         "Dev.Element.ElementDiagram.Labels.TextLabel.AbbreviatedTextLabel",
@@ -264,7 +264,7 @@
         "Dev.Element.ElementPage",
         "Dev.Element.ElementPictogram",
         "Dev.Element.ElementProperties",
-        "Dev.Element.ElementSequence",
+        "Dev.Element.ElementPhrase",
         "Dev.Element.ElementTimeline",
         "Dev.Element.ElementTimeline.EinsteinSpaghetti",
         "Dev.Element.ElementVariation",
@@ -402,7 +402,7 @@
     "dev/Roadmap.md": [
         "Dev.Roadmap"
     ],
-    "dev/Sequence.md": [],
+    "dev/Phrase.md": [],
     "dev/Simulation.md": [],
     "dev/StyleGuide.md": [
         "Dev.Breadcrumb",
@@ -439,7 +439,7 @@
         "Dev.Tagging.TagName",
         "Dev.Tagging.TagPath",
         "Dev.Transcription",
-        "Dev.Transcription.TranscriptionSequence",
+        "Dev.Transcription.TranscriptionPhrase",
         "Dev.VideoAnalysis.VideoTagging",
         "Move.MoveVideo"
     ],
@@ -550,8 +550,8 @@
         "Eco.MixedLand",
         "Eco.Overview"
     ],
-    "Eco/EcoSequence/Overview.md": [
-        "Eco.LandSequence"
+    "Eco/EcoPhrase/Overview.md": [
+        "Eco.LandPhrase"
     ],
     "Eco/LandSpeed/FastLand.md": [],
     "Eco/LandSpeed/Overview.md": [
@@ -692,7 +692,7 @@
     ],
     "guide/Who/PlanterInstructor.md": [
         "Dev.Pedagogy",
-        "Dev.Pedagogy.Curriculum.LessonSequence",
+        "Dev.Pedagogy.Curriculum.LessonPhrase",
         "Dev.Pedagogy.Curriculum.Timeline",
         "Dev.PlanterMetaInstructor",
         "Guide.Who.PlanterInstructor",
@@ -749,7 +749,7 @@
     "Move/ArmMove/ArmProp.md": [
         "Move.ArmMove.ArmProp"
     ],
-    "Move/ArmMove/ArmSequence.md": [],
+    "Move/ArmMove/ArmPhrase.md": [],
     "Move/ArmMove/ArmSidebagLift.md": [
         "Move.ArmMove.ArmSidebagLift"
     ],
@@ -803,7 +803,7 @@
     "Move/BodyMove/BodyRotate.md": [
         "Move.BodyMove.BodyRotate"
     ],
-    "Move/BodyMove/BodySequence.md": [],
+    "Move/BodyMove/BodyPhrase.md": [],
     "Move/BodyMove/BodySlot.md": [
         "Move.BodyMove.BodySlot"
     ],
@@ -853,7 +853,7 @@
     "Move/BodyMove/Walk.md": [
         "Move.BodyMove.Walk"
     ],
-    "Move/CacheMove/CacheSequence.md": [],
+    "Move/CacheMove/CachePhrase.md": [],
     "Move/CacheMove/Eating.md": [],
     "Move/CacheMove/Overview.md": [
         "Move.CacheMove.BagsPlacement",
@@ -875,7 +875,7 @@
     "Move/ClothingMove/ClothingLayer.md": [
         "Move.ClothingMove.ClothingLayer"
     ],
-    "Move/ClothingMove/ClothingSequence.md": [],
+    "Move/ClothingMove/ClothingPhrase.md": [],
     "Move/ClothingMove/HatMovement.md": [
         "Move.ClothingMove.HatMove"
     ],
@@ -912,7 +912,7 @@
     "Move/FootMove/FootScreef.md": [
         "Move.FootMove.FootScreef"
     ],
-    "Move/FootMove/FootSequence.md": [
+    "Move/FootMove/FootPhrase.md": [
         "Move.FootMove.FootMatch",
         "Move.FootMove.FootMatch",
         "Move.FootMove.FootSwap"
@@ -949,7 +949,7 @@
     "Move/HandMove/HandScreef.md": [
         "Move.HandMove.HandScreef"
     ],
-    "Move/HandMove/HandSequence.md": [
+    "Move/HandMove/HandPhrase.md": [
         "Move.HandMove.HandBump",
         "Move.HandMove.HandMatch"
     ],
@@ -1000,7 +1000,7 @@
     "Move/HeadMove/HeadRetraction.md": [
         "Move.HeadMove.HeadRetraction"
     ],
-    "Move/HeadMove/HeadSequence.md": [],
+    "Move/HeadMove/HeadPhrase.md": [],
     "Move/HeadMove/HeadTiltIntoWind.md": [
         "Move.HeadMove.HeadTiltIntoWind"
     ],
@@ -1032,7 +1032,7 @@
         "Move.HoleMove.HoleOpen"
     ],
     "Move/HoleMove/HoleProperties.md": [],
-    "Move/HoleMove/HoleSequence.md": [],
+    "Move/HoleMove/HolePhrase.md": [],
     "Move/HoleMove/Overview.md": [
         "Move.HoleMove.Overview"
     ],
@@ -1064,7 +1064,7 @@
     "Move/LegMove/LegProp.md": [
         "Move.LegMove.LegProp"
     ],
-    "Move/LegMove/LegSequence.md": [],
+    "Move/LegMove/LegPhrase.md": [],
     "Move/LegMove/LegSidebagLift.md": [
         "Move.LegMove.LegSidebagLift"
     ],
@@ -1264,42 +1264,42 @@
         "Move.RouteInfluenceMove",
         "Move.SlashMove.Overview"
     ],
-    "Move/MoveSequence/Overview.md": [
-        "Move.MoveSequence",
-        "Move.MoveSequence.AnteMove",
-        "Move.MoveSequence.ArmSequence",
-        "Move.MoveSequence.Attempt",
-        "Move.MoveSequence.BaggingUpSequence",
-        "Move.MoveSequence.BodySequence",
-        "Move.MoveSequence.ContiguousMove",
-        "Move.MoveSequence.CurrentMove",
-        "Move.MoveSequence.FootSequence",
-        "Move.MoveSequence.HandSequence",
-        "Move.MoveSequence.InitiationMove",
-        "Move.MoveSequence.IntermembralTiming",
-        "Move.MoveSequence.LegSequence",
-        "Move.MoveSequence.MoveChunk.MovePhrase",
-        "Move.MoveSequence.MoveCycle",
-        "Move.MoveSequence.MoveCycle.DoUntil",
-        "Move.MoveSequence.MoveCycle.DoWhile",
-        "Move.MoveSequence.MoveDensity",
-        "Move.MoveSequence.MoveEndurance",
-        "Move.MoveSequence.MoveLineSequence",
-        "Move.MoveSequence.MoveNestedSequence",
-        "Move.MoveSequence.MoveOverlap",
-        "Move.MoveSequence.MoveRhythm",
-        "Move.MoveSequence.MoveSequenceArea",
-        "Move.MoveSequence.MoveSequenceError",
-        "Move.MoveSequence.MoveSequenceVariation",
-        "Move.MoveSequence.MoveShapeSequence.MoveShapeOverlap",
-        "Move.MoveSequence.MoveSpaceSequence.MoveSpaceOverlap",
-        "Move.MoveSequence.MoveTempo",
-        "Move.MoveSequence.PlantingSequence",
-        "Move.MoveSequence.PostMove",
-        "Move.MoveSequence.SimultaneousMove",
-        "Move.MoveSequence.SpadeSequence",
-        "Move.MoveSequence.SubmoveSequence",
-        "Move.MoveSequence.TransitionMove"
+    "Move/MovePhrase/Overview.md": [
+        "Move.MovePhrase",
+        "Move.MovePhrase.AnteMove",
+        "Move.MovePhrase.ArmPhrase",
+        "Move.MovePhrase.Attempt",
+        "Move.MovePhrase.BaggingUpPhrase",
+        "Move.MovePhrase.BodyPhrase",
+        "Move.MovePhrase.ContiguousMove",
+        "Move.MovePhrase.CurrentMove",
+        "Move.MovePhrase.FootPhrase",
+        "Move.MovePhrase.HandPhrase",
+        "Move.MovePhrase.InitiationMove",
+        "Move.MovePhrase.IntermembralTiming",
+        "Move.MovePhrase.LegPhrase",
+        "Move.MovePhrase.MoveChunk.MovePhrase",
+        "Move.MovePhrase.MoveCycle",
+        "Move.MovePhrase.MoveCycle.DoUntil",
+        "Move.MovePhrase.MoveCycle.DoWhile",
+        "Move.MovePhrase.MoveDensity",
+        "Move.MovePhrase.MoveEndurance",
+        "Move.MovePhrase.MoveLinePhrase",
+        "Move.MovePhrase.MoveNestedPhrase",
+        "Move.MovePhrase.MoveOverlap",
+        "Move.MovePhrase.MoveRhythm",
+        "Move.MovePhrase.MovePhraseArea",
+        "Move.MovePhrase.MovePhraseError",
+        "Move.MovePhrase.MovePhraseVariation",
+        "Move.MovePhrase.MoveShapePhrase.MoveShapeOverlap",
+        "Move.MovePhrase.MoveSpacePhrase.MoveSpaceOverlap",
+        "Move.MovePhrase.MoveTempo",
+        "Move.MovePhrase.PlantingPhrase",
+        "Move.MovePhrase.PostMove",
+        "Move.MovePhrase.SimultaneousMove",
+        "Move.MovePhrase.SpadePhrase",
+        "Move.MovePhrase.SubmovePhrase",
+        "Move.MovePhrase.TransitionMove"
     ],
     "Move/Placeholder_MoveProfile.md": [],
     "Move/VegeMove/BranchArmDeflection.md": [
@@ -1350,7 +1350,7 @@
     "Move/ToolMove/Bag/BagOn.md": [
         "Move.ToolMove.BagMove.BagOn"
     ],
-    "Move/ToolMove/Bag/BagSequence.md": [],
+    "Move/ToolMove/Bag/BagPhrase.md": [],
     "Move/ToolMove/Bag/BagSlide.md": [
         "Move.ToolMove.BagMove.BagSlide"
     ],
@@ -1361,7 +1361,7 @@
         "Move.ToolMove.BagMove.Overview"
     ],
     "Move/ToolMove/Boot/BootScreef.md": [],
-    "Move/ToolMove/Boot/BootSequence.md": [],
+    "Move/ToolMove/Boot/BootPhrase.md": [],
     "Move/ToolMove/Boot/LaceKnot.md": [
         "Move.ToolMove.BootMove.LaceKnot"
     ],
@@ -1371,7 +1371,7 @@
         "Move.ToolMove.BootMove.Overview"
     ],
     "Move/ToolMove/Box/BoxGrip.md": [],
-    "Move/ToolMove/Box/BoxSequence.md": [
+    "Move/ToolMove/Box/BoxPhrase.md": [
         "Move.ToolMove.BoxMove.BoxStack"
     ],
     "Move/ToolMove/Box/Overview.md": [
@@ -1386,7 +1386,7 @@
     "Move/ToolMove/Bundle/BundlePeel.md": [
         "Move.ToolMove.BundleMove.BundlePeel"
     ],
-    "Move/ToolMove/Bundle/BundleSequence.md": [],
+    "Move/ToolMove/Bundle/BundlePhrase.md": [],
     "Move/ToolMove/Bundle/Overview.md": [
         "Move.ToolMove.BundleMove.BundleRoll",
         "Move.ToolMove.BundleMove.BundleUnwrap",
@@ -1408,7 +1408,7 @@
     "Move/ToolMove/Flag/FlagRoll.md": [
         "Move.ToolMove.FlagMove.FlagRoll"
     ],
-    "Move/ToolMove/Flag/FlagSequence.md": [],
+    "Move/ToolMove/Flag/FlagPhrase.md": [],
     "Move/ToolMove/Flag/FlagThrow.md": [
         "Move.ToolMove.FlagMove.FlagThrow"
     ],
@@ -1438,7 +1438,7 @@
         "Move.ToolMove.GaiterMove.Overview"
     ],
     "Move/ToolMove/Glove/GloveGrip.md": [],
-    "Move/ToolMove/Glove/GloveSequence.md": [],
+    "Move/ToolMove/Glove/GlovePhrase.md": [],
     "Move/ToolMove/Glove/Overview.md": [
         "Move.ToolMove.GloveMove.Overview"
     ],
@@ -1466,7 +1466,7 @@
     "Move/ToolMove/Spade/SpadeScreef.md": [
         "Move.ToolMove.SpadeMove.SpadeScreef"
     ],
-    "Move/ToolMove/Spade/SpadeSequence.md": [
+    "Move/ToolMove/Spade/SpadePhrase.md": [
         "Move.ToolMove.SpadeMove.SpadeSwap"
     ],
     "Move/ToolMove/Spade/SpadeSlam.md": [
@@ -1489,7 +1489,7 @@
     "Move/TruckMove/Sleep.md": [
         "Move.ToolMove.TruckMove.Sleep"
     ],
-    "Move/TruckMove/TruckSequence.md": [],
+    "Move/TruckMove/TruckPhrase.md": [],
     "Neuro/Acceptance/Overview.md": [],
     "Neuro/Algorithm/Overview.md": [],
     "Neuro/Arousal/Calm.md": [
@@ -1849,7 +1849,7 @@
     "Route/RoutePoint/ReflectionPoint.md": [],
     "Route/RoutePoint/TargetPoint.md": [],
     "Route/RoutePoint/VertexPoint.md": [],
-    "Route/RouteSequence/Overview.md": [
+    "Route/RoutePhrase/Overview.md": [
         "Route.RouteComposition.Overview",
         "Route.RouteComposition.RouteAddition",
         "Route.RouteComposition.RouteAdjustment.RouteMajorAdjustment",
@@ -1859,32 +1859,32 @@
         "Route.RouteComposition.RouteSelection.ForcedRoute",
         "Route.RouteComposition.RouteSelection.RouteComparison",
         "Route.RouteCrux",
-        "Route.RouteSequence",
-        "Route.RouteSequence.AreaFillSequence.Overview",
-        "Route.RouteSequence.AreaFillSequence.RouteShapeInscription.Overview",
-        "Route.RouteSequence.AreaFillSequence.RouteShapeInscription.RouteCircleInscription",
-        "Route.RouteSequence.AreaFillSequence.RouteShapeInscription.RouteSquareInscription",
-        "Route.RouteSequence.AreaFillSequence.RouteShapeInscription.RouteTriangleInscription",
-        "Route.RouteSequence.BagUpSequence",
-        "Route.RouteSequence.CurrentMicrosite",
-        "Route.RouteSequence.FlagMove",
-        "Route.RouteSequence.HoleMove",
-        "Route.RouteSequence.LookAt.Flag",
-        "Route.RouteSequence.LookAt.HoleMove",
-        "Route.RouteSequence.MicrositeSelection",
-        "Route.RouteSequence.PostMicrosite",
-        "Route.RouteSequence.PostMicrositeAnteMicrosite",
-        "Route.RouteSequence.RedRotSequence",
-        "Route.RouteSequence.RouteCycle",
-        "Route.RouteSequence.RouteCycle.DoUntil",
-        "Route.RouteSequence.RouteCycle.DoWhile",
-        "Route.RouteSequence.RouteSequenceVariation",
-        "Route.RouteSequence.RouteShapeSequence.RouteShapeOverlap",
-        "Route.RouteSequence.RouteSpaceSequence.RouteSpaceOverlap",
-        "Route.RouteSequence.RouteSurfaceSequence",
-        "Route.RouteSequence.RouteSurfaceSequence.AnteRouteSurface",
-        "Route.RouteSequence.RouteSurfaceSequence.CurrentRouteSurface",
-        "Route.RouteSequence.RouteSurfaceSequence.PostRouteSurface"
+        "Route.RoutePhrase",
+        "Route.RoutePhrase.AreaFillPhrase.Overview",
+        "Route.RoutePhrase.AreaFillPhrase.RouteShapeInscription.Overview",
+        "Route.RoutePhrase.AreaFillPhrase.RouteShapeInscription.RouteCircleInscription",
+        "Route.RoutePhrase.AreaFillPhrase.RouteShapeInscription.RouteSquareInscription",
+        "Route.RoutePhrase.AreaFillPhrase.RouteShapeInscription.RouteTriangleInscription",
+        "Route.RoutePhrase.BagUpPhrase",
+        "Route.RoutePhrase.CurrentMicrosite",
+        "Route.RoutePhrase.FlagMove",
+        "Route.RoutePhrase.HoleMove",
+        "Route.RoutePhrase.LookAt.Flag",
+        "Route.RoutePhrase.LookAt.HoleMove",
+        "Route.RoutePhrase.MicrositeSelection",
+        "Route.RoutePhrase.PostMicrosite",
+        "Route.RoutePhrase.PostMicrositeAnteMicrosite",
+        "Route.RoutePhrase.RedRotPhrase",
+        "Route.RoutePhrase.RouteCycle",
+        "Route.RoutePhrase.RouteCycle.DoUntil",
+        "Route.RoutePhrase.RouteCycle.DoWhile",
+        "Route.RoutePhrase.RoutePhraseVariation",
+        "Route.RoutePhrase.RouteShapePhrase.RouteShapeOverlap",
+        "Route.RoutePhrase.RouteSpacePhrase.RouteSpaceOverlap",
+        "Route.RoutePhrase.RouteSurfacePhrase",
+        "Route.RoutePhrase.RouteSurfacePhrase.AnteRouteSurface",
+        "Route.RoutePhrase.RouteSurfacePhrase.CurrentRouteSurface",
+        "Route.RoutePhrase.RouteSurfacePhrase.PostRouteSurface"
     ],
     "Route/RouteSpace/ElasticSpacing.md": [],
     "Route/RouteSpace/MaximumSpacing.md": [],
