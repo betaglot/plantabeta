@@ -1,4 +1,4 @@
-::: details 🛠 DesignBox
+::: details 🛠 <dev>DesignBox</dev> 
 
 - Alpinistes do spadeprop all the time when using an ice axe
 <h2>PageTags</h2>

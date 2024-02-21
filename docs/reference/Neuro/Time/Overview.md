@@ -1,4 +1,4 @@
-::: details 🛠 DesignBox
+::: details 🛠 <dev>DesignBox</dev> 
 
 - ResearchModel_ModelDay_Chronology_5_SleepFinishTime_												
 - ResearchModel_ModelDay_Chronology_6_BlockApproachStartTime_												

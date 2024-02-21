@@ -1,15 +1,22 @@
-::: details 🛠 DesignBox
+::: details 🛠 <dev>DesignBox</dev> 
 
 <h2>PageTags</h2>
 
 - "Move.VegeMove.BranchArmDeflection"
+- "Move.VegeMove.BranchDeflection"
 
 :::
 
-# 🟠 <move>BranchArmDeflection</move>
+# 🟠 <move>VegeParry</move>
+
+> Use a VegeParry to redirect vegetation which is colliding with you.  
 
 
 ![MoveImage](/Move/MoveImage.png)
+
+## Usage
+
+When vegetation is blowing branches, grass and shrubs into you.
 
 ## Questions about the Element
 

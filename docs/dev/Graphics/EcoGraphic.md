@@ -1,4 +1,4 @@
-::: details 🛠 DesignBox 
+::: details 🛠 <dev>DesignBox</dev>  
 ![PaperPhoto](/PaperPhoto/0034.jpg)
 ![PaperPhoto](/PaperPhoto/0051.jpg)
 

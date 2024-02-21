@@ -1,4 +1,4 @@
-::: details 🛠 DesignBox
+::: details 🛠 <dev>DesignBox</dev> 
 
 <h2>PageTags</h2>
 
@@ -220,7 +220,7 @@ Plantbeta is divided into 6 sections:
 
 ## [How to Navigate this website.](/guide/How/Navigation)
 
-::: details 🛠 DesignBox
+::: details 🛠 <dev>DesignBox</dev> 
 
 
 

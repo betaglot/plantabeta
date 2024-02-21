@@ -1,4 +1,4 @@
-::: details 🛠 DesignBox
+::: details 🛠 <dev>DesignBox</dev> 
 <h2>PageTags</h2>
 
 - "Dev.Breadcrumb"
@@ -173,19 +173,19 @@ When is it useful for emojis to be monochrome outlines?
 ```
 
 
-## DesignBox
+## <dev>DesignBox</dev> 
 
 ```md
-::: details 🛠 DesignBox
+::: details 🛠 <dev>DesignBox</dev> 
 
 
 
 :::
 ```
-### DesignBox.Move
+### <dev>DesignBox</dev> .Move
 
 ```md
-::: details 🛠 DesignBox
+::: details 🛠 <dev>DesignBox</dev> 
 
 
 
@@ -195,10 +195,10 @@ When is it useful for emojis to be monochrome outlines?
 
 ```
 
-### DesignBox.Eco
+### <dev>DesignBox</dev> .Eco
 
 ```md
-::: details 🛠 DesignBox
+::: details 🛠 <dev>DesignBox</dev> 
 
 
 
@@ -208,10 +208,10 @@ When is it useful for emojis to be monochrome outlines?
 
 ```
 
-### DesignBox.Route
+### <dev>DesignBox</dev> .Route
 
 ```md
-::: details 🛠 DesignBox
+::: details 🛠 <dev>DesignBox</dev> 
 
 
 
@@ -221,10 +221,10 @@ When is it useful for emojis to be monochrome outlines?
 
 ```
 
-### DesignBox.Neuro
+### <dev>DesignBox</dev> .Neuro
 
 ```md
-::: details 🛠 DesignBox
+::: details 🛠 <dev>DesignBox</dev> 
 
 
 
@@ -233,10 +233,10 @@ When is it useful for emojis to be monochrome outlines?
 # 💜 <neuro>Neuro</neuro>
 ```
 
-### DesignBox.Beta
+### <dev>DesignBox</dev> .Beta
 
 ```md
-::: details 🛠 DesignBox
+::: details 🛠 <dev>DesignBox</dev> 
 
 
 

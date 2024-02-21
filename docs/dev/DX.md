@@ -1,4 +1,4 @@
-::: details 🛠 DesignBox
+::: details 🛠 <dev>DesignBox</dev> 
 
 <h2>PageTags</h2>
 
@@ -74,7 +74,7 @@ Homonyms = {
 
 0. SetUp Laptop with Plantbeta open on left half and the google doc open on the right. Record the audio with your phone being held up close to your mouth. 
 
-1. Look at the Page, Tags and the PaperPhotos in DesignBox. 
+1. Look at the Page, Tags and the PaperPhotos in <dev>DesignBox</dev> . 
     - Think of something to say for each header. Say the header that you're thinking about, eg. "Subelements", "Related Elements", "Element Properties", "Definition"...etc
     - Say period, new line, 
 
@@ -100,7 +100,7 @@ Homonyms = {
 6. Search for empty design box to find the next page to dictate (there's about 360 left to go, approx 60 hours or work)
 
 ```md
-::: details 🛠 DesignBox
+::: details 🛠 <dev>DesignBox</dev> 
 
 
 
@@ -155,7 +155,7 @@ for Paper in PaperPhotoList:
 
 ```md
 
-::: details 🛠 DesignBox
+::: details 🛠 <dev>DesignBox</dev> 
 
 
 

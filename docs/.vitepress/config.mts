@@ -44,39 +44,39 @@ export default defineConfig({
 // #Dev
 function sidebarDevelopment() {
   return [
-    { text: 'Dev Overview', link: '/dev/DevOverview' },
-    { text: 'Contact', link: '/dev/Contact' },
-    { text: 'Academia', link: '/dev/Academia' },
-    { text: 'Art', link: '/dev/art/Overview' },
-    { text: 'Data Visualization', link: '/dev/ElementsGraph' },
-    { text: 'Donate Media', link: '/dev/Donation' },
-    { text: 'Downloads', link: '/dev/Downloads' },
-    { text: 'DX', link: '/dev/DX' },
+    { text: '<dev>Dev Overview</dev>', link: '/dev/DevOverview' },
+    { text: '<dev>Contact</dev>', link: '/dev/Contact' },
+    { text: '<dev>Academia</dev>', link: '/dev/Academia' },
+    { text: '<dev>Art</dev>', link: '/dev/art/Overview' },
+    { text: '<dev>Data Visualization</dev>', link: '/dev/ElementsGraph' },
+    { text: '<dev>Donate Media</dev>', link: '/dev/Donation' },
+    { text: '<dev>Downloads</dev>', link: '/dev/Downloads' },
+    { text: '<dev>DX</dev>', link: '/dev/DX' },
     {
-      text: 'Graphics', collapsed: true, items: [
-        { text: 'Beta Graphics', link: '/dev/Graphics/BetaGraphic' },
-        { text: 'DX Graphics', link: '/dev/Graphics/BetaGraphic' },
-        { text: 'Eco Graphics', link: '/dev/Graphics/BetaGraphic' },
-        { text: 'Move Graphics', link: '/dev/Graphics/BetaGraphic' },
-        { text: 'Neuro Graphics', link: '/dev/Graphics/BetaGraphic' },
-        { text: 'Route Graphics', link: '/dev/Graphics/RouteGraphic' },
+      text: '<dev>Graphics</dev>', collapsed: true, items: [
+        { text: '<dev><beta>Beta Graphics</beta>', link: '/dev/Graphics/BetaGraphic' },
+        { text: '<eco>Eco Graphics</eco>', link: '/dev/Graphics/EcoGraphic' },
+        { text: '<move>Move Graphics</move>', link: '/dev/Graphics/MoveGraphic' },
+        { text: '<neuro>Neuro Graphics</neuro>', link: '/dev/Graphics/NeuroGraphic' },
+        { text: '<route>Route Graphics</route>', link: '/dev/Graphics/RouteGraphic' },
         { text: 'UX Graphics', link: '/dev/Graphics/UXGraphic' },
+        { text: '<dev>DX Graphics</dev>', link: '/dev/Graphics/DXGraphic' },
       ]
     },
-    { text: 'Offline', link: '/dev/Offline' },
-    { text: 'Open Source', link: '/dev/OpenSource' },
-    { text: 'PaperPhoto', link: '/dev/PaperPhoto' },
-    { text: 'PythonPlanter', link: '/dev/PythonPlanter' },
-    { text: 'Research Questions', link: '/dev/ResearchQuestions' },
-    { text: 'Roadmap', link: '/dev/Roadmap' },
-    { text: '🔷 Sequence', link: '/dev/Sequence' },
-    { text: 'Simulation', link: '/dev/Simulation' },
-    { text: 'SocialMedia', link: '/dev/SocialMedia' },
-    { text: 'StyleGuide', link: '/dev/StyleGuide' },
-    { text: 'Tagging', link: '/dev/Tagging' },
-    { text: 'Tools', link: '/dev/Tools' },
-    { text: 'UX', link: '/dev/UX' },
-    { text: 'AfternoonTask', link: '/dev/AfternoonTask' },
+    { text: '<dev>Offline</dev>', link: '/dev/Offline' },
+    { text: '<dev>Open Source</dev>', link: '/dev/OpenSource' },
+    { text: '<dev>PaperPhoto</dev>', link: '/dev/PaperPhoto' },
+    { text: '<dev>PythonPlanter</dev>', link: '/dev/PythonPlanter' },
+    { text: '<dev>Research Questions</dev>', link: '/dev/ResearchQuestions' },
+    { text: '<dev>Roadmap</dev>', link: '/dev/Roadmap' },
+    { text: '🔷 <dev>Sequence</dev>', link: '/dev/Sequence' },
+    { text: '<dev>Simulation</dev>', link: '/dev/Simulation' },
+    { text: '<dev>SocialMedia</dev>', link: '/dev/SocialMedia' },
+    { text: '<dev>StyleGuide</dev>', link: '/dev/StyleGuide' },
+    { text: '<dev>Tagging</dev>', link: '/dev/Tagging' },
+    { text: '<dev>Tools</dev>', link: '/dev/Tools' },
+    { text: '<dev>UX</dev>', link: '/dev/UX' },
+    { text: '<dev>AfternoonTask</dev>', link: '/dev/AfternoonTask' },
   ]
 }
 
@@ -99,20 +99,10 @@ function nav() {
       activeMatch: '/tutorials/'
     },
     {
-      text: 'Dev',
+      text: '🛠',
       link: 'dev/DevOverview',
       activeMatch: '/dev/'
-    },
-    // {
-    //   text: '🔷 Klimbeta',
-    //   link: 'https://klimbeta.github.io/klimbeta/',
-    // },
-
-    {
-      text: 'Deployed',
-      link: 'https://klimbeta.github.io/plantbeta/'
     }
-
   ]
 }
 

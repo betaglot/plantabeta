@@ -7,7 +7,7 @@ titleTemplate: Plantbeta
 hero: 
   name: Plantbeta
   text: 
-  tagline: You can Plant more Trees
+  tagline: Plant Trees More Efficiently! 
   image:
     src: /BetaLogo.png
     alt: BetaLogo
@@ -21,10 +21,11 @@ hero:
       link: /tutorials/TutorialsOverview
     - text: Develop
       link: /dev/DevOverview
-    # - text: Sponsor
-    #   link: /sponsor/Overview
 
 features:
+  - icon: 💵
+    title:  Plantbeta is a system that lets you work more quickly
+    details: You can learn to use Plantbeta and see almost immediate gains in productivity and lower maintenance costs.
   - icon: 🛠️
     title: Under Construction 
     details: Last Updated February 19, 2024. This website is a prototype, not the final product

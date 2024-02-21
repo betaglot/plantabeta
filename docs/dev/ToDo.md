@@ -6,7 +6,7 @@
 2. Copy all Tags from PagePathAndTags.json to each Page
     - Make a script which puts all the tags into code boxes which can be copied
 
-## Add PaperPhoto to DesignBox
+## Add PaperPhoto to <dev>DesignBox</dev> 
 
 1. <s>Make dict `PageNamespace: [TagName]`</s>
     
@@ -14,7 +14,7 @@
    
 3. Make a dict `PageNamespace: [PaperPhoto]`
 
-## Add PaperText to DesignBox
+## Add PaperText to <dev>DesignBox</dev> 
 
 ## Get Assistant for $20/hour
 - Dictation

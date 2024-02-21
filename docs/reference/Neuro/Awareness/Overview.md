@@ -1,4 +1,4 @@
-::: details 🛠 DesignBox
+::: details 🛠 <dev>DesignBox</dev> 
 
 - SelfAwareness
     - Stephen Fleming [Know Thyself](https://metacoglab.org/people)

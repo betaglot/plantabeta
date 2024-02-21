@@ -1,4 +1,4 @@
-::: details 🛠 DesignBox
+::: details 🛠 <dev>DesignBox</dev> 
 
 ![PaperPhoto](/PaperPhoto/0017.jpg)
 
@@ -7,14 +7,46 @@
 
 # 🔷 Sequence
 
+Sequences are represented as 
+- Cards
+- Python List
+- Python Loop
+- 
+
+
+
 ```py
 Sequence[]
 ```
 
 
+## Card Sequence
 
+Deck of cards
+
+Sequence of MOvementCards
+
+MoveCard
+
+ElementCard
+
+### CardCollection
+
+Group of Cards
+
+### CardCurve
+
+A Vuetify Component
+
+MoveCards are positioned along a RouteCurve 
+
+### CardShape
+
+MoveCards are positioned in a FillChart
 
 ## Rhythm
+
+<iframe width="600" height="420" src="https://www.youtube.com/embed/2UphAzryVpY" title="A different way to visualize rhythm - John Varney" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ## Timing
 

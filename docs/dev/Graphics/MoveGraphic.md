@@ -1,4 +1,4 @@
-::: details 🛠 DesignBox 
+::: details 🛠 <dev>DesignBox</dev>  
 ![PaperPhoto](/PaperPhoto/0031.jpg)
 ![PaperPhoto](/PaperPhoto/0032.jpg)
 ![PaperPhoto](/PaperPhoto/0035.jpg)
@@ -23,7 +23,11 @@
 - "Move.PlanterDiagram.LevelOfDetail"
 :::
 
-# 🛠 Move Graphics
+# 🛠 🟠 <move>Move Graphics</move>
 
-
+## 🟠 <move>MoveCard</move>
 Mirror images for ambidextrous planter
+
+## 🟠 <move>MoveTimeline</move>
+
+## 🟠 <move>MoveTree</move>

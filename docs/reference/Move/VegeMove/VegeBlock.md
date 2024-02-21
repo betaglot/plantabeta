@@ -1,15 +1,25 @@
-::: details 🛠 DesignBox
+::: details 🛠 <dev>DesignBox</dev> 
+
+- Push through like a CarWash with the tentacles
 
 <h2>PageTags</h2>
 
-- "Move.VegeMove.BranchWhip"
+
 
 :::
 
-# 🟠 <move>BranchWhip</move>
+# 🟠 <move>VegeBlock</move>
 
+> Protecting yourself from Vege as it collides into you or as it drags along you as you push through it 
 
-![MoveImage](/Move/MoveImage.png)
+<div style="display: flex; width: %100; margin-top: 50px;">
+    <div style="margin: 5px; width: 50%">
+        <img height="350" width="350" src="/Move/BranchDeflection.png"/>
+    </div>
+    <div style="margin: 5px; width: 50%">
+        <p >Description of Move. How the movement got its name. The purpose of the movement. Common misconceptions about the movement. How to differentiate this movement from another similar movement</p>
+    </div>
+</div>
 
 ## Questions about the Element
 

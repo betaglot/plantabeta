@@ -1,4 +1,4 @@
-::: details 🛠 DesignBox
+::: details 🛠 <dev>DesignBox</dev> 
 
 - AlsoKnownAs(SpadeThrow)
 WWE Slam move

@@ -1,4 +1,4 @@
-::: details 🛠 DesignBox
+::: details 🛠 <dev>DesignBox</dev> 
 
 - AlsoKnownAs(SpadeProp)
 <h2>PageTags</h2>
