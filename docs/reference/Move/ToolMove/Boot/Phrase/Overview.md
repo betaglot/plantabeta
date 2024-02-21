@@ -4,4 +4,4 @@
 
 :::
 
-# 🟠 <move>Bundle Phrase</move>
+# 🔷 <move>Boot Phrase</move>

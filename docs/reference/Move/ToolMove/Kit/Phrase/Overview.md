@@ -4,4 +4,4 @@
 
 :::
 
-# 🟠 <move>Boot Phrase</move>
+# 🔷 <move>Kit Phrase</move>

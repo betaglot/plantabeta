@@ -4,7 +4,7 @@
 
 :::
 
-# 🟠 <move>KitMove</move>
+# 🟠 <move>Kit Overview</move>
 
 AlsoKnownAs(CacheBag)
 ## Definition(Kit)

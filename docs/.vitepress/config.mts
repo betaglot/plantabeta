@@ -158,9 +158,7 @@ function sidebarReference() {
         { text: '🔷 <beta>BetaDiagram</beta>', link: '/reference/Beta/BetaDiagram' },
         {
           text: '🔷 <beta>BetaScript</beta>', collapsed: true, items: [
-            { text: '🔷 <beta>BetaScript</beta>', link: '/reference/Beta/BetaScript' },
-            { text: '🔷 <beta>BetaScript</beta>', link: '/reference/Beta/BetaScript' },
-            { text: '🔷 <beta>BetaScript</beta>', link: '/reference/Beta/BetaScript' },
+            { text: '🔷 <beta>Overview</beta>', link: '/reference/Beta/BetaScript/Overview' },
           ]
         },
         {
@@ -293,7 +291,7 @@ function sidebarReference() {
     {
       text: '🟠 <move>Move</move>', collapsed: true, items: [
         { text: '🟠 <move>Move Overview</move>', link: '/reference/Move/MoveOverview' },
-        { text: '🔷 <move>Move Phrase</move>', link: '/reference/Move/MoveOverview' },
+        { text: '🔷 <move>Move Phrase</move>', link: '/reference/Move/MovePhrase/Overview' },
         { text: '🔷 <move>Move Difficulty</move>', link: '/reference/Move/MoveDifficulty' },
         {
           text: '🟠 <move>MoveGeometry</move>', collapsed: true, items: [
@@ -307,7 +305,7 @@ function sidebarReference() {
         {
           text: '🟠 <move>ArmMove</move>', collapsed: true, items: [
             { text: '🟠 <move>ArmMove Overview</move>', link: '/reference/Move/ArmMove/Overview' },
-            { text: '🔷 <move>Arm Phrase</move>', link: '/reference/Move/ArmMove/ArmPhrase' },
+            { text: '🔷 <move>Arm Phrase</move>', link: '/reference/Move/ArmMove/Phrase/Overview' },
             { text: '🟠 <move>ArmBlock</move>', link: '/reference/Move/ArmMove/ArmBlock' },
             { text: '🟠 <move>ArmProp</move>', link: '/reference/Move/ArmMove/ArmProp' },
             { text: '🟠 <move>ArmSwing</move>', link: '/reference/Move/ArmMove/ArmSwing' },
@@ -318,7 +316,7 @@ function sidebarReference() {
         {
           text: '🟠 <move>BodyMove</move>', collapsed: true, items: [
             { text: '🟠 <move>BodyMove Overview</move>', link: '/reference/Move/BodyMove/Overview' },
-            { text: '🔷 <move>Body Phrase</move>', link: '/reference/Move/BodyMove/BodyPhrase' },
+            { text: '🔷 <move>Body Phrase</move>', link: '/reference/Move/BodyMove/Phrase/Overview' },
             { text: '🟠 <move>BodyAbsorb</move>', link: '/reference/Move/BodyMove/BodyAbsorb' },
             { text: '🟠 <move>BodyBend</move>', link: '/reference/Move/BodyMove/BodyBend' },
             { text: '🟠 <move>BodyLean</move>', link: '/reference/Move/BodyMove/BodyLean' },
@@ -331,7 +329,7 @@ function sidebarReference() {
         {
           text: '🟠 <move>CacheMove</move>', collapsed: true, items: [
             { text: '🟠 <move>CacheMove Overview</move>', link: '/reference/Move/CacheMove/Overview' },
-            { text: '🔷 <move>Cache Phrase</move>', link: '/reference/Move/CacheMove/CachePhrase' },
+            { text: '🔷 <move>Cache Phrase</move>', link: '/reference/Move/CacheMove/Phrase/Overview' },
             { text: '🟠 <move>Eating</move>', link: '/reference/Move/CacheMove/Eating' },
             { text: '🟠 <move>TarpOff</move>', link: '/reference/Move/CacheMove/TarpOff' },
             { text: '🟠 <move>TarpOn</move>', link: '/reference/Move/CacheMove/TarpOn' },
@@ -340,7 +338,7 @@ function sidebarReference() {
         {
           text: '🟠 <move>ClothingMove</move>', collapsed: true, items: [
             { text: '🟠 <move>ClothingMove Overview</move>', link: '/reference/Move/ClothingMove/Overview' },
-            { text: '🔷 <move>Clothing Phrase</move>', link: '/reference/Move/ClothingMove/ClothingPhrase' },
+            { text: '🔷 <move>Clothing Phrase</move>', link: '/reference/Move/ClothingMove/Phrase/Overview' },
             { text: '🟠 <move>Button</move>', link: '/reference/Move/ClothingMove/Button' },
             { text: '🟠 <move>ClothingLayer</move>', link: '/reference/Move/ClothingMove/ClothingLayer' },
             { text: '🟠 <move>RemoveMud</move>', link: '/reference/Move/ClothingMove/RemoveMud' },
@@ -351,7 +349,7 @@ function sidebarReference() {
         {
           text: '🟠 <move>FootMove</move>', collapsed: true, items: [
             { text: '🟠 <move>FootMove Overview</move>', link: '/reference/Move/FootMove/Overview' },
-            { text: '🔷 <move>Foot Phrase</move>', link: '/reference/Move/FootMove/FootPhrase' },
+            { text: '🔷 <move>Foot Phrase</move>', link: '/reference/Move/FootMove/Phrase/Overview' },
             { text: '🟠 <move>FootArchSmear</move>', link: '/reference/Move/FootMove/FootArchSmear' },
             { text: '🟠 <move>FootClose</move>', link: '/reference/Move/FootMove/FootClose' },
             { text: '🟠 <move>FootDig</move>', link: '/reference/Move/FootMove/FootDig' },
@@ -366,7 +364,7 @@ function sidebarReference() {
         {
           text: '🟠 <move>HandMove</move>', collapsed: true, items: [
             { text: '🟠 <move>HandMove Overview</move>', link: '/reference/Move/HandMove/Overview' },
-            { text: '🔷 <move>Hand Phrase</move>', link: '/reference/Move/HandMove/HandPhrase' },
+            { text: '🔷 <move>Hand Phrase</move>', link: '/reference/Move/HandMove/Phrase/Overview' },
             { text: '🟠 <move>BagGrip</move>', link: '/reference/Move/HandMove/BagGrip' },
             { text: '🟠 <move>BoxGrip</move>', link: '/reference/Move/HandMove/BoxGrip' },
             { text: '🟠 <move>BranchGrip</move>', link: '/reference/Move/HandMove/BranchGrip' },
@@ -384,7 +382,7 @@ function sidebarReference() {
         {
           text: '🟠 <move>HeadMove</move>', collapsed: true, items: [
             { text: '🟠 <move>HeadMove Overview</move>', link: '/reference/Move/HeadMove/Overview' },
-            { text: '🔷 <move>Head Phrase</move>', link: '/reference/Move/HeadMove/HeadPhrase' },
+            { text: '🔷 <move>Head Phrase</move>', link: '/reference/Move/HeadMove/Phrase/Overview' },
             { text: '🟠 <move>FocusLook</move>', link: '/reference/Move/HeadMove/FocusLook' },
             { text: '🟠 <move>HeadProtraction</move>', link: '/reference/Move/HeadMove/HeadProtraction' },
             { text: '🟠 <move>HeadRetraction</move>', link: '/reference/Move/HeadMove/HeadRetraction' },
@@ -397,7 +395,7 @@ function sidebarReference() {
         {
           text: '🟠 <move>HoleMove</move>', collapsed: true, items: [
             { text: '🟠 <move>HoleMove Overview</move>', link: '/reference/Move/HoleMove/Overview' },
-            { text: '🔷 <move>Hole Phrase</move>', link: '/reference/Move/HoleMove/HolePhrase' },
+            { text: '🔷 <move>Hole Phrase</move>', link: '/reference/Move/HoleMove/Phrase/Overview' },
             { text: '🟠 <move>HoleClose</move>', link: '/reference/Move/HoleMove/HoleClose' },
             { text: '🟠 <move>HoleExpand</move>', link: '/reference/Move/HoleMove/HoleExpand' },
             { text: '🟠 <move>HoleOpen</move>', link: '/reference/Move/HoleMove/HoleOpen' },
@@ -406,7 +404,7 @@ function sidebarReference() {
         {
           text: '🟠 <move>LegMove</move>', collapsed: true, items: [
             { text: '🟠 <move>LegMove Overview</move>', link: '/reference/Move/LegMove/Overview' },
-            { text: '🔷 <move>Leg Phrase</move>', link: '/reference/Move/LegMove/LegPhrase' },
+            { text: '🔷 <move>Leg Phrase</move>', link: '/reference/Move/LegMove/Phrase/Overview' },
             { text: '🟠 <move>Crouch</move>', link: '/reference/Move/LegMove/Overview' },
             { text: '🟠 <move>Jump</move>', link: '/reference/Move/LegMove/Jump' },
             { text: '🟠 <move>Kneel</move>', link: '/reference/Move/LegMove/Kneel' },
@@ -451,7 +449,7 @@ function sidebarReference() {
               text: '🟠 <move>Bag</move>', collapsed: true, items: [
                 { text: '🟠 <move>Overview</move>', link: '/reference/Move/ToolMove/Bag/Overview' },
                 { text: '🟠 <move>BagGrip</move>', link: '/reference/Move/ToolMove/Bag/BagGrip' },
-                { text: '🔷 <move>Bag Phrase</move>', link: '/reference/Move/ToolMove/Bag/BagPhrase' },
+                { text: '🔷 <move>Bag Phrase</move>', link: '/reference/Move/ToolMove/Bag/Phrase/Overview' },
                 { text: '🟠 <move>BagAdjustment</move>', link: '/reference/Move/ToolMove/Bag/BagAdjustment' },
                 { text: '🟠 <move>BagDeadlift</move>', link: '/reference/Move/ToolMove/Bag/BagDeadlift' },
                 { text: '🟠 <move>BagEmpty</move>', link: '/reference/Move/ToolMove/Bag/BagEmpty' },
@@ -464,7 +462,7 @@ function sidebarReference() {
             {
               text: '🟠 <move>Boot</move>', collapsed: true, items: [
                 { text: '🟠 <move>Overview</move>', link: '/reference/Move/ToolMove/Boot/Overview' },
-                { text: '🔷 <move>Boot Phrase</move>', link: '/reference/Move/ToolMove/Boot/BootPhrase' },
+                { text: '🔷 <move>Boot Phrase</move>', link: '/reference/Move/ToolMove/Boot/Phrase/Overview' },
                 { text: '🟠 <move>BootGrip</move>', link: '/reference/Move/ToolMove/Boot/BootGrip' },
                 { text: '🟠 <move>BootScreef</move>', link: '/reference/Move/ToolMove/Boot/BootScreef' },
                 { text: '🟠 <move>LaceKnot</move>', link: '/reference/Move/ToolMove/Boot/LaceKnot' },
@@ -473,14 +471,14 @@ function sidebarReference() {
             {
               text: '🟠 <move>Box</move>', collapsed: true, items: [
                 { text: '🟠 <move>Overview</move>', link: '/reference/Move/ToolMove/Box/Overview' },
-                { text: '🔷 <move>Box Phrase</move>', link: '/reference/Move/ToolMove/Box/BoxPhrase' },
+                { text: '🔷 <move>Box Phrase</move>', link: '/reference/Move/ToolMove/Box/Phrase/Overview' },
                 { text: '🟠 <move>BoxGrip</move>', link: '/reference/Move/ToolMove/Box/BoxGrip' },
               ]
             },
             {
               text: '🟠 <move>Bundle</move>', collapsed: true, items: [
                 { text: '🟠 <move>Overview</move>', link: '/reference/Move/ToolMove/Bundle/Overview' },
-                { text: '🔷 <move>Bundle Phrase</move>', link: '/reference/Move/ToolMove/Bundle/BundlePhrase' },
+                { text: '🔷 <move>Bundle Phrase</move>', link: '/reference/Move/ToolMove/Bundle/Phrase/Overview' },
                 { text: '🟠 <move>BundleGrip</move>', link: '/reference/Move/ToolMove/Bundle/BundleGrip' },
                 { text: '🟠 <move>BundlePeel</move>', link: '/reference/Move/ToolMove/Bundle/BundlePeel' },
               ]
@@ -493,7 +491,7 @@ function sidebarReference() {
             {
               text: '🟠 <move>Flag</move>', collapsed: true, items: [
                 { text: '🟠 <move>Overview</move>', link: '/reference/Move/ToolMove/Flag/Overview' },
-                { text: '🔷 <move>Flag Phrase</move>', link: '/reference/Move/ToolMove/Flag/FlagPhrase' },
+                { text: '🔷 <move>Flag Phrase</move>', link: '/reference/Move/ToolMove/Flag/Phrase/Overview' },
                 { text: '🟠 <move>FlagGrip</move>', link: '/reference/Move/ToolMove/Flag/FlagGrip' },
                 { text: '🟠 <move>FlagErrorRecovery</move>', link: '/reference/Move/ToolMove/Flag/FlagErrorRecovery' },
                 { text: '🟠 <move>FlagGet</move>', link: '/reference/Move/ToolMove/Flag/FlagLoad' },
@@ -506,7 +504,7 @@ function sidebarReference() {
               text: '🟠 <move>Gaiter</move>', collapsed: true, items: [
 
                 { text: '🟠 <move>Overview</move>', link: '/reference/Move/ToolMove/Gaiter/Overview' },
-                { text: '🔷 <move>Gaiter Phrase</move>', link: '/reference/Move/ToolMove/Gaiter/GaiterPhrase' },
+                { text: '🔷 <move>Gaiter Phrase</move>', link: '/reference/Move/ToolMove/Gaiter/Phrase/Overview' },
                 { text: '🟠 <move>GaiterGrip</move>', link: '/reference/Move/ToolMove/Gaiter/GaiterGrip' },
                 { text: '🟠 <move>GaiterOn</move>', link: '/reference/Move/ToolMove/Gaiter/GaiterOn' },
                 { text: '🟠 <move>GaiterOff</move>', link: '/reference/Move/ToolMove/Gaiter/GaiterOff' },
@@ -515,7 +513,7 @@ function sidebarReference() {
             {
               text: '🟠 <move>Glove</move>', collapsed: true, items: [
                 { text: '🟠 <move>Overview</move>', link: '/reference/Move/ToolMove/Glove/Overview' },
-                { text: '🔷 <move>Glove Phrase</move>', link: '/reference/Move/ToolMove/Glove/GlovePhrase' },
+                { text: '🔷 <move>Glove Phrase</move>', link: '/reference/Move/ToolMove/Glove/Phrase/Overview' },
                 { text: '🟠 <move>GloveGrip</move>', link: '/reference/Move/ToolMove/Glove/GloveGrip' },
               ]
             },
@@ -532,7 +530,7 @@ function sidebarReference() {
             {
               text: '🟠 <move>Spade</move>', collapsed: true, items: [
                 { text: '🟠 <move>Overview</move>', link: '/reference/Move/ToolMove/Spade/Overview' },
-                { text: '🔷 <move>Spade Phrase</move>', link: '/reference/Move/ToolMove/Spade/SpadePhrase' },
+                { text: '🔷 <move>Spade Phrase</move>', link: '/reference/Move/ToolMove/Spade/Phrase/Overview' },
                 { text: '🟠 <move>SpadeGrip</move>', link: '/reference/Move/ToolMove/Spade/SpadeGrip' },
                 { text: '🟠 <move>SpadeChop</move>', link: '/reference/Move/ToolMove/Spade/SpadeChop' },
                 { text: '🟠 <move>SpadePogo</move>', link: '/reference/Move/ToolMove/Spade/SpadePogo' },
@@ -547,7 +545,7 @@ function sidebarReference() {
         {
           text: '🟠 <move>Truck</move>', collapsed: true, items: [
             { text: '🟠 <move>Overview</move>', link: '/reference/Move/TruckMove/Overview' },
-            { text: '🔷 <move>Truck Phrase</move>', link: '/reference/Move/TruckMove/TruckPhrase' },
+            { text: '🔷 <move>Truck Phrase</move>', link: '/reference/Move/TruckMove/Phrase/Overview' },
             { text: '🟠 <move>Sleep</move>', link: '/reference/Move/TruckMove/Sleep' },
             { text: '🟠 <move>Sit</move>', link: '/reference/Move/TruckMove/Sit' },
           ]

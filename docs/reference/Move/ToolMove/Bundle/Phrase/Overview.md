@@ -4,10 +4,4 @@
 
 :::
 
-# 🔷 <move>Bag Phrase</move>
-
-## BagFill
-
-
-
-
+# 🔷 <move>Bundle Phrase</move>

@@ -4,4 +4,4 @@
 
 :::
 
-# 🟠 <move>GlovePhrase</move>
+# 🔷 <move>Vege Phrase</move>
