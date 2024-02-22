@@ -11,6 +11,9 @@
 - "Guide.What.WhatPlantbeta.Product"
 - "Guide.What.WhatPlantbeta.Service"
 
+
+## You can plant trees without Beta. Plantbeta isn't required to plant.
+
 :::
 
 # <eco>Meet Plantbeta</eco>

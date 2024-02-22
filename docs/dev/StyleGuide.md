@@ -28,6 +28,16 @@
 
 https://developers.google.com/style
 
+
+## Be Canadian
+
+- Hockey
+- Kindness
+    - "the quality of being generous, helpful, and caring about other people"
+- Lacrosse
+- Freestyle Skiing
+- Alpinism
+
 ## Polysemy
 
 ::: warning 

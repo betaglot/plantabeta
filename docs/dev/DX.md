@@ -190,3 +190,40 @@ Just get as much information out of your head and into data structures, so that 
 
 <move>Keep going!!!</move>
 
+
+
+## Influencers
+
+### Claude Shannon
+- Prediction
+- Translating Abstract to Concrete
+    - Boolean to Bit
+    - Python to Plantbeta
+
+
+There shouldn't be beta and plantbeta, because they a supposed to be the name of the language used by planters. Forget "Beta" make up your own name
+
+Plantbeta is the language and the 
+
+Beta represents movement, but Move is the move itself. Move doesn't care about how it's being represented.
+
+### Sherlock Holmes
+- Prediction
+
+### Alan Turing
+- Computation
+
+### Andrew Huberman
+
+- Growth Mindset
+
+#### Andy Galpin
+
+#### Alia Crum
+
+#### 
+
+
+### Bauhaus
+
+- Bauhaus Manifesto

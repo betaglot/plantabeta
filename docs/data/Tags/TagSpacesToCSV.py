@@ -1,4 +1,4 @@
-[
+json = [
     {
         "name": "0010.jpg",
         "tags": [
@@ -22510,3 +22510,12 @@
         ]
     }
 ]
+
+
+
+# 
+# Convert JSON in CSV PhotoFile,TagName
+
+for item in json:
+    for tag in item["tags"]:
+        print(f"{item['name']}, {tag['title']},")

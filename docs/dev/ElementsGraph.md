@@ -148,7 +148,7 @@ Removes Value Addition // [!code --]
 - Number
     - Density
     - TreeCount
-    - RoutePhraseNumber
+    - RouteSequenceNumber
     - MovePhraseNumber
     - StepCount
 - Location
@@ -158,7 +158,7 @@ Removes Value Addition // [!code --]
 - Array
     - MovePhrase
     - Set of Submoves
-    - RoutePhrase
+    - RouteSequence
 
 ### Outcome > Output
 

@@ -78,7 +78,7 @@
 - PlantingProcess_Replant_MissedLand_TreeFlag												
 - PlantingProcess_Replant_MissedMicrosite_TreeFlag			
 
-> Optimal routeline has zero displacement from route start to route fish, both are at the cache
+> Optimal routeline has zero displacement from route start to route finish, both are at the cache
 
 :::
 

@@ -1,6 +1,15 @@
 ::: details 🛠 <dev>DesignBox</dev> 
 
 
+Plantbeta is the website
+
+You don't need to communicate Beta all the time, but when you do, Plantbeta helps you to communicate it.
+
+Beta is the syntax
+
+Moves are the objects and functions
+
+BetaScript can be used in Planting and Climbing, on Plantbeta.com and Klimbeta.com
 
 :::
 

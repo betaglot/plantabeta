@@ -291,8 +291,8 @@ function sidebarReference() {
     {
       text: '🟠 <move>Move</move>', collapsed: true, items: [
         { text: '🟠 <move>Move Overview</move>', link: '/reference/Move/MoveOverview' },
-        { text: '🔷 <move>Move Phrase</move>', link: '/reference/Move/MovePhrase/Overview' },
-        { text: '🔷 <move>Move Difficulty</move>', link: '/reference/Move/MoveDifficulty' },
+        { text: '🟠 <move>Move Phrase</move>', link: '/reference/Move/MovePhrase/Overview' },
+        { text: '🟠 <move>Move Difficulty</move>', link: '/reference/Move/MoveDifficulty' },
         {
           text: '🟠 <move>MoveGeometry</move>', collapsed: true, items: [
             { text: '🟠 <move>Overview</move>', link: '/reference/Move/MoveGeometry/Overview' },
@@ -305,7 +305,7 @@ function sidebarReference() {
         {
           text: '🟠 <move>ArmMove</move>', collapsed: true, items: [
             { text: '🟠 <move>ArmMove Overview</move>', link: '/reference/Move/ArmMove/Overview' },
-            { text: '🔷 <move>Arm Phrase</move>', link: '/reference/Move/ArmMove/Phrase/Overview' },
+            { text: '🟠 <move>Arm Phrase</move>', link: '/reference/Move/ArmMove/Phrase/Overview' },
             { text: '🟠 <move>ArmBlock</move>', link: '/reference/Move/ArmMove/ArmBlock' },
             { text: '🟠 <move>ArmProp</move>', link: '/reference/Move/ArmMove/ArmProp' },
             { text: '🟠 <move>ArmSwing</move>', link: '/reference/Move/ArmMove/ArmSwing' },
@@ -316,7 +316,7 @@ function sidebarReference() {
         {
           text: '🟠 <move>BodyMove</move>', collapsed: true, items: [
             { text: '🟠 <move>BodyMove Overview</move>', link: '/reference/Move/BodyMove/Overview' },
-            { text: '🔷 <move>Body Phrase</move>', link: '/reference/Move/BodyMove/Phrase/Overview' },
+            { text: '🟠 <move>Body Phrase</move>', link: '/reference/Move/BodyMove/Phrase/Overview' },
             { text: '🟠 <move>BodyAbsorb</move>', link: '/reference/Move/BodyMove/BodyAbsorb' },
             { text: '🟠 <move>BodyBend</move>', link: '/reference/Move/BodyMove/BodyBend' },
             { text: '🟠 <move>BodyLean</move>', link: '/reference/Move/BodyMove/BodyLean' },
@@ -329,7 +329,7 @@ function sidebarReference() {
         {
           text: '🟠 <move>CacheMove</move>', collapsed: true, items: [
             { text: '🟠 <move>CacheMove Overview</move>', link: '/reference/Move/CacheMove/Overview' },
-            { text: '🔷 <move>Cache Phrase</move>', link: '/reference/Move/CacheMove/Phrase/Overview' },
+            { text: '🟠 <move>Cache Phrase</move>', link: '/reference/Move/CacheMove/Phrase/Overview' },
             { text: '🟠 <move>Eating</move>', link: '/reference/Move/CacheMove/Eating' },
             { text: '🟠 <move>TarpOff</move>', link: '/reference/Move/CacheMove/TarpOff' },
             { text: '🟠 <move>TarpOn</move>', link: '/reference/Move/CacheMove/TarpOn' },
@@ -338,7 +338,7 @@ function sidebarReference() {
         {
           text: '🟠 <move>ClothingMove</move>', collapsed: true, items: [
             { text: '🟠 <move>ClothingMove Overview</move>', link: '/reference/Move/ClothingMove/Overview' },
-            { text: '🔷 <move>Clothing Phrase</move>', link: '/reference/Move/ClothingMove/Phrase/Overview' },
+            { text: '🟠 <move>Clothing Phrase</move>', link: '/reference/Move/ClothingMove/Phrase/Overview' },
             { text: '🟠 <move>Button</move>', link: '/reference/Move/ClothingMove/Button' },
             { text: '🟠 <move>ClothingLayer</move>', link: '/reference/Move/ClothingMove/ClothingLayer' },
             { text: '🟠 <move>RemoveMud</move>', link: '/reference/Move/ClothingMove/RemoveMud' },
@@ -349,7 +349,7 @@ function sidebarReference() {
         {
           text: '🟠 <move>FootMove</move>', collapsed: true, items: [
             { text: '🟠 <move>FootMove Overview</move>', link: '/reference/Move/FootMove/Overview' },
-            { text: '🔷 <move>Foot Phrase</move>', link: '/reference/Move/FootMove/Phrase/Overview' },
+            { text: '🟠 <move>Foot Phrase</move>', link: '/reference/Move/FootMove/Phrase/Overview' },
             { text: '🟠 <move>FootArchSmear</move>', link: '/reference/Move/FootMove/FootArchSmear' },
             { text: '🟠 <move>FootClose</move>', link: '/reference/Move/FootMove/FootClose' },
             { text: '🟠 <move>FootDig</move>', link: '/reference/Move/FootMove/FootDig' },
@@ -364,7 +364,7 @@ function sidebarReference() {
         {
           text: '🟠 <move>HandMove</move>', collapsed: true, items: [
             { text: '🟠 <move>HandMove Overview</move>', link: '/reference/Move/HandMove/Overview' },
-            { text: '🔷 <move>Hand Phrase</move>', link: '/reference/Move/HandMove/Phrase/Overview' },
+            { text: '🟠 <move>Hand Phrase</move>', link: '/reference/Move/HandMove/Phrase/Overview' },
             { text: '🟠 <move>BagGrip</move>', link: '/reference/Move/HandMove/BagGrip' },
             { text: '🟠 <move>BoxGrip</move>', link: '/reference/Move/HandMove/BoxGrip' },
             { text: '🟠 <move>BranchGrip</move>', link: '/reference/Move/HandMove/BranchGrip' },
@@ -382,7 +382,7 @@ function sidebarReference() {
         {
           text: '🟠 <move>HeadMove</move>', collapsed: true, items: [
             { text: '🟠 <move>HeadMove Overview</move>', link: '/reference/Move/HeadMove/Overview' },
-            { text: '🔷 <move>Head Phrase</move>', link: '/reference/Move/HeadMove/Phrase/Overview' },
+            { text: '🟠 <move>Head Phrase</move>', link: '/reference/Move/HeadMove/Phrase/Overview' },
             { text: '🟠 <move>FocusLook</move>', link: '/reference/Move/HeadMove/FocusLook' },
             { text: '🟠 <move>HeadProtraction</move>', link: '/reference/Move/HeadMove/HeadProtraction' },
             { text: '🟠 <move>HeadRetraction</move>', link: '/reference/Move/HeadMove/HeadRetraction' },
@@ -395,7 +395,7 @@ function sidebarReference() {
         {
           text: '🟠 <move>HoleMove</move>', collapsed: true, items: [
             { text: '🟠 <move>HoleMove Overview</move>', link: '/reference/Move/HoleMove/Overview' },
-            { text: '🔷 <move>Hole Phrase</move>', link: '/reference/Move/HoleMove/Phrase/Overview' },
+            { text: '🟠 <move>Hole Phrase</move>', link: '/reference/Move/HoleMove/Phrase/Overview' },
             { text: '🟠 <move>HoleClose</move>', link: '/reference/Move/HoleMove/HoleClose' },
             { text: '🟠 <move>HoleExpand</move>', link: '/reference/Move/HoleMove/HoleExpand' },
             { text: '🟠 <move>HoleOpen</move>', link: '/reference/Move/HoleMove/HoleOpen' },
@@ -404,7 +404,7 @@ function sidebarReference() {
         {
           text: '🟠 <move>LegMove</move>', collapsed: true, items: [
             { text: '🟠 <move>LegMove Overview</move>', link: '/reference/Move/LegMove/Overview' },
-            { text: '🔷 <move>Leg Phrase</move>', link: '/reference/Move/LegMove/Phrase/Overview' },
+            { text: '🟠 <move>Leg Phrase</move>', link: '/reference/Move/LegMove/Phrase/Overview' },
             { text: '🟠 <move>Crouch</move>', link: '/reference/Move/LegMove/Overview' },
             { text: '🟠 <move>Jump</move>', link: '/reference/Move/LegMove/Jump' },
             { text: '🟠 <move>Kneel</move>', link: '/reference/Move/LegMove/Kneel' },
@@ -558,7 +558,6 @@ function sidebarReference() {
     {
       text: '💜 <neuro>Neuro</neuro>', collapsed: true, items: [
         { text: '💜 <neuro>Neuro Overview</neuro>', link: '/reference/Neuro/NeuroOverview' },
-        { text: '🔷 <neuro>Neuro Phrase</neuro>', link: '/reference/Neuro/NeuroPhrase/Overview' },
         { text: '🔷 <neuro>Neuro Difficulty</neuro>', link: '/reference/Neuro/NeuroDifficulty' },
         {
           text: '💜 <neuro>Arousal</neuro>', collapsed: true, items: [
@@ -679,7 +678,7 @@ function sidebarReference() {
     {
       text: '🔺 <route>Route</route>', collapsed: true, items: [
         { text: '🔺 <route>Route Overview</route>', link: '/reference/Route/RouteOverview' },
-        { text: '🔷 <route>Route Phrase</route>', link: '/reference/Route/RoutePhrase/Overview' },
+        { text: '🔷 <route>Route Phrase</route>', link: '/reference/Route/RouteSequence/Overview' },
         { text: '🔷 <route>Route Difficulty</route>', link: '/reference/Route/RouteDifficulty' },
         {
           text: '🔺 <route>Fill Algorithms</route>', collapsed: true, items: [

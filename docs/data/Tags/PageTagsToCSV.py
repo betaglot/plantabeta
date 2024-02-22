@@ -1,4 +1,4 @@
-tags = {
+json = {
     "Beta/BetaAction.md": [
         "Beta.BetaAction.AskBeta",
         "Beta.BetaAction.ChunkBeta.BetaChunk",
@@ -832,7 +832,7 @@ tags = {
         "Move.BodyMove.SpineExtension"
     ],
     "Move/BodyMove/Stand.md": [
-        "Move.BodyMove.Stand",
+        "Move.BodyMove.Stand"
     ],
     "Move/BodyMove/StandUp.md": [
         "Move.BodyMove.StandUp"
@@ -1949,23 +1949,6 @@ tags = {
 }
 
 
-# for i in tags:
-#     print(i)
-#     print("```json")
-#     for x in tags.values():
-#         print(f"{tags[x]}\n")
-#     print("```")
-
-for x, y in tags.items():
-    print(f"### {x}")
-    print("```md")
-    print("<h2>PageTags</h2>")
-    print()
-    for i in y:
-        print(f"- \"{i}\"")
-    print()
-    print()
-    print()
-    print("```")
-    print()
-    print()
+for path, tags in json.items():
+    for tag in tags:
+        print(f"{path}, {tag},")

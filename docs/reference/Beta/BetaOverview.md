@@ -16,13 +16,20 @@
 - "Beta.BetaProperties.SubsystemCount"
 - "Beta.BetaQuestion"
 - "Beta.Overview"
+
+There are no units of Beta, except for Tokens
+
+
+Token, Block, Module
 :::
 
 # 🔷 <beta>What is Beta?</beta> 🔷
 
+> Beta is the **information** that you use to perform planting tasks.
+
 ![BetaLogo](/BetaLogo.png)
 
-Beta is information that you use to perform planting tasks.
+
 
 Beta emerges from the interactions between Eco, Move, Route and Neuro.
 
@@ -32,7 +39,7 @@ Betamax was a piece of hardware (similar to a VHS tape or cassete) which was use
 
 - If you're a climber, then you're likely familiar with the term "beta"
 
-> In climbing _beta_ is the information about the _movements_, _Phrases_, and _holds_ of a climb. If someone asks you for a climb's beta, then they want to know how you climbed it.
+> In climbing _beta_ is the information about the _movements_, _sequences_, and _holds_ of a climb. If someone asks you for a climb's beta, then they want to know how you climbed it.
 
 > Beta could be something as simple as the general type of _holds_, like “it’s all slopers” or just the type of rock and length.
 
@@ -301,7 +308,7 @@ A sequential pattern of elements.
 
 - MovePhrase
   - PlantingSeqence
-- RoutePhrase
+- RouteSequence
 - NeuroPhrase
 
 ### Element Decomposition
