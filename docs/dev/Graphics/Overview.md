@@ -32,7 +32,7 @@
 - "Dev.Element.ElementDiagram.Labels.TextLabel.AbbreviatedTextLabel"
 - "Dev.Element.ElementDiagram.Labels.TextLabel.LandLabel"
 - "Dev.Element.ElementDiagram.Labels.TextLabel.MoveLabel"
-- "Dev.Element.ElementDiagram.Labels.TextLabel.RouteLineLabel"
+- "Dev.Element.ElementDiagram.Labels.TextLabel.ViaLineLabel"
 - "Dev.Element.ElementDiagram.LevelOfDetail"
 - "Dev.Element.ElementDiagram.Line.ConstructionLine"
 - "Dev.Element.ElementDiagram.Line.Overview"
@@ -85,7 +85,7 @@
 - "Dev.Infographic.Web"
 - "Dev.Poster"
 - "Dev.Scroll"
-- "Route.LandInfluenceRoute.Overview"
+- "Via.LandInfluenceVia.Overview"
 :::
 
 # 🛠 Graphics Overview

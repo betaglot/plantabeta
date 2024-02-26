@@ -12,8 +12,8 @@
 - "Tests.MultipleChoiceTest"
 - "Tests.Overview"
 - "Tests.Recall.Recall.RecallBetaDiagram"
-- "Tests.RouteDecomposition"
-- "Tests.RouteSurfaceHighlight"
+- "Tests.ViaDecomposition"
+- "Tests.ViaSurfaceHighlight"
 - "Tests.Senario"
 - "Tests.Sequencing"
 
@@ -62,13 +62,13 @@ treeList = [
 - [MoveTest4]()
 - [MoveTest5]()
 
-## RouteTest
+## ViaTest
 
-- [RouteTest1]()
-- [RouteTest2]()
-- [RouteTest3]()
-- [RouteTest4]()
-- [RouteTest5]()
+- [ViaTest1]()
+- [ViaTest2]()
+- [ViaTest3]()
+- [ViaTest4]()
+- [ViaTest5]()
 
 ## NeuroTest
 

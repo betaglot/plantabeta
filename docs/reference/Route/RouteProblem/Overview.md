@@ -1,14 +1,14 @@
-# Route Problem
+# Via Problem
 
 Define the Area to be filled
 
-The RouteProblem is a lot smaller than the RouteSolution
+The ViaProblem is a lot smaller than the ViaSolution
 
-The RouteProblem is thought about at RouteStart
+The ViaProblem is thought about at ViaStart
 
-RouteStart is a Location
+ViaStart is a Location
 
-RouteStartTime
+ViaStartTime
 
 ## Set
 
@@ -21,9 +21,9 @@ Constraints
 
 
 
-## RouteStart
+## ViaStart
 
-## RouteFinish
+## ViaFinish
 
 ## Density
 

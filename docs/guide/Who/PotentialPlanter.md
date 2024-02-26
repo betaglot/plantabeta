@@ -45,7 +45,7 @@ What is tree planting like?
 
 ### Climbing
 - Finger Strength
-- Route Planning
+- Via Planning
 
 ### Ultramarathon Runner
 - Endurance

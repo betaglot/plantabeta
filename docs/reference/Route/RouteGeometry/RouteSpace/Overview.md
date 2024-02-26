@@ -2,38 +2,38 @@
 
 <h2>PageTags</h2>
 
-- "Route.RouteGeometry.RouteSpace.Overview"
-- "Route.RouteGeometry.RouteSpace.RouteNegativeSpace"
-- "Route.RouteGeometry.RouteSpace.RouteRangeOfLoadingAngles"
-- "Route.Spacing.ClosestTree"
-- "Route.Spacing.ContiguousTree"
-- "Route.Spacing.DripLine"
-- "Route.Spacing.ElasticSpacing"
-- "Route.Spacing.ElasticSpacing.AbsoluteDisplacement"
-- "Route.Spacing.ElasticSpacing.RelativeDisplacement"
-- "Route.Spacing.MaximumSpacing"
-- "Route.Spacing.MinimumSpacing"
-- "Route.Spacing.OptimalSpacing"
-- "Route.Spacing.Overview"
-- "Route.Spacing.SlopedSpacing"
+- "Via.ViaGeometry.ViaSpace.Overview"
+- "Via.ViaGeometry.ViaSpace.ViaNegativeSpace"
+- "Via.ViaGeometry.ViaSpace.ViaRangeOfLoadingAngles"
+- "Via.Spacing.ClosestTree"
+- "Via.Spacing.ContiguousTree"
+- "Via.Spacing.DripLine"
+- "Via.Spacing.ElasticSpacing"
+- "Via.Spacing.ElasticSpacing.AbsoluteDisplacement"
+- "Via.Spacing.ElasticSpacing.RelativeDisplacement"
+- "Via.Spacing.MaximumSpacing"
+- "Via.Spacing.MinimumSpacing"
+- "Via.Spacing.OptimalSpacing"
+- "Via.Spacing.Overview"
+- "Via.Spacing.SlopedSpacing"
 
 :::
 
-# <route>Route Space</route>
+# <route>Via Space</route>
 
-> The Space that a Planter moves through while following a RouteCurve. 
+> The Space that a Planter moves through while following a ViaCurve. 
 
-## Route Space Properties
+## Via Space Properties
 
 Space Form
 
 Space Size
 
-Route Cell
+Via Cell
 
 ### [BodySlot](/reference/Move/BodyMove/BodySlot)
 
-When performing a BodySlot between Obstacles, the RouteSpace is the Space between the Obstacles that the Planter must fit through. If the RouteSpace is narrow, then the Planter must BodyRotate to fit through the RouteSpace. 
+When performing a BodySlot between Obstacles, the ViaSpace is the Space between the Obstacles that the Planter must fit through. If the ViaSpace is narrow, then the Planter must BodyRotate to fit through the ViaSpace. 
 
 
 ## Spacing
@@ -49,7 +49,7 @@ Parsing Land into VoronoiCells
 
 Spandrel art between plating plot radius cirle area circleshape
 
-Route Fill
+Via Fill
 
 Cirles make hexagons
 
@@ -58,7 +58,7 @@ Center is hole
 
 Fillin spandrels to show the mortar between ideal tree spacing spgeres
 
-![PentagonPartitions](/Route/PentagonPartitions.png)
-![SquarePartitions](/Route/SquarePartitions.png)
-![Pentomino](/Route/Pentomino.png)
+![PentagonPartitions](/Via/PentagonPartitions.png)
+![SquarePartitions](/Via/SquarePartitions.png)
+![Pentomino](/Via/Pentomino.png)
 ![PeelStationFloor](/art/PeelStationFloor.jpg)

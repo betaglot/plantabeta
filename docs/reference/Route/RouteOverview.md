@@ -9,38 +9,38 @@
 - "Neuro.Vision.Find.Overview"
 - "Neuro.Vision.Hidden"
 - "Neuro.Vision.SeenFromCache"
-- "Route.Direction"
-- "Route.Overview"
-- "Route.ReadLand"
-- "Route.RouteAnalysis"
-- "Route.RouteDirection.RouteDownSlope"
-- "Route.RouteDirection.RouteTraverseSlope"
-- "Route.RouteDirection.RouteUpSlope"
-- "Route.RouteError"
-- "Route.RouteError.Deadwalking"
-- "Route.RouteError.PinchedArea"
-- "Route.RouteError.RedundantRoute"
-- "Route.RouteError.TooClose"
-- "Route.RouteError.TooFar"
-- "Route.RouteEvent"
-- "Route.RouteEvent.AreaClosed"
-- "Route.RouteEvent.CompletionEvent"
-- "Route.RouteEvent.PositionEvent"
-- "Route.RouteGrid"
-- "Route.RouteGrid.RouteHexagonGrid"
-- "Route.RouteGrid.RouteSquareGrid"
-- "Route.RouteGrid.RouteTriangleGrid"
-- "Route.RouteName"
-- "Route.RouteProperties.Overview"
-- "Route.RouteProperties.RouteAccuracy"
-- "Route.RouteProperties.RouteLength"
-- "Route.RouteProperties.RoutePermutation"
-- "Route.RouteProperties.RoutePrecision"
-- "Route.RouteProperties.RouteTreeCount"
-- "Route.RouteQuestion"
-- "Route.RouteShape"
-- "Route.RouteShape.RouteNegativeShape"
-- "Route.RouteSuperposition"
+- "Via.Direction"
+- "Via.Overview"
+- "Via.ReadLand"
+- "Via.ViaAnalysis"
+- "Via.ViaDirection.ViaDownSlope"
+- "Via.ViaDirection.ViaTraverseSlope"
+- "Via.ViaDirection.ViaUpSlope"
+- "Via.ViaError"
+- "Via.ViaError.Deadwalking"
+- "Via.ViaError.PinchedArea"
+- "Via.ViaError.RedundantVia"
+- "Via.ViaError.TooClose"
+- "Via.ViaError.TooFar"
+- "Via.ViaEvent"
+- "Via.ViaEvent.AreaClosed"
+- "Via.ViaEvent.CompletionEvent"
+- "Via.ViaEvent.PositionEvent"
+- "Via.ViaGrid"
+- "Via.ViaGrid.ViaHexagonGrid"
+- "Via.ViaGrid.ViaSquareGrid"
+- "Via.ViaGrid.ViaTriangleGrid"
+- "Via.ViaName"
+- "Via.ViaProperties.Overview"
+- "Via.ViaProperties.ViaAccuracy"
+- "Via.ViaProperties.ViaLength"
+- "Via.ViaProperties.ViaPermutation"
+- "Via.ViaProperties.ViaPrecision"
+- "Via.ViaProperties.ViaTreeCount"
+- "Via.ViaQuestion"
+- "Via.ViaShape"
+- "Via.ViaShape.ViaNegativeShape"
+- "Via.ViaSuperposition"
 - PlantingProcess_LandApproach_FlyIn_Helicopter
 - PlantingProcess_LandApproach_WalkIn_WalkInTime
 - PlantingProcess_LandBriefing_FingerPointing_ArmMovement
@@ -59,7 +59,7 @@
 - PlantingProcess_LandManagement_PartnerPlanting_InsideLandBorderline_LandDiagram_
 - PlantingProcess_LandManagement_PartnerPlanting_InsideLandBorderline_TreeFlag_
 - PlantingProcess_LandManagement_PlanterEfficiency_DeadWalking
-- PlantingProcess_LandManagement_RouteLine_OptimalRouteLine_StraightLine_
+- PlantingProcess_LandManagement_ViaLine_OptimalViaLine_StraightLine_
 - PlantingProcess_LandManagement_TreeCacheLocation_RoadCacheAboveLand_LineIn_WalkDownSlope
 - PlantingProcess_LandManagement_TreeCacheLocation_RoadCacheAboveLand
 - PlantingProcess_LandManagement_TreeCacheLocation_RoadCacheBelowLand_LandCache_
@@ -82,18 +82,18 @@
 
 :::
 
-# 🔺 <route>Route Overview</route>
-![](/Route/Route_Emoji.png)
+# 🔺 <route>Via Overview</route>
+![](/Via/Via_Emoji.png)
 
 
-## What is a Route?
+## What is a Via?
 
 - Computational Geometry
 - The interface between Move, Neuro and Eco.
-- Route is an abstract layer on top of Eco. A route is where the Planter
+- Via is an abstract layer on top of Eco. A route is where the Planter
 - A routes start and finish at the Cache.
 
-### Purpose of Route
+### Purpose of Via
 
 - Minimize Deadwalking
 - To be able to have a detailed mental model of your land, so that you can plan how you're going to fill your lang.
@@ -121,13 +121,13 @@ Polygon Decomposition
 
 ## Routing Scope
 
-PieceFill > AreaFill > RouteCurve > RoutePoint
+PieceFill > AreaFill > ViaCurve > ViaPoint
 
 ## GeneralDirection
 
 ## FillPattern
 
-> A *FillPattern* is the RouteCurve, 
+> A *FillPattern* is the ViaCurve, 
 
 > A Series of Points
 
@@ -155,7 +155,7 @@ Don't go over the same place more than once.
 - TargetLandMark
     - LineIn uses a TargetLandmark
 
-## RouteError
+## ViaError
 
 - Deadwalking
 - GhostLine
@@ -172,7 +172,7 @@ Don't go over the same place more than once.
 - 
 
 ## $$$
-- Route Affects productivity the most because route has deadwalking and cache positioning. Route Starts and Finishes at the cache. 
+- Via Affects productivity the most because route has deadwalking and cache positioning. Via Starts and Finishes at the cache. 
 
 - Even the most atheletic planter is wasting time during deadwalking. Minimizing deadwalking benefits all planters and supervisors.
 

@@ -2,16 +2,16 @@
 
 <h2>PageTags</h2>
 
-- "Route.Flag.BoundaryFlag"
-- "Route.Flag.FlagLine.FlagLineIn"
-- "Route.Flag.FlagLine.FlagLineIn.StartPoint"
-- "Route.Flag.FlagSite"
-- "Route.Flag.HighFlag"
-- "Route.Flag.LineInFlag"
-- "Route.Flag.LowFlag"
-- "Route.Flag.Overview"
-- "Route.Flag.TrenchExitFlag"
-- "Route.Flag.WastedFlag"
+- "Via.Flag.BoundaryFlag"
+- "Via.Flag.FlagLine.FlagLineIn"
+- "Via.Flag.FlagLine.FlagLineIn.StartPoint"
+- "Via.Flag.FlagSite"
+- "Via.Flag.HighFlag"
+- "Via.Flag.LineInFlag"
+- "Via.Flag.LowFlag"
+- "Via.Flag.Overview"
+- "Via.Flag.TrenchExitFlag"
+- "Via.Flag.WastedFlag"
 
 :::
 

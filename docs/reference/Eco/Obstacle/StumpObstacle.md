@@ -80,7 +80,7 @@ Graph which represents how this element is related to other elements in Plantbet
 
 
 🔺🟠🟩💜🔷
-## Related <route>RouteElements</route>
+## Related <route>ViaElements</route>
 
 ### [🔺ObstacleFill]
 

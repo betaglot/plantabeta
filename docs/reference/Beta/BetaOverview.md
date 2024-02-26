@@ -31,7 +31,7 @@ Token, Block, Module
 
 
 
-Beta emerges from the interactions between Eco, Move, Route and Neuro.
+Beta emerges from the interactions between Eco, Move, Via and Neuro.
 
 ## Origins of "Beta"
 
@@ -55,7 +55,7 @@ This each line are analog pairs. The equal signs = denotes where Climbing and Pl
 | -----------------------------------: | :-------------------------------- |
 |                  <beta>Beta</beta> = | = <beta>Beta</beta>               |
 |                     <eco>Eco</eco> = | = <eco>Eco</eco>                  |
-|               <route>Route</route> = | = <route>Route</route>            |
+|               <route>Via</route> = | = <route>Via</route>            |
 |               <neuro>Neuro</neuro> = | = <neuro>Neuro</neuro>            |
 |                      <eco>Wall</eco> | <eco>Land</eco>                   |
 |              <eco>Wall Section</eco> | <eco>Area</eco>                  |
@@ -67,7 +67,7 @@ This each line are analog pairs. The equal signs = denotes where Climbing and Pl
 |                <beta>Redpoint</beta> | <beta>Replanting Required </beta> |
 |          <beta>Flash, Onsight</beta> | <beta>No replanting </beta>       |
 |         <move>RockOver Move </move>= | = <move>RockOver Move </move>     |
-|        <route>RouteFinding</route> = | = <route>RouteFinding</route>     |
+|        <route>ViaFinding</route> = | = <route>ViaFinding</route>     |
 |             <route>One Pitch</route> | <route>One FillLoop </route>      |
 |                  <move>Fall</move> = | = <move>Fall</move>               |
 | <route>Anchor, Belay Station</route> | <route>Cache</route>              |
@@ -87,7 +87,7 @@ This each line are analog pairs. The equal signs = denotes where Climbing and Pl
 ## Definition(BetaInstance)
 
 - Snapshot of what a Planter is doing and thinking in a particular Moment.
-- The current state of the Eco, Route, Planter[Move, Neuro].
+- The current state of the Eco, Via, Planter[Move, Neuro].
 - An element of a BetaStack or BetaPhrase.
 - There is no time in a BetaInstance
 
@@ -149,7 +149,7 @@ The Euclid's Elements is compilation of elements which was written over 2000 yea
 
 - Perfect Spacing
 - Perfect density
-- Route
+- Via
 
 ![Byrne_06](/Byrne_06.jpg)
 
@@ -284,7 +284,7 @@ Spade**Grip**, Tree**Grip**, Box**Grip**, Branch**Grip**, Bag**Grip**, Log**Grip
 
 <img height="300" width="500" src="/PascalCase.png">
 
-Each of the Beta Subsystems ([Eco](), [Move](), [Route](), [Neuro]() ) has its own elements, although most elements are a combination of all four subsystems. For example [HandClose]() depends on the [SoilType]() (Eco), [Touch and Pressure sensations]() (Neuro), and the obstacles which narrow the range of [approach trajectories]() possible to perform the [HandClose]() (Route).
+Each of the Beta Subsystems ([Eco](), [Move](), [Via](), [Neuro]() ) has its own elements, although most elements are a combination of all four subsystems. For example [HandClose]() depends on the [SoilType]() (Eco), [Touch and Pressure sensations]() (Neuro), and the obstacles which narrow the range of [approach trajectories]() possible to perform the [HandClose]() (Via).
 
 Elements are added together to create new, more complex, elements. For example [SpadeScreef]() = {[HandleGrip](), [ShaftGrip](), [Soil](), [SlopeAngle](), [Slash](), [Attention]()}
 
@@ -308,7 +308,7 @@ A sequential pattern of elements.
 
 - MovePhrase
   - PlantingSeqence
-- RouteSequence
+- ViaSequence
 - NeuroPhrase
 
 ### Element Decomposition

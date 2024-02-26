@@ -18,7 +18,7 @@ Find out how Plantbeta [is composed of Beta Elements](/reference/Beta/BetaOvervi
 
 ## [<move>**🟠___Move___**</move>![](/Move/Move_Emoji.png)](/reference/Move/MoveOverview)
 
-## [<route>**🔺___Route___**</route>![](/Route/Route_Emoji.png)](/reference/Route/RouteOverview)
+## [<route>**🔺___Via___**</route>![](/Via/Via_Emoji.png)](/reference/Via/ViaOverview)
 
 ## [<neuro>**💜___Neuro___**</neuro>![](/Neuro/Neuro_Emoji.png)](/reference/Neuro/NeuroOverview)
 

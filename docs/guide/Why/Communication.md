@@ -38,7 +38,7 @@ Plantbeta increases the vocabulary of a Planter's internal dialog which improves
 
 ### Planter Communicating with Other Planters
 
-[TeamPlant](/reference/Route/TeamPlant/Overview)
+[TeamPlant](/reference/Via/TeamPlant/Overview)
 
 
 

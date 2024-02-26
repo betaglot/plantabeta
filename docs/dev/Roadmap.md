@@ -65,7 +65,7 @@ To [Reforest](https://www.lasy.gov.pl/en/information/news/a-forest-is-much-more-
 
 ### Residential Planting
 
-Route line equals street
+Via line equals street
 Promotional video
 
 LawnScreef

@@ -55,7 +55,7 @@
 
 ## Cognitive Map
 
-Mental representation of Eco to construct Route
+Mental representation of Eco to construct Via
 
 > three basic elements of cognitive map based navigation spatial coding, landmark anchoring, and route planning
 
@@ -71,22 +71,22 @@ Mental representation of Eco to construct Route
 
 
 
-### Route Planning
+### Via Planning
 
-RoutePlan vs. ActualRoute
+ViaPlan vs. ActualVia
 
 
 ## <eco>EcoSpace</eco>
 
 ## <move>MoveSpace</move>
 
-## <route>RouteSpace</route>
+## <route>ViaSpace</route>
 
 ### Navigation
 
-#### Route Search
+#### Via Search
 
-#### Route Aiming
+#### Via Aiming
 
 Wayfinding
 

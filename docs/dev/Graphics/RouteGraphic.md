@@ -1,16 +1,16 @@
 ::: details 🛠 <dev>DesignBox</dev>  
 <h2>PageTags</h2>
 
-- "Route.RouteCard"
-- "Route.RouteDiagram.Overview"
-- "Route.RouteDiagram.RouteDirectedLine"
-- "Route.RouteDiagram.RouteNotDirectedLine"
-- "Route.RouteDiagram.RouteSurface.RouteSurfaceHighlight"
-- "Route.RouteDiagram.RouteTimeline"
+- "Via.ViaCard"
+- "Via.ViaDiagram.Overview"
+- "Via.ViaDiagram.ViaDirectedLine"
+- "Via.ViaDiagram.ViaNotDirectedLine"
+- "Via.ViaDiagram.ViaSurface.ViaSurfaceHighlight"
+- "Via.ViaDiagram.ViaTimeline"
 
 :::
 
-# 🛠 Route Graphics
+# 🛠 Via Graphics
 
 
 
@@ -19,10 +19,10 @@
 
 
 ### <move>MoveVoronoi</move>
-![Fencing](/Route/Voronoi/FencingVoronoi.png)
+![Fencing](/Via/Voronoi/FencingVoronoi.png)
 
 
-### <route>RouteVoronoi</route>
+### <route>ViaVoronoi</route>
 https://www.researchgate.net/publication/228440675_Spatial_dynamics_of_team_sports_exposed_by_Voronoi_diagrams
 
 
@@ -37,4 +37,4 @@ Closest
 <iframe width="100%" height="684" frameborder="0"
   src="https://observablehq.com/embed/@d3/circle-dragging-iii?cells=chart"></iframe>
 
-![Voronoi_Basketball](/Route/Voronoi/Voronoi_Basketball.jpeg)
+![Voronoi_Basketball](/Via/Voronoi/Voronoi_Basketball.jpeg)

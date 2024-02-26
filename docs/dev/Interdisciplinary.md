@@ -10,7 +10,7 @@
 
 - Spacing between objects in an enclosed space
     - [AreaFill]()
-- Easiest Route through obstacles
+- Easiest Via through obstacles
 - [DistanceEstimation](/reference/Neuro/Estimation/DistanceEstimation)
 
 ### Landscape Architecture
@@ -82,7 +82,7 @@ Planting while your body is moving away or towards hole
 
 ## Landscaping
 
-- Lawn Mower uses Route
+- Lawn Mower uses Via
     - https://www.wired.com/2012/08/optimal-lawn-mowing-patterns/
     - [BoustroFill]() 
 

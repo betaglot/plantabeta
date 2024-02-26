@@ -70,7 +70,7 @@ The BetaScore encourages efficiency.
 
 Planters become physically fit and ambidextrous
 
-#### Route
+#### Via
 
 #### Neuro
 

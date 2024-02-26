@@ -4,11 +4,11 @@
 
 :::
 
-# <neuro>RouteMemory</neuro>
+# <neuro>ViaMemory</neuro>
 
-## Flag is a Mnemonic for RouteMemory
+## Flag is a Mnemonic for ViaMemory
 
-Memory of RouteElements
+Memory of ViaElements
 
 "Where have I already planted?"
 

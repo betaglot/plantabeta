@@ -22,7 +22,7 @@
 
 ## Mnemonic
 
-### Flag is a Mnemonic for RouteMemory
+### Flag is a Mnemonic for ViaMemory
 
 ## Episodic Memory or Autobiographical Memory
 

@@ -148,7 +148,7 @@ Removes Value Addition // [!code --]
 - Number
     - Density
     - TreeCount
-    - RouteSequenceNumber
+    - ViaSequenceNumber
     - MovePhraseNumber
     - StepCount
 - Location
@@ -158,11 +158,11 @@ Removes Value Addition // [!code --]
 - Array
     - MovePhrase
     - Set of Submoves
-    - RouteSequence
+    - ViaSequence
 
 ### Outcome > Output
 
-False value is a bunch of features that Planters don't use. The value of a stump is not its color (HexadecimalValue, RGB values), rather value comes from the stump's PotentialMicrosites. The RouteElement(PotentialMicrosite, FlagSite) gives the EcoElement(Stump) value
+False value is a bunch of features that Planters don't use. The value of a stump is not its color (HexadecimalValue, RGB values), rather value comes from the stump's PotentialMicrosites. The ViaElement(PotentialMicrosite, FlagSite) gives the EcoElement(Stump) value
 
 Theorem the name of an object, while Problem is the object's values and methods.
 
@@ -175,7 +175,7 @@ The value exchange of woven fiber neighbors is the tension force holding each ot
 
 Subsystems give each other value.
 
-The RouteElement(GoodMicrosite, FlagSite) gives the EcoElement(Stump) value. The stump gives Route value by providing PotentialMicrosite.
+The ViaElement(GoodMicrosite, FlagSite) gives the EcoElement(Stump) value. The stump gives Via value by providing PotentialMicrosite.
 
 The exchange doesn't need to be mutually beneficial. Both ValueAddition or (ValueAddition + ValueSubtraction).
 
@@ -296,7 +296,7 @@ MoveSelection.MoveEvaluation
     - Which move solves the current state?
 - Energy to move.
 - Knowing where to go
-    - Route
+    - Via
 - Knowing how to move
     - MoveSelection
 
@@ -305,18 +305,18 @@ MoveSelection.MoveEvaluation
 
 ---
 
-### RouteElementValue
+### ViaElementValue
 
-::: tip RouteElementValue Addition
+::: tip ViaElementValue Addition
 
 ---
 
 **Saves Time**
-- Most direct Route
+- Most direct Via
 - Minimium ObstacleDensity
 
 **Simplifies**
-- A RouteCurve is more simple than RouteShape.
+- A ViaCurve is more simple than ViaShape.
 **Reduces Risk**
 
 **Organizes**
@@ -326,7 +326,7 @@ MoveSelection.MoveEvaluation
 **Connects**
 
 **Reduces Effort**
-- Most direct Route
+- Most direct Via
 - Minimium ObstacleDensity
 
 **Avoids Hassles**
@@ -343,7 +343,7 @@ MoveSelection.MoveEvaluation
 :::
 
 
-::: danger RouteElementValue Subtraction
+::: danger ViaElementValue Subtraction
 
 ---
 
@@ -524,7 +524,7 @@ MoveSelection.MoveEvaluation
     - "That ContactSurface isn't useful for me"
     - TeamPlant
 
-#### RouteValue
+#### ViaValue
 
 #### EcoValue
 - RockCap is not valuable for planting.
@@ -555,7 +555,7 @@ UX
 
 Anything that a Planter needs to remember during a planting Phrase.
 
-RouteState
+ViaState
 
 MoveState
 

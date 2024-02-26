@@ -36,18 +36,18 @@ The best resource which can be found is Replant.ca, but this site could be bette
 - Unlike Replant.ca, Plantbeta contains no information about the business side of planting, it's only from the Planter's perspective. 
 - Each element of Plantbeta has its own profile. Currently you will see placeholders for each section of the profile. Each element profile has a profile picture, element description, a relationship graph showing how it relates to elements from the other subsystems, descriptions of how elements from other subsystems relate to the current element and at the bottom of the profile there are links to related elements (like the "See Also" section in Wikipedia pages). Not only are Planters shown all the elements, but more importantly they are shown how they relate to each other. Some elements are highly related to such as Attention (NeuroElement), while others are not related to other subsystems such as TreeLoad (grabbing a tree from your bag).
     - [PocketArea](/reference/Eco/Area/PocketArea.md)
-        - It's more efficient to AreaFill than PerimeterFill (RouteElements) a PocketArea.
+        - It's more efficient to AreaFill than PerimeterFill (ViaElements) a PocketArea.
         - You need to define the boundaries of the area (NeuroElement).
     - [HandScreef](/reference/Move/HandMove/HandScreef)
         - The SoilType (EcoElement) determines if you SpadeScreef or HandScreef.
         - You need to see and feel (NeuroElements) where the duff layer becomes MineralSoil to perform an effective HandScreef.
-    - [BackFill](/reference/Route/PieceFill/BackFill)
+    - [BackFill](/reference/Via/PieceFill/BackFill)
         - The shape of the Piece (EcoElement) determines if you want to BackFill or AreaFill.
     - [BagUpSizeDecision](/reference/Neuro/Decision/BagUpSizeDecision)
         - The Eco affects the BagUpSize, bigger BagUpSize for straight trenches (EcoElement) compared to RawLand (EcoElement).
         - BagUpSize depends on how fatigued (Neuro) you are.
         - BagUpSize affects how fast you can move (MoveElement) and how easily you can climb over slash (EcoElement).
-        - If you need to BackFill (RouteElement) a piece then you typically have a large BagUpSize.
+        - If you need to BackFill (ViaElement) a piece then you typically have a large BagUpSize.
 
 ## How is Plantbeta Innovative and Educational?
 
@@ -138,7 +138,7 @@ Flagging reduction, the goal is a 60% reduction in single use plastics...Veteran
 
 #### Photography
 - Take photos of Eco from the ground and from the air (with Jess's help), then abstract them into Eco Diagrams.
-- Take photos and videos of Planters for Move and Route Element Profiles. 
+- Take photos and videos of Planters for Move and Via Element Profiles. 
 
 #### Recording Observations
 

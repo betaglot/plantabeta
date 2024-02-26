@@ -2,34 +2,34 @@
 
 - https://gwlucastrig.github.io/TinfourDocs/DelaunayIntro/index.html
 
-![DelaunayOptimality](/Route/Voronoi/DelaunayOptimality.png)
+![DelaunayOptimality](/Via/Voronoi/DelaunayOptimality.png)
 
 <h2>PageTags</h2>
 
-- "Route.RouteGeometry.RoutePoint.CenterPoint"
-- "Route.RouteGeometry.RoutePoint.DeadEndPoint"
-- "Route.RouteGeometry.RoutePoint.FlagSite"
-- "Route.RouteGeometry.RoutePoint.Landmark"
-- "Route.RouteGeometry.RoutePoint.Microsite.MicrositeSelection"
-- "Route.RouteGeometry.RoutePoint.Microsite.MicrositeStrikeLine"
-- "Route.RouteGeometry.RoutePoint.Microsite.MicrositeValidation"
-- "Route.RouteGeometry.RoutePoint.Microsite.Overview"
-- "Route.RouteGeometry.RoutePoint.Microsite.PlantedMicrosite"
-- "Route.RouteGeometry.RoutePoint.Microsite.PotentialMicrosite"
-- "Route.RouteGeometry.RoutePoint.MidPoint"
-- "Route.RouteGeometry.RoutePoint.Overview"
-- "Route.RouteGeometry.RoutePoint.ReferencePoint"
-- "Route.RouteGeometry.RoutePoint.ReflectionPoint"
-- "Route.RouteGeometry.RoutePoint.RouteConvergencePoint"
-- "Route.RouteGeometry.RoutePoint.RouteDivergencePoint"
-- "Route.RouteGeometry.RoutePoint.RouteFinishPoint"
-- "Route.RouteGeometry.RoutePoint.RouteRefractionPoint"
-- "Route.RouteGeometry.RoutePoint.RouteStartPoint"
-- "Route.RouteGeometry.RoutePoint.TargetPoint"
-- "Route.RouteGeometry.RoutePoint.VertexPoint"
+- "Via.ViaGeometry.ViaPoint.CenterPoint"
+- "Via.ViaGeometry.ViaPoint.DeadEndPoint"
+- "Via.ViaGeometry.ViaPoint.FlagSite"
+- "Via.ViaGeometry.ViaPoint.Landmark"
+- "Via.ViaGeometry.ViaPoint.Microsite.MicrositeSelection"
+- "Via.ViaGeometry.ViaPoint.Microsite.MicrositeStrikeLine"
+- "Via.ViaGeometry.ViaPoint.Microsite.MicrositeValidation"
+- "Via.ViaGeometry.ViaPoint.Microsite.Overview"
+- "Via.ViaGeometry.ViaPoint.Microsite.PlantedMicrosite"
+- "Via.ViaGeometry.ViaPoint.Microsite.PotentialMicrosite"
+- "Via.ViaGeometry.ViaPoint.MidPoint"
+- "Via.ViaGeometry.ViaPoint.Overview"
+- "Via.ViaGeometry.ViaPoint.ReferencePoint"
+- "Via.ViaGeometry.ViaPoint.ReflectionPoint"
+- "Via.ViaGeometry.ViaPoint.ViaConvergencePoint"
+- "Via.ViaGeometry.ViaPoint.ViaDivergencePoint"
+- "Via.ViaGeometry.ViaPoint.ViaFinishPoint"
+- "Via.ViaGeometry.ViaPoint.ViaRefractionPoint"
+- "Via.ViaGeometry.ViaPoint.ViaStartPoint"
+- "Via.ViaGeometry.ViaPoint.TargetPoint"
+- "Via.ViaGeometry.ViaPoint.VertexPoint"
 :::
 
-# 🔺 <route>Route Point Overview</route>
+# 🔺 <route>Via Point Overview</route>
 
 ## Site vs Microsite
 
@@ -73,4 +73,4 @@ Makes the Voronoi Cells more
 
 - Decompose a plane polygon into Triangles
 
-[TriangleFill](/reference/Route/AreaFill/TriangleFill)
+[TriangleFill](/reference/Via/AreaFill/TriangleFill)

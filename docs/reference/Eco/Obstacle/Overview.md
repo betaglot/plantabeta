@@ -23,10 +23,10 @@
 
 > a thing that blocks one's way or prevents or hinders progress.
 
-An object is only an obstacle if it hinders your Route.
+An object is only an obstacle if it hinders your Via.
 
 ### Obstacle for Planter
-- An object which prevents a you from moving along an optimal Route.
+- An object which prevents a you from moving along an optimal Via.
 
 ### Obstacle for Cows
 - An object which cows avoid stepping near.

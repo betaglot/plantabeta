@@ -7480,7 +7480,7 @@
         "purpose": [],
         "superMovement": [
           "BodyRest",
-          "RouteReading"
+          "ViaReading"
         ],
         "subMovement": [
           "LegFlexion",
@@ -9190,7 +9190,7 @@
         "speed": [],
         "rhythm": [],
         "superMovement": [
-          "Routesetting"
+          "Viasetting"
         ],
         "subMovement": [],
         "anteMovement": [],
@@ -9226,7 +9226,7 @@
         "speed": [],
         "rhythm": [],
         "superMovement": [
-          "Routesetting"
+          "Viasetting"
         ],
         "subMovement": [],
         "anteMovement": [],

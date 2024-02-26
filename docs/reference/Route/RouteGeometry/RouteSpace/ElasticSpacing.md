@@ -6,7 +6,7 @@
 
 # 🔺 <route>ElasticSpacing</route>
 
-![RouteImage](/Route/RouteImage.png)
+![ViaImage](/Via/ViaImage.png)
 
 ## Element Purpose
 
@@ -44,9 +44,9 @@ Graph which represents how this element is related to other elements in Plantbet
 
 - Use Media donated by Planters. 
 
-## Related RouteElements
+## Related ViaElements
 
-Links to other related RouteElements. 
+Links to other related ViaElements. 
 
 - [MaximumSpacing]()
 - [Link]()

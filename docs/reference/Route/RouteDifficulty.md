@@ -2,15 +2,15 @@
 
 <h2>PageTags</h2>
 
-- "Route.Difficulty"
-- "Route.Difficulty.RouteComplexity"
-- "Route.Difficulty.RouteIntensity"
-- "Route.Difficulty.RouteRisk"
-- "Route.RouteDifficulty.Overview"
-- "Route.RouteDifficulty.RouteComplexity"
-- "Route.RouteDifficulty.RouteIntensity"
-- "Route.RouteDifficulty.RouteRisk"
+- "Via.Difficulty"
+- "Via.Difficulty.ViaComplexity"
+- "Via.Difficulty.ViaIntensity"
+- "Via.Difficulty.ViaRisk"
+- "Via.ViaDifficulty.Overview"
+- "Via.ViaDifficulty.ViaComplexity"
+- "Via.ViaDifficulty.ViaIntensity"
+- "Via.ViaDifficulty.ViaRisk"
 
 :::
 
-# 🔷 <route>RouteDifficulty</route>
+# 🔷 <route>ViaDifficulty</route>

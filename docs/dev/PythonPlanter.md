@@ -115,7 +115,7 @@ def move(move{}, eco{}, route{}, neuro):
 
 #### Move
 -
-#### Route
+#### Via
 -
 #### Neuro
 -
@@ -140,7 +140,7 @@ Object Oriented Programming
 
 - HandSlot
 
-#### RouteObject
+#### ViaObject
 
 - Area
 
@@ -166,7 +166,7 @@ Every BetaElement is an object.
 
 -
 
-#### RouteDict
+#### ViaDict
 
 -
 
@@ -184,7 +184,7 @@ Every BetaElement is an object.
 
 -
 
-#### RouteTuple
+#### ViaTuple
 
 -
 
@@ -231,12 +231,12 @@ For Loop
 
 ```py
 for move in movePhrase
-    Route(move)
+    Via(move)
 
 
 ```
 
-#### RouteLoop
+#### ViaLoop
 
 ```py
 for  in
@@ -313,7 +313,7 @@ def move(move{}, eco{}, route{}, neuro):
     return force
 ```
 
-#### RouteFunction()
+#### ViaFunction()
 
 - - Area.BoustroFill
 
@@ -329,9 +329,9 @@ Area.BoustroFill()
 
 - Area.BoustroFill
 
-<!-- What are the Functions of Route? -->
+<!-- What are the Functions of Via? -->
 
-- is Route
+- is Via
 
 ## Expression
 
@@ -342,7 +342,7 @@ function. Many applications of coverage control have
 been reported in many fields, such as [
 -
 
-#### RouteExpression
+#### ViaExpression
 
 -
 
@@ -358,7 +358,7 @@ been reported in many fields, such as [
 
 -
 
-#### RouteIf
+#### ViaIf
 
 -
 

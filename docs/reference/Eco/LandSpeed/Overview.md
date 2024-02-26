@@ -1,7 +1,7 @@
 ::: details 🛠 <dev>DesignBox</dev> 
 <h2>PageTags</h2>
 
-- "Eco.LandSpace.Routesetting"
+- "Eco.LandSpace.Viasetting"
 - "Eco.LandSpeed.FastLand"
 - "Eco.LandSpeed.Overview"
 - "Eco.LandSpeed.SlowLand"

@@ -162,7 +162,7 @@
 - "Move.PlanterProperties.PlanterAbility"
 - "Move.PlanterProperties.PlanterSize"
 - "Move.RedirectMove"
-- "Move.RouteInfluenceMove"
+- "Move.ViaInfluenceMove"
 - "Move.SlashMove.Overview"
 
 :::

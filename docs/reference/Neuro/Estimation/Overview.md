@@ -6,10 +6,10 @@
 - "Neuro.Estimation"
 - "Neuro.Estimation.BagFill"
 - "Neuro.Estimation.LandEstimation.Fraction"
-- "Neuro.Estimation.RouteEstimation.AreaEstimation"
-- "Neuro.Estimation.RouteEstimation.AreaEstimation.AreaCompletionEstimation"
-- "Neuro.Estimation.RouteEstimation.LineDistanceEstimation"
-- "Neuro.Estimation.RouteEstimation.TimeEstimation"
+- "Neuro.Estimation.ViaEstimation.AreaEstimation"
+- "Neuro.Estimation.ViaEstimation.AreaEstimation.AreaCompletionEstimation"
+- "Neuro.Estimation.ViaEstimation.LineDistanceEstimation"
+- "Neuro.Estimation.ViaEstimation.TimeEstimation"
 :::
 
 # <neuro>Estimation Overview</neuro>

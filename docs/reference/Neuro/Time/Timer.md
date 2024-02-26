@@ -47,7 +47,7 @@ Answer 3
 - Description of how this <neuro>NeuroElement </neuro>relates to a particular [EcoElement](/reference/Eco/EcoOverview).
 - Description of how this <neuro>NeuroElement </neuro>relates to a particular [EcoElement](/reference/Eco/EcoOverview).
 - Description of how this <neuro>NeuroElement </neuro>relates to a particular [EcoElement](/reference/Eco/EcoOverview).
-## Related 🔺<route>RouteElements</route>
+## Related 🔺<route>ViaElements</route>
 - 
 
 ## Examples

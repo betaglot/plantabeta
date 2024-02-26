@@ -7,7 +7,7 @@
 # 🔺 <route>OptimalSpacing</route>
 
 
-![RouteImage](/Route/RouteImage.png)
+![ViaImage](/Via/ViaImage.png)
 
 ## Questions about the Element
 
@@ -58,9 +58,9 @@ Answer 3
 
 - Use Media donated by Planters. 
 
-## Related <route>RouteElements</route>
+## Related <route>ViaElements</route>
 
-Links to other related RouteElements. 
+Links to other related ViaElements. 
 
 - [Link]()
 - [Link]()

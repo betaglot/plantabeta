@@ -69,7 +69,7 @@ The Vege can be moving towards you or the vege can be stationary while you move 
 
 ## Related 🟩<eco>EcoElements</eco>
 - 
-## Related 🔺<route>RouteElements</route>
+## Related 🔺<route>ViaElements</route>
 - 
 
 ## Related 💜<neuro>NeuroElements</neuro> 
