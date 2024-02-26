@@ -2,19 +2,19 @@
 
 <h2>PageTags</h2>
 
-- "Move.LegMove.HighFoot"
-- "Move.LegMove.LegCircumduction"
-- "Move.LegMove.LegLock"
-- "Move.LegMove.LegReach"
-- "Move.LegMove.LegRockOver"
-- "Move.LegMove.LegRockUp"
-- "Move.LegMove.LegSlot"
-- "Move.LegMove.Overview"
-- "Move.LegMove.SupportingLeg"
+- "Moto.LegMoto.HighFoot"
+- "Moto.LegMoto.LegCircumduction"
+- "Moto.LegMoto.LegLock"
+- "Moto.LegMoto.LegReach"
+- "Moto.LegMoto.LegRockOver"
+- "Moto.LegMoto.LegRockUp"
+- "Moto.LegMoto.LegSlot"
+- "Moto.LegMoto.Overview"
+- "Moto.LegMoto.SupportingLeg"
 
 :::
 
-# 🟠 <move>Leg Overview</move>
+# 🟠 <moto>Leg Overview</moto>
 
 ## Leg Anatomy
 

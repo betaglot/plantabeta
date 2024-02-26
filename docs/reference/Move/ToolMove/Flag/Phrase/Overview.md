@@ -4,7 +4,7 @@
 
 :::
 
-# 🔷 <move>Flag Phrase Overview</move>
+# 🔷 <moto>Flag Phrase Overview</moto>
 
 ## FlagPut
 

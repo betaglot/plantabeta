@@ -4,7 +4,7 @@
 <h2>PageTags</h2>
 :::
 
-# 🔷 <move>Arm Phrase</move>
+# 🔷 <moto>Arm Phrase</moto>
 
 ## Get
 

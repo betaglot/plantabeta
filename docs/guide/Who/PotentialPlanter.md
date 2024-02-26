@@ -32,12 +32,12 @@ What is tree planting like?
 
 - Resilience
 - Leg Strength
-- DynamicMoves
+- DynamicMotos
 
 ### Wrestling
-- FullBodyMove
+- FullBodyMoto
 - Resilience
-- Move Phrases
+- Moto Phrases
 
 ### Hiking
 - Endurance

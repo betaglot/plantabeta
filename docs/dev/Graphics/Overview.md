@@ -31,7 +31,7 @@
 - "Dev.Element.ElementDiagram.Labels.TextLabel"
 - "Dev.Element.ElementDiagram.Labels.TextLabel.AbbreviatedTextLabel"
 - "Dev.Element.ElementDiagram.Labels.TextLabel.LandLabel"
-- "Dev.Element.ElementDiagram.Labels.TextLabel.MoveLabel"
+- "Dev.Element.ElementDiagram.Labels.TextLabel.MotoLabel"
 - "Dev.Element.ElementDiagram.Labels.TextLabel.ViaLineLabel"
 - "Dev.Element.ElementDiagram.LevelOfDetail"
 - "Dev.Element.ElementDiagram.Line.ConstructionLine"

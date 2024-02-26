@@ -64,7 +64,7 @@ Graph which represents how this element is related to other elements in Plantbet
 - block snow from crushing the seedling
 
 
-## Related <move>MoveElements</move>
+## Related <moto>MotoElements</moto>
 
 ### [🟠SpadePryScreef]()
 

@@ -3,10 +3,10 @@
 
 <h2>PageTags</h2>
 
-- "Move.ClothingMove.ClothingLayer"
+- "Moto.ClothingMoto.ClothingLayer"
 :::
 
-# 🟠 <move>ClothingLayer</move>
+# 🟠 <moto>ClothingLayer</moto>
 
 
 ## AddClothingLayer

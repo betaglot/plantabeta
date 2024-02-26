@@ -2,8 +2,8 @@
 
 <h2>PageTags</h2>
 
-- "Move.ToolMove.SpadeMove.SpadeSwap"
+- "Moto.ToolMoto.SpadeMoto.SpadeSwap"
 
 :::
 
-# 🔷 <move>Spade Phrase</move>
+# 🔷 <moto>Spade Phrase</moto>

@@ -22,32 +22,32 @@
 ![TreePlanter](/TreePlanter001.jpg)
 ![TreePlanter](/TreePlanter.jpg)
 
-## <move>Cart</move>
+## <moto>Cart</moto>
 
 - WalkIn
-- BoxMove
+- BoxMoto
 
-## <move>Planter Bags</move>
+## <moto>Planter Bags</moto>
 
 ### 'Basket' instead of 'Sidebags'
 
 `Analogy{Saddle: PlanterBag}`
 
-### <move>Bag Material</move>
+### <moto>Bag Material</moto>
 - Not plastic
 - Carbon Fiber
 - 
 
-### <move>Corset</move>
+### <moto>Corset</moto>
 
 - Planters wear a corset under their waist belt like a saddle pad
 - Corset restricts BendOver
 
-### <move>Waistbelt</move>
+### <moto>Waistbelt</moto>
 
 - Suspension System
 
-### <move>BagFrame</move>
+### <moto>BagFrame</moto>
 
 ::: details Images
 
@@ -69,7 +69,7 @@ Make cardboard prototype.
 "Lay up"
 
 
-### <move>BagSkeleton</move>
+### <moto>BagSkeleton</moto>
 
 Pannier
 
@@ -77,7 +77,7 @@ Pannier
 - To keep sidebags from rubbing on legs.
 - Suspension system
 
-### <move>BackBag Flap</move>
+### <moto>BackBag Flap</moto>
 
 - Use waterproof Flap instead of sphincter design, since sphincter allows water to collect and slowly seep into backbag.
 - Pocket on underside of Flap
@@ -96,7 +96,7 @@ Pannier
 Stick them together with honey like cheap bookbinding 
 Wax to waterproof 
 
-## <move>Vambrace</move>
+## <moto>Vambrace</moto>
 
 ::: tip AlsoKnownAs
 Bracer, Gauntlet,
@@ -126,17 +126,17 @@ The goal of vambrace is to keep the hand clean and warm. There isn't a need to p
 - You only need to worry about the back of your hands. Glabrous warms the palm
 - Wool lining
 
-### <move>Flagger</move>
+### <moto>Flagger</moto>
 
 Ideally there would be a Flagger on each Vambrace
 
-## <move>Rope</move>
+## <moto>Rope</moto>
 
 ### <route>PlotCord</route>
 
 ### <eco>Lashing SummerCache</eco>
 
-## <move>Glove</move>
+## <moto>Glove</moto>
 
 - SplitMitt Shell
     - Easier to repair 
@@ -153,17 +153,17 @@ Ideally there would be a Flagger on each Vambrace
 - Glove which does not collect dirt unlike the knitted gloves currently used by most planters
 - Easily taken off without getting dirt inside
 
-### <move>Abrasion Resistant Material</move>
+### <moto>Abrasion Resistant Material</moto>
 
 Cordura or Kevlar
 - https://www.testextextile.com/evaluating-the-abrasion-resistance-of-different-fabric-types/#Most_Abrasion-Resistant_Synthetic_Fibers
 
-## <move>Cache Bag</move>
+## <moto>Cache Bag</moto>
 
-## <move>Water Volume</move>
+## <moto>Water Volume</moto>
 
 
-## <move>PlanterSuit</move>
+## <moto>PlanterSuit</moto>
 
 ```py
 SuitParts = [
@@ -197,7 +197,7 @@ Gasket
 #### Suit of Armor
 - Samurai Armor
 
-#### SuitSwap out parts to adapt to Eco and Move.
+#### SuitSwap out parts to adapt to Eco and Moto.
 
 
 ### LocalizedRepair

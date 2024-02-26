@@ -2,11 +2,11 @@
 
 <h2>PageTags</h2>
 
-- "Move.ToolMove.BoxMove.BoxOpen"
-- "Move.ToolMove.BoxMove.BoxSlide"
-- "Move.ToolMove.BoxMove.BoxStack"
-- "Move.ToolMove.BoxMove.Overview"
+- "Moto.ToolMoto.BoxMoto.BoxOpen"
+- "Moto.ToolMoto.BoxMoto.BoxSlide"
+- "Moto.ToolMoto.BoxMoto.BoxStack"
+- "Moto.ToolMoto.BoxMoto.Overview"
 
 :::
 
-# 🟠 <move>Box Overview</move>
+# 🟠 <moto>Box Overview</moto>

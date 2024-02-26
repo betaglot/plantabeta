@@ -188,7 +188,7 @@ You're not making it worse, each workblock makes it better, deciding that what y
 
 Just get as much information out of your head and into data structures, so that they can be processed.
 
-<move>Keep going!!!</move>
+<moto>Keep going!!!</moto>
 
 
 
@@ -205,7 +205,7 @@ There shouldn't be beta and plantbeta, because they a supposed to be the name of
 
 Plantbeta is the language and the 
 
-Beta represents movement, but Move is the move itself. Move doesn't care about how it's being represented.
+Beta represents movement, but Moto is the move itself. Moto doesn't care about how it's being represented.
 
 ### Sherlock Holmes
 - Prediction

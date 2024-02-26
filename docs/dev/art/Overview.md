@@ -15,7 +15,7 @@ Art inspired by Planting
 
 ---
 
-![Alt text](/art/LegMoveOverlap.jpg) 
+![Alt text](/art/LegMotoOverlap.jpg) 
 
 ---
 

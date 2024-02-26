@@ -4,4 +4,4 @@
 
 :::
 
-# 🔷 <move>Bundle Phrase</move>
+# 🔷 <moto>Bundle Phrase</moto>

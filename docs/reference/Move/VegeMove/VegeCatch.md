@@ -2,7 +2,7 @@
 
 <h2>PageTags</h2>
 
-- "Move.VegeMove.BranchWhip"
+- "Moto.VegeMoto.BranchWhip"
 
 - BranchWhip
 - 
@@ -11,11 +11,11 @@
 
 :::
 
-# 🟠 <move>VegeCatch</move>
+# 🟠 <moto>VegeCatch</moto>
 
 > Grab vegetation before colliding with it
 
-![MoveImage](/Move/MoveImage.png)
+![MotoImage](/Moto/MotoImage.png)
 
 The Vege can be moving towards you or the vege can be stationary while you move towards the vege
 
@@ -27,20 +27,20 @@ The Vege can be moving towards you or the vege can be stationary while you move 
 - Tool2
 - Tool3
 
-## <move>Move Phrase</move>
+## <moto>Moto Phrase</moto>
 
 <div style="display: flex">
     <div>
-        <img style="margin: 5px" height="200" width="200" src="/Move/MoveImage.png"/>
-        <p>Description of Move Photo</p>
+        <img style="margin: 5px" height="200" width="200" src="/Moto/MotoImage.png"/>
+        <p>Description of Moto Photo</p>
     </div>
     <div>
-        <img style="margin: 5px" height="200" width="200" src="/Move/MoveImage.png"/>
-        <p>Description of Move Photo</p>
+        <img style="margin: 5px" height="200" width="200" src="/Moto/MotoImage.png"/>
+        <p>Description of Moto Photo</p>
     </div>
     <div>
-        <img style="margin: 5px" height="200" width="200" src="/Move/MoveImage.png"/>
-        <p>Description of Move Photo</p>
+        <img style="margin: 5px" height="200" width="200" src="/Moto/MotoImage.png"/>
+        <p>Description of Moto Photo</p>
     </div>
     
     
@@ -64,7 +64,7 @@ The Vege can be moving towards you or the vege can be stationary while you move 
     src="https://observablehq.com/embed/@d3/force-directed-graph/2?cells=chart"
 ></iframe>
 
-## Related <move>MoveElements</move>
+## Related <moto>MotoElements</moto>
 - 
 
 ## Related 🟩<eco>EcoElements</eco>
@@ -76,13 +76,13 @@ The Vege can be moving towards you or the vege can be stationary while you move 
 -  
 ## Quotes
 
-Quotes about this Move
+Quotes about this Moto
 
 > Quote
 
-## MoveErrors
+## MotoErrors
 
-- Ways that this Move could be performed in correctly, causing injury or causing inefficiencies.
+- Ways that this Moto could be performed in correctly, causing injury or causing inefficiencies.
 
 ## Examples
 
@@ -90,7 +90,7 @@ Quotes about this Move
 
 
 
-Links to other related movements. Related because they are the same MoveType or because they are performed at the same time or within the same Phrase. 
+Links to other related movements. Related because they are the same MotoType or because they are performed at the same time or within the same Phrase. 
 
 ## See also:
 

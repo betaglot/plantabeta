@@ -83,9 +83,9 @@ runtime errors |
 
 #### Return Value
 
-Moves return force
+Motos return force
 
-MoveFunction
+MotoFunction
 
 ```py
 def move(move{}, eco{}, route{}, neuro):
@@ -113,7 +113,7 @@ def move(move{}, eco{}, route{}, neuro):
 
 <!--
 
-#### Move
+#### Moto
 -
 #### Via
 -
@@ -136,7 +136,7 @@ for microsite in route:
 
 Object Oriented Programming
 
-#### MoveObject
+#### MotoObject
 
 - HandSlot
 
@@ -154,7 +154,7 @@ Object Oriented Programming
 
 Every BetaElement is an object.
 
-### <move>List: Phrase</move>
+### <moto>List: Phrase</moto>
 
 - Any Phrase
 -
@@ -162,7 +162,7 @@ Every BetaElement is an object.
 
 ### Dict
 
-#### MoveDict
+#### MotoDict
 
 -
 
@@ -180,7 +180,7 @@ Every BetaElement is an object.
 
 ### Tuple
 
-#### MoveTuple
+#### MotoTuple
 
 -
 
@@ -227,7 +227,7 @@ For Loop
 
 > The for statement is used to iterate over the elements of a sequence (such as a string, tuple or list) or other iterable object:
 
-#### MoveLoop
+#### MotoLoop
 
 ```py
 for move in movePhrase
@@ -303,9 +303,9 @@ for box in transporter:
 
 ### Function() or Method()
 
-#### MoveFunction()
+#### MotoFunction()
 
-- MoveMethod
+- MotoMethod
 
 ```py
 def move(move{}, eco{}, route{}, neuro):
@@ -335,7 +335,7 @@ Area.BoustroFill()
 
 ## Expression
 
-#### MoveExpression
+#### MotoExpression
 The coverage control is a multi-agent system control method that governs agents to move toward the
 optimal placement based on a predetermined density
 function. Many applications of coverage control have
@@ -354,7 +354,7 @@ been reported in many fields, such as [
 
 ### If
 
-#### MoveIf
+#### MotoIf
 
 -
 

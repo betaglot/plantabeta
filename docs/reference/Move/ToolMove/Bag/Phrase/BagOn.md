@@ -2,13 +2,13 @@
 
 <h2>PageTags</h2>
 
-- "Move.ToolMove.BagMove.BagOn"
+- "Moto.ToolMoto.BagMoto.BagOn"
 
 :::
 
-# 🟠 <move>BagOn</move>
+# 🟠 <moto>BagOn</moto>
 
-![MoveImage](/Move/MoveImage.png)
+![MotoImage](/Moto/MotoImage.png)
 
 ## Questions about the Element
 
@@ -18,20 +18,20 @@
 - Tool2
 - Tool3
 
-## <move>Move Phrase</move>
+## <moto>Moto Phrase</moto>
 
 <div style="display: flex">
     <div>
-        <img style="margin: 5px" height="200" width="200" src="/Move/MoveImage.png"/>
-        <p>Description of Move Photo</p>
+        <img style="margin: 5px" height="200" width="200" src="/Moto/MotoImage.png"/>
+        <p>Description of Moto Photo</p>
     </div>
     <div>
-        <img style="margin: 5px" height="200" width="200" src="/Move/MoveImage.png"/>
-        <p>Description of Move Photo</p>
+        <img style="margin: 5px" height="200" width="200" src="/Moto/MotoImage.png"/>
+        <p>Description of Moto Photo</p>
     </div>
     <div>
-        <img style="margin: 5px" height="200" width="200" src="/Move/MoveImage.png"/>
-        <p>Description of Move Photo</p>
+        <img style="margin: 5px" height="200" width="200" src="/Moto/MotoImage.png"/>
+        <p>Description of Moto Photo</p>
     </div>
     
     
@@ -55,7 +55,7 @@
     src="https://observablehq.com/embed/@d3/force-directed-graph/2?cells=chart"
 ></iframe>
 
-## Related <move>MoveElements</move>
+## Related <moto>MotoElements</moto>
 - 
 
 ## Related 🟩<eco>EcoElements</eco>
@@ -67,13 +67,13 @@
 -  
 ## Quotes
 
-Quotes about this Move
+Quotes about this Moto
 
 > Quote
 
-## MoveErrors
+## MotoErrors
 
-- Ways that this Move could be performed in correctly, causing injury or causing inefficiencies.
+- Ways that this Moto could be performed in correctly, causing injury or causing inefficiencies.
 
 ## Examples
 
@@ -81,7 +81,7 @@ Quotes about this Move
 
 
 
-Links to other related movements. Related because they are the same MoveType or because they are performed at the same time or within the same Phrase. 
+Links to other related movements. Related because they are the same MotoType or because they are performed at the same time or within the same Phrase. 
 
 ## See also:
 

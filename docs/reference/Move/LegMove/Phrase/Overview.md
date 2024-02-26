@@ -4,4 +4,4 @@
 
 :::
 
-# 🔷 <move>Leg Phrase</move>
+# 🔷 <moto>Leg Phrase</moto>

@@ -4,4 +4,4 @@
 
 :::
 
-# 🔷 <move>Gaiter Phrase</move>
+# 🔷 <moto>Gaiter Phrase</moto>

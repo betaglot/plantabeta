@@ -4,4 +4,4 @@
 
 :::
 
-# 🔷 <move>Hole Phrase</move>
+# 🔷 <moto>Hole Phrase</moto>

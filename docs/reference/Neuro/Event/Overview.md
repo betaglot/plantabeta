@@ -36,7 +36,7 @@
 - onBlockCompletion()
 
 
-## MoveEvent
+## MotoEvent
 
 ### ToolEvent
 

@@ -43,7 +43,7 @@
 - "Via.ViaSuperposition"
 - PlantingProcess_LandApproach_FlyIn_Helicopter
 - PlantingProcess_LandApproach_WalkIn_WalkInTime
-- PlantingProcess_LandBriefing_FingerPointing_ArmMovement
+- PlantingProcess_LandBriefing_FingerPointing_ArmMotoment
 - PlantingProcess_LandBriefing_PlanterSupervisor_BlockDiagram
 - PlantingProcess_LandBriefing_PlanterSupervisor_LandDiagram
 - PlantingProcess_LandManagement_Error_DeadWalking_Definition_
@@ -89,7 +89,7 @@
 ## What is a Via?
 
 - Computational Geometry
-- The interface between Move, Neuro and Eco.
+- The interface between Moto, Neuro and Eco.
 - Via is an abstract layer on top of Eco. A route is where the Planter
 - A routes start and finish at the Cache.
 

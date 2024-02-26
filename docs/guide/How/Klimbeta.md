@@ -66,7 +66,7 @@ The BetaScore encourages efficiency.
 [ExecutionScore](/reference/Score)
 - Understand the optimal way to perform a move, to prevent injury.
 
-#### Move
+#### Moto
 
 Planters become physically fit and ambidextrous
 

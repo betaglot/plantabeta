@@ -2,15 +2,15 @@
 
 <h2>PageTags</h2>
 
-- "Move.ToolMove.SpadeMove.Overview"
-- "Move.ToolMove.SpadeMove.SpadeClose"
-- "Move.ToolMove.SpadeMove.SpadeDrop"
-- "Move.ToolMove.SpadeMove.SpadePush"
-- "Move.ToolMove.SpadeMove.SpadeUnplant"
+- "Moto.ToolMoto.SpadeMoto.Overview"
+- "Moto.ToolMoto.SpadeMoto.SpadeClose"
+- "Moto.ToolMoto.SpadeMoto.SpadeDrop"
+- "Moto.ToolMoto.SpadeMoto.SpadePush"
+- "Moto.ToolMoto.SpadeMoto.SpadeUnplant"
 
 :::
  
-# 🟠 <move>Spade Overview</move>
+# 🟠 <moto>Spade Overview</moto>
 
 ## StaffSpade
 

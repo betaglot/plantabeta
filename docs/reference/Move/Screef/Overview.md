@@ -6,11 +6,11 @@
 - "Eco.Screef.DinnerPlateScreef"
 - "Eco.Screef.Overview"
 - "Eco.Screef.PocketScreef"
-- "Move.ScreefMove.Overview"
+- "Moto.ScreefMoto.Overview"
 
 :::
 
-# 🟠 <move>Screef Overview</move>
+# 🟠 <moto>Screef Overview</moto>
 
 ## Screef Anatomy
 - Center

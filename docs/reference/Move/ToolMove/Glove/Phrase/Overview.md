@@ -4,4 +4,4 @@
 
 :::
 
-# 🔷 <move>GlovePhrase</move>
+# 🔷 <moto>GlovePhrase</moto>

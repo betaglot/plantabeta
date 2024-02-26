@@ -2,14 +2,14 @@
 
 <h2>PageTags</h2>
 
-- "Move.BodyMove.Walk"
+- "Moto.BodyMoto.Walk"
 
 :::
 
-# 🟠 <move>Walk</move>
+# 🟠 <moto>Walk</moto>
 
 
-![MoveImage](/Move/MoveImage.png)
+![MotoImage](/Moto/MotoImage.png)
 
 ## Questions about the Element
 
@@ -19,20 +19,20 @@
 - Tool2
 - Tool3
 
-## <move>Move Phrase</move>
+## <moto>Moto Phrase</moto>
 
 <div style="display: flex">
     <div>
-        <img style="margin: 5px" height="200" width="200" src="/Move/MoveImage.png"/>
-        <p>Description of Move Photo</p>
+        <img style="margin: 5px" height="200" width="200" src="/Moto/MotoImage.png"/>
+        <p>Description of Moto Photo</p>
     </div>
     <div>
-        <img style="margin: 5px" height="200" width="200" src="/Move/MoveImage.png"/>
-        <p>Description of Move Photo</p>
+        <img style="margin: 5px" height="200" width="200" src="/Moto/MotoImage.png"/>
+        <p>Description of Moto Photo</p>
     </div>
     <div>
-        <img style="margin: 5px" height="200" width="200" src="/Move/MoveImage.png"/>
-        <p>Description of Move Photo</p>
+        <img style="margin: 5px" height="200" width="200" src="/Moto/MotoImage.png"/>
+        <p>Description of Moto Photo</p>
     </div>
     
     
@@ -68,10 +68,10 @@
     src="https://observablehq.com/embed/@d3/force-directed-graph/2?cells=chart"
 ></iframe>
 
-## Related <move>MoveElements</move>
-- Walk  [<move>DeadWalking</move>](/reference/Move/MoveError#dead-walk).
-- Description of how this Walk relates to a particular [<move>MoveElement</move>](/reference/Move/MoveOverview).
-- Description of how this Walk relates to a particular [<move>MoveElement</move>](/reference/Move/MoveOverview).
+## Related <moto>MotoElements</moto>
+- Walk  [<moto>DeadWalking</moto>](/reference/Moto/MotoError#dead-walk).
+- Description of how this Walk relates to a particular [<moto>MotoElement</moto>](/reference/Moto/MotoOverview).
+- Description of how this Walk relates to a particular [<moto>MotoElement</moto>](/reference/Moto/MotoOverview).
 
 ## Related 🟩<eco>EcoElements</eco>
 - 
@@ -82,13 +82,13 @@
 -  
 ## Quotes
 
-Quotes about this Move
+Quotes about this Moto
 
 > Quote
 
-## MoveErrors
+## MotoErrors
 
-- Ways that this Move could be performed in correctly, causing injury or causing inefficiencies.
+- Ways that this Moto could be performed in correctly, causing injury or causing inefficiencies.
 
 ## Examples
 
@@ -96,7 +96,7 @@ Quotes about this Move
 
 
 
-Links to other related movements. Related because they are the same MoveType or because they are performed at the same time or within the same Phrase. 
+Links to other related movements. Related because they are the same MotoType or because they are performed at the same time or within the same Phrase. 
 
 ## See also:
 

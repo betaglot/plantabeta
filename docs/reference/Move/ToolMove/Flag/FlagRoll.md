@@ -2,11 +2,11 @@
 
 <h2>PageTags</h2>
 
-- "Move.ToolMove.FlagMove.FlagRoll"
+- "Moto.ToolMoto.FlagMoto.FlagRoll"
 
 :::
 
-# 🟠 <move>FlagRoll</move>
+# 🟠 <moto>FlagRoll</moto>
 
 ## FlagUnroll
 

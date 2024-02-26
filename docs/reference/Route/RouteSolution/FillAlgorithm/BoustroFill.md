@@ -185,10 +185,10 @@ Graph which represents how this element is related to other elements in Plantbet
 - Description of how this ViaElement relates to a particular [<neuro>NeuroElement</neuro>]().
 - Description of how this ViaElement relates to a particular [<neuro>NeuroElement</neuro>]().
 
-## MoveElements
+## MotoElements
 - [TurnAround]
-- Description of how this ViaElement relates to a particular [<move>MoveElement</move>]().
-- Description of how this ViaElement relates to a particular [<move>MoveElement</move>]().
+- Description of how this ViaElement relates to a particular [<moto>MotoElement</moto>]().
+- Description of how this ViaElement relates to a particular [<moto>MotoElement</moto>]().
 
 ## Examples
 

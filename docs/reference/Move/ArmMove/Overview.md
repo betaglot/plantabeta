@@ -2,31 +2,31 @@
 
 <h2>PageTags</h2>
 
-- "Move.ArmMove.ArmBrake"
-- "Move.ArmMove.ArmCircumduction"
-- "Move.ArmMove.ArmCross"
-- "Move.ArmMove.ArmExtension"
-- "Move.ArmMove.ArmExternalRotation"
-- "Move.ArmMove.ArmFlexion"
-- "Move.ArmMove.ArmInternalRotation"
-- "Move.ArmMove.ArmLock"
-- "Move.ArmMove.ArmReach"
-- "Move.ArmMove.ArmRockOver"
-- "Move.ArmMove.ArmRow"
-- "Move.ArmMove.ArmShakeOut"
-- "Move.ArmMove.ArmSlot"
-- "Move.ArmMove.ArmTRex"
-- "Move.ArmMove.ElbowMagnets"
-- "Move.ArmMove.Overview"
-- "Move.ArmMove.ShoulderMove.Overview"
-- "Move.ArmMove.ShoulderMove.ShoulderDepress"
-- "Move.ArmMove.ShoulderMove.ShoulderElevate"
-- "Move.ArmMove.ShoulderMove.ShoulderProtract"
-- "Move.ArmMove.ShoulderMove.ShoulderRetract"
+- "Moto.ArmMoto.ArmBrake"
+- "Moto.ArmMoto.ArmCircumduction"
+- "Moto.ArmMoto.ArmCross"
+- "Moto.ArmMoto.ArmExtension"
+- "Moto.ArmMoto.ArmExternalRotation"
+- "Moto.ArmMoto.ArmFlexion"
+- "Moto.ArmMoto.ArmInternalRotation"
+- "Moto.ArmMoto.ArmLock"
+- "Moto.ArmMoto.ArmReach"
+- "Moto.ArmMoto.ArmRockOver"
+- "Moto.ArmMoto.ArmRow"
+- "Moto.ArmMoto.ArmShakeOut"
+- "Moto.ArmMoto.ArmSlot"
+- "Moto.ArmMoto.ArmTRex"
+- "Moto.ArmMoto.ElbowMagnets"
+- "Moto.ArmMoto.Overview"
+- "Moto.ArmMoto.ShoulderMoto.Overview"
+- "Moto.ArmMoto.ShoulderMoto.ShoulderDepress"
+- "Moto.ArmMoto.ShoulderMoto.ShoulderElevate"
+- "Moto.ArmMoto.ShoulderMoto.ShoulderProtract"
+- "Moto.ArmMoto.ShoulderMoto.ShoulderRetract"
 
 :::
 
-# 🟠 <move>Arm Overview</move>
+# 🟠 <moto>Arm Overview</moto>
 
 ## Arm Anatomy
 

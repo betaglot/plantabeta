@@ -51,7 +51,7 @@
 
 ## Spatial Pattern
 
-## Spatial Movement
+## Spatial Motoment
 
 ## Cognitive Map
 
@@ -78,7 +78,7 @@ ViaPlan vs. ActualVia
 
 ## <eco>EcoSpace</eco>
 
-## <move>MoveSpace</move>
+## <moto>MotoSpace</moto>
 
 ## <route>ViaSpace</route>
 

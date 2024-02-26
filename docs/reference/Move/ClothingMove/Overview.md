@@ -2,11 +2,11 @@
 
 <h2>PageTags</h2>
 
-- "Move.ClothingMove.Overview"
+- "Moto.ClothingMoto.Overview"
 
 :::
 
-# 🟠 <move>Clothing Overview</move>
+# 🟠 <moto>Clothing Overview</moto>
 
 ## Clothing Properties
 

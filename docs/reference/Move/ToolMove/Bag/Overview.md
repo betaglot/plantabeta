@@ -3,13 +3,13 @@
 ![PaperPhoto](/PaperPhoto/0048.jpg)
 <h2>PageTags</h2>
 
-- "Move.ToolMove.BagMove.BaggingUp"
-- "Move.ToolMove.BagMove.BagOver"
-- "Move.ToolMove.BagMove.BagShield"
-- "Move.ToolMove.BagMove.Overview"
+- "Moto.ToolMoto.BagMoto.BaggingUp"
+- "Moto.ToolMoto.BagMoto.BagOver"
+- "Moto.ToolMoto.BagMoto.BagShield"
+- "Moto.ToolMoto.BagMoto.Overview"
 :::
 
-# 🟠 <move>Bag Overview</move>
+# 🟠 <moto>Bag Overview</moto>
 
 ## Bag Anatomy
 

@@ -46,7 +46,7 @@
 ### Basketball
 
 - Play diagram [InsertImage]
-- MovePhrase
+- MotoPhrase
 
 ### Skiing
 
@@ -72,7 +72,7 @@ Planting while your body is moving away or towards hole
 ## Martial Arts
 
 
-- [BranchDeflection](/reference/Move/VegeMove/BranchDeflection)
+- [BranchDeflection](/reference/Moto/VegeMoto/BranchDeflection)
 - [HeadBob]()
 - [HandClose]()
     - [PunchClose]()

@@ -38,7 +38,7 @@ The best resource which can be found is Replant.ca, but this site could be bette
     - [PocketArea](/reference/Eco/Area/PocketArea.md)
         - It's more efficient to AreaFill than PerimeterFill (ViaElements) a PocketArea.
         - You need to define the boundaries of the area (NeuroElement).
-    - [HandScreef](/reference/Move/HandMove/HandScreef)
+    - [HandScreef](/reference/Moto/HandMoto/HandScreef)
         - The SoilType (EcoElement) determines if you SpadeScreef or HandScreef.
         - You need to see and feel (NeuroElements) where the duff layer becomes MineralSoil to perform an effective HandScreef.
     - [BackFill](/reference/Via/PieceFill/BackFill)
@@ -46,7 +46,7 @@ The best resource which can be found is Replant.ca, but this site could be bette
     - [BagUpSizeDecision](/reference/Neuro/Decision/BagUpSizeDecision)
         - The Eco affects the BagUpSize, bigger BagUpSize for straight trenches (EcoElement) compared to RawLand (EcoElement).
         - BagUpSize depends on how fatigued (Neuro) you are.
-        - BagUpSize affects how fast you can move (MoveElement) and how easily you can climb over slash (EcoElement).
+        - BagUpSize affects how fast you can move (MotoElement) and how easily you can climb over slash (EcoElement).
         - If you need to BackFill (ViaElement) a piece then you typically have a large BagUpSize.
 
 ## How is Plantbeta Innovative and Educational?
@@ -56,7 +56,7 @@ The best resource which can be found is Replant.ca, but this site could be bette
 - Plantbeta is **FREE** educational resource for Planters.
 - Plantbeta explains how to plant in greater nuance than ever before, by breaking down a Planter's experience into 4 interdependent subsystems:
     - Eco System
-    - Move System
+    - Moto System
     - Routing System
         - Also known as 'Land Management'
     - Neuro System
@@ -138,7 +138,7 @@ Flagging reduction, the goal is a 60% reduction in single use plastics...Veteran
 
 #### Photography
 - Take photos of Eco from the ground and from the air (with Jess's help), then abstract them into Eco Diagrams.
-- Take photos and videos of Planters for Move and Via Element Profiles. 
+- Take photos and videos of Planters for Moto and Via Element Profiles. 
 
 #### Recording Observations
 
@@ -165,7 +165,7 @@ Flagging reduction, the goal is a 60% reduction in single use plastics...Veteran
 
 From the end of this planting season to end of next season, I'll be making Plantbeta and building Quastuco's new website. Some of the task will be: 
 - Building Quastuco.com
-- Editing videos of Moves into Gifs and Photos
+- Editing videos of Motos into Gifs and Photos
 - Editing and inserting photos into ElementProfiles
 - Making EcoDiagrams from EcoPhotos
 - Writing all the text for Plantbeta.

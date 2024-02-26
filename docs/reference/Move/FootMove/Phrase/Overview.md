@@ -2,10 +2,10 @@
 
 <h2>PageTags</h2>
 
-- "Move.FootMove.FootMatch"
-- "Move.FootMove.FootMatch"
-- "Move.FootMove.FootSwap"
+- "Moto.FootMoto.FootMatch"
+- "Moto.FootMoto.FootMatch"
+- "Moto.FootMoto.FootSwap"
 
 :::
 
-# 🔷 <move>Foot Phrase</move>
+# 🔷 <moto>Foot Phrase</moto>

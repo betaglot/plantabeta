@@ -26,7 +26,7 @@ Deck of cards
 
 Phrase of MOvementCards
 
-MoveCard
+MotoCard
 
 ElementCard
 
@@ -38,11 +38,11 @@ Group of Cards
 
 A Vuetify Component
 
-MoveCards are positioned along a ViaCurve 
+MotoCards are positioned along a ViaCurve 
 
 ### CardShape
 
-MoveCards are positioned in a FillChart
+MotoCards are positioned in a FillChart
 
 ## Rhythm
 
@@ -75,9 +75,9 @@ Standardize the way that Phrases of BetaElements are represented in code and gra
 
 🔷 Code
 
-## Differentiate(Phrase, Supermove, Move, Submove, BodyMove)
+## Differentiate(Phrase, Supermove, Moto, Submove, BodyMoto)
 
-An ArmPhrase is a list of ArmMoves performed in Parallel (BoxCarry), Concurrently (SpadeLift, TreeLoad)
+An ArmPhrase is a list of ArmMotos performed in Parallel (BoxCarry), Concurrently (SpadeLift, TreeLoad)
 
 
 
@@ -101,7 +101,7 @@ Control flow is the codified version of [Decision Making](/reference/Neuro/Decis
 
 ### Else
 
-- Alternative Movement
+- Alternative Motoment
 
 ## GIF
 

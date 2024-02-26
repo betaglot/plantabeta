@@ -41,10 +41,10 @@ Answer 3
 
 ## Related 💜<neuro>NeuroElements</neuro> 
 
-## Related 🟠<move>MoveElements</move>
-- Description of how this <neuro>NeuroElement </neuro>relates to a particular [<move>MoveElement</move>](/reference/Move/MoveOverview).
-- Description of how this <neuro>NeuroElement </neuro>relates to a particular [<move>MoveElement</move>](/reference/Move/MoveOverview).
-- Description of how this <neuro>NeuroElement </neuro>relates to a particular [<move>MoveElement</move>](/reference/Move/MoveOverview).
+## Related 🟠<moto>MotoElements</moto>
+- Description of how this <neuro>NeuroElement </neuro>relates to a particular [<moto>MotoElement</moto>](/reference/Moto/MotoOverview).
+- Description of how this <neuro>NeuroElement </neuro>relates to a particular [<moto>MotoElement</moto>](/reference/Moto/MotoOverview).
+- Description of how this <neuro>NeuroElement </neuro>relates to a particular [<moto>MotoElement</moto>](/reference/Moto/MotoOverview).
 
 ## Related 🟩<eco>EcoElements</eco>
 - 

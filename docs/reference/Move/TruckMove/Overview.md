@@ -2,11 +2,11 @@
 
 <h2>PageTags</h2>
 
-- "Move.ToolMove.TruckMove.Overview"
+- "Moto.ToolMoto.TruckMoto.Overview"
 
 :::
 
-# 🟠 <move>Truck Overview</move>
+# 🟠 <moto>Truck Overview</moto>
 
 ## Truck Anatomy
 

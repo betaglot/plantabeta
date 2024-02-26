@@ -17,7 +17,7 @@
 - "Dev.Transcription"
 - "Dev.Transcription.TranscriptionPhrase"
 - "Dev.VideoAnalysis.VideoTagging"
-- "Move.MoveVideo"
+- "Moto.MotoVideo"
 :::
 
 # 🛠 Tagging

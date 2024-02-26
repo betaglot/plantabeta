@@ -2,10 +2,10 @@
 
 <h2>PageTags</h2>
 
-- "Move.ToolMove.BootMove.LaceKnot"
+- "Moto.ToolMoto.BootMoto.LaceKnot"
 
 :::
-# 🟠 <move>LaceKnot</move>
+# 🟠 <moto>LaceKnot</moto>
 
 ## LaceTieUp
 

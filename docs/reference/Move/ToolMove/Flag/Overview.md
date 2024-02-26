@@ -2,14 +2,14 @@
 
 <h2>PageTags</h2>
 
-- "Move.ToolMove.FlagMove.FlagDrop"
-- "Move.ToolMove.FlagMove.FlagStump"
-- "Move.ToolMove.FlagMove.MoveError.PlantedFlag"
-- "Move.ToolMove.FlagMove.Overview"
+- "Moto.ToolMoto.FlagMoto.FlagDrop"
+- "Moto.ToolMoto.FlagMoto.FlagStump"
+- "Moto.ToolMoto.FlagMoto.MotoError.PlantedFlag"
+- "Moto.ToolMoto.FlagMoto.Overview"
 
 :::
 
-# 🟠 <move>Flag Overview</move>
+# 🟠 <moto>Flag Overview</moto>
 
 ## FlagPut
 

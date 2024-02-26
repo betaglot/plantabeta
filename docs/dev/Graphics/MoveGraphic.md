@@ -5,29 +5,29 @@
 
 <h2>PageTags</h2>
 
-- "Move.MoveCard"
-- "Move.MoveDecomposition"
-- "Move.MoveDiagram.MoveTimeline"
-- "Move.MoveDiagram.OrthographicDiagram"
-- "Move.MoveDiagram.Overview"
-- "Move.MoveDiagram.Stickfigure"
-- "Move.MoveGif"
-- "Move.MoveLine"
-- "Move.MoveLine.CenterOfMassLine"
-- "Move.MoveLine.MoveDisplacementLine"
-- "Move.MoveLine.MoveDistanceLine"
-- "Move.MoveLine.MoveMirrorLine"
-- "Move.MoveLine.Overview"
-- "Move.MovePhoto"
-- "Move.PlanterDiagram"
-- "Move.PlanterDiagram.LevelOfDetail"
+- "Moto.MotoCard"
+- "Moto.MotoDecomposition"
+- "Moto.MotoDiagram.MotoTimeline"
+- "Moto.MotoDiagram.OrthographicDiagram"
+- "Moto.MotoDiagram.Overview"
+- "Moto.MotoDiagram.Stickfigure"
+- "Moto.MotoGif"
+- "Moto.MotoLine"
+- "Moto.MotoLine.CenterOfMassLine"
+- "Moto.MotoLine.MotoDisplacementLine"
+- "Moto.MotoLine.MotoDistanceLine"
+- "Moto.MotoLine.MotoMirrorLine"
+- "Moto.MotoLine.Overview"
+- "Moto.MotoPhoto"
+- "Moto.PlanterDiagram"
+- "Moto.PlanterDiagram.LevelOfDetail"
 :::
 
-# 🛠 🟠 <move>Move Graphics</move>
+# 🛠 🟠 <moto>Moto Graphics</moto>
 
-## 🟠 <move>MoveCard</move>
+## 🟠 <moto>MotoCard</moto>
 Mirror images for ambidextrous planter
 
-## 🟠 <move>MoveTimeline</move>
+## 🟠 <moto>MotoTimeline</moto>
 
-## 🟠 <move>MoveTree</move>
+## 🟠 <moto>MotoTree</moto>

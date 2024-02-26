@@ -4,4 +4,4 @@
 
 :::
 
-# 🔷 <move>Kit Phrase</move>
+# 🔷 <moto>Kit Phrase</moto>

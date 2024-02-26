@@ -18,7 +18,7 @@
 ## Voronoi Diagram
 
 
-### <move>MoveVoronoi</move>
+### <moto>MotoVoronoi</moto>
 ![Fencing](/Via/Voronoi/FencingVoronoi.png)
 
 

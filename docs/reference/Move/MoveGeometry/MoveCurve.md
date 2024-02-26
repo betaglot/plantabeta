@@ -1,1 +1,1 @@
-# <move>Move Curve</move>
+# <moto>Moto Curve</moto>

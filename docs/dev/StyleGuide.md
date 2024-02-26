@@ -108,7 +108,7 @@ https://developers.google.com/style/person
 
 ## Color
 
-### <move>MoveColor</move>
+### <moto>MotoColor</moto>
 ```ts
 #bf6a34
 ```
@@ -176,10 +176,10 @@ When is it useful for emojis to be monochrome outlines?
 
 <beta>`eco`</beta>
 
-<code><move>eco</move></code>
+<code><moto>eco</moto></code>
 
 ```html
-<code><move>eco</move></code>
+<code><moto>eco</moto></code>
 ```
 
 
@@ -192,7 +192,7 @@ When is it useful for emojis to be monochrome outlines?
 
 :::
 ```
-### <dev>DesignBox</dev>.Move
+### <dev>DesignBox</dev>.Moto
 
 ```md
 ::: details 🛠 <dev>DesignBox</dev> 
@@ -201,7 +201,7 @@ When is it useful for emojis to be monochrome outlines?
 
 :::
 
-# 🟠 <move>Move</move>
+# 🟠 <moto>Moto</moto>
 
 ```
 

@@ -62,7 +62,7 @@ Select:
 
 ## Related <eco>EcoElements</eco>🟩
 
-## Related <move>MoveElements</move>
+## Related <moto>MotoElements</moto>
 
 
 ## Related <route>ViaElements</route>

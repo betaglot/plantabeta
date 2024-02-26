@@ -4,4 +4,4 @@
 
 :::
 
-# 🔷 <move>Head Phrase</move>
+# 🔷 <moto>Head Phrase</moto>

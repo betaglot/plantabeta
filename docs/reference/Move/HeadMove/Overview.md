@@ -1,14 +1,14 @@
 ::: details 🛠 <dev>DesignBox</dev> 
 <h2>PageTags</h2>
 
-- "Move.HeadMove.Find.Flag"
-- "Move.HeadMove.LookAt"
-- "Move.HeadMove.Overview"
+- "Moto.HeadMoto.Find.Flag"
+- "Moto.HeadMoto.LookAt"
+- "Moto.HeadMoto.Overview"
 
 
 :::
 
-# 🟠 <move>Head Overview</move>
+# 🟠 <moto>Head Overview</moto>
 
 ## Head Anatomy
 

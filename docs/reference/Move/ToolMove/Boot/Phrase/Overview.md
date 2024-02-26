@@ -4,4 +4,4 @@
 
 :::
 
-# 🔷 <move>Boot Phrase</move>
+# 🔷 <moto>Boot Phrase</moto>

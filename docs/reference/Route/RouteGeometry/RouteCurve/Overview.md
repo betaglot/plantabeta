@@ -2,7 +2,7 @@
 
 <h2>PageTags</h2>
 
-- "Via.ViaGeometry.ViaCurve.AdvancingMove"
+- "Via.ViaGeometry.ViaCurve.AdvancingMoto"
 - "Via.ViaGeometry.ViaCurve.BagUpLine"
 - "Via.ViaGeometry.ViaCurve.BeeLine"
 - "Via.ViaGeometry.ViaCurve.BoundaryLine.ArtificialBoundaryLine"

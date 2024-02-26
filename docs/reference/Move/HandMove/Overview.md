@@ -2,30 +2,30 @@
 
 <h2>PageTags</h2>
 
-- "Move.HandMove.CupGrip"
-- "Move.HandMove.FingerMove.FingerCurl"
-- "Move.HandMove.FingerMove.FingerFlexion"
-- "Move.HandMove.FingerMove.FingerHook"
-- "Move.HandMove.FingerMove.FingerPoke"
-- "Move.HandMove.FingerMove.Overview"
-- "Move.HandMove.FingerMove.ThumbHook
-- Move.HandMove.FingerMove.FingerExtension"
-- "Move.HandMove.FingerOverlapPoke"
-- "Move.HandMove.FingertipPress"
-- "Move.HandMove.GentleGrip"
-- "Move.HandMove.HandRoll"
-- "Move.HandMove.HandSlide"
-- "Move.HandMove.HandSlot"
-- "Move.HandMove.HandSmear"
-- "Move.HandMove.HandSwap"
-- "Move.HandMove.Overview"
-- "Move.HandMove.PinchGrip"
-- "Move.HandMove.TrunkGrip"
-- "Move.HandMove.UnderclingGrip"
+- "Moto.HandMoto.CupGrip"
+- "Moto.HandMoto.FingerMoto.FingerCurl"
+- "Moto.HandMoto.FingerMoto.FingerFlexion"
+- "Moto.HandMoto.FingerMoto.FingerHook"
+- "Moto.HandMoto.FingerMoto.FingerPoke"
+- "Moto.HandMoto.FingerMoto.Overview"
+- "Moto.HandMoto.FingerMoto.ThumbHook
+- Moto.HandMoto.FingerMoto.FingerExtension"
+- "Moto.HandMoto.FingerOverlapPoke"
+- "Moto.HandMoto.FingertipPress"
+- "Moto.HandMoto.GentleGrip"
+- "Moto.HandMoto.HandRoll"
+- "Moto.HandMoto.HandSlide"
+- "Moto.HandMoto.HandSlot"
+- "Moto.HandMoto.HandSmear"
+- "Moto.HandMoto.HandSwap"
+- "Moto.HandMoto.Overview"
+- "Moto.HandMoto.PinchGrip"
+- "Moto.HandMoto.TrunkGrip"
+- "Moto.HandMoto.UnderclingGrip"
 
 :::
 
-# 🟠 <move>Hand Overview</move>
+# 🟠 <moto>Hand Overview</moto>
 
 ## Hand Anatomy
 

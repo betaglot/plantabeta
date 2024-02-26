@@ -2,11 +2,11 @@
 
 <h2>PageTags</h2>
 
-- "Move.ToolMove.BoxMove.BoxStack"
+- "Moto.ToolMoto.BoxMoto.BoxStack"
 
 :::
 
-# 🔷 <move>Box Phrase</move>
+# 🔷 <moto>Box Phrase</moto>
 
 
 

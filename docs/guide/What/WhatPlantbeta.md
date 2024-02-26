@@ -168,7 +168,7 @@ Plantbeta combines the best practices of the Planting Industry to offer the most
 ### Integrates
 
 - Connects planting to climbing
-    - [<move>Klimbeta</move>](https://klimbeta.github.io/klimbeta/)
+    - [<moto>Klimbeta</moto>](https://klimbeta.github.io/klimbeta/)
 - Connects NovicePlanters to ExperiencedPlanters
 
 ---

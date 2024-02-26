@@ -4,7 +4,7 @@
 
 - "Guide.Why.Injury"
 - "Guide.Why.Injury.ValgusKnee"
-- "Move.Ambidexterity"
+- "Moto.Ambidexterity"
 
 :::
 
@@ -17,7 +17,7 @@
 
 Planters can get injured when they don't adapt movements to the specific situation. Plantbeta gives many options to adapt movements for any situation. 
 
-Some Planters only know how to [HandClose](/reference/Move/HandMove/HandClose) one way, but there are many different ways. Even slightly varying a movements can reduce repetitive strain injuries.
+Some Planters only know how to [HandClose](/reference/Moto/HandMoto/HandClose) one way, but there are many different ways. Even slightly varying a movements can reduce repetitive strain injuries.
 
 ## Repetitive Strain
 
@@ -26,7 +26,7 @@ Injury can occur in Planters when they perform the same movement repeatedly.
 - Do ambidextrous Planters suffer less injury caused by repetitive strain?
     - Repetitive Motion
     - Greater movement variability reduces movement repetition. 
-        - How many [HandClosing](/reference/Move/HandMove/HandClose)  methods do you know? 
+        - How many [HandClosing](/reference/Moto/HandMoto/HandClose)  methods do you know? 
     
 
 ## Reduces Injuries from Falling
@@ -35,16 +35,16 @@ Plantbeta teaches Planters how to move through their [Eco](/reference/Eco/EcoOve
 
 Falling is a large part of Climbing. Plantbeta transfers the knowledge of how to fall safely from climbing to Planting.
 
-::: tip Some of the Moves used to safely Fall
-- [BodyAbsorb](/reference/Move/BodyMove/BodyAbsorb)
-- [BodyRedirect](/reference/Move/BodyMove/BodyRedirect)
+::: tip Some of the Motos used to safely Fall
+- [BodyAbsorb](/reference/Moto/BodyMoto/BodyAbsorb)
+- [BodyRedirect](/reference/Moto/BodyMoto/BodyRedirect)
 :::
 
 ## Wrist Tendonitis
 
 Wrist Tendonitis occurs from straining the tissues around the wrist. The strain can be acute, such as when a Planter hits a rock with full force and doesn't absorb the shock, or the strain can be from repetitive use.
 
-- [ArmAbsorb](/reference/Move/ArmMove/ArmAbsorb) during the impact of [SpadeThrow](/reference/Move/ToolMove/Spade/SpadeThrow)
+- [ArmAbsorb](/reference/Moto/ArmMoto/ArmAbsorb) during the impact of [SpadeThrow](/reference/Moto/ToolMoto/Spade/SpadeThrow)
 - 
 
 ## Christmas Toe

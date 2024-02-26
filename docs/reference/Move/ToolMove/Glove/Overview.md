@@ -2,11 +2,11 @@
 
 <h2>PageTags</h2>
 
-- "Move.ToolMove.GloveMove.Overview"
+- "Moto.ToolMoto.GloveMoto.Overview"
 
 :::
 
-# 🟠 <move>Glove Overview</move>
+# 🟠 <moto>Glove Overview</moto>
 
 ## Glove Anatomy
 

@@ -2,7 +2,7 @@
 
 :::
 
-# 🔷 <move>Body Phrase</move>
+# 🔷 <moto>Body Phrase</moto>
 
 ## Get
 

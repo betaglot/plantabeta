@@ -18,7 +18,7 @@
 # 🔺 <route>Flag Overview</route>
 
 Tool=Flagger
-Move=Flagging
+Moto=Flagging
 
 FlagRip
 

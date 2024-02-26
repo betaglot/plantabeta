@@ -4,4 +4,4 @@
 
 :::
 
-# 🔷 <move>Vege Phrase</move>
+# 🔷 <moto>Vege Phrase</moto>

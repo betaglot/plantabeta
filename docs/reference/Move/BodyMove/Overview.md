@@ -2,15 +2,15 @@
 <h2>PageTags</h2>
 
 
-- "Move.BodyMove.BodyDrop.BodyDropInto"
-- "Move.BodyMove.BodyLock"
-- "Move.BodyMove.BodyPosture"
-- "Move.BodyMove.Landing"
-- "Move.BodyMove.Landing.MoveError.LegProp"
-- "Move.BodyMove.Mantle"
-- "Move.BodyMove.Overview"
-- "Move.BodyMove.Stemming"
-- "Move.BodyMove.Straddle"
+- "Moto.BodyMoto.BodyDrop.BodyDropInto"
+- "Moto.BodyMoto.BodyLock"
+- "Moto.BodyMoto.BodyPosture"
+- "Moto.BodyMoto.Landing"
+- "Moto.BodyMoto.Landing.MotoError.LegProp"
+- "Moto.BodyMoto.Mantle"
+- "Moto.BodyMoto.Overview"
+- "Moto.BodyMoto.Stemming"
+- "Moto.BodyMoto.Straddle"
 - Body move overview every single move is a body move so body move is the superset of everything because a planter is a body so there's body moves and then there's each limb has their own particular variation for about for a body move body moves
 
 -  a good image for the body move would be I think it'd be a good idea to have a picture of the body that planters don't normally see so like a top few would be good body moves the biggest 
@@ -27,7 +27,7 @@
 
 :::
 
-# 🟠 <move>Body Overview</move>
+# 🟠 <moto>Body Overview</moto>
 
 ## Body Anatomy
 

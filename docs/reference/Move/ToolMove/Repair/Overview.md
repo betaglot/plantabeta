@@ -4,7 +4,7 @@
 
 :::
 
-# 🟠 <move>Tool Maintenance</move>
+# 🟠 <moto>Tool Maintenance</moto>
 
 Temporary Repair until you can have your tools repaired by a professional.
 

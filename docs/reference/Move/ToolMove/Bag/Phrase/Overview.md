@@ -2,8 +2,8 @@
 
 <h2>PageTags</h2>
 
-- "Move.ToolMove.BagMove.BagOn"
+- "Moto.ToolMoto.BagMoto.BagOn"
 
 :::
 
-# 🔷 <move>Bag Phrase</move>
+# 🔷 <moto>Bag Phrase</moto>

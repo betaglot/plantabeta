@@ -7,7 +7,7 @@ You don't need to communicate Beta all the time, but when you do, Plantbeta help
 
 Beta is the syntax
 
-Moves are the objects and functions
+Motos are the objects and functions
 
 BetaScript can be used in Planting and Climbing, on Plantbeta.com and Klimbeta.com
 
@@ -58,7 +58,7 @@ for Bundle in Box:
 
 ### Phrase
 
-> A dance phrase or sequence can be likened to a sentence formed when speaking. Sometimes we refer to dance phrases as movement sequences. For the purpose of this lesson either term is acceptable. Each phrase has a beginning, middle, and end. Movements selected in a dance phrase may flow one to the other naturally or may be connected by a transition movement. Evolving dance sequences from action words is another way to demystify the creative process. Action words lead to the formation of individual dance phrases and provide the framework for further developing those phrases into larger compositional forms. In this lesson, the action words are common terms used in contemporary dance.
+> A dance phrase or sequence can be likened to a sentence formed when speaking. Sometimes we refer to dance phrases as movement sequences. For the purpose of this lesson either term is acceptable. Each phrase has a beginning, middle, and end. Motoments selected in a dance phrase may flow one to the other naturally or may be connected by a transition movement. Evolving dance sequences from action words is another way to demystify the creative process. Action words lead to the formation of individual dance phrases and provide the framework for further developing those phrases into larger compositional forms. In this lesson, the action words are common terms used in contemporary dance.
 - https://us.humankinetics.com/blogs/excerpt/phrase-linking-movements
 
 CodeBlock

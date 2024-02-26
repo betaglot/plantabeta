@@ -4,7 +4,7 @@
 
 :::
 
-# 🟠 <move>Kit Overview</move>
+# 🟠 <moto>Kit Overview</moto>
 
 AlsoKnownAs(CacheBag)
 ## Definition(Kit)
@@ -28,4 +28,4 @@ Kit = {
 }
 ```
 
-### BottleRefillMove
+### BottleRefillMoto

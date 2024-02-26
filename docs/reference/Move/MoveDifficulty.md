@@ -2,11 +2,11 @@
 
 <h2>PageTags</h2>
 
-- "Move.MoveDifficulty.MoveComplexity"
-- "Move.MoveDifficulty.MoveIntensity"
-- "Move.MoveDifficulty.MoveRisk"
-- "Move.MoveDifficulty.Overview"
+- "Moto.MotoDifficulty.MotoComplexity"
+- "Moto.MotoDifficulty.MotoIntensity"
+- "Moto.MotoDifficulty.MotoRisk"
+- "Moto.MotoDifficulty.Overview"
 
 :::
 
-# 🔷 <move>MoveDifficulty</move>
+# 🔷 <moto>MotoDifficulty</moto>

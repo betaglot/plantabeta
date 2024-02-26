@@ -2,15 +2,15 @@
 
 <h2>PageTags</h2>
 
-- "Move.VegeMove.Overview"
-- "Move.VegeMove.SnagMove.BagSnag"
-- "Move.VegeMove.SnagMove.FootSnag"
-- "Move.VegeMove.SnagMove.Overview"
-- "Move.VegeMove.SnagMove.SpadeSnag"
+- "Moto.VegeMoto.Overview"
+- "Moto.VegeMoto.SnagMoto.BagSnag"
+- "Moto.VegeMoto.SnagMoto.FootSnag"
+- "Moto.VegeMoto.SnagMoto.Overview"
+- "Moto.VegeMoto.SnagMoto.SpadeSnag"
 
 :::
 
-# 🟠 <move>Plant Overview</move>
+# 🟠 <moto>Plant Overview</moto>
 
 ## Plant Anatomy
 

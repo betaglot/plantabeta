@@ -141,7 +141,7 @@ Removes Value Addition // [!code --]
 ### Example of an Element's Value
 
 - Text
-    - RequiredMove
+    - RequiredMoto
     - Force required
     - Direction of travel
     - Instruction for what to do next.
@@ -149,14 +149,14 @@ Removes Value Addition // [!code --]
     - Density
     - TreeCount
     - ViaSequenceNumber
-    - MovePhraseNumber
+    - MotoPhraseNumber
     - StepCount
 - Location
     - TargetLocation in the Eco.
     - PotentialMicrosite
     - 
 - Array
-    - MovePhrase
+    - MotoPhrase
     - Set of Submoves
     - ViaSequence
 
@@ -192,19 +192,19 @@ Value is added along a Phrase of steps. Like Bioamplification of poison in Preda
 
 ---
 
-### MoveElementValue
+### MotoElementValue
 
-::: tip MoveElementValue Addition
+::: tip MotoElementValue Addition
 
 ---
 
 **Saves Time**
-- FlagMove while Walking away.
-- Use one forceful ScreefMove instead of many weak ScreefMoves.
+- FlagMoto while Walking away.
+- Use one forceful ScreefMoto instead of many weak ScreefMotos.
 - FootScreef a thin DuffLayer instead of bending over to SpadeScreef.   
 
 **Simplifies**
-- MoveShape 
+- MotoShape 
 - HighFlag your LineIn to make it easier for the Planter in a neighbouring piece to see their piece boundary lines. 
 
 **Reduces Risk**
@@ -213,8 +213,8 @@ Value is added along a Phrase of steps. Like Bioamplification of poison in Preda
 - Use ArmFlag to reduce the risk of Falling.
 
 **Connects**
-- AbsorbMove allows smooth transitions between Moves.
-- Use ArmAbsorb to redirect Spade during SpadeMoves.
+- AbsorbMoto allows smooth transitions between Motos.
+- Use ArmAbsorb to redirect Spade during SpadeMotos.
 
 **Reduces Effort**
 - Remove Clothing Layer to reduce your body's need for sweat.
@@ -240,13 +240,13 @@ Value is added along a Phrase of steps. Like Bioamplification of poison in Preda
 
 **Access**
 - Fold a plant out of the way of Hole.
-- Move a branch out of the way when walking through Slash or a residual patch.
+- Moto a branch out of the way when walking through Slash or a residual patch.
 
 
 :::
 
 
-::: danger MoveElementValue Subtraction
+::: danger MotoElementValue Subtraction
 
 ---
 
@@ -288,7 +288,7 @@ Value is added along a Phrase of steps. Like Bioamplification of poison in Preda
 
 :::
 
-MoveSelection.MoveEvaluation
+MotoSelection.MotoEvaluation
     - "Is that the **best** move for the current BetaInstance"
     - Neuro.Judgement
         - All evaluations are judgements. See Kahneman
@@ -298,7 +298,7 @@ MoveSelection.MoveEvaluation
 - Knowing where to go
     - Via
 - Knowing how to move
-    - MoveSelection
+    - MotoSelection
 
 - Required Tools 
     - A spade is more valuable than an extractor since it can solve more problems more efficiently. A spade solves the same problems as an extractor and can solve even more problems than an extractor.  
@@ -397,8 +397,8 @@ MoveSelection.MoveEvaluation
 **Connects**
 
 **ReducesEffort**
-- Easy HoleMove in CreamyEco is HighEcoValue.
-- Strenuous SlashMove in SlashyLand is LowEcoValue.
+- Easy HoleMoto in CreamyEco is HighEcoValue.
+- Strenuous SlashMoto in SlashyLand is LowEcoValue.
 
 **AvoidsHassles**
 
@@ -515,7 +515,7 @@ MoveSelection.MoveEvaluation
 
 
 
-#### MoveValue
+#### MotoValue
 - Successful SpadeProbe PositiveEcoTest. The Spade goes in deep enough to bury the seedling's roots.
 - HoleOpen gives value to InsertTree
 
@@ -557,7 +557,7 @@ Anything that a Planter needs to remember during a planting Phrase.
 
 ViaState
 
-MoveState
+MotoState
 
 ---
 

@@ -3,10 +3,10 @@
 
 <h2>PageTags</h2>
 
-- "Move.ToolMove.GaiterMove.Overview"
+- "Moto.ToolMoto.GaiterMoto.Overview"
 :::
 
-# 🟠 <move>Gaiter Overview</move>
+# 🟠 <moto>Gaiter Overview</moto>
 
 ## Gaiter Anatomy
 

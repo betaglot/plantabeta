@@ -4,6 +4,6 @@
 
 :::
 
-# 🟠 <move>ShrubPass</move>
+# 🟠 <moto>ShrubPass</moto>
 
 > Passing through a single or group of shrubs

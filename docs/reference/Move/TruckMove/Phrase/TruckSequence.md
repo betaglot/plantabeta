@@ -4,4 +4,4 @@
 
 :::
 
-# 🔷 <move>Truck Phrase</move>
+# 🔷 <moto>Truck Phrase</moto>

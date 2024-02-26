@@ -3,8 +3,8 @@
 
 <h2>PageTags</h2>
 
-- "Move.HandMove.HandBump"
-- "Move.HandMove.HandMatch"
+- "Moto.HandMoto.HandBump"
+- "Moto.HandMoto.HandMatch"
 :::
 
-# 🔷 <move>Hand Phrase</move>
+# 🔷 <moto>Hand Phrase</moto>
