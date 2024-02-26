@@ -5,26 +5,50 @@
 
 :::
 
-# 🔷 Phrase
+# 🔷 Sequence 
 
-Phrases are represented as 
-- Cards
-- Python List
-- Python Loop
-- 
+🔷: Sequence
+🟠: Phrase
+🟩: 
+🔻: 
+💜: 
+
+## Sequences are represented as 
+### Cards
+### [Python List](https://docs.python.org/3/library/stdtypes.html#sequence-types-list-tuple-range)
+> Lists are mutable sequences, typically used to store collections of homogeneous items (where the precise degree of similarity will vary by application).
+
+### [Python Range](https://docs.python.org/3/library/stdtypes.html#ranges)
+> The range type represents an immutable sequence of numbers and is commonly used for looping a specific number of times in for loops.   
+
+### [Python Tuple](https://docs.python.org/3/library/stdtypes.html#tuples)
+> Tuples are immutable sequences, typically used to store collections of heterogeneous data (such as the 2-tuples produced by the enumerate() built-in). Tuples are also used for cases where an immutable sequence of homogeneous data is needed (such as allowing storage in a set or dict instance).
 
 
 
 ```py
-Phrase[]
+>>> list(range(10))
+[0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
+>>> list(range(1, 11))
+[1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
+>>> list(range(0, 30, 5))
+[0, 5, 10, 15, 20, 25]
+>>> list(range(0, 10, 3))
+[0, 3, 6, 9]
+>>> list(range(0, -10, -1))
+[0, -1, -2, -3, -4, -5, -6, -7, -8, -9]
+>>> list(range(0))
+[]
+>>> list(range(1, 0))
+[]
 ```
 
 
-## Card Phrase
+## Card Sequence
 
 Deck of cards
 
-Phrase of MOvementCards
+Phrase of MotoCards
 
 MotoCard
 

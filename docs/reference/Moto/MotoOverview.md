@@ -171,6 +171,9 @@
 ![](/Moto/Moto_Emoji.png)
 
 
+## <moto>Moto Symbol</moto> 🟠
+
+> Orange Circle
 
 ## What is a Moto?
 

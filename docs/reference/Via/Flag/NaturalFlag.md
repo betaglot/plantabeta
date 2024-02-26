@@ -4,10 +4,10 @@
 
 :::
 
-# 🔺 <via>NaturalFlag</via>
+# 🔻 <via>NaturalFlag</via>
 
 
-![ViaImage](/Via/ViaImage.png)
+![ViaEmoji](/Via/Via_Emoji.png)
 
 ## Questions about the Element
 

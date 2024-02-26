@@ -4,11 +4,11 @@
 
 :::
 
-# 🔺 <via>Via Problem Overview</via>
+# 🔻 <via>Via Problem Overview</via>
 
 Define the Area to be Covered
 
-The ViaProblem is a lot smaller than the ViaSolution
+The ViaProblem is a lot smaller than the ViaTheorem
 
 The ViaProblem is thought about at ViaStart
 

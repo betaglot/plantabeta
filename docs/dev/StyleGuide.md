@@ -227,7 +227,7 @@ When is it useful for emojis to be monochrome outlines?
 
 :::
 
-# 🔺 <via>Via</via>
+# � <via>Via</via>
 
 ```
 
@@ -252,7 +252,7 @@ When is it useful for emojis to be monochrome outlines?
 
 :::
 
-# 🔷 <beta>Beta</beta>
+## 🔷 <beta>Beta</beta>
 
 ```
 
@@ -267,5 +267,17 @@ When is it useful for emojis to be monochrome outlines?
 
 # 🛠 <dev>Dev</dev>
 
+```
+
+
+
+## BetaSymbols
+
+```md
+🔷
+🟠
+🟩
+🔻
+💜
 ```
 

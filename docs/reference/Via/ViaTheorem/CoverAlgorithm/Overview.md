@@ -58,7 +58,7 @@ Coverin spandrels to show the mortar between ideal tree spacing spgeres
 
 :::
 
-# 🔺 <via>Cover Algorithm Overview</via>
+# 🔻 <via>Cover Algorithm Overview</via>
 
 ## Cover Algorithm
 

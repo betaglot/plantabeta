@@ -6,7 +6,7 @@
 
 # <neuro>Short Term Memory</neuro>
 
-![NeuroImage](/Neuro/NeuroImage.png)
+![NeuroEmoji](/Neuro/Neuro_Emoji.png)
 ## Questions about the Element
 
 ::: details Questions 1

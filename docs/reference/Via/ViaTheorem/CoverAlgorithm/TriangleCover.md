@@ -1,13 +1,16 @@
 ::: details 🛠 <dev>DesignBox</dev> 
 
+- Plant hexagons
 
+Moto on a hexagonal grid like CGP grey YouTube 
+https://youtu.be/bgR3yESAEVE
 
 :::
 
-# 🔺 <via>CrossingCover</via>
+# 🔻 <via>TriangleCover</via>
 
 
-![ViaImage](/Via/ViaImage.png)
+![ViaEmoji](/Via/Via_Emoji.png)
 
 ## Questions about the Element
 
@@ -74,3 +77,7 @@ Links to other related ViaElements.
 
 :::
 
+
+
+
+<!-- - [Triangulated irregular network](https://www.researchgate.net/publication/23541399_Algorithms_for_Visibility_Computation_on_Terrains_A_Survey) -->

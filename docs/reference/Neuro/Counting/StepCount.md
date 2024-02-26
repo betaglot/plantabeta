@@ -6,7 +6,7 @@
 
 # 💜 <neuro>StepCount </neuro>
 
-![NeuroImage](/Neuro/NeuroImage.png)
+![NeuroEmoji](/Neuro/Neuro_Emoji.png)
 ## Questions about the Element
 
 ::: details Questions 1
@@ -48,7 +48,7 @@ Graph which represents how this element is related to other elements in Plantbet
 - 
 ## Related 🟩<eco>EcoElements</eco>
 - 
-## Related 🔺<via>ViaElements</via>
+## Related 🔻<via>ViaElements</via>
 - 
 
 ## Examples

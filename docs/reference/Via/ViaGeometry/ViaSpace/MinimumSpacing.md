@@ -4,13 +4,13 @@
 
 :::
 
-# 🔺 <via>MinimumSpacing</via>
+# 🔻 <via>MinimumSpacing</via>
 
 - Space off Unburnt BurnPile
 - DripLine
 
 
-![ViaImage](/Via/ViaImage.png)
+![ViaEmoji](/Via/Via_Emoji.png)
 
 ## Questions about the Element
 

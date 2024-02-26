@@ -4,10 +4,14 @@
 
 :::
 
-# 🔺 <via>FollowingCover</via>
+# 🔻 <via>BouncingCover</via>
+
+## 2PlanterBounceCover
+
+## 3PlanterBounceCover
 
 
-![ViaImage](/Via/ViaImage.png)
+![ViaEmoji](/Via/Via_Emoji.png)
 
 ## Questions about the Element
 

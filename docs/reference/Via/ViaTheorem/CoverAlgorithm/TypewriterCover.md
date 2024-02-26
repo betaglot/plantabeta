@@ -4,14 +4,22 @@
 
 :::
 
-# 🔺 <via>BouncingCover</via>
+# 🔻 <via>TypewriterCover</via>
 
-## 2PlanterBounceCover
+TypewriterCover != BoustroCover
 
-## 3PlanterBounceCover
+Deadwalking
+
+Using TypewriterCover to Cover a Piece is analogous to using a ZigzagLine for AreaCover
+
+## ParallelLine
+
+- GoBackOnLine
+
+RectilinearPiece
 
 
-![ViaImage](/Via/ViaImage.png)
+![ViaEmoji](/Via/Via_Emoji.png)
 
 ## Questions about the Element
 
@@ -77,4 +85,6 @@ Links to other related ViaElements.
 - Three
 
 :::
+
+
 

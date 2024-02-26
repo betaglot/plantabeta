@@ -4,7 +4,7 @@
 
 :::
 
-# 🔺 <via>GoBack</via>
+# 🔻 <via>GoBack</via>
 
 - Turn around
 - Go back on your line
@@ -17,7 +17,7 @@
 
 
 
-![ViaImage](/Via/ViaImage.png)
+![ViaEmoji](/Via/Via_Emoji.png)
 
 ## Questions about the Element
 

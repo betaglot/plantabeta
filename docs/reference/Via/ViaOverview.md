@@ -88,11 +88,28 @@
 
 :::
 
-# 🔺 <via>Via Overview</via>
+# 🔻 <via>Via Overview</via>
 ![](/Via/Via_Emoji.png)
 
+## <via>Via Symbol</via> 🔻
+> Red Triangle
 
 ## What is a Via?
+
+> the interface between Moto and Eco
+
+### "By way of"
+
+> "Be able to because of"
+
+> Moto Via Eco
+
+> "Move by way of the land"
+
+> "Use that branch to pull yourself up"
+
+
+
 
 - Computational Geometry
 - The interface between Moto, Neuro and Eco.

@@ -29,7 +29,7 @@
 - "Via.ViaGeometry.ViaPoint.VertexPoint"
 :::
 
-# 🔺 <via>Via Point Overview</via>
+# 🔻 <via>Via Point Overview</via>
 
 ## Site vs Microsite
 

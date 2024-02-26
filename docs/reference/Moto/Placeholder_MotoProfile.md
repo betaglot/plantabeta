@@ -5,7 +5,7 @@
 :::
 
 
-![MotoImage](/Moto/MotoImage.png)
+![MotoEmoji](/Moto/Moto_Emoji.png)
 
 ## Questions about the Element
 
@@ -19,15 +19,15 @@
 
 <div style="display: flex">
     <div>
-        <img style="margin: 5px" height="200" width="200" src="/Moto/MotoImage.png"/>
+        <img style="margin: 5px" height="200" width="200" src="/Moto/Moto_Emoji.png"/>
         <p>Description of Moto Photo</p>
     </div>
     <div>
-        <img style="margin: 5px" height="200" width="200" src="/Moto/MotoImage.png"/>
+        <img style="margin: 5px" height="200" width="200" src="/Moto/Moto_Emoji.png"/>
         <p>Description of Moto Photo</p>
     </div>
     <div>
-        <img style="margin: 5px" height="200" width="200" src="/Moto/MotoImage.png"/>
+        <img style="margin: 5px" height="200" width="200" src="/Moto/Moto_Emoji.png"/>
         <p>Description of Moto Photo</p>
     </div>
     
@@ -57,7 +57,7 @@
 
 ## Related 🟩<eco>EcoElements</eco>
 - 
-## Related 🔺<via>ViaElements</via>
+## Related 🔻<via>ViaElements</via>
 - 
 
 ## Related 💜<neuro>NeuroElements</neuro> 

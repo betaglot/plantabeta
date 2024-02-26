@@ -5,7 +5,7 @@
 
 :::
 
-# 🔺 <via>BoustroCover</via>
+# 🔻 <via>BoustroCover</via>
 
 ![Boustrophedon](/Boustrophedon.jpg)
 

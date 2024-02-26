@@ -14,7 +14,7 @@ You don't need to do it alone
 
 # 💜 <neuro>Resilience </neuro>
 
-![NeuroImage](/Neuro/NeuroImage.png)
+![NeuroEmoji](/Neuro/Neuro_Emoji.png)
 
 
 ## Growth Mindset
@@ -64,7 +64,7 @@ Answer 3
 - 
 ## Related 🟩<eco>EcoElements</eco>
 - 
-## Related 🔺<via>ViaElements</via>
+## Related 🔻<via>ViaElements</via>
 - 
 
 ## Examples

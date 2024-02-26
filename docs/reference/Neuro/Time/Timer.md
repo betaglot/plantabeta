@@ -6,7 +6,7 @@
 
 # 💜 <neuro>Timer </neuro>
 
-![NeuroImage](/Neuro/NeuroImage.png)
+![NeuroEmoji](/Neuro/Neuro_Emoji.png)
 ## Questions about the Element
 
 ::: details Questions 1
@@ -47,7 +47,7 @@ Answer 3
 - Description of how this <neuro>NeuroElement </neuro>relates to a particular [EcoElement](/reference/Eco/EcoOverview).
 - Description of how this <neuro>NeuroElement </neuro>relates to a particular [EcoElement](/reference/Eco/EcoOverview).
 - Description of how this <neuro>NeuroElement </neuro>relates to a particular [EcoElement](/reference/Eco/EcoOverview).
-## Related 🔺<via>ViaElements</via>
+## Related 🔻<via>ViaElements</via>
 - 
 
 ## Examples

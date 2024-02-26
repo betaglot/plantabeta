@@ -13,7 +13,7 @@
 
 # 💜 <neuro>Confidence </neuro>
 
-![NeuroImage](/Neuro/NeuroImage.png)
+![NeuroEmoji](/Neuro/Neuro_Emoji.png)
 ## Questions about the Element
 
 ::: details Questions 1
@@ -52,7 +52,7 @@ Answer 3
 - 
 ## Related 🟩<eco>EcoElements</eco>
 - 
-## Related 🔺<via>ViaElements</via>
+## Related 🔻<via>ViaElements</via>
 - 
 
 ## Examples

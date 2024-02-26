@@ -4,12 +4,14 @@
 
 - "Eco.Soil.WetSoil"
 
+"Flood with water" instead of "Fill with water". "Fill" is a ReservedWord. ToReduceConfusion
+
 :::
 
 # 🟩  <eco>WetSoil</eco>
 
 
-![EcoImage](/Eco/EcoImage.png)
+![EcoEmoji](/Eco/Eco_Emoji.png)
 
 ## Questions about the Element
 

@@ -69,7 +69,7 @@ function sidebarDevelopment() {
     { text: '<dev>Pylanter</dev>', link: '/dev/Pylanter' },
     { text: '<dev>Research Questions</dev>', link: '/dev/ResearchQuestions' },
     { text: '<dev>Roadmap</dev>', link: '/dev/Roadmap' },
-    { text: '🔷 <dev>Phrase</dev>', link: '/dev/Phrase' },
+    { text: '🔷 <dev>Sequence</dev>', link: '/dev/Sequence' },
     { text: '<dev>Simulation</dev>', link: '/dev/Simulation' },
     { text: '<dev>SocialMedia</dev>', link: '/dev/SocialMedia' },
     { text: '<dev>StyleGuide</dev>', link: '/dev/StyleGuide' },
@@ -121,7 +121,7 @@ function sidebarGuide() {
       text: 'Purpose', collapsed: false, items: [
         { text: '🔥🌲🔥 <eco>To Replant Burnt Land</eco>', link: '/guide/Why/Wildfire' },
         { text: '🟠 <moto>To Reduce Injury</moto>', link: '/guide/Why/Injury' },
-        { text: '🔺 <via>To Increase Productivity</via>', link: '/guide/Why/Productivity' },
+        { text: '🔻 <via>To Increase Productivity</via>', link: '/guide/Why/Productivity' },
         { text: '🔷 <beta>To Improve Communication</beta>', link: '/guide/Why/Communication' },
         { text: '💜 <neuro>To Steepen Learning Curve</neuro>', link: '/guide/Why/LearningCurve' },
         { text: '💲 To Increase Profit', link: '/guide/Why/Company' }
@@ -152,7 +152,7 @@ function sidebarReference() {
     // #Beta
     {
       text: '🔷 <beta>Beta</beta>', collapsed: true, items: [
-        { text: '🔷 <beta>What is Beta?</beta>', link: '/reference/Beta/BetaOverview' },
+        { text: '🔷 <beta>What is Beta?</beta>', link: '/reference/Beta/WhatBeta' },
         { text: '🔷 <beta>Beta Examples</beta>', link: '/reference/Beta/BetaExamples' },
         { text: '🔷 <beta>BetaAction</beta>', link: '/reference/Beta/BetaAction' },
         { text: '🔷 <beta>BetaDiagram</beta>', link: '/reference/Beta/BetaDiagram' },
@@ -291,7 +291,7 @@ function sidebarReference() {
     {
       text: '🟠 <moto>Moto</moto>', collapsed: true, items: [
         { text: '🟠 <moto>Moto Overview</moto>', link: '/reference/Moto/MotoOverview' },
-        { text: '🟠 <moto>Moto Phrase</moto>', link: '/reference/Moto/MotoPhrase/Overview' },
+        { text: '🟠 <moto>Phrase</moto>', link: '/reference/Moto/Phrase/Overview' },
         { text: '🟠 <moto>Moto Difficulty</moto>', link: '/reference/Moto/MotoDifficulty' },
         {
           text: '🟠 <moto>MotoGeometry</moto>', collapsed: true, items: [
@@ -556,101 +556,101 @@ function sidebarReference() {
     },
     // #Via
     {
-      text: '🔺 <via>Via</via>', collapsed: true, items: [
-        { text: '🔺 <via>Via Overview</via>', link: '/reference/Via/ViaOverview' },
+      text: '🔻 <via>Via</via>', collapsed: true, items: [
+        { text: '🔻 <via>Via Overview</via>', link: '/reference/Via/ViaOverview' },
         { text: '🔷 <via>Via Sequence</via>', link: '/reference/Via/ViaSequence/Overview' },
         { text: '🔷 <via>Via Difficulty</via>', link: '/reference/Via/ViaDifficulty' },
         {
-          text: '🔺 <via>ViaGeometry</via>', collapsed: true, items: [
+          text: '🔻 <via>ViaGeometry</via>', collapsed: true, items: [
             {
-              text: '🔺 <via>ViaPoint</via>', collapsed: true, items: [
-                { text: '🔺 <via>Overview</via>', link: '/reference/Via/ViaGeometry/ViaPoint/Overview' },
-                { text: '🔺 <via>CenterPoint</via>', link: '/reference/Via/ViaGeometry/ViaPoint/CenterPoint' },
-                { text: '🔺 <via>InflectionPoint</via>', link: '/reference/Via/ViaGeometry/ViaPoint/InflectionPoint' },
-                { text: '🔺 <via>Midpoint</via>', link: '/reference/Via/ViaGeometry/ViaPoint/Midpoint' },
-                { text: '🔺 <via>ReferencePoint</via>', link: '/reference/Via/ViaGeometry/ViaPoint/ReferencePoint' },
-                { text: '🔺 <via>ReflectionPoint</via>', link: '/reference/Via/ViaGeometry/ViaPoint/ReflectionPoint' },
-                { text: '🔺 <via>TargetPoint</via>', link: '/reference/Via/ViaGeometry/ViaPoint/TargetPoint' },
+              text: '🔻 <via>ViaPoint</via>', collapsed: true, items: [
+                { text: '🔻 <via>Overview</via>', link: '/reference/Via/ViaGeometry/ViaPoint/Overview' },
+                { text: '🔻 <via>CenterPoint</via>', link: '/reference/Via/ViaGeometry/ViaPoint/CenterPoint' },
+                { text: '🔻 <via>InflectionPoint</via>', link: '/reference/Via/ViaGeometry/ViaPoint/InflectionPoint' },
+                { text: '🔻 <via>Midpoint</via>', link: '/reference/Via/ViaGeometry/ViaPoint/Midpoint' },
+                { text: '🔻 <via>ReferencePoint</via>', link: '/reference/Via/ViaGeometry/ViaPoint/ReferencePoint' },
+                { text: '🔻 <via>ReflectionPoint</via>', link: '/reference/Via/ViaGeometry/ViaPoint/ReflectionPoint' },
+                { text: '🔻 <via>TargetPoint</via>', link: '/reference/Via/ViaGeometry/ViaPoint/TargetPoint' },
               ]
             },
             {
-              text: '🔺 <via>ViaCurve</via>', collapsed: true, items: [
-                { text: '🔺 <via>ViaCurve Overview</via>', link: '/reference/Via/ViaCurve/Overview' },
-                { text: '🔺 <via>AroundCurve</via>', link: '/reference/Via/ViaCurve/AroundCurve' },
-                { text: '🔺 <via>GhostLine</via>', link: '/reference/Via/ViaCurve/GhostLine' },
-                { text: '🔺 <via>ParallelCurve</via>', link: '/reference/Via/ViaCurve/ParalleCurvee' },
-                { text: '🔺 <via>PerimeterCurve</via>', link: '/reference/Via/ViaCurve/PerimeterCurve' },
-                { text: '🔺 <via>SpiralCurve</via>', link: '/reference/Via/ViaCurve/SpiralCurve' },
-                { text: '🔺 <via>TurnAroundCurve</via>', link: '/reference/Via/ViaCurve/TurnAroundCurve' },
-                { text: '🔺 <via>ZigzagCurve</via>', link: '/reference/Via/ViaCurve/ZigzagCurve' },
+              text: '🔻 <via>ViaCurve</via>', collapsed: true, items: [
+                { text: '🔻 <via>ViaCurve Overview</via>', link: '/reference/Via/ViaCurve/Overview' },
+                { text: '🔻 <via>AroundCurve</via>', link: '/reference/Via/ViaCurve/AroundCurve' },
+                { text: '🔻 <via>GhostLine</via>', link: '/reference/Via/ViaCurve/GhostLine' },
+                { text: '🔻 <via>ParallelCurve</via>', link: '/reference/Via/ViaCurve/ParalleCurvee' },
+                { text: '🔻 <via>PerimeterCurve</via>', link: '/reference/Via/ViaCurve/PerimeterCurve' },
+                { text: '🔻 <via>SpiralCurve</via>', link: '/reference/Via/ViaCurve/SpiralCurve' },
+                { text: '🔻 <via>TurnAroundCurve</via>', link: '/reference/Via/ViaCurve/TurnAroundCurve' },
+                { text: '🔻 <via>ZigzagCurve</via>', link: '/reference/Via/ViaCurve/ZigzagCurve' },
               ]
             },
             {
-              text: '🔺 <via>ViaSpace</via>', collapsed: true, items: [
-                { text: '🔺 <via>Spacing Overview</via>', link: '/reference/Via/ViaSpace/Overview' },
-                { text: '🔺 <via>MaximumSpacing</via>', link: '/reference/Via/ViaSpace/MaximumSpacing' },
-                { text: '🔺 <via>MinimumSpacing</via>', link: '/reference/Via/ViaSpace/MinimumSpacing' },
-                { text: '🔺 <via>OptimalSpacing</via>', link: '/reference/Via/ViaSpace/OptimalSpacing' },
-                { text: '🔺 <via>ElasticSpacing</via>', link: '/reference/Via/ViaSpace/ElasticSpacing' },
-                { text: '🔺 <via>SpacingOnSlope</via>', link: '/reference/Via/ViaSpace/SpacingOnSlope' },
+              text: '🔻 <via>ViaSpace</via>', collapsed: true, items: [
+                { text: '🔻 <via>Spacing Overview</via>', link: '/reference/Via/ViaSpace/Overview' },
+                { text: '🔻 <via>MaximumSpacing</via>', link: '/reference/Via/ViaSpace/MaximumSpacing' },
+                { text: '🔻 <via>MinimumSpacing</via>', link: '/reference/Via/ViaSpace/MinimumSpacing' },
+                { text: '🔻 <via>OptimalSpacing</via>', link: '/reference/Via/ViaSpace/OptimalSpacing' },
+                { text: '🔻 <via>ElasticSpacing</via>', link: '/reference/Via/ViaSpace/ElasticSpacing' },
+                { text: '🔻 <via>SpacingOnSlope</via>', link: '/reference/Via/ViaSpace/SpacingOnSlope' },
               ]
             },
             {
-              text: '🔺 <via>ViaSurface</via>', collapsed: true, items: [
-                { text: '🔺 <via>Overview</via>', link: '/reference/Via/ViaSurface/Overview' },
-                { text: '🔺 <via>ViaSurface Texture</via>', link: '/reference/Via/ViaSurface/ViaSurfaceTexture' },
-              ]
-            },
-          ]
-        },
-        {
-          text: '🔺 <via>Via Problem</via>', collapsed: true, items: [
-            { text: '🔺 <via>Overview</via>', link: '/reference/Via/ViaProblem/Overview' },
-          ]
-        },
-        {
-          text: '🔺 <via>Via Solution</via>', collapsed: true, items: [
-            { text: '🔺 <via>Overview</via>', link: '/reference/Via/ViaSolution/Overview' },
-            {
-              text: '🔺 <via>Cover Algorithms</via>', collapsed: true, items: [
-                { text: '🔺 <via>Cover Algorithms Overview</via>', link: '/reference/Via/ViaSolution/CoverAlgorithm/Overview' },
-                { text: '🔺 <via>BoustroCover</via>', link: '/reference/Via/ViaSolution/CoverAlgorithm/BoustroCover' },
-                { text: '🔺 <via>CircleCover</via>', link: '/reference/Via/ViaSolution/CoverAlgorithm/CircleCover' },
-                { text: '🔺 <via>DiamondCover</via>', link: '/reference/Via/ViaSolution/CoverAlgorithm/DiamondCover' },
-                { text: '🔺 <via>SquareCover</via>', link: '/reference/Via/ViaSolution/CoverAlgorithm/SquareCover' },
-                { text: '🔺 <via>TriangleCover</via>', link: '/reference/Via/ViaSolution/CoverAlgorithm/TriangleCover' },
-                { text: '🔺 <via>ChunkCover</via>', link: '/reference/Via/ViaSolution/CoverAlgorithm/ChunkCover' },
-                { text: '🔺 <via>BackCover</via>', link: '/reference/Via/ViaSolution/CoverAlgorithm/BackCover' },
-                { text: '🔺 <via>OpenEndedCover</via>', link: '/reference/Via/ViaSolution/CoverAlgorithm/OpenEndedCover' },
-                { text: '🔺 <via>PerimeterCover</via>', link: '/reference/Via/ViaSolution/CoverAlgorithm/PerimeterCover' },
-                { text: '🔺 <via>TypewriterCover</via>', link: '/reference/Via/ViaSolution/CoverAlgorithm/TypewriterCover' },
-              ]
-            },
-            {
-              text: '🔺 <via>ObstacleCover</via>', collapsed: true, items: [
-                { text: '🔺 <via>ObstacleCover Overview</via>', link: '/reference/Via/ViaSolution/ObstacleCover/Overview' },
-              ]
-            },
-            {
-              text: '🔺 <via>TeamCover</via>', collapsed: true, items: [
-                { text: '🔺 <via>TeamPlant Overview</via>', link: '/reference/Via/ViaSolution/TeamCover/Overview' },
-                { text: '🔺 <via>BouncingCover</via>', link: '/reference/Via/ViaSolution/TeamCover/BouncingCover' },
-                { text: '🔺 <via>CrossingCover</via>', link: '/reference/Via/ViaSolution/TeamCover/CrossingCover' },
-                { text: '🔺 <via>FollowingCover</via>', link: '/reference/Via/ViaSolution/TeamCover/FollowingCover' },
+              text: '🔻 <via>ViaSurface</via>', collapsed: true, items: [
+                { text: '🔻 <via>Overview</via>', link: '/reference/Via/ViaSurface/Overview' },
+                { text: '🔻 <via>ViaSurface Texture</via>', link: '/reference/Via/ViaSurface/ViaSurfaceTexture' },
               ]
             },
           ]
         },
         {
-          text: '🔺 <via>Flag</via>', collapsed: true, items: [
-            { text: '🔺 <via>Flag Overview</via>', link: '/reference/Via/Flag/Overview' },
-            { text: '🔺 <via>BoundaryFlag</via>', link: '/reference/Via/Flag/BoundaryFlag' },
-            { text: '🔺 <via>FlagLocation</via>', link: '/reference/Via/Flag/FlagLocation' },
-            { text: '🔺 <via>HighFlag</via>', link: '/reference/Via/Flag/HighFlag' },
-            { text: '🔺 <via>LineInFlag</via>', link: '/reference/Via/Flag/LineInFlag' },
-            { text: '🔺 <via>NaturalFlag</via>', link: '/reference/Via/Flag/NaturalFlag' },
-            { text: '🔺 <via>TrenchExitFlag</via>', link: '/reference/Via/Flag/TrenchExitFlag' },
-            { text: '🔺 <via>WastedFlag</via>', link: '/reference/Via/Flag/WastedFlag' },
+          text: '🔻 <via>Via Problem</via>', collapsed: true, items: [
+            { text: '🔻 <via>Overview</via>', link: '/reference/Via/ViaProblem/Overview' },
+          ]
+        },
+        {
+          text: '🔻 <via>Via Theorem</via>', collapsed: true, items: [
+            { text: '🔻 <via>Overview</via>', link: '/reference/Via/ViaTheorem/Overview' },
+            {
+              text: '🔻 <via>Cover Algorithms</via>', collapsed: true, items: [
+                { text: '🔻 <via>Overview</via>', link: '/reference/Via/ViaTheorem/CoverAlgorithm/Overview' },
+                { text: '🔻 <via>BoustroCover</via>', link: '/reference/Via/ViaTheorem/CoverAlgorithm/BoustroCover' },
+                { text: '🔻 <via>CircleCover</via>', link: '/reference/Via/ViaTheorem/CoverAlgorithm/CircleCover' },
+                { text: '🔻 <via>DiamondCover</via>', link: '/reference/Via/ViaTheorem/CoverAlgorithm/DiamondCover' },
+                { text: '🔻 <via>SquareCover</via>', link: '/reference/Via/ViaTheorem/CoverAlgorithm/SquareCover' },
+                { text: '🔻 <via>TriangleCover</via>', link: '/reference/Via/ViaTheorem/CoverAlgorithm/TriangleCover' },
+                { text: '🔻 <via>ChunkCover</via>', link: '/reference/Via/ViaTheorem/CoverAlgorithm/ChunkCover' },
+                { text: '🔻 <via>BackCover</via>', link: '/reference/Via/ViaTheorem/CoverAlgorithm/BackCover' },
+                { text: '🔻 <via>OpenEndedCover</via>', link: '/reference/Via/ViaTheorem/CoverAlgorithm/OpenEndedCover' },
+                { text: '🔻 <via>PerimeterCover</via>', link: '/reference/Via/ViaTheorem/CoverAlgorithm/PerimeterCover' },
+                { text: '🔻 <via>TypewriterCover</via>', link: '/reference/Via/ViaTheorem/CoverAlgorithm/TypewriterCover' },
+              ]
+            },
+            {
+              text: '🔻 <via>ObstacleCover</via>', collapsed: true, items: [
+                { text: '🔻 <via>ObstacleCover Overview</via>', link: '/reference/Via/ViaTheorem/ObstacleCover/Overview' },
+              ]
+            },
+            {
+              text: '🔻 <via>TeamCover</via>', collapsed: true, items: [
+                { text: '🔻 <via>TeamPlant Overview</via>', link: '/reference/Via/ViaTheorem/TeamCover/Overview' },
+                { text: '🔻 <via>BouncingCover</via>', link: '/reference/Via/ViaTheorem/TeamCover/BouncingCover' },
+                { text: '🔻 <via>CrossingCover</via>', link: '/reference/Via/ViaTheorem/TeamCover/CrossingCover' },
+                { text: '🔻 <via>FollowingCover</via>', link: '/reference/Via/ViaTheorem/TeamCover/FollowingCover' },
+              ]
+            },
+          ]
+        },
+        {
+          text: '🔻 <via>Flag</via>', collapsed: true, items: [
+            { text: '🔻 <via>Flag Overview</via>', link: '/reference/Via/Flag/Overview' },
+            { text: '🔻 <via>BoundaryFlag</via>', link: '/reference/Via/Flag/BoundaryFlag' },
+            { text: '🔻 <via>FlagLocation</via>', link: '/reference/Via/Flag/FlagLocation' },
+            { text: '🔻 <via>HighFlag</via>', link: '/reference/Via/Flag/HighFlag' },
+            { text: '🔻 <via>LineInFlag</via>', link: '/reference/Via/Flag/LineInFlag' },
+            { text: '🔻 <via>NaturalFlag</via>', link: '/reference/Via/Flag/NaturalFlag' },
+            { text: '🔻 <via>TrenchExitFlag</via>', link: '/reference/Via/Flag/TrenchExitFlag' },
+            { text: '🔻 <via>WastedFlag</via>', link: '/reference/Via/Flag/WastedFlag' },
           ]
         },
       ]

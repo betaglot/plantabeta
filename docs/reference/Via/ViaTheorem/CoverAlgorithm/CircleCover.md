@@ -4,17 +4,11 @@
 
 :::
 
-# 🔺 <via>PerimeterCover</via>
+# 🔻 <via>CircleCover</via>
 
-- Plant a PerimeterLine, only turning back on your line if you reach the road again
-
-
-## Required PieceType
-- SemicircularEco
-- When PieceFront is wider than PieceBack, such as a TrianglePiece with the PieceFront as it's longest side. 
-
-
-![ViaImage](/Via/ViaImage.png)
+<!-- 
+## SpiralCover -->
+![ViaEmoji](/Via/Via_Emoji.png)
 
 ## Questions about the Element
 

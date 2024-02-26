@@ -6,7 +6,7 @@
 
 :::
 
-# 🔺 <via>SectionCover</via>
+# 🔻 <via>SectionCover</via>
 
 
 ::: tip AlsoKnownAs(AreaCover)

@@ -4,7 +4,7 @@
 
 :::
 
-# 🔺 <via>WastedFlag</via>
+# 🔻 <via>WastedFlag</via>
 
 - LowFlag
 - FlagError
@@ -12,7 +12,7 @@
 - Flag which has blown away from it's intended position
 
 
-![ViaImage](/Via/ViaImage.png)
+![ViaEmoji](/Via/Via_Emoji.png)
 
 ## Questions about the Element
 

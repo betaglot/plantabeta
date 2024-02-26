@@ -4,22 +4,12 @@
 
 :::
 
-# 🔺 <via>TypewriterCover</via>
+# 🔻 <via>BackCover</via>
 
-TypewriterCover != BoustroCover
-
-Deadwalking
-
-Using TypewriterCover to Cover a Piece is analogous to using a ZigzagLine for AreaCover
-
-## ParallelLine
-
-- GoBackOnLine
-
-RectilinearPiece
+## BackLine
 
 
-![ViaImage](/Via/ViaImage.png)
+![ViaEmoji](/Via/Via_Emoji.png)
 
 ## Questions about the Element
 
@@ -85,6 +75,4 @@ Links to other related ViaElements.
 - Three
 
 :::
-
-
 

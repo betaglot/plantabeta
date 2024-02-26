@@ -177,24 +177,23 @@ SuitParts = [
     'RightGreave', 
     'Hips',
     'Hat',
-    'Neck'
+    'Neck',
+    'Cape'
 ]
 
 ```
+
+### Cape
+
+Aang Cape
+
+### Modularity
 
 Spacesuit
 
 - Swap out hips to dry the sweat to prevent SkinErosion. Wet skin erodes more than dry skin.
 - Adding a warm layer without having to take off your entire top layer
 - Vambraces are constant
-
-### Systematic
-
-Everything fits together and is modular.
-
-Gasket
-
-### Modularity
 
 #### Suit of Armor
 - Samurai Armor

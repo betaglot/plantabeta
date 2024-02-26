@@ -4,7 +4,7 @@
 
 :::
 
-# 🔺 <via>BeeLine</via>
+# 🔻 <via>BeeLine</via>
 
 ## AlsoKnownAs
 

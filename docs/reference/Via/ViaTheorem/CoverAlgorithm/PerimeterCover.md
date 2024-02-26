@@ -1,16 +1,20 @@
 ::: details 🛠 <dev>DesignBox</dev> 
 
-- Plant hexagons
 
-Moto on a hexagonal grid like CGP grey YouTube 
-https://youtu.be/bgR3yESAEVE
 
 :::
 
-# 🔺 <via>TriangleCover</via>
+# 🔻 <via>PerimeterCover</via>
+
+- Plant a PerimeterLine, only turning back on your line if you reach the road again
 
 
-![ViaImage](/Via/ViaImage.png)
+## Required PieceType
+- SemicircularEco
+- When PieceFront is wider than PieceBack, such as a TrianglePiece with the PieceFront as it's longest side. 
+
+
+![ViaEmoji](/Via/Via_Emoji.png)
 
 ## Questions about the Element
 
@@ -77,7 +81,3 @@ Links to other related ViaElements.
 
 :::
 
-
-
-
-<!-- - [Triangulated irregular network](https://www.researchgate.net/publication/23541399_Algorithms_for_Visibility_Computation_on_Terrains_A_Survey) -->

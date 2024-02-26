@@ -4,7 +4,7 @@
 
 :::
 
-# 🔺 <via>HighFlag</via>
+# 🔻 <via>HighFlag</via>
 
 ## Where in Eco?
 
@@ -13,7 +13,7 @@
 - CoverBlock
 
 
-![ViaImage](/Via/ViaImage.png)
+![ViaEmoji](/Via/Via_Emoji.png)
 
 ## Questions about the Element
 

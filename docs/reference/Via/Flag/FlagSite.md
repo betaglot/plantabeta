@@ -4,7 +4,7 @@
 
 :::
 
-# 🔺 <via>FlagSite</via>
+# 🔻 <via>FlagSite</via>
 
 ## StumpFlag
 
@@ -21,7 +21,7 @@
 ## SlashPileFlag
 
 
-![ViaImage](/Via/ViaImage.png)
+![ViaEmoji](/Via/Via_Emoji.png)
 
 ## Questions about the Element
 

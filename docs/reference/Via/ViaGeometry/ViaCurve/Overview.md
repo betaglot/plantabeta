@@ -28,7 +28,7 @@
 
 :::
 
-# 🔺 <via>ViaCurve Overview</via>
+# 🔻 <via>ViaCurve Overview</via>
 
 ## What is a ViaCurve?
 

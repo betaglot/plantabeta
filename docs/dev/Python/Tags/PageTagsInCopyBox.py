@@ -54,7 +54,7 @@ tags = {
         "Beta.BetaExamples.BetaQuote",
         "Beta.BetaVideo"
     ],
-    "Beta/BetaOverview.md": [
+    "Beta/WhatBeta.md": [
         "Beta.BetaEvent",
         "Beta.BetaInstance",
         "Beta.BetaInstance.BetaInstanceComparison",

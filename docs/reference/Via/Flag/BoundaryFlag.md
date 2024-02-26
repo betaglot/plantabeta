@@ -4,11 +4,11 @@
 
 :::
 
-# 🔺 <via>BoundaryFlag</via>
+# 🔻 <via>BoundaryFlag</via>
 ## Cut line
 
 
-![ViaImage](/Via/ViaImage.png)
+![ViaEmoji](/Via/Via_Emoji.png)
 
 ## Questions about the Element
 

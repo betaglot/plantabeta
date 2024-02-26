@@ -4,7 +4,7 @@
 
 :::
 
-# 🔺 <via>ObstacleClusterCover</via>
+# 🔻 <via>ObstacleClusterCover</via>
 
 ## Definition: Cluster
 

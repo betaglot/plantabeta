@@ -6,7 +6,7 @@
 
 # 🟩  <eco>StumpObstacle</eco>
 
-![EcoImage](/Eco/EcoImage.png)
+![EcoEmoji](/Eco/Eco_Emoji.png)
 
 ## Questions about StumpObstacle
 
@@ -79,36 +79,36 @@ Graph which represents how this element is related to other elements in Plantbet
 - 
 
 
-🔺🟠🟩💜🔷
+🔻🟠🟩💜🔷
 ## Related <via>ViaElements</via>
 
-### [🔺ObstacleCover]
+### [🔻ObstacleCover]
 
-### [🔺AreaBoundary]()
-
-- 
-
-### [🔺DownSlope]()
+### [🔻AreaBoundary]()
 
 - 
 
-### [🔺UpSlope]()
+### [🔻DownSlope]()
 
 - 
 
-### [🔺StumpFlag]()
+### [🔻UpSlope]()
+
+- 
+
+### [🔻StumpFlag]()
 
 - [FlagSite]()
 
-### [🔺BoundaryFlag]() 
+### [🔻BoundaryFlag]() 
 
 - 
 
-### [🔺Ecomark]() 
+### [🔻Ecomark]() 
 
 - 
 
-### [🔺TargetPoint]()
+### [🔻TargetPoint]()
 
 - 
 

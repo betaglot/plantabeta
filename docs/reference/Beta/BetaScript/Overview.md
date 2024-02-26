@@ -1,5 +1,15 @@
 ::: details 🛠 <dev>DesignBox</dev> 
 
+## ReservedWords
+
+```py
+
+ReservedWords = [
+    
+]
+
+```
+
 ## Recursive beta optimization
 - Optimization Sequence
 - TopDown

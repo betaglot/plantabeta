@@ -11,7 +11,7 @@
 ## Spacing
 
 
-![EcoImage](/Eco/EcoImage.png)
+![EcoEmoji](/Eco/Eco_Emoji.png)
 
 ## Questions about the Element
 

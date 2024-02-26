@@ -15,7 +15,7 @@
 
 > Grab vegetation before colliding with it
 
-![MotoImage](/Moto/MotoImage.png)
+![MotoEmoji](/Moto/Moto_Emoji.png)
 
 The Vege can be moving towards you or the vege can be stationary while you move towards the vege
 
@@ -31,15 +31,15 @@ The Vege can be moving towards you or the vege can be stationary while you move 
 
 <div style="display: flex">
     <div>
-        <img style="margin: 5px" height="200" width="200" src="/Moto/MotoImage.png"/>
+        <img style="margin: 5px" height="200" width="200" src="/Moto/Moto_Emoji.png"/>
         <p>Description of Moto Photo</p>
     </div>
     <div>
-        <img style="margin: 5px" height="200" width="200" src="/Moto/MotoImage.png"/>
+        <img style="margin: 5px" height="200" width="200" src="/Moto/Moto_Emoji.png"/>
         <p>Description of Moto Photo</p>
     </div>
     <div>
-        <img style="margin: 5px" height="200" width="200" src="/Moto/MotoImage.png"/>
+        <img style="margin: 5px" height="200" width="200" src="/Moto/Moto_Emoji.png"/>
         <p>Description of Moto Photo</p>
     </div>
     
@@ -69,7 +69,7 @@ The Vege can be moving towards you or the vege can be stationary while you move 
 
 ## Related 🟩<eco>EcoElements</eco>
 - 
-## Related 🔺<via>ViaElements</via>
+## Related 🔻<via>ViaElements</via>
 - 
 
 ## Related 💜<neuro>NeuroElements</neuro> 

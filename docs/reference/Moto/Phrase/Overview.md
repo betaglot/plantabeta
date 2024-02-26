@@ -40,7 +40,24 @@
 
 :::
 
-# 🟠 <moto>MotoPhrase Overview</moto>
+# 🟠 <moto>Phrase Overview</moto>
+
+> sequence of Moto Elements
+
+<div style="display: flex">
+    <div>
+        <img style="margin: 5px" height="200" width="200" src="/Moto/Moto_Emoji.png"/>
+        <p>Description of Moto Photo</p>
+    </div>
+    <div>
+        <img style="margin: 5px" height="200" width="200" src="/Moto/Moto_Emoji.png"/>
+        <p>Description of Moto Photo</p>
+    </div>
+    <div>
+        <img style="margin: 5px" height="200" width="200" src="/Moto/Moto_Emoji.png"/>
+        <p>Description of Moto Photo</p>
+    </div>
+</div>
 
 ## Get()
 

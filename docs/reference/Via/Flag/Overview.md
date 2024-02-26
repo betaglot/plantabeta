@@ -15,7 +15,7 @@
 
 :::
 
-# 🔺 <via>Flag Overview</via>
+# 🔻 <via>Flag Overview</via>
 
 Tool=Flagger
 Moto=Flagging

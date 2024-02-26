@@ -11,19 +11,19 @@ Module overview
 # Reference Overview
 
 ::: tip What is a Beta Element?
-Find out how Plantbeta [is composed of Beta Elements](/reference/Beta/BetaOverview). 
+Find out how Plantbeta [is composed of Beta Elements](/reference/Beta/WhatBeta). 
 :::
 
-## [<eco>**🟩___Eco___**</eco>![](/Eco/Eco_Emoji.png)](/reference/Eco/EcoOverview) 
+## [<beta>**🔷____Beta____**</beta>![](/Beta/Beta_Emoji.png)](/reference/Beta/WhatBeta)
 
-## [<moto>**🟠___Moto___**</moto>![](/Moto/Moto_Emoji.png)](/reference/Moto/MotoOverview)
+## [<eco>**🟩____Eco____**</eco>![](/Eco/Eco_Emoji.png)](/reference/Eco/EcoOverview) 
 
-## [<via>**🔺___Via___**</via>![](/Via/Via_Emoji.png)](/reference/Via/ViaOverview)
+## [<moto>**🟠____Moto____**</moto>![](/Moto/Moto_Emoji.png)](/reference/Moto/MotoOverview)
 
-## [<neuro>**💜___Neuro___**</neuro>![](/Neuro/Neuro_Emoji.png)](/reference/Neuro/NeuroOverview)
+## [<via>**🔻____Via____**</via>![](/Via/Via_Emoji.png)](/reference/Via/ViaOverview)
 
+## [<neuro>**💜____Neuro____**</neuro>![](/Neuro/Neuro_Emoji.png)](/reference/Neuro/NeuroOverview)
 
-## [<beta>**🔷___Beta___**</beta>![](/Beta/Beta_Emoji.png)](/reference/Beta/BetaOverview)
 
 
 ## [Glossary](/reference/glossary/Glossary)

@@ -15,7 +15,7 @@ hero:
     - theme: brand
       text: Get Started
       link: /guide/What/WhatPlantbeta
-    - text: 🟩🔺🔷💜🟠
+    - text: 🟩🔻🔷💜🟠
       link: /reference/ReferenceOverview
     - text: Tutorial
       link: /tutorials/TutorialsOverview

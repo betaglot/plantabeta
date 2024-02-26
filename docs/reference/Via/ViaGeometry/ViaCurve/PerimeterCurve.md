@@ -4,7 +4,7 @@
 
 :::
 
-# 🔺 <via>PerimeterLine</via>
+# 🔻 <via>PerimeterLine</via>
 
 ## 'L's
 
@@ -15,7 +15,7 @@ InsertDiagram of
 - Plant an L
 
 
-![ViaImage](/Via/ViaImage.png)
+![ViaEmoji](/Via/Via_Emoji.png)
 
 ## Questions about the Element
 

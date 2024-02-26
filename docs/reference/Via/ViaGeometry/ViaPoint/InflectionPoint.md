@@ -4,4 +4,4 @@
 
 :::
 
-# 🔺 <via>Inflection Point</via>
+# 🔻 <via>Inflection Point</via>

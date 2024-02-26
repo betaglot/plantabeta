@@ -3,6 +3,23 @@
 > Beta is what you actually do implement
 > Elements are just options possibilities
 > Beta requires decision 
+
+
+Each Plantbeta module is composed of problems and theorems. Problems all have solutions, they aren't proven valid yet, but are still useful for development. Pertainent negative. Science proves hypotheses wrong. NullHypotheses.
+
+Eco doesn't have any problems or theorems
+
+
+
+## Strategy
+
+- Plan of Action
+
+Beta can be a description or an instruction
+
+
+
+
 <h2>PageTags</h2>
 
 - "Beta.BetaEvent"
@@ -21,17 +38,34 @@ There are no units of Beta, except for Tokens
 
 
 Token, Block, Module
+
+
+Only Beta can be the solution
+
+Via Theorem, Via Solution 
+
+Via just gives the options, Beta is required to Solve, since solution requires Moto. Beta occurs when more than module is required in 1stPersonPoint of view. Planter's perspective.
+
+Neuro that just thinks about NeuroElements
+
+
 :::
 
 # 🔷 <beta>What is Beta?</beta> 🔷
 
+
 > Beta is the **information** that you use to perform planting tasks.
 
-![BetaLogo](/BetaLogo.png)
-
-
-
 Beta emerges from the interactions between Eco, Moto, Via and Neuro.
+
+
+![BetaEmoji](/Beta/Beta_Emoji.png)
+
+
+## <beta>Beta Symbol</beta> 🔷
+> Blue Diamond
+
+
 
 ## Origins of "Beta"
 
@@ -110,6 +144,52 @@ This each line are analog pairs. The equal signs = denotes where Climbing and Pl
 Plantbeta breaks down a Planter's experience into simple elements. Each element has its own particular properties which when varied affect
 
 Changing an Element's properties affects how it relates to other elements and changes their properties too. These changes ripple out across Plantbeta's web of relationships.
+
+```py
+
+BetaElement = [
+  'problem',
+  'theorem',
+  'definition',
+  'axiom',
+  'symbol',
+]
+
+```
+
+::: tip Example of EcoElements
+
+EcoProblem
+> "How do I close this hole?"
+
+> Where can I open a hole in this riparian and not have it flood with water.
+
+EcoTheorem
+> "Sand collapses by itself"
+
+> "Clay sticks together and onto your SpadeBlade"
+
+:::
+
+## Problem
+
+## Theorem
+
+## Definition
+ 
+You can define something that is not definitive. A definition element is definitive.
+
+[BetaSequence](https://docs.python.org/3/library/stdtypes.html#sequence-types-list-tuple-range)
+
+1. 🔷
+2. 🟠 <moto>BodyLean</moto>
+3. 🟠
+4. 🟠
+5. 🟩
+6. 🟠
+7. 🔻
+8. 💜
+
 
 ### Synonyms
 

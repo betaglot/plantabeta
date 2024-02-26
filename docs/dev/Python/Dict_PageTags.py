@@ -5,7 +5,7 @@ Insert Tags from docs/data/AllTags.json into this Dict
 PageTags = {
 "Beta/BetaDiagram.md": [],
 "Beta/BetaExamples.md": [],
-"Beta/BetaOverview.md": [],
+"Beta/WhatBeta.md": [],
 "Beta/BetaScript.md": [],
 "Eco/Animals/Overview.md": [],
 "Eco/Area/Overview.md": [],

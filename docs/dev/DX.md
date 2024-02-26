@@ -1,5 +1,14 @@
 ::: details 🛠 <dev>DesignBox</dev> 
 
+## ToReduceConfusion
+
+## ActualName()
+
+## ()InsteadOf()
+
+## ()AlsoKnownAs()
+
+
 <h2>PageTags</h2>
 
 - "Dev.DesignProcess"
@@ -227,3 +236,12 @@ Beta represents moto, but Moto is the move itself. Moto doesn't care about how i
 ### Bauhaus
 
 - Bauhaus Manifesto
+
+
+## Model Element
+
+Make a list of DX research models for each module
+
+Moto, Neuro, Eco, Via, Beta
+
+To make prototyping easier. So you don't need to worry about the content
