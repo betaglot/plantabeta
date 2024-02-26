@@ -75,7 +75,7 @@ Standardize the way that Phrases of BetaElements are represented in code and gra
 
 🔷 Code
 
-## Differentiate(Phrase, Supermove, Moto, Submove, BodyMoto)
+## Differentiate(Phrase, Supermoto, Moto, Submoto, BodyMoto)
 
 An ArmPhrase is a list of ArmMotos performed in Parallel (BoxCarry), Concurrently (SpadeLift, TreeLoad)
 

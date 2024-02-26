@@ -15,17 +15,17 @@
 
 ## Choose Safer Alternatives
 
-Planters can get injured when they don't adapt movements to the specific situation. Plantbeta gives many options to adapt movements for any situation. 
+Planters can get injured when they don't adapt motos to the specific situation. Plantbeta gives many options to adapt motos for any situation. 
 
-Some Planters only know how to [HandClose](/reference/Moto/HandMoto/HandClose) one way, but there are many different ways. Even slightly varying a movements can reduce repetitive strain injuries.
+Some Planters only know how to [HandClose](/reference/Moto/HandMoto/HandClose) one way, but there are many different ways. Even slightly varying a motos can reduce repetitive strain injuries.
 
 ## Repetitive Strain
 
-Injury can occur in Planters when they perform the same movement repeatedly.
+Injury can occur in Planters when they perform the same moto repeatedly.
 
 - Do ambidextrous Planters suffer less injury caused by repetitive strain?
     - Repetitive Motion
-    - Greater movement variability reduces movement repetition. 
+    - Greater moto variability reduces moto repetition. 
         - How many [HandClosing](/reference/Moto/HandMoto/HandClose)  methods do you know? 
     
 
@@ -51,7 +51,7 @@ Wrist Tendonitis occurs from straining the tissues around the wrist. The strain 
 
 Planters kick To remove the layer of organic material off an intended microsite. Christmas Toe is when your big toe becomes numb from all the kicking impacts and you only regain sensation around Christmas time (six months after the season is over). Christmas Toe not only affects feet, it also affects how Planters walk therefore affecting the biomechanics of the entire lower body.
 
-A greater knowledge of possible alternative movements can prevent Christmas Toe from ever occuring.
+A greater knowledge of possible alternative motos can prevent Christmas Toe from ever occuring.
 
 - [SpadeScreef]() instead of only [FootScreef]()
 - [HandClose]() instead of only [FootClose]() 

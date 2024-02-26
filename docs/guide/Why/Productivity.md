@@ -30,7 +30,7 @@ A greater Planter efficiency leads to:
 - Fewer Motos performed by Planter, therefore less Metabolic Energy used.
 - Less [Deadwalking]()
 - Fewer Injury
-- More efficient routes
+- More efficient vias
 - Effective [Flagging]() 
     - Flag which is more visible.
     - Lower Flag expense

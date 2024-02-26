@@ -157,7 +157,7 @@ Removes Value Addition // [!code --]
     - 
 - Array
     - MotoPhrase
-    - Set of Submoves
+    - Set of Submotos
     - ViaSequence
 
 ### Outcome > Output

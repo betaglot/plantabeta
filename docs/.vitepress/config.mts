@@ -3,7 +3,7 @@ import { defineConfig } from 'vitepress'
 export default defineConfig({
   lang: 'en-US',
   title: 'Plantbeta',
-  description: 'The elements ',
+  description: '',
   lastUpdated: true,
   base: '/plantbeta/',
   ignoreDeadLinks: true,
@@ -56,9 +56,9 @@ function sidebarDevelopment() {
       text: '<dev>Graphics</dev>', collapsed: true, items: [
         { text: '<dev><beta>Beta Graphics</beta>', link: '/dev/Graphics/BetaGraphic' },
         { text: '<eco>Eco Graphics</eco>', link: '/dev/Graphics/EcoGraphic' },
-        { text: '<moto>Move Graphics</moto>', link: '/dev/Graphics/MoveGraphic' },
+        { text: '<moto>Moto Graphics</moto>', link: '/dev/Graphics/MotoGraphic' },
         { text: '<neuro>Neuro Graphics</neuro>', link: '/dev/Graphics/NeuroGraphic' },
-        { text: '<route>Via Graphics</route>', link: '/dev/Graphics/ViaGraphic' },
+        { text: '<via>Via Graphics</via>', link: '/dev/Graphics/ViaGraphic' },
         { text: 'UX Graphics', link: '/dev/Graphics/UXGraphic' },
         { text: '<dev>DX Graphics</dev>', link: '/dev/Graphics/DXGraphic' },
       ]
@@ -121,7 +121,7 @@ function sidebarGuide() {
       text: 'Purpose', collapsed: false, items: [
         { text: '🔥🌲🔥 <eco>To Replant Burnt Land</eco>', link: '/guide/Why/Wildfire' },
         { text: '🟠 <moto>To Reduce Injury</moto>', link: '/guide/Why/Injury' },
-        { text: '🔺 <route>To Increase Productivity</route>', link: '/guide/Why/Productivity' },
+        { text: '🔺 <via>To Increase Productivity</via>', link: '/guide/Why/Productivity' },
         { text: '🔷 <beta>To Improve Communication</beta>', link: '/guide/Why/Communication' },
         { text: '💜 <neuro>To Steepen Learning Curve</neuro>', link: '/guide/Why/LearningCurve' },
         { text: '💲 To Increase Profit', link: '/guide/Why/Company' }
@@ -152,7 +152,7 @@ function sidebarReference() {
     // #Beta
     {
       text: '🔷 <beta>Beta</beta>', collapsed: true, items: [
-        { text: '🔷 <beta>What is Beta</beta>?', link: '/reference/Beta/BetaOverview' },
+        { text: '🔷 <beta>What is Beta?</beta>', link: '/reference/Beta/BetaOverview' },
         { text: '🔷 <beta>Beta Examples</beta>', link: '/reference/Beta/BetaExamples' },
         { text: '🔷 <beta>BetaAction</beta>', link: '/reference/Beta/BetaAction' },
         { text: '🔷 <beta>BetaDiagram</beta>', link: '/reference/Beta/BetaDiagram' },
@@ -287,270 +287,270 @@ function sidebarReference() {
         },
       ]
     },
-    // #Move
+    // #Moto
     {
-      text: '🟠 <moto>Move</moto>', collapsed: true, items: [
-        { text: '🟠 <moto>Move Overview</moto>', link: '/reference/Move/MoveOverview' },
-        { text: '🟠 <moto>Move Phrase</moto>', link: '/reference/Move/MovePhrase/Overview' },
-        { text: '🟠 <moto>Move Difficulty</moto>', link: '/reference/Move/MoveDifficulty' },
+      text: '🟠 <moto>Moto</moto>', collapsed: true, items: [
+        { text: '🟠 <moto>Moto Overview</moto>', link: '/reference/Moto/MotoOverview' },
+        { text: '🟠 <moto>Moto Phrase</moto>', link: '/reference/Moto/MotoPhrase/Overview' },
+        { text: '🟠 <moto>Moto Difficulty</moto>', link: '/reference/Moto/MotoDifficulty' },
         {
-          text: '🟠 <moto>MoveGeometry</moto>', collapsed: true, items: [
-            { text: '🟠 <moto>Overview</moto>', link: '/reference/Move/MoveGeometry/Overview' },
-            { text: '🟠 <moto>MovePoint</moto>', link: '/reference/Move/MoveGeometry/MovePoint' },
-            { text: '🟠 <moto>MoveCurve</moto>', link: '/reference/Move/MoveGeometry/MoveCurve' },
-            { text: '🟠 <moto>MoveSpace</moto>', link: '/reference/Move/MoveGeometry/MoveSpace' },
-            { text: '🟠 <moto>MoveSurface</moto>', link: '/reference/Move/MoveGeometry/MoveSurface' },
+          text: '🟠 <moto>MotoGeometry</moto>', collapsed: true, items: [
+            { text: '🟠 <moto>Overview</moto>', link: '/reference/Moto/MotoGeometry/Overview' },
+            { text: '🟠 <moto>MotoPoint</moto>', link: '/reference/Moto/MotoGeometry/MotoPoint' },
+            { text: '🟠 <moto>MotoCurve</moto>', link: '/reference/Moto/MotoGeometry/MotoCurve' },
+            { text: '🟠 <moto>MotoSpace</moto>', link: '/reference/Moto/MotoGeometry/MotoSpace' },
+            { text: '🟠 <moto>MotoSurface</moto>', link: '/reference/Moto/MotoGeometry/MotoSurface' },
           ]
         },
         {
-          text: '🟠 <moto>ArmMove</moto>', collapsed: true, items: [
-            { text: '🟠 <moto>ArmMove Overview</moto>', link: '/reference/Move/ArmMove/Overview' },
-            { text: '🟠 <moto>Arm Phrase</moto>', link: '/reference/Move/ArmMove/Phrase/Overview' },
-            { text: '🟠 <moto>ArmBlock</moto>', link: '/reference/Move/ArmMove/ArmBlock' },
-            { text: '🟠 <moto>ArmProp</moto>', link: '/reference/Move/ArmMove/ArmProp' },
-            { text: '🟠 <moto>ArmSwing</moto>', link: '/reference/Move/ArmMove/ArmSwing' },
-            { text: '🟠 <moto>ArmWalk</moto>', link: '/reference/Move/ArmMove/ArmWalk' },
-            { text: '🟠 <moto>ArmFlag</moto>', link: '/reference/Move/ArmMove/ArmFlag' },
+          text: '🟠 <moto>ArmMoto</moto>', collapsed: true, items: [
+            { text: '🟠 <moto>ArmMoto Overview</moto>', link: '/reference/Moto/ArmMoto/Overview' },
+            { text: '🟠 <moto>Arm Phrase</moto>', link: '/reference/Moto/ArmMoto/Phrase/Overview' },
+            { text: '🟠 <moto>ArmBlock</moto>', link: '/reference/Moto/ArmMoto/ArmBlock' },
+            { text: '🟠 <moto>ArmProp</moto>', link: '/reference/Moto/ArmMoto/ArmProp' },
+            { text: '🟠 <moto>ArmSwing</moto>', link: '/reference/Moto/ArmMoto/ArmSwing' },
+            { text: '🟠 <moto>ArmWalk</moto>', link: '/reference/Moto/ArmMoto/ArmWalk' },
+            { text: '🟠 <moto>ArmFlag</moto>', link: '/reference/Moto/ArmMoto/ArmFlag' },
           ]
         },
         {
-          text: '🟠 <moto>BodyMove</moto>', collapsed: true, items: [
-            { text: '🟠 <moto>BodyMove Overview</moto>', link: '/reference/Move/BodyMove/Overview' },
-            { text: '🟠 <moto>Body Phrase</moto>', link: '/reference/Move/BodyMove/Phrase/Overview' },
-            { text: '🟠 <moto>BodyAbsorb</moto>', link: '/reference/Move/BodyMove/BodyAbsorb' },
-            { text: '🟠 <moto>BodyBend</moto>', link: '/reference/Move/BodyMove/BodyBend' },
-            { text: '🟠 <moto>BodyLean</moto>', link: '/reference/Move/BodyMove/BodyLean' },
-            { text: '🟠 <moto>BodyRevolve</moto>', link: '/reference/Move/BodyMove/BodyRevolve' },
-            { text: '🟠 <moto>BodyRotate</moto>', link: '/reference/Move/BodyMove/BodyRotate' },
-            { text: '🟠 <moto>BodySlot</moto>', link: '/reference/Move/BodyMove/BodySlot' },
-            { text: '🟠 <moto>Fall</moto>', link: '/reference/Move/BodyMove/Fall' },
+          text: '🟠 <moto>BodyMoto</moto>', collapsed: true, items: [
+            { text: '🟠 <moto>BodyMoto Overview</moto>', link: '/reference/Moto/BodyMoto/Overview' },
+            { text: '🟠 <moto>Body Phrase</moto>', link: '/reference/Moto/BodyMoto/Phrase/Overview' },
+            { text: '🟠 <moto>BodyAbsorb</moto>', link: '/reference/Moto/BodyMoto/BodyAbsorb' },
+            { text: '🟠 <moto>BodyBend</moto>', link: '/reference/Moto/BodyMoto/BodyBend' },
+            { text: '🟠 <moto>BodyLean</moto>', link: '/reference/Moto/BodyMoto/BodyLean' },
+            { text: '🟠 <moto>BodyRevolve</moto>', link: '/reference/Moto/BodyMoto/BodyRevolve' },
+            { text: '🟠 <moto>BodyRotate</moto>', link: '/reference/Moto/BodyMoto/BodyRotate' },
+            { text: '🟠 <moto>BodySlot</moto>', link: '/reference/Moto/BodyMoto/BodySlot' },
+            { text: '🟠 <moto>Fall</moto>', link: '/reference/Moto/BodyMoto/Fall' },
           ]
         },
         {
-          text: '🟠 <moto>CacheMove</moto>', collapsed: true, items: [
-            { text: '🟠 <moto>CacheMove Overview</moto>', link: '/reference/Move/CacheMove/Overview' },
-            { text: '🟠 <moto>Cache Phrase</moto>', link: '/reference/Move/CacheMove/Phrase/Overview' },
-            { text: '🟠 <moto>Eating</moto>', link: '/reference/Move/CacheMove/Eating' },
-            { text: '🟠 <moto>TarpOff</moto>', link: '/reference/Move/CacheMove/TarpOff' },
-            { text: '🟠 <moto>TarpOn</moto>', link: '/reference/Move/CacheMove/TarpOn' },
+          text: '🟠 <moto>CacheMoto</moto>', collapsed: true, items: [
+            { text: '🟠 <moto>CacheMoto Overview</moto>', link: '/reference/Moto/CacheMoto/Overview' },
+            { text: '🟠 <moto>Cache Phrase</moto>', link: '/reference/Moto/CacheMoto/Phrase/Overview' },
+            { text: '🟠 <moto>Eating</moto>', link: '/reference/Moto/CacheMoto/Eating' },
+            { text: '🟠 <moto>TarpOff</moto>', link: '/reference/Moto/CacheMoto/TarpOff' },
+            { text: '🟠 <moto>TarpOn</moto>', link: '/reference/Moto/CacheMoto/TarpOn' },
           ]
         },
         {
-          text: '🟠 <moto>ClothingMove</moto>', collapsed: true, items: [
-            { text: '🟠 <moto>ClothingMove Overview</moto>', link: '/reference/Move/ClothingMove/Overview' },
-            { text: '🟠 <moto>Clothing Phrase</moto>', link: '/reference/Move/ClothingMove/Phrase/Overview' },
-            { text: '🟠 <moto>Button</moto>', link: '/reference/Move/ClothingMove/Button' },
-            { text: '🟠 <moto>ClothingLayer</moto>', link: '/reference/Move/ClothingMove/ClothingLayer' },
-            { text: '🟠 <moto>RemoveMud</moto>', link: '/reference/Move/ClothingMove/RemoveMud' },
-            { text: '🟠 <moto>ZipperMove</moto>', link: '/reference/Move/ClothingMove/ZipperMove' },
+          text: '🟠 <moto>ClothingMoto</moto>', collapsed: true, items: [
+            { text: '🟠 <moto>ClothingMoto Overview</moto>', link: '/reference/Moto/ClothingMoto/Overview' },
+            { text: '🟠 <moto>Clothing Phrase</moto>', link: '/reference/Moto/ClothingMoto/Phrase/Overview' },
+            { text: '🟠 <moto>Button</moto>', link: '/reference/Moto/ClothingMoto/Button' },
+            { text: '🟠 <moto>ClothingLayer</moto>', link: '/reference/Moto/ClothingMoto/ClothingLayer' },
+            { text: '🟠 <moto>RemotoMud</moto>', link: '/reference/Moto/ClothingMoto/RemotoMud' },
+            { text: '🟠 <moto>ZipperMoto</moto>', link: '/reference/Moto/ClothingMoto/ZipperMoto' },
 
           ]
         },
         {
-          text: '🟠 <moto>FootMove</moto>', collapsed: true, items: [
-            { text: '🟠 <moto>FootMove Overview</moto>', link: '/reference/Move/FootMove/Overview' },
-            { text: '🟠 <moto>Foot Phrase</moto>', link: '/reference/Move/FootMove/Phrase/Overview' },
-            { text: '🟠 <moto>FootArchSmear</moto>', link: '/reference/Move/FootMove/FootArchSmear' },
-            { text: '🟠 <moto>FootClose</moto>', link: '/reference/Move/FootMove/FootClose' },
-            { text: '🟠 <moto>FootDig</moto>', link: '/reference/Move/FootMove/FootDig' },
-            { text: '🟠 <moto>FootDorsiflexion</moto>', link: '/reference/Move/FootMove/FootDorsiflexion' },
-            { text: '🟠 <moto>FootDrag</moto>', link: '/reference/Move/FootMove/FootDrag' },
-            { text: '🟠 <moto>FootEversion</moto>', link: '/reference/Move/FootMove/FootEversion' },
-            { text: '🟠 <moto>FootInversion</moto>', link: '/reference/Move/FootMove/FootInversion' },
-            { text: '🟠 <moto>FootScreef</moto>', link: '/reference/Move/FootMove/FootScreef' },
-            { text: '🟠 <moto>PlantarFlexion</moto>', link: '/reference/Move/FootMove/PlantarFlexion' },
+          text: '🟠 <moto>FootMoto</moto>', collapsed: true, items: [
+            { text: '🟠 <moto>FootMoto Overview</moto>', link: '/reference/Moto/FootMoto/Overview' },
+            { text: '🟠 <moto>Foot Phrase</moto>', link: '/reference/Moto/FootMoto/Phrase/Overview' },
+            { text: '🟠 <moto>FootArchSmear</moto>', link: '/reference/Moto/FootMoto/FootArchSmear' },
+            { text: '🟠 <moto>FootClose</moto>', link: '/reference/Moto/FootMoto/FootClose' },
+            { text: '🟠 <moto>FootDig</moto>', link: '/reference/Moto/FootMoto/FootDig' },
+            { text: '🟠 <moto>FootDorsiflexion</moto>', link: '/reference/Moto/FootMoto/FootDorsiflexion' },
+            { text: '🟠 <moto>FootDrag</moto>', link: '/reference/Moto/FootMoto/FootDrag' },
+            { text: '🟠 <moto>FootEversion</moto>', link: '/reference/Moto/FootMoto/FootEversion' },
+            { text: '🟠 <moto>FootInversion</moto>', link: '/reference/Moto/FootMoto/FootInversion' },
+            { text: '🟠 <moto>FootScreef</moto>', link: '/reference/Moto/FootMoto/FootScreef' },
+            { text: '🟠 <moto>PlantarFlexion</moto>', link: '/reference/Moto/FootMoto/PlantarFlexion' },
           ]
         },
         {
-          text: '🟠 <moto>HandMove</moto>', collapsed: true, items: [
-            { text: '🟠 <moto>HandMove Overview</moto>', link: '/reference/Move/HandMove/Overview' },
-            { text: '🟠 <moto>Hand Phrase</moto>', link: '/reference/Move/HandMove/Phrase/Overview' },
-            { text: '🟠 <moto>BagGrip</moto>', link: '/reference/Move/HandMove/BagGrip' },
-            { text: '🟠 <moto>BoxGrip</moto>', link: '/reference/Move/HandMove/BoxGrip' },
-            { text: '🟠 <moto>BranchGrip</moto>', link: '/reference/Move/HandMove/BranchGrip' },
-            { text: '🟠 <moto>BranchSnapGrip</moto>', link: '/reference/Move/HandMove/BranchSnapGrip' },
-            { text: '🟠 <moto>HandClose</moto>', link: '/reference/Move/HandMove/HandClose' },
-            { text: '🟠 <moto>HandPoke</moto>', link: '/reference/Move/HandMove/HandPoke' },
-            { text: '🟠 <moto>HandPut</moto>', link: '/reference/Move/HandMove/HandPut' },
-            { text: '🟠 <moto>HandScreef</moto>', link: '/reference/Move/HandMove/HandScreef' },
-            { text: '🟠 <moto>SpadeHandleGrip</moto>', link: '/reference/Move/HandMove/SpadeHandleGrip' },
-            { text: '🟠 <moto>SpadeShaftGrip</moto>', link: '/reference/Move/HandMove/SpadeShaftGrip' },
-            { text: '🟠 <moto>TreeGrip</moto>', link: '/reference/Move/HandMove/Overview' },
-            { text: '🟠 <moto>TreeTestGrip</moto>', link: '/reference/Move/HandMove/TreeTestGrip' },
+          text: '🟠 <moto>HandMoto</moto>', collapsed: true, items: [
+            { text: '🟠 <moto>HandMoto Overview</moto>', link: '/reference/Moto/HandMoto/Overview' },
+            { text: '🟠 <moto>Hand Phrase</moto>', link: '/reference/Moto/HandMoto/Phrase/Overview' },
+            { text: '🟠 <moto>BagGrip</moto>', link: '/reference/Moto/HandMoto/BagGrip' },
+            { text: '🟠 <moto>BoxGrip</moto>', link: '/reference/Moto/HandMoto/BoxGrip' },
+            { text: '🟠 <moto>BranchGrip</moto>', link: '/reference/Moto/HandMoto/BranchGrip' },
+            { text: '🟠 <moto>BranchSnapGrip</moto>', link: '/reference/Moto/HandMoto/BranchSnapGrip' },
+            { text: '🟠 <moto>HandClose</moto>', link: '/reference/Moto/HandMoto/HandClose' },
+            { text: '🟠 <moto>HandPoke</moto>', link: '/reference/Moto/HandMoto/HandPoke' },
+            { text: '🟠 <moto>HandPut</moto>', link: '/reference/Moto/HandMoto/HandPut' },
+            { text: '🟠 <moto>HandScreef</moto>', link: '/reference/Moto/HandMoto/HandScreef' },
+            { text: '🟠 <moto>SpadeHandleGrip</moto>', link: '/reference/Moto/HandMoto/SpadeHandleGrip' },
+            { text: '🟠 <moto>SpadeShaftGrip</moto>', link: '/reference/Moto/HandMoto/SpadeShaftGrip' },
+            { text: '🟠 <moto>TreeGrip</moto>', link: '/reference/Moto/HandMoto/Overview' },
+            { text: '🟠 <moto>TreeTestGrip</moto>', link: '/reference/Moto/HandMoto/TreeTestGrip' },
           ]
         },
         {
-          text: '🟠 <moto>HeadMove</moto>', collapsed: true, items: [
-            { text: '🟠 <moto>HeadMove Overview</moto>', link: '/reference/Move/HeadMove/Overview' },
-            { text: '🟠 <moto>Head Phrase</moto>', link: '/reference/Move/HeadMove/Phrase/Overview' },
-            { text: '🟠 <moto>FocusLook</moto>', link: '/reference/Move/HeadMove/FocusLook' },
-            { text: '🟠 <moto>HeadProtraction</moto>', link: '/reference/Move/HeadMove/HeadProtraction' },
-            { text: '🟠 <moto>HeadRetraction</moto>', link: '/reference/Move/HeadMove/HeadRetraction' },
-            { text: '🟠 <moto>HeadTiltIntoWind</moto>', link: '/reference/Move/HeadMove/HeadTiltIntoWind' },
-            { text: '🟠 <moto>Hearing</moto>', link: '/reference/Move/HeadMove/Hearing' },
-            { text: '🟠 <moto>LookAway</moto>', link: '/reference/Move/HeadMove/LookAway' },
-            { text: '🟠 <moto>NeckExtension</moto>', link: '/reference/Move/HeadMove/NeckExtension' },
+          text: '🟠 <moto>HeadMoto</moto>', collapsed: true, items: [
+            { text: '🟠 <moto>HeadMoto Overview</moto>', link: '/reference/Moto/HeadMoto/Overview' },
+            { text: '🟠 <moto>Head Phrase</moto>', link: '/reference/Moto/HeadMoto/Phrase/Overview' },
+            { text: '🟠 <moto>FocusLook</moto>', link: '/reference/Moto/HeadMoto/FocusLook' },
+            { text: '🟠 <moto>HeadProtraction</moto>', link: '/reference/Moto/HeadMoto/HeadProtraction' },
+            { text: '🟠 <moto>HeadRetraction</moto>', link: '/reference/Moto/HeadMoto/HeadRetraction' },
+            { text: '🟠 <moto>HeadTiltIntoWind</moto>', link: '/reference/Moto/HeadMoto/HeadTiltIntoWind' },
+            { text: '🟠 <moto>Hearing</moto>', link: '/reference/Moto/HeadMoto/Hearing' },
+            { text: '🟠 <moto>LookAway</moto>', link: '/reference/Moto/HeadMoto/LookAway' },
+            { text: '🟠 <moto>NeckExtension</moto>', link: '/reference/Moto/HeadMoto/NeckExtension' },
           ]
         },
         {
-          text: '🟠 <moto>HoleMove</moto>', collapsed: true, items: [
-            { text: '🟠 <moto>HoleMove Overview</moto>', link: '/reference/Move/HoleMove/Overview' },
-            { text: '🟠 <moto>Hole Phrase</moto>', link: '/reference/Move/HoleMove/Phrase/Overview' },
-            { text: '🟠 <moto>HoleClose</moto>', link: '/reference/Move/HoleMove/HoleClose' },
-            { text: '🟠 <moto>HoleExpand</moto>', link: '/reference/Move/HoleMove/HoleExpand' },
-            { text: '🟠 <moto>HoleOpen</moto>', link: '/reference/Move/HoleMove/HoleOpen' },
+          text: '🟠 <moto>HoleMoto</moto>', collapsed: true, items: [
+            { text: '🟠 <moto>HoleMoto Overview</moto>', link: '/reference/Moto/HoleMoto/Overview' },
+            { text: '🟠 <moto>Hole Phrase</moto>', link: '/reference/Moto/HoleMoto/Phrase/Overview' },
+            { text: '🟠 <moto>HoleClose</moto>', link: '/reference/Moto/HoleMoto/HoleClose' },
+            { text: '🟠 <moto>HoleExpand</moto>', link: '/reference/Moto/HoleMoto/HoleExpand' },
+            { text: '🟠 <moto>HoleOpen</moto>', link: '/reference/Moto/HoleMoto/HoleOpen' },
           ]
         },
         {
-          text: '🟠 <moto>LegMove</moto>', collapsed: true, items: [
-            { text: '🟠 <moto>LegMove Overview</moto>', link: '/reference/Move/LegMove/Overview' },
-            { text: '🟠 <moto>Leg Phrase</moto>', link: '/reference/Move/LegMove/Phrase/Overview' },
-            { text: '🟠 <moto>Crouch</moto>', link: '/reference/Move/LegMove/Overview' },
-            { text: '🟠 <moto>Jump</moto>', link: '/reference/Move/LegMove/Jump' },
-            { text: '🟠 <moto>Kneel</moto>', link: '/reference/Move/LegMove/Kneel' },
-            { text: '🟠 <moto>LegAbduction</moto>', link: '/reference/Move/LegMove/LegAbduction' },
-            { text: '🟠 <moto>LegAbsorb</moto>', link: '/reference/Move/LegMove/LegAbsorb' },
-            { text: '🟠 <moto>LegAdduction</moto>', link: '/reference/Move/LegMove/LegAdduction' },
-            { text: '🟠 <moto>LegFlag</moto>', link: '/reference/Move/LegMove/LegFlag' },
-            { text: '🟠 <moto>LegFlexion</moto>', link: '/reference/Move/LegMove/LegFlexion' },
-            { text: '🟠 <moto>LegProp</moto>', link: '/reference/Move/LegMove/LegProp' },
-            { text: '🟠 <moto>LegSidebagLift</moto>', link: '/reference/Move/LegMove/LegSidebagLift' },
-            { text: '🟠 <moto>LegSwing</moto>', link: '/reference/Move/LegMove/LegSwing' },
-            { text: '🟠 <moto>RunningStart</moto>', link: '/reference/Move/LegMove/RunningStart' },
-            { text: '🟠 <moto>Step</moto>', link: '/reference/Move/LegMove/Step' },
-            { text: '🟠 <moto>Stomp</moto>', link: '/reference/Move/LegMove/Stomp' },
+          text: '🟠 <moto>LegMoto</moto>', collapsed: true, items: [
+            { text: '🟠 <moto>LegMoto Overview</moto>', link: '/reference/Moto/LegMoto/Overview' },
+            { text: '🟠 <moto>Leg Phrase</moto>', link: '/reference/Moto/LegMoto/Phrase/Overview' },
+            { text: '🟠 <moto>Crouch</moto>', link: '/reference/Moto/LegMoto/Overview' },
+            { text: '🟠 <moto>Jump</moto>', link: '/reference/Moto/LegMoto/Jump' },
+            { text: '🟠 <moto>Kneel</moto>', link: '/reference/Moto/LegMoto/Kneel' },
+            { text: '🟠 <moto>LegAbduction</moto>', link: '/reference/Moto/LegMoto/LegAbduction' },
+            { text: '🟠 <moto>LegAbsorb</moto>', link: '/reference/Moto/LegMoto/LegAbsorb' },
+            { text: '🟠 <moto>LegAdduction</moto>', link: '/reference/Moto/LegMoto/LegAdduction' },
+            { text: '🟠 <moto>LegFlag</moto>', link: '/reference/Moto/LegMoto/LegFlag' },
+            { text: '🟠 <moto>LegFlexion</moto>', link: '/reference/Moto/LegMoto/LegFlexion' },
+            { text: '🟠 <moto>LegProp</moto>', link: '/reference/Moto/LegMoto/LegProp' },
+            { text: '🟠 <moto>LegSidebagLift</moto>', link: '/reference/Moto/LegMoto/LegSidebagLift' },
+            { text: '🟠 <moto>LegSwing</moto>', link: '/reference/Moto/LegMoto/LegSwing' },
+            { text: '🟠 <moto>RunningStart</moto>', link: '/reference/Moto/LegMoto/RunningStart' },
+            { text: '🟠 <moto>Step</moto>', link: '/reference/Moto/LegMoto/Step' },
+            { text: '🟠 <moto>Stomp</moto>', link: '/reference/Moto/LegMoto/Stomp' },
           ]
         },
         {
-          text: '🟠 <moto>VegeMove</moto>', collapsed: true, items: [
-            { text: '🟠 <moto>VegeMove Overview</moto>', link: '/reference/Move/VegeMove/Overview' },
-            { text: '🟠 <moto>BranchArmDeflection</moto>', link: '/reference/Move/VegeMove/BranchArmDeflection' },
-            { text: '🟠 <moto>BranchDeflection</moto>', link: '/reference/Move/VegeMove/BranchDeflection' },
-            { text: '🟠 <moto>BranchMove</moto>', link: '/reference/Move/VegeMove/BranchMove' },
-            { text: '🟠 <moto>BranchWhip</moto>', link: '/reference/Move/VegeMove/BranchWhip' },
-            { text: '🟠 <moto>Bush</moto>', link: '/reference/Move/VegeMove/Bush' },
-            { text: '🟠 <moto>Log</moto>', link: '/reference/Move/VegeMove/Log' },
-            { text: '🟠 <moto>SlashPile</moto>', link: '/reference/Move/VegeMove/SlashPile' },
-            { text: '🟠 <moto>Stump</moto>', link: '/reference/Move/VegeMove/Stump' },
+          text: '🟠 <moto>VegeMoto</moto>', collapsed: true, items: [
+            { text: '🟠 <moto>VegeMoto Overview</moto>', link: '/reference/Moto/VegeMoto/Overview' },
+            { text: '🟠 <moto>BranchArmDeflection</moto>', link: '/reference/Moto/VegeMoto/BranchArmDeflection' },
+            { text: '🟠 <moto>BranchDeflection</moto>', link: '/reference/Moto/VegeMoto/BranchDeflection' },
+            { text: '🟠 <moto>BranchMoto</moto>', link: '/reference/Moto/VegeMoto/BranchMoto' },
+            { text: '🟠 <moto>BranchWhip</moto>', link: '/reference/Moto/VegeMoto/BranchWhip' },
+            { text: '🟠 <moto>Bush</moto>', link: '/reference/Moto/VegeMoto/Bush' },
+            { text: '🟠 <moto>Log</moto>', link: '/reference/Moto/VegeMoto/Log' },
+            { text: '🟠 <moto>SlashPile</moto>', link: '/reference/Moto/VegeMoto/SlashPile' },
+            { text: '🟠 <moto>Stump</moto>', link: '/reference/Moto/VegeMoto/Stump' },
           ]
         },
         {
           text: '🟠 <moto>Screef</moto>', collapsed: true, items: [
-            { text: '🟠 <moto>Screefing Overview</moto>', link: '/reference/Move/Screef/Overview' },
-            { text: '🟠 <moto>BootScreef</moto>', link: '/reference/Move/ToolMove/Boot/BootScreef' },
-            { text: '🟠 <moto>HandScreef</moto>', link: '/reference/Move/HandMove/HandScreef' },
-            { text: '🟠 <moto>SpadeScreef</moto>', link: '/reference/Move/ToolMove/Spade/SpadeScreef' },
+            { text: '🟠 <moto>Screefing Overview</moto>', link: '/reference/Moto/Screef/Overview' },
+            { text: '🟠 <moto>BootScreef</moto>', link: '/reference/Moto/ToolMoto/Boot/BootScreef' },
+            { text: '🟠 <moto>HandScreef</moto>', link: '/reference/Moto/HandMoto/HandScreef' },
+            { text: '🟠 <moto>SpadeScreef</moto>', link: '/reference/Moto/ToolMoto/Spade/SpadeScreef' },
           ]
         },
         {
-          text: '🟠 <moto>ToolMove</moto>', collapsed: true, items: [
-            { text: '🟠 <moto>Tool Overview</moto>', link: '/reference/Move/ToolMove/Overview' },
+          text: '🟠 <moto>ToolMoto</moto>', collapsed: true, items: [
+            { text: '🟠 <moto>Tool Overview</moto>', link: '/reference/Moto/ToolMoto/Overview' },
             {
               text: '🟠 <moto>Bag</moto>', collapsed: true, items: [
-                { text: '🟠 <moto>Overview</moto>', link: '/reference/Move/ToolMove/Bag/Overview' },
-                { text: '🟠 <moto>BagGrip</moto>', link: '/reference/Move/ToolMove/Bag/BagGrip' },
-                { text: '🔷 <moto>Bag Phrase</moto>', link: '/reference/Move/ToolMove/Bag/Phrase/Overview' },
-                { text: '🟠 <moto>BagAdjustment</moto>', link: '/reference/Move/ToolMove/Bag/BagAdjustment' },
-                { text: '🟠 <moto>BagDeadlift</moto>', link: '/reference/Move/ToolMove/Bag/BagDeadlift' },
-                { text: '🟠 <moto>BagEmpty</moto>', link: '/reference/Move/ToolMove/Bag/BagEmpty' },
-                { text: '🟠 <moto>BaggingUp</moto>', link: '/reference/Move/ToolMove/Bag/BaggingUp' },
-                { text: '🟠 <moto>BagOff</moto>', link: '/reference/Move/ToolMove/Bag/BagOff' },
-                { text: '🟠 <moto>BagOn</moto>', link: '/reference/Move/ToolMove/Bag/BagOn' },
-                { text: '🟠 <moto>BagSlide</moto>', link: '/reference/Move/ToolMove/Bag/BagSlide' },
+                { text: '🟠 <moto>Overview</moto>', link: '/reference/Moto/ToolMoto/Bag/Overview' },
+                { text: '🟠 <moto>BagGrip</moto>', link: '/reference/Moto/ToolMoto/Bag/BagGrip' },
+                { text: '🔷 <moto>Bag Phrase</moto>', link: '/reference/Moto/ToolMoto/Bag/Phrase/Overview' },
+                { text: '🟠 <moto>BagAdjustment</moto>', link: '/reference/Moto/ToolMoto/Bag/BagAdjustment' },
+                { text: '🟠 <moto>BagDeadlift</moto>', link: '/reference/Moto/ToolMoto/Bag/BagDeadlift' },
+                { text: '🟠 <moto>BagEmpty</moto>', link: '/reference/Moto/ToolMoto/Bag/BagEmpty' },
+                { text: '🟠 <moto>BaggingUp</moto>', link: '/reference/Moto/ToolMoto/Bag/BaggingUp' },
+                { text: '🟠 <moto>BagOff</moto>', link: '/reference/Moto/ToolMoto/Bag/BagOff' },
+                { text: '🟠 <moto>BagOn</moto>', link: '/reference/Moto/ToolMoto/Bag/BagOn' },
+                { text: '🟠 <moto>BagSlide</moto>', link: '/reference/Moto/ToolMoto/Bag/BagSlide' },
               ]
             },
             {
               text: '🟠 <moto>Boot</moto>', collapsed: true, items: [
-                { text: '🟠 <moto>Overview</moto>', link: '/reference/Move/ToolMove/Boot/Overview' },
-                { text: '🔷 <moto>Boot Phrase</moto>', link: '/reference/Move/ToolMove/Boot/Phrase/Overview' },
-                { text: '🟠 <moto>BootGrip</moto>', link: '/reference/Move/ToolMove/Boot/BootGrip' },
-                { text: '🟠 <moto>BootScreef</moto>', link: '/reference/Move/ToolMove/Boot/BootScreef' },
-                { text: '🟠 <moto>LaceKnot</moto>', link: '/reference/Move/ToolMove/Boot/LaceKnot' },
+                { text: '🟠 <moto>Overview</moto>', link: '/reference/Moto/ToolMoto/Boot/Overview' },
+                { text: '🔷 <moto>Boot Phrase</moto>', link: '/reference/Moto/ToolMoto/Boot/Phrase/Overview' },
+                { text: '🟠 <moto>BootGrip</moto>', link: '/reference/Moto/ToolMoto/Boot/BootGrip' },
+                { text: '🟠 <moto>BootScreef</moto>', link: '/reference/Moto/ToolMoto/Boot/BootScreef' },
+                { text: '🟠 <moto>LaceKnot</moto>', link: '/reference/Moto/ToolMoto/Boot/LaceKnot' },
               ]
             },
             {
               text: '🟠 <moto>Box</moto>', collapsed: true, items: [
-                { text: '🟠 <moto>Overview</moto>', link: '/reference/Move/ToolMove/Box/Overview' },
-                { text: '🔷 <moto>Box Phrase</moto>', link: '/reference/Move/ToolMove/Box/Phrase/Overview' },
-                { text: '🟠 <moto>BoxGrip</moto>', link: '/reference/Move/ToolMove/Box/BoxGrip' },
+                { text: '🟠 <moto>Overview</moto>', link: '/reference/Moto/ToolMoto/Box/Overview' },
+                { text: '🔷 <moto>Box Phrase</moto>', link: '/reference/Moto/ToolMoto/Box/Phrase/Overview' },
+                { text: '🟠 <moto>BoxGrip</moto>', link: '/reference/Moto/ToolMoto/Box/BoxGrip' },
               ]
             },
             {
               text: '🟠 <moto>Bundle</moto>', collapsed: true, items: [
-                { text: '🟠 <moto>Overview</moto>', link: '/reference/Move/ToolMove/Bundle/Overview' },
-                { text: '🔷 <moto>Bundle Phrase</moto>', link: '/reference/Move/ToolMove/Bundle/Phrase/Overview' },
-                { text: '🟠 <moto>BundleGrip</moto>', link: '/reference/Move/ToolMove/Bundle/BundleGrip' },
-                { text: '🟠 <moto>BundlePeel</moto>', link: '/reference/Move/ToolMove/Bundle/BundlePeel' },
+                { text: '🟠 <moto>Overview</moto>', link: '/reference/Moto/ToolMoto/Bundle/Overview' },
+                { text: '🔷 <moto>Bundle Phrase</moto>', link: '/reference/Moto/ToolMoto/Bundle/Phrase/Overview' },
+                { text: '🟠 <moto>BundleGrip</moto>', link: '/reference/Moto/ToolMoto/Bundle/BundleGrip' },
+                { text: '🟠 <moto>BundlePeel</moto>', link: '/reference/Moto/ToolMoto/Bundle/BundlePeel' },
               ]
             },
             {
               text: '🟠 <moto>Carabiner</moto>', collapsed: true, items: [
-                { text: '🟠 <moto>Overview</moto>', link: '/reference/Move/ToolMove/Carabiner/Overview' },
+                { text: '🟠 <moto>Overview</moto>', link: '/reference/Moto/ToolMoto/Carabiner/Overview' },
               ]
             },
             {
               text: '🟠 <moto>Flag</moto>', collapsed: true, items: [
-                { text: '🟠 <moto>Overview</moto>', link: '/reference/Move/ToolMove/Flag/Overview' },
-                { text: '🔷 <moto>Flag Phrase</moto>', link: '/reference/Move/ToolMove/Flag/Phrase/Overview' },
-                { text: '🟠 <moto>FlagGrip</moto>', link: '/reference/Move/ToolMove/Flag/FlagGrip' },
-                { text: '🟠 <moto>FlagErrorRecovery</moto>', link: '/reference/Move/ToolMove/Flag/FlagErrorRecovery' },
-                { text: '🟠 <moto>FlagGet</moto>', link: '/reference/Move/ToolMove/Flag/FlagLoad' },
-                { text: '🟠 <moto>FlagRip</moto>', link: '/reference/Move/ToolMove/Flag/FlagRip' },
-                { text: '🟠 <moto>FlagRoll</moto>', link: '/reference/Move/ToolMove/Flag/FlagRoll' },
-                { text: '🟠 <moto>FlagUnload</moto>', link: '/reference/Move/ToolMove/Flag/FlagUnoad' },
+                { text: '🟠 <moto>Overview</moto>', link: '/reference/Moto/ToolMoto/Flag/Overview' },
+                { text: '🔷 <moto>Flag Phrase</moto>', link: '/reference/Moto/ToolMoto/Flag/Phrase/Overview' },
+                { text: '🟠 <moto>FlagGrip</moto>', link: '/reference/Moto/ToolMoto/Flag/FlagGrip' },
+                { text: '🟠 <moto>FlagErrorRecovery</moto>', link: '/reference/Moto/ToolMoto/Flag/FlagErrorRecovery' },
+                { text: '🟠 <moto>FlagGet</moto>', link: '/reference/Moto/ToolMoto/Flag/FlagLoad' },
+                { text: '🟠 <moto>FlagRip</moto>', link: '/reference/Moto/ToolMoto/Flag/FlagRip' },
+                { text: '🟠 <moto>FlagRoll</moto>', link: '/reference/Moto/ToolMoto/Flag/FlagRoll' },
+                { text: '🟠 <moto>FlagUnload</moto>', link: '/reference/Moto/ToolMoto/Flag/FlagUnoad' },
               ]
             },
             {
               text: '🟠 <moto>Gaiter</moto>', collapsed: true, items: [
 
-                { text: '🟠 <moto>Overview</moto>', link: '/reference/Move/ToolMove/Gaiter/Overview' },
-                { text: '🔷 <moto>Gaiter Phrase</moto>', link: '/reference/Move/ToolMove/Gaiter/Phrase/Overview' },
-                { text: '🟠 <moto>GaiterGrip</moto>', link: '/reference/Move/ToolMove/Gaiter/GaiterGrip' },
-                { text: '🟠 <moto>GaiterOn</moto>', link: '/reference/Move/ToolMove/Gaiter/GaiterOn' },
-                { text: '🟠 <moto>GaiterOff</moto>', link: '/reference/Move/ToolMove/Gaiter/GaiterOff' },
+                { text: '🟠 <moto>Overview</moto>', link: '/reference/Moto/ToolMoto/Gaiter/Overview' },
+                { text: '🔷 <moto>Gaiter Phrase</moto>', link: '/reference/Moto/ToolMoto/Gaiter/Phrase/Overview' },
+                { text: '🟠 <moto>GaiterGrip</moto>', link: '/reference/Moto/ToolMoto/Gaiter/GaiterGrip' },
+                { text: '🟠 <moto>GaiterOn</moto>', link: '/reference/Moto/ToolMoto/Gaiter/GaiterOn' },
+                { text: '🟠 <moto>GaiterOff</moto>', link: '/reference/Moto/ToolMoto/Gaiter/GaiterOff' },
               ]
             },
             {
               text: '🟠 <moto>Glove</moto>', collapsed: true, items: [
-                { text: '🟠 <moto>Overview</moto>', link: '/reference/Move/ToolMove/Glove/Overview' },
-                { text: '🔷 <moto>Glove Phrase</moto>', link: '/reference/Move/ToolMove/Glove/Phrase/Overview' },
-                { text: '🟠 <moto>GloveGrip</moto>', link: '/reference/Move/ToolMove/Glove/GloveGrip' },
+                { text: '🟠 <moto>Overview</moto>', link: '/reference/Moto/ToolMoto/Glove/Overview' },
+                { text: '🔷 <moto>Glove Phrase</moto>', link: '/reference/Moto/ToolMoto/Glove/Phrase/Overview' },
+                { text: '🟠 <moto>GloveGrip</moto>', link: '/reference/Moto/ToolMoto/Glove/GloveGrip' },
               ]
             },
             {
               text: '🟠 <moto>Kit</moto>', collapsed: true, items: [
-                { text: '🟠 <moto>Overview</moto>', link: '/reference/Move/ToolMove/Kit/Overview' },
+                { text: '🟠 <moto>Overview</moto>', link: '/reference/Moto/ToolMoto/Kit/Overview' },
               ]
             },
             {
               text: '🟠 <moto>Rope</moto>', collapsed: true, items: [
-                { text: '🟠 <moto>Overview</moto>', link: '/reference/Move/ToolMove/Rope/Overview' },
+                { text: '🟠 <moto>Overview</moto>', link: '/reference/Moto/ToolMoto/Rope/Overview' },
               ]
             },
             {
               text: '🟠 <moto>Spade</moto>', collapsed: true, items: [
-                { text: '🟠 <moto>Overview</moto>', link: '/reference/Move/ToolMove/Spade/Overview' },
-                { text: '🔷 <moto>Spade Phrase</moto>', link: '/reference/Move/ToolMove/Spade/Phrase/Overview' },
-                { text: '🟠 <moto>SpadeGrip</moto>', link: '/reference/Move/ToolMove/Spade/SpadeGrip' },
-                { text: '🟠 <moto>SpadeChop</moto>', link: '/reference/Move/ToolMove/Spade/SpadeChop' },
-                { text: '🟠 <moto>SpadePogo</moto>', link: '/reference/Move/ToolMove/Spade/SpadePogo' },
-                { text: '🟠 <moto>SpadeProp</moto>', link: '/reference/Move/ToolMove/Spade/SpadeProp' },
-                { text: '🟠 <moto>SpadeScreef</moto>', link: '/reference/Move/ToolMove/Spade/SpadeScreef' },
-                { text: '🟠 <moto>SpadeSwing</moto>', link: '/reference/Move/ToolMove/Spade/SpadeSwing' },
-                { text: '🟠 <moto>SpadeTest</moto>', link: '/reference/Move/ToolMove/Spade/SpadeTest' },
+                { text: '🟠 <moto>Overview</moto>', link: '/reference/Moto/ToolMoto/Spade/Overview' },
+                { text: '🔷 <moto>Spade Phrase</moto>', link: '/reference/Moto/ToolMoto/Spade/Phrase/Overview' },
+                { text: '🟠 <moto>SpadeGrip</moto>', link: '/reference/Moto/ToolMoto/Spade/SpadeGrip' },
+                { text: '🟠 <moto>SpadeChop</moto>', link: '/reference/Moto/ToolMoto/Spade/SpadeChop' },
+                { text: '🟠 <moto>SpadePogo</moto>', link: '/reference/Moto/ToolMoto/Spade/SpadePogo' },
+                { text: '🟠 <moto>SpadeProp</moto>', link: '/reference/Moto/ToolMoto/Spade/SpadeProp' },
+                { text: '🟠 <moto>SpadeScreef</moto>', link: '/reference/Moto/ToolMoto/Spade/SpadeScreef' },
+                { text: '🟠 <moto>SpadeSwing</moto>', link: '/reference/Moto/ToolMoto/Spade/SpadeSwing' },
+                { text: '🟠 <moto>SpadeTest</moto>', link: '/reference/Moto/ToolMoto/Spade/SpadeTest' },
               ]
             }
           ]
         },
         {
           text: '🟠 <moto>Truck</moto>', collapsed: true, items: [
-            { text: '🟠 <moto>Overview</moto>', link: '/reference/Move/TruckMove/Overview' },
-            { text: '🔷 <moto>Truck Phrase</moto>', link: '/reference/Move/TruckMove/Phrase/Overview' },
-            { text: '🟠 <moto>Sleep</moto>', link: '/reference/Move/TruckMove/Sleep' },
-            { text: '🟠 <moto>Sit</moto>', link: '/reference/Move/TruckMove/Sit' },
+            { text: '🟠 <moto>Overview</moto>', link: '/reference/Moto/TruckMoto/Overview' },
+            { text: '🔷 <moto>Truck Phrase</moto>', link: '/reference/Moto/TruckMoto/Phrase/Overview' },
+            { text: '🟠 <moto>Sleep</moto>', link: '/reference/Moto/TruckMoto/Sleep' },
+            { text: '🟠 <moto>Sit</moto>', link: '/reference/Moto/TruckMoto/Sit' },
           ]
         },
-        { text: '🟠 <moto>Kinesiology</moto>', link: '/reference/Move/Kinesiology/KinesiologyOverview' },
+        { text: '🟠 <moto>Kinesiology</moto>', link: '/reference/Moto/Kinesiology/KinesiologyOverview' },
 
       ],
     },
@@ -666,7 +666,7 @@ function sidebarReference() {
             { text: '💜 <neuro>Time Overview</neuro>', link: '/reference/Neuro/Time/Overview' },
             { text: '💜 <neuro>BagUpTime</neuro>', link: '/reference/Neuro/Time/BagUpTime' },
             { text: '💜 <neuro>DailySchedule</neuro>', link: '/reference/Neuro/Time/DailySchedule' },
-            { text: '💜 <neuro>MoveTiming</neuro>', link: '/reference/Neuro/Time/MoveTiming' },
+            { text: '💜 <neuro>MotoTiming</neuro>', link: '/reference/Neuro/Time/MotoTiming' },
             { text: '💜 <neuro>Planning</neuro>', link: '/reference/Neuro/Time/Planning' },
             { text: '💜 <neuro>Timer</neuro>', link: '/reference/Neuro/Time/Timer' },
           ]
@@ -676,96 +676,96 @@ function sidebarReference() {
     },
     // #Via
     {
-      text: '🔺 <route>Via</route>', collapsed: true, items: [
-        { text: '🔺 <route>Via Overview</route>', link: '/reference/Via/ViaOverview' },
-        { text: '🔷 <route>Via Phrase</route>', link: '/reference/Via/ViaSequence/Overview' },
-        { text: '🔷 <route>Via Difficulty</route>', link: '/reference/Via/ViaDifficulty' },
+      text: '🔺 <via>Via</via>', collapsed: true, items: [
+        { text: '🔺 <via>Via Overview</via>', link: '/reference/Via/ViaOverview' },
+        { text: '🔷 <via>Via Sequence</via>', link: '/reference/Via/ViaSequence/Overview' },
+        { text: '🔷 <via>Via Difficulty</via>', link: '/reference/Via/ViaDifficulty' },
         {
-          text: '🔺 <route>Fill Algorithms</route>', collapsed: true, items: [
-            { text: '🔺 <route>Fill Algorithms Overview</route>', link: '/reference/Via/FillAlgorithm/Overview' },
-            { text: '🔺 <route>BoustroFill</route>', link: '/reference/Via/FillAlgorithm/BoustroFill' },
-            { text: '🔺 <route>CircleFill</route>', link: '/reference/Via/FillAlgorithm/CircleFill' },
-            { text: '🔺 <route>DiamondFill</route>', link: '/reference/Via/FillAlgorithm/DiamondFill' },
-            { text: '🔺 <route>SquareFill</route>', link: '/reference/Via/FillAlgorithm/SquareFill' },
-            { text: '🔺 <route>TriangleFill</route>', link: '/reference/Via/FillAlgorithm/TriangleFill' },
-            { text: '🔺 <route>ChunkFill</route>', link: '/reference/Via/FillAlgorithm/ChunkFill' },
-            { text: '🔺 <route>BackFill</route>', link: '/reference/Via/FillAlgorithm/BackFill' },
-            { text: '🔺 <route>OpenEndedFill</route>', link: '/reference/Via/FillAlgorithm/OpenEndedFill' },
-            { text: '🔺 <route>PerimeterFill</route>', link: '/reference/Via/FillAlgorithm/PerimeterFill' },
-            { text: '🔺 <route>TypewriterFill</route>', link: '/reference/Via/FillAlgorithm/TypewriterFill' },
+          text: '🔺 <via>Fill Algorithms</via>', collapsed: true, items: [
+            { text: '🔺 <via>Fill Algorithms Overview</via>', link: '/reference/Via/FillAlgorithm/Overview' },
+            { text: '🔺 <via>BoustroFill</via>', link: '/reference/Via/FillAlgorithm/BoustroFill' },
+            { text: '🔺 <via>CircleFill</via>', link: '/reference/Via/FillAlgorithm/CircleFill' },
+            { text: '🔺 <via>DiamondFill</via>', link: '/reference/Via/FillAlgorithm/DiamondFill' },
+            { text: '🔺 <via>SquareFill</via>', link: '/reference/Via/FillAlgorithm/SquareFill' },
+            { text: '🔺 <via>TriangleFill</via>', link: '/reference/Via/FillAlgorithm/TriangleFill' },
+            { text: '🔺 <via>ChunkFill</via>', link: '/reference/Via/FillAlgorithm/ChunkFill' },
+            { text: '🔺 <via>BackFill</via>', link: '/reference/Via/FillAlgorithm/BackFill' },
+            { text: '🔺 <via>OpenEndedFill</via>', link: '/reference/Via/FillAlgorithm/OpenEndedFill' },
+            { text: '🔺 <via>PerimeterFill</via>', link: '/reference/Via/FillAlgorithm/PerimeterFill' },
+            { text: '🔺 <via>TypewriterFill</via>', link: '/reference/Via/FillAlgorithm/TypewriterFill' },
           ]
         },
         {
-          text: '🔺 <route>Flag</route>', collapsed: true, items: [
-            { text: '🔺 <route>Flag Overview</route>', link: '/reference/Via/Flag/Overview' },
-            { text: '🔺 <route>BoundaryFlag</route>', link: '/reference/Via/Flag/BoundaryFlag' },
-            { text: '🔺 <route>FlagLocation</route>', link: '/reference/Via/Flag/FlagLocation' },
-            { text: '🔺 <route>HighFlag</route>', link: '/reference/Via/Flag/HighFlag' },
-            { text: '🔺 <route>LineInFlag</route>', link: '/reference/Via/Flag/LineInFlag' },
-            { text: '🔺 <route>NaturalFlag</route>', link: '/reference/Via/Flag/NaturalFlag' },
-            { text: '🔺 <route>TrenchExitFlag</route>', link: '/reference/Via/Flag/TrenchExitFlag' },
-            { text: '🔺 <route>WastedFlag</route>', link: '/reference/Via/Flag/WastedFlag' },
+          text: '🔺 <via>Flag</via>', collapsed: true, items: [
+            { text: '🔺 <via>Flag Overview</via>', link: '/reference/Via/Flag/Overview' },
+            { text: '🔺 <via>BoundaryFlag</via>', link: '/reference/Via/Flag/BoundaryFlag' },
+            { text: '🔺 <via>FlagLocation</via>', link: '/reference/Via/Flag/FlagLocation' },
+            { text: '🔺 <via>HighFlag</via>', link: '/reference/Via/Flag/HighFlag' },
+            { text: '🔺 <via>LineInFlag</via>', link: '/reference/Via/Flag/LineInFlag' },
+            { text: '🔺 <via>NaturalFlag</via>', link: '/reference/Via/Flag/NaturalFlag' },
+            { text: '🔺 <via>TrenchExitFlag</via>', link: '/reference/Via/Flag/TrenchExitFlag' },
+            { text: '🔺 <via>WastedFlag</via>', link: '/reference/Via/Flag/WastedFlag' },
           ]
         },
         {
-          text: '🔺 <route>ObstacleFill</route>', collapsed: true, items: [
-            { text: '🔺 <route>ObstacleFill Overview</route>', link: '/reference/Via/ObstacleFill/Overview' },
+          text: '🔺 <via>ObstacleFill</via>', collapsed: true, items: [
+            { text: '🔺 <via>ObstacleFill Overview</via>', link: '/reference/Via/ObstacleFill/Overview' },
           ]
         },
         {
-          text: '🔺 <route>ViaGeometry</route>', collapsed: true, items: [
+          text: '🔺 <via>ViaGeometry</via>', collapsed: true, items: [
             {
-              text: '🔺 <route>ViaPoint</route>', collapsed: true, items: [
-                { text: '🔺 <route>Overview</route>', link: '/reference/Via/ViaPoint/Overview' },
-                { text: '🔺 <route>CenterPoint</route>', link: '/reference/Via/ViaPoint/CenterPoint' },
-                { text: '🔺 <route>InflectionPoint</route>', link: '/reference/Via/ViaPoint/InflectionPoint' },
-                { text: '🔺 <route>Midpoint</route>', link: '/reference/Via/ViaPoint/Midpoint' },
-                { text: '🔺 <route>ReferencePoint</route>', link: '/reference/Via/ViaPoint/ReferencePoint' },
-                { text: '🔺 <route>ReflectionPoint</route>', link: '/reference/Via/ViaPoint/ReflectionPoint' },
-                { text: '🔺 <route>TargetPoint</route>', link: '/reference/Via/ViaPoint/TargetPoint' },
+              text: '🔺 <via>ViaPoint</via>', collapsed: true, items: [
+                { text: '🔺 <via>Overview</via>', link: '/reference/Via/ViaPoint/Overview' },
+                { text: '🔺 <via>CenterPoint</via>', link: '/reference/Via/ViaPoint/CenterPoint' },
+                { text: '🔺 <via>InflectionPoint</via>', link: '/reference/Via/ViaPoint/InflectionPoint' },
+                { text: '🔺 <via>Midpoint</via>', link: '/reference/Via/ViaPoint/Midpoint' },
+                { text: '🔺 <via>ReferencePoint</via>', link: '/reference/Via/ViaPoint/ReferencePoint' },
+                { text: '🔺 <via>ReflectionPoint</via>', link: '/reference/Via/ViaPoint/ReflectionPoint' },
+                { text: '🔺 <via>TargetPoint</via>', link: '/reference/Via/ViaPoint/TargetPoint' },
               ]
             },
             {
-              text: '🔺 <route>ViaCurve</route>', collapsed: true, items: [
-                { text: '🔺 <route>ViaCurve Overview</route>', link: '/reference/Via/ViaCurve/Overview' },
-                { text: '🔺 <route>AroundCurve</route>', link: '/reference/Via/ViaCurve/AroundCurve' },
-                { text: '🔺 <route>GhostLine</route>', link: '/reference/Via/ViaCurve/GhostLine' },
-                { text: '🔺 <route>ParallelCurve</route>', link: '/reference/Via/ViaCurve/ParalleCurvee' },
-                { text: '🔺 <route>PerimeterCurve</route>', link: '/reference/Via/ViaCurve/PerimeterCurve' },
-                { text: '🔺 <route>SpiralCurve</route>', link: '/reference/Via/ViaCurve/SpiralCurve' },
-                { text: '🔺 <route>TurnAroundCurve</route>', link: '/reference/Via/ViaCurve/TurnAroundCurve' },
-                { text: '🔺 <route>ZigzagCurve</route>', link: '/reference/Via/ViaCurve/ZigzagCurve' },
+              text: '🔺 <via>ViaCurve</via>', collapsed: true, items: [
+                { text: '🔺 <via>ViaCurve Overview</via>', link: '/reference/Via/ViaCurve/Overview' },
+                { text: '🔺 <via>AroundCurve</via>', link: '/reference/Via/ViaCurve/AroundCurve' },
+                { text: '🔺 <via>GhostLine</via>', link: '/reference/Via/ViaCurve/GhostLine' },
+                { text: '🔺 <via>ParallelCurve</via>', link: '/reference/Via/ViaCurve/ParalleCurvee' },
+                { text: '🔺 <via>PerimeterCurve</via>', link: '/reference/Via/ViaCurve/PerimeterCurve' },
+                { text: '🔺 <via>SpiralCurve</via>', link: '/reference/Via/ViaCurve/SpiralCurve' },
+                { text: '🔺 <via>TurnAroundCurve</via>', link: '/reference/Via/ViaCurve/TurnAroundCurve' },
+                { text: '🔺 <via>ZigzagCurve</via>', link: '/reference/Via/ViaCurve/ZigzagCurve' },
               ]
             },
             {
-              text: '🔺 <route>ViaSpace</route>', collapsed: true, items: [
-                { text: '🔺 <route>Spacing Overview</route>', link: '/reference/Via/ViaSpace/Overview' },
-                { text: '🔺 <route>MaximumSpacing</route>', link: '/reference/Via/ViaSpace/MaximumSpacing' },
-                { text: '🔺 <route>MinimumSpacing</route>', link: '/reference/Via/ViaSpace/MinimumSpacing' },
-                { text: '🔺 <route>OptimalSpacing</route>', link: '/reference/Via/ViaSpace/OptimalSpacing' },
-                { text: '🔺 <route>ElasticSpacing</route>', link: '/reference/Via/ViaSpace/ElasticSpacing' },
-                { text: '🔺 <route>SpacingOnSlope</route>', link: '/reference/Via/ViaSpace/SpacingOnSlope' },
+              text: '🔺 <via>ViaSpace</via>', collapsed: true, items: [
+                { text: '🔺 <via>Spacing Overview</via>', link: '/reference/Via/ViaSpace/Overview' },
+                { text: '🔺 <via>MaximumSpacing</via>', link: '/reference/Via/ViaSpace/MaximumSpacing' },
+                { text: '🔺 <via>MinimumSpacing</via>', link: '/reference/Via/ViaSpace/MinimumSpacing' },
+                { text: '🔺 <via>OptimalSpacing</via>', link: '/reference/Via/ViaSpace/OptimalSpacing' },
+                { text: '🔺 <via>ElasticSpacing</via>', link: '/reference/Via/ViaSpace/ElasticSpacing' },
+                { text: '🔺 <via>SpacingOnSlope</via>', link: '/reference/Via/ViaSpace/SpacingOnSlope' },
               ]
             },
             {
-              text: '🔺 <route>ViaSurface</route>', collapsed: true, items: [
-                { text: '🔺 <route>Overview</route>', link: '/reference/Via/ViaSurface/Overview' },
-                { text: '🔺 <route>ViaSurface Texture</route>', link: '/reference/Via/ViaSurface/ViaSurfaceTexture' },
+              text: '🔺 <via>ViaSurface</via>', collapsed: true, items: [
+                { text: '🔺 <via>Overview</via>', link: '/reference/Via/ViaSurface/Overview' },
+                { text: '🔺 <via>ViaSurface Texture</via>', link: '/reference/Via/ViaSurface/ViaSurfaceTexture' },
               ]
             },
           ]
         },
         {
-          text: '🔺 <route>TeamPlant</route>', collapsed: true, items: [
-            { text: '🔺 <route>TeamPlant Overview</route>', link: '/reference/Via/TeamPlant/Overview' },
-            { text: '🔺 <route>BouncingFill</route>', link: '/reference/Via/TeamPlant/BouncingFill' },
-            { text: '🔺 <route>CrossingFill</route>', link: '/reference/Via/TeamPlant/CrossingFill' },
-            { text: '🔺 <route>FollowingFill</route>', link: '/reference/Via/TeamPlant/FollowingFill' },
+          text: '🔺 <via>TeamPlant</via>', collapsed: true, items: [
+            { text: '🔺 <via>TeamPlant Overview</via>', link: '/reference/Via/TeamPlant/Overview' },
+            { text: '🔺 <via>BouncingFill</via>', link: '/reference/Via/TeamPlant/BouncingFill' },
+            { text: '🔺 <via>CrossingFill</via>', link: '/reference/Via/TeamPlant/CrossingFill' },
+            { text: '🔺 <via>FollowingFill</via>', link: '/reference/Via/TeamPlant/FollowingFill' },
           ]
         },
       ]
     },
-    { text: '📃 Glossary</route>', link: '/reference/glossary/Glossary' },
+    { text: '📃 Glossary</via>', link: '/reference/glossary/Glossary' },
     { text: '📷 Media Database', link: '/reference/media/Overview' }
   ]
 }

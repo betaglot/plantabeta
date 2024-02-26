@@ -52,7 +52,7 @@ Answer 3
 - 
 ## Related 🟩<eco>EcoElements</eco>
 - 
-## Related 🔺<route>ViaElements</route>
+## Related 🔺<via>ViaElements</via>
 - 
 
 ## Examples

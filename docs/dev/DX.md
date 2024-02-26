@@ -205,7 +205,7 @@ There shouldn't be beta and plantbeta, because they a supposed to be the name of
 
 Plantbeta is the language and the 
 
-Beta represents movement, but Moto is the move itself. Moto doesn't care about how it's being represented.
+Beta represents moto, but Moto is the move itself. Moto doesn't care about how it's being represented.
 
 ### Sherlock Holmes
 - Prediction

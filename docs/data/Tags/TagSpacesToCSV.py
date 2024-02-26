@@ -66,10 +66,10 @@ json = [
                 "title": "Moto.Overview.MotoHierarchy"
             },
             {
-                "title": "Moto.Overview.MotoHierarchy.Submovement"
+                "title": "Moto.Overview.MotoHierarchy.Submoto"
             },
             {
-                "title": "Moto.Overview.MotoHierarchy.Supermovement"
+                "title": "Moto.Overview.MotoHierarchy.Supermoto"
             },
             {
                 "title": "Moto.Overview.MotomentType"
@@ -1941,7 +1941,7 @@ json = [
                 "title": "Moto.MotoDecomposition"
             },
             {
-                "title": "Moto.Overview.MotoHierarchy.Submovement"
+                "title": "Moto.Overview.MotoHierarchy.Submoto"
             },
             {
                 "title": "Plantbeta"
@@ -2444,7 +2444,7 @@ json = [
                 "title": "Moto.MotoProperties.MotoWeightDistribution"
             },
             {
-                "title": "Moto.MotoProperties.SubmovementCount"
+                "title": "Moto.MotoProperties.SubmotoCount"
             },
             {
                 "title": "Moto.MotoPhrase.MotoDensity"
@@ -4314,7 +4314,7 @@ json = [
                 "title": "Moto.MotoPhrase.MotoLinePhrase"
             },
             {
-                "title": "Moto.MotoPhrase.SubmovePhrase"
+                "title": "Moto.MotoPhrase.SubmotoPhrase"
             },
             {
                 "title": "Plantbeta"
@@ -5020,7 +5020,7 @@ json = [
                 "title": "Moto.MotoProperties.MotoPermutation"
             },
             {
-                "title": "Moto.MotoProperties.SubmovementCount"
+                "title": "Moto.MotoProperties.SubmotoCount"
             },
             {
                 "title": "Plantbeta"
@@ -5121,7 +5121,7 @@ json = [
                 "title": "Dev.Transcription"
             },
             {
-                "title": "Moto.MotoComposition.MotoSelection.SubmovementSelection"
+                "title": "Moto.MotoComposition.MotoSelection.SubmotoSelection"
             },
             {
                 "title": "Moto.MotoPoint.MotoFinishPoint"
@@ -5253,7 +5253,7 @@ json = [
                 "title": "Dev.Transcription"
             },
             {
-                "title": "Moto.MotoComposition.MotoSelection.SubmovementSelection"
+                "title": "Moto.MotoComposition.MotoSelection.SubmotoSelection"
             },
             {
                 "title": "Plantbeta"
@@ -5294,7 +5294,7 @@ json = [
                 "title": "Moto.ArmMoto.ArmSwing"
             },
             {
-                "title": "Moto.MotoProperties.SubmovementCount"
+                "title": "Moto.MotoProperties.SubmotoCount"
             },
             {
                 "title": "Plantbeta"
@@ -5320,7 +5320,7 @@ json = [
                 "title": "Guide.What.WhatElement.ElementName.Affix"
             },
             {
-                "title": "Moto.MotoComposition.MotoSelection.SubmovementSelection"
+                "title": "Moto.MotoComposition.MotoSelection.SubmotoSelection"
             },
             {
                 "title": "Plantbeta"
@@ -5407,10 +5407,10 @@ json = [
                 "title": "Dev.Transcription"
             },
             {
-                "title": "Moto.MotoComposition.MotoSelection.SubmovementSelection"
+                "title": "Moto.MotoComposition.MotoSelection.SubmotoSelection"
             },
             {
-                "title": "Moto.MotoProperties.SubmovementCount"
+                "title": "Moto.MotoProperties.SubmotoCount"
             },
             {
                 "title": "Plantbeta"
@@ -5492,7 +5492,7 @@ json = [
                 "title": "Moto.MotoCard"
             },
             {
-                "title": "Moto.MotoComposition.MotoSelection.SubmovementSelection"
+                "title": "Moto.MotoComposition.MotoSelection.SubmotoSelection"
             },
             {
                 "title": "Moto.MotoDiagram.MotoTimeline"
@@ -5501,7 +5501,7 @@ json = [
                 "title": "Moto.MotoDifficulty.MotoComplexity"
             },
             {
-                "title": "Moto.MotoProperties.SubmovementCount"
+                "title": "Moto.MotoProperties.SubmotoCount"
             },
             {
                 "title": "Moto.MotoPhrase.MotoDensity"
@@ -5697,7 +5697,7 @@ json = [
                 "title": "Dev.VideoAnalysis.VideoTagging"
             },
             {
-                "title": "Moto.MotoComposition.MotoSelection.SubmovementSelection"
+                "title": "Moto.MotoComposition.MotoSelection.SubmotoSelection"
             },
             {
                 "title": "Plantbeta"
@@ -6359,7 +6359,7 @@ json = [
                 "title": "Moto.MotoComposition.MotoSelection.ForcedMoto"
             },
             {
-                "title": "Moto.MotoComposition.MotoSelection.SubmovementSelection"
+                "title": "Moto.MotoComposition.MotoSelection.SubmotoSelection"
             },
             {
                 "title": "Moto.MotoLine.CenterOfMassLine"
@@ -8253,7 +8253,7 @@ json = [
                 "title": "Moto.MotoDifficulty.MotoComplexity"
             },
             {
-                "title": "Moto.MotoProperties.SubmovementCount"
+                "title": "Moto.MotoProperties.SubmotoCount"
             },
             {
                 "title": "Moto.MotoSpace.Overview"
@@ -8814,7 +8814,7 @@ json = [
                 "title": "Moto.MotoPhrase.MotoOverlap"
             },
             {
-                "title": "Moto.Overview.MotoHierarchy.Submovement"
+                "title": "Moto.Overview.MotoHierarchy.Submoto"
             },
             {
                 "title": "Plantbeta"
@@ -8902,7 +8902,7 @@ json = [
                 "title": "Moto.MotoDiagram.MotoTimeline"
             },
             {
-                "title": "Moto.Overview.MotoHierarchy.Submovement"
+                "title": "Moto.Overview.MotoHierarchy.Submoto"
             },
             {
                 "title": "Plantbeta"
@@ -9455,7 +9455,7 @@ json = [
                 "title": "Moto.MotoPhrase"
             },
             {
-                "title": "Moto.Overview.MotoHierarchy.Submovement"
+                "title": "Moto.Overview.MotoHierarchy.Submoto"
             },
             {
                 "title": "Neuro.Decision",
@@ -9562,7 +9562,7 @@ json = [
                 "title": "Moto.MotoSpace.Overview"
             },
             {
-                "title": "Moto.Overview.MotoHierarchy.Submovement"
+                "title": "Moto.Overview.MotoHierarchy.Submoto"
             },
             {
                 "title": "Moto.Physics.Direction"
@@ -10118,7 +10118,7 @@ json = [
                 "title": "Moto.MotoDiagram.MotoTimeline"
             },
             {
-                "title": "Moto.Overview.MotoHierarchy.Submovement"
+                "title": "Moto.Overview.MotoHierarchy.Submoto"
             },
             {
                 "title": "Moto.Physics.Direction"
@@ -10153,7 +10153,7 @@ json = [
                 "title": "Moto.MotoDiagram.MotoTimeline"
             },
             {
-                "title": "Moto.Overview.MotoHierarchy.Submovement"
+                "title": "Moto.Overview.MotoHierarchy.Submoto"
             },
             {
                 "title": "Plantbeta"
@@ -10507,7 +10507,7 @@ json = [
                 "title": "Moto.MotoDiagram.Overview"
             },
             {
-                "title": "Moto.Overview.MotoHierarchy.Submovement"
+                "title": "Moto.Overview.MotoHierarchy.Submoto"
             },
             {
                 "title": "Plantbeta"
@@ -11069,7 +11069,7 @@ json = [
                 "title": "Moto.Overview.MotoHierarchy"
             },
             {
-                "title": "Moto.Overview.MotoHierarchy.Supermovement"
+                "title": "Moto.Overview.MotoHierarchy.Supermoto"
             },
             {
                 "title": "Neuro.Vision.Find.Overview",
@@ -11108,7 +11108,7 @@ json = [
                 "title": "Moto.MotoDiagram.MotoTimeline"
             },
             {
-                "title": "Moto.Overview.MotoHierarchy.Supermovement"
+                "title": "Moto.Overview.MotoHierarchy.Supermoto"
             },
             {
                 "title": "Plantbeta"
@@ -11433,10 +11433,10 @@ json = [
                 "title": "Dev.Transcription"
             },
             {
-                "title": "Moto.Overview.MotoHierarchy.Submovement"
+                "title": "Moto.Overview.MotoHierarchy.Submoto"
             },
             {
-                "title": "Moto.Overview.MotoHierarchy.Supermovement"
+                "title": "Moto.Overview.MotoHierarchy.Supermoto"
             },
             {
                 "title": "Plantbeta"
@@ -11743,7 +11743,7 @@ json = [
                 "title": "Moto.MotoComposition.MotoSelection.AlternativeMoto"
             },
             {
-                "title": "Moto.MotoComposition.MotoSelection.SubmovementSelection"
+                "title": "Moto.MotoComposition.MotoSelection.SubmotoSelection"
             },
             {
                 "title": "Moto.MotoDifficulty.MotoComplexity"
@@ -12189,10 +12189,10 @@ json = [
                 "title": "Moto.MotoPhrase"
             },
             {
-                "title": "Moto.Overview.MotoHierarchy.Submovement"
+                "title": "Moto.Overview.MotoHierarchy.Submoto"
             },
             {
-                "title": "Moto.Overview.MotoHierarchy.Supermovement"
+                "title": "Moto.Overview.MotoHierarchy.Supermoto"
             },
             {
                 "title": "Plantbeta"
@@ -12366,7 +12366,7 @@ json = [
                 "title": "Guide.Why.Productivity.Efficiency.Redundancy"
             },
             {
-                "title": "Moto.Overview.MotoHierarchy.Submovement"
+                "title": "Moto.Overview.MotoHierarchy.Submoto"
             },
             {
                 "title": "Plantbeta"
@@ -12407,10 +12407,10 @@ json = [
                 "title": "Moto.MotoSize"
             },
             {
-                "title": "Moto.Overview.MotoHierarchy.Submovement"
+                "title": "Moto.Overview.MotoHierarchy.Submoto"
             },
             {
-                "title": "Moto.Overview.MotoHierarchy.Supermovement"
+                "title": "Moto.Overview.MotoHierarchy.Supermoto"
             },
             {
                 "title": "Plantbeta"
@@ -12454,7 +12454,7 @@ json = [
                 "title": "Moto.MotoShape"
             },
             {
-                "title": "Moto.Overview.MotoHierarchy.Submovement"
+                "title": "Moto.Overview.MotoHierarchy.Submoto"
             },
             {
                 "title": "Plantbeta"
@@ -12605,10 +12605,10 @@ json = [
                 "title": "Moto.MotoPhrase"
             },
             {
-                "title": "Moto.Overview.MotoHierarchy.Submovement"
+                "title": "Moto.Overview.MotoHierarchy.Submoto"
             },
             {
-                "title": "Moto.Overview.MotoHierarchy.Supermovement"
+                "title": "Moto.Overview.MotoHierarchy.Supermoto"
             },
             {
                 "title": "Plantbeta"
@@ -12869,10 +12869,10 @@ json = [
                 "title": "Moto.MotoType.DynamicMoto"
             },
             {
-                "title": "Moto.Overview.MotoHierarchy.Submovement"
+                "title": "Moto.Overview.MotoHierarchy.Submoto"
             },
             {
-                "title": "Moto.Overview.MotoHierarchy.Supermovement"
+                "title": "Moto.Overview.MotoHierarchy.Supermoto"
             },
             {
                 "title": "Plantbeta"
@@ -13303,7 +13303,7 @@ json = [
                 "title": "Land.Piece.PieceShape.IrregularPieceShape"
             },
             {
-                "title": "Moto.Overview.MotoHierarchy.Submovement"
+                "title": "Moto.Overview.MotoHierarchy.Submoto"
             },
             {
                 "title": "Plantbeta"
@@ -13359,7 +13359,7 @@ json = [
                 "title": "Dev.PageLayout"
             },
             {
-                "title": "Moto.Overview.MotoHierarchy.Submovement"
+                "title": "Moto.Overview.MotoHierarchy.Submoto"
             },
             {
                 "title": "Plantbeta"
@@ -14253,7 +14253,7 @@ json = [
                 "title": "Moto.HandMoto.TreeGrip"
             },
             {
-                "title": "Moto.Overview.MotoHierarchy.Submovement"
+                "title": "Moto.Overview.MotoHierarchy.Submoto"
             },
             {
                 "title": "Neuro.Alignment",
@@ -16571,7 +16571,7 @@ json = [
                 "title": "Moto.MotoVideo"
             },
             {
-                "title": "Moto.Overview.MotoHierarchy.Submovement"
+                "title": "Moto.Overview.MotoHierarchy.Submoto"
             },
             {
                 "title": "Moto.ToolMoto.SpadeMoto.SpadeScreef"
@@ -17492,7 +17492,7 @@ json = [
                 "title": "Moto.MotoName.Overview"
             },
             {
-                "title": "Moto.Overview.MotoHierarchy.Submovement"
+                "title": "Moto.Overview.MotoHierarchy.Submoto"
             },
             {
                 "title": "Via.Direction"
@@ -18124,7 +18124,7 @@ json = [
                 "title": "Moto.BodyMoto.Walk"
             },
             {
-                "title": "Moto.Overview.MotoHierarchy.Submovement"
+                "title": "Moto.Overview.MotoHierarchy.Submoto"
             },
             {
                 "title": "Neuro.Calm"
@@ -18415,10 +18415,10 @@ json = [
                 "title": "Moto.Overview"
             },
             {
-                "title": "Moto.Overview.MotoHierarchy.Submovement"
+                "title": "Moto.Overview.MotoHierarchy.Submoto"
             },
             {
-                "title": "Moto.Overview.MotoHierarchy.Supermovement"
+                "title": "Moto.Overview.MotoHierarchy.Supermoto"
             },
             {
                 "title": "Plantbeta"

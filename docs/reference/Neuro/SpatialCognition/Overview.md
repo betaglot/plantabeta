@@ -57,7 +57,7 @@
 
 Mental representation of Eco to construct Via
 
-> three basic elements of cognitive map based navigation spatial coding, landmark anchoring, and route planning
+> three basic elements of cognitive map based navigation spatial coding, landmark anchoring, and via planning
 
 ### Spatial Coding
 
@@ -80,7 +80,7 @@ ViaPlan vs. ActualVia
 
 ## <moto>MotoSpace</moto>
 
-## <route>ViaSpace</route>
+## <via>ViaSpace</via>
 
 ### Navigation
 

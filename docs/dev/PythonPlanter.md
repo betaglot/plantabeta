@@ -88,8 +88,8 @@ Motos return force
 MotoFunction
 
 ```py
-def move(move{}, eco{}, route{}, neuro):
-    force = (submove{} + submove{})
+def move(move{}, eco{}, via{}, neuro):
+    force = (Submoto{} + Submoto{})
     return force
 ```
 
@@ -127,7 +127,7 @@ def move(move{}, eco{}, route{}, neuro):
 There is nothing too small to describe with code. Opening a water bottle can have a Phrase List
 
 ```py
-for microsite in route:
+for microsite in via:
     SpadeTest(microsite)
 
 ```
@@ -268,7 +268,7 @@ for  in
 - Microsite Selection Loop
 
 ```py
-for microsite in route:
+for microsite in via:
     SpadeTest(microsite)
 
 ```
@@ -308,8 +308,8 @@ for box in transporter:
 - MotoMethod
 
 ```py
-def move(move{}, eco{}, route{}, neuro):
-    force = (submove{} + submove{})
+def move(move{}, eco{}, via{}, neuro):
+    force = (Submoto{} + Submoto{})
     return force
 ```
 

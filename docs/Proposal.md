@@ -74,7 +74,7 @@ The best resource which can be found is Replant.ca, but this site could be bette
 > "We take pride in our work and reputation as we strive to be one of the most efficient and innovative companies on the market"
 
 - Plantbeta will increase Quastuco's reputation, since Quastuco's logo is prominently displayed on the home page and on every other page, therefore advertising Quastuco to every user, everytime they use the app. With a greater amount of advertising comes a greater number of applicants, so you can be more selective in your hiring process.
-- You, Bunky and the OverEco family, could be the Planters in the movement element photos if you wanted.
+- You, Bunky and the OverEco family, could be the Planters in the moto element photos if you wanted.
 - Quastuco can be one who posts an annoucement Plantbeta to King Kong Reforestation.
 
 <pre>
@@ -147,7 +147,7 @@ Flagging reduction, the goal is a 60% reduction in single use plastics...Veteran
 - Expand the EcoSystem section, adding more microsite types to Plantbeta.
 - HighBaller Observation
     - Identify individual strengths and weaknesses.
-    - How do HighBallers plant more trees? How much has to do with movement speed and how much to do with Routing (Land Management)?
+    - How do HighBallers plant more trees? How much has to do with moto speed and how much to do with Routing (Land Management)?
 - LowBaller Observation
     - Identify individual strengths and weaknesses.
     - Observe what makes them slow and record it using the elements of Plantbeta.

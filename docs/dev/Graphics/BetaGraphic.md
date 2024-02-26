@@ -22,7 +22,7 @@ Network of interacting elements. Network can extend to the opposite side of the 
 Line width is BetaIntensity 
 
 
-Nested along a route line
+Nested along a via line
 
 
 Each Subsystem is an ImageLayer. How are shown all at once?

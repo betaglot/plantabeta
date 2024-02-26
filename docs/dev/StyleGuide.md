@@ -112,7 +112,7 @@ https://developers.google.com/style/person
 ```ts
 #bf6a34
 ```
-### <route>ViaColor</route>
+### <via>ViaColor</via>
 ```ts
 #f44747
 ```
@@ -227,7 +227,7 @@ When is it useful for emojis to be monochrome outlines?
 
 :::
 
-# 🔺 <route>Via</route>
+# 🔺 <via>Via</via>
 
 ```
 

@@ -177,7 +177,7 @@ Plantbeta combines the best practices of the Planting Industry to offer the most
 
 - Plantbeta informs Planters on the 
 - Increased <neuro>CognitiveEase</neuro> leads to feelings of effortlessness.
-- Fluid movement through the Eco.
+- Fluid moto through the Eco.
 - Reduces the distance travelled by Planters by using efficient Routing.
 
 ---

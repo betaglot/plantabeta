@@ -10,7 +10,7 @@
 
 ## 🟠 <moto>Moto Tools</moto>
 
-Tools you need to perform planter movements.
+Tools you need to perform planter motos.
 
 ### 🟠 <moto>Spade</moto>
 
@@ -60,12 +60,12 @@ Tools you need for your brain.
 :::
 
 
-## 🔺 <route>Via Tools</route>
+## 🔺 <via>Via Tools</via>
 
-Tools you need for your routes
+Tools you need for your vias
 
-### 🔺 <route>Flag</route>
+### 🔺 <via>Flag</via>
 
-### 🔺 <route>Flag Dispenser</route>
+### 🔺 <via>Flag Dispenser</via>
 
 

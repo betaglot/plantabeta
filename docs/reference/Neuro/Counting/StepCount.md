@@ -48,7 +48,7 @@ Graph which represents how this element is related to other elements in Plantbet
 - 
 ## Related 🟩<eco>EcoElements</eco>
 - 
-## Related 🔺<route>ViaElements</route>
+## Related 🔺<via>ViaElements</via>
 - 
 
 ## Examples

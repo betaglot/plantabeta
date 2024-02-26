@@ -78,7 +78,7 @@ Graph which represents how this element is related to other elements in Plantbet
 ## Related <moto>MotoElements</moto>
 
 
-## Related <route>ViaElements</route>
+## Related <via>ViaElements</via>
 
 
 ## Related 💜<neuro>NeuroElements</neuro> 

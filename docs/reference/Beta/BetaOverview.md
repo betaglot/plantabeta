@@ -39,7 +39,7 @@ Betamax was a piece of hardware (similar to a VHS tape or cassete) which was use
 
 - If you're a climber, then you're likely familiar with the term "beta"
 
-> In climbing _beta_ is the information about the _movements_, _sequences_, and _holds_ of a climb. If someone asks you for a climb's beta, then they want to know how you climbed it.
+> In climbing _beta_ is the information about the _motos_, _sequences_, and _holds_ of a climb. If someone asks you for a climb's beta, then they want to know how you climbed it.
 
 > Beta could be something as simple as the general type of _holds_, like “it’s all slopers” or just the type of rock and length.
 
@@ -55,23 +55,23 @@ This each line are analog pairs. The equal signs = denotes where Climbing and Pl
 | -----------------------------------: | :-------------------------------- |
 |                  <beta>Beta</beta> = | = <beta>Beta</beta>               |
 |                     <eco>Eco</eco> = | = <eco>Eco</eco>                  |
-|               <route>Via</route> = | = <route>Via</route>            |
+|               <via>Via</via> = | = <via>Via</via>            |
 |               <neuro>Neuro</neuro> = | = <neuro>Neuro</neuro>            |
 |                      <eco>Wall</eco> | <eco>Land</eco>                   |
 |              <eco>Wall Section</eco> | <eco>Area</eco>                  |
-|      <route>ContactSurface</route> = | = <route>ContactSurface</route>   |
-|                  <route>Hold</route> | <route>Microsite</route>          |
+|      <via>ContactSurface</via> = | = <via>ContactSurface</via>   |
+|                  <via>Hold</via> | <via>Microsite</via>          |
 |                    <eco>Volume</eco> | <eco>Mound, Trench</eco>          |
 |                 <eco>WallAngle</eco> | <eco>SlopeAngle</eco>             |
 |            <moto>ClimbingShoe</moto> | <moto>PlantingBoot</moto>         |
 |                <beta>Redpoint</beta> | <beta>Replanting Required </beta> |
 |          <beta>Flash, Onsight</beta> | <beta>No replanting </beta>       |
 |         <moto>RockOver Moto </moto>= | = <moto>RockOver Moto </moto>     |
-|        <route>ViaFinding</route> = | = <route>ViaFinding</route>     |
-|             <route>One Pitch</route> | <route>One FillLoop </route>      |
+|        <via>ViaFinding</via> = | = <via>ViaFinding</via>     |
+|             <via>One Pitch</via> | <via>One FillLoop </via>      |
 |                  <moto>Fall</moto> = | = <moto>Fall</moto>               |
-| <route>Anchor, Belay Station</route> | <route>Cache</route>              |
-|              <route>Approach</route> | <route>Walk In </route>           |
+| <via>Anchor, Belay Station</via> | <via>Cache</via>              |
+|              <via>Approach</via> | <via>Walk In </via>           |
 |                     <eco>Crag </eco> | <eco> Block</eco>                 |
 
 ::: danger Why is it useful to relate Climbing to Planting?
@@ -313,7 +313,7 @@ A sequential pattern of elements.
 
 ### Element Decomposition
 
-A full body movement can be broken down into
+A full body moto can be broken down into
 
 #### Element Mixture Decomposition
 

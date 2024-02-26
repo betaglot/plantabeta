@@ -83,7 +83,7 @@ Pannier
 - Pocket on underside of Flap
 
 
-## <route>Flag</route>
+## <via>Flag</via>
 
 - Paper
 - Conformable
@@ -132,7 +132,7 @@ Ideally there would be a Flagger on each Vambrace
 
 ## <moto>Rope</moto>
 
-### <route>PlotCord</route>
+### <via>PlotCord</via>
 
 ### <eco>Lashing SummerCache</eco>
 
