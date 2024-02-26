@@ -10,7 +10,7 @@
 
 - LineIn
 - CompletedArea
-- FillBlock
+- CoverBlock
 
 
 ![ViaImage](/Via/ViaImage.png)

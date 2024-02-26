@@ -2,39 +2,39 @@
 
 Spandrel art between plating plot radius cirle area circleshape
 
-Via Fill
+Via Cover
 
 Cirles make hexagons
 
 Center is hole
 .
 
-Fillin spandrels to show the mortar between ideal tree spacing spgeres
+Coverin spandrels to show the mortar between ideal tree spacing spgeres
 
 ![PaperPhoto](/PaperPhoto/0058.jpg)
 
 - [The Fastest Maze-Solving Competition On Earth](https://www.youtube.com/watch?v=ZMQbHMgK2rw&ab_channel=Veritasium)
-- [HexagonFillPattern](https://www.youtube.com/watch?v=BM9Qe4XjJ0k&ab_channel=VeRLab-LaboratoryofComputerVisionandRobotics)
+- [HexagonCoverPattern](https://www.youtube.com/watch?v=BM9Qe4XjJ0k&ab_channel=VeRLab-LaboratoryofComputerVisionandRobotics)
 - https://www.fujipress.jp/jrm/rb/robot003000010005/
 
 <h2>PageTags</h2>
 
-- "Via.AreaFill.AreaBoundary.BoundaryLine"
-- "Via.AreaFill.AreaBoundary.BoundaryPoint"
-- "Via.AreaFill.AreaBoundary.SideBoundary"
-- "Via.AreaFill.AreaDefinition"
-- "Via.AreaFill.BagUpArtithmetic"
-- "Via.AreaFill.BoustroFill"
-- "Via.AreaFill.CircleFill"
-- "Via.AreaFill.CircleFill.CircleSegmentFill"
-- "Via.AreaFill.CircleFill.SemicircleFill"
-- "Via.AreaFill.DiamondFill"
-- "Via.AreaFill.Overview"
-- "Via.AreaFill.PenroseFill"
-- "Via.AreaFill.SimplifyAreaShape"
-- "Via.AreaFill.SquareFill"
-- "Via.AreaFill.TrapezoidFill"
-- "Via.AreaFill.TriangleFill"
+- "Via.AreaCover.AreaBoundary.BoundaryLine"
+- "Via.AreaCover.AreaBoundary.BoundaryPoint"
+- "Via.AreaCover.AreaBoundary.SideBoundary"
+- "Via.AreaCover.AreaDefinition"
+- "Via.AreaCover.BagUpArtithmetic"
+- "Via.AreaCover.BoustroCover"
+- "Via.AreaCover.CircleCover"
+- "Via.AreaCover.CircleCover.CircleSegmentCover"
+- "Via.AreaCover.CircleCover.SemicircleCover"
+- "Via.AreaCover.DiamondCover"
+- "Via.AreaCover.Overview"
+- "Via.AreaCover.PenroseCover"
+- "Via.AreaCover.SimplifyAreaShape"
+- "Via.AreaCover.SquareCover"
+- "Via.AreaCover.TrapezoidCover"
+- "Via.AreaCover.TriangleCover"
 - "Via.Chunking"
 - "Via.Chunking.ChunkNaming"
 - "Via.Chunking.ChunkPair"
@@ -47,22 +47,22 @@ Fillin spandrels to show the mortar between ideal tree spacing spgeres
 - "Via.Chunking.Fraction.ThirdQuarterVia"
 - "Via.Chunking.Landmark"
 - "Via.Chunking.Tessellation"
-- "Via.PieceFill.AreaFill"
-- "Via.PieceFill.BackFill"
-- "Via.PieceFill.OpenEndedFill"
-- "Via.PieceFill.Overview"
-- "Via.PieceFill.PerimeterFill"
-- "Via.PieceFill.PocketFill"
-- "Via.PieceFill.StraightenFill"
-- "Via.PieceFill.TypewriterFill"
+- "Via.PieceCover.AreaCover"
+- "Via.PieceCover.BackCover"
+- "Via.PieceCover.OpenEndedCover"
+- "Via.PieceCover.Overview"
+- "Via.PieceCover.PerimeterCover"
+- "Via.PieceCover.PocketCover"
+- "Via.PieceCover.StraightenCover"
+- "Via.PieceCover.TypewriterCover"
 
 :::
 
-# 🔺 <via>Fill Algorithm Overview</via>
+# 🔺 <via>Cover Algorithm Overview</via>
 
-## Fill Algorithm
+## Cover Algorithm
 
-### AreaFill.py
+### AreaCover.py
 
 - Loop
 

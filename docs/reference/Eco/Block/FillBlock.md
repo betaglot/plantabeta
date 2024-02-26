@@ -4,13 +4,13 @@
 
 :::
 
-# 🟩  <eco>FillBlock</eco>🟩
+# 🟩  <eco>CoverBlock</eco>🟩
 
-## FillBlock Purpose
+## CoverBlock Purpose
 
 - BurntBlock
 
-## FillBlock Properties
+## CoverBlock Properties
 
 - CropTreeAge
 - 

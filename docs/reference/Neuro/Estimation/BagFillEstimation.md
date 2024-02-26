@@ -4,7 +4,7 @@
 
 :::
 
-# 💜 <neuro>BagFillEstimation </neuro>
+# 💜 <neuro>BagCoverEstimation </neuro>
 
 ![NeuroImage](/Neuro/NeuroImage.png)
 ## Questions about the Element

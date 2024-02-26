@@ -24,7 +24,7 @@ Use single words instead of phrases when useful, but not as a rule. There's no p
 
 
 ## Increase Clarity
-> How much of your piece is filled?
+> How much of your piece is Covered?
 
 
 ## Better Instructions

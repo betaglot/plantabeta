@@ -8,7 +8,7 @@ Raw land overview raw land is land which is been cut but not but this not all th
 
 - RawLand is typically slower than prep land unless the trenches are f**\***
 
-- RawLand there's always raw lands in the perimeter so when a planter is performing a perimeter fill algorithm then they're planting Raw typically in raw the spacing can be more responsive usually in raw they they Checkers the checkers will prioritize stumps over anything else
+- RawLand there's always raw lands in the perimeter so when a planter is performing a perimeter Cover algorithm then they're planting Raw typically in raw the spacing can be more responsive usually in raw they they Checkers the checkers will prioritize stumps over anything else
 
 - they say that rocks heat up and kill the roots of trees that kind of seems like a bit of a myth or I've never seen any evidence for that and I don't even know where to look that be interesting thing to find out for the research section of the development page is
 

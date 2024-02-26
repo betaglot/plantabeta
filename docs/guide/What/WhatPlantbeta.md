@@ -52,7 +52,7 @@ Flexibility gives systems resilience, they are able to return quickly to a previ
 
 Plantbeta is a "progressive" system, meaning that Planbeta grows with your planting experience. If you're a Novice Planter, then Plantbeta's library of reference material, guides, tests and video tutorials (🛠 coming soon!) will help you to learn how to be a planter without becoming overwhelmed in your first week on the job.
 
-If you're an Experienced Planter, then Plantbeta gives you the resources to find and fill your knowledge gaps, so that you can unlock your full planting potential.
+If you're an Experienced Planter, then Plantbeta gives you the resources to find and Cover your knowledge gaps, so that you can unlock your full planting potential.
 
 ### A Community System
 
@@ -247,7 +247,7 @@ Plantbeta is divided into 6 sections:
 
 - All links are displayed in [green font](/guide/GoBack)
 - Sometimes most of the sentence can be green links.
-    - [LineIn]() over by the [rock]() then [start]() [backfilling]().
+    - [LineIn]() over by the [rock]() then [start]() [backCovering]().
 
 ### Headers
 

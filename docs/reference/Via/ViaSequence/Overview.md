@@ -12,11 +12,11 @@
 - "Via.ViaComposition.ViaSelection.ViaComparison"
 - "Via.ViaCrux"
 - "Via.ViaSequence"`
-- "Via.ViaSequence.AreaFillPhrase.Overview"
-- "Via.ViaSequence.AreaFillPhrase.ViaShapeInscription.Overview"`
-- "Via.ViaSequence.AreaFillPhrase.ViaShapeInscription.ViaCircleInscription"
-- "Via.ViaSequence.AreaFillPhrase.ViaShapeInscription.ViaSquareInscription"
-- "Via.ViaSequence.AreaFillPhrase.ViaShapeInscription.ViaTriangleInscription"
+- "Via.ViaSequence.AreaCoverPhrase.Overview"
+- "Via.ViaSequence.AreaCoverPhrase.ViaShapeInscription.Overview"`
+- "Via.ViaSequence.AreaCoverPhrase.ViaShapeInscription.ViaCircleInscription"
+- "Via.ViaSequence.AreaCoverPhrase.ViaShapeInscription.ViaSquareInscription"
+- "Via.ViaSequence.AreaCoverPhrase.ViaShapeInscription.ViaTriangleInscription"
 - "Via.ViaSequence.BagUpPhrase"
 - "Via.ViaSequence.CurrentMicrosite"
 - "Via.ViaSequence.FlagMoto"
@@ -43,7 +43,7 @@
 # 🔷 <via>ViaSequence</via>
 
 
-Define the Land that you're filling
+Define the Land that you're Covering
 
 Problem is 
 

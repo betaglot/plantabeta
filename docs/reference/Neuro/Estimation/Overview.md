@@ -4,7 +4,7 @@
 <h2>PageTags</h2>
 
 - "Neuro.Estimation"
-- "Neuro.Estimation.BagFill"
+- "Neuro.Estimation.BagCover"
 - "Neuro.Estimation.LandEstimation.Fraction"
 - "Neuro.Estimation.ViaEstimation.AreaEstimation"
 - "Neuro.Estimation.ViaEstimation.AreaEstimation.AreaCompletionEstimation"

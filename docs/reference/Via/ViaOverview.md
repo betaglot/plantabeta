@@ -1,6 +1,12 @@
 ::: details 🛠 <dev>DesignBox</dev> 
 <h2>PageTags</h2>
 
+## ViaProbability
+
+- Cutting through residual is Via 
+- Route start and finish are RouteProblems
+    - Route Surfaces are RouteSolutions 
+    - Givens Assignables are Route and their values are Eco
 - "Neuro.Vision"
 - "Neuro.Vision.Find.BackLine"
 - "Neuro.Vision.Find.FarSide"
@@ -96,7 +102,7 @@
 ### Purpose of Via
 
 - Minimize Deadwalking
-- To be able to have a detailed mental model of your land, so that you can plan how you're going to fill your lang.
+- To be able to have a detailed mental model of your land, so that you can plan how you're going to Cover your lang.
 
 
 > a particular way or direction between places
@@ -121,13 +127,13 @@ Polygon Decomposition
 
 ## Routing Scope
 
-PieceFill > AreaFill > ViaCurve > ViaPoint
+PieceCover > AreaCover > ViaCurve > ViaPoint
 
 ## GeneralDirection
 
-## FillPattern
+## CoverPattern
 
-> A *FillPattern* is the ViaCurve, 
+> A *CoverPattern* is the ViaCurve, 
 
 > A Series of Points
 
@@ -160,11 +166,11 @@ Don't go over the same place more than once.
 - Deadwalking
 - GhostLine
 
-## FillError
+## CoverError
 
 ### PinchedEco
 
-- FrontFillError
+- FrontCoverError
 
 #### Occurs in 
 - PinchedArea

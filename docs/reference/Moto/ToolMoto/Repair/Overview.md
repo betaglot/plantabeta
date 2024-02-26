@@ -19,7 +19,7 @@ Maintain your tools to ensure that they last as long a possible and to maintain 
     - Gaiter
 
 ### Glueing
-    - Filling in Holes
+    - Covering in Holes
 
 ### Taping
 

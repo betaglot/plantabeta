@@ -1,6 +1,12 @@
 ::: details 🛠 <dev>DesignBox</dev> 
 
+Video of climbing with planting bags on 
 
+Plantbeta climbs while planting
+
+Klimbeta could plant while climbing
+
+What is the puck what is the net and how do you carry the puck?
 
 :::
 

@@ -82,7 +82,7 @@ Graph which represents how this element is related to other elements in Plantbet
 🔺🟠🟩💜🔷
 ## Related <via>ViaElements</via>
 
-### [🔺ObstacleFill]
+### [🔺ObstacleCover]
 
 ### [🔺AreaBoundary]()
 

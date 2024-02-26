@@ -68,7 +68,7 @@ This each line are analog pairs. The equal signs = denotes where Climbing and Pl
 |          <beta>Flash, Onsight</beta> | <beta>No replanting </beta>       |
 |         <moto>RockOver Moto </moto>= | = <moto>RockOver Moto </moto>     |
 |        <via>ViaFinding</via> = | = <via>ViaFinding</via>     |
-|             <via>One Pitch</via> | <via>One FillLoop </via>      |
+|             <via>One Pitch</via> | <via>One CoverLoop </via>      |
 |                  <moto>Fall</moto> = | = <moto>Fall</moto>               |
 | <via>Anchor, Belay Station</via> | <via>Cache</via>              |
 |              <via>Approach</via> | <via>Walk In </via>           |

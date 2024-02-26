@@ -4,20 +4,10 @@
 
 :::
 
-# 🔺 <via>TypewriterFill</via>
+# 🔺 <via>CircleCover</via>
 
-TypewriterFill != BoustroFill
-
-Deadwalking
-
-Using TypewriterFill to fill a Piece is analogous to using a ZigzagLine for AreaFill
-
-## ParallelLine
-
-- GoBackOnLine
-
-RectilinearPiece
-
+<!-- 
+## SpiralCover -->
 
 ![ViaImage](/Via/ViaImage.png)
 
@@ -85,6 +75,4 @@ Links to other related ViaElements.
 - Three
 
 :::
-
-
 

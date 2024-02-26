@@ -46,6 +46,9 @@
 - "Dev.System.Syntax.Punctuation.Wildcard"
 - "Dev.System.Theorem"
 - "Dev.System.Value"
+
+
+- Pylanter.py
   :::
 
 # 🛠 Planter as Computer
@@ -315,19 +318,19 @@ def move(move{}, eco{}, via{}, neuro):
 
 #### ViaFunction()
 
-- - Area.BoustroFill
+- - Area.BoustroCover
 
 ```py
-def BoustroFill:
+def BoustroCover:
 
 
-Area.BoustroFill()
+Area.BoustroCover()
 
 ```
 
 #### NeuroFunction()
 
-- Area.BoustroFill
+- Area.BoustroCover
 
 <!-- What are the Functions of Via? -->
 

@@ -4,7 +4,7 @@
 
 - "Test.LabelDiagram"
 - "Tests.BetaDecomposition"
-- "Tests.FillInBlank"
+- "Tests.CoverInBlank"
 - "Tests.IncreasingDifficulty"
 - "Tests.MatchingTest"
 - "Tests.MoveDecomposition"

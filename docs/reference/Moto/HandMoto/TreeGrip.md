@@ -38,7 +38,7 @@
 ### Supermoto
 
 - InsertTree
-- BagFill
+- BagCover
 - TreeRemove
 
 ### <moto>PodGrip Phrase</moto>
@@ -87,7 +87,7 @@
 ### Supermoto
 
 - InsertTree
-- BagFill
+- BagCover
 - TreeRemove
 
 ## ElementRelationshipsGraph

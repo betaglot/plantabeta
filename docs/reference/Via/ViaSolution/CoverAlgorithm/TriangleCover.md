@@ -7,7 +7,7 @@ https://youtu.be/bgR3yESAEVE
 
 :::
 
-# 🔺 <via>TriangleFill</via>
+# 🔺 <via>TriangleCover</via>
 
 
 ![ViaImage](/Via/ViaImage.png)

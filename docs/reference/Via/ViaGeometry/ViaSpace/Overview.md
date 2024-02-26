@@ -49,14 +49,14 @@ Parsing Land into VoronoiCells
 
 Spandrel art between plating plot radius cirle area circleshape
 
-Via Fill
+Via Cover
 
 Cirles make hexagons
 
 Center is hole
 .
 
-Fillin spandrels to show the mortar between ideal tree spacing spgeres
+Coverin spandrels to show the mortar between ideal tree spacing spgeres
 
 ![PentagonPartitions](/Via/PentagonPartitions.png)
 ![SquarePartitions](/Via/SquarePartitions.png)

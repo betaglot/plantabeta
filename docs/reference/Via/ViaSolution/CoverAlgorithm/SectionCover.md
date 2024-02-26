@@ -6,10 +6,10 @@
 
 :::
 
-# 🔺 <via>SectionFill</via>
+# 🔺 <via>SectionCover</via>
 
 
-::: tip AlsoKnownAs(AreaFill)
+::: tip AlsoKnownAs(AreaCover)
 
 
 - "Section" implies that it's a part of the piece.

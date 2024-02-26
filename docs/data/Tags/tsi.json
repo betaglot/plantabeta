@@ -758,25 +758,25 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Via.AreaFill.BoustroFill",
+                    "title": "Via.AreaCover.BoustroCover",
                     "color": "#f83a22b8",
                     "textcolor": "white",
                     "type": "sidecar"
                 },
                 {
-                    "title": "Via.PieceFill.PerimeterFill",
+                    "title": "Via.PieceCover.PerimeterCover",
                     "color": "#f83a22b8",
                     "textcolor": "white",
                     "type": "sidecar"
                 },
                 {
-                    "title": "Via.PieceFill.PocketFill",
+                    "title": "Via.PieceCover.PocketCover",
                     "color": "#ffffffff",
                     "textcolor": "#000000ff",
                     "type": "sidecar"
                 },
                 {
-                    "title": "Via.PieceFill.StraightenFill",
+                    "title": "Via.PieceCover.StraightenCover",
                     "color": "#ffffffff",
                     "textcolor": "#000000ff",
                     "type": "sidecar"
@@ -820,22 +820,22 @@
                 "textcolor": "white"
             },
             {
-                "title": "Via.AreaFill.BoustroFill",
+                "title": "Via.AreaCover.BoustroCover",
                 "color": "#f83a22b8",
                 "textcolor": "white"
             },
             {
-                "title": "Via.PieceFill.PerimeterFill",
+                "title": "Via.PieceCover.PerimeterCover",
                 "color": "#f83a22b8",
                 "textcolor": "white"
             },
             {
-                "title": "Via.PieceFill.PocketFill",
+                "title": "Via.PieceCover.PocketCover",
                 "color": "#ffffffff",
                 "textcolor": "#000000ff"
             },
             {
-                "title": "Via.PieceFill.StraightenFill",
+                "title": "Via.PieceCover.StraightenCover",
                 "color": "#ffffffff",
                 "textcolor": "#000000ff"
             },
@@ -1243,7 +1243,7 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Via.PieceFill.PerimeterFill",
+                    "title": "Via.PieceCover.PerimeterCover",
                     "color": "#f83a22b8",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -1299,7 +1299,7 @@
                 "textcolor": "white"
             },
             {
-                "title": "Via.PieceFill.PerimeterFill",
+                "title": "Via.PieceCover.PerimeterCover",
                 "color": "#f83a22b8",
                 "textcolor": "white"
             },
@@ -1619,19 +1619,19 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Via.AreaFill.SquareFill",
+                    "title": "Via.AreaCover.SquareCover",
                     "color": "#f83a22b8",
                     "textcolor": "white",
                     "type": "sidecar"
                 },
                 {
-                    "title": "Via.AreaFill.TrapezoidFill",
+                    "title": "Via.AreaCover.TrapezoidCover",
                     "color": "#f83a22b8",
                     "textcolor": "white",
                     "type": "sidecar"
                 },
                 {
-                    "title": "Via.AreaFill.TriangleFill",
+                    "title": "Via.AreaCover.TriangleCover",
                     "color": "#f83a22b8",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -1659,17 +1659,17 @@
                 "textcolor": "white"
             },
             {
-                "title": "Via.AreaFill.SquareFill",
+                "title": "Via.AreaCover.SquareCover",
                 "color": "#f83a22b8",
                 "textcolor": "white"
             },
             {
-                "title": "Via.AreaFill.TrapezoidFill",
+                "title": "Via.AreaCover.TrapezoidCover",
                 "color": "#f83a22b8",
                 "textcolor": "white"
             },
             {
-                "title": "Via.AreaFill.TriangleFill",
+                "title": "Via.AreaCover.TriangleCover",
                 "color": "#f83a22b8",
                 "textcolor": "white"
             },
@@ -1711,13 +1711,13 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Via.AreaFill.SquareFill",
+                    "title": "Via.AreaCover.SquareCover",
                     "color": "#f83a22b8",
                     "textcolor": "white",
                     "type": "sidecar"
                 },
                 {
-                    "title": "Via.AreaFill.TriangleFill",
+                    "title": "Via.AreaCover.TriangleCover",
                     "color": "#f83a22b8",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -1756,12 +1756,12 @@
                 "textcolor": "white"
             },
             {
-                "title": "Via.AreaFill.SquareFill",
+                "title": "Via.AreaCover.SquareCover",
                 "color": "#f83a22b8",
                 "textcolor": "white"
             },
             {
-                "title": "Via.AreaFill.TriangleFill",
+                "title": "Via.AreaCover.TriangleCover",
                 "color": "#f83a22b8",
                 "textcolor": "white"
             },
@@ -2479,7 +2479,7 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Via.PieceFill.StraightenFill",
+                    "title": "Via.PieceCover.StraightenCover",
                     "color": "#ffffffff",
                     "textcolor": "#000000ff",
                     "type": "sidecar"
@@ -2507,7 +2507,7 @@
                 "textcolor": "white"
             },
             {
-                "title": "Via.PieceFill.StraightenFill",
+                "title": "Via.PieceCover.StraightenCover",
                 "color": "#ffffffff",
                 "textcolor": "#000000ff"
             },
@@ -4839,19 +4839,19 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Via.AreaFill.SimplifyAreaShape",
+                    "title": "Via.AreaCover.SimplifyAreaShape",
                     "color": "#f83a22b8",
                     "textcolor": "white",
                     "type": "sidecar"
                 },
                 {
-                    "title": "Via.AreaFill.SquareFill",
+                    "title": "Via.AreaCover.SquareCover",
                     "color": "#f83a22b8",
                     "textcolor": "white",
                     "type": "sidecar"
                 },
                 {
-                    "title": "Via.AreaFill.TriangleFill",
+                    "title": "Via.AreaCover.TriangleCover",
                     "color": "#f83a22b8",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -4964,17 +4964,17 @@
                 "textcolor": "white"
             },
             {
-                "title": "Via.AreaFill.SimplifyAreaShape",
+                "title": "Via.AreaCover.SimplifyAreaShape",
                 "color": "#f83a22b8",
                 "textcolor": "white"
             },
             {
-                "title": "Via.AreaFill.SquareFill",
+                "title": "Via.AreaCover.SquareCover",
                 "color": "#f83a22b8",
                 "textcolor": "white"
             },
             {
-                "title": "Via.AreaFill.TriangleFill",
+                "title": "Via.AreaCover.TriangleCover",
                 "color": "#f83a22b8",
                 "textcolor": "white"
             },
@@ -5766,13 +5766,13 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Via.AreaFill.CircleFill",
+                    "title": "Via.AreaCover.CircleCover",
                     "color": "#f83a22b8",
                     "textcolor": "white",
                     "type": "sidecar"
                 },
                 {
-                    "title": "Via.ObstacleFill.Overview",
+                    "title": "Via.ObstacleCover.Overview",
                     "color": "#f83a22b8",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -5836,12 +5836,12 @@
                 "textcolor": "white"
             },
             {
-                "title": "Via.AreaFill.CircleFill",
+                "title": "Via.AreaCover.CircleCover",
                 "color": "#f83a22b8",
                 "textcolor": "white"
             },
             {
-                "title": "Via.ObstacleFill.Overview",
+                "title": "Via.ObstacleCover.Overview",
                 "color": "#f83a22b8",
                 "textcolor": "white"
             },
@@ -6136,13 +6136,13 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Via.AreaFill.BoustroFill",
+                    "title": "Via.AreaCover.BoustroCover",
                     "color": "#f83a22b8",
                     "textcolor": "white",
                     "type": "sidecar"
                 },
                 {
-                    "title": "Via.PieceFill.BackFill",
+                    "title": "Via.PieceCover.BackCover",
                     "color": "#f83a22b8",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -6291,12 +6291,12 @@
                 "textcolor": "white"
             },
             {
-                "title": "Via.AreaFill.BoustroFill",
+                "title": "Via.AreaCover.BoustroCover",
                 "color": "#f83a22b8",
                 "textcolor": "white"
             },
             {
-                "title": "Via.PieceFill.BackFill",
+                "title": "Via.PieceCover.BackCover",
                 "color": "#f83a22b8",
                 "textcolor": "white"
             },
@@ -11167,13 +11167,13 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Via.AreaFill.CircleFill",
+                    "title": "Via.AreaCover.CircleCover",
                     "color": "#f83a22b8",
                     "textcolor": "white",
                     "type": "sidecar"
                 },
                 {
-                    "title": "Via.AreaFill.CircleFill.CircleSegmentFill",
+                    "title": "Via.AreaCover.CircleCover.CircleSegmentCover",
                     "color": "#f83a22b8",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -11191,13 +11191,13 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Via.ViaSequence.AreaFillPhrase.ViaShapeInscription.Overview",
+                    "title": "Via.ViaSequence.AreaCoverPhrase.ViaShapeInscription.Overview",
                     "color": "#f83a22b8",
                     "textcolor": "white",
                     "type": "sidecar"
                 },
                 {
-                    "title": "Via.ViaSequence.AreaFillPhrase.ViaShapeInscription.ViaSquareInscription",
+                    "title": "Via.ViaSequence.AreaCoverPhrase.ViaShapeInscription.ViaSquareInscription",
                     "color": "#f83a22b8",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -11235,12 +11235,12 @@
                 "textcolor": "white"
             },
             {
-                "title": "Via.AreaFill.CircleFill",
+                "title": "Via.AreaCover.CircleCover",
                 "color": "#f83a22b8",
                 "textcolor": "white"
             },
             {
-                "title": "Via.AreaFill.CircleFill.CircleSegmentFill",
+                "title": "Via.AreaCover.CircleCover.CircleSegmentCover",
                 "color": "#f83a22b8",
                 "textcolor": "white"
             },
@@ -11255,12 +11255,12 @@
                 "textcolor": "white"
             },
             {
-                "title": "Via.ViaSequence.AreaFillPhrase.ViaShapeInscription.Overview",
+                "title": "Via.ViaSequence.AreaCoverPhrase.ViaShapeInscription.Overview",
                 "color": "#f83a22b8",
                 "textcolor": "white"
             },
             {
-                "title": "Via.ViaSequence.AreaFillPhrase.ViaShapeInscription.ViaSquareInscription",
+                "title": "Via.ViaSequence.AreaCoverPhrase.ViaShapeInscription.ViaSquareInscription",
                 "color": "#f83a22b8",
                 "textcolor": "white"
             },
@@ -11368,7 +11368,7 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Via.ViaSequence.AreaFillPhrase.ViaShapeInscription.ViaCircleInscription",
+                    "title": "Via.ViaSequence.AreaCoverPhrase.ViaShapeInscription.ViaCircleInscription",
                     "color": "#f83a22b8",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -11456,7 +11456,7 @@
                 "textcolor": "white"
             },
             {
-                "title": "Via.ViaSequence.AreaFillPhrase.ViaShapeInscription.ViaCircleInscription",
+                "title": "Via.ViaSequence.AreaCoverPhrase.ViaShapeInscription.ViaCircleInscription",
                 "color": "#f83a22b8",
                 "textcolor": "white"
             },
@@ -11564,7 +11564,7 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Via.AreaFill.CircleFill.CircleSegmentFill",
+                    "title": "Via.AreaCover.CircleCover.CircleSegmentCover",
                     "color": "#f83a22b8",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -11588,7 +11588,7 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Via.ViaSequence.AreaFillPhrase.ViaShapeInscription.Overview",
+                    "title": "Via.ViaSequence.AreaCoverPhrase.ViaShapeInscription.Overview",
                     "color": "#f83a22b8",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -11688,7 +11688,7 @@
                 "textcolor": "white"
             },
             {
-                "title": "Via.AreaFill.CircleFill.CircleSegmentFill",
+                "title": "Via.AreaCover.CircleCover.CircleSegmentCover",
                 "color": "#f83a22b8",
                 "textcolor": "white"
             },
@@ -11708,7 +11708,7 @@
                 "textcolor": "white"
             },
             {
-                "title": "Via.ViaSequence.AreaFillPhrase.ViaShapeInscription.Overview",
+                "title": "Via.ViaSequence.AreaCoverPhrase.ViaShapeInscription.Overview",
                 "color": "#f83a22b8",
                 "textcolor": "white"
             },
@@ -11796,25 +11796,25 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Via.AreaFill.CircleFill",
+                    "title": "Via.AreaCover.CircleCover",
                     "color": "#f83a22b8",
                     "textcolor": "white",
                     "type": "sidecar"
                 },
                 {
-                    "title": "Via.AreaFill.CircleFill.SemicircleFill",
+                    "title": "Via.AreaCover.CircleCover.SemicircleCover",
                     "color": "#f83a22b8",
                     "textcolor": "white",
                     "type": "sidecar"
                 },
                 {
-                    "title": "Via.AreaFill.PenroseFill",
+                    "title": "Via.AreaCover.PenroseCover",
                     "color": "#f83a22b8",
                     "textcolor": "white",
                     "type": "sidecar"
                 },
                 {
-                    "title": "Via.ViaSequence.AreaFillPhrase.ViaShapeInscription.ViaCircleInscription",
+                    "title": "Via.ViaSequence.AreaCoverPhrase.ViaShapeInscription.ViaCircleInscription",
                     "color": "#f83a22b8",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -11877,22 +11877,22 @@
                 "textcolor": "white"
             },
             {
-                "title": "Via.AreaFill.CircleFill",
+                "title": "Via.AreaCover.CircleCover",
                 "color": "#f83a22b8",
                 "textcolor": "white"
             },
             {
-                "title": "Via.AreaFill.CircleFill.SemicircleFill",
+                "title": "Via.AreaCover.CircleCover.SemicircleCover",
                 "color": "#f83a22b8",
                 "textcolor": "white"
             },
             {
-                "title": "Via.AreaFill.PenroseFill",
+                "title": "Via.AreaCover.PenroseCover",
                 "color": "#f83a22b8",
                 "textcolor": "white"
             },
             {
-                "title": "Via.ViaSequence.AreaFillPhrase.ViaShapeInscription.ViaCircleInscription",
+                "title": "Via.ViaSequence.AreaCoverPhrase.ViaShapeInscription.ViaCircleInscription",
                 "color": "#f83a22b8",
                 "textcolor": "white"
             },
@@ -11964,7 +11964,7 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Via.AreaFill.CircleFill",
+                    "title": "Via.AreaCover.CircleCover",
                     "color": "#f83a22b8",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -11976,7 +11976,7 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Via.ViaSequence.AreaFillPhrase.ViaShapeInscription.Overview",
+                    "title": "Via.ViaSequence.AreaCoverPhrase.ViaShapeInscription.Overview",
                     "color": "#f83a22b8",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -12034,7 +12034,7 @@
                 "textcolor": "white"
             },
             {
-                "title": "Via.AreaFill.CircleFill",
+                "title": "Via.AreaCover.CircleCover",
                 "color": "#f83a22b8",
                 "textcolor": "white"
             },
@@ -12044,7 +12044,7 @@
                 "textcolor": "white"
             },
             {
-                "title": "Via.ViaSequence.AreaFillPhrase.ViaShapeInscription.Overview",
+                "title": "Via.ViaSequence.AreaCoverPhrase.ViaShapeInscription.Overview",
                 "color": "#f83a22b8",
                 "textcolor": "white"
             },
@@ -12110,19 +12110,19 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Via.AreaFill.AreaBoundary.BoundaryLine",
+                    "title": "Via.AreaCover.AreaBoundary.BoundaryLine",
                     "color": "#f83a22b8",
                     "textcolor": "white",
                     "type": "sidecar"
                 },
                 {
-                    "title": "Via.AreaFill.AreaBoundary.BoundaryPoint",
+                    "title": "Via.AreaCover.AreaBoundary.BoundaryPoint",
                     "color": "#f83a22b8",
                     "textcolor": "white",
                     "type": "sidecar"
                 },
                 {
-                    "title": "Via.AreaFill.AreaBoundary.SideBoundary",
+                    "title": "Via.AreaCover.AreaBoundary.SideBoundary",
                     "color": "#f83a22b8",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -12152,19 +12152,19 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Via.ViaSequence.AreaFillPhrase.ViaShapeInscription.ViaCircleInscription",
+                    "title": "Via.ViaSequence.AreaCoverPhrase.ViaShapeInscription.ViaCircleInscription",
                     "color": "#f83a22b8",
                     "textcolor": "white",
                     "type": "sidecar"
                 },
                 {
-                    "title": "Via.ViaSequence.AreaFillPhrase.ViaShapeInscription.ViaSquareInscription",
+                    "title": "Via.ViaSequence.AreaCoverPhrase.ViaShapeInscription.ViaSquareInscription",
                     "color": "#f83a22b8",
                     "textcolor": "white",
                     "type": "sidecar"
                 },
                 {
-                    "title": "Via.ViaSequence.AreaFillPhrase.ViaShapeInscription.ViaTriangleInscription",
+                    "title": "Via.ViaSequence.AreaCoverPhrase.ViaShapeInscription.ViaTriangleInscription",
                     "color": "#f83a22b8",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -12229,17 +12229,17 @@
                 "textcolor": "white"
             },
             {
-                "title": "Via.AreaFill.AreaBoundary.BoundaryLine",
+                "title": "Via.AreaCover.AreaBoundary.BoundaryLine",
                 "color": "#f83a22b8",
                 "textcolor": "white"
             },
             {
-                "title": "Via.AreaFill.AreaBoundary.BoundaryPoint",
+                "title": "Via.AreaCover.AreaBoundary.BoundaryPoint",
                 "color": "#f83a22b8",
                 "textcolor": "white"
             },
             {
-                "title": "Via.AreaFill.AreaBoundary.SideBoundary",
+                "title": "Via.AreaCover.AreaBoundary.SideBoundary",
                 "color": "#f83a22b8",
                 "textcolor": "white"
             },
@@ -12264,17 +12264,17 @@
                 "textcolor": "white"
             },
             {
-                "title": "Via.ViaSequence.AreaFillPhrase.ViaShapeInscription.ViaCircleInscription",
+                "title": "Via.ViaSequence.AreaCoverPhrase.ViaShapeInscription.ViaCircleInscription",
                 "color": "#f83a22b8",
                 "textcolor": "white"
             },
             {
-                "title": "Via.ViaSequence.AreaFillPhrase.ViaShapeInscription.ViaSquareInscription",
+                "title": "Via.ViaSequence.AreaCoverPhrase.ViaShapeInscription.ViaSquareInscription",
                 "color": "#f83a22b8",
                 "textcolor": "white"
             },
             {
-                "title": "Via.ViaSequence.AreaFillPhrase.ViaShapeInscription.ViaTriangleInscription",
+                "title": "Via.ViaSequence.AreaCoverPhrase.ViaShapeInscription.ViaTriangleInscription",
                 "color": "#f83a22b8",
                 "textcolor": "white"
             },
@@ -12386,13 +12386,13 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Via.AreaFill.CircleFill",
+                    "title": "Via.AreaCover.CircleCover",
                     "color": "#f83a22b8",
                     "textcolor": "white",
                     "type": "sidecar"
                 },
                 {
-                    "title": "Via.AreaFill.CircleFill.CircleSegmentFill",
+                    "title": "Via.AreaCover.CircleCover.CircleSegmentCover",
                     "color": "#f83a22b8",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -12404,7 +12404,7 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Via.ViaSequence.AreaFillPhrase.ViaShapeInscription.Overview",
+                    "title": "Via.ViaSequence.AreaCoverPhrase.ViaShapeInscription.Overview",
                     "color": "#f83a22b8",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -12493,12 +12493,12 @@
                 "textcolor": "white"
             },
             {
-                "title": "Via.AreaFill.CircleFill",
+                "title": "Via.AreaCover.CircleCover",
                 "color": "#f83a22b8",
                 "textcolor": "white"
             },
             {
-                "title": "Via.AreaFill.CircleFill.CircleSegmentFill",
+                "title": "Via.AreaCover.CircleCover.CircleSegmentCover",
                 "color": "#f83a22b8",
                 "textcolor": "white"
             },
@@ -12508,7 +12508,7 @@
                 "textcolor": "white"
             },
             {
-                "title": "Via.ViaSequence.AreaFillPhrase.ViaShapeInscription.Overview",
+                "title": "Via.ViaSequence.AreaCoverPhrase.ViaShapeInscription.Overview",
                 "color": "#f83a22b8",
                 "textcolor": "white"
             },
@@ -12846,7 +12846,7 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Via.AreaFill.AreaBoundary.BoundaryLine",
+                    "title": "Via.AreaCover.AreaBoundary.BoundaryLine",
                     "color": "#f83a22b8",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -13021,7 +13021,7 @@
                 "textcolor": "white"
             },
             {
-                "title": "Via.AreaFill.AreaBoundary.BoundaryLine",
+                "title": "Via.AreaCover.AreaBoundary.BoundaryLine",
                 "color": "#f83a22b8",
                 "textcolor": "white"
             },
@@ -13313,7 +13313,7 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Via.AreaFill.TriangleFill",
+                    "title": "Via.AreaCover.TriangleCover",
                     "color": "#f83a22b8",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -13402,7 +13402,7 @@
                 "textcolor": "white"
             },
             {
-                "title": "Via.AreaFill.TriangleFill",
+                "title": "Via.AreaCover.TriangleCover",
                 "color": "#f83a22b8",
                 "textcolor": "white"
             },
@@ -14006,19 +14006,19 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Via.AreaFill.DiamondFill",
+                    "title": "Via.AreaCover.DiamondCover",
                     "color": "#f83a22b8",
                     "textcolor": "white",
                     "type": "sidecar"
                 },
                 {
-                    "title": "Via.AreaFill.PenroseFill",
+                    "title": "Via.AreaCover.PenroseCover",
                     "color": "#f83a22b8",
                     "textcolor": "white",
                     "type": "sidecar"
                 },
                 {
-                    "title": "Via.AreaFill.SquareFill",
+                    "title": "Via.AreaCover.SquareCover",
                     "color": "#f83a22b8",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -14083,17 +14083,17 @@
                 "textcolor": "white"
             },
             {
-                "title": "Via.AreaFill.DiamondFill",
+                "title": "Via.AreaCover.DiamondCover",
                 "color": "#f83a22b8",
                 "textcolor": "white"
             },
             {
-                "title": "Via.AreaFill.PenroseFill",
+                "title": "Via.AreaCover.PenroseCover",
                 "color": "#f83a22b8",
                 "textcolor": "white"
             },
             {
-                "title": "Via.AreaFill.SquareFill",
+                "title": "Via.AreaCover.SquareCover",
                 "color": "#f83a22b8",
                 "textcolor": "white"
             },
@@ -14392,13 +14392,13 @@
                 {
                     "color": "#f83a22b8",
                     "textcolor": "white",
-                    "title": "Via.AreaFill.CircleFill",
+                    "title": "Via.AreaCover.CircleCover",
                     "type": "sidecar"
                 },
                 {
                     "color": "#f83a22b8",
                     "textcolor": "white",
-                    "title": "Via.AreaFill.CircleFill.CircleSegmentFill",
+                    "title": "Via.AreaCover.CircleCover.CircleSegmentCover",
                     "type": "sidecar"
                 },
                 {
@@ -14486,12 +14486,12 @@
                 "textcolor": "white"
             },
             {
-                "title": "Via.AreaFill.CircleFill",
+                "title": "Via.AreaCover.CircleCover",
                 "color": "#f83a22b8",
                 "textcolor": "white"
             },
             {
-                "title": "Via.AreaFill.CircleFill.CircleSegmentFill",
+                "title": "Via.AreaCover.CircleCover.CircleSegmentCover",
                 "color": "#f83a22b8",
                 "textcolor": "white"
             },
@@ -15895,7 +15895,7 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Via.AreaFill.CircleFill",
+                    "title": "Via.AreaCover.CircleCover",
                     "color": "#f83a22b8",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -15953,7 +15953,7 @@
                 "textcolor": "white"
             },
             {
-                "title": "Via.AreaFill.CircleFill",
+                "title": "Via.AreaCover.CircleCover",
                 "color": "#f83a22b8",
                 "textcolor": "white"
             },
@@ -16037,7 +16037,7 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Via.TeamFill.Overview",
+                    "title": "Via.TeamCover.Overview",
                     "color": "#f83a22b8",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -16105,7 +16105,7 @@
                 "textcolor": "white"
             },
             {
-                "title": "Via.TeamFill.Overview",
+                "title": "Via.TeamCover.Overview",
                 "color": "#f83a22b8",
                 "textcolor": "white"
             },
@@ -17519,13 +17519,13 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Via.AreaFill.CircleFill.CircleSegmentFill",
+                    "title": "Via.AreaCover.CircleCover.CircleSegmentCover",
                     "color": "#f83a22b8",
                     "textcolor": "white",
                     "type": "sidecar"
                 },
                 {
-                    "title": "Via.AreaFill.CircleFill.SemicircleFill",
+                    "title": "Via.AreaCover.CircleCover.SemicircleCover",
                     "color": "#f83a22b8",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -17594,12 +17594,12 @@
                 "textcolor": "white"
             },
             {
-                "title": "Via.AreaFill.CircleFill.CircleSegmentFill",
+                "title": "Via.AreaCover.CircleCover.CircleSegmentCover",
                 "color": "#f83a22b8",
                 "textcolor": "white"
             },
             {
-                "title": "Via.AreaFill.CircleFill.SemicircleFill",
+                "title": "Via.AreaCover.CircleCover.SemicircleCover",
                 "color": "#f83a22b8",
                 "textcolor": "white"
             },
@@ -29233,7 +29233,7 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Tests.FillInBlank",
+                    "title": "Tests.CoverInBlank",
                     "color": "#ffffffff",
                     "textcolor": "#000000ff",
                     "type": "sidecar"
@@ -29306,7 +29306,7 @@
                 "textcolor": "white"
             },
             {
-                "title": "Tests.FillInBlank",
+                "title": "Tests.CoverInBlank",
                 "color": "#ffffffff",
                 "textcolor": "#000000ff"
             },
@@ -30609,7 +30609,7 @@
                 {
                     "color": "#ffffffff",
                     "textcolor": "#000000ff",
-                    "title": "Tests.FillInBlank",
+                    "title": "Tests.CoverInBlank",
                     "type": "sidecar"
                 },
                 {
@@ -30709,7 +30709,7 @@
                 "textcolor": "white"
             },
             {
-                "title": "Tests.FillInBlank",
+                "title": "Tests.CoverInBlank",
                 "color": "#ffffffff",
                 "textcolor": "#000000ff"
             },
@@ -31252,7 +31252,7 @@
                 {
                     "color": "#f83a22b8",
                     "textcolor": "white",
-                    "title": "Via.TeamFill.CrossingFill",
+                    "title": "Via.TeamCover.CrossingCover",
                     "type": "sidecar"
                 },
                 {
@@ -31352,7 +31352,7 @@
                 "textcolor": "white"
             },
             {
-                "title": "Via.TeamFill.CrossingFill",
+                "title": "Via.TeamCover.CrossingCover",
                 "color": "#f83a22b8",
                 "textcolor": "white"
             },
@@ -31576,7 +31576,7 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Via.TeamFill.BouncingFill",
+                    "title": "Via.TeamCover.BouncingCover",
                     "color": "#f83a22b8",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -31634,7 +31634,7 @@
                 "textcolor": "white"
             },
             {
-                "title": "Via.TeamFill.BouncingFill",
+                "title": "Via.TeamCover.BouncingCover",
                 "color": "#f83a22b8",
                 "textcolor": "white"
             },
@@ -32215,7 +32215,7 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Via.TeamFill.Overview",
+                    "title": "Via.TeamCover.Overview",
                     "color": "#f83a22b8",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -32273,7 +32273,7 @@
                 "textcolor": "white"
             },
             {
-                "title": "Via.TeamFill.Overview",
+                "title": "Via.TeamCover.Overview",
                 "color": "#f83a22b8",
                 "textcolor": "white"
             },
@@ -33528,7 +33528,7 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Tests.FillInBlank",
+                    "title": "Tests.CoverInBlank",
                     "color": "#ffffffff",
                     "textcolor": "#000000ff",
                     "type": "sidecar"
@@ -33586,7 +33586,7 @@
                 "textcolor": "white"
             },
             {
-                "title": "Tests.FillInBlank",
+                "title": "Tests.CoverInBlank",
                 "color": "#ffffffff",
                 "textcolor": "#000000ff"
             },
@@ -34537,7 +34537,7 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Tests.FillInBlank",
+                    "title": "Tests.CoverInBlank",
                     "color": "#ffffffff",
                     "textcolor": "#000000ff",
                     "type": "sidecar"
@@ -34615,7 +34615,7 @@
                 "textcolor": "white"
             },
             {
-                "title": "Tests.FillInBlank",
+                "title": "Tests.CoverInBlank",
                 "color": "#ffffffff",
                 "textcolor": "#000000ff"
             },
@@ -35622,7 +35622,7 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Tests.FillInBlank",
+                    "title": "Tests.CoverInBlank",
                     "color": "#ffffffff",
                     "textcolor": "#000000ff",
                     "type": "sidecar"
@@ -35670,7 +35670,7 @@
                 "textcolor": "white"
             },
             {
-                "title": "Tests.FillInBlank",
+                "title": "Tests.CoverInBlank",
                 "color": "#ffffffff",
                 "textcolor": "#000000ff"
             },
@@ -36410,7 +36410,7 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Tests.FillInBlank",
+                    "title": "Tests.CoverInBlank",
                     "color": "#ffffffff",
                     "textcolor": "#000000ff",
                     "type": "sidecar"
@@ -36518,7 +36518,7 @@
                 "textcolor": "#000000ff"
             },
             {
-                "title": "Tests.FillInBlank",
+                "title": "Tests.CoverInBlank",
                 "color": "#ffffffff",
                 "textcolor": "#000000ff"
             },
@@ -38028,7 +38028,7 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Via.AreaFill.CircleFill.SemicircleFill",
+                    "title": "Via.AreaCover.CircleCover.SemicircleCover",
                     "color": "#f83a22b8",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -38076,7 +38076,7 @@
                 "textcolor": "white"
             },
             {
-                "title": "Via.AreaFill.CircleFill.SemicircleFill",
+                "title": "Via.AreaCover.CircleCover.SemicircleCover",
                 "color": "#f83a22b8",
                 "textcolor": "white"
             },
@@ -44559,7 +44559,7 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Via.AreaFill.CircleFill",
+                    "title": "Via.AreaCover.CircleCover",
                     "color": "#f83a22b8",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -44626,7 +44626,7 @@
                 "textcolor": "white"
             },
             {
-                "title": "Via.AreaFill.CircleFill",
+                "title": "Via.AreaCover.CircleCover",
                 "color": "#f83a22b8",
                 "textcolor": "white"
             },
@@ -47755,7 +47755,7 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Via.AreaFill.TriangleFill",
+                    "title": "Via.AreaCover.TriangleCover",
                     "color": "#f83a22b8",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -47858,7 +47858,7 @@
                 "textcolor": "white"
             },
             {
-                "title": "Via.AreaFill.TriangleFill",
+                "title": "Via.AreaCover.TriangleCover",
                 "color": "#f83a22b8",
                 "textcolor": "white"
             },
@@ -48116,7 +48116,7 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Tests.FillInBlank",
+                    "title": "Tests.CoverInBlank",
                     "color": "#ffffffff",
                     "textcolor": "#000000ff",
                     "type": "sidecar"
@@ -48184,7 +48184,7 @@
                 "textcolor": "white"
             },
             {
-                "title": "Tests.FillInBlank",
+                "title": "Tests.CoverInBlank",
                 "color": "#ffffffff",
                 "textcolor": "#000000ff"
             },
@@ -48852,13 +48852,13 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Via.AreaFill.Overview",
+                    "title": "Via.AreaCover.Overview",
                     "color": "#f83a22b8",
                     "textcolor": "white",
                     "type": "sidecar"
                 },
                 {
-                    "title": "Via.AreaFill.SimplifyAreaShape",
+                    "title": "Via.AreaCover.SimplifyAreaShape",
                     "color": "#ffffffff",
                     "textcolor": "#000000ff",
                     "type": "sidecar"
@@ -48956,12 +48956,12 @@
                 "textcolor": "white"
             },
             {
-                "title": "Via.AreaFill.Overview",
+                "title": "Via.AreaCover.Overview",
                 "color": "#f83a22b8",
                 "textcolor": "white"
             },
             {
-                "title": "Via.AreaFill.SimplifyAreaShape",
+                "title": "Via.AreaCover.SimplifyAreaShape",
                 "color": "#ffffffff",
                 "textcolor": "#000000ff"
             },
@@ -49064,7 +49064,7 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Via.AreaFill.SimplifyAreaShape",
+                    "title": "Via.AreaCover.SimplifyAreaShape",
                     "color": "#ffffffff",
                     "textcolor": "#000000ff",
                     "type": "sidecar"
@@ -49133,7 +49133,7 @@
                 "textcolor": "white"
             },
             {
-                "title": "Via.AreaFill.SimplifyAreaShape",
+                "title": "Via.AreaCover.SimplifyAreaShape",
                 "color": "#ffffffff",
                 "textcolor": "#000000ff"
             },
@@ -49485,19 +49485,19 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Via.AreaFill.BoustroFill",
+                    "title": "Via.AreaCover.BoustroCover",
                     "color": "#f83a22b8",
                     "textcolor": "white",
                     "type": "sidecar"
                 },
                 {
-                    "title": "Via.AreaFill.Overview",
+                    "title": "Via.AreaCover.Overview",
                     "color": "#f83a22b8",
                     "textcolor": "white",
                     "type": "sidecar"
                 },
                 {
-                    "title": "Via.AreaFill.TriangleFill",
+                    "title": "Via.AreaCover.TriangleCover",
                     "color": "#f83a22b8",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -49563,17 +49563,17 @@
                 "textcolor": "white"
             },
             {
-                "title": "Via.AreaFill.BoustroFill",
+                "title": "Via.AreaCover.BoustroCover",
                 "color": "#f83a22b8",
                 "textcolor": "white"
             },
             {
-                "title": "Via.AreaFill.Overview",
+                "title": "Via.AreaCover.Overview",
                 "color": "#f83a22b8",
                 "textcolor": "white"
             },
             {
-                "title": "Via.AreaFill.TriangleFill",
+                "title": "Via.AreaCover.TriangleCover",
                 "color": "#f83a22b8",
                 "textcolor": "white"
             },
@@ -50213,7 +50213,7 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Neuro.Estimation.BagFill",
+                    "title": "Neuro.Estimation.BagCover",
                     "color": "#cd74e6ff",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -50295,7 +50295,7 @@
                 "textcolor": "white"
             },
             {
-                "title": "Neuro.Estimation.BagFill",
+                "title": "Neuro.Estimation.BagCover",
                 "color": "#cd74e6ff",
                 "textcolor": "white"
             },
@@ -50387,19 +50387,19 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Via.AreaFill.AreaBoundary.BoundaryLine",
+                    "title": "Via.AreaCover.AreaBoundary.BoundaryLine",
                     "color": "#f83a22b8",
                     "textcolor": "white",
                     "type": "sidecar"
                 },
                 {
-                    "title": "Via.AreaFill.AreaBoundary.BoundaryPoint",
+                    "title": "Via.AreaCover.AreaBoundary.BoundaryPoint",
                     "color": "#f83a22b8",
                     "textcolor": "white",
                     "type": "sidecar"
                 },
                 {
-                    "title": "Via.AreaFill.AreaDefinition",
+                    "title": "Via.AreaCover.AreaDefinition",
                     "color": "#f83a22b8",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -50493,17 +50493,17 @@
                 "textcolor": "white"
             },
             {
-                "title": "Via.AreaFill.AreaBoundary.BoundaryLine",
+                "title": "Via.AreaCover.AreaBoundary.BoundaryLine",
                 "color": "#f83a22b8",
                 "textcolor": "white"
             },
             {
-                "title": "Via.AreaFill.AreaBoundary.BoundaryPoint",
+                "title": "Via.AreaCover.AreaBoundary.BoundaryPoint",
                 "color": "#f83a22b8",
                 "textcolor": "white"
             },
             {
-                "title": "Via.AreaFill.AreaDefinition",
+                "title": "Via.AreaCover.AreaDefinition",
                 "color": "#f83a22b8",
                 "textcolor": "white"
             },
@@ -50960,7 +50960,7 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Neuro.Estimation.BagFill",
+                    "title": "Neuro.Estimation.BagCover",
                     "color": "#cd74e6ff",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -50972,7 +50972,7 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Via.AreaFill.AreaBoundary.BoundaryLine",
+                    "title": "Via.AreaCover.AreaBoundary.BoundaryLine",
                     "color": "#f83a22b8",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -51075,7 +51075,7 @@
                 "textcolor": "#ffffffff"
             },
             {
-                "title": "Neuro.Estimation.BagFill",
+                "title": "Neuro.Estimation.BagCover",
                 "color": "#cd74e6ff",
                 "textcolor": "white"
             },
@@ -51085,7 +51085,7 @@
                 "textcolor": "white"
             },
             {
-                "title": "Via.AreaFill.AreaBoundary.BoundaryLine",
+                "title": "Via.AreaCover.AreaBoundary.BoundaryLine",
                 "color": "#f83a22b8",
                 "textcolor": "white"
             },
@@ -51579,7 +51579,7 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Via.TeamFill.Overview",
+                    "title": "Via.TeamCover.Overview",
                     "color": "#f83a22b8",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -51632,7 +51632,7 @@
                 "textcolor": "white"
             },
             {
-                "title": "Via.TeamFill.Overview",
+                "title": "Via.TeamCover.Overview",
                 "color": "#f83a22b8",
                 "textcolor": "white"
             },
@@ -51692,7 +51692,7 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Via.AreaFill.AreaBoundary.BoundaryLine",
+                    "title": "Via.AreaCover.AreaBoundary.BoundaryLine",
                     "color": "#f83a22b8",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -51710,7 +51710,7 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Via.TeamFill.BouncingFill",
+                    "title": "Via.TeamCover.BouncingCover",
                     "color": "#f83a22b8",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -51758,7 +51758,7 @@
                 "textcolor": "white"
             },
             {
-                "title": "Via.AreaFill.AreaBoundary.BoundaryLine",
+                "title": "Via.AreaCover.AreaBoundary.BoundaryLine",
                 "color": "#f83a22b8",
                 "textcolor": "white"
             },
@@ -51773,7 +51773,7 @@
                 "textcolor": "white"
             },
             {
-                "title": "Via.TeamFill.BouncingFill",
+                "title": "Via.TeamCover.BouncingCover",
                 "color": "#f83a22b8",
                 "textcolor": "white"
             },
@@ -52334,7 +52334,7 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Via.AreaFill.Overview",
+                    "title": "Via.AreaCover.Overview",
                     "color": "#f83a22b8",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -52410,7 +52410,7 @@
                 "textcolor": "white"
             },
             {
-                "title": "Via.AreaFill.Overview",
+                "title": "Via.AreaCover.Overview",
                 "color": "#f83a22b8",
                 "textcolor": "white"
             },
@@ -52473,13 +52473,13 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Via.AreaFill.Overview",
+                    "title": "Via.AreaCover.Overview",
                     "color": "#f83a22b8",
                     "textcolor": "white",
                     "type": "sidecar"
                 },
                 {
-                    "title": "Via.PieceFill.BackFill",
+                    "title": "Via.PieceCover.BackCover",
                     "color": "#f83a22b8",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -52503,7 +52503,7 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Via.TeamFill.Overview",
+                    "title": "Via.TeamCover.Overview",
                     "color": "#f83a22b8",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -52541,12 +52541,12 @@
                 "textcolor": "white"
             },
             {
-                "title": "Via.AreaFill.Overview",
+                "title": "Via.AreaCover.Overview",
                 "color": "#f83a22b8",
                 "textcolor": "white"
             },
             {
-                "title": "Via.PieceFill.BackFill",
+                "title": "Via.PieceCover.BackCover",
                 "color": "#f83a22b8",
                 "textcolor": "white"
             },
@@ -52566,7 +52566,7 @@
                 "textcolor": "white"
             },
             {
-                "title": "Via.TeamFill.Overview",
+                "title": "Via.TeamCover.Overview",
                 "color": "#f83a22b8",
                 "textcolor": "white"
             },
@@ -53177,13 +53177,13 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Via.AreaFill.AreaBoundary.BoundaryLine",
+                    "title": "Via.AreaCover.AreaBoundary.BoundaryLine",
                     "color": "#f83a22b8",
                     "textcolor": "white",
                     "type": "sidecar"
                 },
                 {
-                    "title": "Via.AreaFill.SimplifyAreaShape",
+                    "title": "Via.AreaCover.SimplifyAreaShape",
                     "color": "#ffffffff",
                     "textcolor": "#000000ff",
                     "type": "sidecar"
@@ -53261,12 +53261,12 @@
                 "textcolor": "white"
             },
             {
-                "title": "Via.AreaFill.AreaBoundary.BoundaryLine",
+                "title": "Via.AreaCover.AreaBoundary.BoundaryLine",
                 "color": "#f83a22b8",
                 "textcolor": "white"
             },
             {
-                "title": "Via.AreaFill.SimplifyAreaShape",
+                "title": "Via.AreaCover.SimplifyAreaShape",
                 "color": "#ffffffff",
                 "textcolor": "#000000ff"
             },
@@ -54589,13 +54589,13 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Via.AreaFill.DiamondFill",
+                    "title": "Via.AreaCover.DiamondCover",
                     "color": "#f83a22b8",
                     "textcolor": "white",
                     "type": "sidecar"
                 },
                 {
-                    "title": "Via.AreaFill.TriangleFill",
+                    "title": "Via.AreaCover.TriangleCover",
                     "color": "#f83a22b8",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -54646,12 +54646,12 @@
                 "textcolor": "white"
             },
             {
-                "title": "Via.AreaFill.DiamondFill",
+                "title": "Via.AreaCover.DiamondCover",
                 "color": "#f83a22b8",
                 "textcolor": "white"
             },
             {
-                "title": "Via.AreaFill.TriangleFill",
+                "title": "Via.AreaCover.TriangleCover",
                 "color": "#f83a22b8",
                 "textcolor": "white"
             },
@@ -54720,19 +54720,19 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Via.AreaFill.SimplifyAreaShape",
+                    "title": "Via.AreaCover.SimplifyAreaShape",
                     "color": "#ffffffff",
                     "textcolor": "#000000ff",
                     "type": "sidecar"
                 },
                 {
-                    "title": "Via.AreaFill.SquareFill",
+                    "title": "Via.AreaCover.SquareCover",
                     "color": "#f83a22b8",
                     "textcolor": "white",
                     "type": "sidecar"
                 },
                 {
-                    "title": "Via.AreaFill.TriangleFill",
+                    "title": "Via.AreaCover.TriangleCover",
                     "color": "#f83a22b8",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -54793,17 +54793,17 @@
                 "textcolor": "white"
             },
             {
-                "title": "Via.AreaFill.SimplifyAreaShape",
+                "title": "Via.AreaCover.SimplifyAreaShape",
                 "color": "#ffffffff",
                 "textcolor": "#000000ff"
             },
             {
-                "title": "Via.AreaFill.SquareFill",
+                "title": "Via.AreaCover.SquareCover",
                 "color": "#f83a22b8",
                 "textcolor": "white"
             },
             {
-                "title": "Via.AreaFill.TriangleFill",
+                "title": "Via.AreaCover.TriangleCover",
                 "color": "#f83a22b8",
                 "textcolor": "white"
             },
@@ -55112,7 +55112,7 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Via.ObstacleFill.ObstacleClusterFill",
+                    "title": "Via.ObstacleCover.ObstacleClusterCover",
                     "color": "#f83a22b8",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -55193,7 +55193,7 @@
                 "textcolor": "white"
             },
             {
-                "title": "Via.ObstacleFill.ObstacleClusterFill",
+                "title": "Via.ObstacleCover.ObstacleClusterCover",
                 "color": "#f83a22b8",
                 "textcolor": "white"
             },
@@ -55274,7 +55274,7 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Via.AreaFill.Overview",
+                    "title": "Via.AreaCover.Overview",
                     "color": "#f83a22b8",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -55363,7 +55363,7 @@
                 "textcolor": "white"
             },
             {
-                "title": "Via.AreaFill.Overview",
+                "title": "Via.AreaCover.Overview",
                 "color": "#f83a22b8",
                 "textcolor": "white"
             },
@@ -55527,7 +55527,7 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Neuro.Estimation.BagFill",
+                    "title": "Neuro.Estimation.BagCover",
                     "color": "#cd74e6ff",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -55577,7 +55577,7 @@
                 "textcolor": "white"
             },
             {
-                "title": "Neuro.Estimation.BagFill",
+                "title": "Neuro.Estimation.BagCover",
                 "color": "#cd74e6ff",
                 "textcolor": "white"
             },
@@ -55715,7 +55715,7 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Via.ObstacleFill.Overview",
+                    "title": "Via.ObstacleCover.Overview",
                     "color": "#f83a22b8",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -55772,7 +55772,7 @@
                 "textcolor": "white"
             },
             {
-                "title": "Via.ObstacleFill.Overview",
+                "title": "Via.ObstacleCover.Overview",
                 "color": "#f83a22b8",
                 "textcolor": "white"
             },
@@ -55834,7 +55834,7 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Via.AreaFill.AreaBoundary.BoundaryLine",
+                    "title": "Via.AreaCover.AreaBoundary.BoundaryLine",
                     "color": "#f83a22b8",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -55867,7 +55867,7 @@
                 "textcolor": "white"
             },
             {
-                "title": "Via.AreaFill.AreaBoundary.BoundaryLine",
+                "title": "Via.AreaCover.AreaBoundary.BoundaryLine",
                 "color": "#f83a22b8",
                 "textcolor": "white"
             },
@@ -55927,7 +55927,7 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Via.AreaFill.AreaBoundary.BoundaryLine",
+                    "title": "Via.AreaCover.AreaBoundary.BoundaryLine",
                     "color": "#f83a22b8",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -55981,7 +55981,7 @@
                 "textcolor": "white"
             },
             {
-                "title": "Via.AreaFill.AreaBoundary.BoundaryLine",
+                "title": "Via.AreaCover.AreaBoundary.BoundaryLine",
                 "color": "#f83a22b8",
                 "textcolor": "white"
             },
@@ -56034,7 +56034,7 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Via.AreaFill.AreaBoundary.BoundaryLine",
+                    "title": "Via.AreaCover.AreaBoundary.BoundaryLine",
                     "color": "#f83a22b8",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -56084,7 +56084,7 @@
                 "textcolor": "white"
             },
             {
-                "title": "Via.AreaFill.AreaBoundary.BoundaryLine",
+                "title": "Via.AreaCover.AreaBoundary.BoundaryLine",
                 "color": "#f83a22b8",
                 "textcolor": "white"
             },
@@ -56285,7 +56285,7 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Via.PieceFill.Overview",
+                    "title": "Via.PieceCover.Overview",
                     "color": "#f83a22b8",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -56355,7 +56355,7 @@
                 "textcolor": "white"
             },
             {
-                "title": "Via.PieceFill.Overview",
+                "title": "Via.PieceCover.Overview",
                 "color": "#f83a22b8",
                 "textcolor": "white"
             },
@@ -56534,19 +56534,19 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Via.AreaFill.BoustroFill",
+                    "title": "Via.AreaCover.BoustroCover",
                     "color": "#f83a22b8",
                     "textcolor": "white",
                     "type": "sidecar"
                 },
                 {
-                    "title": "Via.AreaFill.Overview",
+                    "title": "Via.AreaCover.Overview",
                     "color": "#f83a22b8",
                     "textcolor": "white",
                     "type": "sidecar"
                 },
                 {
-                    "title": "Via.AreaFill.SimplifyAreaShape",
+                    "title": "Via.AreaCover.SimplifyAreaShape",
                     "color": "#ffffffff",
                     "textcolor": "#000000ff",
                     "type": "sidecar"
@@ -56564,13 +56564,13 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Via.PieceFill.PerimeterFill",
+                    "title": "Via.PieceCover.PerimeterCover",
                     "color": "#f83a22b8",
                     "textcolor": "white",
                     "type": "sidecar"
                 },
                 {
-                    "title": "Via.PieceFill.StraightenFill",
+                    "title": "Via.PieceCover.StraightenCover",
                     "color": "#f83a22b8",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -56640,17 +56640,17 @@
                 "textcolor": "white"
             },
             {
-                "title": "Via.AreaFill.BoustroFill",
+                "title": "Via.AreaCover.BoustroCover",
                 "color": "#f83a22b8",
                 "textcolor": "white"
             },
             {
-                "title": "Via.AreaFill.Overview",
+                "title": "Via.AreaCover.Overview",
                 "color": "#f83a22b8",
                 "textcolor": "white"
             },
             {
-                "title": "Via.AreaFill.SimplifyAreaShape",
+                "title": "Via.AreaCover.SimplifyAreaShape",
                 "color": "#ffffffff",
                 "textcolor": "#000000ff"
             },
@@ -56665,12 +56665,12 @@
                 "textcolor": "white"
             },
             {
-                "title": "Via.PieceFill.PerimeterFill",
+                "title": "Via.PieceCover.PerimeterCover",
                 "color": "#f83a22b8",
                 "textcolor": "white"
             },
             {
-                "title": "Via.PieceFill.StraightenFill",
+                "title": "Via.PieceCover.StraightenCover",
                 "color": "#f83a22b8",
                 "textcolor": "white"
             },
@@ -58310,13 +58310,13 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Via.AreaFill.BagUpArtithmetic",
+                    "title": "Via.AreaCover.BagUpArtithmetic",
                     "color": "#f83a22b8",
                     "textcolor": "white",
                     "type": "sidecar"
                 },
                 {
-                    "title": "Via.AreaFill.Overview",
+                    "title": "Via.AreaCover.Overview",
                     "color": "#f83a22b8",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -58359,12 +58359,12 @@
                 "textcolor": "#ffffffff"
             },
             {
-                "title": "Via.AreaFill.BagUpArtithmetic",
+                "title": "Via.AreaCover.BagUpArtithmetic",
                 "color": "#f83a22b8",
                 "textcolor": "white"
             },
             {
-                "title": "Via.AreaFill.Overview",
+                "title": "Via.AreaCover.Overview",
                 "color": "#f83a22b8",
                 "textcolor": "white"
             },
@@ -58493,7 +58493,7 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Via.AreaFill.TriangleFill",
+                    "title": "Via.AreaCover.TriangleCover",
                     "color": "#f83a22b8",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -58542,7 +58542,7 @@
                 "textcolor": "#000000ff"
             },
             {
-                "title": "Via.AreaFill.TriangleFill",
+                "title": "Via.AreaCover.TriangleCover",
                 "color": "#f83a22b8",
                 "textcolor": "white"
             },
@@ -58577,7 +58577,7 @@
             "lastUpdated": 1692978839614,
             "tags": [
                 {
-                    "title": "Via.AreaFill.BoustroFill",
+                    "title": "Via.AreaCover.BoustroCover",
                     "color": "#f83a22b8",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -58612,7 +58612,7 @@
         "extension": "jpg",
         "tags": [
             {
-                "title": "Via.AreaFill.BoustroFill",
+                "title": "Via.AreaCover.BoustroCover",
                 "color": "#f83a22b8",
                 "textcolor": "white"
             },
@@ -59044,7 +59044,7 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Via.AreaFill.TriangleFill",
+                    "title": "Via.AreaCover.TriangleCover",
                     "color": "#f83a22b8",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -59093,7 +59093,7 @@
                 "textcolor": "white"
             },
             {
-                "title": "Via.AreaFill.TriangleFill",
+                "title": "Via.AreaCover.TriangleCover",
                 "color": "#f83a22b8",
                 "textcolor": "white"
             },
@@ -59534,7 +59534,7 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Land.Block.FillBlock",
+                    "title": "Land.Block.CoverBlock",
                     "color": "#008000ff",
                     "textcolor": "#ffffffff",
                     "type": "sidecar"
@@ -59578,7 +59578,7 @@
                 "textcolor": "#000000ff"
             },
             {
-                "title": "Land.Block.FillBlock",
+                "title": "Land.Block.CoverBlock",
                 "color": "#008000ff",
                 "textcolor": "#ffffffff"
             },
@@ -59619,13 +59619,13 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Via.AreaFill.CircleFill.SemicircleFill",
+                    "title": "Via.AreaCover.CircleCover.SemicircleCover",
                     "color": "#f83a22b8",
                     "textcolor": "white",
                     "type": "sidecar"
                 },
                 {
-                    "title": "Via.AreaFill.TriangleFill",
+                    "title": "Via.AreaCover.TriangleCover",
                     "color": "#f83a22b8",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -59677,12 +59677,12 @@
                 "textcolor": "#ffffffff"
             },
             {
-                "title": "Via.AreaFill.CircleFill.SemicircleFill",
+                "title": "Via.AreaCover.CircleCover.SemicircleCover",
                 "color": "#f83a22b8",
                 "textcolor": "white"
             },
             {
-                "title": "Via.AreaFill.TriangleFill",
+                "title": "Via.AreaCover.TriangleCover",
                 "color": "#f83a22b8",
                 "textcolor": "white"
             },
@@ -59854,7 +59854,7 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Via.PieceFill.AreaFill",
+                    "title": "Via.PieceCover.AreaCover",
                     "color": "#f83a22b8",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -59907,7 +59907,7 @@
                 "textcolor": "white"
             },
             {
-                "title": "Via.PieceFill.AreaFill",
+                "title": "Via.PieceCover.AreaCover",
                 "color": "#f83a22b8",
                 "textcolor": "white"
             },
@@ -60096,7 +60096,7 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Via.AreaFill.TriangleFill",
+                    "title": "Via.AreaCover.TriangleCover",
                     "color": "#f83a22b8",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -60146,7 +60146,7 @@
                 "textcolor": "#ffffffff"
             },
             {
-                "title": "Via.AreaFill.TriangleFill",
+                "title": "Via.AreaCover.TriangleCover",
                 "color": "#f83a22b8",
                 "textcolor": "white"
             },
@@ -60301,7 +60301,7 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Via.AreaFill.TriangleFill",
+                    "title": "Via.AreaCover.TriangleCover",
                     "color": "#f83a22b8",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -60357,7 +60357,7 @@
                 "textcolor": "#ffffffff"
             },
             {
-                "title": "Via.AreaFill.TriangleFill",
+                "title": "Via.AreaCover.TriangleCover",
                 "color": "#f83a22b8",
                 "textcolor": "white"
             },
@@ -60921,7 +60921,7 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Via.AreaFill.TriangleFill",
+                    "title": "Via.AreaCover.TriangleCover",
                     "color": "#f83a22b8",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -60966,7 +60966,7 @@
                 "textcolor": "#000000ff"
             },
             {
-                "title": "Via.AreaFill.TriangleFill",
+                "title": "Via.AreaCover.TriangleCover",
                 "color": "#f83a22b8",
                 "textcolor": "white"
             },
@@ -62514,7 +62514,7 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Via.ObstacleFill.ObstacleClusterFill",
+                    "title": "Via.ObstacleCover.ObstacleClusterCover",
                     "color": "#f83a22b8",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -62547,7 +62547,7 @@
                 "textcolor": "#ffffffff"
             },
             {
-                "title": "Via.ObstacleFill.ObstacleClusterFill",
+                "title": "Via.ObstacleCover.ObstacleClusterCover",
                 "color": "#f83a22b8",
                 "textcolor": "white"
             },
@@ -62613,13 +62613,13 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Via.AreaFill.SquareFill",
+                    "title": "Via.AreaCover.SquareCover",
                     "color": "#f83a22b8",
                     "textcolor": "white",
                     "type": "sidecar"
                 },
                 {
-                    "title": "Via.PieceFill.PocketFill",
+                    "title": "Via.PieceCover.PocketCover",
                     "color": "#f83a22b8",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -62672,12 +62672,12 @@
                 "textcolor": "#000000ff"
             },
             {
-                "title": "Via.AreaFill.SquareFill",
+                "title": "Via.AreaCover.SquareCover",
                 "color": "#f83a22b8",
                 "textcolor": "white"
             },
             {
-                "title": "Via.PieceFill.PocketFill",
+                "title": "Via.PieceCover.PocketCover",
                 "color": "#f83a22b8",
                 "textcolor": "white"
             },
@@ -62755,7 +62755,7 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Via.AreaFill.TriangleFill",
+                    "title": "Via.AreaCover.TriangleCover",
                     "color": "#f83a22b8",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -62866,7 +62866,7 @@
                 "textcolor": "#000000ff"
             },
             {
-                "title": "Via.AreaFill.TriangleFill",
+                "title": "Via.AreaCover.TriangleCover",
                 "color": "#f83a22b8",
                 "textcolor": "white"
             },
@@ -63570,25 +63570,25 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Via.AreaFill.AreaBoundary.BoundaryLine",
+                    "title": "Via.AreaCover.AreaBoundary.BoundaryLine",
                     "color": "#ffffffff",
                     "textcolor": "#000000ff",
                     "type": "sidecar"
                 },
                 {
-                    "title": "Via.AreaFill.CircleFill",
+                    "title": "Via.AreaCover.CircleCover",
                     "color": "#f83a22b8",
                     "textcolor": "white",
                     "type": "sidecar"
                 },
                 {
-                    "title": "Via.AreaFill.CircleFill.SemicircleFill",
+                    "title": "Via.AreaCover.CircleCover.SemicircleCover",
                     "color": "#f83a22b8",
                     "textcolor": "white",
                     "type": "sidecar"
                 },
                 {
-                    "title": "Via.AreaFill.Overview",
+                    "title": "Via.AreaCover.Overview",
                     "color": "#f83a22b8",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -63648,22 +63648,22 @@
                 "textcolor": "white"
             },
             {
-                "title": "Via.AreaFill.AreaBoundary.BoundaryLine",
+                "title": "Via.AreaCover.AreaBoundary.BoundaryLine",
                 "color": "#ffffffff",
                 "textcolor": "#000000ff"
             },
             {
-                "title": "Via.AreaFill.CircleFill",
+                "title": "Via.AreaCover.CircleCover",
                 "color": "#f83a22b8",
                 "textcolor": "white"
             },
             {
-                "title": "Via.AreaFill.CircleFill.SemicircleFill",
+                "title": "Via.AreaCover.CircleCover.SemicircleCover",
                 "color": "#f83a22b8",
                 "textcolor": "white"
             },
             {
-                "title": "Via.AreaFill.Overview",
+                "title": "Via.AreaCover.Overview",
                 "color": "#f83a22b8",
                 "textcolor": "white"
             },
@@ -64422,7 +64422,7 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Via.AreaFill.TriangleFill",
+                    "title": "Via.AreaCover.TriangleCover",
                     "color": "#f83a22b8",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -64472,7 +64472,7 @@
                 "textcolor": "white"
             },
             {
-                "title": "Via.AreaFill.TriangleFill",
+                "title": "Via.AreaCover.TriangleCover",
                 "color": "#f83a22b8",
                 "textcolor": "white"
             },
@@ -64524,7 +64524,7 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Via.AreaFill.Overview",
+                    "title": "Via.AreaCover.Overview",
                     "color": "#f83a22b8",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -64593,7 +64593,7 @@
                 "textcolor": "#000000ff"
             },
             {
-                "title": "Via.AreaFill.Overview",
+                "title": "Via.AreaCover.Overview",
                 "color": "#f83a22b8",
                 "textcolor": "white"
             },
@@ -64920,13 +64920,13 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Via.AreaFill.AreaBoundary.SideBoundary",
+                    "title": "Via.AreaCover.AreaBoundary.SideBoundary",
                     "color": "#ffffffff",
                     "textcolor": "#000000ff",
                     "type": "sidecar"
                 },
                 {
-                    "title": "Via.AreaFill.AreaDefinition",
+                    "title": "Via.AreaCover.AreaDefinition",
                     "color": "#ffffffff",
                     "textcolor": "#000000ff",
                     "type": "sidecar"
@@ -64970,12 +64970,12 @@
                 "textcolor": "#000000ff"
             },
             {
-                "title": "Via.AreaFill.AreaBoundary.SideBoundary",
+                "title": "Via.AreaCover.AreaBoundary.SideBoundary",
                 "color": "#ffffffff",
                 "textcolor": "#000000ff"
             },
             {
-                "title": "Via.AreaFill.AreaDefinition",
+                "title": "Via.AreaCover.AreaDefinition",
                 "color": "#ffffffff",
                 "textcolor": "#000000ff"
             },
@@ -65293,7 +65293,7 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Via.AreaFill.BagUpArtithmetic",
+                    "title": "Via.AreaCover.BagUpArtithmetic",
                     "color": "#ffffffff",
                     "textcolor": "#000000ff",
                     "type": "sidecar"
@@ -65393,7 +65393,7 @@
                 "textcolor": "#000000ff"
             },
             {
-                "title": "Via.AreaFill.BagUpArtithmetic",
+                "title": "Via.AreaCover.BagUpArtithmetic",
                 "color": "#ffffffff",
                 "textcolor": "#000000ff"
             },
@@ -65566,7 +65566,7 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Via.PieceFill.PerimeterFill",
+                    "title": "Via.PieceCover.PerimeterCover",
                     "color": "#f83a22b8",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -65631,7 +65631,7 @@
                 "textcolor": "white"
             },
             {
-                "title": "Via.PieceFill.PerimeterFill",
+                "title": "Via.PieceCover.PerimeterCover",
                 "color": "#f83a22b8",
                 "textcolor": "white"
             },
@@ -66037,7 +66037,7 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Via.ObstacleFill.ObstacleClusterFill",
+                    "title": "Via.ObstacleCover.ObstacleClusterCover",
                     "color": "#f83a22b8",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -66095,7 +66095,7 @@
                 "textcolor": "#000000ff"
             },
             {
-                "title": "Via.ObstacleFill.ObstacleClusterFill",
+                "title": "Via.ObstacleCover.ObstacleClusterCover",
                 "color": "#f83a22b8",
                 "textcolor": "white"
             },
@@ -71974,7 +71974,7 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Via.ViaSequence.AreaFillPhrase.Overview",
+                    "title": "Via.ViaSequence.AreaCoverPhrase.Overview",
                     "color": "#f83a22b8",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -72006,7 +72006,7 @@
                 "textcolor": "white"
             },
             {
-                "title": "Via.ViaSequence.AreaFillPhrase.Overview",
+                "title": "Via.ViaSequence.AreaCoverPhrase.Overview",
                 "color": "#f83a22b8",
                 "textcolor": "white"
             },
@@ -72117,7 +72117,7 @@
             "lastUpdated": 1692983159781,
             "tags": [
                 {
-                    "title": "Via.AreaFill.PenroseFill",
+                    "title": "Via.AreaCover.PenroseCover",
                     "color": "#f83a22b8",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -72140,7 +72140,7 @@
         "extension": "jpg",
         "tags": [
             {
-                "title": "Via.AreaFill.PenroseFill",
+                "title": "Via.AreaCover.PenroseCover",
                 "color": "#f83a22b8",
                 "textcolor": "white"
             },
@@ -73319,7 +73319,7 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Via.AreaFill.AreaBoundary.BoundaryLine",
+                    "title": "Via.AreaCover.AreaBoundary.BoundaryLine",
                     "color": "#f83a22b8",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -73337,7 +73337,7 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Via.PieceFill.StraightenFill",
+                    "title": "Via.PieceCover.StraightenCover",
                     "color": "#f83a22b8",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -73349,7 +73349,7 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Via.AreaFill.Overview",
+                    "title": "Via.AreaCover.Overview",
                     "color": "#f83a22b8",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -73401,7 +73401,7 @@
                 "textcolor": "white"
             },
             {
-                "title": "Via.AreaFill.AreaBoundary.BoundaryLine",
+                "title": "Via.AreaCover.AreaBoundary.BoundaryLine",
                 "color": "#f83a22b8",
                 "textcolor": "white"
             },
@@ -73416,7 +73416,7 @@
                 "textcolor": "#ffffffff"
             },
             {
-                "title": "Via.PieceFill.StraightenFill",
+                "title": "Via.PieceCover.StraightenCover",
                 "color": "#f83a22b8",
                 "textcolor": "white"
             },
@@ -73426,7 +73426,7 @@
                 "textcolor": "white"
             },
             {
-                "title": "Via.AreaFill.Overview",
+                "title": "Via.AreaCover.Overview",
                 "color": "#f83a22b8",
                 "textcolor": "white"
             },
@@ -73591,7 +73591,7 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Via.AreaFill.TriangleFill",
+                    "title": "Via.AreaCover.TriangleCover",
                     "color": "#f83a22b8",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -73672,7 +73672,7 @@
                 "textcolor": "#000000ff"
             },
             {
-                "title": "Via.AreaFill.TriangleFill",
+                "title": "Via.AreaCover.TriangleCover",
                 "color": "#f83a22b8",
                 "textcolor": "white"
             },
@@ -74101,19 +74101,19 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Via.AreaFill.CircleFill.SemicircleFill",
+                    "title": "Via.AreaCover.CircleCover.SemicircleCover",
                     "color": "#f83a22b8",
                     "textcolor": "white",
                     "type": "sidecar"
                 },
                 {
-                    "title": "Via.AreaFill.CircleFill",
+                    "title": "Via.AreaCover.CircleCover",
                     "color": "#f83a22b8",
                     "textcolor": "white",
                     "type": "sidecar"
                 },
                 {
-                    "title": "Via.AreaFill.TriangleFill",
+                    "title": "Via.AreaCover.TriangleCover",
                     "color": "#f83a22b8",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -74125,7 +74125,7 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Via.AreaFill.CircleFill.CircleSegmentFill",
+                    "title": "Via.AreaCover.CircleCover.CircleSegmentCover",
                     "color": "#f83a22b8",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -74161,7 +74161,7 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Via.AreaFill.PenroseFill",
+                    "title": "Via.AreaCover.PenroseCover",
                     "color": "#f83a22b8",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -74189,17 +74189,17 @@
                 "textcolor": "#000000ff"
             },
             {
-                "title": "Via.AreaFill.CircleFill.SemicircleFill",
+                "title": "Via.AreaCover.CircleCover.SemicircleCover",
                 "color": "#f83a22b8",
                 "textcolor": "white"
             },
             {
-                "title": "Via.AreaFill.CircleFill",
+                "title": "Via.AreaCover.CircleCover",
                 "color": "#f83a22b8",
                 "textcolor": "white"
             },
             {
-                "title": "Via.AreaFill.TriangleFill",
+                "title": "Via.AreaCover.TriangleCover",
                 "color": "#f83a22b8",
                 "textcolor": "white"
             },
@@ -74209,7 +74209,7 @@
                 "textcolor": "white"
             },
             {
-                "title": "Via.AreaFill.CircleFill.CircleSegmentFill",
+                "title": "Via.AreaCover.CircleCover.CircleSegmentCover",
                 "color": "#f83a22b8",
                 "textcolor": "white"
             },
@@ -74239,7 +74239,7 @@
                 "textcolor": "white"
             },
             {
-                "title": "Via.AreaFill.PenroseFill",
+                "title": "Via.AreaCover.PenroseCover",
                 "color": "#f83a22b8",
                 "textcolor": "white"
             },
@@ -76361,7 +76361,7 @@
                 {
                     "color": "#f83a22b8",
                     "textcolor": "white",
-                    "title": "Via.AreaFill.CircleFill.SemicircleFill",
+                    "title": "Via.AreaCover.CircleCover.SemicircleCover",
                     "type": "sidecar"
                 }
             ]
@@ -76419,7 +76419,7 @@
                 "textcolor": "#000000ff"
             },
             {
-                "title": "Via.AreaFill.CircleFill.SemicircleFill",
+                "title": "Via.AreaCover.CircleCover.SemicircleCover",
                 "color": "#f83a22b8",
                 "textcolor": "white"
             }

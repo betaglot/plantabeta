@@ -11,8 +11,8 @@
 
 ## Used in 
 
-- [TypewriterFill]()
-- [BackFill]()
+- [TypewriterCover]()
+- [BackCover]()
 - [ZigzagLine]()
 
 

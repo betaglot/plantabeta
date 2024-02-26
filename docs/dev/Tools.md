@@ -47,6 +47,8 @@
 
 - Suspension System
 
+### <moto>BasketWall</moto>
+
 ### <moto>BagFrame</moto>
 
 ::: details Images

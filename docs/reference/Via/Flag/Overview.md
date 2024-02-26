@@ -46,7 +46,7 @@ FlagRip
 
 ## FlagError
 
-Flag is considered a WastedFlag when it can't be useful for any future [Filling].
+Flag is considered a WastedFlag when it can't be useful for any future [Covering].
 
 - Hidden in a [SlashPile]
 

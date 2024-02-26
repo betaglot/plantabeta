@@ -73,4 +73,4 @@ Makes the Voronoi Cells more
 
 - Decompose a plane polygon into Triangles
 
-[TriangleFill](/reference/Via/AreaFill/TriangleFill)
+[TriangleCover](/reference/Via/AreaCover/TriangleCover)

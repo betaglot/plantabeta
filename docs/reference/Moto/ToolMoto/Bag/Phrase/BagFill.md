@@ -4,6 +4,6 @@
 
 :::
 
-# 🟠 <moto>BagFill</moto>
+# 🟠 <moto>BagCover</moto>
 
-> filling your bags with seedlings
+> Covering your bags with seedlings

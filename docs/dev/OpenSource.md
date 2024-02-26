@@ -51,3 +51,6 @@ Modify Patagonia Gear into Kit, Sleeves, Gauntlet
 ## Quansight
 
 - Python
+
+## [Real Python](/dev/RealPython)
+

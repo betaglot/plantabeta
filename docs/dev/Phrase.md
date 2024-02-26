@@ -42,7 +42,7 @@ MotoCards are positioned along a ViaCurve
 
 ### CardShape
 
-MotoCards are positioned in a FillChart
+MotoCards are positioned in a CoverChart
 
 ## Rhythm
 

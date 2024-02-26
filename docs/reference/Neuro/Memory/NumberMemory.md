@@ -16,9 +16,9 @@
 
 Write down the numbers
 
-## FillLoop number
+## CoverLoop number
 
-How many FillLoops have you already completed?
+How many CoverLoops have you already completed?
 
 ## TreeRatio
 
@@ -26,7 +26,7 @@ How many FillLoops have you already completed?
 
 ## TreeCount
 
-How many trees did you BagFill?
+How many trees did you BagCover?
 
 ## GiveBundle
 

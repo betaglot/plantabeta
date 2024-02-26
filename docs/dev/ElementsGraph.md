@@ -534,7 +534,7 @@ Value is added along the chain of steps. PlantingPhrase
 
 MicrositeValidation Threshold MinimumValue
 - SoilProperties
-- ObstacleFill
+- ObstacleCover
 - 
 
 Microsite gets more and more valuable until the hole is closed

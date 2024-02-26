@@ -49,7 +49,7 @@ In mathematics a *line* must be straight, while a *curve* can be straight or not
 
 LineStart
 
-> The path that a Planter follows when filling an Eco.
+> The path that a Planter follows when Covering an Eco.
 
 ## [AroundCurve](/reference/Via/ViaCurve/AroundLine)
 

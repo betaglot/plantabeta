@@ -9,7 +9,7 @@
 ## Design
 
 - Spacing between objects in an enclosed space
-    - [AreaFill]()
+    - [AreaCover]()
 - Easiest Via through obstacles
 - [DistanceEstimation](/reference/Neuro/Estimation/DistanceEstimation)
 
@@ -84,12 +84,12 @@ Planting while your body is moving away or towards hole
 
 - Lawn Mower uses Via
     - https://www.wired.com/2012/08/optimal-lawn-mowing-patterns/
-    - [BoustroFill]() 
+    - [BoustroCover]() 
 
 ## Farming
 
 - StockHandling
 - HayBale TreeBox  
-- [BoustroFill]()
+- [BoustroCover]()
 
 

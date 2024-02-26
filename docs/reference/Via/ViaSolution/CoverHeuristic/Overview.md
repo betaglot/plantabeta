@@ -4,4 +4,4 @@
 
 :::
 
-# 🔺 <via>Fill Heuristic Overview</via>
+# 🔺 <via>Cover Heuristic Overview</via>

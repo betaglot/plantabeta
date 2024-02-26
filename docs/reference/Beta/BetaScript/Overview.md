@@ -1,5 +1,10 @@
 ::: details 🛠 <dev>DesignBox</dev> 
 
+## Recursive beta optimization
+- Optimization Sequence
+- TopDown
+- Choose the optimal beta, then optimize how you execute the beta
+
 
 Plantbeta is the website
 

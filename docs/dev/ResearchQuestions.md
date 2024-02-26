@@ -80,7 +80,7 @@
 - How does reforestation work in France?
 - What is the unit of measure of sunlight which is reflected of earth's surface?
 - How much of the sun's energy is absorbed by one square kilometer of boreal forest?
-- Are tree plantations ever fill-planted any plant type other than trees, eg. bush, shrub, flower, moss? 
+- Are tree plantations ever Cover-planted any plant type other than trees, eg. bush, shrub, flower, moss? 
 - How many planting companies have uniforms?
 - How many Planter uniforms are composed of more items that just shirts? 
 - Is it possible to get a bulk deal on hiking boots?

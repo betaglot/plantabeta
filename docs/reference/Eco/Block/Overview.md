@@ -2,7 +2,7 @@
 
 <h2>PageTags</h2>
 
-- "Eco.Block.FillBlock"
+- "Eco.Block.CoverBlock"
 - "Eco.Block.OverflowBlock"
 - "Eco.Block.Overview"
 - "Eco.Block.Road"
