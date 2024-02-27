@@ -1,10 +1,12 @@
 ::: details 🛠 <dev>DesignBox</dev> 
 
+- Obstruction
 - Subsurface Obstacle
-- LandLibrary_LandObstacle_SubsurfaceObstacle_MicrositeSound												
+- LandLibrary_LandObstacle_SubsurfaceObstacle_MicrositeSound
 - LandLibrary_LandObstacle_SubsurfaceObstacle_RedRot												
-- LandLibrary_LandObstacle_SubsurfaceObstacle_RockHit																			<h2>PageTags</h2>
+- LandLibrary_LandObstacle_SubsurfaceObstacle_RockHit
 
+<h2>PageTags</h2>
 - "Eco.Obstacle.FallenTree"
 - "Eco.Obstacle.FallenTree.FallenConiferObstacle"
 - "Eco.Obstacle.FallenTree.FallenDeciduousObstacle"

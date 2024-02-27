@@ -13,6 +13,11 @@
 
 ![ViaEmoji](/Via/Via_Emoji.png)
 
+## Element Problem
+- 
+## Element Theorem
+- 
+
 ## Questions about the Element
 
 ::: details Questions 1
@@ -52,7 +57,7 @@ Answer 3
 
 ## Related 🟩<eco>EcoElements</eco>
 - 
-## Related <neuro>NeuroElements</neuro>
+## Related 💜<neuro>NeuroElements</neuro>
 
 
 ## Related 🟠<moto>MotoElements</moto>

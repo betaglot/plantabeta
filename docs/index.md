@@ -28,9 +28,9 @@ features:
     details: You can learn to use Plantbeta and see almost immediate gains in productivity and lower maintenance costs.
   - icon: 🛠️
     title: Under Construction 
-    details: Last Updated February 26, 2024. This website is a prototype, not the final product
+    details: Last Updated February 27, 2024. This website is a prototype, not the final product
     link: /dev/DevOverview
   - icon: ⏳
-    title: 69 days
+    title: 68 days
     details: until May 5 start day!
 ---

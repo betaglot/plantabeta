@@ -567,7 +567,7 @@ function sidebarReference() {
                 { text: '🔻 <via>Overview</via>', link: '/reference/Via/ViaGeometry/ViaPoint/Overview' },
                 { text: '🔻 <via>CenterPoint</via>', link: '/reference/Via/ViaGeometry/ViaPoint/CenterPoint' },
                 { text: '🔻 <via>InflectionPoint</via>', link: '/reference/Via/ViaGeometry/ViaPoint/InflectionPoint' },
-                { text: '🔻 <via>Midpoint</via>', link: '/reference/Via/ViaGeometry/ViaPoint/Midpoint' },
+                { text: '🔻 <via>Midpoint</via>', link: '/reference/Via/ViaGeometry/ViaPoint/MidPoint' },
                 { text: '🔻 <via>ReferencePoint</via>', link: '/reference/Via/ViaGeometry/ViaPoint/ReferencePoint' },
                 { text: '🔻 <via>ReflectionPoint</via>', link: '/reference/Via/ViaGeometry/ViaPoint/ReflectionPoint' },
                 { text: '🔻 <via>TargetPoint</via>', link: '/reference/Via/ViaGeometry/ViaPoint/TargetPoint' },
@@ -575,24 +575,24 @@ function sidebarReference() {
             },
             {
               text: '🔻 <via>ViaCurve</via>', collapsed: true, items: [
-                { text: '🔻 <via>ViaCurve Overview</via>', link: '/reference/Via/ViaCurve/Overview' },
-                { text: '🔻 <via>AroundCurve</via>', link: '/reference/Via/ViaCurve/AroundCurve' },
-                { text: '🔻 <via>GhostLine</via>', link: '/reference/Via/ViaCurve/GhostLine' },
-                { text: '🔻 <via>ParallelCurve</via>', link: '/reference/Via/ViaCurve/ParalleCurvee' },
-                { text: '🔻 <via>PerimeterCurve</via>', link: '/reference/Via/ViaCurve/PerimeterCurve' },
-                { text: '🔻 <via>SpiralCurve</via>', link: '/reference/Via/ViaCurve/SpiralCurve' },
-                { text: '🔻 <via>TurnAroundCurve</via>', link: '/reference/Via/ViaCurve/TurnAroundCurve' },
-                { text: '🔻 <via>ZigzagCurve</via>', link: '/reference/Via/ViaCurve/ZigzagCurve' },
+                { text: '🔻 <via>ViaCurve Overview</via>', link: '/reference/Via/ViaGeometry/ViaCurve/Overview' },
+                { text: '🔻 <via>AroundCurve</via>', link: '/reference/Via/ViaGeometry/ViaCurve/CircumventCurve' },
+                { text: '🔻 <via>GhostLine</via>', link: '/reference/Via/ViaGeometry/ViaCurve/GhostLine' },
+                { text: '🔻 <via>ParallelCurve</via>', link: '/reference/Via/ViaGeometry/ViaCurve/ParallelCurve' },
+                { text: '🔻 <via>PerimeterCurve</via>', link: '/reference/Via/ViaGeometry/ViaCurve/PerimeterCurve' },
+                { text: '🔻 <via>SpiralCurve</via>', link: '/reference/Via/ViaGeometry/ViaCurve/SpiralCurve' },
+                { text: '🔻 <via>TurnAroundCurve</via>', link: '/reference/Via/ViaGeometry/ViaCurve/TurnAroundCurve' },
+                { text: '🔻 <via>ZigzagCurve</via>', link: '/reference/Via/ViaGeometry/ViaCurve/ZigzagCurve' },
               ]
             },
             {
               text: '🔻 <via>ViaSpace</via>', collapsed: true, items: [
-                { text: '🔻 <via>Spacing Overview</via>', link: '/reference/Via/ViaSpace/Overview' },
-                { text: '🔻 <via>MaximumSpacing</via>', link: '/reference/Via/ViaSpace/MaximumSpacing' },
-                { text: '🔻 <via>MinimumSpacing</via>', link: '/reference/Via/ViaSpace/MinimumSpacing' },
-                { text: '🔻 <via>OptimalSpacing</via>', link: '/reference/Via/ViaSpace/OptimalSpacing' },
-                { text: '🔻 <via>ElasticSpacing</via>', link: '/reference/Via/ViaSpace/ElasticSpacing' },
-                { text: '🔻 <via>SpacingOnSlope</via>', link: '/reference/Via/ViaSpace/SpacingOnSlope' },
+                { text: '🔻 <via>Spacing Overview</via>', link: '/reference/Via/ViaGeometry/ViaSpace/Overview' },
+                { text: '🔻 <via>MaximumSpacing</via>', link: '/reference/Via/ViaGeometry/ViaSpace/MaximumSpacing' },
+                { text: '🔻 <via>MinimumSpacing</via>', link: '/reference/Via/ViaGeometry/ViaSpace/MinimumSpacing' },
+                { text: '🔻 <via>OptimalSpacing</via>', link: '/reference/Via/ViaGeometry/ViaSpace/OptimalSpacing' },
+                { text: '🔻 <via>ElasticSpacing</via>', link: '/reference/Via/ViaGeometry/ViaSpace/ElasticSpacing' },
+                { text: '🔻 <via>SpacingOnSlope</via>', link: '/reference/Via/ViaGeometry/ViaSpace/SpacingOnSlope' },
               ]
             },
             {

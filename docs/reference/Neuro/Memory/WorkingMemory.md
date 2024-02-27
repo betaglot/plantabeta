@@ -7,6 +7,11 @@
 # <neuro>Working Memory</neuro>
 
 ![NeuroEmoji](/Neuro/Neuro_Emoji.png)
+## Element Problem
+- 
+## Element Theorem
+- 
+
 ## Questions about the Element
 
 ::: details Questions 1

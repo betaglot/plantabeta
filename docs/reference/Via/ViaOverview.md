@@ -3,6 +3,18 @@
 
 ## ViaProbability
 
+## ViaComposition
+
+- Compose ViaCurves, ViaSpaces and ViaPoints together to Cover Land
+- Fit the ViaElements together 
+- ViaCurves within ViaSpaces
+    - Walking through a Space between Trees.
+    - EcoSpace is everywhere, ViaSpace are only the Spaces which are not obstructed.
+- ViaPoints within ViaCurves
+
+
+
+- ViaSelection
 - Cutting through residual is Via 
 - Route start and finish are RouteProblems
     - Route Surfaces are RouteSolutions 

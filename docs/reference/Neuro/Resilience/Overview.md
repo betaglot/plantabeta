@@ -26,6 +26,11 @@ You don't need to do it alone
 
 <iframe width="789" height="444" src="https://www.youtube.com/embed/nDLb8_wgX50" title="David Goggins: How to Build Immense Inner Strength" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
+## Element Problem
+- 
+## Element Theorem
+- 
+
 ## Questions about the Element
 
 ::: details Questions 1

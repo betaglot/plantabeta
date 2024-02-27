@@ -4,10 +4,16 @@
 
 :::
 
-# 🔻 <via>CircumventLine</via>
-
+# 🔻 <via>CircumventCurve</via>
+> to avoid something by going around it
 
 ![ViaEmoji](/Via/Via_Emoji.png)
+
+
+## Element Problem
+- 
+## Element Theorem
+- 
 
 ## Questions about the Element
 
@@ -48,8 +54,7 @@ Answer 3
 
 ## Related 🟩<eco>EcoElements</eco>
 - 
-## Related <neuro>NeuroElements</neuro>
-
+## Related 💜<neuro>NeuroElements</neuro>
 
 ## Related 🟠<moto>MotoElements</moto>
 - 

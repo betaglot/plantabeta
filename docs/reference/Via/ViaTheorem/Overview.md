@@ -5,4 +5,6 @@ RouteSolution is composable
 
 :::
 
-# 🔻 <via>Via Solution Overview</via>
+# 🔻 <via>Via Theorem Overview</via>
+
+> a statement about Via that can be shown to be true

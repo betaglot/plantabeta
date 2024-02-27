@@ -16,6 +16,13 @@
 
 ## Add PaperText to <dev>DesignBox</dev> 
 
-## Get Assistant for $20/hour
-- Dictation
-- Just to keep me on track
+
+## Add Definition to each element
+
+- Cambridge Dictionary
+- '>' 
+- Not capitalized
+
+```md
+> brief single line definition  
+```

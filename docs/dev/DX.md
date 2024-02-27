@@ -204,6 +204,7 @@ Just get as much information out of your head and into data structures, so that 
 ## Influencers
 
 ### Claude Shannon
+- Encode
 - Prediction
 - Translating Abstract to Concrete
     - Boolean to Bit
@@ -216,8 +217,61 @@ Plantbeta is the language and the
 
 Beta represents moto, but Moto is the move itself. Moto doesn't care about how it's being represented.
 
+### Arnold Sw
+
+Every rep
+
+<neuro> “I looked forward to another 500 pounds of squat. I looked forward to doing more and more curls until my arms would fall off. Why? Because I knew that every rep that I did and every set that I did and more weights that I lifted, I get one step closer to turning that **vision** into reality.”</neuro>
+
 ### Sherlock Holmes
 - Prediction
+
+### Michael Ventris
+
+- Linear B
+- Decode
+- Try out all the different possibilities
+
+### Temple Grandin 
+
+- Think in pictures
+- Simulate
+
+### Sam Harris
+
+- Increase the Noticings per minute to observe how you're thinking or using beta. 
+- Be prepared to be comfortable when you have no idea how you're doing something
+- Open yourself 
+
+### Aang
+
+#### Generosity
+- Open Source
+
+#### Kindness
+- Prevent injury
+- Positive 
+- Never trying to make user feel bad
+
+
+
+
+### Beethoven
+
+- Structure
+- Need to express inner drive
+
+### Vincent Van Gogh
+
+- Give it a try. Try out an idea.
+- It's good enough
+- That looks about right
+- Approximate the less important parts
+
+### Richard Feynman
+
+- Fun
+
 
 ### Alan Turing
 - Computation
@@ -228,14 +282,23 @@ Beta represents moto, but Moto is the move itself. Moto doesn't care about how i
 
 #### Andy Galpin
 
+- Recovery
+
+
 #### Alia Crum
 
-#### 
+- Stress
+    - FeelOverwhelmed by the amount of elements and words that need to be input. 
+
+#### David Goggins
+
+> Do the thing you don't want to do
 
 
 ### Bauhaus
 
 - Bauhaus Manifesto
+- Distilled shapes. Less is more
 
 
 ## Model Element
@@ -245,3 +308,14 @@ Make a list of DX research models for each module
 Moto, Neuro, Eco, Via, Beta
 
 To make prototyping easier. So you don't need to worry about the content
+
+```py
+
+researchModels = {
+    'Via': BoustroCover,
+    'Neuro':
+    'Moto':
+    'Beta':
+    'Eco':
+}
+```

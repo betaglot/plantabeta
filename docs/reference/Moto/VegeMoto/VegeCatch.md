@@ -19,6 +19,11 @@
 
 The Vege can be moving towards you or the vege can be stationary while you move towards the vege
 
+## Element Problem
+- 
+## Element Theorem
+- 
+
 ## Questions about the Element
 
 ## RequiredTools

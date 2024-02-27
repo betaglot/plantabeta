@@ -21,7 +21,7 @@
 
 # <via>Via Space</via>
 
-> The Space that a Planter moves through while following a ViaCurve. 
+> the Space that you move through while following a ViaCurve 
 
 ## Via Space Properties
 
