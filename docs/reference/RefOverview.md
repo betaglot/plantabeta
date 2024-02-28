@@ -1,5 +1,18 @@
 ::: details 🛠 <dev>DesignBox</dev> 
 
+## DevNotes
+- 
+
+## DevState
+
+`TagsToHeaders: False`
+
+`PaperPhotoToDesignBox: False`
+
+The Reference Section is like a dictionary
+
+The Reference section is not going to be used as much as the tutorials. To use the ref section you need to already know what you're looking for. Known unknowns. When using the Guide, user is full of unknown unknowns, they don't know anything about planting.
+
 Reference overview should have a table of contents for the whole module
 
 Module overview 

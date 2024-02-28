@@ -1,5 +1,18 @@
 ::: details 🛠 <dev>DesignBox</dev> 
 
+## DevNotes
+- 
+
+## DevState
+
+`TagsToHeaders: False`
+
+`PaperPhotoToDesignBox: False`
+
+ViaSpace is usually directly above ViaSurface
+
+Most stable ViaSpace is aligned with Normal
+
 <h2>PageTags</h2>
 
 - "Via.ViaGeometry.ViaSpace.Overview"

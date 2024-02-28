@@ -1,5 +1,14 @@
 ::: details 🛠 <dev>DesignBox</dev> 
 
+## DevNotes
+- 
+
+## DevState
+
+`TagsToHeaders: False`
+
+`PaperPhotoToDesignBox: False`
+
 - AlsoKnownAs(SpadeThrow)
 WWE Slam move
 - Step up then drop down

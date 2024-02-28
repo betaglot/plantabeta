@@ -1,5 +1,14 @@
 ::: details 🛠 <dev>DesignBox</dev> 
 
+## DevNotes
+- 
+
+## DevState
+
+`TagsToHeaders: False`
+
+`PaperPhotoToDesignBox: False`
+
 - Push through like a CarWash with the tentacles
 
 <h2>PageTags</h2>

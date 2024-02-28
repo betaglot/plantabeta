@@ -1,5 +1,14 @@
 ::: details 🛠 <dev>DesignBox</dev> 
 
+## DevNotes
+- 
+
+## DevState
+
+`TagsToHeaders: False`
+
+`PaperPhotoToDesignBox: False`
+
 Video of climbing with planting bags on 
 
 Plantbeta climbs while planting

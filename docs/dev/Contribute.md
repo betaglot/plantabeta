@@ -1,5 +1,14 @@
 ::: details 🛠 <dev>DesignBox</dev> 
 
+## DevNotes
+- 
+
+## DevState
+
+`TagsToHeaders: False`
+
+`PaperPhotoToDesignBox: False`
+
 - Give to the planters that will come after you. We will always have forests to cultivate.
 <h2>PageTags</h2>
 

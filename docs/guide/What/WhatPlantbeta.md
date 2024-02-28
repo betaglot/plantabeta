@@ -1,5 +1,14 @@
 ::: details 🛠 <dev>DesignBox</dev> 
 
+## DevNotes
+- 
+
+## DevState
+
+`TagsToHeaders: False`
+
+`PaperPhotoToDesignBox: False`
+
 <h2>PageTags</h2>
 
 - "Guide.GettingStarted"
@@ -225,6 +234,15 @@ Plantbeta is divided into 6 sections:
 
 ::: details 🛠 <dev>DesignBox</dev> 
 
+## DevNotes
+- 
+
+## DevState
+
+`TagsToHeaders: False`
+
+`PaperPhotoToDesignBox: False`
+
 
 
 :::
@@ -318,7 +336,7 @@ The users of Plantbeta can take multiple paths through Plantbeta depending on th
 
 ### [Potential Planter](/guide/Who/PotentialPlanter)
 
-1. Browse sidebars to familarize yourself with the general categories of Plantbeta's [Reference Section](/reference/ReferenceOverview).
+1. Browse sidebars to familarize yourself with the general categories of Plantbeta's [Reference Section](/reference/RefOverview).
 2. Look at the [Gallery](/reference/gallery/Overview)
 
 ### [Novice Planter](/guide/Who/NovicePlanter)

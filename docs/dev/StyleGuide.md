@@ -38,6 +38,8 @@ https://developers.google.com/style
 - Freestyle Skiing
 - Alpinism
 
+## Plantbeta.org
+
 ## Polysemy
 
 ::: warning 
@@ -185,9 +187,34 @@ When is it useful for emojis to be monochrome outlines?
 
 ## <dev>DesignBox</dev> 
 
+Add current state of development to desgin box
+
+Boolean
+
+## DevState
+
+`TagsToHeaders: False`
+
+`PaperPhotoToDesignBox: False`
+
+Delete tags once converted to headers. They are stored in a JSON 
+
+
+
+
+
+
 ```md
 ::: details 🛠 <dev>DesignBox</dev> 
 
+## DevNotes
+- 
+
+## DevState
+
+`TagsToHeaders: False`
+
+`PaperPhotoToDesignBox: False`
 
 
 :::
@@ -197,7 +224,14 @@ When is it useful for emojis to be monochrome outlines?
 ```md
 ::: details 🛠 <dev>DesignBox</dev> 
 
+## DevNotes
+- 
 
+## DevState
+
+`TagsToHeaders: False`
+
+`PaperPhotoToDesignBox: False`
 
 :::
 
@@ -210,7 +244,14 @@ When is it useful for emojis to be monochrome outlines?
 ```md
 ::: details 🛠 <dev>DesignBox</dev> 
 
+## DevNotes
+- 
 
+## DevState
+
+`TagsToHeaders: False`
+
+`PaperPhotoToDesignBox: False`
 
 :::
 
@@ -223,11 +264,18 @@ When is it useful for emojis to be monochrome outlines?
 ```md
 ::: details 🛠 <dev>DesignBox</dev> 
 
+## DevNotes
+- 
 
+## DevState
+
+`TagsToHeaders: False`
+
+`PaperPhotoToDesignBox: False`
 
 :::
 
-# � <via>Via</via>
+# 🔻 <via>Via</via>
 
 ```
 
@@ -236,7 +284,14 @@ When is it useful for emojis to be monochrome outlines?
 ```md
 ::: details 🛠 <dev>DesignBox</dev> 
 
+## DevNotes
+- 
 
+## DevState
+
+`TagsToHeaders: False`
+
+`PaperPhotoToDesignBox: False`
 
 :::
 
@@ -248,7 +303,14 @@ When is it useful for emojis to be monochrome outlines?
 ```md
 ::: details 🛠 <dev>DesignBox</dev> 
 
+## DevNotes
+- 
 
+## DevState
+
+`TagsToHeaders: False`
+
+`PaperPhotoToDesignBox: False`
 
 :::
 
@@ -261,7 +323,14 @@ When is it useful for emojis to be monochrome outlines?
 ```md
 ::: details 🛠 <dev>DesignBox</dev> 
 
+## DevNotes
+- 
 
+## DevState
+
+`TagsToHeaders: False`
+
+`PaperPhotoToDesignBox: False`
 
 :::
 
@@ -281,3 +350,8 @@ When is it useful for emojis to be monochrome outlines?
 💜
 ```
 
+## Links
+
+How many links is too many?
+
+Every paragraph should have a link

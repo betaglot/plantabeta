@@ -1,5 +1,14 @@
 ::: details 🛠 <dev>DesignBox</dev> 
 
+## DevNotes
+- 
+
+## DevState
+
+`TagsToHeaders: False`
+
+`PaperPhotoToDesignBox: False`
+
 ![PaperPhoto](/PaperPhoto/0048.jpg)
 ![PaperPhoto](/PaperPhoto/0049.jpg)
 ![PaperPhoto](/PaperPhoto/0052.jpg)

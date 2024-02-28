@@ -1,5 +1,14 @@
 ::: details 🛠 <dev>DesignBox</dev> 
 
+## DevNotes
+- 
+
+## DevState
+
+`TagsToHeaders: False`
+
+`PaperPhotoToDesignBox: False`
+
 - Planter_Brain_Homeostasis_BodyTemperature_Hyperthermia_HotWeather_FastLand_
 - Planter_Brain_Homeostasis_BodyTemperature_Hyperthermia_HotWeather_HeatStroke_
 - Planter_Brain_Homeostasis_BodyTemperature_Hypothermia_ColdWeather_Clothing_ClothingLayer_BaseLayer_

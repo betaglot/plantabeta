@@ -1,5 +1,14 @@
 ::: details 🛠 <dev>DesignBox</dev> 
 
+## DevNotes
+- 
+
+## DevState
+
+`TagsToHeaders: False`
+
+`PaperPhotoToDesignBox: False`
+
 ## Danger
 > It is easy to get lost in neuroscience, but always try to minimize the amount of technical knowledge and only present neuroscience in the context of Plantbeta. Every section needs to directly link back to a planter's experience and not a person's experience in general.
 

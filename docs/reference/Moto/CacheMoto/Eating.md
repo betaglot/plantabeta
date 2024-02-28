@@ -1,5 +1,14 @@
 ::: details 🛠 <dev>DesignBox</dev> 
 
+## DevNotes
+- 
+
+## DevState
+
+`TagsToHeaders: False`
+
+`PaperPhotoToDesignBox: False`
+
 ## Pesticides
 - I have never seen anyone wash their hands before eating.
 - Gloves are porous so the pesticides still get in

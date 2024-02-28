@@ -35,8 +35,9 @@ export default defineConfig({
 
     sidebar: {
       '/guide/': sidebarGuide(),
+      '/examples/': sidebarExamples(),
+      '/tutorial/': sidebarTutorial(),
       '/reference/': sidebarReference(),
-      '/tutorials/': sidebarTutorials(),
       '/dev/': sidebarDevelopment(),
     }
   }
@@ -69,7 +70,7 @@ function sidebarDevelopment() {
     { text: '<dev>Pylanter</dev>', link: '/dev/Pylanter' },
     { text: '<dev>Research Questions</dev>', link: '/dev/ResearchQuestions' },
     { text: '<dev>Roadmap</dev>', link: '/dev/Roadmap' },
-    { text: '🔷 <dev>Sequence</dev>', link: '/dev/Sequence' },
+    { text: '<dev>Sequence</dev>', link: '/dev/Sequence' },
     { text: '<dev>Simulation</dev>', link: '/dev/Simulation' },
     { text: '<dev>SocialMedia</dev>', link: '/dev/SocialMedia' },
     { text: '<dev>StyleGuide</dev>', link: '/dev/StyleGuide' },
@@ -89,14 +90,19 @@ function nav() {
       activeMatch: '/guide/'
     },
     {
-      text: 'Reference',
-      link: '/reference/ReferenceOverview',
-      activeMatch: '/reference/'
+      text: 'Examples',
+      link: '/examples/Overview',
+      activeMatch: '/examples/'
     },
     {
-      text: 'Tutorials',
-      link: '/tutorials/TutorialsOverview',
-      activeMatch: '/tutorials/'
+      text: 'Tutorial',
+      link: '/tutorial/TutorialOverview',
+      activeMatch: '/tutorial/'
+    },
+    {
+      text: 'Reference',
+      link: '/reference/RefOverview',
+      activeMatch: '/reference/'
     },
     {
       text: '🛠',
@@ -148,7 +154,7 @@ function sidebarGuide() {
 // 
 function sidebarReference() {
   return [
-    { text: '<strong>Reference Overview</strong>', link: '/reference/ReferenceOverview' },
+    { text: '<strong>Reference Overview</strong>', link: '/reference/RefOverview' },
     // #Beta
     {
       text: '🔷 <beta>Beta</beta>', collapsed: true, items: [
@@ -781,14 +787,20 @@ function sidebarReference() {
 }
 
 // #Tutorial
-function sidebarTutorials() {
+function sidebarTutorial() {
   return [
-    { text: 'Tutorial Overview', link: '/tutorials/Overview' },
-    { text: 'Video Tutorials Overview', link: '/tutorials/VideoTutorialsOverview' },
-    { text: 'Labelling', link: '/tutorials/Test_LabelDiagram' },
-    { text: 'Matching', link: '/tutorials/Test_Matching' },
-    { text: 'MultipleChoice', link: '/tutorials/Test_MultipleChoice' },
-    { text: 'Sequencing', link: '/tutorials/Test_Sequencing' },
+    { text: 'Tutorial Overview', link: '/tutorial/Overview' },
+    { text: 'Video Tutorials Overview', link: '/tutorial/VideoTutorialsOverview' },
+    { text: 'Labelling', link: '/tutorial/Test_LabelDiagram' },
+    { text: 'Matching', link: '/tutorial/Test_Matching' },
+    { text: 'MultipleChoice', link: '/tutorial/Test_MultipleChoice' },
+    { text: 'Sequencing', link: '/tutorial/Test_Sequencing' },
   ]
 
+}
+
+function sidebarExamples() {
+  return [
+    { text: 'Examples Overview', link: '/examples/Overview' },
+  ]
 }

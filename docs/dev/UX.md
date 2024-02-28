@@ -1,5 +1,14 @@
 ::: details 🛠 <dev>DesignBox</dev> 
 
+## DevNotes
+- 
+
+## DevState
+
+`TagsToHeaders: False`
+
+`PaperPhotoToDesignBox: False`
+
 ## ToReduceConfusion
 
 <h2>PageTags</h2>
@@ -90,3 +99,25 @@ FAQ
 ## Website Navigation
 
 Path Redundancy
+
+
+## Differentiate(Ref, Guide, Tutorial)
+
+Right now im making the reference, not a tutorial.
+
+The reference is What not how
+
+Tutorials have examples
+
+Reference isn't used as much as tutorials 
+
+What's the difference between Guide and Tutorial?
+
+
+In the guide you learn what a `list` is while in the ref you can see all the list methods and properties.
+
+Ref has less pedagogy than Tutorial or Guide.
+
+Tutorials have user input. Tutorials test users
+
+The Ref is like the API section of Vue.org

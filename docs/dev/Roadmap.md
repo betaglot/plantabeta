@@ -1,6 +1,17 @@
 ::: details 🛠 <dev>DesignBox</dev> 
 
+## DevNotes
+- 
 
+## DevState
+
+`TagsToHeaders: False`
+
+`PaperPhotoToDesignBox: False`
+
+
+
+---
 
 :::
 
@@ -24,6 +35,12 @@ One purpose of Plantbeta is to act as a resource for designers and researchers.
 
 To [Reforest](https://www.lasy.gov.pl/en/information/news/a-forest-is-much-more-than-a-plantation) the Eco destroyed by wildfires in Canada and across the world.
 
+
+## Reference
+
+## Guide
+
+## Tutorial
 
 
 

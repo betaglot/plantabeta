@@ -1,5 +1,14 @@
 ::: details 🛠 <dev>DesignBox</dev> 
 
+## DevNotes
+- 
+
+## DevState
+
+`TagsToHeaders: False`
+
+`PaperPhotoToDesignBox: False`
+
 <h2>PageTags</h2>
 
 - "Via.ViaComposition.Overview"
@@ -48,3 +57,17 @@ Define the Land that you're Covering
 Problem is 
 
 Solution is where a Planter moves
+
+## Define ViaProblem
+
+## Solve ViaProblem
+
+### 
+
+### ViaSelection
+
+Select the ViaTheorem to solve the ViaProblem.
+
+Via selection
+
+NormalForce vector is a parameter in area suitability computation Selection

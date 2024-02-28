@@ -1,5 +1,14 @@
 ::: details 🛠 <dev>DesignBox</dev> 
 
+## DevNotes
+- 
+
+## DevState
+
+`TagsToHeaders: False`
+
+`PaperPhotoToDesignBox: False`
+
 ## ToReduceConfusion
 
 ## ActualName()
@@ -111,6 +120,15 @@ Homonyms = {
 ```md
 ::: details 🛠 <dev>DesignBox</dev> 
 
+## DevNotes
+- 
+
+## DevState
+
+`TagsToHeaders: False`
+
+`PaperPhotoToDesignBox: False`
+
 
 
 :::
@@ -166,6 +184,15 @@ for Paper in PaperPhotoList:
 
 ::: details 🛠 <dev>DesignBox</dev> 
 
+## DevNotes
+- 
+
+## DevState
+
+`TagsToHeaders: False`
+
+`PaperPhotoToDesignBox: False`
+
 
 
 :::
@@ -199,6 +226,32 @@ Just get as much information out of your head and into data structures, so that 
 
 <moto>Keep going!!!</moto>
 
+### Differentiate(Beta, Plantbeta) 
+Plantbeta is a language
+
+BetaScript a beta script. Plantbeta creates the properties of HandMove, like how many fingers you have. Beta can't change the number of fingers. A Hand is part of Plantbeta, a hand is controlled with Beta
+
+- Beta is only during runtime
+
+- To put it simply, coding lets you create a program, while scripting lets you control a program that was created with coding
+
+EcoElement
+
+ViaElement
+
+MotoElement
+
+NeuroElement
+
+All Elements are objects
+
+Objects have methods to solve problems and properties with theoretical value
+
+a data construct that provides a description of something that may be used by a computer (such as a processor, a peripheral, a document, or a data set) and defines its status, its method of operation, and how it interacts with other objects.
+
+> "the interface treats most items, including cells, graphs, and buttons, as objects"
+
+
 
 
 ## Influencers
@@ -217,7 +270,7 @@ Plantbeta is the language and the
 
 Beta represents moto, but Moto is the move itself. Moto doesn't care about how it's being represented.
 
-### Arnold Sw
+### Arnold Schwarzenegger
 
 Every rep
 

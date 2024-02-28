@@ -1,5 +1,14 @@
 ::: details 🛠 <dev>DesignBox</dev> 
 
+## DevNotes
+- 
+
+## DevState
+
+`TagsToHeaders: False`
+
+`PaperPhotoToDesignBox: False`
+
 - Obstruction
 - Subsurface Obstacle
 - LandLibrary_LandObstacle_SubsurfaceObstacle_MicrositeSound

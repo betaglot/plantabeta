@@ -1,5 +1,14 @@
 ::: details 🛠 <dev>DesignBox</dev> 
 
+## DevNotes
+- 
+
+## DevState
+
+`TagsToHeaders: False`
+
+`PaperPhotoToDesignBox: False`
+
 - https://gwlucastrig.github.io/TinfourDocs/DelaunayIntro/index.html
 
 ![DelaunayOptimality](/Via/Voronoi/DelaunayOptimality.png)

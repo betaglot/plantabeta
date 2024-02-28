@@ -7,30 +7,27 @@ titleTemplate: Plantbeta
 hero: 
   name: Plantbeta
   text: 
-  tagline: Plant Trees More Efficiently! 
+  tagline: The examples, guides, and reference you need—whether you're planting in the mountains of British Columbia, the wetlands of the Canadian Shield, or anywhere in between. Take advantage of these resources to develop your ability to plant faster and with higher quality.
   # image:
   #   src: /BetaLogo.png
   #   alt: BetaLogo
   actions:
     - theme: brand
-      text: Get Started
+      text: I'm new to Plantbeta
       link: /guide/What/WhatPlantbeta
-    - text: 🟩🔻🔷💜🟠
-      link: /reference/ReferenceOverview
-    - text: Tutorial
-      link: /tutorials/TutorialsOverview
-    - text: Develop
-      link: /dev/DevOverview
+
 
 features:
-  - icon: 💵
-    title:  Plantbeta is a system that lets you work more quickly
-    details: You can learn to use Plantbeta and see almost immediate gains in productivity and lower maintenance costs.
+  - icon: 🌲
+    title:  Examples
+    details: Accelerate your planter development by example.
+    link: /examples/Overview
   - icon: 🛠️
-    title: Under Construction 
-    details: Last Updated February 27, 2024. This website is a prototype, not the final product
+    title: Last Updated February 28, 2024.
+    details: 67 days until May 5, 2024
     link: /dev/DevOverview
-  - icon: ⏳
-    title: 68 days
-    details: until May 5 start day!
+  - icon: 🔍
+    title: Browse the Reference Section
+    details: Find information about Plantbeta's Elements you're using
+    link: /reference/RefOverview
 ---

@@ -1,5 +1,14 @@
 ::: details 🛠 <dev>DesignBox</dev> 
 
+## DevNotes
+- 
+
+## DevState
+
+`TagsToHeaders: False`
+
+`PaperPhotoToDesignBox: False`
+
 > Beta is what you actually do implement
 > Elements are just options possibilities
 > Beta requires decision 
@@ -134,6 +143,15 @@ This each line are analog pairs. The equal signs = denotes where Climbing and Pl
 :::
 
 ::: details 🛠 <dev>DesignBox</dev> 
+
+## DevNotes
+- 
+
+## DevState
+
+`TagsToHeaders: False`
+
+`PaperPhotoToDesignBox: False`
 
 :::
 
