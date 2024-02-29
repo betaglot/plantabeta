@@ -130,7 +130,7 @@ The goal of vambrace is to keep the hand clean and warm. There isn't a need to p
 
 ### Lightyear Notepad
 
-### Warmth
+### <eco>Warmth</eco>
 - Vambrace triplet brochure conductive metal sheets to wear on core then transfer to forearms
     - Extra weight for more heat during cold weather
 - Gaunlet which extends up forarm for protection and warmth.
@@ -169,7 +169,15 @@ Ideally there would be a Flagger on each Vambrace
 Cordura or Kevlar
 - https://www.testextextile.com/evaluating-the-abrasion-resistance-of-different-fabric-types/#Most_Abrasion-Resistant_Synthetic_Fibers
 
-## <moto>Cache Bag</moto>
+## <moto>Kit</moto>
+
+Bag cover cape
+
+Wear the bag 
+
+Attach through gromets along border
+
+Store the insulation 
 
 ## <moto>Water Volume</moto>
 
@@ -192,7 +200,23 @@ SuitParts = [
 
 ```
 
-### Cape
+### <eco>Bellow Backpack</eco>
+
+Bellow which blows air into shirt for evaporative cooling during summer
+
+Compress during BendOver
+
+Open during stand up
+
+Exchangeable Air Filter on Intake Valve
+
+One Way Valve
+
+### <eco>Cape</eco>
+
+Cape which can be stowed in shoulder straps
+
+
 
 Aang Cape
 
@@ -206,6 +230,18 @@ Spacesuit
 
 #### Suit of Armor
 - Samurai Armor
+- Gauntlet
+- Greave
+- Shoulder
+- Neck
+- Epaulets
+- Boot
+
+Padding in the joints
+
+Mail at joints
+
+
 
 #### SuitSwap out parts to adapt to Eco and Moto.
 
@@ -225,6 +261,11 @@ Treepod
 
 ## <eco>Bundle Wrapper</eco>
 
-Waxed paper bundle wrappers
+
+Reusable Waxed paper bundle wrappers
 
 Ask bee people about waxed paper
+
+Closed by Tabs
+
+Weave Tab

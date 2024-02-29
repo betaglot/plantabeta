@@ -23,8 +23,8 @@ features:
     details: Accelerate your planter development by example.
     link: /examples/Overview
   - icon: 🛠️
-    title: Last Updated February 28, 2024.
-    details: 67 days until May 5, 2024
+    title: Last Updated February 29, 2024.
+    details: 66 days until May 5, 2024
     link: /dev/DevOverview
   - icon: 🔍
     title: Browse the Reference Section

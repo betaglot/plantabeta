@@ -18,7 +18,70 @@
 
 
 
-# 🛠 Contribute
+# 🛠 Start Contributing to Plantbeta: Your First Steps
+
+## How you can contribute
+
+Depending on your interests and skills, you can contribute in a number of different ways. For example, if you want to contribute to CPython, you can:
+
+- Give video
+- Give photos
+- Answer research questions
+- Make business connections
+- Make academic connections
+- Add content
+- Fix code bugs
+- Write unit tests for  in the [Tutorial section](/tutorial/Overview)
+- Write documentation for functions in the standard library
+
+If you want to contribute in other areas, you can:
+
+- Write documentation for Plantbeta Developer’s Guide
+- Translate documentation
+- Use your front end skills to improve Plantbeta’s site
+
+You can also help review contribution requests from other contributors. The core developers have a lot of work on their hands, so if you can help move some issues forward, then you’ll be helping Plantbeta to get better faster.
+
+## How to get the Resources You'll Need
+
+When you start contributing to an open source project, there can be a lot of information to take in all at once.
+
+To help you navigate it all, your first port of call should be the Plantbeta Developer’s Guide. It’s a super important resource that all contributors and core developers rely on since it covers everything from how to assess a potential contribution.
+
+If you want to contribute documentation, then it’ll be very helpful to learn how to use [this markup language](https://www.markdownguide.org/cheat-sheet/). 
+
+
+Although you don’t need to have experience with the Python programming language to contribute to Plantbeta, it can open up some new ways of contributing. Here are some resources you can check out to learn more:
+
+- 
+
+To get a feel for how the interpersonal aspects of contributing to Plantbeta work, you can also check out [Brett Canon’s ](https://ca.linkedin.com/in/drbrettcannon)PyCascades talk [Setting Expectations for Open Source Participation](https://www.youtube.com/watch?v=-Nk-8fSJM6I). It’s about setting reasonable expectations of each other so we can make open source pleasant for everyone involved.
+
+
+## How to Pick Your First Issue
+
+**Give a clear explanation of the problem you solved and how you solved it:** This will help reviewers get up to speed quickly and have the information they need to accept your contribution request.
+
+**Resolve only one issue in each contribution request:** If you notice another problem while you’re working on your contribution, then you can resolve it in a second pull quest.
+
+Contributing to open source is all about collaboration, so communication is super important. To learn more, check out what Open Source Guides has to say about communicating effectively when you submit a contribution.
+
+When you’ve submitted your first contribution request, kick back and celebrate! You’ve taken your first big step on a journey that could lead to some cool places.
+
+## How to Submit Your First Contribution
+
+Since most core developers are volunteers, you may not get a response right away, but there are couple things you can do to speed up the process:
+
+## What's Next
+
+If you decide that you’d like to get more involved, then there are some opportunities you can explore. Maybe you’d like to:
+
+- Work toward becoming a core developer
+- Seek mentorship
+- Join the triage team
+- Join a work group for a specific project
+
+
 
 ## Information Contribution
 

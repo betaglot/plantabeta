@@ -29,7 +29,7 @@
 https://developers.google.com/style
 
 
-## Be Canadian
+## <dev>Be Canadian</dev>
 
 - Hockey
 - Kindness
@@ -40,7 +40,7 @@ https://developers.google.com/style
 
 ## Plantbeta.org
 
-## Polysemy
+## <dev>Semantics</dev>
 
 ::: warning 
 
@@ -65,7 +65,7 @@ Plant= Put a Tree in the Ground
 
 Plant= Organism from Plantae
 
-## LevelOfDetail
+## <dev>LevelOfDetail</dev>
 
 No Acronyms
 
@@ -73,7 +73,25 @@ Write complete sentences.
 
 Point form is lazy. Think about all the coding documentation which is not easy to read. Too formal, too concise, humans don't process language like computers, point of view matters.
 
-## "a" not "the"
+
+
+## <dev>ElementName</dev>
+
+- PascaleCase
+
+## <dev>Bilingual</dev>
+
+ French,  English
+
+## <dev>Grammar</dev>
+
+### You, not them
+
+Second person instead of 3rd person
+
+### Article
+
+#### "a" not "the"
 
 > The definite article "the" is used before a noun to indicate that the identity of the noun is known to the reader. The indefinite article "a, an" is used before a noun that is general or when its identity is not known.
 
@@ -83,32 +101,20 @@ Good
 Bad
 > Obstacle within the Hole
 
-## You, not them
+### Tense
 
-Second person instead of 3rd person
-
-## ElementName
-
-- PascaleCase
-
-## Bilingual
-
- French,  English
-
-## Tense
-
-## Remember Punctuation!
+### Remember Punctuation!
 
 Periods
 
-## Gender Neutral Pronouns
+### Gender Neutral Pronouns
 
-## Person
+### Person
 
 https://developers.google.com/style/person
 
 
-## Color
+## <dev>Color</dev>
 
 ### <moto>MotoColor</moto>
 ```ts
@@ -340,7 +346,7 @@ Delete tags once converted to headers. They are stored in a JSON
 
 
 
-## BetaSymbols
+## Beta<dev></dev>Symbols
 
 ```md
 🔷
@@ -350,8 +356,18 @@ Delete tags once converted to headers. They are stored in a JSON
 💜
 ```
 
-## Links
+## <dev>Links</dev>
 
 How many links is too many?
 
 Every paragraph should have a link
+
+## <dev>ElementPageDesign</dev>
+
+### <dev>Definition</dev>
+
+Bold the most important of an element definition
+
+### <dev>RelatedElements</dev>
+
+### 
