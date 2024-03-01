@@ -82,7 +82,7 @@ function sidebarDevelopment() {
   ]
 }
 
-// # Nav
+// #Nav
 function nav() {
   return [
     {
@@ -160,12 +160,12 @@ function sidebarReference() {
     {
       text: '🔷 <beta>Beta</beta>', collapsed: true, items: [
         { text: '🔷 <beta>What is Beta?</beta>', link: '/reference/Beta/WhatBeta' },
-        { text: '🔷 <beta>Beta Examples</beta>', link: '/reference/Beta/BetaExamples' },
+        { text: '🔷 <beta>BetaLingo</beta>', link: '/reference/Beta/BetaLingo/Overview' },
         { text: '🔷 <beta>BetaAction</beta>', link: '/reference/Beta/BetaAction' },
         { text: '🔷 <beta>BetaDiagram</beta>', link: '/reference/Beta/BetaDiagram' },
         {
-          text: '🔷 <beta>BetaScript</beta>', collapsed: true, items: [
-            { text: '🔷 <beta>Overview</beta>', link: '/reference/Beta/BetaScript/Overview' },
+          text: '🔷 <beta>BetaCode</beta>', collapsed: true, items: [
+            { text: '🔷 <beta>Overview</beta>', link: '/reference/Beta/BetaCode/Overview' },
           ]
         },
         {

@@ -67,7 +67,7 @@ json = {
         "Beta.BetaQuestion",
         "Beta.Overview"
     ],
-    "Beta/BetaScript.md": [],
+    "Beta/BetaCode.md": [],
     "dev/Academia.md": [],
     "dev/AfternoonTask.md": [],
     "dev/art/Overview.md": [

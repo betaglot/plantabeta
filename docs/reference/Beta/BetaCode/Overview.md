@@ -33,13 +33,13 @@ Beta is the syntax
 
 Motos are the objects and functions
 
-BetaScript can be used in Planting and Climbing, on Plantbeta.com and Klimbeta.com
+BetaCode can be used in Planting and Climbing, on Plantbeta.com and Klimbeta.com
 
 :::
 
-# 🔷 <beta>BetaScript</beta>
+# 🔷 <beta>BetaCode</beta>
 
-BetaScript is the Python package which is used to formally write Beta.
+BetaCode is the Python package which is used to formally write Beta.
 
 ## Philosophy
 ::: tip Bjarne Stroustrup to Lex Fridman

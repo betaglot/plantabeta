@@ -40,6 +40,7 @@ https://developers.google.com/style
 
 ## Plantbeta.org
 
+
 ## <dev>Semantics</dev>
 
 ::: warning 
@@ -64,6 +65,16 @@ Plant= Put a Tree in the Ground
 - Put
 
 Plant= Organism from Plantae
+
+### Keep it G
+
+Euphemisms undermine Plantbeta and open it up to unnecessary criticism
+- CreamyLand
+- "Cream out"
+- "Slut in"
+- 
+
+
 
 ## <dev>LevelOfDetail</dev>
 
@@ -197,7 +208,7 @@ Add current state of development to desgin box
 
 Boolean
 
-## DevState
+### DevState
 
 `TagsToHeaders: False`
 
@@ -225,7 +236,7 @@ Delete tags once converted to headers. They are stored in a JSON
 
 :::
 ```
-### <dev>DesignBox</dev>.Moto
+### 🟠 <dev>DesignBox</dev><moto>.Moto</moto>
 
 ```md
 ::: details 🛠 <dev>DesignBox</dev> 
@@ -245,7 +256,7 @@ Delete tags once converted to headers. They are stored in a JSON
 
 ```
 
-### <dev>DesignBox</dev>.Eco
+### 🟩 <dev>DesignBox</dev><eco>.Eco</eco>
 
 ```md
 ::: details 🛠 <dev>DesignBox</dev> 
@@ -265,7 +276,7 @@ Delete tags once converted to headers. They are stored in a JSON
 
 ```
 
-### <dev>DesignBox</dev>.Via
+### 🔻 <dev>DesignBox</dev><via>.Via</via>
 
 ```md
 ::: details 🛠 <dev>DesignBox</dev> 
@@ -285,7 +296,7 @@ Delete tags once converted to headers. They are stored in a JSON
 
 ```
 
-### <dev>DesignBox</dev>.Neuro
+### 💜 <dev>DesignBox</dev><neuro>.Neuro</neuro>
 
 ```md
 ::: details 🛠 <dev>DesignBox</dev> 
@@ -304,7 +315,7 @@ Delete tags once converted to headers. They are stored in a JSON
 # 💜 <neuro>Neuro</neuro>
 ```
 
-### <dev>DesignBox</dev>.Beta
+### 🔷 <dev>DesignBox</dev><beta>.Beta</beta>
 
 ```md
 ::: details 🛠 <dev>DesignBox</dev> 
@@ -324,7 +335,7 @@ Delete tags once converted to headers. They are stored in a JSON
 
 ```
 
-### <dev>DesignBox.Dev</dev>
+### 🛠 <dev>DesignBox.Dev</dev>
 
 ```md
 ::: details 🛠 <dev>DesignBox</dev> 

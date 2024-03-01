@@ -229,7 +229,7 @@ Just get as much information out of your head and into data structures, so that 
 ### Differentiate(Beta, Plantbeta) 
 Plantbeta is a language
 
-BetaScript a beta script. Plantbeta creates the properties of HandMove, like how many fingers you have. Beta can't change the number of fingers. A Hand is part of Plantbeta, a hand is controlled with Beta
+BetaCode a beta script. Plantbeta creates the properties of HandMove, like how many fingers you have. Beta can't change the number of fingers. A Hand is part of Plantbeta, a hand is controlled with Beta
 
 - Beta is only during runtime
 

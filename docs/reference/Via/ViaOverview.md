@@ -1,8 +1,9 @@
 ::: details 🛠 <dev>DesignBox</dev> 
 
 ## DevNotes
-- 
-
+- Via is close to Surveying
+    - Trangulation
+- Via is Mathematics
 ## DevState
 
 `TagsToHeaders: False`
@@ -115,7 +116,7 @@
 ## <via>Via Symbol</via> 🔻
 > Red Triangle
 
-## What is a Via?
+## What is a Via ?
 
 > the interface between Moto and Eco
 
@@ -128,8 +129,6 @@
 > "Move by way of the land"
 
 > "Use that branch to pull yourself up"
-
-
 
 
 - Computational Geometry
@@ -157,63 +156,15 @@ Also Known As "Land Management"
 
 
 
-## AreaChunking
 
-Polygon Decomposition
 
-- [Triangulated irregular network](https://www.researchgate.net/publication/23541399_Algorithms_for_Visibility_Computation_on_Terrains_A_Survey)
-
-## Routing Scope
+## Via Scope
 
 PieceCover > AreaCover > ViaCurve > ViaPoint
 
-## GeneralDirection
-
-## CoverPattern
-
-> A *CoverPattern* is the ViaCurve, 
-
-> A Series of Points
-
-### Complete Coverage Path
-
-> Complete coverage path planning algorithm, on the other hand, is used in application where an autonomous mobile robot is required to visit all the points at least once in the given environment size with known obstacles.
-
-- Vacuuming
-- Lawn Mowing
-- Mopping
-- Dish Pit
-- [Boustrophedon](https://en.wikipedia.org/wiki/Boustrophedon)
-
-![Boustrophedon](/Boustrophedon.jpg)
 
 
-Don't go over the same place more than once.
-- No Overlap
 
-- https://www.frontiersin.org/articles/10.3389/frobt.2021.624333/full
-
-- https://www.researchgate.net/figure/Complete-coverage-path-planning-in-an-unstructured-Eco_fig3_8345839
-
-## Target
-- TargetLandMark
-    - LineIn uses a TargetLandmark
-
-## ViaError
-
-- Deadwalking
-- GhostLine
-
-## CoverError
-
-### PinchedEco
-
-- FrontCoverError
-
-#### Occurs in 
-- PinchedArea
-- PinchedPiece
-- 
 
 ## $$$
 - Via Affects productivity the most because via has deadwalking and cache positioning. Via Starts and Finishes at the cache. 
