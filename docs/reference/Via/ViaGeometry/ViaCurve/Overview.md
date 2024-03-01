@@ -56,23 +56,37 @@ In mathematics a *line* must be straight, while a *curve* can be straight or not
 
 :::
 
-### Properties
 
-LineStart
+## Direction
 
-> The path that a Planter follows when Covering an Eco.
+Directions
 
-## [AroundCurve](/reference/Via/ViaCurve/AroundLine)
+## Preposition
 
-## [BeeLine](/reference/Via/ViaCurve/BeeLine)
+```py
+[
+    'Above',
+    'Across',
+    'Along',
+    'At',
+    'Behind',
+    'Below',
+    'Beside',
+    'Between',
+    'From',
+    'From',
+    'In',
+    'Into',
+    'Near',
+    'On',
+    'Onto',
+    'Over',
+    'Through',
+    'To',
+    'To',
+    'Until',
+    'Up',
+    'While',
+]
 
-## [ParallelCurve](/reference/Via/ViaCurve/ParallelLine)
-
-## [PerimeterCurve](/reference/Via/ViaCurve/PerimeterLine)
-
-## [SpiralCurve](/reference/Via/ViaCurve/SpiralLine)
-
-## [ZigzagCurve](/reference/Via/ViaCurve/ZigzagLine)
-
-
-## GeneralDirection
+```

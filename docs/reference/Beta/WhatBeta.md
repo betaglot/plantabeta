@@ -438,3 +438,29 @@ OpenHole = LookAtTarget --> SpadeProbeThrow --> SpadeThrow --> SpadeOpenHole
 - https://dictionary.cambridge.org/dictionary/english/element
 
 :::
+
+
+## BetaTime
+
+### For
+
+### Before
+
+### After
+
+### During
+
+### Until
+
+### While
+
+### From
+
+### To
+
+
+
+
+
+
+
