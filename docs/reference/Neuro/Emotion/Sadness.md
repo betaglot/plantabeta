@@ -1,7 +1,8 @@
-::: details 🛠 <dev>DesignBox</dev> 
+::: details 🛠 <dev>DesignBox</dev>
 
 ## DevNotes
-- 
+
+-
 
 ## DevState
 
@@ -9,17 +10,19 @@
 
 `PaperPhotoToDesignBox: False`
 
-
-
 :::
 
 # 💜 <neuro>Sadness </neuro>
 
 ![NeuroEmoji](/Neuro/Neuro_Emoji.png)
+
 ## Element Problem
-- 
+
+-
+
 ## Element Theorem
-- 
+
+-
 
 ## Questions about the Element
 
@@ -40,39 +43,41 @@ Answer 2
 Answer 3
 
 :::
+
 ## Element Properties
 
-- 
+-
 
 ## ElementRelationshipsGraph
 
-<iframe 
-    width="100%" 
-    height="684" 
+<iframe
+    width="100%"
+    height="684"
     frameborder="0"
     src="https://observablehq.com/embed/@d3/force-directed-graph/2?cells=chart"
 ></iframe>
 
-## Related 💜<neuro>NeuroElements</neuro> 
+## Related 💜<neuro>NeuroElements</neuro>
 
 ## Related 🟠<moto>MotoElements</moto>
-- 
+
+-
+
 ## Related 🟩<eco>EcoElements</eco>
-- 
+
+-
+
 ## Related 🔻<via>ViaElements</via>
-- 
+
+-
 
 ## Examples
 
-- Use Media donated by Planters. 
+- Use Media donated by Planters.
 
 ## See also:
 
-Links to other related NeuroElements. 
-
-- [Link]()
-- [Link]()
-- [Link]()
+Links to other related NeuroElements.
 
 ::: details External References
 
@@ -81,4 +86,3 @@ Links to other related NeuroElements.
 - Three
 
 :::
-

@@ -1,7 +1,8 @@
-::: details 🛠 <dev>DesignBox</dev> 
+::: details 🛠 <dev>DesignBox</dev>
 
 ## DevNotes
-- 
+
+-
 
 ## DevState
 
@@ -10,13 +11,12 @@
 `PaperPhotoToDesignBox: False`
 
 - Give to the planters that will come after you. We will always have forests to cultivate.
+
 <h2>PageTags</h2>
 
 - "Dev.Donation"
 - "Dev.Feedback"
 :::
-
-
 
 # 🛠 Start Contributing to Plantbeta: Your First Steps
 
@@ -48,15 +48,13 @@ When you start contributing to an open source project, there can be a lot of inf
 
 To help you navigate it all, your first port of call should be the Plantbeta Developer’s Guide. It’s a super important resource that all contributors and core developers rely on since it covers everything from how to assess a potential contribution.
 
-If you want to contribute documentation, then it’ll be very helpful to learn how to use [this markup language](https://www.markdownguide.org/cheat-sheet/). 
-
+If you want to contribute documentation, then it’ll be very helpful to learn how to use [this markup language](https://www.markdownguide.org/cheat-sheet/).
 
 Although you don’t need to have experience with the Python programming language to contribute to Plantbeta, it can open up some new ways of contributing. Here are some resources you can check out to learn more:
 
-- 
+-
 
-To get a feel for how the interpersonal aspects of contributing to Plantbeta work, you can also check out [Brett Canon’s ](https://ca.linkedin.com/in/drbrettcannon)PyCascades talk [Setting Expectations for Open Source Participation](https://www.youtube.com/watch?v=-Nk-8fSJM6I). It’s about setting reasonable expectations of each other so we can make open source pleasant for everyone involved.
-
+To get a feel for how the interpersonal aspects of contributing to Plantbeta work, you can also check out [Brett Canon’s](https://ca.linkedin.com/in/drbrettcannon)PyCascades talk [Setting Expectations for Open Source Participation](https://www.youtube.com/watch?v=-Nk-8fSJM6I). It’s about setting reasonable expectations of each other so we can make open source pleasant for everyone involved.
 
 ## How to Pick Your First Issue
 
@@ -81,16 +79,12 @@ If you decide that you’d like to get more involved, then there are some opport
 - Join the triage team
 - Join a work group for a specific project
 
-
-
 ## Information Contribution
 
 ## Video Contribution
 
-
 ## Image Contribution
 
-
 ::: tip Send an email to:
-christopheralduncan@gmail.com
+<christopheralduncan@gmail.com>
 :::

@@ -1,7 +1,8 @@
-::: details 🛠 <dev>DesignBox</dev> 
+::: details 🛠 <dev>DesignBox</dev>
 
 ## DevNotes
-- 
+
+-
 
 ## DevState
 
@@ -51,37 +52,37 @@
 - How much space does a cobbler need to repair boots?
 - What would a travelling planting boot cobbler look like?
 - Is it possible to get the data about how much each planting company plants and where?
-- How do Planters change when they migrate from Ontario to Alberta or British Columbia? 
+- How do Planters change when they migrate from Ontario to Alberta or British Columbia?
 - Is there a phone case which can be attached to planting bags?
 - How to deal with sweaty hands in waterproof gloves?
 - What languages don't have a name for tree Planter?
 - How can the graphical system of sports plays on whiteboards be used as a tool to teach planting?
 - How can planting boxes be hexagonal instead of rectangular?
 - Who is the oldest tree Planter in Canada?
-- What is the reason why Planters rarely use spades in Europe? 
+- What is the reason why Planters rarely use spades in Europe?
 - Where did the term 'screef' come from?
 - Where did the term 'duff' come from?
 - Are planting tubes more efficient than spades?
 - Globally, how many seedlings survive to their 10th year?
 - Are there countries that don't plant trees?
 - How is bamboo planted?
-- What is the median depth of a pine tree roots in optimal soil? 
+- What is the median depth of a pine tree roots in optimal soil?
 - What is the optimal soil for boreal forests?
 - Is moss planted anywhere in the world?
-- How many Planters live in motels during their season in Canada? 
+- How many Planters live in motels during their season in Canada?
 - By law,is there a first and last day of the planting season?  
 - How can bundle wrappers be made out of bioplastics?
 - How can seedling trays be constructed with bioplastics?
 - Are tree boxes recycled by every planting company?
 - How many times can an undamaged tree box be reused?
-- How much wax does it take to cover a tree box? 
+- How much wax does it take to cover a tree box?
 - How is sustainability assessed in tree planting?
 - How much more often do Planters get injured while working, compared to during freetime?
--  How can Planters be outfitted with military grade boots?
-- How does the rate in North America change throughout the year? 
+- How can Planters be outfitted with military grade boots?
+- How does the rate in North America change throughout the year?
 - Are there every any days when a tree isn't planted in Canada?
-- Are there residential Ecoscaping companies which use Canadian tree Planter tools? 
-- Do any Planters gain mass by the end of their season? 
+- Are there residential Ecoscaping companies which use Canadian tree Planter tools?
+- Do any Planters gain mass by the end of their season?
 - Do any Planters have a warm up routine for before starting their planting day?
 - How can bioplastics be used as flag?
 - How can bush camp cooks, not be sleep deprived?
@@ -89,12 +90,12 @@
 - How does reforestation work in France?
 - What is the unit of measure of sunlight which is reflected of earth's surface?
 - How much of the sun's energy is absorbed by one square kilometer of boreal forest?
-- Are tree plantations ever Cover-planted any plant type other than trees, eg. bush, shrub, flower, moss? 
+- Are tree plantations ever Cover-planted any plant type other than trees, eg. bush, shrub, flower, moss?
 - How many planting companies have uniforms?
-- How many Planter uniforms are composed of more items that just shirts? 
+- How many Planter uniforms are composed of more items that just shirts?
 - Is it possible to get a bulk deal on hiking boots?
 - What does 'breaking in boots' actually mean, ie. what spefically changes about the boot?
-- What is the most fire retardant bush in the boreal forest? 
+- What is the most fire retardant bush in the boreal forest?
 - What is the difference between a bush and a shrub?
 - Where does snow melt the slowest in a boreal forest?
 - Where does snow melt the fastest in a boreal forest?
@@ -107,4 +108,4 @@
 - Are there any 5th generation Planters in Canada?
 - Why do Planters use spades instead of hoes?
 - What is the difference between a spade and a Spade?
-- 
+-

@@ -1,7 +1,8 @@
-::: details 🛠 <dev>DesignBox</dev> 
+::: details 🛠 <dev>DesignBox</dev>
 
 ## DevNotes
-- 
+
+-
 
 ## DevState
 
@@ -86,19 +87,18 @@
 
 ## D3
 
-https://observablehq.com/@d3/force-directed-graph/2?intent=fork
+<https://observablehq.com/@d3/force-directed-graph/2?intent=fork>
 
-
-<iframe 
-    width="100%" 
-    height="684" 
+<iframe
+    width="100%"
+    height="684"
     frameborder="0"
     src="https://observablehq.com/embed/@d3/force-directed-graph/2?cells=chart"
 ></iframe>
 
 ## Element Value Change
 
-```
+```md
 Value Addition // [!code ++]
 Value Subtraction // [!code --]
 
@@ -163,7 +163,7 @@ Removes Value Addition // [!code --]
 - Location
     - TargetLocation in the Eco.
     - PotentialMicrosite
-    - 
+    -
 - Array
     - MotoPhrase
     - Set of Submotos
@@ -175,10 +175,7 @@ False value is a bunch of features that Planters don't use. The value of a stump
 
 Theorem the name of an object, while Problem is the object's values and methods.
 
-
 ### Value Exchange
-
-
 
 The value exchange of woven fiber neighbors is the tension force holding each other in place. Warp Weft. ForceExchange.
 
@@ -194,9 +191,9 @@ What does paired element get in return?
 
 Also known as a Value Stream.
 
-Value is added along a Phrase of steps. Like Bioamplification of poison in Predatory Birds 
+Value is added along a Phrase of steps. Like Bioamplification of poison in Predatory Birds
 
-- Exponential 
+- Exponential
 - [Addition of MarginalGains Infographic]
 
 ---
@@ -208,66 +205,78 @@ Value is added along a Phrase of steps. Like Bioamplification of poison in Preda
 ---
 
 **Saves Time**
+
 - FlagMoto while Walking away.
 - Use one forceful ScreefMoto instead of many weak ScreefMotos.
-- FootScreef a thin DuffLayer instead of bending over to SpadeScreef.   
+- FootScreef a thin DuffLayer instead of bending over to SpadeScreef.
 
 **Simplifies**
-- MotoShape 
-- HighFlag your LineIn to make it easier for the Planter in a neighbouring piece to see their piece boundary lines. 
+
+- MotoShape
+- HighFlag your LineIn to make it easier for the Planter in a neighbouring piece to see their piece boundary lines.
 
 **Reduces Risk**
-- SpadeProbe the soil to reduce the risk of hurting your wrist by hitting a subsurface rock. 
+
+- SpadeProbe the soil to reduce the risk of hurting your wrist by hitting a subsurface rock.
 - Reduce the risk of injury by learning how to fall properly.
 - Use ArmFlag to reduce the risk of Falling.
 
 **Connects**
+
 - AbsorbMoto allows smooth transitions between Motos.
 - Use ArmAbsorb to redirect Spade during SpadeMotos.
 
 **Reduces Effort**
+
 - Remove Clothing Layer to reduce your body's need for sweat.
-- Stick Spade in the ground when you get to the cache to avoid having to pick it up from the ground when you return to the Eco. 
+- Stick Spade in the ground when you get to the cache to avoid having to pick it up from the ground when you return to the Eco.
 
 **Avoids Hassles**
+
 - BodyRotate before BodySlot to prevent BagSnag
 - Any Snag is a hassle
 - ArmBlock to prevent getting hit with a branch in the face.
 - Adjust your bags to avoid getting abraisions on your hips.
 
 **Reduces Cost**
+
 - Flag is a cost in money terms and Planter resources too.
 
 **Increases Variety**
+
 - HandClose is more versitile than FootClose.
 
 **SensoryAppeal**
-- Not listening to music with headphones, so you can hear the properties of the soil. 
+
+- Not listening to music with headphones, so you can hear the properties of the soil.
 
 **Informs**
+
 - SpadeProbe to feel the ground instead of only using vision for MicrositeSelection.
 
 **Access**
+
 - Fold a plant out of the way of Hole.
 - Moto a branch out of the way when walking through Slash or a residual patch.
 
-
 :::
-
 
 ::: danger MotoElementValue Subtraction
 
 ---
 
 **WastesTime**
+
 - Deadwalking
 
 **Complicates**
 
 **Increase Risk**
+
 - Walking on wet logs
 
 **Disorganizes**
+
 - GhostLine
 
 **Disintegrates**
@@ -275,24 +284,29 @@ Value is added along a Phrase of steps. Like Bioamplification of poison in Preda
 **Disconnects**
 
 **Increases Effort**
+
 - Climbing over a SlashPile instead of going around it.
 
 **EmbracesHassles**
 
 **IncreasesCost**
+
 - FlagRipError so that the flag is longer than it needs to be.
 
 **Reduces Variety**
+
 - LimitedRangeOfMotion
 - Tight Clothing
 - Not planting Ambidextrously
 
 **Obscures (SensoryAppeal)**
+
 - ThickGloves so you can't feel your PlantingHand
 
 **Disinforms**
 
 **RemovesAccess**
+
 - HoleCollapse
 
 :::
@@ -303,13 +317,14 @@ MotoSelection.MotoEvaluation
         - All evaluations are judgements. See Kahneman
     - What is the most valuable move gi
     - Which move solves the current state?
+
 - Energy to move.
 - Knowing where to go
     - Via
 - Knowing how to move
     - MotoSelection
 
-- Required Tools 
+- Required Tools
     - A spade is more valuable than an extractor since it can solve more problems more efficiently. A spade solves the same problems as an extractor and can solve even more problems than an extractor.  
 
 ---
@@ -321,10 +336,12 @@ MotoSelection.MotoEvaluation
 ---
 
 **Saves Time**
+
 - Most direct Via
 - Minimium ObstacleDensity
 
 **Simplifies**
+
 - A ViaCurve is more simple than ViaShape.
 **Reduces Risk**
 
@@ -335,6 +352,7 @@ MotoSelection.MotoEvaluation
 **Connects**
 
 **Reduces Effort**
+
 - Most direct Via
 - Minimium ObstacleDensity
 
@@ -342,7 +360,7 @@ MotoSelection.MotoEvaluation
 
 **Reduces Cost**
 
-**Increases Variety** 
+**Increases Variety**
 
 **SensoryAppeal**
 
@@ -351,14 +369,13 @@ MotoSelection.MotoEvaluation
 **Increases Access**
 :::
 
-
 ::: danger ViaElementValue Subtraction
 
 ---
 
 **Wastes Time**
 
-**Complicates**      
+**Complicates**
 
 **Increase Risk**
 
@@ -374,7 +391,7 @@ MotoSelection.MotoEvaluation
 
 **Increases Cost**
 
-**Reduces Variety**    
+**Reduces Variety**
 
 **Obscures (SensoryAppeal)**
 
@@ -386,16 +403,18 @@ MotoSelection.MotoEvaluation
 
 ---
 
-### EcoElementValue 
+### EcoElementValue
+
 ::: tip EcoElementValue Addition
 
 ---
 
 **SavesTime**
+
 - ObstacleDensity
 - A Microsite is more Valuable after it has been Screefed. Unless the soil is very thin and the Screefing destroyed the Microsite.
 
-**Simplifies**      
+**Simplifies**
 
 **ReducesRisk**
 
@@ -406,6 +425,7 @@ MotoSelection.MotoEvaluation
 **Connects**
 
 **ReducesEffort**
+
 - Easy HoleMoto in CreamyEco is HighEcoValue.
 - Strenuous SlashMoto in SlashyLand is LowEcoValue.
 
@@ -413,15 +433,14 @@ MotoSelection.MotoEvaluation
 
 **ReducesCost**
 
-**Variety**    
+**Variety**
 
 **SensoryAppeal**
 
 **Informs**
 
-**Access**   
+**Access**
 :::
-
 
 ::: danger EcoElementValue Subtraction
 
@@ -429,7 +448,7 @@ MotoSelection.MotoEvaluation
 
 **Wastes Time**
 
-**Complicates**      
+**Complicates**
 
 **Increase Risk**
 
@@ -445,7 +464,7 @@ MotoSelection.MotoEvaluation
 
 **Increases Cost**
 
-**Reduces Variety**    
+**Reduces Variety**
 
 **Obscures (SensoryAppeal)**
 
@@ -457,6 +476,7 @@ MotoSelection.MotoEvaluation
 ---
 
 ### NeuroElementValue
+
 ::: tip NeuroElementValue Addition
 
 ---
@@ -519,32 +539,33 @@ MotoSelection.MotoEvaluation
 
 **RemovesAccess**
 
-
 :::
 
-
-
 #### MotoValue
+
 - Successful SpadeProbe PositiveEcoTest. The Spade goes in deep enough to bury the seedling's roots.
 - HoleOpen gives value to InsertTree
 
 #### RelativeValue
-- TallPersonBeta 
+
+- TallPersonBeta
     - "That ContactSurface isn't useful for me"
     - TeamPlant
 
 #### ViaValue
 
 #### EcoValue
+
 - RockCap is not valuable for planting.
 - CreamyEco
 
 Value is added along the chain of steps. PlantingPhrase
 
 MicrositeValidation Threshold MinimumValue
+
 - SoilProperties
 - ObstacleCover
-- 
+-
 
 Microsite gets more and more valuable until the hole is closed
 
@@ -557,8 +578,6 @@ EyePath
 Phrase
 
 UX
-
-
 
 ## (State)Attencide
 
@@ -588,18 +607,15 @@ MotoState
 
 ---
 
-
 ## D3
 
 Write a python script to convert the config into a json that D3 treemap can use. So you don't have to worry about updating both
 
 There shouldn't be a node called overview, so use the name in the sidebar, not the file name
 
-
-
 ## Related Terms
 
-- Web 
+- Web
     - Web of Connections
     - Connections between Subsystems
 - Tree
@@ -609,29 +625,28 @@ There shouldn't be a node called overview, so use the name in the sidebar, not t
 - Connectome
 - Graph
     - Dependencies graph
-        - https://writings.stephenwolfram.com/2020/09/the-empirical-metamathematics-of-euclid-and-beyond/
+        - <https://writings.stephenwolfram.com/2020/09/the-empirical-metamathematics-of-euclid-and-beyond/>
 
+- <https://healthtech.teknologiateollisuus.fi/en/upgraded-startup-sig/health-ecosystem-maps/helsinki-health-ecosystem-metro-map>
 
-- https://healthtech.teknologiateollisuus.fi/en/upgraded-startup-sig/health-ecosystem-maps/helsinki-health-ecosystem-metro-map
+- <http://startupsac.com/sse/>
 
-- http://startupsac.com/sse/
+- <https://visiblenetworklabs.com/guides/relationship-mapping-for-public-health/>
 
-- https://visiblenetworklabs.com/guides/relationship-mapping-for-public-health/
+- <https://www.nytimes.com/interactive/2015/05/17/us/elections/2016-presidential-campaigns-staff-connections-clinton-bush-cruz-paul-rubio-walker.html>
 
-- https://www.nytimes.com/interactive/2015/05/17/us/elections/2016-presidential-campaigns-staff-connections-clinton-bush-cruz-paul-rubio-walker.html
+- <https://www.nytimes.com/interactive/2019/04/03/world/white-extremist-terrorism-christchurch.html>
 
-- https://www.nytimes.com/interactive/2019/04/03/world/white-extremist-terrorism-christchurch.html
+- <https://www.nytimes.com/interactive/2019/01/26/us/politics/trump-contacts-russians-wikileaks.html>
 
-- https://www.nytimes.com/interactive/2019/01/26/us/politics/trump-contacts-russians-wikileaks.html
+- <https://www.nytimes.com/interactive/2020/12/17/world/europe/britain-covid-contracts.html>
 
-- https://www.nytimes.com/interactive/2020/12/17/world/europe/britain-covid-contracts.html
+- <https://www.nytimes.com/interactive/2021/12/15/us/mayfield-kentucky-tornado-damage.html>
 
-- https://www.nytimes.com/interactive/2021/12/15/us/mayfield-kentucky-tornado-damage.html
+- <https://www.nytimes.com/interactive/2017/10/30/us/politics/papadopoulos-russia-trump.html>
 
-- https://www.nytimes.com/interactive/2017/10/30/us/politics/papadopoulos-russia-trump.html
+- <https://www.nytimes.com/interactive/2022/08/09/technology/ukraine-internet-russia-censorship.html>
 
-- https://www.nytimes.com/interactive/2022/08/09/technology/ukraine-internet-russia-censorship.html
+- <https://www.nytimes.com/interactive/2018/05/09/us/politics/michael-cohen-shell-company.html>
 
-- https://www.nytimes.com/interactive/2018/05/09/us/politics/michael-cohen-shell-company.html
-
-- https://www.nytimes.com/interactive/2017/04/05/business/dealbook/Trumps-Web-of-Business-Ties-.html
+- <https://www.nytimes.com/interactive/2017/04/05/business/dealbook/Trumps-Web-of-Business-Ties-.html>

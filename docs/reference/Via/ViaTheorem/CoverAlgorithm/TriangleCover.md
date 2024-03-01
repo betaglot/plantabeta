@@ -1,7 +1,8 @@
-::: details 🛠 <dev>DesignBox</dev> 
+::: details 🛠 <dev>DesignBox</dev>
 
 ## DevNotes
-- 
+
+-
 
 ## DevState
 
@@ -22,9 +23,12 @@ https://youtu.be/bgR3yESAEVE
 ![ViaEmoji](/Via/Via_Emoji.png)
 
 ## Element Problem
-- 
+
+-
+
 ## Element Theorem
-- 
+
+-
 
 ## Questions about the Element
 
@@ -79,9 +83,7 @@ Answer 3
 
 Links to other related ViaElements. 
 
-- [Link]()
-- [Link]()
-- [Link]()
+
 
 ::: details External References
 

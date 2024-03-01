@@ -1,7 +1,8 @@
-::: details 🛠 <dev>DesignBox</dev> 
+::: details 🛠 <dev>DesignBox</dev>
 
 ## DevNotes
-- 
+
+-
 
 ## DevState
 
@@ -27,7 +28,6 @@
 - "Dev.Difficulty.Intensity"
 - "Dev.Difficulty.RelativeDifficulty"
 - "Dev.Difficulty.Risk"
-
 
 :::
 

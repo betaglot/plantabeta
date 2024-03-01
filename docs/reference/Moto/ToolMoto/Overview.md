@@ -1,7 +1,8 @@
-::: details 🛠 <dev>DesignBox</dev> 
+::: details 🛠 <dev>DesignBox</dev>
 
 ## DevNotes
-- 
+
+-
 
 ## DevState
 
@@ -19,8 +20,8 @@
 
 ## Tool List
 
- - Spade
- - PlantingBags
- - Gloves
- - Kit
- - Flag
+- Spade
+- PlantingBags
+- Gloves
+- Kit
+- Flag

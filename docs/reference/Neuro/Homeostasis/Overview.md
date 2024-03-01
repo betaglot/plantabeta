@@ -1,7 +1,8 @@
-::: details 🛠 <dev>DesignBox</dev> 
+::: details 🛠 <dev>DesignBox</dev>
 
 ## DevNotes
-- 
+
+-
 
 ## DevState
 
@@ -58,9 +59,12 @@
 
 
 ## Element Problem
-- 
+
+-
+
 ## Element Theorem
-- 
+
+-
 
 ## Questions about the Element
 
@@ -111,9 +115,7 @@ Answer 3
 
 Links to other related NeuroElements. 
 
-- [Link]()
-- [Link]()
-- [Link]()
+
 
 ::: details External References
 

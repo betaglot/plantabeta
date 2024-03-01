@@ -1,7 +1,8 @@
-::: details 🛠 <dev>DesignBox</dev> 
+::: details 🛠 <dev>DesignBox</dev>
 
 ## DevNotes
-- 
+
+-
 
 ## DevState
 
@@ -35,30 +36,31 @@ Percentages
 - "Guide.Who.PlanterInstructor.TeachingPlot"
 :::
 
-
 # Planter Instructor
 
 > A person who teaches NovicePlanters and ExperiencedPlanters how to improve their planting ability.
-
 
 ::: tip Currently this position only exists in a few companies, unfortunately they only teach NovicePlanters.
 
 :::
 
-## Expertise Induced Amnesia 
+## Expertise Induced Amnesia
+>
 > Expertise-Induced Amnesia hypothesis (EIAH): The better you are, the less you will recall about what you've just done.
 
 > Expertise Facilitated Amnesia hypothesis (EFAH): Expertise facilitates the ability to perform skill-relevant actions without the performance leaving a declaratively accessible, episodic memory trace
 
 > It has been hypothesized that postperformance memory gaps occur in highly skilled individuals because experts generally perform their skills without conscious attention. In contrast, we hypothesize that such memory gaps may occur when performers focus so intently on their unfolding actions that their ongoing attention interferes with long-term memory formation of what was previously attended to, or when performers are highly focused on aspects of their bodily skills that are not readily put into words. In neither case, we argue, does performance proceed automatically yet both situations, we suggest, may lead to an inability to recollect performance.
-- https://onlinelibrary.wiley.com/doi/full/10.1111/mila.12260
+
+- <https://onlinelibrary.wiley.com/doi/full/10.1111/mila.12260>
 
 - Do you know how you plant trees?
 
 ### Curse of Knowledge
 
 > Experts in a given domain often have a hard time communicating with nonexperts. They dive into the weeds; they ignore context; they talk over heads and beyond interest.
-- https://mitsloan.mit.edu/ideas-made-to-matter/curse-knowledge-why-experts-struggle-to-explain-their-work
+
+- <https://mitsloan.mit.edu/ideas-made-to-matter/curse-knowledge-why-experts-struggle-to-explain-their-work>
 
 ## Using Plantbeta Before the Season
 
@@ -78,7 +80,7 @@ Percentages
 
 A Planter can know everything about how to be a Planter, but still not plant to their maximum potential. This is because to be an elite Planter you must have character traits which can't be taught. Perhaps they can be cultivated by a sports psychologist, but this is currently outside the scope of Plantbeta and the rest of the planting industry.  
 
-Such traits include: 
+Such traits include:
 
 - Resilience
 - Competitiveness
@@ -87,4 +89,3 @@ Such traits include:
 - Drive  
 
 :::
-

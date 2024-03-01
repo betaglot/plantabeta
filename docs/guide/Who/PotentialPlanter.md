@@ -1,7 +1,8 @@
-::: details 🛠 <dev>DesignBox</dev> 
+::: details 🛠 <dev>DesignBox</dev>
 
 ## DevNotes
-- 
+
+-
 
 ## DevState
 
@@ -28,11 +29,10 @@ What is tree planting like?
 - Look at pictures
 - [Image gallery]
 
-
-
 ## What activities translate well to planting?
 
 ### Design
+
 - Geometry
 
 ### Rugby
@@ -44,20 +44,23 @@ What is tree planting like?
 - DynamicMotos
 
 ### Wrestling
+
 - FullBodyMoto
 - Resilience
 - Moto Phrases
 
 ### Hiking
+
 - Endurance
 - Walking over complex Eco.
 
 ### Climbing
+
 - Finger Strength
 - Via Planning
 
 ### Ultramarathon Runner
+
 - Endurance
 - Controlled Falling
 - Leg Strength
-

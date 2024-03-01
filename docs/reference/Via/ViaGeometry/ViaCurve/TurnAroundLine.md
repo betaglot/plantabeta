@@ -1,15 +1,14 @@
-::: details 🛠 <dev>DesignBox</dev> 
+::: details 🛠 <dev>DesignBox</dev>
 
 ## DevNotes
-- 
+
+-
 
 ## DevState
 
 `TagsToHeaders: False`
 
 `PaperPhotoToDesignBox: False`
-
-
 
 :::
 
@@ -18,20 +17,21 @@
 - Turn around
 - Go back on your line
 
-## Used in 
+## Used in
 
-- [TypewriterCover]()
-- [BackCover]()
-- [ZigzagLine]()
-
-
+- [TypewriterCover](/reference/Via/ViaTheorem/ViaCover/TypewriterCover)
+- [BackCover](/reference/Via/ViaTheorem/ViaCover/BackCover)
+- [ZigzagLine](/reference/Via/ViaGeometry/ViaCurve/Overview)
 
 ![ViaEmoji](/Via/Via_Emoji.png)
 
 ## Element Problem
-- 
+
+-
+
 ## Element Theorem
-- 
+
+-
 
 ## Questions about the Element
 
@@ -55,40 +55,38 @@ Answer 3
 
 ## Element Purpose
 
-- 
+-
 
 ## Element Properties
 
-- 
+-
 
 ## ElementRelationshipsGraph
 
-<iframe 
-    width="100%" 
-    height="684" 
+<iframe
+    width="100%"
+    height="684"
     frameborder="0"
     src="https://observablehq.com/embed/@d3/force-directed-graph/2?cells=chart"
 ></iframe>
 
 ## Related 🟩<eco>EcoElements</eco>
-- 
+
+-
+
 ## Related 💜<neuro>NeuroElements</neuro>
 
-
 ## Related 🟠<moto>MotoElements</moto>
-- 
+
+-
 
 ## Examples
 
-- Use Media donated by Planters. 
+- Use Media donated by Planters.
 
 ## Related <via>ViaElements</via>
 
-Links to other related ViaElements. 
-
-- [Link]()
-- [Link]()
-- [Link]()
+Links to other related ViaElements.
 
 ::: details External References
 
@@ -97,6 +95,3 @@ Links to other related ViaElements.
 - Three
 
 :::
-
-
-

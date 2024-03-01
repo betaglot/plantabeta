@@ -1,14 +1,14 @@
-::: details 🛠 <dev>DesignBox</dev> 
+::: details 🛠 <dev>DesignBox</dev>
 
 ## DevNotes
-- 
+
+-
 
 ## DevState
 
 `TagsToHeaders: False`
 
 `PaperPhotoToDesignBox: False`
-
 
 <h2>PageTags</h2>
 
@@ -18,7 +18,6 @@
 :::
 
 # Productivity
-
 
 ## Effectiveness
 
@@ -40,7 +39,7 @@ A greater Planter efficiency leads to:
 - Less [Deadwalking]()
 - Fewer Injury
 - More efficient vias
-- Effective [Flagging]() 
+- Effective [Flagging]()
     - Flag which is more visible.
     - Lower Flag expense
 
@@ -48,7 +47,7 @@ A greater Planter efficiency leads to:
 
 A Planter can know everything about how to be a Planter, but still not plant to their maximum potential. This is because to be an elite Planter you must have character traits which can't be taught. Perhaps they can be cultivated by a sports psychologist, but this is currently outside the scope of Plantbeta and the rest of the planting industry.  
 
-Such traits include: 
+Such traits include:
 
 - Resilience
 - Competitiveness
@@ -57,5 +56,3 @@ Such traits include:
 - Drive  
 
 :::
-
-

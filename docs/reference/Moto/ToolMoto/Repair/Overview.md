@@ -1,15 +1,14 @@
-::: details 🛠 <dev>DesignBox</dev> 
+::: details 🛠 <dev>DesignBox</dev>
 
 ## DevNotes
-- 
+
+-
 
 ## DevState
 
 `TagsToHeaders: False`
 
 `PaperPhotoToDesignBox: False`
-
-
 
 :::
 
@@ -22,12 +21,14 @@ Maintain your tools to ensure that they last as long a possible and to maintain 
 ## Maintenance Skills
 
 ### Sewing
+
 - Sewing Clothing
 - Sewing Durable material
     - Bags
     - Gaiter
 
 ### Glueing
+
     - Covering in Holes
 
 ### Taping
@@ -41,8 +42,6 @@ Maintain your tools to ensure that they last as long a possible and to maintain 
 ## Tool Repair Guide
 
 ### Boot Repair
-
-
 
 ### Clothing Repair
 

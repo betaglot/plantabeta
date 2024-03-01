@@ -1,7 +1,8 @@
-::: details 🛠 <dev>DesignBox</dev> 
+::: details 🛠 <dev>DesignBox</dev>
 
 ## DevNotes
-- 
+
+-
 
 ## DevState
 
@@ -9,19 +10,16 @@
 
 `PaperPhotoToDesignBox: False`
 
-
-
 :::
 
 # <neuro>Number Memory</neuro>
 
 ## Mnemonics
 
-
-- A tool for remembering numbers are mnemonics. 
+- A tool for remembering numbers are mnemonics.
 
 - Use your visual system to remember.
-    - Remember Grids and Shapes of bundles 
+    - Remember Grids and Shapes of bundles
 
 Write down the numbers
 
@@ -31,8 +29,6 @@ How many CoverLoops have you already completed?
 
 ## TreeRatio
 
-
-
 ## TreeCount
 
 How many trees did you BagCover?
@@ -40,4 +36,3 @@ How many trees did you BagCover?
 ## GiveBundle
 
 How many bundles did you give someone while TeamPlanting.
-

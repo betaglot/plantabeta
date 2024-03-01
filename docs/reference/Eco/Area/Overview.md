@@ -1,7 +1,8 @@
-::: details 🛠 <dev>DesignBox</dev> 
+::: details 🛠 <dev>DesignBox</dev>
 
 ## DevNotes
-- 
+
+-
 
 ## DevState
 
@@ -19,14 +20,11 @@
 
 :::
 
-# 🟩  <eco>Area Overview</eco> 
+# 🟩  <eco>Area Overview</eco>
 
 # AreaAnatomy
+
 - Obstacle
 - EcoForm
 
-
 ## UnplantableArea
-
-
-

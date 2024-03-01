@@ -1,7 +1,10 @@
-::: details 🛠 <dev>DesignBox</dev> 
+# <eco>Meet Plantbeta</eco>
+
+::: details 🛠 <dev>DesignBox</dev>
 
 ## DevNotes
-- 
+
+-
 
 ## DevState
 
@@ -20,16 +23,13 @@
 - "Guide.What.WhatPlantbeta.Product"
 - "Guide.What.WhatPlantbeta.Service"
 
-
-## You can plant trees without Beta. Plantbeta isn't required to plant.
+## You can plant trees without Beta. Plantbeta isn't required to plant
 
 :::
 
-# <eco>Meet Plantbeta</eco>
-
 ::: info Plantbeta's **Mission**
 
-- To create a **open source** resource for planters where all knowledge is coherent and integrated into a single system which can be used to plant many types of land across the world. 
+- To create a **open source** resource for planters where all knowledge is coherent and integrated into a single system which can be used to plant many types of land across the world.
 - To research and implement ways to make planters more effective by applying cutting edge interdisciplinary science to planter instruction.
 - To innovate planter tools.
 :::
@@ -69,7 +69,7 @@ Plantbeta combines the best practices of the Planting Industry to offer the most
 
 ## What Plantbeta is Not
 
-::: danger Plantbeta does not include: 
+::: danger Plantbeta does not include:
 
 - Logistics for management
 - How to Cook for Tree Planters
@@ -77,8 +77,6 @@ Plantbeta combines the best practices of the Planting Industry to offer the most
 - Anything to do with cutting down trees
 - Medical Advice for Planters
 :::
-
-
 
 <!-- ## How does Plantbeta provide Value to Planters?
 
@@ -212,8 +210,6 @@ Plantbeta combines the best practices of the Planting Industry to offer the most
 
 --- -->
 
-
-
 <!-- ## Website Sections
 
 Plantbeta is divided into 6 sections:
@@ -227,23 +223,19 @@ Plantbeta is divided into 6 sections:
     - How this website is being created
 - [Sponsor]()
 
-
-
-
 ## [How to Navigate this website.](/guide/How/Navigation)
 
-::: details 🛠 <dev>DesignBox</dev> 
+::: details 🛠 <dev>DesignBox</dev>
 
 ## DevNotes
-- 
+
+-
 
 ## DevState
 
 `TagsToHeaders: False`
 
 `PaperPhotoToDesignBox: False`
-
-
 
 :::
 
@@ -309,7 +301,6 @@ Reference is easy **searched** by using the Hash symbol <eco>#</eco> to target t
 
 Image Phrase of Searching through Sidebar
 
-
 #### Tablet
 [InsertImage](Screenshot of Tablet)
 
@@ -323,10 +314,6 @@ Image Phrase of Searching through Sidebar
 ##### Example
 
 Image Phrase of Searching through Sidebar
-
-
-
-
 
 ## Choose Your Path
 
@@ -353,15 +340,10 @@ The users of Plantbeta can take multiple paths through Plantbeta depending on th
 1. Test yourself to find knowledge gaps.
 2. Assign readings and tests to your crew members.
 
-
 ### [Planter Instructor](/guide/Who/PlanterInstructor)
 
 1. Assign readings and tests to your crew members.
 2. Group Elements together into lesson plans.
 3. Adapt your lessons to the current EcoType. 
-
-
-
-
 
  -->

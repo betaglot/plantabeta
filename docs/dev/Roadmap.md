@@ -1,7 +1,8 @@
-::: details 🛠 <dev>DesignBox</dev> 
+::: details 🛠 <dev>DesignBox</dev>
 
 ## DevNotes
-- 
+
+-
 
 ## DevState
 
@@ -9,17 +10,11 @@
 
 `PaperPhotoToDesignBox: False`
 
-
-
 ---
 
 :::
 
 # 🛠 Roadmap
-
-
-
-
 
 ## What is a Roadmap?
 
@@ -27,7 +22,7 @@
 
 Vertical Timeline
 
-Tree View 
+Tree View
 
 ## Future Developments
 
@@ -35,16 +30,11 @@ One purpose of Plantbeta is to act as a resource for designers and researchers.
 
 To [Reforest](https://www.lasy.gov.pl/en/information/news/a-forest-is-much-more-than-a-plantation) the Eco destroyed by wildfires in Canada and across the world.
 
-
 ## Reference
 
 ## Guide
 
 ## Tutorial
-
-
-
-
 
 ### Materials Science
 
@@ -53,7 +43,7 @@ To [Reforest](https://www.lasy.gov.pl/en/information/news/a-forest-is-much-more-
 ### Biology
 
 - Testing Hypothesis
-- 
+-
 
 ### Psychology
 
@@ -64,8 +54,6 @@ To [Reforest](https://www.lasy.gov.pl/en/information/news/a-forest-is-much-more-
 
 - Klimbeta + Plantbeta
 
-
-
 ## Future Features
 
 - 3D models of the Elements.
@@ -73,10 +61,12 @@ To [Reforest](https://www.lasy.gov.pl/en/information/news/a-forest-is-much-more-
 ### Polyglot
 
 ### French
-### German
-### Spanish
-### Portugese
 
+### German
+
+### Spanish
+
+### Portugese
 
 ## Future of Planting
 
@@ -89,21 +79,17 @@ LawnScreef
 
 Trees are not meant to be loners
 
-### More planting BurntLand 
+### More planting BurntLand
 
 ### More Raw
+
 - More RawLand less Clearcutting
 - More Slash
 
-It would be better for the earth if planting was more difficult. 
+It would be better for the earth if planting was more difficult.
 
 Train planters so the difficulty is mitigated by people learning a skill instead of making something
-
 
 ### Africa
 
 ### Shrub Planting
-
-
-
-

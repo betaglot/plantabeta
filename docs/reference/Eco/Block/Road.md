@@ -1,15 +1,14 @@
-::: details 🛠 <dev>DesignBox</dev> 
+::: details 🛠 <dev>DesignBox</dev>
 
 ## DevNotes
-- 
+
+-
 
 ## DevState
 
 `TagsToHeaders: False`
 
 `PaperPhotoToDesignBox: False`
-
-
 
 :::
 
@@ -26,6 +25,7 @@ The road to your piece
 > Road between blocks
 
 ## BlockRoad
+>
 > the road within the  your block
 
 ### RoadSign
@@ -37,9 +37,12 @@ Block Start
 ![EcoEmoji](/Eco/Eco_Emoji.png)
 
 ## Element Problem
-- 
+
+-
+
 ## Element Theorem
-- 
+
+-
 
 ## Questions about the Element
 
@@ -64,8 +67,11 @@ Answer 3
 ## Element Properties
 
 ### Element Size
+
 ### Element Shape
+
 ### Element Color
+
 ### Element's Frequency of Occurrence
 
 ## Elements Graph
@@ -76,13 +82,12 @@ Select:
 
 :::
 
-Graph which represents how this element is related to other elements in Plantbeta. 
+Graph which represents how this element is related to other elements in Plantbeta.
 🛠 The Element Relationships Chart is still [under development](/dev/ElementsGraph)
 
-
-<iframe 
-    width="100%" 
-    height="684" 
+<iframe
+    width="100%"
+    height="684"
     frameborder="0"
     src="https://observablehq.com/embed/@d3/force-directed-graph/2?cells=chart"
 ></iframe>
@@ -91,13 +96,9 @@ Graph which represents how this element is related to other elements in Plantbet
 
 ## Related <moto>MotoElements</moto>
 
-
 ## Related <via>ViaElements</via>
 
-
-## Related 💜<neuro>NeuroElements</neuro> 
-
-
+## Related 💜<neuro>NeuroElements</neuro>
 
 ## Quotes
 
@@ -107,15 +108,11 @@ Quotes about this Element
 
 ## Examples
 
-- Use Media donated by Planters. 
+- Use Media donated by Planters.
 
-## See also:
+## See also
 
-Links to other related EcoElements. Related because they are the same EcoType or because they are performed at the same time or within the same Phrase. 
-
-- [Link]()
-- [Link]()
-- [Link]()
+Links to other related EcoElements. Related because they are the same EcoType or because they are performed at the same time or within the same Phrase.
 
 ::: details External References
 
@@ -124,4 +121,3 @@ Links to other related EcoElements. Related because they are the same EcoType or
 - Three
 
 :::
-

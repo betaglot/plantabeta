@@ -1,7 +1,8 @@
-::: details 🛠 <dev>DesignBox</dev> 
+::: details 🛠 <dev>DesignBox</dev>
 
 ## DevNotes
-- Via is close to Surveying
+
+-Via is close to Surveying
     - Trangulation
 - Via is Mathematics
 ## DevState

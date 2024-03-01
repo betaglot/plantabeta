@@ -1,15 +1,14 @@
-::: details 🛠 <dev>DesignBox</dev> 
+::: details 🛠 <dev>DesignBox</dev>
 
 ## DevNotes
-- 
+
+-
 
 ## DevState
 
 `TagsToHeaders: False`
 
 `PaperPhotoToDesignBox: False`
-
-
 
 :::
 
@@ -20,7 +19,6 @@
 - Light Exposure
 
 ### Andy Galpin
-
 
 ### Matt Walker
 
@@ -39,6 +37,4 @@
 - Stress
 - Suffering
 
-
 ## Athlean X
-

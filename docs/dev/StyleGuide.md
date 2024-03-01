@@ -1,4 +1,4 @@
-::: details 🛠 <dev>DesignBox</dev> 
+::: details 🛠 <dev>DesignBox</dev>
 <h2>PageTags</h2>
 
 - "Dev.Breadcrumb"
@@ -26,8 +26,7 @@
 
 # 🛠 Style Guide
 
-https://developers.google.com/style
-
+<https://developers.google.com/style>
 
 ## <dev>Be Canadian</dev>
 
@@ -40,12 +39,11 @@ https://developers.google.com/style
 
 ## Plantbeta.org
 
-
 ## <dev>Semantics</dev>
 
-::: warning 
+::: warning
 
-It's easy to get stuck on the linguistics and naming. You can think about it for hours while in the land. While sitting in front of a computer your time is better spent typing, not thinking about increasing the clarity. Just get it out, then you can edit. 
+It's easy to get stuck on the linguistics and naming. You can think about it for hours while in the land. While sitting in front of a computer your time is better spent typing, not thinking about increasing the clarity. Just get it out, then you can edit.
 
 :::
 
@@ -60,8 +58,8 @@ Try to avoid PlantPlant plant a plant in the ground. InsertPlant
 
 InsertPod
 
-
 Plant= Put a Tree in the Ground
+
 - Put
 
 Plant= Organism from Plantae
@@ -69,12 +67,11 @@ Plant= Organism from Plantae
 ### Keep it G
 
 Euphemisms undermine Plantbeta and open it up to unnecessary criticism
+
 - CreamyLand
 - "Cream out"
 - "Slut in"
-- 
-
-
+-
 
 ## <dev>LevelOfDetail</dev>
 
@@ -83,8 +80,6 @@ No Acronyms
 Write complete sentences.
 
 Point form is lazy. Think about all the coding documentation which is not easy to read. Too formal, too concise, humans don't process language like computers, point of view matters.
-
-
 
 ## <dev>ElementName</dev>
 
@@ -114,7 +109,7 @@ Bad
 
 ### Tense
 
-### Remember Punctuation!
+### Remember Punctuation
 
 Periods
 
@@ -122,32 +117,42 @@ Periods
 
 ### Person
 
-https://developers.google.com/style/person
-
+<https://developers.google.com/style/person>
 
 ## <dev>Color</dev>
 
 ### <moto>MotoColor</moto>
+
 ```ts
 #bf6a34
 ```
+
 ### <via>ViaColor</via>
+
 ```ts
 #f44747
 ```
+
 ### <beta>BetaColor</beta>
+
 ```ts
 #569cd6 
 ```
+
 ### <eco>EcoColor</eco>
+
 ```ts
 #6a9955 
 ```
+
 ### <neuro>NeuroColor</neuro>
+
 ```ts
 #c586c0 
 ```
+
 ### BackgroundColor
+
 ```ts
 #1f1f1f
 ```
@@ -166,7 +171,7 @@ https://developers.google.com/style/person
 ### Purpose(Emoji)
 
 - Visual Search
-- For planters to use the emojis 
+- For planters to use the emojis
 - Each emoji can be easily handwritten, since electronics don't do well in extreme weather, in terms of breaking and in UX. You can't easily view a screen in summer sun, or rain, definitely not in snow.
 
 The BetaModules are aliased as emojis.
@@ -174,7 +179,6 @@ The BetaModules are aliased as emojis.
 ::: tip ?
 When is it useful for emojis to be monochrome outlines?
 :::
-
 
 ### Ambifix for Page Title
 
@@ -201,8 +205,7 @@ When is it useful for emojis to be monochrome outlines?
 <code><moto>eco</moto></code>
 ```
 
-
-## <dev>DesignBox</dev> 
+## <dev>DesignBox</dev>
 
 Add current state of development to desgin box
 
@@ -214,18 +217,14 @@ Boolean
 
 `PaperPhotoToDesignBox: False`
 
-Delete tags once converted to headers. They are stored in a JSON 
-
-
-
-
-
+Delete tags once converted to headers. They are stored in a JSON
 
 ```md
-::: details 🛠 <dev>DesignBox</dev> 
+::: details 🛠 <dev>DesignBox</dev>
 
 ## DevNotes
-- 
+
+-
 
 ## DevState
 
@@ -236,13 +235,15 @@ Delete tags once converted to headers. They are stored in a JSON
 
 :::
 ```
+
 ### 🟠 <dev>DesignBox</dev><moto>.Moto</moto>
 
 ```md
-::: details 🛠 <dev>DesignBox</dev> 
+::: details 🛠 <dev>DesignBox</dev>
 
 ## DevNotes
-- 
+
+-
 
 ## DevState
 
@@ -259,10 +260,11 @@ Delete tags once converted to headers. They are stored in a JSON
 ### 🟩 <dev>DesignBox</dev><eco>.Eco</eco>
 
 ```md
-::: details 🛠 <dev>DesignBox</dev> 
+::: details 🛠 <dev>DesignBox</dev>
 
 ## DevNotes
-- 
+
+-
 
 ## DevState
 
@@ -279,10 +281,11 @@ Delete tags once converted to headers. They are stored in a JSON
 ### 🔻 <dev>DesignBox</dev><via>.Via</via>
 
 ```md
-::: details 🛠 <dev>DesignBox</dev> 
+::: details 🛠 <dev>DesignBox</dev>
 
 ## DevNotes
-- 
+
+-
 
 ## DevState
 
@@ -299,10 +302,11 @@ Delete tags once converted to headers. They are stored in a JSON
 ### 💜 <dev>DesignBox</dev><neuro>.Neuro</neuro>
 
 ```md
-::: details 🛠 <dev>DesignBox</dev> 
+::: details 🛠 <dev>DesignBox</dev>
 
 ## DevNotes
-- 
+
+-
 
 ## DevState
 
@@ -318,10 +322,11 @@ Delete tags once converted to headers. They are stored in a JSON
 ### 🔷 <dev>DesignBox</dev><beta>.Beta</beta>
 
 ```md
-::: details 🛠 <dev>DesignBox</dev> 
+::: details 🛠 <dev>DesignBox</dev>
 
 ## DevNotes
-- 
+
+-
 
 ## DevState
 
@@ -338,10 +343,11 @@ Delete tags once converted to headers. They are stored in a JSON
 ### 🛠 <dev>DesignBox.Dev</dev>
 
 ```md
-::: details 🛠 <dev>DesignBox</dev> 
+::: details 🛠 <dev>DesignBox</dev>
 
 ## DevNotes
-- 
+
+-
 
 ## DevState
 
@@ -354,8 +360,6 @@ Delete tags once converted to headers. They are stored in a JSON
 # 🛠 <dev>Dev</dev>
 
 ```
-
-
 
 ## Beta<dev></dev>Symbols
 
@@ -381,4 +385,4 @@ Bold the most important of an element definition
 
 ### <dev>RelatedElements</dev>
 
-### 
+

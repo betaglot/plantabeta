@@ -1,7 +1,8 @@
-::: details 🛠 <dev>DesignBox</dev> 
+::: details 🛠 <dev>DesignBox</dev>
 
 ## DevNotes
-- 
+
+-
 
 ## DevState
 
@@ -11,23 +12,17 @@
 
 > Beta is what you actually do implement
 > Elements are just options possibilities
-> Beta requires decision 
-
+> Beta requires decision
 
 Each Plantbeta module is composed of problems and theorems. Problems all have solutions, they aren't proven valid yet, but are still useful for development. Pertainent negative. Science proves hypotheses wrong. NullHypotheses.
 
 Eco doesn't have any problems or theorems
-
-
 
 ## Strategy
 
 - Plan of Action
 
 Beta can be a description or an instruction
-
-
-
 
 <h2>PageTags</h2>
 
@@ -45,36 +40,29 @@ Beta can be a description or an instruction
 
 There are no units of Beta, except for Tokens
 
-
 Token, Block, Module
-
 
 Only Beta can be the solution
 
-Via Theorem, Via Solution 
+Via Theorem, Via Solution
 
 Via just gives the options, Beta is required to Solve, since solution requires Moto. Beta occurs when more than module is required in 1stPersonPoint of view. Planter's perspective.
 
 Neuro that just thinks about NeuroElements
 
-
 :::
 
 # 🔷 <beta>What is Beta?</beta> 🔷
-
 
 > Beta is the **information** that you use to perform planting tasks.
 
 Beta emerges from the interactions between Eco, Moto, Via and Neuro.
 
-
 ![BetaEmoji](/Beta/Beta_Emoji.png)
 
-
 ## <beta>Beta Symbol</beta> 🔷
+>
 > Blue Diamond
-
-
 
 ## Origins of "Beta"
 
@@ -87,8 +75,6 @@ Betamax was a piece of hardware (similar to a VHS tape or cassete) which was use
 > Beta could be something as simple as the general type of _holds_, like “it’s all slopers” or just the type of rock and length.
 
 > Beta in climbing can be very detailed down to the exact way you _grip_ a specific hold i.e. “pinch the left side with your first two fingers so there’s space to match with your other hand”.
-
-
 
 ## Analogy between Climbing and Planting
 
@@ -120,9 +106,9 @@ This each line are analog pairs. The equal signs = denotes where Climbing and Pl
 ::: danger Why is it useful to relate Climbing to Planting?
 
 - OffSeason Training
-- Outdoor Climbing has a similar to Planting. 
+- Outdoor Climbing has a similar to Planting.
 - Many Planters are also Climbers and share many attributes.
-  - Resilience, Ruggedness, Physically Fit
+    - Resilience, Ruggedness, Physically Fit
 - You will get better at one by learning the other.
 
 :::
@@ -138,14 +124,15 @@ This each line are analog pairs. The equal signs = denotes where Climbing and Pl
 
 ::: details Footnotes:
 
-- https://www.climbernews.com/what-is-climbing-beta/
+- <https://www.climbernews.com/what-is-climbing-beta/>
 
 :::
 
-::: details 🛠 <dev>DesignBox</dev> 
+::: details 🛠 <dev>DesignBox</dev>
 
 ## DevNotes
-- 
+
+-
 
 ## DevState
 
@@ -194,7 +181,7 @@ EcoTheorem
 ## Theorem
 
 ## Definition
- 
+
 You can define something that is not definitive. A definition element is definitive.
 
 [BetaSequence](https://docs.python.org/3/library/stdtypes.html#sequence-types-list-tuple-range)
@@ -207,7 +194,6 @@ You can define something that is not definitive. A definition element is definit
 6. 🟠
 7. 🔻
 8. 💜
-
 
 ### Synonyms
 
@@ -224,7 +210,7 @@ You can define something that is not definitive. A definition element is definit
 - The simplification of a Planter's experience.
 - Chunking a Planter's experience into discrete pieces of information so that they can combined in novel ways.
 
-### The Elements of ...
+### The Elements of
 
 #### Euclid's Elements of Geometry
 
@@ -255,11 +241,11 @@ The Euclid's Elements is compilation of elements which was written over 2000 yea
 
 Wolfram Alpha
 
-- https://writings.stephenwolfram.com/2020/09/the-empirical-metamathematics-of-euclid-and-beyond/
+- <https://writings.stephenwolfram.com/2020/09/the-empirical-metamathematics-of-euclid-and-beyond/>
 
 Byrne's Euclid
 
-- https://www.c82.net/euclid/
+- <https://www.c82.net/euclid/>
 
 :::
 
@@ -302,9 +288,9 @@ Plant Example
 #### The Elements of Chemistry
 
 - periodic table of elements
-  - Trends
-  - Groups
-  - Periods
+    - Trends
+    - Groups
+    - Periods
 
 ![PeriodicTable](/PeriodicTable.jpg)
 
@@ -318,7 +304,7 @@ Simple chemical substance.
 
 ::: details External Links
 
-- https://archive.org/details/tom-jackson-the-periodic-table-a-visual-guide-to-the-elements-white-lion-publishing-2020/page/n3/mode/2up
+- <https://archive.org/details/tom-jackson-the-periodic-table-a-visual-guide-to-the-elements-white-lion-publishing-2020/page/n3/mode/2up>
 
 :::
 
@@ -340,9 +326,9 @@ Air = Element
 
 ::: details External Links
 
-- https://www.gymnastics-history.com/category/code-of-points/
-- https://defector.com/i-will-explain-this-new-olympic-sport-to-you-skateboarding
-- https://apps.apple.com/app/gymsymbol/id1501949485
+- <https://www.gymnastics-history.com/category/code-of-points/>
+- <https://defector.com/i-will-explain-this-new-olympic-sport-to-you-skateboarding>
+- <https://apps.apple.com/app/gymsymbol/id1501949485>
 
 :::
 
@@ -395,8 +381,8 @@ Elements are mixed together to create more complex elements or linked together i
 #### Element Mixture Composition
 
 - Adding Elements together
-  - Like creating a Chemical Compound
-    - [InsertImage] Water H20
+    - Like creating a Chemical Compound
+        - [InsertImage] Water H20
 - Increase Complexity
 - Element Hierarchy
 
@@ -405,7 +391,7 @@ Elements are mixed together to create more complex elements or linked together i
 A sequential pattern of elements.
 
 - MotoPhrase
-  - PlantingSeqence
+    - PlantingSeqence
 - ViaSequence
 - NeuroPhrase
 
@@ -435,10 +421,9 @@ OpenHole = LookAtTarget --> SpadeProbeThrow --> SpadeThrow --> SpadeOpenHole
 
 ::: details External Links
 
-- https://dictionary.cambridge.org/dictionary/english/element
+- <https://dictionary.cambridge.org/dictionary/english/element>
 
 :::
-
 
 ## BetaTime
 
@@ -457,10 +442,3 @@ OpenHole = LookAtTarget --> SpadeProbeThrow --> SpadeThrow --> SpadeOpenHole
 ### From
 
 ### To
-
-
-
-
-
-
-

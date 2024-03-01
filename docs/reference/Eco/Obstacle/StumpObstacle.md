@@ -1,7 +1,8 @@
-::: details 🛠 <dev>DesignBox</dev> 
+::: details 🛠 <dev>DesignBox</dev>
 
 ## DevNotes
-- 
+
+-
 
 ## DevState
 
@@ -45,15 +46,12 @@ Answer 3
 - StumpSide
 - StumpButtressCount
 
-
-
-
 ## ElementRelationshipsGraph
 
 Graph which represents how this element is related to other elements in Plantbeta.
-<iframe 
-    width="100%" 
-    height="684" 
+<iframe
+    width="100%"
+    height="684"
     frameborder="0"
     src="https://observablehq.com/embed/@d3/force-directed-graph/2?cells=chart"
 ></iframe>
@@ -62,72 +60,71 @@ Graph which represents how this element is related to other elements in Plantbet
 
 ### [🟩Microsite]()
 
-- 
+-
 
 ### [🟩HighStump]()
 
-- 
+-
 
-### [🟩SnowPack]() 
+### [🟩SnowPack]()
 
 - block snow from crushing the seedling
-
 
 ## Related <moto>MotoElements</moto>
 
 ### [🟠SpadePryScreef]()
 
-- 
+-
 
 ### [🟠TrunkGrip]()
 
-- 
+-
 
 ### [🟠CreaseGrip]()
 
-- 
-
+-
 
 🔻🟠🟩💜🔷
+
 ## Related <via>ViaElements</via>
 
 ### [🔻ObstacleCover]
 
 ### [🔻AreaBoundary]()
 
-- 
+-
 
 ### [🔻DownSlope]()
 
-- 
+-
 
 ### [🔻UpSlope]()
 
-- 
+-
 
 ### [🔻StumpFlag]()
 
 - [FlagSite]()
 
-### [🔻BoundaryFlag]() 
+### [🔻BoundaryFlag]()
 
-- 
+-
 
-### [🔻Ecomark]() 
+### [🔻Ecomark]()
 
-- 
+-
 
 ### [🔻TargetPoint]()
 
-- 
+-
 
+## Related 💜<neuro>NeuroElements</neuro>
 
-## Related 💜<neuro>NeuroElements</neuro> 
+### [💜Orientation]()
 
-### [💜Orientation]() 
-- North side of the stump. 
-- 
-- 
+- North side of the stump.
+-
+-
 
 ## Quotes
 
@@ -137,24 +134,18 @@ Quotes about this Element
 
 ## Examples
 
-- Use Media donated by Planters. 
+- Use Media donated by Planters.
 
-## See also:
+## See also
 
-Links to other related EcoElements. Related because they are the same EcoType or because they are performed at the same time or within the same Phrase. 
-
-- [Link]()
-- [Link]()
-- [Link]()
+Links to other related EcoElements. Related because they are the same EcoType or because they are performed at the same time or within the same Phrase.
 
 ::: details External References
 
 1. Wikipedia
-    - https://en.wikipedia.org/wiki/Tree_stump
+    - <https://en.wikipedia.org/wiki/Tree_stump>
+
 - Two
 - Three
 
 :::
-
-
-

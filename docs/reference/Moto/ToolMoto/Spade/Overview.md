@@ -1,7 +1,8 @@
-::: details 🛠 <dev>DesignBox</dev> 
+::: details 🛠 <dev>DesignBox</dev>
 
 ## DevNotes
-- 
+
+-
 
 ## DevState
 
@@ -18,7 +19,7 @@
 - "Moto.ToolMoto.SpadeMoto.SpadeUnplant"
 
 :::
- 
+
 # 🟠 <moto>Spade Overview</moto>
 
 ## StaffSpade

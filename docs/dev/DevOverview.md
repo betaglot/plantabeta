@@ -1,7 +1,8 @@
-::: details 🛠 <dev>DesignBox</dev> 
+::: details 🛠 <dev>DesignBox</dev>
 
 ## DevNotes
-- 
+
+-
 
 ## DevState
 
@@ -25,7 +26,7 @@ Plantbeta is constantly being expanded and improved. Plantbeta is being developp
 
 ::: tip Send an email to:
 
-plantbeta.info@gmail.com
+<plantbeta.info@gmail.com>
 
 :::
 
@@ -35,11 +36,11 @@ Donate Images, Video, Writings, Audio to Plantbeta.
 
 ## [Feedback](/dev/Feedback)
 
-Give feedback to Plantbeta about what works and doesn't work well, what's unclear and what you've learned. 
+Give feedback to Plantbeta about what works and doesn't work well, what's unclear and what you've learned.
 
 ## [Research Questions](/dev/ResearchQuestions)
 
-A list of questions which have come up during the design process and don't have a good answer yet. 
+A list of questions which have come up during the design process and don't have a good answer yet.
 
 ## [Roadmap](/dev/Roadmap)
 

@@ -1,7 +1,8 @@
-::: details 🛠 <dev>DesignBox</dev> 
+::: details 🛠 <dev>DesignBox</dev>
 
 ## DevNotes
-- 
+
+-
 
 ## DevState
 
@@ -11,29 +12,31 @@
 
 ![PaperPhoto](/PaperPhoto/0017.jpg)
 
-
 :::
 
-# 🔷 Sequence 
+# 🔷 Sequence
 
 🔷: Sequence
 🟠: Phrase
-🟩: 
-🔻: 
-💜: 
+🟩:
+🔻:
+💜:
 
-## Sequences are represented as 
+## Sequences are represented as
+
 ### Cards
+
 ### [Python List](https://docs.python.org/3/library/stdtypes.html#sequence-types-list-tuple-range)
+>
 > Lists are mutable sequences, typically used to store collections of homogeneous items (where the precise degree of similarity will vary by application).
 
 ### [Python Range](https://docs.python.org/3/library/stdtypes.html#ranges)
-> The range type represents an immutable sequence of numbers and is commonly used for looping a specific number of times in for loops.   
+>
+> The range type represents an immutable sequence of numbers and is commonly used for looping a specific number of times in for loops.
 
 ### [Python Tuple](https://docs.python.org/3/library/stdtypes.html#tuples)
+>
 > Tuples are immutable sequences, typically used to store collections of heterogeneous data (such as the 2-tuples produced by the enumerate() built-in). Tuples are also used for cases where an immutable sequence of homogeneous data is needed (such as allowing storage in a set or dict instance).
-
-
 
 ```py
 >>> list(range(10))
@@ -51,7 +54,6 @@
 >>> list(range(1, 0))
 []
 ```
-
 
 ## Card Sequence
 
@@ -71,7 +73,7 @@ Group of Cards
 
 A Vuetify Component
 
-MotoCards are positioned along a ViaCurve 
+MotoCards are positioned along a ViaCurve
 
 ### CardShape
 
@@ -85,10 +87,7 @@ MotoCards are positioned in a CoverChart
 
 ### Frame Rate
 
-
-
-
-All Phrases are lists 
+All Phrases are lists
 
 ```py
 PythonDataType = List[]
@@ -102,7 +101,7 @@ PythonDataType = List[]
 
 ```
 
-Standardize the way that Phrases of BetaElements are represented in code and graphically. 
+Standardize the way that Phrases of BetaElements are represented in code and graphically.
 
 💜 Graphic
 
@@ -111,8 +110,6 @@ Standardize the way that Phrases of BetaElements are represented in code and gra
 ## Differentiate(Phrase, Supermoto, Moto, Submoto, BodyMoto)
 
 An ArmPhrase is a list of ArmMotos performed in Parallel (BoxCarry), Concurrently (SpadeLift, TreeLoad)
-
-
 
 ## Control Flow Statements
 
@@ -125,12 +122,12 @@ Control flow is the codified version of [Decision Making](/reference/Neuro/Decis
 
 ### 💜 Flow Chart
 
-- Highlight current Phrase branch, synchronize with 
+- Highlight current Phrase branch, synchronize with
 
 ### If
 
 - Conditional
-- 
+-
 
 ### Else
 
@@ -139,16 +136,15 @@ Control flow is the codified version of [Decision Making](/reference/Neuro/Decis
 ## GIF
 
 ### Vue Component
+
 - Be able to toggle between GIF and PhraseStrip
 - Modify framerate of GIF using Input Stepper
-- Change 
-
+- Change
 
 ## Comic Strip
 
 - PhraseStrip
 - Numbering in top corner
-
 
 ## Labels
 
@@ -167,7 +163,7 @@ Control flow is the codified version of [Decision Making](/reference/Neuro/Decis
 
 ## Concurrency
 
-> In computer science, concurrency is the ability of different parts or units of a program, algorithm, or problem to be executed out-of-order or in partial order, without affecting the outcome. 
+> In computer science, concurrency is the ability of different parts or units of a program, algorithm, or problem to be executed out-of-order or in partial order, without affecting the outcome.
 
 Asyncronous
 
@@ -180,11 +176,3 @@ Asyncronous
 All algorithms are Phrases. "Phrase" is more commonplace than "Algorithm". Use "Phrase" instead of Algorithm to increase accessiblity to atheletes and other people who are averse to math. The purpose of Plantbeta is not to convince people of the utility of mathematical **theory**, rather, it's to use math in **practice**.
 
 - ProbePhrase or Probe Algorithm
-
-
-
-
-
-
-
-

@@ -1,7 +1,8 @@
-::: details 🛠 <dev>DesignBox</dev> 
+::: details 🛠 <dev>DesignBox</dev>
 
 ## DevNotes
-- 
+
+-
 
 ## DevState
 
@@ -40,7 +41,6 @@
 
 - You need to give them something that they can keep
 
-
 :::
 
 # 🛠 UX: User Experience of Plantbeta
@@ -57,7 +57,7 @@
 - Touch keyboard
 - Video
 - Audio
-    - Dictation 
+    - Dictation
 
 ### Tablet
 
@@ -84,6 +84,7 @@ Search Box
 ### Visual Search
 
 #### ThumbnailIndex
+
 ![ThumbnailIndex](/dev/ThumbnailIndex.jpg)
 
 #### TableOfContents
@@ -93,13 +94,13 @@ Sidebar
 In Details
 
 Algolia
+
 - How to I manually suppplement Algolia since it has gaps?
 FAQ
 
 ## Website Navigation
 
 Path Redundancy
-
 
 ## Differentiate(Ref, Guide, Tutorial)
 
@@ -109,10 +110,9 @@ The reference is What not how
 
 Tutorials have examples
 
-Reference isn't used as much as tutorials 
+Reference isn't used as much as tutorials
 
 What's the difference between Guide and Tutorial?
-
 
 In the guide you learn what a `list` is while in the ref you can see all the list methods and properties.
 

@@ -1,7 +1,8 @@
-::: details 🛠 <dev>DesignBox</dev> 
+::: details 🛠 <dev>DesignBox</dev>
 
 ## DevNotes
-- 
+
+-
 
 ## DevState
 
@@ -9,18 +10,14 @@
 
 `PaperPhotoToDesignBox: False`
 
-
-
 :::
 
 # 🛠 <dev>Dev</dev>
-
 
 Moto
 Moto\Overview
 Moto\Phrase
 Moto\
-
 
 ## Overview
 
@@ -34,4 +31,4 @@ Subject Definition
 
 ### Overview Body
 
-Cards which link to 
+Cards which link to

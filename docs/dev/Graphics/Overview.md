@@ -1,13 +1,14 @@
-::: details 🛠 <dev>DesignBox</dev> 
+::: details 🛠 <dev>DesignBox</dev>
 
 ## DevNotes
-- 
+
+-
 
 ## DevState
 
 `TagsToHeaders: False`
 
-`PaperPhotoToDesignBox: False` 
+`PaperPhotoToDesignBox: False`
 
 <h2>PageTags</h2>
 
@@ -99,6 +100,4 @@
 
 # 🛠 Graphics Overview
 
-
 ## D3.js
-

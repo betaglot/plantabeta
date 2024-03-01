@@ -1,15 +1,14 @@
-::: details 🛠 <dev>DesignBox</dev> 
+::: details 🛠 <dev>DesignBox</dev>
 
 ## DevNotes
-- 
+
+-
 
 ## DevState
 
 `TagsToHeaders: False`
 
 `PaperPhotoToDesignBox: False`
-
-
 
 :::
 
@@ -18,13 +17,10 @@
 ## Design
 
 - Spacing between objects in an enclosed space
-    - [AreaCover]()
 - Easiest Via through obstacles
 - [DistanceEstimation](/reference/Neuro/Estimation/DistanceEstimation)
 
 ### Landscape Architecture
-
-
 
 ## Science
 
@@ -43,10 +39,6 @@
 
 ## Sports
 
-### [Climbing]()
-
-- [What is Beta?]()
-
 ### Hockey
 
 - Play diagram [InsertImage]
@@ -60,45 +52,42 @@
 ### Skiing
 
 #### PolePlant
-Pole plant in skiing 
+
+Pole plant in skiing
 Body dynamic and Pole plant != Static body
 
 Planting while your body is moving away or towards hole
 
 #### Carving
+
 - Carving turns on steep slopes
     - CutBank [InsertImage]  
 
 ### Paddling
 
-
 - Paddle = Spade
-    - [SpadeScreef]() is like taking a forward stroke or a draw stroke with a canoe paddle 
-    - [SpadeGrip]()
-        - [ShaftGrip]()
-        - [HandleGrip]()
+    - [SpadeScreef](/reference/Moto/SpadeMoto/SpadeScreef) is like taking a forward stroke or a draw stroke with a canoe paddle
+    - [SpadeGrip](/reference/Moto/SpadeMoto/SpadeGrip)
+        - [ShaftGrip](/reference/Moto/SpadeMoto/ShaftGrip)
+        - [HandleGrip](/reference/Moto/SpadeMoto/HandleGrip)
 
 ## Martial Arts
 
-
 - [BranchDeflection](/reference/Moto/VegeMoto/BranchDeflection)
-- [HeadBob]()
-- [HandClose]()
-    - [PunchClose]()
-- [FootClose]()
-    - [StompClose]()
-
+- [HeadBob](/reference/Moto/HeadMoto/Overview)
+- [HandClose](/reference/Moto/HandMoto/Overview)
+    - [PunchClose](/reference/Moto/HandMoto/Overview)
+- [FootClose](/reference/Moto/FootMoto/Overview)
+    - [StompClose](/reference/Moto/FootMoto/Overview)
 
 ## Landscaping
 
 - Lawn Mower uses Via
-    - https://www.wired.com/2012/08/optimal-lawn-mowing-patterns/
-    - [BoustroCover]() 
+    - <https://www.wired.com/2012/08/optimal-lawn-mowing-patterns/>
+    - [BoustroCover](/reference/Via/ViaTheorem/ViaCover/BoustroCover)
 
 ## Farming
 
 - StockHandling
 - HayBale TreeBox  
-- [BoustroCover]()
-
-
+- [BoustroCover](/reference/Via/ViaTheorem/ViaCover/BoustroCover)

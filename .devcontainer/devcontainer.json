@@ -15,7 +15,6 @@
 				"formulahendry.code-runner",
 				"BalduinLandolt.surround-with-tag",
 				"Thinker.sort-json",
-				"Vue.vscode-typescript-vue-plugin",
 				"Vue.volar",
 				"DavidAnson.vscode-markdownlint"
 			]

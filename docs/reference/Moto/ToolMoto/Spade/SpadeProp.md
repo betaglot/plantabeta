@@ -1,7 +1,8 @@
-::: details 🛠 <dev>DesignBox</dev> 
+::: details 🛠 <dev>DesignBox</dev>
 
 ## DevNotes
-- 
+
+-
 
 ## DevState
 
@@ -9,7 +10,8 @@
 
 `PaperPhotoToDesignBox: False`
 
-- Alpinistes do spadeprop all the time when using an ice axe
+- Alpinists perform SpadeProp all the time when using an ice axe
+
 <h2>PageTags</h2>
 
 - "Moto.ToolMoto.SpadeMoto.SpadeProp"
@@ -17,10 +19,9 @@
 
 # 🟠 <moto>SpadeProp</moto>
 
-
 <div style="display: flex; width: %100; margin-top: 50px;">
     <div style="margin: 5px; width: 50%">
-        <img height="350" width="350" src="/Moto/SpadeProp.png"/>
+        <img height="350" width="350" alt="SpadeProp" src="/Moto/SpadeProp.png"/>
     </div>
     <div style="margin: 5px; width: 50%">
         <p >Description of Moto. How the moto got its name. The purpose of the moto. Common misconceptions about the moto. How to differentiate this moto from another similar moto</p>
@@ -28,9 +29,12 @@
 </div>
 
 ## Element Problem
-- 
+
+-
+
 ## Element Theorem
-- 
+
+-
 
 ## Questions about the Element
 
@@ -44,49 +48,52 @@
 
 <div style="display: flex">
     <div>
-        <img style="margin: 5px" height="200" width="200" src="/Moto/Moto_Emoji.png"/>
+        <img style="margin: 5px" height="200" width="200" alt="Emoji" src="/Moto/Moto_Emoji.png"/>
         <p>Description of Moto Photo</p>
     </div>
     <div>
-        <img style="margin: 5px" height="200" width="200" src="/Moto/Moto_Emoji.png"/>
+        <img style="margin: 5px" height="200" width="200" alt="Emoji" src="/Moto/Moto_Emoji.png"/>
         <p>Description of Moto Photo</p>
     </div>
     <div>
-        <img style="margin: 5px" height="200" width="200" src="/Moto/Moto_Emoji.png"/>
+        <img style="margin: 5px" height="200" width="200" alt="Emoji" src="/Moto/Moto_Emoji.png"/>
         <p>Description of Moto Photo</p>
     </div>
-    
-    
 </div>
 
 ## Element Purpose
 
-- 
+-
 
 ## Element Properties
 
-- 
-
+-
 
 ## ElementRelationshipsGraph
 
-<iframe 
-    width="100%" 
-    height="684" 
+<iframe
+    width="100%"
+    height="684"
     frameborder="0"
     src="https://observablehq.com/embed/@d3/force-directed-graph/2?cells=chart"
 ></iframe>
 
 ## Related <moto>MotoElements</moto>
-- 
+
+-
 
 ## Related 🟩<eco>EcoElements</eco>
-- 
-## Related 🔻<via>ViaElements</via>
-- 
 
-## Related 💜<neuro>NeuroElements</neuro> 
+-
+
+## Related 🔻<via>ViaElements</via>
+
+-
+
+## Related 💜<neuro>NeuroElements</neuro>
+
 -  
+
 ## Quotes
 
 Quotes about this Moto
@@ -99,17 +106,11 @@ Quotes about this Moto
 
 ## Examples
 
-- Use Media donated by Planters. 
+- Use Media donated by Planters.
 
-
-
-Links to other related motos. Related because they are the same MotoType or because they are performed at the same time or within the same Phrase. 
+Links to other related motos. Related because they are the same MotoType or because they are performed at the same time or within the same Phrase.
 
 ## See also:
-
-- [Link]()
-- [Link]()
-- [Link]()
 
 ::: details External References
 
@@ -118,4 +119,3 @@ Links to other related motos. Related because they are the same MotoType or beca
 - Three
 
 :::
-

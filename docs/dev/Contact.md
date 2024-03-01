@@ -1,7 +1,8 @@
-::: details 🛠 <dev>DesignBox</dev> 
+::: details 🛠 <dev>DesignBox</dev>
 
 ## DevNotes
-- 
+
+-
 
 ## DevState
 
@@ -9,14 +10,12 @@
 
 `PaperPhotoToDesignBox: False`
 
-
-
 :::
 
 # 🛠 Contact
 
 ::: tip Send an email to:
-christopheralduncan@gmail.com
+<christopheralduncan@gmail.com>
 :::
 
 ## Give Feedback
@@ -33,13 +32,13 @@ What are some features that you would like to see
 
 ### Clarification
 
-Which parts of of [Plantbeta](/guide/introduction.html#what-is-plantbeta) are: 
+Which parts of of [Plantbeta](/guide/introduction.html#what-is-plantbeta) are:
 
 - Confusing
 - Unclear
 - Contradictory
 
-
 ### Errors
+
 - Typos
 - Conceptual Errors

@@ -1,7 +1,8 @@
-::: details 🛠 <dev>DesignBox</dev> 
+::: details 🛠 <dev>DesignBox</dev>
 
 ## DevNotes
-- 
+
+-
 
 ## DevState
 
@@ -9,33 +10,37 @@
 
 `PaperPhotoToDesignBox: False`
 
-- ResearchModel_ModelDay_Chronology_5_SleepFinishTime_												
-- ResearchModel_ModelDay_Chronology_6_BlockApproachStartTime_												
-- ResearchModel_ModelDay_Chronology_7_TransitTime_												
-- ResearchModel_ModelDay_Chronology_8_BlockApproachFinishTime_												
-- ResearchModel_ModelDay_Chronology_9_FirstBagUp_												
-- ResearchModel_ModelDay_Chronology_10												
-- ResearchModel_ModelDay_Chronology_11												
-- ResearchModel_ModelDay_Chronology_12												
-- ResearchModel_ModelDay_Chronology_13												
-- ResearchModel_ModelDay_Chronology_14												
-- ResearchModel_ModelDay_Chronology_15												
-- ResearchModel_ModelDay_Chronology_16												
-- ResearchModel_ModelDay_Chronology_17												
-- ResearchModel_ModelDay_Chronology_18												
-- ResearchModel_ModelDay_Chronology_19												
-- ResearchModel_ModelDay_Chronology_20												
-- ResearchModel_ModelDay_Chronology_21_SleepStartTime_		
+- ResearchModel_ModelDay_Chronology_5_SleepFinishTime_
+- ResearchModel_ModelDay_Chronology_6_BlockApproachStartTime_
+- ResearchModel_ModelDay_Chronology_7_TransitTime_
+- ResearchModel_ModelDay_Chronology_8_BlockApproachFinishTime_
+- ResearchModel_ModelDay_Chronology_9_FirstBagUp_
+- ResearchModel_ModelDay_Chronology_10
+- ResearchModel_ModelDay_Chronology_11
+- ResearchModel_ModelDay_Chronology_12
+- ResearchModel_ModelDay_Chronology_13
+- ResearchModel_ModelDay_Chronology_14
+- ResearchModel_ModelDay_Chronology_15
+- ResearchModel_ModelDay_Chronology_16
+- ResearchModel_ModelDay_Chronology_17
+- ResearchModel_ModelDay_Chronology_18
+- ResearchModel_ModelDay_Chronology_19
+- ResearchModel_ModelDay_Chronology_20
+- ResearchModel_ModelDay_Chronology_21_SleepStartTime_  
 
 :::
 
 # 💜 <neuro>Time Overview </neuro>
 
 ![NeuroEmoji](/Neuro/Neuro_Emoji.png)
+
 ## Element Problem
-- 
+
+-
+
 ## Element Theorem
-- 
+
+-
 
 ## Questions about the Element
 
@@ -56,39 +61,41 @@ Answer 2
 Answer 3
 
 :::
+
 ## Element Properties
 
-- 
+-
 
 ## ElementRelationshipsGraph
 
-<iframe 
-    width="100%" 
-    height="684" 
+<iframe
+    width="100%"
+    height="684"
     frameborder="0"
     src="https://observablehq.com/embed/@d3/force-directed-graph/2?cells=chart"
 ></iframe>
 
-## Related 💜<neuro>NeuroElements</neuro> 
+## Related 💜<neuro>NeuroElements</neuro>
 
 ## Related 🟠<moto>MotoElements</moto>
-- 
+
+-
+
 ## Related 🟩<eco>EcoElements</eco>
-- 
+
+-
+
 ## Related 🔻<via>ViaElements</via>
-- 
+
+-
 
 ## Examples
 
-- Use Media donated by Planters. 
+- Use Media donated by Planters.
 
 ## See also:
 
-Links to other related NeuroElements. 
-
-- [Link]()
-- [Link]()
-- [Link]()
+Links to other related NeuroElements.
 
 ::: details External References
 
@@ -97,4 +104,3 @@ Links to other related NeuroElements.
 - Three
 
 :::
-

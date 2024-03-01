@@ -1,7 +1,8 @@
-::: details 🛠 <dev>DesignBox</dev> 
+::: details 🛠 <dev>DesignBox</dev>
 
 ## DevNotes
-- 
+
+-
 
 ## DevState
 
@@ -9,11 +10,6 @@
 
 `PaperPhotoToDesignBox: False`
 
-
-
 :::
 
 # Research Overview
-
-
-

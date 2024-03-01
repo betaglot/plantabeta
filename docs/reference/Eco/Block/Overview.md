@@ -1,7 +1,8 @@
-::: details 🛠 <dev>DesignBox</dev> 
+::: details 🛠 <dev>DesignBox</dev>
 
 ## DevNotes
-- 
+
+-
 
 ## DevState
 
@@ -23,7 +24,7 @@
 
 ![Block](/Eco/Block.png)
 
-> The area of land that your crew is planting in. 
+> The area of land that your crew is planting in.
 
 Usually Composed of Contiguous Subareas
 
@@ -32,12 +33,14 @@ Down the Road
 Dispersed
 
 ## Block Anatomy
+
 - BlockAccess
 - Road
 - Boundary
-- 
+-
 
 ## Block Properties
+
 - BlockLocation
     - Altitude
     - Access
@@ -46,6 +49,3 @@ Dispersed
 - Topography
 - Water features
 - Location
-
-
-

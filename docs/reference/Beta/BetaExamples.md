@@ -1,7 +1,8 @@
-::: details 🛠 <dev>DesignBox</dev> 
+::: details 🛠 <dev>DesignBox</dev>
 
 ## DevNotes
-- 
+
+-
 
 ## DevState
 
@@ -19,11 +20,6 @@
 
 # 🔷 <beta>Beta Examples</beta>
 
-
-
 ![Paper_BetaQuote](/Paper_BetaQuote2.jpg)
 
 ![Paper_BetaQuote](/Paper_BetaQuote.jpg)
-
-
-

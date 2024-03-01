@@ -1,7 +1,8 @@
-::: details 🛠 <dev>DesignBox</dev> 
+::: details 🛠 <dev>DesignBox</dev>
 
 ## DevNotes
-- 
+
+-
 
 ## DevState
 
@@ -55,32 +56,29 @@
 
 <div style="display: flex">
     <div>
-        <img style="margin: 5px" height="200" width="200" src="/Moto/Moto_Emoji.png"/>
+        <img style="margin: 5px" height="200" width="200" alt="Emoji" src="/Moto/Moto_Emoji.png"/>
         <p>Description of Moto Photo</p>
     </div>
     <div>
-        <img style="margin: 5px" height="200" width="200" src="/Moto/Moto_Emoji.png"/>
+        <img style="margin: 5px" height="200" width="200" alt="Emoji" src="/Moto/Moto_Emoji.png"/>
         <p>Description of Moto Photo</p>
     </div>
     <div>
-        <img style="margin: 5px" height="200" width="200" src="/Moto/Moto_Emoji.png"/>
+        <img style="margin: 5px" height="200" width="200" alt="Emoji" src="/Moto/Moto_Emoji.png"/>
         <p>Description of Moto Photo</p>
     </div>
 </div>
 
 ## Get()
 
+## Put()
 
-## Put() 
-
-### def Put():
+### def Put()
 
 ## Match
 
-### Match():
-
+### Match()
 
 ## Bump
 
 ## Swap
-

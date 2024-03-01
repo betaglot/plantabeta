@@ -1,7 +1,8 @@
-::: details 🛠 <dev>DesignBox</dev> 
+::: details 🛠 <dev>DesignBox</dev>
 
 ## DevNotes
-- 
+
+-
 
 ## DevState
 
@@ -21,9 +22,12 @@
 ![EcoEmoji](/Eco/Eco_Emoji.png)
 
 ## Element Problem
-- 
+
+-
+
 ## Element Theorem
-- 
+
+-
 
 ## Questions about the Element
 
@@ -93,9 +97,7 @@ Quotes about this Element
 
 Links to other related EcoElements. Related because they are the same EcoType or because they are performed at the same time or within the same Phrase. 
 
-- [Link]()
-- [Link]()
-- [Link]()
+
 
 ::: details External References
 

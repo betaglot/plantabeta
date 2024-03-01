@@ -1,7 +1,8 @@
-::: details 🛠 <dev>DesignBox</dev> 
+::: details 🛠 <dev>DesignBox</dev>
 
 ## DevNotes
-- 
+
+-
 
 ## DevState
 
@@ -43,9 +44,10 @@
 `Analogy{Saddle: PlanterBag}`
 
 ### <moto>Bag Material</moto>
+
 - Not plastic
 - Carbon Fiber
-- 
+-
 
 ### <moto>Corset</moto>
 
@@ -68,17 +70,15 @@
 
 Frame which supports the bag
 
-https://www.carryology.com/liking/industry/human-interface-a-guide-to-backpack-harness-innovation/
-
+<https://www.carryology.com/liking/industry/human-interface-a-guide-to-backpack-harness-innovation/>
 
 #### Laminated Plywood
 
-https://www.eaa.org/eaa/aircraft-building/builderresources/while-youre-building/building-articles/wood/laminating-and-bending-wood
+<https://www.eaa.org/eaa/aircraft-building/builderresources/while-youre-building/building-articles/wood/laminating-and-bending-wood>
 
 Make cardboard prototype.
 
 "Lay up"
-
 
 ### <moto>BagSkeleton</moto>
 
@@ -93,7 +93,6 @@ Pannier
 - Use waterproof Flap instead of sphincter design, since sphincter allows water to collect and slowly seep into backbag.
 - Pocket on underside of Flap
 
-
 ## <via>Flag</via>
 
 - Paper
@@ -104,8 +103,8 @@ Pannier
 - Recycled
 - Curls by itself
 
-Stick them together with honey like cheap bookbinding 
-Wax to waterproof 
+Stick them together with honey like cheap bookbinding
+Wax to waterproof
 
 ## <moto>Vambrace</moto>
 
@@ -116,7 +115,7 @@ Bracer, Gauntlet,
 ![GRG Pouch](/po-grgp-nln-detail03.jpg)
 ![GRG Pouch](/po-grgp-nln-detail04.jpg)
 
-- https://eu.directactiongear.com/en/grg-pouchr.html#RGR
+- <https://eu.directactiongear.com/en/grg-pouchr.html#RGR>
 
 "han kote" is a Japanese Vambrace
 
@@ -131,6 +130,7 @@ The goal of vambrace is to keep the hand clean and warm. There isn't a need to p
 ### Lightyear Notepad
 
 ### <eco>Warmth</eco>
+
 - Vambrace triplet brochure conductive metal sheets to wear on core then transfer to forearms
     - Extra weight for more heat during cold weather
 - Gaunlet which extends up forarm for protection and warmth.
@@ -150,11 +150,11 @@ Ideally there would be a Flagger on each Vambrace
 ## <moto>Glove</moto>
 
 - SplitMitt Shell
-    - Easier to repair 
+    - Easier to repair
     - Keep fingers warmers by pairing them
     - Less Seams
     - More simple shape than gloves which allows thicker material to be used on dorsal to protect
-    - Easier to take off because there is more material to pinch and also less surface area for friction. The surfaces between fingers is removed. The ConvexHull of a PeaceSign. 
+    - Easier to take off because there is more material to pinch and also less surface area for friction. The surfaces between fingers is removed. The ConvexHull of a PeaceSign.
 
 - Purlicue padding for SpadeSlide Grip
 
@@ -167,20 +167,20 @@ Ideally there would be a Flagger on each Vambrace
 ### <moto>Abrasion Resistant Material</moto>
 
 Cordura or Kevlar
-- https://www.testextextile.com/evaluating-the-abrasion-resistance-of-different-fabric-types/#Most_Abrasion-Resistant_Synthetic_Fibers
+
+- <https://www.testextextile.com/evaluating-the-abrasion-resistance-of-different-fabric-types/#Most_Abrasion-Resistant_Synthetic_Fibers>
 
 ## <moto>Kit</moto>
 
 Bag cover cape
 
-Wear the bag 
+Wear the bag
 
 Attach through gromets along border
 
-Store the insulation 
+Store the insulation
 
 ## <moto>Water Volume</moto>
-
 
 ## <moto>PlanterSuit</moto>
 
@@ -216,8 +216,6 @@ One Way Valve
 
 Cape which can be stowed in shoulder straps
 
-
-
 Aang Cape
 
 ### Modularity
@@ -229,6 +227,7 @@ Spacesuit
 - Vambraces are constant
 
 #### Suit of Armor
+
 - Samurai Armor
 - Gauntlet
 - Greave
@@ -241,14 +240,9 @@ Padding in the joints
 
 Mail at joints
 
-
-
-#### SuitSwap out parts to adapt to Eco and Moto.
-
+#### SuitSwap out parts to adapt to Eco and Moto
 
 ### LocalizedRepair
-
-
 
 ## <eco>Treepod</eco>
 
@@ -258,9 +252,7 @@ Seven sided hexagon with honey glue on the last side
 
 Treepod
 
-
 ## <eco>Bundle Wrapper</eco>
-
 
 Reusable Waxed paper bundle wrappers
 

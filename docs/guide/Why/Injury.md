@@ -1,7 +1,8 @@
-::: details 🛠 <dev>DesignBox</dev> 
+::: details 🛠 <dev>DesignBox</dev>
 
 ## DevNotes
-- 
+
+-
 
 ## DevState
 
@@ -21,10 +22,9 @@
 
 - Injury due to lack of knowledge
 
-
 ## Choose Safer Alternatives
 
-Planters can get injured when they don't adapt motos to the specific situation. Plantbeta gives many options to adapt motos for any situation. 
+Planters can get injured when they don't adapt motos to the specific situation. Plantbeta gives many options to adapt motos for any situation.
 
 Some Planters only know how to [HandClose](/reference/Moto/HandMoto/HandClose) one way, but there are many different ways. Even slightly varying a motos can reduce repetitive strain injuries.
 
@@ -34,17 +34,17 @@ Injury can occur in Planters when they perform the same moto repeatedly.
 
 - Do ambidextrous Planters suffer less injury caused by repetitive strain?
     - Repetitive Motion
-    - Greater moto variability reduces moto repetition. 
-        - How many [HandClosing](/reference/Moto/HandMoto/HandClose)  methods do you know? 
-    
+    - Greater moto variability reduces moto repetition.
+        - How many [HandClosing](/reference/Moto/HandMoto/HandClose)  methods do you know?
 
 ## Reduces Injuries from Falling
 
-Plantbeta teaches Planters how to move through their [Eco](/reference/Eco/EcoOverview) safely. 
+Plantbeta teaches Planters how to move through their [Eco](/reference/Eco/EcoOverview) safely.
 
 Falling is a large part of Climbing. Plantbeta transfers the knowledge of how to fall safely from climbing to Planting.
 
 ::: tip Some of the Motos used to safely Fall
+
 - [BodyAbsorb](/reference/Moto/BodyMoto/BodyAbsorb)
 - [BodyRedirect](/reference/Moto/BodyMoto/BodyRedirect)
 :::
@@ -54,7 +54,7 @@ Falling is a large part of Climbing. Plantbeta transfers the knowledge of how to
 Wrist Tendonitis occurs from straining the tissues around the wrist. The strain can be acute, such as when a Planter hits a rock with full force and doesn't absorb the shock, or the strain can be from repetitive use.
 
 - [ArmAbsorb](/reference/Moto/ArmMoto/ArmAbsorb) during the impact of [SpadeThrow](/reference/Moto/ToolMoto/Spade/SpadeThrow)
-- 
+-
 
 ## Christmas Toe
 
@@ -63,8 +63,4 @@ Planters kick To remove the layer of organic material off an intended microsite.
 A greater knowledge of possible alternative motos can prevent Christmas Toe from ever occuring.
 
 - [SpadeScreef]() instead of only [FootScreef]()
-- [HandClose]() instead of only [FootClose]() 
-
-
-
-
+- [HandClose]() instead of only [FootClose]()

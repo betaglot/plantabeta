@@ -1,7 +1,8 @@
-::: details 🛠 <dev>DesignBox</dev> 
+::: details 🛠 <dev>DesignBox</dev>
 
 ## DevNotes
-- 
+
+-
 
 ## DevState
 
@@ -31,40 +32,30 @@ Pinpoint the specific part of a Planter's experience.
 
 Use single words instead of phrases when useful, but not as a rule. There's no point in shortening if it decreases comprehension.
 
-
 ## Increase Clarity
+>
 > How much of your piece is Covered?
-
 
 ## Better Instructions
 
 An increased vocabulary and standardization of communication improves the effectiveness of instructions.
 
-
 ### Planters Communicating with Themselves
 
-Plantbeta increases the vocabulary of a Planter's internal dialog which improves [short term memory](/reference/Neuro/Memory/ShortTermMemory) of Planter's experience. 
+Plantbeta increases the vocabulary of a Planter's internal dialog which improves [short term memory](/reference/Neuro/Memory/ShortTermMemory) of Planter's experience.
 
 ### Planter Communicating with Other Planters
 
 [TeamPlant](/reference/Via/TeamPlant/Overview)
 
-
-
-### Supervisor Communicating with Planters. 
+### Supervisor Communicating with Planters
 
 Instructions
 
 When cutting pieces.
 
-*" Line in over there." = "Start over there"*
-
+" Line in over there." = "Start over there"
 
 *Over where?*
 
-- [Landmark]() description.
-
-
-
-
-
+- [Landmark](/reference/Via/ViaGeometry/ViaPoint/Overview) description.

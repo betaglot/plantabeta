@@ -1,13 +1,14 @@
-::: details 🛠 <dev>DesignBox</dev> 
+::: details 🛠 <dev>DesignBox</dev>
 
 ## DevNotes
-- 
+
+-
 
 ## DevState
 
 `TagsToHeaders: False`
 
-`PaperPhotoToDesignBox: False` 
+`PaperPhotoToDesignBox: False`
 <h2>PageTags</h2>
 
 - "Via.ViaCard"
@@ -21,19 +22,15 @@
 
 # 🛠 Via Graphics
 
-
-
-
 ## Voronoi Diagram
 
-
 ### <moto>MotoVoronoi</moto>
+
 ![Fencing](/Via/Voronoi/FencingVoronoi.png)
 
-
 ### <via>ViaVoronoi</via>
-https://www.researchgate.net/publication/228440675_Spatial_dynamics_of_team_sports_exposed_by_Voronoi_diagrams
 
+<https://www.researchgate.net/publication/228440675_Spatial_dynamics_of_team_sports_exposed_by_Voronoi_diagrams>
 
 [Automatic Generation of Ice Hockey Defensive Motion via
 Coverage Control and Control Barrier Functions
@@ -41,7 +38,7 @@ Coverage Control and Control Barrier Functions
 
 ### <eco>EcoVoronoi</eco>
 
-Closest 
+Closest
 
 <iframe width="100%" height="684" frameborder="0"
   src="https://observablehq.com/embed/@d3/circle-dragging-iii?cells=chart"></iframe>

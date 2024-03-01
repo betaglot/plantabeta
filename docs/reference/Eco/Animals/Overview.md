@@ -1,7 +1,8 @@
-::: details 🛠 <dev>DesignBox</dev> 
+::: details 🛠 <dev>DesignBox</dev>
 
 ## DevNotes
-- 
+
+-
 
 ## DevState
 
@@ -21,7 +22,7 @@
 - AnimalWildlifeLibrary_Ungulate_Moose_EncounterFrequency_ToDo_GetStatistic
 - AnimalWildlifeLibrary_WildlifeInjury_PreventInjury_RoadKill_ToDo_GetStatistic
 - AnimalWildlifeLibrary_Wolf_WolfPack_PlantingLocation_ToDo_GetFact
-- AnimalWildlifeLibrary_Worm_WildlifeInjury_SpadeMotoment_Decapatation_	
+- AnimalWildlifeLibrary_Worm_WildlifeInjury_SpadeMotoment_Decapatation
 - Ant
 
 :::

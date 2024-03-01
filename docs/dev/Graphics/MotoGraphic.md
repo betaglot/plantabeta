@@ -1,13 +1,14 @@
-::: details 🛠 <dev>DesignBox</dev> 
+::: details 🛠 <dev>DesignBox</dev>
 
 ## DevNotes
-- 
+
+-
 
 ## DevState
 
 `TagsToHeaders: False`
 
-`PaperPhotoToDesignBox: False` 
+`PaperPhotoToDesignBox: False`
 ![PaperPhoto](/PaperPhoto/0031.jpg)
 ![PaperPhoto](/PaperPhoto/0032.jpg)
 ![PaperPhoto](/PaperPhoto/0035.jpg)
@@ -35,6 +36,7 @@
 # 🛠 🟠 <moto>Moto Graphics</moto>
 
 ## 🟠 <moto>MotoCard</moto>
+
 Mirror images for ambidextrous planter
 
 ## 🟠 <moto>MotoTimeline</moto>

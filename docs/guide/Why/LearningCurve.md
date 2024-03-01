@@ -1,7 +1,8 @@
-::: details 🛠 <dev>DesignBox</dev> 
+::: details 🛠 <dev>DesignBox</dev>
 
 ## DevNotes
-- 
+
+-
 
 ## DevState
 
@@ -36,11 +37,7 @@ There will always be an element of Trial and Error in tree planting. A goal of P
 - Learn as much as possible during the days leading up to the season start.
 - Lay the theoretical foundations before practicing planting in the field.  
 
-
 ## Decrease the time it takes to master Tree Planting
 
 - Learn all the tricks and tips in fewer seasons.
 - Diminishing returns after the third year.
-
-
-

@@ -1,7 +1,8 @@
-::: details 🛠 <dev>DesignBox</dev> 
+::: details 🛠 <dev>DesignBox</dev>
 
 ## DevNotes
-- 
+
+-
 
 ## DevState
 
@@ -19,10 +20,14 @@
 # 💜 <neuro>Planning </neuro>
 
 ![NeuroEmoji](/Neuro/Neuro_Emoji.png)
+
 ## Element Problem
-- 
+
+-
+
 ## Element Theorem
-- 
+
+-
 
 ## Questions about the Element
 
@@ -73,9 +78,7 @@ Answer 3
 
 Links to other related NeuroElements. 
 
-- [Link]()
-- [Link]()
-- [Link]()
+
 
 ::: details External References
 

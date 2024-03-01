@@ -1,7 +1,8 @@
-::: details 🛠 <dev>DesignBox</dev> 
+::: details 🛠 <dev>DesignBox</dev>
 
 ## DevNotes
-- 
+
+-
 
 ## DevState
 
@@ -9,31 +10,27 @@
 
 `PaperPhotoToDesignBox: False`
 
-
-
 :::
 
 # 🛠 Academia
 
-::: tip 
+::: tip
 
 Find fields which haven't yet been applied to Planting
 
 :::
 
-
 ## Computer Science
 
 - Information Theory
-
 
 ## Geomatics
 
 Computational Geometry
 
-- https://natural-resources.canada.ca/science-and-data/science-and-research/geomatics/10776
+- <https://natural-resources.canada.ca/science-and-data/science-and-research/geomatics/10776>
 
-## [Huberman Lab](https://www.hubermanlab.com/) 
+## [Huberman Lab](https://www.hubermanlab.com/)
 
 ### Huberman + Galpin
 
@@ -48,6 +45,3 @@ Computational Geometry
 #### 5 [Maximize Recovery](https://www.hubermanlab.com/episode/guest-series-dr-andy-galpin-maximize-recovery-to-achieve-fitness-and-performance-goals)
 
 #### 6 [Nutrition & Supplementation](https://www.hubermanlab.com/episode/dr-andy-galpin-optimal-nutrition-and-supplementation-for-fitness)
-
-### 
-

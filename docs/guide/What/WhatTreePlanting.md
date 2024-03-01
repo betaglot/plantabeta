@@ -1,7 +1,8 @@
-::: details 🛠 <dev>DesignBox</dev> 
+::: details 🛠 <dev>DesignBox</dev>
 
 ## DevNotes
-- 
+
+-
 
 ## DevState
 
@@ -27,19 +28,23 @@ For a great look at what tree planting is like, watch this documentary [One Mill
 
 ![OneMillionTrees](/OneMillionTrees.png)
 
-::: details Click Here to view links to recent media articles about Tree Planting 
+::: details Click Here to view links to recent media articles about Tree Planting
 
 Tree Planting - Province of British Columbia
-- https://www2.gov.bc.ca/gov/content/industry/forestry/managing-our-forest-resources/silviculture/tree-planting
+
+- <https://www2.gov.bc.ca/gov/content/industry/forestry/managing-our-forest-resources/silviculture/tree-planting>
 
 Ontario woman goes viral for planting more than 4,500 trees in a day
-- https://nationalpost.com/news/canada/she-planted-more-than-4500-trees-in-a-day-and-found-an-audience-of-millions
+
+- <https://nationalpost.com/news/canada/she-planted-more-than-4500-trees-in-a-day-and-found-an-audience-of-millions>
 
 'Completely different, crazy world' of B.C. tree planting revealed in documentary One Million Trees
-- https://www.cbc.ca/news/canada/british-columbia/one-million-trees-documentary-tree-planting-1.5791939
+
+- <https://www.cbc.ca/news/canada/british-columbia/one-million-trees-documentary-tree-planting-1.5791939>
 
 Forestry sector scrambles to recruit tree Planters to sow millions — perhaps billions — more seedlings
-- https://www.cbc.ca/news/canada/british-columbia/tree-Planters-shortage-climate-change-1.5170853
+
+- <https://www.cbc.ca/news/canada/british-columbia/tree-Planters-shortage-climate-change-1.5170853>
 
 :::
 
@@ -47,9 +52,9 @@ Forestry sector scrambles to recruit tree Planters to sow millions — perhaps b
 
 ## Frequently Asked Questions about Tree Planting
 
-::: tip 
+::: tip
 
-- Click on each question to view its answer. 
+- Click on each question to view its answer.
 - Click again to hide the answer.
 
 :::
@@ -94,12 +99,11 @@ Seedling
 
 ![InstaPhoto034](/InstaPhoto034.jpg)
 
-
 :::
 <!--  -->
 ::: details What types of Trees are planted?
 
-The three main types of seedlings which are planted are: 
+The three main types of seedlings which are planted are:
 
 Pine
 ![InstaPhoto011](/InstaPhoto011.jpg)
@@ -110,12 +114,11 @@ Spruce
 Fir
 ![InstaPhoto071](/InstaPhoto071.jpg)
 
-
 :::
 <!--  -->
 ::: details How much are Planters paid per tree?
 
-The "centage" for each tree planted usually ranges from 15 to 18 cents in British Columbia. Sometimes it can go as high as 45 cents for very difficult or inaccessible Eco. 
+The "centage" for each tree planted usually ranges from 15 to 18 cents in British Columbia. Sometimes it can go as high as 45 cents for very difficult or inaccessible Eco.
 
 :::
 
@@ -124,19 +127,19 @@ The "centage" for each tree planted usually ranges from 15 to 18 cents in Britis
 
 Approximately 6500 Planters each season in Canada
 
-- https://montreal.citynews.ca/2022/08/08/record-for-amount-of-trees-24-hours/
+- <https://montreal.citynews.ca/2022/08/08/record-for-amount-of-trees-24-hours/>
 
 :::
 <!--  -->
 ::: details What does a Planter's typical day look like?
 
-- Wake 
+- Wake
 - Load gear into vehicles
 - Drive to Eco
 - Plant for 8.5 hours
     - Take trees out of boxes or trays, then load the trees into bags
-    [InsertImage] 
-    - Put on the bags and walk into your Eco 
+    [InsertImage]
+    - Put on the bags and walk into your Eco
     [InsertImage]
     - Plant all the trees in your bag
 
@@ -144,8 +147,4 @@ Approximately 6500 Planters each season in Canada
 - Eat
 - Sleep
 
- 
-
 :::
-
-

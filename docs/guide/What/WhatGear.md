@@ -1,7 +1,10 @@
-::: details 🛠 <dev>DesignBox</dev> 
+# What to bring as a Motel Planter?
+
+::: details 🛠 <dev>DesignBox</dev>
 
 ## DevNotes
-- 
+
+-
 
 ## DevState
 
@@ -9,11 +12,7 @@
 
 `PaperPhotoToDesignBox: False`
 
-
-
 :::
-
-# What to bring as a Motel Planter?
 
 - Planters which don't live in tents, ie not in a bush camp.
 
@@ -27,19 +26,17 @@ Tools you need to perform planter motos.
 
 ### 🟠 <moto>Planter Bags</moto>
 
-
-
 ### 🟠 <moto>Cache Bag</moto>
 
 ### 🟠 <moto>Water Container</moto>
 
 ### 🟠 <moto>Clothing</moto>
 
-::: tip 
+::: tip
 
 You will not regret bringing duplicates of clothing. If you have the space then bring as many duplicates as you can.
 
-::: 
+:::
 
 ## 💜 <neuro>Neuro Tools</neuro>
 
@@ -68,7 +65,6 @@ Tools you need for your brain.
 
 :::
 
-
 ## 🔻 <via>Via Tools</via>
 
 Tools you need for your vias
@@ -76,5 +72,3 @@ Tools you need for your vias
 ### 🔻 <via>Flag</via>
 
 ### 🔻 <via>Flag Dispenser</via>
-
-

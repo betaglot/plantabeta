@@ -1,7 +1,8 @@
-::: details 🛠 <dev>DesignBox</dev> 
+::: details 🛠 <dev>DesignBox</dev>
 
 ## DevNotes
-- 
+
+-
 
 ## DevState
 
@@ -23,15 +24,17 @@
 # 🟠 <moto>VegeCatch</moto>
 
 > Grab vegetation before colliding with it
-
 ![MotoEmoji](/Moto/Moto_Emoji.png)
 
 The Vege can be moving towards you or the vege can be stationary while you move towards the vege
 
 ## Element Problem
-- 
+
+-
+
 ## Element Theorem
-- 
+
+-
 
 ## Questions about the Element
 
@@ -45,19 +48,17 @@ The Vege can be moving towards you or the vege can be stationary while you move 
 
 <div style="display: flex">
     <div>
-        <img style="margin: 5px" height="200" width="200" src="/Moto/Moto_Emoji.png"/>
+        <img style="margin: 5px" height="200" width="200" alt="Emoji" src="/Moto/Moto_Emoji.png"/>
         <p>Description of Moto Photo</p>
     </div>
     <div>
-        <img style="margin: 5px" height="200" width="200" src="/Moto/Moto_Emoji.png"/>
+        <img style="margin: 5px" height="200" width="200" alt="Emoji" src="/Moto/Moto_Emoji.png"/>
         <p>Description of Moto Photo</p>
     </div>
     <div>
-        <img style="margin: 5px" height="200" width="200" src="/Moto/Moto_Emoji.png"/>
+        <img style="margin: 5px" height="200" width="200" alt="Emoji" src="/Moto/Moto_Emoji.png"/>
         <p>Description of Moto Photo</p>
     </div>
-    
-    
 </div>
 
 ## Element Purpose
@@ -108,9 +109,7 @@ Links to other related motos. Related because they are the same MotoType or beca
 
 ## See also:
 
-- [Link]()
-- [Link]()
-- [Link]()
+
 
 ::: details External References
 

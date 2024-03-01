@@ -1,15 +1,14 @@
-::: details 🛠 <dev>DesignBox</dev> 
+::: details 🛠 <dev>DesignBox</dev>
 
 ## DevNotes
-- 
+
+-
 
 ## DevState
 
 `TagsToHeaders: False`
 
 `PaperPhotoToDesignBox: False`
-
-
 
 :::
 
@@ -19,8 +18,8 @@
 - 3D model of planter
 - 3D model of all objects in Plantbeta.
 - So kids who game can learn the computations of Computational Planting, before they are old enough to work as a planter.
-    - Phone Game 
+    - Phone Game
 
-::: tip Use this level of detail. 
+::: tip Use this level of detail.
 ![ForestSimulation](/Via/ForestSimulation.png)
 :::

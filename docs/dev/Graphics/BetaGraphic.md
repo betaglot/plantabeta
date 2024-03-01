@@ -1,7 +1,8 @@
-::: details 🛠 <dev>DesignBox</dev> 
+::: details 🛠 <dev>DesignBox</dev>
 
 ## DevNotes
-- 
+
+-
 
 ## DevState
 
@@ -15,6 +16,7 @@
 - "Beta.BetaTimeline"
 
 :::
+
 # 🛠 Beta Graphics
 
 How is Risk visualized?
@@ -28,11 +30,9 @@ EinsteinSpaghetti Timeline of instances
 
 Network of interacting elements. Network can extend to the opposite side of the piece if looking at a landmark, don't limit the instance by space, only by time
 
-Line width is BetaIntensity 
-
+Line width is BetaIntensity
 
 Nested along a via line
-
 
 Each Subsystem is an ImageLayer. How are shown all at once?
 
@@ -45,7 +45,7 @@ Don't show all beta, chunk, scoped, highlights, error, injury, event ends
 Repetitions of planting instance
 
 Planting moment is the spacetime unit
-At this moment what elements are being used and with what state? 
+At this moment what elements are being used and with what state?
 
 State is all the values. An element is a Kanon, template, holding structure, framework. Pokémon card Kanon
 
@@ -53,4 +53,4 @@ Are there any history of pokemon cards or playing cards
 
 Use Pokemon as an analogy for system and element. Each character is a variation on a Pokemon Kanon.
 
-State is Nondual. 
+State is Nondual.
