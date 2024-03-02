@@ -3,7 +3,7 @@
 ## DevNotes
 
 - What tool to use which allows easy uploading?
-- 
+- <https://opensource.guide/how-to-contribute/>
 
 ## DevState
 
@@ -23,16 +23,46 @@
 
 ## How you can contribute
 
-Depending on your interests and skills, you can contribute in a number of different ways. For example, if you want to contribute to CPython, you can:
+### Do you like planning events?
+
+- Organize workshops or meetups about Plantbeta
+- Organize Plantbeta's first conference
+
+### Do you like to design?
+
+- Restructure layouts to improve Plantbeta’s usability
+- Put together a style guide to help Plantbeta have a consistent visual design
+- Create art for t-shirts or a new logo
+
+### Do you like to write?
+
+- Write and improve Plantbeta’s documentation
+- Curate a folder of examples showing how Plantbeta is being used
+- Write tutorials for Plantbeta
+- Write a translation for Plantbeta’s documentation
+
+### Do you like to code?
+
+- Fix code bugs
+- Write unit tests for the [Tutorial section](/tutorial/Overview)
+
+### Do you like visual media?
+
+### Do you like organizing?
+
+- Link to duplicate issues, and suggest new issue labels, to keep things organized
+- Go through open issues and suggest closing old ones
+- Ask clarifying questions on recently opened issues to move the discussion forward
+
+
 
 - Give video
 - Give photos
 - Answer research questions
 - Make business connections
 - Make academic connections
-- Add content
-- Fix code bugs
-- Write unit tests for  in the [Tutorial section](/tutorial/Overview)
+
+
 - Write documentation for functions in the standard library
 
 If you want to contribute in other areas, you can:
