@@ -1,14 +1,13 @@
 /* .vitepress/theme/custom.css */
 :root {
-    --vp-c-brand-1: #6a9955;
-    --vp-c-brand-2: #c6fbae;
-    --vp-c-brand-3:  #6a9955;
+  --vp-c-brand-1: #6a9955;
+  --vp-c-brand-2: #569cd6;
+  --vp-c-brand-3: #6a9955;
 
-  }
+}
 
-.vp-doc a  {
+.vp-doc a {
   color: inherit;
-  text-decoration-color: #808080;
 }
 
 .title {
@@ -17,11 +16,55 @@
 }
 
 
-moto { color: #bf6a34 }
-via { color: #f44747 }
-neuro { color: #c586c0 }
-beta { color: #569cd6 }
-eco { color: #6a9955 }
-bg { color: #1f1f1f }
-dev { color: #9cdcfe }
-ye { color: #ffd700 }
+moto {
+  color: #bf6a34;
+
+}
+
+h1 moto {
+  text-decoration-color: #bf6a34;
+  text-decoration: underline;
+}
+
+via {
+  color: #f44747
+}
+
+h1 via {
+  text-decoration-color: #f44747;
+  text-decoration: underline;
+}
+
+neuro {
+  color: #c586c0
+}
+
+beta {
+  color: #569cd6
+}
+
+eco {
+  color: #6a9955
+}
+
+bg {
+  color: #1f1f1f
+}
+
+dev {
+  color: #9cdcfe
+}
+
+ye {
+  color: #ffd700
+}
+
+
+.VPHomeHero .name span.clip {
+  font-size: 200%;
+
+}
+
+.VPNavBarTitle #text {
+  color: blue;
+}

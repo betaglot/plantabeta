@@ -1,3 +1,7 @@
+---
+pageClass: moto-page
+---
+
 ::: details 🛠 <dev>DesignBox</dev>
 
 ## DevNotes

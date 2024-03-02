@@ -1,3 +1,10 @@
+---
+
+outline: false 
+sidebar: false
+
+---
+
 ::: details 🛠 <dev>DesignBox</dev>
 
 ## DevNotes
@@ -105,13 +112,16 @@ Seedling
 
 The three main types of seedlings which are planted are:
 
-Pine
+## Pine
+
 ![InstaPhoto011](/InstaPhoto011.jpg)
 
 Spruce
+
 ![InstaPhoto059](/InstaPhoto059.jpg)
 
 Fir
+
 ![InstaPhoto071](/InstaPhoto071.jpg)
 
 :::

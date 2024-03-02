@@ -17,7 +17,7 @@
 - "Guide.Why.Productivity.Efficiency.Redundancy"
 :::
 
-# Productivity
+# <via>Productivity</via>
 
 ## Effectiveness
 

@@ -18,7 +18,7 @@
 
 :::
 
-# Better Communication
+# <beta>Better Communication</beta>
 
 ## Greater Vocabulary
 
