@@ -1,6 +1,7 @@
 ::: details 🛠 <dev>DesignBox</dev>
 
 - ComputationalModel
+
 <h2>PageTags</h2>
 
 - "Dev.System"
@@ -47,7 +48,6 @@
 - "Dev.System.Theorem"
 - "Dev.System.Value"
 
-
 - Pylanter.py
   :::
 
@@ -68,8 +68,8 @@ The Source Code for Plantbeta is called [BetaCode](/reference/Beta/BetaCode).
 | Python | Plantbeta |
 | ------ | --------- |
 | user   | Eco       |
-| input  |
-| output |
+| input  | |
+| output | |
 
 math
 conditional execution |
@@ -131,46 +131,43 @@ Object Oriented Programming
 
 > A mathematical object is an abstract concept arising in mathematics. In the usual language of mathematics, an object is anything that has been (or could be) formally defined, and with which one may do deductive reasoning and mathematical proofs. Typically, a mathematical object can be a value that can be assigned to a variable, and therefore can be involved in formulas. Commonly encountered mathematical objects include numbers, sets, functions, expressions, geometric objects, transformations of other mathematical objects, and spaces. Mathematical objects can be very complex; for example, theorems, proofs, and even theories are considered as mathematical objects in proof theory.
 
-
 I want to call Beta Objects Elements to align with gymnastics, since they call their Gymnast units of performance Elements. `{ Gymnastics : Plantbeta }`
 
 All functions are Objects
 
 A Moto is an Object of Movement
+
 - ArmSwing()
 
 An Eco is an Object of the Environment
+
 - TrenchLand
 
 A Neuro is an Object of the Nervous system
 
 A Beta is an Object of Beta.
+
 - Put() is a Beta
 - Beta.Lingo()
     - BetaLingo is like print() or console.log()
 
-When someone asks "What's your Beta?" you don't give them your Beta since Beta requires execution, instead you give them a description of Beta. All code is actually the movement of electricity, but it's represented as text. Really what the person is asking is "What is a description of your Beta?" 
+When someone asks "What's your Beta?" you don't give them your Beta since Beta requires execution, instead you give them a description of Beta. All code is actually the movement of electricity, but it's represented as text. Really what the person is asking is "What is a description of your Beta?"
 
 Beta can be represented as BetaCode, or BetaVox
 
-You can't speak about Via or Moto by themselves. 
-
+You can't speak about Via or Moto by themselves.
 
 An Element is an Object of Plantbeta.
+
 - BetaElement and PlantbetaElement have been confused. Beta can be applied to Climbing, Plantbeta can not. You don't need Beta to climb. Beta is an abstraction layer on top of Climbing or Planting. Beta is the observation
 
 - BetaScore
-
 
 Beta is the method that you use, but also the communication of that method. There needs to be another word for the communication. BetaLingua
 
 The BetaLingo of balance beam
 
 > "<moto>Jump</moto> <via>on</via> the <eco>beam</eco> <via>at the middle</via>, then <moto>step</moto> <via>backwards</via>"
-
-
-
-
 
 ### <beta>BetaObject: Element</beta>
 
@@ -212,11 +209,11 @@ Via_Properties = {
 }
 
 ```
+
 ### <neuro>NeuroObject: Experience</neuro>
 
 - An obbject in Awareness
 - An object of your Attention
-
 
 ## Data Types
 
@@ -227,7 +224,6 @@ for microsite in via:
     SpadeTest(microsite)
 
 ```
-
 
 ### <moto>List: Phrase</moto>
 
@@ -269,6 +265,7 @@ for microsite in via:
 -
 
 #### EcoTuple
+
 -
 
 ### String
@@ -279,9 +276,9 @@ All spoken Beta are strings
 
 ::: details DesignBox
 
-- https://realpython.com/python-while-loop/
+- <https://realpython.com/python-while-loop/>
 
-- https://realpython.com/python-for-loop/
+- <https://realpython.com/python-for-loop/>
   :::
 
 ```py
@@ -382,7 +379,7 @@ def move(move{}, eco{}, via{}, neuro):
 
 #### ViaFunction()
 
-- - Area.BoustroCover
+- Area.BoustroCover
 
 ```py
 def BoustroCover:
@@ -402,18 +399,15 @@ Area.BoustroCover()
 
 ## Expression
 
-#### MotoExpression
-The coverage control is a multi-agent system control method that governs agents to move toward the
-optimal placement based on a predetermined density
-function. Many applications of coverage control have
-been reported in many fields, such as [
--
+### MotoExpression
 
-#### ViaExpression
+The coverage control is a multi-agent system control method that governs agents to move toward the optimal placement based on a predetermined density function. Many applications of coverage control have been reported in many fields, such as
+
+### ViaExpression
 
 -
 
-#### NeuroExpression
+### NeuroExpression
 
 -
 
@@ -436,8 +430,6 @@ been reported in many fields, such as [
 
 ### Break
 
-###
-
 You GetTree while you're MicrositeFind()
 
 ## Monty Python References
@@ -455,8 +447,14 @@ You GetTree while you're MicrositeFind()
 
 Only send what you can't predict
 
-
 ## Tensor
 
 Curve
 
+## Runtime
+
+When is BetaCode Running
+
+## Compilation
+
+Just in Time Compilation

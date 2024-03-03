@@ -16,7 +16,8 @@
 				"BalduinLandolt.surround-with-tag",
 				"Thinker.sort-json",
 				"Vue.volar",
-				"DavidAnson.vscode-markdownlint"
+				"DavidAnson.vscode-markdownlint",
+				"yy0931.vscode-sqlite3-editor"
 			]
 		}
 		

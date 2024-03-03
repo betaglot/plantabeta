@@ -53,6 +53,7 @@ function sidebarDevelopment() {
     { text: '<dev>Contribute</dev>', link: '/dev/Contribute' },
     { text: '<dev>Downloads</dev>', link: '/dev/Downloads' },
     { text: '<dev>DX</dev>', link: '/dev/DX' },
+    { text: '<dev>Filming</dev>', link: '/dev/Filming' },
     {
       text: '<dev>Graphics</dev>', collapsed: true, items: [
         { text: '<dev>Overview</dev>', link: '/dev/Graphics/Overview' },
@@ -77,7 +78,7 @@ function sidebarDevelopment() {
     { text: '<dev>StyleGuide</dev>', link: '/dev/StyleGuide' },
     { text: '<dev>Tagging</dev>', link: '/dev/Tagging' },
     { text: '<dev>Tools</dev>', link: '/dev/Tools' },
-    { text: '<dev>UX</dev>', link: '/dev/UX' },
+    { text: '<dev>UX</dev>', link: '/dev/UX' },  
     { text: '<dev>AfternoonTask</dev>', link: '/dev/AfternoonTask' },
   ]
 }
