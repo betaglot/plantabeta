@@ -1951,4 +1951,4 @@ json = {
 
 for path, tags in json.items():
     for tag in tags:
-        print(f"{path}, {tag},")
+        print(f"('{path}', '{tag}'),")

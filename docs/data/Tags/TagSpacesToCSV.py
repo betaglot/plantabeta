@@ -22518,4 +22518,4 @@ json = [
 
 for item in json:
     for tag in item["tags"]:
-        print(f"{item['name']}, {tag['title']},")
+        print(f"('{item['name']}', '{tag['title']}'),")

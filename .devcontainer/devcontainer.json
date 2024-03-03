@@ -17,7 +17,8 @@
 				"Thinker.sort-json",
 				"Vue.volar",
 				"DavidAnson.vscode-markdownlint",
-				"yy0931.vscode-sqlite3-editor"
+				"yy0931.vscode-sqlite3-editor",
+				"mechatroner.rainbow-csv"
 			]
 		}
 		
