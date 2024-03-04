@@ -8,7 +8,6 @@
 
 `TagsToHeaders: False`
 
-`PaperPhotoToDesignBox: False`
 
 - Acceptance
 - Equanimity

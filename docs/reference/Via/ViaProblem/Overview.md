@@ -8,7 +8,6 @@
 
 `TagsToHeaders: False`
 
-`PaperPhotoToDesignBox: False`
 
 
 Not all problems can be perfectly solved.

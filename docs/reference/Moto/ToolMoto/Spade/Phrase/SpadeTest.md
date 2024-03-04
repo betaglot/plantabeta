@@ -8,7 +8,6 @@
 
 `TagsToHeaders: False`
 
-`PaperPhotoToDesignBox: False`
 
 - AlsoKnownAs(SpadeProp)
 <h2>PageTags</h2>

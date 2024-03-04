@@ -8,7 +8,6 @@
 
 `TagsToHeaders: False`
 
-`PaperPhotoToDesignBox: False`
 
 - AnimalWildlifeLibrary_Badger_EncounterFrequency_ToDo_GetStatistic_
 - AnimalWildlifeLibrary_Bear_BlackBear_EncounterFrequency_ToDo_GetStatistic

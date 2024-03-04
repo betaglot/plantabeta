@@ -8,7 +8,6 @@
 
 `TagsToHeaders: False`
 
-`PaperPhotoToDesignBox: False`
 
 > Beta is what you actually do implement
 > Elements are just options possibilities
@@ -138,7 +137,6 @@ This each line are analog pairs. The equal signs = denotes where Climbing and Pl
 
 `TagsToHeaders: False`
 
-`PaperPhotoToDesignBox: False`
 
 :::
 

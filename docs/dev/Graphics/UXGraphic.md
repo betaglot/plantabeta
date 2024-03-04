@@ -7,8 +7,7 @@
 ## DevState
 
 `TagsToHeaders: False`
-
-`PaperPhotoToDesignBox: False` 
+ 
 
 
 :::

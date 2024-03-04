@@ -8,7 +8,6 @@
 
 `TagsToHeaders: False`
 
-`PaperPhotoToDesignBox: False`
 
 - Minimize burn dust inhaled by moveselection
 <h2>PageTags</h2>

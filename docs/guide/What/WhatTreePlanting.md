@@ -15,7 +15,6 @@ sidebar: false
 
 `TagsToHeaders: False`
 
-`PaperPhotoToDesignBox: False`
 
 <h2>PageTags</h2>
 

@@ -8,7 +8,6 @@
 
 `TagsToHeaders: False`
 
-`PaperPhotoToDesignBox: False`
 
 ## ToReduceConfusion
 
@@ -127,7 +126,6 @@ Homonyms = {
 
 `TagsToHeaders: False`
 
-`PaperPhotoToDesignBox: False`
 
 :::
 ```
@@ -190,7 +188,6 @@ for Paper in PaperPhotoList:
 
 `TagsToHeaders: False`
 
-`PaperPhotoToDesignBox: False`
 
 :::
 

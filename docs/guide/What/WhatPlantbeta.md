@@ -10,7 +10,6 @@
 
 `TagsToHeaders: False`
 
-`PaperPhotoToDesignBox: False`
 
 <h2>PageTags</h2>
 
@@ -235,7 +234,6 @@ Plantbeta is divided into 6 sections:
 
 `TagsToHeaders: False`
 
-`PaperPhotoToDesignBox: False`
 
 :::
 

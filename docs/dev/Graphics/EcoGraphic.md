@@ -8,7 +8,6 @@
 
 `TagsToHeaders: False`
 
-`PaperPhotoToDesignBox: False`
 ![PaperPhoto](/PaperPhoto/0034.jpg)
 ![PaperPhoto](/PaperPhoto/0051.jpg)
 

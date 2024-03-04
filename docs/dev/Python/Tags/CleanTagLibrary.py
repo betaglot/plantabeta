@@ -384,7 +384,7 @@ tags = [
     "Sponsor.Promotion.Video.MusicVideo",
     "Test.LabelDiagram",
     "Tests.BetaDecomposition",
-    "Tests.CoverInBlank",
+    "Tests.FillInBlank",
     "Tests.IncreasingDifficulty",
     "Tests.MatchingTest",
     "Tests.MotoDecomposition",

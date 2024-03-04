@@ -8,7 +8,6 @@
 
 `TagsToHeaders: False`
 
-`PaperPhotoToDesignBox: False`
 
 - PlantingTool_Carabiner_Rope_CloveHitch_RopeAnchor_HangingCache
 - PlantingTool_Carabiner_Rope_HangingTreeCache												

@@ -8,7 +8,6 @@
 
 `TagsToHeaders: False`
 
-`PaperPhotoToDesignBox: False`
 
 - AlsoKnownAs(SpadeThrow)
 WWE Slam move

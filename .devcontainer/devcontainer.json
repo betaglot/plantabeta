@@ -18,7 +18,8 @@
 				"Vue.volar",
 				"DavidAnson.vscode-markdownlint",
 				"yy0931.vscode-sqlite3-editor",
-				"mechatroner.rainbow-csv"
+				"mechatroner.rainbow-csv",
+				"mtxr.sqltools"
 			]
 		}
 		

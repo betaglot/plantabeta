@@ -14,7 +14,6 @@ sidebar: false
 
 `TagsToHeaders: False`
 
-`PaperPhotoToDesignBox: False`
 
 :::
 

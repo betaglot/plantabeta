@@ -12,7 +12,6 @@
 
 `TagsToHeaders: False`
 
-`PaperPhotoToDesignBox: False`
 
 - https://gwlucastrig.github.io/TinfourDocs/DelaunayIntro/index.html
 

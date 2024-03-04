@@ -41,7 +41,6 @@ Don't go over the same place more than once.
 
 `TagsToHeaders: False`
 
-`PaperPhotoToDesignBox: False`
 
 Spandrel art between plating plot radius cirle area circleshape
 

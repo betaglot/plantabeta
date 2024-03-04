@@ -8,7 +8,6 @@
 
 `TagsToHeaders: False`
 
-`PaperPhotoToDesignBox: False`
 
 - Arm wrestling screef. ArmLock then use your whole body
 <h2>PageTags</h2>

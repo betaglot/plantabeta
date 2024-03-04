@@ -8,7 +8,6 @@
 
 `TagsToHeaders: False`
 
-`PaperPhotoToDesignBox: False`
 
 Supervisor is too many syllables. NameTooLong
 <h2>PageTags</h2>

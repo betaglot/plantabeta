@@ -1933,7 +1933,7 @@ tags = {
     "tutorials/Overview.md": [
         "Test.LabelDiagram",
         "Tests.BetaDecomposition",
-        "Tests.CoverInBlank",
+        "Tests.FillInBlank",
         "Tests.IncreasingDifficulty",
         "Tests.MatchingTest",
         "Tests.MotoDecomposition",

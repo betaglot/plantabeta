@@ -8,7 +8,6 @@
 
 `TagsToHeaders: False`
 
-`PaperPhotoToDesignBox: False`
 
 ArmProp to TrunkPush or BranchPush like pushing open a door. There is also ArmAbduction
 

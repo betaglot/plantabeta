@@ -8,7 +8,6 @@
 
 `TagsToHeaders: False`
 
-`PaperPhotoToDesignBox: False`
 
 - Planter_Brain_Homeostasis_BodyTemperature_Hyperthermia_HotWeather_FastLand_
 - Planter_Brain_Homeostasis_BodyTemperature_Hyperthermia_HotWeather_HeatStroke_

@@ -8,7 +8,6 @@
 
 `TagsToHeaders: False`
 
-`PaperPhotoToDesignBox: False`
 
 - SelfAwareness
     - Stephen Fleming [Know Thyself](https://metacoglab.org/people)

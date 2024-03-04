@@ -215,7 +215,6 @@ Boolean
 
 `TagsToHeaders: False`
 
-`PaperPhotoToDesignBox: False`
 
 Delete tags once converted to headers. They are stored in a JSON
 
@@ -230,7 +229,6 @@ Delete tags once converted to headers. They are stored in a JSON
 
 `TagsToHeaders: False`
 
-`PaperPhotoToDesignBox: False`
 
 
 :::
@@ -249,7 +247,6 @@ Delete tags once converted to headers. They are stored in a JSON
 
 `TagsToHeaders: False`
 
-`PaperPhotoToDesignBox: False`
 
 :::
 
@@ -270,7 +267,6 @@ Delete tags once converted to headers. They are stored in a JSON
 
 `TagsToHeaders: False`
 
-`PaperPhotoToDesignBox: False`
 
 :::
 
@@ -291,7 +287,6 @@ Delete tags once converted to headers. They are stored in a JSON
 
 `TagsToHeaders: False`
 
-`PaperPhotoToDesignBox: False`
 
 :::
 
@@ -312,7 +307,6 @@ Delete tags once converted to headers. They are stored in a JSON
 
 `TagsToHeaders: False`
 
-`PaperPhotoToDesignBox: False`
 
 :::
 
@@ -332,7 +326,6 @@ Delete tags once converted to headers. They are stored in a JSON
 
 `TagsToHeaders: False`
 
-`PaperPhotoToDesignBox: False`
 
 :::
 
@@ -353,7 +346,6 @@ Delete tags once converted to headers. They are stored in a JSON
 
 `TagsToHeaders: False`
 
-`PaperPhotoToDesignBox: False`
 
 :::
 

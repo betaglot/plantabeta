@@ -9,7 +9,6 @@
 
 `TagsToHeaders: False`
 
-`PaperPhotoToDesignBox: False`
 
 - Give to the planters that will come after you. We will always have forests to cultivate.
 

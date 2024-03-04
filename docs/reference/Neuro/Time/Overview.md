@@ -8,7 +8,6 @@
 
 `TagsToHeaders: False`
 
-`PaperPhotoToDesignBox: False`
 
 - ResearchModel_ModelDay_Chronology_5_SleepFinishTime_
 - ResearchModel_ModelDay_Chronology_6_BlockApproachStartTime_
