@@ -6,13 +6,16 @@
 
 ## DevState
 
+```py
 `TagsToHeaders: False`
-
+```
 
 <h2>PageTags</h2>
 
 - "Moto.ToolMoto.SpadeMoto.SpadeCircumduction"
 - "Moto.ToolMoto.SpadeMoto.SpadeSwing"
+
+Moto/ToolMoto/Spade/SpadeSwing.md, <dev>Moto.ToolMoto.SpadeMoto.SpadeSwing</dev>, ![1259.jpg](/PaperPhoto/1259.jpg)
 
 :::
 

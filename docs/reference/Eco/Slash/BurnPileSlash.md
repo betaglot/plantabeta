@@ -6,7 +6,9 @@
 
 ## DevState
 
+```py
 `TagsToHeaders: False`
+```
 
 
 - Minimize burn dust inhaled by moveselection

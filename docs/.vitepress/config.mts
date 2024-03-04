@@ -318,7 +318,7 @@ function sidebarReference() {
             { text: '🟠 <moto>ArmProp</moto>', link: '/reference/Moto/ArmMoto/ArmProp' },
             { text: '🟠 <moto>ArmSwing</moto>', link: '/reference/Moto/ArmMoto/ArmSwing' },
             { text: '🟠 <moto>ArmWalk</moto>', link: '/reference/Moto/ArmMoto/ArmWalk' },
-            { text: '🟠 <moto>ArmFlag</moto>', link: '/reference/Moto/ArmMoto/ArmFlag' },
+            { text: '🟠 <moto>ArmBalance</moto>', link: '/reference/Moto/ArmMoto/ArmBalance' },
           ]
         },
         {

@@ -58,7 +58,7 @@ PageTags = {
 "Eco/Soil/WetSoil.md": [],
 "Eco/Sun/Overview.md": [],
 "Moto/ArmMoto/ArmBlock.md": [],
-"Moto/ArmMoto/ArmFlag.md": [],
+"Moto/ArmMoto/ArmBalance.md": [],
 "Moto/ArmMoto/ArmProp.md": [],
 "Moto/ArmMoto/ArmPhrase.md": [],
 "Moto/ArmMoto/ArmSidebagLift.md": [],

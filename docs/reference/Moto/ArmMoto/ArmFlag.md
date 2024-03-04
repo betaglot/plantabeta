@@ -6,16 +6,19 @@
 
 ## DevState
 
+```py
 `TagsToHeaders: False`
-
+```
 
 <h2>PageTags</h2>
 
-- "Moto.ArmMoto.ArmFlag"
+- "Moto.ArmMoto.ArmBalance"
+Moto/ArmMoto/ArmBalance.md, <dev>Moto.ArmMoto.ArmBalance</dev>, ![Video_011.mp4](/PaperPhoto/Video_011.mp4)
+
 
 :::
 
-# 🟠 <moto>ArmFlag</moto>
+# 🟠 <moto>ArmBalance</moto>
 
 ![MotoEmoji](/Moto/Moto_Emoji.png)
 

@@ -81050,7 +81050,7 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Moto.ArmMoto.ArmFlag",
+                    "title": "Moto.ArmMoto.ArmBalance",
                     "color": "#ff7537ff",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -81112,7 +81112,7 @@
                 "textcolor": "#ffffffff"
             },
             {
-                "title": "Moto.ArmMoto.ArmFlag",
+                "title": "Moto.ArmMoto.ArmBalance",
                 "color": "#ff7537ff",
                 "textcolor": "white"
             },

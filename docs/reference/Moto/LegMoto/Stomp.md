@@ -6,12 +6,15 @@
 
 ## DevState
 
+```py
 `TagsToHeaders: False`
-
+```
 
 <h2>PageTags</h2>
 
 - "Moto.LegMoto.Stomp"
+
+Moto/LegMoto/Stomp.md, <dev>Moto.LegMoto.Stomp</dev>, ![2450.jpg](/PaperPhoto/2450.jpg)
 
 :::
 

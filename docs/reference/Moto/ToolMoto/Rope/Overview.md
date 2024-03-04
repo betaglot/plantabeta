@@ -6,7 +6,9 @@
 
 ## DevState
 
+```py
 `TagsToHeaders: False`
+```
 
 
 Thread Gear Loops

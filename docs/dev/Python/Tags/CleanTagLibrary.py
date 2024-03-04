@@ -652,7 +652,7 @@ tags = [
     "Moto.ArmMoto.ArmCross",
     "Moto.ArmMoto.ArmExtension",
     "Moto.ArmMoto.ArmExternalRotation",
-    "Moto.ArmMoto.ArmFlag",
+    "Moto.ArmMoto.ArmBalance",
     "Moto.ArmMoto.ArmFlexion",
     "Moto.ArmMoto.ArmInternalRotation",
     "Moto.ArmMoto.ArmLock",

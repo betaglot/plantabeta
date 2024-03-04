@@ -6,16 +6,13 @@
 
 ## DevState
 
+```py
 `TagsToHeaders: False`
-
-
-<h2>PageTags</h2>
-
-- "Moto.ToolMoto.FlagMoto.FlagRip"
+```
 
 :::
 
-# 🟠 <moto>FlagRip</moto>
+# 🟠 <moto>FlagGet</moto>
 
 ![MotoEmoji](/Moto/Moto_Emoji.png)
 

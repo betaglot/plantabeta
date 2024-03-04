@@ -6,7 +6,9 @@
 
 ## DevState
 
+```py
 `TagsToHeaders: False`
+```
 
 
 - Acceptance
@@ -18,6 +20,10 @@ Vipassana
 
 - "Neuro.Meditation"
 - "Neuro.NonDual"
+
+Neuro/Mindfulness/MindfulBreathing.md, <dev>Neuro.NonDual</dev>, ![0734.jpg](/PaperPhoto/0734.jpg)
+Neuro/Mindfulness/MindfulBreathing.md, <dev>Neuro.Meditation</dev>, ![3052.jpg](/PaperPhoto/3052.jpg)
+
 :::
 
 # 💜 <neuro>Mindfulness</neuro>

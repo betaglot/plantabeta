@@ -845,9 +845,9 @@ data = [
         "TagName": "Beta.BetaInstance.BetaInstanceComparison"
     },
     {
-        "PagePath": "Moto/ArmMoto/ArmFlag.md",
+        "PagePath": "Moto/ArmMoto/ArmBalance.md",
         "PaperPhoto": "Video_011.mp4",
-        "TagName": "Moto.ArmMoto.ArmFlag"
+        "TagName": "Moto.ArmMoto.ArmBalance"
     },
     {
         "PagePath": "Moto/ArmMoto/ArmProp.md",

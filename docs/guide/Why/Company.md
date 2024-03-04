@@ -6,7 +6,9 @@
 
 ## DevState
 
+```py
 `TagsToHeaders: False`
+```
 
 
 - Plantbeta is a service
@@ -20,6 +22,16 @@
 - "Guide.Why.Company"
 - "Guide.Why.Innovation.Database"
 - "Guide.Why.Innovation.MinimizeFlag"
+
+guide/Why/Company.md, <dev>Guide.Who.PlanterResearcher</dev>, ![0876.jpg](/PaperPhoto/0876.jpg)
+guide/Why/Company.md, <dev>Guide.Why.Innovation.MinimizeFlag</dev>, ![2938.jpg](/PaperPhoto/2938.jpg)
+guide/Why/Company.md, <dev>Guide.Why.Company</dev>, ![2953.jpg](/PaperPhoto/2953.jpg)
+guide/Why/Company.md, <dev>Guide.Why.Innovation.Database</dev>, ![2953.jpg](/PaperPhoto/2953.jpg)
+guide/Why/Company.md, <dev>Guide.Why.Innovation.MinimizeFlag</dev>, ![2953.jpg](/PaperPhoto/2953.jpg)
+guide/Why/Company.md, <dev>Guide.Why.Company</dev>, ![2967.jpg](/PaperPhoto/2967.jpg)
+guide/Why/Company.md, <dev>Guide.Why.Company</dev>, ![3047.jpg](/PaperPhoto/3047.jpg)
+guide/Why/Company.md, <dev>Guide.Why.Innovation.Database</dev>, ![3048.jpg](/PaperPhoto/3048.jpg)
+
 :::
 
 # Company

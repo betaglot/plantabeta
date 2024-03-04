@@ -6,14 +6,36 @@
 
 ## DevState
 
+```py
 `TagsToHeaders: False`
-
+```
 
 <h2>PageTags</h2>
 
 - "Guide.Why.Productivity"
 - "Guide.Why.Productivity.Efficiency"
 - "Guide.Why.Productivity.Efficiency.Redundancy"
+
+guide/Why/Productivity.md, <dev>Guide.Why.Productivity.Efficiency</dev>, ![0056.jpg](/PaperPhoto/0056.jpg)
+guide/Why/Productivity.md, <dev>Guide.Why.Productivity.Efficiency</dev>, ![0430.jpg](/PaperPhoto/0430.jpg)
+guide/Why/Productivity.md, <dev>Guide.Why.Productivity.Efficiency</dev>, ![0484.jpg](/PaperPhoto/0484.jpg)
+guide/Why/Productivity.md, <dev>Guide.Why.Productivity.Efficiency</dev>, ![0649.jpg](/PaperPhoto/0649.jpg)
+guide/Why/Productivity.md, <dev>Guide.Why.Productivity.Efficiency</dev>, ![0756.jpg](/PaperPhoto/0756.jpg)
+guide/Why/Productivity.md, <dev>Guide.Why.Productivity.Efficiency.Redundancy</dev>, ![1051.jpg](/PaperPhoto/1051.jpg)
+guide/Why/Productivity.md, <dev>Guide.Why.Productivity.Efficiency.Redundancy</dev>, ![1343.jpg](/PaperPhoto/1343.jpg)
+guide/Why/Productivity.md, <dev>Guide.Why.Productivity.Efficiency</dev>, ![1379.jpg](/PaperPhoto/1379.jpg)
+guide/Why/Productivity.md, <dev>Guide.Why.Productivity.Efficiency.Redundancy</dev>, ![1571.jpg](/PaperPhoto/1571.jpg)
+guide/Why/Productivity.md, <dev>Guide.Why.Productivity.Efficiency.Redundancy</dev>, ![2263.jpg](/PaperPhoto/2263.jpg)
+guide/Why/Productivity.md, <dev>Guide.Why.Productivity.Efficiency.Redundancy</dev>, ![2526.jpg](/PaperPhoto/2526.jpg)
+guide/Why/Productivity.md, <dev>Guide.Why.Productivity.Efficiency</dev>, ![2568.jpg](/PaperPhoto/2568.jpg)
+guide/Why/Productivity.md, <dev>Guide.Why.Productivity.Efficiency</dev>, ![2934.jpg](/PaperPhoto/2934.jpg)
+guide/Why/Productivity.md, <dev>Guide.Why.Productivity.Efficiency.Redundancy</dev>, ![2944.jpg](/PaperPhoto/2944.jpg)
+guide/Why/Productivity.md, <dev>Guide.Why.Productivity</dev>, ![2946.jpg](/PaperPhoto/2946.jpg)
+guide/Why/Productivity.md, <dev>Guide.Why.Productivity</dev>, ![3056.jpg](/PaperPhoto/3056.jpg)
+guide/Why/Productivity.md, <dev>Guide.Why.Productivity.Efficiency</dev>, ![3124.jpg](/PaperPhoto/3124.jpg)
+guide/Why/Productivity.md, <dev>Guide.Why.Productivity.Efficiency</dev>, ![3157.jpg](/PaperPhoto/3157.jpg)
+guide/Why/Productivity.md, <dev>Guide.Why.Productivity.Efficiency.Redundancy</dev>, ![Video_013.mp4](/PaperPhoto/Video_013.mp4)
+
 :::
 
 # <via>Productivity</via>

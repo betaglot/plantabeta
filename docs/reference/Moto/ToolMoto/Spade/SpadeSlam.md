@@ -6,7 +6,9 @@
 
 ## DevState
 
+```py
 `TagsToHeaders: False`
+```
 
 
 - AlsoKnownAs(SpadeThrow)
@@ -17,6 +19,9 @@ WWE Slam move
 <h2>PageTags</h2>
 
 - "Moto.ToolMoto.SpadeMoto.SpadeSlam"
+
+Moto/ToolMoto/Spade/SpadeSlam.md, <dev>Moto.ToolMoto.SpadeMoto.SpadeSlam</dev>, ![Video_008.mp4](/PaperPhoto/Video_008.mp4)
+
 :::
 
 # 🟠 <moto>Spade Slam</moto>

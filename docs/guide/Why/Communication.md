@@ -6,14 +6,30 @@
 
 ## DevState
 
+```py
 `TagsToHeaders: False`
-
+```
 
 <h2>PageTags</h2>
 
 - "Guide.Who.Overview"
 - "Guide.Why.Communication"
 - "Guide.Why.Overview"
+
+guide/Why/Communication.md, <dev>Guide.Who.Overview</dev>, ![1187.jpg](/PaperPhoto/1187.jpg)
+guide/Why/Communication.md, <dev>Guide.Who.Overview</dev>, ![1763.jpg](/PaperPhoto/1763.jpg)
+guide/Why/Communication.md, <dev>Guide.Why.Communication</dev>, ![1861.jpg](/PaperPhoto/1861.jpg)
+guide/Why/Communication.md, <dev>Guide.Why.Communication</dev>, ![1870.jpg](/PaperPhoto/1870.jpg)
+guide/Why/Communication.md, <dev>Guide.Why.Communication</dev>, ![2081.jpg](/PaperPhoto/2081.jpg)
+guide/Why/Communication.md, <dev>Guide.Who.Overview</dev>, ![2495.jpg](/PaperPhoto/2495.jpg)
+guide/Why/Communication.md, <dev>Guide.Why.Communication</dev>, ![2861.jpg](/PaperPhoto/2861.jpg)
+guide/Why/Communication.md, <dev>Guide.Why.Communication</dev>, ![2946.jpg](/PaperPhoto/2946.jpg)
+guide/Why/Communication.md, <dev>Guide.Why.Communication</dev>, ![2955.jpg](/PaperPhoto/2955.jpg)
+guide/Why/Communication.md, <dev>Guide.Why.Communication</dev>, ![3029.jpg](/PaperPhoto/3029.jpg)
+guide/Why/Communication.md, <dev>Guide.Why.Communication</dev>, ![3124.jpg](/PaperPhoto/3124.jpg)
+guide/Why/Communication.md, <dev>Guide.Why.Overview</dev>, ![3124.jpg](/PaperPhoto/3124.jpg)
+guide/Why/Communication.md, <dev>Guide.Why.Overview</dev>, ![3150.jpg](/PaperPhoto/3150.jpg)
+guide/Why/Communication.md, <dev>Guide.Why.Communication</dev>, ![3157.jpg](/PaperPhoto/3157.jpg)
 
 :::
 

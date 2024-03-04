@@ -6,7 +6,9 @@
 
 ## DevState
 
+```py
 `TagsToHeaders: False`
+```
 
 <h2>PageTags</h2>
 
@@ -33,6 +35,17 @@
 - is it deductive or is inductive how you get to the body move so do you start with the body move or do you think of all the sub moves and from that set of Submotos you decide what the body move should be so that could make sense depending on the soil so like say say if you find a microsite and instead of walking over and just bending down you walk over then you step on a high piece of land and then you kind of Superman punch into the ground 
 
 - Superman slam I guess I should say into the ground so that would be a body move stepping up a little bit to use the full weight the full gravity mass of your body on the Spade on the spadeslam this will allow you to be more efficient because your body needs to come down anyway so it's nice to use gravity with use gravities acceleration as a positive
+
+Moto/BodyMoto/Overview.md, <dev>Moto.BodyMoto.Overview</dev>, ![1027.jpg](/PaperPhoto/1027.jpg)
+Moto/BodyMoto/Overview.md, <dev>Moto.BodyMoto.Stemming</dev>, ![1100.jpg](/PaperPhoto/1100.jpg)
+Moto/BodyMoto/Overview.md, <dev>Moto.BodyMoto.BodyDrop.BodyDropInto</dev>, ![1796.jpg](/PaperPhoto/1796.jpg)
+Moto/BodyMoto/Overview.md, <dev>Moto.BodyMoto.BodyPosture</dev>, ![1840.jpg](/PaperPhoto/1840.jpg)
+Moto/BodyMoto/Overview.md, <dev>Moto.BodyMoto.Mantle</dev>, ![2278.jpg](/PaperPhoto/2278.jpg)
+Moto/BodyMoto/Overview.md, <dev>Moto.BodyMoto.Overview</dev>, ![2355.jpg](/PaperPhoto/2355.jpg)
+Moto/BodyMoto/Overview.md, <dev>Moto.BodyMoto.Landing</dev>, ![2450.jpg](/PaperPhoto/2450.jpg)
+Moto/BodyMoto/Overview.md, <dev>Moto.BodyMoto.BodyPosture</dev>, ![2469.jpg](/PaperPhoto/2469.jpg)
+Moto/BodyMoto/Overview.md, <dev>Moto.BodyMoto.Overview</dev>, ![2474.jpg](/PaperPhoto/2474.jpg)
+Moto/BodyMoto/Overview.md, <dev>Moto.BodyMoto.Stemming</dev>, ![2834.jpg](/PaperPhoto/2834.jpg)
 
 :::
 

@@ -6,12 +6,15 @@
 
 ## DevState
 
+```py
 `TagsToHeaders: False`
-
+```
 
 <h2>PageTags</h2>
 
 - "Guide.Why.Wildfire"
+
+guide/Why/Wildfire.md, <dev>Guide.Why.Wildfire</dev>, ![3048.jpg](/PaperPhoto/3048.jpg)
 
 :::
 

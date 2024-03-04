@@ -7,8 +7,9 @@
 
 ## DevState
 
+```py
 `TagsToHeaders: False`
-
+```
 
 - Give to the planters that will come after you. We will always have forests to cultivate.
 
@@ -16,6 +17,9 @@
 
 - "Dev.Donation"
 - "Dev.Feedback"
+
+dev/Contribute.md, <dev>Dev.Feedback</dev>, ![3045.jpg](/PaperPhoto/3045.jpg)
+
 :::
 
 # 🛠 Start Contributing to Plantbeta: Your First Steps
@@ -53,14 +57,11 @@
 - Go through open issues and suggest closing old ones
 - Ask clarifying questions on recently opened issues to move the discussion forward
 
-
-
 - Give video
 - Give photos
 - Answer research questions
 - Make business connections
 - Make academic connections
-
 
 - Write documentation for functions in the standard library
 

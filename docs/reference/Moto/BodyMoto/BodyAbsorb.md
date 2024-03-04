@@ -6,12 +6,18 @@
 
 ## DevState
 
+```py
 `TagsToHeaders: False`
-
+```
 
 <h2>PageTags</h2>
 
 - "Moto.BodyMoto.BodyAbsorb"
+
+Moto/BodyMoto/BodyAbsorb.md, <dev>Moto.BodyMoto.BodyAbsorb</dev>, ![1006.jpg](/PaperPhoto/1006.jpg)
+Moto/BodyMoto/BodyAbsorb.md, <dev>Moto.BodyMoto.BodyAbsorb</dev>, ![1806.jpg](/PaperPhoto/1806.jpg)
+
+
 :::
 
 # 🟠 <moto>BodyAbsorb</moto>

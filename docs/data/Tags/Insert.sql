@@ -6067,7 +6067,7 @@ INSERT INTO PagePath_TagName
         ('Video_011.mp4', 'Moto.HandMoto.HandClose'),
         ('Video_011.mp4', 'Moto.BodyMoto.StepOverLog'),
         ('Video_011.mp4', 'Land.Slash.LowSlash'),
-        ('Video_011.mp4', 'Moto.ArmMoto.ArmFlag'),
+        ('Video_011.mp4', 'Moto.ArmMoto.ArmBalance'),
         ('Video_011.mp4', 'Moto.ArmMoto.TreeLoad'),
         ('Video_013.mp4', 'RawVideo'),
         ('Video_013.mp4', 'Moto.CacheMoto.BagsPlacement'),

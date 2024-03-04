@@ -6,13 +6,17 @@
 
 ## DevState
 
+```py
 `TagsToHeaders: False`
-
+```
 
 <h2>PageTags</h2>
 
 - "Moto.HoleMoto.CloseHole"
 - "Moto.HoleMoto.CloseHole.MultipleToolClose"
+
+Moto/HoleMoto/HoleClose.md, <dev>Moto.HoleMoto.CloseHole</dev>, ![2936.jpg](/PaperPhoto/2936.jpg)
+Moto/HoleMoto/HoleClose.md, <dev>Moto.HoleMoto.CloseHole</dev>, ![2944.jpg](/PaperPhoto/2944.jpg)
 
 :::
 

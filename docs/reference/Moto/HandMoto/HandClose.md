@@ -6,14 +6,25 @@
 
 ## DevState
 
+```py
 `TagsToHeaders: False`
-
+```
 
 <h2>PageTags</h2>
 
 - "Moto.HandMoto.HandClose"
 - "Moto.HandMoto.HandClose.HammerClose"
 - "Moto.HandMoto.HandClose.PunchClose"
+
+Moto/HandMoto/HandClose.md, <dev>Moto.HandMoto.HandClose.HammerClose</dev>, ![3160.jpg](/PaperPhoto/3160.jpg)
+Moto/HandMoto/HandClose.md, <dev>Moto.HandMoto.HandClose.PunchClose</dev>, ![3160.jpg](/PaperPhoto/3160.jpg)
+Moto/HandMoto/HandClose.md, <dev>Moto.HandMoto.HandClose</dev>, ![Video_006.mp4](/PaperPhoto/Video_006.mp4)
+Moto/HandMoto/HandClose.md, <dev>Moto.HandMoto.HandClose.PunchClose</dev>, ![Video_006.mp4](/PaperPhoto/Video_006.mp4)
+Moto/HandMoto/HandClose.md, <dev>Moto.HandMoto.HandClose</dev>, ![Video_007.mp4](/PaperPhoto/Video_007.mp4)
+Moto/HandMoto/HandClose.md, <dev>Moto.HandMoto.HandClose</dev>, ![Video_009.mp4](/PaperPhoto/Video_009.mp4)
+Moto/HandMoto/HandClose.md, <dev>Moto.HandMoto.HandClose.PunchClose</dev>, ![Video_009.mp4](/PaperPhoto/Video_009.mp4)
+Moto/HandMoto/HandClose.md, <dev>Moto.HandMoto.HandClose</dev>, ![Video_011.mp4](/PaperPhoto/Video_011.mp4)
+
 :::
 
 # 🟠 <moto>HandClose</moto>

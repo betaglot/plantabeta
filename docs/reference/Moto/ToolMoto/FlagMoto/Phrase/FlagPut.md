@@ -6,18 +6,43 @@
 
 ## DevState
 
+```py
 `TagsToHeaders: False`
-
+```
 
 <h2>PageTags</h2>
 
-- "Moto.ToolMoto.FlagMoto.FlagUnload"
+- "Moto.ToolMoto.FlagMoto.FlagWrap"
+- "Moto.ToolMoto.FlagMoto.FlagWeave"
+- "Moto.ToolMoto.FlagMoto.FlagThrow"
+- "Moto.ToolMoto.FlagMoto.FlagKnot"
+
+Moto/ToolMoto/FlagMoto/FlagWrap.md, <dev>Moto.ToolMoto.FlagMoto.FlagWrap</dev>, ![0056.jpg](/PaperPhoto/0056.jpg)
+Moto/ToolMoto/FlagMoto/FlagWrap.md, <dev>Moto.ToolMoto.FlagMoto.FlagWrap</dev>, ![3021.jpg](/PaperPhoto/3021.jpg)
+Moto/ToolMoto/FlagMoto/FlagRip.md, <dev>Moto.ToolMoto.FlagMoto.FlagRip</dev>, ![2945.jpg](/PaperPhoto/2945.jpg)
+Moto/ToolMoto/FlagMoto/FlagThrow.md, <dev>Moto.ToolMoto.FlagMoto.FlagThrow</dev>, ![Video_001.mp4](/PaperPhoto/Video_001.mp4)
+Moto/ToolMoto/FlagMoto/FlagThrow.md, <dev>Moto.ToolMoto.FlagMoto.FlagThrow</dev>, ![Video_003.mp4](/PaperPhoto/Video_003.mp4)
+Moto/ToolMoto/FlagMoto/FlagThrow.md, <dev>Moto.ToolMoto.FlagMoto.FlagThrow</dev>, ![Video_006.mp4](/PaperPhoto/Video_006.mp4)
+Moto/ToolMoto/FlagMoto/FlagThrow.md, <dev>Moto.ToolMoto.FlagMoto.FlagThrow</dev>, ![Video_009.mp4](/PaperPhoto/Video_009.mp4)
+Moto/ToolMoto/FlagMoto/FlagWeave.md, <dev>Moto.ToolMoto.FlagMoto.FlagWeave</dev>, ![0049.jpg](/PaperPhoto/0049.jpg)
+Moto/ToolMoto/FlagMoto/FlagWeave.md, <dev>Moto.ToolMoto.FlagMoto.FlagWeave</dev>, ![0487.jpg](/PaperPhoto/0487.jpg)
+Moto/ToolMoto/FlagMoto/FlagWeave.md, <dev>Moto.ToolMoto.FlagMoto.FlagWeave</dev>, ![3021.jpg](/PaperPhoto/3021.jpg)
 
 :::
 
-# 🟠 <moto>FlagUnload</moto>
+# 🟠 <moto>PutFlag</moto>
 
+> placing a Flag in the Land
 ![MotoEmoji](/Moto/Moto_Emoji.png)
+
+## FlagKnot
+
+## FlagThrow
+
+## FlagWeave
+
+## FlagWrap
+
 
 ## Element Problem
 

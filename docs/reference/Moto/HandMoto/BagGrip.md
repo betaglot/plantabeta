@@ -6,12 +6,16 @@
 
 ## DevState
 
+```py
 `TagsToHeaders: False`
-
+```
 
 <h2>PageTags</h2>
 
 - "Moto.HandMoto.BagGrip"
+
+Moto/HandMoto/BagGrip.md, <dev>Moto.HandMoto.BagGrip</dev>, ![Video_013.mp4](/PaperPhoto/Video_013.mp4)
+Moto/HandMoto/BagGrip.md, <dev>Moto.HandMoto.BagGrip</dev>, ![Video_014.mp4](/PaperPhoto/Video_014.mp4)
 
 :::
 
