@@ -16,7 +16,6 @@
 - "Moto.ToolMoto.BootMoto.BootOn"
 - "Moto.ToolMoto.BootMoto.Overview"
 
-Moto/ToolMoto/Boot/Overview.md, <dev>Moto.ToolMoto.BootMoto.Overview</dev>, ![Video_002.mp4](/PaperPhoto/Video_002.mp4)
 
 :::
 

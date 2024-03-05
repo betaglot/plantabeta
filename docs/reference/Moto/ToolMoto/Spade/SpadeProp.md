@@ -19,10 +19,6 @@
 
 Moto/ToolMoto/Spade/SpadeProp.md, <dev>Moto.ToolMoto.SpadeMoto.SpadeProp</dev>, ![2469.jpg](/PaperPhoto/2469.jpg)
 Moto/ToolMoto/Spade/SpadeProp.md, <dev>Moto.ToolMoto.SpadeMoto.SpadeProp</dev>, ![2567.jpg](/PaperPhoto/2567.jpg)
-Moto/ToolMoto/Spade/SpadeProp.md, <dev>Moto.ToolMoto.SpadeMoto.SpadeProp</dev>, ![Video_003.mp4](/PaperPhoto/Video_003.mp4)
-Moto/ToolMoto/Spade/SpadeProp.md, <dev>Moto.ToolMoto.SpadeMoto.SpadeProp</dev>, ![Video_006.mp4](/PaperPhoto/Video_006.mp4)
-Moto/ToolMoto/Spade/SpadeProp.md, <dev>Moto.ToolMoto.SpadeMoto.SpadeProp</dev>, ![Video_007.mp4](/PaperPhoto/Video_007.mp4)
-Moto/ToolMoto/Spade/SpadeProp.md, <dev>Moto.ToolMoto.SpadeMoto.SpadeProp</dev>, ![Video_011.mp4](/PaperPhoto/Video_011.mp4)
 
 :::
 

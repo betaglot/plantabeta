@@ -34,7 +34,6 @@ guide/Why/Productivity.md, <dev>Guide.Why.Productivity</dev>, ![2946.jpg](/Paper
 guide/Why/Productivity.md, <dev>Guide.Why.Productivity</dev>, ![3056.jpg](/PaperPhoto/3056.jpg)
 guide/Why/Productivity.md, <dev>Guide.Why.Productivity.Efficiency</dev>, ![3124.jpg](/PaperPhoto/3124.jpg)
 guide/Why/Productivity.md, <dev>Guide.Why.Productivity.Efficiency</dev>, ![3157.jpg](/PaperPhoto/3157.jpg)
-guide/Why/Productivity.md, <dev>Guide.Why.Productivity.Efficiency.Redundancy</dev>, ![Video_013.mp4](/PaperPhoto/Video_013.mp4)
 
 :::
 
@@ -57,10 +56,10 @@ A greater Planter efficiency leads to:
     - Daily Trees in the Ground
 - Fewer Planters required to Cover an Eco
 - Fewer Motos performed by Planter, therefore less Metabolic Energy used.
-- Less [Deadwalking]()
+- Less Deadwalking
 - Fewer Injury
 - More efficient vias
-- Effective [Flagging]()
+- Effective Flagging
     - Flag which is more visible.
     - Lower Flag expense
 

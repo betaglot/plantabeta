@@ -9,7 +9,6 @@
 ```py
 `TagsToHeaders: False`
 ```
-
 <h2>PageTags</h2>
 
 - "Guide.Why.Injury"
@@ -72,5 +71,5 @@ Planters kick To remove the layer of organic material off an intended microsite.
 
 A greater knowledge of possible alternative motos can prevent Christmas Toe from ever occuring.
 
-- [SpadeScreef]() instead of only [FootScreef]()
+- [SpadeScreef](/reference/ToolMoto/SpadeMoto/SpadeScreef) instead of only [FootScreef]()
 - [HandClose]() instead of only [FootClose]()

@@ -5,6 +5,7 @@
 -
 
 ## Target
+
 - TargetLandMark
     - LineIn uses a TargetLandmark
 
@@ -14,8 +15,7 @@
 `TagsToHeaders: False`
 ```
 
-
-- https://gwlucastrig.github.io/TinfourDocs/DelaunayIntro/index.html
+- <https://gwlucastrig.github.io/TinfourDocs/DelaunayIntro/index.html>
 
 ![DelaunayOptimality](/Via/Voronoi/DelaunayOptimality.png)
 
@@ -122,8 +122,6 @@ Via/ViaPoint/Overview.md, <dev>Via.ViaGeometry.ViaPoint.Overview</dev>, ![90042.
 Via/ViaPoint/Overview.md, <dev>Via.ViaGeometry.ViaPoint.VertexPoint</dev>, ![90044.jpg](/PaperPhoto/90044.jpg)
 Via/ViaPoint/Overview.md, <dev>Via.ViaGeometry.ViaPoint.ViaConvergencePoint</dev>, ![90044.jpg](/PaperPhoto/90044.jpg)
 Via/ViaPoint/Overview.md, <dev>Via.ViaGeometry.ViaPoint.ViaDivergencePoint</dev>, ![90044.jpg](/PaperPhoto/90044.jpg)
-Via/ViaPoint/Overview.md, <dev>Via.ViaGeometry.ViaPoint.Microsite.MicrositeSelection</dev>, ![Video_007.mp4](/PaperPhoto/Video_007.mp4)
-Via/ViaPoint/Overview.md, <dev>Via.ViaGeometry.ViaPoint.Microsite.MicrositeSelection</dev>, ![Video_009.mp4](/PaperPhoto/Video_009.mp4)
 
 :::
 
@@ -131,12 +129,11 @@ Via/ViaPoint/Overview.md, <dev>Via.ViaGeometry.ViaPoint.Microsite.MicrositeSelec
 
 ## Site vs Microsite
 
-- Sites are the location in Eco where a seedling can be planted, while microsites are the specific locations within a site where the tree is planted. Microsites take into account the roots or rocks which are in obstacles to the seedling. A microsite is the size of your hand, while a site 
+- Sites are the location in Eco where a seedling can be planted, while microsites are the specific locations within a site where the tree is planted. Microsites take into account the roots or rocks which are in obstacles to the seedling. A microsite is the size of your hand, while a site
 
 ___ | **Site** | **Microsite**
 --- | --- | ---
 **Size** | Thing | OtherThing
-
 
 ## Point Interpolation
 
@@ -147,11 +144,10 @@ ___ | **Site** | **Microsite**
 - Spacing between Sites.
 - Dual with Delaunay Triangulation
 
-
 #### Descriptions of Voronoi Cell Shape
 
 - Platonic Shapes
-    - Triangle, Square, Pentagon, Hexagon 
+    - Triangle, Square, Pentagon, Hexagon
 
 - Angular
 
@@ -165,7 +161,7 @@ Hexagonal
 
 #### Voronoi Iteration
 
-Makes the Voronoi Cells more 
+Makes the Voronoi Cells more
 
 ### Delaunay Triangulation
 

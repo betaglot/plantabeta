@@ -14,10 +14,6 @@
 
 - "Moto.ToolMoto.BundleMoto.BundlePeel"
 
-Moto/ToolMoto/Bundle/BundlePeel.md, <dev>Moto.ToolMoto.BundleMoto.BundlePeel</dev>, ![Video_005.mp4](/PaperPhoto/Video_005.mp4)
-Moto/ToolMoto/Bundle/BundlePeel.md, <dev>Moto.ToolMoto.BundleMoto.BundlePeel</dev>, ![Video_013.mp4](/PaperPhoto/Video_013.mp4)
-Moto/ToolMoto/Bundle/BundlePeel.md, <dev>Moto.ToolMoto.BundleMoto.BundlePeel</dev>, ![Video_014.mp4](/PaperPhoto/Video_014.mp4)
-Moto/ToolMoto/Bundle/BundlePeel.md, <dev>Moto.ToolMoto.BundleMoto.BundlePeel</dev>, ![Video_015.mp4](/PaperPhoto/Video_015.mp4)
 
 :::
 

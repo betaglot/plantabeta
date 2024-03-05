@@ -61,9 +61,6 @@ Via/Flag/Overview.md, <dev>Via.Flag.Overview</dev>, ![3150.jpg](/PaperPhoto/3150
 Via/Flag/Overview.md, <dev>Via.Flag.FlagLine.FlagLineIn</dev>, ![3154.jpg](/PaperPhoto/3154.jpg)
 Via/Flag/Overview.md, <dev>Via.Flag.FlagLine.FlagLineIn.StartPoint</dev>, ![3154.jpg](/PaperPhoto/3154.jpg)
 Via/Flag/Overview.md, <dev>Via.Flag.LineInFlag</dev>, ![3165.jpg](/PaperPhoto/3165.jpg)
-Via/Flag/Overview.md, <dev>Via.Flag.BoundaryFlag</dev>, ![Video_005.mp4](/PaperPhoto/Video_005.mp4)
-Via/Flag/Overview.md, <dev>Via.Flag.FlagSite</dev>, ![Video_009.mp4](/PaperPhoto/Video_009.mp4)
-Via/Flag/Overview.md, <dev>Via.Flag.FlagSite</dev>, ![Video_011.mp4](/PaperPhoto/Video_011.mp4)
 
 :::
 
@@ -73,7 +70,6 @@ Tool=Flagger
 Moto=Flagging
 
 FlagRip
-
 
 ## FlagPurpose
 
@@ -101,6 +97,3 @@ FlagRip
 Flag is considered a WastedFlag when it can't be useful for any future [Covering].
 
 - Hidden in a [SlashPile]
-
-
-

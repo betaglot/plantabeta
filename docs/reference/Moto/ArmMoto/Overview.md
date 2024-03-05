@@ -55,10 +55,6 @@ Moto/ArmMoto/Overview.md, <dev>Moto.ArmMoto.ArmRow</dev>, ![1872.jpg](/PaperPhot
 Moto/ArmMoto/Overview.md, <dev>Moto.ArmMoto.Overview</dev>, ![2015.jpg](/PaperPhoto/2015.jpg)
 Moto/ArmMoto/Overview.md, <dev>Moto.ArmMoto.Overview</dev>, ![2486.jpg](/PaperPhoto/2486.jpg)
 Moto/ArmMoto/Overview.md, <dev>Moto.ArmMoto.Overview</dev>, ![2525.jpg](/PaperPhoto/2525.jpg)
-Moto/ArmMoto/Overview.md, <dev>Moto.ArmMoto.ArmExtension</dev>, ![Video_007.mp4](/PaperPhoto/Video_007.mp4)
-Moto/ArmMoto/Overview.md, <dev>Moto.ArmMoto.ArmReach</dev>, ![Video_014.mp4](/PaperPhoto/Video_014.mp4)
-Moto/ArmMoto/Overview.md, <dev>Moto.ArmMoto.ArmExtension</dev>, ![Video_015.mp4](/PaperPhoto/Video_015.mp4)
-Moto/ArmMoto/Overview.md, <dev>Moto.ArmMoto.ArmReach</dev>, ![Video_015.mp4](/PaperPhoto/Video_015.mp4)
 
 
 :::

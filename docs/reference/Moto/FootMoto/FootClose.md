@@ -15,9 +15,6 @@
 - "Moto.FootMoto.FootClose"
 
 Moto/FootMoto/FootClose.md, <dev>Moto.FootMoto.FootClose</dev>, ![2945.jpg](/PaperPhoto/2945.jpg)
-Moto/FootMoto/FootClose.md, <dev>Moto.FootMoto.FootClose</dev>, ![Video_005.mp4](/PaperPhoto/Video_005.mp4)
-Moto/FootMoto/FootClose.md, <dev>Moto.FootMoto.FootClose</dev>, ![Video_008.mp4](/PaperPhoto/Video_008.mp4)
-Moto/FootMoto/FootClose.md, <dev>Moto.FootMoto.FootClose</dev>, ![Video_009.mp4](/PaperPhoto/Video_009.mp4)
 
 
 :::

@@ -198,7 +198,6 @@ Via/ViaOverview.md, <dev>Via.ViaProperties.ViaPermutation</dev>, ![90044.jpg](/P
 Via/ViaOverview.md, <dev>Via.ViaSuperposition</dev>, ![90044.jpg](/PaperPhoto/90044.jpg)
 Via/ViaOverview.md, <dev>Via.ViaGrid.ViaHexagonGrid</dev>, ![90106.png](/PaperPhoto/90106.png)
 Via/ViaOverview.md, <dev>Via.ViaGrid.ViaHexagonGrid</dev>, ![90107.png](/PaperPhoto/90107.png)
-Via/ViaOverview.md, <dev>Via.ViaDirection.ViaDownSlope</dev>, ![Video_011.mp4](/PaperPhoto/Video_011.mp4)
 
 :::
 

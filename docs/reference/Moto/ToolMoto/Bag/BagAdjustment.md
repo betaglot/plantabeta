@@ -15,7 +15,6 @@
 - "Moto.ToolMoto.BagMoto.BagAdjustment"
 
 Moto/ToolMoto/Bag/BagAdjustment.md, <dev>Moto.ToolMoto.BagMoto.BagAdjustment</dev>, ![2572.jpg](/PaperPhoto/2572.jpg)
-Moto/ToolMoto/Bag/BagAdjustment.md, <dev>Moto.ToolMoto.BagMoto.BagAdjustment</dev>, ![Video_005.mp4](/PaperPhoto/Video_005.mp4)
 
 :::
 

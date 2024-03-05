@@ -14,10 +14,6 @@
 
 - "Moto.ArmMoto.TreeLoad"
 
-Moto/ArmMoto/TreeLoad.md, <dev>Moto.ArmMoto.TreeLoad</dev>, ![Video_001.mp4](/PaperPhoto/Video_001.mp4)
-Moto/ArmMoto/TreeLoad.md, <dev>Moto.ArmMoto.TreeLoad</dev>, ![Video_008.mp4](/PaperPhoto/Video_008.mp4)
-Moto/ArmMoto/TreeLoad.md, <dev>Moto.ArmMoto.TreeLoad</dev>, ![Video_009.mp4](/PaperPhoto/Video_009.mp4)
-Moto/ArmMoto/TreeLoad.md, <dev>Moto.ArmMoto.TreeLoad</dev>, ![Video_011.mp4](/PaperPhoto/Video_011.mp4)
 
 
 :::

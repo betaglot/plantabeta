@@ -20,7 +20,6 @@ WWE Slam move
 
 - "Moto.ToolMoto.SpadeMoto.SpadeSlam"
 
-Moto/ToolMoto/Spade/SpadeSlam.md, <dev>Moto.ToolMoto.SpadeMoto.SpadeSlam</dev>, ![Video_008.mp4](/PaperPhoto/Video_008.mp4)
 
 :::
 

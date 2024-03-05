@@ -173,12 +173,6 @@ Moto/MotoPhrase/Overview.md, <dev>Moto.MotoPhrase</dev>, ![3082.jpg](/PaperPhoto
 Moto/MotoPhrase/Overview.md, <dev>Moto.MotoPhrase</dev>, ![3097.jpg](/PaperPhoto/3097.jpg)
 Moto/MotoPhrase/Overview.md, <dev>Moto.MotoPhrase</dev>, ![3157.jpg](/PaperPhoto/3157.jpg)
 Moto/MotoPhrase/Overview.md, <dev>Moto.MotoPhrase</dev>, ![3227.jpg](/PaperPhoto/3227.jpg)
-Moto/MotoPhrase/Overview.md, <dev>Moto.MotoPhrase.PlantingPhrase</dev>, ![Video_001.mp4](/PaperPhoto/Video_001.mp4)
-Moto/MotoPhrase/Overview.md, <dev>Moto.MotoPhrase.BaggingUpPhrase</dev>, ![Video_004.mp4](/PaperPhoto/Video_004.mp4)
-Moto/MotoPhrase/Overview.md, <dev>Moto.MotoPhrase.PlantingPhrase</dev>, ![Video_009.mp4](/PaperPhoto/Video_009.mp4)
-Moto/MotoPhrase/Overview.md, <dev>Moto.MotoPhrase.BaggingUpPhrase</dev>, ![Video_013.mp4](/PaperPhoto/Video_013.mp4)
-Moto/MotoPhrase/Overview.md, <dev>Moto.MotoPhrase.BaggingUpPhrase</dev>, ![Video_014.mp4](/PaperPhoto/Video_014.mp4)
-Moto/MotoPhrase/Overview.md, <dev>Moto.MotoPhrase.BaggingUpPhrase</dev>, ![Video_015.mp4](/PaperPhoto/Video_015.mp4)
 
 :::
 

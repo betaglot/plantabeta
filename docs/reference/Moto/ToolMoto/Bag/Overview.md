@@ -30,8 +30,6 @@ Moto/ToolMoto/Bag/Overview.md, <dev>Moto.ToolMoto.BagMoto.Overview</dev>, ![3052
 Moto/ToolMoto/Bag/Overview.md, <dev>Moto.ToolMoto.BagMoto.BagShield</dev>, ![3080.jpg](/PaperPhoto/3080.jpg)
 Moto/ToolMoto/Bag/Overview.md, <dev>Moto.ToolMoto.BagMoto.Overview</dev>, ![3080.jpg](/PaperPhoto/3080.jpg)
 Moto/ToolMoto/Bag/Overview.md, <dev>Moto.ToolMoto.BagMoto.Overview</dev>, ![3081.jpg](/PaperPhoto/3081.jpg)
-Moto/ToolMoto/Bag/Overview.md, <dev>Moto.ToolMoto.BagMoto.Overview</dev>, ![Video_005.mp4](/PaperPhoto/Video_005.mp4)
-Moto/ToolMoto/Bag/Overview.md, <dev>Moto.ToolMoto.BagMoto.BaggingUp</dev>, ![Video_013.mp4](/PaperPhoto/Video_013.mp4)
 
 :::
 

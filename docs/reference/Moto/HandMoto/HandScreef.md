@@ -15,7 +15,6 @@
 - "Moto.HandMoto.HandScreef"
 
 Moto/HandMoto/HandScreef.md, <dev>Moto.HandMoto.HandScreef</dev>, ![2944.jpg](/PaperPhoto/2944.jpg)
-Moto/HandMoto/HandScreef.md, <dev>Moto.HandMoto.HandScreef</dev>, ![Video_009.mp4](/PaperPhoto/Video_009.mp4)
 
 :::
 

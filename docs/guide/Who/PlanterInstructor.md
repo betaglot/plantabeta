@@ -10,7 +10,6 @@
 `TagsToHeaders: False`
 ```
 
-
 - Rookie stare isn't experienced as vision
 
 Do you remember everything?

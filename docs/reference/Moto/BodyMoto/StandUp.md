@@ -10,7 +10,6 @@
 `TagsToHeaders: False`
 ```
 
-Moto/BodyMoto/Stand.md, <dev>Moto.BodyMoto.Stand</dev>, ![Video_015.mp4](/PaperPhoto/Video_015.mp4)
 Moto/BodyMoto/StandUp.md, <dev>Moto.BodyMoto.StandUp</dev>, ![1796.jpg](/PaperPhoto/1796.jpg)
 
 

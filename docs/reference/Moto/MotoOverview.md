@@ -541,16 +541,12 @@ Moto/MotoOverview.md, <dev>Moto.MotoProperties.MotoShape.TriangleMoto</dev>, ![9
 Moto/MotoOverview.md, <dev>Moto.MotoShape</dev>, ![90043.jpg](/PaperPhoto/90043.jpg)
 Moto/MotoOverview.md, <dev>Moto.MotoProperties.MotoPermutation</dev>, ![90044.jpg](/PaperPhoto/90044.jpg)
 Moto/MotoOverview.md, <dev>Moto.MotoSpace.Overview</dev>, ![90044.jpg](/PaperPhoto/90044.jpg)
-Moto/MotoOverview.md, <dev>Moto.MotoError.DroppedTree</dev>, ![Video_003.mp4](/PaperPhoto/Video_003.mp4)
-Moto/MotoOverview.md, <dev>Moto.MotoError.DroppedTree</dev>, ![Video_009.mp4](/PaperPhoto/Video_009.mp4)
-Moto/MotoOverview.md, <dev>Moto.MotoProperties.MotoType.PushMoto</dev>, ![Video_015.mp4](/PaperPhoto/Video_015.mp4)
-
 
 :::
 
 # 🟠 <moto>Moto Overview</moto>
-![](/Moto/Moto_Emoji.png)
 
+![Moto Emoji](/Moto/Moto_Emoji.png)
 
 ## <moto>Moto Symbol</moto> 🟠
 
@@ -568,28 +564,31 @@ No Acceleration
 
 [Stand]()
 
-
-
 ### Dynamic Moto
 
 Acceleration
-
 
 ### Moto Tree
 
 <img width="300" height="300" src="/Placeholder_Tree.png" />
 
 - ### Swing
+
 - ### Flag
+
 - ### Grip
+
 - ### Rotate
+
 - ### Pivot
+
 - ### Revolve
+
 - ### Slide
 
 - ### Smear
-- ### Hook
 
+- ### Hook
 
 ## Moto Phrase
 
@@ -604,4 +603,3 @@ Acceleration
 ### Types
 
 - Central Pattern Generators
-

@@ -19,9 +19,6 @@
 
 Moto/ToolMoto/Spade/SpadeTest.md, <dev>Moto.ToolMoto.SpadeMoto.SpadeProbe</dev>, ![1006.jpg](/PaperPhoto/1006.jpg)
 Moto/ToolMoto/Spade/SpadeTest.md, <dev>Moto.ToolMoto.SpadeMoto.SpadeProbe</dev>, ![2936.jpg](/PaperPhoto/2936.jpg)
-Moto/ToolMoto/Spade/SpadeTest.md, <dev>Moto.ToolMoto.SpadeMoto.SpadePoke</dev>, ![Video_005.mp4](/PaperPhoto/Video_005.mp4)
-Moto/ToolMoto/Spade/SpadeTest.md, <dev>Moto.ToolMoto.SpadeMoto.SpadeProbe</dev>, ![Video_007.mp4](/PaperPhoto/Video_007.mp4)
-Moto/ToolMoto/Spade/SpadeTest.md, <dev>Moto.ToolMoto.SpadeMoto.SpadePoke</dev>, ![Video_009.mp4](/PaperPhoto/Video_009.mp4)
 
 :::
 

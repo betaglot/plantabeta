@@ -17,9 +17,6 @@
 - "Moto.ToolMoto.GaiterMoto.Overview"
 
 
-Moto/ToolMoto/Gaiter/Overview.md, <dev>Moto.ToolMoto.GaiterMoto.Overview</dev>, ![Video_002.mp4](/PaperPhoto/Video_002.mp4)
-Moto/ToolMoto/Gaiter/Overview.md, <dev>Moto.ToolMoto.GaiterMoto.Overview</dev>, ![Video_006.mp4](/PaperPhoto/Video_006.mp4)
-Moto/ToolMoto/Gaiter/Overview.md, <dev>Moto.ToolMoto.GaiterMoto.Overview</dev>, ![Video_015.mp4](/PaperPhoto/Video_015.mp4)
 
 
 :::

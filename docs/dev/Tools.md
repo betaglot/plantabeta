@@ -10,7 +10,6 @@
 `TagsToHeaders: False`
 ```
 
-
 ![PaperPhoto](/PaperPhoto/0048.jpg)
 ![PaperPhoto](/PaperPhoto/0049.jpg)
 ![PaperPhoto](/PaperPhoto/0052.jpg)
@@ -59,7 +58,6 @@ dev/Tools.md, <dev>Dev.Tools.PlantingBag</dev>, ![3016.jpg](/PaperPhoto/3016.jpg
 dev/Tools.md, <dev>Dev.Tools.Flag</dev>, ![3021.jpg](/PaperPhoto/3021.jpg)
 dev/Tools.md, <dev>Dev.ToolDiagram</dev>, ![3076.jpg](/PaperPhoto/3076.jpg)
 dev/Tools.md, <dev>Dev.ToolDiagram.BagsDiagram</dev>, ![3076.jpg](/PaperPhoto/3076.jpg)
-dev/Tools.md, <dev>Dev.Tools.Kit</dev>, ![Video_015.mp4](/PaperPhoto/Video_015.mp4)
 
 :::
 

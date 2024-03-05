@@ -14,7 +14,6 @@
 
 - "Moto.BodyMoto.BodyBend"
 
-Moto/BodyMoto/BodyBend.md, <dev>Moto.BodyMoto.BodyBend</dev>, ![Video_015.mp4](/PaperPhoto/Video_015.mp4)
 
 
 :::

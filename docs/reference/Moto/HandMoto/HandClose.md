@@ -18,12 +18,6 @@
 
 Moto/HandMoto/HandClose.md, <dev>Moto.HandMoto.HandClose.HammerClose</dev>, ![3160.jpg](/PaperPhoto/3160.jpg)
 Moto/HandMoto/HandClose.md, <dev>Moto.HandMoto.HandClose.PunchClose</dev>, ![3160.jpg](/PaperPhoto/3160.jpg)
-Moto/HandMoto/HandClose.md, <dev>Moto.HandMoto.HandClose</dev>, ![Video_006.mp4](/PaperPhoto/Video_006.mp4)
-Moto/HandMoto/HandClose.md, <dev>Moto.HandMoto.HandClose.PunchClose</dev>, ![Video_006.mp4](/PaperPhoto/Video_006.mp4)
-Moto/HandMoto/HandClose.md, <dev>Moto.HandMoto.HandClose</dev>, ![Video_007.mp4](/PaperPhoto/Video_007.mp4)
-Moto/HandMoto/HandClose.md, <dev>Moto.HandMoto.HandClose</dev>, ![Video_009.mp4](/PaperPhoto/Video_009.mp4)
-Moto/HandMoto/HandClose.md, <dev>Moto.HandMoto.HandClose.PunchClose</dev>, ![Video_009.mp4](/PaperPhoto/Video_009.mp4)
-Moto/HandMoto/HandClose.md, <dev>Moto.HandMoto.HandClose</dev>, ![Video_011.mp4](/PaperPhoto/Video_011.mp4)
 
 :::
 

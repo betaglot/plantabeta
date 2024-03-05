@@ -14,10 +14,6 @@
 
 - "Moto.ToolMoto.BundleMoto.BundleGrip"
 
-Moto/ToolMoto/Bundle/BundleGrip.md, <dev>Moto.ToolMoto.BundleMoto.BundleGrip</dev>, ![Video_004.mp4](/PaperPhoto/Video_004.mp4)
-Moto/ToolMoto/Bundle/BundleGrip.md, <dev>Moto.ToolMoto.BundleMoto.BundleGrip</dev>, ![Video_013.mp4](/PaperPhoto/Video_013.mp4)
-Moto/ToolMoto/Bundle/BundleGrip.md, <dev>Moto.ToolMoto.BundleMoto.BundleGrip</dev>, ![Video_014.mp4](/PaperPhoto/Video_014.mp4)
-Moto/ToolMoto/Bundle/BundleGrip.md, <dev>Moto.ToolMoto.BundleMoto.BundleGrip</dev>, ![Video_015.mp4](/PaperPhoto/Video_015.mp4)
 
 :::
 

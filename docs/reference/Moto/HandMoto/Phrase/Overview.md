@@ -20,9 +20,6 @@ Moto/HandMoto/HandPhrase.md, <dev>Moto.HandMoto.HandMatch</dev>, ![1100.jpg](/Pa
 Moto/HandMoto/HandPhrase.md, <dev>Moto.HandMoto.HandMatch</dev>, ![1527.jpg](/PaperPhoto/1527.jpg)
 Moto/HandMoto/HandPhrase.md, <dev>Moto.HandMoto.HandBump</dev>, ![1599.jpg](/PaperPhoto/1599.jpg)
 Moto/HandMoto/HandPhrase.md, <dev>Moto.HandMoto.HandMatch</dev>, ![1674.jpg](/PaperPhoto/1674.jpg)
-Moto/HandMoto/HandPhrase.md, <dev>Moto.HandMoto.HandMatch</dev>, ![Video_007.mp4](/PaperPhoto/Video_007.mp4)
-Moto/HandMoto/HandPhrase.md, <dev>Moto.HandMoto.HandMatch</dev>, ![Video_013.mp4](/PaperPhoto/Video_013.mp4)
-Moto/HandMoto/HandPhrase.md, <dev>Moto.HandMoto.HandMatch</dev>, ![Video_014.mp4](/PaperPhoto/Video_014.mp4)
 
 :::
 

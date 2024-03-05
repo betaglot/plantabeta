@@ -20,7 +20,6 @@ Moto/HandMoto/TreeGrip.md, <dev>Moto.HandMoto.TreeFlip</dev>, ![1859.jpg](/Paper
 Moto/HandMoto/TreeGrip.md, <dev>Moto.HandMoto.TreeFlip</dev>, ![2944.jpg](/PaperPhoto/2944.jpg)
 Moto/HandMoto/TreeGrip.md, <dev>Moto.HandMoto.TreeGrip</dev>, ![2944.jpg](/PaperPhoto/2944.jpg)
 Moto/HandMoto/TreeGrip.md, <dev>Moto.HandMoto.TreeGrip</dev>, ![2954.jpg](/PaperPhoto/2954.jpg)
-Moto/HandMoto/TreeGrip.md, <dev>Moto.HandMoto.TreeGrip</dev>, ![Video_013.mp4](/PaperPhoto/Video_013.mp4)
 
 :::
 
