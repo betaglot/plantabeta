@@ -143,7 +143,7 @@ dev/StyleGuide.md, <dev>Dev.LevelOfAbstraction</dev>, ![90088.png](/PaperPhoto/9
 - Freestyle Skiing
 - Alpinism
 
-## Plantbeta.org
+## PutPlant.org
 
 ## <dev>Semantics</dev>
 
@@ -172,7 +172,7 @@ Plant= Organism from Plantae
 
 ### Keep it G
 
-Euphemisms undermine Plantbeta and open it up to unnecessary criticism
+Euphemisms undermine PutPlant and open it up to unnecessary criticism
 
 - CreamyLand
 - "Cream out"

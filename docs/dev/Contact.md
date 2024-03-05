@@ -22,7 +22,7 @@
 
 ### Likes or Dislikes
 
-What parts of Plantbeta do you like or Dislike and Why?
+What parts of PutPlant do you like or Dislike and Why?
 
 ### Suggest New [Elements](/guide/What/WhatElement)
 
@@ -32,7 +32,7 @@ What are some features that you would like to see
 
 ### Clarification
 
-Which parts of of [Plantbeta](/guide/introduction.html#what-is-plantbeta) are:
+Which parts of of [PutPlant](/guide/introduction.html#what-is-putplant) are:
 
 - Confusing
 - Unclear

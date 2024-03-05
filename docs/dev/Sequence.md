@@ -174,6 +174,6 @@ Asyncronous
 
 ## Differentiate(Algorithm, Phrase)
 
-All algorithms are Phrases. "Phrase" is more commonplace than "Algorithm". Use "Phrase" instead of Algorithm to increase accessiblity to atheletes and other people who are averse to math. The purpose of Plantbeta is not to convince people of the utility of mathematical **theory**, rather, it's to use math in **practice**.
+All algorithms are Phrases. "Phrase" is more commonplace than "Algorithm". Use "Phrase" instead of Algorithm to increase accessiblity to atheletes and other people who are averse to math. The purpose of PutPlant is not to convince people of the utility of mathematical **theory**, rather, it's to use math in **practice**.
 
 - ProbePhrase or Probe Algorithm

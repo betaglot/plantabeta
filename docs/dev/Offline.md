@@ -1,6 +1,6 @@
 # Offline
 
-How to make Plantbeta available offline?
+How to make PutPlant available offline?
 
 ::: tip
 

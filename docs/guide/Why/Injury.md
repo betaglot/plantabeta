@@ -34,7 +34,7 @@ guide/Why/Injury.md, <dev>Moto.Ambidexterity</dev>, ![3083.jpg](/PaperPhoto/3083
 
 ## Choose Safer Alternatives
 
-Planters can get injured when they don't adapt motos to the specific situation. Plantbeta gives many options to adapt motos for any situation.
+Planters can get injured when they don't adapt motos to the specific situation. PutPlant gives many options to adapt motos for any situation.
 
 Some Planters only know how to [HandClose](/reference/Moto/HandMoto/HandClose) one way, but there are many different ways. Even slightly varying a motos can reduce repetitive strain injuries.
 
@@ -49,9 +49,9 @@ Injury can occur in Planters when they perform the same moto repeatedly.
 
 ## Reduces Injuries from Falling
 
-Plantbeta teaches Planters how to move through their [Eco](/reference/Eco/EcoOverview) safely.
+PutPlant teaches Planters how to move through their [Eco](/reference/Eco/EcoOverview) safely.
 
-Falling is a large part of Climbing. Plantbeta transfers the knowledge of how to fall safely from climbing to Planting.
+Falling is a large part of Climbing. PutPlant transfers the knowledge of how to fall safely from climbing to Planting.
 
 ::: tip Some of the Motos used to safely Fall
 

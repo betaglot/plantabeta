@@ -50,7 +50,7 @@ Answer 3
 
 ## ElementRelationshipsGraph
 
-Graph which represents how this element is related to other elements in Plantbeta.
+Graph which represents how this element is related to other elements in PutPlant.
 🛠 The Element Relationships Chart is still [under development](/dev/ElementsGraph)
 
 <iframe

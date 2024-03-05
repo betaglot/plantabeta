@@ -81,7 +81,7 @@ json = {
     ],
     "dev/DevOverview.md": [
         "Dev.Overview",
-        "Dev.Plantbeta.SeedIdea",
+        "Dev.PutPlant.SeedIdea",
         "Dev.Youtube"
     ],
     "dev/Downloads.md": [

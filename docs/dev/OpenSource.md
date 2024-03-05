@@ -80,7 +80,7 @@ Modify Patagonia Gear into Kit, Sleeves, Gauntlet
 
 ## Open Minded
 
-- Having an open mind is important to open source projects. It doesn't matter who created or developed an idea, it only matters if the idea is good for Plantbeta.
+- Having an open mind is important to open source projects. It doesn't matter who created or developed an idea, it only matters if the idea is good for PutPlant.
 
 ## Quansight
 

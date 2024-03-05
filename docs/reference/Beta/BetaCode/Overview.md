@@ -27,15 +27,15 @@ ReservedWords = [
 - TopDown
 - Choose the optimal beta, then optimize how you execute the beta
 
-Plantbeta is the website
+PutPlant is the website
 
-You don't need to communicate Beta all the time, but when you do, Plantbeta helps you to communicate it.
+You don't need to communicate Beta all the time, but when you do, PutPlant helps you to communicate it.
 
 Beta is the syntax
 
 Motos are the objects and functions
 
-BetaCode can be used in Planting and Climbing, on Plantbeta.com and Klimbeta.com
+BetaCode can be used in Planting and Climbing, on PutPlant.com and Klimbeta.com
 
 :::
 
@@ -58,7 +58,7 @@ BetaCode is the Python package which is used to formally write Beta.
 
 ### [PythonPlanter](/dev/PythonPlanter)
 
-Use Python's syntax to code Plantbeta.
+Use Python's syntax to code PutPlant.
 
 ```py
 def Plant():

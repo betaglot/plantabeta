@@ -49,7 +49,7 @@ Answer 3
 
 ## ElementRelationshipsGraph
 
-Graph which represents how this element is related to other elements in Plantbeta.
+Graph which represents how this element is related to other elements in PutPlant.
 <iframe
     width="100%"
     height="684"

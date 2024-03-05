@@ -1,11 +1,11 @@
 ---
 layout: home
 
-title: Plantbeta
-titleTemplate: Plantbeta
+title: PutPlant
+titleTemplate: PutPlant
 
 hero: 
-  name: Plantbeta
+  name: PutPlant
   text: 
   tagline: The examples, guides, and reference you need—whether you're planting in the mountains of British Columbia, the wetlands of the Canadian Shield, or anywhere in between. Take advantage of these resources to develop your ability to plant faster and with higher quality.
   # image:
@@ -13,7 +13,7 @@ hero:
   #   alt: BetaLogo
   actions:
     - theme: brand
-      text: I'm new to Plantbeta
+      text: I'm new to PutPlant
       link: /guide/What/WhatPlantbeta
 
 
@@ -28,6 +28,6 @@ features:
     link: /dev/DevOverview
   - icon: 🔍
     title: Browse the Reference Section
-    details: Find information about Plantbeta's Elements you're using
+    details: Find information about PutPlant's Elements you're using
     link: /reference/RefOverview
 ---

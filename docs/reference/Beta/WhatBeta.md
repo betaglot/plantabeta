@@ -15,7 +15,7 @@
 > Elements are just options possibilities
 > Beta requires decision
 
-Each Plantbeta module is composed of problems and theorems. Problems all have solutions, they aren't proven valid yet, but are still useful for development. Pertainent negative. Science proves hypotheses wrong. NullHypotheses.
+Each PutPlant module is composed of problems and theorems. Problems all have solutions, they aren't proven valid yet, but are still useful for development. Pertainent negative. Science proves hypotheses wrong. NullHypotheses.
 
 Eco doesn't have any problems or theorems
 
@@ -168,9 +168,9 @@ This each line are analog pairs. The equal signs = denotes where Climbing and Pl
 
 > An element is one of the parts of something that makes it work, or a quality that makes someone or something effective.
 
-Plantbeta breaks down a Planter's experience into simple elements. Each element has its own particular properties which when varied affect
+PutPlant breaks down a Planter's experience into simple elements. Each element has its own particular properties which when varied affect
 
-Changing an Element's properties affects how it relates to other elements and changes their properties too. These changes ripple out across Plantbeta's web of relationships.
+Changing an Element's properties affects how it relates to other elements and changes their properties too. These changes ripple out across PutPlant's web of relationships.
 
 ```py
 
@@ -364,7 +364,7 @@ Flexbox
 
 ### ElementNames
 
-You will notice that all ElementNames have no spaces between their words, this is to make it easier to search for terms with Plantbeta's search and when searching with your eyes.
+You will notice that all ElementNames have no spaces between their words, this is to make it easier to search for terms with PutPlant's search and when searching with your eyes.
 
 #### Element Name Affixes
 

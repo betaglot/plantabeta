@@ -1,4 +1,4 @@
-# <eco>Meet Plantbeta</eco>
+# <eco>Meet PutPlant</eco>
 
 ::: details 🛠 <dev>DesignBox</dev>
 
@@ -23,7 +23,7 @@
 - "Guide.What.WhatPlantbeta.Product"
 - "Guide.What.WhatPlantbeta.Service"
 
-## You can plant trees without Beta. Plantbeta isn't required to plant
+## You can plant trees without Beta. PutPlant isn't required to plant
 
 guide/What/WhatPlantbeta.md, <dev>Guide.What.WhatElement</dev>, ![0293.jpg](/PaperPhoto/0293.jpg)
 guide/What/WhatPlantbeta.md, <dev>Guide.What.WhatPlantbeta</dev>, ![0293.jpg](/PaperPhoto/0293.jpg)
@@ -81,20 +81,20 @@ guide/What/WhatPlantbeta.md, <dev>Guide.What.WhatPlantbeta.Service</dev>, ![9010
 
 :::
 
-::: info Plantbeta's **Mission**
+::: info PutPlant's **Mission**
 
 - To create a **open source** resource for planters where all knowledge is coherent and integrated into a single system which can be used to plant many types of land across the world.
 - To research and implement ways to make planters more effective by applying cutting edge interdisciplinary science to planter instruction.
 - To innovate planter tools.
 :::
 
-::: info Plantbeta's **Vision**
+::: info PutPlant's **Vision**
 
 - To reduce Climate Change by increasing the quantity, quality and planting rate of the plants which are planted every year until the end of time.
 
 :::
 
-::: info Plantbeta's **Values**
+::: info PutPlant's **Values**
 
 - Practice is more important than Theory
 - All Planter knowledge is freely available
@@ -105,7 +105,7 @@ guide/What/WhatPlantbeta.md, <dev>Guide.What.WhatPlantbeta.Service</dev>, ![9010
 Find out [how trees are planted](/guide/WhatTreePlanting) in Canada
 :::
 
-## Why Plantbeta?
+## Why PutPlant?
 
 ### A Flexible System
 
@@ -113,17 +113,17 @@ Flexibility gives systems resilience, they are able to return quickly to a previ
 
 ### A Progressive System
 
-Plantbeta is a "progressive" system, meaning that Planbeta grows with your planting experience. If you're a Novice Planter, then Plantbeta's library of reference material, guides, tests and video tutorials (🛠 coming soon!) will help you to learn how to be a planter without becoming overwhelmed in your first week on the job.
+PutPlant is a "progressive" system, meaning that Planbeta grows with your planting experience. If you're a Novice Planter, then PutPlant's library of reference material, guides, tests and video tutorials (🛠 coming soon!) will help you to learn how to be a planter without becoming overwhelmed in your first week on the job.
 
-If you're an Experienced Planter, then Plantbeta gives you the resources to find and Cover your knowledge gaps, so that you can unlock your full planting potential.
+If you're an Experienced Planter, then PutPlant gives you the resources to find and Cover your knowledge gaps, so that you can unlock your full planting potential.
 
 ### A Community System
 
-Plantbeta combines the best practices of the Planting Industry to offer the most robust and planter friendly planter system available. In addition, dozens of talented planters from across Canada have [contributed to the system](/dev/Contribute). Who knows, maybe you'll even become a Plantbeta contributor.
+PutPlant combines the best practices of the Planting Industry to offer the most robust and planter friendly planter system available. In addition, dozens of talented planters from across Canada have [contributed to the system](/dev/Contribute). Who knows, maybe you'll even become a PutPlant contributor.
 
-## What Plantbeta is Not
+## What PutPlant is Not
 
-::: danger Plantbeta does not include:
+::: danger PutPlant does not include:
 
 - Logistics for management
 - How to Cook for Tree Planters
@@ -132,13 +132,13 @@ Plantbeta combines the best practices of the Planting Industry to offer the most
 - Medical Advice for Planters
 :::
 
-<!-- ## How does Plantbeta provide Value to Planters?
+<!-- ## How does PutPlant provide Value to Planters?
 
 ![ValuePyramid](/ValuePyramid.png)
 
 ### Self-Transcendence
 
-- Plantbeta makes Reforestation easier. Reforestation directly or indirectly benefits every species of life on earth. 
+- PutPlant makes Reforestation easier. Reforestation directly or indirectly benefits every species of life on earth. 
 - Learning how to plant trees is a Climate Change Action. Planters are the people who implement the tree planting initiatives of organizations around the world. 
 
 ---
@@ -160,16 +160,16 @@ Plantbeta combines the best practices of the Planting Industry to offer the most
  
 ### Increases Motivation and Hope while reducing Anxiety
 
-- <eco>Plantbeta</eco> reduced the worrying about what to expect during your Novice season. 
+- <eco>PutPlant</eco> reduced the worrying about what to expect during your Novice season. 
 - "I can do this"
-- The fear of the unknown, especially unknown unknowns, can be paralyzing. <eco>Plantbeta</eco> is being created to minimize the number of unknowns in a tree Planter's experience.
-- There is a whole page in <eco>Plantbeta</eco> specifically devoted to Motivation. It's easy to become unmotivated when you're tired, you've spent the past few days in the rain and the Eco is difficult, but there is knowledge that Planters and PlanterSupervisors can use to keep planting! 
+- The fear of the unknown, especially unknown unknowns, can be paralyzing. <eco>PutPlant</eco> is being created to minimize the number of unknowns in a tree Planter's experience.
+- There is a whole page in <eco>PutPlant</eco> specifically devoted to Motivation. It's easy to become unmotivated when you're tired, you've spent the past few days in the rain and the Eco is difficult, but there is knowledge that Planters and PlanterSupervisors can use to keep planting! 
 
 ---
  
 ### Rewarding
 
-- <eco>Plantbeta</eco> is designed to increase the planting rate of any Planter, therefore increasing the income of any Planter who studies <eco>Plantbeta</eco>.
+- <eco>PutPlant</eco> is designed to increase the planting rate of any Planter, therefore increasing the income of any Planter who studies <eco>PutPlant</eco>.
 - Be able to track your progress as a Planter by the number of elements that you've understood then mastered.
 - Complete Tests
 
@@ -177,16 +177,16 @@ Plantbeta combines the best practices of the Planting Industry to offer the most
  
 ### Badge Value
 
-- By learning all the theory and practices of <eco>Plantbeta</eco>, you can become a Highballer. 
+- By learning all the theory and practices of <eco>PutPlant</eco>, you can become a Highballer. 
 - Increase your Personal Best (PB) Planting Day. Planting 2,000 in a day is a standard checkpoint for Planters across Canada.
 - Total trees planted during your career is usually 100,000+. Achieving a million trees planting is a badge to be proud of. 
-- Get a perfect score on <eco>Plantbeta</eco>'s tests to add to your CV when applying for Planter jobs. 
+- Get a perfect score on <eco>PutPlant</eco>'s tests to add to your CV when applying for Planter jobs. 
 
 ---
  
 ### Wellness
 
-- <eco>Plantbeta</eco> is designed to [reduce Planter injury](/guide/Why/Injury).
+- <eco>PutPlant</eco> is designed to [reduce Planter injury](/guide/Why/Injury).
 
 ---
  
@@ -201,7 +201,7 @@ Plantbeta combines the best practices of the Planting Industry to offer the most
  
 ### Saves Time and Cost 
 
-- Plantbeta is designed to increase a Planter's planting rate, which will decrease the number of days it takes to complete a planting season. Shorter seasons means less money spent on feeding, transporting and housing Planters.
+- PutPlant is designed to increase a Planter's planting rate, which will decrease the number of days it takes to complete a planting season. Shorter seasons means less money spent on feeding, transporting and housing Planters.
 
 ---
  
@@ -215,14 +215,14 @@ Plantbeta combines the best practices of the Planting Industry to offer the most
  
 ### Reduces Risk
 
-- Plantbeta reduces the Risk that a hired NovicePlanter underperform and become a burden to their Supervisor and Company.
+- PutPlant reduces the Risk that a hired NovicePlanter underperform and become a burden to their Supervisor and Company.
 - Reduces the risk of Injury
 
 ---
  
 ### Variety
 
-- Plantbeta provides information about how to plant a variety of different locations across the world.
+- PutPlant provides information about how to plant a variety of different locations across the world.
 
 ---
  
@@ -236,7 +236,7 @@ Plantbeta combines the best practices of the Planting Industry to offer the most
  
 ### Reduces Effort
 
-- Plantbeta informs Planters on the 
+- PutPlant informs Planters on the 
 - Increased <neuro>CognitiveEase</neuro> leads to feelings of effortlessness.
 - Fluid moto through the Eco.
 - Reduces the distance travelled by Planters by using efficient Routing.
@@ -266,7 +266,7 @@ Plantbeta combines the best practices of the Planting Industry to offer the most
 
 <!-- ## Website Sections
 
-Plantbeta is divided into 6 sections:
+PutPlant is divided into 6 sections:
 
 - [Guide]()
     - How to use this website
@@ -302,7 +302,7 @@ Plantbeta is divided into 6 sections:
 ### Navigation Bar
 
 - Use the **Navigation Bar** to quickly jump to sections of the website. 
-- Use the social media icons to visit Plantbeta's social media.
+- Use the social media icons to visit PutPlant's social media.
 - Toggle between LightTheme and DarkTheme.
 
 [InsertImage] Screenshot of nav Bar
@@ -324,7 +324,7 @@ Plantbeta is divided into 6 sections:
 1. Clicking on the button changes the URL. 
 2. Copy the URL
 
-[InsertImage] Screenshot with Plantbeta tabs open
+[InsertImage] Screenshot with PutPlant tabs open
 
 :::
 
@@ -373,16 +373,16 @@ Image Phrase of Searching through Sidebar
 
 ![PathFork](/PathFork.jpg)
 
-The users of Plantbeta can take multiple paths through Plantbeta depending on their needs.
+The users of PutPlant can take multiple paths through PutPlant depending on their needs.
 
 ### [Potential Planter](/guide/Who/PotentialPlanter)
 
-1. Browse sidebars to familarize yourself with the general categories of Plantbeta's [Reference Section](/reference/RefOverview).
+1. Browse sidebars to familarize yourself with the general categories of PutPlant's [Reference Section](/reference/RefOverview).
 2. Look at the [Gallery](/reference/gallery/Overview)
 
 ### [Novice Planter](/guide/Who/NovicePlanter)
 
-1. Browse sidebars to familarize yourself with the general categories of Plantbeta. 
+1. Browse sidebars to familarize yourself with the general categories of PutPlant. 
 2. Test yourself to find knowledge gaps.
 
 ### [Experienced Planter](/guide/Who/ExperiencedPlanter)

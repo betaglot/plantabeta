@@ -11,7 +11,7 @@
 ```
 
 
-- Plantbeta is a service
+- PutPlant is a service
 
 - Planters are given nothing
     - "Untrained planters are inefficient" is a logical proposition?

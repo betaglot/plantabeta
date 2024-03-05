@@ -9902,12 +9902,12 @@ data = [
     {
         "PagePath": "dev/DevOverview.md",
         "PaperPhoto": "0595.jpg",
-        "TagName": "Dev.Plantbeta.SeedIdea"
+        "TagName": "Dev.PutPlant.SeedIdea"
     },
     {
         "PagePath": "dev/DevOverview.md",
         "PaperPhoto": "1051.jpg",
-        "TagName": "Dev.Plantbeta.SeedIdea"
+        "TagName": "Dev.PutPlant.SeedIdea"
     },
     {
         "PagePath": "dev/DevOverview.md",

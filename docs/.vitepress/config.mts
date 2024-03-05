@@ -2,10 +2,10 @@ import { defineConfig } from 'vitepress'
 
 export default defineConfig({
   lang: 'en-US',
-  title: 'Plantbeta',
+  title: 'PutPlant',
   description: '',
   lastUpdated: true,
-  base: '/plantbeta/',
+  base: '/putplant/',
   ignoreDeadLinks: true,
   appearance: 'dark',
   head: [
@@ -20,17 +20,17 @@ export default defineConfig({
     socialLinks: [
       { icon: 'youtube', link: 'https://www.youtube.com/@Klimbeta' },
       { icon: 'instagram', link: 'https://www.instagram.com/the_plantbeta/' },
-      { icon: 'github', link: 'https://github.com/klimbeta/plantbeta' }
+      { icon: 'github', link: 'https://github.com/klimbeta/putplant' }
     ],
     footer: {
       message: '',
-      copyright: 'Copyright Plantbeta © 2023-present'
+      copyright: 'Copyright PutPlant © 2023-present'
     },
     search: {
       provider: 'local'
     },
 
-    siteTitle: 'Plantbeta',
+    siteTitle: 'PutPlant',
     nav: nav(),
 
     sidebar: {
@@ -122,7 +122,7 @@ function sidebarGuide() {
       collapsed: false,
       items: [
         { text: 'What is Tree Planting?', link: '/guide/What/WhatTreePlanting' },
-        { text: 'What is Plantbeta?', link: '/guide/What/WhatPlantbeta' },
+        { text: 'What is PutPlant?', link: '/guide/What/WhatPlantbeta' },
       ]
     },
     {
