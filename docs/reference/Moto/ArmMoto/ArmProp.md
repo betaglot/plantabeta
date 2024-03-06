@@ -11,7 +11,7 @@ pageClass: moto-page
 ## DevState
 
 ```py
-`TagsToHeaders: False`
+`TagsToHeaders: True`
 ```
 
 <h2>PageTags</h2>

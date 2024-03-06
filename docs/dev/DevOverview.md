@@ -32,7 +32,7 @@ PutPlant is constantly being expanded and improved. PutPlant is being developped
 
 ::: tip Send an email to:
 
-<putplant.info@gmail.com>
+<putplant@gmail.com>
 
 :::
 

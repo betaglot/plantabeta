@@ -1135,7 +1135,7 @@ INSERT INTO PagePath_TagName
         ('1096.jpg', 'PaperPhoto'),
         ('1100.jpg', 'Beta.BetaDiagram'),
         ('1100.jpg', 'Dev.Element.ElementDiagram.ColorCode'),
-        ('1100.jpg', 'Moto.ArmMoto.ElbowMagnets'),
+        ('1100.jpg', 'Moto.ArmMoto.ProximalElbow'),
         ('1100.jpg', 'Moto.BodyMoto.BodyLean'),
         ('1100.jpg', 'Moto.BodyMoto.Stemming'),
         ('1100.jpg', 'Moto.HandMoto.HandMatch'),

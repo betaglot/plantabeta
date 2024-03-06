@@ -666,7 +666,7 @@ tags = [
     "Moto.ArmMoto.ArmSwing",
     "Moto.ArmMoto.ArmTRex",
     "Moto.ArmMoto.ArmWalk",
-    "Moto.ArmMoto.ElbowMagnets",
+    "Moto.ArmMoto.ProximalElbow",
     "Moto.ArmMoto.FertilizerThrow",
     "Moto.ArmMoto.Overview",
     "Moto.ArmMoto.ShoulderMoto.Overview",

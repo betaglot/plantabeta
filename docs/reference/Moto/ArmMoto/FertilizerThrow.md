@@ -7,7 +7,7 @@
 ## DevState
 
 ```py
-`TagsToHeaders: False`
+`TagsToHeaders: True`
 ```
 
 <h2>PageTags</h2>

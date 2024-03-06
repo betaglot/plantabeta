@@ -77,6 +77,7 @@ function sidebarDevelopment() {
     { text: '<dev>SocialMedia</dev>', link: '/dev/SocialMedia' },
     { text: '<dev>StyleGuide</dev>', link: '/dev/StyleGuide' },
     { text: '<dev>Tagging</dev>', link: '/dev/Tagging' },
+    { text: '<dev>ToDo</dev>', link: '/dev/ToDo' },
     { text: '<dev>Tools</dev>', link: '/dev/Tools' },
     { text: '<dev>UX</dev>', link: '/dev/UX' },  
     { text: '<dev>AfternoonTask</dev>', link: '/dev/AfternoonTask' },

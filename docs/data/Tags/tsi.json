@@ -14656,7 +14656,7 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Moto.ArmMoto.ElbowMagnets",
+                    "title": "Moto.ArmMoto.ProximalElbow",
                     "color": "#ff7537ff",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -14743,7 +14743,7 @@
                 "textcolor": "#000000ff"
             },
             {
-                "title": "Moto.ArmMoto.ElbowMagnets",
+                "title": "Moto.ArmMoto.ProximalElbow",
                 "color": "#ff7537ff",
                 "textcolor": "white"
             },

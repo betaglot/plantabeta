@@ -8270,7 +8270,7 @@ tags = [
                     "title": "Dev.Element.ElementDiagram.ColorCode"
                 },
                 {
-                    "title": "Moto.ArmMoto.ElbowMagnets"
+                    "title": "Moto.ArmMoto.ProximalElbow"
                 },
                 {
                     "title": "Moto.BodyMoto.BodyLean"
@@ -8317,7 +8317,7 @@ tags = [
                 "title": "Dev.Element.ElementDiagram.ColorCode"
             },
             {
-                "title": "Moto.ArmMoto.ElbowMagnets"
+                "title": "Moto.ArmMoto.ProximalElbow"
             },
             {
                 "title": "Moto.BodyMoto.BodyLean"

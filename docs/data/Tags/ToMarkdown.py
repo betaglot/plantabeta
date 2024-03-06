@@ -957,7 +957,7 @@ data = [
     {
         "PagePath": "Moto/ArmMoto/Overview.md",
         "PaperPhoto": "1100.jpg",
-        "TagName": "Moto.ArmMoto.ElbowMagnets"
+        "TagName": "Moto.ArmMoto.ProximalElbow"
     },
     {
         "PagePath": "Moto/ArmMoto/Overview.md",

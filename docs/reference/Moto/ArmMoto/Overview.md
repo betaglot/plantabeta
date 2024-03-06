@@ -26,7 +26,7 @@
 - "Moto.ArmMoto.ArmShakeOut"
 - "Moto.ArmMoto.ArmSlot"
 - "Moto.ArmMoto.ArmTRex"
-- "Moto.ArmMoto.ElbowMagnets"
+- "Moto.ArmMoto.ProximalElbow"
 - "Moto.ArmMoto.Overview"
 - "Moto.ArmMoto.ShoulderMoto.Overview"
 - "Moto.ArmMoto.ShoulderMoto.ShoulderDepress"
@@ -44,7 +44,7 @@ Moto/ArmMoto/Overview.md, <dev>Moto.ArmMoto.ArmCircumduction</dev>, ![1021.jpg](
 Moto/ArmMoto/Overview.md, <dev>Moto.ArmMoto.ArmLock</dev>, ![1049.jpg](/PaperPhoto/1049.jpg)
 Moto/ArmMoto/Overview.md, <dev>Moto.ArmMoto.ArmBrake</dev>, ![1052.jpg](/PaperPhoto/1052.jpg)
 Moto/ArmMoto/Overview.md, <dev>Moto.ArmMoto.ArmRockOver</dev>, ![1052.jpg](/PaperPhoto/1052.jpg)
-Moto/ArmMoto/Overview.md, <dev>Moto.ArmMoto.ElbowMagnets</dev>, ![1100.jpg](/PaperPhoto/1100.jpg)
+Moto/ArmMoto/Overview.md, <dev>Moto.ArmMoto.ProximalElbow</dev>, ![1100.jpg](/PaperPhoto/1100.jpg)
 Moto/ArmMoto/Overview.md, <dev>Moto.ArmMoto.ArmExtension</dev>, ![1105.jpg](/PaperPhoto/1105.jpg)
 Moto/ArmMoto/Overview.md, <dev>Moto.ArmMoto.ArmFlexion</dev>, ![1105.jpg](/PaperPhoto/1105.jpg)
 Moto/ArmMoto/Overview.md, <dev>Moto.ArmMoto.ArmLock</dev>, ![1105.jpg](/PaperPhoto/1105.jpg)
@@ -64,11 +64,3 @@ Moto/ArmMoto/Overview.md, <dev>Moto.ArmMoto.Overview</dev>, ![2525.jpg](/PaperPh
 ## Arm Anatomy
 
 ## Arm Properties
-
-
-
-
-
-
-
-

@@ -777,7 +777,7 @@ json = {
         "Moto.ArmMoto.ArmShakeOut",
         "Moto.ArmMoto.ArmSlot",
         "Moto.ArmMoto.ArmTRex",
-        "Moto.ArmMoto.ElbowMagnets",
+        "Moto.ArmMoto.ProximalElbow",
         "Moto.ArmMoto.Overview",
         "Moto.ArmMoto.ShoulderMoto.Overview",
         "Moto.ArmMoto.ShoulderMoto.ShoulderDepress",

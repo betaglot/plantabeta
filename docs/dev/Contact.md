@@ -15,7 +15,7 @@
 # 🛠 Contact
 
 ::: tip Send an email to:
-<christopheralduncan@gmail.com>
+<putplant@gmail.com>
 :::
 
 ## Give Feedback
