@@ -23,7 +23,7 @@ What is the puck what is the net and how do you carry the puck?
 
 # Klimbeta
 
-![Klimbeta_PutPlant](/Klimbeta_PutPlant.png)
+<!-- ![Klimbeta_PutPlant](/Klimbeta_PutPlant.png) -->
 
 ## Story of Young People Who Want to Combat Climate Change
 
