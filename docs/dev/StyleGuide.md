@@ -134,7 +134,9 @@ dev/StyleGuide.md, <dev>Dev.LevelOfAbstraction</dev>, ![90088.png](/PaperPhoto/9
 
 <https://developers.google.com/style>
 
-## <dev>Be Canadian</dev>
+## <via>Be Canadian</via>
+
+It doesn't matter if it's always totally true, the canadian stereo type is believed, not proven.
 
 - Hockey
 - Kindness
@@ -142,6 +144,11 @@ dev/StyleGuide.md, <dev>Dev.LevelOfAbstraction</dev>, ![90088.png](/PaperPhoto/9
 - Lacrosse
 - Freestyle Skiing
 - Alpinism
+- Openness
+    - Open Source
+- Massive Wilderness
+    - EcoHome Hero Image
+- Cold, Winter
 
 ## PutPlant.org
 

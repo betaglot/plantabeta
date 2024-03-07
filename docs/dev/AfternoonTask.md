@@ -1,8 +1,8 @@
-# AfternoonTask
+# <eco>AfternoonTask</eco>
 
 In the afternoon it can be difficult to pay attention and it's not possible to consume caffeine to increase attention, so the best use of afternoon time is to explore. Explore and save what you found in Keep.
 
-A MorningTask is one  which requires high levels of concentration and where there is a clear goal. 
+A MorningTask is one  which requires high levels of concentration and where there is a clear goal.
 
 ## Task: Exploratory Learning
 
@@ -18,8 +18,6 @@ Avoid <strong>Instagram</strong> during explorations, since it is designed to wa
 Open Source is the most important thing to understand for PutPlant's growth and implementation. I need to become an expert. Play the wikipedia game.
 :::
 
-
-
 - Laravel
 - D3.js
 - Python
@@ -28,18 +26,17 @@ Open Source is the most important thing to understand for PutPlant's growth and 
 - HubermanLab website
     - Figure out how they are coding the timestamps
 
-
 ## Task: Documentation Design Research
 
 Crop or label screenshots of these sites, currently PutPlant is just documentation.
 
-See what works and straight up copy when general enough, they're all open source anyway. 
+See what works and straight up copy when general enough, they're all open source anyway.
 
 Look at the documentation for these sites:
 
 ## Task: Forestry in BC Research
 
-- I need to have at least some understanding about how the planting industry works, especially how the financials work since PutPlant will cost something to implement. 
+- I need to have at least some understanding about how the planting industry works, especially how the financials work since PutPlant will cost something to implement.
 
 - Learning more about the silviculture industry will give ideas about how to convince planters and companies to want PutPlant
 
@@ -51,7 +48,6 @@ Look at the documentation for these sites:
 
 - Test UI and UX
 
-
 ## Task: Patagonia
 
 - Learn about the projects that they collaborate with.
@@ -61,6 +57,3 @@ Look at the documentation for these sites:
 ## Dictation
 
 See [Dictation]()
-
-
-
