@@ -2,13 +2,23 @@
 
 ## Translate Tags to Headers
 
+Go TopDown through the directories
+
+1. Start with the Module Overviews
+    - Some of the tags in the overview will become their own Pages. 
+    - **Remember to transfer the PaperPhotos to the new page too**
+2. MotoPages
+3. ViaPages
+4. NeuroPages
+5. BetaPages
+
 ```py
-`TagsToHeaders: False`
+TagsToHeaders: False
 ```
 
-Change to `True` once completed
+Update to `True` once completed
 
-## <u><moto>MotoPage.BaseLayout</moto></u>
+## <moto>MotoPage.BaseLayout</moto>
 
 ### Definition
 
@@ -59,7 +69,8 @@ Syntax: `Moto.AnteMoto`
 
 ### Moto.Via
 
-
+- How does this Moto interface with Eco?
+- Where in the Via is this Moto performed?
 
 ### Moto.Eco
 
@@ -67,13 +78,13 @@ Where in Eco is this Moto performed and on what EcoObject. Put "the ground" if n
 
 ### Moto.Neuro
 
-Control Flow Statements for alternative moves
+- Control Flow Statements for alternative moves
 
 ### Moto.Error
 
 - Any errors in ControlFlow
 - MotoExecutionError
-- Error which is caused by Eco 
+- Error which is caused by Eco
     - Soil Collapse
     - Wood breaking
 - Error Recovery if possible
@@ -118,7 +129,7 @@ PaperText is most useful for fine details. It should be done after Dictation and
 
 :::
 
-1. Get PlantbetaPaperText
+1. Get PutPlantPaperText
     - Find most recent PaperText
     - Upload PaperText to SQlite
     - Select of all the PaperText which has a PaperPhoto in PutPlant's repo

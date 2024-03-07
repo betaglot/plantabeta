@@ -4,7 +4,19 @@
 
 -Via is close to Surveying
     - Trangulation
+
 - Via is Mathematics
+
+## Update your Via
+
+## Inter
+
+- Interact
+- Interface
+    - Via is the interface between <eco>Eco</eco> and <moto>Moto</moto>
+    - Via is the interface between <eco>Eco</eco> and <neuro>Neuro</neuro>
+- Interpolate
+
 ## DevState
 
 ```py
@@ -18,18 +30,16 @@
 ## ViaComposition
 
 - Compose ViaCurves, ViaSpaces and ViaPoints together to Cover Land
-- Fit the ViaElements together 
+- Fit the ViaElements together
 - ViaCurves within ViaSpaces
     - Walking through a Space between Trees.
     - EcoSpace is everywhere, ViaSpace are only the Spaces which are not obstructed.
 - ViaPoints within ViaCurves
 
-
-
 - ViaSelection
-- Cutting through residual is Via 
+- Cutting through residual is Via
 - Route start and finish are RouteProblems
-    - Route Surfaces are RouteSolutions 
+    - Route Surfaces are RouteSolutions
     - Givens Assignables are Route and their values are Eco
 - "Neuro.Vision"
 - "Neuro.Vision.Find.BackLine"
@@ -105,8 +115,8 @@
 - PlantingProcess_LastBagUp_FinishByLand_BlockClosure
 - PlantingProcess_LastBagUp_FinishByTreeCount_TargetTreeCount
 - PlantingProcess_LastBagUp_WalkOut_WalkOutTime
-- PlantingProcess_Replant_MissedLand_TreeFlag												
-- PlantingProcess_Replant_MissedMicrosite_TreeFlag			
+- PlantingProcess_Replant_MissedLand_TreeFlag
+- PlantingProcess_Replant_MissedMicrosite_TreeFlag
 
 > Optimal vialine has zero displacement from via start to via finish, both are at the cache
 
@@ -202,9 +212,11 @@ Via/ViaOverview.md, <dev>Via.ViaGrid.ViaHexagonGrid</dev>, ![90107.png](/PaperPh
 :::
 
 # 🔻 <via>Via Overview</via>
-![](/Via/Via_Emoji.png)
+
+![Via Emoji](/Via/Via_Emoji.png)
 
 ## <via>Via Symbol</via> 🔻
+>
 > Red Triangle
 
 ## What is a Via ?
@@ -221,7 +233,6 @@ Via/ViaOverview.md, <dev>Via.ViaGrid.ViaHexagonGrid</dev>, ![90107.png](/PaperPh
 
 > "Use that branch to pull yourself up"
 
-
 - Computational Geometry
 - The interface between Moto, Neuro and Eco.
 - Via is an abstract layer on top of Eco. A via is where the Planter
@@ -232,11 +243,9 @@ Via/ViaOverview.md, <dev>Via.ViaGrid.ViaHexagonGrid</dev>, ![90107.png](/PaperPh
 - Minimize Deadwalking
 - To be able to have a detailed mental model of your land, so that you can plan how you're going to Cover your lang.
 
-
 > a particular way or direction between places
 
 > a method of achieving something
-
 
 Also Known As "Land Management"
 
@@ -244,21 +253,12 @@ Also Known As "Land Management"
 
 > the use of a particular path or direction for something to travel or be placed
 
-
-
-
-
-
 ## Via Scope
 
 PieceCover > AreaCover > ViaCurve > ViaPoint
 
-
-
-
-
 ## $$$
-- Via Affects productivity the most because via has deadwalking and cache positioning. Via Starts and Finishes at the cache. 
+
+- Via Affects productivity the most because via has deadwalking and cache positioning. Via Starts and Finishes at the cache.
 
 - Even the most atheletic planter is wasting time during deadwalking. Minimizing deadwalking benefits all planters and supervisors.
-

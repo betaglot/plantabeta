@@ -19,7 +19,6 @@ export default defineConfig({
     logo: 'android-chrome-512x512.png',
     socialLinks: [
       { icon: 'youtube', link: 'https://www.youtube.com/@Klimbeta' },
-      { icon: 'instagram', link: 'https://www.instagram.com/the_plantbeta/' },
       { icon: 'github', link: 'https://github.com/klimbeta/putplant' }
     ],
     footer: {
@@ -89,7 +88,7 @@ function nav() {
   return [
     {
       text: 'Guide',
-      link: '/guide/What/WhatPlantbeta',
+      link: '/guide/What/WhatPutPlant',
       activeMatch: '/guide/'
     },
     {
@@ -123,7 +122,7 @@ function sidebarGuide() {
       collapsed: false,
       items: [
         { text: 'What is Tree Planting?', link: '/guide/What/WhatTreePlanting' },
-        { text: 'What is PutPlant?', link: '/guide/What/WhatPlantbeta' },
+        { text: 'What is PutPlant?', link: '/guide/What/WhatPutPlant' },
       ]
     },
     {

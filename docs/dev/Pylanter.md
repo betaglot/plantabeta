@@ -382,7 +382,7 @@ You can't speak about Via or Moto by themselves.
 
 An Element is an Object of PutPlant.
 
-- BetaElement and PlantbetaElement have been confused. Beta can be applied to Climbing, PutPlant can not. You don't need Beta to climb. Beta is an abstraction layer on top of Climbing or Planting. Beta is the observation
+- BetaElement and PutPlantElement have been confused. Beta can be applied to Climbing, PutPlant can not. You don't need Beta to climb. Beta is an abstraction layer on top of Climbing or Planting. Beta is the observation
 
 - BetaScore
 

@@ -670,15 +670,15 @@
     "guide/How/Science.md": [],
     "guide/What/GearList.md": [],
     "guide/What/WhatGear.md": [],
-    "guide/What/WhatPlantbeta.md": [
+    "guide/What/WhatPutPlant.md": [
         "Guide.GettingStarted",
         "Guide.What.WhatElement",
         "Guide.What.WhatElement.ElementName.Affix",
         "Guide.What.WhatElement.Euclid",
-        "Guide.What.WhatPlantbeta",
-        "Guide.What.WhatPlantbeta.PlanterQuestion",
-        "Guide.What.WhatPlantbeta.Product",
-        "Guide.What.WhatPlantbeta.Service"
+        "Guide.What.WhatPutPlant",
+        "Guide.What.WhatPutPlant.PlanterQuestion",
+        "Guide.What.WhatPutPlant.Product",
+        "Guide.What.WhatPutPlant.Service"
     ],
     "guide/What/WhatTreePlanting.md": [
         "Guide.What.WhatTreePlanting"

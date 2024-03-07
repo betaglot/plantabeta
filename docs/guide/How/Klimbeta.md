@@ -23,7 +23,7 @@ What is the puck what is the net and how do you carry the puck?
 
 # Klimbeta
 
-![Klimbeta_Plantbeta](/Klimbeta_Plantbeta.png)
+![Klimbeta_PutPlant](/Klimbeta_PutPlant.png)
 
 ## Story of Young People Who Want to Combat Climate Change
 
@@ -61,7 +61,7 @@ Show the utility of BetaComp for Planters
 - Time it takes to train a Novice
 - Number of Trees planted by a Novice compared to an Experienced Planter.
 
-### 2. How [PutPlant](/guide/What/WhatPlantbeta) helps Planting to Combat Climate Change
+### 2. How [PutPlant](/guide/What/WhatPutPlant) helps Planting to Combat Climate Change
 
 Currently there is no way to teach planting
 

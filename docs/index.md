@@ -14,7 +14,7 @@ hero:
   actions:
     - theme: brand
       text: I'm new to PutPlant
-      link: /guide/What/WhatPlantbeta
+      link: /guide/What/WhatPutPlant
 
 
 features:
