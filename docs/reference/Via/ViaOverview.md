@@ -9,13 +9,7 @@
 
 ## Update your Via
 
-## Inter
 
-- Interact
-- Interface
-    - Via is the interface between <eco>Eco</eco> and <moto>Moto</moto>
-    - Via is the interface between <eco>Eco</eco> and <neuro>Neuro</neuro>
-- Interpolate
 
 ## DevState
 
@@ -219,9 +213,39 @@ Via/ViaOverview.md, <dev>Via.ViaGrid.ViaHexagonGrid</dev>, ![90107.png](/PaperPh
 >
 > Red Triangle
 
-## What is a Via ?
+## What is Via ?
 
-> the interface between Moto and Eco
+> the interface between Moto, Neuro and Eco
+
+::: tip <dev>&</dev>
+<dev>Image of all the different</dev> 
+:::
+
+### Via Dimensions
+
+#### Via Space
+
+#### Via Curve
+
+Curve not line
+
+#### Via Point
+
+### Via must be easily attainable
+
+Flying through air from hole to hole is possible but not attainable.
+
+There's no point in thinking about paths which won't work
+
+Not worth the trouble
+
+### Inter
+
+- Interact
+- Interface
+    - Via is the interface between <eco>Eco</eco> and <moto>Moto</moto>
+    - Via is the interface between <eco>Eco</eco> and <neuro>Neuro</neuro>
+- Interpolate
 
 ### "By way of"
 

@@ -2,7 +2,7 @@
 
 ## DevNotes
 
--
+- How much do I explain and how much do I just leave to the open source organizations' websites, which are way more developed? What do people need to know about Open Source to see its value to humanity  
 
 ## DevState
 
@@ -91,6 +91,16 @@ The [Python Software Foundation](https://www.python.org/psf-landing/) is an orga
 
 ## Collaboration
 
+### Code Of Conduct
+
+- Mastodon
+
+- Discord
+
+- Instagram
+
+Submit by hash tag.
+
 ## Geospatial
 
 - <https://www.ogc.org/>
@@ -100,6 +110,8 @@ The [Python Software Foundation](https://www.python.org/psf-landing/) is an orga
 Modify Patagonia Gear into Kit, Sleeves, Gauntlet
 
 ### Contributors
+
+#### Contribution Guide
 
 ### Sponsors
 

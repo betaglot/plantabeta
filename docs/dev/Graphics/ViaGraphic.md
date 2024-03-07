@@ -103,6 +103,15 @@ dev/Graphics/ViaGraphic.md, <dev>Via.ViaDiagram.Overview</dev>, ![90019.jpg](/Pa
 
 # 🛠 Via Graphics
 
+## Density Report
+
+Another way to visualize
+
+Visualize a screenshot
+
+AI to overlay Screenshot with Voronoi Diagram
+
+
 ## Voronoi Diagram
 
 ### <moto>MotoVoronoi</moto>

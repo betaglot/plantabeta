@@ -2,7 +2,7 @@
 
 ## DevNotes
 
--
+
 
 ## DevState
 
@@ -748,3 +748,60 @@ dev/Graphics/Overview.md, <dev>Dev.Element.ElementDiagram.ConnectorLine.LineThic
 # 🛠 Graphics Overview
 
 ## D3.js
+
+## Youtube Creators 
+
+Copy the animated and static data structures
+
+Visual Language. What is their art category? 
+
+
+Network
+
+Tree
+
+- Tree Growing
+
+
+
+List
+
+Highlight
+
+### Vox 
+
+Elections
+
+### JohnnyHarris 
+
+Maps
+
+### SearchParty 
+
+Maps
+
+Shuttle Icons
+
+Icons moving along a line like a metrocar or action potential
+
+### Veritasium 
+
+
+
+### TedEd 
+
+Story transitions
+
+### MinuteVideos
+
+### Analog
+
+Turn this map into an animation. Blender?
+
+### NYTgraphics
+
+- Me : Mike Bostock :: Johnny Harris : SearchPartyGuy 
+
+
+
+

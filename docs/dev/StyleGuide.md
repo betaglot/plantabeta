@@ -491,6 +491,29 @@ How many links is too many?
 
 Every paragraph should have a link
 
+## Grandiosity
+
+### Oversell
+
+
+### Scale
+
+- Number of Plants
+- Scope
+- Timeline
+
+### Urgency
+
+### Hero
+
+Save the Day
+
+Planters are Heros. Many people commented on @antmos Instagram that he was a hero. People already naturally think it.
+
+## Via
+
+Should "via" be used as natural language? "Get to the next page via the link at the bottom of the page"
+
 ## <dev>ElementPageDesign</dev>
 
 ### <dev>Definition</dev>

@@ -143,3 +143,10 @@ PaperText is most useful for fine details. It should be done after Dictation and
 ```md
 > brief single line definition  
 ```
+
+
+make pad 
+
+Volunteer cooks
+
+The Bear
