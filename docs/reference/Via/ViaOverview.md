@@ -5,11 +5,9 @@
 -Via is close to Surveying
     - Trangulation
 
-- Via is Mathematics
+- Via is Superimposed onto Eco.
 
 ## Update your Via
-
-
 
 ## DevState
 

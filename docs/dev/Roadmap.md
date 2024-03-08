@@ -73,21 +73,30 @@ To [Reforest](https://www.lasy.gov.pl/en/information/news/a-forest-is-much-more-
 
 ## Future of Planting
 
-### Residential Planting
+### Urban Planting
 
-Via line equals street
+Probably more shrubs than trees
+
+Eco is Street
+
 Promotional video
 
 LawnScreef
 
-Trees are not meant to be loners
+Trees are not meant to be loners. Buttress Tree
+
+### Suburban Planting
 
 ### More planting BurntLand
+
+Planting to prevent soil erosion of BurntLand
 
 ### More Raw
 
 - More RawLand less Clearcutting
 - More Slash
+
+Heterogeneous Plantations, ie not just trees to slow the advance of fire.
 
 It would be better for the earth if planting was more difficult.
 

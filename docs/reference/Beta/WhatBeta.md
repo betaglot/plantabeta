@@ -170,6 +170,13 @@ This each line are analog pairs. The equal signs = denotes where Climbing and Pl
 
 PutPlant breaks down a Planter's experience into simple elements. Each element has its own particular properties which when varied affect
 
+
+Moto is the first person experience of Movement
+
+Eco is the first person experience of 
+
+Via is the first person experience of 
+
 Changing an Element's properties affects how it relates to other elements and changes their properties too. These changes ripple out across PutPlant's web of relationships.
 
 ```py
