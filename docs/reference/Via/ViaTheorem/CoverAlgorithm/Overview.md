@@ -99,7 +99,6 @@ Coverin spandrels to show the mortar between ideal tree spacing spgeres
 - "Via.PieceCover.PocketCover"
 - "Via.PieceCover.StraightenCover"
 - "Via.PieceCover.TypewriterCover"
-
 :::
 
 # 🔻 <via>Cover Algorithm Overview</via>

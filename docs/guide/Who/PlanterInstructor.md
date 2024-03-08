@@ -61,15 +61,12 @@ guide/Who/PlanterInstructor.md, <dev>Guide.Who.PlanterInstructor</dev>, ![3039.j
 guide/Who/PlanterInstructor.md, <dev>Guide.Who.PlanterInstructor</dev>, ![3148.jpg](/PaperPhoto/3148.jpg)
 guide/Who/PlanterInstructor.md, <dev>Guide.Who.PlanterInstructor</dev>, ![3159.jpg](/PaperPhoto/3159.jpg)
 guide/Who/PlanterInstructor.md, <dev>Guide.Who.PlanterInstructor.TeachingPlot</dev>, ![3159.jpg](/PaperPhoto/3159.jpg)
-
 :::
 
 # Planter Instructor
 
 > A person who teaches NovicePlanters and ExperiencedPlanters how to improve their planting ability.
-
 ::: tip Currently this position only exists in a few companies, unfortunately they only teach NovicePlanters.
-
 :::
 
 ## Expertise Induced Amnesia
@@ -103,7 +100,6 @@ guide/Who/PlanterInstructor.md, <dev>Guide.Who.PlanterInstructor.TeachingPlot</d
 - Observe HighBallers to see which elements they could improve and to add detail to the current elements.
     - Report
 - Talk to Novices about their experience to gain insights about their perspective.
-
 ::: danger Unteachable Character Traits
 
 A Planter can know everything about how to be a Planter, but still not plant to their maximum potential. This is because to be an elite Planter you must have character traits which can't be taught. Perhaps they can be cultivated by a sports psychologist, but this is currently outside the scope of Put(Plant) and the rest of the planting industry.  
@@ -115,5 +111,4 @@ Such traits include:
 - Grit
 - Confidence
 - Drive  
-
 :::

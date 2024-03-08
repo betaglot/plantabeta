@@ -16,7 +16,6 @@
 - "Moto.ToolMoto.BootMoto.BootOn"
 - "Moto.ToolMoto.BootMoto.Overview"
 
-
 :::
 
 # 🟠 <moto>Boot</moto>

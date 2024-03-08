@@ -96,7 +96,6 @@ Via/ViaSpace/Overview.md, <dev>Via.Spacing.ElasticSpacing</dev>, ![3154.jpg](/Pa
 Via/ViaSpace/Overview.md, <dev>Via.Spacing.MaximumSpacing</dev>, ![3159.jpg](/PaperPhoto/3159.jpg)
 Via/ViaSpace/Overview.md, <dev>Via.Spacing.MinimumSpacing</dev>, ![3159.jpg](/PaperPhoto/3159.jpg)
 Via/ViaSpace/Overview.md, <dev>Via.ViaGeometry.ViaSpace.Overview</dev>, ![90044.jpg](/PaperPhoto/90044.jpg)
-
 :::
 
 # <via>Via Space</via>

@@ -19,7 +19,6 @@
 
 Moto/ToolMoto/Spade/SpadeProp.md, <dev>Moto.ToolMoto.SpadeMoto.SpadeProp</dev>, ![2469.jpg](/PaperPhoto/2469.jpg)
 Moto/ToolMoto/Spade/SpadeProp.md, <dev>Moto.ToolMoto.SpadeMoto.SpadeProp</dev>, ![2567.jpg](/PaperPhoto/2567.jpg)
-
 :::
 
 # 🟠 <moto>SpadeProp</moto>
@@ -116,11 +115,9 @@ Quotes about this Moto
 Links to other related motos. Related because they are the same MotoType or because they are performed at the same time or within the same Phrase.
 
 ## See also:
-
 ::: details External References
 
 - One
 - Two
 - Three
-
 :::

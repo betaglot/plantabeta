@@ -98,12 +98,10 @@ Links to other related motos. Related because they are the same MotoType or beca
 ## See also:
 
 
-
 ::: details External References
 
 - One
 - Two
 - Three
-
 :::
 

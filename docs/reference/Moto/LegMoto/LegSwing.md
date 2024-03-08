@@ -19,7 +19,6 @@ Moto/LegMoto/LegSwing.md, <dev>Moto.LegMoto.LegSwing</dev>, ![1059.jpg](/PaperPh
 Moto/LegMoto/LegSwing.md, <dev>Moto.LegMoto.LegSwing</dev>, ![1379.jpg](/PaperPhoto/1379.jpg)
 Moto/LegMoto/LegSwing.md, <dev>Moto.LegMoto.LegSwing</dev>, ![2338.jpg](/PaperPhoto/2338.jpg)
 Moto/LegMoto/LegSwing.md, <dev>Moto.LegMoto.LegSwing</dev>, ![3222.jpg](/PaperPhoto/3222.jpg)
-
 :::
 
 # 🟠 <moto>LegSwing</moto>
@@ -109,11 +108,9 @@ Quotes about this Moto
 Links to other related motos. Related because they are the same MotoType or because they are performed at the same time or within the same Phrase.
 
 ## See also
-
 ::: details External References
 
 - One
 - Two
 - Three
-
 :::

@@ -29,7 +29,6 @@ Neuro/Learning/Overview.md, <dev>Neuro.Learning.Overview</dev>, ![1740.jpg](/Pap
 Neuro/Learning/Overview.md, <dev>Neuro.Learning.Overview</dev>, ![1763.jpg](/PaperPhoto/1763.jpg)
 Neuro/Learning/Overview.md, <dev>Neuro.Learning.Recall</dev>, ![1763.jpg](/PaperPhoto/1763.jpg)
 Neuro/Learning/Overview.md, <dev>Neuro.Learning.Review</dev>, ![1763.jpg](/PaperPhoto/1763.jpg)
-
 :::
 
 # 💜 <neuro>Learning Overview</neuro>

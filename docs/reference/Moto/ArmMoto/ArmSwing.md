@@ -21,8 +21,6 @@ Moto/ArmMoto/ArmSwing.md, <dev>Moto.ArmMoto.ArmSwing</dev>, ![1824.jpg](/PaperPh
 Moto/ArmMoto/ArmSwing.md, <dev>Moto.ArmMoto.ArmSwing</dev>, ![2033.jpg](/PaperPhoto/2033.jpg)
 Moto/ArmMoto/ArmSwing.md, <dev>Moto.ArmMoto.ArmSwing</dev>, ![2948.jpg](/PaperPhoto/2948.jpg)
 Moto/ArmMoto/ArmSwing.md, <dev>Moto.ArmMoto.ArmSwing</dev>, ![3222.jpg](/PaperPhoto/3222.jpg)
-
-
 :::
 
 # 🟠 <moto>ArmSwing</moto>
@@ -112,11 +110,9 @@ Quotes about this Moto
 Links to other related motos. Related because they are the same MotoType or because they are performed at the same time or within the same Phrase.
 
 ## See also
-
 ::: details External References
 
 - One
 - Two
 - Three
-
 :::

@@ -46,7 +46,6 @@ Moto/BodyMoto/Overview.md, <dev>Moto.BodyMoto.Landing</dev>, ![2450.jpg](/PaperP
 Moto/BodyMoto/Overview.md, <dev>Moto.BodyMoto.BodyPosture</dev>, ![2469.jpg](/PaperPhoto/2469.jpg)
 Moto/BodyMoto/Overview.md, <dev>Moto.BodyMoto.Overview</dev>, ![2474.jpg](/PaperPhoto/2474.jpg)
 Moto/BodyMoto/Overview.md, <dev>Moto.BodyMoto.Stemming</dev>, ![2834.jpg](/PaperPhoto/2834.jpg)
-
 :::
 
 # 🟠 <moto>Body Overview</moto>

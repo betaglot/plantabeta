@@ -24,7 +24,6 @@ Moto/ToolMoto/Box/Overview.md, <dev>Moto.ToolMoto.BoxMoto.Overview</dev>, ![0071
 Moto/ToolMoto/Box/Overview.md, <dev>Moto.ToolMoto.BoxMoto.Overview</dev>, ![1183.jpg](/PaperPhoto/1183.jpg)
 Moto/ToolMoto/Box/Overview.md, <dev>Moto.ToolMoto.BoxMoto.Overview</dev>, ![2484.jpg](/PaperPhoto/2484.jpg)
 Moto/ToolMoto/Box/Overview.md, <dev>Moto.ToolMoto.BoxMoto.Overview</dev>, ![3150.jpg](/PaperPhoto/3150.jpg)
-
 :::
 
 # 🟠 <moto>Box Overview</moto>

@@ -33,7 +33,6 @@ Neuro/Judgement/LandJudgement.md, <dev>Neuro.Logic.Boolean</dev>, ![2942.jpg](/P
 Neuro/Judgement/LandJudgement.md, <dev>Neuro.Logic.Boolean</dev>, ![90002.jpg](/PaperPhoto/90002.jpg)
 Neuro/Judgement/LandJudgement.md, <dev>Neuro.Logic.Overview</dev>, ![90002.jpg](/PaperPhoto/90002.jpg)
 Neuro/Judgement/LandJudgement.md, <dev>Neuro.Logic.Deduction</dev>, ![90047.jpg](/PaperPhoto/90047.jpg)
-
 :::
 
 # 💜 <neuro>Judgement </neuro>
@@ -53,19 +52,14 @@ Neuro/Judgement/LandJudgement.md, <dev>Neuro.Logic.Deduction</dev>, ![90047.jpg]
 ::: details Questions 1
 
 Answer 1
-
 :::
-
 ::: details Questions 2
 
 Answer 2
-
 :::
-
 ::: details Questions 3
 
 Answer 3
-
 :::
 ## Element Properties
 
@@ -98,12 +92,10 @@ Answer 3
 Links to other related NeuroElements. 
 
 
-
 ::: details External References
 
 - One
 - Two
 - Three
-
 :::
 

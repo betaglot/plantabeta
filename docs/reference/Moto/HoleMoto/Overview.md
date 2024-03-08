@@ -30,7 +30,6 @@ Moto/HoleMoto/Overview.md, <dev>Moto.HoleMoto.Overview</dev>, ![2478.jpg](/Paper
 Moto/HoleMoto/Overview.md, <dev>Moto.HoleMoto.Overview</dev>, ![2945.jpg](/PaperPhoto/2945.jpg)
 Moto/HoleMoto/Overview.md, <dev>Moto.HoleMoto.Overview</dev>, ![3059.jpg](/PaperPhoto/3059.jpg)
 Moto/HoleMoto/Overview.md, <dev>Moto.HoleMoto.Overview</dev>, ![3083.jpg](/PaperPhoto/3083.jpg)
-
 :::
 
 # 🟠 <moto>Hole Overview</moto>

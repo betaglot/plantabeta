@@ -13,7 +13,6 @@
 
 
 
-
 :::
 
 # 🔻 <via>BoustroCover</via>
@@ -112,11 +111,9 @@ Links to other related ViaElements.
 - [FlagTrenchExit]()
 - [ConvergentBoustroCover]()
 - [DivergentBoustroCover]()
-
 ::: details External References
 
 - https://www.semanticscholar.org/paper/On-Complete-Coverage-Path-Planning-Algorithms-for-Khan-Noreen/ee6bdd20dd58de3c4fe646103e76b46237821d38
-
 :::
 
 

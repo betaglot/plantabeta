@@ -19,7 +19,6 @@ Moto/ClothingMoto/Overview.md, <dev>Moto.ClothingMoto.Overview</dev>, ![1844.jpg
 Moto/ClothingMoto/Overview.md, <dev>Moto.ClothingMoto.Overview</dev>, ![2572.jpg](/PaperPhoto/2572.jpg)
 Moto/ClothingMoto/Overview.md, <dev>Moto.ClothingMoto.Overview</dev>, ![3148.jpg](/PaperPhoto/3148.jpg)
 
-
 :::
 
 # 🟠 <moto>Clothing Overview</moto>

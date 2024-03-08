@@ -124,7 +124,6 @@ Neuro/NeuroOverview.md, <dev>Neuro.CognitiveEase.Good</dev>, ![3171.jpg](/PaperP
 Neuro/NeuroOverview.md, <dev>Neuro.CognitiveEase.Priming</dev>, ![3171.jpg](/PaperPhoto/3171.jpg)
 Neuro/NeuroOverview.md, <dev>Neuro.CognitiveEase.Repetition</dev>, ![3171.jpg](/PaperPhoto/3171.jpg)
 Neuro/NeuroOverview.md, <dev>Neuro.Overview</dev>, ![3276.jpg](/PaperPhoto/3276.jpg)
-
 :::
 
 # 💜 <neuro>Neuro Overview </neuro>

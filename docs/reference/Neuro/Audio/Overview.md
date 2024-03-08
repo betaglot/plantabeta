@@ -30,7 +30,6 @@
 - SoundLibrary_Whistle_Emergency_ThreeWhistleBlow
 
 Neuro/Audio/Overview.md, <dev>Neuro.Hearing</dev>, ![2956.jpg](/PaperPhoto/2956.jpg)
-
 :::
 
 # 💜 <neuro>SoundOverview</neuro>
@@ -50,19 +49,14 @@ Neuro/Audio/Overview.md, <dev>Neuro.Hearing</dev>, ![2956.jpg](/PaperPhoto/2956.
 ::: details Questions 1
 
 Answer 1
-
 :::
-
 ::: details Questions 2
 
 Answer 2
-
 :::
-
 ::: details Questions 3
 
 Answer 3
-
 :::
 ## Element Properties
 
@@ -95,12 +89,10 @@ Answer 3
 Links to other related NeuroElements. 
 
 
-
 ::: details External References
 
 - One
 - Two
 - Three
-
 :::
 

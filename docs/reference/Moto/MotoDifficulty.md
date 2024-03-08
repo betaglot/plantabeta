@@ -41,7 +41,6 @@ Moto/MotoDifficulty.md, <dev>Moto.MotoDifficulty.MotoRisk</dev>, ![1866.jpg](/Pa
 Moto/MotoDifficulty.md, <dev>Moto.MotoDifficulty.MotoComplexity</dev>, ![2397.jpg](/PaperPhoto/2397.jpg)
 Moto/MotoDifficulty.md, <dev>Moto.MotoDifficulty.Overview</dev>, ![2861.jpg](/PaperPhoto/2861.jpg)
 Moto/MotoDifficulty.md, <dev>Moto.MotoDifficulty.Overview</dev>, ![3319.jpg](/PaperPhoto/3319.jpg)
-
 :::
 
 # 🔷 <moto>MotoDifficulty</moto>

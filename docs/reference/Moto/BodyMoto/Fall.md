@@ -21,7 +21,6 @@ Moto/BodyMoto/Fall.md, <dev>Moto.BodyMoto.Fall</dev>, ![2966.jpg](/PaperPhoto/29
 Moto/BodyMoto/Fall.md, <dev>Moto.BodyMoto.Fall</dev>, ![3053.jpg](/PaperPhoto/3053.jpg)
 Moto/BodyMoto/Fall.md, <dev>Moto.BodyMoto.Fall</dev>, ![3227.jpg](/PaperPhoto/3227.jpg)
 
-
 :::
 
 # 🟠 <moto>PlanterFall</moto>
@@ -111,11 +110,9 @@ Quotes about this Moto
 Links to other related motos. Related because they are the same MotoType or because they are performed at the same time or within the same Phrase.
 
 ## See also
-
 ::: details External References
 
 - One
 - Two
 - Three
-
 :::

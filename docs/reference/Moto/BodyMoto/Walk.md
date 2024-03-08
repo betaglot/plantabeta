@@ -19,7 +19,6 @@ Moto/BodyMoto/Walk.md, <dev>Moto.BodyMoto.Walk</dev>, ![2450.jpg](/PaperPhoto/24
 Moto/BodyMoto/Walk.md, <dev>Moto.BodyMoto.Walk</dev>, ![3217.jpg](/PaperPhoto/3217.jpg)
 Moto/BodyMoto/Walk.md, <dev>Moto.BodyMoto.Walk</dev>, ![3222.jpg](/PaperPhoto/3222.jpg)
 
-
 :::
 
 # 🟠 <moto>Walk</moto>
@@ -124,11 +123,9 @@ Quotes about this Moto
 Links to other related motos. Related because they are the same MotoType or because they are performed at the same time or within the same Phrase.
 
 ## See also
-
 ::: details External References
 
 - One
 - Two
 - Three
-
 :::

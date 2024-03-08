@@ -16,7 +16,6 @@
 - "Moto.ToolMoto.FlagMoto.FlagStump"
 - "Moto.ToolMoto.FlagMoto.MotoError.PlantedFlag"
 - "Moto.ToolMoto.FlagMoto.Overview"
-
 :::
 
 # 🟠 <moto>Flag Overview</moto>

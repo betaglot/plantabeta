@@ -69,7 +69,6 @@ Beta/WhatBeta.md, <dev>Beta.Overview</dev>, ![2967.jpg](/PaperPhoto/2967.jpg)
 Beta/WhatBeta.md, <dev>Beta.BetaProperties.SubsystemCount</dev>, ![90059.png](/PaperPhoto/90059.png)
 Beta/WhatBeta.md, <dev>Beta.BetaInstance</dev>, ![90087.png](/PaperPhoto/90087.png)
 Beta/WhatBeta.md, <dev>Beta.BetaInstance.BetaInstanceComparison</dev>, ![90087.png](/PaperPhoto/90087.png)
-
 :::
 
 # 🔷 <beta>What is Beta?</beta> 🔷
@@ -122,7 +121,6 @@ This each line are analog pairs. The equal signs = denotes where Climbing and Pl
 | <via>Anchor, Belay Station</via> | <via>Cache</via>              |
 |              <via>Approach</via> | <via>Walk In </via>           |
 |                     <eco>Crag </eco> | <eco> Block</eco>                 |
-
 ::: danger Why is it useful to relate Climbing to Planting?
 
 - OffSeason Training
@@ -130,7 +128,6 @@ This each line are analog pairs. The equal signs = denotes where Climbing and Pl
 - Many Planters are also Climbers and share many attributes.
     - Resilience, Ruggedness, Physically Fit
 - You will get better at one by learning the other.
-
 :::
 
 ## Definition(BetaInstance)
@@ -141,13 +138,10 @@ This each line are analog pairs. The equal signs = denotes where Climbing and Pl
 - There is no time in a BetaInstance
 
 ---
-
 ::: details Footnotes:
 
 - <https://www.climbernews.com/what-is-climbing-beta/>
-
 :::
-
 ::: details 🛠 <dev>DesignBox</dev>
 
 ## What is a Beta Element?
@@ -187,7 +181,6 @@ EcoTheorem
 > "Sand collapses by itself"
 
 > "Clay sticks together and onto your SpadeBlade"
-
 :::
 
 ## Problem
@@ -250,7 +243,6 @@ The Euclid's Elements is compilation of elements which was written over 2000 yea
 - Via
 
 ![Byrne_06](/Byrne_06.jpg)
-
 ::: details Read Further
 
 Wolfram Alpha
@@ -260,7 +252,6 @@ Wolfram Alpha
 Byrne's Euclid
 
 - <https://www.c82.net/euclid/>
-
 :::
 
 #### The Elements of a Set
@@ -270,13 +261,11 @@ Byrne's Euclid
 1 = Element
 
 [InsertImage] Venn Diagram set theory
-
 ::: tip What is a Set?
 
 Set Theory
 
 - No Duplicates
-
 :::
 
 #### The Elements of a Phylogenic Tree
@@ -315,11 +304,9 @@ Water = Elements
 > Two elements bonded together in a compound.
 
 Simple chemical substance.
-
 ::: details External Links
 
 - <https://archive.org/details/tom-jackson-the-periodic-table-a-visual-guide-to-the-elements-white-lion-publishing-2020/page/n3/mode/2up>
-
 :::
 
 #### The Elements of Avatar Bending
@@ -343,7 +330,6 @@ Air = Element
 - <https://www.gymnastics-history.com/category/code-of-points/>
 - <https://defector.com/i-will-explain-this-new-olympic-sport-to-you-skateboarding>
 - <https://apps.apple.com/app/gymsymbol/id1501949485>
-
 :::
 
 #### The Elements of HTML web pages
@@ -363,21 +349,17 @@ You will notice that all ElementNames have no spaces between their words, this i
 ##### Element Name Prefix
 
 Spade is a Prefix
-
 ::: tip Spade
 
 **Spade**Grip, **Spade**Open, **Spade** Close, **Spade**Screef, **Spade**Swing, **Spade**Prop
-
 :::
 
 ##### Element Name Suffix
 
 Grip is an Element Name Suffix
-
 ::: tip Grip
 
 Spade**Grip**, Tree**Grip**, Box**Grip**, Branch**Grip**, Bag**Grip**, Log**Grip**, Stump**Grip**, Handle**Grip**, Bundle**Grip**
-
 :::
 
 <img height="300" alt="PascalCase" width="500" src="/PascalCase.png">
@@ -416,27 +398,21 @@ A full body moto can be broken down into
 #### Element Mixture Decomposition
 
 Breaking down an element into more simple elements.
-
 ::: tip Example:
 
 InsertTree = TreeGrip + BendOver + SpadeProp
-
 :::
 
 #### Element Phrase Decomposition
 
 Breaking down the Phrase of elements.
-
 ::: tip Example:
 
 OpenHole = LookAtTarget --> SpadeProbeThrow --> SpadeThrow --> SpadeOpenHole
-
 :::
-
 ::: details External Links
 
 - <https://dictionary.cambridge.org/dictionary/english/element>
-
 :::
 
 ## BetaTime

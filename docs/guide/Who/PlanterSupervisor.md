@@ -21,7 +21,6 @@ guide/Who/PlanterSupervisor.md, <dev>Guide.Who.PlanterSupervisor</dev>, ![2957.j
 guide/Who/PlanterSupervisor.md, <dev>Guide.Who.PlanterSupervisor</dev>, ![2968.jpg](/PaperPhoto/2968.jpg)
 guide/Who/PlanterSupervisor.md, <dev>Guide.Who.PlanterRecruiter</dev>, ![3041.jpg](/PaperPhoto/3041.jpg)
 guide/Who/PlanterSupervisor.md, <dev>Guide.Who.PlanterSupervisor</dev>, ![3041.jpg](/PaperPhoto/3041.jpg)
-
 :::
 
 # Planter Supervisor

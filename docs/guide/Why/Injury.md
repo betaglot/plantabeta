@@ -25,7 +25,6 @@ guide/Why/Injury.md, <dev>Guide.Why.Injury</dev>, ![3048.jpg](/PaperPhoto/3048.j
 guide/Why/Injury.md, <dev>Guide.Why.Injury</dev>, ![3060.jpg](/PaperPhoto/3060.jpg)
 guide/Why/Injury.md, <dev>Guide.Why.Injury.ValgusKnee</dev>, ![3060.jpg](/PaperPhoto/3060.jpg)
 guide/Why/Injury.md, <dev>Moto.Ambidexterity</dev>, ![3083.jpg](/PaperPhoto/3083.jpg)
-
 :::
 
 # Prevent Needless Injury
@@ -52,7 +51,6 @@ Injury can occur in Planters when they perform the same moto repeatedly.
 Put(Plant) teaches Planters how to move through their [Eco](/reference/Eco/EcoOverview) safely.
 
 Falling is a large part of Climbing. Put(Plant) transfers the knowledge of how to fall safely from climbing to Planting.
-
 ::: tip Some of the Motos used to safely Fall
 
 - [BodyAbsorb](/reference/Moto/BodyMoto/BodyAbsorb)

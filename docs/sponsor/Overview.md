@@ -25,7 +25,6 @@ The sponsorship also builds brand recognition and improves the quality of applic
 ## Sponsoring <eco>Put(Plant)</eco> as an Individual
 
 If you are an individual user and have enjoyed the productivity of using <eco>Put(Plant)</eco>, consider donating as a sign of appreciation - like buying us coffee once in a while.
-
 ::: tip Send an email to:
 <putplant@gmail.com>
 :::

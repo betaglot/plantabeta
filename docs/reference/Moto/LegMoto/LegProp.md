@@ -18,7 +18,6 @@ Moto/LegMoto/LegProp.md, <dev>Moto.LegMoto.LegProp</dev>, ![1052.jpg](/PaperPhot
 Moto/LegMoto/LegProp.md, <dev>Moto.LegMoto.LegProp</dev>, ![1387.jpg](/PaperPhoto/1387.jpg)
 Moto/LegMoto/LegProp.md, <dev>Moto.LegMoto.LegProp</dev>, ![1752.jpg](/PaperPhoto/1752.jpg)
 Moto/LegMoto/LegProp.md, <dev>Moto.LegMoto.LegProp</dev>, ![2469.jpg](/PaperPhoto/2469.jpg)
-
 :::
 
 # 🟠 <moto>LegProp</moto>
@@ -107,12 +106,10 @@ Links to other related motos. Related because they are the same MotoType or beca
 ## See also:
 
 
-
 ::: details External References
 
 - One
 - Two
 - Three
-
 :::
 

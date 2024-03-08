@@ -18,7 +18,6 @@
 - "Moto.LegMoto.Step.SideStep"
 
 Moto/LegMoto/Step.md, <dev>Moto.LegMoto.Step</dev>, ![3080.jpg](/PaperPhoto/3080.jpg)
-
 :::
 
 # 🟠 <moto>Step</moto>
@@ -108,11 +107,9 @@ Quotes about this Moto
 Links to other related motos. Related because they are the same MotoType or because they are performed at the same time or within the same Phrase.
 
 ## See also
-
 ::: details External References
 
 - One
 - Two
 - Three
-
 :::

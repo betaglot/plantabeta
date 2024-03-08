@@ -23,7 +23,6 @@ Moto/ToolMoto/FlagMoto/FlagRip.md, <dev>Moto.ToolMoto.FlagMoto.FlagRip</dev>, ![
 Moto/ToolMoto/FlagMoto/FlagWeave.md, <dev>Moto.ToolMoto.FlagMoto.FlagWeave</dev>, ![0049.jpg](/PaperPhoto/0049.jpg)
 Moto/ToolMoto/FlagMoto/FlagWeave.md, <dev>Moto.ToolMoto.FlagMoto.FlagWeave</dev>, ![0487.jpg](/PaperPhoto/0487.jpg)
 Moto/ToolMoto/FlagMoto/FlagWeave.md, <dev>Moto.ToolMoto.FlagMoto.FlagWeave</dev>, ![3021.jpg](/PaperPhoto/3021.jpg)
-
 :::
 
 # 🟠 <moto>PutFlag</moto>
@@ -122,12 +121,10 @@ Links to other related motos. Related because they are the same MotoType or beca
 ## See also:
 
 
-
 ::: details External References
 
 - One
 - Two
 - Three
-
 :::
 

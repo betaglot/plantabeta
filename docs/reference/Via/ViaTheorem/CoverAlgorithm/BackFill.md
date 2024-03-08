@@ -165,7 +165,6 @@ Via/CoverAlgorithm/Overview.md, <dev>Via.AreaCover.PenroseCover</dev>, ![90043.j
 Via/CoverAlgorithm/Overview.md, <dev>Via.AreaCover.TriangleCover</dev>, ![90043.jpg](/PaperPhoto/90043.jpg)
 Via/CoverAlgorithm/Overview.md, <dev>Via.AreaCover.TriangleCover</dev>, ![90047.jpg](/PaperPhoto/90047.jpg)
 Via/CoverAlgorithm/Overview.md, <dev>Via.AreaCover.CircleCover.SemicircleCover</dev>, ![90090.png](/PaperPhoto/90090.png)
-
 :::
 
 # 🔻 <via>BackCover</via>
@@ -188,19 +187,14 @@ Via/CoverAlgorithm/Overview.md, <dev>Via.AreaCover.CircleCover.SemicircleCover</
 ::: details Questions 1
 
 Answer 1
-
 :::
-
 ::: details Questions 2
 
 Answer 2
-
 :::
-
 ::: details Questions 3
 
 Answer 3
-
 :::
 
 ## Element Purpose
@@ -237,12 +231,10 @@ Answer 3
 Links to other related ViaElements. 
 
 
-
 ::: details External References
 
 - One
 - Two
 - Three
-
 :::
 

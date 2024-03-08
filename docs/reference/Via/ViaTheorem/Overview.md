@@ -13,7 +13,6 @@
 
 RouteSolution is composable
 
-
 :::
 
 # 🔻 <via>Via Theorem Overview</via>

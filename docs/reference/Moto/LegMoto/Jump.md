@@ -15,7 +15,6 @@
 - "Moto.LegMoto.Jump"
 
 Moto/LegMoto/Jump.md, <dev>Moto.LegMoto.Jump</dev>, ![2834.jpg](/PaperPhoto/2834.jpg)
-
 :::
 
 # 🟠 <moto>Jump</moto>
@@ -105,11 +104,9 @@ Quotes about this Moto
 Links to other related motos. Related because they are the same MotoType or because they are performed at the same time or within the same Phrase.
 
 ## See also
-
 ::: details External References
 
 - One
 - Two
 - Three
-
 :::

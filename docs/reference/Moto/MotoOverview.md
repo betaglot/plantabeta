@@ -541,7 +541,6 @@ Moto/MotoOverview.md, <dev>Moto.MotoProperties.MotoShape.TriangleMoto</dev>, ![9
 Moto/MotoOverview.md, <dev>Moto.MotoShape</dev>, ![90043.jpg](/PaperPhoto/90043.jpg)
 Moto/MotoOverview.md, <dev>Moto.MotoProperties.MotoPermutation</dev>, ![90044.jpg](/PaperPhoto/90044.jpg)
 Moto/MotoOverview.md, <dev>Moto.MotoSpace.Overview</dev>, ![90044.jpg](/PaperPhoto/90044.jpg)
-
 :::
 
 # 🟠 <moto>Moto Overview</moto>

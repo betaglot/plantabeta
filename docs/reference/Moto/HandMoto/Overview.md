@@ -60,7 +60,6 @@ Moto/HandMoto/Overview.md, <dev>Moto.HandMoto.Overview</dev>, ![2482.jpg](/Paper
 Moto/HandMoto/Overview.md, <dev>Moto.HandMoto.Overview</dev>, ![2511.jpg](/PaperPhoto/2511.jpg)
 Moto/HandMoto/Overview.md, <dev>Moto.HandMoto.Overview</dev>, ![2525.jpg](/PaperPhoto/2525.jpg)
 Moto/HandMoto/Overview.md, <dev>Moto.HandMoto.Overview</dev>, ![2571.jpg](/PaperPhoto/2571.jpg)
-
 :::
 
 # 🟠 <moto>Hand Overview</moto>

@@ -37,7 +37,6 @@ Neuro/Time/Planning.md, <dev>Neuro.Planning.Prediction</dev>, ![1866.jpg](/Paper
 Neuro/Time/Planning.md, <dev>Neuro.Planning.Prediction</dev>, ![2048.jpg](/PaperPhoto/2048.jpg)
 Neuro/Time/Planning.md, <dev>Neuro.Planning</dev>, ![2573.jpg](/PaperPhoto/2573.jpg)
 Neuro/Time/Planning.md, <dev>Neuro.Planning</dev>, ![2944.jpg](/PaperPhoto/2944.jpg)
-
 :::
 
 # 💜 <neuro>Time Overview </neuro>
@@ -57,19 +56,14 @@ Neuro/Time/Planning.md, <dev>Neuro.Planning</dev>, ![2944.jpg](/PaperPhoto/2944.
 ::: details Questions 1
 
 Answer 1
-
 :::
-
 ::: details Questions 2
 
 Answer 2
-
 :::
-
 ::: details Questions 3
 
 Answer 3
-
 :::
 
 ## Element Properties
@@ -106,11 +100,9 @@ Answer 3
 ## See also:
 
 Links to other related NeuroElements.
-
 ::: details External References
 
 - One
 - Two
 - Three
-
 :::

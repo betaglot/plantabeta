@@ -16,7 +16,6 @@
 - "Moto.HandMoto.TreeTestGrip"
 
 Moto/HandMoto/TreeTestGrip.md, <dev>Moto.HandMoto.TreeTestGrip</dev>, ![2936.jpg](/PaperPhoto/2936.jpg)
-
 :::
 
 # 🟠 <moto>TreeTest</moto>
@@ -107,11 +106,9 @@ Quotes about this Moto
 Links to other related motos. Related because they are the same MotoType or because they are performed at the same time or within the same Phrase.
 
 ## See also
-
 ::: details External References
 
 - One
 - Two
 - Three
-
 :::

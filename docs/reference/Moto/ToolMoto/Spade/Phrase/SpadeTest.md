@@ -19,7 +19,6 @@
 
 Moto/ToolMoto/Spade/SpadeTest.md, <dev>Moto.ToolMoto.SpadeMoto.SpadeProbe</dev>, ![1006.jpg](/PaperPhoto/1006.jpg)
 Moto/ToolMoto/Spade/SpadeTest.md, <dev>Moto.ToolMoto.SpadeMoto.SpadeProbe</dev>, ![2936.jpg](/PaperPhoto/2936.jpg)
-
 :::
 
 # 🟠 <moto>SpadeTest</moto>
@@ -110,12 +109,10 @@ Links to other related motos. Related because they are the same MotoType or beca
 ## See also:
 
 
-
 ::: details External References
 
 - One
 - Two
 - Three
-
 :::
 

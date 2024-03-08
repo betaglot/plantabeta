@@ -32,7 +32,6 @@ Beta/BetaExamples.md, <dev>Beta.BetaExamples</dev>, ![3071.jpg](/PaperPhoto/3071
 Beta/BetaExamples.md, <dev>Beta.BetaExamples</dev>, ![3231.jpg](/PaperPhoto/3231.jpg)
 Beta/BetaExamples.md, <dev>Beta.BetaExamples</dev>, ![3298.jpg](/PaperPhoto/3298.jpg)
 
-
 :::
 
 # 🔷 <beta>Beta Examples</beta>

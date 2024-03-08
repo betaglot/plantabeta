@@ -1,5 +1,4 @@
 ::: details 🛠 <dev>DesignBox</dev>
-
 :::
 
 # 🔷 <moto>Body Phrase</moto>

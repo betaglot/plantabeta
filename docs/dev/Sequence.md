@@ -11,7 +11,6 @@
 ```
 
 ![PaperPhoto](/PaperPhoto/0017.jpg)
-
 :::
 
 # 🔷 Sequence

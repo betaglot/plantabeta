@@ -16,7 +16,6 @@
 
 Moto/HandMoto/InsertTree.md, <dev>Moto.HandMoto.InsertTree</dev>, ![2945.jpg](/PaperPhoto/2945.jpg)
 Moto/HandMoto/InsertTree.md, <dev>Moto.HandMoto.InsertTree</dev>, ![3060.jpg](/PaperPhoto/3060.jpg)
-
 :::
 
 # 🟠 <moto>InsertTree</moto>
@@ -113,11 +112,9 @@ Quotes about this Moto
 Links to other related motos. Related because they are the same MotoType or because they are performed at the same time or within the same Phrase.
 
 ## See also
-
 ::: details External References
 
 - One
 - Two
 - Three
-
 :::

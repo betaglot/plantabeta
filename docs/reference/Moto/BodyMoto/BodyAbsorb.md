@@ -17,7 +17,6 @@
 Moto/BodyMoto/BodyAbsorb.md, <dev>Moto.BodyMoto.BodyAbsorb</dev>, ![1006.jpg](/PaperPhoto/1006.jpg)
 Moto/BodyMoto/BodyAbsorb.md, <dev>Moto.BodyMoto.BodyAbsorb</dev>, ![1806.jpg](/PaperPhoto/1806.jpg)
 
-
 :::
 
 # 🟠 <moto>BodyAbsorb</moto>
@@ -108,11 +107,9 @@ Quotes about this Moto
 Links to other related motos. Related because they are the same MotoType or because they are performed at the same time or within the same Phrase.
 
 ## See also
-
 ::: details External References
 
 - One
 - Two
 - Three
-
 :::

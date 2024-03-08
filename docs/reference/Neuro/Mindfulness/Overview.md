@@ -23,7 +23,6 @@ Vipassana
 
 Neuro/Mindfulness/MindfulBreathing.md, <dev>Neuro.NonDual</dev>, ![0734.jpg](/PaperPhoto/0734.jpg)
 Neuro/Mindfulness/MindfulBreathing.md, <dev>Neuro.Meditation</dev>, ![3052.jpg](/PaperPhoto/3052.jpg)
-
 :::
 
 # 💜 <neuro>Mindfulness</neuro>
@@ -48,19 +47,14 @@ Learn To Suffer
 ::: details Questions 1
 
 Answer 1
-
 :::
-
 ::: details Questions 2
 
 Answer 2
-
 :::
-
 ::: details Questions 3
 
 Answer 3
-
 :::
 ## Element Properties
 
@@ -93,12 +87,10 @@ Answer 3
 Links to other related NeuroElements. 
 
 
-
 ::: details External References
 
 - One
 - Two
 - Three
-
 :::
 

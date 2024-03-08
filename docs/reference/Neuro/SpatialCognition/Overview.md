@@ -92,7 +92,6 @@ Neuro/SpatialCognition/Overview.md, <dev>Neuro.Alignment.Parallel</dev>, ![3121.
 Neuro/SpatialCognition/Overview.md, <dev>Neuro.Alignment.Perpendicular</dev>, ![3121.jpg](/PaperPhoto/3121.jpg)
 Neuro/SpatialCognition/Overview.md, <dev>Neuro.Chunking.Fraction</dev>, ![3139.jpg](/PaperPhoto/3139.jpg)
 Neuro/SpatialCognition/Overview.md, <dev>Neuro.Chunking.Fraction</dev>, ![3161.jpg](/PaperPhoto/3161.jpg)
-
 :::
 
 # 💜 <neuro>Spatial Cognition</neuro>

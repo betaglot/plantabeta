@@ -15,7 +15,6 @@
 - "Moto.HandMoto.HandScreef"
 
 Moto/HandMoto/HandScreef.md, <dev>Moto.HandMoto.HandScreef</dev>, ![2944.jpg](/PaperPhoto/2944.jpg)
-
 :::
 
 # 🟠 <moto>HandScreef</moto>
@@ -105,12 +104,10 @@ Links to other related motos. Related because they are the same MotoType or beca
 ## See also:
 
 
-
 ::: details External References
 
 - One
 - Two
 - Three
-
 :::
 

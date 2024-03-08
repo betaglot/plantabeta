@@ -16,7 +16,6 @@
 - "Eco.EcoDifficulty.LandIntensity"
 - "Eco.EcoDifficulty.LandRisk"
 - "Eco.EcoDifficulty.Overview"
-
 :::
 
 # 🔷 <eco>EcoDifficulty</eco>

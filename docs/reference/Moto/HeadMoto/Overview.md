@@ -24,7 +24,6 @@ Moto/HeadMoto/Overview.md, <dev>Moto.HeadMoto.LookAt</dev>, ![2938.jpg](/PaperPh
 Moto/HeadMoto/Overview.md, <dev>Moto.HeadMoto.LookAt</dev>, ![3000.jpg](/PaperPhoto/3000.jpg)
 Moto/HeadMoto/Overview.md, <dev>Moto.HeadMoto.LookAt</dev>, ![3143.jpg](/PaperPhoto/3143.jpg)
 Moto/HeadMoto/Overview.md, <dev>Moto.HeadMoto.Overview</dev>, ![3153.jpg](/PaperPhoto/3153.jpg)
-
 :::
 
 # 🟠 <moto>Head Overview</moto>

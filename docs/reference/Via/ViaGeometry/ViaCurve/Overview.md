@@ -169,7 +169,6 @@ Via/ViaCurve/Overview.md, <dev>Via.ViaGeometry.ViaCurve.Overview</dev>, ![90042.
 Via/ViaCurve/Overview.md, <dev>Via.ViaGeometry.ViaCurve.ViaLinearLine</dev>, ![90042.jpg](/PaperPhoto/90042.jpg)
 Via/ViaCurve/Overview.md, <dev>Via.ViaGeometry.ViaCurve.ParallelLine</dev>, ![90044.jpg](/PaperPhoto/90044.jpg)
 Via/ViaCurve/Overview.md, <dev>Via.ViaGeometry.ViaCurve.ViaLinearLine</dev>, ![90044.jpg](/PaperPhoto/90044.jpg)
-
 :::
 
 # 🔻 <via>ViaCurve Overview</via>
@@ -182,11 +181,9 @@ Via/ViaCurve/Overview.md, <dev>Via.ViaGeometry.ViaCurve.ViaLinearLine</dev>, ![9
 
 - CurveStartPoint
 - Curve FinishPoint
-
 ::: tip Difference Between a *Curve* and a *Line*
 
 In mathematics a *line* must be straight, while a *curve* can be straight or not straight.
-
 :::
 
 

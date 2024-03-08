@@ -20,7 +20,6 @@ Moto/HandMoto/TreeGrip.md, <dev>Moto.HandMoto.TreeFlip</dev>, ![1859.jpg](/Paper
 Moto/HandMoto/TreeGrip.md, <dev>Moto.HandMoto.TreeFlip</dev>, ![2944.jpg](/PaperPhoto/2944.jpg)
 Moto/HandMoto/TreeGrip.md, <dev>Moto.HandMoto.TreeGrip</dev>, ![2944.jpg](/PaperPhoto/2944.jpg)
 Moto/HandMoto/TreeGrip.md, <dev>Moto.HandMoto.TreeGrip</dev>, ![2954.jpg](/PaperPhoto/2954.jpg)
-
 :::
 
 # 🟠 <moto>TreeGrip</moto>
@@ -146,11 +145,9 @@ Quotes about this Moto
 Links to other related motos. Related because they are the same MotoType or because they are performed at the same time or within the same Phrase.
 
 ## See also
-
 ::: details External References
 
 - One
 - Two
 - Three
-
 :::

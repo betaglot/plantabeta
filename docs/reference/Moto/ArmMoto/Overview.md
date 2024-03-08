@@ -56,7 +56,6 @@ Moto/ArmMoto/Overview.md, <dev>Moto.ArmMoto.Overview</dev>, ![2015.jpg](/PaperPh
 Moto/ArmMoto/Overview.md, <dev>Moto.ArmMoto.Overview</dev>, ![2486.jpg](/PaperPhoto/2486.jpg)
 Moto/ArmMoto/Overview.md, <dev>Moto.ArmMoto.Overview</dev>, ![2525.jpg](/PaperPhoto/2525.jpg)
 
-
 :::
 
 # 🟠 <moto>Arm Overview</moto>

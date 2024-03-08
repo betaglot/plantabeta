@@ -18,7 +18,6 @@
 
 Moto/HandMoto/HandClose.md, <dev>Moto.HandMoto.HandClose.HammerClose</dev>, ![3160.jpg](/PaperPhoto/3160.jpg)
 Moto/HandMoto/HandClose.md, <dev>Moto.HandMoto.HandClose.PunchClose</dev>, ![3160.jpg](/PaperPhoto/3160.jpg)
-
 :::
 
 # 🟠 <moto>HandClose</moto>
@@ -116,11 +115,9 @@ Quotes about this Moto
 Links to other related motos. Related because they are the same MotoType or because they are performed at the same time or within the same Phrase.
 
 ## See also
-
 ::: details External References
 
 - One
 - Two
 - Three
-
 :::

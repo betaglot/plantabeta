@@ -200,7 +200,6 @@ Via/ViaOverview.md, <dev>Via.ViaProperties.ViaPermutation</dev>, ![90044.jpg](/P
 Via/ViaOverview.md, <dev>Via.ViaSuperposition</dev>, ![90044.jpg](/PaperPhoto/90044.jpg)
 Via/ViaOverview.md, <dev>Via.ViaGrid.ViaHexagonGrid</dev>, ![90106.png](/PaperPhoto/90106.png)
 Via/ViaOverview.md, <dev>Via.ViaGrid.ViaHexagonGrid</dev>, ![90107.png](/PaperPhoto/90107.png)
-
 :::
 
 # 🔻 <via>Via Overview</via>
@@ -214,7 +213,6 @@ Via/ViaOverview.md, <dev>Via.ViaGrid.ViaHexagonGrid</dev>, ![90107.png](/PaperPh
 ## What is Via ?
 
 > the interface between Moto, Neuro and Eco
-
 ::: tip <dev>&</dev>
 <dev>Image of all the different</dev> 
 :::

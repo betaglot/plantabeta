@@ -26,21 +26,12 @@
 - "Eco.LandQuestion"
 - "Eco.MixedLand"
 - "Eco.Overview"
-
 :::
 
 # 🟩  <eco>Eco Overview</eco>
 
-![](/Eco/Eco_Icon.png)
+![EcoIcon](/Eco/Eco_Icon.png)
 
 ## What is Eco?
 
 Most Planters would call Eco 'the Land', but it's more than just the Land. Eco is every part of planting which isn't the Planter themselves. The seedlings; the land; the air; the precipitation; the sun and all the plants living or dead, are all elements of the Eco.
-
-
-
-
-
-
-
-

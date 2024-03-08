@@ -19,7 +19,6 @@ Moto/BodyMoto/BodyLean.md, <dev>Moto.BodyMoto.BodyLean</dev>, ![0458.jpg](/Paper
 Moto/BodyMoto/BodyLean.md, <dev>Moto.BodyMoto.BodyLean</dev>, ![1100.jpg](/PaperPhoto/1100.jpg)
 Moto/BodyMoto/BodyLean.md, <dev>Moto.BodyMoto.BodyLean</dev>, ![2513.jpg](/PaperPhoto/2513.jpg)
 
-
 :::
 
 # 🟠 <moto>BodyLean</moto>  🟠
@@ -118,11 +117,9 @@ Quotes about this Moto
 Links to other related motos. Related because they are the same MotoType or because they are performed at the same time or within the same Phrase.
 
 ## See also
-
 ::: details External References
 
 - One
 - Two
 - Three
-
 :::

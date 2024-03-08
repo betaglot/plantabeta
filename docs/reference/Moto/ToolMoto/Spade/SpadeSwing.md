@@ -16,7 +16,6 @@
 - "Moto.ToolMoto.SpadeMoto.SpadeSwing"
 
 Moto/ToolMoto/Spade/SpadeSwing.md, <dev>Moto.ToolMoto.SpadeMoto.SpadeSwing</dev>, ![1259.jpg](/PaperPhoto/1259.jpg)
-
 :::
 
 # 🟠 <moto>SpadeSwing</moto>
@@ -106,11 +105,9 @@ Quotes about this Moto
 Links to other related motos. Related because they are the same MotoType or because they are performed at the same time or within the same Phrase.
 
 ## See also:
-
 ::: details External References
 
 - One
 - Two
 - Three
-
 :::

@@ -23,7 +23,6 @@ Moto/ToolMoto/Spade/Overview.md, <dev>Moto.ToolMoto.SpadeMoto.Overview</dev>, ![
 Moto/ToolMoto/Spade/Overview.md, <dev>Moto.ToolMoto.SpadeMoto.Overview</dev>, ![3053.jpg](/PaperPhoto/3053.jpg)
 Moto/ToolMoto/Spade/Overview.md, <dev>Moto.ToolMoto.SpadeMoto.Overview</dev>, ![3083.jpg](/PaperPhoto/3083.jpg)
 Moto/ToolMoto/Spade/Overview.md, <dev>Moto.ToolMoto.SpadeMoto.SpadeUnplant</dev>, ![3154.jpg](/PaperPhoto/3154.jpg)
-
 :::
 
 # 🟠 <moto>Spade Overview</moto>

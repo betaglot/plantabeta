@@ -15,7 +15,6 @@
 
 - I have never seen anyone wash their hands before eating.
 - Gloves are porous so the pesticides still get in
-
 :::
 
 # 🟠 <moto>Eating</moto>
@@ -106,11 +105,9 @@ Quotes about this Moto
 Links to other related motos. Related because they are the same MotoType or because they are performed at the same time or within the same Phrase.
 
 ## See also
-
 ::: details External References
 
 - One
 - Two
 - Three
-
 :::

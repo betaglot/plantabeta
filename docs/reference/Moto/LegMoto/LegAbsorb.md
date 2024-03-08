@@ -17,7 +17,6 @@
 Moto/LegMoto/LegAbsorb.md, <dev>Moto.LegMoto.LegAbsorb</dev>, ![1006.jpg](/PaperPhoto/1006.jpg)
 Moto/LegMoto/LegAbsorb.md, <dev>Moto.LegMoto.LegAbsorb</dev>, ![2330.jpg](/PaperPhoto/2330.jpg)
 Moto/LegMoto/LegAbsorb.md, <dev>Moto.LegMoto.LegAbsorb</dev>, ![2450.jpg](/PaperPhoto/2450.jpg)
-
 :::
 
 # 🟠 <moto>LegAbsorb</moto>
@@ -107,11 +106,9 @@ Quotes about this Moto
 Links to other related motos. Related because they are the same MotoType or because they are performed at the same time or within the same Phrase.
 
 ## See also
-
 ::: details External References
 
 - One
 - Two
 - Three
-
 :::

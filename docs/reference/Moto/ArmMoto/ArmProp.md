@@ -1,7 +1,6 @@
 ---
 pageClass: moto-page
 ---
-
 ::: details 🛠 <dev>DesignBox</dev>
 
 ## DevNotes
@@ -21,8 +20,6 @@ pageClass: moto-page
 Moto/ArmMoto/ArmProp.md, <dev>Moto.ArmMoto.ArmProp</dev>, ![1052.jpg](/PaperPhoto/1052.jpg)
 Moto/ArmMoto/ArmProp.md, <dev>Moto.ArmMoto.ArmProp</dev>, ![2278.jpg](/PaperPhoto/2278.jpg)
 Moto/ArmMoto/ArmProp.md, <dev>Moto.ArmMoto.ArmProp</dev>, ![2469.jpg](/PaperPhoto/2469.jpg)
-
-
 :::
 
 # 🟠 <moto>ArmProp</moto>
@@ -112,11 +109,9 @@ Quotes about this Moto
 Links to other related motos. Related because they are the same MotoType or because they are performed at the same time or within the same Phrase.
 
 ## See also
-
 ::: details External References
 
 - One
 - Two
 - Three
-
 :::

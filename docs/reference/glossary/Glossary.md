@@ -19,7 +19,6 @@ glossary/Glossary.md, <dev>Dev.AlsoKnownAs</dev>, ![1113.jpg](/PaperPhoto/1113.j
 glossary/Glossary.md, <dev>Dev.AlsoKnownAs</dev>, ![1857.jpg](/PaperPhoto/1857.jpg)
 glossary/Glossary.md, <dev>Dev.AlsoKnownAs</dev>, ![2834.jpg](/PaperPhoto/2834.jpg)
 glossary/Glossary.md, <dev>Dev.AlsoKnownAs</dev>, ![3041.jpg](/PaperPhoto/3041.jpg)
-
 :::
 
 # Glossary

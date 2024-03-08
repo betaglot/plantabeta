@@ -17,7 +17,6 @@
 - "Eco.Area.RiparianArea"
 - "Eco.Area.RockCapArea"
 - "Eco.Area.SlashPileArea"
-
 :::
 
 # 🟩  <eco>Area Overview</eco>

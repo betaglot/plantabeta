@@ -15,7 +15,6 @@
 - "Moto.ToolMoto.BagMoto.BagAdjustment"
 
 Moto/ToolMoto/Bag/BagAdjustment.md, <dev>Moto.ToolMoto.BagMoto.BagAdjustment</dev>, ![2572.jpg](/PaperPhoto/2572.jpg)
-
 :::
 
 # 🟠 <moto>BagAdjustment</moto>
@@ -105,11 +104,9 @@ Quotes about this Moto
 Links to other related motos. Related because they are the same MotoType or because they are performed at the same time or within the same Phrase.
 
 ## See also
-
 ::: details External References
 
 - One
 - Two
 - Three
-
 :::

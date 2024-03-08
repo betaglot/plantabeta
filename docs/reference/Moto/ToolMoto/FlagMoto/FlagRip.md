@@ -25,7 +25,6 @@ Moto/ToolMoto/Flag/Overview.md, <dev>Moto.ToolMoto.FlagMoto.Overview</dev>, ![30
 Moto/ToolMoto/Flag/Overview.md, <dev>Moto.ToolMoto.FlagMoto.Overview</dev>, ![3001.jpg](/PaperPhoto/3001.jpg)
 Moto/ToolMoto/Flag/Overview.md, <dev>Moto.ToolMoto.FlagMoto.Overview</dev>, ![3004.jpg](/PaperPhoto/3004.jpg)
 Moto/ToolMoto/Flag/Overview.md, <dev>Moto.ToolMoto.FlagMoto.Overview</dev>, ![3009.jpg](/PaperPhoto/3009.jpg)
-
 :::
 
 # 🟠 <moto>FlagRip</moto>
@@ -114,12 +113,10 @@ Links to other related motos. Related because they are the same MotoType or beca
 ## See also:
 
 
-
 ::: details External References
 
 - One
 - Two
 - Three
-
 :::
 

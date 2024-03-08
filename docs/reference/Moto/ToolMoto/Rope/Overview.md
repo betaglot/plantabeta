@@ -27,7 +27,6 @@ Summer Cache
 - PlantingTool_Rope_RopeKnot_CloveHitch
 - PlantingTool_Rope_RopeKnot_TruckersHitch
 - PlantingTool_Rope_TreeBoxTransport_TreeBoxDrop
-
 :::
 
 # 🟠 <moto>Rope</moto>
@@ -124,12 +123,10 @@ Links to other related motos. Related because they are the same MotoType or beca
 ## See also:
 
 
-
 ::: details External References
 
 - One
 - Two
 - Three
-
 :::
 

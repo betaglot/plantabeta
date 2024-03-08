@@ -15,7 +15,6 @@
 - "Moto.ToolMoto.TruckMoto.Overview"
 
 Moto/TruckMoto/Overview.md, <dev>Moto.ToolMoto.TruckMoto.Overview</dev>, ![0513.jpg](/PaperPhoto/0513.jpg)
-
 :::
 
 # 🟠 <moto>Truck Overview</moto>

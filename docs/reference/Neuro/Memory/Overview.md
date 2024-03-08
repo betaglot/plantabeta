@@ -23,7 +23,6 @@ Neuro/Memory/Overview.md, <dev>Neuro.Memory</dev>, ![2537.jpg](/PaperPhoto/2537.
 Neuro/Memory/Overview.md, <dev>Neuro.Memory</dev>, ![2987.jpg](/PaperPhoto/2987.jpg)
 Neuro/Memory/Overview.md, <dev>Neuro.Memory</dev>, ![3164.jpg](/PaperPhoto/3164.jpg)
 Neuro/Memory/Overview.md, <dev>Neuro.Memory</dev>, ![3269.jpg](/PaperPhoto/3269.jpg)
-
 :::
 
 # 💜 <neuro>Memory Overview</neuro>

@@ -10,9 +10,7 @@
 `TagsToHeaders: False`
 ```
 
-
 - StumpObstacle is only an Obstacle for Cows
-
 :::
 
 # 🟩  <eco>StumpObstacle</eco>
@@ -20,23 +18,17 @@
 ![EcoIcon](/Eco/Eco_Icon.png)
 
 ## Questions about StumpObstacle
-
 ::: details Questions 1
 
 Answer 1
-
 :::
-
 ::: details Questions 2
 
 Answer 2
-
 :::
-
 ::: details Questions 3
 
 Answer 3
-
 :::
 
 ## StumpObstacle Properties
@@ -140,7 +132,6 @@ Quotes about this Element
 ## See also
 
 Links to other related EcoElements. Related because they are the same EcoType or because they are performed at the same time or within the same Phrase.
-
 ::: details External References
 
 1. Wikipedia
@@ -148,5 +139,4 @@ Links to other related EcoElements. Related because they are the same EcoType or
 
 - Two
 - Three
-
 :::

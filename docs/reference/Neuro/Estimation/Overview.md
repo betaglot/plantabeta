@@ -33,7 +33,6 @@ Neuro/Estimation/Overview.md, <dev>Neuro.Estimation.ViaEstimation.AreaEstimation
 Neuro/Estimation/Overview.md, <dev>Neuro.Estimation.ViaEstimation.AreaEstimation.AreaCompletionEstimation</dev>, ![3161.jpg](/PaperPhoto/3161.jpg)
 Neuro/Estimation/Overview.md, <dev>Neuro.Estimation.ViaEstimation.LineDistanceEstimation</dev>, ![3161.jpg](/PaperPhoto/3161.jpg)
 Neuro/Estimation/Overview.md, <dev>Neuro.Estimation.ViaEstimation.TimeEstimation</dev>, ![3161.jpg](/PaperPhoto/3161.jpg)
-
 :::
 
 # <neuro>Estimation Overview</neuro>

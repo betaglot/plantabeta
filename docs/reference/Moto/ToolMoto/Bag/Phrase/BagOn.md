@@ -15,7 +15,6 @@
 - "Moto.ToolMoto.BagMoto.BagOn"
 
 Moto/ToolMoto/Bag/BagOn.md, <dev>Moto.ToolMoto.BagMoto.BagOn</dev>, ![3076.jpg](/PaperPhoto/3076.jpg)
-
 :::
 
 # 🟠 <moto>BagOn</moto>
@@ -105,11 +104,9 @@ Quotes about this Moto
 Links to other related motos. Related because they are the same MotoType or because they are performed at the same time or within the same Phrase.
 
 ## See also
-
 ::: details External References
 
 - One
 - Two
 - Three
-
 :::

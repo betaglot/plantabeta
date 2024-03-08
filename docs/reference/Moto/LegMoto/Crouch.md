@@ -15,7 +15,6 @@
 - "Moto.LegMoto.Crouch"
 
 Moto/LegMoto/Crouch.md, <dev>Moto.LegMoto.Crouch</dev>, ![2513.jpg](/PaperPhoto/2513.jpg)
-
 :::
 
 # 🟠 <moto>Crouch</moto>
@@ -104,12 +103,10 @@ Links to other related motos. Related because they are the same MotoType or beca
 ## See also:
 
 
-
 ::: details External References
 
 - One
 - Two
 - Three
-
 :::
 

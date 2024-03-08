@@ -12,7 +12,6 @@
 
 Moto/BodyMoto/StandUp.md, <dev>Moto.BodyMoto.StandUp</dev>, ![1796.jpg](/PaperPhoto/1796.jpg)
 
-
 :::
 
 # 🟠 <moto>StandUp</moto>
@@ -102,11 +101,9 @@ Quotes about this Moto
 Links to other related motos. Related because they are the same MotoType or because they are performed at the same time or within the same Phrase.
 
 ## See also
-
 ::: details External References
 
 - One
 - Two
 - Three
-
 :::

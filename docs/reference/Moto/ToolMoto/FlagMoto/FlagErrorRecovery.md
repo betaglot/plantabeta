@@ -15,7 +15,6 @@
 - "Moto.ToolMoto.FlagMoto.FlagErrorRecovery"
 
 Moto/ToolMoto/FlagMoto/FlagErrorRecovery.md, <dev>Moto.ToolMoto.FlagMoto.FlagErrorRecovery</dev>, ![2932.jpg](/PaperPhoto/2932.jpg)
-
 :::
 
 # 🟠 <moto>FlagErrorRecovery</moto>
@@ -104,12 +103,10 @@ Links to other related motos. Related because they are the same MotoType or beca
 ## See also:
 
 
-
 ::: details External References
 
 - One
 - Two
 - Three
-
 :::
 

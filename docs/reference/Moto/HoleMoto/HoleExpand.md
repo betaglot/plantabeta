@@ -16,7 +16,6 @@
 
 Moto/HoleMoto/HoleExpand.md, <dev>Moto.HoleMoto.ExpandHole</dev>, ![2934.jpg](/PaperPhoto/2934.jpg)
 Moto/HoleMoto/HoleExpand.md, <dev>Moto.HoleMoto.ExpandHole</dev>, ![3059.jpg](/PaperPhoto/3059.jpg)
-
 :::
 
 # 🟠 <moto>HoleExpand</moto>
@@ -106,11 +105,9 @@ Quotes about this Moto
 Links to other related motos. Related because they are the same MotoType or because they are performed at the same time or within the same Phrase.
 
 ## See also
-
 ::: details External References
 
 - One
 - Two
 - Three
-
 :::

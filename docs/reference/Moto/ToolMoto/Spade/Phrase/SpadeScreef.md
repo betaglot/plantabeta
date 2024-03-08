@@ -18,7 +18,6 @@
 
 Moto/ToolMoto/Spade/SpadeScreef.md, <dev>Moto.ToolMoto.SpadeMoto.SpadeScreef</dev>, ![1303.jpg](/PaperPhoto/1303.jpg)
 Moto/ToolMoto/Spade/SpadeScreef.md, <dev>Moto.ToolMoto.SpadeMoto.SpadeScreef</dev>, ![3088.jpg](/PaperPhoto/3088.jpg)
-
 :::
 
 # 🟠 <moto>SpadeScreef</moto>
@@ -108,11 +107,9 @@ Quotes about this Moto
 Links to other related motos. Related because they are the same MotoType or because they are performed at the same time or within the same Phrase.
 
 ## See also:
-
 ::: details External References
 
 - One
 - Two
 - Three
-
 :::
