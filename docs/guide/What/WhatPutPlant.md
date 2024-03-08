@@ -79,17 +79,17 @@ guide/What/WhatPutPlant.md, <dev>Guide.What.WhatPut(Plant).Service</dev>, ![9010
 
 :::
 
-# <eco>What is Put(Plant)?</eco>
+# What is 🔷<beta>Put(</beta><eco>Plant</eco><beta>)</beta>?
 
-# Put(Tree)
+# 🔷<beta>Put(</beta><eco>Tree</eco><beta>)</beta>
 
-# Put(Bush)
+# 🔷<beta>Put(</beta><eco>Shrub</eco><beta>)</beta>
 
-# Put(Flower)
+# 🔷<beta>Put(</beta><eco>Flower</eco><beta>)</beta>
 
-# Put(Moss)
+# 🔷<beta>Put(</beta><eco>Moss</eco><beta>)</beta>
 
-# Put(FireDevice)
+# 🔷<beta>Put(</beta><eco>FireDevice</eco><beta>)</beta>
 
 ::: info Put(Plant)'s **Mission**
 
