@@ -561,15 +561,11 @@ Moto/MotoOverview.md, <dev>Moto.MotoSpace.Overview</dev>, ![90044.jpg](/PaperPho
 
 No Acceleration
 
-[Stand]()
+Stand
 
 ### Dynamic Moto
 
 Acceleration
-
-### Moto Tree
-
-<img width="300" height="300" src="/Placeholder_Tree.png" />
 
 - ### Swing
 

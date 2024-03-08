@@ -122,18 +122,15 @@ Via/ViaSequence/Overview.md, <dev>Via.ViaSequence.BagUpPhrase</dev>, ![90028.jpg
 
 # 🔷 <via>ViaSequence</via>
 
-
 Define the Land that you're Covering
 
-Problem is 
+Problem is
 
 Solution is where a Planter moves
 
 ## Define ViaProblem
 
 ## Solve ViaProblem
-
-### 
 
 ### ViaSelection
 

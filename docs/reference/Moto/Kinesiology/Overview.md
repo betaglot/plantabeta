@@ -18,7 +18,7 @@
 
 ## Physical Therapy
 
-    ## Physical Education
+## Physical Education
 
 ## Athletic Training
 

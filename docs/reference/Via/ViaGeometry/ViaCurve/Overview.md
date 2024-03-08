@@ -4,8 +4,6 @@
 
 -
 
-
-
 ## DevState
 
 ```py
@@ -177,7 +175,7 @@ Via/ViaCurve/Overview.md, <dev>Via.ViaGeometry.ViaCurve.ViaLinearLine</dev>, ![9
 
 - A line
 
-> The extremities of ViaCurve are ViaPoints. 
+> The extremities of ViaCurve are ViaPoints.
 
 - CurveStartPoint
 - Curve FinishPoint
@@ -185,7 +183,6 @@ Via/ViaCurve/Overview.md, <dev>Via.ViaGeometry.ViaCurve.ViaLinearLine</dev>, ![9
 
 In mathematics a *line* must be straight, while a *curve* can be straight or not straight.
 :::
-
 
 ## Direction
 

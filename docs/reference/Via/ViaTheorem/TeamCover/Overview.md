@@ -10,10 +10,8 @@
 `TagsToHeaders: False`
 ```
 
-
 - LeadPlanter
 - FollowingPlanter
-
 
 Connection Communication
 
@@ -51,5 +49,3 @@ When a Planter crosses over the line of another Planter when they converge in th
 ## [Following Cover](/reference/Via/TeamPlant/FollowingCover)
 
 When a Planter follows the line of the Planter in front of them.
-
-

@@ -10,7 +10,6 @@
 `TagsToHeaders: False`
 ```
 
-
 ![PaperPhoto](/PaperPhoto/0048.jpg)
 <h2>PageTags</h2>
 

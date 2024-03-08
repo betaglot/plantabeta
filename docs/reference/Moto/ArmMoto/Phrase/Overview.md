@@ -10,8 +10,6 @@
 `TagsToHeaders: False`
 ```
 
-
-
 <h2>PageTags</h2>
 :::
 

@@ -10,8 +10,6 @@
 `TagsToHeaders: False`
 ```
 
-
-
 <h2>PageTags</h2>
 
 - "Eco.Piece.Overview"
@@ -25,9 +23,8 @@
 
 - Easiest part of Piece. Creamiest part.
 
-
-
 ### PieceBoundary
+
 - TreeLine
 - Road
 - ContiguousPiece
@@ -43,9 +40,9 @@
 ## Piece Shape
 
 ### SquarePiece
+
 ### TrianglePiece
+
 ### PocketPiece
+
 ### HourglassPiece
-
-
-

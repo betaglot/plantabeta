@@ -43,7 +43,7 @@ Via/ViaSurface/Overview.md, <dev>Via.ViaGeometry.ViaSurface.ViaSurfaceLine</dev>
 
 # 🔻 <via>Via Surface</via>
 
-> A surface that a Planter contacts with any part of their body or with a tool. 
+> A surface that a Planter contacts with any part of their body or with a tool.
 
 ## Surface Form
 
@@ -54,4 +54,3 @@ WetSurface
 DrySurface
 
 SmoothSurface
-

@@ -128,7 +128,7 @@ Neuro/NeuroOverview.md, <dev>Neuro.Overview</dev>, ![3276.jpg](/PaperPhoto/3276.
 
 # 💜 <neuro>Neuro Overview </neuro>
 
-![](/Neuro/Neuro_Icon.png)
+![NeuroIcon](/Neuro/Neuro_Icon.png)
 
 ## <neuro>Neuro Symbol</neuro> 💜
 >

@@ -10,7 +10,6 @@
 `TagsToHeaders: False`
 ```
 
-
 ViaSpace is usually directly above ViaSurface
 
 Most stable ViaSpace is aligned with Normal
@@ -100,7 +99,7 @@ Via/ViaSpace/Overview.md, <dev>Via.ViaGeometry.ViaSpace.Overview</dev>, ![90044.
 
 # <via>Via Space</via>
 
-> the Space that you move through while following a ViaCurve 
+> the Space that you move through while following a ViaCurve
 
 ## Via Space Properties
 
@@ -112,17 +111,13 @@ Via Cell
 
 ### [BodySlot](/reference/Moto/BodyMoto/BodySlot)
 
-When performing a BodySlot between Obstacles, the ViaSpace is the Space between the Obstacles that the Planter must fit through. If the ViaSpace is narrow, then the Planter must BodyRotate to fit through the ViaSpace. 
-
+When performing a BodySlot between Obstacles, the ViaSpace is the Space between the Obstacles that the Planter must fit through. If the ViaSpace is narrow, then the Planter must BodyRotate to fit through the ViaSpace.
 
 ## Spacing
 
 Placement of Trees
 
-
-
-Parsing Land into VoronoiCells 
-
+Parsing Land into VoronoiCells
 
 ### Partition
 

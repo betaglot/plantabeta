@@ -214,7 +214,7 @@ Via/ViaOverview.md, <dev>Via.ViaGrid.ViaHexagonGrid</dev>, ![90107.png](/PaperPh
 
 > the interface between Moto, Neuro and Eco
 ::: tip <dev>&</dev>
-<dev>Image of all the different</dev> 
+<dev>Image of all the different</dev>
 :::
 
 ### Via Dimensions

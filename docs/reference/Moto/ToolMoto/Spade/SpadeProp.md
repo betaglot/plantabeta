@@ -10,7 +10,6 @@
 `TagsToHeaders: False`
 ```
 
-
 - Alpinists perform SpadeProp all the time when using an ice axe
 
 <h2>PageTags</h2>
@@ -115,6 +114,7 @@ Quotes about this Moto
 Links to other related motos. Related because they are the same MotoType or because they are performed at the same time or within the same Phrase.
 
 ## See also:
+
 ::: details External References
 
 - One

@@ -23,6 +23,3 @@ Via/ObstacleCover/Overview.md, <dev>Via.ObstacleCover.ObstacleClusterCover</dev>
 :::
 
 # 🔻 <via>ObstacleCover Overview</via>
-
-
-

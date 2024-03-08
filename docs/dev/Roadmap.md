@@ -63,7 +63,7 @@ Test [novel planter tools](dev/Tools)
 ### Psychology
 
 - Testing Hypothesis
-- Apply [Thinking Fast And Slow]() by Daniel Kahneman
+- Apply <u>Thinking Fast And Slow</u> by Daniel Kahneman
 
 ### Climbing
 

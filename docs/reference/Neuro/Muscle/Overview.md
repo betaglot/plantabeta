@@ -1,8 +1,5 @@
 # 💜 <neuro>Muscle</neuro>
 
-
-
-
 ## Slow Twitch Muscle
 
 ## Fast Twitch Muscle
@@ -16,11 +13,10 @@ Fraction
 Percentage
 
 ### Glute Activation
+
 - Squat from the Hips, not the knees
 
 ### Pelvic Floor Activation
-
-
 
 ## Central Pattern Generator
 
@@ -29,4 +25,3 @@ Percentage
 ### Scapula Posture
 
 ### Hollow Body Position
-

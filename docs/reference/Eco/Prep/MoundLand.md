@@ -55,6 +55,7 @@ Answer 3
 ### Element's Frequency of Occurrence
 
 ## Elements Graph
+
 ::: details How to use Elements Graph?
 Hover:
 Select:

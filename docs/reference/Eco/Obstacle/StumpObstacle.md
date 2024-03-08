@@ -18,6 +18,7 @@
 ![EcoIcon](/Eco/Eco_Icon.png)
 
 ## Questions about StumpObstacle
+
 ::: details Questions 1
 
 Answer 1

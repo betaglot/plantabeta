@@ -2,8 +2,6 @@
 
 ## DevNotes
 
-
-
 ## DevState
 
 ```py
@@ -749,12 +747,11 @@ dev/Graphics/Overview.md, <dev>Dev.Element.ElementDiagram.ConnectorLine.LineThic
 
 ## D3.js
 
-## Youtube Creators 
+## Youtube Creators
 
 Copy the animated and static data structures
 
-Visual Language. What is their art category? 
-
+Visual Language. What is their art category?
 
 Network
 
@@ -762,21 +759,19 @@ Tree
 
 - Tree Growing
 
-
-
 List
 
 Highlight
 
-### Vox 
+### Vox
 
 Elections
 
-### JohnnyHarris 
+### JohnnyHarris
 
 Maps
 
-### SearchParty 
+### SearchParty
 
 Maps
 
@@ -784,11 +779,9 @@ Shuttle Icons
 
 Icons moving along a line like a metrocar or action potential
 
-### Veritasium 
+### Veritasium
 
-
-
-### TedEd 
+### TedEd
 
 Story transitions
 
@@ -800,8 +793,4 @@ Turn this map into an animation. Blender?
 
 ### NYTgraphics
 
-- Me : Mike Bostock :: Johnny Harris : SearchPartyGuy 
-
-
-
-
+- Me : Mike Bostock :: Johnny Harris : SearchPartyGuy

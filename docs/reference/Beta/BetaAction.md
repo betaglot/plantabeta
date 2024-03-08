@@ -32,9 +32,6 @@ Beta/BetaAction.md, <dev>Beta.BetaAction.MimeBeta</dev>, ![1844.jpg](/PaperPhoto
 Beta/BetaAction.md, <dev>Beta.BetaAction.AskBeta</dev>, ![1853.jpg](/PaperPhoto/1853.jpg)
 Beta/BetaAction.md, <dev>Beta.BetaAction.MimeBeta</dev>, ![1853.jpg](/PaperPhoto/1853.jpg)
 
-
 :::
 
 # 🔷 <beta>BetaAction</beta>
-
-

@@ -10,7 +10,6 @@
 `TagsToHeaders: False`
 ```
 
-
 - Self awareness
 
 - Good tree

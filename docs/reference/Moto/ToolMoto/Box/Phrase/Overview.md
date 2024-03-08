@@ -19,8 +19,6 @@ Moto/ToolMoto/Box/BoxPhrase.md, <dev>Moto.ToolMoto.BoxMoto.BoxStack</dev>, ![007
 
 # 🔷 <moto>Box Phrase</moto>
 
-
-
 ## BoxPile
 
 ## BoxDeconstruct
@@ -46,5 +44,3 @@ Moto/ToolMoto/Box/BoxPhrase.md, <dev>Moto.ToolMoto.BoxMoto.BoxStack</dev>, ![007
 ## BoxUnload(ATV)
 
 ## BoxUnload(Pallet)
-
-

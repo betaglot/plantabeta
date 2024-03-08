@@ -15,5 +15,3 @@ Rocks which can be removed, usually thrown out of the hole.
 ## Water
 
 ## Duff
-
-## 

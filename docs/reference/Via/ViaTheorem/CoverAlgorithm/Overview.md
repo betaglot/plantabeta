@@ -3,16 +3,16 @@
 ## DevNotes
 
 -
+
 ## AreaChunking
 
 Polygon Decomposition
 
 - [Triangulated irregular network](https://www.researchgate.net/publication/23541399_Algorithms_for_Visibility_Computation_on_Terrains_A_Survey)
 
-
 ## CoverPattern
 
-> A *CoverPattern* is the ViaCurve, 
+> A *CoverPattern* is the ViaCurve,
 
 > A Series of Points
 
@@ -28,21 +28,19 @@ Polygon Decomposition
 
 ![Boustrophedon](/Boustrophedon.jpg)
 
-
 Don't go over the same place more than once.
+
 - No Overlap
 
-- https://www.frontiersin.org/articles/10.3389/frobt.2021.624333/full
+- <https://www.frontiersin.org/articles/10.3389/frobt.2021.624333/full>
 
-- https://www.researchgate.net/figure/Complete-coverage-path-planning-in-an-unstructured-Eco_fig3_8345839
-
+- <https://www.researchgate.net/figure/Complete-coverage-path-planning-in-an-unstructured-Eco_fig3_8345839>
 
 ## DevState
 
 ```py
 `TagsToHeaders: False`
 ```
-
 
 Spandrel art between plating plot radius cirle area circleshape
 
@@ -59,7 +57,7 @@ Coverin spandrels to show the mortar between ideal tree spacing spgeres
 
 - [The Fastest Maze-Solving Competition On Earth](https://www.youtube.com/watch?v=ZMQbHMgK2rw&ab_channel=Veritasium)
 - [HexagonCoverPattern](https://www.youtube.com/watch?v=BM9Qe4XjJ0k&ab_channel=VeRLab-LaboratoryofComputerVisionandRobotics)
-- https://www.fujipress.jp/jrm/rb/robot003000010005/
+- <https://www.fujipress.jp/jrm/rb/robot003000010005/>
 
 <h2>PageTags</h2>
 
@@ -109,8 +107,6 @@ Coverin spandrels to show the mortar between ideal tree spacing spgeres
 
 - Loop
 
-
-
 ## Tesselation
 
 ## Geomatics
@@ -119,11 +115,9 @@ Coverin spandrels to show the mortar between ideal tree spacing spgeres
 
 ### Centroidal Voronoi Tessellation
 
-https://observablehq.com/@d3/circle-dragging-iii?collection=@d3/d3-drag
+<https://observablehq.com/@d3/circle-dragging-iii?collection=@d3/d3-drag>
 
 <iframe width="100%" height="684" frameborder="0"
   src="https://observablehq.com/embed/@d3/circle-dragging-iii?cells=chart"></iframe>
 
 ### GIS
-
-

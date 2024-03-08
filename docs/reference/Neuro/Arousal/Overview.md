@@ -22,8 +22,10 @@ Neuro/Arousal/Overview.md, <dev>Neuro.Adrenaline</dev>, ![3275.jpg](/PaperPhoto/
 :::
 
 # 💜 <neuro>Arousal</neuro>
+
 ::: warning Not Sexual Arousal
 :::
+
 ## Alertness
 
 ## Calm
@@ -31,4 +33,3 @@ Neuro/Arousal/Overview.md, <dev>Neuro.Adrenaline</dev>, ![3275.jpg](/PaperPhoto/
 ## Agitation
 
 ## Low Arousal
-

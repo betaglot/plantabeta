@@ -91,18 +91,6 @@ Moto/HandMoto/TreeGrip.md, <dev>Moto.HandMoto.TreeGrip</dev>, ![2954.jpg](/Paper
     </div>
 </div>
 
-### Submotos
-
-- FingerCurl
-- FingerUncurl
-- Finger
-
-### Supermoto
-
-- InsertTree
-- BagCover
-- TreeRemove
-
 ## ElementRelationshipsGraph
 
 <iframe
@@ -145,6 +133,7 @@ Quotes about this Moto
 Links to other related motos. Related because they are the same MotoType or because they are performed at the same time or within the same Phrase.
 
 ## See also
+
 ::: details External References
 
 - One

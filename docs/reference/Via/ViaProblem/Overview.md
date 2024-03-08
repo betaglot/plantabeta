@@ -10,8 +10,6 @@
 `TagsToHeaders: False`
 ```
 
-
-
 Not all problems can be perfectly solved.
 Define the Area to be Covered
 
@@ -27,16 +25,11 @@ You use ViaTheorems or other ViaProblems to solve ViaProblems.
 
 ![ViaIcon](/Via/Via_Icon.png)
 
-
-
- 
-
 ## How
 
 ## Set
 
 > SetUp
-
 
 ## Givens
 
@@ -45,20 +38,17 @@ Constraints
 Known Information
 
 Unknown Information
+
 - What needs to be computed or tested?
     - > "Let me get a better look"
 
-
-
 ## ViaStart
+
 - ViaStartTime
 - The ViaProblem is thought about while standing at ViaStart
-
-
 
 ## ViaFinish
 
 - ViaFinishTime
 
 ## <eco>EcoDensity</eco>
-

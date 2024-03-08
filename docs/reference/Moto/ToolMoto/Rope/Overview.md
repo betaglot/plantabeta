@@ -10,13 +10,10 @@
 `TagsToHeaders: False`
 ```
 
-
 Thread Gear Loops
 
-
-- Rope for Tranport 
+- Rope for Tranport
 - Rope for Cache Construction
-
 
 Summer Cache
 
@@ -31,10 +28,9 @@ Summer Cache
 
 # 🟠 <moto>Rope</moto>
 
-
 <div style="display: flex; width: %100; margin-top: 50px;">
     <div style="margin: 5px; width: 50%">
-        <img height="350" width="350" src="/Moto/BundleGrip.png"/>
+        <img height="350" width="350" alt="BundleGrip" src="/Moto/BundleGrip.png"/>
     </div>
     <div style="margin: 5px; width: 50%">
         <p >Description of Moto. How the moto got its name. The purpose of the moto. Common misconceptions about the moto. How to differentiate this moto from another similar moto</p>
@@ -76,32 +72,37 @@ Summer Cache
 
 ## Element Purpose
 
-- 
+-
 
 ## Element Properties
 
-- 
-
+-
 
 ## ElementRelationshipsGraph
 
-<iframe 
-    width="100%" 
-    height="684" 
+<iframe
+    width="100%"
+    height="684"
     frameborder="0"
     src="https://observablehq.com/embed/@d3/force-directed-graph/2?cells=chart"
 ></iframe>
 
 ## Related <moto>MotoElements</moto>
-- 
+
+-
 
 ## Related 🟩<eco>EcoElements</eco>
-- 
-## Related 🔻<via>ViaElements</via>
-- 
 
-## Related 💜<neuro>NeuroElements</neuro> 
+-
+
+## Related 🔻<via>ViaElements</via>
+
+-
+
+## Related 💜<neuro>NeuroElements</neuro>
+
 -  
+
 ## Quotes
 
 Quotes about this Moto
@@ -114,14 +115,11 @@ Quotes about this Moto
 
 ## Examples
 
-- Use Media donated by Planters. 
+- Use Media donated by Planters.
 
-
-
-Links to other related motos. Related because they are the same MotoType or because they are performed at the same time or within the same Phrase. 
+Links to other related motos. Related because they are the same MotoType or because they are performed at the same time or within the same Phrase.
 
 ## See also:
-
 
 ::: details External References
 
@@ -129,4 +127,3 @@ Links to other related motos. Related because they are the same MotoType or beca
 - Two
 - Three
 :::
-

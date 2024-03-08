@@ -10,7 +10,6 @@
 `TagsToHeaders: False`
 ```
 
-
 ## Pesticides
 
 - I have never seen anyone wash their hands before eating.
@@ -105,6 +104,7 @@ Quotes about this Moto
 Links to other related motos. Related because they are the same MotoType or because they are performed at the same time or within the same Phrase.
 
 ## See also
+
 ::: details External References
 
 - One

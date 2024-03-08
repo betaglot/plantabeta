@@ -121,6 +121,7 @@ This each line are analog pairs. The equal signs = denotes where Climbing and Pl
 | <via>Anchor, Belay Station</via> | <via>Cache</via>              |
 |              <via>Approach</via> | <via>Walk In </via>           |
 |                     <eco>Crag </eco> | <eco> Block</eco>                 |
+
 ::: danger Why is it useful to relate Climbing to Planting?
 
 - OffSeason Training

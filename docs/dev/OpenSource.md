@@ -85,7 +85,7 @@ dev/OpenSource.md, <dev>Sponsor.Kickstarter.ProjectVideo</dev>, ![90061.png](/Pa
 
 Open source organizations [supported by Google](https://opensource.google/organizations-we-support)
 
-### Python 
+### Python
 
 The [Python Software Foundation](https://www.python.org/psf-landing/) is an organization devoted to advancing open source technology related to the Python programming language.
 

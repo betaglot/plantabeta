@@ -111,7 +111,6 @@ Visualize a screenshot
 
 AI to overlay Screenshot with Voronoi Diagram
 
-
 ## Voronoi Diagram
 
 ### <moto>MotoVoronoi</moto>

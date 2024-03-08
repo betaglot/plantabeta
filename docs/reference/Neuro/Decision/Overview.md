@@ -24,11 +24,9 @@ Neuro/Decision/Overview.md, <dev>Neuro.Decision</dev>, ![90014.jpg](/PaperPhoto/
 
 ## Conscious Decision
 
-- 
+-
 
 ## Unconscious Decision
 
 - Walking
 - Balance
-
-
