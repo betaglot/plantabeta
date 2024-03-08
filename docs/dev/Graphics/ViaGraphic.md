@@ -113,6 +113,8 @@ AI to overlay Screenshot with Voronoi Diagram
 
 ## Voronoi Diagram
 
+[D3 closest neighbor and Voronoi edges](https://d3js.org/d3-delaunay/voronoi#voronoi_neighbors)
+
 ### <moto>MotoVoronoi</moto>
 
 ![Fencing](/Via/Voronoi/FencingVoronoi.png)
