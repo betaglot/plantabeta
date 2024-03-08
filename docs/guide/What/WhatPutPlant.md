@@ -1,5 +1,3 @@
-# <eco>Meet Put(Plant)</eco>
-
 ::: details 🛠 <dev>DesignBox</dev>
 
 ## DevNotes
@@ -80,6 +78,18 @@ guide/What/WhatPutPlant.md, <dev>Guide.What.WhatPut(Plant).Product</dev>, ![9010
 guide/What/WhatPutPlant.md, <dev>Guide.What.WhatPut(Plant).Service</dev>, ![90100.png](/PaperPhoto/90100.png)
 
 :::
+
+# <eco>What is Put(Plant)?</eco>
+
+# Put(Tree)
+
+# Put(Bush)
+
+# Put(Flower)
+
+# Put(Moss)
+
+# Put(FireDevice)
 
 ::: info Put(Plant)'s **Mission**
 

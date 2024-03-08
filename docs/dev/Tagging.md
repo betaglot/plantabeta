@@ -2,7 +2,7 @@
 
 ## DevNotes
 
--
+- Use Code snippets to write abbreviated names to insert Tags or ElementName
 
 ## DevState
 

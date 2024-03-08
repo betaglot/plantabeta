@@ -1,4 +1,12 @@
 ::: details 🛠 <dev>DesignBox</dev>
+
+## DevNotes
+
+- Use Code snippets to write abbreviated names to insert Tags or ElementName
+- (Woods)InteadOf([Forest, Plantation])
+    - Bushes are wood
+    - Flowers are not wood
+
 <h2>PageTags</h2>
 
 - "Dev.Breadcrumb"
