@@ -10,12 +10,11 @@
 `TagsToHeaders: False`
 ```
 
-
 > Beta is what you actually do implement
 > Elements are just options possibilities
 > Beta requires decision
 
-Each PutPlant module is composed of problems and theorems. Problems all have solutions, they aren't proven valid yet, but are still useful for development. Pertainent negative. Science proves hypotheses wrong. NullHypotheses.
+Each Put(Plant) module is composed of problems and theorems. Problems all have solutions, they aren't proven valid yet, but are still useful for development. Pertainent negative. Science proves hypotheses wrong. NullHypotheses.
 
 Eco doesn't have any problems or theorems
 
@@ -71,7 +70,6 @@ Beta/WhatBeta.md, <dev>Beta.BetaProperties.SubsystemCount</dev>, ![90059.png](/P
 Beta/WhatBeta.md, <dev>Beta.BetaInstance</dev>, ![90087.png](/PaperPhoto/90087.png)
 Beta/WhatBeta.md, <dev>Beta.BetaInstance.BetaInstanceComparison</dev>, ![90087.png](/PaperPhoto/90087.png)
 
-
 :::
 
 # 🔷 <beta>What is Beta?</beta> 🔷
@@ -80,7 +78,7 @@ Beta/WhatBeta.md, <dev>Beta.BetaInstance.BetaInstanceComparison</dev>, ![90087.p
 
 Beta emerges from the interactions between Eco, Moto, Via and Neuro.
 
-![BetaEmoji](/Beta/Beta_Emoji.png)
+![BetaIcon](/Beta/Beta_Icon.png)
 
 ## <beta>Beta Symbol</beta> 🔷
 >
@@ -152,32 +150,19 @@ This each line are analog pairs. The equal signs = denotes where Climbing and Pl
 
 ::: details 🛠 <dev>DesignBox</dev>
 
-## DevNotes
-
--
-
-## DevState
-
-```py
-`TagsToHeaders: False`
-```
-
-:::
-
 ## What is a Beta Element?
 
 > An element is one of the parts of something that makes it work, or a quality that makes someone or something effective.
 
-PutPlant breaks down a Planter's experience into simple elements. Each element has its own particular properties which when varied affect
-
+Put(Plant) breaks down a Planter's experience into simple elements. Each element has its own particular properties which when varied affect
 
 Moto is the first person experience of Movement
 
-Eco is the first person experience of 
+Eco is the first person experience of
 
-Via is the first person experience of 
+Via is the first person experience of
 
-Changing an Element's properties affects how it relates to other elements and changes their properties too. These changes ripple out across PutPlant's web of relationships.
+Changing an Element's properties affects how it relates to other elements and changes their properties too. These changes ripple out across Put(Plant)'s web of relationships.
 
 ```py
 
@@ -371,7 +356,7 @@ Flexbox
 
 ### ElementNames
 
-You will notice that all ElementNames have no spaces between their words, this is to make it easier to search for terms with PutPlant's search and when searching with your eyes.
+You will notice that all ElementNames have no spaces between their words, this is to make it easier to search for terms with Put(Plant)'s search and when searching with your eyes.
 
 #### Element Name Affixes
 
@@ -395,11 +380,11 @@ Spade**Grip**, Tree**Grip**, Box**Grip**, Branch**Grip**, Bag**Grip**, Log**Grip
 
 :::
 
-<img height="300" width="500" src="/PascalCase.png">
+<img height="300" alt="PascalCase" width="500" src="/PascalCase.png">
 
-Each of the Beta Subsystems ([Eco](), [Moto](), [Via](), [Neuro]() ) has its own elements, although most elements are a combination of all four subsystems. For example [HandClose]() depends on the [SoilType]() (Eco), [Touch and Pressure sensations]() (Neuro), and the obstacles which narrow the range of [approach trajectories]() possible to perform the [HandClose]() (Via).
+Each of the Beta Typo (Eco, Moto, Via, Neuro ) has its own elements, although most elements are a combination of all four subsystems. For example HandClose depends on the SoilType (Eco), Touch and Pressure sensations (Neuro), and the obstacles which narrow the range of approach trajectories() possible to perform the HandClose (Via).
 
-Elements are added together to create new, more complex, elements. For example [SpadeScreef]() = {[HandleGrip](), [ShaftGrip](), [Soil](), [SlopeAngle](), [Slash](), [Attention]()}
+Elements are added together to create new, more complex, elements. For example SpadeScreef = {HandleGrip, ShaftGrip, Soil, SlopeAngle, Slash, Attention}
 
 ### Element Properties
 

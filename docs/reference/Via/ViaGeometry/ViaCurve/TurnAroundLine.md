@@ -23,7 +23,7 @@
 - [BackCover](/reference/Via/ViaTheorem/ViaCover/BackCover)
 - [ZigzagLine](/reference/Via/ViaGeometry/ViaCurve/Overview)
 
-![ViaEmoji](/Via/Via_Emoji.png)
+![ViaIcon](/Via/Via_Icon.png)
 
 ## Element Problem
 

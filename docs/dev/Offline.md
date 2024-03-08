@@ -1,6 +1,6 @@
 # Offline
 
-How to make PutPlant available offline?
+How to make Put(Plant) available offline?
 
 ::: tip
 
@@ -10,7 +10,7 @@ Running offline is the same as Running Locally
 
 ## PWA
 
-https://vite-pwa-org.netlify.app/frameworks/vitepress
+<https://vite-pwa-org.netlify.app/frameworks/vitepress>
 
 ## Download
 

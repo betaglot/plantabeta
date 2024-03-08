@@ -5,7 +5,7 @@
 Go TopDown through the directories
 
 1. Start with the Module Overviews
-    - Some of the tags in the overview will become their own Pages. 
+    - Some of the tags in the overview will become their own Pages.
     - **Remember to transfer the PaperPhotos to the new page too**
 2. MotoPages
 3. ViaPages
@@ -129,10 +129,10 @@ PaperText is most useful for fine details. It should be done after Dictation and
 
 :::
 
-1. Get PutPlantPaperText
+1. Get Put(Plant)PaperText
     - Find most recent PaperText
     - Upload PaperText to SQlite
-    - Select of all the PaperText which has a PaperPhoto in PutPlant's repo
+    - Select of all the PaperText which has a PaperPhoto in Put(Plant)'s repo
 
 ## Add Definition to each element
 
@@ -144,8 +144,7 @@ PaperText is most useful for fine details. It should be done after Dictation and
 > brief single line definition  
 ```
 
-
-make pad 
+make pad
 
 Volunteer cooks
 

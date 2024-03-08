@@ -205,7 +205,7 @@ Via/ViaOverview.md, <dev>Via.ViaGrid.ViaHexagonGrid</dev>, ![90107.png](/PaperPh
 
 # 🔻 <via>Via Overview</via>
 
-![Via Emoji](/Via/Via_Emoji.png)
+![Via Icon](/Via/Via_Icon.png)
 
 ## <via>Via Symbol</via> 🔻
 >

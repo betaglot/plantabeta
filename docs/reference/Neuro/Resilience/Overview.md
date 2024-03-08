@@ -25,7 +25,7 @@ You don't need to do it alone
 
 # 💜 <neuro>Resilience </neuro>
 
-![NeuroEmoji](/Neuro/Neuro_Emoji.png)
+![NeuroIcon](/Neuro/Neuro_Icon.png)
 
 
 ## Growth Mindset

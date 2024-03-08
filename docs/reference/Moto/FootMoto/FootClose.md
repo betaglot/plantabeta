@@ -21,7 +21,7 @@ Moto/FootMoto/FootClose.md, <dev>Moto.FootMoto.FootClose</dev>, ![2945.jpg](/Pap
 
 # 🟠 <moto>FootClose</moto>
 
-![MotoEmoji](/Moto/Moto_Emoji.png)
+![MotoIcon](/Moto/Moto_Icon.png)
 
 ## Element Problem
 
@@ -43,15 +43,15 @@ Moto/FootMoto/FootClose.md, <dev>Moto.FootMoto.FootClose</dev>, ![2945.jpg](/Pap
 
 <div style="display: flex">
     <div>
-        <img style="margin: 5px" height="200" width="200" alt="Emoji" src="/Moto/Moto_Emoji.png"/>
+        <img style="margin: 5px" height="200" width="200" alt="Icon" src="/Moto/Moto_Icon.png"/>
         <p>Description of Moto Photo</p>
     </div>
     <div>
-        <img style="margin: 5px" height="200" width="200" alt="Emoji" src="/Moto/Moto_Emoji.png"/>
+        <img style="margin: 5px" height="200" width="200" alt="Icon" src="/Moto/Moto_Icon.png"/>
         <p>Description of Moto Photo</p>
     </div>
     <div>
-        <img style="margin: 5px" height="200" width="200" alt="Emoji" src="/Moto/Moto_Emoji.png"/>
+        <img style="margin: 5px" height="200" width="200" alt="Icon" src="/Moto/Moto_Icon.png"/>
         <p>Description of Moto Photo</p>
     </div>
 </div>

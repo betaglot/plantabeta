@@ -18,7 +18,7 @@ Hypotenuse or Horizontal side of Right Triangle
 
 InsertDiagram
 
-![ViaEmoji](/Via/Via_Emoji.png)
+![ViaIcon](/Via/Via_Icon.png)
 
 ## Element Problem
 

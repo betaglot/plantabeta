@@ -38,7 +38,7 @@ Neuro/Judgement/LandJudgement.md, <dev>Neuro.Logic.Deduction</dev>, ![90047.jpg]
 
 # 💜 <neuro>Judgement </neuro>
 
-![NeuroEmoji](/Neuro/Neuro_Emoji.png)
+![NeuroIcon](/Neuro/Neuro_Icon.png)
 
 ## Element Problem
 

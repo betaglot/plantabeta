@@ -546,7 +546,7 @@ Moto/MotoOverview.md, <dev>Moto.MotoSpace.Overview</dev>, ![90044.jpg](/PaperPho
 
 # 🟠 <moto>Moto Overview</moto>
 
-![Moto Emoji](/Moto/Moto_Emoji.png)
+![Moto Icon](/Moto/Moto_Icon.png)
 
 ## <moto>Moto Symbol</moto> 🟠
 

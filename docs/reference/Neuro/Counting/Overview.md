@@ -19,7 +19,7 @@ Neuro/Counting/Overview.md, <dev>Neuro.Counting</dev>, ![3005.jpg](/PaperPhoto/3
 
 # 💜 <neuro>Counting </neuro>
 
-![NeuroEmoji](/Neuro/Neuro_Emoji.png)
+![NeuroIcon](/Neuro/Neuro_Icon.png)
 
 ## Element Problem
 

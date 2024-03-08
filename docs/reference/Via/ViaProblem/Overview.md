@@ -26,7 +26,7 @@ The ViaProblem is a lot smaller than the ViaTheorem
 
 You use ViaTheorems or other ViaProblems to solve ViaProblems.
 
-![ViaEmoji](/Via/Via_Emoji.png)
+![ViaIcon](/Via/Via_Icon.png)
 
 
 

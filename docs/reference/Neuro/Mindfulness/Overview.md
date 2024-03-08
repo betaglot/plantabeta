@@ -28,7 +28,7 @@ Neuro/Mindfulness/MindfulBreathing.md, <dev>Neuro.Meditation</dev>, ![3052.jpg](
 
 # 💜 <neuro>Mindfulness</neuro>
 
-![NeuroEmoji](/Neuro/Neuro_Emoji.png)
+![NeuroIcon](/Neuro/Neuro_Icon.png)
 
 ## Disce Pati 
 

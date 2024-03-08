@@ -14,7 +14,7 @@
 
 # 💜 <neuro>StepCount </neuro>
 
-![NeuroEmoji](/Neuro/Neuro_Emoji.png)
+![NeuroIcon](/Neuro/Neuro_Icon.png)
 
 ## Element Problem
 
@@ -50,7 +50,7 @@ Answer 3
 
 ## ElementRelationshipsGraph
 
-Graph which represents how this element is related to other elements in PutPlant.
+Graph which represents how this element is related to other elements in Put(Plant).
 🛠 The Element Relationships Chart is still [under development](/dev/ElementsGraph)
 
 <iframe

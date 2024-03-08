@@ -17,7 +17,7 @@
 
 # 🟩  <eco>StumpObstacle</eco>
 
-![EcoEmoji](/Eco/Eco_Emoji.png)
+![EcoIcon](/Eco/Eco_Icon.png)
 
 ## Questions about StumpObstacle
 
@@ -49,7 +49,7 @@ Answer 3
 
 ## ElementRelationshipsGraph
 
-Graph which represents how this element is related to other elements in PutPlant.
+Graph which represents how this element is related to other elements in Put(Plant).
 <iframe
     width="100%"
     height="684"
@@ -59,29 +59,29 @@ Graph which represents how this element is related to other elements in PutPlant
 
 ## Related 🟩<eco>EcoElements</eco>  🟩
 
-### [🟩Microsite]()
+### 🟩 Microsite
 
 -
 
-### [🟩HighStump]()
+### 🟩HighStump
 
 -
 
-### [🟩SnowPack]()
+### 🟩SnowPack
 
 - block snow from crushing the seedling
 
 ## Related <moto>MotoElements</moto>
 
-### [🟠SpadePryScreef]()
+### 🟠SpadePryScreef
 
 -
 
-### [🟠TrunkGrip]()
+### 🟠TrunkGrip
 
 -
 
-### [🟠CreaseGrip]()
+### 🟠CreaseGrip
 
 -
 
@@ -89,39 +89,39 @@ Graph which represents how this element is related to other elements in PutPlant
 
 ## Related <via>ViaElements</via>
 
-### [🔻ObstacleCover]
+### 🔻ObstacleCover
 
-### [🔻AreaBoundary]()
-
--
-
-### [🔻DownSlope]()
+### 🔻AreaBoundary
 
 -
 
-### [🔻UpSlope]()
+### 🔻DownSlope
 
 -
 
-### [🔻StumpFlag]()
-
-- [FlagSite]()
-
-### [🔻BoundaryFlag]()
+### 🔻UpSlope
 
 -
 
-### [🔻Ecomark]()
+### 🔻StumpFlag
+
+- FlagSite
+
+### 🔻BoundaryFlag
 
 -
 
-### [🔻TargetPoint]()
+### 🔻Landmark
+
+-
+
+### 🔻TargetPoint
 
 -
 
 ## Related 💜<neuro>NeuroElements</neuro>
 
-### [💜Orientation]()
+### 💜Orientation
 
 - North side of the stump.
 -

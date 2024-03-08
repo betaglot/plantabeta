@@ -14,7 +14,7 @@
 
 # 🟩  <eco>FastLand</eco>🟩
 
-![EcoEmoji](/Eco/Eco_Emoji.png)
+![EcoIcon](/Eco/Eco_Icon.png)
 
 ## Element Problem
 

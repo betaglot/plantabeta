@@ -89,6 +89,10 @@ Open source organizations [supported by Google](https://opensource.google/organi
 
 The [Python Software Foundation](https://www.python.org/psf-landing/) is an organization devoted to advancing open source technology related to the Python programming language.
 
+### Mozilla (2016)
+
+- <https://mozillascience.github.io/working-open-workshop/index.html>
+
 ## Collaboration
 
 ### Code Of Conduct
@@ -123,7 +127,7 @@ Modify Patagonia Gear into Kit, Sleeves, Gauntlet
 
 ## Open Minded
 
-- Having an open mind is important to open source projects. It doesn't matter who created or developed an idea, it only matters if the idea is good for PutPlant.
+- Having an open mind is important to open source projects. It doesn't matter who created or developed an idea, it only matters if the idea is good for Put(Plant).
 
 - Python
 

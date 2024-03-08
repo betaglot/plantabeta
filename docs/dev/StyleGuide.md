@@ -150,7 +150,7 @@ It doesn't matter if it's always totally true, the canadian stereo type is belie
     - EcoHome Hero Image
 - Cold, Winter
 
-## PutPlant.org
+## Put(Plant).org
 
 ## <dev>Semantics</dev>
 
@@ -179,7 +179,7 @@ Plant= Organism from Plantae
 
 ### Keep it G
 
-Euphemisms undermine PutPlant and open it up to unnecessary criticism
+Euphemisms undermine Put(Plant) and open it up to unnecessary criticism
 
 - CreamyLand
 - "Cream out"
@@ -270,27 +270,27 @@ Periods
 #1f1f1f
 ```
 
-## Emoji
+## Icon
 
 ### Literal or Metaphorical
 
 ### Tree 🌲
 
-### Face emojis
+### Face Icons
 
 - Emotion
 - Sleep
 
-### Purpose(Emoji)
+### Purpose(Icon)
 
 - Visual Search
-- For planters to use the emojis
-- Each emoji can be easily handwritten, since electronics don't do well in extreme weather, in terms of breaking and in UX. You can't easily view a screen in summer sun, or rain, definitely not in snow.
+- For planters to use the Icons
+- Each Icon can be easily handwritten, since electronics don't do well in extreme weather, in terms of breaking and in UX. You can't easily view a screen in summer sun, or rain, definitely not in snow.
 
-The BetaModules are aliased as emojis.
+The BetaModules are aliased as Icons.
 
 ::: tip ?
-When is it useful for emojis to be monochrome outlines?
+When is it useful for Icons to be monochrome outlines?
 :::
 
 ### Ambifix for Page Title
@@ -303,9 +303,9 @@ When is it useful for emojis to be monochrome outlines?
 
 - Prefix for
 
-### Emoji Only
+### Icon Only
 
-- Which renderer to use for emojis in images?
+- Which renderer to use for Icons in images?
     - No shading
 
 `eco`
@@ -347,7 +347,7 @@ Delete tags once converted to headers. They are stored in a JSON
 
 :::
 
-```
+```md
 
 ### 🟠 <dev>DesignBox</dev><moto>.Moto</moto>
 
@@ -368,7 +368,7 @@ Delete tags once converted to headers. They are stored in a JSON
 
 # 🟠 <moto>Moto</moto>
 
-```
+```md
 
 ### 🟩 <dev>DesignBox</dev><eco>.Eco</eco>
 
@@ -389,7 +389,7 @@ Delete tags once converted to headers. They are stored in a JSON
 
 # 🟩 <eco>Eco</eco>
 
-```
+```md
 
 ### 🔻 <dev>DesignBox</dev><via>.Via</via>
 
@@ -410,7 +410,7 @@ Delete tags once converted to headers. They are stored in a JSON
 
 # 🔻 <via>Via</via>
 
-```
+```md
 
 ### 💜 <dev>DesignBox</dev><neuro>.Neuro</neuro>
 
@@ -431,7 +431,7 @@ Delete tags once converted to headers. They are stored in a JSON
 
 # 💜 <neuro>Neuro</neuro>
 
-```
+```md
 
 ### 🔷 <dev>DesignBox</dev><beta>.Beta</beta>
 
@@ -452,7 +452,7 @@ Delete tags once converted to headers. They are stored in a JSON
 
 ## 🔷 <beta>Beta</beta>
 
-```
+```md
 
 ### 🛠 <dev>DesignBox.Dev</dev>
 
@@ -473,9 +473,9 @@ Delete tags once converted to headers. They are stored in a JSON
 
 # 🛠 <dev>Dev</dev>
 
-```
+```md
 
-## Beta<dev></dev>Symbols
+## <dev>Beta Symbols</dev>
 
 ```md
 🔷
@@ -494,7 +494,6 @@ Every paragraph should have a link
 ## Grandiosity
 
 ### Oversell
-
 
 ### Scale
 

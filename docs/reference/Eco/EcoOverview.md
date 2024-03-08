@@ -31,7 +31,7 @@
 
 # 🟩  <eco>Eco Overview</eco>
 
-![](/Eco/Eco_Emoji.png)
+![](/Eco/Eco_Icon.png)
 
 ## What is Eco?
 

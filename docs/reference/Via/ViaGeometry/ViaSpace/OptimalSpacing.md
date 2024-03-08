@@ -15,7 +15,7 @@
 # 🔻 <via>OptimalSpacing</via>
 
 
-![ViaEmoji](/Via/Via_Emoji.png)
+![ViaIcon](/Via/Via_Icon.png)
 
 ## Element Problem
 

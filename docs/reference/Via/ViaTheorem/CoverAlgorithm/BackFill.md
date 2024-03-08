@@ -173,7 +173,7 @@ Via/CoverAlgorithm/Overview.md, <dev>Via.AreaCover.CircleCover.SemicircleCover</
 ## BackLine
 
 
-![ViaEmoji](/Via/Via_Emoji.png)
+![ViaIcon](/Via/Via_Icon.png)
 
 ## Element Problem
 

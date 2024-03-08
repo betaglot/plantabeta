@@ -23,21 +23,30 @@ dev/Roadmap.md, <dev>Dev.Roadmap</dev>, ![3048.jpg](/PaperPhoto/3048.jpg)
 
 > A *Roadmap* is
 
-Vertical Timeline
-
-Tree View
+- An outline of strategic goals for a team, department or company
+- Tasks, processes and initiatives for cross-functional teams
+- An estimated timeline for milestones and goals
+- Forecasts for business initiatives, such as marketing goals, new products or revenue growth
 
 ### Vuetify Roadmap
 
 - <https://vuetifyjs.com/en/introduction/roadmap/>
 
-### Mozilla
+### Mozilla Roadmapping
 
 - <https://mozillascience.github.io/working-open-workshop/roadmapping/>
 
+### Indeed Roadmapping
+
+- <https://www.indeed.com/career-advice/career-development/business-roadmaps>
+
+### Reference Class Forecasting
+
+Use Reference Class Forecasting to set realistic goals by comparing Put(Plant) with
+
 ## Future Developments
 
-One purpose of PutPlant is to act as a resource for designers and researchers.
+One purpose of Put(Plant) is to act as a resource for designers and researchers.
 
 To [Reforest](https://www.lasy.gov.pl/en/information/news/a-forest-is-much-more-than-a-plantation) the Eco destroyed by wildfires in Canada and across the world.
 
@@ -46,7 +55,6 @@ To [Reforest](https://www.lasy.gov.pl/en/information/news/a-forest-is-much-more-
 ## Guide
 
 ## Tutorial
-
 
 ## Tools
 
@@ -59,7 +67,7 @@ Test [novel planter tools](dev/Tools)
 
 ### Climbing
 
-- Klimbeta + PutPlant
+- Klimbeta + Put(Plant)
 
 ## Future Features
 

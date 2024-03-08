@@ -52,15 +52,15 @@ Moto/HandMoto/HandClose.md, <dev>Moto.HandMoto.HandClose.PunchClose</dev>, ![316
 
 <div style="display: flex">
     <div>
-        <img style="margin: 5px" height="200" width="200" alt="Emoji" src="/Moto/Moto_Emoji.png"/>
+        <img style="margin: 5px" height="200" width="200" alt="Icon" src="/Moto/Moto_Icon.png"/>
         <p>Description of Moto Photo</p>
     </div>
     <div>
-        <img style="margin: 5px" height="200" width="200" alt="Emoji" src="/Moto/Moto_Emoji.png"/>
+        <img style="margin: 5px" height="200" width="200" alt="Icon" src="/Moto/Moto_Icon.png"/>
         <p>Description of Moto Photo</p>
     </div>
     <div>
-        <img style="margin: 5px" height="200" width="200" alt="Emoji" src="/Moto/Moto_Emoji.png"/>
+        <img style="margin: 5px" height="200" width="200" alt="Icon" src="/Moto/Moto_Icon.png"/>
         <p>Description of Moto Photo</p>
     </div>
 

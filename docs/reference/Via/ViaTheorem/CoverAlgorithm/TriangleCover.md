@@ -21,7 +21,7 @@ https://youtu.be/bgR3yESAEVE
 # 🔻 <via>TriangleCover</via>
 
 
-![ViaEmoji](/Via/Via_Emoji.png)
+![ViaIcon](/Via/Via_Icon.png)
 
 ## Element Problem
 

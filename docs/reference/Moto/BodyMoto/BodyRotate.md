@@ -24,7 +24,7 @@ Moto/BodyMoto/BodyRotate.md, <dev>Moto.BodyMoto.BodyRotate</dev>, ![3080.jpg](/P
 
 # 🟠 <moto>BodyRotate</moto>
 
-![MotoEmoji](/Moto/Moto_Emoji.png)
+![MotoIcon](/Moto/Moto_Icon.png)
 
 ## Element Problem
 
@@ -46,15 +46,15 @@ Moto/BodyMoto/BodyRotate.md, <dev>Moto.BodyMoto.BodyRotate</dev>, ![3080.jpg](/P
 
 <div style="display: flex">
     <div>
-        <img style="margin: 5px" height="200" width="200" alt="Emoji" src="/Moto/Moto_Emoji.png"/>
+        <img style="margin: 5px" height="200" width="200" alt="Icon" src="/Moto/Moto_Icon.png"/>
         <p>Description of Moto Photo</p>
     </div>
     <div>
-        <img style="margin: 5px" height="200" width="200" alt="Emoji" src="/Moto/Moto_Emoji.png"/>
+        <img style="margin: 5px" height="200" width="200" alt="Icon" src="/Moto/Moto_Icon.png"/>
         <p>Description of Moto Photo</p>
     </div>
     <div>
-        <img style="margin: 5px" height="200" width="200" alt="Emoji" src="/Moto/Moto_Emoji.png"/>
+        <img style="margin: 5px" height="200" width="200" alt="Icon" src="/Moto/Moto_Icon.png"/>
         <p>Description of Moto Photo</p>
     </div>
 

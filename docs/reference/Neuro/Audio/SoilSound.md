@@ -14,7 +14,7 @@
 
 # 💜 <neuro>SoilSound </neuro>
 
-![NeuroEmoji](/Neuro/Neuro_Emoji.png)
+![NeuroIcon](/Neuro/Neuro_Icon.png)
 
 ## Element Problem
 

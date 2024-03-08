@@ -21,7 +21,7 @@
 - SemicircularEco
 - When PieceFront is wider than PieceBack, such as a TrianglePiece with the PieceFront as it's longest side.
 
-![ViaEmoji](/Via/Via_Emoji.png)
+![ViaIcon](/Via/Via_Icon.png)
 
 ## Element Problem
 

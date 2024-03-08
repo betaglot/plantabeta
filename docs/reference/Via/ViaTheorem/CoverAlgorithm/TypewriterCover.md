@@ -26,7 +26,7 @@ Using TypewriterCover to Cover a Piece is analogous to using a ZigzagLine for Ar
 
 RectilinearPiece
 
-![ViaEmoji](/Via/Via_Emoji.png)
+![ViaIcon](/Via/Via_Icon.png)
 
 ## Element Problem
 

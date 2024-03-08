@@ -16,7 +16,7 @@
 
 <!-- - Choose the particular side of the stump -->
 
-![NeuroEmoji](/Neuro/Neuro_Emoji.png)
+![NeuroIcon](/Neuro/Neuro_Icon.png)
 
 ## Element Problem
 

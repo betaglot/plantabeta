@@ -277,7 +277,7 @@ dev/Pylanter.md, <dev>Dev.System.Value</dev>, ![90092.png](/PaperPhoto/90092.png
 # 🛠 Planter as Computer
 
 ::: tip BetaCode
-The Source Code for PutPlant is called [BetaCode](/reference/Beta/BetaCode).
+The Source Code for Put(Plant) is called [BetaCode](/reference/Beta/BetaCode).
 :::
 
 ![PythonLogo](/Python/PythonLogo.png)
@@ -288,7 +288,7 @@ The Source Code for PutPlant is called [BetaCode](/reference/Beta/BetaCode).
 
 ## Analogy
 
-| Python | PutPlant |
+| Python | Put(Plant) |
 | ------ | --------- |
 | user   | Eco       |
 | input  | |
@@ -354,7 +354,7 @@ Object Oriented Programming
 
 > A mathematical object is an abstract concept arising in mathematics. In the usual language of mathematics, an object is anything that has been (or could be) formally defined, and with which one may do deductive reasoning and mathematical proofs. Typically, a mathematical object can be a value that can be assigned to a variable, and therefore can be involved in formulas. Commonly encountered mathematical objects include numbers, sets, functions, expressions, geometric objects, transformations of other mathematical objects, and spaces. Mathematical objects can be very complex; for example, theorems, proofs, and even theories are considered as mathematical objects in proof theory.
 
-I want to call Beta Objects Elements to align with gymnastics, since they call their Gymnast units of performance Elements. `{ Gymnastics : PutPlant }`
+I want to call Beta Objects Elements to align with gymnastics, since they call their Gymnast units of performance Elements. `{ Gymnastics : Put(Plant) }`
 
 All functions are Objects
 
@@ -380,9 +380,9 @@ Beta can be represented as BetaCode, or BetaVox
 
 You can't speak about Via or Moto by themselves.
 
-An Element is an Object of PutPlant.
+An Element is an Object of Put(Plant).
 
-- BetaElement and PutPlantElement have been confused. Beta can be applied to Climbing, PutPlant can not. You don't need Beta to climb. Beta is an abstraction layer on top of Climbing or Planting. Beta is the observation
+- BetaElement and Put(Plant)Element have been confused. Beta can be applied to Climbing, Put(Plant) can not. You don't need Beta to climb. Beta is an abstraction layer on top of Climbing or Planting. Beta is the observation
 
 - BetaScore
 

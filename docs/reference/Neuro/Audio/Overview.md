@@ -35,7 +35,7 @@ Neuro/Audio/Overview.md, <dev>Neuro.Hearing</dev>, ![2956.jpg](/PaperPhoto/2956.
 
 # 💜 <neuro>SoundOverview</neuro>
 
-![NeuroEmoji](/Neuro/Neuro_Emoji.png)
+![NeuroIcon](/Neuro/Neuro_Icon.png)
 
 ## Element Problem
 

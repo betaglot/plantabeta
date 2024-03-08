@@ -90,11 +90,11 @@ guide/Who/PlanterInstructor.md, <dev>Guide.Who.PlanterInstructor.TeachingPlot</d
 
 - <https://mitsloan.mit.edu/ideas-made-to-matter/curse-knowledge-why-experts-struggle-to-explain-their-work>
 
-## Using PutPlant Before the Season
+## Using Put(Plant) Before the Season
 
-## Using PutPlant During the Season
+## Using Put(Plant) During the Season
 
-## Using PutPlant After the Season
+## Using Put(Plant) After the Season
 
 ## Tasks of Planter Instructors
 
@@ -106,7 +106,7 @@ guide/Who/PlanterInstructor.md, <dev>Guide.Who.PlanterInstructor.TeachingPlot</d
 
 ::: danger Unteachable Character Traits
 
-A Planter can know everything about how to be a Planter, but still not plant to their maximum potential. This is because to be an elite Planter you must have character traits which can't be taught. Perhaps they can be cultivated by a sports psychologist, but this is currently outside the scope of PutPlant and the rest of the planting industry.  
+A Planter can know everything about how to be a Planter, but still not plant to their maximum potential. This is because to be an elite Planter you must have character traits which can't be taught. Perhaps they can be cultivated by a sports psychologist, but this is currently outside the scope of Put(Plant) and the rest of the planting industry.  
 
 Such traits include:
 

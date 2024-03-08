@@ -16,7 +16,7 @@
 >
 > to avoid something by going around it
 
-![ViaEmoji](/Via/Via_Emoji.png)
+![ViaIcon](/Via/Via_Icon.png)
 
 ## Element Problem
 
