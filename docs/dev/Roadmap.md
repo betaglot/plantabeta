@@ -27,6 +27,14 @@ Vertical Timeline
 
 Tree View
 
+### Vuetify Roadmap
+
+- <https://vuetifyjs.com/en/introduction/roadmap/>
+
+### Mozilla
+
+- <https://mozillascience.github.io/working-open-workshop/roadmapping/>
+
 ## Future Developments
 
 One purpose of PutPlant is to act as a resource for designers and researchers.
@@ -39,14 +47,10 @@ To [Reforest](https://www.lasy.gov.pl/en/information/news/a-forest-is-much-more-
 
 ## Tutorial
 
-### Materials Science
 
-- Flagger
+## Tools
 
-### Biology
-
-- Testing Hypothesis
--
+Test [novel planter tools](dev/Tools)
 
 ### Psychology
 
@@ -61,15 +65,21 @@ To [Reforest](https://www.lasy.gov.pl/en/information/news/a-forest-is-much-more-
 
 - 3D models of the Elements.
 
-### Polyglot
+## Polyglot Documentation
 
 ### French
+
+- Quebecois
 
 ### German
 
 ### Spanish
 
+- For the Americas
+
 ### Portugese
+
+- For Brazil
 
 ## Future of Planting
 
