@@ -1,5 +1,5 @@
 """
-PutPlant.py is the library written in Python which allows people 
+Put(Plant).py is the library written in Python which allows people 
 to simulate planting difficult RawLand. Use JSON to store BetaData.json 
 so it is portable
 

@@ -158,7 +158,7 @@ It doesn't matter if it's always totally true, the canadian stereo type is belie
     - EcoHome Hero Image
 - Cold, Winter
 
-## PutPlant.org
+## Put(Plant).org
 
 ## <dev>Semantics</dev>
 
@@ -187,7 +187,7 @@ Plant= Organism from Plantae
 
 ### Keep it G
 
-Euphemisms undermine PutPlant and open it up to unnecessary criticism
+Euphemisms undermine Put(Plant) and open it up to unnecessary criticism
 
 - CreamyLand
 - "Cream out"

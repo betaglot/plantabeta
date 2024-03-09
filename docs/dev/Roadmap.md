@@ -42,11 +42,11 @@ dev/Roadmap.md, <dev>Dev.Roadmap</dev>, ![3048.jpg](/PaperPhoto/3048.jpg)
 
 ### Reference Class Forecasting
 
-Use Reference Class Forecasting to set realistic goals by comparing PutPlant with
+Use Reference Class Forecasting to set realistic goals by comparing Put(Plant) with
 
 ## Future Developments
 
-One purpose of PutPlant is to act as a resource for designers and researchers.
+One purpose of Put(Plant) is to act as a resource for designers and researchers.
 
 To [Reforest](https://www.lasy.gov.pl/en/information/news/a-forest-is-much-more-than-a-plantation) the Eco destroyed by wildfires in Canada and across the world.
 
@@ -67,7 +67,7 @@ Test [novel planter tools](dev/Tools)
 
 ### Climbing
 
-- Klimbeta + PutPlant
+- Klimbeta + Put(Plant)
 
 ## Future Features
 

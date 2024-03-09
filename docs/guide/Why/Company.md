@@ -10,7 +10,7 @@
 `TagsToHeaders: False`
 ```
 
-- PutPlant is a service
+- Put(Plant) is a service
 
 - Planters are given nothing
     - "Untrained planters are inefficient" is a logical proposition?

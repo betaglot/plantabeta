@@ -161,7 +161,7 @@ Homonyms = {
 
 #### Dictation Phrase
 
-0. SetUp Laptop with PutPlant open on left half and the google doc open on the right. Record the audio with your phone being held up close to your mouth.
+0. SetUp Laptop with Put(Plant) open on left half and the google doc open on the right. Record the audio with your phone being held up close to your mouth.
 
 1. Look at the Page, Tags and the PaperPhotos in <dev>DesignBox</dev> .
     - Think of something to say for each header. Say the header that you're thinking about, eg. "Subelements", "Related Elements", "Element Properties", "Definition"...etc
@@ -169,7 +169,7 @@ Homonyms = {
 
 2. Record the audio in a Google Doc until you can't think of anything else to say.
     - Make sure that you're enunciating
-    - Use PutPlant terminology, don't worry about grammar
+    - Use Put(Plant) terminology, don't worry about grammar
     - Glance at the text, but don't read it. Sometimes the recording stops.
 
 3. Paste Raw output into VScode Parse the output by adding empty lines between parts
@@ -286,17 +286,17 @@ Coherence is developed
 
 ### <neuro> “I looked forward to another 500 pounds of squat. I looked forward to doing more and more curls until my arms would fall off. Why? Because I knew that every rep that I did and every set that I did and more weights that I lifted, I get one step closer to turning that **vision** into reality.”</neuro>
 
-You're not making it worse, each workblock makes it better, deciding that what you wrote needs to be changed is an improvement. Finding out what doesn't work is a form of improvement. PutPlant is a really difficult project, **expect to feel its difficulties!**
+You're not making it worse, each workblock makes it better, deciding that what you wrote needs to be changed is an improvement. Finding out what doesn't work is a form of improvement. Put(Plant) is a really difficult project, **expect to feel its difficulties!**
 
 Just get as much information out of your head and into data structures, so that they can be processed.
 
 <moto>Keep going!!!</moto>
 
-### Differentiate(Beta, PutPlant)
+### Differentiate(Beta, Put(Plant))
 
-PutPlant is a language
+Put(Plant) is a language
 
-BetaCode a beta script. PutPlant creates the properties of HandMove, like how many fingers you have. Beta can't change the number of fingers. A Hand is part of PutPlant, a hand is controlled with Beta
+BetaCode a beta script. Put(Plant) creates the properties of HandMove, like how many fingers you have. Beta can't change the number of fingers. A Hand is part of Put(Plant), a hand is controlled with Beta
 
 - Beta is only during runtime
 
@@ -326,11 +326,11 @@ a data construct that provides a description of something that may be used by a 
 - Prediction
 - Translating Abstract to Concrete
     - Boolean to Bit
-    - Python to PutPlant
+    - Python to Put(Plant)
 
 There shouldn't be beta and putplant, because they a supposed to be the name of the language used by planters. Forget "Beta" make up your own name
 
-PutPlant is the language and the
+Put(Plant) is the language and the
 
 Beta represents moto, but Moto is the move itself. Moto doesn't care about how it's being represented.
 

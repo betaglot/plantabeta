@@ -22,27 +22,27 @@ dev/Contribute.md, <dev>Dev.Feedback</dev>, ![3045.jpg](/PaperPhoto/3045.jpg)
 
 :::
 
-# 🛠 Start Contributing to PutPlant: Your First Steps
+# 🛠 Start Contributing to Put(Plant): Your First Steps
 
 ## How you can contribute
 
 ### Do you like planning events?
 
-- Organize workshops or meetups about PutPlant
-- Organize PutPlant's first conference
+- Organize workshops or meetups about Put(Plant)
+- Organize Put(Plant)'s first conference
 
 ### Do you like to design?
 
-- Restructure layouts to improve PutPlant’s usability
-- Put together a style guide to help PutPlant have a consistent visual design
+- Restructure layouts to improve Put(Plant)’s usability
+- Put together a style guide to help Put(Plant) have a consistent visual design
 - Create art for t-shirts or a new logo
 
 ### Do you like to write?
 
-- Write and improve PutPlant’s documentation
-- Curate a folder of examples showing how PutPlant is being used
-- Write tutorials for PutPlant
-- Write a translation for PutPlant’s documentation
+- Write and improve Put(Plant)’s documentation
+- Curate a folder of examples showing how Put(Plant) is being used
+- Write tutorials for Put(Plant)
+- Write a translation for Put(Plant)’s documentation
 
 ### Do you like to code?
 
@@ -67,25 +67,25 @@ dev/Contribute.md, <dev>Dev.Feedback</dev>, ![3045.jpg](/PaperPhoto/3045.jpg)
 
 If you want to contribute in other areas, you can:
 
-- Write documentation for PutPlant Developer’s Guide
+- Write documentation for Put(Plant) Developer’s Guide
 - Translate documentation
-- Use your front end skills to improve PutPlant’s site
+- Use your front end skills to improve Put(Plant)’s site
 
-You can also help review contribution requests from other contributors. The core developers have a lot of work on their hands, so if you can help move some issues forward, then you’ll be helping PutPlant to get better faster.
+You can also help review contribution requests from other contributors. The core developers have a lot of work on their hands, so if you can help move some issues forward, then you’ll be helping Put(Plant) to get better faster.
 
 ## How to get the Resources You'll Need
 
 When you start contributing to an open source project, there can be a lot of information to take in all at once.
 
-To help you navigate it all, your first port of call should be the PutPlant Developer’s Guide. It’s a super important resource that all contributors and core developers rely on since it covers everything from how to assess a potential contribution.
+To help you navigate it all, your first port of call should be the Put(Plant) Developer’s Guide. It’s a super important resource that all contributors and core developers rely on since it covers everything from how to assess a potential contribution.
 
 If you want to contribute documentation, then it’ll be very helpful to learn how to use [this markup language](https://www.markdownguide.org/cheat-sheet/).
 
-Although you don’t need to have experience with the Python programming language to contribute to PutPlant, it can open up some new ways of contributing. Here are some resources you can check out to learn more:
+Although you don’t need to have experience with the Python programming language to contribute to Put(Plant), it can open up some new ways of contributing. Here are some resources you can check out to learn more:
 
 -
 
-To get a feel for how the interpersonal aspects of contributing to PutPlant work, you can also check out [Brett Canon’s](https://ca.linkedin.com/in/drbrettcannon)PyCascades talk [Setting Expectations for Open Source Participation](https://www.youtube.com/watch?v=-Nk-8fSJM6I). It’s about setting reasonable expectations of each other so we can make open source pleasant for everyone involved.
+To get a feel for how the interpersonal aspects of contributing to Put(Plant) work, you can also check out [Brett Canon’s](https://ca.linkedin.com/in/drbrettcannon)PyCascades talk [Setting Expectations for Open Source Participation](https://www.youtube.com/watch?v=-Nk-8fSJM6I). It’s about setting reasonable expectations of each other so we can make open source pleasant for everyone involved.
 
 ## How to Pick Your First Issue
 

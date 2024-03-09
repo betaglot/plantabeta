@@ -25,7 +25,7 @@ Module overview
 # Reference Overview
 
 ::: tip What is a Beta Element?
-Find out how PutPlant [is composed of Beta Elements](/reference/Beta/WhatBeta).
+Find out how Put(Plant) [is composed of Beta Elements](/reference/Beta/WhatBeta).
 :::
 
 ## [<beta>**🔷____Beta____**</beta>![Beta](/Beta/Beta_Icon.png)](/reference/Beta/WhatBeta)

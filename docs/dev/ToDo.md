@@ -129,10 +129,10 @@ PaperText is most useful for fine details. It should be done after Dictation and
 
 :::
 
-1. Get PutPlantPaperText
+1. Get Put(Plant)PaperText
     - Find most recent PaperText
     - Upload PaperText to SQlite
-    - Select of all the PaperText which has a PaperPhoto in PutPlant's repo
+    - Select of all the PaperText which has a PaperPhoto in Put(Plant)'s repo
 
 ## Add Definition to each element
 
