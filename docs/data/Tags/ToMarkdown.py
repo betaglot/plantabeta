@@ -9902,12 +9902,12 @@ data = [
     {
         "PagePath": "dev/DevOverview.md",
         "PaperPhoto": "0595.jpg",
-        "TagName": "Dev.Put(Plant).SeedIdea"
+        "TagName": "Dev.PutPlant.SeedIdea"
     },
     {
         "PagePath": "dev/DevOverview.md",
         "PaperPhoto": "1051.jpg",
-        "TagName": "Dev.Put(Plant).SeedIdea"
+        "TagName": "Dev.PutPlant.SeedIdea"
     },
     {
         "PagePath": "dev/DevOverview.md",
@@ -19547,7 +19547,7 @@ data = [
     {
         "PagePath": "guide/What/WhatPutPlant.md",
         "PaperPhoto": "0293.jpg",
-        "TagName": "Guide.What.WhatPut(Plant)"
+        "TagName": "Guide.What.WhatPutPlant"
     },
     {
         "PagePath": "guide/What/WhatPutPlant.md",
@@ -19572,7 +19572,7 @@ data = [
     {
         "PagePath": "guide/What/WhatPutPlant.md",
         "PaperPhoto": "1272.jpg",
-        "TagName": "Guide.What.WhatPut(Plant)"
+        "TagName": "Guide.What.WhatPutPlant"
     },
     {
         "PagePath": "guide/What/WhatPutPlant.md",
@@ -19607,7 +19607,7 @@ data = [
     {
         "PagePath": "guide/What/WhatPutPlant.md",
         "PaperPhoto": "1371.jpg",
-        "TagName": "Guide.What.WhatPut(Plant)"
+        "TagName": "Guide.What.WhatPutPlant"
     },
     {
         "PagePath": "guide/What/WhatPutPlant.md",
@@ -19642,7 +19642,7 @@ data = [
     {
         "PagePath": "guide/What/WhatPutPlant.md",
         "PaperPhoto": "1853.jpg",
-        "TagName": "Guide.What.WhatPut(Plant).PlanterQuestion"
+        "TagName": "Guide.What.WhatPutPlant.PlanterQuestion"
     },
     {
         "PagePath": "guide/What/WhatPutPlant.md",
@@ -19672,22 +19672,22 @@ data = [
     {
         "PagePath": "guide/What/WhatPutPlant.md",
         "PaperPhoto": "2941.jpg",
-        "TagName": "Guide.What.WhatPut(Plant)"
+        "TagName": "Guide.What.WhatPutPlant"
     },
     {
         "PagePath": "guide/What/WhatPutPlant.md",
         "PaperPhoto": "2955.jpg",
-        "TagName": "Guide.What.WhatPut(Plant)"
+        "TagName": "Guide.What.WhatPutPlant"
     },
     {
         "PagePath": "guide/What/WhatPutPlant.md",
         "PaperPhoto": "2967.jpg",
-        "TagName": "Guide.What.WhatPut(Plant)"
+        "TagName": "Guide.What.WhatPutPlant"
     },
     {
         "PagePath": "guide/What/WhatPutPlant.md",
         "PaperPhoto": "2968.jpg",
-        "TagName": "Guide.What.WhatPut(Plant)"
+        "TagName": "Guide.What.WhatPutPlant"
     },
     {
         "PagePath": "guide/What/WhatPutPlant.md",
@@ -19712,12 +19712,12 @@ data = [
     {
         "PagePath": "guide/What/WhatPutPlant.md",
         "PaperPhoto": "3144.jpg",
-        "TagName": "Guide.What.WhatPut(Plant)"
+        "TagName": "Guide.What.WhatPutPlant"
     },
     {
         "PagePath": "guide/What/WhatPutPlant.md",
         "PaperPhoto": "3150.jpg",
-        "TagName": "Guide.What.WhatPut(Plant)"
+        "TagName": "Guide.What.WhatPutPlant"
     },
     {
         "PagePath": "guide/What/WhatPutPlant.md",
@@ -19737,12 +19737,12 @@ data = [
     {
         "PagePath": "guide/What/WhatPutPlant.md",
         "PaperPhoto": "90006.jpg",
-        "TagName": "Guide.What.WhatPut(Plant)"
+        "TagName": "Guide.What.WhatPutPlant"
     },
     {
         "PagePath": "guide/What/WhatPutPlant.md",
         "PaperPhoto": "90039.jpg",
-        "TagName": "Guide.What.WhatPut(Plant)"
+        "TagName": "Guide.What.WhatPutPlant"
     },
     {
         "PagePath": "guide/What/WhatPutPlant.md",
@@ -19757,7 +19757,7 @@ data = [
     {
         "PagePath": "guide/What/WhatPutPlant.md",
         "PaperPhoto": "90041.jpg",
-        "TagName": "Guide.What.WhatPut(Plant)"
+        "TagName": "Guide.What.WhatPutPlant"
     },
     {
         "PagePath": "guide/What/WhatPutPlant.md",
@@ -19797,12 +19797,12 @@ data = [
     {
         "PagePath": "guide/What/WhatPutPlant.md",
         "PaperPhoto": "90100.png",
-        "TagName": "Guide.What.WhatPut(Plant).Product"
+        "TagName": "Guide.What.WhatPutPlant.Product"
     },
     {
         "PagePath": "guide/What/WhatPutPlant.md",
         "PaperPhoto": "90100.png",
-        "TagName": "Guide.What.WhatPut(Plant).Service"
+        "TagName": "Guide.What.WhatPutPlant.Service"
     },
     {
         "PagePath": "guide/What/WhatTreePlanting.md",

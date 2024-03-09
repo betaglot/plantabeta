@@ -101,7 +101,7 @@ dev/UX.md, <dev>Dev.ToReduceConfusion</dev>, ![90108.png](/PaperPhoto/90108.png)
 
 :::
 
-# 🛠 UX: User Experience of Put(Plant)
+# 🛠 UX: User Experience of PutPlant
 
 ## Hardware
 

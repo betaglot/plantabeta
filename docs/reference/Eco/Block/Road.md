@@ -76,7 +76,7 @@ Hover:
 Select:
 :::
 
-Graph which represents how this element is related to other elements in Put(Plant).
+Graph which represents how this element is related to other elements in PutPlant.
 🛠 The Element Relationships Chart is still [under development](/dev/ElementsGraph)
 
 <iframe

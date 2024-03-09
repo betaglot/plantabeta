@@ -1,6 +1,6 @@
 # Offline
 
-How to make Put(Plant) available offline?
+How to make PutPlant available offline?
 
 ::: tip
 

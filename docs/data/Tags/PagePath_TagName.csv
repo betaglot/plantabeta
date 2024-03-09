@@ -61,7 +61,7 @@ dev/art/Overview.md, Dev.Sculpture
 dev/Contribute.md, Dev.Donation
 dev/Contribute.md, Dev.Feedback
 dev/DevOverview.md, Dev.Overview
-dev/DevOverview.md, Dev.Put(Plant).SeedIdea
+dev/DevOverview.md, Dev.PutPlant.SeedIdea
 dev/DevOverview.md, Dev.Youtube
 dev/Downloads.md, Dev.Downloads
 dev/DX.md, Dev.DesignProcess
@@ -518,10 +518,10 @@ guide/What/WhatPutPlant.md, Guide.GettingStarted
 guide/What/WhatPutPlant.md, Guide.What.WhatElement
 guide/What/WhatPutPlant.md, Guide.What.WhatElement.ElementName.Affix
 guide/What/WhatPutPlant.md, Guide.What.WhatElement.Euclid
-guide/What/WhatPutPlant.md, Guide.What.WhatPut(Plant)
-guide/What/WhatPutPlant.md, Guide.What.WhatPut(Plant).PlanterQuestion
-guide/What/WhatPutPlant.md, Guide.What.WhatPut(Plant).Product
-guide/What/WhatPutPlant.md, Guide.What.WhatPut(Plant).Service
+guide/What/WhatPutPlant.md, Guide.What.WhatPutPlant
+guide/What/WhatPutPlant.md, Guide.What.WhatPutPlant.PlanterQuestion
+guide/What/WhatPutPlant.md, Guide.What.WhatPutPlant.Product
+guide/What/WhatPutPlant.md, Guide.What.WhatPutPlant.Service
 guide/What/WhatTreePlanting.md, Guide.What.WhatTreePlanting
 guide/Who/ExperiencedPlanter.md, Guide.Who.ExperiencedPlanter
 guide/Who/NovicePlanter.md, Guide.Who.NovicePlanter
