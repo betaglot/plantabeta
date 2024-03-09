@@ -2,6 +2,10 @@
 
 ## DevNotes
 
+- The Beta is the OpenSource
+
+- Mostly about the documentation, since planters will be implementing putplant.py physically instead of electronically.
+
 - How much do I explain and how much do I just leave to the open source organizations' websites, which are way more developed? What do people need to know about Open Source to see its value to humanity  
 
 ## DevState
