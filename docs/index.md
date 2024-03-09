@@ -5,8 +5,8 @@ title: Put(Plant)
 titleTemplate: Put(Plant)
 
 hero: 
-  name: Put(Plant)
-  text: 
+  name: "Put(Plant)"
+  text: Tree Planting
   tagline: The examples, guides, and reference you need—whether you're planting in the mountains of British Columbia, the wetlands of the Canadian Shield, or anywhere in between. Take advantage of these resources to develop your ability to plant faster and with higher quality.
   # image:
   #   src: /BetaLogo.png
@@ -14,7 +14,7 @@ hero:
   actions:
     - theme: brand
       text: I'm new to Put(Plant)
-      link: /guide/What/WhatPut(Plant)
+      link: /guide/What/WhatPutPlant
 
 
 features:

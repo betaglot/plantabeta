@@ -7,7 +7,7 @@
 ## DevState
 
 ```py
-`TagsToHeaders: False`
+`TagsToHeaders: True`
 ```
 
 :::

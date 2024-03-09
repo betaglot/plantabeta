@@ -26,6 +26,18 @@ dev/Contribute.md, <dev>Dev.Feedback</dev>, ![3045.jpg](/PaperPhoto/3045.jpg)
 
 ## How you can contribute
 
+::: tip Sponsor
+If you just want to sponsor Put(Plant)
+:::
+
+### Give Feedback
+
+### Give Money
+
+### Give Code
+
+### Would you like to say anything about your experience of Put(Plant)?
+
 ### Do you like planning events?
 
 - Organize workshops or meetups about Put(Plant)
