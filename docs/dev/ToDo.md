@@ -12,6 +12,14 @@ There is about 100 hours of work time available before the season start.
     - NovicePlanter.md
     - WhatPut(Plant).md
 
+LaptopOnly tasks include:
+
+- PinkInking
+- Frontend
+    - Writing Content (not system design)
+- Backend
+    - SQL, Python, JSON, D3
+
 :::
 
 ::: danger <neuro>Attencide</neuro> until season start
@@ -21,8 +29,6 @@ There is about 100 hours of work time available before the season start.
 - International
 - Naming
 - Neuro
-- D3
-- Python
 
 :::
 
