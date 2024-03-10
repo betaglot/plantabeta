@@ -88,7 +88,7 @@ function nav() {
   return [
     {
       text: 'Guide',
-      link: '/guide/What/WhatPut(Plant)',
+      link: '/guide/What/WhatPutPlant',
       activeMatch: '/guide/'
     },
     {
@@ -122,7 +122,7 @@ function sidebarGuide() {
       collapsed: false,
       items: [
         { text: 'What is Tree Planting?', link: '/guide/What/WhatTreePlanting' },
-        { text: 'What is Put(Plant)?', link: '/guide/What/WhatPut(Plant)' },
+        { text: 'What is Put(Plant)?', link: '/guide/What/WhatPutPlant' },
       ]
     },
     {
