@@ -1,8 +1,68 @@
 # ToDo
 
+::: tip
+
+The goal of ToDo is to be prepared for the upcoming season.
+
+There is about 100 hours of work time available before the season start.
+
+- To know what media to collect
+    - Add all the info in the DesignBox to the PageBody
+- To be able to communicate what Put(Plant) is to other planters.
+    - NovicePlanter.md
+    - WhatPut(Plant).md
+
+:::
+
+::: danger <neuro>Attencide</neuro> until season start
+
+- Anything related to climbing.
+- Tools
+- International
+- Naming
+- Neuro
+- D3
+- Python
+
+:::
+
+## Add Green Notebook to DesignBox
+
+Add the information about Put(Plant) to the website.
+
+Add with PinkInk before PaperPhoto. PaperPhoto is more for reference than  
+
+### Task Hardware
+
+- PinkInk
+- Notebook
+- Laptop
+
+### 1. Add PaperIndex to each Paper
+
+Search Drive to find that number to start the index
+
+### 2. PaperPhoto
+
+PaperPhoto before or After PinkInk? It's more important to get the information from the notebook than to record the notebook's papers.
+
+- Add PaperPhotos to Repo
+
+### 3. PaperTag
+
+- Tag with TagSpaces
+
 ## Translate Tags to Headers
 
+### Task Hardware
+
+- 2 screens so you can see PaperPhotos while coding
+
+### Task Sequence
+
 Go TopDown through the directories
+
+Look at the PaperPhoto section to have a better idea of what the Tag represents
 
 1. Start with the Module Overviews
     - Some of the tags in the overview will become their own Pages.
@@ -13,7 +73,7 @@ Go TopDown through the directories
 5. BetaPages
 
 ```py
-TagsToHeaders: False
+TagsToHeaders: True
 ```
 
 Update to `True` once completed
