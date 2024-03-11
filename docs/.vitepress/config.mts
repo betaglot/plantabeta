@@ -187,8 +187,7 @@ function sidebarReference() {
     },
     // #Eco
     {
-      text: '🟩 <eco>Eco</eco>', collapsed: true, items: [
-        { text: '🟩 <eco>Eco Overview</eco>', link: '/reference/Eco/EcoOverview' },
+      text: '🟩 <eco>Eco</eco>', collapsed: true, link: '/reference/Eco/EcoOverview', items: [
         { text: '🔷 <eco>Eco Phrase</eco>', link: '/reference/Eco/EcoPhrase/Overview' },
         { text: '🔷 <eco>Eco Difficulty</eco>', link: '/reference/Eco/EcoDifficulty' },
         {
@@ -198,8 +197,7 @@ function sidebarReference() {
           ]
         },
         {
-          text: '🟩 <eco>Area</eco>', collapsed: true, items: [
-            { text: '🟩 <eco>Area Overview</eco>', link: '/reference/Eco/Area/Overview' },
+          text: '🟩 <eco>Area</eco>', collapsed: true, link: '/reference/Eco/Area/Overview', items: [
             { text: '🟩 <eco>PocketArea</eco>', link: '/reference/Eco/Area/PocketArea' },
             { text: '🟩 <eco>RiparianArea</eco>', link: '/reference/Eco/Area/RiparianArea' },
             { text: '🟩 <eco>RockCapArea</eco>', link: '/reference/Eco/Area/RockCapArea' },
@@ -207,8 +205,7 @@ function sidebarReference() {
           ]
         },
         {
-          text: '🟩 <eco>Atmosphere</eco>', collapsed: true, items: [
-            { text: '🟩 <eco>Overview</eco>', link: '/reference/Eco/Atmosphere/Overview' },
+          text: '🟩 <eco>Atmosphere</eco>', link: '/reference/Eco/Atmosphere/Overview', collapsed: true, items: [
             { text: '🟩 <eco>AirTemperature</eco>', link: '/reference/Eco/Atmosphere/AirTemperature' },
             { text: '🟩 <eco>Humidity</eco>', link: '/reference/Eco/Atmosphere/Humidity' },
             { text: '🟩 <eco>Precipitation</eco>', link: '/reference/Eco/Atmosphere/Precipitation' },
@@ -216,29 +213,25 @@ function sidebarReference() {
           ]
         },
         {
-          text: '🟩 <eco>Block</eco>', collapsed: true, items: [
-            { text: '🟩 <eco>Block Overview</eco>', link: '/reference/Eco/Block/Overview' },
+          text: '🟩 <eco>Block</eco>', link: '/reference/Eco/Block/Overview',  collapsed: true, items: [
             { text: '🟩 <eco>CoverBlock</eco>', link: '/reference/Eco/Block/CoverBlock' },
             { text: '🟩 <eco>Road</eco>', link: '/reference/Eco/Block/Road' },
           ]
         },
         {
-          text: '🟩 <eco>Density</eco>', collapsed: true, items: [
-            { text: '🟩 <eco>Density Overview</eco>', link: '/reference/Eco/Density/Overview' },
+          text: '🟩 <eco>Density</eco>', link: '/reference/Eco/Density/Overview', collapsed: true, items: [
             { text: '🟩 <eco>Plot</eco>', link: '/reference/Eco/Density/Plot' },
 
           ]
         },
         {
-          text: '🟩 <eco>LandSpeed</eco>', collapsed: true, items: [
-            { text: '🟩 <eco>LandSpeed Overview</eco>', link: '/reference/Eco/LandSpeed/Overview' },
+          text: '🟩 <eco>LandSpeed</eco>', link: '/reference/Eco/LandSpeed/Overview' , collapsed: true, items: [
             { text: '🟩 <eco>FastLand</eco>', link: '/reference/Eco/LandSpeed/FastLand' },
             { text: '🟩 <eco>SlowLand</eco>', link: '/reference/Eco/LandSpeed/SlowLand' },
           ]
         },
         {
-          text: '🟩 <eco>Obstacle</eco>', collapsed: true, items: [
-            { text: '🟩 <eco>Obstacle Overview</eco>', link: '/reference/Eco/Obstacle/Overview' },
+          text: '🟩 <eco>Obstacle</eco>', link: '/reference/Eco/Obstacle/Overview', collapsed: true, items: [
             { text: '🟩 <eco>HoleObstacle</eco>', link: '/reference/Eco/Obstacle/HoleObstacle' },
             { text: '🟩 <eco>LogObstacle</eco>', link: '/reference/Eco/Obstacle/LogObstacle' },
             { text: '🟩 <eco>MicrositeObstacle</eco>', link: '/reference/Eco/Obstacle/MicrositeObstacle' },
@@ -247,29 +240,25 @@ function sidebarReference() {
           ]
         },
         {
-          text: '🟩 <eco>Piece</eco>', collapsed: true, items: [
-            { text: '🟩 <eco>Piece Overview</eco>', link: '/reference/Eco/Piece/Overview' },
+          text: '🟩 <eco>Piece</eco>', link: '/reference/Eco/Piece/Overview', collapsed: true, items: [
             { text: '🟩 <eco>PieceTopography</eco>', link: '/reference/Eco/Piece/PieceTopography' },
           ]
         },
         {
-          text: '🟩 <eco>Prep</eco>', collapsed: true, items: [
-            { text: '🟩 <eco>PrepLand Overview</eco>', link: '/reference/Eco/Prep/Overview' },
+          text: '🟩 <eco>Prep</eco>', link: '/reference/Eco/Prep/Overview', collapsed: true, items: [
             { text: '🟩 <eco>MoundLand</eco>', link: '/reference/Eco/Prep/MoundLand' },
             { text: '🟩 <eco>TrenchLand</eco>', link: '/reference/Eco/Prep/TrenchLand' },
           ]
         },
         {
-          text: '🟩 <eco>Raw</eco>', collapsed: true, items: [
-            { text: '🟩 <eco>RawLand Overview</eco>', link: '/reference/Eco/Raw/Overview' },
+          text: '🟩 <eco>Raw</eco>',  link: '/reference/Eco/Raw/Overview', collapsed: true, items: [
             { text: '🟩 <eco>BurnPit</eco>', link: '/reference/Eco/Raw/BurnPit' },
             { text: '🟩 <eco>BurntLand</eco>', link: '/reference/Eco/Raw/BurntLand' },
 
           ]
         },
         {
-          text: '🟩 <eco>Slash</eco>', collapsed: true, items: [
-            { text: '🟩 <eco>Slash Overview</eco>', link: '/reference/Eco/Slash/Overview' },
+          text: '🟩 <eco>Slash</eco>', link: '/reference/Eco/Slash/Overview',  collapsed: true, items: [
             { text: '🟩 <eco>BurnPileSlash</eco>', link: '/reference/Eco/Slash/BurnPileSlash' },
             { text: '🟩 <eco>HighSlash</eco>', link: '/reference/Eco/Slash/HighSlash' },
             { text: '🟩 <eco>LowSlash</eco>', link: '/reference/Eco/Slash/LowSlash' },
@@ -277,8 +266,7 @@ function sidebarReference() {
           ]
         },
         {
-          text: '🟩 <eco>Soil</eco>', collapsed: true, items: [
-            { text: '🟩 <eco>Soil Overview</eco>', link: '/reference/Eco/Soil/Overview' },
+          text: '🟩 <eco>Soil</eco>',link: '/reference/Eco/Soil/Overview', collapsed: true, items: [
             { text: '🟩 <eco>ClaySoil</eco>', link: '/reference/Eco/Soil/ClaySoil' },
             { text: '🟩 <eco>DrySoil</eco>', link: '/reference/Eco/Soil/DrySoil' },
             { text: '🟩 <eco>GravelSoil</eco>', link: '/reference/Eco/Soil/GravelSoil' },
@@ -289,15 +277,14 @@ function sidebarReference() {
           ]
         },
         {
-          text: '🟩 <eco>Sun</eco>', collapsed: true, items: [
-            { text: '🟩 <eco>Overview</eco>', link: '/reference/Eco/Sun/Overview' },
+          text: '🟩 <eco>Sun</eco>',link: '/reference/Eco/Sun/Overview', collapsed: true, items: [
           ]
         },
       ]
     },
     // #Moto
     {
-      text: '🟠 <moto>Moto</moto>', collapsed: true, items: [
+      text: '🟠 <moto>Moto</moto>', link: '/reference/Moto/MotoOverview', collapsed: true, items: [
         { text: '🟠 <moto>Moto Overview</moto>', link: '/reference/Moto/MotoOverview' },
         { text: '🟠 <moto>Phrase</moto>', link: '/reference/Moto/Phrase/Overview' },
         { text: '🟠 <moto>Moto Difficulty</moto>', link: '/reference/Moto/MotoDifficulty' },
@@ -311,8 +298,7 @@ function sidebarReference() {
           ]
         },
         {
-          text: '🟠 <moto>ArmMoto</moto>', collapsed: true, items: [
-            { text: '🟠 <moto>ArmMoto Overview</moto>', link: '/reference/Moto/ArmMoto/Overview' },
+          text: '🟠 <moto>ArmMoto</moto>', link: '/reference/Moto/ArmMoto/Overview' , collapsed: true, items: [
             { text: '🟠 <moto>Arm Phrase</moto>', link: '/reference/Moto/ArmMoto/Phrase/Overview' },
             { text: '🟠 <moto>ArmBlock</moto>', link: '/reference/Moto/ArmMoto/ArmBlock' },
             { text: '🟠 <moto>ArmProp</moto>', link: '/reference/Moto/ArmMoto/ArmProp' },
@@ -322,8 +308,7 @@ function sidebarReference() {
           ]
         },
         {
-          text: '🟠 <moto>BodyMoto</moto>', collapsed: true, items: [
-            { text: '🟠 <moto>BodyMoto Overview</moto>', link: '/reference/Moto/BodyMoto/Overview' },
+          text: '🟠 <moto>BodyMoto</moto>',  link: '/reference/Moto/BodyMoto/Overview', collapsed: true, items: [
             { text: '🟠 <moto>Body Phrase</moto>', link: '/reference/Moto/BodyMoto/Phrase/Overview' },
             { text: '🟠 <moto>BodyAbsorb</moto>', link: '/reference/Moto/BodyMoto/BodyAbsorb' },
             { text: '🟠 <moto>BodyBend</moto>', link: '/reference/Moto/BodyMoto/BodyBend' },
@@ -335,8 +320,7 @@ function sidebarReference() {
           ]
         },
         {
-          text: '🟠 <moto>CacheMoto</moto>', collapsed: true, items: [
-            { text: '🟠 <moto>CacheMoto Overview</moto>', link: '/reference/Moto/CacheMoto/Overview' },
+          text: '🟠 <moto>CacheMoto</moto>', link: '/reference/Moto/CacheMoto/Overview', collapsed: true, items: [
             { text: '🟠 <moto>Cache Phrase</moto>', link: '/reference/Moto/CacheMoto/Phrase/Overview' },
             { text: '🟠 <moto>Eating</moto>', link: '/reference/Moto/CacheMoto/Eating' },
             { text: '🟠 <moto>TarpOff</moto>', link: '/reference/Moto/CacheMoto/TarpOff' },
@@ -344,8 +328,7 @@ function sidebarReference() {
           ]
         },
         {
-          text: '🟠 <moto>ClothingMoto</moto>', collapsed: true, items: [
-            { text: '🟠 <moto>ClothingMoto Overview</moto>', link: '/reference/Moto/ClothingMoto/Overview' },
+          text: '🟠 <moto>ClothingMoto</moto>', link: '/reference/Moto/ClothingMoto/Overview',  collapsed: true, items: [
             { text: '🟠 <moto>Clothing Phrase</moto>', link: '/reference/Moto/ClothingMoto/Phrase/Overview' },
             { text: '🟠 <moto>Button</moto>', link: '/reference/Moto/ClothingMoto/Button' },
             { text: '🟠 <moto>ClothingLayer</moto>', link: '/reference/Moto/ClothingMoto/ClothingLayer' },
@@ -355,8 +338,7 @@ function sidebarReference() {
           ]
         },
         {
-          text: '🟠 <moto>FootMoto</moto>', collapsed: true, items: [
-            { text: '🟠 <moto>FootMoto Overview</moto>', link: '/reference/Moto/FootMoto/Overview' },
+          text: '🟠 <moto>FootMoto</moto>', link: '/reference/Moto/FootMoto/Overview',collapsed: true, items: [
             { text: '🟠 <moto>Foot Phrase</moto>', link: '/reference/Moto/FootMoto/Phrase/Overview' },
             { text: '🟠 <moto>FootArchSmear</moto>', link: '/reference/Moto/FootMoto/FootArchSmear' },
             { text: '🟠 <moto>FootClose</moto>', link: '/reference/Moto/FootMoto/FootClose' },
@@ -370,8 +352,7 @@ function sidebarReference() {
           ]
         },
         {
-          text: '🟠 <moto>HandMoto</moto>', collapsed: true, items: [
-            { text: '🟠 <moto>HandMoto Overview</moto>', link: '/reference/Moto/HandMoto/Overview' },
+          text: '🟠 <moto>HandMoto</moto>', link: '/reference/Moto/HandMoto/Overview', collapsed: true, items: [
             { text: '🟠 <moto>Hand Phrase</moto>', link: '/reference/Moto/HandMoto/Phrase/Overview' },
             { text: '🟠 <moto>BagGrip</moto>', link: '/reference/Moto/HandMoto/BagGrip' },
             { text: '🟠 <moto>BoxGrip</moto>', link: '/reference/Moto/HandMoto/BoxGrip' },
@@ -388,8 +369,7 @@ function sidebarReference() {
           ]
         },
         {
-          text: '🟠 <moto>HeadMoto</moto>', collapsed: true, items: [
-            { text: '🟠 <moto>HeadMoto Overview</moto>', link: '/reference/Moto/HeadMoto/Overview' },
+          text: '🟠 <moto>HeadMoto</moto>',link: '/reference/Moto/HeadMoto/Overview' , collapsed: true, items: [
             { text: '🟠 <moto>Head Phrase</moto>', link: '/reference/Moto/HeadMoto/Phrase/Overview' },
             { text: '🟠 <moto>FocusLook</moto>', link: '/reference/Moto/HeadMoto/FocusLook' },
             { text: '🟠 <moto>HeadProtraction</moto>', link: '/reference/Moto/HeadMoto/HeadProtraction' },
@@ -401,8 +381,7 @@ function sidebarReference() {
           ]
         },
         {
-          text: '🟠 <moto>HoleMoto</moto>', collapsed: true, items: [
-            { text: '🟠 <moto>HoleMoto Overview</moto>', link: '/reference/Moto/HoleMoto/Overview' },
+          text: '🟠 <moto>HoleMoto</moto>',link: '/reference/Moto/HoleMoto/Overview', collapsed: true, items: [
             { text: '🟠 <moto>Hole Phrase</moto>', link: '/reference/Moto/HoleMoto/Phrase/Overview' },
             { text: '🟠 <moto>HoleClose</moto>', link: '/reference/Moto/HoleMoto/HoleClose' },
             { text: '🟠 <moto>HoleExpand</moto>', link: '/reference/Moto/HoleMoto/HoleExpand' },
@@ -410,8 +389,7 @@ function sidebarReference() {
           ]
         },
         {
-          text: '🟠 <moto>LegMoto</moto>', collapsed: true, items: [
-            { text: '🟠 <moto>LegMoto Overview</moto>', link: '/reference/Moto/LegMoto/Overview' },
+          text: '🟠 <moto>LegMoto</moto>',link: '/reference/Moto/LegMoto/Overview' , collapsed: true, items: [
             { text: '🟠 <moto>Leg Phrase</moto>', link: '/reference/Moto/LegMoto/Phrase/Overview' },
             { text: '🟠 <moto>Crouch</moto>', link: '/reference/Moto/LegMoto/Overview' },
             { text: '🟠 <moto>Jump</moto>', link: '/reference/Moto/LegMoto/Jump' },
@@ -430,8 +408,7 @@ function sidebarReference() {
           ]
         },
         {
-          text: '🟠 <moto>VegeMoto</moto>', collapsed: true, items: [
-            { text: '🟠 <moto>VegeMoto Overview</moto>', link: '/reference/Moto/VegeMoto/Overview' },
+          text: '🟠 <moto>VegeMoto</moto>', link: '/reference/Moto/VegeMoto/Overview', collapsed: true, items: [
             { text: '🟠 <moto>BranchArmDeflection</moto>', link: '/reference/Moto/VegeMoto/BranchArmDeflection' },
             { text: '🟠 <moto>BranchDeflection</moto>', link: '/reference/Moto/VegeMoto/BranchDeflection' },
             { text: '🟠 <moto>BranchMoto</moto>', link: '/reference/Moto/VegeMoto/BranchMoto' },
@@ -443,19 +420,16 @@ function sidebarReference() {
           ]
         },
         {
-          text: '🟠 <moto>Screef</moto>', collapsed: true, items: [
-            { text: '🟠 <moto>Screefing Overview</moto>', link: '/reference/Moto/Screef/Overview' },
+          text: '🟠 <moto>Screef</moto>', link: '/reference/Moto/Screef/Overview' , collapsed: true, items: [
             { text: '🟠 <moto>BootScreef</moto>', link: '/reference/Moto/ToolMoto/Boot/BootScreef' },
             { text: '🟠 <moto>HandScreef</moto>', link: '/reference/Moto/HandMoto/HandScreef' },
             { text: '🟠 <moto>SpadeScreef</moto>', link: '/reference/Moto/ToolMoto/Spade/SpadeScreef' },
           ]
         },
         {
-          text: '🟠 <moto>ToolMoto</moto>', collapsed: true, items: [
-            { text: '🟠 <moto>Tool Overview</moto>', link: '/reference/Moto/ToolMoto/Overview' },
+          text: '🟠 <moto>ToolMoto</moto>', link: '/reference/Moto/ToolMoto/Overview', collapsed: true, items: [
             {
-              text: '🟠 <moto>Bag</moto>', collapsed: true, items: [
-                { text: '🟠 <moto>Overview</moto>', link: '/reference/Moto/ToolMoto/Bag/Overview' },
+              text: '🟠 <moto>Bag</moto>', link: '/reference/Moto/ToolMoto/Bag/Overview' , collapsed: true, items: [
                 { text: '🟠 <moto>BagGrip</moto>', link: '/reference/Moto/ToolMoto/Bag/BagGrip' },
                 { text: '🔷 <moto>Bag Phrase</moto>', link: '/reference/Moto/ToolMoto/Bag/Phrase/Overview' },
                 { text: '🟠 <moto>BagAdjustment</moto>', link: '/reference/Moto/ToolMoto/Bag/BagAdjustment' },
