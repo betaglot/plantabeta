@@ -81,7 +81,7 @@ json = {
     ],
     "dev/DevOverview.md": [
         "Dev.Overview",
-        "Dev.PutPlant.SeedIdea",
+        "Dev.Put(Plant).SeedIdea",
         "Dev.Youtube"
     ],
     "dev/Downloads.md": [
@@ -670,15 +670,15 @@ json = {
     "guide/How/Science.md": [],
     "guide/What/GearList.md": [],
     "guide/What/WhatGear.md": [],
-    "guide/What/WhatPutPlant.md": [
+    "guide/What/WhatPut(Plant).md": [
         "Guide.GettingStarted",
         "Guide.What.WhatElement",
         "Guide.What.WhatElement.ElementName.Affix",
         "Guide.What.WhatElement.Euclid",
-        "Guide.What.WhatPutPlant",
-        "Guide.What.WhatPutPlant.PlanterQuestion",
-        "Guide.What.WhatPutPlant.Product",
-        "Guide.What.WhatPutPlant.Service"
+        "Guide.What.WhatPut(Plant)",
+        "Guide.What.WhatPut(Plant).PlanterQuestion",
+        "Guide.What.WhatPut(Plant).Product",
+        "Guide.What.WhatPut(Plant).Service"
     ],
     "guide/What/WhatTreePlanting.md": [
         "Guide.What.WhatTreePlanting"

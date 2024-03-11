@@ -17,12 +17,11 @@
 
 Moto/HoleMoto/HoleClose.md, <dev>Moto.HoleMoto.CloseHole</dev>, ![2936.jpg](/PaperPhoto/2936.jpg)
 Moto/HoleMoto/HoleClose.md, <dev>Moto.HoleMoto.CloseHole</dev>, ![2944.jpg](/PaperPhoto/2944.jpg)
-
 :::
 
 # 🟠 <moto>HoleClose</moto>
 
-![MotoEmoji](/Moto/Moto_Emoji.png)
+![MotoIcon](/Moto/Moto_Icon.png)
 
 ## Element Problem
 
@@ -44,15 +43,15 @@ Moto/HoleMoto/HoleClose.md, <dev>Moto.HoleMoto.CloseHole</dev>, ![2944.jpg](/Pap
 
 <div style="display: flex">
     <div>
-        <img style="margin: 5px" height="200" width="200" alt="Emoji" src="/Moto/Moto_Emoji.png"/>
+        <img style="margin: 5px" height="200" width="200" alt="Icon" src="/Moto/Moto_Icon.png"/>
         <p>Description of Moto Photo</p>
     </div>
     <div>
-        <img style="margin: 5px" height="200" width="200" alt="Emoji" src="/Moto/Moto_Emoji.png"/>
+        <img style="margin: 5px" height="200" width="200" alt="Icon" src="/Moto/Moto_Icon.png"/>
         <p>Description of Moto Photo</p>
     </div>
     <div>
-        <img style="margin: 5px" height="200" width="200" alt="Emoji" src="/Moto/Moto_Emoji.png"/>
+        <img style="margin: 5px" height="200" width="200" alt="Icon" src="/Moto/Moto_Icon.png"/>
         <p>Description of Moto Photo</p>
     </div>
 </div>
@@ -113,5 +112,4 @@ Links to other related motos. Related because they are the same MotoType or beca
 - One
 - Two
 - Three
-
 :::

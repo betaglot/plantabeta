@@ -173,7 +173,6 @@ Moto/MotoPhrase/Overview.md, <dev>Moto.MotoPhrase</dev>, ![3082.jpg](/PaperPhoto
 Moto/MotoPhrase/Overview.md, <dev>Moto.MotoPhrase</dev>, ![3097.jpg](/PaperPhoto/3097.jpg)
 Moto/MotoPhrase/Overview.md, <dev>Moto.MotoPhrase</dev>, ![3157.jpg](/PaperPhoto/3157.jpg)
 Moto/MotoPhrase/Overview.md, <dev>Moto.MotoPhrase</dev>, ![3227.jpg](/PaperPhoto/3227.jpg)
-
 :::
 
 # 🟠 <moto>Phrase Overview</moto>
@@ -182,15 +181,15 @@ Moto/MotoPhrase/Overview.md, <dev>Moto.MotoPhrase</dev>, ![3227.jpg](/PaperPhoto
 
 <div style="display: flex">
     <div>
-        <img style="margin: 5px" height="200" width="200" alt="Emoji" src="/Moto/Moto_Emoji.png"/>
+        <img style="margin: 5px" height="200" width="200" alt="Icon" src="/Moto/Moto_Icon.png"/>
         <p>Description of Moto Photo</p>
     </div>
     <div>
-        <img style="margin: 5px" height="200" width="200" alt="Emoji" src="/Moto/Moto_Emoji.png"/>
+        <img style="margin: 5px" height="200" width="200" alt="Icon" src="/Moto/Moto_Icon.png"/>
         <p>Description of Moto Photo</p>
     </div>
     <div>
-        <img style="margin: 5px" height="200" width="200" alt="Emoji" src="/Moto/Moto_Emoji.png"/>
+        <img style="margin: 5px" height="200" width="200" alt="Icon" src="/Moto/Moto_Icon.png"/>
         <p>Description of Moto Photo</p>
     </div>
 </div>

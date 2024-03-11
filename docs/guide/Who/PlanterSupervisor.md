@@ -21,18 +21,17 @@ guide/Who/PlanterSupervisor.md, <dev>Guide.Who.PlanterSupervisor</dev>, ![2957.j
 guide/Who/PlanterSupervisor.md, <dev>Guide.Who.PlanterSupervisor</dev>, ![2968.jpg](/PaperPhoto/2968.jpg)
 guide/Who/PlanterSupervisor.md, <dev>Guide.Who.PlanterRecruiter</dev>, ![3041.jpg](/PaperPhoto/3041.jpg)
 guide/Who/PlanterSupervisor.md, <dev>Guide.Who.PlanterSupervisor</dev>, ![3041.jpg](/PaperPhoto/3041.jpg)
-
 :::
 
 # Planter Supervisor
 
 > A person who manages a crew of Planters
 
-## Using PutPlant Before the Season
+## Using Put(Plant) Before the Season
 
-## Using PutPlant During the Season
+## Using Put(Plant) During the Season
 
-## Using PutPlant After the Season
+## Using Put(Plant) After the Season
 
 Supervisors need to traverse the exact same ground as planters
 

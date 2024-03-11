@@ -10,11 +10,10 @@
 `TagsToHeaders: False`
 ```
 
-
 - Obstruction
 - Subsurface Obstacle
 - LandLibrary_LandObstacle_SubsurfaceObstacle_MicrositeSound
-- LandLibrary_LandObstacle_SubsurfaceObstacle_RedRot												
+- LandLibrary_LandObstacle_SubsurfaceObstacle_RedRot
 - LandLibrary_LandObstacle_SubsurfaceObstacle_RockHit
 
 <h2>PageTags</h2>
@@ -27,7 +26,7 @@
 - "Eco.Obstacle.Overview"
 - "Eco.Obstacle.RockObstacle"
 - "Eco.Obstacle.StumpObstacle"
-- "Eco.Obstacle.WaterObstacle"						
+- "Eco.Obstacle.WaterObstacle"
 :::
 
 # 🟩  <eco>Obstacle Overview</eco>
@@ -39,9 +38,11 @@
 An object is only an obstacle if it hinders your Via.
 
 ### Obstacle for Planter
+
 - An object which prevents a you from moving along an optimal Via.
 
 ### Obstacle for Cows
+
 - An object which cows avoid stepping near.
 - Proctects the Seedling from Cows
 - Cows physically can step anywhere, but they choose not to. Comfort
@@ -59,6 +60,3 @@ Shield
 ProtectedPlanting is a more accurate name for obstacle planting.
 
 Protect is more semantically accurate then Obstacle.
-
-
-

@@ -10,8 +10,8 @@
 `TagsToHeaders: False`
 ```
 
-
 - Spatially complex
+
 <h2>PageTags</h2>
 
 - "Neuro.Alignment"
@@ -92,7 +92,6 @@ Neuro/SpatialCognition/Overview.md, <dev>Neuro.Alignment.Parallel</dev>, ![3121.
 Neuro/SpatialCognition/Overview.md, <dev>Neuro.Alignment.Perpendicular</dev>, ![3121.jpg](/PaperPhoto/3121.jpg)
 Neuro/SpatialCognition/Overview.md, <dev>Neuro.Chunking.Fraction</dev>, ![3139.jpg](/PaperPhoto/3139.jpg)
 Neuro/SpatialCognition/Overview.md, <dev>Neuro.Chunking.Fraction</dev>, ![3161.jpg](/PaperPhoto/3161.jpg)
-
 :::
 
 # 💜 <neuro>Spatial Cognition</neuro>
@@ -107,7 +106,7 @@ Neuro/SpatialCognition/Overview.md, <dev>Neuro.Chunking.Fraction</dev>, ![3161.j
 
 > What is the fastest way there?
 
-> 
+>
 
 ## Spatial Location
 
@@ -143,12 +142,9 @@ Mental representation of Eco to construct Via
 - RockOutcrop
 - Mature tree which is uncut.
 
-
-
 ### Via Planning
 
 ViaPlan vs. ActualVia
-
 
 ## <eco>EcoSpace</eco>
 
@@ -167,7 +163,3 @@ Wayfinding
 #### Walking
 
 When to slow down
-
-
-
-

@@ -34,7 +34,6 @@ guide/Why/Productivity.md, <dev>Guide.Why.Productivity</dev>, ![2946.jpg](/Paper
 guide/Why/Productivity.md, <dev>Guide.Why.Productivity</dev>, ![3056.jpg](/PaperPhoto/3056.jpg)
 guide/Why/Productivity.md, <dev>Guide.Why.Productivity.Efficiency</dev>, ![3124.jpg](/PaperPhoto/3124.jpg)
 guide/Why/Productivity.md, <dev>Guide.Why.Productivity.Efficiency</dev>, ![3157.jpg](/PaperPhoto/3157.jpg)
-
 :::
 
 # <via>Productivity</via>
@@ -62,10 +61,9 @@ A greater Planter efficiency leads to:
 - Effective Flagging
     - Flag which is more visible.
     - Lower Flag expense
-
 ::: danger Unteachable Character Traits
 
-A Planter can know everything about how to be a Planter, but still not plant to their maximum potential. This is because to be an elite Planter you must have character traits which can't be taught. Perhaps they can be cultivated by a sports psychologist, but this is currently outside the scope of PutPlant and the rest of the planting industry.  
+A Planter can know everything about how to be a Planter, but still not plant to their maximum potential. This is because to be an elite Planter you must have character traits which can't be taught. Perhaps they can be cultivated by a sports psychologist, but this is currently outside the scope of Put(Plant) and the rest of the planting industry.  
 
 Such traits include:
 
@@ -74,5 +72,4 @@ Such traits include:
 - Grit
 - Confidence
 - Drive  
-
 :::

@@ -18,12 +18,11 @@ Moto/LegMoto/LegProp.md, <dev>Moto.LegMoto.LegProp</dev>, ![1052.jpg](/PaperPhot
 Moto/LegMoto/LegProp.md, <dev>Moto.LegMoto.LegProp</dev>, ![1387.jpg](/PaperPhoto/1387.jpg)
 Moto/LegMoto/LegProp.md, <dev>Moto.LegMoto.LegProp</dev>, ![1752.jpg](/PaperPhoto/1752.jpg)
 Moto/LegMoto/LegProp.md, <dev>Moto.LegMoto.LegProp</dev>, ![2469.jpg](/PaperPhoto/2469.jpg)
-
 :::
 
 # 🟠 <moto>LegProp</moto>
 
-![MotoEmoji](/Moto/Moto_Emoji.png)
+![MotoIcon](/Moto/Moto_Icon.png)
 
 ## Element Problem
 
@@ -45,47 +44,52 @@ Moto/LegMoto/LegProp.md, <dev>Moto.LegMoto.LegProp</dev>, ![2469.jpg](/PaperPhot
 
 <div style="display: flex">
     <div>
-        <img style="margin: 5px" height="200" width="200" alt="Emoji" src="/Moto/Moto_Emoji.png"/>
+        <img style="margin: 5px" height="200" width="200" alt="Icon" src="/Moto/Moto_Icon.png"/>
         <p>Description of Moto Photo</p>
     </div>
     <div>
-        <img style="margin: 5px" height="200" width="200" alt="Emoji" src="/Moto/Moto_Emoji.png"/>
+        <img style="margin: 5px" height="200" width="200" alt="Icon" src="/Moto/Moto_Icon.png"/>
         <p>Description of Moto Photo</p>
     </div>
     <div>
-        <img style="margin: 5px" height="200" width="200" alt="Emoji" src="/Moto/Moto_Emoji.png"/>
+        <img style="margin: 5px" height="200" width="200" alt="Icon" src="/Moto/Moto_Icon.png"/>
         <p>Description of Moto Photo</p>
     </div>
 </div>
 
 ## Element Purpose
 
-- 
+-
 
 ## Element Properties
 
-- 
-
+-
 
 ## ElementRelationshipsGraph
 
-<iframe 
-    width="100%" 
-    height="684" 
+<iframe
+    width="100%"
+    height="684"
     frameborder="0"
     src="https://observablehq.com/embed/@d3/force-directed-graph/2?cells=chart"
 ></iframe>
 
 ## Related <moto>MotoElements</moto>
-- 
+
+-
 
 ## Related 🟩<eco>EcoElements</eco>
-- 
-## Related 🔻<via>ViaElements</via>
-- 
 
-## Related 💜<neuro>NeuroElements</neuro> 
+-
+
+## Related 🔻<via>ViaElements</via>
+
+-
+
+## Related 💜<neuro>NeuroElements</neuro>
+
 -  
+
 ## Quotes
 
 Quotes about this Moto
@@ -98,21 +102,15 @@ Quotes about this Moto
 
 ## Examples
 
-- Use Media donated by Planters. 
+- Use Media donated by Planters.
 
-
-
-Links to other related motos. Related because they are the same MotoType or because they are performed at the same time or within the same Phrase. 
+Links to other related motos. Related because they are the same MotoType or because they are performed at the same time or within the same Phrase.
 
 ## See also:
-
-
 
 ::: details External References
 
 - One
 - Two
 - Three
-
 :::
-

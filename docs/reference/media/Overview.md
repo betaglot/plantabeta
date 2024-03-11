@@ -15,7 +15,7 @@
 # Media Database
 
 ::: tip You can contribute!
-Find out how [you can submit](/dev/Contribute) your media, so it can be used to improve PutPlant.
+Find out how [you can submit](/dev/Contribute) your media, so it can be used to improve Put(Plant).
 :::
 
 ## 📷 Images

@@ -21,13 +21,11 @@ Moto/ArmMoto/ArmSwing.md, <dev>Moto.ArmMoto.ArmSwing</dev>, ![1824.jpg](/PaperPh
 Moto/ArmMoto/ArmSwing.md, <dev>Moto.ArmMoto.ArmSwing</dev>, ![2033.jpg](/PaperPhoto/2033.jpg)
 Moto/ArmMoto/ArmSwing.md, <dev>Moto.ArmMoto.ArmSwing</dev>, ![2948.jpg](/PaperPhoto/2948.jpg)
 Moto/ArmMoto/ArmSwing.md, <dev>Moto.ArmMoto.ArmSwing</dev>, ![3222.jpg](/PaperPhoto/3222.jpg)
-
-
 :::
 
 # 🟠 <moto>ArmSwing</moto>
 
-![MotoEmoji](/Moto/Moto_Emoji.png)
+![MotoIcon](/Moto/Moto_Icon.png)
 
 ## Element Problem
 
@@ -49,15 +47,15 @@ Moto/ArmMoto/ArmSwing.md, <dev>Moto.ArmMoto.ArmSwing</dev>, ![3222.jpg](/PaperPh
 
 <div style="display: flex">
     <div>
-        <img style="margin: 5px" height="200" width="200" alt="Emoji" src="/Moto/Moto_Emoji.png"/>
+        <img style="margin: 5px" height="200" width="200" alt="Icon" src="/Moto/Moto_Icon.png"/>
         <p>Description of Moto Photo</p>
     </div>
     <div>
-        <img style="margin: 5px" height="200" width="200" alt="Emoji" src="/Moto/Moto_Emoji.png"/>
+        <img style="margin: 5px" height="200" width="200" alt="Icon" src="/Moto/Moto_Icon.png"/>
         <p>Description of Moto Photo</p>
     </div>
     <div>
-        <img style="margin: 5px" height="200" width="200" alt="Emoji" src="/Moto/Moto_Emoji.png"/>
+        <img style="margin: 5px" height="200" width="200" alt="Icon" src="/Moto/Moto_Icon.png"/>
         <p>Description of Moto Photo</p>
     </div>
 </div>
@@ -118,5 +116,4 @@ Links to other related motos. Related because they are the same MotoType or beca
 - One
 - Two
 - Three
-
 :::

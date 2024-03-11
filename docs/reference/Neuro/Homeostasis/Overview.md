@@ -10,7 +10,6 @@
 `TagsToHeaders: False`
 ```
 
-
 - Planter_Brain_Homeostasis_BodyTemperature_Hyperthermia_HotWeather_FastLand_
 - Planter_Brain_Homeostasis_BodyTemperature_Hyperthermia_HotWeather_HeatStroke_
 - Planter_Brain_Homeostasis_BodyTemperature_Hypothermia_ColdWeather_Clothing_ClothingLayer_BaseLayer_
@@ -27,37 +26,34 @@
 ## HeatTransfer
 
 ### Conduction
+
 - WetGloves
+
 ### Radiation
 
 ### EvaporativeCooling
+
 #### PhaseChange
+
 - Sweating
 - WetClothes
 - WetGloves in the Wind
     - WaterproofGloves
 
-
-
-## Hot 
+## Hot
 
 - Hyperthermia
 - Sweating
+
 ## Cold
 
 - Hypothermia
 - ColdFingers
-
 :::
 
 # 💜 <neuro>Homeostasis </neuro>
 
-![NeuroEmoji](/Neuro/Neuro_Emoji.png)
-
-
-
-
-
+![NeuroIcon](/Neuro/Neuro_Icon.png)
 
 ## Element Problem
 
@@ -72,57 +68,54 @@
 ::: details Questions 1
 
 Answer 1
-
 :::
-
 ::: details Questions 2
 
 Answer 2
-
 :::
-
 ::: details Questions 3
 
 Answer 3
-
 :::
+
 ## Element Properties
 
-- 
+-
 
 ## ElementRelationshipsGraph
 
-<iframe 
-    width="100%" 
-    height="684" 
+<iframe
+    width="100%"
+    height="684"
     frameborder="0"
     src="https://observablehq.com/embed/@d3/force-directed-graph/2?cells=chart"
 ></iframe>
 
-## Related 💜<neuro>NeuroElements</neuro> 
+## Related 💜<neuro>NeuroElements</neuro>
 
 ## Related 🟠<moto>MotoElements</moto>
-- 
+
+-
+
 ## Related 🟩<eco>EcoElements</eco>
-- 
+
+-
+
 ## Related 🔻<via>ViaElements</via>
-- 
+
+-
 
 ## Examples
 
-- Use Media donated by Planters. 
+- Use Media donated by Planters.
 
 ## See also:
 
-Links to other related NeuroElements. 
-
-
+Links to other related NeuroElements.
 
 ::: details External References
 
 - One
 - Two
 - Three
-
 :::
-

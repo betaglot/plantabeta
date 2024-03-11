@@ -21,12 +21,11 @@ Moto/BodyMoto/Fall.md, <dev>Moto.BodyMoto.Fall</dev>, ![2966.jpg](/PaperPhoto/29
 Moto/BodyMoto/Fall.md, <dev>Moto.BodyMoto.Fall</dev>, ![3053.jpg](/PaperPhoto/3053.jpg)
 Moto/BodyMoto/Fall.md, <dev>Moto.BodyMoto.Fall</dev>, ![3227.jpg](/PaperPhoto/3227.jpg)
 
-
 :::
 
 # 🟠 <moto>PlanterFall</moto>
 
-![MotoEmoji](/Moto/Moto_Emoji.png)
+![MotoIcon](/Moto/Moto_Icon.png)
 
 ## Element Problem
 
@@ -48,15 +47,15 @@ Moto/BodyMoto/Fall.md, <dev>Moto.BodyMoto.Fall</dev>, ![3227.jpg](/PaperPhoto/32
 
 <div style="display: flex">
     <div>
-        <img style="margin: 5px" height="200" width="200" alt="Emoji" src="/Moto/Moto_Emoji.png"/>
+        <img style="margin: 5px" height="200" width="200" alt="Icon" src="/Moto/Moto_Icon.png"/>
         <p>Description of Moto Photo</p>
     </div>
     <div>
-        <img style="margin: 5px" height="200" width="200" alt="Emoji" src="/Moto/Moto_Emoji.png"/>
+        <img style="margin: 5px" height="200" width="200" alt="Icon" src="/Moto/Moto_Icon.png"/>
         <p>Description of Moto Photo</p>
     </div>
     <div>
-        <img style="margin: 5px" height="200" width="200" alt="Emoji" src="/Moto/Moto_Emoji.png"/>
+        <img style="margin: 5px" height="200" width="200" alt="Icon" src="/Moto/Moto_Icon.png"/>
         <p>Description of Moto Photo</p>
     </div>
 </div>
@@ -117,5 +116,4 @@ Links to other related motos. Related because they are the same MotoType or beca
 - One
 - Two
 - Three
-
 :::

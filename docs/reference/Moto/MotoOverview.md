@@ -541,12 +541,11 @@ Moto/MotoOverview.md, <dev>Moto.MotoProperties.MotoShape.TriangleMoto</dev>, ![9
 Moto/MotoOverview.md, <dev>Moto.MotoShape</dev>, ![90043.jpg](/PaperPhoto/90043.jpg)
 Moto/MotoOverview.md, <dev>Moto.MotoProperties.MotoPermutation</dev>, ![90044.jpg](/PaperPhoto/90044.jpg)
 Moto/MotoOverview.md, <dev>Moto.MotoSpace.Overview</dev>, ![90044.jpg](/PaperPhoto/90044.jpg)
-
 :::
 
 # 🟠 <moto>Moto Overview</moto>
 
-![Moto Emoji](/Moto/Moto_Emoji.png)
+![Moto Icon](/Moto/Moto_Icon.png)
 
 ## <moto>Moto Symbol</moto> 🟠
 
@@ -562,15 +561,11 @@ Moto/MotoOverview.md, <dev>Moto.MotoSpace.Overview</dev>, ![90044.jpg](/PaperPho
 
 No Acceleration
 
-[Stand]()
+Stand
 
 ### Dynamic Moto
 
 Acceleration
-
-### Moto Tree
-
-<img width="300" height="300" src="/Placeholder_Tree.png" />
 
 - ### Swing
 

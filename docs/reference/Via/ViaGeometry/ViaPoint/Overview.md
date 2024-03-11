@@ -122,7 +122,6 @@ Via/ViaPoint/Overview.md, <dev>Via.ViaGeometry.ViaPoint.Overview</dev>, ![90042.
 Via/ViaPoint/Overview.md, <dev>Via.ViaGeometry.ViaPoint.VertexPoint</dev>, ![90044.jpg](/PaperPhoto/90044.jpg)
 Via/ViaPoint/Overview.md, <dev>Via.ViaGeometry.ViaPoint.ViaConvergencePoint</dev>, ![90044.jpg](/PaperPhoto/90044.jpg)
 Via/ViaPoint/Overview.md, <dev>Via.ViaGeometry.ViaPoint.ViaDivergencePoint</dev>, ![90044.jpg](/PaperPhoto/90044.jpg)
-
 :::
 
 # 🔻 <via>Via Point Overview</via>

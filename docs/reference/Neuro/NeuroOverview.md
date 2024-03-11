@@ -10,9 +10,9 @@
 `TagsToHeaders: False`
 ```
 
-
 ## Danger
-> It is easy to get lost in neuroscience, but always try to minimize the amount of technical knowledge and only present neuroscience in the context of PutPlant. Every section needs to directly link back to a planter's experience and not a person's experience in general.
+>
+> It is easy to get lost in neuroscience, but always try to minimize the amount of technical knowledge and only present neuroscience in the context of Put(Plant). Every section needs to directly link back to a planter's experience and not a person's experience in general.
 
 <h2>PageTags</h2>
 
@@ -124,13 +124,14 @@ Neuro/NeuroOverview.md, <dev>Neuro.CognitiveEase.Good</dev>, ![3171.jpg](/PaperP
 Neuro/NeuroOverview.md, <dev>Neuro.CognitiveEase.Priming</dev>, ![3171.jpg](/PaperPhoto/3171.jpg)
 Neuro/NeuroOverview.md, <dev>Neuro.CognitiveEase.Repetition</dev>, ![3171.jpg](/PaperPhoto/3171.jpg)
 Neuro/NeuroOverview.md, <dev>Neuro.Overview</dev>, ![3276.jpg](/PaperPhoto/3276.jpg)
-
 :::
 
 # 💜 <neuro>Neuro Overview </neuro>
-![](/Neuro/Neuro_Emoji.png)
+
+![NeuroIcon](/Neuro/Neuro_Icon.png)
 
 ## <neuro>Neuro Symbol</neuro> 💜
+>
 > Violet Heart
 
 ## What is a Neuro?
@@ -141,7 +142,6 @@ Short for Neuroscience
 - Cognitive Neuroscience
 - Neuropsychology
 - Sensory Neuroscience
-
 
 ## Neuro Elements
 
@@ -156,6 +156,3 @@ Short for Neuroscience
 - Equanimity
 - 1st Person Experience
 - Suffering
-
-
-

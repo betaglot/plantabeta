@@ -2,6 +2,7 @@
 
 ## DevNotes
 
+- Use Code snippets to write abbreviated names to insert Tags or ElementName
 -
 
 ## DevState
@@ -424,6 +425,13 @@ There shouldn't be a node called overview, so use the name in the sidebar, not t
 ></iframe>
 
 ## Element Value Change
+
+::: details Observable Temporal Force Directed Graph
+
+<iframe width="100%" height="500" frameborder="0"
+  src="https://observablehq.com/embed/@d3/temporal-force-directed-graph?cell=*"></iframe>
+
+:::
 
 ```md
 Value Addition // [!code ++]
@@ -937,6 +945,8 @@ MotoState
 ---
 
 ## Timeline
+
+- Use Code snippets to write abbreviated names to insert Tags or ElementName
 
 ---
 

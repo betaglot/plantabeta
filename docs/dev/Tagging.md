@@ -2,14 +2,13 @@
 
 ## DevNotes
 
--
+- Use Code snippets to write abbreviated names to insert Tags or ElementName
 
 ## DevState
 
 ```py
 `TagsToHeaders: False`
 ```
-
 
 ![PaperPhoto](/PaperPhoto/0019.jpg)
 <h2>PageTags</h2>

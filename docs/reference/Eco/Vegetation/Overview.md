@@ -15,7 +15,6 @@
 - "Eco.PlantIdentification"
 - "Eco.Vegetation.Fireweed"
 - "Eco.Vegetation.ResidualPatch"
-
 :::
 
 # 🟩  <eco>Vegetation</eco>

@@ -29,7 +29,7 @@ Maintain your tools to ensure that they last as long a possible and to maintain 
 
 ### Glueing
 
-    - Covering in Holes
+- Covering in Holes
 
 ### Taping
 

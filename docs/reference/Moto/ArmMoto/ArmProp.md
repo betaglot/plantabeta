@@ -1,7 +1,6 @@
 ---
 pageClass: moto-page
 ---
-
 ::: details 🛠 <dev>DesignBox</dev>
 
 ## DevNotes
@@ -21,13 +20,11 @@ pageClass: moto-page
 Moto/ArmMoto/ArmProp.md, <dev>Moto.ArmMoto.ArmProp</dev>, ![1052.jpg](/PaperPhoto/1052.jpg)
 Moto/ArmMoto/ArmProp.md, <dev>Moto.ArmMoto.ArmProp</dev>, ![2278.jpg](/PaperPhoto/2278.jpg)
 Moto/ArmMoto/ArmProp.md, <dev>Moto.ArmMoto.ArmProp</dev>, ![2469.jpg](/PaperPhoto/2469.jpg)
-
-
 :::
 
 # 🟠 <moto>ArmProp</moto>
 
-![MotoEmoji](/Moto/Moto_Emoji.png)
+![MotoIcon](/Moto/Moto_Icon.png)
 
 ## Element Problem
 
@@ -49,15 +46,15 @@ Moto/ArmMoto/ArmProp.md, <dev>Moto.ArmMoto.ArmProp</dev>, ![2469.jpg](/PaperPhot
 
 <div style="display: flex">
     <div>
-        <img style="margin: 5px" height="200" width="200" alt="Emoji" src="/Moto/Moto_Emoji.png"/>
+        <img style="margin: 5px" height="200" width="200" alt="Icon" src="/Moto/Moto_Icon.png"/>
         <p>Description of Moto Photo</p>
     </div>
     <div>
-        <img style="margin: 5px" height="200" width="200" alt="Emoji" src="/Moto/Moto_Emoji.png"/>
+        <img style="margin: 5px" height="200" width="200" alt="Icon" src="/Moto/Moto_Icon.png"/>
         <p>Description of Moto Photo</p>
     </div>
     <div>
-        <img style="margin: 5px" height="200" width="200" alt="Emoji" src="/Moto/Moto_Emoji.png"/>
+        <img style="margin: 5px" height="200" width="200" alt="Icon" src="/Moto/Moto_Icon.png"/>
         <p>Description of Moto Photo</p>
     </div>
 </div>
@@ -118,5 +115,4 @@ Links to other related motos. Related because they are the same MotoType or beca
 - One
 - Two
 - Three
-
 :::

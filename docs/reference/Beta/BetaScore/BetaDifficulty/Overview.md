@@ -116,7 +116,6 @@ Beta/BetaDifficulty/Overview, <dev>Dev.Difficulty.DifficultyComparison</dev>, ![
 Beta/BetaDifficulty/Overview, <dev>Beta.BetaDifficulty.BetaRisk</dev>, ![90097.png](/PaperPhoto/90097.png)
 Beta/BetaDifficulty/Overview, <dev>Dev.Difficulty.Risk</dev>, ![90097.png](/PaperPhoto/90097.png)
 
-
 :::
 
 # 🔷 <beta>Beta Difficulty Overview</beta>

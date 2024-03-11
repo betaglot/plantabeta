@@ -20,7 +20,6 @@ Neuro/Emotion/Overview.md, <dev>Neuro.Emotion</dev>, ![2573.jpg](/PaperPhoto/257
 Neuro/Emotion/Overview.md, <dev>Neuro.Emotion</dev>, ![2858.jpg](/PaperPhoto/2858.jpg)
 Neuro/Emotion/Overview.md, <dev>Neuro.Emotion</dev>, ![2881.jpg](/PaperPhoto/2881.jpg)
 Neuro/Emotion/Overview.md, <dev>Neuro.Emotion</dev>, ![2882.jpg](/PaperPhoto/2882.jpg)
-
 :::
 
 # 💜 <neuro>Emotion Overview </neuro>

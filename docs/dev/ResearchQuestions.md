@@ -214,7 +214,7 @@ dev/ResearchQuestions.md, <dev>Dev.Interdisciplinary.Soccer</dev>, ![90015.jpg](
 
 :::
 
-# 🛠 Questions about Planting and PutPlant
+# 🛠 Questions about Planting and Put(Plant)
 
 - What is the most important piece of information that a Planter needs to know?
 - What is the slowest part of a PlantingPhrase?

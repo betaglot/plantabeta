@@ -18,7 +18,6 @@
 
 Moto/FootMoto/FootPhrase.md, <dev>Moto.FootMoto.FootSwap</dev>, ![1796.jpg](/PaperPhoto/1796.jpg)
 
-
 :::
 
 # 🔷 <moto>Foot Phrase</moto>

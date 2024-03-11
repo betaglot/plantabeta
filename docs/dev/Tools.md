@@ -2,7 +2,9 @@
 
 ## DevNotes
 
--
+- What could be planted to suppress fire like a firebreak or something. Planted just before
+
+Planting Bags used all year round are no longer called planting bags. `(Silvicolum)Latin = "Inhabitor of woods"`
 
 ## DevState
 
@@ -66,35 +68,43 @@ dev/Tools.md, <dev>Dev.ToolDiagram.BagsDiagram</dev>, ![3076.jpg](/PaperPhoto/30
 ![TreePlanter](/TreePlanter001.jpg)
 ![TreePlanter](/TreePlanter.jpg)
 
-## <moto>Cart</moto>
+## 🟠<moto>Cart</moto>
 
 - WalkIn
 - BoxMoto
 
-## <moto>Planter Bags</moto>
+## 🟠<moto>Planter Bags</moto>
 
 ### 'Basket' instead of 'Sidebags'
 
 `Analogy{Saddle: PlanterBag}`
 
-### <moto>Bag Material</moto>
+### 🟠<moto>Bag Material</moto>
 
 - Not plastic
 - Carbon Fiber
 -
 
-### <moto>Corset</moto>
+### 🟠<moto>Corset</moto>
 
 - Planters wear a corset under their waist belt like a saddle pad
 - Corset restricts BendOver
 
-### <moto>Waistbelt</moto>
+### 🟠<moto>Waistbelt</moto>
 
 - Suspension System
 
-### <moto>BasketWall</moto>
+### 🟠<moto>BasketWall</moto>
 
-### <moto>BagFrame</moto>
+### 🟠<moto>BagFrame</moto>
+
+Silva
+
+BagFrame which can attach
+
+Bags detach with gap junction
+
+Swap out Baskets for Tray or even just Belt for large trees or something large.
 
 ::: details Images
 
@@ -114,7 +124,7 @@ Make cardboard prototype.
 
 "Lay up"
 
-### <moto>BagSkeleton</moto>
+### 🟠<moto>BagSkeleton</moto>
 
 Pannier
 
@@ -122,12 +132,12 @@ Pannier
 - To keep sidebags from rubbing on legs.
 - Suspension system
 
-### <moto>BackBag Flap</moto>
+### 🟠<moto>BackBag Flap</moto>
 
 - Use waterproof Flap instead of sphincter design, since sphincter allows water to collect and slowly seep into backbag.
 - Pocket on underside of Flap
 
-## <via>Flag</via>
+## 🔻<via>Flag</via>
 
 - Paper
 - Conformable
@@ -140,7 +150,7 @@ Pannier
 Stick them together with honey like cheap bookbinding
 Wax to waterproof
 
-## <moto>Vambrace</moto>
+## 🟩<moto>Vambrace</moto>
 
 ::: tip AlsoKnownAs
 Bracer, Gauntlet,
@@ -163,7 +173,7 @@ The goal of vambrace is to keep the hand clean and warm. There isn't a need to p
 
 ### Lightyear Notepad
 
-### <eco>Warmth</eco>
+### 🟩<eco>Warmth</eco>
 
 - Vambrace triplet brochure conductive metal sheets to wear on core then transfer to forearms
     - Extra weight for more heat during cold weather
@@ -171,17 +181,17 @@ The goal of vambrace is to keep the hand clean and warm. There isn't a need to p
 - You only need to worry about the back of your hands. Glabrous warms the palm
 - Wool lining
 
-### <moto>Flagger</moto>
+### 🟠<moto>Flagger</moto>
 
 Ideally there would be a Flagger on each Vambrace
 
-## <moto>Rope</moto>
+## 🟠<moto>Rope</moto>
 
-### <via>PlotCord</via>
+### 🟠<via>PlotCord</via>
 
-### <eco>Lashing SummerCache</eco>
+### 🟠<eco>Lashing SummerCache</eco>
 
-## <moto>Glove</moto>
+## 🟠<moto>Glove</moto>
 
 - SplitMitt Shell
     - Easier to repair
@@ -198,13 +208,13 @@ Ideally there would be a Flagger on each Vambrace
 - Glove which does not collect dirt unlike the knitted gloves currently used by most planters
 - Easily taken off without getting dirt inside
 
-### <moto>Abrasion Resistant Material</moto>
+### 🟠<moto>Abrasion Resistant Material</moto>
 
 Cordura or Kevlar
 
 - <https://www.testextextile.com/evaluating-the-abrasion-resistance-of-different-fabric-types/#Most_Abrasion-Resistant_Synthetic_Fibers>
 
-## <moto>Kit</moto>
+## 🟠<moto>Kit</moto>
 
 Bag cover cape
 

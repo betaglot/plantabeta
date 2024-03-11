@@ -15,12 +15,11 @@
 - "Moto.LegMoto.Stomp"
 
 Moto/LegMoto/Stomp.md, <dev>Moto.LegMoto.Stomp</dev>, ![2450.jpg](/PaperPhoto/2450.jpg)
-
 :::
 
 # 🟠 <moto>Stomp</moto>
 
-![MotoEmoji](/Moto/Moto_Emoji.png)
+![MotoIcon](/Moto/Moto_Icon.png)
 
 ## Element Problem
 
@@ -42,15 +41,15 @@ Moto/LegMoto/Stomp.md, <dev>Moto.LegMoto.Stomp</dev>, ![2450.jpg](/PaperPhoto/24
 
 <div style="display: flex">
     <div>
-        <img style="margin: 5px" height="200" width="200" alt="Emoji" src="/Moto/Moto_Emoji.png"/>
+        <img style="margin: 5px" height="200" width="200" alt="Icon" src="/Moto/Moto_Icon.png"/>
         <p>Description of Moto Photo</p>
     </div>
     <div>
-        <img style="margin: 5px" height="200" width="200" alt="Emoji" src="/Moto/Moto_Emoji.png"/>
+        <img style="margin: 5px" height="200" width="200" alt="Icon" src="/Moto/Moto_Icon.png"/>
         <p>Description of Moto Photo</p>
     </div>
     <div>
-        <img style="margin: 5px" height="200" width="200" alt="Emoji" src="/Moto/Moto_Emoji.png"/>
+        <img style="margin: 5px" height="200" width="200" alt="Icon" src="/Moto/Moto_Icon.png"/>
         <p>Description of Moto Photo</p>
     </div>
 </div>
@@ -111,5 +110,4 @@ Links to other related motos. Related because they are the same MotoType or beca
 - One
 - Two
 - Three
-
 :::

@@ -10,7 +10,6 @@
 `TagsToHeaders: False`
 ```
 
-
 Scaffold
 Give a place to start
 <h2>PageTags</h2>
@@ -27,8 +26,8 @@ Give a place to start
 
 Novice Planters ALWAYS Google "How to Plant trees?" before starting the season. Why? To educate themselves as much as possible before starting work, because they know that the more knowledge they have about planting the more money they will make.
 
-## Using PutPlant Before the Season
+## Using Put(Plant) Before the Season
 
-## Using PutPlant During the Season
+## Using Put(Plant) During the Season
 
-## Using PutPlant After the Season
+## Using Put(Plant) After the Season

@@ -34,7 +34,7 @@ Block Start
 
 ## RoadCache
 
-![EcoEmoji](/Eco/Eco_Emoji.png)
+![EcoIcon](/Eco/Eco_Icon.png)
 
 ## Element Problem
 
@@ -49,19 +49,14 @@ Block Start
 ::: details Questions 1
 
 Answer 1
-
 :::
-
 ::: details Questions 2
 
 Answer 2
-
 :::
-
 ::: details Questions 3
 
 Answer 3
-
 :::
 
 ## Element Properties
@@ -79,10 +74,9 @@ Answer 3
 ::: details How to use Elements Graph?
 Hover:
 Select:
-
 :::
 
-Graph which represents how this element is related to other elements in PutPlant.
+Graph which represents how this element is related to other elements in Put(Plant).
 🛠 The Element Relationships Chart is still [under development](/dev/ElementsGraph)
 
 <iframe
@@ -113,11 +107,9 @@ Quotes about this Element
 ## See also
 
 Links to other related EcoElements. Related because they are the same EcoType or because they are performed at the same time or within the same Phrase.
-
 ::: details External References
 
 - One
 - Two
 - Three
-
 :::

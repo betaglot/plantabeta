@@ -103,7 +103,17 @@ dev/Graphics/ViaGraphic.md, <dev>Via.ViaDiagram.Overview</dev>, ![90019.jpg](/Pa
 
 # 🛠 Via Graphics
 
+## Density Report
+
+Another way to visualize
+
+Visualize a screenshot
+
+AI to overlay Screenshot with Voronoi Diagram
+
 ## Voronoi Diagram
+
+[D3 closest neighbor and Voronoi edges](https://d3js.org/d3-delaunay/voronoi#voronoi_neighbors)
 
 ### <moto>MotoVoronoi</moto>
 

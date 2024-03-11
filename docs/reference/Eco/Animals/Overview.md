@@ -10,7 +10,6 @@
 `TagsToHeaders: False`
 ```
 
-
 - AnimalWildlifeLibrary_Badger_EncounterFrequency_ToDo_GetStatistic_
 - AnimalWildlifeLibrary_Bear_BlackBear_EncounterFrequency_ToDo_GetStatistic
 - AnimalWildlifeLibrary_Bear_GrizzlyBear_EncounterFrequency_ToDo_GetStatistic
@@ -25,7 +24,6 @@
 - AnimalWildlifeLibrary_Wolf_WolfPack_PlantingLocation_ToDo_GetFact
 - AnimalWildlifeLibrary_Worm_WildlifeInjury_SpadeMotoment_Decapatation
 - Ant
-
 :::
 
 # 🟩 <eco>Animals Overview</eco>

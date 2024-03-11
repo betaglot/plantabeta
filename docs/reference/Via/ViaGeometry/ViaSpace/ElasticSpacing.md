@@ -14,7 +14,7 @@
 
 # 🔻 <via>ElasticSpacing</via>
 
-![ViaEmoji](/Via/Via_Emoji.png)
+![ViaIcon](/Via/Via_Icon.png)
 
 ## Element Purpose
 
@@ -26,7 +26,7 @@
 
 ## ElementRelationshipsGraph
 
-Graph which represents how this element is related to other elements in PutPlant.
+Graph which represents how this element is related to other elements in Put(Plant).
 <iframe
     width="100%"
     height="684"

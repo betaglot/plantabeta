@@ -23,13 +23,30 @@ dev/Roadmap.md, <dev>Dev.Roadmap</dev>, ![3048.jpg](/PaperPhoto/3048.jpg)
 
 > A *Roadmap* is
 
-Vertical Timeline
+- An outline of strategic goals for a team, department or company
+- Tasks, processes and initiatives for cross-functional teams
+- An estimated timeline for milestones and goals
+- Forecasts for business initiatives, such as marketing goals, new products or revenue growth
 
-Tree View
+### Vuetify Roadmap
+
+- <https://vuetifyjs.com/en/introduction/roadmap/>
+
+### Mozilla Roadmapping
+
+- <https://mozillascience.github.io/working-open-workshop/roadmapping/>
+
+### Indeed Roadmapping
+
+- <https://www.indeed.com/career-advice/career-development/business-roadmaps>
+
+### Reference Class Forecasting
+
+Use Reference Class Forecasting to set realistic goals by comparing Put(Plant) with
 
 ## Future Developments
 
-One purpose of PutPlant is to act as a resource for designers and researchers.
+One purpose of Put(Plant) is to act as a resource for designers and researchers.
 
 To [Reforest](https://www.lasy.gov.pl/en/information/news/a-forest-is-much-more-than-a-plantation) the Eco destroyed by wildfires in Canada and across the world.
 
@@ -39,55 +56,65 @@ To [Reforest](https://www.lasy.gov.pl/en/information/news/a-forest-is-much-more-
 
 ## Tutorial
 
-### Materials Science
+## Tools
 
-- Flagger
-
-### Biology
-
-- Testing Hypothesis
--
+Test [novel planter tools](dev/Tools)
 
 ### Psychology
 
 - Testing Hypothesis
-- Apply [Thinking Fast And Slow]() by Daniel Kahneman
+- Apply <u>Thinking Fast And Slow</u> by Daniel Kahneman
 
 ### Climbing
 
-- Klimbeta + PutPlant
+- Klimbeta + Put(Plant)
 
 ## Future Features
 
 - 3D models of the Elements.
 
-### Polyglot
+## Polyglot Documentation
 
 ### French
+
+- Quebecois
 
 ### German
 
 ### Spanish
 
+- For the Americas
+
 ### Portugese
+
+- For Brazil
 
 ## Future of Planting
 
-### Residential Planting
+### Urban Planting
 
-Via line equals street
+Probably more shrubs than trees
+
+Eco is Street
+
 Promotional video
 
 LawnScreef
 
-Trees are not meant to be loners
+Trees are not meant to be loners. Buttress Tree
+
+### Suburban Planting
 
 ### More planting BurntLand
+
+Planting to prevent soil erosion of BurntLand
 
 ### More Raw
 
 - More RawLand less Clearcutting
 - More Slash
+
+Heterogeneous Plantations, ie not just trees to slow the advance of fire.
 
 It would be better for the earth if planting was more difficult.
 

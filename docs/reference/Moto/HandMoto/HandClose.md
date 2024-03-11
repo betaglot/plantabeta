@@ -18,7 +18,6 @@
 
 Moto/HandMoto/HandClose.md, <dev>Moto.HandMoto.HandClose.HammerClose</dev>, ![3160.jpg](/PaperPhoto/3160.jpg)
 Moto/HandMoto/HandClose.md, <dev>Moto.HandMoto.HandClose.PunchClose</dev>, ![3160.jpg](/PaperPhoto/3160.jpg)
-
 :::
 
 # 🟠 <moto>HandClose</moto>
@@ -52,15 +51,15 @@ Moto/HandMoto/HandClose.md, <dev>Moto.HandMoto.HandClose.PunchClose</dev>, ![316
 
 <div style="display: flex">
     <div>
-        <img style="margin: 5px" height="200" width="200" alt="Emoji" src="/Moto/Moto_Emoji.png"/>
+        <img style="margin: 5px" height="200" width="200" alt="Icon" src="/Moto/Moto_Icon.png"/>
         <p>Description of Moto Photo</p>
     </div>
     <div>
-        <img style="margin: 5px" height="200" width="200" alt="Emoji" src="/Moto/Moto_Emoji.png"/>
+        <img style="margin: 5px" height="200" width="200" alt="Icon" src="/Moto/Moto_Icon.png"/>
         <p>Description of Moto Photo</p>
     </div>
     <div>
-        <img style="margin: 5px" height="200" width="200" alt="Emoji" src="/Moto/Moto_Emoji.png"/>
+        <img style="margin: 5px" height="200" width="200" alt="Icon" src="/Moto/Moto_Icon.png"/>
         <p>Description of Moto Photo</p>
     </div>
 
@@ -122,5 +121,4 @@ Links to other related motos. Related because they are the same MotoType or beca
 - One
 - Two
 - Three
-
 :::

@@ -28,7 +28,7 @@
 
 ## SlashPileFlag
 
-![ViaEmoji](/Via/Via_Emoji.png)
+![ViaIcon](/Via/Via_Icon.png)
 
 ## Element Problem
 
@@ -43,19 +43,14 @@
 ::: details Questions 1
 
 Answer 1
-
 :::
-
 ::: details Questions 2
 
 Answer 2
-
 :::
-
 ::: details Questions 3
 
 Answer 3
-
 :::
 
 ## Element Purpose
@@ -92,11 +87,9 @@ Answer 3
 ## Related <via>ViaElements</via>
 
 Links to other related ViaElements.
-
 ::: details External References
 
 - One
 - Two
 - Three
-
 :::

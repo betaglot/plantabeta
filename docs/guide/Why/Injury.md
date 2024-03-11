@@ -9,6 +9,7 @@
 ```py
 `TagsToHeaders: False`
 ```
+
 <h2>PageTags</h2>
 
 - "Guide.Why.Injury"
@@ -24,7 +25,6 @@ guide/Why/Injury.md, <dev>Guide.Why.Injury</dev>, ![3048.jpg](/PaperPhoto/3048.j
 guide/Why/Injury.md, <dev>Guide.Why.Injury</dev>, ![3060.jpg](/PaperPhoto/3060.jpg)
 guide/Why/Injury.md, <dev>Guide.Why.Injury.ValgusKnee</dev>, ![3060.jpg](/PaperPhoto/3060.jpg)
 guide/Why/Injury.md, <dev>Moto.Ambidexterity</dev>, ![3083.jpg](/PaperPhoto/3083.jpg)
-
 :::
 
 # Prevent Needless Injury
@@ -33,7 +33,7 @@ guide/Why/Injury.md, <dev>Moto.Ambidexterity</dev>, ![3083.jpg](/PaperPhoto/3083
 
 ## Choose Safer Alternatives
 
-Planters can get injured when they don't adapt motos to the specific situation. PutPlant gives many options to adapt motos for any situation.
+Planters can get injured when they don't adapt motos to the specific situation. Put(Plant) gives many options to adapt motos for any situation.
 
 Some Planters only know how to [HandClose](/reference/Moto/HandMoto/HandClose) one way, but there are many different ways. Even slightly varying a motos can reduce repetitive strain injuries.
 
@@ -48,10 +48,9 @@ Injury can occur in Planters when they perform the same moto repeatedly.
 
 ## Reduces Injuries from Falling
 
-PutPlant teaches Planters how to move through their [Eco](/reference/Eco/EcoOverview) safely.
+Put(Plant) teaches Planters how to move through their [Eco](/reference/Eco/EcoOverview) safely.
 
-Falling is a large part of Climbing. PutPlant transfers the knowledge of how to fall safely from climbing to Planting.
-
+Falling is a large part of Climbing. Put(Plant) transfers the knowledge of how to fall safely from climbing to Planting.
 ::: tip Some of the Motos used to safely Fall
 
 - [BodyAbsorb](/reference/Moto/BodyMoto/BodyAbsorb)
@@ -71,5 +70,5 @@ Planters kick To remove the layer of organic material off an intended microsite.
 
 A greater knowledge of possible alternative motos can prevent Christmas Toe from ever occuring.
 
-- [SpadeScreef](/reference/ToolMoto/SpadeMoto/SpadeScreef) instead of only [FootScreef]()
-- [HandClose]() instead of only [FootClose]()
+- [SpadeScreef](/reference/ToolMoto/SpadeMoto/SpadeScreef) instead of only [FootScreef](/reference/Moto/FootMoto/FootScreef)
+- [HandClose](/reference/Moto/HandMoto/HandClose) instead of only [FootClose](/reference/Moto/FootMoto/FootClose)

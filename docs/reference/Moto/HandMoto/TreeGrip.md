@@ -20,12 +20,11 @@ Moto/HandMoto/TreeGrip.md, <dev>Moto.HandMoto.TreeFlip</dev>, ![1859.jpg](/Paper
 Moto/HandMoto/TreeGrip.md, <dev>Moto.HandMoto.TreeFlip</dev>, ![2944.jpg](/PaperPhoto/2944.jpg)
 Moto/HandMoto/TreeGrip.md, <dev>Moto.HandMoto.TreeGrip</dev>, ![2944.jpg](/PaperPhoto/2944.jpg)
 Moto/HandMoto/TreeGrip.md, <dev>Moto.HandMoto.TreeGrip</dev>, ![2954.jpg](/PaperPhoto/2954.jpg)
-
 :::
 
 # 🟠 <moto>TreeGrip</moto>
 
-![MotoEmoji](/Moto/Moto_Emoji.png)
+![MotoIcon](/Moto/Moto_Icon.png)
 
 ## TreeGrip Purpose
 
@@ -60,15 +59,15 @@ Moto/HandMoto/TreeGrip.md, <dev>Moto.HandMoto.TreeGrip</dev>, ![2954.jpg](/Paper
 
 <div style="display: flex">
     <div>
-        <img style="margin: 5px" height="200" width="200" alt="Emoji" src="/Moto/Moto_Emoji.png"/>
+        <img style="margin: 5px" height="200" width="200" alt="Icon" src="/Moto/Moto_Icon.png"/>
         <p>Description of Moto Photo</p>
     </div>
     <div>
-        <img style="margin: 5px" height="200" width="200" alt="Emoji" src="/Moto/Moto_Emoji.png"/>
+        <img style="margin: 5px" height="200" width="200" alt="Icon" src="/Moto/Moto_Icon.png"/>
         <p>Description of Moto Photo</p>
     </div>
     <div>
-        <img style="margin: 5px" height="200" width="200" alt="Emoji" src="/Moto/Moto_Emoji.png"/>
+        <img style="margin: 5px" height="200" width="200" alt="Icon" src="/Moto/Moto_Icon.png"/>
         <p>Description of Moto Photo</p>
     </div>
 </div>
@@ -79,30 +78,18 @@ Moto/HandMoto/TreeGrip.md, <dev>Moto.HandMoto.TreeGrip</dev>, ![2954.jpg](/Paper
 
 <div style="display: flex">
     <div>
-        <img style="margin: 5px" height="200" width="200" alt="Emoji" src="/Moto/Moto_Emoji.png"/>
+        <img style="margin: 5px" height="200" width="200" alt="Icon" src="/Moto/Moto_Icon.png"/>
         <p>Description of Moto Photo</p>
     </div>
     <div>
-        <img style="margin: 5px" height="200" width="200" alt="Emoji" src="/Moto/Moto_Emoji.png"/>
+        <img style="margin: 5px" height="200" width="200" alt="Icon" src="/Moto/Moto_Icon.png"/>
         <p>Description of Moto Photo</p>
     </div>
     <div>
-        <img style="margin: 5px" height="200" width="200" alt="Emoji" src="/Moto/Moto_Emoji.png"/>
+        <img style="margin: 5px" height="200" width="200" alt="Icon" src="/Moto/Moto_Icon.png"/>
         <p>Description of Moto Photo</p>
     </div>
 </div>
-
-### Submotos
-
-- FingerCurl
-- FingerUncurl
-- Finger
-
-### Supermoto
-
-- InsertTree
-- BagCover
-- TreeRemove
 
 ## ElementRelationshipsGraph
 
@@ -152,5 +139,4 @@ Links to other related motos. Related because they are the same MotoType or beca
 - One
 - Two
 - Three
-
 :::

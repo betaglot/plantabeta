@@ -7,7 +7,7 @@
 ## DevState
 
 ```py
-`TagsToHeaders: False`
+`TagsToHeaders: True`
 ```
 
 ![PaperPhoto](/PaperPhoto/0028.jpg)

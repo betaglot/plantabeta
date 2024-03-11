@@ -16,7 +16,6 @@
 - "Moto.ToolMoto.FlagMoto.FlagStump"
 - "Moto.ToolMoto.FlagMoto.MotoError.PlantedFlag"
 - "Moto.ToolMoto.FlagMoto.Overview"
-
 :::
 
 # 🟠 <moto>Flag Overview</moto>
@@ -24,7 +23,7 @@
 ## FlagPut
 
 post verb (MAKE KNOWN)
- 
+
 > to make information known to the public, or to put up signs on land or other property
 
 Flags are posted throughout the land.

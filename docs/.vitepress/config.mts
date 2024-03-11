@@ -2,7 +2,7 @@ import { defineConfig } from 'vitepress'
 
 export default defineConfig({
   lang: 'en-US',
-  title: 'PutPlant',
+  title: 'Put(Plant)',
   description: '',
   lastUpdated: true,
   base: '/putplant/',
@@ -23,13 +23,13 @@ export default defineConfig({
     ],
     footer: {
       message: '',
-      copyright: 'Copyright PutPlant © 2023-present'
+      copyright: 'Copyright Put(Plant) © 2023-present'
     },
     search: {
       provider: 'local'
     },
 
-    siteTitle: 'PutPlant',
+    siteTitle: 'Put(Plant)',
     nav: nav(),
 
     sidebar: {
@@ -122,7 +122,7 @@ function sidebarGuide() {
       collapsed: false,
       items: [
         { text: 'What is Tree Planting?', link: '/guide/What/WhatTreePlanting' },
-        { text: 'What is PutPlant?', link: '/guide/What/WhatPutPlant' },
+        { text: 'What is Put(Plant)?', link: '/guide/What/WhatPutPlant' },
       ]
     },
     {

@@ -18,18 +18,15 @@ Neuro/Decision/Overview.md, <dev>Neuro.Decision</dev>, ![0705.jpg](/PaperPhoto/0
 Neuro/Decision/Overview.md, <dev>Neuro.Decision</dev>, ![1857.jpg](/PaperPhoto/1857.jpg)
 Neuro/Decision/Overview.md, <dev>Neuro.Decision</dev>, ![3052.jpg](/PaperPhoto/3052.jpg)
 Neuro/Decision/Overview.md, <dev>Neuro.Decision</dev>, ![90014.jpg](/PaperPhoto/90014.jpg)
-
 :::
 
 # 💜 <neuro>Decision Overview </neuro>
 
 ## Conscious Decision
 
-- 
+-
 
 ## Unconscious Decision
 
 - Walking
 - Balance
-
-

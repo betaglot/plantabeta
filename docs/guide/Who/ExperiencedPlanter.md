@@ -17,18 +17,17 @@
 guide/Who/ExperiencedPlanter.md, <dev>Guide.Who.ExperiencedPlanter</dev>, ![1379.jpg](/PaperPhoto/1379.jpg)
 guide/Who/ExperiencedPlanter.md, <dev>Guide.Who.ExperiencedPlanter</dev>, ![2263.jpg](/PaperPhoto/2263.jpg)
 guide/Who/ExperiencedPlanter.md, <dev>Guide.Who.ExperiencedPlanter</dev>, ![2989.jpg](/PaperPhoto/2989.jpg)
-
 :::
 
 # Experienced Planter
 
 > A Planter who has completed their first planting season.
 
-## Using PutPlant Before the Season
+## Using Put(Plant) Before the Season
 
-## Using PutPlant During the Season
+## Using Put(Plant) During the Season
 
-## Using PutPlant After the Season
+## Using Put(Plant) After the Season
 
 ## How to be an AmbidextrousPlanter
 
@@ -38,7 +37,7 @@ To reduce injury caused by repetitive strain.
 
 ## How to become an ElitePlanter
 
-The main attributes that separates Elite Planters from everyone else are their drive and level of knowledge. PutPlant can't teach drive, but it can give Planters every tip and trick. The planting term for a Planter who plants the most trees is a "**Highballer**".
+The main attributes that separates Elite Planters from everyone else are their drive and level of knowledge. Put(Plant) can't teach drive, but it can give Planters every tip and trick. The planting term for a Planter who plants the most trees is a "**Highballer**".
 
 Crew Highballer
 

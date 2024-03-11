@@ -22,7 +22,6 @@ Moto/FootMoto/Overview.md, <dev>Moto.FootMoto.FootRoll</dev>, ![1021.jpg](/Paper
 Moto/FootMoto/Overview.md, <dev>Moto.FootMoto.FootSmear</dev>, ![1796.jpg](/PaperPhoto/1796.jpg)
 Moto/FootMoto/Overview.md, <dev>Moto.FootMoto.Overview</dev>, ![2481.jpg](/PaperPhoto/2481.jpg)
 Moto/FootMoto/Overview.md, <dev>Moto.FootMoto.Overview</dev>, ![2936.jpg](/PaperPhoto/2936.jpg)
-
 :::
 
 # 🟠 <moto>Foot Overview</moto>
@@ -34,5 +33,5 @@ Moto/FootMoto/Overview.md, <dev>Moto.FootMoto.Overview</dev>, ![2936.jpg](/Paper
 - Heel
 
 ## Foot Properties
-- FootLength
 
+- FootLength

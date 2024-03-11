@@ -14,12 +14,11 @@ Neuro/Counting/Overview.md, <dev>Neuro.Counting</dev>, ![1859.jpg](/PaperPhoto/1
 Neuro/Counting/Overview.md, <dev>Neuro.Counting</dev>, ![2567.jpg](/PaperPhoto/2567.jpg)
 Neuro/Counting/Overview.md, <dev>Neuro.Counting</dev>, ![2942.jpg](/PaperPhoto/2942.jpg)
 Neuro/Counting/Overview.md, <dev>Neuro.Counting</dev>, ![3005.jpg](/PaperPhoto/3005.jpg)
-
 :::
 
 # 💜 <neuro>Counting </neuro>
 
-![NeuroEmoji](/Neuro/Neuro_Emoji.png)
+![NeuroIcon](/Neuro/Neuro_Icon.png)
 
 ## Element Problem
 
@@ -34,19 +33,14 @@ Neuro/Counting/Overview.md, <dev>Neuro.Counting</dev>, ![3005.jpg](/PaperPhoto/3
 ::: details Questions 1
 
 Answer 1
-
 :::
-
 ::: details Questions 2
 
 Answer 2
-
 :::
-
 ::: details Questions 3
 
 Answer 3
-
 :::
 
 ## Element Properties
@@ -83,11 +77,9 @@ Answer 3
 ## See also:
 
 Links to other related NeuroElements.
-
 ::: details External References
 
 - One
 - Two
 - Three
-
 :::

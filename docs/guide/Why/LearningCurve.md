@@ -22,19 +22,16 @@ guide/Why/LearningCurve.md, <dev>Guide.Why.LearningCurve</dev>, ![2495.jpg](/Pap
 guide/Why/LearningCurve.md, <dev>Guide.Why.LearningCurve</dev>, ![2861.jpg](/PaperPhoto/2861.jpg)
 guide/Why/LearningCurve.md, <dev>Guide.Why.LearningCurve</dev>, ![2987.jpg](/PaperPhoto/2987.jpg)
 guide/Why/LearningCurve.md, <dev>Guide.Why.LearningCurve</dev>, ![3164.jpg](/PaperPhoto/3164.jpg)
-
 :::
 
 # To Steepen Learning Curve
 
 ![LearningCurve](/guide/LearningCurve.png)
-
 ::: warning Trial and Error
 
 The difference between intelligence and wisdom is that an intelligent person knows all the theory and practices to solve a problem, but a wise person knows which theories and practices are best suited solve the particular problem.
 
-There will always be an element of Trial and Error in tree planting. A goal of PutPlant is to minimize Trial and Error's role in learning how to be a Planter.
-
+There will always be an element of Trial and Error in tree planting. A goal of Put(Plant) is to minimize Trial and Error's role in learning how to be a Planter.
 :::
 
 ## Decrease the time it takes to train a NovicePlanter

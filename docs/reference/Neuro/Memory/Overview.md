@@ -23,19 +23,15 @@ Neuro/Memory/Overview.md, <dev>Neuro.Memory</dev>, ![2537.jpg](/PaperPhoto/2537.
 Neuro/Memory/Overview.md, <dev>Neuro.Memory</dev>, ![2987.jpg](/PaperPhoto/2987.jpg)
 Neuro/Memory/Overview.md, <dev>Neuro.Memory</dev>, ![3164.jpg](/PaperPhoto/3164.jpg)
 Neuro/Memory/Overview.md, <dev>Neuro.Memory</dev>, ![3269.jpg](/PaperPhoto/3269.jpg)
-
 :::
 
 # 💜 <neuro>Memory Overview</neuro>
 
 > Fire together, wire together
 
-
-
 ## Saliency
 
 ### Definition: Saliency
-
 
 ## Chunking
 
@@ -49,11 +45,9 @@ Neuro/Memory/Overview.md, <dev>Neuro.Memory</dev>, ![3269.jpg](/PaperPhoto/3269.
 
 Third Person Point of View
 
-
 ### AutobiographicalMemory
 
 First Person Point of View
-
 
 ## Working Memory
 

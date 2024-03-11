@@ -15,12 +15,9 @@
 - "Moto.ToolMoto.BoxMoto.BoxStack"
 
 Moto/ToolMoto/Box/BoxPhrase.md, <dev>Moto.ToolMoto.BoxMoto.BoxStack</dev>, ![0071.jpg](/PaperPhoto/0071.jpg)
-
 :::
 
 # 🔷 <moto>Box Phrase</moto>
-
-
 
 ## BoxPile
 
@@ -47,5 +44,3 @@ Moto/ToolMoto/Box/BoxPhrase.md, <dev>Moto.ToolMoto.BoxMoto.BoxStack</dev>, ![007
 ## BoxUnload(ATV)
 
 ## BoxUnload(Pallet)
-
-

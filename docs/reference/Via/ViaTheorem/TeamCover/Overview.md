@@ -10,10 +10,8 @@
 `TagsToHeaders: False`
 ```
 
-
 - LeadPlanter
 - FollowingPlanter
-
 
 Connection Communication
 
@@ -32,7 +30,6 @@ Via/TeamPlant/Overview.md, <dev>Via.TeamCover.Overview</dev>, ![1809.jpg](/Paper
 Via/TeamPlant/Overview.md, <dev>Via.TeamCover.Overview</dev>, ![2946.jpg](/PaperPhoto/2946.jpg)
 Via/TeamPlant/Overview.md, <dev>Via.TeamCover.BouncingCover</dev>, ![2952.jpg](/PaperPhoto/2952.jpg)
 Via/TeamPlant/Overview.md, <dev>Via.TeamCover.Overview</dev>, ![2958.jpg](/PaperPhoto/2958.jpg)
-
 :::
 
 # 🔻 <via>TeamCover</via>
@@ -52,5 +49,3 @@ When a Planter crosses over the line of another Planter when they converge in th
 ## [Following Cover](/reference/Via/TeamPlant/FollowingCover)
 
 When a Planter follows the line of the Planter in front of them.
-
-

@@ -2,6 +2,7 @@
 
 ## DevNotes
 
+- Use Code snippets to write abbreviated names to insert Tags or ElementName
 -
 
 ## DevState
@@ -10,12 +11,11 @@
 `TagsToHeaders: False`
 ```
 
-
 > Beta is what you actually do implement
 > Elements are just options possibilities
 > Beta requires decision
 
-Each PutPlant module is composed of problems and theorems. Problems all have solutions, they aren't proven valid yet, but are still useful for development. Pertainent negative. Science proves hypotheses wrong. NullHypotheses.
+Each Put(Plant) module is composed of problems and theorems. Problems all have solutions, they aren't proven valid yet, but are still useful for development. Pertainent negative. Science proves hypotheses wrong. NullHypotheses.
 
 Eco doesn't have any problems or theorems
 
@@ -70,8 +70,6 @@ Beta/WhatBeta.md, <dev>Beta.Overview</dev>, ![2967.jpg](/PaperPhoto/2967.jpg)
 Beta/WhatBeta.md, <dev>Beta.BetaProperties.SubsystemCount</dev>, ![90059.png](/PaperPhoto/90059.png)
 Beta/WhatBeta.md, <dev>Beta.BetaInstance</dev>, ![90087.png](/PaperPhoto/90087.png)
 Beta/WhatBeta.md, <dev>Beta.BetaInstance.BetaInstanceComparison</dev>, ![90087.png](/PaperPhoto/90087.png)
-
-
 :::
 
 # 🔷 <beta>What is Beta?</beta> 🔷
@@ -80,7 +78,7 @@ Beta/WhatBeta.md, <dev>Beta.BetaInstance.BetaInstanceComparison</dev>, ![90087.p
 
 Beta emerges from the interactions between Eco, Moto, Via and Neuro.
 
-![BetaEmoji](/Beta/Beta_Emoji.png)
+![BetaIcon](/Beta/Beta_Icon.png)
 
 ## <beta>Beta Symbol</beta> 🔷
 >
@@ -132,7 +130,6 @@ This each line are analog pairs. The equal signs = denotes where Climbing and Pl
 - Many Planters are also Climbers and share many attributes.
     - Resilience, Ruggedness, Physically Fit
 - You will get better at one by learning the other.
-
 :::
 
 ## Definition(BetaInstance)
@@ -143,34 +140,25 @@ This each line are analog pairs. The equal signs = denotes where Climbing and Pl
 - There is no time in a BetaInstance
 
 ---
-
 ::: details Footnotes:
 
 - <https://www.climbernews.com/what-is-climbing-beta/>
-
 :::
-
 ::: details 🛠 <dev>DesignBox</dev>
-
-## DevNotes
-
--
-
-## DevState
-
-```py
-`TagsToHeaders: False`
-```
-
-:::
 
 ## What is a Beta Element?
 
 > An element is one of the parts of something that makes it work, or a quality that makes someone or something effective.
 
-PutPlant breaks down a Planter's experience into simple elements. Each element has its own particular properties which when varied affect
+Put(Plant) breaks down a Planter's experience into simple elements. Each element has its own particular properties which when varied affect
 
-Changing an Element's properties affects how it relates to other elements and changes their properties too. These changes ripple out across PutPlant's web of relationships.
+Moto is the first person experience of Movement
+
+Eco is the first person experience of
+
+Via is the first person experience of
+
+Changing an Element's properties affects how it relates to other elements and changes their properties too. These changes ripple out across Put(Plant)'s web of relationships.
 
 ```py
 
@@ -195,7 +183,6 @@ EcoTheorem
 > "Sand collapses by itself"
 
 > "Clay sticks together and onto your SpadeBlade"
-
 :::
 
 ## Problem
@@ -258,7 +245,6 @@ The Euclid's Elements is compilation of elements which was written over 2000 yea
 - Via
 
 ![Byrne_06](/Byrne_06.jpg)
-
 ::: details Read Further
 
 Wolfram Alpha
@@ -268,7 +254,6 @@ Wolfram Alpha
 Byrne's Euclid
 
 - <https://www.c82.net/euclid/>
-
 :::
 
 #### The Elements of a Set
@@ -278,13 +263,11 @@ Byrne's Euclid
 1 = Element
 
 [InsertImage] Venn Diagram set theory
-
 ::: tip What is a Set?
 
 Set Theory
 
 - No Duplicates
-
 :::
 
 #### The Elements of a Phylogenic Tree
@@ -323,11 +306,9 @@ Water = Elements
 > Two elements bonded together in a compound.
 
 Simple chemical substance.
-
 ::: details External Links
 
 - <https://archive.org/details/tom-jackson-the-periodic-table-a-visual-guide-to-the-elements-white-lion-publishing-2020/page/n3/mode/2up>
-
 :::
 
 #### The Elements of Avatar Bending
@@ -351,7 +332,6 @@ Air = Element
 - <https://www.gymnastics-history.com/category/code-of-points/>
 - <https://defector.com/i-will-explain-this-new-olympic-sport-to-you-skateboarding>
 - <https://apps.apple.com/app/gymsymbol/id1501949485>
-
 :::
 
 #### The Elements of HTML web pages
@@ -364,35 +344,31 @@ Flexbox
 
 ### ElementNames
 
-You will notice that all ElementNames have no spaces between their words, this is to make it easier to search for terms with PutPlant's search and when searching with your eyes.
+You will notice that all ElementNames have no spaces between their words, this is to make it easier to search for terms with Put(Plant)'s search and when searching with your eyes.
 
 #### Element Name Affixes
 
 ##### Element Name Prefix
 
 Spade is a Prefix
-
 ::: tip Spade
 
 **Spade**Grip, **Spade**Open, **Spade** Close, **Spade**Screef, **Spade**Swing, **Spade**Prop
-
 :::
 
 ##### Element Name Suffix
 
 Grip is an Element Name Suffix
-
 ::: tip Grip
 
 Spade**Grip**, Tree**Grip**, Box**Grip**, Branch**Grip**, Bag**Grip**, Log**Grip**, Stump**Grip**, Handle**Grip**, Bundle**Grip**
-
 :::
 
-<img height="300" width="500" src="/PascalCase.png">
+<img height="300" alt="PascalCase" width="500" src="/PascalCase.png">
 
-Each of the Beta Subsystems ([Eco](), [Moto](), [Via](), [Neuro]() ) has its own elements, although most elements are a combination of all four subsystems. For example [HandClose]() depends on the [SoilType]() (Eco), [Touch and Pressure sensations]() (Neuro), and the obstacles which narrow the range of [approach trajectories]() possible to perform the [HandClose]() (Via).
+Each of the Beta Typo (Eco, Moto, Via, Neuro ) has its own elements, although most elements are a combination of all four subsystems. For example HandClose depends on the SoilType (Eco), Touch and Pressure sensations (Neuro), and the obstacles which narrow the range of approach trajectories() possible to perform the HandClose (Via).
 
-Elements are added together to create new, more complex, elements. For example [SpadeScreef]() = {[HandleGrip](), [ShaftGrip](), [Soil](), [SlopeAngle](), [Slash](), [Attention]()}
+Elements are added together to create new, more complex, elements. For example SpadeScreef = {HandleGrip, ShaftGrip, Soil, SlopeAngle, Slash, Attention}
 
 ### Element Properties
 
@@ -424,27 +400,21 @@ A full body moto can be broken down into
 #### Element Mixture Decomposition
 
 Breaking down an element into more simple elements.
-
 ::: tip Example:
 
 InsertTree = TreeGrip + BendOver + SpadeProp
-
 :::
 
 #### Element Phrase Decomposition
 
 Breaking down the Phrase of elements.
-
 ::: tip Example:
 
 OpenHole = LookAtTarget --> SpadeProbeThrow --> SpadeThrow --> SpadeOpenHole
-
 :::
-
 ::: details External Links
 
 - <https://dictionary.cambridge.org/dictionary/english/element>
-
 :::
 
 ## BetaTime

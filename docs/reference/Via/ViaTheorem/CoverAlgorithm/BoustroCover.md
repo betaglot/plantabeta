@@ -10,10 +10,6 @@
 `TagsToHeaders: False`
 ```
 
-
-
-
-
 :::
 
 # 🔻 <via>BoustroCover</via>
@@ -26,9 +22,8 @@
 
 ## Element Purpose
 
-- [AreaCover]()
-- 
-
+- AreaCover
+-
 
 ## Element Properties
 
@@ -41,13 +36,12 @@
 
 - Cellular Decomposition Algorithm like Delaunay Triangulation or Voronoi Decomposition
 
-
 ## ElementRelationshipsGraph
 
-Graph which represents how this element is related to other elements in PutPlant.
-<iframe 
-    width="100%" 
-    height="684" 
+Graph which represents how this element is related to other elements in Put(Plant).
+<iframe
+    width="100%"
+    height="684"
     frameborder="0"
     src="https://observablehq.com/embed/@d3/force-directed-graph/2?cells=chart"
 ></iframe>
@@ -55,69 +49,71 @@ Graph which represents how this element is related to other elements in PutPlant
 ## 🔻<via>ViaElements</via>
 
 ### [TeamCover](/reference/Via/TeamPlant/Overview)
-- 
 
-### [TurnAround]()
-- Turn around at the end of each line. 
+-
 
-### [ViaCurve]()
-- 
+### TurnAround
 
-### [ParallelCurve]()
-- 
+- Turn around at the end of each line.
 
-### [ViaDirection]()
+### ViaCurve
+
+-
+
+### ParallelCurve
+
+-
+
+### ViaDirection
+
 - Direction change
 
-### [BackCover]()
-- 
+### BackCover
 
-### [AreaShape]()
-- 
+-
 
-### [ZigZagCurve]()
-- 
+### AreaShape
+
+-
+
+### ZigZagCurve
+
+-
 
 ## 🟩<eco>EcoElements</eco>
 
 ### [TrenchLand]
 
-### [SlopedLand]()
+### SlopedLand
+
 - Travel across the Eco instead of up and down
 - Description of how this ViaElement relates to a particular [EcoElement](/reference/Eco/EcoOverview).
 
-### [Obstacle]() Preventing BoustroCover
+### Obstacle Preventing BoustroCover
 
 #### FallenTree
 
 ## 💜<neuro>NeuroElements</neuro>
-- Description of how this ViaElement relates to a particular [<neuro>NeuroElement</neuro>]().
-- Description of how this ViaElement relates to a particular [<neuro>NeuroElement</neuro>]().
-- Description of how this ViaElement relates to a particular [<neuro>NeuroElement</neuro>]().
+
+-
 
 ## 🟠<moto>MotoElements</moto>
-- [TurnAround]
-- Description of how this ViaElement relates to a particular [<moto>MotoElement</moto>]().
-- Description of how this ViaElement relates to a particular [<moto>MotoElement</moto>]().
+
+- TurnAround
 
 ## Examples
 
-- Use Media donated by Planters. 
+- Use Media donated by Planters.
 
 ## Related ViaElements
 
-Links to other related ViaElements. 
+Links to other related ViaElements.
 
-- [BackCover]()
-- [FlagTrenchExit]()
-- [ConvergentBoustroCover]()
-- [DivergentBoustroCover]()
-
+- BackCover
+- FlagTrenchExit
+- ConvergentBoustroCover
+- DivergentBoustroCover
 ::: details External References
 
-- https://www.semanticscholar.org/paper/On-Complete-Coverage-Path-Planning-Algorithms-for-Khan-Noreen/ee6bdd20dd58de3c4fe646103e76b46237821d38
-
+- <https://www.semanticscholar.org/paper/On-Complete-Coverage-Path-Planning-Algorithms-for-Khan-Noreen/ee6bdd20dd58de3c4fe646103e76b46237821d38>
 :::
-
-
-

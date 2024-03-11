@@ -14,10 +14,7 @@
 
 # 💜 <neuro>Slash Sound </neuro>
 
-
 ## Falling
-
-
 
 ## Clothing Rip
 
@@ -33,10 +30,8 @@ Hollow
 
 - Rodent Tunnel
 
-
 ## Quote
+
 - "It sounds like a BrittleBranch."
 - "It sounds like it would break easily."
 - "It sounds rotten."
-
-
