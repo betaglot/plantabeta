@@ -78,7 +78,7 @@ function sidebarDevelopment() {
     { text: '<dev>Tagging</dev>', link: '/dev/Tagging' },
     { text: '<dev>ToDo</dev>', link: '/dev/ToDo' },
     { text: '<dev>Tools</dev>', link: '/dev/Tools' },
-    { text: '<dev>UX</dev>', link: '/dev/UX' },  
+    { text: '<dev>UX</dev>', link: '/dev/UX' },
     { text: '<dev>AfternoonTask</dev>', link: '/dev/AfternoonTask' },
   ]
 }
@@ -213,7 +213,7 @@ function sidebarReference() {
           ]
         },
         {
-          text: '🟩 <eco>Block</eco>', link: '/reference/Eco/Block/Overview',  collapsed: true, items: [
+          text: '🟩 <eco>Block</eco>', link: '/reference/Eco/Block/Overview', collapsed: true, items: [
             { text: '🟩 <eco>CoverBlock</eco>', link: '/reference/Eco/Block/CoverBlock' },
             { text: '🟩 <eco>Road</eco>', link: '/reference/Eco/Block/Road' },
           ]
@@ -225,7 +225,7 @@ function sidebarReference() {
           ]
         },
         {
-          text: '🟩 <eco>LandSpeed</eco>', link: '/reference/Eco/LandSpeed/Overview' , collapsed: true, items: [
+          text: '🟩 <eco>LandSpeed</eco>', link: '/reference/Eco/LandSpeed/Overview', collapsed: true, items: [
             { text: '🟩 <eco>FastLand</eco>', link: '/reference/Eco/LandSpeed/FastLand' },
             { text: '🟩 <eco>SlowLand</eco>', link: '/reference/Eco/LandSpeed/SlowLand' },
           ]
@@ -251,14 +251,14 @@ function sidebarReference() {
           ]
         },
         {
-          text: '🟩 <eco>Raw</eco>',  link: '/reference/Eco/Raw/Overview', collapsed: true, items: [
+          text: '🟩 <eco>Raw</eco>', link: '/reference/Eco/Raw/Overview', collapsed: true, items: [
             { text: '🟩 <eco>BurnPit</eco>', link: '/reference/Eco/Raw/BurnPit' },
             { text: '🟩 <eco>BurntLand</eco>', link: '/reference/Eco/Raw/BurntLand' },
 
           ]
         },
         {
-          text: '🟩 <eco>Slash</eco>', link: '/reference/Eco/Slash/Overview',  collapsed: true, items: [
+          text: '🟩 <eco>Slash</eco>', link: '/reference/Eco/Slash/Overview', collapsed: true, items: [
             { text: '🟩 <eco>BurnPileSlash</eco>', link: '/reference/Eco/Slash/BurnPileSlash' },
             { text: '🟩 <eco>HighSlash</eco>', link: '/reference/Eco/Slash/HighSlash' },
             { text: '🟩 <eco>LowSlash</eco>', link: '/reference/Eco/Slash/LowSlash' },
@@ -266,7 +266,7 @@ function sidebarReference() {
           ]
         },
         {
-          text: '🟩 <eco>Soil</eco>',link: '/reference/Eco/Soil/Overview', collapsed: true, items: [
+          text: '🟩 <eco>Soil</eco>', link: '/reference/Eco/Soil/Overview', collapsed: true, items: [
             { text: '🟩 <eco>ClaySoil</eco>', link: '/reference/Eco/Soil/ClaySoil' },
             { text: '🟩 <eco>DrySoil</eco>', link: '/reference/Eco/Soil/DrySoil' },
             { text: '🟩 <eco>GravelSoil</eco>', link: '/reference/Eco/Soil/GravelSoil' },
@@ -277,7 +277,7 @@ function sidebarReference() {
           ]
         },
         {
-          text: '🟩 <eco>Sun</eco>',link: '/reference/Eco/Sun/Overview', collapsed: true, items: [
+          text: '🟩 <eco>Sun</eco>', link: '/reference/Eco/Sun/Overview', collapsed: true, items: [
           ]
         },
       ]
@@ -297,7 +297,7 @@ function sidebarReference() {
           ]
         },
         {
-          text: '🟠 <moto>ArmMoto</moto>', link: '/reference/Moto/ArmMoto/Overview' , collapsed: true, items: [
+          text: '🟠 <moto>ArmMoto</moto>', link: '/reference/Moto/ArmMoto/Overview', collapsed: true, items: [
             { text: '🟠 <moto>Arm Phrase</moto>', link: '/reference/Moto/ArmMoto/Phrase/Overview' },
             { text: '🟠 <moto>ArmBlock</moto>', link: '/reference/Moto/ArmMoto/ArmBlock' },
             { text: '🟠 <moto>ArmProp</moto>', link: '/reference/Moto/ArmMoto/ArmProp' },
@@ -307,7 +307,7 @@ function sidebarReference() {
           ]
         },
         {
-          text: '🟠 <moto>BodyMoto</moto>',  link: '/reference/Moto/BodyMoto/Overview', collapsed: true, items: [
+          text: '🟠 <moto>BodyMoto</moto>', link: '/reference/Moto/BodyMoto/Overview', collapsed: true, items: [
             { text: '🟠 <moto>Body Phrase</moto>', link: '/reference/Moto/BodyMoto/Phrase/Overview' },
             { text: '🟠 <moto>BodyAbsorb</moto>', link: '/reference/Moto/BodyMoto/BodyAbsorb' },
             { text: '🟠 <moto>BodyBend</moto>', link: '/reference/Moto/BodyMoto/BodyBend' },
@@ -327,7 +327,7 @@ function sidebarReference() {
           ]
         },
         {
-          text: '🟠 <moto>ClothingMoto</moto>', link: '/reference/Moto/ClothingMoto/Overview',  collapsed: true, items: [
+          text: '🟠 <moto>ClothingMoto</moto>', link: '/reference/Moto/ClothingMoto/Overview', collapsed: true, items: [
             { text: '🟠 <moto>Clothing Phrase</moto>', link: '/reference/Moto/ClothingMoto/Phrase/Overview' },
             { text: '🟠 <moto>Button</moto>', link: '/reference/Moto/ClothingMoto/Button' },
             { text: '🟠 <moto>ClothingLayer</moto>', link: '/reference/Moto/ClothingMoto/ClothingLayer' },
@@ -337,7 +337,7 @@ function sidebarReference() {
           ]
         },
         {
-          text: '🟠 <moto>FootMoto</moto>', link: '/reference/Moto/FootMoto/Overview',collapsed: true, items: [
+          text: '🟠 <moto>FootMoto</moto>', link: '/reference/Moto/FootMoto/Overview', collapsed: true, items: [
             { text: '🟠 <moto>Foot Phrase</moto>', link: '/reference/Moto/FootMoto/Phrase/Overview' },
             { text: '🟠 <moto>FootArchSmear</moto>', link: '/reference/Moto/FootMoto/FootArchSmear' },
             { text: '🟠 <moto>FootClose</moto>', link: '/reference/Moto/FootMoto/FootClose' },
@@ -368,7 +368,7 @@ function sidebarReference() {
           ]
         },
         {
-          text: '🟠 <moto>HeadMoto</moto>',link: '/reference/Moto/HeadMoto/Overview' , collapsed: true, items: [
+          text: '🟠 <moto>HeadMoto</moto>', link: '/reference/Moto/HeadMoto/Overview', collapsed: true, items: [
             { text: '🟠 <moto>Head Phrase</moto>', link: '/reference/Moto/HeadMoto/Phrase/Overview' },
             { text: '🟠 <moto>FocusLook</moto>', link: '/reference/Moto/HeadMoto/FocusLook' },
             { text: '🟠 <moto>HeadProtraction</moto>', link: '/reference/Moto/HeadMoto/HeadProtraction' },
@@ -380,7 +380,7 @@ function sidebarReference() {
           ]
         },
         {
-          text: '🟠 <moto>HoleMoto</moto>',link: '/reference/Moto/HoleMoto/Overview', collapsed: true, items: [
+          text: '🟠 <moto>HoleMoto</moto>', link: '/reference/Moto/HoleMoto/Overview', collapsed: true, items: [
             { text: '🟠 <moto>Hole Phrase</moto>', link: '/reference/Moto/HoleMoto/Phrase/Overview' },
             { text: '🟠 <moto>HoleClose</moto>', link: '/reference/Moto/HoleMoto/HoleClose' },
             { text: '🟠 <moto>HoleExpand</moto>', link: '/reference/Moto/HoleMoto/HoleExpand' },
@@ -388,7 +388,7 @@ function sidebarReference() {
           ]
         },
         {
-          text: '🟠 <moto>LegMoto</moto>',link: '/reference/Moto/LegMoto/Overview' , collapsed: true, items: [
+          text: '🟠 <moto>LegMoto</moto>', link: '/reference/Moto/LegMoto/Overview', collapsed: true, items: [
             { text: '🟠 <moto>Leg Phrase</moto>', link: '/reference/Moto/LegMoto/Phrase/Overview' },
             { text: '🟠 <moto>Crouch</moto>', link: '/reference/Moto/LegMoto/Overview' },
             { text: '🟠 <moto>Jump</moto>', link: '/reference/Moto/LegMoto/Jump' },
@@ -419,7 +419,7 @@ function sidebarReference() {
           ]
         },
         {
-          text: '🟠 <moto>Screef</moto>', link: '/reference/Moto/Screef/Overview' , collapsed: true, items: [
+          text: '🟠 <moto>Screef</moto>', link: '/reference/Moto/Screef/Overview', collapsed: true, items: [
             { text: '🟠 <moto>BootScreef</moto>', link: '/reference/Moto/ToolMoto/Boot/BootScreef' },
             { text: '🟠 <moto>HandScreef</moto>', link: '/reference/Moto/HandMoto/HandScreef' },
             { text: '🟠 <moto>SpadeScreef</moto>', link: '/reference/Moto/ToolMoto/Spade/SpadeScreef' },
@@ -428,7 +428,7 @@ function sidebarReference() {
         {
           text: '🟠 <moto>ToolMoto</moto>', link: '/reference/Moto/ToolMoto/Overview', collapsed: true, items: [
             {
-              text: '🟠 <moto>Bag</moto>', link: '/reference/Moto/ToolMoto/Bag/Overview' , collapsed: true, items: [
+              text: '🟠 <moto>Bag</moto>', link: '/reference/Moto/ToolMoto/Bag/Overview', collapsed: true, items: [
                 { text: '🟠 <moto>BagGrip</moto>', link: '/reference/Moto/ToolMoto/Bag/BagGrip' },
                 { text: '🔷 <moto>Bag Phrase</moto>', link: '/reference/Moto/ToolMoto/Bag/Phrase/Overview' },
                 { text: '🟠 <moto>BagAdjustment</moto>', link: '/reference/Moto/ToolMoto/Bag/BagAdjustment' },
@@ -449,7 +449,7 @@ function sidebarReference() {
               ]
             },
             {
-              text: '🟠 <moto>Box</moto>', '/reference/Moto/ToolMoto/Box/Overview' v,  collapsed: true, items: [
+              text: '🟠 <moto>Box</moto>', link: '/reference/Moto/ToolMoto/Box/Overview', collapsed: true, items: [
                 { text: '🔷 <moto>Box Phrase</moto>', link: '/reference/Moto/ToolMoto/Box/Phrase/Overview' },
                 { text: '🟠 <moto>BoxGrip</moto>', link: '/reference/Moto/ToolMoto/Box/BoxGrip' },
               ]
@@ -462,11 +462,11 @@ function sidebarReference() {
               ]
             },
             {
-              text: '🟠 <moto>Carabiner</moto>', link: '/reference/Moto/ToolMoto/Carabiner/Overview',  collapsed: true, items: [
+              text: '🟠 <moto>Carabiner</moto>', link: '/reference/Moto/ToolMoto/Carabiner/Overview', collapsed: true, items: [
               ]
             },
             {
-              text: '🟠 <moto>Flag</moto>',  link: '/reference/Moto/ToolMoto/Flag/Overview' , collapsed: true, items: [
+              text: '🟠 <moto>Flag</moto>', link: '/reference/Moto/ToolMoto/Flag/Overview', collapsed: true, items: [
                 { text: '🔷 <moto>Flag Phrase</moto>', link: '/reference/Moto/ToolMoto/Flag/Phrase/Overview' },
                 { text: '🟠 <moto>FlagGrip</moto>', link: '/reference/Moto/ToolMoto/Flag/FlagGrip' },
                 { text: '🟠 <moto>FlagErrorRecovery</moto>', link: '/reference/Moto/ToolMoto/Flag/FlagErrorRecovery' },
@@ -477,7 +477,7 @@ function sidebarReference() {
               ]
             },
             {
-              text: '🟠 <moto>Gaiter</moto>', link: '/reference/Moto/ToolMoto/Gaiter/Overview',  collapsed: true, items: [
+              text: '🟠 <moto>Gaiter</moto>', link: '/reference/Moto/ToolMoto/Gaiter/Overview', collapsed: true, items: [
                 { text: '🔷 <moto>Gaiter Phrase</moto>', link: '/reference/Moto/ToolMoto/Gaiter/Phrase/Overview' },
                 { text: '🟠 <moto>GaiterGrip</moto>', link: '/reference/Moto/ToolMoto/Gaiter/GaiterGrip' },
                 { text: '🟠 <moto>GaiterOn</moto>', link: '/reference/Moto/ToolMoto/Gaiter/GaiterOn' },
@@ -491,7 +491,7 @@ function sidebarReference() {
               ]
             },
             {
-              text: '🟠 <moto>Kit</moto>', link: '/reference/Moto/ToolMoto/Kit/Overview' , collapsed: true, items: [
+              text: '🟠 <moto>Kit</moto>', link: '/reference/Moto/ToolMoto/Kit/Overview', collapsed: true, items: [
               ]
             },
             {
@@ -499,7 +499,7 @@ function sidebarReference() {
               ]
             },
             {
-              text: '🟠 <moto>Spade</moto>', link: '/reference/Moto/ToolMoto/Spade/Overview',  collapsed: true, items: [
+              text: '🟠 <moto>Spade</moto>', link: '/reference/Moto/ToolMoto/Spade/Overview', collapsed: true, items: [
                 { text: '🔷 <moto>Spade Phrase</moto>', link: '/reference/Moto/ToolMoto/Spade/Phrase/Overview' },
                 { text: '🟠 <moto>SpadeGrip</moto>', link: '/reference/Moto/ToolMoto/Spade/SpadeGrip' },
                 { text: '🟠 <moto>SpadeChop</moto>', link: '/reference/Moto/ToolMoto/Spade/SpadeChop' },
@@ -513,7 +513,7 @@ function sidebarReference() {
           ]
         },
         {
-          text: '🟠 <moto>Truck</moto>',link: '/reference/Moto/TruckMoto/Overview',  collapsed: true, items: [
+          text: '🟠 <moto>Truck</moto>', link: '/reference/Moto/TruckMoto/Overview', collapsed: true, items: [
             { text: '🔷 <moto>Truck Phrase</moto>', link: '/reference/Moto/TruckMoto/Phrase/Overview' },
             { text: '🟠 <moto>Sleep</moto>', link: '/reference/Moto/TruckMoto/Sleep' },
             { text: '🟠 <moto>Sit</moto>', link: '/reference/Moto/TruckMoto/Sit' },
@@ -525,13 +525,13 @@ function sidebarReference() {
     },
     // #Via
     {
-      text: '🔻 <via>Via</via>', link: '/reference/Via/ViaOverview' , collapsed: true, items: [
+      text: '🔻 <via>Via</via>', link: '/reference/Via/ViaOverview', collapsed: true, items: [
         { text: '🔷 <via>Via Sequence</via>', link: '/reference/Via/ViaSequence/Overview' },
         { text: '🔷 <via>Via Difficulty</via>', link: '/reference/Via/ViaDifficulty' },
         {
           text: '🔻 <via>ViaGeometry</via>', collapsed: true, items: [
             {
-              text: '🔻 <via>ViaPoint</via>',link: '/reference/Via/ViaGeometry/ViaPoint/Overview', collapsed: true, items: [
+              text: '🔻 <via>ViaPoint</via>', link: '/reference/Via/ViaGeometry/ViaPoint/Overview', collapsed: true, items: [
                 { text: '🔻 <via>CenterPoint</via>', link: '/reference/Via/ViaGeometry/ViaPoint/CenterPoint' },
                 { text: '🔻 <via>InflectionPoint</via>', link: '/reference/Via/ViaGeometry/ViaPoint/InflectionPoint' },
                 { text: '🔻 <via>Midpoint</via>', link: '/reference/Via/ViaGeometry/ViaPoint/MidPoint' },
@@ -568,11 +568,11 @@ function sidebarReference() {
           ]
         },
         {
-          text: '🔻 <via>Via Problem</via>',link: '/reference/Via/ViaProblem/Overview', collapsed: true, items: [
+          text: '🔻 <via>Via Problem</via>', link: '/reference/Via/ViaProblem/Overview', collapsed: true, items: [
           ]
         },
         {
-          text: '🔻 <via>Via Theorem</via>',  link: '/reference/Via/ViaTheorem/Overview', collapsed: true, items: [
+          text: '🔻 <via>Via Theorem</via>', link: '/reference/Via/ViaTheorem/Overview', collapsed: true, items: [
             {
               text: '🔻 <via>Cover Algorithms</via>', link: '/reference/Via/ViaTheorem/CoverAlgorithm/Overview', collapsed: true, items: [
                 { text: '🔻 <via>BoustroCover</via>', link: '/reference/Via/ViaTheorem/CoverAlgorithm/BoustroCover' },
@@ -588,7 +588,7 @@ function sidebarReference() {
               ]
             },
             {
-              text: '🔻 <via>ObstacleCover</via>', link: '/reference/Via/ViaTheorem/ObstacleCover/Overview' , collapsed: true, items: [
+              text: '🔻 <via>ObstacleCover</via>', link: '/reference/Via/ViaTheorem/ObstacleCover/Overview', collapsed: true, items: [
               ]
             },
             {
