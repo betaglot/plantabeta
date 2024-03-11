@@ -58,7 +58,7 @@
 - Geology_Soil_SoilType_Linguistics
 :::
 
-# 🟩  <eco>Soil Overview</eco>🟩
+# 🟩  <eco>Soil</eco>🟩
 
 ## Soil Layers
 

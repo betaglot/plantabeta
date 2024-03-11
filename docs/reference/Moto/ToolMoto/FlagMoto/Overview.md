@@ -18,7 +18,7 @@
 - "Moto.ToolMoto.FlagMoto.Overview"
 :::
 
-# 🟠 <moto>Flag Overview</moto>
+# 🟠 <moto>FlagMoto</moto>
 
 ## FlagPut
 

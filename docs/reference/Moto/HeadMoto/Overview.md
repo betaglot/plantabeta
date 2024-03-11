@@ -26,7 +26,7 @@ Moto/HeadMoto/Overview.md, <dev>Moto.HeadMoto.LookAt</dev>, ![3143.jpg](/PaperPh
 Moto/HeadMoto/Overview.md, <dev>Moto.HeadMoto.Overview</dev>, ![3153.jpg](/PaperPhoto/3153.jpg)
 :::
 
-# 🟠 <moto>Head Overview</moto>
+# 🟠 <moto>HeadMoto</moto>
 
 ## Head Anatomy
 

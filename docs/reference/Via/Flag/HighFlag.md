@@ -18,7 +18,7 @@
 
 - LineIn
 - CompletedArea
-- CoverBlock
+- FillBlock
 
 ![ViaIcon](/Via/Via_Icon.png)
 

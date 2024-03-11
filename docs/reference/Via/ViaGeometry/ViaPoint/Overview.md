@@ -124,7 +124,7 @@ Via/ViaPoint/Overview.md, <dev>Via.ViaGeometry.ViaPoint.ViaConvergencePoint</dev
 Via/ViaPoint/Overview.md, <dev>Via.ViaGeometry.ViaPoint.ViaDivergencePoint</dev>, ![90044.jpg](/PaperPhoto/90044.jpg)
 :::
 
-# 🔻 <via>Via Point Overview</via>
+# 🔻 <via>Via Point</via>
 
 ## Site vs Microsite
 

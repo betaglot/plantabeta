@@ -28,7 +28,7 @@
 - "Eco.Overview"
 :::
 
-# 🟩  <eco>Eco Overview</eco>
+# 🟩  <eco>Eco</eco>
 
 ![EcoIcon](/Eco/Eco_Icon.png)
 

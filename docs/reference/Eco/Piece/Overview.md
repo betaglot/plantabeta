@@ -15,7 +15,7 @@
 - "Eco.Piece.Overview"
 :::
 
-# 🟩  <eco>Piece Overview</eco>
+# 🟩  <eco>Piece</eco>
 
 ## PieceAnatomy
 

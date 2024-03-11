@@ -62,7 +62,7 @@ Moto/HandMoto/Overview.md, <dev>Moto.HandMoto.Overview</dev>, ![2525.jpg](/Paper
 Moto/HandMoto/Overview.md, <dev>Moto.HandMoto.Overview</dev>, ![2571.jpg](/PaperPhoto/2571.jpg)
 :::
 
-# 🟠 <moto>Hand Overview</moto>
+# 🟠 <moto>HandMoto</moto>
 
 ## Hand Anatomy
 

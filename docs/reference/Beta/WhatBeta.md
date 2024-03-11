@@ -72,7 +72,7 @@ Beta/WhatBeta.md, <dev>Beta.BetaInstance</dev>, ![90087.png](/PaperPhoto/90087.p
 Beta/WhatBeta.md, <dev>Beta.BetaInstance.BetaInstanceComparison</dev>, ![90087.png](/PaperPhoto/90087.png)
 :::
 
-# 🔷 <beta>What is Beta?</beta> 🔷
+# 🔷 <beta>What is Beta?</beta>
 
 > Beta is the **information** that you use to perform planting tasks.
 

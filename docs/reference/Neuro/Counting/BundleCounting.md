@@ -12,7 +12,7 @@
 
 :::
 
-# 💜 <neuro>BundleCounting </neuro>
+# 💜 <neuro>BundleCounting</neuro>
 
 ![NeuroIcon](/Neuro/Neuro_Icon.png)
 

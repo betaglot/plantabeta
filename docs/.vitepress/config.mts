@@ -150,7 +150,7 @@ function sidebarGuide() {
         { text: 'Gear List', link: '/guide/What/GearList' }
       ]
     },
-    { text: 'Go to Reference', link: '/reference/Overview' },
+    { text: 'Go to Examples', link: '/examples/Overview' },
   ]
 }
 // 
@@ -159,23 +159,19 @@ function sidebarReference() {
     { text: '<strong>Reference Overview</strong>', link: '/reference/RefOverview' },
     // #Beta
     {
-      text: '🔷 <beta>Beta</beta>', collapsed: true, items: [
-        { text: '🔷 <beta>What is Beta?</beta>', link: '/reference/Beta/WhatBeta' },
+      text: '🔷 <beta>Beta</beta>', link: '/reference/Beta/WhatBeta', collapsed: true, items: [
         { text: '🔷 <beta>BetaLingo</beta>', link: '/reference/Beta/BetaLingo/Overview' },
         { text: '🔷 <beta>BetaAction</beta>', link: '/reference/Beta/BetaAction' },
         { text: '🔷 <beta>BetaDiagram</beta>', link: '/reference/Beta/BetaDiagram' },
         {
-          text: '🔷 <beta>BetaCode</beta>', collapsed: true, items: [
-            { text: '🔷 <beta>Overview</beta>', link: '/reference/Beta/BetaCode/Overview' },
+          text: '🔷 <beta>BetaCode</beta>',link: '/reference/Beta/BetaCode/Overview',  collapsed: true, items: [
           ]
         },
         {
-          text: '🔷 <beta>BetaScore</beta>', collapsed: true, items: [
-            { text: '🔷 <beta>Overview</beta>', link: '/reference/Beta/BetaScore/Overview' },
+          text: '🔷 <beta>BetaScore</beta>', link: '/reference/Beta/BetaScore/Overview' , collapsed: true, items: [
             { text: '🔷 <beta>BetaExecution</beta>', link: '/reference/Beta/BetaScore/BetaExecution' },
             {
-              text: '🔷 <beta>BetaDifficulty</beta>', collapsed: true, items: [
-                { text: '🔷 <beta>Overview</beta>', link: '/reference/Beta/BetaScore/BetaDifficulty/Overview' },
+              text: '🔷 <beta>BetaDifficulty</beta>',link: '/reference/Beta/BetaScore/BetaDifficulty/Overview', collapsed: true, items: [
                 { text: '🔷 <beta>BetaComplexity</beta>', link: '/reference/Beta/BetaScore/BetaDifficulty/BetaComplexity' },
                 { text: '🔷 <beta>BetaRisk</beta>', link: '/reference/Beta/BetaScore/BetaDifficulty/BetaRisk' },
                 { text: '🔷 <beta>BetaIntensity</beta>', link: '/reference/Beta/BetaScore/BetaDifficulty/BetaIntensity' }
@@ -191,8 +187,7 @@ function sidebarReference() {
         { text: '🔷 <eco>Eco Phrase</eco>', link: '/reference/Eco/EcoPhrase/Overview' },
         { text: '🔷 <eco>Eco Difficulty</eco>', link: '/reference/Eco/EcoDifficulty' },
         {
-          text: '🟩 <eco>Animals</eco>', collapsed: true, items: [
-            { text: '🟩 <eco>Animals Overview</eco>', link: '/reference/Eco/Animals/Overview' },
+          text: '🟩 <eco>Animals</eco>', link: '/reference/Eco/Animals/Overview', collapsed: true, items: [
 
           ]
         },
@@ -214,7 +209,7 @@ function sidebarReference() {
         },
         {
           text: '🟩 <eco>Block</eco>', link: '/reference/Eco/Block/Overview', collapsed: true, items: [
-            { text: '🟩 <eco>CoverBlock</eco>', link: '/reference/Eco/Block/CoverBlock' },
+            { text: '🟩 <eco>FillBlock</eco>', link: '/reference/Eco/Block/FillBlock' },
             { text: '🟩 <eco>Road</eco>', link: '/reference/Eco/Block/Road' },
           ]
         },
@@ -602,8 +597,7 @@ function sidebarReference() {
           ]
         },
         {
-          text: '🔻 <via>Flag</via>', collapsed: true, items: [
-            { text: '🔻 <via>Flag Overview</via>', link: '/reference/Via/Flag/Overview' },
+          text: '🔻 <via>Flag</via>',link: '/reference/Via/Flag/Overview', collapsed: true, items: [
             { text: '🔻 <via>BoundaryFlag</via>', link: '/reference/Via/Flag/BoundaryFlag' },
             { text: '🔻 <via>FlagLocation</via>', link: '/reference/Via/Flag/FlagLocation' },
             { text: '🔻 <via>HighFlag</via>', link: '/reference/Via/Flag/HighFlag' },
@@ -617,25 +611,20 @@ function sidebarReference() {
     },
     // #Neuro
     {
-      text: '💜 <neuro>Neuro</neuro>', collapsed: true, items: [
-        { text: '💜 <neuro>Neuro Overview</neuro>', link: '/reference/Neuro/NeuroOverview' },
+      text: '💜 <neuro>Neuro</neuro>', link: '/reference/Neuro/NeuroOverview', collapsed: true, items: [
         { text: '🔷 <neuro>Neuro Difficulty</neuro>', link: '/reference/Neuro/NeuroDifficulty' },
         {
-          text: '💜 <neuro>Arousal</neuro>', collapsed: true, items: [
-            { text: '💜 <neuro>Arousal Overview</neuro>', link: '/reference/Neuro/Arousal/Overview' },
+          text: '💜 <neuro>Arousal</neuro>',link: '/reference/Neuro/Arousal/Overview', collapsed: true, items: [
           ]
         },
         {
-          text: '💜 <neuro>Attention</neuro>', collapsed: true, items: [
-            { text: '💜 <neuro>Attention Overview</neuro>', link: '/reference/Neuro/Attention/Overview' },
+          text: '💜 <neuro>Attention</neuro>',link: '/reference/Neuro/Attention/Overview', collapsed: true, items: [
           ]
         },
         {
-          text: '💜 <neuro>Audio</neuro>', collapsed: true, items: [
-            { text: '💜 <neuro>Audio Overview</neuro>', link: '/reference/Neuro/Audio/Overview' },
+          text: '💜 <neuro>Audio</neuro>', link: '/reference/Neuro/Audio/Overview', collapsed: true, items: [
             {
-              text: '💜 <neuro>Music</neuro>', collapsed: true, items: [
-                { text: '💜 <neuro>Music Overview</neuro>', link: '/reference/Neuro/Audio/Music/Overview' },
+              text: '💜 <neuro>Music</neuro>', link: '/reference/Neuro/Audio/Music/Overview', collapsed: true, items: [
                 { text: '💜 <neuro>Playlists</neuro>', link: '/reference/Neuro/Audio/Music/Overview' },
               ]
             },
@@ -647,13 +636,11 @@ function sidebarReference() {
           ]
         },
         {
-          text: '💜 <neuro>Awareness</neuro>', collapsed: true, items: [
-            { text: '💜 <neuro>Awareness Overview</neuro>', link: '/reference/Neuro/Awareness/Overview' },
+          text: '💜 <neuro>Awareness</neuro>',link: '/reference/Neuro/Awareness/Overview', collapsed: true, items: [
           ]
         },
         {
-          text: '💜 <neuro>Counting</neuro>', collapsed: true, items: [
-            { text: '💜 <neuro>Counting Overview</neuro>', link: '/reference/Neuro/Counting/Overview' },
+          text: '💜 <neuro>Counting</neuro>', link: '/reference/Neuro/Counting/Overview',collapsed: true, items: [
           ]
         },
         {
@@ -663,8 +650,7 @@ function sidebarReference() {
           ]
         },
         {
-          text: '💜 <neuro>Emotion</neuro>', collapsed: true, items: [
-            { text: '💜 <neuro>Emotion Overview</neuro>', link: '/reference/Neuro/Emotion/Overview' },
+          text: '💜 <neuro>Emotion</neuro>',link: '/reference/Neuro/Emotion/Overview', collapsed: true, items: [
             { text: '💜 <neuro>Anger</neuro>', link: '/reference/Neuro/Emotion/Anger' },
             { text: '💜 <neuro>Disgust</neuro>', link: '/reference/Neuro/Emotion/Disgust' },
             { text: '💜 <neuro>Fear</neuro>', link: '/reference/Neuro/Emotion/Fear' },
@@ -673,8 +659,7 @@ function sidebarReference() {
           ]
         },
         {
-          text: '💜 <neuro>Energy</neuro>', collapsed: true, items: [
-            { text: '💜 <neuro>Energy Overview</neuro>', link: '/reference/Neuro/Energy/Overview' },
+          text: '💜 <neuro>Energy</neuro>', link: '/reference/Neuro/Energy/Overview', collapsed: true, items: [
           ]
         },
         {
@@ -686,18 +671,15 @@ function sidebarReference() {
           ]
         },
         {
-          text: '💜 <neuro>Event</neuro>', collapsed: true, items: [
-            { text: '💜 <neuro>Event Overview</neuro>', link: '/reference/Neuro/Event/Overview' },
+          text: '💜 <neuro>Event</neuro>',link: '/reference/Neuro/Event/Overview', collapsed: true, items: [
           ]
         },
         {
-          text: '💜 <neuro>Homeostasis</neuro>', collapsed: true, items: [
-            { text: '💜 <neuro>Homeostasis Overview</neuro>', link: '/reference/Neuro/Homeostasis/Overview' },
+          text: '💜 <neuro>Homeostasis</neuro>', link: '/reference/Neuro/Homeostasis/Overview',collapsed: true, items: [
           ]
         },
         {
-          text: '💜 <neuro>Memory</neuro>', collapsed: true, items: [
-            { text: '💜 <neuro>Overview</neuro>', link: '/reference/Neuro/Memory/Overview' },
+          text: '💜 <neuro>Memory</neuro>',link: '/reference/Neuro/Memory/Overview', collapsed: true, items: [
             { text: '💜 <neuro>WorkingMemory</neuro>', link: '/reference/Neuro/Memory/WorkingMemory' },
             { text: '💜 <neuro>ShortTermMemory</neuro>', link: '/reference/Neuro/Memory/ShortTermMemory' },
             { text: '💜 <neuro>LongTermMemory</neuro>', link: '/reference/Neuro/Memory/LongTermMemory' },
@@ -706,25 +688,21 @@ function sidebarReference() {
           ]
         },
         {
-          text: '💜 <neuro>Mindfulness</neuro>', collapsed: true, items: [
-            { text: '💜 <neuro>Overview</neuro>', link: '/reference/Neuro/Mindfulness/Overview' },
+          text: '💜 <neuro>Mindfulness</neuro>',link: '/reference/Neuro/Mindfulness/Overview',  collapsed: true, items: [
           ]
         },
         {
-          text: '💜 <neuro>Muscle</neuro>', collapsed: true, items: [
-            { text: '💜 <neuro>Muscle Overview</neuro>', link: '/reference/Neuro/Muscle/Overview' },
+          text: '💜 <neuro>Muscle</neuro>', link: '/reference/Neuro/Muscle/Overview', collapsed: true, items: [
           ]
         },
         { text: '💜 <neuro>Proprioception</neuro>', link: '/reference/Neuro/Proprioception/Overview' },
         { text: '💜 <neuro>Resilience</neuro>', link: '/reference/Neuro/Resilience/Overview' },
         {
-          text: '💜 <neuro>SpatialCognition</neuro>', collapsed: true, items: [
-            { text: '💜 <neuro>SpatialCognition Overview</neuro>', link: '/reference/Neuro/SpatialCognition/Overview' },
+          text: '💜 <neuro>SpatialCognition</neuro>',link: '/reference/Neuro/SpatialCognition/Overview', collapsed: true, items: [
           ]
         },
         {
-          text: '💜 <neuro>Time</neuro>', collapsed: true, items: [
-            { text: '💜 <neuro>Time Overview</neuro>', link: '/reference/Neuro/Time/Overview' },
+          text: '💜 <neuro>Time</neuro>', link: '/reference/Neuro/Time/Overview', collapsed: true, items: [
             { text: '💜 <neuro>BagUpTime</neuro>', link: '/reference/Neuro/Time/BagUpTime' },
             { text: '💜 <neuro>DailySchedule</neuro>', link: '/reference/Neuro/Time/DailySchedule' },
             { text: '💜 <neuro>MotoTiming</neuro>', link: '/reference/Neuro/Time/MotoTiming' },
@@ -749,6 +727,7 @@ function sidebarTutorial() {
     { text: 'Matching', link: '/tutorial/Test_Matching' },
     { text: 'MultipleChoice', link: '/tutorial/Test_MultipleChoice' },
     { text: 'Sequencing', link: '/tutorial/Test_Sequencing' },
+    { text: 'Go to Reference', link: '/reference/Overview' },
   ]
 
 }
@@ -756,5 +735,6 @@ function sidebarTutorial() {
 function sidebarExamples() {
   return [
     { text: 'Examples Overview', link: '/examples/Overview' },
+    { text: 'Go to Tutorial', link: '/tutorial/TutorialOverview' },
   ]
 }

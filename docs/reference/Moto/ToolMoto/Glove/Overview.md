@@ -17,7 +17,7 @@
 Moto/ToolMoto/Glove/Overview.md, <dev>Moto.ToolMoto.GloveMoto.Overview</dev>, ![0487.jpg](/PaperPhoto/0487.jpg)
 :::
 
-# 🟠 <moto>Glove Overview</moto>
+# 🟠 <moto>GloveMoto</moto>
 
 ## Glove Anatomy
 

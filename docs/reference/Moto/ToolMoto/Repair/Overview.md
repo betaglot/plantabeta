@@ -12,7 +12,7 @@
 
 :::
 
-# 🟠 <moto>Tool Maintenance</moto>
+# 🟠 <moto>Tool Repair</moto>
 
 Temporary Repair until you can have your tools repaired by a professional.
 

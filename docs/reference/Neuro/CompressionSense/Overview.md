@@ -12,7 +12,7 @@
 
 :::
 
-# 💜 <neuro>Compression Sense </neuro>
+# 💜 <neuro>Compression Sense</neuro>
 
 ![NeuroIcon](/Neuro/Neuro_Icon.png)
 

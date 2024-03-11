@@ -169,7 +169,7 @@ Via/ViaCurve/Overview.md, <dev>Via.ViaGeometry.ViaCurve.ParallelLine</dev>, ![90
 Via/ViaCurve/Overview.md, <dev>Via.ViaGeometry.ViaCurve.ViaLinearLine</dev>, ![90044.jpg](/PaperPhoto/90044.jpg)
 :::
 
-# 🔻 <via>ViaCurve Overview</via>
+# 🔻 <via>ViaCurve</via>
 
 ## What is a ViaCurve?
 

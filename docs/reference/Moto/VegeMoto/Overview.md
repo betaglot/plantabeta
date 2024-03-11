@@ -29,7 +29,7 @@ Moto/VegeMoto/Overview.md, <dev>Moto.VegeMoto.Overview</dev>, ![3029.jpg](/Paper
 Moto/VegeMoto/Overview.md, <dev>Moto.VegeMoto.Overview</dev>, ![3080.jpg](/PaperPhoto/3080.jpg)
 :::
 
-# 🟠 <moto>Plant Overview</moto>
+# 🟠 <moto>VegeMoto</moto>
 
 ## Plant Anatomy
 

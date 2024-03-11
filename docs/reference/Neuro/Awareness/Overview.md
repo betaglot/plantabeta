@@ -20,6 +20,6 @@
 Neuro/Awareness/Overview.md, <dev>Neuro.Awareness</dev>, ![0734.jpg](/PaperPhoto/0734.jpg)
 :::
 
-# 💜 <neuro>Awareness Overview </neuro>
+# 💜 <neuro>Awareness</neuro>
 
 ## Differences between Awareness and Attention

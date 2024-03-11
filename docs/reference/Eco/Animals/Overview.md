@@ -26,4 +26,4 @@
 - Ant
 :::
 
-# 🟩 <eco>Animals Overview</eco>
+# 🟩 <eco>Animals</eco>

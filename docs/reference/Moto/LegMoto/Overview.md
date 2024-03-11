@@ -41,7 +41,7 @@ Moto/LegMoto/Overview.md, <dev>Moto.LegMoto.LegRockOver</dev>, ![3149.jpg](/Pape
 Moto/LegMoto/Overview.md, <dev>Moto.LegMoto.LegRockUp</dev>, ![3149.jpg](/PaperPhoto/3149.jpg)
 :::
 
-# 🟠 <moto>Leg Overview</moto>
+# 🟠 <moto>LegMoto</moto>
 
 ## Leg Anatomy
 

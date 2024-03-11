@@ -12,7 +12,7 @@
 
 :::
 
-# 💜 <neuro>Algorithm </neuro>
+# 💜 <neuro>Algorithm</neuro>
 
 ![NeuroIcon](/Neuro/Neuro_Icon.png)
 

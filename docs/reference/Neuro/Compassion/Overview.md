@@ -12,6 +12,6 @@
 
 :::
 
-# 💜 <neuro>Compassion </neuro>
+# 💜 <neuro>Compassion</neuro>
 
 ## SelfCompassion

@@ -543,7 +543,7 @@ Moto/MotoOverview.md, <dev>Moto.MotoProperties.MotoPermutation</dev>, ![90044.jp
 Moto/MotoOverview.md, <dev>Moto.MotoSpace.Overview</dev>, ![90044.jpg](/PaperPhoto/90044.jpg)
 :::
 
-# 🟠 <moto>Moto Overview</moto>
+# 🟠 <moto>Moto</moto>
 
 ![Moto Icon](/Moto/Moto_Icon.png)
 

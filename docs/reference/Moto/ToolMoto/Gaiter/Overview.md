@@ -16,7 +16,7 @@
 
 :::
 
-# 🟠 <moto>Gaiter Overview</moto>
+# 🟠 <moto>GaiterMoto</moto>
 
 ## Gaiter Anatomy
 

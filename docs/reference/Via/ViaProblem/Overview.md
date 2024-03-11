@@ -17,7 +17,7 @@ The ViaProblem is a lot smaller than the ViaTheorem
 
 :::
 
-# 🔻 <via>Via Problem Overview</via>
+# 🔻 <via>Via Problem</via>
 
 > a situation, or thing that needs attention and needs to be dealt with or solved by Via
 

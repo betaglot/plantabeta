@@ -22,7 +22,7 @@
 - there's also stick mat stick mat is a form of Slash because stick Matt is dead there are also sometimes fall in balsam fir trees that could be slashed so a whole tree could be slash
 :::
 
-# 🟩  <eco>Slash Overview</eco>
+# 🟩  <eco>Slash</eco>
 
 ## DeadSlash
 

@@ -35,7 +35,7 @@ Neuro/Judgement/LandJudgement.md, <dev>Neuro.Logic.Overview</dev>, ![90002.jpg](
 Neuro/Judgement/LandJudgement.md, <dev>Neuro.Logic.Deduction</dev>, ![90047.jpg](/PaperPhoto/90047.jpg)
 :::
 
-# 💜 <neuro>Judgement </neuro>
+# 💜 <neuro>Judgement</neuro>
 
 ![NeuroIcon](/Neuro/Neuro_Icon.png)
 

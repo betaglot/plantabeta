@@ -12,4 +12,4 @@
 
 :::
 
-# 🔷 <beta>BetaIntensity</beta>
+# 🔷 <beta>Beta Intensity</beta>

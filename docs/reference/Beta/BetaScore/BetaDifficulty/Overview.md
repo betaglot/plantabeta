@@ -118,6 +118,6 @@ Beta/BetaDifficulty/Overview, <dev>Dev.Difficulty.Risk</dev>, ![90097.png](/Pape
 
 :::
 
-# 🔷 <beta>Beta Difficulty Overview</beta>
+# 🔷 <beta>Beta Difficulty</beta>
 
 ## BetaScore

@@ -34,4 +34,4 @@ Beta/BetaAction.md, <dev>Beta.BetaAction.MimeBeta</dev>, ![1853.jpg](/PaperPhoto
 
 :::
 
-# 🔷 <beta>BetaAction</beta>
+# 🔷 <beta>Beta Action</beta>

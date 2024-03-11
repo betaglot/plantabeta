@@ -19,7 +19,7 @@
 - "Eco.Area.SlashPileArea"
 :::
 
-# 🟩  <eco>Area Overview</eco>
+# 🟩  <eco>Area</eco>
 
 # AreaAnatomy
 

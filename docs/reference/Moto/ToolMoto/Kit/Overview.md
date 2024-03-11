@@ -12,7 +12,7 @@
 
 :::
 
-# 🟠 <moto>Kit Overview</moto>
+# 🟠 <moto>KitMoto</moto>
 
 AlsoKnownAs(CacheBag)
 

@@ -38,7 +38,7 @@ Neuro/Time/Planning.md, <dev>Neuro.Planning</dev>, ![2573.jpg](/PaperPhoto/2573.
 Neuro/Time/Planning.md, <dev>Neuro.Planning</dev>, ![2944.jpg](/PaperPhoto/2944.jpg)
 :::
 
-# 💜 <neuro>Time Overview </neuro>
+# 💜 <neuro>Time</neuro>
 
 ![NeuroIcon](/Neuro/Neuro_Icon.png)
 

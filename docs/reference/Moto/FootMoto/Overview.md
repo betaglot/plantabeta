@@ -24,7 +24,7 @@ Moto/FootMoto/Overview.md, <dev>Moto.FootMoto.Overview</dev>, ![2481.jpg](/Paper
 Moto/FootMoto/Overview.md, <dev>Moto.FootMoto.Overview</dev>, ![2936.jpg](/PaperPhoto/2936.jpg)
 :::
 
-# 🟠 <moto>Foot Overview</moto>
+# 🟠 <moto>FootMoto</moto>
 
 ## Foot Anatomy
 

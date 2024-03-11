@@ -33,4 +33,4 @@
 
 :::
 
-# 🟩  <eco>AtmoshpereOverview</eco>
+# 🟩  <eco>Atmosphere</eco>

@@ -28,4 +28,4 @@ Raw land overview raw land is land which is been cut but not but this not all th
 - You can't move through dense forest without climbing.
 :::
 
-# 🟩 <eco>RawLand Overview</eco>
+# 🟩 <eco>RawLand</eco>

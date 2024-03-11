@@ -41,7 +41,7 @@ Via/ViaSurface/Overview.md, <dev>Via.ViaGeometry.ViaSurface.ViaSurfaceDensity</d
 Via/ViaSurface/Overview.md, <dev>Via.ViaGeometry.ViaSurface.ViaSurfaceLine</dev>, ![1546.jpg](/PaperPhoto/1546.jpg)
 :::
 
-# 🔻 <via>Via Surface</via>
+# 🔻 <via>ViaSurface</via>
 
 > A surface that a Planter contacts with any part of their body or with a tool.
 

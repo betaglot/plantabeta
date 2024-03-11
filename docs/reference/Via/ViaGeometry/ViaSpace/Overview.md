@@ -97,7 +97,7 @@ Via/ViaSpace/Overview.md, <dev>Via.Spacing.MinimumSpacing</dev>, ![3159.jpg](/Pa
 Via/ViaSpace/Overview.md, <dev>Via.ViaGeometry.ViaSpace.Overview</dev>, ![90044.jpg](/PaperPhoto/90044.jpg)
 :::
 
-# <via>Via Space</via>
+# <via>ViaSpace</via>
 
 > the Space that you move through while following a ViaCurve
 

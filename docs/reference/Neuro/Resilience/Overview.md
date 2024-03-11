@@ -20,7 +20,7 @@ You don't need to do it alone
 
 :::
 
-# 💜 <neuro>Resilience </neuro>
+# 💜 <neuro>Resilience</neuro>
 
 ![NeuroIcon](/Neuro/Neuro_Icon.png)
 

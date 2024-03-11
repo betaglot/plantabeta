@@ -175,7 +175,7 @@ Moto/MotoPhrase/Overview.md, <dev>Moto.MotoPhrase</dev>, ![3157.jpg](/PaperPhoto
 Moto/MotoPhrase/Overview.md, <dev>Moto.MotoPhrase</dev>, ![3227.jpg](/PaperPhoto/3227.jpg)
 :::
 
-# 🟠 <moto>Phrase Overview</moto>
+# 🟠 <moto>Phrase</moto>
 
 > sequence of Moto Elements
 

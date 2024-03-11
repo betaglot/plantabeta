@@ -21,4 +21,4 @@ Moto/ToolMoto/Bundle/Overview.md, <dev>Moto.ToolMoto.BundleMoto.Overview</dev>, 
 
 :::
 
-# 🟠 <moto>Bundle Overview</moto>
+# 🟠 <moto>BundleMoto</moto>

@@ -18,4 +18,4 @@
 
 :::
 
-# 🟠 <moto>Boot</moto>
+# 🟠 <moto>BootMoto</moto>

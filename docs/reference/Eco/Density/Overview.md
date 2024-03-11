@@ -23,7 +23,7 @@ Vor
 - "Eco.Density.Plot"
 :::
 
-# 🟩  <eco>Density Overview</eco>
+# 🟩  <eco>Density</eco>
 
 The number of [crop trees](/Glossary/glossary#crop-tree) within a given area.
 

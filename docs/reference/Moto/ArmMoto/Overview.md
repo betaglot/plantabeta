@@ -58,7 +58,7 @@ Moto/ArmMoto/Overview.md, <dev>Moto.ArmMoto.Overview</dev>, ![2525.jpg](/PaperPh
 
 :::
 
-# 🟠 <moto>Arm Overview</moto>
+# 🟠 <moto>ArmMoto</moto>
 
 ## Arm Anatomy
 

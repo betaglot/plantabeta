@@ -23,7 +23,7 @@
 - Tarp
 :::
 
-# 🟠 <moto>Carabiner</moto>
+# 🟠 <moto>CarabinerMoto</moto>
 
 <div style="display: flex; width: %100; margin-top: 50px;">
     <div style="margin: 5px; width: 50%">

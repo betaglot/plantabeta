@@ -31,4 +31,4 @@ Neuro/Learning/Overview.md, <dev>Neuro.Learning.Recall</dev>, ![1763.jpg](/Paper
 Neuro/Learning/Overview.md, <dev>Neuro.Learning.Review</dev>, ![1763.jpg](/PaperPhoto/1763.jpg)
 :::
 
-# 💜 <neuro>Learning Overview</neuro>
+# 💜 <neuro>Learning</neuro>

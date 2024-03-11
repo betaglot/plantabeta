@@ -12,4 +12,4 @@
 
 :::
 
-# 🟠 <moto>MotoGeometry Overview</moto>
+# 🟠 <moto>MotoGeometry</moto>

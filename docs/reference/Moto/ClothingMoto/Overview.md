@@ -21,6 +21,6 @@ Moto/ClothingMoto/Overview.md, <dev>Moto.ClothingMoto.Overview</dev>, ![3148.jpg
 
 :::
 
-# 🟠 <moto>Clothing Overview</moto>
+# 🟠 <moto>ClothesMoto</moto>
 
 ## Clothing Properties

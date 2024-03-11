@@ -12,4 +12,4 @@
 
 :::
 
-# 🔷 <beta>BetaComplexity</beta>
+# 🔷 <beta>Beta Complexity</beta>

@@ -12,4 +12,4 @@
 
 :::
 
-# 🔷 <beta>BetaRisk</beta>
+# 🔷 <beta>Beta Risk</beta>

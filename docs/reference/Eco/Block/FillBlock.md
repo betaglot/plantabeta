@@ -12,9 +12,9 @@
 
 :::
 
-# 🟩  <eco>CoverBlock</eco>🟩
+# 🟩  <eco>FillBlock</eco>🟩
 
-## CoverBlock Purpose
+## FillBlock Purpose
 
 - BurntBlock
 

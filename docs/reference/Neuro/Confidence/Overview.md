@@ -20,7 +20,7 @@
     - Visual plot
 :::
 
-# 💜 <neuro>Confidence </neuro>
+# 💜 <neuro>Confidence</neuro>
 
 ![NeuroIcon](/Neuro/Neuro_Icon.png)
 

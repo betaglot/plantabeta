@@ -14,4 +14,4 @@
 - Geology_Sun_SummerPlanting_HeatStroke
 :::
 
-# 🟩  <eco>Sun Overview</eco>
+# 🟩  <eco>Sun</eco>

@@ -33,4 +33,4 @@ Neuro/Estimation/Overview.md, <dev>Neuro.Estimation.ViaEstimation.LineDistanceEs
 Neuro/Estimation/Overview.md, <dev>Neuro.Estimation.ViaEstimation.TimeEstimation</dev>, ![3161.jpg](/PaperPhoto/3161.jpg)
 :::
 
-# <neuro>Estimation Overview</neuro>
+# <neuro>Estimation</neuro>

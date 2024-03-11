@@ -16,7 +16,7 @@ Neuro/Counting/Overview.md, <dev>Neuro.Counting</dev>, ![2942.jpg](/PaperPhoto/2
 Neuro/Counting/Overview.md, <dev>Neuro.Counting</dev>, ![3005.jpg](/PaperPhoto/3005.jpg)
 :::
 
-# 💜 <neuro>Counting </neuro>
+# 💜 <neuro>Counting</neuro>
 
 ![NeuroIcon](/Neuro/Neuro_Icon.png)
 

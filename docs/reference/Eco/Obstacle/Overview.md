@@ -29,7 +29,7 @@
 - "Eco.Obstacle.WaterObstacle"
 :::
 
-# 🟩  <eco>Obstacle Overview</eco>
+# 🟩  <eco>Obstacle</eco>
 
 ## What is an Obstacle?
 

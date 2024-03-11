@@ -47,7 +47,7 @@ Moto/BodyMoto/Overview.md, <dev>Moto.BodyMoto.Overview</dev>, ![2474.jpg](/Paper
 Moto/BodyMoto/Overview.md, <dev>Moto.BodyMoto.Stemming</dev>, ![2834.jpg](/PaperPhoto/2834.jpg)
 :::
 
-# 🟠 <moto>Body Overview</moto>
+# 🟠 <moto>BodyMoto</moto>
 
 ## Body Anatomy
 

@@ -51,7 +51,7 @@
 - ColdFingers
 :::
 
-# 💜 <neuro>Homeostasis </neuro>
+# 💜 <neuro>Homeostasis</neuro>
 
 ![NeuroIcon](/Neuro/Neuro_Icon.png)
 

@@ -25,7 +25,7 @@ Neuro/Memory/Overview.md, <dev>Neuro.Memory</dev>, ![3164.jpg](/PaperPhoto/3164.
 Neuro/Memory/Overview.md, <dev>Neuro.Memory</dev>, ![3269.jpg](/PaperPhoto/3269.jpg)
 :::
 
-# 💜 <neuro>Memory Overview</neuro>
+# 💜 <neuro>Memory</neuro>
 
 > Fire together, wire together
 

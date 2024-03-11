@@ -18,6 +18,6 @@ Neuro/Attention/Overview.md, <dev>Neuro.Attention</dev>, ![0734.jpg](/PaperPhoto
 Neuro/Attention/Overview.md, <dev>Neuro.Attention</dev>, ![2944.jpg](/PaperPhoto/2944.jpg)
 :::
 
-# 💜 <neuro>Attention Overview</neuro>
+# 💜 <neuro>Attention</neuro>
 
 ## Differences between Awareness and Attention

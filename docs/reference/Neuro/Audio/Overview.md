@@ -32,7 +32,7 @@
 Neuro/Audio/Overview.md, <dev>Neuro.Hearing</dev>, ![2956.jpg](/PaperPhoto/2956.jpg)
 :::
 
-# 💜 <neuro>SoundOverview</neuro>
+# 💜 <neuro>Sound</neuro>
 
 ![NeuroIcon](/Neuro/Neuro_Icon.png)
 
