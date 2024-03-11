@@ -45,4 +45,15 @@ Moto/LegMoto/Overview.md, <dev>Moto.LegMoto.LegRockUp</dev>, ![3149.jpg](/PaperP
 
 ## Leg Anatomy
 
+- Illium
+- HipJoint
+- Femur
+- Knee
+- Tibia
+- Ankle
+- Foot
+
 ## Leg Properties
+
+- LegLength
+- LegStrength

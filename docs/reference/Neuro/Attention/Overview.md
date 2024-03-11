@@ -2,7 +2,7 @@
 
 ## DevNotes
 
--
+- Balance a Spade on your hand. You must attend to the forces of the spade.
 
 ## DevState
 

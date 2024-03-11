@@ -56,7 +56,7 @@ tutorials/Overview.md, <dev>Tests.Overview</dev>, ![3041.jpg](/PaperPhoto/3041.j
 tutorials/Overview.md, <dev>Tests.Overview</dev>, ![3047.jpg](/PaperPhoto/3047.jpg)
 :::
 
-# Tests
+# Tutorial
 
 Multiple choice tests, where Planters choose from a selection of images or a selection of text answers.
 

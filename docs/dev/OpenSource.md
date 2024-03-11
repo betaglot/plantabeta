@@ -136,3 +136,12 @@ Modify Patagonia Gear into Kit, Sleeves, Gauntlet
 - Python
 
 ## [Real Python](/dev/RealPython)
+
+## Put(Plant) is built with these Open Source Projects
+
+- Vue.js
+- Python
+- Typescript
+- D3.js
+- Markdown
+- SQLite

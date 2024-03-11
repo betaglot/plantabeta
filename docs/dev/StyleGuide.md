@@ -3,9 +3,6 @@
 ## DevNotes
 
 - Use Code snippets to write abbreviated names to insert Tags or ElementName
-- (Woods)InteadOf([Forest, Plantation])
-    - Bushes are wood
-    - Flowers are not wood
 
 <h2>PageTags</h2>
 
@@ -144,7 +141,7 @@ dev/StyleGuide.md, <dev>Dev.LevelOfAbstraction</dev>, ![90088.png](/PaperPhoto/9
 
 ## <via>Be Canadian</via>
 
-It doesn't matter if it's always totally true, the canadian stereo type is believed, not proven.
+It doesn't matter if it's always totally true, the canadian stereotype is believed, not proven.
 
 - Hockey
 - Kindness
@@ -157,6 +154,8 @@ It doesn't matter if it's always totally true, the canadian stereo type is belie
 - Massive Wilderness
     - EcoHome Hero Image
 - Cold, Winter
+- Woven tools
+    - Basket
 
 ## Put(Plant).org
 
@@ -167,6 +166,11 @@ It doesn't matter if it's always totally true, the canadian stereo type is belie
 It's easy to get stuck on the linguistics and naming. You can think about it for hours while in the land. While sitting in front of a computer your time is better spent typing, not thinking about increasing the clarity. Just get it out, then you can edit.
 
 :::
+
+### (Woods)InteadOf([Forest, Plantation])
+
+    - Bushes are wood
+    - Flowers are not wood
 
 ### "Planting"
 
@@ -244,8 +248,10 @@ Periods
 
 ### <moto>MotoColor</moto>
 
-```ts
-#bf6a34
+```md
+
+    #bf6a34
+
 ```
 
 ### <via>ViaColor</via>
@@ -523,8 +529,91 @@ Should "via" be used as natural language? "Get to the next page via the link at 
 
 ## <dev>ElementPageDesign</dev>
 
-### <dev>Definition</dev>
+## <moto>MotoPage.BaseLayout</moto>
 
-Bold the most important of an element definition
+### Definition
 
-### <dev>RelatedElements</dev>
+> Brief Definition in Blockquote avoid using Via adjectives and other BetaModules
+
+### Taxonomy
+
+#### Moto.SubMoto
+
+::: tip
+
+Taxonomy will be useful for D3.js
+
+It doesn't matter if nobody looks at it.
+
+:::
+
+- Subset of Moto
+
+#### Moto.SuperMoto
+
+- Superset of Moto
+
+```py
+
+ArmSwing.SuperMoto = ArmMoto
+
+```
+
+### Images
+
+- Description of a useful image in mind's eye
+- Link to image
+- Link to PaperPhoto. Draw a rough sketch of the Moto, be sure to clearly Tag the sketch in the Head of the paper.
+    - Capture then Upload the Photo with Phone
+
+### Moto.Purpose
+
+The purpose is usually affect other BetaElements
+
+### Moto.AnteMoto
+
+Syntax: `Moto.AnteMoto`
+
+- How they transition to each other
+
+### Moto.PostMoto
+
+### Moto.Via
+
+- How does this Moto interface with Eco?
+- Where in the Via is this Moto performed?
+
+### Moto.Eco
+
+Where in Eco is this Moto performed and on what EcoObject. Put "the ground" if necessary. Nothing is too obvious in formal languages!
+
+### Moto.Neuro
+
+- Control Flow Statements for alternative moves
+
+### Moto.Error
+
+- Any errors in ControlFlow
+- MotoExecutionError
+- Error which is caused by Eco
+    - Soil Collapse
+    - Wood breaking
+- Error Recovery if possible
+
+## <via>ViaPage.BaseLayout</via>
+
+### <via>Via.Moto</via>
+
+### <via>Via.Neuro</via>
+
+### <via>Via.Beta</via>
+
+### <via>Via.Via</via>
+
+## <neuro>NeuroPage.BaseLayout</neuro>
+
+## <neuro></neuro>
+
+## <beta>BetaPage.BaseLayout</beta>
+
+## <eco>EcoPage.BaseLayout</eco>

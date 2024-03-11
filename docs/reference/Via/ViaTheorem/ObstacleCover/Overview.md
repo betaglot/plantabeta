@@ -22,4 +22,4 @@ Via/ObstacleCover/Overview.md, <dev>Via.ObstacleCover.ObstacleClusterCover</dev>
 Via/ObstacleCover/Overview.md, <dev>Via.ObstacleCover.ObstacleClusterCover</dev>, ![3168.jpg](/PaperPhoto/3168.jpg)
 :::
 
-# 🔻 <via>ObstacleCover Overview</via>
+# 🔻 <via>ObstacleCover</via>

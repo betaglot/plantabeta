@@ -18,7 +18,7 @@ You can't start a phase with MotoRecovery
 
 :::
 
-# 🔻 <via>Cover Heuristic Overview</via>
+# 🔻 <via>Cover Heuristic</via>
 
 ## What is a Heuristic?
 

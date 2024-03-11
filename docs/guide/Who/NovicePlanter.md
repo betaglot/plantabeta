@@ -2,7 +2,16 @@
 
 ## DevNotes
 
--
+- Confidence is how much you trust yourself. Doubt. "Was that a good tree, should I Test it?"
+
+- RookieStare
+    - Where should I go next
+    - Anxiety
+    - Unknowns
+    - Indecision
+    - Not vision
+    - When NovicePlanter is staring they're not just looking.
+    - Trying to remember where you've been, but you don't have a developed mental model of your land, so it's difficult to know
 
 ## DevState
 

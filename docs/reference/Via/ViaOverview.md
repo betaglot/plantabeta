@@ -202,7 +202,7 @@ Via/ViaOverview.md, <dev>Via.ViaGrid.ViaHexagonGrid</dev>, ![90106.png](/PaperPh
 Via/ViaOverview.md, <dev>Via.ViaGrid.ViaHexagonGrid</dev>, ![90107.png](/PaperPhoto/90107.png)
 :::
 
-# 🔻 <via>Via Overview</via>
+# 🔻 <via>Via</via>
 
 ![Via Icon](/Via/Via_Icon.png)
 

@@ -79,17 +79,21 @@ guide/What/WhatPut(Plant).md, <dev>Guide.What.WhatPut(Plant).Service</dev>, ![90
 
 :::
 
-# What is 🔷<beta>Put(</beta><eco>Plant</eco><beta>)</beta>?
+# 🔷<beta>Put(<eco>Plant</eco>)</beta>
 
-# 🔷<beta>Put(</beta><eco>Tree</eco><beta>)</beta>
+> Put plants in the ground
 
-# 🔷<beta>Put(</beta><eco>Shrub</eco><beta>)</beta>
+# 🔷<beta>Put(<eco>Tree</eco>)</beta>
 
-# 🔷<beta>Put(</beta><eco>Flower</eco><beta>)</beta>
+# 🔷<beta>Put(<eco>Shrub</eco>)</beta>
 
-# 🔷<beta>Put(</beta><eco>Moss</eco><beta>)</beta>
+# 🔷<beta>Put(<eco>Flower</eco>)</beta>
 
-# 🔷<beta>Put(</beta><eco>FireDevice</eco><beta>)</beta>
+# 🔷<beta>Put(<eco>Moss</eco>)</beta>
+
+# 🔷<beta>Put(<eco>FireDevice</eco>)</beta>
+
+Put(Plant) is written like a computer programming language function since it's the application of computational thinking.
 
 ::: info Put(Plant)'s **Mission**
 
@@ -115,7 +119,7 @@ guide/What/WhatPut(Plant).md, <dev>Guide.What.WhatPut(Plant).Service</dev>, ![90
 Find out [how trees are planted](/guide/WhatTreePlanting) in Canada
 :::
 
-## Why Put(Plant)?
+## Why use 🔷<beta>Put(<eco>Plant</eco>)</beta>?
 
 ### A Flexible System
 
@@ -131,7 +135,7 @@ If you're an Experienced Planter, then Put(Plant) gives you the resources to fin
 
 Put(Plant) combines the best practices of the Planting Industry to offer the most robust and planter friendly planter system available. In addition, dozens of talented planters from across Canada have [contributed to the system](/dev/Contribute). Who knows, maybe you'll even become a Put(Plant) contributor.
 
-## What Put(Plant) is Not
+## What 🔷<beta>Put(<eco>Plant</eco>)</beta> is Not
 
 ::: danger Put(Plant) does not include:
 

@@ -216,13 +216,16 @@ Cordura or Kevlar
 
 ## 🟠<moto>Kit</moto>
 
-Bag cover cape
+- Water container in base so that it doesn't crush or leak onto contents and so weight is close to hips
 
-Wear the bag
+- Kit must be able to be carried at the same time as Bags.
 
-Attach through gromets along border
+- BagCover which can be worn as a Cape when it's really rainy or wet
+    - Wear the bag
 
-Store the insulation
+- Attach through gromets along border
+
+- Store the Insulation Layer
 
 ## <moto>Water Volume</moto>
 

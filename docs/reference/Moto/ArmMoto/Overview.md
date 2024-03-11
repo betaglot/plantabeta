@@ -2,7 +2,7 @@
 
 ## DevNotes
 
--
+- Ambidexterity
 
 ## DevState
 
@@ -62,4 +62,15 @@ Moto/ArmMoto/Overview.md, <dev>Moto.ArmMoto.Overview</dev>, ![2525.jpg](/PaperPh
 
 ## Arm Anatomy
 
+- Scapula
+- Shoulder
+- Humerus
+- Elbow
+- Forearm
+- Wrist
+- Hand
+
 ## Arm Properties
+
+- ArmLength
+- ArmStrength
