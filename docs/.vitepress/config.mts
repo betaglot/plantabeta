@@ -285,7 +285,6 @@ function sidebarReference() {
     // #Moto
     {
       text: '🟠 <moto>Moto</moto>', link: '/reference/Moto/MotoOverview', collapsed: true, items: [
-        { text: '🟠 <moto>Moto Overview</moto>', link: '/reference/Moto/MotoOverview' },
         { text: '🟠 <moto>Phrase</moto>', link: '/reference/Moto/Phrase/Overview' },
         { text: '🟠 <moto>Moto Difficulty</moto>', link: '/reference/Moto/MotoDifficulty' },
         {
@@ -442,8 +441,7 @@ function sidebarReference() {
               ]
             },
             {
-              text: '🟠 <moto>Boot</moto>', collapsed: true, items: [
-                { text: '🟠 <moto>Overview</moto>', link: '/reference/Moto/ToolMoto/Boot/Overview' },
+              text: '🟠 <moto>Boot</moto>', link: '/reference/Moto/ToolMoto/Boot/Overview', collapsed: true, items: [
                 { text: '🔷 <moto>Boot Phrase</moto>', link: '/reference/Moto/ToolMoto/Boot/Phrase/Overview' },
                 { text: '🟠 <moto>BootGrip</moto>', link: '/reference/Moto/ToolMoto/Boot/BootGrip' },
                 { text: '🟠 <moto>BootScreef</moto>', link: '/reference/Moto/ToolMoto/Boot/BootScreef' },
@@ -451,28 +449,24 @@ function sidebarReference() {
               ]
             },
             {
-              text: '🟠 <moto>Box</moto>', collapsed: true, items: [
-                { text: '🟠 <moto>Overview</moto>', link: '/reference/Moto/ToolMoto/Box/Overview' },
+              text: '🟠 <moto>Box</moto>', '/reference/Moto/ToolMoto/Box/Overview' v,  collapsed: true, items: [
                 { text: '🔷 <moto>Box Phrase</moto>', link: '/reference/Moto/ToolMoto/Box/Phrase/Overview' },
                 { text: '🟠 <moto>BoxGrip</moto>', link: '/reference/Moto/ToolMoto/Box/BoxGrip' },
               ]
             },
             {
-              text: '🟠 <moto>Bundle</moto>', collapsed: true, items: [
-                { text: '🟠 <moto>Overview</moto>', link: '/reference/Moto/ToolMoto/Bundle/Overview' },
+              text: '🟠 <moto>Bundle</moto>', link: '/reference/Moto/ToolMoto/Bundle/Overview', collapsed: true, items: [
                 { text: '🔷 <moto>Bundle Phrase</moto>', link: '/reference/Moto/ToolMoto/Bundle/Phrase/Overview' },
                 { text: '🟠 <moto>BundleGrip</moto>', link: '/reference/Moto/ToolMoto/Bundle/BundleGrip' },
                 { text: '🟠 <moto>BundlePeel</moto>', link: '/reference/Moto/ToolMoto/Bundle/BundlePeel' },
               ]
             },
             {
-              text: '🟠 <moto>Carabiner</moto>', collapsed: true, items: [
-                { text: '🟠 <moto>Overview</moto>', link: '/reference/Moto/ToolMoto/Carabiner/Overview' },
+              text: '🟠 <moto>Carabiner</moto>', link: '/reference/Moto/ToolMoto/Carabiner/Overview',  collapsed: true, items: [
               ]
             },
             {
-              text: '🟠 <moto>Flag</moto>', collapsed: true, items: [
-                { text: '🟠 <moto>Overview</moto>', link: '/reference/Moto/ToolMoto/Flag/Overview' },
+              text: '🟠 <moto>Flag</moto>',  link: '/reference/Moto/ToolMoto/Flag/Overview' , collapsed: true, items: [
                 { text: '🔷 <moto>Flag Phrase</moto>', link: '/reference/Moto/ToolMoto/Flag/Phrase/Overview' },
                 { text: '🟠 <moto>FlagGrip</moto>', link: '/reference/Moto/ToolMoto/Flag/FlagGrip' },
                 { text: '🟠 <moto>FlagErrorRecovery</moto>', link: '/reference/Moto/ToolMoto/Flag/FlagErrorRecovery' },
@@ -483,9 +477,7 @@ function sidebarReference() {
               ]
             },
             {
-              text: '🟠 <moto>Gaiter</moto>', collapsed: true, items: [
-
-                { text: '🟠 <moto>Overview</moto>', link: '/reference/Moto/ToolMoto/Gaiter/Overview' },
+              text: '🟠 <moto>Gaiter</moto>', link: '/reference/Moto/ToolMoto/Gaiter/Overview',  collapsed: true, items: [
                 { text: '🔷 <moto>Gaiter Phrase</moto>', link: '/reference/Moto/ToolMoto/Gaiter/Phrase/Overview' },
                 { text: '🟠 <moto>GaiterGrip</moto>', link: '/reference/Moto/ToolMoto/Gaiter/GaiterGrip' },
                 { text: '🟠 <moto>GaiterOn</moto>', link: '/reference/Moto/ToolMoto/Gaiter/GaiterOn' },
@@ -493,25 +485,21 @@ function sidebarReference() {
               ]
             },
             {
-              text: '🟠 <moto>Glove</moto>', collapsed: true, items: [
-                { text: '🟠 <moto>Overview</moto>', link: '/reference/Moto/ToolMoto/Glove/Overview' },
+              text: '🟠 <moto>Glove</moto>', link: '/reference/Moto/ToolMoto/Glove/Overview', collapsed: true, items: [
                 { text: '🔷 <moto>Glove Phrase</moto>', link: '/reference/Moto/ToolMoto/Glove/Phrase/Overview' },
                 { text: '🟠 <moto>GloveGrip</moto>', link: '/reference/Moto/ToolMoto/Glove/GloveGrip' },
               ]
             },
             {
-              text: '🟠 <moto>Kit</moto>', collapsed: true, items: [
-                { text: '🟠 <moto>Overview</moto>', link: '/reference/Moto/ToolMoto/Kit/Overview' },
+              text: '🟠 <moto>Kit</moto>', link: '/reference/Moto/ToolMoto/Kit/Overview' , collapsed: true, items: [
               ]
             },
             {
-              text: '🟠 <moto>Rope</moto>', collapsed: true, items: [
-                { text: '🟠 <moto>Overview</moto>', link: '/reference/Moto/ToolMoto/Rope/Overview' },
+              text: '🟠 <moto>Rope</moto>', link: '/reference/Moto/ToolMoto/Rope/Overview', collapsed: true, items: [
               ]
             },
             {
-              text: '🟠 <moto>Spade</moto>', collapsed: true, items: [
-                { text: '🟠 <moto>Overview</moto>', link: '/reference/Moto/ToolMoto/Spade/Overview' },
+              text: '🟠 <moto>Spade</moto>', link: '/reference/Moto/ToolMoto/Spade/Overview',  collapsed: true, items: [
                 { text: '🔷 <moto>Spade Phrase</moto>', link: '/reference/Moto/ToolMoto/Spade/Phrase/Overview' },
                 { text: '🟠 <moto>SpadeGrip</moto>', link: '/reference/Moto/ToolMoto/Spade/SpadeGrip' },
                 { text: '🟠 <moto>SpadeChop</moto>', link: '/reference/Moto/ToolMoto/Spade/SpadeChop' },
@@ -525,8 +513,7 @@ function sidebarReference() {
           ]
         },
         {
-          text: '🟠 <moto>Truck</moto>', collapsed: true, items: [
-            { text: '🟠 <moto>Overview</moto>', link: '/reference/Moto/TruckMoto/Overview' },
+          text: '🟠 <moto>Truck</moto>',link: '/reference/Moto/TruckMoto/Overview',  collapsed: true, items: [
             { text: '🔷 <moto>Truck Phrase</moto>', link: '/reference/Moto/TruckMoto/Phrase/Overview' },
             { text: '🟠 <moto>Sleep</moto>', link: '/reference/Moto/TruckMoto/Sleep' },
             { text: '🟠 <moto>Sit</moto>', link: '/reference/Moto/TruckMoto/Sit' },
@@ -538,15 +525,13 @@ function sidebarReference() {
     },
     // #Via
     {
-      text: '🔻 <via>Via</via>', collapsed: true, items: [
-        { text: '🔻 <via>Via Overview</via>', link: '/reference/Via/ViaOverview' },
+      text: '🔻 <via>Via</via>', link: '/reference/Via/ViaOverview' , collapsed: true, items: [
         { text: '🔷 <via>Via Sequence</via>', link: '/reference/Via/ViaSequence/Overview' },
         { text: '🔷 <via>Via Difficulty</via>', link: '/reference/Via/ViaDifficulty' },
         {
           text: '🔻 <via>ViaGeometry</via>', collapsed: true, items: [
             {
-              text: '🔻 <via>ViaPoint</via>', collapsed: true, items: [
-                { text: '🔻 <via>Overview</via>', link: '/reference/Via/ViaGeometry/ViaPoint/Overview' },
+              text: '🔻 <via>ViaPoint</via>',link: '/reference/Via/ViaGeometry/ViaPoint/Overview', collapsed: true, items: [
                 { text: '🔻 <via>CenterPoint</via>', link: '/reference/Via/ViaGeometry/ViaPoint/CenterPoint' },
                 { text: '🔻 <via>InflectionPoint</via>', link: '/reference/Via/ViaGeometry/ViaPoint/InflectionPoint' },
                 { text: '🔻 <via>Midpoint</via>', link: '/reference/Via/ViaGeometry/ViaPoint/MidPoint' },
@@ -556,8 +541,7 @@ function sidebarReference() {
               ]
             },
             {
-              text: '🔻 <via>ViaCurve</via>', collapsed: true, items: [
-                { text: '🔻 <via>ViaCurve Overview</via>', link: '/reference/Via/ViaGeometry/ViaCurve/Overview' },
+              text: '🔻 <via>ViaCurve</via>', link: '/reference/Via/ViaGeometry/ViaCurve/Overview', collapsed: true, items: [
                 { text: '🔻 <via>AroundCurve</via>', link: '/reference/Via/ViaGeometry/ViaCurve/CircumventCurve' },
                 { text: '🔻 <via>GhostLine</via>', link: '/reference/Via/ViaGeometry/ViaCurve/GhostLine' },
                 { text: '🔻 <via>ParallelCurve</via>', link: '/reference/Via/ViaGeometry/ViaCurve/ParallelCurve' },
@@ -568,8 +552,7 @@ function sidebarReference() {
               ]
             },
             {
-              text: '🔻 <via>ViaSpace</via>', collapsed: true, items: [
-                { text: '🔻 <via>Spacing Overview</via>', link: '/reference/Via/ViaGeometry/ViaSpace/Overview' },
+              text: '🔻 <via>ViaSpace</via>', link: '/reference/Via/ViaGeometry/ViaSpace/Overview', collapsed: true, items: [
                 { text: '🔻 <via>MaximumSpacing</via>', link: '/reference/Via/ViaGeometry/ViaSpace/MaximumSpacing' },
                 { text: '🔻 <via>MinimumSpacing</via>', link: '/reference/Via/ViaGeometry/ViaSpace/MinimumSpacing' },
                 { text: '🔻 <via>OptimalSpacing</via>', link: '/reference/Via/ViaGeometry/ViaSpace/OptimalSpacing' },
@@ -578,24 +561,20 @@ function sidebarReference() {
               ]
             },
             {
-              text: '🔻 <via>ViaSurface</via>', collapsed: true, items: [
-                { text: '🔻 <via>Overview</via>', link: '/reference/Via/ViaSurface/Overview' },
+              text: '🔻 <via>ViaSurface</via>', link: '/reference/Via/ViaSurface/Overview', collapsed: true, items: [
                 { text: '🔻 <via>ViaSurface Texture</via>', link: '/reference/Via/ViaSurface/ViaSurfaceTexture' },
               ]
             },
           ]
         },
         {
-          text: '🔻 <via>Via Problem</via>', collapsed: true, items: [
-            { text: '🔻 <via>Overview</via>', link: '/reference/Via/ViaProblem/Overview' },
+          text: '🔻 <via>Via Problem</via>',link: '/reference/Via/ViaProblem/Overview', collapsed: true, items: [
           ]
         },
         {
-          text: '🔻 <via>Via Theorem</via>', collapsed: true, items: [
-            { text: '🔻 <via>Overview</via>', link: '/reference/Via/ViaTheorem/Overview' },
+          text: '🔻 <via>Via Theorem</via>',  link: '/reference/Via/ViaTheorem/Overview', collapsed: true, items: [
             {
-              text: '🔻 <via>Cover Algorithms</via>', collapsed: true, items: [
-                { text: '🔻 <via>Overview</via>', link: '/reference/Via/ViaTheorem/CoverAlgorithm/Overview' },
+              text: '🔻 <via>Cover Algorithms</via>', link: '/reference/Via/ViaTheorem/CoverAlgorithm/Overview', collapsed: true, items: [
                 { text: '🔻 <via>BoustroCover</via>', link: '/reference/Via/ViaTheorem/CoverAlgorithm/BoustroCover' },
                 { text: '🔻 <via>CircleCover</via>', link: '/reference/Via/ViaTheorem/CoverAlgorithm/CircleCover' },
                 { text: '🔻 <via>DiamondCover</via>', link: '/reference/Via/ViaTheorem/CoverAlgorithm/DiamondCover' },
@@ -609,8 +588,7 @@ function sidebarReference() {
               ]
             },
             {
-              text: '🔻 <via>ObstacleCover</via>', collapsed: true, items: [
-                { text: '🔻 <via>ObstacleCover Overview</via>', link: '/reference/Via/ViaTheorem/ObstacleCover/Overview' },
+              text: '🔻 <via>ObstacleCover</via>', link: '/reference/Via/ViaTheorem/ObstacleCover/Overview' , collapsed: true, items: [
               ]
             },
             {
