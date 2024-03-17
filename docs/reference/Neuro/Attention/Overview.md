@@ -8,6 +8,7 @@
 ## DevNotes
 
 - Balance a Spade on your hand. You must attend to the forces of the spade.
+- Eco is not required for selecting what to attend to.
 
 ## DevState
 

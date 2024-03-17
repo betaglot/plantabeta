@@ -41,7 +41,9 @@ State is Nondual.
 
 ## DevNotes
 
--
+- Arrow of Attention is Violet
+- AttentionLoop
+    - Eco, then Neuro, then Moto, then Via, then back to Eco.
 
 ## DevState
 

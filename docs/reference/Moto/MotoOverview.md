@@ -9,7 +9,11 @@
 
 ## What is a Moto?
 
-- Motoment
+> to set in motion; to shake; to stir; to move
+
+### "Moto" instead of "Move"
+
+Moto is polyglot
 
 ## Moto Types
 

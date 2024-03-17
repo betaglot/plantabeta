@@ -52,6 +52,21 @@ Sentence
 
 Sequence
 
+## Functions
+
+### Put(Tree)
+
+```py
+def Put(PlantType: str, Location: str, TreeCount: int, TreeType: str, ScreefBoolean: bool):
+
+```
+
+### Put(Flag)
+
+```py
+def Put(Flag, FlagColor: str, FlagType: str, HandMove: str)
+```
+
 ## ReservedWords
 
 ```py
@@ -78,11 +93,14 @@ Motos are the objects and functions
 
 BetaCode can be used in Planting and Climbing, on Put(Plant).com and Klimbeta.com
 
+## Syntax Highlighting
+
 ::: details 🛠 <dev>&&&</dev>
 
 ## DevNotes
 
--
+- Beta will be extracted from Climbing and Planting so it can be applied to other activities.
+- What are the shared HandPut() types of Put(Tree) and Put(Flag)?
 
 ## DevState
 

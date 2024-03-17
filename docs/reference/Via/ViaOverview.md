@@ -90,11 +90,15 @@ PieceCover > AreaCover > ViaCurve > ViaPoint
 
 ## DevNotes
 
+- PertainentNegative
+    - "You can't put your foot there"
 - The units of Via are BagUps
 - Via is close to Surveying
     - Trangulation
 
 - Via is Superimposed onto Eco.
+- `IsPlanted(Eco{})`
+    - Look to see if an EcoObject is planted
 
 ## Update your Via
 

@@ -1,4 +1,3 @@
-
 # 🟩  <eco>LogObstacle</eco>
 
 ![EcoIcon](/Eco/Eco_Icon.png)
@@ -82,7 +81,8 @@ Links to other related EcoElements. Related because they are the same EcoType or
 
 ## DevNotes
 
--
+- 🟩<eco>Log.attribute</eco>
+    - Specify LogType with DotNotation
 
 ## DevState
 

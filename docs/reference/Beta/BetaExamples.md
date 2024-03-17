@@ -5,6 +5,14 @@
 
 ![Paper_BetaQuote](/Paper_BetaQuote.jpg)
 
+🔷<beta>Step.<via>Over</via>( 🟩<eco>Log</eco>)</beta> is not a move, it is Beta since it is composed of 3 modules:
+
+🟠<moto>Step()</moto>
+
+🔻<via>Over()</via>
+
+🟩<eco>Log</eco>
+
 ::: details 🛠 <dev>&&&</dev>
 
 ## DevNotes

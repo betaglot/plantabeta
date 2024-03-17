@@ -2,6 +2,20 @@
 
 > the Space that you move through while following a ViaCurve
 
+## ViaTotalSpace
+
+> The entire ViaSpace of Piece or BagUp.
+
+## ViaStartSpace
+
+> ViaStartSpace is the Space around ViaStartPoint
+
+ViaStartSpace usually includes Cache unless WalkIn
+
+ViaStartSpace is relative to ViaTotal
+
+## ViaFinishSpace
+
 ## Via Space Properties
 
 Space Form

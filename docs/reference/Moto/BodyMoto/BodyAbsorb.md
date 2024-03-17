@@ -1,5 +1,4 @@
 
-
 # 🟠 <moto>BodyAbsorb</moto>
 
 ![MotoIcon](/Moto/Moto_Icon.png)

@@ -1,5 +1,4 @@
 
-
 # 💜 <neuro>DailySchdule</neuro>
 
 ![NeuroIcon](/Neuro/Neuro_Icon.png)

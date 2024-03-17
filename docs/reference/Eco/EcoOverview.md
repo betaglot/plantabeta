@@ -11,7 +11,8 @@ Most Planters would call Eco 'the Land', but it's more than just the Land. Eco i
 
 ## DevNotes
 
--
+- Eco a subset of Neuro. Eco is perceived. The map is not the territory. Neuro objectifies earth.
+- Eco exists within Awareness
 
 ## DevState
 

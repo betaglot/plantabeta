@@ -1,5 +1,4 @@
 
-
 # 🟠 <moto>VegeParry</moto>
 
 > Use a VegeParry to redirect vegetation which is colliding with you.  

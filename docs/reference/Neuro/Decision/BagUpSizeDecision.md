@@ -1,4 +1,3 @@
-
 # 💜 <neuro>BagUpSizeDecision</neuro>
 
 ![NeuroIcon](/Neuro/Neuro_Icon.png)
@@ -71,7 +70,8 @@ Links to other related NeuroElements.
 
 ## DevNotes
 
--
+- BagUpSize affects PutRate and ViaSize
+    - BagUpSize is measured by TreeCount
 
 ## DevState
 
