@@ -1,3 +1,10 @@
+
+# 🟩 <eco>Seedling</eco>
+
+Commonly known as a "Tree", even if
+
+## Species
+
 ::: details 🛠 <dev>DesignBox</dev>
 
 ## DevNotes
@@ -64,9 +71,3 @@
 - TreeLibrary*TreeTransport_TreeBundle_TreeCount_20*
 - TreeTransport_Crummy_MaximumTreeBoxCount_SpaceLimit
   :::
-
-# 🟩 <eco>Seedling</eco>
-
-Commonly known as a "Tree", even if
-
-## Species

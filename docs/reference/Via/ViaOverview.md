@@ -1,8 +1,97 @@
+
+# 🔻 <via>Via</via>
+
+![Via Icon](/Via/Via_Icon.png)
+
+## <via>Via Symbol</via> 🔻
+>
+> Red Triangle
+
+## What is Via ?
+
+> the interface between Moto, Neuro and Eco
+::: tip <dev>&</dev>
+<dev>Image of all the different</dev>
+:::
+
+### Via Dimensions
+
+#### Via Space
+
+#### Via Curve
+
+Curve not line
+
+#### Via Point
+
+### Via must be easily attainable
+
+Flying through air from hole to hole is possible but not attainable.
+
+There's no point in thinking about paths which won't work
+
+Not worth the trouble
+
+### Inter
+
+- Interact
+- Interface
+    - Via is the interface between <eco>Eco</eco> and <moto>Moto</moto>
+    - Via is the interface between <eco>Eco</eco> and <neuro>Neuro</neuro>
+- Interpolate
+
+### "By way of"
+
+> "Be able to because of"
+
+> Moto Via Eco
+
+> "Move by way of the land"
+
+> "Use that branch to pull yourself up"
+
+- Computational Geometry
+- The interface between Moto, Neuro and Eco.
+- Via is an abstract layer on top of Eco. A via is where the Planter
+- A vias start and finish at the Cache.
+
+### Purpose of Via
+
+- Minimize Deadwalking
+- To be able to have a detailed mental model of your land, so that you can plan how you're going to Cover your lang.
+
+> a particular way or direction between places
+
+> a method of achieving something
+
+Also Known As "Land Management"
+
+[Routing](https://dictionary.cambridge.org/dictionary/english/routing)
+
+> the use of a particular path or direction for something to travel or be placed
+
+## "Cover" instead of "Fill"
+
+FillPlant
+
+"Cover" is a verb, "Fill" is a noun.
+
+## Via Scope
+
+PieceCover > AreaCover > ViaCurve > ViaPoint
+
+## $$$
+
+- Via Affects productivity the most because via has deadwalking and cache positioning. Via Starts and Finishes at the cache.
+
+- Even the most atheletic planter is wasting time during deadwalking. Minimizing deadwalking benefits all planters and supervisors.
+
 ::: details 🛠 <dev>DesignBox</dev>
 
 ## DevNotes
 
--Via is close to Surveying
+- The units of Via are BagUps
+- Via is close to Surveying
     - Trangulation
 
 - Via is Superimposed onto Eco.
@@ -201,84 +290,3 @@ Via/ViaOverview.md, <dev>Via.ViaSuperposition</dev>, ![90044.jpg](/PaperPhoto/90
 Via/ViaOverview.md, <dev>Via.ViaGrid.ViaHexagonGrid</dev>, ![90106.png](/PaperPhoto/90106.png)
 Via/ViaOverview.md, <dev>Via.ViaGrid.ViaHexagonGrid</dev>, ![90107.png](/PaperPhoto/90107.png)
 :::
-
-# 🔻 <via>Via</via>
-
-![Via Icon](/Via/Via_Icon.png)
-
-## <via>Via Symbol</via> 🔻
->
-> Red Triangle
-
-## What is Via ?
-
-> the interface between Moto, Neuro and Eco
-::: tip <dev>&</dev>
-<dev>Image of all the different</dev>
-:::
-
-### Via Dimensions
-
-#### Via Space
-
-#### Via Curve
-
-Curve not line
-
-#### Via Point
-
-### Via must be easily attainable
-
-Flying through air from hole to hole is possible but not attainable.
-
-There's no point in thinking about paths which won't work
-
-Not worth the trouble
-
-### Inter
-
-- Interact
-- Interface
-    - Via is the interface between <eco>Eco</eco> and <moto>Moto</moto>
-    - Via is the interface between <eco>Eco</eco> and <neuro>Neuro</neuro>
-- Interpolate
-
-### "By way of"
-
-> "Be able to because of"
-
-> Moto Via Eco
-
-> "Move by way of the land"
-
-> "Use that branch to pull yourself up"
-
-- Computational Geometry
-- The interface between Moto, Neuro and Eco.
-- Via is an abstract layer on top of Eco. A via is where the Planter
-- A vias start and finish at the Cache.
-
-### Purpose of Via
-
-- Minimize Deadwalking
-- To be able to have a detailed mental model of your land, so that you can plan how you're going to Cover your lang.
-
-> a particular way or direction between places
-
-> a method of achieving something
-
-Also Known As "Land Management"
-
-[Routing](https://dictionary.cambridge.org/dictionary/english/routing)
-
-> the use of a particular path or direction for something to travel or be placed
-
-## Via Scope
-
-PieceCover > AreaCover > ViaCurve > ViaPoint
-
-## $$$
-
-- Via Affects productivity the most because via has deadwalking and cache positioning. Via Starts and Finishes at the cache.
-
-- Even the most atheletic planter is wasting time during deadwalking. Minimizing deadwalking benefits all planters and supervisors.

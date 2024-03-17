@@ -1,21 +1,3 @@
-::: details 🛠 <dev>DesignBox</dev>
-
-## DevNotes
-
--
-
-## DevState
-
-```py
-`TagsToHeaders: False`
-```
-
-<h2>PageTags</h2>
-
-- "Moto.LegMoto.Jump"
-
-Moto/LegMoto/Jump.md, <dev>Moto.LegMoto.Jump</dev>, ![2834.jpg](/PaperPhoto/2834.jpg)
-:::
 
 # 🟠 <moto>Jump</moto>
 
@@ -110,4 +92,23 @@ Links to other related motos. Related because they are the same MotoType or beca
 - One
 - Two
 - Three
+:::
+
+::: details 🛠 <dev>DesignBox</dev>
+
+## DevNotes
+
+-
+
+## DevState
+
+```py
+`TagsToHeaders: False`
+```
+
+<h2>PageTags</h2>
+
+- "Moto.LegMoto.Jump"
+
+Moto/LegMoto/Jump.md, <dev>Moto.LegMoto.Jump</dev>, ![2834.jpg](/PaperPhoto/2834.jpg)
 :::

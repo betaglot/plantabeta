@@ -1,16 +1,3 @@
-::: details 🛠 <dev>DesignBox</dev>
-
-## DevNotes
-
--
-
-## DevState
-
-```py
-`TagsToHeaders: False`
-```
-
-:::
 
 # Science
 
@@ -38,3 +25,17 @@
 - Suffering
 
 ## Athlean X
+
+::: details 🛠 <dev>DesignBox</dev>
+
+## DevNotes
+
+-
+
+## DevState
+
+```py
+`TagsToHeaders: False`
+```
+
+:::

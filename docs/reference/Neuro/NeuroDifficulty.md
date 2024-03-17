@@ -1,3 +1,6 @@
+
+# 🔷 <neuro>Neuro Difficulty</neuro>
+
 ::: details 🛠 <dev>DesignBox</dev>
 
 ## DevNotes
@@ -11,5 +14,3 @@
 ```
 
 :::
-
-# 🔷 <neuro>Neuro Difficulty</neuro>

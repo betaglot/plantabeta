@@ -1,3 +1,18 @@
+
+# 🔻 <via>ViaSurface</via>
+
+> A surface that a Planter contacts with any part of their body or with a tool.
+
+## Surface Form
+
+## Surface Properties
+
+WetSurface
+
+DrySurface
+
+SmoothSurface
+
 ::: details 🛠 <dev>DesignBox</dev>
 
 ## DevNotes
@@ -40,17 +55,3 @@ Via/ViaSurface/Overview.md, <dev>Via.ViaGeometry.ViaSurface.Overview</dev>, ![15
 Via/ViaSurface/Overview.md, <dev>Via.ViaGeometry.ViaSurface.ViaSurfaceDensity</dev>, ![1527.jpg](/PaperPhoto/1527.jpg)
 Via/ViaSurface/Overview.md, <dev>Via.ViaGeometry.ViaSurface.ViaSurfaceLine</dev>, ![1546.jpg](/PaperPhoto/1546.jpg)
 :::
-
-# 🔻 <via>ViaSurface</via>
-
-> A surface that a Planter contacts with any part of their body or with a tool.
-
-## Surface Form
-
-## Surface Properties
-
-WetSurface
-
-DrySurface
-
-SmoothSurface

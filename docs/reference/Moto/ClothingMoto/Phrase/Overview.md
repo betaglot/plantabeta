@@ -1,3 +1,6 @@
+
+# 🔷 <moto>Clothing Phrase</moto>
+
 ::: details 🛠 <dev>DesignBox</dev>
 
 ## DevNotes
@@ -12,5 +15,3 @@
 
 <h2>PageTags</h2>
 :::
-
-# 🔷 <moto>Clothing Phrase</moto>

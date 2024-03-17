@@ -1,24 +1,3 @@
-::: details 🛠 <dev>DesignBox</dev>
-
-## DevNotes
-
--
-
-## DevState
-
-```py
-`TagsToHeaders: False`
-```
-
-SpinAway
-
-<h2>PageTags</h2>
-
-- "Moto.BodyMoto.BodyRotate"
-
-Moto/BodyMoto/BodyRotate.md, <dev>Moto.BodyMoto.BodyRotate</dev>, ![3080.jpg](/PaperPhoto/3080.jpg)
-
-:::
 
 # 🟠 <moto>BodyRotate</moto>
 
@@ -114,4 +93,26 @@ Links to other related motos. Related because they are the same MotoType or beca
 - One
 - Two
 - Three
+:::
+
+::: details 🛠 <dev>DesignBox</dev>
+
+## DevNotes
+
+-
+
+## DevState
+
+```py
+`TagsToHeaders: False`
+```
+
+SpinAway
+
+<h2>PageTags</h2>
+
+- "Moto.BodyMoto.BodyRotate"
+
+Moto/BodyMoto/BodyRotate.md, <dev>Moto.BodyMoto.BodyRotate</dev>, ![3080.jpg](/PaperPhoto/3080.jpg)
+
 :::

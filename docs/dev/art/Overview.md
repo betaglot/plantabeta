@@ -1,3 +1,20 @@
+
+# Art
+
+Art which represents Planting
+
+Art inspired by Planting
+
+![Alt text](/art/CellularDecomposition.jpg)
+
+---
+
+![Alt text](/art/LegMotoOverlap.jpg)
+
+---
+
+![Alt text](/art/PeelStationFloor.jpg)
+
 ::: details 🛠 <dev>DesignBox</dev>
 
 ## DevNotes
@@ -18,19 +35,3 @@ dev/art/Overview.md, <dev>Dev.Sculpture</dev>, ![2858.jpg](/PaperPhoto/2858.jpg)
 dev/art/Overview.md, <dev>Dev.Sculpture</dev>, ![90025.jpg](/PaperPhoto/90025.jpg)
 
 :::
-
-# Art
-
-Art which represents Planting
-
-Art inspired by Planting
-
-![Alt text](/art/CellularDecomposition.jpg)
-
----
-
-![Alt text](/art/LegMotoOverlap.jpg)
-
----
-
-![Alt text](/art/PeelStationFloor.jpg)

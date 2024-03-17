@@ -1,17 +1,3 @@
-::: details 🛠 <dev>DesignBox</dev>
-
-## DevNotes
-
--
-
-## DevState
-
-```py
-`TagsToHeaders: False`
-```
-
-![PaperPhoto](/PaperPhoto/0016.jpg)
-:::
 
 # 🟠 <moto>SpadeGrip</moto>
 
@@ -106,4 +92,19 @@ Links to other related motos. Related because they are the same MotoType or beca
 - One
 - Two
 - Three
+:::
+
+::: details 🛠 <dev>DesignBox</dev>
+
+## DevNotes
+
+-
+
+## DevState
+
+```py
+`TagsToHeaders: False`
+```
+
+![PaperPhoto](/PaperPhoto/0016.jpg)
 :::

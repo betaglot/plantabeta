@@ -1,3 +1,10 @@
+
+# 🟠 <moto>GloveMoto</moto>
+
+## Glove Anatomy
+
+## Glove Properties
+
 ::: details 🛠 <dev>DesignBox</dev>
 
 ## DevNotes
@@ -16,9 +23,3 @@
 
 Moto/ToolMoto/Glove/Overview.md, <dev>Moto.ToolMoto.GloveMoto.Overview</dev>, ![0487.jpg](/PaperPhoto/0487.jpg)
 :::
-
-# 🟠 <moto>GloveMoto</moto>
-
-## Glove Anatomy
-
-## Glove Properties

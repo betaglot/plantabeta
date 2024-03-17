@@ -1,26 +1,3 @@
-::: details 🛠 <dev>DesignBox</dev>
-
-## DevNotes
-
-- What tool to use which allows easy uploading?
-- <https://opensource.guide/how-to-contribute/>
-
-## DevState
-
-```py
-`TagsToHeaders: False`
-```
-
-- Give to the planters that will come after you. We will always have forests to cultivate.
-
-<h2>PageTags</h2>
-
-- "Dev.Donation"
-- "Dev.Feedback"
-
-dev/Contribute.md, <dev>Dev.Feedback</dev>, ![3045.jpg](/PaperPhoto/3045.jpg)
-
-:::
 
 # 🛠 Start Contributing to Put(Plant): Your First Steps
 
@@ -140,4 +117,28 @@ Maximum Length
 
 ::: tip Send an email to:
 <christopheralduncan@gmail.com>
+:::
+
+::: details 🛠 <dev>DesignBox</dev>
+
+## DevNotes
+
+- What tool to use which allows easy uploading?
+- <https://opensource.guide/how-to-contribute/>
+
+## DevState
+
+```py
+`TagsToHeaders: False`
+```
+
+- Give to the planters that will come after you. We will always have forests to cultivate.
+
+<h2>PageTags</h2>
+
+- "Dev.Donation"
+- "Dev.Feedback"
+
+dev/Contribute.md, <dev>Dev.Feedback</dev>, ![3045.jpg](/PaperPhoto/3045.jpg)
+
 :::

@@ -1,3 +1,10 @@
+
+# 🟠 <moto>HandMoto</moto>
+
+## Hand Anatomy
+
+## Hand Properties
+
 ::: details 🛠 <dev>DesignBox</dev>
 
 ## DevNotes
@@ -61,9 +68,3 @@ Moto/HandMoto/Overview.md, <dev>Moto.HandMoto.Overview</dev>, ![2511.jpg](/Paper
 Moto/HandMoto/Overview.md, <dev>Moto.HandMoto.Overview</dev>, ![2525.jpg](/PaperPhoto/2525.jpg)
 Moto/HandMoto/Overview.md, <dev>Moto.HandMoto.Overview</dev>, ![2571.jpg](/PaperPhoto/2571.jpg)
 :::
-
-# 🟠 <moto>HandMoto</moto>
-
-## Hand Anatomy
-
-## Hand Properties

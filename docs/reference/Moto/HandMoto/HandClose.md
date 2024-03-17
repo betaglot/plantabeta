@@ -1,24 +1,3 @@
-::: details 🛠 <dev>DesignBox</dev>
-
-## DevNotes
-
--
-
-## DevState
-
-```py
-`TagsToHeaders: False`
-```
-
-<h2>PageTags</h2>
-
-- "Moto.HandMoto.HandClose"
-- "Moto.HandMoto.HandClose.HammerClose"
-- "Moto.HandMoto.HandClose.PunchClose"
-
-Moto/HandMoto/HandClose.md, <dev>Moto.HandMoto.HandClose.HammerClose</dev>, ![3160.jpg](/PaperPhoto/3160.jpg)
-Moto/HandMoto/HandClose.md, <dev>Moto.HandMoto.HandClose.PunchClose</dev>, ![3160.jpg](/PaperPhoto/3160.jpg)
-:::
 
 # 🟠 <moto>HandClose</moto>
 
@@ -121,4 +100,26 @@ Links to other related motos. Related because they are the same MotoType or beca
 - One
 - Two
 - Three
+:::
+
+::: details 🛠 <dev>DesignBox</dev>
+
+## DevNotes
+
+-
+
+## DevState
+
+```py
+`TagsToHeaders: False`
+```
+
+<h2>PageTags</h2>
+
+- "Moto.HandMoto.HandClose"
+- "Moto.HandMoto.HandClose.HammerClose"
+- "Moto.HandMoto.HandClose.PunchClose"
+
+Moto/HandMoto/HandClose.md, <dev>Moto.HandMoto.HandClose.HammerClose</dev>, ![3160.jpg](/PaperPhoto/3160.jpg)
+Moto/HandMoto/HandClose.md, <dev>Moto.HandMoto.HandClose.PunchClose</dev>, ![3160.jpg](/PaperPhoto/3160.jpg)
 :::

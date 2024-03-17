@@ -1,25 +1,3 @@
-::: details 🛠 <dev>DesignBox</dev>
-
-## DevNotes
-
--
-
-## DevState
-
-```py
-`TagsToHeaders: False`
-```
-
-<h2>PageTags</h2>
-
-- "Moto.LegMoto.LegSwing"
-
-Moto/LegMoto/LegSwing.md, <dev>Moto.LegMoto.LegSwing</dev>, ![1022.jpg](/PaperPhoto/1022.jpg)
-Moto/LegMoto/LegSwing.md, <dev>Moto.LegMoto.LegSwing</dev>, ![1059.jpg](/PaperPhoto/1059.jpg)
-Moto/LegMoto/LegSwing.md, <dev>Moto.LegMoto.LegSwing</dev>, ![1379.jpg](/PaperPhoto/1379.jpg)
-Moto/LegMoto/LegSwing.md, <dev>Moto.LegMoto.LegSwing</dev>, ![2338.jpg](/PaperPhoto/2338.jpg)
-Moto/LegMoto/LegSwing.md, <dev>Moto.LegMoto.LegSwing</dev>, ![3222.jpg](/PaperPhoto/3222.jpg)
-:::
 
 # 🟠 <moto>LegSwing</moto>
 
@@ -114,4 +92,27 @@ Links to other related motos. Related because they are the same MotoType or beca
 - One
 - Two
 - Three
+:::
+
+::: details 🛠 <dev>DesignBox</dev>
+
+## DevNotes
+
+-
+
+## DevState
+
+```py
+`TagsToHeaders: False`
+```
+
+<h2>PageTags</h2>
+
+- "Moto.LegMoto.LegSwing"
+
+Moto/LegMoto/LegSwing.md, <dev>Moto.LegMoto.LegSwing</dev>, ![1022.jpg](/PaperPhoto/1022.jpg)
+Moto/LegMoto/LegSwing.md, <dev>Moto.LegMoto.LegSwing</dev>, ![1059.jpg](/PaperPhoto/1059.jpg)
+Moto/LegMoto/LegSwing.md, <dev>Moto.LegMoto.LegSwing</dev>, ![1379.jpg](/PaperPhoto/1379.jpg)
+Moto/LegMoto/LegSwing.md, <dev>Moto.LegMoto.LegSwing</dev>, ![2338.jpg](/PaperPhoto/2338.jpg)
+Moto/LegMoto/LegSwing.md, <dev>Moto.LegMoto.LegSwing</dev>, ![3222.jpg](/PaperPhoto/3222.jpg)
 :::

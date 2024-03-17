@@ -1,22 +1,3 @@
-::: details 🛠 <dev>DesignBox</dev>
-
-## DevNotes
-
--
-
-## DevState
-
-```py
-`TagsToHeaders: False`
-```
-
-<h2>PageTags</h2>
-
-- "Moto.HoleMoto.ExpandHole"
-
-Moto/HoleMoto/HoleExpand.md, <dev>Moto.HoleMoto.ExpandHole</dev>, ![2934.jpg](/PaperPhoto/2934.jpg)
-Moto/HoleMoto/HoleExpand.md, <dev>Moto.HoleMoto.ExpandHole</dev>, ![3059.jpg](/PaperPhoto/3059.jpg)
-:::
 
 # 🟠 <moto>HoleExpand</moto>
 
@@ -111,4 +92,24 @@ Links to other related motos. Related because they are the same MotoType or beca
 - One
 - Two
 - Three
+:::
+
+::: details 🛠 <dev>DesignBox</dev>
+
+## DevNotes
+
+-
+
+## DevState
+
+```py
+`TagsToHeaders: False`
+```
+
+<h2>PageTags</h2>
+
+- "Moto.HoleMoto.ExpandHole"
+
+Moto/HoleMoto/HoleExpand.md, <dev>Moto.HoleMoto.ExpandHole</dev>, ![2934.jpg](/PaperPhoto/2934.jpg)
+Moto/HoleMoto/HoleExpand.md, <dev>Moto.HoleMoto.ExpandHole</dev>, ![3059.jpg](/PaperPhoto/3059.jpg)
 :::

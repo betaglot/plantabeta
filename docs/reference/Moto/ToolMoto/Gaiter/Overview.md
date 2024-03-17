@@ -1,3 +1,10 @@
+
+# 🟠 <moto>GaiterMoto</moto>
+
+## Gaiter Anatomy
+
+## Gaiter Properties
+
 ::: details 🛠 <dev>DesignBox</dev>
 
 ## DevNotes
@@ -15,9 +22,3 @@
 - "Moto.ToolMoto.GaiterMoto.Overview"
 
 :::
-
-# 🟠 <moto>GaiterMoto</moto>
-
-## Gaiter Anatomy
-
-## Gaiter Properties

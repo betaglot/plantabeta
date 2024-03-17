@@ -1,26 +1,3 @@
----
-pageClass: moto-page
----
-::: details 🛠 <dev>DesignBox</dev>
-
-## DevNotes
-
--
-
-## DevState
-
-```py
-`TagsToHeaders: True`
-```
-
-<h2>PageTags</h2>
-
-- "Moto.ArmMoto.ArmProp"
-
-Moto/ArmMoto/ArmProp.md, <dev>Moto.ArmMoto.ArmProp</dev>, ![1052.jpg](/PaperPhoto/1052.jpg)
-Moto/ArmMoto/ArmProp.md, <dev>Moto.ArmMoto.ArmProp</dev>, ![2278.jpg](/PaperPhoto/2278.jpg)
-Moto/ArmMoto/ArmProp.md, <dev>Moto.ArmMoto.ArmProp</dev>, ![2469.jpg](/PaperPhoto/2469.jpg)
-:::
 
 # 🟠 <moto>ArmProp</moto>
 
@@ -115,4 +92,25 @@ Links to other related motos. Related because they are the same MotoType or beca
 - One
 - Two
 - Three
+:::
+
+::: details 🛠 <dev>DesignBox</dev>
+
+## DevNotes
+
+-
+
+## DevState
+
+```py
+`TagsToHeaders: True`
+```
+
+<h2>PageTags</h2>
+
+- "Moto.ArmMoto.ArmProp"
+
+Moto/ArmMoto/ArmProp.md, <dev>Moto.ArmMoto.ArmProp</dev>, ![1052.jpg](/PaperPhoto/1052.jpg)
+Moto/ArmMoto/ArmProp.md, <dev>Moto.ArmMoto.ArmProp</dev>, ![2278.jpg](/PaperPhoto/2278.jpg)
+Moto/ArmMoto/ArmProp.md, <dev>Moto.ArmMoto.ArmProp</dev>, ![2469.jpg](/PaperPhoto/2469.jpg)
 :::

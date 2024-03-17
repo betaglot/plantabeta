@@ -1,16 +1,3 @@
-::: details 🛠 <dev>DesignBox</dev>
-
-## DevNotes
-
--
-
-## DevState
-
-```py
-`TagsToHeaders: False`
-```
-
-:::
 
 # <neuro>Number Memory</neuro>
 
@@ -36,3 +23,17 @@ How many trees did you BagCover?
 ## GiveBundle
 
 How many bundles did you give someone while TeamPlanting.
+
+::: details 🛠 <dev>DesignBox</dev>
+
+## DevNotes
+
+-
+
+## DevState
+
+```py
+`TagsToHeaders: False`
+```
+
+:::

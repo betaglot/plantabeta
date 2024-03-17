@@ -1,21 +1,3 @@
-::: details 🛠 <dev>DesignBox</dev>
-
-## DevNotes
-
--
-
-## DevState
-
-```py
-`TagsToHeaders: False`
-```
-
-<h2>PageTags</h2>
-
-- "Eco.Soil.WetSoil"
-
-"Flood with water" instead of "Fill with water". "Fill" is a ReservedWord. ToReduceConfusion
-:::
 
 # 🟩  <eco>WetSoil</eco>
 
@@ -94,4 +76,23 @@ Links to other related EcoElements. Related because they are the same EcoType or
 - One
 - Two
 - Three
+:::
+
+::: details 🛠 <dev>DesignBox</dev>
+
+## DevNotes
+
+-
+
+## DevState
+
+```py
+`TagsToHeaders: False`
+```
+
+<h2>PageTags</h2>
+
+- "Eco.Soil.WetSoil"
+
+"Flood with water" instead of "Fill with water". "Fill" is a ReservedWord. ToReduceConfusion
 :::

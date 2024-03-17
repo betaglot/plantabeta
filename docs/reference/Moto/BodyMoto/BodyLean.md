@@ -1,25 +1,3 @@
-::: details 🛠 <dev>DesignBox</dev>
-
-## DevNotes
-
--
-
-## DevState
-
-```py
-`TagsToHeaders: False`
-```
-
-<h2>PageTags</h2>
-
-- "Moto.BodyMoto.BodyLean"
-
-Moto/BodyMoto/BodyLean.md, <dev>Moto.BodyMoto.BodyLean</dev>, ![0448.jpg](/PaperPhoto/0448.jpg)
-Moto/BodyMoto/BodyLean.md, <dev>Moto.BodyMoto.BodyLean</dev>, ![0458.jpg](/PaperPhoto/0458.jpg)
-Moto/BodyMoto/BodyLean.md, <dev>Moto.BodyMoto.BodyLean</dev>, ![1100.jpg](/PaperPhoto/1100.jpg)
-Moto/BodyMoto/BodyLean.md, <dev>Moto.BodyMoto.BodyLean</dev>, ![2513.jpg](/PaperPhoto/2513.jpg)
-
-:::
 
 # 🟠 <moto>BodyLean</moto>  🟠
 
@@ -123,4 +101,27 @@ Links to other related motos. Related because they are the same MotoType or beca
 - One
 - Two
 - Three
+:::
+
+::: details 🛠 <dev>DesignBox</dev>
+
+## DevNotes
+
+-
+
+## DevState
+
+```py
+`TagsToHeaders: False`
+```
+
+<h2>PageTags</h2>
+
+- "Moto.BodyMoto.BodyLean"
+
+Moto/BodyMoto/BodyLean.md, <dev>Moto.BodyMoto.BodyLean</dev>, ![0448.jpg](/PaperPhoto/0448.jpg)
+Moto/BodyMoto/BodyLean.md, <dev>Moto.BodyMoto.BodyLean</dev>, ![0458.jpg](/PaperPhoto/0458.jpg)
+Moto/BodyMoto/BodyLean.md, <dev>Moto.BodyMoto.BodyLean</dev>, ![1100.jpg](/PaperPhoto/1100.jpg)
+Moto/BodyMoto/BodyLean.md, <dev>Moto.BodyMoto.BodyLean</dev>, ![2513.jpg](/PaperPhoto/2513.jpg)
+
 :::

@@ -1,16 +1,3 @@
-::: details 🛠 <dev>DesignBox</dev>
-
-## DevNotes
-
--
-
-## DevState
-
-```py
-`TagsToHeaders: False`
-```
-
-:::
 
 # 🟠 <moto>Tool Repair</moto>
 
@@ -49,3 +36,17 @@ Maintain your tools to ensure that they last as long a possible and to maintain 
 - Holes in Socks
 
 ### Bag Repair
+
+::: details 🛠 <dev>DesignBox</dev>
+
+## DevNotes
+
+-
+
+## DevState
+
+```py
+`TagsToHeaders: False`
+```
+
+:::

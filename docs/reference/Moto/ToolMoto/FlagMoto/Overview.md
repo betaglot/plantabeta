@@ -1,22 +1,3 @@
-::: details 🛠 <dev>DesignBox</dev>
-
-## DevNotes
-
--
-
-## DevState
-
-```py
-`TagsToHeaders: False`
-```
-
-<h2>PageTags</h2>
-
-- "Moto.ToolMoto.FlagMoto.FlagDrop"
-- "Moto.ToolMoto.FlagMoto.FlagStump"
-- "Moto.ToolMoto.FlagMoto.MotoError.PlantedFlag"
-- "Moto.ToolMoto.FlagMoto.Overview"
-:::
 
 # 🟠 <moto>FlagMoto</moto>
 
@@ -42,3 +23,23 @@ Flags are posted throughout the land.
 - FlagColor
 
 - Flagger Pouch
+
+::: details 🛠 <dev>DesignBox</dev>
+
+## DevNotes
+
+-
+
+## DevState
+
+```py
+`TagsToHeaders: False`
+```
+
+<h2>PageTags</h2>
+
+- "Moto.ToolMoto.FlagMoto.FlagDrop"
+- "Moto.ToolMoto.FlagMoto.FlagStump"
+- "Moto.ToolMoto.FlagMoto.MotoError.PlantedFlag"
+- "Moto.ToolMoto.FlagMoto.Overview"
+:::

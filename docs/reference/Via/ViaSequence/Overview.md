@@ -1,3 +1,24 @@
+
+# 🔷 <via>ViaSequence</via>
+
+Define the Land that you're Covering
+
+Problem is
+
+Solution is where a Planter moves
+
+## Define ViaProblem
+
+## Solve ViaProblem
+
+### ViaSelection
+
+Select the ViaTheorem to solve the ViaProblem.
+
+Via selection
+
+NormalForce vector is a parameter in area suitability computation Selection
+
 ::: details 🛠 <dev>DesignBox</dev>
 
 ## DevNotes
@@ -119,23 +140,3 @@ Via/ViaSequence/Overview.md, <dev>Via.ViaComposition.ViaSelection</dev>, ![90014
 Via/ViaSequence/Overview.md, <dev>Via.ViaSequence.AreaCoverPhrase.Overview</dev>, ![90028.jpg](/PaperPhoto/90028.jpg)
 Via/ViaSequence/Overview.md, <dev>Via.ViaSequence.BagUpPhrase</dev>, ![90028.jpg](/PaperPhoto/90028.jpg)
 :::
-
-# 🔷 <via>ViaSequence</via>
-
-Define the Land that you're Covering
-
-Problem is
-
-Solution is where a Planter moves
-
-## Define ViaProblem
-
-## Solve ViaProblem
-
-### ViaSelection
-
-Select the ViaTheorem to solve the ViaProblem.
-
-Via selection
-
-NormalForce vector is a parameter in area suitability computation Selection

@@ -1,17 +1,3 @@
-::: details 🛠 <dev>DesignBox</dev>
-
-## DevNotes
-
--
-
-## DevState
-
-```py
-`TagsToHeaders: True`
-```
-
-:::
-
 # 🛠 Academia
 
 ::: tip
@@ -45,3 +31,17 @@ Computational Geometry
 #### 5 [Maximize Recovery](https://www.hubermanlab.com/episode/guest-series-dr-andy-galpin-maximize-recovery-to-achieve-fitness-and-performance-goals)
 
 #### 6 [Nutrition & Supplementation](https://www.hubermanlab.com/episode/dr-andy-galpin-optimal-nutrition-and-supplementation-for-fitness)
+
+::: details 🛠 <dev>DesignBox</dev>
+
+## DevNotes
+
+-
+
+## DevState
+
+```py
+`TagsToHeaders: True`
+```
+
+:::

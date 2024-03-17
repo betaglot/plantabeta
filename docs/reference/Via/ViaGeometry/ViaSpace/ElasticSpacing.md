@@ -1,16 +1,3 @@
-::: details 🛠 <dev>DesignBox</dev>
-
-## DevNotes
-
--
-
-## DevState
-
-```py
-`TagsToHeaders: False`
-```
-
-:::
 
 # 🔻 <via>ElasticSpacing</via>
 
@@ -58,3 +45,17 @@ Graph which represents how this element is related to other elements in Put(Plan
 Links to other related ViaElements.
 
 - MaximumSpacing
+
+::: details 🛠 <dev>DesignBox</dev>
+
+## DevNotes
+
+-
+
+## DevState
+
+```py
+`TagsToHeaders: False`
+```
+
+:::

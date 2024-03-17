@@ -1,3 +1,10 @@
+
+# 🟠 <moto>TruckMoto</moto>
+
+## Truck Anatomy
+
+## Truck Properties
+
 ::: details 🛠 <dev>DesignBox</dev>
 
 ## DevNotes
@@ -16,9 +23,3 @@
 
 Moto/TruckMoto/Overview.md, <dev>Moto.ToolMoto.TruckMoto.Overview</dev>, ![0513.jpg](/PaperPhoto/0513.jpg)
 :::
-
-# 🟠 <moto>TruckMoto</moto>
-
-## Truck Anatomy
-
-## Truck Properties

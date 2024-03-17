@@ -1,3 +1,10 @@
+
+# 🔷 <beta>Beta Examples</beta>
+
+![Paper_BetaQuote](/Paper_BetaQuote2.jpg)
+
+![Paper_BetaQuote](/Paper_BetaQuote.jpg)
+
 ::: details 🛠 <dev>DesignBox</dev>
 
 ## DevNotes
@@ -33,9 +40,3 @@ Beta/BetaExamples.md, <dev>Beta.BetaExamples</dev>, ![3231.jpg](/PaperPhoto/3231
 Beta/BetaExamples.md, <dev>Beta.BetaExamples</dev>, ![3298.jpg](/PaperPhoto/3298.jpg)
 
 :::
-
-# 🔷 <beta>Beta Examples</beta>
-
-![Paper_BetaQuote](/Paper_BetaQuote2.jpg)
-
-![Paper_BetaQuote](/Paper_BetaQuote.jpg)

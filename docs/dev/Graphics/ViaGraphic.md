@@ -1,3 +1,38 @@
+# 🛠 Via Graphics
+
+## Density Report
+
+Another way to visualize
+
+Visualize a screenshot
+
+AI to overlay Screenshot with Voronoi Diagram
+
+## Voronoi Diagram
+
+[D3 closest neighbor and Voronoi edges](https://d3js.org/d3-delaunay/voronoi#voronoi_neighbors)
+
+### <moto>MotoVoronoi</moto>
+
+![Fencing](/Via/Voronoi/FencingVoronoi.png)
+
+### <via>ViaVoronoi</via>
+
+<https://www.researchgate.net/publication/228440675_Spatial_dynamics_of_team_sports_exposed_by_Voronoi_diagrams>
+
+[Automatic Generation of Ice Hockey Defensive Motion via
+Coverage Control and Control Barrier Functions
+](https://arxiv.org/pdf/2111.10804.pdf)
+
+### <eco>EcoVoronoi</eco>
+
+Closest
+
+<iframe width="100%" height="684" frameborder="0"
+  src="https://observablehq.com/embed/@d3/circle-dragging-iii?cells=chart"></iframe>
+
+![Voronoi_Basketball](/Via/Voronoi/Voronoi_Basketball.jpeg)
+
 ::: details 🛠 <dev>DesignBox</dev>
 
 ## DevNotes
@@ -100,38 +135,3 @@ dev/Graphics/ViaGraphic.md, <dev>Via.ViaDiagram.ViaDirectedLine</dev>, ![90013.j
 dev/Graphics/ViaGraphic.md, <dev>Via.ViaDiagram.Overview</dev>, ![90019.jpg](/PaperPhoto/90019.jpg)
 
 :::
-
-# 🛠 Via Graphics
-
-## Density Report
-
-Another way to visualize
-
-Visualize a screenshot
-
-AI to overlay Screenshot with Voronoi Diagram
-
-## Voronoi Diagram
-
-[D3 closest neighbor and Voronoi edges](https://d3js.org/d3-delaunay/voronoi#voronoi_neighbors)
-
-### <moto>MotoVoronoi</moto>
-
-![Fencing](/Via/Voronoi/FencingVoronoi.png)
-
-### <via>ViaVoronoi</via>
-
-<https://www.researchgate.net/publication/228440675_Spatial_dynamics_of_team_sports_exposed_by_Voronoi_diagrams>
-
-[Automatic Generation of Ice Hockey Defensive Motion via
-Coverage Control and Control Barrier Functions
-](https://arxiv.org/pdf/2111.10804.pdf)
-
-### <eco>EcoVoronoi</eco>
-
-Closest
-
-<iframe width="100%" height="684" frameborder="0"
-  src="https://observablehq.com/embed/@d3/circle-dragging-iii?cells=chart"></iframe>
-
-![Voronoi_Basketball](/Via/Voronoi/Voronoi_Basketball.jpeg)

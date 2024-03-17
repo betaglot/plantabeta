@@ -1,3 +1,10 @@
+
+# 🟠 <moto>BagMoto</moto>
+
+## Bag Anatomy
+
+## Bag Properties
+
 ::: details 🛠 <dev>DesignBox</dev>
 
 ## DevNotes
@@ -30,9 +37,3 @@ Moto/ToolMoto/Bag/Overview.md, <dev>Moto.ToolMoto.BagMoto.BagShield</dev>, ![308
 Moto/ToolMoto/Bag/Overview.md, <dev>Moto.ToolMoto.BagMoto.Overview</dev>, ![3080.jpg](/PaperPhoto/3080.jpg)
 Moto/ToolMoto/Bag/Overview.md, <dev>Moto.ToolMoto.BagMoto.Overview</dev>, ![3081.jpg](/PaperPhoto/3081.jpg)
 :::
-
-# 🟠 <moto>BagMoto</moto>
-
-## Bag Anatomy
-
-## Bag Properties

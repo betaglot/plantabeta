@@ -1,31 +1,3 @@
-::: details 🛠 <dev>DesignBox</dev>
-
-## DevNotes
-
--
-
-## DevState
-
-```py
-`TagsToHeaders: False`
-```
-
-<h2>PageTags</h2>
-
-- "Moto.ToolMoto.FlagMoto.FlagRip"
-
-Moto/ToolMoto/Flag/Overview.md, <dev>Moto.ToolMoto.FlagMoto.Overview</dev>, ![0049.jpg](/PaperPhoto/0049.jpg)
-Moto/ToolMoto/Flag/Overview.md, <dev>Moto.ToolMoto.FlagMoto.Overview</dev>, ![0487.jpg](/PaperPhoto/0487.jpg)
-Moto/ToolMoto/Flag/Overview.md, <dev>Moto.ToolMoto.FlagMoto.Overview</dev>, ![2476.jpg](/PaperPhoto/2476.jpg)
-Moto/ToolMoto/Flag/Overview.md, <dev>Moto.ToolMoto.FlagMoto.Overview</dev>, ![2571.jpg](/PaperPhoto/2571.jpg)
-Moto/ToolMoto/Flag/Overview.md, <dev>Moto.ToolMoto.FlagMoto.Overview</dev>, ![2938.jpg](/PaperPhoto/2938.jpg)
-Moto/ToolMoto/Flag/Overview.md, <dev>Moto.ToolMoto.FlagMoto.Overview</dev>, ![2953.jpg](/PaperPhoto/2953.jpg)
-Moto/ToolMoto/Flag/Overview.md, <dev>Moto.ToolMoto.FlagMoto.Overview</dev>, ![2963.jpg](/PaperPhoto/2963.jpg)
-Moto/ToolMoto/Flag/Overview.md, <dev>Moto.ToolMoto.FlagMoto.Overview</dev>, ![3000.jpg](/PaperPhoto/3000.jpg)
-Moto/ToolMoto/Flag/Overview.md, <dev>Moto.ToolMoto.FlagMoto.Overview</dev>, ![3001.jpg](/PaperPhoto/3001.jpg)
-Moto/ToolMoto/Flag/Overview.md, <dev>Moto.ToolMoto.FlagMoto.Overview</dev>, ![3004.jpg](/PaperPhoto/3004.jpg)
-Moto/ToolMoto/Flag/Overview.md, <dev>Moto.ToolMoto.FlagMoto.Overview</dev>, ![3009.jpg](/PaperPhoto/3009.jpg)
-:::
 
 # 🟠 <moto>FlagRip</moto>
 
@@ -120,4 +92,33 @@ Links to other related motos. Related because they are the same MotoType or beca
 - One
 - Two
 - Three
+:::
+
+::: details 🛠 <dev>DesignBox</dev>
+
+## DevNotes
+
+-
+
+## DevState
+
+```py
+`TagsToHeaders: False`
+```
+
+<h2>PageTags</h2>
+
+- "Moto.ToolMoto.FlagMoto.FlagRip"
+
+Moto/ToolMoto/Flag/Overview.md, <dev>Moto.ToolMoto.FlagMoto.Overview</dev>, ![0049.jpg](/PaperPhoto/0049.jpg)
+Moto/ToolMoto/Flag/Overview.md, <dev>Moto.ToolMoto.FlagMoto.Overview</dev>, ![0487.jpg](/PaperPhoto/0487.jpg)
+Moto/ToolMoto/Flag/Overview.md, <dev>Moto.ToolMoto.FlagMoto.Overview</dev>, ![2476.jpg](/PaperPhoto/2476.jpg)
+Moto/ToolMoto/Flag/Overview.md, <dev>Moto.ToolMoto.FlagMoto.Overview</dev>, ![2571.jpg](/PaperPhoto/2571.jpg)
+Moto/ToolMoto/Flag/Overview.md, <dev>Moto.ToolMoto.FlagMoto.Overview</dev>, ![2938.jpg](/PaperPhoto/2938.jpg)
+Moto/ToolMoto/Flag/Overview.md, <dev>Moto.ToolMoto.FlagMoto.Overview</dev>, ![2953.jpg](/PaperPhoto/2953.jpg)
+Moto/ToolMoto/Flag/Overview.md, <dev>Moto.ToolMoto.FlagMoto.Overview</dev>, ![2963.jpg](/PaperPhoto/2963.jpg)
+Moto/ToolMoto/Flag/Overview.md, <dev>Moto.ToolMoto.FlagMoto.Overview</dev>, ![3000.jpg](/PaperPhoto/3000.jpg)
+Moto/ToolMoto/Flag/Overview.md, <dev>Moto.ToolMoto.FlagMoto.Overview</dev>, ![3001.jpg](/PaperPhoto/3001.jpg)
+Moto/ToolMoto/Flag/Overview.md, <dev>Moto.ToolMoto.FlagMoto.Overview</dev>, ![3004.jpg](/PaperPhoto/3004.jpg)
+Moto/ToolMoto/Flag/Overview.md, <dev>Moto.ToolMoto.FlagMoto.Overview</dev>, ![3009.jpg](/PaperPhoto/3009.jpg)
 :::

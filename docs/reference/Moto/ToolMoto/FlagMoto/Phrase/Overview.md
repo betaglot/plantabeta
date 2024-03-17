@@ -1,3 +1,14 @@
+
+# 🔷 <moto>Flag Phrase Overview</moto>
+
+## FlagPut
+
+>
+
+## FlagGet
+
+>
+
 ::: details 🛠 <dev>DesignBox</dev>
 
 ## DevNotes
@@ -11,13 +22,3 @@
 ```
 
 :::
-
-# 🔷 <moto>Flag Phrase Overview</moto>
-
-## FlagPut
-
->
-
-## FlagGet
-
->

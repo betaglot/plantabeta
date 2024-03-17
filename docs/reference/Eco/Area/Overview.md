@@ -1,3 +1,13 @@
+
+# 🟩  <eco>Area</eco>
+
+# AreaAnatomy
+
+- Obstacle
+- EcoForm
+
+## UnplantableArea
+
 ::: details 🛠 <dev>DesignBox</dev>
 
 ## DevNotes
@@ -18,12 +28,3 @@
 - "Eco.Area.RockCapArea"
 - "Eco.Area.SlashPileArea"
 :::
-
-# 🟩  <eco>Area</eco>
-
-# AreaAnatomy
-
-- Obstacle
-- EcoForm
-
-## UnplantableArea

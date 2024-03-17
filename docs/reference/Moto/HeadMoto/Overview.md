@@ -1,3 +1,10 @@
+
+# 🟠 <moto>HeadMoto</moto>
+
+## Head Anatomy
+
+## Head Properties
+
 ::: details 🛠 <dev>DesignBox</dev>
 
 ## DevNotes
@@ -25,9 +32,3 @@ Moto/HeadMoto/Overview.md, <dev>Moto.HeadMoto.LookAt</dev>, ![3000.jpg](/PaperPh
 Moto/HeadMoto/Overview.md, <dev>Moto.HeadMoto.LookAt</dev>, ![3143.jpg](/PaperPhoto/3143.jpg)
 Moto/HeadMoto/Overview.md, <dev>Moto.HeadMoto.Overview</dev>, ![3153.jpg](/PaperPhoto/3153.jpg)
 :::
-
-# 🟠 <moto>HeadMoto</moto>
-
-## Head Anatomy
-
-## Head Properties

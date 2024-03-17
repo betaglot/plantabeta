@@ -1,3 +1,14 @@
+
+# 💜 <neuro>GoOrNoGo </neuro>
+
+## Unplantable?
+
+## Skip?
+
+## TurnBack?
+
+## OverOrAround?
+
 ::: details 🛠 <dev>DesignBox</dev>
 
 ## DevNotes
@@ -11,13 +22,3 @@
 ```
 
 :::
-
-# 💜 <neuro>GoOrNoGo </neuro>
-
-## Unplantable?
-
-## Skip?
-
-## TurnBack?
-
-## OverOrAround?

@@ -1,22 +1,3 @@
-::: details 🛠 <dev>DesignBox</dev>
-
-## DevNotes
-
--
-
-## DevState
-
-```py
-`TagsToHeaders: False`
-```
-
-<h2>PageTags</h2>
-
-- "Moto.FootMoto.FootScreef"
-
-Moto/FootMoto/FootScreef.md, <dev>Moto.FootMoto.FootScreef</dev>, ![3081.jpg](/PaperPhoto/3081.jpg)
-
-:::
 
 # 🟠 <moto>FootScreef</moto>
 
@@ -112,4 +93,24 @@ Links to other related motos. Related because they are the same MotoType or beca
 - One
 - Two
 - Three
+:::
+
+::: details 🛠 <dev>DesignBox</dev>
+
+## DevNotes
+
+-
+
+## DevState
+
+```py
+`TagsToHeaders: False`
+```
+
+<h2>PageTags</h2>
+
+- "Moto.FootMoto.FootScreef"
+
+Moto/FootMoto/FootScreef.md, <dev>Moto.FootMoto.FootScreef</dev>, ![3081.jpg](/PaperPhoto/3081.jpg)
+
 :::

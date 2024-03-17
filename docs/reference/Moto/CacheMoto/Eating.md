@@ -1,20 +1,3 @@
-::: details 🛠 <dev>DesignBox</dev>
-
-## DevNotes
-
--
-
-## DevState
-
-```py
-`TagsToHeaders: False`
-```
-
-## Pesticides
-
-- I have never seen anyone wash their hands before eating.
-- Gloves are porous so the pesticides still get in
-:::
 
 # 🟠 <moto>Eating</moto>
 
@@ -110,4 +93,22 @@ Links to other related motos. Related because they are the same MotoType or beca
 - One
 - Two
 - Three
+:::
+
+::: details 🛠 <dev>DesignBox</dev>
+
+## DevNotes
+
+-
+
+## DevState
+
+```py
+`TagsToHeaders: False`
+```
+
+## Pesticides
+
+- I have never seen anyone wash their hands before eating.
+- Gloves are porous so the pesticides still get in
 :::

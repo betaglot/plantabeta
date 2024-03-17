@@ -1,3 +1,10 @@
+
+# 🟠 <moto>ClothingLayer</moto>
+
+## AddClothingLayer
+
+## RemoveClothingLayer
+
 ::: details 🛠 <dev>DesignBox</dev>
 
 ## DevNotes
@@ -14,9 +21,3 @@
 
 - "Moto.ClothingMoto.ClothingLayer"
 :::
-
-# 🟠 <moto>ClothingLayer</moto>
-
-## AddClothingLayer
-
-## RemoveClothingLayer

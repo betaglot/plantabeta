@@ -1,3 +1,5 @@
+# 🛠 Neuro Graphics
+
 ::: details 🛠 <dev>DesignBox</dev>
 
 ## DevNotes
@@ -19,5 +21,3 @@ dev/Graphics/NeuroGraphic.md, <dev>Neuro.NeuroCard</dev>, ![1749.jpg](/PaperPhot
 dev/Graphics/NeuroGraphic.md, <dev>Neuro.NeuroCard</dev>, ![3023.jpg](/PaperPhoto/3023.jpg)
 
 :::
-
-# 🛠 Neuro Graphics

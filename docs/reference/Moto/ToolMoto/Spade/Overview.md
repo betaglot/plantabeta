@@ -1,3 +1,14 @@
+
+# 🟠 <moto>Spade Overview</moto>
+
+## StaffSpade
+
+## HandleSpade
+
+## Spade Anatomy
+
+## Spade Properties
+
 ::: details 🛠 <dev>DesignBox</dev>
 
 ## DevNotes
@@ -24,13 +35,3 @@ Moto/ToolMoto/Spade/Overview.md, <dev>Moto.ToolMoto.SpadeMoto.Overview</dev>, ![
 Moto/ToolMoto/Spade/Overview.md, <dev>Moto.ToolMoto.SpadeMoto.Overview</dev>, ![3083.jpg](/PaperPhoto/3083.jpg)
 Moto/ToolMoto/Spade/Overview.md, <dev>Moto.ToolMoto.SpadeMoto.SpadeUnplant</dev>, ![3154.jpg](/PaperPhoto/3154.jpg)
 :::
-
-# 🟠 <moto>Spade Overview</moto>
-
-## StaffSpade
-
-## HandleSpade
-
-## Spade Anatomy
-
-## Spade Properties

@@ -1,43 +1,3 @@
-::: details 🛠 <dev>DesignBox</dev>
-
-## DevNotes
-
--
-
-## DevState
-
-```py
-`TagsToHeaders: False`
-```
-
-## ReservedWords
-
-```py
-
-ReservedWords = [
-    
-]
-
-```
-
-## Recursive beta optimization
-
-- Optimization Sequence
-- TopDown
-- Choose the optimal beta, then optimize how you execute the beta
-
-Put(Plant) is the website
-
-You don't need to communicate Beta all the time, but when you do, Put(Plant) helps you to communicate it.
-
-Beta is the syntax
-
-Motos are the objects and functions
-
-BetaCode can be used in Planting and Climbing, on Put(Plant).com and Klimbeta.com
-
-:::
-
 # 🔷 <beta>BetaCode</beta>
 
 BetaCode is the Python package which is used to formally write Beta.
@@ -91,3 +51,43 @@ CodeBlock
 Sentence
 
 Sequence
+
+## ReservedWords
+
+```py
+
+ReservedWords = [
+    
+]
+
+```
+
+## Recursive beta optimization
+
+- Optimization Sequence
+- TopDown
+- Choose the optimal beta, then optimize how you execute the beta
+
+Put(Plant) is the website
+
+You don't need to communicate Beta all the time, but when you do, Put(Plant) helps you to communicate it.
+
+Beta is the syntax
+
+Motos are the objects and functions
+
+BetaCode can be used in Planting and Climbing, on Put(Plant).com and Klimbeta.com
+
+::: details 🛠 <dev>DesignBox</dev>
+
+## DevNotes
+
+-
+
+## DevState
+
+```py
+`TagsToHeaders: False`
+```
+
+:::

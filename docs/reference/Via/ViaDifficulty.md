@@ -1,3 +1,7 @@
+
+
+# 🔷 <via>ViaDifficulty</via>
+
 ::: details 🛠 <dev>DesignBox</dev>
 
 ## DevNotes
@@ -30,5 +34,3 @@ Via/ViaDifficulty.md, <dev>Via.Difficulty.ViaIntensity</dev>, ![1859.jpg](/Paper
 Via/ViaDifficulty.md, <dev>Via.Difficulty.ViaRisk</dev>, ![1859.jpg](/PaperPhoto/1859.jpg)
 Via/ViaDifficulty.md, <dev>Via.Difficulty.ViaRisk</dev>, ![1866.jpg](/PaperPhoto/1866.jpg)
 :::
-
-# 🔷 <via>ViaDifficulty</via>

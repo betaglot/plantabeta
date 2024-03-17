@@ -1,3 +1,21 @@
+
+# 🟠 <moto>LegMoto</moto>
+
+## Leg Anatomy
+
+- Illium
+- HipJoint
+- Femur
+- Knee
+- Tibia
+- Ankle
+- Foot
+
+## Leg Properties
+
+- LegLength
+- LegStrength
+
 ::: details 🛠 <dev>DesignBox</dev>
 
 ## DevNotes
@@ -40,20 +58,3 @@ Moto/LegMoto/Overview.md, <dev>Moto.LegMoto.Overview</dev>, ![2480.jpg](/PaperPh
 Moto/LegMoto/Overview.md, <dev>Moto.LegMoto.LegRockOver</dev>, ![3149.jpg](/PaperPhoto/3149.jpg)
 Moto/LegMoto/Overview.md, <dev>Moto.LegMoto.LegRockUp</dev>, ![3149.jpg](/PaperPhoto/3149.jpg)
 :::
-
-# 🟠 <moto>LegMoto</moto>
-
-## Leg Anatomy
-
-- Illium
-- HipJoint
-- Femur
-- Knee
-- Tibia
-- Ankle
-- Foot
-
-## Leg Properties
-
-- LegLength
-- LegStrength

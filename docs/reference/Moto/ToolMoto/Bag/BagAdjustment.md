@@ -1,21 +1,3 @@
-::: details 🛠 <dev>DesignBox</dev>
-
-## DevNotes
-
--
-
-## DevState
-
-```py
-`TagsToHeaders: False`
-```
-
-<h2>PageTags</h2>
-
-- "Moto.ToolMoto.BagMoto.BagAdjustment"
-
-Moto/ToolMoto/Bag/BagAdjustment.md, <dev>Moto.ToolMoto.BagMoto.BagAdjustment</dev>, ![2572.jpg](/PaperPhoto/2572.jpg)
-:::
 
 # 🟠 <moto>BagAdjustment</moto>
 
@@ -110,4 +92,23 @@ Links to other related motos. Related because they are the same MotoType or beca
 - One
 - Two
 - Three
+:::
+
+::: details 🛠 <dev>DesignBox</dev>
+
+## DevNotes
+
+-
+
+## DevState
+
+```py
+`TagsToHeaders: False`
+```
+
+<h2>PageTags</h2>
+
+- "Moto.ToolMoto.BagMoto.BagAdjustment"
+
+Moto/ToolMoto/Bag/BagAdjustment.md, <dev>Moto.ToolMoto.BagMoto.BagAdjustment</dev>, ![2572.jpg](/PaperPhoto/2572.jpg)
 :::

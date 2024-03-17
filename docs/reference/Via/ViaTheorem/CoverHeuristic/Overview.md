@@ -1,3 +1,14 @@
+
+# 🔻 <via>Cover Heuristic</via>
+
+## What is a Heuristic?
+
+Cover by using a Heuristic
+
+Heuristic Function()
+
+## 🔻<via>Sequence</via>
+
 ::: details 🛠 <dev>DesignBox</dev>
 
 ## DevNotes
@@ -17,13 +28,3 @@ You can't start a phase with MotoRecovery
 ```
 
 :::
-
-# 🔻 <via>Cover Heuristic</via>
-
-## What is a Heuristic?
-
-Cover by using a Heuristic
-
-Heuristic Function()
-
-## 🔻<via>Sequence</via>

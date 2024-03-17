@@ -1,23 +1,3 @@
-::: details 🛠 <dev>DesignBox</dev>
-
-## DevNotes
-
--
-
-## DevState
-
-```py
-`TagsToHeaders: False`
-```
-
-<h2>PageTags</h2>
-
-- "Moto.LegMoto.Kneel"
-
-Moto/LegMoto/Kneel.md, <dev>Moto.LegMoto.Kneel</dev>, ![0048.jpg](/PaperPhoto/0048.jpg)
-Moto/LegMoto/Kneel.md, <dev>Moto.LegMoto.Kneel</dev>, ![2567.jpg](/PaperPhoto/2567.jpg)
-Moto/LegMoto/Kneel.md, <dev>Moto.LegMoto.Kneel</dev>, ![3076.jpg](/PaperPhoto/3076.jpg)
-:::
 
 # 🟠 <moto>Kneel</moto>
 
@@ -112,4 +92,25 @@ Links to other related motos. Related because they are the same MotoType or beca
 - One
 - Two
 - Three
+:::
+
+::: details 🛠 <dev>DesignBox</dev>
+
+## DevNotes
+
+-
+
+## DevState
+
+```py
+`TagsToHeaders: False`
+```
+
+<h2>PageTags</h2>
+
+- "Moto.LegMoto.Kneel"
+
+Moto/LegMoto/Kneel.md, <dev>Moto.LegMoto.Kneel</dev>, ![0048.jpg](/PaperPhoto/0048.jpg)
+Moto/LegMoto/Kneel.md, <dev>Moto.LegMoto.Kneel</dev>, ![2567.jpg](/PaperPhoto/2567.jpg)
+Moto/LegMoto/Kneel.md, <dev>Moto.LegMoto.Kneel</dev>, ![3076.jpg](/PaperPhoto/3076.jpg)
 :::

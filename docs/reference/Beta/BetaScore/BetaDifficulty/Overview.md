@@ -1,3 +1,8 @@
+
+# 🔷 <beta>Beta Difficulty</beta>
+
+## BetaScore
+
 ::: details 🛠 <dev>DesignBox</dev>
 
 ## DevNotes
@@ -117,7 +122,3 @@ Beta/BetaDifficulty/Overview, <dev>Beta.BetaDifficulty.BetaRisk</dev>, ![90097.p
 Beta/BetaDifficulty/Overview, <dev>Dev.Difficulty.Risk</dev>, ![90097.png](/PaperPhoto/90097.png)
 
 :::
-
-# 🔷 <beta>Beta Difficulty</beta>
-
-## BetaScore

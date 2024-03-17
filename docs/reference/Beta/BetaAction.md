@@ -1,3 +1,20 @@
+
+# 🔷 <beta>Beta Action</beta>
+
+## Put()
+
+### PutRate
+
+Trees/Time
+
+## Get()
+
+## GiveBeta
+
+"One bag" can be a measurement of Time or Space
+
+> There is one bag left in my piece.
+
 ::: details 🛠 <dev>DesignBox</dev>
 
 ## DevNotes
@@ -33,5 +50,3 @@ Beta/BetaAction.md, <dev>Beta.BetaAction.AskBeta</dev>, ![1853.jpg](/PaperPhoto/
 Beta/BetaAction.md, <dev>Beta.BetaAction.MimeBeta</dev>, ![1853.jpg](/PaperPhoto/1853.jpg)
 
 :::
-
-# 🔷 <beta>Beta Action</beta>

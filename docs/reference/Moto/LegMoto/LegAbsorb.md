@@ -1,23 +1,3 @@
-::: details 🛠 <dev>DesignBox</dev>
-
-## DevNotes
-
--
-
-## DevState
-
-```py
-`TagsToHeaders: False`
-```
-
-<h2>PageTags</h2>
-
-- "Moto.LegMoto.LegAbsorb"
-
-Moto/LegMoto/LegAbsorb.md, <dev>Moto.LegMoto.LegAbsorb</dev>, ![1006.jpg](/PaperPhoto/1006.jpg)
-Moto/LegMoto/LegAbsorb.md, <dev>Moto.LegMoto.LegAbsorb</dev>, ![2330.jpg](/PaperPhoto/2330.jpg)
-Moto/LegMoto/LegAbsorb.md, <dev>Moto.LegMoto.LegAbsorb</dev>, ![2450.jpg](/PaperPhoto/2450.jpg)
-:::
 
 # 🟠 <moto>LegAbsorb</moto>
 
@@ -112,4 +92,25 @@ Links to other related motos. Related because they are the same MotoType or beca
 - One
 - Two
 - Three
+:::
+
+::: details 🛠 <dev>DesignBox</dev>
+
+## DevNotes
+
+-
+
+## DevState
+
+```py
+`TagsToHeaders: False`
+```
+
+<h2>PageTags</h2>
+
+- "Moto.LegMoto.LegAbsorb"
+
+Moto/LegMoto/LegAbsorb.md, <dev>Moto.LegMoto.LegAbsorb</dev>, ![1006.jpg](/PaperPhoto/1006.jpg)
+Moto/LegMoto/LegAbsorb.md, <dev>Moto.LegMoto.LegAbsorb</dev>, ![2330.jpg](/PaperPhoto/2330.jpg)
+Moto/LegMoto/LegAbsorb.md, <dev>Moto.LegMoto.LegAbsorb</dev>, ![2450.jpg](/PaperPhoto/2450.jpg)
 :::

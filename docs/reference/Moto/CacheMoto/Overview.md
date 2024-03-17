@@ -1,3 +1,24 @@
+
+# 🟠 <moto>CacheMoto</moto>
+
+![CacheOverview](/Moto/CacheOverview.png)
+
+## What is a Cache?
+
+## Cache Anatomy
+
+- Tarp
+- Box
+- Anchor
+- Kit
+
+## Cache Properties
+
+- BoxCount
+- BoxStackHeight
+- BoxStackWidth
+- BoxStackDepth
+
 ::: details 🛠 <dev>DesignBox</dev>
 
 ## DevNotes
@@ -45,23 +66,3 @@ Moto/CacheMoto/Overview.md, <dev>Moto.CacheMoto.Overview</dev>, ![3064.jpg](/Pap
 Moto/CacheMoto/Overview.md, <dev>Moto.CacheMoto.BagsPlacement</dev>, ![3076.jpg](/PaperPhoto/3076.jpg)
 Moto/CacheMoto/Overview.md, <dev>Moto.CacheMoto.Overview</dev>, ![3076.jpg](/PaperPhoto/3076.jpg)
 :::
-
-# 🟠 <moto>CacheMoto</moto>
-
-![CacheOverview](/Moto/CacheOverview.png)
-
-## What is a Cache?
-
-## Cache Anatomy
-
-- Tarp
-- Box
-- Anchor
-- Kit
-
-## Cache Properties
-
-- BoxCount
-- BoxStackHeight
-- BoxStackWidth
-- BoxStackDepth

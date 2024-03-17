@@ -1,25 +1,3 @@
-::: details 🛠 <dev>DesignBox</dev>
-
-## DevNotes
-
--
-
-## DevState
-
-```py
-`TagsToHeaders: False`
-```
-
-<h2>PageTags</h2>
-
-- "Moto.BodyMoto.Walk"
-
-Moto/BodyMoto/Walk.md, <dev>Moto.BodyMoto.Walk</dev>, ![1803.jpg](/PaperPhoto/1803.jpg)
-Moto/BodyMoto/Walk.md, <dev>Moto.BodyMoto.Walk</dev>, ![2450.jpg](/PaperPhoto/2450.jpg)
-Moto/BodyMoto/Walk.md, <dev>Moto.BodyMoto.Walk</dev>, ![3217.jpg](/PaperPhoto/3217.jpg)
-Moto/BodyMoto/Walk.md, <dev>Moto.BodyMoto.Walk</dev>, ![3222.jpg](/PaperPhoto/3222.jpg)
-
-:::
 
 # 🟠 <moto>Walk</moto>
 
@@ -129,4 +107,27 @@ Links to other related motos. Related because they are the same MotoType or beca
 - One
 - Two
 - Three
+:::
+
+::: details 🛠 <dev>DesignBox</dev>
+
+## DevNotes
+
+-
+
+## DevState
+
+```py
+`TagsToHeaders: False`
+```
+
+<h2>PageTags</h2>
+
+- "Moto.BodyMoto.Walk"
+
+Moto/BodyMoto/Walk.md, <dev>Moto.BodyMoto.Walk</dev>, ![1803.jpg](/PaperPhoto/1803.jpg)
+Moto/BodyMoto/Walk.md, <dev>Moto.BodyMoto.Walk</dev>, ![2450.jpg](/PaperPhoto/2450.jpg)
+Moto/BodyMoto/Walk.md, <dev>Moto.BodyMoto.Walk</dev>, ![3217.jpg](/PaperPhoto/3217.jpg)
+Moto/BodyMoto/Walk.md, <dev>Moto.BodyMoto.Walk</dev>, ![3222.jpg](/PaperPhoto/3222.jpg)
+
 :::

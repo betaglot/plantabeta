@@ -1,22 +1,3 @@
-::: details 🛠 <dev>DesignBox</dev>
-
-## DevNotes
-
--
-
-## DevState
-
-```py
-`TagsToHeaders: False`
-```
-
-<h2>PageTags</h2>
-
-- "Moto.HandMoto.InsertTree"
-
-Moto/HandMoto/InsertTree.md, <dev>Moto.HandMoto.InsertTree</dev>, ![2945.jpg](/PaperPhoto/2945.jpg)
-Moto/HandMoto/InsertTree.md, <dev>Moto.HandMoto.InsertTree</dev>, ![3060.jpg](/PaperPhoto/3060.jpg)
-:::
 
 # 🟠 <moto>InsertTree</moto>
 
@@ -118,4 +99,24 @@ Links to other related motos. Related because they are the same MotoType or beca
 - One
 - Two
 - Three
+:::
+
+::: details 🛠 <dev>DesignBox</dev>
+
+## DevNotes
+
+-
+
+## DevState
+
+```py
+`TagsToHeaders: False`
+```
+
+<h2>PageTags</h2>
+
+- "Moto.HandMoto.InsertTree"
+
+Moto/HandMoto/InsertTree.md, <dev>Moto.HandMoto.InsertTree</dev>, ![2945.jpg](/PaperPhoto/2945.jpg)
+Moto/HandMoto/InsertTree.md, <dev>Moto.HandMoto.InsertTree</dev>, ![3060.jpg](/PaperPhoto/3060.jpg)
 :::

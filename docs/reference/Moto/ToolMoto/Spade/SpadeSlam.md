@@ -1,25 +1,3 @@
-::: details 🛠 <dev>DesignBox</dev>
-
-## DevNotes
-
--
-
-## DevState
-
-```py
-`TagsToHeaders: False`
-```
-
-- AlsoKnownAs(SpadeThrow)
-WWE Slam move
-- Step up then drop down
-- When to pull your punch, pull your slam?
-
-<h2>PageTags</h2>
-
-- "Moto.ToolMoto.SpadeMoto.SpadeSlam"
-
-:::
 
 # 🟠 <moto>Spade Slam</moto>
 
@@ -114,4 +92,27 @@ Links to other related motos. Related because they are the same MotoType or beca
 - One
 - Two
 - Three
+:::
+
+::: details 🛠 <dev>DesignBox</dev>
+
+## DevNotes
+
+-
+
+## DevState
+
+```py
+`TagsToHeaders: False`
+```
+
+- AlsoKnownAs(SpadeThrow)
+WWE Slam move
+- Step up then drop down
+- When to pull your punch, pull your slam?
+
+<h2>PageTags</h2>
+
+- "Moto.ToolMoto.SpadeMoto.SpadeSlam"
+
 :::

@@ -1,3 +1,6 @@
+
+# 🔷 <eco>EcoDifficulty</eco>
+
 ::: details 🛠 <dev>DesignBox</dev>
 
 ## DevNotes
@@ -17,5 +20,3 @@
 - "Eco.EcoDifficulty.LandRisk"
 - "Eco.EcoDifficulty.Overview"
 :::
-
-# 🔷 <eco>EcoDifficulty</eco>

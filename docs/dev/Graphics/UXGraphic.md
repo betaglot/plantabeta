@@ -1,3 +1,5 @@
+# 🛠 UX Graphics
+
 ::: details 🛠 <dev>DesignBox</dev>
 
 ## DevNotes
@@ -11,5 +13,3 @@
 ```
 
 :::
-
-# 🛠 UX Graphics

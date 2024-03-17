@@ -1,27 +1,3 @@
-::: details 🛠 <dev>DesignBox</dev>
-
-## DevNotes
-
--
-
-## DevState
-
-```py
-`TagsToHeaders: False`
-```
-
-<h2>PageTags</h2>
-
-- "Moto.BodyMoto.Fall"
-
-Moto/BodyMoto/Fall.md, <dev>Moto.BodyMoto.Fall</dev>, ![1006.jpg](/PaperPhoto/1006.jpg)
-Moto/BodyMoto/Fall.md, <dev>Moto.BodyMoto.Fall</dev>, ![1844.jpg](/PaperPhoto/1844.jpg)
-Moto/BodyMoto/Fall.md, <dev>Moto.BodyMoto.Fall</dev>, ![2450.jpg](/PaperPhoto/2450.jpg)
-Moto/BodyMoto/Fall.md, <dev>Moto.BodyMoto.Fall</dev>, ![2966.jpg](/PaperPhoto/2966.jpg)
-Moto/BodyMoto/Fall.md, <dev>Moto.BodyMoto.Fall</dev>, ![3053.jpg](/PaperPhoto/3053.jpg)
-Moto/BodyMoto/Fall.md, <dev>Moto.BodyMoto.Fall</dev>, ![3227.jpg](/PaperPhoto/3227.jpg)
-
-:::
 
 # 🟠 <moto>PlanterFall</moto>
 
@@ -116,4 +92,29 @@ Links to other related motos. Related because they are the same MotoType or beca
 - One
 - Two
 - Three
+:::
+
+::: details 🛠 <dev>DesignBox</dev>
+
+## DevNotes
+
+-
+
+## DevState
+
+```py
+`TagsToHeaders: False`
+```
+
+<h2>PageTags</h2>
+
+- "Moto.BodyMoto.Fall"
+
+Moto/BodyMoto/Fall.md, <dev>Moto.BodyMoto.Fall</dev>, ![1006.jpg](/PaperPhoto/1006.jpg)
+Moto/BodyMoto/Fall.md, <dev>Moto.BodyMoto.Fall</dev>, ![1844.jpg](/PaperPhoto/1844.jpg)
+Moto/BodyMoto/Fall.md, <dev>Moto.BodyMoto.Fall</dev>, ![2450.jpg](/PaperPhoto/2450.jpg)
+Moto/BodyMoto/Fall.md, <dev>Moto.BodyMoto.Fall</dev>, ![2966.jpg](/PaperPhoto/2966.jpg)
+Moto/BodyMoto/Fall.md, <dev>Moto.BodyMoto.Fall</dev>, ![3053.jpg](/PaperPhoto/3053.jpg)
+Moto/BodyMoto/Fall.md, <dev>Moto.BodyMoto.Fall</dev>, ![3227.jpg](/PaperPhoto/3227.jpg)
+
 :::

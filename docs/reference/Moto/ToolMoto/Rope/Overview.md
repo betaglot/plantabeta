@@ -1,30 +1,3 @@
-::: details 🛠 <dev>DesignBox</dev>
-
-## DevNotes
-
--
-
-## DevState
-
-```py
-`TagsToHeaders: False`
-```
-
-Thread Gear Loops
-
-- Rope for Tranport
-- Rope for Cache Construction
-
-Summer Cache
-
-- PlantingTool_RatchetStrap_Hook_CargoNet
-- PlantingTool_RatchetStrap_Webbing_WebbingWidth
-- PlantingTool_Rope_RopeKnot_BowlineKnot
-- PlantingTool_Rope_RopeKnot_CargoNet
-- PlantingTool_Rope_RopeKnot_CloveHitch
-- PlantingTool_Rope_RopeKnot_TruckersHitch
-- PlantingTool_Rope_TreeBoxTransport_TreeBoxDrop
-:::
 
 # 🟠 <moto>RopeMoto</moto>
 
@@ -126,4 +99,32 @@ Links to other related motos. Related because they are the same MotoType or beca
 - One
 - Two
 - Three
+:::
+
+::: details 🛠 <dev>DesignBox</dev>
+
+## DevNotes
+
+-
+
+## DevState
+
+```py
+`TagsToHeaders: False`
+```
+
+Thread Gear Loops
+
+- Rope for Tranport
+- Rope for Cache Construction
+
+Summer Cache
+
+- PlantingTool_RatchetStrap_Hook_CargoNet
+- PlantingTool_RatchetStrap_Webbing_WebbingWidth
+- PlantingTool_Rope_RopeKnot_BowlineKnot
+- PlantingTool_Rope_RopeKnot_CargoNet
+- PlantingTool_Rope_RopeKnot_CloveHitch
+- PlantingTool_Rope_RopeKnot_TruckersHitch
+- PlantingTool_Rope_TreeBoxTransport_TreeBoxDrop
 :::

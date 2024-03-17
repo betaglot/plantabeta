@@ -1,3 +1,35 @@
+
+# 💜 <neuro>Neuro Overview </neuro>
+
+![NeuroIcon](/Neuro/Neuro_Icon.png)
+
+## <neuro>Neuro Symbol</neuro> 💜
+>
+> Violet Heart
+
+## What is a Neuro?
+
+Short for Neuroscience
+
+- Computational Neuroscience
+- Cognitive Neuroscience
+- Neuropsychology
+- Sensory Neuroscience
+
+## Neuro Elements
+
+### Huberman Lab Podcast
+
+### Waking Up App
+
+- Awareness
+- Being in the Present moment experience.
+- Calm
+- Concentration Practice
+- Equanimity
+- 1st Person Experience
+- Suffering
+
 ::: details 🛠 <dev>DesignBox</dev>
 
 ## DevNotes
@@ -125,34 +157,3 @@ Neuro/NeuroOverview.md, <dev>Neuro.CognitiveEase.Priming</dev>, ![3171.jpg](/Pap
 Neuro/NeuroOverview.md, <dev>Neuro.CognitiveEase.Repetition</dev>, ![3171.jpg](/PaperPhoto/3171.jpg)
 Neuro/NeuroOverview.md, <dev>Neuro.Overview</dev>, ![3276.jpg](/PaperPhoto/3276.jpg)
 :::
-
-# 💜 <neuro>Neuro Overview </neuro>
-
-![NeuroIcon](/Neuro/Neuro_Icon.png)
-
-## <neuro>Neuro Symbol</neuro> 💜
->
-> Violet Heart
-
-## What is a Neuro?
-
-Short for Neuroscience
-
-- Computational Neuroscience
-- Cognitive Neuroscience
-- Neuropsychology
-- Sensory Neuroscience
-
-## Neuro Elements
-
-### Huberman Lab Podcast
-
-### Waking Up App
-
-- Awareness
-- Being in the Present moment experience.
-- Calm
-- Concentration Practice
-- Equanimity
-- 1st Person Experience
-- Suffering

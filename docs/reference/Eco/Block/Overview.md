@@ -1,23 +1,3 @@
-::: details 🛠 <dev>DesignBox</dev>
-
-## DevNotes
-
--
-
-## DevState
-
-```py
-`TagsToHeaders: False`
-```
-
-<h2>PageTags</h2>
-
-- "Eco.Block.FillBlock"
-- "Eco.Block.OverflowBlock"
-- "Eco.Block.Overview"
-- "Eco.Block.Road"
-- "Eco.Block.WalkInBlock"
-:::
 
 # 🟩  <eco>Block</eco>
 
@@ -48,3 +28,24 @@ Dispersed
 - Topography
 - Water features
 - Location
+
+::: details 🛠 <dev>DesignBox</dev>
+
+## DevNotes
+
+-
+
+## DevState
+
+```py
+`TagsToHeaders: False`
+```
+
+<h2>PageTags</h2>
+
+- "Eco.Block.FillBlock"
+- "Eco.Block.OverflowBlock"
+- "Eco.Block.Overview"
+- "Eco.Block.Road"
+- "Eco.Block.WalkInBlock"
+:::

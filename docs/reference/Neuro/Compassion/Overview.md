@@ -1,3 +1,8 @@
+
+# 💜 <neuro>Compassion</neuro>
+
+## SelfCompassion
+
 ::: details 🛠 <dev>DesignBox</dev>
 
 ## DevNotes
@@ -11,7 +16,3 @@
 ```
 
 :::
-
-# 💜 <neuro>Compassion</neuro>
-
-## SelfCompassion

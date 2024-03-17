@@ -1,28 +1,3 @@
-::: details 🛠 <dev>DesignBox</dev>
-
-## DevNotes
-
--
-
-## DevState
-
-```py
-`TagsToHeaders: False`
-```
-
-<h2>PageTags</h2>
-
-- "Dev.Overview"
-- "Dev.Put(Plant).SeedIdea"
-- "Dev.Youtube"
-
-dev/DevOverview.md, <dev>Dev.Put(Plant).SeedIdea</dev>, ![0595.jpg](/PaperPhoto/0595.jpg)
-dev/DevOverview.md, <dev>Dev.Put(Plant).SeedIdea</dev>, ![1051.jpg](/PaperPhoto/1051.jpg)
-dev/DevOverview.md, <dev>Dev.Youtube</dev>, ![3289.jpg](/PaperPhoto/3289.jpg)
-dev/DevOverview.md, <dev>Dev.Youtube</dev>, ![3290.jpg](/PaperPhoto/3290.jpg)
-dev/DevOverview.md, <dev>Dev.Youtube</dev>, ![3291.jpg](/PaperPhoto/3291.jpg)
-
-:::
 
 # 🛠 <dev>Research and Development</dev>
 
@@ -61,3 +36,29 @@ Download Printable resources
 ## [Github](https://github.com/klimbeta/putplant)
 
 ## <dev>**&**</dev>
+
+::: details 🛠 <dev>DesignBox</dev>
+
+## DevNotes
+
+-
+
+## DevState
+
+```py
+`TagsToHeaders: False`
+```
+
+<h2>PageTags</h2>
+
+- "Dev.Overview"
+- "Dev.Put(Plant).SeedIdea"
+- "Dev.Youtube"
+
+dev/DevOverview.md, <dev>Dev.Put(Plant).SeedIdea</dev>, ![0595.jpg](/PaperPhoto/0595.jpg)
+dev/DevOverview.md, <dev>Dev.Put(Plant).SeedIdea</dev>, ![1051.jpg](/PaperPhoto/1051.jpg)
+dev/DevOverview.md, <dev>Dev.Youtube</dev>, ![3289.jpg](/PaperPhoto/3289.jpg)
+dev/DevOverview.md, <dev>Dev.Youtube</dev>, ![3290.jpg](/PaperPhoto/3290.jpg)
+dev/DevOverview.md, <dev>Dev.Youtube</dev>, ![3291.jpg](/PaperPhoto/3291.jpg)
+
+:::

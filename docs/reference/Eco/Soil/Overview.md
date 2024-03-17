@@ -1,3 +1,13 @@
+
+# 🟩  <eco>Soil</eco>🟩
+
+## Soil Layers
+
+- **(L)** Litter
+- **(H)** Humic
+- **(O)** Organic
+- **(M)** Mineral
+
 ::: details 🛠 <dev>DesignBox</dev>
 
 ## DevNotes
@@ -57,12 +67,3 @@
 - Geology_Soil_SoilLayer_Humus
 - Geology_Soil_SoilType_Linguistics
 :::
-
-# 🟩  <eco>Soil</eco>🟩
-
-## Soil Layers
-
-- **(L)** Litter
-- **(H)** Humic
-- **(O)** Organic
-- **(M)** Mineral

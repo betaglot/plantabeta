@@ -1,17 +1,3 @@
-::: details 🛠 <dev>DesignBox</dev>
-
-## DevNotes
-
--
-
-## DevState
-
-```py
-`TagsToHeaders: False`
-```
-
-- StumpObstacle is only an Obstacle for Cows
-:::
 
 # 🟩  <eco>StumpObstacle</eco>
 
@@ -140,4 +126,19 @@ Links to other related EcoElements. Related because they are the same EcoType or
 
 - Two
 - Three
+:::
+
+::: details 🛠 <dev>DesignBox</dev>
+
+## DevNotes
+
+-
+
+## DevState
+
+```py
+`TagsToHeaders: False`
+```
+
+- StumpObstacle is only an Obstacle for Cows
 :::

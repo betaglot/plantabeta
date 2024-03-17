@@ -1,3 +1,21 @@
+
+# 🟠 <moto>ArmMoto</moto>
+
+## Arm Anatomy
+
+- Scapula
+- Shoulder
+- Humerus
+- Elbow
+- Forearm
+- Wrist
+- Hand
+
+## Arm Properties
+
+- ArmLength
+- ArmStrength
+
 ::: details 🛠 <dev>DesignBox</dev>
 
 ## DevNotes
@@ -57,20 +75,3 @@ Moto/ArmMoto/Overview.md, <dev>Moto.ArmMoto.Overview</dev>, ![2486.jpg](/PaperPh
 Moto/ArmMoto/Overview.md, <dev>Moto.ArmMoto.Overview</dev>, ![2525.jpg](/PaperPhoto/2525.jpg)
 
 :::
-
-# 🟠 <moto>ArmMoto</moto>
-
-## Arm Anatomy
-
-- Scapula
-- Shoulder
-- Humerus
-- Elbow
-- Forearm
-- Wrist
-- Hand
-
-## Arm Properties
-
-- ArmLength
-- ArmStrength

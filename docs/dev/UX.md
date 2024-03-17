@@ -1,3 +1,83 @@
+
+# 🛠 UX: User Experience of Put(Plant)
+
+## Hardware
+
+### GoPro
+
+- GoPros are used to record your Beta.
+- Video
+
+### Phone
+
+- Touch keyboard
+- Video
+- Audio
+    - Dictation
+
+### Tablet
+
+- Ipad
+
+### Projector
+
+- Mess Tent
+- Orientation
+- Motel Room Wall
+- Group Lesson
+- Morning
+
+### Desktop
+
+### Physical Keyboard
+
+- When transcribing Beta it helps to have a Physical Keyboard so that all fingers can be used to type while maximizing the screen viewport
+
+## Search
+
+Search Box
+
+### Visual Search
+
+#### ThumbnailIndex
+
+![ThumbnailIndex](/dev/ThumbnailIndex.jpg)
+
+#### TableOfContents
+
+Sidebar
+
+In Details
+
+Algolia
+
+- How to I manually suppplement Algolia since it has gaps?
+FAQ
+
+## Website Navigation
+
+Path Redundancy
+
+## Differentiate(Ref, Guide, Tutorial)
+
+Right now im making the reference, not a tutorial.
+
+The reference is What not how
+
+Tutorials have examples
+
+Reference isn't used as much as tutorials
+
+What's the difference between Guide and Tutorial?
+
+In the guide you learn what a `list` is while in the ref you can see all the list methods and properties.
+
+Ref has less pedagogy than Tutorial or Guide.
+
+Tutorials have user input. Tutorials test users
+
+The Ref is like the API section of Vue.org
+
 ::: details 🛠 <dev>DesignBox</dev>
 
 ## DevNotes
@@ -100,82 +180,3 @@ dev/UX.md, <dev>Guide.How.Understanding</dev>, ![90063.png](/PaperPhoto/90063.pn
 dev/UX.md, <dev>Dev.ToReduceConfusion</dev>, ![90108.png](/PaperPhoto/90108.png)
 
 :::
-
-# 🛠 UX: User Experience of Put(Plant)
-
-## Hardware
-
-### GoPro
-
-- GoPros are used to record your Beta.
-- Video
-
-### Phone
-
-- Touch keyboard
-- Video
-- Audio
-    - Dictation
-
-### Tablet
-
-- Ipad
-
-### Projector
-
-- Mess Tent
-- Orientation
-- Motel Room Wall
-- Group Lesson
-- Morning
-
-### Desktop
-
-### Physical Keyboard
-
-- When transcribing Beta it helps to have a Physical Keyboard so that all fingers can be used to type while maximizing the screen viewport
-
-## Search
-
-Search Box
-
-### Visual Search
-
-#### ThumbnailIndex
-
-![ThumbnailIndex](/dev/ThumbnailIndex.jpg)
-
-#### TableOfContents
-
-Sidebar
-
-In Details
-
-Algolia
-
-- How to I manually suppplement Algolia since it has gaps?
-FAQ
-
-## Website Navigation
-
-Path Redundancy
-
-## Differentiate(Ref, Guide, Tutorial)
-
-Right now im making the reference, not a tutorial.
-
-The reference is What not how
-
-Tutorials have examples
-
-Reference isn't used as much as tutorials
-
-What's the difference between Guide and Tutorial?
-
-In the guide you learn what a `list` is while in the ref you can see all the list methods and properties.
-
-Ref has less pedagogy than Tutorial or Guide.
-
-Tutorials have user input. Tutorials test users
-
-The Ref is like the API section of Vue.org

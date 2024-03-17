@@ -1,17 +1,3 @@
-::: details 🛠 <dev>DesignBox</dev>
-
-## DevNotes
-
--
-
-## DevState
-
-```py
-`TagsToHeaders: False`
-```
-
-![PaperPhoto](/PaperPhoto/0017.jpg)
-:::
 
 # 🔷 Sequence
 
@@ -175,3 +161,18 @@ Asyncronous
 All algorithms are Phrases. "Phrase" is more commonplace than "Algorithm". Use "Phrase" instead of Algorithm to increase accessiblity to atheletes and other people who are averse to math. The purpose of Put(Plant) is not to convince people of the utility of mathematical **theory**, rather, it's to use math in **practice**.
 
 - ProbePhrase or Probe Algorithm
+
+::: details 🛠 <dev>DesignBox</dev>
+
+## DevNotes
+
+-
+
+## DevState
+
+```py
+`TagsToHeaders: False`
+```
+
+![PaperPhoto](/PaperPhoto/0017.jpg)
+:::

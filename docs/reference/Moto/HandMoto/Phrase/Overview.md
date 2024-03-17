@@ -1,3 +1,6 @@
+
+# 🔷 <moto>Hand Phrase</moto>
+
 ::: details 🛠 <dev>DesignBox</dev>
 
 ## DevNotes
@@ -21,5 +24,3 @@ Moto/HandMoto/HandPhrase.md, <dev>Moto.HandMoto.HandMatch</dev>, ![1527.jpg](/Pa
 Moto/HandMoto/HandPhrase.md, <dev>Moto.HandMoto.HandBump</dev>, ![1599.jpg](/PaperPhoto/1599.jpg)
 Moto/HandMoto/HandPhrase.md, <dev>Moto.HandMoto.HandMatch</dev>, ![1674.jpg](/PaperPhoto/1674.jpg)
 :::
-
-# 🔷 <moto>Hand Phrase</moto>

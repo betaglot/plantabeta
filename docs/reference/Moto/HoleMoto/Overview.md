@@ -1,3 +1,10 @@
+
+# 🟠 <moto>HoleMoto</moto>
+
+## Hole Anatomy
+
+## Hole Properties
+
 ::: details 🛠 <dev>DesignBox</dev>
 
 ## DevNotes
@@ -31,9 +38,3 @@ Moto/HoleMoto/Overview.md, <dev>Moto.HoleMoto.Overview</dev>, ![2945.jpg](/Paper
 Moto/HoleMoto/Overview.md, <dev>Moto.HoleMoto.Overview</dev>, ![3059.jpg](/PaperPhoto/3059.jpg)
 Moto/HoleMoto/Overview.md, <dev>Moto.HoleMoto.Overview</dev>, ![3083.jpg](/PaperPhoto/3083.jpg)
 :::
-
-# 🟠 <moto>HoleMoto</moto>
-
-## Hole Anatomy
-
-## Hole Properties

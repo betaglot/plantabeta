@@ -1,24 +1,3 @@
-::: details 🛠 <dev>DesignBox</dev>
-
-## DevNotes
-
--
-
-## DevState
-
-```py
-`TagsToHeaders: False`
-```
-
-Video of climbing with planting bags on
-
-Put(Plant) climbs while planting
-
-Klimbeta could plant while climbing
-
-What is the puck what is the net and how do you carry the puck?
-
-:::
 
 # Klimbeta
 
@@ -97,3 +76,25 @@ Planters become physically fit and ambidextrous
 ### 4. How BetaComp helps to Combat Climate Change
 
 It's not BetaComp that is combatting Climate Change, it's the climbers that are engaged with BetaComp who are directly or indirectly combatting Climate Change.
+
+::: details 🛠 <dev>DesignBox</dev>
+
+## DevNotes
+
+-
+
+## DevState
+
+```py
+`TagsToHeaders: False`
+```
+
+Video of climbing with planting bags on
+
+Put(Plant) climbs while planting
+
+Klimbeta could plant while climbing
+
+What is the puck what is the net and how do you carry the puck?
+
+:::

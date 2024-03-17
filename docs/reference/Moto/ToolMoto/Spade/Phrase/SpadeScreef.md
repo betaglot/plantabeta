@@ -1,24 +1,3 @@
-::: details 🛠 <dev>DesignBox</dev>
-
-## DevNotes
-
--
-
-## DevState
-
-```py
-`TagsToHeaders: False`
-```
-
-- Arm wrestling screef. ArmLock then use your whole body
-
-<h2>PageTags</h2>
-
-- "Moto.ToolMoto.SpadeMoto.SpadeScreef"
-
-Moto/ToolMoto/Spade/SpadeScreef.md, <dev>Moto.ToolMoto.SpadeMoto.SpadeScreef</dev>, ![1303.jpg](/PaperPhoto/1303.jpg)
-Moto/ToolMoto/Spade/SpadeScreef.md, <dev>Moto.ToolMoto.SpadeMoto.SpadeScreef</dev>, ![3088.jpg](/PaperPhoto/3088.jpg)
-:::
 
 # 🟠 <moto>SpadeScreef</moto>
 
@@ -113,4 +92,26 @@ Links to other related motos. Related because they are the same MotoType or beca
 - One
 - Two
 - Three
+:::
+
+::: details 🛠 <dev>DesignBox</dev>
+
+## DevNotes
+
+-
+
+## DevState
+
+```py
+`TagsToHeaders: False`
+```
+
+- Arm wrestling screef. ArmLock then use your whole body
+
+<h2>PageTags</h2>
+
+- "Moto.ToolMoto.SpadeMoto.SpadeScreef"
+
+Moto/ToolMoto/Spade/SpadeScreef.md, <dev>Moto.ToolMoto.SpadeMoto.SpadeScreef</dev>, ![1303.jpg](/PaperPhoto/1303.jpg)
+Moto/ToolMoto/Spade/SpadeScreef.md, <dev>Moto.ToolMoto.SpadeMoto.SpadeScreef</dev>, ![3088.jpg](/PaperPhoto/3088.jpg)
 :::

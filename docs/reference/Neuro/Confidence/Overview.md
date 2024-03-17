@@ -1,24 +1,3 @@
-::: details 🛠 <dev>DesignBox</dev>
-
-## DevNotes
-
--
-
-## DevState
-
-```py
-`TagsToHeaders: False`
-```
-
-- Self awareness
-
-- Good tree
-
-- Good spacing
-
-- This looks right
-    - Visual plot
-:::
 
 # 💜 <neuro>Confidence</neuro>
 
@@ -86,4 +65,26 @@ Links to other related NeuroElements.
 - One
 - Two
 - Three
+:::
+
+::: details 🛠 <dev>DesignBox</dev>
+
+## DevNotes
+
+-
+
+## DevState
+
+```py
+`TagsToHeaders: False`
+```
+
+- Self awareness
+
+- Good tree
+
+- Good spacing
+
+- This looks right
+    - Visual plot
 :::

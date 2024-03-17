@@ -1,3 +1,74 @@
+
+# 💜 <neuro>Spatial Cognition</neuro>
+
+- Visuospatial Ability
+- Spatial Visualization
+- Mental Rotation
+
+> Where is the cache?
+
+> How do I get there?
+
+> What is the fastest way there?
+
+>
+
+## Spatial Location
+
+## Spatial Size
+
+## Spatial Distance
+
+## Spatial Separation
+
+## Spatial Connection
+
+### Spatial Alignment
+
+## Spatial Shape
+
+## Spatial Pattern
+
+## Spatial Motoment
+
+## Cognitive Map
+
+Mental representation of Eco to construct Via
+
+> three basic elements of cognitive map based navigation spatial coding, landmark anchoring, and via planning
+
+### Spatial Coding
+
+### Landmark Anchoring
+
+- North
+- CacheLocation
+- PieceFront
+- RockOutcrop
+- Mature tree which is uncut.
+
+### Via Planning
+
+ViaPlan vs. ActualVia
+
+## <eco>EcoSpace</eco>
+
+## <moto>MotoSpace</moto>
+
+## <via>ViaSpace</via>
+
+### Navigation
+
+#### Via Search
+
+#### Via Aiming
+
+Wayfinding
+
+#### Walking
+
+When to slow down
+
 ::: details 🛠 <dev>DesignBox</dev>
 
 ## DevNotes
@@ -93,73 +164,3 @@ Neuro/SpatialCognition/Overview.md, <dev>Neuro.Alignment.Perpendicular</dev>, ![
 Neuro/SpatialCognition/Overview.md, <dev>Neuro.Chunking.Fraction</dev>, ![3139.jpg](/PaperPhoto/3139.jpg)
 Neuro/SpatialCognition/Overview.md, <dev>Neuro.Chunking.Fraction</dev>, ![3161.jpg](/PaperPhoto/3161.jpg)
 :::
-
-# 💜 <neuro>Spatial Cognition</neuro>
-
-- Visuospatial Ability
-- Spatial Visualization
-- Mental Rotation
-
-> Where is the cache?
-
-> How do I get there?
-
-> What is the fastest way there?
-
->
-
-## Spatial Location
-
-## Spatial Size
-
-## Spatial Distance
-
-## Spatial Separation
-
-## Spatial Connection
-
-### Spatial Alignment
-
-## Spatial Shape
-
-## Spatial Pattern
-
-## Spatial Motoment
-
-## Cognitive Map
-
-Mental representation of Eco to construct Via
-
-> three basic elements of cognitive map based navigation spatial coding, landmark anchoring, and via planning
-
-### Spatial Coding
-
-### Landmark Anchoring
-
-- North
-- CacheLocation
-- PieceFront
-- RockOutcrop
-- Mature tree which is uncut.
-
-### Via Planning
-
-ViaPlan vs. ActualVia
-
-## <eco>EcoSpace</eco>
-
-## <moto>MotoSpace</moto>
-
-## <via>ViaSpace</via>
-
-### Navigation
-
-#### Via Search
-
-#### Via Aiming
-
-Wayfinding
-
-#### Walking
-
-When to slow down

@@ -1,24 +1,3 @@
-::: details 🛠 <dev>DesignBox</dev>
-
-## DevNotes
-
--
-
-## DevState
-
-```py
-`TagsToHeaders: False`
-```
-
-<h2>PageTags</h2>
-
-- "Moto.LegMoto.Step"
-- "Moto.LegMoto.Step.BackStep"
-- "Moto.LegMoto.Step.KickStep"
-- "Moto.LegMoto.Step.SideStep"
-
-Moto/LegMoto/Step.md, <dev>Moto.LegMoto.Step</dev>, ![3080.jpg](/PaperPhoto/3080.jpg)
-:::
 
 # 🟠 <moto>Step</moto>
 
@@ -113,4 +92,26 @@ Links to other related motos. Related because they are the same MotoType or beca
 - One
 - Two
 - Three
+:::
+
+::: details 🛠 <dev>DesignBox</dev>
+
+## DevNotes
+
+-
+
+## DevState
+
+```py
+`TagsToHeaders: False`
+```
+
+<h2>PageTags</h2>
+
+- "Moto.LegMoto.Step"
+- "Moto.LegMoto.Step.BackStep"
+- "Moto.LegMoto.Step.KickStep"
+- "Moto.LegMoto.Step.SideStep"
+
+Moto/LegMoto/Step.md, <dev>Moto.LegMoto.Step</dev>, ![3080.jpg](/PaperPhoto/3080.jpg)
 :::

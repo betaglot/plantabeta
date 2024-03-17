@@ -1,3 +1,10 @@
+
+# 🟩  <eco>RedRot</eco>
+
+## Dark RedRot
+
+## Wet RedRot
+
 ::: details 🛠 <dev>DesignBox</dev>
 
 ## DevNotes
@@ -14,9 +21,3 @@
 
 - "Eco.Soil.RedRot"
 :::
-
-# 🟩  <eco>RedRot</eco>
-
-## Dark RedRot
-
-## Wet RedRot

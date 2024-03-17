@@ -1,3 +1,8 @@
+
+# 🟠 <moto>ClothesMoto</moto>
+
+## Clothing Properties
+
 ::: details 🛠 <dev>DesignBox</dev>
 
 ## DevNotes
@@ -20,7 +25,3 @@ Moto/ClothingMoto/Overview.md, <dev>Moto.ClothingMoto.Overview</dev>, ![2572.jpg
 Moto/ClothingMoto/Overview.md, <dev>Moto.ClothingMoto.Overview</dev>, ![3148.jpg](/PaperPhoto/3148.jpg)
 
 :::
-
-# 🟠 <moto>ClothesMoto</moto>
-
-## Clothing Properties

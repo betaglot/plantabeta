@@ -1,22 +1,3 @@
-::: details 🛠 <dev>DesignBox</dev>
-
-## DevNotes
-
--
-
-## DevState
-
-```py
-`TagsToHeaders: False`
-```
-
-<h2>PageTags</h2>
-
-- "Moto.HandMoto.SpadeHandleGrip"
-
-Moto/HandMoto/SpadeHandleGrip.md, <dev>Moto.HandMoto.SpadeHandleGrip</dev>, ![0016.jpg](/PaperPhoto/0016.jpg)
-Moto/HandMoto/SpadeHandleGrip.md, <dev>Moto.HandMoto.SpadeHandleGrip</dev>, ![3016.jpg](/PaperPhoto/3016.jpg)
-:::
 
 # 🟠 <moto>SpadeHandleGrip</moto>
 
@@ -112,4 +93,24 @@ Links to other related motos. Related because they are the same MotoType or beca
 - One
 - Two
 - Three
+:::
+
+::: details 🛠 <dev>DesignBox</dev>
+
+## DevNotes
+
+-
+
+## DevState
+
+```py
+`TagsToHeaders: False`
+```
+
+<h2>PageTags</h2>
+
+- "Moto.HandMoto.SpadeHandleGrip"
+
+Moto/HandMoto/SpadeHandleGrip.md, <dev>Moto.HandMoto.SpadeHandleGrip</dev>, ![0016.jpg](/PaperPhoto/0016.jpg)
+Moto/HandMoto/SpadeHandleGrip.md, <dev>Moto.HandMoto.SpadeHandleGrip</dev>, ![3016.jpg](/PaperPhoto/3016.jpg)
 :::

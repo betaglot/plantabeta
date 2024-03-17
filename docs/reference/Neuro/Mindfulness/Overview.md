@@ -1,28 +1,3 @@
-::: details 🛠 <dev>DesignBox</dev>
-
-## DevNotes
-
--
-
-## DevState
-
-```py
-`TagsToHeaders: False`
-```
-
-- Acceptance
-- Equanimity
-- WakingUp App
-
-Vipassana
-<h2>PageTags</h2>
-
-- "Neuro.Meditation"
-- "Neuro.NonDual"
-
-Neuro/Mindfulness/MindfulBreathing.md, <dev>Neuro.NonDual</dev>, ![0734.jpg](/PaperPhoto/0734.jpg)
-Neuro/Mindfulness/MindfulBreathing.md, <dev>Neuro.Meditation</dev>, ![3052.jpg](/PaperPhoto/3052.jpg)
-:::
 
 # 💜 <neuro>Mindfulness</neuro>
 
@@ -95,4 +70,30 @@ Links to other related NeuroElements.
 - One
 - Two
 - Three
+:::
+
+::: details 🛠 <dev>DesignBox</dev>
+
+## DevNotes
+
+-
+
+## DevState
+
+```py
+`TagsToHeaders: False`
+```
+
+- Acceptance
+- Equanimity
+- WakingUp App
+
+Vipassana
+<h2>PageTags</h2>
+
+- "Neuro.Meditation"
+- "Neuro.NonDual"
+
+Neuro/Mindfulness/MindfulBreathing.md, <dev>Neuro.NonDual</dev>, ![0734.jpg](/PaperPhoto/0734.jpg)
+Neuro/Mindfulness/MindfulBreathing.md, <dev>Neuro.Meditation</dev>, ![3052.jpg](/PaperPhoto/3052.jpg)
 :::

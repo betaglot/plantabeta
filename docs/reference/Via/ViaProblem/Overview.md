@@ -1,21 +1,3 @@
-::: details 🛠 <dev>DesignBox</dev>
-
-## DevNotes
-
--
-
-## DevState
-
-```py
-`TagsToHeaders: False`
-```
-
-Not all problems can be perfectly solved.
-Define the Area to be Covered
-
-The ViaProblem is a lot smaller than the ViaTheorem
-
-:::
 
 # 🔻 <via>Via Problem</via>
 
@@ -52,3 +34,22 @@ Unknown Information
 - ViaFinishTime
 
 ## <eco>EcoDensity</eco>
+
+::: details 🛠 <dev>DesignBox</dev>
+
+## DevNotes
+
+-
+
+## DevState
+
+```py
+`TagsToHeaders: False`
+```
+
+Not all problems can be perfectly solved.
+Define the Area to be Covered
+
+The ViaProblem is a lot smaller than the ViaTheorem
+
+:::

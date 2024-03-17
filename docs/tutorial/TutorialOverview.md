@@ -1,3 +1,39 @@
+
+# Tutorial
+
+Multiple choice tests, where Planters choose from a selection of images or a selection of text answers.
+
+<https://brilliant.org/>
+
+- Matching
+- Multiple Choice
+- Phrase
+- Crosswords
+
+## EcoTest
+
+- Tree Genus Identification (Species Identification is more nuanced than required)
+
+```py
+treeList = [
+    'Abies', 
+    'Alnus', 
+    'Pinus', 
+    'Populus', 
+    'Pseudotsuga', 
+    'Quercus', 
+    'Salix', 
+    'Thuja', 
+    'Tsuga'
+    ]
+```
+
+## MoveTest
+
+## ViaTest
+
+## NeuroTest
+
 ::: details 🛠 <dev>DesignBox</dev>
 
 ## DevNotes
@@ -55,38 +91,3 @@ tutorials/Overview.md, <dev>Tests.Sequencing</dev>, ![2262.jpg](/PaperPhoto/2262
 tutorials/Overview.md, <dev>Tests.Overview</dev>, ![3041.jpg](/PaperPhoto/3041.jpg)
 tutorials/Overview.md, <dev>Tests.Overview</dev>, ![3047.jpg](/PaperPhoto/3047.jpg)
 :::
-
-# Tutorial
-
-Multiple choice tests, where Planters choose from a selection of images or a selection of text answers.
-
-<https://brilliant.org/>
-
-- Matching
-- Multiple Choice
-- Phrase
-- Crosswords
-
-## EcoTest
-
-- Tree Genus Identification (Species Identification is more nuanced than required)
-
-```py
-treeList = [
-    'Abies', 
-    'Alnus', 
-    'Pinus', 
-    'Populus', 
-    'Pseudotsuga', 
-    'Quercus', 
-    'Salix', 
-    'Thuja', 
-    'Tsuga'
-    ]
-```
-
-## MoveTest
-
-## ViaTest
-
-## NeuroTest

@@ -1,29 +1,3 @@
-::: details 🛠 <dev>DesignBox</dev>
-
-## DevNotes
-
--
-
-## DevState
-
-```py
-`TagsToHeaders: False`
-```
-
-<h2>PageTags</h2>
-
-- "Moto.ToolMoto.FlagMoto.FlagWrap"
-- "Moto.ToolMoto.FlagMoto.FlagWeave"
-- "Moto.ToolMoto.FlagMoto.FlagThrow"
-- "Moto.ToolMoto.FlagMoto.FlagKnot"
-
-Moto/ToolMoto/FlagMoto/FlagWrap.md, <dev>Moto.ToolMoto.FlagMoto.FlagWrap</dev>, ![0056.jpg](/PaperPhoto/0056.jpg)
-Moto/ToolMoto/FlagMoto/FlagWrap.md, <dev>Moto.ToolMoto.FlagMoto.FlagWrap</dev>, ![3021.jpg](/PaperPhoto/3021.jpg)
-Moto/ToolMoto/FlagMoto/FlagRip.md, <dev>Moto.ToolMoto.FlagMoto.FlagRip</dev>, ![2945.jpg](/PaperPhoto/2945.jpg)
-Moto/ToolMoto/FlagMoto/FlagWeave.md, <dev>Moto.ToolMoto.FlagMoto.FlagWeave</dev>, ![0049.jpg](/PaperPhoto/0049.jpg)
-Moto/ToolMoto/FlagMoto/FlagWeave.md, <dev>Moto.ToolMoto.FlagMoto.FlagWeave</dev>, ![0487.jpg](/PaperPhoto/0487.jpg)
-Moto/ToolMoto/FlagMoto/FlagWeave.md, <dev>Moto.ToolMoto.FlagMoto.FlagWeave</dev>, ![3021.jpg](/PaperPhoto/3021.jpg)
-:::
 
 # 🟠 <moto>PutFlag</moto>
 
@@ -127,4 +101,31 @@ Links to other related motos. Related because they are the same MotoType or beca
 - One
 - Two
 - Three
+:::
+
+::: details 🛠 <dev>DesignBox</dev>
+
+## DevNotes
+
+-
+
+## DevState
+
+```py
+`TagsToHeaders: False`
+```
+
+<h2>PageTags</h2>
+
+- "Moto.ToolMoto.FlagMoto.FlagWrap"
+- "Moto.ToolMoto.FlagMoto.FlagWeave"
+- "Moto.ToolMoto.FlagMoto.FlagThrow"
+- "Moto.ToolMoto.FlagMoto.FlagKnot"
+
+Moto/ToolMoto/FlagMoto/FlagWrap.md, <dev>Moto.ToolMoto.FlagMoto.FlagWrap</dev>, ![0056.jpg](/PaperPhoto/0056.jpg)
+Moto/ToolMoto/FlagMoto/FlagWrap.md, <dev>Moto.ToolMoto.FlagMoto.FlagWrap</dev>, ![3021.jpg](/PaperPhoto/3021.jpg)
+Moto/ToolMoto/FlagMoto/FlagRip.md, <dev>Moto.ToolMoto.FlagMoto.FlagRip</dev>, ![2945.jpg](/PaperPhoto/2945.jpg)
+Moto/ToolMoto/FlagMoto/FlagWeave.md, <dev>Moto.ToolMoto.FlagMoto.FlagWeave</dev>, ![0049.jpg](/PaperPhoto/0049.jpg)
+Moto/ToolMoto/FlagMoto/FlagWeave.md, <dev>Moto.ToolMoto.FlagMoto.FlagWeave</dev>, ![0487.jpg](/PaperPhoto/0487.jpg)
+Moto/ToolMoto/FlagMoto/FlagWeave.md, <dev>Moto.ToolMoto.FlagMoto.FlagWeave</dev>, ![3021.jpg](/PaperPhoto/3021.jpg)
 :::

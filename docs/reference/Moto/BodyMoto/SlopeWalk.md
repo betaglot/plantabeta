@@ -1,23 +1,3 @@
-::: details 🛠 <dev>DesignBox</dev>
-
-## DevNotes
-
--
-
-## DevState
-
-```py
-`TagsToHeaders: False`
-```
-
-<h2>PageTags</h2>
-
-- "Moto.BodyMoto.SlopeWalk"
-
-Moto/BodyMoto/SlopeWalk.md, <dev>Moto.BodyMoto.SlopeWalk</dev>, ![1861.jpg](/PaperPhoto/1861.jpg)
-Moto/BodyMoto/SlopeWalk.md, <dev>Moto.BodyMoto.SlopeWalk</dev>, ![3060.jpg](/PaperPhoto/3060.jpg)
-Moto/BodyMoto/SlopeWalk.md, <dev>Moto.BodyMoto.SlopeWalk</dev>, ![3320.jpg](/PaperPhoto/3320.jpg)
-:::
 
 # 🟠 <moto>SlopeWalk</moto>
 
@@ -113,4 +93,25 @@ Links to other related motos. Related because they are the same MotoType or beca
 - One
 - Two
 - Three
+:::
+
+::: details 🛠 <dev>DesignBox</dev>
+
+## DevNotes
+
+-
+
+## DevState
+
+```py
+`TagsToHeaders: False`
+```
+
+<h2>PageTags</h2>
+
+- "Moto.BodyMoto.SlopeWalk"
+
+Moto/BodyMoto/SlopeWalk.md, <dev>Moto.BodyMoto.SlopeWalk</dev>, ![1861.jpg](/PaperPhoto/1861.jpg)
+Moto/BodyMoto/SlopeWalk.md, <dev>Moto.BodyMoto.SlopeWalk</dev>, ![3060.jpg](/PaperPhoto/3060.jpg)
+Moto/BodyMoto/SlopeWalk.md, <dev>Moto.BodyMoto.SlopeWalk</dev>, ![3320.jpg](/PaperPhoto/3320.jpg)
 :::

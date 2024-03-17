@@ -1,26 +1,3 @@
-::: details 🛠 <dev>DesignBox</dev>
-
-## DevNotes
-
--
-
-## DevState
-
-```py
-`TagsToHeaders: False`
-```
-
-<h2>PageTags</h2>
-
-- "Moto.HandMoto.TreeFlip"
-- "Moto.HandMoto.TreeGrip"
-
-Moto/HandMoto/TreeGrip.md, <dev>Moto.HandMoto.TreeGrip</dev>, ![0448.jpg](/PaperPhoto/0448.jpg)
-Moto/HandMoto/TreeGrip.md, <dev>Moto.HandMoto.TreeFlip</dev>, ![1859.jpg](/PaperPhoto/1859.jpg)
-Moto/HandMoto/TreeGrip.md, <dev>Moto.HandMoto.TreeFlip</dev>, ![2944.jpg](/PaperPhoto/2944.jpg)
-Moto/HandMoto/TreeGrip.md, <dev>Moto.HandMoto.TreeGrip</dev>, ![2944.jpg](/PaperPhoto/2944.jpg)
-Moto/HandMoto/TreeGrip.md, <dev>Moto.HandMoto.TreeGrip</dev>, ![2954.jpg](/PaperPhoto/2954.jpg)
-:::
 
 # 🟠 <moto>TreeGrip</moto>
 
@@ -139,4 +116,28 @@ Links to other related motos. Related because they are the same MotoType or beca
 - One
 - Two
 - Three
+:::
+
+::: details 🛠 <dev>DesignBox</dev>
+
+## DevNotes
+
+-
+
+## DevState
+
+```py
+`TagsToHeaders: False`
+```
+
+<h2>PageTags</h2>
+
+- "Moto.HandMoto.TreeFlip"
+- "Moto.HandMoto.TreeGrip"
+
+Moto/HandMoto/TreeGrip.md, <dev>Moto.HandMoto.TreeGrip</dev>, ![0448.jpg](/PaperPhoto/0448.jpg)
+Moto/HandMoto/TreeGrip.md, <dev>Moto.HandMoto.TreeFlip</dev>, ![1859.jpg](/PaperPhoto/1859.jpg)
+Moto/HandMoto/TreeGrip.md, <dev>Moto.HandMoto.TreeFlip</dev>, ![2944.jpg](/PaperPhoto/2944.jpg)
+Moto/HandMoto/TreeGrip.md, <dev>Moto.HandMoto.TreeGrip</dev>, ![2944.jpg](/PaperPhoto/2944.jpg)
+Moto/HandMoto/TreeGrip.md, <dev>Moto.HandMoto.TreeGrip</dev>, ![2954.jpg](/PaperPhoto/2954.jpg)
 :::

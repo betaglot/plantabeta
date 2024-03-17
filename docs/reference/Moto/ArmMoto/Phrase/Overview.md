@@ -1,3 +1,10 @@
+
+# 🔷 <moto>Arm Phrase</moto>
+
+## Get
+
+## Put
+
 ::: details 🛠 <dev>DesignBox</dev>
 
 ## DevNotes
@@ -12,9 +19,3 @@
 
 <h2>PageTags</h2>
 :::
-
-# 🔷 <moto>Arm Phrase</moto>
-
-## Get
-
-## Put

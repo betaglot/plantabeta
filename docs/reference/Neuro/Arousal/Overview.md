@@ -1,3 +1,17 @@
+
+# 💜 <neuro>Arousal</neuro>
+
+::: warning Not Sexual Arousal
+:::
+
+## Alertness
+
+## Calm
+
+## Agitation
+
+## Low Arousal
+
 ::: details 🛠 <dev>DesignBox</dev>
 
 ## DevNotes
@@ -20,16 +34,3 @@ Neuro/Arousal/Calm.md, <dev>Neuro.Calm</dev>, ![3217.jpg](/PaperPhoto/3217.jpg)
 Neuro/Arousal/Calm.md, <dev>Neuro.Calm</dev>, ![3235.jpg](/PaperPhoto/3235.jpg)
 Neuro/Arousal/Overview.md, <dev>Neuro.Adrenaline</dev>, ![3275.jpg](/PaperPhoto/3275.jpg)
 :::
-
-# 💜 <neuro>Arousal</neuro>
-
-::: warning Not Sexual Arousal
-:::
-
-## Alertness
-
-## Calm
-
-## Agitation
-
-## Low Arousal

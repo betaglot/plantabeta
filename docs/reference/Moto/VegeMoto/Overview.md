@@ -1,3 +1,10 @@
+
+# 🟠 <moto>VegeMoto</moto>
+
+## Plant Anatomy
+
+## Plant Properties
+
 ::: details 🛠 <dev>DesignBox</dev>
 
 ## DevNotes
@@ -28,9 +35,3 @@ Moto/VegeMoto/Overview.md, <dev>Moto.VegeMoto.Overview</dev>, ![2945.jpg](/Paper
 Moto/VegeMoto/Overview.md, <dev>Moto.VegeMoto.Overview</dev>, ![3029.jpg](/PaperPhoto/3029.jpg)
 Moto/VegeMoto/Overview.md, <dev>Moto.VegeMoto.Overview</dev>, ![3080.jpg](/PaperPhoto/3080.jpg)
 :::
-
-# 🟠 <moto>VegeMoto</moto>
-
-## Plant Anatomy
-
-## Plant Properties

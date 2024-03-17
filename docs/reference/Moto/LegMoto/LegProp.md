@@ -1,24 +1,3 @@
-::: details 🛠 <dev>DesignBox</dev>
-
-## DevNotes
-
--
-
-## DevState
-
-```py
-`TagsToHeaders: False`
-```
-
-<h2>PageTags</h2>
-
-- "Moto.LegMoto.LegProp"
-
-Moto/LegMoto/LegProp.md, <dev>Moto.LegMoto.LegProp</dev>, ![1052.jpg](/PaperPhoto/1052.jpg)
-Moto/LegMoto/LegProp.md, <dev>Moto.LegMoto.LegProp</dev>, ![1387.jpg](/PaperPhoto/1387.jpg)
-Moto/LegMoto/LegProp.md, <dev>Moto.LegMoto.LegProp</dev>, ![1752.jpg](/PaperPhoto/1752.jpg)
-Moto/LegMoto/LegProp.md, <dev>Moto.LegMoto.LegProp</dev>, ![2469.jpg](/PaperPhoto/2469.jpg)
-:::
 
 # 🟠 <moto>LegProp</moto>
 
@@ -113,4 +92,26 @@ Links to other related motos. Related because they are the same MotoType or beca
 - One
 - Two
 - Three
+:::
+
+::: details 🛠 <dev>DesignBox</dev>
+
+## DevNotes
+
+-
+
+## DevState
+
+```py
+`TagsToHeaders: False`
+```
+
+<h2>PageTags</h2>
+
+- "Moto.LegMoto.LegProp"
+
+Moto/LegMoto/LegProp.md, <dev>Moto.LegMoto.LegProp</dev>, ![1052.jpg](/PaperPhoto/1052.jpg)
+Moto/LegMoto/LegProp.md, <dev>Moto.LegMoto.LegProp</dev>, ![1387.jpg](/PaperPhoto/1387.jpg)
+Moto/LegMoto/LegProp.md, <dev>Moto.LegMoto.LegProp</dev>, ![1752.jpg](/PaperPhoto/1752.jpg)
+Moto/LegMoto/LegProp.md, <dev>Moto.LegMoto.LegProp</dev>, ![2469.jpg](/PaperPhoto/2469.jpg)
 :::

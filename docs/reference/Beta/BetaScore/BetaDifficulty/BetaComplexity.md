@@ -1,3 +1,6 @@
+
+# 🔷 <beta>Beta Complexity</beta>
+
 ::: details 🛠 <dev>DesignBox</dev>
 
 ## DevNotes
@@ -11,5 +14,3 @@
 ```
 
 :::
-
-# 🔷 <beta>Beta Complexity</beta>

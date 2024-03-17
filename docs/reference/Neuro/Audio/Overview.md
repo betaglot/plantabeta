@@ -1,36 +1,3 @@
-::: details 🛠 <dev>DesignBox</dev>
-
-## DevNotes
-
--
-
-## DevState
-
-```py
-`TagsToHeaders: False`
-```
-
-<h2>PageTags</h2>
-
-- "Neuro.Hearing"
-- SoundLibrary_Linguistics_Onomatopoeia_Ping
-- SoundLibrary_Linguistics_Onomatopoeia_Ting
-- SoundLibrary_Linguistics_SimilarTo_Comparison
-- SoundLibrary_MicrositeSound_HollowLog_!Microsite
-- SoundLibrary_MicrositeSound_MudSuck_OpenHole
-- SoundLibrary_MicrositeSound_RockCapObstacle_RockHit_RockCapBorderDetection_
-- SoundLibrary_MicrositeSound_RockHit_MicrositeTest
-- SoundLibrary_MicrositeSound_RottenLog_!Microsite
-- SoundLibrary_MicrositeSound_RottenLog_SubsurfaceObstacle
-- SoundLibrary_MicrositeSound_Screefing_SoilComposition_GrainSize_Gravel
-- SoundLibrary_MicrositeSound_Screefing_SoilComposition_GrainSize_Sand
-- SoundLibrary_MicrositeSound_ThinRoot_RootRip
-- SoundLibrary_ToDo_GetSoundRecording_UniversityStudent_AudioDesign_
-- SoundLibrary_TruckHorn_LastCall_FinishTime
-- SoundLibrary_Whistle_Emergency_ThreeWhistleBlow
-
-Neuro/Audio/Overview.md, <dev>Neuro.Hearing</dev>, ![2956.jpg](/PaperPhoto/2956.jpg)
-:::
 
 # 💜 <neuro>Sound</neuro>
 
@@ -99,4 +66,38 @@ Links to other related NeuroElements.
 - One
 - Two
 - Three
+:::
+
+::: details 🛠 <dev>DesignBox</dev>
+
+## DevNotes
+
+-
+
+## DevState
+
+```py
+`TagsToHeaders: False`
+```
+
+<h2>PageTags</h2>
+
+- "Neuro.Hearing"
+- SoundLibrary_Linguistics_Onomatopoeia_Ping
+- SoundLibrary_Linguistics_Onomatopoeia_Ting
+- SoundLibrary_Linguistics_SimilarTo_Comparison
+- SoundLibrary_MicrositeSound_HollowLog_!Microsite
+- SoundLibrary_MicrositeSound_MudSuck_OpenHole
+- SoundLibrary_MicrositeSound_RockCapObstacle_RockHit_RockCapBorderDetection_
+- SoundLibrary_MicrositeSound_RockHit_MicrositeTest
+- SoundLibrary_MicrositeSound_RottenLog_!Microsite
+- SoundLibrary_MicrositeSound_RottenLog_SubsurfaceObstacle
+- SoundLibrary_MicrositeSound_Screefing_SoilComposition_GrainSize_Gravel
+- SoundLibrary_MicrositeSound_Screefing_SoilComposition_GrainSize_Sand
+- SoundLibrary_MicrositeSound_ThinRoot_RootRip
+- SoundLibrary_ToDo_GetSoundRecording_UniversityStudent_AudioDesign_
+- SoundLibrary_TruckHorn_LastCall_FinishTime
+- SoundLibrary_Whistle_Emergency_ThreeWhistleBlow
+
+Neuro/Audio/Overview.md, <dev>Neuro.Hearing</dev>, ![2956.jpg](/PaperPhoto/2956.jpg)
 :::

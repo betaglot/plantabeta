@@ -1,17 +1,3 @@
-::: details 🛠 <dev>DesignBox</dev>
-
-## DevNotes
-
--
-
-## DevState
-
-```py
-`TagsToHeaders: True`
-```
-
-:::
-
 # 🛠 <dev>Dev</dev>
 
 Moto
@@ -32,3 +18,17 @@ Subject Definition
 ### Overview Body
 
 Cards which link to
+
+::: details 🛠 <dev>DesignBox</dev>
+
+## DevNotes
+
+-
+
+## DevState
+
+```py
+`TagsToHeaders: True`
+```
+
+:::

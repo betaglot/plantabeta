@@ -1,3 +1,43 @@
+# <via>ViaSpace</via>
+
+> the Space that you move through while following a ViaCurve
+
+## Via Space Properties
+
+Space Form
+
+Space Size
+
+Via Cell
+
+### [BodySlot](/reference/Moto/BodyMoto/BodySlot)
+
+When performing a BodySlot between Obstacles, the ViaSpace is the Space between the Obstacles that the Planter must fit through. If the ViaSpace is narrow, then the Planter must BodyRotate to fit through the ViaSpace.
+
+## Spacing
+
+Placement of Trees
+
+Parsing Land into VoronoiCells
+
+### Partition
+
+Spandrel art between plating plot radius cirle area circleshape
+
+Via Cover
+
+Cirles make hexagons
+
+Center is hole
+.
+
+Coverin spandrels to show the mortar between ideal tree spacing spgeres
+
+![PentagonPartitions](/Via/PentagonPartitions.png)
+![SquarePartitions](/Via/SquarePartitions.png)
+![Pentomino](/Via/Pentomino.png)
+![PeelStationFloor](/art/PeelStationFloor.jpg)
+
 ::: details 🛠 <dev>DesignBox</dev>
 
 ## DevNotes
@@ -96,43 +136,3 @@ Via/ViaSpace/Overview.md, <dev>Via.Spacing.MaximumSpacing</dev>, ![3159.jpg](/Pa
 Via/ViaSpace/Overview.md, <dev>Via.Spacing.MinimumSpacing</dev>, ![3159.jpg](/PaperPhoto/3159.jpg)
 Via/ViaSpace/Overview.md, <dev>Via.ViaGeometry.ViaSpace.Overview</dev>, ![90044.jpg](/PaperPhoto/90044.jpg)
 :::
-
-# <via>ViaSpace</via>
-
-> the Space that you move through while following a ViaCurve
-
-## Via Space Properties
-
-Space Form
-
-Space Size
-
-Via Cell
-
-### [BodySlot](/reference/Moto/BodyMoto/BodySlot)
-
-When performing a BodySlot between Obstacles, the ViaSpace is the Space between the Obstacles that the Planter must fit through. If the ViaSpace is narrow, then the Planter must BodyRotate to fit through the ViaSpace.
-
-## Spacing
-
-Placement of Trees
-
-Parsing Land into VoronoiCells
-
-### Partition
-
-Spandrel art between plating plot radius cirle area circleshape
-
-Via Cover
-
-Cirles make hexagons
-
-Center is hole
-.
-
-Coverin spandrels to show the mortar between ideal tree spacing spgeres
-
-![PentagonPartitions](/Via/PentagonPartitions.png)
-![SquarePartitions](/Via/SquarePartitions.png)
-![Pentomino](/Via/Pentomino.png)
-![PeelStationFloor](/art/PeelStationFloor.jpg)

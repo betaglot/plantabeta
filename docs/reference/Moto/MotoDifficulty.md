@@ -1,3 +1,6 @@
+
+# 🔷 <moto>MotoDifficulty</moto>
+
 ::: details 🛠 <dev>DesignBox</dev>
 
 ## DevNotes
@@ -42,5 +45,3 @@ Moto/MotoDifficulty.md, <dev>Moto.MotoDifficulty.MotoComplexity</dev>, ![2397.jp
 Moto/MotoDifficulty.md, <dev>Moto.MotoDifficulty.Overview</dev>, ![2861.jpg](/PaperPhoto/2861.jpg)
 Moto/MotoDifficulty.md, <dev>Moto.MotoDifficulty.Overview</dev>, ![3319.jpg](/PaperPhoto/3319.jpg)
 :::
-
-# 🔷 <moto>MotoDifficulty</moto>

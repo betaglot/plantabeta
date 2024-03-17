@@ -1,3 +1,6 @@
+
+# 💜 <neuro>Competition</neuro>
+
 ::: details 🛠 <dev>DesignBox</dev>
 
 ## DevNotes
@@ -11,5 +14,3 @@
 ```
 
 :::
-
-# 💜 <neuro>Competition</neuro>

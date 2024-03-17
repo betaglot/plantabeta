@@ -1,24 +1,3 @@
-::: details 🛠 <dev>DesignBox</dev>
-
-## DevNotes
-
--
-
-## DevState
-
-```py
-`TagsToHeaders: False`
-```
-
-> the ability to cope with and recover from setbacks
-
-You don't need to do it alone
-
-- Asking for help
-- Adaptation
-- Mitigation
-
-:::
 
 # 💜 <neuro>Resilience</neuro>
 
@@ -95,4 +74,26 @@ Links to other related NeuroElements.
 - One
 - Two
 - Three
+:::
+
+::: details 🛠 <dev>DesignBox</dev>
+
+## DevNotes
+
+-
+
+## DevState
+
+```py
+`TagsToHeaders: False`
+```
+
+> the ability to cope with and recover from setbacks
+
+You don't need to do it alone
+
+- Asking for help
+- Adaptation
+- Mitigation
+
 :::

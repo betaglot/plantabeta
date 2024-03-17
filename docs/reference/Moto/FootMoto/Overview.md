@@ -1,3 +1,16 @@
+
+# 🟠 <moto>FootMoto</moto>
+
+## Foot Anatomy
+
+- Toe
+- Arch
+- Heel
+
+## Foot Properties
+
+- FootLength
+
 ::: details 🛠 <dev>DesignBox</dev>
 
 ## DevNotes
@@ -23,15 +36,3 @@ Moto/FootMoto/Overview.md, <dev>Moto.FootMoto.FootSmear</dev>, ![1796.jpg](/Pape
 Moto/FootMoto/Overview.md, <dev>Moto.FootMoto.Overview</dev>, ![2481.jpg](/PaperPhoto/2481.jpg)
 Moto/FootMoto/Overview.md, <dev>Moto.FootMoto.Overview</dev>, ![2936.jpg](/PaperPhoto/2936.jpg)
 :::
-
-# 🟠 <moto>FootMoto</moto>
-
-## Foot Anatomy
-
-- Toe
-- Arch
-- Heel
-
-## Foot Properties
-
-- FootLength

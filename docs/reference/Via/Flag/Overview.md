@@ -1,3 +1,38 @@
+
+# 🔻 <via>Flag</via>
+
+Tool=Flagger
+Moto=Flagging
+
+FlagRip
+
+## FlagPurpose
+
+- Naturals
+- Already planted
+- Unplantable Area
+
+## FlagLocation
+
+[FlagLocation]
+
+## FlaggingFrequency
+
+- FlagCount
+
+## FlagProperties
+
+- FlagColor
+- FlagLength
+- FlagMaterial
+- FlagLocation
+
+## FlagError
+
+Flag is considered a WastedFlag when it can't be useful for any future [Covering].
+
+- Hidden in a [SlashPile]
+
 ::: details 🛠 <dev>DesignBox</dev>
 
 ## DevNotes
@@ -62,37 +97,3 @@ Via/Flag/Overview.md, <dev>Via.Flag.FlagLine.FlagLineIn</dev>, ![3154.jpg](/Pape
 Via/Flag/Overview.md, <dev>Via.Flag.FlagLine.FlagLineIn.StartPoint</dev>, ![3154.jpg](/PaperPhoto/3154.jpg)
 Via/Flag/Overview.md, <dev>Via.Flag.LineInFlag</dev>, ![3165.jpg](/PaperPhoto/3165.jpg)
 :::
-
-# 🔻 <via>Flag</via>
-
-Tool=Flagger
-Moto=Flagging
-
-FlagRip
-
-## FlagPurpose
-
-- Naturals
-- Already planted
-- Unplantable Area
-
-## FlagLocation
-
-[FlagLocation]
-
-## FlaggingFrequency
-
-- FlagCount
-
-## FlagProperties
-
-- FlagColor
-- FlagLength
-- FlagMaterial
-- FlagLocation
-
-## FlagError
-
-Flag is considered a WastedFlag when it can't be useful for any future [Covering].
-
-- Hidden in a [SlashPile]

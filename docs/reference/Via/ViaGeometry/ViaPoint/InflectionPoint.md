@@ -1,3 +1,6 @@
+
+# 🔻 <via>Inflection Point</via>
+
 ::: details 🛠 <dev>DesignBox</dev>
 
 ## DevNotes
@@ -11,5 +14,3 @@
 ```
 
 :::
-
-# 🔻 <via>Inflection Point</via>

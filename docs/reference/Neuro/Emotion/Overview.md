@@ -1,3 +1,6 @@
+
+# 💜 <neuro>Emotion</neuro>
+
 ::: details 🛠 <dev>DesignBox</dev>
 
 ## DevNotes
@@ -21,5 +24,3 @@ Neuro/Emotion/Overview.md, <dev>Neuro.Emotion</dev>, ![2858.jpg](/PaperPhoto/285
 Neuro/Emotion/Overview.md, <dev>Neuro.Emotion</dev>, ![2881.jpg](/PaperPhoto/2881.jpg)
 Neuro/Emotion/Overview.md, <dev>Neuro.Emotion</dev>, ![2882.jpg](/PaperPhoto/2882.jpg)
 :::
-
-# 💜 <neuro>Emotion</neuro>

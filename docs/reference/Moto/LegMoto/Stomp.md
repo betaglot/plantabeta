@@ -1,21 +1,3 @@
-::: details 🛠 <dev>DesignBox</dev>
-
-## DevNotes
-
--
-
-## DevState
-
-```py
-`TagsToHeaders: False`
-```
-
-<h2>PageTags</h2>
-
-- "Moto.LegMoto.Stomp"
-
-Moto/LegMoto/Stomp.md, <dev>Moto.LegMoto.Stomp</dev>, ![2450.jpg](/PaperPhoto/2450.jpg)
-:::
 
 # 🟠 <moto>Stomp</moto>
 
@@ -110,4 +92,23 @@ Links to other related motos. Related because they are the same MotoType or beca
 - One
 - Two
 - Three
+:::
+
+::: details 🛠 <dev>DesignBox</dev>
+
+## DevNotes
+
+-
+
+## DevState
+
+```py
+`TagsToHeaders: False`
+```
+
+<h2>PageTags</h2>
+
+- "Moto.LegMoto.Stomp"
+
+Moto/LegMoto/Stomp.md, <dev>Moto.LegMoto.Stomp</dev>, ![2450.jpg](/PaperPhoto/2450.jpg)
 :::

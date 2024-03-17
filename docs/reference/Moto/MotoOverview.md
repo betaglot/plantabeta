@@ -1,3 +1,60 @@
+
+# 🟠 <moto>Moto</moto>
+
+![Moto Icon](/Moto/Moto_Icon.png)
+
+## <moto>Moto Symbol</moto> 🟠
+
+> Orange Circle
+
+## What is a Moto?
+
+- Motoment
+
+## Moto Types
+
+### Static Moto
+
+No Acceleration
+
+Stand
+
+### Dynamic Moto
+
+Acceleration
+
+- ### Swing
+
+- ### Flag
+
+- ### Grip
+
+- ### Rotate
+
+- ### Pivot
+
+- ### Revolve
+
+- ### Slide
+
+- ### Smear
+
+- ### Hook
+
+## Moto Phrase
+
+- Represented in Python as a List object.
+
+## Moto Neuroscience
+
+### How does knowledge of neuroscientific mechanisms of moto improve planter effectiveness?
+
+- Learning
+
+### Types
+
+- Central Pattern Generators
+
 ::: details 🛠 <dev>DesignBox</dev>
 
 ## DevNotes
@@ -542,59 +599,3 @@ Moto/MotoOverview.md, <dev>Moto.MotoShape</dev>, ![90043.jpg](/PaperPhoto/90043.
 Moto/MotoOverview.md, <dev>Moto.MotoProperties.MotoPermutation</dev>, ![90044.jpg](/PaperPhoto/90044.jpg)
 Moto/MotoOverview.md, <dev>Moto.MotoSpace.Overview</dev>, ![90044.jpg](/PaperPhoto/90044.jpg)
 :::
-
-# 🟠 <moto>Moto</moto>
-
-![Moto Icon](/Moto/Moto_Icon.png)
-
-## <moto>Moto Symbol</moto> 🟠
-
-> Orange Circle
-
-## What is a Moto?
-
-- Motoment
-
-## Moto Types
-
-### Static Moto
-
-No Acceleration
-
-Stand
-
-### Dynamic Moto
-
-Acceleration
-
-- ### Swing
-
-- ### Flag
-
-- ### Grip
-
-- ### Rotate
-
-- ### Pivot
-
-- ### Revolve
-
-- ### Slide
-
-- ### Smear
-
-- ### Hook
-
-## Moto Phrase
-
-- Represented in Python as a List object.
-
-## Moto Neuroscience
-
-### How does knowledge of neuroscientific mechanisms of moto improve planter effectiveness?
-
-- Learning
-
-### Types
-
-- Central Pattern Generators

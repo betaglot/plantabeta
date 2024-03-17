@@ -1,22 +1,3 @@
-::: details 🛠 <dev>DesignBox</dev>
-
-## DevNotes
-
--
-
-## DevState
-
-```py
-`TagsToHeaders: False`
-```
-
-<h2>PageTags</h2>
-
-- "Moto.ToolMoto.SpadeMoto.SpadeCircumduction"
-- "Moto.ToolMoto.SpadeMoto.SpadeSwing"
-
-Moto/ToolMoto/Spade/SpadeSwing.md, <dev>Moto.ToolMoto.SpadeMoto.SpadeSwing</dev>, ![1259.jpg](/PaperPhoto/1259.jpg)
-:::
 
 # 🟠 <moto>SpadeSwing</moto>
 
@@ -111,4 +92,24 @@ Links to other related motos. Related because they are the same MotoType or beca
 - One
 - Two
 - Three
+:::
+
+::: details 🛠 <dev>DesignBox</dev>
+
+## DevNotes
+
+-
+
+## DevState
+
+```py
+`TagsToHeaders: False`
+```
+
+<h2>PageTags</h2>
+
+- "Moto.ToolMoto.SpadeMoto.SpadeCircumduction"
+- "Moto.ToolMoto.SpadeMoto.SpadeSwing"
+
+Moto/ToolMoto/Spade/SpadeSwing.md, <dev>Moto.ToolMoto.SpadeMoto.SpadeSwing</dev>, ![1259.jpg](/PaperPhoto/1259.jpg)
 :::

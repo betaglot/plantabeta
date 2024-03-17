@@ -1,3 +1,13 @@
+# 🛠 🟠 <moto>Moto Graphics</moto>
+
+## 🟠 <moto>MotoCard</moto>
+
+Mirror images for ambidextrous planter
+
+## 🟠 <moto>MotoTimeline</moto>
+
+## 🟠 <moto>MotoTree</moto>
+
 ::: details 🛠 <dev>DesignBox</dev>
 
 ## DevNotes
@@ -181,13 +191,3 @@ dev/Graphics/MotoGraphic.md, <dev>Moto.MotoLine.MotoDisplacementLine</dev>, ![90
 dev/Graphics/MotoGraphic.md, <dev>Moto.MotoLine.MotoDistanceLine</dev>, ![90031.jpg](/PaperPhoto/90031.jpg)
 
 :::
-
-# 🛠 🟠 <moto>Moto Graphics</moto>
-
-## 🟠 <moto>MotoCard</moto>
-
-Mirror images for ambidextrous planter
-
-## 🟠 <moto>MotoTimeline</moto>
-
-## 🟠 <moto>MotoTree</moto>

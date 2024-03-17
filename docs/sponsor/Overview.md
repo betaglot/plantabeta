@@ -1,16 +1,3 @@
-::: details 🛠 <dev>DesignBox</dev>
-
-## DevNotes
-
--
-
-## DevState
-
-```py
-`TagsToHeaders: False`
-```
-
-:::
 
 # Become a Put(Plant) Sponsor
 
@@ -27,4 +14,18 @@ The sponsorship also builds brand recognition and improves the quality of applic
 If you are an individual user and have enjoyed the productivity of using <eco>Put(Plant)</eco>, consider donating as a sign of appreciation - like buying us coffee once in a while.
 ::: tip Send an email to:
 <putplant@gmail.com>
+:::
+
+::: details 🛠 <dev>DesignBox</dev>
+
+## DevNotes
+
+-
+
+## DevState
+
+```py
+`TagsToHeaders: False`
+```
+
 :::

@@ -1,3 +1,8 @@
+
+# 🔻 <via>Vertex</via>
+
+The point where ViaCurves converge into or diverge from.
+
 ::: details 🛠 <dev>DesignBox</dev>
 
 ## DevNotes
@@ -11,7 +16,3 @@
 ```
 
 :::
-
-# 🔻 <via>Vertex</via>
-
-The point where ViaCurves converge into or diverge from.

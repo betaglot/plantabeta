@@ -1,3 +1,5 @@
+# 🟩 <eco>RawLand</eco>
+
 ::: details 🛠 <dev>DesignBox</dev>
 
 ## DevNotes
@@ -27,5 +29,3 @@ Raw land overview raw land is land which is been cut but not but this not all th
 
 - You can't move through dense forest without climbing.
 :::
-
-# 🟩 <eco>RawLand</eco>

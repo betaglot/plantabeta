@@ -1,21 +1,3 @@
-::: details 🛠 <dev>DesignBox</dev>
-
-## DevNotes
-
--
-
-## DevState
-
-```py
-`TagsToHeaders: False`
-```
-
----
-
-dev/Roadmap.md, <dev>Dev.Roadmap</dev>, ![1499.jpg](/PaperPhoto/1499.jpg)
-dev/Roadmap.md, <dev>Dev.Roadmap</dev>, ![3048.jpg](/PaperPhoto/3048.jpg)
-
-:::
 
 # 🛠 Roadmap
 
@@ -123,3 +105,22 @@ Train planters so the difficulty is mitigated by people learning a skill instead
 ### Africa
 
 ### Shrub Planting
+
+::: details 🛠 <dev>DesignBox</dev>
+
+## DevNotes
+
+-
+
+## DevState
+
+```py
+`TagsToHeaders: False`
+```
+
+---
+
+dev/Roadmap.md, <dev>Dev.Roadmap</dev>, ![1499.jpg](/PaperPhoto/1499.jpg)
+dev/Roadmap.md, <dev>Dev.Roadmap</dev>, ![3048.jpg](/PaperPhoto/3048.jpg)
+
+:::

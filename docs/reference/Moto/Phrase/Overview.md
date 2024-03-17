@@ -1,3 +1,37 @@
+
+# 🟠 <moto>Phrase</moto>
+
+> sequence of Moto Elements
+
+<div style="display: flex">
+    <div>
+        <img style="margin: 5px" height="200" width="200" alt="Icon" src="/Moto/Moto_Icon.png"/>
+        <p>Description of Moto Photo</p>
+    </div>
+    <div>
+        <img style="margin: 5px" height="200" width="200" alt="Icon" src="/Moto/Moto_Icon.png"/>
+        <p>Description of Moto Photo</p>
+    </div>
+    <div>
+        <img style="margin: 5px" height="200" width="200" alt="Icon" src="/Moto/Moto_Icon.png"/>
+        <p>Description of Moto Photo</p>
+    </div>
+</div>
+
+## Get()
+
+## Put()
+
+### def Put()
+
+## Match
+
+### Match()
+
+## Bump
+
+## Swap
+
 ::: details 🛠 <dev>DesignBox</dev>
 
 ## DevNotes
@@ -174,36 +208,3 @@ Moto/MotoPhrase/Overview.md, <dev>Moto.MotoPhrase</dev>, ![3097.jpg](/PaperPhoto
 Moto/MotoPhrase/Overview.md, <dev>Moto.MotoPhrase</dev>, ![3157.jpg](/PaperPhoto/3157.jpg)
 Moto/MotoPhrase/Overview.md, <dev>Moto.MotoPhrase</dev>, ![3227.jpg](/PaperPhoto/3227.jpg)
 :::
-
-# 🟠 <moto>Phrase</moto>
-
-> sequence of Moto Elements
-
-<div style="display: flex">
-    <div>
-        <img style="margin: 5px" height="200" width="200" alt="Icon" src="/Moto/Moto_Icon.png"/>
-        <p>Description of Moto Photo</p>
-    </div>
-    <div>
-        <img style="margin: 5px" height="200" width="200" alt="Icon" src="/Moto/Moto_Icon.png"/>
-        <p>Description of Moto Photo</p>
-    </div>
-    <div>
-        <img style="margin: 5px" height="200" width="200" alt="Icon" src="/Moto/Moto_Icon.png"/>
-        <p>Description of Moto Photo</p>
-    </div>
-</div>
-
-## Get()
-
-## Put()
-
-### def Put()
-
-## Match
-
-### Match()
-
-## Bump
-
-## Swap

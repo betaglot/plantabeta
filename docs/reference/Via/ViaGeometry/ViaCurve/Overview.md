@@ -1,3 +1,53 @@
+
+# 🔻 <via>ViaCurve</via>
+
+## What is a ViaCurve?
+
+- A line
+
+> The extremities of ViaCurve are ViaPoints.
+
+- CurveStartPoint
+- Curve FinishPoint
+::: tip Difference Between a *Curve* and a *Line*
+
+In mathematics a *line* must be straight, while a *curve* can be straight or not straight.
+:::
+
+## Direction
+
+Directions
+
+## Preposition
+
+```py
+[
+    'Above',
+    'Across',
+    'Along',
+    'At',
+    'Behind',
+    'Below',
+    'Beside',
+    'Between',
+    'From',
+    'From',
+    'In',
+    'Into',
+    'Near',
+    'On',
+    'Onto',
+    'Over',
+    'Through',
+    'To',
+    'To',
+    'Until',
+    'Up',
+    'While',
+]
+
+```
+
 ::: details 🛠 <dev>DesignBox</dev>
 
 ## DevNotes
@@ -168,52 +218,3 @@ Via/ViaCurve/Overview.md, <dev>Via.ViaGeometry.ViaCurve.ViaLinearLine</dev>, ![9
 Via/ViaCurve/Overview.md, <dev>Via.ViaGeometry.ViaCurve.ParallelLine</dev>, ![90044.jpg](/PaperPhoto/90044.jpg)
 Via/ViaCurve/Overview.md, <dev>Via.ViaGeometry.ViaCurve.ViaLinearLine</dev>, ![90044.jpg](/PaperPhoto/90044.jpg)
 :::
-
-# 🔻 <via>ViaCurve</via>
-
-## What is a ViaCurve?
-
-- A line
-
-> The extremities of ViaCurve are ViaPoints.
-
-- CurveStartPoint
-- Curve FinishPoint
-::: tip Difference Between a *Curve* and a *Line*
-
-In mathematics a *line* must be straight, while a *curve* can be straight or not straight.
-:::
-
-## Direction
-
-Directions
-
-## Preposition
-
-```py
-[
-    'Above',
-    'Across',
-    'Along',
-    'At',
-    'Behind',
-    'Below',
-    'Beside',
-    'Between',
-    'From',
-    'From',
-    'In',
-    'Into',
-    'Near',
-    'On',
-    'Onto',
-    'Over',
-    'Through',
-    'To',
-    'To',
-    'Until',
-    'Up',
-    'While',
-]
-
-```

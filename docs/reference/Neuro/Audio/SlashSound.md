@@ -1,16 +1,3 @@
-::: details 🛠 <dev>DesignBox</dev>
-
-## DevNotes
-
--
-
-## DevState
-
-```py
-`TagsToHeaders: False`
-```
-
-:::
 
 # 💜 <neuro>Slash Sound </neuro>
 
@@ -35,3 +22,17 @@ Hollow
 - "It sounds like a BrittleBranch."
 - "It sounds like it would break easily."
 - "It sounds rotten."
+
+::: details 🛠 <dev>DesignBox</dev>
+
+## DevNotes
+
+-
+
+## DevState
+
+```py
+`TagsToHeaders: False`
+```
+
+:::

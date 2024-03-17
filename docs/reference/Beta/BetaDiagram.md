@@ -1,3 +1,6 @@
+
+# 🔷 <beta>BetaDiagram</beta>
+
 ::: details 🛠 <dev>DesignBox</dev>
 
 ## DevNotes
@@ -31,5 +34,3 @@
 - "Beta.BetaDiagram.POV.TopView"
 
 :::
-
-# 🔷 <beta>BetaDiagram</beta>

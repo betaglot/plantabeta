@@ -1,23 +1,3 @@
-::: details 🛠 <dev>DesignBox</dev>
-
-## DevNotes
-
--
-
-## DevState
-
-```py
-`TagsToHeaders: False`
-```
-
-<h2>PageTags</h2>
-
-- "Moto.VegeMoto.BranchWhip"
-
-- BranchWhip
--
-
-:::
 
 # 🟠 <moto>VegeCatch</moto>
 
@@ -115,4 +95,25 @@ Links to other related motos. Related because they are the same MotoType or beca
 - One
 - Two
 - Three
+:::
+
+::: details 🛠 <dev>DesignBox</dev>
+
+## DevNotes
+
+-
+
+## DevState
+
+```py
+`TagsToHeaders: False`
+```
+
+<h2>PageTags</h2>
+
+- "Moto.VegeMoto.BranchWhip"
+
+- BranchWhip
+-
+
 :::
