@@ -55,7 +55,7 @@ Acceleration
 
 - Central Pattern Generators
 
-::: details 🛠 <dev>DesignBox</dev>
+::: details 🛠 <dev>&&&</dev>
 
 ## DevNotes
 

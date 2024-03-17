@@ -3,7 +3,7 @@
 
 Quantify your Beta. Maximum BetaScore is equivalent to maximum efficiency.
 
-::: details 🛠 <dev>DesignBox</dev>
+::: details 🛠 <dev>&&&</dev>
 
 ## DevNotes
 

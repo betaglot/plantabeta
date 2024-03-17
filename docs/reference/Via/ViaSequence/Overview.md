@@ -19,7 +19,7 @@ Via selection
 
 NormalForce vector is a parameter in area suitability computation Selection
 
-::: details 🛠 <dev>DesignBox</dev>
+::: details 🛠 <dev>&&&</dev>
 
 ## DevNotes
 

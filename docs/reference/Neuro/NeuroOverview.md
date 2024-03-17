@@ -30,7 +30,7 @@ Short for Neuroscience
 - 1st Person Experience
 - Suffering
 
-::: details 🛠 <dev>DesignBox</dev>
+::: details 🛠 <dev>&&&</dev>
 
 ## DevNotes
 

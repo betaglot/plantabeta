@@ -17,7 +17,7 @@ When a Planter crosses over the line of another Planter when they converge in th
 
 When a Planter follows the line of the Planter in front of them.
 
-::: details 🛠 <dev>DesignBox</dev>
+::: details 🛠 <dev>&&&</dev>
 
 ## DevNotes
 

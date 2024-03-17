@@ -37,7 +37,7 @@ Use Pokemon as an analogy for system and element. Each character is a variation 
 
 State is Nondual.
 
-::: details 🛠 <dev>DesignBox</dev>
+::: details 🛠 <dev>&&&</dev>
 
 ## DevNotes
 

@@ -1,6 +1,6 @@
 # What to bring as a Motel Planter?
 
-::: details 🛠 <dev>DesignBox</dev>
+::: details 🛠 <dev>&&&</dev>
 
 ## DevNotes
 

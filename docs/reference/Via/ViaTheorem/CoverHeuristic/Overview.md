@@ -9,7 +9,7 @@ Heuristic Function()
 
 ## 🔻<via>Sequence</via>
 
-::: details 🛠 <dev>DesignBox</dev>
+::: details 🛠 <dev>&&&</dev>
 
 ## DevNotes
 

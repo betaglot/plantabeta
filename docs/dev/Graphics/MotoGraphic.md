@@ -8,7 +8,7 @@ Mirror images for ambidextrous planter
 
 ## 🟠 <moto>MotoTree</moto>
 
-::: details 🛠 <dev>DesignBox</dev>
+::: details 🛠 <dev>&&&</dev>
 
 ## DevNotes
 

@@ -16,7 +16,7 @@ If you are an individual user and have enjoyed the productivity of using <eco>Pu
 <putplant@gmail.com>
 :::
 
-::: details 🛠 <dev>DesignBox</dev>
+::: details 🛠 <dev>&&&</dev>
 
 ## DevNotes
 

@@ -86,7 +86,7 @@ PieceCover > AreaCover > ViaCurve > ViaPoint
 
 - Even the most atheletic planter is wasting time during deadwalking. Minimizing deadwalking benefits all planters and supervisors.
 
-::: details 🛠 <dev>DesignBox</dev>
+::: details 🛠 <dev>&&&</dev>
 
 ## DevNotes
 

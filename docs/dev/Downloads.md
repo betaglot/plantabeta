@@ -5,7 +5,7 @@ Free to download resources here
 
 - Elements Infographic
 
-::: details 🛠 <dev>DesignBox</dev>
+::: details 🛠 <dev>&&&</dev>
 
 ## DevNotes
 

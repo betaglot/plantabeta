@@ -71,7 +71,7 @@ This each line are analog pairs. The equal signs = denotes where Climbing and Pl
 
 - <https://www.climbernews.com/what-is-climbing-beta/>
 :::
-::: details 🛠 <dev>DesignBox</dev>
+::: details 🛠 <dev>&&&</dev>
 
 ## What is a Beta Element?
 
@@ -362,7 +362,7 @@ OpenHole = LookAtTarget --> SpadeProbeThrow --> SpadeThrow --> SpadeOpenHole
 
 ### To
 
-::: details 🛠 <dev>DesignBox</dev>
+::: details 🛠 <dev>&&&</dev>
 
 ## DevNotes
 

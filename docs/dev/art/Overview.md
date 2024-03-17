@@ -15,7 +15,7 @@ Art inspired by Planting
 
 ![Alt text](/art/PeelStationFloor.jpg)
 
-::: details 🛠 <dev>DesignBox</dev>
+::: details 🛠 <dev>&&&</dev>
 
 ## DevNotes
 

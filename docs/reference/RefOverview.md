@@ -25,7 +25,7 @@ You can [submit images, audio and videos](/dev/Contribute) to the media library.
 
 Use the media library to gain a deeper understanding of what to expect during your Novice Season.
 
-::: details 🛠 <dev>DesignBox</dev>
+::: details 🛠 <dev>&&&</dev>
 
 ## DevNotes
 

@@ -33,7 +33,7 @@ Closest
 
 ![Voronoi_Basketball](/Via/Voronoi/Voronoi_Basketball.jpeg)
 
-::: details 🛠 <dev>DesignBox</dev>
+::: details 🛠 <dev>&&&</dev>
 
 ## DevNotes
 

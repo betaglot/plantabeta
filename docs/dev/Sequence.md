@@ -162,7 +162,7 @@ All algorithms are Phrases. "Phrase" is more commonplace than "Algorithm". Use "
 
 - ProbePhrase or Probe Algorithm
 
-::: details 🛠 <dev>DesignBox</dev>
+::: details 🛠 <dev>&&&</dev>
 
 ## DevNotes
 

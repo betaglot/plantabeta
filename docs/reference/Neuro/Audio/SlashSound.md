@@ -23,7 +23,7 @@ Hollow
 - "It sounds like it would break easily."
 - "It sounds rotten."
 
-::: details 🛠 <dev>DesignBox</dev>
+::: details 🛠 <dev>&&&</dev>
 
 ## DevNotes
 

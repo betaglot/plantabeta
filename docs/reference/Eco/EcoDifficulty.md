@@ -1,7 +1,7 @@
 
 # 🔷 <eco>EcoDifficulty</eco>
 
-::: details 🛠 <dev>DesignBox</dev>
+::: details 🛠 <dev>&&&</dev>
 
 ## DevNotes
 

@@ -33,7 +33,7 @@ Flag is considered a WastedFlag when it can't be useful for any future [Covering
 
 - Hidden in a [SlashPile]
 
-::: details 🛠 <dev>DesignBox</dev>
+::: details 🛠 <dev>&&&</dev>
 
 ## DevNotes
 

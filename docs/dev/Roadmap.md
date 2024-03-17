@@ -106,7 +106,7 @@ Train planters so the difficulty is mitigated by people learning a skill instead
 
 ### Shrub Planting
 
-::: details 🛠 <dev>DesignBox</dev>
+::: details 🛠 <dev>&&&</dev>
 
 ## DevNotes
 

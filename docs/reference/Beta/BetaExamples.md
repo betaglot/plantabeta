@@ -5,7 +5,7 @@
 
 ![Paper_BetaQuote](/Paper_BetaQuote.jpg)
 
-::: details 🛠 <dev>DesignBox</dev>
+::: details 🛠 <dev>&&&</dev>
 
 ## DevNotes
 

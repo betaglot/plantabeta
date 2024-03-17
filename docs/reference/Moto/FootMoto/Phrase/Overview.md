@@ -1,7 +1,7 @@
 
 # 🔷 <moto>Foot Phrase</moto>
 
-::: details 🛠 <dev>DesignBox</dev>
+::: details 🛠 <dev>&&&</dev>
 
 ## DevNotes
 

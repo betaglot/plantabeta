@@ -76,7 +76,7 @@ Homonyms = {
 6. Search for empty design box to find the next page to dictate (there's about 360 left to go, approx 60 hours or work)
 
 ```md
-::: details 🛠 <dev>DesignBox</dev>
+::: details 🛠 <dev>&&&</dev>
 
 ## DevNotes
 
@@ -138,7 +138,7 @@ for Paper in PaperPhotoList:
 
 ```md
 
-::: details 🛠 <dev>DesignBox</dev>
+::: details 🛠 <dev>&&&</dev>
 
 ## DevNotes
 
@@ -322,7 +322,7 @@ researchModels = {
 }
 ```
 
-::: details 🛠 <dev>DesignBox</dev>
+::: details 🛠 <dev>&&&</dev>
 
 ## DevNotes
 

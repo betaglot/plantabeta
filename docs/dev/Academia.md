@@ -32,7 +32,7 @@ Computational Geometry
 
 #### 6 [Nutrition & Supplementation](https://www.hubermanlab.com/episode/dr-andy-galpin-optimal-nutrition-and-supplementation-for-fitness)
 
-::: details 🛠 <dev>DesignBox</dev>
+::: details 🛠 <dev>&&&</dev>
 
 ## DevNotes
 

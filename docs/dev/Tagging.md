@@ -25,7 +25,7 @@ Use TagSpaces or equivalent
 
 ## Tagging Images
 
-::: details 🛠 <dev>DesignBox</dev>
+::: details 🛠 <dev>&&&</dev>
 
 ## DevNotes
 

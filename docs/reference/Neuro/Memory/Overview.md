@@ -29,7 +29,7 @@ First Person Point of View
 
 ## Short Term Memory
 
-::: details 🛠 <dev>DesignBox</dev>
+::: details 🛠 <dev>&&&</dev>
 
 ## DevNotes
 

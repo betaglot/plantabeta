@@ -1,7 +1,7 @@
 
 # 🔷 <beta>Beta Intensity</beta>
 
-::: details 🛠 <dev>DesignBox</dev>
+::: details 🛠 <dev>&&&</dev>
 
 ## DevNotes
 

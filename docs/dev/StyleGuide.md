@@ -1,4 +1,4 @@
-::: details 🛠 <dev>DesignBox</dev>
+::: details 🛠 <dev>&&&</dev>
 
 ## DevNotes
 
@@ -347,7 +347,7 @@ Boolean
 Delete tags once converted to headers. They are stored in a JSON
 
 ```md
-::: details 🛠 <dev>DesignBox</dev>
+::: details 🛠 <dev>&&&</dev>
 
 ## DevNotes
 
@@ -366,7 +366,7 @@ Delete tags once converted to headers. They are stored in a JSON
 ### 🟠 <dev>DesignBox</dev><moto>.Moto</moto>
 
 ```md
-::: details 🛠 <dev>DesignBox</dev>
+::: details 🛠 <dev>&&&</dev>
 
 ## DevNotes
 
@@ -387,7 +387,7 @@ Delete tags once converted to headers. They are stored in a JSON
 ### 🟩 <dev>DesignBox</dev><eco>.Eco</eco>
 
 ```md
-::: details 🛠 <dev>DesignBox</dev>
+::: details 🛠 <dev>&&&</dev>
 
 ## DevNotes
 
@@ -408,7 +408,7 @@ Delete tags once converted to headers. They are stored in a JSON
 ### 🔻 <dev>DesignBox</dev><via>.Via</via>
 
 ```md
-::: details 🛠 <dev>DesignBox</dev>
+::: details 🛠 <dev>&&&</dev>
 
 ## DevNotes
 
@@ -429,7 +429,7 @@ Delete tags once converted to headers. They are stored in a JSON
 ### 💜 <dev>DesignBox</dev><neuro>.Neuro</neuro>
 
 ```md
-::: details 🛠 <dev>DesignBox</dev>
+::: details 🛠 <dev>&&&</dev>
 
 ## DevNotes
 
@@ -450,7 +450,7 @@ Delete tags once converted to headers. They are stored in a JSON
 ### 🔷 <dev>DesignBox</dev><beta>.Beta</beta>
 
 ```md
-::: details 🛠 <dev>DesignBox</dev>
+::: details 🛠 <dev>&&&</dev>
 
 ## DevNotes
 
@@ -471,7 +471,7 @@ Delete tags once converted to headers. They are stored in a JSON
 ### 🛠 <dev>DesignBox.Dev</dev>
 
 ```md
-::: details 🛠 <dev>DesignBox</dev>
+::: details 🛠 <dev>&&&</dev>
 
 ## DevNotes
 

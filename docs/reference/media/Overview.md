@@ -19,7 +19,7 @@ The reference Section will link to tagged images, so that Planters can look for 
 
 ![Gallery](/Gallery_00.png)
 
-::: details 🛠 <dev>DesignBox</dev>
+::: details 🛠 <dev>&&&</dev>
 
 ## DevNotes
 
