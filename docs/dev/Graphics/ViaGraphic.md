@@ -2,6 +2,8 @@
 
 ## Montreal Metro Map
 
+![MontrealMetroMap](/Via/MontrealMetroMap.png)
+
 | Metro | Via |
 | ------ | ------ |
 | Station | ViaPoint |
