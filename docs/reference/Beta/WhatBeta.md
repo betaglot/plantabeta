@@ -1,4 +1,3 @@
-
 # 🔷 <beta>What is Beta?</beta>
 
 > Beta is the **information** that you use to perform planting tasks.
@@ -295,7 +294,7 @@ Spade**Grip**, Tree**Grip**, Box**Grip**, Branch**Grip**, Bag**Grip**, Log**Grip
 
 Each of the Beta Typo (Eco, Moto, Via, Neuro ) has its own elements, although most elements are a combination of all four subsystems. For example HandClose depends on the SoilType (Eco), Touch and Pressure sensations (Neuro), and the obstacles which narrow the range of approach trajectories() possible to perform the HandClose (Via).
 
-Elements are added together to create new, more complex, elements. For example SpadeScreef = {HandleGrip, ShaftGrip, Soil, SlopeAngle, Slash, Attention}
+Elements are added together to create new, more complex, elements. For example `SpadeScreef = {HandleGrip, ShaftGrip, Soil, SlopeAngle, Slash, Attention}`
 
 ### Element Properties
 
