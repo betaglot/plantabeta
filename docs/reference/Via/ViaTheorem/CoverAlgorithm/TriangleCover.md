@@ -73,7 +73,7 @@ Links to other related ViaElements.
 
 ## DevNotes
 
--
+- Triad Isomorphism Classes
 
 ## DevState
 

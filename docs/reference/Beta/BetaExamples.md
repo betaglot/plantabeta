@@ -5,7 +5,7 @@
 
 ![Paper_BetaQuote](/Paper_BetaQuote.jpg)
 
-🔷<beta>Step.<via>Over</via>( 🟩<eco>Log</eco>)</beta> is not a move, it is Beta since it is composed of 3 modules:
+## 🔷<beta>Step.<via>Over</via>( 🟩<eco>Log</eco>)</beta> is not a move, it is Beta since it is composed of 3 modules:
 
 🟠<moto>Step()</moto>
 
@@ -13,7 +13,30 @@
 
 🟩<eco>Log</eco>
 
+## 🔷<beta>"Close a piece"</beta>
+
+🔻<via>Close()</via>
+
+🟩<eco>Piece</eco>
+
+## 🔷<beta>"Close a Hole"</beta>
+
+🔻<via>Close()</via>
+
+🟩<eco>Hole</eco>
+
 ::: details 🛠 <dev>&&&</dev>
+
+## 🟩<eco>Piece</eco>.<via>Cover(Boustro)</via>
+
+## 🔷<beta>"<via>Line in through the</via> <eco>narrow channel </eco><neuro>then</neuro> <via>go left through</via> <eco>another channel</eco> <via>to </via>a <eco>rectangle of PerfectTrenches</eco>"</beta>
+
+1. 🔻<via>LineIn()</via>
+2. 🟩<eco>Channel</eco>
+3. 💜<neuro>then</neuro>
+4. 🔻<via>Go(Left)</via>
+
+## 🔷<beta>Get to the back of the piece then start backfilling</beta>
 
 ## DevNotes
 

@@ -539,6 +539,10 @@ MotoState
 ## Timeline
 
 - Use Code snippets to write abbreviated names to insert Tags or ElementName
+- Rythm
+- SequenceDiagram
+- BetaSequence
+- Staves
 
 ---
 

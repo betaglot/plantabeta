@@ -98,7 +98,11 @@ Links to other related motos. Related because they are the same MotoType or beca
 
 ## DevNotes
 
--
+- Holes without Trees are never closed by Planters, they may close by Eco though.
+- Closed implies that there is a tree put in the hole
+
+- Axiom
+    - Close() is Postcedent to Put()
 
 ## DevState
 

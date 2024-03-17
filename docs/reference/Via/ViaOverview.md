@@ -90,6 +90,10 @@ PieceCover > AreaCover > ViaCurve > ViaPoint
 
 ## DevNotes
 
+- Complete a Via
+    - Solve a ViaProblem
+- MissedLand is a CoverError
+- The most inefficient Via exists at the same time as the most efficient Via. You can choose the wrong Via but still be using a valid Via. Possible but not practical.
 - PertainentNegative
     - "You can't put your foot there"
 - The units of Via are BagUps

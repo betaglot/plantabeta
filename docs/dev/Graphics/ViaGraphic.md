@@ -20,6 +20,26 @@ AI to overlay Screenshot with Voronoi Diagram
 
 ## Voronoi Diagram
 
+Voronoi Daigrams are used to quantify density.
+
+### VoronoiCell
+
+#### Angles
+
+AcuteAngle
+
+RightAngle
+
+ObliqueAngle
+
+#### Edges
+
+What is the optimal EdgeCount when planting 6s?
+
+Number of Edges of a Voronoi Cell?
+
+`EdgeCount = NeighborCount`
+
 [D3 closest neighbor and Voronoi edges](https://d3js.org/d3-delaunay/voronoi#voronoi_neighbors)
 
 ### <moto>MotoVoronoi</moto>
@@ -34,6 +54,12 @@ AI to overlay Screenshot with Voronoi Diagram
 Coverage Control and Control Barrier Functions
 ](https://arxiv.org/pdf/2111.10804.pdf)
 
+#### Checking
+
+How are the edges useful for spacing or knowing where to walk when is it advantageous to optimize your position to be a close to middle between trees?
+
+Aim for the convergence points
+
 ### <eco>EcoVoronoi</eco>
 
 Closest
@@ -47,7 +73,11 @@ Closest
 
 ## DevNotes
 
--
+- ViaStartPoint is a Circle
+    - Filled circle is Planted
+    - Circle Border is NotPlanted
+
+- ViaFinishPoint is a Triangle
 
 ## DevState
 

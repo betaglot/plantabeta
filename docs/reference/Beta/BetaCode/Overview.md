@@ -52,6 +52,45 @@ Sentence
 
 Sequence
 
+## Loop
+
+```py
+
+for Tree in bag:
+    if ValidMicrosite:
+        Put(Tree)
+        Get(Tree)
+    else:
+        Test()
+# test another Microsite
+
+```
+
+## Classes
+
+```py
+
+class Trench(PrepLand):
+ 
+
+class SpadeSlam(Moto):
+    def __init(self, MotoLocation)
+```
+
+### Instance Variable
+
+> Variable created during object instantiation
+
+A more accurate name for "variable" is "assignable" since many variables don't vary, they remain constant after being assigned a value
+
+Instantiate and EcoObject with an empty string for Via
+
+```py
+
+
+
+```
+
 ## Functions
 
 ### Put(Tree)
