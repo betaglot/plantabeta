@@ -393,7 +393,13 @@ You GetTree while you're MicrositeFind()
 
 ## Information Theory
 
+ClaudeShannon
+
 Only send what you can't predict
+
+You don't need to communicate JugGrip you only need to communicate that you must use the JugHold.
+
+You don't need to communicate ViaBody if you know ViaStart and ViaFinish.
 
 ## Tensor
 
@@ -406,6 +412,54 @@ When is BetaCode Running
 ## Compilation
 
 Just in Time Compilation
+
+## Microsoft
+
+Fit Put(Plant) into Microsoft products by renaming it to Pylant.
+
+### VScode
+
+Extension for BetaDiagram Previewer
+
+Tagging
+
+### Typescript
+
+Syntax Highlighting
+
+Type Hints
+
+IntelliSense
+
+### Github
+
+Unavoidable
+
+#### Introduction to Open Source for Nonprofits and Social Sector Organizations
+
+<https://socialimpact.github.com/developers/intro-to-open-source/>
+
+#### Github Fund
+
+<https://github.blog/2024-01-25-github-fund-2024-and-beyond-looking-to-the-future/>
+
+#### Sponsors
+
+<https://github.com/sponsors>
+
+### Npm
+
+### Windows
+
+Apple doesn't allow PWA
+
+### Excel
+
+Most Planting companies probably already use Excel all the time. Many Planters keep their numbers in Excel.
+
+## Packaging
+
+How to create a package in Python?
 
 ::: details 🛠 <dev>&&&</dev>
 

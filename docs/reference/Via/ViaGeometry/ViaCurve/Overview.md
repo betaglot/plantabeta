@@ -14,8 +14,6 @@
 In mathematics a *line* must be straight, while a *curve* can be straight or not straight.
 :::
 
-
-
 ::: details 🛠 <dev>&&&</dev>
 
 ## DevNotes

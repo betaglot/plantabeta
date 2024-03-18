@@ -138,6 +138,9 @@ BetaCode can be used in Planting and Climbing, on Put(Plant).com and Klimbeta.co
 
 ## DevNotes
 
+- You don't need to know Python to use Pylant in the same way that you don't need to know AssemblyCode to use Python.
+- Computational Thinking
+- Beta is written in Python, so I'm really translating Python from climbing to Planting.
 - Beta will be extracted from Climbing and Planting so it can be applied to other activities.
 - What are the shared HandPut() types of Put(Tree) and Put(Flag)?
 
