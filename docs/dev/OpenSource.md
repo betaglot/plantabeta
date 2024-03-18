@@ -1,61 +1,3 @@
-::: details 🛠 <dev>&&&</dev>
-
-## DevNotes
-
-- The Beta is the OpenSource
-
-- Mostly about the documentation, since planters will be implementing putplant.py physically instead of electronically.
-
-- How much do I explain and how much do I just leave to the open source organizations' websites, which are way more developed? What do people need to know about Open Source to see its value to humanity  
-
-## DevState
-
-```py
-`TagsToHeaders: False`
-```
-
-- A moral argument for planter optimization
-    - Help these poor kids
-    - Rich old mother grandmother
-
-<h2>PageTags</h2>
-
-- "Dev.Voss"
-- "Sponsor.Kickstarter"
-- "Sponsor.Kickstarter.ProjectVideo"
-- "Sponsor.Kickstarter.Risk"
-- "Sponsor.Overview"
-- "Sponsor.Patreon"
-- "Sponsor.Promotion.Instagram.StoryIdea"
-- "Sponsor.Promotion.InstagramStoryIdea.()OfTheDay"
-- "Sponsor.Promotion.InstagramStoryIdea.()OfTheMonth"
-- "Sponsor.Promotion.InstagramStoryIdea.()OfTheSeason"
-- "Sponsor.Promotion.InstagramStoryIdea.()OfTheWeek"
-- "Sponsor.Promotion.Video.MusicVideo"
-
-dev/OpenSource.md, <dev>Sponsor.Promotion.Instagram.StoryIdea</dev>, ![0430.jpg](/PaperPhoto/0430.jpg)
-dev/OpenSource.md, <dev>Sponsor.Promotion.Instagram.StoryIdea</dev>, ![0649.jpg](/PaperPhoto/0649.jpg)
-dev/OpenSource.md, <dev>Sponsor.Promotion.InstagramStoryIdea.()OfTheDay</dev>, ![0649.jpg](/PaperPhoto/0649.jpg)
-dev/OpenSource.md, <dev>Sponsor.Promotion.InstagramStoryIdea.()OfTheMonth</dev>, ![0649.jpg](/PaperPhoto/0649.jpg)
-dev/OpenSource.md, <dev>Sponsor.Promotion.InstagramStoryIdea.()OfTheSeason</dev>, ![0649.jpg](/PaperPhoto/0649.jpg)
-dev/OpenSource.md, <dev>Sponsor.Promotion.InstagramStoryIdea.()OfTheWeek</dev>, ![0649.jpg](/PaperPhoto/0649.jpg)
-dev/OpenSource.md, <dev>Sponsor.Promotion.Video.MusicVideo</dev>, ![1678.jpg](/PaperPhoto/1678.jpg)
-dev/OpenSource.md, <dev>Sponsor.Kickstarter.Risk</dev>, ![1859.jpg](/PaperPhoto/1859.jpg)
-dev/OpenSource.md, <dev>Sponsor.Kickstarter.Risk</dev>, ![1866.jpg](/PaperPhoto/1866.jpg)
-dev/OpenSource.md, <dev>Sponsor.Kickstarter</dev>, ![1870.jpg](/PaperPhoto/1870.jpg)
-dev/OpenSource.md, <dev>Dev.Voss</dev>, ![3039.jpg](/PaperPhoto/3039.jpg)
-dev/OpenSource.md, <dev>Sponsor.Kickstarter.Risk</dev>, ![3039.jpg](/PaperPhoto/3039.jpg)
-dev/OpenSource.md, <dev>Sponsor.Kickstarter</dev>, ![3042.jpg](/PaperPhoto/3042.jpg)
-dev/OpenSource.md, <dev>Sponsor.Patreon</dev>, ![3042.jpg](/PaperPhoto/3042.jpg)
-dev/OpenSource.md, <dev>Dev.Voss</dev>, ![3047.jpg](/PaperPhoto/3047.jpg)
-dev/OpenSource.md, <dev>Sponsor.Overview</dev>, ![3047.jpg](/PaperPhoto/3047.jpg)
-dev/OpenSource.md, <dev>Dev.Voss</dev>, ![3152.jpg](/PaperPhoto/3152.jpg)
-dev/OpenSource.md, <dev>Sponsor.Kickstarter</dev>, ![3152.jpg](/PaperPhoto/3152.jpg)
-dev/OpenSource.md, <dev>Sponsor.Overview</dev>, ![3152.jpg](/PaperPhoto/3152.jpg)
-dev/OpenSource.md, <dev>Sponsor.Kickstarter.ProjectVideo</dev>, ![90060.png](/PaperPhoto/90060.png)
-dev/OpenSource.md, <dev>Sponsor.Kickstarter.ProjectVideo</dev>, ![90061.png](/PaperPhoto/90061.png)
-
-:::
 
 # 🛠 Open Source Project
 
@@ -145,3 +87,62 @@ Modify Patagonia Gear into Kit, Sleeves, Gauntlet
 - D3.js
 - Markdown
 - SQLite
+
+::: details 🛠 <dev>&&&</dev>
+
+## DevNotes
+
+- The Beta is the OpenSource
+
+- Mostly about the documentation, since planters will be implementing putplant.py physically instead of electronically.
+
+- How much do I explain and how much do I just leave to the open source organizations' websites, which are way more developed? What do people need to know about Open Source to see its value to humanity  
+
+## DevState
+
+```py
+`TagsToHeaders: False`
+```
+
+- A moral argument for planter optimization
+    - Help these poor kids
+    - Rich old mother grandmother
+
+<h2>PageTags</h2>
+
+- "Dev.Voss"
+- "Sponsor.Kickstarter"
+- "Sponsor.Kickstarter.ProjectVideo"
+- "Sponsor.Kickstarter.Risk"
+- "Sponsor.Overview"
+- "Sponsor.Patreon"
+- "Sponsor.Promotion.Instagram.StoryIdea"
+- "Sponsor.Promotion.InstagramStoryIdea.()OfTheDay"
+- "Sponsor.Promotion.InstagramStoryIdea.()OfTheMonth"
+- "Sponsor.Promotion.InstagramStoryIdea.()OfTheSeason"
+- "Sponsor.Promotion.InstagramStoryIdea.()OfTheWeek"
+- "Sponsor.Promotion.Video.MusicVideo"
+
+dev/OpenSource.md, <dev>Sponsor.Promotion.Instagram.StoryIdea</dev>, ![0430.jpg](/PaperPhoto/0430.jpg)
+dev/OpenSource.md, <dev>Sponsor.Promotion.Instagram.StoryIdea</dev>, ![0649.jpg](/PaperPhoto/0649.jpg)
+dev/OpenSource.md, <dev>Sponsor.Promotion.InstagramStoryIdea.()OfTheDay</dev>, ![0649.jpg](/PaperPhoto/0649.jpg)
+dev/OpenSource.md, <dev>Sponsor.Promotion.InstagramStoryIdea.()OfTheMonth</dev>, ![0649.jpg](/PaperPhoto/0649.jpg)
+dev/OpenSource.md, <dev>Sponsor.Promotion.InstagramStoryIdea.()OfTheSeason</dev>, ![0649.jpg](/PaperPhoto/0649.jpg)
+dev/OpenSource.md, <dev>Sponsor.Promotion.InstagramStoryIdea.()OfTheWeek</dev>, ![0649.jpg](/PaperPhoto/0649.jpg)
+dev/OpenSource.md, <dev>Sponsor.Promotion.Video.MusicVideo</dev>, ![1678.jpg](/PaperPhoto/1678.jpg)
+dev/OpenSource.md, <dev>Sponsor.Kickstarter.Risk</dev>, ![1859.jpg](/PaperPhoto/1859.jpg)
+dev/OpenSource.md, <dev>Sponsor.Kickstarter.Risk</dev>, ![1866.jpg](/PaperPhoto/1866.jpg)
+dev/OpenSource.md, <dev>Sponsor.Kickstarter</dev>, ![1870.jpg](/PaperPhoto/1870.jpg)
+dev/OpenSource.md, <dev>Dev.Voss</dev>, ![3039.jpg](/PaperPhoto/3039.jpg)
+dev/OpenSource.md, <dev>Sponsor.Kickstarter.Risk</dev>, ![3039.jpg](/PaperPhoto/3039.jpg)
+dev/OpenSource.md, <dev>Sponsor.Kickstarter</dev>, ![3042.jpg](/PaperPhoto/3042.jpg)
+dev/OpenSource.md, <dev>Sponsor.Patreon</dev>, ![3042.jpg](/PaperPhoto/3042.jpg)
+dev/OpenSource.md, <dev>Dev.Voss</dev>, ![3047.jpg](/PaperPhoto/3047.jpg)
+dev/OpenSource.md, <dev>Sponsor.Overview</dev>, ![3047.jpg](/PaperPhoto/3047.jpg)
+dev/OpenSource.md, <dev>Dev.Voss</dev>, ![3152.jpg](/PaperPhoto/3152.jpg)
+dev/OpenSource.md, <dev>Sponsor.Kickstarter</dev>, ![3152.jpg](/PaperPhoto/3152.jpg)
+dev/OpenSource.md, <dev>Sponsor.Overview</dev>, ![3152.jpg](/PaperPhoto/3152.jpg)
+dev/OpenSource.md, <dev>Sponsor.Kickstarter.ProjectVideo</dev>, ![90060.png](/PaperPhoto/90060.png)
+dev/OpenSource.md, <dev>Sponsor.Kickstarter.ProjectVideo</dev>, ![90061.png](/PaperPhoto/90061.png)
+
+:::

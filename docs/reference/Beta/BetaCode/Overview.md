@@ -126,6 +126,43 @@ ReservedWords = [
 
 ```
 
+## State
+
+State is the value of a variable at a given time or set of conditions.
+
+Variables change their values. They are assigned a new value.
+
+Changing Values
+
+As you move through the land the EcoState is constantly changing. Remember that Eco is from the first person point of view. The Geology and Botany remains static, but Eco is relative to where you are in the land. The land under your feet is constantly changing.
+
+> CurrentState
+
+### EcoState
+
+- TemperatureState
+- TimeState
+- EcoDensityState
+- SoilState
+- TopoState
+    - SlopeAngle
+
+### MotoState
+
+- MotoState
+- FatigueState
+
+### NeuroState
+
+- Mindset
+
+### ViaState
+
+- CurrentTheorem
+- Direction
+- ViaDensityState
+- ViaSurfaceState
+
 ## Control Flow Statement
 
 ### Conditional Statement

@@ -1,6 +1,7 @@
 
 # 🛠 Questions about Planting and Put(Plant)
 
+- What is the best time of year to plant flowers designed for bees.
 - What is the most important piece of information that a Planter needs to know?
 - What is the slowest part of a PlantingPhrase?
 - How to measure the force required to open a hole?

@@ -9,6 +9,8 @@ Heuristic Function()
 
 ## 🔻<via>Sequence</via>
 
+## 🔻<via>ViaHeuristic = (CurrentDensity >= OptimalDensity)</via>
+
 ::: details 🛠 <dev>&&&</dev>
 
 ## DevNotes

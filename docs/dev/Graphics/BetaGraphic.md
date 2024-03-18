@@ -41,6 +41,8 @@ State is Nondual.
 
 ## DevNotes
 
+- ScaleBar
+- Have a BetaGraphic of your piece with recommended ViaCurve ViaPath.
 - Arrow of Attention is Violet
 - AttentionLoop
     - Eco, then Neuro, then Moto, then Via, then back to Eco.

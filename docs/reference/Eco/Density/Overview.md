@@ -1,7 +1,7 @@
 
 # 🟩  <eco>Density</eco>
 
-The number of [crop trees](/Glossary/glossary#crop-tree) within a given area.
+The number of [crop trees](/Glossary/glossary#crop-tree) within a given area, usually a circle of 4 meters.
 
 ## Density Value
 
@@ -23,7 +23,8 @@ The number of [crop trees](/Glossary/glossary#crop-tree) within a given area.
 
 ## DevNotes
 
--
+- LooseDensity
+- TightDensity
 
 ## DevState
 

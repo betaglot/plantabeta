@@ -75,6 +75,7 @@ Closest
 
 ## DevNotes
 
+- ScaleBar
 - ViaStartPoint is a Circle
     - Filled circle is Planted
     - Circle Border is NotPlanted

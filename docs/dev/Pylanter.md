@@ -403,6 +403,8 @@ You don't need to communicate ViaBody if you know ViaStart and ViaFinish.
 
 ## Tensor
 
+Via is a Tensor
+
 Curve
 
 ## Runtime
