@@ -109,6 +109,7 @@ Links to other related ViaElements.
 
 ## DevNotes
 
+- BoustroCover isn't straight parallel lines unless BoustroCover perfectly superimposes onto BoustroTrenchLand
 - BoustroCover.Direction.Absolute
 - BoustroCover.Direction.RelativeTo()
 

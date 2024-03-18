@@ -1,13 +1,5 @@
 # 🔷 <beta>Beta Action</beta>
 
-## Put()
-
-### PutRate
-
-Trees/Time
-
-## Get()
-
 ## GiveBeta
 
 "One bag" can be a measurement of Time or Space

@@ -71,7 +71,10 @@ Links to other related ViaElements.
 
 ## DevNotes
 
--
+- ZigzagDensity
+    - Number of inflection points
+    - AngleSize Oblique to Acute
+    - Smaller AngleSize makes greater Density
 
 ## DevState
 

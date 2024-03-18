@@ -5,6 +5,18 @@
 
 ![Paper_BetaQuote](/Paper_BetaQuote.jpg)
 
+## 🔷<beta>"<via>Fill</via> the <eco>wet areas</eco> with <eco>spruce</eco>, you don't need to <moto>screef</moto> in the <eco>riparian areas</eco>"</beta>
+
+🔻<via>"Fill": Cover</via>
+
+🟩<eco>"wet areas": WetLand</eco>
+
+💜<neuro>"don't need to": NOT</neuro>
+
+🟩<eco>"spruce": Seedling</eco>
+
+🟠<moto>"screef": ScreefMoto</moto>
+
 ## 🔷<beta>"Only <via>flag</via> your <via>line in</via> and <neuro>if</neuro> you <via>leave</via> the <eco>trench</eco>"</beta>
 
 🔷<beta>"Only": </beta>

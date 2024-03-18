@@ -91,7 +91,17 @@ Instantiate and EcoObject with an empty string for Via
 
 ```
 
-## Functions
+## Methods
+
+### Replant()
+
+### Put()
+
+### PutRate
+
+Trees/Time
+
+### Get()
 
 ### Put(Tree)
 
@@ -116,6 +126,35 @@ ReservedWords = [
 
 ```
 
+## Control Flow Statement
+
+### Conditional Statement
+
+#### If
+
+#### Else
+
+```py
+
+def SpadeTest():
+# find an EcoSurface to test    
+    
+    if(Subsurface != Rock):
+        return true
+    else:
+        SpadeTest()
+```
+
+#### Exception
+
+Do this except if this happens
+
+```py
+
+except
+
+```
+
 ## Recursive beta optimization
 
 - Optimization Sequence
@@ -133,6 +172,45 @@ Motos are the objects and functions
 BetaCode can be used in Planting and Climbing, on Put(Plant).com and Klimbeta.com
 
 ## Syntax Highlighting
+
+## HTML
+
+### Vue.js
+
+- Beta as XML tags used in BetaDiagram. Use Vue to create a custom component for each BetaObject
+
+Render a `BetaList[]` as Vue components
+
+#### Input
+
+```py
+
+BetaList = [
+    Cover,
+    Climb,
+    Log,
+    MinimumSpace,
+    ArmPut
+]
+
+for object in BetaList:
+    VueRender(object)
+
+```
+
+#### Output
+
+```vue
+
+<Beta>
+    <Via>Cover</Via>
+    <Moto>Climb</Moto>
+    <Eco>Log</Eco>
+    <Via>MinimumSpace</Via>
+    <Moto>ArmPut</Moto>
+</Beta>
+
+```
 
 ::: details 🛠 <dev>&&&</dev>
 

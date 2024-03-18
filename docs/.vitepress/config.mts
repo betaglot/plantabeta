@@ -180,6 +180,10 @@ function sidebarReference() {
             }
           ]
         },
+        {
+          text: '🔷 <beta>BetaVideo</beta>', link: '/reference/Beta/BetaVideo/Overview', collapsed: true, items: [
+          ]
+        },
       ]
     },
     // #Eco
