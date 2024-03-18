@@ -160,7 +160,7 @@ function sidebarReference() {
     // #Beta
     {
       text: '🔷 <beta>Beta</beta>', link: '/reference/Beta/WhatBeta', collapsed: true, items: [
-        { text: '🔷 <beta>BetaExamplesBetaLingo</beta>', link: '/reference/Beta/BetaExamples' },       
+        { text: '🔷 <beta>BetaExamples</beta>', link: '/reference/Beta/BetaExamples' },       
         { text: '🔷 <beta>BetaLingo</beta>', link: '/reference/Beta/BetaLingo/Overview' },
         { text: '🔷 <beta>BetaAction</beta>', link: '/reference/Beta/BetaAction' },
         { text: '🔷 <beta>BetaDiagram</beta>', link: '/reference/Beta/BetaDiagram' },

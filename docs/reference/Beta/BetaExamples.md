@@ -5,7 +5,39 @@
 
 ![Paper_BetaQuote](/Paper_BetaQuote.jpg)
 
-## 🔷<beta>Step.<via>Over</via>( 🟩<eco>Log</eco>)</beta> is not a move, it is Beta since it is composed of 3 modules:
+## 🔷<beta>"Only <via>flag</via> your <via>line in</via> and <neuro>if</neuro> you <via>leave</via> the <eco>trench</eco>"</beta>
+
+🔷<beta>"Only": </beta>
+
+🟠<moto>"flag": [FlagMoto](/reference/Moto/ToolMoto/FlagMoto/Overview)</moto>
+
+🔻<via>"line in": </via>
+
+💜<neuro>"if": Logic</neuro>
+
+🟩<eco>"trench": [TrenchLand](/reference/Eco/Prep/TrenchLand)</eco>
+
+## 🔷<beta>"I've been <via>backfilling</via> this <eco>piece</eco>"</beta>
+
+🔻<via>"backfilling": BackCover</via>
+
+🟩<eco>"piece": Piece</eco>
+
+## 🔷<beta>"<neuro>When</neuro> we <via>get to</via> that <eco>boulder</eco> we'll <via>turn back</via>"</beta>
+
+🔷<beta>"We": TeamBeta</beta>
+
+💜<neuro>"When": Event</neuro>
+
+🔻<via>"Get to": ViaPoint</via>
+
+🟩<eco>"Boulder": Rock</eco>
+
+🔻<via>"turn back": TurnAroundCurve</via>
+
+## 🔷<beta><moto>Step</moto>.<via>Over</via>(<eco>Log</eco>)</beta>
+
+is not a move, it is Beta since it is composed of 3 modules:
 
 🟠<moto>Step()</moto>
 
@@ -13,13 +45,13 @@
 
 🟩<eco>Log</eco>
 
-## 🔷<beta>"Close a piece"</beta>
+## 🔷<beta>"<via>Close</via> a <eco>piece</eco>"</beta>
 
 🔻<via>Close()</via>
 
 🟩<eco>Piece</eco>
 
-## 🔷<beta>"Close a Hole"</beta>
+## 🔷<beta>"<via>Close</via> a <eco>Hole</eco>"</beta>
 
 🔻<via>Close()</via>
 

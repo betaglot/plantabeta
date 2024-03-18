@@ -1,10 +1,12 @@
 
 # 🔻 <via>Via</via>
 
+> the way
+
 ![Via Icon](/Via/Via_Icon.png)
 
 ## <via>Via Symbol</via> 🔻
->
+
 > Red Triangle
 
 ## What is Via ?
@@ -80,6 +82,27 @@ FillPlant
 
 PieceCover > AreaCover > ViaCurve > ViaPoint
 
+## Direction
+
+Directions
+
+### Preposition
+
+```py
+[
+    'Above', 'Across', 'Along', 'At',
+    'Behind', 'Below', 'Beside', 'Between',
+    'From',
+    'In', 'Into',
+    'Near',
+    'On', 'Onto', 'Over',
+    'Through', 'To',
+    'Until', 'Up',
+    'While',
+]
+
+```
+
 ## $$$
 
 - Via Affects productivity the most because via has deadwalking and cache positioning. Via Starts and Finishes at the cache.
@@ -90,6 +113,9 @@ PieceCover > AreaCover > ViaCurve > ViaPoint
 
 ## DevNotes
 
+- Navigate
+- Surveying
+- Mapping
 - Complete a Via
     - Solve a ViaProblem
 - MissedLand is a CoverError

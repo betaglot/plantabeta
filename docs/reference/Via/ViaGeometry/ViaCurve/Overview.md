@@ -14,39 +14,7 @@
 In mathematics a *line* must be straight, while a *curve* can be straight or not straight.
 :::
 
-## Direction
 
-Directions
-
-## Preposition
-
-```py
-[
-    'Above',
-    'Across',
-    'Along',
-    'At',
-    'Behind',
-    'Below',
-    'Beside',
-    'Between',
-    'From',
-    'From',
-    'In',
-    'Into',
-    'Near',
-    'On',
-    'Onto',
-    'Over',
-    'Through',
-    'To',
-    'To',
-    'Until',
-    'Up',
-    'While',
-]
-
-```
 
 ::: details 🛠 <dev>&&&</dev>
 
