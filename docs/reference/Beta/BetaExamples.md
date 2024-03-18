@@ -25,13 +25,13 @@
 
 ## 🔷<beta>"<neuro>When</neuro> we <via>get to</via> that <eco>boulder</eco> we'll <via>turn back</via>"</beta>
 
-🔷<beta>"We": TeamBeta</beta>
-
 💜<neuro>"When": Event</neuro>
 
-🔻<via>"Get to": ViaPoint</via>
+🔷<beta>"we": TeamBeta</beta>
 
-🟩<eco>"Boulder": Rock</eco>
+🔻<via>"get to": ViaPoint</via>
+
+🟩<eco>"boulder": Rock</eco>
 
 🔻<via>"turn back": TurnAroundCurve</via>
 

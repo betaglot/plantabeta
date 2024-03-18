@@ -294,7 +294,6 @@ function sidebarReference() {
         {
           text: '🟠 <moto>ArmMoto</moto>', link: '/reference/Moto/ArmMoto/Overview', collapsed: true, items: [
             { text: '🟠 <moto>Arm Phrase</moto>', link: '/reference/Moto/ArmMoto/Phrase/Overview' },
-            { text: '🟠 <moto>ArmBlock</moto>', link: '/reference/Moto/ArmMoto/ArmBlock' },
             { text: '🟠 <moto>ArmProp</moto>', link: '/reference/Moto/ArmMoto/ArmProp' },
             { text: '🟠 <moto>ArmSwing</moto>', link: '/reference/Moto/ArmMoto/ArmSwing' },
             { text: '🟠 <moto>ArmWalk</moto>', link: '/reference/Moto/ArmMoto/ArmWalk' },
@@ -326,7 +325,7 @@ function sidebarReference() {
             { text: '🟠 <moto>Clothing Phrase</moto>', link: '/reference/Moto/ClothingMoto/Phrase/Overview' },
             { text: '🟠 <moto>Button</moto>', link: '/reference/Moto/ClothingMoto/Button' },
             { text: '🟠 <moto>ClothingLayer</moto>', link: '/reference/Moto/ClothingMoto/ClothingLayer' },
-            { text: '🟠 <moto>RemotoMud</moto>', link: '/reference/Moto/ClothingMoto/RemotoMud' },
+            { text: '🟠 <moto>RemoveMud</moto>', link: '/reference/Moto/ClothingMoto/RemoveMud' },
             { text: '🟠 <moto>ZipperMoto</moto>', link: '/reference/Moto/ClothingMoto/ZipperMoto' },
 
           ]
@@ -354,11 +353,10 @@ function sidebarReference() {
             { text: '🟠 <moto>BranchSnapGrip</moto>', link: '/reference/Moto/HandMoto/BranchSnapGrip' },
             { text: '🟠 <moto>HandClose</moto>', link: '/reference/Moto/HandMoto/HandClose' },
             { text: '🟠 <moto>HandPoke</moto>', link: '/reference/Moto/HandMoto/HandPoke' },
-            { text: '🟠 <moto>HandPut</moto>', link: '/reference/Moto/HandMoto/HandPut' },
             { text: '🟠 <moto>HandScreef</moto>', link: '/reference/Moto/HandMoto/HandScreef' },
             { text: '🟠 <moto>SpadeHandleGrip</moto>', link: '/reference/Moto/HandMoto/SpadeHandleGrip' },
             { text: '🟠 <moto>SpadeShaftGrip</moto>', link: '/reference/Moto/HandMoto/SpadeShaftGrip' },
-            { text: '🟠 <moto>TreeGrip</moto>', link: '/reference/Moto/HandMoto/Overview' },
+            { text: '🟠 <moto>TreeGrip</moto>', link: '/reference/Moto/HandMoto/TreeGrip' },
             { text: '🟠 <moto>TreeTestGrip</moto>', link: '/reference/Moto/HandMoto/TreeTestGrip' },
           ]
         },

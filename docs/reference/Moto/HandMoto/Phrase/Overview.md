@@ -1,6 +1,8 @@
 
 # 🔷 <moto>Hand Phrase</moto>
 
+## 🔷<beta>HandPut</beta>
+
 ::: details 🛠 <dev>&&&</dev>
 
 ## DevNotes
