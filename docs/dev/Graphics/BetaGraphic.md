@@ -37,6 +37,20 @@ Use Pokemon as an analogy for system and element. Each character is a variation 
 
 State is Nondual.
 
+## ColorCode
+
+Use the module colors along with their icons
+
+🔻<via>Via</via>
+
+🔷<beta>Beta</beta>
+
+🟩<eco>Eco</eco>
+
+💜<neuro>Neuro</neuro>
+
+🟠<moto>Moto</moto>
+
 ::: details 🛠 <dev>&&&</dev>
 
 ## DevNotes

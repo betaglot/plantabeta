@@ -11,8 +11,11 @@ Eco is Geology and Botany
 
 ## DevNotes
 
+- All Land is Eco, but not all Eco is Land. Atmosphere
 - Eco a subset of Neuro. Eco is perceived. The map is not the territory. Neuro objectifies earth.
 - Eco exists within Awareness
+- A meter into the residual is no longer Eco. Eco is only earth that you interact with.
+- A storm on the other side of your valley is not Eco.
 
 ## DevState
 

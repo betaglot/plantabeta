@@ -55,13 +55,23 @@ Submit by hash tag.
 
 - <https://www.ogc.org/>
 
-## Patagonia
+## Contributors
+
+### Ubisoft
+
+They're probably not going to help, but it's worth a shot.
+
+Assassins Creed
+
+### Patagonia
+
+Action Works
 
 Modify Patagonia Gear into Kit, Sleeves, Gauntlet
 
-### Contributors
+Patagonia can contribute knowledge about Tools
 
-#### Contribution Guide
+### Contribution Guide
 
 ### Sponsors
 

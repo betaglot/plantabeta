@@ -71,10 +71,13 @@ Closest
 
 ![Voronoi_Basketball](/Via/Voronoi/Voronoi_Basketball.jpeg)
 
+## Assassins Creed
+
 ::: details 🛠 <dev>&&&</dev>
 
 ## DevNotes
 
+- Follow the lit Path
 - ScaleBar
 - ViaStartPoint is a Circle
     - Filled circle is Planted
