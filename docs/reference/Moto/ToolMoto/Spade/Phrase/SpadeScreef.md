@@ -63,7 +63,7 @@
 
 ## Related 🔻<via>ViaElements</via>
 
--
+- HandPlacement on SpadeShaft or SpadeHandle is Via.
 
 ## Related 💜<neuro>NeuroElements</neuro>
 

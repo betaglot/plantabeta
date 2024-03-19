@@ -526,7 +526,7 @@ function sidebarReference() {
         { text: '🔷 <via>Via Sequence</via>', link: '/reference/Via/ViaSequence/Overview' },
         { text: '🔷 <via>Via Difficulty</via>', link: '/reference/Via/ViaDifficulty' },
         {
-          text: '🔻 <via>ViaGeometry</via>', collapsed: true, items: [
+          text: '🔻 <via>ViaGeometry</via>', link: '/reference/Via/ViaGeometry/Overview', collapsed: true, items: [
             {
               text: '🔻 <via>ViaPoint</via>', link: '/reference/Via/ViaGeometry/ViaPoint/Overview', collapsed: true, items: [
                 { text: '🔻 <via>Viewpoint</via>', link: '/reference/Via/ViaGeometry/ViaPoint/Viewpoint' },

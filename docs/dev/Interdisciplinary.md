@@ -28,15 +28,53 @@
 
 ### Hockey
 
+#### BetaAnalogy
+
+🔷<beta>Beta: BetaDiagram=PlayDiagram</beta>
+
+💜<neuro>Neuro: </neuro>
+
+🟩<eco>Eco: </eco>
+
+🟠<moto>Moto: </moto>
+
+🔻<via>Via: </via>
+
 - Play diagram [InsertImage]
 - Deep squat while leaning into turn.
 
 ### Basketball
 
+#### BetaAnalogy
+
+🔷<beta>Beta: BetaDiagram=PlayDiagram,</beta>
+
+💜<neuro>Neuro: </neuro>
+
+🟩<eco>Eco: =Opponent</eco>
+
+🟠<moto>Moto: </moto>
+
+🔻<via>Via: </via>
+
 - Play diagram [InsertImage]
 - MotoPhrase
 
 ### Skiing
+
+Slalom where you hit the gates is the most like planting.
+
+#### BetaAnalogy
+
+🔷<beta>Beta: </beta>
+
+💜<neuro>Neuro: </neuro>
+
+🟩<eco>Eco: Topography=Topography, Microsite=Gate</eco>
+
+🟠<moto>Moto: Spade=Pole</moto>
+
+🔻<via>Via: TargetPoint=Gate</via>
 
 #### PolePlant
 
@@ -52,13 +90,37 @@ Planting while your body is moving away or towards hole
 
 ### Paddling
 
+#### BetaAnalogy
+
+🔷<beta>Beta: </beta>
+
+💜<neuro>Neuro: </neuro>
+
+🟩<eco>Eco: </eco>
+
+🟠<moto>Moto: Spade=Paddle</moto>
+
+🔻<via>Via: </via>
+
 - Paddle = Spade
     - [SpadeScreef](/reference/Moto/SpadeMoto/SpadeScreef) is like taking a forward stroke or a draw stroke with a canoe paddle
     - [SpadeGrip](/reference/Moto/SpadeMoto/SpadeGrip)
         - [ShaftGrip](/reference/Moto/SpadeMoto/ShaftGrip)
         - [HandleGrip](/reference/Moto/SpadeMoto/HandleGrip)
 
-## Martial Arts
+### Boxing
+
+#### BetaAnalogy
+
+🔷<beta>Beta: </beta>
+
+💜<neuro>Neuro: </neuro>
+
+🟩<eco>Eco: Plant=Opponent</eco>
+
+🟠<moto>Moto: </moto>
+
+🔻<via>Via: </via>
 
 - [BranchDeflection](/reference/Moto/VegeMoto/BranchDeflection)
 - [HeadBob](/reference/Moto/HeadMoto/Overview)
@@ -66,6 +128,33 @@ Planting while your body is moving away or towards hole
     - [PunchClose](/reference/Moto/HandMoto/Overview)
 - [FootClose](/reference/Moto/FootMoto/Overview)
     - [StompClose](/reference/Moto/FootMoto/Overview)
+
+### Grappling
+
+- AskAlex
+- What BetaModule is the mat?
+- A collar has lots of ViaSurfaces.
+- Opponent is Eco
+
+#### BetaAnalogy
+
+🔷<beta>Beta: </beta>
+
+💜<neuro>Neuro: Neuro</neuro>
+
+🟩<eco>Eco: Opponent</eco>
+
+🟠<moto>Moto: Submission, Position</moto>
+
+🔻<via>Via: OnHip, Collar</via>
+
+Grappling Systems have Flow Diagrams
+
+#### 10thPlanet
+
+#### Danaher
+
+#### Gracie
 
 ## Landscaping
 

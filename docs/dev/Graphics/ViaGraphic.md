@@ -73,6 +73,12 @@ Closest
 
 ## Assassins Creed
 
+EagleVision is Via. Just like EagleVision, Via is an abstraction layer onto Moto and
+
+('lit')InsteadOf('highlighted')
+
+Via can be seen through the land.
+
 ::: details 🛠 <dev>&&&</dev>
 
 ## DevNotes

@@ -11,6 +11,14 @@
 
 > to set in motion; to shake; to stir; to move
 
+## <moto>Moto.<neuro>Time</neuro></moto>
+
+- Moto can be slow motion while movement can't. Since Moto is from 1stPOV, time can be relative. Typically time **feels like** it's slowing down when you pay close attention to an object.
+
+Sherlock Fight Scene
+
+300 Fight Scene
+
 ### "Moto" instead of "Move"
 
 Moto is polyglot
@@ -51,7 +59,7 @@ Acceleration
 
 ## Moto Neuroscience
 
-### How does knowledge of neuroscientific mechanisms of moto improve planter effectiveness?
+### How does knowledge of neuroscientific mechanisms of Moto improve planter effectiveness?
 
 - Learning
 

@@ -1,5 +1,6 @@
-
 # 🛠 Tools Innovation
+
+The most important constraint for Tools is the space it takes in the Truck.
 
 ![TreePlanter](/TreePlanter001.jpg)
 ![TreePlanter](/TreePlanter.jpg)
@@ -127,6 +128,14 @@ Cordura or Kevlar
 
 ## 🟠<moto>PlanterSuit</moto>
 
+### Design Constraint
+
+Holes in fabric snag, which often leads to the hole becoming larger and can potentially prevent Moto.
+
+RipStop Fabric
+
+Warp or Weft, which is stronger?
+
 ```py
 SuitParts = [
     'LeftVambrace',
@@ -142,6 +151,14 @@ SuitParts = [
 ]
 
 ```
+
+### 🟠<moto>Gaiter</moto>
+
+- Wire stirrup,not woven
+- Extra padding to strengthen attachment point and to prevent erosion from metal wire from rubbing on boot leather.
+- Big zipper
+- 
+
 
 ### 🟠<moto>Glove</moto>
 
@@ -177,11 +194,11 @@ Vambrace with a Glove under
 
 The goal of vambrace is to keep the hand clean and warm. There isn't a need to protect the forearm like military vambraces
 
-### Design Constraint
+#### Design Constraint
 
 - The prinicipal constraint is being able to fit your hand, proximal of the knuckles, into the OpenHole without getting snagged on the hole.
 
-### Lightyear Notepad
+#### Lightyear Notepad
 
 ### 🟠<moto>Jacket</moto>
 

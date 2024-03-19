@@ -40,7 +40,15 @@
 
 ## DevNotes
 
--
+- Event Listener
+- Wait for
+- Async Await
+- Get ready
+- Be prepared for
+- Anticipate
+- Counter
+- Predict
+- Maintain a Moto while waiting for an EcoEvent
 
 ## DevState
 

@@ -41,6 +41,7 @@ Not worth the trouble
     - Via is the interface between <eco>Eco</eco> and <moto>Moto</moto>
     - Via is the interface between <eco>Eco</eco> and <neuro>Neuro</neuro>
 - Interpolate
+    - Most ViaGeometry is interpolated.
 
 ### "By way of"
 
