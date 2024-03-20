@@ -93,17 +93,7 @@ Instantiate and EcoObject with an empty string for Via
 
 ## Methods
 
-### Replant()
-
-### Put()
-
-### PutRate
-
-Trees/Time
-
-### Get()
-
-### Put(Tree)
+See [BetaMethods](/reference/)
 
 ```py
 def Put(PlantType: str, Location: str, TreeCount: int, TreeType: str, ScreefBoolean: bool):
@@ -162,6 +152,12 @@ As you move through the land the EcoState is constantly changing. Remember that 
 - Direction
 - ViaDensityState
 - ViaSurfaceState
+
+## Stack
+
+> the last one in is the first one out
+
+Bag
 
 ## Control Flow Statement
 

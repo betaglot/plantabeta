@@ -72,6 +72,7 @@ Acceleration
 ## DevNotes
 
 - Moto is a superset of Movement
+- Moto can be a Position or a Movement
 
 ## DevState
 

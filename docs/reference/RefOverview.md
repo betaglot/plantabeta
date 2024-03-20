@@ -1,19 +1,17 @@
 
 # Reference Overview
 
-::: tip What is a Beta Element?
-Find out how Put(Plant) [is composed of Beta Elements](/reference/Beta/WhatBeta).
-:::
+> This reference section provides you with details about the functions, modules, and objects included in Put(Plant), describing their properties and usage.
 
-## [<beta>**🔷____Beta____**</beta>![Beta](/Beta/Beta_Icon.png)](/reference/Beta/WhatBeta)
+## [<beta>**🔷____Beta Module____**</beta>![Beta](/Beta/Beta_Icon.png)](/reference/Beta/WhatBeta)
 
-## [<eco>**🟩____Eco____**</eco>![Eco](/Eco/Eco_Icon.png)](/reference/Eco/EcoOverview)
+## [<eco>**🟩____Eco Module____**</eco>![Eco](/Eco/Eco_Icon.png)](/reference/Eco/EcoOverview)
 
-## [<moto>**🟠____Moto____**</moto>![Moto](/Moto/Moto_Icon.png)](/reference/Moto/MotoOverview)
+## [<moto>**🟠____Moto Module____**</moto>![Moto](/Moto/Moto_Icon.png)](/reference/Moto/MotoOverview)
 
-## [<via>**🔻____Via____**</via>![Via](/Via/Via_Icon.png)](/reference/Via/ViaOverview)
+## [<via>**🔻____Via Module____**</via>![Via](/Via/Via_Icon.png)](/reference/Via/ViaOverview)
 
-## [<neuro>**💜____Neuro____**</neuro>![Neuro](/Neuro/Neuro_Icon.png)](/reference/Neuro/NeuroOverview)
+## [<neuro>**💜____Neuro Module____**</neuro>![Neuro](/Neuro/Neuro_Icon.png)](/reference/Neuro/NeuroOverview)
 
 ## [Glossary](/reference/glossary/Glossary)
 
