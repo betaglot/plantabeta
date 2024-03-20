@@ -139,23 +139,40 @@ dev/StyleGuide.md, <dev>Dev.LevelOfAbstraction</dev>, ![90088.png](/PaperPhoto/9
 
 <https://developers.google.com/style>
 
-## <via>Be Canadian</via>
+<via>
+
+## Be Canadian, eh!
 
 It doesn't matter if it's always totally true, the canadian stereotype is believed, not proven.
 
-- Hockey
-- Kindness
-    - "the quality of being generous, helpful, and caring about other people"
-- Lacrosse
-- Freestyle Skiing
-- Alpinism
+### Mindset
+
 - Openness
     - Open Source
+    - Anyone can be a planter
+- Kindness
+    - "the quality of being generous, helpful, and caring about other people"
+    - No crusty vet
+    - All on the same team
+
+### Canadian Activities
+
+- Paddling
+    - Canoe
+    - Kayak
+- Hockey
+- Lacrosse
+- Skiing
+    - Freestyle Skiing
+- Alpinism
+
+### Canadian Land
+
 - Massive Wilderness
     - EcoHome Hero Image
 - Cold, Winter
-- Woven tools
-    - Basket
+
+</via>
 
 ## Put(Plant).org
 
@@ -285,6 +302,23 @@ Periods
 ```
 
 ## Icon
+
+Icons are only used to represent Objects or Functions.
+
+### !Icon
+
+Concept, Object Property
+
+MotoTimeline is orange as a header but it is not prefixed with an Icon.
+
+::: warning Incorrect Syntax
+🟠<moto>Arm.🟠<moto>ArmPut()</moto></moto>
+
+Only the 🟠<moto>Arm</moto> object is prefixed with an icon. ArmPut is orange but has no icon
+
+🟠<moto>Arm.<moto>ArmPut()</moto></moto>
+
+:::
 
 ### Literal or Metaphorical
 

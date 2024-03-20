@@ -1,5 +1,7 @@
 # 🛠 Via Graphics
 
+## ViaDiagram is a subset of ViaGraphic
+
 ## Montreal Metro Map
 
 ![MontrealMetroMap](/Via/MontrealMetroMap.png)

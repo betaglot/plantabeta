@@ -1,6 +1,10 @@
 
 # 🟩 <eco>EcoSpace</eco>
 
+## Block
+
+## Piece
+
 ::: details 🛠 <dev>&&&</dev>
 
 ## DevNotes

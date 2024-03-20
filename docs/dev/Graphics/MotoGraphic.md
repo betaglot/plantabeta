@@ -1,12 +1,12 @@
-# 🛠 🟠 <moto>Moto Graphics</moto>
+# 🛠 <moto>Moto Graphics</moto>
 
-## 🟠 <moto>MotoCard</moto>
+## <moto>MotoCard</moto>
 
 Mirror images for ambidextrous planter
 
-## 🟠 <moto>MotoTimeline</moto>
+## <moto>MotoTimeline</moto>
 
-## 🟠 <moto>MotoTree</moto>
+## <moto>MotoTree</moto>
 
 ::: details 🛠 <dev>&&&</dev>
 

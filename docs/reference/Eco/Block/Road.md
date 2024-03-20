@@ -5,6 +5,8 @@ The dirt road
 
 The road to your piece
 
+## DeactivatedRoad
+
 ## Interroad
 
 > Road between the motel and block
@@ -12,7 +14,7 @@ The road to your piece
 > Road between blocks
 
 ## BlockRoad
->
+
 > the road within the  your block
 
 ### RoadSign
@@ -105,7 +107,7 @@ Links to other related EcoElements. Related because they are the same EcoType or
 
 ## DevNotes
 
--
+- To a planter a Road is more Via than Eco, since no planting is ever performed on road, unless it has been deactivated.
 
 ## DevState
 

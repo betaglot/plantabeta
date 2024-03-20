@@ -5,6 +5,8 @@
 
 You use ViaTheorems or other ViaProblems to solve ViaProblems.
 
+ViaProblems are created by Eco.
+
 ![ViaIcon](/Via/Via_Icon.png)
 
 ## How

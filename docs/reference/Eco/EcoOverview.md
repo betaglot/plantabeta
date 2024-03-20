@@ -9,6 +9,36 @@ Eco is Geology and Botany
 
 ::: details 🛠 <dev>&&&</dev>
 
+## EcoObjects
+
+```py
+{
+    Atmosphere,
+    Sun,
+    Block,
+    Piece,
+    Rock,
+    Vegetation,
+    Prep,
+    Water,
+    Slash,
+    Soil,
+    Obstacle,
+    Seedling,
+    Animal
+}
+```
+
+## EcoFunctions
+
+🟩<eco>Atmosphere.Wind()</eco>
+
+🟩<eco>Water.Splash()</eco>
+
+🟩<eco>Soil.Collapse()</eco>
+
+🟩<eco>Plant.BranchWhip()</eco>
+
 ## DevNotes
 
 - All Land is Eco, but not all Eco is Land. Atmosphere

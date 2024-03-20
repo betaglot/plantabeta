@@ -18,7 +18,8 @@ In mathematics a *line* must be straight, while a *curve* can be straight or not
 
 ## DevNotes
 
--
+- ViaDirection
+    - ToCache
 
 ## DevState
 

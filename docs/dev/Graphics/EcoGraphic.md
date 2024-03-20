@@ -1,4 +1,4 @@
-# 🛠 Eco Graphics
+# 🛠 <eco>Eco Graphics</eco>
 
 ::: details 🛠 <dev>&&&</dev>
 

@@ -43,7 +43,31 @@
 - Play diagram [InsertImage]
 - Deep squat while leaning into turn.
 
+### Tennis
+
+🔷<beta>Beta: </beta>
+
+💜<neuro>Neuro: </neuro>
+
+🟩<eco>Eco: </eco>
+
+🟠<moto>Moto: Spade=Paddle</moto>
+
+🔻<via>Via: </via>
+
 ### Basketball
+
+Lines
+
+Court
+
+Coach
+
+Captain
+
+Team
+
+Passing
 
 #### BetaAnalogy
 

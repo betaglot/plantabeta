@@ -1,5 +1,7 @@
 
-# 🛠 Beta Graphics
+# 🛠 <beta>Beta Graphics</beta>
+
+## BetaDiagram is a subset of BetaGraphic
 
 How is Risk visualized?
 Percentage?

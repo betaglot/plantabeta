@@ -5,6 +5,26 @@
 
 ![Paper_BetaQuote](/Paper_BetaQuote.jpg)
 
+## 🔷<beta>"<via>Follow that <eco>stream</eco> up to the <eco>top corner</eco> <neuro>then</neuro> go left and BoustroCover </via> <neuro>then</neuro> <moto>walk </moto>back to cache"</beta>
+
+🔻<via>"Follow": CoverHeuristic</via>
+
+🟩<eco>"stream": Water</eco>
+
+🔻<via>"up to the": TargetPoint</via>
+
+🟩<eco>"top corner": PieceShape</eco>
+
+💜<neuro>"then": Event</neuro>
+
+🔻<via>"go left and BoustroCover" : ViaDirection, BoustroCover</via>
+
+💜<neuro>"then": Event</neuro>
+
+🟠<moto>"walk": Walk</moto>
+
+🔻<via>"back to the cache": ViaFinishPoint</via>
+
 ## 🔷<beta>"<via>Fill</via> the <eco>wet areas</eco> with <eco>spruce</eco>, you don't need to <moto>screef</moto> in the <eco>riparian areas</eco>"</beta>
 
 🔻<via>"Fill": Cover</via>

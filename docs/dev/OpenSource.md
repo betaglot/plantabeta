@@ -1,4 +1,3 @@
-
 # 🛠 Open Source Project
 
 > Open-source software is computer software that is released under a license in which the copyright holder grants users the rights to use, study, change, and distribute the software and its source code to anyone and for any purpose. Open-source software may be developed in a collaborative, public manner.
@@ -57,13 +56,23 @@ Submit by hash tag.
 
 ## Contributors
 
+### Computer Scientists
+
+You don't necessarily need to be a programmer. The computing theory behind Algorithms is studied outside programming.
+
+### Academia
+
+People who can create studies and also understand cutting edge science.
+
+[ScicommMedia](https://www.scicommedia.com/)
+
 ### Ubisoft
 
-They're probably not going to help, but it's worth a shot.
+They're probably not going to help, but it's worth a shot to ask for help with the Pylanter.
 
 Assassins Creed
 
-### Patagonia
+### Patagonia: <moto>Tools</moto>
 
 Action Works
 

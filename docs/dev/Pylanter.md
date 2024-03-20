@@ -1,8 +1,13 @@
+# 🛠 Pylanter is a Simulator
 
-# 🛠 Planter as Computer
+> Pylanter is a <neuro>neuro</neuro> tool
+
+Pylanter is most useful for PotentialPlanters who live in urban areas, who don't have much exposure to wilderness.
+
+🔷<beta>Put(</beta><eco>Plant</eco><beta>)</beta> is a lot to learn all at once, so learning over a few months before the season starts will be more efficient.
 
 ::: tip BetaCode
-The Source Code for Put(Plant) is called [BetaCode](/reference/Beta/BetaCode).
+The Source Code for Put(Plant) is called [BetaCode](/reference/Beta/BetaCode/Overview).
 :::
 
 ![PythonLogo](/Python/PythonLogo.png)
@@ -43,6 +48,14 @@ def move(move{}, eco{}, via{}, neuro):
     force = (Submoto{} + Submoto{})
     return force
 ```
+
+## Simulator
+
+- Use Simulation to model motos. Ultimately the goal is to have a planter coded in Unity.
+- 3D model of planter
+- 3D model of all objects in Put(Plant).
+- So kids who game can learn the computations of Computational Planting, before they are old enough to work as a planter.
+    - Phone Game
 
 ## Computational Neuroscience
 
@@ -379,6 +392,10 @@ The coverage control is a multi-agent system control method that governs agents 
 ### Break
 
 You GetTree while you're MicrositeFind()
+
+::: tip Use this level of detail.
+![ForestSimulation](/Via/ForestSimulation.png)
+:::
 
 ## Monty Python References
 

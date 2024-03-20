@@ -72,7 +72,6 @@ function sidebarDevelopment() {
     { text: '<dev>Research Questions</dev>', link: '/dev/ResearchQuestions' },
     { text: '<dev>Roadmap</dev>', link: '/dev/Roadmap' },
     { text: '<dev>Sequence</dev>', link: '/dev/Sequence' },
-    { text: '<dev>Simulation</dev>', link: '/dev/Simulation' },
     { text: '<dev>SocialMedia</dev>', link: '/dev/SocialMedia' },
     { text: '<dev>StyleGuide</dev>', link: '/dev/StyleGuide' },
     { text: '<dev>Tagging</dev>', link: '/dev/Tagging' },

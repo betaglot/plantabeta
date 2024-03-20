@@ -37,6 +37,22 @@ Mental representation of Eco to construct Via
 
 > three basic elements of cognitive map based navigation spatial coding, landmark anchoring, and via planning
 
+### Isometric View to OrthographicView
+
+Convert a 3Dimensional view into a 2Dimensional Mental Map or ViaDiagram
+
+#### OrthographicView
+
+##### TopView
+
+Piece Shape
+
+##### SideView
+
+##### FrontView
+
+View from road
+
 ### Spatial Coding
 
 ### Landmark Anchoring

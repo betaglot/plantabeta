@@ -7,6 +7,8 @@
 
 ## DevNotes
 
+- ValleyCover
+- CirqueCover
 -
 
 ## DevState

@@ -11,10 +11,13 @@ Heuristic Function()
 
 ## 🔻<via>ViaHeuristic = (CurrentDensity >= OptimalDensity)</via>
 
+## 🔻<via>Follow()</via>
+
 ::: details 🛠 <dev>&&&</dev>
 
 ## DevNotes
 
+- Walking across Slope is less fatiguing than walking up or down the slope.
 - When to move to next microsite?
 - Used more in Recovery than at the PhraseStart
 
