@@ -7,6 +7,8 @@ Beta is expressed using a Natural Language. In Put(Plant), Beta is only expresse
 
 A method of Beta is to print out a string describing the Beta in English. This seems like something AI would be good at.
 
+## 🟠<moto>Speak()</moto>
+
 ## Gestures
 
 Italian Talkers

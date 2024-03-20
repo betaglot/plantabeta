@@ -167,6 +167,7 @@ function sidebarReference() {
           text: '🔷 <beta>BetaCode</beta>', link: '/reference/Beta/BetaCode/Overview', collapsed: true, items: [
             { text: '🔷 <beta>BetaObject</beta>', link: '/reference/Beta/BetaCode/BetaObject' },
             { text: '🔷 <beta>BetaFunction</beta>', link: '/reference/Beta/BetaCode/BetaFunction' },
+            { text: '🔷 <beta>BetaBlock</beta>', link: '/reference/Beta/BetaCode/BetaBlock' },
           ]
         },
         {

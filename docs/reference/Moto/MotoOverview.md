@@ -11,6 +11,37 @@
 
 > to set in motion; to shake; to stir; to move
 
+### <moto>Moto Object</moto>
+
+```py
+{
+   Arm, 
+   Body, 
+   Cache, 
+   Clothing, 
+   Hand,
+   Foot, 
+   Head, 
+   Hole, 
+   Leg, 
+   Bag, 
+   Boot, 
+   Box, 
+   Bundle, 
+   Carabiner, 
+   Flag, 
+   Gaiter, 
+   Glove, 
+   Kit, 
+   Rope, 
+   Spade, 
+   Truck, 
+   Vege 
+}
+```
+
+### <moto>Moto Function()</moto>
+
 ## <moto>Moto.<neuro>Time</neuro></moto>
 
 - Moto can be slow motion while movement can't. Since Moto is from 1stPOV, time can be relative. Typically time **feels like** it's slowing down when you pay close attention to an object.

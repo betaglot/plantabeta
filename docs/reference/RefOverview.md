@@ -3,7 +3,7 @@
 
 > This reference section provides you with details about the functions, modules, and objects included in Put(Plant), describing their properties and usage.
 
-## [<beta>**🔷____Beta Module____**</beta>![Beta](/Beta/Beta_Icon.png)](/reference/Beta/WhatBeta)
+## [<beta>**🔷____Beta____**</beta>![Beta](/Beta/Beta_Icon.png)](/reference/Beta/WhatBeta)
 
 ## [<eco>**🟩____Eco Module____**</eco>![Eco](/Eco/Eco_Icon.png)](/reference/Eco/EcoOverview)
 

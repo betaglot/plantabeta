@@ -1,16 +1,16 @@
-🔷<beta>Beta Methods</beta>
+🔷<beta>Beta Functions</beta>
 
-## 🔷<beta>Ask()</beta>
+All BetaFunctions require at least 2 modules
 
-Ask(Planter)
+## 🔷<beta>Ask(Beta)</beta>
 
-Ask(Supervisor)
+🟠<moto>Speak()</moto>
 
-Ask(Team)
+## 🔷<beta>Link(Beta)</beta>
 
-## 🔷<beta>Link()</beta>
+> to combine BetaBlocks
 
-## 🔷<beta>Record()</beta>
+## 🔷<beta>Record(Beta)</beta>
 
 BetaDiagram
 
@@ -18,9 +18,17 @@ BetaVideo
 
 ## 🔷<beta>Mime(Beta)</beta>
 
-## 🔷<beta>Parse(BetaString)</beta>
+> to demonstrate Beta with body language without actually performing the Beta
 
-## 🔷<beta>Give(Planter, Team, Supervisor)</beta>
+## 🔷<beta>Parse(Beta)</beta>
+
+> to separate Beta into parts
+
+Separate into BetaModules
+
+## 🔷<beta>Give(Beta)</beta>
+
+> to communicate Beta to another person
 
 "One bag" can be a measurement of Time or Space
 
@@ -28,17 +36,67 @@ BetaVideo
 
 ## 🔷<beta>Replant(<via>ViaSpace</via>)</beta>
 
-## 🔷<beta>Put(<eco>Plant</eco>)</beta>
+## 🔷<beta>Put()</beta>
 
-## 🔷<beta>Put(<via>Flag</via>)</beta>
+>
+
+### 🔷<beta>Put(<eco>Plant</eco>)</beta>
+
+> to plant a plant in the ground
+
+### 🔷<beta>Put(<via>Flag</via>)</beta>
+
+> to place a flag on an EcoObject
 
 ### Put().Rate
 
 Trees/Time
 
-## 🔷<beta>Get(<via>ViaPoint</via>)</beta>
+### 🔷<beta>Put(<neuro>Memory</neuro>)</beta>
 
-Get over there
+> to remember some information
+
+"Put it in your thoughts"
+
+"Remember this"
+
+## 🔷<beta>Get()</beta>
+
+> to obtain something
+
+### 🔷<beta>Get(Beta)</beta>
+
+> to understand or hear some Beta
+
+"Do you get it?"
+
+### 🔷<beta>Get(<eco>Plant</eco>)</beta>
+
+> to obtain an EcoObject
+
+#### 🔷<beta>Get(<eco>Tree</eco>)</beta>
+
+#### 🔷<beta>Get(<eco>Bundle</eco>)</beta>
+
+#### 🔷<beta>Get(<eco>Box</eco>)</beta>
+
+#### 🔷<beta>Get(<eco>Log</eco>)</beta>
+
+### 🔷<beta>Get(<via>Via</via>)</beta>
+
+> to move to a different place or into a different position
+
+"Get over there"
+
+"Get under the log"
+
+"Get around the obstacle"
+
+### 🔷<beta>Get(<neuro>Neuro</neuro>)</beta>
+
+> to achieve a neuro state
+
+"Get psyched"
 
 ::: details 🛠 <dev>&&&</dev>
 
