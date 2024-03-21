@@ -197,14 +197,6 @@ function sidebarReference() {
           ]
         },
         {
-          text: '🟩 <eco>Area</eco>', collapsed: true, link: '/reference/Eco/Area/Overview', items: [
-            { text: '🟩 <eco>PocketArea</eco>', link: '/reference/Eco/Area/PocketArea' },
-            { text: '🟩 <eco>RiparianArea</eco>', link: '/reference/Eco/Area/RiparianArea' },
-            { text: '🟩 <eco>RockCapArea</eco>', link: '/reference/Eco/Area/RockCapArea' },
-            { text: '🟩 <eco>SlashPileArea</eco>', link: '/reference/Eco/Area/SlashPileArea' },
-          ]
-        },
-        {
           text: '🟩 <eco>Atmosphere</eco>', link: '/reference/Eco/Atmosphere/Overview', collapsed: true, items: [
             { text: '🟩 <eco>AirTemperature</eco>', link: '/reference/Eco/Atmosphere/AirTemperature' },
             { text: '🟩 <eco>Humidity</eco>', link: '/reference/Eco/Atmosphere/Humidity' },
@@ -237,6 +229,7 @@ function sidebarReference() {
             { text: '🟩 <eco>MicrositeObstacle</eco>', link: '/reference/Eco/Obstacle/MicrositeObstacle' },
             { text: '🟩 <eco>RockObstacle</eco>', link: '/reference/Eco/Obstacle/RockObstacle' },
             { text: '🟩 <eco>StumpObstacle</eco>', link: '/reference/Eco/Obstacle/StumpObstacle' },
+            { text: '🟩 <eco>SlashPileArea</eco>', link: '/reference/Eco/Area/SlashPileArea' },
           ]
         },
         {
@@ -248,13 +241,15 @@ function sidebarReference() {
           text: '🟩 <eco>Prep</eco>', link: '/reference/Eco/Prep/Overview', collapsed: true, items: [
             { text: '🟩 <eco>MoundLand</eco>', link: '/reference/Eco/Prep/MoundLand' },
             { text: '🟩 <eco>TrenchLand</eco>', link: '/reference/Eco/Prep/TrenchLand' },
+            { text: '🟩 <eco>DeactivatedRoad</eco>', link: '/reference/Eco/Prep/TrenchLand' },
           ]
         },
         {
           text: '🟩 <eco>Raw</eco>', link: '/reference/Eco/Raw/Overview', collapsed: true, items: [
-            { text: '🟩 <eco>BurnPit</eco>', link: '/reference/Eco/Raw/BurnPit' },
+            { text: '🟩 <eco>StumpLand</eco>', link: '/reference/Eco/Raw/StumpLand' },
             { text: '🟩 <eco>BurntLand</eco>', link: '/reference/Eco/Raw/BurntLand' },
-
+            { text: '🟩 <eco>RiparianLand</eco>', link: '/reference/Eco/Raw/RiparianLand' },
+            { text: '🟩 <eco>RockyLand</eco>', link: '/reference/Eco/Raw/RockyLand' },
           ]
         },
         {
@@ -267,6 +262,7 @@ function sidebarReference() {
         },
         {
           text: '🟩 <eco>Soil</eco>', link: '/reference/Eco/Soil/Overview', collapsed: true, items: [
+            { text: '🟩 <eco>Hole</eco>', link: '/reference/Eco/Soil/Hole' },
             { text: '🟩 <eco>ClaySoil</eco>', link: '/reference/Eco/Soil/ClaySoil' },
             { text: '🟩 <eco>DrySoil</eco>', link: '/reference/Eco/Soil/DrySoil' },
             { text: '🟩 <eco>GravelSoil</eco>', link: '/reference/Eco/Soil/GravelSoil' },
@@ -278,6 +274,10 @@ function sidebarReference() {
         },
         {
           text: '🟩 <eco>Sun</eco>', link: '/reference/Eco/Sun/Overview', collapsed: true, items: [
+          ]
+        },
+        {
+          text: '🟩 <eco>Vegetation</eco>', link: '/reference/Eco/Vegetation/Overview', collapsed: true, items: [
           ]
         },
       ]

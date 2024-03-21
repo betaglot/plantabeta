@@ -2,7 +2,7 @@
 
 > Put plants in the ground
 
-## 🔷<beta>Put(<eco>Tree</eco>)</beta>, 🔷<beta>Put(<eco>Shrub</eco>)</beta>, 🔷<beta>Put(<eco>Flower</eco>)</beta>, 🔷<beta>Put(<eco>Moss</eco>)</beta>, 🔷<beta>Put(<eco>FireResistor</eco>)</beta>, 🔷<beta>Put(<eco>Bulb</eco>)</beta>
+## 🔷<beta>Put(<eco>Tree</eco>)</beta>, 🔷<beta>Put(<eco>Shrub</eco>)</beta>, 🔷<beta>Put(<eco>Flower</eco>)</beta>, 🔷<beta>Put(<eco>Moss</eco>)</beta>, 🔷<beta>Put(<eco>FireResistor</eco>)</beta>, 🔷<beta>Put(<eco>Bulb</eco>)</beta>, 🔷<beta>Put(<eco>Root</eco>)</beta>, 🔷<beta>Put(<moto>Spade</moto>)</beta>, 🔷<beta>Put(<via>Flag</via>)</beta>, 🔷<beta>Put(<eco>Box</eco>)</beta>, 🔷<beta>Put(<moto>Boot</moto>)</beta>
 
 Put(Plant) is written like a computer programming language function since it's the application of computational thinking.
 

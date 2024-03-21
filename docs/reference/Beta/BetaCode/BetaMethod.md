@@ -49,19 +49,41 @@ Abstract Syntax Tree
 
 ## 🔷<beta>Put()</beta>
 
->
+> to move something or someone into the stated place, position, or direction
 
 ### 🔷<beta>Put(<eco>Plant</eco>)</beta>
 
-> to plant a plant in the ground
+> to plant a plant in the soil
+
+### 🔷<beta>Put(<eco>Root</eco>)</beta>
+
+> to place a root within a Hole
+
+Stuff into hole
+
+With BareRoots you must often curl the roots into the hole
+
+<eco>Nanosite</eco> is a ViaPoint
 
 ### 🔷<beta>Put(<via>Flag</via>)</beta>
 
 > to place a flag on an EcoObject
 
+<via>FlagSite</via> is a ViaPoint
+
 ### Put().Rate
 
 Trees/Time
+
+### 🔷<beta>Put(<moto>Hood</moto>)</beta>
+
+### 🔷<beta>Put(<moto>Boot</moto>)</beta>
+
+> put your boot onto a ViaSurface
+
+🟠<moto>Step()</moto>
+
+🟠<moto>FootSlide</moto>
 
 ### 🔷<beta>Put(<neuro>Memory</neuro>)</beta>
 

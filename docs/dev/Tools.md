@@ -209,6 +209,14 @@ The goal of vambrace is to keep the hand clean and warm. There isn't a need to p
 
 <https://www.patagonia.ca/product/hose-down-slicker-jacket/27892.html?dwvar_27892_color=CMPO>
 
+#### 🟠<moto>Hood</moto>
+
+Put your Hood up
+
+Planting with a Hood up reduces Hearing and Vision
+
+Windy
+
 ### 🟠<moto>Bellow Backpack</moto>
 
 Bellow which blows air into shirt for evaporative cooling during summer

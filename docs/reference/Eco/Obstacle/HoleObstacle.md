@@ -1,4 +1,4 @@
-# 🟩  <eco>HoleObstacle</eco>
+# 🟩  <eco>MicrositeObstacle</eco>
 
 > Obstacle within a Hole
 
