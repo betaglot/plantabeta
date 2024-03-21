@@ -21,7 +21,7 @@ When a Planter follows the line of the Planter in front of them.
 
 ## DevNotes
 
--
+- TeamCover is when Beta is executed as a Distributed System
 
 ## DevState
 

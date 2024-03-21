@@ -9,6 +9,12 @@ ViaProblems are created by Eco.
 
 ![ViaIcon](/Via/Via_Icon.png)
 
+## Problem Statement
+
+State the problem.
+
+State your givens
+
 ## How
 
 ## Set

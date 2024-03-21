@@ -21,19 +21,10 @@ moto {
 
 }
 
-h1 moto {
-  text-decoration-color: #bf6a34;
-  text-decoration: underline;
-}
-
 via {
   color: #f44747
 }
 
-h1 via {
-  text-decoration-color: #f44747;
-  text-decoration: underline;
-}
 
 neuro {
   color: #c586c0
@@ -59,6 +50,9 @@ ye {
   color: #ffd700
 }
 
+error {
+  text-decoration: underline red;
+}
 
 .VPHomeHero .name span.clip {
   font-size: 163%;

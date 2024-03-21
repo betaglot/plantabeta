@@ -7,6 +7,14 @@
 🔻:
 💜:
 
+## Concurrency or Parallelism
+
+- [Difference between Concurrency and Parallelism](https://www.linkedin.com/advice/0/whats-difference-between-concurrent-parallel-programming)
+
+Parallelism is TeamCover
+
+Concurrency is
+
 ## Sequences are represented as
 
 ### Cards

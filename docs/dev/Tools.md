@@ -25,6 +25,12 @@ Wax to waterproof
 
 ## 🟠<moto>Planter Bags</moto>
 
+### Bags Transport Configuration
+
+Packed up space. Fold up Bag like origami
+
+Partially Disassemble to reduce space
+
 ### 'Basket' instead of 'Sidebags'
 
 `Analogy{Saddle: PlanterBag}`
@@ -87,7 +93,7 @@ Pannier
 - Use waterproof Flap instead of sphincter design, since sphincter allows water to collect and slowly seep into backbag.
 - Pocket on underside of Flap
 
-### 🟩<eco>Warmth</eco>
+### <eco>Warmth</eco>
 
 - Vambrace triplet brochure conductive metal sheets to wear on core then transfer to forearms
     - Extra weight for more heat during cold weather
@@ -103,9 +109,9 @@ Ideally there would be a Flagger on each Vambrace
 
 ### 🟠<via>PlotCord</via>
 
-### 🟠<eco>Lashing SummerCache</eco>
+### 🟠<eco>Lash(SummerCache)</eco>
 
-### 🟠<moto>Abrasion Resistant Material</moto>
+### <moto>Abrasion Resistant Material</moto>
 
 Cordura or Kevlar
 
@@ -157,8 +163,7 @@ SuitParts = [
 - Wire stirrup,not woven
 - Extra padding to strengthen attachment point and to prevent erosion from metal wire from rubbing on boot leather.
 - Big zipper
-- 
-
+-
 
 ### 🟠<moto>Glove</moto>
 
@@ -204,7 +209,7 @@ The goal of vambrace is to keep the hand clean and warm. There isn't a need to p
 
 <https://www.patagonia.ca/product/hose-down-slicker-jacket/27892.html?dwvar_27892_color=CMPO>
 
-### <eco>Bellow Backpack</eco>
+### 🟠<moto>Bellow Backpack</moto>
 
 Bellow which blows air into shirt for evaporative cooling during summer
 

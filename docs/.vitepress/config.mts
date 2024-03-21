@@ -560,7 +560,7 @@ function sidebarReference() {
               ]
             },
             {
-              text: '🔻 <via>ViaSurface</via>', link: '/reference/Via/ViaSurface/Overview', collapsed: true, items: [
+              text: '🔻 <via>ViaSurface</via>', link: '/reference/Via/ViaGeometry/ViaSurface/Overview', collapsed: true, items: [
                 { text: '🔻 <via>ViaSurface Texture</via>', link: '/reference/Via/ViaSurface/ViaSurfaceTexture' },
               ]
             },

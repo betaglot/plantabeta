@@ -17,7 +17,8 @@ SmoothSurface
 
 ## DevNotes
 
--
+- ViaSurfaces are exposures of Soil in the Land. Sometimes you must Screef to expose a ViaSurface
+- ViaSurfaces for Moto are less
 
 ## DevState
 
