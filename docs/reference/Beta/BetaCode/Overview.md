@@ -144,7 +144,10 @@ As you move through the land the EcoState is constantly changing. Remember that 
 
 ### NeuroState
 
+- Vigilance
 - Mindset
+- Preparedness
+    - Ready Set Go
 
 ### ViaState
 
