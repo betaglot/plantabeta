@@ -331,7 +331,7 @@ The users of Put(Plant) can take multiple paths through Put(Plant) depending on 
 
 ## DevNotes
 
--
+- PutPlant.com is only used for learning and research. It's not meant to be used everyday by planters. People don't use textbooks everyday.
 
 ## DevState
 

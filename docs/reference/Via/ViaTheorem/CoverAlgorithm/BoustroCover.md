@@ -23,7 +23,7 @@
 
 - Cellular Decomposition Algorithm like Delaunay Triangulation or Voronoi Decomposition
 
-## ElementRelationshipsGraph
+## BetaGraph
 
 Graph which represents how this element is related to other elements in Put(Plant).
 <iframe

@@ -18,16 +18,16 @@ hero:
 
 
 features:
-  - icon: 🌲
+  - icon: 🔷
     title:  Examples
-    details: Accelerate your planter development by example.
+    details: Accelerate your planter development by examples
     link: /examples/Overview
   - icon: 🛠️
-    title: Last Updated March 7, 2024.
-    details:  days until May 5, 2024
+    title: Last Updated on March 21, 2024
+    details: 45 days until May 5, 2024
     link: /dev/DevOverview
   - icon: 🔍
     title: Browse the Reference Section
-    details: Find information about Put(Plant)'s Elements you're using
+    details: Find information about the Put(Plant) objects that you're using
     link: /reference/RefOverview
 ---

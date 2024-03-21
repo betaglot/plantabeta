@@ -15,7 +15,7 @@ BetaCode is the Python package which is used to formally write Beta.
 
 ## Python
 
-### [PythonPlanter](/dev/PythonPlanter)
+### [Pylanter](/dev/Pylanter)
 
 Use Python's syntax to code Put(Plant).
 

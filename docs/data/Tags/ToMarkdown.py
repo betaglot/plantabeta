@@ -9930,1614 +9930,1614 @@ data = [
         "TagName": "Dev.Downloads"
     },
     {
-        "PagePath": "dev/ElementsGraph.md",
+        "PagePath": "dev/BetaGraph.md",
         "PaperPhoto": "0010.jpg",
-        "TagName": "ElementRelationshipDiagram"
+        "TagName": "BetaGraph"
     },
     {
-        "PagePath": "dev/ElementsGraph.md",
+        "PagePath": "dev/BetaGraph.md",
         "PaperPhoto": "0026.jpg",
-        "TagName": "ElementRelationshipDiagram"
+        "TagName": "BetaGraph"
     },
     {
-        "PagePath": "dev/ElementsGraph.md",
+        "PagePath": "dev/BetaGraph.md",
         "PaperPhoto": "0069.jpg",
-        "TagName": "ElementRelationshipDiagram"
+        "TagName": "BetaGraph"
     },
     {
-        "PagePath": "dev/ElementsGraph.md",
+        "PagePath": "dev/BetaGraph.md",
         "PaperPhoto": "0086.jpg",
-        "TagName": "ElementRelationshipDiagram"
+        "TagName": "BetaGraph"
     },
     {
-        "PagePath": "dev/ElementsGraph.md",
+        "PagePath": "dev/BetaGraph.md",
         "PaperPhoto": "0087.jpg",
-        "TagName": "ElementRelationshipDiagram"
+        "TagName": "BetaGraph"
     },
     {
-        "PagePath": "dev/ElementsGraph.md",
+        "PagePath": "dev/BetaGraph.md",
         "PaperPhoto": "0119.jpg",
-        "TagName": "ElementRelationshipDiagram"
+        "TagName": "BetaGraph"
     },
     {
-        "PagePath": "dev/ElementsGraph.md",
+        "PagePath": "dev/BetaGraph.md",
         "PaperPhoto": "0266.jpg",
-        "TagName": "ElementRelationshipDiagram"
+        "TagName": "BetaGraph"
     },
     {
-        "PagePath": "dev/ElementsGraph.md",
+        "PagePath": "dev/BetaGraph.md",
         "PaperPhoto": "0412.jpg",
-        "TagName": "ElementRelationshipDiagram"
+        "TagName": "BetaGraph"
     },
     {
-        "PagePath": "dev/ElementsGraph.md",
+        "PagePath": "dev/BetaGraph.md",
         "PaperPhoto": "0446.jpg",
         "TagName": "Dev.Pictogram"
     },
     {
-        "PagePath": "dev/ElementsGraph.md",
+        "PagePath": "dev/BetaGraph.md",
         "PaperPhoto": "0446.jpg",
-        "TagName": "ElementRelationshipDiagram"
+        "TagName": "BetaGraph"
     },
     {
-        "PagePath": "dev/ElementsGraph.md",
+        "PagePath": "dev/BetaGraph.md",
         "PaperPhoto": "0513.jpg",
         "TagName": "Dev.Pictogram"
     },
     {
-        "PagePath": "dev/ElementsGraph.md",
+        "PagePath": "dev/BetaGraph.md",
         "PaperPhoto": "0516.jpg",
-        "TagName": "ElementRelationshipDiagram"
+        "TagName": "BetaGraph"
     },
     {
-        "PagePath": "dev/ElementsGraph.md",
+        "PagePath": "dev/BetaGraph.md",
         "PaperPhoto": "0560.jpg",
-        "TagName": "ElementRelationshipDiagram"
+        "TagName": "BetaGraph"
     },
     {
-        "PagePath": "dev/ElementsGraph.md",
+        "PagePath": "dev/BetaGraph.md",
         "PaperPhoto": "0594.jpg",
         "TagName": "Dev.Pictogram"
     },
     {
-        "PagePath": "dev/ElementsGraph.md",
+        "PagePath": "dev/BetaGraph.md",
         "PaperPhoto": "0595.jpg",
         "TagName": "Dev.Pictogram"
     },
     {
-        "PagePath": "dev/ElementsGraph.md",
+        "PagePath": "dev/BetaGraph.md",
         "PaperPhoto": "0595.jpg",
-        "TagName": "ElementRelationshipDiagram"
+        "TagName": "BetaGraph"
     },
     {
-        "PagePath": "dev/ElementsGraph.md",
+        "PagePath": "dev/BetaGraph.md",
         "PaperPhoto": "0596.jpg",
         "TagName": "Dev.Element.ElementCard.Comparison(ElementCards)"
     },
     {
-        "PagePath": "dev/ElementsGraph.md",
+        "PagePath": "dev/BetaGraph.md",
         "PaperPhoto": "0600.jpg",
         "TagName": "Dev.Element.ElementCard.Comparison(ElementCards)"
     },
     {
-        "PagePath": "dev/ElementsGraph.md",
+        "PagePath": "dev/BetaGraph.md",
         "PaperPhoto": "0648.jpg",
-        "TagName": "ElementRelationshipDiagram.ElementDependencies"
+        "TagName": "BetaGraph.ElementDependencies"
     },
     {
-        "PagePath": "dev/ElementsGraph.md",
+        "PagePath": "dev/BetaGraph.md",
         "PaperPhoto": "0705.jpg",
-        "TagName": "ElementRelationshipDiagram"
+        "TagName": "BetaGraph"
     },
     {
-        "PagePath": "dev/ElementsGraph.md",
+        "PagePath": "dev/BetaGraph.md",
         "PaperPhoto": "0728.jpg",
-        "TagName": "ElementRelationshipDiagram"
+        "TagName": "BetaGraph"
     },
     {
-        "PagePath": "dev/ElementsGraph.md",
+        "PagePath": "dev/BetaGraph.md",
         "PaperPhoto": "0784.jpg",
-        "TagName": "ElementRelationshipDiagram"
+        "TagName": "BetaGraph"
     },
     {
-        "PagePath": "dev/ElementsGraph.md",
+        "PagePath": "dev/BetaGraph.md",
         "PaperPhoto": "0784.jpg",
-        "TagName": "ElementRelationshipDiagram.MetroMap"
+        "TagName": "BetaGraph.MetroMap"
     },
     {
-        "PagePath": "dev/ElementsGraph.md",
+        "PagePath": "dev/BetaGraph.md",
         "PaperPhoto": "0831.jpg",
-        "TagName": "ElementRelationshipDiagram"
+        "TagName": "BetaGraph"
     },
     {
-        "PagePath": "dev/ElementsGraph.md",
+        "PagePath": "dev/BetaGraph.md",
         "PaperPhoto": "0965.jpg",
-        "TagName": "ElementRelationshipDiagram"
+        "TagName": "BetaGraph"
     },
     {
-        "PagePath": "dev/ElementsGraph.md",
+        "PagePath": "dev/BetaGraph.md",
         "PaperPhoto": "1044.jpg",
-        "TagName": "ElementRelationshipDiagram"
+        "TagName": "BetaGraph"
     },
     {
-        "PagePath": "dev/ElementsGraph.md",
+        "PagePath": "dev/BetaGraph.md",
         "PaperPhoto": "1059.jpg",
-        "TagName": "ElementRelationshipDiagram.ElementDependencies"
+        "TagName": "BetaGraph.ElementDependencies"
     },
     {
-        "PagePath": "dev/ElementsGraph.md",
+        "PagePath": "dev/BetaGraph.md",
         "PaperPhoto": "1075.jpg",
-        "TagName": "ElementRelationshipDiagram"
+        "TagName": "BetaGraph"
     },
     {
-        "PagePath": "dev/ElementsGraph.md",
+        "PagePath": "dev/BetaGraph.md",
         "PaperPhoto": "1075.jpg",
-        "TagName": "ElementRelationshipDiagram.ElementDependencies"
+        "TagName": "BetaGraph.ElementDependencies"
     },
     {
-        "PagePath": "dev/ElementsGraph.md",
+        "PagePath": "dev/BetaGraph.md",
         "PaperPhoto": "1099.jpg",
-        "TagName": "ElementRelationshipDiagram"
+        "TagName": "BetaGraph"
     },
     {
-        "PagePath": "dev/ElementsGraph.md",
+        "PagePath": "dev/BetaGraph.md",
         "PaperPhoto": "1186.jpg",
         "TagName": "Dev.Pictogram"
     },
     {
-        "PagePath": "dev/ElementsGraph.md",
+        "PagePath": "dev/BetaGraph.md",
         "PaperPhoto": "1187.jpg",
-        "TagName": "ElementRelationshipDiagram"
+        "TagName": "BetaGraph"
     },
     {
-        "PagePath": "dev/ElementsGraph.md",
+        "PagePath": "dev/BetaGraph.md",
         "PaperPhoto": "1188.jpg",
-        "TagName": "ElementRelationshipDiagram"
+        "TagName": "BetaGraph"
     },
     {
-        "PagePath": "dev/ElementsGraph.md",
+        "PagePath": "dev/BetaGraph.md",
         "PaperPhoto": "1228.jpg",
-        "TagName": "ElementRelationshipDiagram"
+        "TagName": "BetaGraph"
     },
     {
-        "PagePath": "dev/ElementsGraph.md",
+        "PagePath": "dev/BetaGraph.md",
         "PaperPhoto": "1235.jpg",
-        "TagName": "ElementRelationshipDiagram"
+        "TagName": "BetaGraph"
     },
     {
-        "PagePath": "dev/ElementsGraph.md",
+        "PagePath": "dev/BetaGraph.md",
         "PaperPhoto": "1272.jpg",
-        "TagName": "ElementRelationshipDiagram"
+        "TagName": "BetaGraph"
     },
     {
-        "PagePath": "dev/ElementsGraph.md",
+        "PagePath": "dev/BetaGraph.md",
         "PaperPhoto": "1273.jpg",
-        "TagName": "ElementRelationshipDiagram"
+        "TagName": "BetaGraph"
     },
     {
-        "PagePath": "dev/ElementsGraph.md",
+        "PagePath": "dev/BetaGraph.md",
         "PaperPhoto": "1321.jpg",
-        "TagName": "ElementRelationshipDiagram"
+        "TagName": "BetaGraph"
     },
     {
-        "PagePath": "dev/ElementsGraph.md",
+        "PagePath": "dev/BetaGraph.md",
         "PaperPhoto": "1343.jpg",
-        "TagName": "ElementRelationshipDiagram"
+        "TagName": "BetaGraph"
     },
     {
-        "PagePath": "dev/ElementsGraph.md",
+        "PagePath": "dev/BetaGraph.md",
         "PaperPhoto": "1373.jpg",
         "TagName": "Dev.Element.ElementDescription"
     },
     {
-        "PagePath": "dev/ElementsGraph.md",
+        "PagePath": "dev/BetaGraph.md",
         "PaperPhoto": "1383.jpg",
         "TagName": "Dev.Element.ElementCard.Comparison(ElementCards)"
     },
     {
-        "PagePath": "dev/ElementsGraph.md",
+        "PagePath": "dev/BetaGraph.md",
         "PaperPhoto": "1386.jpg",
-        "TagName": "ElementRelationshipDiagram"
+        "TagName": "BetaGraph"
     },
     {
-        "PagePath": "dev/ElementsGraph.md",
+        "PagePath": "dev/BetaGraph.md",
         "PaperPhoto": "1406.jpg",
         "TagName": "Dev.Element.ElementCard.Comparison(ElementCards)"
     },
     {
-        "PagePath": "dev/ElementsGraph.md",
+        "PagePath": "dev/BetaGraph.md",
         "PaperPhoto": "1406.jpg",
-        "TagName": "ElementRelationshipDiagram"
+        "TagName": "BetaGraph"
     },
     {
-        "PagePath": "dev/ElementsGraph.md",
+        "PagePath": "dev/BetaGraph.md",
         "PaperPhoto": "1424.jpg",
-        "TagName": "ElementRelationshipDiagram"
+        "TagName": "BetaGraph"
     },
     {
-        "PagePath": "dev/ElementsGraph.md",
+        "PagePath": "dev/BetaGraph.md",
         "PaperPhoto": "1425.jpg",
         "TagName": "Dev.Pictogram"
     },
     {
-        "PagePath": "dev/ElementsGraph.md",
+        "PagePath": "dev/BetaGraph.md",
         "PaperPhoto": "1425.jpg",
         "TagName": "Dev.Pictogram.PictogramComparison"
     },
     {
-        "PagePath": "dev/ElementsGraph.md",
+        "PagePath": "dev/BetaGraph.md",
         "PaperPhoto": "1468.jpg",
         "TagName": "Dev.Pictogram"
     },
     {
-        "PagePath": "dev/ElementsGraph.md",
+        "PagePath": "dev/BetaGraph.md",
         "PaperPhoto": "1474.jpg",
         "TagName": "Dev.Pictogram"
     },
     {
-        "PagePath": "dev/ElementsGraph.md",
+        "PagePath": "dev/BetaGraph.md",
         "PaperPhoto": "1474.jpg",
-        "TagName": "ElementRelationshipDiagram"
+        "TagName": "BetaGraph"
     },
     {
-        "PagePath": "dev/ElementsGraph.md",
+        "PagePath": "dev/BetaGraph.md",
         "PaperPhoto": "1489.jpg",
         "TagName": "Dev.Element.ElementCard.Comparison(ElementCards)"
     },
     {
-        "PagePath": "dev/ElementsGraph.md",
+        "PagePath": "dev/BetaGraph.md",
         "PaperPhoto": "1498.jpg",
         "TagName": "Dev.Pictogram"
     },
     {
-        "PagePath": "dev/ElementsGraph.md",
+        "PagePath": "dev/BetaGraph.md",
         "PaperPhoto": "1498.jpg",
         "TagName": "Dev.Pictogram.PictogramComparison"
     },
     {
-        "PagePath": "dev/ElementsGraph.md",
+        "PagePath": "dev/BetaGraph.md",
         "PaperPhoto": "1499.jpg",
-        "TagName": "ElementRelationshipDiagram"
+        "TagName": "BetaGraph"
     },
     {
-        "PagePath": "dev/ElementsGraph.md",
+        "PagePath": "dev/BetaGraph.md",
         "PaperPhoto": "1521.jpg",
         "TagName": "Dev.Pictogram"
     },
     {
-        "PagePath": "dev/ElementsGraph.md",
+        "PagePath": "dev/BetaGraph.md",
         "PaperPhoto": "1524.jpg",
         "TagName": "Dev.Element.ElementComposition"
     },
     {
-        "PagePath": "dev/ElementsGraph.md",
+        "PagePath": "dev/BetaGraph.md",
         "PaperPhoto": "1524.jpg",
         "TagName": "Dev.Pictogram"
     },
     {
-        "PagePath": "dev/ElementsGraph.md",
+        "PagePath": "dev/BetaGraph.md",
         "PaperPhoto": "1524.jpg",
         "TagName": "Dev.Pictogram.PictogramComparison"
     },
     {
-        "PagePath": "dev/ElementsGraph.md",
+        "PagePath": "dev/BetaGraph.md",
         "PaperPhoto": "1524.jpg",
-        "TagName": "ElementRelationshipDiagram"
+        "TagName": "BetaGraph"
     },
     {
-        "PagePath": "dev/ElementsGraph.md",
+        "PagePath": "dev/BetaGraph.md",
         "PaperPhoto": "1527.jpg",
         "TagName": "Dev.Element.ElementCard.Comparison(ElementCards)"
     },
     {
-        "PagePath": "dev/ElementsGraph.md",
+        "PagePath": "dev/BetaGraph.md",
         "PaperPhoto": "1546.jpg",
         "TagName": "Dev.Pictogram"
     },
     {
-        "PagePath": "dev/ElementsGraph.md",
+        "PagePath": "dev/BetaGraph.md",
         "PaperPhoto": "1546.jpg",
         "TagName": "Dev.Pictogram.PictogramComparison"
     },
     {
-        "PagePath": "dev/ElementsGraph.md",
+        "PagePath": "dev/BetaGraph.md",
         "PaperPhoto": "1561.jpg",
         "TagName": "Dev.Element.ElementComposition"
     },
     {
-        "PagePath": "dev/ElementsGraph.md",
+        "PagePath": "dev/BetaGraph.md",
         "PaperPhoto": "1572.jpg",
-        "TagName": "ElementRelationshipDiagram"
+        "TagName": "BetaGraph"
     },
     {
-        "PagePath": "dev/ElementsGraph.md",
+        "PagePath": "dev/BetaGraph.md",
         "PaperPhoto": "1581.jpg",
         "TagName": "Dev.Pictogram"
     },
     {
-        "PagePath": "dev/ElementsGraph.md",
+        "PagePath": "dev/BetaGraph.md",
         "PaperPhoto": "1636.jpg",
         "TagName": "Dev.VennDiagram"
     },
     {
-        "PagePath": "dev/ElementsGraph.md",
+        "PagePath": "dev/BetaGraph.md",
         "PaperPhoto": "1686.jpg",
         "TagName": "Dev.Element.ElementCard.Analogy.AOE3"
     },
     {
-        "PagePath": "dev/ElementsGraph.md",
+        "PagePath": "dev/BetaGraph.md",
         "PaperPhoto": "1686.jpg",
-        "TagName": "ElementRelationshipDiagram"
+        "TagName": "BetaGraph"
     },
     {
-        "PagePath": "dev/ElementsGraph.md",
+        "PagePath": "dev/BetaGraph.md",
         "PaperPhoto": "1699.jpg",
-        "TagName": "ElementRelationshipDiagram"
+        "TagName": "BetaGraph"
     },
     {
-        "PagePath": "dev/ElementsGraph.md",
+        "PagePath": "dev/BetaGraph.md",
         "PaperPhoto": "1701.jpg",
-        "TagName": "ElementRelationshipDiagram"
+        "TagName": "BetaGraph"
     },
     {
-        "PagePath": "dev/ElementsGraph.md",
+        "PagePath": "dev/BetaGraph.md",
         "PaperPhoto": "1702.jpg",
-        "TagName": "ElementRelationshipDiagram"
+        "TagName": "BetaGraph"
     },
     {
-        "PagePath": "dev/ElementsGraph.md",
+        "PagePath": "dev/BetaGraph.md",
         "PaperPhoto": "1735.jpg",
         "TagName": "Dev.Element.ElementComposition"
     },
     {
-        "PagePath": "dev/ElementsGraph.md",
+        "PagePath": "dev/BetaGraph.md",
         "PaperPhoto": "1739.jpg",
-        "TagName": "ElementRelationshipDiagram"
+        "TagName": "BetaGraph"
     },
     {
-        "PagePath": "dev/ElementsGraph.md",
+        "PagePath": "dev/BetaGraph.md",
         "PaperPhoto": "1749.jpg",
         "TagName": "Dev.Element.ElementComposition"
     },
     {
-        "PagePath": "dev/ElementsGraph.md",
+        "PagePath": "dev/BetaGraph.md",
         "PaperPhoto": "1750.jpg",
-        "TagName": "ElementRelationshipDiagram"
+        "TagName": "BetaGraph"
     },
     {
-        "PagePath": "dev/ElementsGraph.md",
+        "PagePath": "dev/BetaGraph.md",
         "PaperPhoto": "1796.jpg",
-        "TagName": "ElementRelationshipDiagram.MetroMap"
+        "TagName": "BetaGraph.MetroMap"
     },
     {
-        "PagePath": "dev/ElementsGraph.md",
+        "PagePath": "dev/BetaGraph.md",
         "PaperPhoto": "1818.jpg",
         "TagName": "Dev.Element.ElementDescription"
     },
     {
-        "PagePath": "dev/ElementsGraph.md",
+        "PagePath": "dev/BetaGraph.md",
         "PaperPhoto": "1818.jpg",
-        "TagName": "ElementRelationshipDiagram"
+        "TagName": "BetaGraph"
     },
     {
-        "PagePath": "dev/ElementsGraph.md",
+        "PagePath": "dev/BetaGraph.md",
         "PaperPhoto": "1826.jpg",
-        "TagName": "ElementRelationshipDiagram"
+        "TagName": "BetaGraph"
     },
     {
-        "PagePath": "dev/ElementsGraph.md",
+        "PagePath": "dev/BetaGraph.md",
         "PaperPhoto": "1827.jpg",
-        "TagName": "ElementRelationshipDiagram"
+        "TagName": "BetaGraph"
     },
     {
-        "PagePath": "dev/ElementsGraph.md",
+        "PagePath": "dev/BetaGraph.md",
         "PaperPhoto": "2075.jpg",
-        "TagName": "ElementRelationshipDiagram"
+        "TagName": "BetaGraph"
     },
     {
-        "PagePath": "dev/ElementsGraph.md",
+        "PagePath": "dev/BetaGraph.md",
         "PaperPhoto": "2105.jpg",
-        "TagName": "ElementRelationshipDiagram"
+        "TagName": "BetaGraph"
     },
     {
-        "PagePath": "dev/ElementsGraph.md",
+        "PagePath": "dev/BetaGraph.md",
         "PaperPhoto": "2263.jpg",
-        "TagName": "ElementRelationshipDiagram"
+        "TagName": "BetaGraph"
     },
     {
-        "PagePath": "dev/ElementsGraph.md",
+        "PagePath": "dev/BetaGraph.md",
         "PaperPhoto": "2448.jpg",
-        "TagName": "ElementRelationshipDiagram"
+        "TagName": "BetaGraph"
     },
     {
-        "PagePath": "dev/ElementsGraph.md",
+        "PagePath": "dev/BetaGraph.md",
         "PaperPhoto": "2471.jpg",
-        "TagName": "ElementRelationshipDiagram"
+        "TagName": "BetaGraph"
     },
     {
-        "PagePath": "dev/ElementsGraph.md",
+        "PagePath": "dev/BetaGraph.md",
         "PaperPhoto": "2472.jpg",
-        "TagName": "ElementRelationshipDiagram"
+        "TagName": "BetaGraph"
     },
     {
-        "PagePath": "dev/ElementsGraph.md",
+        "PagePath": "dev/BetaGraph.md",
         "PaperPhoto": "2473.jpg",
-        "TagName": "ElementRelationshipDiagram"
+        "TagName": "BetaGraph"
     },
     {
-        "PagePath": "dev/ElementsGraph.md",
+        "PagePath": "dev/BetaGraph.md",
         "PaperPhoto": "2474.jpg",
-        "TagName": "ElementRelationshipDiagram"
+        "TagName": "BetaGraph"
     },
     {
-        "PagePath": "dev/ElementsGraph.md",
+        "PagePath": "dev/BetaGraph.md",
         "PaperPhoto": "2475.jpg",
-        "TagName": "ElementRelationshipDiagram"
+        "TagName": "BetaGraph"
     },
     {
-        "PagePath": "dev/ElementsGraph.md",
+        "PagePath": "dev/BetaGraph.md",
         "PaperPhoto": "2476.jpg",
-        "TagName": "ElementRelationshipDiagram"
+        "TagName": "BetaGraph"
     },
     {
-        "PagePath": "dev/ElementsGraph.md",
+        "PagePath": "dev/BetaGraph.md",
         "PaperPhoto": "2477.jpg",
-        "TagName": "ElementRelationshipDiagram"
+        "TagName": "BetaGraph"
     },
     {
-        "PagePath": "dev/ElementsGraph.md",
+        "PagePath": "dev/BetaGraph.md",
         "PaperPhoto": "2478.jpg",
-        "TagName": "ElementRelationshipDiagram"
+        "TagName": "BetaGraph"
     },
     {
-        "PagePath": "dev/ElementsGraph.md",
+        "PagePath": "dev/BetaGraph.md",
         "PaperPhoto": "2479.jpg",
-        "TagName": "ElementRelationshipDiagram"
+        "TagName": "BetaGraph"
     },
     {
-        "PagePath": "dev/ElementsGraph.md",
+        "PagePath": "dev/BetaGraph.md",
         "PaperPhoto": "2480.jpg",
-        "TagName": "ElementRelationshipDiagram"
+        "TagName": "BetaGraph"
     },
     {
-        "PagePath": "dev/ElementsGraph.md",
+        "PagePath": "dev/BetaGraph.md",
         "PaperPhoto": "2481.jpg",
-        "TagName": "ElementRelationshipDiagram"
+        "TagName": "BetaGraph"
     },
     {
-        "PagePath": "dev/ElementsGraph.md",
+        "PagePath": "dev/BetaGraph.md",
         "PaperPhoto": "2482.jpg",
-        "TagName": "ElementRelationshipDiagram"
+        "TagName": "BetaGraph"
     },
     {
-        "PagePath": "dev/ElementsGraph.md",
+        "PagePath": "dev/BetaGraph.md",
         "PaperPhoto": "2483.jpg",
-        "TagName": "ElementRelationshipDiagram"
+        "TagName": "BetaGraph"
     },
     {
-        "PagePath": "dev/ElementsGraph.md",
+        "PagePath": "dev/BetaGraph.md",
         "PaperPhoto": "2484.jpg",
-        "TagName": "ElementRelationshipDiagram"
+        "TagName": "BetaGraph"
     },
     {
-        "PagePath": "dev/ElementsGraph.md",
+        "PagePath": "dev/BetaGraph.md",
         "PaperPhoto": "2485.jpg",
-        "TagName": "ElementRelationshipDiagram"
+        "TagName": "BetaGraph"
     },
     {
-        "PagePath": "dev/ElementsGraph.md",
+        "PagePath": "dev/BetaGraph.md",
         "PaperPhoto": "2486.jpg",
-        "TagName": "ElementRelationshipDiagram"
+        "TagName": "BetaGraph"
     },
     {
-        "PagePath": "dev/ElementsGraph.md",
+        "PagePath": "dev/BetaGraph.md",
         "PaperPhoto": "2487.jpg",
-        "TagName": "ElementRelationshipDiagram"
+        "TagName": "BetaGraph"
     },
     {
-        "PagePath": "dev/ElementsGraph.md",
+        "PagePath": "dev/BetaGraph.md",
         "PaperPhoto": "2488.jpg",
-        "TagName": "ElementRelationshipDiagram"
+        "TagName": "BetaGraph"
     },
     {
-        "PagePath": "dev/ElementsGraph.md",
+        "PagePath": "dev/BetaGraph.md",
         "PaperPhoto": "2495.jpg",
-        "TagName": "ElementRelationshipDiagram"
+        "TagName": "BetaGraph"
     },
     {
-        "PagePath": "dev/ElementsGraph.md",
+        "PagePath": "dev/BetaGraph.md",
         "PaperPhoto": "2858.jpg",
-        "TagName": "ElementRelationshipDiagram"
+        "TagName": "BetaGraph"
     },
     {
-        "PagePath": "dev/ElementsGraph.md",
+        "PagePath": "dev/BetaGraph.md",
         "PaperPhoto": "2881.jpg",
-        "TagName": "ElementRelationshipDiagram"
+        "TagName": "BetaGraph"
     },
     {
-        "PagePath": "dev/ElementsGraph.md",
+        "PagePath": "dev/BetaGraph.md",
         "PaperPhoto": "2882.jpg",
-        "TagName": "ElementRelationshipDiagram"
+        "TagName": "BetaGraph"
     },
     {
-        "PagePath": "dev/ElementsGraph.md",
+        "PagePath": "dev/BetaGraph.md",
         "PaperPhoto": "2894.jpg",
-        "TagName": "ElementRelationshipDiagram"
+        "TagName": "BetaGraph"
     },
     {
-        "PagePath": "dev/ElementsGraph.md",
+        "PagePath": "dev/BetaGraph.md",
         "PaperPhoto": "2948.jpg",
-        "TagName": "ElementRelationshipDiagram"
+        "TagName": "BetaGraph"
     },
     {
-        "PagePath": "dev/ElementsGraph.md",
+        "PagePath": "dev/BetaGraph.md",
         "PaperPhoto": "2954.jpg",
-        "TagName": "ElementRelationshipDiagram"
+        "TagName": "BetaGraph"
     },
     {
-        "PagePath": "dev/ElementsGraph.md",
+        "PagePath": "dev/BetaGraph.md",
         "PaperPhoto": "2955.jpg",
         "TagName": "Dev.VennDiagram"
     },
     {
-        "PagePath": "dev/ElementsGraph.md",
+        "PagePath": "dev/BetaGraph.md",
         "PaperPhoto": "2955.jpg",
-        "TagName": "ElementRelationshipDiagram"
+        "TagName": "BetaGraph"
     },
     {
-        "PagePath": "dev/ElementsGraph.md",
+        "PagePath": "dev/BetaGraph.md",
         "PaperPhoto": "2957.jpg",
         "TagName": "Dev.VennDiagram"
     },
     {
-        "PagePath": "dev/ElementsGraph.md",
+        "PagePath": "dev/BetaGraph.md",
         "PaperPhoto": "2960.jpg",
-        "TagName": "ElementRelationshipDiagram"
+        "TagName": "BetaGraph"
     },
     {
-        "PagePath": "dev/ElementsGraph.md",
+        "PagePath": "dev/BetaGraph.md",
         "PaperPhoto": "2961.jpg",
-        "TagName": "ElementRelationshipDiagram"
+        "TagName": "BetaGraph"
     },
     {
-        "PagePath": "dev/ElementsGraph.md",
+        "PagePath": "dev/BetaGraph.md",
         "PaperPhoto": "2967.jpg",
         "TagName": "Dev.VennDiagram"
     },
     {
-        "PagePath": "dev/ElementsGraph.md",
+        "PagePath": "dev/BetaGraph.md",
         "PaperPhoto": "2968.jpg",
         "TagName": "Dev.VennDiagram"
     },
     {
-        "PagePath": "dev/ElementsGraph.md",
+        "PagePath": "dev/BetaGraph.md",
         "PaperPhoto": "3016.jpg",
-        "TagName": "ElementRelationshipDiagram"
+        "TagName": "BetaGraph"
     },
     {
-        "PagePath": "dev/ElementsGraph.md",
+        "PagePath": "dev/BetaGraph.md",
         "PaperPhoto": "3043.jpg",
-        "TagName": "ElementRelationshipDiagram"
+        "TagName": "BetaGraph"
     },
     {
-        "PagePath": "dev/ElementsGraph.md",
+        "PagePath": "dev/BetaGraph.md",
         "PaperPhoto": "3074.jpg",
-        "TagName": "ElementRelationshipDiagram"
+        "TagName": "BetaGraph"
     },
     {
-        "PagePath": "dev/ElementsGraph.md",
+        "PagePath": "dev/BetaGraph.md",
         "PaperPhoto": "3088.jpg",
-        "TagName": "ElementRelationshipDiagram"
+        "TagName": "BetaGraph"
     },
     {
-        "PagePath": "dev/ElementsGraph.md",
+        "PagePath": "dev/BetaGraph.md",
         "PaperPhoto": "3135.jpg",
-        "TagName": "ElementRelationshipDiagram"
+        "TagName": "BetaGraph"
     },
     {
-        "PagePath": "dev/ElementsGraph.md",
+        "PagePath": "dev/BetaGraph.md",
         "PaperPhoto": "3137.jpg",
-        "TagName": "ElementRelationshipDiagram"
+        "TagName": "BetaGraph"
     },
     {
-        "PagePath": "dev/ElementsGraph.md",
+        "PagePath": "dev/BetaGraph.md",
         "PaperPhoto": "3144.jpg",
-        "TagName": "ElementRelationshipDiagram"
+        "TagName": "BetaGraph"
     },
     {
-        "PagePath": "dev/ElementsGraph.md",
+        "PagePath": "dev/BetaGraph.md",
         "PaperPhoto": "3145.jpg",
-        "TagName": "ElementRelationshipDiagram"
+        "TagName": "BetaGraph"
     },
     {
-        "PagePath": "dev/ElementsGraph.md",
+        "PagePath": "dev/BetaGraph.md",
         "PaperPhoto": "3148.jpg",
-        "TagName": "ElementRelationshipDiagram"
+        "TagName": "BetaGraph"
     },
     {
-        "PagePath": "dev/ElementsGraph.md",
+        "PagePath": "dev/BetaGraph.md",
         "PaperPhoto": "3153.jpg",
-        "TagName": "ElementRelationshipDiagram"
+        "TagName": "BetaGraph"
     },
     {
-        "PagePath": "dev/ElementsGraph.md",
+        "PagePath": "dev/BetaGraph.md",
         "PaperPhoto": "3186.jpg",
-        "TagName": "ElementRelationshipDiagram"
+        "TagName": "BetaGraph"
     },
     {
-        "PagePath": "dev/ElementsGraph.md",
+        "PagePath": "dev/BetaGraph.md",
         "PaperPhoto": "3225.jpg",
-        "TagName": "ElementRelationshipDiagram"
+        "TagName": "BetaGraph"
     },
     {
-        "PagePath": "dev/ElementsGraph.md",
+        "PagePath": "dev/BetaGraph.md",
         "PaperPhoto": "3253.jpg",
-        "TagName": "ElementRelationshipDiagram"
+        "TagName": "BetaGraph"
     },
     {
-        "PagePath": "dev/ElementsGraph.md",
+        "PagePath": "dev/BetaGraph.md",
         "PaperPhoto": "3256.jpg",
-        "TagName": "ElementRelationshipDiagram"
+        "TagName": "BetaGraph"
     },
     {
-        "PagePath": "dev/ElementsGraph.md",
+        "PagePath": "dev/BetaGraph.md",
         "PaperPhoto": "3289.jpg",
-        "TagName": "ElementRelationshipDiagram"
+        "TagName": "BetaGraph"
     },
     {
-        "PagePath": "dev/ElementsGraph.md",
+        "PagePath": "dev/BetaGraph.md",
         "PaperPhoto": "3290.jpg",
-        "TagName": "ElementRelationshipDiagram"
+        "TagName": "BetaGraph"
     },
     {
-        "PagePath": "dev/ElementsGraph.md",
+        "PagePath": "dev/BetaGraph.md",
         "PaperPhoto": "3291.jpg",
-        "TagName": "ElementRelationshipDiagram"
+        "TagName": "BetaGraph"
     },
     {
-        "PagePath": "dev/ElementsGraph.md",
+        "PagePath": "dev/BetaGraph.md",
         "PaperPhoto": "3302.jpg",
-        "TagName": "ElementRelationshipDiagram"
+        "TagName": "BetaGraph"
     },
     {
-        "PagePath": "dev/ElementsGraph.md",
+        "PagePath": "dev/BetaGraph.md",
         "PaperPhoto": "3311.jpg",
         "TagName": "Dev.VennDiagram"
     },
     {
-        "PagePath": "dev/ElementsGraph.md",
+        "PagePath": "dev/BetaGraph.md",
         "PaperPhoto": "3321.jpg",
-        "TagName": "ElementRelationshipDiagram"
+        "TagName": "BetaGraph"
     },
     {
-        "PagePath": "dev/ElementsGraph.md",
+        "PagePath": "dev/BetaGraph.md",
         "PaperPhoto": "90002.jpg",
         "TagName": "Dev.VennDiagram"
     },
     {
-        "PagePath": "dev/ElementsGraph.md",
+        "PagePath": "dev/BetaGraph.md",
         "PaperPhoto": "90002.jpg",
-        "TagName": "ElementRelationshipDiagram"
+        "TagName": "BetaGraph"
     },
     {
-        "PagePath": "dev/ElementsGraph.md",
+        "PagePath": "dev/BetaGraph.md",
         "PaperPhoto": "90003.jpg",
-        "TagName": "ElementRelationshipDiagram"
+        "TagName": "BetaGraph"
     },
     {
-        "PagePath": "dev/ElementsGraph.md",
+        "PagePath": "dev/BetaGraph.md",
         "PaperPhoto": "90006.jpg",
-        "TagName": "ElementRelationshipDiagram"
+        "TagName": "BetaGraph"
     },
     {
-        "PagePath": "dev/ElementsGraph.md",
+        "PagePath": "dev/BetaGraph.md",
         "PaperPhoto": "90008.jpg",
-        "TagName": "ElementRelationshipDiagram.MetroMap"
+        "TagName": "BetaGraph.MetroMap"
     },
     {
-        "PagePath": "dev/ElementsGraph.md",
+        "PagePath": "dev/BetaGraph.md",
         "PaperPhoto": "90009.jpg",
-        "TagName": "ElementRelationshipDiagram"
+        "TagName": "BetaGraph"
     },
     {
-        "PagePath": "dev/ElementsGraph.md",
+        "PagePath": "dev/BetaGraph.md",
         "PaperPhoto": "90010.jpg",
-        "TagName": "ElementRelationshipDiagram"
+        "TagName": "BetaGraph"
     },
     {
-        "PagePath": "dev/ElementsGraph.md",
+        "PagePath": "dev/BetaGraph.md",
         "PaperPhoto": "90012.jpg",
         "TagName": "Dev.Element.ElementCard.Comparison(ElementCards)"
     },
     {
-        "PagePath": "dev/ElementsGraph.md",
+        "PagePath": "dev/BetaGraph.md",
         "PaperPhoto": "90014.jpg",
-        "TagName": "ElementRelationshipDiagram"
+        "TagName": "BetaGraph"
     },
     {
-        "PagePath": "dev/ElementsGraph.md",
+        "PagePath": "dev/BetaGraph.md",
         "PaperPhoto": "90015.jpg",
-        "TagName": "ElementRelationshipDiagram"
+        "TagName": "BetaGraph"
     },
     {
-        "PagePath": "dev/ElementsGraph.md",
+        "PagePath": "dev/BetaGraph.md",
         "PaperPhoto": "90016.jpg",
-        "TagName": "ElementRelationshipDiagram"
+        "TagName": "BetaGraph"
     },
     {
-        "PagePath": "dev/ElementsGraph.md",
+        "PagePath": "dev/BetaGraph.md",
         "PaperPhoto": "90017.jpg",
-        "TagName": "ElementRelationshipDiagram"
+        "TagName": "BetaGraph"
     },
     {
-        "PagePath": "dev/ElementsGraph.md",
+        "PagePath": "dev/BetaGraph.md",
         "PaperPhoto": "90018.jpg",
-        "TagName": "ElementRelationshipDiagram"
+        "TagName": "BetaGraph"
     },
     {
-        "PagePath": "dev/ElementsGraph.md",
+        "PagePath": "dev/BetaGraph.md",
         "PaperPhoto": "90021.jpg",
-        "TagName": "ElementRelationshipDiagram"
+        "TagName": "BetaGraph"
     },
     {
-        "PagePath": "dev/ElementsGraph.md",
+        "PagePath": "dev/BetaGraph.md",
         "PaperPhoto": "90023.jpg",
-        "TagName": "ElementRelationshipDiagram"
+        "TagName": "BetaGraph"
     },
     {
-        "PagePath": "dev/ElementsGraph.md",
+        "PagePath": "dev/BetaGraph.md",
         "PaperPhoto": "90024.jpg",
-        "TagName": "ElementRelationshipDiagram"
+        "TagName": "BetaGraph"
     },
     {
-        "PagePath": "dev/ElementsGraph.md",
+        "PagePath": "dev/BetaGraph.md",
         "PaperPhoto": "90026.jpg",
         "TagName": "Dev.VennDiagram"
     },
     {
-        "PagePath": "dev/ElementsGraph.md",
+        "PagePath": "dev/BetaGraph.md",
         "PaperPhoto": "90030.jpg",
-        "TagName": "ElementRelationshipDiagram"
+        "TagName": "BetaGraph"
     },
     {
-        "PagePath": "dev/ElementsGraph.md",
+        "PagePath": "dev/BetaGraph.md",
         "PaperPhoto": "90033.jpg",
-        "TagName": "ElementRelationshipDiagram.MetroMap"
+        "TagName": "BetaGraph.MetroMap"
     },
     {
-        "PagePath": "dev/ElementsGraph.md",
+        "PagePath": "dev/BetaGraph.md",
         "PaperPhoto": "90034.jpg",
-        "TagName": "ElementRelationshipDiagram.MetroMap"
+        "TagName": "BetaGraph.MetroMap"
     },
     {
-        "PagePath": "dev/ElementsGraph.md",
+        "PagePath": "dev/BetaGraph.md",
         "PaperPhoto": "90035.jpg",
-        "TagName": "ElementRelationshipDiagram.MetroMap"
+        "TagName": "BetaGraph.MetroMap"
     },
     {
-        "PagePath": "dev/ElementsGraph.md",
+        "PagePath": "dev/BetaGraph.md",
         "PaperPhoto": "90036.jpg",
-        "TagName": "ElementRelationshipDiagram.MetroMap"
+        "TagName": "BetaGraph.MetroMap"
     },
     {
-        "PagePath": "dev/ElementsGraph.md",
+        "PagePath": "dev/BetaGraph.md",
         "PaperPhoto": "90037.jpg",
-        "TagName": "ElementRelationshipDiagram.MetroMap"
+        "TagName": "BetaGraph.MetroMap"
     },
     {
-        "PagePath": "dev/ElementsGraph.md",
+        "PagePath": "dev/BetaGraph.md",
         "PaperPhoto": "90038.jpg",
-        "TagName": "ElementRelationshipDiagram.MetroMap"
+        "TagName": "BetaGraph.MetroMap"
     },
     {
-        "PagePath": "dev/ElementsGraph.md",
+        "PagePath": "dev/BetaGraph.md",
         "PaperPhoto": "90039.jpg",
-        "TagName": "ElementRelationshipDiagram"
+        "TagName": "BetaGraph"
     },
     {
-        "PagePath": "dev/ElementsGraph.md",
+        "PagePath": "dev/BetaGraph.md",
         "PaperPhoto": "90039.jpg",
-        "TagName": "ElementRelationshipDiagram.MetroMap"
+        "TagName": "BetaGraph.MetroMap"
     },
     {
-        "PagePath": "dev/ElementsGraph.md",
+        "PagePath": "dev/BetaGraph.md",
         "PaperPhoto": "90048.jpg",
-        "TagName": "ElementRelationshipDiagram"
+        "TagName": "BetaGraph"
     },
     {
-        "PagePath": "dev/ElementsGraph.md",
+        "PagePath": "dev/BetaGraph.md",
         "PaperPhoto": "90049.jpg",
-        "TagName": "ElementRelationshipDiagram"
+        "TagName": "BetaGraph"
     },
     {
-        "PagePath": "dev/ElementsGraph.md",
+        "PagePath": "dev/BetaGraph.md",
         "PaperPhoto": "90050.jpg",
-        "TagName": "ElementRelationshipDiagram"
+        "TagName": "BetaGraph"
     },
     {
-        "PagePath": "dev/ElementsGraph.md",
+        "PagePath": "dev/BetaGraph.md",
         "PaperPhoto": "90051.jpg",
-        "TagName": "ElementRelationshipDiagram"
+        "TagName": "BetaGraph"
     },
     {
-        "PagePath": "dev/ElementsGraph.md",
+        "PagePath": "dev/BetaGraph.md",
         "PaperPhoto": "90052.png",
-        "TagName": "ElementRelationshipDiagram.ColorCode"
+        "TagName": "BetaGraph.ColorCode"
     },
     {
-        "PagePath": "dev/ElementsGraph.md",
+        "PagePath": "dev/BetaGraph.md",
         "PaperPhoto": "90052.png",
-        "TagName": "ElementRelationshipDiagram.ColorCode.Highlight"
+        "TagName": "BetaGraph.ColorCode.Highlight"
     },
     {
-        "PagePath": "dev/ElementsGraph.md",
+        "PagePath": "dev/BetaGraph.md",
         "PaperPhoto": "90052.png",
-        "TagName": "ElementRelationshipDiagram.EcosystemMap"
+        "TagName": "BetaGraph.EcosystemMap"
     },
     {
-        "PagePath": "dev/ElementsGraph.md",
+        "PagePath": "dev/BetaGraph.md",
         "PaperPhoto": "90052.png",
-        "TagName": "ElementRelationshipDiagram.ElementDependencies"
+        "TagName": "BetaGraph.ElementDependencies"
     },
     {
-        "PagePath": "dev/ElementsGraph.md",
+        "PagePath": "dev/BetaGraph.md",
         "PaperPhoto": "90052.png",
-        "TagName": "ElementRelationshipDiagram.ElementImportance"
+        "TagName": "BetaGraph.ElementImportance"
     },
     {
-        "PagePath": "dev/ElementsGraph.md",
+        "PagePath": "dev/BetaGraph.md",
         "PaperPhoto": "90052.png",
-        "TagName": "ElementRelationshipDiagram.ElementValue"
+        "TagName": "BetaGraph.ObjectValue"
     },
     {
-        "PagePath": "dev/ElementsGraph.md",
+        "PagePath": "dev/BetaGraph.md",
         "PaperPhoto": "90052.png",
-        "TagName": "ElementRelationshipDiagram.NodeSize"
+        "TagName": "BetaGraph.NodeSize"
     },
     {
-        "PagePath": "dev/ElementsGraph.md",
+        "PagePath": "dev/BetaGraph.md",
         "PaperPhoto": "90052.png",
-        "TagName": "ElementRelationshipDiagram.StakeholderMap"
+        "TagName": "BetaGraph.StakeholderMap"
     },
     {
-        "PagePath": "dev/ElementsGraph.md",
+        "PagePath": "dev/BetaGraph.md",
         "PaperPhoto": "90054.png",
-        "TagName": "ElementRelationshipDiagram"
+        "TagName": "BetaGraph"
     },
     {
-        "PagePath": "dev/ElementsGraph.md",
+        "PagePath": "dev/BetaGraph.md",
         "PaperPhoto": "90054.png",
-        "TagName": "ElementRelationshipDiagram.EcosystemMap"
+        "TagName": "BetaGraph.EcosystemMap"
     },
     {
-        "PagePath": "dev/ElementsGraph.md",
+        "PagePath": "dev/BetaGraph.md",
         "PaperPhoto": "90055.png",
-        "TagName": "ElementRelationshipDiagram.ColorCode"
+        "TagName": "BetaGraph.ColorCode"
     },
     {
-        "PagePath": "dev/ElementsGraph.md",
+        "PagePath": "dev/BetaGraph.md",
         "PaperPhoto": "90056.png",
-        "TagName": "ElementRelationshipDiagram.ColorCode"
+        "TagName": "BetaGraph.ColorCode"
     },
     {
-        "PagePath": "dev/ElementsGraph.md",
+        "PagePath": "dev/BetaGraph.md",
         "PaperPhoto": "90056.png",
-        "TagName": "ElementRelationshipDiagram.ElementImportance"
+        "TagName": "BetaGraph.ElementImportance"
     },
     {
-        "PagePath": "dev/ElementsGraph.md",
+        "PagePath": "dev/BetaGraph.md",
         "PaperPhoto": "90056.png",
-        "TagName": "ElementRelationshipDiagram.NodeSize"
+        "TagName": "BetaGraph.NodeSize"
     },
     {
-        "PagePath": "dev/ElementsGraph.md",
+        "PagePath": "dev/BetaGraph.md",
         "PaperPhoto": "90056.png",
-        "TagName": "ElementRelationshipDiagram.StakeholderMap"
+        "TagName": "BetaGraph.StakeholderMap"
     },
     {
-        "PagePath": "dev/ElementsGraph.md",
+        "PagePath": "dev/BetaGraph.md",
         "PaperPhoto": "90057.png",
-        "TagName": "ElementRelationshipDiagram.ElementImportance"
+        "TagName": "BetaGraph.ElementImportance"
     },
     {
-        "PagePath": "dev/ElementsGraph.md",
+        "PagePath": "dev/BetaGraph.md",
         "PaperPhoto": "90057.png",
-        "TagName": "ElementRelationshipDiagram.ElementImportance.DegreeOfInfluence"
+        "TagName": "BetaGraph.ElementImportance.DegreeOfInfluence"
     },
     {
-        "PagePath": "dev/ElementsGraph.md",
+        "PagePath": "dev/BetaGraph.md",
         "PaperPhoto": "90057.png",
-        "TagName": "ElementRelationshipDiagram.NodeSize"
+        "TagName": "BetaGraph.NodeSize"
     },
     {
-        "PagePath": "dev/ElementsGraph.md",
+        "PagePath": "dev/BetaGraph.md",
         "PaperPhoto": "90059.png",
-        "TagName": "ElementRelationshipDiagram.ColorCode"
+        "TagName": "BetaGraph.ColorCode"
     },
     {
-        "PagePath": "dev/ElementsGraph.md",
+        "PagePath": "dev/BetaGraph.md",
         "PaperPhoto": "90059.png",
-        "TagName": "ElementRelationshipDiagram.EcosystemMapPie.ConcentricRings"
+        "TagName": "BetaGraph.EcosystemMapPie.ConcentricRings"
     },
     {
-        "PagePath": "dev/ElementsGraph.md",
+        "PagePath": "dev/BetaGraph.md",
         "PaperPhoto": "90059.png",
-        "TagName": "ElementRelationshipDiagram.MetroMap"
+        "TagName": "BetaGraph.MetroMap"
     },
     {
-        "PagePath": "dev/ElementsGraph.md",
+        "PagePath": "dev/BetaGraph.md",
         "PaperPhoto": "90059.png",
-        "TagName": "ElementRelationshipDiagram.StakeholderMap"
+        "TagName": "BetaGraph.StakeholderMap"
     },
     {
-        "PagePath": "dev/ElementsGraph.md",
+        "PagePath": "dev/BetaGraph.md",
         "PaperPhoto": "90060.png",
-        "TagName": "ElementRelationshipDiagram.EcosystemMapPie.ConcentricRings"
+        "TagName": "BetaGraph.EcosystemMapPie.ConcentricRings"
     },
     {
-        "PagePath": "dev/ElementsGraph.md",
+        "PagePath": "dev/BetaGraph.md",
         "PaperPhoto": "90060.png",
-        "TagName": "ElementRelationshipDiagram.ElementValue.ElementValueExchange"
+        "TagName": "BetaGraph.ObjectValue.ObjectValueExchange"
     },
     {
-        "PagePath": "dev/ElementsGraph.md",
+        "PagePath": "dev/BetaGraph.md",
         "PaperPhoto": "90060.png",
-        "TagName": "ElementRelationshipDiagram.Hardware.Screen"
+        "TagName": "BetaGraph.Hardware.Screen"
     },
     {
-        "PagePath": "dev/ElementsGraph.md",
+        "PagePath": "dev/BetaGraph.md",
         "PaperPhoto": "90060.png",
-        "TagName": "ElementRelationshipDiagram.Hardware.Whiteboard"
+        "TagName": "BetaGraph.Hardware.Whiteboard"
     },
     {
-        "PagePath": "dev/ElementsGraph.md",
+        "PagePath": "dev/BetaGraph.md",
         "PaperPhoto": "90061.png",
-        "TagName": "ElementRelationshipDiagram.EcosystemMapPie.ConcentricRings"
+        "TagName": "BetaGraph.EcosystemMapPie.ConcentricRings"
     },
     {
-        "PagePath": "dev/ElementsGraph.md",
+        "PagePath": "dev/BetaGraph.md",
         "PaperPhoto": "90061.png",
-        "TagName": "ElementRelationshipDiagram.PostIt"
+        "TagName": "BetaGraph.PostIt"
     },
     {
-        "PagePath": "dev/ElementsGraph.md",
+        "PagePath": "dev/BetaGraph.md",
         "PaperPhoto": "90062.png",
-        "TagName": "ElementRelationshipDiagram.EcosystemMapPie.ConcentricRings"
+        "TagName": "BetaGraph.EcosystemMapPie.ConcentricRings"
     },
     {
-        "PagePath": "dev/ElementsGraph.md",
+        "PagePath": "dev/BetaGraph.md",
         "PaperPhoto": "90062.png",
-        "TagName": "ElementRelationshipDiagram.ElementValue.ElementValuePictogram"
+        "TagName": "BetaGraph.ObjectValue.ObjectValuePictogram"
     },
     {
-        "PagePath": "dev/ElementsGraph.md",
+        "PagePath": "dev/BetaGraph.md",
         "PaperPhoto": "90062.png",
-        "TagName": "ElementRelationshipDiagram.ElementValue.ElementValueType.Connects"
+        "TagName": "BetaGraph.ObjectValue.ObjectValueType.Connects"
     },
     {
-        "PagePath": "dev/ElementsGraph.md",
+        "PagePath": "dev/BetaGraph.md",
         "PaperPhoto": "90062.png",
-        "TagName": "ElementRelationshipDiagram.ElementValue.ElementValueType.Informs"
+        "TagName": "BetaGraph.ObjectValue.ObjectValueType.Informs"
     },
     {
-        "PagePath": "dev/ElementsGraph.md",
+        "PagePath": "dev/BetaGraph.md",
         "PaperPhoto": "90062.png",
-        "TagName": "ElementRelationshipDiagram.ElementValue.ElementValueType.MakeMoney"
+        "TagName": "BetaGraph.ObjectValue.ObjectValueType.MakeMoney"
     },
     {
-        "PagePath": "dev/ElementsGraph.md",
+        "PagePath": "dev/BetaGraph.md",
         "PaperPhoto": "90062.png",
-        "TagName": "ElementRelationshipDiagram.ElementValue.ElementValueType.Organizes"
+        "TagName": "BetaGraph.ObjectValue.ObjectValueType.Organizes"
     },
     {
-        "PagePath": "dev/ElementsGraph.md",
+        "PagePath": "dev/BetaGraph.md",
         "PaperPhoto": "90062.png",
-        "TagName": "ElementRelationshipDiagram.NodeSize"
+        "TagName": "BetaGraph.NodeSize"
     },
     {
-        "PagePath": "dev/ElementsGraph.md",
+        "PagePath": "dev/BetaGraph.md",
         "PaperPhoto": "90063.png",
-        "TagName": "ElementRelationshipDiagram.ElementImportance.DegreeOfInfluence"
+        "TagName": "BetaGraph.ElementImportance.DegreeOfInfluence"
     },
     {
-        "PagePath": "dev/ElementsGraph.md",
+        "PagePath": "dev/BetaGraph.md",
         "PaperPhoto": "90063.png",
-        "TagName": "ElementRelationshipDiagram.StakeholderMap"
+        "TagName": "BetaGraph.StakeholderMap"
     },
     {
-        "PagePath": "dev/ElementsGraph.md",
+        "PagePath": "dev/BetaGraph.md",
         "PaperPhoto": "90087.png",
-        "TagName": "ElementRelationshipDiagram.ElementValue"
+        "TagName": "BetaGraph.ObjectValue"
     },
     {
-        "PagePath": "dev/ElementsGraph.md",
+        "PagePath": "dev/BetaGraph.md",
         "PaperPhoto": "90087.png",
-        "TagName": "ElementRelationshipDiagram.ElementValue.ElementEvaluation"
+        "TagName": "BetaGraph.ObjectValue.ElementEvaluation"
     },
     {
-        "PagePath": "dev/ElementsGraph.md",
+        "PagePath": "dev/BetaGraph.md",
         "PaperPhoto": "90087.png",
-        "TagName": "ElementRelationshipDiagram.Phrase"
+        "TagName": "BetaGraph.Phrase"
     },
     {
-        "PagePath": "dev/ElementsGraph.md",
+        "PagePath": "dev/BetaGraph.md",
         "PaperPhoto": "90087.png",
-        "TagName": "ElementRelationshipDiagram.StakeholderMap"
+        "TagName": "BetaGraph.StakeholderMap"
     },
     {
-        "PagePath": "dev/ElementsGraph.md",
+        "PagePath": "dev/BetaGraph.md",
         "PaperPhoto": "90087.png",
-        "TagName": "ElementRelationshipDiagram.Timeline"
+        "TagName": "BetaGraph.Timeline"
     },
     {
-        "PagePath": "dev/ElementsGraph.md",
+        "PagePath": "dev/BetaGraph.md",
         "PaperPhoto": "90088.png",
-        "TagName": "ElementRelationshipDiagram.LevelOfComplexity"
+        "TagName": "BetaGraph.LevelOfComplexity"
     },
     {
-        "PagePath": "dev/ElementsGraph.md",
+        "PagePath": "dev/BetaGraph.md",
         "PaperPhoto": "90088.png",
-        "TagName": "ElementRelationshipDiagram.StakeholderMap"
+        "TagName": "BetaGraph.StakeholderMap"
     },
     {
-        "PagePath": "dev/ElementsGraph.md",
+        "PagePath": "dev/BetaGraph.md",
         "PaperPhoto": "90090.png",
-        "TagName": "ElementRelationshipDiagram.ColorCode"
+        "TagName": "BetaGraph.ColorCode"
     },
     {
-        "PagePath": "dev/ElementsGraph.md",
+        "PagePath": "dev/BetaGraph.md",
         "PaperPhoto": "90090.png",
-        "TagName": "ElementRelationshipDiagram.DirectRelationship"
+        "TagName": "BetaGraph.DirectRelationship"
     },
     {
-        "PagePath": "dev/ElementsGraph.md",
+        "PagePath": "dev/BetaGraph.md",
         "PaperPhoto": "90090.png",
-        "TagName": "ElementRelationshipDiagram.EcosystemMapPie"
+        "TagName": "BetaGraph.EcosystemMapPie"
     },
     {
-        "PagePath": "dev/ElementsGraph.md",
+        "PagePath": "dev/BetaGraph.md",
         "PaperPhoto": "90090.png",
-        "TagName": "ElementRelationshipDiagram.EcosystemMapPie.ConcentricRings"
+        "TagName": "BetaGraph.EcosystemMapPie.ConcentricRings"
     },
     {
-        "PagePath": "dev/ElementsGraph.md",
+        "PagePath": "dev/BetaGraph.md",
         "PaperPhoto": "90090.png",
-        "TagName": "ElementRelationshipDiagram.ElementRole"
+        "TagName": "BetaGraph.ElementRole"
     },
     {
-        "PagePath": "dev/ElementsGraph.md",
+        "PagePath": "dev/BetaGraph.md",
         "PaperPhoto": "90090.png",
-        "TagName": "ElementRelationshipDiagram.ElementValue.ElementEvaluation"
+        "TagName": "BetaGraph.ObjectValue.ElementEvaluation"
     },
     {
-        "PagePath": "dev/ElementsGraph.md",
+        "PagePath": "dev/BetaGraph.md",
         "PaperPhoto": "90090.png",
-        "TagName": "ElementRelationshipDiagram.Symbols"
+        "TagName": "BetaGraph.Symbols"
     },
     {
-        "PagePath": "dev/ElementsGraph.md",
+        "PagePath": "dev/BetaGraph.md",
         "PaperPhoto": "90091.png",
-        "TagName": "ElementRelationshipDiagram.ColorCode"
+        "TagName": "BetaGraph.ColorCode"
     },
     {
-        "PagePath": "dev/ElementsGraph.md",
+        "PagePath": "dev/BetaGraph.md",
         "PaperPhoto": "90091.png",
-        "TagName": "ElementRelationshipDiagram.EcosystemMapPie"
+        "TagName": "BetaGraph.EcosystemMapPie"
     },
     {
-        "PagePath": "dev/ElementsGraph.md",
+        "PagePath": "dev/BetaGraph.md",
         "PaperPhoto": "90091.png",
-        "TagName": "ElementRelationshipDiagram.EcosystemMapPie.ConcentricRings"
+        "TagName": "BetaGraph.EcosystemMapPie.ConcentricRings"
     },
     {
-        "PagePath": "dev/ElementsGraph.md",
+        "PagePath": "dev/BetaGraph.md",
         "PaperPhoto": "90091.png",
-        "TagName": "ElementRelationshipDiagram.ElementValue.ElementEvaluation"
+        "TagName": "BetaGraph.ObjectValue.ElementEvaluation"
     },
     {
-        "PagePath": "dev/ElementsGraph.md",
+        "PagePath": "dev/BetaGraph.md",
         "PaperPhoto": "90091.png",
-        "TagName": "ElementRelationshipDiagram.ElementValue.ElementValueExchange"
+        "TagName": "BetaGraph.ObjectValue.ObjectValueExchange"
     },
     {
-        "PagePath": "dev/ElementsGraph.md",
+        "PagePath": "dev/BetaGraph.md",
         "PaperPhoto": "90091.png",
-        "TagName": "ElementRelationshipDiagram.Symbols"
+        "TagName": "BetaGraph.Symbols"
     },
     {
-        "PagePath": "dev/ElementsGraph.md",
+        "PagePath": "dev/BetaGraph.md",
         "PaperPhoto": "90092.png",
-        "TagName": "ElementRelationshipDiagram.EcosystemMapPie.ConcentricRings"
+        "TagName": "BetaGraph.EcosystemMapPie.ConcentricRings"
     },
     {
-        "PagePath": "dev/ElementsGraph.md",
+        "PagePath": "dev/BetaGraph.md",
         "PaperPhoto": "90092.png",
-        "TagName": "ElementRelationshipDiagram.EcosystemMapPie.PieSection"
+        "TagName": "BetaGraph.EcosystemMapPie.PieSection"
     },
     {
-        "PagePath": "dev/ElementsGraph.md",
+        "PagePath": "dev/BetaGraph.md",
         "PaperPhoto": "90092.png",
-        "TagName": "ElementRelationshipDiagram.ElementValue"
+        "TagName": "BetaGraph.ObjectValue"
     },
     {
-        "PagePath": "dev/ElementsGraph.md",
+        "PagePath": "dev/BetaGraph.md",
         "PaperPhoto": "90092.png",
-        "TagName": "ElementRelationshipDiagram.ElementValue.ElementEvaluation"
+        "TagName": "BetaGraph.ObjectValue.ElementEvaluation"
     },
     {
-        "PagePath": "dev/ElementsGraph.md",
+        "PagePath": "dev/BetaGraph.md",
         "PaperPhoto": "90092.png",
-        "TagName": "ElementRelationshipDiagram.ElementValue.ElementValueExchange"
+        "TagName": "BetaGraph.ObjectValue.ObjectValueExchange"
     },
     {
-        "PagePath": "dev/ElementsGraph.md",
+        "PagePath": "dev/BetaGraph.md",
         "PaperPhoto": "90092.png",
-        "TagName": "ElementRelationshipDiagram.Phrase"
+        "TagName": "BetaGraph.Phrase"
     },
     {
-        "PagePath": "dev/ElementsGraph.md",
+        "PagePath": "dev/BetaGraph.md",
         "PaperPhoto": "90092.png",
-        "TagName": "ElementRelationshipDiagram.PostIt"
+        "TagName": "BetaGraph.PostIt"
     },
     {
-        "PagePath": "dev/ElementsGraph.md",
+        "PagePath": "dev/BetaGraph.md",
         "PaperPhoto": "90093.png",
-        "TagName": "ElementRelationshipDiagram.ColorCode"
+        "TagName": "BetaGraph.ColorCode"
     },
     {
-        "PagePath": "dev/ElementsGraph.md",
+        "PagePath": "dev/BetaGraph.md",
         "PaperPhoto": "90093.png",
-        "TagName": "ElementRelationshipDiagram.EcosystemMapPie.PieSection"
+        "TagName": "BetaGraph.EcosystemMapPie.PieSection"
     },
     {
-        "PagePath": "dev/ElementsGraph.md",
+        "PagePath": "dev/BetaGraph.md",
         "PaperPhoto": "90093.png",
-        "TagName": "ElementRelationshipDiagram.ElementValue.ElementValueChain"
+        "TagName": "BetaGraph.ObjectValue.ObjectValueChain"
     },
     {
-        "PagePath": "dev/ElementsGraph.md",
+        "PagePath": "dev/BetaGraph.md",
         "PaperPhoto": "90093.png",
-        "TagName": "ElementRelationshipDiagram.ElementValue.ValueAddition"
+        "TagName": "BetaGraph.ObjectValue.ValueAddition"
     },
     {
-        "PagePath": "dev/ElementsGraph.md",
+        "PagePath": "dev/BetaGraph.md",
         "PaperPhoto": "90093.png",
-        "TagName": "ElementRelationshipDiagram.ElementValue.ValueCapture"
+        "TagName": "BetaGraph.ObjectValue.ValueCapture"
     },
     {
-        "PagePath": "dev/ElementsGraph.md",
+        "PagePath": "dev/BetaGraph.md",
         "PaperPhoto": "90094.png",
-        "TagName": "ElementRelationshipDiagram.EcosystemMapPie.PieSection"
+        "TagName": "BetaGraph.EcosystemMapPie.PieSection"
     },
     {
-        "PagePath": "dev/ElementsGraph.md",
+        "PagePath": "dev/BetaGraph.md",
         "PaperPhoto": "90094.png",
-        "TagName": "ElementRelationshipDiagram.ElementValue.ElementValueChain"
+        "TagName": "BetaGraph.ObjectValue.ObjectValueChain"
     },
     {
-        "PagePath": "dev/ElementsGraph.md",
+        "PagePath": "dev/BetaGraph.md",
         "PaperPhoto": "90094.png",
-        "TagName": "ElementRelationshipDiagram.Phrase"
+        "TagName": "BetaGraph.Phrase"
     },
     {
-        "PagePath": "dev/ElementsGraph.md",
+        "PagePath": "dev/BetaGraph.md",
         "PaperPhoto": "90095.png",
-        "TagName": "ElementRelationshipDiagram.EcosystemMapPie.CentralElement"
+        "TagName": "BetaGraph.EcosystemMapPie.CentralElement"
     },
     {
-        "PagePath": "dev/ElementsGraph.md",
+        "PagePath": "dev/BetaGraph.md",
         "PaperPhoto": "90095.png",
-        "TagName": "ElementRelationshipDiagram.ElementValue.EcosystemValueProposition"
+        "TagName": "BetaGraph.ObjectValue.EcosystemValueProposition"
     },
     {
-        "PagePath": "dev/ElementsGraph.md",
+        "PagePath": "dev/BetaGraph.md",
         "PaperPhoto": "90096.png",
-        "TagName": "ElementRelationshipDiagram.EcosystemMapPie.PieSection"
+        "TagName": "BetaGraph.EcosystemMapPie.PieSection"
     },
     {
-        "PagePath": "dev/ElementsGraph.md",
+        "PagePath": "dev/BetaGraph.md",
         "PaperPhoto": "90097.png",
-        "TagName": "ElementRelationshipDiagram.ElementAction"
+        "TagName": "BetaGraph.ElementAction"
     },
     {
-        "PagePath": "dev/ElementsGraph.md",
+        "PagePath": "dev/BetaGraph.md",
         "PaperPhoto": "90097.png",
-        "TagName": "ElementRelationshipDiagram.ElementAction.Enable"
+        "TagName": "BetaGraph.ElementAction.Enable"
     },
     {
-        "PagePath": "dev/ElementsGraph.md",
+        "PagePath": "dev/BetaGraph.md",
         "PaperPhoto": "90097.png",
-        "TagName": "ElementRelationshipDiagram.ElementAction.Produce"
+        "TagName": "BetaGraph.ElementAction.Produce"
     },
     {
-        "PagePath": "dev/ElementsGraph.md",
+        "PagePath": "dev/BetaGraph.md",
         "PaperPhoto": "90097.png",
-        "TagName": "ElementRelationshipDiagram.ElementDependencies"
+        "TagName": "BetaGraph.ElementDependencies"
     },
     {
-        "PagePath": "dev/ElementsGraph.md",
+        "PagePath": "dev/BetaGraph.md",
         "PaperPhoto": "90097.png",
-        "TagName": "ElementRelationshipDiagram.ElementValue.ElementValueType.ProvidesAccess"
+        "TagName": "BetaGraph.ObjectValue.ObjectValueType.ProvidesAccess"
     },
     {
-        "PagePath": "dev/ElementsGraph.md",
+        "PagePath": "dev/BetaGraph.md",
         "PaperPhoto": "90097.png",
-        "TagName": "ElementRelationshipDiagram.ElementValue.ElementValueType.ReducesEffort"
+        "TagName": "BetaGraph.ObjectValue.ObjectValueType.ReducesEffort"
     },
     {
-        "PagePath": "dev/ElementsGraph.md",
+        "PagePath": "dev/BetaGraph.md",
         "PaperPhoto": "90097.png",
-        "TagName": "ElementRelationshipDiagram.ElementValue.ValueAddition"
+        "TagName": "BetaGraph.ObjectValue.ValueAddition"
     },
     {
-        "PagePath": "dev/ElementsGraph.md",
+        "PagePath": "dev/BetaGraph.md",
         "PaperPhoto": "90097.png",
-        "TagName": "ElementRelationshipDiagram.ElementValue.ValueCapture"
+        "TagName": "BetaGraph.ObjectValue.ValueCapture"
     },
     {
-        "PagePath": "dev/ElementsGraph.md",
+        "PagePath": "dev/BetaGraph.md",
         "PaperPhoto": "90098.png",
-        "TagName": "ElementRelationshipDiagram.EcosystemMapPie.PieSection"
+        "TagName": "BetaGraph.EcosystemMapPie.PieSection"
     },
     {
-        "PagePath": "dev/ElementsGraph.md",
+        "PagePath": "dev/BetaGraph.md",
         "PaperPhoto": "90098.png",
-        "TagName": "ElementRelationshipDiagram.ElementValue.CreateValue"
+        "TagName": "BetaGraph.ObjectValue.CreateValue"
     },
     {
-        "PagePath": "dev/ElementsGraph.md",
+        "PagePath": "dev/BetaGraph.md",
         "PaperPhoto": "90098.png",
-        "TagName": "ElementRelationshipDiagram.ElementValue.ElementValueExchange"
+        "TagName": "BetaGraph.ObjectValue.ObjectValueExchange"
     },
     {
-        "PagePath": "dev/ElementsGraph.md",
+        "PagePath": "dev/BetaGraph.md",
         "PaperPhoto": "90098.png",
-        "TagName": "ElementRelationshipDiagram.ElementValue.ValueAddition"
+        "TagName": "BetaGraph.ObjectValue.ValueAddition"
     },
     {
-        "PagePath": "dev/ElementsGraph.md",
+        "PagePath": "dev/BetaGraph.md",
         "PaperPhoto": "90098.png",
-        "TagName": "ElementRelationshipDiagram.ElementValue.ValueCapture"
+        "TagName": "BetaGraph.ObjectValue.ValueCapture"
     },
     {
-        "PagePath": "dev/ElementsGraph.md",
+        "PagePath": "dev/BetaGraph.md",
         "PaperPhoto": "90099.png",
-        "TagName": "ElementRelationshipDiagram.ElementValue.ElementValueChain"
+        "TagName": "BetaGraph.ObjectValue.ObjectValueChain"
     },
     {
-        "PagePath": "dev/ElementsGraph.md",
+        "PagePath": "dev/BetaGraph.md",
         "PaperPhoto": "90099.png",
-        "TagName": "ElementRelationshipDiagram.ElementValue.ValueAddition"
+        "TagName": "BetaGraph.ObjectValue.ValueAddition"
     },
     {
-        "PagePath": "dev/ElementsGraph.md",
+        "PagePath": "dev/BetaGraph.md",
         "PaperPhoto": "90099.png",
-        "TagName": "ElementRelationshipDiagram.Phrase"
+        "TagName": "BetaGraph.Phrase"
     },
     {
-        "PagePath": "dev/ElementsGraph.md",
+        "PagePath": "dev/BetaGraph.md",
         "PaperPhoto": "90099.png",
-        "TagName": "ElementRelationshipDiagram.PostIt"
+        "TagName": "BetaGraph.PostIt"
     },
     {
-        "PagePath": "dev/ElementsGraph.md",
+        "PagePath": "dev/BetaGraph.md",
         "PaperPhoto": "90100.png",
-        "TagName": "ElementRelationshipDiagram.ColorCode.Highlight"
+        "TagName": "BetaGraph.ColorCode.Highlight"
     },
     {
-        "PagePath": "dev/ElementsGraph.md",
+        "PagePath": "dev/BetaGraph.md",
         "PaperPhoto": "90100.png",
-        "TagName": "ElementRelationshipDiagram.EcosystemMapPie.ConcentricRings"
+        "TagName": "BetaGraph.EcosystemMapPie.ConcentricRings"
     },
     {
-        "PagePath": "dev/ElementsGraph.md",
+        "PagePath": "dev/BetaGraph.md",
         "PaperPhoto": "90100.png",
-        "TagName": "ElementRelationshipDiagram.PostIt"
+        "TagName": "BetaGraph.PostIt"
     },
     {
-        "PagePath": "dev/ElementsGraph.md",
+        "PagePath": "dev/BetaGraph.md",
         "PaperPhoto": "90101.png",
-        "TagName": "ElementRelationshipDiagram.EcosystemMapPie.ConcentricRings"
+        "TagName": "BetaGraph.EcosystemMapPie.ConcentricRings"
     },
     {
-        "PagePath": "dev/ElementsGraph.md",
+        "PagePath": "dev/BetaGraph.md",
         "PaperPhoto": "90101.png",
-        "TagName": "ElementRelationshipDiagram.PostIt"
+        "TagName": "BetaGraph.PostIt"
     },
     {
-        "PagePath": "dev/ElementsGraph.md",
+        "PagePath": "dev/BetaGraph.md",
         "PaperPhoto": "90102.png",
-        "TagName": "ElementRelationshipDiagram.EcosystemMapPie.PieSection"
+        "TagName": "BetaGraph.EcosystemMapPie.PieSection"
     },
     {
-        "PagePath": "dev/ElementsGraph.md",
+        "PagePath": "dev/BetaGraph.md",
         "PaperPhoto": "90102.png",
-        "TagName": "ElementRelationshipDiagram.Phrase"
+        "TagName": "BetaGraph.Phrase"
     },
     {
-        "PagePath": "dev/ElementsGraph.md",
+        "PagePath": "dev/BetaGraph.md",
         "PaperPhoto": "90102.png",
-        "TagName": "ElementRelationshipDiagram.Phrase.StartElement"
+        "TagName": "BetaGraph.Phrase.StartElement"
     },
     {
-        "PagePath": "dev/ElementsGraph.md",
+        "PagePath": "dev/BetaGraph.md",
         "PaperPhoto": "90102.png",
-        "TagName": "ElementRelationshipDiagram.PostIt"
+        "TagName": "BetaGraph.PostIt"
     },
     {
-        "PagePath": "dev/ElementsGraph.md",
+        "PagePath": "dev/BetaGraph.md",
         "PaperPhoto": "90103.png",
-        "TagName": "ElementRelationshipDiagram.EcosystemMapPie.PieSection"
+        "TagName": "BetaGraph.EcosystemMapPie.PieSection"
     },
     {
-        "PagePath": "dev/ElementsGraph.md",
+        "PagePath": "dev/BetaGraph.md",
         "PaperPhoto": "90103.png",
-        "TagName": "ElementRelationshipDiagram.Phrase.FinishElement"
+        "TagName": "BetaGraph.Phrase.FinishElement"
     },
     {
-        "PagePath": "dev/ElementsGraph.md",
+        "PagePath": "dev/BetaGraph.md",
         "PaperPhoto": "90103.png",
-        "TagName": "ElementRelationshipDiagram.Phrase.StartElement"
+        "TagName": "BetaGraph.Phrase.StartElement"
     },
     {
-        "PagePath": "dev/ElementsGraph.md",
+        "PagePath": "dev/BetaGraph.md",
         "PaperPhoto": "90105.png",
-        "TagName": "ElementRelationshipDiagram.EcosystemMapPie.PieSection"
+        "TagName": "BetaGraph.EcosystemMapPie.PieSection"
     },
     {
-        "PagePath": "dev/ElementsGraph.md",
+        "PagePath": "dev/BetaGraph.md",
         "PaperPhoto": "90105.png",
-        "TagName": "ElementRelationshipDiagram.Phrase.InfraElement"
+        "TagName": "BetaGraph.Phrase.InfraElement"
     },
     {
-        "PagePath": "dev/ElementsGraph.md",
+        "PagePath": "dev/BetaGraph.md",
         "PaperPhoto": "90105.png",
-        "TagName": "ElementRelationshipDiagram.Phrase.PhraseInsertion"
+        "TagName": "BetaGraph.Phrase.PhraseInsertion"
     },
     {
-        "PagePath": "dev/ElementsGraph.md",
+        "PagePath": "dev/BetaGraph.md",
         "PaperPhoto": "90105.png",
-        "TagName": "ElementRelationshipDiagram.Phrase.PhrasePop"
+        "TagName": "BetaGraph.Phrase.PhrasePop"
     },
     {
-        "PagePath": "dev/ElementsGraph.md",
+        "PagePath": "dev/BetaGraph.md",
         "PaperPhoto": "90105.png",
-        "TagName": "ElementRelationshipDiagram.Phrase.PhrasePush"
+        "TagName": "BetaGraph.Phrase.PhrasePush"
     },
     {
-        "PagePath": "dev/ElementsGraph.md",
+        "PagePath": "dev/BetaGraph.md",
         "PaperPhoto": "90105.png",
-        "TagName": "ElementRelationshipDiagram.Phrase.PhraseSplice"
+        "TagName": "BetaGraph.Phrase.PhraseSplice"
     },
     {
-        "PagePath": "dev/ElementsGraph.md",
+        "PagePath": "dev/BetaGraph.md",
         "PaperPhoto": "90105.png",
-        "TagName": "ElementRelationshipDiagram.Phrase.ReorderPhrase"
+        "TagName": "BetaGraph.Phrase.ReorderPhrase"
     },
     {
-        "PagePath": "dev/ElementsGraph.md",
+        "PagePath": "dev/BetaGraph.md",
         "PaperPhoto": "90105.png",
-        "TagName": "ElementRelationshipDiagram.Phrase.StartElement"
+        "TagName": "BetaGraph.Phrase.StartElement"
     },
     {
-        "PagePath": "dev/ElementsGraph.md",
+        "PagePath": "dev/BetaGraph.md",
         "PaperPhoto": "90106.png",
-        "TagName": "ElementRelationshipDiagram.ColorCode"
+        "TagName": "BetaGraph.ColorCode"
     },
     {
-        "PagePath": "dev/ElementsGraph.md",
+        "PagePath": "dev/BetaGraph.md",
         "PaperPhoto": "90106.png",
-        "TagName": "ElementRelationshipDiagram.ColorCode.Highlight"
+        "TagName": "BetaGraph.ColorCode.Highlight"
     },
     {
-        "PagePath": "dev/ElementsGraph.md",
+        "PagePath": "dev/BetaGraph.md",
         "PaperPhoto": "90106.png",
-        "TagName": "ElementRelationshipDiagram.EcosystemMapPie.CentralElement"
+        "TagName": "BetaGraph.EcosystemMapPie.CentralElement"
     },
     {
-        "PagePath": "dev/ElementsGraph.md",
+        "PagePath": "dev/BetaGraph.md",
         "PaperPhoto": "90106.png",
-        "TagName": "ElementRelationshipDiagram.EcosystemMapPie.ConcentricRings"
+        "TagName": "BetaGraph.EcosystemMapPie.ConcentricRings"
     },
     {
-        "PagePath": "dev/ElementsGraph.md",
+        "PagePath": "dev/BetaGraph.md",
         "PaperPhoto": "90106.png",
-        "TagName": "ElementRelationshipDiagram.EcosystemMapPie.ConcentricRings.RingLabel"
+        "TagName": "BetaGraph.EcosystemMapPie.ConcentricRings.RingLabel"
     },
     {
-        "PagePath": "dev/ElementsGraph.md",
+        "PagePath": "dev/BetaGraph.md",
         "PaperPhoto": "90106.png",
-        "TagName": "ElementRelationshipDiagram.EcosystemMapPie.PieSection"
+        "TagName": "BetaGraph.EcosystemMapPie.PieSection"
     },
     {
-        "PagePath": "dev/ElementsGraph.md",
+        "PagePath": "dev/BetaGraph.md",
         "PaperPhoto": "90107.png",
-        "TagName": "ElementRelationshipDiagram.ColorCode"
+        "TagName": "BetaGraph.ColorCode"
     },
     {
-        "PagePath": "dev/ElementsGraph.md",
+        "PagePath": "dev/BetaGraph.md",
         "PaperPhoto": "90107.png",
-        "TagName": "ElementRelationshipDiagram.ColorCode.Highlight"
+        "TagName": "BetaGraph.ColorCode.Highlight"
     },
     {
-        "PagePath": "dev/ElementsGraph.md",
+        "PagePath": "dev/BetaGraph.md",
         "PaperPhoto": "90107.png",
-        "TagName": "ElementRelationshipDiagram.EcosystemMapPie.CentralElement"
+        "TagName": "BetaGraph.EcosystemMapPie.CentralElement"
     },
     {
-        "PagePath": "dev/ElementsGraph.md",
+        "PagePath": "dev/BetaGraph.md",
         "PaperPhoto": "90107.png",
-        "TagName": "ElementRelationshipDiagram.EcosystemMapPie.ConcentricRings"
+        "TagName": "BetaGraph.EcosystemMapPie.ConcentricRings"
     },
     {
-        "PagePath": "dev/ElementsGraph.md",
+        "PagePath": "dev/BetaGraph.md",
         "PaperPhoto": "90107.png",
-        "TagName": "ElementRelationshipDiagram.EcosystemMapPie.ConcentricRings.RingLabel"
+        "TagName": "BetaGraph.EcosystemMapPie.ConcentricRings.RingLabel"
     },
     {
-        "PagePath": "dev/ElementsGraph.md",
+        "PagePath": "dev/BetaGraph.md",
         "PaperPhoto": "90107.png",
-        "TagName": "ElementRelationshipDiagram.EcosystemMapPie.PieSection"
+        "TagName": "BetaGraph.EcosystemMapPie.PieSection"
     },
     {
-        "PagePath": "dev/ElementsGraph.md",
+        "PagePath": "dev/BetaGraph.md",
         "PaperPhoto": "90108.png",
-        "TagName": "ElementRelationshipDiagram.ColorCode"
+        "TagName": "BetaGraph.ColorCode"
     },
     {
-        "PagePath": "dev/ElementsGraph.md",
+        "PagePath": "dev/BetaGraph.md",
         "PaperPhoto": "90108.png",
-        "TagName": "ElementRelationshipDiagram.ElementValue.ElementValueExchange"
+        "TagName": "BetaGraph.ObjectValue.ObjectValueExchange"
     },
     {
-        "PagePath": "dev/ElementsGraph.md",
+        "PagePath": "dev/BetaGraph.md",
         "PaperPhoto": "90108.png",
-        "TagName": "ElementRelationshipDiagram.LevelOfComplexity"
+        "TagName": "BetaGraph.LevelOfComplexity"
     },
     {
-        "PagePath": "dev/ElementsGraph.md",
+        "PagePath": "dev/BetaGraph.md",
         "PaperPhoto": "90109.png",
-        "TagName": "ElementRelationshipDiagram.LevelOfComplexity"
+        "TagName": "BetaGraph.LevelOfComplexity"
     },
     {
-        "PagePath": "dev/ElementsGraph.md",
+        "PagePath": "dev/BetaGraph.md",
         "PaperPhoto": "90110.png",
-        "TagName": "ElementRelationshipDiagram.ColorCode"
+        "TagName": "BetaGraph.ColorCode"
     },
     {
-        "PagePath": "dev/ElementsGraph.md",
+        "PagePath": "dev/BetaGraph.md",
         "PaperPhoto": "90110.png",
-        "TagName": "ElementRelationshipDiagram.ElementValue.ElementValueExchange"
+        "TagName": "BetaGraph.ObjectValue.ObjectValueExchange"
     },
     {
-        "PagePath": "dev/ElementsGraph.md",
+        "PagePath": "dev/BetaGraph.md",
         "PaperPhoto": "90111.png",
-        "TagName": "ElementRelationshipDiagram.ColorCode"
+        "TagName": "BetaGraph.ColorCode"
     },
     {
-        "PagePath": "dev/ElementsGraph.md",
+        "PagePath": "dev/BetaGraph.md",
         "PaperPhoto": "90111.png",
-        "TagName": "ElementRelationshipDiagram.ElementValue.ElementValueExchange"
+        "TagName": "BetaGraph.ObjectValue.ObjectValueExchange"
     },
     {
-        "PagePath": "dev/ElementsGraph.md",
+        "PagePath": "dev/BetaGraph.md",
         "PaperPhoto": "90112.png",
-        "TagName": "ElementRelationshipDiagram.PostIt"
+        "TagName": "BetaGraph.PostIt"
     },
     {
-        "PagePath": "dev/ElementsGraph.md",
+        "PagePath": "dev/BetaGraph.md",
         "PaperPhoto": "90113.png",
-        "TagName": "ElementRelationshipDiagram.NodeSize"
+        "TagName": "BetaGraph.NodeSize"
     },
     {
-        "PagePath": "dev/ElementsGraph.md",
+        "PagePath": "dev/BetaGraph.md",
         "PaperPhoto": "90114.png",
-        "TagName": "ElementRelationshipDiagram.ElementValue.ElementValueExchange"
+        "TagName": "BetaGraph.ObjectValue.ObjectValueExchange"
     },
     {
-        "PagePath": "dev/ElementsGraph.md",
+        "PagePath": "dev/BetaGraph.md",
         "PaperPhoto": "90114.png",
-        "TagName": "ElementRelationshipDiagram.NodeSize"
+        "TagName": "BetaGraph.NodeSize"
     },
     {
-        "PagePath": "dev/ElementsGraph.md",
+        "PagePath": "dev/BetaGraph.md",
         "PaperPhoto": "90115.png",
-        "TagName": "ElementRelationshipDiagram.ColorCode"
+        "TagName": "BetaGraph.ColorCode"
     },
     {
-        "PagePath": "dev/ElementsGraph.md",
+        "PagePath": "dev/BetaGraph.md",
         "PaperPhoto": "90115.png",
-        "TagName": "ElementRelationshipDiagram.EcosystemMapPie.ConcentricRings"
+        "TagName": "BetaGraph.EcosystemMapPie.ConcentricRings"
     },
     {
-        "PagePath": "dev/ElementsGraph.md",
+        "PagePath": "dev/BetaGraph.md",
         "PaperPhoto": "90115.png",
-        "TagName": "ElementRelationshipDiagram.EcosystemMapPie.ConcentricRings.RingLabel"
+        "TagName": "BetaGraph.EcosystemMapPie.ConcentricRings.RingLabel"
     },
     {
-        "PagePath": "dev/ElementsGraph.md",
+        "PagePath": "dev/BetaGraph.md",
         "PaperPhoto": "90115.png",
-        "TagName": "ElementRelationshipDiagram.ElementValue.ElementValueExchange"
+        "TagName": "BetaGraph.ObjectValue.ObjectValueExchange"
     },
     {
-        "PagePath": "dev/ElementsGraph.md",
+        "PagePath": "dev/BetaGraph.md",
         "PaperPhoto": "90134.png",
-        "TagName": "ElementRelationshipDiagram.ElementValue.ElementValueType.AvoidsHassles"
+        "TagName": "BetaGraph.ObjectValue.ObjectValueType.AvoidsHassles"
     },
     {
-        "PagePath": "dev/ElementsGraph.md",
+        "PagePath": "dev/BetaGraph.md",
         "PaperPhoto": "90134.png",
-        "TagName": "ElementRelationshipDiagram.ElementValue.ElementValueType.Connects"
+        "TagName": "BetaGraph.ObjectValue.ObjectValueType.Connects"
     },
     {
-        "PagePath": "dev/ElementsGraph.md",
+        "PagePath": "dev/BetaGraph.md",
         "PaperPhoto": "90134.png",
-        "TagName": "ElementRelationshipDiagram.ElementValue.ElementValueType.Informs"
+        "TagName": "BetaGraph.ObjectValue.ObjectValueType.Informs"
     },
     {
-        "PagePath": "dev/ElementsGraph.md",
+        "PagePath": "dev/BetaGraph.md",
         "PaperPhoto": "90134.png",
-        "TagName": "ElementRelationshipDiagram.ElementValue.ElementValueType.Integrates"
+        "TagName": "BetaGraph.ObjectValue.ObjectValueType.Integrates"
     },
     {
-        "PagePath": "dev/ElementsGraph.md",
+        "PagePath": "dev/BetaGraph.md",
         "PaperPhoto": "90134.png",
-        "TagName": "ElementRelationshipDiagram.ElementValue.ElementValueType.MakeMoney"
+        "TagName": "BetaGraph.ObjectValue.ObjectValueType.MakeMoney"
     },
     {
-        "PagePath": "dev/ElementsGraph.md",
+        "PagePath": "dev/BetaGraph.md",
         "PaperPhoto": "90134.png",
-        "TagName": "ElementRelationshipDiagram.ElementValue.ElementValueType.Motivation"
+        "TagName": "BetaGraph.ObjectValue.ObjectValueType.Motivation"
     },
     {
-        "PagePath": "dev/ElementsGraph.md",
+        "PagePath": "dev/BetaGraph.md",
         "PaperPhoto": "90134.png",
-        "TagName": "ElementRelationshipDiagram.ElementValue.ElementValueType.Organizes"
+        "TagName": "BetaGraph.ObjectValue.ObjectValueType.Organizes"
     },
     {
-        "PagePath": "dev/ElementsGraph.md",
+        "PagePath": "dev/BetaGraph.md",
         "PaperPhoto": "90134.png",
-        "TagName": "ElementRelationshipDiagram.ElementValue.ElementValueType.ProvidesAccess"
+        "TagName": "BetaGraph.ObjectValue.ObjectValueType.ProvidesAccess"
     },
     {
-        "PagePath": "dev/ElementsGraph.md",
+        "PagePath": "dev/BetaGraph.md",
         "PaperPhoto": "90134.png",
-        "TagName": "ElementRelationshipDiagram.ElementValue.ElementValueType.Quality"
+        "TagName": "BetaGraph.ObjectValue.ObjectValueType.Quality"
     },
     {
-        "PagePath": "dev/ElementsGraph.md",
+        "PagePath": "dev/BetaGraph.md",
         "PaperPhoto": "90134.png",
-        "TagName": "ElementRelationshipDiagram.ElementValue.ElementValueType.ReducesCost"
+        "TagName": "BetaGraph.ObjectValue.ObjectValueType.ReducesCost"
     },
     {
-        "PagePath": "dev/ElementsGraph.md",
+        "PagePath": "dev/BetaGraph.md",
         "PaperPhoto": "90134.png",
-        "TagName": "ElementRelationshipDiagram.ElementValue.ElementValueType.ReducesEffort"
+        "TagName": "BetaGraph.ObjectValue.ObjectValueType.ReducesEffort"
     },
     {
-        "PagePath": "dev/ElementsGraph.md",
+        "PagePath": "dev/BetaGraph.md",
         "PaperPhoto": "90134.png",
-        "TagName": "ElementRelationshipDiagram.ElementValue.ElementValueType.ReducesRisk"
+        "TagName": "BetaGraph.ObjectValue.ObjectValueType.ReducesRisk"
     },
     {
-        "PagePath": "dev/ElementsGraph.md",
+        "PagePath": "dev/BetaGraph.md",
         "PaperPhoto": "90134.png",
-        "TagName": "ElementRelationshipDiagram.ElementValue.ElementValueType.SavesTime"
+        "TagName": "BetaGraph.ObjectValue.ObjectValueType.SavesTime"
     },
     {
-        "PagePath": "dev/ElementsGraph.md",
+        "PagePath": "dev/BetaGraph.md",
         "PaperPhoto": "90134.png",
-        "TagName": "ElementRelationshipDiagram.ElementValue.ElementValueType.SensoryAppeal"
+        "TagName": "BetaGraph.ObjectValue.ObjectValueType.SensoryAppeal"
     },
     {
-        "PagePath": "dev/ElementsGraph.md",
+        "PagePath": "dev/BetaGraph.md",
         "PaperPhoto": "90134.png",
-        "TagName": "ElementRelationshipDiagram.ElementValue.ElementValueType.Simplifies"
+        "TagName": "BetaGraph.ObjectValue.ObjectValueType.Simplifies"
     },
     {
-        "PagePath": "dev/ElementsGraph.md",
+        "PagePath": "dev/BetaGraph.md",
         "PaperPhoto": "90134.png",
-        "TagName": "ElementRelationshipDiagram.ElementValue.ElementValueType.Variety"
+        "TagName": "BetaGraph.ObjectValue.ObjectValueType.Variety"
     },
     {
         "PagePath": "dev/Graphics/BetaGraphic/Overview.md",

@@ -3,11 +3,11 @@
 
 ![MotoIcon](/Moto/Moto_Icon.png)
 
-## Element Problem
+## ArmProp.Problem
 
 -
 
-## Element Theorem
+## ArmProp.Theorem
 
 -
 
@@ -36,15 +36,19 @@
     </div>
 </div>
 
-## Element Purpose
+## ArmProp.Purpose
 
--
+- To downclimb
+- To lift leg over log
 
-## Element Properties
+## ArmProp.Properties
 
--
+- ArmAngle
+- HandPosition
+- ArmPosition
+    - <via>ArmAboveShoulder</via>
 
-## ElementRelationshipsGraph
+## BetaGraph
 
 <iframe
     width="100%"
@@ -55,11 +59,12 @@
 
 ## Related <moto>MotoElements</moto>
 
--
+- 🟠<moto>HandSmear</moto>
+- 🟠<moto>ArmLock</moto>
 
 ## Related 🟩<eco>EcoElements</eco>
 
--
+- 🟩<eco>Log</eco>
 
 ## Related 🔻<via>ViaElements</via>
 
@@ -98,7 +103,7 @@ Links to other related motos. Related because they are the same MotoType or beca
 
 ## DevNotes
 
--
+- What determines ArmAngle to maintain Spine Position?
 
 ## DevState
 

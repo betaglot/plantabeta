@@ -24,11 +24,19 @@ AI to overlay Screenshot with Voronoi Diagram
 
 ## Voronoi Diagram
 
+AlsoKnownAs(Tessellation)
+
 Voronoi Daigrams are used to quantify density.
+
+Nearest Neighbor
 
 ### VoronoiCell
 
-#### Angles
+Cells are constructed around sites, the edges of the cell are the midline between two neighboring sites.
+
+All points within the cell are closer to the site than to any other point.
+
+#### Angles of the Voronoi Cell
 
 AcuteAngle
 
@@ -36,7 +44,7 @@ RightAngle
 
 ObliqueAngle
 
-#### Edges
+#### Edges of the Voronoi Cell
 
 What is the optimal EdgeCount when planting 6s?
 

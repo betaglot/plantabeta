@@ -11,6 +11,10 @@ A plot is almost always a circle, some checkers implement the plot as a sphere. 
 
 ## Plot Construction
 
+Decomposition of SemiCircle
+
+SemiPlot
+
 ## Counting
 
 ![EcoIcon](/Eco/Eco_Icon.png)

@@ -50,7 +50,7 @@ When vegetation is blowing branches, grass and shrubs into you.
 
 -
 
-## ElementRelationshipsGraph
+## BetaGraph
 
 <iframe
     width="100%"

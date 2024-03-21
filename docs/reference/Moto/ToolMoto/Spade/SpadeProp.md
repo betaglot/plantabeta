@@ -72,7 +72,7 @@ Moto/ToolMoto/Spade/SpadeProp.md, <dev>Moto.ToolMoto.SpadeMoto.SpadeProp</dev>, 
 
 -
 
-## ElementRelationshipsGraph
+## BetaGraph
 
 <iframe
     width="100%"

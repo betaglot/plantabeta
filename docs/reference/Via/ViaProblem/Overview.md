@@ -15,6 +15,18 @@ ViaProblems are created by Eco.
 
 > SetUp
 
+3 TreeProblem, CurrentTree and NextTree
+
+```py
+Analogy = {
+    'Climbing': 'Planting'
+    'Boulder': 'ViaProblem',
+    'StartHold': 'CurrentSite',
+    'BonusHold': 'SecondSite',
+    'FinishHold': 'ThirdSite'
+}
+```
+
 ## Givens
 
 Constraints
@@ -41,7 +53,7 @@ Unknown Information
 
 ## DevNotes
 
--
+- The UltimateViaProblem is to close the next hole. Planting is all about closing holes
 
 ## DevState
 

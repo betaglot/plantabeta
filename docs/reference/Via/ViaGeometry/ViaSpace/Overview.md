@@ -2,6 +2,10 @@
 
 > the Space that you move through while following a ViaCurve
 
+## Space between PlantedTrees and Microsites
+
+You're spacing for the branches of the fully grown trees.
+
 ## ViaTotalSpace
 
 > The entire ViaSpace of Piece or BagUp.

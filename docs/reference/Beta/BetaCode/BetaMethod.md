@@ -1,4 +1,4 @@
-🔷<beta>Beta Functions</beta>
+🔷<beta>Beta Methods</beta>
 
 All BetaFunctions require at least 2 modules
 
@@ -22,9 +22,20 @@ BetaVideo
 
 ## 🔷<beta>Parse(Beta)</beta>
 
-> to separate Beta into parts
+> to convert BetaString into BetaCode
 
-Separate into BetaModules
+Abstract Syntax Tree
+
+1. <beta>BetaString</beta>
+    - "Step over the log"
+
+2. <beta>BetaCode</beta>
+    - Leg.Step.Over(Log)
+
+3. Separate into <beta>BetaModules</beta> (optional step)
+    - 🟠<moto>Leg.Step()</moto>
+    - 🔻<via>Over</via>
+    - 🟩<eco>Log</eco>
 
 ## 🔷<beta>Give(Beta)</beta>
 

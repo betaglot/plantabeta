@@ -44,7 +44,7 @@
 
 -
 
-## ElementRelationshipsGraph
+## BetaGraph
 
 <iframe
     width="100%"

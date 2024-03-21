@@ -7,14 +7,38 @@
 
 ## <via>Via Symbol</via> 🔻
 
-> Red Triangle
+> Inverted Red Triangle
 
 ## What is Via ?
 
 > the interface between Moto, Neuro and Eco
-::: tip <dev>&</dev>
-<dev>Image of all the different</dev>
-:::
+
+### Road, Path, Route, through, using, composed of
+
+- <via>Via</via> Rail
+- <via>Via</via> Ferrata
+- <via>via</via>duct
+- <via>voy</via>age
+- en<via>voy</via>
+- <via>via</via>ticum
+- <via>via</via>tic
+- tri<via>vium</via>
+- de<via>viate</via>
+- ob<via>viate</via>
+- in<via>voice</via>
+- <via>way</via>
+- de<via>vious</via>, de<via>viant</via>
+- per<via>vious</via>, imper<via>vious</via>
+- "shipped <via>via</via> a ground carrier"
+- "to remove <via>via</via> cutting"
+- "<via>via</via> computer simulation"
+- "we got here quickly <via>via</via> a shortcut"
+- "<via>via</via> mandatory rules"
+- "by <via>way</via> of"
+- "connect <via>via</via> social media"
+- "advancing their interests <via>via</via> global partnerships"
+- "learn how to plant trees <via>via</via> the internet"
+- "get notified <via>via</via> text"
 
 ### Via Dimensions
 
@@ -144,6 +168,8 @@ Directions
 ## ViaProbability
 
 ## ViaComposition
+
+Eco is decomposed by composing a Via
 
 - Compose ViaCurves, ViaSpaces and ViaPoints together to Cover Land
 - Fit the ViaElements together

@@ -47,7 +47,7 @@ The Vege can be moving towards you or the vege can be stationary while you move 
 
 -
 
-## ElementRelationshipsGraph
+## BetaGraph
 
 <iframe
     width="100%"

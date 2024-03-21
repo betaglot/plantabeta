@@ -11,6 +11,10 @@ Solution is where a Planter moves
 
 ## Solve ViaProblem
 
+### Decomposition
+
+Decompose an EcoSpace into VoronoiCells
+
 ### ViaSelection
 
 Select the ViaTheorem to solve the ViaProblem.

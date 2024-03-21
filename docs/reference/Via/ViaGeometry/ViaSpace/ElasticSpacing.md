@@ -11,7 +11,7 @@
 
 -
 
-## ElementRelationshipsGraph
+## BetaGraph
 
 Graph which represents how this element is related to other elements in Put(Plant).
 <iframe
