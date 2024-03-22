@@ -138,6 +138,7 @@ Directions
 
 ## DevNotes
 
+- Find the Path of least resistance
 - Navigate
 - Surveying
 - Mapping

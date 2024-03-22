@@ -252,6 +252,7 @@ for object in BetaList:
 
 ## DevNotes
 
+- BetaCode is Declarative
 - You don't need to know Python to use Pylant in the same way that you don't need to know AssemblyCode to use Python.
 - Computational Thinking
 - Beta is written in Python, so I'm really translating Python from climbing to Planting.

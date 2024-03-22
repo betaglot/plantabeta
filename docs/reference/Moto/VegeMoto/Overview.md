@@ -1,9 +1,9 @@
 
 # 🟠 <moto>VegeMoto</moto>
 
-## Plant Anatomy
+## Vege Anatomy
 
-## Plant Properties
+## Vege Properties
 
 ::: details 🛠 <dev>&&&</dev>
 

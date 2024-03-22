@@ -20,6 +20,8 @@ Maintain your tools to ensure that they last as long a possible and to maintain 
 
 ### Taping
 
+[Tenacious Tape](https://www.gearaid.com/collections/tenacious-tape) is recommended by Patagonia
+
 - Duct Tape can be used for temporary fixes and will not last long before getting damaged again.
 
 ### Cleaning

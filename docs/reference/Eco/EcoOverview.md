@@ -7,6 +7,10 @@
 
 Eco is Geology and Botany
 
+::: info Etymology
+Ecology is a branch of science dealing with the relationship of living things to their environments
+:::
+
 ::: details 🛠 <dev>&&&</dev>
 
 ## EcoObjects
