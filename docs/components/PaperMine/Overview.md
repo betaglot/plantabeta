@@ -10,7 +10,6 @@ Use Python, SQLite and Vue to create PaperMine.
 
 PaperMine will become more important once I start gathering more Data.
 
-
 ## Python
 
 SQLAlchemy
