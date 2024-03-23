@@ -171,14 +171,21 @@ function sidebarReference() {
         },
         {
           text: '🔷 <beta>BetaScore</beta>', link: '/reference/Beta/BetaScore/Overview', collapsed: true, items: [
-            { text: '🔷 <beta>BetaExecution</beta>', link: '/reference/Beta/BetaScore/BetaExecution' },
+            { text: '🔷 <beta>BetaExecutionScore</beta>', link: '/reference/Beta/BetaScore/BetaExecution' },
             {
-              text: '🔷 <beta>BetaDifficulty</beta>', link: '/reference/Beta/BetaScore/BetaDifficulty/Overview', collapsed: true, items: [
-                { text: '🔷 <beta>BetaComplexity</beta>', link: '/reference/Beta/BetaScore/BetaDifficulty/BetaComplexity' },
-                { text: '🔷 <beta>BetaRisk</beta>', link: '/reference/Beta/BetaScore/BetaDifficulty/BetaRisk' },
-                { text: '🔷 <beta>BetaIntensity</beta>', link: '/reference/Beta/BetaScore/BetaDifficulty/BetaIntensity' }
+              text: '🔷 <beta>BetaDifficultyScore</beta>', link: '/reference/Beta/BetaScore/BetaDifficultyScore/Overview', collapsed: true, items: [
+                { text: '🔷 <beta>BetaComplexityScore</beta>', link: '/reference/Beta/BetaScore/BetaDifficulty/BetaComplexityScore' },
+                { text: '🔷 <beta>BetaRiskScore</beta>', link: '/reference/Beta/BetaScore/BetaDifficulty/BetaRiskScore' },
+                { text: '🔷 <beta>BetaIntensityScore</beta>', link: '/reference/Beta/BetaScore/BetaDifficulty/BetaIntensityScore' }
               ]
             }
+          ]
+        },
+        {
+          text: '🔷 <beta>BetaDifficulty</beta>', link: '/reference/Beta/BetaDifficulty/Overview', collapsed: true, items: [
+            { text: '🔷 <beta>BetaComplexity</beta>', link: '/reference/Beta/BetaScore/BetaDifficulty/BetaComplexity' },
+            { text: '🔷 <beta>BetaIntensity</beta>', link: '/reference/Beta/BetaScore/BetaDifficulty/BetaIntensity' },
+            { text: '🔷 <beta>BetaRisk</beta>', link: '/reference/Beta/BetaScore/BetaDifficulty/BetaRisk' }
           ]
         },
         {
@@ -190,7 +197,13 @@ function sidebarReference() {
     // #Eco
     {
       text: '🟩 <eco>Eco</eco>', collapsed: true, link: '/reference/Eco/EcoOverview', items: [
-        { text: '🔷 <eco>Eco Difficulty</eco>', link: '/reference/Eco/EcoDifficulty' },
+        {
+          text: '🔷 <eco>Eco Difficulty</eco>', link: '/reference/Eco/EcoDifficulty', collapsed: true, items: [
+            { text: '🟩 <eco>EcoComplexity</eco>', link: '/reference/Eco/EcoDifficulty/EcoComplexity' },
+            { text: '🟩 <eco>EcoIntensity</eco>', link: '/reference/Eco/EcoDifficulty/EcoIntensity' },
+            { text: '🟩 <eco>EcoRisk</eco>', link: '/reference/Eco/EcoDifficulty/EcoRisk' },
+          ]
+        },
         {
           text: '🟩 <eco>Animals</eco>', link: '/reference/Eco/Animals/Overview', collapsed: true, items: [
 
@@ -286,7 +299,13 @@ function sidebarReference() {
     {
       text: '🟠 <moto>Moto</moto>', link: '/reference/Moto/MotoOverview', collapsed: true, items: [
         { text: '🟠 <moto>Phrase</moto>', link: '/reference/Moto/Phrase/Overview' },
-        { text: '🟠 <moto>Moto Difficulty</moto>', link: '/reference/Moto/MotoDifficulty' },
+        {
+          text: '🟠 <moto>Moto Difficulty</moto>', link: '/reference/Moto/MotoDifficulty/Overview',  collapsed: true, items: [
+            { text: '🟠 <moto>EcoComplexity</moto>', link: '/reference/Moto/MotoDifficulty/MotoComplexity' },
+            { text: '🟠 <moto>EcoIntensity</moto>', link: '/reference/Moto/MotoDifficulty/MotoIntensity' },
+            { text: '🟠 <moto>EcoRisk</moto>', link: '/reference/Moto/MotoDifficulty/MotoRisk' },
+          ],
+        },
         {
           text: '🟠 <moto>MotoGeometry</moto>', collapsed: true, items: [
             { text: '🟠 <moto>Overview</moto>', link: '/reference/Moto/MotoGeometry/Overview' },

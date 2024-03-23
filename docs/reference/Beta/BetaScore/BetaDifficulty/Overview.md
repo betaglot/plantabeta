@@ -1,5 +1,5 @@
 
-# 🔷 <beta>Beta Difficulty</beta>
+# 🔷 <beta>Beta Difficulty Score</beta>
 
 ## BetaScore
 

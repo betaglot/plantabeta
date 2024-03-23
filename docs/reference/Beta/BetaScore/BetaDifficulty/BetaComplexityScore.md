@@ -1,5 +1,5 @@
 
-# 🔷 <beta>Beta Complexity</beta>
+# 🔷 <beta>Beta Complexity Score</beta>
 
 ## Maximize EcoComplexity
 

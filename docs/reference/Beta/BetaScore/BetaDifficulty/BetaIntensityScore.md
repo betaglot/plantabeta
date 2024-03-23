@@ -1,5 +1,5 @@
 
-# 🔷 <beta>Beta Risk</beta>
+# 🔷 <beta>Beta Intensity Score</beta>
 
 ::: details 🛠 <dev>&&&</dev>
 
