@@ -54,6 +54,7 @@
 
 ### Deadwalk
 
+- How can Deadwalk become useful, probably for Via.
 - Walking within a piece while **not** performing a planting Phrase.
 - Deadwalks are required to Cover very oblong areas.
 

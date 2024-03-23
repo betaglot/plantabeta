@@ -60,6 +60,7 @@ Coverin spandrels to show the mortar between ideal tree spacing spgeres
 
 ## DevNotes
 
+- ViaSpace is the sum of all ViaCurves, ViaSpace is useful to know since there are always small detours from ViaCurves, there may be an Obstacle which causes a detour. You can detour from a ViaCurve while still remaining in a ViaSpace
 - ❌<error>TooFar</error>
 - ❌<error>TooClose</error>
 - ViaSpace extends underground. You wouldn't want to step on quicksand

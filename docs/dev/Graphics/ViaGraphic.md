@@ -2,6 +2,14 @@
 
 ## ViaDiagram is a subset of ViaGraphic
 
+## Line Type
+
+DottedLine=Deadwalk
+
+SolidLine=ViaCurve
+
+CrossedLine=FlaggedLine
+
 ## Montreal Metro Map
 
 ![MontrealMetroMap](/Via/MontrealMetroMap.png)

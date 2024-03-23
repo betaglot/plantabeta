@@ -18,6 +18,7 @@ In mathematics a *line* must be straight, while a *curve* can be straight or not
 
 ## DevNotes
 
+- ViaCurve is the line of best fit
 - ViaDirection
     - ToCache
 

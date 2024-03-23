@@ -412,6 +412,8 @@ You GetTree while you're MicrositeFind()
 
 ClaudeShannon
 
+RockyLand has more information due to its unpredictable soil. CreamLand has less information than BadLand.
+
 Only send what you can't predict
 
 You don't need to communicate JugGrip you only need to communicate that you must use the JugHold.

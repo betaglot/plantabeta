@@ -93,6 +93,14 @@ is not a move, it is Beta since it is composed of 3 modules:
 
 ## 🟩<eco>Piece</eco>.<via>Cover(Boustro)</via>
 
+## 🔷<beta>"<moto>Bag up heavy</moto> to <via>backfill</via> this <eco>long piece</eco></beta>
+
+🟠<moto>BagSize</moto>
+
+🔻<via>BackCover</via>
+
+🟩<eco>Long Piece</eco>
+
 ## 🔷<beta>"<via>Line in through the</via> <eco>narrow channel </eco><neuro>then</neuro> <via>go left through</via> <eco>another channel</eco> <via>to </via>a <eco>rectangle of PerfectTrenches</eco>"</beta>
 
 1. 🔻<via>LineIn()</via>
