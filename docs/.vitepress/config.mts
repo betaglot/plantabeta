@@ -226,7 +226,6 @@ function sidebarReference() {
         {
           text: '🟩 <eco>Density</eco>', link: '/reference/Eco/Density/Overview', collapsed: true, items: [
             { text: '🟩 <eco>Plot</eco>', link: '/reference/Eco/Density/Plot' },
-
           ]
         },
         {
@@ -351,7 +350,6 @@ function sidebarReference() {
             { text: '🟠 <moto>ClothingLayer</moto>', link: '/reference/Moto/ClothingMoto/ClothingLayer' },
             { text: '🟠 <moto>RemoveMud</moto>', link: '/reference/Moto/ClothingMoto/RemoveMud' },
             { text: '🟠 <moto>ZipperMoto</moto>', link: '/reference/Moto/ClothingMoto/ZipperMoto' },
-
           ]
         },
         {
@@ -537,7 +535,6 @@ function sidebarReference() {
           ]
         },
         { text: '🟠 <moto>Kinesiology</moto>', link: '/reference/Moto/Kinesiology/KinesiologyOverview' },
-
       ],
     },
     // #Via
@@ -752,7 +749,6 @@ function sidebarTutorial() {
     { text: 'Sequencing', link: '/tutorial/Test_Sequencing' },
     { text: 'Go to Reference', link: '/reference/Overview' },
   ]
-
 }
 
 function sidebarExamples() {
