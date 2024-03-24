@@ -6,7 +6,7 @@ titleTemplate: Put(Plant)
 
 hero: 
   name: "Put(Plant)"
-  text: Tree Planting
+  text: Open Source Project
   tagline: The examples, guides, and reference you need—whether you're planting in the mountains of British Columbia, the wetlands of the Canadian Shield, or anywhere in between. Take advantage of these resources to develop your ability to plant faster and with higher quality.
   # image:
   #   src: /BetaLogo.png
