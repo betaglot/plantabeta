@@ -1,6 +1,7 @@
 
 # 🛠 Questions about Planting and Put(Plant)
 
+- What is the cyclist cone helmet of planting?
 - What is the ratio between HoleOpen and HoleClose, for NovicePlanter, ExperiencedPlanter, and on all the LandTypes?
 - What is the best time of year to plant flowers designed for bees.
 - What is the most important piece of information that a Planter needs to know?

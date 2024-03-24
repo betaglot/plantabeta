@@ -4,6 +4,12 @@ All Diagrams are Graphics, but not all graphics are Diagrams. Graphics can be im
 
 ## D3.js
 
+## SVG
+
+Svg EinsteinSpaghetti BetaDiagram
+
+Animated SVG
+
 ## Youtube Creators
 
 Copy the animated and static data structures

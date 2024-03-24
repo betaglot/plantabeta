@@ -17,6 +17,7 @@ SmoothSurface
 
 ## DevNotes
 
+- ViaSurfaces are not necessarily contiguous, like stepping stones
 - ViaSurfaces are exposures of Soil in the Land. Sometimes you must Screef to expose a ViaSurface
 - ViaSurfaces for Moto are less
 

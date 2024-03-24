@@ -10,6 +10,16 @@ Social Media is dangerous for mental health.
 
 ## Instagram
 
+### Triplet carousel
+
+1. Image
+
+2. Beta Object
+
+3. BetaDiagram
+
+Hide properties, show diagram. Graphic instead of text
+
 ## TikTok
 
 ## Facebook

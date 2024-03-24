@@ -1,13 +1,17 @@
 
 # Tutorial
 
+Active Recall is the most effective way to learn new things.
+
 Multiple choice tests, where Planters choose from a selection of images or a selection of text answers.
 
 <https://brilliant.org/>
 
+- Active Recall
 - Matching
 - Multiple Choice
-- Phrase
+- Sequencing
+- Error Dectection
 - Crosswords
 
 ## EcoTest

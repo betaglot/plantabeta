@@ -2,6 +2,14 @@
 
 All BetaFunctions require at least 2 modules
 
+## Call a Method
+
+- "Call up"
+
+- "Call to your mind"
+
+- Recall
+
 ## 🔷<beta>Ask(Beta)</beta>
 
 🟠<moto>Speak()</moto>

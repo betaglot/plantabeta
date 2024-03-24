@@ -1,11 +1,17 @@
 
 # 🛠 DX: Developer Experience
 
-::: tip Difference Between Developer and Writer
+## How can Put(Plant) be developped while in transit?
 
-A developer creates code and a writer creates the text presented to the planters.
+Learning D3.js terms
 
-:::
+Active Recall
+
+You can't type because the roads are often too bumpy
+
+Meditation
+
+I'm too tired to do anything productive on the way back.
 
 ## Python
 
