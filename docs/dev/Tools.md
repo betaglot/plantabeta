@@ -25,6 +25,10 @@ Wax to waterproof
 
 ## 🟠<moto>Planter Bags</moto>
 
+::: warning Obsolete Name
+Don't call them bags anymore
+:::
+
 ### Bags Transport Configuration
 
 Packed up space. Fold up Bag like origami
@@ -53,6 +57,8 @@ Partially Disassemble to reduce space
 ### 🟠<moto>BasketWall</moto>
 
 ### 🟠<moto>BagFrame</moto>
+
+They should be rigid and woven
 
 Silva
 
@@ -107,9 +113,15 @@ Ideally there would be a Flagger on each Vambrace
 
 ## 🟠<moto>Rope</moto>
 
+Rope to transport the tools
+
 ### 🟠<via>PlotCord</via>
 
-### 🟠<eco>Lash(SummerCache)</eco>
+### 🟠<eco>Lashing(SummerCache)</eco>
+
+Lashing requires a thinner rope than
+
+Use Hemp Lashing so you can leave the sticks to decompose
 
 ### <moto>Abrasion Resistant Material</moto>
 
@@ -118,6 +130,14 @@ Cordura or Kevlar
 - <https://www.testextextile.com/evaluating-the-abrasion-resistance-of-different-fabric-types/#Most_Abrasion-Resistant_Synthetic_Fibers>
 
 ## 🟠<moto>Kit</moto>
+
+Long thin bag is easier to sit with
+
+Theres air space between planter and the seat in front of them
+
+V shape center contact between feet
+
+What could go at base
 
 - Water container in base so that it doesn't crush or leak onto contents and so weight is close to hips
 
@@ -129,6 +149,14 @@ Cordura or Kevlar
 - Attach through gromets along border
 
 - Store the Insulation Layer
+
+### Lunch
+
+Protein Powder Cookies
+
+### Dry Bag
+
+### Dirty Gloves
 
 ## <moto>Water Volume</moto>
 
@@ -209,6 +237,8 @@ The goal of vambrace is to keep the hand clean and warm. There isn't a need to p
 
 <https://www.patagonia.ca/product/hose-down-slicker-jacket/27892.html?dwvar_27892_color=CMPO>
 
+![Canada-Goose-Straps](/Moto/Canada-Goose-Straps.png)
+
 #### 🟠<moto>Hood</moto>
 
 Put your Hood up
@@ -270,6 +300,10 @@ Seven sided hexagon with honey glue on the last side
 Treepod
 
 ## 🟩<eco>Bundle Wrapper</eco>
+
+Bush Paper: Paper made from Shrubs
+
+SlashPile Paper
 
 Reusable Waxed paper bundle wrappers
 

@@ -1,5 +1,7 @@
 # PsychologicalState
 
+> a condition
+
 All states are continuums
 
 Mental State is a tensor, all these are dimensions
@@ -15,3 +17,9 @@ MentalStateDimensions = {
     Anxiety
 }
 ```
+
+## Meditative State
+
+## Depressed State
+
+## Agitated State

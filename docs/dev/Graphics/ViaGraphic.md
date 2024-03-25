@@ -46,6 +46,8 @@ Voronoi Iteration Algorithm creates the most evenly spaced sites.
 
 ### VoronoiCell
 
+The disfigured antecell. Antecell influences current cell
+
 Cells are constructed around sites, the edges of the cell are the midline between two neighboring sites.
 
 All points within the cell are closer to the site than to any other point.
