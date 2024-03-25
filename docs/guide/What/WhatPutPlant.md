@@ -1,25 +1,25 @@
 # 🔷<beta>Put(<eco>Plant</eco>)</beta>
 
-> Put plants in the ground
+![PutHeroImage](/PutHeroImage.png)
 
-## 🔷<beta>Put(<eco>Tree</eco>)</beta>, 🔷<beta>Put(<eco>Shrub</eco>)</beta>, 🔷<beta>Put(<eco>Flower</eco>)</beta>, 🔷<beta>Put(<eco>Moss</eco>)</beta>, 🔷<beta>Put(<eco>FireResistor</eco>)</beta>, 🔷<beta>Put(<eco>Bulb</eco>)</beta>, 🔷<beta>Put(<eco>Root</eco>)</beta>, 🔷<beta>Put(<moto>Spade</moto>)</beta>, 🔷<beta>Put(<via>Flag</via>)</beta>, 🔷<beta>Put(<eco>Box</eco>)</beta>, 🔷<beta>Put(<moto>Boot</moto>)</beta>
+> a planter putting a seedling in the ground
 
-Put(Plant) is written like a computer programming language function since it's the application of computational thinking.
+## 🔷<beta>Put(<eco>Tree</eco>)</beta>, 🔷<beta>Put(<eco>Shrub</eco>)</beta>, 🔷<beta>Put(<eco>Flower</eco>)</beta>, 🔷<beta>Put(<eco>Moss</eco>)</beta>, 🔷<beta>Put(<eco>Bulb</eco>)</beta>, 🔷<beta>Put(<eco>Root</eco>)</beta>
 
-::: info Put(Plant)'s **Mission**
+::: info 🔷<beta>Put(<eco>Plant</eco>)</beta>'s **Mission**
 
-- To create a **open source** resource for planters where all knowledge is coherent and integrated into a single system which can be used to plant many types of land across the world.
-- To research and implement ways to make planters more effective by applying cutting edge interdisciplinary science to planter instruction.
-- To innovate planter tools.
+- To create a **open source** resource for planters where all knowledge about being a tree planter is coherent and integrated into a single system which can be used to plant any type of land.
+- To research and implement ways to make planters more effective by applying interdisciplinary science to planter instruction.
+- To innovate planter tools
 :::
 
-::: info Put(Plant)'s **Vision**
+::: info 🔷<beta>Put(<eco>Plant</eco>)</beta>'s **Vision**
 
 - To reduce Climate Change by increasing the quantity, quality and planting rate of the plants which are planted every year until the end of time.
 
 :::
 
-::: info Put(Plant)'s **Values**
+::: info 🔷<beta>Put(<eco>Plant</eco>)</beta>'s **Values**
 
 - Practice is more important than Theory
 - All Planter knowledge is freely available
@@ -27,7 +27,7 @@ Put(Plant) is written like a computer programming language function since it's t
 :::
 
 ::: tip 💡 New to Planting?
-Find out [how trees are planted](/guide/WhatTreePlanting) in Canada
+Find out [how trees are planted](/guide/What/WhatTreePlanting) in Canada
 :::
 
 ## Why use 🔷<beta>Put(<eco>Plant</eco>)</beta>?
@@ -38,13 +38,13 @@ Flexibility gives systems resilience, they are able to return quickly to a previ
 
 ### A Progressive System
 
-Put(Plant) is a "progressive" system, meaning that Planbeta grows with your planting experience. If you're a Novice Planter, then Put(Plant)'s library of reference material, guides, tests and video tutorials (🛠 coming soon!) will help you to learn how to be a planter without becoming overwhelmed in your first week on the job.
+🔷<beta>Put(<eco>Plant</eco>)</beta> is a "progressive" system, meaning that Planbeta grows with your planting experience. If you're a Novice Planter, then 🔷<beta>Put(<eco>Plant</eco>)</beta>'s library of reference material, guides, tests and video tutorials (🛠 coming soon!) will help you to learn how to be a planter without becoming overwhelmed in your first week on the job.
 
-If you're an Experienced Planter, then Put(Plant) gives you the resources to find and Cover your knowledge gaps, so that you can unlock your full planting potential.
+If you're an Experienced Planter, then 🔷<beta>Put(<eco>Plant</eco>)</beta> gives you the resources to find and Cover your knowledge gaps, so that you can unlock your full planting potential.
 
 ### A Community System
 
-Put(Plant) combines the best practices of the Planting Industry to offer the most robust and planter friendly planter system available. In addition, dozens of talented planters from across Canada have [contributed to the system](/dev/Contribute). Who knows, maybe you'll even become a Put(Plant) contributor.
+🔷<beta>Put(<eco>Plant</eco>)</beta> combines the best practices of the Planting Industry to offer the most robust and planter friendly planter system available. In addition, dozens of talented planters from across Canada have [contributed to the system](/dev/Contribute). Who knows, maybe you'll even become a 🔷<beta>Put(<eco>Plant</eco>)</beta> contributor.
 
 ## What 🔷<beta>Put(<eco>Plant</eco>)</beta> is Not
 
@@ -57,280 +57,11 @@ Put(Plant) combines the best practices of the Planting Industry to offer the mos
 - Medical Advice for Planters
 :::
 
-<!-- ## How does Put(Plant) provide Value to Planters?
-
-![ValuePyramid](/ValuePyramid.png)
-
-### Self-Transcendence
-
-- Put(Plant) makes Reforestation easier. Reforestation directly or indirectly benefits every species of life on earth. 
-- Learning how to plant trees is a Climate Change Action. Planters are the people who implement the tree planting initiatives of organizations around the world. 
-
----
- 
-### Self-Actualization
-
-- Take pride in mastering one of the most difficult manual labor jobs in Canada.  
-
-![Actualization](/Actualization.png)
----
- 
-### Belonging
-
-- Join the collective consciousness of the tree planting and reforestation communities.
-- See if you want to belong to the tree Planter community . 
-- Belong to the group ExperiencedPlanters or even ElitePlanters.
-
----
- 
-### Increases Motivation and Hope while reducing Anxiety
-
-- <eco>Put(Plant)</eco> reduced the worrying about what to expect during your Novice season. 
-- "I can do this"
-- The fear of the unknown, especially unknown unknowns, can be paralyzing. <eco>Put(Plant)</eco> is being created to minimize the number of unknowns in a tree Planter's experience.
-- There is a whole page in <eco>Put(Plant)</eco> specifically devoted to Motivation. It's easy to become unmotivated when you're tired, you've spent the past few days in the rain and the Eco is difficult, but there is knowledge that Planters and PlanterSupervisors can use to keep planting! 
-
----
- 
-### Rewarding
-
-- <eco>Put(Plant)</eco> is designed to increase the planting rate of any Planter, therefore increasing the income of any Planter who studies <eco>Put(Plant)</eco>.
-- Be able to track your progress as a Planter by the number of elements that you've understood then mastered.
-- Complete Tests
-
----
- 
-### Badge Value
-
-- By learning all the theory and practices of <eco>Put(Plant)</eco>, you can become a Highballer. 
-- Increase your Personal Best (PB) Planting Day. Planting 2,000 in a day is a standard checkpoint for Planters across Canada.
-- Total trees planted during your career is usually 100,000+. Achieving a million trees planting is a badge to be proud of. 
-- Get a perfect score on <eco>Put(Plant)</eco>'s tests to add to your CV when applying for Planter jobs. 
-
----
- 
-### Wellness
-
-- <eco>Put(Plant)</eco> is designed to [reduce Planter injury](/guide/Why/Injury).
-
----
- 
-### Provides Access and Informs
-
-- What is tree planting really like?
-- Plan what to bring ahead of first planting season
-- Access to information about being a Planter.
-- Provides access to information about how to plant which currently only exists in the brains of ExperiencedPlanters.
-
----
- 
-### Saves Time and Cost 
-
-- Put(Plant) is designed to increase a Planter's planting rate, which will decrease the number of days it takes to complete a planting season. Shorter seasons means less money spent on feeding, transporting and housing Planters.
-
----
- 
-### Simplifies and Organizes
-
-- Systematic
-- Easy to search
-- Standardized Naming System
-
----
- 
-### Reduces Risk
-
-- Put(Plant) reduces the Risk that a hired NovicePlanter underperform and become a burden to their Supervisor and Company.
-- Reduces the risk of Injury
-
----
- 
-### Variety
-
-- Put(Plant) provides information about how to plant a variety of different locations across the world.
-
----
- 
-### Integrates
-
-- Connects planting to climbing
-    - [<moto>Klimbeta</moto>](https://klimbeta.github.io/klimbeta/)
-- Connects NovicePlanters to ExperiencedPlanters
-
----
- 
-### Reduces Effort
-
-- Put(Plant) informs Planters on the 
-- Increased <neuro>CognitiveEase</neuro> leads to feelings of effortlessness.
-- Fluid moto through the Eco.
-- Reduces the distance travelled by Planters by using efficient Routing.
-
----
- 
-### Avoids hassles
-
-- Avoids the hassle of training Novices for PlanterSupervisors, when they have so many other tasks to perform during a planting day.  
-
----
- 
-### Increases Quality
-
-- Increases the quality of the planted seedlings.
-- Increases the ability of Planters.
-
----
- 
-::: details Harvard Business Review
-
-- https://hbr.org/2016/09/the-elements-of-value
-
-:::
-
---- -->
-
-<!-- ## Website Sections
-
-Put(Plant) is divided into 6 sections:
-
-- [Guide]()
-    - How to use this website
-- [Reference]()
-    - All the theory and problems that you encounter while being a Planter.
-- [Tests]()
-- [Development]()
-    - How this website is being created
-- [Sponsor]()
-
-## [How to Navigate this website.](/guide/How/Navigation)
-
 ::: details 🛠 <dev>&&&</dev>
 
 ## DevNotes
 
--
-
-## DevState
-
-```py
-`TagsToHeaders: False`
-```
-
-:::
-
-## Navigate 
-
-### Website tour videos
-
-- Create a screen captured video of the website with narration and captions.
-
-### Navigation Bar
-
-- Use the **Navigation Bar** to quickly jump to sections of the website. 
-- Use the social media icons to visit Put(Plant)'s social media.
-- Toggle between LightTheme and DarkTheme.
-
-[InsertImage] Screenshot of nav Bar
-
-### Links
-
-- All links are displayed in [green font](/guide/GoBack)
-- Sometimes most of the sentence can be green links.
-    - [LineIn]() over by the [rock]() then [start]() [backCovering]().
-
-### Headers
-
-1. Click on a header once to reveal a green Hash Symbol '#'.
-
-2. Click on the green Hash symbol again to bring the header to the top of your screen.
-
-::: tip Link directly to the header
-
-1. Clicking on the button changes the URL. 
-2. Copy the URL
-
-[InsertImage] Screenshot with Put(Plant) tabs open
-
-:::
-
-### Sidebar
-
-Use **Sidebar** to navigate the website.
-
-[InsertImage](Screenshot of Phone)
-[InsertImage](Screenshot of Tablet)
-[InsertImage](Screenshot of Desktop)
-
-### On This Page
-
-Use **On This Page** to navigate to the Title that you're looking for. 
-
-[InsertImage](Screenshot of Phone)
-[InsertImage](Screenshot of Tablet)
-[InsertImage](Screenshot of Desktop)
-
-### Search
-
-Reference is easy **searched** by using the Hash symbol <eco>#</eco> to target the headers of the reference contents.
-
-#### Phone
-[InsertImage](Screenshot of Phone)
-
-##### Example
-
-Image Phrase of Searching through Sidebar
-
-#### Tablet
-[InsertImage](Screenshot of Tablet)
-
-##### Example
-
-Image Phrase of Searching through Sidebar
-
-#### Desktop
-[InsertImage](Screenshot of Desktop)
-
-##### Example
-
-Image Phrase of Searching through Sidebar
-
-## Choose Your Path
-
-![PathFork](/PathFork.jpg)
-
-The users of Put(Plant) can take multiple paths through Put(Plant) depending on their needs.
-
-### [Potential Planter](/guide/Who/PotentialPlanter)
-
-1. Browse sidebars to familarize yourself with the general categories of Put(Plant)'s [Reference Section](/reference/RefOverview).
-2. Look at the [Gallery](/reference/gallery/Overview)
-
-### [Novice Planter](/guide/Who/NovicePlanter)
-
-1. Browse sidebars to familarize yourself with the general categories of Put(Plant). 
-2. Test yourself to find knowledge gaps.
-
-### [Experienced Planter](/guide/Who/ExperiencedPlanter)
-
-1. Test yourself to find knowledge gaps.
-
-### [Planter Supervisor](/guide/Who/PlanterSupervisor)
-
-1. Test yourself to find knowledge gaps.
-2. Assign readings and tests to your crew members.
-
-### [Planter Instructor](/guide/Who/PlanterInstructor)
-
-1. Assign readings and tests to your crew members.
-2. Group Elements together into lesson plans.
-3. Adapt your lessons to the current EcoType. 
-
- -->
-
-::: details 🛠 <dev>&&&</dev>
-
-## DevNotes
-
+- Put(Plant) is written like a computer programming language function since it's the application of computational thinking.
 - PutPlant.com is only used for learning and research. It's not meant to be used everyday by planters. People don't use textbooks everyday.
 
 ## DevState

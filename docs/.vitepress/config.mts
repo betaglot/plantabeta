@@ -126,12 +126,12 @@ function sidebarGuide() {
     },
     {
       text: 'Purpose', collapsed: false, items: [
-        { text: '🔥🌲🔥 <eco>To Replant Burnt Land</eco>', link: '/guide/Why/Wildfire' },
-        { text: '🟠 <moto>To Reduce Injury</moto>', link: '/guide/Why/Injury' },
-        { text: '🔻 <via>To Increase Productivity</via>', link: '/guide/Why/Productivity' },
-        { text: '🔷 <beta>To Improve Communication</beta>', link: '/guide/Why/Communication' },
-        { text: '💜 <neuro>To Steepen Learning Curve</neuro>', link: '/guide/Why/LearningCurve' },
-        { text: '💲 To Increase Profit', link: '/guide/Why/Company' }
+        { text: '🔥<eco>To Replant Burnt Land</eco>', link: '/guide/Why/Wildfire' },
+        { text: '🟠<moto>To Reduce Injury</moto>', link: '/guide/Why/Injury' },
+        { text: '🔻<via>To Increase Productivity</via>', link: '/guide/Why/Productivity' },
+        { text: '🔷<beta>To Improve Communication</beta>', link: '/guide/Why/Communication' },
+        { text: '💜<neuro>To Steepen Learning Curve</neuro>', link: '/guide/Why/LearningCurve' },
+        { text: '💲To Increase Profit', link: '/guide/Why/Company' }
       ]
     },
     {

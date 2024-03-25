@@ -8,9 +8,9 @@ hero:
   name: "Put(Plant)"
   text: Open Source Project
   tagline: The examples, guides, and reference you need—whether you're planting in the mountains of British Columbia, the wetlands of the Canadian Shield, or anywhere in between. Take advantage of these resources to develop your ability to plant faster and with higher quality.
-  # image:
-  #   src: /BetaLogo.png
-  #   alt: BetaLogo
+  image:
+    src: /Kendall.png
+    alt: A Planter's View
   actions:
     - theme: brand
       text: I'm new to Put(Plant)
@@ -23,8 +23,8 @@ features:
     details: Accelerate your planter development by examples
     link: /examples/Overview
   - icon: 🛠️
-    title: Last Updated on March 24, 2024
-    details: 42 days until May 5, 2024
+    title: Last Updated on March 25, 2024
+    details: 41 days until May 5, 2024
     link: /dev/DevOverview
   - icon: 🔍
     title: Browse the Reference Section
