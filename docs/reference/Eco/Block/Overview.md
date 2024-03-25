@@ -33,7 +33,8 @@ Dispersed
 
 ## DevNotes
 
--
+- WalkInBlock
+- WalkOut
 
 ## DevState
 

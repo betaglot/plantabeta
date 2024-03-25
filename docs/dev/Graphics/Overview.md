@@ -58,9 +58,21 @@ Turn this map into an animation. Blender?
 
 - Me : Mike Bostock :: Johnny Harris : SearchPartyGuy
 
+## Curve
+
+ThinCurve
+
+BoldCurve
+
+DottedCurve
+
+DashedCurve
+
 ::: details 🛠 <dev>&&&</dev>
 
 ## DevNotes
+
+- Hatching
 
 ## DevState
 

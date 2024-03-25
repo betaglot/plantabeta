@@ -38,6 +38,12 @@ Voronoi Daigrams are used to quantify density.
 
 Nearest Neighbor
 
+### Voronoi Interation
+
+Voronoi Iteration Algorithm creates the most evenly spaced sites.
+
+1. Make Centroid of Vorno
+
 ### VoronoiCell
 
 The disfigured antecell. Antecell influences current cell
@@ -100,6 +106,8 @@ Eagle Vision is Via. Just like [EagleVision](https://www.youtube.com/watch?v=toW
 Via can be seen through the land.
 
 ::: details 🛠 <dev>&&&</dev>
+
+## GeoPandas
 
 ## DevNotes
 
