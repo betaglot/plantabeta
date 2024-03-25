@@ -46,17 +46,6 @@ If you're an Experienced Planter, then 🔷<beta>Put(<eco>Plant</eco>)</beta> gi
 
 🔷<beta>Put(<eco>Plant</eco>)</beta> combines the best practices of the Planting Industry to offer the most robust and planter friendly planter system available. In addition, dozens of talented planters from across Canada have [contributed to the system](/dev/Contribute). Who knows, maybe you'll even become a 🔷<beta>Put(<eco>Plant</eco>)</beta> contributor.
 
-## What 🔷<beta>Put(<eco>Plant</eco>)</beta> is Not
-
-::: danger Put(Plant) does not include:
-
-- Logistics for management
-- How to Cook for Tree Planters
-- Tree Nursery Operation
-- Anything to do with cutting down trees
-- Medical Advice for Planters
-:::
-
 ::: details 🛠 <dev>&&&</dev>
 
 ## DevNotes
