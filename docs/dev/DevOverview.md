@@ -7,7 +7,9 @@ Put(Plant) is constantly being expanded and improved. Put(Plant) is being develo
 
 ::: tip Send an email to:
 
-<putplant@gmail.com>
+```md
+christopheralduncan@gmail.com
+```
 
 :::
 

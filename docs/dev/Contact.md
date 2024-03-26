@@ -2,7 +2,11 @@
 # 🛠 Contact
 
 ::: tip Send an email to:
-<putplant@gmail.com>
+
+```md
+christopheralduncan@gmail.com
+```
+
 :::
 
 ## Give Feedback

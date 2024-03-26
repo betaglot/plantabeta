@@ -18,12 +18,11 @@ export default defineConfig({
     outline: [2, 4],
     logo: 'android-chrome-512x512.png',
     socialLinks: [
-      { icon: 'youtube', link: 'https://www.youtube.com/@Klimbeta' },
       { icon: 'github', link: 'https://github.com/klimbeta/putplant' }
     ],
     footer: {
-      message: '',
-      copyright: 'Copyright Put(Plant) © 2023-present'
+      message: 'MIT License',
+      copyright: 'Copyright Chris Duncan © 2023-present'
     },
     search: {
       provider: 'local'
