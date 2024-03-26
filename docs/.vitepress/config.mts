@@ -18,7 +18,7 @@ export default defineConfig({
     outline: [2, 4],
     logo: 'android-chrome-512x512.png',
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/duncanchris/putplant' }
+      { icon: 'github', link: 'https://github.com/klimbeta/putplant' }
     ],
     footer: {
       message: 'MIT License',
