@@ -510,8 +510,8 @@ Eco/Soil/RedRot.md, Eco.Soil.RedRot
 Eco/Soil/SandSoil.md, Eco.Soil.SandSoil
 Eco/Soil/WetSoil.md, Eco.Soil.WetSoil
 Eco/Vegetation/Overview.md, Eco.PlantIdentification
-Eco/Vegetation/Overview.md, Eco.Vegetation.Fireweed
-Eco/Vegetation/Overview.md, Eco.Vegetation.ResidualPatch
+Eco/Vegetation/Overview.md, Eco.Plants.Fireweed
+Eco/Vegetation/Overview.md, Eco.Plants.ResidualPatch
 glossary/Glossary.md, Dev.AlsoKnownAs
 glossary/Glossary.md, Reference.Glossary
 guide/What/WhatPut(Plant).md, Guide.GettingStarted

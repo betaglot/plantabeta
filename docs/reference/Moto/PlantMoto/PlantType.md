@@ -1,4 +1,3 @@
-
 # 🟠 <moto>PlantType</moto>
 
 ![MotoIcon](/Moto/Moto_Icon.png)

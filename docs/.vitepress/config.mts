@@ -289,7 +289,7 @@ function sidebarReference() {
           ]
         },
         {
-          text: '🟩 <eco>Vegetation</eco>', link: '/reference/Eco/Vegetation/Overview', collapsed: true, items: [
+          text: '🟩 <eco>Plants</eco>', link: '/reference/Eco/Plants/Overview', collapsed: true, items: [
           ]
         },
       ]
@@ -422,15 +422,15 @@ function sidebarReference() {
           ]
         },
         {
-          text: '🟠 <moto>VegeMoto</moto>', link: '/reference/Moto/VegeMoto/Overview', collapsed: true, items: [
-            { text: '🟠 <moto>BranchArmDeflection</moto>', link: '/reference/Moto/VegeMoto/BranchArmDeflection' },
-            { text: '🟠 <moto>BranchDeflection</moto>', link: '/reference/Moto/VegeMoto/BranchDeflection' },
-            { text: '🟠 <moto>BranchMoto</moto>', link: '/reference/Moto/VegeMoto/BranchMoto' },
-            { text: '🟠 <moto>BranchWhip</moto>', link: '/reference/Moto/VegeMoto/BranchWhip' },
-            { text: '🟠 <moto>Bush</moto>', link: '/reference/Moto/VegeMoto/Bush' },
-            { text: '🟠 <moto>Log</moto>', link: '/reference/Moto/VegeMoto/Log' },
-            { text: '🟠 <moto>SlashPile</moto>', link: '/reference/Moto/VegeMoto/SlashPile' },
-            { text: '🟠 <moto>Stump</moto>', link: '/reference/Moto/VegeMoto/Stump' },
+          text: '🟠 <moto>PlantMoto</moto>', link: '/reference/Moto/PlantMoto/Overview', collapsed: true, items: [
+            { text: '🟠 <moto>BranchArmDeflection</moto>', link: '/reference/Moto/PlantMoto/BranchArmDeflection' },
+            { text: '🟠 <moto>BranchDeflection</moto>', link: '/reference/Moto/PlantMoto/BranchDeflection' },
+            { text: '🟠 <moto>BranchMoto</moto>', link: '/reference/Moto/PlantMoto/BranchMoto' },
+            { text: '🟠 <moto>BranchWhip</moto>', link: '/reference/Moto/PlantMoto/BranchWhip' },
+            { text: '🟠 <moto>Bush</moto>', link: '/reference/Moto/PlantMoto/Bush' },
+            { text: '🟠 <moto>Log</moto>', link: '/reference/Moto/PlantMoto/Log' },
+            { text: '🟠 <moto>SlashPile</moto>', link: '/reference/Moto/PlantMoto/SlashPile' },
+            { text: '🟠 <moto>Stump</moto>', link: '/reference/Moto/PlantMoto/Stump' },
           ]
         },
         {

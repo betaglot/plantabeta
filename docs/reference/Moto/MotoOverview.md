@@ -98,6 +98,14 @@ Acceleration
 
 - Central Pattern Generators
 
+## MotoError
+
+Errors don't necessarily come from you, they could arise from VegeMoto.
+
+### MotoErrorRecovery
+
+Recover as fluidly as possible
+
 ::: details 🛠 <dev>&&&</dev>
 
 ## DevNotes

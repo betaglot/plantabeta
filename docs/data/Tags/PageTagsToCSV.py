@@ -659,8 +659,8 @@ json = {
     "Eco/Sun/Overview.md": [],
     "Eco/Vegetation/Overview.md": [
         "Eco.PlantIdentification",
-        "Eco.Vegetation.Fireweed",
-        "Eco.Vegetation.ResidualPatch"
+        "Eco.Plants.Fireweed",
+        "Eco.Plants.ResidualPatch"
     ],
     "glossary/Glossary.md": [
         "Dev.AlsoKnownAs",
