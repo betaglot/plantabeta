@@ -128,6 +128,12 @@ Control flow is the codified version of [Decision Making](/reference/Neuro/Decis
 
 ## GIF
 
+![RugbyGIF](/Via/RugbyGIF.gif)
+
+Rugby Gifs
+
+<https://rugbyslate.com/attacking/attacking-against-a-blitz-defence/>
+
 ### Vue Component
 
 - Be able to toggle between GIF and PhraseStrip

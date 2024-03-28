@@ -3,13 +3,22 @@
 
 ![EcoIcon](/Eco/Eco_Icon.png)
 
-## What is Eco?
+## What is <eco>Eco</eco>?
 
-Eco is Geology and Botany
+Eco is Geology and Biology
 
-::: info Etymology
-Ecology is a branch of science dealing with the relationship of living things to their environments
-:::
+## Etymology
+
+The name of the Eco module is derived from <eco>eco</eco>system
+
+The British Columbian Government's [definition](https://www2.gov.bc.ca/gov/content/environment/plants-animals-ecosystems/ecosystems):
+> An ecosystem is a collection of communities of both living and non-living things that are connected. The biotic elements in an ecosystem include living things such as plants and animals. The abiotic elements found in an ecosystem include non-living things like land forms or climate.
+
+The word "<eco>eco</eco>system" was derived from <eco>eco</eco>logy
+
+> (originally as <eco>oeco</eco>logy ): from Greek <eco>oikos</eco> ‘house’ + -logy.
+
+In PutPlant's <beta>Beta system</beta> the <eco>Eco</eco> module represents the <eco>homes</eco> of the seedlings that you're planting.
 
 ::: details 🛠 <dev>&&&</dev>
 

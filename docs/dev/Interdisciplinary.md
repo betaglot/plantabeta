@@ -26,6 +26,31 @@
 
 ## Sports
 
+### Rugby
+
+![RugbyGIF](/Via/RugbyGIF.gif)
+
+- Gifs of Plays
+    - <https://rugbyslate.com/attacking/attacking-against-a-blitz-defence/>
+
+### Football (American)
+
+🔷<beta>Beta: BetaDiagram=PlayDiagram</beta>
+
+💜<neuro>Neuro: </neuro>
+
+🟩<eco>Eco: </eco>
+
+🟠<moto>Moto: </moto>
+
+🔻<via>Via: </via>
+
+#### RouteTree
+
+![RouteTree](/Via/RouteTree.jpg)
+
+- Detailed explanation of [each route](https://www.thephinsider.com/2016/6/20/11975890/football-101-wide-receiver-route-tree)
+
 ### Hockey
 
 #### BetaAnalogy
