@@ -1,4 +1,4 @@
-🔷<beta>Beta Objects</beta>
+# 🔷<beta>Beta Objects</beta>
 
 The objects of Beta are people.
 
