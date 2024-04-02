@@ -9,8 +9,6 @@ If you just want to sponsor Put(Plant)
 
 ### Give Feedback
 
-### Give Money
-
 ### Give Code
 
 ### Would you like to say anything about your experience of Put(Plant)?

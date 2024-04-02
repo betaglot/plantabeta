@@ -1,9 +1,20 @@
 
 # 💜 <neuro>Event</neuro>
 
+> there are dozens of events happening each second
+
+![Dashboard](/dev/Dashboard.png)
+
+- 
+- When a particular state is present
+- State Dependent Memory Recall
 - EventListener
 - Conditional
     - If-then Statement
+
+Event from a first person perspective
+
+## MotoEvent
 
 ## NeuroEvent
 
