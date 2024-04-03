@@ -22,7 +22,7 @@ In PutPlant's <beta>Beta system</beta> the <eco>Eco</eco> module represents the 
 
 ::: details 🛠 <dev>&&&</dev>
 
-## EcoObjects
+## EcoElements
 
 ```py
 {

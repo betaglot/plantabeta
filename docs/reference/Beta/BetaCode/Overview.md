@@ -83,7 +83,7 @@ class SpadeSlam(Moto):
 
 A more accurate name for "variable" is "assignable" since many variables don't vary, they remain constant after being assigned a value
 
-Instantiate and EcoObject with an empty string for Via
+Instantiate and EcoElement with an empty string for Via
 
 ```py
 
@@ -213,7 +213,7 @@ BetaCode can be used in Planting and Climbing, on Put(Plant).com and Klimbeta.co
 
 ### Vue.js
 
-- Beta as XML tags used in BetaDiagram. Use Vue to create a custom component for each BetaObject
+- Beta as XML tags used in BetaDiagram. Use Vue to create a custom component for each BetaElement
 
 Render a `BetaList[]` as Vue components
 

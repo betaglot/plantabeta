@@ -98,7 +98,7 @@ Removes Value Addition // [!code --]
 
 ### Outcome > Output
 
-False value is a bunch of features that Planters don't use. The value of a stump is not its color (HexadecimalValue, RGB values), rather value comes from the stump's PotentialMicrosites. The ViaObject(PotentialMicrosite, FlagSite) gives the EcoObject(Stump) value
+False value is a bunch of features that Planters don't use. The value of a stump is not its color (HexadecimalValue, RGB values), rather value comes from the stump's PotentialMicrosites. The ViaElement(PotentialMicrosite, FlagSite) gives the EcoElement(Stump) value
 
 Theorem the name of an object, while Problem is the object's values and methods.
 
@@ -108,7 +108,7 @@ The value exchange of woven fiber neighbors is the tension force holding each ot
 
 Subsystems give each other value.
 
-The ViaObject(GoodMicrosite, FlagSite) gives the EcoObject(Stump) value. The stump gives Via value by providing PotentialMicrosite.
+The ViaElement(GoodMicrosite, FlagSite) gives the EcoElement(Stump) value. The stump gives Via value by providing PotentialMicrosite.
 
 The exchange doesn't need to be mutually beneficial. Both ValueAddition or (ValueAddition + ValueSubtraction).
 
@@ -125,9 +125,9 @@ Value is added along a Phrase of steps. Like Bioamplification of poison in Preda
 
 ---
 
-### MotoObjectValue
+### MotoElementValue
 
-::: tip MotoObjectValue Addition
+::: tip MotoElementValue Addition
 
 ---
 
@@ -188,7 +188,7 @@ Value is added along a Phrase of steps. Like Bioamplification of poison in Preda
 
 :::
 
-::: danger MotoObjectValue Subtraction
+::: danger MotoElementValue Subtraction
 
 ---
 
@@ -258,9 +258,9 @@ MotoSelection.MotoEvaluation
 
 ---
 
-### ViaObjectValue
+### ViaElementValue
 
-::: tip ViaObjectValue Addition
+::: tip ViaElementValue Addition
 
 ---
 
@@ -300,7 +300,7 @@ MotoSelection.MotoEvaluation
 
 :::
 
-::: danger ViaObjectValue Subtraction
+::: danger ViaElementValue Subtraction
 
 ---
 
@@ -334,9 +334,9 @@ MotoSelection.MotoEvaluation
 
 ---
 
-### EcoObjectValue
+### EcoElementValue
 
-::: tip EcoObjectValue Addition
+::: tip EcoElementValue Addition
 
 ---
 
@@ -374,7 +374,7 @@ MotoSelection.MotoEvaluation
 
 :::
 
-::: danger EcoObjectValue Subtraction
+::: danger EcoElementValue Subtraction
 
 ---
 
@@ -408,9 +408,9 @@ MotoSelection.MotoEvaluation
 
 ---
 
-### NeuroObjectValue
+### NeuroElementValue
 
-::: tip NeuroObjectValue Addition
+::: tip NeuroElementValue Addition
 
 ---
 
@@ -442,7 +442,7 @@ MotoSelection.MotoEvaluation
 
 :::
 
-::: danger NeuroObjectValue Subtraction
+::: danger NeuroElementValue Subtraction
 
 ---
 

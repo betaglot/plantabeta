@@ -75,7 +75,7 @@ With BareRoots you must often curl the roots into the hole
 
 ### 🔷<beta>Put(<via>Flag</via>)</beta>
 
-> to place a flag on an EcoObject
+> to place a flag on an EcoElement
 
 <via>FlagSite</via> is a ViaPoint
 
@@ -113,7 +113,7 @@ Trees/Time
 
 ### 🔷<beta>Get(<eco>Plant</eco>)</beta>
 
-> to obtain an EcoObject
+> to obtain an EcoElement
 
 #### 🔷<beta>Get(<eco>Tree</eco>)</beta>
 

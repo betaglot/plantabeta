@@ -2,7 +2,7 @@
 
 ## Purpose
 
-- A video of every BetaObject
+- A video of every BetaElement
 
 ## Captions
 

@@ -130,7 +130,7 @@ The BetaLingo of balance beam
 
 > "<moto>Jump</moto> <via>on</via> the <eco>beam</eco> <via>at the middle</via>, then <moto>step</moto> <via>backwards</via>"
 
-### <beta>BetaObject: Element</beta>
+### <beta>BetaElement: Object</beta>
 
 ```py
 
@@ -140,7 +140,7 @@ Beta_Properties = {
 
 ```
 
-### <eco>EcoObject: Object</eco>
+### <eco>EcoElement: Object</eco>
 
 ```py
 
@@ -151,7 +151,7 @@ Eco_Properties = {
 
 ```
 
-### <moto>MotoObject: Moto</moto>
+### <moto>MotoElement: Object</moto>
 
 ```py
 
@@ -161,7 +161,7 @@ Moto_Properties = {
 
 ```
 
-### <via>ViaObject: Element</via>
+### <via>ViaElement: Object</via>
 
 ```py
 
@@ -171,9 +171,9 @@ Via_Properties = {
 
 ```
 
-### <neuro>NeuroObject: Experience</neuro>
+### <neuro>NeuroElement: Object</neuro>
 
-- An obbject in Awareness
+- An object in Awareness
 - An object of your Attention
 
 ## Data Types

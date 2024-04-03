@@ -60,6 +60,10 @@ This each line are analog pairs. The equal signs = denotes where Climbing and Pl
 - You will get better at one by learning the other.
 :::
 
+## What is a Beta Element?
+
+
+
 ---
 ::: details Footnotes:
 

@@ -158,7 +158,7 @@ Directions
 
 - Via is Superimposed onto Eco.
 - `IsPlanted(Eco{})`
-    - Look to see if an EcoObject is planted
+    - Look to see if an EcoElement is planted
 
 ## Update your Via
 

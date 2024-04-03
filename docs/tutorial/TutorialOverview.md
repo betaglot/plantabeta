@@ -56,7 +56,7 @@ treeList = [
     - What did they forget?
     - What is the error
 
-- Keep a list of all the BetaObjects which have been included in a test. Each BetaObject should appear as many times as possible. Minimum 3 times in each format Image, Text, Video.
+- Keep a list of all the BetaElements which have been included in a test. Each BetaElement should appear as many times as possible. Minimum 3 times in each format Image, Text, Video.
 
 ## DevState
 

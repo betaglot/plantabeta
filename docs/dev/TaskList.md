@@ -1,8 +1,18 @@
 # 🛠<dev>TaskList</dev>
 
-> the core team of developers
+A list of all tasks needed for 🔷<beta>Put(<eco>Plant</eco>)</beta>
 
-You don't need to be a programmer to be a developer.
+::: warning You can too!
+You don't need to be a programmer to contribute to this open source project.
+:::
+
+There will be hundreds of tasks
+
+::: tip
+Use screenshots and PaperPhoto for "make this" tasks.
+
+Some tasks are difficult to put into words
+:::
 
 ## Academia
 
@@ -41,7 +51,7 @@ Connect Academia to PutPlant by linking to each field's current understanding.
 
 ---
 
-## PutPlantApp
+## BetaApp
 
 ### BetaParser
 
@@ -71,11 +81,36 @@ Connect Academia to PutPlant by linking to each field's current understanding.
 
 > document every part of PutPlant's system
 
-- Edit video into GIFs for each BetaObject's profile picture
-- Search
-- UX
-- FAQ
-- StyleGuide
+### ElementPage
+
+#### Header
+
+- Profile Picture
+    - Edit video into GIFs for each BetaElement's profile picture
+
+#### BetaGraph
+
+- Add Data
+
+### FAQ (Frequently Asked Questions)
+
+### Style Guide
+
+- Examples of Errors
+
+### Search Engine
+
+#### Search Results
+
+-
+
+#### Search Prompt Autocomplete
+
+- List of Prompts
+- Where to store?
+- What Javascript package to use?
+
+### Documentation UX (User Experience)
 
 ---
 
@@ -102,7 +137,15 @@ Connect Academia to PutPlant by linking to each field's current understanding.
 
 ## Interviews
 
-Interview Planters
+> interview people to gain a better understanding of their experience of PutPlant or related topics
+
+### Interview Planters
+
+### Interview Supervisors
+
+### Interview Owners
+
+### Interview
 
 ---
 
@@ -113,6 +156,14 @@ Interview Planters
 - Add to Contribution Guide
 - Open Source License
 - Create legal disclaimer about accepting advice
+
+---
+
+## Podcast
+
+### News
+
+### Conversation
 
 ---
 
@@ -150,6 +201,7 @@ Interview Planters
 ### 1 year plan (2025_Plan)
 
 - Planting in Australia
+- No empty Element Pages
 
 ### 3 year plan (2027_Plan)
 
@@ -193,7 +245,9 @@ Interview Planters
 
 ## Tools
 
-> innovate tool design and construction
+> innovate tool use, design and construction
+
+See [Tools](/dev/Tools) for notes about each tool
 
 - Test tools
 - Test materials
@@ -204,9 +258,17 @@ Interview Planters
 
 ---
 
+## Tutorial
+
+> create and edit tutorials
+
+---
+
 ## UX Design
 
 > design how PutPlant is used
+
+-
 
 ---
 
