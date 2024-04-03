@@ -42367,7 +42367,7 @@ tags = [
                     "title": "BetaGraph.ElementImportance"
                 },
                 {
-                    "title": "BetaGraph.ObjectValue"
+                    "title": "BetaGraph.ElementValue"
                 },
                 {
                     "title": "BetaGraph.NodeSize"
@@ -42400,7 +42400,7 @@ tags = [
                 "title": "BetaGraph.ElementImportance"
             },
             {
-                "title": "BetaGraph.ObjectValue"
+                "title": "BetaGraph.ElementValue"
             },
             {
                 "title": "BetaGraph.NodeSize"
@@ -42430,7 +42430,7 @@ tags = [
                     "title": "BetaGraph.EcosystemMapPie.ConcentricRings"
                 },
                 {
-                    "title": "BetaGraph.ObjectValue.ObjectValueExchange"
+                    "title": "BetaGraph.ElementValue.ElementValueExchange"
                 },
                 {
                     "title": "BetaGraph.Hardware.Screen"
@@ -42460,7 +42460,7 @@ tags = [
                 "title": "BetaGraph.EcosystemMapPie.ConcentricRings"
             },
             {
-                "title": "BetaGraph.ObjectValue.ObjectValueExchange"
+                "title": "BetaGraph.ElementValue.ElementValueExchange"
             },
             {
                 "title": "BetaGraph.Hardware.Screen"
@@ -42571,19 +42571,19 @@ tags = [
                     "title": "BetaGraph.EcosystemMapPie.ConcentricRings"
                 },
                 {
-                    "title": "BetaGraph.ObjectValue.ObjectValuePictogram"
+                    "title": "BetaGraph.ElementValue.ElementValuePictogram"
                 },
                 {
-                    "title": "BetaGraph.ObjectValue.ObjectValueType.Connects"
+                    "title": "BetaGraph.ElementValue.ElementValueType.Connects"
                 },
                 {
-                    "title": "BetaGraph.ObjectValue.ObjectValueType.Informs"
+                    "title": "BetaGraph.ElementValue.ElementValueType.Informs"
                 },
                 {
-                    "title": "BetaGraph.ObjectValue.ObjectValueType.MakeMoney"
+                    "title": "BetaGraph.ElementValue.ElementValueType.MakeMoney"
                 },
                 {
-                    "title": "BetaGraph.ObjectValue.ObjectValueType.Organizes"
+                    "title": "BetaGraph.ElementValue.ElementValueType.Organizes"
                 },
                 {
                     "title": "BetaGraph.NodeSize"
@@ -42607,19 +42607,19 @@ tags = [
                 "title": "BetaGraph.EcosystemMapPie.ConcentricRings"
             },
             {
-                "title": "BetaGraph.ObjectValue.ObjectValuePictogram"
+                "title": "BetaGraph.ElementValue.ElementValuePictogram"
             },
             {
-                "title": "BetaGraph.ObjectValue.ObjectValueType.Connects"
+                "title": "BetaGraph.ElementValue.ElementValueType.Connects"
             },
             {
-                "title": "BetaGraph.ObjectValue.ObjectValueType.Informs"
+                "title": "BetaGraph.ElementValue.ElementValueType.Informs"
             },
             {
-                "title": "BetaGraph.ObjectValue.ObjectValueType.MakeMoney"
+                "title": "BetaGraph.ElementValue.ElementValueType.MakeMoney"
             },
             {
-                "title": "BetaGraph.ObjectValue.ObjectValueType.Organizes"
+                "title": "BetaGraph.ElementValue.ElementValueType.Organizes"
             },
             {
                 "title": "BetaGraph.NodeSize"
@@ -43030,10 +43030,10 @@ tags = [
                 "title": "Beta.BetaInstance.BetaInstanceComparison"
             },
             {
-                "title": "BetaGraph.ObjectValue"
+                "title": "BetaGraph.ElementValue"
             },
             {
-                "title": "BetaGraph.ObjectValue.ElementEvaluation"
+                "title": "BetaGraph.ElementValue.ElementEvaluation"
             },
             {
                 "title": "BetaGraph.Phrase"
@@ -43102,10 +43102,10 @@ tags = [
                 "title": "BetaGraph.EcosystemMapPie.ConcentricRings"
             },
             {
-                "title": "BetaGraph.ObjectValue.ElementEvaluation"
+                "title": "BetaGraph.ElementValue.ElementEvaluation"
             },
             {
-                "title": "BetaGraph.ObjectValue.ObjectValueExchange"
+                "title": "BetaGraph.ElementValue.ElementValueExchange"
             },
             {
                 "title": "BetaGraph.Symbols"
@@ -43126,13 +43126,13 @@ tags = [
                 "title": "BetaGraph.EcosystemMapPie.PieSection"
             },
             {
-                "title": "BetaGraph.ObjectValue"
+                "title": "BetaGraph.ElementValue"
             },
             {
-                "title": "BetaGraph.ObjectValue.ElementEvaluation"
+                "title": "BetaGraph.ElementValue.ElementEvaluation"
             },
             {
-                "title": "BetaGraph.ObjectValue.ObjectValueExchange"
+                "title": "BetaGraph.ElementValue.ElementValueExchange"
             },
             {
                 "title": "BetaGraph.PostIt"
@@ -43156,7 +43156,7 @@ tags = [
                 "title": "BetaGraph.EcosystemMapPie.PieSection"
             },
             {
-                "title": "BetaGraph.ObjectValue.ObjectValueChain"
+                "title": "BetaGraph.ElementValue.ElementValueChain"
             },
             {
                 "title": "BetaGraph.Phrase"
@@ -43192,7 +43192,7 @@ tags = [
                 "title": "BetaGraph.ElementRole"
             },
             {
-                "title": "BetaGraph.ObjectValue.ElementEvaluation"
+                "title": "BetaGraph.ElementValue.ElementEvaluation"
             },
             {
                 "title": "BetaGraph.Symbols"
@@ -43219,13 +43219,13 @@ tags = [
                 "title": "BetaGraph.EcosystemMapPie.PieSection"
             },
             {
-                "title": "BetaGraph.ObjectValue.ObjectValueChain"
+                "title": "BetaGraph.ElementValue.ElementValueChain"
             },
             {
-                "title": "BetaGraph.ObjectValue.ValueAddition"
+                "title": "BetaGraph.ElementValue.ValueAddition"
             },
             {
-                "title": "BetaGraph.ObjectValue.ValueCapture"
+                "title": "BetaGraph.ElementValue.ValueCapture"
             },
             {
                 "title": "NotPaper"
@@ -43240,7 +43240,7 @@ tags = [
                 "title": "BetaGraph.EcosystemMapPie.CentralElement"
             },
             {
-                "title": "BetaGraph.ObjectValue.EcosystemValueProposition"
+                "title": "BetaGraph.ElementValue.EcosystemValueProposition"
             },
             {
                 "title": "NotPaper"
@@ -43258,16 +43258,16 @@ tags = [
                 "title": "BetaGraph.EcosystemMapPie.PieSection"
             },
             {
-                "title": "BetaGraph.ObjectValue.CreateValue"
+                "title": "BetaGraph.ElementValue.CreateValue"
             },
             {
-                "title": "BetaGraph.ObjectValue.ObjectValueExchange"
+                "title": "BetaGraph.ElementValue.ElementValueExchange"
             },
             {
-                "title": "BetaGraph.ObjectValue.ValueAddition"
+                "title": "BetaGraph.ElementValue.ValueAddition"
             },
             {
-                "title": "BetaGraph.ObjectValue.ValueCapture"
+                "title": "BetaGraph.ElementValue.ValueCapture"
             },
             {
                 "title": "NotPaper"
@@ -43294,10 +43294,10 @@ tags = [
                 "title": "Dev.Element.ElementDiagram.ConnectorLine"
             },
             {
-                "title": "BetaGraph.ObjectValue.ObjectValueChain"
+                "title": "BetaGraph.ElementValue.ElementValueChain"
             },
             {
-                "title": "BetaGraph.ObjectValue.ValueAddition"
+                "title": "BetaGraph.ElementValue.ValueAddition"
             },
             {
                 "title": "BetaGraph.PostIt"
@@ -43333,16 +43333,16 @@ tags = [
                 "title": "BetaGraph.ElementDependencies"
             },
             {
-                "title": "BetaGraph.ObjectValue.ObjectValueType.ProvidesAccess"
+                "title": "BetaGraph.ElementValue.ElementValueType.ProvidesAccess"
             },
             {
-                "title": "BetaGraph.ObjectValue.ObjectValueType.ReducesEffort"
+                "title": "BetaGraph.ElementValue.ElementValueType.ReducesEffort"
             },
             {
-                "title": "BetaGraph.ObjectValue.ValueAddition"
+                "title": "BetaGraph.ElementValue.ValueAddition"
             },
             {
-                "title": "BetaGraph.ObjectValue.ValueCapture"
+                "title": "BetaGraph.ElementValue.ValueCapture"
             },
             {
                 "title": "NotPaper"
@@ -43510,7 +43510,7 @@ tags = [
                 "title": "NotPaper"
             },
             {
-                "title": "BetaGraph.ObjectValue.ObjectValueExchange"
+                "title": "BetaGraph.ElementValue.ElementValueExchange"
             },
             {
                 "title": "BetaGraph.ColorCode"
@@ -43561,7 +43561,7 @@ tags = [
                 "title": "NotPaper"
             },
             {
-                "title": "BetaGraph.ObjectValue.ObjectValueExchange"
+                "title": "BetaGraph.ElementValue.ElementValueExchange"
             },
             {
                 "title": "BetaGraph.ColorCode"
@@ -43603,7 +43603,7 @@ tags = [
                 "title": "NotPaper"
             },
             {
-                "title": "BetaGraph.ObjectValue.ObjectValueExchange"
+                "title": "BetaGraph.ElementValue.ElementValueExchange"
             },
             {
                 "title": "BetaGraph.ColorCode"
@@ -43642,7 +43642,7 @@ tags = [
                 "title": "BetaGraph.NodeSize"
             },
             {
-                "title": "BetaGraph.ObjectValue.ObjectValueExchange"
+                "title": "BetaGraph.ElementValue.ElementValueExchange"
             }
         ],
         "thumbPath": ".ts\\90114.png.jpg"
@@ -43663,7 +43663,7 @@ tags = [
                 "title": "NotPaper"
             },
             {
-                "title": "BetaGraph.ObjectValue.ObjectValueExchange"
+                "title": "BetaGraph.ElementValue.ElementValueExchange"
             },
             {
                 "title": "BetaGraph.EcosystemMapPie.ConcentricRings"
@@ -43840,52 +43840,52 @@ tags = [
         "name": "90134.png",
         "tags": [
             {
-                "title": "BetaGraph.ObjectValue.ObjectValueType.AvoidsHassles"
+                "title": "BetaGraph.ElementValue.ElementValueType.AvoidsHassles"
             },
             {
-                "title": "BetaGraph.ObjectValue.ObjectValueType.Connects"
+                "title": "BetaGraph.ElementValue.ElementValueType.Connects"
             },
             {
-                "title": "BetaGraph.ObjectValue.ObjectValueType.Informs"
+                "title": "BetaGraph.ElementValue.ElementValueType.Informs"
             },
             {
-                "title": "BetaGraph.ObjectValue.ObjectValueType.Integrates"
+                "title": "BetaGraph.ElementValue.ElementValueType.Integrates"
             },
             {
-                "title": "BetaGraph.ObjectValue.ObjectValueType.MakeMoney"
+                "title": "BetaGraph.ElementValue.ElementValueType.MakeMoney"
             },
             {
-                "title": "BetaGraph.ObjectValue.ObjectValueType.Motivation"
+                "title": "BetaGraph.ElementValue.ElementValueType.Motivation"
             },
             {
-                "title": "BetaGraph.ObjectValue.ObjectValueType.Organizes"
+                "title": "BetaGraph.ElementValue.ElementValueType.Organizes"
             },
             {
-                "title": "BetaGraph.ObjectValue.ObjectValueType.ProvidesAccess"
+                "title": "BetaGraph.ElementValue.ElementValueType.ProvidesAccess"
             },
             {
-                "title": "BetaGraph.ObjectValue.ObjectValueType.Quality"
+                "title": "BetaGraph.ElementValue.ElementValueType.Quality"
             },
             {
-                "title": "BetaGraph.ObjectValue.ObjectValueType.ReducesCost"
+                "title": "BetaGraph.ElementValue.ElementValueType.ReducesCost"
             },
             {
-                "title": "BetaGraph.ObjectValue.ObjectValueType.ReducesEffort"
+                "title": "BetaGraph.ElementValue.ElementValueType.ReducesEffort"
             },
             {
-                "title": "BetaGraph.ObjectValue.ObjectValueType.ReducesRisk"
+                "title": "BetaGraph.ElementValue.ElementValueType.ReducesRisk"
             },
             {
-                "title": "BetaGraph.ObjectValue.ObjectValueType.SavesTime"
+                "title": "BetaGraph.ElementValue.ElementValueType.SavesTime"
             },
             {
-                "title": "BetaGraph.ObjectValue.ObjectValueType.SensoryAppeal"
+                "title": "BetaGraph.ElementValue.ElementValueType.SensoryAppeal"
             },
             {
-                "title": "BetaGraph.ObjectValue.ObjectValueType.Simplifies"
+                "title": "BetaGraph.ElementValue.ElementValueType.Simplifies"
             },
             {
-                "title": "BetaGraph.ObjectValue.ObjectValueType.Variety"
+                "title": "BetaGraph.ElementValue.ElementValueType.Variety"
             },
             {
                 "title": "NotPaper"

@@ -2,9 +2,9 @@
 
 > Beta is the **information** that you use to perform planting tasks.
 
-Beta emerges from the interactions between Eco, Moto, Via and Neuro.
+<beta>Beta</beta> emerges from the interactions between <eco>Eco</eco>, <moto>Moto</moto>, <via>Via</via> and <neuro>Neuro</neuro>.
 
-![BetaIcon](/Beta/Beta_Icon.png)
+![<beta>Beta</beta>Icon](/Beta/Beta_Icon.png)
 
 ## <beta>Beta Symbol</beta> 🔷
 
@@ -60,9 +60,21 @@ This each line are analog pairs. The equal signs = denotes where Climbing and Pl
 - You will get better at one by learning the other.
 :::
 
-## What is a Beta Element?
+## <beta>What is a Beta Element?</beta>
 
+Based on Euclid's Elements
 
+### MotoElement
+
+### EcoElement
+
+### ViaElement
+
+### NeuroElement
+
+## What is a BetaInstance
+
+> all the BetaElements occuring at a given instant
 
 ---
 ::: details Footnotes:

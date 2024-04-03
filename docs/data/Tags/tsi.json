@@ -74586,7 +74586,7 @@
                 {
                     "color": "#9FE1E7",
                     "textcolor": "#000000ff",
-                    "title": "BetaGraph.ObjectValue",
+                    "title": "BetaGraph.ElementValue",
                     "type": "sidecar"
                 },
                 {
@@ -74642,7 +74642,7 @@
                 "textcolor": "#000000ff"
             },
             {
-                "title": "BetaGraph.ObjectValue",
+                "title": "BetaGraph.ElementValue",
                 "color": "#9FE1E7",
                 "textcolor": "#000000ff"
             },
@@ -74698,7 +74698,7 @@
                 {
                     "color": "#9FE1E7",
                     "textcolor": "#000000ff",
-                    "title": "BetaGraph.ObjectValue.ObjectValueExchange",
+                    "title": "BetaGraph.ElementValue.ElementValueExchange",
                     "type": "sidecar"
                 },
                 {
@@ -74751,7 +74751,7 @@
                 "textcolor": "#000000ff"
             },
             {
-                "title": "BetaGraph.ObjectValue.ObjectValueExchange",
+                "title": "BetaGraph.ElementValue.ElementValueExchange",
                 "color": "#9FE1E7",
                 "textcolor": "#000000ff"
             },
@@ -74951,31 +74951,31 @@
                 {
                     "color": "#9FE1E7",
                     "textcolor": "#000000ff",
-                    "title": "BetaGraph.ObjectValue.ObjectValuePictogram",
+                    "title": "BetaGraph.ElementValue.ElementValuePictogram",
                     "type": "sidecar"
                 },
                 {
                     "color": "#9FE1E7",
                     "textcolor": "#000000ff",
-                    "title": "BetaGraph.ObjectValue.ObjectValueType.Connects",
+                    "title": "BetaGraph.ElementValue.ElementValueType.Connects",
                     "type": "sidecar"
                 },
                 {
                     "color": "#9FE1E7",
                     "textcolor": "#000000ff",
-                    "title": "BetaGraph.ObjectValue.ObjectValueType.Informs",
+                    "title": "BetaGraph.ElementValue.ElementValueType.Informs",
                     "type": "sidecar"
                 },
                 {
                     "color": "#9FE1E7",
                     "textcolor": "#000000ff",
-                    "title": "BetaGraph.ObjectValue.ObjectValueType.MakeMoney",
+                    "title": "BetaGraph.ElementValue.ElementValueType.MakeMoney",
                     "type": "sidecar"
                 },
                 {
                     "color": "#9FE1E7",
                     "textcolor": "#000000ff",
-                    "title": "BetaGraph.ObjectValue.ObjectValueType.Organizes",
+                    "title": "BetaGraph.ElementValue.ElementValueType.Organizes",
                     "type": "sidecar"
                 },
                 {
@@ -75015,27 +75015,27 @@
                 "textcolor": "#000000ff"
             },
             {
-                "title": "BetaGraph.ObjectValue.ObjectValuePictogram",
+                "title": "BetaGraph.ElementValue.ElementValuePictogram",
                 "color": "#9FE1E7",
                 "textcolor": "#000000ff"
             },
             {
-                "title": "BetaGraph.ObjectValue.ObjectValueType.Connects",
+                "title": "BetaGraph.ElementValue.ElementValueType.Connects",
                 "color": "#9FE1E7",
                 "textcolor": "#000000ff"
             },
             {
-                "title": "BetaGraph.ObjectValue.ObjectValueType.Informs",
+                "title": "BetaGraph.ElementValue.ElementValueType.Informs",
                 "color": "#9FE1E7",
                 "textcolor": "#000000ff"
             },
             {
-                "title": "BetaGraph.ObjectValue.ObjectValueType.MakeMoney",
+                "title": "BetaGraph.ElementValue.ElementValueType.MakeMoney",
                 "color": "#9FE1E7",
                 "textcolor": "#000000ff"
             },
             {
-                "title": "BetaGraph.ObjectValue.ObjectValueType.Organizes",
+                "title": "BetaGraph.ElementValue.ElementValueType.Organizes",
                 "color": "#9FE1E7",
                 "textcolor": "#000000ff"
             },
@@ -75786,13 +75786,13 @@
                 {
                     "color": "#9FE1E7",
                     "textcolor": "#000000ff",
-                    "title": "BetaGraph.ObjectValue",
+                    "title": "BetaGraph.ElementValue",
                     "type": "sidecar"
                 },
                 {
                     "color": "#9FE1E7",
                     "textcolor": "#000000ff",
-                    "title": "BetaGraph.ObjectValue.ElementEvaluation",
+                    "title": "BetaGraph.ElementValue.ElementEvaluation",
                     "type": "sidecar"
                 },
                 {
@@ -75834,12 +75834,12 @@
                 "textcolor": "white"
             },
             {
-                "title": "BetaGraph.ObjectValue",
+                "title": "BetaGraph.ElementValue",
                 "color": "#9FE1E7",
                 "textcolor": "#000000ff"
             },
             {
-                "title": "BetaGraph.ObjectValue.ElementEvaluation",
+                "title": "BetaGraph.ElementValue.ElementEvaluation",
                 "color": "#9FE1E7",
                 "textcolor": "#000000ff"
             },
@@ -76024,13 +76024,13 @@
                 {
                     "color": "#9FE1E7",
                     "textcolor": "#000000ff",
-                    "title": "BetaGraph.ObjectValue.ElementEvaluation",
+                    "title": "BetaGraph.ElementValue.ElementEvaluation",
                     "type": "sidecar"
                 },
                 {
                     "color": "#9FE1E7",
                     "textcolor": "#000000ff",
-                    "title": "BetaGraph.ObjectValue.ObjectValueExchange",
+                    "title": "BetaGraph.ElementValue.ElementValueExchange",
                     "type": "sidecar"
                 },
                 {
@@ -76080,12 +76080,12 @@
                 "textcolor": "#000000ff"
             },
             {
-                "title": "BetaGraph.ObjectValue.ElementEvaluation",
+                "title": "BetaGraph.ElementValue.ElementEvaluation",
                 "color": "#9FE1E7",
                 "textcolor": "#000000ff"
             },
             {
-                "title": "BetaGraph.ObjectValue.ObjectValueExchange",
+                "title": "BetaGraph.ElementValue.ElementValueExchange",
                 "color": "#9FE1E7",
                 "textcolor": "#000000ff"
             },
@@ -76130,19 +76130,19 @@
                 {
                     "color": "#9FE1E7",
                     "textcolor": "#000000ff",
-                    "title": "BetaGraph.ObjectValue",
+                    "title": "BetaGraph.ElementValue",
                     "type": "sidecar"
                 },
                 {
                     "color": "#9FE1E7",
                     "textcolor": "#000000ff",
-                    "title": "BetaGraph.ObjectValue.ElementEvaluation",
+                    "title": "BetaGraph.ElementValue.ElementEvaluation",
                     "type": "sidecar"
                 },
                 {
                     "color": "#9FE1E7",
                     "textcolor": "#000000ff",
-                    "title": "BetaGraph.ObjectValue.ObjectValueExchange",
+                    "title": "BetaGraph.ElementValue.ElementValueExchange",
                     "type": "sidecar"
                 },
                 {
@@ -76184,17 +76184,17 @@
                 "textcolor": "#000000ff"
             },
             {
-                "title": "BetaGraph.ObjectValue",
+                "title": "BetaGraph.ElementValue",
                 "color": "#9FE1E7",
                 "textcolor": "#000000ff"
             },
             {
-                "title": "BetaGraph.ObjectValue.ElementEvaluation",
+                "title": "BetaGraph.ElementValue.ElementEvaluation",
                 "color": "#9FE1E7",
                 "textcolor": "#000000ff"
             },
             {
-                "title": "BetaGraph.ObjectValue.ObjectValueExchange",
+                "title": "BetaGraph.ElementValue.ElementValueExchange",
                 "color": "#9FE1E7",
                 "textcolor": "#000000ff"
             },
@@ -76243,7 +76243,7 @@
                 {
                     "color": "#9FE1E7",
                     "textcolor": "#000000ff",
-                    "title": "BetaGraph.ObjectValue.ObjectValueChain",
+                    "title": "BetaGraph.ElementValue.ElementValueChain",
                     "type": "sidecar"
                 },
                 {
@@ -76268,7 +76268,7 @@
                 "textcolor": "#000000ff"
             },
             {
-                "title": "BetaGraph.ObjectValue.ObjectValueChain",
+                "title": "BetaGraph.ElementValue.ElementValueChain",
                 "color": "#9FE1E7",
                 "textcolor": "#000000ff"
             },
@@ -76343,7 +76343,7 @@
                 {
                     "color": "#9FE1E7",
                     "textcolor": "#000000ff",
-                    "title": "BetaGraph.ObjectValue.ElementEvaluation",
+                    "title": "BetaGraph.ElementValue.ElementEvaluation",
                     "type": "sidecar"
                 },
                 {
@@ -76404,7 +76404,7 @@
                 "textcolor": "#000000ff"
             },
             {
-                "title": "BetaGraph.ObjectValue.ElementEvaluation",
+                "title": "BetaGraph.ElementValue.ElementEvaluation",
                 "color": "#9FE1E7",
                 "textcolor": "#000000ff"
             },
@@ -76460,19 +76460,19 @@
                 {
                     "color": "#9FE1E7",
                     "textcolor": "#000000ff",
-                    "title": "BetaGraph.ObjectValue.ObjectValueChain",
+                    "title": "BetaGraph.ElementValue.ElementValueChain",
                     "type": "sidecar"
                 },
                 {
                     "color": "#9FE1E7",
                     "textcolor": "#000000ff",
-                    "title": "BetaGraph.ObjectValue.ValueAddition",
+                    "title": "BetaGraph.ElementValue.ValueAddition",
                     "type": "sidecar"
                 },
                 {
                     "color": "#9FE1E7",
                     "textcolor": "#000000ff",
-                    "title": "BetaGraph.ObjectValue.ValueCapture",
+                    "title": "BetaGraph.ElementValue.ValueCapture",
                     "type": "sidecar"
                 },
                 {
@@ -76501,17 +76501,17 @@
                 "textcolor": "#000000ff"
             },
             {
-                "title": "BetaGraph.ObjectValue.ObjectValueChain",
+                "title": "BetaGraph.ElementValue.ElementValueChain",
                 "color": "#9FE1E7",
                 "textcolor": "#000000ff"
             },
             {
-                "title": "BetaGraph.ObjectValue.ValueAddition",
+                "title": "BetaGraph.ElementValue.ValueAddition",
                 "color": "#9FE1E7",
                 "textcolor": "#000000ff"
             },
             {
-                "title": "BetaGraph.ObjectValue.ValueCapture",
+                "title": "BetaGraph.ElementValue.ValueCapture",
                 "color": "#9FE1E7",
                 "textcolor": "#000000ff"
             },
@@ -76545,7 +76545,7 @@
                 {
                     "color": "#9FE1E7",
                     "textcolor": "#000000ff",
-                    "title": "BetaGraph.ObjectValue.EcosystemValueProposition",
+                    "title": "BetaGraph.ElementValue.EcosystemValueProposition",
                     "type": "sidecar"
                 },
                 {
@@ -76564,7 +76564,7 @@
                 "textcolor": "#000000ff"
             },
             {
-                "title": "BetaGraph.ObjectValue.EcosystemValueProposition",
+                "title": "BetaGraph.ElementValue.EcosystemValueProposition",
                 "color": "#9FE1E7",
                 "textcolor": "#000000ff"
             },
@@ -76604,25 +76604,25 @@
                 {
                     "color": "#9FE1E7",
                     "textcolor": "#000000ff",
-                    "title": "BetaGraph.ObjectValue.CreateValue",
+                    "title": "BetaGraph.ElementValue.CreateValue",
                     "type": "sidecar"
                 },
                 {
                     "color": "#9FE1E7",
                     "textcolor": "#000000ff",
-                    "title": "BetaGraph.ObjectValue.ObjectValueExchange",
+                    "title": "BetaGraph.ElementValue.ElementValueExchange",
                     "type": "sidecar"
                 },
                 {
                     "color": "#9FE1E7",
                     "textcolor": "#000000ff",
-                    "title": "BetaGraph.ObjectValue.ValueAddition",
+                    "title": "BetaGraph.ElementValue.ValueAddition",
                     "type": "sidecar"
                 },
                 {
                     "color": "#9FE1E7",
                     "textcolor": "#000000ff",
-                    "title": "BetaGraph.ObjectValue.ValueCapture",
+                    "title": "BetaGraph.ElementValue.ValueCapture",
                     "type": "sidecar"
                 },
                 {
@@ -76646,22 +76646,22 @@
                 "textcolor": "#000000ff"
             },
             {
-                "title": "BetaGraph.ObjectValue.CreateValue",
+                "title": "BetaGraph.ElementValue.CreateValue",
                 "color": "#9FE1E7",
                 "textcolor": "#000000ff"
             },
             {
-                "title": "BetaGraph.ObjectValue.ObjectValueExchange",
+                "title": "BetaGraph.ElementValue.ElementValueExchange",
                 "color": "#9FE1E7",
                 "textcolor": "#000000ff"
             },
             {
-                "title": "BetaGraph.ObjectValue.ValueAddition",
+                "title": "BetaGraph.ElementValue.ValueAddition",
                 "color": "#9FE1E7",
                 "textcolor": "#000000ff"
             },
             {
-                "title": "BetaGraph.ObjectValue.ValueCapture",
+                "title": "BetaGraph.ElementValue.ValueCapture",
                 "color": "#9FE1E7",
                 "textcolor": "#000000ff"
             },
@@ -76737,13 +76737,13 @@
                 {
                     "color": "#9FE1E7",
                     "textcolor": "#000000ff",
-                    "title": "BetaGraph.ObjectValue.ObjectValueChain",
+                    "title": "BetaGraph.ElementValue.ElementValueChain",
                     "type": "sidecar"
                 },
                 {
                     "color": "#9FE1E7",
                     "textcolor": "#000000ff",
-                    "title": "BetaGraph.ObjectValue.ValueAddition",
+                    "title": "BetaGraph.ElementValue.ValueAddition",
                     "type": "sidecar"
                 },
                 {
@@ -76774,12 +76774,12 @@
                 "textcolor": "#000000ff"
             },
             {
-                "title": "BetaGraph.ObjectValue.ObjectValueChain",
+                "title": "BetaGraph.ElementValue.ElementValueChain",
                 "color": "#9FE1E7",
                 "textcolor": "#000000ff"
             },
             {
-                "title": "BetaGraph.ObjectValue.ValueAddition",
+                "title": "BetaGraph.ElementValue.ValueAddition",
                 "color": "#9FE1E7",
                 "textcolor": "#000000ff"
             },
@@ -76853,25 +76853,25 @@
                 {
                     "color": "#9FE1E7",
                     "textcolor": "#000000ff",
-                    "title": "BetaGraph.ObjectValue.ObjectValueType.ProvidesAccess",
+                    "title": "BetaGraph.ElementValue.ElementValueType.ProvidesAccess",
                     "type": "sidecar"
                 },
                 {
                     "color": "#9FE1E7",
                     "textcolor": "#000000ff",
-                    "title": "BetaGraph.ObjectValue.ObjectValueType.ReducesEffort",
+                    "title": "BetaGraph.ElementValue.ElementValueType.ReducesEffort",
                     "type": "sidecar"
                 },
                 {
                     "color": "#9FE1E7",
                     "textcolor": "#000000ff",
-                    "title": "BetaGraph.ObjectValue.ValueAddition",
+                    "title": "BetaGraph.ElementValue.ValueAddition",
                     "type": "sidecar"
                 },
                 {
                     "color": "#9FE1E7",
                     "textcolor": "#000000ff",
-                    "title": "BetaGraph.ObjectValue.ValueCapture",
+                    "title": "BetaGraph.ElementValue.ValueCapture",
                     "type": "sidecar"
                 },
                 {
@@ -76915,22 +76915,22 @@
                 "textcolor": "#000000ff"
             },
             {
-                "title": "BetaGraph.ObjectValue.ObjectValueType.ProvidesAccess",
+                "title": "BetaGraph.ElementValue.ElementValueType.ProvidesAccess",
                 "color": "#9FE1E7",
                 "textcolor": "#000000ff"
             },
             {
-                "title": "BetaGraph.ObjectValue.ObjectValueType.ReducesEffort",
+                "title": "BetaGraph.ElementValue.ElementValueType.ReducesEffort",
                 "color": "#9FE1E7",
                 "textcolor": "#000000ff"
             },
             {
-                "title": "BetaGraph.ObjectValue.ValueAddition",
+                "title": "BetaGraph.ElementValue.ValueAddition",
                 "color": "#9FE1E7",
                 "textcolor": "#000000ff"
             },
             {
-                "title": "BetaGraph.ObjectValue.ValueCapture",
+                "title": "BetaGraph.ElementValue.ValueCapture",
                 "color": "#9FE1E7",
                 "textcolor": "#000000ff"
             },
@@ -77510,7 +77510,7 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "BetaGraph.ObjectValue.ObjectValueExchange",
+                    "title": "BetaGraph.ElementValue.ElementValueExchange",
                     "color": "#9fe1e7ff",
                     "textcolor": "#000000ff",
                     "type": "sidecar"
@@ -77544,7 +77544,7 @@
                 "textcolor": "#000000ff"
             },
             {
-                "title": "BetaGraph.ObjectValue.ObjectValueExchange",
+                "title": "BetaGraph.ElementValue.ElementValueExchange",
                 "color": "#9fe1e7ff",
                 "textcolor": "#000000ff"
             },
@@ -77693,7 +77693,7 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "BetaGraph.ObjectValue.ObjectValueExchange",
+                    "title": "BetaGraph.ElementValue.ElementValueExchange",
                     "color": "#9fe1e7ff",
                     "textcolor": "#000000ff",
                     "type": "sidecar"
@@ -77715,7 +77715,7 @@
                 "textcolor": "#000000ff"
             },
             {
-                "title": "BetaGraph.ObjectValue.ObjectValueExchange",
+                "title": "BetaGraph.ElementValue.ElementValueExchange",
                 "color": "#9fe1e7ff",
                 "textcolor": "#000000ff"
             },
@@ -77841,7 +77841,7 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "BetaGraph.ObjectValue.ObjectValueExchange",
+                    "title": "BetaGraph.ElementValue.ElementValueExchange",
                     "color": "#9fe1e7ff",
                     "textcolor": "#000000ff",
                     "type": "sidecar"
@@ -77863,7 +77863,7 @@
                 "textcolor": "#000000ff"
             },
             {
-                "title": "BetaGraph.ObjectValue.ObjectValueExchange",
+                "title": "BetaGraph.ElementValue.ElementValueExchange",
                 "color": "#9fe1e7ff",
                 "textcolor": "#000000ff"
             },
@@ -77965,7 +77965,7 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "BetaGraph.ObjectValue.ObjectValueExchange",
+                    "title": "BetaGraph.ElementValue.ElementValueExchange",
                     "color": "#9fe1e7ff",
                     "textcolor": "#000000ff",
                     "type": "sidecar"
@@ -77996,7 +77996,7 @@
                 "textcolor": "#000000ff"
             },
             {
-                "title": "BetaGraph.ObjectValue.ObjectValueExchange",
+                "title": "BetaGraph.ElementValue.ElementValueExchange",
                 "color": "#9fe1e7ff",
                 "textcolor": "#000000ff"
             }
@@ -78053,7 +78053,7 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "BetaGraph.ObjectValue.ObjectValueExchange",
+                    "title": "BetaGraph.ElementValue.ElementValueExchange",
                     "color": "#9fe1e7ff",
                     "textcolor": "#000000ff",
                     "type": "sidecar"
@@ -78093,7 +78093,7 @@
                 "textcolor": "#000000ff"
             },
             {
-                "title": "BetaGraph.ObjectValue.ObjectValueExchange",
+                "title": "BetaGraph.ElementValue.ElementValueExchange",
                 "color": "#9fe1e7ff",
                 "textcolor": "#000000ff"
             },
@@ -78674,97 +78674,97 @@
                 {
                     "color": "#9FE1E7",
                     "textcolor": "#000000ff",
-                    "title": "BetaGraph.ObjectValue.ObjectValueType.AvoidsHassles",
+                    "title": "BetaGraph.ElementValue.ElementValueType.AvoidsHassles",
                     "type": "sidecar"
                 },
                 {
                     "color": "#9FE1E7",
                     "textcolor": "#000000ff",
-                    "title": "BetaGraph.ObjectValue.ObjectValueType.Connects",
+                    "title": "BetaGraph.ElementValue.ElementValueType.Connects",
                     "type": "sidecar"
                 },
                 {
                     "color": "#9FE1E7",
                     "textcolor": "#000000ff",
-                    "title": "BetaGraph.ObjectValue.ObjectValueType.Informs",
+                    "title": "BetaGraph.ElementValue.ElementValueType.Informs",
                     "type": "sidecar"
                 },
                 {
                     "color": "#9FE1E7",
                     "textcolor": "#000000ff",
-                    "title": "BetaGraph.ObjectValue.ObjectValueType.Integrates",
+                    "title": "BetaGraph.ElementValue.ElementValueType.Integrates",
                     "type": "sidecar"
                 },
                 {
                     "color": "#9FE1E7",
                     "textcolor": "#000000ff",
-                    "title": "BetaGraph.ObjectValue.ObjectValueType.MakeMoney",
+                    "title": "BetaGraph.ElementValue.ElementValueType.MakeMoney",
                     "type": "sidecar"
                 },
                 {
                     "color": "#9FE1E7",
                     "textcolor": "#000000ff",
-                    "title": "BetaGraph.ObjectValue.ObjectValueType.Motivation",
+                    "title": "BetaGraph.ElementValue.ElementValueType.Motivation",
                     "type": "sidecar"
                 },
                 {
                     "color": "#9FE1E7",
                     "textcolor": "#000000ff",
-                    "title": "BetaGraph.ObjectValue.ObjectValueType.Organizes",
+                    "title": "BetaGraph.ElementValue.ElementValueType.Organizes",
                     "type": "sidecar"
                 },
                 {
                     "color": "#9FE1E7",
                     "textcolor": "#000000ff",
-                    "title": "BetaGraph.ObjectValue.ObjectValueType.ProvidesAccess",
+                    "title": "BetaGraph.ElementValue.ElementValueType.ProvidesAccess",
                     "type": "sidecar"
                 },
                 {
                     "color": "#9FE1E7",
                     "textcolor": "#000000ff",
-                    "title": "BetaGraph.ObjectValue.ObjectValueType.Quality",
+                    "title": "BetaGraph.ElementValue.ElementValueType.Quality",
                     "type": "sidecar"
                 },
                 {
                     "color": "#9FE1E7",
                     "textcolor": "#000000ff",
-                    "title": "BetaGraph.ObjectValue.ObjectValueType.ReducesCost",
+                    "title": "BetaGraph.ElementValue.ElementValueType.ReducesCost",
                     "type": "sidecar"
                 },
                 {
                     "color": "#9FE1E7",
                     "textcolor": "#000000ff",
-                    "title": "BetaGraph.ObjectValue.ObjectValueType.ReducesEffort",
+                    "title": "BetaGraph.ElementValue.ElementValueType.ReducesEffort",
                     "type": "sidecar"
                 },
                 {
                     "color": "#9FE1E7",
                     "textcolor": "#000000ff",
-                    "title": "BetaGraph.ObjectValue.ObjectValueType.ReducesRisk",
+                    "title": "BetaGraph.ElementValue.ElementValueType.ReducesRisk",
                     "type": "sidecar"
                 },
                 {
                     "color": "#9FE1E7",
                     "textcolor": "#000000ff",
-                    "title": "BetaGraph.ObjectValue.ObjectValueType.SavesTime",
+                    "title": "BetaGraph.ElementValue.ElementValueType.SavesTime",
                     "type": "sidecar"
                 },
                 {
                     "color": "#9FE1E7",
                     "textcolor": "#000000ff",
-                    "title": "BetaGraph.ObjectValue.ObjectValueType.SensoryAppeal",
+                    "title": "BetaGraph.ElementValue.ElementValueType.SensoryAppeal",
                     "type": "sidecar"
                 },
                 {
                     "color": "#9FE1E7",
                     "textcolor": "#000000ff",
-                    "title": "BetaGraph.ObjectValue.ObjectValueType.Simplifies",
+                    "title": "BetaGraph.ElementValue.ElementValueType.Simplifies",
                     "type": "sidecar"
                 },
                 {
                     "color": "#9FE1E7",
                     "textcolor": "#000000ff",
-                    "title": "BetaGraph.ObjectValue.ObjectValueType.Variety",
+                    "title": "BetaGraph.ElementValue.ElementValueType.Variety",
                     "type": "sidecar"
                 },
                 {
@@ -78778,82 +78778,82 @@
         "extension": "png",
         "tags": [
             {
-                "title": "BetaGraph.ObjectValue.ObjectValueType.AvoidsHassles",
+                "title": "BetaGraph.ElementValue.ElementValueType.AvoidsHassles",
                 "color": "#9FE1E7",
                 "textcolor": "#000000ff"
             },
             {
-                "title": "BetaGraph.ObjectValue.ObjectValueType.Connects",
+                "title": "BetaGraph.ElementValue.ElementValueType.Connects",
                 "color": "#9FE1E7",
                 "textcolor": "#000000ff"
             },
             {
-                "title": "BetaGraph.ObjectValue.ObjectValueType.Informs",
+                "title": "BetaGraph.ElementValue.ElementValueType.Informs",
                 "color": "#9FE1E7",
                 "textcolor": "#000000ff"
             },
             {
-                "title": "BetaGraph.ObjectValue.ObjectValueType.Integrates",
+                "title": "BetaGraph.ElementValue.ElementValueType.Integrates",
                 "color": "#9FE1E7",
                 "textcolor": "#000000ff"
             },
             {
-                "title": "BetaGraph.ObjectValue.ObjectValueType.MakeMoney",
+                "title": "BetaGraph.ElementValue.ElementValueType.MakeMoney",
                 "color": "#9FE1E7",
                 "textcolor": "#000000ff"
             },
             {
-                "title": "BetaGraph.ObjectValue.ObjectValueType.Motivation",
+                "title": "BetaGraph.ElementValue.ElementValueType.Motivation",
                 "color": "#9FE1E7",
                 "textcolor": "#000000ff"
             },
             {
-                "title": "BetaGraph.ObjectValue.ObjectValueType.Organizes",
+                "title": "BetaGraph.ElementValue.ElementValueType.Organizes",
                 "color": "#9FE1E7",
                 "textcolor": "#000000ff"
             },
             {
-                "title": "BetaGraph.ObjectValue.ObjectValueType.ProvidesAccess",
+                "title": "BetaGraph.ElementValue.ElementValueType.ProvidesAccess",
                 "color": "#9FE1E7",
                 "textcolor": "#000000ff"
             },
             {
-                "title": "BetaGraph.ObjectValue.ObjectValueType.Quality",
+                "title": "BetaGraph.ElementValue.ElementValueType.Quality",
                 "color": "#9FE1E7",
                 "textcolor": "#000000ff"
             },
             {
-                "title": "BetaGraph.ObjectValue.ObjectValueType.ReducesCost",
+                "title": "BetaGraph.ElementValue.ElementValueType.ReducesCost",
                 "color": "#9FE1E7",
                 "textcolor": "#000000ff"
             },
             {
-                "title": "BetaGraph.ObjectValue.ObjectValueType.ReducesEffort",
+                "title": "BetaGraph.ElementValue.ElementValueType.ReducesEffort",
                 "color": "#9FE1E7",
                 "textcolor": "#000000ff"
             },
             {
-                "title": "BetaGraph.ObjectValue.ObjectValueType.ReducesRisk",
+                "title": "BetaGraph.ElementValue.ElementValueType.ReducesRisk",
                 "color": "#9FE1E7",
                 "textcolor": "#000000ff"
             },
             {
-                "title": "BetaGraph.ObjectValue.ObjectValueType.SavesTime",
+                "title": "BetaGraph.ElementValue.ElementValueType.SavesTime",
                 "color": "#9FE1E7",
                 "textcolor": "#000000ff"
             },
             {
-                "title": "BetaGraph.ObjectValue.ObjectValueType.SensoryAppeal",
+                "title": "BetaGraph.ElementValue.ElementValueType.SensoryAppeal",
                 "color": "#9FE1E7",
                 "textcolor": "#000000ff"
             },
             {
-                "title": "BetaGraph.ObjectValue.ObjectValueType.Simplifies",
+                "title": "BetaGraph.ElementValue.ElementValueType.Simplifies",
                 "color": "#9FE1E7",
                 "textcolor": "#000000ff"
             },
             {
-                "title": "BetaGraph.ObjectValue.ObjectValueType.Variety",
+                "title": "BetaGraph.ElementValue.ElementValueType.Variety",
                 "color": "#9FE1E7",
                 "textcolor": "#000000ff"
             },

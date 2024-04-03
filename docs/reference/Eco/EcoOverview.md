@@ -20,9 +20,15 @@ The word "<eco>eco</eco>system" was derived from <eco>eco</eco>logy
 
 In PutPlant's <beta>Beta system</beta> the <eco>Eco</eco> module represents the <eco>homes</eco> of the seedlings that you're planting.
 
-::: details 🛠 <dev>&&&</dev>
+## <eco>What are Eco Elements?</eco>
 
-## EcoElements
+Eco Elements are prefixed by a 🟩 green square icon
+
+- Eco Object
+- Eco Property
+- Eco Method
+
+### <eco>What are Eco Objects?</eco>
 
 ```py
 {
@@ -42,7 +48,9 @@ In PutPlant's <beta>Beta system</beta> the <eco>Eco</eco> module represents the 
 }
 ```
 
-## EcoFunctions
+## <eco>What are Eco Properties?</eco>
+
+## <eco>What are Eco Methods?</eco>
 
 🟩<eco>Atmosphere.Wind()</eco>
 
@@ -51,6 +59,8 @@ In PutPlant's <beta>Beta system</beta> the <eco>Eco</eco> module represents the 
 🟩<eco>Soil.Collapse()</eco>
 
 🟩<eco>Plant.BranchWhip()</eco>
+
+::: details 🛠 <dev>&&&</dev>
 
 ## DevNotes
 

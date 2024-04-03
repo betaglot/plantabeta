@@ -10787,7 +10787,7 @@ data = [
     {
         "PagePath": "dev/BetaGraph.md",
         "PaperPhoto": "90052.png",
-        "TagName": "BetaGraph.ObjectValue"
+        "TagName": "BetaGraph.ElementValue"
     },
     {
         "PagePath": "dev/BetaGraph.md",
@@ -10877,7 +10877,7 @@ data = [
     {
         "PagePath": "dev/BetaGraph.md",
         "PaperPhoto": "90060.png",
-        "TagName": "BetaGraph.ObjectValue.ObjectValueExchange"
+        "TagName": "BetaGraph.ElementValue.ElementValueExchange"
     },
     {
         "PagePath": "dev/BetaGraph.md",
@@ -10907,27 +10907,27 @@ data = [
     {
         "PagePath": "dev/BetaGraph.md",
         "PaperPhoto": "90062.png",
-        "TagName": "BetaGraph.ObjectValue.ObjectValuePictogram"
+        "TagName": "BetaGraph.ElementValue.ElementValuePictogram"
     },
     {
         "PagePath": "dev/BetaGraph.md",
         "PaperPhoto": "90062.png",
-        "TagName": "BetaGraph.ObjectValue.ObjectValueType.Connects"
+        "TagName": "BetaGraph.ElementValue.ElementValueType.Connects"
     },
     {
         "PagePath": "dev/BetaGraph.md",
         "PaperPhoto": "90062.png",
-        "TagName": "BetaGraph.ObjectValue.ObjectValueType.Informs"
+        "TagName": "BetaGraph.ElementValue.ElementValueType.Informs"
     },
     {
         "PagePath": "dev/BetaGraph.md",
         "PaperPhoto": "90062.png",
-        "TagName": "BetaGraph.ObjectValue.ObjectValueType.MakeMoney"
+        "TagName": "BetaGraph.ElementValue.ElementValueType.MakeMoney"
     },
     {
         "PagePath": "dev/BetaGraph.md",
         "PaperPhoto": "90062.png",
-        "TagName": "BetaGraph.ObjectValue.ObjectValueType.Organizes"
+        "TagName": "BetaGraph.ElementValue.ElementValueType.Organizes"
     },
     {
         "PagePath": "dev/BetaGraph.md",
@@ -10947,12 +10947,12 @@ data = [
     {
         "PagePath": "dev/BetaGraph.md",
         "PaperPhoto": "90087.png",
-        "TagName": "BetaGraph.ObjectValue"
+        "TagName": "BetaGraph.ElementValue"
     },
     {
         "PagePath": "dev/BetaGraph.md",
         "PaperPhoto": "90087.png",
-        "TagName": "BetaGraph.ObjectValue.ElementEvaluation"
+        "TagName": "BetaGraph.ElementValue.ElementEvaluation"
     },
     {
         "PagePath": "dev/BetaGraph.md",
@@ -11007,7 +11007,7 @@ data = [
     {
         "PagePath": "dev/BetaGraph.md",
         "PaperPhoto": "90090.png",
-        "TagName": "BetaGraph.ObjectValue.ElementEvaluation"
+        "TagName": "BetaGraph.ElementValue.ElementEvaluation"
     },
     {
         "PagePath": "dev/BetaGraph.md",
@@ -11032,12 +11032,12 @@ data = [
     {
         "PagePath": "dev/BetaGraph.md",
         "PaperPhoto": "90091.png",
-        "TagName": "BetaGraph.ObjectValue.ElementEvaluation"
+        "TagName": "BetaGraph.ElementValue.ElementEvaluation"
     },
     {
         "PagePath": "dev/BetaGraph.md",
         "PaperPhoto": "90091.png",
-        "TagName": "BetaGraph.ObjectValue.ObjectValueExchange"
+        "TagName": "BetaGraph.ElementValue.ElementValueExchange"
     },
     {
         "PagePath": "dev/BetaGraph.md",
@@ -11057,17 +11057,17 @@ data = [
     {
         "PagePath": "dev/BetaGraph.md",
         "PaperPhoto": "90092.png",
-        "TagName": "BetaGraph.ObjectValue"
+        "TagName": "BetaGraph.ElementValue"
     },
     {
         "PagePath": "dev/BetaGraph.md",
         "PaperPhoto": "90092.png",
-        "TagName": "BetaGraph.ObjectValue.ElementEvaluation"
+        "TagName": "BetaGraph.ElementValue.ElementEvaluation"
     },
     {
         "PagePath": "dev/BetaGraph.md",
         "PaperPhoto": "90092.png",
-        "TagName": "BetaGraph.ObjectValue.ObjectValueExchange"
+        "TagName": "BetaGraph.ElementValue.ElementValueExchange"
     },
     {
         "PagePath": "dev/BetaGraph.md",
@@ -11092,17 +11092,17 @@ data = [
     {
         "PagePath": "dev/BetaGraph.md",
         "PaperPhoto": "90093.png",
-        "TagName": "BetaGraph.ObjectValue.ObjectValueChain"
+        "TagName": "BetaGraph.ElementValue.ElementValueChain"
     },
     {
         "PagePath": "dev/BetaGraph.md",
         "PaperPhoto": "90093.png",
-        "TagName": "BetaGraph.ObjectValue.ValueAddition"
+        "TagName": "BetaGraph.ElementValue.ValueAddition"
     },
     {
         "PagePath": "dev/BetaGraph.md",
         "PaperPhoto": "90093.png",
-        "TagName": "BetaGraph.ObjectValue.ValueCapture"
+        "TagName": "BetaGraph.ElementValue.ValueCapture"
     },
     {
         "PagePath": "dev/BetaGraph.md",
@@ -11112,7 +11112,7 @@ data = [
     {
         "PagePath": "dev/BetaGraph.md",
         "PaperPhoto": "90094.png",
-        "TagName": "BetaGraph.ObjectValue.ObjectValueChain"
+        "TagName": "BetaGraph.ElementValue.ElementValueChain"
     },
     {
         "PagePath": "dev/BetaGraph.md",
@@ -11127,7 +11127,7 @@ data = [
     {
         "PagePath": "dev/BetaGraph.md",
         "PaperPhoto": "90095.png",
-        "TagName": "BetaGraph.ObjectValue.EcosystemValueProposition"
+        "TagName": "BetaGraph.ElementValue.EcosystemValueProposition"
     },
     {
         "PagePath": "dev/BetaGraph.md",
@@ -11157,22 +11157,22 @@ data = [
     {
         "PagePath": "dev/BetaGraph.md",
         "PaperPhoto": "90097.png",
-        "TagName": "BetaGraph.ObjectValue.ObjectValueType.ProvidesAccess"
+        "TagName": "BetaGraph.ElementValue.ElementValueType.ProvidesAccess"
     },
     {
         "PagePath": "dev/BetaGraph.md",
         "PaperPhoto": "90097.png",
-        "TagName": "BetaGraph.ObjectValue.ObjectValueType.ReducesEffort"
+        "TagName": "BetaGraph.ElementValue.ElementValueType.ReducesEffort"
     },
     {
         "PagePath": "dev/BetaGraph.md",
         "PaperPhoto": "90097.png",
-        "TagName": "BetaGraph.ObjectValue.ValueAddition"
+        "TagName": "BetaGraph.ElementValue.ValueAddition"
     },
     {
         "PagePath": "dev/BetaGraph.md",
         "PaperPhoto": "90097.png",
-        "TagName": "BetaGraph.ObjectValue.ValueCapture"
+        "TagName": "BetaGraph.ElementValue.ValueCapture"
     },
     {
         "PagePath": "dev/BetaGraph.md",
@@ -11182,32 +11182,32 @@ data = [
     {
         "PagePath": "dev/BetaGraph.md",
         "PaperPhoto": "90098.png",
-        "TagName": "BetaGraph.ObjectValue.CreateValue"
+        "TagName": "BetaGraph.ElementValue.CreateValue"
     },
     {
         "PagePath": "dev/BetaGraph.md",
         "PaperPhoto": "90098.png",
-        "TagName": "BetaGraph.ObjectValue.ObjectValueExchange"
+        "TagName": "BetaGraph.ElementValue.ElementValueExchange"
     },
     {
         "PagePath": "dev/BetaGraph.md",
         "PaperPhoto": "90098.png",
-        "TagName": "BetaGraph.ObjectValue.ValueAddition"
+        "TagName": "BetaGraph.ElementValue.ValueAddition"
     },
     {
         "PagePath": "dev/BetaGraph.md",
         "PaperPhoto": "90098.png",
-        "TagName": "BetaGraph.ObjectValue.ValueCapture"
+        "TagName": "BetaGraph.ElementValue.ValueCapture"
     },
     {
         "PagePath": "dev/BetaGraph.md",
         "PaperPhoto": "90099.png",
-        "TagName": "BetaGraph.ObjectValue.ObjectValueChain"
+        "TagName": "BetaGraph.ElementValue.ElementValueChain"
     },
     {
         "PagePath": "dev/BetaGraph.md",
         "PaperPhoto": "90099.png",
-        "TagName": "BetaGraph.ObjectValue.ValueAddition"
+        "TagName": "BetaGraph.ElementValue.ValueAddition"
     },
     {
         "PagePath": "dev/BetaGraph.md",
@@ -11387,7 +11387,7 @@ data = [
     {
         "PagePath": "dev/BetaGraph.md",
         "PaperPhoto": "90108.png",
-        "TagName": "BetaGraph.ObjectValue.ObjectValueExchange"
+        "TagName": "BetaGraph.ElementValue.ElementValueExchange"
     },
     {
         "PagePath": "dev/BetaGraph.md",
@@ -11407,7 +11407,7 @@ data = [
     {
         "PagePath": "dev/BetaGraph.md",
         "PaperPhoto": "90110.png",
-        "TagName": "BetaGraph.ObjectValue.ObjectValueExchange"
+        "TagName": "BetaGraph.ElementValue.ElementValueExchange"
     },
     {
         "PagePath": "dev/BetaGraph.md",
@@ -11417,7 +11417,7 @@ data = [
     {
         "PagePath": "dev/BetaGraph.md",
         "PaperPhoto": "90111.png",
-        "TagName": "BetaGraph.ObjectValue.ObjectValueExchange"
+        "TagName": "BetaGraph.ElementValue.ElementValueExchange"
     },
     {
         "PagePath": "dev/BetaGraph.md",
@@ -11432,7 +11432,7 @@ data = [
     {
         "PagePath": "dev/BetaGraph.md",
         "PaperPhoto": "90114.png",
-        "TagName": "BetaGraph.ObjectValue.ObjectValueExchange"
+        "TagName": "BetaGraph.ElementValue.ElementValueExchange"
     },
     {
         "PagePath": "dev/BetaGraph.md",
@@ -11457,87 +11457,87 @@ data = [
     {
         "PagePath": "dev/BetaGraph.md",
         "PaperPhoto": "90115.png",
-        "TagName": "BetaGraph.ObjectValue.ObjectValueExchange"
+        "TagName": "BetaGraph.ElementValue.ElementValueExchange"
     },
     {
         "PagePath": "dev/BetaGraph.md",
         "PaperPhoto": "90134.png",
-        "TagName": "BetaGraph.ObjectValue.ObjectValueType.AvoidsHassles"
+        "TagName": "BetaGraph.ElementValue.ElementValueType.AvoidsHassles"
     },
     {
         "PagePath": "dev/BetaGraph.md",
         "PaperPhoto": "90134.png",
-        "TagName": "BetaGraph.ObjectValue.ObjectValueType.Connects"
+        "TagName": "BetaGraph.ElementValue.ElementValueType.Connects"
     },
     {
         "PagePath": "dev/BetaGraph.md",
         "PaperPhoto": "90134.png",
-        "TagName": "BetaGraph.ObjectValue.ObjectValueType.Informs"
+        "TagName": "BetaGraph.ElementValue.ElementValueType.Informs"
     },
     {
         "PagePath": "dev/BetaGraph.md",
         "PaperPhoto": "90134.png",
-        "TagName": "BetaGraph.ObjectValue.ObjectValueType.Integrates"
+        "TagName": "BetaGraph.ElementValue.ElementValueType.Integrates"
     },
     {
         "PagePath": "dev/BetaGraph.md",
         "PaperPhoto": "90134.png",
-        "TagName": "BetaGraph.ObjectValue.ObjectValueType.MakeMoney"
+        "TagName": "BetaGraph.ElementValue.ElementValueType.MakeMoney"
     },
     {
         "PagePath": "dev/BetaGraph.md",
         "PaperPhoto": "90134.png",
-        "TagName": "BetaGraph.ObjectValue.ObjectValueType.Motivation"
+        "TagName": "BetaGraph.ElementValue.ElementValueType.Motivation"
     },
     {
         "PagePath": "dev/BetaGraph.md",
         "PaperPhoto": "90134.png",
-        "TagName": "BetaGraph.ObjectValue.ObjectValueType.Organizes"
+        "TagName": "BetaGraph.ElementValue.ElementValueType.Organizes"
     },
     {
         "PagePath": "dev/BetaGraph.md",
         "PaperPhoto": "90134.png",
-        "TagName": "BetaGraph.ObjectValue.ObjectValueType.ProvidesAccess"
+        "TagName": "BetaGraph.ElementValue.ElementValueType.ProvidesAccess"
     },
     {
         "PagePath": "dev/BetaGraph.md",
         "PaperPhoto": "90134.png",
-        "TagName": "BetaGraph.ObjectValue.ObjectValueType.Quality"
+        "TagName": "BetaGraph.ElementValue.ElementValueType.Quality"
     },
     {
         "PagePath": "dev/BetaGraph.md",
         "PaperPhoto": "90134.png",
-        "TagName": "BetaGraph.ObjectValue.ObjectValueType.ReducesCost"
+        "TagName": "BetaGraph.ElementValue.ElementValueType.ReducesCost"
     },
     {
         "PagePath": "dev/BetaGraph.md",
         "PaperPhoto": "90134.png",
-        "TagName": "BetaGraph.ObjectValue.ObjectValueType.ReducesEffort"
+        "TagName": "BetaGraph.ElementValue.ElementValueType.ReducesEffort"
     },
     {
         "PagePath": "dev/BetaGraph.md",
         "PaperPhoto": "90134.png",
-        "TagName": "BetaGraph.ObjectValue.ObjectValueType.ReducesRisk"
+        "TagName": "BetaGraph.ElementValue.ElementValueType.ReducesRisk"
     },
     {
         "PagePath": "dev/BetaGraph.md",
         "PaperPhoto": "90134.png",
-        "TagName": "BetaGraph.ObjectValue.ObjectValueType.SavesTime"
+        "TagName": "BetaGraph.ElementValue.ElementValueType.SavesTime"
     },
     {
         "PagePath": "dev/BetaGraph.md",
         "PaperPhoto": "90134.png",
-        "TagName": "BetaGraph.ObjectValue.ObjectValueType.SensoryAppeal"
+        "TagName": "BetaGraph.ElementValue.ElementValueType.SensoryAppeal"
     },
     {
         "PagePath": "dev/BetaGraph.md",
         "PaperPhoto": "90134.png",
-        "TagName": "BetaGraph.ObjectValue.ObjectValueType.Simplifies"
+        "TagName": "BetaGraph.ElementValue.ElementValueType.Simplifies"
     },
     {
         "PagePath": "dev/BetaGraph.md",
         "PaperPhoto": "90134.png",
-        "TagName": "BetaGraph.ObjectValue.ObjectValueType.Variety"
+        "TagName": "BetaGraph.ElementValue.ElementValueType.Variety"
     },
     {
         "PagePath": "dev/Graphics/BetaGraphic/Overview.md",

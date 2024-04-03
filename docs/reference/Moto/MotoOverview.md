@@ -3,15 +3,23 @@
 
 ![Moto Icon](/Moto/Moto_Icon.png)
 
-## <moto>Moto Symbol</moto> 🟠
+## <moto>Moto Icon</moto> 🟠
 
 > Orange Circle
 
-## What is a Moto?
+## <moto>What is Moto?</moto>
 
 > to set in motion; to shake; to stir; to move
 
-### <moto>Moto Object</moto>
+## <moto>What is a Moto Element?</moto>
+
+Moto Elements are prefixed by an orange circle 🟠
+
+- Moto Object
+- Moto Property
+- Moto Method
+
+### <moto>What is a Moto Object?</moto>
 
 ```py
 {
@@ -40,9 +48,9 @@
 }
 ```
 
-### <moto>Moto Function()</moto>
+### <moto>What are Moto Properties?</moto>
 
-## <moto>Moto.<neuro>Time</neuro></moto>
+#### <moto>Moto.<neuro>Time</neuro></moto>
 
 - Moto can be slow motion while movement can't. Since Moto is from 1stPOV, time can be relative. Typically time **feels like** it's slowing down when you pay close attention to an object.
 
@@ -50,55 +58,17 @@ Sherlock Fight Scene
 
 300 Fight Scene
 
+### <moto>What are Moto Methods?</moto>
+
 ### "Moto" instead of "Move"
 
 Moto is polyglot
 
-## Moto Types
-
-### Static Moto
-
-No Acceleration
-
-Stand
-
-### Dynamic Moto
-
-Acceleration
-
-- ### Swing
-
-- ### Flag
-
-- ### Grip
-
-- ### Rotate
-
-- ### Pivot
-
-- ### Revolve
-
-- ### Slide
-
-- ### Smear
-
-- ### Hook
-
-## Moto Phrase
+## <moto>What is a Moto Phrase?</moto>
 
 - Represented in Python as a List object.
 
-## Moto Neuroscience
-
-### How does knowledge of neuroscientific mechanisms of Moto improve planter effectiveness?
-
-- Learning
-
-### Types
-
-- Central Pattern Generators
-
-## MotoError
+## <moto>What is a MotoError?</moto>
 
 Errors don't necessarily come from you, they could arise from VegeMoto.
 

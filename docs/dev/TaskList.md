@@ -154,8 +154,19 @@ Connect Academia to PutPlant by linking to each field's current understanding.
 ### Create a non-profit
 
 - Add to Contribution Guide
-- Open Source License
+
 - Create legal disclaimer about accepting advice
+
+### Contribution Guide Legal
+
+### Copyright
+
+- Open Source License
+- PutPlant name
+
+### Disclaimer
+
+- Medical Advice
 
 ---
 

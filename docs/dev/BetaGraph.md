@@ -616,38 +616,38 @@ MotoState
 - "BetaGraph.EcosystemMapPie.ConcentricRings"
 - "BetaGraph.EcosystemMapPie.ConcentricRings.RingLabel"
 - "BetaGraph.EcosystemMapPie.PieSection"
-- "BetaGraph.ObjectAction"
-- "BetaGraph.ObjectAction.Enable"
-- "BetaGraph.ObjectAction.Produce"
-- "BetaGraph.ObjectDependencies"
-- "BetaGraph.ObjectImportance"
-- "BetaGraph.ObjectImportance.DegreeOfInfluence"
-- "BetaGraph.ObjectRole"
-- "BetaGraph.ObjectValue"
-- "BetaGraph.ObjectValue.CreateValue"
-- "BetaGraph.ObjectValue.EcosystemValueProposition"
-- "BetaGraph.ObjectValue.ObjectEvaluation"
-- "BetaGraph.ObjectValue.ObjectValueChain"
-- "BetaGraph.ObjectValue.ObjectValueExchange"
-- "BetaGraph.ObjectValue.ObjectValuePictogram"
-- "BetaGraph.ObjectValue.ObjectValueType.AvoidsHassles"
-- "BetaGraph.ObjectValue.ObjectValueType.Connects"
-- "BetaGraph.ObjectValue.ObjectValueType.Informs"
-- "BetaGraph.ObjectValue.ObjectValueType.Integrates"
-- "BetaGraph.ObjectValue.ObjectValueType.MakeMoney"
-- "BetaGraph.ObjectValue.ObjectValueType.Motivation"
-- "BetaGraph.ObjectValue.ObjectValueType.Organizes"
-- "BetaGraph.ObjectValue.ObjectValueType.ProvidesAccess"
-- "BetaGraph.ObjectValue.ObjectValueType.Quality"
-- "BetaGraph.ObjectValue.ObjectValueType.ReducesCost"
-- "BetaGraph.ObjectValue.ObjectValueType.ReducesEffort"
-- "BetaGraph.ObjectValue.ObjectValueType.ReducesRisk"
-- "BetaGraph.ObjectValue.ObjectValueType.SavesTime"
-- "BetaGraph.ObjectValue.ObjectValueType.SensoryAppeal"
-- "BetaGraph.ObjectValue.ObjectValueType.Simplifies"
-- "BetaGraph.ObjectValue.ObjectValueType.Variety"
-- "BetaGraph.ObjectValue.ValueAddition"
-- "BetaGraph.ObjectValue.ValueCapture"
+- "BetaGraph.ElementAction"
+- "BetaGraph.ElementAction.Enable"
+- "BetaGraph.ElementAction.Produce"
+- "BetaGraph.ElementDependencies"
+- "BetaGraph.ElementImportance"
+- "BetaGraph.ElementImportance.DegreeOfInfluence"
+- "BetaGraph.ElementRole"
+- "BetaGraph.ElementValue"
+- "BetaGraph.ElementValue.CreateValue"
+- "BetaGraph.ElementValue.EcosystemValueProposition"
+- "BetaGraph.ElementValue.ObjectEvaluation"
+- "BetaGraph.ElementValue.ElementValueChain"
+- "BetaGraph.ElementValue.ElementValueExchange"
+- "BetaGraph.ElementValue.ElementValuePictogram"
+- "BetaGraph.ElementValue.ElementValueType.AvoidsHassles"
+- "BetaGraph.ElementValue.ElementValueType.Connects"
+- "BetaGraph.ElementValue.ElementValueType.Informs"
+- "BetaGraph.ElementValue.ElementValueType.Integrates"
+- "BetaGraph.ElementValue.ElementValueType.MakeMoney"
+- "BetaGraph.ElementValue.ElementValueType.Motivation"
+- "BetaGraph.ElementValue.ElementValueType.Organizes"
+- "BetaGraph.ElementValue.ElementValueType.ProvidesAccess"
+- "BetaGraph.ElementValue.ElementValueType.Quality"
+- "BetaGraph.ElementValue.ElementValueType.ReducesCost"
+- "BetaGraph.ElementValue.ElementValueType.ReducesEffort"
+- "BetaGraph.ElementValue.ElementValueType.ReducesRisk"
+- "BetaGraph.ElementValue.ElementValueType.SavesTime"
+- "BetaGraph.ElementValue.ElementValueType.SensoryAppeal"
+- "BetaGraph.ElementValue.ElementValueType.Simplifies"
+- "BetaGraph.ElementValue.ElementValueType.Variety"
+- "BetaGraph.ElementValue.ValueAddition"
+- "BetaGraph.ElementValue.ValueCapture"
 - "BetaGraph.Hardware.Screen"
 - "BetaGraph.Hardware.Whiteboard"
 - "BetaGraph.LevelOfComplexity"
@@ -686,7 +686,7 @@ dev/BetaGraph.md, <dev>Dev.Pictogram</dev>, ![0595.jpg](/PaperPhoto/0595.jpg)
 dev/BetaGraph.md, <dev>BetaGraph</dev>, ![0595.jpg](/PaperPhoto/0595.jpg)
 dev/BetaGraph.md, <dev>Dev.Object.ObjectCard.Comparison(ObjectCards)</dev>, ![0596.jpg](/PaperPhoto/0596.jpg)
 dev/BetaGraph.md, <dev>Dev.Object.ObjectCard.Comparison(ObjectCards)</dev>, ![0600.jpg](/PaperPhoto/0600.jpg)
-dev/BetaGraph.md, <dev>BetaGraph.ObjectDependencies</dev>, ![0648.jpg](/PaperPhoto/0648.jpg)
+dev/BetaGraph.md, <dev>BetaGraph.ElementDependencies</dev>, ![0648.jpg](/PaperPhoto/0648.jpg)
 dev/BetaGraph.md, <dev>BetaGraph</dev>, ![0705.jpg](/PaperPhoto/0705.jpg)
 dev/BetaGraph.md, <dev>BetaGraph</dev>, ![0728.jpg](/PaperPhoto/0728.jpg)
 dev/BetaGraph.md, <dev>BetaGraph</dev>, ![0784.jpg](/PaperPhoto/0784.jpg)
@@ -694,9 +694,9 @@ dev/BetaGraph.md, <dev>BetaGraph.MetroMap</dev>, ![0784.jpg](/PaperPhoto/0784.jp
 dev/BetaGraph.md, <dev>BetaGraph</dev>, ![0831.jpg](/PaperPhoto/0831.jpg)
 dev/BetaGraph.md, <dev>BetaGraph</dev>, ![0965.jpg](/PaperPhoto/0965.jpg)
 dev/BetaGraph.md, <dev>BetaGraph</dev>, ![1044.jpg](/PaperPhoto/1044.jpg)
-dev/BetaGraph.md, <dev>BetaGraph.ObjectDependencies</dev>, ![1059.jpg](/PaperPhoto/1059.jpg)
+dev/BetaGraph.md, <dev>BetaGraph.ElementDependencies</dev>, ![1059.jpg](/PaperPhoto/1059.jpg)
 dev/BetaGraph.md, <dev>BetaGraph</dev>, ![1075.jpg](/PaperPhoto/1075.jpg)
-dev/BetaGraph.md, <dev>BetaGraph.ObjectDependencies</dev>, ![1075.jpg](/PaperPhoto/1075.jpg)
+dev/BetaGraph.md, <dev>BetaGraph.ElementDependencies</dev>, ![1075.jpg](/PaperPhoto/1075.jpg)
 dev/BetaGraph.md, <dev>BetaGraph</dev>, ![1099.jpg](/PaperPhoto/1099.jpg)
 dev/BetaGraph.md, <dev>Dev.Pictogram</dev>, ![1186.jpg](/PaperPhoto/1186.jpg)
 dev/BetaGraph.md, <dev>BetaGraph</dev>, ![1187.jpg](/PaperPhoto/1187.jpg)
@@ -837,42 +837,42 @@ dev/BetaGraph.md, <dev>BetaGraph</dev>, ![90051.jpg](/PaperPhoto/90051.jpg)
 dev/BetaGraph.md, <dev>BetaGraph.ColorCode</dev>, ![90052.png](/PaperPhoto/90052.png)
 dev/BetaGraph.md, <dev>BetaGraph.ColorCode.Highlight</dev>, ![90052.png](/PaperPhoto/90052.png)
 dev/BetaGraph.md, <dev>BetaGraph.EcosystemMap</dev>, ![90052.png](/PaperPhoto/90052.png)
-dev/BetaGraph.md, <dev>BetaGraph.ObjectDependencies</dev>, ![90052.png](/PaperPhoto/90052.png)
-dev/BetaGraph.md, <dev>BetaGraph.ObjectImportance</dev>, ![90052.png](/PaperPhoto/90052.png)
-dev/BetaGraph.md, <dev>BetaGraph.ObjectValue</dev>, ![90052.png](/PaperPhoto/90052.png)
+dev/BetaGraph.md, <dev>BetaGraph.ElementDependencies</dev>, ![90052.png](/PaperPhoto/90052.png)
+dev/BetaGraph.md, <dev>BetaGraph.ElementImportance</dev>, ![90052.png](/PaperPhoto/90052.png)
+dev/BetaGraph.md, <dev>BetaGraph.ElementValue</dev>, ![90052.png](/PaperPhoto/90052.png)
 dev/BetaGraph.md, <dev>BetaGraph.NodeSize</dev>, ![90052.png](/PaperPhoto/90052.png)
 dev/BetaGraph.md, <dev>BetaGraph.StakeholderMap</dev>, ![90052.png](/PaperPhoto/90052.png)
 dev/BetaGraph.md, <dev>BetaGraph</dev>, ![90054.png](/PaperPhoto/90054.png)
 dev/BetaGraph.md, <dev>BetaGraph.EcosystemMap</dev>, ![90054.png](/PaperPhoto/90054.png)
 dev/BetaGraph.md, <dev>BetaGraph.ColorCode</dev>, ![90055.png](/PaperPhoto/90055.png)
 dev/BetaGraph.md, <dev>BetaGraph.ColorCode</dev>, ![90056.png](/PaperPhoto/90056.png)
-dev/BetaGraph.md, <dev>BetaGraph.ObjectImportance</dev>, ![90056.png](/PaperPhoto/90056.png)
+dev/BetaGraph.md, <dev>BetaGraph.ElementImportance</dev>, ![90056.png](/PaperPhoto/90056.png)
 dev/BetaGraph.md, <dev>BetaGraph.NodeSize</dev>, ![90056.png](/PaperPhoto/90056.png)
 dev/BetaGraph.md, <dev>BetaGraph.StakeholderMap</dev>, ![90056.png](/PaperPhoto/90056.png)
-dev/BetaGraph.md, <dev>BetaGraph.ObjectImportance</dev>, ![90057.png](/PaperPhoto/90057.png)
-dev/BetaGraph.md, <dev>BetaGraph.ObjectImportance.DegreeOfInfluence</dev>, ![90057.png](/PaperPhoto/90057.png)
+dev/BetaGraph.md, <dev>BetaGraph.ElementImportance</dev>, ![90057.png](/PaperPhoto/90057.png)
+dev/BetaGraph.md, <dev>BetaGraph.ElementImportance.DegreeOfInfluence</dev>, ![90057.png](/PaperPhoto/90057.png)
 dev/BetaGraph.md, <dev>BetaGraph.NodeSize</dev>, ![90057.png](/PaperPhoto/90057.png)
 dev/BetaGraph.md, <dev>BetaGraph.ColorCode</dev>, ![90059.png](/PaperPhoto/90059.png)
 dev/BetaGraph.md, <dev>BetaGraph.EcosystemMapPie.ConcentricRings</dev>, ![90059.png](/PaperPhoto/90059.png)
 dev/BetaGraph.md, <dev>BetaGraph.MetroMap</dev>, ![90059.png](/PaperPhoto/90059.png)
 dev/BetaGraph.md, <dev>BetaGraph.StakeholderMap</dev>, ![90059.png](/PaperPhoto/90059.png)
 dev/BetaGraph.md, <dev>BetaGraph.EcosystemMapPie.ConcentricRings</dev>, ![90060.png](/PaperPhoto/90060.png)
-dev/BetaGraph.md, <dev>BetaGraph.ObjectValue.ObjectValueExchange</dev>, ![90060.png](/PaperPhoto/90060.png)
+dev/BetaGraph.md, <dev>BetaGraph.ElementValue.ElementValueExchange</dev>, ![90060.png](/PaperPhoto/90060.png)
 dev/BetaGraph.md, <dev>BetaGraph.Hardware.Screen</dev>, ![90060.png](/PaperPhoto/90060.png)
 dev/BetaGraph.md, <dev>BetaGraph.Hardware.Whiteboard</dev>, ![90060.png](/PaperPhoto/90060.png)
 dev/BetaGraph.md, <dev>BetaGraph.EcosystemMapPie.ConcentricRings</dev>, ![90061.png](/PaperPhoto/90061.png)
 dev/BetaGraph.md, <dev>BetaGraph.PostIt</dev>, ![90061.png](/PaperPhoto/90061.png)
 dev/BetaGraph.md, <dev>BetaGraph.EcosystemMapPie.ConcentricRings</dev>, ![90062.png](/PaperPhoto/90062.png)
-dev/BetaGraph.md, <dev>BetaGraph.ObjectValue.ObjectValuePictogram</dev>, ![90062.png](/PaperPhoto/90062.png)
-dev/BetaGraph.md, <dev>BetaGraph.ObjectValue.ObjectValueType.Connects</dev>, ![90062.png](/PaperPhoto/90062.png)
-dev/BetaGraph.md, <dev>BetaGraph.ObjectValue.ObjectValueType.Informs</dev>, ![90062.png](/PaperPhoto/90062.png)
-dev/BetaGraph.md, <dev>BetaGraph.ObjectValue.ObjectValueType.MakeMoney</dev>, ![90062.png](/PaperPhoto/90062.png)
-dev/BetaGraph.md, <dev>BetaGraph.ObjectValue.ObjectValueType.Organizes</dev>, ![90062.png](/PaperPhoto/90062.png)
+dev/BetaGraph.md, <dev>BetaGraph.ElementValue.ElementValuePictogram</dev>, ![90062.png](/PaperPhoto/90062.png)
+dev/BetaGraph.md, <dev>BetaGraph.ElementValue.ElementValueType.Connects</dev>, ![90062.png](/PaperPhoto/90062.png)
+dev/BetaGraph.md, <dev>BetaGraph.ElementValue.ElementValueType.Informs</dev>, ![90062.png](/PaperPhoto/90062.png)
+dev/BetaGraph.md, <dev>BetaGraph.ElementValue.ElementValueType.MakeMoney</dev>, ![90062.png](/PaperPhoto/90062.png)
+dev/BetaGraph.md, <dev>BetaGraph.ElementValue.ElementValueType.Organizes</dev>, ![90062.png](/PaperPhoto/90062.png)
 dev/BetaGraph.md, <dev>BetaGraph.NodeSize</dev>, ![90062.png](/PaperPhoto/90062.png)
-dev/BetaGraph.md, <dev>BetaGraph.ObjectImportance.DegreeOfInfluence</dev>, ![90063.png](/PaperPhoto/90063.png)
+dev/BetaGraph.md, <dev>BetaGraph.ElementImportance.DegreeOfInfluence</dev>, ![90063.png](/PaperPhoto/90063.png)
 dev/BetaGraph.md, <dev>BetaGraph.StakeholderMap</dev>, ![90063.png](/PaperPhoto/90063.png)
-dev/BetaGraph.md, <dev>BetaGraph.ObjectValue</dev>, ![90087.png](/PaperPhoto/90087.png)
-dev/BetaGraph.md, <dev>BetaGraph.ObjectValue.ObjectEvaluation</dev>, ![90087.png](/PaperPhoto/90087.png)
+dev/BetaGraph.md, <dev>BetaGraph.ElementValue</dev>, ![90087.png](/PaperPhoto/90087.png)
+dev/BetaGraph.md, <dev>BetaGraph.ElementValue.ObjectEvaluation</dev>, ![90087.png](/PaperPhoto/90087.png)
 dev/BetaGraph.md, <dev>BetaGraph.Phrase</dev>, ![90087.png](/PaperPhoto/90087.png)
 dev/BetaGraph.md, <dev>BetaGraph.StakeholderMap</dev>, ![90087.png](/PaperPhoto/90087.png)
 dev/BetaGraph.md, <dev>BetaGraph.Timeline</dev>, ![90087.png](/PaperPhoto/90087.png)
@@ -882,48 +882,48 @@ dev/BetaGraph.md, <dev>BetaGraph.ColorCode</dev>, ![90090.png](/PaperPhoto/90090
 dev/BetaGraph.md, <dev>BetaGraph.DirectRelationship</dev>, ![90090.png](/PaperPhoto/90090.png)
 dev/BetaGraph.md, <dev>BetaGraph.EcosystemMapPie</dev>, ![90090.png](/PaperPhoto/90090.png)
 dev/BetaGraph.md, <dev>BetaGraph.EcosystemMapPie.ConcentricRings</dev>, ![90090.png](/PaperPhoto/90090.png)
-dev/BetaGraph.md, <dev>BetaGraph.ObjectRole</dev>, ![90090.png](/PaperPhoto/90090.png)
-dev/BetaGraph.md, <dev>BetaGraph.ObjectValue.ObjectEvaluation</dev>, ![90090.png](/PaperPhoto/90090.png)
+dev/BetaGraph.md, <dev>BetaGraph.ElementRole</dev>, ![90090.png](/PaperPhoto/90090.png)
+dev/BetaGraph.md, <dev>BetaGraph.ElementValue.ObjectEvaluation</dev>, ![90090.png](/PaperPhoto/90090.png)
 dev/BetaGraph.md, <dev>BetaGraph.Symbols</dev>, ![90090.png](/PaperPhoto/90090.png)
 dev/BetaGraph.md, <dev>BetaGraph.ColorCode</dev>, ![90091.png](/PaperPhoto/90091.png)
 dev/BetaGraph.md, <dev>BetaGraph.EcosystemMapPie</dev>, ![90091.png](/PaperPhoto/90091.png)
 dev/BetaGraph.md, <dev>BetaGraph.EcosystemMapPie.ConcentricRings</dev>, ![90091.png](/PaperPhoto/90091.png)
-dev/BetaGraph.md, <dev>BetaGraph.ObjectValue.ObjectEvaluation</dev>, ![90091.png](/PaperPhoto/90091.png)
-dev/BetaGraph.md, <dev>BetaGraph.ObjectValue.ObjectValueExchange</dev>, ![90091.png](/PaperPhoto/90091.png)
+dev/BetaGraph.md, <dev>BetaGraph.ElementValue.ObjectEvaluation</dev>, ![90091.png](/PaperPhoto/90091.png)
+dev/BetaGraph.md, <dev>BetaGraph.ElementValue.ElementValueExchange</dev>, ![90091.png](/PaperPhoto/90091.png)
 dev/BetaGraph.md, <dev>BetaGraph.Symbols</dev>, ![90091.png](/PaperPhoto/90091.png)
 dev/BetaGraph.md, <dev>BetaGraph.EcosystemMapPie.ConcentricRings</dev>, ![90092.png](/PaperPhoto/90092.png)
 dev/BetaGraph.md, <dev>BetaGraph.EcosystemMapPie.PieSection</dev>, ![90092.png](/PaperPhoto/90092.png)
-dev/BetaGraph.md, <dev>BetaGraph.ObjectValue</dev>, ![90092.png](/PaperPhoto/90092.png)
-dev/BetaGraph.md, <dev>BetaGraph.ObjectValue.ObjectEvaluation</dev>, ![90092.png](/PaperPhoto/90092.png)
-dev/BetaGraph.md, <dev>BetaGraph.ObjectValue.ObjectValueExchange</dev>, ![90092.png](/PaperPhoto/90092.png)
+dev/BetaGraph.md, <dev>BetaGraph.ElementValue</dev>, ![90092.png](/PaperPhoto/90092.png)
+dev/BetaGraph.md, <dev>BetaGraph.ElementValue.ObjectEvaluation</dev>, ![90092.png](/PaperPhoto/90092.png)
+dev/BetaGraph.md, <dev>BetaGraph.ElementValue.ElementValueExchange</dev>, ![90092.png](/PaperPhoto/90092.png)
 dev/BetaGraph.md, <dev>BetaGraph.Phrase</dev>, ![90092.png](/PaperPhoto/90092.png)
 dev/BetaGraph.md, <dev>BetaGraph.PostIt</dev>, ![90092.png](/PaperPhoto/90092.png)
 dev/BetaGraph.md, <dev>BetaGraph.ColorCode</dev>, ![90093.png](/PaperPhoto/90093.png)
 dev/BetaGraph.md, <dev>BetaGraph.EcosystemMapPie.PieSection</dev>, ![90093.png](/PaperPhoto/90093.png)
-dev/BetaGraph.md, <dev>BetaGraph.ObjectValue.ObjectValueChain</dev>, ![90093.png](/PaperPhoto/90093.png)
-dev/BetaGraph.md, <dev>BetaGraph.ObjectValue.ValueAddition</dev>, ![90093.png](/PaperPhoto/90093.png)
-dev/BetaGraph.md, <dev>BetaGraph.ObjectValue.ValueCapture</dev>, ![90093.png](/PaperPhoto/90093.png)
+dev/BetaGraph.md, <dev>BetaGraph.ElementValue.ElementValueChain</dev>, ![90093.png](/PaperPhoto/90093.png)
+dev/BetaGraph.md, <dev>BetaGraph.ElementValue.ValueAddition</dev>, ![90093.png](/PaperPhoto/90093.png)
+dev/BetaGraph.md, <dev>BetaGraph.ElementValue.ValueCapture</dev>, ![90093.png](/PaperPhoto/90093.png)
 dev/BetaGraph.md, <dev>BetaGraph.EcosystemMapPie.PieSection</dev>, ![90094.png](/PaperPhoto/90094.png)
-dev/BetaGraph.md, <dev>BetaGraph.ObjectValue.ObjectValueChain</dev>, ![90094.png](/PaperPhoto/90094.png)
+dev/BetaGraph.md, <dev>BetaGraph.ElementValue.ElementValueChain</dev>, ![90094.png](/PaperPhoto/90094.png)
 dev/BetaGraph.md, <dev>BetaGraph.Phrase</dev>, ![90094.png](/PaperPhoto/90094.png)
 dev/BetaGraph.md, <dev>BetaGraph.EcosystemMapPie.CentralObject</dev>, ![90095.png](/PaperPhoto/90095.png)
-dev/BetaGraph.md, <dev>BetaGraph.ObjectValue.EcosystemValueProposition</dev>, ![90095.png](/PaperPhoto/90095.png)
+dev/BetaGraph.md, <dev>BetaGraph.ElementValue.EcosystemValueProposition</dev>, ![90095.png](/PaperPhoto/90095.png)
 dev/BetaGraph.md, <dev>BetaGraph.EcosystemMapPie.PieSection</dev>, ![90096.png](/PaperPhoto/90096.png)
-dev/BetaGraph.md, <dev>BetaGraph.ObjectAction</dev>, ![90097.png](/PaperPhoto/90097.png)
-dev/BetaGraph.md, <dev>BetaGraph.ObjectAction.Enable</dev>, ![90097.png](/PaperPhoto/90097.png)
-dev/BetaGraph.md, <dev>BetaGraph.ObjectAction.Produce</dev>, ![90097.png](/PaperPhoto/90097.png)
-dev/BetaGraph.md, <dev>BetaGraph.ObjectDependencies</dev>, ![90097.png](/PaperPhoto/90097.png)
-dev/BetaGraph.md, <dev>BetaGraph.ObjectValue.ObjectValueType.ProvidesAccess</dev>, ![90097.png](/PaperPhoto/90097.png)
-dev/BetaGraph.md, <dev>BetaGraph.ObjectValue.ObjectValueType.ReducesEffort</dev>, ![90097.png](/PaperPhoto/90097.png)
-dev/BetaGraph.md, <dev>BetaGraph.ObjectValue.ValueAddition</dev>, ![90097.png](/PaperPhoto/90097.png)
-dev/BetaGraph.md, <dev>BetaGraph.ObjectValue.ValueCapture</dev>, ![90097.png](/PaperPhoto/90097.png)
+dev/BetaGraph.md, <dev>BetaGraph.ElementAction</dev>, ![90097.png](/PaperPhoto/90097.png)
+dev/BetaGraph.md, <dev>BetaGraph.ElementAction.Enable</dev>, ![90097.png](/PaperPhoto/90097.png)
+dev/BetaGraph.md, <dev>BetaGraph.ElementAction.Produce</dev>, ![90097.png](/PaperPhoto/90097.png)
+dev/BetaGraph.md, <dev>BetaGraph.ElementDependencies</dev>, ![90097.png](/PaperPhoto/90097.png)
+dev/BetaGraph.md, <dev>BetaGraph.ElementValue.ElementValueType.ProvidesAccess</dev>, ![90097.png](/PaperPhoto/90097.png)
+dev/BetaGraph.md, <dev>BetaGraph.ElementValue.ElementValueType.ReducesEffort</dev>, ![90097.png](/PaperPhoto/90097.png)
+dev/BetaGraph.md, <dev>BetaGraph.ElementValue.ValueAddition</dev>, ![90097.png](/PaperPhoto/90097.png)
+dev/BetaGraph.md, <dev>BetaGraph.ElementValue.ValueCapture</dev>, ![90097.png](/PaperPhoto/90097.png)
 dev/BetaGraph.md, <dev>BetaGraph.EcosystemMapPie.PieSection</dev>, ![90098.png](/PaperPhoto/90098.png)
-dev/BetaGraph.md, <dev>BetaGraph.ObjectValue.CreateValue</dev>, ![90098.png](/PaperPhoto/90098.png)
-dev/BetaGraph.md, <dev>BetaGraph.ObjectValue.ObjectValueExchange</dev>, ![90098.png](/PaperPhoto/90098.png)
-dev/BetaGraph.md, <dev>BetaGraph.ObjectValue.ValueAddition</dev>, ![90098.png](/PaperPhoto/90098.png)
-dev/BetaGraph.md, <dev>BetaGraph.ObjectValue.ValueCapture</dev>, ![90098.png](/PaperPhoto/90098.png)
-dev/BetaGraph.md, <dev>BetaGraph.ObjectValue.ObjectValueChain</dev>, ![90099.png](/PaperPhoto/90099.png)
-dev/BetaGraph.md, <dev>BetaGraph.ObjectValue.ValueAddition</dev>, ![90099.png](/PaperPhoto/90099.png)
+dev/BetaGraph.md, <dev>BetaGraph.ElementValue.CreateValue</dev>, ![90098.png](/PaperPhoto/90098.png)
+dev/BetaGraph.md, <dev>BetaGraph.ElementValue.ElementValueExchange</dev>, ![90098.png](/PaperPhoto/90098.png)
+dev/BetaGraph.md, <dev>BetaGraph.ElementValue.ValueAddition</dev>, ![90098.png](/PaperPhoto/90098.png)
+dev/BetaGraph.md, <dev>BetaGraph.ElementValue.ValueCapture</dev>, ![90098.png](/PaperPhoto/90098.png)
+dev/BetaGraph.md, <dev>BetaGraph.ElementValue.ElementValueChain</dev>, ![90099.png](/PaperPhoto/90099.png)
+dev/BetaGraph.md, <dev>BetaGraph.ElementValue.ValueAddition</dev>, ![90099.png](/PaperPhoto/90099.png)
 dev/BetaGraph.md, <dev>BetaGraph.Phrase</dev>, ![90099.png](/PaperPhoto/90099.png)
 dev/BetaGraph.md, <dev>BetaGraph.PostIt</dev>, ![90099.png](/PaperPhoto/90099.png)
 dev/BetaGraph.md, <dev>BetaGraph.ColorCode.Highlight</dev>, ![90100.png](/PaperPhoto/90100.png)
@@ -959,36 +959,36 @@ dev/BetaGraph.md, <dev>BetaGraph.EcosystemMapPie.ConcentricRings</dev>, ![90107.
 dev/BetaGraph.md, <dev>BetaGraph.EcosystemMapPie.ConcentricRings.RingLabel</dev>, ![90107.png](/PaperPhoto/90107.png)
 dev/BetaGraph.md, <dev>BetaGraph.EcosystemMapPie.PieSection</dev>, ![90107.png](/PaperPhoto/90107.png)
 dev/BetaGraph.md, <dev>BetaGraph.ColorCode</dev>, ![90108.png](/PaperPhoto/90108.png)
-dev/BetaGraph.md, <dev>BetaGraph.ObjectValue.ObjectValueExchange</dev>, ![90108.png](/PaperPhoto/90108.png)
+dev/BetaGraph.md, <dev>BetaGraph.ElementValue.ElementValueExchange</dev>, ![90108.png](/PaperPhoto/90108.png)
 dev/BetaGraph.md, <dev>BetaGraph.LevelOfComplexity</dev>, ![90108.png](/PaperPhoto/90108.png)
 dev/BetaGraph.md, <dev>BetaGraph.LevelOfComplexity</dev>, ![90109.png](/PaperPhoto/90109.png)
 dev/BetaGraph.md, <dev>BetaGraph.ColorCode</dev>, ![90110.png](/PaperPhoto/90110.png)
-dev/BetaGraph.md, <dev>BetaGraph.ObjectValue.ObjectValueExchange</dev>, ![90110.png](/PaperPhoto/90110.png)
+dev/BetaGraph.md, <dev>BetaGraph.ElementValue.ElementValueExchange</dev>, ![90110.png](/PaperPhoto/90110.png)
 dev/BetaGraph.md, <dev>BetaGraph.ColorCode</dev>, ![90111.png](/PaperPhoto/90111.png)
-dev/BetaGraph.md, <dev>BetaGraph.ObjectValue.ObjectValueExchange</dev>, ![90111.png](/PaperPhoto/90111.png)
+dev/BetaGraph.md, <dev>BetaGraph.ElementValue.ElementValueExchange</dev>, ![90111.png](/PaperPhoto/90111.png)
 dev/BetaGraph.md, <dev>BetaGraph.PostIt</dev>, ![90112.png](/PaperPhoto/90112.png)
 dev/BetaGraph.md, <dev>BetaGraph.NodeSize</dev>, ![90113.png](/PaperPhoto/90113.png)
-dev/BetaGraph.md, <dev>BetaGraph.ObjectValue.ObjectValueExchange</dev>, ![90114.png](/PaperPhoto/90114.png)
+dev/BetaGraph.md, <dev>BetaGraph.ElementValue.ElementValueExchange</dev>, ![90114.png](/PaperPhoto/90114.png)
 dev/BetaGraph.md, <dev>BetaGraph.NodeSize</dev>, ![90114.png](/PaperPhoto/90114.png)
 dev/BetaGraph.md, <dev>BetaGraph.ColorCode</dev>, ![90115.png](/PaperPhoto/90115.png)
 dev/BetaGraph.md, <dev>BetaGraph.EcosystemMapPie.ConcentricRings</dev>, ![90115.png](/PaperPhoto/90115.png)
 dev/BetaGraph.md, <dev>BetaGraph.EcosystemMapPie.ConcentricRings.RingLabel</dev>, ![90115.png](/PaperPhoto/90115.png)
-dev/BetaGraph.md, <dev>BetaGraph.ObjectValue.ObjectValueExchange</dev>, ![90115.png](/PaperPhoto/90115.png)
-dev/BetaGraph.md, <dev>BetaGraph.ObjectValue.ObjectValueType.AvoidsHassles</dev>, ![90134.png](/PaperPhoto/90134.png)
-dev/BetaGraph.md, <dev>BetaGraph.ObjectValue.ObjectValueType.Connects</dev>, ![90134.png](/PaperPhoto/90134.png)
-dev/BetaGraph.md, <dev>BetaGraph.ObjectValue.ObjectValueType.Informs</dev>, ![90134.png](/PaperPhoto/90134.png)
-dev/BetaGraph.md, <dev>BetaGraph.ObjectValue.ObjectValueType.Integrates</dev>, ![90134.png](/PaperPhoto/90134.png)
-dev/BetaGraph.md, <dev>BetaGraph.ObjectValue.ObjectValueType.MakeMoney</dev>, ![90134.png](/PaperPhoto/90134.png)
-dev/BetaGraph.md, <dev>BetaGraph.ObjectValue.ObjectValueType.Motivation</dev>, ![90134.png](/PaperPhoto/90134.png)
-dev/BetaGraph.md, <dev>BetaGraph.ObjectValue.ObjectValueType.Organizes</dev>, ![90134.png](/PaperPhoto/90134.png)
-dev/BetaGraph.md, <dev>BetaGraph.ObjectValue.ObjectValueType.ProvidesAccess</dev>, ![90134.png](/PaperPhoto/90134.png)
-dev/BetaGraph.md, <dev>BetaGraph.ObjectValue.ObjectValueType.Quality</dev>, ![90134.png](/PaperPhoto/90134.png)
-dev/BetaGraph.md, <dev>BetaGraph.ObjectValue.ObjectValueType.ReducesCost</dev>, ![90134.png](/PaperPhoto/90134.png)
-dev/BetaGraph.md, <dev>BetaGraph.ObjectValue.ObjectValueType.ReducesEffort</dev>, ![90134.png](/PaperPhoto/90134.png)
-dev/BetaGraph.md, <dev>BetaGraph.ObjectValue.ObjectValueType.ReducesRisk</dev>, ![90134.png](/PaperPhoto/90134.png)
-dev/BetaGraph.md, <dev>BetaGraph.ObjectValue.ObjectValueType.SavesTime</dev>, ![90134.png](/PaperPhoto/90134.png)
-dev/BetaGraph.md, <dev>BetaGraph.ObjectValue.ObjectValueType.SensoryAppeal</dev>, ![90134.png](/PaperPhoto/90134.png)
-dev/BetaGraph.md, <dev>BetaGraph.ObjectValue.ObjectValueType.Simplifies</dev>, ![90134.png](/PaperPhoto/90134.png)
-dev/BetaGraph.md, <dev>BetaGraph.ObjectValue.ObjectValueType.Variety</dev>, ![90134.png](/PaperPhoto/90134.png)
+dev/BetaGraph.md, <dev>BetaGraph.ElementValue.ElementValueExchange</dev>, ![90115.png](/PaperPhoto/90115.png)
+dev/BetaGraph.md, <dev>BetaGraph.ElementValue.ElementValueType.AvoidsHassles</dev>, ![90134.png](/PaperPhoto/90134.png)
+dev/BetaGraph.md, <dev>BetaGraph.ElementValue.ElementValueType.Connects</dev>, ![90134.png](/PaperPhoto/90134.png)
+dev/BetaGraph.md, <dev>BetaGraph.ElementValue.ElementValueType.Informs</dev>, ![90134.png](/PaperPhoto/90134.png)
+dev/BetaGraph.md, <dev>BetaGraph.ElementValue.ElementValueType.Integrates</dev>, ![90134.png](/PaperPhoto/90134.png)
+dev/BetaGraph.md, <dev>BetaGraph.ElementValue.ElementValueType.MakeMoney</dev>, ![90134.png](/PaperPhoto/90134.png)
+dev/BetaGraph.md, <dev>BetaGraph.ElementValue.ElementValueType.Motivation</dev>, ![90134.png](/PaperPhoto/90134.png)
+dev/BetaGraph.md, <dev>BetaGraph.ElementValue.ElementValueType.Organizes</dev>, ![90134.png](/PaperPhoto/90134.png)
+dev/BetaGraph.md, <dev>BetaGraph.ElementValue.ElementValueType.ProvidesAccess</dev>, ![90134.png](/PaperPhoto/90134.png)
+dev/BetaGraph.md, <dev>BetaGraph.ElementValue.ElementValueType.Quality</dev>, ![90134.png](/PaperPhoto/90134.png)
+dev/BetaGraph.md, <dev>BetaGraph.ElementValue.ElementValueType.ReducesCost</dev>, ![90134.png](/PaperPhoto/90134.png)
+dev/BetaGraph.md, <dev>BetaGraph.ElementValue.ElementValueType.ReducesEffort</dev>, ![90134.png](/PaperPhoto/90134.png)
+dev/BetaGraph.md, <dev>BetaGraph.ElementValue.ElementValueType.ReducesRisk</dev>, ![90134.png](/PaperPhoto/90134.png)
+dev/BetaGraph.md, <dev>BetaGraph.ElementValue.ElementValueType.SavesTime</dev>, ![90134.png](/PaperPhoto/90134.png)
+dev/BetaGraph.md, <dev>BetaGraph.ElementValue.ElementValueType.SensoryAppeal</dev>, ![90134.png](/PaperPhoto/90134.png)
+dev/BetaGraph.md, <dev>BetaGraph.ElementValue.ElementValueType.Simplifies</dev>, ![90134.png](/PaperPhoto/90134.png)
+dev/BetaGraph.md, <dev>BetaGraph.ElementValue.ElementValueType.Variety</dev>, ![90134.png](/PaperPhoto/90134.png)
 
 :::

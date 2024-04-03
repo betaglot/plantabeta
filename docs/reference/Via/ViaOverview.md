@@ -9,9 +9,21 @@
 
 > Inverted Red Triangle
 
-## What is Via ?
+## <via>What is Via ?</via>
 
 > the interface between Moto, Neuro and Eco
+
+## <via>What are Via Elements?</via>
+
+- Via Object
+- Via Property
+- Via Method
+
+## <via>What are Via Objects?</via>
+
+## <via>What are Via Properties?</via>
+
+## <via>What are Via Methods?</via>
 
 ### Road, Path, Route, through, using, composed of
 
@@ -40,16 +52,6 @@
 - "learn how to plant trees <via>via</via> the internet"
 - "get notified <via>via</via> text"
 - "on my <via>way</via>"
-
-### Via Dimensions
-
-#### Via Space
-
-#### Via Curve
-
-Curve not line
-
-#### Via Point
 
 ### Via must be easily attainable
 
