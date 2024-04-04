@@ -24,6 +24,10 @@ In PutPlant's <beta>Beta system</beta> the <eco>Eco</eco> module represents the 
 
 Eco Elements are prefixed by a 🟩 green square icon
 
+```py
+🟩
+```
+
 - Eco Object
 - Eco Property
 - Eco Method

@@ -5,7 +5,7 @@
 
 ![Dashboard](/dev/Dashboard.png)
 
-- 
+-
 - When a particular state is present
 - State Dependent Memory Recall
 - EventListener
@@ -13,8 +13,6 @@
     - If-then Statement
 
 Event from a first person perspective
-
-## MotoEvent
 
 ## NeuroEvent
 

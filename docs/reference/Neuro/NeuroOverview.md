@@ -18,6 +18,16 @@ Short for Neuroscience
 
 ## Neuro Elements
 
+Neuro Elements are prefixed by a 💜 violet heart icon
+
+```py
+💜
+```
+
+- NeuroObjects
+- NeuroProperties
+- NeuroMethods
+
 ### Huberman Lab Podcast
 
 ### Waking Up App

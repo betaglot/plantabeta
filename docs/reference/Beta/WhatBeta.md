@@ -64,15 +64,15 @@ This each line are analog pairs. The equal signs = denotes where Climbing and Pl
 
 Based on Euclid's Elements
 
-### MotoElement
+### <moto>MotoElement</moto>
 
-### EcoElement
+### <eco>EcoElement</eco>
 
-### ViaElement
+### <via>ViaElement</via>
 
-### NeuroElement
+### <neuro>NeuroElement</neuro>
 
-## What is a BetaInstance
+## What is a BetaInstance?
 
 > all the BetaElements occuring at a given instant
 

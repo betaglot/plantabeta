@@ -15,6 +15,10 @@
 
 Moto Elements are prefixed by an orange circle 🟠
 
+```py
+🟠
+```
+
 - Moto Object
 - Moto Property
 - Moto Method

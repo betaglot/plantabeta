@@ -46,6 +46,66 @@ If you're an Experienced Planter, then 🔷<beta>Put(<eco>Plant</eco>)</beta> gi
 
 🔷<beta>Put(<eco>Plant</eco>)</beta> combines the best practices of the Planting Industry to offer the most robust and planter friendly planter system available. In addition, dozens of talented planters from across Canada have [contributed to the system](/dev/Contribute). Who knows, maybe you'll even become a 🔷<beta>Put(<eco>Plant</eco>)</beta> contributor.
 
+::: details Etymology of 🔷<beta>Put(<eco>Plant</eco>)</beta>
+
+## Etymology of 🔷<beta>Put(<eco>Plant</eco>)</beta>
+
+### Colors
+
+- <beta>Blue</beta> for 🔷<beta>Beta</beta>
+- <eco>Green</eco> for 🟩<eco>Eco</eco>
+
+### Brackets <beta>()</beta>
+
+Also known as Parenthesis
+
+Value
+
+Computer Science
+
+Function
+
+Method
+
+### <beta>Put</beta>
+
+Verb
+
+- "<beta>put</beta> in the ground"
+- "<beta>put</beta> in place"
+- in<beta>put</beta>
+- out<beta>put</beta>
+- <beta>put</beta>ative
+- "<beta>put</beta> forth as an idea"
+- Shot <beta>Put</beta>
+- "<beta>put</beta> to sleep"
+- "<beta>put</beta> to rest"
+- "<beta>put</beta> a plan together"
+- "<beta>put</beta> down"
+- "<beta>put</beta> in your thoughts"
+- "<beta>put</beta> out of place"
+- "<beta>put</beta> it over there"
+- "<beta>put</beta> your hands up"
+- "<beta>put</beta> it on that"
+- "<beta>put</beta> it out of your mind"
+- "<beta>put</beta> your sights on ..."
+- "<beta>Put</beta> it back!"
+- "<beta>put</beta> off course"
+
+### <eco>Plant</eco>
+
+Noun
+
+- "This organism belongs to the <eco>Plantae</eco> kingdom"
+- <eco>Phyto</eco>biology
+- Cosmetic Im<eco>plant</eco>
+- House <eco>Plant</eco>
+- Potted <eco>Plant</eco>
+- "newly planted <eco>plant</eco>"
+- ""
+
+:::
+
 ::: details 🛠 <dev>&&&</dev>
 
 ## DevNotes

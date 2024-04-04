@@ -15,6 +15,10 @@
 
 ## <via>What are Via Elements?</via>
 
+```py
+🔻
+```
+
 - Via Object
 - Via Property
 - Via Method
