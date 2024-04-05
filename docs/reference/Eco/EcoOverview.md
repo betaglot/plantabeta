@@ -7,7 +7,9 @@
 
 Eco is Geology and Biology
 
-## Etymology
+::: details Why is it called <eco>Eco</eco>?
+
+## Etymology of "<eco>Eco</eco>"
 
 The name of the Eco module is derived from <eco>eco</eco>system
 
@@ -19,6 +21,8 @@ The word "<eco>eco</eco>system" was derived from <eco>eco</eco>logy
 > (originally as <eco>oeco</eco>logy ): from Greek <eco>oikos</eco> ‘house’ + -logy.
 
 In PutPlant's <beta>Beta system</beta> the <eco>Eco</eco> module represents the <eco>homes</eco> of the seedlings that you're planting.
+
+:::
 
 ## <eco>What are Eco Elements?</eco>
 

@@ -584,7 +584,7 @@
                 "title": "Land.LandDifficulty.Overview"
             },
             {
-                "title": "Move.MoveDifficulty.Overview"
+                "title": "Moto.MotoDifficulty.Overview"
             },
             {
                 "title": "Neuro.NeuroDifficulty.Overview",
@@ -2198,7 +2198,7 @@
                 "title": "Land.LandDifficulty.Overview"
             },
             {
-                "title": "Move.MoveDifficulty.Overview"
+                "title": "Moto.MotoDifficulty.Overview"
             },
             {
                 "title": "Move.MoveDirection.Overview"
@@ -3675,7 +3675,7 @@
                 "title": "Move.MoveDiagram.Stickfigure"
             },
             {
-                "title": "Move.MoveDifficulty.MoveComplexity"
+                "title": "Moto.MotoDifficulty.MoveComplexity"
             },
             {
                 "title": "Move.MovePlane"
@@ -4630,7 +4630,7 @@
         "name": "1205.jpg",
         "tags": [
             {
-                "title": "Move.MoveDifficulty.MoveComplexity"
+                "title": "Moto.MotoDifficulty.MoveComplexity"
             },
             {
                 "title": "Put(Plant)"
@@ -5162,7 +5162,7 @@
                 "title": "Move.MoveComposition.Overview"
             },
             {
-                "title": "Move.MoveDifficulty.Overview"
+                "title": "Moto.MotoDifficulty.Overview"
             },
             {
                 "title": "Move.MoveGif"
@@ -5221,7 +5221,7 @@
                 "title": "Guide.What.WhatElement.ElementName.Affix"
             },
             {
-                "title": "Move.MoveDifficulty.Overview"
+                "title": "Moto.MotoDifficulty.Overview"
             },
             {
                 "title": "Move.MoveDirection.Overview"
@@ -5498,7 +5498,7 @@
                 "title": "Move.MoveDiagram.MoveTimeline"
             },
             {
-                "title": "Move.MoveDifficulty.MoveComplexity"
+                "title": "Moto.MotoDifficulty.MoveComplexity"
             },
             {
                 "title": "Move.MoveProperties.SubmotoCount"
@@ -6262,7 +6262,7 @@
                 "title": "Dev.Interdisciplinary.Music"
             },
             {
-                "title": "Move.MoveDifficulty.MoveIntensity"
+                "title": "Moto.MotoDifficulty.MotoIntensity"
             },
             {
                 "title": "Move.MovePhrase"
@@ -7443,7 +7443,7 @@
                 "title": "Move.HandMove.HandBump"
             },
             {
-                "title": "Move.MoveDifficulty.MoveRisk"
+                "title": "Moto.MotoDifficulty.MotoRisk"
             },
             {
                 "title": "Move.MoveProperties.MoveType.CompressionMove"
@@ -8250,7 +8250,7 @@
                 "title": "Move.MoveCard"
             },
             {
-                "title": "Move.MoveDifficulty.MoveComplexity"
+                "title": "Moto.MotoDifficulty.MoveComplexity"
             },
             {
                 "title": "Move.MoveProperties.SubmotoCount"
@@ -8366,10 +8366,10 @@
                 "title": "Move.MoveDiagram.Overview"
             },
             {
-                "title": "Move.MoveDifficulty.MoveComplexity"
+                "title": "Moto.MotoDifficulty.MoveComplexity"
             },
             {
-                "title": "Move.MoveDifficulty.Overview"
+                "title": "Moto.MotoDifficulty.Overview"
             },
             {
                 "title": "Neuro.Chunking",
@@ -9411,10 +9411,10 @@
                 "title": "Dev.Difficulty.RelativeDifficulty"
             },
             {
-                "title": "Move.MoveDifficulty.MoveIntensity"
+                "title": "Moto.MotoDifficulty.MotoIntensity"
             },
             {
-                "title": "Move.MoveDifficulty.Overview"
+                "title": "Moto.MotoDifficulty.Overview"
             },
             {
                 "title": "Move.MoveType.DynamicMove"
@@ -9449,7 +9449,7 @@
                 "title": "Move.MoveDiagram.MoveTimeline"
             },
             {
-                "title": "Move.MoveDifficulty.MoveComplexity"
+                "title": "Moto.MotoDifficulty.MoveComplexity"
             },
             {
                 "title": "Move.MovePhrase"
@@ -9491,7 +9491,7 @@
                 "title": "Beta.BetaDifficulty.BetaIntensity"
             },
             {
-                "title": "Move.MoveDifficulty.MoveIntensity"
+                "title": "Moto.MotoDifficulty.MotoIntensity"
             },
             {
                 "title": "Move.Physics.Force"
@@ -9550,13 +9550,13 @@
                 "title": "Move.HandMove.TreeFlip"
             },
             {
-                "title": "Move.MoveDifficulty.MoveComplexity"
+                "title": "Moto.MotoDifficulty.MoveComplexity"
             },
             {
-                "title": "Move.MoveDifficulty.MoveIntensity"
+                "title": "Moto.MotoDifficulty.MotoIntensity"
             },
             {
-                "title": "Move.MoveDifficulty.MoveRisk"
+                "title": "Moto.MotoDifficulty.MotoRisk"
             },
             {
                 "title": "Move.MoveSpace.Overview"
@@ -9751,7 +9751,7 @@
                 "title": "Land.LandDifficulty.LandRisk"
             },
             {
-                "title": "Move.MoveDifficulty.MoveRisk"
+                "title": "Moto.MotoDifficulty.MotoRisk"
             },
             {
                 "title": "Neuro.Alignment.AlignmentRange",
@@ -11307,7 +11307,7 @@
                 "title": "Dev.SheetInking"
             },
             {
-                "title": "Move.MoveDifficulty.MoveComplexity"
+                "title": "Moto.MotoDifficulty.MoveComplexity"
             },
             {
                 "title": "Put(Plant)"
@@ -11746,7 +11746,7 @@
                 "title": "Move.MoveComposition.MoveSelection.SubmotoSelection"
             },
             {
-                "title": "Move.MoveDifficulty.MoveComplexity"
+                "title": "Moto.MotoDifficulty.MoveComplexity"
             },
             {
                 "title": "Move.MoveProperties.MovePermutation"
@@ -12993,7 +12993,7 @@
                 "title": "Move.MoveDiagram.Overview"
             },
             {
-                "title": "Move.MoveDifficulty.Overview"
+                "title": "Moto.MotoDifficulty.Overview"
             },
             {
                 "title": "Move.MoveError.Slip.Overview"
@@ -19116,7 +19116,7 @@
                 "title": "Dev.Interdisciplinary"
             },
             {
-                "title": "Move.MoveDifficulty.Overview"
+                "title": "Moto.MotoDifficulty.Overview"
             },
             {
                 "title": "Put(Plant)"

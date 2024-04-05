@@ -16,6 +16,25 @@ Short for Neuroscience
 - Neuropsychology
 - Sensory Neuroscience
 
+::: details Why is it called <neuro>Neuro</neuro>?
+
+## Etymology of "<neuro>Neuro</neuro>"
+
+- <neuro>Neuro</neuro>science
+- <neuro>Neuro</neuro>psychology
+- <neuro>Neuro</neuro>biology
+- <neuro>neuro</neuro>n
+- <neuro>Neuro</neuro>anatomy
+- <neuro>nervo</neuro>us system
+- <neuro>neuro</neuro>muscular connection
+- <neuro>nerve</neuro>
+- <neuro>neuro</neuro>tic
+- <neuro>neuro</neuro>transmitter
+- <neuro>neuro</neuro>surgery
+- <neuro>neuro</neuro>logy
+
+:::
+
 ## Neuro Elements
 
 Neuro Elements are prefixed by a 💜 violet heart icon

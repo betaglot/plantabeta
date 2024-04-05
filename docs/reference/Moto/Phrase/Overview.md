@@ -209,7 +209,7 @@ Moto/MotoPhrase/Overview.md, <dev>Moto.MotoPhrase</dev>, ![3157.jpg](/PaperPhoto
 Moto/MotoPhrase/Overview.md, <dev>Moto.MotoPhrase</dev>, ![3227.jpg](/PaperPhoto/3227.jpg)
 :::
 
-# 🟠 <move>MoveSequence </move>Overview
+# 🟠 <moto>MoveSequence </moto>Overview
 
 ## Linguistics of MovementSequence
 

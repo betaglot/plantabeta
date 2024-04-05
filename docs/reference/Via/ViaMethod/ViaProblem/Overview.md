@@ -59,6 +59,7 @@ Unknown Information
 
 ## DevNotes
 
+- Cornering
 - The UltimateViaProblem is to close the next hole. Planting is all about closing holes
 
 ## DevState

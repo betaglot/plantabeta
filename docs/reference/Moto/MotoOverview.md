@@ -11,6 +11,25 @@
 
 > to set in motion; to shake; to stir; to move
 
+::: details Why is it called <moto>Moto</moto>?
+
+## Etymology of "<moto>Moto</moto>"
+
+- <moto>motion</moto>
+- <moto>motor</moto>
+- <moto>Motor</moto> Cortex
+- fine<moto>motor</moto> movement
+- <moto>moti</moto>ve
+- <moto>moti</moto>le
+- e<moto>motio</moto>n
+- "go through the <moto>motio</moto>ns"
+- loco<moto>motio</moto>n
+- <moto>motio</moto>nless
+- Stop <moto>Motio</moto>n Animation
+- pro<moto>mote</moto>
+
+:::
+
 ## <moto>What is a Moto Element?</moto>
 
 Moto Elements are prefixed by an orange circle 🟠

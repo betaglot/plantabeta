@@ -1,26 +1,26 @@
-# 🔷🔺 <route>Route</route> Intensity
+# 🔷🔺 <via>Route</via> Intensity
 
 ## Definition
 
-### Relationship between <route>Route</route> Intensity and <move>Move Intensity</move>
+### Relationship between <via>Route</via> Intensity and <moto>Move Intensity</moto>
 
 Routes determine the minimum intensity of a move.
 
 Climbers can perform a really intense move which is more intense than it needs to be.
 
-- Climbing with <move>TRexArm</move> is more intense than ArmHang with straight arms, both are performed on the same route.
+- Climbing with <moto>TRexArm</moto> is more intense than ArmHang with straight arms, both are performed on the same route.
 
-- Holds that are far apart are HighIntensity due to the large distance between them. A Tall Climber can ArmReach with LowIntensity while a ShortClimber must <move>Dyno</move> with HighIntensity for the same route. Does this mean that Route Intensity is relative to climber? No, the Beta is more intense but the Route Intensity stays the same. Beta is more intense for ShortClimber than TallClimber.
+- Holds that are far apart are HighIntensity due to the large distance between them. A Tall Climber can ArmReach with LowIntensity while a ShortClimber must <moto>Dyno</moto> with HighIntensity for the same route. Does this mean that Route Intensity is relative to climber? No, the Beta is more intense but the Route Intensity stays the same. Beta is more intense for ShortClimber than TallClimber.
 
-- <route>Route</route> Intensity is independent of MoveIntensity.
+- <via>Route</via> Intensity is independent of MotoIntensity.
 
-- MoveIntensity depends on RouteIntensity.
+- MotoIntensity depends on RouteIntensity.
 
 ### Relationship between Route Intensity and Neuro Intensity
 
 - Dealing with the Pain of SharpHold
 
-## Examples of <route>Route</route> Intensity
+## Examples of <via>Route</via> Intensity
 
 RouteDisplacement
 
@@ -28,11 +28,11 @@ RouteDisplacement
 
 RouteLength
 
-### Low <route>Route</route> Intensity
+### Low <via>Route</via> Intensity
 
 Short Route
 
-### High <route>Route</route> Intensity
+### High <via>Route</via> Intensity
 
 - RouteSurfaces far apart
 - Long Route

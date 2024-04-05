@@ -10,9 +10,9 @@
 
 > Blue Diamond
 
-## Origins of "<beta>Beta</beta>"
+::: details Why is it called <beta>Beta</beta>?
 
-::: details
+## Etymology of "<beta>Beta</beta>"
 
 Betamax was a piece of hardware (similar to a VHS tape or cassete) which was used by climbers to record video of themselves climbing a rock. Climbers would share their Betamax tapes to give their friends information about how to climb a piece of rock.  
 
@@ -72,7 +72,7 @@ Based on Euclid's Elements
 
 ### <neuro>NeuroElement</neuro>
 
-## What is a BetaInstance?
+## <beta>What is a BetaInstance?</beta>
 
 > all the BetaElements occuring at a given instant
 

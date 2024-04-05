@@ -1,30 +1,30 @@
-# 🔷🔺 <route>Route</route> Difficulty Overview
+# 🔷🔺 <via>Via</via> Difficulty Overview
 
-## <route>Route</route> Difficulty Score
+## <via>Via</via> Difficulty Score
 
-Used to compare the RICscore values of RouteComponents.
+Used to compare the DifficultyScore values of ViaComponents.
 
-RouteRIC.Continuum
+viaRIC.Continuum
 
-- RouteComplexity.Low (R.C-)
-    - LadderRoute is Route.Complexity.Low (Route.C-) since all RouteSurfaces are clearly visible and it’s clear how to Grip them.
-    - MovementClimbing is all about creating ComplexMovement on SimpleRoutes.
+- ViaComplexity.Low (R.C-)
+    - LadderVia is Via.Complexity.Low (Via.C-) since all ViaSurfaces are clearly visible and it’s clear how to Grip them.
+    - MotoClimbing is all about creating ComplexMoto on Simple Vias.
 
-- RouteIntensity.High (R.C+)
-    - A LadderRoute can have HighIntensityMovements if you don’t use all the RouteSurfaces.  
+- ViaIntensity.High (R.C+)
+    - A Laddervia can have HighIntensityMoto if you don’t use all the viaSurfaces.  
     - SkipHold
 
-## Competition.RICscore
+## Competition.DifficultyScore
 
-    - (DynoCompetition = Competition.RICscore.Intensity.High)
-    - (ClimbingDanceCompetition = Competition.RICscore.Complexity.High)
+    - (DynoCompetition = Competition.DifficultyScore.Intensity.High)
+    - (ClimbingDanceCompetition = Competition.DifficultyScore.Complexity.High)
 
-### CompetitionRound.RICscore
+### CompetitionRound.DifficultyScore
 
 - To compare (QualifierRound, SemiRound, FinalRound) in Competitions.
-- A round is a <route>Route</route> where you get to Rest between RouteSections.
-    - (“A bunch of boulders stacked on top of each other”)RouteVerticalAlignment. BoulderRound is RouteHorizontalAlignment
+- A round is a <via>via</via> where you get to Rest between ViaSections.
+    - (“A bunch of boulders stacked on top of each other”)ViaVerticalAlignment. BoulderRound is ViaHorizontalAlignment
 
-## Pitch.RICscore
+## Pitch.DifficultyScore
 
-## Multipitch.RIC
+## Multipitch.DifficultyScore

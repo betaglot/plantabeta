@@ -1,4 +1,4 @@
-# 🔷🔺 <route>Route</route> Complexity
+# 🔷🔺 <via>Via</via> Complexity
 
 ## Definition
 
@@ -6,14 +6,14 @@
 - WallTypeCount
 - RiskOfInjury
 
-- Does the complexity of a Route change after it has been climbed many times?
-    - No, but the MoveComplexity can decrease if more simple Beta is discovered.
+- Does the complexity of a Via change after it has been climbed many times?
+    - No, but the MotoComplexity can decrease if more simple Beta is discovered.
 
-## Examples of <route>Route</route> Complexity
+## Examples of <via>Via</via> Complexity
 
-### Low <route>Route</route> Complexity
+### Low <via>Via</via> Complexity
 
-### High <route>Route</route> Complexity
+### High <via>Via</via> Complexity
 
 ## Quote
 
@@ -32,40 +32,40 @@
 - “The climbing is very complex, it’s like multiple boulder problems stacked on top of each other”\AdamOndra\ReelRock13
 - “It’s bizarre climbing. Kicking his legs up above his head”\Bisharat\ReelRock13
 
-## Hidden Route Surface
+## Hidden via Surface
 
-- RouteComplexity(+)
+- viaComplexity(+)
     - HiddenAroundCornerWall
-- RouteComplexity(-)
+- viaComplexity(-)
     - TicMarkedSurface
     - TicMarkedSurface
     - HiddenAroundCornerWall
 
 - HiddenByBlockerHold
 - HiddenBySun
-    - Sun in a Climber’s eyes affects Complexity since RouteSurfaces can become HiddenRouteSurface.
+    - Sun in a Climber’s eyes affects Complexity since viaSurfaces can become HiddenviaSurface.
 - HiddenByWall
 
-## RouteSurface
+## viaSurface
 
-- Definition(RouteSurface)
-    - A surface in a Route upon which the Climber applies a force.
+- Definition(viaSurface)
+    - A surface in a via upon which the Climber applies a force.
 
-- RouteSurfaceAngle
-    - Definition(RouteSurfaceAngle)
+- viaSurfaceAngle
+    - Definition(viaSurfaceAngle)
         - Analogous to WallAngle
         - More precise than “SloperHold, EdgeHold”
-    - RouteSurfaceCompountAngle
-- ((RouteSurfaceAngle+WallAngle)+ClimberLoadingVector)
+    - viaSurfaceCompountAngle
+- ((viaSurfaceAngle+WallAngle)+ClimberLoadingVector)
     - Angle of Approach
 
 ## TooManyOptions
 
-- RouteComplexity
-    - (RouteComplexity)ProportionalTo(RouteSurfaceCount)
-    - (RouteComplexity)ProportionalTo(RouteSurfaceSize)
+- viaComplexity
+    - (viaComplexity)ProportionalTo(viaSurfaceCount)
+    - (viaComplexity)ProportionalTo(viaSurfaceSize)
         - MacroHold
-            - MacroHolds are so big that they have many RouteSurfaces.
+            - MacroHolds are so big that they have many viaSurfaces.
         - RailHold
         - Arete Layback
             - L’angle Allain (6a)
@@ -75,52 +75,52 @@
             - [Masters Edge E7 6c Millstone Edge Zeno Schaekers](https://www.youtube.com/watch?v=NpwfMAnwSWw)
             - [Magnus Midtboe on Masters Edge](https://www.youtube.com/watch?v=Ij9_41yNdS4)
         - FootSmear on Volume.
-            - NoviceClimbers usually don’t place their feet in the OptimalRoutePosition on Volume.
-            - Volumes are a great way to increase the RouteComplexity of RouteGrade.Low.
-    - RouteComplexity(High)
-        - RouteSurfaceCount
+            - NoviceClimbers usually don’t place their feet in the OptimalviaPosition on Volume.
+            - Volumes are a great way to increase the viaComplexity of viaGrade.Low.
+    - viaComplexity(High)
+        - viaSurfaceCount
         - RedHerring Surface
-    - RouteComplexity(Low)
-    - RouteComplexity(++)
-    - RouteComplexity(--)
+    - viaComplexity(Low)
+    - viaComplexity(++)
+    - viaComplexity(--)
     - Neuro
-        - Remember which RouteSurface to choose.
-            - Climbers must be able to select the best Hold and RouteSurface from many options. Selection implies excess.
+        - Remember which viaSurface to choose.
+            - Climbers must be able to select the best Hold and viaSurface from many options. Selection implies excess.
     - See(LegendsOnly)
 
-## RouteLine
+## viaLine
 
-- RouteLineRetrograde
-- RouteLineReflection
-- HiddenRouteLine
+- viaLineRetrograde
+- viaLineReflection
+- HiddenviaLine
     - HiddenByCornerWall
-- RouteArcLine
-- RouteTraverseLine
+- viaArcLine
+- viaTraverseLine
 - AroundCornerWall
 - Topout
-- RouteDirection
-    - RouteDirectionChange
+- viaDirection
+    - viaDirectionChange
 - Differentiate(Displacement, Distance)
-- RouteDisplacmentLine
-- RouteDistanceLine
+- viaDisplacmentLine
+- viaDistanceLine
 
 ## Precision
 
-- RouteComplexity(High)
+- viaComplexity(High)
     - BlockerHold
     - BlockerVolume
-- RouteComplexity(Low)
-- RouteComplexity(++)
-- RouteComplexity(--)
+- viaComplexity(Low)
+- viaComplexity(++)
+- viaComplexity(--)
     - TicMark
 - “If you don’t place your hand just perfect, then you’ll slip off”
 
-- RoutePosition
-- RouteAlignment
-- PreciseRouteTiming
+- viaPosition
+- viaAlignment
+- PreciseviaTiming
     - “When the conditions are just right”
 
-## Route Space
+## via Space
 
 - LackOfSpace
     - ConstrictedSpace
@@ -133,8 +133,8 @@
     - WideSpace
 - MovementError
     - FootDab
-- CaveRoute
-    - CaveRoofWallRoute
+- Cavevia
+    - CaveRoofWallvia
         - WitnessTheFitness
         - WheelOfLife
 - RoofWall
