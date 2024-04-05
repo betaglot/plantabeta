@@ -5,7 +5,6 @@ export default defineConfig({
   title: 'Put(Plant)',
   description: '',
   lastUpdated: true,
-  base: '/',
   ignoreDeadLinks: true,
   appearance: 'dark',
   head: [
