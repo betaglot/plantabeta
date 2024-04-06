@@ -1,5 +1,5 @@
 
-# 🔷 Sequence
+# 🔷 <dev>Sequence</dev>
 
 🔷: Sequence
 🟠: Phrase
@@ -180,7 +180,7 @@ All algorithms are Phrases. "Phrase" is more commonplace than "Algorithm". Use "
 
 ## DevNotes
 
--
+- Sequence of Events
 
 ## DevState
 
