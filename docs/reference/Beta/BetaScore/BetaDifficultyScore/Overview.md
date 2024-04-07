@@ -1,7 +1,21 @@
 
 # 🔷 <beta>Beta Difficulty Score</beta>
 
-## BetaScore
+Is there a maximum DifficultyScore
+
+```py
+
+BetaDifficultyScore = (MotoDifficultyScore + EcoDifficultyScore + ViaDifficultyScore + NeuroDifficultyScore)
+
+```
+
+## MotoDifficultyScore
+
+## EcoDifficultyScore
+
+## ViaDifficultyScore
+
+## NeuroDifficultyScore
 
 ::: details 🛠 <dev>&&&</dev>
 

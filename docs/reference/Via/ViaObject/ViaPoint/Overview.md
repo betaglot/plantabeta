@@ -1,4 +1,3 @@
-
 # 🔻 <via>Via Point</via>
 
 ## Site vs Microsite
@@ -47,7 +46,10 @@ Makes the Voronoi Cells more
 
 ## DevNotes
 
--
+- Landmarking is like Flagging, but only in your mind. Flag represents ViaPoints.
+- <https://gwlucastrig.github.io/TinfourDocs/DelaunayIntro/index.html>
+
+![DelaunayOptimality](/Via/Voronoi/DelaunayOptimality.png)
 
 ## Target
 
@@ -59,10 +61,6 @@ Makes the Voronoi Cells more
 ```py
 `TagsToHeaders: False`
 ```
-
-- <https://gwlucastrig.github.io/TinfourDocs/DelaunayIntro/index.html>
-
-![DelaunayOptimality](/Via/Voronoi/DelaunayOptimality.png)
 
 <h2>PageTags</h2>
 

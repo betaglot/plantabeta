@@ -4,7 +4,7 @@
 
 > a planter putting a seedling in the ground
 
-## 🔷<beta>Put(<eco>Tree</eco>)</beta>, 🔷<beta>Put(<eco>Shrub</eco>)</beta>, 🔷<beta>Put(<eco>Flower</eco>)</beta>, 🔷<beta>Put(<eco>Moss</eco>)</beta>, 🔷<beta>Put(<eco>Bulb</eco>)</beta>, 🔷<beta>Put(<eco>Root</eco>)</beta>
+## 🔷<beta>Put(<eco>Tree</eco>)</beta>, 🔷<beta>Put(<eco>Shrub</eco>)</beta>, 🔷<beta>Put(<eco>Flower</eco>)</beta>, 🔷<beta>Put(<eco>Moss</eco>)</beta>, 🔷<beta>Put(<eco>Bulb</eco>)</beta>, 🔷<beta>Put(<eco>Root</eco>)</beta>, 🔷<beta>Put(<eco>Meadow</eco>)</beta>
 
 ::: info 🔷<beta>Put(<eco>Plant</eco>)</beta>'s **Mission**
 

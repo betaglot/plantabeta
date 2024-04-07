@@ -6,6 +6,14 @@ BetaApp can be used for Klimbeta and PutPlant
 
 ## Convert BetaDataTypes
 
+## BetaJSON
+
+BetaJSON can be used by Python or Typescript
+
+BetaJSON represents a BetaBlock
+
+A BetaBlock could be an individual BetaElement or a group of hundreds of BetaElements.
+
 ### Inputs
 
 - BetaJSON
@@ -35,3 +43,17 @@ BetaApp can be used for Klimbeta and PutPlant
 ## Backend
 
 ### PostgreSQL
+
+::: details 🛠 <dev>&&&</dev>
+
+## DevNotes
+
+- People just want to know what to do
+
+## DevState
+
+```py
+`TagsToHeaders: True`
+```
+
+:::
