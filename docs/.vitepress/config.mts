@@ -20,8 +20,8 @@ export default defineConfig({
       { icon: 'github', link: 'https://github.com/klimbeta/putplant' }
     ],
     footer: {
-      message: 'MIT License',
-      copyright: 'Copyright Chris Duncan © 2023-present'
+      message: "Library released under <a style='text-decoration:underline;' href='https://github.com/klimbeta/putplant/blob/main/LICENSE'>MIT License</a>.",
+      copyright: `Copyright 2023–${new Date().getUTCFullYear()} Christopher Duncan`
     },
     search: {
       provider: 'local'
@@ -36,6 +36,7 @@ export default defineConfig({
       '/tutorial/': sidebarTutorial(),
       '/reference/': sidebarReference(),
       '/dev/': sidebarDevelopment(),
+      '/app/': sidebarApp()
     }
   }
 })
@@ -105,6 +106,11 @@ function nav() {
       activeMatch: '/reference/'
     },
     {
+      text: '🔷',
+      link: '/app/Overview',
+      activeMatch: '/app/'
+    },
+    {
       text: '🛠',
       link: 'dev/DevOverview',
       activeMatch: '/dev/'
@@ -170,21 +176,21 @@ function sidebarReference() {
         },
         {
           text: '🔷 <beta>BetaScore</beta>', link: '/reference/Beta/BetaScore/Overview', collapsed: true, items: [
-            { text: '🔷 <beta>BetaExecutionScore</beta>', link: '/reference/Beta/BetaScore/BetaExecution' },
+            { text: '🔷 <beta>BetaExecutionScore</beta>', link: '/reference/Beta/BetaScore/BetaExecutionScore' },
             {
               text: '🔷 <beta>BetaDifficultyScore</beta>', link: '/reference/Beta/BetaScore/BetaDifficultyScore/Overview', collapsed: true, items: [
-                { text: '🔷 <beta>BetaComplexityScore</beta>', link: '/reference/Beta/BetaScore/BetaDifficulty/BetaComplexityScore' },
-                { text: '🔷 <beta>BetaRiskScore</beta>', link: '/reference/Beta/BetaScore/BetaDifficulty/BetaRiskScore' },
-                { text: '🔷 <beta>BetaIntensityScore</beta>', link: '/reference/Beta/BetaScore/BetaDifficulty/BetaIntensityScore' }
+                { text: '🔷 <beta>BetaComplexityScore</beta>', link: '/reference/Beta/BetaScore/BetaDifficultyScore/BetaComplexityScore' },
+                { text: '🔷 <beta>BetaRiskScore</beta>', link: '/reference/Beta/BetaScore/BetaDifficultyScore/BetaRiskScore' },
+                { text: '🔷 <beta>BetaIntensityScore</beta>', link: '/reference/Beta/BetaScore/BetaDifficultyScore/BetaIntensityScore' }
               ]
             }
           ]
         },
         {
           text: '🔷 <beta>BetaDifficulty</beta>', link: '/reference/Beta/BetaDifficulty/Overview', collapsed: true, items: [
-            { text: '🔷 <beta>BetaComplexity</beta>', link: '/reference/Beta/BetaScore/BetaDifficulty/BetaComplexity' },
-            { text: '🔷 <beta>BetaIntensity</beta>', link: '/reference/Beta/BetaScore/BetaDifficulty/BetaIntensity' },
-            { text: '🔷 <beta>BetaRisk</beta>', link: '/reference/Beta/BetaScore/BetaDifficulty/BetaRisk' }
+            { text: '🔷 <beta>BetaComplexity</beta>', link: '/reference/Beta/BetaDifficulty/BetaComplexity' },
+            { text: '🔷 <beta>BetaIntensity</beta>', link: '/reference/Beta/BetaDifficulty/BetaIntensity' },
+            { text: '🔷 <beta>BetaRisk</beta>', link: '/reference/Beta/BetaDifficulty/BetaRisk' }
           ]
         },
         {
@@ -240,7 +246,6 @@ function sidebarReference() {
             { text: '🟩 <eco>MicrositeObstacle</eco>', link: '/reference/Eco/Obstacle/MicrositeObstacle' },
             { text: '🟩 <eco>RockObstacle</eco>', link: '/reference/Eco/Obstacle/RockObstacle' },
             { text: '🟩 <eco>StumpObstacle</eco>', link: '/reference/Eco/Obstacle/StumpObstacle' },
-            { text: '🟩 <eco>SlashPileArea</eco>', link: '/reference/Eco/Area/SlashPileArea' },
           ]
         },
         {
@@ -298,7 +303,7 @@ function sidebarReference() {
       text: '🟠 <moto>Moto</moto>', link: '/reference/Moto/MotoOverview', collapsed: true, items: [
         { text: '🟠 <moto>Phrase</moto>', link: '/reference/Moto/Phrase/Overview' },
         {
-          text: '🟠 <moto>Moto Difficulty</moto>', link: '/reference/Moto/MotoDifficulty/Overview',  collapsed: true, items: [
+          text: '🟠 <moto>Moto Difficulty</moto>', link: '/reference/Moto/MotoDifficulty/Overview', collapsed: true, items: [
             { text: '🟠 <moto>EcoComplexity</moto>', link: '/reference/Moto/MotoDifficulty/MotoComplexity' },
             { text: '🟠 <moto>EcoIntensity</moto>', link: '/reference/Moto/MotoDifficulty/MotoIntensity' },
             { text: '🟠 <moto>EcoRisk</moto>', link: '/reference/Moto/MotoDifficulty/MotoRisk' },
@@ -754,5 +759,20 @@ function sidebarExamples() {
   return [
     { text: 'Examples Overview', link: '/examples/Overview' },
     { text: 'Go to Tutorial', link: '/tutorial/TutorialOverview' },
+  ]
+}
+
+function sidebarApp() {
+  return [
+    {
+      text: 'App', link: '/app/Overview', collapsed: false, items: [
+        { text: 'BetaCard', link: '/app/BetaCard' },
+        { text: 'BetaEditor', link: '/app/BetaEditor' },
+        { text: 'BetaGraph', link: '/app/BetaGraph' },
+        { text: 'BetaParser', link: '/app/BetaParser' },
+        { text: 'BetaStringer', link: '/app/BetaStringer' },
+        { text: 'BetaTranscriber', link: '/app/BetaTranscriber' },
+      ]
+    },
   ]
 }
