@@ -77,10 +77,34 @@ Based on Euclid's Elements
 > all the BetaElements occuring at a given instant
 
 ---
-::: details Footnotes:
 
-- <https://www.climbernews.com/what-is-climbing-beta/>
-:::
+## Constraints when Implementing <beta>Beta</beta>
+
+What are the the constraints for each module when implementing Beta in Put(Plant)?
+
+### <beta>Beta Constraints</beta>
+
+- TeamBeta is constrained by the level of ability and knowledge of each team member
+    - You can't BounceCover if your teammate doesn't know what BouceCover is.
+
+### <via>Via Constraints</via>
+
+Via is often a lack of knowledge of what's over the hill or around the corner
+
+- bag weight constrains Via Length
+
+### <moto>Moto Constraints</moto>
+
+- Moto is metabolic energy
+- bag weight
+
+### <neuro>Neuro Constraints</neuro>
+
+Neuro is
+
+### <eco>Eco Constraints</eco>
+
+Eco is weather, if you are in fog you can't see eco. Remember that eco is the object of environment, which always exists. Eco requires perception. Eco requires Neuro
 
 ::: details 🛠 <dev>&&&</dev>
 

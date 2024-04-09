@@ -9,10 +9,14 @@ You don't need to be a programmer to contribute to this open source project.
 There will be hundreds of tasks
 
 ::: tip
-Use screenshots and PaperPhoto for "make this" tasks.
 
-Some tasks are difficult to put into words
+- Use screenshots and PaperPhoto for "make this" tasks.
+    - Some tasks are difficult to put into words
+
+**Group these tasks into Job Descriptions**
 :::
+
+---
 
 ## Academia
 

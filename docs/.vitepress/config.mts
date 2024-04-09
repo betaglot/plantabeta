@@ -21,7 +21,7 @@ export default defineConfig({
     ],
     footer: {
       message: "Library released under <a style='text-decoration:underline;' href='https://github.com/klimbeta/putplant/blob/main/LICENSE'>MIT License</a>.",
-      copyright: `Copyright 2023–${new Date().getUTCFullYear()} Christopher Duncan`
+      copyright: `Copyright © 2023–${new Date().getUTCFullYear()} Christopher Duncan`
     },
     search: {
       provider: 'local'
@@ -64,6 +64,7 @@ function sidebarDevelopment() {
         { text: '<dev>DX Graphics</dev>', link: '/dev/Graphics/DXGraphic' },
       ]
     },
+    { text: '<dev>Mindmap</dev>', link: '/dev/Mindmap' },
     { text: '<dev>Offline</dev>', link: '/dev/Offline' },
     { text: '<dev>Open Source</dev>', link: '/dev/OpenSource' },
     { text: '<dev>PaperPhoto</dev>', link: '/dev/PaperPhoto' },
@@ -767,6 +768,7 @@ function sidebarApp() {
     {
       text: 'App', link: '/app/Overview', collapsed: false, items: [
         { text: 'BetaCard', link: '/app/BetaCard' },
+        { text: 'BetaDataAnalysis', link: '/app/BetaDataAnalysis' },
         { text: 'BetaEditor', link: '/app/BetaEditor' },
         { text: 'BetaGraph', link: '/app/BetaGraph' },
         { text: 'BetaParser', link: '/app/BetaParser' },

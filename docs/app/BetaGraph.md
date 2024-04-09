@@ -14,7 +14,8 @@ Each BetaInstance is different. The Beta that a user is experiencing changes eac
 
 ## DevNotes
 
--
+- Moto becomes another person's Eco in Acrobatics
+    - Acroyoga, Human Tower Build race, Cirque du Solei
 
 ## DevState
 

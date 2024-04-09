@@ -1,33 +1,6 @@
-::: details 🛠 <dev>&&&</dev>
-
-## DevNotes
-
--
-
-## DevState
-
-```py
-`TagsToHeaders: False`
-```
-
-<h2>PageTags</h2>
-
-- "Guide.Why.Injury"
-- "Guide.Why.Injury.ValgusKnee"
-- "Moto.Ambidexterity"
-
-guide/Why/Injury.md, <dev>Guide.Why.Injury</dev>, ![0048.jpg](/PaperPhoto/0048.jpg)
-guide/Why/Injury.md, <dev>Moto.Ambidexterity</dev>, ![0408.jpg](/PaperPhoto/0408.jpg)
-guide/Why/Injury.md, <dev>Guide.Why.Injury.ValgusKnee</dev>, ![1391.jpg](/PaperPhoto/1391.jpg)
-guide/Why/Injury.md, <dev>Guide.Why.Injury</dev>, ![2567.jpg](/PaperPhoto/2567.jpg)
-guide/Why/Injury.md, <dev>Guide.Why.Injury</dev>, ![2945.jpg](/PaperPhoto/2945.jpg)
-guide/Why/Injury.md, <dev>Guide.Why.Injury</dev>, ![3048.jpg](/PaperPhoto/3048.jpg)
-guide/Why/Injury.md, <dev>Guide.Why.Injury</dev>, ![3060.jpg](/PaperPhoto/3060.jpg)
-guide/Why/Injury.md, <dev>Guide.Why.Injury.ValgusKnee</dev>, ![3060.jpg](/PaperPhoto/3060.jpg)
-guide/Why/Injury.md, <dev>Moto.Ambidexterity</dev>, ![3083.jpg](/PaperPhoto/3083.jpg)
-:::
-
 # Prevent Injury
+
+## Lost Time due to Injury
 
 Planting can be a dangerous job.
 
@@ -74,3 +47,32 @@ A greater knowledge of possible alternative moves can prevent Christmas Toe from
 
 - [🟠<moto>SpadeScreef</moto>](/reference/ToolMoto/SpadeMoto/SpadeScreef) instead of only [🟠<moto>FootScreef</moto>](/reference/Moto/FootMoto/FootScreef)
 - [🟠<moto>HandClose</moto>](/reference/Moto/HandMoto/HandClose) instead of only [🟠<moto>FootClose</moto>](/reference/Moto/FootMoto/FootClose)
+
+::: details 🛠 <dev>&&&</dev>
+
+## DevNotes
+
+-
+
+## DevState
+
+```py
+`TagsToHeaders: False`
+```
+
+<h2>PageTags</h2>
+
+- "Guide.Why.Injury"
+- "Guide.Why.Injury.ValgusKnee"
+- "Moto.Ambidexterity"
+
+guide/Why/Injury.md, <dev>Guide.Why.Injury</dev>, ![0048.jpg](/PaperPhoto/0048.jpg)
+guide/Why/Injury.md, <dev>Moto.Ambidexterity</dev>, ![0408.jpg](/PaperPhoto/0408.jpg)
+guide/Why/Injury.md, <dev>Guide.Why.Injury.ValgusKnee</dev>, ![1391.jpg](/PaperPhoto/1391.jpg)
+guide/Why/Injury.md, <dev>Guide.Why.Injury</dev>, ![2567.jpg](/PaperPhoto/2567.jpg)
+guide/Why/Injury.md, <dev>Guide.Why.Injury</dev>, ![2945.jpg](/PaperPhoto/2945.jpg)
+guide/Why/Injury.md, <dev>Guide.Why.Injury</dev>, ![3048.jpg](/PaperPhoto/3048.jpg)
+guide/Why/Injury.md, <dev>Guide.Why.Injury</dev>, ![3060.jpg](/PaperPhoto/3060.jpg)
+guide/Why/Injury.md, <dev>Guide.Why.Injury.ValgusKnee</dev>, ![3060.jpg](/PaperPhoto/3060.jpg)
+guide/Why/Injury.md, <dev>Moto.Ambidexterity</dev>, ![3083.jpg](/PaperPhoto/3083.jpg)
+:::

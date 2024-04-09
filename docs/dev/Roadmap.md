@@ -73,6 +73,23 @@ Test [novel planter tools](dev/Tools)
 
 ## Future of Planting
 
+### Merge Planter Beta with Wildfire Fighter Beta
+
+- Screef
+
+### Plant fire resistance Devices
+
+🔷<beta>Put(<eco>Ice</eco>)</beta>
+
+- Plant a glacier seedling
+-
+
+🔷<beta>Put(<eco>FireBreak</eco>)</beta>
+
+🔷<beta>Put(<eco>Meadow</eco>)</beta>
+
+🔷<beta>Put(<eco></eco>)</beta>
+
 ### Urban Planting
 
 Probably more shrubs than trees

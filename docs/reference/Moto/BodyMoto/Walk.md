@@ -39,7 +39,7 @@
 
 ## Element Purpose
 
--
+- Walk is the most frequent top level Moto
 
 ## Element Properties
 

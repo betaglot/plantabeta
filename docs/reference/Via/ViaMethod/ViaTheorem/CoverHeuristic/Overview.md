@@ -3,6 +3,8 @@
 
 ## What is a Heuristic?
 
+> Look both ways before crossing the street.
+
 Cover by using a Heuristic
 
 Heuristic Function()
@@ -17,6 +19,7 @@ Heuristic Function()
 
 ## DevNotes
 
+- Take the Hypotenuse to minimize ViaCurve length.
 - Walking across Slope is less fatiguing than walking up or down the slope.
 - When to move to next microsite?
 - Used more in Recovery than at the PhraseStart

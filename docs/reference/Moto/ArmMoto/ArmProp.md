@@ -104,6 +104,11 @@ Links to other related motos. Related because they are the same MotoType or beca
 ## DevNotes
 
 - What determines ArmAngle to maintain Spine Position?
+- Arm prop occurs on ships
+    - Boat move
+    - Polynesian dance developoed on boats
+    - Especially down walk
+    - Down climb
 
 ## DevState
 
