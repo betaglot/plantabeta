@@ -9,13 +9,13 @@ export default defineConfig({
   ignoreDeadLinks: true,
   appearance: 'dark',
   head: [
-    ["link", { rel: "apple-touch-icon", href: "/logo.png" }],
-    ["link", { rel: "icon", type: "image/png", href: "/logo.png" }]
+    ["link", { rel: "apple-touch-icon", href: "/Betaglot_Logo.png" }],
+    ["link", { rel: "icon", type: "image/png", href: "/Betaglot_Logo.png" }]
   ],
   themeConfig: {
 
     outline: [2, 4],
-    logo: 'logo.png',
+    logo: 'Betaglot_Logo.png',
     socialLinks: [
       { icon: 'github', link: 'https://github.com/klimbeta/putplant' }
     ],
@@ -127,7 +127,7 @@ function sidebarGuide() {
       collapsed: false,
       items: [
         { text: 'What is Tree Planting?', link: '/guide/What/WhatTreePlanting' },
-        { text: 'What is Put(Plant)?', link: '/guide/What/WhatPutPlant' },
+        { text: 'What is 🔷<beta>Put(<eco>Plant</eco>)</beta>?', link: '/guide/What/WhatPutPlant' },
       ]
     },
     {

@@ -9,7 +9,7 @@ hero:
   text: Open Source Project
   tagline: The examples, guides, and reference you need—whether you're planting in the mountains of British Columbia, the wetlands of the Canadian Shield, or anywhere in between. Take advantage of these resources to develop your ability to plant faster and with higher quality.
   image:
-    src: /Kendall.png
+    src: /Betaglot_Logo.png
     alt: A Planter's View
   actions:
     - theme: brand
