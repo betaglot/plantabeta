@@ -5,13 +5,13 @@
 
 ## [<beta>**🔷____Beta____**</beta>![Beta](/Beta/Beta_Icon.png)](/reference/Beta/WhatBeta)
 
-## [<eco>**🟩____Eco Module____**</eco>![Eco](/Eco/Eco_Icon.png)](/reference/Eco/EcoOverview)
+## [<eco>**🟩____Eco Factor____**</eco>![Eco](/Eco/Eco_Icon.png)](/reference/Eco/EcoOverview)
 
-## [<moto>**🟠____Moto Module____**</moto>![Moto](/Moto/Moto_Icon.png)](/reference/Moto/MotoOverview)
+## [<moto>**🟠____Moto Factor____**</moto>![Moto](/Moto/Moto_Icon.png)](/reference/Moto/MotoOverview)
 
-## [<via>**🔻____Via Module____**</via>![Via](/Via/Via_Icon.png)](/reference/Via/ViaOverview)
+## [<via>**🔻____Via Factor____**</via>![Via](/Via/Via_Icon.png)](/reference/Via/ViaOverview)
 
-## [<neuro>**💜____Neuro Module____**</neuro>![Neuro](/Neuro/Neuro_Icon.png)](/reference/Neuro/NeuroOverview)
+## [<neuro>**💜____Neuro Factor____**</neuro>![Neuro](/Neuro/Neuro_Icon.png)](/reference/Neuro/NeuroOverview)
 
 ## [Glossary](/reference/glossary/Glossary)
 
