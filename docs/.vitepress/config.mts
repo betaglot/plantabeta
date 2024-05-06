@@ -746,7 +746,7 @@ function sidebarReference() {
 // #Tutorial
 function sidebarTutorial() {
   return [
-    { text: 'Tutorial Overview', link: '/tutorial/Overview' },
+    { text: 'Tutorial Overview', link: '/tutorial/TutorialOverview' },
     { text: 'Video Tutorials Overview', link: '/tutorial/VideoTutorialsOverview' },
     { text: 'Labelling', link: '/tutorial/Test_LabelDiagram' },
     { text: 'Matching', link: '/tutorial/Test_Matching' },
