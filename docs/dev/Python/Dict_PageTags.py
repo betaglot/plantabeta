@@ -6,7 +6,7 @@ PageTags = {
 "Beta/BetaDiagram.md": [],
 "Beta/BetaExamples.md": [],
 "Beta/WhatBeta.md": [],
-"Beta/BetaCode.md": [],
+"Beta/Plantbeta.md": [],
 "Eco/Animals/Overview.md": [],
 "Eco/Area/Overview.md": [],
 "Eco/Area/PocketArea.md": [],

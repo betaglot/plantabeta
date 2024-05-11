@@ -190,7 +190,7 @@ Just get as much information out of your head and into data structures, so that 
 
 Put(Plant) is a language
 
-BetaCode a beta script. Put(Plant) creates the properties of HandMove, like how many fingers you have. Beta can't change the number of fingers. A Hand is part of Put(Plant), a hand is controlled with Beta
+Plantbeta a beta script. Put(Plant) creates the properties of HandMove, like how many fingers you have. Beta can't change the number of fingers. A Hand is part of Put(Plant), a hand is controlled with Beta
 
 - Beta is only during runtime
 

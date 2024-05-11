@@ -169,10 +169,10 @@ function sidebarReference() {
         { text: '🔷 <beta>BetaLingo</beta>', link: '/reference/Beta/BetaLingo/Overview' },
         { text: '🔷 <beta>BetaDiagram</beta>', link: '/reference/Beta/BetaDiagram' },
         {
-          text: '🔷 <beta>BetaCode</beta>', link: '/reference/Beta/BetaCode/Overview', collapsed: true, items: [
-            { text: '🔷 <beta>BetaElement</beta>', link: '/reference/Beta/BetaCode/BetaElement' },
-            { text: '🔷 <beta>BetaMethod</beta>', link: '/reference/Beta/BetaCode/BetaMethod' },
-            { text: '🔷 <beta>BetaBlock</beta>', link: '/reference/Beta/BetaCode/BetaBlock' },
+          text: '🔷 <beta>Plantbeta</beta>', link: '/reference/Beta/Plantbeta/Overview', collapsed: true, items: [
+            { text: '🔷 <beta>BetaElement</beta>', link: '/reference/Beta/Plantbeta/BetaElement' },
+            { text: '🔷 <beta>BetaMethod</beta>', link: '/reference/Beta/Plantbeta/BetaMethod' },
+            { text: '🔷 <beta>BetaBlock</beta>', link: '/reference/Beta/Plantbeta/BetaBlock' },
           ]
         },
         {

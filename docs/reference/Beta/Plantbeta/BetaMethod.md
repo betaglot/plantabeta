@@ -30,14 +30,14 @@ BetaVideo
 
 ## 🔷<beta>Parse(Beta)</beta>
 
-> to convert BetaString into BetaCode
+> to convert BetaString into Plantbeta
 
 Abstract Syntax Tree
 
 1. <beta>BetaString</beta>
     - "Step over the log"
 
-2. <beta>BetaCode</beta>
+2. <beta>Plantbeta</beta>
     - Leg.Step.Over(Log)
 
 3. Separate into <beta>BetaModules</beta> (optional step)

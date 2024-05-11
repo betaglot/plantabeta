@@ -4,14 +4,14 @@
 
 ## Speak is the opposite of Parse
 
-Put BetaCode into a natural language
+Put Plantbeta into a natural language
 
 1. Separated <beta>BetaModules</beta> (optional step)
     - 🟠<moto>Leg.Step()</moto>
     - 🔻<via>Over</via>
     - 🟩<eco>Log</eco>
 
-2. <beta>BetaCode</beta>
+2. <beta>Plantbeta</beta>
     - 🔷<beta>Leg.Step.Over(Log)</beta>
 
 3. 🟠<moto>Speak(<beta>"Step over the log"</beta>)</moto>
