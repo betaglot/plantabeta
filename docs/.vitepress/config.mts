@@ -3,7 +3,19 @@ import { createWriteStream } from 'node:fs'
 import { resolve } from 'node:path'
 import { SitemapStream } from 'sitemap'
 
+const links: any = []
+
 export default defineConfig({
+  buildEnd: async ({ outDir }) => {
+    const sitemap = new SitemapStream({
+      hostname: 'https://putplant.ca'
+    })
+    const writeStream = createWriteStream(resolve(outDir, 'sitemap.xml'))
+    sitemap.pipe(writeStream)
+    links.forEach((link) => sitemap.write(`<a>${link}</a>`))
+    sitemap.end()
+    await new Promise((r) => writeStream.on('finish', r))
+  },
   cleanUrls: true,
   lang: 'en-US',
   title: 'Put(Plant)',

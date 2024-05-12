@@ -8,7 +8,7 @@ title: Put(Plant)
 titleTemplate: Put(Plant)
 
 hero: 
-  name: `Put(<beta>Plant</beta>)`
+  name: "Put(Plant)"
   text: Summer 2024
   tagline: The examples, guides, and reference you need—whether you're planting in the mountains of British Columbia, the wetlands of the Canadian Shield, or anywhere in between. Take advantage of these resources to develop your ability to plant faster and with higher quality.
   image:
