@@ -1,6 +1,9 @@
 import { defineConfig } from 'vitepress'
 
 export default defineConfig({
+  sitemap: {
+    hostname: 'https://putplant.ca/'
+  },
   lang: 'en-US',
   title: 'Put(Plant)',
   description: '',
