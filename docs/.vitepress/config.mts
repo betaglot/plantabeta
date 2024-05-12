@@ -6,14 +6,6 @@ import { SitemapStream } from 'sitemap'
 const links: any = []
 
 export default defineConfig({
-  transformHtml: (_, id, { pageData }) => {
-    if (!/[\\/]404\.html$/.test(id))
-      links.push({
-// you might need to change this if not using clean urls mode
-        url: pageData.relativePath.replace(/((^|\/)index)?\.md$/, '$2'),
-        lastmod: pageData.lastUpdated
-      })
-  },
   buildEnd: async ({ outDir }) => {
     const sitemap = new SitemapStream({
       hostname: 'https://putplant.ca/'
