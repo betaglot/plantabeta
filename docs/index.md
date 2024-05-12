@@ -1,9 +1,5 @@
 ---
-layout: home if (!/[\\/]404\.html$/.test(id)) {
-      links.push({
-        url: pageData.relativePath.replace(/\/index\.md$/, '/').replace(/\.md$/, '.html'),
-        lastmod: pageData.lastUpdated,
-
+layout: home 
 title: Put(Plant)
 titleTemplate: Put(Plant)
 
