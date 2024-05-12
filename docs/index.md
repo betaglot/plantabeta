@@ -1,12 +1,15 @@
 ---
-layout: home
+layout: home if (!/[\\/]404\.html$/.test(id)) {
+      links.push({
+        url: pageData.relativePath.replace(/\/index\.md$/, '/').replace(/\.md$/, '.html'),
+        lastmod: pageData.lastUpdated,
 
 title: Put(Plant)
 titleTemplate: Put(Plant)
 
 hero: 
-  name: "Put(Plant)"
-  text: Open Source Project
+  name: `Put(<beta>Plant</beta>)`
+  text: Summer 2024
   tagline: The examples, guides, and reference you need—whether you're planting in the mountains of British Columbia, the wetlands of the Canadian Shield, or anywhere in between. Take advantage of these resources to develop your ability to plant faster and with higher quality.
   image:
     src: /Betaglot_Logo.png

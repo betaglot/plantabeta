@@ -12,10 +12,11 @@ export default defineConfig({
     })
     const writeStream = createWriteStream(resolve(outDir, 'sitemap.xml'))
     sitemap.pipe(writeStream)
-    links.forEach((link) => sitemap.write(link))
+    links.forEach((link) => sitemap.write(`<a>link</a>`))
     sitemap.end()
     await new Promise((r) => writeStream.on('finish', r))
   },
+  cleanUrls: true,
   lang: 'en-US',
   title: 'Put(Plant)',
   description: '',
