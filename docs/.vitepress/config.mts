@@ -3,7 +3,7 @@ import { createWriteStream } from 'node:fs'
 import { resolve } from 'node:path'
 import { SitemapStream } from 'sitemap'
 
-const links: any = []
+const links = []
 
 export default defineConfig({
   buildEnd: async ({ outDir }) => {
@@ -15,6 +15,9 @@ export default defineConfig({
     links.forEach((link) => sitemap.write(link))
     sitemap.end()
     await new Promise((r) => writeStream.on('finish', r))
+  },
+  sitemap: {
+    hostname: 'https://putplant.ca/'
   },
   cleanUrls: true,
   lang: 'en-US',
