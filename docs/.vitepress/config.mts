@@ -8,7 +8,7 @@ const links = []
 export default defineConfig({
   buildEnd: async ({ outDir }) => {
     const sitemap = new SitemapStream({
-      hostname: 'https://putplant.ca'
+      hostname: 'https://putplant.ca/'
     })
     const writeStream = createWriteStream(resolve(outDir, 'sitemap.xml'))
     sitemap.pipe(writeStream)
