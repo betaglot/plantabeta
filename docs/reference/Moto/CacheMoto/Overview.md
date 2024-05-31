@@ -12,7 +12,7 @@
 - Anchor
 - Kit
 
-## Cache Properties
+## Cache Attributes
 
 - BoxCount
 - BoxStackHeight

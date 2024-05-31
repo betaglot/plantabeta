@@ -1,7 +1,7 @@
 
 # 🟠 <moto>ClothesMoto</moto>
 
-## Clothing Properties
+## Clothing Attributes
 
 ::: details 🛠 <dev>&&&</dev>
 

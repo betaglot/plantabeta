@@ -570,7 +570,7 @@
             "lastUpdated": 1692978839563,
             "tags": [
                 {
-                    "title": "Moto.MotoProperties.MotoRangeOfMotion",
+                    "title": "Moto.MotoAttributes.MotoRangeOfMotion",
                     "color": "#ff7537ff",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -599,7 +599,7 @@
         "extension": "jpg",
         "tags": [
             {
-                "title": "Moto.MotoProperties.MotoRangeOfMotion",
+                "title": "Moto.MotoAttributes.MotoRangeOfMotion",
                 "color": "#ff7537ff",
                 "textcolor": "white"
             },
@@ -4641,13 +4641,13 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Moto.MotoProperties.MotoShape.Overview",
+                    "title": "Moto.MotoAttributes.MotoShape.Overview",
                     "color": "#ff7537ff",
                     "textcolor": "white",
                     "type": "sidecar"
                 },
                 {
-                    "title": "Moto.MotoProperties.MotoType.TwistMoto",
+                    "title": "Moto.MotoAttributes.MotoType.TwistMoto",
                     "color": "#ff7537ff",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -4691,12 +4691,12 @@
                 "textcolor": "#000000ff"
             },
             {
-                "title": "Moto.MotoProperties.MotoShape.Overview",
+                "title": "Moto.MotoAttributes.MotoShape.Overview",
                 "color": "#ff7537ff",
                 "textcolor": "white"
             },
             {
-                "title": "Moto.MotoProperties.MotoType.TwistMoto",
+                "title": "Moto.MotoAttributes.MotoType.TwistMoto",
                 "color": "#ff7537ff",
                 "textcolor": "white"
             },
@@ -4791,13 +4791,13 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Moto.MotoProperties.MotoShape.SquareMoto",
+                    "title": "Moto.MotoAttributes.MotoShape.SquareMoto",
                     "color": "#ff7537ff",
                     "textcolor": "white",
                     "type": "sidecar"
                 },
                 {
-                    "title": "Moto.MotoProperties.MotoShape.TriangleMoto",
+                    "title": "Moto.MotoAttributes.MotoShape.TriangleMoto",
                     "color": "#ff7537ff",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -4924,12 +4924,12 @@
                 "textcolor": "white"
             },
             {
-                "title": "Moto.MotoProperties.MotoShape.SquareMoto",
+                "title": "Moto.MotoAttributes.MotoShape.SquareMoto",
                 "color": "#ff7537ff",
                 "textcolor": "white"
             },
             {
-                "title": "Moto.MotoProperties.MotoShape.TriangleMoto",
+                "title": "Moto.MotoAttributes.MotoShape.TriangleMoto",
                 "color": "#ff7537ff",
                 "textcolor": "white"
             },
@@ -5383,37 +5383,37 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Moto.MotoProperties.MotoShape.CircleMoto",
+                    "title": "Moto.MotoAttributes.MotoShape.CircleMoto",
                     "color": "#ff7537ff",
                     "textcolor": "white",
                     "type": "sidecar"
                 },
                 {
-                    "title": "Moto.MotoProperties.MotoShape.MotoShapeCenter",
+                    "title": "Moto.MotoAttributes.MotoShape.MotoShapeCenter",
                     "color": "#ff7537ff",
                     "textcolor": "white",
                     "type": "sidecar"
                 },
                 {
-                    "title": "Moto.MotoProperties.MotoShape.Overview",
+                    "title": "Moto.MotoAttributes.MotoShape.Overview",
                     "color": "#ff7537ff",
                     "textcolor": "white",
                     "type": "sidecar"
                 },
                 {
-                    "title": "Moto.MotoProperties.MotoShape.SquareMoto",
+                    "title": "Moto.MotoAttributes.MotoShape.SquareMoto",
                     "color": "#ff7537ff",
                     "textcolor": "white",
                     "type": "sidecar"
                 },
                 {
-                    "title": "Moto.MotoProperties.MotoShape.TriangleMoto",
+                    "title": "Moto.MotoAttributes.MotoShape.TriangleMoto",
                     "color": "#ff7537ff",
                     "textcolor": "white",
                     "type": "sidecar"
                 },
                 {
-                    "title": "Moto.MotoProperties.MotoType.LockMoto",
+                    "title": "Moto.MotoAttributes.MotoType.LockMoto",
                     "color": "#ff7537ff",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -5443,7 +5443,7 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Via.ViaGeometry.ViaSurface.ViaSurfaceProperties.ViaSurfaceSize",
+                    "title": "Via.ViaGeometry.ViaSurface.ViaSurfaceAttributes.ViaSurfaceSize",
                     "color": "#f83a22b8",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -5536,32 +5536,32 @@
                 "textcolor": "white"
             },
             {
-                "title": "Moto.MotoProperties.MotoShape.CircleMoto",
+                "title": "Moto.MotoAttributes.MotoShape.CircleMoto",
                 "color": "#ff7537ff",
                 "textcolor": "white"
             },
             {
-                "title": "Moto.MotoProperties.MotoShape.MotoShapeCenter",
+                "title": "Moto.MotoAttributes.MotoShape.MotoShapeCenter",
                 "color": "#ff7537ff",
                 "textcolor": "white"
             },
             {
-                "title": "Moto.MotoProperties.MotoShape.Overview",
+                "title": "Moto.MotoAttributes.MotoShape.Overview",
                 "color": "#ff7537ff",
                 "textcolor": "white"
             },
             {
-                "title": "Moto.MotoProperties.MotoShape.SquareMoto",
+                "title": "Moto.MotoAttributes.MotoShape.SquareMoto",
                 "color": "#ff7537ff",
                 "textcolor": "white"
             },
             {
-                "title": "Moto.MotoProperties.MotoShape.TriangleMoto",
+                "title": "Moto.MotoAttributes.MotoShape.TriangleMoto",
                 "color": "#ff7537ff",
                 "textcolor": "white"
             },
             {
-                "title": "Moto.MotoProperties.MotoType.LockMoto",
+                "title": "Moto.MotoAttributes.MotoType.LockMoto",
                 "color": "#ff7537ff",
                 "textcolor": "white"
             },
@@ -5586,7 +5586,7 @@
                 "textcolor": "white"
             },
             {
-                "title": "Via.ViaGeometry.ViaSurface.ViaSurfaceProperties.ViaSurfaceSize",
+                "title": "Via.ViaGeometry.ViaSurface.ViaSurfaceAttributes.ViaSurfaceSize",
                 "color": "#f83a22b8",
                 "textcolor": "white"
             },
@@ -6178,7 +6178,7 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Via.ViaProperties.ViaTreeCount",
+                    "title": "Via.ViaAttributes.ViaTreeCount",
                     "color": "#f83a22b8",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -6326,7 +6326,7 @@
                 "textcolor": "white"
             },
             {
-                "title": "Via.ViaProperties.ViaTreeCount",
+                "title": "Via.ViaAttributes.ViaTreeCount",
                 "color": "#f83a22b8",
                 "textcolor": "white"
             },
@@ -6624,19 +6624,19 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Moto.MotoProperties.MotoRangeOfMotion",
+                    "title": "Moto.MotoAttributes.MotoRangeOfMotion",
                     "color": "#ff7537ff",
                     "textcolor": "white",
                     "type": "sidecar"
                 },
                 {
-                    "title": "Moto.MotoProperties.MotoShape.MotoShapeCenter",
+                    "title": "Moto.MotoAttributes.MotoShape.MotoShapeCenter",
                     "color": "#ff7537ff",
                     "textcolor": "white",
                     "type": "sidecar"
                 },
                 {
-                    "title": "Moto.MotoProperties.MotoShape.Overview",
+                    "title": "Moto.MotoAttributes.MotoShape.Overview",
                     "color": "#ff7537ff",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -6761,17 +6761,17 @@
                 "textcolor": "white"
             },
             {
-                "title": "Moto.MotoProperties.MotoRangeOfMotion",
+                "title": "Moto.MotoAttributes.MotoRangeOfMotion",
                 "color": "#ff7537ff",
                 "textcolor": "white"
             },
             {
-                "title": "Moto.MotoProperties.MotoShape.MotoShapeCenter",
+                "title": "Moto.MotoAttributes.MotoShape.MotoShapeCenter",
                 "color": "#ff7537ff",
                 "textcolor": "white"
             },
             {
-                "title": "Moto.MotoProperties.MotoShape.Overview",
+                "title": "Moto.MotoAttributes.MotoShape.Overview",
                 "color": "#ff7537ff",
                 "textcolor": "white"
             },
@@ -7057,7 +7057,7 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Moto.MotoProperties.MotoDescription",
+                    "title": "Moto.MotoAttributes.MotoDescription",
                     "color": "#ff7537ff",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -7116,7 +7116,7 @@
                 "textcolor": "white"
             },
             {
-                "title": "Moto.MotoProperties.MotoDescription",
+                "title": "Moto.MotoAttributes.MotoDescription",
                 "color": "#ff7537ff",
                 "textcolor": "white"
             },
@@ -7546,7 +7546,7 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Moto.MotoProperties.MotoSize",
+                    "title": "Moto.MotoAttributes.MotoSize",
                     "color": "#ff7537ff",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -7641,7 +7641,7 @@
                 "textcolor": "white"
             },
             {
-                "title": "Moto.MotoProperties.MotoSize",
+                "title": "Moto.MotoAttributes.MotoSize",
                 "color": "#ff7537ff",
                 "textcolor": "white"
             },
@@ -7957,7 +7957,7 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Moto.MotoProperties.MotoShape.Overview",
+                    "title": "Moto.MotoAttributes.MotoShape.Overview",
                     "color": "#ff7537ff",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -7987,7 +7987,7 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Via.ViaProperties.ViaPermutation",
+                    "title": "Via.ViaAttributes.ViaPermutation",
                     "color": "#f83a22b8",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -8071,7 +8071,7 @@
                 "textcolor": "white"
             },
             {
-                "title": "Moto.MotoProperties.MotoShape.Overview",
+                "title": "Moto.MotoAttributes.MotoShape.Overview",
                 "color": "#ff7537ff",
                 "textcolor": "white"
             },
@@ -8096,7 +8096,7 @@
                 "textcolor": "white"
             },
             {
-                "title": "Via.ViaProperties.ViaPermutation",
+                "title": "Via.ViaAttributes.ViaPermutation",
                 "color": "#f83a22b8",
                 "textcolor": "white"
             },
@@ -8716,7 +8716,7 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Moto.MotoProperties.MotoShape.Overview",
+                    "title": "Moto.MotoAttributes.MotoShape.Overview",
                     "color": "#ff7537ff",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -8808,7 +8808,7 @@
                 "textcolor": "white"
             },
             {
-                "title": "Moto.MotoProperties.MotoShape.Overview",
+                "title": "Moto.MotoAttributes.MotoShape.Overview",
                 "color": "#ff7537ff",
                 "textcolor": "white"
             },
@@ -9016,19 +9016,19 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Moto.MotoProperties.MotoShape.CircleMoto",
+                    "title": "Moto.MotoAttributes.MotoShape.CircleMoto",
                     "color": "#ff7537ff",
                     "textcolor": "white",
                     "type": "sidecar"
                 },
                 {
-                    "title": "Moto.MotoProperties.MotoWeightDistribution",
+                    "title": "Moto.MotoAttributes.MotoWeightDistribution",
                     "color": "#ff7537ff",
                     "textcolor": "white",
                     "type": "sidecar"
                 },
                 {
-                    "title": "Moto.MotoProperties.SubmotoCount",
+                    "title": "Moto.MotoAttributes.SubmotoCount",
                     "color": "#ff7537ff",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -9074,17 +9074,17 @@
                 "textcolor": "#000000ff"
             },
             {
-                "title": "Moto.MotoProperties.MotoShape.CircleMoto",
+                "title": "Moto.MotoAttributes.MotoShape.CircleMoto",
                 "color": "#ff7537ff",
                 "textcolor": "white"
             },
             {
-                "title": "Moto.MotoProperties.MotoWeightDistribution",
+                "title": "Moto.MotoAttributes.MotoWeightDistribution",
                 "color": "#ff7537ff",
                 "textcolor": "white"
             },
             {
-                "title": "Moto.MotoProperties.SubmotoCount",
+                "title": "Moto.MotoAttributes.SubmotoCount",
                 "color": "#ff7537ff",
                 "textcolor": "white"
             },
@@ -10907,13 +10907,13 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Moto.MotoProperties.MotoForce",
+                    "title": "Moto.MotoAttributes.MotoForce",
                     "color": "#ff7537ff",
                     "textcolor": "white",
                     "type": "sidecar"
                 },
                 {
-                    "title": "Moto.MotoProperties.MotoType.AbsorbMoto",
+                    "title": "Moto.MotoAttributes.MotoType.AbsorbMoto",
                     "color": "#ff7537ff",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -10975,12 +10975,12 @@
                 "textcolor": "white"
             },
             {
-                "title": "Moto.MotoProperties.MotoForce",
+                "title": "Moto.MotoAttributes.MotoForce",
                 "color": "#ff7537ff",
                 "textcolor": "white"
             },
             {
-                "title": "Moto.MotoProperties.MotoType.AbsorbMoto",
+                "title": "Moto.MotoAttributes.MotoType.AbsorbMoto",
                 "color": "#ff7537ff",
                 "textcolor": "white"
             },
@@ -11048,13 +11048,13 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Moto.MotoProperties.MotoShape.CircleMoto",
+                    "title": "Moto.MotoAttributes.MotoShape.CircleMoto",
                     "color": "#ff7537ff",
                     "textcolor": "white",
                     "type": "sidecar"
                 },
                 {
-                    "title": "Moto.MotoProperties.MotoSize",
+                    "title": "Moto.MotoAttributes.MotoSize",
                     "color": "#ff7537ff",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -11104,12 +11104,12 @@
                 "textcolor": "#000000ff"
             },
             {
-                "title": "Moto.MotoProperties.MotoShape.CircleMoto",
+                "title": "Moto.MotoAttributes.MotoShape.CircleMoto",
                 "color": "#ff7537ff",
                 "textcolor": "white"
             },
             {
-                "title": "Moto.MotoProperties.MotoSize",
+                "title": "Moto.MotoAttributes.MotoSize",
                 "color": "#ff7537ff",
                 "textcolor": "white"
             },
@@ -11149,13 +11149,13 @@
             "lastUpdated": 1692978839572,
             "tags": [
                 {
-                    "title": "Moto.MotoProperties.MotoShape.CircleMoto",
+                    "title": "Moto.MotoAttributes.MotoShape.CircleMoto",
                     "color": "#ff7537ff",
                     "textcolor": "white",
                     "type": "sidecar"
                 },
                 {
-                    "title": "Moto.MotoProperties.MotoShape.SquareMoto",
+                    "title": "Moto.MotoAttributes.MotoShape.SquareMoto",
                     "color": "#ff7537ff",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -11220,12 +11220,12 @@
         "extension": "jpg",
         "tags": [
             {
-                "title": "Moto.MotoProperties.MotoShape.CircleMoto",
+                "title": "Moto.MotoAttributes.MotoShape.CircleMoto",
                 "color": "#ff7537ff",
                 "textcolor": "white"
             },
             {
-                "title": "Moto.MotoProperties.MotoShape.SquareMoto",
+                "title": "Moto.MotoAttributes.MotoShape.SquareMoto",
                 "color": "#ff7537ff",
                 "textcolor": "white"
             },
@@ -11344,13 +11344,13 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Moto.MotoProperties.MotoShape.CircleMoto",
+                    "title": "Moto.MotoAttributes.MotoShape.CircleMoto",
                     "color": "#ff7537ff",
                     "textcolor": "white",
                     "type": "sidecar"
                 },
                 {
-                    "title": "Moto.MotoProperties.MotoType.CircumductionMoto",
+                    "title": "Moto.MotoAttributes.MotoType.CircumductionMoto",
                     "color": "#ff7537ff",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -11436,12 +11436,12 @@
                 "textcolor": "white"
             },
             {
-                "title": "Moto.MotoProperties.MotoShape.CircleMoto",
+                "title": "Moto.MotoAttributes.MotoShape.CircleMoto",
                 "color": "#ff7537ff",
                 "textcolor": "white"
             },
             {
-                "title": "Moto.MotoProperties.MotoType.CircumductionMoto",
+                "title": "Moto.MotoAttributes.MotoType.CircumductionMoto",
                 "color": "#ff7537ff",
                 "textcolor": "white"
             },
@@ -11528,13 +11528,13 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Moto.MotoProperties.MotoShape.CircleMoto",
+                    "title": "Moto.MotoAttributes.MotoShape.CircleMoto",
                     "color": "#ff7537ff",
                     "textcolor": "white",
                     "type": "sidecar"
                 },
                 {
-                    "title": "Moto.MotoProperties.MotoShape.Overview",
+                    "title": "Moto.MotoAttributes.MotoShape.Overview",
                     "color": "#ff7537ff",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -11658,12 +11658,12 @@
                 "textcolor": "white"
             },
             {
-                "title": "Moto.MotoProperties.MotoShape.CircleMoto",
+                "title": "Moto.MotoAttributes.MotoShape.CircleMoto",
                 "color": "#ff7537ff",
                 "textcolor": "white"
             },
             {
-                "title": "Moto.MotoProperties.MotoShape.Overview",
+                "title": "Moto.MotoAttributes.MotoShape.Overview",
                 "color": "#ff7537ff",
                 "textcolor": "white"
             },
@@ -11772,13 +11772,13 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Moto.MotoProperties.MotoShape.CircleMoto",
+                    "title": "Moto.MotoAttributes.MotoShape.CircleMoto",
                     "color": "#ff7537ff",
                     "textcolor": "white",
                     "type": "sidecar"
                 },
                 {
-                    "title": "Moto.MotoProperties.MotoType.CircumductionMoto",
+                    "title": "Moto.MotoAttributes.MotoType.CircumductionMoto",
                     "color": "#ff7537ff",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -11857,12 +11857,12 @@
                 "textcolor": "#000000ff"
             },
             {
-                "title": "Moto.MotoProperties.MotoShape.CircleMoto",
+                "title": "Moto.MotoAttributes.MotoShape.CircleMoto",
                 "color": "#ff7537ff",
                 "textcolor": "white"
             },
             {
-                "title": "Moto.MotoProperties.MotoType.CircumductionMoto",
+                "title": "Moto.MotoAttributes.MotoType.CircumductionMoto",
                 "color": "#ff7537ff",
                 "textcolor": "white"
             },
@@ -11952,7 +11952,7 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Moto.MotoProperties.MotoShape.CircleMoto",
+                    "title": "Moto.MotoAttributes.MotoShape.CircleMoto",
                     "color": "#ff7537ff",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -12024,7 +12024,7 @@
                 "textcolor": "white"
             },
             {
-                "title": "Moto.MotoProperties.MotoShape.CircleMoto",
+                "title": "Moto.MotoAttributes.MotoShape.CircleMoto",
                 "color": "#ff7537ff",
                 "textcolor": "white"
             },
@@ -12092,7 +12092,7 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Moto.MotoProperties.MotoShape.Overview",
+                    "title": "Moto.MotoAttributes.MotoShape.Overview",
                     "color": "#ff7537ff",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -12214,7 +12214,7 @@
                 "textcolor": "white"
             },
             {
-                "title": "Moto.MotoProperties.MotoShape.Overview",
+                "title": "Moto.MotoAttributes.MotoShape.Overview",
                 "color": "#ff7537ff",
                 "textcolor": "white"
             },
@@ -12356,13 +12356,13 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Moto.MotoProperties.MotoRangeOfMotion",
+                    "title": "Moto.MotoAttributes.MotoRangeOfMotion",
                     "color": "#ff7537ff",
                     "textcolor": "white",
                     "type": "sidecar"
                 },
                 {
-                    "title": "Moto.MotoProperties.MotoShape.CircleMoto",
+                    "title": "Moto.MotoAttributes.MotoShape.CircleMoto",
                     "color": "#ff7537ff",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -12468,12 +12468,12 @@
                 "textcolor": "white"
             },
             {
-                "title": "Moto.MotoProperties.MotoRangeOfMotion",
+                "title": "Moto.MotoAttributes.MotoRangeOfMotion",
                 "color": "#ff7537ff",
                 "textcolor": "white"
             },
             {
-                "title": "Moto.MotoProperties.MotoShape.CircleMoto",
+                "title": "Moto.MotoAttributes.MotoShape.CircleMoto",
                 "color": "#ff7537ff",
                 "textcolor": "white"
             },
@@ -12591,13 +12591,13 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Moto.MotoProperties.MotoType.ReleaseMoto",
+                    "title": "Moto.MotoAttributes.MotoType.ReleaseMoto",
                     "color": "#ff7537ff",
                     "textcolor": "white",
                     "type": "sidecar"
                 },
                 {
-                    "title": "Moto.MotoProperties.MotoType.RotationMoto",
+                    "title": "Moto.MotoAttributes.MotoType.RotationMoto",
                     "color": "#ff7537ff",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -12690,12 +12690,12 @@
                 "textcolor": "white"
             },
             {
-                "title": "Moto.MotoProperties.MotoType.ReleaseMoto",
+                "title": "Moto.MotoAttributes.MotoType.ReleaseMoto",
                 "color": "#ff7537ff",
                 "textcolor": "white"
             },
             {
-                "title": "Moto.MotoProperties.MotoType.RotationMoto",
+                "title": "Moto.MotoAttributes.MotoType.RotationMoto",
                 "color": "#ff7537ff",
                 "textcolor": "white"
             },
@@ -13141,13 +13141,13 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Moto.MotoProperties.MotoType.FlexionMoto",
+                    "title": "Moto.MotoAttributes.MotoType.FlexionMoto",
                     "color": "#ff7537ff",
                     "textcolor": "white",
                     "type": "sidecar"
                 },
                 {
-                    "title": "Moto.MotoProperties.MotoType.LockMoto",
+                    "title": "Moto.MotoAttributes.MotoType.LockMoto",
                     "color": "#ff7537ff",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -13201,12 +13201,12 @@
                 "textcolor": "white"
             },
             {
-                "title": "Moto.MotoProperties.MotoType.FlexionMoto",
+                "title": "Moto.MotoAttributes.MotoType.FlexionMoto",
                 "color": "#ff7537ff",
                 "textcolor": "white"
             },
             {
-                "title": "Moto.MotoProperties.MotoType.LockMoto",
+                "title": "Moto.MotoAttributes.MotoType.LockMoto",
                 "color": "#ff7537ff",
                 "textcolor": "white"
             },
@@ -13301,7 +13301,7 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Moto.MotoProperties.MotoShape.TriangleMoto",
+                    "title": "Moto.MotoAttributes.MotoShape.TriangleMoto",
                     "color": "#ff7537ff",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -13392,7 +13392,7 @@
                 "textcolor": "white"
             },
             {
-                "title": "Moto.MotoProperties.MotoShape.TriangleMoto",
+                "title": "Moto.MotoAttributes.MotoShape.TriangleMoto",
                 "color": "#ff7537ff",
                 "textcolor": "white"
             },
@@ -13841,19 +13841,19 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Moto.MotoProperties.MotoRangeOfMotion",
+                    "title": "Moto.MotoAttributes.MotoRangeOfMotion",
                     "color": "#ff7537ff",
                     "textcolor": "white",
                     "type": "sidecar"
                 },
                 {
-                    "title": "Moto.MotoProperties.MotoShape.CircleMoto",
+                    "title": "Moto.MotoAttributes.MotoShape.CircleMoto",
                     "color": "#ff7537ff",
                     "textcolor": "white",
                     "type": "sidecar"
                 },
                 {
-                    "title": "Moto.MotoProperties.MotoType.SymmetricMoto",
+                    "title": "Moto.MotoAttributes.MotoType.SymmetricMoto",
                     "color": "#ff7537ff",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -13910,17 +13910,17 @@
                 "textcolor": "white"
             },
             {
-                "title": "Moto.MotoProperties.MotoRangeOfMotion",
+                "title": "Moto.MotoAttributes.MotoRangeOfMotion",
                 "color": "#ff7537ff",
                 "textcolor": "white"
             },
             {
-                "title": "Moto.MotoProperties.MotoShape.CircleMoto",
+                "title": "Moto.MotoAttributes.MotoShape.CircleMoto",
                 "color": "#ff7537ff",
                 "textcolor": "white"
             },
             {
-                "title": "Moto.MotoProperties.MotoType.SymmetricMoto",
+                "title": "Moto.MotoAttributes.MotoType.SymmetricMoto",
                 "color": "#ff7537ff",
                 "textcolor": "white"
             },
@@ -13976,19 +13976,19 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Moto.MotoProperties.MotoShape.SquareMoto",
+                    "title": "Moto.MotoAttributes.MotoShape.SquareMoto",
                     "color": "#ff7537ff",
                     "textcolor": "white",
                     "type": "sidecar"
                 },
                 {
-                    "title": "Moto.MotoProperties.MotoShape.TriangleMoto",
+                    "title": "Moto.MotoAttributes.MotoShape.TriangleMoto",
                     "color": "#ff7537ff",
                     "textcolor": "white",
                     "type": "sidecar"
                 },
                 {
-                    "title": "Moto.MotoProperties.MotoType.CompressionMoto",
+                    "title": "Moto.MotoAttributes.MotoType.CompressionMoto",
                     "color": "#ff7537ff",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -14058,17 +14058,17 @@
                 "textcolor": "#000000ff"
             },
             {
-                "title": "Moto.MotoProperties.MotoShape.SquareMoto",
+                "title": "Moto.MotoAttributes.MotoShape.SquareMoto",
                 "color": "#ff7537ff",
                 "textcolor": "white"
             },
             {
-                "title": "Moto.MotoProperties.MotoShape.TriangleMoto",
+                "title": "Moto.MotoAttributes.MotoShape.TriangleMoto",
                 "color": "#ff7537ff",
                 "textcolor": "white"
             },
             {
-                "title": "Moto.MotoProperties.MotoType.CompressionMoto",
+                "title": "Moto.MotoAttributes.MotoType.CompressionMoto",
                 "color": "#ff7537ff",
                 "textcolor": "white"
             },
@@ -14157,37 +14157,37 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Moto.MotoProperties.MotoPlane.Overview",
+                    "title": "Moto.MotoAttributes.MotoPlane.Overview",
                     "color": "#ff7537ff",
                     "textcolor": "white",
                     "type": "sidecar"
                 },
                 {
-                    "title": "Moto.MotoProperties.MotoPlane.XYPlane",
+                    "title": "Moto.MotoAttributes.MotoPlane.XYPlane",
                     "color": "#ff7537ff",
                     "textcolor": "white",
                     "type": "sidecar"
                 },
                 {
-                    "title": "Moto.MotoProperties.MotoPlane.XZPlane",
+                    "title": "Moto.MotoAttributes.MotoPlane.XZPlane",
                     "color": "#ff7537ff",
                     "textcolor": "white",
                     "type": "sidecar"
                 },
                 {
-                    "title": "Moto.MotoProperties.MotoPlane.YZPlane",
+                    "title": "Moto.MotoAttributes.MotoPlane.YZPlane",
                     "color": "#ff7537ff",
                     "textcolor": "white",
                     "type": "sidecar"
                 },
                 {
-                    "title": "Moto.MotoProperties.MotoRangeOfMotion",
+                    "title": "Moto.MotoAttributes.MotoRangeOfMotion",
                     "color": "#ff7537ff",
                     "textcolor": "white",
                     "type": "sidecar"
                 },
                 {
-                    "title": "Moto.MotoProperties.MotoShape.CircleMoto",
+                    "title": "Moto.MotoAttributes.MotoShape.CircleMoto",
                     "color": "#ff7537ff",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -14254,32 +14254,32 @@
                 "textcolor": "#000000ff"
             },
             {
-                "title": "Moto.MotoProperties.MotoPlane.Overview",
+                "title": "Moto.MotoAttributes.MotoPlane.Overview",
                 "color": "#ff7537ff",
                 "textcolor": "white"
             },
             {
-                "title": "Moto.MotoProperties.MotoPlane.XYPlane",
+                "title": "Moto.MotoAttributes.MotoPlane.XYPlane",
                 "color": "#ff7537ff",
                 "textcolor": "white"
             },
             {
-                "title": "Moto.MotoProperties.MotoPlane.XZPlane",
+                "title": "Moto.MotoAttributes.MotoPlane.XZPlane",
                 "color": "#ff7537ff",
                 "textcolor": "white"
             },
             {
-                "title": "Moto.MotoProperties.MotoPlane.YZPlane",
+                "title": "Moto.MotoAttributes.MotoPlane.YZPlane",
                 "color": "#ff7537ff",
                 "textcolor": "white"
             },
             {
-                "title": "Moto.MotoProperties.MotoRangeOfMotion",
+                "title": "Moto.MotoAttributes.MotoRangeOfMotion",
                 "color": "#ff7537ff",
                 "textcolor": "white"
             },
             {
-                "title": "Moto.MotoProperties.MotoShape.CircleMoto",
+                "title": "Moto.MotoAttributes.MotoShape.CircleMoto",
                 "color": "#ff7537ff",
                 "textcolor": "white"
             },
@@ -14362,19 +14362,19 @@
                 {
                     "color": "#ff7537ff",
                     "textcolor": "white",
-                    "title": "Moto.MotoProperties.MotoDependencies.DependentMoto",
+                    "title": "Moto.MotoAttributes.MotoDependencies.DependentMoto",
                     "type": "sidecar"
                 },
                 {
                     "color": "#ff7537ff",
                     "textcolor": "white",
-                    "title": "Moto.MotoProperties.MotoRangeOfMotion",
+                    "title": "Moto.MotoAttributes.MotoRangeOfMotion",
                     "type": "sidecar"
                 },
                 {
                     "color": "#ff7537ff",
                     "textcolor": "white",
-                    "title": "Moto.MotoProperties.MotoShape.CircleMoto",
+                    "title": "Moto.MotoAttributes.MotoShape.CircleMoto",
                     "type": "sidecar"
                 },
                 {
@@ -14461,17 +14461,17 @@
                 "textcolor": "white"
             },
             {
-                "title": "Moto.MotoProperties.MotoDependencies.DependentMoto",
+                "title": "Moto.MotoAttributes.MotoDependencies.DependentMoto",
                 "color": "#ff7537ff",
                 "textcolor": "white"
             },
             {
-                "title": "Moto.MotoProperties.MotoRangeOfMotion",
+                "title": "Moto.MotoAttributes.MotoRangeOfMotion",
                 "color": "#ff7537ff",
                 "textcolor": "white"
             },
             {
-                "title": "Moto.MotoProperties.MotoShape.CircleMoto",
+                "title": "Moto.MotoAttributes.MotoShape.CircleMoto",
                 "color": "#ff7537ff",
                 "textcolor": "white"
             },
@@ -14686,7 +14686,7 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Moto.MotoProperties.MotoType.ExpansionMoto",
+                    "title": "Moto.MotoAttributes.MotoType.ExpansionMoto",
                     "color": "#ff7537ff",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -14768,7 +14768,7 @@
                 "textcolor": "white"
             },
             {
-                "title": "Moto.MotoProperties.MotoType.ExpansionMoto",
+                "title": "Moto.MotoAttributes.MotoType.ExpansionMoto",
                 "color": "#ff7537ff",
                 "textcolor": "white"
             },
@@ -15046,7 +15046,7 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Moto.MotoProperties.MotoType.FlexionMoto",
+                    "title": "Moto.MotoAttributes.MotoType.FlexionMoto",
                     "color": "#ff7537ff",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -15162,7 +15162,7 @@
                 "textcolor": "white"
             },
             {
-                "title": "Moto.MotoProperties.MotoType.FlexionMoto",
+                "title": "Moto.MotoAttributes.MotoType.FlexionMoto",
                 "color": "#ff7537ff",
                 "textcolor": "white"
             },
@@ -15871,7 +15871,7 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Moto.MotoProperties.MotoShape.CircleMoto",
+                    "title": "Moto.MotoAttributes.MotoShape.CircleMoto",
                     "color": "#ff7537ff",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -15933,7 +15933,7 @@
                 "textcolor": "white"
             },
             {
-                "title": "Moto.MotoProperties.MotoShape.CircleMoto",
+                "title": "Moto.MotoAttributes.MotoShape.CircleMoto",
                 "color": "#ff7537ff",
                 "textcolor": "white"
             },
@@ -17501,7 +17501,7 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Moto.MotoProperties.MotoRangeOfMotion",
+                    "title": "Moto.MotoAttributes.MotoRangeOfMotion",
                     "color": "#ff7537ff",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -17579,7 +17579,7 @@
                 "textcolor": "white"
             },
             {
-                "title": "Moto.MotoProperties.MotoRangeOfMotion",
+                "title": "Moto.MotoAttributes.MotoRangeOfMotion",
                 "color": "#ff7537ff",
                 "textcolor": "white"
             },
@@ -18486,13 +18486,13 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Moto.MotoProperties.MotoPermutation",
+                    "title": "Moto.MotoAttributes.MotoPermutation",
                     "color": "#ff7537ff",
                     "textcolor": "white",
                     "type": "sidecar"
                 },
                 {
-                    "title": "Moto.MotoProperties.SubmotoCount",
+                    "title": "Moto.MotoAttributes.SubmotoCount",
                     "color": "#ff7537ff",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -18510,7 +18510,7 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Via.ViaProperties.ViaPermutation",
+                    "title": "Via.ViaAttributes.ViaPermutation",
                     "color": "#f83a22b8",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -18558,12 +18558,12 @@
                 "textcolor": "white"
             },
             {
-                "title": "Moto.MotoProperties.MotoPermutation",
+                "title": "Moto.MotoAttributes.MotoPermutation",
                 "color": "#ff7537ff",
                 "textcolor": "white"
             },
             {
-                "title": "Moto.MotoProperties.SubmotoCount",
+                "title": "Moto.MotoAttributes.SubmotoCount",
                 "color": "#ff7537ff",
                 "textcolor": "white"
             },
@@ -18578,7 +18578,7 @@
                 "textcolor": "white"
             },
             {
-                "title": "Via.ViaProperties.ViaPermutation",
+                "title": "Via.ViaAttributes.ViaPermutation",
                 "color": "#f83a22b8",
                 "textcolor": "white"
             },
@@ -19054,13 +19054,13 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Moto.MotoProperties.MotoType.Overview",
+                    "title": "Moto.MotoAttributes.MotoType.Overview",
                     "color": "#ff7537ff",
                     "textcolor": "white",
                     "type": "sidecar"
                 },
                 {
-                    "title": "Moto.MotoProperties.Overview",
+                    "title": "Moto.MotoAttributes.Overview",
                     "color": "#ff7537ff",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -19161,12 +19161,12 @@
                 "textcolor": "white"
             },
             {
-                "title": "Moto.MotoProperties.MotoType.Overview",
+                "title": "Moto.MotoAttributes.MotoType.Overview",
                 "color": "#ff7537ff",
                 "textcolor": "white"
             },
             {
-                "title": "Moto.MotoProperties.Overview",
+                "title": "Moto.MotoAttributes.Overview",
                 "color": "#ff7537ff",
                 "textcolor": "white"
             },
@@ -19266,7 +19266,7 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Moto.MotoProperties.MotoState",
+                    "title": "Moto.MotoAttributes.MotoState",
                     "color": "#ff7537ff",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -19326,7 +19326,7 @@
                 "textcolor": "white"
             },
             {
-                "title": "Moto.MotoProperties.MotoState",
+                "title": "Moto.MotoAttributes.MotoState",
                 "color": "#ff7537ff",
                 "textcolor": "white"
             },
@@ -19500,7 +19500,7 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Moto.MotoProperties.SubmotoCount",
+                    "title": "Moto.MotoAttributes.SubmotoCount",
                     "color": "#ff7537ff",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -19569,7 +19569,7 @@
                 "textcolor": "white"
             },
             {
-                "title": "Moto.MotoProperties.SubmotoCount",
+                "title": "Moto.MotoAttributes.SubmotoCount",
                 "color": "#ff7537ff",
                 "textcolor": "white"
             },
@@ -19952,7 +19952,7 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Moto.MotoProperties.SubmotoCount",
+                    "title": "Moto.MotoAttributes.SubmotoCount",
                     "color": "#ff7537ff",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -20001,7 +20001,7 @@
                 "textcolor": "white"
             },
             {
-                "title": "Moto.MotoProperties.SubmotoCount",
+                "title": "Moto.MotoAttributes.SubmotoCount",
                 "color": "#ff7537ff",
                 "textcolor": "white"
             },
@@ -20078,7 +20078,7 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Moto.MotoProperties.MotoType.CompressionMoto",
+                    "title": "Moto.MotoAttributes.MotoType.CompressionMoto",
                     "color": "#ff7537ff",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -20160,7 +20160,7 @@
                 "textcolor": "white"
             },
             {
-                "title": "Moto.MotoProperties.MotoType.CompressionMoto",
+                "title": "Moto.MotoAttributes.MotoType.CompressionMoto",
                 "color": "#ff7537ff",
                 "textcolor": "white"
             },
@@ -20264,7 +20264,7 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Moto.MotoProperties.SubmotoCount",
+                    "title": "Moto.MotoAttributes.SubmotoCount",
                     "color": "#ff7537ff",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -20356,7 +20356,7 @@
                 "textcolor": "white"
             },
             {
-                "title": "Moto.MotoProperties.SubmotoCount",
+                "title": "Moto.MotoAttributes.SubmotoCount",
                 "color": "#ff7537ff",
                 "textcolor": "white"
             },
@@ -20436,7 +20436,7 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Moto.MotoProperties.MotoType.CompressionMoto",
+                    "title": "Moto.MotoAttributes.MotoType.CompressionMoto",
                     "color": "#ff7537ff",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -20496,7 +20496,7 @@
                 "textcolor": "#000000ff"
             },
             {
-                "title": "Moto.MotoProperties.MotoType.CompressionMoto",
+                "title": "Moto.MotoAttributes.MotoType.CompressionMoto",
                 "color": "#ff7537ff",
                 "textcolor": "white"
             },
@@ -20765,7 +20765,7 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Moto.MotoProperties.MotoDegreesOfFreedom",
+                    "title": "Moto.MotoAttributes.MotoDegreesOfFreedom",
                     "color": "#ff7537ff",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -20820,7 +20820,7 @@
                 "textcolor": "white"
             },
             {
-                "title": "Moto.MotoProperties.MotoDegreesOfFreedom",
+                "title": "Moto.MotoAttributes.MotoDegreesOfFreedom",
                 "color": "#ff7537ff",
                 "textcolor": "white"
             },
@@ -20884,7 +20884,7 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Moto.MotoProperties.MotoRangeOfMotion",
+                    "title": "Moto.MotoAttributes.MotoRangeOfMotion",
                     "color": "#ff7537ff",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -20945,7 +20945,7 @@
                 "textcolor": "white"
             },
             {
-                "title": "Moto.MotoProperties.MotoRangeOfMotion",
+                "title": "Moto.MotoAttributes.MotoRangeOfMotion",
                 "color": "#ff7537ff",
                 "textcolor": "white"
             },
@@ -21669,7 +21669,7 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Moto.MotoProperties.MotoType.CompressionMoto",
+                    "title": "Moto.MotoAttributes.MotoType.CompressionMoto",
                     "color": "#ff7537ff",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -21755,7 +21755,7 @@
                 "textcolor": "#000000ff"
             },
             {
-                "title": "Moto.MotoProperties.MotoType.CompressionMoto",
+                "title": "Moto.MotoAttributes.MotoType.CompressionMoto",
                 "color": "#ff7537ff",
                 "textcolor": "white"
             },
@@ -21867,7 +21867,7 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Moto.MotoProperties.MotoType.PullMoto",
+                    "title": "Moto.MotoAttributes.MotoType.PullMoto",
                     "color": "#ff7537ff",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -21961,7 +21961,7 @@
                 "textcolor": "#000000ff"
             },
             {
-                "title": "Moto.MotoProperties.MotoType.PullMoto",
+                "title": "Moto.MotoAttributes.MotoType.PullMoto",
                 "color": "#ff7537ff",
                 "textcolor": "white"
             },
@@ -22375,13 +22375,13 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Moto.MotoProperties.MotoType.CompressionMoto",
+                    "title": "Moto.MotoAttributes.MotoType.CompressionMoto",
                     "color": "#ff7537ff",
                     "textcolor": "white",
                     "type": "sidecar"
                 },
                 {
-                    "title": "Moto.MotoProperties.MotoType.ExpansionMoto",
+                    "title": "Moto.MotoAttributes.MotoType.ExpansionMoto",
                     "color": "#ff7537ff",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -22445,12 +22445,12 @@
                 "textcolor": "#000000ff"
             },
             {
-                "title": "Moto.MotoProperties.MotoType.CompressionMoto",
+                "title": "Moto.MotoAttributes.MotoType.CompressionMoto",
                 "color": "#ff7537ff",
                 "textcolor": "white"
             },
             {
-                "title": "Moto.MotoProperties.MotoType.ExpansionMoto",
+                "title": "Moto.MotoAttributes.MotoType.ExpansionMoto",
                 "color": "#ff7537ff",
                 "textcolor": "white"
             },
@@ -22698,7 +22698,7 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Moto.MotoProperties.MotoType.SlotMoto",
+                    "title": "Moto.MotoAttributes.MotoType.SlotMoto",
                     "color": "#ff7537ff",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -22769,7 +22769,7 @@
                 "textcolor": "white"
             },
             {
-                "title": "Moto.MotoProperties.MotoType.SlotMoto",
+                "title": "Moto.MotoAttributes.MotoType.SlotMoto",
                 "color": "#ff7537ff",
                 "textcolor": "white"
             },
@@ -23759,7 +23759,7 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Moto.MotoProperties.MotoType.CompressionMoto",
+                    "title": "Moto.MotoAttributes.MotoType.CompressionMoto",
                     "color": "#ff7537ff",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -23867,7 +23867,7 @@
                 "textcolor": "#000000ff"
             },
             {
-                "title": "Moto.MotoProperties.MotoType.CompressionMoto",
+                "title": "Moto.MotoAttributes.MotoType.CompressionMoto",
                 "color": "#ff7537ff",
                 "textcolor": "white"
             },
@@ -25254,7 +25254,7 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Moto.MotoProperties.MotoType.SymmetricMoto",
+                    "title": "Moto.MotoAttributes.MotoType.SymmetricMoto",
                     "color": "#ff7537ff",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -25371,7 +25371,7 @@
                 "textcolor": "white"
             },
             {
-                "title": "Moto.MotoProperties.MotoType.SymmetricMoto",
+                "title": "Moto.MotoAttributes.MotoType.SymmetricMoto",
                 "color": "#ff7537ff",
                 "textcolor": "white"
             },
@@ -25636,13 +25636,13 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Moto.MotoProperties.MotoType.CompressionMoto",
+                    "title": "Moto.MotoAttributes.MotoType.CompressionMoto",
                     "color": "#ff7537ff",
                     "textcolor": "white",
                     "type": "sidecar"
                 },
                 {
-                    "title": "Moto.MotoProperties.MotoType.ExpansionMoto",
+                    "title": "Moto.MotoAttributes.MotoType.ExpansionMoto",
                     "color": "#ff7537ff",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -25757,12 +25757,12 @@
                 "textcolor": "white"
             },
             {
-                "title": "Moto.MotoProperties.MotoType.CompressionMoto",
+                "title": "Moto.MotoAttributes.MotoType.CompressionMoto",
                 "color": "#ff7537ff",
                 "textcolor": "white"
             },
             {
-                "title": "Moto.MotoProperties.MotoType.ExpansionMoto",
+                "title": "Moto.MotoAttributes.MotoType.ExpansionMoto",
                 "color": "#ff7537ff",
                 "textcolor": "white"
             },
@@ -26666,7 +26666,7 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Via.ViaProperties.Overview",
+                    "title": "Via.ViaAttributes.Overview",
                     "color": "#f83a22b8",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -26750,7 +26750,7 @@
                 "textcolor": "white"
             },
             {
-                "title": "Via.ViaProperties.Overview",
+                "title": "Via.ViaAttributes.Overview",
                 "color": "#f83a22b8",
                 "textcolor": "white"
             },
@@ -27428,7 +27428,7 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Moto.MotoProperties.MotoType.CompressionMoto",
+                    "title": "Moto.MotoAttributes.MotoType.CompressionMoto",
                     "color": "#ff7537ff",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -27501,7 +27501,7 @@
                 "textcolor": "white"
             },
             {
-                "title": "Moto.MotoProperties.MotoType.CompressionMoto",
+                "title": "Moto.MotoAttributes.MotoType.CompressionMoto",
                 "color": "#ff7537ff",
                 "textcolor": "white"
             },
@@ -27703,7 +27703,7 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Land.LandProperties.Overview",
+                    "title": "Land.LandAttributes.Overview",
                     "color": "#008000ff",
                     "textcolor": "#ffffffff",
                     "type": "sidecar"
@@ -27749,7 +27749,7 @@
                 "textcolor": "#ffffffff"
             },
             {
-                "title": "Land.LandProperties.Overview",
+                "title": "Land.LandAttributes.Overview",
                 "color": "#008000ff",
                 "textcolor": "#ffffffff"
             },
@@ -29366,7 +29366,7 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Moto.MotoProperties.MotoType.RestMoto",
+                    "title": "Moto.MotoAttributes.MotoType.RestMoto",
                     "color": "#ff7537ff",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -29456,7 +29456,7 @@
                 "textcolor": "#000000ff"
             },
             {
-                "title": "Moto.MotoProperties.MotoType.RestMoto",
+                "title": "Moto.MotoAttributes.MotoType.RestMoto",
                 "color": "#ff7537ff",
                 "textcolor": "white"
             },
@@ -29855,7 +29855,7 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Via.ViaProperties.Overview",
+                    "title": "Via.ViaAttributes.Overview",
                     "color": "#f83a22b8",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -29958,7 +29958,7 @@
                 "textcolor": "white"
             },
             {
-                "title": "Via.ViaProperties.Overview",
+                "title": "Via.ViaAttributes.Overview",
                 "color": "#f83a22b8",
                 "textcolor": "white"
             },
@@ -30164,7 +30164,7 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Moto.MotoProperties.MotoType.ArchMoto",
+                    "title": "Moto.MotoAttributes.MotoType.ArchMoto",
                     "color": "#ff7537ff",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -30231,7 +30231,7 @@
                 "textcolor": "white"
             },
             {
-                "title": "Moto.MotoProperties.MotoType.ArchMoto",
+                "title": "Moto.MotoAttributes.MotoType.ArchMoto",
                 "color": "#ff7537ff",
                 "textcolor": "white"
             },
@@ -30353,7 +30353,7 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Moto.MotoProperties.SubmotoCount",
+                    "title": "Moto.MotoAttributes.SubmotoCount",
                     "color": "#ff7537ff",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -30460,7 +30460,7 @@
                 "textcolor": "white"
             },
             {
-                "title": "Moto.MotoProperties.SubmotoCount",
+                "title": "Moto.MotoAttributes.SubmotoCount",
                 "color": "#ff7537ff",
                 "textcolor": "white"
             },
@@ -31001,7 +31001,7 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Moto.PlanterProperties.PlanterAbility",
+                    "title": "Moto.PlanterAttributes.PlanterAbility",
                     "color": "#ff7537ff",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -31103,7 +31103,7 @@
                 "textcolor": "#000000ff"
             },
             {
-                "title": "Moto.PlanterProperties.PlanterAbility",
+                "title": "Moto.PlanterAttributes.PlanterAbility",
                 "color": "#ff7537ff",
                 "textcolor": "white"
             },
@@ -31222,7 +31222,7 @@
                 {
                     "color": "#ff7537ff",
                     "textcolor": "white",
-                    "title": "Moto.MotoProperties.MotoType.CompressionMoto",
+                    "title": "Moto.MotoAttributes.MotoType.CompressionMoto",
                     "type": "sidecar"
                 },
                 {
@@ -31327,7 +31327,7 @@
                 "textcolor": "white"
             },
             {
-                "title": "Moto.MotoProperties.MotoType.CompressionMoto",
+                "title": "Moto.MotoAttributes.MotoType.CompressionMoto",
                 "color": "#ff7537ff",
                 "textcolor": "white"
             },
@@ -31412,13 +31412,13 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Moto.MotoProperties.MotoType.CompressionMoto",
+                    "title": "Moto.MotoAttributes.MotoType.CompressionMoto",
                     "color": "#ff7537ff",
                     "textcolor": "white",
                     "type": "sidecar"
                 },
                 {
-                    "title": "Moto.MotoProperties.MotoType.ExpansionMoto",
+                    "title": "Moto.MotoAttributes.MotoType.ExpansionMoto",
                     "color": "#ff7537ff",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -31484,12 +31484,12 @@
                 "textcolor": "white"
             },
             {
-                "title": "Moto.MotoProperties.MotoType.CompressionMoto",
+                "title": "Moto.MotoAttributes.MotoType.CompressionMoto",
                 "color": "#ff7537ff",
                 "textcolor": "white"
             },
             {
-                "title": "Moto.MotoProperties.MotoType.ExpansionMoto",
+                "title": "Moto.MotoAttributes.MotoType.ExpansionMoto",
                 "color": "#ff7537ff",
                 "textcolor": "white"
             },
@@ -31540,13 +31540,13 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Moto.MotoProperties.MotoDuration",
+                    "title": "Moto.MotoAttributes.MotoDuration",
                     "color": "#ff7537ff",
                     "textcolor": "white",
                     "type": "sidecar"
                 },
                 {
-                    "title": "Moto.MotoProperties.MotoType.ReleaseMoto",
+                    "title": "Moto.MotoAttributes.MotoType.ReleaseMoto",
                     "color": "#ff7537ff",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -31604,12 +31604,12 @@
                 "textcolor": "#000000ff"
             },
             {
-                "title": "Moto.MotoProperties.MotoDuration",
+                "title": "Moto.MotoAttributes.MotoDuration",
                 "color": "#ff7537ff",
                 "textcolor": "white"
             },
             {
-                "title": "Moto.MotoProperties.MotoType.ReleaseMoto",
+                "title": "Moto.MotoAttributes.MotoType.ReleaseMoto",
                 "color": "#ff7537ff",
                 "textcolor": "white"
             },
@@ -31819,7 +31819,7 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Moto.MotoProperties.MotoDuration",
+                    "title": "Moto.MotoAttributes.MotoDuration",
                     "color": "#ff7537ff",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -31884,7 +31884,7 @@
                 "textcolor": "white"
             },
             {
-                "title": "Moto.MotoProperties.MotoDuration",
+                "title": "Moto.MotoAttributes.MotoDuration",
                 "color": "#ff7537ff",
                 "textcolor": "white"
             },
@@ -31942,7 +31942,7 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Moto.MotoProperties.MotoDuration",
+                    "title": "Moto.MotoAttributes.MotoDuration",
                     "color": "#ff7537ff",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -31998,7 +31998,7 @@
                 "textcolor": "white"
             },
             {
-                "title": "Moto.MotoProperties.MotoDuration",
+                "title": "Moto.MotoAttributes.MotoDuration",
                 "color": "#ff7537ff",
                 "textcolor": "white"
             },
@@ -32055,7 +32055,7 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Moto.MotoProperties.MotoType.RestMoto",
+                    "title": "Moto.MotoAttributes.MotoType.RestMoto",
                     "color": "#ff7537ff",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -32118,7 +32118,7 @@
                 "textcolor": "#000000ff"
             },
             {
-                "title": "Moto.MotoProperties.MotoType.RestMoto",
+                "title": "Moto.MotoAttributes.MotoType.RestMoto",
                 "color": "#ff7537ff",
                 "textcolor": "white"
             },
@@ -32197,7 +32197,7 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Moto.PlanterProperties.PlanterSize",
+                    "title": "Moto.PlanterAttributes.PlanterSize",
                     "color": "#ff7537ff",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -32258,7 +32258,7 @@
                 "textcolor": "#000000ff"
             },
             {
-                "title": "Moto.PlanterProperties.PlanterSize",
+                "title": "Moto.PlanterAttributes.PlanterSize",
                 "color": "#ff7537ff",
                 "textcolor": "white"
             },
@@ -32575,7 +32575,7 @@
                 {
                     "color": "#ffffffff",
                     "textcolor": "#000000ff",
-                    "title": "Dev.Element.ElementProperties",
+                    "title": "Dev.Element.ElementAttributes",
                     "type": "sidecar"
                 },
                 {
@@ -32672,7 +32672,7 @@
                 "textcolor": "#000000ff"
             },
             {
-                "title": "Dev.Element.ElementProperties",
+                "title": "Dev.Element.ElementAttributes",
                 "color": "#ffffffff",
                 "textcolor": "#000000ff"
             },
@@ -32894,19 +32894,19 @@
                 {
                     "color": "#ff7537ff",
                     "textcolor": "white",
-                    "title": "Moto.MotoProperties.MotoDependencies.DependentMoto",
+                    "title": "Moto.MotoAttributes.MotoDependencies.DependentMoto",
                     "type": "sidecar"
                 },
                 {
                     "color": "#ff7537ff",
                     "textcolor": "white",
-                    "title": "Moto.MotoProperties.MotoDependencies.IndependentMoto",
+                    "title": "Moto.MotoAttributes.MotoDependencies.IndependentMoto",
                     "type": "sidecar"
                 },
                 {
                     "color": "#ff7537ff",
                     "textcolor": "white",
-                    "title": "Moto.MotoProperties.MotoDependencies.Overview",
+                    "title": "Moto.MotoAttributes.MotoDependencies.Overview",
                     "type": "sidecar"
                 },
                 {
@@ -32970,17 +32970,17 @@
                 "textcolor": "white"
             },
             {
-                "title": "Moto.MotoProperties.MotoDependencies.DependentMoto",
+                "title": "Moto.MotoAttributes.MotoDependencies.DependentMoto",
                 "color": "#ff7537ff",
                 "textcolor": "white"
             },
             {
-                "title": "Moto.MotoProperties.MotoDependencies.IndependentMoto",
+                "title": "Moto.MotoAttributes.MotoDependencies.IndependentMoto",
                 "color": "#ff7537ff",
                 "textcolor": "white"
             },
             {
-                "title": "Moto.MotoProperties.MotoDependencies.Overview",
+                "title": "Moto.MotoAttributes.MotoDependencies.Overview",
                 "color": "#ff7537ff",
                 "textcolor": "white"
             },
@@ -33822,7 +33822,7 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Moto.MotoProperties.MotoType",
+                    "title": "Moto.MotoAttributes.MotoType",
                     "color": "#ff7537ff",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -33873,7 +33873,7 @@
                 "textcolor": "white"
             },
             {
-                "title": "Moto.MotoProperties.MotoType",
+                "title": "Moto.MotoAttributes.MotoType",
                 "color": "#ff7537ff",
                 "textcolor": "white"
             },
@@ -43155,7 +43155,7 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Moto.MotoProperties.MotoPermutation",
+                    "title": "Moto.MotoAttributes.MotoPermutation",
                     "color": "#ff7537ff",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -43243,7 +43243,7 @@
                 "textcolor": "white"
             },
             {
-                "title": "Moto.MotoProperties.MotoPermutation",
+                "title": "Moto.MotoAttributes.MotoPermutation",
                 "color": "#ff7537ff",
                 "textcolor": "white"
             },
@@ -48104,7 +48104,7 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Moto.MotoProperties.Overview",
+                    "title": "Moto.MotoAttributes.Overview",
                     "color": "#ff7537ff",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -48174,7 +48174,7 @@
                 "textcolor": "white"
             },
             {
-                "title": "Moto.MotoProperties.Overview",
+                "title": "Moto.MotoAttributes.Overview",
                 "color": "#ff7537ff",
                 "textcolor": "white"
             },
@@ -51809,7 +51809,7 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Dev.Element.ElementProperties",
+                    "title": "Dev.Element.ElementAttributes",
                     "color": "#ffffffff",
                     "textcolor": "#000000ff",
                     "type": "sidecar"
@@ -51885,7 +51885,7 @@
                 "textcolor": "#000000ff"
             },
             {
-                "title": "Dev.Element.ElementProperties",
+                "title": "Dev.Element.ElementAttributes",
                 "color": "#ffffffff",
                 "textcolor": "#000000ff"
             },
@@ -53554,7 +53554,7 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Dev.Element.ElementProperties",
+                    "title": "Dev.Element.ElementAttributes",
                     "color": "#ffffffff",
                     "textcolor": "#000000ff",
                     "type": "sidecar"
@@ -53606,7 +53606,7 @@
                 "textcolor": "white"
             },
             {
-                "title": "Dev.Element.ElementProperties",
+                "title": "Dev.Element.ElementAttributes",
                 "color": "#ffffffff",
                 "textcolor": "#000000ff"
             },
@@ -73092,13 +73092,13 @@
             "lastUpdated": 1692983127685,
             "tags": [
                 {
-                    "title": "Moto.MotoProperties.MotoPermutation",
+                    "title": "Moto.MotoAttributes.MotoPermutation",
                     "color": "#ff7537ff",
                     "textcolor": "white",
                     "type": "sidecar"
                 },
                 {
-                    "title": "Via.ViaProperties.ViaPermutation",
+                    "title": "Via.ViaAttributes.ViaPermutation",
                     "color": "#f83a22b8",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -73187,12 +73187,12 @@
         "extension": "jpg",
         "tags": [
             {
-                "title": "Moto.MotoProperties.MotoPermutation",
+                "title": "Moto.MotoAttributes.MotoPermutation",
                 "color": "#ff7537ff",
                 "textcolor": "white"
             },
             {
-                "title": "Via.ViaProperties.ViaPermutation",
+                "title": "Via.ViaAttributes.ViaPermutation",
                 "color": "#f83a22b8",
                 "textcolor": "white"
             },
@@ -74143,19 +74143,19 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Moto.MotoProperties.MotoShape.TriangleMoto",
+                    "title": "Moto.MotoAttributes.MotoShape.TriangleMoto",
                     "color": "#ff7537ff",
                     "textcolor": "white",
                     "type": "sidecar"
                 },
                 {
-                    "title": "Moto.MotoProperties.MotoShape.SquareMoto",
+                    "title": "Moto.MotoAttributes.MotoShape.SquareMoto",
                     "color": "#ff7537ff",
                     "textcolor": "white",
                     "type": "sidecar"
                 },
                 {
-                    "title": "Moto.MotoProperties.MotoShape.CircleMoto",
+                    "title": "Moto.MotoAttributes.MotoShape.CircleMoto",
                     "color": "#ff7537ff",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -74224,17 +74224,17 @@
                 "textcolor": "white"
             },
             {
-                "title": "Moto.MotoProperties.MotoShape.TriangleMoto",
+                "title": "Moto.MotoAttributes.MotoShape.TriangleMoto",
                 "color": "#ff7537ff",
                 "textcolor": "white"
             },
             {
-                "title": "Moto.MotoProperties.MotoShape.SquareMoto",
+                "title": "Moto.MotoAttributes.MotoShape.SquareMoto",
                 "color": "#ff7537ff",
                 "textcolor": "white"
             },
             {
-                "title": "Moto.MotoProperties.MotoShape.CircleMoto",
+                "title": "Moto.MotoAttributes.MotoShape.CircleMoto",
                 "color": "#ff7537ff",
                 "textcolor": "white"
             },
@@ -75223,7 +75223,7 @@
                 {
                     "color": "#4986e7ff",
                     "textcolor": "white",
-                    "title": "Beta.BetaProperties.SubsystemCount",
+                    "title": "Beta.BetaAttributes.SubsystemCount",
                     "type": "sidecar"
                 },
                 {
@@ -75261,7 +75261,7 @@
         "extension": "png",
         "tags": [
             {
-                "title": "Beta.BetaProperties.SubsystemCount",
+                "title": "Beta.BetaAttributes.SubsystemCount",
                 "color": "#4986e7ff",
                 "textcolor": "white"
             },
@@ -81665,7 +81665,7 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Moto.MotoProperties.MotoType.PushMoto",
+                    "title": "Moto.MotoAttributes.MotoType.PushMoto",
                     "color": "#ff7537ff",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -81799,7 +81799,7 @@
                 "textcolor": "white"
             },
             {
-                "title": "Moto.MotoProperties.MotoType.PushMoto",
+                "title": "Moto.MotoAttributes.MotoType.PushMoto",
                 "color": "#ff7537ff",
                 "textcolor": "white"
             },

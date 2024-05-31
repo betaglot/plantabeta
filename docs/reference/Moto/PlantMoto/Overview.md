@@ -3,7 +3,7 @@
 
 ## Vege Anatomy
 
-## Vege Properties
+## Vege Attributes
 
 ::: details 🛠 <dev>&&&</dev>
 

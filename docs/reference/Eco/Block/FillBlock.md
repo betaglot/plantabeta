@@ -5,7 +5,7 @@
 
 - BurntBlock
 
-## CoverBlock Properties
+## CoverBlock Attributes
 
 - CropTreeAge
 -

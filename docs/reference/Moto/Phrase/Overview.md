@@ -1,7 +1,7 @@
 
 # 🟠 <moto>Phrase</moto>
 
-> sequence of Moto Elements
+> sequence of Moto Skills
 
 <div style="display: flex">
     <div>

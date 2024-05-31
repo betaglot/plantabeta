@@ -3,7 +3,7 @@
 
 ## Bag Anatomy
 
-## Bag Properties
+## Bag Attributes
 
 ::: details 🛠 <dev>&&&</dev>
 

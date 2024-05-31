@@ -184,44 +184,44 @@ The BetaLingo of balance beam
 
 ```py
 
-Beta_Properties = {
+Beta_Attributes = {
 
 }
 
 ```
 
-### <eco>EcoElement: Object</eco>
+### <eco>EcoFactor: Object</eco>
 
 ```py
 
-Eco_Properties = {
+Eco_Attributes = {
     'material': string,
 
 }
 
 ```
 
-### <moto>MotoElement: Object</moto>
+### <moto>MotoSkill: Object</moto>
 
 ```py
 
-Moto_Properties = {
+Moto_Attributes = {
     
 }
 
 ```
 
-### <via>ViaElement: Object</via>
+### <via>ViaSkill: Object</via>
 
 ```py
 
-Via_Properties = {
+Via_Attributes = {
 
 }
 
 ```
 
-### <neuro>NeuroElement: Object</neuro>
+### <neuro>NeuroSkill: Object</neuro>
 
 - An object in Awareness
 - An object of your Attention
@@ -805,7 +805,6 @@ dev/PutPlantApp.md, <dev>Dev.System.Syntax.Punctuation.Equal</dev>, ![90047.jpg]
 dev/PutPlantApp.md, <dev>Dev.System.Syntax.Punctuation.OR</dev>, ![90047.jpg](/PaperPhoto/90047.jpg)
 dev/PutPlantApp.md, <dev>Dev.System.Theorem</dev>, ![90047.jpg](/PaperPhoto/90047.jpg)
 dev/PutPlantApp.md, <dev>Dev.System.Value</dev>, ![90092.png](/PaperPhoto/90092.png)
-
 
 ## DevNotes
 

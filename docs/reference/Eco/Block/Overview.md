@@ -18,7 +18,7 @@ Dispersed
 - Boundary
 -
 
-## Block Properties
+## Block Attributes
 
 - BlockLocation
     - Altitude

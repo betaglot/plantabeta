@@ -125,7 +125,7 @@ DashedCurve
 - "Dev.Element.ElementGroup"
 - "Dev.Element.ElementPage"
 - "Dev.Element.ElementPictogram"
-- "Dev.Element.ElementProperties"
+- "Dev.Element.ElementAttributes"
 - "Dev.Element.ElementPhrase"
 - "Dev.Element.ElementTimeline"
 - "Dev.Element.ElementTimeline.EinsteinSpaghetti"
@@ -475,7 +475,7 @@ dev/Graphics/Overview.md, <dev>Dev.Element.ElementTimeline</dev>, ![1817.jpg](/P
 dev/Graphics/Overview.md, <dev>Dev.Element.ElementCard</dev>, ![1818.jpg](/PaperPhoto/1818.jpg)
 dev/Graphics/Overview.md, <dev>Dev.Element.ElementPage</dev>, ![1818.jpg](/PaperPhoto/1818.jpg)
 dev/Graphics/Overview.md, <dev>Dev.Element.ElementPhrase</dev>, ![1818.jpg](/PaperPhoto/1818.jpg)
-dev/Graphics/Overview.md, <dev>Dev.Element.ElementProperties</dev>, ![1818.jpg](/PaperPhoto/1818.jpg)
+dev/Graphics/Overview.md, <dev>Dev.Element.ElementAttributes</dev>, ![1818.jpg](/PaperPhoto/1818.jpg)
 dev/Graphics/Overview.md, <dev>Dev.Element.ElementTimeline</dev>, ![1818.jpg](/PaperPhoto/1818.jpg)
 dev/Graphics/Overview.md, <dev>Dev.Infographic.TreeView</dev>, ![1826.jpg](/PaperPhoto/1826.jpg)
 dev/Graphics/Overview.md, <dev>Dev.Element.ElementDiagram.ColorCode</dev>, ![1830.jpg](/PaperPhoto/1830.jpg)
@@ -629,12 +629,12 @@ dev/Graphics/Overview.md, <dev>Dev.Element.ElementDiagram.Symbols</dev>, ![2932.
 dev/Graphics/Overview.md, <dev>Dev.Infographic</dev>, ![2933.jpg](/PaperPhoto/2933.jpg)
 dev/Graphics/Overview.md, <dev>Dev.Element.ElementDiagram.Overview</dev>, ![2937.jpg](/PaperPhoto/2937.jpg)
 dev/Graphics/Overview.md, <dev>Dev.Element.ElementGroup</dev>, ![2943.jpg](/PaperPhoto/2943.jpg)
-dev/Graphics/Overview.md, <dev>Dev.Element.ElementProperties</dev>, ![2948.jpg](/PaperPhoto/2948.jpg)
+dev/Graphics/Overview.md, <dev>Dev.Element.ElementAttributes</dev>, ![2948.jpg](/PaperPhoto/2948.jpg)
 dev/Graphics/Overview.md, <dev>Dev.Infographic.TreeView</dev>, ![2948.jpg](/PaperPhoto/2948.jpg)
 dev/Graphics/Overview.md, <dev>Dev.Infographic</dev>, ![2954.jpg](/PaperPhoto/2954.jpg)
 dev/Graphics/Overview.md, <dev>Dev.Element.ElementDiagram.Symbols</dev>, ![2964.jpg](/PaperPhoto/2964.jpg)
 dev/Graphics/Overview.md, <dev>Dev.Element.ElementDiagram.Overview</dev>, ![2965.jpg](/PaperPhoto/2965.jpg)
-dev/Graphics/Overview.md, <dev>Dev.Element.ElementProperties</dev>, ![2966.jpg](/PaperPhoto/2966.jpg)
+dev/Graphics/Overview.md, <dev>Dev.Element.ElementAttributes</dev>, ![2966.jpg](/PaperPhoto/2966.jpg)
 dev/Graphics/Overview.md, <dev>Dev.Infographic</dev>, ![2968.jpg](/PaperPhoto/2968.jpg)
 dev/Graphics/Overview.md, <dev>Dev.Element.ElementDiagram.Overview</dev>, ![2986.jpg](/PaperPhoto/2986.jpg)
 dev/Graphics/Overview.md, <dev>Dev.Infographic</dev>, ![2986.jpg](/PaperPhoto/2986.jpg)

@@ -3,7 +3,7 @@
 
 ## Head Anatomy
 
-## Head Properties
+## Head Attributes
 
 ::: details 🛠 <dev>&&&</dev>
 

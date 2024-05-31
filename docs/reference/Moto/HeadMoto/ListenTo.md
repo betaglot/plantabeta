@@ -40,7 +40,7 @@
 
 -
 
-## Element Properties
+## Element Attributes
 
 -
 
@@ -53,21 +53,21 @@
     src="https://observablehq.com/embed/@d3/force-directed-graph/2?cells=chart"
 ></iframe>
 
-## Related <moto>MotoElements</moto>
+## Related <moto>MotoSkills</moto>
 
-- Description of how this MotoElement relates to a particular [<moto>MotoElement</moto>](/reference/Moto/MotoOverview).
-- Description of how this MotoElement relates to a particular [<moto>MotoElement</moto>](/reference/Moto/MotoOverview).
-- Description of how this MotoElement relates to a particular [<moto>MotoElement</moto>](/reference/Moto/MotoOverview).
+- Description of how this MotoSkill relates to a particular [<moto>MotoSkill</moto>](/reference/Moto/MotoOverview).
+- Description of how this MotoSkill relates to a particular [<moto>MotoSkill</moto>](/reference/Moto/MotoOverview).
+- Description of how this MotoSkill relates to a particular [<moto>MotoSkill</moto>](/reference/Moto/MotoOverview).
 
-## Related 🟩<eco>EcoElements</eco>
-
--
-
-## Related 🔻<via>ViaElements</via>
+## Related 🟩<eco>EcoFactors</eco>
 
 -
 
-## Related 💜<neuro>NeuroElements</neuro>
+## Related 🔻<via>ViaSkills</via>
+
+-
+
+## Related 💜<neuro>NeuroSkills</neuro>
 
 -  
 

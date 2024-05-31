@@ -11,7 +11,7 @@
 - Wrist
 - Hand
 
-## Arm Properties
+## Arm Attributes
 
 - ArmLength
 - ArmStrength

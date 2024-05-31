@@ -7,7 +7,7 @@
 
 -
 
-## Element Properties
+## Element Attributes
 
 -
 
@@ -21,16 +21,16 @@ Graph which represents how this element is related to other elements in Put(Plan
     src="https://observablehq.com/embed/@d3/force-directed-graph/2?cells=chart"
 ></iframe>
 
-## EcoElements
+## EcoFactors
 
 - StumpCluster
 - EcoSlopeAngle
 
-## NeuroElements
+## NeuroSkills
 
 - WorkingMemory
 
-## MotoElements
+## MotoSkills
 
 - MotoSize.
 - LookAt.
@@ -40,9 +40,9 @@ Graph which represents how this element is related to other elements in Put(Plan
 
 - Use Media donated by Planters.
 
-## Related ViaElements
+## Related ViaSkills
 
-Links to other related ViaElements.
+Links to other related ViaSkills.
 
 - MaximumSpacing
 

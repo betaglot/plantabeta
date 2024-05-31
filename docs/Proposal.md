@@ -26,20 +26,20 @@ The best resource which can be found is Replant.ca, but this site could be bette
 - Put(Plant) is a web app which contains all the information that a Planter needs to know to perform their job in the [Reference](/reference/Overview) section. 
 - Put(Plant) has a [Tests](/tests/Overview) section for Planters to reinforce their knowledge and to find any gaps in their knowledge.
 - Unlike Replant.ca, Put(Plant) contains no information about the business side of planting, it's only from the Planter's perspective. 
-- Each element of Put(Plant) has its own profile. Currently you will see placeholders for each section of the profile. Each element profile has a profile picture, element description, a relationship graph showing how it relates to elements from the other subsystems, descriptions of how elements from other subsystems relate to the current element and at the bottom of the profile there are links to related elements (like the "See Also" section in Wikipedia pages). Not only are Planters shown all the elements, but more importantly they are shown how they relate to each other. Some elements are highly related to such as Attention (NeuroElement), while others are not related to other subsystems such as TreeLoad (grabbing a tree from your bag).
+- Each element of Put(Plant) has its own profile. Currently you will see placeholders for each section of the profile. Each element profile has a profile picture, element description, a relationship graph showing how it relates to elements from the other subsystems, descriptions of how elements from other subsystems relate to the current element and at the bottom of the profile there are links to related elements (like the "See Also" section in Wikipedia pages). Not only are Planters shown all the elements, but more importantly they are shown how they relate to each other. Some elements are highly related to such as Attention (NeuroSkill), while others are not related to other subsystems such as TreeLoad (grabbing a tree from your bag).
     - [PocketArea](/reference/Eco/Area/PocketArea.md)
-        - It's more efficient to AreaCover than PerimeterCover (ViaElements) a PocketArea.
-        - You need to define the boundaries of the area (NeuroElement).
+        - It's more efficient to AreaCover than PerimeterCover (ViaSkills) a PocketArea.
+        - You need to define the boundaries of the area (NeuroSkill).
     - [HandScreef](/reference/Moto/HandMoto/HandScreef)
-        - The SoilType (EcoElement) determines if you SpadeScreef or HandScreef.
-        - You need to see and feel (NeuroElements) where the duff layer becomes MineralSoil to perform an effective HandScreef.
+        - The SoilType (EcoFactor) determines if you SpadeScreef or HandScreef.
+        - You need to see and feel (NeuroSkills) where the duff layer becomes MineralSoil to perform an effective HandScreef.
     - [BackCover](/reference/Via/PieceCover/BackCover)
-        - The shape of the Piece (EcoElement) determines if you want to BackCover or AreaCover.
+        - The shape of the Piece (EcoFactor) determines if you want to BackCover or AreaCover.
     - [BagUpSizeDecision](/reference/Neuro/Decision/BagUpSizeDecision)
-        - The Eco affects the BagUpSize, bigger BagUpSize for straight trenches (EcoElement) compared to RawLand (EcoElement).
+        - The Eco affects the BagUpSize, bigger BagUpSize for straight trenches (EcoFactor) compared to RawLand (EcoFactor).
         - BagUpSize depends on how fatigued (Neuro) you are.
-        - BagUpSize affects how fast you can move (MotoElement) and how easily you can climb over slash (EcoElement).
-        - If you need to BackCover (ViaElement) a piece then you typically have a large BagUpSize.
+        - BagUpSize affects how fast you can move (MotoSkill) and how easily you can climb over slash (EcoFactor).
+        - If you need to BackCover (ViaSkill) a piece then you typically have a large BagUpSize.
 
 ## How is Put(Plant) Innovative and Educational?
 
@@ -65,7 +65,7 @@ The best resource which can be found is Replant.ca, but this site could be bette
 > "We take pride in our work and reputation as we strive to be one of the most efficient and innovative companies on the market"
 
 - Put(Plant) will increase Quastuco's reputation, since Quastuco's logo is prominently displayed on the home page and on every other page, therefore advertising Quastuco to every user, everytime they use the app. With a greater amount of advertising comes a greater number of applicants, so you can be more selective in your hiring process.
-- You, Bunky and the OverEco family, could be the Planters in the moto element photos if you wanted.
+- You, Bunky and the OverEco family, could be the Planters in the Moto Skill photos if you wanted.
 - Quastuco can be one who posts an annoucement Put(Plant) to King Kong Reforestation.
 
 <pre>
@@ -125,7 +125,7 @@ Flagging reduction, the goal is a 60% reduction in single use plastics...Veteran
 
 #### Photography
 - Take photos of Eco from the ground and from the air (with Jess's help), then abstract them into Eco Diagrams.
-- Take photos and videos of Planters for Moto and Via Element Profiles. 
+- Take photos and videos of Planters for Moto and Via Skill Profiles. 
 
 #### Recording Observations
 

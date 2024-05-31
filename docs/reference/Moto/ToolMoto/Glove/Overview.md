@@ -3,7 +3,7 @@
 
 ## Glove Anatomy
 
-## Glove Properties
+## Glove Attributes
 
 ::: details 🛠 <dev>&&&</dev>
 

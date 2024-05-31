@@ -41,7 +41,7 @@
 
 - Walk is the most frequent top level Moto
 
-## Element Properties
+## Element Attributes
 
 ## Subset of Walking
 
@@ -67,21 +67,21 @@
     src="https://observablehq.com/embed/@d3/force-directed-graph/2?cells=chart"
 ></iframe>
 
-## Related <moto>MotoElements</moto>
+## Related <moto>MotoSkills</moto>
 
 - Walk  [<moto>DeadWalking</moto>](/reference/Moto/MotoError#dead-walk).
-- Description of how this Walk relates to a particular [<moto>MotoElement</moto>](/reference/Moto/MotoOverview).
-- Description of how this Walk relates to a particular [<moto>MotoElement</moto>](/reference/Moto/MotoOverview).
+- Description of how this Walk relates to a particular [<moto>MotoSkill</moto>](/reference/Moto/MotoOverview).
+- Description of how this Walk relates to a particular [<moto>MotoSkill</moto>](/reference/Moto/MotoOverview).
 
-## Related 🟩<eco>EcoElements</eco>
-
--
-
-## Related 🔻<via>ViaElements</via>
+## Related 🟩<eco>EcoFactors</eco>
 
 -
 
-## Related 💜<neuro>NeuroElements</neuro>
+## Related 🔻<via>ViaSkills</via>
+
+-
+
+## Related 💜<neuro>NeuroSkills</neuro>
 
 -  
 

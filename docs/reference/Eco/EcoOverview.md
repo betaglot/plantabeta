@@ -24,7 +24,7 @@ In PutPlant's <beta>Beta system</beta> the <eco>Eco</eco> module represents the 
 
 :::
 
-## <eco>What are Eco Elements?</eco>
+## <eco>What are Eco Factors?</eco>
 
 Eco Elements are prefixed by a 🟩 green square icon
 
@@ -56,7 +56,7 @@ Eco Elements are prefixed by a 🟩 green square icon
 }
 ```
 
-## <eco>What are Eco Properties?</eco>
+## <eco>What are Eco Attributes?</eco>
 
 ## <eco>What are Eco Methods?</eco>
 
@@ -94,9 +94,9 @@ Eco Elements are prefixed by a 🟩 green square icon
 - "Eco.LandError.PlantedTreeError.LeanerTree"
 - "Eco.LandEvent"
 - "Eco.LandName"
-- "Eco.LandProperties.InorganicLand"
-- "Eco.LandProperties.OrganicLand"
-- "Eco.LandProperties.Overview"
+- "Eco.LandAttributes.InorganicLand"
+- "Eco.LandAttributes.OrganicLand"
+- "Eco.LandAttributes.Overview"
 - "Eco.LandQuestion"
 - "Eco.MixedLand"
 - "Eco.Overview"

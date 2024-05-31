@@ -3,7 +3,7 @@
 
 ## Body Anatomy
 
-## Body Properties
+## Body Attributes
 
 ::: details 🛠 <dev>&&&</dev>
 

@@ -12,7 +12,7 @@
 - AreaCover
 -
 
-## Element Properties
+## Element Attributes
 
 - Width
 - TurnCount
@@ -33,7 +33,7 @@ Graph which represents how this element is related to other elements in Put(Plan
     src="https://observablehq.com/embed/@d3/force-directed-graph/2?cells=chart"
 ></iframe>
 
-## 🔻<via>ViaElements</via>
+## 🔻<via>ViaSkills</via>
 
 ### [TeamCover](/reference/Via/TeamPlant/Overview)
 
@@ -67,24 +67,24 @@ Graph which represents how this element is related to other elements in Put(Plan
 
 -
 
-## 🟩<eco>EcoElements</eco>
+## 🟩<eco>EcoFactors</eco>
 
 ### [TrenchLand]
 
 ### SlopedLand
 
 - Travel across the Eco instead of up and down
-- Description of how this ViaElement relates to a particular [EcoElement](/reference/Eco/EcoOverview).
+- Description of how this ViaSkill relates to a particular [EcoFactor](/reference/Eco/EcoOverview).
 
 ### Obstacle Preventing BoustroCover
 
 #### FallenTree
 
-## 💜<neuro>NeuroElements</neuro>
+## 💜<neuro>NeuroSkills</neuro>
 
 -
 
-## 🟠<moto>MotoElements</moto>
+## 🟠<moto>MotoSkills</moto>
 
 - TurnAround
 
@@ -92,9 +92,9 @@ Graph which represents how this element is related to other elements in Put(Plan
 
 - Use Media donated by Planters.
 
-## Related ViaElements
+## Related ViaSkills
 
-Links to other related ViaElements.
+Links to other related ViaSkills.
 
 - BackCover
 - FlagTrenchExit

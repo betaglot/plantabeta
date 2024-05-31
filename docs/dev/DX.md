@@ -58,7 +58,7 @@ Homonyms = {
 0. SetUp Laptop with Put(Plant) open on left half and the google doc open on the right. Record the audio with your phone being held up close to your mouth.
 
 1. Look at the Page, Tags and the PaperPhotos in <dev>DesignBox</dev> .
-    - Think of something to say for each header. Say the header that you're thinking about, eg. "Subelements", "Related Elements", "Element Properties", "Definition"...etc
+    - Think of something to say for each header. Say the header that you're thinking about, eg. "Subelements", "Related Elements", "Element Attributes", "Definition"...etc
     - Say period, new line,
 
 2. Record the audio in a Google Doc until you can't think of anything else to say.
@@ -102,9 +102,9 @@ Complete all the steps each day to refine your process. For instance after parsi
 
 ### PaperMine
 
-Use images and video when describing all the properties of an element.
+Use images and video when describing all the Attributes of an element.
 
-Look at a Spade while listing out all the properties of the spade instead of using a mental image. Concrete is less cognitively demanding. There is very little creativity when listing properties, they're just facts.
+Look at a Spade while listing out all the Attributes of the spade instead of using a mental image. Concrete is less cognitively demanding. There is very little creativity when listing Attributes, they're just facts.
 
 ### TagSpaces
 
@@ -190,23 +190,23 @@ Just get as much information out of your head and into data structures, so that 
 
 Put(Plant) is a language
 
-Plantbeta a beta script. Put(Plant) creates the properties of HandMove, like how many fingers you have. Beta can't change the number of fingers. A Hand is part of Put(Plant), a hand is controlled with Beta
+Plantbeta a beta script. Put(Plant) creates the Attributes of HandMove, like how many fingers you have. Beta can't change the number of fingers. A Hand is part of Put(Plant), a hand is controlled with Beta
 
 - Beta is only during runtime
 
 - To put it simply, coding lets you create a program, while scripting lets you control a program that was created with coding
 
-EcoElement
+EcoFactor
 
-ViaElement
+ViaSkill
 
-MotoElement
+MotoSkill
 
-NeuroElement
+NeuroSkill
 
 All Elements are objects
 
-Objects have methods to solve problems and properties with theoretical value
+Objects have methods to solve problems and Attributes with theoretical value
 
 a data construct that provides a description of something that may be used by a computer (such as a processor, a peripheral, a document, or a data set) and defines its status, its method of operation, and how it interacts with other objects.
 

@@ -28,7 +28,7 @@ Answer 2
 Answer 3
 :::
 
-## Element Properties
+## Element Attributes
 
 ### Element Size
 
@@ -52,13 +52,13 @@ Select:
     src="https://observablehq.com/embed/@d3/force-directed-graph/2?cells=chart"
 ></iframe>
 
-## Related <eco>EcoElements</eco>🟩
+## Related <eco>EcoFactors</eco>🟩
 
-## Related <moto>MotoElements</moto>
+## Related <moto>MotoSkills</moto>
 
-## Related <via>ViaElements</via>
+## Related <via>ViaSkills</via>
 
-## Related 💜<neuro>NeuroElements</neuro>
+## Related 💜<neuro>NeuroSkills</neuro>
 
 ## Quotes
 
@@ -72,7 +72,7 @@ Quotes about this Element
 
 ## See also:
 
-Links to other related EcoElements. Related because they are the same EcoType or because they are performed at the same time or within the same Phrase.
+Links to other related EcoFactors. Related because they are the same EcoType or because they are performed at the same time or within the same Phrase.
 ::: details External References
 
 - One

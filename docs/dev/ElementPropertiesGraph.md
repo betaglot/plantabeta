@@ -98,7 +98,7 @@ Removes Value Addition // [!code --]
 
 ### Outcome > Output
 
-False value is a bunch of features that Planters don't use. The value of a stump is not its color (HexadecimalValue, RGB values), rather value comes from the stump's PotentialMicrosites. The ViaElement(PotentialMicrosite, FlagSite) gives the EcoElement(Stump) value
+False value is a bunch of features that Planters don't use. The value of a stump is not its color (HexadecimalValue, RGB values), rather value comes from the stump's PotentialMicrosites. The ViaSkill(PotentialMicrosite, FlagSite) gives the EcoFactor(Stump) value
 
 Theorem the name of an object, while Problem is the object's values and methods.
 
@@ -108,7 +108,7 @@ The value exchange of woven fiber neighbors is the tension force holding each ot
 
 Subsystems give each other value.
 
-The ViaElement(GoodMicrosite, FlagSite) gives the EcoElement(Stump) value. The stump gives Via value by providing PotentialMicrosite.
+The ViaSkill(GoodMicrosite, FlagSite) gives the EcoFactor(Stump) value. The stump gives Via value by providing PotentialMicrosite.
 
 The exchange doesn't need to be mutually beneficial. Both ValueAddition or (ValueAddition + ValueSubtraction).
 
@@ -125,9 +125,9 @@ Value is added along a Phrase of steps. Like Bioamplification of poison in Preda
 
 ---
 
-### MotoElementValue
+### MotoSkillValue
 
-::: tip MotoElementValue Addition
+::: tip MotoSkillValue Addition
 
 ---
 
@@ -175,7 +175,7 @@ Value is added along a Phrase of steps. Like Bioamplification of poison in Preda
 
 #### Moto SensoryAppeal
 
-- Not listening to music with headphones, so you can hear the properties of the soil.
+- Not listening to music with headphones, so you can hear the Attributes of the soil.
 
 #### Moto Informs
 
@@ -188,7 +188,7 @@ Value is added along a Phrase of steps. Like Bioamplification of poison in Preda
 
 :::
 
-::: danger MotoElementValue Subtraction
+::: danger MotoSkillValue Subtraction
 
 ---
 
@@ -258,9 +258,9 @@ MotoSelection.MotoEvaluation
 
 ---
 
-### ViaElementValue
+### ViaSkillValue
 
-::: tip ViaElementValue Addition
+::: tip ViaSkillValue Addition
 
 ---
 
@@ -300,7 +300,7 @@ MotoSelection.MotoEvaluation
 
 :::
 
-::: danger ViaElementValue Subtraction
+::: danger ViaSkillValue Subtraction
 
 ---
 
@@ -334,9 +334,9 @@ MotoSelection.MotoEvaluation
 
 ---
 
-### EcoElementValue
+### EcoFactorValue
 
-::: tip EcoElementValue Addition
+::: tip EcoFactorValue Addition
 
 ---
 
@@ -374,7 +374,7 @@ MotoSelection.MotoEvaluation
 
 :::
 
-::: danger EcoElementValue Subtraction
+::: danger EcoFactorValue Subtraction
 
 ---
 
@@ -408,9 +408,9 @@ MotoSelection.MotoEvaluation
 
 ---
 
-### NeuroElementValue
+### NeuroSkillValue
 
-::: tip NeuroElementValue Addition
+::: tip NeuroSkillValue Addition
 
 ---
 
@@ -442,7 +442,7 @@ MotoSelection.MotoEvaluation
 
 :::
 
-::: danger NeuroElementValue Subtraction
+::: danger NeuroSkillValue Subtraction
 
 ---
 
@@ -496,7 +496,7 @@ Value is added along the chain of steps. PlantingPhrase
 
 MicrositeValidation Threshold MinimumValue
 
-- SoilProperties
+- SoilAttributes
 - ObstacleCover
 -
 

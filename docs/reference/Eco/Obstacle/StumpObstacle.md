@@ -18,7 +18,7 @@ Answer 2
 Answer 3
 :::
 
-## StumpObstacle Properties
+## StumpObstacle Attributes
 
 [InsertDiagram] Labelled Stump; Green background  
 
@@ -36,7 +36,7 @@ Graph which represents how this element is related to other elements in Put(Plan
     src="https://observablehq.com/embed/@d3/force-directed-graph/2?cells=chart"
 ></iframe>
 
-## Related 🟩<eco>EcoElements</eco>  🟩
+## Related 🟩<eco>EcoFactors</eco>  🟩
 
 ### 🟩 Microsite
 
@@ -50,7 +50,7 @@ Graph which represents how this element is related to other elements in Put(Plan
 
 - block snow from crushing the seedling
 
-## Related <moto>MotoElements</moto>
+## Related <moto>MotoSkills</moto>
 
 ### 🟠SpadePryScreef
 
@@ -66,7 +66,7 @@ Graph which represents how this element is related to other elements in Put(Plan
 
 🔻🟠🟩💜🔷
 
-## Related <via>ViaElements</via>
+## Related <via>ViaSkills</via>
 
 ### 🔻ObstacleCover
 
@@ -98,7 +98,7 @@ Graph which represents how this element is related to other elements in Put(Plan
 
 -
 
-## Related 💜<neuro>NeuroElements</neuro>
+## Related 💜<neuro>NeuroSkills</neuro>
 
 ### 💜Orientation
 
@@ -118,7 +118,7 @@ Quotes about this Element
 
 ## See also
 
-Links to other related EcoElements. Related because they are the same EcoType or because they are performed at the same time or within the same Phrase.
+Links to other related EcoFactors. Related because they are the same EcoType or because they are performed at the same time or within the same Phrase.
 ::: details External References
 
 1. Wikipedia

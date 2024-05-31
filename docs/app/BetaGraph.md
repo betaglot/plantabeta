@@ -1,12 +1,12 @@
 # <beta>BetaSetGraph</beta>
 
-(BetaGraph != ElementPropertiesGraph)
+(BetaGraph != ElementAttributesGraph)
 
 A BetaGraph for a BetaBlock
 
 All modules are interdependent
 
-All ViaElement have Neuro property dependencies
+All ViaSkill have Neuro property dependencies
 
 Each BetaInstance is different. The Beta that a user is experiencing changes each BetaInstance.
 

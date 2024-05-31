@@ -48,7 +48,7 @@
 
 -
 
-## Element Properties
+## Element Attributes
 
 -
 
@@ -61,19 +61,19 @@
     src="https://observablehq.com/embed/@d3/force-directed-graph/2?cells=chart"
 ></iframe>
 
-## Related <moto>MotoElements</moto>
+## Related <moto>MotoSkills</moto>
 
 - After work
 
-## Related 🟩<eco>EcoElements</eco>
+## Related 🟩<eco>EcoFactors</eco>
 
 - Bumpy road
 
-## Related 🔻<via>ViaElements</via>
+## Related 🔻<via>ViaSkills</via>
 
 -
 
-## Related 💜<neuro>NeuroElements</neuro>
+## Related 💜<neuro>NeuroSkills</neuro>
 
 - Fatigue
 - Meditation

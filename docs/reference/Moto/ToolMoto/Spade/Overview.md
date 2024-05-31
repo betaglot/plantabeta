@@ -7,7 +7,7 @@
 
 ## Spade Anatomy
 
-## Spade Properties
+## Spade Attributes
 
 ::: details 🛠 <dev>&&&</dev>
 

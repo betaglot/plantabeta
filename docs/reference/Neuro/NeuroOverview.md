@@ -35,16 +35,16 @@ Short for Neuroscience
 
 :::
 
-## Neuro Elements
+## Neuro Skills
 
-Neuro Elements are prefixed by a 💜 violet heart icon
+Neuro Skills are prefixed by a 💜 violet heart icon
 
 ```py
 💜
 ```
 
 - NeuroObjects
-- NeuroProperties
+- NeuroAttributes
 - NeuroMethods
 
 ### Huberman Lab Podcast

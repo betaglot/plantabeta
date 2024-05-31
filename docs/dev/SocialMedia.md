@@ -18,7 +18,7 @@ Social Media is dangerous for mental health.
 
 3. BetaDiagram
 
-Hide properties, show diagram. Graphic instead of text
+Hide Attributes, show diagram. Graphic instead of text
 
 ## TikTok
 

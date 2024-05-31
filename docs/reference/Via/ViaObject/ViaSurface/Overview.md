@@ -5,7 +5,7 @@
 
 ## Surface Form
 
-## Surface Properties
+## Surface Attributes
 
 WetSurface
 
@@ -38,11 +38,11 @@ SmoothSurface
 - "Via.ViaGeometry.ViaSurface.ViaHiddenSurface"
 - "Via.ViaGeometry.ViaSurface.ViaSurfaceDensity"
 - "Via.ViaGeometry.ViaSurface.ViaSurfaceLine"
-- "Via.ViaGeometry.ViaSurface.ViaSurfaceProperties.ViaSurfaceSize"
-- "Via.ViaGeometry.ViaSurface.ViaSurfaceProperties.ViaSurfaceTexture"
+- "Via.ViaGeometry.ViaSurface.ViaSurfaceAttributes.ViaSurfaceSize"
+- "Via.ViaGeometry.ViaSurface.ViaSurfaceAttributes.ViaSurfaceTexture"
 - "Via.ViaGeometry.ViaSurface.ViaSurfaceShape"
 
-Via/ViaSurface/Overview.md, <dev>Via.ViaGeometry.ViaSurface.ViaSurfaceProperties.ViaSurfaceSize</dev>, ![0458.jpg](/PaperPhoto/0458.jpg)
+Via/ViaSurface/Overview.md, <dev>Via.ViaGeometry.ViaSurface.ViaSurfaceAttributes.ViaSurfaceSize</dev>, ![0458.jpg](/PaperPhoto/0458.jpg)
 Via/ViaSurface/Overview.md, <dev>Via.ViaGeometry.ViaSurface.ViaSurfaceLine</dev>, ![0826.jpg](/PaperPhoto/0826.jpg)
 Via/ViaSurface/Overview.md, <dev>Via.ViaGeometry.ViaSurface.ViaSurfaceLine</dev>, ![1112.jpg](/PaperPhoto/1112.jpg)
 Via/ViaSurface/Overview.md, <dev>Via.ViaGeometry.ViaSurface.ViaSurfaceLine</dev>, ![1409.jpg](/PaperPhoto/1409.jpg)

@@ -20,7 +20,7 @@ FlagRip
 
 - FlagCount
 
-## FlagProperties
+## FlagAttributes
 
 - FlagColor
 - FlagLength

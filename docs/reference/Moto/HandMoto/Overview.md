@@ -3,7 +3,7 @@
 
 ## Hand Anatomy
 
-## Hand Properties
+## Hand Attributes
 
 ::: details 🛠 <dev>&&&</dev>
 

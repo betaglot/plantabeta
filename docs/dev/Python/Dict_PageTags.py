@@ -138,7 +138,7 @@ PageTags = {
 "Moto/HoleMoto/HoleClose.md": [],
 "Moto/HoleMoto/HoleExpand.md": [],
 "Moto/HoleMoto/HoleOpen.md": [],
-"Moto/HoleMoto/HoleProperties.md": [],
+"Moto/HoleMoto/HoleAttributes.md": [],
 "Moto/HoleMoto/HolePhrase.md": [],
 "Moto/HoleMoto/Overview.md": [],
 "Moto/Kinesiology/Overview.md": [],

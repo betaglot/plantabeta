@@ -26,7 +26,7 @@ Answer 2
 Answer 3
 :::
 
-## Element Properties
+## Element Attributes
 
 -
 
@@ -39,19 +39,19 @@ Answer 3
     src="https://observablehq.com/embed/@d3/force-directed-graph/2?cells=chart"
 ></iframe>
 
-## Related 💜<neuro>NeuroElements</neuro>
+## Related 💜<neuro>NeuroSkills</neuro>
 
-## Related 🟠<moto>MotoElements</moto>
+## Related 🟠<moto>MotoSkills</moto>
 
 -
 
-## Related 🟩<eco>EcoElements</eco>
+## Related 🟩<eco>EcoFactors</eco>
 
-- Description of how this <neuro>NeuroElement </neuro>relates to a particular [EcoElement](/reference/Eco/EcoOverview).
-- Description of how this <neuro>NeuroElement </neuro>relates to a particular [EcoElement](/reference/Eco/EcoOverview).
-- Description of how this <neuro>NeuroElement </neuro>relates to a particular [EcoElement](/reference/Eco/EcoOverview).
+- Description of how this <neuro>NeuroSkill </neuro>relates to a particular [EcoFactor](/reference/Eco/EcoOverview).
+- Description of how this <neuro>NeuroSkill </neuro>relates to a particular [EcoFactor](/reference/Eco/EcoOverview).
+- Description of how this <neuro>NeuroSkill </neuro>relates to a particular [EcoFactor](/reference/Eco/EcoOverview).
 
-## Related 🔻<via>ViaElements</via>
+## Related 🔻<via>ViaSkills</via>
 
 -
 
@@ -61,7 +61,7 @@ Answer 3
 
 ## See also:
 
-Links to other related NeuroElements.
+Links to other related NeuroSkills.
 
 ::: details External References
 

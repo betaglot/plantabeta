@@ -1,17 +1,17 @@
 
 # Reference Overview
 
-> This reference section provides you with details about the functions, modules, and objects included in Put(Plant), describing their properties and usage.
+> This reference section provides you with details about the functions, modules, and objects included in Put(Plant), describing their Attributes and usage.
 
 ## [<beta>**🔷____Beta____**</beta>![Beta](/Beta/Beta_Icon.png)](/reference/Beta/WhatBeta)
 
-## [<eco>**🟩____Eco Factor____**</eco>![Eco](/Eco/Eco_Icon.png)](/reference/Eco/EcoOverview)
+## [<eco>**🟩____Eco Factors____**</eco>![Eco](/Eco/Eco_Icon.png)](/reference/Eco/EcoOverview)
 
-## [<moto>**🟠____Moto Factor____**</moto>![Moto](/Moto/Moto_Icon.png)](/reference/Moto/MotoOverview)
+## [<moto>**🟠____Moto Skills____**</moto>![Moto](/Moto/Moto_Icon.png)](/reference/Moto/MotoOverview)
 
-## [<via>**🔻____Via Factor____**</via>![Via](/Via/Via_Icon.png)](/reference/Via/ViaOverview)
+## [<via>**🔻____Via Skills____**</via>![Via](/Via/Via_Icon.png)](/reference/Via/ViaOverview)
 
-## [<neuro>**💜____Neuro Factor____**</neuro>![Neuro](/Neuro/Neuro_Icon.png)](/reference/Neuro/NeuroOverview)
+## [<neuro>**💜____Neuro Skills____**</neuro>![Neuro](/Neuro/Neuro_Icon.png)](/reference/Neuro/NeuroOverview)
 
 ## [Glossary](/reference/glossary/Glossary)
 

@@ -152,7 +152,7 @@
         "name": "0030.jpg",
         "tags": [
             {
-                "title": "Move.MoveProperties.MoveRangeOfMotion"
+                "title": "Move.MoveAttributes.MoveRangeOfMotion"
             },
             {
                 "title": "Put(Plant)"
@@ -1248,10 +1248,10 @@
                 "title": "Dev.VideoAnalysis.VideoTagging"
             },
             {
-                "title": "Move.MoveProperties.MoveShape.Overview"
+                "title": "Move.MoveAttributes.MoveShape.Overview"
             },
             {
-                "title": "Move.MoveProperties.MoveType.TwistMove"
+                "title": "Move.MoveAttributes.MoveType.TwistMove"
             },
             {
                 "title": "Put(Plant)"
@@ -1298,10 +1298,10 @@
                 "title": "Move.MoveDiagram.Stickfigure"
             },
             {
-                "title": "Move.MoveProperties.MoveShape.SquareMove"
+                "title": "Move.MoveAttributes.MoveShape.SquareMove"
             },
             {
-                "title": "Move.MoveProperties.MoveShape.TriangleMove"
+                "title": "Move.MoveAttributes.MoveShape.TriangleMove"
             },
             {
                 "title": "Move.MovePhrase.MoveTempo"
@@ -1465,22 +1465,22 @@
                 "title": "Move.MoveDiagram.Stickfigure"
             },
             {
-                "title": "Move.MoveProperties.MoveShape.CircleMove"
+                "title": "Move.MoveAttributes.MoveShape.CircleMove"
             },
             {
-                "title": "Move.MoveProperties.MoveShape.MoveShapeCenter"
+                "title": "Move.MoveAttributes.MoveShape.MoveShapeCenter"
             },
             {
-                "title": "Move.MoveProperties.MoveShape.Overview"
+                "title": "Move.MoveAttributes.MoveShape.Overview"
             },
             {
-                "title": "Move.MoveProperties.MoveShape.SquareMove"
+                "title": "Move.MoveAttributes.MoveShape.SquareMove"
             },
             {
-                "title": "Move.MoveProperties.MoveShape.TriangleMove"
+                "title": "Move.MoveAttributes.MoveShape.TriangleMove"
             },
             {
-                "title": "Move.MoveProperties.MoveType.LockMove"
+                "title": "Move.MoveAttributes.MoveType.LockMove"
             },
             {
                 "title": "Move.MoveShape.SubmotoShape"
@@ -1495,7 +1495,7 @@
                 "title": "Via.ViaComposition.ViaSelection.AlternativeVia"
             },
             {
-                "title": "Via.ViaGeometry.ViaSurface.ViaSurfaceProperties.ViaSurfaceSize"
+                "title": "Via.ViaGeometry.ViaSurface.ViaSurfaceAttributes.ViaSurfaceSize"
             },
             {
                 "title": "TagTest"
@@ -1696,7 +1696,7 @@
                 "title": "Via.ViaGeometry.ViaCurve.Overview"
             },
             {
-                "title": "Via.ViaProperties.ViaTreeCount"
+                "title": "Via.ViaAttributes.ViaTreeCount"
             },
             {
                 "title": "TagTest"
@@ -1799,13 +1799,13 @@
                 "title": "Move.MoveLine.MoveDisplacementLine"
             },
             {
-                "title": "Move.MoveProperties.MoveRangeOfMotion"
+                "title": "Move.MoveAttributes.MoveRangeOfMotion"
             },
             {
-                "title": "Move.MoveProperties.MoveShape.MoveShapeCenter"
+                "title": "Move.MoveAttributes.MoveShape.MoveShapeCenter"
             },
             {
-                "title": "Move.MoveProperties.MoveShape.Overview"
+                "title": "Move.MoveAttributes.MoveShape.Overview"
             },
             {
                 "title": "Move.MovePhrase.MoveTempo"
@@ -1909,7 +1909,7 @@
                 "title": "Move.MoveDirection.RelativeDirection.Overview"
             },
             {
-                "title": "Move.MoveProperties.MoveDescription"
+                "title": "Move.MoveAttributes.MoveDescription"
             },
             {
                 "title": "Put(Plant)"
@@ -2041,7 +2041,7 @@
                 "title": "Move.MoveDirection.Overview"
             },
             {
-                "title": "Move.MoveProperties.MoveSize"
+                "title": "Move.MoveAttributes.MoveSize"
             },
             {
                 "title": "Move.MovePhrase.MoveOverlap"
@@ -2160,7 +2160,7 @@
                 "title": "Move.MoveComposition.MoveSelection.AlternativeMove"
             },
             {
-                "title": "Move.MoveProperties.MoveShape.Overview"
+                "title": "Move.MoveAttributes.MoveShape.Overview"
             },
             {
                 "title": "Move.MovePhrase.MovePhraseArea"
@@ -2175,7 +2175,7 @@
                 "title": "Via.ViaCard"
             },
             {
-                "title": "Via.ViaProperties.ViaPermutation"
+                "title": "Via.ViaAttributes.ViaPermutation"
             },
             {
                 "title": "Via.ViaSequence.ViaSequenceVariation"
@@ -2363,7 +2363,7 @@
                 "title": "Move.MoveDiagram.Stickfigure"
             },
             {
-                "title": "Move.MoveProperties.MoveShape.Overview"
+                "title": "Move.MoveAttributes.MoveShape.Overview"
             },
             {
                 "title": "Move.MovePhrase.TransitionMove"
@@ -2438,13 +2438,13 @@
                 "title": "Guide.Why.Productivity.Efficiency"
             },
             {
-                "title": "Move.MoveProperties.MoveShape.CircleMove"
+                "title": "Move.MoveAttributes.MoveShape.CircleMove"
             },
             {
-                "title": "Move.MoveProperties.MoveWeightDistribution"
+                "title": "Move.MoveAttributes.MoveWeightDistribution"
             },
             {
-                "title": "Move.MoveProperties.SubmotoCount"
+                "title": "Move.MoveAttributes.SubmotoCount"
             },
             {
                 "title": "Move.MovePhrase.MoveDensity"
@@ -2956,10 +2956,10 @@
                 "title": "Move.LegMove.LegAbsorb"
             },
             {
-                "title": "Move.MoveProperties.MoveForce"
+                "title": "Move.MoveAttributes.MoveForce"
             },
             {
-                "title": "Move.MoveProperties.MoveType.AbsorbMove"
+                "title": "Move.MoveAttributes.MoveType.AbsorbMove"
             },
             {
                 "title": "Move.Physics.CenterOfMass"
@@ -2995,10 +2995,10 @@
                 "title": "Dev.System.Definitions"
             },
             {
-                "title": "Move.MoveProperties.MoveShape.CircleMove"
+                "title": "Move.MoveAttributes.MoveShape.CircleMove"
             },
             {
-                "title": "Move.MoveProperties.MoveSize"
+                "title": "Move.MoveAttributes.MoveSize"
             },
             {
                 "title": "Put(Plant)"
@@ -3018,10 +3018,10 @@
         "name": "1017.jpg",
         "tags": [
             {
-                "title": "Move.MoveProperties.MoveShape.CircleMove"
+                "title": "Move.MoveAttributes.MoveShape.CircleMove"
             },
             {
-                "title": "Move.MoveProperties.MoveShape.SquareMove"
+                "title": "Move.MoveAttributes.MoveShape.SquareMove"
             },
             {
                 "title": "Put(Plant)"
@@ -3083,10 +3083,10 @@
                 "title": "Move.LegMove.LegRockOver"
             },
             {
-                "title": "Move.MoveProperties.MoveShape.CircleMove"
+                "title": "Move.MoveAttributes.MoveShape.CircleMove"
             },
             {
-                "title": "Move.MoveProperties.MoveType.CircumductionMove"
+                "title": "Move.MoveAttributes.MoveType.CircumductionMove"
             },
             {
                 "title": "Move.Physics.Tangent"
@@ -3130,10 +3130,10 @@
                 "title": "Move.MoveDirection.RelativeDirection.Around"
             },
             {
-                "title": "Move.MoveProperties.MoveShape.CircleMove"
+                "title": "Move.MoveAttributes.MoveShape.CircleMove"
             },
             {
-                "title": "Move.MoveProperties.MoveShape.Overview"
+                "title": "Move.MoveAttributes.MoveShape.Overview"
             },
             {
                 "title": "Move.MovePhrase.MoveOverlap"
@@ -3192,10 +3192,10 @@
                 "title": "Dev.System.Definitions"
             },
             {
-                "title": "Move.MoveProperties.MoveShape.CircleMove"
+                "title": "Move.MoveAttributes.MoveShape.CircleMove"
             },
             {
-                "title": "Move.MoveProperties.MoveType.CircumductionMove"
+                "title": "Move.MoveAttributes.MoveType.CircumductionMove"
             },
             {
                 "title": "Move.MovePhrase.MoveShapePhrase.MoveShapeOverlap"
@@ -3242,7 +3242,7 @@
                 "title": "Move.MovePoint.Overview"
             },
             {
-                "title": "Move.MoveProperties.MoveShape.CircleMove"
+                "title": "Move.MoveAttributes.MoveShape.CircleMove"
             },
             {
                 "title": "Put(Plant)"
@@ -3277,7 +3277,7 @@
                 "title": "Move.BodyMove.Overview"
             },
             {
-                "title": "Move.MoveProperties.MoveShape.Overview"
+                "title": "Move.MoveAttributes.MoveShape.Overview"
             },
             {
                 "title": "Move.MoveSpace.Overview"
@@ -3354,10 +3354,10 @@
                 "title": "Move.MoveDirection.RelativeDirection.PerpendicularTo"
             },
             {
-                "title": "Move.MoveProperties.MoveRangeOfMotion"
+                "title": "Move.MoveAttributes.MoveRangeOfMotion"
             },
             {
-                "title": "Move.MoveProperties.MoveShape.CircleMove"
+                "title": "Move.MoveAttributes.MoveShape.CircleMove"
             },
             {
                 "title": "Move.Physics.CenterOfMass"
@@ -3420,10 +3420,10 @@
                 "title": "Move.MovePoint.Overview"
             },
             {
-                "title": "Move.MoveProperties.MoveType.ReleaseMove"
+                "title": "Move.MoveAttributes.MoveType.ReleaseMove"
             },
             {
-                "title": "Move.MoveProperties.MoveType.RotationMove"
+                "title": "Move.MoveAttributes.MoveType.RotationMove"
             },
             {
                 "title": "Move.Physics.CenterOfMass"
@@ -3566,10 +3566,10 @@
                 "title": "Move.LegMove.LegLock"
             },
             {
-                "title": "Move.MoveProperties.MoveType.FlexionMove"
+                "title": "Move.MoveAttributes.MoveType.FlexionMove"
             },
             {
-                "title": "Move.MoveProperties.MoveType.LockMove"
+                "title": "Move.MoveAttributes.MoveType.LockMove"
             },
             {
                 "title": "Put(Plant)"
@@ -3616,7 +3616,7 @@
                 "title": "Move.MoveDirection.RelativeDirection.PerpendicularTo"
             },
             {
-                "title": "Move.MoveProperties.MoveShape.TriangleMove"
+                "title": "Move.MoveAttributes.MoveShape.TriangleMove"
             },
             {
                 "title": "Put(Plant)"
@@ -3751,13 +3751,13 @@
                 "title": "Move.MovePlane"
             },
             {
-                "title": "Move.MoveProperties.MoveRangeOfMotion"
+                "title": "Move.MoveAttributes.MoveRangeOfMotion"
             },
             {
-                "title": "Move.MoveProperties.MoveShape.CircleMove"
+                "title": "Move.MoveAttributes.MoveShape.CircleMove"
             },
             {
-                "title": "Move.MoveProperties.MoveType.SymmetricMove"
+                "title": "Move.MoveAttributes.MoveType.SymmetricMove"
             },
             {
                 "title": "Move.MoveSpace.Overview"
@@ -3786,13 +3786,13 @@
                 "title": "Dev.System.Definitions"
             },
             {
-                "title": "Move.MoveProperties.MoveShape.SquareMove"
+                "title": "Move.MoveAttributes.MoveShape.SquareMove"
             },
             {
-                "title": "Move.MoveProperties.MoveShape.TriangleMove"
+                "title": "Move.MoveAttributes.MoveShape.TriangleMove"
             },
             {
-                "title": "Move.MoveProperties.MoveType.CompressionMove"
+                "title": "Move.MoveAttributes.MoveType.CompressionMove"
             },
             {
                 "title": "Move.MovePhrase.TransitionMove"
@@ -3839,22 +3839,22 @@
                 "title": "Dev.LevelOfAbstraction"
             },
             {
-                "title": "Move.MoveProperties.MovePlane.Overview"
+                "title": "Move.MoveAttributes.MovePlane.Overview"
             },
             {
-                "title": "Move.MoveProperties.MovePlane.XYPlane"
+                "title": "Move.MoveAttributes.MovePlane.XYPlane"
             },
             {
-                "title": "Move.MoveProperties.MovePlane.XZPlane"
+                "title": "Move.MoveAttributes.MovePlane.XZPlane"
             },
             {
-                "title": "Move.MoveProperties.MovePlane.YZPlane"
+                "title": "Move.MoveAttributes.MovePlane.YZPlane"
             },
             {
-                "title": "Move.MoveProperties.MoveRangeOfMotion"
+                "title": "Move.MoveAttributes.MoveRangeOfMotion"
             },
             {
-                "title": "Move.MoveProperties.MoveShape.CircleMove"
+                "title": "Move.MoveAttributes.MoveShape.CircleMove"
             },
             {
                 "title": "Move.MoveSpace.Overview"
@@ -3896,13 +3896,13 @@
                 "title": "Move.MovePoint.MoveReflectionPoint"
             },
             {
-                "title": "Move.MoveProperties.MoveDependencies.DependentMove"
+                "title": "Move.MoveAttributes.MoveDependencies.DependentMove"
             },
             {
-                "title": "Move.MoveProperties.MoveRangeOfMotion"
+                "title": "Move.MoveAttributes.MoveRangeOfMotion"
             },
             {
-                "title": "Move.MoveProperties.MoveShape.CircleMove"
+                "title": "Move.MoveAttributes.MoveShape.CircleMove"
             },
             {
                 "title": "Neuro.Alignment.AlignmentRange",
@@ -3988,7 +3988,7 @@
                 "title": "Move.MoveDirection.RelativeDirection.ParallelTo"
             },
             {
-                "title": "Move.MoveProperties.MoveType.ExpansionMove"
+                "title": "Move.MoveAttributes.MoveType.ExpansionMove"
             },
             {
                 "title": "Move.Physics.Force.Friction.NormalForce"
@@ -4088,7 +4088,7 @@
                 "title": "Move.MoveDirection.RelativeDirection.PerpendicularTo"
             },
             {
-                "title": "Move.MoveProperties.MoveType.FlexionMove"
+                "title": "Move.MoveAttributes.MoveType.FlexionMove"
             },
             {
                 "title": "Move.Physics.Force.Friction.NormalForce"
@@ -4308,7 +4308,7 @@
                 "title": "Move.MovePlane"
             },
             {
-                "title": "Move.MoveProperties.MoveShape.CircleMove"
+                "title": "Move.MoveAttributes.MoveShape.CircleMove"
             },
             {
                 "title": "Move.MovePhrase.MoveLinePhrase"
@@ -4750,7 +4750,7 @@
                 "title": "Move.MoveLine"
             },
             {
-                "title": "Move.MoveProperties.MoveRangeOfMotion"
+                "title": "Move.MoveAttributes.MoveRangeOfMotion"
             },
             {
                 "title": "Move.ToolMove.SpadeMove.SpadeSwing"
@@ -5017,10 +5017,10 @@
                 "title": "Move.MoveComposition.MoveSelection"
             },
             {
-                "title": "Move.MoveProperties.MovePermutation"
+                "title": "Move.MoveAttributes.MovePermutation"
             },
             {
-                "title": "Move.MoveProperties.SubmotoCount"
+                "title": "Move.MoveAttributes.SubmotoCount"
             },
             {
                 "title": "Put(Plant)"
@@ -5029,7 +5029,7 @@
                 "title": "Via.ViaComposition.ViaSelection"
             },
             {
-                "title": "Via.ViaProperties.ViaPermutation"
+                "title": "Via.ViaAttributes.ViaPermutation"
             },
             {
                 "title": "TagTest"
@@ -5171,10 +5171,10 @@
                 "title": "Move.MovePhoto"
             },
             {
-                "title": "Move.MoveProperties.MoveType.Overview"
+                "title": "Move.MoveAttributes.MoveType.Overview"
             },
             {
-                "title": "Move.MoveProperties.Overview"
+                "title": "Move.MoveAttributes.Overview"
             },
             {
                 "title": "Move.MovePhrase"
@@ -5227,7 +5227,7 @@
                 "title": "Move.MoveDirection.Overview"
             },
             {
-                "title": "Move.MoveProperties.MoveState"
+                "title": "Move.MoveAttributes.MoveState"
             },
             {
                 "title": "Move.MovePhrase.MoveChunk.MovePhrase"
@@ -5294,7 +5294,7 @@
                 "title": "Move.ArmMove.ArmSwing"
             },
             {
-                "title": "Move.MoveProperties.SubmotoCount"
+                "title": "Move.MoveAttributes.SubmotoCount"
             },
             {
                 "title": "Put(Plant)"
@@ -5410,7 +5410,7 @@
                 "title": "Move.MoveComposition.MoveSelection.SubmotoSelection"
             },
             {
-                "title": "Move.MoveProperties.SubmotoCount"
+                "title": "Move.MoveAttributes.SubmotoCount"
             },
             {
                 "title": "Put(Plant)"
@@ -5448,7 +5448,7 @@
                 "title": "Move.MoveDiagram.MoveTimeline"
             },
             {
-                "title": "Move.MoveProperties.MoveType.CompressionMove"
+                "title": "Move.MoveAttributes.MoveType.CompressionMove"
             },
             {
                 "title": "Move.MovePhrase.SimultaneousMove"
@@ -5501,7 +5501,7 @@
                 "title": "Moto.MotoDifficulty.MoveComplexity"
             },
             {
-                "title": "Move.MoveProperties.SubmotoCount"
+                "title": "Move.MoveAttributes.SubmotoCount"
             },
             {
                 "title": "Move.MovePhrase.MoveDensity"
@@ -5542,7 +5542,7 @@
                 "title": "Dev.System.Syntax"
             },
             {
-                "title": "Move.MoveProperties.MoveType.CompressionMove"
+                "title": "Move.MoveAttributes.MoveType.CompressionMove"
             },
             {
                 "title": "Neuro.Logic.Deduction",
@@ -5630,7 +5630,7 @@
                 "title": "Move.MoveDiagram.Stickfigure"
             },
             {
-                "title": "Move.MoveProperties.MoveDegreesOfFreedom"
+                "title": "Move.MoveAttributes.MoveDegreesOfFreedom"
             },
             {
                 "title": "Move.PlanterDiagram"
@@ -5662,7 +5662,7 @@
                 "title": "Move.MoveCard"
             },
             {
-                "title": "Move.MoveProperties.MoveRangeOfMotion"
+                "title": "Move.MoveAttributes.MoveRangeOfMotion"
             },
             {
                 "title": "Move.MovePhrase.MoveChunk.MovePhrase"
@@ -5872,7 +5872,7 @@
                 "title": "Dev.LevelOfAbstraction.AbstractIdea"
             },
             {
-                "title": "Move.MoveProperties.MoveType.CompressionMove"
+                "title": "Move.MoveAttributes.MoveType.CompressionMove"
             },
             {
                 "title": "Neuro.Memory.Mnemonic",
@@ -5933,7 +5933,7 @@
                 "title": "Dev.RelationByAlignment"
             },
             {
-                "title": "Move.MoveProperties.MoveType.PullMove"
+                "title": "Move.MoveAttributes.MoveType.PullMove"
             },
             {
                 "title": "Neuro.Orientation",
@@ -6065,10 +6065,10 @@
                 "title": "Dev.Element.ElementDiagram.Labels.TextLabel.MoveLabel"
             },
             {
-                "title": "Move.MoveProperties.MoveType.CompressionMove"
+                "title": "Move.MoveAttributes.MoveType.CompressionMove"
             },
             {
-                "title": "Move.MoveProperties.MoveType.ExpansionMove"
+                "title": "Move.MoveAttributes.MoveType.ExpansionMove"
             },
             {
                 "title": "Move.MovePhrase.MoveOverlap"
@@ -6159,7 +6159,7 @@
                 "title": "Move.HandMove.HandSlot"
             },
             {
-                "title": "Move.MoveProperties.MoveType.SlotMove"
+                "title": "Move.MoveAttributes.MoveType.SlotMove"
             },
             {
                 "title": "Put(Plant)"
@@ -6455,7 +6455,7 @@
                 "title": "Dev.UX.EyePathway"
             },
             {
-                "title": "Move.MoveProperties.MoveType.CompressionMove"
+                "title": "Move.MoveAttributes.MoveType.CompressionMove"
             },
             {
                 "title": "Put(Plant)"
@@ -6860,7 +6860,7 @@
                 "title": "Move.MoveLine.MoveMirrorLine"
             },
             {
-                "title": "Move.MoveProperties.MoveType.SymmetricMove"
+                "title": "Move.MoveAttributes.MoveType.SymmetricMove"
             },
             {
                 "title": "Put(Plant)"
@@ -6966,10 +6966,10 @@
                 "title": "Move.LegMove.HighFoot"
             },
             {
-                "title": "Move.MoveProperties.MoveType.CompressionMove"
+                "title": "Move.MoveAttributes.MoveType.CompressionMove"
             },
             {
-                "title": "Move.MoveProperties.MoveType.ExpansionMove"
+                "title": "Move.MoveAttributes.MoveType.ExpansionMove"
             },
             {
                 "title": "Put(Plant)"
@@ -7249,7 +7249,7 @@
                 "title": "Via.ViaDifficulty.Overview"
             },
             {
-                "title": "Via.ViaProperties.Overview"
+                "title": "Via.ViaAttributes.Overview"
             },
             {
                 "title": "TagTest"
@@ -7446,7 +7446,7 @@
                 "title": "Moto.MotoDifficulty.MotoRisk"
             },
             {
-                "title": "Move.MoveProperties.MoveType.CompressionMove"
+                "title": "Move.MoveAttributes.MoveType.CompressionMove"
             },
             {
                 "title": "Move.MovePhrase"
@@ -7516,7 +7516,7 @@
                 "title": "Land.LandDiagram.Overview"
             },
             {
-                "title": "Land.LandProperties.Overview"
+                "title": "Land.LandAttributes.Overview"
             },
             {
                 "title": "Move.MoveDiagram.OrthographicDiagram"
@@ -7972,7 +7972,7 @@
                 "title": "Guide.What.WhatElement.ElementName.Affix"
             },
             {
-                "title": "Move.MoveProperties.MoveType.RestMove"
+                "title": "Move.MoveAttributes.MoveType.RestMove"
             },
             {
                 "title": "Move.MovePhrase.MoveTempo"
@@ -8122,7 +8122,7 @@
                 "title": "Via.ViaDiagram.Overview"
             },
             {
-                "title": "Via.ViaProperties.Overview"
+                "title": "Via.ViaAttributes.Overview"
             },
             {
                 "title": "TagTest"
@@ -8189,7 +8189,7 @@
                 "title": "Move.MoveDiagram.Overview"
             },
             {
-                "title": "Move.MoveProperties.MoveType.ArchMove"
+                "title": "Move.MoveAttributes.MoveType.ArchMove"
             },
             {
                 "title": "Neuro.Learning.Feedback",
@@ -8253,7 +8253,7 @@
                 "title": "Moto.MotoDifficulty.MoveComplexity"
             },
             {
-                "title": "Move.MoveProperties.SubmotoCount"
+                "title": "Move.MoveAttributes.SubmotoCount"
             },
             {
                 "title": "Move.MoveSpace.Overview"
@@ -8429,7 +8429,7 @@
                 "title": "Guide.Why.LearningCurve"
             },
             {
-                "title": "Move.PlanterProperties.PlanterAbility"
+                "title": "Move.PlanterAttributes.PlanterAbility"
             },
             {
                 "title": "Neuro.Learning.Overview",
@@ -8491,7 +8491,7 @@
                 "title": "Move.HandMove.HandSmear"
             },
             {
-                "title": "Move.MoveProperties.MoveType.CompressionMove"
+                "title": "Move.MoveAttributes.MoveType.CompressionMove"
             },
             {
                 "title": "Put(Plant)"
@@ -8535,10 +8535,10 @@
                 "title": "Move.MovePoint.Deadpoint"
             },
             {
-                "title": "Move.MoveProperties.MoveType.CompressionMove"
+                "title": "Move.MoveAttributes.MoveType.CompressionMove"
             },
             {
-                "title": "Move.MoveProperties.MoveType.ExpansionMove"
+                "title": "Move.MoveAttributes.MoveType.ExpansionMove"
             },
             {
                 "title": "Move.MovePhrase.MoveRhythm"
@@ -8565,10 +8565,10 @@
                 "title": "Dev.Transcription"
             },
             {
-                "title": "Move.MoveProperties.MoveDuration"
+                "title": "Move.MoveAttributes.MoveDuration"
             },
             {
-                "title": "Move.MoveProperties.MoveType.ReleaseMove"
+                "title": "Move.MoveAttributes.MoveType.ReleaseMove"
             },
             {
                 "title": "Move.MovePhrase.MoveRhythm"
@@ -8647,7 +8647,7 @@
                 "title": "Move.HandMove.HandSwap"
             },
             {
-                "title": "Move.MoveProperties.MoveDuration"
+                "title": "Move.MoveAttributes.MoveDuration"
             },
             {
                 "title": "Move.MovePhrase.SimultaneousMove"
@@ -8676,7 +8676,7 @@
                 "title": "Move.MoveDiagram.MoveTimeline"
             },
             {
-                "title": "Move.MoveProperties.MoveDuration"
+                "title": "Move.MoveAttributes.MoveDuration"
             },
             {
                 "title": "Move.MovePhrase"
@@ -8705,7 +8705,7 @@
                 "title": "Dev.Interdisciplinary.Music.Rhythm"
             },
             {
-                "title": "Move.MoveProperties.MoveType.RestMove"
+                "title": "Move.MoveAttributes.MoveType.RestMove"
             },
             {
                 "title": "Move.MovePhrase.MoveDensity"
@@ -8746,7 +8746,7 @@
                 "title": "Dev.LevelOfAbstraction"
             },
             {
-                "title": "Move.PlanterProperties.PlanterSize"
+                "title": "Move.PlanterAttributes.PlanterSize"
             },
             {
                 "title": "Put(Plant)"
@@ -8852,7 +8852,7 @@
                 "title": "Dev.Element.ElementPage"
             },
             {
-                "title": "Dev.Element.ElementProperties"
+                "title": "Dev.Element.ElementAttributes"
             },
             {
                 "title": "BetaGraph"
@@ -8934,13 +8934,13 @@
                 "title": "Move.MoveComposition.MoveSelection"
             },
             {
-                "title": "Move.MoveProperties.MoveDependencies.DependentMove"
+                "title": "Move.MoveAttributes.MoveDependencies.DependentMove"
             },
             {
-                "title": "Move.MoveProperties.MoveDependencies.IndependentMove"
+                "title": "Move.MoveAttributes.MoveDependencies.IndependentMove"
             },
             {
-                "title": "Move.MoveProperties.MoveDependencies.Overview"
+                "title": "Move.MoveAttributes.MoveDependencies.Overview"
             },
             {
                 "title": "Move.MovePhrase.AnteMove"
@@ -9187,7 +9187,7 @@
                 "title": "Move.MoveName.Overview"
             },
             {
-                "title": "Move.MoveProperties.MoveType"
+                "title": "Move.MoveAttributes.MoveType"
             },
             {
                 "title": "Move.MoveType"
@@ -11749,7 +11749,7 @@
                 "title": "Moto.MotoDifficulty.MoveComplexity"
             },
             {
-                "title": "Move.MoveProperties.MovePermutation"
+                "title": "Move.MoveAttributes.MovePermutation"
             },
             {
                 "title": "Move.MovePhrase.AnteMove"
@@ -13098,7 +13098,7 @@
                 "title": "Move.MoveName.Overview"
             },
             {
-                "title": "Move.MoveProperties.Overview"
+                "title": "Move.MoveAttributes.Overview"
             },
             {
                 "title": "Put(Plant)"
@@ -14112,7 +14112,7 @@
                 "title": "Dev.Carousel"
             },
             {
-                "title": "Dev.Element.ElementProperties"
+                "title": "Dev.Element.ElementAttributes"
             },
             {
                 "title": "BetaGraph"
@@ -14588,7 +14588,7 @@
                 "title": "Beta.BetaCard"
             },
             {
-                "title": "Dev.Element.ElementProperties"
+                "title": "Dev.Element.ElementAttributes"
             },
             {
                 "title": "Dev.Interdisciplinary.WebDev"
@@ -19868,10 +19868,10 @@
         "name": "90044.jpg",
         "tags": [
             {
-                "title": "Move.MoveProperties.MovePermutation"
+                "title": "Move.MoveAttributes.MovePermutation"
             },
             {
-                "title": "Via.ViaProperties.ViaPermutation"
+                "title": "Via.ViaAttributes.ViaPermutation"
             },
             {
                 "title": "Dev.Element.ElementDiagram.Line.ProducedLine"
@@ -20162,13 +20162,13 @@
                 "title": "Move.MoveShape"
             },
             {
-                "title": "Move.MoveProperties.MoveShape.TriangleMove"
+                "title": "Move.MoveAttributes.MoveShape.TriangleMove"
             },
             {
-                "title": "Move.MoveProperties.MoveShape.SquareMove"
+                "title": "Move.MoveAttributes.MoveShape.SquareMove"
             },
             {
-                "title": "Move.MoveProperties.MoveShape.CircleMove"
+                "title": "Move.MoveAttributes.MoveShape.CircleMove"
             },
             {
                 "title": "Via.AreaCover.PenroseCover"
@@ -20438,7 +20438,7 @@
         "name": "90059.png",
         "tags": [
             {
-                "title": "Beta.BetaProperties.SubsystemCount"
+                "title": "Beta.BetaAttributes.SubsystemCount"
             },
             {
                 "title": "BetaGraph.ColorCode"
@@ -22250,7 +22250,7 @@
                 "title": "Move.ArmMove.ArmExtension"
             },
             {
-                "title": "Move.MoveProperties.MoveType.PushMove"
+                "title": "Move.MoveAttributes.MoveType.PushMove"
             },
             {
                 "title": "Move.ToolMove.BundleMove.BundleRoll"

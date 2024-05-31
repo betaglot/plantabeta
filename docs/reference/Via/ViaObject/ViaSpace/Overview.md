@@ -20,7 +20,7 @@ ViaStartSpace is relative to ViaTotal
 
 ## ViaFinishSpace
 
-## Via Space Properties
+## Via Space Attributes
 
 Space Form
 

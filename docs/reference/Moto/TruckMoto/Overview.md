@@ -3,7 +3,7 @@
 
 ## Truck Anatomy
 
-## Truck Properties
+## Truck Attributes
 
 ::: details 🛠 <dev>&&&</dev>
 

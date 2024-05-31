@@ -64,13 +64,13 @@ This each line are analog pairs. The equal signs = denotes where Climbing and Pl
 
 Based on Euclid's Elements
 
-### <moto>MotoElement</moto>
+### <moto>MotoSkill</moto>
 
-### <eco>EcoElement</eco>
+### <eco>EcoFactor</eco>
 
-### <via>ViaElement</via>
+### <via>ViaSkill</via>
 
-### <neuro>NeuroElement</neuro>
+### <neuro>NeuroSkill</neuro>
 
 ## <beta>What is a BetaInstance?</beta>
 
@@ -161,11 +161,11 @@ Beta can be a description or an instruction
 - "Beta.BetaInstance"
 - "Beta.BetaInstance.BetaInstanceComparison"
 - "Beta.BetaName"
-- "Beta.BetaProperties.BetaAccuracy"
-- "Beta.BetaProperties.BetaPrecision"
-- "Beta.BetaProperties.BetaType"
-- "Beta.BetaProperties.ElementCount"
-- "Beta.BetaProperties.SubsystemCount"
+- "Beta.BetaAttributes.BetaAccuracy"
+- "Beta.BetaAttributes.BetaPrecision"
+- "Beta.BetaAttributes.BetaType"
+- "Beta.BetaAttributes.ElementCount"
+- "Beta.BetaAttributes.SubsystemCount"
 - "Beta.BetaQuestion"
 - "Beta.Overview"
 
@@ -179,7 +179,7 @@ Via Theorem, Via Solution
 
 Via just gives the options, Beta is required to Solve, since solution requires Moto. Beta occurs when more than module is required in 1stPersonPoint of view. Planter's perspective.
 
-Neuro that just thinks about NeuroElements
+Neuro that just thinks about NeuroSkills
 
 Beta/WhatBeta.md, <dev>Beta.BetaInstance</dev>, ![1043.jpg](/PaperPhoto/1043.jpg)
 Beta/WhatBeta.md, <dev>Beta.BetaInstance</dev>, ![1318.jpg](/PaperPhoto/1318.jpg)
@@ -197,7 +197,7 @@ Beta/WhatBeta.md, <dev>Beta.Overview</dev>, ![2957.jpg](/PaperPhoto/2957.jpg)
 Beta/WhatBeta.md, <dev>Beta.Overview</dev>, ![2963.jpg](/PaperPhoto/2963.jpg)
 Beta/WhatBeta.md, <dev>Beta.Overview</dev>, ![2965.jpg](/PaperPhoto/2965.jpg)
 Beta/WhatBeta.md, <dev>Beta.Overview</dev>, ![2967.jpg](/PaperPhoto/2967.jpg)
-Beta/WhatBeta.md, <dev>Beta.BetaProperties.SubsystemCount</dev>, ![90059.png](/PaperPhoto/90059.png)
+Beta/WhatBeta.md, <dev>Beta.BetaAttributes.SubsystemCount</dev>, ![90059.png](/PaperPhoto/90059.png)
 Beta/WhatBeta.md, <dev>Beta.BetaInstance</dev>, ![90087.png](/PaperPhoto/90087.png)
 Beta/WhatBeta.md, <dev>Beta.BetaInstance.BetaInstanceComparison</dev>, ![90087.png](/PaperPhoto/90087.png)
 :::

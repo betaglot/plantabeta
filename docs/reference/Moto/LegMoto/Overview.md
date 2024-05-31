@@ -11,7 +11,7 @@
 - Ankle
 - Foot
 
-## Leg Properties
+## Leg Attributes
 
 - LegLength
 - LegStrength

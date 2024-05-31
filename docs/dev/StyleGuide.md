@@ -619,7 +619,7 @@ Syntax: `Moto.AnteMoto`
 
 ### Moto.Eco
 
-Where in Eco is this Moto performed and on what EcoElement. Put "the ground" if necessary. Nothing is too obvious in formal languages!
+Where in Eco is this Moto performed and on what EcoFactor. Put "the ground" if necessary. Nothing is too obvious in formal languages!
 
 ### Moto.Neuro
 

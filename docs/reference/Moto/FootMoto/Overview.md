@@ -7,7 +7,7 @@
 - Arch
 - Heel
 
-## Foot Properties
+## Foot Attributes
 
 - FootLength
 

@@ -39,7 +39,7 @@
 
 -
 
-## Element Properties
+## Element Attributes
 
 -
 
@@ -52,19 +52,19 @@
     src="https://observablehq.com/embed/@d3/force-directed-graph/2?cells=chart"
 ></iframe>
 
-## Related <moto>MotoElements</moto>
+## Related <moto>MotoSkills</moto>
 
 -
 
-## Related 🟩<eco>EcoElements</eco>
+## Related 🟩<eco>EcoFactors</eco>
 
 -
 
-## Related 🔻<via>ViaElements</via>
+## Related 🔻<via>ViaSkills</via>
 
 -
 
-## Related 💜<neuro>NeuroElements</neuro>
+## Related 💜<neuro>NeuroSkills</neuro>
 
 -  
 

@@ -3,7 +3,7 @@
 
 ## Hole Anatomy
 
-## Hole Properties
+## Hole Attributes
 
 ::: details 🛠 <dev>&&&</dev>
 

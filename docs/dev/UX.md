@@ -70,7 +70,7 @@ Reference isn't used as much as tutorials
 
 What's the difference between Guide and Tutorial?
 
-In the guide you learn what a `list` is while in the ref you can see all the list methods and properties.
+In the guide you learn what a `list` is while in the ref you can see all the list methods and Attributes.
 
 Ref has less pedagogy than Tutorial or Guide.
 

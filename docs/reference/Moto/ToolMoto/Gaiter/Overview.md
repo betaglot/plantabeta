@@ -3,7 +3,7 @@
 
 ## Gaiter Anatomy
 
-## Gaiter Properties
+## Gaiter Attributes
 
 ::: details 🛠 <dev>&&&</dev>
 

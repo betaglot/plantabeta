@@ -14,7 +14,7 @@ Flags are posted throughout the land.
 - FlagBody
 - FlagEnd
 
-## Flag Properties
+## Flag Attributes
 
 - FlagLength
 - FlagWidth

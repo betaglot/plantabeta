@@ -26,7 +26,7 @@ Answer 2
 Answer 3
 :::
 
-## Element Properties
+## Element Attributes
 
 -
 
@@ -42,17 +42,17 @@ Graph which represents how this element is related to other elements in Put(Plan
     src="https://observablehq.com/embed/@d3/force-directed-graph/2?cells=chart"
 ></iframe>
 
-## Related 💜<neuro>NeuroElements</neuro>
+## Related 💜<neuro>NeuroSkills</neuro>
 
-## Related 🟠<moto>MotoElements</moto>
-
--
-
-## Related 🟩<eco>EcoElements</eco>
+## Related 🟠<moto>MotoSkills</moto>
 
 -
 
-## Related 🔻<via>ViaElements</via>
+## Related 🟩<eco>EcoFactors</eco>
+
+-
+
+## Related 🔻<via>ViaSkills</via>
 
 -
 
@@ -62,7 +62,7 @@ Graph which represents how this element is related to other elements in Put(Plan
 
 ## See also:
 
-Links to other related NeuroElements.
+Links to other related NeuroSkills.
 ::: details External References
 
 - One

@@ -32,7 +32,7 @@ Answer 3
 
 -
 
-## Element Properties
+## Element Attributes
 
 -
 
@@ -45,13 +45,13 @@ Answer 3
     src="https://observablehq.com/embed/@d3/force-directed-graph/2?cells=chart"
 ></iframe>
 
-## Related 🟩<eco>EcoElements</eco>
+## Related 🟩<eco>EcoFactors</eco>
 
 -
 
-## Related 💜<neuro>NeuroElements</neuro>
+## Related 💜<neuro>NeuroSkills</neuro>
 
-## Related 🟠<moto>MotoElements</moto>
+## Related 🟠<moto>MotoSkills</moto>
 
 -
 
@@ -59,9 +59,9 @@ Answer 3
 
 - Use Media donated by Planters.
 
-## Related <via>ViaElements</via>
+## Related <via>ViaSkills</via>
 
-Links to other related ViaElements.
+Links to other related ViaSkills.
 ::: details External References
 
 - One

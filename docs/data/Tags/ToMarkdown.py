@@ -832,7 +832,7 @@ data = [
     {
         "PagePath": "Beta/WhatBeta.md",
         "PaperPhoto": "90059.png",
-        "TagName": "Beta.BetaProperties.SubsystemCount"
+        "TagName": "Beta.BetaAttributes.SubsystemCount"
     },
     {
         "PagePath": "Beta/WhatBeta.md",
@@ -2157,7 +2157,7 @@ data = [
     {
         "PagePath": "Moto/MotoOverview.md",
         "PaperPhoto": "0030.jpg",
-        "TagName": "Moto.MotoProperties.MotoRangeOfMotion"
+        "TagName": "Moto.MotoAttributes.MotoRangeOfMotion"
     },
     {
         "PagePath": "Moto/MotoOverview.md",
@@ -2187,12 +2187,12 @@ data = [
     {
         "PagePath": "Moto/MotoOverview.md",
         "PaperPhoto": "0438.jpg",
-        "TagName": "Moto.MotoProperties.MotoShape.Overview"
+        "TagName": "Moto.MotoAttributes.MotoShape.Overview"
     },
     {
         "PagePath": "Moto/MotoOverview.md",
         "PaperPhoto": "0438.jpg",
-        "TagName": "Moto.MotoProperties.MotoType.TwistMoto"
+        "TagName": "Moto.MotoAttributes.MotoType.TwistMoto"
     },
     {
         "PagePath": "Moto/MotoOverview.md",
@@ -2202,12 +2202,12 @@ data = [
     {
         "PagePath": "Moto/MotoOverview.md",
         "PaperPhoto": "0448.jpg",
-        "TagName": "Moto.MotoProperties.MotoShape.SquareMoto"
+        "TagName": "Moto.MotoAttributes.MotoShape.SquareMoto"
     },
     {
         "PagePath": "Moto/MotoOverview.md",
         "PaperPhoto": "0448.jpg",
-        "TagName": "Moto.MotoProperties.MotoShape.TriangleMoto"
+        "TagName": "Moto.MotoAttributes.MotoShape.TriangleMoto"
     },
     {
         "PagePath": "Moto/MotoOverview.md",
@@ -2232,32 +2232,32 @@ data = [
     {
         "PagePath": "Moto/MotoOverview.md",
         "PaperPhoto": "0458.jpg",
-        "TagName": "Moto.MotoProperties.MotoShape.CircleMoto"
+        "TagName": "Moto.MotoAttributes.MotoShape.CircleMoto"
     },
     {
         "PagePath": "Moto/MotoOverview.md",
         "PaperPhoto": "0458.jpg",
-        "TagName": "Moto.MotoProperties.MotoShape.MotoShapeCenter"
+        "TagName": "Moto.MotoAttributes.MotoShape.MotoShapeCenter"
     },
     {
         "PagePath": "Moto/MotoOverview.md",
         "PaperPhoto": "0458.jpg",
-        "TagName": "Moto.MotoProperties.MotoShape.Overview"
+        "TagName": "Moto.MotoAttributes.MotoShape.Overview"
     },
     {
         "PagePath": "Moto/MotoOverview.md",
         "PaperPhoto": "0458.jpg",
-        "TagName": "Moto.MotoProperties.MotoShape.SquareMoto"
+        "TagName": "Moto.MotoAttributes.MotoShape.SquareMoto"
     },
     {
         "PagePath": "Moto/MotoOverview.md",
         "PaperPhoto": "0458.jpg",
-        "TagName": "Moto.MotoProperties.MotoShape.TriangleMoto"
+        "TagName": "Moto.MotoAttributes.MotoShape.TriangleMoto"
     },
     {
         "PagePath": "Moto/MotoOverview.md",
         "PaperPhoto": "0458.jpg",
-        "TagName": "Moto.MotoProperties.MotoType.LockMoto"
+        "TagName": "Moto.MotoAttributes.MotoType.LockMoto"
     },
     {
         "PagePath": "Moto/MotoOverview.md",
@@ -2287,17 +2287,17 @@ data = [
     {
         "PagePath": "Moto/MotoOverview.md",
         "PaperPhoto": "0548.jpg",
-        "TagName": "Moto.MotoProperties.MotoRangeOfMotion"
+        "TagName": "Moto.MotoAttributes.MotoRangeOfMotion"
     },
     {
         "PagePath": "Moto/MotoOverview.md",
         "PaperPhoto": "0548.jpg",
-        "TagName": "Moto.MotoProperties.MotoShape.MotoShapeCenter"
+        "TagName": "Moto.MotoAttributes.MotoShape.MotoShapeCenter"
     },
     {
         "PagePath": "Moto/MotoOverview.md",
         "PaperPhoto": "0548.jpg",
-        "TagName": "Moto.MotoProperties.MotoShape.Overview"
+        "TagName": "Moto.MotoAttributes.MotoShape.Overview"
     },
     {
         "PagePath": "Moto/MotoOverview.md",
@@ -2322,7 +2322,7 @@ data = [
     {
         "PagePath": "Moto/MotoOverview.md",
         "PaperPhoto": "0549.jpg",
-        "TagName": "Moto.MotoProperties.MotoDescription"
+        "TagName": "Moto.MotoAttributes.MotoDescription"
     },
     {
         "PagePath": "Moto/MotoOverview.md",
@@ -2347,7 +2347,7 @@ data = [
     {
         "PagePath": "Moto/MotoOverview.md",
         "PaperPhoto": "0596.jpg",
-        "TagName": "Moto.MotoProperties.MotoSize"
+        "TagName": "Moto.MotoAttributes.MotoSize"
     },
     {
         "PagePath": "Moto/MotoOverview.md",
@@ -2357,7 +2357,7 @@ data = [
     {
         "PagePath": "Moto/MotoOverview.md",
         "PaperPhoto": "0600.jpg",
-        "TagName": "Moto.MotoProperties.MotoShape.Overview"
+        "TagName": "Moto.MotoAttributes.MotoShape.Overview"
     },
     {
         "PagePath": "Moto/MotoOverview.md",
@@ -2387,7 +2387,7 @@ data = [
     {
         "PagePath": "Moto/MotoOverview.md",
         "PaperPhoto": "0747.jpg",
-        "TagName": "Moto.MotoProperties.MotoShape.Overview"
+        "TagName": "Moto.MotoAttributes.MotoShape.Overview"
     },
     {
         "PagePath": "Moto/MotoOverview.md",
@@ -2397,17 +2397,17 @@ data = [
     {
         "PagePath": "Moto/MotoOverview.md",
         "PaperPhoto": "0756.jpg",
-        "TagName": "Moto.MotoProperties.MotoShape.CircleMoto"
+        "TagName": "Moto.MotoAttributes.MotoShape.CircleMoto"
     },
     {
         "PagePath": "Moto/MotoOverview.md",
         "PaperPhoto": "0756.jpg",
-        "TagName": "Moto.MotoProperties.MotoWeightDistribution"
+        "TagName": "Moto.MotoAttributes.MotoWeightDistribution"
     },
     {
         "PagePath": "Moto/MotoOverview.md",
         "PaperPhoto": "0756.jpg",
-        "TagName": "Moto.MotoProperties.SubmotoCount"
+        "TagName": "Moto.MotoAttributes.SubmotoCount"
     },
     {
         "PagePath": "Moto/MotoOverview.md",
@@ -2452,12 +2452,12 @@ data = [
     {
         "PagePath": "Moto/MotoOverview.md",
         "PaperPhoto": "1006.jpg",
-        "TagName": "Moto.MotoProperties.MotoForce"
+        "TagName": "Moto.MotoAttributes.MotoForce"
     },
     {
         "PagePath": "Moto/MotoOverview.md",
         "PaperPhoto": "1006.jpg",
-        "TagName": "Moto.MotoProperties.MotoType.AbsorbMoto"
+        "TagName": "Moto.MotoAttributes.MotoType.AbsorbMoto"
     },
     {
         "PagePath": "Moto/MotoOverview.md",
@@ -2482,47 +2482,47 @@ data = [
     {
         "PagePath": "Moto/MotoOverview.md",
         "PaperPhoto": "1011.jpg",
-        "TagName": "Moto.MotoProperties.MotoShape.CircleMoto"
+        "TagName": "Moto.MotoAttributes.MotoShape.CircleMoto"
     },
     {
         "PagePath": "Moto/MotoOverview.md",
         "PaperPhoto": "1015.jpg",
-        "TagName": "Moto.MotoProperties.MotoShape.CircleMoto"
+        "TagName": "Moto.MotoAttributes.MotoShape.CircleMoto"
     },
     {
         "PagePath": "Moto/MotoOverview.md",
         "PaperPhoto": "1015.jpg",
-        "TagName": "Moto.MotoProperties.MotoSize"
+        "TagName": "Moto.MotoAttributes.MotoSize"
     },
     {
         "PagePath": "Moto/MotoOverview.md",
         "PaperPhoto": "1017.jpg",
-        "TagName": "Moto.MotoProperties.MotoShape.CircleMoto"
+        "TagName": "Moto.MotoAttributes.MotoShape.CircleMoto"
     },
     {
         "PagePath": "Moto/MotoOverview.md",
         "PaperPhoto": "1017.jpg",
-        "TagName": "Moto.MotoProperties.MotoShape.SquareMoto"
+        "TagName": "Moto.MotoAttributes.MotoShape.SquareMoto"
     },
     {
         "PagePath": "Moto/MotoOverview.md",
         "PaperPhoto": "1019.jpg",
-        "TagName": "Moto.MotoProperties.MotoShape.CircleMoto"
+        "TagName": "Moto.MotoAttributes.MotoShape.CircleMoto"
     },
     {
         "PagePath": "Moto/MotoOverview.md",
         "PaperPhoto": "1019.jpg",
-        "TagName": "Moto.MotoProperties.MotoType.CircumductionMoto"
+        "TagName": "Moto.MotoAttributes.MotoType.CircumductionMoto"
     },
     {
         "PagePath": "Moto/MotoOverview.md",
         "PaperPhoto": "1021.jpg",
-        "TagName": "Moto.MotoProperties.MotoShape.CircleMoto"
+        "TagName": "Moto.MotoAttributes.MotoShape.CircleMoto"
     },
     {
         "PagePath": "Moto/MotoOverview.md",
         "PaperPhoto": "1021.jpg",
-        "TagName": "Moto.MotoProperties.MotoType.CircumductionMoto"
+        "TagName": "Moto.MotoAttributes.MotoType.CircumductionMoto"
     },
     {
         "PagePath": "Moto/MotoOverview.md",
@@ -2542,12 +2542,12 @@ data = [
     {
         "PagePath": "Moto/MotoOverview.md",
         "PaperPhoto": "1022.jpg",
-        "TagName": "Moto.MotoProperties.MotoShape.CircleMoto"
+        "TagName": "Moto.MotoAttributes.MotoShape.CircleMoto"
     },
     {
         "PagePath": "Moto/MotoOverview.md",
         "PaperPhoto": "1022.jpg",
-        "TagName": "Moto.MotoProperties.MotoShape.Overview"
+        "TagName": "Moto.MotoAttributes.MotoShape.Overview"
     },
     {
         "PagePath": "Moto/MotoOverview.md",
@@ -2562,7 +2562,7 @@ data = [
     {
         "PagePath": "Moto/MotoOverview.md",
         "PaperPhoto": "1023.jpg",
-        "TagName": "Moto.MotoProperties.MotoShape.CircleMoto"
+        "TagName": "Moto.MotoAttributes.MotoShape.CircleMoto"
     },
     {
         "PagePath": "Moto/MotoOverview.md",
@@ -2572,12 +2572,12 @@ data = [
     {
         "PagePath": "Moto/MotoOverview.md",
         "PaperPhoto": "1024.jpg",
-        "TagName": "Moto.MotoProperties.MotoRangeOfMotion"
+        "TagName": "Moto.MotoAttributes.MotoRangeOfMotion"
     },
     {
         "PagePath": "Moto/MotoOverview.md",
         "PaperPhoto": "1024.jpg",
-        "TagName": "Moto.MotoProperties.MotoShape.CircleMoto"
+        "TagName": "Moto.MotoAttributes.MotoShape.CircleMoto"
     },
     {
         "PagePath": "Moto/MotoOverview.md",
@@ -2587,7 +2587,7 @@ data = [
     {
         "PagePath": "Moto/MotoOverview.md",
         "PaperPhoto": "1027.jpg",
-        "TagName": "Moto.MotoProperties.MotoShape.Overview"
+        "TagName": "Moto.MotoAttributes.MotoShape.Overview"
     },
     {
         "PagePath": "Moto/MotoOverview.md",
@@ -2617,12 +2617,12 @@ data = [
     {
         "PagePath": "Moto/MotoOverview.md",
         "PaperPhoto": "1043.jpg",
-        "TagName": "Moto.MotoProperties.MotoType.ReleaseMoto"
+        "TagName": "Moto.MotoAttributes.MotoType.ReleaseMoto"
     },
     {
         "PagePath": "Moto/MotoOverview.md",
         "PaperPhoto": "1043.jpg",
-        "TagName": "Moto.MotoProperties.MotoType.RotationMoto"
+        "TagName": "Moto.MotoAttributes.MotoType.RotationMoto"
     },
     {
         "PagePath": "Moto/MotoOverview.md",
@@ -2632,27 +2632,27 @@ data = [
     {
         "PagePath": "Moto/MotoOverview.md",
         "PaperPhoto": "1049.jpg",
-        "TagName": "Moto.MotoProperties.MotoType.FlexionMoto"
+        "TagName": "Moto.MotoAttributes.MotoType.FlexionMoto"
     },
     {
         "PagePath": "Moto/MotoOverview.md",
         "PaperPhoto": "1049.jpg",
-        "TagName": "Moto.MotoProperties.MotoType.LockMoto"
+        "TagName": "Moto.MotoAttributes.MotoType.LockMoto"
     },
     {
         "PagePath": "Moto/MotoOverview.md",
         "PaperPhoto": "1050.jpg",
-        "TagName": "Moto.MotoProperties.MotoShape.SquareMoto"
+        "TagName": "Moto.MotoAttributes.MotoShape.SquareMoto"
     },
     {
         "PagePath": "Moto/MotoOverview.md",
         "PaperPhoto": "1050.jpg",
-        "TagName": "Moto.MotoProperties.MotoShape.TriangleMoto"
+        "TagName": "Moto.MotoAttributes.MotoShape.TriangleMoto"
     },
     {
         "PagePath": "Moto/MotoOverview.md",
         "PaperPhoto": "1050.jpg",
-        "TagName": "Moto.MotoProperties.MotoType.CompressionMoto"
+        "TagName": "Moto.MotoAttributes.MotoType.CompressionMoto"
     },
     {
         "PagePath": "Moto/MotoOverview.md",
@@ -2667,7 +2667,7 @@ data = [
     {
         "PagePath": "Moto/MotoOverview.md",
         "PaperPhoto": "1051.jpg",
-        "TagName": "Moto.MotoProperties.MotoShape.TriangleMoto"
+        "TagName": "Moto.MotoAttributes.MotoShape.TriangleMoto"
     },
     {
         "PagePath": "Moto/MotoOverview.md",
@@ -2687,17 +2687,17 @@ data = [
     {
         "PagePath": "Moto/MotoOverview.md",
         "PaperPhoto": "1059.jpg",
-        "TagName": "Moto.MotoProperties.MotoDependencies.DependentMoto"
+        "TagName": "Moto.MotoAttributes.MotoDependencies.DependentMoto"
     },
     {
         "PagePath": "Moto/MotoOverview.md",
         "PaperPhoto": "1059.jpg",
-        "TagName": "Moto.MotoProperties.MotoRangeOfMotion"
+        "TagName": "Moto.MotoAttributes.MotoRangeOfMotion"
     },
     {
         "PagePath": "Moto/MotoOverview.md",
         "PaperPhoto": "1059.jpg",
-        "TagName": "Moto.MotoProperties.MotoShape.CircleMoto"
+        "TagName": "Moto.MotoAttributes.MotoShape.CircleMoto"
     },
     {
         "PagePath": "Moto/MotoOverview.md",
@@ -2712,17 +2712,17 @@ data = [
     {
         "PagePath": "Moto/MotoOverview.md",
         "PaperPhoto": "1075.jpg",
-        "TagName": "Moto.MotoProperties.MotoDependencies.DependentMoto"
+        "TagName": "Moto.MotoAttributes.MotoDependencies.DependentMoto"
     },
     {
         "PagePath": "Moto/MotoOverview.md",
         "PaperPhoto": "1075.jpg",
-        "TagName": "Moto.MotoProperties.MotoDependencies.IndependentMoto"
+        "TagName": "Moto.MotoAttributes.MotoDependencies.IndependentMoto"
     },
     {
         "PagePath": "Moto/MotoOverview.md",
         "PaperPhoto": "1075.jpg",
-        "TagName": "Moto.MotoProperties.MotoDependencies.Overview"
+        "TagName": "Moto.MotoAttributes.MotoDependencies.Overview"
     },
     {
         "PagePath": "Moto/MotoOverview.md",
@@ -2732,17 +2732,17 @@ data = [
     {
         "PagePath": "Moto/MotoOverview.md",
         "PaperPhoto": "1087.jpg",
-        "TagName": "Moto.MotoProperties.MotoRangeOfMotion"
+        "TagName": "Moto.MotoAttributes.MotoRangeOfMotion"
     },
     {
         "PagePath": "Moto/MotoOverview.md",
         "PaperPhoto": "1087.jpg",
-        "TagName": "Moto.MotoProperties.MotoShape.CircleMoto"
+        "TagName": "Moto.MotoAttributes.MotoShape.CircleMoto"
     },
     {
         "PagePath": "Moto/MotoOverview.md",
         "PaperPhoto": "1087.jpg",
-        "TagName": "Moto.MotoProperties.MotoType.SymmetricMoto"
+        "TagName": "Moto.MotoAttributes.MotoType.SymmetricMoto"
     },
     {
         "PagePath": "Moto/MotoOverview.md",
@@ -2752,32 +2752,32 @@ data = [
     {
         "PagePath": "Moto/MotoOverview.md",
         "PaperPhoto": "1095.jpg",
-        "TagName": "Moto.MotoProperties.MotoPlane.Overview"
+        "TagName": "Moto.MotoAttributes.MotoPlane.Overview"
     },
     {
         "PagePath": "Moto/MotoOverview.md",
         "PaperPhoto": "1095.jpg",
-        "TagName": "Moto.MotoProperties.MotoPlane.XYPlane"
+        "TagName": "Moto.MotoAttributes.MotoPlane.XYPlane"
     },
     {
         "PagePath": "Moto/MotoOverview.md",
         "PaperPhoto": "1095.jpg",
-        "TagName": "Moto.MotoProperties.MotoPlane.XZPlane"
+        "TagName": "Moto.MotoAttributes.MotoPlane.XZPlane"
     },
     {
         "PagePath": "Moto/MotoOverview.md",
         "PaperPhoto": "1095.jpg",
-        "TagName": "Moto.MotoProperties.MotoPlane.YZPlane"
+        "TagName": "Moto.MotoAttributes.MotoPlane.YZPlane"
     },
     {
         "PagePath": "Moto/MotoOverview.md",
         "PaperPhoto": "1095.jpg",
-        "TagName": "Moto.MotoProperties.MotoRangeOfMotion"
+        "TagName": "Moto.MotoAttributes.MotoRangeOfMotion"
     },
     {
         "PagePath": "Moto/MotoOverview.md",
         "PaperPhoto": "1095.jpg",
-        "TagName": "Moto.MotoProperties.MotoShape.CircleMoto"
+        "TagName": "Moto.MotoAttributes.MotoShape.CircleMoto"
     },
     {
         "PagePath": "Moto/MotoOverview.md",
@@ -2817,7 +2817,7 @@ data = [
     {
         "PagePath": "Moto/MotoOverview.md",
         "PaperPhoto": "1100.jpg",
-        "TagName": "Moto.MotoProperties.MotoType.ExpansionMoto"
+        "TagName": "Moto.MotoAttributes.MotoType.ExpansionMoto"
     },
     {
         "PagePath": "Moto/MotoOverview.md",
@@ -2832,7 +2832,7 @@ data = [
     {
         "PagePath": "Moto/MotoOverview.md",
         "PaperPhoto": "1105.jpg",
-        "TagName": "Moto.MotoProperties.MotoType.FlexionMoto"
+        "TagName": "Moto.MotoAttributes.MotoType.FlexionMoto"
     },
     {
         "PagePath": "Moto/MotoOverview.md",
@@ -2892,7 +2892,7 @@ data = [
     {
         "PagePath": "Moto/MotoOverview.md",
         "PaperPhoto": "1259.jpg",
-        "TagName": "Moto.MotoProperties.MotoRangeOfMotion"
+        "TagName": "Moto.MotoAttributes.MotoRangeOfMotion"
     },
     {
         "PagePath": "Moto/MotoOverview.md",
@@ -2937,12 +2937,12 @@ data = [
     {
         "PagePath": "Moto/MotoOverview.md",
         "PaperPhoto": "1324.jpg",
-        "TagName": "Moto.MotoProperties.MotoPermutation"
+        "TagName": "Moto.MotoAttributes.MotoPermutation"
     },
     {
         "PagePath": "Moto/MotoOverview.md",
         "PaperPhoto": "1324.jpg",
-        "TagName": "Moto.MotoProperties.SubmotoCount"
+        "TagName": "Moto.MotoAttributes.SubmotoCount"
     },
     {
         "PagePath": "Moto/MotoOverview.md",
@@ -2967,7 +2967,7 @@ data = [
     {
         "PagePath": "Moto/MotoOverview.md",
         "PaperPhoto": "1343.jpg",
-        "TagName": "Moto.MotoProperties.MotoPermutation"
+        "TagName": "Moto.MotoAttributes.MotoPermutation"
     },
     {
         "PagePath": "Moto/MotoOverview.md",
@@ -2982,7 +2982,7 @@ data = [
     {
         "PagePath": "Moto/MotoOverview.md",
         "PaperPhoto": "1345.jpg",
-        "TagName": "Moto.MotoProperties.MotoState"
+        "TagName": "Moto.MotoAttributes.MotoState"
     },
     {
         "PagePath": "Moto/MotoOverview.md",
@@ -2992,12 +2992,12 @@ data = [
     {
         "PagePath": "Moto/MotoOverview.md",
         "PaperPhoto": "1352.jpg",
-        "TagName": "Moto.MotoProperties.MotoType.Overview"
+        "TagName": "Moto.MotoAttributes.MotoType.Overview"
     },
     {
         "PagePath": "Moto/MotoOverview.md",
         "PaperPhoto": "1352.jpg",
-        "TagName": "Moto.MotoProperties.Overview"
+        "TagName": "Moto.MotoAttributes.Overview"
     },
     {
         "PagePath": "Moto/MotoOverview.md",
@@ -3022,7 +3022,7 @@ data = [
     {
         "PagePath": "Moto/MotoOverview.md",
         "PaperPhoto": "1357.jpg",
-        "TagName": "Moto.MotoProperties.SubmotoCount"
+        "TagName": "Moto.MotoAttributes.SubmotoCount"
     },
     {
         "PagePath": "Moto/MotoOverview.md",
@@ -3032,7 +3032,7 @@ data = [
     {
         "PagePath": "Moto/MotoOverview.md",
         "PaperPhoto": "1373.jpg",
-        "TagName": "Moto.MotoProperties.MotoType.CompressionMoto"
+        "TagName": "Moto.MotoAttributes.MotoType.CompressionMoto"
     },
     {
         "PagePath": "Moto/MotoOverview.md",
@@ -3042,12 +3042,12 @@ data = [
     {
         "PagePath": "Moto/MotoOverview.md",
         "PaperPhoto": "1374.jpg",
-        "TagName": "Moto.MotoProperties.SubmotoCount"
+        "TagName": "Moto.MotoAttributes.SubmotoCount"
     },
     {
         "PagePath": "Moto/MotoOverview.md",
         "PaperPhoto": "1375.jpg",
-        "TagName": "Moto.MotoProperties.MotoType.CompressionMoto"
+        "TagName": "Moto.MotoAttributes.MotoType.CompressionMoto"
     },
     {
         "PagePath": "Moto/MotoOverview.md",
@@ -3057,17 +3057,17 @@ data = [
     {
         "PagePath": "Moto/MotoOverview.md",
         "PaperPhoto": "1379.jpg",
-        "TagName": "Moto.MotoProperties.SubmotoCount"
+        "TagName": "Moto.MotoAttributes.SubmotoCount"
     },
     {
         "PagePath": "Moto/MotoOverview.md",
         "PaperPhoto": "1386.jpg",
-        "TagName": "Moto.MotoProperties.MotoRangeOfMotion"
+        "TagName": "Moto.MotoAttributes.MotoRangeOfMotion"
     },
     {
         "PagePath": "Moto/MotoOverview.md",
         "PaperPhoto": "1387.jpg",
-        "TagName": "Moto.MotoProperties.MotoDegreesOfFreedom"
+        "TagName": "Moto.MotoAttributes.MotoDegreesOfFreedom"
     },
     {
         "PagePath": "Moto/MotoOverview.md",
@@ -3082,12 +3082,12 @@ data = [
     {
         "PagePath": "Moto/MotoOverview.md",
         "PaperPhoto": "1409.jpg",
-        "TagName": "Moto.MotoProperties.MotoType.CompressionMoto"
+        "TagName": "Moto.MotoAttributes.MotoType.CompressionMoto"
     },
     {
         "PagePath": "Moto/MotoOverview.md",
         "PaperPhoto": "1425.jpg",
-        "TagName": "Moto.MotoProperties.MotoType.PullMoto"
+        "TagName": "Moto.MotoAttributes.MotoType.PullMoto"
     },
     {
         "PagePath": "Moto/MotoOverview.md",
@@ -3097,17 +3097,17 @@ data = [
     {
         "PagePath": "Moto/MotoOverview.md",
         "PaperPhoto": "1447.jpg",
-        "TagName": "Moto.MotoProperties.MotoType.CompressionMoto"
+        "TagName": "Moto.MotoAttributes.MotoType.CompressionMoto"
     },
     {
         "PagePath": "Moto/MotoOverview.md",
         "PaperPhoto": "1447.jpg",
-        "TagName": "Moto.MotoProperties.MotoType.ExpansionMoto"
+        "TagName": "Moto.MotoAttributes.MotoType.ExpansionMoto"
     },
     {
         "PagePath": "Moto/MotoOverview.md",
         "PaperPhoto": "1451.jpg",
-        "TagName": "Moto.MotoProperties.MotoType.SlotMoto"
+        "TagName": "Moto.MotoAttributes.MotoType.SlotMoto"
     },
     {
         "PagePath": "Moto/MotoOverview.md",
@@ -3137,22 +3137,22 @@ data = [
     {
         "PagePath": "Moto/MotoOverview.md",
         "PaperPhoto": "1498.jpg",
-        "TagName": "Moto.MotoProperties.MotoType.CompressionMoto"
+        "TagName": "Moto.MotoAttributes.MotoType.CompressionMoto"
     },
     {
         "PagePath": "Moto/MotoOverview.md",
         "PaperPhoto": "1540.jpg",
-        "TagName": "Moto.MotoProperties.MotoType.SymmetricMoto"
+        "TagName": "Moto.MotoAttributes.MotoType.SymmetricMoto"
     },
     {
         "PagePath": "Moto/MotoOverview.md",
         "PaperPhoto": "1546.jpg",
-        "TagName": "Moto.MotoProperties.MotoType.CompressionMoto"
+        "TagName": "Moto.MotoAttributes.MotoType.CompressionMoto"
     },
     {
         "PagePath": "Moto/MotoOverview.md",
         "PaperPhoto": "1546.jpg",
-        "TagName": "Moto.MotoProperties.MotoType.ExpansionMoto"
+        "TagName": "Moto.MotoAttributes.MotoType.ExpansionMoto"
     },
     {
         "PagePath": "Moto/MotoOverview.md",
@@ -3177,7 +3177,7 @@ data = [
     {
         "PagePath": "Moto/MotoOverview.md",
         "PaperPhoto": "1599.jpg",
-        "TagName": "Moto.MotoProperties.MotoType.CompressionMoto"
+        "TagName": "Moto.MotoAttributes.MotoType.CompressionMoto"
     },
     {
         "PagePath": "Moto/MotoOverview.md",
@@ -3207,7 +3207,7 @@ data = [
     {
         "PagePath": "Moto/MotoOverview.md",
         "PaperPhoto": "1702.jpg",
-        "TagName": "Moto.MotoProperties.MotoType.RestMoto"
+        "TagName": "Moto.MotoAttributes.MotoType.RestMoto"
     },
     {
         "PagePath": "Moto/MotoOverview.md",
@@ -3217,12 +3217,12 @@ data = [
     {
         "PagePath": "Moto/MotoOverview.md",
         "PaperPhoto": "1740.jpg",
-        "TagName": "Moto.MotoProperties.MotoType.ArchMoto"
+        "TagName": "Moto.MotoAttributes.MotoType.ArchMoto"
     },
     {
         "PagePath": "Moto/MotoOverview.md",
         "PaperPhoto": "1749.jpg",
-        "TagName": "Moto.MotoProperties.SubmotoCount"
+        "TagName": "Moto.MotoAttributes.SubmotoCount"
     },
     {
         "PagePath": "Moto/MotoOverview.md",
@@ -3232,12 +3232,12 @@ data = [
     {
         "PagePath": "Moto/MotoOverview.md",
         "PaperPhoto": "1763.jpg",
-        "TagName": "Moto.PlanterProperties.PlanterAbility"
+        "TagName": "Moto.PlanterAttributes.PlanterAbility"
     },
     {
         "PagePath": "Moto/MotoOverview.md",
         "PaperPhoto": "1796.jpg",
-        "TagName": "Moto.MotoProperties.MotoType.CompressionMoto"
+        "TagName": "Moto.MotoAttributes.MotoType.CompressionMoto"
     },
     {
         "PagePath": "Moto/MotoOverview.md",
@@ -3247,22 +3247,22 @@ data = [
     {
         "PagePath": "Moto/MotoOverview.md",
         "PaperPhoto": "1803.jpg",
-        "TagName": "Moto.MotoProperties.MotoType.CompressionMoto"
+        "TagName": "Moto.MotoAttributes.MotoType.CompressionMoto"
     },
     {
         "PagePath": "Moto/MotoOverview.md",
         "PaperPhoto": "1803.jpg",
-        "TagName": "Moto.MotoProperties.MotoType.ExpansionMoto"
+        "TagName": "Moto.MotoAttributes.MotoType.ExpansionMoto"
     },
     {
         "PagePath": "Moto/MotoOverview.md",
         "PaperPhoto": "1804.jpg",
-        "TagName": "Moto.MotoProperties.MotoDuration"
+        "TagName": "Moto.MotoAttributes.MotoDuration"
     },
     {
         "PagePath": "Moto/MotoOverview.md",
         "PaperPhoto": "1804.jpg",
-        "TagName": "Moto.MotoProperties.MotoType.ReleaseMoto"
+        "TagName": "Moto.MotoAttributes.MotoType.ReleaseMoto"
     },
     {
         "PagePath": "Moto/MotoOverview.md",
@@ -3282,22 +3282,22 @@ data = [
     {
         "PagePath": "Moto/MotoOverview.md",
         "PaperPhoto": "1806.jpg",
-        "TagName": "Moto.MotoProperties.MotoDuration"
+        "TagName": "Moto.MotoAttributes.MotoDuration"
     },
     {
         "PagePath": "Moto/MotoOverview.md",
         "PaperPhoto": "1807.jpg",
-        "TagName": "Moto.MotoProperties.MotoDuration"
+        "TagName": "Moto.MotoAttributes.MotoDuration"
     },
     {
         "PagePath": "Moto/MotoOverview.md",
         "PaperPhoto": "1808.jpg",
-        "TagName": "Moto.MotoProperties.MotoType.RestMoto"
+        "TagName": "Moto.MotoAttributes.MotoType.RestMoto"
     },
     {
         "PagePath": "Moto/MotoOverview.md",
         "PaperPhoto": "1809.jpg",
-        "TagName": "Moto.PlanterProperties.PlanterSize"
+        "TagName": "Moto.PlanterAttributes.PlanterSize"
     },
     {
         "PagePath": "Moto/MotoOverview.md",
@@ -3322,7 +3322,7 @@ data = [
     {
         "PagePath": "Moto/MotoOverview.md",
         "PaperPhoto": "1824.jpg",
-        "TagName": "Moto.MotoProperties.Overview"
+        "TagName": "Moto.MotoAttributes.Overview"
     },
     {
         "PagePath": "Moto/MotoOverview.md",
@@ -3342,7 +3342,7 @@ data = [
     {
         "PagePath": "Moto/MotoOverview.md",
         "PaperPhoto": "1842.jpg",
-        "TagName": "Moto.MotoProperties.MotoType"
+        "TagName": "Moto.MotoAttributes.MotoType"
     },
     {
         "PagePath": "Moto/MotoOverview.md",
@@ -3927,17 +3927,17 @@ data = [
     {
         "PagePath": "Moto/MotoOverview.md",
         "PaperPhoto": "90043.jpg",
-        "TagName": "Moto.MotoProperties.MotoShape.CircleMoto"
+        "TagName": "Moto.MotoAttributes.MotoShape.CircleMoto"
     },
     {
         "PagePath": "Moto/MotoOverview.md",
         "PaperPhoto": "90043.jpg",
-        "TagName": "Moto.MotoProperties.MotoShape.SquareMoto"
+        "TagName": "Moto.MotoAttributes.MotoShape.SquareMoto"
     },
     {
         "PagePath": "Moto/MotoOverview.md",
         "PaperPhoto": "90043.jpg",
-        "TagName": "Moto.MotoProperties.MotoShape.TriangleMoto"
+        "TagName": "Moto.MotoAttributes.MotoShape.TriangleMoto"
     },
     {
         "PagePath": "Moto/MotoOverview.md",
@@ -3947,7 +3947,7 @@ data = [
     {
         "PagePath": "Moto/MotoOverview.md",
         "PaperPhoto": "90044.jpg",
-        "TagName": "Moto.MotoProperties.MotoPermutation"
+        "TagName": "Moto.MotoAttributes.MotoPermutation"
     },
     {
         "PagePath": "Moto/MotoOverview.md",
@@ -3967,7 +3967,7 @@ data = [
     {
         "PagePath": "Moto/MotoOverview.md",
         "PaperPhoto": "Video_015.mp4",
-        "TagName": "Moto.MotoProperties.MotoType.PushMoto"
+        "TagName": "Moto.MotoAttributes.MotoType.PushMoto"
     },
     {
         "PagePath": "Moto/MotoPhrase/Overview.md",
@@ -7972,7 +7972,7 @@ data = [
     {
         "PagePath": "Via/ViaOverview.md",
         "PaperPhoto": "0513.jpg",
-        "TagName": "Via.ViaProperties.ViaTreeCount"
+        "TagName": "Via.ViaAttributes.ViaTreeCount"
     },
     {
         "PagePath": "Via/ViaOverview.md",
@@ -7982,7 +7982,7 @@ data = [
     {
         "PagePath": "Via/ViaOverview.md",
         "PaperPhoto": "0600.jpg",
-        "TagName": "Via.ViaProperties.ViaPermutation"
+        "TagName": "Via.ViaAttributes.ViaPermutation"
     },
     {
         "PagePath": "Via/ViaOverview.md",
@@ -8022,7 +8022,7 @@ data = [
     {
         "PagePath": "Via/ViaOverview.md",
         "PaperPhoto": "1324.jpg",
-        "TagName": "Via.ViaProperties.ViaPermutation"
+        "TagName": "Via.ViaAttributes.ViaPermutation"
     },
     {
         "PagePath": "Via/ViaOverview.md",
@@ -8062,7 +8062,7 @@ data = [
     {
         "PagePath": "Via/ViaOverview.md",
         "PaperPhoto": "1572.jpg",
-        "TagName": "Via.ViaProperties.Overview"
+        "TagName": "Via.ViaAttributes.Overview"
     },
     {
         "PagePath": "Via/ViaOverview.md",
@@ -8097,7 +8097,7 @@ data = [
     {
         "PagePath": "Via/ViaOverview.md",
         "PaperPhoto": "1735.jpg",
-        "TagName": "Via.ViaProperties.Overview"
+        "TagName": "Via.ViaAttributes.Overview"
     },
     {
         "PagePath": "Via/ViaOverview.md",
@@ -8377,7 +8377,7 @@ data = [
     {
         "PagePath": "Via/ViaOverview.md",
         "PaperPhoto": "90044.jpg",
-        "TagName": "Via.ViaProperties.ViaPermutation"
+        "TagName": "Via.ViaAttributes.ViaPermutation"
     },
     {
         "PagePath": "Via/ViaOverview.md",
@@ -9477,7 +9477,7 @@ data = [
     {
         "PagePath": "Via/ViaSurface/Overview.md",
         "PaperPhoto": "0458.jpg",
-        "TagName": "Via.ViaGeometry.ViaSurface.ViaSurfaceProperties.ViaSurfaceSize"
+        "TagName": "Via.ViaGeometry.ViaSurface.ViaSurfaceAttributes.ViaSurfaceSize"
     },
     {
         "PagePath": "Via/ViaSurface/Overview.md",
@@ -13897,7 +13897,7 @@ data = [
     {
         "PagePath": "dev/Graphics/Overview.md",
         "PaperPhoto": "1818.jpg",
-        "TagName": "Dev.Element.ElementProperties"
+        "TagName": "Dev.Element.ElementAttributes"
     },
     {
         "PagePath": "dev/Graphics/Overview.md",
@@ -14667,7 +14667,7 @@ data = [
     {
         "PagePath": "dev/Graphics/Overview.md",
         "PaperPhoto": "2948.jpg",
-        "TagName": "Dev.Element.ElementProperties"
+        "TagName": "Dev.Element.ElementAttributes"
     },
     {
         "PagePath": "dev/Graphics/Overview.md",
@@ -14692,7 +14692,7 @@ data = [
     {
         "PagePath": "dev/Graphics/Overview.md",
         "PaperPhoto": "2966.jpg",
-        "TagName": "Dev.Element.ElementProperties"
+        "TagName": "Dev.Element.ElementAttributes"
     },
     {
         "PagePath": "dev/Graphics/Overview.md",
