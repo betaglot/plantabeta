@@ -1,25 +1,3 @@
-::: details 🛠 <dev>&&&</dev>
-
-## DevNotes
-
--
-
-## DevState
-
-```py
-`TagsToHeaders: False`
-```
-
-- Alpinists perform SpadeProp all the time when using an ice axe
-
-<h2>PageTags</h2>
-
-- "Moto.ToolMoto.SpadeMoto.SpadeProp"
-
-Moto/ToolMoto/Spade/SpadeProp.md, <dev>Moto.ToolMoto.SpadeMoto.SpadeProp</dev>, ![2469.jpg](/PaperPhoto/2469.jpg)
-Moto/ToolMoto/Spade/SpadeProp.md, <dev>Moto.ToolMoto.SpadeMoto.SpadeProp</dev>, ![2567.jpg](/PaperPhoto/2567.jpg)
-:::
-
 # 🟠 <moto>SpadeProp</moto>
 
 <div style="display: flex; width: %100; margin-top: 50px;">
@@ -126,7 +104,7 @@ Links to other related motos. Related because they are the same MotoType or beca
 
 ## DevNotes
 
--
+- Alpinists perform SpadeProp all the time when using an ice axe
 
 ## DevState
 
@@ -136,5 +114,8 @@ Links to other related motos. Related because they are the same MotoType or beca
 
 <h2>PageTags</h2>
 
-- "Moto.ToolMoto.SpadeMoto.SpadePogo"
+- "Moto.ToolMoto.SpadeMoto.SpadeProp"
+
+Moto/ToolMoto/Spade/SpadeProp.md, <dev>Moto.ToolMoto.SpadeMoto.SpadeProp</dev>, ![2469.jpg](/PaperPhoto/2469.jpg)
+Moto/ToolMoto/Spade/SpadeProp.md, <dev>Moto.ToolMoto.SpadeMoto.SpadeProp</dev>, ![2567.jpg](/PaperPhoto/2567.jpg)
 :::

@@ -4,10 +4,12 @@
 ![NeuroIcon](/Neuro/Neuro_Icon.png)
 
 ## <neuro>Neuro Symbol</neuro> 💜
->
+
 > Violet Heart
 
-## What is a Neuro?
+## What is a Neuro Skill?
+
+The most fundamental Neuro Skill is **curiosity**.
 
 Short for Neuroscience
 

@@ -1,20 +1,3 @@
-::: details 🛠 <dev>&&&</dev>
-
-## DevNotes
-
--
-
-## DevState
-
-```py
-`TagsToHeaders: False`
-```
-
-<h2>PageTags</h2>
-
-- "Eco.Prep.MoundPrep"
-:::
-
 # 🟩  <eco>MoundLand</eco>
 
 ## Mounding Error
@@ -94,4 +77,21 @@ Links to other related EcoFactors. Related because they are the same EcoType or 
 - One
 - Two
 - Three
+:::
+
+::: details 🛠 <dev>&&&</dev>
+
+## DevNotes
+
+-
+
+## DevState
+
+```py
+`TagsToHeaders: False`
+```
+
+<h2>PageTags</h2>
+
+- "Eco.Prep.MoundPrep"
 :::

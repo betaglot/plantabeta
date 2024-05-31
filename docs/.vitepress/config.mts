@@ -45,13 +45,14 @@ export default defineConfig({
 function sidebarDevelopment() {
   return [
     { text: '<dev>Dev Overview</dev>', link: '/dev/DevOverview' },
+    { text: '<dev>🔷 Betaglot</dev>', link: '/dev/Betaglot' },
     { text: '<dev>Contact</dev>', link: '/dev/Contact' },
     { text: '<dev>Academia</dev>', link: '/dev/Academia' },
     { text: '<dev>Art</dev>', link: '/dev/art/Overview' },
-    { text: '<dev>Data Visualization</dev>', link: '/dev/ElementsGraph' },
     { text: '<dev>Contribute</dev>', link: '/dev/Contribute' },
     { text: '<dev>Downloads</dev>', link: '/dev/Downloads' },
     { text: '<dev>DX</dev>', link: '/dev/DX' },
+    { text: '<dev>ElementsGraph</dev>', link: '/dev/ElementsGraph' },
     { text: '<dev>Filming</dev>', link: '/dev/Filming' },
     {
       text: '<dev>Graphics</dev>', collapsed: true, items: [
@@ -69,6 +70,7 @@ function sidebarDevelopment() {
     { text: '<dev>Offline</dev>', link: '/dev/Offline' },
     { text: '<dev>Open Source</dev>', link: '/dev/OpenSource' },
     { text: '<dev>PaperPhoto</dev>', link: '/dev/PaperPhoto' },
+    { text: '<dev>Podcast</dev>', link: '/dev/Podcast' },
     { text: '<dev>Pylanter</dev>', link: '/dev/Pylanter' },
     { text: '<dev>Research Questions</dev>', link: '/dev/ResearchQuestions' },
     { text: '<dev>Roadmap</dev>', link: '/dev/Roadmap' },
@@ -417,7 +419,7 @@ function sidebarReference() {
             { text: '🟠 <moto>LegAbduction</moto>', link: '/reference/Moto/LegMoto/LegAbduction' },
             { text: '🟠 <moto>LegAbsorb</moto>', link: '/reference/Moto/LegMoto/LegAbsorb' },
             { text: '🟠 <moto>LegAdduction</moto>', link: '/reference/Moto/LegMoto/LegAdduction' },
-            { text: '🟠 <moto>LegFlag</moto>', link: '/reference/Moto/LegMoto/LegFlag' },
+            { text: '🟠 <moto>LegFlap</moto>', link: '/reference/Moto/LegMoto/LegFlap' },
             { text: '🟠 <moto>LegFlexion</moto>', link: '/reference/Moto/LegMoto/LegFlexion' },
             { text: '🟠 <moto>LegProp</moto>', link: '/reference/Moto/LegMoto/LegProp' },
             { text: '🟠 <moto>LegSidebagLift</moto>', link: '/reference/Moto/LegMoto/LegSidebagLift' },
@@ -537,6 +539,8 @@ function sidebarReference() {
                 { text: '🟠 <moto>SpadeRotate</moto>', link: '/reference/Moto/ToolMoto/Spade/SpadeRotate' },
                 { text: '🟠 <moto>SpadeScreef</moto>', link: '/reference/Moto/ToolMoto/Spade/SpadeScreef' },
                 { text: '🟠 <moto>SpadeSlam</moto>', link: '/reference/Moto/ToolMoto/Spade/SpadeSlam' },
+                { text: '🟠 <moto>SpadeStall</moto>', link: '/reference/Moto/ToolMoto/Spade/SpadeStall' },
+                { text: '🟠 <moto>SpadeStomp</moto>', link: '/reference/Moto/ToolMoto/Spade/SpadeStomp' },
                 { text: '🟠 <moto>SpadeSwing</moto>', link: '/reference/Moto/ToolMoto/Spade/SpadeSwing' },
                 { text: '🟠 <moto>SpadeTest</moto>', link: '/reference/Moto/ToolMoto/Spade/SpadeTest' },
                 { text: '❌ <moto>SpadeError</moto>', link: '/reference/Moto/ToolMoto/Spade/SpadeError' },
@@ -565,6 +569,8 @@ function sidebarReference() {
                 { text: '🟠 <moto>StaffSlam</moto>', link: '/reference/Moto/ToolMoto/Staff/StaffSlam' },
                 { text: '🟠 <moto>StaffSlap</moto>', link: '/reference/Moto/ToolMoto/Staff/StaffSlap' },
                 { text: '🟠 <moto>StaffSlide</moto>', link: '/reference/Moto/ToolMoto/Staff/StaffSlide' },
+                { text: '🟠 <moto>StaffStall</moto>', link: '/reference/Moto/ToolMoto/Staff/StaffStall' },
+                { text: '🟠 <moto>StaffStomp</moto>', link: '/reference/Moto/ToolMoto/Staff/StaffStomp' },
                 { text: '🟠 <moto>StaffSwing</moto>', link: '/reference/Moto/ToolMoto/Staff/StaffSwing' },
                 { text: '❌ <moto>StaffError</moto>', link: '/reference/Moto/ToolMoto/Staff/StaffError' },
               ]

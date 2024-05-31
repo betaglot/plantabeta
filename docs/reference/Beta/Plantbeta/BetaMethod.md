@@ -1,4 +1,4 @@
-🔷<beta>Beta Methods</beta>
+# 🔷<beta>Beta Methods</beta>
 
 All BetaFunctions require at least 2 modules
 
