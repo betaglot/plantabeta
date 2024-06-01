@@ -198,11 +198,11 @@ Plantbeta a beta script. Put(Plant) creates the Attributes of HandMove, like how
 
 EcoFactor
 
-ViaSkill
+ViaFactor
 
-MotoSkill
+MotoFactor
 
-NeuroSkill
+NeuroFactor
 
 All Elements are objects
 

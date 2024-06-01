@@ -33,7 +33,7 @@ Graph which represents how this element is related to other elements in Put(Plan
     src="https://observablehq.com/embed/@d3/force-directed-graph/2?cells=chart"
 ></iframe>
 
-## 🔻<via>ViaSkills</via>
+## 🔻<via>ViaFactors</via>
 
 ### [TeamCover](/reference/Via/TeamPlant/Overview)
 
@@ -74,17 +74,17 @@ Graph which represents how this element is related to other elements in Put(Plan
 ### SlopedLand
 
 - Travel across the Eco instead of up and down
-- Description of how this ViaSkill relates to a particular [EcoFactor](/reference/Eco/EcoOverview).
+- Description of how this ViaFactor relates to a particular [EcoFactor](/reference/Eco/EcoOverview).
 
 ### Obstacle Preventing BoustroCover
 
 #### FallenTree
 
-## 💜<neuro>NeuroSkills</neuro>
+## 💜<neuro>NeuroFactors</neuro>
 
 -
 
-## 🟠<moto>MotoSkills</moto>
+## 🟠<moto>MotoFactors</moto>
 
 - TurnAround
 
@@ -92,9 +92,9 @@ Graph which represents how this element is related to other elements in Put(Plan
 
 - Use Media donated by Planters.
 
-## Related ViaSkills
+## Related ViaFactors
 
-Links to other related ViaSkills.
+Links to other related ViaFactors.
 
 - BackCover
 - FlagTrenchExit

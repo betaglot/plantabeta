@@ -6,7 +6,7 @@ A BetaGraph for a BetaBlock
 
 All modules are interdependent
 
-All ViaSkill have Neuro property dependencies
+All ViaFactor have Neuro property dependencies
 
 Each BetaInstance is different. The Beta that a user is experiencing changes each BetaInstance.
 

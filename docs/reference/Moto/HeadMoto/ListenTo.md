@@ -53,21 +53,21 @@
     src="https://observablehq.com/embed/@d3/force-directed-graph/2?cells=chart"
 ></iframe>
 
-## Related <moto>MotoSkills</moto>
+## Related <moto>MotoFactors</moto>
 
-- Description of how this MotoSkill relates to a particular [<moto>MotoSkill</moto>](/reference/Moto/MotoOverview).
-- Description of how this MotoSkill relates to a particular [<moto>MotoSkill</moto>](/reference/Moto/MotoOverview).
-- Description of how this MotoSkill relates to a particular [<moto>MotoSkill</moto>](/reference/Moto/MotoOverview).
+- Description of how this MotoFactor relates to a particular [<moto>MotoFactor</moto>](/reference/Moto/MotoOverview).
+- Description of how this MotoFactor relates to a particular [<moto>MotoFactor</moto>](/reference/Moto/MotoOverview).
+- Description of how this MotoFactor relates to a particular [<moto>MotoFactor</moto>](/reference/Moto/MotoOverview).
 
 ## Related 🟩<eco>EcoFactors</eco>
 
 -
 
-## Related 🔻<via>ViaSkills</via>
+## Related 🔻<via>ViaFactors</via>
 
 -
 
-## Related 💜<neuro>NeuroSkills</neuro>
+## Related 💜<neuro>NeuroFactors</neuro>
 
 -  
 

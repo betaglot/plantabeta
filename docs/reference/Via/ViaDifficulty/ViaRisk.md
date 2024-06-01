@@ -20,7 +20,7 @@
 - Small <via>Via</via> Surface Size
 - HiddenViaSurface
     - Blind <via>ViaSurface</via>
-    - Blindfolding can a ForcedBeta. Vision is a NeuroSkill which can be removed.
+    - Blindfolding can a ForcedBeta. Vision is a NeuroFactor which can be removed.
     - Blind Landing
 - A <via>Via</via> with dead ends.
 - Forced <via>Via</via> sequence

@@ -1,5 +1,5 @@
 
-# 🟠 <moto>FlagErrorRecovery</moto>
+# 🟠 <moto>FlagReload</moto>
 
 ![MotoIcon](/Moto/Moto_Icon.png)
 
@@ -53,7 +53,7 @@
     src="https://observablehq.com/embed/@d3/force-directed-graph/2?cells=chart"
 ></iframe>
 
-## Related <moto>MotoSkills</moto>
+## Related <moto>MotoFactors</moto>
 
 -
 
@@ -61,11 +61,11 @@
 
 -
 
-## Related 🔻<via>ViaSkills</via>
+## Related 🔻<via>ViaFactors</via>
 
 -
 
-## Related 💜<neuro>NeuroSkills</neuro>
+## Related 💜<neuro>NeuroFactors</neuro>
 
 -  
 
@@ -108,7 +108,5 @@ Links to other related motos. Related because they are the same MotoType or beca
 
 <h2>PageTags</h2>
 
-- "Moto.ToolMoto.FlagMoto.FlagErrorRecovery"
-
-Moto/ToolMoto/FlagMoto/FlagErrorRecovery.md, <dev>Moto.ToolMoto.FlagMoto.FlagErrorRecovery</dev>, ![2932.jpg](/PaperPhoto/2932.jpg)
+- "Moto.ToolMoto.FlagMoto.FlagUnload"
 :::

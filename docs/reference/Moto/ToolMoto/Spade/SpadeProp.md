@@ -59,7 +59,7 @@
     src="https://observablehq.com/embed/@d3/force-directed-graph/2?cells=chart"
 ></iframe>
 
-## Related <moto>MotoSkills</moto>
+## Related <moto>MotoFactors</moto>
 
 -
 
@@ -67,11 +67,11 @@
 
 -
 
-## Related 🔻<via>ViaSkills</via>
+## Related 🔻<via>ViaFactors</via>
 
 -
 
-## Related 💜<neuro>NeuroSkills</neuro>
+## Related 💜<neuro>NeuroFactors</neuro>
 
 -  
 

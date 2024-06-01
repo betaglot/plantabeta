@@ -7,11 +7,11 @@
 
 ## [<eco>**🟩____Eco Factors____**</eco>![Eco](/Eco/Eco_Icon.png)](/reference/Eco/EcoOverview)
 
-## [<moto>**🟠____Moto Skills____**</moto>![Moto](/Moto/Moto_Icon.png)](/reference/Moto/MotoOverview)
+## [<moto>**🟠____Moto Factors____**</moto>![Moto](/Moto/Moto_Icon.png)](/reference/Moto/MotoOverview)
 
-## [<via>**🔻____Via Skills____**</via>![Via](/Via/Via_Icon.png)](/reference/Via/ViaOverview)
+## [<via>**🔻____Via Factors____**</via>![Via](/Via/Via_Icon.png)](/reference/Via/ViaOverview)
 
-## [<neuro>**💜____Neuro Skills____**</neuro>![Neuro](/Neuro/Neuro_Icon.png)](/reference/Neuro/NeuroOverview)
+## [<neuro>**💜____Neuro Factors____**</neuro>![Neuro](/Neuro/Neuro_Icon.png)](/reference/Neuro/NeuroOverview)
 
 ## [Glossary](/reference/glossary/Glossary)
 

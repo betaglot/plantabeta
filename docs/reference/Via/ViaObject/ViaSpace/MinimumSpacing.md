@@ -50,9 +50,9 @@ Answer 3
 
 -
 
-## Related 💜<neuro>NeuroSkills</neuro>
+## Related 💜<neuro>NeuroFactors</neuro>
 
-## Related 🟠<moto>MotoSkills</moto>
+## Related 🟠<moto>MotoFactors</moto>
 
 -
 
@@ -60,9 +60,9 @@ Answer 3
 
 - Use Media donated by Planters.
 
-## Related <via>ViaSkills</via>
+## Related <via>ViaFactors</via>
 
-Links to other related ViaSkills.
+Links to other related ViaFactors.
 ::: details External References
 
 - One

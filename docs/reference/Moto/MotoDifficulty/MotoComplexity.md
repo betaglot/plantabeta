@@ -359,7 +359,7 @@ ApparentPathOfLeastResistanceDeception
 - Neuro
     - Timing
         - Knowing when to rest
-- Resting often isn’t PassiveMovement. ShakeMovements are not PassiveMovement. Knowing how to get muscles to relax is a skill.
+- Resting often isn’t PassiveMovement. ShakeMovements are not PassiveMovement. Knowing how to get muscles to relax is a Factor.
 
 ## Move Sequences
 

@@ -54,7 +54,7 @@
     src="https://observablehq.com/embed/@d3/force-directed-graph/2?cells=chart"
 ></iframe>
 
-## Related <moto>MotoSkills</moto>
+## Related <moto>MotoFactors</moto>
 
 -
 
@@ -62,11 +62,11 @@
 
 -
 
-## Related 🔻<via>ViaSkills</via>
+## Related 🔻<via>ViaFactors</via>
 
 - Deciding where to grip tree is Via. If you want to TreeFlip then you grab pod, if you want to
 
-## Related 💜<neuro>NeuroSkills</neuro>
+## Related 💜<neuro>NeuroFactors</neuro>
 
 -  
 

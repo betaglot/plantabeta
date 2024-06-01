@@ -5,7 +5,7 @@ Temporary Repair until you can have your tools repaired by a professional.
 
 Maintain your tools to ensure that they last as long a possible and to maintain their utility.
 
-## Maintenance Skills
+## Maintenance Factors
 
 ### Sewing
 

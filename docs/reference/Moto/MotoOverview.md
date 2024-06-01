@@ -30,9 +30,9 @@
 
 :::
 
-## <moto>What is a Moto Skill?</moto>
+## <moto>What is a Moto Factor?</moto>
 
-Moto Skills are prefixed by an orange circle 🟠
+Moto Factors are prefixed by an orange circle 🟠
 
 ```py
 🟠

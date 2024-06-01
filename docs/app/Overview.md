@@ -201,7 +201,7 @@ Eco_Attributes = {
 
 ```
 
-### <moto>MotoSkill: Object</moto>
+### <moto>MotoFactor: Object</moto>
 
 ```py
 
@@ -211,7 +211,7 @@ Moto_Attributes = {
 
 ```
 
-### <via>ViaSkill: Object</via>
+### <via>ViaFactor: Object</via>
 
 ```py
 
@@ -221,7 +221,7 @@ Via_Attributes = {
 
 ```
 
-### <neuro>NeuroSkill: Object</neuro>
+### <neuro>NeuroFactor: Object</neuro>
 
 - An object in Awareness
 - An object of your Attention

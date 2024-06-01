@@ -56,7 +56,7 @@ If you want to contribute in other areas, you can:
 
 - Write documentation for Put(Plant) Developer’s Guide
 - Translate documentation
-- Use your front end skills to improve Put(Plant)’s site
+- Use your front end Factors to improve Put(Plant)’s site
 
 You can also help review contribution requests from other contributors. The core developers have a lot of work on their hands, so if you can help move some issues forward, then you’ll be helping Put(Plant) to get better faster.
 

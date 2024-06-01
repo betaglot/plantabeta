@@ -484,15 +484,17 @@ Planting while your body is moving away or towards hole
 
 ## 🔷 Surfing (SurfBeta)
 
-🔷<beta>Beta: </beta>
+[List of Tricks and Maneuvers](https://www.surfertoday.com/surfing/the-complete-list-of-surfing-tricks-and-maneuvers)
+
+🔷<beta>Beta: Element=Maneuver </beta>
 
 💜<neuro>Neuro: </neuro>
 
 🟩<eco>Eco: Land=Wave</eco>
 
-🟠<moto>Moto: </moto>
+🟠<moto>Moto: Carve,Cut,NoseRiding,SwitchStance</moto>
 
-🔻<via>Via: </via>
+🔻<via>Via: [BarrelRide](https://www.surfertoday.com/surfing/how-to-get-barreled), [CloseoutReentry](https://www.surfertoday.com/surfing/how-to-do-a-closeout-reentry-in-surfing)</via>
 
 ## 🔷 Swimming (SwimBeta)
 

@@ -38,9 +38,9 @@ Answer 3
     src="https://observablehq.com/embed/@d3/force-directed-graph/2?cells=chart"
 ></iframe>
 
-## Related 💜<neuro>NeuroSkills</neuro>
+## Related 💜<neuro>NeuroFactors</neuro>
 
-## Related 🟠<moto>MotoSkills</moto>
+## Related 🟠<moto>MotoFactors</moto>
 
 -
 
@@ -48,7 +48,7 @@ Answer 3
 
 -
 
-## Related 🔻<via>ViaSkills</via>
+## Related 🔻<via>ViaFactors</via>
 
 -
 
@@ -58,7 +58,7 @@ Answer 3
 
 ## See also:
 
-Links to other related NeuroSkills.
+Links to other related NeuroFactors.
 ::: details External References
 
 - One

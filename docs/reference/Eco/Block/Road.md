@@ -77,11 +77,11 @@ Graph which represents how this element is related to other elements in Put(Plan
 
 ## Related <eco>EcoFactors</eco>🟩
 
-## Related <moto>MotoSkills</moto>
+## Related <moto>MotoFactors</moto>
 
-## Related <via>ViaSkills</via>
+## Related <via>ViaFactors</via>
 
-## Related 💜<neuro>NeuroSkills</neuro>
+## Related 💜<neuro>NeuroFactors</neuro>
 
 ## Quotes
 

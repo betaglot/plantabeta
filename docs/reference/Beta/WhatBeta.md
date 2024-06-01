@@ -62,15 +62,24 @@ This each line are analog pairs. The equal signs = denotes where Climbing and Pl
 
 ## <beta>What is a Beta Element?</beta>
 
-Based on Euclid's Elements
+Based on Gymnastics Elements. Elements are completed using Beta Factors. Multiple alternative Factors can be used to complete an Element.
 
-### <moto>MotoSkill</moto>
+- 🔷OpenHole
+- 🔷SelectSite
+- 🔷CloseHole
+- 🔷Flag
+- 🔷BagUp
+- 🔷LineIn
+- 🔷Screef
+- 🔷Rework
+
+### <moto>MotoFactor</moto>
 
 ### <eco>EcoFactor</eco>
 
-### <via>ViaSkill</via>
+### <via>ViaFactor</via>
 
-### <neuro>NeuroSkill</neuro>
+### <neuro>NeuroFactor</neuro>
 
 ## <beta>What is a BetaInstance?</beta>
 
@@ -179,7 +188,7 @@ Via Theorem, Via Solution
 
 Via just gives the options, Beta is required to Solve, since solution requires Moto. Beta occurs when more than module is required in 1stPersonPoint of view. Planter's perspective.
 
-Neuro that just thinks about NeuroSkills
+Neuro that just thinks about NeuroFactors
 
 Beta/WhatBeta.md, <dev>Beta.BetaInstance</dev>, ![1043.jpg](/PaperPhoto/1043.jpg)
 Beta/WhatBeta.md, <dev>Beta.BetaInstance</dev>, ![1318.jpg](/PaperPhoto/1318.jpg)

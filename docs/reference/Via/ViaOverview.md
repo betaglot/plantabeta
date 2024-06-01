@@ -47,7 +47,7 @@ Road, Path, Route, through, using, composed of
 
 :::
 
-## <via>What are Via Skills?</via>
+## <via>What are Via Factors?</via>
 
 ```py
 🔻
@@ -189,7 +189,7 @@ Directions
 Eco is decomposed by composing a Via
 
 - Compose ViaCurves, ViaSpaces and ViaPoints together to Cover Land
-- Fit the ViaSkills together
+- Fit the ViaFactors together
 - ViaCurves within ViaSpaces
     - Walking through a Space between Trees.
     - EcoSpace is everywhere, ViaSpace are only the Spaces which are not obstructed.

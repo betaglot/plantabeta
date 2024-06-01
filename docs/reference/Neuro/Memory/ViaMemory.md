@@ -3,7 +3,7 @@
 
 ## Flag is a Mnemonic for ViaMemory
 
-Memory of ViaSkills
+Memory of ViaFactors
 
 "Where have I already planted?"
 

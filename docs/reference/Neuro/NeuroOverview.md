@@ -7,9 +7,9 @@
 
 > Violet Heart
 
-## What is a Neuro Skill?
+## What is a Neuro Factor?
 
-The most fundamental Neuro Skill is **curiosity**.
+The most fundamental Neuro Factor is **curiosity**.
 
 Short for Neuroscience
 
@@ -37,9 +37,9 @@ Short for Neuroscience
 
 :::
 
-## Neuro Skills
+## Neuro Factors
 
-Neuro Skills are prefixed by a 💜 violet heart icon
+Neuro Factors are prefixed by a 💜 violet heart icon
 
 ```py
 💜

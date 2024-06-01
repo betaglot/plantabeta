@@ -26,11 +26,11 @@ Graph which represents how this element is related to other elements in Put(Plan
 - StumpCluster
 - EcoSlopeAngle
 
-## NeuroSkills
+## NeuroFactors
 
 - WorkingMemory
 
-## MotoSkills
+## MotoFactors
 
 - MotoSize.
 - LookAt.
@@ -40,9 +40,9 @@ Graph which represents how this element is related to other elements in Put(Plan
 
 - Use Media donated by Planters.
 
-## Related ViaSkills
+## Related ViaFactors
 
-Links to other related ViaSkills.
+Links to other related ViaFactors.
 
 - MaximumSpacing
 

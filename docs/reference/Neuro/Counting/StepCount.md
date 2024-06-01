@@ -42,9 +42,9 @@ Graph which represents how this element is related to other elements in Put(Plan
     src="https://observablehq.com/embed/@d3/force-directed-graph/2?cells=chart"
 ></iframe>
 
-## Related 💜<neuro>NeuroSkills</neuro>
+## Related 💜<neuro>NeuroFactors</neuro>
 
-## Related 🟠<moto>MotoSkills</moto>
+## Related 🟠<moto>MotoFactors</moto>
 
 -
 
@@ -52,7 +52,7 @@ Graph which represents how this element is related to other elements in Put(Plan
 
 -
 
-## Related 🔻<via>ViaSkills</via>
+## Related 🔻<via>ViaFactors</via>
 
 -
 
@@ -62,7 +62,7 @@ Graph which represents how this element is related to other elements in Put(Plan
 
 ## See also:
 
-Links to other related NeuroSkills.
+Links to other related NeuroFactors.
 ::: details External References
 
 - One

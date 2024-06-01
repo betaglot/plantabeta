@@ -53,11 +53,11 @@ Select:
 
 ## Related <eco>EcoFactors</eco>🟩
 
-## Related <moto>MotoSkills</moto>
+## Related <moto>MotoFactors</moto>
 
-## Related <via>ViaSkills</via>
+## Related <via>ViaFactors</via>
 
-## Related 💜<neuro>NeuroSkills</neuro>
+## Related 💜<neuro>NeuroFactors</neuro>
 
 ## Quotes
 

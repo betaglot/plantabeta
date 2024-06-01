@@ -492,11 +492,10 @@ function sidebarReference() {
               text: '🟠 <moto>Flag</moto>', link: '/reference/Moto/ToolMoto/Flag/Overview', collapsed: true, items: [
                 { text: '🔷 <moto>Flag Phrase</moto>', link: '/reference/Moto/ToolMoto/Flag/Phrase/Overview' },
                 { text: '🟠 <moto>FlagGrip</moto>', link: '/reference/Moto/ToolMoto/Flag/FlagGrip' },
-                { text: '🟠 <moto>FlagErrorRecovery</moto>', link: '/reference/Moto/ToolMoto/Flag/FlagErrorRecovery' },
-                { text: '🟠 <moto>FlagGet</moto>', link: '/reference/Moto/ToolMoto/Flag/FlagLoad' },
+                { text: '🟠 <moto>FlagKnot</moto>', link: '/reference/Moto/ToolMoto/Flag/FlagKnot' },
+                { text: '🟠 <moto>FlagReload</moto>', link: '/reference/Moto/ToolMoto/Flag/FlagReload' },
                 { text: '🟠 <moto>FlagRip</moto>', link: '/reference/Moto/ToolMoto/Flag/FlagRip' },
                 { text: '🟠 <moto>FlagRoll</moto>', link: '/reference/Moto/ToolMoto/Flag/FlagRoll' },
-                { text: '🟠 <moto>FlagUnload</moto>', link: '/reference/Moto/ToolMoto/Flag/FlagUnoad' },
               ]
             },
             {
@@ -792,6 +791,7 @@ function sidebarReference() {
 function sidebarTutorial() {
   return [
     { text: 'Tutorial Overview', link: '/tutorial/TutorialOverview' },
+    { text: 'Lesson Plans', link: '/tutorial/LessonPlans' },
     { text: 'Video Tutorials Overview', link: '/tutorial/VideoTutorialsOverview' },
     { text: 'Labelling', link: '/tutorial/Test_LabelDiagram' },
     { text: 'Matching', link: '/tutorial/Test_Matching' },

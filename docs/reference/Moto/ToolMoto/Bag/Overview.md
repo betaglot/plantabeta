@@ -1,6 +1,8 @@
 
 # 🟠 <moto>BagMoto</moto>
 
+Roll up your back bag layer to shell from water and dirt
+
 ## Bag Anatomy
 
 ## Bag Attributes

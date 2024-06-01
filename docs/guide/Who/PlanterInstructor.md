@@ -10,9 +10,9 @@
 >
 > Expertise-Induced Amnesia hypothesis (EIAH): The better you are, the less you will recall about what you've just done.
 
-> Expertise Facilitated Amnesia hypothesis (EFAH): Expertise facilitates the ability to perform skill-relevant actions without the performance leaving a declaratively accessible, episodic memory trace
+> Expertise Facilitated Amnesia hypothesis (EFAH): Expertise facilitates the ability to perform Factor-relevant actions without the performance leaving a declaratively accessible, episodic memory trace
 
-> It has been hypothesized that postperformance memory gaps occur in highly skilled individuals because experts generally perform their skills without conscious attention. In contrast, we hypothesize that such memory gaps may occur when performers focus so intently on their unfolding actions that their ongoing attention interferes with long-term memory formation of what was previously attended to, or when performers are highly focused on aspects of their bodily skills that are not readily put into words. In neither case, we argue, does performance proceed automatically yet both situations, we suggest, may lead to an inability to recollect performance.
+> It has been hypothesized that postperformance memory gaps occur in highly Factored individuals because experts generally perform their Factors without conscious attention. In contrast, we hypothesize that such memory gaps may occur when performers focus so intently on their unfolding actions that their ongoing attention interferes with long-term memory formation of what was previously attended to, or when performers are highly focused on aspects of their bodily Factors that are not readily put into words. In neither case, we argue, does performance proceed automatically yet both situations, we suggest, may lead to an inability to recollect performance.
 
 - <https://onlinelibrary.wiley.com/doi/full/10.1111/mila.12260>
 
@@ -32,9 +32,9 @@
 
 ## Your Tasks as a Planter Instructor
 
-- Observe Novices to see which elements and skills each are lacking and to give the Novice a report on things to work on.
+- Observe Novices to see which elements and Factors each are lacking and to give the Novice a report on things to work on.
     - Report for Planters
-- Observe HighBallers to see which elements and skills they could improve and to add detail to the current elements.
+- Observe HighBallers to see which elements and Factors they could improve and to add detail to the current elements.
     - Report
 - Talk to Novices about their experience to gain insights about their perspective.
 - Demonstrate planting in every type of land

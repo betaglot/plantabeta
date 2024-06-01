@@ -97,7 +97,7 @@ Removes Value Addition // [!code --]
 
 ### Outcome > Output
 
-False value is a bunch of features that Planters don't use. The value of a stump is not its color (HexadecimalValue, RGB values), rather value comes from the stump's PotentialMicrosites. The ViaSkill(PotentialMicrosite, FlagSite) gives the EcoFactor(Stump) value
+False value is a bunch of features that Planters don't use. The value of a stump is not its color (HexadecimalValue, RGB values), rather value comes from the stump's PotentialMicrosites. The ViaFactor(PotentialMicrosite, FlagSite) gives the EcoFactor(Stump) value
 
 Theorem the name of an object, while Problem is the object's values and methods.
 
@@ -107,7 +107,7 @@ The value exchange of woven fiber neighbors is the tension force holding each ot
 
 Subsystems give each other value.
 
-The ViaSkill(GoodMicrosite, FlagSite) gives the EcoFactor(Stump) value. The stump gives Via value by providing PotentialMicrosite.
+The ViaFactor(GoodMicrosite, FlagSite) gives the EcoFactor(Stump) value. The stump gives Via value by providing PotentialMicrosite.
 
 The exchange doesn't need to be mutually beneficial. Both ValueAddition or (ValueAddition + ValueSubtraction).
 
@@ -124,9 +124,9 @@ Value is added along a Phrase of steps. Like Bioamplification of poison in Preda
 
 ---
 
-### MotoSkillValue
+### MotoFactorValue
 
-::: tip MotoSkillValue Addition
+::: tip MotoFactorValue Addition
 
 ---
 
@@ -187,7 +187,7 @@ Value is added along a Phrase of steps. Like Bioamplification of poison in Preda
 
 :::
 
-::: danger MotoSkillValue Subtraction
+::: danger MotoFactorValue Subtraction
 
 ---
 
@@ -257,9 +257,9 @@ MotoSelection.MotoEvaluation
 
 ---
 
-### ViaSkillValue
+### ViaFactorValue
 
-::: tip ViaSkillValue Addition
+::: tip ViaFactorValue Addition
 
 ---
 
@@ -299,7 +299,7 @@ MotoSelection.MotoEvaluation
 
 :::
 
-::: danger ViaSkillValue Subtraction
+::: danger ViaFactorValue Subtraction
 
 ---
 
@@ -407,9 +407,9 @@ MotoSelection.MotoEvaluation
 
 ---
 
-### NeuroSkillValue
+### NeuroFactorValue
 
-::: tip NeuroSkillValue Addition
+::: tip NeuroFactorValue Addition
 
 ---
 
@@ -441,7 +441,7 @@ MotoSelection.MotoEvaluation
 
 :::
 
-::: danger NeuroSkillValue Subtraction
+::: danger NeuroFactorValue Subtraction
 
 ---
 

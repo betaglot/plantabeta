@@ -50,7 +50,7 @@ Graph which represents how this element is related to other elements in Put(Plan
 
 - block snow from crushing the seedling
 
-## Related <moto>MotoSkills</moto>
+## Related <moto>MotoFactors</moto>
 
 ### 🟠SpadePryScreef
 
@@ -66,7 +66,7 @@ Graph which represents how this element is related to other elements in Put(Plan
 
 🔻🟠🟩💜🔷
 
-## Related <via>ViaSkills</via>
+## Related <via>ViaFactors</via>
 
 ### 🔻ObstacleCover
 
@@ -98,7 +98,7 @@ Graph which represents how this element is related to other elements in Put(Plan
 
 -
 
-## Related 💜<neuro>NeuroSkills</neuro>
+## Related 💜<neuro>NeuroFactors</neuro>
 
 ### 💜Orientation
 

@@ -73,7 +73,7 @@ HubermanLab Guest Series [with Dr. Matt Walker](https://www.youtube.com/playlist
     src="https://observablehq.com/embed/@d3/force-directed-graph/2?cells=chart"
 ></iframe>
 
-## Related <moto>MotoSkills</moto>
+## Related <moto>MotoFactors</moto>
 
 - After work
 
@@ -81,11 +81,11 @@ HubermanLab Guest Series [with Dr. Matt Walker](https://www.youtube.com/playlist
 
 - Bumpy road
 
-## Related 🔻<via>ViaSkills</via>
+## Related 🔻<via>ViaFactors</via>
 
 -
 
-## Related 💜<neuro>NeuroSkills</neuro>
+## Related 💜<neuro>NeuroFactors</neuro>
 
 - Fatigue
 - Meditation
