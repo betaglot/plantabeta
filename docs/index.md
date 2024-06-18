@@ -22,7 +22,7 @@ features:
     details: Accelerate your planter development by examples
     link: /examples/Overview
   - icon: 🛠️
-    title: Last Updated on May 11, 2024
+    title: Last Updated on June 18, 2024
     details: 
     link: /dev/DevOverview
   - icon: 🔍

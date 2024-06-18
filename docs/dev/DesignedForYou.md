@@ -1,4 +1,10 @@
+---
+sidebar: false
+---
+
 # PutPlant Is Designed For You
+
+<!-- Expect to fail in some parts, show the sincerity and we will solve the problems together -->
 
 ::: info Purpose
 
@@ -7,6 +13,22 @@
 - Write a paragraph summarizing this page and post it in the WhatsApp group
 
 :::
+
+## Summary of you
+
+![InsideOut_AllEmotions](/InsideOut_AllEmotions.jpg)
+
+- As of today
+
+### Anger
+
+### Fear
+
+### Disgust
+
+### Sadness
+
+### Joy
 
 ## What is PutPlant right now?
 
@@ -35,6 +57,19 @@ Plantbeta is a system to define the rules of the game.
 ## Betaglot
 
 ## How am I supposed to use putplant.ca?
+
+### Examples
+
+Tips are GivenBeta
+
+```py
+>>> GiveBeta("")
+>>>
+```
+
+- 🟠<moto>BetaName BetaTitle PropositionTitle</moto>
+- 🔻<via>BoustroCover</via>
+- 🟩<eco>Soil</eco>
 
 ## What if it's wrong?
 
