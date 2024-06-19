@@ -52,7 +52,7 @@ To test
 
 Plantbeta is a system to define the rules of the game.
 
-## What are the icons?
+## What do the icons mean?
 
 🔷<beta>Beta</beta>: The system used to prescribe or describe a planter's experience. Beta is composed of four factors, each of which can be represented by an icon:
 
