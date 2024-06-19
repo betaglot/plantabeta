@@ -308,9 +308,9 @@ function sidebarReference() {
         { text: '🟠 <moto>Phrase</moto>', link: '/reference/Moto/Phrase/Overview' },
         {
           text: '🟠 <moto>Moto Difficulty</moto>', link: '/reference/Moto/MotoDifficulty/Overview', collapsed: true, items: [
-            { text: '🟠 <moto>EcoComplexity</moto>', link: '/reference/Moto/MotoDifficulty/MotoComplexity' },
-            { text: '🟠 <moto>EcoIntensity</moto>', link: '/reference/Moto/MotoDifficulty/MotoIntensity' },
-            { text: '🟠 <moto>EcoRisk</moto>', link: '/reference/Moto/MotoDifficulty/MotoRisk' },
+            { text: '🟠 <moto>MotoComplexity</moto>', link: '/reference/Moto/MotoDifficulty/MotoComplexity' },
+            { text: '🟠 <moto>MotoIntensity</moto>', link: '/reference/Moto/MotoDifficulty/MotoIntensity' },
+            { text: '🟠 <moto>MotoRisk</moto>', link: '/reference/Moto/MotoDifficulty/MotoRisk' },
           ],
         },
         {
