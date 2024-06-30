@@ -215,7 +215,6 @@ function sidebarReference() {
         },
         {
           text: '🟩 <eco>Animals</eco>', link: '/reference/Eco/Animals/Overview', collapsed: true, items: [
-
           ]
         },
         {
