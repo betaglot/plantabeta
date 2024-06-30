@@ -1,39 +1,72 @@
 # Waking Up Community
 
-Waking up community
+## Abstract
 
-Write an abstract to be posted along with phone screenshots of putplant.ca
+<!-- What is the topic?
+Write an abstract to be posted along with phone screenshots of putplant.ca -->
 
-## Awareness
+## Betaglot is PutPlant and Klimbeta
+
+![TreeGraph_Betaglot_PutPlant_Klimbeta]()
+
+### What is Betaglot?
+
+## Awareness in Betaglot
 
 > Objects in awareness
 
 - Awareness to observe objects
 - Beta objects
 
-## Kindness
+### Non Dual Awareness
 
-- Sharma
-- Hooper
+You are the beta
+
+#### Flow State
+
+## Kindness in Betaglot
+
+### Empathy
+
+### Open Source
+
+### Mitchell Hooper
+
+![MitchellHooper]()
+
+> Lift heavy, be kind
+
+#### A Real Alpha Male is Kind
+
+Alpha Male and Alpha Female are not personality types. They are positions in a social web. You can be kind while being an alpha.
+
+Frans de Waal
+
 - Writer guy
 
 ## PutPlant
 
-- Hooper
+- 
 
 ## Klimbeta
 
-- Sharma
-- Hansen? Climbing Talk
-- .  
+### Sharma
+
+- Bookshelf Screenshot
+
+### Hansen? Climbing Talk
+
+-
 
 ## 47 ways Waking Up is relevant to Betaglot
 
-Reference as many things from Waking Up as possible.
+<!-- Don't limit to Plantbeta and Klimbeta. These should be relevant to at least 3 BetaActivities -->
 
 ### 1: No competition
 
 > "There is no competition at the frontier of your artform" - David Whyte
+
+Progression Score in Skiing, Skateboarding, Gymnastics and Klimbeta competitions.
 
 ### 2: The 5 Aggregates
 
@@ -53,7 +86,7 @@ GoPro
 
 Pouring Water
 
-### 8: Effective Atruism
+### 8: 
 
 ### 9: The Two Arrows The Second Arrow
 
@@ -69,13 +102,13 @@ Too focused on reaching goal
 
 ### 13: Precision of Awareness
 
-### 14: Failures of Kindness
+### 14: 
 
 ### 15: James Clear
 
 Habits
 
-### 16: 
+### 16:
 
 ### 17:
 
@@ -135,9 +168,9 @@ Habits
 
 ### 45:
 
-### 46:
+### 46: Effective Altruism
 
-### 47:
+### 47: Failures of Kindness
 
 - Quiet the mind
 - Take the closest step
