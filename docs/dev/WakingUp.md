@@ -46,7 +46,7 @@ Frans de Waal
 
 ## PutPlant
 
-- 
+-
 
 ## Klimbeta
 
@@ -86,7 +86,7 @@ GoPro
 
 Pouring Water
 
-### 8: 
+### 8:
 
 ### 9: The Two Arrows The Second Arrow
 
@@ -102,7 +102,7 @@ Too focused on reaching goal
 
 ### 13: Precision of Awareness
 
-### 14: 
+### 14:
 
 ### 15: James Clear
 

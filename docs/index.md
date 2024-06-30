@@ -29,7 +29,7 @@ features:
     title: Browse the Reference Section
     details: Find information about the Put(Plant) objects that you're using
     link: /reference/RefOverview
-    - icon: 🧘‍♀️
+  - icon: 🧘‍♀️
     title: Waking Up
     details: How Waking Up is relevant to PutPlant
     link: /dev/WakingUp
