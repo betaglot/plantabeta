@@ -19,7 +19,7 @@ hero:
 features:
   - icon: 🔷
     title:  Examples
-    details: Accelerate your planter development by examples
+    details: Accelerate your planter development by learning from examples
     link: /examples/Overview
   - icon: 🛠️
     title: Last Updated on June 18, 2024
@@ -29,4 +29,8 @@ features:
     title: Browse the Reference Section
     details: Find information about the Put(Plant) objects that you're using
     link: /reference/RefOverview
+    - icon: 🧘‍♀️
+    title: Waking Up
+    details: How Waking Up is relevant to PutPlant
+    link: /dev/WakingUp
 ---
