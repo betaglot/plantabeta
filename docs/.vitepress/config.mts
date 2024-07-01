@@ -430,8 +430,6 @@ function sidebarReference() {
         },
         {
           text: '🟠 <moto>PlantMoto</moto>', link: '/reference/Moto/PlantMoto/Overview', collapsed: true, items: [
-            { text: '🟠 <moto>BranchArmDeflection</moto>', link: '/reference/Moto/PlantMoto/BranchArmDeflection' },
-            { text: '🟠 <moto>BranchDeflection</moto>', link: '/reference/Moto/PlantMoto/BranchDeflection' },
             { text: '🟠 <moto>BranchMoto</moto>', link: '/reference/Moto/PlantMoto/BranchMoto' },
             { text: '🟠 <moto>BranchWhip</moto>', link: '/reference/Moto/PlantMoto/BranchWhip' },
             { text: '🟠 <moto>Bush</moto>', link: '/reference/Moto/PlantMoto/Bush' },

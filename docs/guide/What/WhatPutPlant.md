@@ -1,12 +1,14 @@
+---
+aside: False
+---
+
 # 🔷<beta>Put(<eco>Plant</eco>)</beta>
 
-![PutHeroImage](/PutHeroImage.png)
+![Betaglot_Logo](/Betaglot_Logo.png)
+<!-- 
+## 🔷<beta>Put(<eco>Tree</eco>)</beta>, 🔷<beta>Put(<eco>Shrub</eco>)</beta>, 🔷<beta>Put(<eco>Flower</eco>)</beta>, 🔷<beta>Put(<eco>Moss</eco>)</beta>, 🔷<beta>Put(<eco>Bulb</eco>)</beta>, 🔷<beta>Put(<eco>Root</eco>)</beta>, 🔷<beta>Put(<eco>Meadow</eco>)</beta> -->
 
-> a planter putting a seedling in the ground
-
-## 🔷<beta>Put(<eco>Tree</eco>)</beta>, 🔷<beta>Put(<eco>Shrub</eco>)</beta>, 🔷<beta>Put(<eco>Flower</eco>)</beta>, 🔷<beta>Put(<eco>Moss</eco>)</beta>, 🔷<beta>Put(<eco>Bulb</eco>)</beta>, 🔷<beta>Put(<eco>Root</eco>)</beta>, 🔷<beta>Put(<eco>Meadow</eco>)</beta>
-
-::: details Etymology of 🔷<beta>Put(<eco>Plant</eco>)</beta>
+<!-- ::: details What does 🔷<beta>Put(<eco>Plant</eco>)</beta>
 
 ## Etymology of 🔷<beta>Put(<eco>Plant</eco>)</beta>
 
@@ -64,33 +66,33 @@ Noun
 - "newly planted <eco>plant</eco>"
 - ""
 
-:::
+::: -->
 
 ::: info 🔷<beta>Put(<eco>Plant</eco>)</beta>'s **Mission**
 
 - To create a **open source** resource for planters where all knowledge about being a tree planter is coherent and integrated into a single system which can be used to plant any type of land.
-- To research and implement ways to make planters more effective by applying interdisciplinary science to planter instruction.
-- To innovate planter tools
+- To research and implement ways to make planters more effective by applying scientific research to planter instruction.
+- To improve the tools that planters use.
 :::
 
 ::: info 🔷<beta>Put(<eco>Plant</eco>)</beta>'s **Vision**
 
-- To reduce Climate Change by increasing the quantity, quality and planting rate of the plants which are planted every year until the end of time.
+- To reduce Climate Change by increasing the number of the plants which are put in the ground every year globally.
 
 :::
 
 ::: info 🔷<beta>Put(<eco>Plant</eco>)</beta>'s **Values**
 
-- Practice is more important than Theory
-- All Planter knowledge is freely available
+- All content is based on empirical evidence.
+- Kindness...
 
 :::
 
-::: tip 💡 New to Planting?
+<!-- ::: tip 💡 New to Planting?
 Find out [how trees are planted](/guide/What/WhatTreePlanting) in Canada
-:::
+::: -->
 
-## Why use 🔷<beta>Put(<eco>Plant</eco>)</beta>?
+<!-- ## Why use 🔷<beta>Put(<eco>Plant</eco>)</beta>?
 
 ### A Flexible System
 
@@ -106,12 +108,13 @@ If you're an Experienced Planter, then 🔷<beta>Put(<eco>Plant</eco>)</beta> gi
 
 🔷<beta>Put(<eco>Plant</eco>)</beta> combines the best practices of the Planting Industry to offer the most robust and planter friendly planter system available. In addition, dozens of talented planters from across Canada have [contributed to the system](/dev/Contribute). Who knows, maybe you'll even become a 🔷<beta>Put(<eco>Plant</eco>)</beta> contributor.
 
-#### What is an Open Source project?
+#### What is an Open Source project? -->
 
 ::: details 🛠 <dev>&&&</dev>
 
 ## DevNotes
 
+- You can plant trees without Beta. Put(Plant) isn't required to plant
 - Put(Plant) is written like a computer programming language function since it's the application of computational thinking.
 - PutPlant.com is only used for learning and research. It's not meant to be used everyday by planters. People don't use textbooks everyday.
 
@@ -131,8 +134,6 @@ If you're an Experienced Planter, then 🔷<beta>Put(<eco>Plant</eco>)</beta> gi
 - "Guide.What.WhatPut(Plant).PlanterQuestion"
 - "Guide.What.WhatPut(Plant).Product"
 - "Guide.What.WhatPut(Plant).Service"
-
-## You can plant trees without Beta. Put(Plant) isn't required to plant
 
 guide/What/WhatPut(Plant).md, <dev>Guide.What.WhatElement</dev>, ![0293.jpg](/PaperPhoto/0293.jpg)
 guide/What/WhatPut(Plant).md, <dev>Guide.What.WhatPut(Plant)</dev>, ![0293.jpg](/PaperPhoto/0293.jpg)
