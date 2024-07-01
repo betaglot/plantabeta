@@ -14,11 +14,9 @@ sidebar: false
 
 :::
 
-## Summary of you
+## Summary of your experience
 
-![InsideOut_AllEmotions](/InsideOut_AllEmotions.jpg)
-
-- As of today
+![InsideOut2_AllEmotions](/InsideOut2_AllEmotions.jpg)
 
 ### Anger
 
@@ -29,6 +27,10 @@ sidebar: false
 ### Sadness
 
 ### Joy
+
+### Envy
+
+### Anxiety
 
 ## What is PutPlant right now?
 
@@ -56,24 +58,23 @@ Plantbeta is a system to define the rules of the game.
 
 🔷<beta>Beta</beta>: The system used to prescribe or describe a planter's experience. Beta is composed of four factors, each of which can be represented by an icon:
 
-🟩<eco>Eco Factor</eco>: All the biologic and geologic objects and processes in a planting block. For example, slash, roads, stumps, plants, soil, weather.
+🟩<eco>Eco Factor</eco>: All biologic and geologic objects and processes you interact with while in a planting block. For example: slash, roads, stumps, plants, soil and weather.
 
-🟠<moto>Moto Factor</moto>: The movements performed by planters.
+🟠<moto>Moto Factor</moto>: The movements and tools you use to plant trees. For example: slamming your spade into the ground, ripping flag, your clothing and your bags.
 
-🔻<via>Via Factor</via>: The path taken by planters.
+🔻<via>Via Factor</via>: The path taken by planters. For example: your line in, backfilling, area planting, bouncing while partner planting and deadwalking
 
-💜<neuro>Neuro Factor</neuro>: Phenonmena of the nervous system. Includes thought, perception, awareness, attention and more.  
+💜<neuro>Neuro Factor</neuro>: Any phenonmena of your nervous system, includes emotion, thought, perception, awareness, attention and more.  
 
-## Betaglot
+## 🔷<beta>Betaglot</beta>
 
-"glot" means tongue in greek
+> beta + glot
 
-Polyglot: Ability to speak more than one language.
+"beta" comes from climbing. It is any information about how to climb something. The term beta is an abbreviation of Betamax, which was hardware used to record video, like a VHS cassette tape 📼. Before the internet climbers would give each Betamax video tapes of climbs, so if you wanted to see a video of climb was performed you would ask for the "Beta". Although people no longer use tapes 📼, the term is still used all the time.  
 
-Epiglottis:
+"glot" literally means "tongue" in greek, or "language" metaphorically. So, betaglot means "the language of beta".
 
-GlottalStop: 
-
+Betaglot is also related to "Polyglot", which means that you can speak more than one language. A betaglot can speak the language of both tree planting and of climbing. Beta can be applied to any solo sport, that is, any sport where you're not directly competing against anyone, such as gymnastics, archery, whitewater kayaking, break dancing and more.
 
 ## How am I supposed to use putplant.ca?
 
@@ -109,8 +110,6 @@ GlottalStop:
 - 🔻<via>FlagError</via>: Attempt to high flag in fill plants whenever possible. The flag may fall to the ground, but it's worth taking the chance since a high flag is more valuable than the time wasted from a HighFlag Fail.
 - 🔷<beta>Instruction</beta>: Only ask for an answer to a question that students could plausibly know. Apriori will only cause frustration and can easily become condescending.
 
-## What if it's wrong?
-
 ## What if you disagree with some of its content?
 
 ## Isn't this just making things more complicated than they need to be?
@@ -120,8 +119,6 @@ Label things so they can be communicated
 ## What is the first step?
 
 Learn the vocabulary
-
-CueCards
 
 ### When
 
