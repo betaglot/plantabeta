@@ -98,12 +98,12 @@ Links to other related motos. Related because they are the same MotoType or beca
 
 ## DevNotes
 
--
+- Wrestling Snap down is SpadeSlam. Like Rope Climbing.
 
 ## DevState
 
 ```py
-`TagsToHeaders: False`
+`TagsToHeaders: True`
 ```
 
 - ElbowClose

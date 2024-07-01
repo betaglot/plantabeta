@@ -54,9 +54,9 @@ sidebar: false
 
 - *If I don't make enough money this season, I'll need to get another job during school.*
 - *I'm not good enough.*
-- *I need more caffeine!*
 - *If I don't plant more trees, I'm gonna get fired*
 - *This tree needs to be perfect.*
+- *I am sooo stressed right now.*
 
 ### Anger 😡
 
@@ -106,35 +106,54 @@ Beta is composed of four factors, each of which can be represented by an icon:
 
 ### Examples
 
-- 🔷<beta>Instruction</beta>: Let Planter get in the groove before observing
-    - CurrentSite, AnteSite, PostSite are NOT NULL is more realistic than one tree at a time.
+- 🟩<eco>[Soil](/reference/Eco/Soil/Overview)</eco>: Duff mixed with soil is ok if it is smearable, meaning that the soil sticks together when smeared.
+    - Coherent
+
+- 🟩<eco>[CullTree](/reference/Eco/Seedling/Overview)</eco>: Put CullTrees in Duff instead of sidebag.
+
+- 🟩<eco>[SoilSound](/reference/Eco/Soil/Overview)</eco>: Muffled Soil has lots more organic matter to absorb sound. Rock is louder than organic matter due to the strength of rock's lattice structure.
+
+- 🟠<moto>[Clothing](/reference/Moto/ClothingMoto/Overview)</moto>: Don't leave stuff in backbag when wet.
+    - Cotton mold
+
+- 🟠<moto>[BundleGrip](/reference/Moto/ToolMoto/Bundle/BundleGrip)</moto>: Grab two bundles in each hand, so four bundles at a time when transfering bundles from boxes to bags.
+
+- 🟠<moto>[TreeTest.Error](/reference/Moto/HandMoto/TreeTest)</moto>: One tree test and what are you looking for?
+    - 💜<neuro>FearOfReplant</neuro>
+
+- 🟠<moto>[TreeTest](/reference/Moto/HandMoto/TreeTest)</moto>: Single Moto for TreeTest
+
+- 🟠<moto>[SpadeSlam](/reference/Moto/ToolMoto/Spade/SpadeSlam)</moto>: Humerus Rotate Out for SpadeSlam to recruit Latissimus Dorsi and prevent overactivation of Pectoralis muscles which causes Shoulder Impingement Injury
+
+- 🟠<moto>[SpadeScreef](/reference/Moto/ToolMoto/Spade/SpadeScreef)</moto>: SpadeScreef is faster than BootScreef or HandScreef. And it flows into the backswing of SpadeSlam.
+
+- 🟠<moto>[TraverseBush](/reference/Moto/PlantMoto/Overview)</moto>: Spread branches while pushing your way through a bush.
+    - AlderCluster, MapleCluster
+
+- 🔻<via>[Walkout](/reference/Via/Path/Overview)</via>: Walkout using the most direct path unless there's a road, skidder trail or clear path near.
+    - The PathOfLeastResistance is sometimes faster than ShortestPath
+
+- 🔻<via>[CoverError](/reference/Via/)</via>: FrontFilling is when there are trees between the cache and backline
+
+- 🔻<via>[ViaError](/reference/Via/)</via>: Don't walk up and down slope, only up and across slope, during BoustroCover and ZigzagCover.
+
+- 🔻<via>[Flag](/reference/Via/)</via>: Only flag the "zag" of ZigzagCover.
+
+- 🔻<via>[FlagError](/reference/Via/)</via>: Attempt to high flag in fill plants whenever possible. The flag may fall to the ground, but it's worth taking the chance since a high flag is more valuable than the time wasted from a HighFlag Fail.
+
 - 🔷<beta>Lesson</beta>: Point out microsites so planter can work on walking speed while not thinking about SiteSelection
     - Isolate Elements, Isolate Skills. Decompose Elements into subelements then instruct them in isolation.
+
 - 🔷<beta>Lesson</beta>: Follow the instructor. Follow the instructor while they plant. Instructor can make error on purpose to test student's 💜<neuro>ErrorDetection</neuro> ability. You integrate information more deeply when teaching it, students become teachers in this lesson.
+
+- 🔷<beta>Instruction</beta>: Let Planter get in the groove before observing
+    - CurrentSite, AnteSite, PostSite are NOT NULL is more realistic than one tree at a time.
+
 - 🔷<beta>Instruction</beta>: CurseOfKnowledge. Instructors can take for granted their knowledge. When using jargon for the first few times, remember to explain to student what it means.
+
 - 🔷<beta>Instruction</beta>: Only ask for an answer to a question that students could plausibly know. Apriori will only cause frustration and can easily become condescending.
+
 - 🔷<beta>Instruction</beta>: So there isn't resistance, set the intentions of student by asking questions like "Do you want to plant as fast as possible?", "Why are we doing this lesson?", " Why did you come planting?"
-- 🟩<eco>Soil</eco>: Duff mixed with soil is ok if it is smearable, meaning that the soil sticks together when smeared.
-    - Coherent
-- 🟩<eco>CullTree</eco>: Put CullTrees in Duff instead of sidebag.
-- 🟩<eco>SoilSound</eco>: Muffled Soil has lots more organic matter to absorb sound. Rock is louder than organic matter due to the strength of rock's lattice structure.
-- 🟠<moto>Clothing</moto>: Don't leave stuff in backbag when wet.
-    - Cotton mold
-- 🟠<moto>BundleGrip</moto>: Grab two bundles in each hand, so four bundles at a time when transfering bundles from boxes to bags.
-- 🟠<moto>TreeTest.Error</moto>: One tree test and what are you looking for?
-    - 💜<neuro>FearOfReplant</neuro>
-- 🟠<moto>TreeTest</moto>: Single Moto for TreeTest
-- 🟠<moto>SpadeSlam</moto>: Humerus Rotate Out for SpadeSlam to recruit Latissimus Dorsi and prevent overactivation of Pectoralis muscles which causes Shoulder Impingement Injury
-- 🟠<moto>SpadeScreef</moto>: SpadeScreef is faster than BootScreef or HandScreef. And it flows into the backswing of SpadeSlam.
-- 🟠<moto>SpadeSlam</moto>: Wrestling Snap down is SpadeSlam. Like Rope Climbing.
-- 🟠<moto>TraverseBush</moto>: Spread branches while pushing your way through a bush.
-    - AlderCluster, MapleCluster
-- 🔻<via>Walkout</via>: Walkout using the most direct path unless there's a road, skidder trail or clear path near.
-    - The PathOfLeastResistance is sometimes faster than ShortestPath
-- 🔻<via>CoverError</via>: FrontFilling is when there are trees between the cache and backline
-- 🔻<via>ViaError</via>: Don't walk up and down slope, only up and across slope, during BoustroCover and ZigzagCover.
-- 🔻<via>Flag</via>: Only flag the "zag" of ZigzagCover.
-- 🔻<via>FlagError</via>: Attempt to high flag in fill plants whenever possible. The flag may fall to the ground, but it's worth taking the chance since a high flag is more valuable than the time wasted from a HighFlag Fail.
 
 ## What if you disagree with some of its content?
 
@@ -156,7 +175,7 @@ Plantbeta is a system to define the rules of the game.
 
 ### Many hands make light work
 
-## What is the first step to learning or developing PutPlant?
+## What is the first step to learning and contributing to PutPlant?
 
 Learn the vocabulary
 
