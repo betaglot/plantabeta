@@ -38,7 +38,21 @@ It doesn't matter if it's always totally true, the canadian stereotype is believ
 
 </via>
 
-## Put(Plant).org
+## Classic Style
+
+> The writer can see something that the reader has not yet noticed, and he orients the reader's gaze so that she can see it for herself.
+
+You're already performing beta elements, you've just never labelled them before.
+
+Beta is a description
+
+They are currently capable of performing all beta, there are no prerequisites to performing beta. Know how beta works requires knowledge of many fields of science: geology, kinesiology, biology, psychology, physics, meteorology...
+
+Steven Pinker [The Sense of Style: A Thinking Person's Guide to Writing in the 21st Century](https://stevenpinker.com/publications/sense-style-thinking-persons-guide-writing-21st-century)
+
+Show don't tell
+
+Reader and writer are intellectual equals
 
 ## <dev>Semantics</dev>
 
