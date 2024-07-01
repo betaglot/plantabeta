@@ -87,7 +87,7 @@ Passing
 
 🔻<via>Via: </via>
 
-- [BranchDeflection](/reference/Moto/VegeMoto/BranchDeflection)
+- [BranchDeflection](/reference/Moto/PlantMoto/BranchDeflection)
 - [HeadBob](/reference/Moto/HeadMoto/Overview)
 - [HandClose](/reference/Moto/HandMoto/Overview)
     - [PunchClose](/reference/Moto/HandMoto/Overview)

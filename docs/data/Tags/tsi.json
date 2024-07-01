@@ -4271,19 +4271,19 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Moto.VegeMoto.SnagMoto.BagSnag",
+                    "title": "Moto.PlantMoto.SnagMoto.BagSnag",
                     "color": "#ff7537ff",
                     "textcolor": "white",
                     "type": "sidecar"
                 },
                 {
-                    "title": "Moto.VegeMoto.SnagMoto.FootSnag",
+                    "title": "Moto.PlantMoto.SnagMoto.FootSnag",
                     "color": "#ff7537ff",
                     "textcolor": "white",
                     "type": "sidecar"
                 },
                 {
-                    "title": "Moto.VegeMoto.SnagMoto.SpadeSnag",
+                    "title": "Moto.PlantMoto.SnagMoto.SpadeSnag",
                     "color": "#ff7537ff",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -4392,17 +4392,17 @@
                 "textcolor": "white"
             },
             {
-                "title": "Moto.VegeMoto.SnagMoto.BagSnag",
+                "title": "Moto.PlantMoto.SnagMoto.BagSnag",
                 "color": "#ff7537ff",
                 "textcolor": "white"
             },
             {
-                "title": "Moto.VegeMoto.SnagMoto.FootSnag",
+                "title": "Moto.PlantMoto.SnagMoto.FootSnag",
                 "color": "#ff7537ff",
                 "textcolor": "white"
             },
             {
-                "title": "Moto.VegeMoto.SnagMoto.SpadeSnag",
+                "title": "Moto.PlantMoto.SnagMoto.SpadeSnag",
                 "color": "#ff7537ff",
                 "textcolor": "white"
             },
@@ -13865,7 +13865,7 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Moto.VegeMoto.BranchArmDeflection",
+                    "title": "Moto.PlantMoto.BranchArmDeflection",
                     "color": "#ff7537ff",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -13930,7 +13930,7 @@
                 "textcolor": "white"
             },
             {
-                "title": "Moto.VegeMoto.BranchArmDeflection",
+                "title": "Moto.PlantMoto.BranchArmDeflection",
                 "color": "#ff7537ff",
                 "textcolor": "white"
             },
@@ -43033,7 +43033,7 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Moto.VegeMoto.Overview",
+                    "title": "Moto.PlantMoto.Overview",
                     "color": "#ff7537ff",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -43073,7 +43073,7 @@
                 "textcolor": "#000000ff"
             },
             {
-                "title": "Moto.VegeMoto.Overview",
+                "title": "Moto.PlantMoto.Overview",
                 "color": "#ff7537ff",
                 "textcolor": "white"
             },
@@ -51427,7 +51427,7 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Moto.VegeMoto.Overview",
+                    "title": "Moto.PlantMoto.Overview",
                     "color": "#ff7537ff",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -51498,7 +51498,7 @@
                 "textcolor": "white"
             },
             {
-                "title": "Moto.VegeMoto.Overview",
+                "title": "Moto.PlantMoto.Overview",
                 "color": "#ff7537ff",
                 "textcolor": "white"
             },
@@ -57268,7 +57268,7 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Moto.VegeMoto.Overview",
+                    "title": "Moto.PlantMoto.Overview",
                     "color": "#ff7537ff",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -57312,7 +57312,7 @@
                 "textcolor": "white"
             },
             {
-                "title": "Moto.VegeMoto.Overview",
+                "title": "Moto.PlantMoto.Overview",
                 "color": "#ff7537ff",
                 "textcolor": "white"
             },
@@ -60198,7 +60198,7 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Moto.VegeMoto.Overview",
+                    "title": "Moto.PlantMoto.Overview",
                     "color": "#ff7537ff",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -60243,7 +60243,7 @@
                 "textcolor": "white"
             },
             {
-                "title": "Moto.VegeMoto.Overview",
+                "title": "Moto.PlantMoto.Overview",
                 "color": "#ff7537ff",
                 "textcolor": "white"
             },

@@ -1,9 +1,9 @@
 
-# 🟠 <moto>VegeMoto</moto>
+# 🟠 <moto>PlantMoto</moto>
 
-## Vege Anatomy
+## Plant Anatomy
 
-## Vege Attributes
+## Plant Attributes
 
 ::: details 🛠 <dev>&&&</dev>
 
@@ -21,17 +21,17 @@ ArmProp to TrunkPush or BranchPush like pushing open a door. There is also ArmAb
 
 <h2>PageTags</h2>
 
-- "Moto.VegeMoto.Overview"
-- "Moto.VegeMoto.SnagMoto.BagSnag"
-- "Moto.VegeMoto.SnagMoto.FootSnag"
-- "Moto.VegeMoto.SnagMoto.Overview"
-- "Moto.VegeMoto.SnagMoto.SpadeSnag"
+- "Moto.PlantMoto.Overview"
+- "Moto.PlantMoto.SnagMoto.BagSnag"
+- "Moto.PlantMoto.SnagMoto.FootSnag"
+- "Moto.PlantMoto.SnagMoto.Overview"
+- "Moto.PlantMoto.SnagMoto.SpadeSnag"
 
-Moto/VegeMoto/Overview.md, <dev>Moto.VegeMoto.SnagMoto.BagSnag</dev>, ![0407.jpg](/PaperPhoto/0407.jpg)
-Moto/VegeMoto/Overview.md, <dev>Moto.VegeMoto.SnagMoto.FootSnag</dev>, ![0407.jpg](/PaperPhoto/0407.jpg)
-Moto/VegeMoto/Overview.md, <dev>Moto.VegeMoto.SnagMoto.SpadeSnag</dev>, ![0407.jpg](/PaperPhoto/0407.jpg)
-Moto/VegeMoto/Overview.md, <dev>Moto.VegeMoto.Overview</dev>, ![2473.jpg](/PaperPhoto/2473.jpg)
-Moto/VegeMoto/Overview.md, <dev>Moto.VegeMoto.Overview</dev>, ![2945.jpg](/PaperPhoto/2945.jpg)
-Moto/VegeMoto/Overview.md, <dev>Moto.VegeMoto.Overview</dev>, ![3029.jpg](/PaperPhoto/3029.jpg)
-Moto/VegeMoto/Overview.md, <dev>Moto.VegeMoto.Overview</dev>, ![3080.jpg](/PaperPhoto/3080.jpg)
+Moto/PlantMoto/Overview.md, <dev>Moto.PlantMoto.SnagMoto.BagSnag</dev>, ![0407.jpg](/PaperPhoto/0407.jpg)
+Moto/PlantMoto/Overview.md, <dev>Moto.PlantMoto.SnagMoto.FootSnag</dev>, ![0407.jpg](/PaperPhoto/0407.jpg)
+Moto/PlantMoto/Overview.md, <dev>Moto.PlantMoto.SnagMoto.SpadeSnag</dev>, ![0407.jpg](/PaperPhoto/0407.jpg)
+Moto/PlantMoto/Overview.md, <dev>Moto.PlantMoto.Overview</dev>, ![2473.jpg](/PaperPhoto/2473.jpg)
+Moto/PlantMoto/Overview.md, <dev>Moto.PlantMoto.Overview</dev>, ![2945.jpg](/PaperPhoto/2945.jpg)
+Moto/PlantMoto/Overview.md, <dev>Moto.PlantMoto.Overview</dev>, ![3029.jpg](/PaperPhoto/3029.jpg)
+Moto/PlantMoto/Overview.md, <dev>Moto.PlantMoto.Overview</dev>, ![3080.jpg](/PaperPhoto/3080.jpg)
 :::

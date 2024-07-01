@@ -1,5 +1,5 @@
 
-# 🔷 <moto>Vege Phrase</moto>
+# 🔷 <moto>Plant Phrase</moto>
 
 ::: details 🛠 <dev>&&&</dev>
 

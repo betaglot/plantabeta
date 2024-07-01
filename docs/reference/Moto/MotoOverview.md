@@ -67,7 +67,7 @@ Moto Factors are prefixed by an orange circle 🟠
    Rope, 
    Spade, 
    Truck, 
-   Vege 
+   Plant 
 }
 ```
 
@@ -93,7 +93,7 @@ Moto is polyglot
 
 ## <moto>What is a MotoError?</moto>
 
-Errors don't necessarily come from you, they could arise from VegeMoto.
+Errors don't necessarily come from you, they could arise from PlantMoto.
 
 ### MotoErrorRecovery
 

@@ -1302,31 +1302,31 @@
         "Moto.MotoPhrase.TransitionMoto"
     ],
     "Moto/Placeholder_MotoProfile.md": [],
-    "Moto/VegeMoto/BranchArmDeflection.md": [
-        "Moto.VegeMoto.BranchArmDeflection"
+    "Moto/PlantMoto/BranchArmDeflection.md": [
+        "Moto.PlantMoto.BranchArmDeflection"
     ],
-    "Moto/VegeMoto/BranchDeflection.md": [
-        "Moto.VegeMoto.BranchDeflection"
+    "Moto/PlantMoto/BranchDeflection.md": [
+        "Moto.PlantMoto.BranchDeflection"
     ],
-    "Moto/VegeMoto/BranchMotoment.md": [],
-    "Moto/VegeMoto/BranchWhip.md": [
-        "Moto.VegeMoto.BranchWhip"
+    "Moto/PlantMoto/BranchMotoment.md": [],
+    "Moto/PlantMoto/BranchWhip.md": [
+        "Moto.PlantMoto.BranchWhip"
     ],
-    "Moto/VegeMoto/Overview.md": [
-        "Moto.VegeMoto.Overview",
-        "Moto.VegeMoto.SnagMoto.BagSnag",
-        "Moto.VegeMoto.SnagMoto.FootSnag",
-        "Moto.VegeMoto.SnagMoto.Overview",
-        "Moto.VegeMoto.SnagMoto.SpadeSnag"
+    "Moto/PlantMoto/Overview.md": [
+        "Moto.PlantMoto.Overview",
+        "Moto.PlantMoto.SnagMoto.BagSnag",
+        "Moto.PlantMoto.SnagMoto.FootSnag",
+        "Moto.PlantMoto.SnagMoto.Overview",
+        "Moto.PlantMoto.SnagMoto.SpadeSnag"
     ],
-    "Moto/VegeMoto/PlantType.md": [
-        "Moto.VegeMoto.PlantType"
+    "Moto/PlantMoto/PlantType.md": [
+        "Moto.PlantMoto.PlantType"
     ],
-    "Moto/VegeMoto/SlashPile.md": [
-        "Moto.VegeMoto.SlashPile"
+    "Moto/PlantMoto/SlashPile.md": [
+        "Moto.PlantMoto.SlashPile"
     ],
-    "Moto/VegeMoto/TrunkMotoment.md": [
-        "Moto.VegeMoto.TrunkMoto"
+    "Moto/PlantMoto/TrunkMotoment.md": [
+        "Moto.PlantMoto.TrunkMoto"
     ],
     "Moto/ScreefMoto/Overview.md": [
         "Eco.Screef.10x10Screef",

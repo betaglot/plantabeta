@@ -4,7 +4,7 @@
 > Grab vegetation before colliding with it
 ![MotoIcon](/Moto/Moto_Icon.png)
 
-The Vege can be moving towards you or the vege can be stationary while you move towards the vege
+The Plant can be moving towards you or the Plant can be stationary while you move towards the vege
 
 ## Element Problem
 
@@ -111,7 +111,7 @@ Links to other related motos. Related because they are the same MotoType or beca
 
 <h2>PageTags</h2>
 
-- "Moto.VegeMoto.BranchWhip"
+- "Moto.PlantMoto.BranchWhip"
 
 - BranchWhip
 -

@@ -106,5 +106,5 @@ Links to other related motos. Related because they are the same MotoType or beca
 `TagsToHeaders: False`
 ```
 
-Moto/VegeMoto/BranchArmDeflection.md, <dev>Moto.VegeMoto.BranchArmDeflection</dev>, ![1087.jpg](/PaperPhoto/1087.jpg)
+Moto/PlantMoto/BranchArmDeflection.md, <dev>Moto.PlantMoto.BranchArmDeflection</dev>, ![1087.jpg](/PaperPhoto/1087.jpg)
 :::

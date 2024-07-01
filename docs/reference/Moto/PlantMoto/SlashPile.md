@@ -108,5 +108,5 @@ Links to other related motos. Related because they are the same MotoType or beca
 
 <h2>PageTags</h2>
 
-- "Moto.VegeMoto.SlashPile"
+- "Moto.PlantMoto.SlashPile"
 :::

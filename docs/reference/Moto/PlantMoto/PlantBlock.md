@@ -1,7 +1,7 @@
 
 # 🟠 <moto>VegeBlock</moto>
 
-> Protecting yourself from Vege as it collides into you or as it drags along you as you push through it
+> Protecting yourself from Plant as it collides into you or as it drags along you as you push through it
 
 <div style="display: flex; width: %100; margin-top: 50px;">
     <div style="margin: 5px; width: 50%">
