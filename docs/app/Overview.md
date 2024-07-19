@@ -66,7 +66,11 @@ The Source Code for Put(Plant) is called [Plantbeta](/reference/Beta/Plantbeta/O
 
 > Computer
 
-## Analogy
+## BePython, Analogy between Python and Planting
+
+> Your best Python code won't even run digitally. It will be implemented in and by humans.
+
+Be like a Dune mentat.
 
 | Python | Put(Plant) |
 | ------ | --------- |

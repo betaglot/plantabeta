@@ -67,7 +67,11 @@
 
 ## Related 💜<neuro>NeuroFactors</neuro>
 
--  
+- BladeFeel
+
+- HandFeel
+
+- SoilListen
 
 ## Quotes
 

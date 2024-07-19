@@ -16,8 +16,23 @@ Percentages
 
 ## Tutorials
 
-## Xbox Game
+## VideoGame
+
+PurposeGames.com
 
 Use Tools that GenZ is already addicted to. Many PotentialPlanters are young adults who are addicted to playing video games. Create a video game which teaches Put(Plant) so planters can increase their planting knowledge before the season starts.
 
 It's ok if the game is boring if you're being paid to play it.
+
+## CurseOfKnowledge
+
+The best way to reduce the CurseOfKnowledge is to check the user's knowledge frequently. Asking if the user has questions is not enough, because the user may not even have enough knowledge to ask a question.
+
+- Does that make sense?
+- Do you understand?
+- Paraphrase what I just said.
+    - Users really know something when it becomes encoded in Mentalese. Only Mentalese can produce a paraphrase.
+
+### UI ToReduceCurseOfKnowledge
+
+- Tooltips like Wikipedia On(Hover)

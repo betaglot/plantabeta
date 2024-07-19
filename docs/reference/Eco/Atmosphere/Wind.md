@@ -82,12 +82,12 @@ Links to other related EcoFactors. Related because they are the same EcoType or 
 
 ## DevNotes
 
--
+- Stand with back to wind to push shirt onto skin for evaporative cooling
 
 ## DevState
 
 ```py
-`TagsToHeaders: False`
+`TagsToHeaders: True`
 ```
 
 <h2>PageTags</h2>

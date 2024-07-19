@@ -1,4 +1,6 @@
-# Social Media
+# Marketing
+
+> It Hits. It landed. It connected with the audience crowd viewers.
 
 ::: danger
 
@@ -35,3 +37,17 @@ King Kong Reforestation
 >Definition: very unusual, often in a way that is attractive or exciting
 
 >"*Those are wild trousers you're wearing, Maddy.*"
+
+## Competition
+
+Use Competitions to gather Data and to increase audience size
+
+Submission then voting
+
+### Prizes
+
+Greave prize
+
+Kneepad
+
+Kevlar

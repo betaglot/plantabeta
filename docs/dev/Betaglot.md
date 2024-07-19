@@ -59,6 +59,22 @@ Passing
 - Play diagram [InsertImage]
 - MotoPhrase
 
+## 🔷<beta>Bike Courier</beta> ()
+
+### BetaAnalogy
+
+🔷<beta>Beta: BetaDiagram=PlayDiagram,</beta>
+
+💜<neuro>Neuro: </neuro>
+
+🟩<eco>Eco: =Opponent</eco>
+
+🟠<moto>Moto: </moto>
+
+🔻<via>Via: </via>
+
+- <https://www.pactimo.com/blogs/cycling-people-places-things/glossary-of-cycling-terminology>
+
 ## 🔷 Freestyle BMX (BMXbeta)
 
 ### BetaAnalogy
@@ -252,10 +268,16 @@ Enter the System
 
 🟠<moto>Moto: </moto>
 
+- Deep squat while leaning into turn.
+
 🔻<via>Via: </via>
 
+#### TeamBeta in Hockey
+
+- DumpAndChase
+- AttackTriangle
+- TheTrap, the Trapezoid
 - Play diagram [InsertImage]
-- Deep squat while leaning into turn.
 
 ## 🔷 Javelin (JavelinBeta)
 
@@ -533,3 +555,17 @@ Planting while your body is moving away or towards hole
 🟠<moto>Moto: </moto>
 
 🔻<via>Via: </via>
+
+::: DesignBox
+
+## Dev Notes
+
+- Betaglot needs to be able to translate into and from Mentalese
+- Betaglot Motons use OtherSportBeta
+    - Apex of SpadeSlam is TrampBeta while Spade impact is DiveBeta. SpadeSwing is RingsBeta. Legs are doing DanceBeta Foutette at Slam.Apex to move body and to counteract any offbalancing forces from SpadeSwing
+- Compulsory Elements
+    - The superclass of Elements is Apparatus since most elements. Apparatus is an Econ.
+    - ElementGraph is not just Moto, nodes can be any of the BetaFactors. Econ branches down into neuro or moto
+- CheerBeta see Dallas Cowboys Cheerleaders
+- (BetaQuotient)InsteadOf(BetaIndex,BetaScore)
+:::

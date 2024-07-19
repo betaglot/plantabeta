@@ -3,6 +3,10 @@
 
 ## Differences between Awareness and Attention
 
+## Equanimity from Selflessness
+
+- Pinpoint exactly what part of awareness that you dislike then lean into it. Be curious about it, then experience it passing away and notice that isn't the center, since there is no center
+
 ::: details 🛠 <dev>&&&</dev>
 
 ## DevNotes
