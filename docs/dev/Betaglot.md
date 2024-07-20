@@ -2,6 +2,14 @@
 
 ![Betaglot_Logo](/Betaglot_Logo.png)
 
+::: tip The Beta Instinct
+
+[The Language Instinct](https://stevenpinker.com/publications/language-instinct-19942007) by Steven Pinker
+
+All animals instinctively use beta and communicate it too
+
+:::
+
 ## What does <beta>Betaglot</beta> mean?
 
 > beta + glot
@@ -560,6 +568,7 @@ Planting while your body is moving away or towards hole
 
 ## Dev Notes
 
+- Climber to Planter group program. The Climbing Instructor stays with the group as they become planters. The Instructor already has rapport with the planters before the season starts and the planters have already become friends.
 - Betaglot needs to be able to translate into and from Mentalese
 - Betaglot Motons use OtherSportBeta
     - Apex of SpadeSlam is TrampBeta while Spade impact is DiveBeta. SpadeSwing is RingsBeta. Legs are doing DanceBeta Foutette at Slam.Apex to move body and to counteract any offbalancing forces from SpadeSwing

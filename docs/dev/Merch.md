@@ -33,3 +33,9 @@ Joker is
 ## Stickers
 
 ## Sculpture
+
+## Clothes
+
+Custom Designed or Patagonia
+
+- Leggings

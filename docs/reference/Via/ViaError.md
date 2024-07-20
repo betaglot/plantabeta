@@ -1,11 +1,25 @@
 
 # 🔻 <via>ViaError</via>
 
-## CoverError
+## PathError
 
-- Deadwalking
-- GhostLine
--
+### Staircase LineIn
+
+- Backfill the area within each 'step' to convert the staircase to a single diagonal line.
+
+### Deadwalking
+
+::: warning
+Deadwalking isn't always an error
+:::
+
+### GhostLine
+
+::: warning
+
+GhostLine isn't always an error
+
+:::
 
 ### ViaSpaceOverlapError
 
@@ -29,7 +43,7 @@
 
 ## DevNotes
 
--
+- Don't step on dead bark
 
 ## DevState
 

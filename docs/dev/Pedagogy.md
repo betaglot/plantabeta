@@ -36,3 +36,11 @@ The best way to reduce the CurseOfKnowledge is to check the user's knowledge fre
 ### UI ToReduceCurseOfKnowledge
 
 - Tooltips like Wikipedia On(Hover)
+
+## Screefing Lesson
+
+Use the sand at 10cm below surface for SpadeScreef, since it's a similar density to the soil on the block, unlike the loose dry surface sand.
+
+## Pacer
+
+Use an ExperiencedPlanter to act as a Pacer for NovicePlanters. To show the speed goal speed. Be sure that the Pacer isn't competing with the Novices, that is, the Pacer must not try to constantly go faster than the novices.

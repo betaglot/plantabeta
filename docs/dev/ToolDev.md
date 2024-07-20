@@ -7,6 +7,7 @@ The most important constraint for Tools is the space it takes in the Truck.
 
 ## 🔻<via>Flag</via>
 
+- Flag is a source of income for PutPlant
 - Paper Trombone to lock flag like a Bookmark
     - ![BookMark](/dev/Bookmark.jpg)
 

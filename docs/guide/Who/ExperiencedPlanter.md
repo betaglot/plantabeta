@@ -31,6 +31,37 @@ Company Highballer
 
 - Planters like Antoine Moses who planted over 23,000 trees in a single day.
 
+## What will be your planting Legacy?
+
+![TheBear_Legacy](/guide/TheBear_Legacy.png)
+
+The Bear, Season 3, Episode 7 "Legacy"
+
+> [Marcus] What’s, uh, “legerdemain”?
+
+> [Carmy] It’s French for “sleight of hand.”
+
+> [Marcus] Magic.
+
+> [Carmy] Yeah. To push a dish further.
+
+> [Marcus] I bet these dudes pushed each other.
+
+> [Carmy] They would talk a lot about legacy.
+
+> [Marcus] What, like, the dishes they made?
+
+> [Carmy] Yeah. But also, like, who they would work with, you know, and what they would go on to do.
+ Like, something would start somewhere, and then, people would take that thing and then they would take it somewhere else. So, all these parts of an original restaurant, they would end up at a new restaurant, and that kind of thing. That would happen over and over again. And then all these parts of all these restaurants,they would sort of, you know, they would find each other. And then new people would take those parts and they would put them into their restaurant.And the whole thing, it would start to happen all over again.
+
+> [Marcus] So, like a family tree or something?
+
+> [Carmy] Yeah. Yeah, exactly.
+
+> ...
+
+> [Carmy] If I were gonna leave something behind, I would want it to be panic-less, you know?
+
 ::: details 🛠 <dev>&&&</dev>
 
 ## DevNotes

@@ -2,6 +2,8 @@
 
 > It Hits. It landed. It connected with the audience crowd viewers.
 
+> **Put** the word out
+
 ::: danger
 
 Social Media is dangerous for mental health.
@@ -42,12 +44,24 @@ King Kong Reforestation
 
 Use Competitions to gather Data and to increase audience size
 
+Remove Land as a variable. Judge by Moto and Via
+
 Submission then voting
 
 ### Prizes
 
-Greave prize
+#### ToolPrize
 
-Kneepad
+- Greave
+- Water Jug
+- Kneepad
+- Kevlar
+- Cool Leggings
 
-Kevlar
+#### MoneyPrize
+
+- Use VossNumbers
+
+#### NovicePlanterPrize
+
+#### ExperiencedPlanterPrize

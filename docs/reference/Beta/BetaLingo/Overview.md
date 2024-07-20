@@ -1,5 +1,5 @@
 
-# 🔷 <beta>BetaComm</beta>
+# 🔷 <beta>BetaLingo</beta>
 
 Beta Spoken or written in a Natural Language.
 

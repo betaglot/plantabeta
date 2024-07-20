@@ -59,7 +59,7 @@
 
 ## Related 🟩<eco>EcoFactors</eco>
 
--
+- Blade gets stuck into root near stump, especially near a stump cluster.
 
 ## Related 🔻<via>ViaFactors</via>
 
