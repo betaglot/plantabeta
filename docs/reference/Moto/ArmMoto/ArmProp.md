@@ -48,7 +48,7 @@
 - ArmPosition
     - <via>ArmAboveShoulder</via>
 
-## BetaGraph
+## BetaWeb
 
 <iframe
     width="100%"

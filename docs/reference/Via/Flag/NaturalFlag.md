@@ -34,7 +34,7 @@ Answer 3
 
 -
 
-## BetaGraph
+## BetaWeb
 
 <iframe
     width="100%"

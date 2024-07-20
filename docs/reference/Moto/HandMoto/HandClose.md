@@ -1,15 +1,6 @@
 
 # 🟠 <moto>HandClose</moto>
 
-<div style="display: flex; width: %100; margin-top: 50px;">
-    <div style="margin: 5px; width: 50%">
-        <img height="350" width="350" alt="HandClose" src="/Moto/HandClose.png"/>
-    </div>
-    <div style="margin: 5px; width: 50%">
-        <p >Description of Moto. How the moto got its name. The purpose of the moto. Common misconceptions about the moto. How to differentiate this moto from another similar moto</p>
-    </div>
-</div>
-
 ## Element Problem
 
 -
@@ -28,22 +19,6 @@
 
 ## <moto>Moto Phrase</moto>
 
-<div style="display: flex">
-    <div>
-        <img style="margin: 5px" height="200" width="200" alt="Icon" src="/Moto/Moto_Icon.png"/>
-        <p>Description of Moto Photo</p>
-    </div>
-    <div>
-        <img style="margin: 5px" height="200" width="200" alt="Icon" src="/Moto/Moto_Icon.png"/>
-        <p>Description of Moto Photo</p>
-    </div>
-    <div>
-        <img style="margin: 5px" height="200" width="200" alt="Icon" src="/Moto/Moto_Icon.png"/>
-        <p>Description of Moto Photo</p>
-    </div>
-
-</div>
-
 ## Element Purpose
 
 -
@@ -52,7 +27,7 @@
 
 - Tamp
 
-## BetaGraph
+## BetaWeb
 
 <iframe
     width="100%"
@@ -106,7 +81,7 @@ Links to other related motos. Related because they are the same MotoType or beca
 
 ## DevNotes
 
--
+- SlapClose
 
 ## DevState
 

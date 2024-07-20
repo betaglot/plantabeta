@@ -10,6 +10,10 @@ Social Media is dangerous for mental health.
 
 :::
 
+## Reddit
+
+[r/treeplanting](https://www.reddit.com/r/treeplanting/)
+
 ## Youtube
 
 ## Instagram

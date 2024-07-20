@@ -50,6 +50,8 @@ They are currently capable of performing all beta, there are no prerequisites to
 
 Steven Pinker [The Sense of Style: A Thinking Person's Guide to Writing in the 21st Century](https://stevenpinker.com/publications/sense-style-thinking-persons-guide-writing-21st-century)
 
+Cambridge grammar 2002 Huddleston
+
 Show don't tell
 
 Reader and writer are intellectual equals

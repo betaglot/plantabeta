@@ -1,6 +1,12 @@
 
 # 🟩 <eco>EcoSpace</eco>
 
+## DripSpace
+
+The Space under a tree's canopy, which can't be planted.
+
+DripLine
+
 ## Block
 
 ## Piece

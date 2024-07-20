@@ -2,9 +2,13 @@
 
 ## ❌ Team.Error
 
-### ❌ Team.Error.Moto
+### ❌ Team.Error.Eco 🟩<eco></eco>
 
-### ❌Team.Error.Via
+Unbundle heuristic during team plant block close
+
+### ❌ Team.Error.Moto 🟠<moto></moto>
+
+### ❌Team.Error.Via 🔻<via></via>
 
 - Leapfrog
 - Cornering
@@ -14,7 +18,7 @@
 - Teammates are too close together
 - Cream Out: Being Greedy
 
-### Team.Error.Neuro
+### Team.Error.Neuro 💜<neuro></neuro>
 
 - Misscommunication
 - Uncommunication

@@ -35,7 +35,7 @@ Protect is more semantically accurate then Obstacle.
 
 ## DevNotes
 
--
+- Snowpatch is an Obstacle
 
 ## DevState
 

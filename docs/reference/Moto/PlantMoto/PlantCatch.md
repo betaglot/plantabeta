@@ -47,7 +47,7 @@ The Plant can be moving towards you or the Plant can be stationary while you mov
 
 -
 
-## BetaGraph
+## BetaWeb
 
 <iframe
     width="100%"

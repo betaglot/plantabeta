@@ -64,7 +64,7 @@ HubermanLab Guest Series [with Dr. Matt Walker](https://www.youtube.com/playlist
 
 -
 
-## BetaGraph
+## BetaWeb
 
 <iframe
     width="100%"

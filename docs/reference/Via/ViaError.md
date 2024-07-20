@@ -1,6 +1,10 @@
 
 # 🔻 <via>ViaError</via>
 
+## CoverError
+
+- Sidefill instead of BackFill, which results in U shape that has a propensity to pinch.
+
 ## PathError
 
 ### Staircase LineIn

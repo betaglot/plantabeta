@@ -46,7 +46,7 @@
 
 -
 
-## BetaGraph
+## BetaWeb
 
 <iframe
     width="100%"

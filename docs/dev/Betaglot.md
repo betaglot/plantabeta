@@ -568,6 +568,7 @@ Planting while your body is moving away or towards hole
 
 ## Dev Notes
 
+- Consilience, Interdisciplinary
 - Climber to Planter group program. The Climbing Instructor stays with the group as they become planters. The Instructor already has rapport with the planters before the season starts and the planters have already become friends.
 - Betaglot needs to be able to translate into and from Mentalese
 - Betaglot Motons use OtherSportBeta

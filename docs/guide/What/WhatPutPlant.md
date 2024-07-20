@@ -117,6 +117,7 @@ If you're an Experienced Planter, then 🔷<beta>Put(<eco>Plant</eco>)</beta> gi
 - You can plant trees without Beta. Put(Plant) isn't required to plant
 - Put(Plant) is written like a computer programming language function since it's the application of computational thinking.
 - PutPlant.com is only used for learning and research. It's not meant to be used everyday by planters. People don't use textbooks everyday.
+- Shift the Color of Plantations towards green
 
 ## DevState
 

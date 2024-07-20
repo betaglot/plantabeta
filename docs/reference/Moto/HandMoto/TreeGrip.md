@@ -68,7 +68,7 @@
     </div>
 </div>
 
-## BetaGraph
+## BetaWeb
 
 <iframe
     width="100%"
