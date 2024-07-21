@@ -99,7 +99,7 @@ Links to other related EcoFactors. Related because they are the same EcoType or 
 
 ## DevNotes
 
--
+- Remember the start tree in your plot, pick one which is distinctive
 
 ## DevState
 

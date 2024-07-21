@@ -135,7 +135,7 @@ function sidebarGuide() {
     },
     {
       text: 'Purpose', collapsed: false, items: [
-        { text: '🔥<eco>To Replant Burnt Land</eco>', link: '/guide/Why/Wildfire' },
+        { text: '🔥<eco>To Support Ecosystems</eco>', link: '/guide/Why/SupportEcosystem' },
         { text: '🟠<moto>To Reduce Injury</moto>', link: '/guide/Why/Injury' },
         { text: '🔻<via>To Increase Productivity</via>', link: '/guide/Why/Productivity' },
         { text: '🔷<beta>To Improve Communication</beta>', link: '/guide/Why/Communication' },

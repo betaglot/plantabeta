@@ -71,7 +71,9 @@ Links to other related NeuroFactors.
 
 ## DevNotes
 
--
+- Treefault is loss
+    - Fear of loss
+    - Fear of replant
 
 ## DevState
 

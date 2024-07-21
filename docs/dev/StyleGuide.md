@@ -261,21 +261,6 @@ Boolean
 Delete tags once converted to headers. They are stored in a JSON
 
 ```md
-::: details 🛠 <dev>&&&</dev>
-
-## DevNotes
-
--
-
-## DevState
-
-```py
-`TagsToHeaders: False`
-```
-
-:::
-
-```md
 
 ### 🟠 <dev>DesignBox</dev><moto>.Moto</moto>
 

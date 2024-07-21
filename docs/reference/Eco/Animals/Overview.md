@@ -5,7 +5,8 @@
 
 ## DevNotes
 
--
+- Ticks
+    - CrummyComb and Comb Cleaner to prevent spreading lice
 
 ## DevState
 

@@ -9,7 +9,9 @@
 
 ## DevNotes
 
--
+- Treefault is loss
+    - Fear of loss
+    - Fear of replant
 
 ## DevState
 

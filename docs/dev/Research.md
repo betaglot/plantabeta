@@ -1,5 +1,6 @@
+# 🛠 Research
 
-# 🛠 Questions about Planting and Put(Plant)
+## Questions about Planting and Put(Plant)
 
 - What is the cyclist cone helmet of planting?
 - What is the ratio between HoleOpen and HoleClose, for NovicePlanter, ExperiencedPlanter, and on all the LandTypes?
@@ -75,3 +76,15 @@
 - Why do Planters use spades instead of hoes?
 - What is the difference between a spade and a Spade?
 -
+
+## DataCollection
+
+### Video Research
+
+Have something like the film clapper to reference notes to specific trees,
+
+Example you find something that you want to comment on, so you shoe the camera a number or some kind of identifier then you also reference it in your audio and later text
+
+Does text to speech work offline?
+
+I should wear a mic at

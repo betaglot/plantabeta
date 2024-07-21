@@ -151,6 +151,8 @@ Directions
 
 ## DevNotes
 
+- Request cache move
+- SquirrelCache -> PieceCache
 - Via layer
 - Via is superimposed onto eco
 - "Out of the way" Detour

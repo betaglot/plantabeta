@@ -48,6 +48,10 @@ Link to Youtube
 
 ## Instagram
 
+### Partnerships
+
+- <https://www.instagram.com/antomosplant/?hl=en>
+
 ### Triplet carousel
 
 1. Image

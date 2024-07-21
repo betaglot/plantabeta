@@ -1,5 +1,5 @@
 
-# 🟠 <moto>TreeLoad</moto>
+# 🟠 <moto>GetTree</moto>
 
 ![MotoIcon](/Moto/Moto_Icon.png)
 
@@ -76,9 +76,9 @@ Quotes about this Moto
 
 > Quote
 
-## MotoErrors
+## GetTree.Error
 
-- Ways that this Moto could be performed in correctly, causing injury or causing inefficiencies.
+- Don't look at hand during get tree
 
 ## Examples
 

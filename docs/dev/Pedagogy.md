@@ -56,3 +56,21 @@ Use an ExperiencedPlanter to act as a Pacer for NovicePlanters. To show the spee
     - 4 Endurance Batteries Charger
 
 ## How would instructor fit into deadlines?
+
+## Cohort
+
+Teaching TeamBeta is more practical than individuals
+
+## Teaching Block, Teaching Piece
+
+Set up a piece
+
+InstructionalPiece
+
+Flag the stations
+
+## Send in your work to be Evaluated
+
+Submit image of drawing for testing
+
+- Draw a BetaDiagram

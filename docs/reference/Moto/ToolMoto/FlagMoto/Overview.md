@@ -28,7 +28,7 @@ Flags are posted throughout the land.
 
 ## DevNotes
 
--
+- Shovel hand flag grip is obsolete from a time before flag pouch 
 
 ## DevState
 

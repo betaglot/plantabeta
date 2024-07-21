@@ -492,6 +492,8 @@ Most Planting companies probably already use Excel all the time. Many Planters k
 
 How to create a package in Python?
 
+## BatchProcessing
+
 ::: details 🛠 <dev>&&&</dev>
 
 - ComputationalModel
