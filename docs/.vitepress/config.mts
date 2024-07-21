@@ -49,11 +49,13 @@ function sidebarDevelopment() {
     { text: '<dev>Contact</dev>', link: '/dev/Contact' },
     { text: '<dev>Academia</dev>', link: '/dev/Academia' },
     { text: '<dev>Art</dev>', link: '/dev/art/Overview' },
+    { text: '<dev>👩‍💻 BePython</dev>', link: '/dev/BePython' },
     { text: '<dev>Contribute</dev>', link: '/dev/Contribute' },
     { text: '<dev>Downloads</dev>', link: '/dev/Downloads' },
     { text: '<dev>DX</dev>', link: '/dev/DX' },
-    { text: '<dev>ElementsGraph</dev>', link: '/dev/ElementsGraph' },
+    { text: '<dev>ElementGraph</dev>', link: '/dev/ElementsGraph' },
     { text: '<dev>Filming</dev>', link: '/dev/Filming' },
+    { text: '<dev>GoPro</dev>', link: '/dev/GoPro' },
     {
       text: '<dev>Graphics</dev>', collapsed: true, items: [
         { text: '<dev>Overview</dev>', link: '/dev/Graphics/Overview' },

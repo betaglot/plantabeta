@@ -1,5 +1,7 @@
 # BePython
 
+Build a Computational Model of Beta
+
 ::: warning
 
 UsePython code will be on github (where the programmers are), BePython is for non-programmers
@@ -21,6 +23,18 @@ BePython has alot of f strings
 class Arm(Moto):
 
 > Computer
+
+## Klimbeta.py
+
+Climb({})
+
+Insert the route
+
+Route is composed of Via and Eco and sometimes Moto if for the StartPosition
+
+Pass a Route as an argument to the Climb() method
+
+Users can use a form instead of writing a dict
 
 ## BePython, Analogy between Python and Planting
 
@@ -493,6 +507,16 @@ Most Planting companies probably already use Excel all the time. Many Planters k
 How to create a package in Python?
 
 ## BatchProcessing
+
+## Examples
+
+```py
+
+>>> ZigzagPath(5)
+
+# ZigzagPath a slope 5 wide
+
+```
 
 ::: details 🛠 <dev>&&&</dev>
 

@@ -1,4 +1,3 @@
-
 # 🔻 <via>Zigzag Curve</via>
 
 ![ViaIcon](/Via/Via_Icon.png)
@@ -70,6 +69,9 @@ Links to other related ViaFactors.
 ::: details 🛠 <dev>&&&</dev>
 
 ## DevNotes
+
+- ZigzagPath(5)
+    -ZigzagPath a slope 5 wide
 
 - ZigzagDensity
     - Number of inflection points

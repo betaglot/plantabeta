@@ -22,12 +22,12 @@ The most important constraint for Tools is the space it takes in the Truck.
 Stick them together with honey like cheap bookbinding
 Wax to waterproof
 
-## 🟠<moto>Cart</moto>
+## 🟠<moto>CartDev</moto>
 
 - WalkIn
 - BoxMoto
 
-## 🟠<moto>Planter Bags</moto>
+## 🟠<moto>Planter BagsDev</moto>
 
 ::: warning Obsolete Name
 Don't call them bags anymore
@@ -43,24 +43,24 @@ Partially Disassemble to reduce space
 
 `Analogy{Saddle: PlanterBag}`
 
-### 🟠<moto>Bag Material</moto>
+### 🟠<moto>Bag MaterialDev</moto>
 
 - Not plastic
 - Carbon Fiber
 -
 
-### 🟠<moto>Corset</moto>
+### 🟠<moto>CorsetDev</moto>
 
 - Planters wear a corset under their waist belt like a saddle pad
 - Corset restricts BendOver
 
-### 🟠<moto>Waistbelt</moto>
+### 🟠<moto>WaistbeltDev</moto>
 
 - Suspension System
 
-### 🟠<moto>BasketWall</moto>
+### 🟠<moto>BasketWallDev</moto>
 
-### 🟠<moto>BagFrame</moto>
+### 🟠<moto>BagFrameDev</moto>
 
 They should be rigid and woven
 
@@ -90,7 +90,7 @@ Make cardboard prototype.
 
 "Lay up"
 
-### 🟠<moto>BagSkeleton</moto>
+### 🟠<moto>BagSkeletonDev</moto>
 
 Pannier
 
@@ -98,7 +98,7 @@ Pannier
 - To keep sidebags from rubbing on legs.
 - Suspension system
 
-### 🟠<moto>BackBag Flap</moto>
+### 🟠<moto>BackBag FlapDev</moto>
 
 - Use waterproof Flap instead of sphincter design, since sphincter allows water to collect and slowly seep into backbag.
 - Pocket on underside of Flap
@@ -111,15 +111,17 @@ Pannier
 - You only need to worry about the back of your hands. Glabrous warms the palm
 - Wool lining
 
-### 🟠<moto>Flagger</moto>
+### 🟠<moto>FlaggerDev</moto>
 
 Ideally there would be a Flagger on each Vambrace
 
-## 🟠<moto>Rope</moto>
+## 🟠<moto>RopeDev</moto>
 
 Rope to transport the tools
 
-### 🟠<via>PlotCord</via>
+### <moto>🟠PlotCord</moto>
+
+- Storage within Bags accessible with bags on.
 
 ### 🟠<eco>Lashing(SummerCache)</eco>
 
@@ -127,13 +129,13 @@ Lashing requires a thinner rope than
 
 Use Hemp Lashing so you can leave the sticks to decompose
 
-### <moto>Abrasion Resistant Material</moto>
+### <moto>Abrasion Resistant MaterialDev</moto>
 
 Cordura or Kevlar
 
 - <https://www.testextextile.com/evaluating-the-abrasion-resistance-of-different-fabric-types/#Most_Abrasion-Resistant_Synthetic_Fibers>
 
-## 🟠<moto>Kit</moto>
+## 🟠<moto>KitDev</moto>
 
 Long thin bag is easier to sit with
 
@@ -162,9 +164,9 @@ Protein Powder Cookies
 
 ### Dirty Gloves
 
-## <moto>Water Volume</moto>
+## <moto>Water VolumeDev</moto>
 
-## 🟠<moto>PlanterSuit</moto>
+## 🟠<moto>PlanterSuitDev</moto>
 
 ### Design Constraint
 
@@ -190,15 +192,16 @@ SuitParts = [
 
 ```
 
-### 🟠<moto>Gaiter</moto>
+### 🟠<moto>GaiterDev</moto>
 
 - Wire stirrup,not woven
 - Extra padding to strengthen attachment point and to prevent erosion from metal wire from rubbing on boot leather.
 - Big zipper
 -
 
-### 🟠<moto>Glove</moto>
+### 🟠<moto>GloveDev</moto>
 
+- Gloveon() ThumbTab
 - SplitMitt Shell
     - Easier to repair
     - Keep fingers warmers by pairing them
@@ -214,7 +217,7 @@ SuitParts = [
 - Glove which does not collect dirt unlike the knitted gloves currently used by most planters
 - Easily taken off without getting dirt inside
 
-### 🟠<moto>Vambrace</moto>
+### 🟠<moto>VambraceDev</moto>
 
 ::: tip AlsoKnownAs
 Bracer, Gauntlet,
@@ -237,13 +240,13 @@ The goal of vambrace is to keep the hand clean and warm. There isn't a need to p
 
 #### Lightyear Notepad
 
-### 🟠<moto>Jacket</moto>
+### 🟠<moto>JacketDev</moto>
 
 <https://www.patagonia.ca/product/hose-down-slicker-jacket/27892.html?dwvar_27892_color=CMPO>
 
 ![Canada-Goose-Straps](/Moto/Canada-Goose-Straps.png)
 
-#### 🟠<moto>Hood</moto>
+#### 🟠<moto>HoodDev</moto>
 
 Put your Hood up
 
@@ -251,7 +254,7 @@ Planting with a Hood up reduces Hearing and Vision
 
 Windy
 
-### 🟠<moto>Bellow Backpack</moto>
+### 🟠<moto>Bellow BackpackDev</moto>
 
 Bellow which blows air into shirt for evaporative cooling during summer
 

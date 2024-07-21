@@ -568,6 +568,7 @@ Planting while your body is moving away or towards hole
 
 ## Dev Notes
 
+- Beta diagram of each interdisciplinary, show where each of the modules is on their
 - Contradiction is confusing. A Benefit of canon is convention
 - Consilience, Interdisciplinary
 - Climber to Planter group program. The Climbing Instructor stays with the group as they become planters. The Instructor already has rapport with the planters before the season starts and the planters have already become friends.

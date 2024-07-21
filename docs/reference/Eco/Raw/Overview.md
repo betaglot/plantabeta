@@ -1,5 +1,7 @@
 # 🟩 <eco>RawLand</eco>
 
+RawLand not RawEco because there is no way to Prep the Eco.Atmosphere
+
 ::: details 🛠 <dev>&&&</dev>
 
 ## DevNotes
