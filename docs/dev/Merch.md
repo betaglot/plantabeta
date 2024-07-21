@@ -8,23 +8,87 @@ Scantily clad Planters
 
 ## Playing Cards
 
-Spade is a Spade (Moto Objects)
+No genders
 
-Heart is Neuro Objects
+### <moto>Spade: SpadeMoto</moto>
 
-Diamond is Beta Objects
+- Ace:
+- 2:
+- 3:
+- 4:
+- 5:
+- 6:
+- 7:
+- 8:
+- 9:
+- 10:
+- J:
+- Q:
+- K:
 
-Club is Eco Objects
+### <neuro>Heart: Neuro</neuro>
 
-King is
+Focus on Emotion and feeling, not abstract computations
 
-Queen is
+- Ace:
+- 2: RookieStare
+- 3:
+- 4:
+- 5:
+- 6:
+- 7:
+- 8:
+- 9:
+- 10:
+- J:
+- Q:
+- K:
 
-Ace is a Highballer
+### <via>Diamond: Via</via>
 
-Joker is
+- Ace:
+- 2:
+- 3:
+- 4:
+- 5:
+- 6:
+- 7:
+- 8:
+- 9:
+- 10:
+- J:
+- Q:
+- K:
+
+### <eco>Club: Econs</eco>
+
+- Ace: Cream
+- 2:
+- 3:
+- 4:
+- 5:
+- 6:
+- 7:
+- 8:
+- 9:
+- 10:
+- J:
+- Q:
+- K:
+
+Joker: Rock under cream
+
+## Mural
+
+- Bayeux Tapestry
 
 ## Poster
+
+- Achievements Poster
+- ElementWeb
+- ElementTree
+- Moto, Via, Eco, Neuro, Beta
+- Betaglot Logo
 
 ## Video
 

@@ -44,3 +44,15 @@ Use the sand at 10cm below surface for SpadeScreef, since it's a similar density
 ## Pacer
 
 Use an ExperiencedPlanter to act as a Pacer for NovicePlanters. To show the speed goal speed. Be sure that the Pacer isn't competing with the Novices, that is, the Pacer must not try to constantly go faster than the novices.
+
+## Pedagogy Tools
+
+- Crew GoPro set
+    - ChestMount
+    - Tripod
+    - TreeMount
+    - HeadMount
+    - 2 Cameras Hero 9+
+    - 4 Endurance Batteries Charger
+
+## How would instructor fit into deadlines?

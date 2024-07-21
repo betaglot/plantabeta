@@ -115,6 +115,10 @@ Neuro is
 
 Eco is weather, if you are in fog you can't see eco. Remember that eco is the object of environment, which always exists. Eco requires perception. Eco requires Neuro
 
+## Beta.Error
+
+There is a miscommunication happening if:
+
 ::: details 🛠 <dev>&&&</dev>
 
 [BetaSequence](https://docs.python.org/3/library/stdtypes.html#sequence-types-list-tuple-range)

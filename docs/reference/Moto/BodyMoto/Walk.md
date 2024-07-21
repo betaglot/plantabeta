@@ -1,4 +1,3 @@
-
 # 🟠 <moto>Walk</moto>
 
 ![MotoIcon](/Moto/Moto_Icon.png)
@@ -114,7 +113,7 @@ Links to other related motos. Related because they are the same MotoType or beca
 
 ## DevNotes
 
--
+- LengthenStep() mid step Or ShortenStep()
 
 ## DevState
 

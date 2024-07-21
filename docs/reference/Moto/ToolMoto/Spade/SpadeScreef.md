@@ -98,19 +98,18 @@ Links to other related motos. Related because they are the same MotoType or beca
 
 ## DevNotes
 
--
+- SpadeXScreef
+    - ShaftHand crosses from left to right while screefing, making an X with the shaft and also an X shaped screef on the ground
+    - Use when screefing through a thick layer of duff which is collapsing into the site
+    - Use when screefing through a loose layer of duff to search for the best microsite
+- Arm wrestling screef. ArmLock then use your whole body
+- Screefed eco goes through legs. 5 Hole
 
 ## DevState
 
 ```py
 `TagsToHeaders: False`
 ```
-
-- SpadeXScreef
-    - ShaftHand crosses from left to right while screefing, making an X with the shaft and also an X shaped screef on the ground
-    - Use when screefing through a thick layer of duff which is collapsing into the site
-    - Use when screefing through a loose layer of duff to search for the best microsite
-- Arm wrestling screef. ArmLock then use your whole body
 
 <h2>PageTags</h2>
 

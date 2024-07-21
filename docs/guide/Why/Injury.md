@@ -52,6 +52,9 @@ A greater knowledge of possible alternative moves can prevent Christmas Toe from
 
 ## DevNotes
 
+- Athleanx  reverse lunge is easier on knees into trenches
+- Planting doesnt nake you jacked but what if did
+    - Non monetary Benefit
 - TriggerFinger
 - The Claw hand
 - Antagonist Workout for planters: More fatigued, less injured. Balanced Fatigue across body, not just muscles used for planting.

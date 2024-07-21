@@ -34,3 +34,12 @@ features:
     details: How Waking Up is relevant to PutPlant
     link: /dev/WakingUp
 ---
+
+<!-- 
+
+## DevNotes
+
+- Gif of multiple HandPut() on home page
+- Probably use canva
+
+ -->
