@@ -1,5 +1,7 @@
 # Betaglot
 
+Golden Age of Planting
+
 ![Betaglot_Logo](/Betaglot_Logo.png)
 
 ::: tip The Beta Instinct
@@ -65,17 +67,18 @@ Passing
 🔻<via>Via: </via>
 
 - Play diagram [InsertImage]
+    - Planted trees are like teammates in play diagrams 
 - MotoPhrase
 
 ## 🔷<beta>Bike Courier</beta> ()
 
 ### BetaAnalogy
 
-🔷<beta>Beta: BetaDiagram=PlayDiagram,</beta>
+🔷<beta>Beta: </beta>
 
 💜<neuro>Neuro: </neuro>
 
-🟩<eco>Eco: =Opponent</eco>
+🟩<eco>Eco: </eco>
 
 🟠<moto>Moto: </moto>
 
@@ -397,6 +400,30 @@ Enter the System
 
 - Gifs of Plays
     - <https://rugbyslate.com/attacking/attacking-against-a-blitz-defence/>
+
+## 🔷 ScooterBeta
+
+### BetaAnalogy
+
+🔷<beta>Beta: </beta>
+
+💜<neuro>Neuro: </neuro>
+
+🟩<eco>Eco: </eco>
+
+🟠<moto>Moto: </moto>
+
+Scooter space move is like SpadeMoto
+
+SpadeWhip
+
+Whip and rotate
+
+What is the name if the scooters' shaft?
+
+🔻<via>Via: </via>
+
+
 
 ## 🔷 ShotPut (ShotPutBeta)
 

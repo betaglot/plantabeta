@@ -5,8 +5,19 @@ The most important constraint for Tools is the space it takes in the Truck.
 ![TreePlanter](/TreePlanter001.jpg)
 ![TreePlanter](/TreePlanter.jpg)
 
+## 🔷<beta>BetaTrailer</beta>
+
+A trailer loaded with everthing that PLANTERS need for their season. For planters only, not for company logistics like water purification or showers or kitchen.
+
+### Analogous to
+
+- GearRoom
+- GearShed
+- GearCloset
+
 ## 🔻<via>Flag</via>
 
+- Wooden staple for flag
 - Flag is a source of income for PutPlant
 - Paper Trombone to lock flag like a Bookmark
     - ![BookMark](/dev/Bookmark.jpg)
@@ -26,6 +37,12 @@ Wax to waterproof
 
 - WalkIn
 - BoxMoto
+
+## 🟠<moto>Dory</moto>
+
+Greek for Spear
+
+Lash D to Dory
 
 ## 🟠<moto>Planter BagsDev</moto>
 
@@ -143,6 +160,8 @@ Theres air space between planter and the seat in front of them
 
 V shape center contact between feet
 
+Cover water with insulation layer at cache
+
 What could go at base
 
 - Water container in base so that it doesn't crush or leak onto contents and so weight is close to hips
@@ -245,6 +264,8 @@ The goal of vambrace is to keep the hand clean and warm. There isn't a need to p
 <https://www.patagonia.ca/product/hose-down-slicker-jacket/27892.html?dwvar_27892_color=CMPO>
 
 ![Canada-Goose-Straps](/Moto/Canada-Goose-Straps.png)
+
+Aang airbender lines for motion capture
 
 #### 🟠<moto>HoodDev</moto>
 

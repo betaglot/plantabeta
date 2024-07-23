@@ -1,5 +1,14 @@
 # Marketing
 
+::: tip
+
+The closest step isnt forestry, its writing
+
+- Journalism
+- Screenwriting
+
+:::
+
 > It Hits. It landed. It connected with the audience crowd viewers.
 
 > **Put** the word out
@@ -9,6 +18,10 @@
 Social Media is dangerous for mental health.
 
 :::
+
+## Podcast
+
+Crummy Podcast
 
 ## Newsletter
 
@@ -45,6 +58,14 @@ Link to Youtube
 [r/treeplanting](https://www.reddit.com/r/treeplanting/)
 
 ## Youtube
+
+Shoutout to Subscribers.
+
+How to get identifer into land for follower, ie how to visually show followers in the land?
+
+- Display on your phone and hold up to camera
+
+### ASMR planting sounds
 
 ## Instagram
 

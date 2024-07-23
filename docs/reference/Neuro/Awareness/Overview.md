@@ -11,7 +11,7 @@
 
 ## DevNotes
 
--
+- You don't need to pay attention to look where you're going 
 
 ## DevState
 

@@ -54,3 +54,8 @@ Edit into multiple formats: Shorts=Reel, Gif, Carousel, Over 20 min
 Use OpenCV in Python to tag Video timestamps
 
 To Put boxes around MotoObject or EcoObjects
+
+
+## Privacy
+
+Make an incredibles mask for planters

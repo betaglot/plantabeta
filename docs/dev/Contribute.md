@@ -101,6 +101,13 @@ If you decide that you’d like to get more involved, then there are some opport
 
 ## Video Contribution
 
+::: info
+Upload videos on YouTube then download for processing
+
+Put "PutPlant" in the title
+
+:::
+
 <https://support.submit.shutterstock.com/s/article/How-do-I-submit-video-for-review?language=en_US>
 
 ### Video MetaData

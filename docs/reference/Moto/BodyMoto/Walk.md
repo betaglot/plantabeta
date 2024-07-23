@@ -42,6 +42,16 @@
 
 ## Element Attributes
 
+### StepLength
+
+Small step on slab so nice steadicam torso is difficult due to high complexity geometry between spine torso shin hip
+
+Small step is less change between steps therefore less compensation each step
+
+Compensation is also less dynamic ie acceleration modulation is low. You don't need to monitor inframovement as much
+
+Aim small miss small. Larger moves have larger potential for error
+
 ## Subset of Walking
 
 ### WalkIn and WalkOut
@@ -114,6 +124,7 @@ Links to other related motos. Related because they are the same MotoType or beca
 ## DevNotes
 
 - LengthenStep() mid step Or ShortenStep()
+- StompTest when LogWalking
 
 ## DevState
 

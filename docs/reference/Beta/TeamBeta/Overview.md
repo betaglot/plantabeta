@@ -18,6 +18,15 @@ Unbundle heuristic during team plant block close
 - Teammates are too close together
 - Cream Out: Being Greedy
 
+
+Leave a line out of the area
+
+Team Via
+
+TeamVia instead of team cover
+
+Via is the only beta factor shared by team
+
 ### Team.Error.Neuro 💜<neuro></neuro>
 
 - Misscommunication

@@ -74,3 +74,17 @@ Flag the stations
 Submit image of drawing for testing
 
 - Draw a BetaDiagram
+
+## Video Analysis
+
+To understand what's going on in the planter video
+
+## Daily Questions
+
+To stay engaged in learning
+
+Question to ask themselves to not get bored without audio
+
+## 'Mentor' is too strong a word
+
+Have an Experienced Planter plant with novicePlanter as a practical demonstration and for confidence in quality

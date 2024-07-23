@@ -508,6 +508,16 @@ How to create a package in Python?
 
 ## BatchProcessing
 
+## BetaComposition
+
+Slot in elements 
+
+Insert elements is more Polyglot 
+
+Inserting is an essential action of composition 
+
+
+
 ## Examples
 
 ```py
