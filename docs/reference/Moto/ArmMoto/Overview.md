@@ -16,6 +16,18 @@
 - ArmLength
 - ArmStrength
 
+## Arm Name
+
+Call the arms by their function
+
+SemanticName
+
+PlantArm, Planter, Plantus
+
+SpadeArm, Spader, Spadus
+
+SpadeLimb
+
 ::: details 🛠 <dev>&&&</dev>
 
 ## DevNotes

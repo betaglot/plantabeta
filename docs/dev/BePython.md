@@ -510,13 +510,65 @@ How to create a package in Python?
 
 ## BetaComposition
 
-Slot in elements 
+Slot in elements
 
-Insert elements is more Polyglot 
+Insert elements is more Polyglot
 
-Inserting is an essential action of composition 
+Inserting is an essential action of composition
 
+## BOM Beta Object Model
 
+Planters are constantly changing their Beta in RawLand,
+
+Planters use the Virtual BOM only in their mind or in BetaApp.
+
+A BetaDiagram is the BOM, a Planter
+
+Virtual DOM is Virtual BOM
+
+Virtual Document Object Model
+
+Virtual Beta Object Model
+
+Actual DOM is the Actual BOM
+
+BetaCode
+
+What renders the BOM?
+
+Eco is not rendered but Neuro, Moto and Via are rendered
+
+A virtual model is a model of a model
+
+Randonner dans l'Éco
+
+Planter is the renderer
+
+Feeling the ground without touching it, is
+
+The BOM is rendered into 1st person experience. Thinking about ArmProp before ArmProp in reality.
+
+The state of Via changes when a planter looks around or turns around like a South Pointing Cart
+
+The html Elements aren't always added or removed but their values can change. The object which points to the cache is always present once you walk away from the cache, but it's value is constantly changing.
+
+What is analogous to the browser?
+
+The browser is still objects, when does Vue become real? Light
+
+The real part a red svg circle is the red light
+
+## Threads
+
+The mind is single threaded
+
+TeamBeta is multithread
+
+Parallel or Concurrent
+
+Follow is Parallel
+
+What scope is parallel? Team can both be Backfilling but using different Theorem
 
 ## Examples
 

@@ -1,5 +1,4 @@
-
-# 💜 <neuro>DistancEstimation </neuro>
+# 💜 <neuro>SpaceEstimation </neuro>
 
 ![NeuroIcon](/Neuro/Neuro_Icon.png)
 
@@ -72,7 +71,7 @@ Links to other related NeuroFactors.
 
 ## DevNotes
 
--
+- Equal distance without units. The piece is about as wide as from here to those logs
 
 ## DevState
 

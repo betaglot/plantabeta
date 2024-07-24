@@ -1,3 +1,8 @@
+
+# Company
+
+- Novice Planters can train themselves before their first day of work, so that your company can spend less time and resources in the training process.
+
 ::: details 🛠 <dev>&&&</dev>
 
 ## DevNotes
@@ -32,7 +37,3 @@ guide/Why/Company.md, <dev>Guide.Why.Company</dev>, ![3047.jpg](/PaperPhoto/3047
 guide/Why/Company.md, <dev>Guide.Why.Innovation.Database</dev>, ![3048.jpg](/PaperPhoto/3048.jpg)
 
 :::
-
-# Company
-
-- Novice Planters can train themselves before their first day of work, so that your company can spend less time and resources in the training process.

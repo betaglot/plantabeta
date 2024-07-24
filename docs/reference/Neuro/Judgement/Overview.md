@@ -72,7 +72,7 @@ Links to other related NeuroFactors.
 
 ## DevNotes
 
--
+- Density is an intuitive judgement. Kahneman. Regular and lots of feedback
 
 ## DevState
 

@@ -1,7 +1,5 @@
 # Betaglot
 
-Golden Age of Planting
-
 ![Betaglot_Logo](/Betaglot_Logo.png)
 
 ::: tip The Beta Instinct
@@ -23,6 +21,10 @@ All animals instinctively use beta and communicate it too
 Betaglot is also related to "polyglot", which means that you can speak more than one language. A betaglot can speak the language of both tree planting and of climbing. Beta can be applied to any solo sport, that is, any sport where you're not directly competing against anyone, such as gymnastics, archery, whitewater kayaking, break dancing and more.
 
 The greatest power of being a Betaglot is that you systematically translate your atheletic ability into money.
+
+### Analogic reasoning
+
+[Analogy as the Core of Cognition. Douglas Hofstader](https://www.youtube.com/watch?v=n8m7lFQ3njk&ab_channel=Stanford)
 
 ## 🔷 Archery (ArcheryBeta)
 
@@ -67,7 +69,7 @@ Passing
 🔻<via>Via: </via>
 
 - Play diagram [InsertImage]
-    - Planted trees are like teammates in play diagrams 
+    - Planted trees are like teammates in play diagrams
 - MotoPhrase
 
 ## 🔷<beta>Bike Courier</beta> ()
@@ -423,8 +425,6 @@ What is the name if the scooters' shaft?
 
 🔻<via>Via: </via>
 
-
-
 ## 🔷 ShotPut (ShotPutBeta)
 
 ### BetaAnalogy
@@ -595,13 +595,15 @@ Planting while your body is moving away or towards hole
 
 ## Dev Notes
 
+- Golden Age of Planting
+- Natural language is Neuro not Beta
 - Beta diagram of each interdisciplinary, show where each of the modules is on their
 - Contradiction is confusing. A Benefit of canon is convention
 - Consilience, Interdisciplinary
 - Climber to Planter group program. The Climbing Instructor stays with the group as they become planters. The Instructor already has rapport with the planters before the season starts and the planters have already become friends.
 - Betaglot needs to be able to translate into and from Mentalese
 - Betaglot Motons use OtherSportBeta
-    - Apex of SpadeSlam is TrampBeta while Spade impact is DiveBeta. SpadeSwing is RingsBeta. Legs are doing DanceBeta Foutette at Slam.Apex to move body and to counteract any offbalancing forces from SpadeSwing
+    - Apex of SpadeSlam is TrampBeta while Spade impact is DiveBeta. SpadeSwing is RingsBeta. Legs are doing DanceBeta Foutette at Slam. Apex to move body and to counteract any offbalancing forces from SpadeSwing
 - Compulsory Elements
     - The superclass of Elements is Apparatus since most elements. Apparatus is an Econ.
     - ElementGraph is not just Moto, nodes can be any of the BetaFactors. Econ branches down into neuro or moto

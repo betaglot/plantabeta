@@ -53,6 +53,12 @@ Use the module colors along with their icons
 
 🟠<moto>Moto</moto>
 
+## Betaglot Docs
+
+For a beginner, how do Vue and Python docs suck?
+
+No images of humans at a computer. It doesn't even need to be technical, just an image to show explicitly that people use this system, it's not just some abstract thing
+
 ::: details 🛠 <dev>&&&</dev>
 
 ## DevNotes

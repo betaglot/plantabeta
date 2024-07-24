@@ -16,8 +16,8 @@ viaRIC.Continuum
 
 ## Competition.DifficultyScore
 
-    - (DynoCompetition = Competition.DifficultyScore.Intensity.High)
-    - (ClimbingDanceCompetition = Competition.DifficultyScore.Complexity.High)
+- (DynoCompetition = Competition.DifficultyScore.Intensity.High)
+- (ClimbingDanceCompetition = Competition.DifficultyScore.Complexity.High)
 
 ### CompetitionRound.DifficultyScore
 

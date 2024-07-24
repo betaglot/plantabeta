@@ -13,7 +13,7 @@
 
 ## DevNotes
 
--
+- Push off like swimming with your arms or legs or Spade
 
 ## DevState
 

@@ -18,7 +18,6 @@ Unbundle heuristic during team plant block close
 - Teammates are too close together
 - Cream Out: Being Greedy
 
-
 Leave a line out of the area
 
 Team Via

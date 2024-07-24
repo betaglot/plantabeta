@@ -17,4 +17,3 @@ BetaString continues
 InceptionVault
 
 In math ellipsis shows that a Series continues.
-    

@@ -1,4 +1,4 @@
-## 🔷 Lexical Analysis
+# 🔷 Lexical Analysis
 
 ## 2.1. Line structure
 

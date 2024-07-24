@@ -82,6 +82,7 @@ Links to other related EcoFactors. Related because they are the same EcoType or 
 
 ## DevNotes
 
+- Looking up while planting the treeline during windy weather
 - Stand with back to wind to push shirt onto skin for evaporative cooling
 
 ## DevState

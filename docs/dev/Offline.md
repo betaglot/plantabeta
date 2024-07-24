@@ -22,6 +22,8 @@ Could I set up a dev container?
 
 ## Printout
 
+- PutPlant binder allows easy updates and 'TreeShaking'
+
 - LetterSizedPaper
 
 Give planters a treeview of actions. Practical tool on letter sized paper

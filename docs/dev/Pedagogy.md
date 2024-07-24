@@ -79,6 +79,24 @@ Submit image of drawing for testing
 
 To understand what's going on in the planter video
 
+### VideoLabelling
+
+Fundamental BetaUnit of Plantbeta is between HoleCloses... after the StartHole which is preceded by CacheMoto
+
+Parse into events
+
+Each PutLoop
+
+- loop ends with Hole Close
+
+#### Tree_ID
+
+Edit tree count into video
+
+Each tree has a unique identifer use a 8digit number
+
+Link tree id to gpx
+
 ## Daily Questions
 
 To stay engaged in learning
@@ -88,3 +106,15 @@ Question to ask themselves to not get bored without audio
 ## 'Mentor' is too strong a word
 
 Have an Experienced Planter plant with novicePlanter as a practical demonstration and for confidence in quality
+
+## Setting
+
+### AtCamp
+
+### InTransit
+
+### OnTheBlock
+
+Active recall while planting
+
+Recall what you learned during the morning truck ride

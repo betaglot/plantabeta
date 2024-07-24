@@ -98,6 +98,19 @@ Joker: Rock under cream
 
 ## Sculpture
 
+### Wire Automaton
+
+You are your while team but not concurrently instead sequentially
+
+EinsteinSpaghetti
+
+Spaghetti sculpture build
+
+Thick diameter
+
+Dyed for Moto Direction Extension or Flexion like yoga book,
+ WholeGrain
+
 ## Clothes
 
 Custom Designed or Patagonia

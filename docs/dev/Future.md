@@ -20,6 +20,9 @@ Music designed for planters to keep their pace.
 
 ## Put(Ice)
 
+Water Orchid with ice cubes
+FutureLandComplexity
+
 Put(Ice)
 
 Plant a glacier seedling
@@ -35,3 +38,11 @@ How long would 1m, 1m, 2m tray of water take to freeze
 How can pykrete be used for glaciers?
 
 Would ice with Titanium Oxide (White pigment) melt slower?
+
+::: Vision and Madness
+
+Genius == Vision
+
+Genius and Madness
+
+<https://www.psychologytoday.com/ca/blog/the-hidden-habits-genius/202009/is-there-thin-line-between-genius-and-insanity>

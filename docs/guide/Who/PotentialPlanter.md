@@ -1,19 +1,3 @@
-::: details 🛠 <dev>&&&</dev>
-
-## DevNotes
-
--
-
-## DevState
-
-```py
-`TagsToHeaders: False`
-```
-
-<h2>PageTags</h2>
-
-- "Guide.Who.PotentialPlanter"
-:::
 
 # Potential Planter
 
@@ -63,3 +47,20 @@ What is tree planting like?
 - Endurance
 - Controlled Falling
 - Leg Strength
+
+::: details 🛠 <dev>&&&</dev>
+
+## DevNotes
+
+-
+
+## DevState
+
+```py
+`TagsToHeaders: False`
+```
+
+<h2>PageTags</h2>
+
+- "Guide.Who.PotentialPlanter"
+:::

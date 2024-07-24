@@ -49,13 +49,28 @@ Hold the board close to the camera so that it can be easily found during the edi
 
 Edit into multiple formats: Shorts=Reel, Gif, Carousel, Over 20 min
 
+### Geolocation
+
+Strava sync with go pro
+
+Periodically show strava to the camera to sync locations
+
+Also use to sync with notes
+
+Create a bag for notepad and phone for your right front bag. Internal divider
+
+pencil on a string
+
 ### OpenCV
 
 Use OpenCV in Python to tag Video timestamps
 
 To Put boxes around MotoObject or EcoObjects
 
-
 ## Privacy
 
 Make an incredibles mask for planters
+
+## Storyboards
+
+- Zoom into putplant from ultimate view to submoto

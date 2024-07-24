@@ -52,6 +52,7 @@ A greater knowledge of possible alternative moves can prevent Christmas Toe from
 
 ## DevNotes
 
+- Weighted Staff for Antagonists. One bag up a day
 - Athleanx  reverse lunge is easier on knees into trenches
 - Planting doesnt nake you jacked but what if did
     - Non monetary Benefit

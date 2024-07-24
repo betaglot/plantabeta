@@ -1,4 +1,4 @@
-💜<neuro>Mindset</neuro>
+# 💜<neuro>Mindset</neuro>
 
 ## Beginner's Mindset
 

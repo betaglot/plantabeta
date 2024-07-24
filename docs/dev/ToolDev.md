@@ -15,8 +15,9 @@ A trailer loaded with everthing that PLANTERS need for their season. For planter
 - GearShed
 - GearCloset
 
-## 🔻<via>Flag</via>
+## 🔻<via>FlagDev</via>
 
+- With cut corner about an inch to maximize surface during branch wrap. Like an ornament or cow ear tag
 - Wooden staple for flag
 - Flag is a source of income for PutPlant
 - Paper Trombone to lock flag like a Bookmark

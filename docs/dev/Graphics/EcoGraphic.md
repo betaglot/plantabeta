@@ -1,5 +1,14 @@
 # 🛠 <eco>Eco Graphics</eco>
 
+## Simplify
+
+Simplify Eco like John Revill
+Depth Compression like accordion christmas book
+
+Cut out monotous Eco
+
+Shannon only send what you can't predict
+
 ::: details 🛠 <dev>&&&</dev>
 
 ## DevNotes

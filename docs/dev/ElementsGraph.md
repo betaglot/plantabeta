@@ -537,11 +537,20 @@ MotoState
 
 ## Timeline
 
+- Use Common Time like how dancers count to 8
 - Use Code snippets to write abbreviated names to insert Tags or ObjectName
 - Rythm
 - SequenceDiagram
 - BetaSequence
 - Staves
+
+Arc the same shape as factors
+
+ViaTime
+
+The shape of the arc is the same shape as the factors' icons. Moto is parabolic, Via is absolute, Neuro has a Cusp, Eco is square
+
+There are no BetaArcs, only BetaFactorArcs
 
 ---
 

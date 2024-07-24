@@ -1,4 +1,3 @@
-
 # 🟩  <eco>RedRot</eco>
 
 ## When to abandon RedRot Site?
@@ -13,7 +12,7 @@ If the redrot is screefed to deeper than a blade then punch down if you don't he
 
 ## DevNotes
 
--
+- There are no rocks in redrot
 
 ## DevState
 

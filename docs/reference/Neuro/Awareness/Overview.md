@@ -11,7 +11,9 @@
 
 ## DevNotes
 
-- You don't need to pay attention to look where you're going 
+- You don't need to pay attention to look where you're going
+- Tree mantra
+    - You can hear the emotion of how you say tree, which increases emotion recognition therefore emotional regulation. Get science
 
 ## DevState
 

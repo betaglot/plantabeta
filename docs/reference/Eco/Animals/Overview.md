@@ -7,6 +7,7 @@
 
 - Ticks
     - CrummyComb and Comb Cleaner to prevent spreading lice
+- Spook an animal to get it to go away
 
 ## DevState
 

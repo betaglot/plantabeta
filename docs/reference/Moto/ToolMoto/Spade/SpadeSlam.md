@@ -102,7 +102,11 @@ Links to other related motos. Related because they are the same MotoType or beca
 
 ## DevNotes
 
-- SpaceFoot to increase slam height, therefore acceleration therefore force. Spade must impact before foot to be effective 
+- Moto error
+    - Sequence error
+    - Body Bend before spade slam
+    - Use body Bend to increase acceleration time to maximize velocity on impact therefore maximizing force on impact
+- SpaceFoot to increase slam height, therefore acceleration therefore force. Spade must impact before foot to be effective
 - Wrestling Snap down is SpadeSlam. Like Rope Climbing.
 
 ## DevState
