@@ -368,6 +368,20 @@ Enter the System
 
 🔻<via>Via: </via>
 
+## 🔷<beta>MusicBeta</beta>
+
+### BetaAnalogy
+
+🔷<beta>Beta: </beta>
+
+💜<neuro>Neuro: </neuro>
+
+🟩<eco>Eco: </eco>
+
+🟠<moto>Moto: </moto>
+
+🔻<via>Via: </via>
+
 ## 🔷 Pole Vault (PoleVaultBeta)
 
 ### BetaAnalogy
@@ -591,10 +605,19 @@ Planting while your body is moving away or towards hole
 
 🔻<via>Via: </via>
 
+```py
+
+betaglot_activities = {
+    trampoline
+}
+
+```
+
 ::: DesignBox
 
 ## Dev Notes
 
+- Wushu
 - Golden Age of Planting
 - Natural language is Neuro not Beta
 - Beta diagram of each interdisciplinary, show where each of the modules is on their
