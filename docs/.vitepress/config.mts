@@ -55,6 +55,7 @@ function sidebarDevelopment() {
     { text: '<dev>DX</dev>', link: '/dev/DX' },
     { text: '<dev>ElementGraph</dev>', link: '/dev/ElementsGraph' },
     { text: '<dev>Filming</dev>', link: '/dev/Filming' },
+    { text: '<dev>FireBeta</dev>', link: '/FireBeta/FireBeta' },
     { text: '<dev>GoPro</dev>', link: '/dev/GoPro' },
     {
       text: '<dev>Graphics</dev>', collapsed: true, items: [
