@@ -18,10 +18,10 @@ export default defineConfig({
     outline: [2, 4],
     logo: 'Betaglot_Logo.png',
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/klimbeta/putplant' }
+      { icon: 'github', link: 'https://github.com/betaglot/putplant' }
     ],
     footer: {
-      message: "Library released under <a style='text-decoration:underline;' href='https://github.com/klimbeta/putplant/blob/main/LICENSE'>MIT License</a>.",
+      message: "Library released under <a style='text-decoration:underline;' href='https://github.com/betaglot/putplant/blob/main/LICENSE'>MIT License</a>.",
       copyright: `Copyright © 2023–${new Date().getUTCFullYear()} Christopher Duncan`
     },
     search: {
