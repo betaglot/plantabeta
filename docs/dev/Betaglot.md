@@ -1,6 +1,6 @@
 # Betaglot
 
-![Betaglot_Logo](/Betaglot_Logo.png)
+![Putplant_Logo](/Putplant_Logo.png)
 
 ::: tip The Beta Instinct
 

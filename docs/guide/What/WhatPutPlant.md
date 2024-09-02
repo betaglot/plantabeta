@@ -4,7 +4,7 @@ aside: False
 
 # 🔷<beta>Put(<eco>Plant</eco>)</beta>
 
-![Betaglot_Logo](/Betaglot_Logo.png)
+![Putplant_Logo](/Putplant_Logo.png)
 <!-- 
 ## 🔷<beta>Put(<eco>Tree</eco>)</beta>, 🔷<beta>Put(<eco>Shrub</eco>)</beta>, 🔷<beta>Put(<eco>Flower</eco>)</beta>, 🔷<beta>Put(<eco>Moss</eco>)</beta>, 🔷<beta>Put(<eco>Bulb</eco>)</beta>, 🔷<beta>Put(<eco>Root</eco>)</beta>, 🔷<beta>Put(<eco>Meadow</eco>)</beta> -->
 
