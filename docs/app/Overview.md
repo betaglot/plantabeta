@@ -54,8 +54,8 @@ A BetaBlock could be an individual BetaElement or a group of hundreds of BetaEle
 
 PutPlantApp is most useful for PotentialPlanters who live in urban areas, who don't have much exposure to wilderness.
 
-🔷<beta>Put(</beta><eco>Plant</eco><beta>)</beta> is a lot to learn all at once, so learning over a few months before the season starts will be more efficient.
+🔷<beta>Put(</beta><eko>Plant</eko><beta>)</beta> is a lot to learn all at once, so learning over a few months before the season starts will be more efficient.
 
 ::: tip Plantbeta
-The Source Code for Put(Plant) is called [Plantbeta](/reference/Beta/Plantbeta/Overview).
+The Source Code for Put(Plant) is called [Plantbeta](/encyclopedia/Beta/Plantbeta/Overview).
 :::

@@ -106,7 +106,7 @@ An ArmPhrase is a list of ArmMotos performed in Parallel (BoxCarry), Concurrentl
 
 ## Control Flow Statements
 
-Control flow is the codified version of [Decision Making](/reference/Neuro/Decision/Overview)
+Control flow is the codified version of [Decision Making](/encyclopedia/Neuro/Decision/Overview)
 
 - Decision
     - Conscious

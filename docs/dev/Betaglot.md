@@ -34,7 +34,7 @@ The greatest power of being a Betaglot is that you systematically translate your
 
 💜<neuro>Neuro: </neuro>
 
-🟩<eco>Eco: </eco>
+🟩<eko>Eco: </eko>
 
 🟠<moto>Moto: </moto>
 
@@ -62,7 +62,7 @@ Passing
 
 💜<neuro>Neuro: </neuro>
 
-🟩<eco>Eco: =Opponent</eco>
+🟩<eko>Eco: =Opponent</eko>
 
 🟠<moto>Moto: </moto>
 
@@ -80,7 +80,7 @@ Passing
 
 💜<neuro>Neuro: </neuro>
 
-🟩<eco>Eco: </eco>
+🟩<eko>Eco: </eko>
 
 🟠<moto>Moto: </moto>
 
@@ -96,7 +96,7 @@ Passing
 
 💜<neuro>Neuro: </neuro>
 
-🟩<eco>Eco: </eco>
+🟩<eko>Eco: </eko>
 
 🟠<moto>Moto: </moto>
 
@@ -110,18 +110,18 @@ Passing
 
 💜<neuro>Neuro: </neuro>
 
-🟩<eco>Eco: Plant=Opponent</eco>
+🟩<eko>Eco: Plant=Opponent</eko>
 
 🟠<moto>Moto: </moto>
 
 🔻<via>Via: </via>
 
-- [BranchDeflection](/reference/Moto/PlantMoto/BranchDeflection)
-- [HeadBob](/reference/Moto/HeadMoto/Overview)
-- [HandClose](/reference/Moto/HandMoto/Overview)
-    - [PunchClose](/reference/Moto/HandMoto/Overview)
-- [FootClose](/reference/Moto/FootMoto/Overview)
-    - [StompClose](/reference/Moto/FootMoto/Overview)
+- [BranchDeflection](/encyclopedia/Moto/PlantMoto/BranchDeflection)
+- [HeadBob](/encyclopedia/Moto/HeadMoto/Overview)
+- [HandClose](/encyclopedia/Moto/HandMoto/Overview)
+    - [PunchClose](/encyclopedia/Moto/HandMoto/Overview)
+- [FootClose](/encyclopedia/Moto/FootMoto/Overview)
+    - [StompClose](/encyclopedia/Moto/FootMoto/Overview)
 
 ## 🔷 BreakDance (BreakDanceBeta)
 
@@ -131,7 +131,7 @@ Passing
 
 💜<neuro>Neuro: </neuro>
 
-🟩<eco>Eco: </eco>
+🟩<eko>Eco: </eko>
 
 🟠<moto>Moto: </moto>
 
@@ -145,17 +145,17 @@ Passing
 
 💜<neuro>Neuro: </neuro>
 
-🟩<eco>Eco: </eco>
+🟩<eko>Eco: </eko>
 
 🟠<moto>Moto: Spade=Paddle</moto>
 
 🔻<via>Via: </via>
 
 - Paddle = Spade
-    - [SpadeScreef](/reference/Moto/SpadeMoto/SpadeScreef) is like taking a forward stroke or a draw stroke with a canoe paddle
-    - [SpadeGrip](/reference/Moto/SpadeMoto/SpadeGrip)
-        - [ShaftGrip](/reference/Moto/SpadeMoto/ShaftGrip)
-        - [HandleGrip](/reference/Moto/SpadeMoto/HandleGrip)
+    - [SpadeScreef](/encyclopedia/Moto/SpadeMoto/SpadeScreef) is like taking a forward stroke or a draw stroke with a canoe paddle
+    - [SpadeGrip](/encyclopedia/Moto/SpadeMoto/SpadeGrip)
+        - [ShaftGrip](/encyclopedia/Moto/SpadeMoto/ShaftGrip)
+        - [HandleGrip](/encyclopedia/Moto/SpadeMoto/HandleGrip)
 
 ## 🔷 Climbing (Klimbeta)
 
@@ -171,7 +171,7 @@ Send Planting bags full of merch and printed information to Chris Sharma in Spai
 
 💜<neuro>Neuro: </neuro>
 
-🟩<eco>Eco: </eco>
+🟩<eko>Eco: </eko>
 
 🟠<moto>Moto: </moto>
 
@@ -181,7 +181,7 @@ Send Planting bags full of merch and printed information to Chris Sharma in Spai
 
 - StockHandling
 - HayBale TreeBox  
-- [BoustroCover](/reference/Via/ViaTheorem/ViaCover/BoustroCover)
+- [BoustroCover](/encyclopedia/Via/ViaTheorem/ViaCover/BoustroCover)
 
 ## 🔷 Figure Skating (FigureSkatingBeta)
 
@@ -191,7 +191,7 @@ Send Planting bags full of merch and printed information to Chris Sharma in Spai
 
 💜<neuro>Neuro: </neuro>
 
-🟩<eco>Eco: </eco>
+🟩<eko>Eco: </eko>
 
 🟠<moto>Moto: </moto>
 
@@ -205,7 +205,7 @@ Send Planting bags full of merch and printed information to Chris Sharma in Spai
 
 💜<neuro>Neuro: </neuro>
 
-🟩<eco>Eco: </eco>
+🟩<eko>Eco: </eko>
 
 🟠<moto>Moto: </moto>
 
@@ -220,7 +220,7 @@ Send Planting bags full of merch and printed information to Chris Sharma in Spai
 
 💜<neuro>Neuro: </neuro>
 
-🟩<eco>Eco: </eco>
+🟩<eko>Eco: </eko>
 
 🟠<moto>Moto: </moto>
 
@@ -239,7 +239,7 @@ Send Planting bags full of merch and printed information to Chris Sharma in Spai
 
 💜<neuro>Neuro: Neuro</neuro>
 
-🟩<eco>Eco: Opponent</eco>
+🟩<eko>Eco: Opponent</eko>
 
 🟠<moto>Moto: Submission, Position</moto>
 
@@ -263,7 +263,7 @@ Enter the System
 
 💜<neuro>Neuro: </neuro>
 
-🟩<eco>Eco: </eco>
+🟩<eko>Eco: </eko>
 
 🟠<moto>Moto: </moto>
 
@@ -277,7 +277,7 @@ Enter the System
 
 💜<neuro>Neuro: </neuro>
 
-🟩<eco>Eco: </eco>
+🟩<eko>Eco: </eko>
 
 🟠<moto>Moto: </moto>
 
@@ -300,7 +300,7 @@ Enter the System
 
 💜<neuro>Neuro: </neuro>
 
-🟩<eco>Eco: </eco>
+🟩<eko>Eco: </eko>
 
 🟠<moto>Moto: </moto>
 
@@ -314,7 +314,7 @@ Enter the System
 
 💜<neuro>Neuro: </neuro>
 
-🟩<eco>Eco: </eco>
+🟩<eko>Eco: </eko>
 
 🟠<moto>Moto: </moto>
 
@@ -328,7 +328,7 @@ Enter the System
 
 💜<neuro>Neuro: </neuro>
 
-🟩<eco>Eco: </eco>
+🟩<eko>Eco: </eko>
 
 🟠<moto>Moto: </moto>
 
@@ -338,7 +338,7 @@ Enter the System
 
 - Lawn Mower uses Via
     - <https://www.wired.com/2012/08/optimal-lawn-mowing-patterns/>
-    - [BoustroCover](/reference/Via/ViaTheorem/ViaCover/BoustroCover)
+    - [BoustroCover](/encyclopedia/Via/ViaTheorem/ViaCover/BoustroCover)
 
 ## 🔷 LongJump (LongJumpBeta)
 
@@ -348,7 +348,7 @@ Enter the System
 
 💜<neuro>Neuro: </neuro>
 
-🟩<eco>Eco: </eco>
+🟩<eko>Eco: </eko>
 
 🟠<moto>Moto: </moto>
 
@@ -362,7 +362,7 @@ Enter the System
 
 💜<neuro>Neuro: </neuro>
 
-🟩<eco>Eco: </eco>
+🟩<eko>Eco: </eko>
 
 🟠<moto>Moto: </moto>
 
@@ -376,7 +376,7 @@ Enter the System
 
 💜<neuro>Neuro: </neuro>
 
-🟩<eco>Eco: </eco>
+🟩<eko>Eco: </eko>
 
 🟠<moto>Moto: </moto>
 
@@ -390,7 +390,7 @@ Enter the System
 
 💜<neuro>Neuro: </neuro>
 
-🟩<eco>Eco: </eco>
+🟩<eko>Eco: </eko>
 
 🟠<moto>Moto: </moto>
 
@@ -404,7 +404,7 @@ Enter the System
 
 💜<neuro>Neuro: </neuro>
 
-🟩<eco>Eco: </eco>
+🟩<eko>Eco: </eko>
 
 🟠<moto>Moto: </moto>
 
@@ -425,7 +425,7 @@ Enter the System
 
 💜<neuro>Neuro: </neuro>
 
-🟩<eco>Eco: </eco>
+🟩<eko>Eco: </eko>
 
 🟠<moto>Moto: </moto>
 
@@ -447,7 +447,7 @@ What is the name if the scooters' shaft?
 
 💜<neuro>Neuro: </neuro>
 
-🟩<eco>Eco: </eco>
+🟩<eko>Eco: </eko>
 
 🟠<moto>Moto: </moto>
 
@@ -461,7 +461,7 @@ What is the name if the scooters' shaft?
 
 💜<neuro>Neuro: </neuro>
 
-🟩<eco>Eco: </eco>
+🟩<eko>Eco: </eko>
 
 🟠<moto>Moto: </moto>
 
@@ -475,7 +475,7 @@ What is the name if the scooters' shaft?
 
 💜<neuro>Neuro: </neuro>
 
-🟩<eco>Eco: </eco>
+🟩<eko>Eco: </eko>
 
 🟠<moto>Moto: </moto>
 
@@ -491,7 +491,7 @@ Slalom where you hit the gates is the most like planting.
 
 💜<neuro>Neuro: </neuro>
 
-🟩<eco>Eco: Topography=Topography, Microsite=Gate</eco>
+🟩<eko>Eco: Topography=Topography, Microsite=Gate</eko>
 
 🟠<moto>Moto: Spade=Pole</moto>
 
@@ -517,7 +517,7 @@ Planting while your body is moving away or towards hole
 
 💜<neuro>Neuro: </neuro>
 
-🟩<eco>Eco: </eco>
+🟩<eko>Eco: </eko>
 
 🟠<moto>Moto: </moto>
 
@@ -531,7 +531,7 @@ Planting while your body is moving away or towards hole
 
 💜<neuro>Neuro: </neuro>
 
-🟩<eco>Eco: </eco>
+🟩<eko>Eco: </eko>
 
 🟠<moto>Moto: </moto>
 
@@ -545,7 +545,7 @@ Planting while your body is moving away or towards hole
 
 💜<neuro>Neuro: </neuro>
 
-🟩<eco>Eco: </eco>
+🟩<eko>Eco: </eko>
 
 🟠<moto>Moto: </moto>
 
@@ -559,7 +559,7 @@ Planting while your body is moving away or towards hole
 
 💜<neuro>Neuro: </neuro>
 
-🟩<eco>Eco: </eco>
+🟩<eko>Eco: </eko>
 
 🟠<moto>Moto: </moto>
 
@@ -573,7 +573,7 @@ Planting while your body is moving away or towards hole
 
 💜<neuro>Neuro: </neuro>
 
-🟩<eco>Eco: Land=Wave</eco>
+🟩<eko>Eco: Land=Wave</eko>
 
 🟠<moto>Moto: Carve,Cut,NoseRiding,SwitchStance</moto>
 
@@ -587,7 +587,7 @@ Planting while your body is moving away or towards hole
 
 💜<neuro>Neuro: </neuro>
 
-🟩<eco>Eco: </eco>
+🟩<eko>Eco: </eko>
 
 🟠<moto>Moto: </moto>
 
@@ -599,7 +599,7 @@ Planting while your body is moving away or towards hole
 
 💜<neuro>Neuro: </neuro>
 
-🟩<eco>Eco: </eco>
+🟩<eko>Eco: </eko>
 
 🟠<moto>Moto: </moto>
 

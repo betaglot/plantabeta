@@ -10772,7 +10772,7 @@ data = [
     {
         "PagePath": "dev/BetaGraph.md",
         "PaperPhoto": "90052.png",
-        "TagName": "BetaGraph.EcosystemMap"
+        "TagName": "BetaGraph.EkosystemMap"
     },
     {
         "PagePath": "dev/BetaGraph.md",
@@ -10807,7 +10807,7 @@ data = [
     {
         "PagePath": "dev/BetaGraph.md",
         "PaperPhoto": "90054.png",
-        "TagName": "BetaGraph.EcosystemMap"
+        "TagName": "BetaGraph.EkosystemMap"
     },
     {
         "PagePath": "dev/BetaGraph.md",
@@ -10857,7 +10857,7 @@ data = [
     {
         "PagePath": "dev/BetaGraph.md",
         "PaperPhoto": "90059.png",
-        "TagName": "BetaGraph.EcosystemMapPie.ConcentricRings"
+        "TagName": "BetaGraph.EkosystemMapPie.ConcentricRings"
     },
     {
         "PagePath": "dev/BetaGraph.md",
@@ -10872,7 +10872,7 @@ data = [
     {
         "PagePath": "dev/BetaGraph.md",
         "PaperPhoto": "90060.png",
-        "TagName": "BetaGraph.EcosystemMapPie.ConcentricRings"
+        "TagName": "BetaGraph.EkosystemMapPie.ConcentricRings"
     },
     {
         "PagePath": "dev/BetaGraph.md",
@@ -10892,7 +10892,7 @@ data = [
     {
         "PagePath": "dev/BetaGraph.md",
         "PaperPhoto": "90061.png",
-        "TagName": "BetaGraph.EcosystemMapPie.ConcentricRings"
+        "TagName": "BetaGraph.EkosystemMapPie.ConcentricRings"
     },
     {
         "PagePath": "dev/BetaGraph.md",
@@ -10902,7 +10902,7 @@ data = [
     {
         "PagePath": "dev/BetaGraph.md",
         "PaperPhoto": "90062.png",
-        "TagName": "BetaGraph.EcosystemMapPie.ConcentricRings"
+        "TagName": "BetaGraph.EkosystemMapPie.ConcentricRings"
     },
     {
         "PagePath": "dev/BetaGraph.md",
@@ -10992,12 +10992,12 @@ data = [
     {
         "PagePath": "dev/BetaGraph.md",
         "PaperPhoto": "90090.png",
-        "TagName": "BetaGraph.EcosystemMapPie"
+        "TagName": "BetaGraph.EkosystemMapPie"
     },
     {
         "PagePath": "dev/BetaGraph.md",
         "PaperPhoto": "90090.png",
-        "TagName": "BetaGraph.EcosystemMapPie.ConcentricRings"
+        "TagName": "BetaGraph.EkosystemMapPie.ConcentricRings"
     },
     {
         "PagePath": "dev/BetaGraph.md",
@@ -11022,12 +11022,12 @@ data = [
     {
         "PagePath": "dev/BetaGraph.md",
         "PaperPhoto": "90091.png",
-        "TagName": "BetaGraph.EcosystemMapPie"
+        "TagName": "BetaGraph.EkosystemMapPie"
     },
     {
         "PagePath": "dev/BetaGraph.md",
         "PaperPhoto": "90091.png",
-        "TagName": "BetaGraph.EcosystemMapPie.ConcentricRings"
+        "TagName": "BetaGraph.EkosystemMapPie.ConcentricRings"
     },
     {
         "PagePath": "dev/BetaGraph.md",
@@ -11047,12 +11047,12 @@ data = [
     {
         "PagePath": "dev/BetaGraph.md",
         "PaperPhoto": "90092.png",
-        "TagName": "BetaGraph.EcosystemMapPie.ConcentricRings"
+        "TagName": "BetaGraph.EkosystemMapPie.ConcentricRings"
     },
     {
         "PagePath": "dev/BetaGraph.md",
         "PaperPhoto": "90092.png",
-        "TagName": "BetaGraph.EcosystemMapPie.PieSection"
+        "TagName": "BetaGraph.EkosystemMapPie.PieSection"
     },
     {
         "PagePath": "dev/BetaGraph.md",
@@ -11087,7 +11087,7 @@ data = [
     {
         "PagePath": "dev/BetaGraph.md",
         "PaperPhoto": "90093.png",
-        "TagName": "BetaGraph.EcosystemMapPie.PieSection"
+        "TagName": "BetaGraph.EkosystemMapPie.PieSection"
     },
     {
         "PagePath": "dev/BetaGraph.md",
@@ -11107,7 +11107,7 @@ data = [
     {
         "PagePath": "dev/BetaGraph.md",
         "PaperPhoto": "90094.png",
-        "TagName": "BetaGraph.EcosystemMapPie.PieSection"
+        "TagName": "BetaGraph.EkosystemMapPie.PieSection"
     },
     {
         "PagePath": "dev/BetaGraph.md",
@@ -11122,17 +11122,17 @@ data = [
     {
         "PagePath": "dev/BetaGraph.md",
         "PaperPhoto": "90095.png",
-        "TagName": "BetaGraph.EcosystemMapPie.CentralElement"
+        "TagName": "BetaGraph.EkosystemMapPie.CentralElement"
     },
     {
         "PagePath": "dev/BetaGraph.md",
         "PaperPhoto": "90095.png",
-        "TagName": "BetaGraph.ElementValue.EcosystemValueProposition"
+        "TagName": "BetaGraph.ElementValue.EkosystemValueProposition"
     },
     {
         "PagePath": "dev/BetaGraph.md",
         "PaperPhoto": "90096.png",
-        "TagName": "BetaGraph.EcosystemMapPie.PieSection"
+        "TagName": "BetaGraph.EkosystemMapPie.PieSection"
     },
     {
         "PagePath": "dev/BetaGraph.md",
@@ -11177,7 +11177,7 @@ data = [
     {
         "PagePath": "dev/BetaGraph.md",
         "PaperPhoto": "90098.png",
-        "TagName": "BetaGraph.EcosystemMapPie.PieSection"
+        "TagName": "BetaGraph.EkosystemMapPie.PieSection"
     },
     {
         "PagePath": "dev/BetaGraph.md",
@@ -11227,7 +11227,7 @@ data = [
     {
         "PagePath": "dev/BetaGraph.md",
         "PaperPhoto": "90100.png",
-        "TagName": "BetaGraph.EcosystemMapPie.ConcentricRings"
+        "TagName": "BetaGraph.EkosystemMapPie.ConcentricRings"
     },
     {
         "PagePath": "dev/BetaGraph.md",
@@ -11237,7 +11237,7 @@ data = [
     {
         "PagePath": "dev/BetaGraph.md",
         "PaperPhoto": "90101.png",
-        "TagName": "BetaGraph.EcosystemMapPie.ConcentricRings"
+        "TagName": "BetaGraph.EkosystemMapPie.ConcentricRings"
     },
     {
         "PagePath": "dev/BetaGraph.md",
@@ -11247,7 +11247,7 @@ data = [
     {
         "PagePath": "dev/BetaGraph.md",
         "PaperPhoto": "90102.png",
-        "TagName": "BetaGraph.EcosystemMapPie.PieSection"
+        "TagName": "BetaGraph.EkosystemMapPie.PieSection"
     },
     {
         "PagePath": "dev/BetaGraph.md",
@@ -11267,7 +11267,7 @@ data = [
     {
         "PagePath": "dev/BetaGraph.md",
         "PaperPhoto": "90103.png",
-        "TagName": "BetaGraph.EcosystemMapPie.PieSection"
+        "TagName": "BetaGraph.EkosystemMapPie.PieSection"
     },
     {
         "PagePath": "dev/BetaGraph.md",
@@ -11282,7 +11282,7 @@ data = [
     {
         "PagePath": "dev/BetaGraph.md",
         "PaperPhoto": "90105.png",
-        "TagName": "BetaGraph.EcosystemMapPie.PieSection"
+        "TagName": "BetaGraph.EkosystemMapPie.PieSection"
     },
     {
         "PagePath": "dev/BetaGraph.md",
@@ -11332,22 +11332,22 @@ data = [
     {
         "PagePath": "dev/BetaGraph.md",
         "PaperPhoto": "90106.png",
-        "TagName": "BetaGraph.EcosystemMapPie.CentralElement"
+        "TagName": "BetaGraph.EkosystemMapPie.CentralElement"
     },
     {
         "PagePath": "dev/BetaGraph.md",
         "PaperPhoto": "90106.png",
-        "TagName": "BetaGraph.EcosystemMapPie.ConcentricRings"
+        "TagName": "BetaGraph.EkosystemMapPie.ConcentricRings"
     },
     {
         "PagePath": "dev/BetaGraph.md",
         "PaperPhoto": "90106.png",
-        "TagName": "BetaGraph.EcosystemMapPie.ConcentricRings.RingLabel"
+        "TagName": "BetaGraph.EkosystemMapPie.ConcentricRings.RingLabel"
     },
     {
         "PagePath": "dev/BetaGraph.md",
         "PaperPhoto": "90106.png",
-        "TagName": "BetaGraph.EcosystemMapPie.PieSection"
+        "TagName": "BetaGraph.EkosystemMapPie.PieSection"
     },
     {
         "PagePath": "dev/BetaGraph.md",
@@ -11362,22 +11362,22 @@ data = [
     {
         "PagePath": "dev/BetaGraph.md",
         "PaperPhoto": "90107.png",
-        "TagName": "BetaGraph.EcosystemMapPie.CentralElement"
+        "TagName": "BetaGraph.EkosystemMapPie.CentralElement"
     },
     {
         "PagePath": "dev/BetaGraph.md",
         "PaperPhoto": "90107.png",
-        "TagName": "BetaGraph.EcosystemMapPie.ConcentricRings"
+        "TagName": "BetaGraph.EkosystemMapPie.ConcentricRings"
     },
     {
         "PagePath": "dev/BetaGraph.md",
         "PaperPhoto": "90107.png",
-        "TagName": "BetaGraph.EcosystemMapPie.ConcentricRings.RingLabel"
+        "TagName": "BetaGraph.EkosystemMapPie.ConcentricRings.RingLabel"
     },
     {
         "PagePath": "dev/BetaGraph.md",
         "PaperPhoto": "90107.png",
-        "TagName": "BetaGraph.EcosystemMapPie.PieSection"
+        "TagName": "BetaGraph.EkosystemMapPie.PieSection"
     },
     {
         "PagePath": "dev/BetaGraph.md",
@@ -11447,12 +11447,12 @@ data = [
     {
         "PagePath": "dev/BetaGraph.md",
         "PaperPhoto": "90115.png",
-        "TagName": "BetaGraph.EcosystemMapPie.ConcentricRings"
+        "TagName": "BetaGraph.EkosystemMapPie.ConcentricRings"
     },
     {
         "PagePath": "dev/BetaGraph.md",
         "PaperPhoto": "90115.png",
-        "TagName": "BetaGraph.EcosystemMapPie.ConcentricRings.RingLabel"
+        "TagName": "BetaGraph.EkosystemMapPie.ConcentricRings.RingLabel"
     },
     {
         "PagePath": "dev/BetaGraph.md",

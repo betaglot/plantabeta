@@ -25,16 +25,16 @@
 
 ### Increases Motivation and Hope while reducing Anxiety
 
-- <eco>Put(Plant)</eco> reduced the worrying about what to expect during your Novice season.
+- <eko>Put(Plant)</eko> reduced the worrying about what to expect during your Novice season.
 - "I can do this"
-- The fear of the unknown, especially unknown unknowns, can be paralyzing. <eco>Put(Plant)</eco> is being created to minimize the number of unknowns in a tree Planter's experience.
-- There is a whole page in <eco>Put(Plant)</eco> specifically devoted to Motivation. It's easy to become unmotivated when you're tired, you've spent the past few days in the rain and the Eco is difficult, but there is knowledge that Planters and PlanterSupervisors can use to keep planting!
+- The fear of the unknown, especially unknown unknowns, can be paralyzing. <eko>Put(Plant)</eko> is being created to minimize the number of unknowns in a tree Planter's experience.
+- There is a whole page in <eko>Put(Plant)</eko> specifically devoted to Motivation. It's easy to become unmotivated when you're tired, you've spent the past few days in the rain and the Eco is difficult, but there is knowledge that Planters and PlanterSupervisors can use to keep planting!
 
 ---
 
 ### Rewarding
 
-- <eco>Put(Plant)</eco> is designed to increase the planting rate of any Planter, therefore increasing the income of any Planter who studies <eco>Put(Plant)</eco>.
+- <eko>Put(Plant)</eko> is designed to increase the planting rate of any Planter, therefore increasing the income of any Planter who studies <eko>Put(Plant)</eko>.
 - Be able to track your progress as a Planter by the number of elements that you've understood then mastered.
 - Complete Tests
 
@@ -42,16 +42,16 @@
 
 ### Badge Value
 
-- By learning all the theory and practices of <eco>Put(Plant)</eco>, you can become a Highballer.
+- By learning all the theory and practices of <eko>Put(Plant)</eko>, you can become a Highballer.
 - Increase your Personal Best (PB) Planting Day. Planting 2,000 in a day is a standard checkpoint for Planters across Canada.
 - Total trees planted during your career is usually 100,000+. Achieving a million trees planting is a badge to be proud of.
-- Get a perfect score on <eco>Put(Plant)</eco>'s tests to add to your CV when applying for Planter jobs.
+- Get a perfect score on <eko>Put(Plant)</eko>'s tests to add to your CV when applying for Planter jobs.
 
 ---
 
 ### Wellness
 
-- <eco>Put(Plant)</eco> is designed to [reduce Planter injury](/guide/Why/Injury).
+- <eko>Put(Plant)</eko> is designed to [reduce Planter injury](/guide/Why/Injury).
 
 ---
 

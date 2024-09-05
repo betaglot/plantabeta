@@ -82,7 +82,7 @@ Remember f(x) = 2x ?
 
 Beta is composed of four factors, each of which can be represented by an icon:
 
-🟩<eco>Eco Factor</eco>: All biologic and geologic objects and processes you interact with while in a planting block. For example: slash, roads, stumps, plants, soil and weather.
+🟩<eko>Eco Factor</eko>: All biologic and geologic objects and processes you interact with while in a planting block. For example: slash, roads, stumps, plants, soil and weather.
 
 🟠<moto>Moto Factor</moto>: The movements and tools you use to plant trees. For example: slamming your spade into the ground, ripping flag, your clothing and your bags.
 
@@ -106,40 +106,40 @@ Beta is composed of four factors, each of which can be represented by an icon:
 
 ### Examples
 
-- 🟩<eco>[Soil](/reference/Eco/Soil/Overview)</eco>: Duff mixed with soil is ok if it is smearable, meaning that the soil sticks together when smeared.
+- 🟩<eko>[Soil](/encyclopedia/eko/Soil/Overview)</eko>: Duff mixed with soil is ok if it is smearable, meaning that the soil sticks together when smeared.
     - Coherent
 
-- 🟩<eco>[CullTree](/reference/Eco/Seedling/Overview)</eco>: Put CullTrees in Duff instead of sidebag.
+- 🟩<eko>[CullTree](/encyclopedia/eko/Seedling/Overview)</eko>: Put CullTrees in Duff instead of sidebag.
 
-- 🟩<eco>[SoilSound](/reference/Eco/Soil/Overview)</eco>: Muffled Soil has lots more organic matter to absorb sound. Rock is louder than organic matter due to the strength of rock's lattice structure.
+- 🟩<eko>[SoilSound](/encyclopedia/eko/Soil/Overview)</eko>: Muffled Soil has lots more organic matter to absorb sound. Rock is louder than organic matter due to the strength of rock's lattice structure.
 
-- 🟠<moto>[Clothing](/reference/Moto/ClothingMoto/Overview)</moto>: Don't leave stuff in backbag when wet.
+- 🟠<moto>[Clothing](/encyclopedia/Moto/ClothingMoto/Overview)</moto>: Don't leave stuff in backbag when wet.
     - Cotton mold
 
-- 🟠<moto>[BundleGrip](/reference/Moto/ToolMoto/Bundle/BundleGrip)</moto>: Grab two bundles in each hand, so four bundles at a time when transfering bundles from boxes to bags.
+- 🟠<moto>[BundleGrip](/encyclopedia/Moto/ToolMoto/Bundle/BundleGrip)</moto>: Grab two bundles in each hand, so four bundles at a time when transfering bundles from boxes to bags.
 
-- 🟠<moto>[TreeTest.Error](/reference/Moto/HandMoto/TreeTest)</moto>: One tree test and what are you looking for?
+- 🟠<moto>[TreeTest.Error](/encyclopedia/Moto/HandMoto/TreeTest)</moto>: One tree test and what are you looking for?
     - 💜<neuro>FearOfReplant</neuro>
 
-- 🟠<moto>[TreeTest](/reference/Moto/HandMoto/TreeTest)</moto>: Single Moto for TreeTest
+- 🟠<moto>[TreeTest](/encyclopedia/Moto/HandMoto/TreeTest)</moto>: Single Moto for TreeTest
 
-- 🟠<moto>[SpadeSlam](/reference/Moto/ToolMoto/Spade/SpadeSlam)</moto>: Humerus Rotate Out for SpadeSlam to recruit Latissimus Dorsi and prevent overactivation of Pectoralis muscles which causes Shoulder Impingement Injury
+- 🟠<moto>[SpadeSlam](/encyclopedia/Moto/ToolMoto/Spade/SpadeSlam)</moto>: Humerus Rotate Out for SpadeSlam to recruit Latissimus Dorsi and prevent overactivation of Pectoralis muscles which causes Shoulder Impingement Injury
 
-- 🟠<moto>[SpadeScreef](/reference/Moto/ToolMoto/Spade/SpadeScreef)</moto>: SpadeScreef is faster than BootScreef or HandScreef. And it flows into the backswing of SpadeSlam.
+- 🟠<moto>[SpadeScreef](/encyclopedia/Moto/ToolMoto/Spade/SpadeScreef)</moto>: SpadeScreef is faster than BootScreef or HandScreef. And it flows into the backswing of SpadeSlam.
 
-- 🟠<moto>[TraverseBush](/reference/Moto/PlantMoto/Overview)</moto>: Spread branches while pushing your way through a bush.
+- 🟠<moto>[TraverseBush](/encyclopedia/Moto/PlantMoto/Overview)</moto>: Spread branches while pushing your way through a bush.
     - AlderCluster, MapleCluster
 
-- 🔻<via>[Walkout](/reference/Via/Path/Overview)</via>: Walkout using the most direct path unless there's a road, skidder trail or clear path near.
+- 🔻<via>[Walkout](/encyclopedia/Via/Path/Overview)</via>: Walkout using the most direct path unless there's a road, skidder trail or clear path near.
     - The PathOfLeastResistance is sometimes faster than ShortestPath
 
-- 🔻<via>[CoverError](/reference/Via/)</via>: FrontFilling is when there are trees between the cache and backline
+- 🔻<via>[CoverError](/encyclopedia/Via/)</via>: FrontFilling is when there are trees between the cache and backline
 
-- 🔻<via>[ViaError](/reference/Via/)</via>: Don't walk up and down slope, only up and across slope, during BoustroCover and ZigzagCover.
+- 🔻<via>[ViaError](/encyclopedia/Via/)</via>: Don't walk up and down slope, only up and across slope, during BoustroCover and ZigzagCover.
 
-- 🔻<via>[Flag](/reference/Via/)</via>: Only flag the "zag" of ZigzagCover.
+- 🔻<via>[Flag](/encyclopedia/Via/)</via>: Only flag the "zag" of ZigzagCover.
 
-- 🔻<via>[FlagError](/reference/Via/)</via>: Attempt to high flag in fill plants whenever possible. The flag may fall to the ground, but it's worth taking the chance since a high flag is more valuable than the time wasted from a HighFlag Fail.
+- 🔻<via>[FlagError](/encyclopedia/Via/)</via>: Attempt to high flag in fill plants whenever possible. The flag may fall to the ground, but it's worth taking the chance since a high flag is more valuable than the time wasted from a HighFlag Fail.
 
 - 🔷<beta>Lesson</beta>: Point out microsites so planter can work on walking speed while not thinking about SiteSelection
     - Isolate Elements, Isolate Skills. Decompose Elements into subelements then instruct them in isolation.

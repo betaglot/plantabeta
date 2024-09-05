@@ -1,4 +1,4 @@
-# 🛠 <eco>Eco Graphics</eco>
+# 🛠 <eko>Eco Graphics</eko>
 
 ## Simplify
 
@@ -26,18 +26,18 @@ Shannon only send what you can't predict
 
 <h2>PageTags</h2>
 
-- "Eco.EcoCard"
-- "Eco.EcoDiagram.CacheDiagram.CacheSize"
-- "Eco.EcoDiagram.CacheDiagram.ColorCode"
-- "Eco.EcoDiagram.CacheDiagram.Hatching"
-- "Eco.EcoDiagram.CacheDiagram.LevelOfDetail"
-- "Eco.EcoDiagram.CacheDiagram.Overview"
-- "Eco.EcoDiagram.Line.ContourLine"
-- "Eco.EcoDiagram.ObstacleDiagram.ColorCode"
-- "Eco.EcoDiagram.ObstacleDiagram.Hatching"
-- "Eco.EcoDiagram.ObstacleDiagram.LevelOfDetail"
-- "Eco.EcoDiagram.ObstacleDiagram.Overview"
-- "Eco.EcoDiagram.Overview"
-- "Eco.EcoDiagram.PlotDiagram"
-- "Eco.EcoDiagram.TreeSilhouette"
+- "Eco.EkoCard"
+- "Eco.EkoDiagram.CacheDiagram.CacheSize"
+- "Eco.EkoDiagram.CacheDiagram.ColorCode"
+- "Eco.EkoDiagram.CacheDiagram.Hatching"
+- "Eco.EkoDiagram.CacheDiagram.LevelOfDetail"
+- "Eco.EkoDiagram.CacheDiagram.Overview"
+- "Eco.EkoDiagram.Line.ContourLine"
+- "Eco.EkoDiagram.ObstacleDiagram.ColorCode"
+- "Eco.EkoDiagram.ObstacleDiagram.Hatching"
+- "Eco.EkoDiagram.ObstacleDiagram.LevelOfDetail"
+- "Eco.EkoDiagram.ObstacleDiagram.Overview"
+- "Eco.EkoDiagram.Overview"
+- "Eco.EkoDiagram.PlotDiagram"
+- "Eco.EkoDiagram.TreeSilhouette"
 :::

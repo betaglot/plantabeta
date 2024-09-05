@@ -23,11 +23,11 @@ An increased vocabulary and standardization of communication improves the effect
 
 ### Planters Communicating with Themselves
 
-Put(Plant) increases the vocabulary of a Planter's internal dialog which improves [short term memory](/reference/Neuro/Memory/ShortTermMemory) of Planter's experience.
+Put(Plant) increases the vocabulary of a Planter's internal dialog which improves [short term memory](/encyclopedia/Neuro/Memory/ShortTermMemory) of Planter's experience.
 
 ### Planter Communicating with Other Planters
 
-[TeamPlant](/reference/Via/TeamPlant/Overview)
+[TeamPlant](/encyclopedia/Via/TeamPlant/Overview)
 
 ### Supervisor Communicating with Planters
 
@@ -39,7 +39,7 @@ When cutting pieces.
 
 *Over where?*
 
-- [Landmark](/reference/Via/ViaGeometry/ViaPoint/Overview) description.
+- [Landmark](/encyclopedia/Via/ViaGeometry/ViaPoint/Overview) description.
 
 ::: details 🛠 <dev>&&&</dev>
 

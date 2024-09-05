@@ -163,7 +163,7 @@ Periods
 #569cd6 
 ```
 
-### <eco>EcoColor</eco>
+### <eko>EcoColor</eko>
 
 ```ts
 #6a9955 
@@ -283,7 +283,7 @@ Delete tags once converted to headers. They are stored in a JSON
 
 ```md
 
-### 🟩 <dev>DesignBox</dev><eco>.Eco</eco>
+### 🟩 <dev>DesignBox</dev><eko>.Eko</eko>
 
 ```md
 ::: details 🛠 <dev>&&&</dev>
@@ -300,7 +300,7 @@ Delete tags once converted to headers. They are stored in a JSON
 
 :::
 
-# 🟩 <eco>Eco</eco>
+# 🟩 <eko>Eco</eko>
 
 ```md
 
@@ -482,7 +482,7 @@ Syntax: `Moto.AnteMoto`
 - How does this Moto interface with Eco?
 - Where in the Via is this Moto performed?
 
-### Moto.Eco
+### Moto.Eko
 
 Where in Eco is this Moto performed and on what EcoFactor. Put "the ground" if necessary. Nothing is too obvious in formal languages!
 
@@ -515,7 +515,7 @@ Where in Eco is this Moto performed and on what EcoFactor. Put "the ground" if n
 
 ## <beta>BetaPage.BaseLayout</beta>
 
-## <eco>EcoPage.BaseLayout</eco>
+## <eko>EcoPage.BaseLayout</eko>
 
 ::: details 🛠 <dev>&&&</dev>
 

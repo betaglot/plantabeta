@@ -49,15 +49,15 @@ Currently there is no way to teach planting
 
 The [Beta System](reference/Beta/WhatBetaSystem) which is developed in BetaComp can be directly applied to Put(Plant).
 
-#### [BetaScore](/reference/Score/Overview)
+#### [BetaScore](/encyclopedia/Score/Overview)
 
 The BetaScore encourages efficiency.
 
-[DifficultyScore](/reference/Score/Difficulty/Overview)
+[DifficultyScore](/encyclopedia/Score/Difficulty/Overview)
 
 - Understand what makes Beta difficult so that Planter can choose the easiest Beta.
 
-[ExecutionScore](/reference/Score)
+[ExecutionScore](/encyclopedia/Score)
 
 - Understand the optimal way to perform a move, to prevent injury.
 

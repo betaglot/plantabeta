@@ -152,7 +152,7 @@ Beta is the method that you use, but also the communication of that method. Ther
 
 The BetaLingo of balance beam
 
-> "<moto>Jump</moto> <via>on</via> the <eco>beam</eco> <via>at the middle</via>, then <moto>step</moto> <via>backwards</via>"
+> "<moto>Jump</moto> <via>on</via> the <eko>beam</eko> <via>at the middle</via>, then <moto>step</moto> <via>backwards</via>"
 
 ### <beta>BetaElement: Object</beta>
 
@@ -164,7 +164,7 @@ Beta_Attributes = {
 
 ```
 
-### <eco>EcoFactor: Object</eco>
+### <eko>EcoFactor: Object</eko>
 
 ```py
 
@@ -232,7 +232,7 @@ for microsite in via:
 - Species Ratio
 -
 
-#### <eco>EcoDict</eco>
+#### <eko>EcoDict</eko>
 
 ### Tuple
 

@@ -8,9 +8,9 @@ Planting can be a dangerous job.
 
 ## Choose Safer Alternatives
 
-Planters can get injured when they don't adapt motos to the specific situation. 🔷<beta>Put(<eco>Plant</eco>)</beta> gives many options to adapt motos for any situation.
+Planters can get injured when they don't adapt motos to the specific situation. 🔷<beta>Put(<eko>Plant</eko>)</beta> gives many options to adapt motos for any situation.
 
-Some Planters only know how to [🟠<moto>HandClose</moto>](/reference/Moto/HandMoto/HandClose) one way, but there are many different ways. Even slightly varying a motos can reduce repetitive strain injuries.
+Some Planters only know how to [🟠<moto>HandClose</moto>](/encyclopedia/Moto/HandMoto/HandClose) one way, but there are many different ways. Even slightly varying a motos can reduce repetitive strain injuries.
 
 ## Repetitive Strain
 
@@ -19,24 +19,24 @@ Injury can occur in Planters when they perform the same movement repeatedly.
 - Do ambidextrous Planters suffer less injury caused by repetitive strain?
     - Repetitive Motion
     - Greater moto variability reduces moto repetition.
-        - How many [🟠<moto>HandClosing</moto>](/reference/Moto/HandMoto/HandClose)  methods do you know?
+        - How many [🟠<moto>HandClosing</moto>](/encyclopedia/Moto/HandMoto/HandClose)  methods do you know?
 
 ## Reduces Injuries from Falling
 
-Put(Plant) teaches Planters how to move through their [🟩<eco>Eco</eco>](/reference/Eco/EcoOverview) safely.
+Put(Plant) teaches Planters how to move through their [🟩<eko>Eco</eko>](/encyclopedia/eko/EcoOverview) safely.
 
 Falling is a large part of Climbing. Put(Plant) transfers the knowledge of how to fall safely from climbing to Planting.
 ::: tip Some of the Motos used to safely Fall
 
-- [🟠<moto>BodyAbsorb</moto>](/reference/Moto/BodyMoto/BodyAbsorb)
-- [🟠<moto>BodyRedirect</moto>](/reference/Moto/BodyMoto/BodyRedirect)
+- [🟠<moto>BodyAbsorb</moto>](/encyclopedia/Moto/BodyMoto/BodyAbsorb)
+- [🟠<moto>BodyRedirect</moto>](/encyclopedia/Moto/BodyMoto/BodyRedirect)
 :::
 
 ## Wrist Tendonitis
 
 Wrist Tendonitis occurs from straining the tissues around the wrist. The strain can be acute, such as when a Planter hits a rock with full force and doesn't absorb the shock, or the strain can be from repetitive use.
 
-- [🟠<moto>ArmAbsorb</moto>](/reference/Moto/ArmMoto/ArmAbsorb) during the impact of [🟠<moto>SpadeSlam</moto>](/reference/Moto/ToolMoto/Spade/SpadeSlam)
+- [🟠<moto>ArmAbsorb</moto>](/encyclopedia/Moto/ArmMoto/ArmAbsorb) during the impact of [🟠<moto>SpadeSlam</moto>](/encyclopedia/Moto/ToolMoto/Spade/SpadeSlam)
 -
 
 ## Christmas Toe
@@ -45,8 +45,8 @@ Planters kick To remove the layer of organic material off an intended microsite.
 
 A greater knowledge of possible alternative moves can prevent Christmas Toe from ever occuring.
 
-- [🟠<moto>SpadeScreef</moto>](/reference/ToolMoto/SpadeMoto/SpadeScreef) instead of only [🟠<moto>FootScreef</moto>](/reference/Moto/FootMoto/FootScreef)
-- [🟠<moto>HandClose</moto>](/reference/Moto/HandMoto/HandClose) instead of only [🟠<moto>FootClose</moto>](/reference/Moto/FootMoto/FootClose)
+- [🟠<moto>SpadeScreef</moto>](/encyclopedia/ToolMoto/SpadeMoto/SpadeScreef) instead of only [🟠<moto>FootScreef</moto>](/encyclopedia/Moto/FootMoto/FootScreef)
+- [🟠<moto>HandClose</moto>](/encyclopedia/Moto/HandMoto/HandClose) instead of only [🟠<moto>FootClose</moto>](/encyclopedia/Moto/FootMoto/FootClose)
 
 ::: details 🛠 <dev>&&&</dev>
 

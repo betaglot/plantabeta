@@ -74275,7 +74275,7 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "BetaGraph.EcosystemMap",
+                    "title": "BetaGraph.EkosystemMap",
                     "color": "#9FE1E7",
                     "textcolor": "#000000ff",
                     "type": "sidecar"
@@ -74309,7 +74309,7 @@
                 "textcolor": "#000000ff"
             },
             {
-                "title": "BetaGraph.EcosystemMap",
+                "title": "BetaGraph.EkosystemMap",
                 "color": "#9FE1E7",
                 "textcolor": "#000000ff"
             },
@@ -74568,7 +74568,7 @@
                 {
                     "color": "#9FE1E7",
                     "textcolor": "#000000ff",
-                    "title": "BetaGraph.EcosystemMap",
+                    "title": "BetaGraph.EkosystemMap",
                     "type": "sidecar"
                 },
                 {
@@ -74627,7 +74627,7 @@
                 "textcolor": "#000000ff"
             },
             {
-                "title": "BetaGraph.EcosystemMap",
+                "title": "BetaGraph.EkosystemMap",
                 "color": "#9FE1E7",
                 "textcolor": "#000000ff"
             },
@@ -74692,7 +74692,7 @@
                 {
                     "color": "#9FE1E7",
                     "textcolor": "#000000ff",
-                    "title": "BetaGraph.EcosystemMapPie.ConcentricRings",
+                    "title": "BetaGraph.EkosystemMapPie.ConcentricRings",
                     "type": "sidecar"
                 },
                 {
@@ -74746,7 +74746,7 @@
                 "textcolor": "#000000ff"
             },
             {
-                "title": "BetaGraph.EcosystemMapPie.ConcentricRings",
+                "title": "BetaGraph.EkosystemMapPie.ConcentricRings",
                 "color": "#9FE1E7",
                 "textcolor": "#000000ff"
             },
@@ -74863,7 +74863,7 @@
                 {
                     "color": "#9FE1E7",
                     "textcolor": "#000000ff",
-                    "title": "BetaGraph.EcosystemMapPie.ConcentricRings",
+                    "title": "BetaGraph.EkosystemMapPie.ConcentricRings",
                     "type": "sidecar"
                 },
                 {
@@ -74889,7 +74889,7 @@
         "extension": "png",
         "tags": [
             {
-                "title": "BetaGraph.EcosystemMapPie.ConcentricRings",
+                "title": "BetaGraph.EkosystemMapPie.ConcentricRings",
                 "color": "#9FE1E7",
                 "textcolor": "#000000ff"
             },
@@ -74945,7 +74945,7 @@
                 {
                     "color": "#9FE1E7",
                     "textcolor": "#000000ff",
-                    "title": "BetaGraph.EcosystemMapPie.ConcentricRings",
+                    "title": "BetaGraph.EkosystemMapPie.ConcentricRings",
                     "type": "sidecar"
                 },
                 {
@@ -75010,7 +75010,7 @@
                 "textcolor": "#000000ff"
             },
             {
-                "title": "BetaGraph.EcosystemMapPie.ConcentricRings",
+                "title": "BetaGraph.EkosystemMapPie.ConcentricRings",
                 "color": "#9FE1E7",
                 "textcolor": "#000000ff"
             },
@@ -75235,7 +75235,7 @@
                 {
                     "color": "#9FE1E7",
                     "textcolor": "#000000ff",
-                    "title": "BetaGraph.EcosystemMapPie.ConcentricRings",
+                    "title": "BetaGraph.EkosystemMapPie.ConcentricRings",
                     "type": "sidecar"
                 },
                 {
@@ -75271,7 +75271,7 @@
                 "textcolor": "#000000ff"
             },
             {
-                "title": "BetaGraph.EcosystemMapPie.ConcentricRings",
+                "title": "BetaGraph.EkosystemMapPie.ConcentricRings",
                 "color": "#9FE1E7",
                 "textcolor": "#000000ff"
             },
@@ -76012,13 +76012,13 @@
                 {
                     "color": "#9FE1E7",
                     "textcolor": "#000000ff",
-                    "title": "BetaGraph.EcosystemMapPie",
+                    "title": "BetaGraph.EkosystemMapPie",
                     "type": "sidecar"
                 },
                 {
                     "color": "#9FE1E7",
                     "textcolor": "#000000ff",
-                    "title": "BetaGraph.EcosystemMapPie.ConcentricRings",
+                    "title": "BetaGraph.EkosystemMapPie.ConcentricRings",
                     "type": "sidecar"
                 },
                 {
@@ -76070,12 +76070,12 @@
                 "textcolor": "#000000ff"
             },
             {
-                "title": "BetaGraph.EcosystemMapPie",
+                "title": "BetaGraph.EkosystemMapPie",
                 "color": "#9FE1E7",
                 "textcolor": "#000000ff"
             },
             {
-                "title": "BetaGraph.EcosystemMapPie.ConcentricRings",
+                "title": "BetaGraph.EkosystemMapPie.ConcentricRings",
                 "color": "#9FE1E7",
                 "textcolor": "#000000ff"
             },
@@ -76118,13 +76118,13 @@
                 {
                     "color": "#9FE1E7",
                     "textcolor": "#000000ff",
-                    "title": "BetaGraph.EcosystemMapPie.ConcentricRings",
+                    "title": "BetaGraph.EkosystemMapPie.ConcentricRings",
                     "type": "sidecar"
                 },
                 {
                     "color": "#9FE1E7",
                     "textcolor": "#000000ff",
-                    "title": "BetaGraph.EcosystemMapPie.PieSection",
+                    "title": "BetaGraph.EkosystemMapPie.PieSection",
                     "type": "sidecar"
                 },
                 {
@@ -76174,12 +76174,12 @@
         "extension": "png",
         "tags": [
             {
-                "title": "BetaGraph.EcosystemMapPie.ConcentricRings",
+                "title": "BetaGraph.EkosystemMapPie.ConcentricRings",
                 "color": "#9FE1E7",
                 "textcolor": "#000000ff"
             },
             {
-                "title": "BetaGraph.EcosystemMapPie.PieSection",
+                "title": "BetaGraph.EkosystemMapPie.PieSection",
                 "color": "#9FE1E7",
                 "textcolor": "#000000ff"
             },
@@ -76237,7 +76237,7 @@
                 {
                     "color": "#9FE1E7",
                     "textcolor": "#000000ff",
-                    "title": "BetaGraph.EcosystemMapPie.PieSection",
+                    "title": "BetaGraph.EkosystemMapPie.PieSection",
                     "type": "sidecar"
                 },
                 {
@@ -76263,7 +76263,7 @@
         "extension": "png",
         "tags": [
             {
-                "title": "BetaGraph.EcosystemMapPie.PieSection",
+                "title": "BetaGraph.EkosystemMapPie.PieSection",
                 "color": "#9FE1E7",
                 "textcolor": "#000000ff"
             },
@@ -76325,13 +76325,13 @@
                 {
                     "color": "#9FE1E7",
                     "textcolor": "#000000ff",
-                    "title": "BetaGraph.EcosystemMapPie",
+                    "title": "BetaGraph.EkosystemMapPie",
                     "type": "sidecar"
                 },
                 {
                     "color": "#9FE1E7",
                     "textcolor": "#000000ff",
-                    "title": "BetaGraph.EcosystemMapPie.ConcentricRings",
+                    "title": "BetaGraph.EkosystemMapPie.ConcentricRings",
                     "type": "sidecar"
                 },
                 {
@@ -76389,12 +76389,12 @@
                 "textcolor": "#000000ff"
             },
             {
-                "title": "BetaGraph.EcosystemMapPie",
+                "title": "BetaGraph.EkosystemMapPie",
                 "color": "#9FE1E7",
                 "textcolor": "#000000ff"
             },
             {
-                "title": "BetaGraph.EcosystemMapPie.ConcentricRings",
+                "title": "BetaGraph.EkosystemMapPie.ConcentricRings",
                 "color": "#9FE1E7",
                 "textcolor": "#000000ff"
             },
@@ -76454,7 +76454,7 @@
                 {
                     "color": "#9FE1E7",
                     "textcolor": "#000000ff",
-                    "title": "BetaGraph.EcosystemMapPie.PieSection",
+                    "title": "BetaGraph.EkosystemMapPie.PieSection",
                     "type": "sidecar"
                 },
                 {
@@ -76496,7 +76496,7 @@
                 "textcolor": "#000000ff"
             },
             {
-                "title": "BetaGraph.EcosystemMapPie.PieSection",
+                "title": "BetaGraph.EkosystemMapPie.PieSection",
                 "color": "#9FE1E7",
                 "textcolor": "#000000ff"
             },
@@ -76539,13 +76539,13 @@
                 {
                     "color": "#9FE1E7",
                     "textcolor": "#000000ff",
-                    "title": "BetaGraph.EcosystemMapPie.CentralElement",
+                    "title": "BetaGraph.EkosystemMapPie.CentralElement",
                     "type": "sidecar"
                 },
                 {
                     "color": "#9FE1E7",
                     "textcolor": "#000000ff",
-                    "title": "BetaGraph.ElementValue.EcosystemValueProposition",
+                    "title": "BetaGraph.ElementValue.EkosystemValueProposition",
                     "type": "sidecar"
                 },
                 {
@@ -76559,12 +76559,12 @@
         "extension": "png",
         "tags": [
             {
-                "title": "BetaGraph.EcosystemMapPie.CentralElement",
+                "title": "BetaGraph.EkosystemMapPie.CentralElement",
                 "color": "#9FE1E7",
                 "textcolor": "#000000ff"
             },
             {
-                "title": "BetaGraph.ElementValue.EcosystemValueProposition",
+                "title": "BetaGraph.ElementValue.EkosystemValueProposition",
                 "color": "#9FE1E7",
                 "textcolor": "#000000ff"
             },
@@ -76598,7 +76598,7 @@
                 {
                     "color": "#9FE1E7",
                     "textcolor": "#000000ff",
-                    "title": "BetaGraph.EcosystemMapPie.PieSection",
+                    "title": "BetaGraph.EkosystemMapPie.PieSection",
                     "type": "sidecar"
                 },
                 {
@@ -76641,7 +76641,7 @@
                 "textcolor": "#000000ff"
             },
             {
-                "title": "BetaGraph.EcosystemMapPie.PieSection",
+                "title": "BetaGraph.EkosystemMapPie.PieSection",
                 "color": "#9FE1E7",
                 "textcolor": "#000000ff"
             },
@@ -76689,7 +76689,7 @@
                 {
                     "color": "#9FE1E7",
                     "textcolor": "#000000ff",
-                    "title": "BetaGraph.EcosystemMapPie.PieSection",
+                    "title": "BetaGraph.EkosystemMapPie.PieSection",
                     "type": "sidecar"
                 },
                 {
@@ -76703,7 +76703,7 @@
         "extension": "png",
         "tags": [
             {
-                "title": "BetaGraph.EcosystemMapPie.PieSection",
+                "title": "BetaGraph.EkosystemMapPie.PieSection",
                 "color": "#9FE1E7",
                 "textcolor": "#000000ff"
             },
@@ -76982,7 +76982,7 @@
                 {
                     "color": "#9FE1E7",
                     "textcolor": "#000000ff",
-                    "title": "BetaGraph.EcosystemMapPie.ConcentricRings",
+                    "title": "BetaGraph.EkosystemMapPie.ConcentricRings",
                     "type": "sidecar"
                 },
                 {
@@ -77034,7 +77034,7 @@
                 "textcolor": "#000000ff"
             },
             {
-                "title": "BetaGraph.EcosystemMapPie.ConcentricRings",
+                "title": "BetaGraph.EkosystemMapPie.ConcentricRings",
                 "color": "#9FE1E7",
                 "textcolor": "#000000ff"
             },
@@ -77086,7 +77086,7 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "BetaGraph.EcosystemMapPie.ConcentricRings",
+                    "title": "BetaGraph.EkosystemMapPie.ConcentricRings",
                     "color": "#9fe1e7ff",
                     "textcolor": "#000000ff",
                     "type": "sidecar"
@@ -77113,7 +77113,7 @@
                 "textcolor": "#000000ff"
             },
             {
-                "title": "BetaGraph.EcosystemMapPie.ConcentricRings",
+                "title": "BetaGraph.EkosystemMapPie.ConcentricRings",
                 "color": "#9fe1e7ff",
                 "textcolor": "#000000ff"
             },
@@ -77156,7 +77156,7 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "BetaGraph.EcosystemMapPie.PieSection",
+                    "title": "BetaGraph.EkosystemMapPie.PieSection",
                     "color": "#9fe1e7ff",
                     "textcolor": "#000000ff",
                     "type": "sidecar"
@@ -77182,7 +77182,7 @@
                 "textcolor": "#000000ff"
             },
             {
-                "title": "BetaGraph.EcosystemMapPie.PieSection",
+                "title": "BetaGraph.EkosystemMapPie.PieSection",
                 "color": "#9fe1e7ff",
                 "textcolor": "#000000ff"
             }
@@ -77226,7 +77226,7 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "BetaGraph.EcosystemMapPie.PieSection",
+                    "title": "BetaGraph.EkosystemMapPie.PieSection",
                     "color": "#9fe1e7ff",
                     "textcolor": "#000000ff",
                     "type": "sidecar"
@@ -77257,7 +77257,7 @@
                 "textcolor": "#000000ff"
             },
             {
-                "title": "BetaGraph.EcosystemMapPie.PieSection",
+                "title": "BetaGraph.EkosystemMapPie.PieSection",
                 "color": "#9fe1e7ff",
                 "textcolor": "#000000ff"
             }
@@ -77283,7 +77283,7 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "BetaGraph.EcosystemMapPie.PieSection",
+                    "title": "BetaGraph.EkosystemMapPie.PieSection",
                     "color": "#9fe1e7ff",
                     "textcolor": "#000000ff",
                     "type": "sidecar"
@@ -77341,7 +77341,7 @@
                 "textcolor": "#000000ff"
             },
             {
-                "title": "BetaGraph.EcosystemMapPie.PieSection",
+                "title": "BetaGraph.EkosystemMapPie.PieSection",
                 "color": "#9fe1e7ff",
                 "textcolor": "#000000ff"
             },
@@ -77402,19 +77402,19 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "BetaGraph.EcosystemMapPie.ConcentricRings",
+                    "title": "BetaGraph.EkosystemMapPie.ConcentricRings",
                     "color": "#9fe1e7ff",
                     "textcolor": "#000000ff",
                     "type": "sidecar"
                 },
                 {
-                    "title": "BetaGraph.EcosystemMapPie.PieSection",
+                    "title": "BetaGraph.EkosystemMapPie.PieSection",
                     "color": "#9fe1e7ff",
                     "textcolor": "#000000ff",
                     "type": "sidecar"
                 },
                 {
-                    "title": "BetaGraph.EcosystemMapPie.CentralElement",
+                    "title": "BetaGraph.EkosystemMapPie.CentralElement",
                     "color": "#9fe1e7ff",
                     "textcolor": "#000000ff",
                     "type": "sidecar"
@@ -77426,7 +77426,7 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "BetaGraph.EcosystemMapPie.ConcentricRings.RingLabel",
+                    "title": "BetaGraph.EkosystemMapPie.ConcentricRings.RingLabel",
                     "color": "#9fe1e7ff",
                     "textcolor": "#000000ff",
                     "type": "sidecar"
@@ -77454,17 +77454,17 @@
                 "textcolor": "#000000ff"
             },
             {
-                "title": "BetaGraph.EcosystemMapPie.ConcentricRings",
+                "title": "BetaGraph.EkosystemMapPie.ConcentricRings",
                 "color": "#9fe1e7ff",
                 "textcolor": "#000000ff"
             },
             {
-                "title": "BetaGraph.EcosystemMapPie.PieSection",
+                "title": "BetaGraph.EkosystemMapPie.PieSection",
                 "color": "#9fe1e7ff",
                 "textcolor": "#000000ff"
             },
             {
-                "title": "BetaGraph.EcosystemMapPie.CentralElement",
+                "title": "BetaGraph.EkosystemMapPie.CentralElement",
                 "color": "#9fe1e7ff",
                 "textcolor": "#000000ff"
             },
@@ -77474,7 +77474,7 @@
                 "textcolor": "#000000ff"
             },
             {
-                "title": "BetaGraph.EcosystemMapPie.ConcentricRings.RingLabel",
+                "title": "BetaGraph.EkosystemMapPie.ConcentricRings.RingLabel",
                 "color": "#9fe1e7ff",
                 "textcolor": "#000000ff"
             },
@@ -77585,19 +77585,19 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "BetaGraph.EcosystemMapPie.ConcentricRings",
+                    "title": "BetaGraph.EkosystemMapPie.ConcentricRings",
                     "color": "#9fe1e7ff",
                     "textcolor": "#000000ff",
                     "type": "sidecar"
                 },
                 {
-                    "title": "BetaGraph.EcosystemMapPie.PieSection",
+                    "title": "BetaGraph.EkosystemMapPie.PieSection",
                     "color": "#9fe1e7ff",
                     "textcolor": "#000000ff",
                     "type": "sidecar"
                 },
                 {
-                    "title": "BetaGraph.EcosystemMapPie.CentralElement",
+                    "title": "BetaGraph.EkosystemMapPie.CentralElement",
                     "color": "#9fe1e7ff",
                     "textcolor": "#000000ff",
                     "type": "sidecar"
@@ -77609,7 +77609,7 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "BetaGraph.EcosystemMapPie.ConcentricRings.RingLabel",
+                    "title": "BetaGraph.EkosystemMapPie.ConcentricRings.RingLabel",
                     "color": "#9fe1e7ff",
                     "textcolor": "#000000ff",
                     "type": "sidecar"
@@ -77637,17 +77637,17 @@
                 "textcolor": "#000000ff"
             },
             {
-                "title": "BetaGraph.EcosystemMapPie.ConcentricRings",
+                "title": "BetaGraph.EkosystemMapPie.ConcentricRings",
                 "color": "#9fe1e7ff",
                 "textcolor": "#000000ff"
             },
             {
-                "title": "BetaGraph.EcosystemMapPie.PieSection",
+                "title": "BetaGraph.EkosystemMapPie.PieSection",
                 "color": "#9fe1e7ff",
                 "textcolor": "#000000ff"
             },
             {
-                "title": "BetaGraph.EcosystemMapPie.CentralElement",
+                "title": "BetaGraph.EkosystemMapPie.CentralElement",
                 "color": "#9fe1e7ff",
                 "textcolor": "#000000ff"
             },
@@ -77657,7 +77657,7 @@
                 "textcolor": "#000000ff"
             },
             {
-                "title": "BetaGraph.EcosystemMapPie.ConcentricRings.RingLabel",
+                "title": "BetaGraph.EkosystemMapPie.ConcentricRings.RingLabel",
                 "color": "#9fe1e7ff",
                 "textcolor": "#000000ff"
             },
@@ -78059,13 +78059,13 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "BetaGraph.EcosystemMapPie.ConcentricRings",
+                    "title": "BetaGraph.EkosystemMapPie.ConcentricRings",
                     "color": "#9fe1e7ff",
                     "textcolor": "#000000ff",
                     "type": "sidecar"
                 },
                 {
-                    "title": "BetaGraph.EcosystemMapPie.ConcentricRings.RingLabel",
+                    "title": "BetaGraph.EkosystemMapPie.ConcentricRings.RingLabel",
                     "color": "#9fe1e7ff",
                     "textcolor": "#000000ff",
                     "type": "sidecar"
@@ -78098,12 +78098,12 @@
                 "textcolor": "#000000ff"
             },
             {
-                "title": "BetaGraph.EcosystemMapPie.ConcentricRings",
+                "title": "BetaGraph.EkosystemMapPie.ConcentricRings",
                 "color": "#9fe1e7ff",
                 "textcolor": "#000000ff"
             },
             {
-                "title": "BetaGraph.EcosystemMapPie.ConcentricRings.RingLabel",
+                "title": "BetaGraph.EkosystemMapPie.ConcentricRings.RingLabel",
                 "color": "#9fe1e7ff",
                 "textcolor": "#000000ff"
             },

@@ -2,20 +2,20 @@
 aside: False
 ---
 
-# 🔷<beta>Put(<eco>Plant</eco>)</beta>
+# 🔷<beta>Put(<eko>Plant</eko>)</beta>
 
 ![Putplant_Logo](/Putplant_Logo.png)
 <!-- 
-## 🔷<beta>Put(<eco>Tree</eco>)</beta>, 🔷<beta>Put(<eco>Shrub</eco>)</beta>, 🔷<beta>Put(<eco>Flower</eco>)</beta>, 🔷<beta>Put(<eco>Moss</eco>)</beta>, 🔷<beta>Put(<eco>Bulb</eco>)</beta>, 🔷<beta>Put(<eco>Root</eco>)</beta>, 🔷<beta>Put(<eco>Meadow</eco>)</beta> -->
+## 🔷<beta>Put(<eko>Tree</eko>)</beta>, 🔷<beta>Put(<eko>Shrub</eko>)</beta>, 🔷<beta>Put(<eko>Flower</eko>)</beta>, 🔷<beta>Put(<eko>Moss</eko>)</beta>, 🔷<beta>Put(<eko>Bulb</eko>)</beta>, 🔷<beta>Put(<eko>Root</eko>)</beta>, 🔷<beta>Put(<eko>Meadow</eko>)</beta> -->
 
-<!-- ::: details What does 🔷<beta>Put(<eco>Plant</eco>)</beta>
+<!-- ::: details What does 🔷<beta>Put(<eko>Plant</eko>)</beta>
 
-## Etymology of 🔷<beta>Put(<eco>Plant</eco>)</beta>
+## Etymology of 🔷<beta>Put(<eko>Plant</eko>)</beta>
 
 ### Colors
 
 - <beta>Blue</beta> for 🔷<beta>Beta</beta>
-- <eco>Green</eco> for 🟩<eco>Eco</eco>
+- <eko>Green</eko> for 🟩<eko>Eco</eko>
 
 ### Brackets <beta>()</beta>
 
@@ -54,34 +54,34 @@ Verb
 - "<beta>Put</beta> it back!"
 - "<beta>put</beta> off course"
 
-### <eco>Plant</eco>
+### <eko>Plant</eko>
 
 Noun
 
-- "This organism belongs to the <eco>Plantae</eco> kingdom"
-- <eco>Phyto</eco>biology
-- Cosmetic Im<eco>plant</eco>
-- House <eco>Plant</eco>
-- Potted <eco>Plant</eco>
-- "newly planted <eco>plant</eco>"
+- "This organism belongs to the <eko>Plantae</eko> kingdom"
+- <eko>Phyto</eko>biology
+- Cosmetic Im<eko>plant</eko>
+- House <eko>Plant</eko>
+- Potted <eko>Plant</eko>
+- "newly planted <eko>plant</eko>"
 - ""
 
 ::: -->
 
-::: info 🔷<beta>Put(<eco>Plant</eco>)</beta>'s **Mission**
+::: info 🔷<beta>Put(<eko>Plant</eko>)</beta>'s **Mission**
 
 - To create a **open source** resource for planters where all knowledge about being a tree planter is coherent and integrated into a single system which can be used to plant any type of land.
 - To research and implement ways to make planters more effective by applying scientific research to planter instruction.
 - To improve the tools that planters use.
 :::
 
-::: info 🔷<beta>Put(<eco>Plant</eco>)</beta>'s **Vision**
+::: info 🔷<beta>Put(<eko>Plant</eko>)</beta>'s **Vision**
 
 - To reduce Climate Change by increasing the number of the plants which are put in the ground every year globally.
 
 :::
 
-::: info 🔷<beta>Put(<eco>Plant</eco>)</beta>'s **Values**
+::: info 🔷<beta>Put(<eko>Plant</eko>)</beta>'s **Values**
 
 - All content is based on empirical evidence.
 - Kindness...
@@ -92,7 +92,7 @@ Noun
 Find out [how trees are planted](/guide/What/WhatTreePlanting) in Canada
 ::: -->
 
-<!-- ## Why use 🔷<beta>Put(<eco>Plant</eco>)</beta>?
+<!-- ## Why use 🔷<beta>Put(<eko>Plant</eko>)</beta>?
 
 ### A Flexible System
 
@@ -100,13 +100,13 @@ Flexibility gives systems resilience, they are able to return quickly to a previ
 
 ### A Progressive System
 
-🔷<beta>Put(<eco>Plant</eco>)</beta> is a "progressive" system, meaning that Planbeta grows with your planting experience. If you're a Novice Planter, then 🔷<beta>Put(<eco>Plant</eco>)</beta>'s library of reference material, guides, tests and video tutorials (🛠 coming soon!) will help you to learn how to be a planter without becoming overwhelmed in your first week on the job.
+🔷<beta>Put(<eko>Plant</eko>)</beta> is a "progressive" system, meaning that Planbeta grows with your planting experience. If you're a Novice Planter, then 🔷<beta>Put(<eko>Plant</eko>)</beta>'s library of reference material, guides, tests and video tutorials (🛠 coming soon!) will help you to learn how to be a planter without becoming overwhelmed in your first week on the job.
 
-If you're an Experienced Planter, then 🔷<beta>Put(<eco>Plant</eco>)</beta> gives you the resources to find and Cover your knowledge gaps, so that you can unlock your full planting potential.
+If you're an Experienced Planter, then 🔷<beta>Put(<eko>Plant</eko>)</beta> gives you the resources to find and Cover your knowledge gaps, so that you can unlock your full planting potential.
 
 ### A Community System
 
-🔷<beta>Put(<eco>Plant</eco>)</beta> combines the best practices of the Planting Industry to offer the most robust and planter friendly planter system available. In addition, dozens of talented planters from across Canada have [contributed to the system](/dev/Contribute). Who knows, maybe you'll even become a 🔷<beta>Put(<eco>Plant</eco>)</beta> contributor.
+🔷<beta>Put(<eko>Plant</eko>)</beta> combines the best practices of the Planting Industry to offer the most robust and planter friendly planter system available. In addition, dozens of talented planters from across Canada have [contributed to the system](/dev/Contribute). Who knows, maybe you'll even become a 🔷<beta>Put(<eko>Plant</eko>)</beta> contributor.
 
 #### What is an Open Source project? -->
 

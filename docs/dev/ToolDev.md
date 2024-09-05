@@ -121,7 +121,7 @@ Pannier
 - Use waterproof Flap instead of sphincter design, since sphincter allows water to collect and slowly seep into backbag.
 - Pocket on underside of Flap
 
-### <eco>Warmth</eco>
+### <eko>Warmth</eko>
 
 - Vambrace triplet brochure conductive metal sheets to wear on core then transfer to forearms
     - Extra weight for more heat during cold weather
@@ -141,7 +141,7 @@ Rope to transport the tools
 
 - Storage within Bags accessible with bags on.
 
-### 🟠<eco>Lashing(SummerCache)</eco>
+### 🟠<eko>Lashing(SummerCache)</eko>
 
 Lashing requires a thinner rope than
 
@@ -288,7 +288,7 @@ Exchangeable Air Filter on Intake Valve
 
 One Way Valve
 
-### 🟠<eco>Cape</eco>
+### 🟠<eko>Cape</eko>
 
 Cape which can be stowed in shoulder straps
 
@@ -320,16 +320,16 @@ Mail at joints
 
 ### LocalizedRepair
 
-## 🟩<eco>EcoTools</eco>
+## 🟩<eko>EcoTools</eko>
 
-### 🟩<eco>TreeBox</eco>
+### 🟩<eko>TreeBox</eko>
 
 - Premixed boxes
 - PieceCache
 - U haul graphic prt boxes
     - Element poster
 
-### 🟩<eco>Treepod</eco>
+### 🟩<eko>Treepod</eko>
 
 Design Treepod to be like ammo.
 
@@ -337,7 +337,7 @@ Seven sided hexagon with honey glue on the last side
 
 Treepod
 
-### 🟩<eco>Bundle Wrapper</eco>
+### 🟩<eko>Bundle Wrapper</eko>
 
 (Untie bundle)InsteadOf(BundlePeel)
 
