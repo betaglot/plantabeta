@@ -29,7 +29,7 @@
 
 ## Spatial Pattern
 
-## Spatial Motoment
+## Spatial Moto
 
 ## Cognitive Map
 

@@ -26,12 +26,12 @@
 - HoleLibrary_ParaLog_RottenLog_RedRot_DuffShot_
 - HoleLibrary_ParaLog_RottenLog_TreeInspector
 - HoleLibrary_ParaRock_RockSize_LithosphereInfluence
-- HoleLibrary_ParaStump_FastLand_OneHandMotoment_SpadeLeverScreef_
+- HoleLibrary_ParaStump_FastLand_OneHandMoto_SpadeLeverScreef_
 - HoleLibrary_Root_ThickRoot_SpadeSnag
 - HoleLibrary_Root_ThinRoot_PlantingSound
 - HoleLibrary_TreeFertilizerHole_ParaHole_SpadeThrow
 - HoleLibrary_TreeFertilizerHole_SameHole_PlantingPhrase
-- HoleLibrary_Underrock_RockPry_SpadeMotoment_SpadeBlade_
+- HoleLibrary_Underrock_RockPry_SpadeMoto_SpadeBlade_
 
 Moto/HoleMoto/Overview.md, <dev>Moto.HoleMoto.Overview</dev>, ![2478.jpg](/PaperPhoto/2478.jpg)
 Moto/HoleMoto/Overview.md, <dev>Moto.HoleMoto.Overview</dev>, ![2945.jpg](/PaperPhoto/2945.jpg)

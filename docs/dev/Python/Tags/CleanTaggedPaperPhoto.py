@@ -147,10 +147,10 @@ tags = [
                     "title": "Moto.Overview.MotoHierarchy.Supermoto"
                 },
                 {
-                    "title": "Moto.Overview.MotomentType"
+                    "title": "Moto.Overview.MotoType"
                 },
                 {
-                    "title": "Moto.Overview.MotomentType.RelativeMotoment"
+                    "title": "Moto.Overview.MotoType.RelativeMoto"
                 },
                 {
                     "title": "Put(Plant)"
@@ -176,10 +176,10 @@ tags = [
                 "title": "Moto.Overview.MotoHierarchy.Supermoto"
             },
             {
-                "title": "Moto.Overview.MotomentType"
+                "title": "Moto.Overview.MotoType"
             },
             {
-                "title": "Moto.Overview.MotomentType.RelativeMotoment"
+                "title": "Moto.Overview.MotoType.RelativeMoto"
             },
             {
                 "title": "Put(Plant)"
@@ -2120,7 +2120,7 @@ tags = [
             "lastUpdated": 1692978839567,
             "tags": [
                 {
-                    "title": "Dev.MotomentDiagram.OrthographicDiagram"
+                    "title": "Dev.MotoDiagram.OrthographicDiagram"
                 },
                 {
                     "title": "Moto.HandMoto.FingertipPress"
@@ -2132,7 +2132,7 @@ tags = [
                     "title": "Moto.MotoDiagram.Overview"
                 },
                 {
-                    "title": "Moto.Overview.MotomentType.RelativeMotoment"
+                    "title": "Moto.Overview.MotoType.RelativeMoto"
                 },
                 {
                     "title": "Put(Plant)"
@@ -2149,7 +2149,7 @@ tags = [
         "extension": "jpg",
         "tags": [
             {
-                "title": "Dev.MotomentDiagram.OrthographicDiagram"
+                "title": "Dev.MotoDiagram.OrthographicDiagram"
             },
             {
                 "title": "Moto.HandMoto.FingertipPress"
@@ -2161,7 +2161,7 @@ tags = [
                 "title": "Moto.MotoDiagram.Overview"
             },
             {
-                "title": "Moto.Overview.MotomentType.RelativeMotoment"
+                "title": "Moto.Overview.MotoType.RelativeMoto"
             },
             {
                 "title": "Put(Plant)"
@@ -2310,7 +2310,7 @@ tags = [
                     "title": "Land.LandDiagram.Overview"
                 },
                 {
-                    "title": "Moto.Overview.ConcertedMotoment"
+                    "title": "Moto.Overview.ConcertedMoto"
                 },
                 {
                     "title": "Put(Plant)"
@@ -2336,7 +2336,7 @@ tags = [
                 "title": "Land.LandDiagram.Overview"
             },
             {
-                "title": "Moto.Overview.ConcertedMotoment"
+                "title": "Moto.Overview.ConcertedMoto"
             },
             {
                 "title": "Put(Plant)"
@@ -17875,7 +17875,7 @@ tags = [
                     "title": "Moto.MotoPhrase"
                 },
                 {
-                    "title": "Moto.Overview.MotomentType.RelativeMotoment"
+                    "title": "Moto.Overview.MotoType.RelativeMoto"
                 },
                 {
                     "title": "Moto.Physics.Direction"
@@ -17907,7 +17907,7 @@ tags = [
                 "title": "Moto.MotoPhrase"
             },
             {
-                "title": "Moto.Overview.MotomentType.RelativeMotoment"
+                "title": "Moto.Overview.MotoType.RelativeMoto"
             },
             {
                 "title": "Moto.Physics.Direction"
@@ -19479,7 +19479,7 @@ tags = [
                     "title": "Guide.Who.PlanterInstructor.InstructorGuide.Template"
                 },
                 {
-                    "title": "Moto.Overview.MotomentType"
+                    "title": "Moto.Overview.MotoType"
                 },
                 {
                     "title": "Neuro.Logic.Boolean",
@@ -19527,7 +19527,7 @@ tags = [
                 "title": "Guide.Who.PlanterInstructor.InstructorGuide.Template"
             },
             {
-                "title": "Moto.Overview.MotomentType"
+                "title": "Moto.Overview.MotoType"
             },
             {
                 "title": "Neuro.Logic.Boolean",
@@ -23611,7 +23611,7 @@ tags = [
                     "title": "Dev.SheetInking"
                 },
                 {
-                    "title": "Moto.Overview.MotomentType"
+                    "title": "Moto.Overview.MotoType"
                 },
                 {
                     "title": "Put(Plant)"
@@ -23637,7 +23637,7 @@ tags = [
                 "title": "Dev.SheetInking"
             },
             {
-                "title": "Moto.Overview.MotomentType"
+                "title": "Moto.Overview.MotoType"
             },
             {
                 "title": "Put(Plant)"
@@ -30699,7 +30699,7 @@ tags = [
                     "title": "Moto.MotoPhrase"
                 },
                 {
-                    "title": "Moto.Overview.MotomentType.RelativeMotoment"
+                    "title": "Moto.Overview.MotoType.RelativeMoto"
                 },
                 {
                     "title": "Neuro.Chunking.Fraction",
@@ -30739,7 +30739,7 @@ tags = [
                 "title": "Moto.MotoPhrase"
             },
             {
-                "title": "Moto.Overview.MotomentType.RelativeMotoment"
+                "title": "Moto.Overview.MotoType.RelativeMoto"
             },
             {
                 "title": "Neuro.Chunking.Fraction",

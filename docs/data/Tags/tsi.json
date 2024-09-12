@@ -255,13 +255,13 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Moto.Overview.MotomentType",
+                    "title": "Moto.Overview.MotoType",
                     "color": "#ffffffff",
                     "textcolor": "#000000ff",
                     "type": "sidecar"
                 },
                 {
-                    "title": "Moto.Overview.MotomentType.RelativeMotoment",
+                    "title": "Moto.Overview.MotoType.RelativeMoto",
                     "color": "#ffffffff",
                     "textcolor": "#000000ff",
                     "type": "sidecar"
@@ -305,12 +305,12 @@
                 "textcolor": "#000000ff"
             },
             {
-                "title": "Moto.Overview.MotomentType",
+                "title": "Moto.Overview.MotoType",
                 "color": "#ffffffff",
                 "textcolor": "#000000ff"
             },
             {
-                "title": "Moto.Overview.MotomentType.RelativeMotoment",
+                "title": "Moto.Overview.MotoType.RelativeMoto",
                 "color": "#ffffffff",
                 "textcolor": "#000000ff"
             },
@@ -3706,7 +3706,7 @@
             "lastUpdated": 1692978839567,
             "tags": [
                 {
-                    "title": "Dev.MotomentDiagram.OrthographicDiagram",
+                    "title": "Dev.MotoDiagram.OrthographicDiagram",
                     "color": "#ffffffff",
                     "textcolor": "#000000ff",
                     "type": "sidecar"
@@ -3730,7 +3730,7 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Moto.Overview.MotomentType.RelativeMotoment",
+                    "title": "Moto.Overview.MotoType.RelativeMoto",
                     "color": "#ffffffff",
                     "textcolor": "#000000ff",
                     "type": "sidecar"
@@ -3759,7 +3759,7 @@
         "extension": "jpg",
         "tags": [
             {
-                "title": "Dev.MotomentDiagram.OrthographicDiagram",
+                "title": "Dev.MotoDiagram.OrthographicDiagram",
                 "color": "#ffffffff",
                 "textcolor": "#000000ff"
             },
@@ -3779,7 +3779,7 @@
                 "textcolor": "white"
             },
             {
-                "title": "Moto.Overview.MotomentType.RelativeMotoment",
+                "title": "Moto.Overview.MotoType.RelativeMoto",
                 "color": "#ffffffff",
                 "textcolor": "#000000ff"
             },
@@ -4040,7 +4040,7 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Moto.Overview.ConcertedMotoment",
+                    "title": "Moto.Overview.ConcertedMoto",
                     "color": "#ffffffff",
                     "textcolor": "#000000ff",
                     "type": "sidecar"
@@ -4085,7 +4085,7 @@
                 "textcolor": "#ffffffff"
             },
             {
-                "title": "Moto.Overview.ConcertedMotoment",
+                "title": "Moto.Overview.ConcertedMoto",
                 "color": "#ffffffff",
                 "textcolor": "#000000ff"
             },
@@ -31682,7 +31682,7 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Moto.Overview.MotomentType.RelativeMotoment",
+                    "title": "Moto.Overview.MotoType.RelativeMoto",
                     "color": "#ff7537ff",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -31738,7 +31738,7 @@
                 "textcolor": "white"
             },
             {
-                "title": "Moto.Overview.MotomentType.RelativeMotoment",
+                "title": "Moto.Overview.MotoType.RelativeMoto",
                 "color": "#ff7537ff",
                 "textcolor": "white"
             },
@@ -34519,7 +34519,7 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Moto.Overview.MotomentType",
+                    "title": "Moto.Overview.MotoType",
                     "color": "#ff7537ff",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -34600,7 +34600,7 @@
                 "textcolor": "#000000ff"
             },
             {
-                "title": "Moto.Overview.MotomentType",
+                "title": "Moto.Overview.MotoType",
                 "color": "#ff7537ff",
                 "textcolor": "white"
             },
@@ -41738,7 +41738,7 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Moto.Overview.MotomentType",
+                    "title": "Moto.Overview.MotoType",
                     "color": "#ff7537ff",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -41782,7 +41782,7 @@
                 "textcolor": "#000000ff"
             },
             {
-                "title": "Moto.Overview.MotomentType",
+                "title": "Moto.Overview.MotoType",
                 "color": "#ff7537ff",
                 "textcolor": "white"
             },
@@ -54167,7 +54167,7 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Moto.Overview.MotomentType.RelativeMotoment",
+                    "title": "Moto.Overview.MotoType.RelativeMoto",
                     "color": "#ff7537ff",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -54234,7 +54234,7 @@
                 "textcolor": "white"
             },
             {
-                "title": "Moto.Overview.MotomentType.RelativeMotoment",
+                "title": "Moto.Overview.MotoType.RelativeMoto",
                 "color": "#ff7537ff",
                 "textcolor": "white"
             },

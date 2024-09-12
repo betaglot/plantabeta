@@ -24,6 +24,10 @@ MediumView
 
 FromTheCache
 
+## Daily Filming
+
+List of elements to video each day to get variations and subtypes
+
 ## See [GoPro](/dev/GoPro)
 
 ## Drone

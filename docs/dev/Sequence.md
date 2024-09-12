@@ -124,7 +124,7 @@ Control flow is the codified version of [Decision Making](/encyclopedia/Neuro/De
 
 ### Else
 
-- Alternative Motoment
+- Alternative Moto
 
 ## GIF
 

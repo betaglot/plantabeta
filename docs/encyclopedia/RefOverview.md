@@ -3,20 +3,19 @@
 
 > This ENCYCLOPEDIA section provides you with details about the functions, modules, and objects included in Put(Plant), describing their Attributes and usage.
 
-## [<beta>**🔷____Beta____**</beta>![Beta](/Beta/Beta_Icon.png)](/encyclopedia/Beta/WhatBeta)
+## [![Beta](/Beta/Beta_Icon.png)](/encyclopedia/Beta/WhatBeta)
 
-## [<eko>**🟩____Eco Parameter____**</eko>![Eco](/Eko/Eco_Icon.png)](/encyclopedia/eko/EkoOverview)
+## [![Eko](/Eko/Eco_Icon.png)](/encyclopedia/eko/EkoOverview)
 
-## [<moto>**🟠____Moto Parameter____**</moto>![Moto](/Moto/Moto_Icon.png)](/encyclopedia/Moto/MotoOverview)
+## [![Moto](/Moto/Moto_Icon.png)](/encyclopedia/Moto/MotoOverview)
 
-## [<via>**🔻____Via Parameter____**</via>![Via](/Via/Via_Icon.png)](/encyclopedia/Via/ViaOverview)
+## [![Via](/Via/Via_Icon.png)](/encyclopedia/Via/ViaOverview)
 
-## [<neuro>**💜____Neuro Parameter____**</neuro>![Neuro](/Neuro/Neuro_Icon.png)](/encyclopedia/Neuro/NeuroOverview)
+## [![Neuro](/Neuro/Neuro_Icon.png)](/encyclopedia/Neuro/NeuroOverview)
 
 ## [Lexikon](/encyclopedia/Lexikon)
 
 A list of all terms that you must be familiar with to master planting.
-
 
 ::: details 🛠 <dev>&&&</dev>
 

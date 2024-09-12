@@ -1295,7 +1295,7 @@ data = [
         "TagName": "Moto.CacheMoto.Overview"
     },
     {
-        "PagePath": "Moto/ClothingMoto/HatMotoment.md",
+        "PagePath": "Moto/ClothingMoto/HatMoto.md",
         "PaperPhoto": "2572.jpg",
         "TagName": "Moto.ClothingMoto.HatMoto"
     },
@@ -2147,12 +2147,12 @@ data = [
     {
         "PagePath": "Moto/MotoOverview.md",
         "PaperPhoto": "0021.jpg",
-        "TagName": "Moto.Overview.MotomentType"
+        "TagName": "Moto.Overview.MotoType"
     },
     {
         "PagePath": "Moto/MotoOverview.md",
         "PaperPhoto": "0021.jpg",
-        "TagName": "Moto.Overview.MotomentType.RelativeMotoment"
+        "TagName": "Moto.Overview.MotoType.RelativeMoto"
     },
     {
         "PagePath": "Moto/MotoOverview.md",
@@ -2172,12 +2172,12 @@ data = [
     {
         "PagePath": "Moto/MotoOverview.md",
         "PaperPhoto": "0296.jpg",
-        "TagName": "Moto.Overview.MotomentType.RelativeMotoment"
+        "TagName": "Moto.Overview.MotoType.RelativeMoto"
     },
     {
         "PagePath": "Moto/MotoOverview.md",
         "PaperPhoto": "0334.jpg",
-        "TagName": "Moto.Overview.ConcertedMotoment"
+        "TagName": "Moto.Overview.ConcertedMoto"
     },
     {
         "PagePath": "Moto/MotoOverview.md",
@@ -3267,7 +3267,7 @@ data = [
     {
         "PagePath": "Moto/MotoOverview.md",
         "PaperPhoto": "1805.jpg",
-        "TagName": "Moto.Overview.MotomentType.RelativeMotoment"
+        "TagName": "Moto.Overview.MotoType.RelativeMoto"
     },
     {
         "PagePath": "Moto/MotoOverview.md",
@@ -3397,7 +3397,7 @@ data = [
     {
         "PagePath": "Moto/MotoOverview.md",
         "PaperPhoto": "1855.jpg",
-        "TagName": "Moto.Overview.MotomentType"
+        "TagName": "Moto.Overview.MotoType"
     },
     {
         "PagePath": "Moto/MotoOverview.md",
@@ -3582,7 +3582,7 @@ data = [
     {
         "PagePath": "Moto/MotoOverview.md",
         "PaperPhoto": "2410.jpg",
-        "TagName": "Moto.Overview.MotomentType"
+        "TagName": "Moto.Overview.MotoType"
     },
     {
         "PagePath": "Moto/MotoOverview.md",
@@ -3737,7 +3737,7 @@ data = [
     {
         "PagePath": "Moto/MotoOverview.md",
         "PaperPhoto": "2869.jpg",
-        "TagName": "Moto.Overview.MotomentType.RelativeMotoment"
+        "TagName": "Moto.Overview.MotoType.RelativeMoto"
     },
     {
         "PagePath": "Moto/MotoOverview.md",

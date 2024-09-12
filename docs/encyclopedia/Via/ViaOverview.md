@@ -244,7 +244,7 @@ Eco is decomposed by composing a Via
 - "Via.ViaSuperposition"
 - PlantingProcess_LandApproach_FlyIn_Helicopter
 - PlantingProcess_LandApproach_WalkIn_WalkInTime
-- PlantingProcess_LandBriefing_FingerPointing_ArmMotoment
+- PlantingProcess_LandBriefing_FingerPointing_ArmMoto
 - PlantingProcess_LandBriefing_PlanterSupervisor_BlockDiagram
 - PlantingProcess_LandBriefing_PlanterSupervisor_LandDiagram
 - PlantingProcess_LandManagement_Error_DeadWalking_Definition_

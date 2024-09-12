@@ -43,7 +43,7 @@ Download Printable resources
 
 ## DevNotes
 
--
+- Document everything to make PutPlant.dev portable to any company
 
 ## DevState
 

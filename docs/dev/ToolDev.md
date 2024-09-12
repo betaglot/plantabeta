@@ -17,6 +17,8 @@ A trailer loaded with everthing that PLANTERS need for their season. For planter
 
 ## 🔻<via>FlagDev</via>
 
+- How are notebooks perforated?
+- Flag wrap is waiter bill fold
 - With cut corner about an inch to maximize surface during branch wrap. Like an ornament or cow ear tag
 - Wooden staple for flag
 - Flag is a source of income for PutPlant
@@ -39,7 +41,7 @@ Wax to waterproof
 - WalkIn
 - BoxMoto
 
-## 🟠<moto>Dory</moto>
+## 🟠<moto>DoryDev</moto>
 
 Greek for Spear
 
@@ -116,7 +118,7 @@ Pannier
 - To keep sidebags from rubbing on legs.
 - Suspension system
 
-### 🟠<moto>BackBag FlapDev</moto>
+### 🟠<moto>BackBagDev</moto>
 
 - Use waterproof Flap instead of sphincter design, since sphincter allows water to collect and slowly seep into backbag.
 - Pocket on underside of Flap
@@ -137,8 +139,9 @@ Ideally there would be a Flagger on each Vambrace
 
 Rope to transport the tools
 
-### <moto>🟠PlotCord</moto>
+### <moto>🟠PlotCordDev</moto>
 
+- Abacus plot cord
 - Storage within Bags accessible with bags on.
 
 ### 🟠<eko>Lashing(SummerCache)</eko>

@@ -38,7 +38,6 @@ Moto Taxa are prefixed by an orange circle 🟠
 🟠
 ```
 
-
 ### <moto>What is a Moto Taxon?</moto>
 
 ```py
@@ -247,12 +246,12 @@ Recover as fluidly as possible
 - "Moto.MotoType.StaticMoto"
 - "Moto.MotoValidation"
 - "Moto.Overview"
-- "Moto.Overview.ConcertedMotoment"
+- "Moto.Overview.ConcertedMoto"
 - "Moto.Overview.MotoHierarchy"
 - "Moto.Overview.MotoHierarchy.Submoto"
 - "Moto.Overview.MotoHierarchy.Supermoto"
-- "Moto.Overview.MotomentType"
-- "Moto.Overview.MotomentType.RelativeMotoment"
+- "Moto.Overview.MotoType"
+- "Moto.Overview.MotoType.RelativeMoto"
 - "Moto.Physics.Acceleration"
 - "Moto.Physics.CenterOfMass"
 - "Moto.Physics.Direction"

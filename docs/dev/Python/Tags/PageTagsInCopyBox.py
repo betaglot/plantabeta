@@ -876,7 +876,7 @@ tags = {
         "Moto.ClothingMoto.ClothingLayer"
     ],
     "Moto/ClothingMoto/ClothingPhrase.md": [],
-    "Moto/ClothingMoto/HatMotoment.md": [
+    "Moto/ClothingMoto/HatMoto.md": [
         "Moto.ClothingMoto.HatMoto"
     ],
     "Moto/ClothingMoto/Overview.md": [
@@ -885,7 +885,7 @@ tags = {
     "Moto/ClothingMoto/RemoveMud.md": [
         "Moto.ClothingMoto.RemoveMud"
     ],
-    "Moto/ClothingMoto/ZipperMotoment.md": [
+    "Moto/ClothingMoto/ZipperMoto.md": [
         "Moto.ClothingMoto.ZipperMoto"
     ],
     "Moto/FootMoto/FootArchSmear.md": [
@@ -1237,12 +1237,12 @@ tags = {
         "Moto.MotoType.StaticMoto",
         "Moto.MotoValidation",
         "Moto.Overview",
-        "Moto.Overview.ConcertedMotoment",
+        "Moto.Overview.ConcertedMoto",
         "Moto.Overview.MotoHierarchy",
         "Moto.Overview.MotoHierarchy.Submoto",
         "Moto.Overview.MotoHierarchy.Supermoto",
-        "Moto.Overview.MotomentType",
-        "Moto.Overview.MotomentType.RelativeMotoment",
+        "Moto.Overview.MotoType",
+        "Moto.Overview.MotoType.RelativeMoto",
         "Moto.Physics.Acceleration",
         "Moto.Physics.CenterOfMass",
         "Moto.Physics.Direction",
@@ -1308,7 +1308,7 @@ tags = {
     "Moto/PlantMoto/BranchDeflection.md": [
         "Moto.PlantMoto.BranchDeflection"
     ],
-    "Moto/PlantMoto/BranchMotoment.md": [],
+    "Moto/PlantMoto/BranchMoto.md": [],
     "Moto/PlantMoto/BranchWhip.md": [
         "Moto.PlantMoto.BranchWhip"
     ],
@@ -1325,7 +1325,7 @@ tags = {
     "Moto/PlantMoto/SlashPile.md": [
         "Moto.PlantMoto.SlashPile"
     ],
-    "Moto/PlantMoto/TrunkMotoment.md": [
+    "Moto/PlantMoto/TrunkMoto.md": [
         "Moto.PlantMoto.TrunkMoto"
     ],
     "Moto/ScreefMoto/Overview.md": [
@@ -1648,7 +1648,7 @@ tags = {
     "Neuro/Time/BagUpTime.md": [],
     "Neuro/Time/CacheTime.md": [],
     "Neuro/Time/DailySchedule.md": [],
-    "Neuro/Time/MotomentTiming.md": [],
+    "Neuro/Time/MotoTiming.md": [],
     "Neuro/Time/Overview.md": [],
     "Neuro/Time/Planning.md": [
         "Neuro.Planning",

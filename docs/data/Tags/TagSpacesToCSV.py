@@ -72,10 +72,10 @@ json = [
                 "title": "Moto.Overview.MotoHierarchy.Supermoto"
             },
             {
-                "title": "Moto.Overview.MotomentType"
+                "title": "Moto.Overview.MotoType"
             },
             {
-                "title": "Moto.Overview.MotomentType.RelativeMotoment"
+                "title": "Moto.Overview.MotoType.RelativeMoto"
             },
             {
                 "title": "Put(Plant)"
@@ -991,7 +991,7 @@ json = [
         "name": "0296.jpg",
         "tags": [
             {
-                "title": "Dev.MotomentDiagram.OrthographicDiagram"
+                "title": "Dev.MotoDiagram.OrthographicDiagram"
             },
             {
                 "title": "Moto.HandMoto.FingertipPress"
@@ -1003,7 +1003,7 @@ json = [
                 "title": "Moto.MotoDiagram.Overview"
             },
             {
-                "title": "Moto.Overview.MotomentType.RelativeMotoment"
+                "title": "Moto.Overview.MotoType.RelativeMoto"
             },
             {
                 "title": "Put(Plant)"
@@ -1083,7 +1083,7 @@ json = [
                 "title": "Land.LandDiagram.Overview"
             },
             {
-                "title": "Moto.Overview.ConcertedMotoment"
+                "title": "Moto.Overview.ConcertedMoto"
             },
             {
                 "title": "Put(Plant)"
@@ -8606,7 +8606,7 @@ json = [
                 "title": "Moto.MotoPhrase"
             },
             {
-                "title": "Moto.Overview.MotomentType.RelativeMotoment"
+                "title": "Moto.Overview.MotoType.RelativeMoto"
             },
             {
                 "title": "Moto.Physics.Direction"
@@ -9384,7 +9384,7 @@ json = [
                 "title": "Guide.Who.PlanterInstructor.InstructorGuide.Template"
             },
             {
-                "title": "Moto.Overview.MotomentType"
+                "title": "Moto.Overview.MotoType"
             },
             {
                 "title": "Neuro.Logic.Boolean",
@@ -11360,7 +11360,7 @@ json = [
                 "title": "Dev.SheetInking"
             },
             {
-                "title": "Moto.Overview.MotomentType"
+                "title": "Moto.Overview.MotoType"
             },
             {
                 "title": "Put(Plant)"
@@ -14760,7 +14760,7 @@ json = [
                 "title": "Moto.MotoPhrase"
             },
             {
-                "title": "Moto.Overview.MotomentType.RelativeMotoment"
+                "title": "Moto.Overview.MotoType.RelativeMoto"
             },
             {
                 "title": "Neuro.Chunking.Fraction",
