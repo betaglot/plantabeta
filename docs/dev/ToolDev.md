@@ -80,6 +80,8 @@ Partially Disassemble to reduce space
 
 ### 🟠<moto>BasketWallDev</moto>
 
+- Cradle board sidebag
+
 ### 🟠<moto>BagFrameDev</moto>
 
 They should be rigid and woven
