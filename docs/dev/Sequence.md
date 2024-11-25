@@ -74,11 +74,12 @@ MotoCards are positioned in a CoverChart
 
 ## Rhythm
 
-<iframe width="600" height="420" src="https://www.youtube.com/embed/2UphAzryVpY" title="A different way to visualize rhythm - John Varney" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe class="youtube-video" src="https://www.youtube.com/embed/2UphAzryVpY" title="A different way to visualize rhythm - John Varney" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ## Timing
 
 ### Frame Rate
+
 
 All Phrases are lists
 
