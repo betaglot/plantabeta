@@ -1,7 +1,7 @@
 
 # 🟩  <eko>StumpObstacle</eko>
 
-![EcoIcon](/Eko/Eco_Icon.png)
+![EcoIcon](/Eko/Eko_Icon.png)
 
 ## Questions about StumpObstacle
 

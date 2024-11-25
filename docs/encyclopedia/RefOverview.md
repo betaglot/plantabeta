@@ -5,7 +5,7 @@
 
 ## [![Beta](/Beta/Beta_Icon.png)](/encyclopedia/Beta/WhatBeta)
 
-## [![Eko](/Eko/Eco_Icon.png)](/encyclopedia/eko/EkoOverview)
+## [![Eko](/Eko/Eko_Icon.png)](/encyclopedia/eko/EkoOverview)
 
 ## [![Moto](/Moto/Moto_Icon.png)](/encyclopedia/Moto/MotoOverview)
 

@@ -1,7 +1,7 @@
 
 # 🟩  <eko>Piece Topography</eko>
 
-![EcoIcon](/Eko/Eco_Icon.png)
+![EcoIcon](/Eko/Eko_Icon.png)
 
 ## Element Problem
 
