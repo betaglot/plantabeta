@@ -47,9 +47,9 @@ Answer 3
 
 ## Related 🟩<eko>EcoFactors</eko>
 
-- Description of how this <neuro>NeuroFactor </neuro>relates to a particular [EcoFactor](/encyclopedia/eko/EcoOverview).
-- Description of how this <neuro>NeuroFactor </neuro>relates to a particular [EcoFactor](/encyclopedia/eko/EcoOverview).
-- Description of how this <neuro>NeuroFactor </neuro>relates to a particular [EcoFactor](/encyclopedia/eko/EcoOverview).
+- Description of how this <neuro>NeuroFactor </neuro>relates to a particular [EcoFactor](/encyclopedia/Eko/EcoOverview).
+- Description of how this <neuro>NeuroFactor </neuro>relates to a particular [EcoFactor](/encyclopedia/Eko/EcoOverview).
+- Description of how this <neuro>NeuroFactor </neuro>relates to a particular [EcoFactor](/encyclopedia/Eko/EcoOverview).
 
 ## Related 🔻<via>ViaFactors</via>
 

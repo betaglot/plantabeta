@@ -1,7 +1,7 @@
 
 # 🟩  <eko>Block</eko>
 
-![Block](/eko/Block.png)
+![Block](/Eko/Block.png)
 
 > The area of land that your crew is planting in.
 

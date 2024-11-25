@@ -23,7 +23,7 @@ Injury can occur in Planters when they perform the same movement repeatedly.
 
 ## Reduces Injuries from Falling
 
-Put(Plant) teaches Planters how to move through their [🟩<eko>Eco</eko>](/encyclopedia/eko/EcoOverview) safely.
+Put(Plant) teaches Planters how to move through their [🟩<eko>Eco</eko>](/encyclopedia/Eko/EcoOverview) safely.
 
 Falling is a large part of Climbing. Put(Plant) transfers the knowledge of how to fall safely from climbing to Planting.
 ::: tip Some of the Motos used to safely Fall

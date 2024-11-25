@@ -74,7 +74,7 @@ Graph which represents how this element is related to other elements in Put(Plan
 ### SlopedLand
 
 - Travel across the Eco instead of up and down
-- Description of how this ViaFactor relates to a particular [EcoFactor](/encyclopedia/eko/EcoOverview).
+- Description of how this ViaFactor relates to a particular [EcoFactor](/encyclopedia/Eko/EcoOverview).
 
 ### Obstacle Preventing BoustroCover
 

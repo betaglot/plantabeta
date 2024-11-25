@@ -47,7 +47,7 @@
 
 💜<neuro>"if": Logic</neuro>
 
-🟩<eko>"trench": [TrenchLand](/encyclopedia/eko/Prep/TrenchLand)</eko>
+🟩<eko>"trench": [TrenchLand](/encyclopedia/Eko/Prep/TrenchLand)</eko>
 
 ## 🔷<beta>"I've been <via>backfilling</via> this <eko>piece</eko>"</beta>
 
