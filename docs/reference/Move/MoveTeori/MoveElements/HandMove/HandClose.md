@@ -1,18 +1,8 @@
-
 # 🟠 <move>HandClose</move>
-
-
-
-
 
 ## <move>Move Phrase</move>
 
  Tamp
-
-
-
-
-
 
 ---
 
@@ -23,11 +13,7 @@
 <!-- =================================================== -->
 ::: details 🛠 <dev>&&&</dev>
 
-
-
 - SlapClose
-
-
 
 <h2>PageTags</h2>
 

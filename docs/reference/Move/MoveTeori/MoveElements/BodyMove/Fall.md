@@ -1,20 +1,6 @@
-
 # 🟠 <move>PlanterFall</move>
 
 ![MoveIkon](/Move/Move_Ikon.png)
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 ---
 

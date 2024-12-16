@@ -1,36 +1,7 @@
 
 # <psike>Short Term Memory</psike>
 
-![NeuroIcon](/Psike/Neuro_Icon.png)
-
-
-
-## Questions about the Element
-
-::: details Questions 1
-
-Answer 1
-:::
-::: details Questions 2
-
-Answer 2
-:::
-::: details Questions 3
-
-Answer 3
-:::
-
-## Element Attributes
-
--
-
-
-
-## Related 💜<psike>NeuroFactors</psike>
-
-## Related 🟠<move>MotoFactors</move>
-
--
+![Psike_Ikon](/Psike/Psike_Ikon.png)
 
 ## Related 🟩<eko>EcoFactors</eko>
 
@@ -54,13 +25,6 @@ Links to other related NeuroFactors.
 - Three
 :::
 
----
-
-<!-- =================================================== -->
-<!-- =================================================== -->
-<!-- =================================================== -->
-<!-- =================================================== -->
-<!-- =================================================== -->
 ---
 
 <!-- =================================================== -->

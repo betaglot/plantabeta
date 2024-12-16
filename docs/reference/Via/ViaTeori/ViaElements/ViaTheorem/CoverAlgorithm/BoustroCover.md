@@ -1,4 +1,3 @@
-
 # 🔻 <via>BoustroCover</via>
 
 ![Boustrophedon](/Boustrophedon.jpg)
@@ -25,7 +24,7 @@
 
 ## BetaGraph
 
-Graph which represents how this element is related to other elements in Put(Plant).
+Graph which represents how this element is related to other elements in PlantaBeta.
 <iframe
     width="100%"
     height="684"
@@ -114,12 +113,8 @@ Links to other related ViaFactors.
 <!-- =================================================== -->
 ::: details 🛠 <dev>&&&</dev>
 
-
-
 - BoustroCover isn't straight parallel lines unless BoustroCover perfectly superimposes onto BoustroTrenchLand
 - BoustroCover.Direction.Absolute
 - BoustroCover.Direction.RelativeTo()
-
-
 
 :::

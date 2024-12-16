@@ -1,4 +1,3 @@
-
 # 🟠 <move>Spade Overview</move>
 
 ## StaffSpade
@@ -18,11 +17,7 @@
 <!-- =================================================== -->
 ::: details 🛠 <dev>&&&</dev>
 
-
-
 - Push off like swimming with your arms or legs or Spade
-
-
 
 <h2>PageTags</h2>
 

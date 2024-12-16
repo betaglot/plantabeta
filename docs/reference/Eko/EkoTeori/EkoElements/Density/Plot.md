@@ -1,4 +1,3 @@
-
 # 🟩  <eko>Plot</eko>🟩
 
 > The area of the circle who's radius is created by a plot cord of a given length, usually 4 meters
@@ -17,9 +16,7 @@ SemiPlot
 
 ## Counting
 
-![EcoIcon](/Eko/Eko_Icon.png)
-
-
+![Eko_Ikon](/Eko/Eko_Ikon.png)
 
 ## Questions about the Element
 
@@ -65,8 +62,6 @@ Select:
 
 ## Related <via>ViaFactors</via>
 
-## Related 💜<psike>NeuroFactors</psike>
-
 - [Counting](/encyclopedia/Psike/Counting/Overview)
 
 ## Quotes
@@ -98,10 +93,6 @@ Links to other related EcoFactors. Related because they are the same EcoType or 
 <!-- =================================================== -->
 ::: details 🛠 <dev>&&&</dev>
 
-
-
 - Remember the start tree in your plot, pick one which is distinctive
-
-
 
 :::

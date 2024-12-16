@@ -1,4 +1,3 @@
-
 # 🔻 <via>Flag</via>
 
 Tool=Flagger

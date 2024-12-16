@@ -1,4 +1,3 @@
-
 # 🟩  <eko>Precipitation</eko>
 
 ## Rain
@@ -7,9 +6,7 @@
 
 ## Hail
 
-![EcoIcon](/Eko/Eko_Icon.png)
-
-
+![Eko_Ikon](/Eko/Eko_Ikon.png)
 
 ## Questions about the Element
 
@@ -62,8 +59,6 @@ Select:
 
 ## Related <via>ViaFactors</via>
 
-## Related 💜<psike>NeuroFactors</psike>
-
 ## Quotes
 
 Quotes about this Element
@@ -86,13 +81,6 @@ Links to other related EcoFactors. Related because they are the same EcoType or 
 
 :::
 
----
-
-<!-- =================================================== -->
-<!-- =================================================== -->
-<!-- =================================================== -->
-<!-- =================================================== -->
-<!-- =================================================== -->
 ---
 
 <!-- =================================================== -->

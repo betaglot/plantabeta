@@ -1,4 +1,3 @@
-
 # 🟠 <move>GloveMoto</move>
 
 ## Glove Anatomy

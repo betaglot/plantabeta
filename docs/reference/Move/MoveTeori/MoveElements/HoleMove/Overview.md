@@ -1,4 +1,3 @@
-
 # 🟠 <move>HoleMoto</move>
 
 ## Hole Anatomy

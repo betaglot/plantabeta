@@ -1,20 +1,6 @@
-
 # 🟠 <move>StepUnderLog</move>
 
 ![MoveIkon](/Move/Move_Ikon.png)
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 ---
 

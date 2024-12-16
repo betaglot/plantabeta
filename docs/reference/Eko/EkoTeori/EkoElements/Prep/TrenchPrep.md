@@ -1,5 +1,4 @@
-
-# 🟩  <eko>TrenchLand</eko>🟩
+# 🟩  <eko>TrenchPrep</eko>🟩
 
 - Also Known As [Bedding](https://www.youtube.com/watch?v=9eudIOmbako)
 
@@ -30,8 +29,6 @@ Perimeter around an Obstacle or a hillock
 <!-- =================================================== -->
 ::: details 🛠 <dev>&&&</dev>
 
-
-
 - Spiltting trenches
 
 Periodically look at neighboring trench to ensure that thete are no missed trenches
@@ -39,8 +36,6 @@ Periodically look at neighboring trench to ensure that thete are no missed trenc
 Use landmarks to define the space
 
 Planters only move around the space above the ground
-
-
 
 <h2>PageTags</h2>
 

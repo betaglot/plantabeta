@@ -1,20 +1,6 @@
-
 # 🟠 <move>BagOff</move>
 
 ![MoveIkon](/Move/Move_Ikon.png)
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 ---
 

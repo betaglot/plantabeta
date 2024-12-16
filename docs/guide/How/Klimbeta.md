@@ -1,7 +1,7 @@
 
 # Klimbeta
 
-<!-- ![Klimbeta_Put(Plant)](/Klimbeta_Put(Plant).png) -->
+<!-- ![Klimbeta_PlantaBeta](/Klimbeta_PlantaBeta.png) -->
 
 ## Story of Young People Who Want to Combat Climate Change
 
@@ -13,17 +13,17 @@
 
 Planting is a solution.
 
-You can contribute to the 2 Billion Tree by using Put(Plant).
+You can contribute to the 2 Billion Tree by using PlantaBeta.
 
 ### Get all articles about how planting trees
 
 ### 🔥 Get all articles about wildfires and replanting
 
-## Novice Planter Story without Put(Plant)
+## Novice Planter Story without PlantaBeta
 
 Explain what tree planting is from the perspective of a Novice Planter.
 
-## Novice Planter Story with BetaComp and Put(Plant)
+## Novice Planter Story with BetaComp and PlantaBeta
 
 Show the utility of BetaComp for Planters
 
@@ -39,15 +39,15 @@ Show the utility of BetaComp for Planters
 - Time it takes to train a Novice
 - Number of Trees planted by a Novice compared to an Experienced Planter.
 
-### 2. How [Put(Plant)](/guide/What/WhatPut(Plant)) helps Planting to Combat Climate Change
+### 2. How [PlantaBeta](/guide/What/WhatPlantaBeta) helps Planting to Combat Climate Change
 
 Currently there is no way to teach planting
 
-### 3. How [BetaComp](/guide/What/WhatBetaComp) helps Put(Plant)
+### 3. How [BetaComp](/guide/What/WhatBetaComp) helps PlantaBeta
 
 #### [Beta System](reference/Beta/WhatBetaSystem)
 
-The [Beta System](reference/Beta/WhatBetaSystem) which is developed in BetaComp can be directly applied to Put(Plant).
+The [Beta System](reference/Beta/WhatBetaSystem) which is developed in BetaComp can be directly applied to PlantaBeta.
 
 #### [BetaScore](/encyclopedia/Score/Overview)
 
@@ -90,7 +90,7 @@ It's not BetaComp that is combatting Climate Change, it's the climbers that are 
 
 Video of climbing with planting bags on
 
-Put(Plant) climbs while planting
+PlantaBeta climbs while planting
 
 Klimbeta could plant while climbing
 

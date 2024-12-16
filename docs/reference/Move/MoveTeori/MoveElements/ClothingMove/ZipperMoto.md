@@ -1,20 +1,6 @@
-
 # 🟠 <move>ZipperMoto</move>
 
 ![MoveIkon](/Move/Move_Ikon.png)
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 ---
 

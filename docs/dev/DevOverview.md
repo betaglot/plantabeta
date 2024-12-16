@@ -1,7 +1,7 @@
 
 # 🛠 <dev>Research and Development</dev>
 
-Put(Plant) is constantly being expanded and improved. Put(Plant) is being developped during the offseason of tree planting in Canada. Put(Plant) will be tested in the field between late April and early August. Nothing is set in stone.
+PlantaBeta is constantly being expanded and improved. PlantaBeta is being developped during the offseason of tree planting in Canada. PlantaBeta will be tested in the field between late April and early August. Nothing is set in stone.
 
 ## Contact
 
@@ -15,11 +15,11 @@ christopheralduncan@gmail.com
 
 ## [Donate Media](/dev/Donation)
 
-Donate Images, Video, Writings, Audio to Put(Plant).
+Donate Images, Video, Writings, Audio to PlantaBeta.
 
 ## [Feedback](/dev/Feedback)
 
-Give feedback to Put(Plant) about what works and doesn't work well, what's unclear and what you've learned.
+Give feedback to PlantaBeta about what works and doesn't work well, what's unclear and what you've learned.
 
 ## [Research Questions](/dev/ResearchQuestions)
 
@@ -29,7 +29,7 @@ A list of questions which have come up during the design process and don't have 
 
 Directions for future developments.
 
-Where can Put(Plant) lead.
+Where can PlantaBeta lead.
 
 ## [Downloads](/dev/Downloads)
 
@@ -48,19 +48,13 @@ Download Printable resources
 <!-- =================================================== -->
 ::: details 🛠 <dev>&&&</dev>
 
-
-
 - Document everything to make PutPlant.dev portable to any company
-
-
 
 <h2>PageTags</h2>
 
 - "Dev.Overview"
-- "Dev.Put(Plant).SeedIdea"
+- "Dev.PlantaBeta.SeedIdea"
 - "Dev.Youtube"
-
-
 
 :::
 

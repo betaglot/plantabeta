@@ -1,20 +1,6 @@
-
 # 🟠 <move>FootDorsiflexion</move>
 
 ![MoveIkon](/Move/Move_Ikon.png)
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 ---
 

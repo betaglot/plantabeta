@@ -1,7 +1,4 @@
-
 # 🟩  <eko>ClaySoil</eko>
-
-
 
 ---
 

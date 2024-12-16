@@ -1,13 +1,10 @@
-
 # 🔻 <via>ElasticSpacing</via>
 
-![ViaIcon](/Via/Via_Icon.png)
-
-
+![ViaIkon](/Via/Via_Ikon.png)
 
 ## BetaGraph
 
-Graph which represents how this element is related to other elements in Put(Plant).
+Graph which represents how this element is related to other elements in PlantaBeta.
 <iframe
     width="100%"
     height="684"
@@ -40,13 +37,6 @@ Links to other related ViaFactors.
 
 - MaximumSpacing
 
----
-
-<!-- =================================================== -->
-<!-- =================================================== -->
-<!-- =================================================== -->
-<!-- =================================================== -->
-<!-- =================================================== -->
 ---
 
 <!-- =================================================== -->

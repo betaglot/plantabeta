@@ -1,20 +1,6 @@
-
 # 🟠 <move>BodyRotate</move>
 
 ![MoveIkon](/Move/Move_Ikon.png)
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 ---
 
@@ -32,6 +18,5 @@ SpinAway
 <h2>PageTags</h2>
 
 - "Move.BodyMove.BodyRotate"
-
 
 :::

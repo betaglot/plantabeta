@@ -1,4 +1,3 @@
-
 # 🟠 <move>ClothingLayer</move>
 
 ## AddClothingLayer

@@ -1,4 +1,3 @@
-
 # 🟠 <move>TreeGrip</move>
 
 ![MoveIkon](/Move/Move_Ikon.png)
@@ -67,11 +66,6 @@
         <p>Description of Move Photo</p>
     </div>
 </div>
-
-
-
-
-
 
 ---
 

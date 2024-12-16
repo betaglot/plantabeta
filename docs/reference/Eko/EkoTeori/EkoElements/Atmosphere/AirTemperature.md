@@ -1,7 +1,4 @@
-
 # 🟩  <eko>Air Temperature</eko>
-
-
 
 ---
 

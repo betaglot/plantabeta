@@ -4,7 +4,7 @@ export default defineConfig({
 
   cleanUrls: true,
   lang: 'en-US',
-  title: 'Put(Plant)',
+  title: 'PlantaBeta',
   description: '',
   lastUpdated: true,
   ignoreDeadLinks: true,
@@ -28,7 +28,7 @@ export default defineConfig({
     //   provider: 'local'
     // },
 
-    // siteTitle: 'Put(Plant)',
+    // siteTitle: 'PlantaBeta',
     // nav: nav(),
 
     // sidebar: {

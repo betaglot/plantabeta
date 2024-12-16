@@ -1,20 +1,6 @@
-
 # 🟠 <move>StepOverLog</move>
 
 ![MoveIkon](/Move/Move_Ikon.png)
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 ---
 

@@ -1,8 +1,6 @@
 # 🔻 <via>Zigzag Curve</via>
 
-![ViaIcon](/Via/Via_Icon.png)
-
-
+![ViaIkon](/Via/Via_Ikon.png)
 
 ## Questions about the Element
 
@@ -19,17 +17,7 @@ Answer 2
 Answer 3
 :::
 
-
-
-
-
 ## Related 🟩<eko>EcoFactors</eko>
-
--
-
-## Related 💜<psike>NeuroFactors</psike>
-
-## Related 🟠<move>MotoFactors</move>
 
 -
 
@@ -56,8 +44,6 @@ Links to other related ViaFactors.
 <!-- =================================================== -->
 ::: details 🛠 <dev>&&&</dev>
 
-
-
 - ZigzagPath(5)
     -ZigzagPath a slope 5 wide
 
@@ -65,7 +51,5 @@ Links to other related ViaFactors.
     - Number of inflection points
     - AngleSize Oblique to Acute
     - Smaller AngleSize makes greater Density
-
-
 
 :::

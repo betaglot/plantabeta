@@ -119,14 +119,10 @@ If you're an Experienced Planter, then 🔷<beta>Put(<eko>Plant</eko>)</beta> gi
 <!-- =================================================== -->
 ::: details 🛠 <dev>&&&</dev>
 
-
-
-- You can plant trees without Beta. Put(Plant) isn't required to plant
-- Put(Plant) is written like a computer programming language function since it's the application of computational thinking.
+- You can plant trees without Beta. PlantaBeta isn't required to plant
+- PlantaBeta is written like a computer programming language function since it's the application of computational thinking.
 - PutPlant.com is only used for learning and research. It's not meant to be used everyday by planters. People don't use textbooks everyday.
 - Shift the Color of Plantations towards green
-
-
 
 <h2>PageTags</h2>
 
@@ -134,10 +130,9 @@ If you're an Experienced Planter, then 🔷<beta>Put(<eko>Plant</eko>)</beta> gi
 - "Guide.What.WhatElement"
 - "Guide.What.WhatElement.ElementName.Affix"
 - "Guide.What.WhatElement.Euclid"
-- "Guide.What.WhatPut(Plant)"
-- "Guide.What.WhatPut(Plant).PlanterQuestion"
-- "Guide.What.WhatPut(Plant).Product"
-- "Guide.What.WhatPut(Plant).Service"
-
+- "Guide.What.WhatPlantaBeta"
+- "Guide.What.WhatPlantaBeta.PlanterQuestion"
+- "Guide.What.WhatPlantaBeta.Product"
+- "Guide.What.WhatPlantaBeta.Service"
 
 :::

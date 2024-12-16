@@ -81,7 +81,7 @@ tags = {
     ],
     "dev/DevOverview.md": [
         "Dev.Overview",
-        "Dev.Put(Plant).SeedIdea",
+        "Dev.PlantaBeta.SeedIdea",
         "Dev.Youtube"
     ],
     "dev/Downloads.md": [
@@ -670,15 +670,15 @@ tags = {
     "guide/How/Science.md": [],
     "guide/What/GearList.md": [],
     "guide/What/WhatGear.md": [],
-    "guide/What/WhatPut(Plant).md": [
+    "guide/What/WhatPlantaBeta.md": [
         "Guide.GettingStarted",
         "Guide.What.WhatElement",
         "Guide.What.WhatElement.ElementName.Affix",
         "Guide.What.WhatElement.Euclid",
-        "Guide.What.WhatPut(Plant)",
-        "Guide.What.WhatPut(Plant).PlanterQuestion",
-        "Guide.What.WhatPut(Plant).Product",
-        "Guide.What.WhatPut(Plant).Service"
+        "Guide.What.WhatPlantaBeta",
+        "Guide.What.WhatPlantaBeta.PlanterQuestion",
+        "Guide.What.WhatPlantaBeta.Product",
+        "Guide.What.WhatPlantaBeta.Service"
     ],
     "guide/What/WhatTreePlanting.md": [
         "Guide.What.WhatTreePlanting"

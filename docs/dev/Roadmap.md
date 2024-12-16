@@ -24,11 +24,11 @@
 
 ### Reference Class Forecasting
 
-Use Reference Class Forecasting to set realistic goals by comparing Put(Plant) with
+Use Reference Class Forecasting to set realistic goals by comparing PlantaBeta with
 
 ## Future Developments
 
-One purpose of Put(Plant) is to act as a resource for designers and researchers.
+One purpose of PlantaBeta is to act as a resource for designers and researchers.
 
 To [Reforest](https://www.lasy.gov.pl/en/information/news/a-forest-is-much-more-than-a-plantation) the Eko destroyed by wildfires in Canada and across the world.
 
@@ -49,7 +49,7 @@ Test [novel planter tools](dev/Tools)
 
 ### Climbing
 
-- Klimbeta + Put(Plant)
+- Klimbeta + PlantaBeta
 
 ## Future Features
 

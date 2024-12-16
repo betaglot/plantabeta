@@ -1,4 +1,3 @@
-
 # 🟠 <move>HandMoto</move>
 
 ## Hand Anatomy

@@ -1,4 +1,3 @@
-
 # 🟠 <move>TruckMoto</move>
 
 ## Truck Anatomy

@@ -1,4 +1,3 @@
-
 # 🟠 <move>GaiterMoto</move>
 
 ## Gaiter Anatomy

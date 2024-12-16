@@ -9,11 +9,7 @@
 <!-- =================================================== -->
 ::: details 🛠 <dev>&&&</dev>
 
-
-
 - 🟩<eko>Log.attribute</eko>
     - Specify LogType with DotNotation
-
-
 
 :::

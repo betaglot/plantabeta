@@ -1,4 +1,3 @@
-
 # 🟠 <move>SpadeHandleGrip</move>
 
 ![MoveIkon](/Move/Move_Ikon.png)

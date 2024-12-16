@@ -1,4 +1,3 @@
-
 # 🟠 <move>PlantMoto</move>
 
 ## Plant Anatomy
@@ -14,13 +13,9 @@
 <!-- =================================================== -->
 ::: details 🛠 <dev>&&&</dev>
 
-
-
 - SlapStick
     - Rake step
 - Eko branch leverage for break. Norah Impaled
-
-
 
 ArmProp to TrunkPush or BranchPush like pushing open a door. There is also ArmAbduction
 

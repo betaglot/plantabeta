@@ -1,20 +1,6 @@
-
 # 🟠 <move>Stand</move>
 
 ![MoveIkon](/Move/Move_Ikon.png)
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 ---
 

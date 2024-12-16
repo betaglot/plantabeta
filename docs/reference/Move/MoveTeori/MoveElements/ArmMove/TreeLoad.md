@@ -6,15 +6,7 @@
 
 -
 
-## Related 🟩<eko>EcoFactors</eko>
-
--
-
-## Related 🔻<via>ViaFactors</via>
-
-- Deciding where to grip tree is Via. If you want to TreeFlip then you grab pod, if you want to
-
-## Related 💜<psike>NeuroFactors</psike>
+ Deciding where to grip tree is Via. If you want to TreeFlip then you grab pod, if you want to
 
 -  
 

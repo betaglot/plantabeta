@@ -1,4 +1,3 @@
-
 # 🟩  <eko>Block</eko>
 
 ![Block](/Eko/Block.png)
@@ -38,12 +37,8 @@ Dispersed
 <!-- =================================================== -->
 ::: details 🛠 <dev>&&&</dev>
 
-
-
 - WalkInBlock
 - WalkOut
-
-
 
 <h2>PageTags</h2>
 

@@ -1,20 +1,6 @@
-
 # 🟠 <move>FootInversion</move>
 
 ![MoveIkon](/Move/Move_Ikon.png)
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 ---
 

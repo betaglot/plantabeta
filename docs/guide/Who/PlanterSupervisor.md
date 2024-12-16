@@ -3,11 +3,11 @@
 
 > A person who manages a crew of Planters
 
-## Using Put(Plant) Before the Season
+## Using PlantaBeta Before the Season
 
-## Using Put(Plant) During the Season
+## Using PlantaBeta During the Season
 
-## Using Put(Plant) After the Season
+## Using PlantaBeta After the Season
 
 Supervisors need to traverse the exact same ground as planters
 
@@ -34,6 +34,5 @@ Supervisor is too many syllables. NameTooLong
 
 - "Guide.Who.PlanterRecruiter"
 - "Guide.Who.PlanterSupervisor"
-
 
 :::

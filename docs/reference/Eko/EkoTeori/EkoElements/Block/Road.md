@@ -1,4 +1,3 @@
-
 # 🟩  <eko>Road</eko>
 
 The dirt road
@@ -23,9 +22,7 @@ Block Start
 
 ## RoadCache
 
-![EcoIcon](/Eko/Eko_Icon.png)
-
-
+![Eko_Ikon](/Eko/Eko_Ikon.png)
 
 ## Questions about the Element
 
@@ -59,7 +56,7 @@ Hover:
 Select:
 :::
 
-Graph which represents how this element is related to other elements in Put(Plant).
+Graph which represents how this element is related to other elements in PlantaBeta.
 🛠 The Element Relationships Chart is still [under development](/dev/ElementsGraph)
 
 <iframe
@@ -74,8 +71,6 @@ Graph which represents how this element is related to other elements in Put(Plan
 ## Related <move>MoveElements</move>
 
 ## Related <via>ViaFactors</via>
-
-## Related 💜<psike>NeuroFactors</psike>
 
 ## Quotes
 
@@ -106,10 +101,6 @@ Links to other related EcoFactors. Related because they are the same EcoType or 
 <!-- =================================================== -->
 ::: details 🛠 <dev>&&&</dev>
 
-
-
 - To a planter a Road is more Via than Eko, since no planting is ever performed on road, unless it has been deactivated.
-
-
 
 :::

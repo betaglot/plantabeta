@@ -1,4 +1,3 @@
-
 # 🔻 <via>TeamCover</via>
 
 When Planters share the same piece of Land they are TeamPlanting, currently known as "Partner Planting" or if there are more than a couple other Planters "Cattle Planting". "Cattle Planting" refers to the situation where cattle a herd of cattle gaze randomly across a piece of land and has a connotation of chaotic Routing. "Cattle Planting" is not a useful term because it does not encourage team work.
@@ -26,11 +25,7 @@ When a Planter follows the line of the Planter in front of them.
 <!-- =================================================== -->
 ::: details 🛠 <dev>&&&</dev>
 
-
-
 - TeamCover is when Beta is executed as a Distributed System
-
-
 
 - LeadPlanter
 - FollowingPlanter

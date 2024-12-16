@@ -1,20 +1,6 @@
-
 # 🟠 <move>TarpOff</move>
 
 ![MoveIkon](/Move/Move_Ikon.png)
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 ---
 

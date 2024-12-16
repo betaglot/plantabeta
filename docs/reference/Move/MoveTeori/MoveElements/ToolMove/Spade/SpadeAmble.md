@@ -28,10 +28,6 @@ def ModifyLength():
 <!-- =================================================== -->
 ::: details 🛠 <dev>&&&</dev>
 
-
-
 - 🟠<move>Walk</move> uses the same
-
-
 
 :::

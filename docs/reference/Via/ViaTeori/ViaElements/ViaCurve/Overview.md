@@ -1,4 +1,3 @@
-
 # 🔻 <via>ViaCurve</via>
 
 ## What is a ViaCurve?
@@ -23,13 +22,9 @@ In mathematics a *line* must be straight, while a *curve* can be straight or not
 <!-- =================================================== -->
 ::: details 🛠 <dev>&&&</dev>
 
-
-
 - ViaCurve is the line of best fit
 - ViaDirection
     - ToCache
-
-
 
 <h2>PageTags</h2>
 

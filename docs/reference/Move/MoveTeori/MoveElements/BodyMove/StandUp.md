@@ -1,20 +1,6 @@
-
 # 🟠 <move>StandUp</move>
 
 ![MoveIkon](/Move/Move_Ikon.png)
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 ---
 
@@ -26,6 +12,5 @@
 ::: details 🛠 <dev>&&&</dev>
 
 -
-
 
 :::

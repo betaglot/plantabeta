@@ -1,17 +1,6 @@
-
 # 🟠 <move>Spade Slam</move>
 
 ![MoveIkon](/Move/Move_Ikon.png)
-
-
-
-
-
-
-
-
-
-
 
 ## Related <move>MoveElements</move>
 
@@ -25,38 +14,11 @@
 
 -
 
-## Related 💜<psike>NeuroFactors</psike>
-
 - BladeFeel
 
 - HandFeel
 
 - SoilListen
-
-## Quotes
-
-Quotes about this Move
-
-> Quote
-
-## MotoErrors
-
-- Ways that this Move could be performed in correctly, causing injury or causing inefficiencies.
-
-## Examples
-
-- Use Media donated by Planters.
-
-Links to other related motos. Related because they are the same MotoType or because they are performed at the same time or within the same Phrase.
-
-## See also:
-
-::: details External References
-
-- One
-- Two
-- Three
-:::
 
 ---
 
@@ -67,16 +29,12 @@ Links to other related motos. Related because they are the same MotoType or beca
 <!-- =================================================== -->
 ::: details 🛠 <dev>&&&</dev>
 
-
-
 - Move error
     - Sequence error
     - Body Bend before spade slam
     - Use body Bend to increase acceleration time to maximize velocity on impact therefore maximizing force on impact
 - SpaceFoot to increase slam height, therefore acceleration therefore force. Spade must impact before foot to be effective
 - Wrestling Snap down is SpadeSlam. Like Rope Climbing.
-
-
 
 - ElbowClose
 - AlsoKnownAs(SpadeThrow)

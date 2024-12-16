@@ -8,9 +8,9 @@ There is about 100 hours of work time available before the season start.
 
 - To know what media to collect
     - Add all the info in the DesignBox to the PageBody
-- To be able to communicate what Put(Plant) is to other planters.
+- To be able to communicate what PlantaBeta is to other planters.
     - NovicePlanter.md
-    - WhatPut(Plant).md
+    - WhatPlantaBeta.md
 
 LaptopOnly tasks include:
 
@@ -34,7 +34,7 @@ LaptopOnly tasks include:
 
 ## Add Green Notebook to DesignBox
 
-Add the information about Put(Plant) to the website.
+Add the information about PlantaBeta to the website.
 
 Add with PinkInk before PaperPhoto. PaperPhoto is more for reference than  
 
@@ -108,10 +108,10 @@ PaperText is most useful for fine details. It should be done after Dictation and
 
 :::
 
-1. Get Put(Plant)PaperText
+1. Get PlantaBetaPaperText
     - Find most recent PaperText
     - Upload PaperText to SQlite
-    - Select of all the PaperText which has a PaperPhoto in Put(Plant)'s repo
+    - Select of all the PaperText which has a PaperPhoto in PlantaBeta's repo
 
 ## Add Definition to each element
 

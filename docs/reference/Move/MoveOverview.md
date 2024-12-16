@@ -1,4 +1,3 @@
-
 # 🟠 <move>Move</move>
 
 ![Move Icon](/Move/Move_Ikon.png)
@@ -93,12 +92,8 @@ Recover as fluidly as possible
 <!-- =================================================== -->
 ::: details 🛠 <dev>&&&</dev>
 
-
-
 - Move is a superset of Movement
 - Move can be a Position or a Movement
-
-
 
 <h2>PageTags</h2>
 

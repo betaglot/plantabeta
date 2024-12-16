@@ -4,7 +4,7 @@
 
 ## Wildfire
 
-All of Canada's burnt Ecos will need to be replanted as efficiently as possible. Put(Plant) increases the efficiency of every Planter who studies it.
+All of Canada's burnt Ecos will need to be replanted as efficiently as possible. PlantaBeta increases the efficiency of every Planter who studies it.
 
 ![Wildfire_02](/Wildfire_02.png)
 
@@ -25,11 +25,7 @@ Mapping the scale of Canada’s record wildfires
 <!-- =================================================== -->
 ::: details 🛠 <dev>&&&</dev>
 
-
-
 - Put use less flag closer to the home page.
-
-
 
 <h2>PageTags</h2>
 

@@ -1,7 +1,6 @@
-
 # 💜 <psike>Confidence</psike>
 
-![NeuroIcon](/Psike/Neuro_Icon.png)
+![Psike_Ikon](/Psike/Psike_Ikon.png)
 
 ## How to deal with Ambiguity
 
@@ -18,10 +17,6 @@ Planter Confidence is the solution to Ambiguity
 <!-- =================================================== -->
 <!-- =================================================== -->
 ::: details 🛠 <dev>&&&</dev>
-
-
-
-
 
 - Self awareness
 

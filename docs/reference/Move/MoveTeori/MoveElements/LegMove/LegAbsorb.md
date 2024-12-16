@@ -1,20 +1,6 @@
-
 # 🟠 <move>LegAbsorb</move>
 
 ![MoveIkon](/Move/Move_Ikon.png)
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 ---
 

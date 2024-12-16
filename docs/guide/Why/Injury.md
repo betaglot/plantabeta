@@ -23,9 +23,9 @@ Injury can occur in Planters when they perform the same movement repeatedly.
 
 ## Reduces Injuries from Falling
 
-Put(Plant) teaches Planters how to move through their [🟩<eko>Eko</eko>](/encyclopedia/Eko/EcoOverview) safely.
+PlantaBeta teaches Planters how to move through their [🟩<eko>Eko</eko>](/encyclopedia/Eko/EcoOverview) safely.
 
-Falling is a large part of Climbing. Put(Plant) transfers the knowledge of how to fall safely from climbing to Planting.
+Falling is a large part of Climbing. PlantaBeta transfers the knowledge of how to fall safely from climbing to Planting.
 ::: tip Some of the Motos used to safely Fall
 
 - [🟠<move>BodyAbsorb</move>](/encyclopedia/Move/BodyMoto/BodyAbsorb)

@@ -1,10 +1,10 @@
 ---
 layout: home 
-title: Put(Plant)
-titleTemplate: Put(Plant)
+title: PlantaBeta
+titleTemplate: PlantaBeta
 
 hero: 
-  name: "Put(Plant)"
+  name: "PlantaBeta"
   text: How to be a Tree Planter
   tagline: The examples, guides, and reference you need—whether you're planting in the mountains of British Columbia, the wetlands of the Canadian Shield, or anywhere in between. Take advantage of these resources to develop your ability to plant faster and with higher quality.
   image:
@@ -12,7 +12,7 @@ hero:
     alt: "Logo"
   # actions:
   #   - theme: brand
-  #     text: I'm new to Put(Plant)
+  #     text: I'm new to PlantaBeta
   #     link: /guide/What/WhatPutPlant
 
 
@@ -27,7 +27,7 @@ hero:
 #     link: /dev/DevOverview
 #   - icon: 🔍
 #     title: Browse the Reference Section
-#     details: Find information about the Put(Plant) objects that you're using
+#     details: Find information about the PlantaBeta objects that you're using
 #     link: /reference/RefOverview
 #   - icon: 🧘‍♀️
 #     title: Waking Up
@@ -36,8 +36,6 @@ hero:
 ---
 
 <!-- 
-
-
 
 - Gif of multiple HandPut() on home page
 - Probably use canva

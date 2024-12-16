@@ -1,20 +1,6 @@
-
 # 🟠 <move>Button</move>
 
 ![MoveIkon](/Move/Move_Ikon.png)
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 ---
 

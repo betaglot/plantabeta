@@ -1,4 +1,3 @@
-
 # 🟩  <eko>Density</eko>
 
 The number of [crop trees](/Glossary/glossary#crop-tree) within a given area, usually a circle of 4 meters.
@@ -28,12 +27,8 @@ The number of [crop trees](/Glossary/glossary#crop-tree) within a given area, us
 <!-- =================================================== -->
 ::: details 🛠 <dev>&&&</dev>
 
-
-
 - LooseDensity
 - TightDensity
-
-
 
 Vor
 

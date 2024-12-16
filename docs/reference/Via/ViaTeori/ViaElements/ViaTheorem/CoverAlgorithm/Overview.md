@@ -1,4 +1,3 @@
-
 # 🔻 <via>Cover Algorithm Overview</via>
 
 ## Cover Algorithm

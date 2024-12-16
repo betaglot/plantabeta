@@ -1,32 +1,10 @@
-
 # 💜 <psike>StepCount </psike>
 
-![NeuroIcon](/Psike/Neuro_Icon.png)
-
-
-
-## Questions about the Element
-
-::: details Questions 1
-
-Answer 1
-:::
-::: details Questions 2
-
-Answer 2
-:::
-::: details Questions 3
-
-Answer 3
-:::
-
-## Element Attributes
-
--
+![Psike_Ikon](/Psike/Psike_Ikon.png)
 
 ## BetaGraph
 
-Graph which represents how this element is related to other elements in Put(Plant).
+Graph which represents how this element is related to other elements in PlantaBeta.
 🛠 The Element Relationships Chart is still [under development](/dev/ElementsGraph)
 
 <iframe
@@ -36,41 +14,6 @@ Graph which represents how this element is related to other elements in Put(Plan
     src="https://observablehq.com/embed/@d3/force-directed-graph/2?cells=chart"
 ></iframe>
 
-## Related 💜<psike>NeuroFactors</psike>
-
-## Related 🟠<move>MotoFactors</move>
-
--
-
-## Related 🟩<eko>EcoFactors</eko>
-
--
-
-## Related 🔻<via>ViaFactors</via>
-
--
-
-## Examples
-
-- Use Media donated by Planters.
-
-## See also:
-
-Links to other related NeuroFactors.
-::: details External References
-
-- One
-- Two
-- Three
-:::
-
----
-
-<!-- =================================================== -->
-<!-- =================================================== -->
-<!-- =================================================== -->
-<!-- =================================================== -->
-<!-- =================================================== -->
 ---
 
 <!-- =================================================== -->

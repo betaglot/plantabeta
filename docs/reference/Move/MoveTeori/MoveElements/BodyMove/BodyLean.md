@@ -1,4 +1,3 @@
-
 # 🟠 <move>BodyLean</move>  🟠
 
 ## 🟠 BodyLean Problem
@@ -10,19 +9,6 @@
 ## 🟠 BodyLean Solution
 
 ![MoveIkon](/Move/Move_Ikon.png)
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 ---
 

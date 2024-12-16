@@ -1,20 +1,6 @@
-
 # 🟠 <move>LegSwing</move>
 
 ![MoveIkon](/Move/Move_Ikon.png)
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 ---
 

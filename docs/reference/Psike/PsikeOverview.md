@@ -1,7 +1,6 @@
-
 # 💜 <psike>Psike Overview </psike>
 
-![NeuroIcon](/Psike/Neuro_Icon.png)
+![Psike_Ikon](/Psike/Psike_Ikon.png)
 
 ## <psike>Psike Symbol</psike> 💜
 
@@ -21,19 +20,6 @@ Short for Neuroscience
 ::: details Why is it called <psike>Psike</psike>?
 
 ## Etymology of "<psike>Psike</psike>"
-
-- <psike>Psike</psike>science
-- <psike>Psike</psike>psychology
-- <psike>Psike</psike>biology
-- <psike>neuro</psike>n
-- <psike>Psike</psike>anatomy
-- <psike>nervo</psike>us system
-- <psike>neuro</psike>muscular connection
-- <psike>nerve</psike>
-- <psike>neuro</psike>tic
-- <psike>neuro</psike>transmitter
-- <psike>neuro</psike>surgery
-- <psike>neuro</psike>logy
 
 :::
 
@@ -70,15 +56,11 @@ Psike Factors are prefixed by a 💜 violet heart icon
 <!-- =================================================== -->
 ::: details 🛠 <dev>&&&</dev>
 
-
-
 - ControlFlowStatements are Psike
-
-
 
 ## Danger
 >
-> It is easy to get lost in neuroscience, but always try to minimize the amount of technical knowledge and only present neuroscience in the context of Put(Plant). Every section needs to directly link back to a planter's experience and not a person's experience in general.
+> It is easy to get lost in neuroscience, but always try to minimize the amount of technical knowledge and only present neuroscience in the context of PlantaBeta. Every section needs to directly link back to a planter's experience and not a person's experience in general.
 
 <h2>PageTags</h2>
 

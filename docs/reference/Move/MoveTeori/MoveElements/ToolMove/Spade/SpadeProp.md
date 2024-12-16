@@ -9,42 +9,6 @@
     </div>
 </div>
 
-
-
-
-
-
-
-
-
-
-
-
-## Quotes
-
-Quotes about this Move
-
-> Quote
-
-## MotoErrors
-
-- Ways that this Move could be performed in correctly, causing injury or causing inefficiencies.
-
-## Examples
-
-- Use Media donated by Planters.
-
-Links to other related motos. Related because they are the same MotoType or because they are performed at the same time or within the same Phrase.
-
-## See also:
-
-::: details External References
-
-- One
-- Two
-- Three
-:::
-
 ---
 
 <!-- =================================================== -->
@@ -54,11 +18,7 @@ Links to other related motos. Related because they are the same MotoType or beca
 <!-- =================================================== -->
 ::: details 🛠 <dev>&&&</dev>
 
-
-
 - Alpinists perform SpadeProp all the time when using an ice axe
-
-
 
 <h2>PageTags</h2>
 

@@ -1,9 +1,6 @@
-
 # 🟩  <eko>Wind</eko>
 
-![EcoIcon](/Eko/Eko_Icon.png)
-
-
+![Eko_Ikon](/Eko/Eko_Ikon.png)
 
 ## Questions about the Element
 
@@ -50,8 +47,6 @@ Select:
 
 ## Related <via>ViaFactors</via>
 
-## Related 💜<psike>NeuroFactors</psike>
-
 ## Quotes
 
 Quotes about this Element
@@ -81,13 +76,9 @@ Links to other related EcoFactors. Related because they are the same EcoType or 
 <!-- =================================================== -->
 ::: details 🛠 <dev>&&&</dev>
 
-
-
 - Tree Eddy to shield from wind
 - Looking up while planting the treeline during windy weather
 - Stand with back to wind to push shirt onto skin for evaporative cooling
-
-
 
 <h2>PageTags</h2>
 :::

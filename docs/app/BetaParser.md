@@ -39,10 +39,6 @@ Most of the Data in Parsed Beta will be hidden, but it is available if you want 
 <!-- =================================================== -->
 ::: details 🛠 <dev>&&&</dev>
 
-
-
 -
-
-
 
 :::

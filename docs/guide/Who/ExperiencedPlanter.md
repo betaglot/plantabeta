@@ -3,11 +3,11 @@
 
 > A Planter who has completed their first planting season.
 
-## Using Put(Plant) Before the Season
+## Using PlantaBeta Before the Season
 
-## Using Put(Plant) During the Season
+## Using PlantaBeta During the Season
 
-## Using Put(Plant) After the Season
+## Using PlantaBeta After the Season
 
 ## How to be an AmbidextrousPlanter
 
@@ -17,7 +17,7 @@ To reduce injury caused by repetitive strain.
 
 ## How to become an ElitePlanter
 
-The main attributes that separates Elite Planters from everyone else are their drive and level of knowledge. Put(Plant) can't teach drive, but it can give Planters every tip and trick. The planting term for a Planter who plants the most trees is a "**Highballer**".
+The main attributes that separates Elite Planters from everyone else are their drive and level of knowledge. PlantaBeta can't teach drive, but it can give Planters every tip and trick. The planting term for a Planter who plants the most trees is a "**Highballer**".
 
 Crew Highballer
 
@@ -71,15 +71,11 @@ The Bear, Season 3, Episode 7 "Legacy"
 <!-- =================================================== -->
 ::: details 🛠 <dev>&&&</dev>
 
-
-
 > Help people learn the lessons that I learned so that they don't have to learn them for themselves. I've been very lucky to have been through what I've been through, to have been around the people that I've been around, to learn the things that I've been able to learn and I don't want to hoard them, I want to give them away
 
 - Golden Age of Planting
 - Experienced Planter The Bear Kitchen Legacy. The legacy of chefs is how their disciples spread their idiosyncracies to other kitchens that they work for. Their legacy elevates the whole field.
 - Annual refresher, Early season refresher
-
-
 
 <h2>PageTags</h2>
 

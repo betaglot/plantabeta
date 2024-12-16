@@ -1,4 +1,3 @@
-
 # 💜 <psike>Arousal</psike>
 
 ::: warning Not Sexual Arousal

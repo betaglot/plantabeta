@@ -17,11 +17,7 @@ If the redrot is screefed to deeper than a blade then punch down if you don't he
 <!-- =================================================== -->
 ::: details 🛠 <dev>&&&</dev>
 
-
-
 - There are no rocks in redrot
-
-
 
 <h2>PageTags</h2>
 

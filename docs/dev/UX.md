@@ -1,5 +1,5 @@
 
-# 🛠 UX: User Experience of Put(Plant)
+# 🛠 UX: User Experience of PlantaBeta
 
 ## Hardware
 
@@ -119,6 +119,5 @@ The Ref is like the API section of Vue.org
 - "Guide.How.Understanding.Interstanding"
 
 - You need to give them something that they can keep
-
 
 :::

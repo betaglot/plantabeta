@@ -1,4 +1,3 @@
-
 # 🔻 <via>Cover Heuristic</via>
 
 ## What is a Heuristic?
@@ -24,8 +23,6 @@ Heuristic Function()
 <!-- =================================================== -->
 ::: details 🛠 <dev>&&&</dev>
 
-
-
 - Take the Hypotenuse to minimize ViaCurve length.
 - Walking across Slope is less fatiguing than walking up or down the slope.
 - When to move to next microsite?
@@ -36,7 +33,5 @@ MotoRecovery is after
 You can't start a phase with MotoRecovery
 
 ### Reflex
-
-
 
 :::

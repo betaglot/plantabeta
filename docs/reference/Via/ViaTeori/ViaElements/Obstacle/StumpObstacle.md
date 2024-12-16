@@ -1,6 +1,6 @@
 # 🔻<via>StumpObstacle</>
 
-![EcoIcon](/Eko/Eko_Icon.png)
+![Eko_Ikon](/Eko/Eko_Ikon.png)
 
 ## Questions about StumpObstacle
 
@@ -27,7 +27,7 @@ Answer 3
 
 ## BetaGraph
 
-Graph which represents how this element is related to other elements in Put(Plant).
+Graph which represents how this element is related to other elements in PlantaBeta.
 <iframe
     width="100%"
     height="684"
@@ -96,8 +96,6 @@ Graph which represents how this element is related to other elements in Put(Plan
 ### 🔻TargetPoint
 
 -
-
-## Related 💜<psike>NeuroFactors</psike>
 
 ### 💜Orientation
 

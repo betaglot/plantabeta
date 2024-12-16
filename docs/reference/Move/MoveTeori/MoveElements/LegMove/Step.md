@@ -1,20 +1,6 @@
-
 # 🟠 <move>Step</move>
 
 ![MoveIkon](/Move/Move_Ikon.png)
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 ---
 

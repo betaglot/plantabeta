@@ -1,4 +1,3 @@
-
 # 🟠 <move>Arm Sidebag Lift</move>
 
 ![MoveIkon](/Move/Move_Ikon.png)

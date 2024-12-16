@@ -1,4 +1,3 @@
-
 # 🟩  <eko>Piece</eko>
 
 ## PieceAnatomy

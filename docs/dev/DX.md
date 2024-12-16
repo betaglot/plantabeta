@@ -1,7 +1,7 @@
 
 # 🛠 DX: Developer Experience
 
-## How can Put(Plant) be developped while in transit?
+## How can PlantaBeta be developped while in transit?
 
 Learning D3.js terms
 
@@ -55,7 +55,7 @@ Homonyms = {
 
 #### Dictation Phrase
 
-0. SetUp Laptop with Put(Plant) open on left half and the google doc open on the right. Record the audio with your phone being held up close to your mouth.
+0. SetUp Laptop with PlantaBeta open on left half and the google doc open on the right. Record the audio with your phone being held up close to your mouth.
 
 1. Look at the Page, Tags and the PaperPhotos in <dev>DesignBox</dev> .
     - Think of something to say for each header. Say the header that you're thinking about, eg. "Subelements", "Related Elements", "Element Attributes", "Definition"...etc
@@ -63,7 +63,7 @@ Homonyms = {
 
 2. Record the audio in a Google Doc until you can't think of anything else to say.
     - Make sure that you're enunciating
-    - Use Put(Plant) terminology, don't worry about grammar
+    - Use PlantaBeta terminology, don't worry about grammar
     - Glance at the text, but don't read it. Sometimes the recording stops.
 
 3. Paste Raw output into VScode Parse the output by adding empty lines between parts
@@ -82,13 +82,6 @@ Homonyms = {
 6. Search for empty design box to find the next page to dictate (there's about 360 left to go, approx 60 hours or work)
 
 ```md
----
-
-<!-- =================================================== -->
-<!-- =================================================== -->
-<!-- =================================================== -->
-<!-- =================================================== -->
-<!-- =================================================== -->
 ---
 
 <!-- =================================================== -->
@@ -149,13 +142,6 @@ Convert the list of Papers associated with a given tag into a markdown photos
 <!-- =================================================== -->
 <!-- =================================================== -->
 <!-- =================================================== -->
----
-
-<!-- =================================================== -->
-<!-- =================================================== -->
-<!-- =================================================== -->
-<!-- =================================================== -->
-<!-- =================================================== -->
 ::: details 🛠 <dev>&&&</dev>
 
 -
@@ -184,17 +170,17 @@ Coherence is developed
 
 ### <psike> “I looked forward to another 500 pounds of squat. I looked forward to doing more and more curls until my arms would fall off. Why? Because I knew that every rep that I did and every set that I did and more weights that I lifted, I get one step closer to turning that **vision** into reality.”</psike>
 
-You're not making it worse, each workblock makes it better, deciding that what you wrote needs to be changed is an improvement. Finding out what doesn't work is a form of improvement. Put(Plant) is a really difficult project, **expect to feel its difficulties!**
+You're not making it worse, each workblock makes it better, deciding that what you wrote needs to be changed is an improvement. Finding out what doesn't work is a form of improvement. PlantaBeta is a really difficult project, **expect to feel its difficulties!**
 
 Just get as much information out of your head and into data structures, so that they can be processed.
 
 <move>Keep going!!!</move>
 
-### Differentiate(Beta, Put(Plant))
+### Differentiate(Beta, PlantaBeta)
 
-Put(Plant) is a language
+PlantaBeta is a language
 
-Plantbeta a beta script. Put(Plant) creates the Attributes of HandMove, like how many fingers you have. Beta can't change the number of fingers. A Hand is part of Put(Plant), a hand is controlled with Beta
+Plantbeta a beta script. PlantaBeta creates the Attributes of HandMove, like how many fingers you have. Beta can't change the number of fingers. A Hand is part of PlantaBeta, a hand is controlled with Beta
 
 - Beta is only during runtime
 
@@ -224,11 +210,11 @@ a data construct that provides a description of something that may be used by a 
 - Prediction
 - Translating Abstract to Concrete
     - Boolean to Bit
-    - Python to Put(Plant)
+    - Python to PlantaBeta
 
 There shouldn't be beta and putplant, because they a supposed to be the name of the language used by planters. Forget "Beta" make up your own name
 
-Put(Plant) is the language and the
+PlantaBeta is the language and the
 
 Beta represents moto, but Move is the move itself. Move doesn't care about how it's being represented.
 

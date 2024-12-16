@@ -14,7 +14,7 @@
 
 -
 
-- Put(Plant) is a service
+- PlantaBeta is a service
 
 - Planters are given nothing
     - "Untrained planters are inefficient" is a logical proposition?
@@ -25,7 +25,5 @@
 - "Guide.Why.Company"
 - "Guide.Why.Innovation.Database"
 - "Guide.Why.Innovation.MinimizeFlag"
-
-
 
 :::

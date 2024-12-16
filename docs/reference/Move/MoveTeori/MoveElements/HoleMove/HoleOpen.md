@@ -1,20 +1,6 @@
-
 # 🟠 <move>HoleOpen</move>
 
 ![MoveIkon](/Move/Move_Ikon.png)
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 ---
 

@@ -9,10 +9,6 @@
 <!-- =================================================== -->
 ::: details 🛠 <dev>&&&</dev>
 
-
-
 - Distance height of microsite above foot equals distance from DoryNeck
-
-
 
 :::

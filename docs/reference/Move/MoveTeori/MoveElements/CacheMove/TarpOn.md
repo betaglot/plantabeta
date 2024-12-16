@@ -1,20 +1,6 @@
-
 # 🟠 <move>TarpOn</move>
 
 ![MoveIkon](/Move/Move_Ikon.png)
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 ---
 

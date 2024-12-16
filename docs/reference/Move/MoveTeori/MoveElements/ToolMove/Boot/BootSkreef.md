@@ -1,4 +1,5 @@
-# 🟠 <move>ArmWalk</move>
+
+# <move>BootScreef</move>
 
 ![MoveIkon](/Move/Move_Ikon.png)
 
@@ -13,7 +14,4 @@
 
 -
 
-<h2>PageTags</h2>
-
-- "Move.ArmMove.ArmWalk"
 :::

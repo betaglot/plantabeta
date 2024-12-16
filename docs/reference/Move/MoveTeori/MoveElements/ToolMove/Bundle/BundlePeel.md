@@ -1,4 +1,3 @@
-
 # 🟠 <move>BundlePeel</move>
 
 <div style="display: flex; width: %100; margin-top: 50px;">
@@ -9,42 +8,6 @@
         <p >Description of Move. How the moto got its name. The purpose of the Move. Common misconceptions about the Move. How to differentiate this moto from another similar moto</p>
     </div>
 </div>
-
-
-
-
-
-
-
-
-
-
-
-
-## Quotes
-
-Quotes about this Move
-
-> Quote
-
-## MotoErrors
-
-- Ways that this Move could be performed in correctly, causing injury or causing inefficiencies.
-
-## Examples
-
-- Use Media donated by Planters.
-
-Links to other related motos. Related because they are the same MotoType or because they are performed at the same time or within the same Phrase.
-
-## See also:
-
-::: details External References
-
-- One
-- Two
-- Three
-:::
 
 ---
 

@@ -1,20 +1,6 @@
-
 # 🟠 <move>FootDrag</move>
 
 ![MoveIkon](/Move/Move_Ikon.png)
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 ---
 

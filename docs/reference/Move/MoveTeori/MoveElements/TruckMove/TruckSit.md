@@ -1,8 +1,6 @@
-# 🟩  <eko>MoundLand</eko>
+# 🟠 <move>TruckSit</move>
 
-## Mounding Error
-
-
+![MoveIkon](/Move/Move_Ikon.png)
 
 ---
 
@@ -17,5 +15,5 @@
 
 <h2>PageTags</h2>
 
-- "Eko.Prep.MoundPrep"
+- "Move.ToolMove.TruckMove.Sit"
 :::

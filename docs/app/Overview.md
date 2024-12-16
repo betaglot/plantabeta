@@ -57,5 +57,5 @@ PutPlantApp is most useful for PotentialPlanters who live in urban areas, who do
 🔷<beta>Put(</beta><eko>Plant</eko><beta>)</beta> is a lot to learn all at once, so learning over a few months before the season starts will be more efficient.
 
 ::: tip Plantbeta
-The Source Code for Put(Plant) is called [Plantbeta](/encyclopedia/Beta/Plantbeta/Overview).
+The Source Code for PlantaBeta is called [Plantbeta](/encyclopedia/Beta/Plantbeta/Overview).
 :::

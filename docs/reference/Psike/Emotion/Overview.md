@@ -1,4 +1,3 @@
-
 # 💜 <psike>Emotion</psike>
 
 ---

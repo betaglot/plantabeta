@@ -6,11 +6,11 @@
 
 Novice Planters ALWAYS Google "How to Plant trees?" before starting the season. Why? To educate themselves as much as possible before starting work, because they know that the more knowledge they have about planting the more money they will make.
 
-## Using Put(Plant) Before the Season
+## Using PlantaBeta Before the Season
 
-## Using Put(Plant) During the Season
+## Using PlantaBeta During the Season
 
-## Using Put(Plant) After the Season
+## Using PlantaBeta After the Season
 
 ---
 
@@ -20,8 +20,6 @@ Novice Planters ALWAYS Google "How to Plant trees?" before starting the season. 
 <!-- =================================================== -->
 <!-- =================================================== -->
 ::: details 🛠 <dev>&&&</dev>
-
-
 
 - Confidence is how much you trust yourself. Doubt. "Was that a good tree, should I Test it?"
 
@@ -33,8 +31,6 @@ Novice Planters ALWAYS Google "How to Plant trees?" before starting the season. 
     - Not vision
     - When NovicePlanter is staring they're not just looking.
     - Trying to remember where you've been, but you don't have a developed mental model of your land, so it's difficult to know
-
-
 
 Scaffold
 Give a place to start

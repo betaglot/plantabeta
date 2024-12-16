@@ -1,4 +1,3 @@
-
 # 💜 <psike>Spatial Cognition</psike>
 
 - Visuospatial Ability

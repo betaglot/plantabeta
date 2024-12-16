@@ -1,7 +1,7 @@
 
 # ENCYCLOPEDIA Overview
 
-> This ENCYCLOPEDIA section provides you with details about the functions, modules, and objects included in Put(Plant), describing their Attributes and usage.
+> This ENCYCLOPEDIA section provides you with details about the functions, modules, and objects included in PlantaBeta, describing their Attributes and usage.
 
 ## [![Beta](/Beta/Beta_Icon.png)](/encyclopedia/Beta/WhatBeta)
 

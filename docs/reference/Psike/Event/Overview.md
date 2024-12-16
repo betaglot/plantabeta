@@ -1,4 +1,3 @@
-
 # 💜 <psike>Event</psike>
 
 > there are dozens of events happening each second
@@ -54,8 +53,6 @@ Event from a first person perspective
 <!-- =================================================== -->
 ::: details 🛠 <dev>&&&</dev>
 
-
-
 - Event Listener
 - Wait for
 - Async Await
@@ -65,8 +62,6 @@ Event from a first person perspective
 - Counter
 - Predict
 - Maintain a Move while waiting for an EcoEvent
-
-
 
 <h2>PageTags</h2>
 

@@ -39,11 +39,7 @@ Protect is more semantically accurate then Obstacle.
 <!-- =================================================== -->
 ::: details 🛠 <dev>&&&</dev>
 
-
-
 - Snowpatch is an Obstacle
-
-
 
 - Obstruction
 - Subsurface Obstacle

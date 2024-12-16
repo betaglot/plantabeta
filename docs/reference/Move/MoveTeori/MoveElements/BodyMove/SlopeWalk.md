@@ -1,20 +1,6 @@
-
 # 🟠 <move>SlopeWalk</move>
 
 ![MoveIkon](/Move/Move_Ikon.png)
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 ---
 

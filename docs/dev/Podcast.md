@@ -1,4 +1,4 @@
-# Put(Plant) Podcast
+# PlantaBeta Podcast
 
 ## Theory
 

@@ -1,6 +1,6 @@
 # 🛠 Research
 
-## Questions about Planting and Put(Plant)
+## Questions about Planting and PlantaBeta
 
 - What is the cyclist cone helmet of planting?
 - What is the ratio between HoleOpen and HoleClose, for NovicePlanter, ExperiencedPlanter, and on all the LandTypes?

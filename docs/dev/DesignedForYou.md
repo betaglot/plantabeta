@@ -66,7 +66,7 @@ sidebar: false
 - *Where can I put this fucking tree!!!*
 - *Why wasn't I taught this before!*
 
-## What is Put(Plant)?
+## What is PlantaBeta?
 
 ### Why are there brackets?
 
@@ -161,7 +161,7 @@ Beta is composed of four factors, each of which can be represented by an icon:
 
 Label things so they can be communicated
 
-## What is the Big Picture for Put(Plant)?
+## What is the Big Picture for PlantaBeta?
 
 A game which is designed to simulate being a planter.
 

@@ -1,4 +1,3 @@
-
 # 🟠 <move>ArmProp</move>
 
 ![MoveIkon](/Move/Move_Ikon.png)
@@ -36,8 +35,6 @@
 
 -
 
-## Related 💜<psike>NeuroFactors</psike>
-
 -  
 
 ---
@@ -59,6 +56,5 @@
 <h2>PageTags</h2>
 
 - "Move.ArmMove.ArmProp"
-
 
 :::

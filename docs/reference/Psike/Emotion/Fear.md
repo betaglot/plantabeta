@@ -1,4 +1,3 @@
-
 # 💜 <psike>Fear </psike>
 
 ## Doubt
@@ -14,12 +13,8 @@
 <!-- =================================================== -->
 ::: details 🛠 <dev>&&&</dev>
 
-
-
 - Treefault is loss
     - Fear of loss
     - Fear of replant
-
-
 
 :::

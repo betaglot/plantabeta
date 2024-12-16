@@ -1,46 +1,9 @@
-
 # 🟠 <move>VegeCatch</move>
 
 > Grab vegetation before colliding with it
 ![MoveIkon](/Move/Move_Ikon.png)
 
 The Plant can be moving towards you or the Plant can be stationary while you move towards the vege
-
-
-
-
-
-
-
-
-
-
-
-
-## Quotes
-
-Quotes about this Move
-
-> Quote
-
-## MotoErrors
-
-- Ways that this Move could be performed in correctly, causing injury or causing inefficiencies.
-
-## Examples
-
-- Use Media donated by Planters.
-
-Links to other related motos. Related because they are the same MotoType or because they are performed at the same time or within the same Phrase.
-
-## See also:
-
-::: details External References
-
-- One
-- Two
-- Three
-:::
 
 ---
 

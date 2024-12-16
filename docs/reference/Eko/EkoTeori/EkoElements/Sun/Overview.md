@@ -1,4 +1,3 @@
-
 # 🟩  <eko>Sun</eko>
 
 ## Shade
@@ -20,11 +19,7 @@ Andrew Huberman is always reminding [us to get morning sunlight](https://www.hub
 <!-- =================================================== -->
 ::: details 🛠 <dev>&&&</dev>
 
-
-
 - Sunfucked
-
-
 
 - Geology_Sun_Shadow_Microsite
 - Geology_Sun_SummerPlanting_HeatStroke

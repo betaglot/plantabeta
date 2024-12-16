@@ -1,4 +1,3 @@
-
 # 🟠 <move>BoxMoto</move>
 
 🔻<via>BoxHandle</via> is the main ViaSurface of Box.
@@ -14,13 +13,9 @@
 <!-- =================================================== -->
 ::: details 🛠 <dev>&&&</dev>
 
-
-
 - Single BoxCarry
 - Double BoxCarry
 - BoxDrag
-
-
 
 <h2>PageTags</h2>
 

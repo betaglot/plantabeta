@@ -89,7 +89,7 @@ Based on Gymnastics Elements. Elements are completed using Beta Factors. Multipl
 
 ## Constraints when Implementing <beta>Beta</beta>
 
-What are the the constraints for each module when implementing Beta in Put(Plant)?
+What are the the constraints for each module when implementing Beta in PlantaBeta?
 
 ### <beta>Beta Constraints</beta>
 
@@ -164,7 +164,7 @@ There is a miscommunication happening if:
 > Elements are just options possibilities
 > Beta requires decision
 
-Each Put(Plant) module is composed of problems and theorems. Problems all have solutions, they aren't proven valid yet, but are still useful for development. Pertainent negative. Science proves hypotheses wrong. NullHypotheses.
+Each PlantaBeta module is composed of problems and theorems. Problems all have solutions, they aren't proven valid yet, but are still useful for development. Pertainent negative. Science proves hypotheses wrong. NullHypotheses.
 
 Eko doesn't have any problems or theorems
 
@@ -199,6 +199,5 @@ Via Theorem, Via Solution
 Via just gives the options, Beta is required to Solve, since solution requires Move. Beta occurs when more than module is required in 1stPersonPoint of view. Planter's perspective.
 
 Psike that just thinks about NeuroFactors
-
 
 :::

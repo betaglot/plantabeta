@@ -1,4 +1,3 @@
-
 # 🔻 <via>Via Problem</via>
 
 > a situation, or thing that needs attention and needs to be dealt with or solved by Via
@@ -7,7 +6,7 @@ You use ViaTheorems or other ViaProblems to solve ViaProblems.
 
 ViaProblems are created by Eko.
 
-![ViaIcon](/Via/Via_Icon.png)
+![ViaIkon](/Via/Via_Ikon.png)
 
 ## Problem Statement
 
@@ -64,12 +63,8 @@ Unknown Information
 <!-- =================================================== -->
 ::: details 🛠 <dev>&&&</dev>
 
-
-
 - Cornering
 - The UltimateViaProblem is to close the next hole. Planting is all about closing holes
-
-
 
 Not all problems can be perfectly solved.
 Define the Area to be Covered

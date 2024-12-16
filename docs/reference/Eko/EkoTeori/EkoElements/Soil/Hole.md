@@ -13,10 +13,6 @@ The void of a Hole is <eko>EcoSpace</eko>, but the sides and bottom of the Hole 
 <!-- =================================================== -->
 ::: details 🛠 <dev>&&&</dev>
 
-
-
 -
-
-
 
 :::

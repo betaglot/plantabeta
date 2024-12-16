@@ -1,7 +1,6 @@
-
 # 🟩  <eko>Eko</eko>
 
-![EcoIcon](/Eko/Eko_Icon.png)
+![Eko_Ikon](/Eko/Eko_Ikon.png)
 
 ## What is <eko>Eko</eko>?
 
@@ -77,15 +76,11 @@ Eko Elements are prefixed by a 🟩 green square icon
 <!-- =================================================== -->
 ::: details 🛠 <dev>&&&</dev>
 
-
-
 - All Land is Eko, but not all Eko is Land. Atmosphere
 - Eko a subset of Psike. Eko is perceived. The map is not the territory. Psike objectifies earth.
 - Eko exists within Awareness
 - A meter into the residual is no longer Eko. Eko is only earth that you interact with.
 - A storm on the other side of your valley is not Eko.
-
-
 
 <h2>PageTags</h2>
 

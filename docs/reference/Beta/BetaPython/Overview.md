@@ -15,7 +15,7 @@ Plantbeta is the Python package which is used to formally write Beta.
 
 ## Python
 
-Use Python's syntax to code Put(Plant).
+Use Python's syntax to code PlantaBeta.
 
 ```py
 def Plant():
@@ -195,15 +195,15 @@ except
 - TopDown
 - Choose the optimal beta, then optimize how you execute the beta
 
-Put(Plant) is the website
+PlantaBeta is the website
 
-You don't need to communicate Beta all the time, but when you do, Put(Plant) helps you to communicate it.
+You don't need to communicate Beta all the time, but when you do, PlantaBeta helps you to communicate it.
 
 Beta is the syntax
 
 Motos are the objects and functions
 
-Plantbeta can be used in Planting and Climbing, on Put(Plant).com and Klimbeta.com
+Plantbeta can be used in Planting and Climbing, on PlantaBeta.com and Klimbeta.com
 
 ## Syntax Highlighting
 
@@ -254,8 +254,6 @@ for object in BetaList:
 <!-- =================================================== -->
 <!-- =================================================== -->
 ::: details 🛠 <dev>&&&</dev>
-
-
 
 1. Introduction
 
@@ -414,7 +412,5 @@ for object in BetaList:
 ## 9.4. Expression input
 
 ## 10. Full Grammar specification
-
-
 
 :::

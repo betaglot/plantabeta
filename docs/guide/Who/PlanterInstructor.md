@@ -24,11 +24,11 @@
 
 - <https://mitsloan.mit.edu/ideas-made-to-matter/curse-knowledge-why-experts-struggle-to-explain-their-work>
 
-## Use Put(Plant) Before the Season
+## Use PlantaBeta Before the Season
 
-## Use Put(Plant) During the Season
+## Use PlantaBeta During the Season
 
-## Use Put(Plant) After the Season
+## Use PlantaBeta After the Season
 
 ## Your Tasks as a Planter Instructor
 
@@ -43,7 +43,7 @@
 
 ::: danger Unteachable Character Traits
 
-A Planter can know everything about how to be a Planter, but still not plant to their maximum potential. This is because to be an elite Planter you must have character traits which can't be taught. Perhaps they can be cultivated by a sports psychologist, but this is currently outside the scope of Put(Plant) and the rest of the planting industry.  
+A Planter can know everything about how to be a Planter, but still not plant to their maximum potential. This is because to be an elite Planter you must have character traits which can't be taught. Perhaps they can be cultivated by a sports psychologist, but this is currently outside the scope of PlantaBeta and the rest of the planting industry.  
 
 Such traits include:
 
@@ -64,13 +64,9 @@ Such traits include:
 <!-- =================================================== -->
 ::: details 🛠 <dev>&&&</dev>
 
-
-
 - Instructor needs to wear bags since demonstration is more salient than words
 - Mental essay about how curiosity can increase learning
 - How would instructor fit into deadlines?
-
-
 
 - Rookie stare isn't experienced as vision
 
@@ -96,6 +92,5 @@ Percentages
 - "Guide.Who.PlanterInstructor.TeachingBlock"
 - "Guide.Who.PlanterInstructor.TeachingPiece"
 - "Guide.Who.PlanterInstructor.TeachingPlot"
-
 
 :::

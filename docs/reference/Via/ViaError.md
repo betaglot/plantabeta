@@ -1,4 +1,3 @@
-
 # 🔻 <via>ViaError</via>
 
 ## CoverError
@@ -52,10 +51,6 @@ GhostLine isn't always an error
 <!-- =================================================== -->
 ::: details 🛠 <dev>&&&</dev>
 
-
-
 - Don't step on dead bark
-
-
 
 :::
