@@ -1,11 +1,7 @@
-# 🔻 <via>WastedFlag</via>
 
-- LowFlag
-- FlagError
-- Flag will not be used in the Future
-- Flag which has blown away from it's intended position
+# 🔻<via>RockObstacle</via>
 
-![ViaIcon](/Via/Via_Icon.png)
+![EcoIcon](/Eko/Eko_Icon.png)
 
 ## Element Problem
 
@@ -30,15 +26,22 @@ Answer 2
 Answer 3
 :::
 
-## Element Purpose
-
--
-
 ## Element Attributes
 
--
+### Element Size
 
-## BetaWeb
+### Element Shape
+
+### Element Color
+
+### Element's Frequency of Occurrence
+
+## Elements Graph
+
+::: details How to use Elements Graph?
+Hover:
+Select:
+:::
 
 <iframe
     width="100%"
@@ -47,23 +50,27 @@ Answer 3
     src="https://observablehq.com/embed/@d3/force-directed-graph/2?cells=chart"
 ></iframe>
 
-## Related 🟩<eko>EcoFactors</eko>
+## Related <eko>EcoFactors</eko>🟩
 
--
+## Related <moto>MotoFactors</moto>
+
+## Related <via>ViaFactors</via>
 
 ## Related 💜<neuro>NeuroFactors</neuro>
 
-## Related 🟠<moto>MotoFactors</moto>
+## Quotes
 
--
+Quotes about this Element
+
+> Quote
 
 ## Examples
 
 - Use Media donated by Planters.
 
-## Related <via>ViaFactors</via>
+## See also
 
-Links to other related ViaFactors.
+Links to other related EcoFactors. Related because they are the same EcoType or because they are performed at the same time or within the same Phrase.
 ::: details External References
 
 - One

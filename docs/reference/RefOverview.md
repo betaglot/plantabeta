@@ -7,7 +7,7 @@
 
 ## [![Eko](/Eko/Eko_Icon.png)](/encyclopedia/Eko/EkoOverview)
 
-## [![Move](/Move/Moto_Icon.png)](/encyclopedia/Move/MotoOverview)
+## [![Move](/Move/Move_Ikon.png)](/encyclopedia/Move/MotoOverview)
 
 ## [![Via](/Via/Via_Icon.png)](/encyclopedia/Via/ViaOverview)
 
