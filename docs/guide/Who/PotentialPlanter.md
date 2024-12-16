@@ -1,9 +1,9 @@
 
-# Potential Planter
+# Potential Plantor
 
-> A person who wants to become a Planter.
+> A person who wants to become a Plantor.
 
-You're wondering if you want to become a Planter
+You're wondering if you want to become a Plantor
 
 How difficult is tree planting?
 
@@ -30,7 +30,7 @@ What is tree planting like?
 
 - FullBodyMove
 - Resilience
-- Move Phrases
+- Move Frases
 
 ### Hiking
 
@@ -61,5 +61,5 @@ What is tree planting like?
 
 <h2>PageTags</h2>
 
-- "Guide.Who.PotentialPlanter"
+- "Guide.Who.PotentialPlantor"
 :::

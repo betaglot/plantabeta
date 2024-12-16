@@ -137,10 +137,10 @@ Maximum Length
 - <https://opensource.guide/how-to-contribute/>
 
 - It will look good on your resume, volunteering for a Non Profit combating climat crisis
-- Give to the planters that will come after you. We will always have forests to cultivate.
+- Give to the plantors that will come after you. We will always have forests to cultivate.
 - "Join a community" instead of just contribute this project. Remember that some people don't want to join a community and remain anonymous.
 - Discussion in chats contribute without pull requests. Conversation leads to code.
-- Community of Planters
+- Community of Plantors
 
 <h2>PageTags</h2>
 

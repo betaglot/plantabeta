@@ -2,6 +2,12 @@
 
 ## Differences between Experience and Attention
 
+## AttentionCycle
+
+PlantingCycle
+
+[Hole, Tool, Plantor, Tree, Plantor, Tool]
+
 ---
 
 <!-- =================================================== -->

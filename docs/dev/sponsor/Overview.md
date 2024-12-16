@@ -5,7 +5,7 @@
 
 ## Sponsoring <eko>PlantaBeta</eko> as a Business
 
-If you are using <eko>PlantaBeta</eko> to train revenue-generating Planters, it makes business sense to sponsor <eko>PlantaBeta</eko>'s development: it ensures the planting knowledge that your company relies on, stays healthy and actively maintained. The exposure and positive brand image in the Tree Planting community also makes it easier to attract and recruit Tree Planters.
+If you are using <eko>PlantaBeta</eko> to train revenue-generating Plantors, it makes business sense to sponsor <eko>PlantaBeta</eko>'s development: it ensures the planting knowledge that your company relies on, stays healthy and actively maintained. The exposure and positive brand image in the Tree Planting community also makes it easier to attract and recruit Tree Plantors.
 
 The sponsorship also builds brand recognition and improves the quality of applicants.
 

@@ -7,15 +7,13 @@ MarkaRip
 
 ## MarkaPurpose
 
-- Naturals
-- Already planted
-- Unplantable Area
+- Demarkate a Space
+- Mark a Site
+    - "Put a marka down, to show where you just planted a tree"
 
 ## MarkaLocation
 
-[MarkaLocation]
-
-## MarkagingFrequency
+## Marka Frequency
 
 - MarkaCount
 
@@ -31,6 +29,10 @@ MarkaRip
 Marka is considered a WastedMarka when it can't be useful for any future [Covering].
 
 - Hidden in a [SlashPile]
+
+## Demarkate a Space
+
+> Set the boundaries
 
 ---
 

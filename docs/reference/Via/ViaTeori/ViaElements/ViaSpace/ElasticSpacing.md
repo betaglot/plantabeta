@@ -29,7 +29,7 @@ Graph which represents how this element is related to other elements in PlantaBe
 
 ## Examples
 
-- Use Media donated by Planters.
+- Use Media donated by Plantors.
 
 ## Related ViaFactors
 

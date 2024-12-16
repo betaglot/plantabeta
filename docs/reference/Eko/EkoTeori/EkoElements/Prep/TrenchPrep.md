@@ -35,7 +35,7 @@ Periodically look at neighboring trench to ensure that thete are no missed trenc
 
 Use landmarks to define the space
 
-Planters only move around the space above the ground
+Plantors only move around the space above the ground
 
 <h2>PageTags</h2>
 

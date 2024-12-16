@@ -30,7 +30,7 @@ Aim small miss small. Larger moves have larger potential for error
 ### Deadwalk
 
 - How can Deadwalk become useful, probably for Via.
-- Walking within a piece while **not** performing a planting Phrase.
+- Walking within a piece while **not** performing a planting Frase.
 - Deadwalks are required to Cover very oblong areas.
 
 ## Related <move>MoveElements</move>

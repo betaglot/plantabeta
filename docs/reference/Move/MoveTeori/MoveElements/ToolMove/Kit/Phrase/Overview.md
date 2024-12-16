@@ -1,5 +1,5 @@
 
-# 🔷 <move>Kit Phrase</move>
+# 🔷 <move>Kit Frase</move>
 
 ---
 

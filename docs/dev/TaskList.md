@@ -143,7 +143,7 @@ Connect Academia to PutPlant by linking to each field's current understanding.
 
 > interview people to gain a better understanding of their experience of PutPlant or related topics
 
-### Interview Planters
+### Interview Plantors
 
 ### Interview Supervisors
 
@@ -289,7 +289,7 @@ See [Tools](/dev/Tools) for notes about each tool
 
 ## Video
 
-> a film crew to record planters working
+> a film crew to record plantors working
 
 - Film Video
 - Producer

@@ -60,7 +60,7 @@ Psike Factors are prefixed by a 💜 violet heart icon
 
 ## Danger
 >
-> It is easy to get lost in neuroscience, but always try to minimize the amount of technical knowledge and only present neuroscience in the context of PlantaBeta. Every section needs to directly link back to a planter's experience and not a person's experience in general.
+> It is easy to get lost in neuroscience, but always try to minimize the amount of technical knowledge and only present neuroscience in the context of PlantaBeta. Every section needs to directly link back to a plantor's experience and not a person's experience in general.
 
 <h2>PageTags</h2>
 

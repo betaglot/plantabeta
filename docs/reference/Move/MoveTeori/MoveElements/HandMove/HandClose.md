@@ -1,6 +1,6 @@
 # 🟠 <move>HandClose</move>
 
-## <move>Move Phrase</move>
+## <move>Move Frase</move>
 
  Tamp
 

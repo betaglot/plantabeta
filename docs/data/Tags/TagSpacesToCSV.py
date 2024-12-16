@@ -902,7 +902,7 @@ json = [
                 "title": "Move.MoveLine"
             },
             {
-                "title": "Move.MovePhrase"
+                "title": "Move.MoveFrase"
             },
             {
                 "title": "PlantaBeta"
@@ -1023,7 +1023,7 @@ json = [
                 "title": "Move.MoveDiagram.MoveTimeline"
             },
             {
-                "title": "Move.MovePhrase"
+                "title": "Move.MoveFrase"
             },
             {
                 "title": "PlantaBeta"
@@ -1138,10 +1138,10 @@ json = [
                 "title": "Dev.Interdisciplinary.Climbing.Udini"
             },
             {
-                "title": "Dev.PlanterMetaInstructor"
+                "title": "Dev.PlantorMetaInstructor"
             },
             {
-                "title": "Guide.Who.PlanterInstructor"
+                "title": "Guide.Who.PlantorInstructor"
             },
             {
                 "title": "Land.Block.Overview"
@@ -1165,7 +1165,7 @@ json = [
                 "title": "Move.PlantMove.SnagMove.SpadeSnag"
             },
             {
-                "title": "Move.PlanterDiagram"
+                "title": "Move.PlantorDiagram"
             },
             {
                 "title": "Psike.Visualization",
@@ -1274,7 +1274,7 @@ json = [
                 "title": "Dev.DesignProcess.SimplifyIdea"
             },
             {
-                "title": "Dev.Element.ElementDiagram.Labels.NumberLabel.PhraseNumberLabel"
+                "title": "Dev.Element.ElementDiagram.Labels.NumberLabel.FraseNumberLabel"
             },
             {
                 "title": "Dev.Element.ElementDiagram.LevelOfDetail"
@@ -1304,10 +1304,10 @@ json = [
                 "title": "Move.MoveAttributes.MoveShape.TriangleMove"
             },
             {
-                "title": "Move.MovePhrase.MoveTempo"
+                "title": "Move.MoveFrase.MoveTempo"
             },
             {
-                "title": "Move.MovePhrase.PlantingPhrase"
+                "title": "Move.MoveFrase.PlantingFrase"
             },
             {
                 "title": "Move.MoveShape"
@@ -1397,7 +1397,7 @@ json = [
                 "title": "Dev.System.Syntax.ElementHierarchySyntax"
             },
             {
-                "title": "Move.MovePhrase.MoveRhythm"
+                "title": "Move.MoveFrase.MoveRhythm"
             },
             {
                 "title": "Move.Overview.MoveHierarchy"
@@ -1808,7 +1808,7 @@ json = [
                 "title": "Move.MoveAttributes.MoveShape.Overview"
             },
             {
-                "title": "Move.MovePhrase.MoveTempo"
+                "title": "Move.MoveFrase.MoveTempo"
             },
             {
                 "title": "Move.MoveType.DynamicMove"
@@ -2044,13 +2044,13 @@ json = [
                 "title": "Move.MoveAttributes.MoveSize"
             },
             {
-                "title": "Move.MovePhrase.MoveOverlap"
+                "title": "Move.MoveFrase.MoveOverlap"
             },
             {
-                "title": "Move.MovePhrase.MovePhraseVariation"
+                "title": "Move.MoveFrase.MoveFraseVariation"
             },
             {
-                "title": "Move.MovePhrase.MoveShapePhrase.MoveShapeOverlap"
+                "title": "Move.MoveFrase.MoveShapeFrase.MoveShapeOverlap"
             },
             {
                 "title": "PlantaBeta"
@@ -2059,10 +2059,10 @@ json = [
                 "title": "Via.ViaSequence.ViaSequenceVariation"
             },
             {
-                "title": "Via.ViaSequence.ViaShapePhrase.ViaShapeOverlap"
+                "title": "Via.ViaSequence.ViaShapeFrase.ViaShapeOverlap"
             },
             {
-                "title": "Via.ViaSequence.ViaSpacePhrase.ViaSpaceOverlap"
+                "title": "Via.ViaSequence.ViaSpaceFrase.ViaSpaceOverlap"
             },
             {
                 "title": "TagTest"
@@ -2163,10 +2163,10 @@ json = [
                 "title": "Move.MoveAttributes.MoveShape.Overview"
             },
             {
-                "title": "Move.MovePhrase.MovePhraseArea"
+                "title": "Move.MoveFrase.MoveFraseArea"
             },
             {
-                "title": "Move.MovePhrase.MovePhraseVariation"
+                "title": "Move.MoveFrase.MoveFraseVariation"
             },
             {
                 "title": "PlantaBeta"
@@ -2207,7 +2207,7 @@ json = [
                 "title": "Move.MovePoint.MoveContactPoint"
             },
             {
-                "title": "Move.MovePhrase.CurrentMove"
+                "title": "Move.MoveFrase.CurrentMove"
             },
             {
                 "title": "PlantaBeta"
@@ -2216,13 +2216,13 @@ json = [
                 "title": "Via.ViaDifficulty.Overview"
             },
             {
-                "title": "Via.ViaSequence.ViaSurfacePhrase.AnteViaSurface"
+                "title": "Via.ViaSequence.ViaSurfaceFrase.AnteViaSurface"
             },
             {
-                "title": "Via.ViaSequence.ViaSurfacePhrase.CurrentViaSurface"
+                "title": "Via.ViaSequence.ViaSurfaceFrase.CurrentViaSurface"
             },
             {
-                "title": "Via.ViaSequence.ViaSurfacePhrase.PostViaSurface"
+                "title": "Via.ViaSequence.ViaSurfaceFrase.PostViaSurface"
             },
             {
                 "title": "Via.ViaGeometry.ViaSpace.ViaRangeOfLoadingAngles"
@@ -2286,7 +2286,7 @@ json = [
                 "title": "Move.MoveError.Overview"
             },
             {
-                "title": "Move.MovePhrase"
+                "title": "Move.MoveFrase"
             },
             {
                 "title": "Move.MoveValidation"
@@ -2339,7 +2339,7 @@ json = [
                 "title": "Beta.BetaDiagram"
             },
             {
-                "title": "Dev.Element.ElementDiagram.ElementDiagramError.PhraseNumberLabelError"
+                "title": "Dev.Element.ElementDiagram.ElementDiagramError.FraseNumberLabelError"
             },
             {
                 "title": "Dev.Element.ElementDiagram.Hatching"
@@ -2348,7 +2348,7 @@ json = [
                 "title": "Dev.Element.ElementDiagram.Labels.ArrowLabel"
             },
             {
-                "title": "Dev.Element.ElementDiagram.Labels.NumberLabel.PhraseNumberLabel"
+                "title": "Dev.Element.ElementDiagram.Labels.NumberLabel.FraseNumberLabel"
             },
             {
                 "title": "Dev.Element.ElementDiagram.Labels.TextLabel.MoveLabel"
@@ -2366,7 +2366,7 @@ json = [
                 "title": "Move.MoveAttributes.MoveShape.Overview"
             },
             {
-                "title": "Move.MovePhrase.TransitionMove"
+                "title": "Move.MoveFrase.TransitionMove"
             },
             {
                 "title": "Move.Overview.MoveHierarchy"
@@ -2447,7 +2447,7 @@ json = [
                 "title": "Move.MoveAttributes.SubmotoCount"
             },
             {
-                "title": "Move.MovePhrase.MoveDensity"
+                "title": "Move.MoveFrase.MoveDensity"
             },
             {
                 "title": "PlantaBeta"
@@ -2500,10 +2500,10 @@ json = [
                 "title": "Move.MoveError.Overview"
             },
             {
-                "title": "Move.MovePhrase.MoveCycle"
+                "title": "Move.MoveFrase.MoveCycle"
             },
             {
-                "title": "Move.MovePhrase.MoveRhythm"
+                "title": "Move.MoveFrase.MoveRhythm"
             },
             {
                 "title": "PlantaBeta"
@@ -2690,7 +2690,7 @@ json = [
                 "title": "Dev.VideoAnalysis.VideoTagging"
             },
             {
-                "title": "Guide.Who.PlanterResearcher"
+                "title": "Guide.Who.PlantorResearcher"
             },
             {
                 "title": "Move.MoveDiagram.Stickfigure"
@@ -2772,7 +2772,7 @@ json = [
                 "title": "Dev.Element.ElementDiagram.Labels.NumberLabel"
             },
             {
-                "title": "Dev.Element.ElementDiagram.Labels.NumberLabel.PhraseNumberLabel"
+                "title": "Dev.Element.ElementDiagram.Labels.NumberLabel.FraseNumberLabel"
             },
             {
                 "title": "Dev.Element.ElementDiagram.Labels.TextLabel.MoveLabel"
@@ -2799,19 +2799,19 @@ json = [
                 "title": "Move.MovePoint.MoveStartPoint"
             },
             {
-                "title": "Move.MovePhrase.MoveDensity"
+                "title": "Move.MoveFrase.MoveDensity"
             },
             {
-                "title": "Move.MovePhrase.MovePhraseArea"
+                "title": "Move.MoveFrase.MoveFraseArea"
             },
             {
-                "title": "Move.MovePhrase.MoveShapePhrase.MoveShapeOverlap"
+                "title": "Move.MoveFrase.MoveShapeFrase.MoveShapeOverlap"
             },
             {
                 "title": "PlantaBeta"
             },
             {
-                "title": "Via.ViaSequence.ViaShapePhrase.ViaShapeOverlap"
+                "title": "Via.ViaSequence.ViaShapeFrase.ViaShapeOverlap"
             },
             {
                 "title": "TagTest"
@@ -3039,10 +3039,10 @@ json = [
                 "title": "Via.ViaGeometry.ViaCurve.ViaDistanceLine.ViaCircuitLine"
             },
             {
-                "title": "Via.ViaSequence.AreaCoverPhrase.ViaShapeInscription.Overview"
+                "title": "Via.ViaSequence.AreaCoverFrase.ViaShapeInscription.Overview"
             },
             {
-                "title": "Via.ViaSequence.AreaCoverPhrase.ViaShapeInscription.ViaSquareInscription"
+                "title": "Via.ViaSequence.AreaCoverFrase.ViaShapeInscription.ViaSquareInscription"
             },
             {
                 "title": "TagTest"
@@ -3095,7 +3095,7 @@ json = [
                 "title": "PlantaBeta"
             },
             {
-                "title": "Via.ViaSequence.AreaCoverPhrase.ViaShapeInscription.ViaCircleInscription"
+                "title": "Via.ViaSequence.AreaCoverFrase.ViaShapeInscription.ViaCircleInscription"
             },
             {
                 "title": "TagTest"
@@ -3136,10 +3136,10 @@ json = [
                 "title": "Move.MoveAttributes.MoveShape.Overview"
             },
             {
-                "title": "Move.MovePhrase.MoveOverlap"
+                "title": "Move.MoveFrase.MoveOverlap"
             },
             {
-                "title": "Move.MovePhrase.MoveSpacePhrase.MoveSpaceOverlap"
+                "title": "Move.MoveFrase.MoveSpaceFrase.MoveSpaceOverlap"
             },
             {
                 "title": "Move.Physics.Tangent"
@@ -3160,10 +3160,10 @@ json = [
                 "title": "Via.ViaGeometry.ViaCurve.ViaLinearLine"
             },
             {
-                "title": "Via.ViaSequence.AreaCoverPhrase.ViaShapeInscription.Overview"
+                "title": "Via.ViaSequence.AreaCoverFrase.ViaShapeInscription.Overview"
             },
             {
-                "title": "Via.ViaSequence.ViaSpacePhrase.ViaSpaceOverlap"
+                "title": "Via.ViaSequence.ViaSpaceFrase.ViaSpaceOverlap"
             },
             {
                 "title": "Via.ViaGeometry.ViaSpace.ViaRangeOfLoadingAngles"
@@ -3198,7 +3198,7 @@ json = [
                 "title": "Move.MoveAttributes.MoveType.CircumductionMove"
             },
             {
-                "title": "Move.MovePhrase.MoveShapePhrase.MoveShapeOverlap"
+                "title": "Move.MoveFrase.MoveShapeFrase.MoveShapeOverlap"
             },
             {
                 "title": "PlantaBeta"
@@ -3213,7 +3213,7 @@ json = [
                 "title": "Via.AreaCover.PenroseCover"
             },
             {
-                "title": "Via.ViaSequence.AreaCoverPhrase.ViaShapeInscription.ViaCircleInscription"
+                "title": "Via.ViaSequence.AreaCoverFrase.ViaShapeInscription.ViaCircleInscription"
             },
             {
                 "title": "TagTest"
@@ -3254,7 +3254,7 @@ json = [
                 "title": "Via.ViaGeometry.ViaPoint.Overview"
             },
             {
-                "title": "Via.ViaSequence.AreaCoverPhrase.ViaShapeInscription.Overview"
+                "title": "Via.ViaSequence.AreaCoverFrase.ViaShapeInscription.Overview"
             },
             {
                 "title": "TagTest"
@@ -3307,13 +3307,13 @@ json = [
                 "title": "Via.ViaGeometry.ViaPoint.VertexPoint"
             },
             {
-                "title": "Via.ViaSequence.AreaCoverPhrase.ViaShapeInscription.ViaCircleInscription"
+                "title": "Via.ViaSequence.AreaCoverFrase.ViaShapeInscription.ViaCircleInscription"
             },
             {
-                "title": "Via.ViaSequence.AreaCoverPhrase.ViaShapeInscription.ViaSquareInscription"
+                "title": "Via.ViaSequence.AreaCoverFrase.ViaShapeInscription.ViaSquareInscription"
             },
             {
-                "title": "Via.ViaSequence.AreaCoverPhrase.ViaShapeInscription.ViaTriangleInscription"
+                "title": "Via.ViaSequence.AreaCoverFrase.ViaShapeInscription.ViaTriangleInscription"
             },
             {
                 "title": "Via.ViaShape.ViaNegativeShape"
@@ -3379,7 +3379,7 @@ json = [
                 "title": "Via.ViaGeometry.ViaPoint.CenterPoint"
             },
             {
-                "title": "Via.ViaSequence.AreaCoverPhrase.ViaShapeInscription.Overview"
+                "title": "Via.ViaSequence.AreaCoverFrase.ViaShapeInscription.Overview"
             },
             {
                 "title": "Via.Spacing.ClosestTree"
@@ -3795,7 +3795,7 @@ json = [
                 "title": "Move.MoveAttributes.MoveType.CompressionMove"
             },
             {
-                "title": "Move.MovePhrase.TransitionMove"
+                "title": "Move.MoveFrase.TransitionMove"
             },
             {
                 "title": "PlantaBeta"
@@ -4097,7 +4097,7 @@ json = [
                 "title": "Move.Physics.Friction"
             },
             {
-                "title": "Move.PlanterDiagram"
+                "title": "Move.PlantorDiagram"
             },
             {
                 "title": "Psike.Alignment.OptimalAlignment",
@@ -4311,10 +4311,10 @@ json = [
                 "title": "Move.MoveAttributes.MoveShape.CircleMove"
             },
             {
-                "title": "Move.MovePhrase.MoveLinePhrase"
+                "title": "Move.MoveFrase.MoveLineFrase"
             },
             {
-                "title": "Move.MovePhrase.SubmotoPhrase"
+                "title": "Move.MoveFrase.SubmotoFrase"
             },
             {
                 "title": "PlantaBeta"
@@ -4471,7 +4471,7 @@ json = [
                 "title": "Land.Block.WalkInBlock"
             },
             {
-                "title": "Move.PlanterDiagram"
+                "title": "Move.PlantorDiagram"
             },
             {
                 "title": "PlantaBeta"
@@ -4494,7 +4494,7 @@ json = [
                 "title": "Dev.Tools.PlantingBag"
             },
             {
-                "title": "Guide.Who.PlanterSupervisor"
+                "title": "Guide.Who.PlantorSupervisor"
             },
             {
                 "title": "Land.Block.WalkInBlock"
@@ -4817,7 +4817,7 @@ json = [
                 "title": "Dev.System.Theorem"
             },
             {
-                "title": "Move.MovePhrase.MovePhraseError"
+                "title": "Move.MoveFrase.MoveFraseError"
             },
             {
                 "title": "Psike.Logic.Deduction",
@@ -4883,7 +4883,7 @@ json = [
                 "title": "Move.MoveError.Overview"
             },
             {
-                "title": "Move.PlanterPart"
+                "title": "Move.PlantorPart"
             },
             {
                 "title": "PlantaBeta"
@@ -4918,7 +4918,7 @@ json = [
                 "title": "Guide.What.WhatElement.ElementName.Affix"
             },
             {
-                "title": "Move.PlanterPart"
+                "title": "Move.PlantorPart"
             },
             {
                 "title": "PlantaBeta"
@@ -4970,22 +4970,22 @@ json = [
                 "title": "Dev.Transcription"
             },
             {
-                "title": "Move.MovePhrase"
+                "title": "Move.MoveFrase"
             },
             {
-                "title": "Move.MovePhrase.AnteMove"
+                "title": "Move.MoveFrase.AnteMove"
             },
             {
-                "title": "Move.MovePhrase.PostMove"
+                "title": "Move.MoveFrase.PostMove"
             },
             {
-                "title": "Move.MovePhrase.TransitionMove"
+                "title": "Move.MoveFrase.TransitionMove"
             },
             {
                 "title": "Move.Overview.MoveHierarchy"
             },
             {
-                "title": "Move.PlanterPart"
+                "title": "Move.PlantorPart"
             },
             {
                 "title": "PlantaBeta"
@@ -5061,7 +5061,7 @@ json = [
                 "title": "Move.MoveDecomposition"
             },
             {
-                "title": "Move.MovePhrase.SimultaneousMove"
+                "title": "Move.MoveFrase.SimultaneousMove"
             },
             {
                 "title": "PlantaBeta"
@@ -5127,13 +5127,13 @@ json = [
                 "title": "Move.MovePoint.MoveFinishPoint"
             },
             {
-                "title": "Move.MovePhrase.MoveChunk.MovePhrase"
+                "title": "Move.MoveFrase.MoveChunk.MoveFrase"
             },
             {
-                "title": "Move.MovePhrase.MoveCycle.DoUntil"
+                "title": "Move.MoveFrase.MoveCycle.DoUntil"
             },
             {
-                "title": "Move.MovePhrase.PostMove"
+                "title": "Move.MoveFrase.PostMove"
             },
             {
                 "title": "PlantaBeta"
@@ -5177,13 +5177,13 @@ json = [
                 "title": "Move.MoveAttributes.Overview"
             },
             {
-                "title": "Move.MovePhrase"
+                "title": "Move.MoveFrase"
             },
             {
-                "title": "Move.MovePhrase.AnteMove"
+                "title": "Move.MoveFrase.AnteMove"
             },
             {
-                "title": "Move.MovePhrase.PostMove"
+                "title": "Move.MoveFrase.PostMove"
             },
             {
                 "title": "Move.MoveType.DynamicMove"
@@ -5195,7 +5195,7 @@ json = [
                 "title": "Move.Physics.Acceleration"
             },
             {
-                "title": "Move.PlanterPart"
+                "title": "Move.PlantorPart"
             },
             {
                 "title": "PlantaBeta"
@@ -5230,7 +5230,7 @@ json = [
                 "title": "Move.MoveAttributes.MoveState"
             },
             {
-                "title": "Move.MovePhrase.MoveChunk.MovePhrase"
+                "title": "Move.MoveFrase.MoveChunk.MoveFrase"
             },
             {
                 "title": "PlantaBeta"
@@ -5366,7 +5366,7 @@ json = [
                 "title": "Dev.Element.ElementDiagram.ColorCode"
             },
             {
-                "title": "Dev.Element.ElementPhrase"
+                "title": "Dev.Element.ElementFrase"
             },
             {
                 "title": "Dev.Element.ElementTimeline"
@@ -5378,10 +5378,10 @@ json = [
                 "title": "Move.HeadMove.LookAt"
             },
             {
-                "title": "Move.MovePhrase"
+                "title": "Move.MoveFrase"
             },
             {
-                "title": "Move.MovePhrase.MoveTempo"
+                "title": "Move.MoveFrase.MoveTempo"
             },
             {
                 "title": "PlantaBeta"
@@ -5451,7 +5451,7 @@ json = [
                 "title": "Move.MoveAttributes.MoveType.CompressionMove"
             },
             {
-                "title": "Move.MovePhrase.SimultaneousMove"
+                "title": "Move.MoveFrase.SimultaneousMove"
             },
             {
                 "title": "PlantaBeta"
@@ -5480,7 +5480,7 @@ json = [
                 "title": "Dev.Interdisciplinary.Climbing.Udini"
             },
             {
-                "title": "Guide.Who.ExperiencedPlanter"
+                "title": "Guide.Who.ExperiencedPlantor"
             },
             {
                 "title": "Guide.Why.Productivity.Efficiency"
@@ -5504,10 +5504,10 @@ json = [
                 "title": "Move.MoveAttributes.SubmotoCount"
             },
             {
-                "title": "Move.MovePhrase.MoveDensity"
+                "title": "Move.MoveFrase.MoveDensity"
             },
             {
-                "title": "Move.MovePhrase.TransitionMove"
+                "title": "Move.MoveFrase.TransitionMove"
             },
             {
                 "title": "PlantaBeta"
@@ -5633,7 +5633,7 @@ json = [
                 "title": "Move.MoveAttributes.MoveDegreesOfFreedom"
             },
             {
-                "title": "Move.PlanterDiagram"
+                "title": "Move.PlantorDiagram"
             },
             {
                 "title": "PlantaBeta"
@@ -5665,7 +5665,7 @@ json = [
                 "title": "Move.MoveAttributes.MoveRangeOfMotion"
             },
             {
-                "title": "Move.MovePhrase.MoveChunk.MovePhrase"
+                "title": "Move.MoveFrase.MoveChunk.MoveFrase"
             },
             {
                 "title": "PlantaBeta"
@@ -5732,7 +5732,7 @@ json = [
                 "title": "Move.MoveDiagram.Stickfigure"
             },
             {
-                "title": "Move.PlanterDiagram"
+                "title": "Move.PlantorDiagram"
             },
             {
                 "title": "Move.ToolMove.BagMove.Overview"
@@ -5752,7 +5752,7 @@ json = [
         "name": "1394.jpg",
         "tags": [
             {
-                "title": "Dev.Element.ElementPhrase"
+                "title": "Dev.Element.ElementFrase"
             },
             {
                 "title": "Dev.Infographic.HistoryOfInformationGraphics.336"
@@ -5770,7 +5770,7 @@ json = [
                 "title": "Move.MoveComposition.MoveSelection.MoveComparison"
             },
             {
-                "title": "Move.MovePhrase"
+                "title": "Move.MoveFrase"
             },
             {
                 "title": "PlantaBeta"
@@ -5975,7 +5975,7 @@ json = [
                 "title": "Move.MoveDiagram.MoveTimeline"
             },
             {
-                "title": "Move.MovePhrase.MoveCycle"
+                "title": "Move.MoveFrase.MoveCycle"
             },
             {
                 "title": "Psike.CognitiveEase.Repetition",
@@ -6071,7 +6071,7 @@ json = [
                 "title": "Move.MoveAttributes.MoveType.ExpansionMove"
             },
             {
-                "title": "Move.MovePhrase.MoveOverlap"
+                "title": "Move.MoveFrase.MoveOverlap"
             },
             {
                 "title": "PlantaBeta"
@@ -6206,7 +6206,7 @@ json = [
                 "title": "Via.ViaGeometry.ViaSpace.ViaRangeOfLoadingAngles"
             },
             {
-                "title": "Move.MovePhrase.MoveDensity"
+                "title": "Move.MoveFrase.MoveDensity"
             },
             {
                 "title": "Psike.Vision.Hidden",
@@ -6265,10 +6265,10 @@ json = [
                 "title": "Move.MoveDifficulty.MoveIntensity"
             },
             {
-                "title": "Move.MovePhrase"
+                "title": "Move.MoveFrase"
             },
             {
-                "title": "Move.MovePhrase.MoveNestedPhrase"
+                "title": "Move.MoveFrase.MoveNestedFrase"
             },
             {
                 "title": "PlantaBeta"
@@ -6595,7 +6595,7 @@ json = [
                 "title": "Dev.Tagging.TagName"
             },
             {
-                "title": "Move.MovePhrase"
+                "title": "Move.MoveFrase"
             },
             {
                 "title": "Psike.Alignment",
@@ -6688,16 +6688,16 @@ json = [
                 "title": "Dev.LevelOfDetail.SimplifyDetail"
             },
             {
-                "title": "Dev.Pedagogy.Curriculum.LessonPhrase"
+                "title": "Dev.Pedagogy.Curriculum.LessonFrase"
             },
             {
                 "title": "Dev.Pedagogy.Curriculum.Timeline"
             },
             {
-                "title": "Move.MovePhrase"
+                "title": "Move.MoveFrase"
             },
             {
-                "title": "Move.MovePhrase.HandPhrase"
+                "title": "Move.MoveFrase.HandFrase"
             },
             {
                 "title": "Psike.Learning.Overview",
@@ -6801,7 +6801,7 @@ json = [
                 "title": "Move.HandMove.HandSwap"
             },
             {
-                "title": "Move.MovePhrase"
+                "title": "Move.MoveFrase"
             },
             {
                 "title": "PlantaBeta"
@@ -7105,7 +7105,7 @@ json = [
                 "title": "Land.Piece.PieceTopography.SlopeAngle"
             },
             {
-                "title": "Move.MovePhrase.MoveDensity"
+                "title": "Move.MoveFrase.MoveDensity"
             },
             {
                 "title": "Move.Physics.LoadingAngle"
@@ -7192,7 +7192,7 @@ json = [
                 "title": "Move.MovePoint.MovePausePoint"
             },
             {
-                "title": "Move.MovePhrase.MoveTempo"
+                "title": "Move.MoveFrase.MoveTempo"
             },
             {
                 "title": "PlantaBeta"
@@ -7236,7 +7236,7 @@ json = [
                 "title": "Move.MoveDiagram.MoveTimeline"
             },
             {
-                "title": "Move.MovePhrase"
+                "title": "Move.MoveFrase"
             },
             {
                 "title": "Psike.CognitiveEase.Repetition",
@@ -7334,7 +7334,7 @@ json = [
                 "title": "Move.MoveLine"
             },
             {
-                "title": "Move.MovePhrase"
+                "title": "Move.MoveFrase"
             },
             {
                 "title": "Psike.Alignment",
@@ -7408,10 +7408,10 @@ json = [
                 "title": "Guide.What.WhatElement.ElementName.Affix"
             },
             {
-                "title": "Move.MovePhrase.SimultaneousMove"
+                "title": "Move.MoveFrase.SimultaneousMove"
             },
             {
-                "title": "Move.MovePhrase.TransitionMove"
+                "title": "Move.MoveFrase.TransitionMove"
             },
             {
                 "title": "PlantaBeta"
@@ -7420,7 +7420,7 @@ json = [
                 "title": "Via.Chunking.ChunkNaming"
             },
             {
-                "title": "Via.ViaSequence.BagUpPhrase"
+                "title": "Via.ViaSequence.BagUpFrase"
             },
             {
                 "title": "TagTest"
@@ -7449,7 +7449,7 @@ json = [
                 "title": "Move.MoveAttributes.MoveType.CompressionMove"
             },
             {
-                "title": "Move.MovePhrase"
+                "title": "Move.MoveFrase"
             },
             {
                 "title": "PlantaBeta"
@@ -7493,7 +7493,7 @@ json = [
                 "title": "Move.MoveDiagram.Overview"
             },
             {
-                "title": "Move.MovePhrase"
+                "title": "Move.MoveFrase"
             },
             {
                 "title": "Move.Physics.Vector"
@@ -7572,7 +7572,7 @@ json = [
                 "title": "Dev.Element.ElementDiagram.Hatching"
             },
             {
-                "title": "Dev.Element.ElementPhrase"
+                "title": "Dev.Element.ElementFrase"
             },
             {
                 "title": "Dev.RelationByProximity"
@@ -7581,13 +7581,13 @@ json = [
                 "title": "Move.MoveDiagram.MoveTimeline"
             },
             {
-                "title": "Move.MovePhrase"
+                "title": "Move.MoveFrase"
             },
             {
-                "title": "Move.MovePhrase.ContiguousMove"
+                "title": "Move.MoveFrase.ContiguousMove"
             },
             {
-                "title": "Move.MovePhrase.MoveOverlap"
+                "title": "Move.MoveFrase.MoveOverlap"
             },
             {
                 "title": "Move.MoveSpace.Overview"
@@ -7619,7 +7619,7 @@ json = [
                 "title": "Dev.Element.ElementDiagram.ColorCode"
             },
             {
-                "title": "Dev.Element.ElementPhrase"
+                "title": "Dev.Element.ElementFrase"
             },
             {
                 "title": "Dev.Infographic"
@@ -7646,7 +7646,7 @@ json = [
                 "title": "Move.MoveName.Overview"
             },
             {
-                "title": "Move.MovePhrase"
+                "title": "Move.MoveFrase"
             },
             {
                 "title": "Psike.NeuroName",
@@ -7714,7 +7714,7 @@ json = [
                 "title": "Dev.Element.ElementDiagram.Labels"
             },
             {
-                "title": "Dev.Element.ElementPhrase"
+                "title": "Dev.Element.ElementFrase"
             },
             {
                 "title": "Dev.Infographic.Storyboard"
@@ -7729,7 +7729,7 @@ json = [
                 "title": "Dev.LevelOfDetail"
             },
             {
-                "title": "Move.MovePhrase"
+                "title": "Move.MoveFrase"
             },
             {
                 "title": "PlantaBeta"
@@ -7764,7 +7764,7 @@ json = [
                 "title": "Move.MoveLine"
             },
             {
-                "title": "Move.MovePhrase"
+                "title": "Move.MoveFrase"
             },
             {
                 "title": "PlantaBeta"
@@ -7799,7 +7799,7 @@ json = [
                 "title": "Dev.Tagging.TagChip.TagChipHighlight"
             },
             {
-                "title": "Dev.Transcription.TranscriptionPhrase"
+                "title": "Dev.Transcription.TranscriptionFrase"
             },
             {
                 "title": "PlantaBeta"
@@ -7840,7 +7840,7 @@ json = [
                 "title": "Move.MoveAnalysis"
             },
             {
-                "title": "Move.MovePhrase"
+                "title": "Move.MoveFrase"
             },
             {
                 "title": "PlantaBeta"
@@ -7931,7 +7931,7 @@ json = [
                 "title": "Dev.VideoAnalysis.VideoTagging"
             },
             {
-                "title": "Move.MovePhrase"
+                "title": "Move.MoveFrase"
             },
             {
                 "title": "PlantaBeta"
@@ -7975,7 +7975,7 @@ json = [
                 "title": "Move.MoveAttributes.MoveType.RestMove"
             },
             {
-                "title": "Move.MovePhrase.MoveTempo"
+                "title": "Move.MoveFrase.MoveTempo"
             },
             {
                 "title": "PlantaBeta"
@@ -8016,7 +8016,7 @@ json = [
                 "title": "Move.MoveLine"
             },
             {
-                "title": "Move.MovePhrase.MoveOverlap"
+                "title": "Move.MoveFrase.MoveOverlap"
             },
             {
                 "title": "Move.MoveSpace.Overview"
@@ -8354,7 +8354,7 @@ json = [
                 "title": "Dev.LevelOfDetail.LessIsMore"
             },
             {
-                "title": "Land.LandPhrase"
+                "title": "Land.LandFrase"
             },
             {
                 "title": "Move.LegMove.LegProp"
@@ -8408,7 +8408,7 @@ json = [
                 "title": "Dev.Interdisciplinary.Climbing"
             },
             {
-                "title": "Dev.PlanterMetaInstructor"
+                "title": "Dev.PlantorMetaInstructor"
             },
             {
                 "title": "Dev.Poster"
@@ -8420,16 +8420,16 @@ json = [
                 "title": "Guide.Who.Overview"
             },
             {
-                "title": "Guide.Who.PlanterInstructor.InstructorGuide.Curriculum"
+                "title": "Guide.Who.PlantorInstructor.InstructorGuide.Curriculum"
             },
             {
-                "title": "Guide.Who.PlanterInstructor.InstructorGuide.Template"
+                "title": "Guide.Who.PlantorInstructor.InstructorGuide.Template"
             },
             {
                 "title": "Guide.Why.LearningCurve"
             },
             {
-                "title": "Move.PlanterAttributes.PlanterAbility"
+                "title": "Move.PlantorAttributes.PlantorAbility"
             },
             {
                 "title": "Psike.Learning.Overview",
@@ -8541,7 +8541,7 @@ json = [
                 "title": "Move.MoveAttributes.MoveType.ExpansionMove"
             },
             {
-                "title": "Move.MovePhrase.MoveRhythm"
+                "title": "Move.MoveFrase.MoveRhythm"
             },
             {
                 "title": "Psike.CognitiveEase.Repetition",
@@ -8571,13 +8571,13 @@ json = [
                 "title": "Move.MoveAttributes.MoveType.ReleaseMove"
             },
             {
-                "title": "Move.MovePhrase.MoveRhythm"
+                "title": "Move.MoveFrase.MoveRhythm"
             },
             {
-                "title": "Move.MovePhrase.MoveTempo"
+                "title": "Move.MoveFrase.MoveTempo"
             },
             {
-                "title": "Move.MovePhrase.SimultaneousMove"
+                "title": "Move.MoveFrase.SimultaneousMove"
             },
             {
                 "title": "PlantaBeta"
@@ -8603,7 +8603,7 @@ json = [
                 "title": "Dev.Interdisciplinary.Music"
             },
             {
-                "title": "Move.MovePhrase"
+                "title": "Move.MoveFrase"
             },
             {
                 "title": "Move.Overview.MoveType.RelativeMove"
@@ -8638,7 +8638,7 @@ json = [
                 "title": "Dev.Transcription"
             },
             {
-                "title": "Dev.Transcription.TranscriptionPhrase"
+                "title": "Dev.Transcription.TranscriptionFrase"
             },
             {
                 "title": "Move.BodyMove.BodyAbsorb"
@@ -8650,7 +8650,7 @@ json = [
                 "title": "Move.MoveAttributes.MoveDuration"
             },
             {
-                "title": "Move.MovePhrase.SimultaneousMove"
+                "title": "Move.MoveFrase.SimultaneousMove"
             },
             {
                 "title": "PlantaBeta"
@@ -8679,10 +8679,10 @@ json = [
                 "title": "Move.MoveAttributes.MoveDuration"
             },
             {
-                "title": "Move.MovePhrase"
+                "title": "Move.MoveFrase"
             },
             {
-                "title": "Move.MovePhrase.MoveRhythm"
+                "title": "Move.MoveFrase.MoveRhythm"
             },
             {
                 "title": "PlantaBeta"
@@ -8708,16 +8708,16 @@ json = [
                 "title": "Move.MoveAttributes.MoveType.RestMove"
             },
             {
-                "title": "Move.MovePhrase.MoveDensity"
+                "title": "Move.MoveFrase.MoveDensity"
             },
             {
-                "title": "Move.MovePhrase.MoveEndurance"
+                "title": "Move.MoveFrase.MoveEndurance"
             },
             {
-                "title": "Move.MovePhrase.MoveRhythm"
+                "title": "Move.MoveFrase.MoveRhythm"
             },
             {
-                "title": "Move.MovePhrase.MoveTempo"
+                "title": "Move.MoveFrase.MoveTempo"
             },
             {
                 "title": "PlantaBeta"
@@ -8746,7 +8746,7 @@ json = [
                 "title": "Dev.LevelOfAbstraction"
             },
             {
-                "title": "Move.PlanterAttributes.PlanterSize"
+                "title": "Move.PlantorAttributes.PlantorSize"
             },
             {
                 "title": "PlantaBeta"
@@ -8775,7 +8775,7 @@ json = [
                 "title": "Move.MovePoint.MovePausePoint"
             },
             {
-                "title": "Move.MovePhrase.InitiationMove"
+                "title": "Move.MoveFrase.InitiationMove"
             },
             {
                 "title": "Psike.Music",
@@ -8802,16 +8802,16 @@ json = [
                 "title": "Dev.Interdisciplinary.Climbing"
             },
             {
-                "title": "Move.MovePhrase"
+                "title": "Move.MoveFrase"
             },
             {
-                "title": "Move.MovePhrase.ContiguousMove"
+                "title": "Move.MoveFrase.ContiguousMove"
             },
             {
-                "title": "Move.MovePhrase.MoveNestedPhrase"
+                "title": "Move.MoveFrase.MoveNestedFrase"
             },
             {
-                "title": "Move.MovePhrase.MoveOverlap"
+                "title": "Move.MoveFrase.MoveOverlap"
             },
             {
                 "title": "Move.Overview.MoveHierarchy.Submoto"
@@ -8858,7 +8858,7 @@ json = [
                 "title": "BetaGraph"
             },
             {
-                "title": "Dev.Element.ElementPhrase"
+                "title": "Dev.Element.ElementFrase"
             },
             {
                 "title": "Dev.Element.ElementTimeline"
@@ -8943,13 +8943,13 @@ json = [
                 "title": "Move.MoveAttributes.MoveDependencies.Overview"
             },
             {
-                "title": "Move.MovePhrase.AnteMove"
+                "title": "Move.MoveFrase.AnteMove"
             },
             {
-                "title": "Move.MovePhrase.ContiguousMove"
+                "title": "Move.MoveFrase.ContiguousMove"
             },
             {
-                "title": "Move.MovePhrase.PostMove"
+                "title": "Move.MoveFrase.PostMove"
             },
             {
                 "title": "PlantaBeta"
@@ -9066,7 +9066,7 @@ json = [
                 "title": "Move.MoveDiagram.MoveTimeline"
             },
             {
-                "title": "Move.MovePhrase"
+                "title": "Move.MoveFrase"
             },
             {
                 "title": "Psike.Chunking",
@@ -9103,7 +9103,7 @@ json = [
                 "title": "Dev.Harware.Paper"
             },
             {
-                "title": "Guide.Who.PlanterInstructor.Handout"
+                "title": "Guide.Who.PlantorInstructor.Handout"
             },
             {
                 "title": "Psike.Judgement",
@@ -9133,7 +9133,7 @@ json = [
                 "title": "Guide.When.Preseason"
             },
             {
-                "title": "Guide.Who.PlanterInstructor.InstructorGuide.Template"
+                "title": "Guide.Who.PlantorInstructor.InstructorGuide.Template"
             },
             {
                 "title": "Move.BodyMove.BodyPosture"
@@ -9260,7 +9260,7 @@ json = [
                 "title": "Move.MovePoint.MoveStartPoint"
             },
             {
-                "title": "Move.MovePhrase.Attempt"
+                "title": "Move.MoveFrase.Attempt"
             },
             {
                 "title": "PlantaBeta"
@@ -9339,7 +9339,7 @@ json = [
                 "title": "Dev.Interdisciplinary.Climbing"
             },
             {
-                "title": "Guide.What.WhatPlantaBeta.PlanterQuestion"
+                "title": "Guide.What.WhatPlantaBeta.PlantorQuestion"
             },
             {
                 "title": "Psike.Planning",
@@ -9378,10 +9378,10 @@ json = [
                 "title": "Dev.System.Value"
             },
             {
-                "title": "Guide.Who.PlanterInstructor"
+                "title": "Guide.Who.PlantorInstructor"
             },
             {
-                "title": "Guide.Who.PlanterInstructor.InstructorGuide.Template"
+                "title": "Guide.Who.PlantorInstructor.InstructorGuide.Template"
             },
             {
                 "title": "Move.Overview.MoveType"
@@ -9452,7 +9452,7 @@ json = [
                 "title": "Move.MoveDifficulty.MoveComplexity"
             },
             {
-                "title": "Move.MovePhrase"
+                "title": "Move.MoveFrase"
             },
             {
                 "title": "Move.Overview.MoveHierarchy.Submoto"
@@ -9713,7 +9713,7 @@ json = [
                 "title": "Dev.Interdisciplinary.Climbing"
             },
             {
-                "title": "Guide.Who.PlanterInstructor.Handout"
+                "title": "Guide.Who.PlantorInstructor.Handout"
             },
             {
                 "title": "Move.Physics.LoadingAngle"
@@ -9813,16 +9813,16 @@ json = [
                 "title": "Dev.Element.ElementDiagram.Labels"
             },
             {
-                "title": "Guide.Who.PlanterInstructor"
+                "title": "Guide.Who.PlantorInstructor"
             },
             {
-                "title": "Guide.Who.PlanterInstructor.TeachingBlock"
+                "title": "Guide.Who.PlantorInstructor.TeachingBlock"
             },
             {
-                "title": "Guide.Who.PlanterInstructor.TeachingPiece"
+                "title": "Guide.Who.PlantorInstructor.TeachingPiece"
             },
             {
-                "title": "Guide.Who.PlanterInstructor.TeachingPlot"
+                "title": "Guide.Who.PlantorInstructor.TeachingPlot"
             },
             {
                 "title": "Land.LandDiagram.Overview"
@@ -9851,7 +9851,7 @@ json = [
                 "title": "Dev.DesignProcess.Feedback.Overview"
             },
             {
-                "title": "Dev.PlanterMetaInstructor"
+                "title": "Dev.PlantorMetaInstructor"
             },
             {
                 "title": "Guide.How.Understanding"
@@ -10347,7 +10347,7 @@ json = [
                 "title": "Dev.System.Byrne"
             },
             {
-                "title": "Move.MovePhrase"
+                "title": "Move.MoveFrase"
             },
             {
                 "title": "PlantaBeta"
@@ -10622,7 +10622,7 @@ json = [
                 "title": "Guide.How.Understanding"
             },
             {
-                "title": "Guide.Who.PlanterInstructor"
+                "title": "Guide.Who.PlantorInstructor"
             },
             {
                 "title": "Guide.Why.Communication"
@@ -10664,7 +10664,7 @@ json = [
                 "title": "Dev.System.Problem"
             },
             {
-                "title": "Guide.Who.PlanterInstructor"
+                "title": "Guide.Who.PlantorInstructor"
             },
             {
                 "title": "Psike.CognitiveEase",
@@ -10753,7 +10753,7 @@ json = [
                 "title": "Move.MoveDiagram.MoveTimeline"
             },
             {
-                "title": "Move.MovePhrase"
+                "title": "Move.MoveFrase"
             },
             {
                 "title": "PlantaBeta"
@@ -10891,7 +10891,7 @@ json = [
                 "title": "Guide.When.Preseason"
             },
             {
-                "title": "Guide.Who.PlanterInstructor"
+                "title": "Guide.Who.PlantorInstructor"
             },
             {
                 "title": "Guide.Why.LearningCurve"
@@ -10927,7 +10927,7 @@ json = [
                 "title": "Dev.Infographic.TreeView"
             },
             {
-                "title": "Guide.Who.ExperiencedPlanter"
+                "title": "Guide.Who.ExperiencedPlantor"
             },
             {
                 "title": "Guide.Why.LearningCurve"
@@ -11005,7 +11005,7 @@ json = [
                 "title": "Dev.ImageLayer"
             },
             {
-                "title": "Move.MovePhrase"
+                "title": "Move.MoveFrase"
             },
             {
                 "title": "PlantaBeta"
@@ -11063,7 +11063,7 @@ json = [
                 "title": "Move.LegMove.LegAbsorb"
             },
             {
-                "title": "Move.MovePhrase"
+                "title": "Move.MoveFrase"
             },
             {
                 "title": "Move.Overview.MoveHierarchy"
@@ -11137,7 +11137,7 @@ json = [
                 "title": "Dev.Transcription"
             },
             {
-                "title": "Move.MovePhrase"
+                "title": "Move.MoveFrase"
             },
             {
                 "title": "PlantaBeta"
@@ -11175,7 +11175,7 @@ json = [
                 "title": "Move.MoveLine"
             },
             {
-                "title": "Move.MovePhrase"
+                "title": "Move.MoveFrase"
             },
             {
                 "title": "PlantaBeta"
@@ -11392,7 +11392,7 @@ json = [
                 "title": "Dev.Transcription"
             },
             {
-                "title": "Move.MovePhrase"
+                "title": "Move.MoveFrase"
             },
             {
                 "title": "Move.MoveType.DynamicMove"
@@ -11571,7 +11571,7 @@ json = [
                 "title": "Dev.Interdisciplinary.Climbing"
             },
             {
-                "title": "Move.MovePhrase"
+                "title": "Move.MoveFrase"
             },
             {
                 "title": "PlantaBeta"
@@ -11752,10 +11752,10 @@ json = [
                 "title": "Move.MoveAttributes.MovePermutation"
             },
             {
-                "title": "Move.MovePhrase.AnteMove"
+                "title": "Move.MoveFrase.AnteMove"
             },
             {
-                "title": "Move.MovePhrase.PostMove"
+                "title": "Move.MoveFrase.PostMove"
             },
             {
                 "title": "Move.Physics.Displacement"
@@ -12186,7 +12186,7 @@ json = [
                 "title": "Move.MoveDiagram.MoveTimeline"
             },
             {
-                "title": "Move.MovePhrase"
+                "title": "Move.MoveFrase"
             },
             {
                 "title": "Move.Overview.MoveHierarchy.Submoto"
@@ -12241,7 +12241,7 @@ json = [
                 "title": "Move.MoveLine"
             },
             {
-                "title": "Move.MovePhrase"
+                "title": "Move.MoveFrase"
             },
             {
                 "title": "PlantaBeta"
@@ -12401,7 +12401,7 @@ json = [
                 "title": "Move.MoveCard"
             },
             {
-                "title": "Move.MovePhrase"
+                "title": "Move.MoveFrase"
             },
             {
                 "title": "Move.MoveSize"
@@ -12448,7 +12448,7 @@ json = [
                 "title": "Move.MoveEvent"
             },
             {
-                "title": "Move.MovePhrase"
+                "title": "Move.MoveFrase"
             },
             {
                 "title": "Move.MoveShape"
@@ -12558,7 +12558,7 @@ json = [
                 "title": "Move.MoveLine"
             },
             {
-                "title": "Move.MovePhrase"
+                "title": "Move.MoveFrase"
             },
             {
                 "title": "Move.MoveShape"
@@ -12602,7 +12602,7 @@ json = [
                 "title": "Move.MoveDiagram.MoveTimeline"
             },
             {
-                "title": "Move.MovePhrase"
+                "title": "Move.MoveFrase"
             },
             {
                 "title": "Move.Overview.MoveHierarchy.Submoto"
@@ -12652,7 +12652,7 @@ json = [
                 "title": "Move.MoveName.Overview"
             },
             {
-                "title": "Move.MovePhrase"
+                "title": "Move.MoveFrase"
             },
             {
                 "title": "PlantaBeta"
@@ -12684,7 +12684,7 @@ json = [
                 "title": "Move.LegMove.Kneel"
             },
             {
-                "title": "Move.MovePhrase.BaggingUpPhrase"
+                "title": "Move.MoveFrase.BaggingUpFrase"
             },
             {
                 "title": "Move.ToolMove.BagMove.BaggingUp"
@@ -13665,7 +13665,7 @@ json = [
                 "title": "Land.LandCompletion.OpenLand"
             },
             {
-                "title": "Move.MovePhrase.PlantingPhrase"
+                "title": "Move.MoveFrase.PlantingFrase"
             },
             {
                 "title": "Move.ToolMove.BagMove.Overview"
@@ -13827,7 +13827,7 @@ json = [
                 "title": "Land.LandEvent"
             },
             {
-                "title": "Land.LandPhrase"
+                "title": "Land.LandFrase"
             },
             {
                 "title": "Psike.Visualization",
@@ -13941,10 +13941,10 @@ json = [
                 "title": "Move.HoleMove.CloseHole"
             },
             {
-                "title": "Move.MovePhrase"
+                "title": "Move.MoveFrase"
             },
             {
-                "title": "Move.MovePhrase.BaggingUpPhrase"
+                "title": "Move.MoveFrase.BaggingUpFrase"
             },
             {
                 "title": "Psike.Attention",
@@ -13982,7 +13982,7 @@ json = [
                 "title": "Via.ViaGeometry.ViaPoint.TargetPoint"
             },
             {
-                "title": "Via.ViaSequence.BagUpPhrase"
+                "title": "Via.ViaSequence.BagUpFrase"
             },
             {
                 "title": "TagTest"
@@ -14011,7 +14011,7 @@ json = [
                 "title": "Move.MoveError.Slip.Overview"
             },
             {
-                "title": "Move.MovePhrase"
+                "title": "Move.MoveFrase"
             },
             {
                 "title": "Move.PlantMove.Overview"
@@ -14378,7 +14378,7 @@ json = [
                 "title": "Dev.VennDiagram"
             },
             {
-                "title": "Guide.Who.PlanterSupervisor"
+                "title": "Guide.Who.PlantorSupervisor"
             },
             {
                 "title": "PlantaBeta"
@@ -14532,7 +14532,7 @@ json = [
                 "title": "Dev.Transcription"
             },
             {
-                "title": "Dev.Transcription.TranscriptionPhrase"
+                "title": "Dev.Transcription.TranscriptionFrase"
             },
             {
                 "title": "PlantaBeta"
@@ -14667,7 +14667,7 @@ json = [
                 "title": "Guide.What.WhatTreePlanting"
             },
             {
-                "title": "Guide.Who.PlanterSupervisor"
+                "title": "Guide.Who.PlantorSupervisor"
             },
             {
                 "title": "PlantaBeta"
@@ -14757,7 +14757,7 @@ json = [
                 "title": "Move.MoveEvent"
             },
             {
-                "title": "Move.MovePhrase"
+                "title": "Move.MoveFrase"
             },
             {
                 "title": "Move.Overview.MoveType.RelativeMove"
@@ -15631,7 +15631,7 @@ json = [
                 "title": "Guide.When.Preseason"
             },
             {
-                "title": "Guide.Who.PlanterInstructor"
+                "title": "Guide.Who.PlantorInstructor"
             },
             {
                 "title": "Sponsor.Kickstarter.Risk"
@@ -15660,10 +15660,10 @@ json = [
                 "title": "Guide.When.Preseason"
             },
             {
-                "title": "Guide.Who.PlanterRecruiter"
+                "title": "Guide.Who.PlantorRecruiter"
             },
             {
-                "title": "Guide.Who.PlanterSupervisor"
+                "title": "Guide.Who.PlantorSupervisor"
             },
             {
                 "title": "Tests.Overview"
@@ -16350,7 +16350,7 @@ json = [
                 "title": "Move.LegMove.Kneel"
             },
             {
-                "title": "Move.MovePhrase"
+                "title": "Move.MoveFrase"
             },
             {
                 "title": "Move.ToolMove.BagMove.BagOn"
@@ -16463,7 +16463,7 @@ json = [
                 "title": "Move.FootMove.FootSkreef"
             },
             {
-                "title": "Move.MovePhrase"
+                "title": "Move.MoveFrase"
             },
             {
                 "title": "Move.Overview"
@@ -16495,7 +16495,7 @@ json = [
                 "title": "Move.HoleMove.HoleOpen"
             },
             {
-                "title": "Move.MovePhrase"
+                "title": "Move.MoveFrase"
             },
             {
                 "title": "TagTest"
@@ -16647,7 +16647,7 @@ json = [
                 "title": "Dev.System"
             },
             {
-                "title": "Move.MovePhrase"
+                "title": "Move.MoveFrase"
             },
             {
                 "title": "Move.Physics.Overview"
@@ -16897,13 +16897,13 @@ json = [
                 "title": "Guide.When.DuringSeason.SpecialMission"
             },
             {
-                "title": "Guide.Who.ExperiencedPlanter"
+                "title": "Guide.Who.ExperiencedPlantor"
             },
             {
-                "title": "Guide.Who.PlanterInstructor"
+                "title": "Guide.Who.PlantorInstructor"
             },
             {
-                "title": "Guide.Who.RookiePlanter"
+                "title": "Guide.Who.RookiePlantor"
             },
             {
                 "title": "Land.LandDifficulty.LandComplexity"
@@ -17425,7 +17425,7 @@ json = [
                 "title": "Dev.System.Object"
             },
             {
-                "title": "Guide.Who.PlanterInstructor"
+                "title": "Guide.Who.PlantorInstructor"
             },
             {
                 "title": "Move.ClothingMove.Overview"
@@ -17632,10 +17632,10 @@ json = [
                 "title": "Dev.System.Byrne"
             },
             {
-                "title": "Guide.Who.PlanterInstructor"
+                "title": "Guide.Who.PlantorInstructor"
             },
             {
-                "title": "Guide.Who.PlanterInstructor.TeachingPlot"
+                "title": "Guide.Who.PlantorInstructor.TeachingPlot"
             },
             {
                 "title": "Land.Density.5"
@@ -17720,7 +17720,7 @@ json = [
                 "title": "Move.MoveDiagram.MoveTimeline"
             },
             {
-                "title": "Move.MovePhrase"
+                "title": "Move.MoveFrase"
             },
             {
                 "title": "TagTest"
@@ -18292,7 +18292,7 @@ json = [
                 "title": "Move.MoveError.Slip.Overview"
             },
             {
-                "title": "Move.MovePhrase"
+                "title": "Move.MoveFrase"
             },
             {
                 "title": "PlantaBeta"
@@ -19570,10 +19570,10 @@ json = [
                 "title": "Via.ViaShape"
             },
             {
-                "title": "Via.ViaSequence.BagUpPhrase"
+                "title": "Via.ViaSequence.BagUpFrase"
             },
             {
-                "title": "Via.ViaSequence.AreaCoverPhrase.Overview"
+                "title": "Via.ViaSequence.AreaCoverFrase.Overview"
             },
             {
                 "title": "NotPaper"
@@ -20593,7 +20593,7 @@ json = [
                 "title": "BetaGraph.ElementValue.ElementEvaluation"
             },
             {
-                "title": "BetaGraph.Phrase"
+                "title": "BetaGraph.Frase"
             },
             {
                 "title": "BetaGraph.StakeholderMap"
@@ -20691,7 +20691,7 @@ json = [
                 "title": "BetaGraph.PostIt"
             },
             {
-                "title": "BetaGraph.Phrase"
+                "title": "BetaGraph.Frase"
             },
             {
                 "title": "Dev.System.Value"
@@ -20711,7 +20711,7 @@ json = [
                 "title": "BetaGraph.ElementValue.ElementValueChain"
             },
             {
-                "title": "BetaGraph.Phrase"
+                "title": "BetaGraph.Frase"
             },
             {
                 "title": "NotPaper"
@@ -20849,7 +20849,7 @@ json = [
                 "title": "BetaGraph.PostIt"
             },
             {
-                "title": "BetaGraph.Phrase"
+                "title": "BetaGraph.Frase"
             },
             {
                 "title": "NotPaper"
@@ -20950,10 +20950,10 @@ json = [
                 "title": "NotPaper"
             },
             {
-                "title": "BetaGraph.Phrase.StartElement"
+                "title": "BetaGraph.Frase.StartElement"
             },
             {
-                "title": "BetaGraph.Phrase.FinishElement"
+                "title": "BetaGraph.Frase.FinishElement"
             },
             {
                 "title": "BetaGraph.EkosystemMapPie.PieSection"
@@ -20967,13 +20967,13 @@ json = [
                 "title": "NotPaper"
             },
             {
-                "title": "BetaGraph.Phrase"
+                "title": "BetaGraph.Frase"
             },
             {
                 "title": "BetaGraph.PostIt"
             },
             {
-                "title": "BetaGraph.Phrase.StartElement"
+                "title": "BetaGraph.Frase.StartElement"
             },
             {
                 "title": "BetaGraph.EkosystemMapPie.PieSection"
@@ -20990,25 +20990,25 @@ json = [
                 "title": "BetaGraph.EkosystemMapPie.PieSection"
             },
             {
-                "title": "BetaGraph.Phrase.PhrasePop"
+                "title": "BetaGraph.Frase.FrasePop"
             },
             {
-                "title": "BetaGraph.Phrase.PhrasePush"
+                "title": "BetaGraph.Frase.FrasePush"
             },
             {
-                "title": "BetaGraph.Phrase.PhraseInsertion"
+                "title": "BetaGraph.Frase.FraseInsertion"
             },
             {
-                "title": "BetaGraph.Phrase.PhraseSplice"
+                "title": "BetaGraph.Frase.FraseSplice"
             },
             {
-                "title": "BetaGraph.Phrase.StartElement"
+                "title": "BetaGraph.Frase.StartElement"
             },
             {
-                "title": "BetaGraph.Phrase.ReorderPhrase"
+                "title": "BetaGraph.Frase.ReorderFrase"
             },
             {
-                "title": "BetaGraph.Phrase.InfraElement"
+                "title": "BetaGraph.Frase.InfraElement"
             }
         ]
     },
@@ -21319,7 +21319,7 @@ json = [
                 "title": "NotPaper"
             },
             {
-                "title": "Guide.Who.RookiePlanter.RookieStare"
+                "title": "Guide.Who.RookiePlantor.RookieStare"
             }
         ]
     },
@@ -21769,7 +21769,7 @@ json = [
                 "title": "RawVideo"
             },
             {
-                "title": "Move.MovePhrase.PlantingPhrase"
+                "title": "Move.MoveFrase.PlantingFrase"
             },
             {
                 "title": "Land.Slash.LowSlash"
@@ -21838,7 +21838,7 @@ json = [
                 "title": "RawVideo"
             },
             {
-                "title": "Move.MovePhrase.BaggingUpPhrase"
+                "title": "Move.MoveFrase.BaggingUpFrase"
             },
             {
                 "title": "Move.CacheMove.BundlePlacement"
@@ -21995,7 +21995,7 @@ json = [
                 "title": "Move.HandMove.HandClose"
             },
             {
-                "title": "Move.MovePhrase.PlantingPhrase"
+                "title": "Move.MoveFrase.PlantingFrase"
             },
             {
                 "title": "Move.FootMove.FootClose"
@@ -22114,7 +22114,7 @@ json = [
                 "title": "Move.ToolMove.BagMove.BaggingUp"
             },
             {
-                "title": "Move.MovePhrase.BaggingUpPhrase"
+                "title": "Move.MoveFrase.BaggingUpFrase"
             },
             {
                 "title": "Guide.Why.Productivity.Efficiency.Redundancy"
@@ -22199,7 +22199,7 @@ json = [
                 "title": "Move.CacheMove.GarbageBox"
             },
             {
-                "title": "Move.MovePhrase.BaggingUpPhrase"
+                "title": "Move.MoveFrase.BaggingUpFrase"
             }
         ]
     },
@@ -22226,7 +22226,7 @@ json = [
                 "title": "RawVideo"
             },
             {
-                "title": "Move.MovePhrase.BaggingUpPhrase"
+                "title": "Move.MoveFrase.BaggingUpFrase"
             },
             {
                 "title": "Move.ToolMove.BundleMove.BundleGrip"

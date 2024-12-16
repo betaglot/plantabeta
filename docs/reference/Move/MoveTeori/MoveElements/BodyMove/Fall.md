@@ -1,4 +1,4 @@
-# 🟠 <move>PlanterFall</move>
+# 🟠 <move>PlantorFall</move>
 
 ![MoveIkon](/Move/Move_Ikon.png)
 

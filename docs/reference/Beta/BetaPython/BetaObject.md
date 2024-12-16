@@ -2,13 +2,13 @@
 
 The objects of Beta are people.
 
-## 🔷<beta>Planter</beta>
+## 🔷<beta>Plantor</beta>
 
-> a single planter
+> a single plantor
 
 ## 🔷<beta>Team</beta>
 
-> More than one planter working together in the same piece
+> More than one plantor working together in the same piece
 
 "Partner Planting"
 
@@ -16,7 +16,7 @@ The objects of Beta are people.
 
 ## 🔷<beta>Crew</beta>
 
-> the Planters and Supervisor which share a truck
+> the Plantors and Supervisor which share a truck
 
 ---
 

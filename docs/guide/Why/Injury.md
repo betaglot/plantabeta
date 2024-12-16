@@ -8,22 +8,22 @@ Planting can be a dangerous job.
 
 ## Choose Safer Alternatives
 
-Planters can get injured when they don't adapt motos to the specific situation. 🔷<beta>Put(<eko>Plant</eko>)</beta> gives many options to adapt motos for any situation.
+Plantors can get injured when they don't adapt motos to the specific situation. 🔷<beta>Put(<eko>Plant</eko>)</beta> gives many options to adapt motos for any situation.
 
-Some Planters only know how to [🟠<move>HandClose</move>](/encyclopedia/Move/HandMove/HandClose) one way, but there are many different ways. Even slightly varying a motos can reduce repetitive strain injuries.
+Some Plantors only know how to [🟠<move>HandClose</move>](/encyclopedia/Move/HandMove/HandClose) one way, but there are many different ways. Even slightly varying a motos can reduce repetitive strain injuries.
 
 ## Repetitive Strain
 
-Injury can occur in Planters when they perform the same movement repeatedly.
+Injury can occur in Plantors when they perform the same movement repeatedly.
 
-- Do ambidextrous Planters suffer less injury caused by repetitive strain?
+- Do ambidextrous Plantors suffer less injury caused by repetitive strain?
     - Repetitive Motion
     - Greater moto variability reduces moto repetition.
         - How many [🟠<move>HandClosing</move>](/encyclopedia/Move/HandMove/HandClose)  methods do you know?
 
 ## Reduces Injuries from Falling
 
-PlantaBeta teaches Planters how to move through their [🟩<eko>Eko</eko>](/encyclopedia/Eko/EcoOverview) safely.
+PlantaBeta teaches Plantors how to move through their [🟩<eko>Eko</eko>](/encyclopedia/Eko/EcoOverview) safely.
 
 Falling is a large part of Climbing. PlantaBeta transfers the knowledge of how to fall safely from climbing to Planting.
 ::: tip Some of the Moves used to safely Fall
@@ -34,14 +34,14 @@ Falling is a large part of Climbing. PlantaBeta transfers the knowledge of how t
 
 ## Wrist Tendonitis
 
-Wrist Tendonitis occurs from straining the tissues around the wrist. The strain can be acute, such as when a Planter hits a rock with full force and doesn't absorb the shock, or the strain can be from repetitive use.
+Wrist Tendonitis occurs from straining the tissues around the wrist. The strain can be acute, such as when a Plantor hits a rock with full force and doesn't absorb the shock, or the strain can be from repetitive use.
 
 - [🟠<move>ArmAbsorb</move>](/encyclopedia/Move/ArmMove/ArmAbsorb) during the impact of [🟠<move>SpadeSlam</move>](/encyclopedia/Move/ToolMove/Spade/SpadeSlam)
 -
 
 ## Christmas Toe
 
-Planters kick To remove the layer of organic material off an intended microsite. Christmas Toe is when your big toe becomes numb from all the kicking impacts and you only regain sensation around Christmas time (six months after the season is over). Christmas Toe not only affects feet, it also affects how Planters walk therefore affecting the biomechanics of the entire lower body.
+Plantors kick To remove the layer of organic material off an intended microsite. Christmas Toe is when your big toe becomes numb from all the kicking impacts and you only regain sensation around Christmas time (six months after the season is over). Christmas Toe not only affects feet, it also affects how Plantors walk therefore affecting the biomechanics of the entire lower body.
 
 A greater knowledge of possible alternative moves can prevent Christmas Toe from ever occuring.
 
@@ -63,7 +63,7 @@ A greater knowledge of possible alternative moves can prevent Christmas Toe from
     - Non monetary Benefit
 - TriggerFinger
 - The Claw hand
-- Antagonist Workout for planters: More fatigued, less injured. Balanced Fatigue across body, not just muscles used for planting.
+- Antagonist Workout for plantors: More fatigued, less injured. Balanced Fatigue across body, not just muscles used for planting.
 
 <h2>PageTags</h2>
 

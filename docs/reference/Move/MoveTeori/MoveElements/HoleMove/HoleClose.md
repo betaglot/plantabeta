@@ -11,7 +11,7 @@
 <!-- =================================================== -->
 ::: details 🛠 <dev>&&&</dev>
 
-- Holes without Trees are never closed by Planters, they may close by Eko though.
+- Holes without Trees are never closed by Plantors, they may close by Eko though.
 - Closed implies that there is a tree put in the hole
 
 - Axiom

@@ -1,5 +1,5 @@
 
-# 🔷 <move>Body Phrase</move>
+# 🔷 <move>Body Frase</move>
 
 ## Get
 

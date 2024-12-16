@@ -1,5 +1,5 @@
 
-# 🔷 <move>Head Phrase</move>
+# 🔷 <move>Head Frase</move>
 
 ---
 

@@ -27,7 +27,7 @@ Crummy Podcast
 
 ::: tip
 
-Planters are more likely to check their email than any of the multiple social media apps
+Plantors are more likely to check their email than any of the multiple social media apps
 
 :::
 
@@ -149,6 +149,6 @@ Most Epic BC day, Most shitty Ontario day
 
 - Use VossNumbers
 
-#### NovicePlanterPrize
+#### NovicePlantorPrize
 
-#### ExperiencedPlanterPrize
+#### ExperiencedPlantorPrize

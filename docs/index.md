@@ -5,7 +5,7 @@ titleTemplate: PlantaBeta
 
 hero: 
   name: "PlantaBeta"
-  text: How to be a Tree Planter
+  text: How to be a Tree Plantor
   tagline: The examples, guides, and reference you need—whether you're planting in the mountains of British Columbia, the wetlands of the Canadian Shield, or anywhere in between. Take advantage of these resources to develop your ability to plant faster and with higher quality.
   image:
     src: /Putplant_Logo.png
@@ -19,7 +19,7 @@ hero:
 # features:
 #   - icon: 🔷
 #     title:  Examples
-#     details: Accelerate your planter development by learning from examples
+#     details: Accelerate your plantor development by learning from examples
 #     link: /examples/Overview
 #   - icon: 🛠️
 #     title: Last Updated on July 21, 2024

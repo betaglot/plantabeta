@@ -162,16 +162,16 @@
         "BetaGraph.MetroMap",
         "BetaGraph.NodeSize",
         "BetaGraph.PostIt",
-        "BetaGraph.Phrase",
-        "BetaGraph.Phrase.ContiguousElement",
-        "BetaGraph.Phrase.FinishElement",
-        "BetaGraph.Phrase.InfraElement",
-        "BetaGraph.Phrase.ReorderPhrase",
-        "BetaGraph.Phrase.PhraseInsertion",
-        "BetaGraph.Phrase.PhrasePop",
-        "BetaGraph.Phrase.PhrasePush",
-        "BetaGraph.Phrase.PhraseSplice",
-        "BetaGraph.Phrase.StartElement",
+        "BetaGraph.Frase",
+        "BetaGraph.Frase.ContiguousElement",
+        "BetaGraph.Frase.FinishElement",
+        "BetaGraph.Frase.InfraElement",
+        "BetaGraph.Frase.ReorderFrase",
+        "BetaGraph.Frase.FraseInsertion",
+        "BetaGraph.Frase.FrasePop",
+        "BetaGraph.Frase.FrasePush",
+        "BetaGraph.Frase.FraseSplice",
+        "BetaGraph.Frase.StartElement",
         "BetaGraph.StakeholderMap",
         "BetaGraph.Symbols",
         "BetaGraph.Timeline"
@@ -212,8 +212,8 @@
         "Move.MoveLine.MoveMirrorLine",
         "Move.MoveLine.Overview",
         "Move.MovePhoto",
-        "Move.PlanterDiagram",
-        "Move.PlanterDiagram.LevelOfDetail"
+        "Move.PlantorDiagram",
+        "Move.PlantorDiagram.LevelOfDetail"
     ],
     "dev/Graphics/NeuroGraphic.md": [
         "Dev.NeuroDiagram.NeuroTimeline",
@@ -233,7 +233,7 @@
         "Dev.Element.ElementDiagram.ConnectorLine.LineThickness",
         "Dev.Element.ElementDiagram.ElementArrow",
         "Dev.Element.ElementDiagram.ElementDiagramError.Floating",
-        "Dev.Element.ElementDiagram.ElementDiagramError.PhraseNumberLabelError",
+        "Dev.Element.ElementDiagram.ElementDiagramError.FraseNumberLabelError",
         "Dev.Element.ElementDiagram.ElementLine.ElementLineHighlight",
         "Dev.Element.ElementDiagram.ElementTreeDiagram.ElementHierarchy.Overview",
         "Dev.Element.ElementDiagram.ElementTreeDiagram.ElementHierarchy.SiblingElement",
@@ -244,7 +244,7 @@
         "Dev.Element.ElementDiagram.Labels.ArrowLabel",
         "Dev.Element.ElementDiagram.Labels.Lasso",
         "Dev.Element.ElementDiagram.Labels.NumberLabel",
-        "Dev.Element.ElementDiagram.Labels.NumberLabel.PhraseNumberLabel",
+        "Dev.Element.ElementDiagram.Labels.NumberLabel.FraseNumberLabel",
         "Dev.Element.ElementDiagram.Labels.PictogramLabel",
         "Dev.Element.ElementDiagram.Labels.TextLabel",
         "Dev.Element.ElementDiagram.Labels.TextLabel.AbbreviatedTextLabel",
@@ -264,7 +264,7 @@
         "Dev.Element.ElementPage",
         "Dev.Element.ElementPictogram",
         "Dev.Element.ElementAttributes",
-        "Dev.Element.ElementPhrase",
+        "Dev.Element.ElementFrase",
         "Dev.Element.ElementTimeline",
         "Dev.Element.ElementTimeline.EinsteinSpaghetti",
         "Dev.Element.ElementVariation",
@@ -331,7 +331,7 @@
         "Sponsor.Promotion.Video.MusicVideo"
     ],
     "dev/PaperPhoto.md": [],
-    "dev/PythonPlanter.md": [
+    "dev/PythonPlantor.md": [
         "Dev.System",
         "Dev.System.Axiom",
         "Dev.System.Byrne",
@@ -402,7 +402,7 @@
     "dev/Roadmap.md": [
         "Dev.Roadmap"
     ],
-    "dev/Phrase.md": [],
+    "dev/Frase.md": [],
     "dev/Simulation.md": [],
     "dev/StyleGuide.md": [
         "Dev.Breadcrumb",
@@ -439,7 +439,7 @@
         "Dev.Tagging.TagName",
         "Dev.Tagging.TagPath",
         "Dev.Transcription",
-        "Dev.Transcription.TranscriptionPhrase",
+        "Dev.Transcription.TranscriptionFrase",
         "Dev.VideoAnalysis.VideoTagging",
         "Move.MoveVideo"
     ],
@@ -550,8 +550,8 @@
         "Eko.MixedLand",
         "Eko.Overview"
     ],
-    "Eko/EcoPhrase/Overview.md": [
-        "Eko.LandPhrase"
+    "Eko/EcoFrase/Overview.md": [
+        "Eko.LandFrase"
     ],
     "Eko/LandSpeed/FastLand.md": [],
     "Eko/LandSpeed/Overview.md": [
@@ -676,39 +676,39 @@
         "Guide.What.WhatElement.ElementName.Affix",
         "Guide.What.WhatElement.Euclid",
         "Guide.What.WhatPlantaBeta",
-        "Guide.What.WhatPlantaBeta.PlanterQuestion",
+        "Guide.What.WhatPlantaBeta.PlantorQuestion",
         "Guide.What.WhatPlantaBeta.Product",
         "Guide.What.WhatPlantaBeta.Service"
     ],
     "guide/What/WhatTreePlanting.md": [
         "Guide.What.WhatTreePlanting"
     ],
-    "guide/Who/ExperiencedPlanter.md": [
-        "Guide.Who.ExperiencedPlanter"
+    "guide/Who/ExperiencedPlantor.md": [
+        "Guide.Who.ExperiencedPlantor"
     ],
-    "guide/Who/NovicePlanter.md": [
-        "Guide.Who.NovicePlanter",
-        "Guide.Who.NovicePlanter.NoviceStare"
+    "guide/Who/NovicePlantor.md": [
+        "Guide.Who.NovicePlantor",
+        "Guide.Who.NovicePlantor.NoviceStare"
     ],
-    "guide/Who/PlanterInstructor.md": [
+    "guide/Who/PlantorInstructor.md": [
         "Dev.Pedagogy",
-        "Dev.Pedagogy.Curriculum.LessonPhrase",
+        "Dev.Pedagogy.Curriculum.LessonFrase",
         "Dev.Pedagogy.Curriculum.Timeline",
-        "Dev.PlanterMetaInstructor",
-        "Guide.Who.PlanterInstructor",
-        "Guide.Who.PlanterInstructor.Handout",
-        "Guide.Who.PlanterInstructor.InstructorGuide.Curriculum",
-        "Guide.Who.PlanterInstructor.InstructorGuide.Template",
-        "Guide.Who.PlanterInstructor.TeachingBlock",
-        "Guide.Who.PlanterInstructor.TeachingPiece",
-        "Guide.Who.PlanterInstructor.TeachingPlot"
+        "Dev.PlantorMetaInstructor",
+        "Guide.Who.PlantorInstructor",
+        "Guide.Who.PlantorInstructor.Handout",
+        "Guide.Who.PlantorInstructor.InstructorGuide.Curriculum",
+        "Guide.Who.PlantorInstructor.InstructorGuide.Template",
+        "Guide.Who.PlantorInstructor.TeachingBlock",
+        "Guide.Who.PlantorInstructor.TeachingPiece",
+        "Guide.Who.PlantorInstructor.TeachingPlot"
     ],
-    "guide/Who/PlanterSupervisor.md": [
-        "Guide.Who.PlanterRecruiter",
-        "Guide.Who.PlanterSupervisor"
+    "guide/Who/PlantorSupervisor.md": [
+        "Guide.Who.PlantorRecruiter",
+        "Guide.Who.PlantorSupervisor"
     ],
-    "guide/Who/PotentialPlanter.md": [
-        "Guide.Who.PotentialPlanter"
+    "guide/Who/PotentialPlantor.md": [
+        "Guide.Who.PotentialPlantor"
     ],
     "guide/Why/Communication.md": [
         "Guide.Who.Overview",
@@ -716,7 +716,7 @@
         "Guide.Why.Overview"
     ],
     "guide/Why/Company.md": [
-        "Guide.Who.PlanterResearcher",
+        "Guide.Who.PlantorResearcher",
         "Guide.Why.Company",
         "Guide.Why.Innovation.Database",
         "Guide.Why.Innovation.MinimizeMarka"
@@ -749,7 +749,7 @@
     "Move/ArmMove/ArmProp.md": [
         "Move.ArmMove.ArmProp"
     ],
-    "Move/ArmMove/ArmPhrase.md": [],
+    "Move/ArmMove/ArmFrase.md": [],
     "Move/ArmMove/ArmSidebagLift.md": [
         "Move.ArmMove.ArmSidebagLift"
     ],
@@ -803,7 +803,7 @@
     "Move/BodyMove/BodyRotate.md": [
         "Move.BodyMove.BodyRotate"
     ],
-    "Move/BodyMove/BodyPhrase.md": [],
+    "Move/BodyMove/BodyFrase.md": [],
     "Move/BodyMove/BodySlot.md": [
         "Move.BodyMove.BodySlot"
     ],
@@ -853,7 +853,7 @@
     "Move/BodyMove/Walk.md": [
         "Move.BodyMove.Walk"
     ],
-    "Move/CacheMove/CachePhrase.md": [],
+    "Move/CacheMove/CacheFrase.md": [],
     "Move/CacheMove/Eating.md": [],
     "Move/CacheMove/Overview.md": [
         "Move.CacheMove.BagsPlacement",
@@ -875,7 +875,7 @@
     "Move/ClothingMove/ClothingLayer.md": [
         "Move.ClothingMove.ClothingLayer"
     ],
-    "Move/ClothingMove/ClothingPhrase.md": [],
+    "Move/ClothingMove/ClothingFrase.md": [],
     "Move/ClothingMove/HatMove.md": [
         "Move.ClothingMove.HatMove"
     ],
@@ -912,7 +912,7 @@
     "Move/FootMove/FootSkreef.md": [
         "Move.FootMove.FootSkreef"
     ],
-    "Move/FootMove/FootPhrase.md": [
+    "Move/FootMove/FootFrase.md": [
         "Move.FootMove.FootMatch",
         "Move.FootMove.FootMatch",
         "Move.FootMove.FootSwap"
@@ -949,7 +949,7 @@
     "Move/HandMove/HandSkreef.md": [
         "Move.HandMove.HandSkreef"
     ],
-    "Move/HandMove/HandPhrase.md": [
+    "Move/HandMove/HandFrase.md": [
         "Move.HandMove.HandBump",
         "Move.HandMove.HandMatch"
     ],
@@ -1000,7 +1000,7 @@
     "Move/HeadMove/HeadRetraction.md": [
         "Move.HeadMove.HeadRetraction"
     ],
-    "Move/HeadMove/HeadPhrase.md": [],
+    "Move/HeadMove/HeadFrase.md": [],
     "Move/HeadMove/HeadTiltIntoWind.md": [
         "Move.HeadMove.HeadTiltIntoWind"
     ],
@@ -1032,7 +1032,7 @@
         "Move.HoleMove.HoleOpen"
     ],
     "Move/HoleMove/HoleAttributes.md": [],
-    "Move/HoleMove/HolePhrase.md": [],
+    "Move/HoleMove/HoleFrase.md": [],
     "Move/HoleMove/Overview.md": [
         "Move.HoleMove.Overview"
     ],
@@ -1064,7 +1064,7 @@
     "Move/LegMove/LegProp.md": [
         "Move.LegMove.LegProp"
     ],
-    "Move/LegMove/LegPhrase.md": [],
+    "Move/LegMove/LegFrase.md": [],
     "Move/LegMove/LegSidebagLift.md": [
         "Move.LegMove.LegSidebagLift"
     ],
@@ -1256,50 +1256,50 @@
         "Move.Physics.Tangent",
         "Move.Physics.Vector",
         "Move.Physics.Velocity",
-        "Move.PlanterPart",
-        "Move.PlanterAttributes.Overview",
-        "Move.PlanterAttributes.PlanterAbility",
-        "Move.PlanterAttributes.PlanterSize",
+        "Move.PlantorPart",
+        "Move.PlantorAttributes.Overview",
+        "Move.PlantorAttributes.PlantorAbility",
+        "Move.PlantorAttributes.PlantorSize",
         "Move.RedirectMove",
         "Move.ViaInfluenceMove",
         "Move.SlashMove.Overview"
     ],
-    "Move/MovePhrase/Overview.md": [
-        "Move.MovePhrase",
-        "Move.MovePhrase.AnteMove",
-        "Move.MovePhrase.ArmPhrase",
-        "Move.MovePhrase.Attempt",
-        "Move.MovePhrase.BaggingUpPhrase",
-        "Move.MovePhrase.BodyPhrase",
-        "Move.MovePhrase.ContiguousMove",
-        "Move.MovePhrase.CurrentMove",
-        "Move.MovePhrase.FootPhrase",
-        "Move.MovePhrase.HandPhrase",
-        "Move.MovePhrase.InitiationMove",
-        "Move.MovePhrase.IntermembralTiming",
-        "Move.MovePhrase.LegPhrase",
-        "Move.MovePhrase.MoveChunk.MovePhrase",
-        "Move.MovePhrase.MoveCycle",
-        "Move.MovePhrase.MoveCycle.DoUntil",
-        "Move.MovePhrase.MoveCycle.DoWhile",
-        "Move.MovePhrase.MoveDensity",
-        "Move.MovePhrase.MoveEndurance",
-        "Move.MovePhrase.MoveLinePhrase",
-        "Move.MovePhrase.MoveNestedPhrase",
-        "Move.MovePhrase.MoveOverlap",
-        "Move.MovePhrase.MoveRhythm",
-        "Move.MovePhrase.MovePhraseArea",
-        "Move.MovePhrase.MovePhraseError",
-        "Move.MovePhrase.MovePhraseVariation",
-        "Move.MovePhrase.MoveShapePhrase.MoveShapeOverlap",
-        "Move.MovePhrase.MoveSpacePhrase.MoveSpaceOverlap",
-        "Move.MovePhrase.MoveTempo",
-        "Move.MovePhrase.PlantingPhrase",
-        "Move.MovePhrase.PostMove",
-        "Move.MovePhrase.SimultaneousMove",
-        "Move.MovePhrase.SpadePhrase",
-        "Move.MovePhrase.SubmotoPhrase",
-        "Move.MovePhrase.TransitionMove"
+    "Move/MoveFrase/Overview.md": [
+        "Move.MoveFrase",
+        "Move.MoveFrase.AnteMove",
+        "Move.MoveFrase.ArmFrase",
+        "Move.MoveFrase.Attempt",
+        "Move.MoveFrase.BaggingUpFrase",
+        "Move.MoveFrase.BodyFrase",
+        "Move.MoveFrase.ContiguousMove",
+        "Move.MoveFrase.CurrentMove",
+        "Move.MoveFrase.FootFrase",
+        "Move.MoveFrase.HandFrase",
+        "Move.MoveFrase.InitiationMove",
+        "Move.MoveFrase.IntermembralTiming",
+        "Move.MoveFrase.LegFrase",
+        "Move.MoveFrase.MoveChunk.MoveFrase",
+        "Move.MoveFrase.MoveCycle",
+        "Move.MoveFrase.MoveCycle.DoUntil",
+        "Move.MoveFrase.MoveCycle.DoWhile",
+        "Move.MoveFrase.MoveDensity",
+        "Move.MoveFrase.MoveEndurance",
+        "Move.MoveFrase.MoveLineFrase",
+        "Move.MoveFrase.MoveNestedFrase",
+        "Move.MoveFrase.MoveOverlap",
+        "Move.MoveFrase.MoveRhythm",
+        "Move.MoveFrase.MoveFraseArea",
+        "Move.MoveFrase.MoveFraseError",
+        "Move.MoveFrase.MoveFraseVariation",
+        "Move.MoveFrase.MoveShapeFrase.MoveShapeOverlap",
+        "Move.MoveFrase.MoveSpaceFrase.MoveSpaceOverlap",
+        "Move.MoveFrase.MoveTempo",
+        "Move.MoveFrase.PlantingFrase",
+        "Move.MoveFrase.PostMove",
+        "Move.MoveFrase.SimultaneousMove",
+        "Move.MoveFrase.SpadeFrase",
+        "Move.MoveFrase.SubmotoFrase",
+        "Move.MoveFrase.TransitionMove"
     ],
     "Move/Placeholder_MoveProfile.md": [],
     "Move/PlantMove/BranchArmDeflection.md": [
@@ -1350,7 +1350,7 @@
     "Move/ToolMove/Bag/BagOn.md": [
         "Move.ToolMove.BagMove.BagOn"
     ],
-    "Move/ToolMove/Bag/BagPhrase.md": [],
+    "Move/ToolMove/Bag/BagFrase.md": [],
     "Move/ToolMove/Bag/BagSlide.md": [
         "Move.ToolMove.BagMove.BagSlide"
     ],
@@ -1361,7 +1361,7 @@
         "Move.ToolMove.BagMove.Overview"
     ],
     "Move/ToolMove/Boot/BootSkreef.md": [],
-    "Move/ToolMove/Boot/BootPhrase.md": [],
+    "Move/ToolMove/Boot/BootFrase.md": [],
     "Move/ToolMove/Boot/LaceKnot.md": [
         "Move.ToolMove.BootMove.LaceKnot"
     ],
@@ -1371,7 +1371,7 @@
         "Move.ToolMove.BootMove.Overview"
     ],
     "Move/ToolMove/Box/BoxGrip.md": [],
-    "Move/ToolMove/Box/BoxPhrase.md": [
+    "Move/ToolMove/Box/BoxFrase.md": [
         "Move.ToolMove.BoxMove.BoxStack"
     ],
     "Move/ToolMove/Box/Overview.md": [
@@ -1386,7 +1386,7 @@
     "Move/ToolMove/Bundle/BundlePeel.md": [
         "Move.ToolMove.BundleMove.BundlePeel"
     ],
-    "Move/ToolMove/Bundle/BundlePhrase.md": [],
+    "Move/ToolMove/Bundle/BundleFrase.md": [],
     "Move/ToolMove/Bundle/Overview.md": [
         "Move.ToolMove.BundleMove.BundleRoll",
         "Move.ToolMove.BundleMove.BundleUnwrap",
@@ -1408,7 +1408,7 @@
     "Move/ToolMove/Marka/MarkaRoll.md": [
         "Move.ToolMove.MarkaMove.MarkaRoll"
     ],
-    "Move/ToolMove/Marka/MarkaPhrase.md": [],
+    "Move/ToolMove/Marka/MarkaFrase.md": [],
     "Move/ToolMove/Marka/MarkaThrow.md": [
         "Move.ToolMove.MarkaMove.MarkaThrow"
     ],
@@ -1438,7 +1438,7 @@
         "Move.ToolMove.GaiterMove.Overview"
     ],
     "Move/ToolMove/Glove/GloveGrip.md": [],
-    "Move/ToolMove/Glove/GlovePhrase.md": [],
+    "Move/ToolMove/Glove/GloveFrase.md": [],
     "Move/ToolMove/Glove/Overview.md": [
         "Move.ToolMove.GloveMove.Overview"
     ],
@@ -1466,7 +1466,7 @@
     "Move/ToolMove/Spade/SpadeSkreef.md": [
         "Move.ToolMove.SpadeMove.SpadeSkreef"
     ],
-    "Move/ToolMove/Spade/SpadePhrase.md": [
+    "Move/ToolMove/Spade/SpadeFrase.md": [
         "Move.ToolMove.SpadeMove.SpadeSwap"
     ],
     "Move/ToolMove/Spade/SpadeSlam.md": [
@@ -1489,7 +1489,7 @@
     "Move/TruckMove/Sleep.md": [
         "Move.ToolMove.TruckMove.Sleep"
     ],
-    "Move/TruckMove/TruckPhrase.md": [],
+    "Move/TruckMove/TruckFrase.md": [],
     "Psike/Acceptance/Overview.md": [],
     "Psike/Algorithm/Overview.md": [],
     "Psike/Arousal/Calm.md": [
@@ -1860,12 +1860,12 @@
         "Via.ViaComposition.ViaSelection.ViaComparison",
         "Via.ViaCrux",
         "Via.ViaSequence",
-        "Via.ViaSequence.AreaCoverPhrase.Overview",
-        "Via.ViaSequence.AreaCoverPhrase.ViaShapeInscription.Overview",
-        "Via.ViaSequence.AreaCoverPhrase.ViaShapeInscription.ViaCircleInscription",
-        "Via.ViaSequence.AreaCoverPhrase.ViaShapeInscription.ViaSquareInscription",
-        "Via.ViaSequence.AreaCoverPhrase.ViaShapeInscription.ViaTriangleInscription",
-        "Via.ViaSequence.BagUpPhrase",
+        "Via.ViaSequence.AreaCoverFrase.Overview",
+        "Via.ViaSequence.AreaCoverFrase.ViaShapeInscription.Overview",
+        "Via.ViaSequence.AreaCoverFrase.ViaShapeInscription.ViaCircleInscription",
+        "Via.ViaSequence.AreaCoverFrase.ViaShapeInscription.ViaSquareInscription",
+        "Via.ViaSequence.AreaCoverFrase.ViaShapeInscription.ViaTriangleInscription",
+        "Via.ViaSequence.BagUpFrase",
         "Via.ViaSequence.CurrentMicrosite",
         "Via.ViaSequence.MarkaMove",
         "Via.ViaSequence.HoleMove",
@@ -1874,17 +1874,17 @@
         "Via.ViaSequence.MicrositeSelection",
         "Via.ViaSequence.PostMicrosite",
         "Via.ViaSequence.PostMicrositeAnteMicrosite",
-        "Via.ViaSequence.RedRotPhrase",
+        "Via.ViaSequence.RedRotFrase",
         "Via.ViaSequence.ViaCycle",
         "Via.ViaSequence.ViaCycle.DoUntil",
         "Via.ViaSequence.ViaCycle.DoWhile",
         "Via.ViaSequence.ViaSequenceVariation",
-        "Via.ViaSequence.ViaShapePhrase.ViaShapeOverlap",
-        "Via.ViaSequence.ViaSpacePhrase.ViaSpaceOverlap",
-        "Via.ViaSequence.ViaSurfacePhrase",
-        "Via.ViaSequence.ViaSurfacePhrase.AnteViaSurface",
-        "Via.ViaSequence.ViaSurfacePhrase.CurrentViaSurface",
-        "Via.ViaSequence.ViaSurfacePhrase.PostViaSurface"
+        "Via.ViaSequence.ViaShapeFrase.ViaShapeOverlap",
+        "Via.ViaSequence.ViaSpaceFrase.ViaSpaceOverlap",
+        "Via.ViaSequence.ViaSurfaceFrase",
+        "Via.ViaSequence.ViaSurfaceFrase.AnteViaSurface",
+        "Via.ViaSequence.ViaSurfaceFrase.CurrentViaSurface",
+        "Via.ViaSequence.ViaSurfaceFrase.PostViaSurface"
     ],
     "Via/ViaSpace/ElasticSpacing.md": [],
     "Via/ViaSpace/MaximumSpacing.md": [],

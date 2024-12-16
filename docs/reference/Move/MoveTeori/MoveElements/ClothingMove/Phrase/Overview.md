@@ -1,5 +1,10 @@
+# 🔷 <move>Clothing Frase</move>
 
-# 🔷 <move>Clothing Phrase</move>
+## Substitute Frase
+
+## Add Frase
+
+## Remove Frase
 
 ---
 

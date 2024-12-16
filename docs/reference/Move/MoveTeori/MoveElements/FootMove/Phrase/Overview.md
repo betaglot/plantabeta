@@ -1,5 +1,5 @@
 
-# 🔷 <move>Foot Phrase</move>
+# 🔷 <move>Foot Frase</move>
 
 ---
 

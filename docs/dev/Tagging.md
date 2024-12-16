@@ -5,7 +5,7 @@ Tag media with ElementNames
 
 ## Purpose
 
-- For Planter Learning
+- For Plantor Learning
 - For AI learning Data Set
 
 ## TagSpaces
@@ -52,7 +52,7 @@ Use TagSpaces or equivalent
 - "Dev.Tagging.TagName"
 - "Dev.Tagging.TagPath"
 - "Dev.Transcription"
-- "Dev.Transcription.TranscriptionPhrase"
+- "Dev.Transcription.TranscriptionFrase"
 - "Dev.VideoAnalysis.VideoTagging"
 - "Move.MoveVideo"
 

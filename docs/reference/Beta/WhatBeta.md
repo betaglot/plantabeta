@@ -55,7 +55,7 @@ This each line are analog pairs. The equal signs = denotes where Climbing and Pl
 
 - OffSeason Training
 - Outdoor Climbing has a similar to Planting.
-- Many Planters are also Climbers and share many attributes.
+- Many Plantors are also Climbers and share many attributes.
     - Resilience, Ruggedness, Physically Fit
 - You will get better at one by learning the other.
 :::
@@ -149,7 +149,7 @@ There is a miscommunication happening if:
 ::: details 🛠 <dev>&&&</dev>
 
 - TeamPut() is Beta
-- You don't need Beta to be a TreePlanter. Beta is just a Wrapper for communication. It's an API, an Interface between you and your coworkers.
+- You don't need Beta to be a TreePlantor. Beta is just a Wrapper for communication. It's an API, an Interface between you and your coworkers.
 - Use Code snippets to write abbreviated names to insert Tags or ElementName
 
 ## Independent Modules
@@ -196,7 +196,7 @@ Only Beta can be the solution
 
 Via Theorem, Via Solution
 
-Via just gives the options, Beta is required to Solve, since solution requires Move. Beta occurs when more than module is required in 1stPersonPoint of view. Planter's perspective.
+Via just gives the options, Beta is required to Solve, since solution requires Move. Beta occurs when more than module is required in 1stPersonPoint of view. Plantor's perspective.
 
 Psike that just thinks about NeuroFactors
 

@@ -13,7 +13,7 @@ It doesn't matter if it's always totally true, the canadian stereotype is believ
 
 - Openness
     - Open Source
-    - Anyone can be a planter
+    - Anyone can be a plantor
 - Kindness
     - "the quality of being generous, helpful, and caring about other people"
     - No crusty vet
@@ -212,7 +212,7 @@ Only the 🟠<move>Arm</move> object is prefixed with an icon. ArmPut is orange 
 ### Purpose(Icon)
 
 - Visual Search
-- For planters to use the Icons
+- For plantors to use the Icons
 - Each Icon can be easily handwritten, since electronics don't do well in extreme weather, in terms of breaking and in UX. You can't easily view a screen in summer sun, or rain, definitely not in snow.
 
 The BetaModules are aliased as Icons.
@@ -407,7 +407,7 @@ Every paragraph should have a link
 
 Save the Day
 
-Planters are Heros. Many people commented on @antmos Instagram that he was a hero. People already naturally think it.
+Plantors are Heros. Many people commented on @antmos Instagram that he was a hero. People already naturally think it.
 
 ## Via
 

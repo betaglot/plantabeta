@@ -13,7 +13,7 @@
 
 ## Examples
 
-- Use Media donated by Planters.
+- Use Media donated by Plantors.
 
 ## See also:
 

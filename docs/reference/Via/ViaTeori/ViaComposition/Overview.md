@@ -5,7 +5,7 @@ Define the Land that you're Covering
 
 Problem is
 
-Solution is where a Planter moves
+Solution is where a Plantor moves
 
 ## Define ViaProblem
 
@@ -46,12 +46,12 @@ NormalForce vector is a parameter in area suitability computation Selection
 - "Via.ViaComposition.ViaSelection.ViaComparison"
 - "Via.ViaCrux"
 - "Via.ViaSequence"`
-- "Via.ViaSequence.AreaCoverPhrase.Overview"
-- "Via.ViaSequence.AreaCoverPhrase.ViaShapeInscription.Overview"`
-- "Via.ViaSequence.AreaCoverPhrase.ViaShapeInscription.ViaCircleInscription"
-- "Via.ViaSequence.AreaCoverPhrase.ViaShapeInscription.ViaSquareInscription"
-- "Via.ViaSequence.AreaCoverPhrase.ViaShapeInscription.ViaTriangleInscription"
-- "Via.ViaSequence.BagUpPhrase"
+- "Via.ViaSequence.AreaCoverFrase.Overview"
+- "Via.ViaSequence.AreaCoverFrase.ViaShapeInscription.Overview"`
+- "Via.ViaSequence.AreaCoverFrase.ViaShapeInscription.ViaCircleInscription"
+- "Via.ViaSequence.AreaCoverFrase.ViaShapeInscription.ViaSquareInscription"
+- "Via.ViaSequence.AreaCoverFrase.ViaShapeInscription.ViaTriangleInscription"
+- "Via.ViaSequence.BagUpFrase"
 - "Via.ViaSequence.CurrentMicrosite"
 - "Via.ViaSequence.MarkaMove"
 - "Via.ViaSequence.HoleMove"
@@ -60,16 +60,16 @@ NormalForce vector is a parameter in area suitability computation Selection
 - "Via.ViaSequence.MicrositeSelection"
 - "Via.ViaSequence.PostMicrosite"
 - "Via.ViaSequence.PostMicrositeAnteMicrosite"
-- "Via.ViaSequence.RedRotPhrase"
+- "Via.ViaSequence.RedRotFrase"
 - "Via.ViaSequence.ViaCycle"
 - "Via.ViaSequence.ViaCycle.DoUntil"
 - "Via.ViaSequence.ViaCycle.DoWhile"
 - "Via.ViaSequence.ViaSequenceVariation"
-- "Via.ViaSequence.ViaShapePhrase.ViaShapeOverlap"
-- "Via.ViaSequence.ViaSpacePhrase.ViaSpaceOverlap"
-- "Via.ViaSequence.ViaSurfacePhrase"
-- "Via.ViaSequence.ViaSurfacePhrase.AnteViaSurface"
-- "Via.ViaSequence.ViaSurfacePhrase.CurrentViaSurface"
-- "Via.ViaSequence.ViaSurfacePhrase.PostViaSurface"
+- "Via.ViaSequence.ViaShapeFrase.ViaShapeOverlap"
+- "Via.ViaSequence.ViaSpaceFrase.ViaSpaceOverlap"
+- "Via.ViaSequence.ViaSurfaceFrase"
+- "Via.ViaSequence.ViaSurfaceFrase.AnteViaSurface"
+- "Via.ViaSequence.ViaSurfaceFrase.CurrentViaSurface"
+- "Via.ViaSequence.ViaSurfaceFrase.PostViaSurface"
 
 :::

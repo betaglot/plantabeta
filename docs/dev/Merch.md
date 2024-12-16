@@ -4,7 +4,7 @@ Support the project by selling stuff
 
 ## Calendar
 
-Scantily clad Planters
+Scantily clad Plantors
 
 ## Playing Cards
 

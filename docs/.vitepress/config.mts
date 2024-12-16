@@ -147,12 +147,12 @@ export default defineConfig({
 //       ]
 //     },
 //     {
-//       text: 'Planter Guide', collapsed: false, items: [
-//         { text: 'Potential Planter', link: '/guide/Who/PotentialPlanter' },
-//         { text: 'Novice Planter', link: '/guide/Who/NovicePlanter' },
-//         { text: 'Experienced Planter', link: '/guide/Who/ExperiencedPlanter' },
-//         { text: 'Planter Supervisor', link: '/guide/Who/PlanterSupervisor' },
-//         { text: 'Planter Instructor', link: '/guide/Who/PlanterInstructor' }
+//       text: 'Plantor Guide', collapsed: false, items: [
+//         { text: 'Potential Plantor', link: '/guide/Who/PotentialPlantor' },
+//         { text: 'Novice Plantor', link: '/guide/Who/NovicePlantor' },
+//         { text: 'Experienced Plantor', link: '/guide/Who/ExperiencedPlantor' },
+//         { text: 'Plantor Supervisor', link: '/guide/Who/PlantorSupervisor' },
+//         { text: 'Plantor Instructor', link: '/guide/Who/PlantorInstructor' }
 //       ]
 //     },
 //     {
@@ -307,7 +307,7 @@ export default defineConfig({
 //     // #Move
 //     {
 //       text: '🟠 <move>Move</move>', link: '/encyclopedia/Move/MoveOverview', collapsed: true, items: [
-//         { text: '🟠 <move>Phrase</move>', link: '/encyclopedia/Move/Phrase/Overview' },
+//         { text: '🟠 <move>Frase</move>', link: '/encyclopedia/Move/Frase/Overview' },
 //         {
 //           text: '🟠 <move>Move THEORIA</move>', link: '/encyclopedia/Move/MoveTheoria/Overview', collapsed: true, items: [
 //             { text: '🟠 <move>MoveTeknik</move>', link: '/encyclopedia/Move/MoveTheoria/MoveTeknik' },
@@ -326,7 +326,7 @@ export default defineConfig({
 //         },
 //         {
 //           text: '🟠 <move>ArmMove</move>', link: '/encyclopedia/Move/ArmMove/Overview', collapsed: true, items: [
-//             { text: '🟠 <move>Arm Phrase</move>', link: '/encyclopedia/Move/ArmMove/Phrase/Overview' },
+//             { text: '🟠 <move>Arm Frase</move>', link: '/encyclopedia/Move/ArmMove/Frase/Overview' },
 //             { text: '🟠 <move>ArmProp</move>', link: '/encyclopedia/Move/ArmMove/ArmProp' },
 //             { text: '🟠 <move>ArmSwing</move>', link: '/encyclopedia/Move/ArmMove/ArmSwing' },
 //             { text: '🟠 <move>ArmWalk</move>', link: '/encyclopedia/Move/ArmMove/ArmWalk' },
@@ -335,7 +335,7 @@ export default defineConfig({
 //         },
 //         {
 //           text: '🟠 <move>BodyMove</move>', link: '/encyclopedia/Move/BodyMove/Overview', collapsed: true, items: [
-//             { text: '🟠 <move>Body Phrase</move>', link: '/encyclopedia/Move/BodyMove/Phrase/Overview' },
+//             { text: '🟠 <move>Body Frase</move>', link: '/encyclopedia/Move/BodyMove/Frase/Overview' },
 //             { text: '🟠 <move>BodyAbsorb</move>', link: '/encyclopedia/Move/BodyMove/BodyAbsorb' },
 //             { text: '🟠 <move>BodyBend</move>', link: '/encyclopedia/Move/BodyMove/BodyBend' },
 //             { text: '🟠 <move>BodyLean</move>', link: '/encyclopedia/Move/BodyMove/BodyLean' },
@@ -347,7 +347,7 @@ export default defineConfig({
 //         },
 //         {
 //           text: '🟠 <move>CacheMove</move>', link: '/encyclopedia/Move/CacheMove/Overview', collapsed: true, items: [
-//             { text: '🟠 <move>Cache Phrase</move>', link: '/encyclopedia/Move/CacheMove/Phrase/Overview' },
+//             { text: '🟠 <move>Cache Frase</move>', link: '/encyclopedia/Move/CacheMove/Frase/Overview' },
 //             { text: '🟠 <move>Eating</move>', link: '/encyclopedia/Move/CacheMove/Eating' },
 //             { text: '🟠 <move>TarpOff</move>', link: '/encyclopedia/Move/CacheMove/TarpOff' },
 //             { text: '🟠 <move>TarpOn</move>', link: '/encyclopedia/Move/CacheMove/TarpOn' },
@@ -355,7 +355,7 @@ export default defineConfig({
 //         },
 //         {
 //           text: '🟠 <move>ClothingMove</move>', link: '/encyclopedia/Move/ClothingMove/Overview', collapsed: true, items: [
-//             { text: '🟠 <move>Clothing Phrase</move>', link: '/encyclopedia/Move/ClothingMove/Phrase/Overview' },
+//             { text: '🟠 <move>Clothing Frase</move>', link: '/encyclopedia/Move/ClothingMove/Frase/Overview' },
 //             { text: '🟠 <move>Button</move>', link: '/encyclopedia/Move/ClothingMove/Button' },
 //             { text: '🟠 <move>ClothingLayer</move>', link: '/encyclopedia/Move/ClothingMove/ClothingLayer' },
 //             { text: '🟠 <move>RemoveMud</move>', link: '/encyclopedia/Move/ClothingMove/RemoveMud' },
@@ -364,7 +364,7 @@ export default defineConfig({
 //         },
 //         {
 //           text: '🟠 <move>FootMove</move>', link: '/encyclopedia/Move/FootMove/Overview', collapsed: true, items: [
-//             { text: '🟠 <move>Foot Phrase</move>', link: '/encyclopedia/Move/FootMove/Phrase/Overview' },
+//             { text: '🟠 <move>Foot Frase</move>', link: '/encyclopedia/Move/FootMove/Frase/Overview' },
 //             { text: '🟠 <move>FootArchSmear</move>', link: '/encyclopedia/Move/FootMove/FootArchSmear' },
 //             { text: '🟠 <move>FootClose</move>', link: '/encyclopedia/Move/FootMove/FootClose' },
 //             { text: '🟠 <move>FootDig</move>', link: '/encyclopedia/Move/FootMove/FootDig' },
@@ -378,7 +378,7 @@ export default defineConfig({
 //         },
 //         {
 //           text: '🟠 <move>HandMove</move>', link: '/encyclopedia/Move/HandMove/Overview', collapsed: true, items: [
-//             { text: '🟠 <move>Hand Phrase</move>', link: '/encyclopedia/Move/HandMove/Phrase/Overview' },
+//             { text: '🟠 <move>Hand Frase</move>', link: '/encyclopedia/Move/HandMove/Frase/Overview' },
 //             { text: '🟠 <move>BagGrip</move>', link: '/encyclopedia/Move/HandMove/BagGrip' },
 //             { text: '🟠 <move>BoxGrip</move>', link: '/encyclopedia/Move/HandMove/BoxGrip' },
 //             { text: '🟠 <move>BranchGrip</move>', link: '/encyclopedia/Move/HandMove/BranchGrip' },
@@ -394,7 +394,7 @@ export default defineConfig({
 //         },
 //         {
 //           text: '🟠 <move>HeadMove</move>', link: '/encyclopedia/Move/HeadMove/Overview', collapsed: true, items: [
-//             { text: '🟠 <move>Head Phrase</move>', link: '/encyclopedia/Move/HeadMove/Phrase/Overview' },
+//             { text: '🟠 <move>Head Frase</move>', link: '/encyclopedia/Move/HeadMove/Frase/Overview' },
 //             { text: '🟠 <move>FocusLook</move>', link: '/encyclopedia/Move/HeadMove/FocusLook' },
 //             { text: '🟠 <move>HeadProtraction</move>', link: '/encyclopedia/Move/HeadMove/HeadProtraction' },
 //             { text: '🟠 <move>HeadRetraction</move>', link: '/encyclopedia/Move/HeadMove/HeadRetraction' },
@@ -406,7 +406,7 @@ export default defineConfig({
 //         },
 //         {
 //           text: '🟠 <move>HoleMove</move>', link: '/encyclopedia/Move/HoleMove/Overview', collapsed: true, items: [
-//             { text: '🟠 <move>Hole Phrase</move>', link: '/encyclopedia/Move/HoleMove/Phrase/Overview' },
+//             { text: '🟠 <move>Hole Frase</move>', link: '/encyclopedia/Move/HoleMove/Frase/Overview' },
 //             { text: '🟠 <move>HoleClose</move>', link: '/encyclopedia/Move/HoleMove/HoleClose' },
 //             { text: '🟠 <move>HoleExpand</move>', link: '/encyclopedia/Move/HoleMove/HoleExpand' },
 //             { text: '🟠 <move>HoleOpen</move>', link: '/encyclopedia/Move/HoleMove/HoleOpen' },
@@ -414,7 +414,7 @@ export default defineConfig({
 //         },
 //         {
 //           text: '🟠 <move>LegMove</move>', link: '/encyclopedia/Move/LegMove/Overview', collapsed: true, items: [
-//             { text: '🟠 <move>Leg Phrase</move>', link: '/encyclopedia/Move/LegMove/Phrase/Overview' },
+//             { text: '🟠 <move>Leg Frase</move>', link: '/encyclopedia/Move/LegMove/Frase/Overview' },
 //             { text: '🟠 <move>Crouch</move>', link: '/encyclopedia/Move/LegMove/Overview' },
 //             { text: '🟠 <move>Jump</move>', link: '/encyclopedia/Move/LegMove/Jump' },
 //             { text: '🟠 <move>Kneel</move>', link: '/encyclopedia/Move/LegMove/Kneel' },
@@ -453,7 +453,7 @@ export default defineConfig({
 //             {
 //               text: '🟠 <move>Bag</move>', link: '/encyclopedia/Move/ToolMove/Bag/Overview', collapsed: true, items: [
 //                 { text: '🟠 <move>BagGrip</move>', link: '/encyclopedia/Move/ToolMove/Bag/BagGrip' },
-//                 { text: '🔷 <move>Bag Phrase</move>', link: '/encyclopedia/Move/ToolMove/Bag/Phrase/Overview' },
+//                 { text: '🔷 <move>Bag Frase</move>', link: '/encyclopedia/Move/ToolMove/Bag/Frase/Overview' },
 //                 { text: '🟠 <move>BagAdjustment</move>', link: '/encyclopedia/Move/ToolMove/Bag/BagAdjustment' },
 //                 { text: '🟠 <move>BagDeadlift</move>', link: '/encyclopedia/Move/ToolMove/Bag/BagDeadlift' },
 //                 { text: '🟠 <move>BagEmpty</move>', link: '/encyclopedia/Move/ToolMove/Bag/BagEmpty' },
@@ -465,7 +465,7 @@ export default defineConfig({
 //             },
 //             {
 //               text: '🟠 <move>Boot</move>', link: '/encyclopedia/Move/ToolMove/Boot/Overview', collapsed: true, items: [
-//                 { text: '🔷 <move>Boot Phrase</move>', link: '/encyclopedia/Move/ToolMove/Boot/Phrase/Overview' },
+//                 { text: '🔷 <move>Boot Frase</move>', link: '/encyclopedia/Move/ToolMove/Boot/Frase/Overview' },
 //                 { text: '🟠 <move>BootGrip</move>', link: '/encyclopedia/Move/ToolMove/Boot/BootGrip' },
 //                 { text: '🟠 <move>BootSkreef</move>', link: '/encyclopedia/Move/ToolMove/Boot/BootSkreef' },
 //                 { text: '🟠 <move>LaceKnot</move>', link: '/encyclopedia/Move/ToolMove/Boot/LaceKnot' },
@@ -473,13 +473,13 @@ export default defineConfig({
 //             },
 //             {
 //               text: '🟠 <move>Box</move>', link: '/encyclopedia/Move/ToolMove/Box/Overview', collapsed: true, items: [
-//                 { text: '🔷 <move>Box Phrase</move>', link: '/encyclopedia/Move/ToolMove/Box/Phrase/Overview' },
+//                 { text: '🔷 <move>Box Frase</move>', link: '/encyclopedia/Move/ToolMove/Box/Frase/Overview' },
 //                 { text: '🟠 <move>BoxGrip</move>', link: '/encyclopedia/Move/ToolMove/Box/BoxGrip' },
 //               ]
 //             },
 //             {
 //               text: '🟠 <move>Bundle</move>', link: '/encyclopedia/Move/ToolMove/Bundle/Overview', collapsed: true, items: [
-//                 { text: '🔷 <move>Bundle Phrase</move>', link: '/encyclopedia/Move/ToolMove/Bundle/Phrase/Overview' },
+//                 { text: '🔷 <move>Bundle Frase</move>', link: '/encyclopedia/Move/ToolMove/Bundle/Frase/Overview' },
 //                 { text: '🟠 <move>BundleGrip</move>', link: '/encyclopedia/Move/ToolMove/Bundle/BundleGrip' },
 //                 { text: '🟠 <move>BundlePeel</move>', link: '/encyclopedia/Move/ToolMove/Bundle/BundlePeel' },
 //               ]
@@ -490,7 +490,7 @@ export default defineConfig({
 //             },
 //             {
 //               text: '🟠 <move>Marka</move>', link: '/encyclopedia/Move/ToolMove/Marka/Overview', collapsed: true, items: [
-//                 { text: '🔷 <move>Marka Phrase</move>', link: '/encyclopedia/Move/ToolMove/Marka/Phrase/Overview' },
+//                 { text: '🔷 <move>Marka Frase</move>', link: '/encyclopedia/Move/ToolMove/Marka/Frase/Overview' },
 //                 { text: '🟠 <move>MarkaGrip</move>', link: '/encyclopedia/Move/ToolMove/Marka/MarkaGrip' },
 //                 { text: '🟠 <move>MarkaKnot</move>', link: '/encyclopedia/Move/ToolMove/Marka/MarkaKnot' },
 //                 { text: '🟠 <move>MarkaReload</move>', link: '/encyclopedia/Move/ToolMove/Marka/MarkaReload' },
@@ -500,7 +500,7 @@ export default defineConfig({
 //             },
 //             {
 //               text: '🟠 <move>Gaiter</move>', link: '/encyclopedia/Move/ToolMove/Gaiter/Overview', collapsed: true, items: [
-//                 { text: '🔷 <move>Gaiter Phrase</move>', link: '/encyclopedia/Move/ToolMove/Gaiter/Phrase/Overview' },
+//                 { text: '🔷 <move>Gaiter Frase</move>', link: '/encyclopedia/Move/ToolMove/Gaiter/Frase/Overview' },
 //                 { text: '🟠 <move>GaiterGrip</move>', link: '/encyclopedia/Move/ToolMove/Gaiter/GaiterGrip' },
 //                 { text: '🟠 <move>GaiterOn</move>', link: '/encyclopedia/Move/ToolMove/Gaiter/GaiterOn' },
 //                 { text: '🟠 <move>GaiterOff</move>', link: '/encyclopedia/Move/ToolMove/Gaiter/GaiterOff' },
@@ -508,7 +508,7 @@ export default defineConfig({
 //             },
 //             {
 //               text: '🟠 <move>Glove</move>', link: '/encyclopedia/Move/ToolMove/Glove/Overview', collapsed: true, items: [
-//                 { text: '🔷 <move>Glove Phrase</move>', link: '/encyclopedia/Move/ToolMove/Glove/Phrase/Overview' },
+//                 { text: '🔷 <move>Glove Frase</move>', link: '/encyclopedia/Move/ToolMove/Glove/Frase/Overview' },
 //                 { text: '🟠 <move>GloveGrip</move>', link: '/encyclopedia/Move/ToolMove/Glove/GloveGrip' },
 //               ]
 //             },
@@ -522,7 +522,7 @@ export default defineConfig({
 //             },
 //             {
 //               text: '🟠 <move>Spade</move>', link: '/encyclopedia/Move/ToolMove/Spade/Overview', collapsed: true, items: [
-//                 { text: '🔷 <move>Spade Phrase</move>', link: '/encyclopedia/Move/ToolMove/Spade/Phrase/Overview' },
+//                 { text: '🔷 <move>Spade Frase</move>', link: '/encyclopedia/Move/ToolMove/Spade/Frase/Overview' },
 //                 { text: '🟠 <move>SpadeAmble</move>', link: '/encyclopedia/Move/ToolMove/Spade/SpadeAmble' },
 //                 { text: '🟠 <move>SpadeAnchor</move>', link: '/encyclopedia/Move/ToolMove/Spade/SpadeAnchor' },
 //                 { text: '🟠 <move>SpadeChop</move>', link: '/encyclopedia/Move/ToolMove/Spade/SpadeChop' },
@@ -578,7 +578,7 @@ export default defineConfig({
 //         },
 //         {
 //           text: '🟠 <move>Truck</move>', link: '/encyclopedia/Move/TruckMove/Overview', collapsed: true, items: [
-//             { text: '🔷 <move>Truck Phrase</move>', link: '/encyclopedia/Move/TruckMove/Phrase/Overview' },
+//             { text: '🔷 <move>Truck Frase</move>', link: '/encyclopedia/Move/TruckMove/Frase/Overview' },
 //             { text: '🟠 <move>Sleep</move>', link: '/encyclopedia/Move/TruckMove/Sleep' },
 //             { text: '🟠 <move>Sit</move>', link: '/encyclopedia/Move/TruckMove/Sit' },
 //           ]

@@ -1,5 +1,5 @@
 
-# 🔷 <move>Hand Phrase</move>
+# 🔷 <move>Hand Frase</move>
 
 ## 🔷<beta>HandPut</beta>
 

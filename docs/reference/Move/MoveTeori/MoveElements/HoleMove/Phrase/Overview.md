@@ -1,5 +1,5 @@
 
-# 🔷 <move>Hole Phrase</move>
+# 🔷 <move>Hole Frase</move>
 
 ---
 

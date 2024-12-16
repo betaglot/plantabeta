@@ -1,8 +1,8 @@
 # 🔻 <via>BouncingCover</via>
 
-## 2PlanterBounceCover
+## 2PlantorBounceCover
 
-## 3PlanterBounceCover
+## 3PlantorBounceCover
 
 ![ViaIkon](/Via/Via_Ikon.png)
 
@@ -16,6 +16,6 @@
 ::: details 🛠 <dev>&&&</dev>
 
 - Don't bounce in concave corners
-    - Bounce before to give the planter in the corner space for a few trees while turning around
+    - Bounce before to give the plantor in the corner space for a few trees while turning around
 
 :::

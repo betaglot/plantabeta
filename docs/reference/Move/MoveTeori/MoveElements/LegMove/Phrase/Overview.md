@@ -1,5 +1,5 @@
 
-# 🔷 <move>Leg Phrase</move>
+# 🔷 <move>Leg Frase</move>
 
 ---
 

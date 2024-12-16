@@ -7,7 +7,7 @@
 - Ambiguous eco
 - Road to piece
 - Boundary Markas
-Planter Confidence is the solution to Ambiguity
+Plantor Confidence is the solution to Ambiguity
 
 ---
 

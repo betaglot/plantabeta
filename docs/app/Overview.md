@@ -1,6 +1,6 @@
 # 🔷<beta>BetaApp</beta>
 
-Everything made so far is Documentation for this App. App is designed to mimic a planter's experience. Planters create, edit, view, browse, compose, record Beta.
+Everything made so far is Documentation for this App. App is designed to mimic a plantor's experience. Plantors create, edit, view, browse, compose, record Beta.
 
 BetaApp can be used for Klimbeta and PutPlant
 
@@ -52,7 +52,7 @@ A BetaBlock could be an individual BetaElement or a group of hundreds of BetaEle
 
 > PutPlantApp is a <psike>neuro</psike> tool
 
-PutPlantApp is most useful for PotentialPlanters who live in urban areas, who don't have much exposure to wilderness.
+PutPlantApp is most useful for PotentialPlantors who live in urban areas, who don't have much exposure to wilderness.
 
 🔷<beta>Put(</beta><eko>Plant</eko><beta>)</beta> is a lot to learn all at once, so learning over a few months before the season starts will be more efficient.
 

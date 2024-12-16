@@ -2,7 +2,7 @@
 
 ## <move>MoveCard</move>
 
-Mirror images for ambidextrous planter
+Mirror images for ambidextrous plantor
 
 ## <move>MoveTimeline</move>
 
@@ -35,7 +35,7 @@ Mirror images for ambidextrous planter
 - "Move.MoveLine.MoveMirrorLine"
 - "Move.MoveLine.Overview"
 - "Move.MovePhoto"
-- "Move.PlanterDiagram"
-- "Move.PlanterDiagram.LevelOfDetail"
+- "Move.PlantorDiagram"
+- "Move.PlantorDiagram.LevelOfDetail"
 
 :::

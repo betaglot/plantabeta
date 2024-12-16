@@ -20,7 +20,7 @@ Percentages
 
 PurposeGames.com
 
-Use Tools that GenZ is already addicted to. Many PotentialPlanters are young adults who are addicted to playing video games. Create a video game which teaches PlantaBeta so planters can increase their planting knowledge before the season starts.
+Use Tools that GenZ is already addicted to. Many PotentialPlantors are young adults who are addicted to playing video games. Create a video game which teaches PlantaBeta so plantors can increase their planting knowledge before the season starts.
 
 It's ok if the game is boring if you're being paid to play it.
 
@@ -43,7 +43,7 @@ Use the sand at 10cm below surface for SpadeSkreef, since it's a similar density
 
 ## Pacer
 
-Use an ExperiencedPlanter to act as a Pacer for NovicePlanters. To show the speed goal speed. Be sure that the Pacer isn't competing with the Novices, that is, the Pacer must not try to constantly go faster than the novices.
+Use an ExperiencedPlantor to act as a Pacer for NovicePlantors. To show the speed goal speed. Be sure that the Pacer isn't competing with the Novices, that is, the Pacer must not try to constantly go faster than the novices.
 
 ## Pedagogy Tools
 
@@ -77,7 +77,7 @@ Submit image of drawing for testing
 
 ## Video Analysis
 
-To understand what's going on in the planter video
+To understand what's going on in the plantor video
 
 ### VideoLabelling
 
@@ -105,7 +105,7 @@ Question to ask themselves to not get bored without audio
 
 ## 'Mentor' is too strong a word
 
-Have an Experienced Planter plant with novicePlanter as a practical demonstration and for confidence in quality
+Have an Experienced Plantor plant with novicePlantor as a practical demonstration and for confidence in quality
 
 ## Setting
 

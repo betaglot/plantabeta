@@ -5,19 +5,19 @@
 
 > the degree to which something is successful in producing a desired result.
 
-Planters who plant good quality trees, who don't need to go back into their land to replant faulty trees.
+Plantors who plant good quality trees, who don't need to go back into their land to replant faulty trees.
 
 ## Efficiency
 
 > the quality of achieving the largest amount of useful work using as little energy, fuel, effort, etc. as possible.
 
-A greater Planter efficiency leads to:
+A greater Plantor efficiency leads to:
 
 - A shorter season
 - PlantingRate
     - Daily Trees in the Ground
-- Fewer Planters required to Cover an Eko
-- Fewer Moves performed by Planter, therefore less Metabolic Energy used.
+- Fewer Plantors required to Cover an Eko
+- Fewer Moves performed by Plantor, therefore less Metabolic Energy used.
 - Less Deadwalking
 - Fewer Injury
 - More efficient vias
@@ -26,7 +26,7 @@ A greater Planter efficiency leads to:
     - Lower Marka expense
 ::: danger Unteachable Character Traits
 
-A Planter can know everything about how to be a Planter, but still not plant to their maximum potential. This is because to be an elite Planter you must have character traits which can't be taught. Perhaps they can be cultivated by a sports psychologist, but this is currently outside the scope of PlantaBeta and the rest of the planting industry.  
+A Plantor can know everything about how to be a Plantor, but still not plant to their maximum potential. This is because to be an elite Plantor you must have character traits which can't be taught. Perhaps they can be cultivated by a sports psychologist, but this is currently outside the scope of PlantaBeta and the rest of the planting industry.  
 
 Such traits include:
 
@@ -48,8 +48,8 @@ Such traits include:
 
 ### MoveFrequency
 
-- HoleOpen to HoleClose ratio is optimal when 1:1. Many Novice planters are greater than 1.
-- When there are multiple MoveAlternatives, efficient when the Move with the lower BetaDifficulty is more frequent than an AlternativeMove with a higher MoveDifficulty. ExperiencedPlanters are performing easier Beta than NovicePlanter. BetaExecution
+- HoleOpen to HoleClose ratio is optimal when 1:1. Many Novice plantors are greater than 1.
+- When there are multiple MoveAlternatives, efficient when the Move with the lower BetaDifficulty is more frequent than an AlternativeMove with a higher MoveDifficulty. ExperiencedPlantors are performing easier Beta than NovicePlantor. BetaExecution
 
 <h2>PageTags</h2>
 

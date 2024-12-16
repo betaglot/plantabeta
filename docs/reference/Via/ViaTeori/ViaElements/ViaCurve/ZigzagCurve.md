@@ -23,7 +23,7 @@ Answer 3
 
 ## Examples
 
-- Use Media donated by Planters.
+- Use Media donated by Plantors.
 
 ## Related <via>ViaFactors</via>
 

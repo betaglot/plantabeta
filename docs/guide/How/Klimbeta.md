@@ -19,13 +19,13 @@ You can contribute to the 2 Billion Tree by using PlantaBeta.
 
 ### 🔥 Get all articles about wildfires and replanting
 
-## Novice Planter Story without PlantaBeta
+## Novice Plantor Story without PlantaBeta
 
-Explain what tree planting is from the perspective of a Novice Planter.
+Explain what tree planting is from the perspective of a Novice Plantor.
 
-## Novice Planter Story with BetaComp and PlantaBeta
+## Novice Plantor Story with BetaComp and PlantaBeta
 
-Show the utility of BetaComp for Planters
+Show the utility of BetaComp for Plantors
 
 ## How exactly BetaComp combats Climate Change
 
@@ -33,11 +33,11 @@ Show the utility of BetaComp for Planters
 
 #### Statistics
 
-- Number of Planters in Canada
+- Number of Plantors in Canada
 - Number of Novices in Canada
 - Area of Land
 - Time it takes to train a Novice
-- Number of Trees planted by a Novice compared to an Experienced Planter.
+- Number of Trees planted by a Novice compared to an Experienced Plantor.
 
 ### 2. How [PlantaBeta](/guide/What/WhatPlantaBeta) helps Planting to Combat Climate Change
 
@@ -55,7 +55,7 @@ The BetaScore encourages efficiency.
 
 [DifficultyScore](/encyclopedia/Score/Difficulty/Overview)
 
-- Understand what makes Beta difficult so that Planter can choose the easiest Beta.
+- Understand what makes Beta difficult so that Plantor can choose the easiest Beta.
 
 [ExecutionScore](/encyclopedia/Score)
 
@@ -63,7 +63,7 @@ The BetaScore encourages efficiency.
 
 #### Move
 
-Planters become physically fit and ambidextrous
+Plantors become physically fit and ambidextrous
 
 #### Via
 

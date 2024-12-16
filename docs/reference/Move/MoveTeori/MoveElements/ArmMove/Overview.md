@@ -21,7 +21,7 @@ Call the arms by their function
 
 SemanticName
 
-PlantArm, Planter, Plantus
+PlantArm, Plantor, Plantus
 
 SpadeArm, Spader, Spadus
 

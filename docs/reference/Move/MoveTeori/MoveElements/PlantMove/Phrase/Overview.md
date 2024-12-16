@@ -1,5 +1,5 @@
 
-# 🔷 <move>Plant Phrase</move>
+# 🔷 <move>Plant Frase</move>
 
 ---
 

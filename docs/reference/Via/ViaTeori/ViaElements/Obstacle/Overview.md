@@ -6,7 +6,7 @@
 
 An object is only an obstacle if it hinders your Via.
 
-### Obstacle for Planter
+### Obstacle for Plantor
 
 - An object which prevents a you from moving along an optimal Via.
 
@@ -16,7 +16,7 @@ An object is only an obstacle if it hinders your Via.
 - Proctects the Seedling from Cows
 - Cows physically can step anywhere, but they choose not to. Comfort
 
-A stump is an obstacle for cows but not for planters.
+A stump is an obstacle for cows but not for plantors.
 
 ### Obstacle for Snow
 

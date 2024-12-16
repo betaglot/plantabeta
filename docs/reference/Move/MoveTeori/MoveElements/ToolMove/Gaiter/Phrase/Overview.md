@@ -1,5 +1,5 @@
 
-# 🔷 <move>Gaiter Phrase</move>
+# 🔷 <move>Gaiter Frase</move>
 
 ---
 

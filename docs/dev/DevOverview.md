@@ -410,8 +410,8 @@ Download Printable resources
         "collapsed": "true",
         "items": [
             {
-                "text": "Phrase",
-                "link": "/reference/Move/Phrase/Overview"
+                "text": "Frase",
+                "link": "/reference/Move/Frase/Overview"
             },
             {
                 "text": "Move Difficulty",
@@ -464,8 +464,8 @@ Download Printable resources
                 "collapsed": "true",
                 "items": [
                     {
-                        "text": "Arm Phrase",
-                        "link": "/reference/Move/ArmMove/Phrase/Overview"
+                        "text": "Arm Frase",
+                        "link": "/reference/Move/ArmMove/Frase/Overview"
                     },
                     {
                         "text": "ArmProp",
@@ -491,8 +491,8 @@ Download Printable resources
                 "collapsed": "true",
                 "items": [
                     {
-                        "text": "Body Phrase",
-                        "link": "/reference/Move/BodyMove/Phrase/Overview"
+                        "text": "Body Frase",
+                        "link": "/reference/Move/BodyMove/Frase/Overview"
                     },
                     {
                         "text": "BodyAbsorb",
@@ -530,8 +530,8 @@ Download Printable resources
                 "collapsed": "true",
                 "items": [
                     {
-                        "text": "Cache Phrase",
-                        "link": "/reference/Move/CacheMove/Phrase/Overview"
+                        "text": "Cache Frase",
+                        "link": "/reference/Move/CacheMove/Frase/Overview"
                     },
                     {
                         "text": "Eating",
@@ -553,8 +553,8 @@ Download Printable resources
                 "collapsed": "true",
                 "items": [
                     {
-                        "text": "Clothing Phrase",
-                        "link": "/reference/Move/ClothingMove/Phrase/Overview"
+                        "text": "Clothing Frase",
+                        "link": "/reference/Move/ClothingMove/Frase/Overview"
                     },
                     {
                         "text": "Button",
@@ -580,8 +580,8 @@ Download Printable resources
                 "collapsed": "true",
                 "items": [
                     {
-                        "text": "Foot Phrase",
-                        "link": "/reference/Move/FootMove/Phrase/Overview"
+                        "text": "Foot Frase",
+                        "link": "/reference/Move/FootMove/Frase/Overview"
                     },
                     {
                         "text": "FootArchSmear",
@@ -627,8 +627,8 @@ Download Printable resources
                 "collapsed": "true",
                 "items": [
                     {
-                        "text": "Hand Phrase",
-                        "link": "/reference/Move/HandMove/Phrase/Overview"
+                        "text": "Hand Frase",
+                        "link": "/reference/Move/HandMove/Frase/Overview"
                     },
                     {
                         "text": "BagGrip",
@@ -682,8 +682,8 @@ Download Printable resources
                 "collapsed": "true",
                 "items": [
                     {
-                        "text": "Head Phrase",
-                        "link": "/reference/Move/HeadMove/Phrase/Overview"
+                        "text": "Head Frase",
+                        "link": "/reference/Move/HeadMove/Frase/Overview"
                     },
                     {
                         "text": "FocusLook",
@@ -721,8 +721,8 @@ Download Printable resources
                 "collapsed": "true",
                 "items": [
                     {
-                        "text": "Hole Phrase",
-                        "link": "/reference/Move/HoleMove/Phrase/Overview"
+                        "text": "Hole Frase",
+                        "link": "/reference/Move/HoleMove/Frase/Overview"
                     },
                     {
                         "text": "HoleClose",
@@ -744,8 +744,8 @@ Download Printable resources
                 "collapsed": "true",
                 "items": [
                     {
-                        "text": "Leg Phrase",
-                        "link": "/reference/Move/LegMove/Phrase/Overview"
+                        "text": "Leg Frase",
+                        "link": "/reference/Move/LegMove/Frase/Overview"
                     },
                     {
                         "text": "Crouch",
@@ -878,8 +878,8 @@ Download Printable resources
                                 "link": "/reference/Move/ToolMove/Bag/BagGrip"
                             },
                             {
-                                "text": "Bag Phrase",
-                                "link": "/reference/Move/ToolMove/Bag/Phrase/Overview"
+                                "text": "Bag Frase",
+                                "link": "/reference/Move/ToolMove/Bag/Frase/Overview"
                             },
                             {
                                 "text": "BagAdjustment",
@@ -917,8 +917,8 @@ Download Printable resources
                         "collapsed": "true",
                         "items": [
                             {
-                                "text": "Boot Phrase",
-                                "link": "/reference/Move/ToolMove/Boot/Phrase/Overview"
+                                "text": "Boot Frase",
+                                "link": "/reference/Move/ToolMove/Boot/Frase/Overview"
                             },
                             {
                                 "text": "BootGrip",
@@ -940,8 +940,8 @@ Download Printable resources
                         "collapsed": "true",
                         "items": [
                             {
-                                "text": "Box Phrase",
-                                "link": "/reference/Move/ToolMove/Box/Phrase/Overview"
+                                "text": "Box Frase",
+                                "link": "/reference/Move/ToolMove/Box/Frase/Overview"
                             },
                             {
                                 "text": "BoxGrip",
@@ -955,8 +955,8 @@ Download Printable resources
                         "collapsed": "true",
                         "items": [
                             {
-                                "text": "Bundle Phrase",
-                                "link": "/reference/Move/ToolMove/Bundle/Phrase/Overview"
+                                "text": "Bundle Frase",
+                                "link": "/reference/Move/ToolMove/Bundle/Frase/Overview"
                             },
                             {
                                 "text": "BundleGrip",
@@ -980,8 +980,8 @@ Download Printable resources
                         "collapsed": "true",
                         "items": [
                             {
-                                "text": "Marka Phrase",
-                                "link": "/reference/Move/ToolMove/Marka/Phrase/Overview"
+                                "text": "Marka Frase",
+                                "link": "/reference/Move/ToolMove/Marka/Frase/Overview"
                             },
                             {
                                 "text": "MarkaGrip",
@@ -1011,8 +1011,8 @@ Download Printable resources
                         "collapsed": "true",
                         "items": [
                             {
-                                "text": "Gaiter Phrase",
-                                "link": "/reference/Move/ToolMove/Gaiter/Phrase/Overview"
+                                "text": "Gaiter Frase",
+                                "link": "/reference/Move/ToolMove/Gaiter/Frase/Overview"
                             },
                             {
                                 "text": "GaiterGrip",
@@ -1034,8 +1034,8 @@ Download Printable resources
                         "collapsed": "true",
                         "items": [
                             {
-                                "text": "Glove Phrase",
-                                "link": "/reference/Move/ToolMove/Glove/Phrase/Overview"
+                                "text": "Glove Frase",
+                                "link": "/reference/Move/ToolMove/Glove/Frase/Overview"
                             },
                             {
                                 "text": "GloveGrip",
@@ -1061,8 +1061,8 @@ Download Printable resources
                         "collapsed": "true",
                         "items": [
                             {
-                                "text": "Spade Phrase",
-                                "link": "/reference/Move/ToolMove/Spade/Phrase/Overview"
+                                "text": "Spade Frase",
+                                "link": "/reference/Move/ToolMove/Spade/Frase/Overview"
                             },
                             {
                                 "text": "SpadeAmble",
@@ -1261,8 +1261,8 @@ Download Printable resources
                 "collapsed": "true",
                 "items": [
                     {
-                        "text": "Truck Phrase",
-                        "link": "/reference/Move/TruckMove/Phrase/Overview"
+                        "text": "Truck Frase",
+                        "link": "/reference/Move/TruckMove/Frase/Overview"
                     },
                     {
                         "text": "Sleep",

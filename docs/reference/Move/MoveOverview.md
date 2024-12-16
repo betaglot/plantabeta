@@ -71,7 +71,7 @@ Sherlock Fight Scene
 
 Move is polyglot
 
-## <move>What is a Move Phrase?</move>
+## <move>What is a Move Frase?</move>
 
 - Represented in Python as a List object.
 
@@ -252,10 +252,10 @@ Recover as fluidly as possible
 - "Move.Physics.Tangent"
 - "Move.Physics.Vector"
 - "Move.Physics.Velocity"
-- "Move.PlanterPart"
-- "Move.PlanterAttributes.Overview"
-- "Move.PlanterAttributes.PlanterAbility"
-- "Move.PlanterAttributes.PlanterSize"
+- "Move.PlantorPart"
+- "Move.PlantorAttributes.Overview"
+- "Move.PlantorAttributes.PlantorAbility"
+- "Move.PlantorAttributes.PlantorSize"
 - "Move.RedirectMove"
 - "Move.ViaInfluenceMove"
 - "Move.SlashMove.Overview"

@@ -2,7 +2,7 @@
 # 🔷 <dev>Sequence</dev>
 
 🔷: Sequence
-🟠: Phrase
+🟠: Frase
 🟩:
 🔻:
 💜:
@@ -52,7 +52,7 @@ Concurrency is
 
 Deck of cards
 
-Phrase of MoveCards
+Frase of MoveCards
 
 MoveCard
 
@@ -80,7 +80,7 @@ MoveCards are positioned in a CoverChart
 
 ### Frame Rate
 
-All Phrases are lists
+All Frases are lists
 
 ```py
 PythonDataType = List[]
@@ -94,15 +94,15 @@ PythonDataType = List[]
 
 ```
 
-Standardize the way that Phrases of BetaElements are represented in code and graphically.
+Standardize the way that Frases of BetaElements are represented in code and graphically.
 
 💜 Graphic
 
 🔷 Code
 
-## Differentiate(Phrase, Supermoto, Move, Submoto, BodyMove)
+## Differentiate(Frase, Supermoto, Move, Submoto, BodyMove)
 
-An ArmPhrase is a list of ArmMoves performed in Parallel (BoxCarry), Concurrently (SpadeLift, TreeLoad)
+An ArmFrase is a list of ArmMoves performed in Parallel (BoxCarry), Concurrently (SpadeLift, TreeLoad)
 
 ## Control Flow Statements
 
@@ -115,7 +115,7 @@ Control flow is the codified version of [Decision Making](/encyclopedia/Psike/De
 
 ### 💜 Flow Chart
 
-- Highlight current Phrase branch, synchronize with
+- Highlight current Frase branch, synchronize with
 
 ### If
 
@@ -136,13 +136,13 @@ Rugby Gifs
 
 ### Vue Component
 
-- Be able to toggle between GIF and PhraseStrip
+- Be able to toggle between GIF and FraseStrip
 - Modify framerate of GIF using Input Stepper
 - Change
 
 ## Comic Strip
 
-- PhraseStrip
+- FraseStrip
 - Numbering in top corner
 
 ## Labels
@@ -153,11 +153,11 @@ Rugby Gifs
 
 ### Sorting
 
-- Reverse Phrase
+- Reverse Frase
 
 ### GroupBy
 
-- GroupBy(PlanterAnatomy)
+- GroupBy(PlantorAnatomy)
 - GroupBy(BetaModule)
 
 ## Concurrency
@@ -170,11 +170,11 @@ Asyncronous
 
 > Parallel computing is a type of computation in which many calculations or processes are carried out simultaneously. Large problems can often be divided into smaller ones, which can then be solved at the same time.
 
-## Differentiate(Algorithm, Phrase)
+## Differentiate(Algorithm, Frase)
 
-All algorithms are Phrases. "Phrase" is more commonplace than "Algorithm". Use "Phrase" instead of Algorithm to increase accessiblity to atheletes and other people who are averse to math. The purpose of PlantaBeta is not to convince people of the utility of mathematical **theory**, rather, it's to use math in **practice**.
+All algorithms are Frases. "Frase" is more commonplace than "Algorithm". Use "Frase" instead of Algorithm to increase accessiblity to atheletes and other people who are averse to math. The purpose of PlantaBeta is not to convince people of the utility of mathematical **theory**, rather, it's to use math in **practice**.
 
-- ProbePhrase or Probe Algorithm
+- ProbeFrase or Probe Algorithm
 
 ---
 

@@ -1,5 +1,10 @@
-
 # 🛠 UX: User Experience of PlantaBeta
+
+## Assumptions
+
+What do the Atletes already know?
+
+### High School Education
 
 ## Hardware
 

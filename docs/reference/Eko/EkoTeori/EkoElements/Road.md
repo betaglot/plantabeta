@@ -80,11 +80,11 @@ Quotes about this Element
 
 ## Examples
 
-- Use Media donated by Planters.
+- Use Media donated by Plantors.
 
 ## See also
 
-Links to other related EcoFactors. Related because they are the same EcoType or because they are performed at the same time or within the same Phrase.
+Links to other related EcoFactors. Related because they are the same EcoType or because they are performed at the same time or within the same Frase.
 ::: details External References
 
 - One
@@ -101,6 +101,6 @@ Links to other related EcoFactors. Related because they are the same EcoType or 
 <!-- =================================================== -->
 ::: details 🛠 <dev>&&&</dev>
 
-- To a planter a Road is more Via than Eko, since no planting is ever performed on road, unless it has been deactivated.
+- To a plantor a Road is more Via than Eko, since no planting is ever performed on road, unless it has been deactivated.
 
 :::

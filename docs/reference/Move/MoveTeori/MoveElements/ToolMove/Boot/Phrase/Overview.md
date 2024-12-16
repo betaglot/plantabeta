@@ -1,5 +1,5 @@
 
-# 🔷 <move>Boot Phrase</move>
+# 🔷 <move>Boot Frase</move>
 
 ---
 

@@ -1,5 +1,5 @@
 
-# 🔷 <move>Bag Phrase</move>
+# 🔷 <move>Bag Frase</move>
 
 ---
 

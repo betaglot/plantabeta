@@ -3353,7 +3353,7 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Move.MovePhrase",
+                    "title": "Move.MoveFrase",
                     "color": "#ffffffff",
                     "textcolor": "#000000ff",
                     "type": "sidecar"
@@ -3402,7 +3402,7 @@
                 "textcolor": "#000000ff"
             },
             {
-                "title": "Move.MovePhrase",
+                "title": "Move.MoveFrase",
                 "color": "#ffffffff",
                 "textcolor": "#000000ff"
             },
@@ -3820,7 +3820,7 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Move.MovePhrase",
+                    "title": "Move.MoveFrase",
                     "color": "#ffffffff",
                     "textcolor": "#000000ff",
                     "type": "sidecar"
@@ -3854,7 +3854,7 @@
                 "textcolor": "white"
             },
             {
-                "title": "Move.MovePhrase",
+                "title": "Move.MoveFrase",
                 "color": "#ffffffff",
                 "textcolor": "#000000ff"
             },
@@ -4235,13 +4235,13 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Dev.PlanterMetaInstructor",
+                    "title": "Dev.PlantorMetaInstructor",
                     "color": "#ffffffff",
                     "textcolor": "#000000ff",
                     "type": "sidecar"
                 },
                 {
-                    "title": "Guide.Who.PlanterInstructor",
+                    "title": "Guide.Who.PlantorInstructor",
                     "color": "#ffffffff",
                     "textcolor": "#000000ff",
                     "type": "sidecar"
@@ -4289,7 +4289,7 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Move.PlanterDiagram",
+                    "title": "Move.PlantorDiagram",
                     "color": "#ff7537ff",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -4362,12 +4362,12 @@
                 "textcolor": "#000000ff"
             },
             {
-                "title": "Dev.PlanterMetaInstructor",
+                "title": "Dev.PlantorMetaInstructor",
                 "color": "#ffffffff",
                 "textcolor": "#000000ff"
             },
             {
-                "title": "Guide.Who.PlanterInstructor",
+                "title": "Guide.Who.PlantorInstructor",
                 "color": "#ffffffff",
                 "textcolor": "#000000ff"
             },
@@ -4407,7 +4407,7 @@
                 "textcolor": "white"
             },
             {
-                "title": "Move.PlanterDiagram",
+                "title": "Move.PlantorDiagram",
                 "color": "#ff7537ff",
                 "textcolor": "white"
             },
@@ -4743,7 +4743,7 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Dev.Element.ElementDiagram.Labels.NumberLabel.PhraseNumberLabel",
+                    "title": "Dev.Element.ElementDiagram.Labels.NumberLabel.FraseNumberLabel",
                     "color": "#ffffffff",
                     "textcolor": "#000000ff",
                     "type": "sidecar"
@@ -4803,13 +4803,13 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Move.MovePhrase.MoveTempo",
+                    "title": "Move.MoveFrase.MoveTempo",
                     "color": "#ff7537ff",
                     "textcolor": "white",
                     "type": "sidecar"
                 },
                 {
-                    "title": "Move.MovePhrase.PlantingPhrase",
+                    "title": "Move.MoveFrase.PlantingFrase",
                     "color": "#ff7537ff",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -4884,7 +4884,7 @@
                 "textcolor": "#000000ff"
             },
             {
-                "title": "Dev.Element.ElementDiagram.Labels.NumberLabel.PhraseNumberLabel",
+                "title": "Dev.Element.ElementDiagram.Labels.NumberLabel.FraseNumberLabel",
                 "color": "#ffffffff",
                 "textcolor": "#000000ff"
             },
@@ -4934,12 +4934,12 @@
                 "textcolor": "white"
             },
             {
-                "title": "Move.MovePhrase.MoveTempo",
+                "title": "Move.MoveFrase.MoveTempo",
                 "color": "#ff7537ff",
                 "textcolor": "white"
             },
             {
-                "title": "Move.MovePhrase.PlantingPhrase",
+                "title": "Move.MoveFrase.PlantingFrase",
                 "color": "#ff7537ff",
                 "textcolor": "white"
             },
@@ -5112,7 +5112,7 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Move.MovePhrase.MoveRhythm",
+                    "title": "Move.MoveFrase.MoveRhythm",
                     "color": "#ff7537ff",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -5249,7 +5249,7 @@
                 "textcolor": "#000000ff"
             },
             {
-                "title": "Move.MovePhrase.MoveRhythm",
+                "title": "Move.MoveFrase.MoveRhythm",
                 "color": "#ff7537ff",
                 "textcolor": "white"
             },
@@ -6642,7 +6642,7 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Move.MovePhrase.MoveTempo",
+                    "title": "Move.MoveFrase.MoveTempo",
                     "color": "#ff7537ff",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -6776,7 +6776,7 @@
                 "textcolor": "white"
             },
             {
-                "title": "Move.MovePhrase.MoveTempo",
+                "title": "Move.MoveFrase.MoveTempo",
                 "color": "#ff7537ff",
                 "textcolor": "white"
             },
@@ -7552,19 +7552,19 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Move.MovePhrase.MoveOverlap",
+                    "title": "Move.MoveFrase.MoveOverlap",
                     "color": "#ff7537ff",
                     "textcolor": "white",
                     "type": "sidecar"
                 },
                 {
-                    "title": "Move.MovePhrase.MovePhraseVariation",
+                    "title": "Move.MoveFrase.MoveFraseVariation",
                     "color": "#ff7537ff",
                     "textcolor": "white",
                     "type": "sidecar"
                 },
                 {
-                    "title": "Move.MovePhrase.MoveShapePhrase.MoveShapeOverlap",
+                    "title": "Move.MoveFrase.MoveShapeFrase.MoveShapeOverlap",
                     "color": "#ff7537ff",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -7582,13 +7582,13 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Via.ViaSequence.ViaShapePhrase.ViaShapeOverlap",
+                    "title": "Via.ViaSequence.ViaShapeFrase.ViaShapeOverlap",
                     "color": "#f83a22b8",
                     "textcolor": "white",
                     "type": "sidecar"
                 },
                 {
-                    "title": "Via.ViaSequence.ViaSpacePhrase.ViaSpaceOverlap",
+                    "title": "Via.ViaSequence.ViaSpaceFrase.ViaSpaceOverlap",
                     "color": "#f83a22b8",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -7646,17 +7646,17 @@
                 "textcolor": "white"
             },
             {
-                "title": "Move.MovePhrase.MoveOverlap",
+                "title": "Move.MoveFrase.MoveOverlap",
                 "color": "#ff7537ff",
                 "textcolor": "white"
             },
             {
-                "title": "Move.MovePhrase.MovePhraseVariation",
+                "title": "Move.MoveFrase.MoveFraseVariation",
                 "color": "#ff7537ff",
                 "textcolor": "white"
             },
             {
-                "title": "Move.MovePhrase.MoveShapePhrase.MoveShapeOverlap",
+                "title": "Move.MoveFrase.MoveShapeFrase.MoveShapeOverlap",
                 "color": "#ff7537ff",
                 "textcolor": "white"
             },
@@ -7671,12 +7671,12 @@
                 "textcolor": "white"
             },
             {
-                "title": "Via.ViaSequence.ViaShapePhrase.ViaShapeOverlap",
+                "title": "Via.ViaSequence.ViaShapeFrase.ViaShapeOverlap",
                 "color": "#f83a22b8",
                 "textcolor": "white"
             },
             {
-                "title": "Via.ViaSequence.ViaSpacePhrase.ViaSpaceOverlap",
+                "title": "Via.ViaSequence.ViaSpaceFrase.ViaSpaceOverlap",
                 "color": "#f83a22b8",
                 "textcolor": "white"
             },
@@ -7963,13 +7963,13 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Move.MovePhrase.MovePhraseArea",
+                    "title": "Move.MoveFrase.MoveFraseArea",
                     "color": "#ff7537ff",
                     "textcolor": "white",
                     "type": "sidecar"
                 },
                 {
-                    "title": "Move.MovePhrase.MovePhraseVariation",
+                    "title": "Move.MoveFrase.MoveFraseVariation",
                     "color": "#ff7537ff",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -8076,12 +8076,12 @@
                 "textcolor": "white"
             },
             {
-                "title": "Move.MovePhrase.MovePhraseArea",
+                "title": "Move.MoveFrase.MoveFraseArea",
                 "color": "#ff7537ff",
                 "textcolor": "white"
             },
             {
-                "title": "Move.MovePhrase.MovePhraseVariation",
+                "title": "Move.MoveFrase.MoveFraseVariation",
                 "color": "#ff7537ff",
                 "textcolor": "white"
             },
@@ -8164,7 +8164,7 @@
                 {
                     "color": "#ff7537ff",
                     "textcolor": "white",
-                    "title": "Move.MovePhrase.CurrentMove",
+                    "title": "Move.MoveFrase.CurrentMove",
                     "type": "sidecar"
                 },
                 {
@@ -8182,19 +8182,19 @@
                 {
                     "color": "#f83a22b8",
                     "textcolor": "white",
-                    "title": "Via.ViaSequence.ViaSurfacePhrase.AnteViaSurface",
+                    "title": "Via.ViaSequence.ViaSurfaceFrase.AnteViaSurface",
                     "type": "sidecar"
                 },
                 {
                     "color": "#f83a22b8",
                     "textcolor": "white",
-                    "title": "Via.ViaSequence.ViaSurfacePhrase.CurrentViaSurface",
+                    "title": "Via.ViaSequence.ViaSurfaceFrase.CurrentViaSurface",
                     "type": "sidecar"
                 },
                 {
                     "color": "#f83a22b8",
                     "textcolor": "white",
-                    "title": "Via.ViaSequence.ViaSurfacePhrase.PostViaSurface",
+                    "title": "Via.ViaSequence.ViaSurfaceFrase.PostViaSurface",
                     "type": "sidecar"
                 },
                 {
@@ -8245,7 +8245,7 @@
                 "textcolor": "white"
             },
             {
-                "title": "Move.MovePhrase.CurrentMove",
+                "title": "Move.MoveFrase.CurrentMove",
                 "color": "#ff7537ff",
                 "textcolor": "white"
             },
@@ -8260,17 +8260,17 @@
                 "textcolor": "white"
             },
             {
-                "title": "Via.ViaSequence.ViaSurfacePhrase.AnteViaSurface",
+                "title": "Via.ViaSequence.ViaSurfaceFrase.AnteViaSurface",
                 "color": "#f83a22b8",
                 "textcolor": "white"
             },
             {
-                "title": "Via.ViaSequence.ViaSurfacePhrase.CurrentViaSurface",
+                "title": "Via.ViaSequence.ViaSurfaceFrase.CurrentViaSurface",
                 "color": "#f83a22b8",
                 "textcolor": "white"
             },
             {
-                "title": "Via.ViaSequence.ViaSurfacePhrase.PostViaSurface",
+                "title": "Via.ViaSequence.ViaSurfaceFrase.PostViaSurface",
                 "color": "#f83a22b8",
                 "textcolor": "white"
             },
@@ -8454,7 +8454,7 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Move.MovePhrase",
+                    "title": "Move.MoveFrase",
                     "color": "#ff7537ff",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -8532,7 +8532,7 @@
                 "textcolor": "white"
             },
             {
-                "title": "Move.MovePhrase",
+                "title": "Move.MoveFrase",
                 "color": "#ff7537ff",
                 "textcolor": "white"
             },
@@ -8668,7 +8668,7 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Dev.Element.ElementDiagram.ElementDiagramError.PhraseNumberLabelError",
+                    "title": "Dev.Element.ElementDiagram.ElementDiagramError.FraseNumberLabelError",
                     "color": "#ffffffff",
                     "textcolor": "#000000ff",
                     "type": "sidecar"
@@ -8686,7 +8686,7 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Dev.Element.ElementDiagram.Labels.NumberLabel.PhraseNumberLabel",
+                    "title": "Dev.Element.ElementDiagram.Labels.NumberLabel.FraseNumberLabel",
                     "color": "#ffffffff",
                     "textcolor": "#000000ff",
                     "type": "sidecar"
@@ -8722,7 +8722,7 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Move.MovePhrase.TransitionMove",
+                    "title": "Move.MoveFrase.TransitionMove",
                     "color": "#ff7537ff",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -8768,7 +8768,7 @@
                 "textcolor": "white"
             },
             {
-                "title": "Dev.Element.ElementDiagram.ElementDiagramError.PhraseNumberLabelError",
+                "title": "Dev.Element.ElementDiagram.ElementDiagramError.FraseNumberLabelError",
                 "color": "#ffffffff",
                 "textcolor": "#000000ff"
             },
@@ -8783,7 +8783,7 @@
                 "textcolor": "#000000ff"
             },
             {
-                "title": "Dev.Element.ElementDiagram.Labels.NumberLabel.PhraseNumberLabel",
+                "title": "Dev.Element.ElementDiagram.Labels.NumberLabel.FraseNumberLabel",
                 "color": "#ffffffff",
                 "textcolor": "#000000ff"
             },
@@ -8813,7 +8813,7 @@
                 "textcolor": "white"
             },
             {
-                "title": "Move.MovePhrase.TransitionMove",
+                "title": "Move.MoveFrase.TransitionMove",
                 "color": "#ff7537ff",
                 "textcolor": "white"
             },
@@ -9034,7 +9034,7 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Move.MovePhrase.MoveDensity",
+                    "title": "Move.MoveFrase.MoveDensity",
                     "color": "#ff7537ff",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -9089,7 +9089,7 @@
                 "textcolor": "white"
             },
             {
-                "title": "Move.MovePhrase.MoveDensity",
+                "title": "Move.MoveFrase.MoveDensity",
                 "color": "#ff7537ff",
                 "textcolor": "white"
             },
@@ -9198,13 +9198,13 @@
                 {
                     "color": "#ff7537ff",
                     "textcolor": "white",
-                    "title": "Move.MovePhrase.MoveCycle",
+                    "title": "Move.MoveFrase.MoveCycle",
                     "type": "sidecar"
                 },
                 {
                     "color": "#ff7537ff",
                     "textcolor": "white",
-                    "title": "Move.MovePhrase.MoveRhythm",
+                    "title": "Move.MoveFrase.MoveRhythm",
                     "type": "sidecar"
                 },
                 {
@@ -9309,12 +9309,12 @@
                 "textcolor": "white"
             },
             {
-                "title": "Move.MovePhrase.MoveCycle",
+                "title": "Move.MoveFrase.MoveCycle",
                 "color": "#ff7537ff",
                 "textcolor": "white"
             },
             {
-                "title": "Move.MovePhrase.MoveRhythm",
+                "title": "Move.MoveFrase.MoveRhythm",
                 "color": "#ff7537ff",
                 "textcolor": "white"
             },
@@ -9915,7 +9915,7 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Guide.Who.PlanterResearcher",
+                    "title": "Guide.Who.PlantorResearcher",
                     "color": "#ffffffff",
                     "textcolor": "#000000ff",
                     "type": "sidecar"
@@ -9990,7 +9990,7 @@
                 "textcolor": "#000000ff"
             },
             {
-                "title": "Guide.Who.PlanterResearcher",
+                "title": "Guide.Who.PlantorResearcher",
                 "color": "#ffffffff",
                 "textcolor": "#000000ff"
             },
@@ -10239,7 +10239,7 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Dev.Element.ElementDiagram.Labels.NumberLabel.PhraseNumberLabel",
+                    "title": "Dev.Element.ElementDiagram.Labels.NumberLabel.FraseNumberLabel",
                     "color": "#ffffffff",
                     "textcolor": "#000000ff",
                     "type": "sidecar"
@@ -10293,19 +10293,19 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Move.MovePhrase.MoveDensity",
+                    "title": "Move.MoveFrase.MoveDensity",
                     "color": "#ff7537ff",
                     "textcolor": "white",
                     "type": "sidecar"
                 },
                 {
-                    "title": "Move.MovePhrase.MovePhraseArea",
+                    "title": "Move.MoveFrase.MoveFraseArea",
                     "color": "#ff7537ff",
                     "textcolor": "white",
                     "type": "sidecar"
                 },
                 {
-                    "title": "Move.MovePhrase.MoveShapePhrase.MoveShapeOverlap",
+                    "title": "Move.MoveFrase.MoveShapeFrase.MoveShapeOverlap",
                     "color": "#ff7537ff",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -10317,7 +10317,7 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Via.ViaSequence.ViaShapePhrase.ViaShapeOverlap",
+                    "title": "Via.ViaSequence.ViaShapeFrase.ViaShapeOverlap",
                     "color": "#f83a22b8",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -10360,7 +10360,7 @@
                 "textcolor": "#000000ff"
             },
             {
-                "title": "Dev.Element.ElementDiagram.Labels.NumberLabel.PhraseNumberLabel",
+                "title": "Dev.Element.ElementDiagram.Labels.NumberLabel.FraseNumberLabel",
                 "color": "#ffffffff",
                 "textcolor": "#000000ff"
             },
@@ -10405,17 +10405,17 @@
                 "textcolor": "white"
             },
             {
-                "title": "Move.MovePhrase.MoveDensity",
+                "title": "Move.MoveFrase.MoveDensity",
                 "color": "#ff7537ff",
                 "textcolor": "white"
             },
             {
-                "title": "Move.MovePhrase.MovePhraseArea",
+                "title": "Move.MoveFrase.MoveFraseArea",
                 "color": "#ff7537ff",
                 "textcolor": "white"
             },
             {
-                "title": "Move.MovePhrase.MoveShapePhrase.MoveShapeOverlap",
+                "title": "Move.MoveFrase.MoveShapeFrase.MoveShapeOverlap",
                 "color": "#ff7537ff",
                 "textcolor": "white"
             },
@@ -10425,7 +10425,7 @@
                 "textcolor": "white"
             },
             {
-                "title": "Via.ViaSequence.ViaShapePhrase.ViaShapeOverlap",
+                "title": "Via.ViaSequence.ViaShapeFrase.ViaShapeOverlap",
                 "color": "#f83a22b8",
                 "textcolor": "white"
             },
@@ -11191,13 +11191,13 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Via.ViaSequence.AreaCoverPhrase.ViaShapeInscription.Overview",
+                    "title": "Via.ViaSequence.AreaCoverFrase.ViaShapeInscription.Overview",
                     "color": "#f83a22b8",
                     "textcolor": "white",
                     "type": "sidecar"
                 },
                 {
-                    "title": "Via.ViaSequence.AreaCoverPhrase.ViaShapeInscription.ViaSquareInscription",
+                    "title": "Via.ViaSequence.AreaCoverFrase.ViaShapeInscription.ViaSquareInscription",
                     "color": "#f83a22b8",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -11255,12 +11255,12 @@
                 "textcolor": "white"
             },
             {
-                "title": "Via.ViaSequence.AreaCoverPhrase.ViaShapeInscription.Overview",
+                "title": "Via.ViaSequence.AreaCoverFrase.ViaShapeInscription.Overview",
                 "color": "#f83a22b8",
                 "textcolor": "white"
             },
             {
-                "title": "Via.ViaSequence.AreaCoverPhrase.ViaShapeInscription.ViaSquareInscription",
+                "title": "Via.ViaSequence.AreaCoverFrase.ViaShapeInscription.ViaSquareInscription",
                 "color": "#f83a22b8",
                 "textcolor": "white"
             },
@@ -11368,7 +11368,7 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Via.ViaSequence.AreaCoverPhrase.ViaShapeInscription.ViaCircleInscription",
+                    "title": "Via.ViaSequence.AreaCoverFrase.ViaShapeInscription.ViaCircleInscription",
                     "color": "#f83a22b8",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -11456,7 +11456,7 @@
                 "textcolor": "white"
             },
             {
-                "title": "Via.ViaSequence.AreaCoverPhrase.ViaShapeInscription.ViaCircleInscription",
+                "title": "Via.ViaSequence.AreaCoverFrase.ViaShapeInscription.ViaCircleInscription",
                 "color": "#f83a22b8",
                 "textcolor": "white"
             },
@@ -11540,13 +11540,13 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Move.MovePhrase.MoveOverlap",
+                    "title": "Move.MoveFrase.MoveOverlap",
                     "color": "#ff7537ff",
                     "textcolor": "white",
                     "type": "sidecar"
                 },
                 {
-                    "title": "Move.MovePhrase.MoveSpacePhrase.MoveSpaceOverlap",
+                    "title": "Move.MoveFrase.MoveSpaceFrase.MoveSpaceOverlap",
                     "color": "#ff7537ff",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -11588,13 +11588,13 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Via.ViaSequence.AreaCoverPhrase.ViaShapeInscription.Overview",
+                    "title": "Via.ViaSequence.AreaCoverFrase.ViaShapeInscription.Overview",
                     "color": "#f83a22b8",
                     "textcolor": "white",
                     "type": "sidecar"
                 },
                 {
-                    "title": "Via.ViaSequence.ViaSpacePhrase.ViaSpaceOverlap",
+                    "title": "Via.ViaSequence.ViaSpaceFrase.ViaSpaceOverlap",
                     "color": "#f83a22b8",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -11668,12 +11668,12 @@
                 "textcolor": "white"
             },
             {
-                "title": "Move.MovePhrase.MoveOverlap",
+                "title": "Move.MoveFrase.MoveOverlap",
                 "color": "#ff7537ff",
                 "textcolor": "white"
             },
             {
-                "title": "Move.MovePhrase.MoveSpacePhrase.MoveSpaceOverlap",
+                "title": "Move.MoveFrase.MoveSpaceFrase.MoveSpaceOverlap",
                 "color": "#ff7537ff",
                 "textcolor": "white"
             },
@@ -11708,12 +11708,12 @@
                 "textcolor": "white"
             },
             {
-                "title": "Via.ViaSequence.AreaCoverPhrase.ViaShapeInscription.Overview",
+                "title": "Via.ViaSequence.AreaCoverFrase.ViaShapeInscription.Overview",
                 "color": "#f83a22b8",
                 "textcolor": "white"
             },
             {
-                "title": "Via.ViaSequence.ViaSpacePhrase.ViaSpaceOverlap",
+                "title": "Via.ViaSequence.ViaSpaceFrase.ViaSpaceOverlap",
                 "color": "#f83a22b8",
                 "textcolor": "white"
             },
@@ -11784,7 +11784,7 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Move.MovePhrase.MoveShapePhrase.MoveShapeOverlap",
+                    "title": "Move.MoveFrase.MoveShapeFrase.MoveShapeOverlap",
                     "color": "#ff7537ff",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -11814,7 +11814,7 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Via.ViaSequence.AreaCoverPhrase.ViaShapeInscription.ViaCircleInscription",
+                    "title": "Via.ViaSequence.AreaCoverFrase.ViaShapeInscription.ViaCircleInscription",
                     "color": "#f83a22b8",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -11867,7 +11867,7 @@
                 "textcolor": "white"
             },
             {
-                "title": "Move.MovePhrase.MoveShapePhrase.MoveShapeOverlap",
+                "title": "Move.MoveFrase.MoveShapeFrase.MoveShapeOverlap",
                 "color": "#ff7537ff",
                 "textcolor": "white"
             },
@@ -11892,7 +11892,7 @@
                 "textcolor": "white"
             },
             {
-                "title": "Via.ViaSequence.AreaCoverPhrase.ViaShapeInscription.ViaCircleInscription",
+                "title": "Via.ViaSequence.AreaCoverFrase.ViaShapeInscription.ViaCircleInscription",
                 "color": "#f83a22b8",
                 "textcolor": "white"
             },
@@ -11976,7 +11976,7 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Via.ViaSequence.AreaCoverPhrase.ViaShapeInscription.Overview",
+                    "title": "Via.ViaSequence.AreaCoverFrase.ViaShapeInscription.Overview",
                     "color": "#f83a22b8",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -12044,7 +12044,7 @@
                 "textcolor": "white"
             },
             {
-                "title": "Via.ViaSequence.AreaCoverPhrase.ViaShapeInscription.Overview",
+                "title": "Via.ViaSequence.AreaCoverFrase.ViaShapeInscription.Overview",
                 "color": "#f83a22b8",
                 "textcolor": "white"
             },
@@ -12152,19 +12152,19 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Via.ViaSequence.AreaCoverPhrase.ViaShapeInscription.ViaCircleInscription",
+                    "title": "Via.ViaSequence.AreaCoverFrase.ViaShapeInscription.ViaCircleInscription",
                     "color": "#f83a22b8",
                     "textcolor": "white",
                     "type": "sidecar"
                 },
                 {
-                    "title": "Via.ViaSequence.AreaCoverPhrase.ViaShapeInscription.ViaSquareInscription",
+                    "title": "Via.ViaSequence.AreaCoverFrase.ViaShapeInscription.ViaSquareInscription",
                     "color": "#f83a22b8",
                     "textcolor": "white",
                     "type": "sidecar"
                 },
                 {
-                    "title": "Via.ViaSequence.AreaCoverPhrase.ViaShapeInscription.ViaTriangleInscription",
+                    "title": "Via.ViaSequence.AreaCoverFrase.ViaShapeInscription.ViaTriangleInscription",
                     "color": "#f83a22b8",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -12264,17 +12264,17 @@
                 "textcolor": "white"
             },
             {
-                "title": "Via.ViaSequence.AreaCoverPhrase.ViaShapeInscription.ViaCircleInscription",
+                "title": "Via.ViaSequence.AreaCoverFrase.ViaShapeInscription.ViaCircleInscription",
                 "color": "#f83a22b8",
                 "textcolor": "white"
             },
             {
-                "title": "Via.ViaSequence.AreaCoverPhrase.ViaShapeInscription.ViaSquareInscription",
+                "title": "Via.ViaSequence.AreaCoverFrase.ViaShapeInscription.ViaSquareInscription",
                 "color": "#f83a22b8",
                 "textcolor": "white"
             },
             {
-                "title": "Via.ViaSequence.AreaCoverPhrase.ViaShapeInscription.ViaTriangleInscription",
+                "title": "Via.ViaSequence.AreaCoverFrase.ViaShapeInscription.ViaTriangleInscription",
                 "color": "#f83a22b8",
                 "textcolor": "white"
             },
@@ -12404,7 +12404,7 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Via.ViaSequence.AreaCoverPhrase.ViaShapeInscription.Overview",
+                    "title": "Via.ViaSequence.AreaCoverFrase.ViaShapeInscription.Overview",
                     "color": "#f83a22b8",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -12508,7 +12508,7 @@
                 "textcolor": "white"
             },
             {
-                "title": "Via.ViaSequence.AreaCoverPhrase.ViaShapeInscription.Overview",
+                "title": "Via.ViaSequence.AreaCoverFrase.ViaShapeInscription.Overview",
                 "color": "#f83a22b8",
                 "textcolor": "white"
             },
@@ -13994,7 +13994,7 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Move.MovePhrase.TransitionMove",
+                    "title": "Move.MoveFrase.TransitionMove",
                     "color": "#ff7537ff",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -14073,7 +14073,7 @@
                 "textcolor": "white"
             },
             {
-                "title": "Move.MovePhrase.TransitionMove",
+                "title": "Move.MoveFrase.TransitionMove",
                 "color": "#ff7537ff",
                 "textcolor": "white"
             },
@@ -15064,7 +15064,7 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Move.PlanterDiagram",
+                    "title": "Move.PlantorDiagram",
                     "color": "#ff7537ff",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -15177,7 +15177,7 @@
                 "textcolor": "white"
             },
             {
-                "title": "Move.PlanterDiagram",
+                "title": "Move.PlantorDiagram",
                 "color": "#ff7537ff",
                 "textcolor": "white"
             },
@@ -15877,13 +15877,13 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Move.MovePhrase.MoveLinePhrase",
+                    "title": "Move.MoveFrase.MoveLineFrase",
                     "color": "#ff7537ff",
                     "textcolor": "white",
                     "type": "sidecar"
                 },
                 {
-                    "title": "Move.MovePhrase.SubmotoPhrase",
+                    "title": "Move.MoveFrase.SubmotoFrase",
                     "color": "#ff7537ff",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -15938,12 +15938,12 @@
                 "textcolor": "white"
             },
             {
-                "title": "Move.MovePhrase.MoveLinePhrase",
+                "title": "Move.MoveFrase.MoveLineFrase",
                 "color": "#ff7537ff",
                 "textcolor": "white"
             },
             {
-                "title": "Move.MovePhrase.SubmotoPhrase",
+                "title": "Move.MoveFrase.SubmotoFrase",
                 "color": "#ff7537ff",
                 "textcolor": "white"
             },
@@ -16470,7 +16470,7 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Move.PlanterDiagram",
+                    "title": "Move.PlantorDiagram",
                     "color": "#ff7537ff",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -16519,7 +16519,7 @@
                 "textcolor": "#ffffffff"
             },
             {
-                "title": "Move.PlanterDiagram",
+                "title": "Move.PlantorDiagram",
                 "color": "#ff7537ff",
                 "textcolor": "white"
             },
@@ -16566,7 +16566,7 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Guide.Who.PlanterSupervisor",
+                    "title": "Guide.Who.PlantorSupervisor",
                     "color": "#ffffffff",
                     "textcolor": "#000000ff",
                     "type": "sidecar"
@@ -16617,7 +16617,7 @@
                 "textcolor": "#000000ff"
             },
             {
-                "title": "Guide.Who.PlanterSupervisor",
+                "title": "Guide.Who.PlantorSupervisor",
                 "color": "#ffffffff",
                 "textcolor": "#000000ff"
             },
@@ -17740,7 +17740,7 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Move.MovePhrase.MovePhraseError",
+                    "title": "Move.MoveFrase.MoveFraseError",
                     "color": "#ff7537ff",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -17822,7 +17822,7 @@
                 "textcolor": "#000000ff"
             },
             {
-                "title": "Move.MovePhrase.MovePhraseError",
+                "title": "Move.MoveFrase.MoveFraseError",
                 "color": "#ff7537ff",
                 "textcolor": "white"
             },
@@ -17988,7 +17988,7 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Move.PlanterPart",
+                    "title": "Move.PlantorPart",
                     "color": "#ff7537ff",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -18042,7 +18042,7 @@
                 "textcolor": "white"
             },
             {
-                "title": "Move.PlanterPart",
+                "title": "Move.PlantorPart",
                 "color": "#ff7537ff",
                 "textcolor": "white"
             },
@@ -18113,7 +18113,7 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Move.PlanterPart",
+                    "title": "Move.PlantorPart",
                     "color": "#ff7537ff",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -18172,7 +18172,7 @@
                 "textcolor": "#000000ff"
             },
             {
-                "title": "Move.PlanterPart",
+                "title": "Move.PlantorPart",
                 "color": "#ff7537ff",
                 "textcolor": "white"
             },
@@ -18312,25 +18312,25 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Move.MovePhrase",
+                    "title": "Move.MoveFrase",
                     "color": "#ff7537ff",
                     "textcolor": "white",
                     "type": "sidecar"
                 },
                 {
-                    "title": "Move.MovePhrase.AnteMove",
+                    "title": "Move.MoveFrase.AnteMove",
                     "color": "#ff7537ff",
                     "textcolor": "white",
                     "type": "sidecar"
                 },
                 {
-                    "title": "Move.MovePhrase.PostMove",
+                    "title": "Move.MoveFrase.PostMove",
                     "color": "#ff7537ff",
                     "textcolor": "white",
                     "type": "sidecar"
                 },
                 {
-                    "title": "Move.MovePhrase.TransitionMove",
+                    "title": "Move.MoveFrase.TransitionMove",
                     "color": "#ff7537ff",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -18342,7 +18342,7 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Move.PlanterPart",
+                    "title": "Move.PlantorPart",
                     "color": "#ff7537ff",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -18396,22 +18396,22 @@
                 "textcolor": "#000000ff"
             },
             {
-                "title": "Move.MovePhrase",
+                "title": "Move.MoveFrase",
                 "color": "#ff7537ff",
                 "textcolor": "white"
             },
             {
-                "title": "Move.MovePhrase.AnteMove",
+                "title": "Move.MoveFrase.AnteMove",
                 "color": "#ff7537ff",
                 "textcolor": "white"
             },
             {
-                "title": "Move.MovePhrase.PostMove",
+                "title": "Move.MoveFrase.PostMove",
                 "color": "#ff7537ff",
                 "textcolor": "white"
             },
             {
-                "title": "Move.MovePhrase.TransitionMove",
+                "title": "Move.MoveFrase.TransitionMove",
                 "color": "#ff7537ff",
                 "textcolor": "white"
             },
@@ -18421,7 +18421,7 @@
                 "textcolor": "white"
             },
             {
-                "title": "Move.PlanterPart",
+                "title": "Move.PlantorPart",
                 "color": "#ff7537ff",
                 "textcolor": "white"
             },
@@ -18644,7 +18644,7 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Move.MovePhrase.SimultaneousMove",
+                    "title": "Move.MoveFrase.SimultaneousMove",
                     "color": "#ff7537ff",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -18709,7 +18709,7 @@
                 "textcolor": "white"
             },
             {
-                "title": "Move.MovePhrase.SimultaneousMove",
+                "title": "Move.MoveFrase.SimultaneousMove",
                 "color": "#ff7537ff",
                 "textcolor": "white"
             },
@@ -18901,19 +18901,19 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Move.MovePhrase.MoveChunk.MovePhrase",
+                    "title": "Move.MoveFrase.MoveChunk.MoveFrase",
                     "color": "#ff7537ff",
                     "textcolor": "white",
                     "type": "sidecar"
                 },
                 {
-                    "title": "Move.MovePhrase.MoveCycle.DoUntil",
+                    "title": "Move.MoveFrase.MoveCycle.DoUntil",
                     "color": "#ff7537ff",
                     "textcolor": "white",
                     "type": "sidecar"
                 },
                 {
-                    "title": "Move.MovePhrase.PostMove",
+                    "title": "Move.MoveFrase.PostMove",
                     "color": "#ff7537ff",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -18968,17 +18968,17 @@
                 "textcolor": "white"
             },
             {
-                "title": "Move.MovePhrase.MoveChunk.MovePhrase",
+                "title": "Move.MoveFrase.MoveChunk.MoveFrase",
                 "color": "#ff7537ff",
                 "textcolor": "white"
             },
             {
-                "title": "Move.MovePhrase.MoveCycle.DoUntil",
+                "title": "Move.MoveFrase.MoveCycle.DoUntil",
                 "color": "#ff7537ff",
                 "textcolor": "white"
             },
             {
-                "title": "Move.MovePhrase.PostMove",
+                "title": "Move.MoveFrase.PostMove",
                 "color": "#ff7537ff",
                 "textcolor": "white"
             },
@@ -19066,19 +19066,19 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Move.MovePhrase",
+                    "title": "Move.MoveFrase",
                     "color": "#ff7537ff",
                     "textcolor": "white",
                     "type": "sidecar"
                 },
                 {
-                    "title": "Move.MovePhrase.AnteMove",
+                    "title": "Move.MoveFrase.AnteMove",
                     "color": "#ff7537ff",
                     "textcolor": "white",
                     "type": "sidecar"
                 },
                 {
-                    "title": "Move.MovePhrase.PostMove",
+                    "title": "Move.MoveFrase.PostMove",
                     "color": "#ff7537ff",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -19102,7 +19102,7 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Move.PlanterPart",
+                    "title": "Move.PlantorPart",
                     "color": "#ff7537ff",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -19171,17 +19171,17 @@
                 "textcolor": "white"
             },
             {
-                "title": "Move.MovePhrase",
+                "title": "Move.MoveFrase",
                 "color": "#ff7537ff",
                 "textcolor": "white"
             },
             {
-                "title": "Move.MovePhrase.AnteMove",
+                "title": "Move.MoveFrase.AnteMove",
                 "color": "#ff7537ff",
                 "textcolor": "white"
             },
             {
-                "title": "Move.MovePhrase.PostMove",
+                "title": "Move.MoveFrase.PostMove",
                 "color": "#ff7537ff",
                 "textcolor": "white"
             },
@@ -19201,7 +19201,7 @@
                 "textcolor": "white"
             },
             {
-                "title": "Move.PlanterPart",
+                "title": "Move.PlantorPart",
                 "color": "#ff7537ff",
                 "textcolor": "white"
             },
@@ -19272,7 +19272,7 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Move.MovePhrase.MoveChunk.MovePhrase",
+                    "title": "Move.MoveFrase.MoveChunk.MoveFrase",
                     "color": "#ff7537ff",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -19331,7 +19331,7 @@
                 "textcolor": "white"
             },
             {
-                "title": "Move.MovePhrase.MoveChunk.MovePhrase",
+                "title": "Move.MoveFrase.MoveChunk.MoveFrase",
                 "color": "#ff7537ff",
                 "textcolor": "white"
             },
@@ -19799,7 +19799,7 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Dev.Element.ElementPhrase",
+                    "title": "Dev.Element.ElementFrase",
                     "color": "#ffffffff",
                     "textcolor": "#000000ff",
                     "type": "sidecar"
@@ -19823,13 +19823,13 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Move.MovePhrase",
+                    "title": "Move.MoveFrase",
                     "color": "#ff7537ff",
                     "textcolor": "white",
                     "type": "sidecar"
                 },
                 {
-                    "title": "Move.MovePhrase.MoveTempo",
+                    "title": "Move.MoveFrase.MoveTempo",
                     "color": "#ff7537ff",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -19868,7 +19868,7 @@
                 "textcolor": "#000000ff"
             },
             {
-                "title": "Dev.Element.ElementPhrase",
+                "title": "Dev.Element.ElementFrase",
                 "color": "#ffffffff",
                 "textcolor": "#000000ff"
             },
@@ -19888,12 +19888,12 @@
                 "textcolor": "white"
             },
             {
-                "title": "Move.MovePhrase",
+                "title": "Move.MoveFrase",
                 "color": "#ff7537ff",
                 "textcolor": "white"
             },
             {
-                "title": "Move.MovePhrase.MoveTempo",
+                "title": "Move.MoveFrase.MoveTempo",
                 "color": "#ff7537ff",
                 "textcolor": "white"
             },
@@ -20084,7 +20084,7 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Move.MovePhrase.SimultaneousMove",
+                    "title": "Move.MoveFrase.SimultaneousMove",
                     "color": "#ff7537ff",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -20165,7 +20165,7 @@
                 "textcolor": "white"
             },
             {
-                "title": "Move.MovePhrase.SimultaneousMove",
+                "title": "Move.MoveFrase.SimultaneousMove",
                 "color": "#ff7537ff",
                 "textcolor": "white"
             },
@@ -20222,7 +20222,7 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Guide.Who.ExperiencedPlanter",
+                    "title": "Guide.Who.ExperiencedPlantor",
                     "color": "#ffffffff",
                     "textcolor": "#000000ff",
                     "type": "sidecar"
@@ -20270,13 +20270,13 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Move.MovePhrase.MoveDensity",
+                    "title": "Move.MoveFrase.MoveDensity",
                     "color": "#ff7537ff",
                     "textcolor": "white",
                     "type": "sidecar"
                 },
                 {
-                    "title": "Move.MovePhrase.TransitionMove",
+                    "title": "Move.MoveFrase.TransitionMove",
                     "color": "#ff7537ff",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -20321,7 +20321,7 @@
                 "textcolor": "#000000ff"
             },
             {
-                "title": "Guide.Who.ExperiencedPlanter",
+                "title": "Guide.Who.ExperiencedPlantor",
                 "color": "#ffffffff",
                 "textcolor": "#000000ff"
             },
@@ -20361,12 +20361,12 @@
                 "textcolor": "white"
             },
             {
-                "title": "Move.MovePhrase.MoveDensity",
+                "title": "Move.MoveFrase.MoveDensity",
                 "color": "#ff7537ff",
                 "textcolor": "white"
             },
             {
-                "title": "Move.MovePhrase.TransitionMove",
+                "title": "Move.MoveFrase.TransitionMove",
                 "color": "#ff7537ff",
                 "textcolor": "white"
             },
@@ -20771,7 +20771,7 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Move.PlanterDiagram",
+                    "title": "Move.PlantorDiagram",
                     "color": "#ff7537ff",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -20825,7 +20825,7 @@
                 "textcolor": "white"
             },
             {
-                "title": "Move.PlanterDiagram",
+                "title": "Move.PlantorDiagram",
                 "color": "#ff7537ff",
                 "textcolor": "white"
             },
@@ -20890,7 +20890,7 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Move.MovePhrase.MoveChunk.MovePhrase",
+                    "title": "Move.MoveFrase.MoveChunk.MoveFrase",
                     "color": "#ff7537ff",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -20950,7 +20950,7 @@
                 "textcolor": "white"
             },
             {
-                "title": "Move.MovePhrase.MoveChunk.MovePhrase",
+                "title": "Move.MoveFrase.MoveChunk.MoveFrase",
                 "color": "#ff7537ff",
                 "textcolor": "white"
             },
@@ -21134,7 +21134,7 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Move.PlanterDiagram",
+                    "title": "Move.PlantorDiagram",
                     "color": "#ff7537ff",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -21199,7 +21199,7 @@
                 "textcolor": "white"
             },
             {
-                "title": "Move.PlanterDiagram",
+                "title": "Move.PlantorDiagram",
                 "color": "#ff7537ff",
                 "textcolor": "white"
             },
@@ -21239,7 +21239,7 @@
             "lastUpdated": 1692978839586,
             "tags": [
                 {
-                    "title": "Dev.Element.ElementPhrase",
+                    "title": "Dev.Element.ElementFrase",
                     "color": "#ffffffff",
                     "textcolor": "#000000ff",
                     "type": "sidecar"
@@ -21275,7 +21275,7 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Move.MovePhrase",
+                    "title": "Move.MoveFrase",
                     "color": "#ff7537ff",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -21316,7 +21316,7 @@
         "extension": "jpg",
         "tags": [
             {
-                "title": "Dev.Element.ElementPhrase",
+                "title": "Dev.Element.ElementFrase",
                 "color": "#ffffffff",
                 "textcolor": "#000000ff"
             },
@@ -21346,7 +21346,7 @@
                 "textcolor": "white"
             },
             {
-                "title": "Move.MovePhrase",
+                "title": "Move.MoveFrase",
                 "color": "#ff7537ff",
                 "textcolor": "white"
             },
@@ -22039,7 +22039,7 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Move.MovePhrase.MoveCycle",
+                    "title": "Move.MoveFrase.MoveCycle",
                     "color": "#ff7537ff",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -22125,7 +22125,7 @@
                 "textcolor": "white"
             },
             {
-                "title": "Move.MovePhrase.MoveCycle",
+                "title": "Move.MoveFrase.MoveCycle",
                 "color": "#ff7537ff",
                 "textcolor": "white"
             },
@@ -22387,7 +22387,7 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Move.MovePhrase.MoveOverlap",
+                    "title": "Move.MoveFrase.MoveOverlap",
                     "color": "#ff7537ff",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -22455,7 +22455,7 @@
                 "textcolor": "white"
             },
             {
-                "title": "Move.MovePhrase.MoveOverlap",
+                "title": "Move.MoveFrase.MoveOverlap",
                 "color": "#ff7537ff",
                 "textcolor": "white"
             },
@@ -22862,7 +22862,7 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Move.MovePhrase.MoveDensity",
+                    "title": "Move.MoveFrase.MoveDensity",
                     "color": "#ff7537ff",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -22943,7 +22943,7 @@
                 "textcolor": "white"
             },
             {
-                "title": "Move.MovePhrase.MoveDensity",
+                "title": "Move.MoveFrase.MoveDensity",
                 "color": "#ff7537ff",
                 "textcolor": "white"
             },
@@ -23103,13 +23103,13 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Move.MovePhrase",
+                    "title": "Move.MoveFrase",
                     "color": "#ff7537ff",
                     "textcolor": "white",
                     "type": "sidecar"
                 },
                 {
-                    "title": "Move.MovePhrase.MoveNestedPhrase",
+                    "title": "Move.MoveFrase.MoveNestedFrase",
                     "color": "#ff7537ff",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -23159,12 +23159,12 @@
                 "textcolor": "white"
             },
             {
-                "title": "Move.MovePhrase",
+                "title": "Move.MoveFrase",
                 "color": "#ff7537ff",
                 "textcolor": "white"
             },
             {
-                "title": "Move.MovePhrase.MoveNestedPhrase",
+                "title": "Move.MoveFrase.MoveNestedFrase",
                 "color": "#ff7537ff",
                 "textcolor": "white"
             },
@@ -24260,7 +24260,7 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Move.MovePhrase",
+                    "title": "Move.MoveFrase",
                     "color": "#ff7537ff",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -24378,7 +24378,7 @@
                 "textcolor": "#000000ff"
             },
             {
-                "title": "Move.MovePhrase",
+                "title": "Move.MoveFrase",
                 "color": "#ff7537ff",
                 "textcolor": "white"
             },
@@ -24647,7 +24647,7 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Dev.Pedagogy.Curriculum.LessonPhrase",
+                    "title": "Dev.Pedagogy.Curriculum.LessonFrase",
                     "color": "#ffffffff",
                     "textcolor": "#000000ff",
                     "type": "sidecar"
@@ -24659,13 +24659,13 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Move.MovePhrase",
+                    "title": "Move.MoveFrase",
                     "color": "#ff7537ff",
                     "textcolor": "white",
                     "type": "sidecar"
                 },
                 {
-                    "title": "Move.MovePhrase.HandPhrase",
+                    "title": "Move.MoveFrase.HandFrase",
                     "color": "#ff7537ff",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -24739,7 +24739,7 @@
                 "textcolor": "#000000ff"
             },
             {
-                "title": "Dev.Pedagogy.Curriculum.LessonPhrase",
+                "title": "Dev.Pedagogy.Curriculum.LessonFrase",
                 "color": "#ffffffff",
                 "textcolor": "#000000ff"
             },
@@ -24749,12 +24749,12 @@
                 "textcolor": "#000000ff"
             },
             {
-                "title": "Move.MovePhrase",
+                "title": "Move.MoveFrase",
                 "color": "#ff7537ff",
                 "textcolor": "white"
             },
             {
-                "title": "Move.MovePhrase.HandPhrase",
+                "title": "Move.MoveFrase.HandFrase",
                 "color": "#ff7537ff",
                 "textcolor": "white"
             },
@@ -25036,7 +25036,7 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Move.MovePhrase",
+                    "title": "Move.MoveFrase",
                     "color": "#ff7537ff",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -25141,7 +25141,7 @@
                 "textcolor": "white"
             },
             {
-                "title": "Move.MovePhrase",
+                "title": "Move.MoveFrase",
                 "color": "#ff7537ff",
                 "textcolor": "white"
             },
@@ -26114,7 +26114,7 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Move.MovePhrase.MoveDensity",
+                    "title": "Move.MoveFrase.MoveDensity",
                     "color": "#ff7537ff",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -26240,7 +26240,7 @@
                 "textcolor": "#ffffffff"
             },
             {
-                "title": "Move.MovePhrase.MoveDensity",
+                "title": "Move.MoveFrase.MoveDensity",
                 "color": "#ff7537ff",
                 "textcolor": "white"
             },
@@ -26484,7 +26484,7 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Move.MovePhrase.MoveTempo",
+                    "title": "Move.MoveFrase.MoveTempo",
                     "color": "#ff7537ff",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -26555,7 +26555,7 @@
                 "textcolor": "white"
             },
             {
-                "title": "Move.MovePhrase.MoveTempo",
+                "title": "Move.MoveFrase.MoveTempo",
                 "color": "#ff7537ff",
                 "textcolor": "white"
             },
@@ -26642,7 +26642,7 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Move.MovePhrase",
+                    "title": "Move.MoveFrase",
                     "color": "#ff7537ff",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -26730,7 +26730,7 @@
                 "textcolor": "white"
             },
             {
-                "title": "Move.MovePhrase",
+                "title": "Move.MoveFrase",
                 "color": "#ff7537ff",
                 "textcolor": "white"
             },
@@ -27001,7 +27001,7 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Move.MovePhrase",
+                    "title": "Move.MoveFrase",
                     "color": "#ff7537ff",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -27083,7 +27083,7 @@
                 "textcolor": "white"
             },
             {
-                "title": "Move.MovePhrase",
+                "title": "Move.MoveFrase",
                 "color": "#ff7537ff",
                 "textcolor": "white"
             },
@@ -27292,13 +27292,13 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Move.MovePhrase.SimultaneousMove",
+                    "title": "Move.MoveFrase.SimultaneousMove",
                     "color": "#ff7537ff",
                     "textcolor": "white",
                     "type": "sidecar"
                 },
                 {
-                    "title": "Move.MovePhrase.TransitionMove",
+                    "title": "Move.MoveFrase.TransitionMove",
                     "color": "#ff7537ff",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -27316,7 +27316,7 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Via.ViaSequence.BagUpPhrase",
+                    "title": "Via.ViaSequence.BagUpFrase",
                     "color": "#f83a22b8",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -27354,12 +27354,12 @@
                 "textcolor": "#000000ff"
             },
             {
-                "title": "Move.MovePhrase.SimultaneousMove",
+                "title": "Move.MoveFrase.SimultaneousMove",
                 "color": "#ff7537ff",
                 "textcolor": "white"
             },
             {
-                "title": "Move.MovePhrase.TransitionMove",
+                "title": "Move.MoveFrase.TransitionMove",
                 "color": "#ff7537ff",
                 "textcolor": "white"
             },
@@ -27374,7 +27374,7 @@
                 "textcolor": "white"
             },
             {
-                "title": "Via.ViaSequence.BagUpPhrase",
+                "title": "Via.ViaSequence.BagUpFrase",
                 "color": "#f83a22b8",
                 "textcolor": "white"
             },
@@ -27434,7 +27434,7 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Move.MovePhrase",
+                    "title": "Move.MoveFrase",
                     "color": "#ff7537ff",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -27506,7 +27506,7 @@
                 "textcolor": "white"
             },
             {
-                "title": "Move.MovePhrase",
+                "title": "Move.MoveFrase",
                 "color": "#ff7537ff",
                 "textcolor": "white"
             },
@@ -27592,7 +27592,7 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Move.MovePhrase",
+                    "title": "Move.MoveFrase",
                     "color": "#ff7537ff",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -27657,7 +27657,7 @@
                 "textcolor": "white"
             },
             {
-                "title": "Move.MovePhrase",
+                "title": "Move.MoveFrase",
                 "color": "#ff7537ff",
                 "textcolor": "white"
             },
@@ -27908,7 +27908,7 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Dev.Element.ElementPhrase",
+                    "title": "Dev.Element.ElementFrase",
                     "color": "#ffffffff",
                     "textcolor": "#000000ff",
                     "type": "sidecar"
@@ -27926,19 +27926,19 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Move.MovePhrase",
+                    "title": "Move.MoveFrase",
                     "color": "#ff7537ff",
                     "textcolor": "white",
                     "type": "sidecar"
                 },
                 {
-                    "title": "Move.MovePhrase.ContiguousMove",
+                    "title": "Move.MoveFrase.ContiguousMove",
                     "color": "#ff7537ff",
                     "textcolor": "white",
                     "type": "sidecar"
                 },
                 {
-                    "title": "Move.MovePhrase.MoveOverlap",
+                    "title": "Move.MoveFrase.MoveOverlap",
                     "color": "#ff7537ff",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -27996,7 +27996,7 @@
                 "textcolor": "#000000ff"
             },
             {
-                "title": "Dev.Element.ElementPhrase",
+                "title": "Dev.Element.ElementFrase",
                 "color": "#ffffffff",
                 "textcolor": "#000000ff"
             },
@@ -28011,17 +28011,17 @@
                 "textcolor": "white"
             },
             {
-                "title": "Move.MovePhrase",
+                "title": "Move.MoveFrase",
                 "color": "#ff7537ff",
                 "textcolor": "white"
             },
             {
-                "title": "Move.MovePhrase.ContiguousMove",
+                "title": "Move.MoveFrase.ContiguousMove",
                 "color": "#ff7537ff",
                 "textcolor": "white"
             },
             {
-                "title": "Move.MovePhrase.MoveOverlap",
+                "title": "Move.MoveFrase.MoveOverlap",
                 "color": "#ff7537ff",
                 "textcolor": "white"
             },
@@ -28082,7 +28082,7 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Dev.Element.ElementPhrase",
+                    "title": "Dev.Element.ElementFrase",
                     "color": "#ffffffff",
                     "textcolor": "#000000ff",
                     "type": "sidecar"
@@ -28136,7 +28136,7 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Move.MovePhrase",
+                    "title": "Move.MoveFrase",
                     "color": "#ff7537ff",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -28200,7 +28200,7 @@
                 "textcolor": "#000000ff"
             },
             {
-                "title": "Dev.Element.ElementPhrase",
+                "title": "Dev.Element.ElementFrase",
                 "color": "#ffffffff",
                 "textcolor": "#000000ff"
             },
@@ -28245,7 +28245,7 @@
                 "textcolor": "white"
             },
             {
-                "title": "Move.MovePhrase",
+                "title": "Move.MoveFrase",
                 "color": "#ff7537ff",
                 "textcolor": "white"
             },
@@ -28430,7 +28430,7 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Dev.Element.ElementPhrase",
+                    "title": "Dev.Element.ElementFrase",
                     "color": "#ffffffff",
                     "textcolor": "#000000ff",
                     "type": "sidecar"
@@ -28460,7 +28460,7 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Move.MovePhrase",
+                    "title": "Move.MoveFrase",
                     "color": "#ff7537ff",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -28494,7 +28494,7 @@
                 "textcolor": "#000000ff"
             },
             {
-                "title": "Dev.Element.ElementPhrase",
+                "title": "Dev.Element.ElementFrase",
                 "color": "#ffffffff",
                 "textcolor": "#000000ff"
             },
@@ -28519,7 +28519,7 @@
                 "textcolor": "#000000ff"
             },
             {
-                "title": "Move.MovePhrase",
+                "title": "Move.MoveFrase",
                 "color": "#ff7537ff",
                 "textcolor": "white"
             },
@@ -28590,7 +28590,7 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Move.MovePhrase",
+                    "title": "Move.MoveFrase",
                     "color": "#ff7537ff",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -28649,7 +28649,7 @@
                 "textcolor": "white"
             },
             {
-                "title": "Move.MovePhrase",
+                "title": "Move.MoveFrase",
                 "color": "#ff7537ff",
                 "textcolor": "white"
             },
@@ -28720,7 +28720,7 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Dev.Transcription.TranscriptionPhrase",
+                    "title": "Dev.Transcription.TranscriptionFrase",
                     "color": "#ffffffff",
                     "textcolor": "#000000ff",
                     "type": "sidecar"
@@ -28785,7 +28785,7 @@
                 "textcolor": "#000000ff"
             },
             {
-                "title": "Dev.Transcription.TranscriptionPhrase",
+                "title": "Dev.Transcription.TranscriptionFrase",
                 "color": "#ffffffff",
                 "textcolor": "#000000ff"
             },
@@ -28867,7 +28867,7 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Move.MovePhrase",
+                    "title": "Move.MoveFrase",
                     "color": "#ff7537ff",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -28967,7 +28967,7 @@
                 "textcolor": "white"
             },
             {
-                "title": "Move.MovePhrase",
+                "title": "Move.MoveFrase",
                 "color": "#ff7537ff",
                 "textcolor": "white"
             },
@@ -29209,7 +29209,7 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Move.MovePhrase",
+                    "title": "Move.MoveFrase",
                     "color": "#ff7537ff",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -29286,7 +29286,7 @@
                 "textcolor": "#000000ff"
             },
             {
-                "title": "Move.MovePhrase",
+                "title": "Move.MoveFrase",
                 "color": "#ff7537ff",
                 "textcolor": "white"
             },
@@ -29372,7 +29372,7 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Move.MovePhrase.MoveTempo",
+                    "title": "Move.MoveFrase.MoveTempo",
                     "color": "#ff7537ff",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -29461,7 +29461,7 @@
                 "textcolor": "white"
             },
             {
-                "title": "Move.MovePhrase.MoveTempo",
+                "title": "Move.MoveFrase.MoveTempo",
                 "color": "#ff7537ff",
                 "textcolor": "white"
             },
@@ -29539,7 +29539,7 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Move.MovePhrase.MoveOverlap",
+                    "title": "Move.MoveFrase.MoveOverlap",
                     "color": "#ff7537ff",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -29601,7 +29601,7 @@
                 "textcolor": "white"
             },
             {
-                "title": "Move.MovePhrase.MoveOverlap",
+                "title": "Move.MoveFrase.MoveOverlap",
                 "color": "#ff7537ff",
                 "textcolor": "white"
             },
@@ -30763,7 +30763,7 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Land.LandPhrase",
+                    "title": "Land.LandFrase",
                     "color": "#008000ff",
                     "textcolor": "#ffffffff",
                     "type": "sidecar"
@@ -30860,7 +30860,7 @@
                 "textcolor": "#000000ff"
             },
             {
-                "title": "Land.LandPhrase",
+                "title": "Land.LandFrase",
                 "color": "#008000ff",
                 "textcolor": "#ffffffff"
             },
@@ -30959,7 +30959,7 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Dev.PlanterMetaInstructor",
+                    "title": "Dev.PlantorMetaInstructor",
                     "color": "#ffffffff",
                     "textcolor": "#000000ff",
                     "type": "sidecar"
@@ -30983,13 +30983,13 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Guide.Who.PlanterInstructor.InstructorGuide.Curriculum",
+                    "title": "Guide.Who.PlantorInstructor.InstructorGuide.Curriculum",
                     "color": "#ffffffff",
                     "textcolor": "#000000ff",
                     "type": "sidecar"
                 },
                 {
-                    "title": "Guide.Who.PlanterInstructor.InstructorGuide.Template",
+                    "title": "Guide.Who.PlantorInstructor.InstructorGuide.Template",
                     "color": "#ffffffff",
                     "textcolor": "#000000ff",
                     "type": "sidecar"
@@ -31001,7 +31001,7 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Move.PlanterAttributes.PlanterAbility",
+                    "title": "Move.PlantorAttributes.PlantorAbility",
                     "color": "#ff7537ff",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -31068,7 +31068,7 @@
                 "textcolor": "#000000ff"
             },
             {
-                "title": "Dev.PlanterMetaInstructor",
+                "title": "Dev.PlantorMetaInstructor",
                 "color": "#ffffffff",
                 "textcolor": "#000000ff"
             },
@@ -31088,12 +31088,12 @@
                 "textcolor": "#000000ff"
             },
             {
-                "title": "Guide.Who.PlanterInstructor.InstructorGuide.Curriculum",
+                "title": "Guide.Who.PlantorInstructor.InstructorGuide.Curriculum",
                 "color": "#ffffffff",
                 "textcolor": "#000000ff"
             },
             {
-                "title": "Guide.Who.PlanterInstructor.InstructorGuide.Template",
+                "title": "Guide.Who.PlantorInstructor.InstructorGuide.Template",
                 "color": "#ffffffff",
                 "textcolor": "#000000ff"
             },
@@ -31103,7 +31103,7 @@
                 "textcolor": "#000000ff"
             },
             {
-                "title": "Move.PlanterAttributes.PlanterAbility",
+                "title": "Move.PlantorAttributes.PlantorAbility",
                 "color": "#ff7537ff",
                 "textcolor": "white"
             },
@@ -31424,7 +31424,7 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Move.MovePhrase.MoveRhythm",
+                    "title": "Move.MoveFrase.MoveRhythm",
                     "color": "#ff7537ff",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -31494,7 +31494,7 @@
                 "textcolor": "white"
             },
             {
-                "title": "Move.MovePhrase.MoveRhythm",
+                "title": "Move.MoveFrase.MoveRhythm",
                 "color": "#ff7537ff",
                 "textcolor": "white"
             },
@@ -31552,19 +31552,19 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Move.MovePhrase.MoveRhythm",
+                    "title": "Move.MoveFrase.MoveRhythm",
                     "color": "#ff7537ff",
                     "textcolor": "white",
                     "type": "sidecar"
                 },
                 {
-                    "title": "Move.MovePhrase.MoveTempo",
+                    "title": "Move.MoveFrase.MoveTempo",
                     "color": "#ff7537ff",
                     "textcolor": "white",
                     "type": "sidecar"
                 },
                 {
-                    "title": "Move.MovePhrase.SimultaneousMove",
+                    "title": "Move.MoveFrase.SimultaneousMove",
                     "color": "#ff7537ff",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -31614,17 +31614,17 @@
                 "textcolor": "white"
             },
             {
-                "title": "Move.MovePhrase.MoveRhythm",
+                "title": "Move.MoveFrase.MoveRhythm",
                 "color": "#ff7537ff",
                 "textcolor": "white"
             },
             {
-                "title": "Move.MovePhrase.MoveTempo",
+                "title": "Move.MoveFrase.MoveTempo",
                 "color": "#ff7537ff",
                 "textcolor": "white"
             },
             {
-                "title": "Move.MovePhrase.SimultaneousMove",
+                "title": "Move.MoveFrase.SimultaneousMove",
                 "color": "#ff7537ff",
                 "textcolor": "white"
             },
@@ -31676,7 +31676,7 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Move.MovePhrase",
+                    "title": "Move.MoveFrase",
                     "color": "#ff7537ff",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -31733,7 +31733,7 @@
                 "textcolor": "#000000ff"
             },
             {
-                "title": "Move.MovePhrase",
+                "title": "Move.MoveFrase",
                 "color": "#ff7537ff",
                 "textcolor": "white"
             },
@@ -31801,7 +31801,7 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Dev.Transcription.TranscriptionPhrase",
+                    "title": "Dev.Transcription.TranscriptionFrase",
                     "color": "#ffffffff",
                     "textcolor": "#000000ff",
                     "type": "sidecar"
@@ -31825,7 +31825,7 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Move.MovePhrase.SimultaneousMove",
+                    "title": "Move.MoveFrase.SimultaneousMove",
                     "color": "#ff7537ff",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -31869,7 +31869,7 @@
                 "textcolor": "#000000ff"
             },
             {
-                "title": "Dev.Transcription.TranscriptionPhrase",
+                "title": "Dev.Transcription.TranscriptionFrase",
                 "color": "#ffffffff",
                 "textcolor": "#000000ff"
             },
@@ -31889,7 +31889,7 @@
                 "textcolor": "white"
             },
             {
-                "title": "Move.MovePhrase.SimultaneousMove",
+                "title": "Move.MoveFrase.SimultaneousMove",
                 "color": "#ff7537ff",
                 "textcolor": "white"
             },
@@ -31948,13 +31948,13 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Move.MovePhrase",
+                    "title": "Move.MoveFrase",
                     "color": "#ff7537ff",
                     "textcolor": "white",
                     "type": "sidecar"
                 },
                 {
-                    "title": "Move.MovePhrase.MoveRhythm",
+                    "title": "Move.MoveFrase.MoveRhythm",
                     "color": "#ff7537ff",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -32003,12 +32003,12 @@
                 "textcolor": "white"
             },
             {
-                "title": "Move.MovePhrase",
+                "title": "Move.MoveFrase",
                 "color": "#ff7537ff",
                 "textcolor": "white"
             },
             {
-                "title": "Move.MovePhrase.MoveRhythm",
+                "title": "Move.MoveFrase.MoveRhythm",
                 "color": "#ff7537ff",
                 "textcolor": "white"
             },
@@ -32061,25 +32061,25 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Move.MovePhrase.MoveDensity",
+                    "title": "Move.MoveFrase.MoveDensity",
                     "color": "#ff7537ff",
                     "textcolor": "white",
                     "type": "sidecar"
                 },
                 {
-                    "title": "Move.MovePhrase.MoveEndurance",
+                    "title": "Move.MoveFrase.MoveEndurance",
                     "color": "#ff7537ff",
                     "textcolor": "white",
                     "type": "sidecar"
                 },
                 {
-                    "title": "Move.MovePhrase.MoveRhythm",
+                    "title": "Move.MoveFrase.MoveRhythm",
                     "color": "#ff7537ff",
                     "textcolor": "white",
                     "type": "sidecar"
                 },
                 {
-                    "title": "Move.MovePhrase.MoveTempo",
+                    "title": "Move.MoveFrase.MoveTempo",
                     "color": "#ff7537ff",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -32123,22 +32123,22 @@
                 "textcolor": "white"
             },
             {
-                "title": "Move.MovePhrase.MoveDensity",
+                "title": "Move.MoveFrase.MoveDensity",
                 "color": "#ff7537ff",
                 "textcolor": "white"
             },
             {
-                "title": "Move.MovePhrase.MoveEndurance",
+                "title": "Move.MoveFrase.MoveEndurance",
                 "color": "#ff7537ff",
                 "textcolor": "white"
             },
             {
-                "title": "Move.MovePhrase.MoveRhythm",
+                "title": "Move.MoveFrase.MoveRhythm",
                 "color": "#ff7537ff",
                 "textcolor": "white"
             },
             {
-                "title": "Move.MovePhrase.MoveTempo",
+                "title": "Move.MoveFrase.MoveTempo",
                 "color": "#ff7537ff",
                 "textcolor": "white"
             },
@@ -32197,7 +32197,7 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Move.PlanterAttributes.PlanterSize",
+                    "title": "Move.PlantorAttributes.PlantorSize",
                     "color": "#ff7537ff",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -32258,7 +32258,7 @@
                 "textcolor": "#000000ff"
             },
             {
-                "title": "Move.PlanterAttributes.PlanterSize",
+                "title": "Move.PlantorAttributes.PlantorSize",
                 "color": "#ff7537ff",
                 "textcolor": "white"
             },
@@ -32315,7 +32315,7 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Move.MovePhrase.InitiationMove",
+                    "title": "Move.MoveFrase.InitiationMove",
                     "color": "#ff7537ff",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -32360,7 +32360,7 @@
                 "textcolor": "white"
             },
             {
-                "title": "Move.MovePhrase.InitiationMove",
+                "title": "Move.MoveFrase.InitiationMove",
                 "color": "#ff7537ff",
                 "textcolor": "white"
             },
@@ -32412,25 +32412,25 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Move.MovePhrase",
+                    "title": "Move.MoveFrase",
                     "color": "#ff7537ff",
                     "textcolor": "white",
                     "type": "sidecar"
                 },
                 {
-                    "title": "Move.MovePhrase.ContiguousMove",
+                    "title": "Move.MoveFrase.ContiguousMove",
                     "color": "#ff7537ff",
                     "textcolor": "white",
                     "type": "sidecar"
                 },
                 {
-                    "title": "Move.MovePhrase.MoveNestedPhrase",
+                    "title": "Move.MoveFrase.MoveNestedFrase",
                     "color": "#ff7537ff",
                     "textcolor": "white",
                     "type": "sidecar"
                 },
                 {
-                    "title": "Move.MovePhrase.MoveOverlap",
+                    "title": "Move.MoveFrase.MoveOverlap",
                     "color": "#ff7537ff",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -32475,22 +32475,22 @@
                 "textcolor": "#000000ff"
             },
             {
-                "title": "Move.MovePhrase",
+                "title": "Move.MoveFrase",
                 "color": "#ff7537ff",
                 "textcolor": "white"
             },
             {
-                "title": "Move.MovePhrase.ContiguousMove",
+                "title": "Move.MoveFrase.ContiguousMove",
                 "color": "#ff7537ff",
                 "textcolor": "white"
             },
             {
-                "title": "Move.MovePhrase.MoveNestedPhrase",
+                "title": "Move.MoveFrase.MoveNestedFrase",
                 "color": "#ff7537ff",
                 "textcolor": "white"
             },
             {
-                "title": "Move.MovePhrase.MoveOverlap",
+                "title": "Move.MoveFrase.MoveOverlap",
                 "color": "#ff7537ff",
                 "textcolor": "white"
             },
@@ -32587,7 +32587,7 @@
                 {
                     "color": "#ffffffff",
                     "textcolor": "#000000ff",
-                    "title": "Dev.Element.ElementPhrase",
+                    "title": "Dev.Element.ElementFrase",
                     "type": "sidecar"
                 },
                 {
@@ -32682,7 +32682,7 @@
                 "textcolor": "#000000ff"
             },
             {
-                "title": "Dev.Element.ElementPhrase",
+                "title": "Dev.Element.ElementFrase",
                 "color": "#ffffffff",
                 "textcolor": "#000000ff"
             },
@@ -32912,19 +32912,19 @@
                 {
                     "color": "#ff7537ff",
                     "textcolor": "white",
-                    "title": "Move.MovePhrase.AnteMove",
+                    "title": "Move.MoveFrase.AnteMove",
                     "type": "sidecar"
                 },
                 {
                     "color": "#ff7537ff",
                     "textcolor": "white",
-                    "title": "Move.MovePhrase.ContiguousMove",
+                    "title": "Move.MoveFrase.ContiguousMove",
                     "type": "sidecar"
                 },
                 {
                     "color": "#ff7537ff",
                     "textcolor": "white",
-                    "title": "Move.MovePhrase.PostMove",
+                    "title": "Move.MoveFrase.PostMove",
                     "type": "sidecar"
                 },
                 {
@@ -32985,17 +32985,17 @@
                 "textcolor": "white"
             },
             {
-                "title": "Move.MovePhrase.AnteMove",
+                "title": "Move.MoveFrase.AnteMove",
                 "color": "#ff7537ff",
                 "textcolor": "white"
             },
             {
-                "title": "Move.MovePhrase.ContiguousMove",
+                "title": "Move.MoveFrase.ContiguousMove",
                 "color": "#ff7537ff",
                 "textcolor": "white"
             },
             {
-                "title": "Move.MovePhrase.PostMove",
+                "title": "Move.MoveFrase.PostMove",
                 "color": "#ff7537ff",
                 "textcolor": "white"
             },
@@ -33360,7 +33360,7 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Move.MovePhrase",
+                    "title": "Move.MoveFrase",
                     "color": "#ff7537ff",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -33441,7 +33441,7 @@
                 "textcolor": "white"
             },
             {
-                "title": "Move.MovePhrase",
+                "title": "Move.MoveFrase",
                 "color": "#ff7537ff",
                 "textcolor": "white"
             },
@@ -33510,7 +33510,7 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Guide.Who.PlanterInstructor.Handout",
+                    "title": "Guide.Who.PlantorInstructor.Handout",
                     "color": "#ffffffff",
                     "textcolor": "#000000ff",
                     "type": "sidecar"
@@ -33571,7 +33571,7 @@
                 "textcolor": "#000000ff"
             },
             {
-                "title": "Guide.Who.PlanterInstructor.Handout",
+                "title": "Guide.Who.PlantorInstructor.Handout",
                 "color": "#ffffffff",
                 "textcolor": "#000000ff"
             },
@@ -33628,7 +33628,7 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Guide.Who.PlanterInstructor.InstructorGuide.Template",
+                    "title": "Guide.Who.PlantorInstructor.InstructorGuide.Template",
                     "color": "#ffffffff",
                     "textcolor": "#000000ff",
                     "type": "sidecar"
@@ -33673,7 +33673,7 @@
                 "textcolor": "#000000ff"
             },
             {
-                "title": "Guide.Who.PlanterInstructor.InstructorGuide.Template",
+                "title": "Guide.Who.PlantorInstructor.InstructorGuide.Template",
                 "color": "#ffffffff",
                 "textcolor": "#000000ff"
             },
@@ -34058,7 +34058,7 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Move.MovePhrase.Attempt",
+                    "title": "Move.MoveFrase.Attempt",
                     "color": "#ff7537ff",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -34150,7 +34150,7 @@
                 "textcolor": "white"
             },
             {
-                "title": "Move.MovePhrase.Attempt",
+                "title": "Move.MoveFrase.Attempt",
                 "color": "#ff7537ff",
                 "textcolor": "white"
             },
@@ -34376,7 +34376,7 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Guide.What.WhatPlantaBeta.PlanterQuestion",
+                    "title": "Guide.What.WhatPlantaBeta.PlantorQuestion",
                     "color": "#ffffffff",
                     "textcolor": "#000000ff",
                     "type": "sidecar"
@@ -34431,7 +34431,7 @@
                 "textcolor": "#000000ff"
             },
             {
-                "title": "Guide.What.WhatPlantaBeta.PlanterQuestion",
+                "title": "Guide.What.WhatPlantaBeta.PlantorQuestion",
                 "color": "#ffffffff",
                 "textcolor": "#000000ff"
             },
@@ -34507,13 +34507,13 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Guide.Who.PlanterInstructor",
+                    "title": "Guide.Who.PlantorInstructor",
                     "color": "#ffffffff",
                     "textcolor": "#000000ff",
                     "type": "sidecar"
                 },
                 {
-                    "title": "Guide.Who.PlanterInstructor.InstructorGuide.Template",
+                    "title": "Guide.Who.PlantorInstructor.InstructorGuide.Template",
                     "color": "#ffffffff",
                     "textcolor": "#000000ff",
                     "type": "sidecar"
@@ -34590,12 +34590,12 @@
                 "textcolor": "#000000ff"
             },
             {
-                "title": "Guide.Who.PlanterInstructor",
+                "title": "Guide.Who.PlantorInstructor",
                 "color": "#ffffffff",
                 "textcolor": "#000000ff"
             },
             {
-                "title": "Guide.Who.PlanterInstructor.InstructorGuide.Template",
+                "title": "Guide.Who.PlantorInstructor.InstructorGuide.Template",
                 "color": "#ffffffff",
                 "textcolor": "#000000ff"
             },
@@ -34783,7 +34783,7 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Move.MovePhrase",
+                    "title": "Move.MoveFrase",
                     "color": "#ff7537ff",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -34867,7 +34867,7 @@
                 "textcolor": "white"
             },
             {
-                "title": "Move.MovePhrase",
+                "title": "Move.MoveFrase",
                 "color": "#ff7537ff",
                 "textcolor": "white"
             },
@@ -35712,7 +35712,7 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Guide.Who.PlanterInstructor.Handout",
+                    "title": "Guide.Who.PlantorInstructor.Handout",
                     "color": "#ffffffff",
                     "textcolor": "#000000ff",
                     "type": "sidecar"
@@ -35763,7 +35763,7 @@
                 "textcolor": "#000000ff"
             },
             {
-                "title": "Guide.Who.PlanterInstructor.Handout",
+                "title": "Guide.Who.PlantorInstructor.Handout",
                 "color": "#ffffffff",
                 "textcolor": "#000000ff"
             },
@@ -36050,25 +36050,25 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Guide.Who.PlanterInstructor",
+                    "title": "Guide.Who.PlantorInstructor",
                     "color": "#ffffffff",
                     "textcolor": "#000000ff",
                     "type": "sidecar"
                 },
                 {
-                    "title": "Guide.Who.PlanterInstructor.TeachingBlock",
+                    "title": "Guide.Who.PlantorInstructor.TeachingBlock",
                     "color": "#ffffffff",
                     "textcolor": "#000000ff",
                     "type": "sidecar"
                 },
                 {
-                    "title": "Guide.Who.PlanterInstructor.TeachingPiece",
+                    "title": "Guide.Who.PlantorInstructor.TeachingPiece",
                     "color": "#ffffffff",
                     "textcolor": "#000000ff",
                     "type": "sidecar"
                 },
                 {
-                    "title": "Guide.Who.PlanterInstructor.TeachingPlot",
+                    "title": "Guide.Who.PlantorInstructor.TeachingPlot",
                     "color": "#ffffffff",
                     "textcolor": "#000000ff",
                     "type": "sidecar"
@@ -36129,22 +36129,22 @@
                 "textcolor": "#000000ff"
             },
             {
-                "title": "Guide.Who.PlanterInstructor",
+                "title": "Guide.Who.PlantorInstructor",
                 "color": "#ffffffff",
                 "textcolor": "#000000ff"
             },
             {
-                "title": "Guide.Who.PlanterInstructor.TeachingBlock",
+                "title": "Guide.Who.PlantorInstructor.TeachingBlock",
                 "color": "#ffffffff",
                 "textcolor": "#000000ff"
             },
             {
-                "title": "Guide.Who.PlanterInstructor.TeachingPiece",
+                "title": "Guide.Who.PlantorInstructor.TeachingPiece",
                 "color": "#ffffffff",
                 "textcolor": "#000000ff"
             },
             {
-                "title": "Guide.Who.PlanterInstructor.TeachingPlot",
+                "title": "Guide.Who.PlantorInstructor.TeachingPlot",
                 "color": "#ffffffff",
                 "textcolor": "#000000ff"
             },
@@ -36201,7 +36201,7 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Dev.PlanterMetaInstructor",
+                    "title": "Dev.PlantorMetaInstructor",
                     "color": "#ffffffff",
                     "textcolor": "#000000ff",
                     "type": "sidecar"
@@ -36258,7 +36258,7 @@
                 "textcolor": "#000000ff"
             },
             {
-                "title": "Dev.PlanterMetaInstructor",
+                "title": "Dev.PlantorMetaInstructor",
                 "color": "#ffffffff",
                 "textcolor": "#000000ff"
             },
@@ -38016,7 +38016,7 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Move.MovePhrase",
+                    "title": "Move.MoveFrase",
                     "color": "#ff7537ff",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -38066,7 +38066,7 @@
                 "textcolor": "#000000ff"
             },
             {
-                "title": "Move.MovePhrase",
+                "title": "Move.MoveFrase",
                 "color": "#ff7537ff",
                 "textcolor": "white"
             },
@@ -39037,7 +39037,7 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Guide.Who.PlanterInstructor",
+                    "title": "Guide.Who.PlantorInstructor",
                     "color": "#ffffffff",
                     "textcolor": "#000000ff",
                     "type": "sidecar"
@@ -39094,7 +39094,7 @@
                 "textcolor": "#000000ff"
             },
             {
-                "title": "Guide.Who.PlanterInstructor",
+                "title": "Guide.Who.PlantorInstructor",
                 "color": "#ffffffff",
                 "textcolor": "#000000ff"
             },
@@ -39174,7 +39174,7 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Guide.Who.PlanterInstructor",
+                    "title": "Guide.Who.PlantorInstructor",
                     "color": "#ffffffff",
                     "textcolor": "#000000ff",
                     "type": "sidecar"
@@ -39252,7 +39252,7 @@
                 "textcolor": "#000000ff"
             },
             {
-                "title": "Guide.Who.PlanterInstructor",
+                "title": "Guide.Who.PlantorInstructor",
                 "color": "#ffffffff",
                 "textcolor": "#000000ff"
             },
@@ -39474,7 +39474,7 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Move.MovePhrase",
+                    "title": "Move.MoveFrase",
                     "color": "#ff7537ff",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -39543,7 +39543,7 @@
                 "textcolor": "white"
             },
             {
-                "title": "Move.MovePhrase",
+                "title": "Move.MoveFrase",
                 "color": "#ff7537ff",
                 "textcolor": "white"
             },
@@ -40013,7 +40013,7 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Guide.Who.PlanterInstructor",
+                    "title": "Guide.Who.PlantorInstructor",
                     "color": "#ffffffff",
                     "textcolor": "#000000ff",
                     "type": "sidecar"
@@ -40076,7 +40076,7 @@
                 "textcolor": "#000000ff"
             },
             {
-                "title": "Guide.Who.PlanterInstructor",
+                "title": "Guide.Who.PlantorInstructor",
                 "color": "#ffffffff",
                 "textcolor": "#000000ff"
             },
@@ -40143,7 +40143,7 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Guide.Who.ExperiencedPlanter",
+                    "title": "Guide.Who.ExperiencedPlantor",
                     "color": "#ffffffff",
                     "textcolor": "#000000ff",
                     "type": "sidecar"
@@ -40200,7 +40200,7 @@
                 "textcolor": "#000000ff"
             },
             {
-                "title": "Guide.Who.ExperiencedPlanter",
+                "title": "Guide.Who.ExperiencedPlantor",
                 "color": "#ffffffff",
                 "textcolor": "#000000ff"
             },
@@ -40429,7 +40429,7 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Move.MovePhrase",
+                    "title": "Move.MoveFrase",
                     "color": "#ff7537ff",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -40473,7 +40473,7 @@
                 "textcolor": "#000000ff"
             },
             {
-                "title": "Move.MovePhrase",
+                "title": "Move.MoveFrase",
                 "color": "#ff7537ff",
                 "textcolor": "white"
             },
@@ -40650,7 +40650,7 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Move.MovePhrase",
+                    "title": "Move.MoveFrase",
                     "color": "#ff7537ff",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -40707,7 +40707,7 @@
                 "textcolor": "white"
             },
             {
-                "title": "Move.MovePhrase",
+                "title": "Move.MoveFrase",
                 "color": "#ff7537ff",
                 "textcolor": "white"
             },
@@ -40916,7 +40916,7 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Move.MovePhrase",
+                    "title": "Move.MoveFrase",
                     "color": "#ff7537ff",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -40966,7 +40966,7 @@
                 "textcolor": "#000000ff"
             },
             {
-                "title": "Move.MovePhrase",
+                "title": "Move.MoveFrase",
                 "color": "#ff7537ff",
                 "textcolor": "white"
             },
@@ -41042,7 +41042,7 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Move.MovePhrase",
+                    "title": "Move.MoveFrase",
                     "color": "#ff7537ff",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -41113,7 +41113,7 @@
                 "textcolor": "white"
             },
             {
-                "title": "Move.MovePhrase",
+                "title": "Move.MoveFrase",
                 "color": "#ff7537ff",
                 "textcolor": "white"
             },
@@ -41847,7 +41847,7 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Move.MovePhrase",
+                    "title": "Move.MoveFrase",
                     "color": "#ff7537ff",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -41913,7 +41913,7 @@
                 "textcolor": "#000000ff"
             },
             {
-                "title": "Move.MovePhrase",
+                "title": "Move.MoveFrase",
                 "color": "#ff7537ff",
                 "textcolor": "white"
             },
@@ -42516,7 +42516,7 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Move.MovePhrase",
+                    "title": "Move.MoveFrase",
                     "color": "#ff7537ff",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -42566,7 +42566,7 @@
                 "textcolor": "#000000ff"
             },
             {
-                "title": "Move.MovePhrase",
+                "title": "Move.MoveFrase",
                 "color": "#ff7537ff",
                 "textcolor": "white"
             },
@@ -43161,13 +43161,13 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Move.MovePhrase.AnteMove",
+                    "title": "Move.MoveFrase.AnteMove",
                     "color": "#ff7537ff",
                     "textcolor": "white",
                     "type": "sidecar"
                 },
                 {
-                    "title": "Move.MovePhrase.PostMove",
+                    "title": "Move.MoveFrase.PostMove",
                     "color": "#ff7537ff",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -43248,12 +43248,12 @@
                 "textcolor": "white"
             },
             {
-                "title": "Move.MovePhrase.AnteMove",
+                "title": "Move.MoveFrase.AnteMove",
                 "color": "#ff7537ff",
                 "textcolor": "white"
             },
             {
-                "title": "Move.MovePhrase.PostMove",
+                "title": "Move.MoveFrase.PostMove",
                 "color": "#ff7537ff",
                 "textcolor": "white"
             },
@@ -44802,7 +44802,7 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Move.MovePhrase",
+                    "title": "Move.MoveFrase",
                     "color": "#ff7537ff",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -44858,7 +44858,7 @@
                 "textcolor": "white"
             },
             {
-                "title": "Move.MovePhrase",
+                "title": "Move.MoveFrase",
                 "color": "#ff7537ff",
                 "textcolor": "white"
             },
@@ -45002,7 +45002,7 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Move.MovePhrase",
+                    "title": "Move.MoveFrase",
                     "color": "#ff7537ff",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -45051,7 +45051,7 @@
                 "textcolor": "white"
             },
             {
-                "title": "Move.MovePhrase",
+                "title": "Move.MoveFrase",
                 "color": "#ff7537ff",
                 "textcolor": "white"
             },
@@ -45578,7 +45578,7 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Move.MovePhrase",
+                    "title": "Move.MoveFrase",
                     "color": "#ff7537ff",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -45661,7 +45661,7 @@
                 "textcolor": "white"
             },
             {
-                "title": "Move.MovePhrase",
+                "title": "Move.MoveFrase",
                 "color": "#ff7537ff",
                 "textcolor": "white"
             },
@@ -45752,7 +45752,7 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Move.MovePhrase",
+                    "title": "Move.MoveFrase",
                     "color": "#ff7537ff",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -45835,7 +45835,7 @@
                 "textcolor": "white"
             },
             {
-                "title": "Move.MovePhrase",
+                "title": "Move.MoveFrase",
                 "color": "#ff7537ff",
                 "textcolor": "white"
             },
@@ -46144,7 +46144,7 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Move.MovePhrase",
+                    "title": "Move.MoveFrase",
                     "color": "#ff7537ff",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -46215,7 +46215,7 @@
                 "textcolor": "white"
             },
             {
-                "title": "Move.MovePhrase",
+                "title": "Move.MoveFrase",
                 "color": "#ff7537ff",
                 "textcolor": "white"
             },
@@ -46302,7 +46302,7 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Move.MovePhrase",
+                    "title": "Move.MoveFrase",
                     "color": "#ff7537ff",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -46384,7 +46384,7 @@
                 "textcolor": "white"
             },
             {
-                "title": "Move.MovePhrase",
+                "title": "Move.MoveFrase",
                 "color": "#ff7537ff",
                 "textcolor": "white"
             },
@@ -46482,7 +46482,7 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Move.MovePhrase",
+                    "title": "Move.MoveFrase",
                     "color": "#ff7537ff",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -46557,7 +46557,7 @@
                 "textcolor": "white"
             },
             {
-                "title": "Move.MovePhrase",
+                "title": "Move.MoveFrase",
                 "color": "#ff7537ff",
                 "textcolor": "white"
             },
@@ -46621,7 +46621,7 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Move.MovePhrase.BaggingUpPhrase",
+                    "title": "Move.MoveFrase.BaggingUpFrase",
                     "color": "#ff7537ff",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -46688,7 +46688,7 @@
                 "textcolor": "white"
             },
             {
-                "title": "Move.MovePhrase.BaggingUpPhrase",
+                "title": "Move.MoveFrase.BaggingUpFrase",
                 "color": "#ff7537ff",
                 "textcolor": "white"
             },
@@ -50195,7 +50195,7 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Move.MovePhrase.PlantingPhrase",
+                    "title": "Move.MoveFrase.PlantingFrase",
                     "color": "#ff7537ff",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -50280,7 +50280,7 @@
                 "textcolor": "#ffffffff"
             },
             {
-                "title": "Move.MovePhrase.PlantingPhrase",
+                "title": "Move.MoveFrase.PlantingFrase",
                 "color": "#ff7537ff",
                 "textcolor": "white"
             },
@@ -50762,7 +50762,7 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Land.LandPhrase",
+                    "title": "Land.LandFrase",
                     "color": "#008000ff",
                     "textcolor": "#ffffffff",
                     "type": "sidecar"
@@ -50845,7 +50845,7 @@
                 "textcolor": "#ffffffff"
             },
             {
-                "title": "Land.LandPhrase",
+                "title": "Land.LandFrase",
                 "color": "#008000ff",
                 "textcolor": "#ffffffff"
             },
@@ -51176,13 +51176,13 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Move.MovePhrase",
+                    "title": "Move.MoveFrase",
                     "color": "#ff7537ff",
                     "textcolor": "white",
                     "type": "sidecar"
                 },
                 {
-                    "title": "Move.MovePhrase.BaggingUpPhrase",
+                    "title": "Move.MoveFrase.BaggingUpFrase",
                     "color": "#ff7537ff",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -51248,7 +51248,7 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Via.ViaSequence.BagUpPhrase",
+                    "title": "Via.ViaSequence.BagUpFrase",
                     "color": "#f83a22b8",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -51301,12 +51301,12 @@
                 "textcolor": "white"
             },
             {
-                "title": "Move.MovePhrase",
+                "title": "Move.MoveFrase",
                 "color": "#ff7537ff",
                 "textcolor": "white"
             },
             {
-                "title": "Move.MovePhrase.BaggingUpPhrase",
+                "title": "Move.MoveFrase.BaggingUpFrase",
                 "color": "#ff7537ff",
                 "textcolor": "white"
             },
@@ -51361,7 +51361,7 @@
                 "textcolor": "white"
             },
             {
-                "title": "Via.ViaSequence.BagUpPhrase",
+                "title": "Via.ViaSequence.BagUpFrase",
                 "color": "#f83a22b8",
                 "textcolor": "white"
             },
@@ -51421,7 +51421,7 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Move.MovePhrase",
+                    "title": "Move.MoveFrase",
                     "color": "#ff7537ff",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -51493,7 +51493,7 @@
                 "textcolor": "white"
             },
             {
-                "title": "Move.MovePhrase",
+                "title": "Move.MoveFrase",
                 "color": "#ff7537ff",
                 "textcolor": "white"
             },
@@ -52756,7 +52756,7 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Guide.Who.PlanterSupervisor",
+                    "title": "Guide.Who.PlantorSupervisor",
                     "color": "#ffffffff",
                     "textcolor": "#000000ff",
                     "type": "sidecar"
@@ -52810,7 +52810,7 @@
                 "textcolor": "#000000ff"
             },
             {
-                "title": "Guide.Who.PlanterSupervisor",
+                "title": "Guide.Who.PlantorSupervisor",
                 "color": "#ffffffff",
                 "textcolor": "#000000ff"
             },
@@ -53339,7 +53339,7 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Dev.Transcription.TranscriptionPhrase",
+                    "title": "Dev.Transcription.TranscriptionFrase",
                     "color": "#ffffffff",
                     "textcolor": "#000000ff",
                     "type": "sidecar"
@@ -53389,7 +53389,7 @@
                 "textcolor": "#000000ff"
             },
             {
-                "title": "Dev.Transcription.TranscriptionPhrase",
+                "title": "Dev.Transcription.TranscriptionFrase",
                 "color": "#ffffffff",
                 "textcolor": "#000000ff"
             },
@@ -53817,7 +53817,7 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Guide.Who.PlanterSupervisor",
+                    "title": "Guide.Who.PlantorSupervisor",
                     "color": "#ffffffff",
                     "textcolor": "#000000ff",
                     "type": "sidecar"
@@ -53881,7 +53881,7 @@
                 "textcolor": "#000000ff"
             },
             {
-                "title": "Guide.Who.PlanterSupervisor",
+                "title": "Guide.Who.PlantorSupervisor",
                 "color": "#ffffffff",
                 "textcolor": "#000000ff"
             },
@@ -54161,7 +54161,7 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Move.MovePhrase",
+                    "title": "Move.MoveFrase",
                     "color": "#ff7537ff",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -54229,7 +54229,7 @@
                 "textcolor": "white"
             },
             {
-                "title": "Move.MovePhrase",
+                "title": "Move.MoveFrase",
                 "color": "#ff7537ff",
                 "textcolor": "white"
             },
@@ -57359,7 +57359,7 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Guide.Who.PlanterInstructor",
+                    "title": "Guide.Who.PlantorInstructor",
                     "color": "#ffffffff",
                     "textcolor": "#000000ff",
                     "type": "sidecar"
@@ -57398,7 +57398,7 @@
                 "textcolor": "#000000ff"
             },
             {
-                "title": "Guide.Who.PlanterInstructor",
+                "title": "Guide.Who.PlantorInstructor",
                 "color": "#ffffffff",
                 "textcolor": "#000000ff"
             },
@@ -57457,13 +57457,13 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Guide.Who.PlanterRecruiter",
+                    "title": "Guide.Who.PlantorRecruiter",
                     "color": "#ffffffff",
                     "textcolor": "#000000ff",
                     "type": "sidecar"
                 },
                 {
-                    "title": "Guide.Who.PlanterSupervisor",
+                    "title": "Guide.Who.PlantorSupervisor",
                     "color": "#ffffffff",
                     "textcolor": "#000000ff",
                     "type": "sidecar"
@@ -57512,12 +57512,12 @@
                 "textcolor": "#000000ff"
             },
             {
-                "title": "Guide.Who.PlanterRecruiter",
+                "title": "Guide.Who.PlantorRecruiter",
                 "color": "#ffffffff",
                 "textcolor": "#000000ff"
             },
             {
-                "title": "Guide.Who.PlanterSupervisor",
+                "title": "Guide.Who.PlantorSupervisor",
                 "color": "#ffffffff",
                 "textcolor": "#000000ff"
             },
@@ -59979,7 +59979,7 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Move.MovePhrase",
+                    "title": "Move.MoveFrase",
                     "color": "#ff7537ff",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -60043,7 +60043,7 @@
                 "textcolor": "white"
             },
             {
-                "title": "Move.MovePhrase",
+                "title": "Move.MoveFrase",
                 "color": "#ff7537ff",
                 "textcolor": "white"
             },
@@ -60420,7 +60420,7 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Move.MovePhrase",
+                    "title": "Move.MoveFrase",
                     "color": "#ff7537ff",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -60470,7 +60470,7 @@
                 "textcolor": "white"
             },
             {
-                "title": "Move.MovePhrase",
+                "title": "Move.MoveFrase",
                 "color": "#ff7537ff",
                 "textcolor": "white"
             },
@@ -60534,7 +60534,7 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Move.MovePhrase",
+                    "title": "Move.MoveFrase",
                     "color": "#ff7537ff",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -60577,7 +60577,7 @@
                 "textcolor": "white"
             },
             {
-                "title": "Move.MovePhrase",
+                "title": "Move.MoveFrase",
                 "color": "#ff7537ff",
                 "textcolor": "white"
             },
@@ -61099,7 +61099,7 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Move.MovePhrase",
+                    "title": "Move.MoveFrase",
                     "color": "#ff7537ff",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -61143,7 +61143,7 @@
                 "textcolor": "#000000ff"
             },
             {
-                "title": "Move.MovePhrase",
+                "title": "Move.MoveFrase",
                 "color": "#ff7537ff",
                 "textcolor": "white"
             },
@@ -62054,19 +62054,19 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Guide.Who.ExperiencedPlanter",
+                    "title": "Guide.Who.ExperiencedPlantor",
                     "color": "#ffffffff",
                     "textcolor": "#000000ff",
                     "type": "sidecar"
                 },
                 {
-                    "title": "Guide.Who.PlanterInstructor",
+                    "title": "Guide.Who.PlantorInstructor",
                     "color": "#ffffffff",
                     "textcolor": "#000000ff",
                     "type": "sidecar"
                 },
                 {
-                    "title": "Guide.Who.RookiePlanter",
+                    "title": "Guide.Who.RookiePlantor",
                     "color": "#ffffffff",
                     "textcolor": "#000000ff",
                     "type": "sidecar"
@@ -62124,17 +62124,17 @@
                 "textcolor": "#000000ff"
             },
             {
-                "title": "Guide.Who.ExperiencedPlanter",
+                "title": "Guide.Who.ExperiencedPlantor",
                 "color": "#ffffffff",
                 "textcolor": "#000000ff"
             },
             {
-                "title": "Guide.Who.PlanterInstructor",
+                "title": "Guide.Who.PlantorInstructor",
                 "color": "#ffffffff",
                 "textcolor": "#000000ff"
             },
             {
-                "title": "Guide.Who.RookiePlanter",
+                "title": "Guide.Who.RookiePlantor",
                 "color": "#ffffffff",
                 "textcolor": "#000000ff"
             },
@@ -63979,7 +63979,7 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Guide.Who.PlanterInstructor",
+                    "title": "Guide.Who.PlantorInstructor",
                     "color": "#ffffffff",
                     "textcolor": "#000000ff",
                     "type": "sidecar"
@@ -64035,7 +64035,7 @@
                 "textcolor": "#000000ff"
             },
             {
-                "title": "Guide.Who.PlanterInstructor",
+                "title": "Guide.Who.PlantorInstructor",
                 "color": "#ffffffff",
                 "textcolor": "#000000ff"
             },
@@ -64746,13 +64746,13 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Guide.Who.PlanterInstructor",
+                    "title": "Guide.Who.PlantorInstructor",
                     "color": "#ffffffff",
                     "textcolor": "#000000ff",
                     "type": "sidecar"
                 },
                 {
-                    "title": "Guide.Who.PlanterInstructor.TeachingPlot",
+                    "title": "Guide.Who.PlantorInstructor.TeachingPlot",
                     "color": "#ffffffff",
                     "textcolor": "#000000ff",
                     "type": "sidecar"
@@ -64832,12 +64832,12 @@
                 "textcolor": "#000000ff"
             },
             {
-                "title": "Guide.Who.PlanterInstructor",
+                "title": "Guide.Who.PlantorInstructor",
                 "color": "#ffffffff",
                 "textcolor": "#000000ff"
             },
             {
-                "title": "Guide.Who.PlanterInstructor.TeachingPlot",
+                "title": "Guide.Who.PlantorInstructor.TeachingPlot",
                 "color": "#ffffffff",
                 "textcolor": "#000000ff"
             },
@@ -65052,7 +65052,7 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Move.MovePhrase",
+                    "title": "Move.MoveFrase",
                     "color": "#ff7537ff",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -65110,7 +65110,7 @@
                 "textcolor": "white"
             },
             {
-                "title": "Move.MovePhrase",
+                "title": "Move.MoveFrase",
                 "color": "#ff7537ff",
                 "textcolor": "white"
             },
@@ -67195,7 +67195,7 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Move.MovePhrase",
+                    "title": "Move.MoveFrase",
                     "color": "#ff7537ff",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -67240,7 +67240,7 @@
                 "textcolor": "white"
             },
             {
-                "title": "Move.MovePhrase",
+                "title": "Move.MoveFrase",
                 "color": "#ff7537ff",
                 "textcolor": "white"
             },
@@ -71968,13 +71968,13 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Via.ViaSequence.BagUpPhrase",
+                    "title": "Via.ViaSequence.BagUpFrase",
                     "color": "#f83a22b8",
                     "textcolor": "white",
                     "type": "sidecar"
                 },
                 {
-                    "title": "Via.ViaSequence.AreaCoverPhrase.Overview",
+                    "title": "Via.ViaSequence.AreaCoverFrase.Overview",
                     "color": "#f83a22b8",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -72001,12 +72001,12 @@
                 "textcolor": "white"
             },
             {
-                "title": "Via.ViaSequence.BagUpPhrase",
+                "title": "Via.ViaSequence.BagUpFrase",
                 "color": "#f83a22b8",
                 "textcolor": "white"
             },
             {
-                "title": "Via.ViaSequence.AreaCoverPhrase.Overview",
+                "title": "Via.ViaSequence.AreaCoverFrase.Overview",
                 "color": "#f83a22b8",
                 "textcolor": "white"
             },
@@ -75798,7 +75798,7 @@
                 {
                     "color": "#9FE1E7",
                     "textcolor": "#000000ff",
-                    "title": "BetaGraph.Phrase",
+                    "title": "BetaGraph.Frase",
                     "type": "sidecar"
                 },
                 {
@@ -75844,7 +75844,7 @@
                 "textcolor": "#000000ff"
             },
             {
-                "title": "BetaGraph.Phrase",
+                "title": "BetaGraph.Frase",
                 "color": "#9FE1E7",
                 "textcolor": "#000000ff"
             },
@@ -76154,7 +76154,7 @@
                 {
                     "color": "#9FE1E7",
                     "textcolor": "#000000ff",
-                    "title": "BetaGraph.Phrase",
+                    "title": "BetaGraph.Frase",
                     "type": "sidecar"
                 },
                 {
@@ -76204,7 +76204,7 @@
                 "textcolor": "#000000ff"
             },
             {
-                "title": "BetaGraph.Phrase",
+                "title": "BetaGraph.Frase",
                 "color": "#9FE1E7",
                 "textcolor": "#000000ff"
             },
@@ -76249,7 +76249,7 @@
                 {
                     "color": "#9FE1E7",
                     "textcolor": "#000000ff",
-                    "title": "BetaGraph.Phrase",
+                    "title": "BetaGraph.Frase",
                     "type": "sidecar"
                 },
                 {
@@ -76273,7 +76273,7 @@
                 "textcolor": "#000000ff"
             },
             {
-                "title": "BetaGraph.Phrase",
+                "title": "BetaGraph.Frase",
                 "color": "#9FE1E7",
                 "textcolor": "#000000ff"
             },
@@ -76755,7 +76755,7 @@
                 {
                     "color": "#9FE1E7",
                     "textcolor": "#000000ff",
-                    "title": "BetaGraph.Phrase",
+                    "title": "BetaGraph.Frase",
                     "type": "sidecar"
                 },
                 {
@@ -76789,7 +76789,7 @@
                 "textcolor": "#000000ff"
             },
             {
-                "title": "BetaGraph.Phrase",
+                "title": "BetaGraph.Frase",
                 "color": "#9FE1E7",
                 "textcolor": "#000000ff"
             },
@@ -77144,13 +77144,13 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "BetaGraph.Phrase.StartElement",
+                    "title": "BetaGraph.Frase.StartElement",
                     "color": "#9fe1e7ff",
                     "textcolor": "#000000ff",
                     "type": "sidecar"
                 },
                 {
-                    "title": "BetaGraph.Phrase.FinishElement",
+                    "title": "BetaGraph.Frase.FinishElement",
                     "color": "#9fe1e7ff",
                     "textcolor": "#000000ff",
                     "type": "sidecar"
@@ -77172,12 +77172,12 @@
                 "textcolor": "#000000ff"
             },
             {
-                "title": "BetaGraph.Phrase.StartElement",
+                "title": "BetaGraph.Frase.StartElement",
                 "color": "#9fe1e7ff",
                 "textcolor": "#000000ff"
             },
             {
-                "title": "BetaGraph.Phrase.FinishElement",
+                "title": "BetaGraph.Frase.FinishElement",
                 "color": "#9fe1e7ff",
                 "textcolor": "#000000ff"
             },
@@ -77208,7 +77208,7 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "BetaGraph.Phrase",
+                    "title": "BetaGraph.Frase",
                     "color": "#9fe1e7ff",
                     "textcolor": "#000000ff",
                     "type": "sidecar"
@@ -77220,7 +77220,7 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "BetaGraph.Phrase.StartElement",
+                    "title": "BetaGraph.Frase.StartElement",
                     "color": "#9fe1e7ff",
                     "textcolor": "#000000ff",
                     "type": "sidecar"
@@ -77242,7 +77242,7 @@
                 "textcolor": "#000000ff"
             },
             {
-                "title": "BetaGraph.Phrase",
+                "title": "BetaGraph.Frase",
                 "color": "#9fe1e7ff",
                 "textcolor": "#000000ff"
             },
@@ -77252,7 +77252,7 @@
                 "textcolor": "#000000ff"
             },
             {
-                "title": "BetaGraph.Phrase.StartElement",
+                "title": "BetaGraph.Frase.StartElement",
                 "color": "#9fe1e7ff",
                 "textcolor": "#000000ff"
             },
@@ -77289,43 +77289,43 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "BetaGraph.Phrase.PhrasePop",
+                    "title": "BetaGraph.Frase.FrasePop",
                     "color": "#9fe1e7ff",
                     "textcolor": "#000000ff",
                     "type": "sidecar"
                 },
                 {
-                    "title": "BetaGraph.Phrase.PhrasePush",
+                    "title": "BetaGraph.Frase.FrasePush",
                     "color": "#9fe1e7ff",
                     "textcolor": "#000000ff",
                     "type": "sidecar"
                 },
                 {
-                    "title": "BetaGraph.Phrase.PhraseInsertion",
+                    "title": "BetaGraph.Frase.FraseInsertion",
                     "color": "#9fe1e7ff",
                     "textcolor": "#000000ff",
                     "type": "sidecar"
                 },
                 {
-                    "title": "BetaGraph.Phrase.PhraseSplice",
+                    "title": "BetaGraph.Frase.FraseSplice",
                     "color": "#9fe1e7ff",
                     "textcolor": "#000000ff",
                     "type": "sidecar"
                 },
                 {
-                    "title": "BetaGraph.Phrase.StartElement",
+                    "title": "BetaGraph.Frase.StartElement",
                     "color": "#9fe1e7ff",
                     "textcolor": "#000000ff",
                     "type": "sidecar"
                 },
                 {
-                    "title": "BetaGraph.Phrase.ReorderPhrase",
+                    "title": "BetaGraph.Frase.ReorderFrase",
                     "color": "#9fe1e7ff",
                     "textcolor": "#000000ff",
                     "type": "sidecar"
                 },
                 {
-                    "title": "BetaGraph.Phrase.InfraElement",
+                    "title": "BetaGraph.Frase.InfraElement",
                     "color": "#9fe1e7ff",
                     "textcolor": "#000000ff",
                     "type": "sidecar"
@@ -77346,37 +77346,37 @@
                 "textcolor": "#000000ff"
             },
             {
-                "title": "BetaGraph.Phrase.PhrasePop",
+                "title": "BetaGraph.Frase.FrasePop",
                 "color": "#9fe1e7ff",
                 "textcolor": "#000000ff"
             },
             {
-                "title": "BetaGraph.Phrase.PhrasePush",
+                "title": "BetaGraph.Frase.FrasePush",
                 "color": "#9fe1e7ff",
                 "textcolor": "#000000ff"
             },
             {
-                "title": "BetaGraph.Phrase.PhraseInsertion",
+                "title": "BetaGraph.Frase.FraseInsertion",
                 "color": "#9fe1e7ff",
                 "textcolor": "#000000ff"
             },
             {
-                "title": "BetaGraph.Phrase.PhraseSplice",
+                "title": "BetaGraph.Frase.FraseSplice",
                 "color": "#9fe1e7ff",
                 "textcolor": "#000000ff"
             },
             {
-                "title": "BetaGraph.Phrase.StartElement",
+                "title": "BetaGraph.Frase.StartElement",
                 "color": "#9fe1e7ff",
                 "textcolor": "#000000ff"
             },
             {
-                "title": "BetaGraph.Phrase.ReorderPhrase",
+                "title": "BetaGraph.Frase.ReorderFrase",
                 "color": "#9fe1e7ff",
                 "textcolor": "#000000ff"
             },
             {
-                "title": "BetaGraph.Phrase.InfraElement",
+                "title": "BetaGraph.Frase.InfraElement",
                 "color": "#9fe1e7ff",
                 "textcolor": "#000000ff"
             }
@@ -78542,7 +78542,7 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Guide.Who.RookiePlanter.RookieStare",
+                    "title": "Guide.Who.RookiePlantor.RookieStare",
                     "color": "#ffffffff",
                     "textcolor": "#000000ff",
                     "type": "sidecar"
@@ -78558,7 +78558,7 @@
                 "textcolor": "#000000ff"
             },
             {
-                "title": "Guide.Who.RookiePlanter.RookieStare",
+                "title": "Guide.Who.RookiePlantor.RookieStare",
                 "color": "#ffffffff",
                 "textcolor": "#000000ff"
             }
@@ -79913,7 +79913,7 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Move.MovePhrase.PlantingPhrase",
+                    "title": "Move.MoveFrase.PlantingFrase",
                     "color": "#ff7537ff",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -79959,7 +79959,7 @@
                 "textcolor": "#ffffffff"
             },
             {
-                "title": "Move.MovePhrase.PlantingPhrase",
+                "title": "Move.MoveFrase.PlantingFrase",
                 "color": "#ff7537ff",
                 "textcolor": "white"
             },
@@ -80171,7 +80171,7 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Move.MovePhrase.BaggingUpPhrase",
+                    "title": "Move.MoveFrase.BaggingUpFrase",
                     "color": "#ff7537ff",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -80199,7 +80199,7 @@
                 "textcolor": "#ffffffff"
             },
             {
-                "title": "Move.MovePhrase.BaggingUpPhrase",
+                "title": "Move.MoveFrase.BaggingUpFrase",
                 "color": "#ff7537ff",
                 "textcolor": "white"
             },
@@ -80750,7 +80750,7 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Move.MovePhrase.PlantingPhrase",
+                    "title": "Move.MoveFrase.PlantingFrase",
                     "color": "#ff7537ff",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -80849,7 +80849,7 @@
                 "textcolor": "white"
             },
             {
-                "title": "Move.MovePhrase.PlantingPhrase",
+                "title": "Move.MoveFrase.PlantingFrase",
                 "color": "#ff7537ff",
                 "textcolor": "white"
             },
@@ -81173,7 +81173,7 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Move.MovePhrase.BaggingUpPhrase",
+                    "title": "Move.MoveFrase.BaggingUpFrase",
                     "color": "#ff7537ff",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -81262,7 +81262,7 @@
                 "textcolor": "white"
             },
             {
-                "title": "Move.MovePhrase.BaggingUpPhrase",
+                "title": "Move.MoveFrase.BaggingUpFrase",
                 "color": "#ff7537ff",
                 "textcolor": "white"
             },
@@ -81443,7 +81443,7 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Move.MovePhrase.BaggingUpPhrase",
+                    "title": "Move.MoveFrase.BaggingUpFrase",
                     "color": "#ff7537ff",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -81529,7 +81529,7 @@
                 "textcolor": "white"
             },
             {
-                "title": "Move.MovePhrase.BaggingUpPhrase",
+                "title": "Move.MoveFrase.BaggingUpFrase",
                 "color": "#ff7537ff",
                 "textcolor": "white"
             }
@@ -81617,7 +81617,7 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Move.MovePhrase.BaggingUpPhrase",
+                    "title": "Move.MoveFrase.BaggingUpFrase",
                     "color": "#ff7537ff",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -81759,7 +81759,7 @@
                 "textcolor": "#ffffffff"
             },
             {
-                "title": "Move.MovePhrase.BaggingUpPhrase",
+                "title": "Move.MoveFrase.BaggingUpFrase",
                 "color": "#ff7537ff",
                 "textcolor": "white"
             },

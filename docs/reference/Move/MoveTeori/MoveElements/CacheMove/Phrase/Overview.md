@@ -1,4 +1,4 @@
-# 🟠 <move>Cache Phrase</move>
+# 🟠 <move>Cache Frase</move>
 
 ## Bagging Up
 

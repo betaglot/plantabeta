@@ -91,7 +91,7 @@ Not worth the trouble
 
 - Computational Geometry
 - The interface between Move, Psike and Eko.
-- Via is an abstract layer on top of Eko. A via is where the Planter
+- Via is an abstract layer on top of Eko. A via is where the Plantor
 - A vias start and finish at the Cache.
 
 ### Purpose of Via
@@ -144,7 +144,7 @@ Directions
 
 - Via Affects productivity the most because via has deadwalking and cache positioning. Via Starts and Finishes at the cache.
 
-- Even the most atheletic planter is wasting time during deadwalking. Minimizing deadwalking benefits all planters and supervisors.
+- Even the most atheletic plantor is wasting time during deadwalking. Minimizing deadwalking benefits all plantors and supervisors.
 
 ---
 
@@ -243,8 +243,8 @@ Eko is decomposed by composing a Via
 - PlantingProcess_LandApproach_FlyIn_Helicopter
 - PlantingProcess_LandApproach_WalkIn_WalkInTime
 - PlantingProcess_LandBriefing_FingerPointing_ArmMove
-- PlantingProcess_LandBriefing_PlanterSupervisor_BlockDiagram
-- PlantingProcess_LandBriefing_PlanterSupervisor_LandDiagram
+- PlantingProcess_LandBriefing_PlantorSupervisor_BlockDiagram
+- PlantingProcess_LandBriefing_PlantorSupervisor_LandDiagram
 - PlantingProcess_LandManagement_Error_DeadWalking_Definition_
 - PlantingProcess_LandManagement_Error_PinchedLand_WasteOfEnergy_
 - PlantingProcess_LandManagement_Landmark_Boulder_RelativeLocation_
@@ -257,7 +257,7 @@ Eko is decomposed by composing a Via
 - PlantingProcess_LandManagement_Orientation_Landmark_LandmarkAlignment_
 - PlantingProcess_LandManagement_PartnerPlanting_InsideLandBorderline_LandDiagram_
 - PlantingProcess_LandManagement_PartnerPlanting_InsideLandBorderline_TreeMarka_
-- PlantingProcess_LandManagement_PlanterEfficiency_DeadWalking
+- PlantingProcess_LandManagement_PlantorEfficiency_DeadWalking
 - PlantingProcess_LandManagement_ViaLine_OptimalViaLine_StraightLine_
 - PlantingProcess_LandManagement_TreeCacheLocation_RoadCacheAboveLand_LineIn_WalkDownSlope
 - PlantingProcess_LandManagement_TreeCacheLocation_RoadCacheAboveLand
@@ -269,7 +269,7 @@ Eko is decomposed by composing a Via
 - PlantingProcess_LandManagement_TreeDensity_VisualPlot_Brain_
 - PlantingProcess_LandManagement_TreeSpacing_MinimumTreeSpacing_ResidualLand_
 
-- PlantingProcess_LastBagUp_BagOutTime_PlanterPickUpTime_PlanterSupervisor_
+- PlantingProcess_LastBagUp_BagOutTime_PlantorPickUpTime_PlantorSupervisor_
 - PlantingProcess_LastBagUp_Finish=CountdownTo(TreeCount=0)_PlantingEfficiency
 - PlantingProcess_LastBagUp_FinishByLand_BlockClosure
 - PlantingProcess_LastBagUp_FinishByTreeCount_TargetTreeCount

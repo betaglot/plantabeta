@@ -70,9 +70,9 @@ Noun
 
 ::: info 🔷<beta>Put(<eko>Plant</eko>)</beta>'s **Mission**
 
-- To create a **open source** resource for planters where all knowledge about being a tree planter is coherent and integrated into a single system which can be used to plant any type of land.
-- To research and implement ways to make planters more effective by applying scientific research to planter instruction.
-- To improve the tools that planters use.
+- To create a **open source** resource for plantors where all knowledge about being a tree plantor is coherent and integrated into a single system which can be used to plant any type of land.
+- To research and implement ways to make plantors more effective by applying scientific research to plantor instruction.
+- To improve the tools that plantors use.
 :::
 
 ::: info 🔷<beta>Put(<eko>Plant</eko>)</beta>'s **Vision**
@@ -100,13 +100,13 @@ Flexibility gives systems resilience, they are able to return quickly to a previ
 
 ### A Progressive System
 
-🔷<beta>Put(<eko>Plant</eko>)</beta> is a "progressive" system, meaning that Planbeta grows with your planting experience. If you're a Novice Planter, then 🔷<beta>Put(<eko>Plant</eko>)</beta>'s library of reference material, guides, tests and video tutorials (🛠 coming soon!) will help you to learn how to be a planter without becoming overwhelmed in your first week on the job.
+🔷<beta>Put(<eko>Plant</eko>)</beta> is a "progressive" system, meaning that Planbeta grows with your planting experience. If you're a Novice Plantor, then 🔷<beta>Put(<eko>Plant</eko>)</beta>'s library of reference material, guides, tests and video tutorials (🛠 coming soon!) will help you to learn how to be a plantor without becoming overwhelmed in your first week on the job.
 
-If you're an Experienced Planter, then 🔷<beta>Put(<eko>Plant</eko>)</beta> gives you the resources to find and Cover your knowledge gaps, so that you can unlock your full planting potential.
+If you're an Experienced Plantor, then 🔷<beta>Put(<eko>Plant</eko>)</beta> gives you the resources to find and Cover your knowledge gaps, so that you can unlock your full planting potential.
 
 ### A Community System
 
-🔷<beta>Put(<eko>Plant</eko>)</beta> combines the best practices of the Planting Industry to offer the most robust and planter friendly planter system available. In addition, dozens of talented planters from across Canada have [contributed to the system](/dev/Contribute). Who knows, maybe you'll even become a 🔷<beta>Put(<eko>Plant</eko>)</beta> contributor.
+🔷<beta>Put(<eko>Plant</eko>)</beta> combines the best practices of the Planting Industry to offer the most robust and plantor friendly plantor system available. In addition, dozens of talented plantors from across Canada have [contributed to the system](/dev/Contribute). Who knows, maybe you'll even become a 🔷<beta>Put(<eko>Plant</eko>)</beta> contributor.
 
 #### What is an Open Source project? -->
 
@@ -121,7 +121,7 @@ If you're an Experienced Planter, then 🔷<beta>Put(<eko>Plant</eko>)</beta> gi
 
 - You can plant trees without Beta. PlantaBeta isn't required to plant
 - PlantaBeta is written like a computer programming language function since it's the application of computational thinking.
-- PutPlant.com is only used for learning and research. It's not meant to be used everyday by planters. People don't use textbooks everyday.
+- PutPlant.com is only used for learning and research. It's not meant to be used everyday by plantors. People don't use textbooks everyday.
 - Shift the Color of Plantations towards green
 
 <h2>PageTags</h2>
@@ -131,7 +131,7 @@ If you're an Experienced Planter, then 🔷<beta>Put(<eko>Plant</eko>)</beta> gi
 - "Guide.What.WhatElement.ElementName.Affix"
 - "Guide.What.WhatElement.Euclid"
 - "Guide.What.WhatPlantaBeta"
-- "Guide.What.WhatPlantaBeta.PlanterQuestion"
+- "Guide.What.WhatPlantaBeta.PlantorQuestion"
 - "Guide.What.WhatPlantaBeta.Product"
 - "Guide.What.WhatPlantaBeta.Service"
 

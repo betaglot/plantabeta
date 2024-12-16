@@ -4,7 +4,7 @@
 
 ## TreeGrip Purpose
 
-- TreeGrip is the interface between Planter and Seedling.
+- TreeGrip is the interface between Plantor and Seedling.
 
 ## TreeGrip Parameters
 
@@ -31,7 +31,7 @@
 - BagCover
 - TreeRemove
 
-### <move>PodGrip Phrase</move>
+### <move>PodGrip Frase</move>
 
 <div style="display: flex">
     <div>
@@ -50,7 +50,7 @@
 
 ## StemGrip
 
-### <move>StemGrip Phrase</move>
+### <move>StemGrip Frase</move>
 
 <div style="display: flex">
     <div>

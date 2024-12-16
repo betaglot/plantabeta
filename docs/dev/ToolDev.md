@@ -2,20 +2,39 @@
 
 The most important constraint for Tools is the space it takes in the Truck.
 
-![TreePlanter](/TreePlanter001.jpg)
-![TreePlanter](/TreePlanter.jpg)
+![TreePlantor](/TreePlantor001.jpg)
+![TreePlantor](/TreePlantor.jpg)
 
-## 🔷<beta>BetaTrailer</beta>
+## 🔷<beta>TrailerDev</beta>
 
-A trailer loaded with everthing that PLANTERS need for their season. For planters only, not for company logistics like water purification or showers or kitchen.
+A trailer loaded with everthing that PLANTERS need for their season. For plantors only, not for company logistics like water purification or showers or kitchen.
 
-### Analogous to
+> What your company needs to join the cutting edge of tree plantor technology
+
+### Analogous to:
 
 - GearRoom
 - GearShed
 - GearCloset
+- Ministry Warehouse trailer in FireCamp
+
+- Trailer used by Rescue teams
+
+#### Not
+
+Not a place where many duplicates items are stored
+
+- Warehouse
+- stockhouse
+- storehouse
+- repository
+- storage
+
+#### ToolRequirements()
 
 ## 🔻<via>MarkaDev</via>
+
+#### ToolRequirements()
 
 - How are notebooks perforated?
 - Marka wrap is waiter bill fold
@@ -38,16 +57,22 @@ Wax to waterproof
 
 ## 🟠<move>CartDev</move>
 
+### ToolRequirements()
+
 - WalkIn
 - BoxMove
 
 ## 🟠<move>DoryDev</move>
 
+### ToolRequirements()
+
 Greek for Spear
 
 Lash D to Dory
 
-## 🟠<move>Planter BagsDev</move>
+## 🟠<move>Plantor BagsDev</move>
+
+### ToolRequirements()
 
 ::: warning Obsolete Name
 Don't call them bags anymore
@@ -61,18 +86,17 @@ Partially Disassemble to reduce space
 
 ### 'Basket' instead of 'Sidebags'
 
-`Analogy{Saddle: PlanterBag}`
+`Analogy{Saddle: PlantorBag}`
 
 ### 🟠<move>Bag MaterialDev</move>
+
+### ToolRequirements()
 
 - Not plastic
 - Carbon Fiber
 -
 
-### 🟠<move>CorsetDev</move>
 
-- Planters wear a corset under their waist belt like a saddle pad
-- Corset restricts BendOver
 
 ### 🟠<move>WaistbeltDev</move>
 
@@ -125,17 +149,18 @@ Pannier
 - Use waterproof Flap instead of sphincter design, since sphincter allows water to collect and slowly seep into backbag.
 - Pocket on underside of Flap
 
-### <eko>Warmth</eko>
 
-- Vambrace triplet brochure conductive metal sheets to wear on core then transfer to forearms
-    - Extra weight for more heat during cold weather
-- Gaunlet which extends up forarm for protection and warmth.
-- You only need to worry about the back of your hands. Glabrous warms the palm
-- Wool lining
 
 ### 🟠<move>MarkorDev</move>
 
-Ideally there would be a Markor on each Vambrace
+Ideally there would be a Markor on each Ulnor
+
+- Stored in many places like a knife thrower in Assassins Creed doesn't throw from the same place each time. Take from wherever is most convenient.
+
+- SpadeMarkor
+- KnemidesMarkor
+
+### PolyMarkor
 
 ## 🟠<move>RopeDev</move>
 
@@ -160,9 +185,14 @@ Cordura or Kevlar
 
 ## 🟠<move>KitDev</move>
 
+### Requirements
+
+- Kit must be able to be carried at the same time as Bags.
+- Water, Food, Gloves, ShellLayer, WarmLayer,
+
 Long thin bag is easier to sit with
 
-Theres air space between planter and the seat in front of them
+Theres air space between plantor and the seat in front of them
 
 V shape center contact between feet
 
@@ -170,10 +200,8 @@ Cover water with insulation layer at cache
 
 What could go at base
 
+- Fremkit from Dune
 - Water container in base so that it doesn't crush or leak onto contents and so weight is close to hips
-
-- Kit must be able to be carried at the same time as Bags.
-
 - BagCover which can be worn as a Cape when it's really rainy or wet
     - Wear the bag
 
@@ -191,7 +219,51 @@ Protein Powder Cookies
 
 ## <move>Water VolumeDev</move>
 
-## 🟠<move>PlanterSuitDev</move>
+## 🟠<move>PlantorSuitDev</move>
+
+### 🟠<move>UlnorDev</move>
+
+#### Etimology(Ulnor)
+
+"Ulna" + "or" :: Agent of Forearm
+
+::: tip AlsoKnownAs
+Bracer, Gauntlet,
+:::
+
+- <https://eu.directactiongear.com/en/grg-pouchr.html#RGR>
+
+"han kote" is a Japanese Vambrace
+
+Vambrace with a Glove under
+
+The goal of vambrace is to keep the hand clean and warm. There isn't a need to protect the forearm like military vambraces
+
+#### Design Constraint
+
+- The prinicipal constraint is being able to fit your hand, proximal of the knuckles, into the OpenHole without getting snagged on the hole.
+
+#### Lightyear Notepad
+
+- Vambrace triplet brochure conductive metal sheets to wear on core then transfer to forearms
+    - Extra weight for more heat during cold weather
+- Gaunlet which extends up forarm for protection and warmth.
+- You only need to worry about the back of your hands. Glabrous warms the palm
+- Wool lining
+
+## 🟠<move>PaddingDev</move>
+
+- HipPadding
+- KneePadding
+- ShoulderPadding
+- Hockey Padding which doesn't have a shell
+
+### Corset
+
+- Plantors wear a corset under their waist belt like a saddle pad
+- Corset restricts BendOver
+
+The Blanket which goes on a horse, before and under the saddle.
 
 ### Design Constraint
 
@@ -217,14 +289,31 @@ SuitParts = [
 
 ```
 
-### 🟠<move>GaiterDev</move>
+### 🟠<move>TibiorDev</move>
 
+#### Aliases
+
+- Greaves
+- Gaiter
+- ShinGuard
+
+#### Etimologi(Tibior)
+
+"Tibia" + "or" :: Agent of Tibia
+
+> Protects Shins
+
+#### ToolRequirements(Tibior)
+
+
+- Shell
 - Wire stirrup,not woven
 - Extra padding to strengthen attachment point and to prevent erosion from metal wire from rubbing on boot leather.
 - Big zipper
--
 
 ### 🟠<move>GloveDev</move>
+
+#### ToolRequirements()
 
 - Gloveon() ThumbTab
 - SplitMitt Shell
@@ -239,31 +328,12 @@ SuitParts = [
 - Do gloves need to be tight?
 
 - Glove which can have fingers repaired. At least the Middle Three fingers.
-- Glove which does not collect dirt unlike the knitted gloves currently used by most planters
+- Glove which does not collect dirt unlike the knitted gloves currently used by most plantors
 - Easily taken off without getting dirt inside
 
-### 🟠<move>VambraceDev</move>
+### KranosDev
 
-::: tip AlsoKnownAs
-Bracer, Gauntlet,
-:::
-
-![GRG Pouch](/po-grgp-nln-detail03.jpg)
-![GRG Pouch](/po-grgp-nln-detail04.jpg)
-
-- <https://eu.directactiongear.com/en/grg-pouchr.html#RGR>
-
-"han kote" is a Japanese Vambrace
-
-Vambrace with a Glove under
-
-The goal of vambrace is to keep the hand clean and warm. There isn't a need to protect the forearm like military vambraces
-
-#### Design Constraint
-
-- The prinicipal constraint is being able to fit your hand, proximal of the knuckles, into the OpenHole without getting snagged on the hole.
-
-#### Lightyear Notepad
+Etimologi
 
 ### 🟠<move>JacketDev</move>
 

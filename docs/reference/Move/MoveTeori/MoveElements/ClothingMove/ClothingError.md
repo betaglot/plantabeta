@@ -1,3 +1,0 @@
-# 🟠<move>ClothingError</move>
-
-## ClothingSnag

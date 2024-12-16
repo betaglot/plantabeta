@@ -1,9 +1,9 @@
 
-# Planter Instructor
+# Plantor Instructor
 
-> A person who teaches NovicePlanters and ExperiencedPlanters how to increase their planting ability.
+> A person who teaches NovicePlantors and ExperiencedPlantors how to increase their planting ability.
 
-::: tip Currently this position only exists in a few companies, unfortunately they only teach NovicePlanters.
+::: tip Currently this position only exists in a few companies, unfortunately they only teach NovicePlantors.
 :::
 
 ## Expertise Induced Amnesia
@@ -30,20 +30,20 @@
 
 ## Use PlantaBeta After the Season
 
-## Your Tasks as a Planter Instructor
+## Your Tasks as a Plantor Instructor
 
 - Observe Novices to see which elements and Factors each are lacking and to give the Novice a report on things to work on.
-    - Report for Planters
+    - Report for Plantors
 - Observe HighBallers to see which elements and Factors they could improve and to add detail to the current elements.
     - Report
 - Talk to Novices about their experience to gain insights about their perspective.
 - Demonstrate planting in every type of land
-- Assign Podcasts for Planters to listen to while planting
+- Assign Podcasts for Plantors to listen to while planting
     - HubermanLab series [with Guest Andy Galpin](https://www.youtube.com/playlist?list=PLPNW_gerXa4N_PVVoq0Za03YKASSGCazr)
 
 ::: danger Unteachable Character Traits
 
-A Planter can know everything about how to be a Planter, but still not plant to their maximum potential. This is because to be an elite Planter you must have character traits which can't be taught. Perhaps they can be cultivated by a sports psychologist, but this is currently outside the scope of PlantaBeta and the rest of the planting industry.  
+A Plantor can know everything about how to be a Plantor, but still not plant to their maximum potential. This is because to be an elite Plantor you must have character traits which can't be taught. Perhaps they can be cultivated by a sports psychologist, but this is currently outside the scope of PlantaBeta and the rest of the planting industry.  
 
 Such traits include:
 
@@ -82,15 +82,15 @@ Percentages
 <h2>PageTags</h2>
 
 - "Dev.Pedagogy"
-- "Dev.Pedagogy.Curriculum.LessonPhrase"
+- "Dev.Pedagogy.Curriculum.LessonFrase"
 - "Dev.Pedagogy.Curriculum.Timeline"
-- "Dev.PlanterMetaInstructor"
-- "Guide.Who.PlanterInstructor"
-- "Guide.Who.PlanterInstructor.Handout"
-- "Guide.Who.PlanterInstructor.InstructorGuide.Curriculum"
-- "Guide.Who.PlanterInstructor.InstructorGuide.Template"
-- "Guide.Who.PlanterInstructor.TeachingBlock"
-- "Guide.Who.PlanterInstructor.TeachingPiece"
-- "Guide.Who.PlanterInstructor.TeachingPlot"
+- "Dev.PlantorMetaInstructor"
+- "Guide.Who.PlantorInstructor"
+- "Guide.Who.PlantorInstructor.Handout"
+- "Guide.Who.PlantorInstructor.InstructorGuide.Curriculum"
+- "Guide.Who.PlantorInstructor.InstructorGuide.Template"
+- "Guide.Who.PlantorInstructor.TeachingBlock"
+- "Guide.Who.PlantorInstructor.TeachingPiece"
+- "Guide.Who.PlantorInstructor.TeachingPlot"
 
 :::
