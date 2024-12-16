@@ -1,41 +1,41 @@
 
-# 🔷🟠 <moto>Move</moto> Risk
+# 🔷🟠 <move>Move</move> Risk
 
 ## Definition
 
 - Probability
-    - <moto>Move</moto> Risk is about a <moto>Move</moto>'s <neuro>probability</neuro> of success, not risk of injury. **There should be no risk of injury while Climbing**
+    - <move>Move</move> Risk is about a <move>Move</move>'s <psike>probability</psike> of success, not risk of injury. **There should be no risk of injury while Climbing**
     - Improbable, Remote, Occasional, Probable, Frequent
-- Consequence of <moto>MoveError</moto>
+- Consequence of <move>MoveError</move>
     - Negligible, Marginal, Moderate, Critical, Catastrophic
 Risky Moves have a small margin for error.
 
 ::: warning
 To minimize the Risk of Injury Climbers **MUST** avoid these Moves:
 
-- <moto>Dynamic Moves</moto> using <eko>PocketHolds</eko> can <moto>injure finger joints</moto>.
-- <moto>HandCrack</moto> Climbing without gloves or tape can rip the skin on the back of hand and wrist.
-- <moto>Dynoing</moto> down to a <eko>hold</eko> can injure shoulder joints.
+- <move>Dynamic Moves</move> using <eko>PocketHolds</eko> can <move>injure finger joints</move>.
+- <move>HandCrack</move> Climbing without gloves or tape can rip the skin on the back of hand and wrist.
+- <move>Dynoing</move> down to a <eko>hold</eko> can injure shoulder joints.
 :::
 
-## Examples of <moto>Move Risk</moto>
+## Examples of <move>Move Risk</move>
 
-Risk of <moto>Dabbing</moto>
+Risk of <move>Dabbing</move>
 
-### Low Risk <moto>Move</moto>
+### Low Risk <move>Move</move>
 
-- <moto>Statically Movement</moto> on <eko>JugHold</eko>.
+- <move>Statically Movement</move> on <eko>JugHold</eko>.
 
-### High Risk <moto>Move</moto>
+### High Risk <move>Move</move>
 
-- <moto>BodyDrop</moto> onto a <via>RouteSurface</via>
-- <moto>FootSwap</moto> on <eko>featureless SlabWall</eko>.
-- <moto>Catching</moto> a <eko>HiddenHold</eko>
-- <moto>Dynamic SlotMove</moto>
-- No <moto>Recovery Movement</moto> possible
-- <moto>Irreversible MoveSequence</moto>
+- <move>BodyDrop</move> onto a <via>RouteSurface</via>
+- <move>FootSwap</move> on <eko>featureless SlabWall</eko>.
+- <move>Catching</move> a <eko>HiddenHold</eko>
+- <move>Dynamic SlotMove</move>
+- No <move>Recovery Movement</move> possible
+- <move>Irreversible MoveSequence</move>
 
-## <neuro>Probability</neuro>
+## <psike>Probability</psike>
 
 Levels of Probability
 
@@ -45,11 +45,11 @@ Levels of Probability
 
 MotoRisk.Probability1: Improbable
 
-- <moto>JugGrip.Error.Slip</moto>
+- <move>JugGrip.Error.Slip</move>
 
 MotoRisk.Probability2: Remote
 
-- <moto>Fall</moto> from <moto>SlipMovement</moto> when all other Contacts are Stable.
+- <move>Fall</move> from <move>SlipMovement</move> when all other Contacts are Stable.
 
 Probability3: Occasional
 
@@ -57,9 +57,9 @@ Probability4: Probable
 
 MotoRisk.Probability5: Frequent
 
-- <moto>CrimpGrip.SharpHold</moto>
-- <moto>OneFingerCatch</moto>
-- <moto>DownDyno</moto>
+- <move>CrimpGrip.SharpHold</move>
+- <move>OneFingerCatch</move>
+- <move>DownDyno</move>
 
 > “The first and last down jump”
 
@@ -67,7 +67,7 @@ MyKeysToRouteSetting(191)
 
 ### Prediction
 
-The inability to <neuro>predict</neuro> what a <moto>Movement</moto> or <via>Route</via> part will feel like increases the Risk, such as when <beta>onsighting</beta> a  <via>Route</via>
+The inability to <psike>predict</psike> what a <move>Movement</move> or <via>Route</via> part will feel like increases the Risk, such as when <beta>onsighting</beta> a  <via>Route</via>
 
 ## Consequence
 
@@ -133,7 +133,7 @@ Security
 > “touch and go”\A maneuver in which an aircraft touches the ground as in landing and immediately takes off again
 
 - <eko>SlabClimbing</eko>
-- <moto>RicochetJump</moto>
+- <move>RicochetJump</move>
 
 ## Advantage
 
@@ -147,27 +147,27 @@ ClimberHeight
 
 ### Accuracy
 
-<moto>SlotMovement</moto>
+<move>SlotMovement</move>
 
 - (<eko>PocketHoldSize</eko>)InverselyProportionalTo(Risk)
 - <eko>BlockerHold</eko>
-    - <moto>FingerSlot</moto> into a <eko>TwoFingerPocketHold</eko> is Risky.
+    - <move>FingerSlot</move> into a <eko>TwoFingerPocketHold</eko> is Risky.
     - Adding a <eko>BlockerHold</eko> increases the Risk that the Climber will miss the <via>RouteSurface</via>.
 
-<moto>RiskOfLosingGrip</moto> from being Gripped in <via>IncorrectRoutePosition</via> and or <via>IncorrectLoadingAngleRange</via>.
+<move>RiskOfLosingGrip</move> from being Gripped in <via>IncorrectRoutePosition</via> and or <via>IncorrectLoadingAngleRange</via>.
 
-- <moto>HandSlip</moto>
-    - CausedBy(<moto>GripEndurance</moto>)
+- <move>HandSlip</move>
+    - CausedBy(<move>GripEndurance</move>)
 
-<moto>HandCatch</moto>
+<move>HandCatch</move>
 
-- <beta>Microbeta</beta> about <moto>FingerPosition</moto>.
-    - <moto>HandPianoSwap</moto> on <via>Gioia</via> (V15)
+- <beta>Microbeta</beta> about <move>FingerPosition</move>.
+    - <move>HandPianoSwap</move> on <via>Gioia</via> (V15)
     - <eko>BowlingBallHold</eko>
         - <eko>MultiplePocketHold</eko>
-            - <moto>PinchPocketGrip</moto>
+            - <move>PinchPocketGrip</move>
     - When the position of each finger on a <eko>RockCrystal</eko> matters.
-        - <moto>HandPosition@(HandCatch)</moto>
+        - <move>HandPosition@(HandCatch)</move>
     - Rotpunkt(2019)\Rotpunkt | [Alex Megos and the Advent, the Agony and the Art of the Redpoint](https://youtu.be/SbWvFjUIt5k?t=2338)
 
 BodyPosition

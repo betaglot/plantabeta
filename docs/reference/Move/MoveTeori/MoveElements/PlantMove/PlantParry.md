@@ -1,5 +1,5 @@
 
-# 🟠 <moto>VegeParry</moto>
+# 🟠 <move>VegeParry</move>
 
 > Use a VegeParry to redirect vegetation which is colliding with you.  
 
@@ -25,7 +25,7 @@ When vegetation is blowing branches, grass and shrubs into you.
 - Tool2
 - Tool3
 
-## <moto>Move Phrase</moto>
+## <move>Move Phrase</move>
 
 <div style="display: flex">
     <div>
@@ -59,7 +59,7 @@ When vegetation is blowing branches, grass and shrubs into you.
     src="https://observablehq.com/embed/@d3/force-directed-graph/2?cells=chart"
 ></iframe>
 
-## Related <moto>MotoFactors</moto>
+## Related <move>MotoFactors</move>
 
 -
 
@@ -71,7 +71,7 @@ When vegetation is blowing branches, grass and shrubs into you.
 
 -
 
-## Related 💜<neuro>NeuroFactors</neuro>
+## Related 💜<psike>NeuroFactors</psike>
 
 -  
 

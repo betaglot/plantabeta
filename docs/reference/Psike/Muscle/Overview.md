@@ -1,4 +1,4 @@
-# 💜 <neuro>Muscle</neuro>
+# 💜 <psike>Muscle</psike>
 
 ## Slow Twitch Muscle
 

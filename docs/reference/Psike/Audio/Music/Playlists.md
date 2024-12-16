@@ -1,5 +1,5 @@
 
-# 💜 <neuro>Playlists</neuro>
+# 💜 <psike>Playlists</psike>
 
 ![NeuroIcon](/Psike/Neuro_Icon.png)
 
@@ -39,13 +39,13 @@ Answer 3
     src="https://observablehq.com/embed/@d3/force-directed-graph/2?cells=chart"
 ></iframe>
 
-## Related 💜<neuro>NeuroFactors</neuro>
+## Related 💜<psike>NeuroFactors</psike>
 
-## Related 🟠<moto>MotoFactors</moto>
+## Related 🟠<move>MotoFactors</move>
 
-- Description of how this <neuro>NeuroFactor </neuro>relates to a particular [<moto>MotoFactor</moto>](/encyclopedia/Move/MotoOverview).
-- Description of how this <neuro>NeuroFactor </neuro>relates to a particular [<moto>MotoFactor</moto>](/encyclopedia/Move/MotoOverview).
-- Description of how this <neuro>NeuroFactor </neuro>relates to a particular [<moto>MotoFactor</moto>](/encyclopedia/Move/MotoOverview).
+- Description of how this <psike>NeuroFactor </psike>relates to a particular [<move>MotoFactor</move>](/encyclopedia/Move/MotoOverview).
+- Description of how this <psike>NeuroFactor </psike>relates to a particular [<move>MotoFactor</move>](/encyclopedia/Move/MotoOverview).
+- Description of how this <psike>NeuroFactor </psike>relates to a particular [<move>MotoFactor</move>](/encyclopedia/Move/MotoOverview).
 
 ## Related 🟩<eko>EcoFactors</eko>
 

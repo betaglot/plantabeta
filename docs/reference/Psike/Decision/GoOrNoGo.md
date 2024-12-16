@@ -1,5 +1,5 @@
 
-# 💜 <neuro>GoOrNoGo </neuro>
+# 💜 <psike>GoOrNoGo </psike>
 
 ## Unplantable?
 

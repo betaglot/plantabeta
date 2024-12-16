@@ -1,5 +1,5 @@
 
-# 🔷 <moto>Truck Phrase</moto>
+# 🔷 <move>Truck Phrase</move>
 
 ---
 

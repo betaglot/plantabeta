@@ -6,7 +6,7 @@
 
 Unbundle heuristic during team plant block close
 
-### ❌ Team.Error.Move 🟠<moto></moto>
+### ❌ Team.Error.Move 🟠<move></move>
 
 ### ❌Team.Error.Via 🔻<via></via>
 
@@ -26,7 +26,7 @@ TeamVia instead of team cover
 
 Via is the only beta factor shared by team
 
-### Team.Error.Psike 💜<neuro></neuro>
+### Team.Error.Psike 💜<psike></psike>
 
 - Misscommunication
 - Uncommunication

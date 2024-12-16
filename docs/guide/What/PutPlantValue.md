@@ -101,7 +101,7 @@
 ### Reduces Effort
 
 - Put(Plant) informs Planters on the
-- Increased <neuro>CognitiveEase</neuro> leads to feelings of effortlessness.
+- Increased <psike>CognitiveEase</psike> leads to feelings of effortlessness.
 - Fluid moto through the Eko.
 - Reduces the distance travelled by Planters by using efficient Routing.
 

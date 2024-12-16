@@ -1,5 +1,5 @@
 
-# <neuro>Estimation</neuro>
+# <psike>Estimation</psike>
 
 ::: details 🛠 <dev>&&&</dev>
 

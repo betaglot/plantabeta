@@ -1,4 +1,4 @@
-# 🟠<moto>StaffSlide</moto>
+# 🟠<move>StaffSlide</move>
 
 ---
 

@@ -1,5 +1,5 @@
 
-# 💜 <neuro>Fear </neuro>
+# 💜 <psike>Fear </psike>
 
 ## Doubt
 

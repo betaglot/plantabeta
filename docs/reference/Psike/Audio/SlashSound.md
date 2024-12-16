@@ -1,5 +1,5 @@
 
-# 💜 <neuro>Slash Sound </neuro>
+# 💜 <psike>Slash Sound </psike>
 
 ## Falling
 

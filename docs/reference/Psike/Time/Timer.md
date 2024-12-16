@@ -1,5 +1,5 @@
 
-# 💜 <neuro>Timer </neuro>
+# 💜 <psike>Timer </psike>
 
 ![NeuroIcon](/Psike/Neuro_Icon.png)
 
@@ -39,17 +39,17 @@ Answer 3
     src="https://observablehq.com/embed/@d3/force-directed-graph/2?cells=chart"
 ></iframe>
 
-## Related 💜<neuro>NeuroFactors</neuro>
+## Related 💜<psike>NeuroFactors</psike>
 
-## Related 🟠<moto>MotoFactors</moto>
+## Related 🟠<move>MotoFactors</move>
 
 -
 
 ## Related 🟩<eko>EcoFactors</eko>
 
-- Description of how this <neuro>NeuroFactor </neuro>relates to a particular [EcoFactor](/encyclopedia/Eko/EcoOverview).
-- Description of how this <neuro>NeuroFactor </neuro>relates to a particular [EcoFactor](/encyclopedia/Eko/EcoOverview).
-- Description of how this <neuro>NeuroFactor </neuro>relates to a particular [EcoFactor](/encyclopedia/Eko/EcoOverview).
+- Description of how this <psike>NeuroFactor </psike>relates to a particular [EcoFactor](/encyclopedia/Eko/EcoOverview).
+- Description of how this <psike>NeuroFactor </psike>relates to a particular [EcoFactor](/encyclopedia/Eko/EcoOverview).
+- Description of how this <psike>NeuroFactor </psike>relates to a particular [EcoFactor](/encyclopedia/Eko/EcoOverview).
 
 ## Related 🔻<via>ViaFactors</via>
 

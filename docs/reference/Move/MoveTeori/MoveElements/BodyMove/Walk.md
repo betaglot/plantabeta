@@ -1,4 +1,4 @@
-# 🟠 <moto>Walk</moto>
+# 🟠 <move>Walk</move>
 
 ![MoveIkon](/Move/Move_Ikon.png)
 
@@ -18,7 +18,7 @@
 - Tool2
 - Tool3
 
-## <moto>Move Phrase</moto>
+## <move>Move Phrase</move>
 
 <div style="display: flex">
     <div>
@@ -76,11 +76,11 @@ Aim small miss small. Larger moves have larger potential for error
     src="https://observablehq.com/embed/@d3/force-directed-graph/2?cells=chart"
 ></iframe>
 
-## Related <moto>MotoFactors</moto>
+## Related <move>MotoFactors</move>
 
-- Walk  [<moto>DeadWalking</moto>](/encyclopedia/Move/MotoError#dead-walk).
-- Description of how this Walk relates to a particular [<moto>MotoFactor</moto>](/encyclopedia/Move/MotoOverview).
-- Description of how this Walk relates to a particular [<moto>MotoFactor</moto>](/encyclopedia/Move/MotoOverview).
+- Walk  [<move>DeadWalking</move>](/encyclopedia/Move/MotoError#dead-walk).
+- Description of how this Walk relates to a particular [<move>MotoFactor</move>](/encyclopedia/Move/MotoOverview).
+- Description of how this Walk relates to a particular [<move>MotoFactor</move>](/encyclopedia/Move/MotoOverview).
 
 ## Related 🟩<eko>EcoFactors</eko>
 
@@ -90,7 +90,7 @@ Aim small miss small. Larger moves have larger potential for error
 
 -
 
-## Related 💜<neuro>NeuroFactors</neuro>
+## Related 💜<psike>NeuroFactors</psike>
 
 -  
 

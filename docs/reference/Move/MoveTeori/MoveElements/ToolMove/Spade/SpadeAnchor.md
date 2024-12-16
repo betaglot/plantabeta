@@ -1,4 +1,4 @@
-# 🟠<moto>SpadeAnchor</moto>
+# 🟠<move>SpadeAnchor</move>
 
 ---
 

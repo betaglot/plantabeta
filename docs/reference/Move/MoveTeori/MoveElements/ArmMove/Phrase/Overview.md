@@ -1,5 +1,5 @@
 
-# 🔷 <moto>Arm Phrase</moto>
+# 🔷 <move>Arm Phrase</move>
 
 ## Get
 

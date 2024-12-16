@@ -84,11 +84,11 @@ Beta is composed of four factors, each of which can be represented by an icon:
 
 🟩<eko>Eko Factor</eko>: All biologic and geologic objects and processes you interact with while in a planting block. For example: slash, roads, stumps, plants, soil and weather.
 
-🟠<moto>Move Factor</moto>: The movements and tools you use to plant trees. For example: slamming your spade into the ground, ripping flag, your clothing and your bags.
+🟠<move>Move Factor</move>: The movements and tools you use to plant trees. For example: slamming your spade into the ground, ripping flag, your clothing and your bags.
 
 🔻<via>Via Factor</via>: The path taken by planters. For example: your line in, backfilling, area planting, bouncing while partner planting and deadwalking
 
-💜<neuro>Psike Factor</neuro>: Any phenonmena of your nervous system, includes emotion, thought, perception, awareness, attention and more.  
+💜<psike>Psike Factor</psike>: Any phenonmena of your nervous system, includes emotion, thought, perception, awareness, attention and more.  
 
 ## How am I supposed to use putplant.ca?
 
@@ -113,21 +113,21 @@ Beta is composed of four factors, each of which can be represented by an icon:
 
 - 🟩<eko>[SoilSound](/encyclopedia/Eko/Soil/Overview)</eko>: Muffled Soil has lots more organic matter to absorb sound. Rock is louder than organic matter due to the strength of rock's lattice structure.
 
-- 🟠<moto>[Clothing](/encyclopedia/Move/ClothingMoto/Overview)</moto>: Don't leave stuff in backbag when wet.
+- 🟠<move>[Clothing](/encyclopedia/Move/ClothingMoto/Overview)</move>: Don't leave stuff in backbag when wet.
     - Cotton mold
 
-- 🟠<moto>[BundleGrip](/encyclopedia/Move/ToolMoto/Bundle/BundleGrip)</moto>: Grab two bundles in each hand, so four bundles at a time when transfering bundles from boxes to bags.
+- 🟠<move>[BundleGrip](/encyclopedia/Move/ToolMoto/Bundle/BundleGrip)</move>: Grab two bundles in each hand, so four bundles at a time when transfering bundles from boxes to bags.
 
-- 🟠<moto>[TreeTest.Error](/encyclopedia/Move/HandMoto/TreeTest)</moto>: One tree test and what are you looking for?
-    - 💜<neuro>FearOfReplant</neuro>
+- 🟠<move>[TreeTest.Error](/encyclopedia/Move/HandMoto/TreeTest)</move>: One tree test and what are you looking for?
+    - 💜<psike>FearOfReplant</psike>
 
-- 🟠<moto>[TreeTest](/encyclopedia/Move/HandMoto/TreeTest)</moto>: Single Move for TreeTest
+- 🟠<move>[TreeTest](/encyclopedia/Move/HandMoto/TreeTest)</move>: Single Move for TreeTest
 
-- 🟠<moto>[SpadeSlam](/encyclopedia/Move/ToolMoto/Spade/SpadeSlam)</moto>: Humerus Rotate Out for SpadeSlam to recruit Latissimus Dorsi and prevent overactivation of Pectoralis muscles which causes Shoulder Impingement Injury
+- 🟠<move>[SpadeSlam](/encyclopedia/Move/ToolMoto/Spade/SpadeSlam)</move>: Humerus Rotate Out for SpadeSlam to recruit Latissimus Dorsi and prevent overactivation of Pectoralis muscles which causes Shoulder Impingement Injury
 
-- 🟠<moto>[SpadeScreef](/encyclopedia/Move/ToolMoto/Spade/SpadeScreef)</moto>: SpadeScreef is faster than BootScreef or HandScreef. And it flows into the backswing of SpadeSlam.
+- 🟠<move>[SpadeScreef](/encyclopedia/Move/ToolMoto/Spade/SpadeScreef)</move>: SpadeScreef is faster than BootScreef or HandScreef. And it flows into the backswing of SpadeSlam.
 
-- 🟠<moto>[TraverseBush](/encyclopedia/Move/PlantMoto/Overview)</moto>: Spread branches while pushing your way through a bush.
+- 🟠<move>[TraverseBush](/encyclopedia/Move/PlantMoto/Overview)</move>: Spread branches while pushing your way through a bush.
     - AlderCluster, MapleCluster
 
 - 🔻<via>[Walkout](/encyclopedia/Via/Path/Overview)</via>: Walkout using the most direct path unless there's a road, skidder trail or clear path near.
@@ -144,7 +144,7 @@ Beta is composed of four factors, each of which can be represented by an icon:
 - 🔷<beta>Lesson</beta>: Point out microsites so planter can work on walking speed while not thinking about SiteSelection
     - Isolate Elements, Isolate Skills. Decompose Elements into subelements then instruct them in isolation.
 
-- 🔷<beta>Lesson</beta>: Follow the instructor. Follow the instructor while they plant. Instructor can make error on purpose to test student's 💜<neuro>ErrorDetection</neuro> ability. You integrate information more deeply when teaching it, students become teachers in this lesson.
+- 🔷<beta>Lesson</beta>: Follow the instructor. Follow the instructor while they plant. Instructor can make error on purpose to test student's 💜<psike>ErrorDetection</psike> ability. You integrate information more deeply when teaching it, students become teachers in this lesson.
 
 - 🔷<beta>Instruction</beta>: Let Planter get in the groove before observing
     - CurrentSite, AnteSite, PostSite are NOT NULL is more realistic than one tree at a time.

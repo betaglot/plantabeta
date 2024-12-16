@@ -1,5 +1,5 @@
 
-# 💜 <neuro>Decision Overview </neuro>
+# 💜 <psike>Decision Overview </psike>
 
 ## Conscious Decision
 

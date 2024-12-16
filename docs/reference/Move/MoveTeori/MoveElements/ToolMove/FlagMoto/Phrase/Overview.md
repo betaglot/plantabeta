@@ -1,5 +1,5 @@
 
-# 🔷 <moto>Flag Phrase Overview</moto>
+# 🔷 <move>Flag Phrase Overview</move>
 
 ## FlagPut
 

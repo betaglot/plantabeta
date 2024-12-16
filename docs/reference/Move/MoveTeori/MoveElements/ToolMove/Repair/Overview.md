@@ -1,5 +1,5 @@
 
-# 🟠 <moto>Tool Repair</moto>
+# 🟠 <move>Tool Repair</move>
 
 Temporary Repair until you can have your tools repaired by a professional.
 

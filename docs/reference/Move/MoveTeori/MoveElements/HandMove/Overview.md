@@ -1,5 +1,5 @@
 
-# 🟠 <moto>HandMoto</moto>
+# 🟠 <move>HandMoto</move>
 
 ## Hand Anatomy
 

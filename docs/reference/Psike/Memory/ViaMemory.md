@@ -1,5 +1,5 @@
 
-# <neuro>ViaMemory</neuro>
+# <psike>ViaMemory</psike>
 
 ## Flag is a Mnemonic for ViaMemory
 

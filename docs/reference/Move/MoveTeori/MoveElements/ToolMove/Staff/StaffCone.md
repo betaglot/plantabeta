@@ -1,4 +1,4 @@
-# 🟠<moto>StaffCone</moto>
+# 🟠<move>StaffCone</move>
 
 ---
 

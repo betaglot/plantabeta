@@ -1,5 +1,5 @@
 
-# 🔷 <neuro>Psike Difficulty</neuro>
+# 🔷 <psike>Psike Difficulty</psike>
 
 ---
 

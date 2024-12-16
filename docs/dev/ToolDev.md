@@ -36,18 +36,18 @@ A trailer loaded with everthing that PLANTERS need for their season. For planter
 Stick them together with honey like cheap bookbinding
 Wax to waterproof
 
-## 🟠<moto>CartDev</moto>
+## 🟠<move>CartDev</move>
 
 - WalkIn
 - BoxMoto
 
-## 🟠<moto>DoryDev</moto>
+## 🟠<move>DoryDev</move>
 
 Greek for Spear
 
 Lash D to Dory
 
-## 🟠<moto>Planter BagsDev</moto>
+## 🟠<move>Planter BagsDev</move>
 
 ::: warning Obsolete Name
 Don't call them bags anymore
@@ -63,26 +63,26 @@ Partially Disassemble to reduce space
 
 `Analogy{Saddle: PlanterBag}`
 
-### 🟠<moto>Bag MaterialDev</moto>
+### 🟠<move>Bag MaterialDev</move>
 
 - Not plastic
 - Carbon Fiber
 -
 
-### 🟠<moto>CorsetDev</moto>
+### 🟠<move>CorsetDev</move>
 
 - Planters wear a corset under their waist belt like a saddle pad
 - Corset restricts BendOver
 
-### 🟠<moto>WaistbeltDev</moto>
+### 🟠<move>WaistbeltDev</move>
 
 - Suspension System
 
-### 🟠<moto>BasketWallDev</moto>
+### 🟠<move>BasketWallDev</move>
 
 - Cradle board sidebag
 
-### 🟠<moto>BagFrameDev</moto>
+### 🟠<move>BagFrameDev</move>
 
 They should be rigid and woven
 
@@ -112,7 +112,7 @@ Make cardboard prototype.
 
 "Lay up"
 
-### 🟠<moto>BagSkeletonDev</moto>
+### 🟠<move>BagSkeletonDev</move>
 
 Pannier
 
@@ -120,7 +120,7 @@ Pannier
 - To keep sidebags from rubbing on legs.
 - Suspension system
 
-### 🟠<moto>BackBagDev</moto>
+### 🟠<move>BackBagDev</move>
 
 - Use waterproof Flap instead of sphincter design, since sphincter allows water to collect and slowly seep into backbag.
 - Pocket on underside of Flap
@@ -133,15 +133,15 @@ Pannier
 - You only need to worry about the back of your hands. Glabrous warms the palm
 - Wool lining
 
-### 🟠<moto>FlaggerDev</moto>
+### 🟠<move>FlaggerDev</move>
 
 Ideally there would be a Flagger on each Vambrace
 
-## 🟠<moto>RopeDev</moto>
+## 🟠<move>RopeDev</move>
 
 Rope to transport the tools
 
-### <moto>🟠PlotCordDev</moto>
+### <move>🟠PlotCordDev</move>
 
 - Abacus plot cord
 - Storage within Bags accessible with bags on.
@@ -152,13 +152,13 @@ Lashing requires a thinner rope than
 
 Use Hemp Lashing so you can leave the sticks to decompose
 
-### <moto>Abrasion Resistant MaterialDev</moto>
+### <move>Abrasion Resistant MaterialDev</move>
 
 Cordura or Kevlar
 
 - <https://www.testextextile.com/evaluating-the-abrasion-resistance-of-different-fabric-types/#Most_Abrasion-Resistant_Synthetic_Fibers>
 
-## 🟠<moto>KitDev</moto>
+## 🟠<move>KitDev</move>
 
 Long thin bag is easier to sit with
 
@@ -189,9 +189,9 @@ Protein Powder Cookies
 
 ### Dirty Gloves
 
-## <moto>Water VolumeDev</moto>
+## <move>Water VolumeDev</move>
 
-## 🟠<moto>PlanterSuitDev</moto>
+## 🟠<move>PlanterSuitDev</move>
 
 ### Design Constraint
 
@@ -217,14 +217,14 @@ SuitParts = [
 
 ```
 
-### 🟠<moto>GaiterDev</moto>
+### 🟠<move>GaiterDev</move>
 
 - Wire stirrup,not woven
 - Extra padding to strengthen attachment point and to prevent erosion from metal wire from rubbing on boot leather.
 - Big zipper
 -
 
-### 🟠<moto>GloveDev</moto>
+### 🟠<move>GloveDev</move>
 
 - Gloveon() ThumbTab
 - SplitMitt Shell
@@ -242,7 +242,7 @@ SuitParts = [
 - Glove which does not collect dirt unlike the knitted gloves currently used by most planters
 - Easily taken off without getting dirt inside
 
-### 🟠<moto>VambraceDev</moto>
+### 🟠<move>VambraceDev</move>
 
 ::: tip AlsoKnownAs
 Bracer, Gauntlet,
@@ -265,7 +265,7 @@ The goal of vambrace is to keep the hand clean and warm. There isn't a need to p
 
 #### Lightyear Notepad
 
-### 🟠<moto>JacketDev</moto>
+### 🟠<move>JacketDev</move>
 
 <https://www.patagonia.ca/product/hose-down-slicker-jacket/27892.html?dwvar_27892_color=CMPO>
 
@@ -273,7 +273,7 @@ The goal of vambrace is to keep the hand clean and warm. There isn't a need to p
 
 Aang airbender lines for motion capture
 
-#### 🟠<moto>HoodDev</moto>
+#### 🟠<move>HoodDev</move>
 
 Put your Hood up
 
@@ -281,7 +281,7 @@ Planting with a Hood up reduces Hearing and Vision
 
 Windy
 
-### 🟠<moto>Bellow BackpackDev</moto>
+### 🟠<move>Bellow BackpackDev</move>
 
 Bellow which blows air into shirt for evaporative cooling during summer
 

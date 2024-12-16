@@ -1,5 +1,5 @@
 
-# 💜 <neuro>Memory</neuro>
+# 💜 <psike>Memory</psike>
 
 > Fire together, wire together
 

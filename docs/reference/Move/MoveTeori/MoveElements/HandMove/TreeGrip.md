@@ -1,5 +1,5 @@
 
-# 🟠 <moto>TreeGrip</moto>
+# 🟠 <move>TreeGrip</move>
 
 ![MoveIkon](/Move/Move_Ikon.png)
 
@@ -32,7 +32,7 @@
 - BagCover
 - TreeRemove
 
-### <moto>PodGrip Phrase</moto>
+### <move>PodGrip Phrase</move>
 
 <div style="display: flex">
     <div>
@@ -51,7 +51,7 @@
 
 ## StemGrip
 
-### <moto>StemGrip Phrase</moto>
+### <move>StemGrip Phrase</move>
 
 <div style="display: flex">
     <div>
@@ -77,7 +77,7 @@
     src="https://observablehq.com/embed/@d3/force-directed-graph/2?cells=chart"
 ></iframe>
 
-## Related <moto>MotoFactors</moto>
+## Related <move>MotoFactors</move>
 
 -
 
@@ -89,7 +89,7 @@
 
 -
 
-## Related 💜<neuro>NeuroFactors</neuro>
+## Related 💜<psike>NeuroFactors</psike>
 
 -  
 

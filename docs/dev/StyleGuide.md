@@ -143,7 +143,7 @@ Periods
 
 ## <dev>Color</dev>
 
-### <moto>MotoColor</moto>
+### <move>MotoColor</move>
 
 ```md
 
@@ -169,7 +169,7 @@ Periods
 #6a9955 
 ```
 
-### <neuro>NeuroColor</neuro>
+### <psike>NeuroColor</psike>
 
 ```ts
 #c586c0 
@@ -192,11 +192,11 @@ Concept, Object Property
 MotoTimeline is orange as a header but it is not prefixed with an Icon.
 
 ::: warning Incorrect Syntax
-🟠<moto>Arm.🟠<moto>ArmPut()</moto></moto>
+🟠<move>Arm.🟠<move>ArmPut()</move></move>
 
-Only the 🟠<moto>Arm</moto> object is prefixed with an icon. ArmPut is orange but has no icon
+Only the 🟠<move>Arm</move> object is prefixed with an icon. ArmPut is orange but has no icon
 
-🟠<moto>Arm.<moto>ArmPut()</moto></moto>
+🟠<move>Arm.<move>ArmPut()</move></move>
 
 :::
 
@@ -240,10 +240,10 @@ When is it useful for Icons to be monochrome outlines?
 
 <beta>`eco`</beta>
 
-<code><moto>eco</moto></code>
+<code><move>eco</move></code>
 
 ```html
-<code><moto>eco</moto></code>
+<code><move>eco</move></code>
 ```
 
 ## <dev>DesignBox</dev>
@@ -262,7 +262,7 @@ Delete tags once converted to headers. They are stored in a JSON
 
 ```md
 
-### 🟠 <dev>DesignBox</dev><moto>.Move</moto>
+### 🟠 <dev>DesignBox</dev><move>.Move</move>
 
 ```md
 ---
@@ -278,7 +278,7 @@ Delete tags once converted to headers. They are stored in a JSON
 
 :::
 
-# 🟠 <moto>Move</moto>
+# 🟠 <move>Move</move>
 
 ```md
 
@@ -322,7 +322,7 @@ Delete tags once converted to headers. They are stored in a JSON
 
 ```md
 
-### 💜 <dev>DesignBox</dev><neuro>.Psike</neuro>
+### 💜 <dev>DesignBox</dev><psike>.Psike</psike>
 
 ```md
 ---
@@ -338,7 +338,7 @@ Delete tags once converted to headers. They are stored in a JSON
 
 :::
 
-# 💜 <neuro>Psike</neuro>
+# 💜 <psike>Psike</psike>
 
 ```md
 
@@ -422,7 +422,7 @@ Should "via" be used as natural language? "Get to the next page via the link at 
 
 ## <dev>ElementPageDesign</dev>
 
-## <moto>MotoPage.BaseLayout</moto>
+## <move>MotoPage.BaseLayout</move>
 
 ### Definition
 
@@ -503,9 +503,9 @@ Where in Eko is this Move performed and on what EcoFactor. Put "the ground" if n
 
 ### <via>Via.Via</via>
 
-## <neuro>NeuroPage.BaseLayout</neuro>
+## <psike>NeuroPage.BaseLayout</psike>
 
-## <neuro></neuro>
+## <psike></psike>
 
 ## <beta>BetaPage.BaseLayout</beta>
 

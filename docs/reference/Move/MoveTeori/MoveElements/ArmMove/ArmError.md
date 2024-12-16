@@ -1,1 +1,1 @@
-# 🟠<moto>ArmError</moto>
+# 🟠<move>ArmError</move>

@@ -1,5 +1,5 @@
 
-# 🔷 <moto>Spade Phrase</moto>
+# 🔷 <move>Spade Phrase</move>
 
 ::: details 🛠 <dev>&&&</dev>
 

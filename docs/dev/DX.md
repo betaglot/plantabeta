@@ -162,7 +162,7 @@ for Paper in PaperPhotoList:
 find -type f -print0 | xargs -0 ls -t
 ```
 
-## <neuro>WTF is going on?</neuro>
+## <psike>WTF is going on?</psike>
 
 It's ok to be confused by your own work. Complex systems don't start off being coherent.
 
@@ -176,13 +176,13 @@ Coherence is developed
 > the situation when the parts of something fit together in a natural or reasonable way
 :::
 
-### <neuro> “I looked forward to another 500 pounds of squat. I looked forward to doing more and more curls until my arms would fall off. Why? Because I knew that every rep that I did and every set that I did and more weights that I lifted, I get one step closer to turning that **vision** into reality.”</neuro>
+### <psike> “I looked forward to another 500 pounds of squat. I looked forward to doing more and more curls until my arms would fall off. Why? Because I knew that every rep that I did and every set that I did and more weights that I lifted, I get one step closer to turning that **vision** into reality.”</psike>
 
 You're not making it worse, each workblock makes it better, deciding that what you wrote needs to be changed is an improvement. Finding out what doesn't work is a form of improvement. Put(Plant) is a really difficult project, **expect to feel its difficulties!**
 
 Just get as much information out of your head and into data structures, so that they can be processed.
 
-<moto>Keep going!!!</moto>
+<move>Keep going!!!</move>
 
 ### Differentiate(Beta, Put(Plant))
 
@@ -230,7 +230,7 @@ Beta represents moto, but Move is the move itself. Move doesn't care about how i
 
 Every rep
 
-<neuro> “I looked forward to another 500 pounds of squat. I looked forward to doing more and more curls until my arms would fall off. Why? Because I knew that every rep that I did and every set that I did and more weights that I lifted, I get one step closer to turning that **vision** into reality.”</neuro>
+<psike> “I looked forward to another 500 pounds of squat. I looked forward to doing more and more curls until my arms would fall off. Why? Because I knew that every rep that I did and every set that I did and more weights that I lifted, I get one step closer to turning that **vision** into reality.”</psike>
 
 ### Sherlock Holmes
 

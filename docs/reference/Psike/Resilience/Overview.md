@@ -1,5 +1,5 @@
 
-# 💜 <neuro>Resilience</neuro>
+# 💜 <psike>Resilience</psike>
 
 ![NeuroIcon](/Psike/Neuro_Icon.png)
 
@@ -47,9 +47,9 @@ Answer 3
     src="https://observablehq.com/embed/@d3/force-directed-graph/2?cells=chart"
 ></iframe>
 
-## Related 💜<neuro>NeuroFactors</neuro>
+## Related 💜<psike>NeuroFactors</psike>
 
-## Related 🟠<moto>MotoFactors</moto>
+## Related 🟠<move>MotoFactors</move>
 
 -
 

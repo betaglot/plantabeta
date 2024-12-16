@@ -1,1 +1,1 @@
-# 🟠<moto>KitError</moto>
+# 🟠<move>KitError</move>

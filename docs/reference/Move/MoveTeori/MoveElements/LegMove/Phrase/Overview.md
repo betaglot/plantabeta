@@ -1,5 +1,5 @@
 
-# 🔷 <moto>Leg Phrase</moto>
+# 🔷 <move>Leg Phrase</move>
 
 ::: details 🛠 <dev>&&&</dev>
 

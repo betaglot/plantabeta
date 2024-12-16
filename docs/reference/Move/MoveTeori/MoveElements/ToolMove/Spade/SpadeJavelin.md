@@ -1,4 +1,4 @@
-# 🟠<moto>SpadeJavelin</moto>
+# 🟠<move>SpadeJavelin</move>
 
 - The FinishMoto of SpadeJavelin is SpadePost
 

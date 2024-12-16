@@ -1,5 +1,5 @@
 
-# 💜 <neuro>Compassion</neuro>
+# 💜 <psike>Compassion</psike>
 
 ## SelfCompassion
 

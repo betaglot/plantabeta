@@ -1,5 +1,5 @@
 
-# 🟠 <moto>Kinesiology</moto>
+# 🟠 <move>Kinesiology</move>
 
 ## Fitness and Nutrition
 

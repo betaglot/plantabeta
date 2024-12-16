@@ -1,20 +1,20 @@
-# 🟠<moto>Speak</moto>
+# 🟠<move>Speak</move>
 
-🟠<moto>Speak(<beta>BetaString</beta>)</moto>
+🟠<move>Speak(<beta>BetaString</beta>)</move>
 
 ## Speak is the opposite of Parse
 
 Put Plantbeta into a natural language
 
 1. Separated <beta>BetaModules</beta> (optional step)
-    - 🟠<moto>Leg.Step()</moto>
+    - 🟠<move>Leg.Step()</move>
     - 🔻<via>Over</via>
     - 🟩<eko>Log</eko>
 
 2. <beta>Plantbeta</beta>
     - 🔷<beta>Leg.Step.Over(Log)</beta>
 
-3. 🟠<moto>Speak(<beta>"Step over the log"</beta>)</moto>
+3. 🟠<move>Speak(<beta>"Step over the log"</beta>)</move>
 
 ## Loudness
 

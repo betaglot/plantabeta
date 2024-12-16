@@ -1,4 +1,4 @@
-# 🟠 <moto>FlagKnot</moto>
+# 🟠 <move>FlagKnot</move>
 
 ## FlagBowtie
 

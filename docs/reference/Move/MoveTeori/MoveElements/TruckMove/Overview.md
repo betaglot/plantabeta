@@ -1,5 +1,5 @@
 
-# 🟠 <moto>TruckMoto</moto>
+# 🟠 <move>TruckMoto</move>
 
 ## Truck Anatomy
 

@@ -1,4 +1,4 @@
-# 🟠<moto>SpadePendulum</moto>
+# 🟠<move>SpadePendulum</move>
 
 ---
 

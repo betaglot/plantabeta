@@ -1,5 +1,5 @@
 
-# 🟠 <moto>KitMoto</moto>
+# 🟠 <move>KitMoto</move>
 
 AlsoKnownAs(CacheBag)
 

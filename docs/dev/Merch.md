@@ -10,7 +10,7 @@ Scantily clad Planters
 
 No genders
 
-### <moto>Spade: SpadeMoto</moto>
+### <move>Spade: SpadeMoto</move>
 
 - Ace:
 - 2:
@@ -26,7 +26,7 @@ No genders
 - Q:
 - K:
 
-### <neuro>Heart: Psike</neuro>
+### <psike>Heart: Psike</psike>
 
 Focus on Emotion and feeling, not abstract computations
 

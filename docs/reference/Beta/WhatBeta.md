@@ -2,7 +2,7 @@
 
 > Beta is the **information** that you use to perform planting tasks.
 
-<beta>Beta</beta> emerges from the interactions between <eko>Eko</eko>, <moto>Move</moto>, <via>Via</via> and <neuro>Psike</neuro>.
+<beta>Beta</beta> emerges from the interactions between <eko>Eko</eko>, <move>Move</move>, <via>Via</via> and <psike>Psike</psike>.
 
 ![<beta>Beta</beta>Icon](/Beta/Beta_Icon.png)
 
@@ -33,20 +33,20 @@ This each line are analog pairs. The equal signs = denotes where Climbing and Pl
 |                  <beta>Beta</beta> = | = <beta>Beta</beta>               |
 |                     <eko>Eko</eko> = | = <eko>Eko</eko>                  |
 |               <via>Via</via> = | = <via>Via</via>            |
-|               <neuro>Psike</neuro> = | = <neuro>Psike</neuro>            |
+|               <psike>Psike</psike> = | = <psike>Psike</psike>            |
 |                      <eko>Wall</eko> | <eko>Land</eko>                   |
 |              <eko>Wall Section</eko> | <eko>Area</eko>                  |
 |      <via>ContactSurface</via> = | = <via>ContactSurface</via>   |
 |                  <via>Hold</via> | <via>Microsite</via>          |
 |                    <eko>Volume</eko> | <eko>Mound, Trench</eko>          |
 |                 <eko>WallAngle</eko> | <eko>SlopeAngle</eko>             |
-|            <moto>ClimbingShoe</moto> | <moto>PlantingBoot</moto>         |
+|            <move>ClimbingShoe</move> | <move>PlantingBoot</move>         |
 |                <beta>Redpoint</beta> | <beta>Replanting Required </beta> |
 |          <beta>Flash, Onsight</beta> | <beta>No replanting </beta>       |
-|         <moto>RockOver Move </moto>= | = <moto>RockOver Move </moto>     |
+|         <move>RockOver Move </move>= | = <move>RockOver Move </move>     |
 |        <via>ViaFinding</via> = | = <via>ViaFinding</via>     |
 |             <via>One Pitch</via> | <via>One CoverLoop </via>      |
-|                  <moto>Fall</moto> = | = <moto>Fall</moto>               |
+|                  <move>Fall</move> = | = <move>Fall</move>               |
 | <via>Anchor, Belay Station</via> | <via>Cache</via>              |
 |              <via>Approach</via> | <via>Walk In </via>           |
 |                     <eko>Crag </eko> | <eko> Block</eko>                 |
@@ -73,13 +73,13 @@ Based on Gymnastics Elements. Elements are completed using Beta Factors. Multipl
 - 🔷Screef
 - 🔷Rework
 
-### <moto>MotoFactor</moto>
+### <move>MotoFactor</move>
 
 ### <eko>EcoFactor</eko>
 
 ### <via>ViaFactor</via>
 
-### <neuro>NeuroFactor</neuro>
+### <psike>NeuroFactor</psike>
 
 ## <beta>What is a BetaInstance?</beta>
 
@@ -102,12 +102,12 @@ Via is often a lack of knowledge of what's over the hill or around the corner
 
 - bag weight constrains Via Length
 
-### <moto>Move Constraints</moto>
+### <move>Move Constraints</move>
 
 - Move is metabolic energy
 - bag weight
 
-### <neuro>Psike Constraints</neuro>
+### <psike>Psike Constraints</psike>
 
 Psike is
 
@@ -124,7 +124,7 @@ There is a miscommunication happening if:
 [BetaSequence](https://docs.python.org/3/library/stdtypes.html#sequence-types-list-tuple-range)
 
 1. 🔷
-2. 🟠 <moto>BodyLean</moto>
+2. 🟠 <move>BodyLean</move>
 3. 🟠
 4. 🟠
 5. 🟩

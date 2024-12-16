@@ -1,9 +1,9 @@
 
-# 💜 <neuro>Psike Overview </neuro>
+# 💜 <psike>Psike Overview </psike>
 
 ![NeuroIcon](/Psike/Neuro_Icon.png)
 
-## <neuro>Psike Symbol</neuro> 💜
+## <psike>Psike Symbol</psike> 💜
 
 > Violet Heart
 
@@ -18,22 +18,22 @@ Short for Neuroscience
 - Neuropsychology
 - Sensory Neuroscience
 
-::: details Why is it called <neuro>Psike</neuro>?
+::: details Why is it called <psike>Psike</psike>?
 
-## Etymology of "<neuro>Psike</neuro>"
+## Etymology of "<psike>Psike</psike>"
 
-- <neuro>Psike</neuro>science
-- <neuro>Psike</neuro>psychology
-- <neuro>Psike</neuro>biology
-- <neuro>neuro</neuro>n
-- <neuro>Psike</neuro>anatomy
-- <neuro>nervo</neuro>us system
-- <neuro>neuro</neuro>muscular connection
-- <neuro>nerve</neuro>
-- <neuro>neuro</neuro>tic
-- <neuro>neuro</neuro>transmitter
-- <neuro>neuro</neuro>surgery
-- <neuro>neuro</neuro>logy
+- <psike>Psike</psike>science
+- <psike>Psike</psike>psychology
+- <psike>Psike</psike>biology
+- <psike>neuro</psike>n
+- <psike>Psike</psike>anatomy
+- <psike>nervo</psike>us system
+- <psike>neuro</psike>muscular connection
+- <psike>nerve</psike>
+- <psike>neuro</psike>tic
+- <psike>neuro</psike>transmitter
+- <psike>neuro</psike>surgery
+- <psike>neuro</psike>logy
 
 :::
 

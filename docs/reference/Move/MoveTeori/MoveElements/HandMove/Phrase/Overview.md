@@ -1,5 +1,5 @@
 
-# 🔷 <moto>Hand Phrase</moto>
+# 🔷 <move>Hand Phrase</move>
 
 ## 🔷<beta>HandPut</beta>
 

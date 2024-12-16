@@ -1,4 +1,4 @@
-# 🟠<moto>StaffAnchor</moto>
+# 🟠<move>StaffAnchor</move>
 
 ---
 

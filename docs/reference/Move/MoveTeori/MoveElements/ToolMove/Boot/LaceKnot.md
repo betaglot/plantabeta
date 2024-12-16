@@ -1,5 +1,5 @@
 
-# 🟠 <moto>LaceKnot</moto>
+# 🟠 <move>LaceKnot</move>
 
 ## LaceTieUp
 

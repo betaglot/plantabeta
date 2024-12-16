@@ -62,8 +62,8 @@ export default defineConfig({
 //         { text: '<dev>Overview</dev>', link: '/dev/Graphics/Overview' },
 //         { text: '<beta>Beta Graphics</beta>', link: '/dev/Graphics/BetaGraphic' },
 //         { text: '<eko>Eko Graphics</eko>', link: '/dev/Graphics/EcoGraphic' },
-//         { text: '<moto>Move Graphics</moto>', link: '/dev/Graphics/MotoGraphic' },
-//         { text: '<neuro>Psike Graphics</neuro>', link: '/dev/Graphics/NeuroGraphic' },
+//         { text: '<move>Move Graphics</move>', link: '/dev/Graphics/MotoGraphic' },
+//         { text: '<psike>Psike Graphics</psike>', link: '/dev/Graphics/NeuroGraphic' },
 //         { text: '<via>Via Graphics</via>', link: '/dev/Graphics/ViaGraphic' },
 //         { text: 'UX Graphics', link: '/dev/Graphics/UXGraphic' },
 //         { text: '<dev>DX Graphics</dev>', link: '/dev/Graphics/DXGraphic' },
@@ -139,10 +139,10 @@ export default defineConfig({
 //     {
 //       text: 'Purpose', collapsed: false, items: [
 //         { text: '🔥<eko>To Support Ecosystems</eko>', link: '/guide/Why/SupportEcosystem' },
-//         { text: '🟠<moto>To Reduce Injury</moto>', link: '/guide/Why/Injury' },
+//         { text: '🟠<move>To Reduce Injury</move>', link: '/guide/Why/Injury' },
 //         { text: '🔻<via>To Increase Productivity</via>', link: '/guide/Why/Productivity' },
 //         { text: '🔷<beta>To Improve Communication</beta>', link: '/guide/Why/Communication' },
-//         { text: '💜<neuro>To Steepen Learning Curve</neuro>', link: '/guide/Why/LearningCurve' },
+//         { text: '💜<psike>To Steepen Learning Curve</psike>', link: '/guide/Why/LearningCurve' },
 //         { text: '💲To Increase Profit', link: '/guide/Why/Company' }
 //       ]
 //     },
@@ -306,284 +306,284 @@ export default defineConfig({
 //     },
 //     // #Move
 //     {
-//       text: '🟠 <moto>Move</moto>', link: '/encyclopedia/Move/MotoOverview', collapsed: true, items: [
-//         { text: '🟠 <moto>Phrase</moto>', link: '/encyclopedia/Move/Phrase/Overview' },
+//       text: '🟠 <move>Move</move>', link: '/encyclopedia/Move/MotoOverview', collapsed: true, items: [
+//         { text: '🟠 <move>Phrase</move>', link: '/encyclopedia/Move/Phrase/Overview' },
 //         {
-//           text: '🟠 <moto>Move THEORIA</moto>', link: '/encyclopedia/Move/MotoTheoria/Overview', collapsed: true, items: [
-//             { text: '🟠 <moto>MotoTeknik</moto>', link: '/encyclopedia/Move/MotoTheoria/MotoTeknik' },
-//             { text: '🟠 <moto>MotoKratos</moto>', link: '/encyclopedia/Move/MotoTheoria/MotoKratos' },
-//             { text: '🟠 <moto>MotoProbability</moto>', link: '/encyclopedia/Move/MotoTheoria/MotoProbability' },
+//           text: '🟠 <move>Move THEORIA</move>', link: '/encyclopedia/Move/MotoTheoria/Overview', collapsed: true, items: [
+//             { text: '🟠 <move>MotoTeknik</move>', link: '/encyclopedia/Move/MotoTheoria/MotoTeknik' },
+//             { text: '🟠 <move>MotoKratos</move>', link: '/encyclopedia/Move/MotoTheoria/MotoKratos' },
+//             { text: '🟠 <move>MotoProbability</move>', link: '/encyclopedia/Move/MotoTheoria/MotoProbability' },
 //           ],
 //         },
 //         {
-//           text: '🟠 <moto>MotoGeometry</moto>', collapsed: true, items: [
-//             { text: '🟠 <moto>Overview</moto>', link: '/encyclopedia/Move/MotoGeometry/Overview' },
-//             { text: '🟠 <moto>MotoPoint</moto>', link: '/encyclopedia/Move/MotoGeometry/MotoPoint' },
-//             { text: '🟠 <moto>MotoCurve</moto>', link: '/encyclopedia/Move/MotoGeometry/MotoCurve' },
-//             { text: '🟠 <moto>MotoSpace</moto>', link: '/encyclopedia/Move/MotoGeometry/MotoSpace' },
-//             { text: '🟠 <moto>MotoSurface</moto>', link: '/encyclopedia/Move/MotoGeometry/MotoSurface' },
+//           text: '🟠 <move>MotoGeometry</move>', collapsed: true, items: [
+//             { text: '🟠 <move>Overview</move>', link: '/encyclopedia/Move/MotoGeometry/Overview' },
+//             { text: '🟠 <move>MotoPoint</move>', link: '/encyclopedia/Move/MotoGeometry/MotoPoint' },
+//             { text: '🟠 <move>MotoCurve</move>', link: '/encyclopedia/Move/MotoGeometry/MotoCurve' },
+//             { text: '🟠 <move>MotoSpace</move>', link: '/encyclopedia/Move/MotoGeometry/MotoSpace' },
+//             { text: '🟠 <move>MotoSurface</move>', link: '/encyclopedia/Move/MotoGeometry/MotoSurface' },
 //           ]
 //         },
 //         {
-//           text: '🟠 <moto>ArmMoto</moto>', link: '/encyclopedia/Move/ArmMoto/Overview', collapsed: true, items: [
-//             { text: '🟠 <moto>Arm Phrase</moto>', link: '/encyclopedia/Move/ArmMoto/Phrase/Overview' },
-//             { text: '🟠 <moto>ArmProp</moto>', link: '/encyclopedia/Move/ArmMoto/ArmProp' },
-//             { text: '🟠 <moto>ArmSwing</moto>', link: '/encyclopedia/Move/ArmMoto/ArmSwing' },
-//             { text: '🟠 <moto>ArmWalk</moto>', link: '/encyclopedia/Move/ArmMoto/ArmWalk' },
-//             { text: '🟠 <moto>ArmBalance</moto>', link: '/encyclopedia/Move/ArmMoto/ArmBalance' },
+//           text: '🟠 <move>ArmMoto</move>', link: '/encyclopedia/Move/ArmMoto/Overview', collapsed: true, items: [
+//             { text: '🟠 <move>Arm Phrase</move>', link: '/encyclopedia/Move/ArmMoto/Phrase/Overview' },
+//             { text: '🟠 <move>ArmProp</move>', link: '/encyclopedia/Move/ArmMoto/ArmProp' },
+//             { text: '🟠 <move>ArmSwing</move>', link: '/encyclopedia/Move/ArmMoto/ArmSwing' },
+//             { text: '🟠 <move>ArmWalk</move>', link: '/encyclopedia/Move/ArmMoto/ArmWalk' },
+//             { text: '🟠 <move>ArmBalance</move>', link: '/encyclopedia/Move/ArmMoto/ArmBalance' },
 //           ]
 //         },
 //         {
-//           text: '🟠 <moto>BodyMoto</moto>', link: '/encyclopedia/Move/BodyMoto/Overview', collapsed: true, items: [
-//             { text: '🟠 <moto>Body Phrase</moto>', link: '/encyclopedia/Move/BodyMoto/Phrase/Overview' },
-//             { text: '🟠 <moto>BodyAbsorb</moto>', link: '/encyclopedia/Move/BodyMoto/BodyAbsorb' },
-//             { text: '🟠 <moto>BodyBend</moto>', link: '/encyclopedia/Move/BodyMoto/BodyBend' },
-//             { text: '🟠 <moto>BodyLean</moto>', link: '/encyclopedia/Move/BodyMoto/BodyLean' },
-//             { text: '🟠 <moto>BodyRevolve</moto>', link: '/encyclopedia/Move/BodyMoto/BodyRevolve' },
-//             { text: '🟠 <moto>BodyRotate</moto>', link: '/encyclopedia/Move/BodyMoto/BodyRotate' },
-//             { text: '🟠 <moto>BodySlot</moto>', link: '/encyclopedia/Move/BodyMoto/BodySlot' },
-//             { text: '🟠 <moto>Fall</moto>', link: '/encyclopedia/Move/BodyMoto/Fall' },
+//           text: '🟠 <move>BodyMoto</move>', link: '/encyclopedia/Move/BodyMoto/Overview', collapsed: true, items: [
+//             { text: '🟠 <move>Body Phrase</move>', link: '/encyclopedia/Move/BodyMoto/Phrase/Overview' },
+//             { text: '🟠 <move>BodyAbsorb</move>', link: '/encyclopedia/Move/BodyMoto/BodyAbsorb' },
+//             { text: '🟠 <move>BodyBend</move>', link: '/encyclopedia/Move/BodyMoto/BodyBend' },
+//             { text: '🟠 <move>BodyLean</move>', link: '/encyclopedia/Move/BodyMoto/BodyLean' },
+//             { text: '🟠 <move>BodyRevolve</move>', link: '/encyclopedia/Move/BodyMoto/BodyRevolve' },
+//             { text: '🟠 <move>BodyRotate</move>', link: '/encyclopedia/Move/BodyMoto/BodyRotate' },
+//             { text: '🟠 <move>BodySlot</move>', link: '/encyclopedia/Move/BodyMoto/BodySlot' },
+//             { text: '🟠 <move>Fall</move>', link: '/encyclopedia/Move/BodyMoto/Fall' },
 //           ]
 //         },
 //         {
-//           text: '🟠 <moto>CacheMoto</moto>', link: '/encyclopedia/Move/CacheMoto/Overview', collapsed: true, items: [
-//             { text: '🟠 <moto>Cache Phrase</moto>', link: '/encyclopedia/Move/CacheMoto/Phrase/Overview' },
-//             { text: '🟠 <moto>Eating</moto>', link: '/encyclopedia/Move/CacheMoto/Eating' },
-//             { text: '🟠 <moto>TarpOff</moto>', link: '/encyclopedia/Move/CacheMoto/TarpOff' },
-//             { text: '🟠 <moto>TarpOn</moto>', link: '/encyclopedia/Move/CacheMoto/TarpOn' },
+//           text: '🟠 <move>CacheMoto</move>', link: '/encyclopedia/Move/CacheMoto/Overview', collapsed: true, items: [
+//             { text: '🟠 <move>Cache Phrase</move>', link: '/encyclopedia/Move/CacheMoto/Phrase/Overview' },
+//             { text: '🟠 <move>Eating</move>', link: '/encyclopedia/Move/CacheMoto/Eating' },
+//             { text: '🟠 <move>TarpOff</move>', link: '/encyclopedia/Move/CacheMoto/TarpOff' },
+//             { text: '🟠 <move>TarpOn</move>', link: '/encyclopedia/Move/CacheMoto/TarpOn' },
 //           ]
 //         },
 //         {
-//           text: '🟠 <moto>ClothingMoto</moto>', link: '/encyclopedia/Move/ClothingMoto/Overview', collapsed: true, items: [
-//             { text: '🟠 <moto>Clothing Phrase</moto>', link: '/encyclopedia/Move/ClothingMoto/Phrase/Overview' },
-//             { text: '🟠 <moto>Button</moto>', link: '/encyclopedia/Move/ClothingMoto/Button' },
-//             { text: '🟠 <moto>ClothingLayer</moto>', link: '/encyclopedia/Move/ClothingMoto/ClothingLayer' },
-//             { text: '🟠 <moto>RemoveMud</moto>', link: '/encyclopedia/Move/ClothingMoto/RemoveMud' },
-//             { text: '🟠 <moto>ZipperMoto</moto>', link: '/encyclopedia/Move/ClothingMoto/ZipperMoto' },
+//           text: '🟠 <move>ClothingMoto</move>', link: '/encyclopedia/Move/ClothingMoto/Overview', collapsed: true, items: [
+//             { text: '🟠 <move>Clothing Phrase</move>', link: '/encyclopedia/Move/ClothingMoto/Phrase/Overview' },
+//             { text: '🟠 <move>Button</move>', link: '/encyclopedia/Move/ClothingMoto/Button' },
+//             { text: '🟠 <move>ClothingLayer</move>', link: '/encyclopedia/Move/ClothingMoto/ClothingLayer' },
+//             { text: '🟠 <move>RemoveMud</move>', link: '/encyclopedia/Move/ClothingMoto/RemoveMud' },
+//             { text: '🟠 <move>ZipperMoto</move>', link: '/encyclopedia/Move/ClothingMoto/ZipperMoto' },
 //           ]
 //         },
 //         {
-//           text: '🟠 <moto>FootMoto</moto>', link: '/encyclopedia/Move/FootMoto/Overview', collapsed: true, items: [
-//             { text: '🟠 <moto>Foot Phrase</moto>', link: '/encyclopedia/Move/FootMoto/Phrase/Overview' },
-//             { text: '🟠 <moto>FootArchSmear</moto>', link: '/encyclopedia/Move/FootMoto/FootArchSmear' },
-//             { text: '🟠 <moto>FootClose</moto>', link: '/encyclopedia/Move/FootMoto/FootClose' },
-//             { text: '🟠 <moto>FootDig</moto>', link: '/encyclopedia/Move/FootMoto/FootDig' },
-//             { text: '🟠 <moto>FootDorsiflexion</moto>', link: '/encyclopedia/Move/FootMoto/FootDorsiflexion' },
-//             { text: '🟠 <moto>FootDrag</moto>', link: '/encyclopedia/Move/FootMoto/FootDrag' },
-//             { text: '🟠 <moto>FootEversion</moto>', link: '/encyclopedia/Move/FootMoto/FootEversion' },
-//             { text: '🟠 <moto>FootInversion</moto>', link: '/encyclopedia/Move/FootMoto/FootInversion' },
-//             { text: '🟠 <moto>FootScreef</moto>', link: '/encyclopedia/Move/FootMoto/FootScreef' },
-//             { text: '🟠 <moto>PlantarFlexion</moto>', link: '/encyclopedia/Move/FootMoto/PlantarFlexion' },
+//           text: '🟠 <move>FootMoto</move>', link: '/encyclopedia/Move/FootMoto/Overview', collapsed: true, items: [
+//             { text: '🟠 <move>Foot Phrase</move>', link: '/encyclopedia/Move/FootMoto/Phrase/Overview' },
+//             { text: '🟠 <move>FootArchSmear</move>', link: '/encyclopedia/Move/FootMoto/FootArchSmear' },
+//             { text: '🟠 <move>FootClose</move>', link: '/encyclopedia/Move/FootMoto/FootClose' },
+//             { text: '🟠 <move>FootDig</move>', link: '/encyclopedia/Move/FootMoto/FootDig' },
+//             { text: '🟠 <move>FootDorsiflexion</move>', link: '/encyclopedia/Move/FootMoto/FootDorsiflexion' },
+//             { text: '🟠 <move>FootDrag</move>', link: '/encyclopedia/Move/FootMoto/FootDrag' },
+//             { text: '🟠 <move>FootEversion</move>', link: '/encyclopedia/Move/FootMoto/FootEversion' },
+//             { text: '🟠 <move>FootInversion</move>', link: '/encyclopedia/Move/FootMoto/FootInversion' },
+//             { text: '🟠 <move>FootScreef</move>', link: '/encyclopedia/Move/FootMoto/FootScreef' },
+//             { text: '🟠 <move>PlantarFlexion</move>', link: '/encyclopedia/Move/FootMoto/PlantarFlexion' },
 //           ]
 //         },
 //         {
-//           text: '🟠 <moto>HandMoto</moto>', link: '/encyclopedia/Move/HandMoto/Overview', collapsed: true, items: [
-//             { text: '🟠 <moto>Hand Phrase</moto>', link: '/encyclopedia/Move/HandMoto/Phrase/Overview' },
-//             { text: '🟠 <moto>BagGrip</moto>', link: '/encyclopedia/Move/HandMoto/BagGrip' },
-//             { text: '🟠 <moto>BoxGrip</moto>', link: '/encyclopedia/Move/HandMoto/BoxGrip' },
-//             { text: '🟠 <moto>BranchGrip</moto>', link: '/encyclopedia/Move/HandMoto/BranchGrip' },
-//             { text: '🟠 <moto>BranchSnapGrip</moto>', link: '/encyclopedia/Move/HandMoto/BranchSnapGrip' },
-//             { text: '🟠 <moto>HandClose</moto>', link: '/encyclopedia/Move/HandMoto/HandClose' },
-//             { text: '🟠 <moto>HandPoke</moto>', link: '/encyclopedia/Move/HandMoto/HandPoke' },
-//             { text: '🟠 <moto>HandScreef</moto>', link: '/encyclopedia/Move/HandMoto/HandScreef' },
-//             { text: '🟠 <moto>SpadeHandleGrip</moto>', link: '/encyclopedia/Move/HandMoto/SpadeHandleGrip' },
-//             { text: '🟠 <moto>SpadeShaftGrip</moto>', link: '/encyclopedia/Move/HandMoto/SpadeShaftGrip' },
-//             { text: '🟠 <moto>TreeGrip</moto>', link: '/encyclopedia/Move/HandMoto/TreeGrip' },
-//             { text: '🟠 <moto>TreeTestGrip</moto>', link: '/encyclopedia/Move/HandMoto/TreeTestGrip' },
+//           text: '🟠 <move>HandMoto</move>', link: '/encyclopedia/Move/HandMoto/Overview', collapsed: true, items: [
+//             { text: '🟠 <move>Hand Phrase</move>', link: '/encyclopedia/Move/HandMoto/Phrase/Overview' },
+//             { text: '🟠 <move>BagGrip</move>', link: '/encyclopedia/Move/HandMoto/BagGrip' },
+//             { text: '🟠 <move>BoxGrip</move>', link: '/encyclopedia/Move/HandMoto/BoxGrip' },
+//             { text: '🟠 <move>BranchGrip</move>', link: '/encyclopedia/Move/HandMoto/BranchGrip' },
+//             { text: '🟠 <move>BranchSnapGrip</move>', link: '/encyclopedia/Move/HandMoto/BranchSnapGrip' },
+//             { text: '🟠 <move>HandClose</move>', link: '/encyclopedia/Move/HandMoto/HandClose' },
+//             { text: '🟠 <move>HandPoke</move>', link: '/encyclopedia/Move/HandMoto/HandPoke' },
+//             { text: '🟠 <move>HandScreef</move>', link: '/encyclopedia/Move/HandMoto/HandScreef' },
+//             { text: '🟠 <move>SpadeHandleGrip</move>', link: '/encyclopedia/Move/HandMoto/SpadeHandleGrip' },
+//             { text: '🟠 <move>SpadeShaftGrip</move>', link: '/encyclopedia/Move/HandMoto/SpadeShaftGrip' },
+//             { text: '🟠 <move>TreeGrip</move>', link: '/encyclopedia/Move/HandMoto/TreeGrip' },
+//             { text: '🟠 <move>TreeTestGrip</move>', link: '/encyclopedia/Move/HandMoto/TreeTestGrip' },
 //           ]
 //         },
 //         {
-//           text: '🟠 <moto>HeadMoto</moto>', link: '/encyclopedia/Move/HeadMoto/Overview', collapsed: true, items: [
-//             { text: '🟠 <moto>Head Phrase</moto>', link: '/encyclopedia/Move/HeadMoto/Phrase/Overview' },
-//             { text: '🟠 <moto>FocusLook</moto>', link: '/encyclopedia/Move/HeadMoto/FocusLook' },
-//             { text: '🟠 <moto>HeadProtraction</moto>', link: '/encyclopedia/Move/HeadMoto/HeadProtraction' },
-//             { text: '🟠 <moto>HeadRetraction</moto>', link: '/encyclopedia/Move/HeadMoto/HeadRetraction' },
-//             { text: '🟠 <moto>HeadTiltIntoWind</moto>', link: '/encyclopedia/Move/HeadMoto/HeadTiltIntoWind' },
-//             { text: '🟠 <moto>Hearing</moto>', link: '/encyclopedia/Move/HeadMoto/Hearing' },
-//             { text: '🟠 <moto>LookAway</moto>', link: '/encyclopedia/Move/HeadMoto/LookAway' },
-//             { text: '🟠 <moto>NeckExtension</moto>', link: '/encyclopedia/Move/HeadMoto/NeckExtension' },
+//           text: '🟠 <move>HeadMoto</move>', link: '/encyclopedia/Move/HeadMoto/Overview', collapsed: true, items: [
+//             { text: '🟠 <move>Head Phrase</move>', link: '/encyclopedia/Move/HeadMoto/Phrase/Overview' },
+//             { text: '🟠 <move>FocusLook</move>', link: '/encyclopedia/Move/HeadMoto/FocusLook' },
+//             { text: '🟠 <move>HeadProtraction</move>', link: '/encyclopedia/Move/HeadMoto/HeadProtraction' },
+//             { text: '🟠 <move>HeadRetraction</move>', link: '/encyclopedia/Move/HeadMoto/HeadRetraction' },
+//             { text: '🟠 <move>HeadTiltIntoWind</move>', link: '/encyclopedia/Move/HeadMoto/HeadTiltIntoWind' },
+//             { text: '🟠 <move>Hearing</move>', link: '/encyclopedia/Move/HeadMoto/Hearing' },
+//             { text: '🟠 <move>LookAway</move>', link: '/encyclopedia/Move/HeadMoto/LookAway' },
+//             { text: '🟠 <move>NeckExtension</move>', link: '/encyclopedia/Move/HeadMoto/NeckExtension' },
 //           ]
 //         },
 //         {
-//           text: '🟠 <moto>HoleMoto</moto>', link: '/encyclopedia/Move/HoleMoto/Overview', collapsed: true, items: [
-//             { text: '🟠 <moto>Hole Phrase</moto>', link: '/encyclopedia/Move/HoleMoto/Phrase/Overview' },
-//             { text: '🟠 <moto>HoleClose</moto>', link: '/encyclopedia/Move/HoleMoto/HoleClose' },
-//             { text: '🟠 <moto>HoleExpand</moto>', link: '/encyclopedia/Move/HoleMoto/HoleExpand' },
-//             { text: '🟠 <moto>HoleOpen</moto>', link: '/encyclopedia/Move/HoleMoto/HoleOpen' },
+//           text: '🟠 <move>HoleMoto</move>', link: '/encyclopedia/Move/HoleMoto/Overview', collapsed: true, items: [
+//             { text: '🟠 <move>Hole Phrase</move>', link: '/encyclopedia/Move/HoleMoto/Phrase/Overview' },
+//             { text: '🟠 <move>HoleClose</move>', link: '/encyclopedia/Move/HoleMoto/HoleClose' },
+//             { text: '🟠 <move>HoleExpand</move>', link: '/encyclopedia/Move/HoleMoto/HoleExpand' },
+//             { text: '🟠 <move>HoleOpen</move>', link: '/encyclopedia/Move/HoleMoto/HoleOpen' },
 //           ]
 //         },
 //         {
-//           text: '🟠 <moto>LegMoto</moto>', link: '/encyclopedia/Move/LegMoto/Overview', collapsed: true, items: [
-//             { text: '🟠 <moto>Leg Phrase</moto>', link: '/encyclopedia/Move/LegMoto/Phrase/Overview' },
-//             { text: '🟠 <moto>Crouch</moto>', link: '/encyclopedia/Move/LegMoto/Overview' },
-//             { text: '🟠 <moto>Jump</moto>', link: '/encyclopedia/Move/LegMoto/Jump' },
-//             { text: '🟠 <moto>Kneel</moto>', link: '/encyclopedia/Move/LegMoto/Kneel' },
-//             { text: '🟠 <moto>LegAbduction</moto>', link: '/encyclopedia/Move/LegMoto/LegAbduction' },
-//             { text: '🟠 <moto>LegAbsorb</moto>', link: '/encyclopedia/Move/LegMoto/LegAbsorb' },
-//             { text: '🟠 <moto>LegAdduction</moto>', link: '/encyclopedia/Move/LegMoto/LegAdduction' },
-//             { text: '🟠 <moto>LegFlap</moto>', link: '/encyclopedia/Move/LegMoto/LegFlap' },
-//             { text: '🟠 <moto>LegFlexion</moto>', link: '/encyclopedia/Move/LegMoto/LegFlexion' },
-//             { text: '🟠 <moto>LegProp</moto>', link: '/encyclopedia/Move/LegMoto/LegProp' },
-//             { text: '🟠 <moto>LegSidebagLift</moto>', link: '/encyclopedia/Move/LegMoto/LegSidebagLift' },
-//             { text: '🟠 <moto>LegSwing</moto>', link: '/encyclopedia/Move/LegMoto/LegSwing' },
-//             { text: '🟠 <moto>RunningStart</moto>', link: '/encyclopedia/Move/LegMoto/RunningStart' },
-//             { text: '🟠 <moto>Step</moto>', link: '/encyclopedia/Move/LegMoto/Step' },
-//             { text: '🟠 <moto>Stomp</moto>', link: '/encyclopedia/Move/LegMoto/Stomp' },
+//           text: '🟠 <move>LegMoto</move>', link: '/encyclopedia/Move/LegMoto/Overview', collapsed: true, items: [
+//             { text: '🟠 <move>Leg Phrase</move>', link: '/encyclopedia/Move/LegMoto/Phrase/Overview' },
+//             { text: '🟠 <move>Crouch</move>', link: '/encyclopedia/Move/LegMoto/Overview' },
+//             { text: '🟠 <move>Jump</move>', link: '/encyclopedia/Move/LegMoto/Jump' },
+//             { text: '🟠 <move>Kneel</move>', link: '/encyclopedia/Move/LegMoto/Kneel' },
+//             { text: '🟠 <move>LegAbduction</move>', link: '/encyclopedia/Move/LegMoto/LegAbduction' },
+//             { text: '🟠 <move>LegAbsorb</move>', link: '/encyclopedia/Move/LegMoto/LegAbsorb' },
+//             { text: '🟠 <move>LegAdduction</move>', link: '/encyclopedia/Move/LegMoto/LegAdduction' },
+//             { text: '🟠 <move>LegFlap</move>', link: '/encyclopedia/Move/LegMoto/LegFlap' },
+//             { text: '🟠 <move>LegFlexion</move>', link: '/encyclopedia/Move/LegMoto/LegFlexion' },
+//             { text: '🟠 <move>LegProp</move>', link: '/encyclopedia/Move/LegMoto/LegProp' },
+//             { text: '🟠 <move>LegSidebagLift</move>', link: '/encyclopedia/Move/LegMoto/LegSidebagLift' },
+//             { text: '🟠 <move>LegSwing</move>', link: '/encyclopedia/Move/LegMoto/LegSwing' },
+//             { text: '🟠 <move>RunningStart</move>', link: '/encyclopedia/Move/LegMoto/RunningStart' },
+//             { text: '🟠 <move>Step</move>', link: '/encyclopedia/Move/LegMoto/Step' },
+//             { text: '🟠 <move>Stomp</move>', link: '/encyclopedia/Move/LegMoto/Stomp' },
 //           ]
 //         },
 //         {
-//           text: '🟠 <moto>PlantMoto</moto>', link: '/encyclopedia/Move/PlantMoto/Overview', collapsed: true, items: [
-//             { text: '🟠 <moto>BranchMoto</moto>', link: '/encyclopedia/Move/PlantMoto/BranchMoto' },
-//             { text: '🟠 <moto>BranchWhip</moto>', link: '/encyclopedia/Move/PlantMoto/BranchWhip' },
-//             { text: '🟠 <moto>Bush</moto>', link: '/encyclopedia/Move/PlantMoto/Bush' },
-//             { text: '🟠 <moto>Log</moto>', link: '/encyclopedia/Move/PlantMoto/Log' },
-//             { text: '🟠 <moto>SlashPile</moto>', link: '/encyclopedia/Move/PlantMoto/SlashPile' },
-//             { text: '🟠 <moto>Stump</moto>', link: '/encyclopedia/Move/PlantMoto/Stump' },
+//           text: '🟠 <move>PlantMoto</move>', link: '/encyclopedia/Move/PlantMoto/Overview', collapsed: true, items: [
+//             { text: '🟠 <move>BranchMoto</move>', link: '/encyclopedia/Move/PlantMoto/BranchMoto' },
+//             { text: '🟠 <move>BranchWhip</move>', link: '/encyclopedia/Move/PlantMoto/BranchWhip' },
+//             { text: '🟠 <move>Bush</move>', link: '/encyclopedia/Move/PlantMoto/Bush' },
+//             { text: '🟠 <move>Log</move>', link: '/encyclopedia/Move/PlantMoto/Log' },
+//             { text: '🟠 <move>SlashPile</move>', link: '/encyclopedia/Move/PlantMoto/SlashPile' },
+//             { text: '🟠 <move>Stump</move>', link: '/encyclopedia/Move/PlantMoto/Stump' },
 //           ]
 //         },
 //         {
-//           text: '🟠 <moto>Screef</moto>', link: '/encyclopedia/Move/Screef/Overview', collapsed: true, items: [
-//             { text: '🟠 <moto>BootScreef</moto>', link: '/encyclopedia/Move/ToolMoto/Boot/BootScreef' },
-//             { text: '🟠 <moto>HandScreef</moto>', link: '/encyclopedia/Move/HandMoto/HandScreef' },
-//             { text: '🟠 <moto>SpadeScreef</moto>', link: '/encyclopedia/Move/ToolMoto/Spade/SpadeScreef' },
+//           text: '🟠 <move>Screef</move>', link: '/encyclopedia/Move/Screef/Overview', collapsed: true, items: [
+//             { text: '🟠 <move>BootScreef</move>', link: '/encyclopedia/Move/ToolMoto/Boot/BootScreef' },
+//             { text: '🟠 <move>HandScreef</move>', link: '/encyclopedia/Move/HandMoto/HandScreef' },
+//             { text: '🟠 <move>SpadeScreef</move>', link: '/encyclopedia/Move/ToolMoto/Spade/SpadeScreef' },
 //           ]
 //         },
 //         {
-//           text: '🟠 <moto>ToolMoto</moto>', link: '/encyclopedia/Move/ToolMoto/Overview', collapsed: true, items: [
+//           text: '🟠 <move>ToolMoto</move>', link: '/encyclopedia/Move/ToolMoto/Overview', collapsed: true, items: [
 //             {
-//               text: '🟠 <moto>Bag</moto>', link: '/encyclopedia/Move/ToolMoto/Bag/Overview', collapsed: true, items: [
-//                 { text: '🟠 <moto>BagGrip</moto>', link: '/encyclopedia/Move/ToolMoto/Bag/BagGrip' },
-//                 { text: '🔷 <moto>Bag Phrase</moto>', link: '/encyclopedia/Move/ToolMoto/Bag/Phrase/Overview' },
-//                 { text: '🟠 <moto>BagAdjustment</moto>', link: '/encyclopedia/Move/ToolMoto/Bag/BagAdjustment' },
-//                 { text: '🟠 <moto>BagDeadlift</moto>', link: '/encyclopedia/Move/ToolMoto/Bag/BagDeadlift' },
-//                 { text: '🟠 <moto>BagEmpty</moto>', link: '/encyclopedia/Move/ToolMoto/Bag/BagEmpty' },
-//                 { text: '🟠 <moto>BaggingUp</moto>', link: '/encyclopedia/Move/ToolMoto/Bag/BaggingUp' },
-//                 { text: '🟠 <moto>BagOff</moto>', link: '/encyclopedia/Move/ToolMoto/Bag/BagOff' },
-//                 { text: '🟠 <moto>BagOn</moto>', link: '/encyclopedia/Move/ToolMoto/Bag/BagOn' },
-//                 { text: '🟠 <moto>BagSlide</moto>', link: '/encyclopedia/Move/ToolMoto/Bag/BagSlide' },
+//               text: '🟠 <move>Bag</move>', link: '/encyclopedia/Move/ToolMoto/Bag/Overview', collapsed: true, items: [
+//                 { text: '🟠 <move>BagGrip</move>', link: '/encyclopedia/Move/ToolMoto/Bag/BagGrip' },
+//                 { text: '🔷 <move>Bag Phrase</move>', link: '/encyclopedia/Move/ToolMoto/Bag/Phrase/Overview' },
+//                 { text: '🟠 <move>BagAdjustment</move>', link: '/encyclopedia/Move/ToolMoto/Bag/BagAdjustment' },
+//                 { text: '🟠 <move>BagDeadlift</move>', link: '/encyclopedia/Move/ToolMoto/Bag/BagDeadlift' },
+//                 { text: '🟠 <move>BagEmpty</move>', link: '/encyclopedia/Move/ToolMoto/Bag/BagEmpty' },
+//                 { text: '🟠 <move>BaggingUp</move>', link: '/encyclopedia/Move/ToolMoto/Bag/BaggingUp' },
+//                 { text: '🟠 <move>BagOff</move>', link: '/encyclopedia/Move/ToolMoto/Bag/BagOff' },
+//                 { text: '🟠 <move>BagOn</move>', link: '/encyclopedia/Move/ToolMoto/Bag/BagOn' },
+//                 { text: '🟠 <move>BagSlide</move>', link: '/encyclopedia/Move/ToolMoto/Bag/BagSlide' },
 //               ]
 //             },
 //             {
-//               text: '🟠 <moto>Boot</moto>', link: '/encyclopedia/Move/ToolMoto/Boot/Overview', collapsed: true, items: [
-//                 { text: '🔷 <moto>Boot Phrase</moto>', link: '/encyclopedia/Move/ToolMoto/Boot/Phrase/Overview' },
-//                 { text: '🟠 <moto>BootGrip</moto>', link: '/encyclopedia/Move/ToolMoto/Boot/BootGrip' },
-//                 { text: '🟠 <moto>BootScreef</moto>', link: '/encyclopedia/Move/ToolMoto/Boot/BootScreef' },
-//                 { text: '🟠 <moto>LaceKnot</moto>', link: '/encyclopedia/Move/ToolMoto/Boot/LaceKnot' },
+//               text: '🟠 <move>Boot</move>', link: '/encyclopedia/Move/ToolMoto/Boot/Overview', collapsed: true, items: [
+//                 { text: '🔷 <move>Boot Phrase</move>', link: '/encyclopedia/Move/ToolMoto/Boot/Phrase/Overview' },
+//                 { text: '🟠 <move>BootGrip</move>', link: '/encyclopedia/Move/ToolMoto/Boot/BootGrip' },
+//                 { text: '🟠 <move>BootScreef</move>', link: '/encyclopedia/Move/ToolMoto/Boot/BootScreef' },
+//                 { text: '🟠 <move>LaceKnot</move>', link: '/encyclopedia/Move/ToolMoto/Boot/LaceKnot' },
 //               ]
 //             },
 //             {
-//               text: '🟠 <moto>Box</moto>', link: '/encyclopedia/Move/ToolMoto/Box/Overview', collapsed: true, items: [
-//                 { text: '🔷 <moto>Box Phrase</moto>', link: '/encyclopedia/Move/ToolMoto/Box/Phrase/Overview' },
-//                 { text: '🟠 <moto>BoxGrip</moto>', link: '/encyclopedia/Move/ToolMoto/Box/BoxGrip' },
+//               text: '🟠 <move>Box</move>', link: '/encyclopedia/Move/ToolMoto/Box/Overview', collapsed: true, items: [
+//                 { text: '🔷 <move>Box Phrase</move>', link: '/encyclopedia/Move/ToolMoto/Box/Phrase/Overview' },
+//                 { text: '🟠 <move>BoxGrip</move>', link: '/encyclopedia/Move/ToolMoto/Box/BoxGrip' },
 //               ]
 //             },
 //             {
-//               text: '🟠 <moto>Bundle</moto>', link: '/encyclopedia/Move/ToolMoto/Bundle/Overview', collapsed: true, items: [
-//                 { text: '🔷 <moto>Bundle Phrase</moto>', link: '/encyclopedia/Move/ToolMoto/Bundle/Phrase/Overview' },
-//                 { text: '🟠 <moto>BundleGrip</moto>', link: '/encyclopedia/Move/ToolMoto/Bundle/BundleGrip' },
-//                 { text: '🟠 <moto>BundlePeel</moto>', link: '/encyclopedia/Move/ToolMoto/Bundle/BundlePeel' },
+//               text: '🟠 <move>Bundle</move>', link: '/encyclopedia/Move/ToolMoto/Bundle/Overview', collapsed: true, items: [
+//                 { text: '🔷 <move>Bundle Phrase</move>', link: '/encyclopedia/Move/ToolMoto/Bundle/Phrase/Overview' },
+//                 { text: '🟠 <move>BundleGrip</move>', link: '/encyclopedia/Move/ToolMoto/Bundle/BundleGrip' },
+//                 { text: '🟠 <move>BundlePeel</move>', link: '/encyclopedia/Move/ToolMoto/Bundle/BundlePeel' },
 //               ]
 //             },
 //             {
-//               text: '🟠 <moto>Carabiner</moto>', link: '/encyclopedia/Move/ToolMoto/Carabiner/Overview', collapsed: true, items: [
+//               text: '🟠 <move>Carabiner</move>', link: '/encyclopedia/Move/ToolMoto/Carabiner/Overview', collapsed: true, items: [
 //               ]
 //             },
 //             {
-//               text: '🟠 <moto>Flag</moto>', link: '/encyclopedia/Move/ToolMoto/Flag/Overview', collapsed: true, items: [
-//                 { text: '🔷 <moto>Flag Phrase</moto>', link: '/encyclopedia/Move/ToolMoto/Flag/Phrase/Overview' },
-//                 { text: '🟠 <moto>FlagGrip</moto>', link: '/encyclopedia/Move/ToolMoto/Flag/FlagGrip' },
-//                 { text: '🟠 <moto>FlagKnot</moto>', link: '/encyclopedia/Move/ToolMoto/Flag/FlagKnot' },
-//                 { text: '🟠 <moto>FlagReload</moto>', link: '/encyclopedia/Move/ToolMoto/Flag/FlagReload' },
-//                 { text: '🟠 <moto>FlagRip</moto>', link: '/encyclopedia/Move/ToolMoto/Flag/FlagRip' },
-//                 { text: '🟠 <moto>FlagRoll</moto>', link: '/encyclopedia/Move/ToolMoto/Flag/FlagRoll' },
+//               text: '🟠 <move>Flag</move>', link: '/encyclopedia/Move/ToolMoto/Flag/Overview', collapsed: true, items: [
+//                 { text: '🔷 <move>Flag Phrase</move>', link: '/encyclopedia/Move/ToolMoto/Flag/Phrase/Overview' },
+//                 { text: '🟠 <move>FlagGrip</move>', link: '/encyclopedia/Move/ToolMoto/Flag/FlagGrip' },
+//                 { text: '🟠 <move>FlagKnot</move>', link: '/encyclopedia/Move/ToolMoto/Flag/FlagKnot' },
+//                 { text: '🟠 <move>FlagReload</move>', link: '/encyclopedia/Move/ToolMoto/Flag/FlagReload' },
+//                 { text: '🟠 <move>FlagRip</move>', link: '/encyclopedia/Move/ToolMoto/Flag/FlagRip' },
+//                 { text: '🟠 <move>FlagRoll</move>', link: '/encyclopedia/Move/ToolMoto/Flag/FlagRoll' },
 //               ]
 //             },
 //             {
-//               text: '🟠 <moto>Gaiter</moto>', link: '/encyclopedia/Move/ToolMoto/Gaiter/Overview', collapsed: true, items: [
-//                 { text: '🔷 <moto>Gaiter Phrase</moto>', link: '/encyclopedia/Move/ToolMoto/Gaiter/Phrase/Overview' },
-//                 { text: '🟠 <moto>GaiterGrip</moto>', link: '/encyclopedia/Move/ToolMoto/Gaiter/GaiterGrip' },
-//                 { text: '🟠 <moto>GaiterOn</moto>', link: '/encyclopedia/Move/ToolMoto/Gaiter/GaiterOn' },
-//                 { text: '🟠 <moto>GaiterOff</moto>', link: '/encyclopedia/Move/ToolMoto/Gaiter/GaiterOff' },
+//               text: '🟠 <move>Gaiter</move>', link: '/encyclopedia/Move/ToolMoto/Gaiter/Overview', collapsed: true, items: [
+//                 { text: '🔷 <move>Gaiter Phrase</move>', link: '/encyclopedia/Move/ToolMoto/Gaiter/Phrase/Overview' },
+//                 { text: '🟠 <move>GaiterGrip</move>', link: '/encyclopedia/Move/ToolMoto/Gaiter/GaiterGrip' },
+//                 { text: '🟠 <move>GaiterOn</move>', link: '/encyclopedia/Move/ToolMoto/Gaiter/GaiterOn' },
+//                 { text: '🟠 <move>GaiterOff</move>', link: '/encyclopedia/Move/ToolMoto/Gaiter/GaiterOff' },
 //               ]
 //             },
 //             {
-//               text: '🟠 <moto>Glove</moto>', link: '/encyclopedia/Move/ToolMoto/Glove/Overview', collapsed: true, items: [
-//                 { text: '🔷 <moto>Glove Phrase</moto>', link: '/encyclopedia/Move/ToolMoto/Glove/Phrase/Overview' },
-//                 { text: '🟠 <moto>GloveGrip</moto>', link: '/encyclopedia/Move/ToolMoto/Glove/GloveGrip' },
+//               text: '🟠 <move>Glove</move>', link: '/encyclopedia/Move/ToolMoto/Glove/Overview', collapsed: true, items: [
+//                 { text: '🔷 <move>Glove Phrase</move>', link: '/encyclopedia/Move/ToolMoto/Glove/Phrase/Overview' },
+//                 { text: '🟠 <move>GloveGrip</move>', link: '/encyclopedia/Move/ToolMoto/Glove/GloveGrip' },
 //               ]
 //             },
 //             {
-//               text: '🟠 <moto>Kit</moto>', link: '/encyclopedia/Move/ToolMoto/Kit/Overview', collapsed: true, items: [
+//               text: '🟠 <move>Kit</move>', link: '/encyclopedia/Move/ToolMoto/Kit/Overview', collapsed: true, items: [
 //               ]
 //             },
 //             {
-//               text: '🟠 <moto>Rope</moto>', link: '/encyclopedia/Move/ToolMoto/Rope/Overview', collapsed: true, items: [
+//               text: '🟠 <move>Rope</move>', link: '/encyclopedia/Move/ToolMoto/Rope/Overview', collapsed: true, items: [
 //               ]
 //             },
 //             {
-//               text: '🟠 <moto>Spade</moto>', link: '/encyclopedia/Move/ToolMoto/Spade/Overview', collapsed: true, items: [
-//                 { text: '🔷 <moto>Spade Phrase</moto>', link: '/encyclopedia/Move/ToolMoto/Spade/Phrase/Overview' },
-//                 { text: '🟠 <moto>SpadeAmble</moto>', link: '/encyclopedia/Move/ToolMoto/Spade/SpadeAmble' },
-//                 { text: '🟠 <moto>SpadeAnchor</moto>', link: '/encyclopedia/Move/ToolMoto/Spade/SpadeAnchor' },
-//                 { text: '🟠 <moto>SpadeChop</moto>', link: '/encyclopedia/Move/ToolMoto/Spade/SpadeChop' },
-//                 { text: '🟠 <moto>SpadeCone</moto>', link: '/encyclopedia/Move/ToolMoto/Spade/SpadeCone' },
-//                 { text: '🟠 <moto>SpadeDrag</moto>', link: '/encyclopedia/Move/ToolMoto/Spade/SpadeDrag' },
-//                 { text: '🟠 <moto>SpadeGrip</moto>', link: '/encyclopedia/Move/ToolMoto/Spade/SpadeGrip' },
-//                 { text: '🟠 <moto>SpadeJavelin</moto>', link: '/encyclopedia/Move/ToolMoto/Spade/SpadeJavelin' },
-//                 { text: '🟠 <moto>SpadePendulum</moto>', link: '/encyclopedia/Move/ToolMoto/Spade/SpadePendulum' },
-//                 { text: '🟠 <moto>SpadePogo</moto>', link: '/encyclopedia/Move/ToolMoto/Spade/SpadePogo' },
-//                 { text: '🟠 <moto>SpadePoke</moto>', link: '/encyclopedia/Move/ToolMoto/Spade/SpadePoke' },
-//                 { text: '🟠 <moto>SpadePost</moto>', link: '/encyclopedia/Move/ToolMoto/Spade/SpadePost' },
-//                 { text: '🟠 <moto>SpadeProp</moto>', link: '/encyclopedia/Move/ToolMoto/Spade/SpadeProp' },
-//                 { text: '🟠 <moto>SpadeRotate</moto>', link: '/encyclopedia/Move/ToolMoto/Spade/SpadeRotate' },
-//                 { text: '🟠 <moto>SpadeScreef</moto>', link: '/encyclopedia/Move/ToolMoto/Spade/SpadeScreef' },
-//                 { text: '🟠 <moto>SpadeSlam</moto>', link: '/encyclopedia/Move/ToolMoto/Spade/SpadeSlam' },
-//                 { text: '🟠 <moto>SpadeStall</moto>', link: '/encyclopedia/Move/ToolMoto/Spade/SpadeStall' },
-//                 { text: '🟠 <moto>SpadeStomp</moto>', link: '/encyclopedia/Move/ToolMoto/Spade/SpadeStomp' },
-//                 { text: '🟠 <moto>SpadeSwing</moto>', link: '/encyclopedia/Move/ToolMoto/Spade/SpadeSwing' },
-//                 { text: '🟠 <moto>SpadeTest</moto>', link: '/encyclopedia/Move/ToolMoto/Spade/SpadeTest' },
-//                 { text: '❌ <moto>SpadeError</moto>', link: '/encyclopedia/Move/ToolMoto/Spade/SpadeError' },
+//               text: '🟠 <move>Spade</move>', link: '/encyclopedia/Move/ToolMoto/Spade/Overview', collapsed: true, items: [
+//                 { text: '🔷 <move>Spade Phrase</move>', link: '/encyclopedia/Move/ToolMoto/Spade/Phrase/Overview' },
+//                 { text: '🟠 <move>SpadeAmble</move>', link: '/encyclopedia/Move/ToolMoto/Spade/SpadeAmble' },
+//                 { text: '🟠 <move>SpadeAnchor</move>', link: '/encyclopedia/Move/ToolMoto/Spade/SpadeAnchor' },
+//                 { text: '🟠 <move>SpadeChop</move>', link: '/encyclopedia/Move/ToolMoto/Spade/SpadeChop' },
+//                 { text: '🟠 <move>SpadeCone</move>', link: '/encyclopedia/Move/ToolMoto/Spade/SpadeCone' },
+//                 { text: '🟠 <move>SpadeDrag</move>', link: '/encyclopedia/Move/ToolMoto/Spade/SpadeDrag' },
+//                 { text: '🟠 <move>SpadeGrip</move>', link: '/encyclopedia/Move/ToolMoto/Spade/SpadeGrip' },
+//                 { text: '🟠 <move>SpadeJavelin</move>', link: '/encyclopedia/Move/ToolMoto/Spade/SpadeJavelin' },
+//                 { text: '🟠 <move>SpadePendulum</move>', link: '/encyclopedia/Move/ToolMoto/Spade/SpadePendulum' },
+//                 { text: '🟠 <move>SpadePogo</move>', link: '/encyclopedia/Move/ToolMoto/Spade/SpadePogo' },
+//                 { text: '🟠 <move>SpadePoke</move>', link: '/encyclopedia/Move/ToolMoto/Spade/SpadePoke' },
+//                 { text: '🟠 <move>SpadePost</move>', link: '/encyclopedia/Move/ToolMoto/Spade/SpadePost' },
+//                 { text: '🟠 <move>SpadeProp</move>', link: '/encyclopedia/Move/ToolMoto/Spade/SpadeProp' },
+//                 { text: '🟠 <move>SpadeRotate</move>', link: '/encyclopedia/Move/ToolMoto/Spade/SpadeRotate' },
+//                 { text: '🟠 <move>SpadeScreef</move>', link: '/encyclopedia/Move/ToolMoto/Spade/SpadeScreef' },
+//                 { text: '🟠 <move>SpadeSlam</move>', link: '/encyclopedia/Move/ToolMoto/Spade/SpadeSlam' },
+//                 { text: '🟠 <move>SpadeStall</move>', link: '/encyclopedia/Move/ToolMoto/Spade/SpadeStall' },
+//                 { text: '🟠 <move>SpadeStomp</move>', link: '/encyclopedia/Move/ToolMoto/Spade/SpadeStomp' },
+//                 { text: '🟠 <move>SpadeSwing</move>', link: '/encyclopedia/Move/ToolMoto/Spade/SpadeSwing' },
+//                 { text: '🟠 <move>SpadeTest</move>', link: '/encyclopedia/Move/ToolMoto/Spade/SpadeTest' },
+//                 { text: '❌ <move>SpadeError</move>', link: '/encyclopedia/Move/ToolMoto/Spade/SpadeError' },
 //               ]
 //             },
 //             {
-//               text: '🟠 <moto>Staff</moto>', link: '/encyclopedia/Move/ToolMoto/Staff/Overview', collapsed: true, items: [
-//                 { text: '🟠 <moto>StaffAmble</moto>', link: '/encyclopedia/Move/ToolMoto/Staff/StaffAmble' },
-//                 { text: '🟠 <moto>StaffAmble</moto>', link: '/encyclopedia/Move/ToolMoto/Staff/StaffAmble' },
-//                 { text: '🟠 <moto>StaffAnchor</moto>', link: '/encyclopedia/Move/ToolMoto/Staff/StaffAnchor' },
-//                 { text: '🟠 <moto>StaffBridge</moto>', link: '/encyclopedia/Move/ToolMoto/Staff/StaffBridge' },
-//                 { text: '🟠 <moto>StaffBump</moto>', link: '/encyclopedia/Move/ToolMoto/Staff/StaffBump' },
-//                 { text: '🟠 <moto>StaffChop</moto>', link: '/encyclopedia/Move/ToolMoto/Staff/StaffChop' },
-//                 { text: '🟠 <moto>StaffCone</moto>', link: '/encyclopedia/Move/ToolMoto/Staff/StaffCone' },
-//                 { text: '🟠 <moto>StaffDrag</moto>', link: '/encyclopedia/Move/ToolMoto/Staff/StaffDrag' },
-//                 { text: '🟠 <moto>StaffGrip</moto>', link: '/encyclopedia/Move/ToolMoto/Staff/StaffGrip' },
-//                 { text: '🟠 <moto>StaffMatch</moto>', link: '/encyclopedia/Move/ToolMoto/Staff/StaffMatch' },
-//                 { text: '🟠 <moto>StaffPendulum</moto>', link: '/encyclopedia/Move/ToolMoto/Staff/StaffPendulum' },
-//                 { text: '🟠 <moto>StaffPogo</moto>', link: '/encyclopedia/Move/ToolMoto/Staff/StaffPogo' },
-//                 { text: '🟠 <moto>StaffPoke</moto>', link: '/encyclopedia/Move/ToolMoto/Staff/StaffPoke' },
-//                 { text: '🟠 <moto>StaffPost</moto>', link: '/encyclopedia/Move/ToolMoto/Staff/StaffPost' },
-//                 { text: '🟠 <moto>StaffProp</moto>', link: '/encyclopedia/Move/ToolMoto/Staff/StaffProp' },
-//                 { text: '🟠 <moto>StaffPost</moto>', link: '/encyclopedia/Move/ToolMoto/Staff/StaffPost' },
-//                 { text: '🟠 <moto>StaffRotate</moto>', link: '/encyclopedia/Move/ToolMoto/Staff/StaffRotate' },
-//                 { text: '🟠 <moto>StaffScreef</moto>', link: '/encyclopedia/Move/ToolMoto/Staff/StaffScreef' },
-//                 { text: '🟠 <moto>StaffSlam</moto>', link: '/encyclopedia/Move/ToolMoto/Staff/StaffSlam' },
-//                 { text: '🟠 <moto>StaffSlap</moto>', link: '/encyclopedia/Move/ToolMoto/Staff/StaffSlap' },
-//                 { text: '🟠 <moto>StaffSlide</moto>', link: '/encyclopedia/Move/ToolMoto/Staff/StaffSlide' },
-//                 { text: '🟠 <moto>StaffStall</moto>', link: '/encyclopedia/Move/ToolMoto/Staff/StaffStall' },
-//                 { text: '🟠 <moto>StaffStomp</moto>', link: '/encyclopedia/Move/ToolMoto/Staff/StaffStomp' },
-//                 { text: '🟠 <moto>StaffSwing</moto>', link: '/encyclopedia/Move/ToolMoto/Staff/StaffSwing' },
-//                 { text: '❌ <moto>StaffError</moto>', link: '/encyclopedia/Move/ToolMoto/Staff/StaffError' },
+//               text: '🟠 <move>Staff</move>', link: '/encyclopedia/Move/ToolMoto/Staff/Overview', collapsed: true, items: [
+//                 { text: '🟠 <move>StaffAmble</move>', link: '/encyclopedia/Move/ToolMoto/Staff/StaffAmble' },
+//                 { text: '🟠 <move>StaffAmble</move>', link: '/encyclopedia/Move/ToolMoto/Staff/StaffAmble' },
+//                 { text: '🟠 <move>StaffAnchor</move>', link: '/encyclopedia/Move/ToolMoto/Staff/StaffAnchor' },
+//                 { text: '🟠 <move>StaffBridge</move>', link: '/encyclopedia/Move/ToolMoto/Staff/StaffBridge' },
+//                 { text: '🟠 <move>StaffBump</move>', link: '/encyclopedia/Move/ToolMoto/Staff/StaffBump' },
+//                 { text: '🟠 <move>StaffChop</move>', link: '/encyclopedia/Move/ToolMoto/Staff/StaffChop' },
+//                 { text: '🟠 <move>StaffCone</move>', link: '/encyclopedia/Move/ToolMoto/Staff/StaffCone' },
+//                 { text: '🟠 <move>StaffDrag</move>', link: '/encyclopedia/Move/ToolMoto/Staff/StaffDrag' },
+//                 { text: '🟠 <move>StaffGrip</move>', link: '/encyclopedia/Move/ToolMoto/Staff/StaffGrip' },
+//                 { text: '🟠 <move>StaffMatch</move>', link: '/encyclopedia/Move/ToolMoto/Staff/StaffMatch' },
+//                 { text: '🟠 <move>StaffPendulum</move>', link: '/encyclopedia/Move/ToolMoto/Staff/StaffPendulum' },
+//                 { text: '🟠 <move>StaffPogo</move>', link: '/encyclopedia/Move/ToolMoto/Staff/StaffPogo' },
+//                 { text: '🟠 <move>StaffPoke</move>', link: '/encyclopedia/Move/ToolMoto/Staff/StaffPoke' },
+//                 { text: '🟠 <move>StaffPost</move>', link: '/encyclopedia/Move/ToolMoto/Staff/StaffPost' },
+//                 { text: '🟠 <move>StaffProp</move>', link: '/encyclopedia/Move/ToolMoto/Staff/StaffProp' },
+//                 { text: '🟠 <move>StaffPost</move>', link: '/encyclopedia/Move/ToolMoto/Staff/StaffPost' },
+//                 { text: '🟠 <move>StaffRotate</move>', link: '/encyclopedia/Move/ToolMoto/Staff/StaffRotate' },
+//                 { text: '🟠 <move>StaffScreef</move>', link: '/encyclopedia/Move/ToolMoto/Staff/StaffScreef' },
+//                 { text: '🟠 <move>StaffSlam</move>', link: '/encyclopedia/Move/ToolMoto/Staff/StaffSlam' },
+//                 { text: '🟠 <move>StaffSlap</move>', link: '/encyclopedia/Move/ToolMoto/Staff/StaffSlap' },
+//                 { text: '🟠 <move>StaffSlide</move>', link: '/encyclopedia/Move/ToolMoto/Staff/StaffSlide' },
+//                 { text: '🟠 <move>StaffStall</move>', link: '/encyclopedia/Move/ToolMoto/Staff/StaffStall' },
+//                 { text: '🟠 <move>StaffStomp</move>', link: '/encyclopedia/Move/ToolMoto/Staff/StaffStomp' },
+//                 { text: '🟠 <move>StaffSwing</move>', link: '/encyclopedia/Move/ToolMoto/Staff/StaffSwing' },
+//                 { text: '❌ <move>StaffError</move>', link: '/encyclopedia/Move/ToolMoto/Staff/StaffError' },
 //               ]
 //             }
 //           ]
 //         },
 //         {
-//           text: '🟠 <moto>Truck</moto>', link: '/encyclopedia/Move/TruckMoto/Overview', collapsed: true, items: [
-//             { text: '🔷 <moto>Truck Phrase</moto>', link: '/encyclopedia/Move/TruckMoto/Phrase/Overview' },
-//             { text: '🟠 <moto>Sleep</moto>', link: '/encyclopedia/Move/TruckMoto/Sleep' },
-//             { text: '🟠 <moto>Sit</moto>', link: '/encyclopedia/Move/TruckMoto/Sit' },
+//           text: '🟠 <move>Truck</move>', link: '/encyclopedia/Move/TruckMoto/Overview', collapsed: true, items: [
+//             { text: '🔷 <move>Truck Phrase</move>', link: '/encyclopedia/Move/TruckMoto/Phrase/Overview' },
+//             { text: '🟠 <move>Sleep</move>', link: '/encyclopedia/Move/TruckMoto/Sleep' },
+//             { text: '🟠 <move>Sit</move>', link: '/encyclopedia/Move/TruckMoto/Sit' },
 //           ]
 //         },
-//         { text: '🟠 <moto>Kinesiology</moto>', link: '/encyclopedia/Move/Kinesiology/KinesiologyOverview' },
+//         { text: '🟠 <move>Kinesiology</move>', link: '/encyclopedia/Move/Kinesiology/KinesiologyOverview' },
 //       ],
 //     },
 //     // #Via
@@ -680,106 +680,106 @@ export default defineConfig({
 //     },
 //     // #Psike
 //     {
-//       text: '💜 <neuro>Psike</neuro>', link: '/encyclopedia/Psike/NeuroOverview', collapsed: true, items: [
-//         { text: '🔷 <neuro>Psike Theoria</neuro>', link: '/encyclopedia/Psike/NeuroTheoria' },
+//       text: '💜 <psike>Psike</psike>', link: '/encyclopedia/Psike/NeuroOverview', collapsed: true, items: [
+//         { text: '🔷 <psike>Psike Theoria</psike>', link: '/encyclopedia/Psike/NeuroTheoria' },
 //         {
-//           text: '💜 <neuro>Arousal</neuro>', link: '/encyclopedia/Psike/Arousal/Overview', collapsed: true, items: [
+//           text: '💜 <psike>Arousal</psike>', link: '/encyclopedia/Psike/Arousal/Overview', collapsed: true, items: [
 //           ]
 //         },
 //         {
-//           text: '💜 <neuro>Attention</neuro>', link: '/encyclopedia/Psike/Attention/Overview', collapsed: true, items: [
+//           text: '💜 <psike>Attention</psike>', link: '/encyclopedia/Psike/Attention/Overview', collapsed: true, items: [
 //           ]
 //         },
 //         {
-//           text: '💜 <neuro>Audio</neuro>', link: '/encyclopedia/Psike/Audio/Overview', collapsed: true, items: [
+//           text: '💜 <psike>Audio</psike>', link: '/encyclopedia/Psike/Audio/Overview', collapsed: true, items: [
 //             {
-//               text: '💜 <neuro>Music</neuro>', link: '/encyclopedia/Psike/Audio/Music/Overview', collapsed: true, items: [
-//                 { text: '💜 <neuro>Playlists</neuro>', link: '/encyclopedia/Psike/Audio/Music/Overview' },
+//               text: '💜 <psike>Music</psike>', link: '/encyclopedia/Psike/Audio/Music/Overview', collapsed: true, items: [
+//                 { text: '💜 <psike>Playlists</psike>', link: '/encyclopedia/Psike/Audio/Music/Overview' },
 //               ]
 //             },
-//             { text: '💜 <neuro>BranchBreakSound</neuro>', link: '/encyclopedia/Psike/Audio/BranchBreakSound' },
-//             { text: '💜 <neuro>LogBreakSound</neuro>', link: '/encyclopedia/Psike/Audio/LogBreakSound' },
-//             { text: '💜 <neuro>SlashSound</neuro>', link: '/encyclopedia/Psike/Audio/SlashSound' },
-//             { text: '💜 <neuro>SpadeSound</neuro>', link: '/encyclopedia/Psike/Audio/SpadeSound' },
-//             { text: '💜 <neuro>SoilSound</neuro>', link: '/encyclopedia/Psike/Audio/SoilSound' },
+//             { text: '💜 <psike>BranchBreakSound</psike>', link: '/encyclopedia/Psike/Audio/BranchBreakSound' },
+//             { text: '💜 <psike>LogBreakSound</psike>', link: '/encyclopedia/Psike/Audio/LogBreakSound' },
+//             { text: '💜 <psike>SlashSound</psike>', link: '/encyclopedia/Psike/Audio/SlashSound' },
+//             { text: '💜 <psike>SpadeSound</psike>', link: '/encyclopedia/Psike/Audio/SpadeSound' },
+//             { text: '💜 <psike>SoilSound</psike>', link: '/encyclopedia/Psike/Audio/SoilSound' },
 //           ]
 //         },
 //         {
-//           text: '💜 <neuro>Awareness</neuro>', link: '/encyclopedia/Psike/Awareness/Overview', collapsed: true, items: [
+//           text: '💜 <psike>Awareness</psike>', link: '/encyclopedia/Psike/Awareness/Overview', collapsed: true, items: [
 //           ]
 //         },
 //         {
-//           text: '💜 <neuro>Counting</neuro>', link: '/encyclopedia/Psike/Counting/Overview', collapsed: true, items: [
+//           text: '💜 <psike>Counting</psike>', link: '/encyclopedia/Psike/Counting/Overview', collapsed: true, items: [
 //           ]
 //         },
 //         {
-//           text: '💜 <neuro>Decision</neuro>', collapsed: true, items: [
-//             { text: '💜 <neuro>GoOrNoGo</neuro>', link: '/encyclopedia/Psike/Decision/GoOrNoGo' },
-//             { text: '💜 <neuro>MicrositeSelection</neuro>', link: '/encyclopedia/Psike/Decision/MicrositeSelection' },
+//           text: '💜 <psike>Decision</psike>', collapsed: true, items: [
+//             { text: '💜 <psike>GoOrNoGo</psike>', link: '/encyclopedia/Psike/Decision/GoOrNoGo' },
+//             { text: '💜 <psike>MicrositeSelection</psike>', link: '/encyclopedia/Psike/Decision/MicrositeSelection' },
 //           ]
 //         },
 //         {
-//           text: '💜 <neuro>Emotion</neuro>', link: '/encyclopedia/Psike/Emotion/Overview', collapsed: true, items: [
-//             { text: '💜 <neuro>Anger</neuro>', link: '/encyclopedia/Psike/Emotion/Anger' },
-//             { text: '💜 <neuro>Disgust</neuro>', link: '/encyclopedia/Psike/Emotion/Disgust' },
-//             { text: '💜 <neuro>Fear</neuro>', link: '/encyclopedia/Psike/Emotion/Fear' },
-//             { text: '💜 <neuro>Joy</neuro>', link: '/encyclopedia/Psike/Emotion/Joy' },
-//             { text: '💜 <neuro>Sadness</neuro>', link: '/encyclopedia/Psike/Emotion/Sadness' },
+//           text: '💜 <psike>Emotion</psike>', link: '/encyclopedia/Psike/Emotion/Overview', collapsed: true, items: [
+//             { text: '💜 <psike>Anger</psike>', link: '/encyclopedia/Psike/Emotion/Anger' },
+//             { text: '💜 <psike>Disgust</psike>', link: '/encyclopedia/Psike/Emotion/Disgust' },
+//             { text: '💜 <psike>Fear</psike>', link: '/encyclopedia/Psike/Emotion/Fear' },
+//             { text: '💜 <psike>Joy</psike>', link: '/encyclopedia/Psike/Emotion/Joy' },
+//             { text: '💜 <psike>Sadness</psike>', link: '/encyclopedia/Psike/Emotion/Sadness' },
 //           ]
 //         },
 //         {
-//           text: '💜 <neuro>Energy</neuro>', link: '/encyclopedia/Psike/Energy/Overview', collapsed: true, items: [
+//           text: '💜 <psike>Energy</psike>', link: '/encyclopedia/Psike/Energy/Overview', collapsed: true, items: [
 //           ]
 //         },
 //         {
-//           text: '💜 <neuro>Estimation</neuro>', collapsed: true, items: [
-//             { text: '💜 <neuro>AreaEstimation</neuro>', link: '/encyclopedia/Psike/Estimation/AreaEstimation' },
-//             { text: '💜 <neuro>BagCoverEstimation</neuro>', link: '/encyclopedia/Psike/Estimation/BagCoverEstimation' },
-//             { text: '💜 <neuro>DistanceEstimation</neuro>', link: '/encyclopedia/Psike/Estimation/DistanceEstimation' },
-//             { text: '💜 <neuro>TimeEstimation</neuro>', link: '/encyclopedia/Psike/Estimation/TimeEstimation' },
+//           text: '💜 <psike>Estimation</psike>', collapsed: true, items: [
+//             { text: '💜 <psike>AreaEstimation</psike>', link: '/encyclopedia/Psike/Estimation/AreaEstimation' },
+//             { text: '💜 <psike>BagCoverEstimation</psike>', link: '/encyclopedia/Psike/Estimation/BagCoverEstimation' },
+//             { text: '💜 <psike>DistanceEstimation</psike>', link: '/encyclopedia/Psike/Estimation/DistanceEstimation' },
+//             { text: '💜 <psike>TimeEstimation</psike>', link: '/encyclopedia/Psike/Estimation/TimeEstimation' },
 //           ]
 //         },
 //         {
-//           text: '💜 <neuro>Event</neuro>', link: '/encyclopedia/Psike/Event/Overview', collapsed: true, items: [
+//           text: '💜 <psike>Event</psike>', link: '/encyclopedia/Psike/Event/Overview', collapsed: true, items: [
 //           ]
 //         },
 //         {
-//           text: '💜 <neuro>Homeostasis</neuro>', link: '/encyclopedia/Psike/Homeostasis/Overview', collapsed: true, items: [
+//           text: '💜 <psike>Homeostasis</psike>', link: '/encyclopedia/Psike/Homeostasis/Overview', collapsed: true, items: [
 //           ]
 //         },
 //         {
-//           text: '💜 <neuro>Memory</neuro>', link: '/encyclopedia/Psike/Memory/Overview', collapsed: true, items: [
-//             { text: '💜 <neuro>WorkingMemory</neuro>', link: '/encyclopedia/Psike/Memory/WorkingMemory' },
-//             { text: '💜 <neuro>ShortTermMemory</neuro>', link: '/encyclopedia/Psike/Memory/ShortTermMemory' },
-//             { text: '💜 <neuro>LongTermMemory</neuro>', link: '/encyclopedia/Psike/Memory/LongTermMemory' },
-//             { text: '💜 <neuro>NumberMemory</neuro>', link: '/encyclopedia/Psike/Memory/NumberMemory' },
-//             { text: '💜 <neuro>ViaMemory</neuro>', link: '/encyclopedia/Psike/Memory/ViaMemory' },
+//           text: '💜 <psike>Memory</psike>', link: '/encyclopedia/Psike/Memory/Overview', collapsed: true, items: [
+//             { text: '💜 <psike>WorkingMemory</psike>', link: '/encyclopedia/Psike/Memory/WorkingMemory' },
+//             { text: '💜 <psike>ShortTermMemory</psike>', link: '/encyclopedia/Psike/Memory/ShortTermMemory' },
+//             { text: '💜 <psike>LongTermMemory</psike>', link: '/encyclopedia/Psike/Memory/LongTermMemory' },
+//             { text: '💜 <psike>NumberMemory</psike>', link: '/encyclopedia/Psike/Memory/NumberMemory' },
+//             { text: '💜 <psike>ViaMemory</psike>', link: '/encyclopedia/Psike/Memory/ViaMemory' },
 //           ]
 //         },
 //         {
-//           text: '💜 <neuro>Mindfulness</neuro>', link: '/encyclopedia/Psike/Mindfulness/Overview', collapsed: true, items: [
+//           text: '💜 <psike>Mindfulness</psike>', link: '/encyclopedia/Psike/Mindfulness/Overview', collapsed: true, items: [
 //           ]
 //         },
 //         {
-//           text: '💜 <neuro>Muscle</neuro>', link: '/encyclopedia/Psike/Muscle/Overview', collapsed: true, items: [
+//           text: '💜 <psike>Muscle</psike>', link: '/encyclopedia/Psike/Muscle/Overview', collapsed: true, items: [
 //           ]
 //         },
-//         { text: '💜 <neuro>Proprioception</neuro>', link: '/encyclopedia/Psike/Proprioception/Overview' },
-//         { text: '💜 <neuro>Resilience</neuro>', link: '/encyclopedia/Psike/Resilience/Overview' },
+//         { text: '💜 <psike>Proprioception</psike>', link: '/encyclopedia/Psike/Proprioception/Overview' },
+//         { text: '💜 <psike>Resilience</psike>', link: '/encyclopedia/Psike/Resilience/Overview' },
 //         {
-//           text: '💜 <neuro>SpatialCognition</neuro>', link: '/encyclopedia/Psike/SpatialCognition/Overview', collapsed: true, items: [
+//           text: '💜 <psike>SpatialCognition</psike>', link: '/encyclopedia/Psike/SpatialCognition/Overview', collapsed: true, items: [
 //           ]
 //         },
 //         {
-//           text: '💜 <neuro>Time</neuro>', link: '/encyclopedia/Psike/Time/Overview', collapsed: true, items: [
-//             { text: '💜 <neuro>BagUpTime</neuro>', link: '/encyclopedia/Psike/Time/BagUpTime' },
-//             { text: '💜 <neuro>DailySchedule</neuro>', link: '/encyclopedia/Psike/Time/DailySchedule' },
-//             { text: '💜 <neuro>MotoTiming</neuro>', link: '/encyclopedia/Psike/Time/MotoTiming' },
-//             { text: '💜 <neuro>Planning</neuro>', link: '/encyclopedia/Psike/Time/Planning' },
-//             { text: '💜 <neuro>Timer</neuro>', link: '/encyclopedia/Psike/Time/Timer' },
+//           text: '💜 <psike>Time</psike>', link: '/encyclopedia/Psike/Time/Overview', collapsed: true, items: [
+//             { text: '💜 <psike>BagUpTime</psike>', link: '/encyclopedia/Psike/Time/BagUpTime' },
+//             { text: '💜 <psike>DailySchedule</psike>', link: '/encyclopedia/Psike/Time/DailySchedule' },
+//             { text: '💜 <psike>MotoTiming</psike>', link: '/encyclopedia/Psike/Time/MotoTiming' },
+//             { text: '💜 <psike>Planning</psike>', link: '/encyclopedia/Psike/Time/Planning' },
+//             { text: '💜 <psike>Timer</psike>', link: '/encyclopedia/Psike/Time/Timer' },
 //           ]
 //         },
-//         { text: '💜 <neuro>Thermoception</neuro>', link: '/encyclopedia/Psike/Thermoception' },
+//         { text: '💜 <psike>Thermoception</psike>', link: '/encyclopedia/Psike/Thermoception' },
 //       ]
 //     },
 //     { text: '📃 Glossary', link: '/encyclopedia/glossary/Glossary' },

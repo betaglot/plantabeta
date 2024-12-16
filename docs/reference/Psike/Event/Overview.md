@@ -1,5 +1,5 @@
 
-# 💜 <neuro>Event</neuro>
+# 💜 <psike>Event</psike>
 
 > there are dozens of events happening each second
 

@@ -1,1 +1,1 @@
-# 🟠<moto>LegError</moto>
+# 🟠<move>LegError</move>

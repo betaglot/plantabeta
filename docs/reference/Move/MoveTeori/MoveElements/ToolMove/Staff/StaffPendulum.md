@@ -1,4 +1,4 @@
-# 🟠<moto>StaffPendulum</moto>
+# 🟠<move>StaffPendulum</move>
 
 ---
 

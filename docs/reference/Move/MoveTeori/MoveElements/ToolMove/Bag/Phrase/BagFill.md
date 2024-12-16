@@ -1,5 +1,5 @@
 
-# 🟠 <moto>BagCover</moto>
+# 🟠 <move>BagCover</move>
 
 > Covering your bags with seedlings
 

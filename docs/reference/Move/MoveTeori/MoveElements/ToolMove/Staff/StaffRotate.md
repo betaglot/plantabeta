@@ -1,4 +1,4 @@
-# 🟠<moto>StaffRotate</moto>
+# 🟠<move>StaffRotate</move>
 
 ---
 

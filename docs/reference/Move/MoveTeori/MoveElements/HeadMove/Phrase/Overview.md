@@ -1,5 +1,5 @@
 
-# 🔷 <moto>Head Phrase</moto>
+# 🔷 <move>Head Phrase</move>
 
 ::: details 🛠 <dev>&&&</dev>
 

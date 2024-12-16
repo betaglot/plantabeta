@@ -1,5 +1,5 @@
 
-# 💜 <neuro>Learning</neuro>
+# 💜 <psike>Learning</psike>
 
 ::: details 🛠 <dev>&&&</dev>
 

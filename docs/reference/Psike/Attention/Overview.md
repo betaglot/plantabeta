@@ -1,4 +1,4 @@
-# 💜 <neuro>Attention</neuro>
+# 💜 <psike>Attention</psike>
 
 ## Differences between Awareness and Attention
 

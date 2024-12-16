@@ -1,1 +1,1 @@
-# 🟠<moto>BootError</moto>
+# 🟠<move>BootError</move>

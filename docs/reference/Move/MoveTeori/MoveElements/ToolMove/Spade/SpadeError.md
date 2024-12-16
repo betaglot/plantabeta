@@ -1,1 +1,1 @@
-# 🟠<moto>SpadeError</moto>
+# 🟠<move>SpadeError</move>

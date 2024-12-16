@@ -1,4 +1,4 @@
-# 🟠<moto>SpadeDrag</moto>
+# 🟠<move>SpadeDrag</move>
 
 ---
 

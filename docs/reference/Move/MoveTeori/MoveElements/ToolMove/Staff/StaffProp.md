@@ -1,4 +1,4 @@
-# 🟠<moto>StaffProp</moto>
+# 🟠<move>StaffProp</move>
 
 ---
 

@@ -1,5 +1,5 @@
 
-# 💜 <neuro>Awareness</neuro>
+# 💜 <psike>Awareness</psike>
 
 ## Differences between Awareness and Attention
 

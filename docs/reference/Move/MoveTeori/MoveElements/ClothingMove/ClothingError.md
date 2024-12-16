@@ -1,3 +1,3 @@
-# 🟠<moto>ClothingError</moto>
+# 🟠<move>ClothingError</move>
 
 ## ClothingSnag

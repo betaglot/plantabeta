@@ -1,5 +1,5 @@
 
-# 🟠 <moto>FlagMoto</moto>
+# 🟠 <move>FlagMoto</move>
 
 ## FlagPut
 

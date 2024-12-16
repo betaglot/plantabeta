@@ -1,5 +1,5 @@
 
-# 🔷 <moto>Clothing Phrase</moto>
+# 🔷 <move>Clothing Phrase</move>
 
 ::: details 🛠 <dev>&&&</dev>
 

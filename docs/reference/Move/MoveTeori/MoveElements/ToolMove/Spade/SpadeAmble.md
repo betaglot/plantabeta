@@ -1,4 +1,4 @@
-# 🟠<moto>SpadeAmble</moto>
+# 🟠<move>SpadeAmble</move>
 
 ## Attributes
 
@@ -23,7 +23,7 @@ def ModifyLength():
 
 ## DevNotes
 
-- 🟠<moto>Walk</moto> uses the same
+- 🟠<move>Walk</move> uses the same
 
 ## DevState
 

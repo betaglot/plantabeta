@@ -1,5 +1,5 @@
 
-# 🟠 <moto>BootMoto</moto>
+# 🟠 <move>BootMoto</move>
 
 ::: details 🛠 <dev>&&&</dev>
 

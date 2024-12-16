@@ -1,5 +1,5 @@
 
-# 🔷 <moto>Bag Phrase</moto>
+# 🔷 <move>Bag Phrase</move>
 
 ::: details 🛠 <dev>&&&</dev>
 

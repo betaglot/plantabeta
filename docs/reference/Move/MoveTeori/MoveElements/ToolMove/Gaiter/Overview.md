@@ -1,5 +1,5 @@
 
-# 🟠 <moto>GaiterMoto</moto>
+# 🟠 <move>GaiterMoto</move>
 
 ## Gaiter Anatomy
 

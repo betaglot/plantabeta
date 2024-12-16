@@ -1,5 +1,5 @@
 
-# 🟠 <moto>VegeBlock</moto>
+# 🟠 <move>VegeBlock</move>
 
 > Protecting yourself from Plant as it collides into you or as it drags along you as you push through it
 
@@ -28,7 +28,7 @@
 - Tool2
 - Tool3
 
-## <moto>Move Phrase</moto>
+## <move>Move Phrase</move>
 
 <div style="display: flex">
     <div>
@@ -62,7 +62,7 @@
     src="https://observablehq.com/embed/@d3/force-directed-graph/2?cells=chart"
 ></iframe>
 
-## Related <moto>MotoFactors</moto>
+## Related <move>MotoFactors</move>
 
 -
 
@@ -74,7 +74,7 @@
 
 -
 
-## Related 💜<neuro>NeuroFactors</neuro>
+## Related 💜<psike>NeuroFactors</psike>
 
 -  
 

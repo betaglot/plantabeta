@@ -1,5 +1,5 @@
 
-# 🟠 <moto>FootMoto</moto>
+# 🟠 <move>FootMoto</move>
 
 ## Foot Anatomy
 

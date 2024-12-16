@@ -1,5 +1,5 @@
 
-# <neuro>Area Estimation</neuro>
+# <psike>Area Estimation</psike>
 
 ---
 

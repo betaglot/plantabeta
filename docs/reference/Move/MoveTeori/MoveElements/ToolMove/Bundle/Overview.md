@@ -1,5 +1,5 @@
 
-# 🟠 <moto>BundleMoto</moto>
+# 🟠 <move>BundleMoto</move>
 
 ::: details 🛠 <dev>&&&</dev>
 

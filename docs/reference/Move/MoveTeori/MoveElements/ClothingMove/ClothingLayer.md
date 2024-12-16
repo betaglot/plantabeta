@@ -1,5 +1,5 @@
 
-# 🟠 <moto>ClothingLayer</moto>
+# 🟠 <move>ClothingLayer</move>
 
 ## AddClothingLayer
 

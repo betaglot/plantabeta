@@ -1,5 +1,5 @@
 
-# <neuro>Energy</neuro>
+# <psike>Energy</psike>
 
 ::: details 🛠 <dev>&&&</dev>
 

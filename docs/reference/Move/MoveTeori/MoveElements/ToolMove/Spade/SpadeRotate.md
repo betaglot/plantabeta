@@ -1,4 +1,4 @@
-# 🟠<moto>SpadeRotate</moto>
+# 🟠<move>SpadeRotate</move>
 
 ---
 

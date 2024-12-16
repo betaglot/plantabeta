@@ -70,7 +70,7 @@ Number of Edges of a Voronoi Cell?
 
 [D3 closest neighbor and Voronoi edges](https://d3js.org/d3-delaunay/voronoi#voronoi_neighbors)
 
-### <moto>MotoVoronoi</moto>
+### <move>MotoVoronoi</move>
 
 ![Fencing](/Via/Voronoi/FencingVoronoi.png)
 

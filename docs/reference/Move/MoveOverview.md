@@ -1,25 +1,25 @@
 
-# 🟠 <moto>Move</moto>
+# 🟠 <move>Move</move>
 
 ![Move Icon](/Move/Move_Ikon.png)
 
-## <moto>Move Icon</moto> 🟠
+## <move>Move Icon</move> 🟠
 
 > Orange Circle
 
-## <moto>What is Move?</moto>
+## <move>What is Move?</move>
 
 > to set in motion; to shake; to stir; to move
 
-::: details Why is it called <moto>Move</moto>?
+::: details Why is it called <move>Move</move>?
 
-## Etymology of "<moto>Move</moto>"
+## Etymology of "<move>Move</move>"
 
 movere
 
 :::
 
-## <moto>What is a Move Element?</moto>
+## <move>What is a Move Element?</move>
 
 Move Taxa are prefixed by an orange circle 🟠
 
@@ -27,7 +27,7 @@ Move Taxa are prefixed by an orange circle 🟠
 🟠
 ```
 
-### <moto>What is a Move Element?</moto>
+### <move>What is a Move Element?</move>
 
 ```py
 {
@@ -56,9 +56,9 @@ Move Taxa are prefixed by an orange circle 🟠
 }
 ```
 
-### <moto>What are Move Attributes?</moto>
+### <move>What are Move Attributes?</move>
 
-#### <moto>Move.<neuro>Time</neuro></moto>
+#### <move>Move.<psike>Time</psike></move>
 
 - Move can be slow motion while movement can't. Since Move is from 1stPOV, time can be relative. Typically time **feels like** it's slowing down when you pay close attention to an object.
 
@@ -66,17 +66,17 @@ Sherlock Fight Scene
 
 300 Fight Scene
 
-### <moto>What are Move Methods?</moto>
+### <move>What are Move Methods?</move>
 
 ### "Move" instead of "Move"
 
 Move is polyglot
 
-## <moto>What is a Move Phrase?</moto>
+## <move>What is a Move Phrase?</move>
 
 - Represented in Python as a List object.
 
-## <moto>What is a MotoError?</moto>
+## <move>What is a MotoError?</move>
 
 Errors don't necessarily come from you, they could arise from PlantMoto.
 

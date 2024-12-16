@@ -1,5 +1,5 @@
 
-# 🟠 <moto>Phrase</moto>
+# 🟠 <move>Phrase</move>
 
 > sequence of Move Factors
 
@@ -209,7 +209,7 @@ Move/MotoPhrase/Overview.md, <dev>Move.MotoPhrase</dev>, ![3157.jpg](/PaperPhoto
 Move/MotoPhrase/Overview.md, <dev>Move.MotoPhrase</dev>, ![3227.jpg](/PaperPhoto/3227.jpg)
 :::
 
-# 🟠 <moto>MoveSequence </moto>Overview
+# 🟠 <move>MoveSequence </move>Overview
 
 ## Linguistics of MovementSequence
 

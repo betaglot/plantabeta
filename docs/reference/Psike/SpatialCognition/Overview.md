@@ -1,5 +1,5 @@
 
-# 💜 <neuro>Spatial Cognition</neuro>
+# 💜 <psike>Spatial Cognition</psike>
 
 - Visuospatial Ability
 - Spatial Visualization
@@ -69,7 +69,7 @@ ViaPlan vs. ActualVia
 
 ## <eko>EcoSpace</eko>
 
-## <moto>MotoSpace</moto>
+## <move>MotoSpace</move>
 
 ## <via>ViaSpace</via>
 

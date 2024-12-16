@@ -15,21 +15,21 @@
 
 - Planters which don't live in tents, ie not in a bush camp.
 
-## 🟠 <moto>Move Tools</moto>
+## 🟠 <move>Move Tools</move>
 
 Tools you need to perform planter motos.
 
-### 🟠 <moto>Spade</moto>
+### 🟠 <move>Spade</move>
 
 - Often called a shovel, but is never used to scoop soil like a shovel.
 
-### 🟠 <moto>Planter Bags</moto>
+### 🟠 <move>Planter Bags</move>
 
-### 🟠 <moto>Cache Bag</moto>
+### 🟠 <move>Cache Bag</move>
 
-### 🟠 <moto>Water Container</moto>
+### 🟠 <move>Water Container</move>
 
-### 🟠 <moto>Clothing</moto>
+### 🟠 <move>Clothing</move>
 
 ::: tip
 
@@ -37,17 +37,17 @@ You will not regret bringing duplicates of clothing. If you have the space then 
 
 :::
 
-## 💜 <neuro>Psike Tools</neuro>
+## 💜 <psike>Psike Tools</psike>
 
 Tools you need for your brain.
 
-### 💜 <neuro>Notebook</neuro>
+### 💜 <psike>Notebook</psike>
 
 - Record your tree count
 - Record species mix
 - Draw a map of your piece
 
-### 💜 <neuro>Phone</neuro>
+### 💜 <psike>Phone</psike>
 
 - Record your tree count
 - Record species mix
@@ -56,7 +56,7 @@ Tools you need for your brain.
     - Podcasts
     - Audiobook
 
-### 💜 <neuro>Speaker</neuro>
+### 💜 <psike>Speaker</psike>
 
 - Use a speaker instead of headphones to be able to hear the Eko. Hear the wind, a tree falling behind you, an animal moving around, another planter trying to communicate with you.
 

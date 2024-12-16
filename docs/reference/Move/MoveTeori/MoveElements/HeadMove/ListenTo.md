@@ -1,5 +1,5 @@
 
-# 🟠 <moto>Hearing</moto>
+# 🟠 <move>Hearing</move>
 
 ![MoveIkon](/Move/Move_Ikon.png)
 
@@ -19,7 +19,7 @@
 - Tool2
 - Tool3
 
-## <moto>Move Phrase</moto>
+## <move>Move Phrase</move>
 
 <div style="display: flex">
     <div>
@@ -53,11 +53,11 @@
     src="https://observablehq.com/embed/@d3/force-directed-graph/2?cells=chart"
 ></iframe>
 
-## Related <moto>MotoFactors</moto>
+## Related <move>MotoFactors</move>
 
-- Description of how this MotoFactor relates to a particular [<moto>MotoFactor</moto>](/encyclopedia/Move/MotoOverview).
-- Description of how this MotoFactor relates to a particular [<moto>MotoFactor</moto>](/encyclopedia/Move/MotoOverview).
-- Description of how this MotoFactor relates to a particular [<moto>MotoFactor</moto>](/encyclopedia/Move/MotoOverview).
+- Description of how this MotoFactor relates to a particular [<move>MotoFactor</move>](/encyclopedia/Move/MotoOverview).
+- Description of how this MotoFactor relates to a particular [<move>MotoFactor</move>](/encyclopedia/Move/MotoOverview).
+- Description of how this MotoFactor relates to a particular [<move>MotoFactor</move>](/encyclopedia/Move/MotoOverview).
 
 ## Related 🟩<eko>EcoFactors</eko>
 
@@ -67,7 +67,7 @@
 
 -
 
-## Related 💜<neuro>NeuroFactors</neuro>
+## Related 💜<psike>NeuroFactors</psike>
 
 -  
 

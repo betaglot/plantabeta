@@ -1,4 +1,4 @@
-# 🟠<moto>SpadePoke</moto>
+# 🟠<move>SpadePoke</move>
 
 ---
 

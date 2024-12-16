@@ -1,5 +1,5 @@
 
-# 🟠 <moto>Sleep</moto>
+# 🟠 <move>Sleep</move>
 
 HubermanLab Guest Series [with Dr. Matt Walker](https://www.youtube.com/playlist?list=PLPNW_gerXa4OoypUEgZI7uouI12WZrxeS)
 
@@ -39,7 +39,7 @@ HubermanLab Guest Series [with Dr. Matt Walker](https://www.youtube.com/playlist
 - Sleep Mask
 - Pillow
 
-## <moto>Move Phrase</moto>
+## <move>Move Phrase</move>
 
 <div style="display: flex">
     <div>
@@ -73,7 +73,7 @@ HubermanLab Guest Series [with Dr. Matt Walker](https://www.youtube.com/playlist
     src="https://observablehq.com/embed/@d3/force-directed-graph/2?cells=chart"
 ></iframe>
 
-## Related <moto>MotoFactors</moto>
+## Related <move>MotoFactors</move>
 
 - After work
 
@@ -85,7 +85,7 @@ HubermanLab Guest Series [with Dr. Matt Walker](https://www.youtube.com/playlist
 
 -
 
-## Related 💜<neuro>NeuroFactors</neuro>
+## Related 💜<psike>NeuroFactors</psike>
 
 - Fatigue
 - Meditation

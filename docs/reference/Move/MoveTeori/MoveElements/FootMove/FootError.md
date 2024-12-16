@@ -1,4 +1,4 @@
-# 🟠<moto>FootError</moto>
+# 🟠<move>FootError</move>
 
 ## FootMotoError
 

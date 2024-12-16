@@ -1,5 +1,5 @@
 
-# 🟠 <moto>Spade Overview</moto>
+# 🟠 <move>Spade Overview</move>
 
 ## StaffSpade
 

@@ -1,5 +1,5 @@
 
-# 🟠 <moto>VegeCatch</moto>
+# 🟠 <move>VegeCatch</move>
 
 > Grab vegetation before colliding with it
 ![MoveIkon](/Move/Move_Ikon.png)
@@ -22,7 +22,7 @@ The Plant can be moving towards you or the Plant can be stationary while you mov
 - Tool2
 - Tool3
 
-## <moto>Move Phrase</moto>
+## <move>Move Phrase</move>
 
 <div style="display: flex">
     <div>
@@ -56,7 +56,7 @@ The Plant can be moving towards you or the Plant can be stationary while you mov
     src="https://observablehq.com/embed/@d3/force-directed-graph/2?cells=chart"
 ></iframe>
 
-## Related <moto>MotoFactors</moto>
+## Related <move>MotoFactors</move>
 
 -
 
@@ -68,7 +68,7 @@ The Plant can be moving towards you or the Plant can be stationary while you mov
 
 -
 
-## Related 💜<neuro>NeuroFactors</neuro>
+## Related 💜<psike>NeuroFactors</psike>
 
 -  
 

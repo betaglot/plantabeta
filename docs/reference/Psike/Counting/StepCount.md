@@ -1,5 +1,5 @@
 
-# 💜 <neuro>StepCount </neuro>
+# 💜 <psike>StepCount </psike>
 
 ![NeuroIcon](/Psike/Neuro_Icon.png)
 
@@ -42,9 +42,9 @@ Graph which represents how this element is related to other elements in Put(Plan
     src="https://observablehq.com/embed/@d3/force-directed-graph/2?cells=chart"
 ></iframe>
 
-## Related 💜<neuro>NeuroFactors</neuro>
+## Related 💜<psike>NeuroFactors</psike>
 
-## Related 🟠<moto>MotoFactors</moto>
+## Related 🟠<move>MotoFactors</move>
 
 -
 

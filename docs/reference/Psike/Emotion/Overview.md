@@ -1,5 +1,5 @@
 
-# 💜 <neuro>Emotion</neuro>
+# 💜 <psike>Emotion</psike>
 
 ::: details 🛠 <dev>&&&</dev>
 

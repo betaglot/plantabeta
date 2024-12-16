@@ -22,7 +22,7 @@ LaptopOnly tasks include:
 
 :::
 
-::: danger <neuro>Attencide</neuro> until season start
+::: danger <psike>Attencide</psike> until season start
 
 - Anything related to climbing.
 - Tools

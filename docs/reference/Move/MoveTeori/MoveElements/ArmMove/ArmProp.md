@@ -1,5 +1,5 @@
 
-# 🟠 <moto>ArmProp</moto>
+# 🟠 <move>ArmProp</move>
 
 ![MoveIkon](/Move/Move_Ikon.png)
 
@@ -19,7 +19,7 @@
 - Tool2
 - Tool3
 
-## <moto>Move Phrase</moto>
+## <move>Move Phrase</move>
 
 <div style="display: flex">
     <div>
@@ -57,10 +57,10 @@
     src="https://observablehq.com/embed/@d3/force-directed-graph/2?cells=chart"
 ></iframe>
 
-## Related <moto>MotoFactors</moto>
+## Related <move>MotoFactors</move>
 
-- 🟠<moto>HandSmear</moto>
-- 🟠<moto>ArmLock</moto>
+- 🟠<move>HandSmear</move>
+- 🟠<move>ArmLock</move>
 
 ## Related 🟩<eko>EcoFactors</eko>
 
@@ -70,7 +70,7 @@
 
 -
 
-## Related 💜<neuro>NeuroFactors</neuro>
+## Related 💜<psike>NeuroFactors</psike>
 
 -  
 

@@ -1,5 +1,5 @@
 
-# 💜 <neuro>Avoidance</neuro>
+# 💜 <psike>Avoidance</psike>
 
 ---
 

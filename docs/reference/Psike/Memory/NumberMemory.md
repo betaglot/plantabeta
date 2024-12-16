@@ -1,5 +1,5 @@
 
-# <neuro>Number Memory</neuro>
+# <psike>Number Memory</psike>
 
 ## Mnemonics
 

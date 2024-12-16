@@ -1,5 +1,5 @@
 
-# 🟠 <moto>SupermanSlam</moto>
+# 🟠 <move>SupermanSlam</move>
 
 Superman Punch
 

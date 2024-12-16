@@ -7,7 +7,7 @@ Beta is expressed using a Natural Language. In Put(Plant), Beta is only expresse
 
 A method of Beta is to print out a string describing the Beta in English. This seems like something AI would be good at.
 
-## 🟠<moto>Miming</moto>
+## 🟠<move>Miming</move>
 
 How can miming be used to communicate Beta non verbally and can be seen from a distance?
 
@@ -19,7 +19,7 @@ How can miming be used to communicate Beta non verbally and can be seen from a d
 
 - Pointing
 
-## 🟠<moto>Speak()</moto>
+## 🟠<move>Speak()</move>
 
 ## Gestures
 

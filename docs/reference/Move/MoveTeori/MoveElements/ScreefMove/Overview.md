@@ -1,5 +1,5 @@
 
-# 🟠 <moto>ScreefMoto</moto>
+# 🟠 <move>ScreefMoto</move>
 
 ## ToReduceConfusion(ScreefMoto != ScreefEco)
 

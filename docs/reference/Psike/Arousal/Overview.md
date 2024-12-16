@@ -1,5 +1,5 @@
 
-# 💜 <neuro>Arousal</neuro>
+# 💜 <psike>Arousal</psike>
 
 ::: warning Not Sexual Arousal
 :::

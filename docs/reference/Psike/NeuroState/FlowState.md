@@ -1,4 +1,4 @@
-# 💜<neuro>FlowState</neuro>
+# 💜<psike>FlowState</psike>
 
 ## Microflow
 

@@ -1,5 +1,5 @@
 
-# 🔷 <moto>Gaiter Phrase</moto>
+# 🔷 <move>Gaiter Phrase</move>
 
 ---
 

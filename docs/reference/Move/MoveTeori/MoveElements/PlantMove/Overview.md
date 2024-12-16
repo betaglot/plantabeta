@@ -1,5 +1,5 @@
 
-# 🟠 <moto>PlantMoto</moto>
+# 🟠 <move>PlantMoto</move>
 
 ## Plant Anatomy
 

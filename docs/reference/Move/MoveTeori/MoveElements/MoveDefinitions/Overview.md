@@ -1,5 +1,5 @@
 
-# 🟠 <moto>MotoGeometry</moto>
+# 🟠 <move>MotoGeometry</move>
 
 ---
 

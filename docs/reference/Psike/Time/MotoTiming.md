@@ -1,5 +1,5 @@
 
-# 💜 <neuro>MotoTiming </neuro>
+# 💜 <psike>MotoTiming </psike>
 
 ## PlantingRate
 
@@ -55,9 +55,9 @@ Answer 3
 
 -
 
-## Related 💜<neuro>NeuroFactors</neuro>
+## Related 💜<psike>NeuroFactors</psike>
 
-## Related 🟠<moto>MotoFactors</moto>
+## Related 🟠<move>MotoFactors</move>
 
 -
 

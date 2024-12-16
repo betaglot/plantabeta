@@ -1,4 +1,4 @@
-# 🟠 <moto>BodyMoto</moto>
+# 🟠 <move>BodyMoto</move>
 
 ## Body Anatomy
 

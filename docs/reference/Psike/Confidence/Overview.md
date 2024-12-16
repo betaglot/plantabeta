@@ -1,5 +1,5 @@
 
-# 💜 <neuro>Confidence</neuro>
+# 💜 <psike>Confidence</psike>
 
 ![NeuroIcon](/Psike/Neuro_Icon.png)
 

@@ -1,5 +1,5 @@
 
-# 🟠 <moto>HoleMoto</moto>
+# 🟠 <move>HoleMoto</move>
 
 ## Hole Anatomy
 

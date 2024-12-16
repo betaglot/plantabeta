@@ -1,5 +1,5 @@
 
-# 🟠 <moto>LogFling</moto>
+# 🟠 <move>LogFling</move>
 
 > Launch a Log away from microsite with your leg
 

@@ -1,5 +1,5 @@
 
-# 💜 <neuro>Competition</neuro>
+# 💜 <psike>Competition</psike>
 
 ---
 

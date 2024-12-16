@@ -1,5 +1,5 @@
 
-# 🟠 <moto>CacheMoto</moto>
+# 🟠 <move>CacheMoto</move>
 
 ![CacheOverview](/Move/CacheTopview.png)
 
@@ -19,7 +19,7 @@
 - BoxStackWidth
 - BoxStackDepth
 
-## 🟠<moto>BuildCache()</moto>
+## 🟠<move>BuildCache()</move>
 
  Set up for success
 

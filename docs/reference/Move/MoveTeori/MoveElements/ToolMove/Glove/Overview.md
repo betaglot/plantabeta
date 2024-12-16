@@ -1,5 +1,5 @@
 
-# 🟠 <moto>GloveMoto</moto>
+# 🟠 <move>GloveMoto</move>
 
 ## Glove Anatomy
 

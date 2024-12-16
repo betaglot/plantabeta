@@ -1,5 +1,5 @@
 
-# 🟠 <moto>HandClose</moto>
+# 🟠 <move>HandClose</move>
 
 ## Element Problem
 
@@ -17,7 +17,7 @@
 - Tool2
 - Tool3
 
-## <moto>Move Phrase</moto>
+## <move>Move Phrase</move>
 
 ## Element Purpose
 
@@ -36,7 +36,7 @@
     src="https://observablehq.com/embed/@d3/force-directed-graph/2?cells=chart"
 ></iframe>
 
-## Related <moto>MotoFactors</moto>
+## Related <move>MotoFactors</move>
 
 -
 
@@ -48,7 +48,7 @@
 
 -
 
-## Related 💜<neuro>NeuroFactors</neuro>
+## Related 💜<psike>NeuroFactors</psike>
 
 -  
 

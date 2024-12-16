@@ -1,4 +1,4 @@
-# 🟠 <moto>SpadeProp</moto>
+# 🟠 <move>SpadeProp</move>
 
 <div style="display: flex; width: %100; margin-top: 50px;">
     <div style="margin: 5px; width: 50%">
@@ -25,7 +25,7 @@
 - Tool2
 - Tool3
 
-## <moto>Move Phrase</moto>
+## <move>Move Phrase</move>
 
 <div style="display: flex">
     <div>
@@ -59,7 +59,7 @@
     src="https://observablehq.com/embed/@d3/force-directed-graph/2?cells=chart"
 ></iframe>
 
-## Related <moto>MotoFactors</moto>
+## Related <move>MotoFactors</move>
 
 -
 
@@ -71,7 +71,7 @@
 
 -
 
-## Related 💜<neuro>NeuroFactors</neuro>
+## Related 💜<psike>NeuroFactors</psike>
 
 -  
 

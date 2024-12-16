@@ -50,7 +50,7 @@ A BetaBlock could be an individual BetaElement or a group of hundreds of BetaEle
 
 > Users solve (stages, levels) by writing Plantbeta
 
-> PutPlantApp is a <neuro>neuro</neuro> tool
+> PutPlantApp is a <psike>neuro</psike> tool
 
 PutPlantApp is most useful for PotentialPlanters who live in urban areas, who don't have much exposure to wilderness.
 

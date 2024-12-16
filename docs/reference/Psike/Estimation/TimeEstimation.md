@@ -1,5 +1,5 @@
 
-# <neuro>Time Estimation</neuro>
+# <psike>Time Estimation</psike>
 
 ---
 

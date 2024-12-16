@@ -1,5 +1,5 @@
 
-# 🟠 <moto>ToolMoto</moto>
+# 🟠 <move>ToolMoto</move>
 
 ## Tool List
 

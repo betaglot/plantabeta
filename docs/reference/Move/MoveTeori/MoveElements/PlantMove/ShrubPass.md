@@ -1,5 +1,5 @@
 
-# 🟠 <moto>ShrubPass</moto>
+# 🟠 <move>ShrubPass</move>
 
 > Passing through a single or group of shrubs
 

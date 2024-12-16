@@ -1,5 +1,5 @@
 
-# 🟠 <moto>HeadMoto</moto>
+# 🟠 <move>HeadMoto</move>
 
 ## Head Anatomy
 

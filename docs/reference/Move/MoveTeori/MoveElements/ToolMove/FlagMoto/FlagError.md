@@ -1,4 +1,4 @@
-# ❌<moto>FlagError</moto>
+# ❌<move>FlagError</move>
 
 - Don't walk into the bush that you just high flagged the spring back to vertical will dislodge the flag.
 

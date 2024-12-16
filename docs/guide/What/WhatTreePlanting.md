@@ -5,26 +5,6 @@ sidebar: false
 
 ---
 
-::: details 🛠 <dev>&&&</dev>
-
-## DevNotes
-
--
-
-## DevState
-
-```py
-`TagsToHeaders: False`
-```
-
-<h2>PageTags</h2>
-
-- "Guide.What.WhatTreePlanting"
-
-guide/What/WhatTreePlanting.md, <dev>Guide.What.WhatTreePlanting</dev>, ![2968.jpg](/PaperPhoto/2968.jpg)
-
-:::
-
 # What is Tree Planting?
 
 ![InstaPhoto033](/InstaPhoto033.jpg)

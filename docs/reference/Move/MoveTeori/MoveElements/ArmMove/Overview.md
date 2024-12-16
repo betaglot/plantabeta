@@ -1,5 +1,5 @@
 
-# 🟠 <moto>ArmMoto</moto>
+# 🟠 <move>ArmMoto</move>
 
 ## Arm Anatomy
 

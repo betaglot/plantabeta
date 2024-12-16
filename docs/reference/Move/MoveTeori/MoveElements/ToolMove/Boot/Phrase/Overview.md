@@ -1,5 +1,5 @@
 
-# 🔷 <moto>Boot Phrase</moto>
+# 🔷 <move>Boot Phrase</move>
 
 ---
 

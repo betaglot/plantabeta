@@ -1,4 +1,4 @@
-# 🟠 <moto>FlagRip</moto>
+# 🟠 <move>FlagRip</move>
 
 ![MoveIkon](/Move/Move_Ikon.png)
 
@@ -18,7 +18,7 @@
 - Tool2
 - Tool3
 
-## <moto>Move Phrase</moto>
+## <move>Move Phrase</move>
 
 <div style="display: flex">
     <div>
@@ -52,7 +52,7 @@
     src="https://observablehq.com/embed/@d3/force-directed-graph/2?cells=chart"
 ></iframe>
 
-## Related <moto>MotoFactors</moto>
+## Related <move>MotoFactors</move>
 
 -
 
@@ -64,7 +64,7 @@
 
 -
 
-## Related 💜<neuro>NeuroFactors</neuro>
+## Related 💜<psike>NeuroFactors</psike>
 
 -  
 

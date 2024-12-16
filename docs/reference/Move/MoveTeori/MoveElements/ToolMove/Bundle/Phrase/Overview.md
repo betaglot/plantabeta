@@ -1,5 +1,5 @@
 
-# 🔷 <moto>Bundle Phrase</moto>
+# 🔷 <move>Bundle Phrase</move>
 
 ---
 

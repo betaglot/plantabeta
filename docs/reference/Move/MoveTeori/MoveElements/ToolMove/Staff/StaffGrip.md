@@ -1,4 +1,4 @@
-# 🟠<moto>StaffGrip</moto>
+# 🟠<move>StaffGrip</move>
 
 ---
 

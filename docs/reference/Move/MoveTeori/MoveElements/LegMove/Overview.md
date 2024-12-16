@@ -1,5 +1,5 @@
 
-# 🟠 <moto>LegMoto</moto>
+# 🟠 <move>LegMoto</move>
 
 ## Leg Anatomy
 

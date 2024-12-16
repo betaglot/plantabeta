@@ -12,7 +12,7 @@ All BetaFunctions require at least 2 modules
 
 ## 🔷<beta>Ask(Beta)</beta>
 
-🟠<moto>Speak()</moto>
+🟠<move>Speak()</move>
 
 ## 🔷<beta>Link(Beta)</beta>
 
@@ -41,7 +41,7 @@ Abstract Syntax Tree
     - Leg.Step.Over(Log)
 
 3. Separate into <beta>BetaModules</beta> (optional step)
-    - 🟠<moto>Leg.Step()</moto>
+    - 🟠<move>Leg.Step()</move>
     - 🔻<via>Over</via>
     - 🟩<eko>Log</eko>
 
@@ -83,17 +83,17 @@ With BareRoots you must often curl the roots into the hole
 
 Trees/Time
 
-### 🔷<beta>Put(<moto>Hood</moto>)</beta>
+### 🔷<beta>Put(<move>Hood</move>)</beta>
 
-### 🔷<beta>Put(<moto>Boot</moto>)</beta>
+### 🔷<beta>Put(<move>Boot</move>)</beta>
 
 > put your boot onto a ViaSurface
 
-🟠<moto>Step()</moto>
+🟠<move>Step()</move>
 
-🟠<moto>FootSlide</moto>
+🟠<move>FootSlide</move>
 
-### 🔷<beta>Put(<neuro>Memory</neuro>)</beta>
+### 🔷<beta>Put(<psike>Memory</psike>)</beta>
 
 > to remember some information
 
@@ -133,7 +133,7 @@ Trees/Time
 
 "Get around the obstacle"
 
-### 🔷<beta>Get(<neuro>Psike</neuro>)</beta>
+### 🔷<beta>Get(<psike>Psike</psike>)</beta>
 
 > to achieve a neuro state
 
