@@ -1,4 +1,4 @@
-# 🟠 <move>SpadeScreef</move>
+# 🟠 <move>SpadeSkreef</move>
 
 ![MoveIkon](/Move/Move_Ikon.png)
 
@@ -19,15 +19,15 @@
 <!-- =================================================== -->
 ::: details 🛠 <dev>&&&</dev>
 
-- SpadeXScreef
-    - ShaftHand crosses from left to right while screefing, making an X with the shaft and also an X shaped screef on the ground
-    - Use when screefing through a thick layer of duff which is collapsing into the site
-    - Use when screefing through a loose layer of duff to search for the best microsite
-- Arm wrestling screef. ArmLock then use your whole body
-- Screefed eco goes through legs. 5 Hole
+- SpadeXSkreef
+    - ShaftHand crosses from left to right while skreefing, making an X with the shaft and also an X shaped skreef on the ground
+    - Use when skreefing through a thick layer of duff which is collapsing into the site
+    - Use when skreefing through a loose layer of duff to search for the best microsite
+- Arm wrestling skreef. ArmLock then use your whole body
+- Skreefed eco goes through legs. 5 Hole
 
 <h2>PageTags</h2>
 
-- "Move.ToolMove.SpadeMove.SpadeScreef"
+- "Move.ToolMove.SpadeMove.SpadeSkreef"
 
 :::

@@ -1,4 +1,4 @@
-# 🟠 <move>BundleMoto</move>
+# 🟠 <move>BundleMove</move>
 
 ---
 
@@ -15,7 +15,7 @@
 
 - "Move.ToolMove.BundleMove.BundleRoll"
 - "Move.ToolMove.BundleMove.BundleUnwrap"
-- "Move.ToolMove.BundleMove.MotoError.WrapperLitter"
+- "Move.ToolMove.BundleMove.MoveError.WrapperLitter"
 - "Move.ToolMove.BundleMove.Overview"
 
 :::

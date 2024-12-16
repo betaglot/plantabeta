@@ -1,4 +1,4 @@
-# 🟠 <move>BoxMoto</move>
+# 🟠 <move>BoxMove</move>
 
 🔻<via>BoxHandle</via> is the main ViaSurface of Box.
 

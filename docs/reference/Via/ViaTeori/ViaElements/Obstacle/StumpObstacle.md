@@ -51,7 +51,7 @@ Graph which represents how this element is related to other elements in PlantaBe
 
 ## Related <move>MoveElements</move>
 
-### 🟠SpadePryScreef
+### 🟠SpadePrySkreef
 
 -
 
@@ -81,11 +81,11 @@ Graph which represents how this element is related to other elements in PlantaBe
 
 -
 
-### 🔻StumpFlag
+### 🔻StumpMarka
 
-- FlagSite
+- MarkaSite
 
-### 🔻BoundaryFlag
+### 🔻BoundaryMarka
 
 -
 

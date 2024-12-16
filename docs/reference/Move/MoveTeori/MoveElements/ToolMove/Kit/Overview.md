@@ -1,4 +1,4 @@
-# 🟠 <move>KitMoto</move>
+# 🟠 <move>KitMove</move>
 
 AlsoKnownAs(CacheBag)
 
@@ -12,7 +12,7 @@ AlsoKnownAs(CacheBag)
 Kit = {
     'Carabiner',
     'DryBag',
-    'ExtraFlagRoll',
+    'ExtraMarkaRoll',
     'ExtraGloves',
     'FoodContainer',
     'InsulationLayer',
@@ -22,7 +22,7 @@ Kit = {
 }
 ```
 
-### BottleReCoverMoto
+### BottleReCoverMove
 
 ---
 

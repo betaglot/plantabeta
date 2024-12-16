@@ -21,13 +21,9 @@ SmoothSurface
 <!-- =================================================== -->
 ::: details 🛠 <dev>&&&</dev>
 
-
-
 - ViaSurfaces are not necessarily contiguous, like stepping stones
-- ViaSurfaces are exposures of Soil in the Land. Sometimes you must Screef to expose a ViaSurface
+- ViaSurfaces are exposures of Soil in the Land. Sometimes you must Skreef to expose a ViaSurface
 - ViaSurfaces for Move are less
-
-
 
 <h2>PageTags</h2>
 

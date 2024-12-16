@@ -1,8 +1,8 @@
 # 🟠<move>SpadeJavelin</move>
 
-- The FinishMoto of SpadeJavelin is SpadePost
+- The FinishMove of SpadeJavelin is SpadePost
 
-- SpadeJavelin is used to SpadePost when returning to the cache or when both hands are needed to adjust bags, transfer bundles, modify clothing layers, or to reload flag roll.
+- SpadeJavelin is used to SpadePost when returning to the cache or when both hands are needed to adjust bags, transfer bundles, modify clothing layers, or to reload Marka roll.
 
 ---
 

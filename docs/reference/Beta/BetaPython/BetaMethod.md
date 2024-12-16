@@ -73,11 +73,11 @@ With BareRoots you must often curl the roots into the hole
 
 <eko>Nanosite</eko> is a ViaPoint
 
-### 🔷<beta>Put(<via>Flag</via>)</beta>
+### 🔷<beta>Put(<via>Marka</via>)</beta>
 
-> to place a flag on an EcoFactor
+> to place a Marka on an EcoFactor
 
-<via>FlagSite</via> is a ViaPoint
+<via>MarkaSite</via> is a ViaPoint
 
 ### Put().Rate
 
@@ -148,11 +148,7 @@ Trees/Time
 <!-- =================================================== -->
 ::: details 🛠 <dev>&&&</dev>
 
-
-
 - Negociate
-
-
 
 <h2>PageTags</h2>
 
@@ -168,6 +164,5 @@ Trees/Time
 - "Beta.BetaFunction.TestBeta"
 
 ---
-
 
 :::

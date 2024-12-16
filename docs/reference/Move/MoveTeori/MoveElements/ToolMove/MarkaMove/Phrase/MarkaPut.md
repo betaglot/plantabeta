@@ -1,15 +1,15 @@
-# 🟠 <move>PutFlag</move>
+# 🟠 <move>PutMarka</move>
 
-> placing a Flag in the Land
+> placing a Marka in the Land
 ![MoveIkon](/Move/Move_Ikon.png)
 
-## FlagKnot
+## MarkaKnot
 
-## FlagThrow
+## MarkaThrow
 
-## FlagWeave
+## MarkaWeave
 
-## FlagWrap
+## MarkaWrap
 
 ---
 
@@ -24,9 +24,9 @@
 
 <h2>PageTags</h2>
 
-- "Move.ToolMove.FlagMove.FlagWrap"
-- "Move.ToolMove.FlagMove.FlagWeave"
-- "Move.ToolMove.FlagMove.FlagThrow"
-- "Move.ToolMove.FlagMove.FlagKnot"
+- "Move.ToolMove.MarkaMove.MarkaWrap"
+- "Move.ToolMove.MarkaMove.MarkaWeave"
+- "Move.ToolMove.MarkaMove.MarkaThrow"
+- "Move.ToolMove.MarkaMove.MarkaKnot"
 
 :::

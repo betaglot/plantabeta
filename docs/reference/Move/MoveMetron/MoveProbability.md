@@ -43,11 +43,11 @@ Levels of Probability
 
 ### Examples Of Probability
 
-MotoRisk.Probability1: Improbable
+MoveRisk.Probability1: Improbable
 
 - <move>JugGrip.Error.Slip</move>
 
-MotoRisk.Probability2: Remote
+MoveRisk.Probability2: Remote
 
 - <move>Fall</move> from <move>SlipMovement</move> when all other Contacts are Stable.
 
@@ -55,7 +55,7 @@ Probability3: Occasional
 
 Probability4: Probable
 
-MotoRisk.Probability5: Frequent
+MoveRisk.Probability5: Frequent
 
 - <move>CrimpGrip.SharpHold</move>
 - <move>OneFingerCatch</move>
@@ -185,7 +185,7 @@ Get BradGobright quote about FreeSolo in Eldorado Canyon in ReelRock.
 
 Dyno
 
-Irreversible.MotoRisk(Low)
+Irreversible.MoveRisk(Low)
 
 - Movements which are reversible but with at least a moderate probability of resulting in a Fall.
 
@@ -196,7 +196,7 @@ ProprioceptiveMovement
 - Definition(ProprioceptiveMovement)
     - A Movement which relies on Proprioception (sensing the position of one’s body). Without being able to use one’s eyes to guide the Movement.
 
-MotoRisk.ProprioceptiveMovement(+)
+MoveRisk.ProprioceptiveMovement(+)
 
 - PaddleDyno
 - HiddenFootSwap
@@ -204,7 +204,7 @@ MotoRisk.ProprioceptiveMovement(+)
 - HiddenBumpMovement
 - HiddenRouteSurface
 
-MotoRisk.ProprioceptiveMovement(-)
+MoveRisk.ProprioceptiveMovement(-)
 
 - HandSwap
     - Hands have high Proprioceptive ability, but it is possible that they could make MovementError, such as FingerOverlap or not NoSurfaceLeft.
@@ -264,7 +264,7 @@ RiskOfInjury
 
 ### Environment
 
-WallType can modify MotoRisk or RouteRisk.
+WallType can modify MoveRisk or RouteRisk.
 
 - SlabWall increases Risk of SlipMovement.
 - NoShadowHold

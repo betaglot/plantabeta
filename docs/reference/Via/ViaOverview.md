@@ -155,8 +155,6 @@ Directions
 <!-- =================================================== -->
 ::: details 🛠 <dev>&&&</dev>
 
-
-
 - Request cache move
 - SquirrelCache -> PieceCache
 - Via layer
@@ -182,8 +180,6 @@ Directions
 
 ## Update your Via
 
-
-
 <h2>PageTags</h2>
 
 ## ViaProbability
@@ -208,7 +204,7 @@ Eko is decomposed by composing a Via
 - "Psike.Vision.Find.BackLine"
 - "Psike.Vision.Find.FarSide"
 - "Psike.Vision.Find.FindFirstBagUp"
-- "Psike.Vision.Find.Flag"
+- "Psike.Vision.Find.Marka"
 - "Psike.Vision.Find.Overview"
 - "Psike.Vision.Hidden"
 - "Psike.Vision.SeenFromCache"
@@ -246,7 +242,7 @@ Eko is decomposed by composing a Via
 - "Via.ViaSuperposition"
 - PlantingProcess_LandApproach_FlyIn_Helicopter
 - PlantingProcess_LandApproach_WalkIn_WalkInTime
-- PlantingProcess_LandBriefing_FingerPointing_ArmMoto
+- PlantingProcess_LandBriefing_FingerPointing_ArmMove
 - PlantingProcess_LandBriefing_PlanterSupervisor_BlockDiagram
 - PlantingProcess_LandBriefing_PlanterSupervisor_LandDiagram
 - PlantingProcess_LandManagement_Error_DeadWalking_Definition_
@@ -260,7 +256,7 @@ Eko is decomposed by composing a Via
 - PlantingProcess_LandManagement_LandSection_Geometry_Linguistics_Shorthand_SimplifiedShape_
 - PlantingProcess_LandManagement_Orientation_Landmark_LandmarkAlignment_
 - PlantingProcess_LandManagement_PartnerPlanting_InsideLandBorderline_LandDiagram_
-- PlantingProcess_LandManagement_PartnerPlanting_InsideLandBorderline_TreeFlag_
+- PlantingProcess_LandManagement_PartnerPlanting_InsideLandBorderline_TreeMarka_
 - PlantingProcess_LandManagement_PlanterEfficiency_DeadWalking
 - PlantingProcess_LandManagement_ViaLine_OptimalViaLine_StraightLine_
 - PlantingProcess_LandManagement_TreeCacheLocation_RoadCacheAboveLand_LineIn_WalkDownSlope
@@ -278,8 +274,8 @@ Eko is decomposed by composing a Via
 - PlantingProcess_LastBagUp_FinishByLand_BlockClosure
 - PlantingProcess_LastBagUp_FinishByTreeCount_TargetTreeCount
 - PlantingProcess_LastBagUp_WalkOut_WalkOutTime
-- PlantingProcess_Replant_MissedLand_TreeFlag
-- PlantingProcess_Replant_MissedMicrosite_TreeFlag
+- PlantingProcess_Replant_MissedLand_TreeMarka
+- PlantingProcess_Replant_MissedMicrosite_TreeMarka
 
 > Optimal vialine has zero displacement from via start to via finish, both are at the cache
 

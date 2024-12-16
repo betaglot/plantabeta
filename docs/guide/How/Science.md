@@ -50,7 +50,7 @@ People make judgements about the probability of something based on how easy it i
 
 #### Sunk Cost
 
-- Screefing
+- Skreefing
 
 ### Framing Effect
 

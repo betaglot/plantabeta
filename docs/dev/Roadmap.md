@@ -75,7 +75,7 @@ Test [novel planter tools](dev/Tools)
 
 ### Merge Planter Beta with Wildfire Fighter Beta
 
-- Screef
+- Skreef
 
 ### Plant fire resistance Devices
 
@@ -98,7 +98,7 @@ Eko is Street
 
 Promotional video
 
-LawnScreef
+LawnSkreef
 
 Trees are not meant to be loners. Buttress Tree
 

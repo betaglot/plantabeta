@@ -15,16 +15,16 @@ A trailer loaded with everthing that PLANTERS need for their season. For planter
 - GearShed
 - GearCloset
 
-## 🔻<via>FlagDev</via>
+## 🔻<via>MarkaDev</via>
 
 - How are notebooks perforated?
-- Flag wrap is waiter bill fold
+- Marka wrap is waiter bill fold
 - With cut corner about an inch to maximize surface during branch wrap. Like an ornament or cow ear tag
-- Wooden staple for flag
-- Flag is a source of income for PutPlant
-- Paper Trombone to lock flag like a Bookmark
+- Wooden staple for Marka
+- Marka is a source of income for PlantaBeta
+- Paper Trombone to lock Marka like a Bookmark
     - ![BookMark](/dev/Bookmark.jpg)
-- Flag ring
+- Marka ring
 - Paper
 - Conformable
 - Biodegradable
@@ -39,7 +39,7 @@ Wax to waterproof
 ## 🟠<move>CartDev</move>
 
 - WalkIn
-- BoxMoto
+- BoxMove
 
 ## 🟠<move>DoryDev</move>
 
@@ -133,9 +133,9 @@ Pannier
 - You only need to worry about the back of your hands. Glabrous warms the palm
 - Wool lining
 
-### 🟠<move>FlaggerDev</move>
+### 🟠<move>MarkorDev</move>
 
-Ideally there would be a Flagger on each Vambrace
+Ideally there would be a Markor on each Vambrace
 
 ## 🟠<move>RopeDev</move>
 
@@ -391,14 +391,9 @@ Weave Tab
 <!-- =================================================== -->
 ::: details 🛠 <dev>&&&</dev>
 
-
-
 - What could be planted to suppress fire like a firebreak or something. Planted just before
 
 Planting Bags used all year round are no longer called planting bags. `(Silvicolum)Latin = "Inhabitor of woods"`
-
-
-
 
 <h2>PageTags</h2>
 
@@ -406,11 +401,10 @@ Planting Bags used all year round are no longer called planting bags. `(Silvicol
 - "Dev.ToolDiagram.BagsDiagram"
 - "Dev.Tools"
 - "Dev.Tools.Cart"
-- "Dev.Tools.Flag"
+- "Dev.Tools.Marka"
 - "Dev.Tools.Kit"
 - "Dev.Tools.PlantingBag"
-- "Dev.Tools.Screefer"
+- "Dev.Tools.Skreefer"
 - "Dev.Tools.Spade"
-
 
 :::

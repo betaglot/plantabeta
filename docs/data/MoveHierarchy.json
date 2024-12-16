@@ -1,11 +1,11 @@
 {
-    "name": "MotoHierarchy",
+    "name": "MoveHierarchy",
     "child": [
         {
-            "name": "ArmMoto",
+            "name": "ArmMove",
             "child": [
                 {
-                    "name": "ArmFlag",
+                    "name": "ArmMarka",
                     "child": []
                 },
                 {

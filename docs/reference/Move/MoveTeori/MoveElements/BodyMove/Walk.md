@@ -35,9 +35,9 @@ Aim small miss small. Larger moves have larger potential for error
 
 ## Related <move>MoveElements</move>
 
-- Walk  [<move>DeadWalking</move>](/encyclopedia/Move/MotoError#dead-walk).
-- Description of how this Walk relates to a particular [<move>MotoFactor</move>](/encyclopedia/Move/MotoOverview).
-- Description of how this Walk relates to a particular [<move>MotoFactor</move>](/encyclopedia/Move/MotoOverview).
+- Walk  [<move>DeadWalking</move>](/encyclopedia/Move/MoveError#dead-walk).
+- Description of how this Walk relates to a particular [<move>MoveFactor</move>](/encyclopedia/Move/MoveOverview).
+- Description of how this Walk relates to a particular [<move>MoveFactor</move>](/encyclopedia/Move/MoveOverview).
 
 -  
 

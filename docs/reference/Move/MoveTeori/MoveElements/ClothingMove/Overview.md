@@ -1,4 +1,4 @@
-# 🟠 <move>ClothesMoto</move>
+# 🟠 <move>ClothesMove</move>
 
 ## Clothing Attributes
 

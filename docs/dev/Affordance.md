@@ -10,7 +10,7 @@ Udo Neumann
 
 - Putability
 - Plantability
-- Screefability
+- Skreefability
 - Stepability
 - Grippability
 

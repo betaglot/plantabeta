@@ -6,7 +6,7 @@
 
 - Ambiguous eco
 - Road to piece
-- Boundary flags
+- Boundary Markas
 Planter Confidence is the solution to Ambiguity
 
 ---

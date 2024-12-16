@@ -1,34 +1,34 @@
-# 🔻 <via>Flag</via>
+# 🔻 <via>Marka</via>
 
-Tool=Flagger
-Move=Flagging
+Tool=Markager
+Move=Markaging
 
-FlagRip
+MarkaRip
 
-## FlagPurpose
+## MarkaPurpose
 
 - Naturals
 - Already planted
 - Unplantable Area
 
-## FlagLocation
+## MarkaLocation
 
-[FlagLocation]
+[MarkaLocation]
 
-## FlaggingFrequency
+## MarkagingFrequency
 
-- FlagCount
+- MarkaCount
 
-## FlagAttributes
+## MarkaAttributes
 
-- FlagColor
-- FlagLength
-- FlagMaterial
-- FlagLocation
+- MarkaColor
+- MarkaLength
+- MarkaMaterial
+- MarkaLocation
 
-## FlagError
+## MarkaError
 
-Flag is considered a WastedFlag when it can't be useful for any future [Covering].
+Marka is considered a WastedMarka when it can't be useful for any future [Covering].
 
 - Hidden in a [SlashPile]
 
@@ -45,15 +45,15 @@ Flag is considered a WastedFlag when it can't be useful for any future [Covering
 
 <h2>PageTags</h2>
 
-- "Via.Flag.BoundaryFlag"
-- "Via.Flag.FlagLine.FlagLineIn"
-- "Via.Flag.FlagLine.FlagLineIn.StartPoint"
-- "Via.Flag.FlagSite"
-- "Via.Flag.HighFlag"
-- "Via.Flag.LineInFlag"
-- "Via.Flag.LowFlag"
-- "Via.Flag.Overview"
-- "Via.Flag.TrenchExitFlag"
-- "Via.Flag.WastedFlag"
+- "Via.Marka.BoundaryMarka"
+- "Via.Marka.MarkaLine.MarkaLineIn"
+- "Via.Marka.MarkaLine.MarkaLineIn.StartPoint"
+- "Via.Marka.MarkaSite"
+- "Via.Marka.HighMarka"
+- "Via.Marka.LineInMarka"
+- "Via.Marka.LowMarka"
+- "Via.Marka.Overview"
+- "Via.Marka.TrenchExitMarka"
+- "Via.Marka.WastedMarka"
 
 :::

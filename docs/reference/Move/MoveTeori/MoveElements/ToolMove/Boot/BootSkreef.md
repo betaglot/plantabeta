@@ -1,5 +1,5 @@
 
-# <move>BootScreef</move>
+# <move>BootSkreef</move>
 
 ![MoveIkon](/Move/Move_Ikon.png)
 

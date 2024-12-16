@@ -104,10 +104,10 @@ Quote
 
 > “How good is the hold, I can’t see it from the ground?”
 
-HiddenViaSurface.MotoRisk(-)
+HiddenViaSurface.MoveRisk(-)
 
 - A ViaSurface which was recently visible from AnteViaPosition is lower Risk than a HiddenViaSurface which isn’t seen until CurrentViaPosition or PostViaPosition.
-    - MotoRisk.HiddenViaSurface(TopOut.TargetSurface > SitStart.StartHold)
+    - MoveRisk.HiddenViaSurface(TopOut.TargetSurface > SitStart.StartHold)
 
 Hidden ByViaSurfaceSize
 
@@ -117,7 +117,7 @@ HiddenByViaForm
 
 - Can’t be seen from Current EyePosition.
     - ViaPosition
-    - MotoPosition
+    - MovePosition
 
 - SwapMovement on ViaSurface.
 - UnderclingGrip when you can’t see from Distal of Elbow.
@@ -197,7 +197,7 @@ Quote
 - MarginalHold
 - HeinousHold
 
-ViaSurface.MotoRisk(+)
+ViaSurface.MoveRisk(+)
     - Risk of Slipping off ViaSurface.
         - AlexHonnold on the FreeblastSlab in FreeSoloMovie.
         - NoShadowHold

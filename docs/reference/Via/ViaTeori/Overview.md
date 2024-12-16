@@ -8,10 +8,10 @@ viaRIC.Continuum
 
 - ViaComplexity.Low (R.C-)
     - LadderVia is Via.Complexity.Low (Via.C-) since all ViaSurfaces are clearly visible and it’s clear how to Grip them.
-    - MotoClimbing is all about creating ComplexMoto on Simple Vias.
+    - MoveClimbing is all about creating ComplexMove on Simple Vias.
 
 - ViaIntensity.High (R.C+)
-    - A Laddervia can have HighIntensityMoto if you don’t use all the viaSurfaces.  
+    - A Laddervia can have HighIntensityMove if you don’t use all the viaSurfaces.  
     - SkipHold
 
 ## Competition.DifficultyScore

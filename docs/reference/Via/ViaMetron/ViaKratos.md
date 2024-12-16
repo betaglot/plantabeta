@@ -12,9 +12,9 @@ Climbers can perform a really intense move which is more intense than it needs t
 
 - Holds that are far apart are HighIntensity due to the large distance between them. A Tall Climber can ArmReach with LowIntensity while a ShortClimber must <move>Dyno</move> with HighIntensity for the same route. Does this mean that Route Intensity is relative to climber? No, the Beta is more intense but the Route Intensity stays the same. Beta is more intense for ShortClimber than TallClimber.
 
-- <via>Route</via> Intensity is independent of MotoIntensity.
+- <via>Route</via> Intensity is independent of MoveIntensity.
 
-- MotoIntensity depends on RouteIntensity.
+- MoveIntensity depends on RouteIntensity.
 
 ### Relationship between Route Intensity and Psike Intensity
 

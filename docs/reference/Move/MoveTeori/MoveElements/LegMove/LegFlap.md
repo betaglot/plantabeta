@@ -15,5 +15,5 @@
 
 <h2>PageTags</h2>
 
-- "Move.LegMove.LegFlag"
+- "Move.LegMove.LegMarka"
 :::

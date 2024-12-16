@@ -28,9 +28,9 @@ Heuristic Function()
 - When to move to next microsite?
 - Used more in Recovery than at the PhraseStart
 
-MotoRecovery is after
+MoveRecovery is after
 
-You can't start a phase with MotoRecovery
+You can't start a phase with MoveRecovery
 
 ### Reflex
 

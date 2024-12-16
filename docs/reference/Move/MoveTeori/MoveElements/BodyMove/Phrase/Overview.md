@@ -8,12 +8,12 @@
 ```py
 Put = [
     'MicrositeSelection',
-    'Screef',
+    'Skreef',
     'Get',
     'OpenHole',
     'HandPut'
     'CloseHole',
-    'PostFlag'
+    'PostMarka'
 ]
 
 

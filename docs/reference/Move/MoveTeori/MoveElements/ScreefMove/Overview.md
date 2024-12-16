@@ -1,24 +1,24 @@
-# 🟠 <move>ScreefMoto</move>
+# 🟠 <move>SkreefMove</move>
 
-## ToReduceConfusion(ScreefMoto != ScreefEco)
+## ToReduceConfusion(SkreefMove != SkreefEco)
 
-The screef movement isn't the same concept as the Screef's EcoSurface of exposed soil.
+The skreef movement isn't the same concept as the Skreef's EcoSurface of exposed soil.
 
-"Screef" is a movement and concrete part of the land, similar to how a "hold" is a move and concrete object in climbing
+"Skreef" is a movement and concrete part of the land, similar to how a "hold" is a move and concrete object in climbing
 
-## Screef Anatomy
+## Skreef Anatomy
 
 - Center
 - Mineral Soil
 - Side
 - Circumference
 
-## ScreefAttributes
+## SkreefAttributes
 
-- ScreefSize
-    - ScreefDiameter
+- SkreefSize
+    - SkreefDiameter
     - Circumference
-    - ScreefDepth
+    - SkreefDepth
 
 ---
 
@@ -33,10 +33,10 @@ The screef movement isn't the same concept as the Screef's EcoSurface of exposed
 
 <h2>PageTags</h2>
 
-- "Eko.Screef.10x10Screef"
-- "Eko.Screef.DinnerPlateScreef"
-- "Eko.Screef.Overview"
-- "Eko.Screef.PocketScreef"
-- "Move.ScreefMove.Overview"
+- "Eko.Skreef.10x10Skreef"
+- "Eko.Skreef.DinnerPlateSkreef"
+- "Eko.Skreef.Overview"
+- "Eko.Skreef.PocketSkreef"
+- "Move.SkreefMove.Overview"
 
 :::

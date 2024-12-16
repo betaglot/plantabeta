@@ -40,7 +40,7 @@ for Bundle in Box:
 
 ### Phrase
 
-> A dance phrase or sequence can be likened to a sentence formed when speaking. Sometimes we refer to dance phrases as moto sequences. For the purpose of this lesson either term is acceptable. Each phrase has a beginning, middle, and end. Motos selected in a dance phrase may flow one to the other naturally or may be connected by a transition Move. Evolving dance sequences from action words is another way to demystify the creative process. Action words lead to the formation of individual dance phrases and provide the framework for further developing those phrases into larger compositional forms. In this lesson, the action words are common terms used in contemporary dance.
+> A dance phrase or sequence can be likened to a sentence formed when speaking. Sometimes we refer to dance phrases as moto sequences. For the purpose of this lesson either term is acceptable. Each phrase has a beginning, middle, and end. Moves selected in a dance phrase may flow one to the other naturally or may be connected by a transition Move. Evolving dance sequences from action words is another way to demystify the creative process. Action words lead to the formation of individual dance phrases and provide the framework for further developing those phrases into larger compositional forms. In this lesson, the action words are common terms used in contemporary dance.
 
 - <https://us.humankinetics.com/blogs/excerpt/phrase-linking-motos>
 
@@ -72,7 +72,7 @@ class Trench(PrepLand):
  
 
 class SpadeSlam(Move):
-    def __init(self, MotoLocation)
+    def __init(self, MoveLocation)
 ```
 
 ### Instance Variable
@@ -94,14 +94,14 @@ Instantiate and EcoFactor with an empty string for Via
 See [BetaMethods](/encyclopedia/)
 
 ```py
-def Put(PlantType: str, Location: str, TreeCount: int, TreeType: str, ScreefBoolean: bool):
+def Put(PlantType: str, Location: str, TreeCount: int, TreeType: str, SkreefBoolean: bool):
 
 ```
 
-### Put(Flag)
+### Put(Marka)
 
 ```py
-def Put(Flag, FlagColor: str, FlagType: str, HandMove: str)
+def Put(Marka, MarkaColor: str, MarkaType: str, HandMove: str)
 ```
 
 ## ReservedWords
@@ -135,9 +135,9 @@ As you move through the land the EcoState is constantly changing. Remember that 
 - TopoState
     - SlopeAngle
 
-### MotoState
+### MoveState
 
-- MotoState
+- MoveState
 - FatigueState
 
 ### NeuroState
@@ -201,7 +201,7 @@ You don't need to communicate Beta all the time, but when you do, PlantaBeta hel
 
 Beta is the syntax
 
-Motos are the objects and functions
+Moves are the objects and functions
 
 Plantbeta can be used in Planting and Climbing, on PlantaBeta.com and Klimbeta.com
 

@@ -27,7 +27,7 @@
 - How can planting boxes be hexagonal instead of rectangular?
 - Who is the oldest tree Planter in Canada?
 - What is the reason why Planters rarely use spades in Europe?
-- Where did the term 'screef' come from?
+- Where did the term 'skreef' come from?
 - Where did the term 'duff' come from?
 - Are planting tubes more efficient than spades?
 - Globally, how many seedlings survive to their 10th year?
@@ -51,7 +51,7 @@
 - Are there residential Ecoscaping companies which use Canadian tree Planter tools?
 - Do any Planters gain mass by the end of their season?
 - Do any Planters have a warm up routine for before starting their planting day?
-- How can bioplastics be used as flag?
+- How can bioplastics be used as Marka?
 - How can bush camp cooks, not be sleep deprived?
 - How does reforestation work in Spain?
 - How does reforestation work in France?

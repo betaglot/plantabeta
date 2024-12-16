@@ -8,7 +8,7 @@ DottedLine=Deadwalk
 
 SolidLine=ViaCurve
 
-CrossedLine=FlaggedLine
+CrossedLine=MarkagedLine
 
 ## Montreal Metro Map
 
@@ -70,7 +70,7 @@ Number of Edges of a Voronoi Cell?
 
 [D3 closest neighbor and Voronoi edges](https://d3js.org/d3-delaunay/voronoi#voronoi_neighbors)
 
-### <move>MotoVoronoi</move>
+### <move>MoveVoronoi</move>
 
 ![Fencing](/Via/Voronoi/FencingVoronoi.png)
 
@@ -116,8 +116,6 @@ Via can be seen through the land.
 
 ## GeoPandas
 
-
-
 - Follow the lit Path
 - ScaleBar
 - ViaStartPoint is a Circle
@@ -125,8 +123,6 @@ Via can be seen through the land.
     - Circle Border is NotPlanted
 
 - ViaFinishPoint is a Triangle
-
-
 
 <h2>PageTags</h2>
 
@@ -136,6 +132,5 @@ Via can be seen through the land.
 - "Via.ViaDiagram.ViaNotDirectedLine"
 - "Via.ViaDiagram.ViaSurface.ViaSurfaceHighlight"
 - "Via.ViaDiagram.ViaTimeline"
-
 
 :::

@@ -1,4 +1,4 @@
-# 🟠 <move>ToolMoto</move>
+# 🟠 <move>ToolMove</move>
 
 ## Tool List
 
@@ -6,7 +6,7 @@
 - PlantingBags
 - Gloves
 - Kit
-- Flag
+- Marka
 - Rope
 
 ---

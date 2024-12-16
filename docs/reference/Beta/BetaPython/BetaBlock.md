@@ -20,7 +20,7 @@ BetaLoopMantra
 4. Open
 5. Put
 6. Close
-7. Flag
+7. Marka
 8. Next
 
 ---
@@ -32,10 +32,6 @@ BetaLoopMantra
 <!-- =================================================== -->
 ::: details 🛠 <dev>&&&</dev>
 
-
-
 - Negociate
-
-
 
 :::

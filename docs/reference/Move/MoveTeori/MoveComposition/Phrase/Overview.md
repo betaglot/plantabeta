@@ -4,15 +4,15 @@
 
 <div style="display: flex">
     <div>
-        <img style="margin: 5px" height="200" width="200" alt="Icon" src="/Move/Moto_Icon.png"/>
+        <img style="margin: 5px" height="200" width="200" alt="Icon" src="/Move/Move_Icon.png"/>
         <p>Description of Move Photo</p>
     </div>
     <div>
-        <img style="margin: 5px" height="200" width="200" alt="Icon" src="/Move/Moto_Icon.png"/>
+        <img style="margin: 5px" height="200" width="200" alt="Icon" src="/Move/Move_Icon.png"/>
         <p>Description of Move Photo</p>
     </div>
     <div>
-        <img style="margin: 5px" height="200" width="200" alt="Icon" src="/Move/Moto_Icon.png"/>
+        <img style="margin: 5px" height="200" width="200" alt="Icon" src="/Move/Move_Icon.png"/>
         <p>Description of Move Photo</p>
     </div>
 </div>
@@ -126,39 +126,39 @@
 
 <h2>PageTags</h2>
 
-- "Move.MotoPhrase"
-- "Move.MotoPhrase.AnteMoto"
-- "Move.MotoPhrase.ArmPhrase"
-- "Move.MotoPhrase.Attempt"
-- "Move.MotoPhrase.BaggingUpPhrase"
-- "Move.MotoPhrase.BodyPhrase"
-- "Move.MotoPhrase.ContiguousMoto"
-- "Move.MotoPhrase.CurrentMoto"
-- "Move.MotoPhrase.FootPhrase"
-- "Move.MotoPhrase.HandPhrase"
-- "Move.MotoPhrase.InitiationMoto"
-- "Move.MotoPhrase.IntermembralTiming"
-- "Move.MotoPhrase.LegPhrase"
-- "Move.MotoPhrase.MotoChunk.MotoPhrase"
-- "Move.MotoPhrase.MotoCycle"
-- "Move.MotoPhrase.MotoCycle.DoUntil"
-- "Move.MotoPhrase.MotoCycle.DoWhile"
-- "Move.MotoPhrase.MotoDensity"
-- "Move.MotoPhrase.MotoEndurance"
-- "Move.MotoPhrase.MotoLinePhrase"
-- "Move.MotoPhrase.MotoNestedPhrase"
-- "Move.MotoPhrase.MotoOverlap"
-- "Move.MotoPhrase.MotoRhythm"
-- "Move.MotoPhrase.MotoPhraseArea"
-- "Move.MotoPhrase.MotoPhraseError"
-- "Move.MotoPhrase.MotoPhraseVariation"
-- "Move.MotoPhrase.MotoShapePhrase.MotoShapeOverlap"
-- "Move.MotoPhrase.MotoSpacePhrase.MotoSpaceOverlap"
-- "Move.MotoPhrase.MotoTempo"
-- "Move.MotoPhrase.PlantingPhrase"
-- "Move.MotoPhrase.PostMoto"
-- "Move.MotoPhrase.SimultaneousMoto"
-- "Move.MotoPhrase.SpadePhrase"
-- "Move.MotoPhrase.SubmotoPhrase"
-- "Move.MotoPhrase.TransitionMoto"
+- "Move.MovePhrase"
+- "Move.MovePhrase.AnteMove"
+- "Move.MovePhrase.ArmPhrase"
+- "Move.MovePhrase.Attempt"
+- "Move.MovePhrase.BaggingUpPhrase"
+- "Move.MovePhrase.BodyPhrase"
+- "Move.MovePhrase.ContiguousMove"
+- "Move.MovePhrase.CurrentMove"
+- "Move.MovePhrase.FootPhrase"
+- "Move.MovePhrase.HandPhrase"
+- "Move.MovePhrase.InitiationMove"
+- "Move.MovePhrase.IntermembralTiming"
+- "Move.MovePhrase.LegPhrase"
+- "Move.MovePhrase.MoveChunk.MovePhrase"
+- "Move.MovePhrase.MoveCycle"
+- "Move.MovePhrase.MoveCycle.DoUntil"
+- "Move.MovePhrase.MoveCycle.DoWhile"
+- "Move.MovePhrase.MoveDensity"
+- "Move.MovePhrase.MoveEndurance"
+- "Move.MovePhrase.MoveLinePhrase"
+- "Move.MovePhrase.MoveNestedPhrase"
+- "Move.MovePhrase.MoveOverlap"
+- "Move.MovePhrase.MoveRhythm"
+- "Move.MovePhrase.MovePhraseArea"
+- "Move.MovePhrase.MovePhraseError"
+- "Move.MovePhrase.MovePhraseVariation"
+- "Move.MovePhrase.MoveShapePhrase.MoveShapeOverlap"
+- "Move.MovePhrase.MoveSpacePhrase.MoveSpaceOverlap"
+- "Move.MovePhrase.MoveTempo"
+- "Move.MovePhrase.PlantingPhrase"
+- "Move.MovePhrase.PostMove"
+- "Move.MovePhrase.SimultaneousMove"
+- "Move.MovePhrase.SpadePhrase"
+- "Move.MovePhrase.SubmotoPhrase"
+- "Move.MovePhrase.TransitionMove"
 :::

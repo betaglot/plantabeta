@@ -1,4 +1,4 @@
-# 🟠 <move>PlantMoto</move>
+# 🟠 <move>PlantMove</move>
 
 ## Plant Anatomy
 

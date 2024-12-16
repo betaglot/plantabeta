@@ -1,4 +1,4 @@
-# 🟠 <move>FlagGrip</move>
+# 🟠 <move>MarkaGrip</move>
 
 ::: info
 :::

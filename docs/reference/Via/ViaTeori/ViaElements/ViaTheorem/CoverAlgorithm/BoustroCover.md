@@ -83,7 +83,7 @@ Graph which represents how this element is related to other elements in PlantaBe
 
 -
 
-## 🟠<move>MotoFactors</move>
+## 🟠<move>MoveFactors</move>
 
 - TurnAround
 
@@ -96,7 +96,7 @@ Graph which represents how this element is related to other elements in PlantaBe
 Links to other related ViaFactors.
 
 - BackCover
-- FlagTrenchExit
+- MarkaTrenchExit
 - ConvergentBoustroCover
 - DivergentBoustroCover
 ::: details External References

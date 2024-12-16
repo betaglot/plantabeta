@@ -52,9 +52,9 @@ Concurrency is
 
 Deck of cards
 
-Phrase of MotoCards
+Phrase of MoveCards
 
-MotoCard
+MoveCard
 
 ElementCard
 
@@ -66,11 +66,11 @@ Group of Cards
 
 A Vuetify Component
 
-MotoCards are positioned along a ViaCurve
+MoveCards are positioned along a ViaCurve
 
 ### CardShape
 
-MotoCards are positioned in a CoverChart
+MoveCards are positioned in a CoverChart
 
 ## Rhythm
 
@@ -100,9 +100,9 @@ Standardize the way that Phrases of BetaElements are represented in code and gra
 
 🔷 Code
 
-## Differentiate(Phrase, Supermoto, Move, Submoto, BodyMoto)
+## Differentiate(Phrase, Supermoto, Move, Submoto, BodyMove)
 
-An ArmPhrase is a list of ArmMotos performed in Parallel (BoxCarry), Concurrently (SpadeLift, TreeLoad)
+An ArmPhrase is a list of ArmMoves performed in Parallel (BoxCarry), Concurrently (SpadeLift, TreeLoad)
 
 ## Control Flow Statements
 

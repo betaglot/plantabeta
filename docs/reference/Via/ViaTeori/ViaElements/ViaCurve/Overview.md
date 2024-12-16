@@ -28,7 +28,7 @@ In mathematics a *line* must be straight, while a *curve* can be straight or not
 
 <h2>PageTags</h2>
 
-- "Via.ViaGeometry.ViaCurve.AdvancingMoto"
+- "Via.ViaGeometry.ViaCurve.AdvancingMove"
 - "Via.ViaGeometry.ViaCurve.BagUpLine"
 - "Via.ViaGeometry.ViaCurve.BeeLine"
 - "Via.ViaGeometry.ViaCurve.BoundaryLine.ArtificialBoundaryLine"

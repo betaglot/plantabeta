@@ -77,11 +77,7 @@ DashedCurve
 <!-- =================================================== -->
 ::: details 🛠 <dev>&&&</dev>
 
-
-
 - Hatching
-
-
 
 <h2>PageTags</h2>
 
@@ -114,7 +110,7 @@ DashedCurve
 - "Dev.Element.ElementDiagram.Labels.TextLabel"
 - "Dev.Element.ElementDiagram.Labels.TextLabel.AbbreviatedTextLabel"
 - "Dev.Element.ElementDiagram.Labels.TextLabel.LandLabel"
-- "Dev.Element.ElementDiagram.Labels.TextLabel.MotoLabel"
+- "Dev.Element.ElementDiagram.Labels.TextLabel.MoveLabel"
 - "Dev.Element.ElementDiagram.Labels.TextLabel.ViaLineLabel"
 - "Dev.Element.ElementDiagram.LevelOfDetail"
 - "Dev.Element.ElementDiagram.Line.ConstructionLine"
@@ -169,6 +165,5 @@ DashedCurve
 - "Dev.Poster"
 - "Dev.Scroll"
 - "Via.LandInfluenceVia.Overview"
-
 
 :::

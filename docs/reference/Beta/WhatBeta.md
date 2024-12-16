@@ -67,13 +67,13 @@ Based on Gymnastics Elements. Elements are completed using Beta Factors. Multipl
 - 🔷OpenHole
 - 🔷SelectSite
 - 🔷CloseHole
-- 🔷Flag
+- 🔷Marka
 - 🔷BagUp
 - 🔷LineIn
-- 🔷Screef
+- 🔷Skreef
 - 🔷Rework
 
-### <move>MotoFactor</move>
+### <move>MoveFactor</move>
 
 ### <eko>EcoFactor</eko>
 

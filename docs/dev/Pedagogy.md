@@ -37,9 +37,9 @@ The best way to reduce the CurseOfKnowledge is to check the user's knowledge fre
 
 - Tooltips like Wikipedia On(Hover)
 
-## Screefing Lesson
+## Skreefing Lesson
 
-Use the sand at 10cm below surface for SpadeScreef, since it's a similar density to the soil on the block, unlike the loose dry surface sand.
+Use the sand at 10cm below surface for SpadeSkreef, since it's a similar density to the soil on the block, unlike the loose dry surface sand.
 
 ## Pacer
 
@@ -67,7 +67,7 @@ Set up a piece
 
 InstructionalPiece
 
-Flag the stations
+Marka the stations
 
 ## Send in your work to be Evaluated
 
@@ -81,7 +81,7 @@ To understand what's going on in the planter video
 
 ### VideoLabelling
 
-Fundamental BetaUnit of Plantbeta is between HoleCloses... after the StartHole which is preceded by CacheMoto
+Fundamental BetaUnit of Plantbeta is between HoleCloses... after the StartHole which is preceded by CacheMove
 
 Parse into events
 

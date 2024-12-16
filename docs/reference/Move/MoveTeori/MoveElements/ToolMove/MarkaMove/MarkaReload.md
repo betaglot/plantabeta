@@ -1,4 +1,4 @@
-# 🟠 <move>FlagReload</move>
+# 🟠 <move>MarkaReload</move>
 
 ![MoveIkon](/Move/Move_Ikon.png)
 
@@ -15,5 +15,5 @@
 
 <h2>PageTags</h2>
 
-- "Move.ToolMove.FlagMove.FlagUnload"
+- "Move.ToolMove.MarkaMove.MarkaUnload"
 :::

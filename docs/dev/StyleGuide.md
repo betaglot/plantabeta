@@ -143,7 +143,7 @@ Periods
 
 ## <dev>Color</dev>
 
-### <move>MotoColor</move>
+### <move>MoveColor</move>
 
 ```md
 
@@ -189,7 +189,7 @@ Icons are only used to represent Objects or Functions.
 
 Concept, Object Property
 
-MotoTimeline is orange as a header but it is not prefixed with an Icon.
+MoveTimeline is orange as a header but it is not prefixed with an Icon.
 
 ::: warning Incorrect Syntax
 🟠<move>Arm.🟠<move>ArmPut()</move></move>
@@ -415,7 +415,7 @@ Should "via" be used as natural language? "Get to the next page via the link at 
 
 ## <dev>ElementPageDesign</dev>
 
-## <move>MotoPage.BaseLayout</move>
+## <move>MovePage.BaseLayout</move>
 
 ### Definition
 
@@ -423,7 +423,7 @@ Should "via" be used as natural language? "Get to the next page via the link at 
 
 ### Taxonomy
 
-#### Move.SubMoto
+#### Move.SubMove
 
 ::: tip
 
@@ -435,13 +435,13 @@ It doesn't matter if nobody looks at it.
 
 - Subset of Move
 
-#### Move.SuperMoto
+#### Move.SuperMove
 
 - Superset of Move
 
 ```py
 
-ArmSwing.SuperMoto = ArmMoto
+ArmSwing.SuperMove = ArmMove
 
 ```
 
@@ -456,13 +456,13 @@ ArmSwing.SuperMoto = ArmMoto
 
 The purpose is usually affect other BetaElements
 
-### Move.AnteMoto
+### Move.AnteMove
 
-Syntax: `Move.AnteMoto`
+Syntax: `Move.AnteMove`
 
 - How they transition to each other
 
-### Move.PostMoto
+### Move.PostMove
 
 ### Move.Via
 
@@ -480,7 +480,7 @@ Where in Eko is this Move performed and on what EcoFactor. Put "the ground" if n
 ### Move.Error
 
 - Any errors in ControlFlow
-- MotoExecutionError
+- MoveExecutionError
 - Error which is caused by Eko
     - Soil Collapse
     - Wood breaking

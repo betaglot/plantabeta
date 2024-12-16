@@ -1,4 +1,4 @@
-# 🟠<move>MotoCurve</move>
+# 🟠<move>MoveCurve</move>
 
 ---
 

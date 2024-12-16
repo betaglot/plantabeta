@@ -55,7 +55,7 @@ tags = [
                     "title": "Dev.Transcription"
                 },
                 {
-                    "title": "Move.MotoDiagram.MotoTimeline"
+                    "title": "Move.MoveDiagram.MoveTimeline"
                 },
                 {
                     "title": "PlantaBeta"
@@ -75,7 +75,7 @@ tags = [
                 "title": "Dev.Transcription"
             },
             {
-                "title": "Move.MotoDiagram.MotoTimeline"
+                "title": "Move.MoveDiagram.MoveTimeline"
             },
             {
                 "title": "PlantaBeta"
@@ -98,7 +98,7 @@ tags = [
                     "title": "Move.HandMove.SpadeHandleGrip"
                 },
                 {
-                    "title": "Move.MotoName.Overview"
+                    "title": "Move.MoveName.Overview"
                 },
                 {
                     "title": "PlantaBeta"
@@ -118,7 +118,7 @@ tags = [
                 "title": "Move.HandMove.SpadeHandleGrip"
             },
             {
-                "title": "Move.MotoName.Overview"
+                "title": "Move.MoveName.Overview"
             },
             {
                 "title": "PlantaBeta"
@@ -138,19 +138,19 @@ tags = [
             "lastUpdated": 1692978839563,
             "tags": [
                 {
-                    "title": "Move.Overview.MotoHierarchy"
+                    "title": "Move.Overview.MoveHierarchy"
                 },
                 {
-                    "title": "Move.Overview.MotoHierarchy.Submoto"
+                    "title": "Move.Overview.MoveHierarchy.Submoto"
                 },
                 {
-                    "title": "Move.Overview.MotoHierarchy.Supermoto"
+                    "title": "Move.Overview.MoveHierarchy.Supermoto"
                 },
                 {
-                    "title": "Move.Overview.MotoType"
+                    "title": "Move.Overview.MoveType"
                 },
                 {
-                    "title": "Move.Overview.MotoType.RelativeMoto"
+                    "title": "Move.Overview.MoveType.RelativeMove"
                 },
                 {
                     "title": "PlantaBeta"
@@ -167,19 +167,19 @@ tags = [
         "extension": "jpg",
         "tags": [
             {
-                "title": "Move.Overview.MotoHierarchy"
+                "title": "Move.Overview.MoveHierarchy"
             },
             {
-                "title": "Move.Overview.MotoHierarchy.Submoto"
+                "title": "Move.Overview.MoveHierarchy.Submoto"
             },
             {
-                "title": "Move.Overview.MotoHierarchy.Supermoto"
+                "title": "Move.Overview.MoveHierarchy.Supermoto"
             },
             {
-                "title": "Move.Overview.MotoType"
+                "title": "Move.Overview.MoveType"
             },
             {
-                "title": "Move.Overview.MotoType.RelativeMoto"
+                "title": "Move.Overview.MoveType.RelativeMove"
             },
             {
                 "title": "PlantaBeta"
@@ -202,7 +202,7 @@ tags = [
                     "title": "Dev.Infographic.TreeView"
                 },
                 {
-                    "title": "Move.MotoDiagram.Overview"
+                    "title": "Move.MoveDiagram.Overview"
                 },
                 {
                     "title": "PlantaBeta"
@@ -225,7 +225,7 @@ tags = [
                 "title": "Dev.Infographic.TreeView"
             },
             {
-                "title": "Move.MotoDiagram.Overview"
+                "title": "Move.MoveDiagram.Overview"
             },
             {
                 "title": "PlantaBeta"
@@ -288,7 +288,7 @@ tags = [
                     "title": "Move.ArmMove.ArmCross"
                 },
                 {
-                    "title": "Move.MotoDiagram.Overview"
+                    "title": "Move.MoveDiagram.Overview"
                 },
                 {
                     "title": "PlantaBeta"
@@ -308,7 +308,7 @@ tags = [
                 "title": "Move.ArmMove.ArmCross"
             },
             {
-                "title": "Move.MotoDiagram.Overview"
+                "title": "Move.MoveDiagram.Overview"
             },
             {
                 "title": "PlantaBeta"
@@ -328,7 +328,7 @@ tags = [
             "lastUpdated": 1692978839563,
             "tags": [
                 {
-                    "title": "Move.MotoAttributes.MotoRangeOfMotion"
+                    "title": "Move.MoveAttributes.MoveRangeOfMotion"
                 },
                 {
                     "title": "PlantaBeta"
@@ -345,7 +345,7 @@ tags = [
         "extension": "jpg",
         "tags": [
             {
-                "title": "Move.MotoAttributes.MotoRangeOfMotion"
+                "title": "Move.MoveAttributes.MoveRangeOfMotion"
             },
             {
                 "title": "PlantaBeta"
@@ -503,7 +503,7 @@ tags = [
                     "title": "Dev.Poster"
                 },
                 {
-                    "title": "Move.MotoDiagram.Overview"
+                    "title": "Move.MoveDiagram.Overview"
                 },
                 {
                     "title": "PlantaBeta"
@@ -523,7 +523,7 @@ tags = [
                 "title": "Dev.Poster"
             },
             {
-                "title": "Move.MotoDiagram.Overview"
+                "title": "Move.MoveDiagram.Overview"
             },
             {
                 "title": "PlantaBeta"
@@ -647,19 +647,19 @@ tags = [
             "lastUpdated": 1692978839564,
             "tags": [
                 {
-                    "title": "Dev.Tools.Flag"
+                    "title": "Dev.Tools.Marka"
                 },
                 {
-                    "title": "Move.ToolMove.FlagMove.FlagWeave"
+                    "title": "Move.ToolMove.MarkaMove.MarkaWeave"
                 },
                 {
-                    "title": "Move.ToolMove.FlagMove.Overview"
+                    "title": "Move.ToolMove.MarkaMove.Overview"
                 },
                 {
                     "title": "PlantaBeta"
                 },
                 {
-                    "title": "Via.Flag.WastedFlag"
+                    "title": "Via.Marka.WastedMarka"
                 },
                 {
                     "title": "TagTest"
@@ -673,19 +673,19 @@ tags = [
         "extension": "jpg",
         "tags": [
             {
-                "title": "Dev.Tools.Flag"
+                "title": "Dev.Tools.Marka"
             },
             {
-                "title": "Move.ToolMove.FlagMove.FlagWeave"
+                "title": "Move.ToolMove.MarkaMove.MarkaWeave"
             },
             {
-                "title": "Move.ToolMove.FlagMove.Overview"
+                "title": "Move.ToolMove.MarkaMove.Overview"
             },
             {
                 "title": "PlantaBeta"
             },
             {
-                "title": "Via.Flag.WastedFlag"
+                "title": "Via.Marka.WastedMarka"
             },
             {
                 "title": "TagTest"
@@ -769,16 +769,16 @@ tags = [
             "lastUpdated": 1692978839564,
             "tags": [
                 {
-                    "title": "Dev.Tools.Flag"
+                    "title": "Dev.Tools.Marka"
                 },
                 {
                     "title": "Guide.Why.Productivity.Efficiency"
                 },
                 {
-                    "title": "Move.HeadMove.Find.Flag"
+                    "title": "Move.HeadMove.Find.Marka"
                 },
                 {
-                    "title": "Move.ToolMove.FlagMove.FlagWrap"
+                    "title": "Move.ToolMove.MarkaMove.MarkaWrap"
                 },
                 {
                     "title": "Psike.Vision"
@@ -787,13 +787,13 @@ tags = [
                     "title": "PlantaBeta"
                 },
                 {
-                    "title": "Via.Flag.HighFlag"
+                    "title": "Via.Marka.HighMarka"
                 },
                 {
-                    "title": "Via.Flag.LineInFlag"
+                    "title": "Via.Marka.LineInMarka"
                 },
                 {
-                    "title": "Via.Flag.LowFlag"
+                    "title": "Via.Marka.LowMarka"
                 },
                 {
                     "title": "TagTest"
@@ -807,16 +807,16 @@ tags = [
         "extension": "jpg",
         "tags": [
             {
-                "title": "Dev.Tools.Flag"
+                "title": "Dev.Tools.Marka"
             },
             {
                 "title": "Guide.Why.Productivity.Efficiency"
             },
             {
-                "title": "Move.HeadMove.Find.Flag"
+                "title": "Move.HeadMove.Find.Marka"
             },
             {
-                "title": "Move.ToolMove.FlagMove.FlagWrap"
+                "title": "Move.ToolMove.MarkaMove.MarkaWrap"
             },
             {
                 "title": "Psike.Vision"
@@ -825,13 +825,13 @@ tags = [
                 "title": "PlantaBeta"
             },
             {
-                "title": "Via.Flag.HighFlag"
+                "title": "Via.Marka.HighMarka"
             },
             {
-                "title": "Via.Flag.LineInFlag"
+                "title": "Via.Marka.LineInMarka"
             },
             {
-                "title": "Via.Flag.LowFlag"
+                "title": "Via.Marka.LowMarka"
             },
             {
                 "title": "TagTest"
@@ -885,7 +885,7 @@ tags = [
             "lastUpdated": 1692978839564,
             "tags": [
                 {
-                    "title": "Dev.Tools.Flag"
+                    "title": "Dev.Tools.Marka"
                 },
                 {
                     "title": "PlantaBeta"
@@ -902,7 +902,7 @@ tags = [
         "extension": "jpg",
         "tags": [
             {
-                "title": "Dev.Tools.Flag"
+                "title": "Dev.Tools.Marka"
             },
             {
                 "title": "PlantaBeta"
@@ -971,7 +971,7 @@ tags = [
             "lastUpdated": 1692978839564,
             "tags": [
                 {
-                    "title": "Move.MotoDiagram.Overview"
+                    "title": "Move.MoveDiagram.Overview"
                 },
                 {
                     "title": "PlantaBeta"
@@ -997,7 +997,7 @@ tags = [
         "extension": "jpg",
         "tags": [
             {
-                "title": "Move.MotoDiagram.Overview"
+                "title": "Move.MoveDiagram.Overview"
             },
             {
                 "title": "PlantaBeta"
@@ -1237,7 +1237,7 @@ tags = [
                     "title": "Land.LandDifficulty.Overview"
                 },
                 {
-                    "title": "Move.MotoDifficulty.Overview"
+                    "title": "Move.MoveDifficulty.Overview"
                 },
                 {
                     "title": "Psike.NeuroDifficulty.Overview",
@@ -1270,7 +1270,7 @@ tags = [
                 "title": "Land.LandDifficulty.Overview"
             },
             {
-                "title": "Move.MotoDifficulty.Overview"
+                "title": "Move.MoveDifficulty.Overview"
             },
             {
                 "title": "Psike.NeuroDifficulty.Overview",
@@ -1531,7 +1531,7 @@ tags = [
             "lastUpdated": 1692978839565,
             "tags": [
                 {
-                    "title": "Move.MotoDiagram.Overview"
+                    "title": "Move.MoveDiagram.Overview"
                 },
                 {
                     "title": "PlantaBeta"
@@ -1548,7 +1548,7 @@ tags = [
         "extension": "jpg",
         "tags": [
             {
-                "title": "Move.MotoDiagram.Overview"
+                "title": "Move.MoveDiagram.Overview"
             },
             {
                 "title": "PlantaBeta"
@@ -1571,7 +1571,7 @@ tags = [
                     "title": "Dev.Element.ElementDiagram.Overview"
                 },
                 {
-                    "title": "Move.MotoDiagram.Overview"
+                    "title": "Move.MoveDiagram.Overview"
                 },
                 {
                     "title": "PlantaBeta"
@@ -1594,7 +1594,7 @@ tags = [
                 "title": "Dev.Element.ElementDiagram.Overview"
             },
             {
-                "title": "Move.MotoDiagram.Overview"
+                "title": "Move.MoveDiagram.Overview"
             },
             {
                 "title": "PlantaBeta"
@@ -1617,7 +1617,7 @@ tags = [
             "lastUpdated": 1692978839566,
             "tags": [
                 {
-                    "title": "Move.MotoDiagram.Overview"
+                    "title": "Move.MoveDiagram.Overview"
                 },
                 {
                     "title": "PlantaBeta"
@@ -1634,7 +1634,7 @@ tags = [
         "extension": "jpg",
         "tags": [
             {
-                "title": "Move.MotoDiagram.Overview"
+                "title": "Move.MoveDiagram.Overview"
             },
             {
                 "title": "PlantaBeta"
@@ -1909,16 +1909,16 @@ tags = [
                     "title": "Dev.Transcription"
                 },
                 {
-                    "title": "Move.MotoDiagram.MotoTimeline"
+                    "title": "Move.MoveDiagram.MoveTimeline"
                 },
                 {
-                    "title": "Move.MotoDiagram.Overview"
+                    "title": "Move.MoveDiagram.Overview"
                 },
                 {
-                    "title": "Move.MotoLine"
+                    "title": "Move.MoveLine"
                 },
                 {
-                    "title": "Move.MotoPhrase"
+                    "title": "Move.MovePhrase"
                 },
                 {
                     "title": "PlantaBeta"
@@ -1938,16 +1938,16 @@ tags = [
                 "title": "Dev.Transcription"
             },
             {
-                "title": "Move.MotoDiagram.MotoTimeline"
+                "title": "Move.MoveDiagram.MoveTimeline"
             },
             {
-                "title": "Move.MotoDiagram.Overview"
+                "title": "Move.MoveDiagram.Overview"
             },
             {
-                "title": "Move.MotoLine"
+                "title": "Move.MoveLine"
             },
             {
-                "title": "Move.MotoPhrase"
+                "title": "Move.MovePhrase"
             },
             {
                 "title": "PlantaBeta"
@@ -2016,7 +2016,7 @@ tags = [
                     "title": "Dev.Transcription"
                 },
                 {
-                    "title": "Move.Overview.MotoHierarchy"
+                    "title": "Move.Overview.MoveHierarchy"
                 },
                 {
                     "title": "PlantaBeta"
@@ -2045,7 +2045,7 @@ tags = [
                 "title": "Dev.Transcription"
             },
             {
-                "title": "Move.Overview.MotoHierarchy"
+                "title": "Move.Overview.MoveHierarchy"
             },
             {
                 "title": "PlantaBeta"
@@ -2120,19 +2120,19 @@ tags = [
             "lastUpdated": 1692978839567,
             "tags": [
                 {
-                    "title": "Dev.MotoDiagram.OrthographicDiagram"
+                    "title": "Dev.MoveDiagram.OrthographicDiagram"
                 },
                 {
                     "title": "Move.HandMove.FingertipPress"
                 },
                 {
-                    "title": "Move.MotoDiagram.OrthographicDiagram"
+                    "title": "Move.MoveDiagram.OrthographicDiagram"
                 },
                 {
-                    "title": "Move.MotoDiagram.Overview"
+                    "title": "Move.MoveDiagram.Overview"
                 },
                 {
-                    "title": "Move.Overview.MotoType.RelativeMoto"
+                    "title": "Move.Overview.MoveType.RelativeMove"
                 },
                 {
                     "title": "PlantaBeta"
@@ -2149,19 +2149,19 @@ tags = [
         "extension": "jpg",
         "tags": [
             {
-                "title": "Dev.MotoDiagram.OrthographicDiagram"
+                "title": "Dev.MoveDiagram.OrthographicDiagram"
             },
             {
                 "title": "Move.HandMove.FingertipPress"
             },
             {
-                "title": "Move.MotoDiagram.OrthographicDiagram"
+                "title": "Move.MoveDiagram.OrthographicDiagram"
             },
             {
-                "title": "Move.MotoDiagram.Overview"
+                "title": "Move.MoveDiagram.Overview"
             },
             {
-                "title": "Move.Overview.MotoType.RelativeMoto"
+                "title": "Move.Overview.MoveType.RelativeMove"
             },
             {
                 "title": "PlantaBeta"
@@ -2181,10 +2181,10 @@ tags = [
             "lastUpdated": 1692978839567,
             "tags": [
                 {
-                    "title": "Move.MotoDiagram.MotoTimeline"
+                    "title": "Move.MoveDiagram.MoveTimeline"
                 },
                 {
-                    "title": "Move.MotoPhrase"
+                    "title": "Move.MovePhrase"
                 },
                 {
                     "title": "PlantaBeta"
@@ -2201,10 +2201,10 @@ tags = [
         "extension": "jpg",
         "tags": [
             {
-                "title": "Move.MotoDiagram.MotoTimeline"
+                "title": "Move.MoveDiagram.MoveTimeline"
             },
             {
-                "title": "Move.MotoPhrase"
+                "title": "Move.MovePhrase"
             },
             {
                 "title": "PlantaBeta"
@@ -2310,7 +2310,7 @@ tags = [
                     "title": "Land.LandDiagram.Overview"
                 },
                 {
-                    "title": "Move.Overview.ConcertedMoto"
+                    "title": "Move.Overview.ConcertedMove"
                 },
                 {
                     "title": "PlantaBeta"
@@ -2336,7 +2336,7 @@ tags = [
                 "title": "Land.LandDiagram.Overview"
             },
             {
-                "title": "Move.Overview.ConcertedMoto"
+                "title": "Move.Overview.ConcertedMove"
             },
             {
                 "title": "PlantaBeta"
@@ -2432,10 +2432,10 @@ tags = [
                     "title": "Land.Piece.Overview"
                 },
                 {
-                    "title": "Move.MotoDirection.Overview"
+                    "title": "Move.MoveDirection.Overview"
                 },
                 {
-                    "title": "Move.MotoLine"
+                    "title": "Move.MoveLine"
                 },
                 {
                     "title": "Move.PlantMove.SnagMove.BagSnag"
@@ -2501,10 +2501,10 @@ tags = [
                 "title": "Land.Piece.Overview"
             },
             {
-                "title": "Move.MotoDirection.Overview"
+                "title": "Move.MoveDirection.Overview"
             },
             {
-                "title": "Move.MotoLine"
+                "title": "Move.MoveLine"
             },
             {
                 "title": "Move.PlantMove.SnagMove.BagSnag"
@@ -2652,10 +2652,10 @@ tags = [
                     "title": "Dev.VideoAnalysis.VideoTagging"
                 },
                 {
-                    "title": "Move.MotoAttributes.MotoShape.Overview"
+                    "title": "Move.MoveAttributes.MoveShape.Overview"
                 },
                 {
-                    "title": "Move.MotoAttributes.MotoType.TwistMoto"
+                    "title": "Move.MoveAttributes.MoveType.TwistMove"
                 },
                 {
                     "title": "PlantaBeta"
@@ -2681,10 +2681,10 @@ tags = [
                 "title": "Dev.VideoAnalysis.VideoTagging"
             },
             {
-                "title": "Move.MotoAttributes.MotoShape.Overview"
+                "title": "Move.MoveAttributes.MoveShape.Overview"
             },
             {
-                "title": "Move.MotoAttributes.MotoType.TwistMoto"
+                "title": "Move.MoveAttributes.MoveType.TwistMove"
             },
             {
                 "title": "PlantaBeta"
@@ -2731,25 +2731,25 @@ tags = [
                     "title": "Move.HandMove.TreeGrip"
                 },
                 {
-                    "title": "Move.MotoDiagram.Stickfigure"
+                    "title": "Move.MoveDiagram.Stickfigure"
                 },
                 {
-                    "title": "Move.MotoAttributes.MotoShape.SquareMoto"
+                    "title": "Move.MoveAttributes.MoveShape.SquareMove"
                 },
                 {
-                    "title": "Move.MotoAttributes.MotoShape.TriangleMoto"
+                    "title": "Move.MoveAttributes.MoveShape.TriangleMove"
                 },
                 {
-                    "title": "Move.MotoPhrase.MotoTempo"
+                    "title": "Move.MovePhrase.MoveTempo"
                 },
                 {
-                    "title": "Move.MotoPhrase.PlantingPhrase"
+                    "title": "Move.MovePhrase.PlantingPhrase"
                 },
                 {
-                    "title": "Move.MotoShape"
+                    "title": "Move.MoveShape"
                 },
                 {
-                    "title": "Move.MotoShape.SubMotoShape"
+                    "title": "Move.MoveShape.SubMoveShape"
                 },
                 {
                     "title": "Psike.Music",
@@ -2806,25 +2806,25 @@ tags = [
                 "title": "Move.HandMove.TreeGrip"
             },
             {
-                "title": "Move.MotoDiagram.Stickfigure"
+                "title": "Move.MoveDiagram.Stickfigure"
             },
             {
-                "title": "Move.MotoAttributes.MotoShape.SquareMoto"
+                "title": "Move.MoveAttributes.MoveShape.SquareMove"
             },
             {
-                "title": "Move.MotoAttributes.MotoShape.TriangleMoto"
+                "title": "Move.MoveAttributes.MoveShape.TriangleMove"
             },
             {
-                "title": "Move.MotoPhrase.MotoTempo"
+                "title": "Move.MovePhrase.MoveTempo"
             },
             {
-                "title": "Move.MotoPhrase.PlantingPhrase"
+                "title": "Move.MovePhrase.PlantingPhrase"
             },
             {
-                "title": "Move.MotoShape"
+                "title": "Move.MoveShape"
             },
             {
-                "title": "Move.MotoShape.SubMotoShape"
+                "title": "Move.MoveShape.SubMoveShape"
             },
             {
                 "title": "Psike.Music",
@@ -2911,10 +2911,10 @@ tags = [
                     "title": "Dev.System.Syntax.ElementHierarchySyntax"
                 },
                 {
-                    "title": "Move.MotoPhrase.MotoRhythm"
+                    "title": "Move.MovePhrase.MoveRhythm"
                 },
                 {
-                    "title": "Move.Overview.MotoHierarchy"
+                    "title": "Move.Overview.MoveHierarchy"
                 },
                 {
                     "title": "PlantaBeta"
@@ -2991,10 +2991,10 @@ tags = [
                 "title": "Dev.System.Syntax.ElementHierarchySyntax"
             },
             {
-                "title": "Move.MotoPhrase.MotoRhythm"
+                "title": "Move.MovePhrase.MoveRhythm"
             },
             {
-                "title": "Move.Overview.MotoHierarchy"
+                "title": "Move.Overview.MoveHierarchy"
             },
             {
                 "title": "PlantaBeta"
@@ -3053,34 +3053,34 @@ tags = [
                     "title": "Move.LegMove.SupportingLeg"
                 },
                 {
-                    "title": "Move.MotoComposition.MotoAddition"
+                    "title": "Move.MoveComposition.MoveAddition"
                 },
                 {
-                    "title": "Move.MotoComposition.MotoSelection.AlternativeMoto"
+                    "title": "Move.MoveComposition.MoveSelection.AlternativeMove"
                 },
                 {
-                    "title": "Move.MotoDiagram.Stickfigure"
+                    "title": "Move.MoveDiagram.Stickfigure"
                 },
                 {
-                    "title": "Move.MotoAttributes.MotoShape.CircleMoto"
+                    "title": "Move.MoveAttributes.MoveShape.CircleMove"
                 },
                 {
-                    "title": "Move.MotoAttributes.MotoShape.MotoShapeCenter"
+                    "title": "Move.MoveAttributes.MoveShape.MoveShapeCenter"
                 },
                 {
-                    "title": "Move.MotoAttributes.MotoShape.Overview"
+                    "title": "Move.MoveAttributes.MoveShape.Overview"
                 },
                 {
-                    "title": "Move.MotoAttributes.MotoShape.SquareMoto"
+                    "title": "Move.MoveAttributes.MoveShape.SquareMove"
                 },
                 {
-                    "title": "Move.MotoAttributes.MotoShape.TriangleMoto"
+                    "title": "Move.MoveAttributes.MoveShape.TriangleMove"
                 },
                 {
-                    "title": "Move.MotoAttributes.MotoType.LockMoto"
+                    "title": "Move.MoveAttributes.MoveType.LockMove"
                 },
                 {
-                    "title": "Move.MotoShape.SubMotoShape"
+                    "title": "Move.MoveShape.SubMoveShape"
                 },
                 {
                     "title": "Move.Physics.LoadingAngle"
@@ -3139,34 +3139,34 @@ tags = [
                 "title": "Move.LegMove.SupportingLeg"
             },
             {
-                "title": "Move.MotoComposition.MotoAddition"
+                "title": "Move.MoveComposition.MoveAddition"
             },
             {
-                "title": "Move.MotoComposition.MotoSelection.AlternativeMoto"
+                "title": "Move.MoveComposition.MoveSelection.AlternativeMove"
             },
             {
-                "title": "Move.MotoDiagram.Stickfigure"
+                "title": "Move.MoveDiagram.Stickfigure"
             },
             {
-                "title": "Move.MotoAttributes.MotoShape.CircleMoto"
+                "title": "Move.MoveAttributes.MoveShape.CircleMove"
             },
             {
-                "title": "Move.MotoAttributes.MotoShape.MotoShapeCenter"
+                "title": "Move.MoveAttributes.MoveShape.MoveShapeCenter"
             },
             {
-                "title": "Move.MotoAttributes.MotoShape.Overview"
+                "title": "Move.MoveAttributes.MoveShape.Overview"
             },
             {
-                "title": "Move.MotoAttributes.MotoShape.SquareMoto"
+                "title": "Move.MoveAttributes.MoveShape.SquareMove"
             },
             {
-                "title": "Move.MotoAttributes.MotoShape.TriangleMoto"
+                "title": "Move.MoveAttributes.MoveShape.TriangleMove"
             },
             {
-                "title": "Move.MotoAttributes.MotoType.LockMoto"
+                "title": "Move.MoveAttributes.MoveType.LockMove"
             },
             {
-                "title": "Move.MotoShape.SubMotoShape"
+                "title": "Move.MoveShape.SubMoveShape"
             },
             {
                 "title": "Move.Physics.LoadingAngle"
@@ -3341,7 +3341,7 @@ tags = [
             "lastUpdated": 1692978839569,
             "tags": [
                 {
-                    "title": "Dev.Tools.Flag"
+                    "title": "Dev.Tools.Marka"
                 },
                 {
                     "title": "Move.HandMove.FingerMove.FingerCurl"
@@ -3353,10 +3353,10 @@ tags = [
                     "title": "Move.HandMove.PinchGrip"
                 },
                 {
-                    "title": "Move.ToolMove.FlagMove.FlagWeave"
+                    "title": "Move.ToolMove.MarkaMove.MarkaWeave"
                 },
                 {
-                    "title": "Move.ToolMove.FlagMove.Overview"
+                    "title": "Move.ToolMove.MarkaMove.Overview"
                 },
                 {
                     "title": "Move.ToolMove.GloveMove.Overview"
@@ -3365,10 +3365,10 @@ tags = [
                     "title": "PlantaBeta"
                 },
                 {
-                    "title": "Via.Flag.FlagSite"
+                    "title": "Via.Marka.MarkaSite"
                 },
                 {
-                    "title": "Via.ViaGeometry.ViaPoint.FlagSite"
+                    "title": "Via.ViaGeometry.ViaPoint.MarkaSite"
                 },
                 {
                     "title": "TagTest"
@@ -3382,7 +3382,7 @@ tags = [
         "extension": "jpg",
         "tags": [
             {
-                "title": "Dev.Tools.Flag"
+                "title": "Dev.Tools.Marka"
             },
             {
                 "title": "Move.HandMove.FingerMove.FingerCurl"
@@ -3394,10 +3394,10 @@ tags = [
                 "title": "Move.HandMove.PinchGrip"
             },
             {
-                "title": "Move.ToolMove.FlagMove.FlagWeave"
+                "title": "Move.ToolMove.MarkaMove.MarkaWeave"
             },
             {
-                "title": "Move.ToolMove.FlagMove.Overview"
+                "title": "Move.ToolMove.MarkaMove.Overview"
             },
             {
                 "title": "Move.ToolMove.GloveMove.Overview"
@@ -3406,10 +3406,10 @@ tags = [
                 "title": "PlantaBeta"
             },
             {
-                "title": "Via.Flag.FlagSite"
+                "title": "Via.Marka.MarkaSite"
             },
             {
-                "title": "Via.ViaGeometry.ViaPoint.FlagSite"
+                "title": "Via.ViaGeometry.ViaPoint.MarkaSite"
             },
             {
                 "title": "TagTest"
@@ -3636,7 +3636,7 @@ tags = [
                     "title": "Land.Piece.PieceTopography.SlopeAngle"
                 },
                 {
-                    "title": "Move.MotoDirection.TraverseMoto"
+                    "title": "Move.MoveDirection.TraverseMove"
                 },
                 {
                     "title": "PlantaBeta"
@@ -3689,7 +3689,7 @@ tags = [
                 "title": "Land.Piece.PieceTopography.SlopeAngle"
             },
             {
-                "title": "Move.MotoDirection.TraverseMoto"
+                "title": "Move.MoveDirection.TraverseMove"
             },
             {
                 "title": "PlantaBeta"
@@ -3739,40 +3739,40 @@ tags = [
                     "title": "Move.ArmMove.ArmSwing"
                 },
                 {
-                    "title": "Move.MotoContactPoint.Overview"
+                    "title": "Move.MoveContactPoint.Overview"
                 },
                 {
-                    "title": "Move.MotoDiagram.Overview"
+                    "title": "Move.MoveDiagram.Overview"
                 },
                 {
-                    "title": "Move.MotoDiagram.Stickfigure"
+                    "title": "Move.MoveDiagram.Stickfigure"
                 },
                 {
-                    "title": "Move.MotoLine"
+                    "title": "Move.MoveLine"
                 },
                 {
-                    "title": "Move.MotoLine.MotoDisplacementLine"
+                    "title": "Move.MoveLine.MoveDisplacementLine"
                 },
                 {
-                    "title": "Move.MotoAttributes.MotoRangeOfMotion"
+                    "title": "Move.MoveAttributes.MoveRangeOfMotion"
                 },
                 {
-                    "title": "Move.MotoAttributes.MotoShape.MotoShapeCenter"
+                    "title": "Move.MoveAttributes.MoveShape.MoveShapeCenter"
                 },
                 {
-                    "title": "Move.MotoAttributes.MotoShape.Overview"
+                    "title": "Move.MoveAttributes.MoveShape.Overview"
                 },
                 {
-                    "title": "Move.MotoPhrase.MotoTempo"
+                    "title": "Move.MovePhrase.MoveTempo"
                 },
                 {
-                    "title": "Move.MotoType.DynamicMoto"
+                    "title": "Move.MoveType.DynamicMove"
                 },
                 {
-                    "title": "Move.MotoType.StaticMoto"
+                    "title": "Move.MoveType.StaticMove"
                 },
                 {
-                    "title": "Move.MotoVideo"
+                    "title": "Move.MoveVideo"
                 },
                 {
                     "title": "Psike.Alignment.AlignOn()",
@@ -3817,40 +3817,40 @@ tags = [
                 "title": "Move.ArmMove.ArmSwing"
             },
             {
-                "title": "Move.MotoContactPoint.Overview"
+                "title": "Move.MoveContactPoint.Overview"
             },
             {
-                "title": "Move.MotoDiagram.Overview"
+                "title": "Move.MoveDiagram.Overview"
             },
             {
-                "title": "Move.MotoDiagram.Stickfigure"
+                "title": "Move.MoveDiagram.Stickfigure"
             },
             {
-                "title": "Move.MotoLine"
+                "title": "Move.MoveLine"
             },
             {
-                "title": "Move.MotoLine.MotoDisplacementLine"
+                "title": "Move.MoveLine.MoveDisplacementLine"
             },
             {
-                "title": "Move.MotoAttributes.MotoRangeOfMotion"
+                "title": "Move.MoveAttributes.MoveRangeOfMotion"
             },
             {
-                "title": "Move.MotoAttributes.MotoShape.MotoShapeCenter"
+                "title": "Move.MoveAttributes.MoveShape.MoveShapeCenter"
             },
             {
-                "title": "Move.MotoAttributes.MotoShape.Overview"
+                "title": "Move.MoveAttributes.MoveShape.Overview"
             },
             {
-                "title": "Move.MotoPhrase.MotoTempo"
+                "title": "Move.MovePhrase.MoveTempo"
             },
             {
-                "title": "Move.MotoType.DynamicMoto"
+                "title": "Move.MoveType.DynamicMove"
             },
             {
-                "title": "Move.MotoType.StaticMoto"
+                "title": "Move.MoveType.StaticMove"
             },
             {
-                "title": "Move.MotoVideo"
+                "title": "Move.MoveVideo"
             },
             {
                 "title": "Psike.Alignment.AlignOn()",
@@ -3907,7 +3907,7 @@ tags = [
                     "title": "Dev.System.Syntax.ElementHierarchySyntax"
                 },
                 {
-                    "title": "Move.Overview.MotoHierarchy"
+                    "title": "Move.Overview.MoveHierarchy"
                 },
                 {
                     "title": "PlantaBeta"
@@ -3957,7 +3957,7 @@ tags = [
                 "title": "Dev.System.Syntax.ElementHierarchySyntax"
             },
             {
-                "title": "Move.Overview.MotoHierarchy"
+                "title": "Move.Overview.MoveHierarchy"
             },
             {
                 "title": "PlantaBeta"
@@ -3992,13 +3992,13 @@ tags = [
                     "title": "Dev.System.Syntax"
                 },
                 {
-                    "title": "Move.MotoDirection.Overview"
+                    "title": "Move.MoveDirection.Overview"
                 },
                 {
-                    "title": "Move.MotoDirection.RelativeDirection.Overview"
+                    "title": "Move.MoveDirection.RelativeDirection.Overview"
                 },
                 {
-                    "title": "Move.MotoAttributes.MotoDescription"
+                    "title": "Move.MoveAttributes.MoveDescription"
                 },
                 {
                     "title": "PlantaBeta"
@@ -4027,13 +4027,13 @@ tags = [
                 "title": "Dev.System.Syntax"
             },
             {
-                "title": "Move.MotoDirection.Overview"
+                "title": "Move.MoveDirection.Overview"
             },
             {
-                "title": "Move.MotoDirection.RelativeDirection.Overview"
+                "title": "Move.MoveDirection.RelativeDirection.Overview"
             },
             {
-                "title": "Move.MotoAttributes.MotoDescription"
+                "title": "Move.MoveAttributes.MoveDescription"
             },
             {
                 "title": "PlantaBeta"
@@ -4065,10 +4065,10 @@ tags = [
                     "title": "Dev.Interdisciplinary.Climbing"
                 },
                 {
-                    "title": "Move.MotoDecomposition"
+                    "title": "Move.MoveDecomposition"
                 },
                 {
-                    "title": "Move.Overview.MotoHierarchy.Submoto"
+                    "title": "Move.Overview.MoveHierarchy.Submoto"
                 },
                 {
                     "title": "PlantaBeta"
@@ -4077,7 +4077,7 @@ tags = [
                     "title": "Tests.BetaDecomposition"
                 },
                 {
-                    "title": "Tests.MotoDecomposition"
+                    "title": "Tests.MoveDecomposition"
                 },
                 {
                     "title": "Tests.ViaDecomposition"
@@ -4109,10 +4109,10 @@ tags = [
                 "title": "Dev.Interdisciplinary.Climbing"
             },
             {
-                "title": "Move.MotoDecomposition"
+                "title": "Move.MoveDecomposition"
             },
             {
-                "title": "Move.Overview.MotoHierarchy.Submoto"
+                "title": "Move.Overview.MoveHierarchy.Submoto"
             },
             {
                 "title": "PlantaBeta"
@@ -4121,7 +4121,7 @@ tags = [
                 "title": "Tests.BetaDecomposition"
             },
             {
-                "title": "Tests.MotoDecomposition"
+                "title": "Tests.MoveDecomposition"
             },
             {
                 "title": "Tests.ViaDecomposition"
@@ -4174,10 +4174,10 @@ tags = [
                     "title": "Guide.What.WhatElement.ElementName.Affix"
                 },
                 {
-                    "title": "Move.MotoName.Overview"
+                    "title": "Move.MoveName.Overview"
                 },
                 {
-                    "title": "Move.MotoPoint.MotoContactPoint"
+                    "title": "Move.MovePoint.MoveContactPoint"
                 },
                 {
                     "title": "PlantaBeta"
@@ -4227,10 +4227,10 @@ tags = [
                 "title": "Guide.What.WhatElement.ElementName.Affix"
             },
             {
-                "title": "Move.MotoName.Overview"
+                "title": "Move.MoveName.Overview"
             },
             {
-                "title": "Move.MotoPoint.MotoContactPoint"
+                "title": "Move.MovePoint.MoveContactPoint"
             },
             {
                 "title": "PlantaBeta"
@@ -4268,19 +4268,19 @@ tags = [
                     "title": "Dev.RelationByAlignment"
                 },
                 {
-                    "title": "Move.MotoDirection.Overview"
+                    "title": "Move.MoveDirection.Overview"
                 },
                 {
-                    "title": "Move.MotoAttributes.MotoSize"
+                    "title": "Move.MoveAttributes.MoveSize"
                 },
                 {
-                    "title": "Move.MotoPhrase.MotoOverlap"
+                    "title": "Move.MovePhrase.MoveOverlap"
                 },
                 {
-                    "title": "Move.MotoPhrase.MotoPhraseVariation"
+                    "title": "Move.MovePhrase.MovePhraseVariation"
                 },
                 {
-                    "title": "Move.MotoPhrase.MotoShapePhrase.MotoShapeOverlap"
+                    "title": "Move.MovePhrase.MoveShapePhrase.MoveShapeOverlap"
                 },
                 {
                     "title": "PlantaBeta"
@@ -4321,19 +4321,19 @@ tags = [
                 "title": "Dev.RelationByAlignment"
             },
             {
-                "title": "Move.MotoDirection.Overview"
+                "title": "Move.MoveDirection.Overview"
             },
             {
-                "title": "Move.MotoAttributes.MotoSize"
+                "title": "Move.MoveAttributes.MoveSize"
             },
             {
-                "title": "Move.MotoPhrase.MotoOverlap"
+                "title": "Move.MovePhrase.MoveOverlap"
             },
             {
-                "title": "Move.MotoPhrase.MotoPhraseVariation"
+                "title": "Move.MovePhrase.MovePhraseVariation"
             },
             {
-                "title": "Move.MotoPhrase.MotoShapePhrase.MotoShapeOverlap"
+                "title": "Move.MovePhrase.MoveShapePhrase.MoveShapeOverlap"
             },
             {
                 "title": "PlantaBeta"
@@ -4494,19 +4494,19 @@ tags = [
                     "title": "Land.LandCard"
                 },
                 {
-                    "title": "Move.MotoCard"
+                    "title": "Move.MoveCard"
                 },
                 {
-                    "title": "Move.MotoComposition.MotoSelection.AlternativeMoto"
+                    "title": "Move.MoveComposition.MoveSelection.AlternativeMove"
                 },
                 {
-                    "title": "Move.MotoAttributes.MotoShape.Overview"
+                    "title": "Move.MoveAttributes.MoveShape.Overview"
                 },
                 {
-                    "title": "Move.MotoPhrase.MotoPhraseArea"
+                    "title": "Move.MovePhrase.MovePhraseArea"
                 },
                 {
-                    "title": "Move.MotoPhrase.MotoPhraseVariation"
+                    "title": "Move.MovePhrase.MovePhraseVariation"
                 },
                 {
                     "title": "PlantaBeta"
@@ -4559,19 +4559,19 @@ tags = [
                 "title": "Land.LandCard"
             },
             {
-                "title": "Move.MotoCard"
+                "title": "Move.MoveCard"
             },
             {
-                "title": "Move.MotoComposition.MotoSelection.AlternativeMoto"
+                "title": "Move.MoveComposition.MoveSelection.AlternativeMove"
             },
             {
-                "title": "Move.MotoAttributes.MotoShape.Overview"
+                "title": "Move.MoveAttributes.MoveShape.Overview"
             },
             {
-                "title": "Move.MotoPhrase.MotoPhraseArea"
+                "title": "Move.MovePhrase.MovePhraseArea"
             },
             {
-                "title": "Move.MotoPhrase.MotoPhraseVariation"
+                "title": "Move.MovePhrase.MovePhraseVariation"
             },
             {
                 "title": "PlantaBeta"
@@ -4607,16 +4607,16 @@ tags = [
                     "title": "Land.LandDifficulty.Overview"
                 },
                 {
-                    "title": "Move.MotoDifficulty.Overview"
+                    "title": "Move.MoveDifficulty.Overview"
                 },
                 {
-                    "title": "Move.MotoDirection.Overview"
+                    "title": "Move.MoveDirection.Overview"
                 },
                 {
-                    "title": "Move.MotoPoint.MotoContactPoint"
+                    "title": "Move.MovePoint.MoveContactPoint"
                 },
                 {
-                    "title": "Move.MotoPhrase.CurrentMoto"
+                    "title": "Move.MovePhrase.CurrentMove"
                 },
                 {
                     "title": "PlantaBeta"
@@ -4653,16 +4653,16 @@ tags = [
                 "title": "Land.LandDifficulty.Overview"
             },
             {
-                "title": "Move.MotoDifficulty.Overview"
+                "title": "Move.MoveDifficulty.Overview"
             },
             {
-                "title": "Move.MotoDirection.Overview"
+                "title": "Move.MoveDirection.Overview"
             },
             {
-                "title": "Move.MotoPoint.MotoContactPoint"
+                "title": "Move.MovePoint.MoveContactPoint"
             },
             {
-                "title": "Move.MotoPhrase.CurrentMoto"
+                "title": "Move.MovePhrase.CurrentMove"
             },
             {
                 "title": "PlantaBeta"
@@ -4776,13 +4776,13 @@ tags = [
                     "title": "Dev.Interdisciplinary.Climbing"
                 },
                 {
-                    "title": "Move.MotoError.Overview"
+                    "title": "Move.MoveError.Overview"
                 },
                 {
-                    "title": "Move.MotoPhrase"
+                    "title": "Move.MovePhrase"
                 },
                 {
-                    "title": "Move.MotoValidation"
+                    "title": "Move.MoveValidation"
                 },
                 {
                     "title": "Psike.Decision",
@@ -4821,13 +4821,13 @@ tags = [
                 "title": "Dev.Interdisciplinary.Climbing"
             },
             {
-                "title": "Move.MotoError.Overview"
+                "title": "Move.MoveError.Overview"
             },
             {
-                "title": "Move.MotoPhrase"
+                "title": "Move.MovePhrase"
             },
             {
-                "title": "Move.MotoValidation"
+                "title": "Move.MoveValidation"
             },
             {
                 "title": "Psike.Decision",
@@ -4915,7 +4915,7 @@ tags = [
                     "title": "Dev.Element.ElementDiagram.Labels.NumberLabel.PhraseNumberLabel"
                 },
                 {
-                    "title": "Dev.Element.ElementDiagram.Labels.TextLabel.MotoLabel"
+                    "title": "Dev.Element.ElementDiagram.Labels.TextLabel.MoveLabel"
                 },
                 {
                     "title": "Dev.Transcription"
@@ -4924,16 +4924,16 @@ tags = [
                     "title": "Land.ContactSurface.Overview"
                 },
                 {
-                    "title": "Move.MotoDiagram.Stickfigure"
+                    "title": "Move.MoveDiagram.Stickfigure"
                 },
                 {
-                    "title": "Move.MotoAttributes.MotoShape.Overview"
+                    "title": "Move.MoveAttributes.MoveShape.Overview"
                 },
                 {
-                    "title": "Move.MotoPhrase.TransitionMoto"
+                    "title": "Move.MovePhrase.TransitionMove"
                 },
                 {
-                    "title": "Move.Overview.MotoHierarchy"
+                    "title": "Move.Overview.MoveHierarchy"
                 },
                 {
                     "title": "PlantaBeta"
@@ -4968,7 +4968,7 @@ tags = [
                 "title": "Dev.Element.ElementDiagram.Labels.NumberLabel.PhraseNumberLabel"
             },
             {
-                "title": "Dev.Element.ElementDiagram.Labels.TextLabel.MotoLabel"
+                "title": "Dev.Element.ElementDiagram.Labels.TextLabel.MoveLabel"
             },
             {
                 "title": "Dev.Transcription"
@@ -4977,16 +4977,16 @@ tags = [
                 "title": "Land.ContactSurface.Overview"
             },
             {
-                "title": "Move.MotoDiagram.Stickfigure"
+                "title": "Move.MoveDiagram.Stickfigure"
             },
             {
-                "title": "Move.MotoAttributes.MotoShape.Overview"
+                "title": "Move.MoveAttributes.MoveShape.Overview"
             },
             {
-                "title": "Move.MotoPhrase.TransitionMoto"
+                "title": "Move.MovePhrase.TransitionMove"
             },
             {
-                "title": "Move.Overview.MotoHierarchy"
+                "title": "Move.Overview.MoveHierarchy"
             },
             {
                 "title": "PlantaBeta"
@@ -5107,16 +5107,16 @@ tags = [
                     "title": "Guide.Why.Productivity.Efficiency"
                 },
                 {
-                    "title": "Move.MotoAttributes.MotoShape.CircleMoto"
+                    "title": "Move.MoveAttributes.MoveShape.CircleMove"
                 },
                 {
-                    "title": "Move.MotoAttributes.MotoWeightDistribution"
+                    "title": "Move.MoveAttributes.MoveWeightDistribution"
                 },
                 {
-                    "title": "Move.MotoAttributes.SubmotoCount"
+                    "title": "Move.MoveAttributes.SubmotoCount"
                 },
                 {
-                    "title": "Move.MotoPhrase.MotoDensity"
+                    "title": "Move.MovePhrase.MoveDensity"
                 },
                 {
                     "title": "PlantaBeta"
@@ -5139,16 +5139,16 @@ tags = [
                 "title": "Guide.Why.Productivity.Efficiency"
             },
             {
-                "title": "Move.MotoAttributes.MotoShape.CircleMoto"
+                "title": "Move.MoveAttributes.MoveShape.CircleMove"
             },
             {
-                "title": "Move.MotoAttributes.MotoWeightDistribution"
+                "title": "Move.MoveAttributes.MoveWeightDistribution"
             },
             {
-                "title": "Move.MotoAttributes.SubmotoCount"
+                "title": "Move.MoveAttributes.SubmotoCount"
             },
             {
-                "title": "Move.MotoPhrase.MotoDensity"
+                "title": "Move.MovePhrase.MoveDensity"
             },
             {
                 "title": "PlantaBeta"
@@ -5199,16 +5199,16 @@ tags = [
                     "title": "Dev.UX.EyePath.EyeClockwisePath"
                 },
                 {
-                    "title": "Move.MotoComposition.MotoSelection.AlternativeMoto"
+                    "title": "Move.MoveComposition.MoveSelection.AlternativeMove"
                 },
                 {
-                    "title": "Move.MotoError.Overview"
+                    "title": "Move.MoveError.Overview"
                 },
                 {
-                    "title": "Move.MotoPhrase.MotoCycle"
+                    "title": "Move.MovePhrase.MoveCycle"
                 },
                 {
-                    "title": "Move.MotoPhrase.MotoRhythm"
+                    "title": "Move.MovePhrase.MoveRhythm"
                 },
                 {
                     "title": "PlantaBeta"
@@ -5263,16 +5263,16 @@ tags = [
                 "title": "Dev.UX.EyePath.EyeClockwisePath"
             },
             {
-                "title": "Move.MotoComposition.MotoSelection.AlternativeMoto"
+                "title": "Move.MoveComposition.MoveSelection.AlternativeMove"
             },
             {
-                "title": "Move.MotoError.Overview"
+                "title": "Move.MoveError.Overview"
             },
             {
-                "title": "Move.MotoPhrase.MotoCycle"
+                "title": "Move.MovePhrase.MoveCycle"
             },
             {
-                "title": "Move.MotoPhrase.MotoRhythm"
+                "title": "Move.MovePhrase.MoveRhythm"
             },
             {
                 "title": "PlantaBeta"
@@ -5383,7 +5383,7 @@ tags = [
                     "title": "Move.HandMove.HandMatch"
                 },
                 {
-                    "title": "Move.MotoComposition.MotoSelection.ForcedMoto"
+                    "title": "Move.MoveComposition.MoveSelection.ForcedMove"
                 },
                 {
                     "title": "PlantaBeta"
@@ -5421,7 +5421,7 @@ tags = [
                 "title": "Move.HandMove.HandMatch"
             },
             {
-                "title": "Move.MotoComposition.MotoSelection.ForcedMoto"
+                "title": "Move.MoveComposition.MoveSelection.ForcedMove"
             },
             {
                 "title": "PlantaBeta"
@@ -5462,10 +5462,10 @@ tags = [
                     "title": "Move.LegMove.Overview"
                 },
                 {
-                    "title": "Move.MotoDiagram.Stickfigure"
+                    "title": "Move.MoveDiagram.Stickfigure"
                 },
                 {
-                    "title": "Move.MotoDirection.RelativeDirection.ParallelTo"
+                    "title": "Move.MoveDirection.RelativeDirection.ParallelTo"
                 },
                 {
                     "title": "Move.Physics.Force.Friction.NormalForce"
@@ -5503,10 +5503,10 @@ tags = [
                 "title": "Move.LegMove.Overview"
             },
             {
-                "title": "Move.MotoDiagram.Stickfigure"
+                "title": "Move.MoveDiagram.Stickfigure"
             },
             {
-                "title": "Move.MotoDirection.RelativeDirection.ParallelTo"
+                "title": "Move.MoveDirection.RelativeDirection.ParallelTo"
             },
             {
                 "title": "Move.Physics.Force.Friction.NormalForce"
@@ -5611,7 +5611,7 @@ tags = [
                     "title": "Guide.Who.PlanterResearcher"
                 },
                 {
-                    "title": "Move.MotoDiagram.Stickfigure"
+                    "title": "Move.MoveDiagram.Stickfigure"
                 },
                 {
                     "title": "PlantaBeta"
@@ -5655,7 +5655,7 @@ tags = [
                 "title": "Guide.Who.PlanterResearcher"
             },
             {
-                "title": "Move.MotoDiagram.Stickfigure"
+                "title": "Move.MoveDiagram.Stickfigure"
             },
             {
                 "title": "PlantaBeta"
@@ -5793,7 +5793,7 @@ tags = [
                     "title": "Dev.Element.ElementDiagram.Labels.NumberLabel.PhraseNumberLabel"
                 },
                 {
-                    "title": "Dev.Element.ElementDiagram.Labels.TextLabel.MotoLabel"
+                    "title": "Dev.Element.ElementDiagram.Labels.TextLabel.MoveLabel"
                 },
                 {
                     "title": "Dev.ToReduceConfusion"
@@ -5808,22 +5808,22 @@ tags = [
                     "title": "Move.FootMove.FootSmear"
                 },
                 {
-                    "title": "Move.MotoDirection.RelativeDirection.ParallelTo"
+                    "title": "Move.MoveDirection.RelativeDirection.ParallelTo"
                 },
                 {
-                    "title": "Move.MotoPoint.MotoFinishPoint"
+                    "title": "Move.MovePoint.MoveFinishPoint"
                 },
                 {
-                    "title": "Move.MotoPoint.MotoStartPoint"
+                    "title": "Move.MovePoint.MoveStartPoint"
                 },
                 {
-                    "title": "Move.MotoPhrase.MotoDensity"
+                    "title": "Move.MovePhrase.MoveDensity"
                 },
                 {
-                    "title": "Move.MotoPhrase.MotoPhraseArea"
+                    "title": "Move.MovePhrase.MovePhraseArea"
                 },
                 {
-                    "title": "Move.MotoPhrase.MotoShapePhrase.MotoShapeOverlap"
+                    "title": "Move.MovePhrase.MoveShapePhrase.MoveShapeOverlap"
                 },
                 {
                     "title": "PlantaBeta"
@@ -5858,7 +5858,7 @@ tags = [
                 "title": "Dev.Element.ElementDiagram.Labels.NumberLabel.PhraseNumberLabel"
             },
             {
-                "title": "Dev.Element.ElementDiagram.Labels.TextLabel.MotoLabel"
+                "title": "Dev.Element.ElementDiagram.Labels.TextLabel.MoveLabel"
             },
             {
                 "title": "Dev.ToReduceConfusion"
@@ -5873,22 +5873,22 @@ tags = [
                 "title": "Move.FootMove.FootSmear"
             },
             {
-                "title": "Move.MotoDirection.RelativeDirection.ParallelTo"
+                "title": "Move.MoveDirection.RelativeDirection.ParallelTo"
             },
             {
-                "title": "Move.MotoPoint.MotoFinishPoint"
+                "title": "Move.MovePoint.MoveFinishPoint"
             },
             {
-                "title": "Move.MotoPoint.MotoStartPoint"
+                "title": "Move.MovePoint.MoveStartPoint"
             },
             {
-                "title": "Move.MotoPhrase.MotoDensity"
+                "title": "Move.MovePhrase.MoveDensity"
             },
             {
-                "title": "Move.MotoPhrase.MotoPhraseArea"
+                "title": "Move.MovePhrase.MovePhraseArea"
             },
             {
-                "title": "Move.MotoPhrase.MotoShapePhrase.MotoShapeOverlap"
+                "title": "Move.MovePhrase.MoveShapePhrase.MoveShapeOverlap"
             },
             {
                 "title": "PlantaBeta"
@@ -6070,10 +6070,10 @@ tags = [
                     "title": "Dev.System.DeductiveSystem"
                 },
                 {
-                    "title": "Move.MotoComposition.MotoSelection"
+                    "title": "Move.MoveComposition.MoveSelection"
                 },
                 {
-                    "title": "Move.MotoValidation"
+                    "title": "Move.MoveValidation"
                 },
                 {
                     "title": "Psike.Alignment.OptimalAlignment",
@@ -6120,10 +6120,10 @@ tags = [
                 "title": "Dev.System.DeductiveSystem"
             },
             {
-                "title": "Move.MotoComposition.MotoSelection"
+                "title": "Move.MoveComposition.MoveSelection"
             },
             {
-                "title": "Move.MotoValidation"
+                "title": "Move.MoveValidation"
             },
             {
                 "title": "Psike.Alignment.OptimalAlignment",
@@ -6173,10 +6173,10 @@ tags = [
                     "title": "Move.LegMove.LegAbsorb"
                 },
                 {
-                    "title": "Move.MotoAttributes.MotoForce"
+                    "title": "Move.MoveAttributes.MoveForce"
                 },
                 {
-                    "title": "Move.MotoAttributes.MotoType.AbsorbMoto"
+                    "title": "Move.MoveAttributes.MoveType.AbsorbMove"
                 },
                 {
                     "title": "Move.Physics.CenterOfMass"
@@ -6212,10 +6212,10 @@ tags = [
                 "title": "Move.LegMove.LegAbsorb"
             },
             {
-                "title": "Move.MotoAttributes.MotoForce"
+                "title": "Move.MoveAttributes.MoveForce"
             },
             {
-                "title": "Move.MotoAttributes.MotoType.AbsorbMoto"
+                "title": "Move.MoveAttributes.MoveType.AbsorbMove"
             },
             {
                 "title": "Move.Physics.CenterOfMass"
@@ -6254,10 +6254,10 @@ tags = [
                     "title": "Dev.System.Definitions"
                 },
                 {
-                    "title": "Move.MotoAttributes.MotoShape.CircleMoto"
+                    "title": "Move.MoveAttributes.MoveShape.CircleMove"
                 },
                 {
-                    "title": "Move.MotoAttributes.MotoSize"
+                    "title": "Move.MoveAttributes.MoveSize"
                 },
                 {
                     "title": "PlantaBeta"
@@ -6286,10 +6286,10 @@ tags = [
                 "title": "Dev.System.Definitions"
             },
             {
-                "title": "Move.MotoAttributes.MotoShape.CircleMoto"
+                "title": "Move.MoveAttributes.MoveShape.CircleMove"
             },
             {
-                "title": "Move.MotoAttributes.MotoSize"
+                "title": "Move.MoveAttributes.MoveSize"
             },
             {
                 "title": "PlantaBeta"
@@ -6312,10 +6312,10 @@ tags = [
             "lastUpdated": 1692978839572,
             "tags": [
                 {
-                    "title": "Move.MotoAttributes.MotoShape.CircleMoto"
+                    "title": "Move.MoveAttributes.MoveShape.CircleMove"
                 },
                 {
-                    "title": "Move.MotoAttributes.MotoShape.SquareMoto"
+                    "title": "Move.MoveAttributes.MoveShape.SquareMove"
                 },
                 {
                     "title": "PlantaBeta"
@@ -6350,10 +6350,10 @@ tags = [
         "extension": "jpg",
         "tags": [
             {
-                "title": "Move.MotoAttributes.MotoShape.CircleMoto"
+                "title": "Move.MoveAttributes.MoveShape.CircleMove"
             },
             {
-                "title": "Move.MotoAttributes.MotoShape.SquareMoto"
+                "title": "Move.MoveAttributes.MoveShape.SquareMove"
             },
             {
                 "title": "PlantaBeta"
@@ -6418,10 +6418,10 @@ tags = [
                     "title": "Move.LegMove.LegRockOver"
                 },
                 {
-                    "title": "Move.MotoAttributes.MotoShape.CircleMoto"
+                    "title": "Move.MoveAttributes.MoveShape.CircleMove"
                 },
                 {
-                    "title": "Move.MotoAttributes.MotoType.CircumductionMoto"
+                    "title": "Move.MoveAttributes.MoveType.CircumductionMove"
                 },
                 {
                     "title": "Move.Physics.Tangent"
@@ -6471,10 +6471,10 @@ tags = [
                 "title": "Move.LegMove.LegRockOver"
             },
             {
-                "title": "Move.MotoAttributes.MotoShape.CircleMoto"
+                "title": "Move.MoveAttributes.MoveShape.CircleMove"
             },
             {
-                "title": "Move.MotoAttributes.MotoType.CircumductionMoto"
+                "title": "Move.MoveAttributes.MoveType.CircumductionMove"
             },
             {
                 "title": "Move.Physics.Tangent"
@@ -6515,22 +6515,22 @@ tags = [
                     "title": "Move.LegMove.LegSwing"
                 },
                 {
-                    "title": "Move.MotoComposition.MotoSelection"
+                    "title": "Move.MoveComposition.MoveSelection"
                 },
                 {
-                    "title": "Move.MotoDirection.RelativeDirection.Around"
+                    "title": "Move.MoveDirection.RelativeDirection.Around"
                 },
                 {
-                    "title": "Move.MotoAttributes.MotoShape.CircleMoto"
+                    "title": "Move.MoveAttributes.MoveShape.CircleMove"
                 },
                 {
-                    "title": "Move.MotoAttributes.MotoShape.Overview"
+                    "title": "Move.MoveAttributes.MoveShape.Overview"
                 },
                 {
-                    "title": "Move.MotoPhrase.MotoOverlap"
+                    "title": "Move.MovePhrase.MoveOverlap"
                 },
                 {
-                    "title": "Move.MotoPhrase.MotoSpacePhrase.MotoSpaceOverlap"
+                    "title": "Move.MovePhrase.MoveSpacePhrase.MoveSpaceOverlap"
                 },
                 {
                     "title": "Move.Physics.Tangent"
@@ -6586,22 +6586,22 @@ tags = [
                 "title": "Move.LegMove.LegSwing"
             },
             {
-                "title": "Move.MotoComposition.MotoSelection"
+                "title": "Move.MoveComposition.MoveSelection"
             },
             {
-                "title": "Move.MotoDirection.RelativeDirection.Around"
+                "title": "Move.MoveDirection.RelativeDirection.Around"
             },
             {
-                "title": "Move.MotoAttributes.MotoShape.CircleMoto"
+                "title": "Move.MoveAttributes.MoveShape.CircleMove"
             },
             {
-                "title": "Move.MotoAttributes.MotoShape.Overview"
+                "title": "Move.MoveAttributes.MoveShape.Overview"
             },
             {
-                "title": "Move.MotoPhrase.MotoOverlap"
+                "title": "Move.MovePhrase.MoveOverlap"
             },
             {
-                "title": "Move.MotoPhrase.MotoSpacePhrase.MotoSpaceOverlap"
+                "title": "Move.MovePhrase.MoveSpacePhrase.MoveSpaceOverlap"
             },
             {
                 "title": "Move.Physics.Tangent"
@@ -6657,13 +6657,13 @@ tags = [
                     "title": "Dev.System.Definitions"
                 },
                 {
-                    "title": "Move.MotoAttributes.MotoShape.CircleMoto"
+                    "title": "Move.MoveAttributes.MoveShape.CircleMove"
                 },
                 {
-                    "title": "Move.MotoAttributes.MotoType.CircumductionMoto"
+                    "title": "Move.MoveAttributes.MoveType.CircumductionMove"
                 },
                 {
-                    "title": "Move.MotoPhrase.MotoShapePhrase.MotoShapeOverlap"
+                    "title": "Move.MovePhrase.MoveShapePhrase.MoveShapeOverlap"
                 },
                 {
                     "title": "PlantaBeta"
@@ -6704,13 +6704,13 @@ tags = [
                 "title": "Dev.System.Definitions"
             },
             {
-                "title": "Move.MotoAttributes.MotoShape.CircleMoto"
+                "title": "Move.MoveAttributes.MoveShape.CircleMove"
             },
             {
-                "title": "Move.MotoAttributes.MotoType.CircumductionMoto"
+                "title": "Move.MoveAttributes.MoveType.CircumductionMove"
             },
             {
-                "title": "Move.MotoPhrase.MotoShapePhrase.MotoShapeOverlap"
+                "title": "Move.MovePhrase.MoveShapePhrase.MoveShapeOverlap"
             },
             {
                 "title": "PlantaBeta"
@@ -6754,10 +6754,10 @@ tags = [
                     "title": "Guide.How.Understanding.CurrentUnderstanding"
                 },
                 {
-                    "title": "Move.MotoPoint.Overview"
+                    "title": "Move.MovePoint.Overview"
                 },
                 {
-                    "title": "Move.MotoAttributes.MotoShape.CircleMoto"
+                    "title": "Move.MoveAttributes.MoveShape.CircleMove"
                 },
                 {
                     "title": "PlantaBeta"
@@ -6795,10 +6795,10 @@ tags = [
                 "title": "Guide.How.Understanding.CurrentUnderstanding"
             },
             {
-                "title": "Move.MotoPoint.Overview"
+                "title": "Move.MovePoint.Overview"
             },
             {
-                "title": "Move.MotoAttributes.MotoShape.CircleMoto"
+                "title": "Move.MoveAttributes.MoveShape.CircleMove"
             },
             {
                 "title": "PlantaBeta"
@@ -6836,10 +6836,10 @@ tags = [
                     "title": "Move.BodyMove.Overview"
                 },
                 {
-                    "title": "Move.MotoAttributes.MotoShape.Overview"
+                    "title": "Move.MoveAttributes.MoveShape.Overview"
                 },
                 {
-                    "title": "Move.MotoSpace.Overview"
+                    "title": "Move.MoveSpace.Overview"
                 },
                 {
                     "title": "PlantaBeta"
@@ -6854,7 +6854,7 @@ tags = [
                     "title": "Via.AreaCover.AreaBoundary.SideBoundary"
                 },
                 {
-                    "title": "Via.Flag.BoundaryFlag"
+                    "title": "Via.Marka.BoundaryMarka"
                 },
                 {
                     "title": "Via.ViaGeometry.ViaCurve.BoundaryLine.ArtificialBoundaryLine"
@@ -6901,10 +6901,10 @@ tags = [
                 "title": "Move.BodyMove.Overview"
             },
             {
-                "title": "Move.MotoAttributes.MotoShape.Overview"
+                "title": "Move.MoveAttributes.MoveShape.Overview"
             },
             {
-                "title": "Move.MotoSpace.Overview"
+                "title": "Move.MoveSpace.Overview"
             },
             {
                 "title": "PlantaBeta"
@@ -6919,7 +6919,7 @@ tags = [
                 "title": "Via.AreaCover.AreaBoundary.SideBoundary"
             },
             {
-                "title": "Via.Flag.BoundaryFlag"
+                "title": "Via.Marka.BoundaryMarka"
             },
             {
                 "title": "Via.ViaGeometry.ViaCurve.BoundaryLine.ArtificialBoundaryLine"
@@ -6978,13 +6978,13 @@ tags = [
                     "title": "Dev.System.Expression"
                 },
                 {
-                    "title": "Move.MotoDirection.RelativeDirection.PerpendicularTo"
+                    "title": "Move.MoveDirection.RelativeDirection.PerpendicularTo"
                 },
                 {
-                    "title": "Move.MotoAttributes.MotoRangeOfMotion"
+                    "title": "Move.MoveAttributes.MoveRangeOfMotion"
                 },
                 {
-                    "title": "Move.MotoAttributes.MotoShape.CircleMoto"
+                    "title": "Move.MoveAttributes.MoveShape.CircleMove"
                 },
                 {
                     "title": "Move.Physics.CenterOfMass"
@@ -7041,13 +7041,13 @@ tags = [
                 "title": "Dev.System.Expression"
             },
             {
-                "title": "Move.MotoDirection.RelativeDirection.PerpendicularTo"
+                "title": "Move.MoveDirection.RelativeDirection.PerpendicularTo"
             },
             {
-                "title": "Move.MotoAttributes.MotoRangeOfMotion"
+                "title": "Move.MoveAttributes.MoveRangeOfMotion"
             },
             {
-                "title": "Move.MotoAttributes.MotoShape.CircleMoto"
+                "title": "Move.MoveAttributes.MoveShape.CircleMove"
             },
             {
                 "title": "Move.Physics.CenterOfMass"
@@ -7098,25 +7098,25 @@ tags = [
                     "title": "Dev.System.Definitions"
                 },
                 {
-                    "title": "Move.MotoContactPoint.Overview"
+                    "title": "Move.MoveContactPoint.Overview"
                 },
                 {
-                    "title": "Move.MotoLine.CenterOfMassLine"
+                    "title": "Move.MoveLine.CenterOfMassLine"
                 },
                 {
-                    "title": "Move.MotoPoint.MotoFinishPoint"
+                    "title": "Move.MovePoint.MoveFinishPoint"
                 },
                 {
-                    "title": "Move.MotoPoint.MotoStartPoint"
+                    "title": "Move.MovePoint.MoveStartPoint"
                 },
                 {
-                    "title": "Move.MotoPoint.Overview"
+                    "title": "Move.MovePoint.Overview"
                 },
                 {
-                    "title": "Move.MotoAttributes.MotoType.ReleaseMoto"
+                    "title": "Move.MoveAttributes.MoveType.ReleaseMove"
                 },
                 {
-                    "title": "Move.MotoAttributes.MotoType.RotationMoto"
+                    "title": "Move.MoveAttributes.MoveType.RotationMove"
                 },
                 {
                     "title": "Move.Physics.CenterOfMass"
@@ -7154,25 +7154,25 @@ tags = [
                 "title": "Dev.System.Definitions"
             },
             {
-                "title": "Move.MotoContactPoint.Overview"
+                "title": "Move.MoveContactPoint.Overview"
             },
             {
-                "title": "Move.MotoLine.CenterOfMassLine"
+                "title": "Move.MoveLine.CenterOfMassLine"
             },
             {
-                "title": "Move.MotoPoint.MotoFinishPoint"
+                "title": "Move.MovePoint.MoveFinishPoint"
             },
             {
-                "title": "Move.MotoPoint.MotoStartPoint"
+                "title": "Move.MovePoint.MoveStartPoint"
             },
             {
-                "title": "Move.MotoPoint.Overview"
+                "title": "Move.MovePoint.Overview"
             },
             {
-                "title": "Move.MotoAttributes.MotoType.ReleaseMoto"
+                "title": "Move.MoveAttributes.MoveType.ReleaseMove"
             },
             {
-                "title": "Move.MotoAttributes.MotoType.RotationMoto"
+                "title": "Move.MoveAttributes.MoveType.RotationMove"
             },
             {
                 "title": "Move.Physics.CenterOfMass"
@@ -7234,16 +7234,16 @@ tags = [
                     "title": "Dev.System.Definitions"
                 },
                 {
-                    "title": "Move.MotoDiagram.Stickfigure"
+                    "title": "Move.MoveDiagram.Stickfigure"
                 },
                 {
-                    "title": "Move.MotoLine"
+                    "title": "Move.MoveLine"
                 },
                 {
-                    "title": "Move.MotoLine.CenterOfMassLine"
+                    "title": "Move.MoveLine.CenterOfMassLine"
                 },
                 {
-                    "title": "Move.MotoLine.MotoMirrorLine"
+                    "title": "Move.MoveLine.MoveMirrorLine"
                 },
                 {
                     "title": "Psike.Alignment.LineExtension",
@@ -7271,7 +7271,7 @@ tags = [
                     "title": "Via.Chunking.Fraction.SecondQuarterVia"
                 },
                 {
-                    "title": "Via.Flag.FlagLine.FlagLineIn"
+                    "title": "Via.Marka.MarkaLine.MarkaLineIn"
                 },
                 {
                     "title": "Via.ViaDiagram.ViaDirectedLine"
@@ -7333,16 +7333,16 @@ tags = [
                 "title": "Dev.System.Definitions"
             },
             {
-                "title": "Move.MotoDiagram.Stickfigure"
+                "title": "Move.MoveDiagram.Stickfigure"
             },
             {
-                "title": "Move.MotoLine"
+                "title": "Move.MoveLine"
             },
             {
-                "title": "Move.MotoLine.CenterOfMassLine"
+                "title": "Move.MoveLine.CenterOfMassLine"
             },
             {
-                "title": "Move.MotoLine.MotoMirrorLine"
+                "title": "Move.MoveLine.MoveMirrorLine"
             },
             {
                 "title": "Psike.Alignment.LineExtension",
@@ -7370,7 +7370,7 @@ tags = [
                 "title": "Via.Chunking.Fraction.SecondQuarterVia"
             },
             {
-                "title": "Via.Flag.FlagLine.FlagLineIn"
+                "title": "Via.Marka.MarkaLine.MarkaLineIn"
             },
             {
                 "title": "Via.ViaDiagram.ViaDirectedLine"
@@ -7420,10 +7420,10 @@ tags = [
                     "title": "Move.LegMove.LegLock"
                 },
                 {
-                    "title": "Move.MotoAttributes.MotoType.FlexionMoto"
+                    "title": "Move.MoveAttributes.MoveType.FlexionMove"
                 },
                 {
-                    "title": "Move.MotoAttributes.MotoType.LockMoto"
+                    "title": "Move.MoveAttributes.MoveType.LockMove"
                 },
                 {
                     "title": "PlantaBeta"
@@ -7455,10 +7455,10 @@ tags = [
                 "title": "Move.LegMove.LegLock"
             },
             {
-                "title": "Move.MotoAttributes.MotoType.FlexionMoto"
+                "title": "Move.MoveAttributes.MoveType.FlexionMove"
             },
             {
-                "title": "Move.MotoAttributes.MotoType.LockMoto"
+                "title": "Move.MoveAttributes.MoveType.LockMove"
             },
             {
                 "title": "PlantaBeta"
@@ -7502,13 +7502,13 @@ tags = [
                     "title": "Guide.Why.Productivity.Efficiency.Redundancy"
                 },
                 {
-                    "title": "Move.MotoComposition.MotoSelection.AlternativeMoto"
+                    "title": "Move.MoveComposition.MoveSelection.AlternativeMove"
                 },
                 {
-                    "title": "Move.MotoDirection.RelativeDirection.PerpendicularTo"
+                    "title": "Move.MoveDirection.RelativeDirection.PerpendicularTo"
                 },
                 {
-                    "title": "Move.MotoAttributes.MotoShape.TriangleMoto"
+                    "title": "Move.MoveAttributes.MoveShape.TriangleMove"
                 },
                 {
                     "title": "PlantaBeta"
@@ -7555,13 +7555,13 @@ tags = [
                 "title": "Guide.Why.Productivity.Efficiency.Redundancy"
             },
             {
-                "title": "Move.MotoComposition.MotoSelection.AlternativeMoto"
+                "title": "Move.MoveComposition.MoveSelection.AlternativeMove"
             },
             {
-                "title": "Move.MotoDirection.RelativeDirection.PerpendicularTo"
+                "title": "Move.MoveDirection.RelativeDirection.PerpendicularTo"
             },
             {
-                "title": "Move.MotoAttributes.MotoShape.TriangleMoto"
+                "title": "Move.MoveAttributes.MoveShape.TriangleMove"
             },
             {
                 "title": "PlantaBeta"
@@ -7617,19 +7617,19 @@ tags = [
                     "title": "Move.LegMove.LegProp"
                 },
                 {
-                    "title": "Move.MotoDiagram.Overview"
+                    "title": "Move.MoveDiagram.Overview"
                 },
                 {
-                    "title": "Move.MotoDiagram.Stickfigure"
+                    "title": "Move.MoveDiagram.Stickfigure"
                 },
                 {
-                    "title": "Move.MotoDifficulty.MotoComplexity"
+                    "title": "Move.MoveDifficulty.MoveComplexity"
                 },
                 {
-                    "title": "Move.MotoPlane"
+                    "title": "Move.MovePlane"
                 },
                 {
-                    "title": "Move.MotoShape"
+                    "title": "Move.MoveShape"
                 },
                 {
                     "title": "PlantaBeta"
@@ -7679,19 +7679,19 @@ tags = [
                 "title": "Move.LegMove.LegProp"
             },
             {
-                "title": "Move.MotoDiagram.Overview"
+                "title": "Move.MoveDiagram.Overview"
             },
             {
-                "title": "Move.MotoDiagram.Stickfigure"
+                "title": "Move.MoveDiagram.Stickfigure"
             },
             {
-                "title": "Move.MotoDifficulty.MotoComplexity"
+                "title": "Move.MoveDifficulty.MoveComplexity"
             },
             {
-                "title": "Move.MotoPlane"
+                "title": "Move.MovePlane"
             },
             {
-                "title": "Move.MotoShape"
+                "title": "Move.MoveShape"
             },
             {
                 "title": "PlantaBeta"
@@ -7726,7 +7726,7 @@ tags = [
                     "title": "Dev.Element.ElementDiagram.Labels.NumberLabel"
                 },
                 {
-                    "title": "Dev.Element.ElementDiagram.Labels.TextLabel.MotoLabel"
+                    "title": "Dev.Element.ElementDiagram.Labels.TextLabel.MoveLabel"
                 },
                 {
                     "title": "Dev.Transcription"
@@ -7735,10 +7735,10 @@ tags = [
                     "title": "Land.ContactSurface.Overview"
                 },
                 {
-                    "title": "Move.MotoContactPoint.Overview"
+                    "title": "Move.MoveContactPoint.Overview"
                 },
                 {
-                    "title": "Move.MotoLine.CenterOfMassLine"
+                    "title": "Move.MoveLine.CenterOfMassLine"
                 },
                 {
                     "title": "PlantaBeta"
@@ -7770,7 +7770,7 @@ tags = [
                 "title": "Dev.Element.ElementDiagram.Labels.NumberLabel"
             },
             {
-                "title": "Dev.Element.ElementDiagram.Labels.TextLabel.MotoLabel"
+                "title": "Dev.Element.ElementDiagram.Labels.TextLabel.MoveLabel"
             },
             {
                 "title": "Dev.Transcription"
@@ -7779,10 +7779,10 @@ tags = [
                 "title": "Land.ContactSurface.Overview"
             },
             {
-                "title": "Move.MotoContactPoint.Overview"
+                "title": "Move.MoveContactPoint.Overview"
             },
             {
-                "title": "Move.MotoLine.CenterOfMassLine"
+                "title": "Move.MoveLine.CenterOfMassLine"
             },
             {
                 "title": "PlantaBeta"
@@ -7808,19 +7808,19 @@ tags = [
                     "title": "Dev.LevelOfAbstraction"
                 },
                 {
-                    "title": "Move.MotoPlane"
+                    "title": "Move.MovePlane"
                 },
                 {
-                    "title": "Move.MotoAttributes.MotoRangeOfMotion"
+                    "title": "Move.MoveAttributes.MoveRangeOfMotion"
                 },
                 {
-                    "title": "Move.MotoAttributes.MotoShape.CircleMoto"
+                    "title": "Move.MoveAttributes.MoveShape.CircleMove"
                 },
                 {
-                    "title": "Move.MotoAttributes.MotoType.SymmetricMoto"
+                    "title": "Move.MoveAttributes.MoveType.SymmetricMove"
                 },
                 {
-                    "title": "Move.MotoSpace.Overview"
+                    "title": "Move.MoveSpace.Overview"
                 },
                 {
                     "title": "Move.PlantMove.BranchArmDeflection"
@@ -7846,19 +7846,19 @@ tags = [
                 "title": "Dev.LevelOfAbstraction"
             },
             {
-                "title": "Move.MotoPlane"
+                "title": "Move.MovePlane"
             },
             {
-                "title": "Move.MotoAttributes.MotoRangeOfMotion"
+                "title": "Move.MoveAttributes.MoveRangeOfMotion"
             },
             {
-                "title": "Move.MotoAttributes.MotoShape.CircleMoto"
+                "title": "Move.MoveAttributes.MoveShape.CircleMove"
             },
             {
-                "title": "Move.MotoAttributes.MotoType.SymmetricMoto"
+                "title": "Move.MoveAttributes.MoveType.SymmetricMove"
             },
             {
-                "title": "Move.MotoSpace.Overview"
+                "title": "Move.MoveSpace.Overview"
             },
             {
                 "title": "Move.PlantMove.BranchArmDeflection"
@@ -7887,16 +7887,16 @@ tags = [
                     "title": "Dev.System.Definitions"
                 },
                 {
-                    "title": "Move.MotoAttributes.MotoShape.SquareMoto"
+                    "title": "Move.MoveAttributes.MoveShape.SquareMove"
                 },
                 {
-                    "title": "Move.MotoAttributes.MotoShape.TriangleMoto"
+                    "title": "Move.MoveAttributes.MoveShape.TriangleMove"
                 },
                 {
-                    "title": "Move.MotoAttributes.MotoType.CompressionMoto"
+                    "title": "Move.MoveAttributes.MoveType.CompressionMove"
                 },
                 {
-                    "title": "Move.MotoPhrase.TransitionMoto"
+                    "title": "Move.MovePhrase.TransitionMove"
                 },
                 {
                     "title": "PlantaBeta"
@@ -7931,16 +7931,16 @@ tags = [
                 "title": "Dev.System.Definitions"
             },
             {
-                "title": "Move.MotoAttributes.MotoShape.SquareMoto"
+                "title": "Move.MoveAttributes.MoveShape.SquareMove"
             },
             {
-                "title": "Move.MotoAttributes.MotoShape.TriangleMoto"
+                "title": "Move.MoveAttributes.MoveShape.TriangleMove"
             },
             {
-                "title": "Move.MotoAttributes.MotoType.CompressionMoto"
+                "title": "Move.MoveAttributes.MoveType.CompressionMove"
             },
             {
-                "title": "Move.MotoPhrase.TransitionMoto"
+                "title": "Move.MovePhrase.TransitionMove"
             },
             {
                 "title": "PlantaBeta"
@@ -7987,25 +7987,25 @@ tags = [
                     "title": "Dev.LevelOfAbstraction"
                 },
                 {
-                    "title": "Move.MotoAttributes.MotoPlane.Overview"
+                    "title": "Move.MoveAttributes.MovePlane.Overview"
                 },
                 {
-                    "title": "Move.MotoAttributes.MotoPlane.XYPlane"
+                    "title": "Move.MoveAttributes.MovePlane.XYPlane"
                 },
                 {
-                    "title": "Move.MotoAttributes.MotoPlane.XZPlane"
+                    "title": "Move.MoveAttributes.MovePlane.XZPlane"
                 },
                 {
-                    "title": "Move.MotoAttributes.MotoPlane.YZPlane"
+                    "title": "Move.MoveAttributes.MovePlane.YZPlane"
                 },
                 {
-                    "title": "Move.MotoAttributes.MotoRangeOfMotion"
+                    "title": "Move.MoveAttributes.MoveRangeOfMotion"
                 },
                 {
-                    "title": "Move.MotoAttributes.MotoShape.CircleMoto"
+                    "title": "Move.MoveAttributes.MoveShape.CircleMove"
                 },
                 {
-                    "title": "Move.MotoSpace.Overview"
+                    "title": "Move.MoveSpace.Overview"
                 },
                 {
                     "title": "Psike.Alignment.AlignmentRange",
@@ -8041,25 +8041,25 @@ tags = [
                 "title": "Dev.LevelOfAbstraction"
             },
             {
-                "title": "Move.MotoAttributes.MotoPlane.Overview"
+                "title": "Move.MoveAttributes.MovePlane.Overview"
             },
             {
-                "title": "Move.MotoAttributes.MotoPlane.XYPlane"
+                "title": "Move.MoveAttributes.MovePlane.XYPlane"
             },
             {
-                "title": "Move.MotoAttributes.MotoPlane.XZPlane"
+                "title": "Move.MoveAttributes.MovePlane.XZPlane"
             },
             {
-                "title": "Move.MotoAttributes.MotoPlane.YZPlane"
+                "title": "Move.MoveAttributes.MovePlane.YZPlane"
             },
             {
-                "title": "Move.MotoAttributes.MotoRangeOfMotion"
+                "title": "Move.MoveAttributes.MoveRangeOfMotion"
             },
             {
-                "title": "Move.MotoAttributes.MotoShape.CircleMoto"
+                "title": "Move.MoveAttributes.MoveShape.CircleMove"
             },
             {
-                "title": "Move.MotoSpace.Overview"
+                "title": "Move.MoveSpace.Overview"
             },
             {
                 "title": "Psike.Alignment.AlignmentRange",
@@ -8099,16 +8099,16 @@ tags = [
                     "title": "Move.LegMove.LegSwing"
                 },
                 {
-                    "title": "Move.MotoPoint.MotoReflectionPoint"
+                    "title": "Move.MovePoint.MoveReflectionPoint"
                 },
                 {
-                    "title": "Move.MotoAttributes.MotoDependencies.DependentMoto"
+                    "title": "Move.MoveAttributes.MoveDependencies.DependentMove"
                 },
                 {
-                    "title": "Move.MotoAttributes.MotoRangeOfMotion"
+                    "title": "Move.MoveAttributes.MoveRangeOfMotion"
                 },
                 {
-                    "title": "Move.MotoAttributes.MotoShape.CircleMoto"
+                    "title": "Move.MoveAttributes.MoveShape.CircleMove"
                 },
                 {
                     "color": "#cd74e6ff",
@@ -8155,16 +8155,16 @@ tags = [
                 "title": "Move.LegMove.LegSwing"
             },
             {
-                "title": "Move.MotoPoint.MotoReflectionPoint"
+                "title": "Move.MovePoint.MoveReflectionPoint"
             },
             {
-                "title": "Move.MotoAttributes.MotoDependencies.DependentMoto"
+                "title": "Move.MoveAttributes.MoveDependencies.DependentMove"
             },
             {
-                "title": "Move.MotoAttributes.MotoRangeOfMotion"
+                "title": "Move.MoveAttributes.MoveRangeOfMotion"
             },
             {
-                "title": "Move.MotoAttributes.MotoShape.CircleMoto"
+                "title": "Move.MoveAttributes.MoveShape.CircleMove"
             },
             {
                 "title": "Psike.Alignment.AlignmentRange",
@@ -8282,10 +8282,10 @@ tags = [
                     "title": "Move.HandMove.HandMatch"
                 },
                 {
-                    "title": "Move.MotoDirection.RelativeDirection.ParallelTo"
+                    "title": "Move.MoveDirection.RelativeDirection.ParallelTo"
                 },
                 {
-                    "title": "Move.MotoAttributes.MotoType.ExpansionMoto"
+                    "title": "Move.MoveAttributes.MoveType.ExpansionMove"
                 },
                 {
                     "title": "Move.Physics.Force.Friction.NormalForce"
@@ -8329,10 +8329,10 @@ tags = [
                 "title": "Move.HandMove.HandMatch"
             },
             {
-                "title": "Move.MotoDirection.RelativeDirection.ParallelTo"
+                "title": "Move.MoveDirection.RelativeDirection.ParallelTo"
             },
             {
-                "title": "Move.MotoAttributes.MotoType.ExpansionMoto"
+                "title": "Move.MoveAttributes.MoveType.ExpansionMove"
             },
             {
                 "title": "Move.Physics.Force.Friction.NormalForce"
@@ -8382,10 +8382,10 @@ tags = [
                     "title": "Land.Obstacle.Overview"
                 },
                 {
-                    "title": "Move.MotoComposition.MotoAddition"
+                    "title": "Move.MoveComposition.MoveAddition"
                 },
                 {
-                    "title": "Move.MotoComposition.MotoSelection.AlternativeMoto"
+                    "title": "Move.MoveComposition.MoveSelection.AlternativeMove"
                 },
                 {
                     "title": "PlantaBeta"
@@ -8429,10 +8429,10 @@ tags = [
                 "title": "Land.Obstacle.Overview"
             },
             {
-                "title": "Move.MotoComposition.MotoAddition"
+                "title": "Move.MoveComposition.MoveAddition"
             },
             {
-                "title": "Move.MotoComposition.MotoSelection.AlternativeMoto"
+                "title": "Move.MoveComposition.MoveSelection.AlternativeMove"
             },
             {
                 "title": "PlantaBeta"
@@ -8482,10 +8482,10 @@ tags = [
                     "title": "Move.ArmMove.ArmLock"
                 },
                 {
-                    "title": "Move.MotoDirection.RelativeDirection.PerpendicularTo"
+                    "title": "Move.MoveDirection.RelativeDirection.PerpendicularTo"
                 },
                 {
-                    "title": "Move.MotoAttributes.MotoType.FlexionMoto"
+                    "title": "Move.MoveAttributes.MoveType.FlexionMove"
                 },
                 {
                     "title": "Move.Physics.Force.Friction.NormalForce"
@@ -8549,10 +8549,10 @@ tags = [
                 "title": "Move.ArmMove.ArmLock"
             },
             {
-                "title": "Move.MotoDirection.RelativeDirection.PerpendicularTo"
+                "title": "Move.MoveDirection.RelativeDirection.PerpendicularTo"
             },
             {
-                "title": "Move.MotoAttributes.MotoType.FlexionMoto"
+                "title": "Move.MoveAttributes.MoveType.FlexionMove"
             },
             {
                 "title": "Move.Physics.Force.Friction.NormalForce"
@@ -8661,13 +8661,13 @@ tags = [
                     "title": "Move.HandMove.HandSwap"
                 },
                 {
-                    "title": "Move.MotoComposition.MotoSelection.AlternativeMoto"
+                    "title": "Move.MoveComposition.MoveSelection.AlternativeMove"
                 },
                 {
-                    "title": "Move.MotoPoint.Deadpoint"
+                    "title": "Move.MovePoint.Deadpoint"
                 },
                 {
-                    "title": "Move.MotoType.StaticMoto"
+                    "title": "Move.MoveType.StaticMove"
                 },
                 {
                     "title": "PlantaBeta"
@@ -8753,13 +8753,13 @@ tags = [
                 "title": "Move.HandMove.HandSwap"
             },
             {
-                "title": "Move.MotoComposition.MotoSelection.AlternativeMoto"
+                "title": "Move.MoveComposition.MoveSelection.AlternativeMove"
             },
             {
-                "title": "Move.MotoPoint.Deadpoint"
+                "title": "Move.MovePoint.Deadpoint"
             },
             {
-                "title": "Move.MotoType.StaticMoto"
+                "title": "Move.MoveType.StaticMove"
             },
             {
                 "title": "PlantaBeta"
@@ -8785,7 +8785,7 @@ tags = [
                     "title": "Dev.ImageLayer"
                 },
                 {
-                    "title": "Move.ViaInfluenceMoto"
+                    "title": "Move.ViaInfluenceMove"
                 },
                 {
                     "title": "Psike.Alignment.LineExtension",
@@ -8795,7 +8795,7 @@ tags = [
                     "title": "PlantaBeta"
                 },
                 {
-                    "title": "Via.Flag.LineInFlag"
+                    "title": "Via.Marka.LineInMarka"
                 },
                 {
                     "title": "Via.LandInfluenceVia.Overview"
@@ -8821,7 +8821,7 @@ tags = [
                 "title": "Dev.ImageLayer"
             },
             {
-                "title": "Move.ViaInfluenceMoto"
+                "title": "Move.ViaInfluenceMove"
             },
             {
                 "title": "Psike.Alignment.LineExtension",
@@ -8831,7 +8831,7 @@ tags = [
                 "title": "PlantaBeta"
             },
             {
-                "title": "Via.Flag.LineInFlag"
+                "title": "Via.Marka.LineInMarka"
             },
             {
                 "title": "Via.LandInfluenceVia.Overview"
@@ -8863,13 +8863,13 @@ tags = [
                     "title": "Dev.System.Byrne"
                 },
                 {
-                    "title": "Move.MotoDirection.RelativeDirection.ParallelTo"
+                    "title": "Move.MoveDirection.RelativeDirection.ParallelTo"
                 },
                 {
-                    "title": "Move.MotoDirection.RelativeDirection.PerpendicularTo"
+                    "title": "Move.MoveDirection.RelativeDirection.PerpendicularTo"
                 },
                 {
-                    "title": "Move.MotoPoint.Overview"
+                    "title": "Move.MovePoint.Overview"
                 },
                 {
                     "title": "Psike.Alignment.Parallel",
@@ -8906,13 +8906,13 @@ tags = [
                 "title": "Dev.System.Byrne"
             },
             {
-                "title": "Move.MotoDirection.RelativeDirection.ParallelTo"
+                "title": "Move.MoveDirection.RelativeDirection.ParallelTo"
             },
             {
-                "title": "Move.MotoDirection.RelativeDirection.PerpendicularTo"
+                "title": "Move.MoveDirection.RelativeDirection.PerpendicularTo"
             },
             {
-                "title": "Move.MotoPoint.Overview"
+                "title": "Move.MovePoint.Overview"
             },
             {
                 "title": "Psike.Alignment.Parallel",
@@ -8949,19 +8949,19 @@ tags = [
                     "title": "Dev.Element.ElementDiagram.Labels.TextLabel"
                 },
                 {
-                    "title": "Move.MotoLine"
+                    "title": "Move.MoveLine"
                 },
                 {
-                    "title": "Move.MotoPlane"
+                    "title": "Move.MovePlane"
                 },
                 {
-                    "title": "Move.MotoAttributes.MotoShape.CircleMoto"
+                    "title": "Move.MoveAttributes.MoveShape.CircleMove"
                 },
                 {
-                    "title": "Move.MotoPhrase.MotoLinePhrase"
+                    "title": "Move.MovePhrase.MoveLinePhrase"
                 },
                 {
-                    "title": "Move.MotoPhrase.SubmotoPhrase"
+                    "title": "Move.MovePhrase.SubmotoPhrase"
                 },
                 {
                     "title": "PlantaBeta"
@@ -8984,19 +8984,19 @@ tags = [
                 "title": "Dev.Element.ElementDiagram.Labels.TextLabel"
             },
             {
-                "title": "Move.MotoLine"
+                "title": "Move.MoveLine"
             },
             {
-                "title": "Move.MotoPlane"
+                "title": "Move.MovePlane"
             },
             {
-                "title": "Move.MotoAttributes.MotoShape.CircleMoto"
+                "title": "Move.MoveAttributes.MoveShape.CircleMove"
             },
             {
-                "title": "Move.MotoPhrase.MotoLinePhrase"
+                "title": "Move.MovePhrase.MoveLinePhrase"
             },
             {
-                "title": "Move.MotoPhrase.SubmotoPhrase"
+                "title": "Move.MovePhrase.SubmotoPhrase"
             },
             {
                 "title": "PlantaBeta"
@@ -9406,10 +9406,10 @@ tags = [
             "lastUpdated": 1692978839580,
             "tags": [
                 {
-                    "title": "Dev.Tools.Screefer"
+                    "title": "Dev.Tools.Skreefer"
                 },
                 {
-                    "title": "Move.ScreefMove.Overview"
+                    "title": "Move.SkreefMove.Overview"
                 },
                 {
                     "title": "PlantaBeta"
@@ -9426,10 +9426,10 @@ tags = [
         "extension": "jpg",
         "tags": [
             {
-                "title": "Dev.Tools.Screefer"
+                "title": "Dev.Tools.Skreefer"
             },
             {
-                "title": "Move.ScreefMove.Overview"
+                "title": "Move.SkreefMove.Overview"
             },
             {
                 "title": "PlantaBeta"
@@ -9458,10 +9458,10 @@ tags = [
                     "title": "Dev.Pictogram"
                 },
                 {
-                    "title": "Move.MotoCard"
+                    "title": "Move.MoveCard"
                 },
                 {
-                    "title": "Move.MotoName.Overview"
+                    "title": "Move.MoveName.Overview"
                 },
                 {
                     "title": "PlantaBeta"
@@ -9487,10 +9487,10 @@ tags = [
                 "title": "Dev.Pictogram"
             },
             {
-                "title": "Move.MotoCard"
+                "title": "Move.MoveCard"
             },
             {
-                "title": "Move.MotoName.Overview"
+                "title": "Move.MoveName.Overview"
             },
             {
                 "title": "PlantaBeta"
@@ -9525,7 +9525,7 @@ tags = [
                     "title": "Guide.Who.Overview"
                 },
                 {
-                    "title": "Move.MotoFrequency"
+                    "title": "Move.MoveFrequency"
                 },
                 {
                     "title": "PlantaBeta"
@@ -9560,7 +9560,7 @@ tags = [
                 "title": "Guide.Who.Overview"
             },
             {
-                "title": "Move.MotoFrequency"
+                "title": "Move.MoveFrequency"
             },
             {
                 "title": "PlantaBeta"
@@ -9592,7 +9592,7 @@ tags = [
                     "title": "Dev.System.Byrne"
                 },
                 {
-                    "title": "Move.MotoShape"
+                    "title": "Move.MoveShape"
                 },
                 {
                     "title": "PlantaBeta"
@@ -9621,7 +9621,7 @@ tags = [
                 "title": "Dev.System.Byrne"
             },
             {
-                "title": "Move.MotoShape"
+                "title": "Move.MoveShape"
             },
             {
                 "title": "PlantaBeta"
@@ -9644,7 +9644,7 @@ tags = [
             "lastUpdated": 1692978839581,
             "tags": [
                 {
-                    "title": "Move.MotoDifficulty.MotoComplexity"
+                    "title": "Move.MoveDifficulty.MoveComplexity"
                 },
                 {
                     "title": "PlantaBeta"
@@ -9661,7 +9661,7 @@ tags = [
         "extension": "jpg",
         "tags": [
             {
-                "title": "Move.MotoDifficulty.MotoComplexity"
+                "title": "Move.MoveDifficulty.MoveComplexity"
             },
             {
                 "title": "PlantaBeta"
@@ -9684,10 +9684,10 @@ tags = [
                     "title": "Dev.Element.ElementTimeline.EinsteinSpaghetti"
                 },
                 {
-                    "title": "Move.MotoLine"
+                    "title": "Move.MoveLine"
                 },
                 {
-                    "title": "Move.MotoShape"
+                    "title": "Move.MoveShape"
                 },
                 {
                     "title": "Psike.Visualization",
@@ -9714,10 +9714,10 @@ tags = [
                 "title": "Dev.Element.ElementTimeline.EinsteinSpaghetti"
             },
             {
-                "title": "Move.MotoLine"
+                "title": "Move.MoveLine"
             },
             {
-                "title": "Move.MotoShape"
+                "title": "Move.MoveShape"
             },
             {
                 "title": "Psike.Visualization",
@@ -9878,10 +9878,10 @@ tags = [
                     "title": "Dev.System.Byrne"
                 },
                 {
-                    "title": "Move.MotoLine"
+                    "title": "Move.MoveLine"
                 },
                 {
-                    "title": "Move.MotoAttributes.MotoRangeOfMotion"
+                    "title": "Move.MoveAttributes.MoveRangeOfMotion"
                 },
                 {
                     "title": "Move.ToolMove.SpadeMove.SpadeSwing"
@@ -9922,10 +9922,10 @@ tags = [
                 "title": "Dev.System.Byrne"
             },
             {
-                "title": "Move.MotoLine"
+                "title": "Move.MoveLine"
             },
             {
-                "title": "Move.MotoAttributes.MotoRangeOfMotion"
+                "title": "Move.MoveAttributes.MoveRangeOfMotion"
             },
             {
                 "title": "Move.ToolMove.SpadeMove.SpadeSwing"
@@ -9957,7 +9957,7 @@ tags = [
             "lastUpdated": 1692978839582,
             "tags": [
                 {
-                    "title": "Dev.Tools.Flag"
+                    "title": "Dev.Tools.Marka"
                 },
                 {
                     "title": "PlantaBeta"
@@ -9974,7 +9974,7 @@ tags = [
         "extension": "jpg",
         "tags": [
             {
-                "title": "Dev.Tools.Flag"
+                "title": "Dev.Tools.Marka"
             },
             {
                 "title": "PlantaBeta"
@@ -10015,7 +10015,7 @@ tags = [
                     "title": "Dev.System.Theorem"
                 },
                 {
-                    "title": "Move.MotoPhrase.MotoPhraseError"
+                    "title": "Move.MovePhrase.MovePhraseError"
                 },
                 {
                     "title": "Psike.Logic.Deduction",
@@ -10064,7 +10064,7 @@ tags = [
                 "title": "Dev.System.Theorem"
             },
             {
-                "title": "Move.MotoPhrase.MotoPhraseError"
+                "title": "Move.MovePhrase.MovePhraseError"
             },
             {
                 "title": "Psike.Logic.Deduction",
@@ -10153,10 +10153,10 @@ tags = [
                     "title": "Dev.Transcription"
                 },
                 {
-                    "title": "Move.MotoComposition.MotoAddition"
+                    "title": "Move.MoveComposition.MoveAddition"
                 },
                 {
-                    "title": "Move.MotoError.Overview"
+                    "title": "Move.MoveError.Overview"
                 },
                 {
                     "title": "Move.PlanterPart"
@@ -10185,10 +10185,10 @@ tags = [
                 "title": "Dev.Transcription"
             },
             {
-                "title": "Move.MotoComposition.MotoAddition"
+                "title": "Move.MoveComposition.MoveAddition"
             },
             {
-                "title": "Move.MotoError.Overview"
+                "title": "Move.MoveError.Overview"
             },
             {
                 "title": "Move.PlanterPart"
@@ -10287,7 +10287,7 @@ tags = [
                     "title": "Dev.Tools.Spade"
                 },
                 {
-                    "title": "Move.ToolMove.SpadeMove.SpadeScreef"
+                    "title": "Move.ToolMove.SpadeMove.SpadeSkreef"
                 },
                 {
                     "title": "PlantaBeta"
@@ -10307,7 +10307,7 @@ tags = [
                 "title": "Dev.Tools.Spade"
             },
             {
-                "title": "Move.ToolMove.SpadeMove.SpadeScreef"
+                "title": "Move.ToolMove.SpadeMove.SpadeSkreef"
             },
             {
                 "title": "PlantaBeta"
@@ -10342,19 +10342,19 @@ tags = [
                     "title": "Dev.Transcription"
                 },
                 {
-                    "title": "Move.MotoPhrase"
+                    "title": "Move.MovePhrase"
                 },
                 {
-                    "title": "Move.MotoPhrase.AnteMoto"
+                    "title": "Move.MovePhrase.AnteMove"
                 },
                 {
-                    "title": "Move.MotoPhrase.PostMoto"
+                    "title": "Move.MovePhrase.PostMove"
                 },
                 {
-                    "title": "Move.MotoPhrase.TransitionMoto"
+                    "title": "Move.MovePhrase.TransitionMove"
                 },
                 {
-                    "title": "Move.Overview.MotoHierarchy"
+                    "title": "Move.Overview.MoveHierarchy"
                 },
                 {
                     "title": "Move.PlanterPart"
@@ -10389,19 +10389,19 @@ tags = [
                 "title": "Dev.Transcription"
             },
             {
-                "title": "Move.MotoPhrase"
+                "title": "Move.MovePhrase"
             },
             {
-                "title": "Move.MotoPhrase.AnteMoto"
+                "title": "Move.MovePhrase.AnteMove"
             },
             {
-                "title": "Move.MotoPhrase.PostMoto"
+                "title": "Move.MovePhrase.PostMove"
             },
             {
-                "title": "Move.MotoPhrase.TransitionMoto"
+                "title": "Move.MovePhrase.TransitionMove"
             },
             {
-                "title": "Move.Overview.MotoHierarchy"
+                "title": "Move.Overview.MoveHierarchy"
             },
             {
                 "title": "Move.PlanterPart"
@@ -10436,13 +10436,13 @@ tags = [
                     "title": "Guide.What.WhatElement.ElementName.Affix"
                 },
                 {
-                    "title": "Move.MotoComposition.MotoSelection"
+                    "title": "Move.MoveComposition.MoveSelection"
                 },
                 {
-                    "title": "Move.MotoAttributes.MotoPermutation"
+                    "title": "Move.MoveAttributes.MovePermutation"
                 },
                 {
-                    "title": "Move.MotoAttributes.SubmotoCount"
+                    "title": "Move.MoveAttributes.SubmotoCount"
                 },
                 {
                     "title": "PlantaBeta"
@@ -10477,13 +10477,13 @@ tags = [
                 "title": "Guide.What.WhatElement.ElementName.Affix"
             },
             {
-                "title": "Move.MotoComposition.MotoSelection"
+                "title": "Move.MoveComposition.MoveSelection"
             },
             {
-                "title": "Move.MotoAttributes.MotoPermutation"
+                "title": "Move.MoveAttributes.MovePermutation"
             },
             {
-                "title": "Move.MotoAttributes.SubmotoCount"
+                "title": "Move.MoveAttributes.SubmotoCount"
             },
             {
                 "title": "PlantaBeta"
@@ -10509,7 +10509,7 @@ tags = [
             "lastUpdated": 1693705140985,
             "tags": [
                 {
-                    "title": "Dev.Element.ElementDiagram.Labels.TextLabel.MotoLabel"
+                    "title": "Dev.Element.ElementDiagram.Labels.TextLabel.MoveLabel"
                 },
                 {
                     "title": "Dev.Infographic.TreeView"
@@ -10521,13 +10521,13 @@ tags = [
                     "title": "Dev.System.Syntax.Punctuation"
                 },
                 {
-                    "title": "Move.MotoComposition.MotoAddition"
+                    "title": "Move.MoveComposition.MoveAddition"
                 },
                 {
-                    "title": "Move.MotoDecomposition"
+                    "title": "Move.MoveDecomposition"
                 },
                 {
-                    "title": "Move.MotoPhrase.SimultaneousMoto"
+                    "title": "Move.MovePhrase.SimultaneousMove"
                 },
                 {
                     "title": "PlantaBeta"
@@ -10547,7 +10547,7 @@ tags = [
         "extension": "jpg",
         "tags": [
             {
-                "title": "Dev.Element.ElementDiagram.Labels.TextLabel.MotoLabel"
+                "title": "Dev.Element.ElementDiagram.Labels.TextLabel.MoveLabel"
             },
             {
                 "title": "Dev.Infographic.TreeView"
@@ -10559,13 +10559,13 @@ tags = [
                 "title": "Dev.System.Syntax.Punctuation"
             },
             {
-                "title": "Move.MotoComposition.MotoAddition"
+                "title": "Move.MoveComposition.MoveAddition"
             },
             {
-                "title": "Move.MotoDecomposition"
+                "title": "Move.MoveDecomposition"
             },
             {
-                "title": "Move.MotoPhrase.SimultaneousMoto"
+                "title": "Move.MovePhrase.SimultaneousMove"
             },
             {
                 "title": "PlantaBeta"
@@ -10668,19 +10668,19 @@ tags = [
                     "title": "Dev.Transcription"
                 },
                 {
-                    "title": "Move.MotoComposition.MotoSelection.SubmotoSelection"
+                    "title": "Move.MoveComposition.MoveSelection.SubmotoSelection"
                 },
                 {
-                    "title": "Move.MotoPoint.MotoFinishPoint"
+                    "title": "Move.MovePoint.MoveFinishPoint"
                 },
                 {
-                    "title": "Move.MotoPhrase.MotoChunk.MotoPhrase"
+                    "title": "Move.MovePhrase.MoveChunk.MovePhrase"
                 },
                 {
-                    "title": "Move.MotoPhrase.MotoCycle.DoUntil"
+                    "title": "Move.MovePhrase.MoveCycle.DoUntil"
                 },
                 {
-                    "title": "Move.MotoPhrase.PostMoto"
+                    "title": "Move.MovePhrase.PostMove"
                 },
                 {
                     "title": "PlantaBeta"
@@ -10706,19 +10706,19 @@ tags = [
                 "title": "Dev.Transcription"
             },
             {
-                "title": "Move.MotoComposition.MotoSelection.SubmotoSelection"
+                "title": "Move.MoveComposition.MoveSelection.SubmotoSelection"
             },
             {
-                "title": "Move.MotoPoint.MotoFinishPoint"
+                "title": "Move.MovePoint.MoveFinishPoint"
             },
             {
-                "title": "Move.MotoPhrase.MotoChunk.MotoPhrase"
+                "title": "Move.MovePhrase.MoveChunk.MovePhrase"
             },
             {
-                "title": "Move.MotoPhrase.MotoCycle.DoUntil"
+                "title": "Move.MovePhrase.MoveCycle.DoUntil"
             },
             {
-                "title": "Move.MotoPhrase.PostMoto"
+                "title": "Move.MovePhrase.PostMove"
             },
             {
                 "title": "PlantaBeta"
@@ -10747,37 +10747,37 @@ tags = [
                     "title": "Dev.Tagging.TagChip.TagChipHighlight"
                 },
                 {
-                    "title": "Move.MotoComposition.Overview"
+                    "title": "Move.MoveComposition.Overview"
                 },
                 {
-                    "title": "Move.MotoDifficulty.Overview"
+                    "title": "Move.MoveDifficulty.Overview"
                 },
                 {
-                    "title": "Move.MotoGif"
+                    "title": "Move.MoveGif"
                 },
                 {
-                    "title": "Move.MotoPhoto"
+                    "title": "Move.MovePhoto"
                 },
                 {
-                    "title": "Move.MotoAttributes.MotoType.Overview"
+                    "title": "Move.MoveAttributes.MoveType.Overview"
                 },
                 {
-                    "title": "Move.MotoAttributes.Overview"
+                    "title": "Move.MoveAttributes.Overview"
                 },
                 {
-                    "title": "Move.MotoPhrase"
+                    "title": "Move.MovePhrase"
                 },
                 {
-                    "title": "Move.MotoPhrase.AnteMoto"
+                    "title": "Move.MovePhrase.AnteMove"
                 },
                 {
-                    "title": "Move.MotoPhrase.PostMoto"
+                    "title": "Move.MovePhrase.PostMove"
                 },
                 {
-                    "title": "Move.MotoType.DynamicMoto"
+                    "title": "Move.MoveType.DynamicMove"
                 },
                 {
-                    "title": "Move.MotoVideo"
+                    "title": "Move.MoveVideo"
                 },
                 {
                     "title": "Move.Physics.Acceleration"
@@ -10806,37 +10806,37 @@ tags = [
                 "title": "Dev.Tagging.TagChip.TagChipHighlight"
             },
             {
-                "title": "Move.MotoComposition.Overview"
+                "title": "Move.MoveComposition.Overview"
             },
             {
-                "title": "Move.MotoDifficulty.Overview"
+                "title": "Move.MoveDifficulty.Overview"
             },
             {
-                "title": "Move.MotoGif"
+                "title": "Move.MoveGif"
             },
             {
-                "title": "Move.MotoPhoto"
+                "title": "Move.MovePhoto"
             },
             {
-                "title": "Move.MotoAttributes.MotoType.Overview"
+                "title": "Move.MoveAttributes.MoveType.Overview"
             },
             {
-                "title": "Move.MotoAttributes.Overview"
+                "title": "Move.MoveAttributes.Overview"
             },
             {
-                "title": "Move.MotoPhrase"
+                "title": "Move.MovePhrase"
             },
             {
-                "title": "Move.MotoPhrase.AnteMoto"
+                "title": "Move.MovePhrase.AnteMove"
             },
             {
-                "title": "Move.MotoPhrase.PostMoto"
+                "title": "Move.MovePhrase.PostMove"
             },
             {
-                "title": "Move.MotoType.DynamicMoto"
+                "title": "Move.MoveType.DynamicMove"
             },
             {
-                "title": "Move.MotoVideo"
+                "title": "Move.MoveVideo"
             },
             {
                 "title": "Move.Physics.Acceleration"
@@ -10871,16 +10871,16 @@ tags = [
                     "title": "Guide.What.WhatElement.ElementName.Affix"
                 },
                 {
-                    "title": "Move.MotoDifficulty.Overview"
+                    "title": "Move.MoveDifficulty.Overview"
                 },
                 {
-                    "title": "Move.MotoDirection.Overview"
+                    "title": "Move.MoveDirection.Overview"
                 },
                 {
-                    "title": "Move.MotoAttributes.MotoState"
+                    "title": "Move.MoveAttributes.MoveState"
                 },
                 {
-                    "title": "Move.MotoPhrase.MotoChunk.MotoPhrase"
+                    "title": "Move.MovePhrase.MoveChunk.MovePhrase"
                 },
                 {
                     "title": "PlantaBeta"
@@ -10906,16 +10906,16 @@ tags = [
                 "title": "Guide.What.WhatElement.ElementName.Affix"
             },
             {
-                "title": "Move.MotoDifficulty.Overview"
+                "title": "Move.MoveDifficulty.Overview"
             },
             {
-                "title": "Move.MotoDirection.Overview"
+                "title": "Move.MoveDirection.Overview"
             },
             {
-                "title": "Move.MotoAttributes.MotoState"
+                "title": "Move.MoveAttributes.MoveState"
             },
             {
-                "title": "Move.MotoPhrase.MotoChunk.MotoPhrase"
+                "title": "Move.MovePhrase.MoveChunk.MovePhrase"
             },
             {
                 "title": "PlantaBeta"
@@ -10941,7 +10941,7 @@ tags = [
                     "title": "Dev.Transcription"
                 },
                 {
-                    "title": "Move.MotoComposition.MotoSelection.SubmotoSelection"
+                    "title": "Move.MoveComposition.MoveSelection.SubmotoSelection"
                 },
                 {
                     "title": "PlantaBeta"
@@ -10964,7 +10964,7 @@ tags = [
                 "title": "Dev.Transcription"
             },
             {
-                "title": "Move.MotoComposition.MotoSelection.SubmotoSelection"
+                "title": "Move.MoveComposition.MoveSelection.SubmotoSelection"
             },
             {
                 "title": "PlantaBeta"
@@ -11008,7 +11008,7 @@ tags = [
                     "title": "Move.ArmMove.ArmSwing"
                 },
                 {
-                    "title": "Move.MotoAttributes.SubmotoCount"
+                    "title": "Move.MoveAttributes.SubmotoCount"
                 },
                 {
                     "title": "PlantaBeta"
@@ -11049,7 +11049,7 @@ tags = [
                 "title": "Move.ArmMove.ArmSwing"
             },
             {
-                "title": "Move.MotoAttributes.SubmotoCount"
+                "title": "Move.MoveAttributes.SubmotoCount"
             },
             {
                 "title": "PlantaBeta"
@@ -11078,7 +11078,7 @@ tags = [
                     "title": "Guide.What.WhatElement.ElementName.Affix"
                 },
                 {
-                    "title": "Move.MotoComposition.MotoSelection.SubmotoSelection"
+                    "title": "Move.MoveComposition.MoveSelection.SubmotoSelection"
                 },
                 {
                     "title": "PlantaBeta"
@@ -11104,7 +11104,7 @@ tags = [
                 "title": "Guide.What.WhatElement.ElementName.Affix"
             },
             {
-                "title": "Move.MotoComposition.MotoSelection.SubmotoSelection"
+                "title": "Move.MoveComposition.MoveSelection.SubmotoSelection"
             },
             {
                 "title": "PlantaBeta"
@@ -11191,10 +11191,10 @@ tags = [
                     "title": "Move.HeadMove.LookAt"
                 },
                 {
-                    "title": "Move.MotoPhrase"
+                    "title": "Move.MovePhrase"
                 },
                 {
-                    "title": "Move.MotoPhrase.MotoTempo"
+                    "title": "Move.MovePhrase.MoveTempo"
                 },
                 {
                     "title": "PlantaBeta"
@@ -11229,10 +11229,10 @@ tags = [
                 "title": "Move.HeadMove.LookAt"
             },
             {
-                "title": "Move.MotoPhrase"
+                "title": "Move.MovePhrase"
             },
             {
-                "title": "Move.MotoPhrase.MotoTempo"
+                "title": "Move.MovePhrase.MoveTempo"
             },
             {
                 "title": "PlantaBeta"
@@ -11261,10 +11261,10 @@ tags = [
                     "title": "Dev.Transcription"
                 },
                 {
-                    "title": "Move.MotoComposition.MotoSelection.SubmotoSelection"
+                    "title": "Move.MoveComposition.MoveSelection.SubmotoSelection"
                 },
                 {
-                    "title": "Move.MotoAttributes.SubmotoCount"
+                    "title": "Move.MoveAttributes.SubmotoCount"
                 },
                 {
                     "title": "PlantaBeta"
@@ -11290,10 +11290,10 @@ tags = [
                 "title": "Dev.Transcription"
             },
             {
-                "title": "Move.MotoComposition.MotoSelection.SubmotoSelection"
+                "title": "Move.MoveComposition.MoveSelection.SubmotoSelection"
             },
             {
-                "title": "Move.MotoAttributes.SubmotoCount"
+                "title": "Move.MoveAttributes.SubmotoCount"
             },
             {
                 "title": "PlantaBeta"
@@ -11325,19 +11325,19 @@ tags = [
                     "title": "Dev.Element.ElementDiagram.Labels.TextLabel.AbbreviatedTextLabel"
                 },
                 {
-                    "title": "Dev.Element.ElementDiagram.Labels.TextLabel.MotoLabel"
+                    "title": "Dev.Element.ElementDiagram.Labels.TextLabel.MoveLabel"
                 },
                 {
                     "title": "Dev.Element.ElementTimeline"
                 },
                 {
-                    "title": "Move.MotoDiagram.MotoTimeline"
+                    "title": "Move.MoveDiagram.MoveTimeline"
                 },
                 {
-                    "title": "Move.MotoAttributes.MotoType.CompressionMoto"
+                    "title": "Move.MoveAttributes.MoveType.CompressionMove"
                 },
                 {
-                    "title": "Move.MotoPhrase.SimultaneousMoto"
+                    "title": "Move.MovePhrase.SimultaneousMove"
                 },
                 {
                     "title": "PlantaBeta"
@@ -11346,7 +11346,7 @@ tags = [
                     "title": "Via.ViaDiagram.ViaTimeline"
                 },
                 {
-                    "title": "Via.ViaGeometry.ViaCurve.AdvancingMoto"
+                    "title": "Via.ViaGeometry.ViaCurve.AdvancingMove"
                 },
                 {
                     "title": "TagTest"
@@ -11372,19 +11372,19 @@ tags = [
                 "title": "Dev.Element.ElementDiagram.Labels.TextLabel.AbbreviatedTextLabel"
             },
             {
-                "title": "Dev.Element.ElementDiagram.Labels.TextLabel.MotoLabel"
+                "title": "Dev.Element.ElementDiagram.Labels.TextLabel.MoveLabel"
             },
             {
                 "title": "Dev.Element.ElementTimeline"
             },
             {
-                "title": "Move.MotoDiagram.MotoTimeline"
+                "title": "Move.MoveDiagram.MoveTimeline"
             },
             {
-                "title": "Move.MotoAttributes.MotoType.CompressionMoto"
+                "title": "Move.MoveAttributes.MoveType.CompressionMove"
             },
             {
-                "title": "Move.MotoPhrase.SimultaneousMoto"
+                "title": "Move.MovePhrase.SimultaneousMove"
             },
             {
                 "title": "PlantaBeta"
@@ -11393,7 +11393,7 @@ tags = [
                 "title": "Via.ViaDiagram.ViaTimeline"
             },
             {
-                "title": "Via.ViaGeometry.ViaCurve.AdvancingMoto"
+                "title": "Via.ViaGeometry.ViaCurve.AdvancingMove"
             },
             {
                 "title": "TagTest"
@@ -11425,25 +11425,25 @@ tags = [
                     "title": "Move.LegMove.LegSwing"
                 },
                 {
-                    "title": "Move.MotoCard"
+                    "title": "Move.MoveCard"
                 },
                 {
-                    "title": "Move.MotoComposition.MotoSelection.SubmotoSelection"
+                    "title": "Move.MoveComposition.MoveSelection.SubmotoSelection"
                 },
                 {
-                    "title": "Move.MotoDiagram.MotoTimeline"
+                    "title": "Move.MoveDiagram.MoveTimeline"
                 },
                 {
-                    "title": "Move.MotoDifficulty.MotoComplexity"
+                    "title": "Move.MoveDifficulty.MoveComplexity"
                 },
                 {
-                    "title": "Move.MotoAttributes.SubmotoCount"
+                    "title": "Move.MoveAttributes.SubmotoCount"
                 },
                 {
-                    "title": "Move.MotoPhrase.MotoDensity"
+                    "title": "Move.MovePhrase.MoveDensity"
                 },
                 {
-                    "title": "Move.MotoPhrase.TransitionMoto"
+                    "title": "Move.MovePhrase.TransitionMove"
                 },
                 {
                     "title": "PlantaBeta"
@@ -11478,25 +11478,25 @@ tags = [
                 "title": "Move.LegMove.LegSwing"
             },
             {
-                "title": "Move.MotoCard"
+                "title": "Move.MoveCard"
             },
             {
-                "title": "Move.MotoComposition.MotoSelection.SubmotoSelection"
+                "title": "Move.MoveComposition.MoveSelection.SubmotoSelection"
             },
             {
-                "title": "Move.MotoDiagram.MotoTimeline"
+                "title": "Move.MoveDiagram.MoveTimeline"
             },
             {
-                "title": "Move.MotoDifficulty.MotoComplexity"
+                "title": "Move.MoveDifficulty.MoveComplexity"
             },
             {
-                "title": "Move.MotoAttributes.SubmotoCount"
+                "title": "Move.MoveAttributes.SubmotoCount"
             },
             {
-                "title": "Move.MotoPhrase.MotoDensity"
+                "title": "Move.MovePhrase.MoveDensity"
             },
             {
-                "title": "Move.MotoPhrase.TransitionMoto"
+                "title": "Move.MovePhrase.TransitionMove"
             },
             {
                 "title": "PlantaBeta"
@@ -11525,7 +11525,7 @@ tags = [
                     "title": "Dev.Element.ElementDescription"
                 },
                 {
-                    "title": "Dev.Element.ElementDiagram.Labels.TextLabel.MotoLabel"
+                    "title": "Dev.Element.ElementDiagram.Labels.TextLabel.MoveLabel"
                 },
                 {
                     "title": "Dev.System.Function"
@@ -11534,7 +11534,7 @@ tags = [
                     "title": "Dev.System.Syntax"
                 },
                 {
-                    "title": "Move.MotoAttributes.MotoType.CompressionMoto"
+                    "title": "Move.MoveAttributes.MoveType.CompressionMove"
                 },
                 {
                     "title": "Psike.Logic.Deduction",
@@ -11561,7 +11561,7 @@ tags = [
                 "title": "Dev.Element.ElementDescription"
             },
             {
-                "title": "Dev.Element.ElementDiagram.Labels.TextLabel.MotoLabel"
+                "title": "Dev.Element.ElementDiagram.Labels.TextLabel.MoveLabel"
             },
             {
                 "title": "Dev.System.Function"
@@ -11570,7 +11570,7 @@ tags = [
                 "title": "Dev.System.Syntax"
             },
             {
-                "title": "Move.MotoAttributes.MotoType.CompressionMoto"
+                "title": "Move.MoveAttributes.MoveType.CompressionMove"
             },
             {
                 "title": "Psike.Logic.Deduction",
@@ -11603,7 +11603,7 @@ tags = [
                     "title": "Dev.PageLayout"
                 },
                 {
-                    "title": "Move.MotoDiagram.Overview"
+                    "title": "Move.MoveDiagram.Overview"
                 },
                 {
                     "title": "PlantaBeta"
@@ -11629,7 +11629,7 @@ tags = [
                 "title": "Dev.PageLayout"
             },
             {
-                "title": "Move.MotoDiagram.Overview"
+                "title": "Move.MoveDiagram.Overview"
             },
             {
                 "title": "PlantaBeta"
@@ -11719,10 +11719,10 @@ tags = [
                     "title": "Move.LegMove.LegProp"
                 },
                 {
-                    "title": "Move.MotoDiagram.Stickfigure"
+                    "title": "Move.MoveDiagram.Stickfigure"
                 },
                 {
-                    "title": "Move.MotoAttributes.MotoDegreesOfFreedom"
+                    "title": "Move.MoveAttributes.MoveDegreesOfFreedom"
                 },
                 {
                     "title": "Move.PlanterDiagram"
@@ -11751,10 +11751,10 @@ tags = [
                 "title": "Move.LegMove.LegProp"
             },
             {
-                "title": "Move.MotoDiagram.Stickfigure"
+                "title": "Move.MoveDiagram.Stickfigure"
             },
             {
-                "title": "Move.MotoAttributes.MotoDegreesOfFreedom"
+                "title": "Move.MoveAttributes.MoveDegreesOfFreedom"
             },
             {
                 "title": "Move.PlanterDiagram"
@@ -11786,13 +11786,13 @@ tags = [
                     "title": "Dev.VideoAnalysis.VideoTagging"
                 },
                 {
-                    "title": "Move.MotoCard"
+                    "title": "Move.MoveCard"
                 },
                 {
-                    "title": "Move.MotoAttributes.MotoRangeOfMotion"
+                    "title": "Move.MoveAttributes.MoveRangeOfMotion"
                 },
                 {
-                    "title": "Move.MotoPhrase.MotoChunk.MotoPhrase"
+                    "title": "Move.MovePhrase.MoveChunk.MovePhrase"
                 },
                 {
                     "title": "PlantaBeta"
@@ -11821,13 +11821,13 @@ tags = [
                 "title": "Dev.VideoAnalysis.VideoTagging"
             },
             {
-                "title": "Move.MotoCard"
+                "title": "Move.MoveCard"
             },
             {
-                "title": "Move.MotoAttributes.MotoRangeOfMotion"
+                "title": "Move.MoveAttributes.MoveRangeOfMotion"
             },
             {
-                "title": "Move.MotoPhrase.MotoChunk.MotoPhrase"
+                "title": "Move.MovePhrase.MoveChunk.MovePhrase"
             },
             {
                 "title": "PlantaBeta"
@@ -11862,7 +11862,7 @@ tags = [
                     "title": "Dev.VideoAnalysis.VideoTagging"
                 },
                 {
-                    "title": "Move.MotoComposition.MotoSelection.SubmotoSelection"
+                    "title": "Move.MoveComposition.MoveSelection.SubmotoSelection"
                 },
                 {
                     "title": "PlantaBeta"
@@ -11891,7 +11891,7 @@ tags = [
                 "title": "Dev.VideoAnalysis.VideoTagging"
             },
             {
-                "title": "Move.MotoComposition.MotoSelection.SubmotoSelection"
+                "title": "Move.MoveComposition.MoveSelection.SubmotoSelection"
             },
             {
                 "title": "PlantaBeta"
@@ -11926,7 +11926,7 @@ tags = [
                     "title": "Move.LegMove.Overview"
                 },
                 {
-                    "title": "Move.MotoDiagram.Stickfigure"
+                    "title": "Move.MoveDiagram.Stickfigure"
                 },
                 {
                     "title": "Move.PlanterDiagram"
@@ -11964,7 +11964,7 @@ tags = [
                 "title": "Move.LegMove.Overview"
             },
             {
-                "title": "Move.MotoDiagram.Stickfigure"
+                "title": "Move.MoveDiagram.Stickfigure"
             },
             {
                 "title": "Move.PlanterDiagram"
@@ -12005,10 +12005,10 @@ tags = [
                     "title": "Dev.UX.EyePathway"
                 },
                 {
-                    "title": "Move.MotoComposition.MotoSelection.MotoComparison"
+                    "title": "Move.MoveComposition.MoveSelection.MoveComparison"
                 },
                 {
-                    "title": "Move.MotoPhrase"
+                    "title": "Move.MovePhrase"
                 },
                 {
                     "title": "PlantaBeta"
@@ -12046,10 +12046,10 @@ tags = [
                 "title": "Dev.UX.EyePathway"
             },
             {
-                "title": "Move.MotoComposition.MotoSelection.MotoComparison"
+                "title": "Move.MoveComposition.MoveSelection.MoveComparison"
             },
             {
-                "title": "Move.MotoPhrase"
+                "title": "Move.MovePhrase"
             },
             {
                 "title": "PlantaBeta"
@@ -12172,7 +12172,7 @@ tags = [
                     "title": "Dev.System.Byrne"
                 },
                 {
-                    "title": "Move.MotoDiagram.Overview"
+                    "title": "Move.MoveDiagram.Overview"
                 },
                 {
                     "title": "PlantaBeta"
@@ -12201,7 +12201,7 @@ tags = [
                 "title": "Dev.System.Byrne"
             },
             {
-                "title": "Move.MotoDiagram.Overview"
+                "title": "Move.MoveDiagram.Overview"
             },
             {
                 "title": "PlantaBeta"
@@ -12230,7 +12230,7 @@ tags = [
                     "title": "Dev.LevelOfAbstraction.AbstractIdea"
                 },
                 {
-                    "title": "Move.MotoAttributes.MotoType.CompressionMoto"
+                    "title": "Move.MoveAttributes.MoveType.CompressionMove"
                 },
                 {
                     "title": "Psike.Memory.Mnemonic",
@@ -12279,7 +12279,7 @@ tags = [
                 "title": "Dev.LevelOfAbstraction.AbstractIdea"
             },
             {
-                "title": "Move.MotoAttributes.MotoType.CompressionMoto"
+                "title": "Move.MoveAttributes.MoveType.CompressionMove"
             },
             {
                 "title": "Psike.Memory.Mnemonic",
@@ -12343,7 +12343,7 @@ tags = [
                     "title": "Dev.RelationByAlignment"
                 },
                 {
-                    "title": "Move.MotoAttributes.MotoType.PullMoto"
+                    "title": "Move.MoveAttributes.MoveType.PullMove"
                 },
                 {
                     "title": "Psike.Orientation",
@@ -12397,7 +12397,7 @@ tags = [
                 "title": "Dev.RelationByAlignment"
             },
             {
-                "title": "Move.MotoAttributes.MotoType.PullMoto"
+                "title": "Move.MoveAttributes.MoveType.PullMove"
             },
             {
                 "title": "Psike.Orientation",
@@ -12439,10 +12439,10 @@ tags = [
                     "title": "Dev.Element.ElementTimeline.EinsteinSpaghetti"
                 },
                 {
-                    "title": "Move.MotoDiagram.MotoTimeline"
+                    "title": "Move.MoveDiagram.MoveTimeline"
                 },
                 {
-                    "title": "Move.MotoPhrase.MotoCycle"
+                    "title": "Move.MovePhrase.MoveCycle"
                 },
                 {
                     "title": "Psike.CognitiveEase.Repetition",
@@ -12488,10 +12488,10 @@ tags = [
                 "title": "Dev.Element.ElementTimeline.EinsteinSpaghetti"
             },
             {
-                "title": "Move.MotoDiagram.MotoTimeline"
+                "title": "Move.MoveDiagram.MoveTimeline"
             },
             {
-                "title": "Move.MotoPhrase.MotoCycle"
+                "title": "Move.MovePhrase.MoveCycle"
             },
             {
                 "title": "Psike.CognitiveEase.Repetition",
@@ -12549,7 +12549,7 @@ tags = [
                     "title": "Guide.What.WhatElement.ElementName.Affix"
                 },
                 {
-                    "title": "Move.MotoError.Slip.FootSlip"
+                    "title": "Move.MoveError.Slip.FootSlip"
                 },
                 {
                     "title": "PlantaBeta"
@@ -12596,7 +12596,7 @@ tags = [
                 "title": "Guide.What.WhatElement.ElementName.Affix"
             },
             {
-                "title": "Move.MotoError.Slip.FootSlip"
+                "title": "Move.MoveError.Slip.FootSlip"
             },
             {
                 "title": "PlantaBeta"
@@ -12631,16 +12631,16 @@ tags = [
             "lastUpdated": 1692978839587,
             "tags": [
                 {
-                    "title": "Dev.Element.ElementDiagram.Labels.TextLabel.MotoLabel"
+                    "title": "Dev.Element.ElementDiagram.Labels.TextLabel.MoveLabel"
                 },
                 {
-                    "title": "Move.MotoAttributes.MotoType.CompressionMoto"
+                    "title": "Move.MoveAttributes.MoveType.CompressionMove"
                 },
                 {
-                    "title": "Move.MotoAttributes.MotoType.ExpansionMoto"
+                    "title": "Move.MoveAttributes.MoveType.ExpansionMove"
                 },
                 {
-                    "title": "Move.MotoPhrase.MotoOverlap"
+                    "title": "Move.MovePhrase.MoveOverlap"
                 },
                 {
                     "title": "PlantaBeta"
@@ -12669,16 +12669,16 @@ tags = [
         "extension": "jpg",
         "tags": [
             {
-                "title": "Dev.Element.ElementDiagram.Labels.TextLabel.MotoLabel"
+                "title": "Dev.Element.ElementDiagram.Labels.TextLabel.MoveLabel"
             },
             {
-                "title": "Move.MotoAttributes.MotoType.CompressionMoto"
+                "title": "Move.MoveAttributes.MoveType.CompressionMove"
             },
             {
-                "title": "Move.MotoAttributes.MotoType.ExpansionMoto"
+                "title": "Move.MoveAttributes.MoveType.ExpansionMove"
             },
             {
-                "title": "Move.MotoPhrase.MotoOverlap"
+                "title": "Move.MovePhrase.MoveOverlap"
             },
             {
                 "title": "PlantaBeta"
@@ -12713,7 +12713,7 @@ tags = [
                     "title": "Dev.Element.ElementDiagram.Labels.Lasso"
                 },
                 {
-                    "title": "Dev.Element.ElementDiagram.Labels.TextLabel.MotoLabel"
+                    "title": "Dev.Element.ElementDiagram.Labels.TextLabel.MoveLabel"
                 },
                 {
                     "title": "Dev.Element.ElementDiagram.Labels.TextLabel.ViaLineLabel"
@@ -12754,7 +12754,7 @@ tags = [
                 "title": "Dev.Element.ElementDiagram.Labels.Lasso"
             },
             {
-                "title": "Dev.Element.ElementDiagram.Labels.TextLabel.MotoLabel"
+                "title": "Dev.Element.ElementDiagram.Labels.TextLabel.MoveLabel"
             },
             {
                 "title": "Dev.Element.ElementDiagram.Labels.TextLabel.ViaLineLabel"
@@ -12813,7 +12813,7 @@ tags = [
                     "title": "Move.HandMove.HandSlot"
                 },
                 {
-                    "title": "Move.MotoAttributes.MotoType.SlotMoto"
+                    "title": "Move.MoveAttributes.MoveType.SlotMove"
                 },
                 {
                     "title": "PlantaBeta"
@@ -12854,7 +12854,7 @@ tags = [
                 "title": "Move.HandMove.HandSlot"
             },
             {
-                "title": "Move.MotoAttributes.MotoType.SlotMoto"
+                "title": "Move.MoveAttributes.MoveType.SlotMove"
             },
             {
                 "title": "PlantaBeta"
@@ -12904,7 +12904,7 @@ tags = [
                     "title": "Via.ViaGeometry.ViaSpace.ViaRangeOfLoadingAngles"
                 },
                 {
-                    "title": "Move.MotoPhrase.MotoDensity"
+                    "title": "Move.MovePhrase.MoveDensity"
                 },
                 {
                     "title": "Psike.Vision.Hidden",
@@ -12952,7 +12952,7 @@ tags = [
                 "title": "Via.ViaGeometry.ViaSpace.ViaRangeOfLoadingAngles"
             },
             {
-                "title": "Move.MotoPhrase.MotoDensity"
+                "title": "Move.MovePhrase.MoveDensity"
             },
             {
                 "title": "Psike.Vision.Hidden",
@@ -13040,13 +13040,13 @@ tags = [
                     "title": "Dev.Interdisciplinary.Music"
                 },
                 {
-                    "title": "Move.MotoDifficulty.MotoIntensity"
+                    "title": "Move.MoveDifficulty.MoveIntensity"
                 },
                 {
-                    "title": "Move.MotoPhrase"
+                    "title": "Move.MovePhrase"
                 },
                 {
-                    "title": "Move.MotoPhrase.MotoNestedPhrase"
+                    "title": "Move.MovePhrase.MoveNestedPhrase"
                 },
                 {
                     "title": "PlantaBeta"
@@ -13072,13 +13072,13 @@ tags = [
                 "title": "Dev.Interdisciplinary.Music"
             },
             {
-                "title": "Move.MotoDifficulty.MotoIntensity"
+                "title": "Move.MoveDifficulty.MoveIntensity"
             },
             {
-                "title": "Move.MotoPhrase"
+                "title": "Move.MovePhrase"
             },
             {
-                "title": "Move.MotoPhrase.MotoNestedPhrase"
+                "title": "Move.MovePhrase.MoveNestedPhrase"
             },
             {
                 "title": "PlantaBeta"
@@ -13213,19 +13213,19 @@ tags = [
                     "title": "Dev.ResearchQuestions"
                 },
                 {
-                    "title": "Move.MotoComposition.MotoSelection"
+                    "title": "Move.MoveComposition.MoveSelection"
                 },
                 {
-                    "title": "Move.MotoComposition.MotoSelection.AlternativeMoto"
+                    "title": "Move.MoveComposition.MoveSelection.AlternativeMove"
                 },
                 {
-                    "title": "Move.MotoComposition.MotoSelection.ForcedMoto"
+                    "title": "Move.MoveComposition.MoveSelection.ForcedMove"
                 },
                 {
-                    "title": "Move.MotoComposition.MotoSelection.SubmotoSelection"
+                    "title": "Move.MoveComposition.MoveSelection.SubmotoSelection"
                 },
                 {
-                    "title": "Move.MotoLine.CenterOfMassLine"
+                    "title": "Move.MoveLine.CenterOfMassLine"
                 },
                 {
                     "title": "PlantaBeta"
@@ -13263,19 +13263,19 @@ tags = [
                 "title": "Dev.ResearchQuestions"
             },
             {
-                "title": "Move.MotoComposition.MotoSelection"
+                "title": "Move.MoveComposition.MoveSelection"
             },
             {
-                "title": "Move.MotoComposition.MotoSelection.AlternativeMoto"
+                "title": "Move.MoveComposition.MoveSelection.AlternativeMove"
             },
             {
-                "title": "Move.MotoComposition.MotoSelection.ForcedMoto"
+                "title": "Move.MoveComposition.MoveSelection.ForcedMove"
             },
             {
-                "title": "Move.MotoComposition.MotoSelection.SubmotoSelection"
+                "title": "Move.MoveComposition.MoveSelection.SubmotoSelection"
             },
             {
-                "title": "Move.MotoLine.CenterOfMassLine"
+                "title": "Move.MoveLine.CenterOfMassLine"
             },
             {
                 "title": "PlantaBeta"
@@ -13310,7 +13310,7 @@ tags = [
                     "title": "Guide.What.WhatElement.ElementName.Affix"
                 },
                 {
-                    "title": "Move.MotoComposition.MotoSelection.MotoComparison"
+                    "title": "Move.MoveComposition.MoveSelection.MoveComparison"
                 },
                 {
                     "title": "Psike.Memory",
@@ -13347,7 +13347,7 @@ tags = [
                 "title": "Guide.What.WhatElement.ElementName.Affix"
             },
             {
-                "title": "Move.MotoComposition.MotoSelection.MotoComparison"
+                "title": "Move.MoveComposition.MoveSelection.MoveComparison"
             },
             {
                 "title": "Psike.Memory",
@@ -13399,7 +13399,7 @@ tags = [
                     "title": "Dev.Element.ElementDiagram.Labels.NumberLabel"
                 },
                 {
-                    "title": "Dev.Element.ElementDiagram.Labels.TextLabel.MotoLabel"
+                    "title": "Dev.Element.ElementDiagram.Labels.TextLabel.MoveLabel"
                 },
                 {
                     "title": "Dev.Pictogram"
@@ -13411,7 +13411,7 @@ tags = [
                     "title": "Dev.UX.EyePathway"
                 },
                 {
-                    "title": "Move.MotoAttributes.MotoType.CompressionMoto"
+                    "title": "Move.MoveAttributes.MoveType.CompressionMove"
                 },
                 {
                     "title": "PlantaBeta"
@@ -13461,7 +13461,7 @@ tags = [
                 "title": "Dev.Element.ElementDiagram.Labels.NumberLabel"
             },
             {
-                "title": "Dev.Element.ElementDiagram.Labels.TextLabel.MotoLabel"
+                "title": "Dev.Element.ElementDiagram.Labels.TextLabel.MoveLabel"
             },
             {
                 "title": "Dev.Pictogram"
@@ -13473,7 +13473,7 @@ tags = [
                 "title": "Dev.UX.EyePathway"
             },
             {
-                "title": "Move.MotoAttributes.MotoType.CompressionMoto"
+                "title": "Move.MoveAttributes.MoveType.CompressionMove"
             },
             {
                 "title": "PlantaBeta"
@@ -13694,7 +13694,7 @@ tags = [
                     "title": "Dev.Tagging.TagName"
                 },
                 {
-                    "title": "Move.MotoPhrase"
+                    "title": "Move.MovePhrase"
                 },
                 {
                     "title": "Psike.Alignment",
@@ -13763,7 +13763,7 @@ tags = [
                 "title": "Dev.Tagging.TagName"
             },
             {
-                "title": "Move.MotoPhrase"
+                "title": "Move.MovePhrase"
             },
             {
                 "title": "Psike.Alignment",
@@ -13805,7 +13805,7 @@ tags = [
                     "title": "Dev.Element.ElementDiagram.Labels.TextLabel.LandLabel"
                 },
                 {
-                    "title": "Dev.Element.ElementDiagram.Labels.TextLabel.MotoLabel"
+                    "title": "Dev.Element.ElementDiagram.Labels.TextLabel.MoveLabel"
                 },
                 {
                     "title": "Dev.Element.ElementDiagram.Labels.TextLabel.ViaLineLabel"
@@ -13859,7 +13859,7 @@ tags = [
                 "title": "Dev.Element.ElementDiagram.Labels.TextLabel.LandLabel"
             },
             {
-                "title": "Dev.Element.ElementDiagram.Labels.TextLabel.MotoLabel"
+                "title": "Dev.Element.ElementDiagram.Labels.TextLabel.MoveLabel"
             },
             {
                 "title": "Dev.Element.ElementDiagram.Labels.TextLabel.ViaLineLabel"
@@ -13922,10 +13922,10 @@ tags = [
                     "title": "Dev.Pedagogy.Curriculum.Timeline"
                 },
                 {
-                    "title": "Move.MotoPhrase"
+                    "title": "Move.MovePhrase"
                 },
                 {
-                    "title": "Move.MotoPhrase.HandPhrase"
+                    "title": "Move.MovePhrase.HandPhrase"
                 },
                 {
                     "title": "Psike.Learning.Overview",
@@ -13973,10 +13973,10 @@ tags = [
                 "title": "Dev.Pedagogy.Curriculum.Timeline"
             },
             {
-                "title": "Move.MotoPhrase"
+                "title": "Move.MovePhrase"
             },
             {
-                "title": "Move.MotoPhrase.HandPhrase"
+                "title": "Move.MovePhrase.HandPhrase"
             },
             {
                 "title": "Psike.Learning.Overview",
@@ -14133,7 +14133,7 @@ tags = [
                     "title": "Move.HandMove.HandSwap"
                 },
                 {
-                    "title": "Move.MotoPhrase"
+                    "title": "Move.MovePhrase"
                 },
                 {
                     "title": "PlantaBeta"
@@ -14192,7 +14192,7 @@ tags = [
                 "title": "Move.HandMove.HandSwap"
             },
             {
-                "title": "Move.MotoPhrase"
+                "title": "Move.MovePhrase"
             },
             {
                 "title": "PlantaBeta"
@@ -14251,10 +14251,10 @@ tags = [
                     "title": "Guide.When.Preseason"
                 },
                 {
-                    "title": "Move.MotoLine.MotoMirrorLine"
+                    "title": "Move.MoveLine.MoveMirrorLine"
                 },
                 {
-                    "title": "Move.MotoAttributes.MotoType.SymmetricMoto"
+                    "title": "Move.MoveAttributes.MoveType.SymmetricMove"
                 },
                 {
                     "title": "PlantaBeta"
@@ -14316,10 +14316,10 @@ tags = [
                 "title": "Guide.When.Preseason"
             },
             {
-                "title": "Move.MotoLine.MotoMirrorLine"
+                "title": "Move.MoveLine.MoveMirrorLine"
             },
             {
-                "title": "Move.MotoAttributes.MotoType.SymmetricMoto"
+                "title": "Move.MoveAttributes.MoveType.SymmetricMove"
             },
             {
                 "title": "PlantaBeta"
@@ -14466,10 +14466,10 @@ tags = [
                     "title": "Move.LegMove.HighFoot"
                 },
                 {
-                    "title": "Move.MotoAttributes.MotoType.CompressionMoto"
+                    "title": "Move.MoveAttributes.MoveType.CompressionMove"
                 },
                 {
-                    "title": "Move.MotoAttributes.MotoType.ExpansionMoto"
+                    "title": "Move.MoveAttributes.MoveType.ExpansionMove"
                 },
                 {
                     "title": "PlantaBeta"
@@ -14534,10 +14534,10 @@ tags = [
                 "title": "Move.LegMove.HighFoot"
             },
             {
-                "title": "Move.MotoAttributes.MotoType.CompressionMoto"
+                "title": "Move.MoveAttributes.MoveType.CompressionMove"
             },
             {
-                "title": "Move.MotoAttributes.MotoType.ExpansionMoto"
+                "title": "Move.MoveAttributes.MoveType.ExpansionMove"
             },
             {
                 "title": "PlantaBeta"
@@ -14729,7 +14729,7 @@ tags = [
                     "title": "Land.Piece.PieceTopography.SlopeAngle"
                 },
                 {
-                    "title": "Move.MotoPhrase.MotoDensity"
+                    "title": "Move.MovePhrase.MoveDensity"
                 },
                 {
                     "title": "Move.Physics.LoadingAngle"
@@ -14804,7 +14804,7 @@ tags = [
                 "title": "Land.Piece.PieceTopography.SlopeAngle"
             },
             {
-                "title": "Move.MotoPhrase.MotoDensity"
+                "title": "Move.MovePhrase.MoveDensity"
             },
             {
                 "title": "Move.Physics.LoadingAngle"
@@ -14936,13 +14936,13 @@ tags = [
                     "title": "Dev.Interdisciplinary.Music"
                 },
                 {
-                    "title": "Move.MotoDiagram.MotoTimeline"
+                    "title": "Move.MoveDiagram.MoveTimeline"
                 },
                 {
-                    "title": "Move.MotoPoint.MotoPausePoint"
+                    "title": "Move.MovePoint.MovePausePoint"
                 },
                 {
-                    "title": "Move.MotoPhrase.MotoTempo"
+                    "title": "Move.MovePhrase.MoveTempo"
                 },
                 {
                     "title": "PlantaBeta"
@@ -14977,13 +14977,13 @@ tags = [
                 "title": "Dev.Interdisciplinary.Music"
             },
             {
-                "title": "Move.MotoDiagram.MotoTimeline"
+                "title": "Move.MoveDiagram.MoveTimeline"
             },
             {
-                "title": "Move.MotoPoint.MotoPausePoint"
+                "title": "Move.MovePoint.MovePausePoint"
             },
             {
-                "title": "Move.MotoPhrase.MotoTempo"
+                "title": "Move.MovePhrase.MoveTempo"
             },
             {
                 "title": "PlantaBeta"
@@ -15027,10 +15027,10 @@ tags = [
                     "title": "Dev.LevelOfDetail.LessIsMore"
                 },
                 {
-                    "title": "Move.MotoDiagram.MotoTimeline"
+                    "title": "Move.MoveDiagram.MoveTimeline"
                 },
                 {
-                    "title": "Move.MotoPhrase"
+                    "title": "Move.MovePhrase"
                 },
                 {
                     "title": "Psike.CognitiveEase.Repetition",
@@ -15078,10 +15078,10 @@ tags = [
                 "title": "Dev.LevelOfDetail.LessIsMore"
             },
             {
-                "title": "Move.MotoDiagram.MotoTimeline"
+                "title": "Move.MoveDiagram.MoveTimeline"
             },
             {
-                "title": "Move.MotoPhrase"
+                "title": "Move.MovePhrase"
             },
             {
                 "title": "Psike.CognitiveEase.Repetition",
@@ -15229,10 +15229,10 @@ tags = [
                     "title": "Dev.Pictogram"
                 },
                 {
-                    "title": "Move.MotoLine"
+                    "title": "Move.MoveLine"
                 },
                 {
-                    "title": "Move.MotoPhrase"
+                    "title": "Move.MovePhrase"
                 },
                 {
                     "title": "Psike.Alignment",
@@ -15277,10 +15277,10 @@ tags = [
                 "title": "Dev.Pictogram"
             },
             {
-                "title": "Move.MotoLine"
+                "title": "Move.MoveLine"
             },
             {
-                "title": "Move.MotoPhrase"
+                "title": "Move.MovePhrase"
             },
             {
                 "title": "Psike.Alignment",
@@ -15398,10 +15398,10 @@ tags = [
                     "title": "Guide.What.WhatElement.ElementName.Affix"
                 },
                 {
-                    "title": "Move.MotoPhrase.SimultaneousMoto"
+                    "title": "Move.MovePhrase.SimultaneousMove"
                 },
                 {
-                    "title": "Move.MotoPhrase.TransitionMoto"
+                    "title": "Move.MovePhrase.TransitionMove"
                 },
                 {
                     "title": "PlantaBeta"
@@ -15433,10 +15433,10 @@ tags = [
                 "title": "Guide.What.WhatElement.ElementName.Affix"
             },
             {
-                "title": "Move.MotoPhrase.SimultaneousMoto"
+                "title": "Move.MovePhrase.SimultaneousMove"
             },
             {
-                "title": "Move.MotoPhrase.TransitionMoto"
+                "title": "Move.MovePhrase.TransitionMove"
             },
             {
                 "title": "PlantaBeta"
@@ -15471,13 +15471,13 @@ tags = [
                     "title": "Move.HandMove.HandBump"
                 },
                 {
-                    "title": "Move.MotoDifficulty.MotoRisk"
+                    "title": "Move.MoveDifficulty.MoveRisk"
                 },
                 {
-                    "title": "Move.MotoAttributes.MotoType.CompressionMoto"
+                    "title": "Move.MoveAttributes.MoveType.CompressionMove"
                 },
                 {
-                    "title": "Move.MotoPhrase"
+                    "title": "Move.MovePhrase"
                 },
                 {
                     "title": "PlantaBeta"
@@ -15512,13 +15512,13 @@ tags = [
                 "title": "Move.HandMove.HandBump"
             },
             {
-                "title": "Move.MotoDifficulty.MotoRisk"
+                "title": "Move.MoveDifficulty.MoveRisk"
             },
             {
-                "title": "Move.MotoAttributes.MotoType.CompressionMoto"
+                "title": "Move.MoveAttributes.MoveType.CompressionMove"
             },
             {
-                "title": "Move.MotoPhrase"
+                "title": "Move.MovePhrase"
             },
             {
                 "title": "PlantaBeta"
@@ -15559,13 +15559,13 @@ tags = [
                     "title": "Dev.Transcription"
                 },
                 {
-                    "title": "Move.MotoAnalysis"
+                    "title": "Move.MoveAnalysis"
                 },
                 {
-                    "title": "Move.MotoDiagram.Overview"
+                    "title": "Move.MoveDiagram.Overview"
                 },
                 {
-                    "title": "Move.MotoPhrase"
+                    "title": "Move.MovePhrase"
                 },
                 {
                     "title": "Move.Physics.Vector"
@@ -15597,13 +15597,13 @@ tags = [
                 "title": "Dev.Transcription"
             },
             {
-                "title": "Move.MotoAnalysis"
+                "title": "Move.MoveAnalysis"
             },
             {
-                "title": "Move.MotoDiagram.Overview"
+                "title": "Move.MoveDiagram.Overview"
             },
             {
-                "title": "Move.MotoPhrase"
+                "title": "Move.MovePhrase"
             },
             {
                 "title": "Move.Physics.Vector"
@@ -15632,7 +15632,7 @@ tags = [
                     "title": "Land.LandAttributes.Overview"
                 },
                 {
-                    "title": "Move.MotoDiagram.OrthographicDiagram"
+                    "title": "Move.MoveDiagram.OrthographicDiagram"
                 },
                 {
                     "title": "PlantaBeta"
@@ -15658,7 +15658,7 @@ tags = [
                 "title": "Land.LandAttributes.Overview"
             },
             {
-                "title": "Move.MotoDiagram.OrthographicDiagram"
+                "title": "Move.MoveDiagram.OrthographicDiagram"
             },
             {
                 "title": "PlantaBeta"
@@ -15753,19 +15753,19 @@ tags = [
                     "title": "Dev.RelationByProximity"
                 },
                 {
-                    "title": "Move.MotoDiagram.MotoTimeline"
+                    "title": "Move.MoveDiagram.MoveTimeline"
                 },
                 {
-                    "title": "Move.MotoPhrase"
+                    "title": "Move.MovePhrase"
                 },
                 {
-                    "title": "Move.MotoPhrase.ContiguousMoto"
+                    "title": "Move.MovePhrase.ContiguousMove"
                 },
                 {
-                    "title": "Move.MotoPhrase.MotoOverlap"
+                    "title": "Move.MovePhrase.MoveOverlap"
                 },
                 {
-                    "title": "Move.MotoSpace.Overview"
+                    "title": "Move.MoveSpace.Overview"
                 },
                 {
                     "title": "PlantaBeta"
@@ -15800,19 +15800,19 @@ tags = [
                 "title": "Dev.RelationByProximity"
             },
             {
-                "title": "Move.MotoDiagram.MotoTimeline"
+                "title": "Move.MoveDiagram.MoveTimeline"
             },
             {
-                "title": "Move.MotoPhrase"
+                "title": "Move.MovePhrase"
             },
             {
-                "title": "Move.MotoPhrase.ContiguousMoto"
+                "title": "Move.MovePhrase.ContiguousMove"
             },
             {
-                "title": "Move.MotoPhrase.MotoOverlap"
+                "title": "Move.MovePhrase.MoveOverlap"
             },
             {
-                "title": "Move.MotoSpace.Overview"
+                "title": "Move.MoveSpace.Overview"
             },
             {
                 "title": "PlantaBeta"
@@ -15865,13 +15865,13 @@ tags = [
                     "title": "Land.LandName"
                 },
                 {
-                    "title": "Move.MotoLine"
+                    "title": "Move.MoveLine"
                 },
                 {
-                    "title": "Move.MotoName.Overview"
+                    "title": "Move.MoveName.Overview"
                 },
                 {
-                    "title": "Move.MotoPhrase"
+                    "title": "Move.MovePhrase"
                 },
                 {
                     "title": "Psike.NeuroName",
@@ -15928,13 +15928,13 @@ tags = [
                 "title": "Land.LandName"
             },
             {
-                "title": "Move.MotoLine"
+                "title": "Move.MoveLine"
             },
             {
-                "title": "Move.MotoName.Overview"
+                "title": "Move.MoveName.Overview"
             },
             {
-                "title": "Move.MotoPhrase"
+                "title": "Move.MovePhrase"
             },
             {
                 "title": "Psike.NeuroName",
@@ -16055,7 +16055,7 @@ tags = [
                     "title": "Dev.LevelOfDetail"
                 },
                 {
-                    "title": "Move.MotoPhrase"
+                    "title": "Move.MovePhrase"
                 },
                 {
                     "title": "PlantaBeta"
@@ -16090,7 +16090,7 @@ tags = [
                 "title": "Dev.LevelOfDetail"
             },
             {
-                "title": "Move.MotoPhrase"
+                "title": "Move.MovePhrase"
             },
             {
                 "title": "PlantaBeta"
@@ -16125,10 +16125,10 @@ tags = [
                     "title": "Move.HandMove.HandMatch"
                 },
                 {
-                    "title": "Move.MotoLine"
+                    "title": "Move.MoveLine"
                 },
                 {
-                    "title": "Move.MotoPhrase"
+                    "title": "Move.MovePhrase"
                 },
                 {
                     "title": "PlantaBeta"
@@ -16160,10 +16160,10 @@ tags = [
                 "title": "Move.HandMove.HandMatch"
             },
             {
-                "title": "Move.MotoLine"
+                "title": "Move.MoveLine"
             },
             {
-                "title": "Move.MotoPhrase"
+                "title": "Move.MovePhrase"
             },
             {
                 "title": "PlantaBeta"
@@ -16280,10 +16280,10 @@ tags = [
                     "title": "Land.LandAnalysis"
                 },
                 {
-                    "title": "Move.MotoAnalysis"
+                    "title": "Move.MoveAnalysis"
                 },
                 {
-                    "title": "Move.MotoPhrase"
+                    "title": "Move.MovePhrase"
                 },
                 {
                     "title": "PlantaBeta"
@@ -16336,10 +16336,10 @@ tags = [
                 "title": "Land.LandAnalysis"
             },
             {
-                "title": "Move.MotoAnalysis"
+                "title": "Move.MoveAnalysis"
             },
             {
-                "title": "Move.MotoPhrase"
+                "title": "Move.MovePhrase"
             },
             {
                 "title": "PlantaBeta"
@@ -16474,7 +16474,7 @@ tags = [
                     "title": "Dev.VideoAnalysis.VideoTagging"
                 },
                 {
-                    "title": "Move.MotoPhrase"
+                    "title": "Move.MovePhrase"
                 },
                 {
                     "title": "PlantaBeta"
@@ -16518,7 +16518,7 @@ tags = [
                 "title": "Dev.VideoAnalysis.VideoTagging"
             },
             {
-                "title": "Move.MotoPhrase"
+                "title": "Move.MovePhrase"
             },
             {
                 "title": "PlantaBeta"
@@ -16562,10 +16562,10 @@ tags = [
                     "title": "Guide.What.WhatElement.ElementName.Affix"
                 },
                 {
-                    "title": "Move.MotoAttributes.MotoType.RestMoto"
+                    "title": "Move.MoveAttributes.MoveType.RestMove"
                 },
                 {
-                    "title": "Move.MotoPhrase.MotoTempo"
+                    "title": "Move.MovePhrase.MoveTempo"
                 },
                 {
                     "title": "PlantaBeta"
@@ -16612,10 +16612,10 @@ tags = [
                 "title": "Guide.What.WhatElement.ElementName.Affix"
             },
             {
-                "title": "Move.MotoAttributes.MotoType.RestMoto"
+                "title": "Move.MoveAttributes.MoveType.RestMove"
             },
             {
-                "title": "Move.MotoPhrase.MotoTempo"
+                "title": "Move.MovePhrase.MoveTempo"
             },
             {
                 "title": "PlantaBeta"
@@ -16656,13 +16656,13 @@ tags = [
                     "title": "Dev.Element.ElementDiagram.Hatching"
                 },
                 {
-                    "title": "Move.MotoLine"
+                    "title": "Move.MoveLine"
                 },
                 {
-                    "title": "Move.MotoPhrase.MotoOverlap"
+                    "title": "Move.MovePhrase.MoveOverlap"
                 },
                 {
-                    "title": "Move.MotoSpace.Overview"
+                    "title": "Move.MoveSpace.Overview"
                 },
                 {
                     "title": "PlantaBeta"
@@ -16691,13 +16691,13 @@ tags = [
                 "title": "Dev.Element.ElementDiagram.Hatching"
             },
             {
-                "title": "Move.MotoLine"
+                "title": "Move.MoveLine"
             },
             {
-                "title": "Move.MotoPhrase.MotoOverlap"
+                "title": "Move.MovePhrase.MoveOverlap"
             },
             {
-                "title": "Move.MotoSpace.Overview"
+                "title": "Move.MoveSpace.Overview"
             },
             {
                 "title": "PlantaBeta"
@@ -16732,7 +16732,7 @@ tags = [
                     "title": "Dev.Poster"
                 },
                 {
-                    "title": "Move.MotoLine"
+                    "title": "Move.MoveLine"
                 },
                 {
                     "title": "Psike.Visualization",
@@ -16762,7 +16762,7 @@ tags = [
                 "title": "Dev.Poster"
             },
             {
-                "title": "Move.MotoLine"
+                "title": "Move.MoveLine"
             },
             {
                 "title": "Psike.Visualization",
@@ -17011,10 +17011,10 @@ tags = [
                     "title": "Land.Obstacle.WaterObstacle"
                 },
                 {
-                    "title": "Move.MotoDiagram.Overview"
+                    "title": "Move.MoveDiagram.Overview"
                 },
                 {
-                    "title": "Move.MotoAttributes.MotoType.ArchMoto"
+                    "title": "Move.MoveAttributes.MoveType.ArchMove"
                 },
                 {
                     "title": "Psike.Learning.Feedback",
@@ -17051,10 +17051,10 @@ tags = [
                 "title": "Land.Obstacle.WaterObstacle"
             },
             {
-                "title": "Move.MotoDiagram.Overview"
+                "title": "Move.MoveDiagram.Overview"
             },
             {
-                "title": "Move.MotoAttributes.MotoType.ArchMoto"
+                "title": "Move.MoveAttributes.MoveType.ArchMove"
             },
             {
                 "title": "Psike.Learning.Feedback",
@@ -17115,16 +17115,16 @@ tags = [
                     "title": "Land.LandCard"
                 },
                 {
-                    "title": "Move.MotoCard"
+                    "title": "Move.MoveCard"
                 },
                 {
-                    "title": "Move.MotoDifficulty.MotoComplexity"
+                    "title": "Move.MoveDifficulty.MoveComplexity"
                 },
                 {
-                    "title": "Move.MotoAttributes.SubmotoCount"
+                    "title": "Move.MoveAttributes.SubmotoCount"
                 },
                 {
-                    "title": "Move.MotoSpace.Overview"
+                    "title": "Move.MoveSpace.Overview"
                 },
                 {
                     "title": "Psike.NeuroCard",
@@ -17178,16 +17178,16 @@ tags = [
                 "title": "Land.LandCard"
             },
             {
-                "title": "Move.MotoCard"
+                "title": "Move.MoveCard"
             },
             {
-                "title": "Move.MotoDifficulty.MotoComplexity"
+                "title": "Move.MoveDifficulty.MoveComplexity"
             },
             {
-                "title": "Move.MotoAttributes.SubmotoCount"
+                "title": "Move.MoveAttributes.SubmotoCount"
             },
             {
-                "title": "Move.MotoSpace.Overview"
+                "title": "Move.MoveSpace.Overview"
             },
             {
                 "title": "Psike.NeuroCard",
@@ -17362,13 +17362,13 @@ tags = [
                     "title": "Move.LegMove.SupportingLeg"
                 },
                 {
-                    "title": "Move.MotoDiagram.Overview"
+                    "title": "Move.MoveDiagram.Overview"
                 },
                 {
-                    "title": "Move.MotoDifficulty.MotoComplexity"
+                    "title": "Move.MoveDifficulty.MoveComplexity"
                 },
                 {
-                    "title": "Move.MotoDifficulty.Overview"
+                    "title": "Move.MoveDifficulty.Overview"
                 },
                 {
                     "title": "Psike.Chunking",
@@ -17416,13 +17416,13 @@ tags = [
                 "title": "Move.LegMove.SupportingLeg"
             },
             {
-                "title": "Move.MotoDiagram.Overview"
+                "title": "Move.MoveDiagram.Overview"
             },
             {
-                "title": "Move.MotoDifficulty.MotoComplexity"
+                "title": "Move.MoveDifficulty.MoveComplexity"
             },
             {
-                "title": "Move.MotoDifficulty.Overview"
+                "title": "Move.MoveDifficulty.Overview"
             },
             {
                 "title": "Psike.Chunking",
@@ -17613,7 +17613,7 @@ tags = [
                     "title": "Move.HandMove.HandSmear"
                 },
                 {
-                    "title": "Move.MotoAttributes.MotoType.CompressionMoto"
+                    "title": "Move.MoveAttributes.MoveType.CompressionMove"
                 },
                 {
                     "title": "PlantaBeta"
@@ -17674,7 +17674,7 @@ tags = [
                 "title": "Move.HandMove.HandSmear"
             },
             {
-                "title": "Move.MotoAttributes.MotoType.CompressionMoto"
+                "title": "Move.MoveAttributes.MoveType.CompressionMove"
             },
             {
                 "title": "PlantaBeta"
@@ -17715,19 +17715,19 @@ tags = [
                     "title": "Move.HandMove.UnderclingGrip"
                 },
                 {
-                    "title": "Move.MotoDiagram.MotoTimeline"
+                    "title": "Move.MoveDiagram.MoveTimeline"
                 },
                 {
-                    "title": "Move.MotoPoint.Deadpoint"
+                    "title": "Move.MovePoint.Deadpoint"
                 },
                 {
-                    "title": "Move.MotoAttributes.MotoType.CompressionMoto"
+                    "title": "Move.MoveAttributes.MoveType.CompressionMove"
                 },
                 {
-                    "title": "Move.MotoAttributes.MotoType.ExpansionMoto"
+                    "title": "Move.MoveAttributes.MoveType.ExpansionMove"
                 },
                 {
-                    "title": "Move.MotoPhrase.MotoRhythm"
+                    "title": "Move.MovePhrase.MoveRhythm"
                 },
                 {
                     "title": "Psike.CognitiveEase.Repetition",
@@ -17757,19 +17757,19 @@ tags = [
                 "title": "Move.HandMove.UnderclingGrip"
             },
             {
-                "title": "Move.MotoDiagram.MotoTimeline"
+                "title": "Move.MoveDiagram.MoveTimeline"
             },
             {
-                "title": "Move.MotoPoint.Deadpoint"
+                "title": "Move.MovePoint.Deadpoint"
             },
             {
-                "title": "Move.MotoAttributes.MotoType.CompressionMoto"
+                "title": "Move.MoveAttributes.MoveType.CompressionMove"
             },
             {
-                "title": "Move.MotoAttributes.MotoType.ExpansionMoto"
+                "title": "Move.MoveAttributes.MoveType.ExpansionMove"
             },
             {
-                "title": "Move.MotoPhrase.MotoRhythm"
+                "title": "Move.MovePhrase.MoveRhythm"
             },
             {
                 "title": "Psike.CognitiveEase.Repetition",
@@ -17796,19 +17796,19 @@ tags = [
                     "title": "Dev.Transcription"
                 },
                 {
-                    "title": "Move.MotoAttributes.MotoDuration"
+                    "title": "Move.MoveAttributes.MoveDuration"
                 },
                 {
-                    "title": "Move.MotoAttributes.MotoType.ReleaseMoto"
+                    "title": "Move.MoveAttributes.MoveType.ReleaseMove"
                 },
                 {
-                    "title": "Move.MotoPhrase.MotoRhythm"
+                    "title": "Move.MovePhrase.MoveRhythm"
                 },
                 {
-                    "title": "Move.MotoPhrase.MotoTempo"
+                    "title": "Move.MovePhrase.MoveTempo"
                 },
                 {
-                    "title": "Move.MotoPhrase.SimultaneousMoto"
+                    "title": "Move.MovePhrase.SimultaneousMove"
                 },
                 {
                     "title": "PlantaBeta"
@@ -17831,19 +17831,19 @@ tags = [
                 "title": "Dev.Transcription"
             },
             {
-                "title": "Move.MotoAttributes.MotoDuration"
+                "title": "Move.MoveAttributes.MoveDuration"
             },
             {
-                "title": "Move.MotoAttributes.MotoType.ReleaseMoto"
+                "title": "Move.MoveAttributes.MoveType.ReleaseMove"
             },
             {
-                "title": "Move.MotoPhrase.MotoRhythm"
+                "title": "Move.MovePhrase.MoveRhythm"
             },
             {
-                "title": "Move.MotoPhrase.MotoTempo"
+                "title": "Move.MovePhrase.MoveTempo"
             },
             {
-                "title": "Move.MotoPhrase.SimultaneousMoto"
+                "title": "Move.MovePhrase.SimultaneousMove"
             },
             {
                 "title": "PlantaBeta"
@@ -17872,10 +17872,10 @@ tags = [
                     "title": "Dev.Interdisciplinary.Music"
                 },
                 {
-                    "title": "Move.MotoPhrase"
+                    "title": "Move.MovePhrase"
                 },
                 {
-                    "title": "Move.Overview.MotoType.RelativeMoto"
+                    "title": "Move.Overview.MoveType.RelativeMove"
                 },
                 {
                     "title": "Move.Physics.Direction"
@@ -17904,10 +17904,10 @@ tags = [
                 "title": "Dev.Interdisciplinary.Music"
             },
             {
-                "title": "Move.MotoPhrase"
+                "title": "Move.MovePhrase"
             },
             {
-                "title": "Move.Overview.MotoType.RelativeMoto"
+                "title": "Move.Overview.MoveType.RelativeMove"
             },
             {
                 "title": "Move.Physics.Direction"
@@ -17951,10 +17951,10 @@ tags = [
                     "title": "Move.HandMove.HandSwap"
                 },
                 {
-                    "title": "Move.MotoAttributes.MotoDuration"
+                    "title": "Move.MoveAttributes.MoveDuration"
                 },
                 {
-                    "title": "Move.MotoPhrase.SimultaneousMoto"
+                    "title": "Move.MovePhrase.SimultaneousMove"
                 },
                 {
                     "title": "PlantaBeta"
@@ -17989,10 +17989,10 @@ tags = [
                 "title": "Move.HandMove.HandSwap"
             },
             {
-                "title": "Move.MotoAttributes.MotoDuration"
+                "title": "Move.MoveAttributes.MoveDuration"
             },
             {
-                "title": "Move.MotoPhrase.SimultaneousMoto"
+                "title": "Move.MovePhrase.SimultaneousMove"
             },
             {
                 "title": "PlantaBeta"
@@ -18018,16 +18018,16 @@ tags = [
                     "title": "Dev.Interdisciplinary.Music.Rhythm"
                 },
                 {
-                    "title": "Move.MotoDiagram.MotoTimeline"
+                    "title": "Move.MoveDiagram.MoveTimeline"
                 },
                 {
-                    "title": "Move.MotoAttributes.MotoDuration"
+                    "title": "Move.MoveAttributes.MoveDuration"
                 },
                 {
-                    "title": "Move.MotoPhrase"
+                    "title": "Move.MovePhrase"
                 },
                 {
-                    "title": "Move.MotoPhrase.MotoRhythm"
+                    "title": "Move.MovePhrase.MoveRhythm"
                 },
                 {
                     "title": "PlantaBeta"
@@ -18050,16 +18050,16 @@ tags = [
                 "title": "Dev.Interdisciplinary.Music.Rhythm"
             },
             {
-                "title": "Move.MotoDiagram.MotoTimeline"
+                "title": "Move.MoveDiagram.MoveTimeline"
             },
             {
-                "title": "Move.MotoAttributes.MotoDuration"
+                "title": "Move.MoveAttributes.MoveDuration"
             },
             {
-                "title": "Move.MotoPhrase"
+                "title": "Move.MovePhrase"
             },
             {
-                "title": "Move.MotoPhrase.MotoRhythm"
+                "title": "Move.MovePhrase.MoveRhythm"
             },
             {
                 "title": "PlantaBeta"
@@ -18085,19 +18085,19 @@ tags = [
                     "title": "Dev.Interdisciplinary.Music.Rhythm"
                 },
                 {
-                    "title": "Move.MotoAttributes.MotoType.RestMoto"
+                    "title": "Move.MoveAttributes.MoveType.RestMove"
                 },
                 {
-                    "title": "Move.MotoPhrase.MotoDensity"
+                    "title": "Move.MovePhrase.MoveDensity"
                 },
                 {
-                    "title": "Move.MotoPhrase.MotoEndurance"
+                    "title": "Move.MovePhrase.MoveEndurance"
                 },
                 {
-                    "title": "Move.MotoPhrase.MotoRhythm"
+                    "title": "Move.MovePhrase.MoveRhythm"
                 },
                 {
-                    "title": "Move.MotoPhrase.MotoTempo"
+                    "title": "Move.MovePhrase.MoveTempo"
                 },
                 {
                     "title": "PlantaBeta"
@@ -18120,19 +18120,19 @@ tags = [
                 "title": "Dev.Interdisciplinary.Music.Rhythm"
             },
             {
-                "title": "Move.MotoAttributes.MotoType.RestMoto"
+                "title": "Move.MoveAttributes.MoveType.RestMove"
             },
             {
-                "title": "Move.MotoPhrase.MotoDensity"
+                "title": "Move.MovePhrase.MoveDensity"
             },
             {
-                "title": "Move.MotoPhrase.MotoEndurance"
+                "title": "Move.MovePhrase.MoveEndurance"
             },
             {
-                "title": "Move.MotoPhrase.MotoRhythm"
+                "title": "Move.MovePhrase.MoveRhythm"
             },
             {
-                "title": "Move.MotoPhrase.MotoTempo"
+                "title": "Move.MovePhrase.MoveTempo"
             },
             {
                 "title": "PlantaBeta"
@@ -18228,10 +18228,10 @@ tags = [
                     "title": "Move.ArmMove.ArmSwing"
                 },
                 {
-                    "title": "Move.MotoPoint.MotoPausePoint"
+                    "title": "Move.MovePoint.MovePausePoint"
                 },
                 {
-                    "title": "Move.MotoPhrase.InitiationMoto"
+                    "title": "Move.MovePhrase.InitiationMove"
                 },
                 {
                     "title": "Psike.Music",
@@ -18255,10 +18255,10 @@ tags = [
                 "title": "Move.ArmMove.ArmSwing"
             },
             {
-                "title": "Move.MotoPoint.MotoPausePoint"
+                "title": "Move.MovePoint.MovePausePoint"
             },
             {
-                "title": "Move.MotoPhrase.InitiationMoto"
+                "title": "Move.MovePhrase.InitiationMove"
             },
             {
                 "title": "Psike.Music",
@@ -18288,19 +18288,19 @@ tags = [
                     "title": "Dev.Interdisciplinary.Climbing"
                 },
                 {
-                    "title": "Move.MotoPhrase"
+                    "title": "Move.MovePhrase"
                 },
                 {
-                    "title": "Move.MotoPhrase.ContiguousMoto"
+                    "title": "Move.MovePhrase.ContiguousMove"
                 },
                 {
-                    "title": "Move.MotoPhrase.MotoNestedPhrase"
+                    "title": "Move.MovePhrase.MoveNestedPhrase"
                 },
                 {
-                    "title": "Move.MotoPhrase.MotoOverlap"
+                    "title": "Move.MovePhrase.MoveOverlap"
                 },
                 {
-                    "title": "Move.Overview.MotoHierarchy.Submoto"
+                    "title": "Move.Overview.MoveHierarchy.Submoto"
                 },
                 {
                     "title": "PlantaBeta"
@@ -18323,19 +18323,19 @@ tags = [
                 "title": "Dev.Interdisciplinary.Climbing"
             },
             {
-                "title": "Move.MotoPhrase"
+                "title": "Move.MovePhrase"
             },
             {
-                "title": "Move.MotoPhrase.ContiguousMoto"
+                "title": "Move.MovePhrase.ContiguousMove"
             },
             {
-                "title": "Move.MotoPhrase.MotoNestedPhrase"
+                "title": "Move.MovePhrase.MoveNestedPhrase"
             },
             {
-                "title": "Move.MotoPhrase.MotoOverlap"
+                "title": "Move.MovePhrase.MoveOverlap"
             },
             {
-                "title": "Move.Overview.MotoHierarchy.Submoto"
+                "title": "Move.Overview.MoveHierarchy.Submoto"
             },
             {
                 "title": "PlantaBeta"
@@ -18395,7 +18395,7 @@ tags = [
                     "title": "Dev.PageLayout.CloseUp"
                 },
                 {
-                    "title": "Move.MotoDiagram.MotoTimeline"
+                    "title": "Move.MoveDiagram.MoveTimeline"
                 },
                 {
                     "title": "PlantaBeta"
@@ -18450,7 +18450,7 @@ tags = [
                 "title": "Dev.PageLayout.CloseUp"
             },
             {
-                "title": "Move.MotoDiagram.MotoTimeline"
+                "title": "Move.MoveDiagram.MoveTimeline"
             },
             {
                 "title": "PlantaBeta"
@@ -18479,13 +18479,13 @@ tags = [
                     "title": "Dev.PageLayout"
                 },
                 {
-                    "title": "Move.MotoCard"
+                    "title": "Move.MoveCard"
                 },
                 {
-                    "title": "Move.MotoDiagram.MotoTimeline"
+                    "title": "Move.MoveDiagram.MoveTimeline"
                 },
                 {
-                    "title": "Move.Overview.MotoHierarchy.Submoto"
+                    "title": "Move.Overview.MoveHierarchy.Submoto"
                 },
                 {
                     "title": "PlantaBeta"
@@ -18514,13 +18514,13 @@ tags = [
                 "title": "Dev.PageLayout"
             },
             {
-                "title": "Move.MotoCard"
+                "title": "Move.MoveCard"
             },
             {
-                "title": "Move.MotoDiagram.MotoTimeline"
+                "title": "Move.MoveDiagram.MoveTimeline"
             },
             {
-                "title": "Move.Overview.MotoHierarchy.Submoto"
+                "title": "Move.Overview.MoveHierarchy.Submoto"
             },
             {
                 "title": "PlantaBeta"
@@ -18553,25 +18553,25 @@ tags = [
                     "title": "Dev.System.Function"
                 },
                 {
-                    "title": "Move.MotoComposition.MotoSelection"
+                    "title": "Move.MoveComposition.MoveSelection"
                 },
                 {
-                    "title": "Move.MotoAttributes.MotoDependencies.DependentMoto"
+                    "title": "Move.MoveAttributes.MoveDependencies.DependentMove"
                 },
                 {
-                    "title": "Move.MotoAttributes.MotoDependencies.IndependentMoto"
+                    "title": "Move.MoveAttributes.MoveDependencies.IndependentMove"
                 },
                 {
-                    "title": "Move.MotoAttributes.MotoDependencies.Overview"
+                    "title": "Move.MoveAttributes.MoveDependencies.Overview"
                 },
                 {
-                    "title": "Move.MotoPhrase.AnteMoto"
+                    "title": "Move.MovePhrase.AnteMove"
                 },
                 {
-                    "title": "Move.MotoPhrase.ContiguousMoto"
+                    "title": "Move.MovePhrase.ContiguousMove"
                 },
                 {
-                    "title": "Move.MotoPhrase.PostMoto"
+                    "title": "Move.MovePhrase.PostMove"
                 },
                 {
                     "title": "PlantaBeta"
@@ -18596,25 +18596,25 @@ tags = [
                 "title": "Dev.System.Function"
             },
             {
-                "title": "Move.MotoComposition.MotoSelection"
+                "title": "Move.MoveComposition.MoveSelection"
             },
             {
-                "title": "Move.MotoAttributes.MotoDependencies.DependentMoto"
+                "title": "Move.MoveAttributes.MoveDependencies.DependentMove"
             },
             {
-                "title": "Move.MotoAttributes.MotoDependencies.IndependentMoto"
+                "title": "Move.MoveAttributes.MoveDependencies.IndependentMove"
             },
             {
-                "title": "Move.MotoAttributes.MotoDependencies.Overview"
+                "title": "Move.MoveAttributes.MoveDependencies.Overview"
             },
             {
-                "title": "Move.MotoPhrase.AnteMoto"
+                "title": "Move.MovePhrase.AnteMove"
             },
             {
-                "title": "Move.MotoPhrase.ContiguousMoto"
+                "title": "Move.MovePhrase.ContiguousMove"
             },
             {
-                "title": "Move.MotoPhrase.PostMoto"
+                "title": "Move.MovePhrase.PostMove"
             },
             {
                 "title": "PlantaBeta"
@@ -18738,10 +18738,10 @@ tags = [
                     "title": "Dev.Interdisciplinary.Climbing"
                 },
                 {
-                    "title": "Move.MotoCard"
+                    "title": "Move.MoveCard"
                 },
                 {
-                    "title": "Move.Overview.MotoHierarchy"
+                    "title": "Move.Overview.MoveHierarchy"
                 },
                 {
                     "title": "PlantaBeta"
@@ -18769,10 +18769,10 @@ tags = [
                 "title": "Dev.Interdisciplinary.Climbing"
             },
             {
-                "title": "Move.MotoCard"
+                "title": "Move.MoveCard"
             },
             {
-                "title": "Move.Overview.MotoHierarchy"
+                "title": "Move.Overview.MoveHierarchy"
             },
             {
                 "title": "PlantaBeta"
@@ -18810,13 +18810,13 @@ tags = [
                     "title": "Dev.PageLayout.CloseUp"
                 },
                 {
-                    "title": "Move.CoordinationMoto"
+                    "title": "Move.CoordinationMove"
                 },
                 {
-                    "title": "Move.MotoDiagram.MotoTimeline"
+                    "title": "Move.MoveDiagram.MoveTimeline"
                 },
                 {
-                    "title": "Move.MotoPhrase"
+                    "title": "Move.MovePhrase"
                 },
                 {
                     "title": "Psike.Chunking",
@@ -18859,13 +18859,13 @@ tags = [
                 "title": "Dev.PageLayout.CloseUp"
             },
             {
-                "title": "Move.CoordinationMoto"
+                "title": "Move.CoordinationMove"
             },
             {
-                "title": "Move.MotoDiagram.MotoTimeline"
+                "title": "Move.MoveDiagram.MoveTimeline"
             },
             {
-                "title": "Move.MotoPhrase"
+                "title": "Move.MovePhrase"
             },
             {
                 "title": "Psike.Chunking",
@@ -19085,13 +19085,13 @@ tags = [
                     "title": "Dev.Infographic.PeriodicTable"
                 },
                 {
-                    "title": "Move.MotoName.Overview"
+                    "title": "Move.MoveName.Overview"
                 },
                 {
-                    "title": "Move.MotoAttributes.MotoType"
+                    "title": "Move.MoveAttributes.MoveType"
                 },
                 {
-                    "title": "Move.MotoType"
+                    "title": "Move.MoveType"
                 },
                 {
                     "title": "PlantaBeta"
@@ -19114,13 +19114,13 @@ tags = [
                 "title": "Dev.Infographic.PeriodicTable"
             },
             {
-                "title": "Move.MotoName.Overview"
+                "title": "Move.MoveName.Overview"
             },
             {
-                "title": "Move.MotoAttributes.MotoType"
+                "title": "Move.MoveAttributes.MoveType"
             },
             {
-                "title": "Move.MotoType"
+                "title": "Move.MoveType"
             },
             {
                 "title": "PlantaBeta"
@@ -19210,28 +19210,28 @@ tags = [
                     "title": "Move.ClothingMove.Overview"
                 },
                 {
-                    "title": "Move.MotoError.Slip.Overview"
+                    "title": "Move.MoveError.Slip.Overview"
                 },
                 {
-                    "title": "Move.MotoPoint.MotoFinishPoint"
+                    "title": "Move.MovePoint.MoveFinishPoint"
                 },
                 {
-                    "title": "Move.MotoPoint.MotoStartPoint"
+                    "title": "Move.MovePoint.MoveStartPoint"
                 },
                 {
-                    "title": "Move.MotoPhrase.Attempt"
+                    "title": "Move.MovePhrase.Attempt"
                 },
                 {
                     "title": "PlantaBeta"
                 },
                 {
-                    "title": "Via.Flag.FlagLine.FlagLineIn.StartPoint"
+                    "title": "Via.Marka.MarkaLine.MarkaLineIn.StartPoint"
                 },
                 {
                     "title": "Via.ReadLand"
                 },
                 {
-                    "title": "Tests.MotoTest.VideoAnswer"
+                    "title": "Tests.MoveTest.VideoAnswer"
                 },
                 {
                     "title": "TagTest"
@@ -19263,28 +19263,28 @@ tags = [
                 "title": "Move.ClothingMove.Overview"
             },
             {
-                "title": "Move.MotoError.Slip.Overview"
+                "title": "Move.MoveError.Slip.Overview"
             },
             {
-                "title": "Move.MotoPoint.MotoFinishPoint"
+                "title": "Move.MovePoint.MoveFinishPoint"
             },
             {
-                "title": "Move.MotoPoint.MotoStartPoint"
+                "title": "Move.MovePoint.MoveStartPoint"
             },
             {
-                "title": "Move.MotoPhrase.Attempt"
+                "title": "Move.MovePhrase.Attempt"
             },
             {
                 "title": "PlantaBeta"
             },
             {
-                "title": "Via.Flag.FlagLine.FlagLineIn.StartPoint"
+                "title": "Via.Marka.MarkaLine.MarkaLineIn.StartPoint"
             },
             {
                 "title": "Via.ReadLand"
             },
             {
-                "title": "Tests.MotoTest.VideoAnswer"
+                "title": "Tests.MoveTest.VideoAnswer"
             },
             {
                 "title": "TagTest"
@@ -19479,7 +19479,7 @@ tags = [
                     "title": "Guide.Who.PlanterInstructor.InstructorGuide.Template"
                 },
                 {
-                    "title": "Move.Overview.MotoType"
+                    "title": "Move.Overview.MoveType"
                 },
                 {
                     "title": "Psike.Logic.Boolean",
@@ -19527,7 +19527,7 @@ tags = [
                 "title": "Guide.Who.PlanterInstructor.InstructorGuide.Template"
             },
             {
-                "title": "Move.Overview.MotoType"
+                "title": "Move.Overview.MoveType"
             },
             {
                 "title": "Psike.Logic.Boolean",
@@ -19557,16 +19557,16 @@ tags = [
                     "title": "Dev.Difficulty.RelativeDifficulty"
                 },
                 {
-                    "title": "Move.MotoDifficulty.MotoIntensity"
+                    "title": "Move.MoveDifficulty.MoveIntensity"
                 },
                 {
-                    "title": "Move.MotoDifficulty.Overview"
+                    "title": "Move.MoveDifficulty.Overview"
                 },
                 {
-                    "title": "Move.MotoType.DynamicMoto"
+                    "title": "Move.MoveType.DynamicMove"
                 },
                 {
-                    "title": "Move.MotoType.StaticMoto"
+                    "title": "Move.MoveType.StaticMove"
                 },
                 {
                     "title": "PlantaBeta"
@@ -19586,16 +19586,16 @@ tags = [
                 "title": "Dev.Difficulty.RelativeDifficulty"
             },
             {
-                "title": "Move.MotoDifficulty.MotoIntensity"
+                "title": "Move.MoveDifficulty.MoveIntensity"
             },
             {
-                "title": "Move.MotoDifficulty.Overview"
+                "title": "Move.MoveDifficulty.Overview"
             },
             {
-                "title": "Move.MotoType.DynamicMoto"
+                "title": "Move.MoveType.DynamicMove"
             },
             {
-                "title": "Move.MotoType.StaticMoto"
+                "title": "Move.MoveType.StaticMove"
             },
             {
                 "title": "PlantaBeta"
@@ -19624,16 +19624,16 @@ tags = [
                     "title": "Land.LandSpeed.Overview"
                 },
                 {
-                    "title": "Move.MotoDiagram.MotoTimeline"
+                    "title": "Move.MoveDiagram.MoveTimeline"
                 },
                 {
-                    "title": "Move.MotoDifficulty.MotoComplexity"
+                    "title": "Move.MoveDifficulty.MoveComplexity"
                 },
                 {
-                    "title": "Move.MotoPhrase"
+                    "title": "Move.MovePhrase"
                 },
                 {
-                    "title": "Move.Overview.MotoHierarchy.Submoto"
+                    "title": "Move.Overview.MoveHierarchy.Submoto"
                 },
                 {
                     "title": "Psike.Decision",
@@ -19675,16 +19675,16 @@ tags = [
                 "title": "Land.LandSpeed.Overview"
             },
             {
-                "title": "Move.MotoDiagram.MotoTimeline"
+                "title": "Move.MoveDiagram.MoveTimeline"
             },
             {
-                "title": "Move.MotoDifficulty.MotoComplexity"
+                "title": "Move.MoveDifficulty.MoveComplexity"
             },
             {
-                "title": "Move.MotoPhrase"
+                "title": "Move.MovePhrase"
             },
             {
-                "title": "Move.Overview.MotoHierarchy.Submoto"
+                "title": "Move.Overview.MoveHierarchy.Submoto"
             },
             {
                 "title": "Psike.Decision",
@@ -19723,7 +19723,7 @@ tags = [
                     "title": "Beta.BetaDifficulty.BetaIntensity"
                 },
                 {
-                    "title": "Move.MotoDifficulty.MotoIntensity"
+                    "title": "Move.MoveDifficulty.MoveIntensity"
                 },
                 {
                     "title": "Move.Physics.Force"
@@ -19746,7 +19746,7 @@ tags = [
                 "title": "Beta.BetaDifficulty.BetaIntensity"
             },
             {
-                "title": "Move.MotoDifficulty.MotoIntensity"
+                "title": "Move.MoveDifficulty.MoveIntensity"
             },
             {
                 "title": "Move.Physics.Force"
@@ -19808,19 +19808,19 @@ tags = [
                     "title": "Move.HandMove.TreeFlip"
                 },
                 {
-                    "title": "Move.MotoDifficulty.MotoComplexity"
+                    "title": "Move.MoveDifficulty.MoveComplexity"
                 },
                 {
-                    "title": "Move.MotoDifficulty.MotoIntensity"
+                    "title": "Move.MoveDifficulty.MoveIntensity"
                 },
                 {
-                    "title": "Move.MotoDifficulty.MotoRisk"
+                    "title": "Move.MoveDifficulty.MoveRisk"
                 },
                 {
-                    "title": "Move.MotoSpace.Overview"
+                    "title": "Move.MoveSpace.Overview"
                 },
                 {
-                    "title": "Move.Overview.MotoHierarchy.Submoto"
+                    "title": "Move.Overview.MoveHierarchy.Submoto"
                 },
                 {
                     "title": "Move.Physics.Direction"
@@ -19930,19 +19930,19 @@ tags = [
                 "title": "Move.HandMove.TreeFlip"
             },
             {
-                "title": "Move.MotoDifficulty.MotoComplexity"
+                "title": "Move.MoveDifficulty.MoveComplexity"
             },
             {
-                "title": "Move.MotoDifficulty.MotoIntensity"
+                "title": "Move.MoveDifficulty.MoveIntensity"
             },
             {
-                "title": "Move.MotoDifficulty.MotoRisk"
+                "title": "Move.MoveDifficulty.MoveRisk"
             },
             {
-                "title": "Move.MotoSpace.Overview"
+                "title": "Move.MoveSpace.Overview"
             },
             {
-                "title": "Move.Overview.MotoHierarchy.Submoto"
+                "title": "Move.Overview.MoveHierarchy.Submoto"
             },
             {
                 "title": "Move.Physics.Direction"
@@ -20246,7 +20246,7 @@ tags = [
                     "title": "Land.LandDifficulty.LandRisk"
                 },
                 {
-                    "title": "Move.MotoDifficulty.MotoRisk"
+                    "title": "Move.MoveDifficulty.MoveRisk"
                 },
                 {
                     "title": "Psike.Alignment.AlignmentRange",
@@ -20311,7 +20311,7 @@ tags = [
                 "title": "Land.LandDifficulty.LandRisk"
             },
             {
-                "title": "Move.MotoDifficulty.MotoRisk"
+                "title": "Move.MoveDifficulty.MoveRisk"
             },
             {
                 "title": "Psike.Alignment.AlignmentRange",
@@ -20552,19 +20552,19 @@ tags = [
                     "title": "Dev.Interdisciplinary.Climbing"
                 },
                 {
-                    "title": "Move.MotoPoint.MotoFinishPoint"
+                    "title": "Move.MovePoint.MoveFinishPoint"
                 },
                 {
-                    "title": "Move.MotoPoint.MotoStartPoint"
+                    "title": "Move.MovePoint.MoveStartPoint"
                 },
                 {
-                    "title": "Move.MotoPoint.Overview"
+                    "title": "Move.MovePoint.Overview"
                 },
                 {
-                    "title": "Move.MotoShape"
+                    "title": "Move.MoveShape"
                 },
                 {
-                    "title": "Move.MotoSpace.Overview"
+                    "title": "Move.MoveSpace.Overview"
                 },
                 {
                     "title": "PlantaBeta"
@@ -20617,19 +20617,19 @@ tags = [
                 "title": "Dev.Interdisciplinary.Climbing"
             },
             {
-                "title": "Move.MotoPoint.MotoFinishPoint"
+                "title": "Move.MovePoint.MoveFinishPoint"
             },
             {
-                "title": "Move.MotoPoint.MotoStartPoint"
+                "title": "Move.MovePoint.MoveStartPoint"
             },
             {
-                "title": "Move.MotoPoint.Overview"
+                "title": "Move.MovePoint.Overview"
             },
             {
-                "title": "Move.MotoShape"
+                "title": "Move.MoveShape"
             },
             {
-                "title": "Move.MotoSpace.Overview"
+                "title": "Move.MoveSpace.Overview"
             },
             {
                 "title": "PlantaBeta"
@@ -20670,16 +20670,16 @@ tags = [
                     "title": "Move.ArmMove.ArmRow"
                 },
                 {
-                    "title": "Move.MotoDiagram.MotoTimeline"
+                    "title": "Move.MoveDiagram.MoveTimeline"
                 },
                 {
-                    "title": "Move.MotoLine"
+                    "title": "Move.MoveLine"
                 },
                 {
                     "title": "PlantaBeta"
                 },
                 {
-                    "title": "Tests.MotoTest.VideoAnswer"
+                    "title": "Tests.MoveTest.VideoAnswer"
                 },
                 {
                     "title": "TagTest"
@@ -20708,16 +20708,16 @@ tags = [
                 "title": "Move.ArmMove.ArmRow"
             },
             {
-                "title": "Move.MotoDiagram.MotoTimeline"
+                "title": "Move.MoveDiagram.MoveTimeline"
             },
             {
-                "title": "Move.MotoLine"
+                "title": "Move.MoveLine"
             },
             {
                 "title": "PlantaBeta"
             },
             {
-                "title": "Tests.MotoTest.VideoAnswer"
+                "title": "Tests.MoveTest.VideoAnswer"
             },
             {
                 "title": "TagTest"
@@ -20831,10 +20831,10 @@ tags = [
                     "title": "Dev.Transcription"
                 },
                 {
-                    "title": "Move.MotoCard"
+                    "title": "Move.MoveCard"
                 },
                 {
-                    "title": "Move.MotoDiagram.MotoTimeline"
+                    "title": "Move.MoveDiagram.MoveTimeline"
                 },
                 {
                     "title": "Psike.Alignment",
@@ -20867,10 +20867,10 @@ tags = [
                 "title": "Dev.Transcription"
             },
             {
-                "title": "Move.MotoCard"
+                "title": "Move.MoveCard"
             },
             {
-                "title": "Move.MotoDiagram.MotoTimeline"
+                "title": "Move.MoveDiagram.MoveTimeline"
             },
             {
                 "title": "Psike.Alignment",
@@ -20998,13 +20998,13 @@ tags = [
                     "title": "Move.LegMove.Overview"
                 },
                 {
-                    "title": "Move.MotoCard"
+                    "title": "Move.MoveCard"
                 },
                 {
-                    "title": "Move.MotoDiagram.MotoTimeline"
+                    "title": "Move.MoveDiagram.MoveTimeline"
                 },
                 {
-                    "title": "Move.Overview.MotoHierarchy.Submoto"
+                    "title": "Move.Overview.MoveHierarchy.Submoto"
                 },
                 {
                     "title": "Move.Physics.Direction"
@@ -21033,13 +21033,13 @@ tags = [
                 "title": "Move.LegMove.Overview"
             },
             {
-                "title": "Move.MotoCard"
+                "title": "Move.MoveCard"
             },
             {
-                "title": "Move.MotoDiagram.MotoTimeline"
+                "title": "Move.MoveDiagram.MoveTimeline"
             },
             {
-                "title": "Move.Overview.MotoHierarchy.Submoto"
+                "title": "Move.Overview.MoveHierarchy.Submoto"
             },
             {
                 "title": "Move.Physics.Direction"
@@ -21071,13 +21071,13 @@ tags = [
                     "title": "Move.HandMove.Overview"
                 },
                 {
-                    "title": "Move.MotoCard"
+                    "title": "Move.MoveCard"
                 },
                 {
-                    "title": "Move.MotoDiagram.MotoTimeline"
+                    "title": "Move.MoveDiagram.MoveTimeline"
                 },
                 {
-                    "title": "Move.Overview.MotoHierarchy.Submoto"
+                    "title": "Move.Overview.MoveHierarchy.Submoto"
                 },
                 {
                     "title": "PlantaBeta"
@@ -21103,13 +21103,13 @@ tags = [
                 "title": "Move.HandMove.Overview"
             },
             {
-                "title": "Move.MotoCard"
+                "title": "Move.MoveCard"
             },
             {
-                "title": "Move.MotoDiagram.MotoTimeline"
+                "title": "Move.MoveDiagram.MoveTimeline"
             },
             {
-                "title": "Move.Overview.MotoHierarchy.Submoto"
+                "title": "Move.Overview.MoveHierarchy.Submoto"
             },
             {
                 "title": "PlantaBeta"
@@ -21135,13 +21135,13 @@ tags = [
                     "title": "Move.HandMove.PinchGrip"
                 },
                 {
-                    "title": "Move.MotoCard"
+                    "title": "Move.MoveCard"
                 },
                 {
-                    "title": "Move.MotoDiagram.MotoTimeline"
+                    "title": "Move.MoveDiagram.MoveTimeline"
                 },
                 {
-                    "title": "Move.MotoName.Overview"
+                    "title": "Move.MoveName.Overview"
                 },
                 {
                     "title": "Move.Physics.Force"
@@ -21170,13 +21170,13 @@ tags = [
                 "title": "Move.HandMove.PinchGrip"
             },
             {
-                "title": "Move.MotoCard"
+                "title": "Move.MoveCard"
             },
             {
-                "title": "Move.MotoDiagram.MotoTimeline"
+                "title": "Move.MoveDiagram.MoveTimeline"
             },
             {
-                "title": "Move.MotoName.Overview"
+                "title": "Move.MoveName.Overview"
             },
             {
                 "title": "Move.Physics.Force"
@@ -21214,10 +21214,10 @@ tags = [
                     "title": "Dev.Transcription"
                 },
                 {
-                    "title": "Move.MotoCard"
+                    "title": "Move.MoveCard"
                 },
                 {
-                    "title": "Move.MotoDiagram.MotoTimeline"
+                    "title": "Move.MoveDiagram.MoveTimeline"
                 },
                 {
                     "title": "PlantaBeta"
@@ -21246,10 +21246,10 @@ tags = [
                 "title": "Dev.Transcription"
             },
             {
-                "title": "Move.MotoCard"
+                "title": "Move.MoveCard"
             },
             {
-                "title": "Move.MotoDiagram.MotoTimeline"
+                "title": "Move.MoveDiagram.MoveTimeline"
             },
             {
                 "title": "PlantaBeta"
@@ -21275,16 +21275,16 @@ tags = [
                     "title": "Move.HandMove.Overview"
                 },
                 {
-                    "title": "Move.MotoCard"
+                    "title": "Move.MoveCard"
                 },
                 {
-                    "title": "Move.MotoDiagram.MotoTimeline"
+                    "title": "Move.MoveDiagram.MoveTimeline"
                 },
                 {
-                    "title": "Move.MotoDiagram.Overview"
+                    "title": "Move.MoveDiagram.Overview"
                 },
                 {
-                    "title": "Move.MotoLine"
+                    "title": "Move.MoveLine"
                 },
                 {
                     "title": "PlantaBeta"
@@ -21307,16 +21307,16 @@ tags = [
                 "title": "Move.HandMove.Overview"
             },
             {
-                "title": "Move.MotoCard"
+                "title": "Move.MoveCard"
             },
             {
-                "title": "Move.MotoDiagram.MotoTimeline"
+                "title": "Move.MoveDiagram.MoveTimeline"
             },
             {
-                "title": "Move.MotoDiagram.Overview"
+                "title": "Move.MoveDiagram.Overview"
             },
             {
-                "title": "Move.MotoLine"
+                "title": "Move.MoveLine"
             },
             {
                 "title": "PlantaBeta"
@@ -21339,7 +21339,7 @@ tags = [
                     "title": "Move.ArmMove.Overview"
                 },
                 {
-                    "title": "Move.MotoDiagram.Overview"
+                    "title": "Move.MoveDiagram.Overview"
                 },
                 {
                     "title": "PlantaBeta"
@@ -21359,7 +21359,7 @@ tags = [
                 "title": "Move.ArmMove.Overview"
             },
             {
-                "title": "Move.MotoDiagram.Overview"
+                "title": "Move.MoveDiagram.Overview"
             },
             {
                 "title": "PlantaBeta"
@@ -21434,7 +21434,7 @@ tags = [
                     "title": "Move.LegMove.SupportingLeg"
                 },
                 {
-                    "title": "Move.MotoCard"
+                    "title": "Move.MoveCard"
                 },
                 {
                     "title": "PlantaBeta"
@@ -21463,7 +21463,7 @@ tags = [
                 "title": "Move.LegMove.SupportingLeg"
             },
             {
-                "title": "Move.MotoCard"
+                "title": "Move.MoveCard"
             },
             {
                 "title": "PlantaBeta"
@@ -21492,7 +21492,7 @@ tags = [
                     "title": "Dev.System.Byrne"
                 },
                 {
-                    "title": "Move.MotoPhrase"
+                    "title": "Move.MovePhrase"
                 },
                 {
                     "title": "PlantaBeta"
@@ -21521,7 +21521,7 @@ tags = [
                 "title": "Dev.System.Byrne"
             },
             {
-                "title": "Move.MotoPhrase"
+                "title": "Move.MovePhrase"
             },
             {
                 "title": "PlantaBeta"
@@ -21550,7 +21550,7 @@ tags = [
                     "title": "Move.HandMove.Overview"
                 },
                 {
-                    "title": "Move.MotoDiagram.Overview"
+                    "title": "Move.MoveDiagram.Overview"
                 },
                 {
                     "title": "PlantaBeta"
@@ -21573,7 +21573,7 @@ tags = [
                 "title": "Move.HandMove.Overview"
             },
             {
-                "title": "Move.MotoDiagram.Overview"
+                "title": "Move.MoveDiagram.Overview"
             },
             {
                 "title": "PlantaBeta"
@@ -21602,10 +21602,10 @@ tags = [
                     "title": "Move.HeadMove.LookAt"
                 },
                 {
-                    "title": "Move.MotoLine"
+                    "title": "Move.MoveLine"
                 },
                 {
-                    "title": "Move.MotoType.DynamicMoto"
+                    "title": "Move.MoveType.DynamicMove"
                 },
                 {
                     "title": "PlantaBeta"
@@ -21631,10 +21631,10 @@ tags = [
                 "title": "Move.HeadMove.LookAt"
             },
             {
-                "title": "Move.MotoLine"
+                "title": "Move.MoveLine"
             },
             {
-                "title": "Move.MotoType.DynamicMoto"
+                "title": "Move.MoveType.DynamicMove"
             },
             {
                 "title": "PlantaBeta"
@@ -21666,10 +21666,10 @@ tags = [
                     "title": "Dev.System.Byrne"
                 },
                 {
-                    "title": "Move.MotoCard"
+                    "title": "Move.MoveCard"
                 },
                 {
-                    "title": "Move.MotoDiagram.MotoTimeline"
+                    "title": "Move.MoveDiagram.MoveTimeline"
                 },
                 {
                     "title": "PlantaBeta"
@@ -21698,10 +21698,10 @@ tags = [
                 "title": "Dev.System.Byrne"
             },
             {
-                "title": "Move.MotoCard"
+                "title": "Move.MoveCard"
             },
             {
-                "title": "Move.MotoDiagram.MotoTimeline"
+                "title": "Move.MoveDiagram.MoveTimeline"
             },
             {
                 "title": "PlantaBeta"
@@ -21739,10 +21739,10 @@ tags = [
                     "title": "Move.ArmMove.ArmSwing"
                 },
                 {
-                    "title": "Move.MotoCard"
+                    "title": "Move.MoveCard"
                 },
                 {
-                    "title": "Move.MotoDiagram.MotoTimeline"
+                    "title": "Move.MoveDiagram.MoveTimeline"
                 },
                 {
                     "title": "PlantaBeta"
@@ -21777,10 +21777,10 @@ tags = [
                 "title": "Move.ArmMove.ArmSwing"
             },
             {
-                "title": "Move.MotoCard"
+                "title": "Move.MoveCard"
             },
             {
-                "title": "Move.MotoDiagram.MotoTimeline"
+                "title": "Move.MoveDiagram.MoveTimeline"
             },
             {
                 "title": "PlantaBeta"
@@ -21812,13 +21812,13 @@ tags = [
                     "title": "Dev.Transcription"
                 },
                 {
-                    "title": "Move.MotoDiagram.MotoTimeline"
+                    "title": "Move.MoveDiagram.MoveTimeline"
                 },
                 {
-                    "title": "Move.MotoDiagram.Overview"
+                    "title": "Move.MoveDiagram.Overview"
                 },
                 {
-                    "title": "Move.Overview.MotoHierarchy.Submoto"
+                    "title": "Move.Overview.MoveHierarchy.Submoto"
                 },
                 {
                     "title": "PlantaBeta"
@@ -21853,13 +21853,13 @@ tags = [
                 "title": "Dev.Transcription"
             },
             {
-                "title": "Move.MotoDiagram.MotoTimeline"
+                "title": "Move.MoveDiagram.MoveTimeline"
             },
             {
-                "title": "Move.MotoDiagram.Overview"
+                "title": "Move.MoveDiagram.Overview"
             },
             {
-                "title": "Move.Overview.MotoHierarchy.Submoto"
+                "title": "Move.Overview.MoveHierarchy.Submoto"
             },
             {
                 "title": "PlantaBeta"
@@ -21945,13 +21945,13 @@ tags = [
                     "title": "Dev.Element.ElementDiagram.ColorCode"
                 },
                 {
-                    "title": "Move.MotoDiagram.Overview"
+                    "title": "Move.MoveDiagram.Overview"
                 },
                 {
-                    "title": "Move.MotoType.DynamicMoto"
+                    "title": "Move.MoveType.DynamicMove"
                 },
                 {
-                    "title": "Move.MotoType.StaticMoto"
+                    "title": "Move.MoveType.StaticMove"
                 },
                 {
                     "title": "PlantaBeta"
@@ -21971,13 +21971,13 @@ tags = [
                 "title": "Dev.Element.ElementDiagram.ColorCode"
             },
             {
-                "title": "Move.MotoDiagram.Overview"
+                "title": "Move.MoveDiagram.Overview"
             },
             {
-                "title": "Move.MotoType.DynamicMoto"
+                "title": "Move.MoveType.DynamicMove"
             },
             {
-                "title": "Move.MotoType.StaticMoto"
+                "title": "Move.MoveType.StaticMove"
             },
             {
                 "title": "PlantaBeta"
@@ -22319,13 +22319,13 @@ tags = [
                     "title": "Move.LegMove.LegRockUp"
                 },
                 {
-                    "title": "Move.MotoCard"
+                    "title": "Move.MoveCard"
                 },
                 {
-                    "title": "Move.MotoDiagram.MotoTimeline"
+                    "title": "Move.MoveDiagram.MoveTimeline"
                 },
                 {
-                    "title": "Move.MotoPhrase"
+                    "title": "Move.MovePhrase"
                 },
                 {
                     "title": "PlantaBeta"
@@ -22360,13 +22360,13 @@ tags = [
                 "title": "Move.LegMove.LegRockUp"
             },
             {
-                "title": "Move.MotoCard"
+                "title": "Move.MoveCard"
             },
             {
-                "title": "Move.MotoDiagram.MotoTimeline"
+                "title": "Move.MoveDiagram.MoveTimeline"
             },
             {
-                "title": "Move.MotoPhrase"
+                "title": "Move.MovePhrase"
             },
             {
                 "title": "PlantaBeta"
@@ -22395,7 +22395,7 @@ tags = [
                     "title": "Land.Density.Overiew"
                 },
                 {
-                    "title": "Move.MotoSize"
+                    "title": "Move.MoveSize"
                 },
                 {
                     "title": "Move.Overview"
@@ -22424,7 +22424,7 @@ tags = [
                 "title": "Land.Density.Overiew"
             },
             {
-                "title": "Move.MotoSize"
+                "title": "Move.MoveSize"
             },
             {
                 "title": "Move.Overview"
@@ -22456,7 +22456,7 @@ tags = [
                     "title": "Dev.System.Theorem"
                 },
                 {
-                    "title": "Move.MotoDiagram.Overview"
+                    "title": "Move.MoveDiagram.Overview"
                 },
                 {
                     "title": "PlantaBeta"
@@ -22488,7 +22488,7 @@ tags = [
                 "title": "Dev.System.Theorem"
             },
             {
-                "title": "Move.MotoDiagram.Overview"
+                "title": "Move.MoveDiagram.Overview"
             },
             {
                 "title": "PlantaBeta"
@@ -22532,10 +22532,10 @@ tags = [
                     "title": "Land.LandCard"
                 },
                 {
-                    "title": "Move.MotoCard"
+                    "title": "Move.MoveCard"
                 },
                 {
-                    "title": "Move.MotoDiagram.Overview"
+                    "title": "Move.MoveDiagram.Overview"
                 },
                 {
                     "title": "Psike.CognitiveEase.Repetition",
@@ -22586,10 +22586,10 @@ tags = [
                 "title": "Land.LandCard"
             },
             {
-                "title": "Move.MotoCard"
+                "title": "Move.MoveCard"
             },
             {
-                "title": "Move.MotoDiagram.Overview"
+                "title": "Move.MoveDiagram.Overview"
             },
             {
                 "title": "Psike.CognitiveEase.Repetition",
@@ -22816,7 +22816,7 @@ tags = [
                     "title": "Move.BodyMove.Mantle"
                 },
                 {
-                    "title": "Move.MotoDiagram.Overview"
+                    "title": "Move.MoveDiagram.Overview"
                 },
                 {
                     "title": "PlantaBeta"
@@ -22839,7 +22839,7 @@ tags = [
                 "title": "Move.BodyMove.Mantle"
             },
             {
-                "title": "Move.MotoDiagram.Overview"
+                "title": "Move.MoveDiagram.Overview"
             },
             {
                 "title": "PlantaBeta"
@@ -22868,7 +22868,7 @@ tags = [
                     "title": "Dev.ImageLayer"
                 },
                 {
-                    "title": "Move.MotoPhrase"
+                    "title": "Move.MovePhrase"
                 },
                 {
                     "title": "PlantaBeta"
@@ -22894,7 +22894,7 @@ tags = [
                 "title": "Dev.ImageLayer"
             },
             {
-                "title": "Move.MotoPhrase"
+                "title": "Move.MovePhrase"
             },
             {
                 "title": "PlantaBeta"
@@ -22993,13 +22993,13 @@ tags = [
                     "title": "Move.LegMove.LegAbsorb"
                 },
                 {
-                    "title": "Move.MotoPhrase"
+                    "title": "Move.MovePhrase"
                 },
                 {
-                    "title": "Move.Overview.MotoHierarchy"
+                    "title": "Move.Overview.MoveHierarchy"
                 },
                 {
-                    "title": "Move.Overview.MotoHierarchy.Supermoto"
+                    "title": "Move.Overview.MoveHierarchy.Supermoto"
                 },
                 {
                     "title": "Psike.Vision.Find.Overview",
@@ -23026,13 +23026,13 @@ tags = [
                 "title": "Move.LegMove.LegAbsorb"
             },
             {
-                "title": "Move.MotoPhrase"
+                "title": "Move.MovePhrase"
             },
             {
-                "title": "Move.Overview.MotoHierarchy"
+                "title": "Move.Overview.MoveHierarchy"
             },
             {
-                "title": "Move.Overview.MotoHierarchy.Supermoto"
+                "title": "Move.Overview.MoveHierarchy.Supermoto"
             },
             {
                 "title": "Psike.Vision.Find.Overview",
@@ -23068,13 +23068,13 @@ tags = [
                     "title": "Move.LegMove.LegSwing"
                 },
                 {
-                    "title": "Move.MotoCard"
+                    "title": "Move.MoveCard"
                 },
                 {
-                    "title": "Move.MotoDiagram.MotoTimeline"
+                    "title": "Move.MoveDiagram.MoveTimeline"
                 },
                 {
-                    "title": "Move.Overview.MotoHierarchy.Supermoto"
+                    "title": "Move.Overview.MoveHierarchy.Supermoto"
                 },
                 {
                     "title": "PlantaBeta"
@@ -23106,13 +23106,13 @@ tags = [
                 "title": "Move.LegMove.LegSwing"
             },
             {
-                "title": "Move.MotoCard"
+                "title": "Move.MoveCard"
             },
             {
-                "title": "Move.MotoDiagram.MotoTimeline"
+                "title": "Move.MoveDiagram.MoveTimeline"
             },
             {
-                "title": "Move.Overview.MotoHierarchy.Supermoto"
+                "title": "Move.Overview.MoveHierarchy.Supermoto"
             },
             {
                 "title": "PlantaBeta"
@@ -23144,7 +23144,7 @@ tags = [
                     "title": "Dev.Transcription"
                 },
                 {
-                    "title": "Move.MotoPhrase"
+                    "title": "Move.MovePhrase"
                 },
                 {
                     "title": "PlantaBeta"
@@ -23173,7 +23173,7 @@ tags = [
                 "title": "Dev.Transcription"
             },
             {
-                "title": "Move.MotoPhrase"
+                "title": "Move.MovePhrase"
             },
             {
                 "title": "PlantaBeta"
@@ -23205,16 +23205,16 @@ tags = [
                     "title": "Move.BodyMove.Overview"
                 },
                 {
-                    "title": "Move.MotoCard"
+                    "title": "Move.MoveCard"
                 },
                 {
-                    "title": "Move.MotoDiagram.MotoTimeline"
+                    "title": "Move.MoveDiagram.MoveTimeline"
                 },
                 {
-                    "title": "Move.MotoLine"
+                    "title": "Move.MoveLine"
                 },
                 {
-                    "title": "Move.MotoPhrase"
+                    "title": "Move.MovePhrase"
                 },
                 {
                     "title": "PlantaBeta"
@@ -23246,16 +23246,16 @@ tags = [
                 "title": "Move.BodyMove.Overview"
             },
             {
-                "title": "Move.MotoCard"
+                "title": "Move.MoveCard"
             },
             {
-                "title": "Move.MotoDiagram.MotoTimeline"
+                "title": "Move.MoveDiagram.MoveTimeline"
             },
             {
-                "title": "Move.MotoLine"
+                "title": "Move.MoveLine"
             },
             {
-                "title": "Move.MotoPhrase"
+                "title": "Move.MovePhrase"
             },
             {
                 "title": "PlantaBeta"
@@ -23360,7 +23360,7 @@ tags = [
                     "title": "Dev.Transcription"
                 },
                 {
-                    "title": "Move.MotoDiagram.Overview"
+                    "title": "Move.MoveDiagram.Overview"
                 },
                 {
                     "title": "PlantaBeta"
@@ -23389,7 +23389,7 @@ tags = [
                 "title": "Dev.Transcription"
             },
             {
-                "title": "Move.MotoDiagram.Overview"
+                "title": "Move.MoveDiagram.Overview"
             },
             {
                 "title": "PlantaBeta"
@@ -23418,7 +23418,7 @@ tags = [
                     "title": "Guide.What.WhatElement.Euclid"
                 },
                 {
-                    "title": "Move.MotoPlane"
+                    "title": "Move.MovePlane"
                 },
                 {
                     "title": "Move.Physics.Acceleration"
@@ -23457,7 +23457,7 @@ tags = [
                 "title": "Guide.What.WhatElement.Euclid"
             },
             {
-                "title": "Move.MotoPlane"
+                "title": "Move.MovePlane"
             },
             {
                 "title": "Move.Physics.Acceleration"
@@ -23499,7 +23499,7 @@ tags = [
                     "title": "Dev.SheetInking"
                 },
                 {
-                    "title": "Move.MotoDifficulty.MotoComplexity"
+                    "title": "Move.MoveDifficulty.MoveComplexity"
                 },
                 {
                     "title": "PlantaBeta"
@@ -23525,7 +23525,7 @@ tags = [
                 "title": "Dev.SheetInking"
             },
             {
-                "title": "Move.MotoDifficulty.MotoComplexity"
+                "title": "Move.MoveDifficulty.MoveComplexity"
             },
             {
                 "title": "PlantaBeta"
@@ -23611,7 +23611,7 @@ tags = [
                     "title": "Dev.SheetInking"
                 },
                 {
-                    "title": "Move.Overview.MotoType"
+                    "title": "Move.Overview.MoveType"
                 },
                 {
                     "title": "PlantaBeta"
@@ -23637,7 +23637,7 @@ tags = [
                 "title": "Dev.SheetInking"
             },
             {
-                "title": "Move.Overview.MotoType"
+                "title": "Move.Overview.MoveType"
             },
             {
                 "title": "PlantaBeta"
@@ -23672,13 +23672,13 @@ tags = [
                     "title": "Dev.Transcription"
                 },
                 {
-                    "title": "Move.MotoPhrase"
+                    "title": "Move.MovePhrase"
                 },
                 {
-                    "title": "Move.MotoType.DynamicMoto"
+                    "title": "Move.MoveType.DynamicMove"
                 },
                 {
-                    "title": "Move.MotoType.StaticMoto"
+                    "title": "Move.MoveType.StaticMove"
                 },
                 {
                     "title": "PlantaBeta"
@@ -23710,13 +23710,13 @@ tags = [
                 "title": "Dev.Transcription"
             },
             {
-                "title": "Move.MotoPhrase"
+                "title": "Move.MovePhrase"
             },
             {
-                "title": "Move.MotoType.DynamicMoto"
+                "title": "Move.MoveType.DynamicMove"
             },
             {
-                "title": "Move.MotoType.StaticMoto"
+                "title": "Move.MoveType.StaticMove"
             },
             {
                 "title": "PlantaBeta"
@@ -23754,10 +23754,10 @@ tags = [
                     "title": "Dev.Transcription"
                 },
                 {
-                    "title": "Move.Overview.MotoHierarchy.Submoto"
+                    "title": "Move.Overview.MoveHierarchy.Submoto"
                 },
                 {
-                    "title": "Move.Overview.MotoHierarchy.Supermoto"
+                    "title": "Move.Overview.MoveHierarchy.Supermoto"
                 },
                 {
                     "title": "PlantaBeta"
@@ -23792,10 +23792,10 @@ tags = [
                 "title": "Dev.Transcription"
             },
             {
-                "title": "Move.Overview.MotoHierarchy.Submoto"
+                "title": "Move.Overview.MoveHierarchy.Submoto"
             },
             {
-                "title": "Move.Overview.MotoHierarchy.Supermoto"
+                "title": "Move.Overview.MoveHierarchy.Supermoto"
             },
             {
                 "title": "PlantaBeta"
@@ -23865,7 +23865,7 @@ tags = [
                     "title": "Dev.System.Byrne"
                 },
                 {
-                    "title": "Move.MotoShape"
+                    "title": "Move.MoveShape"
                 },
                 {
                     "title": "PlantaBeta"
@@ -23887,7 +23887,7 @@ tags = [
                 "title": "Dev.System.Byrne"
             },
             {
-                "title": "Move.MotoShape"
+                "title": "Move.MoveShape"
             },
             {
                 "title": "PlantaBeta"
@@ -23928,7 +23928,7 @@ tags = [
                     "title": "Move.LegMove.Stomp"
                 },
                 {
-                    "title": "Move.MotoDiagram.Overview"
+                    "title": "Move.MoveDiagram.Overview"
                 },
                 {
                     "title": "PlantaBeta"
@@ -23966,7 +23966,7 @@ tags = [
                 "title": "Move.LegMove.Stomp"
             },
             {
-                "title": "Move.MotoDiagram.Overview"
+                "title": "Move.MoveDiagram.Overview"
             },
             {
                 "title": "PlantaBeta"
@@ -24054,7 +24054,7 @@ tags = [
                     "title": "Dev.Interdisciplinary.Climbing"
                 },
                 {
-                    "title": "Move.MotoPhrase"
+                    "title": "Move.MovePhrase"
                 },
                 {
                     "title": "PlantaBeta"
@@ -24083,7 +24083,7 @@ tags = [
                 "title": "Dev.Interdisciplinary.Climbing"
             },
             {
-                "title": "Move.MotoPhrase"
+                "title": "Move.MovePhrase"
             },
             {
                 "title": "PlantaBeta"
@@ -24118,7 +24118,7 @@ tags = [
                     "title": "Dev.Interdisciplinary.Climbing"
                 },
                 {
-                    "title": "Move.MotoLine"
+                    "title": "Move.MoveLine"
                 },
                 {
                     "title": "PlantaBeta"
@@ -24147,7 +24147,7 @@ tags = [
                 "title": "Dev.Interdisciplinary.Climbing"
             },
             {
-                "title": "Move.MotoLine"
+                "title": "Move.MoveLine"
             },
             {
                 "title": "PlantaBeta"
@@ -24300,7 +24300,7 @@ tags = [
                     "title": "Dev.Infographic.TreeView"
                 },
                 {
-                    "title": "Move.ScreefMove.Overview"
+                    "title": "Move.SkreefMove.Overview"
                 },
                 {
                     "title": "PlantaBeta"
@@ -24323,7 +24323,7 @@ tags = [
                 "title": "Dev.Infographic.TreeView"
             },
             {
-                "title": "Move.ScreefMove.Overview"
+                "title": "Move.SkreefMove.Overview"
             },
             {
                 "title": "PlantaBeta"
@@ -24407,22 +24407,22 @@ tags = [
                     "title": "Guide.Why.Productivity.Efficiency.Redundancy"
                 },
                 {
-                    "title": "Move.MotoComposition.MotoSelection.AlternativeMoto"
+                    "title": "Move.MoveComposition.MoveSelection.AlternativeMove"
                 },
                 {
-                    "title": "Move.MotoComposition.MotoSelection.SubmotoSelection"
+                    "title": "Move.MoveComposition.MoveSelection.SubmotoSelection"
                 },
                 {
-                    "title": "Move.MotoDifficulty.MotoComplexity"
+                    "title": "Move.MoveDifficulty.MoveComplexity"
                 },
                 {
-                    "title": "Move.MotoAttributes.MotoPermutation"
+                    "title": "Move.MoveAttributes.MovePermutation"
                 },
                 {
-                    "title": "Move.MotoPhrase.AnteMoto"
+                    "title": "Move.MovePhrase.AnteMove"
                 },
                 {
-                    "title": "Move.MotoPhrase.PostMoto"
+                    "title": "Move.MovePhrase.PostMove"
                 },
                 {
                     "title": "Move.Physics.Displacement"
@@ -24457,22 +24457,22 @@ tags = [
                 "title": "Guide.Why.Productivity.Efficiency.Redundancy"
             },
             {
-                "title": "Move.MotoComposition.MotoSelection.AlternativeMoto"
+                "title": "Move.MoveComposition.MoveSelection.AlternativeMove"
             },
             {
-                "title": "Move.MotoComposition.MotoSelection.SubmotoSelection"
+                "title": "Move.MoveComposition.MoveSelection.SubmotoSelection"
             },
             {
-                "title": "Move.MotoDifficulty.MotoComplexity"
+                "title": "Move.MoveDifficulty.MoveComplexity"
             },
             {
-                "title": "Move.MotoAttributes.MotoPermutation"
+                "title": "Move.MoveAttributes.MovePermutation"
             },
             {
-                "title": "Move.MotoPhrase.AnteMoto"
+                "title": "Move.MovePhrase.AnteMove"
             },
             {
-                "title": "Move.MotoPhrase.PostMoto"
+                "title": "Move.MovePhrase.PostMove"
             },
             {
                 "title": "Move.Physics.Displacement"
@@ -24550,7 +24550,7 @@ tags = [
                     "title": "Dev.Infographic.TreeView"
                 },
                 {
-                    "title": "Move.ToolMove.FlagMove.Overview"
+                    "title": "Move.ToolMove.MarkaMove.Overview"
                 },
                 {
                     "title": "PlantaBeta"
@@ -24573,7 +24573,7 @@ tags = [
                 "title": "Dev.Infographic.TreeView"
             },
             {
-                "title": "Move.ToolMove.FlagMove.Overview"
+                "title": "Move.ToolMove.MarkaMove.Overview"
             },
             {
                 "title": "PlantaBeta"
@@ -25089,7 +25089,7 @@ tags = [
                     "title": "Dev.Infographic.TreeView"
                 },
                 {
-                    "title": "Move.MotoDiagram.Overview"
+                    "title": "Move.MoveDiagram.Overview"
                 },
                 {
                     "title": "PlantaBeta"
@@ -25112,7 +25112,7 @@ tags = [
                 "title": "Dev.Infographic.TreeView"
             },
             {
-                "title": "Move.MotoDiagram.Overview"
+                "title": "Move.MoveDiagram.Overview"
             },
             {
                 "title": "PlantaBeta"
@@ -25292,10 +25292,10 @@ tags = [
                     "title": "Land.Piece.PieceTopography"
                 },
                 {
-                    "title": "Move.MotoPlane"
+                    "title": "Move.MovePlane"
                 },
                 {
-                    "title": "Move.MotoShape"
+                    "title": "Move.MoveShape"
                 },
                 {
                     "title": "PlantaBeta"
@@ -25321,10 +25321,10 @@ tags = [
                 "title": "Land.Piece.PieceTopography"
             },
             {
-                "title": "Move.MotoPlane"
+                "title": "Move.MovePlane"
             },
             {
-                "title": "Move.MotoShape"
+                "title": "Move.MoveShape"
             },
             {
                 "title": "PlantaBeta"
@@ -25350,16 +25350,16 @@ tags = [
                     "title": "Dev.System.Syntax"
                 },
                 {
-                    "title": "Move.MotoDiagram.MotoTimeline"
+                    "title": "Move.MoveDiagram.MoveTimeline"
                 },
                 {
-                    "title": "Move.MotoPhrase"
+                    "title": "Move.MovePhrase"
                 },
                 {
-                    "title": "Move.Overview.MotoHierarchy.Submoto"
+                    "title": "Move.Overview.MoveHierarchy.Submoto"
                 },
                 {
-                    "title": "Move.Overview.MotoHierarchy.Supermoto"
+                    "title": "Move.Overview.MoveHierarchy.Supermoto"
                 },
                 {
                     "title": "PlantaBeta"
@@ -25382,16 +25382,16 @@ tags = [
                 "title": "Dev.System.Syntax"
             },
             {
-                "title": "Move.MotoDiagram.MotoTimeline"
+                "title": "Move.MoveDiagram.MoveTimeline"
             },
             {
-                "title": "Move.MotoPhrase"
+                "title": "Move.MovePhrase"
             },
             {
-                "title": "Move.Overview.MotoHierarchy.Submoto"
+                "title": "Move.Overview.MoveHierarchy.Submoto"
             },
             {
-                "title": "Move.Overview.MotoHierarchy.Supermoto"
+                "title": "Move.Overview.MoveHierarchy.Supermoto"
             },
             {
                 "title": "PlantaBeta"
@@ -25460,13 +25460,13 @@ tags = [
                     "title": "Dev.Infographic.List"
                 },
                 {
-                    "title": "Move.MotoError.Slip.Overview"
+                    "title": "Move.MoveError.Slip.Overview"
                 },
                 {
-                    "title": "Move.MotoLine"
+                    "title": "Move.MoveLine"
                 },
                 {
-                    "title": "Move.MotoPhrase"
+                    "title": "Move.MovePhrase"
                 },
                 {
                     "title": "PlantaBeta"
@@ -25489,13 +25489,13 @@ tags = [
                 "title": "Dev.Infographic.List"
             },
             {
-                "title": "Move.MotoError.Slip.Overview"
+                "title": "Move.MoveError.Slip.Overview"
             },
             {
-                "title": "Move.MotoLine"
+                "title": "Move.MoveLine"
             },
             {
-                "title": "Move.MotoPhrase"
+                "title": "Move.MovePhrase"
             },
             {
                 "title": "PlantaBeta"
@@ -25530,10 +25530,10 @@ tags = [
                     "title": "Move.LegMove.Crouch"
                 },
                 {
-                    "title": "Move.MotoDiagram.Overview"
+                    "title": "Move.MoveDiagram.Overview"
                 },
                 {
-                    "title": "Move.MotoShape"
+                    "title": "Move.MoveShape"
                 },
                 {
                     "title": "Psike.Alignment.Parallel",
@@ -25579,10 +25579,10 @@ tags = [
                 "title": "Move.LegMove.Crouch"
             },
             {
-                "title": "Move.MotoDiagram.Overview"
+                "title": "Move.MoveDiagram.Overview"
             },
             {
-                "title": "Move.MotoShape"
+                "title": "Move.MoveShape"
             },
             {
                 "title": "Psike.Alignment.Parallel",
@@ -25643,10 +25643,10 @@ tags = [
                     "title": "Move.HandMove.Overview"
                 },
                 {
-                    "title": "Move.MotoDiagram.Overview"
+                    "title": "Move.MoveDiagram.Overview"
                 },
                 {
-                    "title": "Move.MotoPlane"
+                    "title": "Move.MovePlane"
                 },
                 {
                     "title": "PlantaBeta"
@@ -25690,10 +25690,10 @@ tags = [
                 "title": "Move.HandMove.Overview"
             },
             {
-                "title": "Move.MotoDiagram.Overview"
+                "title": "Move.MoveDiagram.Overview"
             },
             {
-                "title": "Move.MotoPlane"
+                "title": "Move.MovePlane"
             },
             {
                 "title": "PlantaBeta"
@@ -25725,7 +25725,7 @@ tags = [
                     "title": "Guide.Why.Productivity.Efficiency.Redundancy"
                 },
                 {
-                    "title": "Move.Overview.MotoHierarchy.Submoto"
+                    "title": "Move.Overview.MoveHierarchy.Submoto"
                 },
                 {
                     "title": "PlantaBeta"
@@ -25754,7 +25754,7 @@ tags = [
                 "title": "Guide.Why.Productivity.Efficiency.Redundancy"
             },
             {
-                "title": "Move.Overview.MotoHierarchy.Submoto"
+                "title": "Move.Overview.MoveHierarchy.Submoto"
             },
             {
                 "title": "PlantaBeta"
@@ -25789,19 +25789,19 @@ tags = [
                     "title": "Dev.Transcription"
                 },
                 {
-                    "title": "Move.MotoCard"
+                    "title": "Move.MoveCard"
                 },
                 {
-                    "title": "Move.MotoPhrase"
+                    "title": "Move.MovePhrase"
                 },
                 {
-                    "title": "Move.MotoSize"
+                    "title": "Move.MoveSize"
                 },
                 {
-                    "title": "Move.Overview.MotoHierarchy.Submoto"
+                    "title": "Move.Overview.MoveHierarchy.Submoto"
                 },
                 {
-                    "title": "Move.Overview.MotoHierarchy.Supermoto"
+                    "title": "Move.Overview.MoveHierarchy.Supermoto"
                 },
                 {
                     "title": "PlantaBeta"
@@ -25836,19 +25836,19 @@ tags = [
                 "title": "Dev.Transcription"
             },
             {
-                "title": "Move.MotoCard"
+                "title": "Move.MoveCard"
             },
             {
-                "title": "Move.MotoPhrase"
+                "title": "Move.MovePhrase"
             },
             {
-                "title": "Move.MotoSize"
+                "title": "Move.MoveSize"
             },
             {
-                "title": "Move.Overview.MotoHierarchy.Submoto"
+                "title": "Move.Overview.MoveHierarchy.Submoto"
             },
             {
-                "title": "Move.Overview.MotoHierarchy.Supermoto"
+                "title": "Move.Overview.MoveHierarchy.Supermoto"
             },
             {
                 "title": "PlantaBeta"
@@ -25886,16 +25886,16 @@ tags = [
                     "title": "Dev.Transcription"
                 },
                 {
-                    "title": "Move.MotoEvent"
+                    "title": "Move.MoveEvent"
                 },
                 {
-                    "title": "Move.MotoPhrase"
+                    "title": "Move.MovePhrase"
                 },
                 {
-                    "title": "Move.MotoShape"
+                    "title": "Move.MoveShape"
                 },
                 {
-                    "title": "Move.Overview.MotoHierarchy.Submoto"
+                    "title": "Move.Overview.MoveHierarchy.Submoto"
                 },
                 {
                     "title": "PlantaBeta"
@@ -25933,16 +25933,16 @@ tags = [
                 "title": "Dev.Transcription"
             },
             {
-                "title": "Move.MotoEvent"
+                "title": "Move.MoveEvent"
             },
             {
-                "title": "Move.MotoPhrase"
+                "title": "Move.MovePhrase"
             },
             {
-                "title": "Move.MotoShape"
+                "title": "Move.MoveShape"
             },
             {
-                "title": "Move.Overview.MotoHierarchy.Submoto"
+                "title": "Move.Overview.MoveHierarchy.Submoto"
             },
             {
                 "title": "PlantaBeta"
@@ -25986,13 +25986,13 @@ tags = [
                     "title": "Dev.Transcription"
                 },
                 {
-                    "title": "Move.MotoDiagram.MotoTimeline"
+                    "title": "Move.MoveDiagram.MoveTimeline"
                 },
                 {
-                    "title": "Move.MotoDiagram.Overview"
+                    "title": "Move.MoveDiagram.Overview"
                 },
                 {
-                    "title": "Move.MotoShape"
+                    "title": "Move.MoveShape"
                 },
                 {
                     "title": "Psike.Chunking",
@@ -26049,13 +26049,13 @@ tags = [
                 "title": "Dev.Transcription"
             },
             {
-                "title": "Move.MotoDiagram.MotoTimeline"
+                "title": "Move.MoveDiagram.MoveTimeline"
             },
             {
-                "title": "Move.MotoDiagram.Overview"
+                "title": "Move.MoveDiagram.Overview"
             },
             {
-                "title": "Move.MotoShape"
+                "title": "Move.MoveShape"
             },
             {
                 "title": "Psike.Chunking",
@@ -26109,16 +26109,16 @@ tags = [
                     "title": "Dev.System.Syntax"
                 },
                 {
-                    "title": "Move.MotoDiagram.MotoTimeline"
+                    "title": "Move.MoveDiagram.MoveTimeline"
                 },
                 {
-                    "title": "Move.MotoLine"
+                    "title": "Move.MoveLine"
                 },
                 {
-                    "title": "Move.MotoPhrase"
+                    "title": "Move.MovePhrase"
                 },
                 {
-                    "title": "Move.MotoShape"
+                    "title": "Move.MoveShape"
                 },
                 {
                     "title": "PlantaBeta"
@@ -26150,16 +26150,16 @@ tags = [
                 "title": "Dev.System.Syntax"
             },
             {
-                "title": "Move.MotoDiagram.MotoTimeline"
+                "title": "Move.MoveDiagram.MoveTimeline"
             },
             {
-                "title": "Move.MotoLine"
+                "title": "Move.MoveLine"
             },
             {
-                "title": "Move.MotoPhrase"
+                "title": "Move.MovePhrase"
             },
             {
-                "title": "Move.MotoShape"
+                "title": "Move.MoveShape"
             },
             {
                 "title": "PlantaBeta"
@@ -26200,16 +26200,16 @@ tags = [
                     "title": "Land.Piece.PieceShape"
                 },
                 {
-                    "title": "Move.MotoDiagram.MotoTimeline"
+                    "title": "Move.MoveDiagram.MoveTimeline"
                 },
                 {
-                    "title": "Move.MotoPhrase"
+                    "title": "Move.MovePhrase"
                 },
                 {
-                    "title": "Move.Overview.MotoHierarchy.Submoto"
+                    "title": "Move.Overview.MoveHierarchy.Submoto"
                 },
                 {
-                    "title": "Move.Overview.MotoHierarchy.Supermoto"
+                    "title": "Move.Overview.MoveHierarchy.Supermoto"
                 },
                 {
                     "title": "PlantaBeta"
@@ -26247,16 +26247,16 @@ tags = [
                 "title": "Land.Piece.PieceShape"
             },
             {
-                "title": "Move.MotoDiagram.MotoTimeline"
+                "title": "Move.MoveDiagram.MoveTimeline"
             },
             {
-                "title": "Move.MotoPhrase"
+                "title": "Move.MovePhrase"
             },
             {
-                "title": "Move.Overview.MotoHierarchy.Submoto"
+                "title": "Move.Overview.MoveHierarchy.Submoto"
             },
             {
-                "title": "Move.Overview.MotoHierarchy.Supermoto"
+                "title": "Move.Overview.MoveHierarchy.Supermoto"
             },
             {
                 "title": "PlantaBeta"
@@ -26297,13 +26297,13 @@ tags = [
                     "title": "Dev.Transcription"
                 },
                 {
-                    "title": "Move.MotoDiagram.MotoTimeline"
+                    "title": "Move.MoveDiagram.MoveTimeline"
                 },
                 {
-                    "title": "Move.MotoName.Overview"
+                    "title": "Move.MoveName.Overview"
                 },
                 {
-                    "title": "Move.MotoPhrase"
+                    "title": "Move.MovePhrase"
                 },
                 {
                     "title": "PlantaBeta"
@@ -26341,13 +26341,13 @@ tags = [
                 "title": "Dev.Transcription"
             },
             {
-                "title": "Move.MotoDiagram.MotoTimeline"
+                "title": "Move.MoveDiagram.MoveTimeline"
             },
             {
-                "title": "Move.MotoName.Overview"
+                "title": "Move.MoveName.Overview"
             },
             {
-                "title": "Move.MotoPhrase"
+                "title": "Move.MovePhrase"
             },
             {
                 "title": "PlantaBeta"
@@ -26382,7 +26382,7 @@ tags = [
                     "title": "Move.LegMove.Kneel"
                 },
                 {
-                    "title": "Move.MotoPhrase.BaggingUpPhrase"
+                    "title": "Move.MovePhrase.BaggingUpPhrase"
                 },
                 {
                     "title": "Move.ToolMove.BagMove.BaggingUp"
@@ -26421,7 +26421,7 @@ tags = [
                 "title": "Move.LegMove.Kneel"
             },
             {
-                "title": "Move.MotoPhrase.BaggingUpPhrase"
+                "title": "Move.MovePhrase.BaggingUpPhrase"
             },
             {
                 "title": "Move.ToolMove.BagMove.BaggingUp"
@@ -26458,7 +26458,7 @@ tags = [
                     "color": "#cd74e6ff"
                 },
                 {
-                    "title": "Psike.Vision.Find.Flag",
+                    "title": "Psike.Vision.Find.Marka",
                     "color": "#cd74e6ff"
                 },
                 {
@@ -26469,16 +26469,16 @@ tags = [
                     "title": "PlantaBeta"
                 },
                 {
-                    "title": "Via.Flag.FlagLine.FlagLineIn"
+                    "title": "Via.Marka.MarkaLine.MarkaLineIn"
                 },
                 {
-                    "title": "Via.Flag.HighFlag"
+                    "title": "Via.Marka.HighMarka"
                 },
                 {
-                    "title": "Via.Flag.LowFlag"
+                    "title": "Via.Marka.LowMarka"
                 },
                 {
-                    "title": "Via.Flag.WastedFlag"
+                    "title": "Via.Marka.WastedMarka"
                 },
                 {
                     "title": "TagTest"
@@ -26499,7 +26499,7 @@ tags = [
                 "color": "#cd74e6ff"
             },
             {
-                "title": "Psike.Vision.Find.Flag",
+                "title": "Psike.Vision.Find.Marka",
                 "color": "#cd74e6ff"
             },
             {
@@ -26510,16 +26510,16 @@ tags = [
                 "title": "PlantaBeta"
             },
             {
-                "title": "Via.Flag.FlagLine.FlagLineIn"
+                "title": "Via.Marka.MarkaLine.MarkaLineIn"
             },
             {
-                "title": "Via.Flag.HighFlag"
+                "title": "Via.Marka.HighMarka"
             },
             {
-                "title": "Via.Flag.LowFlag"
+                "title": "Via.Marka.LowMarka"
             },
             {
-                "title": "Via.Flag.WastedFlag"
+                "title": "Via.Marka.WastedMarka"
             },
             {
                 "title": "TagTest"
@@ -26536,25 +26536,25 @@ tags = [
             "lastUpdated": 1692978839605,
             "tags": [
                 {
-                    "title": "Dev.Tools.Flag"
+                    "title": "Dev.Tools.Marka"
                 },
                 {
                     "title": "Move.HandMove.Overview"
                 },
                 {
-                    "title": "Move.ToolMove.FlagMove.Overview"
+                    "title": "Move.ToolMove.MarkaMove.Overview"
                 },
                 {
                     "title": "PlantaBeta"
                 },
                 {
-                    "title": "Via.Flag.FlagSite"
+                    "title": "Via.Marka.MarkaSite"
                 },
                 {
-                    "title": "Via.Flag.Overview"
+                    "title": "Via.Marka.Overview"
                 },
                 {
-                    "title": "Via.Flag.WastedFlag"
+                    "title": "Via.Marka.WastedMarka"
                 },
                 {
                     "title": "TagTest"
@@ -26568,25 +26568,25 @@ tags = [
         "extension": "jpg",
         "tags": [
             {
-                "title": "Dev.Tools.Flag"
+                "title": "Dev.Tools.Marka"
             },
             {
                 "title": "Move.HandMove.Overview"
             },
             {
-                "title": "Move.ToolMove.FlagMove.Overview"
+                "title": "Move.ToolMove.MarkaMove.Overview"
             },
             {
                 "title": "PlantaBeta"
             },
             {
-                "title": "Via.Flag.FlagSite"
+                "title": "Via.Marka.MarkaSite"
             },
             {
-                "title": "Via.Flag.Overview"
+                "title": "Via.Marka.Overview"
             },
             {
-                "title": "Via.Flag.WastedFlag"
+                "title": "Via.Marka.WastedMarka"
             },
             {
                 "title": "TagTest"
@@ -26658,7 +26658,7 @@ tags = [
                     "title": "Dev.Tools.PlantingBag"
                 },
                 {
-                    "title": "Move.ClothingMove.HatMoto"
+                    "title": "Move.ClothingMove.HatMove"
                 },
                 {
                     "title": "Move.ClothingMove.Overview"
@@ -26693,7 +26693,7 @@ tags = [
                 "title": "Dev.Tools.PlantingBag"
             },
             {
-                "title": "Move.ClothingMove.HatMoto"
+                "title": "Move.ClothingMove.HatMove"
             },
             {
                 "title": "Move.ClothingMove.Overview"
@@ -26743,19 +26743,19 @@ tags = [
                     "title": "Move.LegMove.Jump"
                 },
                 {
-                    "title": "Move.MotoLine"
+                    "title": "Move.MoveLine"
                 },
                 {
-                    "title": "Move.MotoName.Overview"
+                    "title": "Move.MoveName.Overview"
                 },
                 {
-                    "title": "Move.MotoType.DynamicMoto"
+                    "title": "Move.MoveType.DynamicMove"
                 },
                 {
-                    "title": "Move.Overview.MotoHierarchy.Submoto"
+                    "title": "Move.Overview.MoveHierarchy.Submoto"
                 },
                 {
-                    "title": "Move.Overview.MotoHierarchy.Supermoto"
+                    "title": "Move.Overview.MoveHierarchy.Supermoto"
                 },
                 {
                     "title": "PlantaBeta"
@@ -26796,19 +26796,19 @@ tags = [
                 "title": "Move.LegMove.Jump"
             },
             {
-                "title": "Move.MotoLine"
+                "title": "Move.MoveLine"
             },
             {
-                "title": "Move.MotoName.Overview"
+                "title": "Move.MoveName.Overview"
             },
             {
-                "title": "Move.MotoType.DynamicMoto"
+                "title": "Move.MoveType.DynamicMove"
             },
             {
-                "title": "Move.Overview.MotoHierarchy.Submoto"
+                "title": "Move.Overview.MoveHierarchy.Submoto"
             },
             {
-                "title": "Move.Overview.MotoHierarchy.Supermoto"
+                "title": "Move.Overview.MoveHierarchy.Supermoto"
             },
             {
                 "title": "PlantaBeta"
@@ -27003,13 +27003,13 @@ tags = [
                     "title": "Guide.Why.LearningCurve"
                 },
                 {
-                    "title": "Move.MotoDiagram.Overview"
+                    "title": "Move.MoveDiagram.Overview"
                 },
                 {
-                    "title": "Move.MotoDifficulty.Overview"
+                    "title": "Move.MoveDifficulty.Overview"
                 },
                 {
-                    "title": "Move.MotoError.Slip.Overview"
+                    "title": "Move.MoveError.Slip.Overview"
                 },
                 {
                     "title": "Psike.Alignment.Parallel",
@@ -27068,13 +27068,13 @@ tags = [
                 "title": "Guide.Why.LearningCurve"
             },
             {
-                "title": "Move.MotoDiagram.Overview"
+                "title": "Move.MoveDiagram.Overview"
             },
             {
-                "title": "Move.MotoDifficulty.Overview"
+                "title": "Move.MoveDifficulty.Overview"
             },
             {
-                "title": "Move.MotoError.Slip.Overview"
+                "title": "Move.MoveError.Slip.Overview"
             },
             {
                 "title": "Psike.Alignment.Parallel",
@@ -27228,10 +27228,10 @@ tags = [
                     "title": "Move.ArmMove.ArmSwing"
                 },
                 {
-                    "title": "Move.MotoName.Overview"
+                    "title": "Move.MoveName.Overview"
                 },
                 {
-                    "title": "Move.MotoAttributes.Overview"
+                    "title": "Move.MoveAttributes.Overview"
                 },
                 {
                     "title": "PlantaBeta"
@@ -27269,10 +27269,10 @@ tags = [
                 "title": "Move.ArmMove.ArmSwing"
             },
             {
-                "title": "Move.MotoName.Overview"
+                "title": "Move.MoveName.Overview"
             },
             {
-                "title": "Move.MotoAttributes.Overview"
+                "title": "Move.MoveAttributes.Overview"
             },
             {
                 "title": "PlantaBeta"
@@ -27478,7 +27478,7 @@ tags = [
                     "title": "Dev.Infographic.Web"
                 },
                 {
-                    "title": "Move.Overview.MotoHierarchy"
+                    "title": "Move.Overview.MoveHierarchy"
                 },
                 {
                     "title": "Psike.Emotion",
@@ -27514,7 +27514,7 @@ tags = [
                 "title": "Dev.Infographic.Web"
             },
             {
-                "title": "Move.Overview.MotoHierarchy"
+                "title": "Move.Overview.MoveHierarchy"
             },
             {
                 "title": "Psike.Emotion",
@@ -27659,7 +27659,7 @@ tags = [
                     "title": "Land.Piece.PieceShape.IrregularPieceShape"
                 },
                 {
-                    "title": "Move.Overview.MotoHierarchy.Submoto"
+                    "title": "Move.Overview.MoveHierarchy.Submoto"
                 },
                 {
                     "title": "PlantaBeta"
@@ -27718,7 +27718,7 @@ tags = [
                 "title": "Land.Piece.PieceShape.IrregularPieceShape"
             },
             {
-                "title": "Move.Overview.MotoHierarchy.Submoto"
+                "title": "Move.Overview.MoveHierarchy.Submoto"
             },
             {
                 "title": "PlantaBeta"
@@ -27777,7 +27777,7 @@ tags = [
                     "title": "Dev.PageLayout"
                 },
                 {
-                    "title": "Move.Overview.MotoHierarchy.Submoto"
+                    "title": "Move.Overview.MoveHierarchy.Submoto"
                 },
                 {
                     "title": "PlantaBeta"
@@ -27818,7 +27818,7 @@ tags = [
                 "title": "Dev.PageLayout"
             },
             {
-                "title": "Move.Overview.MotoHierarchy.Submoto"
+                "title": "Move.Overview.MoveHierarchy.Submoto"
             },
             {
                 "title": "PlantaBeta"
@@ -28020,7 +28020,7 @@ tags = [
                     "title": "Dev.Interdisciplinary.Chemistry"
                 },
                 {
-                    "title": "Move.ToolMove.FlagMove.FlagErrorRecovery"
+                    "title": "Move.ToolMove.MarkaMove.MarkaErrorRecovery"
                 },
                 {
                     "title": "PlantaBeta"
@@ -28038,7 +28038,7 @@ tags = [
                     "title": "Via.Chunking"
                 },
                 {
-                    "title": "Via.Flag.WastedFlag"
+                    "title": "Via.Marka.WastedMarka"
                 },
                 {
                     "title": "Via.ViaDiagram.Overview"
@@ -28064,7 +28064,7 @@ tags = [
                 "title": "Dev.Interdisciplinary.Chemistry"
             },
             {
-                "title": "Move.ToolMove.FlagMove.FlagErrorRecovery"
+                "title": "Move.ToolMove.MarkaMove.MarkaErrorRecovery"
             },
             {
                 "title": "PlantaBeta"
@@ -28082,7 +28082,7 @@ tags = [
                 "title": "Via.Chunking"
             },
             {
-                "title": "Via.Flag.WastedFlag"
+                "title": "Via.Marka.WastedMarka"
             },
             {
                 "title": "Via.ViaDiagram.Overview"
@@ -28428,7 +28428,7 @@ tags = [
                     "title": "Land.LandCompletion.OpenLand"
                 },
                 {
-                    "title": "Move.MotoPhrase.PlantingPhrase"
+                    "title": "Move.MovePhrase.PlantingPhrase"
                 },
                 {
                     "title": "Move.ToolMove.BagMove.Overview"
@@ -28478,7 +28478,7 @@ tags = [
                 "title": "Land.LandCompletion.OpenLand"
             },
             {
-                "title": "Move.MotoPhrase.PlantingPhrase"
+                "title": "Move.MovePhrase.PlantingPhrase"
             },
             {
                 "title": "Move.ToolMove.BagMove.Overview"
@@ -28519,10 +28519,10 @@ tags = [
             "lastUpdated": 1692978839608,
             "tags": [
                 {
-                    "title": "Dev.Tools.Flag"
+                    "title": "Dev.Tools.Marka"
                 },
                 {
-                    "title": "Guide.Why.Innovation.MinimizeFlag"
+                    "title": "Guide.Why.Innovation.MinimizeMarka"
                 },
                 {
                     "title": "Land.Slash.Overview"
@@ -28531,10 +28531,10 @@ tags = [
                     "title": "Move.HeadMove.LookAt"
                 },
                 {
-                    "title": "Move.MotoError.Slip.Overview"
+                    "title": "Move.MoveError.Slip.Overview"
                 },
                 {
-                    "title": "Move.ToolMove.FlagMove.Overview"
+                    "title": "Move.ToolMove.MarkaMove.Overview"
                 },
                 {
                     "title": "PlantaBeta"
@@ -28552,10 +28552,10 @@ tags = [
                     "title": "Via.Chunking"
                 },
                 {
-                    "title": "Via.Flag.BoundaryFlag"
+                    "title": "Via.Marka.BoundaryMarka"
                 },
                 {
-                    "title": "Via.Flag.FlagSite"
+                    "title": "Via.Marka.MarkaSite"
                 },
                 {
                     "title": "Via.ViaError"
@@ -28564,7 +28564,7 @@ tags = [
                     "title": "Via.ViaGeometry.ViaPoint.Landmark"
                 },
                 {
-                    "title": "Via.ViaSequence.LookAt.Flag"
+                    "title": "Via.ViaSequence.LookAt.Marka"
                 },
                 {
                     "title": "TagTest"
@@ -28578,10 +28578,10 @@ tags = [
         "extension": "jpg",
         "tags": [
             {
-                "title": "Dev.Tools.Flag"
+                "title": "Dev.Tools.Marka"
             },
             {
-                "title": "Guide.Why.Innovation.MinimizeFlag"
+                "title": "Guide.Why.Innovation.MinimizeMarka"
             },
             {
                 "title": "Land.Slash.Overview"
@@ -28590,10 +28590,10 @@ tags = [
                 "title": "Move.HeadMove.LookAt"
             },
             {
-                "title": "Move.MotoError.Slip.Overview"
+                "title": "Move.MoveError.Slip.Overview"
             },
             {
-                "title": "Move.ToolMove.FlagMove.Overview"
+                "title": "Move.ToolMove.MarkaMove.Overview"
             },
             {
                 "title": "PlantaBeta"
@@ -28611,10 +28611,10 @@ tags = [
                 "title": "Via.Chunking"
             },
             {
-                "title": "Via.Flag.BoundaryFlag"
+                "title": "Via.Marka.BoundaryMarka"
             },
             {
-                "title": "Via.Flag.FlagSite"
+                "title": "Via.Marka.MarkaSite"
             },
             {
                 "title": "Via.ViaError"
@@ -28623,7 +28623,7 @@ tags = [
                 "title": "Via.ViaGeometry.ViaPoint.Landmark"
             },
             {
-                "title": "Via.ViaSequence.LookAt.Flag"
+                "title": "Via.ViaSequence.LookAt.Marka"
             },
             {
                 "title": "TagTest"
@@ -28658,7 +28658,7 @@ tags = [
                     "title": "Land.PlantIdentification"
                 },
                 {
-                    "title": "Move.MotoName.Overview"
+                    "title": "Move.MoveName.Overview"
                 },
                 {
                     "title": "Psike.Counting",
@@ -28705,7 +28705,7 @@ tags = [
                 "title": "Land.PlantIdentification"
             },
             {
-                "title": "Move.MotoName.Overview"
+                "title": "Move.MoveName.Overview"
             },
             {
                 "title": "Psike.Counting",
@@ -28863,7 +28863,7 @@ tags = [
                     "title": "Land.CropTree.SpeciesMix"
                 },
                 {
-                    "title": "Land.Screef.Overview"
+                    "title": "Land.Skreef.Overview"
                 },
                 {
                     "title": "Psike.Estimation.BagCover",
@@ -28929,7 +28929,7 @@ tags = [
                 "title": "Land.CropTree.SpeciesMix"
             },
             {
-                "title": "Land.Screef.Overview"
+                "title": "Land.Skreef.Overview"
             },
             {
                 "title": "Psike.Estimation.BagCover",
@@ -28977,7 +28977,7 @@ tags = [
                     "title": "Guide.Why.Productivity.Efficiency.Redundancy"
                 },
                 {
-                    "title": "Move.HandMove.HandScreef"
+                    "title": "Move.HandMove.HandSkreef"
                 },
                 {
                     "title": "Move.HandMove.TreeFlip"
@@ -28989,10 +28989,10 @@ tags = [
                     "title": "Move.HoleMove.CloseHole"
                 },
                 {
-                    "title": "Move.MotoPhrase"
+                    "title": "Move.MovePhrase"
                 },
                 {
-                    "title": "Move.MotoPhrase.BaggingUpPhrase"
+                    "title": "Move.MovePhrase.BaggingUpPhrase"
                 },
                 {
                     "title": "Psike.Attention",
@@ -29021,7 +29021,7 @@ tags = [
                     "title": "Via.Direction"
                 },
                 {
-                    "title": "Via.Flag.Overview"
+                    "title": "Via.Marka.Overview"
                 },
                 {
                     "title": "Via.ViaGeometry.ViaPoint.Microsite.MicrositeValidation"
@@ -29050,7 +29050,7 @@ tags = [
                 "title": "Guide.Why.Productivity.Efficiency.Redundancy"
             },
             {
-                "title": "Move.HandMove.HandScreef"
+                "title": "Move.HandMove.HandSkreef"
             },
             {
                 "title": "Move.HandMove.TreeFlip"
@@ -29062,10 +29062,10 @@ tags = [
                 "title": "Move.HoleMove.CloseHole"
             },
             {
-                "title": "Move.MotoPhrase"
+                "title": "Move.MovePhrase"
             },
             {
-                "title": "Move.MotoPhrase.BaggingUpPhrase"
+                "title": "Move.MovePhrase.BaggingUpPhrase"
             },
             {
                 "title": "Psike.Attention",
@@ -29094,7 +29094,7 @@ tags = [
                 "title": "Via.Direction"
             },
             {
-                "title": "Via.Flag.Overview"
+                "title": "Via.Marka.Overview"
             },
             {
                 "title": "Via.ViaGeometry.ViaPoint.Microsite.MicrositeValidation"
@@ -29132,16 +29132,16 @@ tags = [
                     "title": "Move.HoleMove.Overview"
                 },
                 {
-                    "title": "Move.MotoError.Slip.Overview"
+                    "title": "Move.MoveError.Slip.Overview"
                 },
                 {
-                    "title": "Move.MotoPhrase"
+                    "title": "Move.MovePhrase"
                 },
                 {
                     "title": "Move.PlantMove.Overview"
                 },
                 {
-                    "title": "Move.ToolMove.FlagMove.FlagRip"
+                    "title": "Move.ToolMove.MarkaMove.MarkaRip"
                 },
                 {
                     "title": "Move.ToolMove.SpadeMove.Overview"
@@ -29173,16 +29173,16 @@ tags = [
                 "title": "Move.HoleMove.Overview"
             },
             {
-                "title": "Move.MotoError.Slip.Overview"
+                "title": "Move.MoveError.Slip.Overview"
             },
             {
-                "title": "Move.MotoPhrase"
+                "title": "Move.MovePhrase"
             },
             {
                 "title": "Move.PlantMove.Overview"
             },
             {
-                "title": "Move.ToolMove.FlagMove.FlagRip"
+                "title": "Move.ToolMove.MarkaMove.MarkaRip"
             },
             {
                 "title": "Move.ToolMove.SpadeMove.Overview"
@@ -29376,10 +29376,10 @@ tags = [
                     "title": "Move.ArmMove.ArmSwing"
                 },
                 {
-                    "title": "Move.MotoName.Overview"
+                    "title": "Move.MoveName.Overview"
                 },
                 {
-                    "title": "Move.Overview.MotoHierarchy"
+                    "title": "Move.Overview.MoveHierarchy"
                 },
                 {
                     "title": "PlantaBeta"
@@ -29417,10 +29417,10 @@ tags = [
                 "title": "Move.ArmMove.ArmSwing"
             },
             {
-                "title": "Move.MotoName.Overview"
+                "title": "Move.MoveName.Overview"
             },
             {
-                "title": "Move.Overview.MotoHierarchy"
+                "title": "Move.Overview.MoveHierarchy"
             },
             {
                 "title": "PlantaBeta"
@@ -29527,7 +29527,7 @@ tags = [
                     "title": "Guide.Why.Innovation.Database"
                 },
                 {
-                    "title": "Guide.Why.Innovation.MinimizeFlag"
+                    "title": "Guide.Why.Innovation.MinimizeMarka"
                 },
                 {
                     "title": "Land.LandError"
@@ -29539,7 +29539,7 @@ tags = [
                     "title": "Land.Prep.TrenchPrep"
                 },
                 {
-                    "title": "Move.ToolMove.FlagMove.Overview"
+                    "title": "Move.ToolMove.MarkaMove.Overview"
                 },
                 {
                     "title": "Psike.Alignment",
@@ -29553,7 +29553,7 @@ tags = [
                     "title": "PlantaBeta"
                 },
                 {
-                    "title": "Via.Flag.FlagLine.FlagLineIn"
+                    "title": "Via.Marka.MarkaLine.MarkaLineIn"
                 },
                 {
                     "title": "Via.ViaEvent"
@@ -29585,7 +29585,7 @@ tags = [
                 "title": "Guide.Why.Innovation.Database"
             },
             {
-                "title": "Guide.Why.Innovation.MinimizeFlag"
+                "title": "Guide.Why.Innovation.MinimizeMarka"
             },
             {
                 "title": "Land.LandError"
@@ -29597,7 +29597,7 @@ tags = [
                 "title": "Land.Prep.TrenchPrep"
             },
             {
-                "title": "Move.ToolMove.FlagMove.Overview"
+                "title": "Move.ToolMove.MarkaMove.Overview"
             },
             {
                 "title": "Psike.Alignment",
@@ -29611,7 +29611,7 @@ tags = [
                 "title": "PlantaBeta"
             },
             {
-                "title": "Via.Flag.FlagLine.FlagLineIn"
+                "title": "Via.Marka.MarkaLine.MarkaLineIn"
             },
             {
                 "title": "Via.ViaEvent"
@@ -29643,7 +29643,7 @@ tags = [
                     "title": "Move.HandMove.TreeGrip"
                 },
                 {
-                    "title": "Move.Overview.MotoHierarchy.Submoto"
+                    "title": "Move.Overview.MoveHierarchy.Submoto"
                 },
                 {
                     "title": "Psike.Alignment",
@@ -29689,7 +29689,7 @@ tags = [
                 "title": "Move.HandMove.TreeGrip"
             },
             {
-                "title": "Move.Overview.MotoHierarchy.Submoto"
+                "title": "Move.Overview.MoveHierarchy.Submoto"
             },
             {
                 "title": "Psike.Alignment",
@@ -30082,7 +30082,7 @@ tags = [
             "lastUpdated": 1692978839609,
             "tags": [
                 {
-                    "title": "Dev.Tools.Flag"
+                    "title": "Dev.Tools.Marka"
                 },
                 {
                     "title": "PlantaBeta"
@@ -30099,7 +30099,7 @@ tags = [
         "extension": "jpg",
         "tags": [
             {
-                "title": "Dev.Tools.Flag"
+                "title": "Dev.Tools.Marka"
             },
             {
                 "title": "PlantaBeta"
@@ -30289,7 +30289,7 @@ tags = [
                     "title": "Dev.System.Object"
                 },
                 {
-                    "title": "Move.ToolMove.FlagMove.Overview"
+                    "title": "Move.ToolMove.MarkaMove.Overview"
                 },
                 {
                     "title": "Psike.Event",
@@ -30322,7 +30322,7 @@ tags = [
                 "title": "Dev.System.Object"
             },
             {
-                "title": "Move.ToolMove.FlagMove.Overview"
+                "title": "Move.ToolMove.MarkaMove.Overview"
             },
             {
                 "title": "Psike.Event",
@@ -30358,7 +30358,7 @@ tags = [
                     "title": "Move.BodyMove.Fall"
                 },
                 {
-                    "title": "Move.MotoCard"
+                    "title": "Move.MoveCard"
                 },
                 {
                     "title": "PlantaBeta"
@@ -30387,7 +30387,7 @@ tags = [
                 "title": "Move.BodyMove.Fall"
             },
             {
-                "title": "Move.MotoCard"
+                "title": "Move.MoveCard"
             },
             {
                 "title": "PlantaBeta"
@@ -30690,16 +30690,16 @@ tags = [
                     "title": "Dev.Interdisciplinary.Dance"
                 },
                 {
-                    "title": "Move.MotoDiagram.MotoTimeline"
+                    "title": "Move.MoveDiagram.MoveTimeline"
                 },
                 {
-                    "title": "Move.MotoEvent"
+                    "title": "Move.MoveEvent"
                 },
                 {
-                    "title": "Move.MotoPhrase"
+                    "title": "Move.MovePhrase"
                 },
                 {
-                    "title": "Move.Overview.MotoType.RelativeMoto"
+                    "title": "Move.Overview.MoveType.RelativeMove"
                 },
                 {
                     "title": "Psike.Chunking.Fraction",
@@ -30730,16 +30730,16 @@ tags = [
                 "title": "Dev.Interdisciplinary.Dance"
             },
             {
-                "title": "Move.MotoDiagram.MotoTimeline"
+                "title": "Move.MoveDiagram.MoveTimeline"
             },
             {
-                "title": "Move.MotoEvent"
+                "title": "Move.MoveEvent"
             },
             {
-                "title": "Move.MotoPhrase"
+                "title": "Move.MovePhrase"
             },
             {
-                "title": "Move.Overview.MotoType.RelativeMoto"
+                "title": "Move.Overview.MoveType.RelativeMove"
             },
             {
                 "title": "Psike.Chunking.Fraction",
@@ -30946,7 +30946,7 @@ tags = [
                     "title": "Via.AreaCover.TriangleCover"
                 },
                 {
-                    "title": "Via.Flag.Overview"
+                    "title": "Via.Marka.Overview"
                 },
                 {
                     "title": "Via.ViaGeometry.ViaCurve.Overview"
@@ -30978,7 +30978,7 @@ tags = [
                 "title": "Via.AreaCover.TriangleCover"
             },
             {
-                "title": "Via.Flag.Overview"
+                "title": "Via.Marka.Overview"
             },
             {
                 "title": "Via.ViaGeometry.ViaCurve.Overview"
@@ -31086,16 +31086,16 @@ tags = [
             "lastUpdated": 1692978839611,
             "tags": [
                 {
-                    "title": "Move.ToolMove.FlagMove.Overview"
+                    "title": "Move.ToolMove.MarkaMove.Overview"
                 },
                 {
                     "title": "PlantaBeta"
                 },
                 {
-                    "title": "Via.Flag.HighFlag"
+                    "title": "Via.Marka.HighMarka"
                 },
                 {
-                    "title": "Via.Flag.Overview"
+                    "title": "Via.Marka.Overview"
                 },
                 {
                     "title": "Via.ViaSequence"
@@ -31112,16 +31112,16 @@ tags = [
         "extension": "jpg",
         "tags": [
             {
-                "title": "Move.ToolMove.FlagMove.Overview"
+                "title": "Move.ToolMove.MarkaMove.Overview"
             },
             {
                 "title": "PlantaBeta"
             },
             {
-                "title": "Via.Flag.HighFlag"
+                "title": "Via.Marka.HighMarka"
             },
             {
-                "title": "Via.Flag.Overview"
+                "title": "Via.Marka.Overview"
             },
             {
                 "title": "Via.ViaSequence"
@@ -31153,7 +31153,7 @@ tags = [
                     "title": "PlantaBeta"
                 },
                 {
-                    "title": "Via.ViaGeometry.ViaPoint.FlagSite"
+                    "title": "Via.ViaGeometry.ViaPoint.MarkaSite"
                 },
                 {
                     "title": "Via.ViaSequence.CurrentMicrosite"
@@ -31185,7 +31185,7 @@ tags = [
                 "title": "PlantaBeta"
             },
             {
-                "title": "Via.ViaGeometry.ViaPoint.FlagSite"
+                "title": "Via.ViaGeometry.ViaPoint.MarkaSite"
             },
             {
                 "title": "Via.ViaSequence.CurrentMicrosite"
@@ -31217,10 +31217,10 @@ tags = [
                     "title": "Move.HeadMove.LookAt"
                 },
                 {
-                    "title": "Move.MotoLine"
+                    "title": "Move.MoveLine"
                 },
                 {
-                    "title": "Move.ToolMove.FlagMove.Overview"
+                    "title": "Move.ToolMove.MarkaMove.Overview"
                 },
                 {
                     "title": "Psike.Event",
@@ -31265,10 +31265,10 @@ tags = [
                 "title": "Move.HeadMove.LookAt"
             },
             {
-                "title": "Move.MotoLine"
+                "title": "Move.MoveLine"
             },
             {
-                "title": "Move.ToolMove.FlagMove.Overview"
+                "title": "Move.ToolMove.MarkaMove.Overview"
             },
             {
                 "title": "Psike.Event",
@@ -31319,7 +31319,7 @@ tags = [
                     "title": "Land.Obstacle.LogObstacle"
                 },
                 {
-                    "title": "Move.ToolMove.FlagMove.Overview"
+                    "title": "Move.ToolMove.MarkaMove.Overview"
                 },
                 {
                     "title": "PlantaBeta"
@@ -31328,13 +31328,13 @@ tags = [
                     "title": "Via.AreaCover.Overview"
                 },
                 {
-                    "title": "Via.Flag.Overview"
+                    "title": "Via.Marka.Overview"
                 },
                 {
                     "title": "Via.ViaEvent.AreaClosed"
                 },
                 {
-                    "title": "Via.ViaGeometry.ViaPoint.FlagSite"
+                    "title": "Via.ViaGeometry.ViaPoint.MarkaSite"
                 },
                 {
                     "title": "Via.ViaSequence.CurrentMicrosite"
@@ -31369,7 +31369,7 @@ tags = [
                 "title": "Land.Obstacle.LogObstacle"
             },
             {
-                "title": "Move.ToolMove.FlagMove.Overview"
+                "title": "Move.ToolMove.MarkaMove.Overview"
             },
             {
                 "title": "PlantaBeta"
@@ -31378,13 +31378,13 @@ tags = [
                 "title": "Via.AreaCover.Overview"
             },
             {
-                "title": "Via.Flag.Overview"
+                "title": "Via.Marka.Overview"
             },
             {
                 "title": "Via.ViaEvent.AreaClosed"
             },
             {
-                "title": "Via.ViaGeometry.ViaPoint.FlagSite"
+                "title": "Via.ViaGeometry.ViaPoint.MarkaSite"
             },
             {
                 "title": "Via.ViaSequence.CurrentMicrosite"
@@ -31416,7 +31416,7 @@ tags = [
                     "title": "Dev.Element.ElementDiagram.Symbols"
                 },
                 {
-                    "title": "Move.ToolMove.FlagMove.Overview"
+                    "title": "Move.ToolMove.MarkaMove.Overview"
                 },
                 {
                     "title": "PlantaBeta"
@@ -31439,7 +31439,7 @@ tags = [
                 "title": "Dev.Element.ElementDiagram.Symbols"
             },
             {
-                "title": "Move.ToolMove.FlagMove.Overview"
+                "title": "Move.ToolMove.MarkaMove.Overview"
             },
             {
                 "title": "PlantaBeta"
@@ -31698,7 +31698,7 @@ tags = [
                     "title": "Dev.LevelOfAbstraction.ConcreteIdea"
                 },
                 {
-                    "title": "Move.MotoDiagram.MotoTimeline"
+                    "title": "Move.MoveDiagram.MoveTimeline"
                 },
                 {
                     "title": "PlantaBeta"
@@ -31707,7 +31707,7 @@ tags = [
                     "title": "Via.AreaCover.AreaBoundary.BoundaryLine"
                 },
                 {
-                    "title": "Via.Flag.Overview"
+                    "title": "Via.Marka.Overview"
                 },
                 {
                     "title": "TagTest"
@@ -31730,7 +31730,7 @@ tags = [
                 "title": "Dev.LevelOfAbstraction.ConcreteIdea"
             },
             {
-                "title": "Move.MotoDiagram.MotoTimeline"
+                "title": "Move.MoveDiagram.MoveTimeline"
             },
             {
                 "title": "PlantaBeta"
@@ -31739,7 +31739,7 @@ tags = [
                 "title": "Via.AreaCover.AreaBoundary.BoundaryLine"
             },
             {
-                "title": "Via.Flag.Overview"
+                "title": "Via.Marka.Overview"
             },
             {
                 "title": "TagTest"
@@ -31973,19 +31973,19 @@ tags = [
             "lastUpdated": 1692978839612,
             "tags": [
                 {
-                    "title": "Dev.Tools.Flag"
+                    "title": "Dev.Tools.Marka"
                 },
                 {
-                    "title": "Move.ToolMove.FlagMove.FlagWeave"
+                    "title": "Move.ToolMove.MarkaMove.MarkaWeave"
                 },
                 {
-                    "title": "Move.ToolMove.FlagMove.FlagWrap"
+                    "title": "Move.ToolMove.MarkaMove.MarkaWrap"
                 },
                 {
                     "title": "PlantaBeta"
                 },
                 {
-                    "title": "Via.Flag.Overview"
+                    "title": "Via.Marka.Overview"
                 },
                 {
                     "title": "TagTest"
@@ -31999,19 +31999,19 @@ tags = [
         "extension": "jpg",
         "tags": [
             {
-                "title": "Dev.Tools.Flag"
+                "title": "Dev.Tools.Marka"
             },
             {
-                "title": "Move.ToolMove.FlagMove.FlagWeave"
+                "title": "Move.ToolMove.MarkaMove.MarkaWeave"
             },
             {
-                "title": "Move.ToolMove.FlagMove.FlagWrap"
+                "title": "Move.ToolMove.MarkaMove.MarkaWrap"
             },
             {
                 "title": "PlantaBeta"
             },
             {
-                "title": "Via.Flag.Overview"
+                "title": "Via.Marka.Overview"
             },
             {
                 "title": "TagTest"
@@ -32064,7 +32064,7 @@ tags = [
                     "title": "Via.Chunking"
                 },
                 {
-                    "title": "Via.Flag.FlagLine.FlagLineIn.StartPoint"
+                    "title": "Via.Marka.MarkaLine.MarkaLineIn.StartPoint"
                 },
                 {
                     "title": "Via.PieceCover.PerimeterCover"
@@ -32126,7 +32126,7 @@ tags = [
                 "title": "Via.Chunking"
             },
             {
-                "title": "Via.Flag.FlagLine.FlagLineIn.StartPoint"
+                "title": "Via.Marka.MarkaLine.MarkaLineIn.StartPoint"
             },
             {
                 "title": "Via.PieceCover.PerimeterCover"
@@ -32158,7 +32158,7 @@ tags = [
                     "title": "PlantaBeta"
                 },
                 {
-                    "title": "Via.Flag.FlagSite"
+                    "title": "Via.Marka.MarkaSite"
                 },
                 {
                     "title": "Via.ViaGeometry.ViaPoint.Microsite.MicrositeSelection"
@@ -32178,7 +32178,7 @@ tags = [
                 "title": "PlantaBeta"
             },
             {
-                "title": "Via.Flag.FlagSite"
+                "title": "Via.Marka.MarkaSite"
             },
             {
                 "title": "Via.ViaGeometry.ViaPoint.Microsite.MicrositeSelection"
@@ -32217,13 +32217,13 @@ tags = [
                     "title": "Via.Chunking"
                 },
                 {
-                    "title": "Via.Flag.FlagLine.FlagLineIn.StartPoint"
+                    "title": "Via.Marka.MarkaLine.MarkaLineIn.StartPoint"
                 },
                 {
-                    "title": "Via.Flag.HighFlag"
+                    "title": "Via.Marka.HighMarka"
                 },
                 {
-                    "title": "Via.Flag.Overview"
+                    "title": "Via.Marka.Overview"
                 },
                 {
                     "title": "Via.ViaDiagram.Overview"
@@ -32262,13 +32262,13 @@ tags = [
                 "title": "Via.Chunking"
             },
             {
-                "title": "Via.Flag.FlagLine.FlagLineIn.StartPoint"
+                "title": "Via.Marka.MarkaLine.MarkaLineIn.StartPoint"
             },
             {
-                "title": "Via.Flag.HighFlag"
+                "title": "Via.Marka.HighMarka"
             },
             {
-                "title": "Via.Flag.Overview"
+                "title": "Via.Marka.Overview"
             },
             {
                 "title": "Via.ViaDiagram.Overview"
@@ -32352,7 +32352,7 @@ tags = [
                     "title": "Land.LandCard"
                 },
                 {
-                    "title": "Move.MotoCard"
+                    "title": "Move.MoveCard"
                 },
                 {
                     "title": "Psike.NeuroCard",
@@ -32385,7 +32385,7 @@ tags = [
                 "title": "Land.LandCard"
             },
             {
-                "title": "Move.MotoCard"
+                "title": "Move.MoveCard"
             },
             {
                 "title": "Psike.NeuroCard",
@@ -32470,7 +32470,7 @@ tags = [
                     "title": "Guide.Why.Communication"
                 },
                 {
-                    "title": "Move.Overview.MotoHierarchy"
+                    "title": "Move.Overview.MoveHierarchy"
                 },
                 {
                     "title": "Move.PlantMove.Overview"
@@ -32496,7 +32496,7 @@ tags = [
                 "title": "Guide.Why.Communication"
             },
             {
-                "title": "Move.Overview.MotoHierarchy"
+                "title": "Move.Overview.MoveHierarchy"
             },
             {
                 "title": "Move.PlantMove.Overview"
@@ -32650,7 +32650,7 @@ tags = [
                     "title": "Dev.Search"
                 },
                 {
-                    "title": "Move.MotoVideo"
+                    "title": "Move.MoveVideo"
                 },
                 {
                     "title": "Sponsor.Kickstarter"
@@ -32685,7 +32685,7 @@ tags = [
                 "title": "Dev.Search"
             },
             {
-                "title": "Move.MotoVideo"
+                "title": "Move.MoveVideo"
             },
             {
                 "title": "Sponsor.Kickstarter"
@@ -32723,7 +32723,7 @@ tags = [
                     "title": "Dev.Vitepress"
                 },
                 {
-                    "title": "Move.MotoDiagram.MotoTimeline"
+                    "title": "Move.MoveDiagram.MoveTimeline"
                 },
                 {
                     "title": "TagTest"
@@ -32752,7 +32752,7 @@ tags = [
                 "title": "Dev.Vitepress"
             },
             {
-                "title": "Move.MotoDiagram.MotoTimeline"
+                "title": "Move.MoveDiagram.MoveTimeline"
             },
             {
                 "title": "TagTest"
@@ -32778,7 +32778,7 @@ tags = [
                     "title": "Dev.Interdisciplinary.Analogy"
                 },
                 {
-                    "title": "Move.MotoCard"
+                    "title": "Move.MoveCard"
                 },
                 {
                     "title": "Via.ViaDiagram.ViaDirectedLine"
@@ -32804,7 +32804,7 @@ tags = [
                 "title": "Dev.Interdisciplinary.Analogy"
             },
             {
-                "title": "Move.MotoCard"
+                "title": "Move.MoveCard"
             },
             {
                 "title": "Via.ViaDiagram.ViaDirectedLine"
@@ -33284,7 +33284,7 @@ tags = [
                     "color": "#cd74e6ff"
                 },
                 {
-                    "title": "Via.Flag.FlagLine.FlagLineIn.StartPoint"
+                    "title": "Via.Marka.MarkaLine.MarkaLineIn.StartPoint"
                 },
                 {
                     "title": "Via.ViaError.Deadwalking"
@@ -33321,7 +33321,7 @@ tags = [
                 "color": "#cd74e6ff"
             },
             {
-                "title": "Via.Flag.FlagLine.FlagLineIn.StartPoint"
+                "title": "Via.Marka.MarkaLine.MarkaLineIn.StartPoint"
             },
             {
                 "title": "Via.ViaError.Deadwalking"
@@ -33422,7 +33422,7 @@ tags = [
                     "title": "Move.HoleMove.HoleOpen"
                 },
                 {
-                    "title": "Move.MotoError.Slip.Overview"
+                    "title": "Move.MoveError.Slip.Overview"
                 },
                 {
                     "title": "Via.ViaGeometry.ViaPoint.Microsite.MicrositeStrikeLine"
@@ -33457,7 +33457,7 @@ tags = [
                 "title": "Move.HoleMove.HoleOpen"
             },
             {
-                "title": "Move.MotoError.Slip.Overview"
+                "title": "Move.MoveError.Slip.Overview"
             },
             {
                 "title": "Via.ViaGeometry.ViaPoint.Microsite.MicrositeStrikeLine"
@@ -33776,7 +33776,7 @@ tags = [
                     "title": "Land.Block.CoverBlock"
                 },
                 {
-                    "title": "Via.Flag.Overview"
+                    "title": "Via.Marka.Overview"
                 },
                 {
                     "title": "TagTest"
@@ -33802,7 +33802,7 @@ tags = [
                 "title": "Land.Block.CoverBlock"
             },
             {
-                "title": "Via.Flag.Overview"
+                "title": "Via.Marka.Overview"
             },
             {
                 "title": "TagTest"
@@ -33892,7 +33892,7 @@ tags = [
                     "title": "Dev.Poster"
                 },
                 {
-                    "title": "Move.Overview.MotoHierarchy"
+                    "title": "Move.Overview.MoveHierarchy"
                 },
                 {
                     "title": "TagTest"
@@ -33915,7 +33915,7 @@ tags = [
                 "title": "Dev.Poster"
             },
             {
-                "title": "Move.Overview.MotoHierarchy"
+                "title": "Move.Overview.MoveHierarchy"
             },
             {
                 "title": "TagTest"
@@ -34023,7 +34023,7 @@ tags = [
                     "title": "Move.LegMove.Kneel"
                 },
                 {
-                    "title": "Move.MotoPhrase"
+                    "title": "Move.MovePhrase"
                 },
                 {
                     "title": "Move.ToolMove.BagMove.BagOn"
@@ -34061,7 +34061,7 @@ tags = [
                 "title": "Move.LegMove.Kneel"
             },
             {
-                "title": "Move.MotoPhrase"
+                "title": "Move.MovePhrase"
             },
             {
                 "title": "Move.ToolMove.BagMove.BagOn"
@@ -34270,10 +34270,10 @@ tags = [
                     "title": "Guide.What.WhatElement.ElementName.Affix"
                 },
                 {
-                    "title": "Move.FootMove.FootScreef"
+                    "title": "Move.FootMove.FootSkreef"
                 },
                 {
-                    "title": "Move.MotoPhrase"
+                    "title": "Move.MovePhrase"
                 },
                 {
                     "title": "Move.Overview"
@@ -34299,10 +34299,10 @@ tags = [
                 "title": "Guide.What.WhatElement.ElementName.Affix"
             },
             {
-                "title": "Move.FootMove.FootScreef"
+                "title": "Move.FootMove.FootSkreef"
             },
             {
-                "title": "Move.MotoPhrase"
+                "title": "Move.MovePhrase"
             },
             {
                 "title": "Move.Overview"
@@ -34337,7 +34337,7 @@ tags = [
                     "title": "Move.HoleMove.HoleOpen"
                 },
                 {
-                    "title": "Move.MotoPhrase"
+                    "title": "Move.MovePhrase"
                 },
                 {
                     "title": "TagTest"
@@ -34363,7 +34363,7 @@ tags = [
                 "title": "Move.HoleMove.HoleOpen"
             },
             {
-                "title": "Move.MotoPhrase"
+                "title": "Move.MovePhrase"
             },
             {
                 "title": "TagTest"
@@ -34495,13 +34495,13 @@ tags = [
                     "title": "Dev.System"
                 },
                 {
-                    "title": "Move.MotoVideo"
+                    "title": "Move.MoveVideo"
                 },
                 {
-                    "title": "Move.Overview.MotoHierarchy.Submoto"
+                    "title": "Move.Overview.MoveHierarchy.Submoto"
                 },
                 {
-                    "title": "Move.ToolMove.SpadeMove.SpadeScreef"
+                    "title": "Move.ToolMove.SpadeMove.SpadeSkreef"
                 },
                 {
                     "title": "Psike.CognitiveEase.Clarity",
@@ -34528,13 +34528,13 @@ tags = [
                 "title": "Dev.System"
             },
             {
-                "title": "Move.MotoVideo"
+                "title": "Move.MoveVideo"
             },
             {
-                "title": "Move.Overview.MotoHierarchy.Submoto"
+                "title": "Move.Overview.MoveHierarchy.Submoto"
             },
             {
-                "title": "Move.ToolMove.SpadeMove.SpadeScreef"
+                "title": "Move.ToolMove.SpadeMove.SpadeSkreef"
             },
             {
                 "title": "Psike.CognitiveEase.Clarity",
@@ -34662,7 +34662,7 @@ tags = [
                     "title": "Dev.System"
                 },
                 {
-                    "title": "Move.MotoPhrase"
+                    "title": "Move.MovePhrase"
                 },
                 {
                     "title": "Move.Physics.Overview"
@@ -34688,7 +34688,7 @@ tags = [
                 "title": "Dev.System"
             },
             {
-                "title": "Move.MotoPhrase"
+                "title": "Move.MovePhrase"
             },
             {
                 "title": "Move.Physics.Overview"
@@ -35982,7 +35982,7 @@ tags = [
                     "title": "Dev.Infographic.TreeView"
                 },
                 {
-                    "title": "Move.MotoName.Overview"
+                    "title": "Move.MoveName.Overview"
                 },
                 {
                     "title": "TagTest"
@@ -36008,7 +36008,7 @@ tags = [
                 "title": "Dev.Infographic.TreeView"
             },
             {
-                "title": "Move.MotoName.Overview"
+                "title": "Move.MoveName.Overview"
             },
             {
                 "title": "TagTest"
@@ -36326,7 +36326,7 @@ tags = [
                     "title": "Move.ClothingMove.Overview"
                 },
                 {
-                    "title": "Move.Overview.MotoHierarchy"
+                    "title": "Move.Overview.MoveHierarchy"
                 },
                 {
                     "title": "TagTest"
@@ -36358,7 +36358,7 @@ tags = [
                 "title": "Move.ClothingMove.Overview"
             },
             {
-                "title": "Move.Overview.MotoHierarchy"
+                "title": "Move.Overview.MoveHierarchy"
             },
             {
                 "title": "TagTest"
@@ -36393,7 +36393,7 @@ tags = [
                     "title": "Move.ToolMove.BoxMove.Overview"
                 },
                 {
-                    "title": "Via.Flag.Overview"
+                    "title": "Via.Marka.Overview"
                 },
                 {
                     "title": "TagTest"
@@ -36422,7 +36422,7 @@ tags = [
                 "title": "Move.ToolMove.BoxMove.Overview"
             },
             {
-                "title": "Via.Flag.Overview"
+                "title": "Via.Marka.Overview"
             },
             {
                 "title": "TagTest"
@@ -36448,13 +36448,13 @@ tags = [
                     "title": "Move.LegMove.LegRockUp"
                 },
                 {
-                    "title": "Move.MotoDirection.Overview"
+                    "title": "Move.MoveDirection.Overview"
                 },
                 {
-                    "title": "Move.MotoName.Overview"
+                    "title": "Move.MoveName.Overview"
                 },
                 {
-                    "title": "Move.Overview.MotoHierarchy.Submoto"
+                    "title": "Move.Overview.MoveHierarchy.Submoto"
                 },
                 {
                     "title": "Via.Direction"
@@ -36480,13 +36480,13 @@ tags = [
                 "title": "Move.LegMove.LegRockUp"
             },
             {
-                "title": "Move.MotoDirection.Overview"
+                "title": "Move.MoveDirection.Overview"
             },
             {
-                "title": "Move.MotoName.Overview"
+                "title": "Move.MoveName.Overview"
             },
             {
-                "title": "Move.Overview.MotoHierarchy.Submoto"
+                "title": "Move.Overview.MoveHierarchy.Submoto"
             },
             {
                 "title": "Via.Direction"
@@ -36633,13 +36633,13 @@ tags = [
                     "title": "Via.AreaCover.Overview"
                 },
                 {
-                    "title": "Via.Flag.FlagLine.FlagLineIn"
+                    "title": "Via.Marka.MarkaLine.MarkaLineIn"
                 },
                 {
-                    "title": "Via.Flag.FlagLine.FlagLineIn.StartPoint"
+                    "title": "Via.Marka.MarkaLine.MarkaLineIn.StartPoint"
                 },
                 {
-                    "title": "Via.ViaGeometry.ViaPoint.FlagSite"
+                    "title": "Via.ViaGeometry.ViaPoint.MarkaSite"
                 },
                 {
                     "title": "Via.ViaGeometry.ViaPoint.Microsite.PlantedMicrosite"
@@ -36671,13 +36671,13 @@ tags = [
                 "title": "Via.AreaCover.Overview"
             },
             {
-                "title": "Via.Flag.FlagLine.FlagLineIn"
+                "title": "Via.Marka.MarkaLine.MarkaLineIn"
             },
             {
-                "title": "Via.Flag.FlagLine.FlagLineIn.StartPoint"
+                "title": "Via.Marka.MarkaLine.MarkaLineIn.StartPoint"
             },
             {
-                "title": "Via.ViaGeometry.ViaPoint.FlagSite"
+                "title": "Via.ViaGeometry.ViaPoint.MarkaSite"
             },
             {
                 "title": "Via.ViaGeometry.ViaPoint.Microsite.PlantedMicrosite"
@@ -36922,10 +36922,10 @@ tags = [
                     "title": "Guide.Why.Productivity.Efficiency"
                 },
                 {
-                    "title": "Move.MotoDiagram.MotoTimeline"
+                    "title": "Move.MoveDiagram.MoveTimeline"
                 },
                 {
-                    "title": "Move.MotoPhrase"
+                    "title": "Move.MovePhrase"
                 },
                 {
                     "title": "TagTest"
@@ -36957,10 +36957,10 @@ tags = [
                 "title": "Guide.Why.Productivity.Efficiency"
             },
             {
-                "title": "Move.MotoDiagram.MotoTimeline"
+                "title": "Move.MoveDiagram.MoveTimeline"
             },
             {
-                "title": "Move.MotoPhrase"
+                "title": "Move.MovePhrase"
             },
             {
                 "title": "TagTest"
@@ -37212,7 +37212,7 @@ tags = [
                     "title": "PlantaBeta"
                 },
                 {
-                    "title": "Via.Flag.LineInFlag"
+                    "title": "Via.Marka.LineInMarka"
                 },
                 {
                     "title": "Via.PieceCover.PerimeterCover"
@@ -37251,7 +37251,7 @@ tags = [
                 "title": "PlantaBeta"
             },
             {
-                "title": "Via.Flag.LineInFlag"
+                "title": "Via.Marka.LineInMarka"
             },
             {
                 "title": "Via.PieceCover.PerimeterCover"
@@ -37778,7 +37778,7 @@ tags = [
                     "title": "Move.BodyMove.Walk"
                 },
                 {
-                    "title": "Move.Overview.MotoHierarchy.Submoto"
+                    "title": "Move.Overview.MoveHierarchy.Submoto"
                 },
                 {
                     "title": "Psike.Calm"
@@ -37813,7 +37813,7 @@ tags = [
                 "title": "Move.BodyMove.Walk"
             },
             {
-                "title": "Move.Overview.MotoHierarchy.Submoto"
+                "title": "Move.Overview.MoveHierarchy.Submoto"
             },
             {
                 "title": "Psike.Calm"
@@ -37985,10 +37985,10 @@ tags = [
                     "title": "Move.LegMove.LegSwing"
                 },
                 {
-                    "title": "Move.MotoCard"
+                    "title": "Move.MoveCard"
                 },
                 {
-                    "title": "Move.MotoDiagram.MotoTimeline"
+                    "title": "Move.MoveDiagram.MoveTimeline"
                 },
                 {
                     "title": "PlantaBeta"
@@ -38014,10 +38014,10 @@ tags = [
                 "title": "Move.LegMove.LegSwing"
             },
             {
-                "title": "Move.MotoCard"
+                "title": "Move.MoveCard"
             },
             {
-                "title": "Move.MotoDiagram.MotoTimeline"
+                "title": "Move.MoveDiagram.MoveTimeline"
             },
             {
                 "title": "PlantaBeta"
@@ -38138,10 +38138,10 @@ tags = [
                     "title": "Move.BodyMove.Fall"
                 },
                 {
-                    "title": "Move.MotoError.Slip.Overview"
+                    "title": "Move.MoveError.Slip.Overview"
                 },
                 {
-                    "title": "Move.MotoPhrase"
+                    "title": "Move.MovePhrase"
                 },
                 {
                     "title": "PlantaBeta"
@@ -38164,10 +38164,10 @@ tags = [
                 "title": "Move.BodyMove.Fall"
             },
             {
-                "title": "Move.MotoError.Slip.Overview"
+                "title": "Move.MoveError.Slip.Overview"
             },
             {
-                "title": "Move.MotoPhrase"
+                "title": "Move.MovePhrase"
             },
             {
                 "title": "PlantaBeta"
@@ -38322,7 +38322,7 @@ tags = [
                     "title": "Dev.System.Object"
                 },
                 {
-                    "title": "Move.MotoError.Slip.Overview"
+                    "title": "Move.MoveError.Slip.Overview"
                 },
                 {
                     "title": "PlantaBeta"
@@ -38342,7 +38342,7 @@ tags = [
                 "title": "Dev.System.Object"
             },
             {
-                "title": "Move.MotoError.Slip.Overview"
+                "title": "Move.MoveError.Slip.Overview"
             },
             {
                 "title": "PlantaBeta"
@@ -38405,10 +38405,10 @@ tags = [
                     "title": "Move.Overview"
                 },
                 {
-                    "title": "Move.Overview.MotoHierarchy.Submoto"
+                    "title": "Move.Overview.MoveHierarchy.Submoto"
                 },
                 {
-                    "title": "Move.Overview.MotoHierarchy.Supermoto"
+                    "title": "Move.Overview.MoveHierarchy.Supermoto"
                 },
                 {
                     "title": "PlantaBeta"
@@ -38431,10 +38431,10 @@ tags = [
                 "title": "Move.Overview"
             },
             {
-                "title": "Move.Overview.MotoHierarchy.Submoto"
+                "title": "Move.Overview.MoveHierarchy.Submoto"
             },
             {
-                "title": "Move.Overview.MotoHierarchy.Supermoto"
+                "title": "Move.Overview.MoveHierarchy.Supermoto"
             },
             {
                 "title": "PlantaBeta"
@@ -38616,10 +38616,10 @@ tags = [
                     "title": "Dev.Infographic.TreeView"
                 },
                 {
-                    "title": "Move.MotoDiagram.MotoTimeline"
+                    "title": "Move.MoveDiagram.MoveTimeline"
                 },
                 {
-                    "title": "Move.MotoDiagram.Overview"
+                    "title": "Move.MoveDiagram.Overview"
                 },
                 {
                     "title": "PlantaBeta"
@@ -38642,10 +38642,10 @@ tags = [
                 "title": "Dev.Infographic.TreeView"
             },
             {
-                "title": "Move.MotoDiagram.MotoTimeline"
+                "title": "Move.MoveDiagram.MoveTimeline"
             },
             {
-                "title": "Move.MotoDiagram.Overview"
+                "title": "Move.MoveDiagram.Overview"
             },
             {
                 "title": "PlantaBeta"
@@ -39897,7 +39897,7 @@ tags = [
                     "title": "Dev.Interdisciplinary"
                 },
                 {
-                    "title": "Move.MotoDifficulty.Overview"
+                    "title": "Move.MoveDifficulty.Overview"
                 },
                 {
                     "title": "PlantaBeta"
@@ -39923,7 +39923,7 @@ tags = [
                 "title": "Dev.Interdisciplinary"
             },
             {
-                "title": "Move.MotoDifficulty.Overview"
+                "title": "Move.MoveDifficulty.Overview"
             },
             {
                 "title": "PlantaBeta"
@@ -40325,7 +40325,7 @@ tags = [
                     "title": "Dev.Element.ElementCard.Comparison(ElementCards)"
                 },
                 {
-                    "title": "Move.MotoComposition.MotoSelection.MotoComparison"
+                    "title": "Move.MoveComposition.MoveSelection.MoveComparison"
                 },
                 {
                     "title": "Via.ViaComposition.ViaSelection.ViaComparison"
@@ -40334,7 +40334,7 @@ tags = [
                     "title": "Dev.Interdisciplinary.Soccer"
                 },
                 {
-                    "title": "Dev.Element.ElementDiagram.Labels.TextLabel.MotoLabel"
+                    "title": "Dev.Element.ElementDiagram.Labels.TextLabel.MoveLabel"
                 },
                 {
                     "title": "Dev.Element.ElementDiagram.Labels.NumberLabel"
@@ -40360,7 +40360,7 @@ tags = [
                 "title": "Dev.Element.ElementCard.Comparison(ElementCards)"
             },
             {
-                "title": "Move.MotoComposition.MotoSelection.MotoComparison"
+                "title": "Move.MoveComposition.MoveSelection.MoveComparison"
             },
             {
                 "title": "Via.ViaComposition.ViaSelection.ViaComparison"
@@ -40369,7 +40369,7 @@ tags = [
                 "title": "Dev.Interdisciplinary.Soccer"
             },
             {
-                "title": "Dev.Element.ElementDiagram.Labels.TextLabel.MotoLabel"
+                "title": "Dev.Element.ElementDiagram.Labels.TextLabel.MoveLabel"
             },
             {
                 "title": "Dev.Element.ElementDiagram.Labels.NumberLabel"
@@ -40401,7 +40401,7 @@ tags = [
                     "title": "Beta.BetaDiagram"
                 },
                 {
-                    "title": "Move.MotoFrequency"
+                    "title": "Move.MoveFrequency"
                 },
                 {
                     "title": "Dev.Interdisciplinary.Soccer"
@@ -40427,7 +40427,7 @@ tags = [
                 "title": "Beta.BetaDiagram"
             },
             {
-                "title": "Move.MotoFrequency"
+                "title": "Move.MoveFrequency"
             },
             {
                 "title": "Dev.Interdisciplinary.Soccer"
@@ -40459,7 +40459,7 @@ tags = [
                     "title": "Via.Chunking.ChunkPair"
                 },
                 {
-                    "title": "Move.MotoComposition.MotoSelection"
+                    "title": "Move.MoveComposition.MoveSelection"
                 },
                 {
                     "title": "Via.ViaComposition.ViaSelection"
@@ -40495,7 +40495,7 @@ tags = [
                 "title": "Via.Chunking.ChunkPair"
             },
             {
-                "title": "Move.MotoComposition.MotoSelection"
+                "title": "Move.MoveComposition.MoveSelection"
             },
             {
                 "title": "Via.ViaComposition.ViaSelection"
@@ -40596,7 +40596,7 @@ tags = [
                     "title": "Dev.Infographic.Sunburst"
                 },
                 {
-                    "title": "Move.MotoFrequency"
+                    "title": "Move.MoveFrequency"
                 },
                 {
                     "title": "Dev.Element.ElementFrequency"
@@ -40622,7 +40622,7 @@ tags = [
                 "title": "Dev.Infographic.Sunburst"
             },
             {
-                "title": "Move.MotoFrequency"
+                "title": "Move.MoveFrequency"
             },
             {
                 "title": "Dev.Element.ElementFrequency"
@@ -41025,13 +41025,13 @@ tags = [
                     "title": "Dev.Element.ElementTimeline"
                 },
                 {
-                    "title": "Move.MotoLine.MotoDistanceLine"
+                    "title": "Move.MoveLine.MoveDistanceLine"
                 },
                 {
                     "title": "Via.ViaGeometry.ViaCurve.ViaDistanceLine"
                 },
                 {
-                    "title": "Move.MotoLine.MotoDisplacementLine"
+                    "title": "Move.MoveLine.MoveDisplacementLine"
                 },
                 {
                     "title": "Via.ViaGeometry.ViaCurve.ViaDisplacementLine"
@@ -41048,13 +41048,13 @@ tags = [
                 "title": "Dev.Element.ElementTimeline"
             },
             {
-                "title": "Move.MotoLine.MotoDistanceLine"
+                "title": "Move.MoveLine.MoveDistanceLine"
             },
             {
                 "title": "Via.ViaGeometry.ViaCurve.ViaDistanceLine"
             },
             {
-                "title": "Move.MotoLine.MotoDisplacementLine"
+                "title": "Move.MoveLine.MoveDisplacementLine"
             },
             {
                 "title": "Via.ViaGeometry.ViaCurve.ViaDisplacementLine"
@@ -41525,7 +41525,7 @@ tags = [
             "lastUpdated": 1692983127685,
             "tags": [
                 {
-                    "title": "Move.MotoAttributes.MotoPermutation"
+                    "title": "Move.MoveAttributes.MovePermutation"
                 },
                 {
                     "title": "Via.ViaAttributes.ViaPermutation"
@@ -41534,7 +41534,7 @@ tags = [
                     "title": "Dev.Element.ElementDiagram.Line.ProducedLine"
                 },
                 {
-                    "title": "Move.MotoSpace.Overview"
+                    "title": "Move.MoveSpace.Overview"
                 },
                 {
                     "title": "Via.ViaGeometry.ViaSpace.Overview"
@@ -41575,7 +41575,7 @@ tags = [
         "extension": "jpg",
         "tags": [
             {
-                "title": "Move.MotoAttributes.MotoPermutation"
+                "title": "Move.MoveAttributes.MovePermutation"
             },
             {
                 "title": "Via.ViaAttributes.ViaPermutation"
@@ -41584,7 +41584,7 @@ tags = [
                 "title": "Dev.Element.ElementDiagram.Line.ProducedLine"
             },
             {
-                "title": "Move.MotoSpace.Overview"
+                "title": "Move.MoveSpace.Overview"
             },
             {
                 "title": "Via.ViaGeometry.ViaSpace.Overview"
@@ -41637,7 +41637,7 @@ tags = [
                     "title": "Dev.Element.ElementDiagram.AnglePie"
                 },
                 {
-                    "title": "Move.MotoPoint.Overview"
+                    "title": "Move.MovePoint.Overview"
                 },
                 {
                     "title": "Via.ViaGeometry.ViaPoint.Overview"
@@ -41646,13 +41646,13 @@ tags = [
                     "title": "Via.ViaGeometry.ViaCurve.Overview"
                 },
                 {
-                    "title": "Move.MotoDirection.RelativeDirection.PerpendicularTo"
+                    "title": "Move.MoveDirection.RelativeDirection.PerpendicularTo"
                 },
                 {
                     "title": "Via.AreaCover.AreaBoundary.BoundaryLine"
                 },
                 {
-                    "title": "Move.MotoPlane"
+                    "title": "Move.MovePlane"
                 },
                 {
                     "title": "Land.ContactSurface.Overview"
@@ -41684,7 +41684,7 @@ tags = [
                 "title": "Dev.Element.ElementDiagram.AnglePie"
             },
             {
-                "title": "Move.MotoPoint.Overview"
+                "title": "Move.MovePoint.Overview"
             },
             {
                 "title": "Via.ViaGeometry.ViaPoint.Overview"
@@ -41693,13 +41693,13 @@ tags = [
                 "title": "Via.ViaGeometry.ViaCurve.Overview"
             },
             {
-                "title": "Move.MotoDirection.RelativeDirection.PerpendicularTo"
+                "title": "Move.MoveDirection.RelativeDirection.PerpendicularTo"
             },
             {
                 "title": "Via.AreaCover.AreaBoundary.BoundaryLine"
             },
             {
-                "title": "Move.MotoPlane"
+                "title": "Move.MovePlane"
             },
             {
                 "title": "Land.ContactSurface.Overview"
@@ -42116,16 +42116,16 @@ tags = [
                     "title": "Land.Piece.PieceShape"
                 },
                 {
-                    "title": "Move.MotoShape"
+                    "title": "Move.MoveShape"
                 },
                 {
-                    "title": "Move.MotoAttributes.MotoShape.TriangleMoto"
+                    "title": "Move.MoveAttributes.MoveShape.TriangleMove"
                 },
                 {
-                    "title": "Move.MotoAttributes.MotoShape.SquareMoto"
+                    "title": "Move.MoveAttributes.MoveShape.SquareMove"
                 },
                 {
-                    "title": "Move.MotoAttributes.MotoShape.CircleMoto"
+                    "title": "Move.MoveAttributes.MoveShape.CircleMove"
                 },
                 {
                     "title": "Via.AreaCover.PenroseCover"
@@ -42163,16 +42163,16 @@ tags = [
                 "title": "Land.Piece.PieceShape"
             },
             {
-                "title": "Move.MotoShape"
+                "title": "Move.MoveShape"
             },
             {
-                "title": "Move.MotoAttributes.MotoShape.TriangleMoto"
+                "title": "Move.MoveAttributes.MoveShape.TriangleMove"
             },
             {
-                "title": "Move.MotoAttributes.MotoShape.SquareMoto"
+                "title": "Move.MoveAttributes.MoveShape.SquareMove"
             },
             {
-                "title": "Move.MotoAttributes.MotoShape.CircleMoto"
+                "title": "Move.MoveAttributes.MoveShape.CircleMove"
             },
             {
                 "title": "Via.AreaCover.PenroseCover"
@@ -44412,13 +44412,13 @@ tags = [
                     "title": "RawVideo"
                 },
                 {
-                    "title": "Move.MotoPhrase.PlantingPhrase"
+                    "title": "Move.MovePhrase.PlantingPhrase"
                 },
                 {
                     "title": "Land.Slash.LowSlash"
                 },
                 {
-                    "title": "Move.ToolMove.FlagMove.FlagThrow"
+                    "title": "Move.ToolMove.MarkaMove.MarkaThrow"
                 },
                 {
                     "title": "Move.ArmMove.TreeLoad"
@@ -44438,13 +44438,13 @@ tags = [
                 "title": "RawVideo"
             },
             {
-                "title": "Move.MotoPhrase.PlantingPhrase"
+                "title": "Move.MovePhrase.PlantingPhrase"
             },
             {
                 "title": "Land.Slash.LowSlash"
             },
             {
-                "title": "Move.ToolMove.FlagMove.FlagThrow"
+                "title": "Move.ToolMove.MarkaMove.MarkaThrow"
             },
             {
                 "title": "Move.ArmMove.TreeLoad"
@@ -44516,13 +44516,13 @@ tags = [
                     "title": "RawVideo"
                 },
                 {
-                    "title": "Move.MotoError.DroppedTree"
+                    "title": "Move.MoveError.DroppedTree"
                 },
                 {
                     "title": "Land.Slash.LowSlash"
                 },
                 {
-                    "title": "Move.ToolMove.FlagMove.FlagThrow"
+                    "title": "Move.ToolMove.MarkaMove.MarkaThrow"
                 },
                 {
                     "title": "Move.ToolMove.SpadeMove.SpadeProp"
@@ -44536,13 +44536,13 @@ tags = [
                 "title": "RawVideo"
             },
             {
-                "title": "Move.MotoError.DroppedTree"
+                "title": "Move.MoveError.DroppedTree"
             },
             {
                 "title": "Land.Slash.LowSlash"
             },
             {
-                "title": "Move.ToolMove.FlagMove.FlagThrow"
+                "title": "Move.ToolMove.MarkaMove.MarkaThrow"
             },
             {
                 "title": "Move.ToolMove.SpadeMove.SpadeProp"
@@ -44559,7 +44559,7 @@ tags = [
                     "title": "RawVideo"
                 },
                 {
-                    "title": "Move.MotoPhrase.BaggingUpPhrase"
+                    "title": "Move.MovePhrase.BaggingUpPhrase"
                 },
                 {
                     "title": "Move.CacheMove.BundlePlacement"
@@ -44576,7 +44576,7 @@ tags = [
                 "title": "RawVideo"
             },
             {
-                "title": "Move.MotoPhrase.BaggingUpPhrase"
+                "title": "Move.MovePhrase.BaggingUpPhrase"
             },
             {
                 "title": "Move.CacheMove.BundlePlacement"
@@ -44614,7 +44614,7 @@ tags = [
                     "title": "Move.ToolMove.SpadeMove.SpadePoke"
                 },
                 {
-                    "title": "Via.Flag.BoundaryFlag"
+                    "title": "Via.Marka.BoundaryMarka"
                 },
                 {
                     "title": "Move.ToolMove.BagMove.BagAdjustment"
@@ -44649,7 +44649,7 @@ tags = [
                 "title": "Move.ToolMove.SpadeMove.SpadePoke"
             },
             {
-                "title": "Via.Flag.BoundaryFlag"
+                "title": "Via.Marka.BoundaryMarka"
             },
             {
                 "title": "Move.ToolMove.BagMove.BagAdjustment"
@@ -44678,7 +44678,7 @@ tags = [
                     "title": "Move.HandMove.HandClose.PunchClose"
                 },
                 {
-                    "title": "Move.ToolMove.FlagMove.FlagThrow"
+                    "title": "Move.ToolMove.MarkaMove.MarkaThrow"
                 },
                 {
                     "title": "Move.ToolMove.GaiterMove.Overview"
@@ -44710,7 +44710,7 @@ tags = [
                 "title": "Move.HandMove.HandClose.PunchClose"
             },
             {
-                "title": "Move.ToolMove.FlagMove.FlagThrow"
+                "title": "Move.ToolMove.MarkaMove.MarkaThrow"
             },
             {
                 "title": "Move.ToolMove.GaiterMove.Overview"
@@ -44885,7 +44885,7 @@ tags = [
                     "title": "Move.HandMove.HandClose"
                 },
                 {
-                    "title": "Move.MotoPhrase.PlantingPhrase"
+                    "title": "Move.MovePhrase.PlantingPhrase"
                 },
                 {
                     "title": "Move.FootMove.FootClose"
@@ -44903,7 +44903,7 @@ tags = [
                     "title": "Move.ArmMove.TreeLoad"
                 },
                 {
-                    "title": "Move.MotoError.DroppedTree"
+                    "title": "Move.MoveError.DroppedTree"
                 },
                 {
                     "title": "Land.Slash.LowSlash"
@@ -44915,13 +44915,13 @@ tags = [
                     "title": "Move.ToolMove.SpadeMove.SpadePoke"
                 },
                 {
-                    "title": "Via.Flag.FlagSite"
+                    "title": "Via.Marka.MarkaSite"
                 },
                 {
-                    "title": "Move.HandMove.HandScreef"
+                    "title": "Move.HandMove.HandSkreef"
                 },
                 {
-                    "title": "Move.ToolMove.FlagMove.FlagThrow"
+                    "title": "Move.ToolMove.MarkaMove.MarkaThrow"
                 },
                 {
                     "title": "Move.HandMove.HandClose.PunchClose"
@@ -44938,7 +44938,7 @@ tags = [
                 "title": "Move.HandMove.HandClose"
             },
             {
-                "title": "Move.MotoPhrase.PlantingPhrase"
+                "title": "Move.MovePhrase.PlantingPhrase"
             },
             {
                 "title": "Move.FootMove.FootClose"
@@ -44956,7 +44956,7 @@ tags = [
                 "title": "Move.ArmMove.TreeLoad"
             },
             {
-                "title": "Move.MotoError.DroppedTree"
+                "title": "Move.MoveError.DroppedTree"
             },
             {
                 "title": "Land.Slash.LowSlash"
@@ -44968,13 +44968,13 @@ tags = [
                 "title": "Move.ToolMove.SpadeMove.SpadePoke"
             },
             {
-                "title": "Via.Flag.FlagSite"
+                "title": "Via.Marka.MarkaSite"
             },
             {
-                "title": "Move.HandMove.HandScreef"
+                "title": "Move.HandMove.HandSkreef"
             },
             {
-                "title": "Move.ToolMove.FlagMove.FlagThrow"
+                "title": "Move.ToolMove.MarkaMove.MarkaThrow"
             },
             {
                 "title": "Move.HandMove.HandClose.PunchClose"
@@ -45041,7 +45041,7 @@ tags = [
                     "title": "Via.ViaDirection.ViaDownSlope"
                 },
                 {
-                    "title": "Via.Flag.FlagSite"
+                    "title": "Via.Marka.MarkaSite"
                 },
                 {
                     "title": "Move.HandMove.HandClose"
@@ -45079,7 +45079,7 @@ tags = [
                 "title": "Via.ViaDirection.ViaDownSlope"
             },
             {
-                "title": "Via.Flag.FlagSite"
+                "title": "Via.Marka.MarkaSite"
             },
             {
                 "title": "Move.HandMove.HandClose"
@@ -45123,7 +45123,7 @@ tags = [
                     "title": "Move.ToolMove.BagMove.BaggingUp"
                 },
                 {
-                    "title": "Move.MotoPhrase.BaggingUpPhrase"
+                    "title": "Move.MovePhrase.BaggingUpPhrase"
                 },
                 {
                     "title": "Guide.Why.Productivity.Efficiency.Redundancy"
@@ -45173,7 +45173,7 @@ tags = [
                 "title": "Move.ToolMove.BagMove.BaggingUp"
             },
             {
-                "title": "Move.MotoPhrase.BaggingUpPhrase"
+                "title": "Move.MovePhrase.BaggingUpPhrase"
             },
             {
                 "title": "Guide.Why.Productivity.Efficiency.Redundancy"
@@ -45272,7 +45272,7 @@ tags = [
                     "title": "Move.CacheMove.GarbageBox"
                 },
                 {
-                    "title": "Move.MotoPhrase.BaggingUpPhrase"
+                    "title": "Move.MovePhrase.BaggingUpPhrase"
                 }
             ],
             "id": "5b4d54d18ef94fcb91f8f6917e4817f0"
@@ -45325,7 +45325,7 @@ tags = [
                 "title": "Move.CacheMove.GarbageBox"
             },
             {
-                "title": "Move.MotoPhrase.BaggingUpPhrase"
+                "title": "Move.MovePhrase.BaggingUpPhrase"
             }
         ],
         "thumbPath": "PlantaBeta_Video\\.ts\\Video_014.mp4.jpg"
@@ -45377,7 +45377,7 @@ tags = [
                     "title": "RawVideo"
                 },
                 {
-                    "title": "Move.MotoPhrase.BaggingUpPhrase"
+                    "title": "Move.MovePhrase.BaggingUpPhrase"
                 },
                 {
                     "title": "Move.ToolMove.BundleMove.BundleGrip"
@@ -45392,7 +45392,7 @@ tags = [
                     "title": "Move.ToolMove.BundleMove.BundlePeel"
                 },
                 {
-                    "title": "Move.ToolMove.BundleMove.MotoError.WrapperLitter"
+                    "title": "Move.ToolMove.BundleMove.MoveError.WrapperLitter"
                 },
                 {
                     "title": "Move.ToolMove.GaiterMove.Overview"
@@ -45401,7 +45401,7 @@ tags = [
                     "title": "Move.ArmMove.ArmExtension"
                 },
                 {
-                    "title": "Move.MotoAttributes.MotoType.PushMoto"
+                    "title": "Move.MoveAttributes.MoveType.PushMove"
                 },
                 {
                     "title": "Move.ToolMove.BundleMove.BundleRoll"
@@ -45451,7 +45451,7 @@ tags = [
                 "title": "RawVideo"
             },
             {
-                "title": "Move.MotoPhrase.BaggingUpPhrase"
+                "title": "Move.MovePhrase.BaggingUpPhrase"
             },
             {
                 "title": "Move.ToolMove.BundleMove.BundleGrip"
@@ -45466,7 +45466,7 @@ tags = [
                 "title": "Move.ToolMove.BundleMove.BundlePeel"
             },
             {
-                "title": "Move.ToolMove.BundleMove.MotoError.WrapperLitter"
+                "title": "Move.ToolMove.BundleMove.MoveError.WrapperLitter"
             },
             {
                 "title": "Move.ToolMove.GaiterMove.Overview"
@@ -45475,7 +45475,7 @@ tags = [
                 "title": "Move.ArmMove.ArmExtension"
             },
             {
-                "title": "Move.MotoAttributes.MotoType.PushMoto"
+                "title": "Move.MoveAttributes.MoveType.PushMove"
             },
             {
                 "title": "Move.ToolMove.BundleMove.BundleRoll"

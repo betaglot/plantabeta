@@ -18,13 +18,13 @@ Mount and also attach a **wire** and HiVis to the camera in case the mount malfu
 
 #### HeadMount
 
-- HeadMoto
+- HeadMove
 
 #### ForearmMount
 
 - Hole
-- SpadeMoto
-- HandMoto
+- SpadeMove
+- HandMove
 
 #### TripodMount
 

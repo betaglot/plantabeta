@@ -9,7 +9,7 @@ Art inspired by Planting
 
 ---
 
-![Alt text](/art/LegMotoOverlap.jpg)
+![Alt text](/art/LegMoveOverlap.jpg)
 
 ---
 

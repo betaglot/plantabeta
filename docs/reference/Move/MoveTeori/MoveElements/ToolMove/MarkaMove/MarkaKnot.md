@@ -1,9 +1,9 @@
-# 🟠 <move>FlagKnot</move>
+# 🟠 <move>MarkaKnot</move>
 
-## FlagBowtie
+## MarkaBowtie
 
-## FlagGirthHitch
+## MarkaGirthHitch
 
-## FlagOverhandKnot
+## MarkaOverhandKnot
 
 ![MoveIkon](/Move/Move_Ikon.png)

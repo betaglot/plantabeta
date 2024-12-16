@@ -1,4 +1,4 @@
-# 🟠 <move>HeadMoto</move>
+# 🟠 <move>HeadMove</move>
 
 ## Head Anatomy
 
@@ -17,7 +17,7 @@
 
 <h2>PageTags</h2>
 
-- "Move.HeadMove.Find.Flag"
+- "Move.HeadMove.Find.Marka"
 - "Move.HeadMove.LookAt"
 - "Move.HeadMove.Overview"
 

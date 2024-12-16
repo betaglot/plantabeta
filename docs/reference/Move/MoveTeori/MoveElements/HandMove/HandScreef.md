@@ -1,4 +1,4 @@
-# 🟠 <move>HandScreef</move>
+# 🟠 <move>HandSkreef</move>
 
 ![MoveIkon](/Move/Move_Ikon.png)
 
@@ -15,6 +15,6 @@
 
 <h2>PageTags</h2>
 
-- "Move.HandMove.HandScreef"
+- "Move.HandMove.HandSkreef"
 
 :::

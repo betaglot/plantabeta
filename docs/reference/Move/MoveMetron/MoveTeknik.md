@@ -316,7 +316,7 @@ ApparentPathOfLeastResistanceDeception
     - LowPrecision
     - LargeTargetHold
 
-- FineMotorControl
+- FineMoverControl
 - DelicateMovement
 - SmallMovement
     - FootSwap

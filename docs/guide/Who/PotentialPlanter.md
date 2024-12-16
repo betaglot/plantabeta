@@ -24,11 +24,11 @@ What is tree planting like?
 
 - Resilience
 - Leg Strength
-- DynamicMotos
+- DynamicMoves
 
 ### Wrestling
 
-- FullBodyMoto
+- FullBodyMove
 - Resilience
 - Move Phrases
 

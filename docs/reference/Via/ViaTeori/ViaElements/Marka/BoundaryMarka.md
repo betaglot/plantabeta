@@ -1,4 +1,4 @@
-# 🔻 <via>BoundaryFlag</via>
+# 🔻 <via>BoundaryMarka</via>
 
 ## Cut line
 

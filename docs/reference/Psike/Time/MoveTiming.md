@@ -1,6 +1,14 @@
-# 🟠 <move>BranchMoto</move>
+# 💜 <psike>MoveTiming </psike>
 
-![MoveIkon](/Move/Move_Ikon.png)
+## PlantingRate
+
+### Planted Trees per hour
+
+## Time between two HoleClose
+
+- onHoleClose()
+
+![ViaIkon](/Via/Via_Ikon.png)
 
 ---
 

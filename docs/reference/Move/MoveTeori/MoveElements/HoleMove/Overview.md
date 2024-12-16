@@ -1,4 +1,4 @@
-# 🟠 <move>HoleMoto</move>
+# 🟠 <move>HoleMove</move>
 
 ## Hole Anatomy
 
@@ -24,11 +24,11 @@
 - HoleLibrary_ParaLog_RottenLog_RedRot_DuffShot_
 - HoleLibrary_ParaLog_RottenLog_TreeInspector
 - HoleLibrary_ParaRock_RockSize_LithosphereInfluence
-- HoleLibrary_ParaStump_FastLand_OneHandMoto_SpadeLeverScreef_
+- HoleLibrary_ParaStump_FastLand_OneHandMove_SpadeLeverSkreef_
 - HoleLibrary_Root_ThickRoot_SpadeSnag
 - HoleLibrary_Root_ThinRoot_PlantingSound
 - HoleLibrary_TreeFertilizerHole_ParaHole_SpadeThrow
 - HoleLibrary_TreeFertilizerHole_SameHole_PlantingPhrase
-- HoleLibrary_Underrock_RockPry_SpadeMoto_SpadeBlade_
+- HoleLibrary_Underrock_RockPry_SpadeMove_SpadeBlade_
 
 :::

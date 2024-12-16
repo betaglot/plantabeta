@@ -1,13 +1,6 @@
+# 🟠 <move>BranchMove</move>
 
-# 🔷 <beta>BetaScore</beta>
-
-```py
-
-BetaScore = (BetaDifficultyScore * BetaExecutionScore)
-
-```
-
-Quantify your Beta. Maximum BetaScore is equivalent to maximum efficiency.
+![MoveIkon](/Move/Move_Ikon.png)
 
 ---
 

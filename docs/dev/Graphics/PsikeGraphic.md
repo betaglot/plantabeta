@@ -1,6 +1,4 @@
-# 🟠 <move>TrunkMoto</move>
-
-![MoveIkon](/Move/Move_Ikon.png)
+# 🛠 Psike Graphics
 
 ---
 
@@ -15,5 +13,7 @@
 
 <h2>PageTags</h2>
 
-- "Move.PlantMove.TrunkMoto"
+- "Dev.NeuroDiagram.NeuroTimeline"
+- "Psike.NeuroCard"
+
 :::

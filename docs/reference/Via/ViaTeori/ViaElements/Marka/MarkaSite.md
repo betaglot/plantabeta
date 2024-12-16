@@ -1,18 +1,18 @@
-# 🔻 <via>FlagSite</via>
+# 🔻 <via>MarkaSite</via>
 
-## StumpFlag
+## StumpMarka
 
-## BranchFlag
+## BranchMarka
 
-## MoundFlag
+## MoundMarka
 
-## TrenchFlag
+## TrenchMarka
 
-## BushFlag
+## BushMarka
 
-## LineInFlag
+## LineInMarka
 
-## SlashPileFlag
+## SlashPileMarka
 
 ![ViaIkon](/Via/Via_Ikon.png)
 

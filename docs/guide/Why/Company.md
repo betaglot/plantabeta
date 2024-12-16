@@ -24,6 +24,6 @@
 - "Guide.Who.PlanterResearcher"
 - "Guide.Why.Company"
 - "Guide.Why.Innovation.Database"
-- "Guide.Why.Innovation.MinimizeFlag"
+- "Guide.Why.Innovation.MinimizeMarka"
 
 :::

@@ -1,27 +1,27 @@
-# 🟠 <move>FlagMoto</move>
+# 🟠 <move>MarkaMove</move>
 
-## FlagPut
+## MarkaPut
 
 post verb (MAKE KNOWN)
 
 > to make information known to the public, or to put up signs on land or other property
 
-Flags are posted throughout the land.
+Markas are posted throughout the land.
 
-## Flag Anatomy
+## Marka Anatomy
 
-- FlagBody
-- FlagEnd
+- MarkaBody
+- MarkaEnd
 
-## Flag Attributes
+## Marka Attributes
 
-- FlagLength
-- FlagWidth
-- FlagMaterial
-- FlagHeight
-- FlagColor
+- MarkaLength
+- MarkaWidth
+- MarkaMaterial
+- MarkaHeight
+- MarkaColor
 
-- Flagger Pouch
+- Markager Pouch
 
 ---
 
@@ -32,13 +32,13 @@ Flags are posted throughout the land.
 <!-- =================================================== -->
 ::: details 🛠 <dev>&&&</dev>
 
-- Shovel hand flag grip is obsolete from a time before flag pouch
-- Flag follow through motion to ensure that the flag doesn't fold back on itself, since fully extended flag drapes over branches, while clumped flag just falls to the ground
+- Shovel hand Marka grip is obsolete from a time before Marka pouch
+- Marka follow through motion to ensure that the Marka doesn't fold back on itself, since fully extended Marka drapes over branches, while clumped Marka just falls to the ground
 
 <h2>PageTags</h2>
 
-- "Move.ToolMove.FlagMove.FlagDrop"
-- "Move.ToolMove.FlagMove.FlagStump"
-- "Move.ToolMove.FlagMove.MotoError.PlantedFlag"
-- "Move.ToolMove.FlagMove.Overview"
+- "Move.ToolMove.MarkaMove.MarkaDrop"
+- "Move.ToolMove.MarkaMove.MarkaStump"
+- "Move.ToolMove.MarkaMove.MoveError.PlantedMarka"
+- "Move.ToolMove.MarkaMove.Overview"
 :::

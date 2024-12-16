@@ -68,7 +68,7 @@ ViaPlan vs. ActualVia
 
 ## <eko>EcoSpace</eko>
 
-## <move>MotoSpace</move>
+## <move>MoveSpace</move>
 
 ## <via>ViaSpace</via>
 

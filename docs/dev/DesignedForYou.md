@@ -80,15 +80,15 @@ Remember f(x) = 2x ?
 
 "beta" comes from climbing. It is any information about how to climb something. The term beta is an abbreviation of Betamax, which was hardware used to record video, like a VHS cassette tape 📼. Before the internet climbers would give each other Betamax video tapes of climbs, so if you wanted to see a video of climb was performed you would ask for the "Beta". Although people no longer use tapes 📼, the term is still used in climbing all the time and is sometimes used in other mountain sports, such as, mountain biking and skiing.
 
-Beta is composed of four factors, each of which can be represented by an icon:
+Beta is composed of four types, each of which can be represented by an icon:
 
-🟩<eko>Eko Factor</eko>: All biologic and geologic objects and processes you interact with while in a planting block. For example: slash, roads, stumps, plants, soil and weather.
+🟩<eko>Eko </eko>: All biologic and geologic objects and processes you interact with while in a planting block. For example: slash, roads, stumps, plants, soil and weather.
 
-🟠<move>Move Factor</move>: The movements and tools you use to plant trees. For example: slamming your spade into the ground, ripping flag, your clothing and your bags.
+🟠<move>Move </move>: The movements and tools you use to plant trees. For example: slamming your spade into the ground, ripping Marka, your clothing and your bags.
 
-🔻<via>Via Factor</via>: The path taken by planters. For example: your line in, backfilling, area planting, bouncing while partner planting and deadwalking
+🔻<via>Via </via>: The path taken by planters. For example: your line in, backfilling, area planting, bouncing while partner planting and deadwalking
 
-💜<psike>Psike Factor</psike>: Any phenonmena of your nervous system, includes emotion, thought, perception, awareness, attention and more.  
+💜<psike>Psike </psike>: Any phenonmena of your nervous system, includes emotion, thought, perception, awareness, attention and more.  
 
 ## How am I supposed to use putplant.ca?
 
@@ -113,21 +113,21 @@ Beta is composed of four factors, each of which can be represented by an icon:
 
 - 🟩<eko>[SoilSound](/encyclopedia/Eko/Soil/Overview)</eko>: Muffled Soil has lots more organic matter to absorb sound. Rock is louder than organic matter due to the strength of rock's lattice structure.
 
-- 🟠<move>[Clothing](/encyclopedia/Move/ClothingMoto/Overview)</move>: Don't leave stuff in backbag when wet.
+- 🟠<move>[Clothing](/encyclopedia/Move/ClothingMove/Overview)</move>: Don't leave stuff in backbag when wet.
     - Cotton mold
 
-- 🟠<move>[BundleGrip](/encyclopedia/Move/ToolMoto/Bundle/BundleGrip)</move>: Grab two bundles in each hand, so four bundles at a time when transfering bundles from boxes to bags.
+- 🟠<move>[BundleGrip](/encyclopedia/Move/ToolMove/Bundle/BundleGrip)</move>: Grab two bundles in each hand, so four bundles at a time when transfering bundles from boxes to bags.
 
-- 🟠<move>[TreeTest.Error](/encyclopedia/Move/HandMoto/TreeTest)</move>: One tree test and what are you looking for?
+- 🟠<move>[TreeTest.Error](/encyclopedia/Move/HandMove/TreeTest)</move>: One tree test and what are you looking for?
     - 💜<psike>FearOfReplant</psike>
 
-- 🟠<move>[TreeTest](/encyclopedia/Move/HandMoto/TreeTest)</move>: Single Move for TreeTest
+- 🟠<move>[TreeTest](/encyclopedia/Move/HandMove/TreeTest)</move>: Single Move for TreeTest
 
-- 🟠<move>[SpadeSlam](/encyclopedia/Move/ToolMoto/Spade/SpadeSlam)</move>: Humerus Rotate Out for SpadeSlam to recruit Latissimus Dorsi and prevent overactivation of Pectoralis muscles which causes Shoulder Impingement Injury
+- 🟠<move>[SpadeSlam](/encyclopedia/Move/ToolMove/Spade/SpadeSlam)</move>: Humerus Rotate Out for SpadeSlam to recruit Latissimus Dorsi and prevent overactivation of Pectoralis muscles which causes Shoulder Impingement Injury
 
-- 🟠<move>[SpadeScreef](/encyclopedia/Move/ToolMoto/Spade/SpadeScreef)</move>: SpadeScreef is faster than BootScreef or HandScreef. And it flows into the backswing of SpadeSlam.
+- 🟠<move>[SpadeSkreef](/encyclopedia/Move/ToolMove/Spade/SpadeSkreef)</move>: SpadeSkreef is faster than BootSkreef or HandSkreef. And it flows into the backswing of SpadeSlam.
 
-- 🟠<move>[TraverseBush](/encyclopedia/Move/PlantMoto/Overview)</move>: Spread branches while pushing your way through a bush.
+- 🟠<move>[TraverseBush](/encyclopedia/Move/PlantMove/Overview)</move>: Spread branches while pushing your way through a bush.
     - AlderCluster, MapleCluster
 
 - 🔻<via>[Walkout](/encyclopedia/Via/Path/Overview)</via>: Walkout using the most direct path unless there's a road, skidder trail or clear path near.
@@ -137,9 +137,9 @@ Beta is composed of four factors, each of which can be represented by an icon:
 
 - 🔻<via>[ViaError](/encyclopedia/Via/)</via>: Don't walk up and down slope, only up and across slope, during BoustroCover and ZigzagCover.
 
-- 🔻<via>[Flag](/encyclopedia/Via/)</via>: Only flag the "zag" of ZigzagCover.
+- 🔻<via>[Marka](/encyclopedia/Via/)</via>: Only Marka the "zag" of ZigzagCover.
 
-- 🔻<via>[FlagError](/encyclopedia/Via/)</via>: Attempt to high flag in fill plants whenever possible. The flag may fall to the ground, but it's worth taking the chance since a high flag is more valuable than the time wasted from a HighFlag Fail.
+- 🔻<via>[MarkaError](/encyclopedia/Via/)</via>: Attempt to high Marka in fill plants whenever possible. The Marka may fall to the ground, but it's worth taking the chance since a high Marka is more valuable than the time wasted from a HighMarka Fail.
 
 - 🔷<beta>Lesson</beta>: Point out microsites so planter can work on walking speed while not thinking about SiteSelection
     - Isolate Elements, Isolate Skills. Decompose Elements into subelements then instruct them in isolation.

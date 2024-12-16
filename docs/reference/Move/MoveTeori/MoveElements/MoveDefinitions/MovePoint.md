@@ -1,4 +1,4 @@
-# 🟠 <move>MotoPoint</move>
+# 🟠 <move>MovePoint</move>
 
 ---
 

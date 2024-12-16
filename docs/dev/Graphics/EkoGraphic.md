@@ -20,8 +20,6 @@ Shannon only send what you can't predict
 
 -
 
-
-
 <h2>PageTags</h2>
 
 - "Eko.EkoCard"

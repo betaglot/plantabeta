@@ -1,8 +1,8 @@
-# 🔷🟠 <move>MotoIntensity</move>
+# 🔷🟠 <move>MoveIntensity</move>
 
 ## Definition
 
-### Relationship between <move>MotoIntensity</move> and <via>RouteIntensity</via>
+### Relationship between <move>MoveIntensity</move> and <via>RouteIntensity</via>
 
 Routes determine the minimum intensity of a <move>move</move>.
 
@@ -12,15 +12,15 @@ Climbers can perform a really intense move which is more intense than it needs t
 
 - Holds that are far apart are HighIntensity due to the large distance between them. A Tall Climber can <move>ArmReach</move> with LowIntensity while a ShortClimber must <move>Dyno</move> with HighIntensity for the same <via>route</via>. Does this mean that Route Intensity is relative to climber? No, the <beta>Beta</beta> is more intense but the Route Intensity stays the same. <beta>Beta</beta> is more intense for ShortClimber than TallClimber.
 
-- Route Intensity is independent of MotoIntensity.
+- Route Intensity is independent of MoveIntensity.
 
-- MotoIntensity depends on RouteIntensity.
+- MoveIntensity depends on RouteIntensity.
 
-### Relationship between <psike>MotoIntensity</psike> and <psike>NeuroIntensity</psike>
+### Relationship between <psike>MoveIntensity</psike> and <psike>NeuroIntensity</psike>
 
 MoveComplexity increases NeuroIntensity
 
-High MotoIntensity increases NeuroIntensity
+High MoveIntensity increases NeuroIntensity
 
 - Maximum Neuromuscular Recruitment for an explosive Dyno Move  
 - Dealing with the Pain of ArmPump
@@ -183,7 +183,7 @@ SingleLegSquat
 
 - Increase intensity to a ClimberPart
 
-## EnvironmentIntensity affects MotoIntensity
+## EnvironmentIntensity affects MoveIntensity
 
 - OverhangWall localizes Intensity to Forearms.
 - SlabWall localizes Intensity to LowerLeg.

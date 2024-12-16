@@ -36,12 +36,7 @@ Use TagSpaces or equivalent
 <!-- =================================================== -->
 ::: details 🛠 <dev>&&&</dev>
 
-
-
 - Use Code snippets to write abbreviated names to insert Tags or ElementName
-
-
-
 
 <h2>PageTags</h2>
 
@@ -59,6 +54,6 @@ Use TagSpaces or equivalent
 - "Dev.Transcription"
 - "Dev.Transcription.TranscriptionPhrase"
 - "Dev.VideoAnalysis.VideoTagging"
-- "Move.MotoVideo"
+- "Move.MoveVideo"
 
 :::

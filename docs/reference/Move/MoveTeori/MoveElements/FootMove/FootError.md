@@ -1,6 +1,6 @@
 # 🟠<move>FootError</move>
 
-## FootMotoError
+## FootMoveError
 
 FootSnag
 

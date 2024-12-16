@@ -1,4 +1,4 @@
-# 🟠 <move>BodyMoto</move>
+# 🟠 <move>BodyMove</move>
 
 ## Body Anatomy
 
@@ -13,12 +13,8 @@
 <!-- =================================================== -->
 ::: details 🛠 <dev>&&&</dev>
 
-
-
 - Clamber = Definition("climb, move, or get in or out of something in an awkward and laborious way, typically using both hands and feet")
 - Scramble
-
-
 
 <h2>PageTags</h2>
 
@@ -26,7 +22,7 @@
 - "Move.BodyMove.BodyLock"
 - "Move.BodyMove.BodyPosture"
 - "Move.BodyMove.Landing"
-- "Move.BodyMove.Landing.MotoError.LegProp"
+- "Move.BodyMove.Landing.MoveError.LegProp"
 - "Move.BodyMove.Mantle"
 - "Move.BodyMove.Overview"
 - "Move.BodyMove.Stemming"

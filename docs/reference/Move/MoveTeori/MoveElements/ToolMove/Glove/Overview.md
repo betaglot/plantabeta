@@ -1,4 +1,4 @@
-# 🟠 <move>GloveMoto</move>
+# 🟠 <move>GloveMove</move>
 
 ## Glove Anatomy
 

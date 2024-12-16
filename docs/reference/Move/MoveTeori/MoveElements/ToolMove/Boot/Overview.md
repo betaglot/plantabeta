@@ -1,4 +1,4 @@
-# 🟠 <move>BootMoto</move>
+# 🟠 <move>BootMove</move>
 
 ---
 

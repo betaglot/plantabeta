@@ -197,21 +197,21 @@ tags = {
         "Eko.EkoDiagram.PlotDiagram",
         "Eko.EkoDiagram.TreeSilhouette"
     ],
-    "dev/Graphics/MotoGraphic.md": [
-        "Move.MotoCard",
-        "Move.MotoDecomposition",
-        "Move.MotoDiagram.MotoTimeline",
-        "Move.MotoDiagram.OrthographicDiagram",
-        "Move.MotoDiagram.Overview",
-        "Move.MotoDiagram.Stickfigure",
-        "Move.MotoGif",
-        "Move.MotoLine",
-        "Move.MotoLine.CenterOfMassLine",
-        "Move.MotoLine.MotoDisplacementLine",
-        "Move.MotoLine.MotoDistanceLine",
-        "Move.MotoLine.MotoMirrorLine",
-        "Move.MotoLine.Overview",
-        "Move.MotoPhoto",
+    "dev/Graphics/MoveGraphic.md": [
+        "Move.MoveCard",
+        "Move.MoveDecomposition",
+        "Move.MoveDiagram.MoveTimeline",
+        "Move.MoveDiagram.OrthographicDiagram",
+        "Move.MoveDiagram.Overview",
+        "Move.MoveDiagram.Stickfigure",
+        "Move.MoveGif",
+        "Move.MoveLine",
+        "Move.MoveLine.CenterOfMassLine",
+        "Move.MoveLine.MoveDisplacementLine",
+        "Move.MoveLine.MoveDistanceLine",
+        "Move.MoveLine.MoveMirrorLine",
+        "Move.MoveLine.Overview",
+        "Move.MovePhoto",
         "Move.PlanterDiagram",
         "Move.PlanterDiagram.LevelOfDetail"
     ],
@@ -249,7 +249,7 @@ tags = {
         "Dev.Element.ElementDiagram.Labels.TextLabel",
         "Dev.Element.ElementDiagram.Labels.TextLabel.AbbreviatedTextLabel",
         "Dev.Element.ElementDiagram.Labels.TextLabel.LandLabel",
-        "Dev.Element.ElementDiagram.Labels.TextLabel.MotoLabel",
+        "Dev.Element.ElementDiagram.Labels.TextLabel.MoveLabel",
         "Dev.Element.ElementDiagram.Labels.TextLabel.ViaLineLabel",
         "Dev.Element.ElementDiagram.LevelOfDetail",
         "Dev.Element.ElementDiagram.Line.ConstructionLine",
@@ -441,7 +441,7 @@ tags = {
         "Dev.Transcription",
         "Dev.Transcription.TranscriptionPhrase",
         "Dev.VideoAnalysis.VideoTagging",
-        "Move.MotoVideo"
+        "Move.MoveVideo"
     ],
     "dev/ToDo.md": [],
     "dev/Tools.md": [
@@ -449,10 +449,10 @@ tags = {
         "Dev.ToolDiagram.BagsDiagram",
         "Dev.Tools",
         "Dev.Tools.Cart",
-        "Dev.Tools.Flag",
+        "Dev.Tools.Marka",
         "Dev.Tools.Kit",
         "Dev.Tools.PlantingBag",
-        "Dev.Tools.Screefer",
+        "Dev.Tools.Skreefer",
         "Dev.Tools.Spade"
     ],
     "dev/UX.md": [
@@ -719,7 +719,7 @@ tags = {
         "Guide.Who.PlanterResearcher",
         "Guide.Why.Company",
         "Guide.Why.Innovation.Database",
-        "Guide.Why.Innovation.MinimizeFlag"
+        "Guide.Why.Innovation.MinimizeMarka"
     ],
     "guide/Why/Injury.md": [
         "Guide.Why.Injury",
@@ -740,29 +740,29 @@ tags = {
     "media/Overview.md": [
         "Reference.Gallery"
     ],
-    "Move/ArmMoto/ArmBlock.md": [
+    "Move/ArmMove/ArmBlock.md": [
         "Move.ArmMove.ArmBlock"
     ],
-    "Move/ArmMoto/ArmBalance.md": [
+    "Move/ArmMove/ArmBalance.md": [
         "Move.ArmMove.ArmBalance"
     ],
-    "Move/ArmMoto/ArmProp.md": [
+    "Move/ArmMove/ArmProp.md": [
         "Move.ArmMove.ArmProp"
     ],
-    "Move/ArmMoto/ArmPhrase.md": [],
-    "Move/ArmMoto/ArmSidebagLift.md": [
+    "Move/ArmMove/ArmPhrase.md": [],
+    "Move/ArmMove/ArmSidebagLift.md": [
         "Move.ArmMove.ArmSidebagLift"
     ],
-    "Move/ArmMoto/ArmSwing.md": [
+    "Move/ArmMove/ArmSwing.md": [
         "Move.ArmMove.ArmSwing"
     ],
-    "Move/ArmMoto/ArmWalk.md": [
+    "Move/ArmMove/ArmWalk.md": [
         "Move.ArmMove.ArmWalk"
     ],
-    "Move/ArmMoto/FertilizerThrow.md": [
+    "Move/ArmMove/FertilizerThrow.md": [
         "Move.ArmMove.FertilizerThrow"
     ],
-    "Move/ArmMoto/Overview.md": [
+    "Move/ArmMove/Overview.md": [
         "Move.ArmMove.ArmBrake",
         "Move.ArmMove.ArmCircumduction",
         "Move.ArmMove.ArmCross",
@@ -785,77 +785,77 @@ tags = {
         "Move.ArmMove.ShoulderMove.ShoulderProtract",
         "Move.ArmMove.ShoulderMove.ShoulderRetract"
     ],
-    "Move/ArmMoto/TreeLoad.md": [
+    "Move/ArmMove/TreeLoad.md": [
         "Move.ArmMove.TreeLoad"
     ],
-    "Move/BodyMoto/BodyAbsorb.md": [
+    "Move/BodyMove/BodyAbsorb.md": [
         "Move.BodyMove.BodyAbsorb"
     ],
-    "Move/BodyMoto/BodyBend.md": [
+    "Move/BodyMove/BodyBend.md": [
         "Move.BodyMove.BodyBend"
     ],
-    "Move/BodyMoto/BodyLean.md": [
+    "Move/BodyMove/BodyLean.md": [
         "Move.BodyMove.BodyLean"
     ],
-    "Move/BodyMoto/BodyRevolve.md": [
+    "Move/BodyMove/BodyRevolve.md": [
         "Move.BodyMove.Bodyrevolve"
     ],
-    "Move/BodyMoto/BodyRotate.md": [
+    "Move/BodyMove/BodyRotate.md": [
         "Move.BodyMove.BodyRotate"
     ],
-    "Move/BodyMoto/BodyPhrase.md": [],
-    "Move/BodyMoto/BodySlot.md": [
+    "Move/BodyMove/BodyPhrase.md": [],
+    "Move/BodyMove/BodySlot.md": [
         "Move.BodyMove.BodySlot"
     ],
-    "Move/BodyMoto/Fall.md": [
+    "Move/BodyMove/Fall.md": [
         "Move.BodyMove.Fall"
     ],
-    "Move/BodyMoto/LogWalk.md": [
+    "Move/BodyMove/LogWalk.md": [
         "Move.BodyMove.LogWalk"
     ],
-    "Move/BodyMoto/NeutralShoulderPosture.md": [],
-    "Move/BodyMoto/Overview.md": [
+    "Move/BodyMove/NeutralShoulderPosture.md": [],
+    "Move/BodyMove/Overview.md": [
         "Move.BodyMove.BodyDrop.BodyDropInto",
         "Move.BodyMove.BodyLock",
         "Move.BodyMove.BodyPosture",
         "Move.BodyMove.Landing",
-        "Move.BodyMove.Landing.MotoError.LegProp",
+        "Move.BodyMove.Landing.MoveError.LegProp",
         "Move.BodyMove.Mantle",
         "Move.BodyMove.Overview",
         "Move.BodyMove.Stemming",
         "Move.BodyMove.Straddle"
     ],
-    "Move/BodyMoto/SlopeWalk.md": [
+    "Move/BodyMove/SlopeWalk.md": [
         "Move.BodyMove.SlopeWalk"
     ],
-    "Move/BodyMoto/SpineExtension.md": [
+    "Move/BodyMove/SpineExtension.md": [
         "Move.BodyMove.SpineExtension"
     ],
-    "Move/BodyMoto/Stand.md": [
+    "Move/BodyMove/Stand.md": [
         "Move.BodyMove.Stand",
     ],
-    "Move/BodyMoto/StandUp.md": [
+    "Move/BodyMove/StandUp.md": [
         "Move.BodyMove.StandUp"
     ],
-    "Move/BodyMoto/StepIntoTrench.md": [
+    "Move/BodyMove/StepIntoTrench.md": [
         "Move.BodyMove.StepIntoTrench"
     ],
-    "Move/BodyMoto/StepOverLog.md": [
+    "Move/BodyMove/StepOverLog.md": [
         "Move.BodyMove.StepOverLog"
     ],
-    "Move/BodyMoto/StepUnderLog.md": [
+    "Move/BodyMove/StepUnderLog.md": [
         "Move.BodyMove.StepUnderLog"
     ],
-    "Move/BodyMoto/SupermanSlam.md": [],
-    "Move/BodyMoto/TrenchWalk.md": [
+    "Move/BodyMove/SupermanSlam.md": [],
+    "Move/BodyMove/TrenchWalk.md": [
         "Move.BodyMove.TrenchWalk"
     ],
-    "Move/BodyMoto/Walk.md": [
+    "Move/BodyMove/Walk.md": [
         "Move.BodyMove.Walk"
     ],
-    "Move/CacheMoto/CachePhrase.md": [],
-    "Move/CacheMoto/Eating.md": [],
-    "Move/CacheMoto/Overview.md": [
+    "Move/CacheMove/CachePhrase.md": [],
+    "Move/CacheMove/Eating.md": [],
+    "Move/CacheMove/Overview.md": [
         "Move.CacheMove.BagsPlacement",
         "Move.CacheMove.BoxPlacement",
         "Move.CacheMove.BundlePlacement",
@@ -863,100 +863,100 @@ tags = {
         "Move.CacheMove.GarbageBox",
         "Move.CacheMove.Overview"
     ],
-    "Move/CacheMoto/TarpOff.md": [
+    "Move/CacheMove/TarpOff.md": [
         "Move.CacheMove.TarpOff"
     ],
-    "Move/CacheMoto/TarpOn.md": [
+    "Move/CacheMove/TarpOn.md": [
         "Move.CacheMove.TarpOn"
     ],
-    "Move/ClothingMoto/Button.md": [
+    "Move/ClothingMove/Button.md": [
         "Move.ClothingMove.Button"
     ],
-    "Move/ClothingMoto/ClothingLayer.md": [
+    "Move/ClothingMove/ClothingLayer.md": [
         "Move.ClothingMove.ClothingLayer"
     ],
-    "Move/ClothingMoto/ClothingPhrase.md": [],
-    "Move/ClothingMoto/HatMove.md": [
-        "Move.ClothingMove.HatMoto"
+    "Move/ClothingMove/ClothingPhrase.md": [],
+    "Move/ClothingMove/HatMove.md": [
+        "Move.ClothingMove.HatMove"
     ],
-    "Move/ClothingMoto/Overview.md": [
+    "Move/ClothingMove/Overview.md": [
         "Move.ClothingMove.Overview"
     ],
-    "Move/ClothingMoto/RemoveMud.md": [
+    "Move/ClothingMove/RemoveMud.md": [
         "Move.ClothingMove.RemoveMud"
     ],
-    "Move/ClothingMoto/ZipperMove.md": [
-        "Move.ClothingMove.ZipperMoto"
+    "Move/ClothingMove/ZipperMove.md": [
+        "Move.ClothingMove.ZipperMove"
     ],
-    "Move/FootMoto/FootArchSmear.md": [
+    "Move/FootMove/FootArchSmear.md": [
         "Move.FootMove.FootArchSmear"
     ],
-    "Move/FootMoto/FootClose.md": [
+    "Move/FootMove/FootClose.md": [
         "Move.FootMove.FootClose"
     ],
-    "Move/FootMoto/FootDig.md": [
+    "Move/FootMove/FootDig.md": [
         "Move.FootMove.FootDig"
     ],
-    "Move/FootMoto/FootDorsiflexion.md": [
+    "Move/FootMove/FootDorsiflexion.md": [
         "Move.FootMove.FootDorsiflexion"
     ],
-    "Move/FootMoto/FootDrag.md": [
+    "Move/FootMove/FootDrag.md": [
         "Move.FootMove.FootDrag"
     ],
-    "Move/FootMoto/FootEversion.md": [
+    "Move/FootMove/FootEversion.md": [
         "Move.FootMove.FootEversion"
     ],
-    "Move/FootMoto/FootInversion.md": [
+    "Move/FootMove/FootInversion.md": [
         "Move.FootMove.FootInversion"
     ],
-    "Move/FootMoto/FootScreef.md": [
-        "Move.FootMove.FootScreef"
+    "Move/FootMove/FootSkreef.md": [
+        "Move.FootMove.FootSkreef"
     ],
-    "Move/FootMoto/FootPhrase.md": [
+    "Move/FootMove/FootPhrase.md": [
         "Move.FootMove.FootMatch",
         "Move.FootMove.FootMatch",
         "Move.FootMove.FootSwap"
     ],
-    "Move/FootMoto/Overview.md": [
+    "Move/FootMove/Overview.md": [
         "Move.FootMove.FootRoll",
         "Move.FootMove.FootSlot",
         "Move.FootMove.FootSmear",
         "Move.FootMove.Overview"
     ],
-    "Move/FootMoto/PlantarFlexion.md": [
+    "Move/FootMove/PlantarFlexion.md": [
         "Move.FootMove.PlantarFlexion"
     ],
-    "Move/HandMoto/BagGrip.md": [
+    "Move/HandMove/BagGrip.md": [
         "Move.HandMove.BagGrip"
     ],
-    "Move/HandMoto/BoxGrip.md": [
+    "Move/HandMove/BoxGrip.md": [
         "Move.HandMove.BoxGrip"
     ],
-    "Move/HandMoto/BranchGrip.md": [
+    "Move/HandMove/BranchGrip.md": [
         "Move.HandMove.BranchGrip"
     ],
-    "Move/HandMoto/BranchSnapGrip.md": [
+    "Move/HandMove/BranchSnapGrip.md": [
         "Move.HandMove.BranchSnapGrip"
     ],
-    "Move/HandMoto/HandClose.md": [
+    "Move/HandMove/HandClose.md": [
         "Move.HandMove.HandClose",
         "Move.HandMove.HandClose.HammerClose",
         "Move.HandMove.HandClose.PunchClose"
     ],
-    "Move/HandMoto/HandPoke.md": [
+    "Move/HandMove/HandPoke.md": [
         "Move.HandMove.HandPoke"
     ],
-    "Move/HandMoto/HandScreef.md": [
-        "Move.HandMove.HandScreef"
+    "Move/HandMove/HandSkreef.md": [
+        "Move.HandMove.HandSkreef"
     ],
-    "Move/HandMoto/HandPhrase.md": [
+    "Move/HandMove/HandPhrase.md": [
         "Move.HandMove.HandBump",
         "Move.HandMove.HandMatch"
     ],
-    "Move/HandMoto/InsertTree.md": [
+    "Move/HandMove/InsertTree.md": [
         "Move.HandMove.InsertTree"
     ],
-    "Move/HandMoto/Overview.md": [
+    "Move/HandMove/Overview.md": [
         "Move.HandMove.CupGrip",
         "Move.HandMove.FingerMove.FingerCurl",
         "Move.HandMove.FingerMove.FingerFlexion",
@@ -977,101 +977,101 @@ tags = {
         "Move.HandMove.TrunkGrip",
         "Move.HandMove.UnderclingGrip"
     ],
-    "Move/HandMoto/SpadeHandleGrip.md": [
+    "Move/HandMove/SpadeHandleGrip.md": [
         "Move.HandMove.SpadeHandleGrip"
     ],
-    "Move/HandMoto/SpadeShaftGrip.md": [
+    "Move/HandMove/SpadeShaftGrip.md": [
         "Move.HandMove.SpadeShaftGrip"
     ],
-    "Move/HandMoto/TreeGrip.md": [
+    "Move/HandMove/TreeGrip.md": [
         "Move.HandMove.TreeFlip",
         "Move.HandMove.TreeGrip"
     ],
-    "Move/HandMoto/TreeTestGrip.md": [
+    "Move/HandMove/TreeTestGrip.md": [
         "Move.HandMove.TreeInspect",
         "Move.HandMove.TreeTestGrip"
     ],
-    "Move/HeadMoto/FocusLook.md": [
+    "Move/HeadMove/FocusLook.md": [
         "Move.HeadMove.FocusLook"
     ],
-    "Move/HeadMoto/HeadProtraction.md": [
+    "Move/HeadMove/HeadProtraction.md": [
         "Move.HeadMove.HeadProtraction"
     ],
-    "Move/HeadMoto/HeadRetraction.md": [
+    "Move/HeadMove/HeadRetraction.md": [
         "Move.HeadMove.HeadRetraction"
     ],
-    "Move/HeadMoto/HeadPhrase.md": [],
-    "Move/HeadMoto/HeadTiltIntoWind.md": [
+    "Move/HeadMove/HeadPhrase.md": [],
+    "Move/HeadMove/HeadTiltIntoWind.md": [
         "Move.HeadMove.HeadTiltIntoWind"
     ],
-    "Move/HeadMoto/ListenTo.md": [
+    "Move/HeadMove/ListenTo.md": [
         "Move.HeadMove.ListenTo"
     ],
-    "Move/HeadMoto/LookAway.md": [
+    "Move/HeadMove/LookAway.md": [
         "Move.HeadMove.LookAway"
     ],
-    "Move/HeadMoto/NeckExtension.md": [
+    "Move/HeadMove/NeckExtension.md": [
         "Move.HeadMove.NeckExtension"
     ],
-    "Move/HeadMoto/NeckFlexion.md": [
+    "Move/HeadMove/NeckFlexion.md": [
         "Move.HeadMove.NeckFlexion"
     ],
-    "Move/HeadMoto/Overview.md": [
-        "Move.HeadMove.Find.Flag",
+    "Move/HeadMove/Overview.md": [
+        "Move.HeadMove.Find.Marka",
         "Move.HeadMove.LookAt",
         "Move.HeadMove.Overview"
     ],
-    "Move/HoleMoto/HoleClose.md": [
+    "Move/HoleMove/HoleClose.md": [
         "Move.HoleMove.CloseHole",
         "Move.HoleMove.CloseHole.MultipleToolClose"
     ],
-    "Move/HoleMoto/HoleExpand.md": [
+    "Move/HoleMove/HoleExpand.md": [
         "Move.HoleMove.ExpandHole"
     ],
-    "Move/HoleMoto/HoleOpen.md": [
+    "Move/HoleMove/HoleOpen.md": [
         "Move.HoleMove.HoleOpen"
     ],
-    "Move/HoleMoto/HoleAttributes.md": [],
-    "Move/HoleMoto/HolePhrase.md": [],
-    "Move/HoleMoto/Overview.md": [
+    "Move/HoleMove/HoleAttributes.md": [],
+    "Move/HoleMove/HolePhrase.md": [],
+    "Move/HoleMove/Overview.md": [
         "Move.HoleMove.Overview"
     ],
     "Move/Kinesiology/Overview.md": [],
-    "Move/LegMoto/Crouch.md": [
+    "Move/LegMove/Crouch.md": [
         "Move.LegMove.Crouch"
     ],
-    "Move/LegMoto/Jump.md": [
+    "Move/LegMove/Jump.md": [
         "Move.LegMove.Jump"
     ],
-    "Move/LegMoto/Kneel.md": [
+    "Move/LegMove/Kneel.md": [
         "Move.LegMove.Kneel"
     ],
-    "Move/LegMoto/LegAbduction.md": [
+    "Move/LegMove/LegAbduction.md": [
         "Move.LegMove.LegAbduction"
     ],
-    "Move/LegMoto/LegAbsorb.md": [
+    "Move/LegMove/LegAbsorb.md": [
         "Move.LegMove.LegAbsorb"
     ],
-    "Move/LegMoto/LegAdduction.md": [
+    "Move/LegMove/LegAdduction.md": [
         "Move.LegMove.LegAdduction"
     ],
-    "Move/LegMoto/LegFlag.md": [
-        "Move.LegMove.LegFlag"
+    "Move/LegMove/LegMarka.md": [
+        "Move.LegMove.LegMarka"
     ],
-    "Move/LegMoto/LegFlexion.md": [
+    "Move/LegMove/LegFlexion.md": [
         "Move.LegMove.LegFlexion"
     ],
-    "Move/LegMoto/LegProp.md": [
+    "Move/LegMove/LegProp.md": [
         "Move.LegMove.LegProp"
     ],
-    "Move/LegMoto/LegPhrase.md": [],
-    "Move/LegMoto/LegSidebagLift.md": [
+    "Move/LegMove/LegPhrase.md": [],
+    "Move/LegMove/LegSidebagLift.md": [
         "Move.LegMove.LegSidebagLift"
     ],
-    "Move/LegMoto/LegSwing.md": [
+    "Move/LegMove/LegSwing.md": [
         "Move.LegMove.LegSwing"
     ],
-    "Move/LegMoto/Overview.md": [
+    "Move/LegMove/Overview.md": [
         "Move.LegMove.HighFoot",
         "Move.LegMove.LegCircumduction",
         "Move.LegMove.LegLock",
@@ -1082,167 +1082,167 @@ tags = {
         "Move.LegMove.Overview",
         "Move.LegMove.SupportingLeg"
     ],
-    "Move/LegMoto/RunningStart.md": [
+    "Move/LegMove/RunningStart.md": [
         "Move.LegMove.RunningStart"
     ],
-    "Move/LegMoto/Step.md": [
+    "Move/LegMove/Step.md": [
         "Move.LegMove.Step",
         "Move.LegMove.Step.BackStep",
         "Move.LegMove.Step.KickStep",
         "Move.LegMove.Step.SideStep"
     ],
-    "Move/LegMoto/Stomp.md": [
+    "Move/LegMove/Stomp.md": [
         "Move.LegMove.Stomp"
     ],
-    "Move/MotoDifficulty.md": [
-        "Move.MotoDifficulty.MotoComplexity",
-        "Move.MotoDifficulty.MotoIntensity",
-        "Move.MotoDifficulty.MotoRisk",
-        "Move.MotoDifficulty.Overview"
+    "Move/MoveDifficulty.md": [
+        "Move.MoveDifficulty.MoveComplexity",
+        "Move.MoveDifficulty.MoveIntensity",
+        "Move.MoveDifficulty.MoveRisk",
+        "Move.MoveDifficulty.Overview"
     ],
-    "Move/MotoOverview.md": [
-        "Move.CoordinationMoto",
-        "Move.MotoAnalysis",
-        "Move.MotoComposition.MotoAddition",
-        "Move.MotoComposition.MotoSelection",
-        "Move.MotoComposition.MotoSelection.AlternativeMoto",
-        "Move.MotoComposition.MotoSelection.ForcedMoto",
-        "Move.MotoComposition.MotoSelection.MotoComparison",
-        "Move.MotoComposition.MotoSelection.SubmotoSelection",
-        "Move.MotoComposition.Overview",
-        "Move.MotoContactPoint.Overview",
-        "Move.MotoDirection.AbsoluteDirection",
-        "Move.MotoDirection.AbsoluteDirection.Down",
-        "Move.MotoDirection.AbsoluteDirection.Up",
-        "Move.MotoDirection.Overview",
-        "Move.MotoDirection.RelativeDirection.Above",
-        "Move.MotoDirection.RelativeDirection.Along",
-        "Move.MotoDirection.RelativeDirection.Around",
-        "Move.MotoDirection.RelativeDirection.Away",
-        "Move.MotoDirection.RelativeDirection.Below",
-        "Move.MotoDirection.RelativeDirection.Between",
-        "Move.MotoDirection.RelativeDirection.From",
-        "Move.MotoDirection.RelativeDirection.In",
-        "Move.MotoDirection.RelativeDirection.Out",
-        "Move.MotoDirection.RelativeDirection.Over",
-        "Move.MotoDirection.RelativeDirection.Overview",
-        "Move.MotoDirection.RelativeDirection.ParallelTo",
-        "Move.MotoDirection.RelativeDirection.PerpendicularTo",
-        "Move.MotoDirection.RelativeDirection.To",
-        "Move.MotoDirection.RelativeDirection.Under",
-        "Move.MotoDirection.TraverseMoto",
-        "Move.MotoError.DroppedTree",
-        "Move.MotoError.Overview",
-        "Move.MotoError.RedundantMoto",
-        "Move.MotoError.Slip.FootSlip",
-        "Move.MotoError.Slip.HandSlip",
-        "Move.MotoError.Slip.Overview",
-        "Move.MotoError.Slip.SpadeSlip",
-        "Move.MotoError.TooClose",
-        "Move.MotoError.TooFar",
-        "Move.MotoEvent",
-        "Move.MotoFrequency",
-        "Move.MotoName.Overview",
-        "Move.MotoPlane",
-        "Move.MotoPoint.Deadpoint",
-        "Move.MotoPoint.MotoContactPoint",
-        "Move.MotoPoint.MotoFinishPoint",
-        "Move.MotoPoint.MotoHighestPoint",
-        "Move.MotoPoint.MotoInflectionPoint",
-        "Move.MotoPoint.MotoLowestPoint",
-        "Move.MotoPoint.MotoPausePoint",
-        "Move.MotoPoint.MotoReflectionPoint",
-        "Move.MotoPoint.MotoRotationPoint",
-        "Move.MotoPoint.MotoStartPoint",
-        "Move.MotoPoint.Overview",
-        "Move.MotoPoint.ReleasePoint",
-        "Move.MotoAttributes.MotoAccuracy",
-        "Move.MotoAttributes.MotoDegreesOfFreedom",
-        "Move.MotoAttributes.MotoDependencies.DependentMoto",
-        "Move.MotoAttributes.MotoDependencies.IndependentMoto",
-        "Move.MotoAttributes.MotoDependencies.Overview",
-        "Move.MotoAttributes.MotoDescription",
-        "Move.MotoAttributes.MotoDuration",
-        "Move.MotoAttributes.MotoForce",
-        "Move.MotoAttributes.MotoPermutation",
-        "Move.MotoAttributes.MotoPlane.Overview",
-        "Move.MotoAttributes.MotoPlane.XYPlane",
-        "Move.MotoAttributes.MotoPlane.XZPlane",
-        "Move.MotoAttributes.MotoPlane.YZPlane",
-        "Move.MotoAttributes.MotoPrecision",
-        "Move.MotoAttributes.MotoPurpose",
-        "Move.MotoAttributes.MotoRangeOfMotion",
-        "Move.MotoAttributes.MotoShape.CircleMoto",
-        "Move.MotoAttributes.MotoShape.MotoShapeCenter",
-        "Move.MotoAttributes.MotoShape.Overview",
-        "Move.MotoAttributes.MotoShape.SquareMoto",
-        "Move.MotoAttributes.MotoShape.TriangleMoto",
-        "Move.MotoAttributes.MotoSize",
-        "Move.MotoAttributes.MotoState",
-        "Move.MotoAttributes.MotoType",
-        "Move.MotoAttributes.MotoType.AbductionMoto",
-        "Move.MotoAttributes.MotoType.AbsorbMoto",
-        "Move.MotoAttributes.MotoType.AdductionMoto",
-        "Move.MotoAttributes.MotoType.ArchMoto",
-        "Move.MotoAttributes.MotoType.ArmBelowShoulderMoto",
-        "Move.MotoAttributes.MotoType.AsymmetricMoto",
-        "Move.MotoAttributes.MotoType.Balance",
-        "Move.MotoAttributes.MotoType.BuckleMoto",
-        "Move.MotoAttributes.MotoType.BumpMoto",
-        "Move.MotoAttributes.MotoType.CircumductionMoto",
-        "Move.MotoAttributes.MotoType.CompressionMoto",
-        "Move.MotoAttributes.MotoType.DeadpointMoto",
-        "Move.MotoAttributes.MotoType.DeflectionMoto",
-        "Move.MotoAttributes.MotoType.DropMoto",
-        "Move.MotoAttributes.MotoType.ExpansionMoto",
-        "Move.MotoAttributes.MotoType.FallMoto",
-        "Move.MotoAttributes.MotoType.FlexionMoto",
-        "Move.MotoAttributes.MotoType.HookMoto",
-        "Move.MotoAttributes.MotoType.JamMoto",
-        "Move.MotoAttributes.MotoType.LeanMoto",
-        "Move.MotoAttributes.MotoType.LeverMoto",
-        "Move.MotoAttributes.MotoType.LockMoto",
-        "Move.MotoAttributes.MotoType.MatchMoto",
-        "Move.MotoAttributes.MotoType.OpenMoto",
-        "Move.MotoAttributes.MotoType.Overview",
-        "Move.MotoAttributes.MotoType.PivotMoto",
-        "Move.MotoAttributes.MotoType.PullMoto",
-        "Move.MotoAttributes.MotoType.PushMoto",
-        "Move.MotoAttributes.MotoType.ReachMoto",
-        "Move.MotoAttributes.MotoType.ReleaseMoto",
-        "Move.MotoAttributes.MotoType.RestMoto",
-        "Move.MotoAttributes.MotoType.Revolution",
-        "Move.MotoAttributes.MotoType.RockOverMoto",
-        "Move.MotoAttributes.MotoType.RollMoto",
-        "Move.MotoAttributes.MotoType.RotationMoto",
-        "Move.MotoAttributes.MotoType.SlideMoto",
-        "Move.MotoAttributes.MotoType.SlotMoto",
-        "Move.MotoAttributes.MotoType.SmearMoto",
-        "Move.MotoAttributes.MotoType.SwingMoto",
-        "Move.MotoAttributes.MotoType.SymmetricMoto",
-        "Move.MotoAttributes.MotoType.TwistMoto",
-        "Move.MotoAttributes.MotoType.WhipMoto",
-        "Move.MotoAttributes.MotoWeightDistribution",
-        "Move.MotoAttributes.Overview",
-        "Move.MotoAttributes.SubmotoCount",
-        "Move.MotoQuestion",
-        "Move.MotoShape",
-        "Move.MotoShape.SubMotoShape",
-        "Move.MotoSize",
-        "Move.MotoSpace.Overview",
-        "Move.MotoType",
-        "Move.MotoType.ContinuousMoto",
-        "Move.MotoType.DynamicMoto",
-        "Move.MotoType.FiniteMoto",
-        "Move.MotoType.StaticMoto",
-        "Move.MotoValidation",
+    "Move/MoveOverview.md": [
+        "Move.CoordinationMove",
+        "Move.MoveAnalysis",
+        "Move.MoveComposition.MoveAddition",
+        "Move.MoveComposition.MoveSelection",
+        "Move.MoveComposition.MoveSelection.AlternativeMove",
+        "Move.MoveComposition.MoveSelection.ForcedMove",
+        "Move.MoveComposition.MoveSelection.MoveComparison",
+        "Move.MoveComposition.MoveSelection.SubmotoSelection",
+        "Move.MoveComposition.Overview",
+        "Move.MoveContactPoint.Overview",
+        "Move.MoveDirection.AbsoluteDirection",
+        "Move.MoveDirection.AbsoluteDirection.Down",
+        "Move.MoveDirection.AbsoluteDirection.Up",
+        "Move.MoveDirection.Overview",
+        "Move.MoveDirection.RelativeDirection.Above",
+        "Move.MoveDirection.RelativeDirection.Along",
+        "Move.MoveDirection.RelativeDirection.Around",
+        "Move.MoveDirection.RelativeDirection.Away",
+        "Move.MoveDirection.RelativeDirection.Below",
+        "Move.MoveDirection.RelativeDirection.Between",
+        "Move.MoveDirection.RelativeDirection.From",
+        "Move.MoveDirection.RelativeDirection.In",
+        "Move.MoveDirection.RelativeDirection.Out",
+        "Move.MoveDirection.RelativeDirection.Over",
+        "Move.MoveDirection.RelativeDirection.Overview",
+        "Move.MoveDirection.RelativeDirection.ParallelTo",
+        "Move.MoveDirection.RelativeDirection.PerpendicularTo",
+        "Move.MoveDirection.RelativeDirection.To",
+        "Move.MoveDirection.RelativeDirection.Under",
+        "Move.MoveDirection.TraverseMove",
+        "Move.MoveError.DroppedTree",
+        "Move.MoveError.Overview",
+        "Move.MoveError.RedundantMove",
+        "Move.MoveError.Slip.FootSlip",
+        "Move.MoveError.Slip.HandSlip",
+        "Move.MoveError.Slip.Overview",
+        "Move.MoveError.Slip.SpadeSlip",
+        "Move.MoveError.TooClose",
+        "Move.MoveError.TooFar",
+        "Move.MoveEvent",
+        "Move.MoveFrequency",
+        "Move.MoveName.Overview",
+        "Move.MovePlane",
+        "Move.MovePoint.Deadpoint",
+        "Move.MovePoint.MoveContactPoint",
+        "Move.MovePoint.MoveFinishPoint",
+        "Move.MovePoint.MoveHighestPoint",
+        "Move.MovePoint.MoveInflectionPoint",
+        "Move.MovePoint.MoveLowestPoint",
+        "Move.MovePoint.MovePausePoint",
+        "Move.MovePoint.MoveReflectionPoint",
+        "Move.MovePoint.MoveRotationPoint",
+        "Move.MovePoint.MoveStartPoint",
+        "Move.MovePoint.Overview",
+        "Move.MovePoint.ReleasePoint",
+        "Move.MoveAttributes.MoveAccuracy",
+        "Move.MoveAttributes.MoveDegreesOfFreedom",
+        "Move.MoveAttributes.MoveDependencies.DependentMove",
+        "Move.MoveAttributes.MoveDependencies.IndependentMove",
+        "Move.MoveAttributes.MoveDependencies.Overview",
+        "Move.MoveAttributes.MoveDescription",
+        "Move.MoveAttributes.MoveDuration",
+        "Move.MoveAttributes.MoveForce",
+        "Move.MoveAttributes.MovePermutation",
+        "Move.MoveAttributes.MovePlane.Overview",
+        "Move.MoveAttributes.MovePlane.XYPlane",
+        "Move.MoveAttributes.MovePlane.XZPlane",
+        "Move.MoveAttributes.MovePlane.YZPlane",
+        "Move.MoveAttributes.MovePrecision",
+        "Move.MoveAttributes.MovePurpose",
+        "Move.MoveAttributes.MoveRangeOfMotion",
+        "Move.MoveAttributes.MoveShape.CircleMove",
+        "Move.MoveAttributes.MoveShape.MoveShapeCenter",
+        "Move.MoveAttributes.MoveShape.Overview",
+        "Move.MoveAttributes.MoveShape.SquareMove",
+        "Move.MoveAttributes.MoveShape.TriangleMove",
+        "Move.MoveAttributes.MoveSize",
+        "Move.MoveAttributes.MoveState",
+        "Move.MoveAttributes.MoveType",
+        "Move.MoveAttributes.MoveType.AbductionMove",
+        "Move.MoveAttributes.MoveType.AbsorbMove",
+        "Move.MoveAttributes.MoveType.AdductionMove",
+        "Move.MoveAttributes.MoveType.ArchMove",
+        "Move.MoveAttributes.MoveType.ArmBelowShoulderMove",
+        "Move.MoveAttributes.MoveType.AsymmetricMove",
+        "Move.MoveAttributes.MoveType.Balance",
+        "Move.MoveAttributes.MoveType.BuckleMove",
+        "Move.MoveAttributes.MoveType.BumpMove",
+        "Move.MoveAttributes.MoveType.CircumductionMove",
+        "Move.MoveAttributes.MoveType.CompressionMove",
+        "Move.MoveAttributes.MoveType.DeadpointMove",
+        "Move.MoveAttributes.MoveType.DeflectionMove",
+        "Move.MoveAttributes.MoveType.DropMove",
+        "Move.MoveAttributes.MoveType.ExpansionMove",
+        "Move.MoveAttributes.MoveType.FallMove",
+        "Move.MoveAttributes.MoveType.FlexionMove",
+        "Move.MoveAttributes.MoveType.HookMove",
+        "Move.MoveAttributes.MoveType.JamMove",
+        "Move.MoveAttributes.MoveType.LeanMove",
+        "Move.MoveAttributes.MoveType.LeverMove",
+        "Move.MoveAttributes.MoveType.LockMove",
+        "Move.MoveAttributes.MoveType.MatchMove",
+        "Move.MoveAttributes.MoveType.OpenMove",
+        "Move.MoveAttributes.MoveType.Overview",
+        "Move.MoveAttributes.MoveType.PivotMove",
+        "Move.MoveAttributes.MoveType.PullMove",
+        "Move.MoveAttributes.MoveType.PushMove",
+        "Move.MoveAttributes.MoveType.ReachMove",
+        "Move.MoveAttributes.MoveType.ReleaseMove",
+        "Move.MoveAttributes.MoveType.RestMove",
+        "Move.MoveAttributes.MoveType.Revolution",
+        "Move.MoveAttributes.MoveType.RockOverMove",
+        "Move.MoveAttributes.MoveType.RollMove",
+        "Move.MoveAttributes.MoveType.RotationMove",
+        "Move.MoveAttributes.MoveType.SlideMove",
+        "Move.MoveAttributes.MoveType.SlotMove",
+        "Move.MoveAttributes.MoveType.SmearMove",
+        "Move.MoveAttributes.MoveType.SwingMove",
+        "Move.MoveAttributes.MoveType.SymmetricMove",
+        "Move.MoveAttributes.MoveType.TwistMove",
+        "Move.MoveAttributes.MoveType.WhipMove",
+        "Move.MoveAttributes.MoveWeightDistribution",
+        "Move.MoveAttributes.Overview",
+        "Move.MoveAttributes.SubmotoCount",
+        "Move.MoveQuestion",
+        "Move.MoveShape",
+        "Move.MoveShape.SubMoveShape",
+        "Move.MoveSize",
+        "Move.MoveSpace.Overview",
+        "Move.MoveType",
+        "Move.MoveType.ContinuousMove",
+        "Move.MoveType.DynamicMove",
+        "Move.MoveType.FiniteMove",
+        "Move.MoveType.StaticMove",
+        "Move.MoveValidation",
         "Move.Overview",
-        "Move.Overview.ConcertedMoto",
-        "Move.Overview.MotoHierarchy",
-        "Move.Overview.MotoHierarchy.Submoto",
-        "Move.Overview.MotoHierarchy.Supermoto",
-        "Move.Overview.MotoType",
-        "Move.Overview.MotoType.RelativeMoto",
+        "Move.Overview.ConcertedMove",
+        "Move.Overview.MoveHierarchy",
+        "Move.Overview.MoveHierarchy.Submoto",
+        "Move.Overview.MoveHierarchy.Supermoto",
+        "Move.Overview.MoveType",
+        "Move.Overview.MoveType.RelativeMove",
         "Move.Physics.Acceleration",
         "Move.Physics.CenterOfMass",
         "Move.Physics.Direction",
@@ -1260,236 +1260,236 @@ tags = {
         "Move.PlanterAttributes.Overview",
         "Move.PlanterAttributes.PlanterAbility",
         "Move.PlanterAttributes.PlanterSize",
-        "Move.RedirectMoto",
-        "Move.ViaInfluenceMoto",
+        "Move.RedirectMove",
+        "Move.ViaInfluenceMove",
         "Move.SlashMove.Overview"
     ],
-    "Move/MotoPhrase/Overview.md": [
-        "Move.MotoPhrase",
-        "Move.MotoPhrase.AnteMoto",
-        "Move.MotoPhrase.ArmPhrase",
-        "Move.MotoPhrase.Attempt",
-        "Move.MotoPhrase.BaggingUpPhrase",
-        "Move.MotoPhrase.BodyPhrase",
-        "Move.MotoPhrase.ContiguousMoto",
-        "Move.MotoPhrase.CurrentMoto",
-        "Move.MotoPhrase.FootPhrase",
-        "Move.MotoPhrase.HandPhrase",
-        "Move.MotoPhrase.InitiationMoto",
-        "Move.MotoPhrase.IntermembralTiming",
-        "Move.MotoPhrase.LegPhrase",
-        "Move.MotoPhrase.MotoChunk.MotoPhrase",
-        "Move.MotoPhrase.MotoCycle",
-        "Move.MotoPhrase.MotoCycle.DoUntil",
-        "Move.MotoPhrase.MotoCycle.DoWhile",
-        "Move.MotoPhrase.MotoDensity",
-        "Move.MotoPhrase.MotoEndurance",
-        "Move.MotoPhrase.MotoLinePhrase",
-        "Move.MotoPhrase.MotoNestedPhrase",
-        "Move.MotoPhrase.MotoOverlap",
-        "Move.MotoPhrase.MotoRhythm",
-        "Move.MotoPhrase.MotoPhraseArea",
-        "Move.MotoPhrase.MotoPhraseError",
-        "Move.MotoPhrase.MotoPhraseVariation",
-        "Move.MotoPhrase.MotoShapePhrase.MotoShapeOverlap",
-        "Move.MotoPhrase.MotoSpacePhrase.MotoSpaceOverlap",
-        "Move.MotoPhrase.MotoTempo",
-        "Move.MotoPhrase.PlantingPhrase",
-        "Move.MotoPhrase.PostMoto",
-        "Move.MotoPhrase.SimultaneousMoto",
-        "Move.MotoPhrase.SpadePhrase",
-        "Move.MotoPhrase.SubmotoPhrase",
-        "Move.MotoPhrase.TransitionMoto"
+    "Move/MovePhrase/Overview.md": [
+        "Move.MovePhrase",
+        "Move.MovePhrase.AnteMove",
+        "Move.MovePhrase.ArmPhrase",
+        "Move.MovePhrase.Attempt",
+        "Move.MovePhrase.BaggingUpPhrase",
+        "Move.MovePhrase.BodyPhrase",
+        "Move.MovePhrase.ContiguousMove",
+        "Move.MovePhrase.CurrentMove",
+        "Move.MovePhrase.FootPhrase",
+        "Move.MovePhrase.HandPhrase",
+        "Move.MovePhrase.InitiationMove",
+        "Move.MovePhrase.IntermembralTiming",
+        "Move.MovePhrase.LegPhrase",
+        "Move.MovePhrase.MoveChunk.MovePhrase",
+        "Move.MovePhrase.MoveCycle",
+        "Move.MovePhrase.MoveCycle.DoUntil",
+        "Move.MovePhrase.MoveCycle.DoWhile",
+        "Move.MovePhrase.MoveDensity",
+        "Move.MovePhrase.MoveEndurance",
+        "Move.MovePhrase.MoveLinePhrase",
+        "Move.MovePhrase.MoveNestedPhrase",
+        "Move.MovePhrase.MoveOverlap",
+        "Move.MovePhrase.MoveRhythm",
+        "Move.MovePhrase.MovePhraseArea",
+        "Move.MovePhrase.MovePhraseError",
+        "Move.MovePhrase.MovePhraseVariation",
+        "Move.MovePhrase.MoveShapePhrase.MoveShapeOverlap",
+        "Move.MovePhrase.MoveSpacePhrase.MoveSpaceOverlap",
+        "Move.MovePhrase.MoveTempo",
+        "Move.MovePhrase.PlantingPhrase",
+        "Move.MovePhrase.PostMove",
+        "Move.MovePhrase.SimultaneousMove",
+        "Move.MovePhrase.SpadePhrase",
+        "Move.MovePhrase.SubmotoPhrase",
+        "Move.MovePhrase.TransitionMove"
     ],
-    "Move/Placeholder_MotoProfile.md": [],
-    "Move/PlantMoto/BranchArmDeflection.md": [
+    "Move/Placeholder_MoveProfile.md": [],
+    "Move/PlantMove/BranchArmDeflection.md": [
         "Move.PlantMove.BranchArmDeflection"
     ],
-    "Move/PlantMoto/BranchDeflection.md": [
+    "Move/PlantMove/BranchDeflection.md": [
         "Move.PlantMove.BranchDeflection"
     ],
-    "Move/PlantMoto/BranchMove.md": [],
-    "Move/PlantMoto/BranchWhip.md": [
+    "Move/PlantMove/BranchMove.md": [],
+    "Move/PlantMove/BranchWhip.md": [
         "Move.PlantMove.BranchWhip"
     ],
-    "Move/PlantMoto/Overview.md": [
+    "Move/PlantMove/Overview.md": [
         "Move.PlantMove.Overview",
         "Move.PlantMove.SnagMove.BagSnag",
         "Move.PlantMove.SnagMove.FootSnag",
         "Move.PlantMove.SnagMove.Overview",
         "Move.PlantMove.SnagMove.SpadeSnag"
     ],
-    "Move/PlantMoto/PlantType.md": [
+    "Move/PlantMove/PlantType.md": [
         "Move.PlantMove.PlantType"
     ],
-    "Move/PlantMoto/SlashPile.md": [
+    "Move/PlantMove/SlashPile.md": [
         "Move.PlantMove.SlashPile"
     ],
-    "Move/PlantMoto/TrunkMove.md": [
-        "Move.PlantMove.TrunkMoto"
+    "Move/PlantMove/TrunkMove.md": [
+        "Move.PlantMove.TrunkMove"
     ],
-    "Move/ScreefMoto/Overview.md": [
-        "Eko.Screef.10x10Screef",
-        "Eko.Screef.DinnerPlateScreef",
-        "Eko.Screef.Overview",
-        "Eko.Screef.PocketScreef",
-        "Move.ScreefMove.Overview"
+    "Move/SkreefMove/Overview.md": [
+        "Eko.Skreef.10x10Skreef",
+        "Eko.Skreef.DinnerPlateSkreef",
+        "Eko.Skreef.Overview",
+        "Eko.Skreef.PocketSkreef",
+        "Move.SkreefMove.Overview"
     ],
-    "Move/ToolMoto/Bag/BagAdjustment.md": [
+    "Move/ToolMove/Bag/BagAdjustment.md": [
         "Move.ToolMove.BagMove.BagAdjustment"
     ],
-    "Move/ToolMoto/Bag/BagDeadlift.md": [
+    "Move/ToolMove/Bag/BagDeadlift.md": [
         "Move.ToolMove.BagMove.BagDeadlift"
     ],
-    "Move/ToolMoto/Bag/BagEmpty.md": [
+    "Move/ToolMove/Bag/BagEmpty.md": [
         "Move.ToolMove.BagMove.BagEmpty"
     ],
-    "Move/ToolMoto/Bag/BagOff.md": [
+    "Move/ToolMove/Bag/BagOff.md": [
         "Move.ToolMove.BagMove.BagOff"
     ],
-    "Move/ToolMoto/Bag/BagOn.md": [
+    "Move/ToolMove/Bag/BagOn.md": [
         "Move.ToolMove.BagMove.BagOn"
     ],
-    "Move/ToolMoto/Bag/BagPhrase.md": [],
-    "Move/ToolMoto/Bag/BagSlide.md": [
+    "Move/ToolMove/Bag/BagPhrase.md": [],
+    "Move/ToolMove/Bag/BagSlide.md": [
         "Move.ToolMove.BagMove.BagSlide"
     ],
-    "Move/ToolMoto/Bag/Overview.md": [
+    "Move/ToolMove/Bag/Overview.md": [
         "Move.ToolMove.BagMove.BaggingUp",
         "Move.ToolMove.BagMove.BagOver",
         "Move.ToolMove.BagMove.BagShield",
         "Move.ToolMove.BagMove.Overview"
     ],
-    "Move/ToolMoto/Boot/BootScreef.md": [],
-    "Move/ToolMoto/Boot/BootPhrase.md": [],
-    "Move/ToolMoto/Boot/LaceKnot.md": [
+    "Move/ToolMove/Boot/BootSkreef.md": [],
+    "Move/ToolMove/Boot/BootPhrase.md": [],
+    "Move/ToolMove/Boot/LaceKnot.md": [
         "Move.ToolMove.BootMove.LaceKnot"
     ],
-    "Move/ToolMoto/Boot/Overview.md": [
+    "Move/ToolMove/Boot/Overview.md": [
         "Move.ToolMove.BootMove.BootOff",
         "Move.ToolMove.BootMove.BootOn",
         "Move.ToolMove.BootMove.Overview"
     ],
-    "Move/ToolMoto/Box/BoxGrip.md": [],
-    "Move/ToolMoto/Box/BoxPhrase.md": [
+    "Move/ToolMove/Box/BoxGrip.md": [],
+    "Move/ToolMove/Box/BoxPhrase.md": [
         "Move.ToolMove.BoxMove.BoxStack"
     ],
-    "Move/ToolMoto/Box/Overview.md": [
+    "Move/ToolMove/Box/Overview.md": [
         "Move.ToolMove.BoxMove.BoxOpen",
         "Move.ToolMove.BoxMove.BoxSlide",
         "Move.ToolMove.BoxMove.BoxStack",
         "Move.ToolMove.BoxMove.Overview"
     ],
-    "Move/ToolMoto/Bundle/BundleGrip.md": [
+    "Move/ToolMove/Bundle/BundleGrip.md": [
         "Move.ToolMove.BundleMove.BundleGrip"
     ],
-    "Move/ToolMoto/Bundle/BundlePeel.md": [
+    "Move/ToolMove/Bundle/BundlePeel.md": [
         "Move.ToolMove.BundleMove.BundlePeel"
     ],
-    "Move/ToolMoto/Bundle/BundlePhrase.md": [],
-    "Move/ToolMoto/Bundle/Overview.md": [
+    "Move/ToolMove/Bundle/BundlePhrase.md": [],
+    "Move/ToolMove/Bundle/Overview.md": [
         "Move.ToolMove.BundleMove.BundleRoll",
         "Move.ToolMove.BundleMove.BundleUnwrap",
-        "Move.ToolMove.BundleMove.MotoError.WrapperLitter",
+        "Move.ToolMove.BundleMove.MoveError.WrapperLitter",
         "Move.ToolMove.BundleMove.Overview"
     ],
-    "Move/ToolMoto/Carabiner/Overview.md": [],
-    "Move/ToolMoto/Flag/FlagErrorRecovery.md": [
-        "Move.ToolMove.FlagMove.FlagErrorRecovery"
+    "Move/ToolMove/Carabiner/Overview.md": [],
+    "Move/ToolMove/Marka/MarkaErrorRecovery.md": [
+        "Move.ToolMove.MarkaMove.MarkaErrorRecovery"
     ],
-    "Move/ToolMoto/Flag/FlagGrip.md": [],
-    "Move/ToolMoto/Flag/FlagKnot.md": [
-        "Move.ToolMove.FlagMove.FlagKnot"
+    "Move/ToolMove/Marka/MarkaGrip.md": [],
+    "Move/ToolMove/Marka/MarkaKnot.md": [
+        "Move.ToolMove.MarkaMove.MarkaKnot"
     ],
-    "Move/ToolMoto/Flag/FlagLoad.md": [],
-    "Move/ToolMoto/Flag/FlagRip.md": [
-        "Move.ToolMove.FlagMove.FlagRip"
+    "Move/ToolMove/Marka/MarkaLoad.md": [],
+    "Move/ToolMove/Marka/MarkaRip.md": [
+        "Move.ToolMove.MarkaMove.MarkaRip"
     ],
-    "Move/ToolMoto/Flag/FlagRoll.md": [
-        "Move.ToolMove.FlagMove.FlagRoll"
+    "Move/ToolMove/Marka/MarkaRoll.md": [
+        "Move.ToolMove.MarkaMove.MarkaRoll"
     ],
-    "Move/ToolMoto/Flag/FlagPhrase.md": [],
-    "Move/ToolMoto/Flag/FlagThrow.md": [
-        "Move.ToolMove.FlagMove.FlagThrow"
+    "Move/ToolMove/Marka/MarkaPhrase.md": [],
+    "Move/ToolMove/Marka/MarkaThrow.md": [
+        "Move.ToolMove.MarkaMove.MarkaThrow"
     ],
-    "Move/ToolMoto/Flag/FlagUnload.md": [
-        "Move.ToolMove.FlagMove.FlagUnload"
+    "Move/ToolMove/Marka/MarkaUnload.md": [
+        "Move.ToolMove.MarkaMove.MarkaUnload"
     ],
-    "Move/ToolMoto/Flag/FlagWeave.md": [
-        "Move.ToolMove.FlagMove.FlagWeave"
+    "Move/ToolMove/Marka/MarkaWeave.md": [
+        "Move.ToolMove.MarkaMove.MarkaWeave"
     ],
-    "Move/ToolMoto/Flag/FlagWrap.md": [
-        "Move.ToolMove.FlagMove.FlagWrap"
+    "Move/ToolMove/Marka/MarkaWrap.md": [
+        "Move.ToolMove.MarkaMove.MarkaWrap"
     ],
-    "Move/ToolMoto/Flag/Overview.md": [
-        "Move.ToolMove.FlagMove.FlagDrop",
-        "Move.ToolMove.FlagMove.FlagStump",
-        "Move.ToolMove.FlagMove.MotoError.PlantedFlag",
-        "Move.ToolMove.FlagMove.Overview"
+    "Move/ToolMove/Marka/Overview.md": [
+        "Move.ToolMove.MarkaMove.MarkaDrop",
+        "Move.ToolMove.MarkaMove.MarkaStump",
+        "Move.ToolMove.MarkaMove.MoveError.PlantedMarka",
+        "Move.ToolMove.MarkaMove.Overview"
     ],
-    "Move/ToolMoto/Gaiter/GaiterGrip.md": [],
-    "Move/ToolMoto/Gaiter/GaiterOff.md": [
+    "Move/ToolMove/Gaiter/GaiterGrip.md": [],
+    "Move/ToolMove/Gaiter/GaiterOff.md": [
         "Move.ToolMove.GaiterMove.GaiterOff"
     ],
-    "Move/ToolMoto/Gaiter/GaiterOn.md": [
+    "Move/ToolMove/Gaiter/GaiterOn.md": [
         "Move.ToolMove.GaiterMove.GaiterOn"
     ],
-    "Move/ToolMoto/Gaiter/Overview.md": [
+    "Move/ToolMove/Gaiter/Overview.md": [
         "Move.ToolMove.GaiterMove.Overview"
     ],
-    "Move/ToolMoto/Glove/GloveGrip.md": [],
-    "Move/ToolMoto/Glove/GlovePhrase.md": [],
-    "Move/ToolMoto/Glove/Overview.md": [
+    "Move/ToolMove/Glove/GloveGrip.md": [],
+    "Move/ToolMove/Glove/GlovePhrase.md": [],
+    "Move/ToolMove/Glove/Overview.md": [
         "Move.ToolMove.GloveMove.Overview"
     ],
-    "Move/ToolMoto/Overview.md": [
+    "Move/ToolMove/Overview.md": [
         "Move.ToolMove.Overview"
     ],
-    "Move/ToolMoto/Rope/Overview.md": [],
-    "Move/ToolMoto/Spade/Overview.md": [
+    "Move/ToolMove/Rope/Overview.md": [],
+    "Move/ToolMove/Spade/Overview.md": [
         "Move.ToolMove.SpadeMove.Overview",
         "Move.ToolMove.SpadeMove.SpadeClose",
         "Move.ToolMove.SpadeMove.SpadeDrop",
         "Move.ToolMove.SpadeMove.SpadePush",
         "Move.ToolMove.SpadeMove.SpadeUnplant"
     ],
-    "Move/ToolMoto/Spade/SpadeChop.md": [
+    "Move/ToolMove/Spade/SpadeChop.md": [
         "Move.ToolMove.SpadeMove.SpadeChop"
     ],
-    "Move/ToolMoto/Spade/SpadeGrip.md": [],
-    "Move/ToolMoto/Spade/SpadePogo.md": [
+    "Move/ToolMove/Spade/SpadeGrip.md": [],
+    "Move/ToolMove/Spade/SpadePogo.md": [
         "Move.ToolMove.SpadeMove.SpadePogo"
     ],
-    "Move/ToolMoto/Spade/SpadeProp.md": [
+    "Move/ToolMove/Spade/SpadeProp.md": [
         "Move.ToolMove.SpadeMove.SpadeProp"
     ],
-    "Move/ToolMoto/Spade/SpadeScreef.md": [
-        "Move.ToolMove.SpadeMove.SpadeScreef"
+    "Move/ToolMove/Spade/SpadeSkreef.md": [
+        "Move.ToolMove.SpadeMove.SpadeSkreef"
     ],
-    "Move/ToolMoto/Spade/SpadePhrase.md": [
+    "Move/ToolMove/Spade/SpadePhrase.md": [
         "Move.ToolMove.SpadeMove.SpadeSwap"
     ],
-    "Move/ToolMoto/Spade/SpadeSlam.md": [
+    "Move/ToolMove/Spade/SpadeSlam.md": [
         "Move.ToolMove.SpadeMove.SpadeSlam"
     ],
-    "Move/ToolMoto/Spade/SpadeSwing.md": [
+    "Move/ToolMove/Spade/SpadeSwing.md": [
         "Move.ToolMove.SpadeMove.SpadeCircumduction",
         "Move.ToolMove.SpadeMove.SpadeSwing"
     ],
-    "Move/ToolMoto/Spade/SpadeTest.md": [
+    "Move/ToolMove/Spade/SpadeTest.md": [
         "Move.ToolMove.SpadeMove.SpadePoke",
         "Move.ToolMove.SpadeMove.SpadeProbe"
     ],
-    "Move/TruckMoto/Overview.md": [
+    "Move/TruckMove/Overview.md": [
         "Move.ToolMove.TruckMove.Overview"
     ],
-    "Move/TruckMoto/Sit.md": [
+    "Move/TruckMove/Sit.md": [
         "Move.ToolMove.TruckMove.Sit"
     ],
-    "Move/TruckMoto/Sleep.md": [
+    "Move/TruckMove/Sleep.md": [
         "Move.ToolMove.TruckMove.Sleep"
     ],
-    "Move/TruckMoto/TruckPhrase.md": [],
+    "Move/TruckMove/TruckPhrase.md": [],
     "Psike/Acceptance/Overview.md": [],
     "Psike/Algorithm/Overview.md": [],
     "Psike/Arousal/Calm.md": [
@@ -1648,7 +1648,7 @@ tags = {
     "Psike/Time/BagUpTime.md": [],
     "Psike/Time/CacheTime.md": [],
     "Psike/Time/DailySchedule.md": [],
-    "Psike/Time/MotoTiming.md": [],
+    "Psike/Time/MoveTiming.md": [],
     "Psike/Time/Overview.md": [],
     "Psike/Time/Planning.md": [
         "Psike.Planning",
@@ -1709,25 +1709,25 @@ tags = {
     "Via/CoverAlgorithm/TrapezoidCover.md": [],
     "Via/CoverAlgorithm/TriangleCover.md": [],
     "Via/CoverAlgorithm/TypewriterCover.md": [],
-    "Via/Flag/BoundaryFlag.md": [],
-    "Via/Flag/FlagSite.md": [],
-    "Via/Flag/HighFlag.md": [],
-    "Via/Flag/LineInFlag.md": [],
-    "Via/Flag/NaturalFlag.md": [],
-    "Via/Flag/Overview.md": [
-        "Via.Flag.BoundaryFlag",
-        "Via.Flag.FlagLine.FlagLineIn",
-        "Via.Flag.FlagLine.FlagLineIn.StartPoint",
-        "Via.Flag.FlagSite",
-        "Via.Flag.HighFlag",
-        "Via.Flag.LineInFlag",
-        "Via.Flag.LowFlag",
-        "Via.Flag.Overview",
-        "Via.Flag.TrenchExitFlag",
-        "Via.Flag.WastedFlag"
+    "Via/Marka/BoundaryMarka.md": [],
+    "Via/Marka/MarkaSite.md": [],
+    "Via/Marka/HighMarka.md": [],
+    "Via/Marka/LineInMarka.md": [],
+    "Via/Marka/NaturalMarka.md": [],
+    "Via/Marka/Overview.md": [
+        "Via.Marka.BoundaryMarka",
+        "Via.Marka.MarkaLine.MarkaLineIn",
+        "Via.Marka.MarkaLine.MarkaLineIn.StartPoint",
+        "Via.Marka.MarkaSite",
+        "Via.Marka.HighMarka",
+        "Via.Marka.LineInMarka",
+        "Via.Marka.LowMarka",
+        "Via.Marka.Overview",
+        "Via.Marka.TrenchExitMarka",
+        "Via.Marka.WastedMarka"
     ],
-    "Via/Flag/TrenchExitFlag.md": [],
-    "Via/Flag/WastedFlag.md": [],
+    "Via/Marka/TrenchExitMarka.md": [],
+    "Via/Marka/WastedMarka.md": [],
     "Via/ObstacleCover/ObstacleClusterCover.md": [],
     "Via/ObstacleCover/Overview.md": [
         "Via.ObstacleCover.ObstacleClusterCover",
@@ -1738,7 +1738,7 @@ tags = {
     "Via/ViaCurve/BeeLine.md": [],
     "Via/ViaCurve/GhostLine.md": [],
     "Via/ViaCurve/Overview.md": [
-        "Via.ViaGeometry.ViaCurve.AdvancingMoto",
+        "Via.ViaGeometry.ViaCurve.AdvancingMove",
         "Via.ViaGeometry.ViaCurve.BagUpLine",
         "Via.ViaGeometry.ViaCurve.BeeLine",
         "Via.ViaGeometry.ViaCurve.BoundaryLine.ArtificialBoundaryLine",
@@ -1782,7 +1782,7 @@ tags = {
         "Psike.Vision.Find.BackLine",
         "Psike.Vision.Find.FarSide",
         "Psike.Vision.Find.FindFirstBagUp",
-        "Psike.Vision.Find.Flag",
+        "Psike.Vision.Find.Marka",
         "Psike.Vision.Find.Overview",
         "Psike.Vision.Hidden",
         "Psike.Vision.SeenFromCache",
@@ -1825,7 +1825,7 @@ tags = {
     "Via/ViaPoint/Overview.md": [
         "Via.ViaGeometry.ViaPoint.CenterPoint",
         "Via.ViaGeometry.ViaPoint.DeadEndPoint",
-        "Via.ViaGeometry.ViaPoint.FlagSite",
+        "Via.ViaGeometry.ViaPoint.MarkaSite",
         "Via.ViaGeometry.ViaPoint.Landmark",
         "Via.ViaGeometry.ViaPoint.Microsite.MicrositeSelection",
         "Via.ViaGeometry.ViaPoint.Microsite.MicrositeStrikeLine",
@@ -1867,10 +1867,10 @@ tags = {
         "Via.ViaSequence.AreaCoverPhrase.ViaShapeInscription.ViaTriangleInscription",
         "Via.ViaSequence.BagUpPhrase",
         "Via.ViaSequence.CurrentMicrosite",
-        "Via.ViaSequence.FlagMoto",
-        "Via.ViaSequence.HoleMoto",
-        "Via.ViaSequence.LookAt.Flag",
-        "Via.ViaSequence.LookAt.HoleMoto",
+        "Via.ViaSequence.MarkaMove",
+        "Via.ViaSequence.HoleMove",
+        "Via.ViaSequence.LookAt.Marka",
+        "Via.ViaSequence.LookAt.HoleMove",
         "Via.ViaSequence.MicrositeSelection",
         "Via.ViaSequence.PostMicrosite",
         "Via.ViaSequence.PostMicrositeAnteMicrosite",
@@ -1936,8 +1936,8 @@ tags = {
         "Tests.FillInBlank",
         "Tests.IncreasingDifficulty",
         "Tests.MatchingTest",
-        "Tests.MotoDecomposition",
-        "Tests.MotoTest.VideoAnswer",
+        "Tests.MoveDecomposition",
+        "Tests.MoveTest.VideoAnswer",
         "Tests.MultipleChoiceTest",
         "Tests.Overview",
         "Tests.Recall.Recall.RecallBetaDiagram",

@@ -1,4 +1,4 @@
-# 🟠 <move>FlagRip</move>
+# 🟠 <move>MarkaRip</move>
 
 ![MoveIkon](/Move/Move_Ikon.png)
 
@@ -15,6 +15,6 @@
 
 <h2>PageTags</h2>
 
-- "Move.ToolMove.FlagMove.FlagRip"
+- "Move.ToolMove.MarkaMove.MarkaRip"
 
 :::

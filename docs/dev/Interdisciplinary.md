@@ -32,13 +32,9 @@
 <!-- =================================================== -->
 ::: details 🛠 <dev>&&&</dev>
 
-
-
 - How to bridge the gap between Suzanne Simards and Devs? Ecologist to Computer Dev.
     - Diagrams don't require English or Code while they can represent both.
 - `JoinOn(System, [Ecosystem, ComputerSystem])`
-
-
 
 <h2>PageTags</h2>
 
@@ -63,6 +59,5 @@
 - "Dev.Interdisciplinary.WebDev"
 - "Dev.Interdisciplinary.WebDev.CSS.Flexbox"
 - "Dev.ResearchQuestions"
-
 
 :::

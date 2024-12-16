@@ -1,4 +1,4 @@
-# 🟠 <move>ZipperMoto</move>
+# 🟠 <move>ZipperMove</move>
 
 ![MoveIkon](/Move/Move_Ikon.png)
 
@@ -15,5 +15,5 @@
 
 <h2>PageTags</h2>
 
-- "Move.ClothingMove.ZipperMoto"
+- "Move.ClothingMove.ZipperMove"
 :::

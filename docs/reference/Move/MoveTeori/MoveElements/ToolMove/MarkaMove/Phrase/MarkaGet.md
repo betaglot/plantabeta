@@ -1,4 +1,4 @@
-# 🟠 <move>FlagGet</move>
+# 🟠 <move>MarkaGet</move>
 
 ![MoveIkon](/Move/Move_Ikon.png)
 

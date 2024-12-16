@@ -1,11 +1,11 @@
 
-# 🔷 <move>Flag Phrase Overview</move>
+# 🔷 <move>Marka Phrase Overview</move>
 
-## FlagPut
+## MarkaPut
 
 >
 
-## FlagGet
+## MarkaGet
 
 >
 

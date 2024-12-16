@@ -1,7 +1,7 @@
 
 # <psike>ViaMemory</psike>
 
-## Flag is a Mnemonic for ViaMemory
+## Marka is a Mnemonic for ViaMemory
 
 Memory of ViaFactors
 

@@ -200,7 +200,7 @@ Connect Academia to PutPlant by linking to each field's current understanding.
 - Apply Computational Thinking to PutPlant
 - Python
 - Create JSON files which are used in DataVisualizations
-    - MotoHierarchy
+    - MoveHierarchy
     - EcoHierarchy
     - ViaHierarchy
 
@@ -301,7 +301,7 @@ See [Tools](/dev/Tools) for notes about each tool
 
 - D3
 - TreeView
-    - TreeView_MotoHierarchy
+    - TreeView_MoveHierarchy
     - TreeView_EcoHierarchy
     - TreeView_ViaHierarchy
 

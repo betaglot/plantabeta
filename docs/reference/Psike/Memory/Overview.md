@@ -10,7 +10,7 @@
 
 ## Mnemonic
 
-### Flag is a Mnemonic for ViaMemory
+### Marka is a Mnemonic for ViaMemory
 
 ## Episodic Memory or Autobiographical Memory
 

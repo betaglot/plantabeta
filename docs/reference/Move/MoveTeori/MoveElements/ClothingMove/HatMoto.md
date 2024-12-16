@@ -1,4 +1,4 @@
-# 🟠 <move>HatMoto</move>
+# 🟠 <move>HatMove</move>
 
 ![MoveIkon](/Move/Move_Ikon.png)
 
@@ -15,5 +15,5 @@
 
 <h2>PageTags</h2>
 
-- "Move.ClothingMove.HatMoto"
+- "Move.ClothingMove.HatMove"
 :::

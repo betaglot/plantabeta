@@ -20,7 +20,7 @@
 
 🔻<via>"back to the cache": ViaFinishPoint</via>
 
-## 🔷<beta>"<via>Fill</via> the <eko>wet areas</eko> with <eko>spruce</eko>, you don't need to <move>screef</move> in the <eko>riparian areas</eko>"</beta>
+## 🔷<beta>"<via>Fill</via> the <eko>wet areas</eko> with <eko>spruce</eko>, you don't need to <move>skreef</move> in the <eko>riparian areas</eko>"</beta>
 
 🔻<via>"Fill": Cover</via>
 
@@ -30,13 +30,13 @@
 
 🟩<eko>"spruce": Seedling</eko>
 
-🟠<move>"screef": ScreefMoto</move>
+🟠<move>"skreef": SkreefMove</move>
 
-## 🔷<beta>"Only <via>flag</via> your <via>line in</via> and <psike>if</psike> you <via>leave</via> the <eko>trench</eko>"</beta>
+## 🔷<beta>"Only <via>Marka</via> your <via>line in</via> and <psike>if</psike> you <via>leave</via> the <eko>trench</eko>"</beta>
 
 🔷<beta>"Only": </beta>
 
-🟠<move>"flag": [FlagMoto](/encyclopedia/Move/ToolMoto/FlagMoto/Overview)</move>
+🟠<move>"Marka": [MarkaMove](/encyclopedia/Move/ToolMove/MarkaMove/Overview)</move>
 
 🔻<via>"line in": </via>
 
@@ -119,7 +119,5 @@ is not a move, it is Beta since it is composed of 3 modules:
 - "Beta.BetaExamples"
 - "Beta.BetaExamples.BetaQuote"
 - "Beta.BetaVideo"
-
-
 
 :::

@@ -406,7 +406,7 @@ Download Printable resources
     },
     {
         "text": "Move",
-        "link": "/reference/Move/MotoOverview",
+        "link": "/reference/Move/MoveOverview",
         "collapsed": "true",
         "items": [
             {
@@ -415,841 +415,841 @@ Download Printable resources
             },
             {
                 "text": "Move Difficulty",
-                "link": "/reference/Move/MotoDifficulty/Overview",
+                "link": "/reference/Move/MoveDifficulty/Overview",
                 "collapsed": "true",
                 "items": [
                     {
                         "text": "EcoComplexity",
-                        "link": "/reference/Move/MotoDifficulty/MotoComplexity"
+                        "link": "/reference/Move/MoveDifficulty/MoveComplexity"
                     },
                     {
                         "text": "EcoIntensity",
-                        "link": "/reference/Move/MotoDifficulty/MotoIntensity"
+                        "link": "/reference/Move/MoveDifficulty/MoveIntensity"
                     },
                     {
                         "text": "EcoRisk",
-                        "link": "/reference/Move/MotoDifficulty/MotoRisk"
+                        "link": "/reference/Move/MoveDifficulty/MoveRisk"
                     }
                 ]
             },
             {
-                "text": "MotoGeometry",
+                "text": "MoveGeometry",
                 "collapsed": "true",
                 "items": [
                     {
                         "text": "Overview",
-                        "link": "/reference/Move/MotoGeometry/Overview"
+                        "link": "/reference/Move/MoveGeometry/Overview"
                     },
                     {
-                        "text": "MotoPoint",
-                        "link": "/reference/Move/MotoGeometry/MotoPoint"
+                        "text": "MovePoint",
+                        "link": "/reference/Move/MoveGeometry/MovePoint"
                     },
                     {
-                        "text": "MotoCurve",
-                        "link": "/reference/Move/MotoGeometry/MotoCurve"
+                        "text": "MoveCurve",
+                        "link": "/reference/Move/MoveGeometry/MoveCurve"
                     },
                     {
-                        "text": "MotoSpace",
-                        "link": "/reference/Move/MotoGeometry/MotoSpace"
+                        "text": "MoveSpace",
+                        "link": "/reference/Move/MoveGeometry/MoveSpace"
                     },
                     {
-                        "text": "MotoSurface",
-                        "link": "/reference/Move/MotoGeometry/MotoSurface"
+                        "text": "MoveSurface",
+                        "link": "/reference/Move/MoveGeometry/MoveSurface"
                     }
                 ]
             },
             {
-                "text": "ArmMoto",
-                "link": "/reference/Move/ArmMoto/Overview",
+                "text": "ArmMove",
+                "link": "/reference/Move/ArmMove/Overview",
                 "collapsed": "true",
                 "items": [
                     {
                         "text": "Arm Phrase",
-                        "link": "/reference/Move/ArmMoto/Phrase/Overview"
+                        "link": "/reference/Move/ArmMove/Phrase/Overview"
                     },
                     {
                         "text": "ArmProp",
-                        "link": "/reference/Move/ArmMoto/ArmProp"
+                        "link": "/reference/Move/ArmMove/ArmProp"
                     },
                     {
                         "text": "ArmSwing",
-                        "link": "/reference/Move/ArmMoto/ArmSwing"
+                        "link": "/reference/Move/ArmMove/ArmSwing"
                     },
                     {
                         "text": "ArmWalk",
-                        "link": "/reference/Move/ArmMoto/ArmWalk"
+                        "link": "/reference/Move/ArmMove/ArmWalk"
                     },
                     {
                         "text": "ArmBalance",
-                        "link": "/reference/Move/ArmMoto/ArmBalance"
+                        "link": "/reference/Move/ArmMove/ArmBalance"
                     }
                 ]
             },
             {
-                "text": "BodyMoto",
-                "link": "/reference/Move/BodyMoto/Overview",
+                "text": "BodyMove",
+                "link": "/reference/Move/BodyMove/Overview",
                 "collapsed": "true",
                 "items": [
                     {
                         "text": "Body Phrase",
-                        "link": "/reference/Move/BodyMoto/Phrase/Overview"
+                        "link": "/reference/Move/BodyMove/Phrase/Overview"
                     },
                     {
                         "text": "BodyAbsorb",
-                        "link": "/reference/Move/BodyMoto/BodyAbsorb"
+                        "link": "/reference/Move/BodyMove/BodyAbsorb"
                     },
                     {
                         "text": "BodyBend",
-                        "link": "/reference/Move/BodyMoto/BodyBend"
+                        "link": "/reference/Move/BodyMove/BodyBend"
                     },
                     {
                         "text": "BodyLean",
-                        "link": "/reference/Move/BodyMoto/BodyLean"
+                        "link": "/reference/Move/BodyMove/BodyLean"
                     },
                     {
                         "text": "BodyRevolve",
-                        "link": "/reference/Move/BodyMoto/BodyRevolve"
+                        "link": "/reference/Move/BodyMove/BodyRevolve"
                     },
                     {
                         "text": "BodyRotate",
-                        "link": "/reference/Move/BodyMoto/BodyRotate"
+                        "link": "/reference/Move/BodyMove/BodyRotate"
                     },
                     {
                         "text": "BodySlot",
-                        "link": "/reference/Move/BodyMoto/BodySlot"
+                        "link": "/reference/Move/BodyMove/BodySlot"
                     },
                     {
                         "text": "Fall",
-                        "link": "/reference/Move/BodyMoto/Fall"
+                        "link": "/reference/Move/BodyMove/Fall"
                     }
                 ]
             },
             {
-                "text": "CacheMoto",
-                "link": "/reference/Move/CacheMoto/Overview",
+                "text": "CacheMove",
+                "link": "/reference/Move/CacheMove/Overview",
                 "collapsed": "true",
                 "items": [
                     {
                         "text": "Cache Phrase",
-                        "link": "/reference/Move/CacheMoto/Phrase/Overview"
+                        "link": "/reference/Move/CacheMove/Phrase/Overview"
                     },
                     {
                         "text": "Eating",
-                        "link": "/reference/Move/CacheMoto/Eating"
+                        "link": "/reference/Move/CacheMove/Eating"
                     },
                     {
                         "text": "TarpOff",
-                        "link": "/reference/Move/CacheMoto/TarpOff"
+                        "link": "/reference/Move/CacheMove/TarpOff"
                     },
                     {
                         "text": "TarpOn",
-                        "link": "/reference/Move/CacheMoto/TarpOn"
+                        "link": "/reference/Move/CacheMove/TarpOn"
                     }
                 ]
             },
             {
-                "text": "ClothingMoto",
-                "link": "/reference/Move/ClothingMoto/Overview",
+                "text": "ClothingMove",
+                "link": "/reference/Move/ClothingMove/Overview",
                 "collapsed": "true",
                 "items": [
                     {
                         "text": "Clothing Phrase",
-                        "link": "/reference/Move/ClothingMoto/Phrase/Overview"
+                        "link": "/reference/Move/ClothingMove/Phrase/Overview"
                     },
                     {
                         "text": "Button",
-                        "link": "/reference/Move/ClothingMoto/Button"
+                        "link": "/reference/Move/ClothingMove/Button"
                     },
                     {
                         "text": "ClothingLayer",
-                        "link": "/reference/Move/ClothingMoto/ClothingLayer"
+                        "link": "/reference/Move/ClothingMove/ClothingLayer"
                     },
                     {
                         "text": "RemoveMud",
-                        "link": "/reference/Move/ClothingMoto/RemoveMud"
+                        "link": "/reference/Move/ClothingMove/RemoveMud"
                     },
                     {
-                        "text": "ZipperMoto",
-                        "link": "/reference/Move/ClothingMoto/ZipperMoto"
+                        "text": "ZipperMove",
+                        "link": "/reference/Move/ClothingMove/ZipperMove"
                     }
                 ]
             },
             {
-                "text": "FootMoto",
-                "link": "/reference/Move/FootMoto/Overview",
+                "text": "FootMove",
+                "link": "/reference/Move/FootMove/Overview",
                 "collapsed": "true",
                 "items": [
                     {
                         "text": "Foot Phrase",
-                        "link": "/reference/Move/FootMoto/Phrase/Overview"
+                        "link": "/reference/Move/FootMove/Phrase/Overview"
                     },
                     {
                         "text": "FootArchSmear",
-                        "link": "/reference/Move/FootMoto/FootArchSmear"
+                        "link": "/reference/Move/FootMove/FootArchSmear"
                     },
                     {
                         "text": "FootClose",
-                        "link": "/reference/Move/FootMoto/FootClose"
+                        "link": "/reference/Move/FootMove/FootClose"
                     },
                     {
                         "text": "FootDig",
-                        "link": "/reference/Move/FootMoto/FootDig"
+                        "link": "/reference/Move/FootMove/FootDig"
                     },
                     {
                         "text": "FootDorsiflexion",
-                        "link": "/reference/Move/FootMoto/FootDorsiflexion"
+                        "link": "/reference/Move/FootMove/FootDorsiflexion"
                     },
                     {
                         "text": "FootDrag",
-                        "link": "/reference/Move/FootMoto/FootDrag"
+                        "link": "/reference/Move/FootMove/FootDrag"
                     },
                     {
                         "text": "FootEversion",
-                        "link": "/reference/Move/FootMoto/FootEversion"
+                        "link": "/reference/Move/FootMove/FootEversion"
                     },
                     {
                         "text": "FootInversion",
-                        "link": "/reference/Move/FootMoto/FootInversion"
+                        "link": "/reference/Move/FootMove/FootInversion"
                     },
                     {
-                        "text": "FootScreef",
-                        "link": "/reference/Move/FootMoto/FootScreef"
+                        "text": "FootSkreef",
+                        "link": "/reference/Move/FootMove/FootSkreef"
                     },
                     {
                         "text": "PlantarFlexion",
-                        "link": "/reference/Move/FootMoto/PlantarFlexion"
+                        "link": "/reference/Move/FootMove/PlantarFlexion"
                     }
                 ]
             },
             {
-                "text": "HandMoto",
-                "link": "/reference/Move/HandMoto/Overview",
+                "text": "HandMove",
+                "link": "/reference/Move/HandMove/Overview",
                 "collapsed": "true",
                 "items": [
                     {
                         "text": "Hand Phrase",
-                        "link": "/reference/Move/HandMoto/Phrase/Overview"
+                        "link": "/reference/Move/HandMove/Phrase/Overview"
                     },
                     {
                         "text": "BagGrip",
-                        "link": "/reference/Move/HandMoto/BagGrip"
+                        "link": "/reference/Move/HandMove/BagGrip"
                     },
                     {
                         "text": "BoxGrip",
-                        "link": "/reference/Move/HandMoto/BoxGrip"
+                        "link": "/reference/Move/HandMove/BoxGrip"
                     },
                     {
                         "text": "BranchGrip",
-                        "link": "/reference/Move/HandMoto/BranchGrip"
+                        "link": "/reference/Move/HandMove/BranchGrip"
                     },
                     {
                         "text": "BranchSnapGrip",
-                        "link": "/reference/Move/HandMoto/BranchSnapGrip"
+                        "link": "/reference/Move/HandMove/BranchSnapGrip"
                     },
                     {
                         "text": "HandClose",
-                        "link": "/reference/Move/HandMoto/HandClose"
+                        "link": "/reference/Move/HandMove/HandClose"
                     },
                     {
                         "text": "HandPoke",
-                        "link": "/reference/Move/HandMoto/HandPoke"
+                        "link": "/reference/Move/HandMove/HandPoke"
                     },
                     {
-                        "text": "HandScreef",
-                        "link": "/reference/Move/HandMoto/HandScreef"
+                        "text": "HandSkreef",
+                        "link": "/reference/Move/HandMove/HandSkreef"
                     },
                     {
                         "text": "SpadeHandleGrip",
-                        "link": "/reference/Move/HandMoto/SpadeHandleGrip"
+                        "link": "/reference/Move/HandMove/SpadeHandleGrip"
                     },
                     {
                         "text": "SpadeShaftGrip",
-                        "link": "/reference/Move/HandMoto/SpadeShaftGrip"
+                        "link": "/reference/Move/HandMove/SpadeShaftGrip"
                     },
                     {
                         "text": "TreeGrip",
-                        "link": "/reference/Move/HandMoto/TreeGrip"
+                        "link": "/reference/Move/HandMove/TreeGrip"
                     },
                     {
                         "text": "TreeTestGrip",
-                        "link": "/reference/Move/HandMoto/TreeTestGrip"
+                        "link": "/reference/Move/HandMove/TreeTestGrip"
                     }
                 ]
             },
             {
-                "text": "HeadMoto",
-                "link": "/reference/Move/HeadMoto/Overview",
+                "text": "HeadMove",
+                "link": "/reference/Move/HeadMove/Overview",
                 "collapsed": "true",
                 "items": [
                     {
                         "text": "Head Phrase",
-                        "link": "/reference/Move/HeadMoto/Phrase/Overview"
+                        "link": "/reference/Move/HeadMove/Phrase/Overview"
                     },
                     {
                         "text": "FocusLook",
-                        "link": "/reference/Move/HeadMoto/FocusLook"
+                        "link": "/reference/Move/HeadMove/FocusLook"
                     },
                     {
                         "text": "HeadProtraction",
-                        "link": "/reference/Move/HeadMoto/HeadProtraction"
+                        "link": "/reference/Move/HeadMove/HeadProtraction"
                     },
                     {
                         "text": "HeadRetraction",
-                        "link": "/reference/Move/HeadMoto/HeadRetraction"
+                        "link": "/reference/Move/HeadMove/HeadRetraction"
                     },
                     {
                         "text": "HeadTiltIntoWind",
-                        "link": "/reference/Move/HeadMoto/HeadTiltIntoWind"
+                        "link": "/reference/Move/HeadMove/HeadTiltIntoWind"
                     },
                     {
                         "text": "Hearing",
-                        "link": "/reference/Move/HeadMoto/Hearing"
+                        "link": "/reference/Move/HeadMove/Hearing"
                     },
                     {
                         "text": "LookAway",
-                        "link": "/reference/Move/HeadMoto/LookAway"
+                        "link": "/reference/Move/HeadMove/LookAway"
                     },
                     {
                         "text": "NeckExtension",
-                        "link": "/reference/Move/HeadMoto/NeckExtension"
+                        "link": "/reference/Move/HeadMove/NeckExtension"
                     }
                 ]
             },
             {
-                "text": "HoleMoto",
-                "link": "/reference/Move/HoleMoto/Overview",
+                "text": "HoleMove",
+                "link": "/reference/Move/HoleMove/Overview",
                 "collapsed": "true",
                 "items": [
                     {
                         "text": "Hole Phrase",
-                        "link": "/reference/Move/HoleMoto/Phrase/Overview"
+                        "link": "/reference/Move/HoleMove/Phrase/Overview"
                     },
                     {
                         "text": "HoleClose",
-                        "link": "/reference/Move/HoleMoto/HoleClose"
+                        "link": "/reference/Move/HoleMove/HoleClose"
                     },
                     {
                         "text": "HoleExpand",
-                        "link": "/reference/Move/HoleMoto/HoleExpand"
+                        "link": "/reference/Move/HoleMove/HoleExpand"
                     },
                     {
                         "text": "HoleOpen",
-                        "link": "/reference/Move/HoleMoto/HoleOpen"
+                        "link": "/reference/Move/HoleMove/HoleOpen"
                     }
                 ]
             },
             {
-                "text": "LegMoto",
-                "link": "/reference/Move/LegMoto/Overview",
+                "text": "LegMove",
+                "link": "/reference/Move/LegMove/Overview",
                 "collapsed": "true",
                 "items": [
                     {
                         "text": "Leg Phrase",
-                        "link": "/reference/Move/LegMoto/Phrase/Overview"
+                        "link": "/reference/Move/LegMove/Phrase/Overview"
                     },
                     {
                         "text": "Crouch",
-                        "link": "/reference/Move/LegMoto/Overview"
+                        "link": "/reference/Move/LegMove/Overview"
                     },
                     {
                         "text": "Jump",
-                        "link": "/reference/Move/LegMoto/Jump"
+                        "link": "/reference/Move/LegMove/Jump"
                     },
                     {
                         "text": "Kneel",
-                        "link": "/reference/Move/LegMoto/Kneel"
+                        "link": "/reference/Move/LegMove/Kneel"
                     },
                     {
                         "text": "LegAbduction",
-                        "link": "/reference/Move/LegMoto/LegAbduction"
+                        "link": "/reference/Move/LegMove/LegAbduction"
                     },
                     {
                         "text": "LegAbsorb",
-                        "link": "/reference/Move/LegMoto/LegAbsorb"
+                        "link": "/reference/Move/LegMove/LegAbsorb"
                     },
                     {
                         "text": "LegAdduction",
-                        "link": "/reference/Move/LegMoto/LegAdduction"
+                        "link": "/reference/Move/LegMove/LegAdduction"
                     },
                     {
                         "text": "LegFlap",
-                        "link": "/reference/Move/LegMoto/LegFlap"
+                        "link": "/reference/Move/LegMove/LegFlap"
                     },
                     {
                         "text": "LegFlexion",
-                        "link": "/reference/Move/LegMoto/LegFlexion"
+                        "link": "/reference/Move/LegMove/LegFlexion"
                     },
                     {
                         "text": "LegProp",
-                        "link": "/reference/Move/LegMoto/LegProp"
+                        "link": "/reference/Move/LegMove/LegProp"
                     },
                     {
                         "text": "LegSidebagLift",
-                        "link": "/reference/Move/LegMoto/LegSidebagLift"
+                        "link": "/reference/Move/LegMove/LegSidebagLift"
                     },
                     {
                         "text": "LegSwing",
-                        "link": "/reference/Move/LegMoto/LegSwing"
+                        "link": "/reference/Move/LegMove/LegSwing"
                     },
                     {
                         "text": "RunningStart",
-                        "link": "/reference/Move/LegMoto/RunningStart"
+                        "link": "/reference/Move/LegMove/RunningStart"
                     },
                     {
                         "text": "Step",
-                        "link": "/reference/Move/LegMoto/Step"
+                        "link": "/reference/Move/LegMove/Step"
                     },
                     {
                         "text": "Stomp",
-                        "link": "/reference/Move/LegMoto/Stomp"
+                        "link": "/reference/Move/LegMove/Stomp"
                     }
                 ]
             },
             {
-                "text": "PlantMoto",
-                "link": "/reference/Move/PlantMoto/Overview",
+                "text": "PlantMove",
+                "link": "/reference/Move/PlantMove/Overview",
                 "collapsed": "true",
                 "items": [
                     {
                         "text": "BranchArmDeflection",
-                        "link": "/reference/Move/PlantMoto/BranchArmDeflection"
+                        "link": "/reference/Move/PlantMove/BranchArmDeflection"
                     },
                     {
                         "text": "BranchDeflection",
-                        "link": "/reference/Move/PlantMoto/BranchDeflection"
+                        "link": "/reference/Move/PlantMove/BranchDeflection"
                     },
                     {
-                        "text": "BranchMoto",
-                        "link": "/reference/Move/PlantMoto/BranchMoto"
+                        "text": "BranchMove",
+                        "link": "/reference/Move/PlantMove/BranchMove"
                     },
                     {
                         "text": "BranchWhip",
-                        "link": "/reference/Move/PlantMoto/BranchWhip"
+                        "link": "/reference/Move/PlantMove/BranchWhip"
                     },
                     {
                         "text": "Bush",
-                        "link": "/reference/Move/PlantMoto/Bush"
+                        "link": "/reference/Move/PlantMove/Bush"
                     },
                     {
                         "text": "Log",
-                        "link": "/reference/Move/PlantMoto/Log"
+                        "link": "/reference/Move/PlantMove/Log"
                     },
                     {
                         "text": "SlashPile",
-                        "link": "/reference/Move/PlantMoto/SlashPile"
+                        "link": "/reference/Move/PlantMove/SlashPile"
                     },
                     {
                         "text": "Stump",
-                        "link": "/reference/Move/PlantMoto/Stump"
+                        "link": "/reference/Move/PlantMove/Stump"
                     }
                 ]
             },
             {
-                "text": "Screef",
-                "link": "/reference/Move/Screef/Overview",
+                "text": "Skreef",
+                "link": "/reference/Move/Skreef/Overview",
                 "collapsed": "true",
                 "items": [
                     {
-                        "text": "BootScreef",
-                        "link": "/reference/Move/ToolMoto/Boot/BootScreef"
+                        "text": "BootSkreef",
+                        "link": "/reference/Move/ToolMove/Boot/BootSkreef"
                     },
                     {
-                        "text": "HandScreef",
-                        "link": "/reference/Move/HandMoto/HandScreef"
+                        "text": "HandSkreef",
+                        "link": "/reference/Move/HandMove/HandSkreef"
                     },
                     {
-                        "text": "SpadeScreef",
-                        "link": "/reference/Move/ToolMoto/Spade/SpadeScreef"
+                        "text": "SpadeSkreef",
+                        "link": "/reference/Move/ToolMove/Spade/SpadeSkreef"
                     }
                 ]
             },
             {
-                "text": "ToolMoto",
-                "link": "/reference/Move/ToolMoto/Overview",
+                "text": "ToolMove",
+                "link": "/reference/Move/ToolMove/Overview",
                 "collapsed": "true",
                 "items": [
                     {
                         "text": "Bag",
-                        "link": "/reference/Move/ToolMoto/Bag/Overview",
+                        "link": "/reference/Move/ToolMove/Bag/Overview",
                         "collapsed": "true",
                         "items": [
                             {
                                 "text": "BagGrip",
-                                "link": "/reference/Move/ToolMoto/Bag/BagGrip"
+                                "link": "/reference/Move/ToolMove/Bag/BagGrip"
                             },
                             {
                                 "text": "Bag Phrase",
-                                "link": "/reference/Move/ToolMoto/Bag/Phrase/Overview"
+                                "link": "/reference/Move/ToolMove/Bag/Phrase/Overview"
                             },
                             {
                                 "text": "BagAdjustment",
-                                "link": "/reference/Move/ToolMoto/Bag/BagAdjustment"
+                                "link": "/reference/Move/ToolMove/Bag/BagAdjustment"
                             },
                             {
                                 "text": "BagDeadlift",
-                                "link": "/reference/Move/ToolMoto/Bag/BagDeadlift"
+                                "link": "/reference/Move/ToolMove/Bag/BagDeadlift"
                             },
                             {
                                 "text": "BagEmpty",
-                                "link": "/reference/Move/ToolMoto/Bag/BagEmpty"
+                                "link": "/reference/Move/ToolMove/Bag/BagEmpty"
                             },
                             {
                                 "text": "BaggingUp",
-                                "link": "/reference/Move/ToolMoto/Bag/BaggingUp"
+                                "link": "/reference/Move/ToolMove/Bag/BaggingUp"
                             },
                             {
                                 "text": "BagOff",
-                                "link": "/reference/Move/ToolMoto/Bag/BagOff"
+                                "link": "/reference/Move/ToolMove/Bag/BagOff"
                             },
                             {
                                 "text": "BagOn",
-                                "link": "/reference/Move/ToolMoto/Bag/BagOn"
+                                "link": "/reference/Move/ToolMove/Bag/BagOn"
                             },
                             {
                                 "text": "BagSlide",
-                                "link": "/reference/Move/ToolMoto/Bag/BagSlide"
+                                "link": "/reference/Move/ToolMove/Bag/BagSlide"
                             }
                         ]
                     },
                     {
                         "text": "Boot",
-                        "link": "/reference/Move/ToolMoto/Boot/Overview",
+                        "link": "/reference/Move/ToolMove/Boot/Overview",
                         "collapsed": "true",
                         "items": [
                             {
                                 "text": "Boot Phrase",
-                                "link": "/reference/Move/ToolMoto/Boot/Phrase/Overview"
+                                "link": "/reference/Move/ToolMove/Boot/Phrase/Overview"
                             },
                             {
                                 "text": "BootGrip",
-                                "link": "/reference/Move/ToolMoto/Boot/BootGrip"
+                                "link": "/reference/Move/ToolMove/Boot/BootGrip"
                             },
                             {
-                                "text": "BootScreef",
-                                "link": "/reference/Move/ToolMoto/Boot/BootScreef"
+                                "text": "BootSkreef",
+                                "link": "/reference/Move/ToolMove/Boot/BootSkreef"
                             },
                             {
                                 "text": "LaceKnot",
-                                "link": "/reference/Move/ToolMoto/Boot/LaceKnot"
+                                "link": "/reference/Move/ToolMove/Boot/LaceKnot"
                             }
                         ]
                     },
                     {
                         "text": "Box",
-                        "link": "/reference/Move/ToolMoto/Box/Overview",
+                        "link": "/reference/Move/ToolMove/Box/Overview",
                         "collapsed": "true",
                         "items": [
                             {
                                 "text": "Box Phrase",
-                                "link": "/reference/Move/ToolMoto/Box/Phrase/Overview"
+                                "link": "/reference/Move/ToolMove/Box/Phrase/Overview"
                             },
                             {
                                 "text": "BoxGrip",
-                                "link": "/reference/Move/ToolMoto/Box/BoxGrip"
+                                "link": "/reference/Move/ToolMove/Box/BoxGrip"
                             }
                         ]
                     },
                     {
                         "text": "Bundle",
-                        "link": "/reference/Move/ToolMoto/Bundle/Overview",
+                        "link": "/reference/Move/ToolMove/Bundle/Overview",
                         "collapsed": "true",
                         "items": [
                             {
                                 "text": "Bundle Phrase",
-                                "link": "/reference/Move/ToolMoto/Bundle/Phrase/Overview"
+                                "link": "/reference/Move/ToolMove/Bundle/Phrase/Overview"
                             },
                             {
                                 "text": "BundleGrip",
-                                "link": "/reference/Move/ToolMoto/Bundle/BundleGrip"
+                                "link": "/reference/Move/ToolMove/Bundle/BundleGrip"
                             },
                             {
                                 "text": "BundlePeel",
-                                "link": "/reference/Move/ToolMoto/Bundle/BundlePeel"
+                                "link": "/reference/Move/ToolMove/Bundle/BundlePeel"
                             }
                         ]
                     },
                     {
                         "text": "Carabiner",
-                        "link": "/reference/Move/ToolMoto/Carabiner/Overview",
+                        "link": "/reference/Move/ToolMove/Carabiner/Overview",
                         "collapsed": "true",
                         "items": []
                     },
                     {
-                        "text": "Flag",
-                        "link": "/reference/Move/ToolMoto/Flag/Overview",
+                        "text": "Marka",
+                        "link": "/reference/Move/ToolMove/Marka/Overview",
                         "collapsed": "true",
                         "items": [
                             {
-                                "text": "Flag Phrase",
-                                "link": "/reference/Move/ToolMoto/Flag/Phrase/Overview"
+                                "text": "Marka Phrase",
+                                "link": "/reference/Move/ToolMove/Marka/Phrase/Overview"
                             },
                             {
-                                "text": "FlagGrip",
-                                "link": "/reference/Move/ToolMoto/Flag/FlagGrip"
+                                "text": "MarkaGrip",
+                                "link": "/reference/Move/ToolMove/Marka/MarkaGrip"
                             },
                             {
-                                "text": "FlagKnot",
-                                "link": "/reference/Move/ToolMoto/Flag/FlagKnot"
+                                "text": "MarkaKnot",
+                                "link": "/reference/Move/ToolMove/Marka/MarkaKnot"
                             },
                             {
-                                "text": "FlagReload",
-                                "link": "/reference/Move/ToolMoto/Flag/FlagReload"
+                                "text": "MarkaReload",
+                                "link": "/reference/Move/ToolMove/Marka/MarkaReload"
                             },
                             {
-                                "text": "FlagRip",
-                                "link": "/reference/Move/ToolMoto/Flag/FlagRip"
+                                "text": "MarkaRip",
+                                "link": "/reference/Move/ToolMove/Marka/MarkaRip"
                             },
                             {
-                                "text": "FlagRoll",
-                                "link": "/reference/Move/ToolMoto/Flag/FlagRoll"
+                                "text": "MarkaRoll",
+                                "link": "/reference/Move/ToolMove/Marka/MarkaRoll"
                             }
                         ]
                     },
                     {
                         "text": "Gaiter",
-                        "link": "/reference/Move/ToolMoto/Gaiter/Overview",
+                        "link": "/reference/Move/ToolMove/Gaiter/Overview",
                         "collapsed": "true",
                         "items": [
                             {
                                 "text": "Gaiter Phrase",
-                                "link": "/reference/Move/ToolMoto/Gaiter/Phrase/Overview"
+                                "link": "/reference/Move/ToolMove/Gaiter/Phrase/Overview"
                             },
                             {
                                 "text": "GaiterGrip",
-                                "link": "/reference/Move/ToolMoto/Gaiter/GaiterGrip"
+                                "link": "/reference/Move/ToolMove/Gaiter/GaiterGrip"
                             },
                             {
                                 "text": "GaiterOn",
-                                "link": "/reference/Move/ToolMoto/Gaiter/GaiterOn"
+                                "link": "/reference/Move/ToolMove/Gaiter/GaiterOn"
                             },
                             {
                                 "text": "GaiterOff",
-                                "link": "/reference/Move/ToolMoto/Gaiter/GaiterOff"
+                                "link": "/reference/Move/ToolMove/Gaiter/GaiterOff"
                             }
                         ]
                     },
                     {
                         "text": "Glove",
-                        "link": "/reference/Move/ToolMoto/Glove/Overview",
+                        "link": "/reference/Move/ToolMove/Glove/Overview",
                         "collapsed": "true",
                         "items": [
                             {
                                 "text": "Glove Phrase",
-                                "link": "/reference/Move/ToolMoto/Glove/Phrase/Overview"
+                                "link": "/reference/Move/ToolMove/Glove/Phrase/Overview"
                             },
                             {
                                 "text": "GloveGrip",
-                                "link": "/reference/Move/ToolMoto/Glove/GloveGrip"
+                                "link": "/reference/Move/ToolMove/Glove/GloveGrip"
                             }
                         ]
                     },
                     {
                         "text": "Kit",
-                        "link": "/reference/Move/ToolMoto/Kit/Overview",
+                        "link": "/reference/Move/ToolMove/Kit/Overview",
                         "collapsed": "true",
                         "items": []
                     },
                     {
                         "text": "Rope",
-                        "link": "/reference/Move/ToolMoto/Rope/Overview",
+                        "link": "/reference/Move/ToolMove/Rope/Overview",
                         "collapsed": "true",
                         "items": []
                     },
                     {
                         "text": "Spade",
-                        "link": "/reference/Move/ToolMoto/Spade/Overview",
+                        "link": "/reference/Move/ToolMove/Spade/Overview",
                         "collapsed": "true",
                         "items": [
                             {
                                 "text": "Spade Phrase",
-                                "link": "/reference/Move/ToolMoto/Spade/Phrase/Overview"
+                                "link": "/reference/Move/ToolMove/Spade/Phrase/Overview"
                             },
                             {
                                 "text": "SpadeAmble",
-                                "link": "/reference/Move/ToolMoto/Spade/SpadeAmble"
+                                "link": "/reference/Move/ToolMove/Spade/SpadeAmble"
                             },
                             {
                                 "text": "SpadeAnchor",
-                                "link": "/reference/Move/ToolMoto/Spade/SpadeAnchor"
+                                "link": "/reference/Move/ToolMove/Spade/SpadeAnchor"
                             },
                             {
                                 "text": "SpadeChop",
-                                "link": "/reference/Move/ToolMoto/Spade/SpadeChop"
+                                "link": "/reference/Move/ToolMove/Spade/SpadeChop"
                             },
                             {
                                 "text": "SpadeCone",
-                                "link": "/reference/Move/ToolMoto/Spade/SpadeCone"
+                                "link": "/reference/Move/ToolMove/Spade/SpadeCone"
                             },
                             {
                                 "text": "SpadeDrag",
-                                "link": "/reference/Move/ToolMoto/Spade/SpadeDrag"
+                                "link": "/reference/Move/ToolMove/Spade/SpadeDrag"
                             },
                             {
                                 "text": "SpadeGrip",
-                                "link": "/reference/Move/ToolMoto/Spade/SpadeGrip"
+                                "link": "/reference/Move/ToolMove/Spade/SpadeGrip"
                             },
                             {
                                 "text": "SpadeJavelin",
-                                "link": "/reference/Move/ToolMoto/Spade/SpadeJavelin"
+                                "link": "/reference/Move/ToolMove/Spade/SpadeJavelin"
                             },
                             {
                                 "text": "SpadePendulum",
-                                "link": "/reference/Move/ToolMoto/Spade/SpadePendulum"
+                                "link": "/reference/Move/ToolMove/Spade/SpadePendulum"
                             },
                             {
                                 "text": "SpadePogo",
-                                "link": "/reference/Move/ToolMoto/Spade/SpadePogo"
+                                "link": "/reference/Move/ToolMove/Spade/SpadePogo"
                             },
                             {
                                 "text": "SpadePoke",
-                                "link": "/reference/Move/ToolMoto/Spade/SpadePoke"
+                                "link": "/reference/Move/ToolMove/Spade/SpadePoke"
                             },
                             {
                                 "text": "SpadePost",
-                                "link": "/reference/Move/ToolMoto/Spade/SpadePost"
+                                "link": "/reference/Move/ToolMove/Spade/SpadePost"
                             },
                             {
                                 "text": "SpadeProp",
-                                "link": "/reference/Move/ToolMoto/Spade/SpadeProp"
+                                "link": "/reference/Move/ToolMove/Spade/SpadeProp"
                             },
                             {
                                 "text": "SpadeRotate",
-                                "link": "/reference/Move/ToolMoto/Spade/SpadeRotate"
+                                "link": "/reference/Move/ToolMove/Spade/SpadeRotate"
                             },
                             {
-                                "text": "SpadeScreef",
-                                "link": "/reference/Move/ToolMoto/Spade/SpadeScreef"
+                                "text": "SpadeSkreef",
+                                "link": "/reference/Move/ToolMove/Spade/SpadeSkreef"
                             },
                             {
                                 "text": "SpadeSlam",
-                                "link": "/reference/Move/ToolMoto/Spade/SpadeSlam"
+                                "link": "/reference/Move/ToolMove/Spade/SpadeSlam"
                             },
                             {
                                 "text": "SpadeStall",
-                                "link": "/reference/Move/ToolMoto/Spade/SpadeStall"
+                                "link": "/reference/Move/ToolMove/Spade/SpadeStall"
                             },
                             {
                                 "text": "SpadeStomp",
-                                "link": "/reference/Move/ToolMoto/Spade/SpadeStomp"
+                                "link": "/reference/Move/ToolMove/Spade/SpadeStomp"
                             },
                             {
                                 "text": "SpadeSwing",
-                                "link": "/reference/Move/ToolMoto/Spade/SpadeSwing"
+                                "link": "/reference/Move/ToolMove/Spade/SpadeSwing"
                             },
                             {
                                 "text": "SpadeTest",
-                                "link": "/reference/Move/ToolMoto/Spade/SpadeTest"
+                                "link": "/reference/Move/ToolMove/Spade/SpadeTest"
                             },
                             {
                                 "text": "SpadeError",
-                                "link": "/reference/Move/ToolMoto/Spade/SpadeError"
+                                "link": "/reference/Move/ToolMove/Spade/SpadeError"
                             }
                         ]
                     },
                     {
                         "text": "Staff",
-                        "link": "/reference/Move/ToolMoto/Staff/Overview",
+                        "link": "/reference/Move/ToolMove/Staff/Overview",
                         "collapsed": "true",
                         "items": [
                             {
                                 "text": "StaffAmble",
-                                "link": "/reference/Move/ToolMoto/Staff/StaffAmble"
+                                "link": "/reference/Move/ToolMove/Staff/StaffAmble"
                             },
                             {
                                 "text": "StaffAmble",
-                                "link": "/reference/Move/ToolMoto/Staff/StaffAmble"
+                                "link": "/reference/Move/ToolMove/Staff/StaffAmble"
                             },
                             {
                                 "text": "StaffAnchor",
-                                "link": "/reference/Move/ToolMoto/Staff/StaffAnchor"
+                                "link": "/reference/Move/ToolMove/Staff/StaffAnchor"
                             },
                             {
                                 "text": "StaffBridge",
-                                "link": "/reference/Move/ToolMoto/Staff/StaffBridge"
+                                "link": "/reference/Move/ToolMove/Staff/StaffBridge"
                             },
                             {
                                 "text": "StaffBump",
-                                "link": "/reference/Move/ToolMoto/Staff/StaffBump"
+                                "link": "/reference/Move/ToolMove/Staff/StaffBump"
                             },
                             {
                                 "text": "StaffChop",
-                                "link": "/reference/Move/ToolMoto/Staff/StaffChop"
+                                "link": "/reference/Move/ToolMove/Staff/StaffChop"
                             },
                             {
                                 "text": "StaffCone",
-                                "link": "/reference/Move/ToolMoto/Staff/StaffCone"
+                                "link": "/reference/Move/ToolMove/Staff/StaffCone"
                             },
                             {
                                 "text": "StaffDrag",
-                                "link": "/reference/Move/ToolMoto/Staff/StaffDrag"
+                                "link": "/reference/Move/ToolMove/Staff/StaffDrag"
                             },
                             {
                                 "text": "StaffGrip",
-                                "link": "/reference/Move/ToolMoto/Staff/StaffGrip"
+                                "link": "/reference/Move/ToolMove/Staff/StaffGrip"
                             },
                             {
                                 "text": "StaffMatch",
-                                "link": "/reference/Move/ToolMoto/Staff/StaffMatch"
+                                "link": "/reference/Move/ToolMove/Staff/StaffMatch"
                             },
                             {
                                 "text": "StaffPendulum",
-                                "link": "/reference/Move/ToolMoto/Staff/StaffPendulum"
+                                "link": "/reference/Move/ToolMove/Staff/StaffPendulum"
                             },
                             {
                                 "text": "StaffPogo",
-                                "link": "/reference/Move/ToolMoto/Staff/StaffPogo"
+                                "link": "/reference/Move/ToolMove/Staff/StaffPogo"
                             },
                             {
                                 "text": "StaffPoke",
-                                "link": "/reference/Move/ToolMoto/Staff/StaffPoke"
+                                "link": "/reference/Move/ToolMove/Staff/StaffPoke"
                             },
                             {
                                 "text": "StaffPost",
-                                "link": "/reference/Move/ToolMoto/Staff/StaffPost"
+                                "link": "/reference/Move/ToolMove/Staff/StaffPost"
                             },
                             {
                                 "text": "StaffProp",
-                                "link": "/reference/Move/ToolMoto/Staff/StaffProp"
+                                "link": "/reference/Move/ToolMove/Staff/StaffProp"
                             },
                             {
                                 "text": "StaffPost",
-                                "link": "/reference/Move/ToolMoto/Staff/StaffPost"
+                                "link": "/reference/Move/ToolMove/Staff/StaffPost"
                             },
                             {
                                 "text": "StaffRotate",
-                                "link": "/reference/Move/ToolMoto/Staff/StaffRotate"
+                                "link": "/reference/Move/ToolMove/Staff/StaffRotate"
                             },
                             {
-                                "text": "StaffScreef",
-                                "link": "/reference/Move/ToolMoto/Staff/StaffScreef"
+                                "text": "StaffSkreef",
+                                "link": "/reference/Move/ToolMove/Staff/StaffSkreef"
                             },
                             {
                                 "text": "StaffSlam",
-                                "link": "/reference/Move/ToolMoto/Staff/StaffSlam"
+                                "link": "/reference/Move/ToolMove/Staff/StaffSlam"
                             },
                             {
                                 "text": "StaffSlap",
-                                "link": "/reference/Move/ToolMoto/Staff/StaffSlap"
+                                "link": "/reference/Move/ToolMove/Staff/StaffSlap"
                             },
                             {
                                 "text": "StaffSlide",
-                                "link": "/reference/Move/ToolMoto/Staff/StaffSlide"
+                                "link": "/reference/Move/ToolMove/Staff/StaffSlide"
                             },
                             {
                                 "text": "StaffStall",
-                                "link": "/reference/Move/ToolMoto/Staff/StaffStall"
+                                "link": "/reference/Move/ToolMove/Staff/StaffStall"
                             },
                             {
                                 "text": "StaffStomp",
-                                "link": "/reference/Move/ToolMoto/Staff/StaffStomp"
+                                "link": "/reference/Move/ToolMove/Staff/StaffStomp"
                             },
                             {
                                 "text": "StaffSwing",
-                                "link": "/reference/Move/ToolMoto/Staff/StaffSwing"
+                                "link": "/reference/Move/ToolMove/Staff/StaffSwing"
                             },
                             {
                                 "text": "StaffError",
-                                "link": "/reference/Move/ToolMoto/Staff/StaffError"
+                                "link": "/reference/Move/ToolMove/Staff/StaffError"
                             }
                         ]
                     }
@@ -1257,20 +1257,20 @@ Download Printable resources
             },
             {
                 "text": "Truck",
-                "link": "/reference/Move/TruckMoto/Overview",
+                "link": "/reference/Move/TruckMove/Overview",
                 "collapsed": "true",
                 "items": [
                     {
                         "text": "Truck Phrase",
-                        "link": "/reference/Move/TruckMoto/Phrase/Overview"
+                        "link": "/reference/Move/TruckMove/Phrase/Overview"
                     },
                     {
                         "text": "Sleep",
-                        "link": "/reference/Move/TruckMoto/Sleep"
+                        "link": "/reference/Move/TruckMove/Sleep"
                     },
                     {
                         "text": "Sit",
-                        "link": "/reference/Move/TruckMoto/Sit"
+                        "link": "/reference/Move/TruckMove/Sit"
                     }
                 ]
             },
@@ -1497,37 +1497,37 @@ Download Printable resources
                 ]
             },
             {
-                "text": "Flag",
-                "link": "/reference/Via/Flag/Overview",
+                "text": "Marka",
+                "link": "/reference/Via/Marka/Overview",
                 "collapsed": "true",
                 "items": [
                     {
-                        "text": "BoundaryFlag",
-                        "link": "/reference/Via/Flag/BoundaryFlag"
+                        "text": "BoundaryMarka",
+                        "link": "/reference/Via/Marka/BoundaryMarka"
                     },
                     {
-                        "text": "FlagLocation",
-                        "link": "/reference/Via/Flag/FlagLocation"
+                        "text": "MarkaLocation",
+                        "link": "/reference/Via/Marka/MarkaLocation"
                     },
                     {
-                        "text": "HighFlag",
-                        "link": "/reference/Via/Flag/HighFlag"
+                        "text": "HighMarka",
+                        "link": "/reference/Via/Marka/HighMarka"
                     },
                     {
-                        "text": "LineInFlag",
-                        "link": "/reference/Via/Flag/LineInFlag"
+                        "text": "LineInMarka",
+                        "link": "/reference/Via/Marka/LineInMarka"
                     },
                     {
-                        "text": "NaturalFlag",
-                        "link": "/reference/Via/Flag/NaturalFlag"
+                        "text": "NaturalMarka",
+                        "link": "/reference/Via/Marka/NaturalMarka"
                     },
                     {
-                        "text": "TrenchExitFlag",
-                        "link": "/reference/Via/Flag/TrenchExitFlag"
+                        "text": "TrenchExitMarka",
+                        "link": "/reference/Via/Marka/TrenchExitMarka"
                     },
                     {
-                        "text": "WastedFlag",
-                        "link": "/reference/Via/Flag/WastedFlag"
+                        "text": "WastedMarka",
+                        "link": "/reference/Via/Marka/WastedMarka"
                     }
                 ]
             }
@@ -1752,8 +1752,8 @@ Download Printable resources
                         "link": "/reference/Psike/Time/DailySchedule"
                     },
                     {
-                        "text": "MotoTiming",
-                        "link": "/reference/Psike/Time/MotoTiming"
+                        "text": "MoveTiming",
+                        "link": "/reference/Psike/Time/MoveTiming"
                     },
                     {
                         "text": "Planning",

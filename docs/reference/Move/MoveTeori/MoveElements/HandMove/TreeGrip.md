@@ -35,15 +35,15 @@
 
 <div style="display: flex">
     <div>
-        <img style="margin: 5px" height="200" width="200" alt="Icon" src="/Move/Moto_Icon.png"/>
+        <img style="margin: 5px" height="200" width="200" alt="Icon" src="/Move/Move_Icon.png"/>
         <p>Description of Move Photo</p>
     </div>
     <div>
-        <img style="margin: 5px" height="200" width="200" alt="Icon" src="/Move/Moto_Icon.png"/>
+        <img style="margin: 5px" height="200" width="200" alt="Icon" src="/Move/Move_Icon.png"/>
         <p>Description of Move Photo</p>
     </div>
     <div>
-        <img style="margin: 5px" height="200" width="200" alt="Icon" src="/Move/Moto_Icon.png"/>
+        <img style="margin: 5px" height="200" width="200" alt="Icon" src="/Move/Move_Icon.png"/>
         <p>Description of Move Photo</p>
     </div>
 </div>
@@ -54,15 +54,15 @@
 
 <div style="display: flex">
     <div>
-        <img style="margin: 5px" height="200" width="200" alt="Icon" src="/Move/Moto_Icon.png"/>
+        <img style="margin: 5px" height="200" width="200" alt="Icon" src="/Move/Move_Icon.png"/>
         <p>Description of Move Photo</p>
     </div>
     <div>
-        <img style="margin: 5px" height="200" width="200" alt="Icon" src="/Move/Moto_Icon.png"/>
+        <img style="margin: 5px" height="200" width="200" alt="Icon" src="/Move/Move_Icon.png"/>
         <p>Description of Move Photo</p>
     </div>
     <div>
-        <img style="margin: 5px" height="200" width="200" alt="Icon" src="/Move/Moto_Icon.png"/>
+        <img style="margin: 5px" height="200" width="200" alt="Icon" src="/Move/Move_Icon.png"/>
         <p>Description of Move Photo</p>
     </div>
 </div>

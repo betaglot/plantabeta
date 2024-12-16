@@ -2,7 +2,7 @@
 
 > all the plants which are already growing in the land
 
-## 🟠<move>PlantMoto</move>
+## 🟠<move>PlantMove</move>
 
 ---
 

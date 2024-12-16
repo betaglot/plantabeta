@@ -2,7 +2,7 @@
 
 ## When to abandon RedRot Site?
 
-If the redrot is screefed to deeper than a blade then punch down if you don't hear or feel soil then abandon site
+If the redrot is skreefed to deeper than a blade then punch down if you don't hear or feel soil then abandon site
 
 ## Dark RedRot
 

@@ -7,7 +7,7 @@
 - RiskOfInjury
 
 - Does the complexity of a Via change after it has been climbed many times?
-    - No, but the MotoComplexity can decrease if more simple Beta is discovered.
+    - No, but the MoveComplexity can decrease if more simple Beta is discovered.
 
 ## Examples of <via>Via</via> Complexity
 

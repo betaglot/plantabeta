@@ -51,9 +51,7 @@ Makes the Voronoi Cells more
 <!-- =================================================== -->
 ::: details 🛠 <dev>&&&</dev>
 
-
-
-- Landmarking is like Flagging, but only in your mind. Flag represents ViaPoints.
+- Landmarking is like Markaging, but only in your mind. Marka represents ViaPoints.
 - <https://gwlucastrig.github.io/TinfourDocs/DelaunayIntro/index.html>
 
 ![DelaunayOptimality](/Via/Voronoi/DelaunayOptimality.png)
@@ -63,13 +61,11 @@ Makes the Voronoi Cells more
 - TargetLandMark
     - LineIn uses a TargetLandmark
 
-
-
 <h2>PageTags</h2>
 
 - "Via.ViaGeometry.ViaPoint.CenterPoint"
 - "Via.ViaGeometry.ViaPoint.DeadEndPoint"
-- "Via.ViaGeometry.ViaPoint.FlagSite"
+- "Via.ViaGeometry.ViaPoint.MarkaSite"
 - "Via.ViaGeometry.ViaPoint.Landmark"
 - "Via.ViaGeometry.ViaPoint.Microsite.MicrositeSelection"
 - "Via.ViaGeometry.ViaPoint.Microsite.MicrositeStrikeLine"

@@ -11,7 +11,7 @@ A method of Beta is to print out a string describing the Beta in English. This s
 
 How can miming be used to communicate Beta non verbally and can be seen from a distance?
 
-- Like Military hand signals or Airport Flagger Symbols
+- Like Military hand signals or Airport Markager Symbols
 
 - Spade held like a T
 

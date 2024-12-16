@@ -2,11 +2,11 @@
 
 A RICscore description for a single Move.
 
-- SuperMoto, SubMoto
+- SuperMove, SubMove
 
-- MotoRICscore is used to compare Motos. AlternativeMotos can be compared to find a Move which fits in a MotoSequence.
-    - MotoComparison
+- MoveRICscore is used to compare Moves. AlternativeMoves can be compared to find a Move which fits in a MoveSequence.
+    - MoveComparison
 
-- MotoPattern.Theoria
-    - A Theoria description for a single MotoPattern, which is composed of many Motos.
-    - Used to compare multiple MotoPatterns.
+- MovePattern.Theoria
+    - A Theoria description for a single MovePattern, which is composed of many Moves.
+    - Used to compare multiple MovePatterns.

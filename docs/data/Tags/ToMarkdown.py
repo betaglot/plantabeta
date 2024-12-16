@@ -845,4297 +845,4297 @@ data = [
         "TagName": "Beta.BetaInstance.BetaInstanceComparison"
     },
     {
-        "PagePath": "Move/ArmMoto/ArmBalance.md",
+        "PagePath": "Move/ArmMove/ArmBalance.md",
         "PaperPhoto": "Video_011.mp4",
         "TagName": "Move.ArmMove.ArmBalance"
     },
     {
-        "PagePath": "Move/ArmMoto/ArmProp.md",
+        "PagePath": "Move/ArmMove/ArmProp.md",
         "PaperPhoto": "1052.jpg",
         "TagName": "Move.ArmMove.ArmProp"
     },
     {
-        "PagePath": "Move/ArmMoto/ArmProp.md",
+        "PagePath": "Move/ArmMove/ArmProp.md",
         "PaperPhoto": "2278.jpg",
         "TagName": "Move.ArmMove.ArmProp"
     },
     {
-        "PagePath": "Move/ArmMoto/ArmProp.md",
+        "PagePath": "Move/ArmMove/ArmProp.md",
         "PaperPhoto": "2469.jpg",
         "TagName": "Move.ArmMove.ArmProp"
     },
     {
-        "PagePath": "Move/ArmMoto/ArmProp.md",
+        "PagePath": "Move/ArmMove/ArmProp.md",
         "PaperPhoto": "Video_001.mp4",
         "TagName": "Move.ArmMove.ArmProp"
     },
     {
-        "PagePath": "Move/ArmMoto/ArmSwing.md",
+        "PagePath": "Move/ArmMove/ArmSwing.md",
         "PaperPhoto": "0548.jpg",
         "TagName": "Move.ArmMove.ArmSwing"
     },
     {
-        "PagePath": "Move/ArmMoto/ArmSwing.md",
+        "PagePath": "Move/ArmMove/ArmSwing.md",
         "PaperPhoto": "1357.jpg",
         "TagName": "Move.ArmMove.ArmSwing"
     },
     {
-        "PagePath": "Move/ArmMoto/ArmSwing.md",
+        "PagePath": "Move/ArmMove/ArmSwing.md",
         "PaperPhoto": "1815.jpg",
         "TagName": "Move.ArmMove.ArmSwing"
     },
     {
-        "PagePath": "Move/ArmMoto/ArmSwing.md",
+        "PagePath": "Move/ArmMove/ArmSwing.md",
         "PaperPhoto": "1824.jpg",
         "TagName": "Move.ArmMove.ArmSwing"
     },
     {
-        "PagePath": "Move/ArmMoto/ArmSwing.md",
+        "PagePath": "Move/ArmMove/ArmSwing.md",
         "PaperPhoto": "2033.jpg",
         "TagName": "Move.ArmMove.ArmSwing"
     },
     {
-        "PagePath": "Move/ArmMoto/ArmSwing.md",
+        "PagePath": "Move/ArmMove/ArmSwing.md",
         "PaperPhoto": "2948.jpg",
         "TagName": "Move.ArmMove.ArmSwing"
     },
     {
-        "PagePath": "Move/ArmMoto/ArmSwing.md",
+        "PagePath": "Move/ArmMove/ArmSwing.md",
         "PaperPhoto": "3222.jpg",
         "TagName": "Move.ArmMove.ArmSwing"
     },
     {
-        "PagePath": "Move/ArmMoto/Overview.md",
+        "PagePath": "Move/ArmMove/Overview.md",
         "PaperPhoto": "0017.jpg",
         "TagName": "Move.ArmMove.ArmCross"
     },
     {
-        "PagePath": "Move/ArmMoto/Overview.md",
+        "PagePath": "Move/ArmMove/Overview.md",
         "PaperPhoto": "0458.jpg",
         "TagName": "Move.ArmMove.ArmExternalRotation"
     },
     {
-        "PagePath": "Move/ArmMoto/Overview.md",
+        "PagePath": "Move/ArmMove/Overview.md",
         "PaperPhoto": "0458.jpg",
         "TagName": "Move.ArmMove.ArmInternalRotation"
     },
     {
-        "PagePath": "Move/ArmMoto/Overview.md",
+        "PagePath": "Move/ArmMove/Overview.md",
         "PaperPhoto": "0458.jpg",
         "TagName": "Move.ArmMove.ArmTRex"
     },
     {
-        "PagePath": "Move/ArmMoto/Overview.md",
+        "PagePath": "Move/ArmMove/Overview.md",
         "PaperPhoto": "0875.jpg",
         "TagName": "Move.ArmMove.ArmTRex"
     },
     {
-        "PagePath": "Move/ArmMoto/Overview.md",
+        "PagePath": "Move/ArmMove/Overview.md",
         "PaperPhoto": "0875.jpg",
         "TagName": "Move.ArmMove.ShoulderMove.ShoulderElevate"
     },
     {
-        "PagePath": "Move/ArmMoto/Overview.md",
+        "PagePath": "Move/ArmMove/Overview.md",
         "PaperPhoto": "1021.jpg",
         "TagName": "Move.ArmMove.ArmCircumduction"
     },
     {
-        "PagePath": "Move/ArmMoto/Overview.md",
+        "PagePath": "Move/ArmMove/Overview.md",
         "PaperPhoto": "1049.jpg",
         "TagName": "Move.ArmMove.ArmLock"
     },
     {
-        "PagePath": "Move/ArmMoto/Overview.md",
+        "PagePath": "Move/ArmMove/Overview.md",
         "PaperPhoto": "1052.jpg",
         "TagName": "Move.ArmMove.ArmBrake"
     },
     {
-        "PagePath": "Move/ArmMoto/Overview.md",
+        "PagePath": "Move/ArmMove/Overview.md",
         "PaperPhoto": "1052.jpg",
         "TagName": "Move.ArmMove.ArmRockOver"
     },
     {
-        "PagePath": "Move/ArmMoto/Overview.md",
+        "PagePath": "Move/ArmMove/Overview.md",
         "PaperPhoto": "1100.jpg",
         "TagName": "Move.ArmMove.ProximalElbow"
     },
     {
-        "PagePath": "Move/ArmMoto/Overview.md",
+        "PagePath": "Move/ArmMove/Overview.md",
         "PaperPhoto": "1105.jpg",
         "TagName": "Move.ArmMove.ArmExtension"
     },
     {
-        "PagePath": "Move/ArmMoto/Overview.md",
+        "PagePath": "Move/ArmMove/Overview.md",
         "PaperPhoto": "1105.jpg",
         "TagName": "Move.ArmMove.ArmFlexion"
     },
     {
-        "PagePath": "Move/ArmMoto/Overview.md",
+        "PagePath": "Move/ArmMove/Overview.md",
         "PaperPhoto": "1105.jpg",
         "TagName": "Move.ArmMove.ArmLock"
     },
     {
-        "PagePath": "Move/ArmMoto/Overview.md",
+        "PagePath": "Move/ArmMove/Overview.md",
         "PaperPhoto": "1357.jpg",
         "TagName": "Move.ArmMove.ArmReach"
     },
     {
-        "PagePath": "Move/ArmMoto/Overview.md",
+        "PagePath": "Move/ArmMove/Overview.md",
         "PaperPhoto": "1527.jpg",
         "TagName": "Move.ArmMove.ArmReach"
     },
     {
-        "PagePath": "Move/ArmMoto/Overview.md",
+        "PagePath": "Move/ArmMove/Overview.md",
         "PaperPhoto": "1546.jpg",
         "TagName": "Move.ArmMove.ArmRockOver"
     },
     {
-        "PagePath": "Move/ArmMoto/Overview.md",
+        "PagePath": "Move/ArmMove/Overview.md",
         "PaperPhoto": "1872.jpg",
         "TagName": "Move.ArmMove.ArmRow"
     },
     {
-        "PagePath": "Move/ArmMoto/Overview.md",
+        "PagePath": "Move/ArmMove/Overview.md",
         "PaperPhoto": "2015.jpg",
         "TagName": "Move.ArmMove.Overview"
     },
     {
-        "PagePath": "Move/ArmMoto/Overview.md",
+        "PagePath": "Move/ArmMove/Overview.md",
         "PaperPhoto": "2486.jpg",
         "TagName": "Move.ArmMove.Overview"
     },
     {
-        "PagePath": "Move/ArmMoto/Overview.md",
+        "PagePath": "Move/ArmMove/Overview.md",
         "PaperPhoto": "2525.jpg",
         "TagName": "Move.ArmMove.Overview"
     },
     {
-        "PagePath": "Move/ArmMoto/Overview.md",
+        "PagePath": "Move/ArmMove/Overview.md",
         "PaperPhoto": "Video_007.mp4",
         "TagName": "Move.ArmMove.ArmExtension"
     },
     {
-        "PagePath": "Move/ArmMoto/Overview.md",
+        "PagePath": "Move/ArmMove/Overview.md",
         "PaperPhoto": "Video_014.mp4",
         "TagName": "Move.ArmMove.ArmReach"
     },
     {
-        "PagePath": "Move/ArmMoto/Overview.md",
+        "PagePath": "Move/ArmMove/Overview.md",
         "PaperPhoto": "Video_015.mp4",
         "TagName": "Move.ArmMove.ArmExtension"
     },
     {
-        "PagePath": "Move/ArmMoto/Overview.md",
+        "PagePath": "Move/ArmMove/Overview.md",
         "PaperPhoto": "Video_015.mp4",
         "TagName": "Move.ArmMove.ArmReach"
     },
     {
-        "PagePath": "Move/ArmMoto/TreeLoad.md",
+        "PagePath": "Move/ArmMove/TreeLoad.md",
         "PaperPhoto": "Video_001.mp4",
         "TagName": "Move.ArmMove.TreeLoad"
     },
     {
-        "PagePath": "Move/ArmMoto/TreeLoad.md",
+        "PagePath": "Move/ArmMove/TreeLoad.md",
         "PaperPhoto": "Video_008.mp4",
         "TagName": "Move.ArmMove.TreeLoad"
     },
     {
-        "PagePath": "Move/ArmMoto/TreeLoad.md",
+        "PagePath": "Move/ArmMove/TreeLoad.md",
         "PaperPhoto": "Video_009.mp4",
         "TagName": "Move.ArmMove.TreeLoad"
     },
     {
-        "PagePath": "Move/ArmMoto/TreeLoad.md",
+        "PagePath": "Move/ArmMove/TreeLoad.md",
         "PaperPhoto": "Video_011.mp4",
         "TagName": "Move.ArmMove.TreeLoad"
     },
     {
-        "PagePath": "Move/BodyMoto/BodyAbsorb.md",
+        "PagePath": "Move/BodyMove/BodyAbsorb.md",
         "PaperPhoto": "1006.jpg",
         "TagName": "Move.BodyMove.BodyAbsorb"
     },
     {
-        "PagePath": "Move/BodyMoto/BodyAbsorb.md",
+        "PagePath": "Move/BodyMove/BodyAbsorb.md",
         "PaperPhoto": "1806.jpg",
         "TagName": "Move.BodyMove.BodyAbsorb"
     },
     {
-        "PagePath": "Move/BodyMoto/BodyBend.md",
+        "PagePath": "Move/BodyMove/BodyBend.md",
         "PaperPhoto": "Video_015.mp4",
         "TagName": "Move.BodyMove.BodyBend"
     },
     {
-        "PagePath": "Move/BodyMoto/BodyLean.md",
+        "PagePath": "Move/BodyMove/BodyLean.md",
         "PaperPhoto": "0448.jpg",
         "TagName": "Move.BodyMove.BodyLean"
     },
     {
-        "PagePath": "Move/BodyMoto/BodyLean.md",
+        "PagePath": "Move/BodyMove/BodyLean.md",
         "PaperPhoto": "0458.jpg",
         "TagName": "Move.BodyMove.BodyLean"
     },
     {
-        "PagePath": "Move/BodyMoto/BodyLean.md",
+        "PagePath": "Move/BodyMove/BodyLean.md",
         "PaperPhoto": "1100.jpg",
         "TagName": "Move.BodyMove.BodyLean"
     },
     {
-        "PagePath": "Move/BodyMoto/BodyLean.md",
+        "PagePath": "Move/BodyMove/BodyLean.md",
         "PaperPhoto": "2513.jpg",
         "TagName": "Move.BodyMove.BodyLean"
     },
     {
-        "PagePath": "Move/BodyMoto/BodyRotate.md",
+        "PagePath": "Move/BodyMove/BodyRotate.md",
         "PaperPhoto": "3080.jpg",
         "TagName": "Move.BodyMove.BodyRotate"
     },
     {
-        "PagePath": "Move/BodyMoto/Fall.md",
+        "PagePath": "Move/BodyMove/Fall.md",
         "PaperPhoto": "1006.jpg",
         "TagName": "Move.BodyMove.Fall"
     },
     {
-        "PagePath": "Move/BodyMoto/Fall.md",
+        "PagePath": "Move/BodyMove/Fall.md",
         "PaperPhoto": "1844.jpg",
         "TagName": "Move.BodyMove.Fall"
     },
     {
-        "PagePath": "Move/BodyMoto/Fall.md",
+        "PagePath": "Move/BodyMove/Fall.md",
         "PaperPhoto": "2450.jpg",
         "TagName": "Move.BodyMove.Fall"
     },
     {
-        "PagePath": "Move/BodyMoto/Fall.md",
+        "PagePath": "Move/BodyMove/Fall.md",
         "PaperPhoto": "2966.jpg",
         "TagName": "Move.BodyMove.Fall"
     },
     {
-        "PagePath": "Move/BodyMoto/Fall.md",
+        "PagePath": "Move/BodyMove/Fall.md",
         "PaperPhoto": "3053.jpg",
         "TagName": "Move.BodyMove.Fall"
     },
     {
-        "PagePath": "Move/BodyMoto/Fall.md",
+        "PagePath": "Move/BodyMove/Fall.md",
         "PaperPhoto": "3227.jpg",
         "TagName": "Move.BodyMove.Fall"
     },
     {
-        "PagePath": "Move/BodyMoto/Overview.md",
+        "PagePath": "Move/BodyMove/Overview.md",
         "PaperPhoto": "1027.jpg",
         "TagName": "Move.BodyMove.Overview"
     },
     {
-        "PagePath": "Move/BodyMoto/Overview.md",
+        "PagePath": "Move/BodyMove/Overview.md",
         "PaperPhoto": "1100.jpg",
         "TagName": "Move.BodyMove.Stemming"
     },
     {
-        "PagePath": "Move/BodyMoto/Overview.md",
+        "PagePath": "Move/BodyMove/Overview.md",
         "PaperPhoto": "1796.jpg",
         "TagName": "Move.BodyMove.BodyDrop.BodyDropInto"
     },
     {
-        "PagePath": "Move/BodyMoto/Overview.md",
+        "PagePath": "Move/BodyMove/Overview.md",
         "PaperPhoto": "1840.jpg",
         "TagName": "Move.BodyMove.BodyPosture"
     },
     {
-        "PagePath": "Move/BodyMoto/Overview.md",
+        "PagePath": "Move/BodyMove/Overview.md",
         "PaperPhoto": "2278.jpg",
         "TagName": "Move.BodyMove.Mantle"
     },
     {
-        "PagePath": "Move/BodyMoto/Overview.md",
+        "PagePath": "Move/BodyMove/Overview.md",
         "PaperPhoto": "2355.jpg",
         "TagName": "Move.BodyMove.Overview"
     },
     {
-        "PagePath": "Move/BodyMoto/Overview.md",
+        "PagePath": "Move/BodyMove/Overview.md",
         "PaperPhoto": "2450.jpg",
         "TagName": "Move.BodyMove.Landing"
     },
     {
-        "PagePath": "Move/BodyMoto/Overview.md",
+        "PagePath": "Move/BodyMove/Overview.md",
         "PaperPhoto": "2469.jpg",
         "TagName": "Move.BodyMove.BodyPosture"
     },
     {
-        "PagePath": "Move/BodyMoto/Overview.md",
+        "PagePath": "Move/BodyMove/Overview.md",
         "PaperPhoto": "2474.jpg",
         "TagName": "Move.BodyMove.Overview"
     },
     {
-        "PagePath": "Move/BodyMoto/Overview.md",
+        "PagePath": "Move/BodyMove/Overview.md",
         "PaperPhoto": "2834.jpg",
         "TagName": "Move.BodyMove.Stemming"
     },
     {
-        "PagePath": "Move/BodyMoto/SlopeWalk.md",
+        "PagePath": "Move/BodyMove/SlopeWalk.md",
         "PaperPhoto": "1861.jpg",
         "TagName": "Move.BodyMove.SlopeWalk"
     },
     {
-        "PagePath": "Move/BodyMoto/SlopeWalk.md",
+        "PagePath": "Move/BodyMove/SlopeWalk.md",
         "PaperPhoto": "3060.jpg",
         "TagName": "Move.BodyMove.SlopeWalk"
     },
     {
-        "PagePath": "Move/BodyMoto/SlopeWalk.md",
+        "PagePath": "Move/BodyMove/SlopeWalk.md",
         "PaperPhoto": "3320.jpg",
         "TagName": "Move.BodyMove.SlopeWalk"
     },
     {
-        "PagePath": "Move/BodyMoto/Stand.md",
+        "PagePath": "Move/BodyMove/Stand.md",
         "PaperPhoto": "Video_015.mp4",
         "TagName": "Move.BodyMove.Stand"
     },
     {
-        "PagePath": "Move/BodyMoto/StandUp.md",
+        "PagePath": "Move/BodyMove/StandUp.md",
         "PaperPhoto": "1796.jpg",
         "TagName": "Move.BodyMove.StandUp"
     },
     {
-        "PagePath": "Move/BodyMoto/StepOverLog.md",
+        "PagePath": "Move/BodyMove/StepOverLog.md",
         "PaperPhoto": "Video_011.mp4",
         "TagName": "Move.BodyMove.StepOverLog"
     },
     {
-        "PagePath": "Move/BodyMoto/Walk.md",
+        "PagePath": "Move/BodyMove/Walk.md",
         "PaperPhoto": "1803.jpg",
         "TagName": "Move.BodyMove.Walk"
     },
     {
-        "PagePath": "Move/BodyMoto/Walk.md",
+        "PagePath": "Move/BodyMove/Walk.md",
         "PaperPhoto": "2450.jpg",
         "TagName": "Move.BodyMove.Walk"
     },
     {
-        "PagePath": "Move/BodyMoto/Walk.md",
+        "PagePath": "Move/BodyMove/Walk.md",
         "PaperPhoto": "3217.jpg",
         "TagName": "Move.BodyMove.Walk"
     },
     {
-        "PagePath": "Move/BodyMoto/Walk.md",
+        "PagePath": "Move/BodyMove/Walk.md",
         "PaperPhoto": "3222.jpg",
         "TagName": "Move.BodyMove.Walk"
     },
     {
-        "PagePath": "Move/CacheMoto/Overview.md",
+        "PagePath": "Move/CacheMove/Overview.md",
         "PaperPhoto": "0048.jpg",
         "TagName": "Move.CacheMove.Overview"
     },
     {
-        "PagePath": "Move/CacheMoto/Overview.md",
+        "PagePath": "Move/CacheMove/Overview.md",
         "PaperPhoto": "3064.jpg",
         "TagName": "Move.CacheMove.Overview"
     },
     {
-        "PagePath": "Move/CacheMoto/Overview.md",
+        "PagePath": "Move/CacheMove/Overview.md",
         "PaperPhoto": "3076.jpg",
         "TagName": "Move.CacheMove.BagsPlacement"
     },
     {
-        "PagePath": "Move/CacheMoto/Overview.md",
+        "PagePath": "Move/CacheMove/Overview.md",
         "PaperPhoto": "3076.jpg",
         "TagName": "Move.CacheMove.Overview"
     },
     {
-        "PagePath": "Move/CacheMoto/Overview.md",
+        "PagePath": "Move/CacheMove/Overview.md",
         "PaperPhoto": "Video_004.mp4",
         "TagName": "Move.CacheMove.BundlePlacement"
     },
     {
-        "PagePath": "Move/CacheMoto/Overview.md",
+        "PagePath": "Move/CacheMove/Overview.md",
         "PaperPhoto": "Video_013.mp4",
         "TagName": "Move.CacheMove.BagsPlacement"
     },
     {
-        "PagePath": "Move/CacheMoto/Overview.md",
+        "PagePath": "Move/CacheMove/Overview.md",
         "PaperPhoto": "Video_014.mp4",
         "TagName": "Move.CacheMove.BagsPlacement"
     },
     {
-        "PagePath": "Move/CacheMoto/Overview.md",
+        "PagePath": "Move/CacheMove/Overview.md",
         "PaperPhoto": "Video_014.mp4",
         "TagName": "Move.CacheMove.BundlePlacement"
     },
     {
-        "PagePath": "Move/CacheMoto/Overview.md",
+        "PagePath": "Move/CacheMove/Overview.md",
         "PaperPhoto": "Video_014.mp4",
         "TagName": "Move.CacheMove.GarbageBox"
     },
     {
-        "PagePath": "Move/CacheMoto/Overview.md",
+        "PagePath": "Move/CacheMove/Overview.md",
         "PaperPhoto": "Video_014.mp4",
         "TagName": "Move.CacheMove.Overview"
     },
     {
-        "PagePath": "Move/CacheMoto/Overview.md",
+        "PagePath": "Move/CacheMove/Overview.md",
         "PaperPhoto": "Video_015.mp4",
         "TagName": "Move.CacheMove.BagsPlacement"
     },
     {
-        "PagePath": "Move/CacheMoto/Overview.md",
+        "PagePath": "Move/CacheMove/Overview.md",
         "PaperPhoto": "Video_015.mp4",
         "TagName": "Move.CacheMove.BoxPlacement"
     },
     {
-        "PagePath": "Move/CacheMoto/Overview.md",
+        "PagePath": "Move/CacheMove/Overview.md",
         "PaperPhoto": "Video_015.mp4",
         "TagName": "Move.CacheMove.BundlePlacement"
     },
     {
-        "PagePath": "Move/CacheMoto/Overview.md",
+        "PagePath": "Move/CacheMove/Overview.md",
         "PaperPhoto": "Video_015.mp4",
         "TagName": "Move.CacheMove.GarbageBox"
     },
     {
-        "PagePath": "Move/CacheMoto/Overview.md",
+        "PagePath": "Move/CacheMove/Overview.md",
         "PaperPhoto": "Video_015.mp4",
         "TagName": "Move.CacheMove.Overview"
     },
     {
-        "PagePath": "Move/ClothingMoto/HatMove.md",
+        "PagePath": "Move/ClothingMove/HatMove.md",
         "PaperPhoto": "2572.jpg",
-        "TagName": "Move.ClothingMove.HatMoto"
+        "TagName": "Move.ClothingMove.HatMove"
     },
     {
-        "PagePath": "Move/ClothingMoto/Overview.md",
+        "PagePath": "Move/ClothingMove/Overview.md",
         "PaperPhoto": "1844.jpg",
         "TagName": "Move.ClothingMove.Overview"
     },
     {
-        "PagePath": "Move/ClothingMoto/Overview.md",
+        "PagePath": "Move/ClothingMove/Overview.md",
         "PaperPhoto": "2572.jpg",
         "TagName": "Move.ClothingMove.Overview"
     },
     {
-        "PagePath": "Move/ClothingMoto/Overview.md",
+        "PagePath": "Move/ClothingMove/Overview.md",
         "PaperPhoto": "3148.jpg",
         "TagName": "Move.ClothingMove.Overview"
     },
     {
-        "PagePath": "Move/FootMoto/FootClose.md",
+        "PagePath": "Move/FootMove/FootClose.md",
         "PaperPhoto": "2945.jpg",
         "TagName": "Move.FootMove.FootClose"
     },
     {
-        "PagePath": "Move/FootMoto/FootClose.md",
+        "PagePath": "Move/FootMove/FootClose.md",
         "PaperPhoto": "Video_005.mp4",
         "TagName": "Move.FootMove.FootClose"
     },
     {
-        "PagePath": "Move/FootMoto/FootClose.md",
+        "PagePath": "Move/FootMove/FootClose.md",
         "PaperPhoto": "Video_008.mp4",
         "TagName": "Move.FootMove.FootClose"
     },
     {
-        "PagePath": "Move/FootMoto/FootClose.md",
+        "PagePath": "Move/FootMove/FootClose.md",
         "PaperPhoto": "Video_009.mp4",
         "TagName": "Move.FootMove.FootClose"
     },
     {
-        "PagePath": "Move/FootMoto/FootPhrase.md",
+        "PagePath": "Move/FootMove/FootPhrase.md",
         "PaperPhoto": "1796.jpg",
         "TagName": "Move.FootMove.FootSwap"
     },
     {
-        "PagePath": "Move/FootMoto/FootScreef.md",
+        "PagePath": "Move/FootMove/FootSkreef.md",
         "PaperPhoto": "3081.jpg",
-        "TagName": "Move.FootMove.FootScreef"
+        "TagName": "Move.FootMove.FootSkreef"
     },
     {
-        "PagePath": "Move/FootMoto/Overview.md",
+        "PagePath": "Move/FootMove/Overview.md",
         "PaperPhoto": "0877.jpg",
         "TagName": "Move.FootMove.FootSmear"
     },
     {
-        "PagePath": "Move/FootMoto/Overview.md",
+        "PagePath": "Move/FootMove/Overview.md",
         "PaperPhoto": "1021.jpg",
         "TagName": "Move.FootMove.FootRoll"
     },
     {
-        "PagePath": "Move/FootMoto/Overview.md",
+        "PagePath": "Move/FootMove/Overview.md",
         "PaperPhoto": "1796.jpg",
         "TagName": "Move.FootMove.FootSmear"
     },
     {
-        "PagePath": "Move/FootMoto/Overview.md",
+        "PagePath": "Move/FootMove/Overview.md",
         "PaperPhoto": "2481.jpg",
         "TagName": "Move.FootMove.Overview"
     },
     {
-        "PagePath": "Move/FootMoto/Overview.md",
+        "PagePath": "Move/FootMove/Overview.md",
         "PaperPhoto": "2936.jpg",
         "TagName": "Move.FootMove.Overview"
     },
     {
-        "PagePath": "Move/HandMoto/BagGrip.md",
+        "PagePath": "Move/HandMove/BagGrip.md",
         "PaperPhoto": "Video_013.mp4",
         "TagName": "Move.HandMove.BagGrip"
     },
     {
-        "PagePath": "Move/HandMoto/BagGrip.md",
+        "PagePath": "Move/HandMove/BagGrip.md",
         "PaperPhoto": "Video_014.mp4",
         "TagName": "Move.HandMove.BagGrip"
     },
     {
-        "PagePath": "Move/HandMoto/HandClose.md",
+        "PagePath": "Move/HandMove/HandClose.md",
         "PaperPhoto": "3160.jpg",
         "TagName": "Move.HandMove.HandClose.HammerClose"
     },
     {
-        "PagePath": "Move/HandMoto/HandClose.md",
+        "PagePath": "Move/HandMove/HandClose.md",
         "PaperPhoto": "3160.jpg",
         "TagName": "Move.HandMove.HandClose.PunchClose"
     },
     {
-        "PagePath": "Move/HandMoto/HandClose.md",
+        "PagePath": "Move/HandMove/HandClose.md",
         "PaperPhoto": "Video_006.mp4",
         "TagName": "Move.HandMove.HandClose"
     },
     {
-        "PagePath": "Move/HandMoto/HandClose.md",
+        "PagePath": "Move/HandMove/HandClose.md",
         "PaperPhoto": "Video_006.mp4",
         "TagName": "Move.HandMove.HandClose.PunchClose"
     },
     {
-        "PagePath": "Move/HandMoto/HandClose.md",
+        "PagePath": "Move/HandMove/HandClose.md",
         "PaperPhoto": "Video_007.mp4",
         "TagName": "Move.HandMove.HandClose"
     },
     {
-        "PagePath": "Move/HandMoto/HandClose.md",
+        "PagePath": "Move/HandMove/HandClose.md",
         "PaperPhoto": "Video_009.mp4",
         "TagName": "Move.HandMove.HandClose"
     },
     {
-        "PagePath": "Move/HandMoto/HandClose.md",
+        "PagePath": "Move/HandMove/HandClose.md",
         "PaperPhoto": "Video_009.mp4",
         "TagName": "Move.HandMove.HandClose.PunchClose"
     },
     {
-        "PagePath": "Move/HandMoto/HandClose.md",
+        "PagePath": "Move/HandMove/HandClose.md",
         "PaperPhoto": "Video_011.mp4",
         "TagName": "Move.HandMove.HandClose"
     },
     {
-        "PagePath": "Move/HandMoto/HandPhrase.md",
+        "PagePath": "Move/HandMove/HandPhrase.md",
         "PaperPhoto": "0826.jpg",
         "TagName": "Move.HandMove.HandMatch"
     },
     {
-        "PagePath": "Move/HandMoto/HandPhrase.md",
+        "PagePath": "Move/HandMove/HandPhrase.md",
         "PaperPhoto": "1100.jpg",
         "TagName": "Move.HandMove.HandMatch"
     },
     {
-        "PagePath": "Move/HandMoto/HandPhrase.md",
+        "PagePath": "Move/HandMove/HandPhrase.md",
         "PaperPhoto": "1527.jpg",
         "TagName": "Move.HandMove.HandMatch"
     },
     {
-        "PagePath": "Move/HandMoto/HandPhrase.md",
+        "PagePath": "Move/HandMove/HandPhrase.md",
         "PaperPhoto": "1599.jpg",
         "TagName": "Move.HandMove.HandBump"
     },
     {
-        "PagePath": "Move/HandMoto/HandPhrase.md",
+        "PagePath": "Move/HandMove/HandPhrase.md",
         "PaperPhoto": "1674.jpg",
         "TagName": "Move.HandMove.HandMatch"
     },
     {
-        "PagePath": "Move/HandMoto/HandPhrase.md",
+        "PagePath": "Move/HandMove/HandPhrase.md",
         "PaperPhoto": "Video_007.mp4",
         "TagName": "Move.HandMove.HandMatch"
     },
     {
-        "PagePath": "Move/HandMoto/HandPhrase.md",
+        "PagePath": "Move/HandMove/HandPhrase.md",
         "PaperPhoto": "Video_013.mp4",
         "TagName": "Move.HandMove.HandMatch"
     },
     {
-        "PagePath": "Move/HandMoto/HandPhrase.md",
+        "PagePath": "Move/HandMove/HandPhrase.md",
         "PaperPhoto": "Video_014.mp4",
         "TagName": "Move.HandMove.HandMatch"
     },
     {
-        "PagePath": "Move/HandMoto/HandScreef.md",
+        "PagePath": "Move/HandMove/HandSkreef.md",
         "PaperPhoto": "2944.jpg",
-        "TagName": "Move.HandMove.HandScreef"
+        "TagName": "Move.HandMove.HandSkreef"
     },
     {
-        "PagePath": "Move/HandMoto/HandScreef.md",
+        "PagePath": "Move/HandMove/HandSkreef.md",
         "PaperPhoto": "Video_009.mp4",
-        "TagName": "Move.HandMove.HandScreef"
+        "TagName": "Move.HandMove.HandSkreef"
     },
     {
-        "PagePath": "Move/HandMoto/InsertTree.md",
+        "PagePath": "Move/HandMove/InsertTree.md",
         "PaperPhoto": "2945.jpg",
         "TagName": "Move.HandMove.InsertTree"
     },
     {
-        "PagePath": "Move/HandMoto/InsertTree.md",
+        "PagePath": "Move/HandMove/InsertTree.md",
         "PaperPhoto": "3060.jpg",
         "TagName": "Move.HandMove.InsertTree"
     },
     {
-        "PagePath": "Move/HandMoto/InsertTree.md",
+        "PagePath": "Move/HandMove/InsertTree.md",
         "PaperPhoto": "Video_002.mp4",
         "TagName": "Move.HandMove.InsertTree"
     },
     {
-        "PagePath": "Move/HandMoto/InsertTree.md",
+        "PagePath": "Move/HandMove/InsertTree.md",
         "PaperPhoto": "Video_005.mp4",
         "TagName": "Move.HandMove.InsertTree"
     },
     {
-        "PagePath": "Move/HandMoto/InsertTree.md",
+        "PagePath": "Move/HandMove/InsertTree.md",
         "PaperPhoto": "Video_009.mp4",
         "TagName": "Move.HandMove.InsertTree"
     },
     {
-        "PagePath": "Move/HandMoto/InsertTree.md",
+        "PagePath": "Move/HandMove/InsertTree.md",
         "PaperPhoto": "Video_011.mp4",
         "TagName": "Move.HandMove.InsertTree"
     },
     {
-        "PagePath": "Move/HandMoto/Overview.md",
+        "PagePath": "Move/HandMove/Overview.md",
         "PaperPhoto": "0296.jpg",
         "TagName": "Move.HandMove.FingertipPress"
     },
     {
-        "PagePath": "Move/HandMoto/Overview.md",
+        "PagePath": "Move/HandMove/Overview.md",
         "PaperPhoto": "0487.jpg",
         "TagName": "Move.HandMove.FingerMove.FingerCurl"
     },
     {
-        "PagePath": "Move/HandMoto/Overview.md",
+        "PagePath": "Move/HandMove/Overview.md",
         "PaperPhoto": "0487.jpg",
         "TagName": "Move.HandMove.FingerMove.Overview"
     },
     {
-        "PagePath": "Move/HandMoto/Overview.md",
+        "PagePath": "Move/HandMove/Overview.md",
         "PaperPhoto": "0487.jpg",
         "TagName": "Move.HandMove.PinchGrip"
     },
     {
-        "PagePath": "Move/HandMoto/Overview.md",
+        "PagePath": "Move/HandMove/Overview.md",
         "PaperPhoto": "1099.jpg",
         "TagName": "Move.HandMove.HandSwap"
     },
     {
-        "PagePath": "Move/HandMoto/Overview.md",
+        "PagePath": "Move/HandMove/Overview.md",
         "PaperPhoto": "1451.jpg",
         "TagName": "Move.HandMove.HandSlot"
     },
     {
-        "PagePath": "Move/HandMoto/Overview.md",
+        "PagePath": "Move/HandMove/Overview.md",
         "PaperPhoto": "1527.jpg",
         "TagName": "Move.HandMove.HandSwap"
     },
     {
-        "PagePath": "Move/HandMoto/Overview.md",
+        "PagePath": "Move/HandMove/Overview.md",
         "PaperPhoto": "1546.jpg",
         "TagName": "Move.HandMove.HandSmear"
     },
     {
-        "PagePath": "Move/HandMoto/Overview.md",
+        "PagePath": "Move/HandMove/Overview.md",
         "PaperPhoto": "1546.jpg",
         "TagName": "Move.HandMove.UnderclingGrip"
     },
     {
-        "PagePath": "Move/HandMoto/Overview.md",
+        "PagePath": "Move/HandMove/Overview.md",
         "PaperPhoto": "1796.jpg",
         "TagName": "Move.HandMove.HandSmear"
     },
     {
-        "PagePath": "Move/HandMoto/Overview.md",
+        "PagePath": "Move/HandMove/Overview.md",
         "PaperPhoto": "1803.jpg",
         "TagName": "Move.HandMove.UnderclingGrip"
     },
     {
-        "PagePath": "Move/HandMoto/Overview.md",
+        "PagePath": "Move/HandMove/Overview.md",
         "PaperPhoto": "1806.jpg",
         "TagName": "Move.HandMove.HandSwap"
     },
     {
-        "PagePath": "Move/HandMoto/Overview.md",
+        "PagePath": "Move/HandMove/Overview.md",
         "PaperPhoto": "1826.jpg",
         "TagName": "Move.HandMove.CupGrip"
     },
     {
-        "PagePath": "Move/HandMoto/Overview.md",
+        "PagePath": "Move/HandMove/Overview.md",
         "PaperPhoto": "1826.jpg",
         "TagName": "Move.HandMove.FingerMove.FingerHook"
     },
     {
-        "PagePath": "Move/HandMoto/Overview.md",
+        "PagePath": "Move/HandMove/Overview.md",
         "PaperPhoto": "1826.jpg",
         "TagName": "Move.HandMove.FingerMove.Overview"
     },
     {
-        "PagePath": "Move/HandMoto/Overview.md",
+        "PagePath": "Move/HandMove/Overview.md",
         "PaperPhoto": "1826.jpg",
         "TagName": "Move.HandMove.FingerOverlapPoke"
     },
     {
-        "PagePath": "Move/HandMoto/Overview.md",
+        "PagePath": "Move/HandMove/Overview.md",
         "PaperPhoto": "1826.jpg",
         "TagName": "Move.HandMove.HandSlide"
     },
     {
-        "PagePath": "Move/HandMoto/Overview.md",
+        "PagePath": "Move/HandMove/Overview.md",
         "PaperPhoto": "1826.jpg",
         "TagName": "Move.HandMove.HandSmear"
     },
     {
-        "PagePath": "Move/HandMoto/Overview.md",
+        "PagePath": "Move/HandMove/Overview.md",
         "PaperPhoto": "1826.jpg",
         "TagName": "Move.HandMove.PinchGrip"
     },
     {
-        "PagePath": "Move/HandMoto/Overview.md",
+        "PagePath": "Move/HandMove/Overview.md",
         "PaperPhoto": "2007.jpg",
         "TagName": "Move.HandMove.PinchGrip"
     },
     {
-        "PagePath": "Move/HandMoto/Overview.md",
+        "PagePath": "Move/HandMove/Overview.md",
         "PaperPhoto": "2008.jpg",
         "TagName": "Move.HandMove.Overview"
     },
     {
-        "PagePath": "Move/HandMoto/Overview.md",
+        "PagePath": "Move/HandMove/Overview.md",
         "PaperPhoto": "2010.jpg",
         "TagName": "Move.HandMove.Overview"
     },
     {
-        "PagePath": "Move/HandMoto/Overview.md",
+        "PagePath": "Move/HandMove/Overview.md",
         "PaperPhoto": "2020.jpg",
         "TagName": "Move.HandMove.Overview"
     },
     {
-        "PagePath": "Move/HandMoto/Overview.md",
+        "PagePath": "Move/HandMove/Overview.md",
         "PaperPhoto": "2482.jpg",
         "TagName": "Move.HandMove.Overview"
     },
     {
-        "PagePath": "Move/HandMoto/Overview.md",
+        "PagePath": "Move/HandMove/Overview.md",
         "PaperPhoto": "2511.jpg",
         "TagName": "Move.HandMove.Overview"
     },
     {
-        "PagePath": "Move/HandMoto/Overview.md",
+        "PagePath": "Move/HandMove/Overview.md",
         "PaperPhoto": "2525.jpg",
         "TagName": "Move.HandMove.Overview"
     },
     {
-        "PagePath": "Move/HandMoto/Overview.md",
+        "PagePath": "Move/HandMove/Overview.md",
         "PaperPhoto": "2571.jpg",
         "TagName": "Move.HandMove.Overview"
     },
     {
-        "PagePath": "Move/HandMoto/Overview.md",
+        "PagePath": "Move/HandMove/Overview.md",
         "PaperPhoto": "Video_002.mp4",
         "TagName": "Move.HandMove.HandSlide"
     },
     {
-        "PagePath": "Move/HandMoto/SpadeHandleGrip.md",
+        "PagePath": "Move/HandMove/SpadeHandleGrip.md",
         "PaperPhoto": "0016.jpg",
         "TagName": "Move.HandMove.SpadeHandleGrip"
     },
     {
-        "PagePath": "Move/HandMoto/SpadeHandleGrip.md",
+        "PagePath": "Move/HandMove/SpadeHandleGrip.md",
         "PaperPhoto": "3016.jpg",
         "TagName": "Move.HandMove.SpadeHandleGrip"
     },
     {
-        "PagePath": "Move/HandMoto/TreeGrip.md",
+        "PagePath": "Move/HandMove/TreeGrip.md",
         "PaperPhoto": "0448.jpg",
         "TagName": "Move.HandMove.TreeGrip"
     },
     {
-        "PagePath": "Move/HandMoto/TreeGrip.md",
+        "PagePath": "Move/HandMove/TreeGrip.md",
         "PaperPhoto": "1859.jpg",
         "TagName": "Move.HandMove.TreeFlip"
     },
     {
-        "PagePath": "Move/HandMoto/TreeGrip.md",
+        "PagePath": "Move/HandMove/TreeGrip.md",
         "PaperPhoto": "2944.jpg",
         "TagName": "Move.HandMove.TreeFlip"
     },
     {
-        "PagePath": "Move/HandMoto/TreeGrip.md",
+        "PagePath": "Move/HandMove/TreeGrip.md",
         "PaperPhoto": "2944.jpg",
         "TagName": "Move.HandMove.TreeGrip"
     },
     {
-        "PagePath": "Move/HandMoto/TreeGrip.md",
+        "PagePath": "Move/HandMove/TreeGrip.md",
         "PaperPhoto": "2954.jpg",
         "TagName": "Move.HandMove.TreeGrip"
     },
     {
-        "PagePath": "Move/HandMoto/TreeGrip.md",
+        "PagePath": "Move/HandMove/TreeGrip.md",
         "PaperPhoto": "Video_013.mp4",
         "TagName": "Move.HandMove.TreeGrip"
     },
     {
-        "PagePath": "Move/HandMoto/TreeTestGrip.md",
+        "PagePath": "Move/HandMove/TreeTestGrip.md",
         "PaperPhoto": "2936.jpg",
         "TagName": "Move.HandMove.TreeTestGrip"
     },
     {
-        "PagePath": "Move/HandMoto/TreeTestGrip.md",
+        "PagePath": "Move/HandMove/TreeTestGrip.md",
         "PaperPhoto": "Video_006.mp4",
         "TagName": "Move.HandMove.TreeInspect"
     },
     {
-        "PagePath": "Move/HeadMoto/FocusLook.md",
+        "PagePath": "Move/HeadMove/FocusLook.md",
         "PaperPhoto": "Video_007.mp4",
         "TagName": "Move.HeadMove.FocusLook"
     },
     {
-        "PagePath": "Move/HeadMoto/Overview.md",
+        "PagePath": "Move/HeadMove/Overview.md",
         "PaperPhoto": "0056.jpg",
-        "TagName": "Move.HeadMove.Find.Flag"
+        "TagName": "Move.HeadMove.Find.Marka"
     },
     {
-        "PagePath": "Move/HeadMoto/Overview.md",
+        "PagePath": "Move/HeadMove/Overview.md",
         "PaperPhoto": "1372.jpg",
         "TagName": "Move.HeadMove.LookAt"
     },
     {
-        "PagePath": "Move/HeadMoto/Overview.md",
+        "PagePath": "Move/HeadMove/Overview.md",
         "PaperPhoto": "2023.jpg",
         "TagName": "Move.HeadMove.LookAt"
     },
     {
-        "PagePath": "Move/HeadMoto/Overview.md",
+        "PagePath": "Move/HeadMove/Overview.md",
         "PaperPhoto": "2487.jpg",
         "TagName": "Move.HeadMove.Overview"
     },
     {
-        "PagePath": "Move/HeadMoto/Overview.md",
+        "PagePath": "Move/HeadMove/Overview.md",
         "PaperPhoto": "2938.jpg",
         "TagName": "Move.HeadMove.LookAt"
     },
     {
-        "PagePath": "Move/HeadMoto/Overview.md",
+        "PagePath": "Move/HeadMove/Overview.md",
         "PaperPhoto": "3000.jpg",
         "TagName": "Move.HeadMove.LookAt"
     },
     {
-        "PagePath": "Move/HeadMoto/Overview.md",
+        "PagePath": "Move/HeadMove/Overview.md",
         "PaperPhoto": "3143.jpg",
         "TagName": "Move.HeadMove.LookAt"
     },
     {
-        "PagePath": "Move/HeadMoto/Overview.md",
+        "PagePath": "Move/HeadMove/Overview.md",
         "PaperPhoto": "3153.jpg",
         "TagName": "Move.HeadMove.Overview"
     },
     {
-        "PagePath": "Move/HoleMoto/HoleClose.md",
+        "PagePath": "Move/HoleMove/HoleClose.md",
         "PaperPhoto": "2936.jpg",
         "TagName": "Move.HoleMove.CloseHole"
     },
     {
-        "PagePath": "Move/HoleMoto/HoleClose.md",
+        "PagePath": "Move/HoleMove/HoleClose.md",
         "PaperPhoto": "2944.jpg",
         "TagName": "Move.HoleMove.CloseHole"
     },
     {
-        "PagePath": "Move/HoleMoto/HoleExpand.md",
+        "PagePath": "Move/HoleMove/HoleExpand.md",
         "PaperPhoto": "2934.jpg",
         "TagName": "Move.HoleMove.ExpandHole"
     },
     {
-        "PagePath": "Move/HoleMoto/HoleExpand.md",
+        "PagePath": "Move/HoleMove/HoleExpand.md",
         "PaperPhoto": "3059.jpg",
         "TagName": "Move.HoleMove.ExpandHole"
     },
     {
-        "PagePath": "Move/HoleMoto/HoleExpand.md",
+        "PagePath": "Move/HoleMove/HoleExpand.md",
         "PaperPhoto": "Video_005.mp4",
         "TagName": "Move.HoleMove.ExpandHole"
     },
     {
-        "PagePath": "Move/HoleMoto/HoleExpand.md",
+        "PagePath": "Move/HoleMove/HoleExpand.md",
         "PaperPhoto": "Video_007.mp4",
         "TagName": "Move.HoleMove.ExpandHole"
     },
     {
-        "PagePath": "Move/HoleMoto/HoleExpand.md",
+        "PagePath": "Move/HoleMove/HoleExpand.md",
         "PaperPhoto": "Video_008.mp4",
         "TagName": "Move.HoleMove.ExpandHole"
     },
     {
-        "PagePath": "Move/HoleMoto/HoleExpand.md",
+        "PagePath": "Move/HoleMove/HoleExpand.md",
         "PaperPhoto": "Video_009.mp4",
         "TagName": "Move.HoleMove.ExpandHole"
     },
     {
-        "PagePath": "Move/HoleMoto/HoleExpand.md",
+        "PagePath": "Move/HoleMove/HoleExpand.md",
         "PaperPhoto": "Video_011.mp4",
         "TagName": "Move.HoleMove.ExpandHole"
     },
     {
-        "PagePath": "Move/HoleMoto/HoleOpen.md",
+        "PagePath": "Move/HoleMove/HoleOpen.md",
         "PaperPhoto": "3060.jpg",
         "TagName": "Move.HoleMove.HoleOpen"
     },
     {
-        "PagePath": "Move/HoleMoto/HoleOpen.md",
+        "PagePath": "Move/HoleMove/HoleOpen.md",
         "PaperPhoto": "3082.jpg",
         "TagName": "Move.HoleMove.HoleOpen"
     },
     {
-        "PagePath": "Move/HoleMoto/HoleOpen.md",
+        "PagePath": "Move/HoleMove/HoleOpen.md",
         "PaperPhoto": "Video_001.mp4",
         "TagName": "Move.HoleMove.HoleOpen"
     },
     {
-        "PagePath": "Move/HoleMoto/Overview.md",
+        "PagePath": "Move/HoleMove/Overview.md",
         "PaperPhoto": "2478.jpg",
         "TagName": "Move.HoleMove.Overview"
     },
     {
-        "PagePath": "Move/HoleMoto/Overview.md",
+        "PagePath": "Move/HoleMove/Overview.md",
         "PaperPhoto": "2945.jpg",
         "TagName": "Move.HoleMove.Overview"
     },
     {
-        "PagePath": "Move/HoleMoto/Overview.md",
+        "PagePath": "Move/HoleMove/Overview.md",
         "PaperPhoto": "3059.jpg",
         "TagName": "Move.HoleMove.Overview"
     },
     {
-        "PagePath": "Move/HoleMoto/Overview.md",
+        "PagePath": "Move/HoleMove/Overview.md",
         "PaperPhoto": "3083.jpg",
         "TagName": "Move.HoleMove.Overview"
     },
     {
-        "PagePath": "Move/LegMoto/Crouch.md",
+        "PagePath": "Move/LegMove/Crouch.md",
         "PaperPhoto": "2513.jpg",
         "TagName": "Move.LegMove.Crouch"
     },
     {
-        "PagePath": "Move/LegMoto/Jump.md",
+        "PagePath": "Move/LegMove/Jump.md",
         "PaperPhoto": "2834.jpg",
         "TagName": "Move.LegMove.Jump"
     },
     {
-        "PagePath": "Move/LegMoto/Kneel.md",
+        "PagePath": "Move/LegMove/Kneel.md",
         "PaperPhoto": "0048.jpg",
         "TagName": "Move.LegMove.Kneel"
     },
     {
-        "PagePath": "Move/LegMoto/Kneel.md",
+        "PagePath": "Move/LegMove/Kneel.md",
         "PaperPhoto": "2567.jpg",
         "TagName": "Move.LegMove.Kneel"
     },
     {
-        "PagePath": "Move/LegMoto/Kneel.md",
+        "PagePath": "Move/LegMove/Kneel.md",
         "PaperPhoto": "3076.jpg",
         "TagName": "Move.LegMove.Kneel"
     },
     {
-        "PagePath": "Move/LegMoto/Kneel.md",
+        "PagePath": "Move/LegMove/Kneel.md",
         "PaperPhoto": "Video_013.mp4",
         "TagName": "Move.LegMove.Kneel"
     },
     {
-        "PagePath": "Move/LegMoto/Kneel.md",
+        "PagePath": "Move/LegMove/Kneel.md",
         "PaperPhoto": "Video_014.mp4",
         "TagName": "Move.LegMove.Kneel"
     },
     {
-        "PagePath": "Move/LegMoto/LegAbsorb.md",
+        "PagePath": "Move/LegMove/LegAbsorb.md",
         "PaperPhoto": "1006.jpg",
         "TagName": "Move.LegMove.LegAbsorb"
     },
     {
-        "PagePath": "Move/LegMoto/LegAbsorb.md",
+        "PagePath": "Move/LegMove/LegAbsorb.md",
         "PaperPhoto": "2330.jpg",
         "TagName": "Move.LegMove.LegAbsorb"
     },
     {
-        "PagePath": "Move/LegMoto/LegAbsorb.md",
+        "PagePath": "Move/LegMove/LegAbsorb.md",
         "PaperPhoto": "2450.jpg",
         "TagName": "Move.LegMove.LegAbsorb"
     },
     {
-        "PagePath": "Move/LegMoto/LegProp.md",
+        "PagePath": "Move/LegMove/LegProp.md",
         "PaperPhoto": "1052.jpg",
         "TagName": "Move.LegMove.LegProp"
     },
     {
-        "PagePath": "Move/LegMoto/LegProp.md",
+        "PagePath": "Move/LegMove/LegProp.md",
         "PaperPhoto": "1387.jpg",
         "TagName": "Move.LegMove.LegProp"
     },
     {
-        "PagePath": "Move/LegMoto/LegProp.md",
+        "PagePath": "Move/LegMove/LegProp.md",
         "PaperPhoto": "1752.jpg",
         "TagName": "Move.LegMove.LegProp"
     },
     {
-        "PagePath": "Move/LegMoto/LegProp.md",
+        "PagePath": "Move/LegMove/LegProp.md",
         "PaperPhoto": "2469.jpg",
         "TagName": "Move.LegMove.LegProp"
     },
     {
-        "PagePath": "Move/LegMoto/LegSwing.md",
+        "PagePath": "Move/LegMove/LegSwing.md",
         "PaperPhoto": "1022.jpg",
         "TagName": "Move.LegMove.LegSwing"
     },
     {
-        "PagePath": "Move/LegMoto/LegSwing.md",
+        "PagePath": "Move/LegMove/LegSwing.md",
         "PaperPhoto": "1059.jpg",
         "TagName": "Move.LegMove.LegSwing"
     },
     {
-        "PagePath": "Move/LegMoto/LegSwing.md",
+        "PagePath": "Move/LegMove/LegSwing.md",
         "PaperPhoto": "1379.jpg",
         "TagName": "Move.LegMove.LegSwing"
     },
     {
-        "PagePath": "Move/LegMoto/LegSwing.md",
+        "PagePath": "Move/LegMove/LegSwing.md",
         "PaperPhoto": "2338.jpg",
         "TagName": "Move.LegMove.LegSwing"
     },
     {
-        "PagePath": "Move/LegMoto/LegSwing.md",
+        "PagePath": "Move/LegMove/LegSwing.md",
         "PaperPhoto": "3222.jpg",
         "TagName": "Move.LegMove.LegSwing"
     },
     {
-        "PagePath": "Move/LegMoto/Overview.md",
+        "PagePath": "Move/LegMove/Overview.md",
         "PaperPhoto": "0458.jpg",
         "TagName": "Move.LegMove.LegLock"
     },
     {
-        "PagePath": "Move/LegMoto/Overview.md",
+        "PagePath": "Move/LegMove/Overview.md",
         "PaperPhoto": "0458.jpg",
         "TagName": "Move.LegMove.SupportingLeg"
     },
     {
-        "PagePath": "Move/LegMoto/Overview.md",
+        "PagePath": "Move/LegMove/Overview.md",
         "PaperPhoto": "0875.jpg",
         "TagName": "Move.LegMove.Overview"
     },
     {
-        "PagePath": "Move/LegMoto/Overview.md",
+        "PagePath": "Move/LegMove/Overview.md",
         "PaperPhoto": "1021.jpg",
         "TagName": "Move.LegMove.LegRockOver"
     },
     {
-        "PagePath": "Move/LegMoto/Overview.md",
+        "PagePath": "Move/LegMove/Overview.md",
         "PaperPhoto": "1049.jpg",
         "TagName": "Move.LegMove.LegLock"
     },
     {
-        "PagePath": "Move/LegMoto/Overview.md",
+        "PagePath": "Move/LegMove/Overview.md",
         "PaperPhoto": "1387.jpg",
         "TagName": "Move.LegMove.LegLock"
     },
     {
-        "PagePath": "Move/LegMoto/Overview.md",
+        "PagePath": "Move/LegMove/Overview.md",
         "PaperPhoto": "1391.jpg",
         "TagName": "Move.LegMove.Overview"
     },
     {
-        "PagePath": "Move/LegMoto/Overview.md",
+        "PagePath": "Move/LegMove/Overview.md",
         "PaperPhoto": "1546.jpg",
         "TagName": "Move.LegMove.HighFoot"
     },
     {
-        "PagePath": "Move/LegMoto/Overview.md",
+        "PagePath": "Move/LegMove/Overview.md",
         "PaperPhoto": "1752.jpg",
         "TagName": "Move.LegMove.SupportingLeg"
     },
     {
-        "PagePath": "Move/LegMoto/Overview.md",
+        "PagePath": "Move/LegMove/Overview.md",
         "PaperPhoto": "2002.jpg",
         "TagName": "Move.LegMove.Overview"
     },
     {
-        "PagePath": "Move/LegMoto/Overview.md",
+        "PagePath": "Move/LegMove/Overview.md",
         "PaperPhoto": "2017.jpg",
         "TagName": "Move.LegMove.SupportingLeg"
     },
     {
-        "PagePath": "Move/LegMoto/Overview.md",
+        "PagePath": "Move/LegMove/Overview.md",
         "PaperPhoto": "2148.jpg",
         "TagName": "Move.LegMove.LegRockOver"
     },
     {
-        "PagePath": "Move/LegMoto/Overview.md",
+        "PagePath": "Move/LegMove/Overview.md",
         "PaperPhoto": "2148.jpg",
         "TagName": "Move.LegMove.LegRockUp"
     },
     {
-        "PagePath": "Move/LegMoto/Overview.md",
+        "PagePath": "Move/LegMove/Overview.md",
         "PaperPhoto": "2450.jpg",
         "TagName": "Move.LegMove.Overview"
     },
     {
-        "PagePath": "Move/LegMoto/Overview.md",
+        "PagePath": "Move/LegMove/Overview.md",
         "PaperPhoto": "2480.jpg",
         "TagName": "Move.LegMove.Overview"
     },
     {
-        "PagePath": "Move/LegMoto/Overview.md",
+        "PagePath": "Move/LegMove/Overview.md",
         "PaperPhoto": "3149.jpg",
         "TagName": "Move.LegMove.LegRockOver"
     },
     {
-        "PagePath": "Move/LegMoto/Overview.md",
+        "PagePath": "Move/LegMove/Overview.md",
         "PaperPhoto": "3149.jpg",
         "TagName": "Move.LegMove.LegRockUp"
     },
     {
-        "PagePath": "Move/LegMoto/Step.md",
+        "PagePath": "Move/LegMove/Step.md",
         "PaperPhoto": "3080.jpg",
         "TagName": "Move.LegMove.Step"
     },
     {
-        "PagePath": "Move/LegMoto/Stomp.md",
+        "PagePath": "Move/LegMove/Stomp.md",
         "PaperPhoto": "2450.jpg",
         "TagName": "Move.LegMove.Stomp"
     },
     {
-        "PagePath": "Move/MotoDifficulty.md",
+        "PagePath": "Move/MoveDifficulty.md",
         "PaperPhoto": "0096.jpg",
-        "TagName": "Move.MotoDifficulty.Overview"
+        "TagName": "Move.MoveDifficulty.Overview"
     },
     {
-        "PagePath": "Move/MotoDifficulty.md",
+        "PagePath": "Move/MoveDifficulty.md",
         "PaperPhoto": "0648.jpg",
-        "TagName": "Move.MotoDifficulty.Overview"
+        "TagName": "Move.MoveDifficulty.Overview"
     },
     {
-        "PagePath": "Move/MotoDifficulty.md",
+        "PagePath": "Move/MoveDifficulty.md",
         "PaperPhoto": "1052.jpg",
-        "TagName": "Move.MotoDifficulty.MotoComplexity"
+        "TagName": "Move.MoveDifficulty.MoveComplexity"
     },
     {
-        "PagePath": "Move/MotoDifficulty.md",
+        "PagePath": "Move/MoveDifficulty.md",
         "PaperPhoto": "1205.jpg",
-        "TagName": "Move.MotoDifficulty.MotoComplexity"
+        "TagName": "Move.MoveDifficulty.MoveComplexity"
     },
     {
-        "PagePath": "Move/MotoDifficulty.md",
+        "PagePath": "Move/MoveDifficulty.md",
         "PaperPhoto": "1343.jpg",
-        "TagName": "Move.MotoDifficulty.MotoComplexity"
+        "TagName": "Move.MoveDifficulty.MoveComplexity"
     },
     {
-        "PagePath": "Move/MotoDifficulty.md",
+        "PagePath": "Move/MoveDifficulty.md",
         "PaperPhoto": "1345.jpg",
-        "TagName": "Move.MotoDifficulty.Overview"
+        "TagName": "Move.MoveDifficulty.Overview"
     },
     {
-        "PagePath": "Move/MotoDifficulty.md",
+        "PagePath": "Move/MoveDifficulty.md",
         "PaperPhoto": "1352.jpg",
-        "TagName": "Move.MotoDifficulty.Overview"
+        "TagName": "Move.MoveDifficulty.Overview"
     },
     {
-        "PagePath": "Move/MotoDifficulty.md",
+        "PagePath": "Move/MoveDifficulty.md",
         "PaperPhoto": "1379.jpg",
-        "TagName": "Move.MotoDifficulty.MotoComplexity"
+        "TagName": "Move.MoveDifficulty.MoveComplexity"
     },
     {
-        "PagePath": "Move/MotoDifficulty.md",
+        "PagePath": "Move/MoveDifficulty.md",
         "PaperPhoto": "1478.jpg",
-        "TagName": "Move.MotoDifficulty.MotoIntensity"
+        "TagName": "Move.MoveDifficulty.MoveIntensity"
     },
     {
-        "PagePath": "Move/MotoDifficulty.md",
+        "PagePath": "Move/MoveDifficulty.md",
         "PaperPhoto": "1599.jpg",
-        "TagName": "Move.MotoDifficulty.MotoRisk"
+        "TagName": "Move.MoveDifficulty.MoveRisk"
     },
     {
-        "PagePath": "Move/MotoDifficulty.md",
+        "PagePath": "Move/MoveDifficulty.md",
         "PaperPhoto": "1749.jpg",
-        "TagName": "Move.MotoDifficulty.MotoComplexity"
+        "TagName": "Move.MoveDifficulty.MoveComplexity"
     },
     {
-        "PagePath": "Move/MotoDifficulty.md",
+        "PagePath": "Move/MoveDifficulty.md",
         "PaperPhoto": "1752.jpg",
-        "TagName": "Move.MotoDifficulty.MotoComplexity"
+        "TagName": "Move.MoveDifficulty.MoveComplexity"
     },
     {
-        "PagePath": "Move/MotoDifficulty.md",
+        "PagePath": "Move/MoveDifficulty.md",
         "PaperPhoto": "1752.jpg",
-        "TagName": "Move.MotoDifficulty.Overview"
+        "TagName": "Move.MoveDifficulty.Overview"
     },
     {
-        "PagePath": "Move/MotoDifficulty.md",
+        "PagePath": "Move/MoveDifficulty.md",
         "PaperPhoto": "1857.jpg",
-        "TagName": "Move.MotoDifficulty.MotoComplexity"
+        "TagName": "Move.MoveDifficulty.MoveComplexity"
     },
     {
-        "PagePath": "Move/MotoDifficulty.md",
+        "PagePath": "Move/MoveDifficulty.md",
         "PaperPhoto": "1858.jpg",
-        "TagName": "Move.MotoDifficulty.MotoIntensity"
+        "TagName": "Move.MoveDifficulty.MoveIntensity"
     },
     {
-        "PagePath": "Move/MotoDifficulty.md",
+        "PagePath": "Move/MoveDifficulty.md",
         "PaperPhoto": "1858.jpg",
-        "TagName": "Move.MotoDifficulty.Overview"
+        "TagName": "Move.MoveDifficulty.Overview"
     },
     {
-        "PagePath": "Move/MotoDifficulty.md",
+        "PagePath": "Move/MoveDifficulty.md",
         "PaperPhoto": "1859.jpg",
-        "TagName": "Move.MotoDifficulty.MotoComplexity"
+        "TagName": "Move.MoveDifficulty.MoveComplexity"
     },
     {
-        "PagePath": "Move/MotoDifficulty.md",
+        "PagePath": "Move/MoveDifficulty.md",
         "PaperPhoto": "1859.jpg",
-        "TagName": "Move.MotoDifficulty.MotoIntensity"
+        "TagName": "Move.MoveDifficulty.MoveIntensity"
     },
     {
-        "PagePath": "Move/MotoDifficulty.md",
+        "PagePath": "Move/MoveDifficulty.md",
         "PaperPhoto": "1859.jpg",
-        "TagName": "Move.MotoDifficulty.MotoRisk"
+        "TagName": "Move.MoveDifficulty.MoveRisk"
     },
     {
-        "PagePath": "Move/MotoDifficulty.md",
+        "PagePath": "Move/MoveDifficulty.md",
         "PaperPhoto": "1860.jpg",
-        "TagName": "Move.MotoDifficulty.MotoIntensity"
+        "TagName": "Move.MoveDifficulty.MoveIntensity"
     },
     {
-        "PagePath": "Move/MotoDifficulty.md",
+        "PagePath": "Move/MoveDifficulty.md",
         "PaperPhoto": "1866.jpg",
-        "TagName": "Move.MotoDifficulty.MotoRisk"
+        "TagName": "Move.MoveDifficulty.MoveRisk"
     },
     {
-        "PagePath": "Move/MotoDifficulty.md",
+        "PagePath": "Move/MoveDifficulty.md",
         "PaperPhoto": "2397.jpg",
-        "TagName": "Move.MotoDifficulty.MotoComplexity"
+        "TagName": "Move.MoveDifficulty.MoveComplexity"
     },
     {
-        "PagePath": "Move/MotoDifficulty.md",
+        "PagePath": "Move/MoveDifficulty.md",
         "PaperPhoto": "2861.jpg",
-        "TagName": "Move.MotoDifficulty.Overview"
+        "TagName": "Move.MoveDifficulty.Overview"
     },
     {
-        "PagePath": "Move/MotoDifficulty.md",
+        "PagePath": "Move/MoveDifficulty.md",
         "PaperPhoto": "3319.jpg",
-        "TagName": "Move.MotoDifficulty.Overview"
+        "TagName": "Move.MoveDifficulty.Overview"
     },
     {
-        "PagePath": "Move/MotoOverview.md",
+        "PagePath": "Move/MoveOverview.md",
         "PaperPhoto": "0016.jpg",
-        "TagName": "Move.MotoName.Overview"
+        "TagName": "Move.MoveName.Overview"
     },
     {
-        "PagePath": "Move/MotoOverview.md",
+        "PagePath": "Move/MoveOverview.md",
         "PaperPhoto": "0021.jpg",
-        "TagName": "Move.Overview.MotoHierarchy"
+        "TagName": "Move.Overview.MoveHierarchy"
     },
     {
-        "PagePath": "Move/MotoOverview.md",
+        "PagePath": "Move/MoveOverview.md",
         "PaperPhoto": "0021.jpg",
-        "TagName": "Move.Overview.MotoHierarchy.Submoto"
+        "TagName": "Move.Overview.MoveHierarchy.Submoto"
     },
     {
-        "PagePath": "Move/MotoOverview.md",
+        "PagePath": "Move/MoveOverview.md",
         "PaperPhoto": "0021.jpg",
-        "TagName": "Move.Overview.MotoHierarchy.Supermoto"
+        "TagName": "Move.Overview.MoveHierarchy.Supermoto"
     },
     {
-        "PagePath": "Move/MotoOverview.md",
+        "PagePath": "Move/MoveOverview.md",
         "PaperPhoto": "0021.jpg",
-        "TagName": "Move.Overview.MotoType"
+        "TagName": "Move.Overview.MoveType"
     },
     {
-        "PagePath": "Move/MotoOverview.md",
+        "PagePath": "Move/MoveOverview.md",
         "PaperPhoto": "0021.jpg",
-        "TagName": "Move.Overview.MotoType.RelativeMoto"
+        "TagName": "Move.Overview.MoveType.RelativeMove"
     },
     {
-        "PagePath": "Move/MotoOverview.md",
+        "PagePath": "Move/MoveOverview.md",
         "PaperPhoto": "0030.jpg",
-        "TagName": "Move.MotoAttributes.MotoRangeOfMotion"
+        "TagName": "Move.MoveAttributes.MoveRangeOfMotion"
     },
     {
-        "PagePath": "Move/MotoOverview.md",
+        "PagePath": "Move/MoveOverview.md",
         "PaperPhoto": "0241.jpg",
         "TagName": "Move.Physics.LoadingAngle"
     },
     {
-        "PagePath": "Move/MotoOverview.md",
+        "PagePath": "Move/MoveOverview.md",
         "PaperPhoto": "0266.jpg",
-        "TagName": "Move.Overview.MotoHierarchy"
+        "TagName": "Move.Overview.MoveHierarchy"
     },
     {
-        "PagePath": "Move/MotoOverview.md",
+        "PagePath": "Move/MoveOverview.md",
         "PaperPhoto": "0296.jpg",
-        "TagName": "Move.Overview.MotoType.RelativeMoto"
+        "TagName": "Move.Overview.MoveType.RelativeMove"
     },
     {
-        "PagePath": "Move/MotoOverview.md",
+        "PagePath": "Move/MoveOverview.md",
         "PaperPhoto": "0334.jpg",
-        "TagName": "Move.Overview.ConcertedMoto"
+        "TagName": "Move.Overview.ConcertedMove"
     },
     {
-        "PagePath": "Move/MotoOverview.md",
+        "PagePath": "Move/MoveOverview.md",
         "PaperPhoto": "0407.jpg",
-        "TagName": "Move.MotoDirection.Overview"
+        "TagName": "Move.MoveDirection.Overview"
     },
     {
-        "PagePath": "Move/MotoOverview.md",
+        "PagePath": "Move/MoveOverview.md",
         "PaperPhoto": "0438.jpg",
-        "TagName": "Move.MotoAttributes.MotoShape.Overview"
+        "TagName": "Move.MoveAttributes.MoveShape.Overview"
     },
     {
-        "PagePath": "Move/MotoOverview.md",
+        "PagePath": "Move/MoveOverview.md",
         "PaperPhoto": "0438.jpg",
-        "TagName": "Move.MotoAttributes.MotoType.TwistMoto"
+        "TagName": "Move.MoveAttributes.MoveType.TwistMove"
     },
     {
-        "PagePath": "Move/MotoOverview.md",
+        "PagePath": "Move/MoveOverview.md",
         "PaperPhoto": "0446.jpg",
-        "TagName": "Move.Overview.MotoHierarchy"
+        "TagName": "Move.Overview.MoveHierarchy"
     },
     {
-        "PagePath": "Move/MotoOverview.md",
+        "PagePath": "Move/MoveOverview.md",
         "PaperPhoto": "0448.jpg",
-        "TagName": "Move.MotoAttributes.MotoShape.SquareMoto"
+        "TagName": "Move.MoveAttributes.MoveShape.SquareMove"
     },
     {
-        "PagePath": "Move/MotoOverview.md",
+        "PagePath": "Move/MoveOverview.md",
         "PaperPhoto": "0448.jpg",
-        "TagName": "Move.MotoAttributes.MotoShape.TriangleMoto"
+        "TagName": "Move.MoveAttributes.MoveShape.TriangleMove"
     },
     {
-        "PagePath": "Move/MotoOverview.md",
+        "PagePath": "Move/MoveOverview.md",
         "PaperPhoto": "0448.jpg",
-        "TagName": "Move.MotoShape"
+        "TagName": "Move.MoveShape"
     },
     {
-        "PagePath": "Move/MotoOverview.md",
+        "PagePath": "Move/MoveOverview.md",
         "PaperPhoto": "0448.jpg",
-        "TagName": "Move.MotoShape.SubMotoShape"
+        "TagName": "Move.MoveShape.SubMoveShape"
     },
     {
-        "PagePath": "Move/MotoOverview.md",
+        "PagePath": "Move/MoveOverview.md",
         "PaperPhoto": "0458.jpg",
-        "TagName": "Move.MotoComposition.MotoAddition"
+        "TagName": "Move.MoveComposition.MoveAddition"
     },
     {
-        "PagePath": "Move/MotoOverview.md",
+        "PagePath": "Move/MoveOverview.md",
         "PaperPhoto": "0458.jpg",
-        "TagName": "Move.MotoComposition.MotoSelection.AlternativeMoto"
+        "TagName": "Move.MoveComposition.MoveSelection.AlternativeMove"
     },
     {
-        "PagePath": "Move/MotoOverview.md",
+        "PagePath": "Move/MoveOverview.md",
         "PaperPhoto": "0458.jpg",
-        "TagName": "Move.MotoAttributes.MotoShape.CircleMoto"
+        "TagName": "Move.MoveAttributes.MoveShape.CircleMove"
     },
     {
-        "PagePath": "Move/MotoOverview.md",
+        "PagePath": "Move/MoveOverview.md",
         "PaperPhoto": "0458.jpg",
-        "TagName": "Move.MotoAttributes.MotoShape.MotoShapeCenter"
+        "TagName": "Move.MoveAttributes.MoveShape.MoveShapeCenter"
     },
     {
-        "PagePath": "Move/MotoOverview.md",
+        "PagePath": "Move/MoveOverview.md",
         "PaperPhoto": "0458.jpg",
-        "TagName": "Move.MotoAttributes.MotoShape.Overview"
+        "TagName": "Move.MoveAttributes.MoveShape.Overview"
     },
     {
-        "PagePath": "Move/MotoOverview.md",
+        "PagePath": "Move/MoveOverview.md",
         "PaperPhoto": "0458.jpg",
-        "TagName": "Move.MotoAttributes.MotoShape.SquareMoto"
+        "TagName": "Move.MoveAttributes.MoveShape.SquareMove"
     },
     {
-        "PagePath": "Move/MotoOverview.md",
+        "PagePath": "Move/MoveOverview.md",
         "PaperPhoto": "0458.jpg",
-        "TagName": "Move.MotoAttributes.MotoShape.TriangleMoto"
+        "TagName": "Move.MoveAttributes.MoveShape.TriangleMove"
     },
     {
-        "PagePath": "Move/MotoOverview.md",
+        "PagePath": "Move/MoveOverview.md",
         "PaperPhoto": "0458.jpg",
-        "TagName": "Move.MotoAttributes.MotoType.LockMoto"
+        "TagName": "Move.MoveAttributes.MoveType.LockMove"
     },
     {
-        "PagePath": "Move/MotoOverview.md",
+        "PagePath": "Move/MoveOverview.md",
         "PaperPhoto": "0458.jpg",
-        "TagName": "Move.MotoShape.SubMotoShape"
+        "TagName": "Move.MoveShape.SubMoveShape"
     },
     {
-        "PagePath": "Move/MotoOverview.md",
+        "PagePath": "Move/MoveOverview.md",
         "PaperPhoto": "0458.jpg",
         "TagName": "Move.Physics.LoadingAngle"
     },
     {
-        "PagePath": "Move/MotoOverview.md",
+        "PagePath": "Move/MoveOverview.md",
         "PaperPhoto": "0514.jpg",
-        "TagName": "Move.MotoDirection.TraverseMoto"
+        "TagName": "Move.MoveDirection.TraverseMove"
     },
     {
-        "PagePath": "Move/MotoOverview.md",
+        "PagePath": "Move/MoveOverview.md",
         "PaperPhoto": "0516.jpg",
-        "TagName": "Move.Overview.MotoHierarchy"
+        "TagName": "Move.Overview.MoveHierarchy"
     },
     {
-        "PagePath": "Move/MotoOverview.md",
+        "PagePath": "Move/MoveOverview.md",
         "PaperPhoto": "0548.jpg",
-        "TagName": "Move.MotoContactPoint.Overview"
+        "TagName": "Move.MoveContactPoint.Overview"
     },
     {
-        "PagePath": "Move/MotoOverview.md",
+        "PagePath": "Move/MoveOverview.md",
         "PaperPhoto": "0548.jpg",
-        "TagName": "Move.MotoAttributes.MotoRangeOfMotion"
+        "TagName": "Move.MoveAttributes.MoveRangeOfMotion"
     },
     {
-        "PagePath": "Move/MotoOverview.md",
+        "PagePath": "Move/MoveOverview.md",
         "PaperPhoto": "0548.jpg",
-        "TagName": "Move.MotoAttributes.MotoShape.MotoShapeCenter"
+        "TagName": "Move.MoveAttributes.MoveShape.MoveShapeCenter"
     },
     {
-        "PagePath": "Move/MotoOverview.md",
+        "PagePath": "Move/MoveOverview.md",
         "PaperPhoto": "0548.jpg",
-        "TagName": "Move.MotoAttributes.MotoShape.Overview"
+        "TagName": "Move.MoveAttributes.MoveShape.Overview"
     },
     {
-        "PagePath": "Move/MotoOverview.md",
+        "PagePath": "Move/MoveOverview.md",
         "PaperPhoto": "0548.jpg",
-        "TagName": "Move.MotoType.DynamicMoto"
+        "TagName": "Move.MoveType.DynamicMove"
     },
     {
-        "PagePath": "Move/MotoOverview.md",
+        "PagePath": "Move/MoveOverview.md",
         "PaperPhoto": "0548.jpg",
-        "TagName": "Move.MotoType.StaticMoto"
+        "TagName": "Move.MoveType.StaticMove"
     },
     {
-        "PagePath": "Move/MotoOverview.md",
+        "PagePath": "Move/MoveOverview.md",
         "PaperPhoto": "0549.jpg",
-        "TagName": "Move.MotoDirection.Overview"
+        "TagName": "Move.MoveDirection.Overview"
     },
     {
-        "PagePath": "Move/MotoOverview.md",
+        "PagePath": "Move/MoveOverview.md",
         "PaperPhoto": "0549.jpg",
-        "TagName": "Move.MotoDirection.RelativeDirection.Overview"
+        "TagName": "Move.MoveDirection.RelativeDirection.Overview"
     },
     {
-        "PagePath": "Move/MotoOverview.md",
+        "PagePath": "Move/MoveOverview.md",
         "PaperPhoto": "0549.jpg",
-        "TagName": "Move.MotoAttributes.MotoDescription"
+        "TagName": "Move.MoveAttributes.MoveDescription"
     },
     {
-        "PagePath": "Move/MotoOverview.md",
+        "PagePath": "Move/MoveOverview.md",
         "PaperPhoto": "0560.jpg",
-        "TagName": "Move.Overview.MotoHierarchy.Submoto"
+        "TagName": "Move.Overview.MoveHierarchy.Submoto"
     },
     {
-        "PagePath": "Move/MotoOverview.md",
+        "PagePath": "Move/MoveOverview.md",
         "PaperPhoto": "0594.jpg",
-        "TagName": "Move.MotoName.Overview"
+        "TagName": "Move.MoveName.Overview"
     },
     {
-        "PagePath": "Move/MotoOverview.md",
+        "PagePath": "Move/MoveOverview.md",
         "PaperPhoto": "0594.jpg",
-        "TagName": "Move.MotoPoint.MotoContactPoint"
+        "TagName": "Move.MovePoint.MoveContactPoint"
     },
     {
-        "PagePath": "Move/MotoOverview.md",
+        "PagePath": "Move/MoveOverview.md",
         "PaperPhoto": "0596.jpg",
-        "TagName": "Move.MotoDirection.Overview"
+        "TagName": "Move.MoveDirection.Overview"
     },
     {
-        "PagePath": "Move/MotoOverview.md",
+        "PagePath": "Move/MoveOverview.md",
         "PaperPhoto": "0596.jpg",
-        "TagName": "Move.MotoAttributes.MotoSize"
+        "TagName": "Move.MoveAttributes.MoveSize"
     },
     {
-        "PagePath": "Move/MotoOverview.md",
+        "PagePath": "Move/MoveOverview.md",
         "PaperPhoto": "0600.jpg",
-        "TagName": "Move.MotoComposition.MotoSelection.AlternativeMoto"
+        "TagName": "Move.MoveComposition.MoveSelection.AlternativeMove"
     },
     {
-        "PagePath": "Move/MotoOverview.md",
+        "PagePath": "Move/MoveOverview.md",
         "PaperPhoto": "0600.jpg",
-        "TagName": "Move.MotoAttributes.MotoShape.Overview"
+        "TagName": "Move.MoveAttributes.MoveShape.Overview"
     },
     {
-        "PagePath": "Move/MotoOverview.md",
+        "PagePath": "Move/MoveOverview.md",
         "PaperPhoto": "0648.jpg",
-        "TagName": "Move.MotoDirection.Overview"
+        "TagName": "Move.MoveDirection.Overview"
     },
     {
-        "PagePath": "Move/MotoOverview.md",
+        "PagePath": "Move/MoveOverview.md",
         "PaperPhoto": "0648.jpg",
-        "TagName": "Move.MotoPoint.MotoContactPoint"
+        "TagName": "Move.MovePoint.MoveContactPoint"
     },
     {
-        "PagePath": "Move/MotoOverview.md",
+        "PagePath": "Move/MoveOverview.md",
         "PaperPhoto": "0705.jpg",
-        "TagName": "Move.MotoError.Overview"
+        "TagName": "Move.MoveError.Overview"
     },
     {
-        "PagePath": "Move/MotoOverview.md",
+        "PagePath": "Move/MoveOverview.md",
         "PaperPhoto": "0705.jpg",
-        "TagName": "Move.MotoValidation"
+        "TagName": "Move.MoveValidation"
     },
     {
-        "PagePath": "Move/MotoOverview.md",
+        "PagePath": "Move/MoveOverview.md",
         "PaperPhoto": "0734.jpg",
         "TagName": "Move.Physics.Overview"
     },
     {
-        "PagePath": "Move/MotoOverview.md",
+        "PagePath": "Move/MoveOverview.md",
         "PaperPhoto": "0747.jpg",
-        "TagName": "Move.MotoAttributes.MotoShape.Overview"
+        "TagName": "Move.MoveAttributes.MoveShape.Overview"
     },
     {
-        "PagePath": "Move/MotoOverview.md",
+        "PagePath": "Move/MoveOverview.md",
         "PaperPhoto": "0747.jpg",
-        "TagName": "Move.Overview.MotoHierarchy"
+        "TagName": "Move.Overview.MoveHierarchy"
     },
     {
-        "PagePath": "Move/MotoOverview.md",
+        "PagePath": "Move/MoveOverview.md",
         "PaperPhoto": "0756.jpg",
-        "TagName": "Move.MotoAttributes.MotoShape.CircleMoto"
+        "TagName": "Move.MoveAttributes.MoveShape.CircleMove"
     },
     {
-        "PagePath": "Move/MotoOverview.md",
+        "PagePath": "Move/MoveOverview.md",
         "PaperPhoto": "0756.jpg",
-        "TagName": "Move.MotoAttributes.MotoWeightDistribution"
+        "TagName": "Move.MoveAttributes.MoveWeightDistribution"
     },
     {
-        "PagePath": "Move/MotoOverview.md",
+        "PagePath": "Move/MoveOverview.md",
         "PaperPhoto": "0756.jpg",
-        "TagName": "Move.MotoAttributes.SubmotoCount"
+        "TagName": "Move.MoveAttributes.SubmotoCount"
     },
     {
-        "PagePath": "Move/MotoOverview.md",
+        "PagePath": "Move/MoveOverview.md",
         "PaperPhoto": "0784.jpg",
-        "TagName": "Move.MotoComposition.MotoSelection.AlternativeMoto"
+        "TagName": "Move.MoveComposition.MoveSelection.AlternativeMove"
     },
     {
-        "PagePath": "Move/MotoOverview.md",
+        "PagePath": "Move/MoveOverview.md",
         "PaperPhoto": "0784.jpg",
-        "TagName": "Move.MotoError.Overview"
+        "TagName": "Move.MoveError.Overview"
     },
     {
-        "PagePath": "Move/MotoOverview.md",
+        "PagePath": "Move/MoveOverview.md",
         "PaperPhoto": "0826.jpg",
-        "TagName": "Move.MotoComposition.MotoSelection.ForcedMoto"
+        "TagName": "Move.MoveComposition.MoveSelection.ForcedMove"
     },
     {
-        "PagePath": "Move/MotoOverview.md",
+        "PagePath": "Move/MoveOverview.md",
         "PaperPhoto": "0875.jpg",
-        "TagName": "Move.MotoDirection.RelativeDirection.ParallelTo"
+        "TagName": "Move.MoveDirection.RelativeDirection.ParallelTo"
     },
     {
-        "PagePath": "Move/MotoOverview.md",
+        "PagePath": "Move/MoveOverview.md",
         "PaperPhoto": "0875.jpg",
         "TagName": "Move.Physics.Force.Friction.NormalForce"
     },
     {
-        "PagePath": "Move/MotoOverview.md",
+        "PagePath": "Move/MoveOverview.md",
         "PaperPhoto": "0877.jpg",
-        "TagName": "Move.MotoDirection.RelativeDirection.ParallelTo"
+        "TagName": "Move.MoveDirection.RelativeDirection.ParallelTo"
     },
     {
-        "PagePath": "Move/MotoOverview.md",
+        "PagePath": "Move/MoveOverview.md",
         "PaperPhoto": "0877.jpg",
-        "TagName": "Move.MotoPoint.MotoFinishPoint"
+        "TagName": "Move.MovePoint.MoveFinishPoint"
     },
     {
-        "PagePath": "Move/MotoOverview.md",
+        "PagePath": "Move/MoveOverview.md",
         "PaperPhoto": "0877.jpg",
-        "TagName": "Move.MotoPoint.MotoStartPoint"
+        "TagName": "Move.MovePoint.MoveStartPoint"
     },
     {
-        "PagePath": "Move/MotoOverview.md",
+        "PagePath": "Move/MoveOverview.md",
         "PaperPhoto": "1006.jpg",
-        "TagName": "Move.MotoAttributes.MotoForce"
+        "TagName": "Move.MoveAttributes.MoveForce"
     },
     {
-        "PagePath": "Move/MotoOverview.md",
+        "PagePath": "Move/MoveOverview.md",
         "PaperPhoto": "1006.jpg",
-        "TagName": "Move.MotoAttributes.MotoType.AbsorbMoto"
+        "TagName": "Move.MoveAttributes.MoveType.AbsorbMove"
     },
     {
-        "PagePath": "Move/MotoOverview.md",
+        "PagePath": "Move/MoveOverview.md",
         "PaperPhoto": "1006.jpg",
         "TagName": "Move.Physics.CenterOfMass"
     },
     {
-        "PagePath": "Move/MotoOverview.md",
+        "PagePath": "Move/MoveOverview.md",
         "PaperPhoto": "1008.jpg",
-        "TagName": "Move.MotoComposition.MotoSelection"
+        "TagName": "Move.MoveComposition.MoveSelection"
     },
     {
-        "PagePath": "Move/MotoOverview.md",
+        "PagePath": "Move/MoveOverview.md",
         "PaperPhoto": "1008.jpg",
-        "TagName": "Move.MotoValidation"
+        "TagName": "Move.MoveValidation"
     },
     {
-        "PagePath": "Move/MotoOverview.md",
+        "PagePath": "Move/MoveOverview.md",
         "PaperPhoto": "1011.jpg",
-        "TagName": "Move.MotoPlane"
+        "TagName": "Move.MovePlane"
     },
     {
-        "PagePath": "Move/MotoOverview.md",
+        "PagePath": "Move/MoveOverview.md",
         "PaperPhoto": "1011.jpg",
-        "TagName": "Move.MotoAttributes.MotoShape.CircleMoto"
+        "TagName": "Move.MoveAttributes.MoveShape.CircleMove"
     },
     {
-        "PagePath": "Move/MotoOverview.md",
+        "PagePath": "Move/MoveOverview.md",
         "PaperPhoto": "1015.jpg",
-        "TagName": "Move.MotoAttributes.MotoShape.CircleMoto"
+        "TagName": "Move.MoveAttributes.MoveShape.CircleMove"
     },
     {
-        "PagePath": "Move/MotoOverview.md",
+        "PagePath": "Move/MoveOverview.md",
         "PaperPhoto": "1015.jpg",
-        "TagName": "Move.MotoAttributes.MotoSize"
+        "TagName": "Move.MoveAttributes.MoveSize"
     },
     {
-        "PagePath": "Move/MotoOverview.md",
+        "PagePath": "Move/MoveOverview.md",
         "PaperPhoto": "1017.jpg",
-        "TagName": "Move.MotoAttributes.MotoShape.CircleMoto"
+        "TagName": "Move.MoveAttributes.MoveShape.CircleMove"
     },
     {
-        "PagePath": "Move/MotoOverview.md",
+        "PagePath": "Move/MoveOverview.md",
         "PaperPhoto": "1017.jpg",
-        "TagName": "Move.MotoAttributes.MotoShape.SquareMoto"
+        "TagName": "Move.MoveAttributes.MoveShape.SquareMove"
     },
     {
-        "PagePath": "Move/MotoOverview.md",
+        "PagePath": "Move/MoveOverview.md",
         "PaperPhoto": "1019.jpg",
-        "TagName": "Move.MotoAttributes.MotoShape.CircleMoto"
+        "TagName": "Move.MoveAttributes.MoveShape.CircleMove"
     },
     {
-        "PagePath": "Move/MotoOverview.md",
+        "PagePath": "Move/MoveOverview.md",
         "PaperPhoto": "1019.jpg",
-        "TagName": "Move.MotoAttributes.MotoType.CircumductionMoto"
+        "TagName": "Move.MoveAttributes.MoveType.CircumductionMove"
     },
     {
-        "PagePath": "Move/MotoOverview.md",
+        "PagePath": "Move/MoveOverview.md",
         "PaperPhoto": "1021.jpg",
-        "TagName": "Move.MotoAttributes.MotoShape.CircleMoto"
+        "TagName": "Move.MoveAttributes.MoveShape.CircleMove"
     },
     {
-        "PagePath": "Move/MotoOverview.md",
+        "PagePath": "Move/MoveOverview.md",
         "PaperPhoto": "1021.jpg",
-        "TagName": "Move.MotoAttributes.MotoType.CircumductionMoto"
+        "TagName": "Move.MoveAttributes.MoveType.CircumductionMove"
     },
     {
-        "PagePath": "Move/MotoOverview.md",
+        "PagePath": "Move/MoveOverview.md",
         "PaperPhoto": "1021.jpg",
         "TagName": "Move.Physics.Tangent"
     },
     {
-        "PagePath": "Move/MotoOverview.md",
+        "PagePath": "Move/MoveOverview.md",
         "PaperPhoto": "1022.jpg",
-        "TagName": "Move.MotoComposition.MotoSelection"
+        "TagName": "Move.MoveComposition.MoveSelection"
     },
     {
-        "PagePath": "Move/MotoOverview.md",
+        "PagePath": "Move/MoveOverview.md",
         "PaperPhoto": "1022.jpg",
-        "TagName": "Move.MotoDirection.RelativeDirection.Around"
+        "TagName": "Move.MoveDirection.RelativeDirection.Around"
     },
     {
-        "PagePath": "Move/MotoOverview.md",
+        "PagePath": "Move/MoveOverview.md",
         "PaperPhoto": "1022.jpg",
-        "TagName": "Move.MotoAttributes.MotoShape.CircleMoto"
+        "TagName": "Move.MoveAttributes.MoveShape.CircleMove"
     },
     {
-        "PagePath": "Move/MotoOverview.md",
+        "PagePath": "Move/MoveOverview.md",
         "PaperPhoto": "1022.jpg",
-        "TagName": "Move.MotoAttributes.MotoShape.Overview"
+        "TagName": "Move.MoveAttributes.MoveShape.Overview"
     },
     {
-        "PagePath": "Move/MotoOverview.md",
+        "PagePath": "Move/MoveOverview.md",
         "PaperPhoto": "1022.jpg",
         "TagName": "Move.Physics.Tangent"
     },
     {
-        "PagePath": "Move/MotoOverview.md",
+        "PagePath": "Move/MoveOverview.md",
         "PaperPhoto": "1023.jpg",
-        "TagName": "Move.MotoPoint.Overview"
+        "TagName": "Move.MovePoint.Overview"
     },
     {
-        "PagePath": "Move/MotoOverview.md",
+        "PagePath": "Move/MoveOverview.md",
         "PaperPhoto": "1023.jpg",
-        "TagName": "Move.MotoAttributes.MotoShape.CircleMoto"
+        "TagName": "Move.MoveAttributes.MoveShape.CircleMove"
     },
     {
-        "PagePath": "Move/MotoOverview.md",
+        "PagePath": "Move/MoveOverview.md",
         "PaperPhoto": "1024.jpg",
-        "TagName": "Move.MotoDirection.RelativeDirection.PerpendicularTo"
+        "TagName": "Move.MoveDirection.RelativeDirection.PerpendicularTo"
     },
     {
-        "PagePath": "Move/MotoOverview.md",
+        "PagePath": "Move/MoveOverview.md",
         "PaperPhoto": "1024.jpg",
-        "TagName": "Move.MotoAttributes.MotoRangeOfMotion"
+        "TagName": "Move.MoveAttributes.MoveRangeOfMotion"
     },
     {
-        "PagePath": "Move/MotoOverview.md",
+        "PagePath": "Move/MoveOverview.md",
         "PaperPhoto": "1024.jpg",
-        "TagName": "Move.MotoAttributes.MotoShape.CircleMoto"
+        "TagName": "Move.MoveAttributes.MoveShape.CircleMove"
     },
     {
-        "PagePath": "Move/MotoOverview.md",
+        "PagePath": "Move/MoveOverview.md",
         "PaperPhoto": "1024.jpg",
         "TagName": "Move.Physics.CenterOfMass"
     },
     {
-        "PagePath": "Move/MotoOverview.md",
+        "PagePath": "Move/MoveOverview.md",
         "PaperPhoto": "1027.jpg",
-        "TagName": "Move.MotoAttributes.MotoShape.Overview"
+        "TagName": "Move.MoveAttributes.MoveShape.Overview"
     },
     {
-        "PagePath": "Move/MotoOverview.md",
+        "PagePath": "Move/MoveOverview.md",
         "PaperPhoto": "1027.jpg",
-        "TagName": "Move.MotoSpace.Overview"
+        "TagName": "Move.MoveSpace.Overview"
     },
     {
-        "PagePath": "Move/MotoOverview.md",
+        "PagePath": "Move/MoveOverview.md",
         "PaperPhoto": "1043.jpg",
-        "TagName": "Move.MotoContactPoint.Overview"
+        "TagName": "Move.MoveContactPoint.Overview"
     },
     {
-        "PagePath": "Move/MotoOverview.md",
+        "PagePath": "Move/MoveOverview.md",
         "PaperPhoto": "1043.jpg",
-        "TagName": "Move.MotoPoint.MotoFinishPoint"
+        "TagName": "Move.MovePoint.MoveFinishPoint"
     },
     {
-        "PagePath": "Move/MotoOverview.md",
+        "PagePath": "Move/MoveOverview.md",
         "PaperPhoto": "1043.jpg",
-        "TagName": "Move.MotoPoint.MotoStartPoint"
+        "TagName": "Move.MovePoint.MoveStartPoint"
     },
     {
-        "PagePath": "Move/MotoOverview.md",
+        "PagePath": "Move/MoveOverview.md",
         "PaperPhoto": "1043.jpg",
-        "TagName": "Move.MotoPoint.Overview"
+        "TagName": "Move.MovePoint.Overview"
     },
     {
-        "PagePath": "Move/MotoOverview.md",
+        "PagePath": "Move/MoveOverview.md",
         "PaperPhoto": "1043.jpg",
-        "TagName": "Move.MotoAttributes.MotoType.ReleaseMoto"
+        "TagName": "Move.MoveAttributes.MoveType.ReleaseMove"
     },
     {
-        "PagePath": "Move/MotoOverview.md",
+        "PagePath": "Move/MoveOverview.md",
         "PaperPhoto": "1043.jpg",
-        "TagName": "Move.MotoAttributes.MotoType.RotationMoto"
+        "TagName": "Move.MoveAttributes.MoveType.RotationMove"
     },
     {
-        "PagePath": "Move/MotoOverview.md",
+        "PagePath": "Move/MoveOverview.md",
         "PaperPhoto": "1043.jpg",
         "TagName": "Move.Physics.CenterOfMass"
     },
     {
-        "PagePath": "Move/MotoOverview.md",
+        "PagePath": "Move/MoveOverview.md",
         "PaperPhoto": "1049.jpg",
-        "TagName": "Move.MotoAttributes.MotoType.FlexionMoto"
+        "TagName": "Move.MoveAttributes.MoveType.FlexionMove"
     },
     {
-        "PagePath": "Move/MotoOverview.md",
+        "PagePath": "Move/MoveOverview.md",
         "PaperPhoto": "1049.jpg",
-        "TagName": "Move.MotoAttributes.MotoType.LockMoto"
+        "TagName": "Move.MoveAttributes.MoveType.LockMove"
     },
     {
-        "PagePath": "Move/MotoOverview.md",
+        "PagePath": "Move/MoveOverview.md",
         "PaperPhoto": "1050.jpg",
-        "TagName": "Move.MotoAttributes.MotoShape.SquareMoto"
+        "TagName": "Move.MoveAttributes.MoveShape.SquareMove"
     },
     {
-        "PagePath": "Move/MotoOverview.md",
+        "PagePath": "Move/MoveOverview.md",
         "PaperPhoto": "1050.jpg",
-        "TagName": "Move.MotoAttributes.MotoShape.TriangleMoto"
+        "TagName": "Move.MoveAttributes.MoveShape.TriangleMove"
     },
     {
-        "PagePath": "Move/MotoOverview.md",
+        "PagePath": "Move/MoveOverview.md",
         "PaperPhoto": "1050.jpg",
-        "TagName": "Move.MotoAttributes.MotoType.CompressionMoto"
+        "TagName": "Move.MoveAttributes.MoveType.CompressionMove"
     },
     {
-        "PagePath": "Move/MotoOverview.md",
+        "PagePath": "Move/MoveOverview.md",
         "PaperPhoto": "1051.jpg",
-        "TagName": "Move.MotoComposition.MotoSelection.AlternativeMoto"
+        "TagName": "Move.MoveComposition.MoveSelection.AlternativeMove"
     },
     {
-        "PagePath": "Move/MotoOverview.md",
+        "PagePath": "Move/MoveOverview.md",
         "PaperPhoto": "1051.jpg",
-        "TagName": "Move.MotoDirection.RelativeDirection.PerpendicularTo"
+        "TagName": "Move.MoveDirection.RelativeDirection.PerpendicularTo"
     },
     {
-        "PagePath": "Move/MotoOverview.md",
+        "PagePath": "Move/MoveOverview.md",
         "PaperPhoto": "1051.jpg",
-        "TagName": "Move.MotoAttributes.MotoShape.TriangleMoto"
+        "TagName": "Move.MoveAttributes.MoveShape.TriangleMove"
     },
     {
-        "PagePath": "Move/MotoOverview.md",
+        "PagePath": "Move/MoveOverview.md",
         "PaperPhoto": "1052.jpg",
-        "TagName": "Move.MotoPlane"
+        "TagName": "Move.MovePlane"
     },
     {
-        "PagePath": "Move/MotoOverview.md",
+        "PagePath": "Move/MoveOverview.md",
         "PaperPhoto": "1052.jpg",
-        "TagName": "Move.MotoShape"
+        "TagName": "Move.MoveShape"
     },
     {
-        "PagePath": "Move/MotoOverview.md",
+        "PagePath": "Move/MoveOverview.md",
         "PaperPhoto": "1059.jpg",
-        "TagName": "Move.MotoPoint.MotoReflectionPoint"
+        "TagName": "Move.MovePoint.MoveReflectionPoint"
     },
     {
-        "PagePath": "Move/MotoOverview.md",
+        "PagePath": "Move/MoveOverview.md",
         "PaperPhoto": "1059.jpg",
-        "TagName": "Move.MotoAttributes.MotoDependencies.DependentMoto"
+        "TagName": "Move.MoveAttributes.MoveDependencies.DependentMove"
     },
     {
-        "PagePath": "Move/MotoOverview.md",
+        "PagePath": "Move/MoveOverview.md",
         "PaperPhoto": "1059.jpg",
-        "TagName": "Move.MotoAttributes.MotoRangeOfMotion"
+        "TagName": "Move.MoveAttributes.MoveRangeOfMotion"
     },
     {
-        "PagePath": "Move/MotoOverview.md",
+        "PagePath": "Move/MoveOverview.md",
         "PaperPhoto": "1059.jpg",
-        "TagName": "Move.MotoAttributes.MotoShape.CircleMoto"
+        "TagName": "Move.MoveAttributes.MoveShape.CircleMove"
     },
     {
-        "PagePath": "Move/MotoOverview.md",
+        "PagePath": "Move/MoveOverview.md",
         "PaperPhoto": "1063.jpg",
-        "TagName": "Move.MotoContactPoint.Overview"
+        "TagName": "Move.MoveContactPoint.Overview"
     },
     {
-        "PagePath": "Move/MotoOverview.md",
+        "PagePath": "Move/MoveOverview.md",
         "PaperPhoto": "1075.jpg",
-        "TagName": "Move.MotoComposition.MotoSelection"
+        "TagName": "Move.MoveComposition.MoveSelection"
     },
     {
-        "PagePath": "Move/MotoOverview.md",
+        "PagePath": "Move/MoveOverview.md",
         "PaperPhoto": "1075.jpg",
-        "TagName": "Move.MotoAttributes.MotoDependencies.DependentMoto"
+        "TagName": "Move.MoveAttributes.MoveDependencies.DependentMove"
     },
     {
-        "PagePath": "Move/MotoOverview.md",
+        "PagePath": "Move/MoveOverview.md",
         "PaperPhoto": "1075.jpg",
-        "TagName": "Move.MotoAttributes.MotoDependencies.IndependentMoto"
+        "TagName": "Move.MoveAttributes.MoveDependencies.IndependentMove"
     },
     {
-        "PagePath": "Move/MotoOverview.md",
+        "PagePath": "Move/MoveOverview.md",
         "PaperPhoto": "1075.jpg",
-        "TagName": "Move.MotoAttributes.MotoDependencies.Overview"
+        "TagName": "Move.MoveAttributes.MoveDependencies.Overview"
     },
     {
-        "PagePath": "Move/MotoOverview.md",
+        "PagePath": "Move/MoveOverview.md",
         "PaperPhoto": "1087.jpg",
-        "TagName": "Move.MotoPlane"
+        "TagName": "Move.MovePlane"
     },
     {
-        "PagePath": "Move/MotoOverview.md",
+        "PagePath": "Move/MoveOverview.md",
         "PaperPhoto": "1087.jpg",
-        "TagName": "Move.MotoAttributes.MotoRangeOfMotion"
+        "TagName": "Move.MoveAttributes.MoveRangeOfMotion"
     },
     {
-        "PagePath": "Move/MotoOverview.md",
+        "PagePath": "Move/MoveOverview.md",
         "PaperPhoto": "1087.jpg",
-        "TagName": "Move.MotoAttributes.MotoShape.CircleMoto"
+        "TagName": "Move.MoveAttributes.MoveShape.CircleMove"
     },
     {
-        "PagePath": "Move/MotoOverview.md",
+        "PagePath": "Move/MoveOverview.md",
         "PaperPhoto": "1087.jpg",
-        "TagName": "Move.MotoAttributes.MotoType.SymmetricMoto"
+        "TagName": "Move.MoveAttributes.MoveType.SymmetricMove"
     },
     {
-        "PagePath": "Move/MotoOverview.md",
+        "PagePath": "Move/MoveOverview.md",
         "PaperPhoto": "1087.jpg",
-        "TagName": "Move.MotoSpace.Overview"
+        "TagName": "Move.MoveSpace.Overview"
     },
     {
-        "PagePath": "Move/MotoOverview.md",
+        "PagePath": "Move/MoveOverview.md",
         "PaperPhoto": "1095.jpg",
-        "TagName": "Move.MotoAttributes.MotoPlane.Overview"
+        "TagName": "Move.MoveAttributes.MovePlane.Overview"
     },
     {
-        "PagePath": "Move/MotoOverview.md",
+        "PagePath": "Move/MoveOverview.md",
         "PaperPhoto": "1095.jpg",
-        "TagName": "Move.MotoAttributes.MotoPlane.XYPlane"
+        "TagName": "Move.MoveAttributes.MovePlane.XYPlane"
     },
     {
-        "PagePath": "Move/MotoOverview.md",
+        "PagePath": "Move/MoveOverview.md",
         "PaperPhoto": "1095.jpg",
-        "TagName": "Move.MotoAttributes.MotoPlane.XZPlane"
+        "TagName": "Move.MoveAttributes.MovePlane.XZPlane"
     },
     {
-        "PagePath": "Move/MotoOverview.md",
+        "PagePath": "Move/MoveOverview.md",
         "PaperPhoto": "1095.jpg",
-        "TagName": "Move.MotoAttributes.MotoPlane.YZPlane"
+        "TagName": "Move.MoveAttributes.MovePlane.YZPlane"
     },
     {
-        "PagePath": "Move/MotoOverview.md",
+        "PagePath": "Move/MoveOverview.md",
         "PaperPhoto": "1095.jpg",
-        "TagName": "Move.MotoAttributes.MotoRangeOfMotion"
+        "TagName": "Move.MoveAttributes.MoveRangeOfMotion"
     },
     {
-        "PagePath": "Move/MotoOverview.md",
+        "PagePath": "Move/MoveOverview.md",
         "PaperPhoto": "1095.jpg",
-        "TagName": "Move.MotoAttributes.MotoShape.CircleMoto"
+        "TagName": "Move.MoveAttributes.MoveShape.CircleMove"
     },
     {
-        "PagePath": "Move/MotoOverview.md",
+        "PagePath": "Move/MoveOverview.md",
         "PaperPhoto": "1095.jpg",
-        "TagName": "Move.MotoSpace.Overview"
+        "TagName": "Move.MoveSpace.Overview"
     },
     {
-        "PagePath": "Move/MotoOverview.md",
+        "PagePath": "Move/MoveOverview.md",
         "PaperPhoto": "1098.jpg",
-        "TagName": "Move.MotoComposition.MotoAddition"
+        "TagName": "Move.MoveComposition.MoveAddition"
     },
     {
-        "PagePath": "Move/MotoOverview.md",
+        "PagePath": "Move/MoveOverview.md",
         "PaperPhoto": "1098.jpg",
-        "TagName": "Move.MotoComposition.MotoSelection.AlternativeMoto"
+        "TagName": "Move.MoveComposition.MoveSelection.AlternativeMove"
     },
     {
-        "PagePath": "Move/MotoOverview.md",
+        "PagePath": "Move/MoveOverview.md",
         "PaperPhoto": "1099.jpg",
-        "TagName": "Move.MotoComposition.MotoSelection.AlternativeMoto"
+        "TagName": "Move.MoveComposition.MoveSelection.AlternativeMove"
     },
     {
-        "PagePath": "Move/MotoOverview.md",
+        "PagePath": "Move/MoveOverview.md",
         "PaperPhoto": "1099.jpg",
-        "TagName": "Move.MotoPoint.Deadpoint"
+        "TagName": "Move.MovePoint.Deadpoint"
     },
     {
-        "PagePath": "Move/MotoOverview.md",
+        "PagePath": "Move/MoveOverview.md",
         "PaperPhoto": "1099.jpg",
-        "TagName": "Move.MotoType.StaticMoto"
+        "TagName": "Move.MoveType.StaticMove"
     },
     {
-        "PagePath": "Move/MotoOverview.md",
+        "PagePath": "Move/MoveOverview.md",
         "PaperPhoto": "1100.jpg",
-        "TagName": "Move.MotoDirection.RelativeDirection.ParallelTo"
+        "TagName": "Move.MoveDirection.RelativeDirection.ParallelTo"
     },
     {
-        "PagePath": "Move/MotoOverview.md",
+        "PagePath": "Move/MoveOverview.md",
         "PaperPhoto": "1100.jpg",
-        "TagName": "Move.MotoAttributes.MotoType.ExpansionMoto"
+        "TagName": "Move.MoveAttributes.MoveType.ExpansionMove"
     },
     {
-        "PagePath": "Move/MotoOverview.md",
+        "PagePath": "Move/MoveOverview.md",
         "PaperPhoto": "1100.jpg",
         "TagName": "Move.Physics.Force.Friction.NormalForce"
     },
     {
-        "PagePath": "Move/MotoOverview.md",
+        "PagePath": "Move/MoveOverview.md",
         "PaperPhoto": "1105.jpg",
-        "TagName": "Move.MotoDirection.RelativeDirection.PerpendicularTo"
+        "TagName": "Move.MoveDirection.RelativeDirection.PerpendicularTo"
     },
     {
-        "PagePath": "Move/MotoOverview.md",
+        "PagePath": "Move/MoveOverview.md",
         "PaperPhoto": "1105.jpg",
-        "TagName": "Move.MotoAttributes.MotoType.FlexionMoto"
+        "TagName": "Move.MoveAttributes.MoveType.FlexionMove"
     },
     {
-        "PagePath": "Move/MotoOverview.md",
+        "PagePath": "Move/MoveOverview.md",
         "PaperPhoto": "1105.jpg",
         "TagName": "Move.Physics.Force.Friction.NormalForce"
     },
     {
-        "PagePath": "Move/MotoOverview.md",
+        "PagePath": "Move/MoveOverview.md",
         "PaperPhoto": "1105.jpg",
         "TagName": "Move.Physics.Friction"
     },
     {
-        "PagePath": "Move/MotoOverview.md",
+        "PagePath": "Move/MoveOverview.md",
         "PaperPhoto": "1112.jpg",
-        "TagName": "Move.ViaInfluenceMoto"
+        "TagName": "Move.ViaInfluenceMove"
     },
     {
-        "PagePath": "Move/MotoOverview.md",
+        "PagePath": "Move/MoveOverview.md",
         "PaperPhoto": "1113.jpg",
-        "TagName": "Move.MotoDirection.RelativeDirection.ParallelTo"
+        "TagName": "Move.MoveDirection.RelativeDirection.ParallelTo"
     },
     {
-        "PagePath": "Move/MotoOverview.md",
+        "PagePath": "Move/MoveOverview.md",
         "PaperPhoto": "1113.jpg",
-        "TagName": "Move.MotoDirection.RelativeDirection.PerpendicularTo"
+        "TagName": "Move.MoveDirection.RelativeDirection.PerpendicularTo"
     },
     {
-        "PagePath": "Move/MotoOverview.md",
+        "PagePath": "Move/MoveOverview.md",
         "PaperPhoto": "1113.jpg",
-        "TagName": "Move.MotoPoint.Overview"
+        "TagName": "Move.MovePoint.Overview"
     },
     {
-        "PagePath": "Move/MotoOverview.md",
+        "PagePath": "Move/MoveOverview.md",
         "PaperPhoto": "1170.jpg",
         "TagName": "Move.Physics.LoadingAngle"
     },
     {
-        "PagePath": "Move/MotoOverview.md",
+        "PagePath": "Move/MoveOverview.md",
         "PaperPhoto": "1186.jpg",
-        "TagName": "Move.MotoName.Overview"
+        "TagName": "Move.MoveName.Overview"
     },
     {
-        "PagePath": "Move/MotoOverview.md",
+        "PagePath": "Move/MoveOverview.md",
         "PaperPhoto": "1187.jpg",
-        "TagName": "Move.MotoFrequency"
+        "TagName": "Move.MoveFrequency"
     },
     {
-        "PagePath": "Move/MotoOverview.md",
+        "PagePath": "Move/MoveOverview.md",
         "PaperPhoto": "1188.jpg",
-        "TagName": "Move.MotoShape"
+        "TagName": "Move.MoveShape"
     },
     {
-        "PagePath": "Move/MotoOverview.md",
+        "PagePath": "Move/MoveOverview.md",
         "PaperPhoto": "1228.jpg",
-        "TagName": "Move.MotoShape"
+        "TagName": "Move.MoveShape"
     },
     {
-        "PagePath": "Move/MotoOverview.md",
+        "PagePath": "Move/MoveOverview.md",
         "PaperPhoto": "1259.jpg",
-        "TagName": "Move.MotoAttributes.MotoRangeOfMotion"
+        "TagName": "Move.MoveAttributes.MoveRangeOfMotion"
     },
     {
-        "PagePath": "Move/MotoOverview.md",
+        "PagePath": "Move/MoveOverview.md",
         "PaperPhoto": "1309.jpg",
-        "TagName": "Move.MotoComposition.MotoAddition"
+        "TagName": "Move.MoveComposition.MoveAddition"
     },
     {
-        "PagePath": "Move/MotoOverview.md",
+        "PagePath": "Move/MoveOverview.md",
         "PaperPhoto": "1309.jpg",
-        "TagName": "Move.MotoError.Overview"
+        "TagName": "Move.MoveError.Overview"
     },
     {
-        "PagePath": "Move/MotoOverview.md",
+        "PagePath": "Move/MoveOverview.md",
         "PaperPhoto": "1309.jpg",
         "TagName": "Move.PlanterPart"
     },
     {
-        "PagePath": "Move/MotoOverview.md",
+        "PagePath": "Move/MoveOverview.md",
         "PaperPhoto": "1317.jpg",
         "TagName": "Move.PlanterPart"
     },
     {
-        "PagePath": "Move/MotoOverview.md",
+        "PagePath": "Move/MoveOverview.md",
         "PaperPhoto": "1318.jpg",
-        "TagName": "Move.Overview.MotoHierarchy"
+        "TagName": "Move.Overview.MoveHierarchy"
     },
     {
-        "PagePath": "Move/MotoOverview.md",
+        "PagePath": "Move/MoveOverview.md",
         "PaperPhoto": "1318.jpg",
         "TagName": "Move.PlanterPart"
     },
     {
-        "PagePath": "Move/MotoOverview.md",
+        "PagePath": "Move/MoveOverview.md",
         "PaperPhoto": "1321.jpg",
-        "TagName": "Move.MotoComposition.MotoAddition"
+        "TagName": "Move.MoveComposition.MoveAddition"
     },
     {
-        "PagePath": "Move/MotoOverview.md",
+        "PagePath": "Move/MoveOverview.md",
         "PaperPhoto": "1324.jpg",
-        "TagName": "Move.MotoComposition.MotoSelection"
+        "TagName": "Move.MoveComposition.MoveSelection"
     },
     {
-        "PagePath": "Move/MotoOverview.md",
+        "PagePath": "Move/MoveOverview.md",
         "PaperPhoto": "1324.jpg",
-        "TagName": "Move.MotoAttributes.MotoPermutation"
+        "TagName": "Move.MoveAttributes.MovePermutation"
     },
     {
-        "PagePath": "Move/MotoOverview.md",
+        "PagePath": "Move/MoveOverview.md",
         "PaperPhoto": "1324.jpg",
-        "TagName": "Move.MotoAttributes.SubmotoCount"
+        "TagName": "Move.MoveAttributes.SubmotoCount"
     },
     {
-        "PagePath": "Move/MotoOverview.md",
+        "PagePath": "Move/MoveOverview.md",
         "PaperPhoto": "1342.jpg",
-        "TagName": "Move.MotoComposition.MotoSelection.SubmotoSelection"
+        "TagName": "Move.MoveComposition.MoveSelection.SubmotoSelection"
     },
     {
-        "PagePath": "Move/MotoOverview.md",
+        "PagePath": "Move/MoveOverview.md",
         "PaperPhoto": "1342.jpg",
-        "TagName": "Move.MotoPoint.MotoFinishPoint"
+        "TagName": "Move.MovePoint.MoveFinishPoint"
     },
     {
-        "PagePath": "Move/MotoOverview.md",
+        "PagePath": "Move/MoveOverview.md",
         "PaperPhoto": "1343.jpg",
-        "TagName": "Move.MotoComposition.MotoSelection.AlternativeMoto"
+        "TagName": "Move.MoveComposition.MoveSelection.AlternativeMove"
     },
     {
-        "PagePath": "Move/MotoOverview.md",
+        "PagePath": "Move/MoveOverview.md",
         "PaperPhoto": "1343.jpg",
-        "TagName": "Move.MotoComposition.MotoSelection.SubmotoSelection"
+        "TagName": "Move.MoveComposition.MoveSelection.SubmotoSelection"
     },
     {
-        "PagePath": "Move/MotoOverview.md",
+        "PagePath": "Move/MoveOverview.md",
         "PaperPhoto": "1343.jpg",
-        "TagName": "Move.MotoAttributes.MotoPermutation"
+        "TagName": "Move.MoveAttributes.MovePermutation"
     },
     {
-        "PagePath": "Move/MotoOverview.md",
+        "PagePath": "Move/MoveOverview.md",
         "PaperPhoto": "1343.jpg",
         "TagName": "Move.Physics.Displacement"
     },
     {
-        "PagePath": "Move/MotoOverview.md",
+        "PagePath": "Move/MoveOverview.md",
         "PaperPhoto": "1345.jpg",
-        "TagName": "Move.MotoDirection.Overview"
+        "TagName": "Move.MoveDirection.Overview"
     },
     {
-        "PagePath": "Move/MotoOverview.md",
+        "PagePath": "Move/MoveOverview.md",
         "PaperPhoto": "1345.jpg",
-        "TagName": "Move.MotoAttributes.MotoState"
+        "TagName": "Move.MoveAttributes.MoveState"
     },
     {
-        "PagePath": "Move/MotoOverview.md",
+        "PagePath": "Move/MoveOverview.md",
         "PaperPhoto": "1352.jpg",
-        "TagName": "Move.MotoComposition.Overview"
+        "TagName": "Move.MoveComposition.Overview"
     },
     {
-        "PagePath": "Move/MotoOverview.md",
+        "PagePath": "Move/MoveOverview.md",
         "PaperPhoto": "1352.jpg",
-        "TagName": "Move.MotoAttributes.MotoType.Overview"
+        "TagName": "Move.MoveAttributes.MoveType.Overview"
     },
     {
-        "PagePath": "Move/MotoOverview.md",
+        "PagePath": "Move/MoveOverview.md",
         "PaperPhoto": "1352.jpg",
-        "TagName": "Move.MotoAttributes.Overview"
+        "TagName": "Move.MoveAttributes.Overview"
     },
     {
-        "PagePath": "Move/MotoOverview.md",
+        "PagePath": "Move/MoveOverview.md",
         "PaperPhoto": "1352.jpg",
-        "TagName": "Move.MotoType.DynamicMoto"
+        "TagName": "Move.MoveType.DynamicMove"
     },
     {
-        "PagePath": "Move/MotoOverview.md",
+        "PagePath": "Move/MoveOverview.md",
         "PaperPhoto": "1352.jpg",
         "TagName": "Move.Physics.Acceleration"
     },
     {
-        "PagePath": "Move/MotoOverview.md",
+        "PagePath": "Move/MoveOverview.md",
         "PaperPhoto": "1352.jpg",
         "TagName": "Move.PlanterPart"
     },
     {
-        "PagePath": "Move/MotoOverview.md",
+        "PagePath": "Move/MoveOverview.md",
         "PaperPhoto": "1356.jpg",
-        "TagName": "Move.MotoComposition.MotoSelection.SubmotoSelection"
+        "TagName": "Move.MoveComposition.MoveSelection.SubmotoSelection"
     },
     {
-        "PagePath": "Move/MotoOverview.md",
+        "PagePath": "Move/MoveOverview.md",
         "PaperPhoto": "1357.jpg",
-        "TagName": "Move.MotoAttributes.SubmotoCount"
+        "TagName": "Move.MoveAttributes.SubmotoCount"
     },
     {
-        "PagePath": "Move/MotoOverview.md",
+        "PagePath": "Move/MoveOverview.md",
         "PaperPhoto": "1359.jpg",
-        "TagName": "Move.MotoComposition.MotoSelection.SubmotoSelection"
+        "TagName": "Move.MoveComposition.MoveSelection.SubmotoSelection"
     },
     {
-        "PagePath": "Move/MotoOverview.md",
+        "PagePath": "Move/MoveOverview.md",
         "PaperPhoto": "1373.jpg",
-        "TagName": "Move.MotoAttributes.MotoType.CompressionMoto"
+        "TagName": "Move.MoveAttributes.MoveType.CompressionMove"
     },
     {
-        "PagePath": "Move/MotoOverview.md",
+        "PagePath": "Move/MoveOverview.md",
         "PaperPhoto": "1374.jpg",
-        "TagName": "Move.MotoComposition.MotoSelection.SubmotoSelection"
+        "TagName": "Move.MoveComposition.MoveSelection.SubmotoSelection"
     },
     {
-        "PagePath": "Move/MotoOverview.md",
+        "PagePath": "Move/MoveOverview.md",
         "PaperPhoto": "1374.jpg",
-        "TagName": "Move.MotoAttributes.SubmotoCount"
+        "TagName": "Move.MoveAttributes.SubmotoCount"
     },
     {
-        "PagePath": "Move/MotoOverview.md",
+        "PagePath": "Move/MoveOverview.md",
         "PaperPhoto": "1375.jpg",
-        "TagName": "Move.MotoAttributes.MotoType.CompressionMoto"
+        "TagName": "Move.MoveAttributes.MoveType.CompressionMove"
     },
     {
-        "PagePath": "Move/MotoOverview.md",
+        "PagePath": "Move/MoveOverview.md",
         "PaperPhoto": "1379.jpg",
-        "TagName": "Move.MotoComposition.MotoSelection.SubmotoSelection"
+        "TagName": "Move.MoveComposition.MoveSelection.SubmotoSelection"
     },
     {
-        "PagePath": "Move/MotoOverview.md",
+        "PagePath": "Move/MoveOverview.md",
         "PaperPhoto": "1379.jpg",
-        "TagName": "Move.MotoAttributes.SubmotoCount"
+        "TagName": "Move.MoveAttributes.SubmotoCount"
     },
     {
-        "PagePath": "Move/MotoOverview.md",
+        "PagePath": "Move/MoveOverview.md",
         "PaperPhoto": "1386.jpg",
-        "TagName": "Move.MotoAttributes.MotoRangeOfMotion"
+        "TagName": "Move.MoveAttributes.MoveRangeOfMotion"
     },
     {
-        "PagePath": "Move/MotoOverview.md",
+        "PagePath": "Move/MoveOverview.md",
         "PaperPhoto": "1387.jpg",
-        "TagName": "Move.MotoAttributes.MotoDegreesOfFreedom"
+        "TagName": "Move.MoveAttributes.MoveDegreesOfFreedom"
     },
     {
-        "PagePath": "Move/MotoOverview.md",
+        "PagePath": "Move/MoveOverview.md",
         "PaperPhoto": "1393.jpg",
-        "TagName": "Move.MotoComposition.MotoSelection.SubmotoSelection"
+        "TagName": "Move.MoveComposition.MoveSelection.SubmotoSelection"
     },
     {
-        "PagePath": "Move/MotoOverview.md",
+        "PagePath": "Move/MoveOverview.md",
         "PaperPhoto": "1394.jpg",
-        "TagName": "Move.MotoComposition.MotoSelection.MotoComparison"
+        "TagName": "Move.MoveComposition.MoveSelection.MoveComparison"
     },
     {
-        "PagePath": "Move/MotoOverview.md",
+        "PagePath": "Move/MoveOverview.md",
         "PaperPhoto": "1409.jpg",
-        "TagName": "Move.MotoAttributes.MotoType.CompressionMoto"
+        "TagName": "Move.MoveAttributes.MoveType.CompressionMove"
     },
     {
-        "PagePath": "Move/MotoOverview.md",
+        "PagePath": "Move/MoveOverview.md",
         "PaperPhoto": "1425.jpg",
-        "TagName": "Move.MotoAttributes.MotoType.PullMoto"
+        "TagName": "Move.MoveAttributes.MoveType.PullMove"
     },
     {
-        "PagePath": "Move/MotoOverview.md",
+        "PagePath": "Move/MoveOverview.md",
         "PaperPhoto": "1434.jpg",
-        "TagName": "Move.MotoError.Slip.FootSlip"
+        "TagName": "Move.MoveError.Slip.FootSlip"
     },
     {
-        "PagePath": "Move/MotoOverview.md",
+        "PagePath": "Move/MoveOverview.md",
         "PaperPhoto": "1447.jpg",
-        "TagName": "Move.MotoAttributes.MotoType.CompressionMoto"
+        "TagName": "Move.MoveAttributes.MoveType.CompressionMove"
     },
     {
-        "PagePath": "Move/MotoOverview.md",
+        "PagePath": "Move/MoveOverview.md",
         "PaperPhoto": "1447.jpg",
-        "TagName": "Move.MotoAttributes.MotoType.ExpansionMoto"
+        "TagName": "Move.MoveAttributes.MoveType.ExpansionMove"
     },
     {
-        "PagePath": "Move/MotoOverview.md",
+        "PagePath": "Move/MoveOverview.md",
         "PaperPhoto": "1451.jpg",
-        "TagName": "Move.MotoAttributes.MotoType.SlotMoto"
+        "TagName": "Move.MoveAttributes.MoveType.SlotMove"
     },
     {
-        "PagePath": "Move/MotoOverview.md",
+        "PagePath": "Move/MoveOverview.md",
         "PaperPhoto": "1489.jpg",
-        "TagName": "Move.MotoComposition.MotoSelection.MotoComparison"
+        "TagName": "Move.MoveComposition.MoveSelection.MoveComparison"
     },
     {
-        "PagePath": "Move/MotoOverview.md",
+        "PagePath": "Move/MoveOverview.md",
         "PaperPhoto": "1493.jpg",
-        "TagName": "Move.MotoComposition.MotoSelection"
+        "TagName": "Move.MoveComposition.MoveSelection"
     },
     {
-        "PagePath": "Move/MotoOverview.md",
+        "PagePath": "Move/MoveOverview.md",
         "PaperPhoto": "1493.jpg",
-        "TagName": "Move.MotoComposition.MotoSelection.AlternativeMoto"
+        "TagName": "Move.MoveComposition.MoveSelection.AlternativeMove"
     },
     {
-        "PagePath": "Move/MotoOverview.md",
+        "PagePath": "Move/MoveOverview.md",
         "PaperPhoto": "1493.jpg",
-        "TagName": "Move.MotoComposition.MotoSelection.ForcedMoto"
+        "TagName": "Move.MoveComposition.MoveSelection.ForcedMove"
     },
     {
-        "PagePath": "Move/MotoOverview.md",
+        "PagePath": "Move/MoveOverview.md",
         "PaperPhoto": "1493.jpg",
-        "TagName": "Move.MotoComposition.MotoSelection.SubmotoSelection"
+        "TagName": "Move.MoveComposition.MoveSelection.SubmotoSelection"
     },
     {
-        "PagePath": "Move/MotoOverview.md",
+        "PagePath": "Move/MoveOverview.md",
         "PaperPhoto": "1498.jpg",
-        "TagName": "Move.MotoAttributes.MotoType.CompressionMoto"
+        "TagName": "Move.MoveAttributes.MoveType.CompressionMove"
     },
     {
-        "PagePath": "Move/MotoOverview.md",
+        "PagePath": "Move/MoveOverview.md",
         "PaperPhoto": "1540.jpg",
-        "TagName": "Move.MotoAttributes.MotoType.SymmetricMoto"
+        "TagName": "Move.MoveAttributes.MoveType.SymmetricMove"
     },
     {
-        "PagePath": "Move/MotoOverview.md",
+        "PagePath": "Move/MoveOverview.md",
         "PaperPhoto": "1546.jpg",
-        "TagName": "Move.MotoAttributes.MotoType.CompressionMoto"
+        "TagName": "Move.MoveAttributes.MoveType.CompressionMove"
     },
     {
-        "PagePath": "Move/MotoOverview.md",
+        "PagePath": "Move/MoveOverview.md",
         "PaperPhoto": "1546.jpg",
-        "TagName": "Move.MotoAttributes.MotoType.ExpansionMoto"
+        "TagName": "Move.MoveAttributes.MoveType.ExpansionMove"
     },
     {
-        "PagePath": "Move/MotoOverview.md",
+        "PagePath": "Move/MoveOverview.md",
         "PaperPhoto": "1554.jpg",
         "TagName": "Move.Physics.CenterOfMass"
     },
     {
-        "PagePath": "Move/MotoOverview.md",
+        "PagePath": "Move/MoveOverview.md",
         "PaperPhoto": "1561.jpg",
         "TagName": "Move.Physics.LoadingAngle"
     },
     {
-        "PagePath": "Move/MotoOverview.md",
+        "PagePath": "Move/MoveOverview.md",
         "PaperPhoto": "1573.jpg",
-        "TagName": "Move.MotoPoint.MotoPausePoint"
+        "TagName": "Move.MovePoint.MovePausePoint"
     },
     {
-        "PagePath": "Move/MotoOverview.md",
+        "PagePath": "Move/MoveOverview.md",
         "PaperPhoto": "1585.jpg",
         "TagName": "Move.Physics.CenterOfMass"
     },
     {
-        "PagePath": "Move/MotoOverview.md",
+        "PagePath": "Move/MoveOverview.md",
         "PaperPhoto": "1599.jpg",
-        "TagName": "Move.MotoAttributes.MotoType.CompressionMoto"
+        "TagName": "Move.MoveAttributes.MoveType.CompressionMove"
     },
     {
-        "PagePath": "Move/MotoOverview.md",
+        "PagePath": "Move/MoveOverview.md",
         "PaperPhoto": "1603.jpg",
-        "TagName": "Move.MotoAnalysis"
+        "TagName": "Move.MoveAnalysis"
     },
     {
-        "PagePath": "Move/MotoOverview.md",
+        "PagePath": "Move/MoveOverview.md",
         "PaperPhoto": "1603.jpg",
         "TagName": "Move.Physics.Vector"
     },
     {
-        "PagePath": "Move/MotoOverview.md",
+        "PagePath": "Move/MoveOverview.md",
         "PaperPhoto": "1656.jpg",
-        "TagName": "Move.MotoSpace.Overview"
+        "TagName": "Move.MoveSpace.Overview"
     },
     {
-        "PagePath": "Move/MotoOverview.md",
+        "PagePath": "Move/MoveOverview.md",
         "PaperPhoto": "1658.jpg",
-        "TagName": "Move.MotoName.Overview"
+        "TagName": "Move.MoveName.Overview"
     },
     {
-        "PagePath": "Move/MotoOverview.md",
+        "PagePath": "Move/MoveOverview.md",
         "PaperPhoto": "1699.jpg",
-        "TagName": "Move.MotoAnalysis"
+        "TagName": "Move.MoveAnalysis"
     },
     {
-        "PagePath": "Move/MotoOverview.md",
+        "PagePath": "Move/MoveOverview.md",
         "PaperPhoto": "1702.jpg",
-        "TagName": "Move.MotoAttributes.MotoType.RestMoto"
+        "TagName": "Move.MoveAttributes.MoveType.RestMove"
     },
     {
-        "PagePath": "Move/MotoOverview.md",
+        "PagePath": "Move/MoveOverview.md",
         "PaperPhoto": "1730.jpg",
-        "TagName": "Move.MotoSpace.Overview"
+        "TagName": "Move.MoveSpace.Overview"
     },
     {
-        "PagePath": "Move/MotoOverview.md",
+        "PagePath": "Move/MoveOverview.md",
         "PaperPhoto": "1740.jpg",
-        "TagName": "Move.MotoAttributes.MotoType.ArchMoto"
+        "TagName": "Move.MoveAttributes.MoveType.ArchMove"
     },
     {
-        "PagePath": "Move/MotoOverview.md",
+        "PagePath": "Move/MoveOverview.md",
         "PaperPhoto": "1749.jpg",
-        "TagName": "Move.MotoAttributes.SubmotoCount"
+        "TagName": "Move.MoveAttributes.SubmotoCount"
     },
     {
-        "PagePath": "Move/MotoOverview.md",
+        "PagePath": "Move/MoveOverview.md",
         "PaperPhoto": "1749.jpg",
-        "TagName": "Move.MotoSpace.Overview"
+        "TagName": "Move.MoveSpace.Overview"
     },
     {
-        "PagePath": "Move/MotoOverview.md",
+        "PagePath": "Move/MoveOverview.md",
         "PaperPhoto": "1763.jpg",
         "TagName": "Move.PlanterAttributes.PlanterAbility"
     },
     {
-        "PagePath": "Move/MotoOverview.md",
+        "PagePath": "Move/MoveOverview.md",
         "PaperPhoto": "1796.jpg",
-        "TagName": "Move.MotoAttributes.MotoType.CompressionMoto"
+        "TagName": "Move.MoveAttributes.MoveType.CompressionMove"
     },
     {
-        "PagePath": "Move/MotoOverview.md",
+        "PagePath": "Move/MoveOverview.md",
         "PaperPhoto": "1803.jpg",
-        "TagName": "Move.MotoPoint.Deadpoint"
+        "TagName": "Move.MovePoint.Deadpoint"
     },
     {
-        "PagePath": "Move/MotoOverview.md",
+        "PagePath": "Move/MoveOverview.md",
         "PaperPhoto": "1803.jpg",
-        "TagName": "Move.MotoAttributes.MotoType.CompressionMoto"
+        "TagName": "Move.MoveAttributes.MoveType.CompressionMove"
     },
     {
-        "PagePath": "Move/MotoOverview.md",
+        "PagePath": "Move/MoveOverview.md",
         "PaperPhoto": "1803.jpg",
-        "TagName": "Move.MotoAttributes.MotoType.ExpansionMoto"
+        "TagName": "Move.MoveAttributes.MoveType.ExpansionMove"
     },
     {
-        "PagePath": "Move/MotoOverview.md",
+        "PagePath": "Move/MoveOverview.md",
         "PaperPhoto": "1804.jpg",
-        "TagName": "Move.MotoAttributes.MotoDuration"
+        "TagName": "Move.MoveAttributes.MoveDuration"
     },
     {
-        "PagePath": "Move/MotoOverview.md",
+        "PagePath": "Move/MoveOverview.md",
         "PaperPhoto": "1804.jpg",
-        "TagName": "Move.MotoAttributes.MotoType.ReleaseMoto"
+        "TagName": "Move.MoveAttributes.MoveType.ReleaseMove"
     },
     {
-        "PagePath": "Move/MotoOverview.md",
+        "PagePath": "Move/MoveOverview.md",
         "PaperPhoto": "1805.jpg",
-        "TagName": "Move.Overview.MotoType.RelativeMoto"
+        "TagName": "Move.Overview.MoveType.RelativeMove"
     },
     {
-        "PagePath": "Move/MotoOverview.md",
+        "PagePath": "Move/MoveOverview.md",
         "PaperPhoto": "1805.jpg",
         "TagName": "Move.Physics.Direction"
     },
     {
-        "PagePath": "Move/MotoOverview.md",
+        "PagePath": "Move/MoveOverview.md",
         "PaperPhoto": "1805.jpg",
         "TagName": "Move.Physics.Vector"
     },
     {
-        "PagePath": "Move/MotoOverview.md",
+        "PagePath": "Move/MoveOverview.md",
         "PaperPhoto": "1806.jpg",
-        "TagName": "Move.MotoAttributes.MotoDuration"
+        "TagName": "Move.MoveAttributes.MoveDuration"
     },
     {
-        "PagePath": "Move/MotoOverview.md",
+        "PagePath": "Move/MoveOverview.md",
         "PaperPhoto": "1807.jpg",
-        "TagName": "Move.MotoAttributes.MotoDuration"
+        "TagName": "Move.MoveAttributes.MoveDuration"
     },
     {
-        "PagePath": "Move/MotoOverview.md",
+        "PagePath": "Move/MoveOverview.md",
         "PaperPhoto": "1808.jpg",
-        "TagName": "Move.MotoAttributes.MotoType.RestMoto"
+        "TagName": "Move.MoveAttributes.MoveType.RestMove"
     },
     {
-        "PagePath": "Move/MotoOverview.md",
+        "PagePath": "Move/MoveOverview.md",
         "PaperPhoto": "1809.jpg",
         "TagName": "Move.PlanterAttributes.PlanterSize"
     },
     {
-        "PagePath": "Move/MotoOverview.md",
+        "PagePath": "Move/MoveOverview.md",
         "PaperPhoto": "1815.jpg",
-        "TagName": "Move.MotoPoint.MotoPausePoint"
+        "TagName": "Move.MovePoint.MovePausePoint"
     },
     {
-        "PagePath": "Move/MotoOverview.md",
+        "PagePath": "Move/MoveOverview.md",
         "PaperPhoto": "1817.jpg",
-        "TagName": "Move.Overview.MotoHierarchy.Submoto"
+        "TagName": "Move.Overview.MoveHierarchy.Submoto"
     },
     {
-        "PagePath": "Move/MotoOverview.md",
+        "PagePath": "Move/MoveOverview.md",
         "PaperPhoto": "1819.jpg",
-        "TagName": "Move.Overview.MotoHierarchy.Submoto"
+        "TagName": "Move.Overview.MoveHierarchy.Submoto"
     },
     {
-        "PagePath": "Move/MotoOverview.md",
+        "PagePath": "Move/MoveOverview.md",
         "PaperPhoto": "1824.jpg",
-        "TagName": "Move.MotoName.Overview"
+        "TagName": "Move.MoveName.Overview"
     },
     {
-        "PagePath": "Move/MotoOverview.md",
+        "PagePath": "Move/MoveOverview.md",
         "PaperPhoto": "1824.jpg",
-        "TagName": "Move.MotoAttributes.Overview"
+        "TagName": "Move.MoveAttributes.Overview"
     },
     {
-        "PagePath": "Move/MotoOverview.md",
+        "PagePath": "Move/MoveOverview.md",
         "PaperPhoto": "1827.jpg",
-        "TagName": "Move.Overview.MotoHierarchy"
+        "TagName": "Move.Overview.MoveHierarchy"
     },
     {
-        "PagePath": "Move/MotoOverview.md",
+        "PagePath": "Move/MoveOverview.md",
         "PaperPhoto": "1830.jpg",
-        "TagName": "Move.CoordinationMoto"
+        "TagName": "Move.CoordinationMove"
     },
     {
-        "PagePath": "Move/MotoOverview.md",
+        "PagePath": "Move/MoveOverview.md",
         "PaperPhoto": "1842.jpg",
-        "TagName": "Move.MotoName.Overview"
+        "TagName": "Move.MoveName.Overview"
     },
     {
-        "PagePath": "Move/MotoOverview.md",
+        "PagePath": "Move/MoveOverview.md",
         "PaperPhoto": "1842.jpg",
-        "TagName": "Move.MotoAttributes.MotoType"
+        "TagName": "Move.MoveAttributes.MoveType"
     },
     {
-        "PagePath": "Move/MotoOverview.md",
+        "PagePath": "Move/MoveOverview.md",
         "PaperPhoto": "1842.jpg",
-        "TagName": "Move.MotoType"
+        "TagName": "Move.MoveType"
     },
     {
-        "PagePath": "Move/MotoOverview.md",
+        "PagePath": "Move/MoveOverview.md",
         "PaperPhoto": "1844.jpg",
-        "TagName": "Move.MotoError.Slip.Overview"
+        "TagName": "Move.MoveError.Slip.Overview"
     },
     {
-        "PagePath": "Move/MotoOverview.md",
+        "PagePath": "Move/MoveOverview.md",
         "PaperPhoto": "1844.jpg",
-        "TagName": "Move.MotoPoint.MotoFinishPoint"
+        "TagName": "Move.MovePoint.MoveFinishPoint"
     },
     {
-        "PagePath": "Move/MotoOverview.md",
+        "PagePath": "Move/MoveOverview.md",
         "PaperPhoto": "1844.jpg",
-        "TagName": "Move.MotoPoint.MotoStartPoint"
+        "TagName": "Move.MovePoint.MoveStartPoint"
     },
     {
-        "PagePath": "Move/MotoOverview.md",
+        "PagePath": "Move/MoveOverview.md",
         "PaperPhoto": "1852.jpg",
         "TagName": "Move.Physics.Acceleration"
     },
     {
-        "PagePath": "Move/MotoOverview.md",
+        "PagePath": "Move/MoveOverview.md",
         "PaperPhoto": "1852.jpg",
         "TagName": "Move.Physics.Direction"
     },
     {
-        "PagePath": "Move/MotoOverview.md",
+        "PagePath": "Move/MoveOverview.md",
         "PaperPhoto": "1852.jpg",
         "TagName": "Move.Physics.Displacement"
     },
     {
-        "PagePath": "Move/MotoOverview.md",
+        "PagePath": "Move/MoveOverview.md",
         "PaperPhoto": "1852.jpg",
         "TagName": "Move.Physics.Force"
     },
     {
-        "PagePath": "Move/MotoOverview.md",
+        "PagePath": "Move/MoveOverview.md",
         "PaperPhoto": "1852.jpg",
         "TagName": "Move.Physics.Vector"
     },
     {
-        "PagePath": "Move/MotoOverview.md",
+        "PagePath": "Move/MoveOverview.md",
         "PaperPhoto": "1852.jpg",
         "TagName": "Move.Physics.Velocity"
     },
     {
-        "PagePath": "Move/MotoOverview.md",
+        "PagePath": "Move/MoveOverview.md",
         "PaperPhoto": "1855.jpg",
-        "TagName": "Move.Overview.MotoType"
+        "TagName": "Move.Overview.MoveType"
     },
     {
-        "PagePath": "Move/MotoOverview.md",
+        "PagePath": "Move/MoveOverview.md",
         "PaperPhoto": "1857.jpg",
-        "TagName": "Move.Overview.MotoHierarchy.Submoto"
+        "TagName": "Move.Overview.MoveHierarchy.Submoto"
     },
     {
-        "PagePath": "Move/MotoOverview.md",
+        "PagePath": "Move/MoveOverview.md",
         "PaperPhoto": "1858.jpg",
-        "TagName": "Move.MotoType.DynamicMoto"
+        "TagName": "Move.MoveType.DynamicMove"
     },
     {
-        "PagePath": "Move/MotoOverview.md",
+        "PagePath": "Move/MoveOverview.md",
         "PaperPhoto": "1858.jpg",
-        "TagName": "Move.MotoType.StaticMoto"
+        "TagName": "Move.MoveType.StaticMove"
     },
     {
-        "PagePath": "Move/MotoOverview.md",
+        "PagePath": "Move/MoveOverview.md",
         "PaperPhoto": "1859.jpg",
-        "TagName": "Move.MotoSpace.Overview"
+        "TagName": "Move.MoveSpace.Overview"
     },
     {
-        "PagePath": "Move/MotoOverview.md",
+        "PagePath": "Move/MoveOverview.md",
         "PaperPhoto": "1859.jpg",
-        "TagName": "Move.Overview.MotoHierarchy.Submoto"
+        "TagName": "Move.Overview.MoveHierarchy.Submoto"
     },
     {
-        "PagePath": "Move/MotoOverview.md",
+        "PagePath": "Move/MoveOverview.md",
         "PaperPhoto": "1859.jpg",
         "TagName": "Move.Physics.Direction"
     },
     {
-        "PagePath": "Move/MotoOverview.md",
+        "PagePath": "Move/MoveOverview.md",
         "PaperPhoto": "1859.jpg",
         "TagName": "Move.Physics.Force"
     },
     {
-        "PagePath": "Move/MotoOverview.md",
+        "PagePath": "Move/MoveOverview.md",
         "PaperPhoto": "1859.jpg",
         "TagName": "Move.Physics.LoadingAngle"
     },
     {
-        "PagePath": "Move/MotoOverview.md",
+        "PagePath": "Move/MoveOverview.md",
         "PaperPhoto": "1859.jpg",
         "TagName": "Move.Physics.Vector"
     },
     {
-        "PagePath": "Move/MotoOverview.md",
+        "PagePath": "Move/MoveOverview.md",
         "PaperPhoto": "1860.jpg",
         "TagName": "Move.Physics.Force"
     },
     {
-        "PagePath": "Move/MotoOverview.md",
+        "PagePath": "Move/MoveOverview.md",
         "PaperPhoto": "1865.jpg",
         "TagName": "Move.Physics.LoadingAngle"
     },
     {
-        "PagePath": "Move/MotoOverview.md",
+        "PagePath": "Move/MoveOverview.md",
         "PaperPhoto": "1873.jpg",
-        "TagName": "Move.MotoPoint.MotoFinishPoint"
+        "TagName": "Move.MovePoint.MoveFinishPoint"
     },
     {
-        "PagePath": "Move/MotoOverview.md",
+        "PagePath": "Move/MoveOverview.md",
         "PaperPhoto": "1873.jpg",
-        "TagName": "Move.MotoPoint.MotoStartPoint"
+        "TagName": "Move.MovePoint.MoveStartPoint"
     },
     {
-        "PagePath": "Move/MotoOverview.md",
+        "PagePath": "Move/MoveOverview.md",
         "PaperPhoto": "1873.jpg",
-        "TagName": "Move.MotoPoint.Overview"
+        "TagName": "Move.MovePoint.Overview"
     },
     {
-        "PagePath": "Move/MotoOverview.md",
+        "PagePath": "Move/MoveOverview.md",
         "PaperPhoto": "1873.jpg",
-        "TagName": "Move.MotoShape"
+        "TagName": "Move.MoveShape"
     },
     {
-        "PagePath": "Move/MotoOverview.md",
+        "PagePath": "Move/MoveOverview.md",
         "PaperPhoto": "1873.jpg",
-        "TagName": "Move.MotoSpace.Overview"
+        "TagName": "Move.MoveSpace.Overview"
     },
     {
-        "PagePath": "Move/MotoOverview.md",
+        "PagePath": "Move/MoveOverview.md",
         "PaperPhoto": "2002.jpg",
-        "TagName": "Move.Overview.MotoHierarchy.Submoto"
+        "TagName": "Move.Overview.MoveHierarchy.Submoto"
     },
     {
-        "PagePath": "Move/MotoOverview.md",
+        "PagePath": "Move/MoveOverview.md",
         "PaperPhoto": "2002.jpg",
         "TagName": "Move.Physics.Direction"
     },
     {
-        "PagePath": "Move/MotoOverview.md",
+        "PagePath": "Move/MoveOverview.md",
         "PaperPhoto": "2007.jpg",
-        "TagName": "Move.MotoName.Overview"
+        "TagName": "Move.MoveName.Overview"
     },
     {
-        "PagePath": "Move/MotoOverview.md",
+        "PagePath": "Move/MoveOverview.md",
         "PaperPhoto": "2007.jpg",
         "TagName": "Move.Physics.Force"
     },
     {
-        "PagePath": "Move/MotoOverview.md",
+        "PagePath": "Move/MoveOverview.md",
         "PaperPhoto": "2007.jpg",
         "TagName": "Move.Physics.Vector"
     },
     {
-        "PagePath": "Move/MotoOverview.md",
+        "PagePath": "Move/MoveOverview.md",
         "PaperPhoto": "2008.jpg",
-        "TagName": "Move.Overview.MotoHierarchy.Submoto"
+        "TagName": "Move.Overview.MoveHierarchy.Submoto"
     },
     {
-        "PagePath": "Move/MotoOverview.md",
+        "PagePath": "Move/MoveOverview.md",
         "PaperPhoto": "2023.jpg",
-        "TagName": "Move.MotoType.DynamicMoto"
+        "TagName": "Move.MoveType.DynamicMove"
     },
     {
-        "PagePath": "Move/MotoOverview.md",
+        "PagePath": "Move/MoveOverview.md",
         "PaperPhoto": "2035.jpg",
-        "TagName": "Move.Overview.MotoHierarchy.Submoto"
+        "TagName": "Move.Overview.MoveHierarchy.Submoto"
     },
     {
-        "PagePath": "Move/MotoOverview.md",
+        "PagePath": "Move/MoveOverview.md",
         "PaperPhoto": "2053.jpg",
-        "TagName": "Move.MotoType.DynamicMoto"
+        "TagName": "Move.MoveType.DynamicMove"
     },
     {
-        "PagePath": "Move/MotoOverview.md",
+        "PagePath": "Move/MoveOverview.md",
         "PaperPhoto": "2053.jpg",
-        "TagName": "Move.MotoType.StaticMoto"
+        "TagName": "Move.MoveType.StaticMove"
     },
     {
-        "PagePath": "Move/MotoOverview.md",
+        "PagePath": "Move/MoveOverview.md",
         "PaperPhoto": "2192.jpg",
-        "TagName": "Move.MotoError.Slip.Overview"
+        "TagName": "Move.MoveError.Slip.Overview"
     },
     {
-        "PagePath": "Move/MotoOverview.md",
+        "PagePath": "Move/MoveOverview.md",
         "PaperPhoto": "2195.jpg",
-        "TagName": "Move.MotoSize"
+        "TagName": "Move.MoveSize"
     },
     {
-        "PagePath": "Move/MotoOverview.md",
+        "PagePath": "Move/MoveOverview.md",
         "PaperPhoto": "2195.jpg",
         "TagName": "Move.Overview"
     },
     {
-        "PagePath": "Move/MotoOverview.md",
+        "PagePath": "Move/MoveOverview.md",
         "PaperPhoto": "2330.jpg",
-        "TagName": "Move.Overview.MotoHierarchy"
+        "TagName": "Move.Overview.MoveHierarchy"
     },
     {
-        "PagePath": "Move/MotoOverview.md",
+        "PagePath": "Move/MoveOverview.md",
         "PaperPhoto": "2330.jpg",
-        "TagName": "Move.Overview.MotoHierarchy.Supermoto"
+        "TagName": "Move.Overview.MoveHierarchy.Supermoto"
     },
     {
-        "PagePath": "Move/MotoOverview.md",
+        "PagePath": "Move/MoveOverview.md",
         "PaperPhoto": "2338.jpg",
-        "TagName": "Move.Overview.MotoHierarchy.Supermoto"
+        "TagName": "Move.Overview.MoveHierarchy.Supermoto"
     },
     {
-        "PagePath": "Move/MotoOverview.md",
+        "PagePath": "Move/MoveOverview.md",
         "PaperPhoto": "2389.jpg",
-        "TagName": "Move.MotoPlane"
+        "TagName": "Move.MovePlane"
     },
     {
-        "PagePath": "Move/MotoOverview.md",
+        "PagePath": "Move/MoveOverview.md",
         "PaperPhoto": "2389.jpg",
         "TagName": "Move.Physics.Acceleration"
     },
     {
-        "PagePath": "Move/MotoOverview.md",
+        "PagePath": "Move/MoveOverview.md",
         "PaperPhoto": "2389.jpg",
         "TagName": "Move.Physics.Force"
     },
     {
-        "PagePath": "Move/MotoOverview.md",
+        "PagePath": "Move/MoveOverview.md",
         "PaperPhoto": "2389.jpg",
         "TagName": "Move.Physics.Friction"
     },
     {
-        "PagePath": "Move/MotoOverview.md",
+        "PagePath": "Move/MoveOverview.md",
         "PaperPhoto": "2410.jpg",
-        "TagName": "Move.Overview.MotoType"
+        "TagName": "Move.Overview.MoveType"
     },
     {
-        "PagePath": "Move/MotoOverview.md",
+        "PagePath": "Move/MoveOverview.md",
         "PaperPhoto": "2441.jpg",
-        "TagName": "Move.MotoType.DynamicMoto"
+        "TagName": "Move.MoveType.DynamicMove"
     },
     {
-        "PagePath": "Move/MotoOverview.md",
+        "PagePath": "Move/MoveOverview.md",
         "PaperPhoto": "2441.jpg",
-        "TagName": "Move.MotoType.StaticMoto"
+        "TagName": "Move.MoveType.StaticMove"
     },
     {
-        "PagePath": "Move/MotoOverview.md",
+        "PagePath": "Move/MoveOverview.md",
         "PaperPhoto": "2445.jpg",
-        "TagName": "Move.Overview.MotoHierarchy.Submoto"
+        "TagName": "Move.Overview.MoveHierarchy.Submoto"
     },
     {
-        "PagePath": "Move/MotoOverview.md",
+        "PagePath": "Move/MoveOverview.md",
         "PaperPhoto": "2445.jpg",
-        "TagName": "Move.Overview.MotoHierarchy.Supermoto"
+        "TagName": "Move.Overview.MoveHierarchy.Supermoto"
     },
     {
-        "PagePath": "Move/MotoOverview.md",
+        "PagePath": "Move/MoveOverview.md",
         "PaperPhoto": "2448.jpg",
-        "TagName": "Move.MotoShape"
+        "TagName": "Move.MoveShape"
     },
     {
-        "PagePath": "Move/MotoOverview.md",
+        "PagePath": "Move/MoveOverview.md",
         "PaperPhoto": "2477.jpg",
         "TagName": "Move.SlashMove.Overview"
     },
     {
-        "PagePath": "Move/MotoOverview.md",
+        "PagePath": "Move/MoveOverview.md",
         "PaperPhoto": "2497.jpg",
-        "TagName": "Move.MotoPlane"
+        "TagName": "Move.MovePlane"
     },
     {
-        "PagePath": "Move/MotoOverview.md",
+        "PagePath": "Move/MoveOverview.md",
         "PaperPhoto": "2497.jpg",
-        "TagName": "Move.MotoShape"
+        "TagName": "Move.MoveShape"
     },
     {
-        "PagePath": "Move/MotoOverview.md",
+        "PagePath": "Move/MoveOverview.md",
         "PaperPhoto": "2509.jpg",
-        "TagName": "Move.Overview.MotoHierarchy.Submoto"
+        "TagName": "Move.Overview.MoveHierarchy.Submoto"
     },
     {
-        "PagePath": "Move/MotoOverview.md",
+        "PagePath": "Move/MoveOverview.md",
         "PaperPhoto": "2509.jpg",
-        "TagName": "Move.Overview.MotoHierarchy.Supermoto"
+        "TagName": "Move.Overview.MoveHierarchy.Supermoto"
     },
     {
-        "PagePath": "Move/MotoOverview.md",
+        "PagePath": "Move/MoveOverview.md",
         "PaperPhoto": "2513.jpg",
-        "TagName": "Move.MotoShape"
+        "TagName": "Move.MoveShape"
     },
     {
-        "PagePath": "Move/MotoOverview.md",
+        "PagePath": "Move/MoveOverview.md",
         "PaperPhoto": "2525.jpg",
-        "TagName": "Move.MotoPlane"
+        "TagName": "Move.MovePlane"
     },
     {
-        "PagePath": "Move/MotoOverview.md",
+        "PagePath": "Move/MoveOverview.md",
         "PaperPhoto": "2526.jpg",
-        "TagName": "Move.Overview.MotoHierarchy.Submoto"
+        "TagName": "Move.Overview.MoveHierarchy.Submoto"
     },
     {
-        "PagePath": "Move/MotoOverview.md",
+        "PagePath": "Move/MoveOverview.md",
         "PaperPhoto": "2530.jpg",
-        "TagName": "Move.MotoSize"
+        "TagName": "Move.MoveSize"
     },
     {
-        "PagePath": "Move/MotoOverview.md",
+        "PagePath": "Move/MoveOverview.md",
         "PaperPhoto": "2530.jpg",
-        "TagName": "Move.Overview.MotoHierarchy.Submoto"
+        "TagName": "Move.Overview.MoveHierarchy.Submoto"
     },
     {
-        "PagePath": "Move/MotoOverview.md",
+        "PagePath": "Move/MoveOverview.md",
         "PaperPhoto": "2530.jpg",
-        "TagName": "Move.Overview.MotoHierarchy.Supermoto"
+        "TagName": "Move.Overview.MoveHierarchy.Supermoto"
     },
     {
-        "PagePath": "Move/MotoOverview.md",
+        "PagePath": "Move/MoveOverview.md",
         "PaperPhoto": "2531.jpg",
-        "TagName": "Move.MotoEvent"
+        "TagName": "Move.MoveEvent"
     },
     {
-        "PagePath": "Move/MotoOverview.md",
+        "PagePath": "Move/MoveOverview.md",
         "PaperPhoto": "2531.jpg",
-        "TagName": "Move.MotoShape"
+        "TagName": "Move.MoveShape"
     },
     {
-        "PagePath": "Move/MotoOverview.md",
+        "PagePath": "Move/MoveOverview.md",
         "PaperPhoto": "2531.jpg",
-        "TagName": "Move.Overview.MotoHierarchy.Submoto"
+        "TagName": "Move.Overview.MoveHierarchy.Submoto"
     },
     {
-        "PagePath": "Move/MotoOverview.md",
+        "PagePath": "Move/MoveOverview.md",
         "PaperPhoto": "2537.jpg",
-        "TagName": "Move.MotoShape"
+        "TagName": "Move.MoveShape"
     },
     {
-        "PagePath": "Move/MotoOverview.md",
+        "PagePath": "Move/MoveOverview.md",
         "PaperPhoto": "2538.jpg",
-        "TagName": "Move.MotoShape"
+        "TagName": "Move.MoveShape"
     },
     {
-        "PagePath": "Move/MotoOverview.md",
+        "PagePath": "Move/MoveOverview.md",
         "PaperPhoto": "2539.jpg",
-        "TagName": "Move.Overview.MotoHierarchy.Submoto"
+        "TagName": "Move.Overview.MoveHierarchy.Submoto"
     },
     {
-        "PagePath": "Move/MotoOverview.md",
+        "PagePath": "Move/MoveOverview.md",
         "PaperPhoto": "2539.jpg",
-        "TagName": "Move.Overview.MotoHierarchy.Supermoto"
+        "TagName": "Move.Overview.MoveHierarchy.Supermoto"
     },
     {
-        "PagePath": "Move/MotoOverview.md",
+        "PagePath": "Move/MoveOverview.md",
         "PaperPhoto": "2541.jpg",
-        "TagName": "Move.MotoName.Overview"
+        "TagName": "Move.MoveName.Overview"
     },
     {
-        "PagePath": "Move/MotoOverview.md",
+        "PagePath": "Move/MoveOverview.md",
         "PaperPhoto": "2834.jpg",
-        "TagName": "Move.MotoName.Overview"
+        "TagName": "Move.MoveName.Overview"
     },
     {
-        "PagePath": "Move/MotoOverview.md",
+        "PagePath": "Move/MoveOverview.md",
         "PaperPhoto": "2834.jpg",
-        "TagName": "Move.MotoType.DynamicMoto"
+        "TagName": "Move.MoveType.DynamicMove"
     },
     {
-        "PagePath": "Move/MotoOverview.md",
+        "PagePath": "Move/MoveOverview.md",
         "PaperPhoto": "2834.jpg",
-        "TagName": "Move.Overview.MotoHierarchy.Submoto"
+        "TagName": "Move.Overview.MoveHierarchy.Submoto"
     },
     {
-        "PagePath": "Move/MotoOverview.md",
+        "PagePath": "Move/MoveOverview.md",
         "PaperPhoto": "2834.jpg",
-        "TagName": "Move.Overview.MotoHierarchy.Supermoto"
+        "TagName": "Move.Overview.MoveHierarchy.Supermoto"
     },
     {
-        "PagePath": "Move/MotoOverview.md",
+        "PagePath": "Move/MoveOverview.md",
         "PaperPhoto": "2861.jpg",
-        "TagName": "Move.MotoError.Slip.Overview"
+        "TagName": "Move.MoveError.Slip.Overview"
     },
     {
-        "PagePath": "Move/MotoOverview.md",
+        "PagePath": "Move/MoveOverview.md",
         "PaperPhoto": "2869.jpg",
-        "TagName": "Move.MotoEvent"
+        "TagName": "Move.MoveEvent"
     },
     {
-        "PagePath": "Move/MotoOverview.md",
+        "PagePath": "Move/MoveOverview.md",
         "PaperPhoto": "2869.jpg",
-        "TagName": "Move.Overview.MotoType.RelativeMoto"
+        "TagName": "Move.Overview.MoveType.RelativeMove"
     },
     {
-        "PagePath": "Move/MotoOverview.md",
+        "PagePath": "Move/MoveOverview.md",
         "PaperPhoto": "2881.jpg",
-        "TagName": "Move.Overview.MotoHierarchy"
+        "TagName": "Move.Overview.MoveHierarchy"
     },
     {
-        "PagePath": "Move/MotoOverview.md",
+        "PagePath": "Move/MoveOverview.md",
         "PaperPhoto": "2894.jpg",
-        "TagName": "Move.Overview.MotoHierarchy.Submoto"
+        "TagName": "Move.Overview.MoveHierarchy.Submoto"
     },
     {
-        "PagePath": "Move/MotoOverview.md",
+        "PagePath": "Move/MoveOverview.md",
         "PaperPhoto": "2917.jpg",
-        "TagName": "Move.Overview.MotoHierarchy.Submoto"
+        "TagName": "Move.Overview.MoveHierarchy.Submoto"
     },
     {
-        "PagePath": "Move/MotoOverview.md",
+        "PagePath": "Move/MoveOverview.md",
         "PaperPhoto": "2938.jpg",
-        "TagName": "Move.MotoError.Slip.Overview"
+        "TagName": "Move.MoveError.Slip.Overview"
     },
     {
-        "PagePath": "Move/MotoOverview.md",
+        "PagePath": "Move/MoveOverview.md",
         "PaperPhoto": "2942.jpg",
-        "TagName": "Move.MotoName.Overview"
+        "TagName": "Move.MoveName.Overview"
     },
     {
-        "PagePath": "Move/MotoOverview.md",
+        "PagePath": "Move/MoveOverview.md",
         "PaperPhoto": "2945.jpg",
-        "TagName": "Move.MotoError.Slip.Overview"
+        "TagName": "Move.MoveError.Slip.Overview"
     },
     {
-        "PagePath": "Move/MotoOverview.md",
+        "PagePath": "Move/MoveOverview.md",
         "PaperPhoto": "2948.jpg",
-        "TagName": "Move.MotoName.Overview"
+        "TagName": "Move.MoveName.Overview"
     },
     {
-        "PagePath": "Move/MotoOverview.md",
+        "PagePath": "Move/MoveOverview.md",
         "PaperPhoto": "2948.jpg",
-        "TagName": "Move.Overview.MotoHierarchy"
+        "TagName": "Move.Overview.MoveHierarchy"
     },
     {
-        "PagePath": "Move/MotoOverview.md",
+        "PagePath": "Move/MoveOverview.md",
         "PaperPhoto": "2954.jpg",
-        "TagName": "Move.Overview.MotoHierarchy.Submoto"
+        "TagName": "Move.Overview.MoveHierarchy.Submoto"
     },
     {
-        "PagePath": "Move/MotoOverview.md",
+        "PagePath": "Move/MoveOverview.md",
         "PaperPhoto": "2961.jpg",
         "TagName": "Move.Overview"
     },
     {
-        "PagePath": "Move/MotoOverview.md",
+        "PagePath": "Move/MoveOverview.md",
         "PaperPhoto": "2961.jpg",
         "TagName": "Move.Physics.Acceleration"
     },
     {
-        "PagePath": "Move/MotoOverview.md",
+        "PagePath": "Move/MoveOverview.md",
         "PaperPhoto": "3029.jpg",
-        "TagName": "Move.Overview.MotoHierarchy"
+        "TagName": "Move.Overview.MoveHierarchy"
     },
     {
-        "PagePath": "Move/MotoOverview.md",
+        "PagePath": "Move/MoveOverview.md",
         "PaperPhoto": "3060.jpg",
-        "TagName": "Move.MotoError.Slip.Overview"
+        "TagName": "Move.MoveError.Slip.Overview"
     },
     {
-        "PagePath": "Move/MotoOverview.md",
+        "PagePath": "Move/MoveOverview.md",
         "PaperPhoto": "3062.jpg",
         "TagName": "Move.Physics.Overview"
     },
     {
-        "PagePath": "Move/MotoOverview.md",
+        "PagePath": "Move/MoveOverview.md",
         "PaperPhoto": "3074.jpg",
-        "TagName": "Move.Overview.MotoHierarchy"
+        "TagName": "Move.Overview.MoveHierarchy"
     },
     {
-        "PagePath": "Move/MotoOverview.md",
+        "PagePath": "Move/MoveOverview.md",
         "PaperPhoto": "3081.jpg",
         "TagName": "Move.Overview"
     },
     {
-        "PagePath": "Move/MotoOverview.md",
+        "PagePath": "Move/MoveOverview.md",
         "PaperPhoto": "3088.jpg",
-        "TagName": "Move.Overview.MotoHierarchy.Submoto"
+        "TagName": "Move.Overview.MoveHierarchy.Submoto"
     },
     {
-        "PagePath": "Move/MotoOverview.md",
+        "PagePath": "Move/MoveOverview.md",
         "PaperPhoto": "3097.jpg",
         "TagName": "Move.Physics.Overview"
     },
     {
-        "PagePath": "Move/MotoOverview.md",
+        "PagePath": "Move/MoveOverview.md",
         "PaperPhoto": "3135.jpg",
-        "TagName": "Move.MotoName.Overview"
+        "TagName": "Move.MoveName.Overview"
     },
     {
-        "PagePath": "Move/MotoOverview.md",
+        "PagePath": "Move/MoveOverview.md",
         "PaperPhoto": "3148.jpg",
-        "TagName": "Move.Overview.MotoHierarchy"
+        "TagName": "Move.Overview.MoveHierarchy"
     },
     {
-        "PagePath": "Move/MotoOverview.md",
+        "PagePath": "Move/MoveOverview.md",
         "PaperPhoto": "3149.jpg",
-        "TagName": "Move.MotoDirection.Overview"
+        "TagName": "Move.MoveDirection.Overview"
     },
     {
-        "PagePath": "Move/MotoOverview.md",
+        "PagePath": "Move/MoveOverview.md",
         "PaperPhoto": "3149.jpg",
-        "TagName": "Move.MotoName.Overview"
+        "TagName": "Move.MoveName.Overview"
     },
     {
-        "PagePath": "Move/MotoOverview.md",
+        "PagePath": "Move/MoveOverview.md",
         "PaperPhoto": "3149.jpg",
-        "TagName": "Move.Overview.MotoHierarchy.Submoto"
+        "TagName": "Move.Overview.MoveHierarchy.Submoto"
     },
     {
-        "PagePath": "Move/MotoOverview.md",
+        "PagePath": "Move/MoveOverview.md",
         "PaperPhoto": "3217.jpg",
-        "TagName": "Move.Overview.MotoHierarchy.Submoto"
+        "TagName": "Move.Overview.MoveHierarchy.Submoto"
     },
     {
-        "PagePath": "Move/MotoOverview.md",
+        "PagePath": "Move/MoveOverview.md",
         "PaperPhoto": "3225.jpg",
         "TagName": "Move.Physics.Friction"
     },
     {
-        "PagePath": "Move/MotoOverview.md",
+        "PagePath": "Move/MoveOverview.md",
         "PaperPhoto": "3227.jpg",
-        "TagName": "Move.MotoError.Slip.Overview"
+        "TagName": "Move.MoveError.Slip.Overview"
     },
     {
-        "PagePath": "Move/MotoOverview.md",
+        "PagePath": "Move/MoveOverview.md",
         "PaperPhoto": "3240.jpg",
-        "TagName": "Move.MotoError.Slip.Overview"
+        "TagName": "Move.MoveError.Slip.Overview"
     },
     {
-        "PagePath": "Move/MotoOverview.md",
+        "PagePath": "Move/MoveOverview.md",
         "PaperPhoto": "3245.jpg",
         "TagName": "Move.Overview"
     },
     {
-        "PagePath": "Move/MotoOverview.md",
+        "PagePath": "Move/MoveOverview.md",
         "PaperPhoto": "3245.jpg",
-        "TagName": "Move.Overview.MotoHierarchy.Submoto"
+        "TagName": "Move.Overview.MoveHierarchy.Submoto"
     },
     {
-        "PagePath": "Move/MotoOverview.md",
+        "PagePath": "Move/MoveOverview.md",
         "PaperPhoto": "3245.jpg",
-        "TagName": "Move.Overview.MotoHierarchy.Supermoto"
+        "TagName": "Move.Overview.MoveHierarchy.Supermoto"
     },
     {
-        "PagePath": "Move/MotoOverview.md",
+        "PagePath": "Move/MoveOverview.md",
         "PaperPhoto": "90012.jpg",
-        "TagName": "Move.MotoComposition.MotoSelection.MotoComparison"
+        "TagName": "Move.MoveComposition.MoveSelection.MoveComparison"
     },
     {
-        "PagePath": "Move/MotoOverview.md",
+        "PagePath": "Move/MoveOverview.md",
         "PaperPhoto": "90013.jpg",
-        "TagName": "Move.MotoFrequency"
+        "TagName": "Move.MoveFrequency"
     },
     {
-        "PagePath": "Move/MotoOverview.md",
+        "PagePath": "Move/MoveOverview.md",
         "PaperPhoto": "90014.jpg",
-        "TagName": "Move.MotoComposition.MotoSelection"
+        "TagName": "Move.MoveComposition.MoveSelection"
     },
     {
-        "PagePath": "Move/MotoOverview.md",
+        "PagePath": "Move/MoveOverview.md",
         "PaperPhoto": "90017.jpg",
-        "TagName": "Move.MotoFrequency"
+        "TagName": "Move.MoveFrequency"
     },
     {
-        "PagePath": "Move/MotoOverview.md",
+        "PagePath": "Move/MoveOverview.md",
         "PaperPhoto": "90042.jpg",
-        "TagName": "Move.MotoDirection.RelativeDirection.PerpendicularTo"
+        "TagName": "Move.MoveDirection.RelativeDirection.PerpendicularTo"
     },
     {
-        "PagePath": "Move/MotoOverview.md",
+        "PagePath": "Move/MoveOverview.md",
         "PaperPhoto": "90042.jpg",
-        "TagName": "Move.MotoPlane"
+        "TagName": "Move.MovePlane"
     },
     {
-        "PagePath": "Move/MotoOverview.md",
+        "PagePath": "Move/MoveOverview.md",
         "PaperPhoto": "90042.jpg",
-        "TagName": "Move.MotoPoint.Overview"
+        "TagName": "Move.MovePoint.Overview"
     },
     {
-        "PagePath": "Move/MotoOverview.md",
+        "PagePath": "Move/MoveOverview.md",
         "PaperPhoto": "90043.jpg",
-        "TagName": "Move.MotoAttributes.MotoShape.CircleMoto"
+        "TagName": "Move.MoveAttributes.MoveShape.CircleMove"
     },
     {
-        "PagePath": "Move/MotoOverview.md",
+        "PagePath": "Move/MoveOverview.md",
         "PaperPhoto": "90043.jpg",
-        "TagName": "Move.MotoAttributes.MotoShape.SquareMoto"
+        "TagName": "Move.MoveAttributes.MoveShape.SquareMove"
     },
     {
-        "PagePath": "Move/MotoOverview.md",
+        "PagePath": "Move/MoveOverview.md",
         "PaperPhoto": "90043.jpg",
-        "TagName": "Move.MotoAttributes.MotoShape.TriangleMoto"
+        "TagName": "Move.MoveAttributes.MoveShape.TriangleMove"
     },
     {
-        "PagePath": "Move/MotoOverview.md",
+        "PagePath": "Move/MoveOverview.md",
         "PaperPhoto": "90043.jpg",
-        "TagName": "Move.MotoShape"
+        "TagName": "Move.MoveShape"
     },
     {
-        "PagePath": "Move/MotoOverview.md",
+        "PagePath": "Move/MoveOverview.md",
         "PaperPhoto": "90044.jpg",
-        "TagName": "Move.MotoAttributes.MotoPermutation"
+        "TagName": "Move.MoveAttributes.MovePermutation"
     },
     {
-        "PagePath": "Move/MotoOverview.md",
+        "PagePath": "Move/MoveOverview.md",
         "PaperPhoto": "90044.jpg",
-        "TagName": "Move.MotoSpace.Overview"
+        "TagName": "Move.MoveSpace.Overview"
     },
     {
-        "PagePath": "Move/MotoOverview.md",
+        "PagePath": "Move/MoveOverview.md",
         "PaperPhoto": "Video_003.mp4",
-        "TagName": "Move.MotoError.DroppedTree"
+        "TagName": "Move.MoveError.DroppedTree"
     },
     {
-        "PagePath": "Move/MotoOverview.md",
+        "PagePath": "Move/MoveOverview.md",
         "PaperPhoto": "Video_009.mp4",
-        "TagName": "Move.MotoError.DroppedTree"
+        "TagName": "Move.MoveError.DroppedTree"
     },
     {
-        "PagePath": "Move/MotoOverview.md",
+        "PagePath": "Move/MoveOverview.md",
         "PaperPhoto": "Video_015.mp4",
-        "TagName": "Move.MotoAttributes.MotoType.PushMoto"
+        "TagName": "Move.MoveAttributes.MoveType.PushMove"
     },
     {
-        "PagePath": "Move/MotoPhrase/Overview.md",
+        "PagePath": "Move/MovePhrase/Overview.md",
         "PaperPhoto": "0253.jpg",
-        "TagName": "Move.MotoPhrase"
+        "TagName": "Move.MovePhrase"
     },
     {
-        "PagePath": "Move/MotoPhrase/Overview.md",
+        "PagePath": "Move/MovePhrase/Overview.md",
         "PaperPhoto": "0298.jpg",
-        "TagName": "Move.MotoPhrase"
+        "TagName": "Move.MovePhrase"
     },
     {
-        "PagePath": "Move/MotoPhrase/Overview.md",
+        "PagePath": "Move/MovePhrase/Overview.md",
         "PaperPhoto": "0446.jpg",
-        "TagName": "Move.MotoPhrase.MotoRhythm"
+        "TagName": "Move.MovePhrase.MoveRhythm"
     },
     {
-        "PagePath": "Move/MotoPhrase/Overview.md",
+        "PagePath": "Move/MovePhrase/Overview.md",
         "PaperPhoto": "0448.jpg",
-        "TagName": "Move.MotoPhrase.MotoTempo"
+        "TagName": "Move.MovePhrase.MoveTempo"
     },
     {
-        "PagePath": "Move/MotoPhrase/Overview.md",
+        "PagePath": "Move/MovePhrase/Overview.md",
         "PaperPhoto": "0448.jpg",
-        "TagName": "Move.MotoPhrase.PlantingPhrase"
+        "TagName": "Move.MovePhrase.PlantingPhrase"
     },
     {
-        "PagePath": "Move/MotoPhrase/Overview.md",
+        "PagePath": "Move/MovePhrase/Overview.md",
         "PaperPhoto": "0548.jpg",
-        "TagName": "Move.MotoPhrase.MotoTempo"
+        "TagName": "Move.MovePhrase.MoveTempo"
     },
     {
-        "PagePath": "Move/MotoPhrase/Overview.md",
+        "PagePath": "Move/MovePhrase/Overview.md",
         "PaperPhoto": "0596.jpg",
-        "TagName": "Move.MotoPhrase.MotoOverlap"
+        "TagName": "Move.MovePhrase.MoveOverlap"
     },
     {
-        "PagePath": "Move/MotoPhrase/Overview.md",
+        "PagePath": "Move/MovePhrase/Overview.md",
         "PaperPhoto": "0596.jpg",
-        "TagName": "Move.MotoPhrase.MotoPhraseVariation"
+        "TagName": "Move.MovePhrase.MovePhraseVariation"
     },
     {
-        "PagePath": "Move/MotoPhrase/Overview.md",
+        "PagePath": "Move/MovePhrase/Overview.md",
         "PaperPhoto": "0596.jpg",
-        "TagName": "Move.MotoPhrase.MotoShapePhrase.MotoShapeOverlap"
+        "TagName": "Move.MovePhrase.MoveShapePhrase.MoveShapeOverlap"
     },
     {
-        "PagePath": "Move/MotoPhrase/Overview.md",
+        "PagePath": "Move/MovePhrase/Overview.md",
         "PaperPhoto": "0600.jpg",
-        "TagName": "Move.MotoPhrase.MotoPhraseArea"
+        "TagName": "Move.MovePhrase.MovePhraseArea"
     },
     {
-        "PagePath": "Move/MotoPhrase/Overview.md",
+        "PagePath": "Move/MovePhrase/Overview.md",
         "PaperPhoto": "0600.jpg",
-        "TagName": "Move.MotoPhrase.MotoPhraseVariation"
+        "TagName": "Move.MovePhrase.MovePhraseVariation"
     },
     {
-        "PagePath": "Move/MotoPhrase/Overview.md",
+        "PagePath": "Move/MovePhrase/Overview.md",
         "PaperPhoto": "0648.jpg",
-        "TagName": "Move.MotoPhrase.CurrentMoto"
+        "TagName": "Move.MovePhrase.CurrentMove"
     },
     {
-        "PagePath": "Move/MotoPhrase/Overview.md",
+        "PagePath": "Move/MovePhrase/Overview.md",
         "PaperPhoto": "0705.jpg",
-        "TagName": "Move.MotoPhrase"
+        "TagName": "Move.MovePhrase"
     },
     {
-        "PagePath": "Move/MotoPhrase/Overview.md",
+        "PagePath": "Move/MovePhrase/Overview.md",
         "PaperPhoto": "0747.jpg",
-        "TagName": "Move.MotoPhrase.TransitionMoto"
+        "TagName": "Move.MovePhrase.TransitionMove"
     },
     {
-        "PagePath": "Move/MotoPhrase/Overview.md",
+        "PagePath": "Move/MovePhrase/Overview.md",
         "PaperPhoto": "0756.jpg",
-        "TagName": "Move.MotoPhrase.MotoDensity"
+        "TagName": "Move.MovePhrase.MoveDensity"
     },
     {
-        "PagePath": "Move/MotoPhrase/Overview.md",
+        "PagePath": "Move/MovePhrase/Overview.md",
         "PaperPhoto": "0784.jpg",
-        "TagName": "Move.MotoPhrase.MotoCycle"
+        "TagName": "Move.MovePhrase.MoveCycle"
     },
     {
-        "PagePath": "Move/MotoPhrase/Overview.md",
+        "PagePath": "Move/MovePhrase/Overview.md",
         "PaperPhoto": "0784.jpg",
-        "TagName": "Move.MotoPhrase.MotoRhythm"
+        "TagName": "Move.MovePhrase.MoveRhythm"
     },
     {
-        "PagePath": "Move/MotoPhrase/Overview.md",
+        "PagePath": "Move/MovePhrase/Overview.md",
         "PaperPhoto": "0877.jpg",
-        "TagName": "Move.MotoPhrase.MotoDensity"
+        "TagName": "Move.MovePhrase.MoveDensity"
     },
     {
-        "PagePath": "Move/MotoPhrase/Overview.md",
+        "PagePath": "Move/MovePhrase/Overview.md",
         "PaperPhoto": "0877.jpg",
-        "TagName": "Move.MotoPhrase.MotoPhraseArea"
+        "TagName": "Move.MovePhrase.MovePhraseArea"
     },
     {
-        "PagePath": "Move/MotoPhrase/Overview.md",
+        "PagePath": "Move/MovePhrase/Overview.md",
         "PaperPhoto": "0877.jpg",
-        "TagName": "Move.MotoPhrase.MotoShapePhrase.MotoShapeOverlap"
+        "TagName": "Move.MovePhrase.MoveShapePhrase.MoveShapeOverlap"
     },
     {
-        "PagePath": "Move/MotoPhrase/Overview.md",
+        "PagePath": "Move/MovePhrase/Overview.md",
         "PaperPhoto": "1011.jpg",
-        "TagName": "Move.MotoPhrase.MotoLinePhrase"
+        "TagName": "Move.MovePhrase.MoveLinePhrase"
     },
     {
-        "PagePath": "Move/MotoPhrase/Overview.md",
+        "PagePath": "Move/MovePhrase/Overview.md",
         "PaperPhoto": "1011.jpg",
-        "TagName": "Move.MotoPhrase.SubmotoPhrase"
+        "TagName": "Move.MovePhrase.SubmotoPhrase"
     },
     {
-        "PagePath": "Move/MotoPhrase/Overview.md",
+        "PagePath": "Move/MovePhrase/Overview.md",
         "PaperPhoto": "1019.jpg",
-        "TagName": "Move.MotoPhrase.MotoShapePhrase.MotoShapeOverlap"
+        "TagName": "Move.MovePhrase.MoveShapePhrase.MoveShapeOverlap"
     },
     {
-        "PagePath": "Move/MotoPhrase/Overview.md",
+        "PagePath": "Move/MovePhrase/Overview.md",
         "PaperPhoto": "1022.jpg",
-        "TagName": "Move.MotoPhrase.MotoOverlap"
+        "TagName": "Move.MovePhrase.MoveOverlap"
     },
     {
-        "PagePath": "Move/MotoPhrase/Overview.md",
+        "PagePath": "Move/MovePhrase/Overview.md",
         "PaperPhoto": "1022.jpg",
-        "TagName": "Move.MotoPhrase.MotoSpacePhrase.MotoSpaceOverlap"
+        "TagName": "Move.MovePhrase.MoveSpacePhrase.MoveSpaceOverlap"
     },
     {
-        "PagePath": "Move/MotoPhrase/Overview.md",
+        "PagePath": "Move/MovePhrase/Overview.md",
         "PaperPhoto": "1050.jpg",
-        "TagName": "Move.MotoPhrase.TransitionMoto"
+        "TagName": "Move.MovePhrase.TransitionMove"
     },
     {
-        "PagePath": "Move/MotoPhrase/Overview.md",
+        "PagePath": "Move/MovePhrase/Overview.md",
         "PaperPhoto": "1075.jpg",
-        "TagName": "Move.MotoPhrase.AnteMoto"
+        "TagName": "Move.MovePhrase.AnteMove"
     },
     {
-        "PagePath": "Move/MotoPhrase/Overview.md",
+        "PagePath": "Move/MovePhrase/Overview.md",
         "PaperPhoto": "1075.jpg",
-        "TagName": "Move.MotoPhrase.ContiguousMoto"
+        "TagName": "Move.MovePhrase.ContiguousMove"
     },
     {
-        "PagePath": "Move/MotoPhrase/Overview.md",
+        "PagePath": "Move/MovePhrase/Overview.md",
         "PaperPhoto": "1075.jpg",
-        "TagName": "Move.MotoPhrase.PostMoto"
+        "TagName": "Move.MovePhrase.PostMove"
     },
     {
-        "PagePath": "Move/MotoPhrase/Overview.md",
+        "PagePath": "Move/MovePhrase/Overview.md",
         "PaperPhoto": "1273.jpg",
-        "TagName": "Move.MotoPhrase.MotoPhraseError"
+        "TagName": "Move.MovePhrase.MovePhraseError"
     },
     {
-        "PagePath": "Move/MotoPhrase/Overview.md",
+        "PagePath": "Move/MovePhrase/Overview.md",
         "PaperPhoto": "1318.jpg",
-        "TagName": "Move.MotoPhrase"
+        "TagName": "Move.MovePhrase"
     },
     {
-        "PagePath": "Move/MotoPhrase/Overview.md",
+        "PagePath": "Move/MovePhrase/Overview.md",
         "PaperPhoto": "1318.jpg",
-        "TagName": "Move.MotoPhrase.AnteMoto"
+        "TagName": "Move.MovePhrase.AnteMove"
     },
     {
-        "PagePath": "Move/MotoPhrase/Overview.md",
+        "PagePath": "Move/MovePhrase/Overview.md",
         "PaperPhoto": "1318.jpg",
-        "TagName": "Move.MotoPhrase.PostMoto"
+        "TagName": "Move.MovePhrase.PostMove"
     },
     {
-        "PagePath": "Move/MotoPhrase/Overview.md",
+        "PagePath": "Move/MovePhrase/Overview.md",
         "PaperPhoto": "1318.jpg",
-        "TagName": "Move.MotoPhrase.TransitionMoto"
+        "TagName": "Move.MovePhrase.TransitionMove"
     },
     {
-        "PagePath": "Move/MotoPhrase/Overview.md",
+        "PagePath": "Move/MovePhrase/Overview.md",
         "PaperPhoto": "1321.jpg",
-        "TagName": "Move.MotoPhrase.SimultaneousMoto"
+        "TagName": "Move.MovePhrase.SimultaneousMove"
     },
     {
-        "PagePath": "Move/MotoPhrase/Overview.md",
+        "PagePath": "Move/MovePhrase/Overview.md",
         "PaperPhoto": "1342.jpg",
-        "TagName": "Move.MotoPhrase.MotoChunk.MotoPhrase"
+        "TagName": "Move.MovePhrase.MoveChunk.MovePhrase"
     },
     {
-        "PagePath": "Move/MotoPhrase/Overview.md",
+        "PagePath": "Move/MovePhrase/Overview.md",
         "PaperPhoto": "1342.jpg",
-        "TagName": "Move.MotoPhrase.MotoCycle.DoUntil"
+        "TagName": "Move.MovePhrase.MoveCycle.DoUntil"
     },
     {
-        "PagePath": "Move/MotoPhrase/Overview.md",
+        "PagePath": "Move/MovePhrase/Overview.md",
         "PaperPhoto": "1342.jpg",
-        "TagName": "Move.MotoPhrase.PostMoto"
+        "TagName": "Move.MovePhrase.PostMove"
     },
     {
-        "PagePath": "Move/MotoPhrase/Overview.md",
+        "PagePath": "Move/MovePhrase/Overview.md",
         "PaperPhoto": "1343.jpg",
-        "TagName": "Move.MotoPhrase.AnteMoto"
+        "TagName": "Move.MovePhrase.AnteMove"
     },
     {
-        "PagePath": "Move/MotoPhrase/Overview.md",
+        "PagePath": "Move/MovePhrase/Overview.md",
         "PaperPhoto": "1343.jpg",
-        "TagName": "Move.MotoPhrase.PostMoto"
+        "TagName": "Move.MovePhrase.PostMove"
     },
     {
-        "PagePath": "Move/MotoPhrase/Overview.md",
+        "PagePath": "Move/MovePhrase/Overview.md",
         "PaperPhoto": "1345.jpg",
-        "TagName": "Move.MotoPhrase.MotoChunk.MotoPhrase"
+        "TagName": "Move.MovePhrase.MoveChunk.MovePhrase"
     },
     {
-        "PagePath": "Move/MotoPhrase/Overview.md",
+        "PagePath": "Move/MovePhrase/Overview.md",
         "PaperPhoto": "1352.jpg",
-        "TagName": "Move.MotoPhrase"
+        "TagName": "Move.MovePhrase"
     },
     {
-        "PagePath": "Move/MotoPhrase/Overview.md",
+        "PagePath": "Move/MovePhrase/Overview.md",
         "PaperPhoto": "1352.jpg",
-        "TagName": "Move.MotoPhrase.AnteMoto"
+        "TagName": "Move.MovePhrase.AnteMove"
     },
     {
-        "PagePath": "Move/MotoPhrase/Overview.md",
+        "PagePath": "Move/MovePhrase/Overview.md",
         "PaperPhoto": "1352.jpg",
-        "TagName": "Move.MotoPhrase.PostMoto"
+        "TagName": "Move.MovePhrase.PostMove"
     },
     {
-        "PagePath": "Move/MotoPhrase/Overview.md",
+        "PagePath": "Move/MovePhrase/Overview.md",
         "PaperPhoto": "1372.jpg",
-        "TagName": "Move.MotoPhrase"
+        "TagName": "Move.MovePhrase"
     },
     {
-        "PagePath": "Move/MotoPhrase/Overview.md",
+        "PagePath": "Move/MovePhrase/Overview.md",
         "PaperPhoto": "1372.jpg",
-        "TagName": "Move.MotoPhrase.MotoTempo"
+        "TagName": "Move.MovePhrase.MoveTempo"
     },
     {
-        "PagePath": "Move/MotoPhrase/Overview.md",
+        "PagePath": "Move/MovePhrase/Overview.md",
         "PaperPhoto": "1375.jpg",
-        "TagName": "Move.MotoPhrase.SimultaneousMoto"
+        "TagName": "Move.MovePhrase.SimultaneousMove"
     },
     {
-        "PagePath": "Move/MotoPhrase/Overview.md",
+        "PagePath": "Move/MovePhrase/Overview.md",
         "PaperPhoto": "1379.jpg",
-        "TagName": "Move.MotoPhrase.MotoDensity"
+        "TagName": "Move.MovePhrase.MoveDensity"
     },
     {
-        "PagePath": "Move/MotoPhrase/Overview.md",
+        "PagePath": "Move/MovePhrase/Overview.md",
         "PaperPhoto": "1379.jpg",
-        "TagName": "Move.MotoPhrase.TransitionMoto"
+        "TagName": "Move.MovePhrase.TransitionMove"
     },
     {
-        "PagePath": "Move/MotoPhrase/Overview.md",
+        "PagePath": "Move/MovePhrase/Overview.md",
         "PaperPhoto": "1386.jpg",
-        "TagName": "Move.MotoPhrase.MotoChunk.MotoPhrase"
+        "TagName": "Move.MovePhrase.MoveChunk.MovePhrase"
     },
     {
-        "PagePath": "Move/MotoPhrase/Overview.md",
+        "PagePath": "Move/MovePhrase/Overview.md",
         "PaperPhoto": "1394.jpg",
-        "TagName": "Move.MotoPhrase"
+        "TagName": "Move.MovePhrase"
     },
     {
-        "PagePath": "Move/MotoPhrase/Overview.md",
+        "PagePath": "Move/MovePhrase/Overview.md",
         "PaperPhoto": "1424.jpg",
-        "TagName": "Move.MotoPhrase.MotoCycle"
+        "TagName": "Move.MovePhrase.MoveCycle"
     },
     {
-        "PagePath": "Move/MotoPhrase/Overview.md",
+        "PagePath": "Move/MovePhrase/Overview.md",
         "PaperPhoto": "1447.jpg",
-        "TagName": "Move.MotoPhrase.MotoOverlap"
+        "TagName": "Move.MovePhrase.MoveOverlap"
     },
     {
-        "PagePath": "Move/MotoPhrase/Overview.md",
+        "PagePath": "Move/MovePhrase/Overview.md",
         "PaperPhoto": "1468.jpg",
-        "TagName": "Move.MotoPhrase.MotoDensity"
+        "TagName": "Move.MovePhrase.MoveDensity"
     },
     {
-        "PagePath": "Move/MotoPhrase/Overview.md",
+        "PagePath": "Move/MovePhrase/Overview.md",
         "PaperPhoto": "1478.jpg",
-        "TagName": "Move.MotoPhrase"
+        "TagName": "Move.MovePhrase"
     },
     {
-        "PagePath": "Move/MotoPhrase/Overview.md",
+        "PagePath": "Move/MovePhrase/Overview.md",
         "PaperPhoto": "1478.jpg",
-        "TagName": "Move.MotoPhrase.MotoNestedPhrase"
+        "TagName": "Move.MovePhrase.MoveNestedPhrase"
     },
     {
-        "PagePath": "Move/MotoPhrase/Overview.md",
+        "PagePath": "Move/MovePhrase/Overview.md",
         "PaperPhoto": "1521.jpg",
-        "TagName": "Move.MotoPhrase"
+        "TagName": "Move.MovePhrase"
     },
     {
-        "PagePath": "Move/MotoPhrase/Overview.md",
+        "PagePath": "Move/MovePhrase/Overview.md",
         "PaperPhoto": "1522.jpg",
-        "TagName": "Move.MotoPhrase"
+        "TagName": "Move.MovePhrase"
     },
     {
-        "PagePath": "Move/MotoPhrase/Overview.md",
+        "PagePath": "Move/MovePhrase/Overview.md",
         "PaperPhoto": "1522.jpg",
-        "TagName": "Move.MotoPhrase.HandPhrase"
+        "TagName": "Move.MovePhrase.HandPhrase"
     },
     {
-        "PagePath": "Move/MotoPhrase/Overview.md",
+        "PagePath": "Move/MovePhrase/Overview.md",
         "PaperPhoto": "1527.jpg",
-        "TagName": "Move.MotoPhrase"
+        "TagName": "Move.MovePhrase"
     },
     {
-        "PagePath": "Move/MotoPhrase/Overview.md",
+        "PagePath": "Move/MovePhrase/Overview.md",
         "PaperPhoto": "1561.jpg",
-        "TagName": "Move.MotoPhrase.MotoDensity"
+        "TagName": "Move.MovePhrase.MoveDensity"
     },
     {
-        "PagePath": "Move/MotoPhrase/Overview.md",
+        "PagePath": "Move/MovePhrase/Overview.md",
         "PaperPhoto": "1572.jpg",
-        "TagName": "Move.MotoPhrase"
+        "TagName": "Move.MovePhrase"
     },
     {
-        "PagePath": "Move/MotoPhrase/Overview.md",
+        "PagePath": "Move/MovePhrase/Overview.md",
         "PaperPhoto": "1573.jpg",
-        "TagName": "Move.MotoPhrase.MotoTempo"
+        "TagName": "Move.MovePhrase.MoveTempo"
     },
     {
-        "PagePath": "Move/MotoPhrase/Overview.md",
+        "PagePath": "Move/MovePhrase/Overview.md",
         "PaperPhoto": "1581.jpg",
-        "TagName": "Move.MotoPhrase"
+        "TagName": "Move.MovePhrase"
     },
     {
-        "PagePath": "Move/MotoPhrase/Overview.md",
+        "PagePath": "Move/MovePhrase/Overview.md",
         "PaperPhoto": "1597.jpg",
-        "TagName": "Move.MotoPhrase.SimultaneousMoto"
+        "TagName": "Move.MovePhrase.SimultaneousMove"
     },
     {
-        "PagePath": "Move/MotoPhrase/Overview.md",
+        "PagePath": "Move/MovePhrase/Overview.md",
         "PaperPhoto": "1597.jpg",
-        "TagName": "Move.MotoPhrase.TransitionMoto"
+        "TagName": "Move.MovePhrase.TransitionMove"
     },
     {
-        "PagePath": "Move/MotoPhrase/Overview.md",
+        "PagePath": "Move/MovePhrase/Overview.md",
         "PaperPhoto": "1599.jpg",
-        "TagName": "Move.MotoPhrase"
+        "TagName": "Move.MovePhrase"
     },
     {
-        "PagePath": "Move/MotoPhrase/Overview.md",
+        "PagePath": "Move/MovePhrase/Overview.md",
         "PaperPhoto": "1603.jpg",
-        "TagName": "Move.MotoPhrase"
+        "TagName": "Move.MovePhrase"
     },
     {
-        "PagePath": "Move/MotoPhrase/Overview.md",
+        "PagePath": "Move/MovePhrase/Overview.md",
         "PaperPhoto": "1656.jpg",
-        "TagName": "Move.MotoPhrase"
+        "TagName": "Move.MovePhrase"
     },
     {
-        "PagePath": "Move/MotoPhrase/Overview.md",
+        "PagePath": "Move/MovePhrase/Overview.md",
         "PaperPhoto": "1656.jpg",
-        "TagName": "Move.MotoPhrase.ContiguousMoto"
+        "TagName": "Move.MovePhrase.ContiguousMove"
     },
     {
-        "PagePath": "Move/MotoPhrase/Overview.md",
+        "PagePath": "Move/MovePhrase/Overview.md",
         "PaperPhoto": "1656.jpg",
-        "TagName": "Move.MotoPhrase.MotoOverlap"
+        "TagName": "Move.MovePhrase.MoveOverlap"
     },
     {
-        "PagePath": "Move/MotoPhrase/Overview.md",
+        "PagePath": "Move/MovePhrase/Overview.md",
         "PaperPhoto": "1658.jpg",
-        "TagName": "Move.MotoPhrase"
+        "TagName": "Move.MovePhrase"
     },
     {
-        "PagePath": "Move/MotoPhrase/Overview.md",
+        "PagePath": "Move/MovePhrase/Overview.md",
         "PaperPhoto": "1673.jpg",
-        "TagName": "Move.MotoPhrase"
+        "TagName": "Move.MovePhrase"
     },
     {
-        "PagePath": "Move/MotoPhrase/Overview.md",
+        "PagePath": "Move/MovePhrase/Overview.md",
         "PaperPhoto": "1674.jpg",
-        "TagName": "Move.MotoPhrase"
+        "TagName": "Move.MovePhrase"
     },
     {
-        "PagePath": "Move/MotoPhrase/Overview.md",
+        "PagePath": "Move/MovePhrase/Overview.md",
         "PaperPhoto": "1699.jpg",
-        "TagName": "Move.MotoPhrase"
+        "TagName": "Move.MovePhrase"
     },
     {
-        "PagePath": "Move/MotoPhrase/Overview.md",
+        "PagePath": "Move/MovePhrase/Overview.md",
         "PaperPhoto": "1702.jpg",
-        "TagName": "Move.MotoPhrase.MotoTempo"
+        "TagName": "Move.MovePhrase.MoveTempo"
     },
     {
-        "PagePath": "Move/MotoPhrase/Overview.md",
+        "PagePath": "Move/MovePhrase/Overview.md",
         "PaperPhoto": "1707.jpg",
-        "TagName": "Move.MotoPhrase"
+        "TagName": "Move.MovePhrase"
     },
     {
-        "PagePath": "Move/MotoPhrase/Overview.md",
+        "PagePath": "Move/MovePhrase/Overview.md",
         "PaperPhoto": "1730.jpg",
-        "TagName": "Move.MotoPhrase.MotoOverlap"
+        "TagName": "Move.MovePhrase.MoveOverlap"
     },
     {
-        "PagePath": "Move/MotoPhrase/Overview.md",
+        "PagePath": "Move/MovePhrase/Overview.md",
         "PaperPhoto": "1803.jpg",
-        "TagName": "Move.MotoPhrase.MotoRhythm"
+        "TagName": "Move.MovePhrase.MoveRhythm"
     },
     {
-        "PagePath": "Move/MotoPhrase/Overview.md",
+        "PagePath": "Move/MovePhrase/Overview.md",
         "PaperPhoto": "1804.jpg",
-        "TagName": "Move.MotoPhrase.MotoRhythm"
+        "TagName": "Move.MovePhrase.MoveRhythm"
     },
     {
-        "PagePath": "Move/MotoPhrase/Overview.md",
+        "PagePath": "Move/MovePhrase/Overview.md",
         "PaperPhoto": "1804.jpg",
-        "TagName": "Move.MotoPhrase.MotoTempo"
+        "TagName": "Move.MovePhrase.MoveTempo"
     },
     {
-        "PagePath": "Move/MotoPhrase/Overview.md",
+        "PagePath": "Move/MovePhrase/Overview.md",
         "PaperPhoto": "1804.jpg",
-        "TagName": "Move.MotoPhrase.SimultaneousMoto"
+        "TagName": "Move.MovePhrase.SimultaneousMove"
     },
     {
-        "PagePath": "Move/MotoPhrase/Overview.md",
+        "PagePath": "Move/MovePhrase/Overview.md",
         "PaperPhoto": "1805.jpg",
-        "TagName": "Move.MotoPhrase"
+        "TagName": "Move.MovePhrase"
     },
     {
-        "PagePath": "Move/MotoPhrase/Overview.md",
+        "PagePath": "Move/MovePhrase/Overview.md",
         "PaperPhoto": "1806.jpg",
-        "TagName": "Move.MotoPhrase.SimultaneousMoto"
+        "TagName": "Move.MovePhrase.SimultaneousMove"
     },
     {
-        "PagePath": "Move/MotoPhrase/Overview.md",
+        "PagePath": "Move/MovePhrase/Overview.md",
         "PaperPhoto": "1807.jpg",
-        "TagName": "Move.MotoPhrase"
+        "TagName": "Move.MovePhrase"
     },
     {
-        "PagePath": "Move/MotoPhrase/Overview.md",
+        "PagePath": "Move/MovePhrase/Overview.md",
         "PaperPhoto": "1807.jpg",
-        "TagName": "Move.MotoPhrase.MotoRhythm"
+        "TagName": "Move.MovePhrase.MoveRhythm"
     },
     {
-        "PagePath": "Move/MotoPhrase/Overview.md",
+        "PagePath": "Move/MovePhrase/Overview.md",
         "PaperPhoto": "1808.jpg",
-        "TagName": "Move.MotoPhrase.MotoDensity"
+        "TagName": "Move.MovePhrase.MoveDensity"
     },
     {
-        "PagePath": "Move/MotoPhrase/Overview.md",
+        "PagePath": "Move/MovePhrase/Overview.md",
         "PaperPhoto": "1808.jpg",
-        "TagName": "Move.MotoPhrase.MotoEndurance"
+        "TagName": "Move.MovePhrase.MoveEndurance"
     },
     {
-        "PagePath": "Move/MotoPhrase/Overview.md",
+        "PagePath": "Move/MovePhrase/Overview.md",
         "PaperPhoto": "1808.jpg",
-        "TagName": "Move.MotoPhrase.MotoRhythm"
+        "TagName": "Move.MovePhrase.MoveRhythm"
     },
     {
-        "PagePath": "Move/MotoPhrase/Overview.md",
+        "PagePath": "Move/MovePhrase/Overview.md",
         "PaperPhoto": "1808.jpg",
-        "TagName": "Move.MotoPhrase.MotoTempo"
+        "TagName": "Move.MovePhrase.MoveTempo"
     },
     {
-        "PagePath": "Move/MotoPhrase/Overview.md",
+        "PagePath": "Move/MovePhrase/Overview.md",
         "PaperPhoto": "1815.jpg",
-        "TagName": "Move.MotoPhrase.InitiationMoto"
+        "TagName": "Move.MovePhrase.InitiationMove"
     },
     {
-        "PagePath": "Move/MotoPhrase/Overview.md",
+        "PagePath": "Move/MovePhrase/Overview.md",
         "PaperPhoto": "1817.jpg",
-        "TagName": "Move.MotoPhrase"
+        "TagName": "Move.MovePhrase"
     },
     {
-        "PagePath": "Move/MotoPhrase/Overview.md",
+        "PagePath": "Move/MovePhrase/Overview.md",
         "PaperPhoto": "1817.jpg",
-        "TagName": "Move.MotoPhrase.ContiguousMoto"
+        "TagName": "Move.MovePhrase.ContiguousMove"
     },
     {
-        "PagePath": "Move/MotoPhrase/Overview.md",
+        "PagePath": "Move/MovePhrase/Overview.md",
         "PaperPhoto": "1817.jpg",
-        "TagName": "Move.MotoPhrase.MotoNestedPhrase"
+        "TagName": "Move.MovePhrase.MoveNestedPhrase"
     },
     {
-        "PagePath": "Move/MotoPhrase/Overview.md",
+        "PagePath": "Move/MovePhrase/Overview.md",
         "PaperPhoto": "1817.jpg",
-        "TagName": "Move.MotoPhrase.MotoOverlap"
+        "TagName": "Move.MovePhrase.MoveOverlap"
     },
     {
-        "PagePath": "Move/MotoPhrase/Overview.md",
+        "PagePath": "Move/MovePhrase/Overview.md",
         "PaperPhoto": "1830.jpg",
-        "TagName": "Move.MotoPhrase"
+        "TagName": "Move.MovePhrase"
     },
     {
-        "PagePath": "Move/MotoPhrase/Overview.md",
+        "PagePath": "Move/MovePhrase/Overview.md",
         "PaperPhoto": "1844.jpg",
-        "TagName": "Move.MotoPhrase.Attempt"
+        "TagName": "Move.MovePhrase.Attempt"
     },
     {
-        "PagePath": "Move/MotoPhrase/Overview.md",
+        "PagePath": "Move/MovePhrase/Overview.md",
         "PaperPhoto": "1857.jpg",
-        "TagName": "Move.MotoPhrase"
+        "TagName": "Move.MovePhrase"
     },
     {
-        "PagePath": "Move/MotoPhrase/Overview.md",
+        "PagePath": "Move/MovePhrase/Overview.md",
         "PaperPhoto": "2019.jpg",
-        "TagName": "Move.MotoPhrase"
+        "TagName": "Move.MovePhrase"
     },
     {
-        "PagePath": "Move/MotoPhrase/Overview.md",
+        "PagePath": "Move/MovePhrase/Overview.md",
         "PaperPhoto": "2148.jpg",
-        "TagName": "Move.MotoPhrase"
+        "TagName": "Move.MovePhrase"
     },
     {
-        "PagePath": "Move/MotoPhrase/Overview.md",
+        "PagePath": "Move/MovePhrase/Overview.md",
         "PaperPhoto": "2192.jpg",
-        "TagName": "Move.MotoPhrase"
+        "TagName": "Move.MovePhrase"
     },
     {
-        "PagePath": "Move/MotoPhrase/Overview.md",
+        "PagePath": "Move/MovePhrase/Overview.md",
         "PaperPhoto": "2323.jpg",
-        "TagName": "Move.MotoPhrase"
+        "TagName": "Move.MovePhrase"
     },
     {
-        "PagePath": "Move/MotoPhrase/Overview.md",
+        "PagePath": "Move/MovePhrase/Overview.md",
         "PaperPhoto": "2330.jpg",
-        "TagName": "Move.MotoPhrase"
+        "TagName": "Move.MovePhrase"
     },
     {
-        "PagePath": "Move/MotoPhrase/Overview.md",
+        "PagePath": "Move/MovePhrase/Overview.md",
         "PaperPhoto": "2349.jpg",
-        "TagName": "Move.MotoPhrase"
+        "TagName": "Move.MovePhrase"
     },
     {
-        "PagePath": "Move/MotoPhrase/Overview.md",
+        "PagePath": "Move/MovePhrase/Overview.md",
         "PaperPhoto": "2355.jpg",
-        "TagName": "Move.MotoPhrase"
+        "TagName": "Move.MovePhrase"
     },
     {
-        "PagePath": "Move/MotoPhrase/Overview.md",
+        "PagePath": "Move/MovePhrase/Overview.md",
         "PaperPhoto": "2441.jpg",
-        "TagName": "Move.MotoPhrase"
+        "TagName": "Move.MovePhrase"
     },
     {
-        "PagePath": "Move/MotoPhrase/Overview.md",
+        "PagePath": "Move/MovePhrase/Overview.md",
         "PaperPhoto": "2463.jpg",
-        "TagName": "Move.MotoPhrase"
+        "TagName": "Move.MovePhrase"
     },
     {
-        "PagePath": "Move/MotoPhrase/Overview.md",
+        "PagePath": "Move/MovePhrase/Overview.md",
         "PaperPhoto": "2509.jpg",
-        "TagName": "Move.MotoPhrase"
+        "TagName": "Move.MovePhrase"
     },
     {
-        "PagePath": "Move/MotoPhrase/Overview.md",
+        "PagePath": "Move/MovePhrase/Overview.md",
         "PaperPhoto": "2530.jpg",
-        "TagName": "Move.MotoPhrase"
+        "TagName": "Move.MovePhrase"
     },
     {
-        "PagePath": "Move/MotoPhrase/Overview.md",
+        "PagePath": "Move/MovePhrase/Overview.md",
         "PaperPhoto": "2531.jpg",
-        "TagName": "Move.MotoPhrase"
+        "TagName": "Move.MovePhrase"
     },
     {
-        "PagePath": "Move/MotoPhrase/Overview.md",
+        "PagePath": "Move/MovePhrase/Overview.md",
         "PaperPhoto": "2538.jpg",
-        "TagName": "Move.MotoPhrase"
+        "TagName": "Move.MovePhrase"
     },
     {
-        "PagePath": "Move/MotoPhrase/Overview.md",
+        "PagePath": "Move/MovePhrase/Overview.md",
         "PaperPhoto": "2539.jpg",
-        "TagName": "Move.MotoPhrase"
+        "TagName": "Move.MovePhrase"
     },
     {
-        "PagePath": "Move/MotoPhrase/Overview.md",
+        "PagePath": "Move/MovePhrase/Overview.md",
         "PaperPhoto": "2541.jpg",
-        "TagName": "Move.MotoPhrase"
+        "TagName": "Move.MovePhrase"
     },
     {
-        "PagePath": "Move/MotoPhrase/Overview.md",
+        "PagePath": "Move/MovePhrase/Overview.md",
         "PaperPhoto": "2567.jpg",
-        "TagName": "Move.MotoPhrase.BaggingUpPhrase"
+        "TagName": "Move.MovePhrase.BaggingUpPhrase"
     },
     {
-        "PagePath": "Move/MotoPhrase/Overview.md",
+        "PagePath": "Move/MovePhrase/Overview.md",
         "PaperPhoto": "2869.jpg",
-        "TagName": "Move.MotoPhrase"
+        "TagName": "Move.MovePhrase"
     },
     {
-        "PagePath": "Move/MotoPhrase/Overview.md",
+        "PagePath": "Move/MovePhrase/Overview.md",
         "PaperPhoto": "2939.jpg",
-        "TagName": "Move.MotoPhrase.PlantingPhrase"
+        "TagName": "Move.MovePhrase.PlantingPhrase"
     },
     {
-        "PagePath": "Move/MotoPhrase/Overview.md",
+        "PagePath": "Move/MovePhrase/Overview.md",
         "PaperPhoto": "2944.jpg",
-        "TagName": "Move.MotoPhrase"
+        "TagName": "Move.MovePhrase"
     },
     {
-        "PagePath": "Move/MotoPhrase/Overview.md",
+        "PagePath": "Move/MovePhrase/Overview.md",
         "PaperPhoto": "2944.jpg",
-        "TagName": "Move.MotoPhrase.BaggingUpPhrase"
+        "TagName": "Move.MovePhrase.BaggingUpPhrase"
     },
     {
-        "PagePath": "Move/MotoPhrase/Overview.md",
+        "PagePath": "Move/MovePhrase/Overview.md",
         "PaperPhoto": "2945.jpg",
-        "TagName": "Move.MotoPhrase"
+        "TagName": "Move.MovePhrase"
     },
     {
-        "PagePath": "Move/MotoPhrase/Overview.md",
+        "PagePath": "Move/MovePhrase/Overview.md",
         "PaperPhoto": "3076.jpg",
-        "TagName": "Move.MotoPhrase"
+        "TagName": "Move.MovePhrase"
     },
     {
-        "PagePath": "Move/MotoPhrase/Overview.md",
+        "PagePath": "Move/MovePhrase/Overview.md",
         "PaperPhoto": "3081.jpg",
-        "TagName": "Move.MotoPhrase"
+        "TagName": "Move.MovePhrase"
     },
     {
-        "PagePath": "Move/MotoPhrase/Overview.md",
+        "PagePath": "Move/MovePhrase/Overview.md",
         "PaperPhoto": "3082.jpg",
-        "TagName": "Move.MotoPhrase"
+        "TagName": "Move.MovePhrase"
     },
     {
-        "PagePath": "Move/MotoPhrase/Overview.md",
+        "PagePath": "Move/MovePhrase/Overview.md",
         "PaperPhoto": "3097.jpg",
-        "TagName": "Move.MotoPhrase"
+        "TagName": "Move.MovePhrase"
     },
     {
-        "PagePath": "Move/MotoPhrase/Overview.md",
+        "PagePath": "Move/MovePhrase/Overview.md",
         "PaperPhoto": "3157.jpg",
-        "TagName": "Move.MotoPhrase"
+        "TagName": "Move.MovePhrase"
     },
     {
-        "PagePath": "Move/MotoPhrase/Overview.md",
+        "PagePath": "Move/MovePhrase/Overview.md",
         "PaperPhoto": "3227.jpg",
-        "TagName": "Move.MotoPhrase"
+        "TagName": "Move.MovePhrase"
     },
     {
-        "PagePath": "Move/MotoPhrase/Overview.md",
+        "PagePath": "Move/MovePhrase/Overview.md",
         "PaperPhoto": "Video_001.mp4",
-        "TagName": "Move.MotoPhrase.PlantingPhrase"
+        "TagName": "Move.MovePhrase.PlantingPhrase"
     },
     {
-        "PagePath": "Move/MotoPhrase/Overview.md",
+        "PagePath": "Move/MovePhrase/Overview.md",
         "PaperPhoto": "Video_004.mp4",
-        "TagName": "Move.MotoPhrase.BaggingUpPhrase"
+        "TagName": "Move.MovePhrase.BaggingUpPhrase"
     },
     {
-        "PagePath": "Move/MotoPhrase/Overview.md",
+        "PagePath": "Move/MovePhrase/Overview.md",
         "PaperPhoto": "Video_009.mp4",
-        "TagName": "Move.MotoPhrase.PlantingPhrase"
+        "TagName": "Move.MovePhrase.PlantingPhrase"
     },
     {
-        "PagePath": "Move/MotoPhrase/Overview.md",
+        "PagePath": "Move/MovePhrase/Overview.md",
         "PaperPhoto": "Video_013.mp4",
-        "TagName": "Move.MotoPhrase.BaggingUpPhrase"
+        "TagName": "Move.MovePhrase.BaggingUpPhrase"
     },
     {
-        "PagePath": "Move/MotoPhrase/Overview.md",
+        "PagePath": "Move/MovePhrase/Overview.md",
         "PaperPhoto": "Video_014.mp4",
-        "TagName": "Move.MotoPhrase.BaggingUpPhrase"
+        "TagName": "Move.MovePhrase.BaggingUpPhrase"
     },
     {
-        "PagePath": "Move/MotoPhrase/Overview.md",
+        "PagePath": "Move/MovePhrase/Overview.md",
         "PaperPhoto": "Video_015.mp4",
-        "TagName": "Move.MotoPhrase.BaggingUpPhrase"
+        "TagName": "Move.MovePhrase.BaggingUpPhrase"
     },
     {
-        "PagePath": "Move/ScreefMoto/Overview.md",
+        "PagePath": "Move/SkreefMove/Overview.md",
         "PaperPhoto": "1184.jpg",
-        "TagName": "Move.ScreefMove.Overview"
+        "TagName": "Move.SkreefMove.Overview"
     },
     {
-        "PagePath": "Move/ScreefMoto/Overview.md",
+        "PagePath": "Move/SkreefMove/Overview.md",
         "PaperPhoto": "2472.jpg",
-        "TagName": "Move.ScreefMove.Overview"
+        "TagName": "Move.SkreefMove.Overview"
     },
     {
-        "PagePath": "Move/ToolMoto/Bag/BagAdjustment.md",
+        "PagePath": "Move/ToolMove/Bag/BagAdjustment.md",
         "PaperPhoto": "2572.jpg",
         "TagName": "Move.ToolMove.BagMove.BagAdjustment"
     },
     {
-        "PagePath": "Move/ToolMoto/Bag/BagAdjustment.md",
+        "PagePath": "Move/ToolMove/Bag/BagAdjustment.md",
         "PaperPhoto": "Video_005.mp4",
         "TagName": "Move.ToolMove.BagMove.BagAdjustment"
     },
     {
-        "PagePath": "Move/ToolMoto/Bag/BagEmpty.md",
+        "PagePath": "Move/ToolMove/Bag/BagEmpty.md",
         "PaperPhoto": "3161.jpg",
         "TagName": "Move.ToolMove.BagMove.BagEmpty"
     },
     {
-        "PagePath": "Move/ToolMoto/Bag/BagOn.md",
+        "PagePath": "Move/ToolMove/Bag/BagOn.md",
         "PaperPhoto": "3076.jpg",
         "TagName": "Move.ToolMove.BagMove.BagOn"
     },
     {
-        "PagePath": "Move/ToolMoto/Bag/Overview.md",
+        "PagePath": "Move/ToolMove/Bag/Overview.md",
         "PaperPhoto": "0048.jpg",
         "TagName": "Move.ToolMove.BagMove.BaggingUp"
     },
     {
-        "PagePath": "Move/ToolMoto/Bag/Overview.md",
+        "PagePath": "Move/ToolMove/Bag/Overview.md",
         "PaperPhoto": "1391.jpg",
         "TagName": "Move.ToolMove.BagMove.Overview"
     },
     {
-        "PagePath": "Move/ToolMoto/Bag/Overview.md",
+        "PagePath": "Move/ToolMove/Bag/Overview.md",
         "PaperPhoto": "2483.jpg",
         "TagName": "Move.ToolMove.BagMove.Overview"
     },
     {
-        "PagePath": "Move/ToolMoto/Bag/Overview.md",
+        "PagePath": "Move/ToolMove/Bag/Overview.md",
         "PaperPhoto": "2567.jpg",
         "TagName": "Move.ToolMove.BagMove.BaggingUp"
     },
     {
-        "PagePath": "Move/ToolMoto/Bag/Overview.md",
+        "PagePath": "Move/ToolMove/Bag/Overview.md",
         "PaperPhoto": "2572.jpg",
         "TagName": "Move.ToolMove.BagMove.Overview"
     },
     {
-        "PagePath": "Move/ToolMoto/Bag/Overview.md",
+        "PagePath": "Move/ToolMove/Bag/Overview.md",
         "PaperPhoto": "2939.jpg",
         "TagName": "Move.ToolMove.BagMove.Overview"
     },
     {
-        "PagePath": "Move/ToolMoto/Bag/Overview.md",
+        "PagePath": "Move/ToolMove/Bag/Overview.md",
         "PaperPhoto": "3005.jpg",
         "TagName": "Move.ToolMove.BagMove.Overview"
     },
     {
-        "PagePath": "Move/ToolMoto/Bag/Overview.md",
+        "PagePath": "Move/ToolMove/Bag/Overview.md",
         "PaperPhoto": "3052.jpg",
         "TagName": "Move.ToolMove.BagMove.Overview"
     },
     {
-        "PagePath": "Move/ToolMoto/Bag/Overview.md",
+        "PagePath": "Move/ToolMove/Bag/Overview.md",
         "PaperPhoto": "3080.jpg",
         "TagName": "Move.ToolMove.BagMove.BagShield"
     },
     {
-        "PagePath": "Move/ToolMoto/Bag/Overview.md",
+        "PagePath": "Move/ToolMove/Bag/Overview.md",
         "PaperPhoto": "3080.jpg",
         "TagName": "Move.ToolMove.BagMove.Overview"
     },
     {
-        "PagePath": "Move/ToolMoto/Bag/Overview.md",
+        "PagePath": "Move/ToolMove/Bag/Overview.md",
         "PaperPhoto": "3081.jpg",
         "TagName": "Move.ToolMove.BagMove.Overview"
     },
     {
-        "PagePath": "Move/ToolMoto/Bag/Overview.md",
+        "PagePath": "Move/ToolMove/Bag/Overview.md",
         "PaperPhoto": "Video_005.mp4",
         "TagName": "Move.ToolMove.BagMove.Overview"
     },
     {
-        "PagePath": "Move/ToolMoto/Bag/Overview.md",
+        "PagePath": "Move/ToolMove/Bag/Overview.md",
         "PaperPhoto": "Video_013.mp4",
         "TagName": "Move.ToolMove.BagMove.BaggingUp"
     },
     {
-        "PagePath": "Move/ToolMoto/Boot/Overview.md",
+        "PagePath": "Move/ToolMove/Boot/Overview.md",
         "PaperPhoto": "Video_002.mp4",
         "TagName": "Move.ToolMove.BootMove.Overview"
     },
     {
-        "PagePath": "Move/ToolMoto/Box/BoxPhrase.md",
+        "PagePath": "Move/ToolMove/Box/BoxPhrase.md",
         "PaperPhoto": "0071.jpg",
         "TagName": "Move.ToolMove.BoxMove.BoxStack"
     },
     {
-        "PagePath": "Move/ToolMoto/Box/Overview.md",
+        "PagePath": "Move/ToolMove/Box/Overview.md",
         "PaperPhoto": "0071.jpg",
         "TagName": "Move.ToolMove.BoxMove.BoxOpen"
     },
     {
-        "PagePath": "Move/ToolMoto/Box/Overview.md",
+        "PagePath": "Move/ToolMove/Box/Overview.md",
         "PaperPhoto": "0071.jpg",
         "TagName": "Move.ToolMove.BoxMove.BoxSlide"
     },
     {
-        "PagePath": "Move/ToolMoto/Box/Overview.md",
+        "PagePath": "Move/ToolMove/Box/Overview.md",
         "PaperPhoto": "0071.jpg",
         "TagName": "Move.ToolMove.BoxMove.BoxStack"
     },
     {
-        "PagePath": "Move/ToolMoto/Box/Overview.md",
+        "PagePath": "Move/ToolMove/Box/Overview.md",
         "PaperPhoto": "0071.jpg",
         "TagName": "Move.ToolMove.BoxMove.Overview"
     },
     {
-        "PagePath": "Move/ToolMoto/Box/Overview.md",
+        "PagePath": "Move/ToolMove/Box/Overview.md",
         "PaperPhoto": "1183.jpg",
         "TagName": "Move.ToolMove.BoxMove.Overview"
     },
     {
-        "PagePath": "Move/ToolMoto/Box/Overview.md",
+        "PagePath": "Move/ToolMove/Box/Overview.md",
         "PaperPhoto": "2484.jpg",
         "TagName": "Move.ToolMove.BoxMove.Overview"
     },
     {
-        "PagePath": "Move/ToolMoto/Box/Overview.md",
+        "PagePath": "Move/ToolMove/Box/Overview.md",
         "PaperPhoto": "3150.jpg",
         "TagName": "Move.ToolMove.BoxMove.Overview"
     },
     {
-        "PagePath": "Move/ToolMoto/Bundle/BundleGrip.md",
+        "PagePath": "Move/ToolMove/Bundle/BundleGrip.md",
         "PaperPhoto": "Video_004.mp4",
         "TagName": "Move.ToolMove.BundleMove.BundleGrip"
     },
     {
-        "PagePath": "Move/ToolMoto/Bundle/BundleGrip.md",
+        "PagePath": "Move/ToolMove/Bundle/BundleGrip.md",
         "PaperPhoto": "Video_013.mp4",
         "TagName": "Move.ToolMove.BundleMove.BundleGrip"
     },
     {
-        "PagePath": "Move/ToolMoto/Bundle/BundleGrip.md",
+        "PagePath": "Move/ToolMove/Bundle/BundleGrip.md",
         "PaperPhoto": "Video_014.mp4",
         "TagName": "Move.ToolMove.BundleMove.BundleGrip"
     },
     {
-        "PagePath": "Move/ToolMoto/Bundle/BundleGrip.md",
+        "PagePath": "Move/ToolMove/Bundle/BundleGrip.md",
         "PaperPhoto": "Video_015.mp4",
         "TagName": "Move.ToolMove.BundleMove.BundleGrip"
     },
     {
-        "PagePath": "Move/ToolMoto/Bundle/BundlePeel.md",
+        "PagePath": "Move/ToolMove/Bundle/BundlePeel.md",
         "PaperPhoto": "Video_005.mp4",
         "TagName": "Move.ToolMove.BundleMove.BundlePeel"
     },
     {
-        "PagePath": "Move/ToolMoto/Bundle/BundlePeel.md",
+        "PagePath": "Move/ToolMove/Bundle/BundlePeel.md",
         "PaperPhoto": "Video_013.mp4",
         "TagName": "Move.ToolMove.BundleMove.BundlePeel"
     },
     {
-        "PagePath": "Move/ToolMoto/Bundle/BundlePeel.md",
+        "PagePath": "Move/ToolMove/Bundle/BundlePeel.md",
         "PaperPhoto": "Video_014.mp4",
         "TagName": "Move.ToolMove.BundleMove.BundlePeel"
     },
     {
-        "PagePath": "Move/ToolMoto/Bundle/BundlePeel.md",
+        "PagePath": "Move/ToolMove/Bundle/BundlePeel.md",
         "PaperPhoto": "Video_015.mp4",
         "TagName": "Move.ToolMove.BundleMove.BundlePeel"
     },
     {
-        "PagePath": "Move/ToolMoto/Bundle/Overview.md",
+        "PagePath": "Move/ToolMove/Bundle/Overview.md",
         "PaperPhoto": "2475.jpg",
         "TagName": "Move.ToolMove.BundleMove.Overview"
     },
     {
-        "PagePath": "Move/ToolMoto/Bundle/Overview.md",
+        "PagePath": "Move/ToolMove/Bundle/Overview.md",
         "PaperPhoto": "Video_014.mp4",
         "TagName": "Move.ToolMove.BundleMove.Overview"
     },
     {
-        "PagePath": "Move/ToolMoto/Bundle/Overview.md",
+        "PagePath": "Move/ToolMove/Bundle/Overview.md",
         "PaperPhoto": "Video_015.mp4",
         "TagName": "Move.ToolMove.BundleMove.BundleRoll"
     },
     {
-        "PagePath": "Move/ToolMoto/Bundle/Overview.md",
+        "PagePath": "Move/ToolMove/Bundle/Overview.md",
         "PaperPhoto": "Video_015.mp4",
-        "TagName": "Move.ToolMove.BundleMove.MotoError.WrapperLitter"
+        "TagName": "Move.ToolMove.BundleMove.MoveError.WrapperLitter"
     },
     {
-        "PagePath": "Move/ToolMoto/Flag/FlagErrorRecovery.md",
+        "PagePath": "Move/ToolMove/Marka/MarkaErrorRecovery.md",
         "PaperPhoto": "2932.jpg",
-        "TagName": "Move.ToolMove.FlagMove.FlagErrorRecovery"
+        "TagName": "Move.ToolMove.MarkaMove.MarkaErrorRecovery"
     },
     {
-        "PagePath": "Move/ToolMoto/Flag/FlagRip.md",
+        "PagePath": "Move/ToolMove/Marka/MarkaRip.md",
         "PaperPhoto": "2945.jpg",
-        "TagName": "Move.ToolMove.FlagMove.FlagRip"
+        "TagName": "Move.ToolMove.MarkaMove.MarkaRip"
     },
     {
-        "PagePath": "Move/ToolMoto/Flag/FlagThrow.md",
+        "PagePath": "Move/ToolMove/Marka/MarkaThrow.md",
         "PaperPhoto": "Video_001.mp4",
-        "TagName": "Move.ToolMove.FlagMove.FlagThrow"
+        "TagName": "Move.ToolMove.MarkaMove.MarkaThrow"
     },
     {
-        "PagePath": "Move/ToolMoto/Flag/FlagThrow.md",
+        "PagePath": "Move/ToolMove/Marka/MarkaThrow.md",
         "PaperPhoto": "Video_003.mp4",
-        "TagName": "Move.ToolMove.FlagMove.FlagThrow"
+        "TagName": "Move.ToolMove.MarkaMove.MarkaThrow"
     },
     {
-        "PagePath": "Move/ToolMoto/Flag/FlagThrow.md",
+        "PagePath": "Move/ToolMove/Marka/MarkaThrow.md",
         "PaperPhoto": "Video_006.mp4",
-        "TagName": "Move.ToolMove.FlagMove.FlagThrow"
+        "TagName": "Move.ToolMove.MarkaMove.MarkaThrow"
     },
     {
-        "PagePath": "Move/ToolMoto/Flag/FlagThrow.md",
+        "PagePath": "Move/ToolMove/Marka/MarkaThrow.md",
         "PaperPhoto": "Video_009.mp4",
-        "TagName": "Move.ToolMove.FlagMove.FlagThrow"
+        "TagName": "Move.ToolMove.MarkaMove.MarkaThrow"
     },
     {
-        "PagePath": "Move/ToolMoto/Flag/FlagWeave.md",
+        "PagePath": "Move/ToolMove/Marka/MarkaWeave.md",
         "PaperPhoto": "0049.jpg",
-        "TagName": "Move.ToolMove.FlagMove.FlagWeave"
+        "TagName": "Move.ToolMove.MarkaMove.MarkaWeave"
     },
     {
-        "PagePath": "Move/ToolMoto/Flag/FlagWeave.md",
+        "PagePath": "Move/ToolMove/Marka/MarkaWeave.md",
         "PaperPhoto": "0487.jpg",
-        "TagName": "Move.ToolMove.FlagMove.FlagWeave"
+        "TagName": "Move.ToolMove.MarkaMove.MarkaWeave"
     },
     {
-        "PagePath": "Move/ToolMoto/Flag/FlagWeave.md",
+        "PagePath": "Move/ToolMove/Marka/MarkaWeave.md",
         "PaperPhoto": "3021.jpg",
-        "TagName": "Move.ToolMove.FlagMove.FlagWeave"
+        "TagName": "Move.ToolMove.MarkaMove.MarkaWeave"
     },
     {
-        "PagePath": "Move/ToolMoto/Flag/FlagWrap.md",
+        "PagePath": "Move/ToolMove/Marka/MarkaWrap.md",
         "PaperPhoto": "0056.jpg",
-        "TagName": "Move.ToolMove.FlagMove.FlagWrap"
+        "TagName": "Move.ToolMove.MarkaMove.MarkaWrap"
     },
     {
-        "PagePath": "Move/ToolMoto/Flag/FlagWrap.md",
+        "PagePath": "Move/ToolMove/Marka/MarkaWrap.md",
         "PaperPhoto": "3021.jpg",
-        "TagName": "Move.ToolMove.FlagMove.FlagWrap"
+        "TagName": "Move.ToolMove.MarkaMove.MarkaWrap"
     },
     {
-        "PagePath": "Move/ToolMoto/Flag/Overview.md",
+        "PagePath": "Move/ToolMove/Marka/Overview.md",
         "PaperPhoto": "0049.jpg",
-        "TagName": "Move.ToolMove.FlagMove.Overview"
+        "TagName": "Move.ToolMove.MarkaMove.Overview"
     },
     {
-        "PagePath": "Move/ToolMoto/Flag/Overview.md",
+        "PagePath": "Move/ToolMove/Marka/Overview.md",
         "PaperPhoto": "0487.jpg",
-        "TagName": "Move.ToolMove.FlagMove.Overview"
+        "TagName": "Move.ToolMove.MarkaMove.Overview"
     },
     {
-        "PagePath": "Move/ToolMoto/Flag/Overview.md",
+        "PagePath": "Move/ToolMove/Marka/Overview.md",
         "PaperPhoto": "2476.jpg",
-        "TagName": "Move.ToolMove.FlagMove.Overview"
+        "TagName": "Move.ToolMove.MarkaMove.Overview"
     },
     {
-        "PagePath": "Move/ToolMoto/Flag/Overview.md",
+        "PagePath": "Move/ToolMove/Marka/Overview.md",
         "PaperPhoto": "2571.jpg",
-        "TagName": "Move.ToolMove.FlagMove.Overview"
+        "TagName": "Move.ToolMove.MarkaMove.Overview"
     },
     {
-        "PagePath": "Move/ToolMoto/Flag/Overview.md",
+        "PagePath": "Move/ToolMove/Marka/Overview.md",
         "PaperPhoto": "2938.jpg",
-        "TagName": "Move.ToolMove.FlagMove.Overview"
+        "TagName": "Move.ToolMove.MarkaMove.Overview"
     },
     {
-        "PagePath": "Move/ToolMoto/Flag/Overview.md",
+        "PagePath": "Move/ToolMove/Marka/Overview.md",
         "PaperPhoto": "2953.jpg",
-        "TagName": "Move.ToolMove.FlagMove.Overview"
+        "TagName": "Move.ToolMove.MarkaMove.Overview"
     },
     {
-        "PagePath": "Move/ToolMoto/Flag/Overview.md",
+        "PagePath": "Move/ToolMove/Marka/Overview.md",
         "PaperPhoto": "2963.jpg",
-        "TagName": "Move.ToolMove.FlagMove.Overview"
+        "TagName": "Move.ToolMove.MarkaMove.Overview"
     },
     {
-        "PagePath": "Move/ToolMoto/Flag/Overview.md",
+        "PagePath": "Move/ToolMove/Marka/Overview.md",
         "PaperPhoto": "3000.jpg",
-        "TagName": "Move.ToolMove.FlagMove.Overview"
+        "TagName": "Move.ToolMove.MarkaMove.Overview"
     },
     {
-        "PagePath": "Move/ToolMoto/Flag/Overview.md",
+        "PagePath": "Move/ToolMove/Marka/Overview.md",
         "PaperPhoto": "3001.jpg",
-        "TagName": "Move.ToolMove.FlagMove.Overview"
+        "TagName": "Move.ToolMove.MarkaMove.Overview"
     },
     {
-        "PagePath": "Move/ToolMoto/Flag/Overview.md",
+        "PagePath": "Move/ToolMove/Marka/Overview.md",
         "PaperPhoto": "3004.jpg",
-        "TagName": "Move.ToolMove.FlagMove.Overview"
+        "TagName": "Move.ToolMove.MarkaMove.Overview"
     },
     {
-        "PagePath": "Move/ToolMoto/Flag/Overview.md",
+        "PagePath": "Move/ToolMove/Marka/Overview.md",
         "PaperPhoto": "3009.jpg",
-        "TagName": "Move.ToolMove.FlagMove.Overview"
+        "TagName": "Move.ToolMove.MarkaMove.Overview"
     },
     {
-        "PagePath": "Move/ToolMoto/Gaiter/Overview.md",
+        "PagePath": "Move/ToolMove/Gaiter/Overview.md",
         "PaperPhoto": "Video_002.mp4",
         "TagName": "Move.ToolMove.GaiterMove.Overview"
     },
     {
-        "PagePath": "Move/ToolMoto/Gaiter/Overview.md",
+        "PagePath": "Move/ToolMove/Gaiter/Overview.md",
         "PaperPhoto": "Video_006.mp4",
         "TagName": "Move.ToolMove.GaiterMove.Overview"
     },
     {
-        "PagePath": "Move/ToolMoto/Gaiter/Overview.md",
+        "PagePath": "Move/ToolMove/Gaiter/Overview.md",
         "PaperPhoto": "Video_015.mp4",
         "TagName": "Move.ToolMove.GaiterMove.Overview"
     },
     {
-        "PagePath": "Move/ToolMoto/Glove/Overview.md",
+        "PagePath": "Move/ToolMove/Glove/Overview.md",
         "PaperPhoto": "0487.jpg",
         "TagName": "Move.ToolMove.GloveMove.Overview"
     },
     {
-        "PagePath": "Move/ToolMoto/Glove/Overview.md",
+        "PagePath": "Move/ToolMove/Glove/Overview.md",
         "PaperPhoto": "Video_006.mp4",
         "TagName": "Move.ToolMove.GloveMove.Overview"
     },
     {
-        "PagePath": "Move/ToolMoto/Glove/Overview.md",
+        "PagePath": "Move/ToolMove/Glove/Overview.md",
         "PaperPhoto": "Video_013.mp4",
         "TagName": "Move.ToolMove.GloveMove.Overview"
     },
     {
-        "PagePath": "Move/ToolMoto/Glove/Overview.md",
+        "PagePath": "Move/ToolMove/Glove/Overview.md",
         "PaperPhoto": "Video_014.mp4",
         "TagName": "Move.ToolMove.GloveMove.Overview"
     },
     {
-        "PagePath": "Move/ToolMoto/Glove/Overview.md",
+        "PagePath": "Move/ToolMove/Glove/Overview.md",
         "PaperPhoto": "Video_015.mp4",
         "TagName": "Move.ToolMove.GloveMove.Overview"
     },
     {
-        "PagePath": "Move/ToolMoto/Overview.md",
+        "PagePath": "Move/ToolMove/Overview.md",
         "PaperPhoto": "1701.jpg",
         "TagName": "Move.ToolMove.Overview"
     },
     {
-        "PagePath": "Move/ToolMoto/Overview.md",
+        "PagePath": "Move/ToolMove/Overview.md",
         "PaperPhoto": "2572.jpg",
         "TagName": "Move.ToolMove.Overview"
     },
     {
-        "PagePath": "Move/ToolMoto/Overview.md",
+        "PagePath": "Move/ToolMove/Overview.md",
         "PaperPhoto": "3152.jpg",
         "TagName": "Move.ToolMove.Overview"
     },
     {
-        "PagePath": "Move/ToolMoto/Spade/Overview.md",
+        "PagePath": "Move/ToolMove/Spade/Overview.md",
         "PaperPhoto": "2479.jpg",
         "TagName": "Move.ToolMove.SpadeMove.Overview"
     },
     {
-        "PagePath": "Move/ToolMoto/Spade/Overview.md",
+        "PagePath": "Move/ToolMove/Spade/Overview.md",
         "PaperPhoto": "2945.jpg",
         "TagName": "Move.ToolMove.SpadeMove.Overview"
     },
     {
-        "PagePath": "Move/ToolMoto/Spade/Overview.md",
+        "PagePath": "Move/ToolMove/Spade/Overview.md",
         "PaperPhoto": "3053.jpg",
         "TagName": "Move.ToolMove.SpadeMove.Overview"
     },
     {
-        "PagePath": "Move/ToolMoto/Spade/Overview.md",
+        "PagePath": "Move/ToolMove/Spade/Overview.md",
         "PaperPhoto": "3083.jpg",
         "TagName": "Move.ToolMove.SpadeMove.Overview"
     },
     {
-        "PagePath": "Move/ToolMoto/Spade/Overview.md",
+        "PagePath": "Move/ToolMove/Spade/Overview.md",
         "PaperPhoto": "3154.jpg",
         "TagName": "Move.ToolMove.SpadeMove.SpadeUnplant"
     },
     {
-        "PagePath": "Move/ToolMoto/Spade/Overview.md",
+        "PagePath": "Move/ToolMove/Spade/Overview.md",
         "PaperPhoto": "Video_002.mp4",
         "TagName": "Move.ToolMove.SpadeMove.SpadeClose"
     },
     {
-        "PagePath": "Move/ToolMoto/Spade/SpadeProp.md",
+        "PagePath": "Move/ToolMove/Spade/SpadeProp.md",
         "PaperPhoto": "2469.jpg",
         "TagName": "Move.ToolMove.SpadeMove.SpadeProp"
     },
     {
-        "PagePath": "Move/ToolMoto/Spade/SpadeProp.md",
+        "PagePath": "Move/ToolMove/Spade/SpadeProp.md",
         "PaperPhoto": "2567.jpg",
         "TagName": "Move.ToolMove.SpadeMove.SpadeProp"
     },
     {
-        "PagePath": "Move/ToolMoto/Spade/SpadeProp.md",
+        "PagePath": "Move/ToolMove/Spade/SpadeProp.md",
         "PaperPhoto": "Video_003.mp4",
         "TagName": "Move.ToolMove.SpadeMove.SpadeProp"
     },
     {
-        "PagePath": "Move/ToolMoto/Spade/SpadeProp.md",
+        "PagePath": "Move/ToolMove/Spade/SpadeProp.md",
         "PaperPhoto": "Video_006.mp4",
         "TagName": "Move.ToolMove.SpadeMove.SpadeProp"
     },
     {
-        "PagePath": "Move/ToolMoto/Spade/SpadeProp.md",
+        "PagePath": "Move/ToolMove/Spade/SpadeProp.md",
         "PaperPhoto": "Video_007.mp4",
         "TagName": "Move.ToolMove.SpadeMove.SpadeProp"
     },
     {
-        "PagePath": "Move/ToolMoto/Spade/SpadeProp.md",
+        "PagePath": "Move/ToolMove/Spade/SpadeProp.md",
         "PaperPhoto": "Video_011.mp4",
         "TagName": "Move.ToolMove.SpadeMove.SpadeProp"
     },
     {
-        "PagePath": "Move/ToolMoto/Spade/SpadeScreef.md",
+        "PagePath": "Move/ToolMove/Spade/SpadeSkreef.md",
         "PaperPhoto": "1303.jpg",
-        "TagName": "Move.ToolMove.SpadeMove.SpadeScreef"
+        "TagName": "Move.ToolMove.SpadeMove.SpadeSkreef"
     },
     {
-        "PagePath": "Move/ToolMoto/Spade/SpadeScreef.md",
+        "PagePath": "Move/ToolMove/Spade/SpadeSkreef.md",
         "PaperPhoto": "3088.jpg",
-        "TagName": "Move.ToolMove.SpadeMove.SpadeScreef"
+        "TagName": "Move.ToolMove.SpadeMove.SpadeSkreef"
     },
     {
-        "PagePath": "Move/ToolMoto/Spade/SpadeSlam.md",
+        "PagePath": "Move/ToolMove/Spade/SpadeSlam.md",
         "PaperPhoto": "Video_008.mp4",
         "TagName": "Move.ToolMove.SpadeMove.SpadeSlam"
     },
     {
-        "PagePath": "Move/ToolMoto/Spade/SpadeSwing.md",
+        "PagePath": "Move/ToolMove/Spade/SpadeSwing.md",
         "PaperPhoto": "1259.jpg",
         "TagName": "Move.ToolMove.SpadeMove.SpadeSwing"
     },
     {
-        "PagePath": "Move/ToolMoto/Spade/SpadeTest.md",
+        "PagePath": "Move/ToolMove/Spade/SpadeTest.md",
         "PaperPhoto": "1006.jpg",
         "TagName": "Move.ToolMove.SpadeMove.SpadeProbe"
     },
     {
-        "PagePath": "Move/ToolMoto/Spade/SpadeTest.md",
+        "PagePath": "Move/ToolMove/Spade/SpadeTest.md",
         "PaperPhoto": "2936.jpg",
         "TagName": "Move.ToolMove.SpadeMove.SpadeProbe"
     },
     {
-        "PagePath": "Move/ToolMoto/Spade/SpadeTest.md",
+        "PagePath": "Move/ToolMove/Spade/SpadeTest.md",
         "PaperPhoto": "Video_005.mp4",
         "TagName": "Move.ToolMove.SpadeMove.SpadePoke"
     },
     {
-        "PagePath": "Move/ToolMoto/Spade/SpadeTest.md",
+        "PagePath": "Move/ToolMove/Spade/SpadeTest.md",
         "PaperPhoto": "Video_007.mp4",
         "TagName": "Move.ToolMove.SpadeMove.SpadeProbe"
     },
     {
-        "PagePath": "Move/ToolMoto/Spade/SpadeTest.md",
+        "PagePath": "Move/ToolMove/Spade/SpadeTest.md",
         "PaperPhoto": "Video_009.mp4",
         "TagName": "Move.ToolMove.SpadeMove.SpadePoke"
     },
     {
-        "PagePath": "Move/TruckMoto/Overview.md",
+        "PagePath": "Move/TruckMove/Overview.md",
         "PaperPhoto": "0513.jpg",
         "TagName": "Move.ToolMove.TruckMove.Overview"
     },
     {
-        "PagePath": "Move/PlantMoto/BranchArmDeflection.md",
+        "PagePath": "Move/PlantMove/BranchArmDeflection.md",
         "PaperPhoto": "1087.jpg",
         "TagName": "Move.PlantMove.BranchArmDeflection"
     },
     {
-        "PagePath": "Move/PlantMoto/Overview.md",
+        "PagePath": "Move/PlantMove/Overview.md",
         "PaperPhoto": "0407.jpg",
         "TagName": "Move.PlantMove.SnagMove.BagSnag"
     },
     {
-        "PagePath": "Move/PlantMoto/Overview.md",
+        "PagePath": "Move/PlantMove/Overview.md",
         "PaperPhoto": "0407.jpg",
         "TagName": "Move.PlantMove.SnagMove.FootSnag"
     },
     {
-        "PagePath": "Move/PlantMoto/Overview.md",
+        "PagePath": "Move/PlantMove/Overview.md",
         "PaperPhoto": "0407.jpg",
         "TagName": "Move.PlantMove.SnagMove.SpadeSnag"
     },
     {
-        "PagePath": "Move/PlantMoto/Overview.md",
+        "PagePath": "Move/PlantMove/Overview.md",
         "PaperPhoto": "2473.jpg",
         "TagName": "Move.PlantMove.Overview"
     },
     {
-        "PagePath": "Move/PlantMoto/Overview.md",
+        "PagePath": "Move/PlantMove/Overview.md",
         "PaperPhoto": "2945.jpg",
         "TagName": "Move.PlantMove.Overview"
     },
     {
-        "PagePath": "Move/PlantMoto/Overview.md",
+        "PagePath": "Move/PlantMove/Overview.md",
         "PaperPhoto": "3029.jpg",
         "TagName": "Move.PlantMove.Overview"
     },
     {
-        "PagePath": "Move/PlantMoto/Overview.md",
+        "PagePath": "Move/PlantMove/Overview.md",
         "PaperPhoto": "3080.jpg",
         "TagName": "Move.PlantMove.Overview"
     },
@@ -6995,209 +6995,209 @@ data = [
         "TagName": "Via.AreaCover.CircleCover.SemicircleCover"
     },
     {
-        "PagePath": "Via/Flag/Overview.md",
+        "PagePath": "Via/Marka/Overview.md",
         "PaperPhoto": "0049.jpg",
-        "TagName": "Via.Flag.WastedFlag"
+        "TagName": "Via.Marka.WastedMarka"
     },
     {
-        "PagePath": "Via/Flag/Overview.md",
+        "PagePath": "Via/Marka/Overview.md",
         "PaperPhoto": "0056.jpg",
-        "TagName": "Via.Flag.HighFlag"
+        "TagName": "Via.Marka.HighMarka"
     },
     {
-        "PagePath": "Via/Flag/Overview.md",
+        "PagePath": "Via/Marka/Overview.md",
         "PaperPhoto": "0056.jpg",
-        "TagName": "Via.Flag.LineInFlag"
+        "TagName": "Via.Marka.LineInMarka"
     },
     {
-        "PagePath": "Via/Flag/Overview.md",
+        "PagePath": "Via/Marka/Overview.md",
         "PaperPhoto": "0056.jpg",
-        "TagName": "Via.Flag.LowFlag"
+        "TagName": "Via.Marka.LowMarka"
     },
     {
-        "PagePath": "Via/Flag/Overview.md",
+        "PagePath": "Via/Marka/Overview.md",
         "PaperPhoto": "0487.jpg",
-        "TagName": "Via.Flag.FlagSite"
+        "TagName": "Via.Marka.MarkaSite"
     },
     {
-        "PagePath": "Via/Flag/Overview.md",
+        "PagePath": "Via/Marka/Overview.md",
         "PaperPhoto": "1027.jpg",
-        "TagName": "Via.Flag.BoundaryFlag"
+        "TagName": "Via.Marka.BoundaryMarka"
     },
     {
-        "PagePath": "Via/Flag/Overview.md",
+        "PagePath": "Via/Marka/Overview.md",
         "PaperPhoto": "1044.jpg",
-        "TagName": "Via.Flag.FlagLine.FlagLineIn"
+        "TagName": "Via.Marka.MarkaLine.MarkaLineIn"
     },
     {
-        "PagePath": "Via/Flag/Overview.md",
+        "PagePath": "Via/Marka/Overview.md",
         "PaperPhoto": "1112.jpg",
-        "TagName": "Via.Flag.LineInFlag"
+        "TagName": "Via.Marka.LineInMarka"
     },
     {
-        "PagePath": "Via/Flag/Overview.md",
+        "PagePath": "Via/Marka/Overview.md",
         "PaperPhoto": "1844.jpg",
-        "TagName": "Via.Flag.FlagLine.FlagLineIn.StartPoint"
+        "TagName": "Via.Marka.MarkaLine.MarkaLineIn.StartPoint"
     },
     {
-        "PagePath": "Via/Flag/Overview.md",
+        "PagePath": "Via/Marka/Overview.md",
         "PaperPhoto": "2568.jpg",
-        "TagName": "Via.Flag.FlagLine.FlagLineIn"
+        "TagName": "Via.Marka.MarkaLine.MarkaLineIn"
     },
     {
-        "PagePath": "Via/Flag/Overview.md",
+        "PagePath": "Via/Marka/Overview.md",
         "PaperPhoto": "2568.jpg",
-        "TagName": "Via.Flag.HighFlag"
+        "TagName": "Via.Marka.HighMarka"
     },
     {
-        "PagePath": "Via/Flag/Overview.md",
+        "PagePath": "Via/Marka/Overview.md",
         "PaperPhoto": "2568.jpg",
-        "TagName": "Via.Flag.LowFlag"
+        "TagName": "Via.Marka.LowMarka"
     },
     {
-        "PagePath": "Via/Flag/Overview.md",
+        "PagePath": "Via/Marka/Overview.md",
         "PaperPhoto": "2568.jpg",
-        "TagName": "Via.Flag.WastedFlag"
+        "TagName": "Via.Marka.WastedMarka"
     },
     {
-        "PagePath": "Via/Flag/Overview.md",
+        "PagePath": "Via/Marka/Overview.md",
         "PaperPhoto": "2571.jpg",
-        "TagName": "Via.Flag.FlagSite"
+        "TagName": "Via.Marka.MarkaSite"
     },
     {
-        "PagePath": "Via/Flag/Overview.md",
+        "PagePath": "Via/Marka/Overview.md",
         "PaperPhoto": "2571.jpg",
-        "TagName": "Via.Flag.Overview"
+        "TagName": "Via.Marka.Overview"
     },
     {
-        "PagePath": "Via/Flag/Overview.md",
+        "PagePath": "Via/Marka/Overview.md",
         "PaperPhoto": "2571.jpg",
-        "TagName": "Via.Flag.WastedFlag"
+        "TagName": "Via.Marka.WastedMarka"
     },
     {
-        "PagePath": "Via/Flag/Overview.md",
+        "PagePath": "Via/Marka/Overview.md",
         "PaperPhoto": "2932.jpg",
-        "TagName": "Via.Flag.WastedFlag"
+        "TagName": "Via.Marka.WastedMarka"
     },
     {
-        "PagePath": "Via/Flag/Overview.md",
+        "PagePath": "Via/Marka/Overview.md",
         "PaperPhoto": "2938.jpg",
-        "TagName": "Via.Flag.BoundaryFlag"
+        "TagName": "Via.Marka.BoundaryMarka"
     },
     {
-        "PagePath": "Via/Flag/Overview.md",
+        "PagePath": "Via/Marka/Overview.md",
         "PaperPhoto": "2938.jpg",
-        "TagName": "Via.Flag.FlagSite"
+        "TagName": "Via.Marka.MarkaSite"
     },
     {
-        "PagePath": "Via/Flag/Overview.md",
+        "PagePath": "Via/Marka/Overview.md",
         "PaperPhoto": "2944.jpg",
-        "TagName": "Via.Flag.Overview"
+        "TagName": "Via.Marka.Overview"
     },
     {
-        "PagePath": "Via/Flag/Overview.md",
+        "PagePath": "Via/Marka/Overview.md",
         "PaperPhoto": "2953.jpg",
-        "TagName": "Via.Flag.FlagLine.FlagLineIn"
+        "TagName": "Via.Marka.MarkaLine.MarkaLineIn"
     },
     {
-        "PagePath": "Via/Flag/Overview.md",
+        "PagePath": "Via/Marka/Overview.md",
         "PaperPhoto": "2996.jpg",
-        "TagName": "Via.Flag.Overview"
+        "TagName": "Via.Marka.Overview"
     },
     {
-        "PagePath": "Via/Flag/Overview.md",
+        "PagePath": "Via/Marka/Overview.md",
         "PaperPhoto": "3001.jpg",
-        "TagName": "Via.Flag.HighFlag"
+        "TagName": "Via.Marka.HighMarka"
     },
     {
-        "PagePath": "Via/Flag/Overview.md",
+        "PagePath": "Via/Marka/Overview.md",
         "PaperPhoto": "3001.jpg",
-        "TagName": "Via.Flag.Overview"
+        "TagName": "Via.Marka.Overview"
     },
     {
-        "PagePath": "Via/Flag/Overview.md",
+        "PagePath": "Via/Marka/Overview.md",
         "PaperPhoto": "3004.jpg",
-        "TagName": "Via.Flag.Overview"
+        "TagName": "Via.Marka.Overview"
     },
     {
-        "PagePath": "Via/Flag/Overview.md",
+        "PagePath": "Via/Marka/Overview.md",
         "PaperPhoto": "3006.jpg",
-        "TagName": "Via.Flag.FlagLine.FlagLineIn.StartPoint"
+        "TagName": "Via.Marka.MarkaLine.MarkaLineIn.StartPoint"
     },
     {
-        "PagePath": "Via/Flag/Overview.md",
+        "PagePath": "Via/Marka/Overview.md",
         "PaperPhoto": "3014.jpg",
-        "TagName": "Via.Flag.Overview"
+        "TagName": "Via.Marka.Overview"
     },
     {
-        "PagePath": "Via/Flag/Overview.md",
+        "PagePath": "Via/Marka/Overview.md",
         "PaperPhoto": "3020.jpg",
-        "TagName": "Via.Flag.FlagSite"
+        "TagName": "Via.Marka.MarkaSite"
     },
     {
-        "PagePath": "Via/Flag/Overview.md",
+        "PagePath": "Via/Marka/Overview.md",
         "PaperPhoto": "3021.jpg",
-        "TagName": "Via.Flag.Overview"
+        "TagName": "Via.Marka.Overview"
     },
     {
-        "PagePath": "Via/Flag/Overview.md",
+        "PagePath": "Via/Marka/Overview.md",
         "PaperPhoto": "3022.jpg",
-        "TagName": "Via.Flag.FlagLine.FlagLineIn.StartPoint"
+        "TagName": "Via.Marka.MarkaLine.MarkaLineIn.StartPoint"
     },
     {
-        "PagePath": "Via/Flag/Overview.md",
+        "PagePath": "Via/Marka/Overview.md",
         "PaperPhoto": "3022.jpg",
-        "TagName": "Via.Flag.HighFlag"
+        "TagName": "Via.Marka.HighMarka"
     },
     {
-        "PagePath": "Via/Flag/Overview.md",
+        "PagePath": "Via/Marka/Overview.md",
         "PaperPhoto": "3022.jpg",
-        "TagName": "Via.Flag.Overview"
+        "TagName": "Via.Marka.Overview"
     },
     {
-        "PagePath": "Via/Flag/Overview.md",
+        "PagePath": "Via/Marka/Overview.md",
         "PaperPhoto": "3056.jpg",
-        "TagName": "Via.Flag.FlagLine.FlagLineIn.StartPoint"
+        "TagName": "Via.Marka.MarkaLine.MarkaLineIn.StartPoint"
     },
     {
-        "PagePath": "Via/Flag/Overview.md",
+        "PagePath": "Via/Marka/Overview.md",
         "PaperPhoto": "3071.jpg",
-        "TagName": "Via.Flag.Overview"
+        "TagName": "Via.Marka.Overview"
     },
     {
-        "PagePath": "Via/Flag/Overview.md",
+        "PagePath": "Via/Marka/Overview.md",
         "PaperPhoto": "3150.jpg",
-        "TagName": "Via.Flag.Overview"
+        "TagName": "Via.Marka.Overview"
     },
     {
-        "PagePath": "Via/Flag/Overview.md",
+        "PagePath": "Via/Marka/Overview.md",
         "PaperPhoto": "3154.jpg",
-        "TagName": "Via.Flag.FlagLine.FlagLineIn"
+        "TagName": "Via.Marka.MarkaLine.MarkaLineIn"
     },
     {
-        "PagePath": "Via/Flag/Overview.md",
+        "PagePath": "Via/Marka/Overview.md",
         "PaperPhoto": "3154.jpg",
-        "TagName": "Via.Flag.FlagLine.FlagLineIn.StartPoint"
+        "TagName": "Via.Marka.MarkaLine.MarkaLineIn.StartPoint"
     },
     {
-        "PagePath": "Via/Flag/Overview.md",
+        "PagePath": "Via/Marka/Overview.md",
         "PaperPhoto": "3165.jpg",
-        "TagName": "Via.Flag.LineInFlag"
+        "TagName": "Via.Marka.LineInMarka"
     },
     {
-        "PagePath": "Via/Flag/Overview.md",
+        "PagePath": "Via/Marka/Overview.md",
         "PaperPhoto": "Video_005.mp4",
-        "TagName": "Via.Flag.BoundaryFlag"
+        "TagName": "Via.Marka.BoundaryMarka"
     },
     {
-        "PagePath": "Via/Flag/Overview.md",
+        "PagePath": "Via/Marka/Overview.md",
         "PaperPhoto": "Video_009.mp4",
-        "TagName": "Via.Flag.FlagSite"
+        "TagName": "Via.Marka.MarkaSite"
     },
     {
-        "PagePath": "Via/Flag/Overview.md",
+        "PagePath": "Via/Marka/Overview.md",
         "PaperPhoto": "Video_011.mp4",
-        "TagName": "Via.Flag.FlagSite"
+        "TagName": "Via.Marka.MarkaSite"
     },
     {
         "PagePath": "Via/ObstacleCover/Overview.md",
@@ -7417,7 +7417,7 @@ data = [
     {
         "PagePath": "Via/ViaCurve/Overview.md",
         "PaperPhoto": "1375.jpg",
-        "TagName": "Via.ViaGeometry.ViaCurve.AdvancingMoto"
+        "TagName": "Via.ViaGeometry.ViaCurve.AdvancingMove"
     },
     {
         "PagePath": "Via/ViaCurve/Overview.md",
@@ -8172,7 +8172,7 @@ data = [
     {
         "PagePath": "Via/ViaOverview.md",
         "PaperPhoto": "2568.jpg",
-        "TagName": "Psike.Vision.Find.Flag"
+        "TagName": "Psike.Vision.Find.Marka"
     },
     {
         "PagePath": "Via/ViaOverview.md",
@@ -8407,7 +8407,7 @@ data = [
     {
         "PagePath": "Via/ViaPoint/Overview.md",
         "PaperPhoto": "0487.jpg",
-        "TagName": "Via.ViaGeometry.ViaPoint.FlagSite"
+        "TagName": "Via.ViaGeometry.ViaPoint.MarkaSite"
     },
     {
         "PagePath": "Via/ViaPoint/Overview.md",
@@ -8662,12 +8662,12 @@ data = [
     {
         "PagePath": "Via/ViaPoint/Overview.md",
         "PaperPhoto": "3003.jpg",
-        "TagName": "Via.ViaGeometry.ViaPoint.FlagSite"
+        "TagName": "Via.ViaGeometry.ViaPoint.MarkaSite"
     },
     {
         "PagePath": "Via/ViaPoint/Overview.md",
         "PaperPhoto": "3004.jpg",
-        "TagName": "Via.ViaGeometry.ViaPoint.FlagSite"
+        "TagName": "Via.ViaGeometry.ViaPoint.MarkaSite"
     },
     {
         "PagePath": "Via/ViaPoint/Overview.md",
@@ -8727,7 +8727,7 @@ data = [
     {
         "PagePath": "Via/ViaPoint/Overview.md",
         "PaperPhoto": "3154.jpg",
-        "TagName": "Via.ViaGeometry.ViaPoint.FlagSite"
+        "TagName": "Via.ViaGeometry.ViaPoint.MarkaSite"
     },
     {
         "PagePath": "Via/ViaPoint/Overview.md",
@@ -9057,7 +9057,7 @@ data = [
     {
         "PagePath": "Via/ViaSequence/Overview.md",
         "PaperPhoto": "2938.jpg",
-        "TagName": "Via.ViaSequence.LookAt.Flag"
+        "TagName": "Via.ViaSequence.LookAt.Marka"
     },
     {
         "PagePath": "Via/ViaSequence/Overview.md",
@@ -11610,739 +11610,739 @@ data = [
         "TagName": "Beta.BetaCard"
     },
     {
-        "PagePath": "dev/Graphics/MotoGraphic.md",
+        "PagePath": "dev/Graphics/MoveGraphic.md",
         "PaperPhoto": "0017.jpg",
-        "TagName": "Move.MotoDiagram.Overview"
+        "TagName": "Move.MoveDiagram.Overview"
     },
     {
-        "PagePath": "dev/Graphics/MotoGraphic.md",
+        "PagePath": "dev/Graphics/MoveGraphic.md",
         "PaperPhoto": "0019.jpg",
-        "TagName": "Move.MotoDiagram.MotoTimeline"
+        "TagName": "Move.MoveDiagram.MoveTimeline"
     },
     {
-        "PagePath": "dev/Graphics/MotoGraphic.md",
+        "PagePath": "dev/Graphics/MoveGraphic.md",
         "PaperPhoto": "0026.jpg",
-        "TagName": "Move.MotoDiagram.Overview"
+        "TagName": "Move.MoveDiagram.Overview"
     },
     {
-        "PagePath": "dev/Graphics/MotoGraphic.md",
+        "PagePath": "dev/Graphics/MoveGraphic.md",
         "PaperPhoto": "0035.jpg",
-        "TagName": "Move.MotoDiagram.Overview"
+        "TagName": "Move.MoveDiagram.Overview"
     },
     {
-        "PagePath": "dev/Graphics/MotoGraphic.md",
+        "PagePath": "dev/Graphics/MoveGraphic.md",
         "PaperPhoto": "0062.jpg",
-        "TagName": "Move.MotoDiagram.Overview"
+        "TagName": "Move.MoveDiagram.Overview"
     },
     {
-        "PagePath": "dev/Graphics/MotoGraphic.md",
+        "PagePath": "dev/Graphics/MoveGraphic.md",
         "PaperPhoto": "0203.jpg",
-        "TagName": "Move.MotoDiagram.Overview"
+        "TagName": "Move.MoveDiagram.Overview"
     },
     {
-        "PagePath": "dev/Graphics/MotoGraphic.md",
+        "PagePath": "dev/Graphics/MoveGraphic.md",
         "PaperPhoto": "0211.jpg",
-        "TagName": "Move.MotoDiagram.Overview"
+        "TagName": "Move.MoveDiagram.Overview"
     },
     {
-        "PagePath": "dev/Graphics/MotoGraphic.md",
+        "PagePath": "dev/Graphics/MoveGraphic.md",
         "PaperPhoto": "0225.jpg",
-        "TagName": "Move.MotoDiagram.Overview"
+        "TagName": "Move.MoveDiagram.Overview"
     },
     {
-        "PagePath": "dev/Graphics/MotoGraphic.md",
+        "PagePath": "dev/Graphics/MoveGraphic.md",
         "PaperPhoto": "0253.jpg",
-        "TagName": "Move.MotoDiagram.MotoTimeline"
+        "TagName": "Move.MoveDiagram.MoveTimeline"
     },
     {
-        "PagePath": "dev/Graphics/MotoGraphic.md",
+        "PagePath": "dev/Graphics/MoveGraphic.md",
         "PaperPhoto": "0253.jpg",
-        "TagName": "Move.MotoDiagram.Overview"
+        "TagName": "Move.MoveDiagram.Overview"
     },
     {
-        "PagePath": "dev/Graphics/MotoGraphic.md",
+        "PagePath": "dev/Graphics/MoveGraphic.md",
         "PaperPhoto": "0253.jpg",
-        "TagName": "Move.MotoLine"
+        "TagName": "Move.MoveLine"
     },
     {
-        "PagePath": "dev/Graphics/MotoGraphic.md",
+        "PagePath": "dev/Graphics/MoveGraphic.md",
         "PaperPhoto": "0296.jpg",
-        "TagName": "Move.MotoDiagram.OrthographicDiagram"
+        "TagName": "Move.MoveDiagram.OrthographicDiagram"
     },
     {
-        "PagePath": "dev/Graphics/MotoGraphic.md",
+        "PagePath": "dev/Graphics/MoveGraphic.md",
         "PaperPhoto": "0296.jpg",
-        "TagName": "Move.MotoDiagram.Overview"
+        "TagName": "Move.MoveDiagram.Overview"
     },
     {
-        "PagePath": "dev/Graphics/MotoGraphic.md",
+        "PagePath": "dev/Graphics/MoveGraphic.md",
         "PaperPhoto": "0298.jpg",
-        "TagName": "Move.MotoDiagram.MotoTimeline"
+        "TagName": "Move.MoveDiagram.MoveTimeline"
     },
     {
-        "PagePath": "dev/Graphics/MotoGraphic.md",
+        "PagePath": "dev/Graphics/MoveGraphic.md",
         "PaperPhoto": "0407.jpg",
-        "TagName": "Move.MotoLine"
+        "TagName": "Move.MoveLine"
     },
     {
-        "PagePath": "dev/Graphics/MotoGraphic.md",
+        "PagePath": "dev/Graphics/MoveGraphic.md",
         "PaperPhoto": "0407.jpg",
         "TagName": "Move.PlanterDiagram"
     },
     {
-        "PagePath": "dev/Graphics/MotoGraphic.md",
+        "PagePath": "dev/Graphics/MoveGraphic.md",
         "PaperPhoto": "0448.jpg",
-        "TagName": "Move.MotoDiagram.Stickfigure"
+        "TagName": "Move.MoveDiagram.Stickfigure"
     },
     {
-        "PagePath": "dev/Graphics/MotoGraphic.md",
+        "PagePath": "dev/Graphics/MoveGraphic.md",
         "PaperPhoto": "0458.jpg",
-        "TagName": "Move.MotoDiagram.Stickfigure"
+        "TagName": "Move.MoveDiagram.Stickfigure"
     },
     {
-        "PagePath": "dev/Graphics/MotoGraphic.md",
+        "PagePath": "dev/Graphics/MoveGraphic.md",
         "PaperPhoto": "0548.jpg",
-        "TagName": "Move.MotoDiagram.Overview"
+        "TagName": "Move.MoveDiagram.Overview"
     },
     {
-        "PagePath": "dev/Graphics/MotoGraphic.md",
+        "PagePath": "dev/Graphics/MoveGraphic.md",
         "PaperPhoto": "0548.jpg",
-        "TagName": "Move.MotoDiagram.Stickfigure"
+        "TagName": "Move.MoveDiagram.Stickfigure"
     },
     {
-        "PagePath": "dev/Graphics/MotoGraphic.md",
+        "PagePath": "dev/Graphics/MoveGraphic.md",
         "PaperPhoto": "0548.jpg",
-        "TagName": "Move.MotoLine"
+        "TagName": "Move.MoveLine"
     },
     {
-        "PagePath": "dev/Graphics/MotoGraphic.md",
+        "PagePath": "dev/Graphics/MoveGraphic.md",
         "PaperPhoto": "0548.jpg",
-        "TagName": "Move.MotoLine.MotoDisplacementLine"
+        "TagName": "Move.MoveLine.MoveDisplacementLine"
     },
     {
-        "PagePath": "dev/Graphics/MotoGraphic.md",
+        "PagePath": "dev/Graphics/MoveGraphic.md",
         "PaperPhoto": "0560.jpg",
-        "TagName": "Move.MotoDecomposition"
+        "TagName": "Move.MoveDecomposition"
     },
     {
-        "PagePath": "dev/Graphics/MotoGraphic.md",
+        "PagePath": "dev/Graphics/MoveGraphic.md",
         "PaperPhoto": "0600.jpg",
-        "TagName": "Move.MotoCard"
+        "TagName": "Move.MoveCard"
     },
     {
-        "PagePath": "dev/Graphics/MotoGraphic.md",
+        "PagePath": "dev/Graphics/MoveGraphic.md",
         "PaperPhoto": "0747.jpg",
-        "TagName": "Move.MotoDiagram.Stickfigure"
+        "TagName": "Move.MoveDiagram.Stickfigure"
     },
     {
-        "PagePath": "dev/Graphics/MotoGraphic.md",
+        "PagePath": "dev/Graphics/MoveGraphic.md",
         "PaperPhoto": "0875.jpg",
-        "TagName": "Move.MotoDiagram.Stickfigure"
+        "TagName": "Move.MoveDiagram.Stickfigure"
     },
     {
-        "PagePath": "dev/Graphics/MotoGraphic.md",
+        "PagePath": "dev/Graphics/MoveGraphic.md",
         "PaperPhoto": "0876.jpg",
-        "TagName": "Move.MotoDiagram.Stickfigure"
+        "TagName": "Move.MoveDiagram.Stickfigure"
     },
     {
-        "PagePath": "dev/Graphics/MotoGraphic.md",
+        "PagePath": "dev/Graphics/MoveGraphic.md",
         "PaperPhoto": "1011.jpg",
-        "TagName": "Move.MotoLine"
+        "TagName": "Move.MoveLine"
     },
     {
-        "PagePath": "dev/Graphics/MotoGraphic.md",
+        "PagePath": "dev/Graphics/MoveGraphic.md",
         "PaperPhoto": "1043.jpg",
-        "TagName": "Move.MotoLine.CenterOfMassLine"
+        "TagName": "Move.MoveLine.CenterOfMassLine"
     },
     {
-        "PagePath": "dev/Graphics/MotoGraphic.md",
+        "PagePath": "dev/Graphics/MoveGraphic.md",
         "PaperPhoto": "1044.jpg",
-        "TagName": "Move.MotoDiagram.Stickfigure"
+        "TagName": "Move.MoveDiagram.Stickfigure"
     },
     {
-        "PagePath": "dev/Graphics/MotoGraphic.md",
+        "PagePath": "dev/Graphics/MoveGraphic.md",
         "PaperPhoto": "1044.jpg",
-        "TagName": "Move.MotoLine"
+        "TagName": "Move.MoveLine"
     },
     {
-        "PagePath": "dev/Graphics/MotoGraphic.md",
+        "PagePath": "dev/Graphics/MoveGraphic.md",
         "PaperPhoto": "1044.jpg",
-        "TagName": "Move.MotoLine.CenterOfMassLine"
+        "TagName": "Move.MoveLine.CenterOfMassLine"
     },
     {
-        "PagePath": "dev/Graphics/MotoGraphic.md",
+        "PagePath": "dev/Graphics/MoveGraphic.md",
         "PaperPhoto": "1044.jpg",
-        "TagName": "Move.MotoLine.MotoMirrorLine"
+        "TagName": "Move.MoveLine.MoveMirrorLine"
     },
     {
-        "PagePath": "dev/Graphics/MotoGraphic.md",
+        "PagePath": "dev/Graphics/MoveGraphic.md",
         "PaperPhoto": "1052.jpg",
-        "TagName": "Move.MotoDiagram.Overview"
+        "TagName": "Move.MoveDiagram.Overview"
     },
     {
-        "PagePath": "dev/Graphics/MotoGraphic.md",
+        "PagePath": "dev/Graphics/MoveGraphic.md",
         "PaperPhoto": "1052.jpg",
-        "TagName": "Move.MotoDiagram.Stickfigure"
+        "TagName": "Move.MoveDiagram.Stickfigure"
     },
     {
-        "PagePath": "dev/Graphics/MotoGraphic.md",
+        "PagePath": "dev/Graphics/MoveGraphic.md",
         "PaperPhoto": "1063.jpg",
-        "TagName": "Move.MotoLine.CenterOfMassLine"
+        "TagName": "Move.MoveLine.CenterOfMassLine"
     },
     {
-        "PagePath": "dev/Graphics/MotoGraphic.md",
+        "PagePath": "dev/Graphics/MoveGraphic.md",
         "PaperPhoto": "1105.jpg",
         "TagName": "Move.PlanterDiagram"
     },
     {
-        "PagePath": "dev/Graphics/MotoGraphic.md",
+        "PagePath": "dev/Graphics/MoveGraphic.md",
         "PaperPhoto": "1181.jpg",
         "TagName": "Move.PlanterDiagram"
     },
     {
-        "PagePath": "dev/Graphics/MotoGraphic.md",
+        "PagePath": "dev/Graphics/MoveGraphic.md",
         "PaperPhoto": "1186.jpg",
-        "TagName": "Move.MotoCard"
+        "TagName": "Move.MoveCard"
     },
     {
-        "PagePath": "dev/Graphics/MotoGraphic.md",
+        "PagePath": "dev/Graphics/MoveGraphic.md",
         "PaperPhoto": "1228.jpg",
-        "TagName": "Move.MotoLine"
+        "TagName": "Move.MoveLine"
     },
     {
-        "PagePath": "dev/Graphics/MotoGraphic.md",
+        "PagePath": "dev/Graphics/MoveGraphic.md",
         "PaperPhoto": "1259.jpg",
-        "TagName": "Move.MotoLine"
+        "TagName": "Move.MoveLine"
     },
     {
-        "PagePath": "dev/Graphics/MotoGraphic.md",
+        "PagePath": "dev/Graphics/MoveGraphic.md",
         "PaperPhoto": "1321.jpg",
-        "TagName": "Move.MotoDecomposition"
+        "TagName": "Move.MoveDecomposition"
     },
     {
-        "PagePath": "dev/Graphics/MotoGraphic.md",
+        "PagePath": "dev/Graphics/MoveGraphic.md",
         "PaperPhoto": "1352.jpg",
-        "TagName": "Move.MotoGif"
+        "TagName": "Move.MoveGif"
     },
     {
-        "PagePath": "dev/Graphics/MotoGraphic.md",
+        "PagePath": "dev/Graphics/MoveGraphic.md",
         "PaperPhoto": "1352.jpg",
-        "TagName": "Move.MotoPhoto"
+        "TagName": "Move.MovePhoto"
     },
     {
-        "PagePath": "dev/Graphics/MotoGraphic.md",
+        "PagePath": "dev/Graphics/MoveGraphic.md",
         "PaperPhoto": "1375.jpg",
-        "TagName": "Move.MotoDiagram.MotoTimeline"
+        "TagName": "Move.MoveDiagram.MoveTimeline"
     },
     {
-        "PagePath": "dev/Graphics/MotoGraphic.md",
+        "PagePath": "dev/Graphics/MoveGraphic.md",
         "PaperPhoto": "1379.jpg",
-        "TagName": "Move.MotoCard"
+        "TagName": "Move.MoveCard"
     },
     {
-        "PagePath": "dev/Graphics/MotoGraphic.md",
+        "PagePath": "dev/Graphics/MoveGraphic.md",
         "PaperPhoto": "1379.jpg",
-        "TagName": "Move.MotoDiagram.MotoTimeline"
+        "TagName": "Move.MoveDiagram.MoveTimeline"
     },
     {
-        "PagePath": "dev/Graphics/MotoGraphic.md",
+        "PagePath": "dev/Graphics/MoveGraphic.md",
         "PaperPhoto": "1383.jpg",
-        "TagName": "Move.MotoDiagram.Overview"
+        "TagName": "Move.MoveDiagram.Overview"
     },
     {
-        "PagePath": "dev/Graphics/MotoGraphic.md",
+        "PagePath": "dev/Graphics/MoveGraphic.md",
         "PaperPhoto": "1386.jpg",
-        "TagName": "Move.MotoCard"
+        "TagName": "Move.MoveCard"
     },
     {
-        "PagePath": "dev/Graphics/MotoGraphic.md",
+        "PagePath": "dev/Graphics/MoveGraphic.md",
         "PaperPhoto": "1387.jpg",
-        "TagName": "Move.MotoDiagram.Stickfigure"
+        "TagName": "Move.MoveDiagram.Stickfigure"
     },
     {
-        "PagePath": "dev/Graphics/MotoGraphic.md",
+        "PagePath": "dev/Graphics/MoveGraphic.md",
         "PaperPhoto": "1387.jpg",
         "TagName": "Move.PlanterDiagram"
     },
     {
-        "PagePath": "dev/Graphics/MotoGraphic.md",
+        "PagePath": "dev/Graphics/MoveGraphic.md",
         "PaperPhoto": "1391.jpg",
-        "TagName": "Move.MotoDiagram.Stickfigure"
+        "TagName": "Move.MoveDiagram.Stickfigure"
     },
     {
-        "PagePath": "dev/Graphics/MotoGraphic.md",
+        "PagePath": "dev/Graphics/MoveGraphic.md",
         "PaperPhoto": "1391.jpg",
         "TagName": "Move.PlanterDiagram"
     },
     {
-        "PagePath": "dev/Graphics/MotoGraphic.md",
+        "PagePath": "dev/Graphics/MoveGraphic.md",
         "PaperPhoto": "1398.jpg",
-        "TagName": "Move.MotoDiagram.Overview"
+        "TagName": "Move.MoveDiagram.Overview"
     },
     {
-        "PagePath": "dev/Graphics/MotoGraphic.md",
+        "PagePath": "dev/Graphics/MoveGraphic.md",
         "PaperPhoto": "1424.jpg",
-        "TagName": "Move.MotoDiagram.MotoTimeline"
+        "TagName": "Move.MoveDiagram.MoveTimeline"
     },
     {
-        "PagePath": "dev/Graphics/MotoGraphic.md",
+        "PagePath": "dev/Graphics/MoveGraphic.md",
         "PaperPhoto": "1493.jpg",
-        "TagName": "Move.MotoLine.CenterOfMassLine"
+        "TagName": "Move.MoveLine.CenterOfMassLine"
     },
     {
-        "PagePath": "dev/Graphics/MotoGraphic.md",
+        "PagePath": "dev/Graphics/MoveGraphic.md",
         "PaperPhoto": "1540.jpg",
-        "TagName": "Move.MotoLine.MotoMirrorLine"
+        "TagName": "Move.MoveLine.MoveMirrorLine"
     },
     {
-        "PagePath": "dev/Graphics/MotoGraphic.md",
+        "PagePath": "dev/Graphics/MoveGraphic.md",
         "PaperPhoto": "1572.jpg",
-        "TagName": "Move.MotoDiagram.MotoTimeline"
+        "TagName": "Move.MoveDiagram.MoveTimeline"
     },
     {
-        "PagePath": "dev/Graphics/MotoGraphic.md",
+        "PagePath": "dev/Graphics/MoveGraphic.md",
         "PaperPhoto": "1573.jpg",
-        "TagName": "Move.MotoDiagram.MotoTimeline"
+        "TagName": "Move.MoveDiagram.MoveTimeline"
     },
     {
-        "PagePath": "dev/Graphics/MotoGraphic.md",
+        "PagePath": "dev/Graphics/MoveGraphic.md",
         "PaperPhoto": "1581.jpg",
-        "TagName": "Move.MotoLine"
+        "TagName": "Move.MoveLine"
     },
     {
-        "PagePath": "dev/Graphics/MotoGraphic.md",
+        "PagePath": "dev/Graphics/MoveGraphic.md",
         "PaperPhoto": "1603.jpg",
-        "TagName": "Move.MotoDiagram.Overview"
+        "TagName": "Move.MoveDiagram.Overview"
     },
     {
-        "PagePath": "dev/Graphics/MotoGraphic.md",
+        "PagePath": "dev/Graphics/MoveGraphic.md",
         "PaperPhoto": "1619.jpg",
-        "TagName": "Move.MotoDiagram.OrthographicDiagram"
+        "TagName": "Move.MoveDiagram.OrthographicDiagram"
     },
     {
-        "PagePath": "dev/Graphics/MotoGraphic.md",
+        "PagePath": "dev/Graphics/MoveGraphic.md",
         "PaperPhoto": "1656.jpg",
-        "TagName": "Move.MotoDiagram.MotoTimeline"
+        "TagName": "Move.MoveDiagram.MoveTimeline"
     },
     {
-        "PagePath": "dev/Graphics/MotoGraphic.md",
+        "PagePath": "dev/Graphics/MoveGraphic.md",
         "PaperPhoto": "1658.jpg",
-        "TagName": "Move.MotoLine"
+        "TagName": "Move.MoveLine"
     },
     {
-        "PagePath": "dev/Graphics/MotoGraphic.md",
+        "PagePath": "dev/Graphics/MoveGraphic.md",
         "PaperPhoto": "1674.jpg",
-        "TagName": "Move.MotoLine"
+        "TagName": "Move.MoveLine"
     },
     {
-        "PagePath": "dev/Graphics/MotoGraphic.md",
+        "PagePath": "dev/Graphics/MoveGraphic.md",
         "PaperPhoto": "1708.jpg",
-        "TagName": "Move.MotoLine"
+        "TagName": "Move.MoveLine"
     },
     {
-        "PagePath": "dev/Graphics/MotoGraphic.md",
+        "PagePath": "dev/Graphics/MoveGraphic.md",
         "PaperPhoto": "1730.jpg",
-        "TagName": "Move.MotoLine"
+        "TagName": "Move.MoveLine"
     },
     {
-        "PagePath": "dev/Graphics/MotoGraphic.md",
+        "PagePath": "dev/Graphics/MoveGraphic.md",
         "PaperPhoto": "1740.jpg",
-        "TagName": "Move.MotoDiagram.Overview"
+        "TagName": "Move.MoveDiagram.Overview"
     },
     {
-        "PagePath": "dev/Graphics/MotoGraphic.md",
+        "PagePath": "dev/Graphics/MoveGraphic.md",
         "PaperPhoto": "1749.jpg",
-        "TagName": "Move.MotoCard"
+        "TagName": "Move.MoveCard"
     },
     {
-        "PagePath": "dev/Graphics/MotoGraphic.md",
+        "PagePath": "dev/Graphics/MoveGraphic.md",
         "PaperPhoto": "1752.jpg",
-        "TagName": "Move.MotoDiagram.Overview"
+        "TagName": "Move.MoveDiagram.Overview"
     },
     {
-        "PagePath": "dev/Graphics/MotoGraphic.md",
+        "PagePath": "dev/Graphics/MoveGraphic.md",
         "PaperPhoto": "1803.jpg",
-        "TagName": "Move.MotoDiagram.MotoTimeline"
+        "TagName": "Move.MoveDiagram.MoveTimeline"
     },
     {
-        "PagePath": "dev/Graphics/MotoGraphic.md",
+        "PagePath": "dev/Graphics/MoveGraphic.md",
         "PaperPhoto": "1807.jpg",
-        "TagName": "Move.MotoDiagram.MotoTimeline"
+        "TagName": "Move.MoveDiagram.MoveTimeline"
     },
     {
-        "PagePath": "dev/Graphics/MotoGraphic.md",
+        "PagePath": "dev/Graphics/MoveGraphic.md",
         "PaperPhoto": "1818.jpg",
-        "TagName": "Move.MotoDiagram.MotoTimeline"
+        "TagName": "Move.MoveDiagram.MoveTimeline"
     },
     {
-        "PagePath": "dev/Graphics/MotoGraphic.md",
+        "PagePath": "dev/Graphics/MoveGraphic.md",
         "PaperPhoto": "1819.jpg",
-        "TagName": "Move.MotoCard"
+        "TagName": "Move.MoveCard"
     },
     {
-        "PagePath": "dev/Graphics/MotoGraphic.md",
+        "PagePath": "dev/Graphics/MoveGraphic.md",
         "PaperPhoto": "1819.jpg",
-        "TagName": "Move.MotoDiagram.MotoTimeline"
+        "TagName": "Move.MoveDiagram.MoveTimeline"
     },
     {
-        "PagePath": "dev/Graphics/MotoGraphic.md",
+        "PagePath": "dev/Graphics/MoveGraphic.md",
         "PaperPhoto": "1827.jpg",
-        "TagName": "Move.MotoCard"
+        "TagName": "Move.MoveCard"
     },
     {
-        "PagePath": "dev/Graphics/MotoGraphic.md",
+        "PagePath": "dev/Graphics/MoveGraphic.md",
         "PaperPhoto": "1830.jpg",
-        "TagName": "Move.MotoDiagram.MotoTimeline"
+        "TagName": "Move.MoveDiagram.MoveTimeline"
     },
     {
-        "PagePath": "dev/Graphics/MotoGraphic.md",
+        "PagePath": "dev/Graphics/MoveGraphic.md",
         "PaperPhoto": "1857.jpg",
-        "TagName": "Move.MotoDiagram.MotoTimeline"
+        "TagName": "Move.MoveDiagram.MoveTimeline"
     },
     {
-        "PagePath": "dev/Graphics/MotoGraphic.md",
+        "PagePath": "dev/Graphics/MoveGraphic.md",
         "PaperPhoto": "1872.jpg",
-        "TagName": "Move.MotoDiagram.MotoTimeline"
+        "TagName": "Move.MoveDiagram.MoveTimeline"
     },
     {
-        "PagePath": "dev/Graphics/MotoGraphic.md",
+        "PagePath": "dev/Graphics/MoveGraphic.md",
         "PaperPhoto": "1872.jpg",
-        "TagName": "Move.MotoLine"
+        "TagName": "Move.MoveLine"
     },
     {
-        "PagePath": "dev/Graphics/MotoGraphic.md",
+        "PagePath": "dev/Graphics/MoveGraphic.md",
         "PaperPhoto": "2000.jpg",
-        "TagName": "Move.MotoCard"
+        "TagName": "Move.MoveCard"
     },
     {
-        "PagePath": "dev/Graphics/MotoGraphic.md",
+        "PagePath": "dev/Graphics/MoveGraphic.md",
         "PaperPhoto": "2000.jpg",
-        "TagName": "Move.MotoDiagram.MotoTimeline"
+        "TagName": "Move.MoveDiagram.MoveTimeline"
     },
     {
-        "PagePath": "dev/Graphics/MotoGraphic.md",
+        "PagePath": "dev/Graphics/MoveGraphic.md",
         "PaperPhoto": "2002.jpg",
-        "TagName": "Move.MotoCard"
+        "TagName": "Move.MoveCard"
     },
     {
-        "PagePath": "dev/Graphics/MotoGraphic.md",
+        "PagePath": "dev/Graphics/MoveGraphic.md",
         "PaperPhoto": "2002.jpg",
-        "TagName": "Move.MotoDiagram.MotoTimeline"
+        "TagName": "Move.MoveDiagram.MoveTimeline"
     },
     {
-        "PagePath": "dev/Graphics/MotoGraphic.md",
+        "PagePath": "dev/Graphics/MoveGraphic.md",
         "PaperPhoto": "2007.jpg",
-        "TagName": "Move.MotoCard"
+        "TagName": "Move.MoveCard"
     },
     {
-        "PagePath": "dev/Graphics/MotoGraphic.md",
+        "PagePath": "dev/Graphics/MoveGraphic.md",
         "PaperPhoto": "2007.jpg",
-        "TagName": "Move.MotoDiagram.MotoTimeline"
+        "TagName": "Move.MoveDiagram.MoveTimeline"
     },
     {
-        "PagePath": "dev/Graphics/MotoGraphic.md",
+        "PagePath": "dev/Graphics/MoveGraphic.md",
         "PaperPhoto": "2008.jpg",
-        "TagName": "Move.MotoCard"
+        "TagName": "Move.MoveCard"
     },
     {
-        "PagePath": "dev/Graphics/MotoGraphic.md",
+        "PagePath": "dev/Graphics/MoveGraphic.md",
         "PaperPhoto": "2008.jpg",
-        "TagName": "Move.MotoDiagram.MotoTimeline"
+        "TagName": "Move.MoveDiagram.MoveTimeline"
     },
     {
-        "PagePath": "dev/Graphics/MotoGraphic.md",
+        "PagePath": "dev/Graphics/MoveGraphic.md",
         "PaperPhoto": "2009.jpg",
-        "TagName": "Move.MotoCard"
+        "TagName": "Move.MoveCard"
     },
     {
-        "PagePath": "dev/Graphics/MotoGraphic.md",
+        "PagePath": "dev/Graphics/MoveGraphic.md",
         "PaperPhoto": "2009.jpg",
-        "TagName": "Move.MotoDiagram.MotoTimeline"
+        "TagName": "Move.MoveDiagram.MoveTimeline"
     },
     {
-        "PagePath": "dev/Graphics/MotoGraphic.md",
+        "PagePath": "dev/Graphics/MoveGraphic.md",
         "PaperPhoto": "2010.jpg",
-        "TagName": "Move.MotoCard"
+        "TagName": "Move.MoveCard"
     },
     {
-        "PagePath": "dev/Graphics/MotoGraphic.md",
+        "PagePath": "dev/Graphics/MoveGraphic.md",
         "PaperPhoto": "2010.jpg",
-        "TagName": "Move.MotoDiagram.MotoTimeline"
+        "TagName": "Move.MoveDiagram.MoveTimeline"
     },
     {
-        "PagePath": "dev/Graphics/MotoGraphic.md",
+        "PagePath": "dev/Graphics/MoveGraphic.md",
         "PaperPhoto": "2010.jpg",
-        "TagName": "Move.MotoDiagram.Overview"
+        "TagName": "Move.MoveDiagram.Overview"
     },
     {
-        "PagePath": "dev/Graphics/MotoGraphic.md",
+        "PagePath": "dev/Graphics/MoveGraphic.md",
         "PaperPhoto": "2010.jpg",
-        "TagName": "Move.MotoLine"
+        "TagName": "Move.MoveLine"
     },
     {
-        "PagePath": "dev/Graphics/MotoGraphic.md",
+        "PagePath": "dev/Graphics/MoveGraphic.md",
         "PaperPhoto": "2015.jpg",
-        "TagName": "Move.MotoDiagram.Overview"
+        "TagName": "Move.MoveDiagram.Overview"
     },
     {
-        "PagePath": "dev/Graphics/MotoGraphic.md",
+        "PagePath": "dev/Graphics/MoveGraphic.md",
         "PaperPhoto": "2017.jpg",
-        "TagName": "Move.MotoCard"
+        "TagName": "Move.MoveCard"
     },
     {
-        "PagePath": "dev/Graphics/MotoGraphic.md",
+        "PagePath": "dev/Graphics/MoveGraphic.md",
         "PaperPhoto": "2020.jpg",
-        "TagName": "Move.MotoDiagram.Overview"
+        "TagName": "Move.MoveDiagram.Overview"
     },
     {
-        "PagePath": "dev/Graphics/MotoGraphic.md",
+        "PagePath": "dev/Graphics/MoveGraphic.md",
         "PaperPhoto": "2023.jpg",
-        "TagName": "Move.MotoLine"
+        "TagName": "Move.MoveLine"
     },
     {
-        "PagePath": "dev/Graphics/MotoGraphic.md",
+        "PagePath": "dev/Graphics/MoveGraphic.md",
         "PaperPhoto": "2024.jpg",
-        "TagName": "Move.MotoCard"
+        "TagName": "Move.MoveCard"
     },
     {
-        "PagePath": "dev/Graphics/MotoGraphic.md",
+        "PagePath": "dev/Graphics/MoveGraphic.md",
         "PaperPhoto": "2024.jpg",
-        "TagName": "Move.MotoDiagram.MotoTimeline"
+        "TagName": "Move.MoveDiagram.MoveTimeline"
     },
     {
-        "PagePath": "dev/Graphics/MotoGraphic.md",
+        "PagePath": "dev/Graphics/MoveGraphic.md",
         "PaperPhoto": "2033.jpg",
-        "TagName": "Move.MotoCard"
+        "TagName": "Move.MoveCard"
     },
     {
-        "PagePath": "dev/Graphics/MotoGraphic.md",
+        "PagePath": "dev/Graphics/MoveGraphic.md",
         "PaperPhoto": "2033.jpg",
-        "TagName": "Move.MotoDiagram.MotoTimeline"
+        "TagName": "Move.MoveDiagram.MoveTimeline"
     },
     {
-        "PagePath": "dev/Graphics/MotoGraphic.md",
+        "PagePath": "dev/Graphics/MoveGraphic.md",
         "PaperPhoto": "2035.jpg",
-        "TagName": "Move.MotoDiagram.MotoTimeline"
+        "TagName": "Move.MoveDiagram.MoveTimeline"
     },
     {
-        "PagePath": "dev/Graphics/MotoGraphic.md",
+        "PagePath": "dev/Graphics/MoveGraphic.md",
         "PaperPhoto": "2035.jpg",
-        "TagName": "Move.MotoDiagram.Overview"
+        "TagName": "Move.MoveDiagram.Overview"
     },
     {
-        "PagePath": "dev/Graphics/MotoGraphic.md",
+        "PagePath": "dev/Graphics/MoveGraphic.md",
         "PaperPhoto": "2053.jpg",
-        "TagName": "Move.MotoDiagram.Overview"
+        "TagName": "Move.MoveDiagram.Overview"
     },
     {
-        "PagePath": "dev/Graphics/MotoGraphic.md",
+        "PagePath": "dev/Graphics/MoveGraphic.md",
         "PaperPhoto": "2148.jpg",
-        "TagName": "Move.MotoCard"
+        "TagName": "Move.MoveCard"
     },
     {
-        "PagePath": "dev/Graphics/MotoGraphic.md",
+        "PagePath": "dev/Graphics/MoveGraphic.md",
         "PaperPhoto": "2148.jpg",
-        "TagName": "Move.MotoDiagram.MotoTimeline"
+        "TagName": "Move.MoveDiagram.MoveTimeline"
     },
     {
-        "PagePath": "dev/Graphics/MotoGraphic.md",
+        "PagePath": "dev/Graphics/MoveGraphic.md",
         "PaperPhoto": "2192.jpg",
-        "TagName": "Move.MotoLine"
+        "TagName": "Move.MoveLine"
     },
     {
-        "PagePath": "dev/Graphics/MotoGraphic.md",
+        "PagePath": "dev/Graphics/MoveGraphic.md",
         "PaperPhoto": "2209.jpg",
-        "TagName": "Move.MotoCard"
+        "TagName": "Move.MoveCard"
     },
     {
-        "PagePath": "dev/Graphics/MotoGraphic.md",
+        "PagePath": "dev/Graphics/MoveGraphic.md",
         "PaperPhoto": "2209.jpg",
-        "TagName": "Move.MotoDiagram.Overview"
+        "TagName": "Move.MoveDiagram.Overview"
     },
     {
-        "PagePath": "dev/Graphics/MotoGraphic.md",
+        "PagePath": "dev/Graphics/MoveGraphic.md",
         "PaperPhoto": "2254.jpg",
-        "TagName": "Move.MotoDiagram.Overview"
+        "TagName": "Move.MoveDiagram.Overview"
     },
     {
-        "PagePath": "dev/Graphics/MotoGraphic.md",
+        "PagePath": "dev/Graphics/MoveGraphic.md",
         "PaperPhoto": "2278.jpg",
-        "TagName": "Move.MotoDiagram.Overview"
+        "TagName": "Move.MoveDiagram.Overview"
     },
     {
-        "PagePath": "dev/Graphics/MotoGraphic.md",
+        "PagePath": "dev/Graphics/MoveGraphic.md",
         "PaperPhoto": "2338.jpg",
-        "TagName": "Move.MotoCard"
+        "TagName": "Move.MoveCard"
     },
     {
-        "PagePath": "dev/Graphics/MotoGraphic.md",
+        "PagePath": "dev/Graphics/MoveGraphic.md",
         "PaperPhoto": "2338.jpg",
-        "TagName": "Move.MotoDiagram.MotoTimeline"
+        "TagName": "Move.MoveDiagram.MoveTimeline"
     },
     {
-        "PagePath": "dev/Graphics/MotoGraphic.md",
+        "PagePath": "dev/Graphics/MoveGraphic.md",
         "PaperPhoto": "2355.jpg",
-        "TagName": "Move.MotoCard"
+        "TagName": "Move.MoveCard"
     },
     {
-        "PagePath": "dev/Graphics/MotoGraphic.md",
+        "PagePath": "dev/Graphics/MoveGraphic.md",
         "PaperPhoto": "2355.jpg",
-        "TagName": "Move.MotoDiagram.MotoTimeline"
+        "TagName": "Move.MoveDiagram.MoveTimeline"
     },
     {
-        "PagePath": "dev/Graphics/MotoGraphic.md",
+        "PagePath": "dev/Graphics/MoveGraphic.md",
         "PaperPhoto": "2355.jpg",
-        "TagName": "Move.MotoLine"
+        "TagName": "Move.MoveLine"
     },
     {
-        "PagePath": "dev/Graphics/MotoGraphic.md",
+        "PagePath": "dev/Graphics/MoveGraphic.md",
         "PaperPhoto": "2365.jpg",
-        "TagName": "Move.MotoDiagram.Overview"
+        "TagName": "Move.MoveDiagram.Overview"
     },
     {
-        "PagePath": "dev/Graphics/MotoGraphic.md",
+        "PagePath": "dev/Graphics/MoveGraphic.md",
         "PaperPhoto": "2450.jpg",
-        "TagName": "Move.MotoDiagram.Overview"
+        "TagName": "Move.MoveDiagram.Overview"
     },
     {
-        "PagePath": "dev/Graphics/MotoGraphic.md",
+        "PagePath": "dev/Graphics/MoveGraphic.md",
         "PaperPhoto": "2467.jpg",
-        "TagName": "Move.MotoLine"
+        "TagName": "Move.MoveLine"
     },
     {
-        "PagePath": "dev/Graphics/MotoGraphic.md",
+        "PagePath": "dev/Graphics/MoveGraphic.md",
         "PaperPhoto": "2488.jpg",
-        "TagName": "Move.MotoDiagram.Overview"
+        "TagName": "Move.MoveDiagram.Overview"
     },
     {
-        "PagePath": "dev/Graphics/MotoGraphic.md",
+        "PagePath": "dev/Graphics/MoveGraphic.md",
         "PaperPhoto": "2509.jpg",
-        "TagName": "Move.MotoDiagram.MotoTimeline"
+        "TagName": "Move.MoveDiagram.MoveTimeline"
     },
     {
-        "PagePath": "dev/Graphics/MotoGraphic.md",
+        "PagePath": "dev/Graphics/MoveGraphic.md",
         "PaperPhoto": "2513.jpg",
-        "TagName": "Move.MotoDiagram.Overview"
+        "TagName": "Move.MoveDiagram.Overview"
     },
     {
-        "PagePath": "dev/Graphics/MotoGraphic.md",
+        "PagePath": "dev/Graphics/MoveGraphic.md",
         "PaperPhoto": "2525.jpg",
-        "TagName": "Move.MotoDiagram.Overview"
+        "TagName": "Move.MoveDiagram.Overview"
     },
     {
-        "PagePath": "dev/Graphics/MotoGraphic.md",
+        "PagePath": "dev/Graphics/MoveGraphic.md",
         "PaperPhoto": "2530.jpg",
-        "TagName": "Move.MotoCard"
+        "TagName": "Move.MoveCard"
     },
     {
-        "PagePath": "dev/Graphics/MotoGraphic.md",
+        "PagePath": "dev/Graphics/MoveGraphic.md",
         "PaperPhoto": "2537.jpg",
-        "TagName": "Move.MotoDiagram.MotoTimeline"
+        "TagName": "Move.MoveDiagram.MoveTimeline"
     },
     {
-        "PagePath": "dev/Graphics/MotoGraphic.md",
+        "PagePath": "dev/Graphics/MoveGraphic.md",
         "PaperPhoto": "2537.jpg",
-        "TagName": "Move.MotoDiagram.Overview"
+        "TagName": "Move.MoveDiagram.Overview"
     },
     {
-        "PagePath": "dev/Graphics/MotoGraphic.md",
+        "PagePath": "dev/Graphics/MoveGraphic.md",
         "PaperPhoto": "2538.jpg",
-        "TagName": "Move.MotoDiagram.MotoTimeline"
+        "TagName": "Move.MoveDiagram.MoveTimeline"
     },
     {
-        "PagePath": "dev/Graphics/MotoGraphic.md",
+        "PagePath": "dev/Graphics/MoveGraphic.md",
         "PaperPhoto": "2538.jpg",
-        "TagName": "Move.MotoLine"
+        "TagName": "Move.MoveLine"
     },
     {
-        "PagePath": "dev/Graphics/MotoGraphic.md",
+        "PagePath": "dev/Graphics/MoveGraphic.md",
         "PaperPhoto": "2539.jpg",
-        "TagName": "Move.MotoDiagram.MotoTimeline"
+        "TagName": "Move.MoveDiagram.MoveTimeline"
     },
     {
-        "PagePath": "dev/Graphics/MotoGraphic.md",
+        "PagePath": "dev/Graphics/MoveGraphic.md",
         "PaperPhoto": "2541.jpg",
-        "TagName": "Move.MotoDiagram.MotoTimeline"
+        "TagName": "Move.MoveDiagram.MoveTimeline"
     },
     {
-        "PagePath": "dev/Graphics/MotoGraphic.md",
+        "PagePath": "dev/Graphics/MoveGraphic.md",
         "PaperPhoto": "2834.jpg",
-        "TagName": "Move.MotoLine"
+        "TagName": "Move.MoveLine"
     },
     {
-        "PagePath": "dev/Graphics/MotoGraphic.md",
+        "PagePath": "dev/Graphics/MoveGraphic.md",
         "PaperPhoto": "2861.jpg",
-        "TagName": "Move.MotoDiagram.Overview"
+        "TagName": "Move.MoveDiagram.Overview"
     },
     {
-        "PagePath": "dev/Graphics/MotoGraphic.md",
+        "PagePath": "dev/Graphics/MoveGraphic.md",
         "PaperPhoto": "2869.jpg",
-        "TagName": "Move.MotoDiagram.MotoTimeline"
+        "TagName": "Move.MoveDiagram.MoveTimeline"
     },
     {
-        "PagePath": "dev/Graphics/MotoGraphic.md",
+        "PagePath": "dev/Graphics/MoveGraphic.md",
         "PaperPhoto": "2966.jpg",
-        "TagName": "Move.MotoCard"
+        "TagName": "Move.MoveCard"
     },
     {
-        "PagePath": "dev/Graphics/MotoGraphic.md",
+        "PagePath": "dev/Graphics/MoveGraphic.md",
         "PaperPhoto": "3000.jpg",
-        "TagName": "Move.MotoLine"
+        "TagName": "Move.MoveLine"
     },
     {
-        "PagePath": "dev/Graphics/MotoGraphic.md",
+        "PagePath": "dev/Graphics/MoveGraphic.md",
         "PaperPhoto": "3014.jpg",
-        "TagName": "Move.MotoDiagram.MotoTimeline"
+        "TagName": "Move.MoveDiagram.MoveTimeline"
     },
     {
-        "PagePath": "dev/Graphics/MotoGraphic.md",
+        "PagePath": "dev/Graphics/MoveGraphic.md",
         "PaperPhoto": "3023.jpg",
-        "TagName": "Move.MotoCard"
+        "TagName": "Move.MoveCard"
     },
     {
-        "PagePath": "dev/Graphics/MotoGraphic.md",
+        "PagePath": "dev/Graphics/MoveGraphic.md",
         "PaperPhoto": "3043.jpg",
-        "TagName": "Move.MotoDiagram.MotoTimeline"
+        "TagName": "Move.MoveDiagram.MoveTimeline"
     },
     {
-        "PagePath": "dev/Graphics/MotoGraphic.md",
+        "PagePath": "dev/Graphics/MoveGraphic.md",
         "PaperPhoto": "3044.jpg",
-        "TagName": "Move.MotoCard"
+        "TagName": "Move.MoveCard"
     },
     {
-        "PagePath": "dev/Graphics/MotoGraphic.md",
+        "PagePath": "dev/Graphics/MoveGraphic.md",
         "PaperPhoto": "3157.jpg",
-        "TagName": "Move.MotoDiagram.MotoTimeline"
+        "TagName": "Move.MoveDiagram.MoveTimeline"
     },
     {
-        "PagePath": "dev/Graphics/MotoGraphic.md",
+        "PagePath": "dev/Graphics/MoveGraphic.md",
         "PaperPhoto": "3222.jpg",
-        "TagName": "Move.MotoCard"
+        "TagName": "Move.MoveCard"
     },
     {
-        "PagePath": "dev/Graphics/MotoGraphic.md",
+        "PagePath": "dev/Graphics/MoveGraphic.md",
         "PaperPhoto": "3222.jpg",
-        "TagName": "Move.MotoDiagram.MotoTimeline"
+        "TagName": "Move.MoveDiagram.MoveTimeline"
     },
     {
-        "PagePath": "dev/Graphics/MotoGraphic.md",
+        "PagePath": "dev/Graphics/MoveGraphic.md",
         "PaperPhoto": "3256.jpg",
-        "TagName": "Move.MotoDiagram.MotoTimeline"
+        "TagName": "Move.MoveDiagram.MoveTimeline"
     },
     {
-        "PagePath": "dev/Graphics/MotoGraphic.md",
+        "PagePath": "dev/Graphics/MoveGraphic.md",
         "PaperPhoto": "3256.jpg",
-        "TagName": "Move.MotoDiagram.Overview"
+        "TagName": "Move.MoveDiagram.Overview"
     },
     {
-        "PagePath": "dev/Graphics/MotoGraphic.md",
+        "PagePath": "dev/Graphics/MoveGraphic.md",
         "PaperPhoto": "90031.jpg",
-        "TagName": "Move.MotoLine.MotoDisplacementLine"
+        "TagName": "Move.MoveLine.MoveDisplacementLine"
     },
     {
-        "PagePath": "dev/Graphics/MotoGraphic.md",
+        "PagePath": "dev/Graphics/MoveGraphic.md",
         "PaperPhoto": "90031.jpg",
-        "TagName": "Move.MotoLine.MotoDistanceLine"
+        "TagName": "Move.MoveLine.MoveDistanceLine"
     },
     {
         "PagePath": "dev/Graphics/NeuroGraphic.md",
@@ -12702,7 +12702,7 @@ data = [
     {
         "PagePath": "dev/Graphics/Overview.md",
         "PaperPhoto": "0747.jpg",
-        "TagName": "Dev.Element.ElementDiagram.Labels.TextLabel.MotoLabel"
+        "TagName": "Dev.Element.ElementDiagram.Labels.TextLabel.MoveLabel"
     },
     {
         "PagePath": "dev/Graphics/Overview.md",
@@ -12767,7 +12767,7 @@ data = [
     {
         "PagePath": "dev/Graphics/Overview.md",
         "PaperPhoto": "0877.jpg",
-        "TagName": "Dev.Element.ElementDiagram.Labels.TextLabel.MotoLabel"
+        "TagName": "Dev.Element.ElementDiagram.Labels.TextLabel.MoveLabel"
     },
     {
         "PagePath": "dev/Graphics/Overview.md",
@@ -12947,7 +12947,7 @@ data = [
     {
         "PagePath": "dev/Graphics/Overview.md",
         "PaperPhoto": "1063.jpg",
-        "TagName": "Dev.Element.ElementDiagram.Labels.TextLabel.MotoLabel"
+        "TagName": "Dev.Element.ElementDiagram.Labels.TextLabel.MoveLabel"
     },
     {
         "PagePath": "dev/Graphics/Overview.md",
@@ -13122,7 +13122,7 @@ data = [
     {
         "PagePath": "dev/Graphics/Overview.md",
         "PaperPhoto": "1321.jpg",
-        "TagName": "Dev.Element.ElementDiagram.Labels.TextLabel.MotoLabel"
+        "TagName": "Dev.Element.ElementDiagram.Labels.TextLabel.MoveLabel"
     },
     {
         "PagePath": "dev/Graphics/Overview.md",
@@ -13157,7 +13157,7 @@ data = [
     {
         "PagePath": "dev/Graphics/Overview.md",
         "PaperPhoto": "1373.jpg",
-        "TagName": "Dev.Element.ElementDiagram.Labels.TextLabel.MotoLabel"
+        "TagName": "Dev.Element.ElementDiagram.Labels.TextLabel.MoveLabel"
     },
     {
         "PagePath": "dev/Graphics/Overview.md",
@@ -13172,7 +13172,7 @@ data = [
     {
         "PagePath": "dev/Graphics/Overview.md",
         "PaperPhoto": "1375.jpg",
-        "TagName": "Dev.Element.ElementDiagram.Labels.TextLabel.MotoLabel"
+        "TagName": "Dev.Element.ElementDiagram.Labels.TextLabel.MoveLabel"
     },
     {
         "PagePath": "dev/Graphics/Overview.md",
@@ -13282,7 +13282,7 @@ data = [
     {
         "PagePath": "dev/Graphics/Overview.md",
         "PaperPhoto": "1447.jpg",
-        "TagName": "Dev.Element.ElementDiagram.Labels.TextLabel.MotoLabel"
+        "TagName": "Dev.Element.ElementDiagram.Labels.TextLabel.MoveLabel"
     },
     {
         "PagePath": "dev/Graphics/Overview.md",
@@ -13292,7 +13292,7 @@ data = [
     {
         "PagePath": "dev/Graphics/Overview.md",
         "PaperPhoto": "1449.jpg",
-        "TagName": "Dev.Element.ElementDiagram.Labels.TextLabel.MotoLabel"
+        "TagName": "Dev.Element.ElementDiagram.Labels.TextLabel.MoveLabel"
     },
     {
         "PagePath": "dev/Graphics/Overview.md",
@@ -13392,7 +13392,7 @@ data = [
     {
         "PagePath": "dev/Graphics/Overview.md",
         "PaperPhoto": "1498.jpg",
-        "TagName": "Dev.Element.ElementDiagram.Labels.TextLabel.MotoLabel"
+        "TagName": "Dev.Element.ElementDiagram.Labels.TextLabel.MoveLabel"
     },
     {
         "PagePath": "dev/Graphics/Overview.md",
@@ -13422,7 +13422,7 @@ data = [
     {
         "PagePath": "dev/Graphics/Overview.md",
         "PaperPhoto": "1519.jpg",
-        "TagName": "Dev.Element.ElementDiagram.Labels.TextLabel.MotoLabel"
+        "TagName": "Dev.Element.ElementDiagram.Labels.TextLabel.MoveLabel"
     },
     {
         "PagePath": "dev/Graphics/Overview.md",
@@ -15187,7 +15187,7 @@ data = [
     {
         "PagePath": "dev/Graphics/Overview.md",
         "PaperPhoto": "90012.jpg",
-        "TagName": "Dev.Element.ElementDiagram.Labels.TextLabel.MotoLabel"
+        "TagName": "Dev.Element.ElementDiagram.Labels.TextLabel.MoveLabel"
     },
     {
         "PagePath": "dev/Graphics/Overview.md",
@@ -18637,7 +18637,7 @@ data = [
     {
         "PagePath": "dev/Tagging.md",
         "PaperPhoto": "0548.jpg",
-        "TagName": "Move.MotoVideo"
+        "TagName": "Move.MoveVideo"
     },
     {
         "PagePath": "dev/Tagging.md",
@@ -18722,7 +18722,7 @@ data = [
     {
         "PagePath": "dev/Tagging.md",
         "PaperPhoto": "1352.jpg",
-        "TagName": "Move.MotoVideo"
+        "TagName": "Move.MoveVideo"
     },
     {
         "PagePath": "dev/Tagging.md",
@@ -19027,12 +19027,12 @@ data = [
     {
         "PagePath": "dev/Tagging.md",
         "PaperPhoto": "3042.jpg",
-        "TagName": "Move.MotoVideo"
+        "TagName": "Move.MoveVideo"
     },
     {
         "PagePath": "dev/Tagging.md",
         "PaperPhoto": "3088.jpg",
-        "TagName": "Move.MotoVideo"
+        "TagName": "Move.MoveVideo"
     },
     {
         "PagePath": "dev/Tagging.md",
@@ -19077,7 +19077,7 @@ data = [
     {
         "PagePath": "dev/Tools.md",
         "PaperPhoto": "0049.jpg",
-        "TagName": "Dev.Tools.Flag"
+        "TagName": "Dev.Tools.Marka"
     },
     {
         "PagePath": "dev/Tools.md",
@@ -19087,12 +19087,12 @@ data = [
     {
         "PagePath": "dev/Tools.md",
         "PaperPhoto": "0056.jpg",
-        "TagName": "Dev.Tools.Flag"
+        "TagName": "Dev.Tools.Marka"
     },
     {
         "PagePath": "dev/Tools.md",
         "PaperPhoto": "0057.jpg",
-        "TagName": "Dev.Tools.Flag"
+        "TagName": "Dev.Tools.Marka"
     },
     {
         "PagePath": "dev/Tools.md",
@@ -19102,7 +19102,7 @@ data = [
     {
         "PagePath": "dev/Tools.md",
         "PaperPhoto": "0487.jpg",
-        "TagName": "Dev.Tools.Flag"
+        "TagName": "Dev.Tools.Marka"
     },
     {
         "PagePath": "dev/Tools.md",
@@ -19152,12 +19152,12 @@ data = [
     {
         "PagePath": "dev/Tools.md",
         "PaperPhoto": "1184.jpg",
-        "TagName": "Dev.Tools.Screefer"
+        "TagName": "Dev.Tools.Skreefer"
     },
     {
         "PagePath": "dev/Tools.md",
         "PaperPhoto": "1301.jpg",
-        "TagName": "Dev.Tools.Flag"
+        "TagName": "Dev.Tools.Marka"
     },
     {
         "PagePath": "dev/Tools.md",
@@ -19177,7 +19177,7 @@ data = [
     {
         "PagePath": "dev/Tools.md",
         "PaperPhoto": "2571.jpg",
-        "TagName": "Dev.Tools.Flag"
+        "TagName": "Dev.Tools.Marka"
     },
     {
         "PagePath": "dev/Tools.md",
@@ -19192,12 +19192,12 @@ data = [
     {
         "PagePath": "dev/Tools.md",
         "PaperPhoto": "2938.jpg",
-        "TagName": "Dev.Tools.Flag"
+        "TagName": "Dev.Tools.Marka"
     },
     {
         "PagePath": "dev/Tools.md",
         "PaperPhoto": "2962.jpg",
-        "TagName": "Dev.Tools.Flag"
+        "TagName": "Dev.Tools.Marka"
     },
     {
         "PagePath": "dev/Tools.md",
@@ -19207,7 +19207,7 @@ data = [
     {
         "PagePath": "dev/Tools.md",
         "PaperPhoto": "3021.jpg",
-        "TagName": "Dev.Tools.Flag"
+        "TagName": "Dev.Tools.Marka"
     },
     {
         "PagePath": "dev/Tools.md",
@@ -20057,7 +20057,7 @@ data = [
     {
         "PagePath": "guide/Why/Company.md",
         "PaperPhoto": "2938.jpg",
-        "TagName": "Guide.Why.Innovation.MinimizeFlag"
+        "TagName": "Guide.Why.Innovation.MinimizeMarka"
     },
     {
         "PagePath": "guide/Why/Company.md",
@@ -20072,7 +20072,7 @@ data = [
     {
         "PagePath": "guide/Why/Company.md",
         "PaperPhoto": "2953.jpg",
-        "TagName": "Guide.Why.Innovation.MinimizeFlag"
+        "TagName": "Guide.Why.Innovation.MinimizeMarka"
     },
     {
         "PagePath": "guide/Why/Company.md",
@@ -20282,7 +20282,7 @@ data = [
     {
         "PagePath": "tutorials/Overview.md",
         "PaperPhoto": "0560.jpg",
-        "TagName": "Tests.MotoDecomposition"
+        "TagName": "Tests.MoveDecomposition"
     },
     {
         "PagePath": "tutorials/Overview.md",
@@ -20332,7 +20332,7 @@ data = [
     {
         "PagePath": "tutorials/Overview.md",
         "PaperPhoto": "1844.jpg",
-        "TagName": "Tests.MotoTest.VideoAnswer"
+        "TagName": "Tests.MoveTest.VideoAnswer"
     },
     {
         "PagePath": "tutorials/Overview.md",
@@ -20352,7 +20352,7 @@ data = [
     {
         "PagePath": "tutorials/Overview.md",
         "PaperPhoto": "1872.jpg",
-        "TagName": "Tests.MotoTest.VideoAnswer"
+        "TagName": "Tests.MoveTest.VideoAnswer"
     },
     {
         "PagePath": "tutorials/Overview.md",

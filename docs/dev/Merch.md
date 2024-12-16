@@ -10,7 +10,7 @@ Scantily clad Planters
 
 No genders
 
-### <move>Spade: SpadeMoto</move>
+### <move>Spade: SpadeMove</move>
 
 - Ace:
 - 2:

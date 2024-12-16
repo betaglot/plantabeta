@@ -1,4 +1,4 @@
-# 🟠 <move>FootScreef</move>
+# 🟠 <move>FootSkreef</move>
 
 ![MoveIkon](/Move/Move_Ikon.png)
 
@@ -15,6 +15,6 @@
 
 <h2>PageTags</h2>
 
-- "Move.FootMove.FootScreef"
+- "Move.FootMove.FootSkreef"
 
 :::

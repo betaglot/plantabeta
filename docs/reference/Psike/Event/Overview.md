@@ -20,13 +20,13 @@ Event from a first person perspective
 ### WeatherEvent
 
 - onSnow()
-    - [WastedFlag]
+    - [WastedMarka]
 - onRain()
     - [AddClothingLayer]
 
 ### PieceEvent
 
-- onFlag()
+- onMarka()
 - onPieceExit()
 - onPieceEnter()
 
@@ -36,7 +36,7 @@ Event from a first person perspective
 - onPieceCompletion()
 - onBlockCompletion()
 
-## MotoEvent
+## MoveEvent
 
 ### ToolEvent
 

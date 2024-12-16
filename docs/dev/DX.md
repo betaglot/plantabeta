@@ -36,7 +36,7 @@ Homonyms = {
     'planetary': 'planter',
     'Roland': 'RawLand',
     'Rollins': 'RawLand',
-    'screaming': 'screefing',
+    'screaming': 'skreefing',
     'Jay root': 'Jroot' 
 }
 
@@ -190,7 +190,7 @@ EcoFactor
 
 ViaFactor
 
-MotoFactor
+MoveFactor
 
 NeuroFactor
 
