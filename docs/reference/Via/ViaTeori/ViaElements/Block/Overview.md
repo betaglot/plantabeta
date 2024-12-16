@@ -1,8 +1,6 @@
-# 🟩  <eko>Block</eko>
+# 🔻<via>Block</via>
 
-![Block](/Eko/Block.png)
-
-> The area of land that your crew is planting in.
+> The space of land that your crew is planting in.
 
 Usually Composed of Contiguous Subareas
 

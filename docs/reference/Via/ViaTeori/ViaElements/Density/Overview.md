@@ -1,4 +1,4 @@
-# 🟩  <eko>Density</eko>
+# 🔻<via>SiteDensity</via>
 
 The number of [crop trees](/Glossary/glossary#crop-tree) within a given area, usually a circle of 4 meters.
 

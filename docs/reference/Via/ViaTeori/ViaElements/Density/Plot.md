@@ -1,4 +1,4 @@
-# 🟩  <eko>Plot</eko>🟩
+# 🔻<via>Plot</via>
 
 > The area of the circle who's radius is created by a plot cord of a given length, usually 4 meters
 
