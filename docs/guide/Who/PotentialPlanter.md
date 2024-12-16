@@ -30,12 +30,12 @@ What is tree planting like?
 
 - FullBodyMoto
 - Resilience
-- Moto Phrases
+- Move Phrases
 
 ### Hiking
 
 - Endurance
-- Walking over complex Eco.
+- Walking over complex Eko.
 
 ### Climbing
 

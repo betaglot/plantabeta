@@ -6,7 +6,7 @@ A BetaGraph for a BetaBlock
 
 All modules are interdependent
 
-All ViaFactor have Neuro property dependencies
+All ViaFactor have Psike property dependencies
 
 Each BetaInstance is different. The Beta that a user is experiencing changes each BetaInstance.
 
@@ -14,7 +14,7 @@ Each BetaInstance is different. The Beta that a user is experiencing changes eac
 
 ## DevNotes
 
-- Moto becomes another person's Eco in Acrobatics
+- Move becomes another person's Eko in Acrobatics
     - Acroyoga, Human Tower Build race, Cirque du Solei
 
 ## DevState

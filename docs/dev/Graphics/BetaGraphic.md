@@ -47,11 +47,11 @@ Use the module colors along with their icons
 
 🔷<beta>Beta</beta>
 
-🟩<eko>Eco</eko>
+🟩<eko>Eko</eko>
 
-💜<neuro>Neuro</neuro>
+💜<neuro>Psike</neuro>
 
-🟠<moto>Moto</moto>
+🟠<moto>Move</moto>
 
 ## Betaglot Docs
 
@@ -67,7 +67,7 @@ No images of humans at a computer. It doesn't even need to be technical, just an
 - Have a BetaGraphic of your piece with recommended ViaCurve ViaPath.
 - Arrow of Attention is Violet
 - AttentionLoop
-    - Eco, then Neuro, then Moto, then Via, then back to Eco.
+    - Eko, then Psike, then Move, then Via, then back to Eko.
 
 ## DevState
 

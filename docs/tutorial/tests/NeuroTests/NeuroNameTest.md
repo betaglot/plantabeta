@@ -1,1 +1,1 @@
-# Neuro Naming
+# Psike Naming

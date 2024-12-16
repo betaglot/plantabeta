@@ -56,7 +56,7 @@ Use TagSpaces or equivalent
 - "Dev.Transcription"
 - "Dev.Transcription.TranscriptionPhrase"
 - "Dev.VideoAnalysis.VideoTagging"
-- "Moto.MotoVideo"
+- "Move.MotoVideo"
 
 dev/Tagging.md, <dev>Dev.Transcription</dev>, ![0019.jpg](/PaperPhoto/0019.jpg)
 dev/Tagging.md, <dev>Dev.Transcription</dev>, ![0253.jpg](/PaperPhoto/0253.jpg)
@@ -64,7 +64,7 @@ dev/Tagging.md, <dev>Dev.Transcription</dev>, ![0266.jpg](/PaperPhoto/0266.jpg)
 dev/Tagging.md, <dev>Dev.Transcription</dev>, ![0438.jpg](/PaperPhoto/0438.jpg)
 dev/Tagging.md, <dev>Dev.VideoAnalysis.VideoTagging</dev>, ![0438.jpg](/PaperPhoto/0438.jpg)
 dev/Tagging.md, <dev>Dev.Tagging.TagName</dev>, ![0548.jpg](/PaperPhoto/0548.jpg)
-dev/Tagging.md, <dev>Moto.MotoVideo</dev>, ![0548.jpg](/PaperPhoto/0548.jpg)
+dev/Tagging.md, <dev>Move.MotoVideo</dev>, ![0548.jpg](/PaperPhoto/0548.jpg)
 dev/Tagging.md, <dev>Dev.Transcription</dev>, ![0594.jpg](/PaperPhoto/0594.jpg)
 dev/Tagging.md, <dev>Dev.Transcription</dev>, ![0747.jpg](/PaperPhoto/0747.jpg)
 dev/Tagging.md, <dev>Dev.Tagging.TaggingProcess.TaggingByButton</dev>, ![0831.jpg](/PaperPhoto/0831.jpg)
@@ -81,7 +81,7 @@ dev/Tagging.md, <dev>Dev.Tagging.TaggingProcess.TaggingRound.Overview</dev>, ![1
 dev/Tagging.md, <dev>Dev.Transcription</dev>, ![1318.jpg](/PaperPhoto/1318.jpg)
 dev/Tagging.md, <dev>Dev.Transcription</dev>, ![1342.jpg](/PaperPhoto/1342.jpg)
 dev/Tagging.md, <dev>Dev.Tagging.TagChip.TagChipHighlight</dev>, ![1352.jpg](/PaperPhoto/1352.jpg)
-dev/Tagging.md, <dev>Moto.MotoVideo</dev>, ![1352.jpg](/PaperPhoto/1352.jpg)
+dev/Tagging.md, <dev>Move.MotoVideo</dev>, ![1352.jpg](/PaperPhoto/1352.jpg)
 dev/Tagging.md, <dev>Dev.Transcription</dev>, ![1356.jpg](/PaperPhoto/1356.jpg)
 dev/Tagging.md, <dev>Dev.Transcription</dev>, ![1357.jpg](/PaperPhoto/1357.jpg)
 dev/Tagging.md, <dev>Dev.Transcription</dev>, ![1359.jpg](/PaperPhoto/1359.jpg)
@@ -142,8 +142,8 @@ dev/Tagging.md, <dev>Dev.Tagging.TagChip</dev>, ![2943.jpg](/PaperPhoto/2943.jpg
 dev/Tagging.md, <dev>Dev.Transcription</dev>, ![2965.jpg](/PaperPhoto/2965.jpg)
 dev/Tagging.md, <dev>Dev.Transcription.TranscriptionPhrase</dev>, ![2965.jpg](/PaperPhoto/2965.jpg)
 dev/Tagging.md, <dev>Dev.Transcription</dev>, ![3032.jpg](/PaperPhoto/3032.jpg)
-dev/Tagging.md, <dev>Moto.MotoVideo</dev>, ![3042.jpg](/PaperPhoto/3042.jpg)
-dev/Tagging.md, <dev>Moto.MotoVideo</dev>, ![3088.jpg](/PaperPhoto/3088.jpg)
+dev/Tagging.md, <dev>Move.MotoVideo</dev>, ![3042.jpg](/PaperPhoto/3042.jpg)
+dev/Tagging.md, <dev>Move.MotoVideo</dev>, ![3088.jpg](/PaperPhoto/3088.jpg)
 dev/Tagging.md, <dev>Dev.Transcription</dev>, ![3186.jpg](/PaperPhoto/3186.jpg)
 dev/Tagging.md, <dev>Dev.Transcription</dev>, ![3232.jpg](/PaperPhoto/3232.jpg)
 dev/Tagging.md, <dev>Dev.Transcription</dev>, ![3276.jpg](/PaperPhoto/3276.jpg)

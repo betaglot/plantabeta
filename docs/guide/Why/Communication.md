@@ -23,7 +23,7 @@ An increased vocabulary and standardization of communication improves the effect
 
 ### Planters Communicating with Themselves
 
-Put(Plant) increases the vocabulary of a Planter's internal dialog which improves [short term memory](/encyclopedia/Neuro/Memory/ShortTermMemory) of Planter's experience.
+Put(Plant) increases the vocabulary of a Planter's internal dialog which improves [short term memory](/encyclopedia/Psike/Memory/ShortTermMemory) of Planter's experience.
 
 ### Planter Communicating with Other Planters
 

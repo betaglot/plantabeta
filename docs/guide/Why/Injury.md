@@ -10,7 +10,7 @@ Planting can be a dangerous job.
 
 Planters can get injured when they don't adapt motos to the specific situation. 🔷<beta>Put(<eko>Plant</eko>)</beta> gives many options to adapt motos for any situation.
 
-Some Planters only know how to [🟠<moto>HandClose</moto>](/encyclopedia/Moto/HandMoto/HandClose) one way, but there are many different ways. Even slightly varying a motos can reduce repetitive strain injuries.
+Some Planters only know how to [🟠<moto>HandClose</moto>](/encyclopedia/Move/HandMoto/HandClose) one way, but there are many different ways. Even slightly varying a motos can reduce repetitive strain injuries.
 
 ## Repetitive Strain
 
@@ -19,24 +19,24 @@ Injury can occur in Planters when they perform the same movement repeatedly.
 - Do ambidextrous Planters suffer less injury caused by repetitive strain?
     - Repetitive Motion
     - Greater moto variability reduces moto repetition.
-        - How many [🟠<moto>HandClosing</moto>](/encyclopedia/Moto/HandMoto/HandClose)  methods do you know?
+        - How many [🟠<moto>HandClosing</moto>](/encyclopedia/Move/HandMoto/HandClose)  methods do you know?
 
 ## Reduces Injuries from Falling
 
-Put(Plant) teaches Planters how to move through their [🟩<eko>Eco</eko>](/encyclopedia/Eko/EcoOverview) safely.
+Put(Plant) teaches Planters how to move through their [🟩<eko>Eko</eko>](/encyclopedia/Eko/EcoOverview) safely.
 
 Falling is a large part of Climbing. Put(Plant) transfers the knowledge of how to fall safely from climbing to Planting.
 ::: tip Some of the Motos used to safely Fall
 
-- [🟠<moto>BodyAbsorb</moto>](/encyclopedia/Moto/BodyMoto/BodyAbsorb)
-- [🟠<moto>BodyRedirect</moto>](/encyclopedia/Moto/BodyMoto/BodyRedirect)
+- [🟠<moto>BodyAbsorb</moto>](/encyclopedia/Move/BodyMoto/BodyAbsorb)
+- [🟠<moto>BodyRedirect</moto>](/encyclopedia/Move/BodyMoto/BodyRedirect)
 :::
 
 ## Wrist Tendonitis
 
 Wrist Tendonitis occurs from straining the tissues around the wrist. The strain can be acute, such as when a Planter hits a rock with full force and doesn't absorb the shock, or the strain can be from repetitive use.
 
-- [🟠<moto>ArmAbsorb</moto>](/encyclopedia/Moto/ArmMoto/ArmAbsorb) during the impact of [🟠<moto>SpadeSlam</moto>](/encyclopedia/Moto/ToolMoto/Spade/SpadeSlam)
+- [🟠<moto>ArmAbsorb</moto>](/encyclopedia/Move/ArmMoto/ArmAbsorb) during the impact of [🟠<moto>SpadeSlam</moto>](/encyclopedia/Move/ToolMoto/Spade/SpadeSlam)
 -
 
 ## Christmas Toe
@@ -45,8 +45,8 @@ Planters kick To remove the layer of organic material off an intended microsite.
 
 A greater knowledge of possible alternative moves can prevent Christmas Toe from ever occuring.
 
-- [🟠<moto>SpadeScreef</moto>](/encyclopedia/ToolMoto/SpadeMoto/SpadeScreef) instead of only [🟠<moto>FootScreef</moto>](/encyclopedia/Moto/FootMoto/FootScreef)
-- [🟠<moto>HandClose</moto>](/encyclopedia/Moto/HandMoto/HandClose) instead of only [🟠<moto>FootClose</moto>](/encyclopedia/Moto/FootMoto/FootClose)
+- [🟠<moto>SpadeScreef</moto>](/encyclopedia/ToolMoto/SpadeMoto/SpadeScreef) instead of only [🟠<moto>FootScreef</moto>](/encyclopedia/Move/FootMoto/FootScreef)
+- [🟠<moto>HandClose</moto>](/encyclopedia/Move/HandMoto/HandClose) instead of only [🟠<moto>FootClose</moto>](/encyclopedia/Move/FootMoto/FootClose)
 
 ::: details 🛠 <dev>&&&</dev>
 
@@ -70,15 +70,15 @@ A greater knowledge of possible alternative moves can prevent Christmas Toe from
 
 - "Guide.Why.Injury"
 - "Guide.Why.Injury.ValgusKnee"
-- "Moto.Ambidexterity"
+- "Move.Ambidexterity"
 
 guide/Why/Injury.md, <dev>Guide.Why.Injury</dev>, ![0048.jpg](/PaperPhoto/0048.jpg)
-guide/Why/Injury.md, <dev>Moto.Ambidexterity</dev>, ![0408.jpg](/PaperPhoto/0408.jpg)
+guide/Why/Injury.md, <dev>Move.Ambidexterity</dev>, ![0408.jpg](/PaperPhoto/0408.jpg)
 guide/Why/Injury.md, <dev>Guide.Why.Injury.ValgusKnee</dev>, ![1391.jpg](/PaperPhoto/1391.jpg)
 guide/Why/Injury.md, <dev>Guide.Why.Injury</dev>, ![2567.jpg](/PaperPhoto/2567.jpg)
 guide/Why/Injury.md, <dev>Guide.Why.Injury</dev>, ![2945.jpg](/PaperPhoto/2945.jpg)
 guide/Why/Injury.md, <dev>Guide.Why.Injury</dev>, ![3048.jpg](/PaperPhoto/3048.jpg)
 guide/Why/Injury.md, <dev>Guide.Why.Injury</dev>, ![3060.jpg](/PaperPhoto/3060.jpg)
 guide/Why/Injury.md, <dev>Guide.Why.Injury.ValgusKnee</dev>, ![3060.jpg](/PaperPhoto/3060.jpg)
-guide/Why/Injury.md, <dev>Moto.Ambidexterity</dev>, ![3083.jpg](/PaperPhoto/3083.jpg)
+guide/Why/Injury.md, <dev>Move.Ambidexterity</dev>, ![3083.jpg](/PaperPhoto/3083.jpg)
 :::

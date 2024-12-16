@@ -102,14 +102,14 @@ What fits the current BetaInstance?
 
 Route.Complexity(PerceptibleAffordance < HiddenAffordance < FalseAffordance)
 
-### Eco Affordance
+### Eko Affordance
 
-#### Eco Affords Moto
+#### Eko Affords Move
 
 - That branch looks thin enough that I can grip it
 -
 
-#### Eco affords Via
+#### Eko affords Via
 
 - It doesn't look like I could go around that cliff
 - My foot could fit between those logs

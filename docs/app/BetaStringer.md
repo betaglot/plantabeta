@@ -4,10 +4,10 @@ Hover over BetaString token to see its module values.
 
 ```py
 BetaElementModuleValues = {
-    'Moto': 'value',
+    'Move': 'value',
     'Via': 'value',
-    'Neuro': 'value',
-    'Eco': 'value'
+    'Psike': 'value',
+    'Eko': 'value'
 }
 ```
 

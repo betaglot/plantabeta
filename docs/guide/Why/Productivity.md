@@ -16,7 +16,7 @@ A greater Planter efficiency leads to:
 - A shorter season
 - PlantingRate
     - Daily Trees in the Ground
-- Fewer Planters required to Cover an Eco
+- Fewer Planters required to Cover an Eko
 - Fewer Motos performed by Planter, therefore less Metabolic Energy used.
 - Less Deadwalking
 - Fewer Injury
@@ -44,7 +44,7 @@ Such traits include:
 ### MotoFrequency
 
 - HoleOpen to HoleClose ratio is optimal when 1:1. Many Novice planters are greater than 1.
-- When there are multiple MotoAlternatives, efficient when the Moto with the lower BetaDifficulty is more frequent than an AlternativeMoto with a higher MotoDifficulty. ExperiencedPlanters are performing easier Beta than NovicePlanter. BetaExecution
+- When there are multiple MotoAlternatives, efficient when the Move with the lower BetaDifficulty is more frequent than an AlternativeMoto with a higher MotoDifficulty. ExperiencedPlanters are performing easier Beta than NovicePlanter. BetaExecution
 
 ## DevState
 

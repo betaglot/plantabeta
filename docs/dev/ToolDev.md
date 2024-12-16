@@ -195,7 +195,7 @@ Protein Powder Cookies
 
 ### Design Constraint
 
-Holes in fabric snag, which often leads to the hole becoming larger and can potentially prevent Moto.
+Holes in fabric snag, which often leads to the hole becoming larger and can potentially prevent Move.
 
 RipStop Fabric
 
@@ -269,7 +269,7 @@ The goal of vambrace is to keep the hand clean and warm. There isn't a need to p
 
 <https://www.patagonia.ca/product/hose-down-slicker-jacket/27892.html?dwvar_27892_color=CMPO>
 
-![Canada-Goose-Straps](/Moto/Canada-Goose-Straps.png)
+![Canada-Goose-Straps](/Move/Canada-Goose-Straps.png)
 
 Aang airbender lines for motion capture
 
@@ -321,7 +321,7 @@ Padding in the joints
 
 Mail at joints
 
-#### SuitSwap out parts to adapt to Eco and Moto
+#### SuitSwap out parts to adapt to Eko and Move
 
 ### LocalizedRepair
 

@@ -61,15 +61,15 @@ The BetaScore encourages efficiency.
 
 - Understand the optimal way to perform a move, to prevent injury.
 
-#### Moto
+#### Move
 
 Planters become physically fit and ambidextrous
 
 #### Via
 
-#### Neuro
+#### Psike
 
-#### Eco
+#### Eko
 
 #### Photo of Shared Beta between Planting and Climbing
 

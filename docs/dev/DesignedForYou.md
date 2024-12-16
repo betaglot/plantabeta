@@ -82,13 +82,13 @@ Remember f(x) = 2x ?
 
 Beta is composed of four factors, each of which can be represented by an icon:
 
-🟩<eko>Eco Factor</eko>: All biologic and geologic objects and processes you interact with while in a planting block. For example: slash, roads, stumps, plants, soil and weather.
+🟩<eko>Eko Factor</eko>: All biologic and geologic objects and processes you interact with while in a planting block. For example: slash, roads, stumps, plants, soil and weather.
 
-🟠<moto>Moto Factor</moto>: The movements and tools you use to plant trees. For example: slamming your spade into the ground, ripping flag, your clothing and your bags.
+🟠<moto>Move Factor</moto>: The movements and tools you use to plant trees. For example: slamming your spade into the ground, ripping flag, your clothing and your bags.
 
 🔻<via>Via Factor</via>: The path taken by planters. For example: your line in, backfilling, area planting, bouncing while partner planting and deadwalking
 
-💜<neuro>Neuro Factor</neuro>: Any phenonmena of your nervous system, includes emotion, thought, perception, awareness, attention and more.  
+💜<neuro>Psike Factor</neuro>: Any phenonmena of your nervous system, includes emotion, thought, perception, awareness, attention and more.  
 
 ## How am I supposed to use putplant.ca?
 
@@ -113,21 +113,21 @@ Beta is composed of four factors, each of which can be represented by an icon:
 
 - 🟩<eko>[SoilSound](/encyclopedia/Eko/Soil/Overview)</eko>: Muffled Soil has lots more organic matter to absorb sound. Rock is louder than organic matter due to the strength of rock's lattice structure.
 
-- 🟠<moto>[Clothing](/encyclopedia/Moto/ClothingMoto/Overview)</moto>: Don't leave stuff in backbag when wet.
+- 🟠<moto>[Clothing](/encyclopedia/Move/ClothingMoto/Overview)</moto>: Don't leave stuff in backbag when wet.
     - Cotton mold
 
-- 🟠<moto>[BundleGrip](/encyclopedia/Moto/ToolMoto/Bundle/BundleGrip)</moto>: Grab two bundles in each hand, so four bundles at a time when transfering bundles from boxes to bags.
+- 🟠<moto>[BundleGrip](/encyclopedia/Move/ToolMoto/Bundle/BundleGrip)</moto>: Grab two bundles in each hand, so four bundles at a time when transfering bundles from boxes to bags.
 
-- 🟠<moto>[TreeTest.Error](/encyclopedia/Moto/HandMoto/TreeTest)</moto>: One tree test and what are you looking for?
+- 🟠<moto>[TreeTest.Error](/encyclopedia/Move/HandMoto/TreeTest)</moto>: One tree test and what are you looking for?
     - 💜<neuro>FearOfReplant</neuro>
 
-- 🟠<moto>[TreeTest](/encyclopedia/Moto/HandMoto/TreeTest)</moto>: Single Moto for TreeTest
+- 🟠<moto>[TreeTest](/encyclopedia/Move/HandMoto/TreeTest)</moto>: Single Move for TreeTest
 
-- 🟠<moto>[SpadeSlam](/encyclopedia/Moto/ToolMoto/Spade/SpadeSlam)</moto>: Humerus Rotate Out for SpadeSlam to recruit Latissimus Dorsi and prevent overactivation of Pectoralis muscles which causes Shoulder Impingement Injury
+- 🟠<moto>[SpadeSlam](/encyclopedia/Move/ToolMoto/Spade/SpadeSlam)</moto>: Humerus Rotate Out for SpadeSlam to recruit Latissimus Dorsi and prevent overactivation of Pectoralis muscles which causes Shoulder Impingement Injury
 
-- 🟠<moto>[SpadeScreef](/encyclopedia/Moto/ToolMoto/Spade/SpadeScreef)</moto>: SpadeScreef is faster than BootScreef or HandScreef. And it flows into the backswing of SpadeSlam.
+- 🟠<moto>[SpadeScreef](/encyclopedia/Move/ToolMoto/Spade/SpadeScreef)</moto>: SpadeScreef is faster than BootScreef or HandScreef. And it flows into the backswing of SpadeSlam.
 
-- 🟠<moto>[TraverseBush](/encyclopedia/Moto/PlantMoto/Overview)</moto>: Spread branches while pushing your way through a bush.
+- 🟠<moto>[TraverseBush](/encyclopedia/Move/PlantMoto/Overview)</moto>: Spread branches while pushing your way through a bush.
     - AlderCluster, MapleCluster
 
 - 🔻<via>[Walkout](/encyclopedia/Via/Path/Overview)</via>: Walkout using the most direct path unless there's a road, skidder trail or clear path near.

@@ -262,62 +262,59 @@ Delete tags once converted to headers. They are stored in a JSON
 
 ```md
 
-### 🟠 <dev>DesignBox</dev><moto>.Moto</moto>
+### 🟠 <dev>DesignBox</dev><moto>.Move</moto>
 
 ```md
-::: details 🛠 <dev>&&&</dev>
+---
 
-## DevNotes
+<!-- =================================================== -->
+<!-- =================================================== -->
+<!-- =================================================== -->
+<!-- =================================================== -->
+<!-- =================================================== -->
+::: details 🛠 <dev>&&&</dev>
 
 -
 
-## DevState
-
-```py
-`TagsToHeaders: False`
-```
-
 :::
 
-# 🟠 <moto>Moto</moto>
+# 🟠 <moto>Move</moto>
 
 ```md
 
 ### 🟩 <dev>DesignBox</dev><eko>.Eko</eko>
 
 ```md
-::: details 🛠 <dev>&&&</dev>
+---
 
-## DevNotes
+<!-- =================================================== -->
+<!-- =================================================== -->
+<!-- =================================================== -->
+<!-- =================================================== -->
+<!-- =================================================== -->
+::: details 🛠 <dev>&&&</dev>
 
 -
 
-## DevState
-
-```py
-`TagsToHeaders: False`
-```
-
 :::
 
-# 🟩 <eko>Eco</eko>
+# 🟩 <eko>Eko</eko>
 
 ```md
 
 ### 🔻 <dev>DesignBox</dev><via>.Via</via>
 
 ```md
+---
+
+<!-- =================================================== -->
+<!-- =================================================== -->
+<!-- =================================================== -->
+<!-- =================================================== -->
+<!-- =================================================== -->
 ::: details 🛠 <dev>&&&</dev>
 
-## DevNotes
-
 -
-
-## DevState
-
-```py
-`TagsToHeaders: False`
-```
 
 :::
 
@@ -325,41 +322,39 @@ Delete tags once converted to headers. They are stored in a JSON
 
 ```md
 
-### 💜 <dev>DesignBox</dev><neuro>.Neuro</neuro>
+### 💜 <dev>DesignBox</dev><neuro>.Psike</neuro>
 
 ```md
-::: details 🛠 <dev>&&&</dev>
+---
 
-## DevNotes
+<!-- =================================================== -->
+<!-- =================================================== -->
+<!-- =================================================== -->
+<!-- =================================================== -->
+<!-- =================================================== -->
+::: details 🛠 <dev>&&&</dev>
 
 -
 
-## DevState
-
-```py
-`TagsToHeaders: False`
-```
-
 :::
 
-# 💜 <neuro>Neuro</neuro>
+# 💜 <neuro>Psike</neuro>
 
 ```md
 
 ### 🔷 <dev>DesignBox</dev><beta>.Beta</beta>
 
 ```md
+---
+
+<!-- =================================================== -->
+<!-- =================================================== -->
+<!-- =================================================== -->
+<!-- =================================================== -->
+<!-- =================================================== -->
 ::: details 🛠 <dev>&&&</dev>
 
-## DevNotes
-
 -
-
-## DevState
-
-```py
-`TagsToHeaders: False`
-```
 
 :::
 
@@ -370,17 +365,16 @@ Delete tags once converted to headers. They are stored in a JSON
 ### 🛠 <dev>DesignBox.Dev</dev>
 
 ```md
+---
+
+<!-- =================================================== -->
+<!-- =================================================== -->
+<!-- =================================================== -->
+<!-- =================================================== -->
+<!-- =================================================== -->
 ::: details 🛠 <dev>&&&</dev>
 
-## DevNotes
-
 -
-
-## DevState
-
-```py
-`TagsToHeaders: False`
-```
 
 :::
 
@@ -436,7 +430,7 @@ Should "via" be used as natural language? "Get to the next page via the link at 
 
 ### Taxonomy
 
-#### Moto.SubMoto
+#### Move.SubMoto
 
 ::: tip
 
@@ -446,11 +440,11 @@ It doesn't matter if nobody looks at it.
 
 :::
 
-- Subset of Moto
+- Subset of Move
 
-#### Moto.SuperMoto
+#### Move.SuperMoto
 
-- Superset of Moto
+- Superset of Move
 
 ```py
 
@@ -462,48 +456,48 @@ ArmSwing.SuperMoto = ArmMoto
 
 - Description of a useful image in mind's eye
 - Link to image
-- Link to PaperPhoto. Draw a rough sketch of the Moto, be sure to clearly Tag the sketch in the Head of the paper.
+- Link to PaperPhoto. Draw a rough sketch of the Move, be sure to clearly Tag the sketch in the Head of the paper.
     - Capture then Upload the Photo with Phone
 
-### Moto.Purpose
+### Move.Purpose
 
 The purpose is usually affect other BetaElements
 
-### Moto.AnteMoto
+### Move.AnteMoto
 
-Syntax: `Moto.AnteMoto`
+Syntax: `Move.AnteMoto`
 
 - How they transition to each other
 
-### Moto.PostMoto
+### Move.PostMoto
 
-### Moto.Via
+### Move.Via
 
-- How does this Moto interface with Eco?
-- Where in the Via is this Moto performed?
+- How does this Move interface with Eko?
+- Where in the Via is this Move performed?
 
-### Moto.Eko
+### Move.Eko
 
-Where in Eco is this Moto performed and on what EcoFactor. Put "the ground" if necessary. Nothing is too obvious in formal languages!
+Where in Eko is this Move performed and on what EcoFactor. Put "the ground" if necessary. Nothing is too obvious in formal languages!
 
-### Moto.Neuro
+### Move.Psike
 
 - Control Flow Statements for alternative moves
 
-### Moto.Error
+### Move.Error
 
 - Any errors in ControlFlow
 - MotoExecutionError
-- Error which is caused by Eco
+- Error which is caused by Eko
     - Soil Collapse
     - Wood breaking
 - Error Recovery if possible
 
 ## <via>ViaPage.BaseLayout</via>
 
-### <via>Via.Moto</via>
+### <via>Via.Move</via>
 
-### <via>Via.Neuro</via>
+### <via>Via.Psike</via>
 
 ### <via>Via.Beta</via>
 

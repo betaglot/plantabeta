@@ -82,17 +82,16 @@ Homonyms = {
 6. Search for empty design box to find the next page to dictate (there's about 360 left to go, approx 60 hours or work)
 
 ```md
+---
+
+<!-- =================================================== -->
+<!-- =================================================== -->
+<!-- =================================================== -->
+<!-- =================================================== -->
+<!-- =================================================== -->
 ::: details 🛠 <dev>&&&</dev>
 
-## DevNotes
-
 -
-
-## DevState
-
-```py
-`TagsToHeaders: False`
-```
 
 :::
 
@@ -144,17 +143,16 @@ for Paper in PaperPhotoList:
 
 ```md
 
+---
+
+<!-- =================================================== -->
+<!-- =================================================== -->
+<!-- =================================================== -->
+<!-- =================================================== -->
+<!-- =================================================== -->
 ::: details 🛠 <dev>&&&</dev>
 
-## DevNotes
-
 -
-
-## DevState
-
-```py
-`TagsToHeaders: False`
-```
 
 :::
 
@@ -226,7 +224,7 @@ There shouldn't be beta and putplant, because they a supposed to be the name of 
 
 Put(Plant) is the language and the
 
-Beta represents moto, but Moto is the move itself. Moto doesn't care about how it's being represented.
+Beta represents moto, but Move is the move itself. Move doesn't care about how it's being represented.
 
 ### Arnold Schwarzenegger
 
@@ -313,7 +311,7 @@ Every rep
 
 Make a list of DX research models for each module
 
-Moto, Neuro, Eco, Via, Beta
+Move, Psike, Eko, Via, Beta
 
 To make prototyping easier. So you don't need to worry about the content
 
@@ -321,10 +319,10 @@ To make prototyping easier. So you don't need to worry about the content
 
 researchModels = {
     'Via': BoustroCover,
-    'Neuro':
-    'Moto':
+    'Psike':
+    'Move':
     'Beta':
-    'Eco':
+    'Eko':
 }
 ```
 

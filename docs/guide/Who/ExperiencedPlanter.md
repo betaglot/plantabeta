@@ -11,7 +11,7 @@
 
 ## How to be an AmbidextrousPlanter
 
-Experienced Planters have mastered the basics of planting, but they usually don't swap the roles of their arms. Many experienced Planters spend years only using their dominant hand for [SpadeMoto](/encyclopedia/Moto/SpadeMoto/Overview), not only does this dispose Planters to injury, it also complicates when Planters must have a specific mixture of species that they're planting. Ambidextrous Planters can separate the species into either side of their planting bags
+Experienced Planters have mastered the basics of planting, but they usually don't swap the roles of their arms. Many experienced Planters spend years only using their dominant hand for [SpadeMoto](/encyclopedia/Move/SpadeMoto/Overview), not only does this dispose Planters to injury, it also complicates when Planters must have a specific mixture of species that they're planting. Ambidextrous Planters can separate the species into either side of their planting bags
 
 To reduce injury caused by repetitive strain.
 

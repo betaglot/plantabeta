@@ -15,7 +15,7 @@ aside: False
 ### Colors
 
 - <beta>Blue</beta> for 🔷<beta>Beta</beta>
-- <eko>Green</eko> for 🟩<eko>Eco</eko>
+- <eko>Green</eko> for 🟩<eko>Eko</eko>
 
 ### Brackets <beta>()</beta>
 

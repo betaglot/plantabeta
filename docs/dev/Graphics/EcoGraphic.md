@@ -1,11 +1,11 @@
-# 🛠 <eko>Eco Graphics</eko>
+# 🛠 <eko>Eko Graphics</eko>
 
 ## Simplify
 
-Simplify Eco like John Revill
+Simplify Eko like John Revill
 Depth Compression like accordion christmas book
 
-Cut out monotous Eco
+Cut out monotous Eko
 
 Shannon only send what you can't predict
 
@@ -26,18 +26,18 @@ Shannon only send what you can't predict
 
 <h2>PageTags</h2>
 
-- "Eco.EkoCard"
-- "Eco.EkoDiagram.CacheDiagram.CacheSize"
-- "Eco.EkoDiagram.CacheDiagram.ColorCode"
-- "Eco.EkoDiagram.CacheDiagram.Hatching"
-- "Eco.EkoDiagram.CacheDiagram.LevelOfDetail"
-- "Eco.EkoDiagram.CacheDiagram.Overview"
-- "Eco.EkoDiagram.Line.ContourLine"
-- "Eco.EkoDiagram.ObstacleDiagram.ColorCode"
-- "Eco.EkoDiagram.ObstacleDiagram.Hatching"
-- "Eco.EkoDiagram.ObstacleDiagram.LevelOfDetail"
-- "Eco.EkoDiagram.ObstacleDiagram.Overview"
-- "Eco.EkoDiagram.Overview"
-- "Eco.EkoDiagram.PlotDiagram"
-- "Eco.EkoDiagram.TreeSilhouette"
+- "Eko.EkoCard"
+- "Eko.EkoDiagram.CacheDiagram.CacheSize"
+- "Eko.EkoDiagram.CacheDiagram.ColorCode"
+- "Eko.EkoDiagram.CacheDiagram.Hatching"
+- "Eko.EkoDiagram.CacheDiagram.LevelOfDetail"
+- "Eko.EkoDiagram.CacheDiagram.Overview"
+- "Eko.EkoDiagram.Line.ContourLine"
+- "Eko.EkoDiagram.ObstacleDiagram.ColorCode"
+- "Eko.EkoDiagram.ObstacleDiagram.Hatching"
+- "Eko.EkoDiagram.ObstacleDiagram.LevelOfDetail"
+- "Eko.EkoDiagram.ObstacleDiagram.Overview"
+- "Eko.EkoDiagram.Overview"
+- "Eko.EkoDiagram.PlotDiagram"
+- "Eko.EkoDiagram.TreeSilhouette"
 :::

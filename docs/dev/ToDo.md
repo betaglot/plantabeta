@@ -28,7 +28,7 @@ LaptopOnly tasks include:
 - Tools
 - International
 - Naming
-- Neuro
+- Psike
 
 :::
 

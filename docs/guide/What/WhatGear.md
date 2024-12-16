@@ -1,22 +1,21 @@
 # What to bring as a Motel Planter?
 
+---
+
+<!-- =================================================== -->
+<!-- =================================================== -->
+<!-- =================================================== -->
+<!-- =================================================== -->
+<!-- =================================================== -->
 ::: details 🛠 <dev>&&&</dev>
 
-## DevNotes
-
 -
-
-## DevState
-
-```py
-`TagsToHeaders: False`
-```
 
 :::
 
 - Planters which don't live in tents, ie not in a bush camp.
 
-## 🟠 <moto>Moto Tools</moto>
+## 🟠 <moto>Move Tools</moto>
 
 Tools you need to perform planter motos.
 
@@ -38,7 +37,7 @@ You will not regret bringing duplicates of clothing. If you have the space then 
 
 :::
 
-## 💜 <neuro>Neuro Tools</neuro>
+## 💜 <neuro>Psike Tools</neuro>
 
 Tools you need for your brain.
 
@@ -59,7 +58,7 @@ Tools you need for your brain.
 
 ### 💜 <neuro>Speaker</neuro>
 
-- Use a speaker instead of headphones to be able to hear the Eco. Hear the wind, a tree falling behind you, an animal moving around, another planter trying to communicate with you.
+- Use a speaker instead of headphones to be able to hear the Eko. Hear the wind, a tree falling behind you, an animal moving around, another planter trying to communicate with you.
 
 ::: danger It is dangerous to plant with both headphones inserted!
 

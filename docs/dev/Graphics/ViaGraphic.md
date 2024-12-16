@@ -99,7 +99,7 @@ Closest
 
 ## Assassins Creed
 
-Eagle Vision is Via. Just like [EagleVision](https://www.youtube.com/watch?v=toW9lHSJ5Tg), Via is an abstraction layer onto Moto and
+Eagle Vision is Via. Just like [EagleVision](https://www.youtube.com/watch?v=toW9lHSJ5Tg), Via is an abstraction layer onto Move and
 
 ('lit')InsteadOf('highlighted')
 

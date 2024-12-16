@@ -80,7 +80,6 @@ MotoCards are positioned in a CoverChart
 
 ### Frame Rate
 
-
 All Phrases are lists
 
 ```py
@@ -101,13 +100,13 @@ Standardize the way that Phrases of BetaElements are represented in code and gra
 
 🔷 Code
 
-## Differentiate(Phrase, Supermoto, Moto, Submoto, BodyMoto)
+## Differentiate(Phrase, Supermoto, Move, Submoto, BodyMoto)
 
 An ArmPhrase is a list of ArmMotos performed in Parallel (BoxCarry), Concurrently (SpadeLift, TreeLoad)
 
 ## Control Flow Statements
 
-Control flow is the codified version of [Decision Making](/encyclopedia/Neuro/Decision/Overview)
+Control flow is the codified version of [Decision Making](/encyclopedia/Psike/Decision/Overview)
 
 - Decision
     - Conscious
@@ -125,7 +124,7 @@ Control flow is the codified version of [Decision Making](/encyclopedia/Neuro/De
 
 ### Else
 
-- Alternative Moto
+- Alternative Move
 
 ## GIF
 

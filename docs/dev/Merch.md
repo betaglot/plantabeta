@@ -26,7 +26,7 @@ No genders
 - Q:
 - K:
 
-### <neuro>Heart: Neuro</neuro>
+### <neuro>Heart: Psike</neuro>
 
 Focus on Emotion and feeling, not abstract computations
 
@@ -87,7 +87,7 @@ Joker: Rock under cream
 - Achievements Poster
 - ElementWeb
 - ElementTree
-- Moto, Via, Eco, Neuro, Beta
+- Move, Via, Eko, Psike, Beta
 - Betaglot Logo
 
 ## Video
@@ -108,7 +108,7 @@ Spaghetti sculpture build
 
 Thick diameter
 
-Dyed for Moto Direction Extension or Flexion like yoga book,
+Dyed for Move Direction Extension or Flexion like yoga book,
  WholeGrain
 
 ## Clothes

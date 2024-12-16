@@ -4,7 +4,7 @@
 
 - Spacing between objects in an enclosed space
 - Easiest Via through obstacles
-- [DistanceEstimation](/encyclopedia/Neuro/Estimation/DistanceEstimation)
+- [DistanceEstimation](/encyclopedia/Psike/Estimation/DistanceEstimation)
 
 ### Landscape Architecture
 

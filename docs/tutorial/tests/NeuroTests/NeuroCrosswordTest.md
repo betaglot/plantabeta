@@ -1,1 +1,1 @@
-# Neuro Crossword
+# Psike Crossword

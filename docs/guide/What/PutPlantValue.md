@@ -28,7 +28,7 @@
 - <eko>Put(Plant)</eko> reduced the worrying about what to expect during your Novice season.
 - "I can do this"
 - The fear of the unknown, especially unknown unknowns, can be paralyzing. <eko>Put(Plant)</eko> is being created to minimize the number of unknowns in a tree Planter's experience.
-- There is a whole page in <eko>Put(Plant)</eko> specifically devoted to Motivation. It's easy to become unmotivated when you're tired, you've spent the past few days in the rain and the Eco is difficult, but there is knowledge that Planters and PlanterSupervisors can use to keep planting!
+- There is a whole page in <eko>Put(Plant)</eko> specifically devoted to Motivation. It's easy to become unmotivated when you're tired, you've spent the past few days in the rain and the Eko is difficult, but there is knowledge that Planters and PlanterSupervisors can use to keep planting!
 
 ---
 
@@ -102,7 +102,7 @@
 
 - Put(Plant) informs Planters on the
 - Increased <neuro>CognitiveEase</neuro> leads to feelings of effortlessness.
-- Fluid moto through the Eco.
+- Fluid moto through the Eko.
 - Reduces the distance travelled by Planters by using efficient Routing.
 
 ---
