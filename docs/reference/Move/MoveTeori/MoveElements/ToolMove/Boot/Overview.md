@@ -10,16 +10,12 @@
 <!-- =================================================== -->
 ::: details 🛠 <dev>&&&</dev>
 
-
-
 -
-
-
 
 <h2>PageTags</h2>
 
-- "Move.ToolMoto.BootMoto.BootOff"
-- "Move.ToolMoto.BootMoto.BootOn"
-- "Move.ToolMoto.BootMoto.Overview"
+- "Move.ToolMove.BootMove.BootOff"
+- "Move.ToolMove.BootMove.BootOn"
+- "Move.ToolMove.BootMove.Overview"
 
 :::

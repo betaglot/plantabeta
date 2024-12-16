@@ -21,11 +21,7 @@ Planter Confidence is the solution to Ambiguity
 
 
 
-## DevState
 
-```py
-`TagsToHeaders: True`
-```
 
 - Self awareness
 

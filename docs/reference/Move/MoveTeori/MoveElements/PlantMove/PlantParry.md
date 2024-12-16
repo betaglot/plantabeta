@@ -25,22 +25,7 @@ When vegetation is blowing branches, grass and shrubs into you.
 - Tool2
 - Tool3
 
-## <move>Move Phrase</move>
 
-<div style="display: flex">
-    <div>
-        <img style="margin: 5px" height="200" width="200" alt="Icon" src="/Move/Moto_Icon.png"/>
-        <p>Description of Move Photo</p>
-    </div>
-    <div>
-        <img style="margin: 5px" height="200" width="200" alt="Icon" src="/Move/Moto_Icon.png"/>
-        <p>Description of Move Photo</p>
-    </div>
-    <div>
-        <img style="margin: 5px" height="200" width="200" alt="Icon" src="/Move/Moto_Icon.png"/>
-        <p>Description of Move Photo</p>
-    </div>
-</div>
 
 ## Element Purpose
 
@@ -50,30 +35,8 @@ When vegetation is blowing branches, grass and shrubs into you.
 
 -
 
-## BetaWeb
 
-<iframe
-    width="100%"
-    height="684"
-    frameborder="0"
-    src="https://observablehq.com/embed/@d3/force-directed-graph/2?cells=chart"
-></iframe>
 
-## Related <move>MotoFactors</move>
-
--
-
-## Related 🟩<eko>EcoFactors</eko>
-
--
-
-## Related 🔻<via>ViaFactors</via>
-
--
-
-## Related 💜<psike>NeuroFactors</psike>
-
--  
 
 ## Quotes
 
@@ -109,14 +72,10 @@ Links to other related motos. Related because they are the same MotoType or beca
 <!-- =================================================== -->
 ::: details 🛠 <dev>&&&</dev>
 
-
-
 -
-
-
 
 <h2>PageTags</h2>
 
-- "Move.PlantMoto.BranchArmDeflection"
-- "Move.PlantMoto.BranchDeflection"
+- "Move.PlantMove.BranchArmDeflection"
+- "Move.PlantMove.BranchDeflection"
 :::

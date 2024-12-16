@@ -148,8 +148,6 @@ There is a miscommunication happening if:
 <!-- =================================================== -->
 ::: details 🛠 <dev>&&&</dev>
 
-
-
 - TeamPut() is Beta
 - You don't need Beta to be a TreePlanter. Beta is just a Wrapper for communication. It's an API, an Interface between you and your coworkers.
 - Use Code snippets to write abbreviated names to insert Tags or ElementName
@@ -159,8 +157,6 @@ There is a miscommunication happening if:
 - Eko is not required for Attention
 - BodyBend does not require Via
 - Some Psike only uses NeuroConcepts, like Emotional Regulation. If a function uses more than one module then it is Beta.
-
-
 
 - Everything is an Object, like Python
 

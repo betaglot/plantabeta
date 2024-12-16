@@ -152,11 +152,7 @@ Trees/Time
 
 - Negociate
 
-## DevState
 
-```py
-`TagsToHeaders: True`
-```
 
 <h2>PageTags</h2>
 

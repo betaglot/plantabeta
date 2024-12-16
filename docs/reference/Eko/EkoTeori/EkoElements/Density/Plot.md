@@ -67,7 +67,7 @@ Select:
 
 ## Related <eko>EcoFactors</eko>🟩
 
-## Related <move>MotoFactors</move>
+## Related <move>MoveElements</move>
 
 ## Related <via>ViaFactors</via>
 

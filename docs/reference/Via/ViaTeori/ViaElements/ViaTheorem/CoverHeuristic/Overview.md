@@ -37,10 +37,6 @@ You can't start a phase with MotoRecovery
 
 ### Reflex
 
-## DevState
 
-```py
-`TagsToHeaders: True`
-```
 
 :::

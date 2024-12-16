@@ -78,7 +78,7 @@ Move is polyglot
 
 ## <move>What is a MotoError?</move>
 
-Errors don't necessarily come from you, they could arise from PlantMoto.
+Errors don't necessarily come from you, they could arise from PlantMove.
 
 ### MotoErrorRecovery
 
@@ -263,6 +263,6 @@ Recover as fluidly as possible
 - "Move.PlanterAttributes.PlanterSize"
 - "Move.RedirectMoto"
 - "Move.ViaInfluenceMoto"
-- "Move.SlashMoto.Overview"
+- "Move.SlashMove.Overview"
 
 :::

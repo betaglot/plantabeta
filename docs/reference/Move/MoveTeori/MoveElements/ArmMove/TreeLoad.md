@@ -1,5 +1,4 @@
-
-# 🟠 <move>GetTree</move>
+# 🟠 <move>TreeLoad</move>
 
 ![MoveIkon](/Move/Move_Ikon.png)
 
@@ -45,16 +44,7 @@
 
 -
 
-## BetaWeb
-
-<iframe
-    width="100%"
-    height="684"
-    frameborder="0"
-    src="https://observablehq.com/embed/@d3/force-directed-graph/2?cells=chart"
-></iframe>
-
-## Related <move>MotoFactors</move>
+## Related <move>MoveElements</move>
 
 -
 
@@ -104,13 +94,9 @@ Links to other related motos. Related because they are the same MotoType or beca
 <!-- =================================================== -->
 ::: details 🛠 <dev>&&&</dev>
 
-
-
 -
-
-
 
 <h2>PageTags</h2>
 
-- "Move.ArmMoto.TreeLoad"
+- "Move.ArmMove.TreeLoad"
 :::

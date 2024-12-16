@@ -38,14 +38,7 @@ Answer 3
 
 -
 
-## BetaWeb
 
-<iframe
-    width="100%"
-    height="684"
-    frameborder="0"
-    src="https://observablehq.com/embed/@d3/force-directed-graph/2?cells=chart"
-></iframe>
 
 ## Related 💜<psike>NeuroFactors</psike>
 
@@ -85,11 +78,7 @@ Links to other related NeuroFactors.
 <!-- =================================================== -->
 ::: details 🛠 <dev>&&&</dev>
 
-
-
 -
-
-
 
 > the ability to cope with and recover from setbacks
 

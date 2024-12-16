@@ -40,7 +40,7 @@ for Bundle in Box:
 
 ### Phrase
 
-> A dance phrase or sequence can be likened to a sentence formed when speaking. Sometimes we refer to dance phrases as moto sequences. For the purpose of this lesson either term is acceptable. Each phrase has a beginning, middle, and end. Motos selected in a dance phrase may flow one to the other naturally or may be connected by a transition moto. Evolving dance sequences from action words is another way to demystify the creative process. Action words lead to the formation of individual dance phrases and provide the framework for further developing those phrases into larger compositional forms. In this lesson, the action words are common terms used in contemporary dance.
+> A dance phrase or sequence can be likened to a sentence formed when speaking. Sometimes we refer to dance phrases as moto sequences. For the purpose of this lesson either term is acceptable. Each phrase has a beginning, middle, and end. Motos selected in a dance phrase may flow one to the other naturally or may be connected by a transition Move. Evolving dance sequences from action words is another way to demystify the creative process. Action words lead to the formation of individual dance phrases and provide the framework for further developing those phrases into larger compositional forms. In this lesson, the action words are common terms used in contemporary dance.
 
 - <https://us.humankinetics.com/blogs/excerpt/phrase-linking-motos>
 

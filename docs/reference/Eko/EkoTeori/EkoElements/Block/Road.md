@@ -77,7 +77,7 @@ Graph which represents how this element is related to other elements in Put(Plan
 
 ## Related <eko>EcoFactors</eko>🟩
 
-## Related <move>MotoFactors</move>
+## Related <move>MoveElements</move>
 
 ## Related <via>ViaFactors</via>
 

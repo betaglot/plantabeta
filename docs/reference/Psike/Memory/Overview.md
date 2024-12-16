@@ -38,11 +38,7 @@ First Person Point of View
 <!-- =================================================== -->
 ::: details 🛠 <dev>&&&</dev>
 
-
-
 -
-
-
 
 <h2>PageTags</h2>
 

@@ -24,10 +24,6 @@ BetaElementModuleValues = {
 
 -
 
-## DevState
 
-```py
-`TagsToHeaders: True`
-```
 
 :::

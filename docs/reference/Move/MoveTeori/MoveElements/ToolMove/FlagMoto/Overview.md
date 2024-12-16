@@ -42,8 +42,8 @@ Flags are posted throughout the land.
 
 <h2>PageTags</h2>
 
-- "Move.ToolMoto.FlagMoto.FlagDrop"
-- "Move.ToolMoto.FlagMoto.FlagStump"
-- "Move.ToolMoto.FlagMoto.MotoError.PlantedFlag"
-- "Move.ToolMoto.FlagMoto.Overview"
+- "Move.ToolMove.FlagMove.FlagDrop"
+- "Move.ToolMove.FlagMove.FlagStump"
+- "Move.ToolMove.FlagMove.MotoError.PlantedFlag"
+- "Move.ToolMove.FlagMove.Overview"
 :::

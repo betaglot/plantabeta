@@ -1,9 +1,4 @@
-
 # 🔷 <beta>Beta Examples</beta>
-
-![Paper_BetaQuote](/Paper_BetaQuote2.jpg)
-
-![Paper_BetaQuote](/Paper_BetaQuote.jpg)
 
 ## 🔷<beta>"<via>Follow that <eko>stream</eko> up to the <eko>top corner</eko> <psike>then</psike> go left and BoustroCover </via> <psike>then</psike> <move>walk </move>back to cache"</beta>
 
@@ -117,11 +112,7 @@ is not a move, it is Beta since it is composed of 3 modules:
 
 ## 🔷<beta>Get to the back of the piece then start backfilling</beta>
 
-
-
 -
-
-
 
 <h2>PageTags</h2>
 

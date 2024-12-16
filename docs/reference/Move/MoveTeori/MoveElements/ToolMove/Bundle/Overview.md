@@ -18,11 +18,11 @@
 
 <h2>PageTags</h2>
 
-- "Move.ToolMoto.BundleMoto.BundleRoll"
-- "Move.ToolMoto.BundleMoto.BundleUnwrap"
-- "Move.ToolMoto.BundleMoto.MotoError.WrapperLitter"
-- "Move.ToolMoto.BundleMoto.Overview"
+- "Move.ToolMove.BundleMove.BundleRoll"
+- "Move.ToolMove.BundleMove.BundleUnwrap"
+- "Move.ToolMove.BundleMove.MotoError.WrapperLitter"
+- "Move.ToolMove.BundleMove.Overview"
 
-Move/ToolMoto/Bundle/Overview.md, <dev>Move.ToolMoto.BundleMoto.Overview</dev>, ![2475.jpg](/PaperPhoto/2475.jpg)
+Move/ToolMoto/Bundle/Overview.md, <dev>Move.ToolMove.BundleMove.Overview</dev>, ![2475.jpg](/PaperPhoto/2475.jpg)
 
 :::

@@ -49,7 +49,7 @@ Graph which represents how this element is related to other elements in Put(Plan
 
 - block snow from crushing the seedling
 
-## Related <move>MotoFactors</move>
+## Related <move>MoveElements</move>
 
 ### 🟠SpadePryScreef
 
@@ -136,11 +136,7 @@ Links to other related EcoFactors. Related because they are the same EcoType or 
 <!-- =================================================== -->
 ::: details 🛠 <dev>&&&</dev>
 
-
-
 -
-
-
 
 - StumpObstacle is only an Obstacle for Cows
 :::

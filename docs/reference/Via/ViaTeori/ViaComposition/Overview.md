@@ -32,11 +32,7 @@ NormalForce vector is a parameter in area suitability computation Selection
 <!-- =================================================== -->
 ::: details 🛠 <dev>&&&</dev>
 
-
-
 -
-
-
 
 <h2>PageTags</h2>
 

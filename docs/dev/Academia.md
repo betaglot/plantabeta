@@ -45,10 +45,6 @@ Computational Geometry
 
 -
 
-## DevState
 
-```py
-`TagsToHeaders: True`
-```
 
 :::

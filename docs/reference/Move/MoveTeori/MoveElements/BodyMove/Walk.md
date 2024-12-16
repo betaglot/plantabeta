@@ -67,16 +67,9 @@ Aim small miss small. Larger moves have larger potential for error
 - Walking within a piece while **not** performing a planting Phrase.
 - Deadwalks are required to Cover very oblong areas.
 
-## BetaWeb
 
-<iframe
-    width="100%"
-    height="684"
-    frameborder="0"
-    src="https://observablehq.com/embed/@d3/force-directed-graph/2?cells=chart"
-></iframe>
 
-## Related <move>MotoFactors</move>
+## Related <move>MoveElements</move>
 
 - Walk  [<move>DeadWalking</move>](/encyclopedia/Move/MotoError#dead-walk).
 - Description of how this Walk relates to a particular [<move>MotoFactor</move>](/encyclopedia/Move/MotoOverview).
@@ -94,30 +87,7 @@ Aim small miss small. Larger moves have larger potential for error
 
 -  
 
-## Quotes
 
-Quotes about this Move
-
-> Quote
-
-## MotoErrors
-
-- Ways that this Move could be performed in correctly, causing injury or causing inefficiencies.
-
-## Examples
-
-- Use Media donated by Planters.
-
-Links to other related motos. Related because they are the same MotoType or because they are performed at the same time or within the same Phrase.
-
-## See also
-
-::: details External References
-
-- One
-- Two
-- Three
-:::
 
 ---
 
@@ -137,11 +107,11 @@ Links to other related motos. Related because they are the same MotoType or beca
 
 <h2>PageTags</h2>
 
-- "Move.BodyMoto.Walk"
+- "Move.BodyMove.Walk"
 
-Move/BodyMoto/Walk.md, <dev>Move.BodyMoto.Walk</dev>, ![1803.jpg](/PaperPhoto/1803.jpg)
-Move/BodyMoto/Walk.md, <dev>Move.BodyMoto.Walk</dev>, ![2450.jpg](/PaperPhoto/2450.jpg)
-Move/BodyMoto/Walk.md, <dev>Move.BodyMoto.Walk</dev>, ![3217.jpg](/PaperPhoto/3217.jpg)
-Move/BodyMoto/Walk.md, <dev>Move.BodyMoto.Walk</dev>, ![3222.jpg](/PaperPhoto/3222.jpg)
+Move/BodyMoto/Walk.md, <dev>Move.BodyMove.Walk</dev>, ![1803.jpg](/PaperPhoto/1803.jpg)
+Move/BodyMoto/Walk.md, <dev>Move.BodyMove.Walk</dev>, ![2450.jpg](/PaperPhoto/2450.jpg)
+Move/BodyMoto/Walk.md, <dev>Move.BodyMove.Walk</dev>, ![3217.jpg](/PaperPhoto/3217.jpg)
+Move/BodyMoto/Walk.md, <dev>Move.BodyMove.Walk</dev>, ![3222.jpg](/PaperPhoto/3222.jpg)
 
 :::

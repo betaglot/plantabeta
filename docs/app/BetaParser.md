@@ -43,10 +43,6 @@ Most of the Data in Parsed Beta will be hidden, but it is available if you want 
 
 -
 
-## DevState
 
-```py
-`TagsToHeaders: True`
-```
 
 :::

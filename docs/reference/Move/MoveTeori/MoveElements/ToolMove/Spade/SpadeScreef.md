@@ -19,22 +19,7 @@
 - Tool2
 - Tool3
 
-## <move>Move Phrase</move>
 
-<div style="display: flex">
-    <div>
-        <img style="margin: 5px" height="200" width="200" alt="Icon" src="/Move/Moto_Icon.png"/>
-        <p>Description of Move Photo</p>
-    </div>
-    <div>
-        <img style="margin: 5px" height="200" width="200" alt="Icon" src="/Move/Moto_Icon.png"/>
-        <p>Description of Move Photo</p>
-    </div>
-    <div>
-        <img style="margin: 5px" height="200" width="200" alt="Icon" src="/Move/Moto_Icon.png"/>
-        <p>Description of Move Photo</p>
-    </div>
-</div>
 
 ## Element Purpose
 
@@ -44,16 +29,9 @@
 
 -
 
-## BetaWeb
 
-<iframe
-    width="100%"
-    height="684"
-    frameborder="0"
-    src="https://observablehq.com/embed/@d3/force-directed-graph/2?cells=chart"
-></iframe>
 
-## Related <move>MotoFactors</move>
+## Related <move>MoveElements</move>
 
 -
 
@@ -116,8 +94,8 @@ Links to other related motos. Related because they are the same MotoType or beca
 
 <h2>PageTags</h2>
 
-- "Move.ToolMoto.SpadeMoto.SpadeScreef"
+- "Move.ToolMove.SpadeMove.SpadeScreef"
 
-Move/ToolMoto/Spade/SpadeScreef.md, <dev>Move.ToolMoto.SpadeMoto.SpadeScreef</dev>, ![1303.jpg](/PaperPhoto/1303.jpg)
-Move/ToolMoto/Spade/SpadeScreef.md, <dev>Move.ToolMoto.SpadeMoto.SpadeScreef</dev>, ![3088.jpg](/PaperPhoto/3088.jpg)
+Move/ToolMoto/Spade/SpadeScreef.md, <dev>Move.ToolMove.SpadeMove.SpadeScreef</dev>, ![1303.jpg](/PaperPhoto/1303.jpg)
+Move/ToolMoto/Spade/SpadeScreef.md, <dev>Move.ToolMove.SpadeMove.SpadeScreef</dev>, ![3088.jpg](/PaperPhoto/3088.jpg)
 :::

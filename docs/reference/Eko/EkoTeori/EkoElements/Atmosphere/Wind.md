@@ -52,7 +52,7 @@ Select:
 
 ## Related <eko>EcoFactors</eko>🟩
 
-## Related <move>MotoFactors</move>
+## Related <move>MoveElements</move>
 
 ## Related <via>ViaFactors</via>
 
@@ -93,11 +93,7 @@ Links to other related EcoFactors. Related because they are the same EcoType or 
 - Looking up while planting the treeline during windy weather
 - Stand with back to wind to push shirt onto skin for evaporative cooling
 
-## DevState
 
-```py
-`TagsToHeaders: True`
-```
 
 <h2>PageTags</h2>
 :::

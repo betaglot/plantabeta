@@ -26,11 +26,7 @@ A list of all terms that you must be familiar with to master planting.
 <!-- =================================================== -->
 ::: details 🛠 <dev>&&&</dev>
 
-
-
 -
-
-
 
 The ENCYCLOPEDIA Section is like a dictionary
 

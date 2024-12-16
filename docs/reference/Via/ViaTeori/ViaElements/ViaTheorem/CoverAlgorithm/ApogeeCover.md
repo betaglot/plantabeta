@@ -18,11 +18,7 @@
 <!-- =================================================== -->
 ::: details 🛠 <dev>&&&</dev>
 
-
-
 -
-
-
 
 Via/CoverAlgorithm/Overview.md, <dev>Via.AreaCover.BoustroCover</dev>, ![0034.jpg](/PaperPhoto/0034.jpg)
 Via/CoverAlgorithm/Overview.md, <dev>Via.PieceCover.PerimeterCover</dev>, ![0034.jpg](/PaperPhoto/0034.jpg)

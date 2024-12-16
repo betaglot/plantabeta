@@ -132,11 +132,7 @@ Train planters so the difficulty is mitigated by people learning a Factor instea
 <!-- =================================================== -->
 ::: details 🛠 <dev>&&&</dev>
 
-
-
 -
-
-
 
 ---
 

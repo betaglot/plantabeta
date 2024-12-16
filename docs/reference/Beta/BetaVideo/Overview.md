@@ -35,15 +35,6 @@ BetaVideo can be quickly jumped around like [HubermanLab timestamps](https://www
 <!-- =================================================== -->
 ::: details 🛠 <dev>&&&</dev>
 
-
-
-- MovementTranscription
-- Movement Staves
-
-## DevState
-
-```py
-`TagsToHeaders: True`
-```
+- Momentor
 
 :::

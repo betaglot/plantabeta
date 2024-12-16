@@ -26,11 +26,7 @@ BetaDifficultyScore = (MotoDifficultyScore + EcoDifficultyScore + ViaDifficultyS
 <!-- =================================================== -->
 ::: details 🛠 <dev>&&&</dev>
 
-
-
 -
-
-
 
 <h2>PageTags</h2>
 

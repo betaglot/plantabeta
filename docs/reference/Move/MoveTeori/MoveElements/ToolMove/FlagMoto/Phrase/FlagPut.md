@@ -28,22 +28,7 @@
 - Tool2
 - Tool3
 
-## <move>Move Phrase</move>
 
-<div style="display: flex">
-    <div>
-        <img style="margin: 5px" height="200" width="200" alt="Icon" src="/Move/Moto_Icon.png"/>
-        <p>Description of Move Photo</p>
-    </div>
-    <div>
-        <img style="margin: 5px" height="200" width="200" alt="Icon" src="/Move/Moto_Icon.png"/>
-        <p>Description of Move Photo</p>
-    </div>
-    <div>
-        <img style="margin: 5px" height="200" width="200" alt="Icon" src="/Move/Moto_Icon.png"/>
-        <p>Description of Move Photo</p>
-    </div>
-</div>
 
 ## Element Purpose
 
@@ -53,30 +38,8 @@
 
 -
 
-## BetaWeb
 
-<iframe
-    width="100%"
-    height="684"
-    frameborder="0"
-    src="https://observablehq.com/embed/@d3/force-directed-graph/2?cells=chart"
-></iframe>
 
-## Related <move>MotoFactors</move>
-
--
-
-## Related 🟩<eko>EcoFactors</eko>
-
--
-
-## Related 🔻<via>ViaFactors</via>
-
--
-
-## Related 💜<psike>NeuroFactors</psike>
-
--  
 
 ## Quotes
 
@@ -112,23 +75,19 @@ Links to other related motos. Related because they are the same MotoType or beca
 <!-- =================================================== -->
 ::: details 🛠 <dev>&&&</dev>
 
-
-
 -
-
-
 
 <h2>PageTags</h2>
 
-- "Move.ToolMoto.FlagMoto.FlagWrap"
-- "Move.ToolMoto.FlagMoto.FlagWeave"
-- "Move.ToolMoto.FlagMoto.FlagThrow"
-- "Move.ToolMoto.FlagMoto.FlagKnot"
+- "Move.ToolMove.FlagMove.FlagWrap"
+- "Move.ToolMove.FlagMove.FlagWeave"
+- "Move.ToolMove.FlagMove.FlagThrow"
+- "Move.ToolMove.FlagMove.FlagKnot"
 
-Move/ToolMoto/FlagMoto/FlagWrap.md, <dev>Move.ToolMoto.FlagMoto.FlagWrap</dev>, ![0056.jpg](/PaperPhoto/0056.jpg)
-Move/ToolMoto/FlagMoto/FlagWrap.md, <dev>Move.ToolMoto.FlagMoto.FlagWrap</dev>, ![3021.jpg](/PaperPhoto/3021.jpg)
-Move/ToolMoto/FlagMoto/FlagRip.md, <dev>Move.ToolMoto.FlagMoto.FlagRip</dev>, ![2945.jpg](/PaperPhoto/2945.jpg)
-Move/ToolMoto/FlagMoto/FlagWeave.md, <dev>Move.ToolMoto.FlagMoto.FlagWeave</dev>, ![0049.jpg](/PaperPhoto/0049.jpg)
-Move/ToolMoto/FlagMoto/FlagWeave.md, <dev>Move.ToolMoto.FlagMoto.FlagWeave</dev>, ![0487.jpg](/PaperPhoto/0487.jpg)
-Move/ToolMoto/FlagMoto/FlagWeave.md, <dev>Move.ToolMoto.FlagMoto.FlagWeave</dev>, ![3021.jpg](/PaperPhoto/3021.jpg)
+Move/ToolMoto/FlagMoto/FlagWrap.md, <dev>Move.ToolMove.FlagMove.FlagWrap</dev>, ![0056.jpg](/PaperPhoto/0056.jpg)
+Move/ToolMoto/FlagMoto/FlagWrap.md, <dev>Move.ToolMove.FlagMove.FlagWrap</dev>, ![3021.jpg](/PaperPhoto/3021.jpg)
+Move/ToolMoto/FlagMoto/FlagRip.md, <dev>Move.ToolMove.FlagMove.FlagRip</dev>, ![2945.jpg](/PaperPhoto/2945.jpg)
+Move/ToolMoto/FlagMoto/FlagWeave.md, <dev>Move.ToolMove.FlagMove.FlagWeave</dev>, ![0049.jpg](/PaperPhoto/0049.jpg)
+Move/ToolMoto/FlagMoto/FlagWeave.md, <dev>Move.ToolMove.FlagMove.FlagWeave</dev>, ![0487.jpg](/PaperPhoto/0487.jpg)
+Move/ToolMoto/FlagMoto/FlagWeave.md, <dev>Move.ToolMove.FlagMove.FlagWeave</dev>, ![3021.jpg](/PaperPhoto/3021.jpg)
 :::

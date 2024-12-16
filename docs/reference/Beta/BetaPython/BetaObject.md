@@ -31,10 +31,6 @@ The objects of Beta are people.
 
 -
 
-## DevState
 
-```py
-`TagsToHeaders: True`
-```
 
 :::

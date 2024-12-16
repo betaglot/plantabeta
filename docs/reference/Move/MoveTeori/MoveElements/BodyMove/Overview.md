@@ -22,15 +22,15 @@
 
 <h2>PageTags</h2>
 
-- "Move.BodyMoto.BodyDrop.BodyDropInto"
-- "Move.BodyMoto.BodyLock"
-- "Move.BodyMoto.BodyPosture"
-- "Move.BodyMoto.Landing"
-- "Move.BodyMoto.Landing.MotoError.LegProp"
-- "Move.BodyMoto.Mantle"
-- "Move.BodyMoto.Overview"
-- "Move.BodyMoto.Stemming"
-- "Move.BodyMoto.Straddle"
+- "Move.BodyMove.BodyDrop.BodyDropInto"
+- "Move.BodyMove.BodyLock"
+- "Move.BodyMove.BodyPosture"
+- "Move.BodyMove.Landing"
+- "Move.BodyMove.Landing.MotoError.LegProp"
+- "Move.BodyMove.Mantle"
+- "Move.BodyMove.Overview"
+- "Move.BodyMove.Stemming"
+- "Move.BodyMove.Straddle"
 - Body move overview every single move is a body move so body move is the superset of everything because a planter is a body so there's body moves and then there's each limb has their own particular variation for about for a body move body moves
 
 - a good image for the body move would be I think it'd be a good idea to have a picture of the body that planters don't normally see so like a top few would be good body moves the biggest
@@ -45,14 +45,14 @@
 
 - Superman slam I guess I should say into the ground so that would be a body move stepping up a little bit to use the full weight the full gravity mass of your body on the Spade on the spadeslam this will allow you to be more efficient because your body needs to come down anyway so it's nice to use gravity with use gravities acceleration as a positive
 
-Move/BodyMoto/Overview.md, <dev>Move.BodyMoto.Overview</dev>, ![1027.jpg](/PaperPhoto/1027.jpg)
-Move/BodyMoto/Overview.md, <dev>Move.BodyMoto.Stemming</dev>, ![1100.jpg](/PaperPhoto/1100.jpg)
-Move/BodyMoto/Overview.md, <dev>Move.BodyMoto.BodyDrop.BodyDropInto</dev>, ![1796.jpg](/PaperPhoto/1796.jpg)
-Move/BodyMoto/Overview.md, <dev>Move.BodyMoto.BodyPosture</dev>, ![1840.jpg](/PaperPhoto/1840.jpg)
-Move/BodyMoto/Overview.md, <dev>Move.BodyMoto.Mantle</dev>, ![2278.jpg](/PaperPhoto/2278.jpg)
-Move/BodyMoto/Overview.md, <dev>Move.BodyMoto.Overview</dev>, ![2355.jpg](/PaperPhoto/2355.jpg)
-Move/BodyMoto/Overview.md, <dev>Move.BodyMoto.Landing</dev>, ![2450.jpg](/PaperPhoto/2450.jpg)
-Move/BodyMoto/Overview.md, <dev>Move.BodyMoto.BodyPosture</dev>, ![2469.jpg](/PaperPhoto/2469.jpg)
-Move/BodyMoto/Overview.md, <dev>Move.BodyMoto.Overview</dev>, ![2474.jpg](/PaperPhoto/2474.jpg)
-Move/BodyMoto/Overview.md, <dev>Move.BodyMoto.Stemming</dev>, ![2834.jpg](/PaperPhoto/2834.jpg)
+Move/BodyMoto/Overview.md, <dev>Move.BodyMove.Overview</dev>, ![1027.jpg](/PaperPhoto/1027.jpg)
+Move/BodyMoto/Overview.md, <dev>Move.BodyMove.Stemming</dev>, ![1100.jpg](/PaperPhoto/1100.jpg)
+Move/BodyMoto/Overview.md, <dev>Move.BodyMove.BodyDrop.BodyDropInto</dev>, ![1796.jpg](/PaperPhoto/1796.jpg)
+Move/BodyMoto/Overview.md, <dev>Move.BodyMove.BodyPosture</dev>, ![1840.jpg](/PaperPhoto/1840.jpg)
+Move/BodyMoto/Overview.md, <dev>Move.BodyMove.Mantle</dev>, ![2278.jpg](/PaperPhoto/2278.jpg)
+Move/BodyMoto/Overview.md, <dev>Move.BodyMove.Overview</dev>, ![2355.jpg](/PaperPhoto/2355.jpg)
+Move/BodyMoto/Overview.md, <dev>Move.BodyMove.Landing</dev>, ![2450.jpg](/PaperPhoto/2450.jpg)
+Move/BodyMoto/Overview.md, <dev>Move.BodyMove.BodyPosture</dev>, ![2469.jpg](/PaperPhoto/2469.jpg)
+Move/BodyMoto/Overview.md, <dev>Move.BodyMove.Overview</dev>, ![2474.jpg](/PaperPhoto/2474.jpg)
+Move/BodyMoto/Overview.md, <dev>Move.BodyMove.Stemming</dev>, ![2834.jpg](/PaperPhoto/2834.jpg)
 :::

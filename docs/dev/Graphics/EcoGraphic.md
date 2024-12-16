@@ -18,11 +18,7 @@ Shannon only send what you can't predict
 <!-- =================================================== -->
 ::: details 🛠 <dev>&&&</dev>
 
-
-
 -
-
-
 
 ![PaperPhoto](/PaperPhoto/0034.jpg)
 ![PaperPhoto](/PaperPhoto/0051.jpg)

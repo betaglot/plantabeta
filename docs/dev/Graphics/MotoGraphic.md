@@ -17,11 +17,7 @@ Mirror images for ambidextrous planter
 <!-- =================================================== -->
 ::: details 🛠 <dev>&&&</dev>
 
-
-
 -
-
-
 
 ![PaperPhoto](/PaperPhoto/0031.jpg)
 ![PaperPhoto](/PaperPhoto/0032.jpg)

@@ -5,7 +5,7 @@
         <img height="350" width="350" alt="SpadeProp" src="/Move/SpadeProp.png"/>
     </div>
     <div style="margin: 5px; width: 50%">
-        <p >Description of Move. How the moto got its name. The purpose of the moto. Common misconceptions about the moto. How to differentiate this moto from another similar moto</p>
+        <p >Description of Move. How the moto got its name. The purpose of the Move. Common misconceptions about the Move. How to differentiate this moto from another similar moto</p>
     </div>
 </div>
 
@@ -25,22 +25,7 @@
 - Tool2
 - Tool3
 
-## <move>Move Phrase</move>
 
-<div style="display: flex">
-    <div>
-        <img style="margin: 5px" height="200" width="200" alt="Icon" src="/Move/Moto_Icon.png"/>
-        <p>Description of Move Photo</p>
-    </div>
-    <div>
-        <img style="margin: 5px" height="200" width="200" alt="Icon" src="/Move/Moto_Icon.png"/>
-        <p>Description of Move Photo</p>
-    </div>
-    <div>
-        <img style="margin: 5px" height="200" width="200" alt="Icon" src="/Move/Moto_Icon.png"/>
-        <p>Description of Move Photo</p>
-    </div>
-</div>
 
 ## Element Purpose
 
@@ -50,30 +35,8 @@
 
 -
 
-## BetaWeb
 
-<iframe
-    width="100%"
-    height="684"
-    frameborder="0"
-    src="https://observablehq.com/embed/@d3/force-directed-graph/2?cells=chart"
-></iframe>
 
-## Related <move>MotoFactors</move>
-
--
-
-## Related 🟩<eko>EcoFactors</eko>
-
--
-
-## Related 🔻<via>ViaFactors</via>
-
--
-
-## Related 💜<psike>NeuroFactors</psike>
-
--  
 
 ## Quotes
 
@@ -117,8 +80,8 @@ Links to other related motos. Related because they are the same MotoType or beca
 
 <h2>PageTags</h2>
 
-- "Move.ToolMoto.SpadeMoto.SpadeProp"
+- "Move.ToolMove.SpadeMove.SpadeProp"
 
-Move/ToolMoto/Spade/SpadeProp.md, <dev>Move.ToolMoto.SpadeMoto.SpadeProp</dev>, ![2469.jpg](/PaperPhoto/2469.jpg)
-Move/ToolMoto/Spade/SpadeProp.md, <dev>Move.ToolMoto.SpadeMoto.SpadeProp</dev>, ![2567.jpg](/PaperPhoto/2567.jpg)
+Move/ToolMoto/Spade/SpadeProp.md, <dev>Move.ToolMove.SpadeMove.SpadeProp</dev>, ![2469.jpg](/PaperPhoto/2469.jpg)
+Move/ToolMoto/Spade/SpadeProp.md, <dev>Move.ToolMove.SpadeMove.SpadeProp</dev>, ![2567.jpg](/PaperPhoto/2567.jpg)
 :::

@@ -14,13 +14,9 @@
 <!-- =================================================== -->
 ::: details 🛠 <dev>&&&</dev>
 
-
-
 -
-
-
 
 <h2>PageTags</h2>
 
-- "Move.ToolMoto.BootMoto.LaceKnot"
+- "Move.ToolMove.BootMove.LaceKnot"
 :::

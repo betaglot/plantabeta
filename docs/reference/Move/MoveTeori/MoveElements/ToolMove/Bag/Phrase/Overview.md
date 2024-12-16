@@ -10,13 +10,9 @@
 <!-- =================================================== -->
 ::: details 🛠 <dev>&&&</dev>
 
-
-
 -
-
-
 
 <h2>PageTags</h2>
 
-- "Move.ToolMoto.BagMoto.BagOn"
+- "Move.ToolMove.BagMove.BagOn"
 :::

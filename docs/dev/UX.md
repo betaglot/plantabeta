@@ -87,11 +87,7 @@ The Ref is like the API section of Vue.org
 <!-- =================================================== -->
 ::: details 🛠 <dev>&&&</dev>
 
-
-
 -
-
-
 
 ## ToReduceConfusion
 

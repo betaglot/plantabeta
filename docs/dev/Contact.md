@@ -47,10 +47,6 @@ Which parts of of [Put(Plant)](/guide/introduction.html#what-is-putplant) are:
 
 -
 
-## DevState
 
-```py
-`TagsToHeaders: True`
-```
 
 :::

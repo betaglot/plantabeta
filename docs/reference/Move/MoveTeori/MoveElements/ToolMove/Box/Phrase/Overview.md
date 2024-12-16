@@ -36,15 +36,11 @@
 <!-- =================================================== -->
 ::: details 🛠 <dev>&&&</dev>
 
-
-
 -
-
-
 
 <h2>PageTags</h2>
 
-- "Move.ToolMoto.BoxMoto.BoxStack"
+- "Move.ToolMove.BoxMove.BoxStack"
 
-Move/ToolMoto/Box/BoxPhrase.md, <dev>Move.ToolMoto.BoxMoto.BoxStack</dev>, ![0071.jpg](/PaperPhoto/0071.jpg)
+Move/ToolMoto/Box/BoxPhrase.md, <dev>Move.ToolMove.BoxMove.BoxStack</dev>, ![0071.jpg](/PaperPhoto/0071.jpg)
 :::

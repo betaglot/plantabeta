@@ -13,10 +13,6 @@
 
 -
 
-## DevState
 
-```py
-`TagsToHeaders: True`
-```
 
 :::

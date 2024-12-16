@@ -94,11 +94,7 @@ When to slow down
 <!-- =================================================== -->
 ::: details 🛠 <dev>&&&</dev>
 
-
-
 -
-
-
 
 - Spatially complex
 

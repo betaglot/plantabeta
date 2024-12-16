@@ -86,11 +86,7 @@ It's not BetaComp that is combatting Climate Change, it's the climbers that are 
 <!-- =================================================== -->
 ::: details 🛠 <dev>&&&</dev>
 
-
-
 -
-
-
 
 Video of climbing with planting bags on
 

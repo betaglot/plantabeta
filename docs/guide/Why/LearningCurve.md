@@ -32,11 +32,7 @@ There will always be an element of Trial and Error in tree planting. A goal of P
 <!-- =================================================== -->
 ::: details 🛠 <dev>&&&</dev>
 
-
-
 -
-
-
 
 <h2>PageTags</h2>
 

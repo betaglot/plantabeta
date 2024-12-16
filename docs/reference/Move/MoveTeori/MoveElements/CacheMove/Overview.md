@@ -46,12 +46,12 @@ Readymade
 
 <h2>PageTags</h2>
 
-- "Move.CacheMoto.BagsPlacement"
-- "Move.CacheMoto.BoxPlacement"
-- "Move.CacheMoto.BundlePlacement"
-- "Move.CacheMoto.CacheBreak.Overview"
-- "Move.CacheMoto.GarbageBox"
-- "Move.CacheMoto.Overview"
+- "Move.CacheMove.BagsPlacement"
+- "Move.CacheMove.BoxPlacement"
+- "Move.CacheMove.BundlePlacement"
+- "Move.CacheMove.CacheBreak.Overview"
+- "Move.CacheMove.GarbageBox"
+- "Move.CacheMove.Overview"
 - Cache move so a cache move the cache is a good example of where the root really matters
 
 - a cache is typically about 3 m wide 2 m in the other direction and maybe a meter tall
@@ -74,8 +74,8 @@ Readymade
 
 - BottleReCoverMoto
 
-Move/CacheMoto/Overview.md, <dev>Move.CacheMoto.Overview</dev>, ![0048.jpg](/PaperPhoto/0048.jpg)
-Move/CacheMoto/Overview.md, <dev>Move.CacheMoto.Overview</dev>, ![3064.jpg](/PaperPhoto/3064.jpg)
-Move/CacheMoto/Overview.md, <dev>Move.CacheMoto.BagsPlacement</dev>, ![3076.jpg](/PaperPhoto/3076.jpg)
-Move/CacheMoto/Overview.md, <dev>Move.CacheMoto.Overview</dev>, ![3076.jpg](/PaperPhoto/3076.jpg)
+Move/CacheMoto/Overview.md, <dev>Move.CacheMove.Overview</dev>, ![0048.jpg](/PaperPhoto/0048.jpg)
+Move/CacheMoto/Overview.md, <dev>Move.CacheMove.Overview</dev>, ![3064.jpg](/PaperPhoto/3064.jpg)
+Move/CacheMoto/Overview.md, <dev>Move.CacheMove.BagsPlacement</dev>, ![3076.jpg](/PaperPhoto/3076.jpg)
+Move/CacheMoto/Overview.md, <dev>Move.CacheMove.Overview</dev>, ![3076.jpg](/PaperPhoto/3076.jpg)
 :::

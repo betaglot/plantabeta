@@ -6,7 +6,7 @@
         <img height="350" width="350" alt="InsertTree" src="/Move/InsertTree.png"/>
     </div>
     <div style="margin: 5px; width: 50%">
-        <p >Description of Move. How the moto got its name. The purpose of the moto. Common misconceptions about the moto. How to differentiate this moto from another similar moto</p>
+        <p >Description of Move. How the moto got its name. The purpose of the Move. Common misconceptions about the Move. How to differentiate this moto from another similar moto</p>
     </div>
 </div>
 
@@ -26,22 +26,7 @@
 - Tool2
 - Tool3
 
-## <move>Move Phrase</move>
 
-<div style="display: flex">
-    <div>
-        <img style="margin: 5px" height="200" width="200" alt="Icon" src="/Move/Moto_Icon.png"/>
-        <p>Description of Move Photo</p>
-    </div>
-    <div>
-        <img style="margin: 5px" height="200" width="200" alt="Icon" src="/Move/Moto_Icon.png"/>
-        <p>Description of Move Photo</p>
-    </div>
-    <div>
-        <img style="margin: 5px" height="200" width="200" alt="Icon" src="/Move/Moto_Icon.png"/>
-        <p>Description of Move Photo</p>
-    </div>
-</div>
 
 ## Element Purpose
 
@@ -51,55 +36,10 @@
 
 -
 
-## BetaWeb
 
-<iframe
-    width="100%"
-    height="684"
-    frameborder="0"
-    src="https://observablehq.com/embed/@d3/force-directed-graph/2?cells=chart"
-></iframe>
 
-## Related <move>MotoFactors</move>
 
--
 
-## Related 🟩<eko>EcoFactors</eko>
-
--
-
-## Related 🔻<via>ViaFactors</via>
-
--
-
-## Related 💜<psike>NeuroFactors</psike>
-
--  
-
-## Quotes
-
-Quotes about this Move
-
-> Quote
-
-## MotoErrors
-
-- Ways that this Move could be performed in correctly, causing injury or causing inefficiencies.
-
-## Examples
-
-- Use Media donated by Planters.
-
-Links to other related motos. Related because they are the same MotoType or because they are performed at the same time or within the same Phrase.
-
-## See also
-
-::: details External References
-
-- One
-- Two
-- Three
-:::
 
 ---
 
@@ -118,8 +58,8 @@ Links to other related motos. Related because they are the same MotoType or beca
 
 <h2>PageTags</h2>
 
-- "Move.HandMoto.InsertTree"
+- "Move.HandMove.InsertTree"
 
-Move/HandMoto/InsertTree.md, <dev>Move.HandMoto.InsertTree</dev>, ![2945.jpg](/PaperPhoto/2945.jpg)
-Move/HandMoto/InsertTree.md, <dev>Move.HandMoto.InsertTree</dev>, ![3060.jpg](/PaperPhoto/3060.jpg)
+Move/HandMoto/InsertTree.md, <dev>Move.HandMove.InsertTree</dev>, ![2945.jpg](/PaperPhoto/2945.jpg)
+Move/HandMoto/InsertTree.md, <dev>Move.HandMove.InsertTree</dev>, ![3060.jpg](/PaperPhoto/3060.jpg)
 :::

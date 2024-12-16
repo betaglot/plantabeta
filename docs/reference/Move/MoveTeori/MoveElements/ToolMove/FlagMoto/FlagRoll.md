@@ -22,13 +22,9 @@
 <!-- =================================================== -->
 ::: details 🛠 <dev>&&&</dev>
 
-
-
 -
-
-
 
 <h2>PageTags</h2>
 
-- "Move.ToolMoto.FlagMoto.FlagRoll"
+- "Move.ToolMove.FlagMove.FlagRoll"
 :::

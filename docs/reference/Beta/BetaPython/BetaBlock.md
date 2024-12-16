@@ -36,10 +36,6 @@ BetaLoopMantra
 
 - Negociate
 
-## DevState
 
-```py
-`TagsToHeaders: True`
-```
 
 :::

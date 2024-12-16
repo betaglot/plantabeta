@@ -42,14 +42,7 @@ Answer 3
 
 -
 
-## BetaWeb
 
-<iframe
-    width="100%"
-    height="684"
-    frameborder="0"
-    src="https://observablehq.com/embed/@d3/force-directed-graph/2?cells=chart"
-></iframe>
 
 ## Related 🟩<eko>EcoFactors</eko>
 
