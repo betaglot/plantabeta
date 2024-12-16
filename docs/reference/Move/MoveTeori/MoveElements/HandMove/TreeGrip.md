@@ -89,9 +89,4 @@
 - "Move.HandMove.TreeFlip"
 - "Move.HandMove.TreeGrip"
 
-Move/HandMoto/TreeGrip.md, <dev>Move.HandMove.TreeGrip</dev>, ![0448.jpg](/PaperPhoto/0448.jpg)
-Move/HandMoto/TreeGrip.md, <dev>Move.HandMove.TreeFlip</dev>, ![1859.jpg](/PaperPhoto/1859.jpg)
-Move/HandMoto/TreeGrip.md, <dev>Move.HandMove.TreeFlip</dev>, ![2944.jpg](/PaperPhoto/2944.jpg)
-Move/HandMoto/TreeGrip.md, <dev>Move.HandMove.TreeGrip</dev>, ![2944.jpg](/PaperPhoto/2944.jpg)
-Move/HandMoto/TreeGrip.md, <dev>Move.HandMove.TreeGrip</dev>, ![2954.jpg](/PaperPhoto/2954.jpg)
 :::

@@ -45,12 +45,4 @@ First Person Point of View
 - "Psike.Memory"
 - "Psike.Memory.Mnemonic"
 
-Psike/Memory/Overview.md, <dev>Psike.Memory.Mnemonic</dev>, ![1409.jpg](/PaperPhoto/1409.jpg)
-Psike/Memory/Overview.md, <dev>Psike.Memory</dev>, ![1489.jpg](/PaperPhoto/1489.jpg)
-Psike/Memory/Overview.md, <dev>Psike.Memory.Mnemonic</dev>, ![1489.jpg](/PaperPhoto/1489.jpg)
-Psike/Memory/Overview.md, <dev>Psike.Memory</dev>, ![1881.jpg](/PaperPhoto/1881.jpg)
-Psike/Memory/Overview.md, <dev>Psike.Memory</dev>, ![2537.jpg](/PaperPhoto/2537.jpg)
-Psike/Memory/Overview.md, <dev>Psike.Memory</dev>, ![2987.jpg](/PaperPhoto/2987.jpg)
-Psike/Memory/Overview.md, <dev>Psike.Memory</dev>, ![3164.jpg](/PaperPhoto/3164.jpg)
-Psike/Memory/Overview.md, <dev>Psike.Memory</dev>, ![3269.jpg](/PaperPhoto/3269.jpg)
 :::

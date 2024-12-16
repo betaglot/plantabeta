@@ -3,13 +3,7 @@
 
 ![NeuroIcon](/Psike/Neuro_Icon.png)
 
-## Element Problem
 
--
-
-## Element Theorem
-
--
 
 ## Questions about the Element
 
@@ -70,9 +64,4 @@ Links to other related NeuroFactors.
 ::: details 🛠 <dev>&&&</dev>
 
 -
-
-Psike/Counting/Overview.md, <dev>Psike.Counting</dev>, ![1859.jpg](/PaperPhoto/1859.jpg)
-Psike/Counting/Overview.md, <dev>Psike.Counting</dev>, ![2567.jpg](/PaperPhoto/2567.jpg)
-Psike/Counting/Overview.md, <dev>Psike.Counting</dev>, ![2942.jpg](/PaperPhoto/2942.jpg)
-Psike/Counting/Overview.md, <dev>Psike.Counting</dev>, ![3005.jpg](/PaperPhoto/3005.jpg)
 :::

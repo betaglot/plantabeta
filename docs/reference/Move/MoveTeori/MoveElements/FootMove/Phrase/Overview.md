@@ -18,6 +18,4 @@
 - "Move.FootMove.FootMatch"
 - "Move.FootMove.FootSwap"
 
-Move/FootMoto/FootPhrase.md, <dev>Move.FootMove.FootSwap</dev>, ![1796.jpg](/PaperPhoto/1796.jpg)
-
 :::

@@ -23,13 +23,7 @@ HubermanLab Guest Series [with Dr. Matt Walker](https://www.youtube.com/playlist
 
 ## Body Temperature
 
-## Element Problem
 
--
-
-## Element Theorem
-
--
 
 ## Questions about the Element
 
@@ -41,13 +35,7 @@ HubermanLab Guest Series [with Dr. Matt Walker](https://www.youtube.com/playlist
 
 
 
-## Element Purpose
 
--
-
-## Element Attributes
-
--
 
 
 

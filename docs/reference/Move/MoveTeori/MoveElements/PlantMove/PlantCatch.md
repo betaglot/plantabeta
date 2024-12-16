@@ -6,31 +6,13 @@
 
 The Plant can be moving towards you or the Plant can be stationary while you move towards the vege
 
-## Element Problem
-
--
-
-## Element Theorem
-
--
-
-## Questions about the Element
-
-## RequiredTools
-
-- Tool1
-- Tool2
-- Tool3
 
 
 
-## Element Purpose
 
--
 
-## Element Attributes
 
--
+
 
 
 

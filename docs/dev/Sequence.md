@@ -191,5 +191,4 @@ All algorithms are Phrases. "Phrase" is more commonplace than "Algorithm". Use "
 
 
 
-![PaperPhoto](/PaperPhoto/0017.jpg)
 :::

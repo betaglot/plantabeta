@@ -169,11 +169,5 @@ Trees/Time
 
 ---
 
-Beta/BetaFunction.md, <dev>Beta.BetaFunction.ChunkBeta.BetaChunk</dev>, ![0990.jpg](/PaperPhoto/0990.jpg)
-Beta/BetaFunction.md, <dev>Beta.BetaFunction.MimeBeta</dev>, ![1740.jpg](/PaperPhoto/1740.jpg)
-Beta/BetaFunction.md, <dev>Beta.BetaFunction.ChunkBeta.BetaChunk</dev>, ![1830.jpg](/PaperPhoto/1830.jpg)
-Beta/BetaFunction.md, <dev>Beta.BetaFunction.MimeBeta</dev>, ![1844.jpg](/PaperPhoto/1844.jpg)
-Beta/BetaFunction.md, <dev>Beta.BetaFunction.AskBeta</dev>, ![1853.jpg](/PaperPhoto/1853.jpg)
-Beta/BetaFunction.md, <dev>Beta.BetaFunction.MimeBeta</dev>, ![1853.jpg](/PaperPhoto/1853.jpg)
 
 :::

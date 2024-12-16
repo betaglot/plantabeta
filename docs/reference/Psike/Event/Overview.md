@@ -72,7 +72,4 @@ Event from a first person perspective
 
 - "Psike.Event"
 
-Psike/Event/Overview.md, <dev>Psike.Event</dev>, ![2963.jpg](/PaperPhoto/2963.jpg)
-Psike/Event/Overview.md, <dev>Psike.Event</dev>, ![3000.jpg](/PaperPhoto/3000.jpg)
-Psike/Event/Overview.md, <dev>Psike.Event</dev>, ![3019.jpg](/PaperPhoto/3019.jpg)
 :::

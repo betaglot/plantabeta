@@ -5,13 +5,7 @@
 
 ![NeuroIcon](/Psike/Neuro_Icon.png)
 
-## Element Problem
 
--
-
-## Element Theorem
-
--
 
 ## Questions about the Element
 

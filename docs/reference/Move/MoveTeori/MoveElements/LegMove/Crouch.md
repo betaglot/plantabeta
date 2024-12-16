@@ -3,31 +3,13 @@
 
 ![MoveIkon](/Move/Move_Ikon.png)
 
-## Element Problem
-
--
-
-## Element Theorem
-
--
-
-## Questions about the Element
-
-## RequiredTools
-
-- Tool1
-- Tool2
-- Tool3
 
 
 
-## Element Purpose
 
--
 
-## Element Attributes
 
--
+
 
 
 
@@ -72,5 +54,4 @@ Links to other related motos. Related because they are the same MotoType or beca
 
 - "Move.LegMove.Crouch"
 
-Move/LegMoto/Crouch.md, <dev>Move.LegMove.Crouch</dev>, ![2513.jpg](/PaperPhoto/2513.jpg)
 :::

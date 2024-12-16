@@ -32,8 +32,4 @@
 - HoleLibrary_TreeFertilizerHole_SameHole_PlantingPhrase
 - HoleLibrary_Underrock_RockPry_SpadeMoto_SpadeBlade_
 
-Move/HoleMoto/Overview.md, <dev>Move.HoleMove.Overview</dev>, ![2478.jpg](/PaperPhoto/2478.jpg)
-Move/HoleMoto/Overview.md, <dev>Move.HoleMove.Overview</dev>, ![2945.jpg](/PaperPhoto/2945.jpg)
-Move/HoleMoto/Overview.md, <dev>Move.HoleMove.Overview</dev>, ![3059.jpg](/PaperPhoto/3059.jpg)
-Move/HoleMoto/Overview.md, <dev>Move.HoleMove.Overview</dev>, ![3083.jpg](/PaperPhoto/3083.jpg)
 :::

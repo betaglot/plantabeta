@@ -45,11 +45,4 @@ TeamPlant is safer, but more complex
 - "Via.TeamCover.FollowCover"
 - "Via.TeamCover.Overview"
 
-Via/TeamPlant/Overview.md, <dev>Via.TeamCover.Overview</dev>, ![1117.jpg](/PaperPhoto/1117.jpg)
-Via/TeamPlant/Overview.md, <dev>Via.TeamCover.CrossingCover</dev>, ![1796.jpg](/PaperPhoto/1796.jpg)
-Via/TeamPlant/Overview.md, <dev>Via.TeamCover.BouncingCover</dev>, ![1804.jpg](/PaperPhoto/1804.jpg)
-Via/TeamPlant/Overview.md, <dev>Via.TeamCover.Overview</dev>, ![1809.jpg](/PaperPhoto/1809.jpg)
-Via/TeamPlant/Overview.md, <dev>Via.TeamCover.Overview</dev>, ![2946.jpg](/PaperPhoto/2946.jpg)
-Via/TeamPlant/Overview.md, <dev>Via.TeamCover.BouncingCover</dev>, ![2952.jpg](/PaperPhoto/2952.jpg)
-Via/TeamPlant/Overview.md, <dev>Via.TeamCover.Overview</dev>, ![2958.jpg](/PaperPhoto/2958.jpg)
 :::

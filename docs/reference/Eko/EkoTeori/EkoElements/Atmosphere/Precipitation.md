@@ -9,13 +9,7 @@
 
 ![EcoIcon](/Eko/Eko_Icon.png)
 
-## Element Problem
 
--
-
-## Element Theorem
-
--
 
 ## Questions about the Element
 

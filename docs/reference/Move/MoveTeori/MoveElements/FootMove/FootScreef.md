@@ -3,47 +3,13 @@
 
 ![MoveIkon](/Move/Move_Ikon.png)
 
-## Element Problem
 
--
 
-## Element Theorem
 
--
 
-## Questions about the Element
 
-## RequiredTools
 
-- Tool1
-- Tool2
-- Tool3
 
-## <move>Move Phrase</move>
-
-<div style="display: flex">
-    <div>
-        <img style="margin: 5px" height="200" width="200" alt="Icon" src="/Move/Moto_Icon.png"/>
-        <p>Description of Move Photo</p>
-    </div>
-    <div>
-        <img style="margin: 5px" height="200" width="200" alt="Icon" src="/Move/Moto_Icon.png"/>
-        <p>Description of Move Photo</p>
-    </div>
-    <div>
-        <img style="margin: 5px" height="200" width="200" alt="Icon" src="/Move/Moto_Icon.png"/>
-        <p>Description of Move Photo</p>
-    </div>
-
-</div>
-
-## Element Purpose
-
--
-
-## Element Attributes
-
--
 
 
 
@@ -64,7 +30,5 @@
 <h2>PageTags</h2>
 
 - "Move.FootMove.FootScreef"
-
-Move/FootMoto/FootScreef.md, <dev>Move.FootMove.FootScreef</dev>, ![3081.jpg](/PaperPhoto/3081.jpg)
 
 :::

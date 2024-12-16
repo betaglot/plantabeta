@@ -20,8 +20,7 @@ Shannon only send what you can't predict
 
 -
 
-![PaperPhoto](/PaperPhoto/0034.jpg)
-![PaperPhoto](/PaperPhoto/0051.jpg)
+
 
 <h2>PageTags</h2>
 

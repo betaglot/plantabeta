@@ -74,8 +74,4 @@ Readymade
 
 - BottleReCoverMoto
 
-Move/CacheMoto/Overview.md, <dev>Move.CacheMove.Overview</dev>, ![0048.jpg](/PaperPhoto/0048.jpg)
-Move/CacheMoto/Overview.md, <dev>Move.CacheMove.Overview</dev>, ![3064.jpg](/PaperPhoto/3064.jpg)
-Move/CacheMoto/Overview.md, <dev>Move.CacheMove.BagsPlacement</dev>, ![3076.jpg](/PaperPhoto/3076.jpg)
-Move/CacheMoto/Overview.md, <dev>Move.CacheMove.Overview</dev>, ![3076.jpg](/PaperPhoto/3076.jpg)
 :::

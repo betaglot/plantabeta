@@ -3,31 +3,13 @@
 
 ![MoveIkon](/Move/Move_Ikon.png)
 
-## Element Problem
-
--
-
-## Element Theorem
-
--
-
-## Questions about the Element
-
-## RequiredTools
-
-- Tool1
-- Tool2
-- Tool3
 
 
 
-## Element Purpose
 
--
 
-## Element Attributes
 
--
+
 
 
 
@@ -96,6 +78,4 @@ Links to other related motos. Related because they are the same MotoType or beca
 
 - "Move.ToolMove.SpadeMove.SpadeScreef"
 
-Move/ToolMoto/Spade/SpadeScreef.md, <dev>Move.ToolMove.SpadeMove.SpadeScreef</dev>, ![1303.jpg](/PaperPhoto/1303.jpg)
-Move/ToolMoto/Spade/SpadeScreef.md, <dev>Move.ToolMove.SpadeMove.SpadeScreef</dev>, ![3088.jpg](/PaperPhoto/3088.jpg)
 :::

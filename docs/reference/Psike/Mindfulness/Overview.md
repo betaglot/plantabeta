@@ -7,13 +7,7 @@
 
 Learn To Suffer
 
-## Element Problem
 
--
-
-## Element Theorem
-
--
 
 ## Questions about the Element
 
@@ -86,6 +80,4 @@ Vipassana
 - "Psike.Meditation"
 - "Psike.NonDual"
 
-Psike/Mindfulness/MindfulBreathing.md, <dev>Psike.NonDual</dev>, ![0734.jpg](/PaperPhoto/0734.jpg)
-Psike/Mindfulness/MindfulBreathing.md, <dev>Psike.Meditation</dev>, ![3052.jpg](/PaperPhoto/3052.jpg)
 :::

@@ -25,7 +25,4 @@
 
 - "Move.ToolMove.Overview"
 
-Move/ToolMoto/Overview.md, <dev>Move.ToolMove.Overview</dev>, ![1701.jpg](/PaperPhoto/1701.jpg)
-Move/ToolMoto/Overview.md, <dev>Move.ToolMove.Overview</dev>, ![2572.jpg](/PaperPhoto/2572.jpg)
-Move/ToolMoto/Overview.md, <dev>Move.ToolMove.Overview</dev>, ![3152.jpg](/PaperPhoto/3152.jpg)
 :::

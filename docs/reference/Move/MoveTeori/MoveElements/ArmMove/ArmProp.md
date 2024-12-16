@@ -11,16 +11,6 @@
 
 -
 
-## Questions about the Element
-
-## RequiredTools
-
-- Tool1
-- Tool2
-- Tool3
-
-
-
 ## ArmProp.Purpose
 
 - To downclimb
@@ -70,7 +60,5 @@
 
 - "Move.ArmMove.ArmProp"
 
-Move/ArmMoto/ArmProp.md, <dev>Move.ArmMove.ArmProp</dev>, ![1052.jpg](/PaperPhoto/1052.jpg)
-Move/ArmMoto/ArmProp.md, <dev>Move.ArmMove.ArmProp</dev>, ![2278.jpg](/PaperPhoto/2278.jpg)
-Move/ArmMoto/ArmProp.md, <dev>Move.ArmMove.ArmProp</dev>, ![2469.jpg](/PaperPhoto/2469.jpg)
+
 :::

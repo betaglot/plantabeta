@@ -200,23 +200,5 @@ Via just gives the options, Beta is required to Solve, since solution requires M
 
 Psike that just thinks about NeuroFactors
 
-Beta/WhatBeta.md, <dev>Beta.BetaInstance</dev>, ![1043.jpg](/PaperPhoto/1043.jpg)
-Beta/WhatBeta.md, <dev>Beta.BetaInstance</dev>, ![1318.jpg](/PaperPhoto/1318.jpg)
-Beta/WhatBeta.md, <dev>Beta.BetaInstance</dev>, ![1357.jpg](/PaperPhoto/1357.jpg)
-Beta/WhatBeta.md, <dev>Beta.BetaInstance</dev>, ![1372.jpg](/PaperPhoto/1372.jpg)
-Beta/WhatBeta.md, <dev>Beta.BetaInstance</dev>, ![1373.jpg](/PaperPhoto/1373.jpg)
-Beta/WhatBeta.md, <dev>Beta.BetaInstance</dev>, ![1374.jpg](/PaperPhoto/1374.jpg)
-Beta/WhatBeta.md, <dev>Beta.BetaInstance</dev>, ![1375.jpg](/PaperPhoto/1375.jpg)
-Beta/WhatBeta.md, <dev>Beta.BetaEvent</dev>, ![1818.jpg](/PaperPhoto/1818.jpg)
-Beta/WhatBeta.md, <dev>Beta.BetaQuestion</dev>, ![1853.jpg](/PaperPhoto/1853.jpg)
-Beta/WhatBeta.md, <dev>Beta.Overview</dev>, ![2009.jpg](/PaperPhoto/2009.jpg)
-Beta/WhatBeta.md, <dev>Beta.Overview</dev>, ![2955.jpg](/PaperPhoto/2955.jpg)
-Beta/WhatBeta.md, <dev>Beta.Overview</dev>, ![2956.jpg](/PaperPhoto/2956.jpg)
-Beta/WhatBeta.md, <dev>Beta.Overview</dev>, ![2957.jpg](/PaperPhoto/2957.jpg)
-Beta/WhatBeta.md, <dev>Beta.Overview</dev>, ![2963.jpg](/PaperPhoto/2963.jpg)
-Beta/WhatBeta.md, <dev>Beta.Overview</dev>, ![2965.jpg](/PaperPhoto/2965.jpg)
-Beta/WhatBeta.md, <dev>Beta.Overview</dev>, ![2967.jpg](/PaperPhoto/2967.jpg)
-Beta/WhatBeta.md, <dev>Beta.BetaAttributes.SubsystemCount</dev>, ![90059.png](/PaperPhoto/90059.png)
-Beta/WhatBeta.md, <dev>Beta.BetaInstance</dev>, ![90087.png](/PaperPhoto/90087.png)
-Beta/WhatBeta.md, <dev>Beta.BetaInstance.BetaInstanceComparison</dev>, ![90087.png](/PaperPhoto/90087.png)
+
 :::

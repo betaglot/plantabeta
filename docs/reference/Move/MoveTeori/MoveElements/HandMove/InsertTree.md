@@ -10,31 +10,13 @@
     </div>
 </div>
 
-## Element Problem
-
--
-
-## Element Theorem
-
--
-
-## Questions about the Element
-
-## RequiredTools
-
-- Tool1
-- Tool2
-- Tool3
 
 
 
-## Element Purpose
 
--
 
-## Element Attributes
 
--
+
 
 
 
@@ -60,6 +42,4 @@
 
 - "Move.HandMove.InsertTree"
 
-Move/HandMoto/InsertTree.md, <dev>Move.HandMove.InsertTree</dev>, ![2945.jpg](/PaperPhoto/2945.jpg)
-Move/HandMoto/InsertTree.md, <dev>Move.HandMove.InsertTree</dev>, ![3060.jpg](/PaperPhoto/3060.jpg)
 :::

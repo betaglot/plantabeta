@@ -35,5 +35,4 @@ Mapping the scale of Canada’s record wildfires
 
 - "Guide.Why.Wildfire"
 
-guide/Why/Wildfire.md, <dev>Guide.Why.Wildfire</dev>, ![3048.jpg](/PaperPhoto/3048.jpg)
 :::

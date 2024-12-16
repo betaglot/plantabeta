@@ -19,5 +19,4 @@
 
 - "Move.ToolMove.FlagMove.FlagErrorRecovery"
 
-Move/ToolMoto/FlagMoto/FlagErrorRecovery.md, <dev>Move.ToolMove.FlagMove.FlagErrorRecovery</dev>, ![2932.jpg](/PaperPhoto/2932.jpg)
 :::

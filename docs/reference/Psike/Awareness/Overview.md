@@ -27,6 +27,4 @@
 
 - "Psike.Awareness"
 
-Psike/Awareness/Overview.md, <dev>Psike.Awareness</dev>, ![0734.jpg](/PaperPhoto/0734.jpg)
-
 :::

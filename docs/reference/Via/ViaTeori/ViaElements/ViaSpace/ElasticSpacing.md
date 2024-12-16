@@ -3,13 +3,7 @@
 
 ![ViaIcon](/Via/Via_Icon.png)
 
-## Element Purpose
 
--
-
-## Element Attributes
-
--
 
 ## BetaGraph
 

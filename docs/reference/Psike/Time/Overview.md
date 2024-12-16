@@ -3,13 +3,7 @@
 
 ![NeuroIcon](/Psike/Neuro_Icon.png)
 
-## Element Problem
 
--
-
-## Element Theorem
-
--
 
 ## Questions about the Element
 
@@ -88,13 +82,4 @@ Links to other related NeuroFactors.
 - ResearchModel_ModelDay_Chronology_19
 - ResearchModel_ModelDay_Chronology_20
 - ResearchModel_ModelDay_Chronology_21_SleepStartTime_  
-
-Psike/Time/Planning.md, <dev>Psike.Planning.Prediction</dev>, ![1409.jpg](/PaperPhoto/1409.jpg)
-Psike/Time/Planning.md, <dev>Psike.Planning</dev>, ![1561.jpg](/PaperPhoto/1561.jpg)
-Psike/Time/Planning.md, <dev>Psike.Planning</dev>, ![1853.jpg](/PaperPhoto/1853.jpg)
-Psike/Time/Planning.md, <dev>Psike.Planning</dev>, ![1866.jpg](/PaperPhoto/1866.jpg)
-Psike/Time/Planning.md, <dev>Psike.Planning.Prediction</dev>, ![1866.jpg](/PaperPhoto/1866.jpg)
-Psike/Time/Planning.md, <dev>Psike.Planning.Prediction</dev>, ![2048.jpg](/PaperPhoto/2048.jpg)
-Psike/Time/Planning.md, <dev>Psike.Planning</dev>, ![2573.jpg](/PaperPhoto/2573.jpg)
-Psike/Time/Planning.md, <dev>Psike.Planning</dev>, ![2944.jpg](/PaperPhoto/2944.jpg)
 :::

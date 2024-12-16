@@ -9,31 +9,13 @@
     </div>
 </div>
 
-## Element Problem
-
--
-
-## Element Theorem
-
--
-
-## Questions about the Element
-
-## RequiredTools
-
-- Tool1
-- Tool2
-- Tool3
 
 
 
-## Element Purpose
 
--
 
-## Element Attributes
 
--
+
 
 
 
@@ -82,6 +64,4 @@ Links to other related motos. Related because they are the same MotoType or beca
 
 - "Move.ToolMove.SpadeMove.SpadeProp"
 
-Move/ToolMoto/Spade/SpadeProp.md, <dev>Move.ToolMove.SpadeMove.SpadeProp</dev>, ![2469.jpg](/PaperPhoto/2469.jpg)
-Move/ToolMoto/Spade/SpadeProp.md, <dev>Move.ToolMove.SpadeMove.SpadeProp</dev>, ![2567.jpg](/PaperPhoto/2567.jpg)
 :::

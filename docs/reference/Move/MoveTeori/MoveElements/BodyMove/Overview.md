@@ -45,14 +45,4 @@
 
 - Superman slam I guess I should say into the ground so that would be a body move stepping up a little bit to use the full weight the full gravity mass of your body on the Spade on the spadeslam this will allow you to be more efficient because your body needs to come down anyway so it's nice to use gravity with use gravities acceleration as a positive
 
-Move/BodyMoto/Overview.md, <dev>Move.BodyMove.Overview</dev>, ![1027.jpg](/PaperPhoto/1027.jpg)
-Move/BodyMoto/Overview.md, <dev>Move.BodyMove.Stemming</dev>, ![1100.jpg](/PaperPhoto/1100.jpg)
-Move/BodyMoto/Overview.md, <dev>Move.BodyMove.BodyDrop.BodyDropInto</dev>, ![1796.jpg](/PaperPhoto/1796.jpg)
-Move/BodyMoto/Overview.md, <dev>Move.BodyMove.BodyPosture</dev>, ![1840.jpg](/PaperPhoto/1840.jpg)
-Move/BodyMoto/Overview.md, <dev>Move.BodyMove.Mantle</dev>, ![2278.jpg](/PaperPhoto/2278.jpg)
-Move/BodyMoto/Overview.md, <dev>Move.BodyMove.Overview</dev>, ![2355.jpg](/PaperPhoto/2355.jpg)
-Move/BodyMoto/Overview.md, <dev>Move.BodyMove.Landing</dev>, ![2450.jpg](/PaperPhoto/2450.jpg)
-Move/BodyMoto/Overview.md, <dev>Move.BodyMove.BodyPosture</dev>, ![2469.jpg](/PaperPhoto/2469.jpg)
-Move/BodyMoto/Overview.md, <dev>Move.BodyMove.Overview</dev>, ![2474.jpg](/PaperPhoto/2474.jpg)
-Move/BodyMoto/Overview.md, <dev>Move.BodyMove.Stemming</dev>, ![2834.jpg](/PaperPhoto/2834.jpg)
 :::

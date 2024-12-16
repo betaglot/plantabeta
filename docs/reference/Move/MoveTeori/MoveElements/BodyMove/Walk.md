@@ -2,39 +2,11 @@
 
 ![MoveIkon](/Move/Move_Ikon.png)
 
-## Element Problem
 
--
 
-## Element Theorem
 
--
 
-## Questions about the Element
 
-## RequiredTools
-
-- Tool1
-- Tool2
-- Tool3
-
-## <move>Move Phrase</move>
-
-<div style="display: flex">
-    <div>
-        <img style="margin: 5px" height="200" width="200" alt="Icon" src="/Move/Moto_Icon.png"/>
-        <p>Description of Move Photo</p>
-    </div>
-    <div>
-        <img style="margin: 5px" height="200" width="200" alt="Icon" src="/Move/Moto_Icon.png"/>
-        <p>Description of Move Photo</p>
-    </div>
-    <div>
-        <img style="margin: 5px" height="200" width="200" alt="Icon" src="/Move/Moto_Icon.png"/>
-        <p>Description of Move Photo</p>
-    </div>
-
-</div>
 
 ## Element Purpose
 
@@ -108,10 +80,5 @@ Aim small miss small. Larger moves have larger potential for error
 <h2>PageTags</h2>
 
 - "Move.BodyMove.Walk"
-
-Move/BodyMoto/Walk.md, <dev>Move.BodyMove.Walk</dev>, ![1803.jpg](/PaperPhoto/1803.jpg)
-Move/BodyMoto/Walk.md, <dev>Move.BodyMove.Walk</dev>, ![2450.jpg](/PaperPhoto/2450.jpg)
-Move/BodyMoto/Walk.md, <dev>Move.BodyMove.Walk</dev>, ![3217.jpg](/PaperPhoto/3217.jpg)
-Move/BodyMoto/Walk.md, <dev>Move.BodyMove.Walk</dev>, ![3222.jpg](/PaperPhoto/3222.jpg)
 
 :::

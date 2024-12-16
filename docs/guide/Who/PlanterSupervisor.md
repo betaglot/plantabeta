@@ -35,9 +35,5 @@ Supervisor is too many syllables. NameTooLong
 - "Guide.Who.PlanterRecruiter"
 - "Guide.Who.PlanterSupervisor"
 
-guide/Who/PlanterSupervisor.md, <dev>Guide.Who.PlanterSupervisor</dev>, ![1183.jpg](/PaperPhoto/1183.jpg)
-guide/Who/PlanterSupervisor.md, <dev>Guide.Who.PlanterSupervisor</dev>, ![2957.jpg](/PaperPhoto/2957.jpg)
-guide/Who/PlanterSupervisor.md, <dev>Guide.Who.PlanterSupervisor</dev>, ![2968.jpg](/PaperPhoto/2968.jpg)
-guide/Who/PlanterSupervisor.md, <dev>Guide.Who.PlanterRecruiter</dev>, ![3041.jpg](/PaperPhoto/3041.jpg)
-guide/Who/PlanterSupervisor.md, <dev>Guide.Who.PlanterSupervisor</dev>, ![3041.jpg](/PaperPhoto/3041.jpg)
+
 :::

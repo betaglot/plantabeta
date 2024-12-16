@@ -19,6 +19,4 @@
 
 - "Psike.Attention"
 
-Psike/Attention/Overview.md, <dev>Psike.Attention</dev>, ![0734.jpg](/PaperPhoto/0734.jpg)
-Psike/Attention/Overview.md, <dev>Psike.Attention</dev>, ![2944.jpg](/PaperPhoto/2944.jpg)
 :::

@@ -38,12 +38,4 @@ There will always be an element of Trial and Error in tree planting. A goal of P
 
 - "Guide.Why.LearningCurve"
 
-guide/Why/LearningCurve.md, <dev>Guide.Why.LearningCurve</dev>, ![1763.jpg](/PaperPhoto/1763.jpg)
-guide/Why/LearningCurve.md, <dev>Guide.Why.LearningCurve</dev>, ![2081.jpg](/PaperPhoto/2081.jpg)
-guide/Why/LearningCurve.md, <dev>Guide.Why.LearningCurve</dev>, ![2262.jpg](/PaperPhoto/2262.jpg)
-guide/Why/LearningCurve.md, <dev>Guide.Why.LearningCurve</dev>, ![2263.jpg](/PaperPhoto/2263.jpg)
-guide/Why/LearningCurve.md, <dev>Guide.Why.LearningCurve</dev>, ![2495.jpg](/PaperPhoto/2495.jpg)
-guide/Why/LearningCurve.md, <dev>Guide.Why.LearningCurve</dev>, ![2861.jpg](/PaperPhoto/2861.jpg)
-guide/Why/LearningCurve.md, <dev>Guide.Why.LearningCurve</dev>, ![2987.jpg](/PaperPhoto/2987.jpg)
-guide/Why/LearningCurve.md, <dev>Guide.Why.LearningCurve</dev>, ![3164.jpg](/PaperPhoto/3164.jpg)
 :::

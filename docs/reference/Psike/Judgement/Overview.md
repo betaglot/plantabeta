@@ -3,13 +3,7 @@
 
 ![NeuroIcon](/Psike/Neuro_Icon.png)
 
-## Element Problem
 
--
-
-## Element Theorem
-
--
 
 ## Questions about the Element
 
@@ -84,19 +78,4 @@ Links to other related NeuroFactors.
 - "Psike.Logic.Induction"
 - "Psike.Logic.Overview"
 
-Psike/Judgement/LandJudgement.md, <dev>Psike.Logic.Boolean</dev>, ![1008.jpg](/PaperPhoto/1008.jpg)
-Psike/Judgement/LandJudgement.md, <dev>Psike.Logic.Deduction</dev>, ![1008.jpg](/PaperPhoto/1008.jpg)
-Psike/Judgement/LandJudgement.md, <dev>Psike.Logic.Deduction</dev>, ![1273.jpg](/PaperPhoto/1273.jpg)
-Psike/Judgement/LandJudgement.md, <dev>Psike.Logic.Induction</dev>, ![1273.jpg](/PaperPhoto/1273.jpg)
-Psike/Judgement/LandJudgement.md, <dev>Psike.Logic.Deduction</dev>, ![1373.jpg](/PaperPhoto/1373.jpg)
-Psike/Judgement/LandJudgement.md, <dev>Psike.Logic.Boolean</dev>, ![1636.jpg](/PaperPhoto/1636.jpg)
-Psike/Judgement/LandJudgement.md, <dev>Psike.Judgement</dev>, ![1838.jpg](/PaperPhoto/1838.jpg)
-Psike/Judgement/LandJudgement.md, <dev>Psike.Logic.Boolean</dev>, ![1855.jpg](/PaperPhoto/1855.jpg)
-Psike/Judgement/LandJudgement.md, <dev>Psike.Logic.Deduction</dev>, ![2262.jpg](/PaperPhoto/2262.jpg)
-Psike/Judgement/LandJudgement.md, <dev>Psike.Logic.Overview</dev>, ![2513.jpg](/PaperPhoto/2513.jpg)
-Psike/Judgement/LandJudgement.md, <dev>Psike.Judgement</dev>, ![2942.jpg](/PaperPhoto/2942.jpg)
-Psike/Judgement/LandJudgement.md, <dev>Psike.Logic.Boolean</dev>, ![2942.jpg](/PaperPhoto/2942.jpg)
-Psike/Judgement/LandJudgement.md, <dev>Psike.Logic.Boolean</dev>, ![90002.jpg](/PaperPhoto/90002.jpg)
-Psike/Judgement/LandJudgement.md, <dev>Psike.Logic.Overview</dev>, ![90002.jpg](/PaperPhoto/90002.jpg)
-Psike/Judgement/LandJudgement.md, <dev>Psike.Logic.Deduction</dev>, ![90047.jpg](/PaperPhoto/90047.jpg)
 :::

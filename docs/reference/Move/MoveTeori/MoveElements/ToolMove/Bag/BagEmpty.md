@@ -3,31 +3,13 @@
 
 ![MoveIkon](/Move/Move_Ikon.png)
 
-## Element Problem
-
--
-
-## Element Theorem
-
--
-
-## Questions about the Element
-
-## RequiredTools
-
-- Tool1
-- Tool2
-- Tool3
 
 
 
-## Element Purpose
 
--
 
-## Element Attributes
 
--
+
 
 
 
@@ -72,5 +54,4 @@ Links to other related motos. Related because they are the same MotoType or beca
 
 - "Move.ToolMove.BagMove.BagEmpty"
 
-Move/ToolMoto/Bag/BagEmpty.md, <dev>Move.ToolMove.BagMove.BagEmpty</dev>, ![3161.jpg](/PaperPhoto/3161.jpg)
 :::

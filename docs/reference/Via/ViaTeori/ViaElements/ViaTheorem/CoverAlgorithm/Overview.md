@@ -31,8 +31,6 @@
 <!-- =================================================== -->
 ::: details 🛠 <dev>&&&</dev>
 
-
-
 -
 
 ## AreaChunking
@@ -67,8 +65,6 @@ Don't go over the same place more than once.
 
 - <https://www.researchgate.net/figure/Complete-coverage-path-planning-in-an-unstructured-Eco_fig3_8345839>
 
-
-
 Spandrel art between plating plot radius cirle area circleshape
 
 Via Cover
@@ -79,8 +75,6 @@ Center is hole
 .
 
 Coverin spandrels to show the mortar between ideal tree spacing spgeres
-
-![PaperPhoto](/PaperPhoto/0058.jpg)
 
 - [The Fastest Maze-Solving Competition On Earth](https://www.youtube.com/watch?v=ZMQbHMgK2rw&ab_channel=Veritasium)
 - [HexagonCoverPattern](https://www.youtube.com/watch?v=BM9Qe4XjJ0k&ab_channel=VeRLab-LaboratoryofComputerVisionandRobotics)

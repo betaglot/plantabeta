@@ -9,13 +9,7 @@
 
 ![ViaIcon](/Via/Via_Icon.png)
 
-## Element Problem
 
--
-
-## Element Theorem
-
--
 
 ## Questions about the Element
 
@@ -32,13 +26,7 @@ Answer 2
 Answer 3
 :::
 
-## Element Purpose
 
--
-
-## Element Attributes
-
--
 
 
 

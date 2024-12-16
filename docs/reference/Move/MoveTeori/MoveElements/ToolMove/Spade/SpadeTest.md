@@ -5,31 +5,13 @@
 
 ![MoveIkon](/Move/Move_Ikon.png)
 
-## Element Problem
-
--
-
-## Element Theorem
-
--
-
-## Questions about the Element
-
-## RequiredTools
-
-- Tool1
-- Tool2
-- Tool3
 
 
 
-## Element Purpose
 
--
 
-## Element Attributes
 
--
+
 
 
 
@@ -81,6 +63,4 @@ Links to other related motos. Related because they are the same MotoType or beca
 - "Move.ToolMove.SpadeMove.SpadePoke"
 - "Move.ToolMove.SpadeMove.SpadeProbe"
 
-Move/ToolMoto/Spade/SpadeTest.md, <dev>Move.ToolMove.SpadeMove.SpadeProbe</dev>, ![1006.jpg](/PaperPhoto/1006.jpg)
-Move/ToolMoto/Spade/SpadeTest.md, <dev>Move.ToolMove.SpadeMove.SpadeProbe</dev>, ![2936.jpg](/PaperPhoto/2936.jpg)
 :::

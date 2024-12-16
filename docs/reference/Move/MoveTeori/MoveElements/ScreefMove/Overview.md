@@ -40,6 +40,4 @@ The screef movement isn't the same concept as the Screef's EcoSurface of exposed
 - "Eko.Screef.PocketScreef"
 - "Move.ScreefMove.Overview"
 
-Move/ScreefMoto/Overview.md, <dev>Move.ScreefMove.Overview</dev>, ![1184.jpg](/PaperPhoto/1184.jpg)
-Move/ScreefMoto/Overview.md, <dev>Move.ScreefMove.Overview</dev>, ![2472.jpg](/PaperPhoto/2472.jpg)
 :::

@@ -97,30 +97,5 @@ Percentages
 - "Guide.Who.PlanterInstructor.TeachingPiece"
 - "Guide.Who.PlanterInstructor.TeachingPlot"
 
-guide/Who/PlanterInstructor.md, <dev>Dev.PlanterMetaInstructor</dev>, ![0407.jpg](/PaperPhoto/0407.jpg)
-guide/Who/PlanterInstructor.md, <dev>Guide.Who.PlanterInstructor</dev>, ![0407.jpg](/PaperPhoto/0407.jpg)
-guide/Who/PlanterInstructor.md, <dev>Dev.Pedagogy.Curriculum.LessonPhrase</dev>, ![1522.jpg](/PaperPhoto/1522.jpg)
-guide/Who/PlanterInstructor.md, <dev>Dev.Pedagogy.Curriculum.Timeline</dev>, ![1522.jpg](/PaperPhoto/1522.jpg)
-guide/Who/PlanterInstructor.md, <dev>Dev.Pedagogy</dev>, ![1546.jpg](/PaperPhoto/1546.jpg)
-guide/Who/PlanterInstructor.md, <dev>Dev.PlanterMetaInstructor</dev>, ![1763.jpg](/PaperPhoto/1763.jpg)
-guide/Who/PlanterInstructor.md, <dev>Guide.Who.PlanterInstructor.InstructorGuide.Curriculum</dev>, ![1763.jpg](/PaperPhoto/1763.jpg)
-guide/Who/PlanterInstructor.md, <dev>Guide.Who.PlanterInstructor.InstructorGuide.Template</dev>, ![1763.jpg](/PaperPhoto/1763.jpg)
-guide/Who/PlanterInstructor.md, <dev>Guide.Who.PlanterInstructor.Handout</dev>, ![1838.jpg](/PaperPhoto/1838.jpg)
-guide/Who/PlanterInstructor.md, <dev>Guide.Who.PlanterInstructor.InstructorGuide.Template</dev>, ![1840.jpg](/PaperPhoto/1840.jpg)
-guide/Who/PlanterInstructor.md, <dev>Guide.Who.PlanterInstructor</dev>, ![1855.jpg](/PaperPhoto/1855.jpg)
-guide/Who/PlanterInstructor.md, <dev>Guide.Who.PlanterInstructor.InstructorGuide.Template</dev>, ![1855.jpg](/PaperPhoto/1855.jpg)
-guide/Who/PlanterInstructor.md, <dev>Guide.Who.PlanterInstructor.Handout</dev>, ![1865.jpg](/PaperPhoto/1865.jpg)
-guide/Who/PlanterInstructor.md, <dev>Dev.PlanterMetaInstructor</dev>, ![1870.jpg](/PaperPhoto/1870.jpg)
-guide/Who/PlanterInstructor.md, <dev>Guide.Who.PlanterInstructor</dev>, ![1871.jpg](/PaperPhoto/1871.jpg)
-guide/Who/PlanterInstructor.md, <dev>Guide.Who.PlanterInstructor.TeachingBlock</dev>, ![1871.jpg](/PaperPhoto/1871.jpg)
-guide/Who/PlanterInstructor.md, <dev>Guide.Who.PlanterInstructor.TeachingPiece</dev>, ![1871.jpg](/PaperPhoto/1871.jpg)
-guide/Who/PlanterInstructor.md, <dev>Guide.Who.PlanterInstructor.TeachingPlot</dev>, ![1871.jpg](/PaperPhoto/1871.jpg)
-guide/Who/PlanterInstructor.md, <dev>Guide.Who.PlanterInstructor</dev>, ![2081.jpg](/PaperPhoto/2081.jpg)
-guide/Who/PlanterInstructor.md, <dev>Guide.Who.PlanterInstructor</dev>, ![2154.jpg](/PaperPhoto/2154.jpg)
-guide/Who/PlanterInstructor.md, <dev>Guide.Who.PlanterInstructor</dev>, ![2262.jpg](/PaperPhoto/2262.jpg)
-guide/Who/PlanterInstructor.md, <dev>Guide.Who.PlanterInstructor</dev>, ![2989.jpg](/PaperPhoto/2989.jpg)
-guide/Who/PlanterInstructor.md, <dev>Guide.Who.PlanterInstructor</dev>, ![3039.jpg](/PaperPhoto/3039.jpg)
-guide/Who/PlanterInstructor.md, <dev>Guide.Who.PlanterInstructor</dev>, ![3148.jpg](/PaperPhoto/3148.jpg)
-guide/Who/PlanterInstructor.md, <dev>Guide.Who.PlanterInstructor</dev>, ![3159.jpg](/PaperPhoto/3159.jpg)
-guide/Who/PlanterInstructor.md, <dev>Guide.Who.PlanterInstructor.TeachingPlot</dev>, ![3159.jpg](/PaperPhoto/3159.jpg)
+
 :::

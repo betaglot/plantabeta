@@ -3,31 +3,13 @@
 
 ![MoveIkon](/Move/Move_Ikon.png)
 
-## Element Problem
-
--
-
-## Element Theorem
-
--
-
-## Questions about the Element
-
-## RequiredTools
-
-- Tool1
-- Tool2
-- Tool3
 
 
 
-## Element Purpose
 
--
 
-## Element Attributes
 
--
+
 
 
 
@@ -72,7 +54,4 @@ Links to other related motos. Related because they are the same MotoType or beca
 
 - "Move.LegMove.Kneel"
 
-Move/LegMoto/Kneel.md, <dev>Move.LegMove.Kneel</dev>, ![0048.jpg](/PaperPhoto/0048.jpg)
-Move/LegMoto/Kneel.md, <dev>Move.LegMove.Kneel</dev>, ![2567.jpg](/PaperPhoto/2567.jpg)
-Move/LegMoto/Kneel.md, <dev>Move.LegMove.Kneel</dev>, ![3076.jpg](/PaperPhoto/3076.jpg)
 :::

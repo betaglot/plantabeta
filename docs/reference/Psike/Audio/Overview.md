@@ -3,13 +3,7 @@
 
 ![NeuroIcon](/Psike/Neuro_Icon.png)
 
-## Element Problem
 
--
-
-## Element Theorem
-
--
 
 ## Questions about the Element
 
@@ -91,5 +85,4 @@ Links to other related NeuroFactors.
 - SoundLibrary_TruckHorn_LastCall_FinishTime
 - SoundLibrary_Whistle_Emergency_ThreeWhistleBlow
 
-Psike/Audio/Overview.md, <dev>Psike.Hearing</dev>, ![2956.jpg](/PaperPhoto/2956.jpg)
 :::

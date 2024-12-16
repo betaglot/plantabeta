@@ -3,31 +3,13 @@
 
 ![MoveIkon](/Move/Move_Ikon.png)
 
-## Element Problem
-
--
-
-## Element Theorem
-
--
-
-## Questions about the Element
-
-## RequiredTools
-
-- Tool1
-- Tool2
-- Tool3
 
 
 
-## Element Purpose
 
--
 
-## Element Attributes
 
--
+
 
 
 
@@ -58,6 +40,4 @@
 - "Move.HoleMove.CloseHole"
 - "Move.HoleMove.CloseHole.MultipleToolClose"
 
-Move/HoleMoto/HoleClose.md, <dev>Move.HoleMove.CloseHole</dev>, ![2936.jpg](/PaperPhoto/2936.jpg)
-Move/HoleMoto/HoleClose.md, <dev>Move.HoleMove.CloseHole</dev>, ![2944.jpg](/PaperPhoto/2944.jpg)
 :::
