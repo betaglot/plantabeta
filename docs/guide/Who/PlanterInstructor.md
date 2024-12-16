@@ -55,19 +55,22 @@ Such traits include:
 - Drive  
 :::
 
+---
+
+<!-- =================================================== -->
+<!-- =================================================== -->
+<!-- =================================================== -->
+<!-- =================================================== -->
+<!-- =================================================== -->
 ::: details 🛠 <dev>&&&</dev>
 
-## DevNotes
+
 
 - Instructor needs to wear bags since demonstration is more salient than words
 - Mental essay about how curiosity can increase learning
 - How would instructor fit into deadlines?
 
-## DevState
 
-```py
-`TagsToHeaders: False`
-```
 
 - Rookie stare isn't experienced as vision
 

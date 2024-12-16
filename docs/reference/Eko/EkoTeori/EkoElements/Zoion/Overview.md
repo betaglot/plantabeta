@@ -1,19 +1,22 @@
 
 # 🟩 <eko>Animals</eko>
 
+---
+
+<!-- =================================================== -->
+<!-- =================================================== -->
+<!-- =================================================== -->
+<!-- =================================================== -->
+<!-- =================================================== -->
 ::: details 🛠 <dev>&&&</dev>
 
-## DevNotes
+
 
 - Ticks
     - CrummyComb and Comb Cleaner to prevent spreading lice
 - Spook an animal to get it to go away
 
-## DevState
 
-```py
-`TagsToHeaders: False`
-```
 
 - AnimalWildlifeLibrary_Badger_EncounterFrequency_ToDo_GetStatistic_
 - AnimalWildlifeLibrary_Bear_BlackBear_EncounterFrequency_ToDo_GetStatistic

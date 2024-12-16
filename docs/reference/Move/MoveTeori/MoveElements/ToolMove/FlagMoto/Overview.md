@@ -24,18 +24,21 @@ Flags are posted throughout the land.
 
 - Flagger Pouch
 
+---
+
+<!-- =================================================== -->
+<!-- =================================================== -->
+<!-- =================================================== -->
+<!-- =================================================== -->
+<!-- =================================================== -->
 ::: details 🛠 <dev>&&&</dev>
 
-## DevNotes
+
 
 - Shovel hand flag grip is obsolete from a time before flag pouch
 - Flag follow through motion to ensure that the flag doesn't fold back on itself, since fully extended flag drapes over branches, while clumped flag just falls to the ground
 
-## DevState
 
-```py
-`TagsToHeaders: False`
-```
 
 <h2>PageTags</h2>
 

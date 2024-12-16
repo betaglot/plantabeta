@@ -17,17 +17,20 @@ When a Planter crosses over the line of another Planter when they converge in th
 
 When a Planter follows the line of the Planter in front of them.
 
+---
+
+<!-- =================================================== -->
+<!-- =================================================== -->
+<!-- =================================================== -->
+<!-- =================================================== -->
+<!-- =================================================== -->
 ::: details 🛠 <dev>&&&</dev>
 
-## DevNotes
+
 
 - TeamCover is when Beta is executed as a Distributed System
 
-## DevState
 
-```py
-`TagsToHeaders: False`
-```
 
 - LeadPlanter
 - FollowingPlanter

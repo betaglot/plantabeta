@@ -29,17 +29,20 @@ Ready
 
 Readymade
 
+---
+
+<!-- =================================================== -->
+<!-- =================================================== -->
+<!-- =================================================== -->
+<!-- =================================================== -->
+<!-- =================================================== -->
 ::: details 🛠 <dev>&&&</dev>
 
-## DevNotes
+
 
 - Post spade when setting up or returning to cache for easier grabbing with full bags. No bend and easier Find(Spade)
 
-## DevState
 
-```py
-`TagsToHeaders: False`
-```
 
 <h2>PageTags</h2>
 

@@ -22,9 +22,16 @@
 
 ### GIS
 
+---
+
+<!-- =================================================== -->
+<!-- =================================================== -->
+<!-- =================================================== -->
+<!-- =================================================== -->
+<!-- =================================================== -->
 ::: details 🛠 <dev>&&&</dev>
 
-## DevNotes
+
 
 -
 
@@ -60,11 +67,7 @@ Don't go over the same place more than once.
 
 - <https://www.researchgate.net/figure/Complete-coverage-path-planning-in-an-unstructured-Eco_fig3_8345839>
 
-## DevState
 
-```py
-`TagsToHeaders: False`
-```
 
 Spandrel art between plating plot radius cirle area circleshape
 

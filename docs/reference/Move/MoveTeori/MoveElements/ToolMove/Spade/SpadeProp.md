@@ -100,17 +100,20 @@ Links to other related motos. Related because they are the same MotoType or beca
 - Three
 :::
 
+---
+
+<!-- =================================================== -->
+<!-- =================================================== -->
+<!-- =================================================== -->
+<!-- =================================================== -->
+<!-- =================================================== -->
 ::: details 🛠 <dev>&&&</dev>
 
-## DevNotes
+
 
 - Alpinists perform SpadeProp all the time when using an ice axe
 
-## DevState
 
-```py
-`TagsToHeaders: False`
-```
 
 <h2>PageTags</h2>
 

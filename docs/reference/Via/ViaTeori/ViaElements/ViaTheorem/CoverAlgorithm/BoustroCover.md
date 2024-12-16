@@ -105,18 +105,21 @@ Links to other related ViaFactors.
 - <https://www.semanticscholar.org/paper/On-Complete-Coverage-Path-Planning-Algorithms-for-Khan-Noreen/ee6bdd20dd58de3c4fe646103e76b46237821d38>
 :::
 
+---
+
+<!-- =================================================== -->
+<!-- =================================================== -->
+<!-- =================================================== -->
+<!-- =================================================== -->
+<!-- =================================================== -->
 ::: details 🛠 <dev>&&&</dev>
 
-## DevNotes
+
 
 - BoustroCover isn't straight parallel lines unless BoustroCover perfectly superimposes onto BoustroTrenchLand
 - BoustroCover.Direction.Absolute
 - BoustroCover.Direction.RelativeTo()
 
-## DevState
 
-```py
-`TagsToHeaders: False`
-```
 
 :::

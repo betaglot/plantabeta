@@ -96,17 +96,20 @@ Links to other related motos. Related because they are the same MotoType or beca
 - Three
 :::
 
+---
+
+<!-- =================================================== -->
+<!-- =================================================== -->
+<!-- =================================================== -->
+<!-- =================================================== -->
+<!-- =================================================== -->
 ::: details 🛠 <dev>&&&</dev>
 
-## DevNotes
+
 
 - test in circles instead of walking further
 
-## DevState
 
-```py
-`TagsToHeaders: False`
-```
 
 - AlsoKnownAs(SpadeProp)
 

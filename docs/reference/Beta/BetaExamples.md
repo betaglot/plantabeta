@@ -89,6 +89,13 @@ is not a move, it is Beta since it is composed of 3 modules:
 
 🟩<eko>Hole</eko>
 
+---
+
+<!-- =================================================== -->
+<!-- =================================================== -->
+<!-- =================================================== -->
+<!-- =================================================== -->
+<!-- =================================================== -->
 ::: details 🛠 <dev>&&&</dev>
 
 ## 🟩<eko>Piece</eko>.<via>Cover(Boustro)</via>
@@ -110,15 +117,11 @@ is not a move, it is Beta since it is composed of 3 modules:
 
 ## 🔷<beta>Get to the back of the piece then start backfilling</beta>
 
-## DevNotes
+
 
 -
 
-## DevState
 
-```py
-`TagsToHeaders: False`
-```
 
 <h2>PageTags</h2>
 

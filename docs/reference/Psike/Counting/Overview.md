@@ -67,17 +67,20 @@ Links to other related NeuroFactors.
 - Three
 :::
 
+---
+
+<!-- =================================================== -->
+<!-- =================================================== -->
+<!-- =================================================== -->
+<!-- =================================================== -->
+<!-- =================================================== -->
 ::: details 🛠 <dev>&&&</dev>
 
-## DevNotes
+
 
 -
 
-## DevState
 
-```py
-`TagsToHeaders: False`
-```
 
 Psike/Counting/Overview.md, <dev>Psike.Counting</dev>, ![1859.jpg](/PaperPhoto/1859.jpg)
 Psike/Counting/Overview.md, <dev>Psike.Counting</dev>, ![2567.jpg](/PaperPhoto/2567.jpg)

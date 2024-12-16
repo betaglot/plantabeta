@@ -62,9 +62,16 @@ The Bear, Season 3, Episode 7 "Legacy"
 
 > [Carmy] If I were gonna leave something behind, I would want it to be panic-less, you know?
 
+---
+
+<!-- =================================================== -->
+<!-- =================================================== -->
+<!-- =================================================== -->
+<!-- =================================================== -->
+<!-- =================================================== -->
 ::: details 🛠 <dev>&&&</dev>
 
-## DevNotes
+
 
 > Help people learn the lessons that I learned so that they don't have to learn them for themselves. I've been very lucky to have been through what I've been through, to have been around the people that I've been around, to learn the things that I've been able to learn and I don't want to hoard them, I want to give them away
 
@@ -72,11 +79,7 @@ The Bear, Season 3, Episode 7 "Legacy"
 - Experienced Planter The Bear Kitchen Legacy. The legacy of chefs is how their disciples spread their idiosyncracies to other kitchens that they work for. Their legacy elevates the whole field.
 - Annual refresher, Early season refresher
 
-## DevState
 
-```py
-`TagsToHeaders: False`
-```
 
 <h2>PageTags</h2>
 

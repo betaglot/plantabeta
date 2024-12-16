@@ -176,17 +176,20 @@ All algorithms are Phrases. "Phrase" is more commonplace than "Algorithm". Use "
 
 - ProbePhrase or Probe Algorithm
 
+---
+
+<!-- =================================================== -->
+<!-- =================================================== -->
+<!-- =================================================== -->
+<!-- =================================================== -->
+<!-- =================================================== -->
 ::: details 🛠 <dev>&&&</dev>
 
-## DevNotes
+
 
 - Sequence of Events
 
-## DevState
 
-```py
-`TagsToHeaders: False`
-```
 
 ![PaperPhoto](/PaperPhoto/0017.jpg)
 :::

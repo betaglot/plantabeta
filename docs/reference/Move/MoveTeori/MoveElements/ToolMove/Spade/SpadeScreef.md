@@ -94,9 +94,16 @@ Links to other related motos. Related because they are the same MotoType or beca
 - Three
 :::
 
+---
+
+<!-- =================================================== -->
+<!-- =================================================== -->
+<!-- =================================================== -->
+<!-- =================================================== -->
+<!-- =================================================== -->
 ::: details 🛠 <dev>&&&</dev>
 
-## DevNotes
+
 
 - SpadeXScreef
     - ShaftHand crosses from left to right while screefing, making an X with the shaft and also an X shaped screef on the ground
@@ -105,11 +112,7 @@ Links to other related motos. Related because they are the same MotoType or beca
 - Arm wrestling screef. ArmLock then use your whole body
 - Screefed eco goes through legs. 5 Hole
 
-## DevState
 
-```py
-`TagsToHeaders: False`
-```
 
 <h2>PageTags</h2>
 

@@ -30,17 +30,20 @@ ProtectedPlanting is a more accurate name for obstacle planting.
 
 Protect is more semantically accurate then Obstacle.
 
+---
+
+<!-- =================================================== -->
+<!-- =================================================== -->
+<!-- =================================================== -->
+<!-- =================================================== -->
+<!-- =================================================== -->
 ::: details 🛠 <dev>&&&</dev>
 
-## DevNotes
+
 
 - Snowpatch is an Obstacle
 
-## DevState
 
-```py
-`TagsToHeaders: False`
-```
 
 - Obstruction
 - Subsurface Obstacle

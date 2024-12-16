@@ -21,9 +21,16 @@ Perimeter around an Obstacle or a hillock
 
 ## Obstacles in TrenchLand
 
+---
+
+<!-- =================================================== -->
+<!-- =================================================== -->
+<!-- =================================================== -->
+<!-- =================================================== -->
+<!-- =================================================== -->
 ::: details 🛠 <dev>&&&</dev>
 
-## DevNotes
+
 
 - Spiltting trenches
 
@@ -33,11 +40,7 @@ Use landmarks to define the space
 
 Planters only move around the space above the ground
 
-## DevState
 
-```py
-`TagsToHeaders: False`
-```
 
 <h2>PageTags</h2>
 

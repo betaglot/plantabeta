@@ -71,17 +71,20 @@ Links to other related ViaFactors.
 - Three
 :::
 
+---
+
+<!-- =================================================== -->
+<!-- =================================================== -->
+<!-- =================================================== -->
+<!-- =================================================== -->
+<!-- =================================================== -->
 ::: details 🛠 <dev>&&&</dev>
 
-## DevNotes
+
 
 - Don't bounce in concave corners
     - Bounce before to give the planter in the corner space for a few trees while turning around
 
-## DevState
 
-```py
-`TagsToHeaders: False`
-```
 
 :::

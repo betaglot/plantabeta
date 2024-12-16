@@ -55,18 +55,21 @@ Unknown Information
 
 ## <eko>EcoDensity</eko>
 
+---
+
+<!-- =================================================== -->
+<!-- =================================================== -->
+<!-- =================================================== -->
+<!-- =================================================== -->
+<!-- =================================================== -->
 ::: details 🛠 <dev>&&&</dev>
 
-## DevNotes
+
 
 - Cornering
 - The UltimateViaProblem is to close the next hole. Planting is all about closing holes
 
-## DevState
 
-```py
-`TagsToHeaders: False`
-```
 
 Not all problems can be perfectly solved.
 Define the Area to be Covered

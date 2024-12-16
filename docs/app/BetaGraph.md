@@ -10,9 +10,16 @@ All ViaFactor have Psike property dependencies
 
 Each BetaInstance is different. The Beta that a user is experiencing changes each BetaInstance.
 
+---
+
+<!-- =================================================== -->
+<!-- =================================================== -->
+<!-- =================================================== -->
+<!-- =================================================== -->
+<!-- =================================================== -->
 ::: details 🛠 <dev>&&&</dev>
 
-## DevNotes
+
 
 - Move becomes another person's Eko in Acrobatics
     - Acroyoga, Human Tower Build race, Cirque du Solei

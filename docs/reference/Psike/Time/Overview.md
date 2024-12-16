@@ -67,17 +67,20 @@ Links to other related NeuroFactors.
 - Three
 :::
 
+---
+
+<!-- =================================================== -->
+<!-- =================================================== -->
+<!-- =================================================== -->
+<!-- =================================================== -->
+<!-- =================================================== -->
 ::: details 🛠 <dev>&&&</dev>
 
-## DevNotes
+
 
 -
 
-## DevState
 
-```py
-`TagsToHeaders: False`
-```
 
 - ResearchModel_ModelDay_Chronology_5_SleepFinishTime_
 - ResearchModel_ModelDay_Chronology_6_BlockApproachStartTime_

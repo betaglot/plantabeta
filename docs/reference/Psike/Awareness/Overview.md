@@ -1,25 +1,28 @@
 
-# 💜 <psike>Awareness</psike>
+# 💜 <psike>Experience</psike>
 
-## Differences between Awareness and Attention
+## Differences between Experience and Attention
 
 ## Equanimity from Selflessness
 
 - Pinpoint exactly what part of awareness that you dislike then lean into it. Be curious about it, then experience it passing away and notice that isn't the center, since there is no center
 
+---
+
+<!-- =================================================== -->
+<!-- =================================================== -->
+<!-- =================================================== -->
+<!-- =================================================== -->
+<!-- =================================================== -->
 ::: details 🛠 <dev>&&&</dev>
 
-## DevNotes
+
 
 - You don't need to pay attention to look where you're going
 - Tree mantra
     - You can hear the emotion of how you say tree, which increases emotion recognition therefore emotional regulation. Get science
 
-## DevState
 
-```py
-`TagsToHeaders: False`
-```
 
 - SelfAwareness
     - Stephen Fleming [Know Thyself](https://metacoglab.org/people)
@@ -29,4 +32,5 @@
 - "Psike.Awareness"
 
 Psike/Awareness/Overview.md, <dev>Psike.Awareness</dev>, ![0734.jpg](/PaperPhoto/0734.jpg)
+
 :::

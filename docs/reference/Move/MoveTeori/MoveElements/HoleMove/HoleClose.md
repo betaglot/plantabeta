@@ -94,9 +94,16 @@ Links to other related motos. Related because they are the same MotoType or beca
 - Three
 :::
 
+---
+
+<!-- =================================================== -->
+<!-- =================================================== -->
+<!-- =================================================== -->
+<!-- =================================================== -->
+<!-- =================================================== -->
 ::: details 🛠 <dev>&&&</dev>
 
-## DevNotes
+
 
 - Holes without Trees are never closed by Planters, they may close by Eko though.
 - Closed implies that there is a tree put in the hole
@@ -104,11 +111,7 @@ Links to other related motos. Related because they are the same MotoType or beca
 - Axiom
     - Close() is Postcedent to Put()
 
-## DevState
 
-```py
-`TagsToHeaders: False`
-```
 
 <h2>PageTags</h2>
 

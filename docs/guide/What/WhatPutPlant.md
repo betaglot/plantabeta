@@ -110,20 +110,23 @@ If you're an Experienced Planter, then 🔷<beta>Put(<eko>Plant</eko>)</beta> gi
 
 #### What is an Open Source project? -->
 
+---
+
+<!-- =================================================== -->
+<!-- =================================================== -->
+<!-- =================================================== -->
+<!-- =================================================== -->
+<!-- =================================================== -->
 ::: details 🛠 <dev>&&&</dev>
 
-## DevNotes
+
 
 - You can plant trees without Beta. Put(Plant) isn't required to plant
 - Put(Plant) is written like a computer programming language function since it's the application of computational thinking.
 - PutPlant.com is only used for learning and research. It's not meant to be used everyday by planters. People don't use textbooks everyday.
 - Shift the Color of Plantations towards green
 
-## DevState
 
-```py
-`TagsToHeaders: False`
-```
 
 <h2>PageTags</h2>
 

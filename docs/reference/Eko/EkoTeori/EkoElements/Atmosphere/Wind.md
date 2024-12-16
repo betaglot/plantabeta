@@ -78,9 +78,16 @@ Links to other related EcoFactors. Related because they are the same EcoType or 
 - Three
 :::
 
+---
+
+<!-- =================================================== -->
+<!-- =================================================== -->
+<!-- =================================================== -->
+<!-- =================================================== -->
+<!-- =================================================== -->
 ::: details 🛠 <dev>&&&</dev>
 
-## DevNotes
+
 
 - Tree Eddy to shield from wind
 - Looking up while planting the treeline during windy weather

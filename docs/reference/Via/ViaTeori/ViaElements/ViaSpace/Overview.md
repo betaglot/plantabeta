@@ -56,9 +56,16 @@ Coverin spandrels to show the mortar between ideal tree spacing spgeres
 ![Pentomino](/Via/Pentomino.png)
 ![PeelStationFloor](/art/PeelStationFloor.jpg)
 
+---
+
+<!-- =================================================== -->
+<!-- =================================================== -->
+<!-- =================================================== -->
+<!-- =================================================== -->
+<!-- =================================================== -->
 ::: details 🛠 <dev>&&&</dev>
 
-## DevNotes
+
 
 - The method of a ViaSpace is Cover()
 - ViaSpace is the sum of all ViaCurves, ViaSpace is useful to know since there are always small detours from ViaCurves, there may be an Obstacle which causes a detour. You can detour from a ViaCurve while still remaining in a ViaSpace
@@ -67,11 +74,7 @@ Coverin spandrels to show the mortar between ideal tree spacing spgeres
 - ViaSpace extends underground. You wouldn't want to step on quicksand
     - You need to consider what's under a <via>ViaSurface</via> when 🟠<move>Stepping</move> or 🟠<move>OpenHole</move>
 
-## DevState
 
-```py
-`TagsToHeaders: False`
-```
 
 ViaSpace is usually directly above ViaSurface
 

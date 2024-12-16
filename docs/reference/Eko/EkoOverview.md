@@ -68,9 +68,16 @@ Eko Elements are prefixed by a 🟩 green square icon
 
 🟩<eko>Plant.BranchWhip()</eko>
 
+---
+
+<!-- =================================================== -->
+<!-- =================================================== -->
+<!-- =================================================== -->
+<!-- =================================================== -->
+<!-- =================================================== -->
 ::: details 🛠 <dev>&&&</dev>
 
-## DevNotes
+
 
 - All Land is Eko, but not all Eko is Land. Atmosphere
 - Eko a subset of Psike. Eko is perceived. The map is not the territory. Psike objectifies earth.
@@ -78,11 +85,7 @@ Eko Elements are prefixed by a 🟩 green square icon
 - A meter into the residual is no longer Eko. Eko is only earth that you interact with.
 - A storm on the other side of your valley is not Eko.
 
-## DevState
 
-```py
-`TagsToHeaders: False`
-```
 
 <h2>PageTags</h2>
 

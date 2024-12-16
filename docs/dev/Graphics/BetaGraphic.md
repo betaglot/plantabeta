@@ -59,9 +59,16 @@ For a beginner, how do Vue and Python docs suck?
 
 No images of humans at a computer. It doesn't even need to be technical, just an image to show explicitly that people use this system, it's not just some abstract thing
 
+---
+
+<!-- =================================================== -->
+<!-- =================================================== -->
+<!-- =================================================== -->
+<!-- =================================================== -->
+<!-- =================================================== -->
 ::: details 🛠 <dev>&&&</dev>
 
-## DevNotes
+
 
 - ScaleBar
 - Have a BetaGraphic of your piece with recommended ViaCurve ViaPath.
@@ -69,11 +76,7 @@ No images of humans at a computer. It doesn't even need to be technical, just an
 - AttentionLoop
     - Eko, then Psike, then Move, then Via, then back to Eko.
 
-## DevState
 
-```py
-`TagsToHeaders: False`
-```
 
 <h2>PageTags</h2>
 

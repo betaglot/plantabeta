@@ -68,17 +68,20 @@ Links to other related NeuroFactors.
 - Three
 :::
 
+---
+
+<!-- =================================================== -->
+<!-- =================================================== -->
+<!-- =================================================== -->
+<!-- =================================================== -->
+<!-- =================================================== -->
 ::: details 🛠 <dev>&&&</dev>
 
-## DevNotes
+
 
 -
 
-## DevState
 
-```py
-`TagsToHeaders: False`
-```
 
 - Planter_Brain_Homeostasis_BodyTemperature_Hyperthermia_HotWeather_FastLand_
 - Planter_Brain_Homeostasis_BodyTemperature_Hyperthermia_HotWeather_HeatStroke_

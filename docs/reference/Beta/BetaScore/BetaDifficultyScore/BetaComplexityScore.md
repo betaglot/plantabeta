@@ -19,16 +19,19 @@ BetaComplexityScore = (MotoComplexityScore + EcoComplexityScore + ViaComplexityS
 
 (<eko>ThreeSisters</eko> + <eko>FireResistant</eko> + <eko>SelectiveLogging</eko>)
 
+---
+
+<!-- =================================================== -->
+<!-- =================================================== -->
+<!-- =================================================== -->
+<!-- =================================================== -->
+<!-- =================================================== -->
 ::: details 🛠 <dev>&&&</dev>
 
-## DevNotes
+
 
 - ThreeSisters
 
-## DevState
 
-```py
-`TagsToHeaders: False`
-```
 
 :::

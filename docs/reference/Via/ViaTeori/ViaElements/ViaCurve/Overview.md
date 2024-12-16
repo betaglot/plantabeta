@@ -14,19 +14,22 @@
 In mathematics a *line* must be straight, while a *curve* can be straight or not straight.
 :::
 
+---
+
+<!-- =================================================== -->
+<!-- =================================================== -->
+<!-- =================================================== -->
+<!-- =================================================== -->
+<!-- =================================================== -->
 ::: details 🛠 <dev>&&&</dev>
 
-## DevNotes
+
 
 - ViaCurve is the line of best fit
 - ViaDirection
     - ToCache
 
-## DevState
 
-```py
-`TagsToHeaders: False`
-```
 
 <h2>PageTags</h2>
 

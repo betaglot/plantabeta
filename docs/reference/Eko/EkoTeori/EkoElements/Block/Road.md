@@ -103,16 +103,19 @@ Links to other related EcoFactors. Related because they are the same EcoType or 
 - Three
 :::
 
+---
+
+<!-- =================================================== -->
+<!-- =================================================== -->
+<!-- =================================================== -->
+<!-- =================================================== -->
+<!-- =================================================== -->
 ::: details 🛠 <dev>&&&</dev>
 
-## DevNotes
+
 
 - To a planter a Road is more Via than Eko, since no planting is ever performed on road, unless it has been deactivated.
 
-## DevState
 
-```py
-`TagsToHeaders: False`
-```
 
 :::

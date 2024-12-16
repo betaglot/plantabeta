@@ -94,17 +94,20 @@ Links to other related motos. Related because they are the same MotoType or beca
 - Three
 :::
 
+---
+
+<!-- =================================================== -->
+<!-- =================================================== -->
+<!-- =================================================== -->
+<!-- =================================================== -->
+<!-- =================================================== -->
 ::: details 🛠 <dev>&&&</dev>
 
-## DevNotes
+
 
 -
 
-## DevState
 
-```py
-`TagsToHeaders: False`
-```
 
 Move/BodyMoto/StandUp.md, <dev>Move.BodyMoto.StandUp</dev>, ![1796.jpg](/PaperPhoto/1796.jpg)
 

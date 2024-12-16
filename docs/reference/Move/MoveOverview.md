@@ -84,18 +84,21 @@ Errors don't necessarily come from you, they could arise from PlantMoto.
 
 Recover as fluidly as possible
 
+---
+
+<!-- =================================================== -->
+<!-- =================================================== -->
+<!-- =================================================== -->
+<!-- =================================================== -->
+<!-- =================================================== -->
 ::: details 🛠 <dev>&&&</dev>
 
-## DevNotes
+
 
 - Move is a superset of Movement
 - Move can be a Position or a Movement
 
-## DevState
 
-```py
-`TagsToHeaders: False`
-```
 
 <h2>PageTags</h2>
 

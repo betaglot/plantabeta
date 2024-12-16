@@ -30,9 +30,16 @@ Convert a BetaString to BetaJSON so text can be visualized as BetaAnimation or B
 
 Most of the Data in Parsed Beta will be hidden, but it is available if you want and will be used for Intellisence like how Types are not directly used by user or dev, Types are used by tools, non human. Metadata
 
+---
+
+<!-- =================================================== -->
+<!-- =================================================== -->
+<!-- =================================================== -->
+<!-- =================================================== -->
+<!-- =================================================== -->
 ::: details 🛠 <dev>&&&</dev>
 
-## DevNotes
+
 
 -
 

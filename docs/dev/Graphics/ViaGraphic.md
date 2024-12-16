@@ -105,11 +105,18 @@ Eagle Vision is Via. Just like [EagleVision](https://www.youtube.com/watch?v=toW
 
 Via can be seen through the land.
 
+---
+
+<!-- =================================================== -->
+<!-- =================================================== -->
+<!-- =================================================== -->
+<!-- =================================================== -->
+<!-- =================================================== -->
 ::: details 🛠 <dev>&&&</dev>
 
 ## GeoPandas
 
-## DevNotes
+
 
 - Follow the lit Path
 - ScaleBar
@@ -119,11 +126,7 @@ Via can be seen through the land.
 
 - ViaFinishPoint is a Triangle
 
-## DevState
 
-```py
-`TagsToHeaders: False`
-```
 
 <h2>PageTags</h2>
 

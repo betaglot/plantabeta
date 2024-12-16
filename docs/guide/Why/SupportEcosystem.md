@@ -16,17 +16,20 @@ Mapping the scale of Canada’s record wildfires
 - <https://www.aljazeera.com/news/2023/8/23/mapping-the-scale-of-canadas-record-wildfires>
 :::
 
+---
+
+<!-- =================================================== -->
+<!-- =================================================== -->
+<!-- =================================================== -->
+<!-- =================================================== -->
+<!-- =================================================== -->
 ::: details 🛠 <dev>&&&</dev>
 
-## DevNotes
+
 
 - Put use less flag closer to the home page.
 
-## DevState
 
-```py
-`TagsToHeaders: False`
-```
 
 <h2>PageTags</h2>
 

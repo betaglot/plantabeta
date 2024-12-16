@@ -119,6 +119,13 @@ Eko is weather, if you are in fog you can't see eco. Remember that eco is the ob
 
 There is a miscommunication happening if:
 
+---
+
+<!-- =================================================== -->
+<!-- =================================================== -->
+<!-- =================================================== -->
+<!-- =================================================== -->
+<!-- =================================================== -->
 ::: details 🛠 <dev>&&&</dev>
 
 [BetaSequence](https://docs.python.org/3/library/stdtypes.html#sequence-types-list-tuple-range)
@@ -132,9 +139,16 @@ There is a miscommunication happening if:
 7. 🔻
 8. 💜
 
+---
+
+<!-- =================================================== -->
+<!-- =================================================== -->
+<!-- =================================================== -->
+<!-- =================================================== -->
+<!-- =================================================== -->
 ::: details 🛠 <dev>&&&</dev>
 
-## DevNotes
+
 
 - TeamPut() is Beta
 - You don't need Beta to be a TreePlanter. Beta is just a Wrapper for communication. It's an API, an Interface between you and your coworkers.
@@ -146,11 +160,7 @@ There is a miscommunication happening if:
 - BodyBend does not require Via
 - Some Psike only uses NeuroConcepts, like Emotional Regulation. If a function uses more than one module then it is Beta.
 
-## DevState
 
-```py
-`TagsToHeaders: False`
-```
 
 - Everything is an Object, like Python
 

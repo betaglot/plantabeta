@@ -45,9 +45,16 @@ Event from a first person perspective
 - onBagHalfEmpty()
 - onBagBothEmpty()
 
+---
+
+<!-- =================================================== -->
+<!-- =================================================== -->
+<!-- =================================================== -->
+<!-- =================================================== -->
+<!-- =================================================== -->
 ::: details 🛠 <dev>&&&</dev>
 
-## DevNotes
+
 
 - Event Listener
 - Wait for
@@ -59,11 +66,7 @@ Event from a first person perspective
 - Predict
 - Maintain a Move while waiting for an EcoEvent
 
-## DevState
 
-```py
-`TagsToHeaders: False`
-```
 
 <h2>PageTags</h2>
 

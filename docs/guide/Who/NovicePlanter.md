@@ -12,9 +12,16 @@ Novice Planters ALWAYS Google "How to Plant trees?" before starting the season. 
 
 ## Using Put(Plant) After the Season
 
+---
+
+<!-- =================================================== -->
+<!-- =================================================== -->
+<!-- =================================================== -->
+<!-- =================================================== -->
+<!-- =================================================== -->
 ::: details 🛠 <dev>&&&</dev>
 
-## DevNotes
+
 
 - Confidence is how much you trust yourself. Doubt. "Was that a good tree, should I Test it?"
 
@@ -27,11 +34,7 @@ Novice Planters ALWAYS Google "How to Plant trees?" before starting the season. 
     - When NovicePlanter is staring they're not just looking.
     - Trying to remember where you've been, but you don't have a developed mental model of your land, so it's difficult to know
 
-## DevState
 
-```py
-`TagsToHeaders: False`
-```
 
 Scaffold
 Give a place to start

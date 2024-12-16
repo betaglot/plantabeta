@@ -124,18 +124,21 @@ Maximum Length
 <christopheralduncan@gmail.com>
 :::
 
+---
+
+<!-- =================================================== -->
+<!-- =================================================== -->
+<!-- =================================================== -->
+<!-- =================================================== -->
+<!-- =================================================== -->
 ::: details 🛠 <dev>&&&</dev>
 
-## DevNotes
+
 
 - What tool to use which allows easy uploading?
 - <https://opensource.guide/how-to-contribute/>
 
-## DevState
 
-```py
-`TagsToHeaders: False`
-```
 
 - It will look good on your resume, volunteering for a Non Profit combating climat crisis
 - Give to the planters that will come after you. We will always have forests to cultivate.

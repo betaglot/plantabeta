@@ -48,9 +48,16 @@ A greater knowledge of possible alternative moves can prevent Christmas Toe from
 - [🟠<move>SpadeScreef</move>](/encyclopedia/ToolMoto/SpadeMoto/SpadeScreef) instead of only [🟠<move>FootScreef</move>](/encyclopedia/Move/FootMoto/FootScreef)
 - [🟠<move>HandClose</move>](/encyclopedia/Move/HandMoto/HandClose) instead of only [🟠<move>FootClose</move>](/encyclopedia/Move/FootMoto/FootClose)
 
+---
+
+<!-- =================================================== -->
+<!-- =================================================== -->
+<!-- =================================================== -->
+<!-- =================================================== -->
+<!-- =================================================== -->
 ::: details 🛠 <dev>&&&</dev>
 
-## DevNotes
+
 
 - Weighted Staff for Antagonists. One bag up a day
 - Athleanx  reverse lunge is easier on knees into trenches
@@ -60,11 +67,7 @@ A greater knowledge of possible alternative moves can prevent Christmas Toe from
 - The Claw hand
 - Antagonist Workout for planters: More fatigued, less injured. Balanced Fatigue across body, not just muscles used for planting.
 
-## DevState
 
-```py
-`TagsToHeaders: False`
-```
 
 <h2>PageTags</h2>
 

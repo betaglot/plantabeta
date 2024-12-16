@@ -77,17 +77,20 @@ Planters become physically fit and ambidextrous
 
 It's not BetaComp that is combatting Climate Change, it's the climbers that are engaged with BetaComp who are directly or indirectly combatting Climate Change.
 
+---
+
+<!-- =================================================== -->
+<!-- =================================================== -->
+<!-- =================================================== -->
+<!-- =================================================== -->
+<!-- =================================================== -->
 ::: details 🛠 <dev>&&&</dev>
 
-## DevNotes
+
 
 -
 
-## DevState
 
-```py
-`TagsToHeaders: False`
-```
 
 Video of climbing with planting bags on
 

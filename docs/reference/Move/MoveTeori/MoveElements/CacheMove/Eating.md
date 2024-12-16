@@ -94,20 +94,23 @@ Links to other related motos. Related because they are the same MotoType or beca
 - Three
 :::
 
+---
+
+<!-- =================================================== -->
+<!-- =================================================== -->
+<!-- =================================================== -->
+<!-- =================================================== -->
+<!-- =================================================== -->
 ::: details 🛠 <dev>&&&</dev>
 
-## DevNotes
+
 
 - Cover water with insulation layer at cache
 - Drink sips before and after bagging up
 - Warning for long drive so we don't miss out on the metabolic window. Bring extra food
 - Resistant starches for long endurance
 
-## DevState
 
-```py
-`TagsToHeaders: False`
-```
 
 ## Pesticides
 

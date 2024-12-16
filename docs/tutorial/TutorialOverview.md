@@ -38,9 +38,16 @@ treeList = [
 
 ## NeuroTest
 
+---
+
+<!-- =================================================== -->
+<!-- =================================================== -->
+<!-- =================================================== -->
+<!-- =================================================== -->
+<!-- =================================================== -->
 ::: details 🛠 <dev>&&&</dev>
 
-## DevNotes
+
 
 - Documentation to play the (game == simulation == PlanterExperience)
 - Documentation for the game is also documentation for the job
@@ -58,11 +65,7 @@ treeList = [
 
 - Keep a list of all the BetaElements which have been included in a test. Each BetaElement should appear as many times as possible. Minimum 3 times in each format Image, Text, Video.
 
-## DevState
 
-```py
-`TagsToHeaders: False`
-```
 
 <h2>PageTags</h2>
 

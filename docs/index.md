@@ -37,7 +37,7 @@ hero:
 
 <!-- 
 
-## DevNotes
+
 
 - Gif of multiple HandPut() on home page
 - Probably use canva

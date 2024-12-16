@@ -23,17 +23,20 @@ There will always be an element of Trial and Error in tree planting. A goal of P
 - Learn all the tricks and tips in fewer seasons.
 - Diminishing returns after the third year.
 
+---
+
+<!-- =================================================== -->
+<!-- =================================================== -->
+<!-- =================================================== -->
+<!-- =================================================== -->
+<!-- =================================================== -->
 ::: details 🛠 <dev>&&&</dev>
 
-## DevNotes
+
 
 -
 
-## DevState
 
-```py
-`TagsToHeaders: False`
-```
 
 <h2>PageTags</h2>
 

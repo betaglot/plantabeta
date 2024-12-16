@@ -66,9 +66,16 @@ Links to other related ViaFactors.
 - Three
 :::
 
+---
+
+<!-- =================================================== -->
+<!-- =================================================== -->
+<!-- =================================================== -->
+<!-- =================================================== -->
+<!-- =================================================== -->
 ::: details 🛠 <dev>&&&</dev>
 
-## DevNotes
+
 
 - ZigzagPath(5)
     -ZigzagPath a slope 5 wide
@@ -78,10 +85,6 @@ Links to other related ViaFactors.
     - AngleSize Oblique to Acute
     - Smaller AngleSize makes greater Density
 
-## DevState
 
-```py
-`TagsToHeaders: False`
-```
 
 :::

@@ -127,17 +127,20 @@ Links to other related EcoFactors. Related because they are the same EcoType or 
 - Three
 :::
 
+---
+
+<!-- =================================================== -->
+<!-- =================================================== -->
+<!-- =================================================== -->
+<!-- =================================================== -->
+<!-- =================================================== -->
 ::: details 🛠 <dev>&&&</dev>
 
-## DevNotes
+
 
 -
 
-## DevState
 
-```py
-`TagsToHeaders: False`
-```
 
 - StumpObstacle is only an Obstacle for Cows
 :::

@@ -23,19 +23,22 @@
 - Soil deposition patterns
     - Being able to guess where soil is thickest is especially useful in RockyEco which has been eroded by water.
 
+---
+
+<!-- =================================================== -->
+<!-- =================================================== -->
+<!-- =================================================== -->
+<!-- =================================================== -->
+<!-- =================================================== -->
 ::: details 🛠 <dev>&&&</dev>
 
-## DevNotes
+
 
 - How to bridge the gap between Suzanne Simards and Devs? Ecologist to Computer Dev.
     - Diagrams don't require English or Code while they can represent both.
 - `JoinOn(System, [Ecosystem, ComputerSystem])`
 
-## DevState
 
-```py
-`TagsToHeaders: False`
-```
 
 <h2>PageTags</h2>
 

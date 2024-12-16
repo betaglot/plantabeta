@@ -382,19 +382,22 @@ Weave Tab
 
 ### Suit Diagram
 
+---
+
+<!-- =================================================== -->
+<!-- =================================================== -->
+<!-- =================================================== -->
+<!-- =================================================== -->
+<!-- =================================================== -->
 ::: details 🛠 <dev>&&&</dev>
 
-## DevNotes
+
 
 - What could be planted to suppress fire like a firebreak or something. Planted just before
 
 Planting Bags used all year round are no longer called planting bags. `(Silvicolum)Latin = "Inhabitor of woods"`
 
-## DevState
 
-```py
-`TagsToHeaders: False`
-```
 
 ![PaperPhoto](/PaperPhoto/0048.jpg)
 ![PaperPhoto](/PaperPhoto/0049.jpg)

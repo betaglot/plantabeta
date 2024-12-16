@@ -94,17 +94,20 @@ Links to other related motos. Related because they are the same MotoType or beca
 - Three
 :::
 
+---
+
+<!-- =================================================== -->
+<!-- =================================================== -->
+<!-- =================================================== -->
+<!-- =================================================== -->
+<!-- =================================================== -->
 ::: details 🛠 <dev>&&&</dev>
 
-## DevNotes
+
 
 -
 
-## DevState
 
-```py
-`TagsToHeaders: False`
-```
 
 Move/PlantMoto/BranchArmDeflection.md, <dev>Move.PlantMoto.BranchArmDeflection</dev>, ![1087.jpg](/PaperPhoto/1087.jpg)
 :::

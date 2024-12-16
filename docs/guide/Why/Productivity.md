@@ -37,20 +37,23 @@ Such traits include:
 - Drive  
 :::
 
+---
+
+<!-- =================================================== -->
+<!-- =================================================== -->
+<!-- =================================================== -->
+<!-- =================================================== -->
+<!-- =================================================== -->
 ::: details 🛠 <dev>&&&</dev>
 
-## DevNotes
+
 
 ### MotoFrequency
 
 - HoleOpen to HoleClose ratio is optimal when 1:1. Many Novice planters are greater than 1.
 - When there are multiple MotoAlternatives, efficient when the Move with the lower BetaDifficulty is more frequent than an AlternativeMoto with a higher MotoDifficulty. ExperiencedPlanters are performing easier Beta than NovicePlanter. BetaExecution
 
-## DevState
 
-```py
-`TagsToHeaders: False`
-```
 
 <h2>PageTags</h2>
 

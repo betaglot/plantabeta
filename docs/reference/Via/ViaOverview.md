@@ -146,9 +146,16 @@ Directions
 
 - Even the most atheletic planter is wasting time during deadwalking. Minimizing deadwalking benefits all planters and supervisors.
 
+---
+
+<!-- =================================================== -->
+<!-- =================================================== -->
+<!-- =================================================== -->
+<!-- =================================================== -->
+<!-- =================================================== -->
 ::: details 🛠 <dev>&&&</dev>
 
-## DevNotes
+
 
 - Request cache move
 - SquirrelCache -> PieceCache
@@ -175,11 +182,7 @@ Directions
 
 ## Update your Via
 
-## DevState
 
-```py
-`TagsToHeaders: False`
-```
 
 <h2>PageTags</h2>
 

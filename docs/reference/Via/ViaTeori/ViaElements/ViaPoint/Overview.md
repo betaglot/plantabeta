@@ -42,9 +42,16 @@ Makes the Voronoi Cells more
 
 [TriangleCover](/encyclopedia/Via/AreaCover/TriangleCover)
 
+---
+
+<!-- =================================================== -->
+<!-- =================================================== -->
+<!-- =================================================== -->
+<!-- =================================================== -->
+<!-- =================================================== -->
 ::: details 🛠 <dev>&&&</dev>
 
-## DevNotes
+
 
 - Landmarking is like Flagging, but only in your mind. Flag represents ViaPoints.
 - <https://gwlucastrig.github.io/TinfourDocs/DelaunayIntro/index.html>
@@ -56,11 +63,7 @@ Makes the Voronoi Cells more
 - TargetLandMark
     - LineIn uses a TargetLandmark
 
-## DevState
 
-```py
-`TagsToHeaders: False`
-```
 
 <h2>PageTags</h2>
 

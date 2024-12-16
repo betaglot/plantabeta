@@ -3,17 +3,20 @@
 
 - Novice Planters can train themselves before their first day of work, so that your company can spend less time and resources in the training process.
 
+---
+
+<!-- =================================================== -->
+<!-- =================================================== -->
+<!-- =================================================== -->
+<!-- =================================================== -->
+<!-- =================================================== -->
 ::: details 🛠 <dev>&&&</dev>
 
-## DevNotes
+
 
 -
 
-## DevState
 
-```py
-`TagsToHeaders: False`
-```
 
 - Put(Plant) is a service
 
