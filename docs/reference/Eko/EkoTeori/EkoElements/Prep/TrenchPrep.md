@@ -20,6 +20,24 @@ Perimeter around an Obstacle or a hillock
 
 ## Obstacles in TrenchLand
 
+## 🕸 TrenchPrep.Skema
+
+### Related 🟩<eko>Eko</eko>
+
+-
+
+### Related 🔻<via>Via</via>
+
+-
+
+### Related 🟠<move>Move</move>
+
+-
+
+### Related 💜<psike>Psike</psike>
+
+-
+
 ---
 
 <!-- =================================================== -->

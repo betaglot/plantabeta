@@ -1,6 +1,6 @@
-# 🟩  <eko>MineralSoil</eko>
+# 🟠<move>BaseLayerMove</move>
 
-## 🕸 MineralSoil.Skema
+## 🕸 BaseLayerMove.Skema
 
 ### Related 🟩<eko>Eko</eko>
 
@@ -29,7 +29,4 @@
 
 -
 
-<h2>PageTags</h2>
-
-- "Eko.Soil.MineralSoil"
 :::

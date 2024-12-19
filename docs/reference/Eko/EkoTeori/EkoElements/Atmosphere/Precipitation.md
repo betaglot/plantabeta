@@ -8,6 +8,24 @@
 
 ![Eko_Ikon](/Eko/Eko_Ikon.png)
 
+## 🕸 Precipitation.Skema
+
+### Related 🟩<eko>Eko</eko>
+
+-
+
+### Related 🔻<via>Via</via>
+
+-
+
+### Related 🟠<move>Move</move>
+
+-
+
+### Related 💜<psike>Psike</psike>
+
+-
+
 ---
 
 <!-- =================================================== -->

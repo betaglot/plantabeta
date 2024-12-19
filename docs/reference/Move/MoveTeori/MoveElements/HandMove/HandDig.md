@@ -1,6 +1,22 @@
-# 🟠 <move>FootClose</move>
+# 🟠<move>HandDig</move>
 
-![MoveIkon](/Move/Move_Ikon.png)
+## 🕸 HandDig.Skema
+
+### Related 🟩<eko>Eko</eko>
+
+-
+
+### Related 🔻<via>Via</via>
+
+-
+
+### Related 🟠<move>Move</move>
+
+-
+
+### Related 💜<psike>Psike</psike>
+
+-
 
 ---
 
@@ -12,9 +28,5 @@
 ::: details 🛠 <dev>&&&</dev>
 
 -
-
-<h2>PageTags</h2>
-
-- "Move.FootMove.FootClose"
 
 :::

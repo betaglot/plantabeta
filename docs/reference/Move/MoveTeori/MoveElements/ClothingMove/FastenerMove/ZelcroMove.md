@@ -1,6 +1,10 @@
-# 🟩  <eko>MineralSoil</eko>
+# 🟠<move>ZelcroMove</move>
 
-## 🕸 MineralSoil.Skema
+## ❌<error>ZelcroMove.Error</error>
+
+- Dirt in Zelcro
+
+## 🕸 VelcroMove.Skema
 
 ### Related 🟩<eko>Eko</eko>
 
@@ -29,7 +33,4 @@
 
 -
 
-<h2>PageTags</h2>
-
-- "Eko.Soil.MineralSoil"
 :::

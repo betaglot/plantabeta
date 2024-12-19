@@ -1,12 +1,22 @@
-# 🟩  <eko>RedRot</eko>
+# 🟩<eko>Flower</eko>
 
-## When to abandon RedRot Site?
+## 🕸 Flower.Skema
 
-If the redrot is skreefed to deeper than a blade then punch down if you don't hear or feel soil then abandon site
+### Related 🟩<eko>Eko</eko>
 
-## Dark RedRot
+-
 
-## Wet RedRot
+### Related 🔻<via>Via</via>
+
+-
+
+### Related 🟠<move>Move</move>
+
+-
+
+### Related 💜<psike>Psike</psike>
+
+-
 
 ---
 
@@ -17,9 +27,6 @@ If the redrot is skreefed to deeper than a blade then punch down if you don't he
 <!-- =================================================== -->
 ::: details 🛠 <dev>&&&</dev>
 
-- There are no rocks in redrot
+-
 
-<h2>PageTags</h2>
-
-- "Eko.Soil.RedRot"
 :::

@@ -1,9 +1,26 @@
-
 # 🟩 <eko>Seedling</eko>
 
 Commonly known as a "Tree", even if
 
 ## Species
+
+## 🕸 Seedling.Skema
+
+### Related 🟩<eko>Eko</eko>
+
+-
+
+### Related 🔻<via>Via</via>
+
+-
+
+### Related 🟠<move>Move</move>
+
+-
+
+### Related 💜<psike>Psike</psike>
+
+-
 
 ---
 

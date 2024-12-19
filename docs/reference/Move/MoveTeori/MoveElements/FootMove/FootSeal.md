@@ -1,8 +1,24 @@
-# 🟠<move>ZelcroMove</move>
+# 🟠 <move>FootClose</move>
 
-## ❌<error>ZelcroMove.Error</error>
+![MoveIkon](/Move/Move_Ikon.png)
 
-- Dirt in Zelcro
+## 🕸 FootSeal.Skema
+
+### Related 🟩<eko>Eko</eko>
+
+-
+
+### Related 🔻<via>Via</via>
+
+-
+
+### Related 🟠<move>Move</move>
+
+-
+
+### Related 💜<psike>Psike</psike>
+
+-
 
 ---
 
@@ -14,5 +30,9 @@
 ::: details 🛠 <dev>&&&</dev>
 
 -
+
+<h2>PageTags</h2>
+
+- "Move.FootMove.FootClose"
 
 :::

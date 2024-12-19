@@ -1,4 +1,4 @@
-# 🟩  <eko>Sun</eko>
+# 🟩  <eko>Helios</eko>
 
 ## Shade
 
@@ -9,6 +9,24 @@
 ## LightExposure
 
 Andrew Huberman is always reminding [us to get morning sunlight](https://www.hubermanlab.com/newsletter/using-light-for-health). You can use sunlight in the morning to ensure that you stay awake during the morning drives, so when you arrive at the Block you're not sleepy, once you wake up you need to stay awake.
+
+## 🕸 Helios.Skema
+
+### Related 🟩<eko>Eko</eko>
+
+-
+
+### Related 🔻<via>Via</via>
+
+-
+
+### Related 🟠<move>Move</move>
+
+-
+
+### Related 💜<psike>Psike</psike>
+
+-
 
 ---
 

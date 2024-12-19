@@ -1,6 +1,6 @@
 # 🟠 <move>ArmMove</move>
 
-## Arm Anatomi
+## Arm Anatomy
 
 - Scapula
 - Shoulder
@@ -26,6 +26,24 @@ PlantArm, Plantor, Plantus
 SpadeArm, Spader, Spadus
 
 SpadeLimb
+
+## 🕸 ArmMove.Skema
+
+### Related 🟩<eko>Eko</eko>
+
+-
+
+### Related 🔻<via>Via</via>
+
+-
+
+### Related 🟠<move>Move</move>
+
+-
+
+### Related 💜<psike>Psike</psike>
+
+-
 
 ---
 

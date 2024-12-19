@@ -1,5 +1,23 @@
 # 🟩  <eko>WetSoil</eko>
 
+## 🕸 WetSoil.Skema
+
+### Related 🟩<eko>Eko</eko>
+
+-
+
+### Related 🔻<via>Via</via>
+
+-
+
+### Related 🟠<move>Move</move>
+
+-
+
+### Related 💜<psike>Psike</psike>
+
+-
+
 ---
 
 <!-- =================================================== -->
@@ -9,7 +27,7 @@
 <!-- =================================================== -->
 ::: details 🛠 <dev>&&&</dev>
 
--
+- (WetSoil != WetLand)
 
 <h2>PageTags</h2>
 

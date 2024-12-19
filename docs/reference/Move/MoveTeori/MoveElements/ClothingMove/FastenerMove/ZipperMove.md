@@ -1,6 +1,22 @@
-# 🟠 <move>HatMove</move>
+# 🟠<move>ZipperMove</move>
 
-![MoveIkon](/Move/Move_Ikon.png)
+## 🕸 ZipperMove.Skema
+
+### Related 🟩<eko>Eko</eko>
+
+-
+
+### Related 🔻<via>Via</via>
+
+-
+
+### Related 🟠<move>Move</move>
+
+-
+
+### Related 💜<psike>Psike</psike>
+
+-
 
 ---
 
@@ -13,7 +29,4 @@
 
 -
 
-<h2>PageTags</h2>
-
-- "Move.ClothingMove.HatMove"
 :::

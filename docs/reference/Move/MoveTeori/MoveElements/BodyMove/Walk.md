@@ -2,11 +2,11 @@
 
 ![MoveIkon](/Move/Move_Ikon.png)
 
-## Element Purpose
+## Walk.Purpose
 
 - Walk is the most frequent top level Move
 
-## Element Attributes
+## Walk.Attributes
 
 ### StepLength
 
@@ -33,13 +33,23 @@ Aim small miss small. Larger moves have larger potential for error
 - Walking within a piece while **not** performing a planting Frase.
 - Deadwalks are required to Cover very oblong areas.
 
-## Related <move>MoveElements</move>
+## 🕸 Walk.Skema
 
-- Walk  [<move>DeadWalking</move>](/encyclopedia/Move/MoveError#dead-walk).
-- Description of how this Walk relates to a particular [<move>MoveFactor</move>](/encyclopedia/Move/MoveOverview).
-- Description of how this Walk relates to a particular [<move>MoveFactor</move>](/encyclopedia/Move/MoveOverview).
+### Related 🟩<eko>Eko</eko>
 
--  
+-
+
+### Related 🔻<via>Via</via>
+
+-
+
+### Related 🟠<move>Move</move>
+
+-
+
+### Related 💜<psike>Psike</psike>
+
+-
 
 ---
 

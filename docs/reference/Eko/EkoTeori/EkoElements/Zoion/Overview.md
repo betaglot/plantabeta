@@ -1,5 +1,22 @@
+# 🟩 <eko>Zoo</eko>
 
-# 🟩 <eko>Animals</eko>
+## 🕸 Zoo.Skema
+
+### Related 🟩<eko>Eko</eko>
+
+-
+
+### Related 🔻<via>Via</via>
+
+-
+
+### Related 🟠<move>Move</move>
+
+-
+
+### Related 💜<psike>Psike</psike>
+
+-
 
 ---
 

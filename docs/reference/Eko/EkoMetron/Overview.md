@@ -1,3 +1,3 @@
-# 🔷🟩 Eko Teori Metron Overview
+# 🟩 Eko Metron Overview
 
 The Eko sets the base difficulty level.

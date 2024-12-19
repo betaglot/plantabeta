@@ -1,6 +1,24 @@
-# 🟠 <move>FertilizerThrow</move>
+# 🟠 <move>RemoveMud</move>
 
 ![MoveIkon](/Move/Move_Ikon.png)
+
+## 🕸 RemoveMud.Skema
+
+### Related 🟩<eko>Eko</eko>
+
+-
+
+### Related 🔻<via>Via</via>
+
+-
+
+### Related 🟠<move>Move</move>
+
+-
+
+### Related 💜<psike>Psike</psike>
+
+-
 
 ---
 
@@ -15,5 +33,5 @@
 
 <h2>PageTags</h2>
 
-- "Move.ArmMove.FertilizerThrow"
+- "Move.ClothingMove.RemoveMud"
 :::
