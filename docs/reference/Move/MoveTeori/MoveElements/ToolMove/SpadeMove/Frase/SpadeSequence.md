@@ -1,5 +1,4 @@
-
-# 🔷 <move>Spade Frase</move>
+# 🔷<move>Spade Frase</move>
 
 ---
 

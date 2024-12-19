@@ -1,5 +1,4 @@
-
-# 🔷 <move>Bundle Frase</move>
+# 🔷<move>Bundle Frase</move>
 
 ---
 

@@ -1,5 +1,4 @@
-
-# 🔷 <psike>Psike Difficulty</psike>
+# 🔷<psike>Psike Difficulty</psike>
 
 ---
 

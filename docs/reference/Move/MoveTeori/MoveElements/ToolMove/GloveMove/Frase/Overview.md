@@ -1,5 +1,4 @@
-
-# 🔷 <move>GloveFrase</move>
+# 🔷<move>GloveFrase</move>
 
 ---
 

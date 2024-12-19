@@ -1,5 +1,4 @@
-
-# 🔷 <dev>Sequence</dev>
+# 🔷<dev>Sequence</dev>
 
 🔷: Sequence
 🟠: Frase

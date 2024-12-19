@@ -1,5 +1,4 @@
-
-# 🔷 <move>Box Frase</move>
+# 🔷<move>Box Frase</move>
 
 ## BoxPile
 

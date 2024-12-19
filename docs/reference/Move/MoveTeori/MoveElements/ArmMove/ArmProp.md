@@ -23,7 +23,7 @@
 - ArmPosition
     - <via>ArmAboveShoulder</via>
 
-## Related <move>MoveElements</move>
+## Related <move>Move</move>
 
 - 🟠<move>StandUp</move>
     - FallRecovery
@@ -31,7 +31,7 @@
         - PerpendicularHips
     - Use ArmProp to support and stabilize your upper body while getting up off the ground
     - MartialArts StandUp
-    - PanBeta(SkiBeta): GetUp after SkiFall. 
+    - PanBeta(SkiBeta): GetUp after SkiFall.
         - OneHip on the slope then press up towards your other hip until Standing
     - Remember to keep your shoulders out of your ears, to maintain optimal ScapulaPosition
 - 🟠<move>FallRedirection</move>
@@ -49,12 +49,14 @@
 - 🟠<move>SpadeProp</move>
     - (ArmProp+SpadeProp): SpadeProp can be used to extend ArmProp.
         - Requires HandCompress to prevent HandRevolve around Handle
+        - Useful when walking down slope like PolePlant in PanBeta(SkiAlpineBeta)
+            - Pole allows you to start absorbing earlier, therefore more time to change acceleration, which increases Flux
 
-## Related 🟩<eko>EcoFactors</eko>
+## Related 🟩<eko>Eko</eko>
 
 - 🟩<eko>Log</eko>
 
-## Related 🔻<via>ViaFactors</via>
+## Related 🔻<via>Via</via>
 
 -
 
