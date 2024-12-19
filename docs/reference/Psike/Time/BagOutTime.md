@@ -1,4 +1,4 @@
-# 💜 <psike>BagUpTime </psike>
+# 💜 <psike>BagOutTime </psike>
 
 ![Psike_Ikon](/Psike/Psike_Ikon.png)
 

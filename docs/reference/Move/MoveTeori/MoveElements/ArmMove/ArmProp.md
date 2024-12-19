@@ -46,6 +46,8 @@
 <!-- =================================================== -->
 ::: details 🛠 <dev>&&&</dev>
 
+- CacheMove
+    - ArmProp during BagLoad
 - What determines ArmAngle to maintain Spine Position?
 - Arm prop occurs on ships
     - Boat move

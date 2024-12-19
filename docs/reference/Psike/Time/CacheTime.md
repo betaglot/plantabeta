@@ -2,6 +2,10 @@
 
 ![Psike_Ikon](/Psike/Psike_Ikon.png)
 
+## BagInTime
+
+> The time it takes to load trees into your bag at a cache
+
 ---
 
 <!-- =================================================== -->
