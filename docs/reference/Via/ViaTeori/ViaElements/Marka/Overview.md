@@ -34,6 +34,24 @@ Marka is considered a WastedMarka when it can't be useful for any future [Coveri
 
 > Set the boundaries
 
+## 🕸 Marka.Skema
+
+### Related 🟩<eko>Eko</eko>
+
+-
+
+### Related 🔻<via>Via</via>
+
+-
+
+### Related 🟠<move>Move</move>
+
+-
+
+### Related 💜<psike>Psike</psike>
+
+-
+
 ---
 
 <!-- =================================================== -->

@@ -1,12 +1,30 @@
 # 🟠 <move>Spade Overview</move>
 
-## StaffSpade
+## DorySpade
 
 ## HandleSpade
 
 ## Spade Anatomy
 
 ## Spade Attributes
+
+## 🕸 SpadeMove.Skema
+
+### Related 🟩<eko>Eko</eko>
+
+-
+
+### Related 🔻<via>Via</via>
+
+-
+
+### Related 🟠<move>Move</move>
+
+-
+
+### Related 💜<psike>Psike</psike>
+
+-
 
 ---
 

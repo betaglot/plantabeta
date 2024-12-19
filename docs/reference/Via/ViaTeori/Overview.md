@@ -1,5 +1,7 @@
 # 🔷🔺 <via>Via</via> Difficulty Overview
 
+> The word that describes Via the best is "through", through time, through space, through a piece, through a block, through a line
+
 ## <via>Via</via> Difficulty Score
 
 Used to compare the DifficultyScore values of ViaComponents.

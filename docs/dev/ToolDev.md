@@ -34,7 +34,7 @@ Not a place where many duplicates items are stored
 
 ## 🔻<via>MarkaDev</via>
 
-#### ToolRequirements()
+### ToolRequirements()
 
 - How are notebooks perforated?
 - Marka wrap is waiter bill fold
@@ -90,13 +90,11 @@ Partially Disassemble to reduce space
 
 ### 🟠<move>Bag MaterialDev</move>
 
-### ToolRequirements()
+#### ToolRequirements()
 
 - Not plastic
 - Carbon Fiber
 -
-
-
 
 ### 🟠<move>WaistbeltDev</move>
 
@@ -148,8 +146,6 @@ Pannier
 
 - Use waterproof Flap instead of sphincter design, since sphincter allows water to collect and slowly seep into backbag.
 - Pocket on underside of Flap
-
-
 
 ### 🟠<move>MarkorDev</move>
 
@@ -304,7 +300,6 @@ SuitParts = [
 > Protects Shins
 
 #### ToolRequirements(Tibior)
-
 
 - Shell
 - Wire stirrup,not woven

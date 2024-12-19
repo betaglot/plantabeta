@@ -1,8 +1,8 @@
 # 🟠 <move>SkreefMove</move>
 
-## ToReduceConfusion(SkreefMove != SkreefEco)
+## ToReduceConfusion(SkreefMove != SkreefEko)
 
-The skreef movement isn't the same concept as the Skreef's EcoSurface of exposed soil.
+The skreef movement isn't the same concept as the Skreef's EkoSurface of exposed soil.
 
 "Skreef" is a movement and concrete part of the land, similar to how a "hold" is a move and concrete object in climbing
 

@@ -17,6 +17,24 @@ Rocks which can be removed, usually thrown out of the hole.
 
 ## Duff
 
+## 🕸 HoleObstacle.Skema
+
+### Related 🟩<eko>Eko</eko>
+
+-
+
+### Related 🔻<via>Via</via>
+
+-
+
+### Related 🟠<move>Move</move>
+
+-
+
+### Related 💜<psike>Psike</psike>
+
+-
+
 ---
 
 <!-- =================================================== -->

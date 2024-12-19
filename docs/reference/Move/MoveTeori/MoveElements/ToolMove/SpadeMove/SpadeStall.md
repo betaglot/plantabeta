@@ -1,5 +1,23 @@
 # 🟠<move>SpadeStall</move>
 
+## 🕸 SpadeStall.Skema
+
+### Related 🟩<eko>Eko</eko>
+
+-
+
+### Related 🔻<via>Via</via>
+
+-
+
+### Related 🟠<move>Move</move>
+
+- 🟠<move>HandCompressGrip</move>
+
+### Related 💜<psike>Psike</psike>
+
+-
+
 ---
 
 <!-- =================================================== -->

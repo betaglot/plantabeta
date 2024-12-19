@@ -1,9 +1,27 @@
 # 🟠 <move>MarkaKnot</move>
 
+![MoveIkon](/Move/Move_Ikon.png)
+
 ## MarkaBowtie
 
 ## MarkaGirthHitch
 
 ## MarkaOverhandKnot
 
-![MoveIkon](/Move/Move_Ikon.png)
+## 🕸 MarkaKnot.Skema
+
+### Related 🟩<eko>Eko</eko>
+
+-
+
+### Related 🔻<via>Via</via>
+
+-
+
+### Related 🟠<move>Move</move>
+
+-
+
+### Related 💜<psike>Psike</psike>
+
+-

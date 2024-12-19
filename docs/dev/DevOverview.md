@@ -1147,109 +1147,109 @@ Download Printable resources
                         ]
                     },
                     {
-                        "text": "Staff",
-                        "link": "/reference/Move/ToolMove/Staff/Overview",
+                        "text": "Dory",
+                        "link": "/reference/Move/ToolMove/Dory/Overview",
                         "collapsed": "true",
                         "items": [
                             {
-                                "text": "StaffAmble",
-                                "link": "/reference/Move/ToolMove/Staff/StaffAmble"
+                                "text": "DoryAmble",
+                                "link": "/reference/Move/ToolMove/Dory/DoryAmble"
                             },
                             {
-                                "text": "StaffAmble",
-                                "link": "/reference/Move/ToolMove/Staff/StaffAmble"
+                                "text": "DoryAmble",
+                                "link": "/reference/Move/ToolMove/Dory/DoryAmble"
                             },
                             {
-                                "text": "StaffAnchor",
-                                "link": "/reference/Move/ToolMove/Staff/StaffAnchor"
+                                "text": "DoryAnchor",
+                                "link": "/reference/Move/ToolMove/Dory/DoryAnchor"
                             },
                             {
-                                "text": "StaffBridge",
-                                "link": "/reference/Move/ToolMove/Staff/StaffBridge"
+                                "text": "DoryBridge",
+                                "link": "/reference/Move/ToolMove/Dory/DoryBridge"
                             },
                             {
-                                "text": "StaffBump",
-                                "link": "/reference/Move/ToolMove/Staff/StaffBump"
+                                "text": "DoryBump",
+                                "link": "/reference/Move/ToolMove/Dory/DoryBump"
                             },
                             {
-                                "text": "StaffChop",
-                                "link": "/reference/Move/ToolMove/Staff/StaffChop"
+                                "text": "DoryChop",
+                                "link": "/reference/Move/ToolMove/Dory/DoryChop"
                             },
                             {
-                                "text": "StaffCone",
-                                "link": "/reference/Move/ToolMove/Staff/StaffCone"
+                                "text": "DoryCone",
+                                "link": "/reference/Move/ToolMove/Dory/DoryCone"
                             },
                             {
-                                "text": "StaffDrag",
-                                "link": "/reference/Move/ToolMove/Staff/StaffDrag"
+                                "text": "DoryDrag",
+                                "link": "/reference/Move/ToolMove/Dory/DoryDrag"
                             },
                             {
-                                "text": "StaffGrip",
-                                "link": "/reference/Move/ToolMove/Staff/StaffGrip"
+                                "text": "DoryGrip",
+                                "link": "/reference/Move/ToolMove/Dory/DoryGrip"
                             },
                             {
-                                "text": "StaffMatch",
-                                "link": "/reference/Move/ToolMove/Staff/StaffMatch"
+                                "text": "DoryMatch",
+                                "link": "/reference/Move/ToolMove/Dory/DoryMatch"
                             },
                             {
-                                "text": "StaffPendulum",
-                                "link": "/reference/Move/ToolMove/Staff/StaffPendulum"
+                                "text": "DoryPendulum",
+                                "link": "/reference/Move/ToolMove/Dory/DoryPendulum"
                             },
                             {
-                                "text": "StaffPogo",
-                                "link": "/reference/Move/ToolMove/Staff/StaffPogo"
+                                "text": "DoryPogo",
+                                "link": "/reference/Move/ToolMove/Dory/DoryPogo"
                             },
                             {
-                                "text": "StaffPoke",
-                                "link": "/reference/Move/ToolMove/Staff/StaffPoke"
+                                "text": "DoryPoke",
+                                "link": "/reference/Move/ToolMove/Dory/DoryPoke"
                             },
                             {
-                                "text": "StaffPost",
-                                "link": "/reference/Move/ToolMove/Staff/StaffPost"
+                                "text": "DoryPost",
+                                "link": "/reference/Move/ToolMove/Dory/DoryPost"
                             },
                             {
-                                "text": "StaffProp",
-                                "link": "/reference/Move/ToolMove/Staff/StaffProp"
+                                "text": "DoryProp",
+                                "link": "/reference/Move/ToolMove/Dory/DoryProp"
                             },
                             {
-                                "text": "StaffPost",
-                                "link": "/reference/Move/ToolMove/Staff/StaffPost"
+                                "text": "DoryPost",
+                                "link": "/reference/Move/ToolMove/Dory/DoryPost"
                             },
                             {
-                                "text": "StaffRotate",
-                                "link": "/reference/Move/ToolMove/Staff/StaffRotate"
+                                "text": "DoryRotate",
+                                "link": "/reference/Move/ToolMove/Dory/DoryRotate"
                             },
                             {
-                                "text": "StaffSkreef",
-                                "link": "/reference/Move/ToolMove/Staff/StaffSkreef"
+                                "text": "DorySkreef",
+                                "link": "/reference/Move/ToolMove/Dory/DorySkreef"
                             },
                             {
-                                "text": "StaffSlam",
-                                "link": "/reference/Move/ToolMove/Staff/StaffSlam"
+                                "text": "DorySlam",
+                                "link": "/reference/Move/ToolMove/Dory/DorySlam"
                             },
                             {
-                                "text": "StaffSlap",
-                                "link": "/reference/Move/ToolMove/Staff/StaffSlap"
+                                "text": "DorySlap",
+                                "link": "/reference/Move/ToolMove/Dory/DorySlap"
                             },
                             {
-                                "text": "StaffSlide",
-                                "link": "/reference/Move/ToolMove/Staff/StaffSlide"
+                                "text": "DorySlide",
+                                "link": "/reference/Move/ToolMove/Dory/DorySlide"
                             },
                             {
-                                "text": "StaffStall",
-                                "link": "/reference/Move/ToolMove/Staff/StaffStall"
+                                "text": "DoryStall",
+                                "link": "/reference/Move/ToolMove/Dory/DoryStall"
                             },
                             {
-                                "text": "StaffStomp",
-                                "link": "/reference/Move/ToolMove/Staff/StaffStomp"
+                                "text": "DoryStomp",
+                                "link": "/reference/Move/ToolMove/Dory/DoryStomp"
                             },
                             {
-                                "text": "StaffSwing",
-                                "link": "/reference/Move/ToolMove/Staff/StaffSwing"
+                                "text": "DorySwing",
+                                "link": "/reference/Move/ToolMove/Dory/DorySwing"
                             },
                             {
-                                "text": "StaffError",
-                                "link": "/reference/Move/ToolMove/Staff/StaffError"
+                                "text": "DoryError",
+                                "link": "/reference/Move/ToolMove/Dory/DoryError"
                             }
                         ]
                     }

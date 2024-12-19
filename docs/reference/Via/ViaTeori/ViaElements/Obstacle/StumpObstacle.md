@@ -2,21 +2,6 @@
 
 ![Eko_Ikon](/Eko/Eko_Ikon.png)
 
-## Questions about StumpObstacle
-
-::: details Questions 1
-
-Answer 1
-:::
-::: details Questions 2
-
-Answer 2
-:::
-::: details Questions 3
-
-Answer 3
-:::
-
 ## StumpObstacle Attributes
 
 [InsertDiagram] Labelled Stump; Green background  
@@ -25,15 +10,23 @@ Answer 3
 - StumpSide
 - StumpButtressCount
 
-## BetaGraph
+## 🕸 StumpObstacle.Skema
 
-Graph which represents how this element is related to other elements in PlantaBeta.
-<iframe
-    width="100%"
-    height="684"
-    frameborder="0"
-    src="https://observablehq.com/embed/@d3/force-directed-graph/2?cells=chart"
-></iframe>
+### Related 🟩<eko>Eko</eko>
+
+-
+
+### Related 🔻<via>Via</via>
+
+-
+
+### Related 🟠<move>Move</move>
+
+-
+
+### Related 💜<psike>Psike</psike>
+
+-
 
 ## Related 🟩<eko>EcoFactors</eko>  🟩
 

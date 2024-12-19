@@ -1,16 +1,22 @@
-# 🟠 <move>Spade Slam</move>
+# 🟠 <move>SpadeSlam</move>
 
 ![MoveIkon](/Move/Move_Ikon.png)
 
-## Related <move>MoveElements</move>
+## 🕸 SpadeSlam.Skema
 
--
-
-## Related 🟩<eko>EcoFactors</eko>
+### Related 🟩<eko>Eko</eko>
 
 - Blade gets stuck into root near stump, especially near a stump cluster.
 
-## Related 🔻<via>ViaFactors</via>
+### Related 🔻<via>Via</via>
+
+-
+
+### Related 🟠<move>Move</move>
+
+-
+
+### Related 💜<psike>Psike</psike>
 
 -
 
