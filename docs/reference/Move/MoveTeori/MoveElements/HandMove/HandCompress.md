@@ -1,10 +1,8 @@
-# 🟠 <move>BagMove</move>
+# 🟠<move>HandCompress</move>
 
-Roll up your back bag layer to shell from water and dirt
+> Concentric contraction of Hand while its
 
-## Bag Anatomy
-
-## Bag Attributes
+If there wasn't something in your hand then HandCompress would result in a Fist
 
 ---
 
@@ -15,13 +13,6 @@ Roll up your back bag layer to shell from water and dirt
 <!-- =================================================== -->
 ::: details 🛠 <dev>&&&</dev>
 
-- (BagIn)InsteadOf(BagUp)
-
-<h2>PageTags</h2>
-
-- "Move.ToolMove.BagMove.BaggingUp"
-- "Move.ToolMove.BagMove.BagOver"
-- "Move.ToolMove.BagMove.BagShield"
-- "Move.ToolMove.BagMove.Overview"
+-
 
 :::
