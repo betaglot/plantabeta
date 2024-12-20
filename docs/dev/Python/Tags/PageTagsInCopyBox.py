@@ -310,7 +310,7 @@ tags = {
         "Via.ViaDiagram.Overview",
         "Via.ViaDiagram.ViaDirectedLine",
         "Via.ViaDiagram.ViaNotDirectedLine",
-        "Via.ViaDiagram.ViaSurface.ViaSurfaceHighlight",
+        "Via.ViaDiagram.Contact.ContactHighlight",
         "Via.ViaDiagram.ViaTimeline"
     ],
     "dev/Graphics/UXGraphic.md": [],
@@ -753,8 +753,8 @@ tags = {
     "Move/ArmMove/ArmSidebagLift.md": [
         "Move.ArmMove.ArmSidebagLift"
     ],
-    "Move/ArmMove/ArmSwing.md": [
-        "Move.ArmMove.ArmSwing"
+    "Move/ArmMove/ArmKurve.md": [
+        "Move.ArmMove.ArmKurve"
     ],
     "Move/ArmMove/ArmWalk.md": [
         "Move.ArmMove.ArmWalk"
@@ -980,8 +980,8 @@ tags = {
     "Move/HandMove/SpadeHandleGrip.md": [
         "Move.HandMove.SpadeHandleGrip"
     ],
-    "Move/HandMove/SpadeShaftGrip.md": [
-        "Move.HandMove.SpadeShaftGrip"
+    "Move/HandMove/SpadeCollarGrip.md": [
+        "Move.HandMove.SpadeCollarGrip"
     ],
     "Move/HandMove/TreeGrip.md": [
         "Move.HandMove.TreeFlip",
@@ -1068,8 +1068,8 @@ tags = {
     "Move/LegMove/LegSidebagLift.md": [
         "Move.LegMove.LegSidebagLift"
     ],
-    "Move/LegMove/LegSwing.md": [
-        "Move.LegMove.LegSwing"
+    "Move/LegMove/LegKurve.md": [
+        "Move.LegMove.LegKurve"
     ],
     "Move/LegMove/Overview.md": [
         "Move.LegMove.HighFoot",
@@ -1427,15 +1427,15 @@ tags = {
         "Move.ToolMove.MarkaMove.MoveError.PlantedMarka",
         "Move.ToolMove.MarkaMove.Overview"
     ],
-    "Move/ToolMove/Gaiter/GaiterGrip.md": [],
-    "Move/ToolMove/Gaiter/GaiterOff.md": [
-        "Move.ToolMove.GaiterMove.GaiterOff"
+    "Move/ToolMove/Tibior/TibiorGrip.md": [],
+    "Move/ToolMove/Tibior/TibiorOff.md": [
+        "Move.ToolMove.TibiorMove.TibiorOff"
     ],
-    "Move/ToolMove/Gaiter/GaiterOn.md": [
-        "Move.ToolMove.GaiterMove.GaiterOn"
+    "Move/ToolMove/Tibior/TibiorOn.md": [
+        "Move.ToolMove.TibiorMove.TibiorOn"
     ],
-    "Move/ToolMove/Gaiter/Overview.md": [
-        "Move.ToolMove.GaiterMove.Overview"
+    "Move/ToolMove/Tibior/Overview.md": [
+        "Move.ToolMove.TibiorMove.Overview"
     ],
     "Move/ToolMove/Glove/GloveGrip.md": [],
     "Move/ToolMove/Glove/GloveFrase.md": [],
@@ -1472,9 +1472,9 @@ tags = {
     "Move/ToolMove/Spade/SpadeSlam.md": [
         "Move.ToolMove.SpadeMove.SpadeSlam"
     ],
-    "Move/ToolMove/Spade/SpadeSwing.md": [
+    "Move/ToolMove/Spade/SpadeKurve.md": [
         "Move.ToolMove.SpadeMove.SpadeCircumduction",
-        "Move.ToolMove.SpadeMove.SpadeSwing"
+        "Move.ToolMove.SpadeMove.SpadeKurve"
     ],
     "Move/ToolMove/Spade/SpadeTest.md": [
         "Move.ToolMove.SpadeMove.SpadePoke",
@@ -1734,39 +1734,39 @@ tags = {
         "Via.ObstacleCover.Overview"
     ],
     "Via/Placeholder_ViaProfile.md": [],
-    "Via/ViaCurve/AroundCurve.md": [],
-    "Via/ViaCurve/BeeLine.md": [],
-    "Via/ViaCurve/GhostLine.md": [],
-    "Via/ViaCurve/Overview.md": [
-        "Via.ViaGeometry.ViaCurve.AdvancingMove",
-        "Via.ViaGeometry.ViaCurve.BagUpLine",
-        "Via.ViaGeometry.ViaCurve.BeeLine",
-        "Via.ViaGeometry.ViaCurve.BoundaryLine.ArtificialBoundaryLine",
-        "Via.ViaGeometry.ViaCurve.BoundaryLine.NaturalBoundaryLine",
-        "Via.ViaGeometry.ViaCurve.CircumventLine",
-        "Via.ViaGeometry.ViaCurve.Eddy",
-        "Via.ViaGeometry.ViaCurve.GhostLine",
-        "Via.ViaGeometry.ViaCurve.LineIn",
-        "Via.ViaGeometry.ViaCurve.Overview",
-        "Via.ViaGeometry.ViaCurve.ParallelLine",
-        "Via.ViaGeometry.ViaCurve.PerimeterLine",
-        "Via.ViaGeometry.ViaCurve.ViaDisplacementLine",
-        "Via.ViaGeometry.ViaCurve.ViaDistanceLine",
-        "Via.ViaGeometry.ViaCurve.ViaDistanceLine.ViaCircuitLine",
-        "Via.ViaGeometry.ViaCurve.ViaLinearLine",
-        "Via.ViaGeometry.ViaCurve.ViaLineOfBestFit",
-        "Via.ViaGeometry.ViaCurve.ViaLineOverlap",
-        "Via.ViaGeometry.ViaCurve.ViaMirrorLine",
-        "Via.ViaGeometry.ViaCurve.ViaReferenceLine",
-        "Via.ViaGeometry.ViaCurve.ViaTrackingLine.Overview",
-        "Via.ViaGeometry.ViaCurve.SpiralLine",
-        "Via.ViaGeometry.ViaCurve.ZigzagLine"
+    "Via/Line/AroundCurve.md": [],
+    "Via/Line/BeeLine.md": [],
+    "Via/Line/GhostLine.md": [],
+    "Via/Line/Overview.md": [
+        "Via.ViaGeometry.Line.AdvancingMove",
+        "Via.ViaGeometry.Line.BagUpLine",
+        "Via.ViaGeometry.Line.BeeLine",
+        "Via.ViaGeometry.Line.BoundaryLine.ArtificialBoundaryLine",
+        "Via.ViaGeometry.Line.BoundaryLine.NaturalBoundaryLine",
+        "Via.ViaGeometry.Line.CircumventLine",
+        "Via.ViaGeometry.Line.Eddy",
+        "Via.ViaGeometry.Line.GhostLine",
+        "Via.ViaGeometry.Line.LineIn",
+        "Via.ViaGeometry.Line.Overview",
+        "Via.ViaGeometry.Line.ParallelLine",
+        "Via.ViaGeometry.Line.PerimeterLine",
+        "Via.ViaGeometry.Line.ViaDisplacementLine",
+        "Via.ViaGeometry.Line.ViaDistanceLine",
+        "Via.ViaGeometry.Line.ViaDistanceLine.ViaCircuitLine",
+        "Via.ViaGeometry.Line.ViaLinearLine",
+        "Via.ViaGeometry.Line.ViaLineOfBestFit",
+        "Via.ViaGeometry.Line.ViaLineOverlap",
+        "Via.ViaGeometry.Line.ViaMirrorLine",
+        "Via.ViaGeometry.Line.ViaReferenceLine",
+        "Via.ViaGeometry.Line.ViaTrackingLine.Overview",
+        "Via.ViaGeometry.Line.SpiralLine",
+        "Via.ViaGeometry.Line.ZigzagLine"
     ],
-    "Via/ViaCurve/ParallelCurve.md": [],
-    "Via/ViaCurve/PerimeterCurve.md": [],
-    "Via/ViaCurve/SpiralCurve.md": [],
-    "Via/ViaCurve/TurnAroundLine.md": [],
-    "Via/ViaCurve/ZigzagCurve.md": [],
+    "Via/Line/ParallelCurve.md": [],
+    "Via/Line/PerimeterCurve.md": [],
+    "Via/Line/SpiralCurve.md": [],
+    "Via/Line/TurnAroundLine.md": [],
+    "Via/Line/ZigzagCurve.md": [],
     "Via/ViaDifficulty.md": [
         "Via.Difficulty",
         "Via.Difficulty.ViaComplexity",
@@ -1881,10 +1881,10 @@ tags = {
         "Via.ViaSequence.ViaSequenceVariation",
         "Via.ViaSequence.ViaShapeFrase.ViaShapeOverlap",
         "Via.ViaSequence.ViaSpaceFrase.ViaSpaceOverlap",
-        "Via.ViaSequence.ViaSurfaceFrase",
-        "Via.ViaSequence.ViaSurfaceFrase.AnteViaSurface",
-        "Via.ViaSequence.ViaSurfaceFrase.CurrentViaSurface",
-        "Via.ViaSequence.ViaSurfaceFrase.PostViaSurface"
+        "Via.ViaSequence.ContactFrase",
+        "Via.ViaSequence.ContactFrase.AnteContact",
+        "Via.ViaSequence.ContactFrase.CurrentContact",
+        "Via.ViaSequence.ContactFrase.PostContact"
     ],
     "Via/ViaSpace/ElasticSpacing.md": [],
     "Via/ViaSpace/MaximumSpacing.md": [],
@@ -1907,19 +1907,19 @@ tags = {
         "Via.Spacing.SlopedSpacing"
     ],
     "Via/ViaSpace/SpacingOnSlope.md": [],
-    "Via/ViaSurface/Overview.md": [
-        "Via.ViaGeometry.ViaSurface.LogSurface",
-        "Via.ViaGeometry.ViaSurface.Overview",
-        "Via.ViaGeometry.ViaSurface.RockSurface",
-        "Via.ViaGeometry.ViaSurface.Texture",
-        "Via.ViaGeometry.ViaSurface.WetSurface",
-        "Via.ViaGeometry.ViaSurface.Overview",
-        "Via.ViaGeometry.ViaSurface.ViaHiddenSurface",
-        "Via.ViaGeometry.ViaSurface.ViaSurfaceDensity",
-        "Via.ViaGeometry.ViaSurface.ViaSurfaceLine",
-        "Via.ViaGeometry.ViaSurface.ViaSurfaceAttributes.ViaSurfaceSize",
-        "Via.ViaGeometry.ViaSurface.ViaSurfaceAttributes.ViaSurfaceTexture",
-        "Via.ViaGeometry.ViaSurface.ViaSurfaceShape"
+    "Via/Contact/Overview.md": [
+        "Via.ViaGeometry.Contact.LogSurface",
+        "Via.ViaGeometry.Contact.Overview",
+        "Via.ViaGeometry.Contact.RockSurface",
+        "Via.ViaGeometry.Contact.Texture",
+        "Via.ViaGeometry.Contact.WetSurface",
+        "Via.ViaGeometry.Contact.Overview",
+        "Via.ViaGeometry.Contact.ViaHiddenSurface",
+        "Via.ViaGeometry.Contact.ContactDensity",
+        "Via.ViaGeometry.Contact.ContactLine",
+        "Via.ViaGeometry.Contact.ContactAttributes.ContactSize",
+        "Via.ViaGeometry.Contact.ContactAttributes.ContactTexture",
+        "Via.ViaGeometry.Contact.ContactShape"
     ],
     "Via/TeamPlant/BouncingCover.md": [],
     "Via/TeamPlant/CrossingCover.md": [],
@@ -1942,7 +1942,7 @@ tags = {
         "Tests.Overview",
         "Tests.Recall.Recall.RecallBetaDiagram",
         "Tests.ViaDecomposition",
-        "Tests.ViaSurfaceHighlight",
+        "Tests.ContactHighlight",
         "Tests.Senario",
         "Tests.Sequencing"
     ]

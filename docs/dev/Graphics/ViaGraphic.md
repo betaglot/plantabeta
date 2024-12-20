@@ -6,7 +6,7 @@
 
 DottedLine=Deadwalk
 
-SolidLine=ViaCurve
+SolidLine=Line
 
 CrossedLine=MarkagedLine
 
@@ -130,7 +130,7 @@ Via can be seen through the land.
 - "Via.ViaDiagram.Overview"
 - "Via.ViaDiagram.ViaDirectedLine"
 - "Via.ViaDiagram.ViaNotDirectedLine"
-- "Via.ViaDiagram.ViaSurface.ViaSurfaceHighlight"
+- "Via.ViaDiagram.Contact.ContactHighlight"
 - "Via.ViaDiagram.ViaTimeline"
 
 :::

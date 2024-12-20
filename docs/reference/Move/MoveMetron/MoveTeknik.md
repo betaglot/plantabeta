@@ -1,4 +1,4 @@
-# 🔷🟠 Move Complexity
+# 🔷🟠 MoveTeknik
 
 ## Definition
 
@@ -7,13 +7,13 @@
 - Continuum between Simple and Complex.
 - “Climbing is an incredibly demanding sport. Successful climbers combine strength, endurance, power, flexibility, mobility, and dexterity of both mind and body. Climbing requires a complex synergy between all of these abilities, relying on the successful integration of spatial awareness, balance, and coordination.”
 
-## Examples of Move Complexity
+## Examples of MoveTeknik
 
-### Low Move Complexity
+### Low MoveTeknik
 
-### High Move Complexity
+### High MoveTeknik
 
-## Move Sequence
+## Frase
 
 - Thinking moves ahead. Ahead of CurrentMovement.
     - EventCount
@@ -36,14 +36,14 @@
 
 ## Acceleration
 
-- High Complexity
+- High Teknik
     - DynamicMovement
         - Redirection
         - ResonanceSwing
         - AbsorbMovement
 - MultipleMovementDirection
     - RedirectionMovement
-- Low Complexity
+- Low Teknik
     - ConstantAcceleration
     - StaticMovement
 - (++)
@@ -163,13 +163,13 @@
 
 - Definition(HiddenRouteSurface)
 - Quote
-- MovementComplexity(+)
+- MovementTeknik(+)
     - BlindHandSwap
     - BlindHandSwap.C(++)SmallSurface.C(++)MonoHold
     - BlindCatch
     - HiddenByClimber
         - Climbers often can’t see their feet when ChestClose is required, unless feet are to the side of Climber.
-- MovementComplexity(-)
+- MovementTeknik(-)
     - FeelingForHold
         - WavingForHold
             - “Feel for it in Space”
@@ -182,9 +182,9 @@
 - Definition(SubmovementCount)
     - The number of ClimberParts performing the same Movement or different Movement.
 
-- (Movement+Route)Complexity
-    - A RouteComplexity.High has a higher MovementDensity than a RouteComplexity.Low.
-- (Complexity)ProportionalTo(SubmovementCount)
+- (Movement+Route)Teknik
+    - A RouteTeknik.High has a higher MovementDensity than a RouteTeknik.Low.
+- (Teknik)ProportionalTo(SubmovementCount)
 - SwapMovement
     - Changing the ClimberPart which contacts a given RouteSurface.
         - FootSwap
@@ -249,12 +249,12 @@ ApparentPathOfLeastResistanceDeception
 
 - Definition(TooManyOptions)
 - Quote
-    - MovementComplexity
-    - MovementComplexity(High)
-    - (MovementComplexity)ProportionalTo(AlternativeMovementCount)
-    - MovementComplexity(Low)
-    - MovementComplexity(++)
-    - MovementComplexity(--)
+    - MovementTeknik
+    - MovementTeknik(High)
+    - (MovementTeknik)ProportionalTo(AlternativeMovementCount)
+    - MovementTeknik(Low)
+    - MovementTeknik(++)
+    - MovementTeknik(--)
 
 ## NoHandsClimbing
 
@@ -265,15 +265,15 @@ ApparentPathOfLeastResistanceDeception
         - [A Walk on the Wild Slide with Johnny Dawes
 ](https://www.youtube.com/watch?v=OuTOnNwLUbk&ab_channel=BaldEagleProductions)
 
-- MovementComplexity(+)
+- MovementTeknik(+)
     - DynamicMovement
-        - ArmSwing
-            - ArmSwing Inertia
+        - ArmKurve
+            - ArmKurve Inertia
             - ArmAbsorb
-            - The timing ArmSwing in multiple directions and speeds can be difficult to achieve.
+            - The timing ArmKurve in multiple directions and speeds can be difficult to achieve.
             - ArmResonanceSwing Timing
                 - Give Energy just before MovementLineReflection
-- RouteComplexity(+)
+- RouteTeknik(+)
     - CornerWall is probably the MostComplexRouteType possible, although there is currently no video of it.
     - Any WallType besides SlabWall.
     - No ReferencePoint in space for BodyPositioning.
@@ -312,7 +312,7 @@ ApparentPathOfLeastResistanceDeception
             - LoadingAngle must be very close to Perpendicular to have enough NormalForce to maintain StaticFriction on SlipperySurface
     - Precision after DynamicMovement.
 
-- MovementComplexity(Low)
+- MovementTeknik(Low)
     - LowPrecision
     - LargeTargetHold
 
@@ -350,7 +350,7 @@ ApparentPathOfLeastResistanceDeception
 
 > ”The movement is so complex that it’s almost impossible to do it the same way twice in a row”
 
-- MovementComplexityHigh
+- MovementTeknikHigh
     - BurdenOfDream(V17)\(6:05)\”The movement is so complex that it’s almost impossible to do it the same way twice in a row”
         - <https://vimeo.com/ondemand/thelappnorproject17>
 

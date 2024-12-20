@@ -10,7 +10,8 @@ Aliases: ArmWalk
 
 ### Related 🟩<eko>Eko</eko>
 
--
+- SteepSlope
+    - Walk Up Slope with log in your ArmPit (ShoulderHook)
 
 ### Related 🔻<via>Via</via>
 

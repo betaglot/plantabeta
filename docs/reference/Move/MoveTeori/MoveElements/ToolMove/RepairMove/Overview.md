@@ -11,7 +11,7 @@ Maintain your tools to ensure that they last as long a possible and to maintain 
 - Sewing Clothing
 - Sewing Durable material
     - Bags
-    - Gaiter
+    - Tibior
 
 ### Glueing
 

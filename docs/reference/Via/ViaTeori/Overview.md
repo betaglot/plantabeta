@@ -9,7 +9,7 @@ Used to compare the DifficultyScore values of ViaComponents.
 viaRIC.Continuum
 
 - ViaComplexity.Low (R.C-)
-    - LadderVia is Via.Complexity.Low (Via.C-) since all ViaSurfaces are clearly visible and it’s clear how to Grip them.
+    - LadderVia is Via.Complexity.Low (Via.C-) since all Contacts are clearly visible and it’s clear how to Grip them.
     - MoveClimbing is all about creating ComplexMove on Simple Vias.
 
 - ViaIntensity.High (R.C+)

@@ -125,7 +125,7 @@ Beta is composed of four types, each of which can be represented by an icon:
 
 - 🟠<move>[SpadeSlam](/encyclopedia/Move/ToolMove/Spade/SpadeSlam)</move>: Humerus Rotate Out for SpadeSlam to recruit Latissimus Dorsi and prevent overactivation of Pectoralis muscles which causes Shoulder Impingement Injury
 
-- 🟠<move>[SpadeSkreef](/encyclopedia/Move/ToolMove/Spade/SpadeSkreef)</move>: SpadeSkreef is faster than BootSkreef or HandSkreef. And it flows into the backswing of SpadeSlam.
+- 🟠<move>[SpadeSkreef](/encyclopedia/Move/ToolMove/Spade/SpadeSkreef)</move>: SpadeSkreef is faster than BootSkreef or HandSkreef. And it flows into the retrokurve of SpadeSlam.
 
 - 🟠<move>[TraverseBush](/encyclopedia/Move/PlantMove/Overview)</move>: Spread branches while pushing your way through a bush.
     - AlderCluster, MapleCluster

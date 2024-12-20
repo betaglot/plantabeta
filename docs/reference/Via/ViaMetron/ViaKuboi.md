@@ -11,15 +11,15 @@
 
 ## Low <via>Via</via> Risk
 
-- MultipleViaSurfaces, there is a risk that you’ll choose the wrong ViaSurface.
+- MultipleContacts, there is a risk that you’ll choose the wrong Contact.
 - Clearly defined Via, where every hold can easily be seen.
 - Leave enough space on hold for Match or Swap.
 
 ## High <via>Via</via> Risk
 
 - Small <via>Via</via> Surface Size
-- HiddenViaSurface
-    - Blind <via>ViaSurface</via>
+- HiddenContact
+    - Blind <via>Contact</via>
     - Blindfolding can a ForcedBeta. Vision is a NeuroFactor which can be removed.
     - Blind Landing
 - A <via>Via</via> with dead ends.
@@ -34,9 +34,9 @@
 
 Advantage over other Climbers.
 
-- Risk increases in Competition when the Friction of ViaSurfaces decreases when Holds become TooChalky.
+- Risk increases in Competition when the Friction of Contacts decreases when Holds become TooChalky.
 
-- Risk decreases when ViaSurfaces are Prechalked.
+- Risk decreases when Contacts are Prechalked.
 
 ## <via>Via</via> Risk Factors
 
@@ -57,9 +57,9 @@ SmallHold.Via.R+
 - PocketHold
     - BowlingBallHold\Crux of Biographie (5.15a)
 
-- Risk increases when there is only a small part of a SmallHold which must be hit perfectly, i.e. there is little margin of error of FingerPlacement on a ViaSurface.
+- Risk increases when there is only a small part of a SmallHold which must be hit perfectly, i.e. there is little margin of error of FingerPlacement on a Contact.
 
-- Risk increases when there is a limited range of directions (vectors) in which to load a ViaSurface.
+- Risk increases when there is a limited range of directions (vectors) in which to load a Contact.
 
 - StabMovement
     - HangingFootTransfer ->
@@ -75,7 +75,7 @@ AccurateTiming
     - The faster a Climber moves, the more time they have to get to TargetSurface or RestPosition.
     - Climbers can wait longer if they can move fast.
 - ReflexSpeed
-- When the Climber needs to get a ClimberPart to a ViaSurface
+- When the Climber needs to get a ClimberPart to a Contact
 
 - Risk increases when Movement timing has a small margin for error.
     - CoordinationMovement, Dyno.HandRelease, ArmBrake, FootStab, ReleaseMovement
@@ -91,10 +91,10 @@ Commitment.ViaRisk(-)
 
 ### Hidden Via Surface
 
-Definition(HiddenViaSurface)
+Definition(HiddenContact)
 
-- A ViaSurface which can’t be seen from a Climber’s ViaPosition.
-- A HiddenViaSurface increases the Risk of a Movement.
+- A Contact which can’t be seen from a Climber’s ViaPosition.
+- A HiddenContact increases the Risk of a Movement.
 
 Quote
 
@@ -104,14 +104,14 @@ Quote
 
 > “How good is the hold, I can’t see it from the ground?”
 
-HiddenViaSurface.MoveRisk(-)
+HiddenContact.MoveRisk(-)
 
-- A ViaSurface which was recently visible from AnteViaPosition is lower Risk than a HiddenViaSurface which isn’t seen until CurrentViaPosition or PostViaPosition.
-    - MoveRisk.HiddenViaSurface(TopOut.TargetSurface > SitStart.StartHold)
+- A Contact which was recently visible from AnteViaPosition is lower Risk than a HiddenContact which isn’t seen until CurrentViaPosition or PostViaPosition.
+    - MoveRisk.HiddenContact(TopOut.TargetSurface > SitStart.StartHold)
 
-Hidden ByViaSurfaceSize
+Hidden ByContactSize
 
-- Some ViaSurfaces are so small that they can’t be seen.
+- Some Contacts are so small that they can’t be seen.
 
 HiddenByViaForm
 
@@ -119,31 +119,31 @@ HiddenByViaForm
     - ViaPosition
     - MovePosition
 
-- SwapMovement on ViaSurface.
+- SwapMovement on Contact.
 - UnderclingGrip when you can’t see from Distal of Elbow.
 - FootHold
 
 - HiddenByShadow
-    - A ViaSurface can be Hidden in a Shadow
-        - What ViaSurfaceType is most easily HiddenByShadow?
+    - A Contact can be Hidden in a Shadow
+        - What ContactType is most easily HiddenByShadow?
             - SmallSurface
 
     - HiddenByNoShadow
         - HiddenByNoShadow only applies to RockWalls, since ArtificialHolds are almost always a different color from the wall and artificial lighting doesn’t ever vary.
-        - Shadows help Climbers to see the 3Dimensional form of ViaSurfaces.
+        - Shadows help Climbers to see the 3Dimensional form of Contacts.
         - There are no Shadows when the light is directly shining on the Wall.
 
-- Mnemonic of ViaSurfaceLocation decreases Risk.
-    - (ViaSurfaceLocation)RelativeTo(Via, Climber, (Via+Climber))
-    - Using a distinct part of the wall on the Climber’s side of an OutsideCornerWall as a guide for the ViaSurface on the Hidden side of the CornerWall.
+- Mnemonic of ContactLocation decreases Risk.
+    - (ContactLocation)RelativeTo(Via, Climber, (Via+Climber))
+    - Using a distinct part of the wall on the Climber’s side of an OutsideCornerWall as a guide for the Contact on the Hidden side of the CornerWall.
     - TicMark
         - TicMark decreases Risk.
     - TicMark can’t be unseen, just like a story spoiler.
     - TicMarks prevent OnsightAttempt.
-    - Knowing the location of all the holds and ViaSurfaces decreases Risk.
+    - Knowing the location of all the holds and Contacts decreases Risk.
 
 - Hold hidden under a Volume
-- ViaSurface is Hidden around a CornerWall
+- Contact is Hidden around a CornerWall
     - VerticalCornerWall (Arete)
     - HorizontalCornerWall (Bulge, TopOut)
         - Foothold is hidden from Climber since it is below a BulgeWall
@@ -155,7 +155,7 @@ HiddenByViaForm
     - Climber’s chest too close to the wall to Look down at a Hold.
         - LookAt.MovementError(ChestTooClose)
 - JumpStart
-    - When performing a JumpStart, Climbers can’t see what the ViaSurface is like.
+    - When performing a JumpStart, Climbers can’t see what the Contact is like.
 
 ### Irreversible
 
@@ -168,7 +168,7 @@ Definition(Irreversible)
 Irreversible.ViaRisk(High)
 
 - Deadpoint from a NonJugHold
-- ViaSurfaces which use StaticUpMovements that finish with FingertipPress and can’t start with FingertipPress when DownClimbing.
+- Contacts which use StaticUpMovements that finish with FingertipPress and can’t start with FingertipPress when DownClimbing.
 - DynamicDownMovement is not possible because it will overload StaticFrictionThreshold.
 
 ViaGap
@@ -185,11 +185,11 @@ Irreversible.ViaRisk(Low)
 - ViaSections which are reversible but with at least a moderate probability of resulting in a Fall.
 - OverhangWall
 
-### ViaSurface
+### Contact
 
-RiskViaSurface
+RiskContact
 
-- Definition(ViaSurface)
+- Definition(Contact)
     - A surface in a Via upon which the Climber applies a force.
 
 Quote
@@ -197,17 +197,17 @@ Quote
 - MarginalHold
 - HeinousHold
 
-ViaSurface.MoveRisk(+)
-    - Risk of Slipping off ViaSurface.
+Contact.MoveRisk(+)
+    - Risk of Slipping off Contact.
         - AlexHonnold on the FreeblastSlab in FreeSoloMovie.
         - NoShadowHold
         - SlightConcavitySurface
 
 - Risk of not being able to Successfully load TargetSurface.
-- Unable to RepositionFinger on ViaSurface once the ViaSurface is caught HandCatch
-    - Unable to RepositionFinger on ViaSurface once the Surface is loaded.\HandCatch
+- Unable to RepositionFinger on Contact once the Contact is caught HandCatch
+    - Unable to RepositionFinger on Contact once the Surface is loaded.\HandCatch
 
-ViaSurface.ViaRisk(+)
+Contact.ViaRisk(+)
     - PolishedGraniteInsideCornerWall
         - HazelFindlay\TaintedLove\
             - <https://www.youtube.com/watch?v=nPtdvfqYrdY>
@@ -215,12 +215,12 @@ ViaSurface.ViaRisk(+)
 SmallHold
 
 - NoSurfaceLeft
-- SmallFootViaSurface
+- SmallFootContact
     - FootSwap, FootStab
 
-ViaSurface.Risk(++)
+Contact.Risk(++)
 
-- Decrease ViaSurface CoefficientOfFriction
+- Decrease Contact CoefficientOfFriction
 - SmoothTexture increases Risk since there is less Friction, therefore there is a great chance of FootSlip.
 
 ### OffVia

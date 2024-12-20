@@ -136,7 +136,7 @@ Most Epic BC day, Most shitty Ontario day
 - Kneepad
 - Kevlar
 - Cool Leggings
-- Gaiter
+- Tibior
 - hat
 - shirt
     - Waist size inhibits universality. Oversized shirt is fine

@@ -782,7 +782,7 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Via.ViaGeometry.ViaCurve.PerimeterLine",
+                    "title": "Via.ViaGeometry.Line.PerimeterLine",
                     "color": "#f83a22b8",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -840,7 +840,7 @@
                 "textcolor": "#000000ff"
             },
             {
-                "title": "Via.ViaGeometry.ViaCurve.PerimeterLine",
+                "title": "Via.ViaGeometry.Line.PerimeterLine",
                 "color": "#f83a22b8",
                 "textcolor": "white"
             },
@@ -1255,13 +1255,13 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Via.ViaGeometry.ViaCurve.Overview",
+                    "title": "Via.ViaGeometry.Line.Overview",
                     "color": "#f83a22b8",
                     "textcolor": "white",
                     "type": "sidecar"
                 },
                 {
-                    "title": "Via.ViaGeometry.ViaCurve.SpiralLine",
+                    "title": "Via.ViaGeometry.Line.SpiralLine",
                     "color": "#f83a22b8",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -1309,12 +1309,12 @@
                 "textcolor": "white"
             },
             {
-                "title": "Via.ViaGeometry.ViaCurve.Overview",
+                "title": "Via.ViaGeometry.Line.Overview",
                 "color": "#f83a22b8",
                 "textcolor": "white"
             },
             {
-                "title": "Via.ViaGeometry.ViaCurve.SpiralLine",
+                "title": "Via.ViaGeometry.Line.SpiralLine",
                 "color": "#f83a22b8",
                 "textcolor": "white"
             },
@@ -4052,7 +4052,7 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Via.ViaGeometry.ViaCurve.Overview",
+                    "title": "Via.ViaGeometry.Line.Overview",
                     "color": "#f83a22b8",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -4095,7 +4095,7 @@
                 "textcolor": "white"
             },
             {
-                "title": "Via.ViaGeometry.ViaCurve.Overview",
+                "title": "Via.ViaGeometry.Line.Overview",
                 "color": "#f83a22b8",
                 "textcolor": "white"
             },
@@ -5130,7 +5130,7 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Via.ViaGeometry.ViaCurve.SpiralLine",
+                    "title": "Via.ViaGeometry.Line.SpiralLine",
                     "color": "#f83a22b8",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -5264,7 +5264,7 @@
                 "textcolor": "white"
             },
             {
-                "title": "Via.ViaGeometry.ViaCurve.SpiralLine",
+                "title": "Via.ViaGeometry.Line.SpiralLine",
                 "color": "#f83a22b8",
                 "textcolor": "white"
             },
@@ -5443,7 +5443,7 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Via.ViaGeometry.ViaSurface.ViaSurfaceAttributes.ViaSurfaceSize",
+                    "title": "Via.ViaGeometry.Contact.ContactAttributes.ContactSize",
                     "color": "#f83a22b8",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -5586,7 +5586,7 @@
                 "textcolor": "white"
             },
             {
-                "title": "Via.ViaGeometry.ViaSurface.ViaSurfaceAttributes.ViaSurfaceSize",
+                "title": "Via.ViaGeometry.Contact.ContactAttributes.ContactSize",
                 "color": "#f83a22b8",
                 "textcolor": "white"
             },
@@ -6148,31 +6148,31 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Via.ViaGeometry.ViaCurve.BagUpLine",
+                    "title": "Via.ViaGeometry.Line.BagUpLine",
                     "color": "#f83a22b8",
                     "textcolor": "white",
                     "type": "sidecar"
                 },
                 {
-                    "title": "Via.ViaGeometry.ViaCurve.BoundaryLine.ArtificialBoundaryLine",
+                    "title": "Via.ViaGeometry.Line.BoundaryLine.ArtificialBoundaryLine",
                     "color": "#f83a22b8",
                     "textcolor": "white",
                     "type": "sidecar"
                 },
                 {
-                    "title": "Via.ViaGeometry.ViaCurve.BoundaryLine.NaturalBoundaryLine",
+                    "title": "Via.ViaGeometry.Line.BoundaryLine.NaturalBoundaryLine",
                     "color": "#f83a22b8",
                     "textcolor": "white",
                     "type": "sidecar"
                 },
                 {
-                    "title": "Via.ViaGeometry.ViaCurve.LineIn",
+                    "title": "Via.ViaGeometry.Line.LineIn",
                     "color": "#f83a22b8",
                     "textcolor": "white",
                     "type": "sidecar"
                 },
                 {
-                    "title": "Via.ViaGeometry.ViaCurve.Overview",
+                    "title": "Via.ViaGeometry.Line.Overview",
                     "color": "#f83a22b8",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -6301,27 +6301,27 @@
                 "textcolor": "white"
             },
             {
-                "title": "Via.ViaGeometry.ViaCurve.BagUpLine",
+                "title": "Via.ViaGeometry.Line.BagUpLine",
                 "color": "#f83a22b8",
                 "textcolor": "white"
             },
             {
-                "title": "Via.ViaGeometry.ViaCurve.BoundaryLine.ArtificialBoundaryLine",
+                "title": "Via.ViaGeometry.Line.BoundaryLine.ArtificialBoundaryLine",
                 "color": "#f83a22b8",
                 "textcolor": "white"
             },
             {
-                "title": "Via.ViaGeometry.ViaCurve.BoundaryLine.NaturalBoundaryLine",
+                "title": "Via.ViaGeometry.Line.BoundaryLine.NaturalBoundaryLine",
                 "color": "#f83a22b8",
                 "textcolor": "white"
             },
             {
-                "title": "Via.ViaGeometry.ViaCurve.LineIn",
+                "title": "Via.ViaGeometry.Line.LineIn",
                 "color": "#f83a22b8",
                 "textcolor": "white"
             },
             {
-                "title": "Via.ViaGeometry.ViaCurve.Overview",
+                "title": "Via.ViaGeometry.Line.Overview",
                 "color": "#f83a22b8",
                 "textcolor": "white"
             },
@@ -6588,7 +6588,7 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Move.ArmMove.ArmSwing",
+                    "title": "Move.ArmMove.ArmKurve",
                     "color": "#ff7537ff",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -6678,7 +6678,7 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Via.ViaGeometry.ViaCurve.ViaDisplacementLine",
+                    "title": "Via.ViaGeometry.Line.ViaDisplacementLine",
                     "color": "#f83a22b8",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -6731,7 +6731,7 @@
                 "textcolor": "#000000ff"
             },
             {
-                "title": "Move.ArmMove.ArmSwing",
+                "title": "Move.ArmMove.ArmKurve",
                 "color": "#ff7537ff",
                 "textcolor": "white"
             },
@@ -6806,7 +6806,7 @@
                 "textcolor": "white"
             },
             {
-                "title": "Via.ViaGeometry.ViaCurve.ViaDisplacementLine",
+                "title": "Via.ViaGeometry.Line.ViaDisplacementLine",
                 "color": "#f83a22b8",
                 "textcolor": "white"
             },
@@ -8182,19 +8182,19 @@
                 {
                     "color": "#f83a22b8",
                     "textcolor": "white",
-                    "title": "Via.ViaSequence.ViaSurfaceFrase.AnteViaSurface",
+                    "title": "Via.ViaSequence.ContactFrase.AnteContact",
                     "type": "sidecar"
                 },
                 {
                     "color": "#f83a22b8",
                     "textcolor": "white",
-                    "title": "Via.ViaSequence.ViaSurfaceFrase.CurrentViaSurface",
+                    "title": "Via.ViaSequence.ContactFrase.CurrentContact",
                     "type": "sidecar"
                 },
                 {
                     "color": "#f83a22b8",
                     "textcolor": "white",
-                    "title": "Via.ViaSequence.ViaSurfaceFrase.PostViaSurface",
+                    "title": "Via.ViaSequence.ContactFrase.PostContact",
                     "type": "sidecar"
                 },
                 {
@@ -8260,17 +8260,17 @@
                 "textcolor": "white"
             },
             {
-                "title": "Via.ViaSequence.ViaSurfaceFrase.AnteViaSurface",
+                "title": "Via.ViaSequence.ContactFrase.AnteContact",
                 "color": "#f83a22b8",
                 "textcolor": "white"
             },
             {
-                "title": "Via.ViaSequence.ViaSurfaceFrase.CurrentViaSurface",
+                "title": "Via.ViaSequence.ContactFrase.CurrentContact",
                 "color": "#f83a22b8",
                 "textcolor": "white"
             },
             {
-                "title": "Via.ViaSequence.ViaSurfaceFrase.PostViaSurface",
+                "title": "Via.ViaSequence.ContactFrase.PostContact",
                 "color": "#f83a22b8",
                 "textcolor": "white"
             },
@@ -9046,7 +9046,7 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Via.ViaGeometry.ViaCurve.ViaDisplacementLine",
+                    "title": "Via.ViaGeometry.Line.ViaDisplacementLine",
                     "color": "#f83a22b8",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -9099,7 +9099,7 @@
                 "textcolor": "white"
             },
             {
-                "title": "Via.ViaGeometry.ViaCurve.ViaDisplacementLine",
+                "title": "Via.ViaGeometry.Line.ViaDisplacementLine",
                 "color": "#f83a22b8",
                 "textcolor": "white"
             },
@@ -9524,7 +9524,7 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Via.ViaGeometry.ViaCurve.ViaLinearLine",
+                    "title": "Via.ViaGeometry.Line.ViaLinearLine",
                     "color": "#f83a22b8",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -9536,7 +9536,7 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Via.ViaGeometry.ViaSurface.ViaSurfaceLine",
+                    "title": "Via.ViaGeometry.Contact.ContactLine",
                     "color": "#f83a22b8",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -9589,7 +9589,7 @@
                 "textcolor": "white"
             },
             {
-                "title": "Via.ViaGeometry.ViaCurve.ViaLinearLine",
+                "title": "Via.ViaGeometry.Line.ViaLinearLine",
                 "color": "#f83a22b8",
                 "textcolor": "white"
             },
@@ -9599,7 +9599,7 @@
                 "textcolor": "white"
             },
             {
-                "title": "Via.ViaGeometry.ViaSurface.ViaSurfaceLine",
+                "title": "Via.ViaGeometry.Contact.ContactLine",
                 "color": "#f83a22b8",
                 "textcolor": "white"
             },
@@ -11179,13 +11179,13 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Via.ViaGeometry.ViaCurve.CircumventLine",
+                    "title": "Via.ViaGeometry.Line.CircumventLine",
                     "color": "#f83a22b8",
                     "textcolor": "white",
                     "type": "sidecar"
                 },
                 {
-                    "title": "Via.ViaGeometry.ViaCurve.ViaDistanceLine.ViaCircuitLine",
+                    "title": "Via.ViaGeometry.Line.ViaDistanceLine.ViaCircuitLine",
                     "color": "#f83a22b8",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -11245,12 +11245,12 @@
                 "textcolor": "white"
             },
             {
-                "title": "Via.ViaGeometry.ViaCurve.CircumventLine",
+                "title": "Via.ViaGeometry.Line.CircumventLine",
                 "color": "#f83a22b8",
                 "textcolor": "white"
             },
             {
-                "title": "Via.ViaGeometry.ViaCurve.ViaDistanceLine.ViaCircuitLine",
+                "title": "Via.ViaGeometry.Line.ViaDistanceLine.ViaCircuitLine",
                 "color": "#f83a22b8",
                 "textcolor": "white"
             },
@@ -11510,7 +11510,7 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Move.LegMove.LegSwing",
+                    "title": "Move.LegMove.LegKurve",
                     "color": "#ff7537ff",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -11576,13 +11576,13 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Via.ViaGeometry.ViaCurve.ViaDisplacementLine",
+                    "title": "Via.ViaGeometry.Line.ViaDisplacementLine",
                     "color": "#f83a22b8",
                     "textcolor": "white",
                     "type": "sidecar"
                 },
                 {
-                    "title": "Via.ViaGeometry.ViaCurve.ViaLinearLine",
+                    "title": "Via.ViaGeometry.Line.ViaLinearLine",
                     "color": "#f83a22b8",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -11643,7 +11643,7 @@
                 "textcolor": "#000000ff"
             },
             {
-                "title": "Move.LegMove.LegSwing",
+                "title": "Move.LegMove.LegKurve",
                 "color": "#ff7537ff",
                 "textcolor": "white"
             },
@@ -11698,12 +11698,12 @@
                 "textcolor": "white"
             },
             {
-                "title": "Via.ViaGeometry.ViaCurve.ViaDisplacementLine",
+                "title": "Via.ViaGeometry.Line.ViaDisplacementLine",
                 "color": "#f83a22b8",
                 "textcolor": "white"
             },
             {
-                "title": "Via.ViaGeometry.ViaCurve.ViaLinearLine",
+                "title": "Via.ViaGeometry.Line.ViaLinearLine",
                 "color": "#f83a22b8",
                 "textcolor": "white"
             },
@@ -12134,13 +12134,13 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Via.ViaGeometry.ViaCurve.BoundaryLine.ArtificialBoundaryLine",
+                    "title": "Via.ViaGeometry.Line.BoundaryLine.ArtificialBoundaryLine",
                     "color": "#f83a22b8",
                     "textcolor": "white",
                     "type": "sidecar"
                 },
                 {
-                    "title": "Via.ViaGeometry.ViaCurve.BoundaryLine.NaturalBoundaryLine",
+                    "title": "Via.ViaGeometry.Line.BoundaryLine.NaturalBoundaryLine",
                     "color": "#f83a22b8",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -12249,12 +12249,12 @@
                 "textcolor": "white"
             },
             {
-                "title": "Via.ViaGeometry.ViaCurve.BoundaryLine.ArtificialBoundaryLine",
+                "title": "Via.ViaGeometry.Line.BoundaryLine.ArtificialBoundaryLine",
                 "color": "#f83a22b8",
                 "textcolor": "white"
             },
             {
-                "title": "Via.ViaGeometry.ViaCurve.BoundaryLine.NaturalBoundaryLine",
+                "title": "Via.ViaGeometry.Line.BoundaryLine.NaturalBoundaryLine",
                 "color": "#f83a22b8",
                 "textcolor": "white"
             },
@@ -12894,25 +12894,25 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Via.ViaGeometry.ViaCurve.Overview",
+                    "title": "Via.ViaGeometry.Line.Overview",
                     "color": "#f83a22b8",
                     "textcolor": "white",
                     "type": "sidecar"
                 },
                 {
-                    "title": "Via.ViaGeometry.ViaCurve.ViaDisplacementLine",
+                    "title": "Via.ViaGeometry.Line.ViaDisplacementLine",
                     "color": "#f83a22b8",
                     "textcolor": "white",
                     "type": "sidecar"
                 },
                 {
-                    "title": "Via.ViaGeometry.ViaCurve.ViaLinearLine",
+                    "title": "Via.ViaGeometry.Line.ViaLinearLine",
                     "color": "#f83a22b8",
                     "textcolor": "white",
                     "type": "sidecar"
                 },
                 {
-                    "title": "Via.ViaGeometry.ViaCurve.ViaReferenceLine",
+                    "title": "Via.ViaGeometry.Line.ViaReferenceLine",
                     "color": "#f83a22b8",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -13061,22 +13061,22 @@
                 "textcolor": "white"
             },
             {
-                "title": "Via.ViaGeometry.ViaCurve.Overview",
+                "title": "Via.ViaGeometry.Line.Overview",
                 "color": "#f83a22b8",
                 "textcolor": "white"
             },
             {
-                "title": "Via.ViaGeometry.ViaCurve.ViaDisplacementLine",
+                "title": "Via.ViaGeometry.Line.ViaDisplacementLine",
                 "color": "#f83a22b8",
                 "textcolor": "white"
             },
             {
-                "title": "Via.ViaGeometry.ViaCurve.ViaLinearLine",
+                "title": "Via.ViaGeometry.Line.ViaLinearLine",
                 "color": "#f83a22b8",
                 "textcolor": "white"
             },
             {
-                "title": "Via.ViaGeometry.ViaCurve.ViaReferenceLine",
+                "title": "Via.ViaGeometry.Line.ViaReferenceLine",
                 "color": "#f83a22b8",
                 "textcolor": "white"
             },
@@ -14350,7 +14350,7 @@
                 {
                     "color": "#ff7537ff",
                     "textcolor": "white",
-                    "title": "Move.LegMove.LegSwing",
+                    "title": "Move.LegMove.LegKurve",
                     "type": "sidecar"
                 },
                 {
@@ -14451,7 +14451,7 @@
                 "textcolor": "#000000ff"
             },
             {
-                "title": "Move.LegMove.LegSwing",
+                "title": "Move.LegMove.LegKurve",
                 "color": "#ff7537ff",
                 "textcolor": "white"
             },
@@ -14566,7 +14566,7 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Via.ViaGeometry.ViaCurve.Overview",
+                    "title": "Via.ViaGeometry.Line.Overview",
                     "color": "#f83a22b8",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -14614,7 +14614,7 @@
                 "textcolor": "white"
             },
             {
-                "title": "Via.ViaGeometry.ViaCurve.Overview",
+                "title": "Via.ViaGeometry.Line.Overview",
                 "color": "#f83a22b8",
                 "textcolor": "white"
             },
@@ -14884,7 +14884,7 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Via.ViaGeometry.ViaCurve.Overview",
+                    "title": "Via.ViaGeometry.Line.Overview",
                     "color": "#f83a22b8",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -14962,7 +14962,7 @@
                 "textcolor": "white"
             },
             {
-                "title": "Via.ViaGeometry.ViaCurve.Overview",
+                "title": "Via.ViaGeometry.Line.Overview",
                 "color": "#f83a22b8",
                 "textcolor": "white"
             },
@@ -15088,7 +15088,7 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Via.ViaGeometry.ViaCurve.ViaReferenceLine",
+                    "title": "Via.ViaGeometry.Line.ViaReferenceLine",
                     "color": "#f83a22b8",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -15197,7 +15197,7 @@
                 "textcolor": "white"
             },
             {
-                "title": "Via.ViaGeometry.ViaCurve.ViaReferenceLine",
+                "title": "Via.ViaGeometry.Line.ViaReferenceLine",
                 "color": "#f83a22b8",
                 "textcolor": "white"
             },
@@ -15613,7 +15613,7 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Via.ViaGeometry.ViaSurface.ViaSurfaceLine",
+                    "title": "Via.ViaGeometry.Contact.ContactLine",
                     "color": "#f83a22b8",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -15671,7 +15671,7 @@
                 "textcolor": "white"
             },
             {
-                "title": "Via.ViaGeometry.ViaSurface.ViaSurfaceLine",
+                "title": "Via.ViaGeometry.Contact.ContactLine",
                 "color": "#f83a22b8",
                 "textcolor": "white"
             },
@@ -15749,7 +15749,7 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Via.ViaGeometry.ViaCurve.ParallelLine",
+                    "title": "Via.ViaGeometry.Line.ParallelLine",
                     "color": "#f83a22b8",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -15818,7 +15818,7 @@
                 "textcolor": "white"
             },
             {
-                "title": "Via.ViaGeometry.ViaCurve.ParallelLine",
+                "title": "Via.ViaGeometry.Line.ParallelLine",
                 "color": "#f83a22b8",
                 "textcolor": "white"
             },
@@ -16007,19 +16007,19 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Via.ViaGeometry.ViaCurve.ParallelLine",
+                    "title": "Via.ViaGeometry.Line.ParallelLine",
                     "color": "#f83a22b8",
                     "textcolor": "white",
                     "type": "sidecar"
                 },
                 {
-                    "title": "Via.ViaGeometry.ViaCurve.ViaLineOverlap",
+                    "title": "Via.ViaGeometry.Line.ViaLineOverlap",
                     "color": "#f83a22b8",
                     "textcolor": "white",
                     "type": "sidecar"
                 },
                 {
-                    "title": "Via.ViaGeometry.ViaCurve.ViaLinearLine",
+                    "title": "Via.ViaGeometry.Line.ViaLinearLine",
                     "color": "#f83a22b8",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -16080,17 +16080,17 @@
                 "textcolor": "white"
             },
             {
-                "title": "Via.ViaGeometry.ViaCurve.ParallelLine",
+                "title": "Via.ViaGeometry.Line.ParallelLine",
                 "color": "#f83a22b8",
                 "textcolor": "white"
             },
             {
-                "title": "Via.ViaGeometry.ViaCurve.ViaLineOverlap",
+                "title": "Via.ViaGeometry.Line.ViaLineOverlap",
                 "color": "#f83a22b8",
                 "textcolor": "white"
             },
             {
-                "title": "Via.ViaGeometry.ViaCurve.ViaLinearLine",
+                "title": "Via.ViaGeometry.Line.ViaLinearLine",
                 "color": "#f83a22b8",
                 "textcolor": "white"
             },
@@ -17507,7 +17507,7 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Move.ToolMove.SpadeMove.SpadeSwing",
+                    "title": "Move.ToolMove.SpadeMove.SpadeKurve",
                     "color": "#ff7537ff",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -17531,7 +17531,7 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Via.ViaGeometry.ViaCurve.Overview",
+                    "title": "Via.ViaGeometry.Line.Overview",
                     "color": "#f83a22b8",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -17584,7 +17584,7 @@
                 "textcolor": "white"
             },
             {
-                "title": "Move.ToolMove.SpadeMove.SpadeSwing",
+                "title": "Move.ToolMove.SpadeMove.SpadeKurve",
                 "color": "#ff7537ff",
                 "textcolor": "white"
             },
@@ -17604,7 +17604,7 @@
                 "textcolor": "white"
             },
             {
-                "title": "Via.ViaGeometry.ViaCurve.Overview",
+                "title": "Via.ViaGeometry.Line.Overview",
                 "color": "#f83a22b8",
                 "textcolor": "white"
             },
@@ -19494,7 +19494,7 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Move.ArmMove.ArmSwing",
+                    "title": "Move.ArmMove.ArmKurve",
                     "color": "#ff7537ff",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -19564,7 +19564,7 @@
                 "textcolor": "white"
             },
             {
-                "title": "Move.ArmMove.ArmSwing",
+                "title": "Move.ArmMove.ArmKurve",
                 "color": "#ff7537ff",
                 "textcolor": "white"
             },
@@ -20102,7 +20102,7 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Via.ViaGeometry.ViaCurve.AdvancingMove",
+                    "title": "Via.ViaGeometry.Line.AdvancingMove",
                     "color": "#f83a22b8",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -20180,7 +20180,7 @@
                 "textcolor": "white"
             },
             {
-                "title": "Via.ViaGeometry.ViaCurve.AdvancingMove",
+                "title": "Via.ViaGeometry.Line.AdvancingMove",
                 "color": "#f83a22b8",
                 "textcolor": "white"
             },
@@ -20234,7 +20234,7 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Move.LegMove.LegSwing",
+                    "title": "Move.LegMove.LegKurve",
                     "color": "#ff7537ff",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -20331,7 +20331,7 @@
                 "textcolor": "#000000ff"
             },
             {
-                "title": "Move.LegMove.LegSwing",
+                "title": "Move.LegMove.LegKurve",
                 "color": "#ff7537ff",
                 "textcolor": "white"
             },
@@ -21705,19 +21705,19 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Via.ViaDiagram.ViaSurface.ViaSurfaceHighlight",
+                    "title": "Via.ViaDiagram.Contact.ContactHighlight",
                     "color": "#f83a22b8",
                     "textcolor": "white",
                     "type": "sidecar"
                 },
                 {
-                    "title": "Via.ViaGeometry.ViaCurve.ViaLinearLine",
+                    "title": "Via.ViaGeometry.Line.ViaLinearLine",
                     "color": "#f83a22b8",
                     "textcolor": "white",
                     "type": "sidecar"
                 },
                 {
-                    "title": "Via.ViaGeometry.ViaSurface.ViaSurfaceLine",
+                    "title": "Via.ViaGeometry.Contact.ContactLine",
                     "color": "#f83a22b8",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -21785,17 +21785,17 @@
                 "textcolor": "white"
             },
             {
-                "title": "Via.ViaDiagram.ViaSurface.ViaSurfaceHighlight",
+                "title": "Via.ViaDiagram.Contact.ContactHighlight",
                 "color": "#f83a22b8",
                 "textcolor": "white"
             },
             {
-                "title": "Via.ViaGeometry.ViaCurve.ViaLinearLine",
+                "title": "Via.ViaGeometry.Line.ViaLinearLine",
                 "color": "#f83a22b8",
                 "textcolor": "white"
             },
             {
-                "title": "Via.ViaGeometry.ViaSurface.ViaSurfaceLine",
+                "title": "Via.ViaGeometry.Contact.ContactLine",
                 "color": "#f83a22b8",
                 "textcolor": "white"
             },
@@ -21897,13 +21897,13 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Via.ViaGeometry.ViaSurface.Overview",
+                    "title": "Via.ViaGeometry.Contact.Overview",
                     "color": "#f83a22b8",
                     "textcolor": "white",
                     "type": "sidecar"
                 },
                 {
-                    "title": "Via.ViaGeometry.ViaSurface.ViaSurfaceLine",
+                    "title": "Via.ViaGeometry.Contact.ContactLine",
                     "color": "#f83a22b8",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -21986,12 +21986,12 @@
                 "textcolor": "white"
             },
             {
-                "title": "Via.ViaGeometry.ViaSurface.Overview",
+                "title": "Via.ViaGeometry.Contact.Overview",
                 "color": "#f83a22b8",
                 "textcolor": "white"
             },
             {
-                "title": "Via.ViaGeometry.ViaSurface.ViaSurfaceLine",
+                "title": "Via.ViaGeometry.Contact.ContactLine",
                 "color": "#f83a22b8",
                 "textcolor": "white"
             },
@@ -22261,7 +22261,7 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Tests.ViaSurfaceHighlight",
+                    "title": "Tests.ContactHighlight",
                     "color": "#ffffffff",
                     "textcolor": "#000000ff",
                     "type": "sidecar"
@@ -22339,7 +22339,7 @@
                 "textcolor": "white"
             },
             {
-                "title": "Tests.ViaSurfaceHighlight",
+                "title": "Tests.ContactHighlight",
                 "color": "#ffffffff",
                 "textcolor": "#000000ff"
             },
@@ -22417,7 +22417,7 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Via.ViaGeometry.ViaCurve.Overview",
+                    "title": "Via.ViaGeometry.Line.Overview",
                     "color": "#f83a22b8",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -22480,7 +22480,7 @@
                 "textcolor": "white"
             },
             {
-                "title": "Via.ViaGeometry.ViaCurve.Overview",
+                "title": "Via.ViaGeometry.Line.Overview",
                 "color": "#f83a22b8",
                 "textcolor": "white"
             },
@@ -22716,7 +22716,7 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Via.ViaDiagram.ViaSurface.ViaSurfaceHighlight",
+                    "title": "Via.ViaDiagram.Contact.ContactHighlight",
                     "color": "#f83a22b8",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -22784,7 +22784,7 @@
                 "textcolor": "white"
             },
             {
-                "title": "Via.ViaDiagram.ViaSurface.ViaSurfaceHighlight",
+                "title": "Via.ViaDiagram.Contact.ContactHighlight",
                 "color": "#f83a22b8",
                 "textcolor": "white"
             },
@@ -22820,7 +22820,7 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Via.ViaDiagram.ViaSurface.ViaSurfaceHighlight",
+                    "title": "Via.ViaDiagram.Contact.ContactHighlight",
                     "color": "#f83a22b8",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -22832,7 +22832,7 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Via.ViaGeometry.ViaCurve.ViaLineOverlap",
+                    "title": "Via.ViaGeometry.Line.ViaLineOverlap",
                     "color": "#f83a22b8",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -22874,7 +22874,7 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Via.ViaGeometry.ViaSurface.ViaHiddenSurface",
+                    "title": "Via.ViaGeometry.Contact.ViaHiddenSurface",
                     "color": "#f83a22b8",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -22908,7 +22908,7 @@
                 "textcolor": "white"
             },
             {
-                "title": "Via.ViaDiagram.ViaSurface.ViaSurfaceHighlight",
+                "title": "Via.ViaDiagram.Contact.ContactHighlight",
                 "color": "#f83a22b8",
                 "textcolor": "white"
             },
@@ -22918,7 +22918,7 @@
                 "textcolor": "#000000ff"
             },
             {
-                "title": "Via.ViaGeometry.ViaCurve.ViaLineOverlap",
+                "title": "Via.ViaGeometry.Line.ViaLineOverlap",
                 "color": "#f83a22b8",
                 "textcolor": "white"
             },
@@ -22953,7 +22953,7 @@
                 "textcolor": "white"
             },
             {
-                "title": "Via.ViaGeometry.ViaSurface.ViaHiddenSurface",
+                "title": "Via.ViaGeometry.Contact.ViaHiddenSurface",
                 "color": "#f83a22b8",
                 "textcolor": "white"
             },
@@ -23006,7 +23006,7 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Via.ViaGeometry.ViaCurve.ViaReferenceLine",
+                    "title": "Via.ViaGeometry.Line.ViaReferenceLine",
                     "color": "#f83a22b8",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -23050,7 +23050,7 @@
                 "textcolor": "white"
             },
             {
-                "title": "Via.ViaGeometry.ViaCurve.ViaReferenceLine",
+                "title": "Via.ViaGeometry.Line.ViaReferenceLine",
                 "color": "#f83a22b8",
                 "textcolor": "white"
             },
@@ -23444,13 +23444,13 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Via.ViaGeometry.ViaCurve.Overview",
+                    "title": "Via.ViaGeometry.Line.Overview",
                     "color": "#f83a22b8",
                     "textcolor": "white",
                     "type": "sidecar"
                 },
                 {
-                    "title": "Via.ViaGeometry.ViaSurface.ViaSurfaceLine",
+                    "title": "Via.ViaGeometry.Contact.ContactLine",
                     "color": "#f83a22b8",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -23528,12 +23528,12 @@
                 "textcolor": "white"
             },
             {
-                "title": "Via.ViaGeometry.ViaCurve.Overview",
+                "title": "Via.ViaGeometry.Line.Overview",
                 "color": "#f83a22b8",
                 "textcolor": "white"
             },
             {
-                "title": "Via.ViaGeometry.ViaSurface.ViaSurfaceLine",
+                "title": "Via.ViaGeometry.Contact.ContactLine",
                 "color": "#f83a22b8",
                 "textcolor": "white"
             },
@@ -23970,19 +23970,19 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Via.ViaGeometry.ViaCurve.Overview",
+                    "title": "Via.ViaGeometry.Line.Overview",
                     "color": "#f83a22b8",
                     "textcolor": "white",
                     "type": "sidecar"
                 },
                 {
-                    "title": "Via.ViaGeometry.ViaCurve.ViaReferenceLine",
+                    "title": "Via.ViaGeometry.Line.ViaReferenceLine",
                     "color": "#f83a22b8",
                     "textcolor": "white",
                     "type": "sidecar"
                 },
                 {
-                    "title": "Via.ViaGeometry.ViaSurface.ViaSurfaceLine",
+                    "title": "Via.ViaGeometry.Contact.ContactLine",
                     "color": "#f83a22b8",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -24045,17 +24045,17 @@
                 "textcolor": "white"
             },
             {
-                "title": "Via.ViaGeometry.ViaCurve.Overview",
+                "title": "Via.ViaGeometry.Line.Overview",
                 "color": "#f83a22b8",
                 "textcolor": "white"
             },
             {
-                "title": "Via.ViaGeometry.ViaCurve.ViaReferenceLine",
+                "title": "Via.ViaGeometry.Line.ViaReferenceLine",
                 "color": "#f83a22b8",
                 "textcolor": "white"
             },
             {
-                "title": "Via.ViaGeometry.ViaSurface.ViaSurfaceLine",
+                "title": "Via.ViaGeometry.Contact.ContactLine",
                 "color": "#f83a22b8",
                 "textcolor": "white"
             },
@@ -24284,13 +24284,13 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Via.ViaGeometry.ViaCurve.ViaReferenceLine",
+                    "title": "Via.ViaGeometry.Line.ViaReferenceLine",
                     "color": "#f83a22b8",
                     "textcolor": "white",
                     "type": "sidecar"
                 },
                 {
-                    "title": "Via.ViaGeometry.ViaSurface.ViaSurfaceLine",
+                    "title": "Via.ViaGeometry.Contact.ContactLine",
                     "color": "#f83a22b8",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -24398,12 +24398,12 @@
                 "textcolor": "white"
             },
             {
-                "title": "Via.ViaGeometry.ViaCurve.ViaReferenceLine",
+                "title": "Via.ViaGeometry.Line.ViaReferenceLine",
                 "color": "#f83a22b8",
                 "textcolor": "white"
             },
             {
-                "title": "Via.ViaGeometry.ViaSurface.ViaSurfaceLine",
+                "title": "Via.ViaGeometry.Contact.ContactLine",
                 "color": "#f83a22b8",
                 "textcolor": "white"
             },
@@ -24505,13 +24505,13 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Via.ViaGeometry.ViaCurve.Overview",
+                    "title": "Via.ViaGeometry.Line.Overview",
                     "color": "#f83a22b8",
                     "textcolor": "white",
                     "type": "sidecar"
                 },
                 {
-                    "title": "Via.ViaGeometry.ViaSurface.ViaSurfaceDensity",
+                    "title": "Via.ViaGeometry.Contact.ContactDensity",
                     "color": "#f83a22b8",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -24594,12 +24594,12 @@
                 "textcolor": "white"
             },
             {
-                "title": "Via.ViaGeometry.ViaCurve.Overview",
+                "title": "Via.ViaGeometry.Line.Overview",
                 "color": "#f83a22b8",
                 "textcolor": "white"
             },
             {
-                "title": "Via.ViaGeometry.ViaSurface.ViaSurfaceDensity",
+                "title": "Via.ViaGeometry.Contact.ContactDensity",
                 "color": "#f83a22b8",
                 "textcolor": "white"
             },
@@ -24683,13 +24683,13 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Via.ViaGeometry.ViaCurve.Overview",
+                    "title": "Via.ViaGeometry.Line.Overview",
                     "color": "#f83a22b8",
                     "textcolor": "white",
                     "type": "sidecar"
                 },
                 {
-                    "title": "Via.ViaGeometry.ViaCurve.ViaReferenceLine",
+                    "title": "Via.ViaGeometry.Line.ViaReferenceLine",
                     "color": "#f83a22b8",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -24701,7 +24701,7 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Via.ViaGeometry.ViaSurface.Overview",
+                    "title": "Via.ViaGeometry.Contact.Overview",
                     "color": "#f83a22b8",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -24769,12 +24769,12 @@
                 "textcolor": "white"
             },
             {
-                "title": "Via.ViaGeometry.ViaCurve.Overview",
+                "title": "Via.ViaGeometry.Line.Overview",
                 "color": "#f83a22b8",
                 "textcolor": "white"
             },
             {
-                "title": "Via.ViaGeometry.ViaCurve.ViaReferenceLine",
+                "title": "Via.ViaGeometry.Line.ViaReferenceLine",
                 "color": "#f83a22b8",
                 "textcolor": "white"
             },
@@ -24784,7 +24784,7 @@
                 "textcolor": "white"
             },
             {
-                "title": "Via.ViaGeometry.ViaSurface.Overview",
+                "title": "Via.ViaGeometry.Contact.Overview",
                 "color": "#f83a22b8",
                 "textcolor": "white"
             },
@@ -25054,19 +25054,19 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Via.ViaGeometry.ViaCurve.BoundaryLine.ArtificialBoundaryLine",
+                    "title": "Via.ViaGeometry.Line.BoundaryLine.ArtificialBoundaryLine",
                     "color": "#f83a22b8",
                     "textcolor": "white",
                     "type": "sidecar"
                 },
                 {
-                    "title": "Via.ViaGeometry.ViaCurve.BoundaryLine.NaturalBoundaryLine",
+                    "title": "Via.ViaGeometry.Line.BoundaryLine.NaturalBoundaryLine",
                     "color": "#f83a22b8",
                     "textcolor": "white",
                     "type": "sidecar"
                 },
                 {
-                    "title": "Via.ViaGeometry.ViaCurve.ViaReferenceLine",
+                    "title": "Via.ViaGeometry.Line.ViaReferenceLine",
                     "color": "#f83a22b8",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -25078,7 +25078,7 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Via.ViaGeometry.ViaSurface.ViaSurfaceDensity",
+                    "title": "Via.ViaGeometry.Contact.ContactDensity",
                     "color": "#f83a22b8",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -25156,17 +25156,17 @@
                 "textcolor": "white"
             },
             {
-                "title": "Via.ViaGeometry.ViaCurve.BoundaryLine.ArtificialBoundaryLine",
+                "title": "Via.ViaGeometry.Line.BoundaryLine.ArtificialBoundaryLine",
                 "color": "#f83a22b8",
                 "textcolor": "white"
             },
             {
-                "title": "Via.ViaGeometry.ViaCurve.BoundaryLine.NaturalBoundaryLine",
+                "title": "Via.ViaGeometry.Line.BoundaryLine.NaturalBoundaryLine",
                 "color": "#f83a22b8",
                 "textcolor": "white"
             },
             {
-                "title": "Via.ViaGeometry.ViaCurve.ViaReferenceLine",
+                "title": "Via.ViaGeometry.Line.ViaReferenceLine",
                 "color": "#f83a22b8",
                 "textcolor": "white"
             },
@@ -25176,7 +25176,7 @@
                 "textcolor": "white"
             },
             {
-                "title": "Via.ViaGeometry.ViaSurface.ViaSurfaceDensity",
+                "title": "Via.ViaGeometry.Contact.ContactDensity",
                 "color": "#f83a22b8",
                 "textcolor": "white"
             },
@@ -25278,19 +25278,19 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Via.ViaGeometry.ViaCurve.CircumventLine",
+                    "title": "Via.ViaGeometry.Line.CircumventLine",
                     "color": "#f83a22b8",
                     "textcolor": "white",
                     "type": "sidecar"
                 },
                 {
-                    "title": "Via.ViaGeometry.ViaCurve.Overview",
+                    "title": "Via.ViaGeometry.Line.Overview",
                     "color": "#f83a22b8",
                     "textcolor": "white",
                     "type": "sidecar"
                 },
                 {
-                    "title": "Via.ViaGeometry.ViaCurve.ViaMirrorLine",
+                    "title": "Via.ViaGeometry.Line.ViaMirrorLine",
                     "color": "#f83a22b8",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -25391,17 +25391,17 @@
                 "textcolor": "white"
             },
             {
-                "title": "Via.ViaGeometry.ViaCurve.CircumventLine",
+                "title": "Via.ViaGeometry.Line.CircumventLine",
                 "color": "#f83a22b8",
                 "textcolor": "white"
             },
             {
-                "title": "Via.ViaGeometry.ViaCurve.Overview",
+                "title": "Via.ViaGeometry.Line.Overview",
                 "color": "#f83a22b8",
                 "textcolor": "white"
             },
             {
-                "title": "Via.ViaGeometry.ViaCurve.ViaMirrorLine",
+                "title": "Via.ViaGeometry.Line.ViaMirrorLine",
                 "color": "#f83a22b8",
                 "textcolor": "white"
             },
@@ -25684,7 +25684,7 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Via.ViaGeometry.ViaSurface.ViaSurfaceLine",
+                    "title": "Via.ViaGeometry.Contact.ContactLine",
                     "color": "#f83a22b8",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -25797,7 +25797,7 @@
                 "textcolor": "white"
             },
             {
-                "title": "Via.ViaGeometry.ViaSurface.ViaSurfaceLine",
+                "title": "Via.ViaGeometry.Contact.ContactLine",
                 "color": "#f83a22b8",
                 "textcolor": "white"
             },
@@ -25887,19 +25887,19 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Via.ViaDiagram.ViaSurface.ViaSurfaceHighlight",
+                    "title": "Via.ViaDiagram.Contact.ContactHighlight",
                     "color": "#f83a22b8",
                     "textcolor": "white",
                     "type": "sidecar"
                 },
                 {
-                    "title": "Via.ViaGeometry.ViaCurve.Overview",
+                    "title": "Via.ViaGeometry.Line.Overview",
                     "color": "#f83a22b8",
                     "textcolor": "white",
                     "type": "sidecar"
                 },
                 {
-                    "title": "Via.ViaGeometry.ViaCurve.ParallelLine",
+                    "title": "Via.ViaGeometry.Line.ParallelLine",
                     "color": "#f83a22b8",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -25972,17 +25972,17 @@
                 "textcolor": "white"
             },
             {
-                "title": "Via.ViaDiagram.ViaSurface.ViaSurfaceHighlight",
+                "title": "Via.ViaDiagram.Contact.ContactHighlight",
                 "color": "#f83a22b8",
                 "textcolor": "white"
             },
             {
-                "title": "Via.ViaGeometry.ViaCurve.Overview",
+                "title": "Via.ViaGeometry.Line.Overview",
                 "color": "#f83a22b8",
                 "textcolor": "white"
             },
             {
-                "title": "Via.ViaGeometry.ViaCurve.ParallelLine",
+                "title": "Via.ViaGeometry.Line.ParallelLine",
                 "color": "#f83a22b8",
                 "textcolor": "white"
             },
@@ -26333,7 +26333,7 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Via.ViaGeometry.ViaCurve.Overview",
+                    "title": "Via.ViaGeometry.Line.Overview",
                     "color": "#f83a22b8",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -26408,7 +26408,7 @@
                 "textcolor": "white"
             },
             {
-                "title": "Via.ViaGeometry.ViaCurve.Overview",
+                "title": "Via.ViaGeometry.Line.Overview",
                 "color": "#f83a22b8",
                 "textcolor": "white"
             },
@@ -26821,19 +26821,19 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Via.ViaGeometry.ViaCurve.Overview",
+                    "title": "Via.ViaGeometry.Line.Overview",
                     "color": "#f83a22b8",
                     "textcolor": "white",
                     "type": "sidecar"
                 },
                 {
-                    "title": "Via.ViaGeometry.ViaCurve.ViaDisplacementLine",
+                    "title": "Via.ViaGeometry.Line.ViaDisplacementLine",
                     "color": "#f83a22b8",
                     "textcolor": "white",
                     "type": "sidecar"
                 },
                 {
-                    "title": "Via.ViaGeometry.ViaCurve.ViaDistanceLine.ViaCircuitLine",
+                    "title": "Via.ViaGeometry.Line.ViaDistanceLine.ViaCircuitLine",
                     "color": "#f83a22b8",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -26904,17 +26904,17 @@
                 "textcolor": "white"
             },
             {
-                "title": "Via.ViaGeometry.ViaCurve.Overview",
+                "title": "Via.ViaGeometry.Line.Overview",
                 "color": "#f83a22b8",
                 "textcolor": "white"
             },
             {
-                "title": "Via.ViaGeometry.ViaCurve.ViaDisplacementLine",
+                "title": "Via.ViaGeometry.Line.ViaDisplacementLine",
                 "color": "#f83a22b8",
                 "textcolor": "white"
             },
             {
-                "title": "Via.ViaGeometry.ViaCurve.ViaDistanceLine.ViaCircuitLine",
+                "title": "Via.ViaGeometry.Line.ViaDistanceLine.ViaCircuitLine",
                 "color": "#f83a22b8",
                 "textcolor": "white"
             },
@@ -27025,7 +27025,7 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Via.ViaGeometry.ViaCurve.Overview",
+                    "title": "Via.ViaGeometry.Line.Overview",
                     "color": "#f83a22b8",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -27103,7 +27103,7 @@
                 "textcolor": "white"
             },
             {
-                "title": "Via.ViaGeometry.ViaCurve.Overview",
+                "title": "Via.ViaGeometry.Line.Overview",
                 "color": "#f83a22b8",
                 "textcolor": "white"
             },
@@ -28166,7 +28166,7 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Via.ViaGeometry.ViaCurve.Overview",
+                    "title": "Via.ViaGeometry.Line.Overview",
                     "color": "#f83a22b8",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -28270,7 +28270,7 @@
                 "textcolor": "white"
             },
             {
-                "title": "Via.ViaGeometry.ViaCurve.Overview",
+                "title": "Via.ViaGeometry.Line.Overview",
                 "color": "#f83a22b8",
                 "textcolor": "white"
             },
@@ -28897,7 +28897,7 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Via.ViaGeometry.ViaCurve.Overview",
+                    "title": "Via.ViaGeometry.Line.Overview",
                     "color": "#f83a22b8",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -28992,7 +28992,7 @@
                 "textcolor": "white"
             },
             {
-                "title": "Via.ViaGeometry.ViaCurve.Overview",
+                "title": "Via.ViaGeometry.Line.Overview",
                 "color": "#f83a22b8",
                 "textcolor": "white"
             },
@@ -29221,7 +29221,7 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Via.ViaGeometry.ViaCurve.Overview",
+                    "title": "Via.ViaGeometry.Line.Overview",
                     "color": "#f83a22b8",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -29296,7 +29296,7 @@
                 "textcolor": "white"
             },
             {
-                "title": "Via.ViaGeometry.ViaCurve.Overview",
+                "title": "Via.ViaGeometry.Line.Overview",
                 "color": "#f83a22b8",
                 "textcolor": "white"
             },
@@ -29402,7 +29402,7 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Via.ViaGeometry.ViaCurve.Overview",
+                    "title": "Via.ViaGeometry.Line.Overview",
                     "color": "#f83a22b8",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -29486,7 +29486,7 @@
                 "textcolor": "white"
             },
             {
-                "title": "Via.ViaGeometry.ViaCurve.Overview",
+                "title": "Via.ViaGeometry.Line.Overview",
                 "color": "#f83a22b8",
                 "textcolor": "white"
             },
@@ -29557,13 +29557,13 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Via.ViaGeometry.ViaCurve.Overview",
+                    "title": "Via.ViaGeometry.Line.Overview",
                     "color": "#f83a22b8",
                     "textcolor": "white",
                     "type": "sidecar"
                 },
                 {
-                    "title": "Via.ViaGeometry.ViaCurve.ViaLineOverlap",
+                    "title": "Via.ViaGeometry.Line.ViaLineOverlap",
                     "color": "#f83a22b8",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -29616,12 +29616,12 @@
                 "textcolor": "white"
             },
             {
-                "title": "Via.ViaGeometry.ViaCurve.Overview",
+                "title": "Via.ViaGeometry.Line.Overview",
                 "color": "#f83a22b8",
                 "textcolor": "white"
             },
             {
-                "title": "Via.ViaGeometry.ViaCurve.ViaLineOverlap",
+                "title": "Via.ViaGeometry.Line.ViaLineOverlap",
                 "color": "#f83a22b8",
                 "textcolor": "white"
             },
@@ -31234,7 +31234,7 @@
                 {
                     "color": "#f83a22b8",
                     "textcolor": "white",
-                    "title": "Via.ViaGeometry.ViaCurve.ViaLineOverlap",
+                    "title": "Via.ViaGeometry.Line.ViaLineOverlap",
                     "type": "sidecar"
                 },
                 {
@@ -31337,7 +31337,7 @@
                 "textcolor": "white"
             },
             {
-                "title": "Via.ViaGeometry.ViaCurve.ViaLineOverlap",
+                "title": "Via.ViaGeometry.Line.ViaLineOverlap",
                 "color": "#f83a22b8",
                 "textcolor": "white"
             },
@@ -32209,7 +32209,7 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Via.ViaGeometry.ViaCurve.ViaLineOverlap",
+                    "title": "Via.ViaGeometry.Line.ViaLineOverlap",
                     "color": "#f83a22b8",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -32268,7 +32268,7 @@
                 "textcolor": "white"
             },
             {
-                "title": "Via.ViaGeometry.ViaCurve.ViaLineOverlap",
+                "title": "Via.ViaGeometry.Line.ViaLineOverlap",
                 "color": "#f83a22b8",
                 "textcolor": "white"
             },
@@ -32303,7 +32303,7 @@
             "lastUpdated": 1692978839593,
             "tags": [
                 {
-                    "title": "Move.ArmMove.ArmSwing",
+                    "title": "Move.ArmMove.ArmKurve",
                     "color": "#ff7537ff",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -32350,7 +32350,7 @@
         "extension": "jpg",
         "tags": [
             {
-                "title": "Move.ArmMove.ArmSwing",
+                "title": "Move.ArmMove.ArmKurve",
                 "color": "#ff7537ff",
                 "textcolor": "white"
             },
@@ -34254,7 +34254,7 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Via.ViaGeometry.ViaCurve.ViaDisplacementLine",
+                    "title": "Via.ViaGeometry.Line.ViaDisplacementLine",
                     "color": "#f83a22b8",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -34322,7 +34322,7 @@
                 "textcolor": "white"
             },
             {
-                "title": "Via.ViaGeometry.ViaCurve.ViaDisplacementLine",
+                "title": "Via.ViaGeometry.Line.ViaDisplacementLine",
                 "color": "#f83a22b8",
                 "textcolor": "white"
             },
@@ -35205,13 +35205,13 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Via.ViaGeometry.ViaCurve.ViaDisplacementLine",
+                    "title": "Via.ViaGeometry.Line.ViaDisplacementLine",
                     "color": "#f83a22b8",
                     "textcolor": "white",
                     "type": "sidecar"
                 },
                 {
-                    "title": "Via.ViaGeometry.ViaCurve.ViaDistanceLine",
+                    "title": "Via.ViaGeometry.Line.ViaDistanceLine",
                     "color": "#f83a22b8",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -35400,12 +35400,12 @@
                 "textcolor": "white"
             },
             {
-                "title": "Via.ViaGeometry.ViaCurve.ViaDisplacementLine",
+                "title": "Via.ViaGeometry.Line.ViaDisplacementLine",
                 "color": "#f83a22b8",
                 "textcolor": "white"
             },
             {
-                "title": "Via.ViaGeometry.ViaCurve.ViaDistanceLine",
+                "title": "Via.ViaGeometry.Line.ViaDistanceLine",
                 "color": "#f83a22b8",
                 "textcolor": "white"
             },
@@ -38449,7 +38449,7 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Move.ArmMove.ArmSwing",
+                    "title": "Move.ArmMove.ArmKurve",
                     "color": "#ff7537ff",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -38515,7 +38515,7 @@
                 "textcolor": "#000000ff"
             },
             {
-                "title": "Move.ArmMove.ArmSwing",
+                "title": "Move.ArmMove.ArmKurve",
                 "color": "#ff7537ff",
                 "textcolor": "white"
             },
@@ -39716,13 +39716,13 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Via.ViaGeometry.ViaCurve.ViaDisplacementLine",
+                    "title": "Via.ViaGeometry.Line.ViaDisplacementLine",
                     "color": "#f83a22b8",
                     "textcolor": "white",
                     "type": "sidecar"
                 },
                 {
-                    "title": "Via.ViaGeometry.ViaCurve.ViaDistanceLine",
+                    "title": "Via.ViaGeometry.Line.ViaDistanceLine",
                     "color": "#f83a22b8",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -39770,12 +39770,12 @@
                 "textcolor": "white"
             },
             {
-                "title": "Via.ViaGeometry.ViaCurve.ViaDisplacementLine",
+                "title": "Via.ViaGeometry.Line.ViaDisplacementLine",
                 "color": "#f83a22b8",
                 "textcolor": "white"
             },
             {
-                "title": "Via.ViaGeometry.ViaCurve.ViaDistanceLine",
+                "title": "Via.ViaGeometry.Line.ViaDistanceLine",
                 "color": "#f83a22b8",
                 "textcolor": "white"
             },
@@ -40775,7 +40775,7 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Move.LegMove.LegSwing",
+                    "title": "Move.LegMove.LegKurve",
                     "color": "#ff7537ff",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -40843,7 +40843,7 @@
                 "textcolor": "#ffffffff"
             },
             {
-                "title": "Move.LegMove.LegSwing",
+                "title": "Move.LegMove.LegKurve",
                 "color": "#ff7537ff",
                 "textcolor": "white"
             },
@@ -41054,13 +41054,13 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Via.ViaGeometry.ViaCurve.ViaDisplacementLine",
+                    "title": "Via.ViaGeometry.Line.ViaDisplacementLine",
                     "color": "#f83a22b8",
                     "textcolor": "white",
                     "type": "sidecar"
                 },
                 {
-                    "title": "Via.ViaGeometry.ViaCurve.ViaDistanceLine",
+                    "title": "Via.ViaGeometry.Line.ViaDistanceLine",
                     "color": "#f83a22b8",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -41123,12 +41123,12 @@
                 "textcolor": "white"
             },
             {
-                "title": "Via.ViaGeometry.ViaCurve.ViaDisplacementLine",
+                "title": "Via.ViaGeometry.Line.ViaDisplacementLine",
                 "color": "#f83a22b8",
                 "textcolor": "white"
             },
             {
-                "title": "Via.ViaGeometry.ViaCurve.ViaDistanceLine",
+                "title": "Via.ViaGeometry.Line.ViaDistanceLine",
                 "color": "#f83a22b8",
                 "textcolor": "white"
             },
@@ -41641,7 +41641,7 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Via.ViaGeometry.ViaCurve.ViaDisplacementLine",
+                    "title": "Via.ViaGeometry.Line.ViaDisplacementLine",
                     "color": "#f83a22b8",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -41685,7 +41685,7 @@
                 "textcolor": "white"
             },
             {
-                "title": "Via.ViaGeometry.ViaCurve.ViaDisplacementLine",
+                "title": "Via.ViaGeometry.Line.ViaDisplacementLine",
                 "color": "#f83a22b8",
                 "textcolor": "white"
             },
@@ -42425,7 +42425,7 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Via.ViaGeometry.ViaCurve.ParallelLine",
+                    "title": "Via.ViaGeometry.Line.ParallelLine",
                     "color": "#f83a22b8",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -42468,7 +42468,7 @@
                 "textcolor": "white"
             },
             {
-                "title": "Via.ViaGeometry.ViaCurve.ParallelLine",
+                "title": "Via.ViaGeometry.Line.ParallelLine",
                 "color": "#f83a22b8",
                 "textcolor": "white"
             },
@@ -42762,7 +42762,7 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Via.ViaGeometry.ViaCurve.Overview",
+                    "title": "Via.ViaGeometry.Line.Overview",
                     "color": "#f83a22b8",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -42825,7 +42825,7 @@
                 "textcolor": "white"
             },
             {
-                "title": "Via.ViaGeometry.ViaCurve.Overview",
+                "title": "Via.ViaGeometry.Line.Overview",
                 "color": "#f83a22b8",
                 "textcolor": "white"
             },
@@ -44565,13 +44565,13 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Via.ViaGeometry.ViaCurve.CircumventLine",
+                    "title": "Via.ViaGeometry.Line.CircumventLine",
                     "color": "#f83a22b8",
                     "textcolor": "white",
                     "type": "sidecar"
                 },
                 {
-                    "title": "Via.ViaGeometry.ViaCurve.Overview",
+                    "title": "Via.ViaGeometry.Line.Overview",
                     "color": "#f83a22b8",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -44631,12 +44631,12 @@
                 "textcolor": "white"
             },
             {
-                "title": "Via.ViaGeometry.ViaCurve.CircumventLine",
+                "title": "Via.ViaGeometry.Line.CircumventLine",
                 "color": "#f83a22b8",
                 "textcolor": "white"
             },
             {
-                "title": "Via.ViaGeometry.ViaCurve.Overview",
+                "title": "Via.ViaGeometry.Line.Overview",
                 "color": "#f83a22b8",
                 "textcolor": "white"
             },
@@ -45146,13 +45146,13 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Via.ViaGeometry.ViaCurve.ViaDisplacementLine",
+                    "title": "Via.ViaGeometry.Line.ViaDisplacementLine",
                     "color": "#f83a22b8",
                     "textcolor": "white",
                     "type": "sidecar"
                 },
                 {
-                    "title": "Via.ViaGeometry.ViaCurve.ViaDistanceLine",
+                    "title": "Via.ViaGeometry.Line.ViaDistanceLine",
                     "color": "#f83a22b8",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -45225,12 +45225,12 @@
                 "textcolor": "white"
             },
             {
-                "title": "Via.ViaGeometry.ViaCurve.ViaDisplacementLine",
+                "title": "Via.ViaGeometry.Line.ViaDisplacementLine",
                 "color": "#f83a22b8",
                 "textcolor": "white"
             },
             {
-                "title": "Via.ViaGeometry.ViaCurve.ViaDistanceLine",
+                "title": "Via.ViaGeometry.Line.ViaDistanceLine",
                 "color": "#f83a22b8",
                 "textcolor": "white"
             },
@@ -45782,7 +45782,7 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Via.ViaGeometry.ViaCurve.Overview",
+                    "title": "Via.ViaGeometry.Line.Overview",
                     "color": "#f83a22b8",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -45860,7 +45860,7 @@
                 "textcolor": "white"
             },
             {
-                "title": "Via.ViaGeometry.ViaCurve.Overview",
+                "title": "Via.ViaGeometry.Line.Overview",
                 "color": "#f83a22b8",
                 "textcolor": "white"
             },
@@ -47292,7 +47292,7 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Via.ViaGeometry.ViaCurve.Overview",
+                    "title": "Via.ViaGeometry.Line.Overview",
                     "color": "#f83a22b8",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -47380,7 +47380,7 @@
                 "textcolor": "white"
             },
             {
-                "title": "Via.ViaGeometry.ViaCurve.Overview",
+                "title": "Via.ViaGeometry.Line.Overview",
                 "color": "#f83a22b8",
                 "textcolor": "white"
             },
@@ -47954,7 +47954,7 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Via.ViaGeometry.ViaCurve.Overview",
+                    "title": "Via.ViaGeometry.Line.Overview",
                     "color": "#f83a22b8",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -48032,7 +48032,7 @@
                 "textcolor": "white"
             },
             {
-                "title": "Via.ViaGeometry.ViaCurve.Overview",
+                "title": "Via.ViaGeometry.Line.Overview",
                 "color": "#f83a22b8",
                 "textcolor": "white"
             },
@@ -48092,7 +48092,7 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Move.ArmMove.ArmSwing",
+                    "title": "Move.ArmMove.ArmKurve",
                     "color": "#ff7537ff",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -48164,7 +48164,7 @@
                 "textcolor": "#000000ff"
             },
             {
-                "title": "Move.ArmMove.ArmSwing",
+                "title": "Move.ArmMove.ArmKurve",
                 "color": "#ff7537ff",
                 "textcolor": "white"
             },
@@ -48870,13 +48870,13 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Via.ViaGeometry.ViaCurve.ViaDisplacementLine",
+                    "title": "Via.ViaGeometry.Line.ViaDisplacementLine",
                     "color": "#f83a22b8",
                     "textcolor": "white",
                     "type": "sidecar"
                 },
                 {
-                    "title": "Via.ViaGeometry.ViaCurve.ViaDistanceLine",
+                    "title": "Via.ViaGeometry.Line.ViaDistanceLine",
                     "color": "#f83a22b8",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -48971,12 +48971,12 @@
                 "textcolor": "white"
             },
             {
-                "title": "Via.ViaGeometry.ViaCurve.ViaDisplacementLine",
+                "title": "Via.ViaGeometry.Line.ViaDisplacementLine",
                 "color": "#f83a22b8",
                 "textcolor": "white"
             },
             {
-                "title": "Via.ViaGeometry.ViaCurve.ViaDistanceLine",
+                "title": "Via.ViaGeometry.Line.ViaDistanceLine",
                 "color": "#f83a22b8",
                 "textcolor": "white"
             },
@@ -49920,13 +49920,13 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Via.ViaGeometry.ViaCurve.CircumventLine",
+                    "title": "Via.ViaGeometry.Line.CircumventLine",
                     "color": "#f83a22b8",
                     "textcolor": "white",
                     "type": "sidecar"
                 },
                 {
-                    "title": "Via.ViaGeometry.ViaCurve.Overview",
+                    "title": "Via.ViaGeometry.Line.Overview",
                     "color": "#f83a22b8",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -49990,12 +49990,12 @@
                 "textcolor": "white"
             },
             {
-                "title": "Via.ViaGeometry.ViaCurve.CircumventLine",
+                "title": "Via.ViaGeometry.Line.CircumventLine",
                 "color": "#f83a22b8",
                 "textcolor": "white"
             },
             {
-                "title": "Via.ViaGeometry.ViaCurve.Overview",
+                "title": "Via.ViaGeometry.Line.Overview",
                 "color": "#f83a22b8",
                 "textcolor": "white"
             },
@@ -51839,7 +51839,7 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Move.ArmMove.ArmSwing",
+                    "title": "Move.ArmMove.ArmKurve",
                     "color": "#ff7537ff",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -51910,7 +51910,7 @@
                 "textcolor": "#000000ff"
             },
             {
-                "title": "Move.ArmMove.ArmSwing",
+                "title": "Move.ArmMove.ArmKurve",
                 "color": "#ff7537ff",
                 "textcolor": "white"
             },
@@ -54607,7 +54607,7 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Via.ViaGeometry.ViaCurve.Overview",
+                    "title": "Via.ViaGeometry.Line.Overview",
                     "color": "#f83a22b8",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -54661,7 +54661,7 @@
                 "textcolor": "white"
             },
             {
-                "title": "Via.ViaGeometry.ViaCurve.Overview",
+                "title": "Via.ViaGeometry.Line.Overview",
                 "color": "#f83a22b8",
                 "textcolor": "white"
             },
@@ -54750,7 +54750,7 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Via.ViaGeometry.ViaCurve.Overview",
+                    "title": "Via.ViaGeometry.Line.Overview",
                     "color": "#f83a22b8",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -54818,7 +54818,7 @@
                 "textcolor": "white"
             },
             {
-                "title": "Via.ViaGeometry.ViaCurve.Overview",
+                "title": "Via.ViaGeometry.Line.Overview",
                 "color": "#f83a22b8",
                 "textcolor": "white"
             },
@@ -55635,7 +55635,7 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Via.ViaGeometry.ViaCurve.BagUpLine",
+                    "title": "Via.ViaGeometry.Line.BagUpLine",
                     "color": "#ffffffff",
                     "textcolor": "#000000ff",
                     "type": "sidecar"
@@ -55673,7 +55673,7 @@
                 "textcolor": "white"
             },
             {
-                "title": "Via.ViaGeometry.ViaCurve.BagUpLine",
+                "title": "Via.ViaGeometry.Line.BagUpLine",
                 "color": "#ffffffff",
                 "textcolor": "#000000ff"
             },
@@ -55721,7 +55721,7 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Via.ViaGeometry.ViaCurve.CircumventLine",
+                    "title": "Via.ViaGeometry.Line.CircumventLine",
                     "color": "#f83a22b8",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -55777,7 +55777,7 @@
                 "textcolor": "white"
             },
             {
-                "title": "Via.ViaGeometry.ViaCurve.CircumventLine",
+                "title": "Via.ViaGeometry.Line.CircumventLine",
                 "color": "#f83a22b8",
                 "textcolor": "white"
             },
@@ -56040,7 +56040,7 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Via.ViaGeometry.ViaCurve.BagUpLine",
+                    "title": "Via.ViaGeometry.Line.BagUpLine",
                     "color": "#ffffffff",
                     "textcolor": "#000000ff",
                     "type": "sidecar"
@@ -56089,7 +56089,7 @@
                 "textcolor": "white"
             },
             {
-                "title": "Via.ViaGeometry.ViaCurve.BagUpLine",
+                "title": "Via.ViaGeometry.Line.BagUpLine",
                 "color": "#ffffffff",
                 "textcolor": "#000000ff"
             },
@@ -57992,7 +57992,7 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Via.ViaGeometry.ViaCurve.CircumventLine",
+                    "title": "Via.ViaGeometry.Line.CircumventLine",
                     "color": "#f83a22b8",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -58052,7 +58052,7 @@
                 "textcolor": "white"
             },
             {
-                "title": "Via.ViaGeometry.ViaCurve.CircumventLine",
+                "title": "Via.ViaGeometry.Line.CircumventLine",
                 "color": "#f83a22b8",
                 "textcolor": "white"
             },
@@ -58499,7 +58499,7 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Via.ViaGeometry.ViaCurve.BeeLine",
+                    "title": "Via.ViaGeometry.Line.BeeLine",
                     "color": "#f83a22b8",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -58547,7 +58547,7 @@
                 "textcolor": "white"
             },
             {
-                "title": "Via.ViaGeometry.ViaCurve.BeeLine",
+                "title": "Via.ViaGeometry.Line.BeeLine",
                 "color": "#f83a22b8",
                 "textcolor": "white"
             },
@@ -59050,7 +59050,7 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Via.ViaGeometry.ViaCurve.ParallelLine",
+                    "title": "Via.ViaGeometry.Line.ParallelLine",
                     "color": "#f83a22b8",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -59098,7 +59098,7 @@
                 "textcolor": "white"
             },
             {
-                "title": "Via.ViaGeometry.ViaCurve.ParallelLine",
+                "title": "Via.ViaGeometry.Line.ParallelLine",
                 "color": "#f83a22b8",
                 "textcolor": "white"
             },
@@ -59134,7 +59134,7 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Via.ViaGeometry.ViaCurve.ViaDisplacementLine",
+                    "title": "Via.ViaGeometry.Line.ViaDisplacementLine",
                     "color": "#f83a22b8",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -59168,7 +59168,7 @@
                 "textcolor": "#000000ff"
             },
             {
-                "title": "Via.ViaGeometry.ViaCurve.ViaDisplacementLine",
+                "title": "Via.ViaGeometry.Line.ViaDisplacementLine",
                 "color": "#f83a22b8",
                 "textcolor": "white"
             },
@@ -59227,7 +59227,7 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Via.ViaGeometry.ViaCurve.Overview",
+                    "title": "Via.ViaGeometry.Line.Overview",
                     "color": "#f83a22b8",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -59270,7 +59270,7 @@
                 "textcolor": "white"
             },
             {
-                "title": "Via.ViaGeometry.ViaCurve.Overview",
+                "title": "Via.ViaGeometry.Line.Overview",
                 "color": "#f83a22b8",
                 "textcolor": "white"
             },
@@ -59637,7 +59637,7 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Via.ViaGeometry.ViaCurve.ParallelLine",
+                    "title": "Via.ViaGeometry.Line.ParallelLine",
                     "color": "#f83a22b8",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -59692,7 +59692,7 @@
                 "textcolor": "white"
             },
             {
-                "title": "Via.ViaGeometry.ViaCurve.ParallelLine",
+                "title": "Via.ViaGeometry.Line.ParallelLine",
                 "color": "#f83a22b8",
                 "textcolor": "white"
             },
@@ -62779,25 +62779,25 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Via.ViaGeometry.ViaCurve.Overview",
+                    "title": "Via.ViaGeometry.Line.Overview",
                     "color": "#f83a22b8",
                     "textcolor": "white",
                     "type": "sidecar"
                 },
                 {
-                    "title": "Via.ViaGeometry.ViaCurve.ParallelLine",
+                    "title": "Via.ViaGeometry.Line.ParallelLine",
                     "color": "#f83a22b8",
                     "textcolor": "white",
                     "type": "sidecar"
                 },
                 {
-                    "title": "Via.ViaGeometry.ViaCurve.ViaDisplacementLine",
+                    "title": "Via.ViaGeometry.Line.ViaDisplacementLine",
                     "color": "#ffffffff",
                     "textcolor": "#000000ff",
                     "type": "sidecar"
                 },
                 {
-                    "title": "Via.ViaGeometry.ViaCurve.ViaDistanceLine",
+                    "title": "Via.ViaGeometry.Line.ViaDistanceLine",
                     "color": "#ffffffff",
                     "textcolor": "#000000ff",
                     "type": "sidecar"
@@ -62886,22 +62886,22 @@
                 "textcolor": "white"
             },
             {
-                "title": "Via.ViaGeometry.ViaCurve.Overview",
+                "title": "Via.ViaGeometry.Line.Overview",
                 "color": "#f83a22b8",
                 "textcolor": "white"
             },
             {
-                "title": "Via.ViaGeometry.ViaCurve.ParallelLine",
+                "title": "Via.ViaGeometry.Line.ParallelLine",
                 "color": "#f83a22b8",
                 "textcolor": "white"
             },
             {
-                "title": "Via.ViaGeometry.ViaCurve.ViaDisplacementLine",
+                "title": "Via.ViaGeometry.Line.ViaDisplacementLine",
                 "color": "#ffffffff",
                 "textcolor": "#000000ff"
             },
             {
-                "title": "Via.ViaGeometry.ViaCurve.ViaDistanceLine",
+                "title": "Via.ViaGeometry.Line.ViaDistanceLine",
                 "color": "#ffffffff",
                 "textcolor": "#000000ff"
             },
@@ -63600,7 +63600,7 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Via.ViaGeometry.ViaCurve.Overview",
+                    "title": "Via.ViaGeometry.Line.Overview",
                     "color": "#f83a22b8",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -63673,7 +63673,7 @@
                 "textcolor": "white"
             },
             {
-                "title": "Via.ViaGeometry.ViaCurve.Overview",
+                "title": "Via.ViaGeometry.Line.Overview",
                 "color": "#f83a22b8",
                 "textcolor": "white"
             },
@@ -64932,7 +64932,7 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Via.ViaGeometry.ViaCurve.PerimeterLine",
+                    "title": "Via.ViaGeometry.Line.PerimeterLine",
                     "color": "#f83a22b8",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -64980,7 +64980,7 @@
                 "textcolor": "#000000ff"
             },
             {
-                "title": "Via.ViaGeometry.ViaCurve.PerimeterLine",
+                "title": "Via.ViaGeometry.Line.PerimeterLine",
                 "color": "#f83a22b8",
                 "textcolor": "white"
             },
@@ -65305,7 +65305,7 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Via.ViaGeometry.ViaCurve.CircumventLine",
+                    "title": "Via.ViaGeometry.Line.CircumventLine",
                     "color": "#f83a22b8",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -65403,7 +65403,7 @@
                 "textcolor": "white"
             },
             {
-                "title": "Via.ViaGeometry.ViaCurve.CircumventLine",
+                "title": "Via.ViaGeometry.Line.CircumventLine",
                 "color": "#f83a22b8",
                 "textcolor": "white"
             },
@@ -65572,13 +65572,13 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Via.ViaGeometry.ViaCurve.LineIn",
+                    "title": "Via.ViaGeometry.Line.LineIn",
                     "color": "#ffffffff",
                     "textcolor": "#000000ff",
                     "type": "sidecar"
                 },
                 {
-                    "title": "Via.ViaGeometry.ViaCurve.PerimeterLine",
+                    "title": "Via.ViaGeometry.Line.PerimeterLine",
                     "color": "#f83a22b8",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -65636,12 +65636,12 @@
                 "textcolor": "white"
             },
             {
-                "title": "Via.ViaGeometry.ViaCurve.LineIn",
+                "title": "Via.ViaGeometry.Line.LineIn",
                 "color": "#ffffffff",
                 "textcolor": "#000000ff"
             },
             {
-                "title": "Via.ViaGeometry.ViaCurve.PerimeterLine",
+                "title": "Via.ViaGeometry.Line.PerimeterLine",
                 "color": "#f83a22b8",
                 "textcolor": "white"
             },
@@ -65695,7 +65695,7 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Via.ViaGeometry.ViaCurve.Overview",
+                    "title": "Via.ViaGeometry.Line.Overview",
                     "color": "#f83a22b8",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -65738,7 +65738,7 @@
                 "textcolor": "#000000ff"
             },
             {
-                "title": "Via.ViaGeometry.ViaCurve.Overview",
+                "title": "Via.ViaGeometry.Line.Overview",
                 "color": "#f83a22b8",
                 "textcolor": "white"
             },
@@ -65921,13 +65921,13 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Via.ViaGeometry.ViaCurve.CircumventLine",
+                    "title": "Via.ViaGeometry.Line.CircumventLine",
                     "color": "#f83a22b8",
                     "textcolor": "white",
                     "type": "sidecar"
                 },
                 {
-                    "title": "Via.ViaGeometry.ViaCurve.PerimeterLine",
+                    "title": "Via.ViaGeometry.Line.PerimeterLine",
                     "color": "#f83a22b8",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -65960,12 +65960,12 @@
                 "textcolor": "white"
             },
             {
-                "title": "Via.ViaGeometry.ViaCurve.CircumventLine",
+                "title": "Via.ViaGeometry.Line.CircumventLine",
                 "color": "#f83a22b8",
                 "textcolor": "white"
             },
             {
-                "title": "Via.ViaGeometry.ViaCurve.PerimeterLine",
+                "title": "Via.ViaGeometry.Line.PerimeterLine",
                 "color": "#f83a22b8",
                 "textcolor": "white"
             },
@@ -66903,7 +66903,7 @@
             "lastUpdated": 1692978839625,
             "tags": [
                 {
-                    "title": "Move.ArmMove.ArmSwing",
+                    "title": "Move.ArmMove.ArmKurve",
                     "color": "#ff7537ff",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -66915,7 +66915,7 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Move.LegMove.LegSwing",
+                    "title": "Move.LegMove.LegKurve",
                     "color": "#ff7537ff",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -66956,7 +66956,7 @@
         "extension": "jpg",
         "tags": [
             {
-                "title": "Move.ArmMove.ArmSwing",
+                "title": "Move.ArmMove.ArmKurve",
                 "color": "#ff7537ff",
                 "textcolor": "white"
             },
@@ -66966,7 +66966,7 @@
                 "textcolor": "white"
             },
             {
-                "title": "Move.LegMove.LegSwing",
+                "title": "Move.LegMove.LegKurve",
                 "color": "#ff7537ff",
                 "textcolor": "white"
             },
@@ -69590,7 +69590,7 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Via.ViaGeometry.ViaCurve.Overview",
+                    "title": "Via.ViaGeometry.Line.Overview",
                     "color": "#f83a22b8",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -69623,7 +69623,7 @@
                 "textcolor": "#000000ff"
             },
             {
-                "title": "Via.ViaGeometry.ViaCurve.Overview",
+                "title": "Via.ViaGeometry.Line.Overview",
                 "color": "#f83a22b8",
                 "textcolor": "white"
             },
@@ -69902,7 +69902,7 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Via.ViaGeometry.ViaCurve.Overview",
+                    "title": "Via.ViaGeometry.Line.Overview",
                     "color": "#f83a22b8",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -69945,7 +69945,7 @@
                 "textcolor": "white"
             },
             {
-                "title": "Via.ViaGeometry.ViaCurve.Overview",
+                "title": "Via.ViaGeometry.Line.Overview",
                 "color": "#f83a22b8",
                 "textcolor": "white"
             },
@@ -70686,7 +70686,7 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Via.ViaGeometry.ViaCurve.ViaDistanceLine.ViaCircuitLine",
+                    "title": "Via.ViaGeometry.Line.ViaDistanceLine.ViaCircuitLine",
                     "color": "#f83a22b8",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -70713,7 +70713,7 @@
                 "textcolor": "white"
             },
             {
-                "title": "Via.ViaGeometry.ViaCurve.ViaDistanceLine.ViaCircuitLine",
+                "title": "Via.ViaGeometry.Line.ViaDistanceLine.ViaCircuitLine",
                 "color": "#f83a22b8",
                 "textcolor": "white"
             },
@@ -70940,7 +70940,7 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Via.ViaGeometry.ViaCurve.Overview",
+                    "title": "Via.ViaGeometry.Line.Overview",
                     "color": "#f83a22b8",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -70967,7 +70967,7 @@
                 "textcolor": "white"
             },
             {
-                "title": "Via.ViaGeometry.ViaCurve.Overview",
+                "title": "Via.ViaGeometry.Line.Overview",
                 "color": "#f83a22b8",
                 "textcolor": "white"
             },
@@ -71122,7 +71122,7 @@
             "lastUpdated": 1692983159779,
             "tags": [
                 {
-                    "title": "Via.ViaGeometry.ViaCurve.Overview",
+                    "title": "Via.ViaGeometry.Line.Overview",
                     "color": "#f83a22b8",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -71169,7 +71169,7 @@
         "extension": "jpg",
         "tags": [
             {
-                "title": "Via.ViaGeometry.ViaCurve.Overview",
+                "title": "Via.ViaGeometry.Line.Overview",
                 "color": "#f83a22b8",
                 "textcolor": "white"
             },
@@ -72224,7 +72224,7 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Via.ViaGeometry.ViaCurve.ViaDistanceLine",
+                    "title": "Via.ViaGeometry.Line.ViaDistanceLine",
                     "color": "#f83a22b8",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -72236,7 +72236,7 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Via.ViaGeometry.ViaCurve.ViaDisplacementLine",
+                    "title": "Via.ViaGeometry.Line.ViaDisplacementLine",
                     "color": "#f83a22b8",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -72263,7 +72263,7 @@
                 "textcolor": "white"
             },
             {
-                "title": "Via.ViaGeometry.ViaCurve.ViaDistanceLine",
+                "title": "Via.ViaGeometry.Line.ViaDistanceLine",
                 "color": "#f83a22b8",
                 "textcolor": "white"
             },
@@ -72273,7 +72273,7 @@
                 "textcolor": "white"
             },
             {
-                "title": "Via.ViaGeometry.ViaCurve.ViaDisplacementLine",
+                "title": "Via.ViaGeometry.Line.ViaDisplacementLine",
                 "color": "#f83a22b8",
                 "textcolor": "white"
             },
@@ -72327,13 +72327,13 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Via.ViaGeometry.ViaCurve.Overview",
+                    "title": "Via.ViaGeometry.Line.Overview",
                     "color": "#f83a22b8",
                     "textcolor": "white",
                     "type": "sidecar"
                 },
                 {
-                    "title": "Via.ViaGeometry.ViaCurve.ViaLineOverlap",
+                    "title": "Via.ViaGeometry.Line.ViaLineOverlap",
                     "color": "#f83a22b8",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -72365,12 +72365,12 @@
                 "textcolor": "white"
             },
             {
-                "title": "Via.ViaGeometry.ViaCurve.Overview",
+                "title": "Via.ViaGeometry.Line.Overview",
                 "color": "#f83a22b8",
                 "textcolor": "white"
             },
             {
-                "title": "Via.ViaGeometry.ViaCurve.ViaLineOverlap",
+                "title": "Via.ViaGeometry.Line.ViaLineOverlap",
                 "color": "#f83a22b8",
                 "textcolor": "white"
             },
@@ -72413,13 +72413,13 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Via.ViaGeometry.ViaCurve.Overview",
+                    "title": "Via.ViaGeometry.Line.Overview",
                     "color": "#f83a22b8",
                     "textcolor": "white",
                     "type": "sidecar"
                 },
                 {
-                    "title": "Via.ViaGeometry.ViaCurve.ViaLineOverlap",
+                    "title": "Via.ViaGeometry.Line.ViaLineOverlap",
                     "color": "#f83a22b8",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -72451,12 +72451,12 @@
                 "textcolor": "white"
             },
             {
-                "title": "Via.ViaGeometry.ViaCurve.Overview",
+                "title": "Via.ViaGeometry.Line.Overview",
                 "color": "#f83a22b8",
                 "textcolor": "white"
             },
             {
-                "title": "Via.ViaGeometry.ViaCurve.ViaLineOverlap",
+                "title": "Via.ViaGeometry.Line.ViaLineOverlap",
                 "color": "#f83a22b8",
                 "textcolor": "white"
             },
@@ -72499,13 +72499,13 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Via.ViaGeometry.ViaCurve.Overview",
+                    "title": "Via.ViaGeometry.Line.Overview",
                     "color": "#f83a22b8",
                     "textcolor": "white",
                     "type": "sidecar"
                 },
                 {
-                    "title": "Via.ViaGeometry.ViaCurve.ViaLineOverlap",
+                    "title": "Via.ViaGeometry.Line.ViaLineOverlap",
                     "color": "#f83a22b8",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -72537,12 +72537,12 @@
                 "textcolor": "white"
             },
             {
-                "title": "Via.ViaGeometry.ViaCurve.Overview",
+                "title": "Via.ViaGeometry.Line.Overview",
                 "color": "#f83a22b8",
                 "textcolor": "white"
             },
             {
-                "title": "Via.ViaGeometry.ViaCurve.ViaLineOverlap",
+                "title": "Via.ViaGeometry.Line.ViaLineOverlap",
                 "color": "#f83a22b8",
                 "textcolor": "white"
             },
@@ -72585,13 +72585,13 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Via.ViaGeometry.ViaCurve.Overview",
+                    "title": "Via.ViaGeometry.Line.Overview",
                     "color": "#f83a22b8",
                     "textcolor": "white",
                     "type": "sidecar"
                 },
                 {
-                    "title": "Via.ViaGeometry.ViaCurve.ViaLineOverlap",
+                    "title": "Via.ViaGeometry.Line.ViaLineOverlap",
                     "color": "#f83a22b8",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -72623,12 +72623,12 @@
                 "textcolor": "white"
             },
             {
-                "title": "Via.ViaGeometry.ViaCurve.Overview",
+                "title": "Via.ViaGeometry.Line.Overview",
                 "color": "#f83a22b8",
                 "textcolor": "white"
             },
             {
-                "title": "Via.ViaGeometry.ViaCurve.ViaLineOverlap",
+                "title": "Via.ViaGeometry.Line.ViaLineOverlap",
                 "color": "#f83a22b8",
                 "textcolor": "white"
             },
@@ -72671,13 +72671,13 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Via.ViaGeometry.ViaCurve.Overview",
+                    "title": "Via.ViaGeometry.Line.Overview",
                     "color": "#f83a22b8",
                     "textcolor": "white",
                     "type": "sidecar"
                 },
                 {
-                    "title": "Via.ViaGeometry.ViaCurve.ViaLineOverlap",
+                    "title": "Via.ViaGeometry.Line.ViaLineOverlap",
                     "color": "#f83a22b8",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -72709,12 +72709,12 @@
                 "textcolor": "white"
             },
             {
-                "title": "Via.ViaGeometry.ViaCurve.Overview",
+                "title": "Via.ViaGeometry.Line.Overview",
                 "color": "#f83a22b8",
                 "textcolor": "white"
             },
             {
-                "title": "Via.ViaGeometry.ViaCurve.ViaLineOverlap",
+                "title": "Via.ViaGeometry.Line.ViaLineOverlap",
                 "color": "#f83a22b8",
                 "textcolor": "white"
             },
@@ -72757,13 +72757,13 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Via.ViaGeometry.ViaCurve.Overview",
+                    "title": "Via.ViaGeometry.Line.Overview",
                     "color": "#f83a22b8",
                     "textcolor": "white",
                     "type": "sidecar"
                 },
                 {
-                    "title": "Via.ViaGeometry.ViaCurve.ViaLineOverlap",
+                    "title": "Via.ViaGeometry.Line.ViaLineOverlap",
                     "color": "#f83a22b8",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -72795,12 +72795,12 @@
                 "textcolor": "white"
             },
             {
-                "title": "Via.ViaGeometry.ViaCurve.Overview",
+                "title": "Via.ViaGeometry.Line.Overview",
                 "color": "#f83a22b8",
                 "textcolor": "white"
             },
             {
-                "title": "Via.ViaGeometry.ViaCurve.ViaLineOverlap",
+                "title": "Via.ViaGeometry.Line.ViaLineOverlap",
                 "color": "#f83a22b8",
                 "textcolor": "white"
             },
@@ -73128,7 +73128,7 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Via.ViaGeometry.ViaCurve.ViaLinearLine",
+                    "title": "Via.ViaGeometry.Line.ViaLinearLine",
                     "color": "#f83a22b8",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -73146,7 +73146,7 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Via.ViaGeometry.ViaCurve.ParallelLine",
+                    "title": "Via.ViaGeometry.Line.ParallelLine",
                     "color": "#f83a22b8",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -73217,7 +73217,7 @@
                 "textcolor": "white"
             },
             {
-                "title": "Via.ViaGeometry.ViaCurve.ViaLinearLine",
+                "title": "Via.ViaGeometry.Line.ViaLinearLine",
                 "color": "#f83a22b8",
                 "textcolor": "white"
             },
@@ -73232,7 +73232,7 @@
                 "textcolor": "white"
             },
             {
-                "title": "Via.ViaGeometry.ViaCurve.ParallelLine",
+                "title": "Via.ViaGeometry.Line.ParallelLine",
                 "color": "#f83a22b8",
                 "textcolor": "white"
             },
@@ -73307,7 +73307,7 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Via.ViaGeometry.ViaCurve.Overview",
+                    "title": "Via.ViaGeometry.Line.Overview",
                     "color": "#f83a22b8",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -73343,7 +73343,7 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Via.ViaGeometry.ViaCurve.ViaLinearLine",
+                    "title": "Via.ViaGeometry.Line.ViaLinearLine",
                     "color": "#f83a22b8",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -73391,7 +73391,7 @@
                 "textcolor": "white"
             },
             {
-                "title": "Via.ViaGeometry.ViaCurve.Overview",
+                "title": "Via.ViaGeometry.Line.Overview",
                 "color": "#f83a22b8",
                 "textcolor": "white"
             },
@@ -73421,7 +73421,7 @@
                 "textcolor": "white"
             },
             {
-                "title": "Via.ViaGeometry.ViaCurve.ViaLinearLine",
+                "title": "Via.ViaGeometry.Line.ViaLinearLine",
                 "color": "#f83a22b8",
                 "textcolor": "white"
             },
@@ -80010,7 +80010,7 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Move.ToolMove.GaiterMove.Overview",
+                    "title": "Move.ToolMove.TibiorMove.Overview",
                     "color": "#ff7537ff",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -80050,7 +80050,7 @@
                 "textcolor": "#ffffffff"
             },
             {
-                "title": "Move.ToolMove.GaiterMove.Overview",
+                "title": "Move.ToolMove.TibiorMove.Overview",
                 "color": "#ff7537ff",
                 "textcolor": "white"
             },
@@ -80389,7 +80389,7 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Move.ToolMove.GaiterMove.Overview",
+                    "title": "Move.ToolMove.TibiorMove.Overview",
                     "color": "#ff7537ff",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -80443,7 +80443,7 @@
                 "textcolor": "white"
             },
             {
-                "title": "Move.ToolMove.GaiterMove.Overview",
+                "title": "Move.ToolMove.TibiorMove.Overview",
                 "color": "#ff7537ff",
                 "textcolor": "white"
             },
@@ -81653,7 +81653,7 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Move.ToolMove.GaiterMove.Overview",
+                    "title": "Move.ToolMove.TibiorMove.Overview",
                     "color": "#ff7537ff",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -81789,7 +81789,7 @@
                 "textcolor": "white"
             },
             {
-                "title": "Move.ToolMove.GaiterMove.Overview",
+                "title": "Move.ToolMove.TibiorMove.Overview",
                 "color": "#ff7537ff",
                 "textcolor": "white"
             },

@@ -76,7 +76,7 @@ treeList = [
 - "Tests.Overview"
 - "Tests.Recall.Recall.RecallBetaDiagram"
 - "Tests.ViaDecomposition"
-- "Tests.ViaSurfaceHighlight"
+- "Tests.ContactHighlight"
 - "Tests.Senario"
 - "Tests.Sequencing"
 

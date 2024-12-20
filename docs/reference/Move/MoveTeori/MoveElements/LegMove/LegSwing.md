@@ -1,8 +1,8 @@
-# 🟠 <move>LegSwing</move>
+# 🟠 <move>LegKurve</move>
 
 ![MoveIkon](/Move/Move_Ikon.png)
 
-## 🕸 LegSwing.Skema
+## 🕸 LegKurve.Skema
 
 ### Related 🟩<eko>Eko</eko>
 
@@ -33,6 +33,6 @@
 
 <h2>PageTags</h2>
 
-- "Move.LegMove.LegSwing"
+- "Move.LegMove.LegKurve"
 
 :::

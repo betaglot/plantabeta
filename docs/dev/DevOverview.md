@@ -472,8 +472,8 @@ Download Printable resources
                         "link": "/reference/Move/ArmMove/ArmProp"
                     },
                     {
-                        "text": "ArmSwing",
-                        "link": "/reference/Move/ArmMove/ArmSwing"
+                        "text": "ArmKurve",
+                        "link": "/reference/Move/ArmMove/ArmKurve"
                     },
                     {
                         "text": "ArmWalk",
@@ -663,8 +663,8 @@ Download Printable resources
                         "link": "/reference/Move/HandMove/SpadeHandleGrip"
                     },
                     {
-                        "text": "SpadeShaftGrip",
-                        "link": "/reference/Move/HandMove/SpadeShaftGrip"
+                        "text": "SpadeCollarGrip",
+                        "link": "/reference/Move/HandMove/SpadeCollarGrip"
                     },
                     {
                         "text": "TreeGrip",
@@ -788,8 +788,8 @@ Download Printable resources
                         "link": "/reference/Move/LegMove/LegSidebagLift"
                     },
                     {
-                        "text": "LegSwing",
-                        "link": "/reference/Move/LegMove/LegSwing"
+                        "text": "LegKurve",
+                        "link": "/reference/Move/LegMove/LegKurve"
                     },
                     {
                         "text": "RunningStart",
@@ -1006,25 +1006,25 @@ Download Printable resources
                         ]
                     },
                     {
-                        "text": "Gaiter",
-                        "link": "/reference/Move/ToolMove/Gaiter/Overview",
+                        "text": "Tibior",
+                        "link": "/reference/Move/ToolMove/Tibior/Overview",
                         "collapsed": "true",
                         "items": [
                             {
-                                "text": "Gaiter Frase",
-                                "link": "/reference/Move/ToolMove/Gaiter/Frase/Overview"
+                                "text": "Tibior Frase",
+                                "link": "/reference/Move/ToolMove/Tibior/Frase/Overview"
                             },
                             {
-                                "text": "GaiterGrip",
-                                "link": "/reference/Move/ToolMove/Gaiter/GaiterGrip"
+                                "text": "TibiorGrip",
+                                "link": "/reference/Move/ToolMove/Tibior/TibiorGrip"
                             },
                             {
-                                "text": "GaiterOn",
-                                "link": "/reference/Move/ToolMove/Gaiter/GaiterOn"
+                                "text": "TibiorOn",
+                                "link": "/reference/Move/ToolMove/Tibior/TibiorOn"
                             },
                             {
-                                "text": "GaiterOff",
-                                "link": "/reference/Move/ToolMove/Gaiter/GaiterOff"
+                                "text": "TibiorOff",
+                                "link": "/reference/Move/ToolMove/Tibior/TibiorOff"
                             }
                         ]
                     },
@@ -1133,8 +1133,8 @@ Download Printable resources
                                 "link": "/reference/Move/ToolMove/Spade/SpadeStomp"
                             },
                             {
-                                "text": "SpadeSwing",
-                                "link": "/reference/Move/ToolMove/Spade/SpadeSwing"
+                                "text": "SpadeKurve",
+                                "link": "/reference/Move/ToolMove/Spade/SpadeKurve"
                             },
                             {
                                 "text": "SpadeTest",
@@ -1334,37 +1334,37 @@ Download Printable resources
                         ]
                     },
                     {
-                        "text": "ViaCurve",
-                        "link": "/reference/Via/ViaGeometry/ViaCurve/Overview",
+                        "text": "Line",
+                        "link": "/reference/Via/ViaGeometry/Line/Overview",
                         "collapsed": "true",
                         "items": [
                             {
                                 "text": "AroundCurve",
-                                "link": "/reference/Via/ViaGeometry/ViaCurve/CircumventCurve"
+                                "link": "/reference/Via/ViaGeometry/Line/CircumventCurve"
                             },
                             {
                                 "text": "GhostLine",
-                                "link": "/reference/Via/ViaGeometry/ViaCurve/GhostLine"
+                                "link": "/reference/Via/ViaGeometry/Line/GhostLine"
                             },
                             {
                                 "text": "ParallelCurve",
-                                "link": "/reference/Via/ViaGeometry/ViaCurve/ParallelCurve"
+                                "link": "/reference/Via/ViaGeometry/Line/ParallelCurve"
                             },
                             {
                                 "text": "PerimeterCurve",
-                                "link": "/reference/Via/ViaGeometry/ViaCurve/PerimeterCurve"
+                                "link": "/reference/Via/ViaGeometry/Line/PerimeterCurve"
                             },
                             {
                                 "text": "SpiralCurve",
-                                "link": "/reference/Via/ViaGeometry/ViaCurve/SpiralCurve"
+                                "link": "/reference/Via/ViaGeometry/Line/SpiralCurve"
                             },
                             {
                                 "text": "TurnAroundCurve",
-                                "link": "/reference/Via/ViaGeometry/ViaCurve/TurnAroundCurve"
+                                "link": "/reference/Via/ViaGeometry/Line/TurnAroundCurve"
                             },
                             {
                                 "text": "ZigzagCurve",
-                                "link": "/reference/Via/ViaGeometry/ViaCurve/ZigzagCurve"
+                                "link": "/reference/Via/ViaGeometry/Line/ZigzagCurve"
                             }
                         ]
                     },
@@ -1396,13 +1396,13 @@ Download Printable resources
                         ]
                     },
                     {
-                        "text": "ViaSurface",
-                        "link": "/reference/Via/ViaGeometry/ViaSurface/Overview",
+                        "text": "Contact",
+                        "link": "/reference/Via/ViaGeometry/Contact/Overview",
                         "collapsed": "true",
                         "items": [
                             {
-                                "text": "ViaSurface Texture",
-                                "link": "/reference/Via/ViaSurface/Texture"
+                                "text": "Contact Texture",
+                                "link": "/reference/Via/Contact/Texture"
                             }
                         ]
                     }

@@ -54,6 +54,12 @@ SpadeLimb
 <!-- =================================================== -->
 ::: details 🛠 <dev>&&&</dev>
 
+- 2ArmMove
+    - SpadeSkeef
+    - FloraSwimParry
+    - BagOn
+    - BoxCarry
+    - ArmAmble
 - Ambidexterity
 
 <h2>PageTags</h2>

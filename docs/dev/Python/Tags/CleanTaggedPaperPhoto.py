@@ -448,7 +448,7 @@ tags = [
                     "title": "Via.PieceCover.StraightenCover"
                 },
                 {
-                    "title": "Via.ViaGeometry.ViaCurve.PerimeterLine"
+                    "title": "Via.ViaGeometry.Line.PerimeterLine"
                 },
                 {
                     "title": "TagTest"
@@ -483,7 +483,7 @@ tags = [
                 "title": "Via.PieceCover.StraightenCover"
             },
             {
-                "title": "Via.ViaGeometry.ViaCurve.PerimeterLine"
+                "title": "Via.ViaGeometry.Line.PerimeterLine"
             },
             {
                 "title": "TagTest"
@@ -717,10 +717,10 @@ tags = [
                     "title": "Via.ViaDiagram.Overview"
                 },
                 {
-                    "title": "Via.ViaGeometry.ViaCurve.Overview"
+                    "title": "Via.ViaGeometry.Line.Overview"
                 },
                 {
-                    "title": "Via.ViaGeometry.ViaCurve.SpiralLine"
+                    "title": "Via.ViaGeometry.Line.SpiralLine"
                 },
                 {
                     "title": "TagTest"
@@ -749,10 +749,10 @@ tags = [
                 "title": "Via.ViaDiagram.Overview"
             },
             {
-                "title": "Via.ViaGeometry.ViaCurve.Overview"
+                "title": "Via.ViaGeometry.Line.Overview"
             },
             {
-                "title": "Via.ViaGeometry.ViaCurve.SpiralLine"
+                "title": "Via.ViaGeometry.Line.SpiralLine"
             },
             {
                 "title": "TagTest"
@@ -2316,7 +2316,7 @@ tags = [
                     "title": "PlantaBeta"
                 },
                 {
-                    "title": "Via.ViaGeometry.ViaCurve.Overview"
+                    "title": "Via.ViaGeometry.Line.Overview"
                 },
                 {
                     "title": "TagTest"
@@ -2342,7 +2342,7 @@ tags = [
                 "title": "PlantaBeta"
             },
             {
-                "title": "Via.ViaGeometry.ViaCurve.Overview"
+                "title": "Via.ViaGeometry.Line.Overview"
             },
             {
                 "title": "TagTest"
@@ -2920,7 +2920,7 @@ tags = [
                     "title": "PlantaBeta"
                 },
                 {
-                    "title": "Via.ViaGeometry.ViaCurve.SpiralLine"
+                    "title": "Via.ViaGeometry.Line.SpiralLine"
                 },
                 {
                     "title": "TagTest"
@@ -3000,7 +3000,7 @@ tags = [
                 "title": "PlantaBeta"
             },
             {
-                "title": "Via.ViaGeometry.ViaCurve.SpiralLine"
+                "title": "Via.ViaGeometry.Line.SpiralLine"
             },
             {
                 "title": "TagTest"
@@ -3092,7 +3092,7 @@ tags = [
                     "title": "Via.ViaComposition.ViaSelection.AlternativeVia"
                 },
                 {
-                    "title": "Via.ViaGeometry.ViaSurface.ViaSurfaceAttributes.ViaSurfaceSize"
+                    "title": "Via.ViaGeometry.Contact.ContactAttributes.ContactSize"
                 },
                 {
                     "title": "TagTest"
@@ -3178,7 +3178,7 @@ tags = [
                 "title": "Via.ViaComposition.ViaSelection.AlternativeVia"
             },
             {
-                "title": "Via.ViaGeometry.ViaSurface.ViaSurfaceAttributes.ViaSurfaceSize"
+                "title": "Via.ViaGeometry.Contact.ContactAttributes.ContactSize"
             },
             {
                 "title": "TagTest"
@@ -3487,19 +3487,19 @@ tags = [
                     "title": "Via.PieceCover.BackCover"
                 },
                 {
-                    "title": "Via.ViaGeometry.ViaCurve.BagUpLine"
+                    "title": "Via.ViaGeometry.Line.BagUpLine"
                 },
                 {
-                    "title": "Via.ViaGeometry.ViaCurve.BoundaryLine.ArtificialBoundaryLine"
+                    "title": "Via.ViaGeometry.Line.BoundaryLine.ArtificialBoundaryLine"
                 },
                 {
-                    "title": "Via.ViaGeometry.ViaCurve.BoundaryLine.NaturalBoundaryLine"
+                    "title": "Via.ViaGeometry.Line.BoundaryLine.NaturalBoundaryLine"
                 },
                 {
-                    "title": "Via.ViaGeometry.ViaCurve.LineIn"
+                    "title": "Via.ViaGeometry.Line.LineIn"
                 },
                 {
-                    "title": "Via.ViaGeometry.ViaCurve.Overview"
+                    "title": "Via.ViaGeometry.Line.Overview"
                 },
                 {
                     "title": "Via.ViaAttributes.ViaTreeCount"
@@ -3577,19 +3577,19 @@ tags = [
                 "title": "Via.PieceCover.BackCover"
             },
             {
-                "title": "Via.ViaGeometry.ViaCurve.BagUpLine"
+                "title": "Via.ViaGeometry.Line.BagUpLine"
             },
             {
-                "title": "Via.ViaGeometry.ViaCurve.BoundaryLine.ArtificialBoundaryLine"
+                "title": "Via.ViaGeometry.Line.BoundaryLine.ArtificialBoundaryLine"
             },
             {
-                "title": "Via.ViaGeometry.ViaCurve.BoundaryLine.NaturalBoundaryLine"
+                "title": "Via.ViaGeometry.Line.BoundaryLine.NaturalBoundaryLine"
             },
             {
-                "title": "Via.ViaGeometry.ViaCurve.LineIn"
+                "title": "Via.ViaGeometry.Line.LineIn"
             },
             {
-                "title": "Via.ViaGeometry.ViaCurve.Overview"
+                "title": "Via.ViaGeometry.Line.Overview"
             },
             {
                 "title": "Via.ViaAttributes.ViaTreeCount"
@@ -3736,7 +3736,7 @@ tags = [
                     "title": "Dev.Tagging.TagName"
                 },
                 {
-                    "title": "Move.ArmMove.ArmSwing"
+                    "title": "Move.ArmMove.ArmKurve"
                 },
                 {
                     "title": "Move.MoveContactPoint.Overview"
@@ -3782,7 +3782,7 @@ tags = [
                     "title": "PlantaBeta"
                 },
                 {
-                    "title": "Via.ViaGeometry.ViaCurve.ViaDisplacementLine"
+                    "title": "Via.ViaGeometry.Line.ViaDisplacementLine"
                 },
                 {
                     "title": "TagTest"
@@ -3814,7 +3814,7 @@ tags = [
                 "title": "Dev.Tagging.TagName"
             },
             {
-                "title": "Move.ArmMove.ArmSwing"
+                "title": "Move.ArmMove.ArmKurve"
             },
             {
                 "title": "Move.MoveContactPoint.Overview"
@@ -3860,7 +3860,7 @@ tags = [
                 "title": "PlantaBeta"
             },
             {
-                "title": "Via.ViaGeometry.ViaCurve.ViaDisplacementLine"
+                "title": "Via.ViaGeometry.Line.ViaDisplacementLine"
             },
             {
                 "title": "TagTest"
@@ -4625,13 +4625,13 @@ tags = [
                     "title": "Via.ViaDifficulty.Overview"
                 },
                 {
-                    "title": "Via.ViaSequence.ViaSurfaceFrase.AnteViaSurface"
+                    "title": "Via.ViaSequence.ContactFrase.AnteContact"
                 },
                 {
-                    "title": "Via.ViaSequence.ViaSurfaceFrase.CurrentViaSurface"
+                    "title": "Via.ViaSequence.ContactFrase.CurrentContact"
                 },
                 {
-                    "title": "Via.ViaSequence.ViaSurfaceFrase.PostViaSurface"
+                    "title": "Via.ViaSequence.ContactFrase.PostContact"
                 },
                 {
                     "title": "Via.ViaGeometry.ViaSpace.ViaRangeOfLoadingAngles"
@@ -4671,13 +4671,13 @@ tags = [
                 "title": "Via.ViaDifficulty.Overview"
             },
             {
-                "title": "Via.ViaSequence.ViaSurfaceFrase.AnteViaSurface"
+                "title": "Via.ViaSequence.ContactFrase.AnteContact"
             },
             {
-                "title": "Via.ViaSequence.ViaSurfaceFrase.CurrentViaSurface"
+                "title": "Via.ViaSequence.ContactFrase.CurrentContact"
             },
             {
-                "title": "Via.ViaSequence.ViaSurfaceFrase.PostViaSurface"
+                "title": "Via.ViaSequence.ContactFrase.PostContact"
             },
             {
                 "title": "Via.ViaGeometry.ViaSpace.ViaRangeOfLoadingAngles"
@@ -5122,7 +5122,7 @@ tags = [
                     "title": "PlantaBeta"
                 },
                 {
-                    "title": "Via.ViaGeometry.ViaCurve.ViaDisplacementLine"
+                    "title": "Via.ViaGeometry.Line.ViaDisplacementLine"
                 },
                 {
                     "title": "TagTest"
@@ -5154,7 +5154,7 @@ tags = [
                 "title": "PlantaBeta"
             },
             {
-                "title": "Via.ViaGeometry.ViaCurve.ViaDisplacementLine"
+                "title": "Via.ViaGeometry.Line.ViaDisplacementLine"
             },
             {
                 "title": "TagTest"
@@ -5389,13 +5389,13 @@ tags = [
                     "title": "PlantaBeta"
                 },
                 {
-                    "title": "Via.ViaGeometry.ViaCurve.ViaLinearLine"
+                    "title": "Via.ViaGeometry.Line.ViaLinearLine"
                 },
                 {
                     "title": "Via.ViaGeometry.ViaPoint.ReflectionPoint"
                 },
                 {
-                    "title": "Via.ViaGeometry.ViaSurface.ViaSurfaceLine"
+                    "title": "Via.ViaGeometry.Contact.ContactLine"
                 },
                 {
                     "title": "TagTest"
@@ -5427,13 +5427,13 @@ tags = [
                 "title": "PlantaBeta"
             },
             {
-                "title": "Via.ViaGeometry.ViaCurve.ViaLinearLine"
+                "title": "Via.ViaGeometry.Line.ViaLinearLine"
             },
             {
                 "title": "Via.ViaGeometry.ViaPoint.ReflectionPoint"
             },
             {
-                "title": "Via.ViaGeometry.ViaSurface.ViaSurfaceLine"
+                "title": "Via.ViaGeometry.Contact.ContactLine"
             },
             {
                 "title": "TagTest"
@@ -6327,10 +6327,10 @@ tags = [
                     "title": "Via.AreaCover.CircleCover.CircleSegmentCover"
                 },
                 {
-                    "title": "Via.ViaGeometry.ViaCurve.CircumventLine"
+                    "title": "Via.ViaGeometry.Line.CircumventLine"
                 },
                 {
-                    "title": "Via.ViaGeometry.ViaCurve.ViaDistanceLine.ViaCircuitLine"
+                    "title": "Via.ViaGeometry.Line.ViaDistanceLine.ViaCircuitLine"
                 },
                 {
                     "title": "Via.ViaSequence.AreaCoverFrase.ViaShapeInscription.Overview"
@@ -6365,10 +6365,10 @@ tags = [
                 "title": "Via.AreaCover.CircleCover.CircleSegmentCover"
             },
             {
-                "title": "Via.ViaGeometry.ViaCurve.CircumventLine"
+                "title": "Via.ViaGeometry.Line.CircumventLine"
             },
             {
-                "title": "Via.ViaGeometry.ViaCurve.ViaDistanceLine.ViaCircuitLine"
+                "title": "Via.ViaGeometry.Line.ViaDistanceLine.ViaCircuitLine"
             },
             {
                 "title": "Via.ViaSequence.AreaCoverFrase.ViaShapeInscription.Overview"
@@ -6512,7 +6512,7 @@ tags = [
                     "title": "Dev.ToReduceConfusion"
                 },
                 {
-                    "title": "Move.LegMove.LegSwing"
+                    "title": "Move.LegMove.LegKurve"
                 },
                 {
                     "title": "Move.MoveComposition.MoveSelection"
@@ -6545,10 +6545,10 @@ tags = [
                     "title": "Via.ViaComposition.ViaSelection"
                 },
                 {
-                    "title": "Via.ViaGeometry.ViaCurve.ViaDisplacementLine"
+                    "title": "Via.ViaGeometry.Line.ViaDisplacementLine"
                 },
                 {
-                    "title": "Via.ViaGeometry.ViaCurve.ViaLinearLine"
+                    "title": "Via.ViaGeometry.Line.ViaLinearLine"
                 },
                 {
                     "title": "Via.ViaSequence.AreaCoverFrase.ViaShapeInscription.Overview"
@@ -6583,7 +6583,7 @@ tags = [
                 "title": "Dev.ToReduceConfusion"
             },
             {
-                "title": "Move.LegMove.LegSwing"
+                "title": "Move.LegMove.LegKurve"
             },
             {
                 "title": "Move.MoveComposition.MoveSelection"
@@ -6616,10 +6616,10 @@ tags = [
                 "title": "Via.ViaComposition.ViaSelection"
             },
             {
-                "title": "Via.ViaGeometry.ViaCurve.ViaDisplacementLine"
+                "title": "Via.ViaGeometry.Line.ViaDisplacementLine"
             },
             {
-                "title": "Via.ViaGeometry.ViaCurve.ViaLinearLine"
+                "title": "Via.ViaGeometry.Line.ViaLinearLine"
             },
             {
                 "title": "Via.ViaSequence.AreaCoverFrase.ViaShapeInscription.Overview"
@@ -6857,10 +6857,10 @@ tags = [
                     "title": "Via.Marka.BoundaryMarka"
                 },
                 {
-                    "title": "Via.ViaGeometry.ViaCurve.BoundaryLine.ArtificialBoundaryLine"
+                    "title": "Via.ViaGeometry.Line.BoundaryLine.ArtificialBoundaryLine"
                 },
                 {
-                    "title": "Via.ViaGeometry.ViaCurve.BoundaryLine.NaturalBoundaryLine"
+                    "title": "Via.ViaGeometry.Line.BoundaryLine.NaturalBoundaryLine"
                 },
                 {
                     "title": "Via.ViaGeometry.ViaPoint.VertexPoint"
@@ -6922,10 +6922,10 @@ tags = [
                 "title": "Via.Marka.BoundaryMarka"
             },
             {
-                "title": "Via.ViaGeometry.ViaCurve.BoundaryLine.ArtificialBoundaryLine"
+                "title": "Via.ViaGeometry.Line.BoundaryLine.ArtificialBoundaryLine"
             },
             {
-                "title": "Via.ViaGeometry.ViaCurve.BoundaryLine.NaturalBoundaryLine"
+                "title": "Via.ViaGeometry.Line.BoundaryLine.NaturalBoundaryLine"
             },
             {
                 "title": "Via.ViaGeometry.ViaPoint.VertexPoint"
@@ -7277,16 +7277,16 @@ tags = [
                     "title": "Via.ViaDiagram.ViaDirectedLine"
                 },
                 {
-                    "title": "Via.ViaGeometry.ViaCurve.Overview"
+                    "title": "Via.ViaGeometry.Line.Overview"
                 },
                 {
-                    "title": "Via.ViaGeometry.ViaCurve.ViaDisplacementLine"
+                    "title": "Via.ViaGeometry.Line.ViaDisplacementLine"
                 },
                 {
-                    "title": "Via.ViaGeometry.ViaCurve.ViaLinearLine"
+                    "title": "Via.ViaGeometry.Line.ViaLinearLine"
                 },
                 {
-                    "title": "Via.ViaGeometry.ViaCurve.ViaReferenceLine"
+                    "title": "Via.ViaGeometry.Line.ViaReferenceLine"
                 },
                 {
                     "title": "TagTest"
@@ -7376,16 +7376,16 @@ tags = [
                 "title": "Via.ViaDiagram.ViaDirectedLine"
             },
             {
-                "title": "Via.ViaGeometry.ViaCurve.Overview"
+                "title": "Via.ViaGeometry.Line.Overview"
             },
             {
-                "title": "Via.ViaGeometry.ViaCurve.ViaDisplacementLine"
+                "title": "Via.ViaGeometry.Line.ViaDisplacementLine"
             },
             {
-                "title": "Via.ViaGeometry.ViaCurve.ViaLinearLine"
+                "title": "Via.ViaGeometry.Line.ViaLinearLine"
             },
             {
-                "title": "Via.ViaGeometry.ViaCurve.ViaReferenceLine"
+                "title": "Via.ViaGeometry.Line.ViaReferenceLine"
             },
             {
                 "title": "TagTest"
@@ -8096,7 +8096,7 @@ tags = [
                     "title": "Dev.System.Definitions"
                 },
                 {
-                    "title": "Move.LegMove.LegSwing"
+                    "title": "Move.LegMove.LegKurve"
                 },
                 {
                     "title": "Move.MovePoint.MoveReflectionPoint"
@@ -8152,7 +8152,7 @@ tags = [
                 "title": "Dev.System.Definitions"
             },
             {
-                "title": "Move.LegMove.LegSwing"
+                "title": "Move.LegMove.LegKurve"
             },
             {
                 "title": "Move.MovePoint.MoveReflectionPoint"
@@ -8218,7 +8218,7 @@ tags = [
                     "title": "PlantaBeta"
                 },
                 {
-                    "title": "Via.ViaGeometry.ViaCurve.Overview"
+                    "title": "Via.ViaGeometry.Line.Overview"
                 },
                 {
                     "title": "TagTest"
@@ -8247,7 +8247,7 @@ tags = [
                 "title": "PlantaBeta"
             },
             {
-                "title": "Via.ViaGeometry.ViaCurve.Overview"
+                "title": "Via.ViaGeometry.Line.Overview"
             },
             {
                 "title": "TagTest"
@@ -8394,7 +8394,7 @@ tags = [
                     "title": "Via.ViaComposition.ViaSelection.AlternativeVia"
                 },
                 {
-                    "title": "Via.ViaGeometry.ViaCurve.Overview"
+                    "title": "Via.ViaGeometry.Line.Overview"
                 },
                 {
                     "title": "TagTest"
@@ -8441,7 +8441,7 @@ tags = [
                 "title": "Via.ViaComposition.ViaSelection.AlternativeVia"
             },
             {
-                "title": "Via.ViaGeometry.ViaCurve.Overview"
+                "title": "Via.ViaGeometry.Line.Overview"
             },
             {
                 "title": "TagTest"
@@ -8508,7 +8508,7 @@ tags = [
                     "title": "PlantaBeta"
                 },
                 {
-                    "title": "Via.ViaGeometry.ViaCurve.ViaReferenceLine"
+                    "title": "Via.ViaGeometry.Line.ViaReferenceLine"
                 },
                 {
                     "title": "Via.ViaGeometry.ViaSpace.ViaRangeOfLoadingAngles"
@@ -8575,7 +8575,7 @@ tags = [
                 "title": "PlantaBeta"
             },
             {
-                "title": "Via.ViaGeometry.ViaCurve.ViaReferenceLine"
+                "title": "Via.ViaGeometry.Line.ViaReferenceLine"
             },
             {
                 "title": "Via.ViaGeometry.ViaSpace.ViaRangeOfLoadingAngles"
@@ -8804,7 +8804,7 @@ tags = [
                     "title": "Via.Overview"
                 },
                 {
-                    "title": "Via.ViaGeometry.ViaSurface.ViaSurfaceLine"
+                    "title": "Via.ViaGeometry.Contact.ContactLine"
                 },
                 {
                     "title": "TagTest"
@@ -8840,7 +8840,7 @@ tags = [
                 "title": "Via.Overview"
             },
             {
-                "title": "Via.ViaGeometry.ViaSurface.ViaSurfaceLine"
+                "title": "Via.ViaGeometry.Contact.ContactLine"
             },
             {
                 "title": "TagTest"
@@ -8883,7 +8883,7 @@ tags = [
                     "title": "PlantaBeta"
                 },
                 {
-                    "title": "Via.ViaGeometry.ViaCurve.ParallelLine"
+                    "title": "Via.ViaGeometry.Line.ParallelLine"
                 },
                 {
                     "title": "Via.ViaGeometry.ViaPoint.Overview"
@@ -8926,7 +8926,7 @@ tags = [
                 "title": "PlantaBeta"
             },
             {
-                "title": "Via.ViaGeometry.ViaCurve.ParallelLine"
+                "title": "Via.ViaGeometry.Line.ParallelLine"
             },
             {
                 "title": "Via.ViaGeometry.ViaPoint.Overview"
@@ -9032,13 +9032,13 @@ tags = [
                     "title": "Via.ViaError.PinchedArea"
                 },
                 {
-                    "title": "Via.ViaGeometry.ViaCurve.ParallelLine"
+                    "title": "Via.ViaGeometry.Line.ParallelLine"
                 },
                 {
-                    "title": "Via.ViaGeometry.ViaCurve.ViaLineOverlap"
+                    "title": "Via.ViaGeometry.Line.ViaLineOverlap"
                 },
                 {
-                    "title": "Via.ViaGeometry.ViaCurve.ViaLinearLine"
+                    "title": "Via.ViaGeometry.Line.ViaLinearLine"
                 },
                 {
                     "title": "Via.ViaGeometry.ViaPoint.ViaConvergencePoint"
@@ -9074,13 +9074,13 @@ tags = [
                 "title": "Via.ViaError.PinchedArea"
             },
             {
-                "title": "Via.ViaGeometry.ViaCurve.ParallelLine"
+                "title": "Via.ViaGeometry.Line.ParallelLine"
             },
             {
-                "title": "Via.ViaGeometry.ViaCurve.ViaLineOverlap"
+                "title": "Via.ViaGeometry.Line.ViaLineOverlap"
             },
             {
-                "title": "Via.ViaGeometry.ViaCurve.ViaLinearLine"
+                "title": "Via.ViaGeometry.Line.ViaLinearLine"
             },
             {
                 "title": "Via.ViaGeometry.ViaPoint.ViaConvergencePoint"
@@ -9884,7 +9884,7 @@ tags = [
                     "title": "Move.MoveAttributes.MoveRangeOfMotion"
                 },
                 {
-                    "title": "Move.ToolMove.SpadeMove.SpadeSwing"
+                    "title": "Move.ToolMove.SpadeMove.SpadeKurve"
                 },
                 {
                     "title": "PlantaBeta"
@@ -9896,7 +9896,7 @@ tags = [
                     "title": "Via.AreaCover.CircleCover.SemicircleCover"
                 },
                 {
-                    "title": "Via.ViaGeometry.ViaCurve.Overview"
+                    "title": "Via.ViaGeometry.Line.Overview"
                 },
                 {
                     "title": "TagTest"
@@ -9928,7 +9928,7 @@ tags = [
                 "title": "Move.MoveAttributes.MoveRangeOfMotion"
             },
             {
-                "title": "Move.ToolMove.SpadeMove.SpadeSwing"
+                "title": "Move.ToolMove.SpadeMove.SpadeKurve"
             },
             {
                 "title": "PlantaBeta"
@@ -9940,7 +9940,7 @@ tags = [
                 "title": "Via.AreaCover.CircleCover.SemicircleCover"
             },
             {
-                "title": "Via.ViaGeometry.ViaCurve.Overview"
+                "title": "Via.ViaGeometry.Line.Overview"
             },
             {
                 "title": "TagTest"
@@ -11005,7 +11005,7 @@ tags = [
                     "title": "Move.ArmMove.ArmReach"
                 },
                 {
-                    "title": "Move.ArmMove.ArmSwing"
+                    "title": "Move.ArmMove.ArmKurve"
                 },
                 {
                     "title": "Move.MoveAttributes.SubmotoCount"
@@ -11046,7 +11046,7 @@ tags = [
                 "title": "Move.ArmMove.ArmReach"
             },
             {
-                "title": "Move.ArmMove.ArmSwing"
+                "title": "Move.ArmMove.ArmKurve"
             },
             {
                 "title": "Move.MoveAttributes.SubmotoCount"
@@ -11346,7 +11346,7 @@ tags = [
                     "title": "Via.ViaDiagram.ViaTimeline"
                 },
                 {
-                    "title": "Via.ViaGeometry.ViaCurve.AdvancingMove"
+                    "title": "Via.ViaGeometry.Line.AdvancingMove"
                 },
                 {
                     "title": "TagTest"
@@ -11393,7 +11393,7 @@ tags = [
                 "title": "Via.ViaDiagram.ViaTimeline"
             },
             {
-                "title": "Via.ViaGeometry.ViaCurve.AdvancingMove"
+                "title": "Via.ViaGeometry.Line.AdvancingMove"
             },
             {
                 "title": "TagTest"
@@ -11422,7 +11422,7 @@ tags = [
                     "title": "Guide.Why.Productivity.Efficiency"
                 },
                 {
-                    "title": "Move.LegMove.LegSwing"
+                    "title": "Move.LegMove.LegKurve"
                 },
                 {
                     "title": "Move.MoveCard"
@@ -11475,7 +11475,7 @@ tags = [
                 "title": "Guide.Why.Productivity.Efficiency"
             },
             {
-                "title": "Move.LegMove.LegSwing"
+                "title": "Move.LegMove.LegKurve"
             },
             {
                 "title": "Move.MoveCard"
@@ -12250,13 +12250,13 @@ tags = [
                     "title": "Via.ViaDiagram.Overview"
                 },
                 {
-                    "title": "Via.ViaDiagram.ViaSurface.ViaSurfaceHighlight"
+                    "title": "Via.ViaDiagram.Contact.ContactHighlight"
                 },
                 {
-                    "title": "Via.ViaGeometry.ViaCurve.ViaLinearLine"
+                    "title": "Via.ViaGeometry.Line.ViaLinearLine"
                 },
                 {
-                    "title": "Via.ViaGeometry.ViaSurface.ViaSurfaceLine"
+                    "title": "Via.ViaGeometry.Contact.ContactLine"
                 },
                 {
                     "title": "TagTest"
@@ -12299,13 +12299,13 @@ tags = [
                 "title": "Via.ViaDiagram.Overview"
             },
             {
-                "title": "Via.ViaDiagram.ViaSurface.ViaSurfaceHighlight"
+                "title": "Via.ViaDiagram.Contact.ContactHighlight"
             },
             {
-                "title": "Via.ViaGeometry.ViaCurve.ViaLinearLine"
+                "title": "Via.ViaGeometry.Line.ViaLinearLine"
             },
             {
-                "title": "Via.ViaGeometry.ViaSurface.ViaSurfaceLine"
+                "title": "Via.ViaGeometry.Contact.ContactLine"
             },
             {
                 "title": "TagTest"
@@ -12359,10 +12359,10 @@ tags = [
                     "title": "Via.Direction"
                 },
                 {
-                    "title": "Via.ViaGeometry.ViaSurface.Overview"
+                    "title": "Via.ViaGeometry.Contact.Overview"
                 },
                 {
-                    "title": "Via.ViaGeometry.ViaSurface.ViaSurfaceLine"
+                    "title": "Via.ViaGeometry.Contact.ContactLine"
                 },
                 {
                     "title": "TagTest"
@@ -12413,10 +12413,10 @@ tags = [
                 "title": "Via.Direction"
             },
             {
-                "title": "Via.ViaGeometry.ViaSurface.Overview"
+                "title": "Via.ViaGeometry.Contact.Overview"
             },
             {
-                "title": "Via.ViaGeometry.ViaSurface.ViaSurfaceLine"
+                "title": "Via.ViaGeometry.Contact.ContactLine"
             },
             {
                 "title": "TagTest"
@@ -12567,7 +12567,7 @@ tags = [
                     "title": "Via.ViaComposition.ViaSelection"
                 },
                 {
-                    "title": "Tests.ViaSurfaceHighlight"
+                    "title": "Tests.ContactHighlight"
                 },
                 {
                     "title": "TagTest"
@@ -12614,7 +12614,7 @@ tags = [
                 "title": "Via.ViaComposition.ViaSelection"
             },
             {
-                "title": "Tests.ViaSurfaceHighlight"
+                "title": "Tests.ContactHighlight"
             },
             {
                 "title": "TagTest"
@@ -12655,7 +12655,7 @@ tags = [
                     "title": "Via.ViaComposition.ViaAddition"
                 },
                 {
-                    "title": "Via.ViaGeometry.ViaCurve.Overview"
+                    "title": "Via.ViaGeometry.Line.Overview"
                 },
                 {
                     "title": "TagTest"
@@ -12693,7 +12693,7 @@ tags = [
                 "title": "Via.ViaComposition.ViaAddition"
             },
             {
-                "title": "Via.ViaGeometry.ViaCurve.Overview"
+                "title": "Via.ViaGeometry.Line.Overview"
             },
             {
                 "title": "TagTest"
@@ -12822,7 +12822,7 @@ tags = [
                     "title": "Via.ViaDiagram.Overview"
                 },
                 {
-                    "title": "Via.ViaDiagram.ViaSurface.ViaSurfaceHighlight"
+                    "title": "Via.ViaDiagram.Contact.ContactHighlight"
                 },
                 {
                     "title": "TagTest"
@@ -12863,7 +12863,7 @@ tags = [
                 "title": "Via.ViaDiagram.Overview"
             },
             {
-                "title": "Via.ViaDiagram.ViaSurface.ViaSurfaceHighlight"
+                "title": "Via.ViaDiagram.Contact.ContactHighlight"
             },
             {
                 "title": "TagTest"
@@ -12883,13 +12883,13 @@ tags = [
                     "title": "PlantaBeta"
                 },
                 {
-                    "title": "Via.ViaDiagram.ViaSurface.ViaSurfaceHighlight"
+                    "title": "Via.ViaDiagram.Contact.ContactHighlight"
                 },
                 {
                     "title": "Dev.Element.ElementDiagram.ColorCode"
                 },
                 {
-                    "title": "Via.ViaGeometry.ViaCurve.ViaLineOverlap"
+                    "title": "Via.ViaGeometry.Line.ViaLineOverlap"
                 },
                 {
                     "title": "Via.ViaComposition.ViaSelection.AlternativeVia"
@@ -12911,7 +12911,7 @@ tags = [
                     "color": "#cd74e6ff"
                 },
                 {
-                    "title": "Via.ViaGeometry.ViaSurface.ViaHiddenSurface"
+                    "title": "Via.ViaGeometry.Contact.ViaHiddenSurface"
                 },
                 {
                     "title": "Dev.Pictogram"
@@ -12931,13 +12931,13 @@ tags = [
                 "title": "PlantaBeta"
             },
             {
-                "title": "Via.ViaDiagram.ViaSurface.ViaSurfaceHighlight"
+                "title": "Via.ViaDiagram.Contact.ContactHighlight"
             },
             {
                 "title": "Dev.Element.ElementDiagram.ColorCode"
             },
             {
-                "title": "Via.ViaGeometry.ViaCurve.ViaLineOverlap"
+                "title": "Via.ViaGeometry.Line.ViaLineOverlap"
             },
             {
                 "title": "Via.ViaComposition.ViaSelection.AlternativeVia"
@@ -12959,7 +12959,7 @@ tags = [
                 "color": "#cd74e6ff"
             },
             {
-                "title": "Via.ViaGeometry.ViaSurface.ViaHiddenSurface"
+                "title": "Via.ViaGeometry.Contact.ViaHiddenSurface"
             },
             {
                 "title": "Dev.Pictogram"
@@ -12988,7 +12988,7 @@ tags = [
                     "title": "Via.ViaDiagram.Overview"
                 },
                 {
-                    "title": "Via.ViaGeometry.ViaCurve.ViaReferenceLine"
+                    "title": "Via.ViaGeometry.Line.ViaReferenceLine"
                 },
                 {
                     "title": "Via.ViaGeometry.ViaSpace.ViaRangeOfLoadingAngles"
@@ -13014,7 +13014,7 @@ tags = [
                 "title": "Via.ViaDiagram.Overview"
             },
             {
-                "title": "Via.ViaGeometry.ViaCurve.ViaReferenceLine"
+                "title": "Via.ViaGeometry.Line.ViaReferenceLine"
             },
             {
                 "title": "Via.ViaGeometry.ViaSpace.ViaRangeOfLoadingAngles"
@@ -13231,10 +13231,10 @@ tags = [
                     "title": "PlantaBeta"
                 },
                 {
-                    "title": "Via.ViaGeometry.ViaCurve.Overview"
+                    "title": "Via.ViaGeometry.Line.Overview"
                 },
                 {
-                    "title": "Via.ViaGeometry.ViaSurface.ViaSurfaceLine"
+                    "title": "Via.ViaGeometry.Contact.ContactLine"
                 },
                 {
                     "title": "TagTest"
@@ -13281,10 +13281,10 @@ tags = [
                 "title": "PlantaBeta"
             },
             {
-                "title": "Via.ViaGeometry.ViaCurve.Overview"
+                "title": "Via.ViaGeometry.Line.Overview"
             },
             {
-                "title": "Via.ViaGeometry.ViaSurface.ViaSurfaceLine"
+                "title": "Via.ViaGeometry.Contact.ContactLine"
             },
             {
                 "title": "TagTest"
@@ -13531,13 +13531,13 @@ tags = [
                     "title": "Via.ViaDiagram.Overview"
                 },
                 {
-                    "title": "Via.ViaGeometry.ViaCurve.Overview"
+                    "title": "Via.ViaGeometry.Line.Overview"
                 },
                 {
-                    "title": "Via.ViaGeometry.ViaCurve.ViaReferenceLine"
+                    "title": "Via.ViaGeometry.Line.ViaReferenceLine"
                 },
                 {
-                    "title": "Via.ViaGeometry.ViaSurface.ViaSurfaceLine"
+                    "title": "Via.ViaGeometry.Contact.ContactLine"
                 },
                 {
                     "title": "TagTest"
@@ -13577,13 +13577,13 @@ tags = [
                 "title": "Via.ViaDiagram.Overview"
             },
             {
-                "title": "Via.ViaGeometry.ViaCurve.Overview"
+                "title": "Via.ViaGeometry.Line.Overview"
             },
             {
-                "title": "Via.ViaGeometry.ViaCurve.ViaReferenceLine"
+                "title": "Via.ViaGeometry.Line.ViaReferenceLine"
             },
             {
-                "title": "Via.ViaGeometry.ViaSurface.ViaSurfaceLine"
+                "title": "Via.ViaGeometry.Contact.ContactLine"
             },
             {
                 "title": "TagTest"
@@ -13707,10 +13707,10 @@ tags = [
                     "title": "Via.ViaGrid.ViaSquareGrid"
                 },
                 {
-                    "title": "Via.ViaGeometry.ViaCurve.ViaReferenceLine"
+                    "title": "Via.ViaGeometry.Line.ViaReferenceLine"
                 },
                 {
-                    "title": "Via.ViaGeometry.ViaSurface.ViaSurfaceLine"
+                    "title": "Via.ViaGeometry.Contact.ContactLine"
                 },
                 {
                     "title": "TagTest"
@@ -13776,10 +13776,10 @@ tags = [
                 "title": "Via.ViaGrid.ViaSquareGrid"
             },
             {
-                "title": "Via.ViaGeometry.ViaCurve.ViaReferenceLine"
+                "title": "Via.ViaGeometry.Line.ViaReferenceLine"
             },
             {
-                "title": "Via.ViaGeometry.ViaSurface.ViaSurfaceLine"
+                "title": "Via.ViaGeometry.Contact.ContactLine"
             },
             {
                 "title": "TagTest"
@@ -13833,10 +13833,10 @@ tags = [
                     "title": "Via.ViaDiagram.Overview"
                 },
                 {
-                    "title": "Via.ViaGeometry.ViaCurve.Overview"
+                    "title": "Via.ViaGeometry.Line.Overview"
                 },
                 {
-                    "title": "Via.ViaGeometry.ViaSurface.ViaSurfaceDensity"
+                    "title": "Via.ViaGeometry.Contact.ContactDensity"
                 },
                 {
                     "title": "TagTest"
@@ -13887,10 +13887,10 @@ tags = [
                 "title": "Via.ViaDiagram.Overview"
             },
             {
-                "title": "Via.ViaGeometry.ViaCurve.Overview"
+                "title": "Via.ViaGeometry.Line.Overview"
             },
             {
-                "title": "Via.ViaGeometry.ViaSurface.ViaSurfaceDensity"
+                "title": "Via.ViaGeometry.Contact.ContactDensity"
             },
             {
                 "title": "TagTest"
@@ -13935,16 +13935,16 @@ tags = [
                     "title": "PlantaBeta"
                 },
                 {
-                    "title": "Via.ViaGeometry.ViaCurve.Overview"
+                    "title": "Via.ViaGeometry.Line.Overview"
                 },
                 {
-                    "title": "Via.ViaGeometry.ViaCurve.ViaReferenceLine"
+                    "title": "Via.ViaGeometry.Line.ViaReferenceLine"
                 },
                 {
                     "title": "Via.ViaGeometry.ViaPoint.ReflectionPoint"
                 },
                 {
-                    "title": "Via.ViaGeometry.ViaSurface.Overview"
+                    "title": "Via.ViaGeometry.Contact.Overview"
                 },
                 {
                     "title": "TagTest"
@@ -13986,16 +13986,16 @@ tags = [
                 "title": "PlantaBeta"
             },
             {
-                "title": "Via.ViaGeometry.ViaCurve.Overview"
+                "title": "Via.ViaGeometry.Line.Overview"
             },
             {
-                "title": "Via.ViaGeometry.ViaCurve.ViaReferenceLine"
+                "title": "Via.ViaGeometry.Line.ViaReferenceLine"
             },
             {
                 "title": "Via.ViaGeometry.ViaPoint.ReflectionPoint"
             },
             {
-                "title": "Via.ViaGeometry.ViaSurface.Overview"
+                "title": "Via.ViaGeometry.Contact.Overview"
             },
             {
                 "title": "TagTest"
@@ -14142,19 +14142,19 @@ tags = [
                     "title": "Via.ViaComposition.ViaSelection"
                 },
                 {
-                    "title": "Via.ViaGeometry.ViaCurve.BoundaryLine.ArtificialBoundaryLine"
+                    "title": "Via.ViaGeometry.Line.BoundaryLine.ArtificialBoundaryLine"
                 },
                 {
-                    "title": "Via.ViaGeometry.ViaCurve.BoundaryLine.NaturalBoundaryLine"
+                    "title": "Via.ViaGeometry.Line.BoundaryLine.NaturalBoundaryLine"
                 },
                 {
-                    "title": "Via.ViaGeometry.ViaCurve.ViaReferenceLine"
+                    "title": "Via.ViaGeometry.Line.ViaReferenceLine"
                 },
                 {
                     "title": "Via.ViaGeometry.ViaPoint.ViaDivergencePoint"
                 },
                 {
-                    "title": "Via.ViaGeometry.ViaSurface.ViaSurfaceDensity"
+                    "title": "Via.ViaGeometry.Contact.ContactDensity"
                 },
                 {
                     "title": "TagTest"
@@ -14201,19 +14201,19 @@ tags = [
                 "title": "Via.ViaComposition.ViaSelection"
             },
             {
-                "title": "Via.ViaGeometry.ViaCurve.BoundaryLine.ArtificialBoundaryLine"
+                "title": "Via.ViaGeometry.Line.BoundaryLine.ArtificialBoundaryLine"
             },
             {
-                "title": "Via.ViaGeometry.ViaCurve.BoundaryLine.NaturalBoundaryLine"
+                "title": "Via.ViaGeometry.Line.BoundaryLine.NaturalBoundaryLine"
             },
             {
-                "title": "Via.ViaGeometry.ViaCurve.ViaReferenceLine"
+                "title": "Via.ViaGeometry.Line.ViaReferenceLine"
             },
             {
                 "title": "Via.ViaGeometry.ViaPoint.ViaDivergencePoint"
             },
             {
-                "title": "Via.ViaGeometry.ViaSurface.ViaSurfaceDensity"
+                "title": "Via.ViaGeometry.Contact.ContactDensity"
             },
             {
                 "title": "TagTest"
@@ -14266,13 +14266,13 @@ tags = [
                     "title": "Via.ViaCrux"
                 },
                 {
-                    "title": "Via.ViaGeometry.ViaCurve.CircumventLine"
+                    "title": "Via.ViaGeometry.Line.CircumventLine"
                 },
                 {
-                    "title": "Via.ViaGeometry.ViaCurve.Overview"
+                    "title": "Via.ViaGeometry.Line.Overview"
                 },
                 {
-                    "title": "Via.ViaGeometry.ViaCurve.ViaMirrorLine"
+                    "title": "Via.ViaGeometry.Line.ViaMirrorLine"
                 },
                 {
                     "title": "Via.ViaGeometry.ViaPoint.ReflectionPoint"
@@ -14331,13 +14331,13 @@ tags = [
                 "title": "Via.ViaCrux"
             },
             {
-                "title": "Via.ViaGeometry.ViaCurve.CircumventLine"
+                "title": "Via.ViaGeometry.Line.CircumventLine"
             },
             {
-                "title": "Via.ViaGeometry.ViaCurve.Overview"
+                "title": "Via.ViaGeometry.Line.Overview"
             },
             {
-                "title": "Via.ViaGeometry.ViaCurve.ViaMirrorLine"
+                "title": "Via.ViaGeometry.Line.ViaMirrorLine"
             },
             {
                 "title": "Via.ViaGeometry.ViaPoint.ReflectionPoint"
@@ -14490,7 +14490,7 @@ tags = [
                     "title": "Via.ViaGeometry.ViaSpace.ViaRangeOfLoadingAngles"
                 },
                 {
-                    "title": "Via.ViaGeometry.ViaSurface.ViaSurfaceLine"
+                    "title": "Via.ViaGeometry.Contact.ContactLine"
                 },
                 {
                     "title": "TagTest"
@@ -14558,7 +14558,7 @@ tags = [
                 "title": "Via.ViaGeometry.ViaSpace.ViaRangeOfLoadingAngles"
             },
             {
-                "title": "Via.ViaGeometry.ViaSurface.ViaSurfaceLine"
+                "title": "Via.ViaGeometry.Contact.ContactLine"
             },
             {
                 "title": "TagTest"
@@ -14605,13 +14605,13 @@ tags = [
                     "title": "Via.ViaDiagram.ViaNotDirectedLine"
                 },
                 {
-                    "title": "Via.ViaDiagram.ViaSurface.ViaSurfaceHighlight"
+                    "title": "Via.ViaDiagram.Contact.ContactHighlight"
                 },
                 {
-                    "title": "Via.ViaGeometry.ViaCurve.Overview"
+                    "title": "Via.ViaGeometry.Line.Overview"
                 },
                 {
-                    "title": "Via.ViaGeometry.ViaCurve.ParallelLine"
+                    "title": "Via.ViaGeometry.Line.ParallelLine"
                 },
                 {
                     "title": "TagTest"
@@ -14655,13 +14655,13 @@ tags = [
                 "title": "Via.ViaDiagram.ViaNotDirectedLine"
             },
             {
-                "title": "Via.ViaDiagram.ViaSurface.ViaSurfaceHighlight"
+                "title": "Via.ViaDiagram.Contact.ContactHighlight"
             },
             {
-                "title": "Via.ViaGeometry.ViaCurve.Overview"
+                "title": "Via.ViaGeometry.Line.Overview"
             },
             {
-                "title": "Via.ViaGeometry.ViaCurve.ParallelLine"
+                "title": "Via.ViaGeometry.Line.ParallelLine"
             },
             {
                 "title": "TagTest"
@@ -14856,7 +14856,7 @@ tags = [
                     "title": "Via.ViaError.TooClose"
                 },
                 {
-                    "title": "Via.ViaGeometry.ViaCurve.Overview"
+                    "title": "Via.ViaGeometry.Line.Overview"
                 },
                 {
                     "title": "Via.ViaGeometry.ViaPoint.ViaFinishPoint"
@@ -14901,7 +14901,7 @@ tags = [
                 "title": "Via.ViaError.TooClose"
             },
             {
-                "title": "Via.ViaGeometry.ViaCurve.Overview"
+                "title": "Via.ViaGeometry.Line.Overview"
             },
             {
                 "title": "Via.ViaGeometry.ViaPoint.ViaFinishPoint"
@@ -15132,13 +15132,13 @@ tags = [
                     "title": "Via.ViaDiagram.ViaDirectedLine"
                 },
                 {
-                    "title": "Via.ViaGeometry.ViaCurve.Overview"
+                    "title": "Via.ViaGeometry.Line.Overview"
                 },
                 {
-                    "title": "Via.ViaGeometry.ViaCurve.ViaDisplacementLine"
+                    "title": "Via.ViaGeometry.Line.ViaDisplacementLine"
                 },
                 {
-                    "title": "Via.ViaGeometry.ViaCurve.ViaDistanceLine.ViaCircuitLine"
+                    "title": "Via.ViaGeometry.Line.ViaDistanceLine.ViaCircuitLine"
                 },
                 {
                     "title": "Via.ViaGeometry.ViaPoint.Overview"
@@ -15179,13 +15179,13 @@ tags = [
                 "title": "Via.ViaDiagram.ViaDirectedLine"
             },
             {
-                "title": "Via.ViaGeometry.ViaCurve.Overview"
+                "title": "Via.ViaGeometry.Line.Overview"
             },
             {
-                "title": "Via.ViaGeometry.ViaCurve.ViaDisplacementLine"
+                "title": "Via.ViaGeometry.Line.ViaDisplacementLine"
             },
             {
-                "title": "Via.ViaGeometry.ViaCurve.ViaDistanceLine.ViaCircuitLine"
+                "title": "Via.ViaGeometry.Line.ViaDistanceLine.ViaCircuitLine"
             },
             {
                 "title": "Via.ViaGeometry.ViaPoint.Overview"
@@ -15245,7 +15245,7 @@ tags = [
                     "title": "Via.ViaDiagram.Overview"
                 },
                 {
-                    "title": "Via.ViaGeometry.ViaCurve.Overview"
+                    "title": "Via.ViaGeometry.Line.Overview"
                 },
                 {
                     "title": "TagTest"
@@ -15293,7 +15293,7 @@ tags = [
                 "title": "Via.ViaDiagram.Overview"
             },
             {
-                "title": "Via.ViaGeometry.ViaCurve.Overview"
+                "title": "Via.ViaGeometry.Line.Overview"
             },
             {
                 "title": "TagTest"
@@ -15887,7 +15887,7 @@ tags = [
                     "title": "Via.ViaDiagram.Overview"
                 },
                 {
-                    "title": "Via.ViaGeometry.ViaCurve.Overview"
+                    "title": "Via.ViaGeometry.Line.Overview"
                 },
                 {
                     "title": "Via.ViaName"
@@ -15950,7 +15950,7 @@ tags = [
                 "title": "Via.ViaDiagram.Overview"
             },
             {
-                "title": "Via.ViaGeometry.ViaCurve.Overview"
+                "title": "Via.ViaGeometry.Line.Overview"
             },
             {
                 "title": "Via.ViaName"
@@ -16298,7 +16298,7 @@ tags = [
                     "title": "Via.ViaDiagram.Overview"
                 },
                 {
-                    "title": "Via.ViaGeometry.ViaCurve.Overview"
+                    "title": "Via.ViaGeometry.Line.Overview"
                 },
                 {
                     "title": "Via.ViaGeometry.ViaPoint.ViaStartPoint"
@@ -16354,7 +16354,7 @@ tags = [
                 "title": "Via.ViaDiagram.Overview"
             },
             {
-                "title": "Via.ViaGeometry.ViaCurve.Overview"
+                "title": "Via.ViaGeometry.Line.Overview"
             },
             {
                 "title": "Via.ViaGeometry.ViaPoint.ViaStartPoint"
@@ -16480,7 +16480,7 @@ tags = [
                     "title": "PlantaBeta"
                 },
                 {
-                    "title": "Via.ViaGeometry.ViaCurve.Overview"
+                    "title": "Via.ViaGeometry.Line.Overview"
                 },
                 {
                     "title": "Via.ViaGeometry.ViaPoint.Microsite.PotentialMicrosite"
@@ -16524,7 +16524,7 @@ tags = [
                 "title": "PlantaBeta"
             },
             {
-                "title": "Via.ViaGeometry.ViaCurve.Overview"
+                "title": "Via.ViaGeometry.Line.Overview"
             },
             {
                 "title": "Via.ViaGeometry.ViaPoint.Microsite.PotentialMicrosite"
@@ -16580,7 +16580,7 @@ tags = [
                     "title": "Via.ViaComposition.ViaAddition"
                 },
                 {
-                    "title": "Via.ViaGeometry.ViaCurve.Overview"
+                    "title": "Via.ViaGeometry.Line.Overview"
                 },
                 {
                     "title": "TagTest"
@@ -16630,7 +16630,7 @@ tags = [
                 "title": "Via.ViaComposition.ViaAddition"
             },
             {
-                "title": "Via.ViaGeometry.ViaCurve.Overview"
+                "title": "Via.ViaGeometry.Line.Overview"
             },
             {
                 "title": "TagTest"
@@ -16668,10 +16668,10 @@ tags = [
                     "title": "PlantaBeta"
                 },
                 {
-                    "title": "Via.ViaGeometry.ViaCurve.Overview"
+                    "title": "Via.ViaGeometry.Line.Overview"
                 },
                 {
-                    "title": "Via.ViaGeometry.ViaCurve.ViaLineOverlap"
+                    "title": "Via.ViaGeometry.Line.ViaLineOverlap"
                 },
                 {
                     "title": "TagTest"
@@ -16703,10 +16703,10 @@ tags = [
                 "title": "PlantaBeta"
             },
             {
-                "title": "Via.ViaGeometry.ViaCurve.Overview"
+                "title": "Via.ViaGeometry.Line.Overview"
             },
             {
-                "title": "Via.ViaGeometry.ViaCurve.ViaLineOverlap"
+                "title": "Via.ViaGeometry.Line.ViaLineOverlap"
             },
             {
                 "title": "TagTest"
@@ -17619,7 +17619,7 @@ tags = [
                     "title": "PlantaBeta"
                 },
                 {
-                    "title": "Via.ViaGeometry.ViaCurve.ViaLineOverlap"
+                    "title": "Via.ViaGeometry.Line.ViaLineOverlap"
                 },
                 {
                     "title": "Via.ViaGeometry.ViaPoint.ViaFinishPoint"
@@ -17680,7 +17680,7 @@ tags = [
                 "title": "PlantaBeta"
             },
             {
-                "title": "Via.ViaGeometry.ViaCurve.ViaLineOverlap"
+                "title": "Via.ViaGeometry.Line.ViaLineOverlap"
             },
             {
                 "title": "Via.ViaGeometry.ViaPoint.ViaFinishPoint"
@@ -18170,7 +18170,7 @@ tags = [
                     "title": "PlantaBeta"
                 },
                 {
-                    "title": "Via.ViaGeometry.ViaCurve.ViaLineOverlap"
+                    "title": "Via.ViaGeometry.Line.ViaLineOverlap"
                 },
                 {
                     "title": "Via.TeamCover.Overview"
@@ -18205,7 +18205,7 @@ tags = [
                 "title": "PlantaBeta"
             },
             {
-                "title": "Via.ViaGeometry.ViaCurve.ViaLineOverlap"
+                "title": "Via.ViaGeometry.Line.ViaLineOverlap"
             },
             {
                 "title": "Via.TeamCover.Overview"
@@ -18225,7 +18225,7 @@ tags = [
             "lastUpdated": 1692978839593,
             "tags": [
                 {
-                    "title": "Move.ArmMove.ArmSwing"
+                    "title": "Move.ArmMove.ArmKurve"
                 },
                 {
                     "title": "Move.MovePoint.MovePausePoint"
@@ -18252,7 +18252,7 @@ tags = [
         "extension": "jpg",
         "tags": [
             {
-                "title": "Move.ArmMove.ArmSwing"
+                "title": "Move.ArmMove.ArmKurve"
             },
             {
                 "title": "Move.MovePoint.MovePausePoint"
@@ -19328,7 +19328,7 @@ tags = [
                     "title": "PlantaBeta"
                 },
                 {
-                    "title": "Via.ViaGeometry.ViaCurve.ViaDisplacementLine"
+                    "title": "Via.ViaGeometry.Line.ViaDisplacementLine"
                 },
                 {
                     "title": "TagTest"
@@ -19369,7 +19369,7 @@ tags = [
                 "title": "PlantaBeta"
             },
             {
-                "title": "Via.ViaGeometry.ViaCurve.ViaDisplacementLine"
+                "title": "Via.ViaGeometry.Line.ViaDisplacementLine"
             },
             {
                 "title": "TagTest"
@@ -19871,10 +19871,10 @@ tags = [
                     "title": "Via.Difficulty.ViaRisk"
                 },
                 {
-                    "title": "Via.ViaGeometry.ViaCurve.ViaDisplacementLine"
+                    "title": "Via.ViaGeometry.Line.ViaDisplacementLine"
                 },
                 {
-                    "title": "Via.ViaGeometry.ViaCurve.ViaDistanceLine"
+                    "title": "Via.ViaGeometry.Line.ViaDistanceLine"
                 },
                 {
                     "title": "Sponsor.Kickstarter.Risk"
@@ -19993,10 +19993,10 @@ tags = [
                 "title": "Via.Difficulty.ViaRisk"
             },
             {
-                "title": "Via.ViaGeometry.ViaCurve.ViaDisplacementLine"
+                "title": "Via.ViaGeometry.Line.ViaDisplacementLine"
             },
             {
-                "title": "Via.ViaGeometry.ViaCurve.ViaDistanceLine"
+                "title": "Via.ViaGeometry.Line.ViaDistanceLine"
             },
             {
                 "title": "Sponsor.Kickstarter.Risk"
@@ -21736,7 +21736,7 @@ tags = [
                     "title": "Dev.Interdisciplinary.Climbing"
                 },
                 {
-                    "title": "Move.ArmMove.ArmSwing"
+                    "title": "Move.ArmMove.ArmKurve"
                 },
                 {
                     "title": "Move.MoveCard"
@@ -21774,7 +21774,7 @@ tags = [
                 "title": "Dev.Interdisciplinary.Climbing"
             },
             {
-                "title": "Move.ArmMove.ArmSwing"
+                "title": "Move.ArmMove.ArmKurve"
             },
             {
                 "title": "Move.MoveCard"
@@ -22462,10 +22462,10 @@ tags = [
                     "title": "PlantaBeta"
                 },
                 {
-                    "title": "Via.ViaGeometry.ViaCurve.ViaDisplacementLine"
+                    "title": "Via.ViaGeometry.Line.ViaDisplacementLine"
                 },
                 {
-                    "title": "Via.ViaGeometry.ViaCurve.ViaDistanceLine"
+                    "title": "Via.ViaGeometry.Line.ViaDistanceLine"
                 },
                 {
                     "title": "TagTest"
@@ -22494,10 +22494,10 @@ tags = [
                 "title": "PlantaBeta"
             },
             {
-                "title": "Via.ViaGeometry.ViaCurve.ViaDisplacementLine"
+                "title": "Via.ViaGeometry.Line.ViaDisplacementLine"
             },
             {
-                "title": "Via.ViaGeometry.ViaCurve.ViaDistanceLine"
+                "title": "Via.ViaGeometry.Line.ViaDistanceLine"
             },
             {
                 "title": "TagTest"
@@ -23065,7 +23065,7 @@ tags = [
                     "title": "Land.LandDifficulty.Overview"
                 },
                 {
-                    "title": "Move.LegMove.LegSwing"
+                    "title": "Move.LegMove.LegKurve"
                 },
                 {
                     "title": "Move.MoveCard"
@@ -23103,7 +23103,7 @@ tags = [
                 "title": "Land.LandDifficulty.Overview"
             },
             {
-                "title": "Move.LegMove.LegSwing"
+                "title": "Move.LegMove.LegKurve"
             },
             {
                 "title": "Move.MoveCard"
@@ -23220,10 +23220,10 @@ tags = [
                     "title": "PlantaBeta"
                 },
                 {
-                    "title": "Via.ViaGeometry.ViaCurve.ViaDisplacementLine"
+                    "title": "Via.ViaGeometry.Line.ViaDisplacementLine"
                 },
                 {
-                    "title": "Via.ViaGeometry.ViaCurve.ViaDistanceLine"
+                    "title": "Via.ViaGeometry.Line.ViaDistanceLine"
                 },
                 {
                     "title": "TagTest"
@@ -23261,10 +23261,10 @@ tags = [
                 "title": "PlantaBeta"
             },
             {
-                "title": "Via.ViaGeometry.ViaCurve.ViaDisplacementLine"
+                "title": "Via.ViaGeometry.Line.ViaDisplacementLine"
             },
             {
-                "title": "Via.ViaGeometry.ViaCurve.ViaDistanceLine"
+                "title": "Via.ViaGeometry.Line.ViaDistanceLine"
             },
             {
                 "title": "TagTest"
@@ -23555,7 +23555,7 @@ tags = [
                     "title": "PlantaBeta"
                 },
                 {
-                    "title": "Via.ViaGeometry.ViaCurve.ViaDisplacementLine"
+                    "title": "Via.ViaGeometry.Line.ViaDisplacementLine"
                 },
                 {
                     "title": "Via.Spacing.Overview"
@@ -23582,7 +23582,7 @@ tags = [
                 "title": "PlantaBeta"
             },
             {
-                "title": "Via.ViaGeometry.ViaCurve.ViaDisplacementLine"
+                "title": "Via.ViaGeometry.Line.ViaDisplacementLine"
             },
             {
                 "title": "Via.Spacing.Overview"
@@ -24000,7 +24000,7 @@ tags = [
                     "title": "PlantaBeta"
                 },
                 {
-                    "title": "Via.ViaGeometry.ViaCurve.ParallelLine"
+                    "title": "Via.ViaGeometry.Line.ParallelLine"
                 },
                 {
                     "title": "TagTest"
@@ -24028,7 +24028,7 @@ tags = [
                 "title": "PlantaBeta"
             },
             {
-                "title": "Via.ViaGeometry.ViaCurve.ParallelLine"
+                "title": "Via.ViaGeometry.Line.ParallelLine"
             },
             {
                 "title": "TagTest"
@@ -24192,7 +24192,7 @@ tags = [
                     "title": "PlantaBeta"
                 },
                 {
-                    "title": "Via.ViaGeometry.ViaCurve.Overview"
+                    "title": "Via.ViaGeometry.Line.Overview"
                 },
                 {
                     "title": "TagTest"
@@ -24231,7 +24231,7 @@ tags = [
                 "title": "PlantaBeta"
             },
             {
-                "title": "Via.ViaGeometry.ViaCurve.Overview"
+                "title": "Via.ViaGeometry.Line.Overview"
             },
             {
                 "title": "TagTest"
@@ -25219,10 +25219,10 @@ tags = [
                     "title": "Via.AreaCover.CircleCover"
                 },
                 {
-                    "title": "Via.ViaGeometry.ViaCurve.CircumventLine"
+                    "title": "Via.ViaGeometry.Line.CircumventLine"
                 },
                 {
-                    "title": "Via.ViaGeometry.ViaCurve.Overview"
+                    "title": "Via.ViaGeometry.Line.Overview"
                 },
                 {
                     "title": "Via.Spacing.ContiguousTree"
@@ -25257,10 +25257,10 @@ tags = [
                 "title": "Via.AreaCover.CircleCover"
             },
             {
-                "title": "Via.ViaGeometry.ViaCurve.CircumventLine"
+                "title": "Via.ViaGeometry.Line.CircumventLine"
             },
             {
-                "title": "Via.ViaGeometry.ViaCurve.Overview"
+                "title": "Via.ViaGeometry.Line.Overview"
             },
             {
                 "title": "Via.Spacing.ContiguousTree"
@@ -25547,10 +25547,10 @@ tags = [
                     "title": "PlantaBeta"
                 },
                 {
-                    "title": "Via.ViaGeometry.ViaCurve.ViaDisplacementLine"
+                    "title": "Via.ViaGeometry.Line.ViaDisplacementLine"
                 },
                 {
-                    "title": "Via.ViaGeometry.ViaCurve.ViaDistanceLine"
+                    "title": "Via.ViaGeometry.Line.ViaDistanceLine"
                 },
                 {
                     "title": "TagTest"
@@ -25596,10 +25596,10 @@ tags = [
                 "title": "PlantaBeta"
             },
             {
-                "title": "Via.ViaGeometry.ViaCurve.ViaDisplacementLine"
+                "title": "Via.ViaGeometry.Line.ViaDisplacementLine"
             },
             {
-                "title": "Via.ViaGeometry.ViaCurve.ViaDistanceLine"
+                "title": "Via.ViaGeometry.Line.ViaDistanceLine"
             },
             {
                 "title": "TagTest"
@@ -25904,7 +25904,7 @@ tags = [
                     "title": "Via.ViaDiagram.ViaDirectedLine"
                 },
                 {
-                    "title": "Via.ViaGeometry.ViaCurve.Overview"
+                    "title": "Via.ViaGeometry.Line.Overview"
                 },
                 {
                     "title": "TagTest"
@@ -25951,7 +25951,7 @@ tags = [
                 "title": "Via.ViaDiagram.ViaDirectedLine"
             },
             {
-                "title": "Via.ViaGeometry.ViaCurve.Overview"
+                "title": "Via.ViaGeometry.Line.Overview"
             },
             {
                 "title": "TagTest"
@@ -26764,7 +26764,7 @@ tags = [
                     "title": "Via.Direction"
                 },
                 {
-                    "title": "Via.ViaGeometry.ViaCurve.Overview"
+                    "title": "Via.ViaGeometry.Line.Overview"
                 },
                 {
                     "title": "TagTest"
@@ -26817,7 +26817,7 @@ tags = [
                 "title": "Via.Direction"
             },
             {
-                "title": "Via.ViaGeometry.ViaCurve.Overview"
+                "title": "Via.ViaGeometry.Line.Overview"
             },
             {
                 "title": "TagTest"
@@ -27144,7 +27144,7 @@ tags = [
                     "title": "Via.ViaDiagram.ViaNotDirectedLine"
                 },
                 {
-                    "title": "Via.ViaGeometry.ViaCurve.Overview"
+                    "title": "Via.ViaGeometry.Line.Overview"
                 },
                 {
                     "title": "TagTest"
@@ -27193,7 +27193,7 @@ tags = [
                 "title": "Via.ViaDiagram.ViaNotDirectedLine"
             },
             {
-                "title": "Via.ViaGeometry.ViaCurve.Overview"
+                "title": "Via.ViaGeometry.Line.Overview"
             },
             {
                 "title": "TagTest"
@@ -27225,7 +27225,7 @@ tags = [
                     "title": "Dev.PageLayout"
                 },
                 {
-                    "title": "Move.ArmMove.ArmSwing"
+                    "title": "Move.ArmMove.ArmKurve"
                 },
                 {
                     "title": "Move.MoveName.Overview"
@@ -27266,7 +27266,7 @@ tags = [
                 "title": "Dev.PageLayout"
             },
             {
-                "title": "Move.ArmMove.ArmSwing"
+                "title": "Move.ArmMove.ArmKurve"
             },
             {
                 "title": "Move.MoveName.Overview"
@@ -27674,10 +27674,10 @@ tags = [
                     "title": "Via.Chunking"
                 },
                 {
-                    "title": "Via.ViaGeometry.ViaCurve.ViaDisplacementLine"
+                    "title": "Via.ViaGeometry.Line.ViaDisplacementLine"
                 },
                 {
-                    "title": "Via.ViaGeometry.ViaCurve.ViaDistanceLine"
+                    "title": "Via.ViaGeometry.Line.ViaDistanceLine"
                 },
                 {
                     "title": "Via.ViaGeometry.ViaPoint.VertexPoint"
@@ -27733,10 +27733,10 @@ tags = [
                 "title": "Via.Chunking"
             },
             {
-                "title": "Via.ViaGeometry.ViaCurve.ViaDisplacementLine"
+                "title": "Via.ViaGeometry.Line.ViaDisplacementLine"
             },
             {
-                "title": "Via.ViaGeometry.ViaCurve.ViaDistanceLine"
+                "title": "Via.ViaGeometry.Line.ViaDistanceLine"
             },
             {
                 "title": "Via.ViaGeometry.ViaPoint.VertexPoint"
@@ -28269,10 +28269,10 @@ tags = [
                     "title": "PlantaBeta"
                 },
                 {
-                    "title": "Via.ViaGeometry.ViaCurve.CircumventLine"
+                    "title": "Via.ViaGeometry.Line.CircumventLine"
                 },
                 {
-                    "title": "Via.ViaGeometry.ViaCurve.Overview"
+                    "title": "Via.ViaGeometry.Line.Overview"
                 },
                 {
                     "title": "Via.Spacing.DripLine"
@@ -28310,10 +28310,10 @@ tags = [
                 "title": "PlantaBeta"
             },
             {
-                "title": "Via.ViaGeometry.ViaCurve.CircumventLine"
+                "title": "Via.ViaGeometry.Line.CircumventLine"
             },
             {
-                "title": "Via.ViaGeometry.ViaCurve.Overview"
+                "title": "Via.ViaGeometry.Line.Overview"
             },
             {
                 "title": "Via.Spacing.DripLine"
@@ -29373,7 +29373,7 @@ tags = [
                     "title": "Dev.PageLayout"
                 },
                 {
-                    "title": "Move.ArmMove.ArmSwing"
+                    "title": "Move.ArmMove.ArmKurve"
                 },
                 {
                     "title": "Move.MoveName.Overview"
@@ -29414,7 +29414,7 @@ tags = [
                 "title": "Dev.PageLayout"
             },
             {
-                "title": "Move.ArmMove.ArmSwing"
+                "title": "Move.ArmMove.ArmKurve"
             },
             {
                 "title": "Move.MoveName.Overview"
@@ -30949,7 +30949,7 @@ tags = [
                     "title": "Via.Marka.Overview"
                 },
                 {
-                    "title": "Via.ViaGeometry.ViaCurve.Overview"
+                    "title": "Via.ViaGeometry.Line.Overview"
                 },
                 {
                     "title": "Via.ViaGeometry.ViaPoint.Microsite.MicrositeSelection"
@@ -30981,7 +30981,7 @@ tags = [
                 "title": "Via.Marka.Overview"
             },
             {
-                "title": "Via.ViaGeometry.ViaCurve.Overview"
+                "title": "Via.ViaGeometry.Line.Overview"
             },
             {
                 "title": "Via.ViaGeometry.ViaPoint.Microsite.MicrositeSelection"
@@ -31028,7 +31028,7 @@ tags = [
                     "title": "Via.ViaComposition.ViaSelection"
                 },
                 {
-                    "title": "Via.ViaGeometry.ViaCurve.Overview"
+                    "title": "Via.ViaGeometry.Line.Overview"
                 },
                 {
                     "title": "TagTest"
@@ -31069,7 +31069,7 @@ tags = [
                 "title": "Via.ViaComposition.ViaSelection"
             },
             {
-                "title": "Via.ViaGeometry.ViaCurve.Overview"
+                "title": "Via.ViaGeometry.Line.Overview"
             },
             {
                 "title": "TagTest"
@@ -31537,7 +31537,7 @@ tags = [
                     "title": "PlantaBeta"
                 },
                 {
-                    "title": "Via.ViaGeometry.ViaCurve.BagUpLine"
+                    "title": "Via.ViaGeometry.Line.BagUpLine"
                 },
                 {
                     "title": "TagTest"
@@ -31562,7 +31562,7 @@ tags = [
                 "title": "PlantaBeta"
             },
             {
-                "title": "Via.ViaGeometry.ViaCurve.BagUpLine"
+                "title": "Via.ViaGeometry.Line.BagUpLine"
             },
             {
                 "title": "TagTest"
@@ -31588,7 +31588,7 @@ tags = [
                     "title": "Via.ObstacleCover.Overview"
                 },
                 {
-                    "title": "Via.ViaGeometry.ViaCurve.CircumventLine"
+                    "title": "Via.ViaGeometry.Line.CircumventLine"
                 },
                 {
                     "title": "Via.ViaGeometry.ViaPoint.Microsite.MicrositeSelection"
@@ -31620,7 +31620,7 @@ tags = [
                 "title": "Via.ObstacleCover.Overview"
             },
             {
-                "title": "Via.ViaGeometry.ViaCurve.CircumventLine"
+                "title": "Via.ViaGeometry.Line.CircumventLine"
             },
             {
                 "title": "Via.ViaGeometry.ViaPoint.Microsite.MicrositeSelection"
@@ -31768,7 +31768,7 @@ tags = [
                     "title": "Via.AreaCover.AreaBoundary.BoundaryLine"
                 },
                 {
-                    "title": "Via.ViaGeometry.ViaCurve.BagUpLine"
+                    "title": "Via.ViaGeometry.Line.BagUpLine"
                 },
                 {
                     "title": "Via.Spacing.SlopedSpacing"
@@ -31797,7 +31797,7 @@ tags = [
                 "title": "Via.AreaCover.AreaBoundary.BoundaryLine"
             },
             {
-                "title": "Via.ViaGeometry.ViaCurve.BagUpLine"
+                "title": "Via.ViaGeometry.Line.BagUpLine"
             },
             {
                 "title": "Via.Spacing.SlopedSpacing"
@@ -32884,7 +32884,7 @@ tags = [
                     "title": "Via.ViaComposition.ViaSelection"
                 },
                 {
-                    "title": "Via.ViaGeometry.ViaCurve.CircumventLine"
+                    "title": "Via.ViaGeometry.Line.CircumventLine"
                 },
                 {
                     "title": "Via.ViaGeometry.ViaPoint.Microsite.MicrositeSelection"
@@ -32921,7 +32921,7 @@ tags = [
                 "title": "Via.ViaComposition.ViaSelection"
             },
             {
-                "title": "Via.ViaGeometry.ViaCurve.CircumventLine"
+                "title": "Via.ViaGeometry.Line.CircumventLine"
             },
             {
                 "title": "Via.ViaGeometry.ViaPoint.Microsite.MicrositeSelection"
@@ -33175,7 +33175,7 @@ tags = [
                     "title": "Via.AreaCover.TriangleCover"
                 },
                 {
-                    "title": "Via.ViaGeometry.ViaCurve.BeeLine"
+                    "title": "Via.ViaGeometry.Line.BeeLine"
                 },
                 {
                     "title": "TagTest"
@@ -33204,7 +33204,7 @@ tags = [
                 "title": "Via.AreaCover.TriangleCover"
             },
             {
-                "title": "Via.ViaGeometry.ViaCurve.BeeLine"
+                "title": "Via.ViaGeometry.Line.BeeLine"
             },
             {
                 "title": "TagTest"
@@ -33495,7 +33495,7 @@ tags = [
                     "title": "Via.AreaCover.TriangleCover"
                 },
                 {
-                    "title": "Via.ViaGeometry.ViaCurve.ParallelLine"
+                    "title": "Via.ViaGeometry.Line.ParallelLine"
                 },
                 {
                     "title": "TagTest"
@@ -33527,7 +33527,7 @@ tags = [
                 "title": "Via.AreaCover.TriangleCover"
             },
             {
-                "title": "Via.ViaGeometry.ViaCurve.ParallelLine"
+                "title": "Via.ViaGeometry.Line.ParallelLine"
             },
             {
                 "title": "TagTest"
@@ -33547,7 +33547,7 @@ tags = [
                     "title": "Move.Physics.Overview"
                 },
                 {
-                    "title": "Via.ViaGeometry.ViaCurve.ViaDisplacementLine"
+                    "title": "Via.ViaGeometry.Line.ViaDisplacementLine"
                 },
                 {
                     "title": "Via.Spacing.MinimumSpacing"
@@ -33567,7 +33567,7 @@ tags = [
                 "title": "Move.Physics.Overview"
             },
             {
-                "title": "Via.ViaGeometry.ViaCurve.ViaDisplacementLine"
+                "title": "Via.ViaGeometry.Line.ViaDisplacementLine"
             },
             {
                 "title": "Via.Spacing.MinimumSpacing"
@@ -33599,7 +33599,7 @@ tags = [
                     "title": "Via.Overview"
                 },
                 {
-                    "title": "Via.ViaGeometry.ViaCurve.Overview"
+                    "title": "Via.ViaGeometry.Line.Overview"
                 },
                 {
                     "title": "TagTest"
@@ -33625,7 +33625,7 @@ tags = [
                 "title": "Via.Overview"
             },
             {
-                "title": "Via.ViaGeometry.ViaCurve.Overview"
+                "title": "Via.ViaGeometry.Line.Overview"
             },
             {
                 "title": "TagTest"
@@ -33831,7 +33831,7 @@ tags = [
                     "title": "Via.ViaDiagram.ViaNotDirectedLine"
                 },
                 {
-                    "title": "Via.ViaGeometry.ViaCurve.ParallelLine"
+                    "title": "Via.ViaGeometry.Line.ParallelLine"
                 },
                 {
                     "title": "Via.ViaGeometry.ViaPoint.Microsite.PotentialMicrosite"
@@ -33863,7 +33863,7 @@ tags = [
                 "title": "Via.ViaDiagram.ViaNotDirectedLine"
             },
             {
-                "title": "Via.ViaGeometry.ViaCurve.ParallelLine"
+                "title": "Via.ViaGeometry.Line.ParallelLine"
             },
             {
                 "title": "Via.ViaGeometry.ViaPoint.Microsite.PotentialMicrosite"
@@ -35627,16 +35627,16 @@ tags = [
                     "title": "Via.ViaDiagram.ViaNotDirectedLine"
                 },
                 {
-                    "title": "Via.ViaGeometry.ViaCurve.Overview"
+                    "title": "Via.ViaGeometry.Line.Overview"
                 },
                 {
-                    "title": "Via.ViaGeometry.ViaCurve.ParallelLine"
+                    "title": "Via.ViaGeometry.Line.ParallelLine"
                 },
                 {
-                    "title": "Via.ViaGeometry.ViaCurve.ViaDisplacementLine"
+                    "title": "Via.ViaGeometry.Line.ViaDisplacementLine"
                 },
                 {
-                    "title": "Via.ViaGeometry.ViaCurve.ViaDistanceLine"
+                    "title": "Via.ViaGeometry.Line.ViaDistanceLine"
                 },
                 {
                     "title": "Via.ViaGeometry.ViaPoint.Microsite.PlantedMicrosite"
@@ -35690,16 +35690,16 @@ tags = [
                 "title": "Via.ViaDiagram.ViaNotDirectedLine"
             },
             {
-                "title": "Via.ViaGeometry.ViaCurve.Overview"
+                "title": "Via.ViaGeometry.Line.Overview"
             },
             {
-                "title": "Via.ViaGeometry.ViaCurve.ParallelLine"
+                "title": "Via.ViaGeometry.Line.ParallelLine"
             },
             {
-                "title": "Via.ViaGeometry.ViaCurve.ViaDisplacementLine"
+                "title": "Via.ViaGeometry.Line.ViaDisplacementLine"
             },
             {
-                "title": "Via.ViaGeometry.ViaCurve.ViaDistanceLine"
+                "title": "Via.ViaGeometry.Line.ViaDistanceLine"
             },
             {
                 "title": "Via.ViaGeometry.ViaPoint.Microsite.PlantedMicrosite"
@@ -36102,7 +36102,7 @@ tags = [
                     "title": "Via.Chunking"
                 },
                 {
-                    "title": "Via.ViaGeometry.ViaCurve.Overview"
+                    "title": "Via.ViaGeometry.Line.Overview"
                 },
                 {
                     "title": "TagTest"
@@ -36147,7 +36147,7 @@ tags = [
                 "title": "Via.Chunking"
             },
             {
-                "title": "Via.ViaGeometry.ViaCurve.Overview"
+                "title": "Via.ViaGeometry.Line.Overview"
             },
             {
                 "title": "TagTest"
@@ -36858,7 +36858,7 @@ tags = [
                     "title": "Via.AreaCover.AreaDefinition"
                 },
                 {
-                    "title": "Via.ViaGeometry.ViaCurve.PerimeterLine"
+                    "title": "Via.ViaGeometry.Line.PerimeterLine"
                 },
                 {
                     "title": "TagTest"
@@ -36887,7 +36887,7 @@ tags = [
                 "title": "Via.AreaCover.AreaDefinition"
             },
             {
-                "title": "Via.ViaGeometry.ViaCurve.PerimeterLine"
+                "title": "Via.ViaGeometry.Line.PerimeterLine"
             },
             {
                 "title": "TagTest"
@@ -37065,7 +37065,7 @@ tags = [
                     "title": "Via.Chunking"
                 },
                 {
-                    "title": "Via.ViaGeometry.ViaCurve.CircumventLine"
+                    "title": "Via.ViaGeometry.Line.CircumventLine"
                 },
                 {
                     "title": "TagTest"
@@ -37124,7 +37124,7 @@ tags = [
                 "title": "Via.Chunking"
             },
             {
-                "title": "Via.ViaGeometry.ViaCurve.CircumventLine"
+                "title": "Via.ViaGeometry.Line.CircumventLine"
             },
             {
                 "title": "TagTest"
@@ -37218,10 +37218,10 @@ tags = [
                     "title": "Via.PieceCover.PerimeterCover"
                 },
                 {
-                    "title": "Via.ViaGeometry.ViaCurve.LineIn"
+                    "title": "Via.ViaGeometry.Line.LineIn"
                 },
                 {
-                    "title": "Via.ViaGeometry.ViaCurve.PerimeterLine"
+                    "title": "Via.ViaGeometry.Line.PerimeterLine"
                 },
                 {
                     "title": "TagTest"
@@ -37257,10 +37257,10 @@ tags = [
                 "title": "Via.PieceCover.PerimeterCover"
             },
             {
-                "title": "Via.ViaGeometry.ViaCurve.LineIn"
+                "title": "Via.ViaGeometry.Line.LineIn"
             },
             {
-                "title": "Via.ViaGeometry.ViaCurve.PerimeterLine"
+                "title": "Via.ViaGeometry.Line.PerimeterLine"
             },
             {
                 "title": "TagTest"
@@ -37289,7 +37289,7 @@ tags = [
                     "title": "PlantaBeta"
                 },
                 {
-                    "title": "Via.ViaGeometry.ViaCurve.Overview"
+                    "title": "Via.ViaGeometry.Line.Overview"
                 },
                 {
                     "title": "TagTest"
@@ -37315,7 +37315,7 @@ tags = [
                 "title": "PlantaBeta"
             },
             {
-                "title": "Via.ViaGeometry.ViaCurve.Overview"
+                "title": "Via.ViaGeometry.Line.Overview"
             },
             {
                 "title": "TagTest"
@@ -37421,10 +37421,10 @@ tags = [
                     "title": "Via.ViaDiagram.Overview"
                 },
                 {
-                    "title": "Via.ViaGeometry.ViaCurve.CircumventLine"
+                    "title": "Via.ViaGeometry.Line.CircumventLine"
                 },
                 {
-                    "title": "Via.ViaGeometry.ViaCurve.PerimeterLine"
+                    "title": "Via.ViaGeometry.Line.PerimeterLine"
                 },
                 {
                     "title": "TagTest"
@@ -37444,10 +37444,10 @@ tags = [
                 "title": "Via.ViaDiagram.Overview"
             },
             {
-                "title": "Via.ViaGeometry.ViaCurve.CircumventLine"
+                "title": "Via.ViaGeometry.Line.CircumventLine"
             },
             {
-                "title": "Via.ViaGeometry.ViaCurve.PerimeterLine"
+                "title": "Via.ViaGeometry.Line.PerimeterLine"
             },
             {
                 "title": "TagTest"
@@ -37976,13 +37976,13 @@ tags = [
             "lastUpdated": 1692978839625,
             "tags": [
                 {
-                    "title": "Move.ArmMove.ArmSwing"
+                    "title": "Move.ArmMove.ArmKurve"
                 },
                 {
                     "title": "Move.BodyMove.Walk"
                 },
                 {
-                    "title": "Move.LegMove.LegSwing"
+                    "title": "Move.LegMove.LegKurve"
                 },
                 {
                     "title": "Move.MoveCard"
@@ -38005,13 +38005,13 @@ tags = [
         "extension": "jpg",
         "tags": [
             {
-                "title": "Move.ArmMove.ArmSwing"
+                "title": "Move.ArmMove.ArmKurve"
             },
             {
                 "title": "Move.BodyMove.Walk"
             },
             {
-                "title": "Move.LegMove.LegSwing"
+                "title": "Move.LegMove.LegKurve"
             },
             {
                 "title": "Move.MoveCard"
@@ -39508,7 +39508,7 @@ tags = [
                     "title": "PlantaBeta"
                 },
                 {
-                    "title": "Via.ViaGeometry.ViaCurve.Overview"
+                    "title": "Via.ViaGeometry.Line.Overview"
                 },
                 {
                     "title": "TagTest"
@@ -39528,7 +39528,7 @@ tags = [
                 "title": "PlantaBeta"
             },
             {
-                "title": "Via.ViaGeometry.ViaCurve.Overview"
+                "title": "Via.ViaGeometry.Line.Overview"
             },
             {
                 "title": "TagTest"
@@ -39686,7 +39686,7 @@ tags = [
                     "title": "Via.ViaDiagram.Overview"
                 },
                 {
-                    "title": "Via.ViaGeometry.ViaCurve.Overview"
+                    "title": "Via.ViaGeometry.Line.Overview"
                 },
                 {
                     "title": "TagTest"
@@ -39712,7 +39712,7 @@ tags = [
                 "title": "Via.ViaDiagram.Overview"
             },
             {
-                "title": "Via.ViaGeometry.ViaCurve.Overview"
+                "title": "Via.ViaGeometry.Line.Overview"
             },
             {
                 "title": "TagTest"
@@ -40139,7 +40139,7 @@ tags = [
                     "title": "Via.ViaDiagram.Overview"
                 },
                 {
-                    "title": "Via.ViaGeometry.ViaCurve.ViaDistanceLine.ViaCircuitLine"
+                    "title": "Via.ViaGeometry.Line.ViaDistanceLine.ViaCircuitLine"
                 },
                 {
                     "title": "NotPaper"
@@ -40156,7 +40156,7 @@ tags = [
                 "title": "Via.ViaDiagram.Overview"
             },
             {
-                "title": "Via.ViaGeometry.ViaCurve.ViaDistanceLine.ViaCircuitLine"
+                "title": "Via.ViaGeometry.Line.ViaDistanceLine.ViaCircuitLine"
             },
             {
                 "title": "NotPaper"
@@ -40288,7 +40288,7 @@ tags = [
                     "title": "Beta.BetaDiagram"
                 },
                 {
-                    "title": "Via.ViaGeometry.ViaCurve.Overview"
+                    "title": "Via.ViaGeometry.Line.Overview"
                 },
                 {
                     "title": "NotPaper"
@@ -40305,7 +40305,7 @@ tags = [
                 "title": "Beta.BetaDiagram"
             },
             {
-                "title": "Via.ViaGeometry.ViaCurve.Overview"
+                "title": "Via.ViaGeometry.Line.Overview"
             },
             {
                 "title": "NotPaper"
@@ -40392,7 +40392,7 @@ tags = [
             "lastUpdated": 1692983159779,
             "tags": [
                 {
-                    "title": "Via.ViaGeometry.ViaCurve.Overview"
+                    "title": "Via.ViaGeometry.Line.Overview"
                 },
                 {
                     "title": "Via.ViaDiagram.Overview"
@@ -40418,7 +40418,7 @@ tags = [
         "extension": "jpg",
         "tags": [
             {
-                "title": "Via.ViaGeometry.ViaCurve.Overview"
+                "title": "Via.ViaGeometry.Line.Overview"
             },
             {
                 "title": "Via.ViaDiagram.Overview"
@@ -41028,13 +41028,13 @@ tags = [
                     "title": "Move.MoveLine.MoveDistanceLine"
                 },
                 {
-                    "title": "Via.ViaGeometry.ViaCurve.ViaDistanceLine"
+                    "title": "Via.ViaGeometry.Line.ViaDistanceLine"
                 },
                 {
                     "title": "Move.MoveLine.MoveDisplacementLine"
                 },
                 {
-                    "title": "Via.ViaGeometry.ViaCurve.ViaDisplacementLine"
+                    "title": "Via.ViaGeometry.Line.ViaDisplacementLine"
                 },
                 {
                     "title": "NotPaper"
@@ -41051,13 +41051,13 @@ tags = [
                 "title": "Move.MoveLine.MoveDistanceLine"
             },
             {
-                "title": "Via.ViaGeometry.ViaCurve.ViaDistanceLine"
+                "title": "Via.ViaGeometry.Line.ViaDistanceLine"
             },
             {
                 "title": "Move.MoveLine.MoveDisplacementLine"
             },
             {
-                "title": "Via.ViaGeometry.ViaCurve.ViaDisplacementLine"
+                "title": "Via.ViaGeometry.Line.ViaDisplacementLine"
             },
             {
                 "title": "NotPaper"
@@ -41086,10 +41086,10 @@ tags = [
                     "title": "Via.ViaGeometry.ViaPoint.Overview"
                 },
                 {
-                    "title": "Via.ViaGeometry.ViaCurve.Overview"
+                    "title": "Via.ViaGeometry.Line.Overview"
                 },
                 {
-                    "title": "Via.ViaGeometry.ViaCurve.ViaLineOverlap"
+                    "title": "Via.ViaGeometry.Line.ViaLineOverlap"
                 },
                 {
                     "title": "NotPaper"
@@ -41109,10 +41109,10 @@ tags = [
                 "title": "Via.ViaGeometry.ViaPoint.Overview"
             },
             {
-                "title": "Via.ViaGeometry.ViaCurve.Overview"
+                "title": "Via.ViaGeometry.Line.Overview"
             },
             {
-                "title": "Via.ViaGeometry.ViaCurve.ViaLineOverlap"
+                "title": "Via.ViaGeometry.Line.ViaLineOverlap"
             },
             {
                 "title": "NotPaper"
@@ -41135,10 +41135,10 @@ tags = [
                     "title": "Via.ViaGeometry.ViaPoint.Overview"
                 },
                 {
-                    "title": "Via.ViaGeometry.ViaCurve.Overview"
+                    "title": "Via.ViaGeometry.Line.Overview"
                 },
                 {
-                    "title": "Via.ViaGeometry.ViaCurve.ViaLineOverlap"
+                    "title": "Via.ViaGeometry.Line.ViaLineOverlap"
                 },
                 {
                     "title": "NotPaper"
@@ -41158,10 +41158,10 @@ tags = [
                 "title": "Via.ViaGeometry.ViaPoint.Overview"
             },
             {
-                "title": "Via.ViaGeometry.ViaCurve.Overview"
+                "title": "Via.ViaGeometry.Line.Overview"
             },
             {
-                "title": "Via.ViaGeometry.ViaCurve.ViaLineOverlap"
+                "title": "Via.ViaGeometry.Line.ViaLineOverlap"
             },
             {
                 "title": "NotPaper"
@@ -41184,10 +41184,10 @@ tags = [
                     "title": "Via.ViaGeometry.ViaPoint.Overview"
                 },
                 {
-                    "title": "Via.ViaGeometry.ViaCurve.Overview"
+                    "title": "Via.ViaGeometry.Line.Overview"
                 },
                 {
-                    "title": "Via.ViaGeometry.ViaCurve.ViaLineOverlap"
+                    "title": "Via.ViaGeometry.Line.ViaLineOverlap"
                 },
                 {
                     "title": "NotPaper"
@@ -41207,10 +41207,10 @@ tags = [
                 "title": "Via.ViaGeometry.ViaPoint.Overview"
             },
             {
-                "title": "Via.ViaGeometry.ViaCurve.Overview"
+                "title": "Via.ViaGeometry.Line.Overview"
             },
             {
-                "title": "Via.ViaGeometry.ViaCurve.ViaLineOverlap"
+                "title": "Via.ViaGeometry.Line.ViaLineOverlap"
             },
             {
                 "title": "NotPaper"
@@ -41233,10 +41233,10 @@ tags = [
                     "title": "Via.ViaGeometry.ViaPoint.Overview"
                 },
                 {
-                    "title": "Via.ViaGeometry.ViaCurve.Overview"
+                    "title": "Via.ViaGeometry.Line.Overview"
                 },
                 {
-                    "title": "Via.ViaGeometry.ViaCurve.ViaLineOverlap"
+                    "title": "Via.ViaGeometry.Line.ViaLineOverlap"
                 },
                 {
                     "title": "NotPaper"
@@ -41256,10 +41256,10 @@ tags = [
                 "title": "Via.ViaGeometry.ViaPoint.Overview"
             },
             {
-                "title": "Via.ViaGeometry.ViaCurve.Overview"
+                "title": "Via.ViaGeometry.Line.Overview"
             },
             {
-                "title": "Via.ViaGeometry.ViaCurve.ViaLineOverlap"
+                "title": "Via.ViaGeometry.Line.ViaLineOverlap"
             },
             {
                 "title": "NotPaper"
@@ -41282,10 +41282,10 @@ tags = [
                     "title": "Via.ViaGeometry.ViaPoint.Overview"
                 },
                 {
-                    "title": "Via.ViaGeometry.ViaCurve.Overview"
+                    "title": "Via.ViaGeometry.Line.Overview"
                 },
                 {
-                    "title": "Via.ViaGeometry.ViaCurve.ViaLineOverlap"
+                    "title": "Via.ViaGeometry.Line.ViaLineOverlap"
                 },
                 {
                     "title": "NotPaper"
@@ -41305,10 +41305,10 @@ tags = [
                 "title": "Via.ViaGeometry.ViaPoint.Overview"
             },
             {
-                "title": "Via.ViaGeometry.ViaCurve.Overview"
+                "title": "Via.ViaGeometry.Line.Overview"
             },
             {
-                "title": "Via.ViaGeometry.ViaCurve.ViaLineOverlap"
+                "title": "Via.ViaGeometry.Line.ViaLineOverlap"
             },
             {
                 "title": "NotPaper"
@@ -41331,10 +41331,10 @@ tags = [
                     "title": "Via.ViaGeometry.ViaPoint.Overview"
                 },
                 {
-                    "title": "Via.ViaGeometry.ViaCurve.Overview"
+                    "title": "Via.ViaGeometry.Line.Overview"
                 },
                 {
-                    "title": "Via.ViaGeometry.ViaCurve.ViaLineOverlap"
+                    "title": "Via.ViaGeometry.Line.ViaLineOverlap"
                 },
                 {
                     "title": "NotPaper"
@@ -41354,10 +41354,10 @@ tags = [
                 "title": "Via.ViaGeometry.ViaPoint.Overview"
             },
             {
-                "title": "Via.ViaGeometry.ViaCurve.Overview"
+                "title": "Via.ViaGeometry.Line.Overview"
             },
             {
-                "title": "Via.ViaGeometry.ViaCurve.ViaLineOverlap"
+                "title": "Via.ViaGeometry.Line.ViaLineOverlap"
             },
             {
                 "title": "NotPaper"
@@ -41543,7 +41543,7 @@ tags = [
                     "title": "Via.ViaSuperposition"
                 },
                 {
-                    "title": "Via.ViaGeometry.ViaCurve.ViaLinearLine"
+                    "title": "Via.ViaGeometry.Line.ViaLinearLine"
                 },
                 {
                     "title": "Via.ViaGeometry.ViaPoint.ViaDivergencePoint"
@@ -41552,7 +41552,7 @@ tags = [
                     "title": "Via.ViaGeometry.ViaPoint.ViaConvergencePoint"
                 },
                 {
-                    "title": "Via.ViaGeometry.ViaCurve.ParallelLine"
+                    "title": "Via.ViaGeometry.Line.ParallelLine"
                 },
                 {
                     "title": "Via.ViaGeometry.ViaPoint.VertexPoint"
@@ -41593,7 +41593,7 @@ tags = [
                 "title": "Via.ViaSuperposition"
             },
             {
-                "title": "Via.ViaGeometry.ViaCurve.ViaLinearLine"
+                "title": "Via.ViaGeometry.Line.ViaLinearLine"
             },
             {
                 "title": "Via.ViaGeometry.ViaPoint.ViaDivergencePoint"
@@ -41602,7 +41602,7 @@ tags = [
                 "title": "Via.ViaGeometry.ViaPoint.ViaConvergencePoint"
             },
             {
-                "title": "Via.ViaGeometry.ViaCurve.ParallelLine"
+                "title": "Via.ViaGeometry.Line.ParallelLine"
             },
             {
                 "title": "Via.ViaGeometry.ViaPoint.VertexPoint"
@@ -41643,7 +41643,7 @@ tags = [
                     "title": "Via.ViaGeometry.ViaPoint.Overview"
                 },
                 {
-                    "title": "Via.ViaGeometry.ViaCurve.Overview"
+                    "title": "Via.ViaGeometry.Line.Overview"
                 },
                 {
                     "title": "Move.MoveDirection.RelativeDirection.PerpendicularTo"
@@ -41661,7 +41661,7 @@ tags = [
                     "title": "Via.PieceCover.StraightenCover"
                 },
                 {
-                    "title": "Via.ViaGeometry.ViaCurve.ViaLinearLine"
+                    "title": "Via.ViaGeometry.Line.ViaLinearLine"
                 },
                 {
                     "title": "Via.AreaCover.Overview"
@@ -41690,7 +41690,7 @@ tags = [
                 "title": "Via.ViaGeometry.ViaPoint.Overview"
             },
             {
-                "title": "Via.ViaGeometry.ViaCurve.Overview"
+                "title": "Via.ViaGeometry.Line.Overview"
             },
             {
                 "title": "Move.MoveDirection.RelativeDirection.PerpendicularTo"
@@ -41708,7 +41708,7 @@ tags = [
                 "title": "Via.PieceCover.StraightenCover"
             },
             {
-                "title": "Via.ViaGeometry.ViaCurve.ViaLinearLine"
+                "title": "Via.ViaGeometry.Line.ViaLinearLine"
             },
             {
                 "title": "Via.AreaCover.Overview"
@@ -44467,7 +44467,7 @@ tags = [
                     "title": "RawVideo"
                 },
                 {
-                    "title": "Move.ToolMove.GaiterMove.Overview"
+                    "title": "Move.ToolMove.TibiorMove.Overview"
                 },
                 {
                     "title": "Move.HandMove.InsertTree"
@@ -44490,7 +44490,7 @@ tags = [
                 "title": "RawVideo"
             },
             {
-                "title": "Move.ToolMove.GaiterMove.Overview"
+                "title": "Move.ToolMove.TibiorMove.Overview"
             },
             {
                 "title": "Move.HandMove.InsertTree"
@@ -44681,7 +44681,7 @@ tags = [
                     "title": "Move.ToolMove.MarkaMove.MarkaThrow"
                 },
                 {
-                    "title": "Move.ToolMove.GaiterMove.Overview"
+                    "title": "Move.ToolMove.TibiorMove.Overview"
                 },
                 {
                     "title": "Move.ToolMove.GloveMove.Overview"
@@ -44713,7 +44713,7 @@ tags = [
                 "title": "Move.ToolMove.MarkaMove.MarkaThrow"
             },
             {
-                "title": "Move.ToolMove.GaiterMove.Overview"
+                "title": "Move.ToolMove.TibiorMove.Overview"
             },
             {
                 "title": "Move.ToolMove.GloveMove.Overview"
@@ -45395,7 +45395,7 @@ tags = [
                     "title": "Move.ToolMove.BundleMove.MoveError.WrapperLitter"
                 },
                 {
-                    "title": "Move.ToolMove.GaiterMove.Overview"
+                    "title": "Move.ToolMove.TibiorMove.Overview"
                 },
                 {
                     "title": "Move.ArmMove.ArmExtension"
@@ -45469,7 +45469,7 @@ tags = [
                 "title": "Move.ToolMove.BundleMove.MoveError.WrapperLitter"
             },
             {
-                "title": "Move.ToolMove.GaiterMove.Overview"
+                "title": "Move.ToolMove.TibiorMove.Overview"
             },
             {
                 "title": "Move.ArmMove.ArmExtension"

@@ -1,8 +1,8 @@
-# 🟠 <move>SpadeSwing</move>
+# 🟠 <move>SpadeKurve</move>
 
 ![MoveIkon](/Move/Move_Ikon.png)
 
-## 🕸 SpadeSwing.Skema
+## 🕸 SpadeKurve.Skema
 
 ### Related 🟩<eko>Eko</eko>
 
@@ -29,11 +29,16 @@
 <!-- =================================================== -->
 ::: details 🛠 <dev>&&&</dev>
 
--
+- SpadeKurve leads with Handle
+- SpadeAnteriorKurve
+    - To initiate Walk
+- SpadePosteriorKurve
+- SpadeLateralKurve
+- (SpadeCircumductionKurve == SpadeSpiralKurve)
 
 <h2>PageTags</h2>
 
 - "Move.ToolMove.SpadeMove.SpadeCircumduction"
-- "Move.ToolMove.SpadeMove.SpadeSwing"
+- "Move.ToolMove.SpadeMove.SpadeKurve"
 
 :::

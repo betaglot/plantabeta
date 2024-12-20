@@ -1047,11 +1047,11 @@
         "purpose": [],
         "superMove": [],
         "subMove": [
-          "ArmSwing",
+          "ArmKurve",
           "Catch",
           "Absorb",
           "Redirect",
-          "LegSwing",
+          "LegKurve",
           "BodyAbsorb",
           "LegAbsorb",
           "SpaceFoot",
@@ -1129,7 +1129,7 @@
         "superMove": [],
         "subMove": [
           "BodyRedirect",
-          "LegSwing",
+          "LegKurve",
           "LegAbsorb"
         ],
         "anteMove": [],
@@ -1151,8 +1151,8 @@
         "subMove": [
           "BodyRotation",
           "ArmRotation",
-          "ArmSwing",
-          "LegSwing"
+          "ArmKurve",
+          "LegKurve"
         ],
         "anteMove": [],
         "PostMove": [],
@@ -1566,7 +1566,7 @@
           "DynamicMove",
           "HangingFootTransfer",
           "FootStab",
-          "LegSwing"
+          "LegKurve"
         ],
         "PostMove": [],
         "neuro": [],
@@ -1588,7 +1588,7 @@
         ],
         "anteMove": [
           "DynamicMove",
-          "LegSwing"
+          "LegKurve"
         ],
         "PostMove": [],
         "neuro": [],
@@ -8679,7 +8679,7 @@
         "difficultyElement" : []
       },
       {
-        "name": "ArmSwing",
+        "name": "ArmKurve",
         "namespace": "",
         "rank": "",
         "purpose": [],
@@ -8759,7 +8759,7 @@
         "subMove": []
       },
       {
-        "name": "LegSwing",
+        "name": "LegKurve",
         "namespace": "",
         "rank": "",
         "purpose": [],
@@ -8988,7 +8988,7 @@
           "LegRedirect"
         ],
         "superMove": [
-          "LegSwing"
+          "LegKurve"
         ],
         "subMove": [],
         "anteMove": [],
@@ -9004,7 +9004,7 @@
           "ArmRedirect"
         ],
         "superMove": [
-          "ArmSwing"
+          "ArmKurve"
         ],
         "subMove": [],
         "anteMove": [],
@@ -10050,7 +10050,7 @@
         "betaElement": [],
         "superMove": [],
         "subMove": [
-          "LegSwing",
+          "LegKurve",
           "SpineFlexion"
         ],
         "anteMove": [],
@@ -10121,7 +10121,7 @@
         "betaElement": [],
         "superMove": [],
         "subMove": [
-          "LegSwing",
+          "LegKurve",
           "KneeUp",
           "LegCrunch",
           "InitiationTwist",
@@ -10499,7 +10499,7 @@
         "speed": [],
         "rhythm": [],
         "superMove": [
-          "ArmSwing"
+          "ArmKurve"
         ],
         "subMove": [
           "LeadingWithElbow"

@@ -328,7 +328,7 @@ export default defineConfig({
 //           text: '🟠 <move>ArmMove</move>', link: '/encyclopedia/Move/ArmMove/Overview', collapsed: true, items: [
 //             { text: '🟠 <move>Arm Frase</move>', link: '/encyclopedia/Move/ArmMove/Frase/Overview' },
 //             { text: '🟠 <move>ArmProp</move>', link: '/encyclopedia/Move/ArmMove/ArmProp' },
-//             { text: '🟠 <move>ArmSwing</move>', link: '/encyclopedia/Move/ArmMove/ArmSwing' },
+//             { text: '🟠 <move>ArmKurve</move>', link: '/encyclopedia/Move/ArmMove/ArmKurve' },
 //             { text: '🟠 <move>ArmWalk</move>', link: '/encyclopedia/Move/ArmMove/ArmWalk' },
 //             { text: '🟠 <move>ArmBalance</move>', link: '/encyclopedia/Move/ArmMove/ArmBalance' },
 //           ]
@@ -387,7 +387,7 @@ export default defineConfig({
 //             { text: '🟠 <move>HandPoke</move>', link: '/encyclopedia/Move/HandMove/HandPoke' },
 //             { text: '🟠 <move>HandSkreef</move>', link: '/encyclopedia/Move/HandMove/HandSkreef' },
 //             { text: '🟠 <move>SpadeHandleGrip</move>', link: '/encyclopedia/Move/HandMove/SpadeHandleGrip' },
-//             { text: '🟠 <move>SpadeShaftGrip</move>', link: '/encyclopedia/Move/HandMove/SpadeShaftGrip' },
+//             { text: '🟠 <move>SpadeCollarGrip</move>', link: '/encyclopedia/Move/HandMove/SpadeCollarGrip' },
 //             { text: '🟠 <move>TreeGrip</move>', link: '/encyclopedia/Move/HandMove/TreeGrip' },
 //             { text: '🟠 <move>TreeTestGrip</move>', link: '/encyclopedia/Move/HandMove/TreeTestGrip' },
 //           ]
@@ -425,7 +425,7 @@ export default defineConfig({
 //             { text: '🟠 <move>LegFlexion</move>', link: '/encyclopedia/Move/LegMove/LegFlexion' },
 //             { text: '🟠 <move>LegProp</move>', link: '/encyclopedia/Move/LegMove/LegProp' },
 //             { text: '🟠 <move>LegSidebagLift</move>', link: '/encyclopedia/Move/LegMove/LegSidebagLift' },
-//             { text: '🟠 <move>LegSwing</move>', link: '/encyclopedia/Move/LegMove/LegSwing' },
+//             { text: '🟠 <move>LegKurve</move>', link: '/encyclopedia/Move/LegMove/LegKurve' },
 //             { text: '🟠 <move>RunningStart</move>', link: '/encyclopedia/Move/LegMove/RunningStart' },
 //             { text: '🟠 <move>Step</move>', link: '/encyclopedia/Move/LegMove/Step' },
 //             { text: '🟠 <move>Stomp</move>', link: '/encyclopedia/Move/LegMove/Stomp' },
@@ -499,11 +499,11 @@ export default defineConfig({
 //               ]
 //             },
 //             {
-//               text: '🟠 <move>Gaiter</move>', link: '/encyclopedia/Move/ToolMove/Gaiter/Overview', collapsed: true, items: [
-//                 { text: '🔷 <move>Gaiter Frase</move>', link: '/encyclopedia/Move/ToolMove/Gaiter/Frase/Overview' },
-//                 { text: '🟠 <move>GaiterGrip</move>', link: '/encyclopedia/Move/ToolMove/Gaiter/GaiterGrip' },
-//                 { text: '🟠 <move>GaiterOn</move>', link: '/encyclopedia/Move/ToolMove/Gaiter/GaiterOn' },
-//                 { text: '🟠 <move>GaiterOff</move>', link: '/encyclopedia/Move/ToolMove/Gaiter/GaiterOff' },
+//               text: '🟠 <move>Tibior</move>', link: '/encyclopedia/Move/ToolMove/Tibior/Overview', collapsed: true, items: [
+//                 { text: '🔷 <move>Tibior Frase</move>', link: '/encyclopedia/Move/ToolMove/Tibior/Frase/Overview' },
+//                 { text: '🟠 <move>TibiorGrip</move>', link: '/encyclopedia/Move/ToolMove/Tibior/TibiorGrip' },
+//                 { text: '🟠 <move>TibiorOn</move>', link: '/encyclopedia/Move/ToolMove/Tibior/TibiorOn' },
+//                 { text: '🟠 <move>TibiorOff</move>', link: '/encyclopedia/Move/ToolMove/Tibior/TibiorOff' },
 //               ]
 //             },
 //             {
@@ -540,7 +540,7 @@ export default defineConfig({
 //                 { text: '🟠 <move>SpadeSlam</move>', link: '/encyclopedia/Move/ToolMove/Spade/SpadeSlam' },
 //                 { text: '🟠 <move>SpadeStall</move>', link: '/encyclopedia/Move/ToolMove/Spade/SpadeStall' },
 //                 { text: '🟠 <move>SpadeStomp</move>', link: '/encyclopedia/Move/ToolMove/Spade/SpadeStomp' },
-//                 { text: '🟠 <move>SpadeSwing</move>', link: '/encyclopedia/Move/ToolMove/Spade/SpadeSwing' },
+//                 { text: '🟠 <move>SpadeKurve</move>', link: '/encyclopedia/Move/ToolMove/Spade/SpadeKurve' },
 //                 { text: '🟠 <move>SpadeTest</move>', link: '/encyclopedia/Move/ToolMove/Spade/SpadeTest' },
 //                 { text: '❌ <move>SpadeError</move>', link: '/encyclopedia/Move/ToolMove/Spade/SpadeError' },
 //               ]
@@ -605,14 +605,14 @@ export default defineConfig({
 //               ]
 //             },
 //             {
-//               text: '🔻 <via>ViaCurve</via>', link: '/encyclopedia/Via/ViaGeometry/ViaCurve/Overview', collapsed: true, items: [
-//                 { text: '🔻 <via>AroundCurve</via>', link: '/encyclopedia/Via/ViaGeometry/ViaCurve/CircumventCurve' },
-//                 { text: '🔻 <via>GhostLine</via>', link: '/encyclopedia/Via/ViaGeometry/ViaCurve/GhostLine' },
-//                 { text: '🔻 <via>ParallelCurve</via>', link: '/encyclopedia/Via/ViaGeometry/ViaCurve/ParallelCurve' },
-//                 { text: '🔻 <via>PerimeterCurve</via>', link: '/encyclopedia/Via/ViaGeometry/ViaCurve/PerimeterCurve' },
-//                 { text: '🔻 <via>SpiralCurve</via>', link: '/encyclopedia/Via/ViaGeometry/ViaCurve/SpiralCurve' },
-//                 { text: '🔻 <via>TurnAroundCurve</via>', link: '/encyclopedia/Via/ViaGeometry/ViaCurve/TurnAroundCurve' },
-//                 { text: '🔻 <via>ZigzagCurve</via>', link: '/encyclopedia/Via/ViaGeometry/ViaCurve/ZigzagCurve' },
+//               text: '🔻 <via>Line</via>', link: '/encyclopedia/Via/ViaGeometry/Line/Overview', collapsed: true, items: [
+//                 { text: '🔻 <via>AroundCurve</via>', link: '/encyclopedia/Via/ViaGeometry/Line/CircumventCurve' },
+//                 { text: '🔻 <via>GhostLine</via>', link: '/encyclopedia/Via/ViaGeometry/Line/GhostLine' },
+//                 { text: '🔻 <via>ParallelCurve</via>', link: '/encyclopedia/Via/ViaGeometry/Line/ParallelCurve' },
+//                 { text: '🔻 <via>PerimeterCurve</via>', link: '/encyclopedia/Via/ViaGeometry/Line/PerimeterCurve' },
+//                 { text: '🔻 <via>SpiralCurve</via>', link: '/encyclopedia/Via/ViaGeometry/Line/SpiralCurve' },
+//                 { text: '🔻 <via>TurnAroundCurve</via>', link: '/encyclopedia/Via/ViaGeometry/Line/TurnAroundCurve' },
+//                 { text: '🔻 <via>ZigzagCurve</via>', link: '/encyclopedia/Via/ViaGeometry/Line/ZigzagCurve' },
 //               ]
 //             },
 //             {
@@ -625,8 +625,8 @@ export default defineConfig({
 //               ]
 //             },
 //             {
-//               text: '🔻 <via>ViaSurface</via>', link: '/encyclopedia/Via/ViaGeometry/ViaSurface/Overview', collapsed: true, items: [
-//                 { text: '🔻 <via>ViaSurface Texture</via>', link: '/encyclopedia/Via/ViaSurface/ViaSurfaceTexture' },
+//               text: '🔻 <via>Contact</via>', link: '/encyclopedia/Via/ViaGeometry/Contact/Overview', collapsed: true, items: [
+//                 { text: '🔻 <via>Contact Texture</via>', link: '/encyclopedia/Via/Contact/ContactTexture' },
 //               ]
 //             },
 //           ]

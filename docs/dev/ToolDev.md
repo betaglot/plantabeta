@@ -217,15 +217,12 @@ Protein Powder Cookies
 
 ## 🟠<move>PlantorSuitDev</move>
 
-### 🟠<move>UlnorDev</move>
+### 🟠<move>RadiorDev</move>
 
-#### Etimology(Ulnor)
+#### Etymology(Radior)
 
-"Ulna" + "or" :: Agent of Forearm
+"Radius" + "or" :: Agent of Forearm
 
-::: tip AlsoKnownAs
-Bracer, Gauntlet,
-:::
 
 - <https://eu.directactiongear.com/en/grg-pouchr.html#RGR>
 
@@ -275,8 +272,8 @@ SuitParts = [
     'RightVambrace',
     'LeftShoulder',
     'RightShoulder', 
-    'LeftGaiter', 
-    'RightGaiter', 
+    'LeftTibior', 
+    'RightTibior', 
     'Hips',
     'Hat',
     'Neck',
@@ -290,7 +287,7 @@ SuitParts = [
 #### Aliases
 
 - Greaves
-- Gaiter
+- Tibior
 - ShinGuard
 
 #### Etimologi(Tibior)

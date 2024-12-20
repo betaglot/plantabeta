@@ -87,7 +87,7 @@ Trees/Time
 
 ### 🔷<beta>Put(<move>Boot</move>)</beta>
 
-> put your boot onto a ViaSurface
+> put your boot onto a Contact
 
 🟠<move>Step()</move>
 

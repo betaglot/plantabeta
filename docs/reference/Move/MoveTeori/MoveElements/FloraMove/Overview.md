@@ -1,8 +1,10 @@
-# 🟠 <move>PlantMove</move>
+# 🟠 <move>FloraMove</move>
 
-## Plant Anatomy
+## FloraMove.Anatomy
 
-## Plant Attributes
+## FloraMove.Atribut
+
+## FloraMove.Metod
 
 ## 🕸 FloraMove.Skema
 

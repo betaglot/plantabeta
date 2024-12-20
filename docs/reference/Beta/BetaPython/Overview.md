@@ -152,7 +152,7 @@ As you move through the land the EcoState is constantly changing. Remember that 
 - CurrentTheorem
 - Direction
 - ViaDensityState
-- ViaSurfaceState
+- ContactState
 
 ## Stack
 

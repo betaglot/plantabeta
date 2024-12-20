@@ -29,7 +29,14 @@
 <!-- =================================================== -->
 ::: details 🛠 <dev>&&&</dev>
 
--
+- Anatomy
+    - Leaf
+    - Root
+    - Trunk
+    - Stem
+    - Crook
+    - Bifurcation (Fork)
+    - Branch
 
 <h2>PageTags</h2>
 

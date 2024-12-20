@@ -1,6 +1,6 @@
 # 🟩 <eko>Seedling</eko>
 
-Commonly known as a "Tree", even if
+Aliases: Tree, Neophyte
 
 ## Species
 

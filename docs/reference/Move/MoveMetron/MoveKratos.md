@@ -328,7 +328,7 @@ ArmPump
         - RedirectMovement
         - AbsorbMovement
         - Brachiation
-        - LegSwing
+        - LegKurve
             - [Uncut: Decided (8B+/V14) FLASH - Tomoa Narasaki](https://www.youtube.com/watch?v=gBWjmjwpcc0)
                 - (0:30)
         - AbsorbMovement

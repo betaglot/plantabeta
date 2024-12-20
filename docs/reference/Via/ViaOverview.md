@@ -117,7 +117,7 @@ FillPlant
 
 ## Via Scope
 
-PieceCover > AreaCover > ViaCurve > ViaPoint
+PieceCover > AreaCover > Line > ViaPoint
 
 ## Direction
 
@@ -188,12 +188,12 @@ Directions
 
 Eko is decomposed by composing a Via
 
-- Compose ViaCurves, ViaSpaces and ViaPoints together to Cover Land
+- Compose Lines, ViaSpaces and ViaPoints together to Cover Land
 - Fit the ViaFactors together
-- ViaCurves within ViaSpaces
+- Lines within ViaSpaces
     - Walking through a Space between Trees.
     - EcoSpace is everywhere, ViaSpace are only the Spaces which are not obstructed.
-- ViaPoints within ViaCurves
+- ViaPoints within Lines
 
 - ViaSelection
 - Cutting through residual is Via

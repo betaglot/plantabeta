@@ -71,6 +71,7 @@
 <!-- =================================================== -->
 ::: details 🛠 <dev>&&&</dev>
 
+- StiffArm Flora
 - CacheMove
     - ArmProp during BagLoad
 - What determines ArmAngle to maintain Spine Position?

@@ -440,7 +440,7 @@ It doesn't matter if nobody looks at it.
 
 ```py
 
-ArmSwing.SuperMove = ArmMove
+ArmKurve.SuperMove = ArmMove
 
 ```
 

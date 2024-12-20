@@ -1,8 +1,8 @@
-# 🟠 <move>SpadeShaftGrip</move>
+# 🟠 <move>SpadeCollarGrip</move>
 
 ![MoveIkon](/Move/Move_Ikon.png)
 
-## 🕸 SpadeShaftGrip.Skema
+## 🕸 SpadeCollarGrip.Skema
 
 ### Related 🟩<eko>Eko</eko>
 
@@ -33,5 +33,5 @@
 
 <h2>PageTags</h2>
 
-- "Move.HandMove.SpadeShaftGrip"
+- "Move.HandMove.SpadeCollarGrip"
 :::

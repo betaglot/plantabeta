@@ -65,7 +65,7 @@ Group of Cards
 
 A Vuetify Component
 
-MoveCards are positioned along a ViaCurve
+MoveCards are positioned along a Line
 
 ### CardShape
 

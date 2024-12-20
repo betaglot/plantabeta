@@ -1,10 +1,11 @@
-# 🟠 <move>Spade Overview</move>
+# 🟠 <move>SpadeMove</move>
 
-## DorySpade
+## SpadeMove.Anatomy
 
-## HandleSpade
-
-## Spade Anatomy
+- Blade
+- Collar
+- Shaft
+- Handle
 
 ## Spade Attributes
 

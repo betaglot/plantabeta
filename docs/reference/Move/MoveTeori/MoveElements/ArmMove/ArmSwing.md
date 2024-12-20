@@ -1,8 +1,8 @@
-# 🟠 <move>ArmSwing</move>
+# 🟠 <move>ArmKurve</move>
 
 ![MoveIkon](/Move/Move_Ikon.png)
 
-## 🕸 ArmSwing.Skema
+## 🕸 ArmKurve.Skema
 
 ### Related 🟩<eko>Eko</eko>
 
@@ -36,6 +36,6 @@
 
 <h2>PageTags</h2>
 
-- "Move.ArmMove.ArmSwing"
+- "Move.ArmMove.ArmKurve"
 
 :::

@@ -870,39 +870,39 @@ data = [
         "TagName": "Move.ArmMove.ArmProp"
     },
     {
-        "PagePath": "Move/ArmMove/ArmSwing.md",
+        "PagePath": "Move/ArmMove/ArmKurve.md",
         "PaperPhoto": "0548.jpg",
-        "TagName": "Move.ArmMove.ArmSwing"
+        "TagName": "Move.ArmMove.ArmKurve"
     },
     {
-        "PagePath": "Move/ArmMove/ArmSwing.md",
+        "PagePath": "Move/ArmMove/ArmKurve.md",
         "PaperPhoto": "1357.jpg",
-        "TagName": "Move.ArmMove.ArmSwing"
+        "TagName": "Move.ArmMove.ArmKurve"
     },
     {
-        "PagePath": "Move/ArmMove/ArmSwing.md",
+        "PagePath": "Move/ArmMove/ArmKurve.md",
         "PaperPhoto": "1815.jpg",
-        "TagName": "Move.ArmMove.ArmSwing"
+        "TagName": "Move.ArmMove.ArmKurve"
     },
     {
-        "PagePath": "Move/ArmMove/ArmSwing.md",
+        "PagePath": "Move/ArmMove/ArmKurve.md",
         "PaperPhoto": "1824.jpg",
-        "TagName": "Move.ArmMove.ArmSwing"
+        "TagName": "Move.ArmMove.ArmKurve"
     },
     {
-        "PagePath": "Move/ArmMove/ArmSwing.md",
+        "PagePath": "Move/ArmMove/ArmKurve.md",
         "PaperPhoto": "2033.jpg",
-        "TagName": "Move.ArmMove.ArmSwing"
+        "TagName": "Move.ArmMove.ArmKurve"
     },
     {
-        "PagePath": "Move/ArmMove/ArmSwing.md",
+        "PagePath": "Move/ArmMove/ArmKurve.md",
         "PaperPhoto": "2948.jpg",
-        "TagName": "Move.ArmMove.ArmSwing"
+        "TagName": "Move.ArmMove.ArmKurve"
     },
     {
-        "PagePath": "Move/ArmMove/ArmSwing.md",
+        "PagePath": "Move/ArmMove/ArmKurve.md",
         "PaperPhoto": "3222.jpg",
-        "TagName": "Move.ArmMove.ArmSwing"
+        "TagName": "Move.ArmMove.ArmKurve"
     },
     {
         "PagePath": "Move/ArmMove/Overview.md",
@@ -1885,29 +1885,29 @@ data = [
         "TagName": "Move.LegMove.LegProp"
     },
     {
-        "PagePath": "Move/LegMove/LegSwing.md",
+        "PagePath": "Move/LegMove/LegKurve.md",
         "PaperPhoto": "1022.jpg",
-        "TagName": "Move.LegMove.LegSwing"
+        "TagName": "Move.LegMove.LegKurve"
     },
     {
-        "PagePath": "Move/LegMove/LegSwing.md",
+        "PagePath": "Move/LegMove/LegKurve.md",
         "PaperPhoto": "1059.jpg",
-        "TagName": "Move.LegMove.LegSwing"
+        "TagName": "Move.LegMove.LegKurve"
     },
     {
-        "PagePath": "Move/LegMove/LegSwing.md",
+        "PagePath": "Move/LegMove/LegKurve.md",
         "PaperPhoto": "1379.jpg",
-        "TagName": "Move.LegMove.LegSwing"
+        "TagName": "Move.LegMove.LegKurve"
     },
     {
-        "PagePath": "Move/LegMove/LegSwing.md",
+        "PagePath": "Move/LegMove/LegKurve.md",
         "PaperPhoto": "2338.jpg",
-        "TagName": "Move.LegMove.LegSwing"
+        "TagName": "Move.LegMove.LegKurve"
     },
     {
-        "PagePath": "Move/LegMove/LegSwing.md",
+        "PagePath": "Move/LegMove/LegKurve.md",
         "PaperPhoto": "3222.jpg",
-        "TagName": "Move.LegMove.LegSwing"
+        "TagName": "Move.LegMove.LegKurve"
     },
     {
         "PagePath": "Move/LegMove/Overview.md",
@@ -4935,19 +4935,19 @@ data = [
         "TagName": "Move.ToolMove.MarkaMove.Overview"
     },
     {
-        "PagePath": "Move/ToolMove/Gaiter/Overview.md",
+        "PagePath": "Move/ToolMove/Tibior/Overview.md",
         "PaperPhoto": "Video_002.mp4",
-        "TagName": "Move.ToolMove.GaiterMove.Overview"
+        "TagName": "Move.ToolMove.TibiorMove.Overview"
     },
     {
-        "PagePath": "Move/ToolMove/Gaiter/Overview.md",
+        "PagePath": "Move/ToolMove/Tibior/Overview.md",
         "PaperPhoto": "Video_006.mp4",
-        "TagName": "Move.ToolMove.GaiterMove.Overview"
+        "TagName": "Move.ToolMove.TibiorMove.Overview"
     },
     {
-        "PagePath": "Move/ToolMove/Gaiter/Overview.md",
+        "PagePath": "Move/ToolMove/Tibior/Overview.md",
         "PaperPhoto": "Video_015.mp4",
-        "TagName": "Move.ToolMove.GaiterMove.Overview"
+        "TagName": "Move.ToolMove.TibiorMove.Overview"
     },
     {
         "PagePath": "Move/ToolMove/Glove/Overview.md",
@@ -5065,9 +5065,9 @@ data = [
         "TagName": "Move.ToolMove.SpadeMove.SpadeSlam"
     },
     {
-        "PagePath": "Move/ToolMove/Spade/SpadeSwing.md",
+        "PagePath": "Move/ToolMove/Spade/SpadeKurve.md",
         "PaperPhoto": "1259.jpg",
-        "TagName": "Move.ToolMove.SpadeMove.SpadeSwing"
+        "TagName": "Move.ToolMove.SpadeMove.SpadeKurve"
     },
     {
         "PagePath": "Move/ToolMove/Spade/SpadeTest.md",
@@ -7260,659 +7260,659 @@ data = [
         "TagName": "Via.TeamCover.Overview"
     },
     {
-        "PagePath": "Via/ViaCurve/Overview.md",
+        "PagePath": "Via/Line/Overview.md",
         "PaperPhoto": "0034.jpg",
-        "TagName": "Via.ViaGeometry.ViaCurve.PerimeterLine"
+        "TagName": "Via.ViaGeometry.Line.PerimeterLine"
     },
     {
-        "PagePath": "Via/ViaCurve/Overview.md",
+        "PagePath": "Via/Line/Overview.md",
         "PaperPhoto": "0051.jpg",
-        "TagName": "Via.ViaGeometry.ViaCurve.Overview"
+        "TagName": "Via.ViaGeometry.Line.Overview"
     },
     {
-        "PagePath": "Via/ViaCurve/Overview.md",
+        "PagePath": "Via/Line/Overview.md",
         "PaperPhoto": "0051.jpg",
-        "TagName": "Via.ViaGeometry.ViaCurve.SpiralLine"
+        "TagName": "Via.ViaGeometry.Line.SpiralLine"
     },
     {
-        "PagePath": "Via/ViaCurve/Overview.md",
+        "PagePath": "Via/Line/Overview.md",
         "PaperPhoto": "0334.jpg",
-        "TagName": "Via.ViaGeometry.ViaCurve.Overview"
+        "TagName": "Via.ViaGeometry.Line.Overview"
     },
     {
-        "PagePath": "Via/ViaCurve/Overview.md",
+        "PagePath": "Via/Line/Overview.md",
         "PaperPhoto": "0446.jpg",
-        "TagName": "Via.ViaGeometry.ViaCurve.SpiralLine"
+        "TagName": "Via.ViaGeometry.Line.SpiralLine"
     },
     {
-        "PagePath": "Via/ViaCurve/Overview.md",
+        "PagePath": "Via/Line/Overview.md",
         "PaperPhoto": "0513.jpg",
-        "TagName": "Via.ViaGeometry.ViaCurve.BagUpLine"
+        "TagName": "Via.ViaGeometry.Line.BagUpLine"
     },
     {
-        "PagePath": "Via/ViaCurve/Overview.md",
+        "PagePath": "Via/Line/Overview.md",
         "PaperPhoto": "0513.jpg",
-        "TagName": "Via.ViaGeometry.ViaCurve.BoundaryLine.ArtificialBoundaryLine"
+        "TagName": "Via.ViaGeometry.Line.BoundaryLine.ArtificialBoundaryLine"
     },
     {
-        "PagePath": "Via/ViaCurve/Overview.md",
+        "PagePath": "Via/Line/Overview.md",
         "PaperPhoto": "0513.jpg",
-        "TagName": "Via.ViaGeometry.ViaCurve.BoundaryLine.NaturalBoundaryLine"
+        "TagName": "Via.ViaGeometry.Line.BoundaryLine.NaturalBoundaryLine"
     },
     {
-        "PagePath": "Via/ViaCurve/Overview.md",
+        "PagePath": "Via/Line/Overview.md",
         "PaperPhoto": "0513.jpg",
-        "TagName": "Via.ViaGeometry.ViaCurve.LineIn"
+        "TagName": "Via.ViaGeometry.Line.LineIn"
     },
     {
-        "PagePath": "Via/ViaCurve/Overview.md",
+        "PagePath": "Via/Line/Overview.md",
         "PaperPhoto": "0513.jpg",
-        "TagName": "Via.ViaGeometry.ViaCurve.Overview"
+        "TagName": "Via.ViaGeometry.Line.Overview"
     },
     {
-        "PagePath": "Via/ViaCurve/Overview.md",
+        "PagePath": "Via/Line/Overview.md",
         "PaperPhoto": "0548.jpg",
-        "TagName": "Via.ViaGeometry.ViaCurve.ViaDisplacementLine"
+        "TagName": "Via.ViaGeometry.Line.ViaDisplacementLine"
     },
     {
-        "PagePath": "Via/ViaCurve/Overview.md",
+        "PagePath": "Via/Line/Overview.md",
         "PaperPhoto": "0756.jpg",
-        "TagName": "Via.ViaGeometry.ViaCurve.ViaDisplacementLine"
+        "TagName": "Via.ViaGeometry.Line.ViaDisplacementLine"
     },
     {
-        "PagePath": "Via/ViaCurve/Overview.md",
+        "PagePath": "Via/Line/Overview.md",
         "PaperPhoto": "0826.jpg",
-        "TagName": "Via.ViaGeometry.ViaCurve.ViaLinearLine"
+        "TagName": "Via.ViaGeometry.Line.ViaLinearLine"
     },
     {
-        "PagePath": "Via/ViaCurve/Overview.md",
+        "PagePath": "Via/Line/Overview.md",
         "PaperPhoto": "1017.jpg",
-        "TagName": "Via.ViaGeometry.ViaCurve.CircumventLine"
+        "TagName": "Via.ViaGeometry.Line.CircumventLine"
     },
     {
-        "PagePath": "Via/ViaCurve/Overview.md",
+        "PagePath": "Via/Line/Overview.md",
         "PaperPhoto": "1017.jpg",
-        "TagName": "Via.ViaGeometry.ViaCurve.ViaDistanceLine.ViaCircuitLine"
+        "TagName": "Via.ViaGeometry.Line.ViaDistanceLine.ViaCircuitLine"
     },
     {
-        "PagePath": "Via/ViaCurve/Overview.md",
+        "PagePath": "Via/Line/Overview.md",
         "PaperPhoto": "1022.jpg",
-        "TagName": "Via.ViaGeometry.ViaCurve.ViaDisplacementLine"
+        "TagName": "Via.ViaGeometry.Line.ViaDisplacementLine"
     },
     {
-        "PagePath": "Via/ViaCurve/Overview.md",
+        "PagePath": "Via/Line/Overview.md",
         "PaperPhoto": "1022.jpg",
-        "TagName": "Via.ViaGeometry.ViaCurve.ViaLinearLine"
+        "TagName": "Via.ViaGeometry.Line.ViaLinearLine"
     },
     {
-        "PagePath": "Via/ViaCurve/Overview.md",
+        "PagePath": "Via/Line/Overview.md",
         "PaperPhoto": "1027.jpg",
-        "TagName": "Via.ViaGeometry.ViaCurve.BoundaryLine.ArtificialBoundaryLine"
+        "TagName": "Via.ViaGeometry.Line.BoundaryLine.ArtificialBoundaryLine"
     },
     {
-        "PagePath": "Via/ViaCurve/Overview.md",
+        "PagePath": "Via/Line/Overview.md",
         "PaperPhoto": "1027.jpg",
-        "TagName": "Via.ViaGeometry.ViaCurve.BoundaryLine.NaturalBoundaryLine"
+        "TagName": "Via.ViaGeometry.Line.BoundaryLine.NaturalBoundaryLine"
     },
     {
-        "PagePath": "Via/ViaCurve/Overview.md",
+        "PagePath": "Via/Line/Overview.md",
         "PaperPhoto": "1044.jpg",
-        "TagName": "Via.ViaGeometry.ViaCurve.Overview"
+        "TagName": "Via.ViaGeometry.Line.Overview"
     },
     {
-        "PagePath": "Via/ViaCurve/Overview.md",
+        "PagePath": "Via/Line/Overview.md",
         "PaperPhoto": "1044.jpg",
-        "TagName": "Via.ViaGeometry.ViaCurve.ViaDisplacementLine"
+        "TagName": "Via.ViaGeometry.Line.ViaDisplacementLine"
     },
     {
-        "PagePath": "Via/ViaCurve/Overview.md",
+        "PagePath": "Via/Line/Overview.md",
         "PaperPhoto": "1044.jpg",
-        "TagName": "Via.ViaGeometry.ViaCurve.ViaLinearLine"
+        "TagName": "Via.ViaGeometry.Line.ViaLinearLine"
     },
     {
-        "PagePath": "Via/ViaCurve/Overview.md",
+        "PagePath": "Via/Line/Overview.md",
         "PaperPhoto": "1044.jpg",
-        "TagName": "Via.ViaGeometry.ViaCurve.ViaReferenceLine"
+        "TagName": "Via.ViaGeometry.Line.ViaReferenceLine"
     },
     {
-        "PagePath": "Via/ViaCurve/Overview.md",
+        "PagePath": "Via/Line/Overview.md",
         "PaperPhoto": "1096.jpg",
-        "TagName": "Via.ViaGeometry.ViaCurve.Overview"
+        "TagName": "Via.ViaGeometry.Line.Overview"
     },
     {
-        "PagePath": "Via/ViaCurve/Overview.md",
+        "PagePath": "Via/Line/Overview.md",
         "PaperPhoto": "1098.jpg",
-        "TagName": "Via.ViaGeometry.ViaCurve.Overview"
+        "TagName": "Via.ViaGeometry.Line.Overview"
     },
     {
-        "PagePath": "Via/ViaCurve/Overview.md",
+        "PagePath": "Via/Line/Overview.md",
         "PaperPhoto": "1105.jpg",
-        "TagName": "Via.ViaGeometry.ViaCurve.ViaReferenceLine"
+        "TagName": "Via.ViaGeometry.Line.ViaReferenceLine"
     },
     {
-        "PagePath": "Via/ViaCurve/Overview.md",
+        "PagePath": "Via/Line/Overview.md",
         "PaperPhoto": "1113.jpg",
-        "TagName": "Via.ViaGeometry.ViaCurve.ParallelLine"
+        "TagName": "Via.ViaGeometry.Line.ParallelLine"
     },
     {
-        "PagePath": "Via/ViaCurve/Overview.md",
+        "PagePath": "Via/Line/Overview.md",
         "PaperPhoto": "1117.jpg",
-        "TagName": "Via.ViaGeometry.ViaCurve.ParallelLine"
+        "TagName": "Via.ViaGeometry.Line.ParallelLine"
     },
     {
-        "PagePath": "Via/ViaCurve/Overview.md",
+        "PagePath": "Via/Line/Overview.md",
         "PaperPhoto": "1117.jpg",
-        "TagName": "Via.ViaGeometry.ViaCurve.ViaLineOverlap"
+        "TagName": "Via.ViaGeometry.Line.ViaLineOverlap"
     },
     {
-        "PagePath": "Via/ViaCurve/Overview.md",
+        "PagePath": "Via/Line/Overview.md",
         "PaperPhoto": "1117.jpg",
-        "TagName": "Via.ViaGeometry.ViaCurve.ViaLinearLine"
+        "TagName": "Via.ViaGeometry.Line.ViaLinearLine"
     },
     {
-        "PagePath": "Via/ViaCurve/Overview.md",
+        "PagePath": "Via/Line/Overview.md",
         "PaperPhoto": "1259.jpg",
-        "TagName": "Via.ViaGeometry.ViaCurve.Overview"
+        "TagName": "Via.ViaGeometry.Line.Overview"
     },
     {
-        "PagePath": "Via/ViaCurve/Overview.md",
+        "PagePath": "Via/Line/Overview.md",
         "PaperPhoto": "1375.jpg",
-        "TagName": "Via.ViaGeometry.ViaCurve.AdvancingMove"
+        "TagName": "Via.ViaGeometry.Line.AdvancingMove"
     },
     {
-        "PagePath": "Via/ViaCurve/Overview.md",
+        "PagePath": "Via/Line/Overview.md",
         "PaperPhoto": "1409.jpg",
-        "TagName": "Via.ViaGeometry.ViaCurve.ViaLinearLine"
+        "TagName": "Via.ViaGeometry.Line.ViaLinearLine"
     },
     {
-        "PagePath": "Via/ViaCurve/Overview.md",
+        "PagePath": "Via/Line/Overview.md",
         "PaperPhoto": "1447.jpg",
-        "TagName": "Via.ViaGeometry.ViaCurve.Overview"
+        "TagName": "Via.ViaGeometry.Line.Overview"
     },
     {
-        "PagePath": "Via/ViaCurve/Overview.md",
+        "PagePath": "Via/Line/Overview.md",
         "PaperPhoto": "1459.jpg",
-        "TagName": "Via.ViaGeometry.ViaCurve.ViaReferenceLine"
+        "TagName": "Via.ViaGeometry.Line.ViaReferenceLine"
     },
     {
-        "PagePath": "Via/ViaCurve/Overview.md",
+        "PagePath": "Via/Line/Overview.md",
         "PaperPhoto": "1468.jpg",
-        "TagName": "Via.ViaGeometry.ViaCurve.ViaLineOverlap"
+        "TagName": "Via.ViaGeometry.Line.ViaLineOverlap"
     },
     {
-        "PagePath": "Via/ViaCurve/Overview.md",
+        "PagePath": "Via/Line/Overview.md",
         "PaperPhoto": "1493.jpg",
-        "TagName": "Via.ViaGeometry.ViaCurve.Overview"
+        "TagName": "Via.ViaGeometry.Line.Overview"
     },
     {
-        "PagePath": "Via/ViaCurve/Overview.md",
+        "PagePath": "Via/Line/Overview.md",
         "PaperPhoto": "1502.jpg",
-        "TagName": "Via.ViaGeometry.ViaCurve.Overview"
+        "TagName": "Via.ViaGeometry.Line.Overview"
     },
     {
-        "PagePath": "Via/ViaCurve/Overview.md",
+        "PagePath": "Via/Line/Overview.md",
         "PaperPhoto": "1502.jpg",
-        "TagName": "Via.ViaGeometry.ViaCurve.ViaReferenceLine"
+        "TagName": "Via.ViaGeometry.Line.ViaReferenceLine"
     },
     {
-        "PagePath": "Via/ViaCurve/Overview.md",
+        "PagePath": "Via/Line/Overview.md",
         "PaperPhoto": "1519.jpg",
-        "TagName": "Via.ViaGeometry.ViaCurve.Overview"
+        "TagName": "Via.ViaGeometry.Line.Overview"
     },
     {
-        "PagePath": "Via/ViaCurve/Overview.md",
+        "PagePath": "Via/Line/Overview.md",
         "PaperPhoto": "1521.jpg",
-        "TagName": "Via.ViaGeometry.ViaCurve.ViaReferenceLine"
+        "TagName": "Via.ViaGeometry.Line.ViaReferenceLine"
     },
     {
-        "PagePath": "Via/ViaCurve/Overview.md",
+        "PagePath": "Via/Line/Overview.md",
         "PaperPhoto": "1522.jpg",
-        "TagName": "Via.ViaGeometry.ViaCurve.Overview"
+        "TagName": "Via.ViaGeometry.Line.Overview"
     },
     {
-        "PagePath": "Via/ViaCurve/Overview.md",
+        "PagePath": "Via/Line/Overview.md",
         "PaperPhoto": "1522.jpg",
-        "TagName": "Via.ViaGeometry.ViaCurve.ViaReferenceLine"
+        "TagName": "Via.ViaGeometry.Line.ViaReferenceLine"
     },
     {
-        "PagePath": "Via/ViaCurve/Overview.md",
+        "PagePath": "Via/Line/Overview.md",
         "PaperPhoto": "1527.jpg",
-        "TagName": "Via.ViaGeometry.ViaCurve.BoundaryLine.ArtificialBoundaryLine"
+        "TagName": "Via.ViaGeometry.Line.BoundaryLine.ArtificialBoundaryLine"
     },
     {
-        "PagePath": "Via/ViaCurve/Overview.md",
+        "PagePath": "Via/Line/Overview.md",
         "PaperPhoto": "1527.jpg",
-        "TagName": "Via.ViaGeometry.ViaCurve.BoundaryLine.NaturalBoundaryLine"
+        "TagName": "Via.ViaGeometry.Line.BoundaryLine.NaturalBoundaryLine"
     },
     {
-        "PagePath": "Via/ViaCurve/Overview.md",
+        "PagePath": "Via/Line/Overview.md",
         "PaperPhoto": "1527.jpg",
-        "TagName": "Via.ViaGeometry.ViaCurve.ViaReferenceLine"
+        "TagName": "Via.ViaGeometry.Line.ViaReferenceLine"
     },
     {
-        "PagePath": "Via/ViaCurve/Overview.md",
+        "PagePath": "Via/Line/Overview.md",
         "PaperPhoto": "1540.jpg",
-        "TagName": "Via.ViaGeometry.ViaCurve.CircumventLine"
+        "TagName": "Via.ViaGeometry.Line.CircumventLine"
     },
     {
-        "PagePath": "Via/ViaCurve/Overview.md",
+        "PagePath": "Via/Line/Overview.md",
         "PaperPhoto": "1540.jpg",
-        "TagName": "Via.ViaGeometry.ViaCurve.Overview"
+        "TagName": "Via.ViaGeometry.Line.Overview"
     },
     {
-        "PagePath": "Via/ViaCurve/Overview.md",
+        "PagePath": "Via/Line/Overview.md",
         "PaperPhoto": "1540.jpg",
-        "TagName": "Via.ViaGeometry.ViaCurve.ViaMirrorLine"
+        "TagName": "Via.ViaGeometry.Line.ViaMirrorLine"
     },
     {
-        "PagePath": "Via/ViaCurve/Overview.md",
+        "PagePath": "Via/Line/Overview.md",
         "PaperPhoto": "1554.jpg",
-        "TagName": "Via.ViaGeometry.ViaCurve.Overview"
+        "TagName": "Via.ViaGeometry.Line.Overview"
     },
     {
-        "PagePath": "Via/ViaCurve/Overview.md",
+        "PagePath": "Via/Line/Overview.md",
         "PaperPhoto": "1554.jpg",
-        "TagName": "Via.ViaGeometry.ViaCurve.ParallelLine"
+        "TagName": "Via.ViaGeometry.Line.ParallelLine"
     },
     {
-        "PagePath": "Via/ViaCurve/Overview.md",
+        "PagePath": "Via/Line/Overview.md",
         "PaperPhoto": "1571.jpg",
-        "TagName": "Via.ViaGeometry.ViaCurve.Overview"
+        "TagName": "Via.ViaGeometry.Line.Overview"
     },
     {
-        "PagePath": "Via/ViaCurve/Overview.md",
+        "PagePath": "Via/Line/Overview.md",
         "PaperPhoto": "1581.jpg",
-        "TagName": "Via.ViaGeometry.ViaCurve.Overview"
+        "TagName": "Via.ViaGeometry.Line.Overview"
     },
     {
-        "PagePath": "Via/ViaCurve/Overview.md",
+        "PagePath": "Via/Line/Overview.md",
         "PaperPhoto": "1585.jpg",
-        "TagName": "Via.ViaGeometry.ViaCurve.Overview"
+        "TagName": "Via.ViaGeometry.Line.Overview"
     },
     {
-        "PagePath": "Via/ViaCurve/Overview.md",
+        "PagePath": "Via/Line/Overview.md",
         "PaperPhoto": "1585.jpg",
-        "TagName": "Via.ViaGeometry.ViaCurve.ViaDisplacementLine"
+        "TagName": "Via.ViaGeometry.Line.ViaDisplacementLine"
     },
     {
-        "PagePath": "Via/ViaCurve/Overview.md",
+        "PagePath": "Via/Line/Overview.md",
         "PaperPhoto": "1585.jpg",
-        "TagName": "Via.ViaGeometry.ViaCurve.ViaDistanceLine.ViaCircuitLine"
+        "TagName": "Via.ViaGeometry.Line.ViaDistanceLine.ViaCircuitLine"
     },
     {
-        "PagePath": "Via/ViaCurve/Overview.md",
+        "PagePath": "Via/Line/Overview.md",
         "PaperPhoto": "1658.jpg",
-        "TagName": "Via.ViaGeometry.ViaCurve.Overview"
+        "TagName": "Via.ViaGeometry.Line.Overview"
     },
     {
-        "PagePath": "Via/ViaCurve/Overview.md",
+        "PagePath": "Via/Line/Overview.md",
         "PaperPhoto": "1699.jpg",
-        "TagName": "Via.ViaGeometry.ViaCurve.Overview"
+        "TagName": "Via.ViaGeometry.Line.Overview"
     },
     {
-        "PagePath": "Via/ViaCurve/Overview.md",
+        "PagePath": "Via/Line/Overview.md",
         "PaperPhoto": "1702.jpg",
-        "TagName": "Via.ViaGeometry.ViaCurve.Overview"
+        "TagName": "Via.ViaGeometry.Line.Overview"
     },
     {
-        "PagePath": "Via/ViaCurve/Overview.md",
+        "PagePath": "Via/Line/Overview.md",
         "PaperPhoto": "1707.jpg",
-        "TagName": "Via.ViaGeometry.ViaCurve.Overview"
+        "TagName": "Via.ViaGeometry.Line.Overview"
     },
     {
-        "PagePath": "Via/ViaCurve/Overview.md",
+        "PagePath": "Via/Line/Overview.md",
         "PaperPhoto": "1730.jpg",
-        "TagName": "Via.ViaGeometry.ViaCurve.Overview"
+        "TagName": "Via.ViaGeometry.Line.Overview"
     },
     {
-        "PagePath": "Via/ViaCurve/Overview.md",
+        "PagePath": "Via/Line/Overview.md",
         "PaperPhoto": "1730.jpg",
-        "TagName": "Via.ViaGeometry.ViaCurve.ViaLineOverlap"
+        "TagName": "Via.ViaGeometry.Line.ViaLineOverlap"
     },
     {
-        "PagePath": "Via/ViaCurve/Overview.md",
+        "PagePath": "Via/Line/Overview.md",
         "PaperPhoto": "1796.jpg",
-        "TagName": "Via.ViaGeometry.ViaCurve.ViaLineOverlap"
+        "TagName": "Via.ViaGeometry.Line.ViaLineOverlap"
     },
     {
-        "PagePath": "Via/ViaCurve/Overview.md",
+        "PagePath": "Via/Line/Overview.md",
         "PaperPhoto": "1809.jpg",
-        "TagName": "Via.ViaGeometry.ViaCurve.ViaLineOverlap"
+        "TagName": "Via.ViaGeometry.Line.ViaLineOverlap"
     },
     {
-        "PagePath": "Via/ViaCurve/Overview.md",
+        "PagePath": "Via/Line/Overview.md",
         "PaperPhoto": "1852.jpg",
-        "TagName": "Via.ViaGeometry.ViaCurve.ViaDisplacementLine"
+        "TagName": "Via.ViaGeometry.Line.ViaDisplacementLine"
     },
     {
-        "PagePath": "Via/ViaCurve/Overview.md",
+        "PagePath": "Via/Line/Overview.md",
         "PaperPhoto": "1859.jpg",
-        "TagName": "Via.ViaGeometry.ViaCurve.ViaDisplacementLine"
+        "TagName": "Via.ViaGeometry.Line.ViaDisplacementLine"
     },
     {
-        "PagePath": "Via/ViaCurve/Overview.md",
+        "PagePath": "Via/Line/Overview.md",
         "PaperPhoto": "1859.jpg",
-        "TagName": "Via.ViaGeometry.ViaCurve.ViaDistanceLine"
+        "TagName": "Via.ViaGeometry.Line.ViaDistanceLine"
     },
     {
-        "PagePath": "Via/ViaCurve/Overview.md",
+        "PagePath": "Via/Line/Overview.md",
         "PaperPhoto": "2254.jpg",
-        "TagName": "Via.ViaGeometry.ViaCurve.ViaDisplacementLine"
+        "TagName": "Via.ViaGeometry.Line.ViaDisplacementLine"
     },
     {
-        "PagePath": "Via/ViaCurve/Overview.md",
+        "PagePath": "Via/Line/Overview.md",
         "PaperPhoto": "2254.jpg",
-        "TagName": "Via.ViaGeometry.ViaCurve.ViaDistanceLine"
+        "TagName": "Via.ViaGeometry.Line.ViaDistanceLine"
     },
     {
-        "PagePath": "Via/ViaCurve/Overview.md",
+        "PagePath": "Via/Line/Overview.md",
         "PaperPhoto": "2355.jpg",
-        "TagName": "Via.ViaGeometry.ViaCurve.ViaDisplacementLine"
+        "TagName": "Via.ViaGeometry.Line.ViaDisplacementLine"
     },
     {
-        "PagePath": "Via/ViaCurve/Overview.md",
+        "PagePath": "Via/Line/Overview.md",
         "PaperPhoto": "2355.jpg",
-        "TagName": "Via.ViaGeometry.ViaCurve.ViaDistanceLine"
+        "TagName": "Via.ViaGeometry.Line.ViaDistanceLine"
     },
     {
-        "PagePath": "Via/ViaCurve/Overview.md",
+        "PagePath": "Via/Line/Overview.md",
         "PaperPhoto": "2406.jpg",
-        "TagName": "Via.ViaGeometry.ViaCurve.ViaDisplacementLine"
+        "TagName": "Via.ViaGeometry.Line.ViaDisplacementLine"
     },
     {
-        "PagePath": "Via/ViaCurve/Overview.md",
+        "PagePath": "Via/Line/Overview.md",
         "PaperPhoto": "2457.jpg",
-        "TagName": "Via.ViaGeometry.ViaCurve.ParallelLine"
+        "TagName": "Via.ViaGeometry.Line.ParallelLine"
     },
     {
-        "PagePath": "Via/ViaCurve/Overview.md",
+        "PagePath": "Via/Line/Overview.md",
         "PaperPhoto": "2469.jpg",
-        "TagName": "Via.ViaGeometry.ViaCurve.Overview"
+        "TagName": "Via.ViaGeometry.Line.Overview"
     },
     {
-        "PagePath": "Via/ViaCurve/Overview.md",
+        "PagePath": "Via/Line/Overview.md",
         "PaperPhoto": "2496.jpg",
-        "TagName": "Via.ViaGeometry.ViaCurve.CircumventLine"
+        "TagName": "Via.ViaGeometry.Line.CircumventLine"
     },
     {
-        "PagePath": "Via/ViaCurve/Overview.md",
+        "PagePath": "Via/Line/Overview.md",
         "PaperPhoto": "2496.jpg",
-        "TagName": "Via.ViaGeometry.ViaCurve.Overview"
+        "TagName": "Via.ViaGeometry.Line.Overview"
     },
     {
-        "PagePath": "Via/ViaCurve/Overview.md",
+        "PagePath": "Via/Line/Overview.md",
         "PaperPhoto": "2513.jpg",
-        "TagName": "Via.ViaGeometry.ViaCurve.ViaDisplacementLine"
+        "TagName": "Via.ViaGeometry.Line.ViaDisplacementLine"
     },
     {
-        "PagePath": "Via/ViaCurve/Overview.md",
+        "PagePath": "Via/Line/Overview.md",
         "PaperPhoto": "2513.jpg",
-        "TagName": "Via.ViaGeometry.ViaCurve.ViaDistanceLine"
+        "TagName": "Via.ViaGeometry.Line.ViaDistanceLine"
     },
     {
-        "PagePath": "Via/ViaCurve/Overview.md",
+        "PagePath": "Via/Line/Overview.md",
         "PaperPhoto": "2531.jpg",
-        "TagName": "Via.ViaGeometry.ViaCurve.Overview"
+        "TagName": "Via.ViaGeometry.Line.Overview"
     },
     {
-        "PagePath": "Via/ViaCurve/Overview.md",
+        "PagePath": "Via/Line/Overview.md",
         "PaperPhoto": "2834.jpg",
-        "TagName": "Via.ViaGeometry.ViaCurve.Overview"
+        "TagName": "Via.ViaGeometry.Line.Overview"
     },
     {
-        "PagePath": "Via/ViaCurve/Overview.md",
+        "PagePath": "Via/Line/Overview.md",
         "PaperPhoto": "2868.jpg",
-        "TagName": "Via.ViaGeometry.ViaCurve.Overview"
+        "TagName": "Via.ViaGeometry.Line.Overview"
     },
     {
-        "PagePath": "Via/ViaCurve/Overview.md",
+        "PagePath": "Via/Line/Overview.md",
         "PaperPhoto": "2917.jpg",
-        "TagName": "Via.ViaGeometry.ViaCurve.ViaDisplacementLine"
+        "TagName": "Via.ViaGeometry.Line.ViaDisplacementLine"
     },
     {
-        "PagePath": "Via/ViaCurve/Overview.md",
+        "PagePath": "Via/Line/Overview.md",
         "PaperPhoto": "2917.jpg",
-        "TagName": "Via.ViaGeometry.ViaCurve.ViaDistanceLine"
+        "TagName": "Via.ViaGeometry.Line.ViaDistanceLine"
     },
     {
-        "PagePath": "Via/ViaCurve/Overview.md",
+        "PagePath": "Via/Line/Overview.md",
         "PaperPhoto": "2934.jpg",
-        "TagName": "Via.ViaGeometry.ViaCurve.CircumventLine"
+        "TagName": "Via.ViaGeometry.Line.CircumventLine"
     },
     {
-        "PagePath": "Via/ViaCurve/Overview.md",
+        "PagePath": "Via/Line/Overview.md",
         "PaperPhoto": "2934.jpg",
-        "TagName": "Via.ViaGeometry.ViaCurve.Overview"
+        "TagName": "Via.ViaGeometry.Line.Overview"
     },
     {
-        "PagePath": "Via/ViaCurve/Overview.md",
+        "PagePath": "Via/Line/Overview.md",
         "PaperPhoto": "2996.jpg",
-        "TagName": "Via.ViaGeometry.ViaCurve.Overview"
+        "TagName": "Via.ViaGeometry.Line.Overview"
     },
     {
-        "PagePath": "Via/ViaCurve/Overview.md",
+        "PagePath": "Via/Line/Overview.md",
         "PaperPhoto": "2997.jpg",
-        "TagName": "Via.ViaGeometry.ViaCurve.Overview"
+        "TagName": "Via.ViaGeometry.Line.Overview"
     },
     {
-        "PagePath": "Via/ViaCurve/Overview.md",
+        "PagePath": "Via/Line/Overview.md",
         "PaperPhoto": "3002.jpg",
-        "TagName": "Via.ViaGeometry.ViaCurve.CircumventLine"
+        "TagName": "Via.ViaGeometry.Line.CircumventLine"
     },
     {
-        "PagePath": "Via/ViaCurve/Overview.md",
+        "PagePath": "Via/Line/Overview.md",
         "PaperPhoto": "3011.jpg",
-        "TagName": "Via.ViaGeometry.ViaCurve.BagUpLine"
+        "TagName": "Via.ViaGeometry.Line.BagUpLine"
     },
     {
-        "PagePath": "Via/ViaCurve/Overview.md",
+        "PagePath": "Via/Line/Overview.md",
         "PaperPhoto": "3013.jpg",
-        "TagName": "Via.ViaGeometry.ViaCurve.BagUpLine"
+        "TagName": "Via.ViaGeometry.Line.BagUpLine"
     },
     {
-        "PagePath": "Via/ViaCurve/Overview.md",
+        "PagePath": "Via/Line/Overview.md",
         "PaperPhoto": "3052.jpg",
-        "TagName": "Via.ViaGeometry.ViaCurve.CircumventLine"
+        "TagName": "Via.ViaGeometry.Line.CircumventLine"
     },
     {
-        "PagePath": "Via/ViaCurve/Overview.md",
+        "PagePath": "Via/Line/Overview.md",
         "PaperPhoto": "3055.jpg",
-        "TagName": "Via.ViaGeometry.ViaCurve.BeeLine"
+        "TagName": "Via.ViaGeometry.Line.BeeLine"
     },
     {
-        "PagePath": "Via/ViaCurve/Overview.md",
+        "PagePath": "Via/Line/Overview.md",
         "PaperPhoto": "3061.jpg",
-        "TagName": "Via.ViaGeometry.ViaCurve.ParallelLine"
+        "TagName": "Via.ViaGeometry.Line.ParallelLine"
     },
     {
-        "PagePath": "Via/ViaCurve/Overview.md",
+        "PagePath": "Via/Line/Overview.md",
         "PaperPhoto": "3062.jpg",
-        "TagName": "Via.ViaGeometry.ViaCurve.ViaDisplacementLine"
+        "TagName": "Via.ViaGeometry.Line.ViaDisplacementLine"
     },
     {
-        "PagePath": "Via/ViaCurve/Overview.md",
+        "PagePath": "Via/Line/Overview.md",
         "PaperPhoto": "3064.jpg",
-        "TagName": "Via.ViaGeometry.ViaCurve.Overview"
+        "TagName": "Via.ViaGeometry.Line.Overview"
     },
     {
-        "PagePath": "Via/ViaCurve/Overview.md",
+        "PagePath": "Via/Line/Overview.md",
         "PaperPhoto": "3073.jpg",
-        "TagName": "Via.ViaGeometry.ViaCurve.ParallelLine"
+        "TagName": "Via.ViaGeometry.Line.ParallelLine"
     },
     {
-        "PagePath": "Via/ViaCurve/Overview.md",
+        "PagePath": "Via/Line/Overview.md",
         "PaperPhoto": "3121.jpg",
-        "TagName": "Via.ViaGeometry.ViaCurve.Overview"
+        "TagName": "Via.ViaGeometry.Line.Overview"
     },
     {
-        "PagePath": "Via/ViaCurve/Overview.md",
+        "PagePath": "Via/Line/Overview.md",
         "PaperPhoto": "3121.jpg",
-        "TagName": "Via.ViaGeometry.ViaCurve.ParallelLine"
+        "TagName": "Via.ViaGeometry.Line.ParallelLine"
     },
     {
-        "PagePath": "Via/ViaCurve/Overview.md",
+        "PagePath": "Via/Line/Overview.md",
         "PaperPhoto": "3121.jpg",
-        "TagName": "Via.ViaGeometry.ViaCurve.ViaDisplacementLine"
+        "TagName": "Via.ViaGeometry.Line.ViaDisplacementLine"
     },
     {
-        "PagePath": "Via/ViaCurve/Overview.md",
+        "PagePath": "Via/Line/Overview.md",
         "PaperPhoto": "3121.jpg",
-        "TagName": "Via.ViaGeometry.ViaCurve.ViaDistanceLine"
+        "TagName": "Via.ViaGeometry.Line.ViaDistanceLine"
     },
     {
-        "PagePath": "Via/ViaCurve/Overview.md",
+        "PagePath": "Via/Line/Overview.md",
         "PaperPhoto": "3139.jpg",
-        "TagName": "Via.ViaGeometry.ViaCurve.Overview"
+        "TagName": "Via.ViaGeometry.Line.Overview"
     },
     {
-        "PagePath": "Via/ViaCurve/Overview.md",
+        "PagePath": "Via/Line/Overview.md",
         "PaperPhoto": "3141.jpg",
-        "TagName": "Via.ViaGeometry.ViaCurve.Overview"
+        "TagName": "Via.ViaGeometry.Line.Overview"
     },
     {
-        "PagePath": "Via/ViaCurve/Overview.md",
+        "PagePath": "Via/Line/Overview.md",
         "PaperPhoto": "3160.jpg",
-        "TagName": "Via.ViaGeometry.ViaCurve.PerimeterLine"
+        "TagName": "Via.ViaGeometry.Line.PerimeterLine"
     },
     {
-        "PagePath": "Via/ViaCurve/Overview.md",
+        "PagePath": "Via/Line/Overview.md",
         "PaperPhoto": "3161.jpg",
-        "TagName": "Via.ViaGeometry.ViaCurve.CircumventLine"
+        "TagName": "Via.ViaGeometry.Line.CircumventLine"
     },
     {
-        "PagePath": "Via/ViaCurve/Overview.md",
+        "PagePath": "Via/Line/Overview.md",
         "PaperPhoto": "3165.jpg",
-        "TagName": "Via.ViaGeometry.ViaCurve.LineIn"
+        "TagName": "Via.ViaGeometry.Line.LineIn"
     },
     {
-        "PagePath": "Via/ViaCurve/Overview.md",
+        "PagePath": "Via/Line/Overview.md",
         "PaperPhoto": "3165.jpg",
-        "TagName": "Via.ViaGeometry.ViaCurve.PerimeterLine"
+        "TagName": "Via.ViaGeometry.Line.PerimeterLine"
     },
     {
-        "PagePath": "Via/ViaCurve/Overview.md",
+        "PagePath": "Via/Line/Overview.md",
         "PaperPhoto": "3166.jpg",
-        "TagName": "Via.ViaGeometry.ViaCurve.Overview"
+        "TagName": "Via.ViaGeometry.Line.Overview"
     },
     {
-        "PagePath": "Via/ViaCurve/Overview.md",
+        "PagePath": "Via/Line/Overview.md",
         "PaperPhoto": "3167.jpg",
-        "TagName": "Via.ViaGeometry.ViaCurve.CircumventLine"
+        "TagName": "Via.ViaGeometry.Line.CircumventLine"
     },
     {
-        "PagePath": "Via/ViaCurve/Overview.md",
+        "PagePath": "Via/Line/Overview.md",
         "PaperPhoto": "3167.jpg",
-        "TagName": "Via.ViaGeometry.ViaCurve.PerimeterLine"
+        "TagName": "Via.ViaGeometry.Line.PerimeterLine"
     },
     {
-        "PagePath": "Via/ViaCurve/Overview.md",
+        "PagePath": "Via/Line/Overview.md",
         "PaperPhoto": "3272.jpg",
-        "TagName": "Via.ViaGeometry.ViaCurve.Overview"
+        "TagName": "Via.ViaGeometry.Line.Overview"
     },
     {
-        "PagePath": "Via/ViaCurve/Overview.md",
+        "PagePath": "Via/Line/Overview.md",
         "PaperPhoto": "90004.jpg",
-        "TagName": "Via.ViaGeometry.ViaCurve.ViaDistanceLine.ViaCircuitLine"
+        "TagName": "Via.ViaGeometry.Line.ViaDistanceLine.ViaCircuitLine"
     },
     {
-        "PagePath": "Via/ViaCurve/Overview.md",
+        "PagePath": "Via/Line/Overview.md",
         "PaperPhoto": "90011.jpg",
-        "TagName": "Via.ViaGeometry.ViaCurve.Overview"
+        "TagName": "Via.ViaGeometry.Line.Overview"
     },
     {
-        "PagePath": "Via/ViaCurve/Overview.md",
+        "PagePath": "Via/Line/Overview.md",
         "PaperPhoto": "90013.jpg",
-        "TagName": "Via.ViaGeometry.ViaCurve.Overview"
+        "TagName": "Via.ViaGeometry.Line.Overview"
     },
     {
-        "PagePath": "Via/ViaCurve/Overview.md",
+        "PagePath": "Via/Line/Overview.md",
         "PaperPhoto": "90031.jpg",
-        "TagName": "Via.ViaGeometry.ViaCurve.ViaDisplacementLine"
+        "TagName": "Via.ViaGeometry.Line.ViaDisplacementLine"
     },
     {
-        "PagePath": "Via/ViaCurve/Overview.md",
+        "PagePath": "Via/Line/Overview.md",
         "PaperPhoto": "90031.jpg",
-        "TagName": "Via.ViaGeometry.ViaCurve.ViaDistanceLine"
+        "TagName": "Via.ViaGeometry.Line.ViaDistanceLine"
     },
     {
-        "PagePath": "Via/ViaCurve/Overview.md",
+        "PagePath": "Via/Line/Overview.md",
         "PaperPhoto": "90033.jpg",
-        "TagName": "Via.ViaGeometry.ViaCurve.Overview"
+        "TagName": "Via.ViaGeometry.Line.Overview"
     },
     {
-        "PagePath": "Via/ViaCurve/Overview.md",
+        "PagePath": "Via/Line/Overview.md",
         "PaperPhoto": "90033.jpg",
-        "TagName": "Via.ViaGeometry.ViaCurve.ViaLineOverlap"
+        "TagName": "Via.ViaGeometry.Line.ViaLineOverlap"
     },
     {
-        "PagePath": "Via/ViaCurve/Overview.md",
+        "PagePath": "Via/Line/Overview.md",
         "PaperPhoto": "90034.jpg",
-        "TagName": "Via.ViaGeometry.ViaCurve.Overview"
+        "TagName": "Via.ViaGeometry.Line.Overview"
     },
     {
-        "PagePath": "Via/ViaCurve/Overview.md",
+        "PagePath": "Via/Line/Overview.md",
         "PaperPhoto": "90034.jpg",
-        "TagName": "Via.ViaGeometry.ViaCurve.ViaLineOverlap"
+        "TagName": "Via.ViaGeometry.Line.ViaLineOverlap"
     },
     {
-        "PagePath": "Via/ViaCurve/Overview.md",
+        "PagePath": "Via/Line/Overview.md",
         "PaperPhoto": "90035.jpg",
-        "TagName": "Via.ViaGeometry.ViaCurve.Overview"
+        "TagName": "Via.ViaGeometry.Line.Overview"
     },
     {
-        "PagePath": "Via/ViaCurve/Overview.md",
+        "PagePath": "Via/Line/Overview.md",
         "PaperPhoto": "90035.jpg",
-        "TagName": "Via.ViaGeometry.ViaCurve.ViaLineOverlap"
+        "TagName": "Via.ViaGeometry.Line.ViaLineOverlap"
     },
     {
-        "PagePath": "Via/ViaCurve/Overview.md",
+        "PagePath": "Via/Line/Overview.md",
         "PaperPhoto": "90036.jpg",
-        "TagName": "Via.ViaGeometry.ViaCurve.Overview"
+        "TagName": "Via.ViaGeometry.Line.Overview"
     },
     {
-        "PagePath": "Via/ViaCurve/Overview.md",
+        "PagePath": "Via/Line/Overview.md",
         "PaperPhoto": "90036.jpg",
-        "TagName": "Via.ViaGeometry.ViaCurve.ViaLineOverlap"
+        "TagName": "Via.ViaGeometry.Line.ViaLineOverlap"
     },
     {
-        "PagePath": "Via/ViaCurve/Overview.md",
+        "PagePath": "Via/Line/Overview.md",
         "PaperPhoto": "90037.jpg",
-        "TagName": "Via.ViaGeometry.ViaCurve.Overview"
+        "TagName": "Via.ViaGeometry.Line.Overview"
     },
     {
-        "PagePath": "Via/ViaCurve/Overview.md",
+        "PagePath": "Via/Line/Overview.md",
         "PaperPhoto": "90037.jpg",
-        "TagName": "Via.ViaGeometry.ViaCurve.ViaLineOverlap"
+        "TagName": "Via.ViaGeometry.Line.ViaLineOverlap"
     },
     {
-        "PagePath": "Via/ViaCurve/Overview.md",
+        "PagePath": "Via/Line/Overview.md",
         "PaperPhoto": "90038.jpg",
-        "TagName": "Via.ViaGeometry.ViaCurve.Overview"
+        "TagName": "Via.ViaGeometry.Line.Overview"
     },
     {
-        "PagePath": "Via/ViaCurve/Overview.md",
+        "PagePath": "Via/Line/Overview.md",
         "PaperPhoto": "90038.jpg",
-        "TagName": "Via.ViaGeometry.ViaCurve.ViaLineOverlap"
+        "TagName": "Via.ViaGeometry.Line.ViaLineOverlap"
     },
     {
-        "PagePath": "Via/ViaCurve/Overview.md",
+        "PagePath": "Via/Line/Overview.md",
         "PaperPhoto": "90042.jpg",
-        "TagName": "Via.ViaGeometry.ViaCurve.Overview"
+        "TagName": "Via.ViaGeometry.Line.Overview"
     },
     {
-        "PagePath": "Via/ViaCurve/Overview.md",
+        "PagePath": "Via/Line/Overview.md",
         "PaperPhoto": "90042.jpg",
-        "TagName": "Via.ViaGeometry.ViaCurve.ViaLinearLine"
+        "TagName": "Via.ViaGeometry.Line.ViaLinearLine"
     },
     {
-        "PagePath": "Via/ViaCurve/Overview.md",
+        "PagePath": "Via/Line/Overview.md",
         "PaperPhoto": "90044.jpg",
-        "TagName": "Via.ViaGeometry.ViaCurve.ParallelLine"
+        "TagName": "Via.ViaGeometry.Line.ParallelLine"
     },
     {
-        "PagePath": "Via/ViaCurve/Overview.md",
+        "PagePath": "Via/Line/Overview.md",
         "PaperPhoto": "90044.jpg",
-        "TagName": "Via.ViaGeometry.ViaCurve.ViaLinearLine"
+        "TagName": "Via.ViaGeometry.Line.ViaLinearLine"
     },
     {
         "PagePath": "Via/ViaDifficulty.md",
@@ -8837,17 +8837,17 @@ data = [
     {
         "PagePath": "Via/ViaSequence/Overview.md",
         "PaperPhoto": "0648.jpg",
-        "TagName": "Via.ViaSequence.ViaSurfaceFrase.AnteViaSurface"
+        "TagName": "Via.ViaSequence.ContactFrase.AnteContact"
     },
     {
         "PagePath": "Via/ViaSequence/Overview.md",
         "PaperPhoto": "0648.jpg",
-        "TagName": "Via.ViaSequence.ViaSurfaceFrase.CurrentViaSurface"
+        "TagName": "Via.ViaSequence.ContactFrase.CurrentContact"
     },
     {
         "PagePath": "Via/ViaSequence/Overview.md",
         "PaperPhoto": "0648.jpg",
-        "TagName": "Via.ViaSequence.ViaSurfaceFrase.PostViaSurface"
+        "TagName": "Via.ViaSequence.ContactFrase.PostContact"
     },
     {
         "PagePath": "Via/ViaSequence/Overview.md",
@@ -9475,74 +9475,74 @@ data = [
         "TagName": "Via.ViaGeometry.ViaSpace.Overview"
     },
     {
-        "PagePath": "Via/ViaSurface/Overview.md",
+        "PagePath": "Via/Contact/Overview.md",
         "PaperPhoto": "0458.jpg",
-        "TagName": "Via.ViaGeometry.ViaSurface.ViaSurfaceAttributes.ViaSurfaceSize"
+        "TagName": "Via.ViaGeometry.Contact.ContactAttributes.ContactSize"
     },
     {
-        "PagePath": "Via/ViaSurface/Overview.md",
+        "PagePath": "Via/Contact/Overview.md",
         "PaperPhoto": "0826.jpg",
-        "TagName": "Via.ViaGeometry.ViaSurface.ViaSurfaceLine"
+        "TagName": "Via.ViaGeometry.Contact.ContactLine"
     },
     {
-        "PagePath": "Via/ViaSurface/Overview.md",
+        "PagePath": "Via/Contact/Overview.md",
         "PaperPhoto": "1112.jpg",
-        "TagName": "Via.ViaGeometry.ViaSurface.ViaSurfaceLine"
+        "TagName": "Via.ViaGeometry.Contact.ContactLine"
     },
     {
-        "PagePath": "Via/ViaSurface/Overview.md",
+        "PagePath": "Via/Contact/Overview.md",
         "PaperPhoto": "1409.jpg",
-        "TagName": "Via.ViaGeometry.ViaSurface.ViaSurfaceLine"
+        "TagName": "Via.ViaGeometry.Contact.ContactLine"
     },
     {
-        "PagePath": "Via/ViaSurface/Overview.md",
+        "PagePath": "Via/Contact/Overview.md",
         "PaperPhoto": "1425.jpg",
-        "TagName": "Via.ViaGeometry.ViaSurface.Overview"
+        "TagName": "Via.ViaGeometry.Contact.Overview"
     },
     {
-        "PagePath": "Via/ViaSurface/Overview.md",
+        "PagePath": "Via/Contact/Overview.md",
         "PaperPhoto": "1425.jpg",
-        "TagName": "Via.ViaGeometry.ViaSurface.ViaSurfaceLine"
+        "TagName": "Via.ViaGeometry.Contact.ContactLine"
     },
     {
-        "PagePath": "Via/ViaSurface/Overview.md",
+        "PagePath": "Via/Contact/Overview.md",
         "PaperPhoto": "1468.jpg",
-        "TagName": "Via.ViaGeometry.ViaSurface.ViaHiddenSurface"
+        "TagName": "Via.ViaGeometry.Contact.ViaHiddenSurface"
     },
     {
-        "PagePath": "Via/ViaSurface/Overview.md",
+        "PagePath": "Via/Contact/Overview.md",
         "PaperPhoto": "1493.jpg",
-        "TagName": "Via.ViaGeometry.ViaSurface.ViaSurfaceLine"
+        "TagName": "Via.ViaGeometry.Contact.ContactLine"
     },
     {
-        "PagePath": "Via/ViaSurface/Overview.md",
+        "PagePath": "Via/Contact/Overview.md",
         "PaperPhoto": "1502.jpg",
-        "TagName": "Via.ViaGeometry.ViaSurface.ViaSurfaceLine"
+        "TagName": "Via.ViaGeometry.Contact.ContactLine"
     },
     {
-        "PagePath": "Via/ViaSurface/Overview.md",
+        "PagePath": "Via/Contact/Overview.md",
         "PaperPhoto": "1519.jpg",
-        "TagName": "Via.ViaGeometry.ViaSurface.ViaSurfaceDensity"
+        "TagName": "Via.ViaGeometry.Contact.ContactDensity"
     },
     {
-        "PagePath": "Via/ViaSurface/Overview.md",
+        "PagePath": "Via/Contact/Overview.md",
         "PaperPhoto": "1521.jpg",
-        "TagName": "Via.ViaGeometry.ViaSurface.ViaSurfaceLine"
+        "TagName": "Via.ViaGeometry.Contact.ContactLine"
     },
     {
-        "PagePath": "Via/ViaSurface/Overview.md",
+        "PagePath": "Via/Contact/Overview.md",
         "PaperPhoto": "1522.jpg",
-        "TagName": "Via.ViaGeometry.ViaSurface.Overview"
+        "TagName": "Via.ViaGeometry.Contact.Overview"
     },
     {
-        "PagePath": "Via/ViaSurface/Overview.md",
+        "PagePath": "Via/Contact/Overview.md",
         "PaperPhoto": "1527.jpg",
-        "TagName": "Via.ViaGeometry.ViaSurface.ViaSurfaceDensity"
+        "TagName": "Via.ViaGeometry.Contact.ContactDensity"
     },
     {
-        "PagePath": "Via/ViaSurface/Overview.md",
+        "PagePath": "Via/Contact/Overview.md",
         "PaperPhoto": "1546.jpg",
-        "TagName": "Via.ViaGeometry.ViaSurface.ViaSurfaceLine"
+        "TagName": "Via.ViaGeometry.Contact.ContactLine"
     },
     {
         "PagePath": "dev/Contribute.md",
@@ -15662,7 +15662,7 @@ data = [
     {
         "PagePath": "dev/Graphics/ViaGraphic.md",
         "PaperPhoto": "1409.jpg",
-        "TagName": "Via.ViaDiagram.ViaSurface.ViaSurfaceHighlight"
+        "TagName": "Via.ViaDiagram.Contact.ContactHighlight"
     },
     {
         "PagePath": "dev/Graphics/ViaGraphic.md",
@@ -15682,7 +15682,7 @@ data = [
     {
         "PagePath": "dev/Graphics/ViaGraphic.md",
         "PaperPhoto": "1451.jpg",
-        "TagName": "Via.ViaDiagram.ViaSurface.ViaSurfaceHighlight"
+        "TagName": "Via.ViaDiagram.Contact.ContactHighlight"
     },
     {
         "PagePath": "dev/Graphics/ViaGraphic.md",
@@ -15692,7 +15692,7 @@ data = [
     {
         "PagePath": "dev/Graphics/ViaGraphic.md",
         "PaperPhoto": "1468.jpg",
-        "TagName": "Via.ViaDiagram.ViaSurface.ViaSurfaceHighlight"
+        "TagName": "Via.ViaDiagram.Contact.ContactHighlight"
     },
     {
         "PagePath": "dev/Graphics/ViaGraphic.md",
@@ -15727,7 +15727,7 @@ data = [
     {
         "PagePath": "dev/Graphics/ViaGraphic.md",
         "PaperPhoto": "1554.jpg",
-        "TagName": "Via.ViaDiagram.ViaSurface.ViaSurfaceHighlight"
+        "TagName": "Via.ViaDiagram.Contact.ContactHighlight"
     },
     {
         "PagePath": "dev/Graphics/ViaGraphic.md",
@@ -20292,7 +20292,7 @@ data = [
     {
         "PagePath": "tutorials/Overview.md",
         "PaperPhoto": "1434.jpg",
-        "TagName": "Tests.ViaSurfaceHighlight"
+        "TagName": "Tests.ContactHighlight"
     },
     {
         "PagePath": "tutorials/Overview.md",

@@ -45,7 +45,7 @@ Move Taxa are prefixed by an orange circle 🟠
    Bundle, 
    Carabiner, 
    Marka, 
-   Gaiter, 
+   Tibior, 
    Glove, 
    Kit, 
    Rope, 
