@@ -27,6 +27,7 @@
 <!-- =================================================== -->
 ::: details 🛠 <dev>&&&</dev>
 
--
+- SpadeSlapSeal WetSoil
+- SpadeSlap to SoilExplode
 
 :::

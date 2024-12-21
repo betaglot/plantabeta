@@ -64,11 +64,5 @@ A greater knowledge of possible alternative moves can prevent Christmas Toe from
 - TriggerFinger
 - The Claw hand
 - Antagonist Workout for plantors: More fatigued, less injured. Balanced Fatigue across body, not just muscles used for planting.
-
-<h2>PageTags</h2>
-
-- "Guide.Why.Injury"
-- "Guide.Why.Injury.ValgusKnee"
-- "Move.Ambidexterity"
-
+- How to fall safely
 :::

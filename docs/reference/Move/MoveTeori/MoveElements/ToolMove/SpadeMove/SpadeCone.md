@@ -27,6 +27,9 @@
 <!-- =================================================== -->
 ::: details 🛠 <dev>&&&</dev>
 
--
+- PanBeta(CookBeta) ConeMove is used a lot in baking. Stir with your wrist instead of whole arm.
+    - ShoulderCone
+    - ElbowCone
+    - WristCone
 
 :::

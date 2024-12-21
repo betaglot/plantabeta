@@ -34,7 +34,9 @@
 <!-- =================================================== -->
 ::: details 🛠 <dev>&&&</dev>
 
--
+- StiffSoil, HardSoil, DrySoil
+- BrittleSoil
+- FrozenSoil
 
 <h2>PageTags</h2>
 

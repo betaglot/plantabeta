@@ -31,13 +31,11 @@
 <!-- =================================================== -->
 ::: details 🛠 <dev>&&&</dev>
 
-- test in circles instead of walking further
-
-- AlsoKnownAs(SpadeProp)
-
-<h2>PageTags</h2>
-
-- "Move.ToolMove.SpadeMove.SpadePoke"
-- "Move.ToolMove.SpadeMove.SpadeProbe"
+- SpadeSoilTest
+    - Is this quicksand
+    - Is this mud. Will I sink into this?
+- SpadeSiteTest
+    - Can I put a tree here?
+    - test in circles instead of walking further
 
 :::

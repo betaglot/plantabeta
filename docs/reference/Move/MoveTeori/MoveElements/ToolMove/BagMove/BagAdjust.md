@@ -29,7 +29,10 @@
 <!-- =================================================== -->
 ::: details 🛠 <dev>&&&</dev>
 
--
+- BagStrapAdjust
+- BagBeltAdjust
+- BagBuckleAdjust
+    - BuckleMove
 
 <h2>PageTags</h2>
 

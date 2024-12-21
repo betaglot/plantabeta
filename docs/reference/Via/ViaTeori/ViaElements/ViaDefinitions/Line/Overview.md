@@ -1,4 +1,4 @@
-# 🔻 <via>Line</via>
+# 🔻 <via>Via</via>
 
 > A line is a sequence of Via
 

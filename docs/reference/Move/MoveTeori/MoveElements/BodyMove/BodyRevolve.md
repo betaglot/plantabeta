@@ -10,7 +10,7 @@
 
 ### Related 🔻<via>Via</via>
 
--
+- Revolution
 
 ### Related 🟠<move>Move</move>
 
@@ -29,7 +29,7 @@
 <!-- =================================================== -->
 ::: details 🛠 <dev>&&&</dev>
 
--
+- AroundCornerMove
 
 <h2>PageTags</h2>
 

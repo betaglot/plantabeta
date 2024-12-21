@@ -14,7 +14,8 @@
 
 ### Related 🟠<move>Move</move>
 
--
+- FootPivot
+- BodyTwist
 
 ### Related 💜<psike>Psike</psike>
 
@@ -29,9 +30,7 @@
 <!-- =================================================== -->
 ::: details 🛠 <dev>&&&</dev>
 
--
-
-SpinAway
+- SpinAway PanBeta(RugbyBeta)
 
 <h2>PageTags</h2>
 

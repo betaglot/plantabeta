@@ -12,7 +12,8 @@
 
 ### Related 🟠<move>Move</move>
 
--
+- SpineFlexion
+- HipHinge
 
 ### Related 💜<psike>Psike</psike>
 

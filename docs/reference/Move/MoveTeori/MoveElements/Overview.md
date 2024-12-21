@@ -8,7 +8,6 @@ Propositions never have errors. Errors only occur in Praktik
 
 There is less Via than Moves. It makes more sense to group MoveElements by their definitions (their concrete objects)
 
-
 Each BetaTipos is like a Book
 
 EkoBook
@@ -23,3 +22,16 @@ BetaBook1
 BetaBook2
     - How to plant faster
 
+---
+
+<!-- =================================================== -->
+<!-- =================================================== -->
+<!-- =================================================== -->
+<!-- =================================================== -->
+<!-- =================================================== -->
+::: details 🛠 <dev>&&&</dev>
+
+- NeoMove
+    - ArmSlide across Torso
+
+:::

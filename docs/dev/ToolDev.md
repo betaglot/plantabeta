@@ -223,7 +223,6 @@ Protein Powder Cookies
 
 "Radius" + "or" :: Agent of Forearm
 
-
 - <https://eu.directactiongear.com/en/grg-pouchr.html#RGR>
 
 "han kote" is a Japanese Vambrace

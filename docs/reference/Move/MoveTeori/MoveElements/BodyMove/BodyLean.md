@@ -37,7 +37,16 @@
 <!-- =================================================== -->
 ::: details 🛠 <dev>&&&</dev>
 
--
+- LeanOntoFlora
+- LeanOnSpadePry
+    - HoleExpand
+        - RockPry
+        - RockPush while Prying BladeInSoil like a Class3Lever where the fulcrum is in the soil and the rock is the load
+- LeanOn
+- LeanOnSpadeSlam
+    - Only after a SpadeProbe
+- LeanOnSlope
+- LeanOnSpadeTab
 
 <h2>PageTags</h2>
 
