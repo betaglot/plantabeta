@@ -1,4 +1,4 @@
-# 🟠 <move>StepIntoTrench</move>
+# 🟠 <move>StepInto</move>
 
 ![MoveIkon](/Move/Move_Ikon.png)
 
@@ -29,9 +29,7 @@
 <!-- =================================================== -->
 ::: details 🛠 <dev>&&&</dev>
 
--
-
-<h2>PageTags</h2>
-
-- "Move.BodyMove.StepIntoTrench"
+- Into and forwards, not just down
+- EccentricLegExtension
+- StepIntoTrench
 :::

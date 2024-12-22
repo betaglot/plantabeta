@@ -29,6 +29,9 @@
 <!-- =================================================== -->
 ::: details 🛠 <dev>&&&</dev>
 
--
+- FingertipGrip
+    - GloveOff
+- CuffGrip
+    - Minimize Kontakt to prevent grit from getting into glove
 
 :::

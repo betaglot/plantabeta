@@ -55,7 +55,9 @@ Readymade
 <!-- =================================================== -->
 ::: details 🛠 <dev>&&&</dev>
 
-- Post spade when setting up or returning to cache for easier grabbing with full bags. No bend and easier Find(Spade)
+- BoxMove
+- GloveOn, GloveOff
+- SpadePost when setting up or returning to cache for easier grabbing with full bags. No bend and easier Find(Spade)
 
 <h2>PageTags</h2>
 

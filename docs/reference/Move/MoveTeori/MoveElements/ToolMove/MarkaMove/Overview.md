@@ -8,20 +8,18 @@ post verb (MAKE KNOWN)
 
 Markas are posted throughout the land.
 
-## Marka Anatomy
+## MarkaMove.Anatomy
 
 - MarkaBody
 - MarkaEnd
 
-## Marka Attributes
+## MarkaMove.Attributes
 
 - MarkaLength
 - MarkaWidth
 - MarkaMaterial
 - MarkaHeight
 - MarkaColor
-
-- Markager Pouch
 
 ## 🕸 MarkaMove.Skema
 
@@ -50,7 +48,7 @@ Markas are posted throughout the land.
 <!-- =================================================== -->
 ::: details 🛠 <dev>&&&</dev>
 
-- Shovel hand Marka grip is obsolete from a time before Marka pouch
+- SpadeHand Marka grip is obsolete from a time before Marka pouch
 - Marka follow through motion to ensure that the Marka doesn't fold back on itself, since fully extended Marka drapes over branches, while clumped Marka just falls to the ground
 
 <h2>PageTags</h2>

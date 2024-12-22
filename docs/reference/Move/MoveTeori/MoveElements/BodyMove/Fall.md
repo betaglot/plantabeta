@@ -29,6 +29,14 @@
 <!-- =================================================== -->
 ::: details 🛠 <dev>&&&</dev>
 
+- FootSnag
+    - OpenSnag
+        - something which can be pulled out
+        - HookSnag
+    - ClosedSnag
+        - FixedSnag
+        - A loop
+        - Trip over a log
 - FallRecoveryFase
     - "Catch your fall" before you get to the ground
     - ArmAbsborb

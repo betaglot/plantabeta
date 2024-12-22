@@ -2,9 +2,27 @@
 
 Aliases: Gaiter, Shin Pad
 
-## Tibior Anatomy
+## TibiorMove.Anatomy
 
-## Tibior Attributes
+## TibiorMove.Attributes
+
+## 🕸 TibiorMove.Skema
+
+### Related 🟩<eko>Eko</eko>
+
+-
+
+### Related 🔻<via>Via</via>
+
+-
+
+### Related 🟠<move>Move</move>
+
+-
+
+### Related 💜<psike>Psike</psike>
+
+-
 
 ---
 
@@ -15,10 +33,6 @@ Aliases: Gaiter, Shin Pad
 <!-- =================================================== -->
 ::: details 🛠 <dev>&&&</dev>
 
--
-
-<h2>PageTags</h2>
-
-- "Move.ToolMove.TibiorMove.Overview"
+- RemoveMud to prevent mud from slowly releasing its water content onto your leg
 
 :::

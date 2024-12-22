@@ -33,6 +33,10 @@ Aim small miss small. Larger moves have larger potential for error
 - Walking within a piece while **not** performing a planting Frase.
 - Deadwalks are required to Cover very oblong areas.
 
+## Walk.Metod
+
+- LengthenStep() mid step Or ShortenStep()
+
 ## 🕸 Walk.Skema
 
 ### Related 🟩<eko>Eko</eko>
@@ -41,7 +45,7 @@ Aim small miss small. Larger moves have larger potential for error
 
 ### Related 🔻<via>Via</via>
 
--
+- WalkSpeed
 
 ### Related 🟠<move>Move</move>
 
@@ -60,7 +64,15 @@ Aim small miss small. Larger moves have larger potential for error
 <!-- =================================================== -->
 ::: details 🛠 <dev>&&&</dev>
 
-- LengthenStep() mid step Or ShortenStep()
+- WalkSpeed
+    - RelativeToAtlete
+    - Velocity
+- GaitWidth
+    - Inline like a Wolf or Wide like a crab
+- StrideLength
+    - Shorten StrideLength during SlopeUpWalk or SlopeDownWalk
+    - Shorten StrideLength on UnstableSlope
+- (ArmAmble + Walk) on SteepSlope
 - StompTest when LogWalking
 
 <h2>PageTags</h2>

@@ -13,10 +13,7 @@
 <!-- =================================================== -->
 ::: details 🛠 <dev>&&&</dev>
 
--
-
-<h2>PageTags</h2>
-
-- "Move.ToolMove.MarkaMove.MarkaErrorRecovery"
+- MarkaSnag
+    - MarkaRoll can get snagged on by Eko and unrolls as you walk away. This can waste dozens of meters of Marka.
 
 :::

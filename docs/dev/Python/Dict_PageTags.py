@@ -119,7 +119,7 @@ PageTags = {
 "Move/HandMove/HandPoke.md": [],
 "Move/HandMove/HandSkreef.md": [],
 "Move/HandMove/HandFrase.md": [],
-"Move/HandMove/InsertTree.md": [],
+"Move/HandMove/TreeInsert.md": [],
 "Move/HandMove/Overview.md": [],
 "Move/HandMove/SpadeHandleGrip.md": [],
 "Move/HandMove/SpadeCollarGrip.md": [],

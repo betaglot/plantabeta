@@ -1,4 +1,9 @@
-# 🟠 <move>LaceKnot</move>
+# 🟠 <move>LaceMove</move>
+
+## LaceMove.Anatomy
+
+- End
+- Loop
 
 ## LaceTieUp
 
@@ -37,9 +42,12 @@
 <!-- =================================================== -->
 ::: details 🛠 <dev>&&&</dev>
 
--
+- LacePull
+- LaceTighten
+    - LaceTightenCascade
+- LaceDoubleWrap
+    - [SurgeonsDoubleShoelaceBowKnot](https://www.animatedknots.com/shoelace-bow-knot-surgeons)
+- When to cut laces shorter to prevent lace snag?
+- Avoid double bow since it's difficult to untie, espcially if it has tightened while wet
 
-<h2>PageTags</h2>
-
-- "Move.ToolMove.BootMove.LaceKnot"
 :::

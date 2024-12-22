@@ -14002,7 +14002,7 @@ json = [
                 "title": "Move.FootMove.FootClose"
             },
             {
-                "title": "Move.HandMove.InsertTree"
+                "title": "Move.HandMove.TreeInsert"
             },
             {
                 "title": "Move.HoleMove.Overview"
@@ -16057,7 +16057,7 @@ json = [
                 "title": "Move.BodyMove.SlopeWalk"
             },
             {
-                "title": "Move.HandMove.InsertTree"
+                "title": "Move.HandMove.TreeInsert"
             },
             {
                 "title": "Move.HoleMove.HoleOpen"
@@ -21798,7 +21798,7 @@ json = [
                 "title": "Move.ToolMove.TibiorMove.Overview"
             },
             {
-                "title": "Move.HandMove.InsertTree"
+                "title": "Move.HandMove.TreeInsert"
             },
             {
                 "title": "Move.ToolMove.BootMove.Overview"
@@ -21867,7 +21867,7 @@ json = [
                 "title": "Move.HoleMove.ExpandHole"
             },
             {
-                "title": "Move.HandMove.InsertTree"
+                "title": "Move.HandMove.TreeInsert"
             },
             {
                 "title": "Move.ToolMove.SpadeMove.SpadePoke"
@@ -22007,7 +22007,7 @@ json = [
                 "title": "Via.ViaGeometry.ViaPoint.Microsite.MicrositeSelection"
             },
             {
-                "title": "Move.HandMove.InsertTree"
+                "title": "Move.HandMove.TreeInsert"
             },
             {
                 "title": "Move.ArmMove.TreeLoad"
@@ -22067,7 +22067,7 @@ json = [
                 "title": "Move.HoleMove.ExpandHole"
             },
             {
-                "title": "Move.HandMove.InsertTree"
+                "title": "Move.HandMove.TreeInsert"
             },
             {
                 "title": "Via.ViaDirection.ViaDownSlope"

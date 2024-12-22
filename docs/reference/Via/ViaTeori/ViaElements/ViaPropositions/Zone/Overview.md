@@ -31,6 +31,12 @@ Aliases: Area, Enclosure, Region, Section, Sector, Territory
 <!-- =================================================== -->
 ::: details 🛠 <dev>&&&</dev>
 
+- NotHarvestedZone
+    - ResidualZone
+    - RiparianZone
+        - SlitPlanting
+    - HabitatZone
+    - NoMachineZone
 - Scope of Zone
     1.Block
     2.Piece

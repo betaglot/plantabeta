@@ -756,7 +756,7 @@ tags = [
     "Move.HandMove.HandSlot",
     "Move.HandMove.HandSmear",
     "Move.HandMove.HandSwap",
-    "Move.HandMove.InsertTree",
+    "Move.HandMove.TreeInsert",
     "Move.HandMove.Overview",
     "Move.HandMove.PinchGrip",
     "Move.HandMove.SpadeHandleGrip",

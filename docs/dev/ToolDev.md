@@ -215,7 +215,31 @@ Protein Powder Cookies
 
 ## <move>Water VolumeDev</move>
 
-## 🟠<move>PlantorSuitDev</move>
+## 🟠<move>SuitDev</move>
+
+### SuitModularity
+
+Spacesuit
+
+- Swap out hips to dry the sweat to prevent SkinErosion. Wet skin erodes more than dry skin.
+- Adding a warm layer without having to take off your entire top layer
+- Vambraces are constant
+
+#### Suit of Armor
+
+- Samurai Armor
+- Gauntlet
+- Greave
+- Shoulder
+- Neck
+- Epaulets
+- Boot
+
+Padding in the joints
+
+Mail at joints
+
+#### SuitSwap out parts to adapt to Eko and Move
 
 ### 🟠<move>RadiorDev</move>
 
@@ -243,17 +267,20 @@ The goal of vambrace is to keep the hand clean and warm. There isn't a need to p
 - You only need to worry about the back of your hands. Glabrous warms the palm
 - Wool lining
 
-## 🟠<move>PaddingDev</move>
+### 🟠<move>PaddingDev</move>
 
 - HipPadding
 - KneePadding
 - ShoulderPadding
 - Hockey Padding which doesn't have a shell
 
-### Corset
+- Corset
+    - Plantors wear a corset under their waist belt like a saddle pad
+    - Corset restricts BendOver
 
-- Plantors wear a corset under their waist belt like a saddle pad
-- Corset restricts BendOver
+### 🟠<move>PantDev</move>
+
+- Gusset to strengthen crotch
 
 The Blanket which goes on a horse, before and under the saddle.
 
@@ -306,6 +333,9 @@ SuitParts = [
 
 #### ToolRequirements()
 
+- GloveShell
+    - HardSurface on palm like Starwars StormTrooper, marvel
+
 - Gloveon() ThumbTab
 - SplitMitt Shell
     - Easier to repair
@@ -314,7 +344,8 @@ SuitParts = [
     - More simple shape than gloves which allows thicker material to be used on dorsal to protect
     - Easier to take off because there is more material to pinch and also less surface area for friction. The surfaces between fingers is removed. The ConvexHull of a PeaceSign.
 
-- Purlicue padding for SpadeSlide Grip
+- Purlicue: the distance between one's forefinger and thumb when extended
+    - Purlicue padding for SpadeSlide Grip
 
 - Do gloves need to be tight?
 
@@ -322,25 +353,35 @@ SuitParts = [
 - Glove which does not collect dirt unlike the knitted gloves currently used by most plantors
 - Easily taken off without getting dirt inside
 
-### KranosDev
+### 🟠<move>KranosDev</move>
 
-Etimologi
+- Etymology(Kranos) = Cranium
+- Helmet
+- SoftShell
+- BugNet
 
-### 🟠<move>JacketDev</move>
+### 🟠<move>ShellDev</move>
 
 <https://www.patagonia.ca/product/hose-down-slicker-jacket/27892.html?dwvar_27892_color=CMPO>
 
-![Canada-Goose-Straps](/Move/Canada-Goose-Straps.png)
+#### 🟠<move>ZipperDev</move>
 
-Aang airbender lines for motion capture
+- Zipper.Anatomy
+    - Tape
+        - Teeth
+        - StopTop
+        - InsertPin
+        - BoxPin
+        - RetainingBox
+    - Slider
+        - Crown
+        - Body
+        - Puller
 
-#### 🟠<move>HoodDev</move>
-
-Put your Hood up
-
-Planting with a Hood up reduces Hearing and Vision
-
-Windy
+- Add an oversized ZipperTab
+    - to make it easier to use zipper with gloves on
+    - to prevent getting mud on your shell while you're trying to grip the ZipperTab
+    - to allow you to lever the zipper tab so that the cinch
 
 ### 🟠<move>Bellow BackpackDev</move>
 
@@ -359,30 +400,6 @@ One Way Valve
 Cape which can be stowed in shoulder straps
 
 Aang Cape
-
-### Modularity
-
-Spacesuit
-
-- Swap out hips to dry the sweat to prevent SkinErosion. Wet skin erodes more than dry skin.
-- Adding a warm layer without having to take off your entire top layer
-- Vambraces are constant
-
-#### Suit of Armor
-
-- Samurai Armor
-- Gauntlet
-- Greave
-- Shoulder
-- Neck
-- Epaulets
-- Boot
-
-Padding in the joints
-
-Mail at joints
-
-#### SuitSwap out parts to adapt to Eko and Move
 
 ### LocalizedRepair
 

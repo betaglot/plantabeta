@@ -27,7 +27,7 @@
 
 ### Supermoto
 
-- InsertTree
+- TreeInsert
 - BagCover
 - TreeRemove
 

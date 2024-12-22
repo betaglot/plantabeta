@@ -1,8 +1,4 @@
-# 🟠 <move>HandClose</move>
-
-## <move>Move Frase</move>
-
- Tamp
+# 🟠 <move>HandSeal</move>
 
 ## 🕸 HandSeal.Skema
 
@@ -31,7 +27,14 @@
 <!-- =================================================== -->
 ::: details 🛠 <dev>&&&</dev>
 
-- SlapClose
+- HammerSeal
+    - Using the RadialBorder of Fist as Kontakt
+- PunchSeal
+- PinchSeal
+- TampSeal  
+    - PalmarKontakt
+    - Analogous to StompSeal
+- SlapSeal
 
 <h2>PageTags</h2>
 

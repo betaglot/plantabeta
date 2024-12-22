@@ -29,9 +29,8 @@
 <!-- =================================================== -->
 ::: details 🛠 <dev>&&&</dev>
 
--
+- Balance
+- MountainPose
+- MoveAxiom
 
-<h2>PageTags</h2>
-
-- "Move.BodyMove.Stand"
 :::

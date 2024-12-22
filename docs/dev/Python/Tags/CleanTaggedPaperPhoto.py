@@ -29126,7 +29126,7 @@ tags = [
                     "title": "Move.FootMove.FootClose"
                 },
                 {
-                    "title": "Move.HandMove.InsertTree"
+                    "title": "Move.HandMove.TreeInsert"
                 },
                 {
                     "title": "Move.HoleMove.Overview"
@@ -29167,7 +29167,7 @@ tags = [
                 "title": "Move.FootMove.FootClose"
             },
             {
-                "title": "Move.HandMove.InsertTree"
+                "title": "Move.HandMove.TreeInsert"
             },
             {
                 "title": "Move.HoleMove.Overview"
@@ -33416,7 +33416,7 @@ tags = [
                     "title": "Move.BodyMove.SlopeWalk"
                 },
                 {
-                    "title": "Move.HandMove.InsertTree"
+                    "title": "Move.HandMove.TreeInsert"
                 },
                 {
                     "title": "Move.HoleMove.HoleOpen"
@@ -33451,7 +33451,7 @@ tags = [
                 "title": "Move.BodyMove.SlopeWalk"
             },
             {
-                "title": "Move.HandMove.InsertTree"
+                "title": "Move.HandMove.TreeInsert"
             },
             {
                 "title": "Move.HoleMove.HoleOpen"
@@ -44470,7 +44470,7 @@ tags = [
                     "title": "Move.ToolMove.TibiorMove.Overview"
                 },
                 {
-                    "title": "Move.HandMove.InsertTree"
+                    "title": "Move.HandMove.TreeInsert"
                 },
                 {
                     "title": "Move.ToolMove.BootMove.Overview"
@@ -44493,7 +44493,7 @@ tags = [
                 "title": "Move.ToolMove.TibiorMove.Overview"
             },
             {
-                "title": "Move.HandMove.InsertTree"
+                "title": "Move.HandMove.TreeInsert"
             },
             {
                 "title": "Move.ToolMove.BootMove.Overview"
@@ -44608,7 +44608,7 @@ tags = [
                     "title": "Move.HoleMove.ExpandHole"
                 },
                 {
-                    "title": "Move.HandMove.InsertTree"
+                    "title": "Move.HandMove.TreeInsert"
                 },
                 {
                     "title": "Move.ToolMove.SpadeMove.SpadePoke"
@@ -44643,7 +44643,7 @@ tags = [
                 "title": "Move.HoleMove.ExpandHole"
             },
             {
-                "title": "Move.HandMove.InsertTree"
+                "title": "Move.HandMove.TreeInsert"
             },
             {
                 "title": "Move.ToolMove.SpadeMove.SpadePoke"
@@ -44897,7 +44897,7 @@ tags = [
                     "title": "Via.ViaGeometry.ViaPoint.Microsite.MicrositeSelection"
                 },
                 {
-                    "title": "Move.HandMove.InsertTree"
+                    "title": "Move.HandMove.TreeInsert"
                 },
                 {
                     "title": "Move.ArmMove.TreeLoad"
@@ -44950,7 +44950,7 @@ tags = [
                 "title": "Via.ViaGeometry.ViaPoint.Microsite.MicrositeSelection"
             },
             {
-                "title": "Move.HandMove.InsertTree"
+                "title": "Move.HandMove.TreeInsert"
             },
             {
                 "title": "Move.ArmMove.TreeLoad"
@@ -45035,7 +45035,7 @@ tags = [
                     "title": "Move.HoleMove.ExpandHole"
                 },
                 {
-                    "title": "Move.HandMove.InsertTree"
+                    "title": "Move.HandMove.TreeInsert"
                 },
                 {
                     "title": "Via.ViaDirection.ViaDownSlope"
@@ -45073,7 +45073,7 @@ tags = [
                 "title": "Move.HoleMove.ExpandHole"
             },
             {
-                "title": "Move.HandMove.InsertTree"
+                "title": "Move.HandMove.TreeInsert"
             },
             {
                 "title": "Via.ViaDirection.ViaDownSlope"

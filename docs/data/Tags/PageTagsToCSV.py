@@ -953,8 +953,8 @@ json = {
         "Move.HandMove.HandBump",
         "Move.HandMove.HandMatch"
     ],
-    "Move/HandMove/InsertTree.md": [
-        "Move.HandMove.InsertTree"
+    "Move/HandMove/TreeInsert.md": [
+        "Move.HandMove.TreeInsert"
     ],
     "Move/HandMove/Overview.md": [
         "Move.HandMove.CupGrip",

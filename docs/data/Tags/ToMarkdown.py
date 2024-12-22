@@ -1470,34 +1470,34 @@ data = [
         "TagName": "Move.HandMove.HandSkreef"
     },
     {
-        "PagePath": "Move/HandMove/InsertTree.md",
+        "PagePath": "Move/HandMove/TreeInsert.md",
         "PaperPhoto": "2945.jpg",
-        "TagName": "Move.HandMove.InsertTree"
+        "TagName": "Move.HandMove.TreeInsert"
     },
     {
-        "PagePath": "Move/HandMove/InsertTree.md",
+        "PagePath": "Move/HandMove/TreeInsert.md",
         "PaperPhoto": "3060.jpg",
-        "TagName": "Move.HandMove.InsertTree"
+        "TagName": "Move.HandMove.TreeInsert"
     },
     {
-        "PagePath": "Move/HandMove/InsertTree.md",
+        "PagePath": "Move/HandMove/TreeInsert.md",
         "PaperPhoto": "Video_002.mp4",
-        "TagName": "Move.HandMove.InsertTree"
+        "TagName": "Move.HandMove.TreeInsert"
     },
     {
-        "PagePath": "Move/HandMove/InsertTree.md",
+        "PagePath": "Move/HandMove/TreeInsert.md",
         "PaperPhoto": "Video_005.mp4",
-        "TagName": "Move.HandMove.InsertTree"
+        "TagName": "Move.HandMove.TreeInsert"
     },
     {
-        "PagePath": "Move/HandMove/InsertTree.md",
+        "PagePath": "Move/HandMove/TreeInsert.md",
         "PaperPhoto": "Video_009.mp4",
-        "TagName": "Move.HandMove.InsertTree"
+        "TagName": "Move.HandMove.TreeInsert"
     },
     {
-        "PagePath": "Move/HandMove/InsertTree.md",
+        "PagePath": "Move/HandMove/TreeInsert.md",
         "PaperPhoto": "Video_011.mp4",
-        "TagName": "Move.HandMove.InsertTree"
+        "TagName": "Move.HandMove.TreeInsert"
     },
     {
         "PagePath": "Move/HandMove/Overview.md",

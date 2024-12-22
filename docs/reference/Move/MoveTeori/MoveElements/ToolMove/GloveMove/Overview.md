@@ -1,8 +1,13 @@
 # 🟠 <move>GloveMove</move>
 
-## Glove Anatomy
+## Glove.Anatomy
 
-## Glove Attributes
+- Cuff
+- Dorsal
+- Palm
+- Rubber
+
+## Glove.Attributes
 
 ## 🕸 GloveMove.Skema
 
@@ -31,10 +36,11 @@
 <!-- =================================================== -->
 ::: details 🛠 <dev>&&&</dev>
 
--
-
-<h2>PageTags</h2>
-
-- "Move.ToolMove.GloveMove.Overview"
+- CleanGloves to remove the grit that causes SkinErosion
+- FingerRevertMove
+    - GloveOff
+- GloveWipe 
+    - To remove Mud
+        - When Swapping SpadeHands for AmbiPlantor
 
 :::

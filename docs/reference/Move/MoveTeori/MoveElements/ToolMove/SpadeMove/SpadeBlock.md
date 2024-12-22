@@ -30,6 +30,6 @@
 <!-- =================================================== -->
 ::: details 🛠 <dev>&&&</dev>
 
-- Can be used while Walking or while InsertTree, like a SpadePry or with a SpadeProp (SpadeProp doesn't require ArmProp)
+- Can be used while Walking or while TreeInsert, like a SpadePry or with a SpadeProp (SpadeProp doesn't require ArmProp)
 - CollarGrip or HandleGrip or both, 2HandMove
 :::

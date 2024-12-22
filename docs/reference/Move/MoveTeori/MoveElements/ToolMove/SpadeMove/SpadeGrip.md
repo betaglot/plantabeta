@@ -29,6 +29,11 @@
 <!-- =================================================== -->
 ::: details 🛠 <dev>&&&</dev>
 
+- SpadeCollarGrip
+    - SpadeSkreef
+    - SpadeBlock
+    - SpadeTransport
+- SpadeHandleGrip
 -
 
 :::
