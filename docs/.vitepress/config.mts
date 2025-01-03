@@ -366,7 +366,7 @@ export default defineConfig({
 //           text: '🟠 <move>FootMove</move>', link: '/encyclopedia/Move/FootMove/Overview', collapsed: true, items: [
 //             { text: '🟠 <move>Foot Frase</move>', link: '/encyclopedia/Move/FootMove/Frase/Overview' },
 //             { text: '🟠 <move>FootArchSmear</move>', link: '/encyclopedia/Move/FootMove/FootArchSmear' },
-//             { text: '🟠 <move>FootClose</move>', link: '/encyclopedia/Move/FootMove/FootClose' },
+//             { text: '🟠 <move>FootSeal</move>', link: '/encyclopedia/Move/FootMove/FootSeal' },
 //             { text: '🟠 <move>FootDig</move>', link: '/encyclopedia/Move/FootMove/FootDig' },
 //             { text: '🟠 <move>FootDorsiflexion</move>', link: '/encyclopedia/Move/FootMove/FootDorsiflexion' },
 //             { text: '🟠 <move>FootDrag</move>', link: '/encyclopedia/Move/FootMove/FootDrag' },

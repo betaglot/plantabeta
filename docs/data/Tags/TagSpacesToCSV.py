@@ -13999,7 +13999,7 @@ json = [
                 "title": "Guide.Why.Injury"
             },
             {
-                "title": "Move.FootMove.FootClose"
+                "title": "Move.FootMove.FootSeal"
             },
             {
                 "title": "Move.HandMove.TreeInsert"
@@ -21861,7 +21861,7 @@ json = [
                 "title": "Move.ToolMove.BundleMove.BundlePeel"
             },
             {
-                "title": "Move.FootMove.FootClose"
+                "title": "Move.FootMove.FootSeal"
             },
             {
                 "title": "Move.HoleMove.ExpandHole"
@@ -21969,7 +21969,7 @@ json = [
                 "title": "RawVideo"
             },
             {
-                "title": "Move.FootMove.FootClose"
+                "title": "Move.FootMove.FootSeal"
             },
             {
                 "title": "Land.ContactSurface.WetSurface"
@@ -21998,7 +21998,7 @@ json = [
                 "title": "Move.MoveFrase.PlantingFrase"
             },
             {
-                "title": "Move.FootMove.FootClose"
+                "title": "Move.FootMove.FootSeal"
             },
             {
                 "title": "Move.HoleMove.ExpandHole"

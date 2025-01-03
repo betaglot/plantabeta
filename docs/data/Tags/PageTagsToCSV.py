@@ -891,8 +891,8 @@ json = {
     "Move/FootMove/FootArchSmear.md": [
         "Move.FootMove.FootArchSmear"
     ],
-    "Move/FootMove/FootClose.md": [
-        "Move.FootMove.FootClose"
+    "Move/FootMove/FootSeal.md": [
+        "Move.FootMove.FootSeal"
     ],
     "Move/FootMove/FootDig.md": [
         "Move.FootMove.FootDig"

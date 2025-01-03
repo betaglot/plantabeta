@@ -1,8 +1,6 @@
-# 🟠 <move>LookAway</move>
+# 🟠 <move>HandSeal</move>
 
-![MoveIkon](/Move/Move_Ikon.png)
-
-## 🕸 LookAway.Skema
+## 🕸 HandSeal.Skema
 
 ### Related 🟩<eko>Eko</eko>
 
@@ -29,15 +27,13 @@
 <!-- =================================================== -->
 ::: details 🛠 <dev>&&&</dev>
 
-- SoilExplode
-    - UnstableSlopedLand
-- ToPreventInjury
-    - EyeInjury
-    - HeadInjury
-    - Breathing in Particles of soil
-- (LookAway != NoLookAt)
+- HammerSeal
+    - Using the RadialBorder of Fist as Kontakt
+- PunchSeal
+- PinchSeal
+- PalmSeal  
+    - PalmarKontakt
+    - Analogous to ArchSeal
+- SlapSeal
 
-<h2>PageTags</h2>
-
-- "Move.HeadMove.LookAway"
 :::

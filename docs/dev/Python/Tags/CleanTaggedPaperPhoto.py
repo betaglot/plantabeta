@@ -29123,7 +29123,7 @@ tags = [
                     "title": "Guide.Why.Injury"
                 },
                 {
-                    "title": "Move.FootMove.FootClose"
+                    "title": "Move.FootMove.FootSeal"
                 },
                 {
                     "title": "Move.HandMove.TreeInsert"
@@ -29164,7 +29164,7 @@ tags = [
                 "title": "Guide.Why.Injury"
             },
             {
-                "title": "Move.FootMove.FootClose"
+                "title": "Move.FootMove.FootSeal"
             },
             {
                 "title": "Move.HandMove.TreeInsert"
@@ -44602,7 +44602,7 @@ tags = [
                     "title": "Move.ToolMove.BundleMove.BundlePeel"
                 },
                 {
-                    "title": "Move.FootMove.FootClose"
+                    "title": "Move.FootMove.FootSeal"
                 },
                 {
                     "title": "Move.HoleMove.ExpandHole"
@@ -44637,7 +44637,7 @@ tags = [
                 "title": "Move.ToolMove.BundleMove.BundlePeel"
             },
             {
-                "title": "Move.FootMove.FootClose"
+                "title": "Move.FootMove.FootSeal"
             },
             {
                 "title": "Move.HoleMove.ExpandHole"
@@ -44833,7 +44833,7 @@ tags = [
                     "title": "RawVideo"
                 },
                 {
-                    "title": "Move.FootMove.FootClose"
+                    "title": "Move.FootMove.FootSeal"
                 },
                 {
                     "title": "Land.ContactSurface.WetSurface"
@@ -44856,7 +44856,7 @@ tags = [
                 "title": "RawVideo"
             },
             {
-                "title": "Move.FootMove.FootClose"
+                "title": "Move.FootMove.FootSeal"
             },
             {
                 "title": "Land.ContactSurface.WetSurface"
@@ -44888,7 +44888,7 @@ tags = [
                     "title": "Move.MoveFrase.PlantingFrase"
                 },
                 {
-                    "title": "Move.FootMove.FootClose"
+                    "title": "Move.FootMove.FootSeal"
                 },
                 {
                     "title": "Move.HoleMove.ExpandHole"
@@ -44941,7 +44941,7 @@ tags = [
                 "title": "Move.MoveFrase.PlantingFrase"
             },
             {
-                "title": "Move.FootMove.FootClose"
+                "title": "Move.FootMove.FootSeal"
             },
             {
                 "title": "Move.HoleMove.ExpandHole"

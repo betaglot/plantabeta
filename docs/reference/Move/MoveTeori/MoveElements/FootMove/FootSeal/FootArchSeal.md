@@ -1,8 +1,6 @@
-# 🟠 <move>LookAway</move>
+# 🟠<move>FootArchSeal</move>
 
-![MoveIkon](/Move/Move_Ikon.png)
-
-## 🕸 LookAway.Skema
+## 🕸 FootArchSeal.Skema
 
 ### Related 🟩<eko>Eko</eko>
 
@@ -29,15 +27,6 @@
 <!-- =================================================== -->
 ::: details 🛠 <dev>&&&</dev>
 
-- SoilExplode
-    - UnstableSlopedLand
-- ToPreventInjury
-    - EyeInjury
-    - HeadInjury
-    - Breathing in Particles of soil
-- (LookAway != NoLookAt)
+- FootSeal
 
-<h2>PageTags</h2>
-
-- "Move.HeadMove.LookAway"
-:::
+Arch:::

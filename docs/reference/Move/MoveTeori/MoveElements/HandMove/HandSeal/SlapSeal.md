@@ -1,8 +1,6 @@
-# 🟠 <move>LookAway</move>
+# 🟠<move>SlapSeal</move>
 
-![MoveIkon](/Move/Move_Ikon.png)
-
-## 🕸 LookAway.Skema
+## 🕸 SlapSeal.Skema
 
 ### Related 🟩<eko>Eko</eko>
 
@@ -29,15 +27,8 @@
 <!-- =================================================== -->
 ::: details 🛠 <dev>&&&</dev>
 
-- SoilExplode
-    - UnstableSlopedLand
-- ToPreventInjury
-    - EyeInjury
-    - HeadInjury
-    - Breathing in Particles of soil
-- (LookAway != NoLookAt)
+- Slap DrySandSoil to cause it to NaturalSeal
+- SlapSeal really WetSoil, since WetSoil requires very little energy to Seal
+    - WetSoil grains can flow easily
 
-<h2>PageTags</h2>
-
-- "Move.HeadMove.LookAway"
 :::

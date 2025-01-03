@@ -61,9 +61,25 @@
 ::: details 🛠 <dev>&&&</dev>
 
 - (Neophyte, neofite)InsteadOf(Seedling)
+- TreeConfirm
+    - See if the tree has been planted with good quality
+    - TreeTwirl
+    - TreePull
+        - CollarGrip
+    - SitePoke
+        - Confirm the Seal around the collar
+            - LooseTree
+        - No roots exposed
+            - ShallowTree
 
-<h2>PageTags</h2>
-
+- BlindMove
+- PodGrip
+- TreeLoad
+    - FeelingForHold
+- StemGrip
+- TreeInsert
+    - PodGrip(2Finger)
+    - TreeRelease
 - "Move.HandMove.TreeFlip"
 - "Move.HandMove.TreeGrip"
 

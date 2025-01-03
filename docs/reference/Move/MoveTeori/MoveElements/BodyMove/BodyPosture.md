@@ -1,8 +1,6 @@
-# 🟠 <move>FootClose</move>
+# 🟠<move>BodyPosture</move>
 
-![MoveIkon](/Move/Move_Ikon.png)
-
-## 🕸 FootSeal.Skema
+## 🕸 BodyPosture.Skema
 
 ### Related 🟩<eko>Eko</eko>
 
@@ -29,10 +27,9 @@
 <!-- =================================================== -->
 ::: details 🛠 <dev>&&&</dev>
 
--
-
-<h2>PageTags</h2>
-
-- "Move.FootMove.FootClose"
+- NeutralShoulderPosture
+- ExternalHumerusRotationPostute
+    - Palm direction while walking
+        - ❌<error>Palm Facing Posterior</error>
 
 :::

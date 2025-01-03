@@ -1,6 +1,6 @@
-# 🟠 <move>HandSeal</move>
+# 🟠<move>ToeDragSeal</move>
 
-## 🕸 HandSeal.Skema
+## 🕸 ToeDragSeal.Skema
 
 ### Related 🟩<eko>Eko</eko>
 
@@ -27,19 +27,6 @@
 <!-- =================================================== -->
 ::: details 🛠 <dev>&&&</dev>
 
-- HammerSeal
-    - Using the RadialBorder of Fist as Kontakt
-- PunchSeal
-- PinchSeal
-- TampSeal  
-    - PalmarKontakt
-    - Analogous to StompSeal
-- SlapSeal
-
-<h2>PageTags</h2>
-
-- "Move.HandMove.HandClose"
-- "Move.HandMove.HandClose.HammerClose"
-- "Move.HandMove.HandClose.PunchClose"
+- ToeDragSeal
 
 :::

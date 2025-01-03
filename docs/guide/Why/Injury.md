@@ -46,7 +46,7 @@ Plantors kick To remove the layer of organic material off an intended microsite.
 A greater knowledge of possible alternative moves can prevent Christmas Toe from ever occuring.
 
 - [🟠<move>SpadeSkreef</move>](/encyclopedia/ToolMove/SpadeMove/SpadeSkreef) instead of only [🟠<move>FootSkreef</move>](/encyclopedia/Move/FootMove/FootSkreef)
-- [🟠<move>HandClose</move>](/encyclopedia/Move/HandMove/HandClose) instead of only [🟠<move>FootClose</move>](/encyclopedia/Move/FootMove/FootClose)
+- [🟠<move>HandClose</move>](/encyclopedia/Move/HandMove/HandClose) instead of only [🟠<move>FootSeal</move>](/encyclopedia/Move/FootMove/FootSeal)
 
 ---
 

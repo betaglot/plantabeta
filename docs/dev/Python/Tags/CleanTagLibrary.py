@@ -716,7 +716,7 @@ tags = [
     "Move.ClothingMove.ZipperMove",
     "Move.CoordinationMove",
     "Move.FootMove.FootArchSmear",
-    "Move.FootMove.FootClose",
+    "Move.FootMove.FootSeal",
     "Move.FootMove.FootDig",
     "Move.FootMove.FootDorsiflexion",
     "Move.FootMove.FootDrag",

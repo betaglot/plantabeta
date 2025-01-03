@@ -101,7 +101,7 @@ PageTags = {
 "Move/ClothingMove/RemoveMud.md": [],
 "Move/ClothingMove/ZipperMove.md": [],
 "Move/FootMove/FootArchSmear.md": [],
-"Move/FootMove/FootClose.md": [],
+"Move/FootMove/FootSeal.md": [],
 "Move/FootMove/FootDig.md": [],
 "Move/FootMove/FootDorsiflexion.md": [],
 "Move/FootMove/FootDrag.md": [],

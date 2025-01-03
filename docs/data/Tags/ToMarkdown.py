@@ -1315,24 +1315,24 @@ data = [
         "TagName": "Move.ClothingMove.Overview"
     },
     {
-        "PagePath": "Move/FootMove/FootClose.md",
+        "PagePath": "Move/FootMove/FootSeal.md",
         "PaperPhoto": "2945.jpg",
-        "TagName": "Move.FootMove.FootClose"
+        "TagName": "Move.FootMove.FootSeal"
     },
     {
-        "PagePath": "Move/FootMove/FootClose.md",
+        "PagePath": "Move/FootMove/FootSeal.md",
         "PaperPhoto": "Video_005.mp4",
-        "TagName": "Move.FootMove.FootClose"
+        "TagName": "Move.FootMove.FootSeal"
     },
     {
-        "PagePath": "Move/FootMove/FootClose.md",
+        "PagePath": "Move/FootMove/FootSeal.md",
         "PaperPhoto": "Video_008.mp4",
-        "TagName": "Move.FootMove.FootClose"
+        "TagName": "Move.FootMove.FootSeal"
     },
     {
-        "PagePath": "Move/FootMove/FootClose.md",
+        "PagePath": "Move/FootMove/FootSeal.md",
         "PaperPhoto": "Video_009.mp4",
-        "TagName": "Move.FootMove.FootClose"
+        "TagName": "Move.FootMove.FootSeal"
     },
     {
         "PagePath": "Move/FootMove/FootFrase.md",

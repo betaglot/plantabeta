@@ -51397,7 +51397,7 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Move.FootMove.FootClose",
+                    "title": "Move.FootMove.FootSeal",
                     "color": "#ff7537ff",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -51473,7 +51473,7 @@
                 "textcolor": "#000000ff"
             },
             {
-                "title": "Move.FootMove.FootClose",
+                "title": "Move.FootMove.FootSeal",
                 "color": "#ff7537ff",
                 "textcolor": "white"
             },
@@ -80247,7 +80247,7 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Move.FootMove.FootClose",
+                    "title": "Move.FootMove.FootSeal",
                     "color": "#ff7537ff",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -80309,7 +80309,7 @@
                 "textcolor": "white"
             },
             {
-                "title": "Move.FootMove.FootClose",
+                "title": "Move.FootMove.FootSeal",
                 "color": "#ff7537ff",
                 "textcolor": "white"
             },
@@ -80658,7 +80658,7 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Move.FootMove.FootClose",
+                    "title": "Move.FootMove.FootSeal",
                     "color": "#ff7537ff",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -80698,7 +80698,7 @@
                 "textcolor": "#ffffffff"
             },
             {
-                "title": "Move.FootMove.FootClose",
+                "title": "Move.FootMove.FootSeal",
                 "color": "#ff7537ff",
                 "textcolor": "white"
             },
@@ -80756,7 +80756,7 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Move.FootMove.FootClose",
+                    "title": "Move.FootMove.FootSeal",
                     "color": "#ff7537ff",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -80854,7 +80854,7 @@
                 "textcolor": "white"
             },
             {
-                "title": "Move.FootMove.FootClose",
+                "title": "Move.FootMove.FootSeal",
                 "color": "#ff7537ff",
                 "textcolor": "white"
             },

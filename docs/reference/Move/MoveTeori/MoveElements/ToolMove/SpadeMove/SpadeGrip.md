@@ -30,10 +30,13 @@
 ::: details 🛠 <dev>&&&</dev>
 
 - SpadeCollarGrip
-    - SpadeSkreef
-    - SpadeBlock
+    - SpadeCollarGrip(2Finger)
+    - SpadeCollarGrip(3Finger)
+        - SpadeSkreef
+        - SpadeBlock
     - SpadeTransport
+    - SpadeCollarSlide
+    - SpadeCollarSlip
 - SpadeHandleGrip
--
 
 :::

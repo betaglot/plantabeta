@@ -588,8 +588,8 @@ Download Printable resources
                         "link": "/reference/Move/FootMove/FootArchSmear"
                     },
                     {
-                        "text": "FootClose",
-                        "link": "/reference/Move/FootMove/FootClose"
+                        "text": "FootSeal",
+                        "link": "/reference/Move/FootMove/FootSeal"
                     },
                     {
                         "text": "FootDig",
