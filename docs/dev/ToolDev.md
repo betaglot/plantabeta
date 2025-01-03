@@ -34,6 +34,18 @@ Not a place where many duplicates items are stored
 
 ## 🔻<via>MarkaDev</via>
 
+### Kirigami
+
+> Kirigami is a variation of origami, the Japanese art of folding paper. In kirigami, the paper is cut as well as being folded, resulting in a three-dimensional design that stands away from the page.
+
+- Self-folding origami at any energy scale
+    - <https://www.nature.com/articles/ncomms15477>
+- Rigidly flat-foldable class of lockable origami-inspired metamaterials with topological stiff states
+    - <https://www.nature.com/articles/s41467-022-29484-1?fromPaywallRec=false>
+- Kirigami-enabled self-folding origami
+    - <https://www.sciencedirect.com/science/article/pii/S1369702119307394>
+    - Bilayer that curves when stretched and released. For FloraWrap
+
 ### ToolRequirements()
 
 - How are notebooks perforated?
