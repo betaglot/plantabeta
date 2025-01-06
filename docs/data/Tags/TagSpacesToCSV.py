@@ -21981,7 +21981,7 @@ json = [
                 "title": "Move.HoleMove.ExpandHole"
             },
             {
-                "title": "Move.ToolMove.SpadeMove.SpadeSlam"
+                "title": "Move.ToolMove.SpadeMove.SpadeImpact"
             }
         ]
     },

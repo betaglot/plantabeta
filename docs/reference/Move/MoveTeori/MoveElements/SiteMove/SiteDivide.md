@@ -1,7 +1,6 @@
-# 🟠<move>HandDragSeal</move>
+# 🟠<move>SiteDivide</move>
 
-
-## 🕸 HandDragSeal.Skema
+## 🕸 SiteDivide.Skema
 
 ### Related 🟩<eko>Eko</eko>
 
@@ -28,8 +27,8 @@
 <!-- =================================================== -->
 ::: details 🛠 <dev>&&&</dev>
 
-- LockedClawGrip
-    - Isometric, not concentric
-- Diagonal or Saggital
+- A site can be divided by
+    - SpadePogo
+    - SpadeImpact
 
 :::

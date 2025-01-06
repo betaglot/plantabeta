@@ -74,13 +74,13 @@ Wax to waterproof
 - WalkIn
 - BoxMove
 
-## 🟠<move>DoryDev</move>
+## 🟠<move>DoruDev</move>
 
 ### ToolRequirements()
 
 Greek for Spear
 
-Lash D to Dory
+Lash D to Doru
 
 ## 🟠<move>Plantor BagsDev</move>
 

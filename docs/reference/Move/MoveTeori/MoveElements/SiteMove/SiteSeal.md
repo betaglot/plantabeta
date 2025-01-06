@@ -1,6 +1,8 @@
-# 🟠 <move>HoleSeal</move>
+# 🟠 <move>SiteSeal</move>
 
 Aliases: HoleClose
+
+> to close a container or opening - [Cambridge](https://dictionary.cambridge.org/dictionary/english/seal)
 
 ![MoveIkon](/Move/Move_Ikon.png)
 
@@ -31,8 +33,8 @@ Aliases: HoleClose
 <!-- =================================================== -->
 ::: details 🛠 <dev>&&&</dev>
 
-- Holes without Trees are never closed by Plantors, they may close by Eko though.
-- Closed implies that there is a tree put in the hole
+- Seal implies that there is a tree put in the hole
+-
 
 - Axiom
     - Close() is Postcedent to Put()

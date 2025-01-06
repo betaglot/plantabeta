@@ -1121,8 +1121,8 @@ Download Printable resources
                                 "link": "/reference/Move/ToolMove/Spade/SpadeSkreef"
                             },
                             {
-                                "text": "SpadeSlam",
-                                "link": "/reference/Move/ToolMove/Spade/SpadeSlam"
+                                "text": "SpadeImpact",
+                                "link": "/reference/Move/ToolMove/Spade/SpadeImpact"
                             },
                             {
                                 "text": "SpadeStall",
@@ -1147,109 +1147,109 @@ Download Printable resources
                         ]
                     },
                     {
-                        "text": "Dory",
-                        "link": "/reference/Move/ToolMove/Dory/Overview",
+                        "text": "Doru",
+                        "link": "/reference/Move/ToolMove/Doru/Overview",
                         "collapsed": "true",
                         "items": [
                             {
-                                "text": "DoryAmble",
-                                "link": "/reference/Move/ToolMove/Dory/DoryAmble"
+                                "text": "DoruAmble",
+                                "link": "/reference/Move/ToolMove/Doru/DoruAmble"
                             },
                             {
-                                "text": "DoryAmble",
-                                "link": "/reference/Move/ToolMove/Dory/DoryAmble"
+                                "text": "DoruAmble",
+                                "link": "/reference/Move/ToolMove/Doru/DoruAmble"
                             },
                             {
-                                "text": "DoryAnchor",
-                                "link": "/reference/Move/ToolMove/Dory/DoryAnchor"
+                                "text": "DoruAnchor",
+                                "link": "/reference/Move/ToolMove/Doru/DoruAnchor"
                             },
                             {
-                                "text": "DoryBridge",
-                                "link": "/reference/Move/ToolMove/Dory/DoryBridge"
+                                "text": "DoruBridge",
+                                "link": "/reference/Move/ToolMove/Doru/DoruBridge"
                             },
                             {
-                                "text": "DoryBump",
-                                "link": "/reference/Move/ToolMove/Dory/DoryBump"
+                                "text": "DoruBump",
+                                "link": "/reference/Move/ToolMove/Doru/DoruBump"
                             },
                             {
-                                "text": "DoryChop",
-                                "link": "/reference/Move/ToolMove/Dory/DoryChop"
+                                "text": "DoruChop",
+                                "link": "/reference/Move/ToolMove/Doru/DoruChop"
                             },
                             {
-                                "text": "DoryCone",
-                                "link": "/reference/Move/ToolMove/Dory/DoryCone"
+                                "text": "DoruCone",
+                                "link": "/reference/Move/ToolMove/Doru/DoruCone"
                             },
                             {
-                                "text": "DoryDrag",
-                                "link": "/reference/Move/ToolMove/Dory/DoryDrag"
+                                "text": "DoruDrag",
+                                "link": "/reference/Move/ToolMove/Doru/DoruDrag"
                             },
                             {
-                                "text": "DoryGrip",
-                                "link": "/reference/Move/ToolMove/Dory/DoryGrip"
+                                "text": "DoruGrip",
+                                "link": "/reference/Move/ToolMove/Doru/DoruGrip"
                             },
                             {
-                                "text": "DoryMatch",
-                                "link": "/reference/Move/ToolMove/Dory/DoryMatch"
+                                "text": "DoruMatch",
+                                "link": "/reference/Move/ToolMove/Doru/DoruMatch"
                             },
                             {
-                                "text": "DoryPendulum",
-                                "link": "/reference/Move/ToolMove/Dory/DoryPendulum"
+                                "text": "DoruPendulum",
+                                "link": "/reference/Move/ToolMove/Doru/DoruPendulum"
                             },
                             {
-                                "text": "DoryPogo",
-                                "link": "/reference/Move/ToolMove/Dory/DoryPogo"
+                                "text": "DoruPogo",
+                                "link": "/reference/Move/ToolMove/Doru/DoruPogo"
                             },
                             {
-                                "text": "DoryPoke",
-                                "link": "/reference/Move/ToolMove/Dory/DoryPoke"
+                                "text": "DoruPoke",
+                                "link": "/reference/Move/ToolMove/Doru/DoruPoke"
                             },
                             {
-                                "text": "DoryPost",
-                                "link": "/reference/Move/ToolMove/Dory/DoryPost"
+                                "text": "DoruPost",
+                                "link": "/reference/Move/ToolMove/Doru/DoruPost"
                             },
                             {
-                                "text": "DoryProp",
-                                "link": "/reference/Move/ToolMove/Dory/DoryProp"
+                                "text": "DoruProp",
+                                "link": "/reference/Move/ToolMove/Doru/DoruProp"
                             },
                             {
-                                "text": "DoryPost",
-                                "link": "/reference/Move/ToolMove/Dory/DoryPost"
+                                "text": "DoruPost",
+                                "link": "/reference/Move/ToolMove/Doru/DoruPost"
                             },
                             {
-                                "text": "DoryRotate",
-                                "link": "/reference/Move/ToolMove/Dory/DoryRotate"
+                                "text": "DoruRotate",
+                                "link": "/reference/Move/ToolMove/Doru/DoruRotate"
                             },
                             {
-                                "text": "DorySkreef",
-                                "link": "/reference/Move/ToolMove/Dory/DorySkreef"
+                                "text": "DoruSkreef",
+                                "link": "/reference/Move/ToolMove/Doru/DoruSkreef"
                             },
                             {
-                                "text": "DorySlam",
-                                "link": "/reference/Move/ToolMove/Dory/DorySlam"
+                                "text": "DoruSlam",
+                                "link": "/reference/Move/ToolMove/Doru/DoruSlam"
                             },
                             {
-                                "text": "DorySlap",
-                                "link": "/reference/Move/ToolMove/Dory/DorySlap"
+                                "text": "DoruSlap",
+                                "link": "/reference/Move/ToolMove/Doru/DoruSlap"
                             },
                             {
-                                "text": "DorySlide",
-                                "link": "/reference/Move/ToolMove/Dory/DorySlide"
+                                "text": "DoruSlide",
+                                "link": "/reference/Move/ToolMove/Doru/DoruSlide"
                             },
                             {
-                                "text": "DoryStall",
-                                "link": "/reference/Move/ToolMove/Dory/DoryStall"
+                                "text": "DoruStall",
+                                "link": "/reference/Move/ToolMove/Doru/DoruStall"
                             },
                             {
-                                "text": "DoryStomp",
-                                "link": "/reference/Move/ToolMove/Dory/DoryStomp"
+                                "text": "DoruStomp",
+                                "link": "/reference/Move/ToolMove/Doru/DoruStomp"
                             },
                             {
-                                "text": "DorySwing",
-                                "link": "/reference/Move/ToolMove/Dory/DorySwing"
+                                "text": "DoruSwing",
+                                "link": "/reference/Move/ToolMove/Doru/DoruSwing"
                             },
                             {
-                                "text": "DoryError",
-                                "link": "/reference/Move/ToolMove/Dory/DoryError"
+                                "text": "DoruError",
+                                "link": "/reference/Move/ToolMove/Doru/DoruError"
                             }
                         ]
                     }

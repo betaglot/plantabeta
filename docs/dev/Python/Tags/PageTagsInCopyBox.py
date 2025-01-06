@@ -1469,8 +1469,8 @@ tags = {
     "Move/ToolMove/Spade/SpadeFrase.md": [
         "Move.ToolMove.SpadeMove.SpadeSwap"
     ],
-    "Move/ToolMove/Spade/SpadeSlam.md": [
-        "Move.ToolMove.SpadeMove.SpadeSlam"
+    "Move/ToolMove/Spade/SpadeImpact.md": [
+        "Move.ToolMove.SpadeMove.SpadeImpact"
     ],
     "Move/ToolMove/Spade/SpadeKurve.md": [
         "Move.ToolMove.SpadeMove.SpadeCircumduction",

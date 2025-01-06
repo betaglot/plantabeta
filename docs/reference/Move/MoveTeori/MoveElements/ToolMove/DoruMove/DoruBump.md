@@ -1,7 +1,6 @@
-# 🟠<move>HandDragSeal</move>
+# 🟠<move>DoruBump</move>
 
-
-## 🕸 HandDragSeal.Skema
+## 🕸 DoruBump.Skema
 
 ### Related 🟩<eko>Eko</eko>
 
@@ -28,8 +27,6 @@
 <!-- =================================================== -->
 ::: details 🛠 <dev>&&&</dev>
 
-- LockedClawGrip
-    - Isometric, not concentric
-- Diagonal or Saggital
+-
 
 :::

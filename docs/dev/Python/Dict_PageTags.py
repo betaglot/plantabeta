@@ -218,7 +218,7 @@ PageTags = {
 "Move/ToolMove/Spade/SpadeProp.md": [],
 "Move/ToolMove/Spade/SpadeSkreef.md": [],
 "Move/ToolMove/Spade/SpadeFrase.md": [],
-"Move/ToolMove/Spade/SpadeSlam.md": [],
+"Move/ToolMove/Spade/SpadeImpact.md": [],
 "Move/ToolMove/Spade/SpadeKurve.md": [],
 "Move/ToolMove/Spade/SpadeTest.md": [],
 "Move/TruckMove/Overview.md": [],

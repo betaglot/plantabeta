@@ -5060,9 +5060,9 @@ data = [
         "TagName": "Move.ToolMove.SpadeMove.SpadeSkreef"
     },
     {
-        "PagePath": "Move/ToolMove/Spade/SpadeSlam.md",
+        "PagePath": "Move/ToolMove/Spade/SpadeImpact.md",
         "PaperPhoto": "Video_008.mp4",
-        "TagName": "Move.ToolMove.SpadeMove.SpadeSlam"
+        "TagName": "Move.ToolMove.SpadeMove.SpadeImpact"
     },
     {
         "PagePath": "Move/ToolMove/Spade/SpadeKurve.md",

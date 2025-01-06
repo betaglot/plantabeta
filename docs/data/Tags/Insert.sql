@@ -6039,7 +6039,7 @@ INSERT INTO PagePath_TagName
         ('Video_008.mp4', 'Land.ContactSurface.WetSurface'),
         ('Video_008.mp4', 'Move.ArmMove.TreeLoad'),
         ('Video_008.mp4', 'Move.HoleMove.ExpandHole'),
-        ('Video_008.mp4', 'Move.ToolMove.SpadeMove.SpadeSlam'),
+        ('Video_008.mp4', 'Move.ToolMove.SpadeMove.SpadeImpact'),
         ('Video_009.mp4', 'RawVideo'),
         ('Video_009.mp4', 'Move.HandMove.HandClose'),
         ('Video_009.mp4', 'Move.MoveFrase.PlantingFrase'),

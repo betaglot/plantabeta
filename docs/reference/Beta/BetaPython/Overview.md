@@ -71,7 +71,7 @@ for Tree in bag:
 class Trench(PrepLand):
  
 
-class SpadeSlam(Move):
+class SpadeImpact(Move):
     def __init(self, MoveLocation)
 ```
 

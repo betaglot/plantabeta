@@ -1,7 +1,10 @@
-# 🟠<move>HandDragSeal</move>
+# 🟠<move>DoruPost</move>
 
+- Post Doru when setting up or returning to cache for easier grabbing with full bags. No bend and easier Find(Spade)
 
-## 🕸 HandDragSeal.Skema
+- DoruPost is performed when returning to the cache or when both hands are needed to adjust bags, transfer bundles, modify clothing layers, or to reload Marka roll.
+
+## 🕸 DoruPost.Skema
 
 ### Related 🟩<eko>Eko</eko>
 
@@ -28,8 +31,6 @@
 <!-- =================================================== -->
 ::: details 🛠 <dev>&&&</dev>
 
-- LockedClawGrip
-    - Isometric, not concentric
-- Diagonal or Saggital
+-
 
 :::

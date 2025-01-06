@@ -36,7 +36,7 @@ Falling is a large part of Climbing. PlantaBeta transfers the knowledge of how t
 
 Wrist Tendonitis occurs from straining the tissues around the wrist. The strain can be acute, such as when a Plantor hits a rock with full force and doesn't absorb the shock, or the strain can be from repetitive use.
 
-- [🟠<move>ArmAbsorb</move>](/encyclopedia/Move/ArmMove/ArmAbsorb) during the impact of [🟠<move>SpadeSlam</move>](/encyclopedia/Move/ToolMove/Spade/SpadeSlam)
+- [🟠<move>ArmAbsorb</move>](/encyclopedia/Move/ArmMove/ArmAbsorb) during the impact of [🟠<move>SpadeImpact</move>](/encyclopedia/Move/ToolMove/Spade/SpadeImpact)
 -
 
 ## Christmas Toe
@@ -57,7 +57,7 @@ A greater knowledge of possible alternative moves can prevent Christmas Toe from
 <!-- =================================================== -->
 ::: details 🛠 <dev>&&&</dev>
 
-- Weighted Dory for Antagonists. One bag up a day
+- Weighted Doru for Antagonists. One bag up a day
 - Athleanx  reverse lunge is easier on knees into trenches
 - Planting doesnt nake you jacked but what if did
     - Non monetary Benefit
