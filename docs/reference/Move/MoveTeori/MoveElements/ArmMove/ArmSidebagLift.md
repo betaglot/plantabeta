@@ -31,7 +31,5 @@
 
 -
 
-<h2>PageTags</h2>
-
 - "Move.ArmMove.ArmSidebagLift"
 :::

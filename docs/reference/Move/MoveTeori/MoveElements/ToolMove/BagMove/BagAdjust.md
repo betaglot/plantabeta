@@ -34,8 +34,4 @@
 - BagBuckleAdjust
     - BuckleMove
 
-<h2>PageTags</h2>
-
-- "Move.ToolMove.BagMove.BagAdjustment"
-
 :::

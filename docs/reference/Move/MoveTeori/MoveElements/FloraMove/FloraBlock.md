@@ -29,10 +29,13 @@
 <!-- =================================================== -->
 ::: details 🛠 <dev>&&&</dev>
 
--
-- FloraBlock is used with FloraParry
+- RadiorDev.UX
+- (FloraBlock != FloraParry)
     - In FloraBlock you are moving towards the Flora, conversely, in FloraParry the Flora is moving towards you
 - Push through like a CarWash with the tentacles
+- ShoulderSlide
+    - Drop your shoulder into the flora
+    - PanBeta(Running into an opponent who is trying to tackle you)
 
 <h2>PageTags</h2>
 

@@ -113,7 +113,7 @@ Psike is
 
 ### <eko>Eko Constraints</eko>
 
-Eko is weather, if you are in fog you can't see eco. Remember that eco is the object of environment, which always exists. Eko requires perception. Eko requires Psike
+Eko is weather, if you are in fog you can't see eko. Remember that eko is the object of environment, which always exists. Eko requires perception. Eko requires Psike
 
 ## Beta.Error
 

@@ -10,12 +10,12 @@ Eko is Geology and Biology
 
 ## Etymology of "<eko>Eko</eko>"
 
-The name of the Eko module is derived from <eko>eco</eko>system
+The name of the Eko module is derived from <eko>eko</eko>system
 
 The British Columbian Government's [definition](https://www2.gov.bc.ca/gov/content/environment/plants-animals-ecosystems/ecosystems):
 > An ecosystem is a collection of communities of both living and non-living things that are connected. The biotic elements in an ecosystem include living things such as plants and animals. The abiotic elements found in an ecosystem include non-living things like land forms or climate.
 
-The word "<eko>eco</eko>system" was derived from <eko>eco</eko>logy
+The word "<eko>eko</eko>system" was derived from <eko>eko</eko>logy
 
 > (originally as <eko>oeco</eko>logy ): from Greek <eko>oikos</eko> ‘house’ + -logy.
 

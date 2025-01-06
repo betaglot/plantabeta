@@ -1,8 +1,6 @@
-# 🟠 <move>InclineWalk</move>
+# 🟠<move>BodyTangent</move>
 
-![MoveIkon](/Move/Move_Ikon.png)
-
-## 🕸 InclineWalk.Skema
+## 🕸 BodyTangent.Skema
 
 ### Related 🟩<eko>Eko</eko>
 
@@ -14,8 +12,7 @@
 
 ### Related 🟠<move>Move</move>
 
-- FootInversion
-- FootEversion
+-
 
 ### Related 💜<psike>Psike</psike>
 
@@ -30,14 +27,10 @@
 <!-- =================================================== -->
 ::: details 🛠 <dev>&&&</dev>
 
-- InclineTraverseWalk
-    - LeanIntoIncline
-        - ArmProp
-        - SpadeAmble
-        - BranchGrip to minimize DownSlopeForces on Foot to prevent FootSlip
-    - Spade on UpSlope side
-    - Turn to Facing Slope when falling
-- InclineUpWalk
-- InclineDownWalk
+- LegSwing can be used to add energy to the Tangent before HandRelease
+- SteepDeclineWalk
+    - Use the Momentum from SteepDecline
+    - Like how the chairlift chairs (or T-bar) whip up when they go around a corner
+- PanBeta(HammerToss, Discus)
 
 :::

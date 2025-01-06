@@ -236,14 +236,14 @@ When is it useful for Icons to be monochrome outlines?
 - Which renderer to use for Icons in images?
     - No shading
 
-`eco`
+`eko`
 
-<beta>`eco`</beta>
+<beta>`eko`</beta>
 
-<code><move>eco</move></code>
+<code><move>eko</move></code>
 
 ```html
-<code><move>eco</move></code>
+<code><move>eko</move></code>
 ```
 
 ## <dev>DesignBox</dev>

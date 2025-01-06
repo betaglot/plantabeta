@@ -29,10 +29,14 @@
 <!-- =================================================== -->
 ::: details 🛠 <dev>&&&</dev>
 
--
-
-<h2>PageTags</h2>
-
-- "Move.FootMove.FootSkreef"
+- HeelSkreef
+    - HeelPushSkreef Moss on Cream
+    - FootDorsiFlexion
+- Don't FootSkreef Poa
+- Minimize FootSkreef
+- Stabilize your body during FootSkreef
+    - ArmProp
+        - HandSmear on Trunk
+    - SpadeProp
 
 :::

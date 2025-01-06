@@ -31,9 +31,21 @@
 <!-- =================================================== -->
 ::: details 🛠 <dev>&&&</dev>
 
--
-
-<h2>PageTags</h2>
+- [PanBeta(Grappling)](<https://www.invertedgear.com/blogs/inverted-gear-blog/a-visual-guide-to-hand-to-hand-grips-in-bjj>)
+    - 2Hand grips are used during WalkIns and WalkOuts
+        - Carrying [Tarps, CollapsedBoxes, Bags, WaterJugs]
+    - CGrip
+    - SleeveGrip
+    - PocketGrip
+    - PistolGrip
+        - Tarp
+        - BagGrip
+    - 2HandMove
+        - SGrip
+        - CableGrip
+            - No thumbs
+        - ButterflyGrip
+        - SeatbeltGrip
 
 - "Move.HandMove.CupGrip"
 - "Move.HandMove.FingerMove.FingerCurl"

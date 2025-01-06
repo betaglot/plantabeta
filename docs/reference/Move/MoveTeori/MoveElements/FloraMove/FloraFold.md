@@ -1,8 +1,6 @@
-# 🟠 <move>InclineWalk</move>
+# 🟠<move>FloraFold</move>
 
-![MoveIkon](/Move/Move_Ikon.png)
-
-## 🕸 InclineWalk.Skema
+## 🕸 FloraFold.Skema
 
 ### Related 🟩<eko>Eko</eko>
 
@@ -14,8 +12,7 @@
 
 ### Related 🟠<move>Move</move>
 
-- FootInversion
-- FootEversion
+-
 
 ### Related 💜<psike>Psike</psike>
 
@@ -30,14 +27,9 @@
 <!-- =================================================== -->
 ::: details 🛠 <dev>&&&</dev>
 
-- InclineTraverseWalk
-    - LeanIntoIncline
-        - ArmProp
-        - SpadeAmble
-        - BranchGrip to minimize DownSlopeForces on Foot to prevent FootSlip
-    - Spade on UpSlope side
-    - Turn to Facing Slope when falling
-- InclineUpWalk
-- InclineDownWalk
+- Fold flora away from a site
+    - To prevent getting ripped by Thorns
+    - To prevent getting impaled
+    - To move flora out of the way so you can skreef.
 
 :::

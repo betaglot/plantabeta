@@ -82,23 +82,19 @@ Greek for Spear
 
 Lash D to Doru
 
-## 🟠<move>Plantor BagsDev</move>
+## 🟠<move>PlantaforDev</move>
+
+> (Plantafor == "plant" + "bearer")
+
+Plantafors are not planting bags, in the same way that a Jeep is not a Model-T
 
 ### ToolRequirements()
-
-::: warning Obsolete Name
-Don't call them bags anymore
-:::
 
 ### Bags Transport Configuration
 
 Packed up space. Fold up Bag like origami
 
 Partially Disassemble to reduce space
-
-### 'Basket' instead of 'Sidebags'
-
-`Analogy{Saddle: PlantorBag}`
 
 ### 🟠<move>Bag MaterialDev</move>
 

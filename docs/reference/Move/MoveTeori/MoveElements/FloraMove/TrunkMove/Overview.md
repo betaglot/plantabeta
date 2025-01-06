@@ -1,8 +1,6 @@
-# 🟠 <move>InclineWalk</move>
+# 🟠<move>TrunkMove</move>
 
-![MoveIkon](/Move/Move_Ikon.png)
-
-## 🕸 InclineWalk.Skema
+## 🕸 TrunkMove.Skema
 
 ### Related 🟩<eko>Eko</eko>
 
@@ -14,8 +12,7 @@
 
 ### Related 🟠<move>Move</move>
 
-- FootInversion
-- FootEversion
+-
 
 ### Related 💜<psike>Psike</psike>
 
@@ -30,14 +27,16 @@
 <!-- =================================================== -->
 ::: details 🛠 <dev>&&&</dev>
 
-- InclineTraverseWalk
-    - LeanIntoIncline
-        - ArmProp
-        - SpadeAmble
-        - BranchGrip to minimize DownSlopeForces on Foot to prevent FootSlip
-    - Spade on UpSlope side
-    - Turn to Facing Slope when falling
-- InclineUpWalk
-- InclineDownWalk
+- SpadeHook
+    - TrunkDiameter < 3cm
+
+- BodyRevolve
+    - ForearmSlide, ShoulderSlide when BodyLean into Trunk
+        - When your Hands are Loaded
+        - Like when you Revolve out of a Metro door (carriage or station door)
+        - RadiorDev.UX
+    - BodyTangent
+    - HandSlide on Trunk
+    - Be sure that you're not going to snag a spike from a broken branch
 
 :::

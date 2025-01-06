@@ -11,7 +11,6 @@
 
 - SkreefSize
     - SkreefDiameter
-    - Circumference
     - SkreefDepth
 
 ## 🕸 SiteSkreef.Skema

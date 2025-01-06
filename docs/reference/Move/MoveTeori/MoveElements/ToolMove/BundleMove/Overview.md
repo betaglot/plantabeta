@@ -27,9 +27,10 @@
 <!-- =================================================== -->
 ::: details 🛠 <dev>&&&</dev>
 
-- BundleTuck: Roll in bundles
-
-<h2>PageTags</h2>
+- BundleWrap
+    - BlockClose
+    - Wrap up excess trees
+- BundleTuck: Roll bundles in to bags during BagIn
 
 - "Move.ToolMove.BundleMove.BundleRoll"
 - "Move.ToolMove.BundleMove.BundleUnwrap"

@@ -4,7 +4,7 @@
 
 ## How to deal with Ambiguity
 
-- Ambiguous eco
+- Ambiguous eko
 - Road to piece
 - Boundary Markas
 Plantor Confidence is the solution to Ambiguity

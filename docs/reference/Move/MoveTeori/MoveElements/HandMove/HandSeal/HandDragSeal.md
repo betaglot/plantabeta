@@ -1,6 +1,5 @@
 # 🟠<move>HandDragSeal</move>
 
-
 ## 🕸 HandDragSeal.Skema
 
 ### Related 🟩<eko>Eko</eko>

@@ -29,7 +29,7 @@
 <!-- =================================================== -->
 ::: details 🛠 <dev>&&&</dev>
 
--
+- PanBeta(BJJ, [PistolGrip, SleeveGrip, PocketGrip])
 
 <h2>PageTags</h2>
 

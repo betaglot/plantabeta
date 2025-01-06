@@ -29,6 +29,8 @@
 <!-- =================================================== -->
 ::: details 🛠 <dev>&&&</dev>
 
+- HandSlide
+- BodyRevolve rarely completes a full revolution
 - AroundCornerMove
 
 <h2>PageTags</h2>

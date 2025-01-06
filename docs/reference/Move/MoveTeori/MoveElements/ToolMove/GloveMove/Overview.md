@@ -39,7 +39,7 @@
 - CleanGloves to remove the grit that causes SkinErosion
 - FingerRevertMove
     - GloveOff
-- GloveWipe 
+- GloveWipe
     - To remove Mud
         - When Swapping SpadeHands for AmbiPlantor
 

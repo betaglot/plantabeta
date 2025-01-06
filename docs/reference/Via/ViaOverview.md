@@ -141,7 +141,7 @@ Directions
 - Request cache move
 - SquirrelCache -> PieceCache
 - Via layer
-- Via is superimposed onto eco
+- Via is superimposed onto eko
 - "Out of the way" Detour
 - Find the Path of least resistance
 - Navigate

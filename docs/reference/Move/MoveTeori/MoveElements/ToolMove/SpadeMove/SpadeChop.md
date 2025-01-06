@@ -1,8 +1,6 @@
-# 🟠 <move>SpadeSkreef</move>
+# 🟠<move>SpadeChop</move>
 
-![MoveIkon](/Move/Move_Ikon.png)
-
-## 🕸 SpadeSkreef.Skema
+## 🕸 SpadeChop.Skema
 
 ### Related 🟩<eko>Eko</eko>
 
@@ -10,7 +8,7 @@
 
 ### Related 🔻<via>Via</via>
 
-- HandPlacement on SpadeCollar or SpadeHandle is Via.
+-
 
 ### Related 🟠<move>Move</move>
 
@@ -29,6 +27,7 @@
 <!-- =================================================== -->
 ::: details 🛠 <dev>&&&</dev>
 
+- Knuckles Parallel to shaft
 - SpadeChopSkreef
     - SpadeChop is used anywhere, SpadeChopSkreef is only used when Skreefing a Site.
     - SpadeChop is often a Loop
@@ -39,10 +38,5 @@
     - PoaChop or RootChop
         - Poa must be under tension
             - FootSlide to apply tension
-- SpadeXSkreef
-    - CollarHand crosses from left to right while skreefing, making an X with the shaft and also an X shaped skreef on the ground
-    - Use when skreefing through a thick layer of duff which is collapsing into the site
-    - Use when skreefing through a loose layer of duff to search for the best microsite
-- ArmWrestleSkreef. ArmLock then use your whole body
 
 :::
