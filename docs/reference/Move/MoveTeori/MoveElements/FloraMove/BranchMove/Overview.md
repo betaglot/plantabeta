@@ -1,0 +1,58 @@
+# 🟠<move>BranchMove</move>
+
+## 🕸 BranchMove.Skema
+
+### Related 🟩<eko>Eko</eko>
+
+-
+
+### Related 🔻<via>Via</via>
+
+-
+
+### Related 🟠<move>Move</move>
+
+-
+
+### Related 💜<psike>Psike</psike>
+
+-
+
+---
+
+<!-- =================================================== -->
+<!-- =================================================== -->
+<!-- =================================================== -->
+<!-- =================================================== -->
+<!-- =================================================== -->
+::: details 🛠 <dev>&&&</dev>
+
+- BranchGrip
+    - When the Branch is small diameter, you can use your use your thumb to oppose your fingers, instead of using your palm
+        - Branch is compressed between ThumbDistalPhalanx and IntermediatePhalanges or ProximalPhalanges of IndexFinger and MiddleFinger
+- BranchPull
+    - Pull up on to maintain Balance
+        - Like how coaches support kids on balance beams Analogy({Coach: Kid, Branch: Plantor})
+        - Branch must be vertical or of a small tree. Pulling up on a long branch won't do anything
+- BranchPush
+- BranchSpring
+    - Aliases: BranchWhip
+    - BranchSpring is when a Branch is pulled then released
+    - Important to remember during TeamBeta, so you don't whip the person behind you
+- BranchSlide
+    - BranchSlide during BranchParry
+    - BranchSlide like RailingSlide when walking on stairs
+- BranchBreak
+    - BranchSnap
+-
+- Branch.Attributes
+    - Diameter
+    - Length
+    - Species
+        - Spruce are spiked
+    - Cleavage
+    - Brittleness
+        - Pliability
+    - Living or Dead
+
+:::

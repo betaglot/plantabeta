@@ -34,6 +34,7 @@
 <!-- =================================================== -->
 ::: details 🛠 <dev>&&&</dev>
 
+- MaleableSoil
 - StiffSoil, HardSoil, DrySoil
 - BrittleSoil
 - FrozenSoil

@@ -33,6 +33,7 @@
 <!-- =================================================== -->
 ::: details 🛠 <dev>&&&</dev>
 
+- ParryUp, ParryLateral
 - FloraSwim, like BreastStroke to part a way through Flora. 2ArmMove
     - TallGrassSwim
 - Can be performed with Arm or Spade

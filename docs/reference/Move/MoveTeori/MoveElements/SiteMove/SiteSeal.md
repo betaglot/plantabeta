@@ -34,14 +34,11 @@ Aliases: HoleClose
 ::: details 🛠 <dev>&&&</dev>
 
 - Seal implies that there is a tree put in the hole
--
+- AutoSeal
+    - The site seals by itself
+    - Mud, DrySediment
 
 - Axiom
-    - Close() is Postcedent to Put()
-
-<h2>PageTags</h2>
-
-- "Move.HoleMove.CloseHole"
-- "Move.HoleMove.CloseHole.MultipleToolClose"
+    - Seal() is Postcedent to Put()
 
 :::

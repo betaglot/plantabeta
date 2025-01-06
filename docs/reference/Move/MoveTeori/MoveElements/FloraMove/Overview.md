@@ -33,18 +33,26 @@
 <!-- =================================================== -->
 ::: details 🛠 <dev>&&&</dev>
 
+- WristHook
+    - Useful when the TreeHand is Loaded with a tree, so you can't use your fingers to move the Flora
+- RungGrip
+    - Implies HorizontalBranch
 - SlapStick
     - Rake step
 - Eko branch leverage for break. Norah Impaled
-
-ArmProp to TrunkPush or BranchPush like pushing open a door. There is also ArmAbduction
-
-<h2>PageTags</h2>
-
-- "Move.PlantMove.Overview"
-- "Move.PlantMove.SnagMove.BagSnag"
-- "Move.PlantMove.SnagMove.FootSnag"
-- "Move.PlantMove.SnagMove.Overview"
-- "Move.PlantMove.SnagMove.SpadeSnag"
+- UlnarDeviationSnap
+    - Release once you hear the snap, then bump to PinchGrip to bring Distal and Medial sides of break to parallel to fully break the branch. Sometimes the bark keeps both sides attached.
+- ArmProp to TrunkPush or BranchPush like pushing open a door. There is also ArmAbduction
+- Flora.Attributes
+    - Diameter
+    - Length
+    - Species
+        - Spruce are spiked
+    - Cleavage
+    - Brittleness
+        - Pliability
+    - Living or Dead
+    - Color
+    -
 
 :::
