@@ -82,11 +82,11 @@ Greek for Spear
 
 Lash D to Doru
 
-## 🟠<move>PlantaforDev</move>
+## 🟠<move>FitoforDev</move>
 
-> (Plantafor == "plant" + "bearer")
+> (Fitofor == "plant" + "bearer")
 
-Plantafors are not planting bags, in the same way that a Jeep is not a Model-T
+Fitofors are not planting bags, in the same way that a Jeep is not a Model-T
 
 ### ToolRequirements()
 
@@ -96,7 +96,11 @@ Packed up space. Fold up Bag like origami
 
 Partially Disassemble to reduce space
 
-### 🟠<move>Bag MaterialDev</move>
+### 🟠<move>PieceCacheDev</move>
+
+Somehow use Fitofor to carry a PieceCache
+
+### 🟠<move>BagMaterialDev</move>
 
 #### ToolRequirements()
 

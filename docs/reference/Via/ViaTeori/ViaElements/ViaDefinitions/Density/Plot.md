@@ -2,9 +2,9 @@
 
 > The area of the circle who's radius is created by a plot cord of a given length, usually 4 meters
 
-You Plot EcoDensity, not ViaDensity. ViaDensity is the density of planned Microsites, while EcoDensity is the density of planted Seedlings
+You Plot EcoDensity, not ViaDensity. ViaDensity is the density of planned Microsites, while EcoDensity is the density of planted Fitons
 
-A plot is almost always a circle, some checkers implement the plot as a sphere. When the Plot is a Sphere then Seedlings can be closer together on slopes.
+A plot is almost always a circle, some checkers implement the plot as a sphere. When the Plot is a Sphere then Fitons can be closer together on slopes.
 
 ## Circle
 

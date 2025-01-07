@@ -34,7 +34,7 @@
 ### Obstacle for Cows
 
 - An object which cows avoid stepping near.
-- Proctects the Seedling from Cows
+- Proctects the Fiton from Cows
 - Cows physically can step anywhere, but they choose not to. Comfort
 
 A stump is an obstacle for cows but not for plantors.

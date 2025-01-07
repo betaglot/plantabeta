@@ -28,7 +28,7 @@
 
 💜<psike>"don't need to": NOT</psike>
 
-🟩<eko>"spruce": Seedling</eko>
+🟩<eko>"spruce": Fiton</eko>
 
 🟠<move>"skreef": SkreefMove</move>
 

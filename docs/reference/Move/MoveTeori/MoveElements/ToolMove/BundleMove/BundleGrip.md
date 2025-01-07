@@ -27,10 +27,6 @@
 <!-- =================================================== -->
 ::: details 🛠 <dev>&&&</dev>
 
--
-
-<h2>PageTags</h2>
-
-- "Move.ToolMove.BundleMove.BundleGrip"
+- Grip the Wrapper to avoid pulling out a Fiton
 
 :::

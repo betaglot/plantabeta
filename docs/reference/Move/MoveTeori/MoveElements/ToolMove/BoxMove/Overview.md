@@ -31,9 +31,32 @@
 <!-- =================================================== -->
 ::: details 🛠 <dev>&&&</dev>
 
+- BoxConsolidate
+    - PartialBox
 - Single BoxCarry
 - Double BoxCarry
+    - Stacked not Akimbo
 - BoxDrag
+- BoxAttributes
+    - BoxWeight
+    - BoxDimension
+        - BoxLength
+        - BoxHeight
+            - SummerTrees
+            - SpringTrees
+        - BoxWidth
+    - BoxMaterial
+        - Waxed or Unwaxed
+    - BoxPlantCount
+    - BoxSpecies
+- BoxAnatomy
+    - BoxHandle
+    - BoxCorner
+    - BoxEdge
+    - BoxFlap
+    - BoxLock
+    - BoxSide
+    - BoxBase
 
 <h2>PageTags</h2>
 

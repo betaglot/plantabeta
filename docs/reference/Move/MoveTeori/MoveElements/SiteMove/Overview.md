@@ -1,10 +1,10 @@
-# 🟠 <move>HoleMove</move>
+# 🟠 <move>SiteMove</move>
 
-## Hole Anatomy
+## Sit.Anatomy
 
-## Hole Attributes
+## Site.Attributes
 
-## 🕸 HoleMove.Skema
+## 🕸 SiteMove.Skema
 
 ### Related 🟩<eko>Eko</eko>
 
@@ -31,13 +31,21 @@
 <!-- =================================================== -->
 ::: details 🛠 <dev>&&&</dev>
 
+- 
+- Fitosite is a PlantedSite. There is a Fiton in the Site
 - SiteState
     1. Selected
-    2. Skreefed
-    3. Opened
-    4. Occupied
-    5. Sealed
-    6. Marked
+        - NeoSite hasn't been tested yet
+    2. Inspected
+        - PseudoSite
+        - EuSite
+    3. Skreefed
+    4. Entered
+    5. Dilated
+    6. Inserted
+    7. Sealed
+        - FitoSite
+    8. Marked
 
 <h2>PageTags</h2>
 
