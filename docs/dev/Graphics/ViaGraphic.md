@@ -2,6 +2,18 @@
 
 ## ViaDiagram is a subset of ViaGraphic
 
+## IsochroneMap
+
+IsokroneMap
+
+[I made maps that show time instead of space](https://www.youtube.com/watch?v=rC2VQ-oyDG0&ab_channel=V%C3%A1clavVolhejn)
+
+<https://en.wikipedia.org/wiki/Isochrone_map#:~:text=An%20isochrone%20(iso%20%3D%20equal%2C,areas%20of%20equal%20travel%20time>.
+
+- Isochrones are currently typically computed by via generating shortest-path trees on network graphs, and then generating a convex hull around the accessible nodes.
+
+- Recent techniques in visualization include linking travel times to network edges to show the paths accessible from a point rather than show the area accessible from a point.
+
 ## Line Type
 
 DottedLine=Deadwalk

@@ -138,6 +138,7 @@ Directions
 <!-- =================================================== -->
 ::: details 🛠 <dev>&&&</dev>
 
+- IsochroneMap
 - Request cache move
 - SquirrelCache -> PieceCache
 - Via layer

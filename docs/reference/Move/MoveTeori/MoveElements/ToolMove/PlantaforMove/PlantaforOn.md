@@ -1,8 +1,8 @@
-# 🟠 <move>Arm Sidebag Lift</move>
+# 🟠 <move>PlantaforOn</move>
 
 ![MoveIkon](/Move/Move_Ikon.png)
 
-## 🕸 ArmSideBagLift.Skema
+## 🕸 PlantaforOn.Skema
 
 ### Related 🟩<eko>Eko</eko>
 
@@ -29,7 +29,10 @@
 <!-- =================================================== -->
 ::: details 🛠 <dev>&&&</dev>
 
--
-
-- "Move.ArmMove.ArmSidebagLift"
+- StandingPlantaforOn
+- SittingPlantaforOn
+    - BodyRockUp
+- BuckleGrip
+    - You can lift the Plantafor on using BuckleGrip if the bags are lightweight
+- ShoulderThread without touching Straps with dirty hands
 :::

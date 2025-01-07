@@ -1,8 +1,8 @@
-# 🟠 <move>LegSidebagLift</move>
+# 🟠 <move>BagLift</move>
 
 ![MoveIkon](/Move/Move_Ikon.png)
 
-## 🕸 LegSidebagLift.Skema
+## 🕸 ArmBagLift.Skema
 
 ### Related 🟩<eko>Eko</eko>
 
@@ -29,9 +29,10 @@
 <!-- =================================================== -->
 ::: details 🛠 <dev>&&&</dev>
 
--
-
-<h2>PageTags</h2>
-
-- "Move.LegMove.LegSidebagLift"
+- The Via is almost always 🔻<via>Over</via>
+- Over HighStump on DeclineWalk
+- Constriction
+- Lift over Obstacle
+- ArmBagLift
+- LegBagLift
 :::

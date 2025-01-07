@@ -152,19 +152,26 @@ Pannier
 
 ### 🟠<move>BackBagDev</move>
 
+- ❌<error>There needs to be another moniker for "BackBag"</error>
+    - Something like "toolbox"
+
 - Use waterproof Flap instead of sphincter design, since sphincter allows water to collect and slowly seep into backbag.
 - Pocket on underside of Flap
 
-### 🟠<move>MarkorDev</move>
+### 🟠<move>MarkaforDev</move>
 
 Ideally there would be a Markor on each Ulnor
 
 - Stored in many places like a knife thrower in Assassins Creed doesn't throw from the same place each time. Take from wherever is most convenient.
 
-- SpadeMarkor
-- KnemidesMarkor
+- SpadeMarkafor
+- TibiorMarkafor
 
-### PolyMarkor
+### PolyMarkafor
+
+Polychrome or Polytipos
+
+More than one color
 
 ## 🟠<move>RopeDev</move>
 

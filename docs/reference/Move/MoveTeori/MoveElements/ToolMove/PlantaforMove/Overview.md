@@ -1,8 +1,14 @@
-# 🟠 <move>BagDeadlift</move>
+# 🟠 <move>PlantaforMove</move>
 
-![MoveIkon](/Move/Move_Ikon.png)
+Aliases: Planting Bags
 
-## 🕸 BagDeadlift.Skema
+Roll up your back bag layer to shell from water and dirt
+
+## PlantaforAnatomy
+
+## PlantaforAttributes
+
+## 🕸 PlantaforMove.Skema
 
 ### Related 🟩<eko>Eko</eko>
 
@@ -29,9 +35,7 @@
 <!-- =================================================== -->
 ::: details 🛠 <dev>&&&</dev>
 
--
+- BagMove.Error
+    - BagSpill
 
-<h2>PageTags</h2>
-
-- "Move.ToolMove.BagMove.BagDeadlift"
 :::

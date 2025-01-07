@@ -1,12 +1,10 @@
-# 🟠 <move>BagMove</move>
+# 🟠<move>BagIn</move>
 
-Roll up your back bag layer to shell from water and dirt
+Aliases: Bag up some trees
 
-## Bag Anatomy
+> Loading trees into your Bags
 
-## Bag Attributes
-
-## 🕸 BagMove.Skema
+## 🕸 BagIn.Skema
 
 ### Related 🟩<eko>Eko</eko>
 
@@ -33,7 +31,10 @@ Roll up your back bag layer to shell from water and dirt
 <!-- =================================================== -->
 ::: details 🛠 <dev>&&&</dev>
 
-- BagMove.Error
-    - BagSpill
+- BundleInsert
+- BundlePackPattern
+- BundlePeel
+- BundleUnwrap
+    - Wind can blow away the BundleWrappers
 
 :::
