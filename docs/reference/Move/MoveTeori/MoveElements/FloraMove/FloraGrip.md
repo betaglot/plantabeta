@@ -1,8 +1,8 @@
-# 🟠 <move>FloraGrip</move>
+# 🟠 <move>FloraMano</move>
 
 ![MoveIkon](/Move/Move_Ikon.png)
 
-## 🕸 FloraGrip.Skema
+## 🕸 FloraMano.Skema
 
 ### Related 🟩<eko>Eko</eko>
 
@@ -33,5 +33,5 @@
 
 <h2>PageTags</h2>
 
-- "Move.HandMove.BranchGrip"
+- "Move.ManoMove.BranchMano"
 :::

@@ -39,7 +39,7 @@ Short Route
 
 ## Quote
 
-- “Credit card hold”, “There’s almost nothing to grip”
+- “Credit card hold”, “There’s almost nothing to Mano”
 RouteSurfaceSize
 - “Painful”, “Heinous”, “Horrible”, “Terrible”, “Awful”  
 - “You look at this crack and it is the shallowest slipperiest most awful thing you’ve ever seen”\AndrewBisharat talking about Silence\ReelRock13
@@ -74,7 +74,7 @@ RouteSurfaceSize
             - Movements which don’t Slide.
             - PivotMovements Slide as they Rotate.
         - SmearMovement
-        - CrimpGrip
+        - CrimpMano
 - (SmearMovement)To(SlideMovement) requires (StaticFriction)To(KineticFriction).
     - To FootSlide down to a FootHold.
     - Take enough weight off feet to be able to FootSlide them when Stemming or during to make space on SmallHold  FootSwap on a SmallHold
@@ -83,7 +83,7 @@ RouteSurfaceSize
 
 - Definition(CoefficientOfFriction)
     - The ratio of the Frictional resistance force to the normal force which presses the Surfaces together.
-    - A lower coefficient of Friction on a RouteSurface increases the Intensity of the Grip.
+    - A lower coefficient of Friction on a RouteSurface increases the Intensity of the Mano.
 - Water
     - [Adam Ondra #28: Conditions matter](https://youtu.be/KGIxXZClkUM?list=PL4cmXgffCRMz9xMKxs0ftDJUH-n-WGTuy&t=70)
         - “In Tokyo at least we can finally see the sea but the fact that it's hundred meters away from the climbing venue it's not so nice for a climbing conditions is gonna be humid another kind of cloud or who is very sensitive to the perfect conditions I like it cold I like it windy”
@@ -132,7 +132,7 @@ RouteSurfaceSize
         - GravityDecreasesFriction
             - Definition(GravityDecreasesFriction)
                 - When Gravity acts in the opposite direction as Climber.
-            - UnderclingGrip
+            - UnderclingMano
 - SurfaceArea
     - Definition(SurfaceArea)
         - The area of contact between Climber and a RouteSurface of a Route.

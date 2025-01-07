@@ -106,7 +106,7 @@ Route.Complexity(PerceptibleAffordance < HiddenAffordance < FalseAffordance)
 
 #### Eko Affords Move
 
-- That branch looks thin enough that I can grip it
+- That branch looks thin enough that I can Mano it
 -
 
 #### Eko affords Via

@@ -133,7 +133,7 @@ Maximum Length
 <!-- =================================================== -->
 ::: details 🛠 <dev>&&&</dev>
 
-- What tool to use which allows easy uploading?
+- What Instrument to use which allows easy uploading?
 - <https://opensource.guide/how-to-contribute/>
 
 - It will look good on your resume, volunteering for a Non Profit combating climat crisis

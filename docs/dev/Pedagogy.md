@@ -20,7 +20,7 @@ Percentages
 
 PurposeGames.com
 
-Use Tools that GenZ is already addicted to. Many PotentialPlantors are young adults who are addicted to playing video games. Create a video game which teaches PlantaBeta so plantors can increase their planting knowledge before the season starts.
+Use Instruments that GenZ is already addicted to. Many PotentialPlantors are young adults who are addicted to playing video games. Create a video game which teaches PlantaBeta so plantors can increase their planting knowledge before the season starts.
 
 It's ok if the game is boring if you're being paid to play it.
 
@@ -35,7 +35,7 @@ The best way to reduce the CurseOfKnowledge is to check the user's knowledge fre
 
 ### UI ToReduceCurseOfKnowledge
 
-- Tooltips like Wikipedia On(Hover)
+- Instrumenttips like Wikipedia On(Hover)
 
 ## Skreefing Lesson
 
@@ -45,7 +45,7 @@ Use the sand at 10cm below surface for SpadeSkreef, since it's a similar density
 
 Use an ExperiencedPlantor to act as a Pacer for NovicePlantors. To show the speed goal speed. Be sure that the Pacer isn't competing with the Novices, that is, the Pacer must not try to constantly go faster than the novices.
 
-## Pedagogy Tools
+## Pedagogy Instruments
 
 - Crew GoPro set
     - ChestMount

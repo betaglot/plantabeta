@@ -70,7 +70,7 @@ Aliases: Tree, Neophyte, Fiton
 - TreeLibrary*TreeIdentification_NeedleType_NeedleWidth_FirTree*
 - TreeLibrary_TreeIdentification_PlantingPhotoLibrary_BiologyStudent_UniversityStudent_MastersThesis
 - TreeLibrary_TreeIdentification_TreeSilhouette_InsideResidual
-- TreeLibrary_TreeInjury_NeedleRip_TreeGrip
+- TreeLibrary_TreeInjury_NeedleRip_TreeMano
 - TreeLibrary_TreeInjury_RootCrush_BundleSqueeze
 - TreeLibrary_TreeInjury_RootShock_TreeBoxDrop
 - TreeLibrary_TreeInjury_TreeCrush_CowTrample

@@ -24,7 +24,7 @@ HubermanLab Guest Series [with Dr. Matt Walker](https://www.youtube.com/playlist
 
 ## Questions about the Element
 
-## RequiredTools
+## RequiredInstruments
 
 - Ear Plugs
 - Sleep Mask
@@ -77,5 +77,5 @@ HubermanLab Guest Series [with Dr. Matt Walker](https://www.youtube.com/playlist
 
 <h2>PageTags</h2>
 
-- "Move.ToolMove.TruckMove.Sleep"
+- "Move.InstrumentMove.TruckMove.Sleep"
 :::

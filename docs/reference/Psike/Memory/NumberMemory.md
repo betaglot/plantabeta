@@ -3,7 +3,7 @@
 
 ## Mnemonics
 
-- A tool for remembering numbers are mnemonics.
+- A Instrument for remembering numbers are mnemonics.
 
 - Use your visual system to remember.
     - Remember Grids and Shapes of bundles

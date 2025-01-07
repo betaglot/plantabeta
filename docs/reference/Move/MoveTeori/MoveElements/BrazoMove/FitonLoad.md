@@ -10,7 +10,7 @@
 
 ### Related 🔻<via>Via</via>
 
-- Deciding where to grip tree is Via. If you want to TreeFlip then you grab pod, if you want to
+- Deciding where to Mano tree is Via. If you want to TreeFlip then you grab pod, if you want to
 
 ### Related 🟠<move>Move</move>
 

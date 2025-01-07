@@ -622,57 +622,57 @@ Download Printable resources
                 ]
             },
             {
-                "text": "HandMove",
-                "link": "/reference/Move/HandMove/Overview",
+                "text": "ManoMove",
+                "link": "/reference/Move/ManoMove/Overview",
                 "collapsed": "true",
                 "items": [
                     {
                         "text": "Hand Frase",
-                        "link": "/reference/Move/HandMove/Frase/Overview"
+                        "link": "/reference/Move/ManoMove/Frase/Overview"
                     },
                     {
-                        "text": "BagGrip",
-                        "link": "/reference/Move/HandMove/BagGrip"
+                        "text": "BagMano",
+                        "link": "/reference/Move/ManoMove/BagMano"
                     },
                     {
-                        "text": "BoxGrip",
-                        "link": "/reference/Move/HandMove/BoxGrip"
+                        "text": "BoxMano",
+                        "link": "/reference/Move/ManoMove/BoxMano"
                     },
                     {
-                        "text": "BranchGrip",
-                        "link": "/reference/Move/HandMove/BranchGrip"
+                        "text": "BranchMano",
+                        "link": "/reference/Move/ManoMove/BranchMano"
                     },
                     {
-                        "text": "BranchSnapGrip",
-                        "link": "/reference/Move/HandMove/BranchSnapGrip"
+                        "text": "BranchSnapMano",
+                        "link": "/reference/Move/ManoMove/BranchSnapMano"
                     },
                     {
                         "text": "HandClose",
-                        "link": "/reference/Move/HandMove/HandClose"
+                        "link": "/reference/Move/ManoMove/HandClose"
                     },
                     {
                         "text": "HandPoke",
-                        "link": "/reference/Move/HandMove/HandPoke"
+                        "link": "/reference/Move/ManoMove/HandPoke"
                     },
                     {
                         "text": "HandSkreef",
-                        "link": "/reference/Move/HandMove/HandSkreef"
+                        "link": "/reference/Move/ManoMove/HandSkreef"
                     },
                     {
-                        "text": "SpadeHandleGrip",
-                        "link": "/reference/Move/HandMove/SpadeHandleGrip"
+                        "text": "SpadeHandleMano",
+                        "link": "/reference/Move/ManoMove/SpadeHandleMano"
                     },
                     {
-                        "text": "SpadeCollarGrip",
-                        "link": "/reference/Move/HandMove/SpadeCollarGrip"
+                        "text": "SpadeCollarMano",
+                        "link": "/reference/Move/ManoMove/SpadeCollarMano"
                     },
                     {
-                        "text": "TreeGrip",
-                        "link": "/reference/Move/HandMove/TreeGrip"
+                        "text": "TreeMano",
+                        "link": "/reference/Move/ManoMove/TreeMano"
                     },
                     {
-                        "text": "TreeTestGrip",
-                        "link": "/reference/Move/HandMove/TreeTestGrip"
+                        "text": "TreeTestMano",
+                        "link": "/reference/Move/ManoMove/TreeTestMano"
                     }
                 ]
             },
@@ -855,7 +855,7 @@ Download Printable resources
                     },
                     {
                         "text": "HandSkreef",
-                        "link": "/reference/Move/HandMove/HandSkreef"
+                        "link": "/reference/Move/ManoMove/HandSkreef"
                     },
                     {
                         "text": "SpadeSkreef",
@@ -874,8 +874,8 @@ Download Printable resources
                         "collapsed": "true",
                         "items": [
                             {
-                                "text": "BagGrip",
-                                "link": "/reference/Move/ToolMove/Bag/BagGrip"
+                                "text": "BagMano",
+                                "link": "/reference/Move/ToolMove/Bag/BagMano"
                             },
                             {
                                 "text": "Bag Frase",
@@ -921,8 +921,8 @@ Download Printable resources
                                 "link": "/reference/Move/ToolMove/Boot/Frase/Overview"
                             },
                             {
-                                "text": "BootGrip",
-                                "link": "/reference/Move/ToolMove/Boot/BootGrip"
+                                "text": "BootMano",
+                                "link": "/reference/Move/ToolMove/Boot/BootMano"
                             },
                             {
                                 "text": "BootSkreef",
@@ -944,8 +944,8 @@ Download Printable resources
                                 "link": "/reference/Move/ToolMove/Box/Frase/Overview"
                             },
                             {
-                                "text": "BoxGrip",
-                                "link": "/reference/Move/ToolMove/Box/BoxGrip"
+                                "text": "BoxMano",
+                                "link": "/reference/Move/ToolMove/Box/BoxMano"
                             }
                         ]
                     },
@@ -959,8 +959,8 @@ Download Printable resources
                                 "link": "/reference/Move/ToolMove/Bundle/Frase/Overview"
                             },
                             {
-                                "text": "BundleGrip",
-                                "link": "/reference/Move/ToolMove/Bundle/BundleGrip"
+                                "text": "BundleMano",
+                                "link": "/reference/Move/ToolMove/Bundle/BundleMano"
                             },
                             {
                                 "text": "BundlePeel",
@@ -984,8 +984,8 @@ Download Printable resources
                                 "link": "/reference/Move/ToolMove/Marka/Frase/Overview"
                             },
                             {
-                                "text": "MarkaGrip",
-                                "link": "/reference/Move/ToolMove/Marka/MarkaGrip"
+                                "text": "MarkaMano",
+                                "link": "/reference/Move/ToolMove/Marka/MarkaMano"
                             },
                             {
                                 "text": "MarkaKnot",
@@ -1015,8 +1015,8 @@ Download Printable resources
                                 "link": "/reference/Move/ToolMove/Tibior/Frase/Overview"
                             },
                             {
-                                "text": "TibiorGrip",
-                                "link": "/reference/Move/ToolMove/Tibior/TibiorGrip"
+                                "text": "TibiorMano",
+                                "link": "/reference/Move/ToolMove/Tibior/TibiorMano"
                             },
                             {
                                 "text": "TibiorOn",
@@ -1038,8 +1038,8 @@ Download Printable resources
                                 "link": "/reference/Move/ToolMove/Glove/Frase/Overview"
                             },
                             {
-                                "text": "GloveGrip",
-                                "link": "/reference/Move/ToolMove/Glove/GloveGrip"
+                                "text": "GloveMano",
+                                "link": "/reference/Move/ToolMove/Glove/GloveMano"
                             }
                         ]
                     },
@@ -1085,8 +1085,8 @@ Download Printable resources
                                 "link": "/reference/Move/ToolMove/Spade/SpadeDrag"
                             },
                             {
-                                "text": "SpadeGrip",
-                                "link": "/reference/Move/ToolMove/Spade/SpadeGrip"
+                                "text": "SpadeMano",
+                                "link": "/reference/Move/ToolMove/Spade/SpadeMano"
                             },
                             {
                                 "text": "SpadeJavelin",
@@ -1184,8 +1184,8 @@ Download Printable resources
                                 "link": "/reference/Move/ToolMove/Doru/DoruDrag"
                             },
                             {
-                                "text": "DoruGrip",
-                                "link": "/reference/Move/ToolMove/Doru/DoruGrip"
+                                "text": "DoruMano",
+                                "link": "/reference/Move/ToolMove/Doru/DoruMano"
                             },
                             {
                                 "text": "DoruMatch",

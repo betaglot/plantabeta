@@ -162,7 +162,7 @@
             "lastUpdated": 1692978839562,
             "tags": [
                 {
-                    "title": "Move.HandMove.SpadeHandleGrip",
+                    "title": "Move.ManoMove.SpadeHandleMano",
                     "color": "#ff7537ff",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -197,7 +197,7 @@
         "extension": "jpg",
         "tags": [
             {
-                "title": "Move.HandMove.SpadeHandleGrip",
+                "title": "Move.ManoMove.SpadeHandleMano",
                 "color": "#ff7537ff",
                 "textcolor": "white"
             },
@@ -3712,7 +3712,7 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Move.HandMove.FingertipPress",
+                    "title": "Move.ManoMove.FingertipPress",
                     "color": "#ffffffff",
                     "textcolor": "#000000ff",
                     "type": "sidecar"
@@ -3764,7 +3764,7 @@
                 "textcolor": "#000000ff"
             },
             {
-                "title": "Move.HandMove.FingertipPress",
+                "title": "Move.ManoMove.FingertipPress",
                 "color": "#ffffffff",
                 "textcolor": "#000000ff"
             },
@@ -4779,7 +4779,7 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Move.HandMove.TreeGrip",
+                    "title": "Move.ManoMove.TreeMano",
                     "color": "#ff7537ff",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -4914,7 +4914,7 @@
                 "textcolor": "white"
             },
             {
-                "title": "Move.HandMove.TreeGrip",
+                "title": "Move.ManoMove.TreeMano",
                 "color": "#ff7537ff",
                 "textcolor": "white"
             },
@@ -5882,19 +5882,19 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Move.HandMove.FingerMove.FingerCurl",
+                    "title": "Move.ManoMove.FingerMove.FingerCurl",
                     "color": "#ff7537ff",
                     "textcolor": "white",
                     "type": "sidecar"
                 },
                 {
-                    "title": "Move.HandMove.FingerMove.Overview",
+                    "title": "Move.ManoMove.FingerMove.Overview",
                     "color": "#ff7537ff",
                     "textcolor": "white",
                     "type": "sidecar"
                 },
                 {
-                    "title": "Move.HandMove.PinchGrip",
+                    "title": "Move.ManoMove.PinchMano",
                     "color": "#ff7537ff",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -5958,17 +5958,17 @@
                 "textcolor": "#000000ff"
             },
             {
-                "title": "Move.HandMove.FingerMove.FingerCurl",
+                "title": "Move.ManoMove.FingerMove.FingerCurl",
                 "color": "#ff7537ff",
                 "textcolor": "white"
             },
             {
-                "title": "Move.HandMove.FingerMove.Overview",
+                "title": "Move.ManoMove.FingerMove.Overview",
                 "color": "#ff7537ff",
                 "textcolor": "white"
             },
             {
-                "title": "Move.HandMove.PinchGrip",
+                "title": "Move.ManoMove.PinchMano",
                 "color": "#ff7537ff",
                 "textcolor": "white"
             },
@@ -9506,7 +9506,7 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Move.HandMove.HandMatch",
+                    "title": "Move.ManoMove.HandMatch",
                     "color": "#ff7537ff",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -9574,7 +9574,7 @@
                 "textcolor": "#ffffffff"
             },
             {
-                "title": "Move.HandMove.HandMatch",
+                "title": "Move.ManoMove.HandMatch",
                 "color": "#ff7537ff",
                 "textcolor": "white"
             },
@@ -14674,7 +14674,7 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Move.HandMove.HandMatch",
+                    "title": "Move.ManoMove.HandMatch",
                     "color": "#ff7537ff",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -14758,7 +14758,7 @@
                 "textcolor": "white"
             },
             {
-                "title": "Move.HandMove.HandMatch",
+                "title": "Move.ManoMove.HandMatch",
                 "color": "#ff7537ff",
                 "textcolor": "white"
             },
@@ -15358,7 +15358,7 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Move.HandMove.HandSwap",
+                    "title": "Move.ManoMove.HandSwap",
                     "color": "#ff7537ff",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -15516,7 +15516,7 @@
                 "textcolor": "#000000ff"
             },
             {
-                "title": "Move.HandMove.HandSwap",
+                "title": "Move.ManoMove.HandSwap",
                 "color": "#ff7537ff",
                 "textcolor": "white"
             },
@@ -22692,7 +22692,7 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Move.HandMove.HandSlot",
+                    "title": "Move.ManoMove.HandSlot",
                     "color": "#ff7537ff",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -22764,7 +22764,7 @@
                 "textcolor": "#ffffffff"
             },
             {
-                "title": "Move.HandMove.HandSlot",
+                "title": "Move.ManoMove.HandSlot",
                 "color": "#ff7537ff",
                 "textcolor": "white"
             },
@@ -25024,13 +25024,13 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Move.HandMove.HandMatch",
+                    "title": "Move.ManoMove.HandMatch",
                     "color": "#ff7537ff",
                     "textcolor": "white",
                     "type": "sidecar"
                 },
                 {
-                    "title": "Move.HandMove.HandSwap",
+                    "title": "Move.ManoMove.HandSwap",
                     "color": "#ff7537ff",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -25131,12 +25131,12 @@
                 "textcolor": "white"
             },
             {
-                "title": "Move.HandMove.HandMatch",
+                "title": "Move.ManoMove.HandMatch",
                 "color": "#ff7537ff",
                 "textcolor": "white"
             },
             {
-                "title": "Move.HandMove.HandSwap",
+                "title": "Move.ManoMove.HandSwap",
                 "color": "#ff7537ff",
                 "textcolor": "white"
             },
@@ -25618,13 +25618,13 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Move.HandMove.HandSmear",
+                    "title": "Move.ManoMove.HandSmear",
                     "color": "#ff7537ff",
                     "textcolor": "white",
                     "type": "sidecar"
                 },
                 {
-                    "title": "Move.HandMove.UnderclingGrip",
+                    "title": "Move.ManoMove.UnderclingMano",
                     "color": "#ff7537ff",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -25742,12 +25742,12 @@
                 "textcolor": "white"
             },
             {
-                "title": "Move.HandMove.HandSmear",
+                "title": "Move.ManoMove.HandSmear",
                 "color": "#ff7537ff",
                 "textcolor": "white"
             },
             {
-                "title": "Move.HandMove.UnderclingGrip",
+                "title": "Move.ManoMove.UnderclingMano",
                 "color": "#ff7537ff",
                 "textcolor": "white"
             },
@@ -27416,7 +27416,7 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Move.HandMove.HandBump",
+                    "title": "Move.ManoMove.HandBump",
                     "color": "#ff7537ff",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -27491,7 +27491,7 @@
                 "textcolor": "#000000ff"
             },
             {
-                "title": "Move.HandMove.HandBump",
+                "title": "Move.ManoMove.HandBump",
                 "color": "#ff7537ff",
                 "textcolor": "white"
             },
@@ -28578,7 +28578,7 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Move.HandMove.HandMatch",
+                    "title": "Move.ManoMove.HandMatch",
                     "color": "#ff7537ff",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -28639,7 +28639,7 @@
                 "textcolor": "#000000ff"
             },
             {
-                "title": "Move.HandMove.HandMatch",
+                "title": "Move.ManoMove.HandMatch",
                 "color": "#ff7537ff",
                 "textcolor": "white"
             },
@@ -31216,7 +31216,7 @@
                 {
                     "color": "#ff7537ff",
                     "textcolor": "white",
-                    "title": "Move.HandMove.HandSmear",
+                    "title": "Move.ManoMove.HandSmear",
                     "type": "sidecar"
                 },
                 {
@@ -31322,7 +31322,7 @@
                 "textcolor": "white"
             },
             {
-                "title": "Move.HandMove.HandSmear",
+                "title": "Move.ManoMove.HandSmear",
                 "color": "#ff7537ff",
                 "textcolor": "white"
             },
@@ -31394,7 +31394,7 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Move.HandMove.UnderclingGrip",
+                    "title": "Move.ManoMove.UnderclingMano",
                     "color": "#ff7537ff",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -31469,7 +31469,7 @@
                 "textcolor": "white"
             },
             {
-                "title": "Move.HandMove.UnderclingGrip",
+                "title": "Move.ManoMove.UnderclingMano",
                 "color": "#ff7537ff",
                 "textcolor": "white"
             },
@@ -31813,7 +31813,7 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Move.HandMove.HandSwap",
+                    "title": "Move.ManoMove.HandSwap",
                     "color": "#ff7537ff",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -31879,7 +31879,7 @@
                 "textcolor": "white"
             },
             {
-                "title": "Move.HandMove.HandSwap",
+                "title": "Move.ManoMove.HandSwap",
                 "color": "#ff7537ff",
                 "textcolor": "white"
             },
@@ -33042,43 +33042,43 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Move.HandMove.CupGrip",
+                    "title": "Move.ManoMove.CupMano",
                     "color": "#ff7537ff",
                     "textcolor": "white",
                     "type": "sidecar"
                 },
                 {
-                    "title": "Move.HandMove.FingerMove.FingerHook",
+                    "title": "Move.ManoMove.FingerMove.FingerHook",
                     "color": "#ff7537ff",
                     "textcolor": "white",
                     "type": "sidecar"
                 },
                 {
-                    "title": "Move.HandMove.FingerMove.Overview",
+                    "title": "Move.ManoMove.FingerMove.Overview",
                     "color": "#ff7537ff",
                     "textcolor": "white",
                     "type": "sidecar"
                 },
                 {
-                    "title": "Move.HandMove.FingerOverlapPoke",
+                    "title": "Move.ManoMove.FingerOverlapPoke",
                     "color": "#ff7537ff",
                     "textcolor": "white",
                     "type": "sidecar"
                 },
                 {
-                    "title": "Move.HandMove.HandSlide",
+                    "title": "Move.ManoMove.HandSlide",
                     "color": "#ff7537ff",
                     "textcolor": "white",
                     "type": "sidecar"
                 },
                 {
-                    "title": "Move.HandMove.HandSmear",
+                    "title": "Move.ManoMove.HandSmear",
                     "color": "#ff7537ff",
                     "textcolor": "white",
                     "type": "sidecar"
                 },
                 {
-                    "title": "Move.HandMove.PinchGrip",
+                    "title": "Move.ManoMove.PinchMano",
                     "color": "#ff7537ff",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -33123,37 +33123,37 @@
                 "textcolor": "#000000ff"
             },
             {
-                "title": "Move.HandMove.CupGrip",
+                "title": "Move.ManoMove.CupMano",
                 "color": "#ff7537ff",
                 "textcolor": "white"
             },
             {
-                "title": "Move.HandMove.FingerMove.FingerHook",
+                "title": "Move.ManoMove.FingerMove.FingerHook",
                 "color": "#ff7537ff",
                 "textcolor": "white"
             },
             {
-                "title": "Move.HandMove.FingerMove.Overview",
+                "title": "Move.ManoMove.FingerMove.Overview",
                 "color": "#ff7537ff",
                 "textcolor": "white"
             },
             {
-                "title": "Move.HandMove.FingerOverlapPoke",
+                "title": "Move.ManoMove.FingerOverlapPoke",
                 "color": "#ff7537ff",
                 "textcolor": "white"
             },
             {
-                "title": "Move.HandMove.HandSlide",
+                "title": "Move.ManoMove.HandSlide",
                 "color": "#ff7537ff",
                 "textcolor": "white"
             },
             {
-                "title": "Move.HandMove.HandSmear",
+                "title": "Move.ManoMove.HandSmear",
                 "color": "#ff7537ff",
                 "textcolor": "white"
             },
             {
-                "title": "Move.HandMove.PinchGrip",
+                "title": "Move.ManoMove.PinchMano",
                 "color": "#ff7537ff",
                 "textcolor": "white"
             },
@@ -35085,7 +35085,7 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Move.HandMove.TreeFlip",
+                    "title": "Move.ManoMove.TreeFlip",
                     "color": "#ff7537ff",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -35300,7 +35300,7 @@
                 "textcolor": "#ffffffff"
             },
             {
-                "title": "Move.HandMove.TreeFlip",
+                "title": "Move.ManoMove.TreeFlip",
                 "color": "#ff7537ff",
                 "textcolor": "white"
             },
@@ -37265,7 +37265,7 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Move.HandMove.Overview",
+                    "title": "Move.ManoMove.Overview",
                     "color": "#ff7537ff",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -37322,7 +37322,7 @@
                 "textcolor": "#000000ff"
             },
             {
-                "title": "Move.HandMove.Overview",
+                "title": "Move.ManoMove.Overview",
                 "color": "#ff7537ff",
                 "textcolor": "white"
             },
@@ -37378,7 +37378,7 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Move.HandMove.PinchGrip",
+                    "title": "Move.ManoMove.PinchMano",
                     "color": "#ff7537ff",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -37442,7 +37442,7 @@
                 "textcolor": "#000000ff"
             },
             {
-                "title": "Move.HandMove.PinchGrip",
+                "title": "Move.ManoMove.PinchMano",
                 "color": "#ff7537ff",
                 "textcolor": "white"
             },
@@ -37627,7 +37627,7 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Move.HandMove.Overview",
+                    "title": "Move.ManoMove.Overview",
                     "color": "#ff7537ff",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -37685,7 +37685,7 @@
                 "textcolor": "#000000ff"
             },
             {
-                "title": "Move.HandMove.Overview",
+                "title": "Move.ManoMove.Overview",
                 "color": "#ff7537ff",
                 "textcolor": "white"
             },
@@ -38112,7 +38112,7 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Move.HandMove.Overview",
+                    "title": "Move.ManoMove.Overview",
                     "color": "#ff7537ff",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -38152,7 +38152,7 @@
                 "textcolor": "#000000ff"
             },
             {
-                "title": "Move.HandMove.Overview",
+                "title": "Move.ManoMove.Overview",
                 "color": "#ff7537ff",
                 "textcolor": "white"
             },
@@ -43992,7 +43992,7 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Move.HandMove.Overview",
+                    "title": "Move.ManoMove.Overview",
                     "color": "#ff7537ff",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -44032,7 +44032,7 @@
                 "textcolor": "#000000ff"
             },
             {
-                "title": "Move.HandMove.Overview",
+                "title": "Move.ManoMove.Overview",
                 "color": "#ff7537ff",
                 "textcolor": "white"
             },
@@ -44909,7 +44909,7 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Move.HandMove.Overview",
+                    "title": "Move.ManoMove.Overview",
                     "color": "#ff7537ff",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -44943,7 +44943,7 @@
                 "textcolor": "#000000ff"
             },
             {
-                "title": "Move.HandMove.Overview",
+                "title": "Move.ManoMove.Overview",
                 "color": "#ff7537ff",
                 "textcolor": "white"
             },
@@ -45308,7 +45308,7 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Move.HandMove.Overview",
+                    "title": "Move.ManoMove.Overview",
                     "color": "#ff7537ff",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -45389,7 +45389,7 @@
                 "textcolor": "white"
             },
             {
-                "title": "Move.HandMove.Overview",
+                "title": "Move.ManoMove.Overview",
                 "color": "#ff7537ff",
                 "textcolor": "white"
             },
@@ -46885,7 +46885,7 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Move.HandMove.Overview",
+                    "title": "Move.ManoMove.Overview",
                     "color": "#ff7537ff",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -46943,7 +46943,7 @@
                 "textcolor": "#000000ff"
             },
             {
-                "title": "Move.HandMove.Overview",
+                "title": "Move.ManoMove.Overview",
                 "color": "#ff7537ff",
                 "textcolor": "white"
             },
@@ -49755,7 +49755,7 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Move.HandMove.TreeTestGrip",
+                    "title": "Move.ManoMove.TreeTestMano",
                     "color": "#ff7537ff",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -49823,7 +49823,7 @@
                 "textcolor": "white"
             },
             {
-                "title": "Move.HandMove.TreeTestGrip",
+                "title": "Move.ManoMove.TreeTestMano",
                 "color": "#ff7537ff",
                 "textcolor": "white"
             },
@@ -51152,19 +51152,19 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Move.HandMove.HandSkreef",
+                    "title": "Move.ManoMove.HandSkreef",
                     "color": "#ff7537ff",
                     "textcolor": "white",
                     "type": "sidecar"
                 },
                 {
-                    "title": "Move.HandMove.TreeFlip",
+                    "title": "Move.ManoMove.TreeFlip",
                     "color": "#ff7537ff",
                     "textcolor": "white",
                     "type": "sidecar"
                 },
                 {
-                    "title": "Move.HandMove.TreeGrip",
+                    "title": "Move.ManoMove.TreeMano",
                     "color": "#ff7537ff",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -51281,17 +51281,17 @@
                 "textcolor": "#000000ff"
             },
             {
-                "title": "Move.HandMove.HandSkreef",
+                "title": "Move.ManoMove.HandSkreef",
                 "color": "#ff7537ff",
                 "textcolor": "white"
             },
             {
-                "title": "Move.HandMove.TreeFlip",
+                "title": "Move.ManoMove.TreeFlip",
                 "color": "#ff7537ff",
                 "textcolor": "white"
             },
             {
-                "title": "Move.HandMove.TreeGrip",
+                "title": "Move.ManoMove.TreeMano",
                 "color": "#ff7537ff",
                 "textcolor": "white"
             },
@@ -51403,7 +51403,7 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Move.HandMove.TreeInsert",
+                    "title": "Move.ManoMove.TreeInsert",
                     "color": "#ff7537ff",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -51478,7 +51478,7 @@
                 "textcolor": "white"
             },
             {
-                "title": "Move.HandMove.TreeInsert",
+                "title": "Move.ManoMove.TreeInsert",
                 "color": "#ff7537ff",
                 "textcolor": "white"
             },
@@ -52304,7 +52304,7 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Move.HandMove.TreeGrip",
+                    "title": "Move.ManoMove.TreeMano",
                     "color": "#ff7537ff",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -52385,7 +52385,7 @@
                 "textcolor": "#000000ff"
             },
             {
-                "title": "Move.HandMove.TreeGrip",
+                "title": "Move.ManoMove.TreeMano",
                 "color": "#ff7537ff",
                 "textcolor": "white"
             },
@@ -56148,7 +56148,7 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Move.HandMove.SpadeHandleGrip",
+                    "title": "Move.ManoMove.SpadeHandleMano",
                     "color": "#ff7537ff",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -56203,7 +56203,7 @@
                 "textcolor": "#000000ff"
             },
             {
-                "title": "Move.HandMove.SpadeHandleGrip",
+                "title": "Move.ManoMove.SpadeHandleMano",
                 "color": "#ff7537ff",
                 "textcolor": "white"
             },
@@ -58914,7 +58914,7 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Move.HandMove.TreeInsert",
+                    "title": "Move.ManoMove.TreeInsert",
                     "color": "#ff7537ff",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -58975,7 +58975,7 @@
                 "textcolor": "white"
             },
             {
-                "title": "Move.HandMove.TreeInsert",
+                "title": "Move.ManoMove.TreeInsert",
                 "color": "#ff7537ff",
                 "textcolor": "white"
             },
@@ -64902,13 +64902,13 @@
             "lastUpdated": 1692978839623,
             "tags": [
                 {
-                    "title": "Move.HandMove.HandClose.HammerClose",
+                    "title": "Move.ManoMove.HandClose.HammerClose",
                     "color": "#ffffffff",
                     "textcolor": "#000000ff",
                     "type": "sidecar"
                 },
                 {
-                    "title": "Move.HandMove.HandClose.PunchClose",
+                    "title": "Move.ManoMove.HandClose.PunchClose",
                     "color": "#ffffffff",
                     "textcolor": "#000000ff",
                     "type": "sidecar"
@@ -64955,12 +64955,12 @@
         "extension": "jpg",
         "tags": [
             {
-                "title": "Move.HandMove.HandClose.HammerClose",
+                "title": "Move.ManoMove.HandClose.HammerClose",
                 "color": "#ffffffff",
                 "textcolor": "#000000ff"
             },
             {
-                "title": "Move.HandMove.HandClose.PunchClose",
+                "title": "Move.ManoMove.HandClose.PunchClose",
                 "color": "#ffffffff",
                 "textcolor": "#000000ff"
             },
@@ -80016,7 +80016,7 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Move.HandMove.TreeInsert",
+                    "title": "Move.ManoMove.TreeInsert",
                     "color": "#ff7537ff",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -80028,7 +80028,7 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Move.HandMove.HandSlide",
+                    "title": "Move.ManoMove.HandSlide",
                     "color": "#ff7537ff",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -80055,7 +80055,7 @@
                 "textcolor": "white"
             },
             {
-                "title": "Move.HandMove.TreeInsert",
+                "title": "Move.ManoMove.TreeInsert",
                 "color": "#ff7537ff",
                 "textcolor": "white"
             },
@@ -80065,7 +80065,7 @@
                 "textcolor": "white"
             },
             {
-                "title": "Move.HandMove.HandSlide",
+                "title": "Move.ManoMove.HandSlide",
                 "color": "#ff7537ff",
                 "textcolor": "white"
             },
@@ -80183,7 +80183,7 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Move.ToolMove.BundleMove.BundleGrip",
+                    "title": "Move.ToolMove.BundleMove.BundleMano",
                     "color": "#ff7537ff",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -80209,7 +80209,7 @@
                 "textcolor": "white"
             },
             {
-                "title": "Move.ToolMove.BundleMove.BundleGrip",
+                "title": "Move.ToolMove.BundleMove.BundleMano",
                 "color": "#ff7537ff",
                 "textcolor": "white"
             }
@@ -80259,7 +80259,7 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Move.HandMove.TreeInsert",
+                    "title": "Move.ManoMove.TreeInsert",
                     "color": "#ff7537ff",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -80319,7 +80319,7 @@
                 "textcolor": "white"
             },
             {
-                "title": "Move.HandMove.TreeInsert",
+                "title": "Move.ManoMove.TreeInsert",
                 "color": "#ff7537ff",
                 "textcolor": "white"
             },
@@ -80365,7 +80365,7 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Move.HandMove.HandClose",
+                    "title": "Move.ManoMove.HandClose",
                     "color": "#ff7537ff",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -80377,7 +80377,7 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Move.HandMove.HandClose.PunchClose",
+                    "title": "Move.ManoMove.HandClose.PunchClose",
                     "color": "#ff7537ff",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -80407,7 +80407,7 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Move.HandMove.TreeInspect",
+                    "title": "Move.ManoMove.TreeInspect",
                     "color": "#ff7537ff",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -80423,7 +80423,7 @@
                 "textcolor": "#ffffffff"
             },
             {
-                "title": "Move.HandMove.HandClose",
+                "title": "Move.ManoMove.HandClose",
                 "color": "#ff7537ff",
                 "textcolor": "white"
             },
@@ -80433,7 +80433,7 @@
                 "textcolor": "#ffffffff"
             },
             {
-                "title": "Move.HandMove.HandClose.PunchClose",
+                "title": "Move.ManoMove.HandClose.PunchClose",
                 "color": "#ff7537ff",
                 "textcolor": "white"
             },
@@ -80458,7 +80458,7 @@
                 "textcolor": "white"
             },
             {
-                "title": "Move.HandMove.TreeInspect",
+                "title": "Move.ManoMove.TreeInspect",
                 "color": "#ff7537ff",
                 "textcolor": "white"
             }
@@ -80484,7 +80484,7 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Move.HandMove.HandMatch",
+                    "title": "Move.ManoMove.HandMatch",
                     "color": "#ff7537ff",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -80526,7 +80526,7 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Move.HandMove.HandClose",
+                    "title": "Move.ManoMove.HandClose",
                     "color": "#ff7537ff",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -80572,7 +80572,7 @@
                 "textcolor": "#ffffffff"
             },
             {
-                "title": "Move.HandMove.HandMatch",
+                "title": "Move.ManoMove.HandMatch",
                 "color": "#ff7537ff",
                 "textcolor": "white"
             },
@@ -80607,7 +80607,7 @@
                 "textcolor": "#ffffffff"
             },
             {
-                "title": "Move.HandMove.HandClose",
+                "title": "Move.ManoMove.HandClose",
                 "color": "#ff7537ff",
                 "textcolor": "white"
             },
@@ -80744,7 +80744,7 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Move.HandMove.HandClose",
+                    "title": "Move.ManoMove.HandClose",
                     "color": "#ff7537ff",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -80774,7 +80774,7 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Move.HandMove.TreeInsert",
+                    "title": "Move.ManoMove.TreeInsert",
                     "color": "#ff7537ff",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -80816,7 +80816,7 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Move.HandMove.HandSkreef",
+                    "title": "Move.ManoMove.HandSkreef",
                     "color": "#ff7537ff",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -80828,7 +80828,7 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Move.HandMove.HandClose.PunchClose",
+                    "title": "Move.ManoMove.HandClose.PunchClose",
                     "color": "#ff7537ff",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -80844,7 +80844,7 @@
                 "textcolor": "#ffffffff"
             },
             {
-                "title": "Move.HandMove.HandClose",
+                "title": "Move.ManoMove.HandClose",
                 "color": "#ff7537ff",
                 "textcolor": "white"
             },
@@ -80869,7 +80869,7 @@
                 "textcolor": "white"
             },
             {
-                "title": "Move.HandMove.TreeInsert",
+                "title": "Move.ManoMove.TreeInsert",
                 "color": "#ff7537ff",
                 "textcolor": "white"
             },
@@ -80904,7 +80904,7 @@
                 "textcolor": "white"
             },
             {
-                "title": "Move.HandMove.HandSkreef",
+                "title": "Move.ManoMove.HandSkreef",
                 "color": "#ff7537ff",
                 "textcolor": "white"
             },
@@ -80914,7 +80914,7 @@
                 "textcolor": "white"
             },
             {
-                "title": "Move.HandMove.HandClose.PunchClose",
+                "title": "Move.ManoMove.HandClose.PunchClose",
                 "color": "#ff7537ff",
                 "textcolor": "white"
             }
@@ -81014,7 +81014,7 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Move.HandMove.TreeInsert",
+                    "title": "Move.ManoMove.TreeInsert",
                     "color": "#ff7537ff",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -81032,7 +81032,7 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Move.HandMove.HandClose",
+                    "title": "Move.ManoMove.HandClose",
                     "color": "#ff7537ff",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -81082,7 +81082,7 @@
                 "textcolor": "white"
             },
             {
-                "title": "Move.HandMove.TreeInsert",
+                "title": "Move.ManoMove.TreeInsert",
                 "color": "#ff7537ff",
                 "textcolor": "white"
             },
@@ -81097,7 +81097,7 @@
                 "textcolor": "white"
             },
             {
-                "title": "Move.HandMove.HandClose",
+                "title": "Move.ManoMove.HandClose",
                 "color": "#ff7537ff",
                 "textcolor": "white"
             },
@@ -81149,7 +81149,7 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Move.ToolMove.BundleMove.BundleGrip",
+                    "title": "Move.ToolMove.BundleMove.BundleMano",
                     "color": "#ff7537ff",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -81185,7 +81185,7 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Move.HandMove.BagGrip",
+                    "title": "Move.ManoMove.BagMano",
                     "color": "#ff7537ff",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -81197,7 +81197,7 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Move.HandMove.HandMatch",
+                    "title": "Move.ManoMove.HandMatch",
                     "color": "#ff7537ff",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -81221,7 +81221,7 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Move.HandMove.TreeGrip",
+                    "title": "Move.ManoMove.TreeMano",
                     "color": "#ff7537ff",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -81242,7 +81242,7 @@
                 "textcolor": "white"
             },
             {
-                "title": "Move.ToolMove.BundleMove.BundleGrip",
+                "title": "Move.ToolMove.BundleMove.BundleMano",
                 "color": "#ff7537ff",
                 "textcolor": "white"
             },
@@ -81272,7 +81272,7 @@
                 "textcolor": "#000000ff"
             },
             {
-                "title": "Move.HandMove.BagGrip",
+                "title": "Move.ManoMove.BagMano",
                 "color": "#ff7537ff",
                 "textcolor": "white"
             },
@@ -81282,7 +81282,7 @@
                 "textcolor": "white"
             },
             {
-                "title": "Move.HandMove.HandMatch",
+                "title": "Move.ManoMove.HandMatch",
                 "color": "#ff7537ff",
                 "textcolor": "white"
             },
@@ -81302,7 +81302,7 @@
                 "textcolor": "#ffffffff"
             },
             {
-                "title": "Move.HandMove.TreeGrip",
+                "title": "Move.ManoMove.TreeMano",
                 "color": "#ff7537ff",
                 "textcolor": "white"
             }
@@ -81365,7 +81365,7 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Move.ToolMove.BundleMove.BundleGrip",
+                    "title": "Move.ToolMove.BundleMove.BundleMano",
                     "color": "#ff7537ff",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -81383,7 +81383,7 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Move.HandMove.BagGrip",
+                    "title": "Move.ManoMove.BagMano",
                     "color": "#ff7537ff",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -81407,7 +81407,7 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Move.HandMove.HandMatch",
+                    "title": "Move.ManoMove.HandMatch",
                     "color": "#ff7537ff",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -81464,7 +81464,7 @@
                 "textcolor": "white"
             },
             {
-                "title": "Move.ToolMove.BundleMove.BundleGrip",
+                "title": "Move.ToolMove.BundleMove.BundleMano",
                 "color": "#ff7537ff",
                 "textcolor": "white"
             },
@@ -81479,7 +81479,7 @@
                 "textcolor": "white"
             },
             {
-                "title": "Move.HandMove.BagGrip",
+                "title": "Move.ManoMove.BagMano",
                 "color": "#ff7537ff",
                 "textcolor": "white"
             },
@@ -81499,7 +81499,7 @@
                 "textcolor": "white"
             },
             {
-                "title": "Move.HandMove.HandMatch",
+                "title": "Move.ManoMove.HandMatch",
                 "color": "#ff7537ff",
                 "textcolor": "white"
             },
@@ -81623,7 +81623,7 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Move.ToolMove.BundleMove.BundleGrip",
+                    "title": "Move.ToolMove.BundleMove.BundleMano",
                     "color": "#ff7537ff",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -81764,7 +81764,7 @@
                 "textcolor": "white"
             },
             {
-                "title": "Move.ToolMove.BundleMove.BundleGrip",
+                "title": "Move.ToolMove.BundleMove.BundleMano",
                 "color": "#ff7537ff",
                 "textcolor": "white"
             },

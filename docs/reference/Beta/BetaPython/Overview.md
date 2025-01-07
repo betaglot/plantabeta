@@ -101,7 +101,7 @@ def Put(PlantType: str, Location: str, TreeCount: int, TreeType: str, SkreefBool
 ### Put(Marka)
 
 ```py
-def Put(Marka, MarkaColor: str, MarkaType: str, HandMove: str)
+def Put(Marka, MarkaColor: str, MarkaType: str, ManoMove: str)
 ```
 
 ## ReservedWords

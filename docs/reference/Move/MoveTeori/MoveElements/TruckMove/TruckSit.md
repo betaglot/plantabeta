@@ -33,5 +33,5 @@
 
 <h2>PageTags</h2>
 
-- "Move.ToolMove.TruckMove.Sit"
+- "Move.InstrumentMove.TruckMove.Sit"
 :::

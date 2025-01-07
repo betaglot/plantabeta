@@ -72,7 +72,7 @@ Noun
 
 - To create a **open source** resource for plantors where all knowledge about being a tree plantor is coherent and integrated into a single system which can be used to plant any type of land.
 - To research and implement ways to make plantors more effective by applying scientific research to plantor instruction.
-- To improve the tools that plantors use.
+- To improve the Instruments that plantors use.
 :::
 
 ::: info 🔷<beta>Put(<eko>Plant</eko>)</beta>'s **Vision**

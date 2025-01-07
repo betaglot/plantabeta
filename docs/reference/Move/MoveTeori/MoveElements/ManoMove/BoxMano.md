@@ -1,8 +1,8 @@
-# 🟠 <move>BoxGrip</move>
+# 🟠 <move>BoxMano</move>
 
 ![MoveIkon](/Move/Move_Ikon.png)
 
-## 🕸 BoxGrip.Skema
+## 🕸 BoxMano.Skema
 
 ### Related 🟩<eko>Eko</eko>
 
@@ -33,5 +33,5 @@
 
 <h2>PageTags</h2>
 
-- "Move.HandMove.BoxGrip"
+- "Move.ManoMove.BoxMano"
 :::

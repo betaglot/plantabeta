@@ -10,7 +10,7 @@ Planting can be a dangerous job.
 
 Plantors can get injured when they don't adapt motos to the specific situation. 🔷<beta>Put(<eko>Plant</eko>)</beta> gives many options to adapt motos for any situation.
 
-Some Plantors only know how to [🟠<move>HandClose</move>](/encyclopedia/Move/HandMove/HandClose) one way, but there are many different ways. Even slightly varying a motos can reduce repetitive strain injuries.
+Some Plantors only know how to [🟠<move>HandClose</move>](/encyclopedia/Move/ManoMove/HandClose) one way, but there are many different ways. Even slightly varying a motos can reduce repetitive strain injuries.
 
 ## Repetitive Strain
 
@@ -19,7 +19,7 @@ Injury can occur in Plantors when they perform the same movement repeatedly.
 - Do ambidextrous Plantors suffer less injury caused by repetitive strain?
     - Repetitive Motion
     - Greater moto variability reduces moto repetition.
-        - How many [🟠<move>HandClosing</move>](/encyclopedia/Move/HandMove/HandClose)  methods do you know?
+        - How many [🟠<move>HandClosing</move>](/encyclopedia/Move/ManoMove/HandClose)  methods do you know?
 
 ## Reduces Injuries from Falling
 
@@ -36,7 +36,7 @@ Falling is a large part of Climbing. PlantaBeta transfers the knowledge of how t
 
 Wrist Tendonitis occurs from straining the tissues around the wrist. The strain can be acute, such as when a Plantor hits a rock with full force and doesn't absorb the shock, or the strain can be from repetitive use.
 
-- [🟠<move>ArmAbsorb</move>](/encyclopedia/Move/ArmMove/ArmAbsorb) during the impact of [🟠<move>SpadeImpact</move>](/encyclopedia/Move/ToolMove/Spade/SpadeImpact)
+- [🟠<move>ArmAbsorb</move>](/encyclopedia/Move/ArmMove/ArmAbsorb) during the impact of [🟠<move>SpadeImpact</move>](/encyclopedia/Move/InstrumentMove/Spade/SpadeImpact)
 -
 
 ## Christmas Toe
@@ -45,8 +45,8 @@ Plantors kick To remove the layer of organic material off an intended microsite.
 
 A greater knowledge of possible alternative moves can prevent Christmas Toe from ever occuring.
 
-- [🟠<move>SpadeSkreef</move>](/encyclopedia/ToolMove/SpadeMove/SpadeSkreef) instead of only [🟠<move>FootSkreef</move>](/encyclopedia/Move/FootMove/FootSkreef)
-- [🟠<move>HandClose</move>](/encyclopedia/Move/HandMove/HandClose) instead of only [🟠<move>FootSeal</move>](/encyclopedia/Move/FootMove/FootSeal)
+- [🟠<move>SpadeSkreef</move>](/encyclopedia/InstrumentMove/SpadeMove/SpadeSkreef) instead of only [🟠<move>FootSkreef</move>](/encyclopedia/Move/FootMove/FootSkreef)
+- [🟠<move>HandClose</move>](/encyclopedia/Move/ManoMove/HandClose) instead of only [🟠<move>FootSeal</move>](/encyclopedia/Move/FootMove/FootSeal)
 
 ---
 

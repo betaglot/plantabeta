@@ -54,7 +54,7 @@ treeList = [
 - Simulate the job with Test coded in Python. Use Voronoi and other algorithms to check answers
 - The most simple test is multiple choice naming test
     - Gif of the PlantorMove
-    - Image of Tools
+    - Image of Instruments
     - Name all the objects
 
 - ErrorRecognition

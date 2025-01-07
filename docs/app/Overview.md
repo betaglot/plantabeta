@@ -44,18 +44,17 @@ A BetaBlock could be an individual BetaElement or a group of hundreds of BetaEle
 
 ### PostgreSQL
 
-## 🛠 PutPlantApp is a Simulator
+## 🛠 PlantaBetaApp is a Simulator
 
-> Users choose what to do next
+---
 
-> Users solve (stages, levels) by writing Plantbeta
+<!-- =================================================== -->
+<!-- =================================================== -->
+<!-- =================================================== -->
+<!-- =================================================== -->
+<!-- =================================================== -->
+::: details 🛠 <dev>&&&</dev>
 
-> PutPlantApp is a <psike>neuro</psike> tool
+-
 
-PutPlantApp is most useful for PotentialPlantors who live in urban areas, who don't have much exposure to wilderness.
-
-🔷<beta>Put(</beta><eko>Plant</eko><beta>)</beta> is a lot to learn all at once, so learning over a few months before the season starts will be more efficient.
-
-::: tip Plantbeta
-The Source Code for PlantaBeta is called [Plantbeta](/encyclopedia/Beta/Plantbeta/Overview).
 :::

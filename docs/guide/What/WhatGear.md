@@ -15,9 +15,9 @@
 
 - Plantors which don't live in tents, ie not in a bush camp.
 
-## 🟠 <move>Move Tools</move>
+## 🟠 <move>Move Instruments</move>
 
-Tools you need to perform plantor motos.
+Instruments you need to perform plantor motos.
 
 ### 🟠 <move>Spade</move>
 
@@ -37,9 +37,9 @@ You will not regret bringing duplicates of clothing. If you have the space then 
 
 :::
 
-## 💜 <psike>Psike Tools</psike>
+## 💜 <psike>Psike Instruments</psike>
 
-Tools you need for your brain.
+Instruments you need for your brain.
 
 ### 💜 <psike>Notebook</psike>
 
@@ -64,9 +64,9 @@ Tools you need for your brain.
 
 :::
 
-## 🔻 <via>Via Tools</via>
+## 🔻 <via>Via Instruments</via>
 
-Tools you need for your vias
+Instruments you need for your vias
 
 ### 🔻 <via>Marka</via>
 

@@ -129,7 +129,7 @@ Most Epic BC day, Most shitty Ontario day
 
 ### Prizes
 
-#### ToolPrize
+#### InstrumentPrize
 
 - Greave
 - Water Jug

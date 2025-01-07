@@ -180,7 +180,7 @@ Just get as much information out of your head and into data structures, so that 
 
 PlantaBeta is a language
 
-Plantbeta a beta script. PlantaBeta creates the Attributes of HandMove, like how many fingers you have. Beta can't change the number of fingers. A Hand is part of PlantaBeta, a hand is controlled with Beta
+Plantbeta a beta script. PlantaBeta creates the Attributes of ManoMove, like how many fingers you have. Beta can't change the number of fingers. A Hand is part of PlantaBeta, a hand is controlled with Beta
 
 - Beta is only during runtime
 

@@ -15,6 +15,6 @@
 
 <h2>PageTags</h2>
 
-- "Move.HandMove.HandPoke"
+- "Move.ManoMove.HandPoke"
 
 :::

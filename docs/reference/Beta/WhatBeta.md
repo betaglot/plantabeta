@@ -22,7 +22,7 @@ Betamax was a piece of hardware (similar to a VHS tape or cassete) which was use
 
 > Beta could be something as simple as the general type of _holds_, like “it’s all slopers” or just the type of rock and length.
 
-> Beta in climbing can be very detailed down to the exact way you _grip_ a specific hold i.e. “pinch the left side with your first two fingers so there’s space to match with your other hand”.
+> Beta in climbing can be very detailed down to the exact way you _Mano_ a specific hold i.e. “pinch the left side with your first two fingers so there’s space to match with your other hand”.
 
 ## Analogy between Climbing and Planting
 

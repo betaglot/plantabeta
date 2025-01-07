@@ -34,7 +34,7 @@
     - LeanIntoIncline
         - ArmProp
         - SpadeAmble
-        - BranchGrip to minimize DownSlopeForces on Foot to prevent FootSlip
+        - BranchMano to minimize DownSlopeForces on Foot to prevent FootSlip
     - Spade on UpSlope side
     - Turn to Facing Slope when falling
 - InclineUpWalk

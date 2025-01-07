@@ -45,7 +45,7 @@
     - HandCatch
     - LegAbsorb
     - LegProp
-    - FloraGrip
+    - FloraMano
         - FloraPull
         - Don't Rely on Flora since you could rip it out of the ground if there's enough force
     - SpadeProp

@@ -1370,324 +1370,324 @@ data = [
         "TagName": "Move.FootMove.Overview"
     },
     {
-        "PagePath": "Move/HandMove/BagGrip.md",
+        "PagePath": "Move/ManoMove/BagMano.md",
         "PaperPhoto": "Video_013.mp4",
-        "TagName": "Move.HandMove.BagGrip"
+        "TagName": "Move.ManoMove.BagMano"
     },
     {
-        "PagePath": "Move/HandMove/BagGrip.md",
+        "PagePath": "Move/ManoMove/BagMano.md",
         "PaperPhoto": "Video_014.mp4",
-        "TagName": "Move.HandMove.BagGrip"
+        "TagName": "Move.ManoMove.BagMano"
     },
     {
-        "PagePath": "Move/HandMove/HandClose.md",
+        "PagePath": "Move/ManoMove/HandClose.md",
         "PaperPhoto": "3160.jpg",
-        "TagName": "Move.HandMove.HandClose.HammerClose"
+        "TagName": "Move.ManoMove.HandClose.HammerClose"
     },
     {
-        "PagePath": "Move/HandMove/HandClose.md",
+        "PagePath": "Move/ManoMove/HandClose.md",
         "PaperPhoto": "3160.jpg",
-        "TagName": "Move.HandMove.HandClose.PunchClose"
+        "TagName": "Move.ManoMove.HandClose.PunchClose"
     },
     {
-        "PagePath": "Move/HandMove/HandClose.md",
+        "PagePath": "Move/ManoMove/HandClose.md",
         "PaperPhoto": "Video_006.mp4",
-        "TagName": "Move.HandMove.HandClose"
+        "TagName": "Move.ManoMove.HandClose"
     },
     {
-        "PagePath": "Move/HandMove/HandClose.md",
+        "PagePath": "Move/ManoMove/HandClose.md",
         "PaperPhoto": "Video_006.mp4",
-        "TagName": "Move.HandMove.HandClose.PunchClose"
+        "TagName": "Move.ManoMove.HandClose.PunchClose"
     },
     {
-        "PagePath": "Move/HandMove/HandClose.md",
+        "PagePath": "Move/ManoMove/HandClose.md",
         "PaperPhoto": "Video_007.mp4",
-        "TagName": "Move.HandMove.HandClose"
+        "TagName": "Move.ManoMove.HandClose"
     },
     {
-        "PagePath": "Move/HandMove/HandClose.md",
+        "PagePath": "Move/ManoMove/HandClose.md",
         "PaperPhoto": "Video_009.mp4",
-        "TagName": "Move.HandMove.HandClose"
+        "TagName": "Move.ManoMove.HandClose"
     },
     {
-        "PagePath": "Move/HandMove/HandClose.md",
+        "PagePath": "Move/ManoMove/HandClose.md",
         "PaperPhoto": "Video_009.mp4",
-        "TagName": "Move.HandMove.HandClose.PunchClose"
+        "TagName": "Move.ManoMove.HandClose.PunchClose"
     },
     {
-        "PagePath": "Move/HandMove/HandClose.md",
+        "PagePath": "Move/ManoMove/HandClose.md",
         "PaperPhoto": "Video_011.mp4",
-        "TagName": "Move.HandMove.HandClose"
+        "TagName": "Move.ManoMove.HandClose"
     },
     {
-        "PagePath": "Move/HandMove/HandFrase.md",
+        "PagePath": "Move/ManoMove/HandFrase.md",
         "PaperPhoto": "0826.jpg",
-        "TagName": "Move.HandMove.HandMatch"
+        "TagName": "Move.ManoMove.HandMatch"
     },
     {
-        "PagePath": "Move/HandMove/HandFrase.md",
+        "PagePath": "Move/ManoMove/HandFrase.md",
         "PaperPhoto": "1100.jpg",
-        "TagName": "Move.HandMove.HandMatch"
+        "TagName": "Move.ManoMove.HandMatch"
     },
     {
-        "PagePath": "Move/HandMove/HandFrase.md",
+        "PagePath": "Move/ManoMove/HandFrase.md",
         "PaperPhoto": "1527.jpg",
-        "TagName": "Move.HandMove.HandMatch"
+        "TagName": "Move.ManoMove.HandMatch"
     },
     {
-        "PagePath": "Move/HandMove/HandFrase.md",
+        "PagePath": "Move/ManoMove/HandFrase.md",
         "PaperPhoto": "1599.jpg",
-        "TagName": "Move.HandMove.HandBump"
+        "TagName": "Move.ManoMove.HandBump"
     },
     {
-        "PagePath": "Move/HandMove/HandFrase.md",
+        "PagePath": "Move/ManoMove/HandFrase.md",
         "PaperPhoto": "1674.jpg",
-        "TagName": "Move.HandMove.HandMatch"
+        "TagName": "Move.ManoMove.HandMatch"
     },
     {
-        "PagePath": "Move/HandMove/HandFrase.md",
+        "PagePath": "Move/ManoMove/HandFrase.md",
         "PaperPhoto": "Video_007.mp4",
-        "TagName": "Move.HandMove.HandMatch"
+        "TagName": "Move.ManoMove.HandMatch"
     },
     {
-        "PagePath": "Move/HandMove/HandFrase.md",
+        "PagePath": "Move/ManoMove/HandFrase.md",
         "PaperPhoto": "Video_013.mp4",
-        "TagName": "Move.HandMove.HandMatch"
+        "TagName": "Move.ManoMove.HandMatch"
     },
     {
-        "PagePath": "Move/HandMove/HandFrase.md",
+        "PagePath": "Move/ManoMove/HandFrase.md",
         "PaperPhoto": "Video_014.mp4",
-        "TagName": "Move.HandMove.HandMatch"
+        "TagName": "Move.ManoMove.HandMatch"
     },
     {
-        "PagePath": "Move/HandMove/HandSkreef.md",
+        "PagePath": "Move/ManoMove/HandSkreef.md",
         "PaperPhoto": "2944.jpg",
-        "TagName": "Move.HandMove.HandSkreef"
+        "TagName": "Move.ManoMove.HandSkreef"
     },
     {
-        "PagePath": "Move/HandMove/HandSkreef.md",
+        "PagePath": "Move/ManoMove/HandSkreef.md",
         "PaperPhoto": "Video_009.mp4",
-        "TagName": "Move.HandMove.HandSkreef"
+        "TagName": "Move.ManoMove.HandSkreef"
     },
     {
-        "PagePath": "Move/HandMove/TreeInsert.md",
+        "PagePath": "Move/ManoMove/TreeInsert.md",
         "PaperPhoto": "2945.jpg",
-        "TagName": "Move.HandMove.TreeInsert"
+        "TagName": "Move.ManoMove.TreeInsert"
     },
     {
-        "PagePath": "Move/HandMove/TreeInsert.md",
+        "PagePath": "Move/ManoMove/TreeInsert.md",
         "PaperPhoto": "3060.jpg",
-        "TagName": "Move.HandMove.TreeInsert"
+        "TagName": "Move.ManoMove.TreeInsert"
     },
     {
-        "PagePath": "Move/HandMove/TreeInsert.md",
+        "PagePath": "Move/ManoMove/TreeInsert.md",
         "PaperPhoto": "Video_002.mp4",
-        "TagName": "Move.HandMove.TreeInsert"
+        "TagName": "Move.ManoMove.TreeInsert"
     },
     {
-        "PagePath": "Move/HandMove/TreeInsert.md",
+        "PagePath": "Move/ManoMove/TreeInsert.md",
         "PaperPhoto": "Video_005.mp4",
-        "TagName": "Move.HandMove.TreeInsert"
+        "TagName": "Move.ManoMove.TreeInsert"
     },
     {
-        "PagePath": "Move/HandMove/TreeInsert.md",
+        "PagePath": "Move/ManoMove/TreeInsert.md",
         "PaperPhoto": "Video_009.mp4",
-        "TagName": "Move.HandMove.TreeInsert"
+        "TagName": "Move.ManoMove.TreeInsert"
     },
     {
-        "PagePath": "Move/HandMove/TreeInsert.md",
+        "PagePath": "Move/ManoMove/TreeInsert.md",
         "PaperPhoto": "Video_011.mp4",
-        "TagName": "Move.HandMove.TreeInsert"
+        "TagName": "Move.ManoMove.TreeInsert"
     },
     {
-        "PagePath": "Move/HandMove/Overview.md",
+        "PagePath": "Move/ManoMove/Overview.md",
         "PaperPhoto": "0296.jpg",
-        "TagName": "Move.HandMove.FingertipPress"
+        "TagName": "Move.ManoMove.FingertipPress"
     },
     {
-        "PagePath": "Move/HandMove/Overview.md",
+        "PagePath": "Move/ManoMove/Overview.md",
         "PaperPhoto": "0487.jpg",
-        "TagName": "Move.HandMove.FingerMove.FingerCurl"
+        "TagName": "Move.ManoMove.FingerMove.FingerCurl"
     },
     {
-        "PagePath": "Move/HandMove/Overview.md",
+        "PagePath": "Move/ManoMove/Overview.md",
         "PaperPhoto": "0487.jpg",
-        "TagName": "Move.HandMove.FingerMove.Overview"
+        "TagName": "Move.ManoMove.FingerMove.Overview"
     },
     {
-        "PagePath": "Move/HandMove/Overview.md",
+        "PagePath": "Move/ManoMove/Overview.md",
         "PaperPhoto": "0487.jpg",
-        "TagName": "Move.HandMove.PinchGrip"
+        "TagName": "Move.ManoMove.PinchMano"
     },
     {
-        "PagePath": "Move/HandMove/Overview.md",
+        "PagePath": "Move/ManoMove/Overview.md",
         "PaperPhoto": "1099.jpg",
-        "TagName": "Move.HandMove.HandSwap"
+        "TagName": "Move.ManoMove.HandSwap"
     },
     {
-        "PagePath": "Move/HandMove/Overview.md",
+        "PagePath": "Move/ManoMove/Overview.md",
         "PaperPhoto": "1451.jpg",
-        "TagName": "Move.HandMove.HandSlot"
+        "TagName": "Move.ManoMove.HandSlot"
     },
     {
-        "PagePath": "Move/HandMove/Overview.md",
+        "PagePath": "Move/ManoMove/Overview.md",
         "PaperPhoto": "1527.jpg",
-        "TagName": "Move.HandMove.HandSwap"
+        "TagName": "Move.ManoMove.HandSwap"
     },
     {
-        "PagePath": "Move/HandMove/Overview.md",
+        "PagePath": "Move/ManoMove/Overview.md",
         "PaperPhoto": "1546.jpg",
-        "TagName": "Move.HandMove.HandSmear"
+        "TagName": "Move.ManoMove.HandSmear"
     },
     {
-        "PagePath": "Move/HandMove/Overview.md",
+        "PagePath": "Move/ManoMove/Overview.md",
         "PaperPhoto": "1546.jpg",
-        "TagName": "Move.HandMove.UnderclingGrip"
+        "TagName": "Move.ManoMove.UnderclingMano"
     },
     {
-        "PagePath": "Move/HandMove/Overview.md",
+        "PagePath": "Move/ManoMove/Overview.md",
         "PaperPhoto": "1796.jpg",
-        "TagName": "Move.HandMove.HandSmear"
+        "TagName": "Move.ManoMove.HandSmear"
     },
     {
-        "PagePath": "Move/HandMove/Overview.md",
+        "PagePath": "Move/ManoMove/Overview.md",
         "PaperPhoto": "1803.jpg",
-        "TagName": "Move.HandMove.UnderclingGrip"
+        "TagName": "Move.ManoMove.UnderclingMano"
     },
     {
-        "PagePath": "Move/HandMove/Overview.md",
+        "PagePath": "Move/ManoMove/Overview.md",
         "PaperPhoto": "1806.jpg",
-        "TagName": "Move.HandMove.HandSwap"
+        "TagName": "Move.ManoMove.HandSwap"
     },
     {
-        "PagePath": "Move/HandMove/Overview.md",
+        "PagePath": "Move/ManoMove/Overview.md",
         "PaperPhoto": "1826.jpg",
-        "TagName": "Move.HandMove.CupGrip"
+        "TagName": "Move.ManoMove.CupMano"
     },
     {
-        "PagePath": "Move/HandMove/Overview.md",
+        "PagePath": "Move/ManoMove/Overview.md",
         "PaperPhoto": "1826.jpg",
-        "TagName": "Move.HandMove.FingerMove.FingerHook"
+        "TagName": "Move.ManoMove.FingerMove.FingerHook"
     },
     {
-        "PagePath": "Move/HandMove/Overview.md",
+        "PagePath": "Move/ManoMove/Overview.md",
         "PaperPhoto": "1826.jpg",
-        "TagName": "Move.HandMove.FingerMove.Overview"
+        "TagName": "Move.ManoMove.FingerMove.Overview"
     },
     {
-        "PagePath": "Move/HandMove/Overview.md",
+        "PagePath": "Move/ManoMove/Overview.md",
         "PaperPhoto": "1826.jpg",
-        "TagName": "Move.HandMove.FingerOverlapPoke"
+        "TagName": "Move.ManoMove.FingerOverlapPoke"
     },
     {
-        "PagePath": "Move/HandMove/Overview.md",
+        "PagePath": "Move/ManoMove/Overview.md",
         "PaperPhoto": "1826.jpg",
-        "TagName": "Move.HandMove.HandSlide"
+        "TagName": "Move.ManoMove.HandSlide"
     },
     {
-        "PagePath": "Move/HandMove/Overview.md",
+        "PagePath": "Move/ManoMove/Overview.md",
         "PaperPhoto": "1826.jpg",
-        "TagName": "Move.HandMove.HandSmear"
+        "TagName": "Move.ManoMove.HandSmear"
     },
     {
-        "PagePath": "Move/HandMove/Overview.md",
+        "PagePath": "Move/ManoMove/Overview.md",
         "PaperPhoto": "1826.jpg",
-        "TagName": "Move.HandMove.PinchGrip"
+        "TagName": "Move.ManoMove.PinchMano"
     },
     {
-        "PagePath": "Move/HandMove/Overview.md",
+        "PagePath": "Move/ManoMove/Overview.md",
         "PaperPhoto": "2007.jpg",
-        "TagName": "Move.HandMove.PinchGrip"
+        "TagName": "Move.ManoMove.PinchMano"
     },
     {
-        "PagePath": "Move/HandMove/Overview.md",
+        "PagePath": "Move/ManoMove/Overview.md",
         "PaperPhoto": "2008.jpg",
-        "TagName": "Move.HandMove.Overview"
+        "TagName": "Move.ManoMove.Overview"
     },
     {
-        "PagePath": "Move/HandMove/Overview.md",
+        "PagePath": "Move/ManoMove/Overview.md",
         "PaperPhoto": "2010.jpg",
-        "TagName": "Move.HandMove.Overview"
+        "TagName": "Move.ManoMove.Overview"
     },
     {
-        "PagePath": "Move/HandMove/Overview.md",
+        "PagePath": "Move/ManoMove/Overview.md",
         "PaperPhoto": "2020.jpg",
-        "TagName": "Move.HandMove.Overview"
+        "TagName": "Move.ManoMove.Overview"
     },
     {
-        "PagePath": "Move/HandMove/Overview.md",
+        "PagePath": "Move/ManoMove/Overview.md",
         "PaperPhoto": "2482.jpg",
-        "TagName": "Move.HandMove.Overview"
+        "TagName": "Move.ManoMove.Overview"
     },
     {
-        "PagePath": "Move/HandMove/Overview.md",
+        "PagePath": "Move/ManoMove/Overview.md",
         "PaperPhoto": "2511.jpg",
-        "TagName": "Move.HandMove.Overview"
+        "TagName": "Move.ManoMove.Overview"
     },
     {
-        "PagePath": "Move/HandMove/Overview.md",
+        "PagePath": "Move/ManoMove/Overview.md",
         "PaperPhoto": "2525.jpg",
-        "TagName": "Move.HandMove.Overview"
+        "TagName": "Move.ManoMove.Overview"
     },
     {
-        "PagePath": "Move/HandMove/Overview.md",
+        "PagePath": "Move/ManoMove/Overview.md",
         "PaperPhoto": "2571.jpg",
-        "TagName": "Move.HandMove.Overview"
+        "TagName": "Move.ManoMove.Overview"
     },
     {
-        "PagePath": "Move/HandMove/Overview.md",
+        "PagePath": "Move/ManoMove/Overview.md",
         "PaperPhoto": "Video_002.mp4",
-        "TagName": "Move.HandMove.HandSlide"
+        "TagName": "Move.ManoMove.HandSlide"
     },
     {
-        "PagePath": "Move/HandMove/SpadeHandleGrip.md",
+        "PagePath": "Move/ManoMove/SpadeHandleMano.md",
         "PaperPhoto": "0016.jpg",
-        "TagName": "Move.HandMove.SpadeHandleGrip"
+        "TagName": "Move.ManoMove.SpadeHandleMano"
     },
     {
-        "PagePath": "Move/HandMove/SpadeHandleGrip.md",
+        "PagePath": "Move/ManoMove/SpadeHandleMano.md",
         "PaperPhoto": "3016.jpg",
-        "TagName": "Move.HandMove.SpadeHandleGrip"
+        "TagName": "Move.ManoMove.SpadeHandleMano"
     },
     {
-        "PagePath": "Move/HandMove/TreeGrip.md",
+        "PagePath": "Move/ManoMove/TreeMano.md",
         "PaperPhoto": "0448.jpg",
-        "TagName": "Move.HandMove.TreeGrip"
+        "TagName": "Move.ManoMove.TreeMano"
     },
     {
-        "PagePath": "Move/HandMove/TreeGrip.md",
+        "PagePath": "Move/ManoMove/TreeMano.md",
         "PaperPhoto": "1859.jpg",
-        "TagName": "Move.HandMove.TreeFlip"
+        "TagName": "Move.ManoMove.TreeFlip"
     },
     {
-        "PagePath": "Move/HandMove/TreeGrip.md",
+        "PagePath": "Move/ManoMove/TreeMano.md",
         "PaperPhoto": "2944.jpg",
-        "TagName": "Move.HandMove.TreeFlip"
+        "TagName": "Move.ManoMove.TreeFlip"
     },
     {
-        "PagePath": "Move/HandMove/TreeGrip.md",
+        "PagePath": "Move/ManoMove/TreeMano.md",
         "PaperPhoto": "2944.jpg",
-        "TagName": "Move.HandMove.TreeGrip"
+        "TagName": "Move.ManoMove.TreeMano"
     },
     {
-        "PagePath": "Move/HandMove/TreeGrip.md",
+        "PagePath": "Move/ManoMove/TreeMano.md",
         "PaperPhoto": "2954.jpg",
-        "TagName": "Move.HandMove.TreeGrip"
+        "TagName": "Move.ManoMove.TreeMano"
     },
     {
-        "PagePath": "Move/HandMove/TreeGrip.md",
+        "PagePath": "Move/ManoMove/TreeMano.md",
         "PaperPhoto": "Video_013.mp4",
-        "TagName": "Move.HandMove.TreeGrip"
+        "TagName": "Move.ManoMove.TreeMano"
     },
     {
-        "PagePath": "Move/HandMove/TreeTestGrip.md",
+        "PagePath": "Move/ManoMove/TreeTestMano.md",
         "PaperPhoto": "2936.jpg",
-        "TagName": "Move.HandMove.TreeTestGrip"
+        "TagName": "Move.ManoMove.TreeTestMano"
     },
     {
-        "PagePath": "Move/HandMove/TreeTestGrip.md",
+        "PagePath": "Move/ManoMove/TreeTestMano.md",
         "PaperPhoto": "Video_006.mp4",
-        "TagName": "Move.HandMove.TreeInspect"
+        "TagName": "Move.ManoMove.TreeInspect"
     },
     {
         "PagePath": "Move/HeadMove/FocusLook.md",
@@ -4765,24 +4765,24 @@ data = [
         "TagName": "Move.ToolMove.BoxMove.Overview"
     },
     {
-        "PagePath": "Move/ToolMove/Bundle/BundleGrip.md",
+        "PagePath": "Move/ToolMove/Bundle/BundleMano.md",
         "PaperPhoto": "Video_004.mp4",
-        "TagName": "Move.ToolMove.BundleMove.BundleGrip"
+        "TagName": "Move.ToolMove.BundleMove.BundleMano"
     },
     {
-        "PagePath": "Move/ToolMove/Bundle/BundleGrip.md",
+        "PagePath": "Move/ToolMove/Bundle/BundleMano.md",
         "PaperPhoto": "Video_013.mp4",
-        "TagName": "Move.ToolMove.BundleMove.BundleGrip"
+        "TagName": "Move.ToolMove.BundleMove.BundleMano"
     },
     {
-        "PagePath": "Move/ToolMove/Bundle/BundleGrip.md",
+        "PagePath": "Move/ToolMove/Bundle/BundleMano.md",
         "PaperPhoto": "Video_014.mp4",
-        "TagName": "Move.ToolMove.BundleMove.BundleGrip"
+        "TagName": "Move.ToolMove.BundleMove.BundleMano"
     },
     {
-        "PagePath": "Move/ToolMove/Bundle/BundleGrip.md",
+        "PagePath": "Move/ToolMove/Bundle/BundleMano.md",
         "PaperPhoto": "Video_015.mp4",
-        "TagName": "Move.ToolMove.BundleMove.BundleGrip"
+        "TagName": "Move.ToolMove.BundleMove.BundleMano"
     },
     {
         "PagePath": "Move/ToolMove/Bundle/BundlePeel.md",

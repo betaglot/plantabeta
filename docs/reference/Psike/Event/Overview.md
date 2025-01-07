@@ -38,7 +38,7 @@ Event from a first person perspective
 
 ## MoveEvent
 
-### ToolEvent
+### InstrumentEvent
 
 - onBagEmpty()
 - onBagHalfEmpty()

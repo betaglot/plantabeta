@@ -120,7 +120,7 @@ HiddenByViaForm
     - MovePosition
 
 - SwapMovement on Contact.
-- UnderclingGrip when you can’t see from Distal of Elbow.
+- UnderclingMano when you can’t see from Distal of Elbow.
 - FootHold
 
 - HiddenByShadow

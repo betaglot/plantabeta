@@ -23,7 +23,7 @@
 - Is there a phone case which can be attached to planting bags?
 - How to deal with sweaty hands in waterproof gloves?
 - What languages don't have a name for tree Plantor?
-- How can the graphical system of sports plays on whiteboards be used as a tool to teach planting?
+- How can the graphical system of sports plays on whiteboards be used as a Instrument to teach planting?
 - How can planting boxes be hexagonal instead of rectangular?
 - Who is the oldest tree Plantor in Canada?
 - What is the reason why Plantors rarely use spades in Europe?
@@ -48,7 +48,7 @@
 - How can Plantors be outfitted with military grade boots?
 - How does the rate in North America change throughout the year?
 - Are there every any days when a tree isn't planted in Canada?
-- Are there residential Ecoscaping companies which use Canadian tree Plantor tools?
+- Are there residential Ecoscaping companies which use Canadian tree Plantor Instruments?
 - Do any Plantors gain mass by the end of their season?
 - Do any Plantors have a warm up routine for before starting their planting day?
 - How can bioplastics be used as Marka?

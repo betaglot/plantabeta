@@ -75,11 +75,11 @@ When MargoHayes attempted Biographie(9a+) while it was WetRoute.
 ## Wall Angle
 
 - SlabWall
-    - Gravity decreases Grip Kratos of Vector into Wall as the WallAngle becomes more SlabWall.
-- Gravity increases Grip Kratos as the WallAngle becomes more OverhangWall.
-    - PinchGrip on a RoofWall.
+    - Gravity decreases Mano Kratos of Vector into Wall as the WallAngle becomes more SlabWall.
+- Gravity increases Mano Kratos as the WallAngle becomes more OverhangWall.
+    - PinchMano on a RoofWall.
 
 - (WallAngle+SurfaceAngle+LoadingAngle)
-    - Intense in which Direction. Grip can be intense IntoWall, DownWall, UpWall, OutOfWall. PinchGrip.Error.Slide on VerticalWall, slides DownWall, which PinchGrip.Error.Slide on OverhangWall is OutOfWall.
+    - Intense in which Direction. Mano can be intense IntoWall, DownWall, UpWall, OutOfWall. PinchMano.Error.Slide on VerticalWall, slides DownWall, which PinchMano.Error.Slide on OverhangWall is OutOfWall.
         - (MovementDirection)RelativeTo(Route)
             - IntoWall, DownWall, UpWall, OutOfWall

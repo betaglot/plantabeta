@@ -38,9 +38,9 @@ To [Reforest](https://www.lasy.gov.pl/en/information/news/a-forest-is-much-more-
 
 ## Tutorial
 
-## Tools
+## Instruments
 
-Test [novel plantor tools](dev/Tools)
+Test [novel plantor Instruments](dev/Instruments)
 
 ### Psychology
 

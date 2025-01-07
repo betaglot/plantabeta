@@ -24,7 +24,7 @@ Mount and also attach a **wire** and HiVis to the camera in case the mount malfu
 
 - Hole
 - SpadeMove
-- HandMove
+- ManoMove
 
 #### TripodMount
 

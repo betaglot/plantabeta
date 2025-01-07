@@ -84,7 +84,7 @@ Beta is composed of four types, each of which can be represented by an icon:
 
 🟩<eko>Eko </eko>: All biologic and geologic objects and processes you interact with while in a planting block. For example: slash, roads, stumps, plants, soil and weather.
 
-🟠<move>Move </move>: The movements and tools you use to plant trees. For example: slamming your spade into the ground, ripping Marka, your clothing and your bags.
+🟠<move>Move </move>: The movements and Instruments you use to plant trees. For example: slamming your spade into the ground, ripping Marka, your clothing and your bags.
 
 🔻<via>Via </via>: The path taken by plantors. For example: your line in, backfilling, area planting, bouncing while partner planting and deadwalking
 
@@ -116,16 +116,16 @@ Beta is composed of four types, each of which can be represented by an icon:
 - 🟠<move>[Clothing](/encyclopedia/Move/ClothingMove/Overview)</move>: Don't leave stuff in backbag when wet.
     - Cotton mold
 
-- 🟠<move>[BundleGrip](/encyclopedia/Move/ToolMove/Bundle/BundleGrip)</move>: Grab two bundles in each hand, so four bundles at a time when transfering bundles from boxes to bags.
+- 🟠<move>[BundleMano](/encyclopedia/Move/InstrumentMove/Bundle/BundleMano)</move>: Grab two bundles in each hand, so four bundles at a time when transfering bundles from boxes to bags.
 
-- 🟠<move>[TreeTest.Error](/encyclopedia/Move/HandMove/TreeTest)</move>: One tree test and what are you looking for?
+- 🟠<move>[TreeTest.Error](/encyclopedia/Move/ManoMove/TreeTest)</move>: One tree test and what are you looking for?
     - 💜<psike>FearOfReplant</psike>
 
-- 🟠<move>[TreeTest](/encyclopedia/Move/HandMove/TreeTest)</move>: Single Move for TreeTest
+- 🟠<move>[TreeTest](/encyclopedia/Move/ManoMove/TreeTest)</move>: Single Move for TreeTest
 
-- 🟠<move>[SpadeImpact](/encyclopedia/Move/ToolMove/Spade/SpadeImpact)</move>: Humerus Rotate Out for SpadeImpact to recruit Latissimus Dorsi and prevent overactivation of Pectoralis muscles which causes Shoulder Impingement Injury
+- 🟠<move>[SpadeImpact](/encyclopedia/Move/InstrumentMove/Spade/SpadeImpact)</move>: Humerus Rotate Out for SpadeImpact to recruit Latissimus Dorsi and prevent overactivation of Pectoralis muscles which causes Shoulder Impingement Injury
 
-- 🟠<move>[SpadeSkreef](/encyclopedia/Move/ToolMove/Spade/SpadeSkreef)</move>: SpadeSkreef is faster than BootSkreef or HandSkreef. And it flows into the retrokurve of SpadeImpact.
+- 🟠<move>[SpadeSkreef](/encyclopedia/Move/InstrumentMove/Spade/SpadeSkreef)</move>: SpadeSkreef is faster than BootSkreef or HandSkreef. And it flows into the retrokurve of SpadeImpact.
 
 - 🟠<move>[TraverseBush](/encyclopedia/Move/PlantMove/Overview)</move>: Spread branches while pushing your way through a bush.
     - AlderCluster, MapleCluster

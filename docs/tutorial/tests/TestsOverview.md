@@ -6,11 +6,11 @@ The ultimate goal is to have high quality interactive tests like the ones on <ht
 
 ## How to Test
 
-## What tools are used for testing?
+## What Instruments are used for testing?
 
 - Route
 - Wall
-- Setter Tools
+- Setter Instruments
 - Paper
 - Pen
 - Pencil

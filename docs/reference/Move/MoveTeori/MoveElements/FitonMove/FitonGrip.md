@@ -1,23 +1,23 @@
-# 🟠 <move>TreeGrip</move>
+# 🟠 <move>TreeMano</move>
 
 ![MoveIkon](/Move/Move_Ikon.png)
 
-## TreeGrip Purpose
+## TreeMano Purpose
 
-- TreeGrip is the interface between Plantor and Fiton.
+- TreeMano is the interface between Plantor and Fiton.
 
-## TreeGrip Parameters
+## TreeMano Parameters
 
 - HandSize
 - PodSize
 - PodIntegrity
     - Is the TreePod falling apart?
 
-## RequiredTools
+## RequiredInstruments
 
 - Glove
 
-## PodGrip
+## PodMano
 
 ### Submotos
 
@@ -31,9 +31,9 @@
 - BagCover
 - TreeRemove
 
-## StemGrip
+## StemMano
 
-## 🕸 TreeGrip.Skema
+## 🕸 TreeMano.Skema
 
 ### Related 🟩<eko>Eko</eko>
 
@@ -65,7 +65,7 @@
     - See if the tree has been planted with good quality
     - TreeTwirl
     - TreePull
-        - CollarGrip
+        - CollarMano
     - SitePoke
         - Confirm the Seal around the collar
             - LooseTree
@@ -73,14 +73,14 @@
             - ShallowTree
 
 - BlindMove
-- PodGrip
+- PodMano
 - TreeLoad
     - FeelingForHold
-- StemGrip
+- StemMano
 - TreeInsert
-    - PodGrip(2Finger)
+    - PodMano(2Finger)
     - TreeRelease
-- "Move.HandMove.TreeFlip"
-- "Move.HandMove.TreeGrip"
+- "Move.ManoMove.TreeFlip"
+- "Move.ManoMove.TreeMano"
 
 :::

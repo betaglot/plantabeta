@@ -1,10 +1,10 @@
-# 🟠 <move>HandMove</move>
+# 🟠 <move>ManoMove</move>
 
 ## Hand Anatomy
 
 ## Hand Attributes
 
-## 🕸 HandMove.Skema
+## 🕸 ManoMove.Skema
 
 ### Related 🟩<eko>Eko</eko>
 
@@ -31,46 +31,46 @@
 <!-- =================================================== -->
 ::: details 🛠 <dev>&&&</dev>
 
-- [PanBeta(Grappling)](<https://www.invertedgear.com/blogs/inverted-gear-blog/a-visual-guide-to-hand-to-hand-grips-in-bjj>)
-    - 2Hand grips are used during WalkIns and WalkOuts
+- [PanBeta(Grappling)](<https://www.invertedgear.com/blogs/inverted-gear-blog/a-visual-guide-to-hand-to-hand-Manos-in-bjj>)
+    - 2Hand Manos are used during WalkIns and WalkOuts
         - Carrying [Tarps, CollapsedBoxes, Bags, WaterJugs]
-    - CGrip
-    - ScoopGrip
-        - When your Thumb can't oppose fingers because the grip radius is too large
+    - CMano
+    - ScoopMano
+        - When your Thumb can't oppose fingers because the Mano radius is too large
         - LogLaunch
         - TrunkMove
         - HandSmear
-    - SleeveGrip
-    - PocketGrip
-    - PistolGrip
+    - SleeveMano
+    - PocketMano
+    - PistolMano
         - Tarp
-        - BagGrip
-    - 2HandMove
-        - SGrip
-        - CableGrip
+        - BagMano
+    - 2ManoMove
+        - SMano
+        - CableMano
             - No thumbs
-        - ButterflyGrip
-        - SeatbeltGrip
+        - ButterflyMano
+        - SeatbeltMano
 
-- "Move.HandMove.CupGrip"
-- "Move.HandMove.FingerMove.FingerCurl"
-- "Move.HandMove.FingerMove.FingerFlexion"
-- "Move.HandMove.FingerMove.FingerHook"
-- "Move.HandMove.FingerMove.FingerPoke"
-- "Move.HandMove.FingerMove.Overview"
-- "Move.HandMove.FingerMove.ThumbHook
-- Move.HandMove.FingerMove.FingerExtension"
-- "Move.HandMove.FingerOverlapPoke"
-- "Move.HandMove.FingertipPress"
-- "Move.HandMove.GentleGrip"
-- "Move.HandMove.HandRoll"
-- "Move.HandMove.HandSlide"
-- "Move.HandMove.HandSlot"
-- "Move.HandMove.HandSmear"
-- "Move.HandMove.HandSwap"
-- "Move.HandMove.Overview"
-- "Move.HandMove.PinchGrip"
-- "Move.HandMove.TrunkGrip"
-- "Move.HandMove.UnderclingGrip"
+- "Move.ManoMove.CupMano"
+- "Move.ManoMove.FingerMove.FingerCurl"
+- "Move.ManoMove.FingerMove.FingerFlexion"
+- "Move.ManoMove.FingerMove.FingerHook"
+- "Move.ManoMove.FingerMove.FingerPoke"
+- "Move.ManoMove.FingerMove.Overview"
+- "Move.ManoMove.FingerMove.ThumbHook
+- Move.ManoMove.FingerMove.FingerExtension"
+- "Move.ManoMove.FingerOverlapPoke"
+- "Move.ManoMove.FingertipPress"
+- "Move.ManoMove.GentleMano"
+- "Move.ManoMove.HandRoll"
+- "Move.ManoMove.HandSlide"
+- "Move.ManoMove.HandSlot"
+- "Move.ManoMove.HandSmear"
+- "Move.ManoMove.HandSwap"
+- "Move.ManoMove.Overview"
+- "Move.ManoMove.PinchMano"
+- "Move.ManoMove.TrunkMano"
+- "Move.ManoMove.UnderclingMano"
 
 :::

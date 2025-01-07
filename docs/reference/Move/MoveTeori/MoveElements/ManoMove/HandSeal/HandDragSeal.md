@@ -27,7 +27,7 @@
 <!-- =================================================== -->
 ::: details 🛠 <dev>&&&</dev>
 
-- LockedClawGrip
+- LockedClawMano
     - Isometric, not concentric
 - Diagonal or Saggital
 

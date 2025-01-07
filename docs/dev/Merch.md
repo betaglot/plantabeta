@@ -92,7 +92,7 @@ Joker: Rock under cream
 
 ## Video
 
-## Tools
+## Instruments
 
 ## Stickers
 

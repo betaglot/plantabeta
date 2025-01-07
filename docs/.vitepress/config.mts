@@ -377,19 +377,19 @@ export default defineConfig({
 //           ]
 //         },
 //         {
-//           text: '🟠 <move>HandMove</move>', link: '/encyclopedia/Move/HandMove/Overview', collapsed: true, items: [
-//             { text: '🟠 <move>Hand Frase</move>', link: '/encyclopedia/Move/HandMove/Frase/Overview' },
-//             { text: '🟠 <move>BagGrip</move>', link: '/encyclopedia/Move/HandMove/BagGrip' },
-//             { text: '🟠 <move>BoxGrip</move>', link: '/encyclopedia/Move/HandMove/BoxGrip' },
-//             { text: '🟠 <move>BranchGrip</move>', link: '/encyclopedia/Move/HandMove/BranchGrip' },
-//             { text: '🟠 <move>BranchSnapGrip</move>', link: '/encyclopedia/Move/HandMove/BranchSnapGrip' },
-//             { text: '🟠 <move>HandClose</move>', link: '/encyclopedia/Move/HandMove/HandClose' },
-//             { text: '🟠 <move>HandPoke</move>', link: '/encyclopedia/Move/HandMove/HandPoke' },
-//             { text: '🟠 <move>HandSkreef</move>', link: '/encyclopedia/Move/HandMove/HandSkreef' },
-//             { text: '🟠 <move>SpadeHandleGrip</move>', link: '/encyclopedia/Move/HandMove/SpadeHandleGrip' },
-//             { text: '🟠 <move>SpadeCollarGrip</move>', link: '/encyclopedia/Move/HandMove/SpadeCollarGrip' },
-//             { text: '🟠 <move>TreeGrip</move>', link: '/encyclopedia/Move/HandMove/TreeGrip' },
-//             { text: '🟠 <move>TreeTestGrip</move>', link: '/encyclopedia/Move/HandMove/TreeTestGrip' },
+//           text: '🟠 <move>ManoMove</move>', link: '/encyclopedia/Move/ManoMove/Overview', collapsed: true, items: [
+//             { text: '🟠 <move>Hand Frase</move>', link: '/encyclopedia/Move/ManoMove/Frase/Overview' },
+//             { text: '🟠 <move>BagMano</move>', link: '/encyclopedia/Move/ManoMove/BagMano' },
+//             { text: '🟠 <move>BoxMano</move>', link: '/encyclopedia/Move/ManoMove/BoxMano' },
+//             { text: '🟠 <move>BranchMano</move>', link: '/encyclopedia/Move/ManoMove/BranchMano' },
+//             { text: '🟠 <move>BranchSnapMano</move>', link: '/encyclopedia/Move/ManoMove/BranchSnapMano' },
+//             { text: '🟠 <move>HandClose</move>', link: '/encyclopedia/Move/ManoMove/HandClose' },
+//             { text: '🟠 <move>HandPoke</move>', link: '/encyclopedia/Move/ManoMove/HandPoke' },
+//             { text: '🟠 <move>HandSkreef</move>', link: '/encyclopedia/Move/ManoMove/HandSkreef' },
+//             { text: '🟠 <move>SpadeHandleMano</move>', link: '/encyclopedia/Move/ManoMove/SpadeHandleMano' },
+//             { text: '🟠 <move>SpadeCollarMano</move>', link: '/encyclopedia/Move/ManoMove/SpadeCollarMano' },
+//             { text: '🟠 <move>TreeMano</move>', link: '/encyclopedia/Move/ManoMove/TreeMano' },
+//             { text: '🟠 <move>TreeTestMano</move>', link: '/encyclopedia/Move/ManoMove/TreeTestMano' },
 //           ]
 //         },
 //         {
@@ -444,7 +444,7 @@ export default defineConfig({
 //         {
 //           text: '🟠 <move>Skreef</move>', link: '/encyclopedia/Move/Skreef/Overview', collapsed: true, items: [
 //             { text: '🟠 <move>BootSkreef</move>', link: '/encyclopedia/Move/ToolMove/Boot/BootSkreef' },
-//             { text: '🟠 <move>HandSkreef</move>', link: '/encyclopedia/Move/HandMove/HandSkreef' },
+//             { text: '🟠 <move>HandSkreef</move>', link: '/encyclopedia/Move/ManoMove/HandSkreef' },
 //             { text: '🟠 <move>SpadeSkreef</move>', link: '/encyclopedia/Move/ToolMove/Spade/SpadeSkreef' },
 //           ]
 //         },
@@ -452,7 +452,7 @@ export default defineConfig({
 //           text: '🟠 <move>ToolMove</move>', link: '/encyclopedia/Move/ToolMove/Overview', collapsed: true, items: [
 //             {
 //               text: '🟠 <move>Bag</move>', link: '/encyclopedia/Move/ToolMove/Bag/Overview', collapsed: true, items: [
-//                 { text: '🟠 <move>BagGrip</move>', link: '/encyclopedia/Move/ToolMove/Bag/BagGrip' },
+//                 { text: '🟠 <move>BagMano</move>', link: '/encyclopedia/Move/ToolMove/Bag/BagMano' },
 //                 { text: '🔷 <move>Bag Frase</move>', link: '/encyclopedia/Move/ToolMove/Bag/Frase/Overview' },
 //                 { text: '🟠 <move>BagAdjustment</move>', link: '/encyclopedia/Move/ToolMove/Bag/BagAdjustment' },
 //                 { text: '🟠 <move>BagDeadlift</move>', link: '/encyclopedia/Move/ToolMove/Bag/BagDeadlift' },
@@ -466,7 +466,7 @@ export default defineConfig({
 //             {
 //               text: '🟠 <move>Boot</move>', link: '/encyclopedia/Move/ToolMove/Boot/Overview', collapsed: true, items: [
 //                 { text: '🔷 <move>Boot Frase</move>', link: '/encyclopedia/Move/ToolMove/Boot/Frase/Overview' },
-//                 { text: '🟠 <move>BootGrip</move>', link: '/encyclopedia/Move/ToolMove/Boot/BootGrip' },
+//                 { text: '🟠 <move>BootMano</move>', link: '/encyclopedia/Move/ToolMove/Boot/BootMano' },
 //                 { text: '🟠 <move>BootSkreef</move>', link: '/encyclopedia/Move/ToolMove/Boot/BootSkreef' },
 //                 { text: '🟠 <move>LaceKnot</move>', link: '/encyclopedia/Move/ToolMove/Boot/LaceKnot' },
 //               ]
@@ -474,13 +474,13 @@ export default defineConfig({
 //             {
 //               text: '🟠 <move>Box</move>', link: '/encyclopedia/Move/ToolMove/Box/Overview', collapsed: true, items: [
 //                 { text: '🔷 <move>Box Frase</move>', link: '/encyclopedia/Move/ToolMove/Box/Frase/Overview' },
-//                 { text: '🟠 <move>BoxGrip</move>', link: '/encyclopedia/Move/ToolMove/Box/BoxGrip' },
+//                 { text: '🟠 <move>BoxMano</move>', link: '/encyclopedia/Move/ToolMove/Box/BoxMano' },
 //               ]
 //             },
 //             {
 //               text: '🟠 <move>Bundle</move>', link: '/encyclopedia/Move/ToolMove/Bundle/Overview', collapsed: true, items: [
 //                 { text: '🔷 <move>Bundle Frase</move>', link: '/encyclopedia/Move/ToolMove/Bundle/Frase/Overview' },
-//                 { text: '🟠 <move>BundleGrip</move>', link: '/encyclopedia/Move/ToolMove/Bundle/BundleGrip' },
+//                 { text: '🟠 <move>BundleMano</move>', link: '/encyclopedia/Move/ToolMove/Bundle/BundleMano' },
 //                 { text: '🟠 <move>BundlePeel</move>', link: '/encyclopedia/Move/ToolMove/Bundle/BundlePeel' },
 //               ]
 //             },
@@ -491,7 +491,7 @@ export default defineConfig({
 //             {
 //               text: '🟠 <move>Marka</move>', link: '/encyclopedia/Move/ToolMove/Marka/Overview', collapsed: true, items: [
 //                 { text: '🔷 <move>Marka Frase</move>', link: '/encyclopedia/Move/ToolMove/Marka/Frase/Overview' },
-//                 { text: '🟠 <move>MarkaGrip</move>', link: '/encyclopedia/Move/ToolMove/Marka/MarkaGrip' },
+//                 { text: '🟠 <move>MarkaMano</move>', link: '/encyclopedia/Move/ToolMove/Marka/MarkaMano' },
 //                 { text: '🟠 <move>MarkaKnot</move>', link: '/encyclopedia/Move/ToolMove/Marka/MarkaKnot' },
 //                 { text: '🟠 <move>MarkaReload</move>', link: '/encyclopedia/Move/ToolMove/Marka/MarkaReload' },
 //                 { text: '🟠 <move>MarkaRip</move>', link: '/encyclopedia/Move/ToolMove/Marka/MarkaRip' },
@@ -501,7 +501,7 @@ export default defineConfig({
 //             {
 //               text: '🟠 <move>Tibior</move>', link: '/encyclopedia/Move/ToolMove/Tibior/Overview', collapsed: true, items: [
 //                 { text: '🔷 <move>Tibior Frase</move>', link: '/encyclopedia/Move/ToolMove/Tibior/Frase/Overview' },
-//                 { text: '🟠 <move>TibiorGrip</move>', link: '/encyclopedia/Move/ToolMove/Tibior/TibiorGrip' },
+//                 { text: '🟠 <move>TibiorMano</move>', link: '/encyclopedia/Move/ToolMove/Tibior/TibiorMano' },
 //                 { text: '🟠 <move>TibiorOn</move>', link: '/encyclopedia/Move/ToolMove/Tibior/TibiorOn' },
 //                 { text: '🟠 <move>TibiorOff</move>', link: '/encyclopedia/Move/ToolMove/Tibior/TibiorOff' },
 //               ]
@@ -509,7 +509,7 @@ export default defineConfig({
 //             {
 //               text: '🟠 <move>Glove</move>', link: '/encyclopedia/Move/ToolMove/Glove/Overview', collapsed: true, items: [
 //                 { text: '🔷 <move>Glove Frase</move>', link: '/encyclopedia/Move/ToolMove/Glove/Frase/Overview' },
-//                 { text: '🟠 <move>GloveGrip</move>', link: '/encyclopedia/Move/ToolMove/Glove/GloveGrip' },
+//                 { text: '🟠 <move>GloveMano</move>', link: '/encyclopedia/Move/ToolMove/Glove/GloveMano' },
 //               ]
 //             },
 //             {
@@ -528,7 +528,7 @@ export default defineConfig({
 //                 { text: '🟠 <move>SpadeChop</move>', link: '/encyclopedia/Move/ToolMove/Spade/SpadeChop' },
 //                 { text: '🟠 <move>SpadeCone</move>', link: '/encyclopedia/Move/ToolMove/Spade/SpadeCone' },
 //                 { text: '🟠 <move>SpadeDrag</move>', link: '/encyclopedia/Move/ToolMove/Spade/SpadeDrag' },
-//                 { text: '🟠 <move>SpadeGrip</move>', link: '/encyclopedia/Move/ToolMove/Spade/SpadeGrip' },
+//                 { text: '🟠 <move>SpadeMano</move>', link: '/encyclopedia/Move/ToolMove/Spade/SpadeMano' },
 //                 { text: '🟠 <move>SpadeJavelin</move>', link: '/encyclopedia/Move/ToolMove/Spade/SpadeJavelin' },
 //                 { text: '🟠 <move>SpadePendulum</move>', link: '/encyclopedia/Move/ToolMove/Spade/SpadePendulum' },
 //                 { text: '🟠 <move>SpadePogo</move>', link: '/encyclopedia/Move/ToolMove/Spade/SpadePogo' },
@@ -555,7 +555,7 @@ export default defineConfig({
 //                 { text: '🟠 <move>DoruChop</move>', link: '/encyclopedia/Move/ToolMove/Doru/DoruChop' },
 //                 { text: '🟠 <move>DoruCone</move>', link: '/encyclopedia/Move/ToolMove/Doru/DoruCone' },
 //                 { text: '🟠 <move>DoruDrag</move>', link: '/encyclopedia/Move/ToolMove/Doru/DoruDrag' },
-//                 { text: '🟠 <move>DoruGrip</move>', link: '/encyclopedia/Move/ToolMove/Doru/DoruGrip' },
+//                 { text: '🟠 <move>DoruMano</move>', link: '/encyclopedia/Move/ToolMove/Doru/DoruMano' },
 //                 { text: '🟠 <move>DoruMatch</move>', link: '/encyclopedia/Move/ToolMove/Doru/DoruMatch' },
 //                 { text: '🟠 <move>DoruPendulum</move>', link: '/encyclopedia/Move/ToolMove/Doru/DoruPendulum' },
 //                 { text: '🟠 <move>DoruPogo</move>', link: '/encyclopedia/Move/ToolMove/Doru/DoruPogo' },

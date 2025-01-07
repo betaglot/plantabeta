@@ -1,6 +1,6 @@
 # 🔻 <via>Kontakt</via>
 
-> A surface that a Plantor contacts with any part of their body or with a tool.
+> A surface that a Plantor contacts with any part of their body or with a Instrument.
 
 Aliases: Contact point, Contact
 

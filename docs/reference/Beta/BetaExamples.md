@@ -36,7 +36,7 @@
 
 🔷<beta>"Only": </beta>
 
-🟠<move>"Marka": [MarkaMove](/encyclopedia/Move/ToolMove/MarkaMove/Overview)</move>
+🟠<move>"Marka": [MarkaMove](/encyclopedia/Move/InstrumentMove/MarkaMove/Overview)</move>
 
 🔻<via>"line in": </via>
 

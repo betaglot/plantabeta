@@ -33,5 +33,5 @@
 
 <h2>PageTags</h2>
 
-- "Move.HandMove.BranchSnapGrip"
+- "Move.ManoMove.BranchSnapMano"
 :::

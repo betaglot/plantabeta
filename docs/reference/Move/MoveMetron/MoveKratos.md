@@ -44,7 +44,7 @@ High MoveIntensity increases NeuroIntensity
 
 > “Explode”, ”Erupt”, ”Hurl yourself”,
 
-> “Bear down”, ”Squeeze the hell out of it”, ”Dig in”, ”Death grip”
+> “Bear down”, ”Squeeze the hell out of it”, ”Dig in”, ”Death Mano”
 
 > “Try hard”, ”Maximum effort”, ”all out”, ”Give it 110%”
 
@@ -207,16 +207,16 @@ Endurance.I-C+
 
 ArmPump
 
-- ArmPump increases proportional to Time spent Gripping.
-    - GripTime
-        - DeadhangTraining increases GripTime and decreases RiskOfArmPump
+- ArmPump increases proportional to Time spent Manoping.
+    - ManoTime
+        - DeadhangTraining increases ManoTime and decreases RiskOfArmPump
             - Movement.RI(--)
 - FlashPump
     - WarmUpError
     - FlashPump can occur when Climber doesn’t properly WarmUp by Climbing TooIntense TooSoon.
 
 - LacticAcid
-- GripStrength
+- ManoStrength
 
 ## Energy
 
@@ -347,7 +347,7 @@ ArmPump
 
 ## MovementSize
 
-- (GripIntensity)ProportionalTo(PinchGrip.Width)
+- (ManoIntensity)ProportionalTo(PinchMano.Width)
 - Intensity is proportional to the DisplacementMagnitude between RouteSurfaces.
 - MovementSize increases the Intensity since more force must be generated to move further.
 - MovementNameList
@@ -376,7 +376,7 @@ ArmPump
     - OveruseInjuryPain
         - RawFingerpadPain
         - JointInjuryPain
-            - CrimpGrip
+            - CrimpMano
 - On(Pain)
     - Vocalization
 
@@ -419,7 +419,7 @@ ArmPump
     - TooFar
     - Overshoot
     - TooMuch
-    - Overgripping
+    - OverManoping
 - Underpowered
     - Definition(Underpowered)
         - Not enough power.
@@ -439,9 +439,9 @@ ArmPump
 - Many instances of movement type along route, which can localize MuscleFatigue to particular ClimberPart or ClimberPartGroup.
     - Laybacking
     - Jamming
-    - CrimpGrip
-        - 2 CrimpGrip
-        - RouteSequence[CrimpGrips] in a row is greater RouteIntensity than CrimpGrip
+    - CrimpMano
+        - 2 CrimpMano
+        - RouteSequence[CrimpManos] in a row is greater RouteIntensity than CrimpMano
 
 ## Rest
 
@@ -552,7 +552,7 @@ ArmPump
 
 ### Quote
 
-- GripStrength
+- ManoStrength
 - LegStrength
 - MaintainPosition
 - Power
@@ -562,33 +562,33 @@ ArmPump
 - Differentiation(AbsoluteStrength, RelativeStrength)
     - Relative strength refers to the ability to produce maximal force relative to your bodyweight. This differs from absolute strength which is the ability to produce maximum force irrespective of body weight.
 
-- GripStrength
-    - Definition(GripStrength)
+- ManoStrength
+    - Definition(ManoStrength)
     - Quote
         - Tenacity
     - MovementIntensity(+)
-        - PinchGrip
-        - CrimpGrip
+        - PinchMano
+        - CrimpMano
     - MovementIntensity(-)
-        - JugGrip
-        - RungGrip
+        - JugMano
+        - RungMano
     - RouteIntensity(+)
-        - RepeatedGripType
+        - RepeatedManoType
         - “This route is full of pinches”
             - TufaRoute
     - RouteIntensity(-)
         - MovementNameList
-            - PinchGrip on OverhangWall.
-            - CrimpGrip
+            - PinchMano on OverhangWall.
+            - CrimpMano
             - SmallHold
-                - ThumbPinchGrip
-                - Crimp2FingerGrip
+                - ThumbPinchMano
+                - Crimp2FingerMano
             - MonoHold
-                - Crimp1FingerGrip
+                - Crimp1FingerMano
                 - Climbing The World's Hardest Crack Boulder (Kraken 8B)
                 - CobraCrack CruxMovement.OneFingerJam
 - AbsoluteStrength
-    - PinchGripStrength
+    - PinchManoStrength
 - RelativeStrength
     - The Climber’s ability to Move their own weight.
     - MovementNameList

@@ -52,7 +52,7 @@ Look at the documentation for these sites:
 
 - Learn about the projects that they collaborate with.
 - Learn the names of the people in charge of Action
-- Find products which can be modified into [Plantor Tools](/dev/Tools)
+- Find products which can be modified into [Plantor Instruments](/dev/Instruments)
 
 ## Dictation
 

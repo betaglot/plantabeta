@@ -25,7 +25,7 @@ LaptopOnly tasks include:
 ::: danger <psike>Attencide</psike> until season start
 
 - Anything related to climbing.
-- Tools
+- Instruments
 - International
 - Naming
 - Psike

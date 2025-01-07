@@ -1,6 +1,6 @@
 # 🔻 <via>Marka</via>
 
-Tool=Markager
+Instrument=Markager
 Move=Markaging
 
 MarkaRip

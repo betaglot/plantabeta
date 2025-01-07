@@ -29,7 +29,7 @@
 <!-- =================================================== -->
 ::: details 🛠 <dev>&&&</dev>
 
-- BranchGrip to stabilize
+- BranchMano to stabilize
 
 <h2>PageTags</h2>
 

@@ -926,70 +926,70 @@
     "Move/FootMove/PlantarFlexion.md": [
         "Move.FootMove.PlantarFlexion"
     ],
-    "Move/HandMove/BagGrip.md": [
-        "Move.HandMove.BagGrip"
+    "Move/ManoMove/BagMano.md": [
+        "Move.ManoMove.BagMano"
     ],
-    "Move/HandMove/BoxGrip.md": [
-        "Move.HandMove.BoxGrip"
+    "Move/ManoMove/BoxMano.md": [
+        "Move.ManoMove.BoxMano"
     ],
-    "Move/HandMove/BranchGrip.md": [
-        "Move.HandMove.BranchGrip"
+    "Move/ManoMove/BranchMano.md": [
+        "Move.ManoMove.BranchMano"
     ],
-    "Move/HandMove/BranchSnapGrip.md": [
-        "Move.HandMove.BranchSnapGrip"
+    "Move/ManoMove/BranchSnapMano.md": [
+        "Move.ManoMove.BranchSnapMano"
     ],
-    "Move/HandMove/HandClose.md": [
-        "Move.HandMove.HandClose",
-        "Move.HandMove.HandClose.HammerClose",
-        "Move.HandMove.HandClose.PunchClose"
+    "Move/ManoMove/HandClose.md": [
+        "Move.ManoMove.HandClose",
+        "Move.ManoMove.HandClose.HammerClose",
+        "Move.ManoMove.HandClose.PunchClose"
     ],
-    "Move/HandMove/HandPoke.md": [
-        "Move.HandMove.HandPoke"
+    "Move/ManoMove/HandPoke.md": [
+        "Move.ManoMove.HandPoke"
     ],
-    "Move/HandMove/HandSkreef.md": [
-        "Move.HandMove.HandSkreef"
+    "Move/ManoMove/HandSkreef.md": [
+        "Move.ManoMove.HandSkreef"
     ],
-    "Move/HandMove/HandFrase.md": [
-        "Move.HandMove.HandBump",
-        "Move.HandMove.HandMatch"
+    "Move/ManoMove/HandFrase.md": [
+        "Move.ManoMove.HandBump",
+        "Move.ManoMove.HandMatch"
     ],
-    "Move/HandMove/TreeInsert.md": [
-        "Move.HandMove.TreeInsert"
+    "Move/ManoMove/TreeInsert.md": [
+        "Move.ManoMove.TreeInsert"
     ],
-    "Move/HandMove/Overview.md": [
-        "Move.HandMove.CupGrip",
-        "Move.HandMove.FingerMove.FingerCurl",
-        "Move.HandMove.FingerMove.FingerFlexion",
-        "Move.HandMove.FingerMove.FingerHook",
-        "Move.HandMove.FingerMove.FingerPoke",
-        "Move.HandMove.FingerMove.Overview",
-        "Move.HandMove.FingerMove.ThumbHook.Move.HandMove.FingerMove.FingerExtension",
-        "Move.HandMove.FingerOverlapPoke",
-        "Move.HandMove.FingertipPress",
-        "Move.HandMove.GentleGrip",
-        "Move.HandMove.HandRoll",
-        "Move.HandMove.HandSlide",
-        "Move.HandMove.HandSlot",
-        "Move.HandMove.HandSmear",
-        "Move.HandMove.HandSwap",
-        "Move.HandMove.Overview",
-        "Move.HandMove.PinchGrip",
-        "Move.HandMove.TrunkGrip",
-        "Move.HandMove.UnderclingGrip"
+    "Move/ManoMove/Overview.md": [
+        "Move.ManoMove.CupMano",
+        "Move.ManoMove.FingerMove.FingerCurl",
+        "Move.ManoMove.FingerMove.FingerFlexion",
+        "Move.ManoMove.FingerMove.FingerHook",
+        "Move.ManoMove.FingerMove.FingerPoke",
+        "Move.ManoMove.FingerMove.Overview",
+        "Move.ManoMove.FingerMove.ThumbHook.Move.ManoMove.FingerMove.FingerExtension",
+        "Move.ManoMove.FingerOverlapPoke",
+        "Move.ManoMove.FingertipPress",
+        "Move.ManoMove.GentleMano",
+        "Move.ManoMove.HandRoll",
+        "Move.ManoMove.HandSlide",
+        "Move.ManoMove.HandSlot",
+        "Move.ManoMove.HandSmear",
+        "Move.ManoMove.HandSwap",
+        "Move.ManoMove.Overview",
+        "Move.ManoMove.PinchMano",
+        "Move.ManoMove.TrunkMano",
+        "Move.ManoMove.UnderclingMano"
     ],
-    "Move/HandMove/SpadeHandleGrip.md": [
-        "Move.HandMove.SpadeHandleGrip"
+    "Move/ManoMove/SpadeHandleMano.md": [
+        "Move.ManoMove.SpadeHandleMano"
     ],
-    "Move/HandMove/SpadeCollarGrip.md": [
-        "Move.HandMove.SpadeCollarGrip"
+    "Move/ManoMove/SpadeCollarMano.md": [
+        "Move.ManoMove.SpadeCollarMano"
     ],
-    "Move/HandMove/TreeGrip.md": [
-        "Move.HandMove.TreeFlip",
-        "Move.HandMove.TreeGrip"
+    "Move/ManoMove/TreeMano.md": [
+        "Move.ManoMove.TreeFlip",
+        "Move.ManoMove.TreeMano"
     ],
-    "Move/HandMove/TreeTestGrip.md": [
-        "Move.HandMove.TreeInspect",
-        "Move.HandMove.TreeTestGrip"
+    "Move/ManoMove/TreeTestMano.md": [
+        "Move.ManoMove.TreeInspect",
+        "Move.ManoMove.TreeTestMano"
     ],
     "Move/HeadMove/FocusLook.md": [
         "Move.HeadMove.FocusLook"
@@ -1370,7 +1370,7 @@
         "Move.ToolMove.BootMove.BootOn",
         "Move.ToolMove.BootMove.Overview"
     ],
-    "Move/ToolMove/Box/BoxGrip.md": [],
+    "Move/ToolMove/Box/BoxMano.md": [],
     "Move/ToolMove/Box/BoxFrase.md": [
         "Move.ToolMove.BoxMove.BoxStack"
     ],
@@ -1380,8 +1380,8 @@
         "Move.ToolMove.BoxMove.BoxStack",
         "Move.ToolMove.BoxMove.Overview"
     ],
-    "Move/ToolMove/Bundle/BundleGrip.md": [
-        "Move.ToolMove.BundleMove.BundleGrip"
+    "Move/ToolMove/Bundle/BundleMano.md": [
+        "Move.ToolMove.BundleMove.BundleMano"
     ],
     "Move/ToolMove/Bundle/BundlePeel.md": [
         "Move.ToolMove.BundleMove.BundlePeel"
@@ -1397,7 +1397,7 @@
     "Move/ToolMove/Marka/MarkaErrorRecovery.md": [
         "Move.ToolMove.MarkaMove.MarkaErrorRecovery"
     ],
-    "Move/ToolMove/Marka/MarkaGrip.md": [],
+    "Move/ToolMove/Marka/MarkaMano.md": [],
     "Move/ToolMove/Marka/MarkaKnot.md": [
         "Move.ToolMove.MarkaMove.MarkaKnot"
     ],
@@ -1427,7 +1427,7 @@
         "Move.ToolMove.MarkaMove.MoveError.PlantedMarka",
         "Move.ToolMove.MarkaMove.Overview"
     ],
-    "Move/ToolMove/Tibior/TibiorGrip.md": [],
+    "Move/ToolMove/Tibior/TibiorMano.md": [],
     "Move/ToolMove/Tibior/TibiorOff.md": [
         "Move.ToolMove.TibiorMove.TibiorOff"
     ],
@@ -1437,7 +1437,7 @@
     "Move/ToolMove/Tibior/Overview.md": [
         "Move.ToolMove.TibiorMove.Overview"
     ],
-    "Move/ToolMove/Glove/GloveGrip.md": [],
+    "Move/ToolMove/Glove/GloveMano.md": [],
     "Move/ToolMove/Glove/GloveFrase.md": [],
     "Move/ToolMove/Glove/Overview.md": [
         "Move.ToolMove.GloveMove.Overview"
@@ -1456,7 +1456,7 @@
     "Move/ToolMove/Spade/SpadeChop.md": [
         "Move.ToolMove.SpadeMove.SpadeChop"
     ],
-    "Move/ToolMove/Spade/SpadeGrip.md": [],
+    "Move/ToolMove/Spade/SpadeMano.md": [],
     "Move/ToolMove/Spade/SpadePogo.md": [
         "Move.ToolMove.SpadeMove.SpadePogo"
     ],

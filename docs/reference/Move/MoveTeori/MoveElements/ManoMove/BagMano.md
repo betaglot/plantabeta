@@ -2,7 +2,7 @@
 
 ![MoveIkon](/Move/Move_Ikon.png)
 
-## 🕸 BagGrip.Skema
+## 🕸 BagMano.Skema
 
 ### Related 🟩<eko>Eko</eko>
 
@@ -35,11 +35,11 @@
     - BagAdjust
     - BagTransport
 - Avoid grabbing ShoulderStraps with dirty hands, since the soil grains will cause SkinErosion, especially if the skin is wet (sweat or rain)
-- BagRimGrip
+- BagRimMano
     - For BundleRoll during BagIn
-    - PanBeta(BJJ, PocketGrip)
-- BagWrinkleGrip
-    - PanBeta(BJJ, SleeveGrip)
+    - PanBeta(BJJ, PocketMano)
+- BagWrinkleMano
+    - PanBeta(BJJ, SleeveMano)
     - Used to Mano bag during BagIn.BundleRoll
-    - CacheMove since bags must be close to empty for Wrinkle grip
+    - CacheMove since bags must be close to empty for Wrinkle Mano
 :::

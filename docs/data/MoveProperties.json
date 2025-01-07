@@ -400,7 +400,7 @@
       },
       {
         "name": "FingerAbduction",
-        "namespace": "HandMove\\FingerAbduction",
+        "namespace": "ManoMove\\FingerAbduction",
         "rank": "1",
         "purpose": [],
         "time": [],
@@ -408,7 +408,7 @@
         "rhythm": [],
         "superMove": [
           "Pinch",
-          "Grip"
+          "Mano"
         ],
         "subMove": [
           "MuscleActivation"
@@ -3022,7 +3022,7 @@
         "subMove": [
           "LegHook",
           "ArmHook",
-          "JugGrip"
+          "JugMano"
         ],
         "anteMove": [],
         "PostMove": [],
@@ -3551,7 +3551,7 @@
         "difficultyElement" : []
       },
       {
-        "name": "Grip",
+        "name": "Mano",
         "namespace": "",
         "rank": "",
         "purpose": [],
@@ -3567,7 +3567,7 @@
         "difficultyElement" : []
       },
       {
-        "name": "JugGrip",
+        "name": "JugMano",
         "namespace": "",
         "rank": "",
         "purpose": [],
@@ -3584,7 +3584,7 @@
         "difficultyElement" : []
       },
       {
-        "name": "2FingerGrip",
+        "name": "2FingerMano",
         "namespace": "",
         "rank": "",
         "purpose": [],
@@ -3601,7 +3601,7 @@
         "difficultyElement" : []
       },
       {
-        "name": "3FingerGrip",
+        "name": "3FingerMano",
         "namespace": "",
         "rank": "",
         "purpose": [],
@@ -3618,7 +3618,7 @@
         "difficultyElement" : []
       },
       {
-        "name": "4FingerGrip",
+        "name": "4FingerMano",
         "namespace": "",
         "rank": "",
         "purpose": [],
@@ -6961,7 +6961,7 @@
         "speed": [],
         "rhythm": [],
         "superMove": [
-          "CrimpGrip",
+          "CrimpMano",
           "HandSwap"
         ],
         "subMove": [],
@@ -7070,10 +7070,10 @@
         ],
         "subMove": [],
         "anteMove": [
-          "RopeGrip"
+          "RopeMano"
         ],
         "PostMove": [
-          "RopeGrip",
+          "RopeMano",
           "CarabinerClip"
         ]
       },
@@ -8289,7 +8289,7 @@
       },
       {
         "name": "HandSwap",
-        "namespace": "ArmMove\\HandMove\\HandSwap",
+        "namespace": "ArmMove\\ManoMove\\HandSwap",
         "rank": "",
         "purpose": [],
         "time": [],
@@ -8306,7 +8306,7 @@
       },
       {
         "name": "PianoSwap",
-        "namespace": "ArmMove\\HandMove\\HandSwap\\PianoSwap",
+        "namespace": "ArmMove\\ManoMove\\HandSwap\\PianoSwap",
         "rank": "",
         "purpose": [],
         "time": [],

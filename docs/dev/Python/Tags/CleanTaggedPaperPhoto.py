@@ -95,7 +95,7 @@ tags = [
             "lastUpdated": 1692978839562,
             "tags": [
                 {
-                    "title": "Move.HandMove.SpadeHandleGrip"
+                    "title": "Move.ManoMove.SpadeHandleMano"
                 },
                 {
                     "title": "Move.MoveName.Overview"
@@ -115,7 +115,7 @@ tags = [
         "extension": "jpg",
         "tags": [
             {
-                "title": "Move.HandMove.SpadeHandleGrip"
+                "title": "Move.ManoMove.SpadeHandleMano"
             },
             {
                 "title": "Move.MoveName.Overview"
@@ -574,13 +574,13 @@ tags = [
             "lastUpdated": 1692978839564,
             "tags": [
                 {
-                    "title": "Dev.Tools"
+                    "title": "Dev.Instruments"
                 },
                 {
-                    "title": "Dev.Tools.Kit"
+                    "title": "Dev.Instruments.Kit"
                 },
                 {
-                    "title": "Dev.Tools.PlantingBag"
+                    "title": "Dev.Instruments.PlantingBag"
                 },
                 {
                     "title": "Guide.Why.Injury"
@@ -592,7 +592,7 @@ tags = [
                     "title": "Move.LegMove.Kneel"
                 },
                 {
-                    "title": "Move.ToolMove.BagMove.BaggingUp"
+                    "title": "Move.InstrumentMove.BagMove.BaggingUp"
                 },
                 {
                     "title": "PlantaBeta"
@@ -609,13 +609,13 @@ tags = [
         "extension": "jpg",
         "tags": [
             {
-                "title": "Dev.Tools"
+                "title": "Dev.Instruments"
             },
             {
-                "title": "Dev.Tools.Kit"
+                "title": "Dev.Instruments.Kit"
             },
             {
-                "title": "Dev.Tools.PlantingBag"
+                "title": "Dev.Instruments.PlantingBag"
             },
             {
                 "title": "Guide.Why.Injury"
@@ -627,7 +627,7 @@ tags = [
                 "title": "Move.LegMove.Kneel"
             },
             {
-                "title": "Move.ToolMove.BagMove.BaggingUp"
+                "title": "Move.InstrumentMove.BagMove.BaggingUp"
             },
             {
                 "title": "PlantaBeta"
@@ -647,13 +647,13 @@ tags = [
             "lastUpdated": 1692978839564,
             "tags": [
                 {
-                    "title": "Dev.Tools.Marka"
+                    "title": "Dev.Instruments.Marka"
                 },
                 {
-                    "title": "Move.ToolMove.MarkaMove.MarkaWeave"
+                    "title": "Move.InstrumentMove.MarkaMove.MarkaWeave"
                 },
                 {
-                    "title": "Move.ToolMove.MarkaMove.Overview"
+                    "title": "Move.InstrumentMove.MarkaMove.Overview"
                 },
                 {
                     "title": "PlantaBeta"
@@ -673,13 +673,13 @@ tags = [
         "extension": "jpg",
         "tags": [
             {
-                "title": "Dev.Tools.Marka"
+                "title": "Dev.Instruments.Marka"
             },
             {
-                "title": "Move.ToolMove.MarkaMove.MarkaWeave"
+                "title": "Move.InstrumentMove.MarkaMove.MarkaWeave"
             },
             {
-                "title": "Move.ToolMove.MarkaMove.Overview"
+                "title": "Move.InstrumentMove.MarkaMove.Overview"
             },
             {
                 "title": "PlantaBeta"
@@ -769,7 +769,7 @@ tags = [
             "lastUpdated": 1692978839564,
             "tags": [
                 {
-                    "title": "Dev.Tools.Marka"
+                    "title": "Dev.Instruments.Marka"
                 },
                 {
                     "title": "Guide.Why.Productivity.Efficiency"
@@ -778,7 +778,7 @@ tags = [
                     "title": "Move.HeadMove.Find.Marka"
                 },
                 {
-                    "title": "Move.ToolMove.MarkaMove.MarkaWrap"
+                    "title": "Move.InstrumentMove.MarkaMove.MarkaWrap"
                 },
                 {
                     "title": "Psike.Vision"
@@ -807,7 +807,7 @@ tags = [
         "extension": "jpg",
         "tags": [
             {
-                "title": "Dev.Tools.Marka"
+                "title": "Dev.Instruments.Marka"
             },
             {
                 "title": "Guide.Why.Productivity.Efficiency"
@@ -816,7 +816,7 @@ tags = [
                 "title": "Move.HeadMove.Find.Marka"
             },
             {
-                "title": "Move.ToolMove.MarkaMove.MarkaWrap"
+                "title": "Move.InstrumentMove.MarkaMove.MarkaWrap"
             },
             {
                 "title": "Psike.Vision"
@@ -848,7 +848,7 @@ tags = [
             "lastUpdated": 1692978839564,
             "tags": [
                 {
-                    "title": "Dev.Tools.Spade"
+                    "title": "Dev.Instruments.Spade"
                 },
                 {
                     "title": "PlantaBeta"
@@ -865,7 +865,7 @@ tags = [
         "extension": "jpg",
         "tags": [
             {
-                "title": "Dev.Tools.Spade"
+                "title": "Dev.Instruments.Spade"
             },
             {
                 "title": "PlantaBeta"
@@ -885,7 +885,7 @@ tags = [
             "lastUpdated": 1692978839564,
             "tags": [
                 {
-                    "title": "Dev.Tools.Marka"
+                    "title": "Dev.Instruments.Marka"
                 },
                 {
                     "title": "PlantaBeta"
@@ -902,7 +902,7 @@ tags = [
         "extension": "jpg",
         "tags": [
             {
-                "title": "Dev.Tools.Marka"
+                "title": "Dev.Instruments.Marka"
             },
             {
                 "title": "PlantaBeta"
@@ -1026,16 +1026,16 @@ tags = [
             "lastUpdated": 1692978839565,
             "tags": [
                 {
-                    "title": "Move.ToolMove.BoxMove.BoxOpen"
+                    "title": "Move.InstrumentMove.BoxMove.BoxOpen"
                 },
                 {
-                    "title": "Move.ToolMove.BoxMove.BoxSlide"
+                    "title": "Move.InstrumentMove.BoxMove.BoxSlide"
                 },
                 {
-                    "title": "Move.ToolMove.BoxMove.BoxStack"
+                    "title": "Move.InstrumentMove.BoxMove.BoxStack"
                 },
                 {
-                    "title": "Move.ToolMove.BoxMove.Overview"
+                    "title": "Move.InstrumentMove.BoxMove.Overview"
                 },
                 {
                     "title": "PlantaBeta"
@@ -1052,16 +1052,16 @@ tags = [
         "extension": "jpg",
         "tags": [
             {
-                "title": "Move.ToolMove.BoxMove.BoxOpen"
+                "title": "Move.InstrumentMove.BoxMove.BoxOpen"
             },
             {
-                "title": "Move.ToolMove.BoxMove.BoxSlide"
+                "title": "Move.InstrumentMove.BoxMove.BoxSlide"
             },
             {
-                "title": "Move.ToolMove.BoxMove.BoxStack"
+                "title": "Move.InstrumentMove.BoxMove.BoxStack"
             },
             {
-                "title": "Move.ToolMove.BoxMove.Overview"
+                "title": "Move.InstrumentMove.BoxMove.Overview"
             },
             {
                 "title": "PlantaBeta"
@@ -1297,7 +1297,7 @@ tags = [
             "lastUpdated": 1692978839565,
             "tags": [
                 {
-                    "title": "Dev.Tools.Cart"
+                    "title": "Dev.Instruments.Cart"
                 },
                 {
                     "title": "PlantaBeta"
@@ -1314,7 +1314,7 @@ tags = [
         "extension": "jpg",
         "tags": [
             {
-                "title": "Dev.Tools.Cart"
+                "title": "Dev.Instruments.Cart"
             },
             {
                 "title": "PlantaBeta"
@@ -2123,7 +2123,7 @@ tags = [
                     "title": "Dev.MoveDiagram.OrthographicDiagram"
                 },
                 {
-                    "title": "Move.HandMove.FingertipPress"
+                    "title": "Move.ManoMove.FingertipPress"
                 },
                 {
                     "title": "Move.MoveDiagram.OrthographicDiagram"
@@ -2152,7 +2152,7 @@ tags = [
                 "title": "Dev.MoveDiagram.OrthographicDiagram"
             },
             {
-                "title": "Move.HandMove.FingertipPress"
+                "title": "Move.ManoMove.FingertipPress"
             },
             {
                 "title": "Move.MoveDiagram.OrthographicDiagram"
@@ -2728,7 +2728,7 @@ tags = [
                     "title": "Move.BodyMove.BodyLean"
                 },
                 {
-                    "title": "Move.HandMove.TreeGrip"
+                    "title": "Move.ManoMove.TreeMano"
                 },
                 {
                     "title": "Move.MoveDiagram.Stickfigure"
@@ -2803,7 +2803,7 @@ tags = [
                 "title": "Move.BodyMove.BodyLean"
             },
             {
-                "title": "Move.HandMove.TreeGrip"
+                "title": "Move.ManoMove.TreeMano"
             },
             {
                 "title": "Move.MoveDiagram.Stickfigure"
@@ -3341,25 +3341,25 @@ tags = [
             "lastUpdated": 1692978839569,
             "tags": [
                 {
-                    "title": "Dev.Tools.Marka"
+                    "title": "Dev.Instruments.Marka"
                 },
                 {
-                    "title": "Move.HandMove.FingerMove.FingerCurl"
+                    "title": "Move.ManoMove.FingerMove.FingerCurl"
                 },
                 {
-                    "title": "Move.HandMove.FingerMove.Overview"
+                    "title": "Move.ManoMove.FingerMove.Overview"
                 },
                 {
-                    "title": "Move.HandMove.PinchGrip"
+                    "title": "Move.ManoMove.PinchMano"
                 },
                 {
-                    "title": "Move.ToolMove.MarkaMove.MarkaWeave"
+                    "title": "Move.InstrumentMove.MarkaMove.MarkaWeave"
                 },
                 {
-                    "title": "Move.ToolMove.MarkaMove.Overview"
+                    "title": "Move.InstrumentMove.MarkaMove.Overview"
                 },
                 {
-                    "title": "Move.ToolMove.GloveMove.Overview"
+                    "title": "Move.InstrumentMove.GloveMove.Overview"
                 },
                 {
                     "title": "PlantaBeta"
@@ -3382,25 +3382,25 @@ tags = [
         "extension": "jpg",
         "tags": [
             {
-                "title": "Dev.Tools.Marka"
+                "title": "Dev.Instruments.Marka"
             },
             {
-                "title": "Move.HandMove.FingerMove.FingerCurl"
+                "title": "Move.ManoMove.FingerMove.FingerCurl"
             },
             {
-                "title": "Move.HandMove.FingerMove.Overview"
+                "title": "Move.ManoMove.FingerMove.Overview"
             },
             {
-                "title": "Move.HandMove.PinchGrip"
+                "title": "Move.ManoMove.PinchMano"
             },
             {
-                "title": "Move.ToolMove.MarkaMove.MarkaWeave"
+                "title": "Move.InstrumentMove.MarkaMove.MarkaWeave"
             },
             {
-                "title": "Move.ToolMove.MarkaMove.Overview"
+                "title": "Move.InstrumentMove.MarkaMove.Overview"
             },
             {
-                "title": "Move.ToolMove.GloveMove.Overview"
+                "title": "Move.InstrumentMove.GloveMove.Overview"
             },
             {
                 "title": "PlantaBeta"
@@ -3471,7 +3471,7 @@ tags = [
                     "title": "Land.Piece.PieceTopography.ContourLine"
                 },
                 {
-                    "title": "Move.ToolMove.TruckMove.Overview"
+                    "title": "Move.InstrumentMove.TruckMove.Overview"
                 },
                 {
                     "title": "Psike.Estimation.ViaEstimation.LineDistanceEstimation",
@@ -3561,7 +3561,7 @@ tags = [
                 "title": "Land.Piece.PieceTopography.ContourLine"
             },
             {
-                "title": "Move.ToolMove.TruckMove.Overview"
+                "title": "Move.InstrumentMove.TruckMove.Overview"
             },
             {
                 "title": "Psike.Estimation.ViaEstimation.LineDistanceEstimation",
@@ -5380,7 +5380,7 @@ tags = [
                     "title": "Land.Obstacle.Overview"
                 },
                 {
-                    "title": "Move.HandMove.HandMatch"
+                    "title": "Move.ManoMove.HandMatch"
                 },
                 {
                     "title": "Move.MoveComposition.MoveSelection.ForcedMove"
@@ -5418,7 +5418,7 @@ tags = [
                 "title": "Land.Obstacle.Overview"
             },
             {
-                "title": "Move.HandMove.HandMatch"
+                "title": "Move.ManoMove.HandMatch"
             },
             {
                 "title": "Move.MoveComposition.MoveSelection.ForcedMove"
@@ -6182,7 +6182,7 @@ tags = [
                     "title": "Move.Physics.CenterOfMass"
                 },
                 {
-                    "title": "Move.ToolMove.SpadeMove.SpadeProbe"
+                    "title": "Move.InstrumentMove.SpadeMove.SpadeProbe"
                 },
                 {
                     "title": "Psike.Chunking.Fraction",
@@ -6221,7 +6221,7 @@ tags = [
                 "title": "Move.Physics.CenterOfMass"
             },
             {
-                "title": "Move.ToolMove.SpadeMove.SpadeProbe"
+                "title": "Move.InstrumentMove.SpadeMove.SpadeProbe"
             },
             {
                 "title": "Psike.Chunking.Fraction",
@@ -8279,7 +8279,7 @@ tags = [
                     "title": "Move.BodyMove.Stemming"
                 },
                 {
-                    "title": "Move.HandMove.HandMatch"
+                    "title": "Move.ManoMove.HandMatch"
                 },
                 {
                     "title": "Move.MoveDirection.RelativeDirection.ParallelTo"
@@ -8326,7 +8326,7 @@ tags = [
                 "title": "Move.BodyMove.Stemming"
             },
             {
-                "title": "Move.HandMove.HandMatch"
+                "title": "Move.ManoMove.HandMatch"
             },
             {
                 "title": "Move.MoveDirection.RelativeDirection.ParallelTo"
@@ -8658,7 +8658,7 @@ tags = [
                     "title": "Dev.System.Syntax.Punctuation.SquareBraces"
                 },
                 {
-                    "title": "Move.HandMove.HandSwap"
+                    "title": "Move.ManoMove.HandSwap"
                 },
                 {
                     "title": "Move.MoveComposition.MoveSelection.AlternativeMove"
@@ -8750,7 +8750,7 @@ tags = [
                 "title": "Dev.System.Syntax.Punctuation.SquareBraces"
             },
             {
-                "title": "Move.HandMove.HandSwap"
+                "title": "Move.ManoMove.HandSwap"
             },
             {
                 "title": "Move.MoveComposition.MoveSelection.AlternativeMove"
@@ -9106,10 +9106,10 @@ tags = [
             "lastUpdated": 1692978839575,
             "tags": [
                 {
-                    "title": "Dev.Tools.Cart"
+                    "title": "Dev.Instruments.Cart"
                 },
                 {
-                    "title": "Dev.Tools.PlantingBag"
+                    "title": "Dev.Instruments.PlantingBag"
                 },
                 {
                     "title": "PlantaBeta"
@@ -9126,10 +9126,10 @@ tags = [
         "extension": "jpg",
         "tags": [
             {
-                "title": "Dev.Tools.Cart"
+                "title": "Dev.Instruments.Cart"
             },
             {
-                "title": "Dev.Tools.PlantingBag"
+                "title": "Dev.Instruments.PlantingBag"
             },
             {
                 "title": "PlantaBeta"
@@ -9198,7 +9198,7 @@ tags = [
             "lastUpdated": 1692978839575,
             "tags": [
                 {
-                    "title": "Dev.Tools.Cart"
+                    "title": "Dev.Instruments.Cart"
                 },
                 {
                     "title": "PlantaBeta"
@@ -9215,7 +9215,7 @@ tags = [
         "extension": "jpg",
         "tags": [
             {
-                "title": "Dev.Tools.Cart"
+                "title": "Dev.Instruments.Cart"
             },
             {
                 "title": "PlantaBeta"
@@ -9235,10 +9235,10 @@ tags = [
             "lastUpdated": 1692978839575,
             "tags": [
                 {
-                    "title": "Dev.Tools.Cart"
+                    "title": "Dev.Instruments.Cart"
                 },
                 {
-                    "title": "Dev.Tools.PlantingBag"
+                    "title": "Dev.Instruments.PlantingBag"
                 },
                 {
                     "title": "Land.Block.WalkInBlock"
@@ -9258,10 +9258,10 @@ tags = [
         "extension": "jpg",
         "tags": [
             {
-                "title": "Dev.Tools.Cart"
+                "title": "Dev.Instruments.Cart"
             },
             {
-                "title": "Dev.Tools.PlantingBag"
+                "title": "Dev.Instruments.PlantingBag"
             },
             {
                 "title": "Land.Block.WalkInBlock"
@@ -9287,10 +9287,10 @@ tags = [
                     "title": "Dev.Element.ElementDiagram.ColorCode"
                 },
                 {
-                    "title": "Dev.Tools.Cart"
+                    "title": "Dev.Instruments.Cart"
                 },
                 {
-                    "title": "Dev.Tools.PlantingBag"
+                    "title": "Dev.Instruments.PlantingBag"
                 },
                 {
                     "title": "Land.Block.WalkInBlock"
@@ -9316,10 +9316,10 @@ tags = [
                 "title": "Dev.Element.ElementDiagram.ColorCode"
             },
             {
-                "title": "Dev.Tools.Cart"
+                "title": "Dev.Instruments.Cart"
             },
             {
-                "title": "Dev.Tools.PlantingBag"
+                "title": "Dev.Instruments.PlantingBag"
             },
             {
                 "title": "Land.Block.WalkInBlock"
@@ -9345,10 +9345,10 @@ tags = [
             "lastUpdated": 1692978839580,
             "tags": [
                 {
-                    "title": "Dev.Tools.Cart"
+                    "title": "Dev.Instruments.Cart"
                 },
                 {
-                    "title": "Dev.Tools.PlantingBag"
+                    "title": "Dev.Instruments.PlantingBag"
                 },
                 {
                     "title": "Guide.Who.PlantorSupervisor"
@@ -9357,7 +9357,7 @@ tags = [
                     "title": "Land.Block.WalkInBlock"
                 },
                 {
-                    "title": "Move.ToolMove.BoxMove.Overview"
+                    "title": "Move.InstrumentMove.BoxMove.Overview"
                 },
                 {
                     "title": "PlantaBeta"
@@ -9374,10 +9374,10 @@ tags = [
         "extension": "jpg",
         "tags": [
             {
-                "title": "Dev.Tools.Cart"
+                "title": "Dev.Instruments.Cart"
             },
             {
-                "title": "Dev.Tools.PlantingBag"
+                "title": "Dev.Instruments.PlantingBag"
             },
             {
                 "title": "Guide.Who.PlantorSupervisor"
@@ -9386,7 +9386,7 @@ tags = [
                 "title": "Land.Block.WalkInBlock"
             },
             {
-                "title": "Move.ToolMove.BoxMove.Overview"
+                "title": "Move.InstrumentMove.BoxMove.Overview"
             },
             {
                 "title": "PlantaBeta"
@@ -9406,7 +9406,7 @@ tags = [
             "lastUpdated": 1692978839580,
             "tags": [
                 {
-                    "title": "Dev.Tools.Skreefer"
+                    "title": "Dev.Instruments.Skreefer"
                 },
                 {
                     "title": "Move.SkreefMove.Overview"
@@ -9426,7 +9426,7 @@ tags = [
         "extension": "jpg",
         "tags": [
             {
-                "title": "Dev.Tools.Skreefer"
+                "title": "Dev.Instruments.Skreefer"
             },
             {
                 "title": "Move.SkreefMove.Overview"
@@ -9884,7 +9884,7 @@ tags = [
                     "title": "Move.MoveAttributes.MoveRangeOfMotion"
                 },
                 {
-                    "title": "Move.ToolMove.SpadeMove.SpadeKurve"
+                    "title": "Move.InstrumentMove.SpadeMove.SpadeKurve"
                 },
                 {
                     "title": "PlantaBeta"
@@ -9928,7 +9928,7 @@ tags = [
                 "title": "Move.MoveAttributes.MoveRangeOfMotion"
             },
             {
-                "title": "Move.ToolMove.SpadeMove.SpadeKurve"
+                "title": "Move.InstrumentMove.SpadeMove.SpadeKurve"
             },
             {
                 "title": "PlantaBeta"
@@ -9957,7 +9957,7 @@ tags = [
             "lastUpdated": 1692978839582,
             "tags": [
                 {
-                    "title": "Dev.Tools.Marka"
+                    "title": "Dev.Instruments.Marka"
                 },
                 {
                     "title": "PlantaBeta"
@@ -9974,7 +9974,7 @@ tags = [
         "extension": "jpg",
         "tags": [
             {
-                "title": "Dev.Tools.Marka"
+                "title": "Dev.Instruments.Marka"
             },
             {
                 "title": "PlantaBeta"
@@ -10284,10 +10284,10 @@ tags = [
             "lastUpdated": 1692978839582,
             "tags": [
                 {
-                    "title": "Dev.Tools.Spade"
+                    "title": "Dev.Instruments.Spade"
                 },
                 {
-                    "title": "Move.ToolMove.SpadeMove.SpadeSkreef"
+                    "title": "Move.InstrumentMove.SpadeMove.SpadeSkreef"
                 },
                 {
                     "title": "PlantaBeta"
@@ -10304,10 +10304,10 @@ tags = [
         "extension": "jpg",
         "tags": [
             {
-                "title": "Dev.Tools.Spade"
+                "title": "Dev.Instruments.Spade"
             },
             {
-                "title": "Move.ToolMove.SpadeMove.SpadeSkreef"
+                "title": "Move.InstrumentMove.SpadeMove.SpadeSkreef"
             },
             {
                 "title": "PlantaBeta"
@@ -11932,7 +11932,7 @@ tags = [
                     "title": "Move.PlantorDiagram"
                 },
                 {
-                    "title": "Move.ToolMove.BagMove.Overview"
+                    "title": "Move.InstrumentMove.BagMove.Overview"
                 },
                 {
                     "title": "PlantaBeta"
@@ -11970,7 +11970,7 @@ tags = [
                 "title": "Move.PlantorDiagram"
             },
             {
-                "title": "Move.ToolMove.BagMove.Overview"
+                "title": "Move.InstrumentMove.BagMove.Overview"
             },
             {
                 "title": "PlantaBeta"
@@ -12810,7 +12810,7 @@ tags = [
                     "title": "Land.Obstacle.MicrositeObstacle.BlockerHold"
                 },
                 {
-                    "title": "Move.HandMove.HandSlot"
+                    "title": "Move.ManoMove.HandSlot"
                 },
                 {
                     "title": "Move.MoveAttributes.MoveType.SlotMove"
@@ -12851,7 +12851,7 @@ tags = [
                 "title": "Land.Obstacle.MicrositeObstacle.BlockerHold"
             },
             {
-                "title": "Move.HandMove.HandSlot"
+                "title": "Move.ManoMove.HandSlot"
             },
             {
                 "title": "Move.MoveAttributes.MoveType.SlotMove"
@@ -14127,10 +14127,10 @@ tags = [
                     "title": "Move.ArmMove.ArmReach"
                 },
                 {
-                    "title": "Move.HandMove.HandMatch"
+                    "title": "Move.ManoMove.HandMatch"
                 },
                 {
-                    "title": "Move.HandMove.HandSwap"
+                    "title": "Move.ManoMove.HandSwap"
                 },
                 {
                     "title": "Move.MoveFrase"
@@ -14186,10 +14186,10 @@ tags = [
                 "title": "Move.ArmMove.ArmReach"
             },
             {
-                "title": "Move.HandMove.HandMatch"
+                "title": "Move.ManoMove.HandMatch"
             },
             {
-                "title": "Move.HandMove.HandSwap"
+                "title": "Move.ManoMove.HandSwap"
             },
             {
                 "title": "Move.MoveFrase"
@@ -14457,10 +14457,10 @@ tags = [
                     "title": "Move.ArmMove.ArmRockOver"
                 },
                 {
-                    "title": "Move.HandMove.HandSmear"
+                    "title": "Move.ManoMove.HandSmear"
                 },
                 {
-                    "title": "Move.HandMove.UnderclingGrip"
+                    "title": "Move.ManoMove.UnderclingMano"
                 },
                 {
                     "title": "Move.LegMove.HighFoot"
@@ -14525,10 +14525,10 @@ tags = [
                 "title": "Move.ArmMove.ArmRockOver"
             },
             {
-                "title": "Move.HandMove.HandSmear"
+                "title": "Move.ManoMove.HandSmear"
             },
             {
-                "title": "Move.HandMove.UnderclingGrip"
+                "title": "Move.ManoMove.UnderclingMano"
             },
             {
                 "title": "Move.LegMove.HighFoot"
@@ -15468,7 +15468,7 @@ tags = [
                     "title": "Dev.System.Syntax"
                 },
                 {
-                    "title": "Move.HandMove.HandBump"
+                    "title": "Move.ManoMove.HandBump"
                 },
                 {
                     "title": "Move.MoveDifficulty.MoveRisk"
@@ -15509,7 +15509,7 @@ tags = [
                 "title": "Dev.System.Syntax"
             },
             {
-                "title": "Move.HandMove.HandBump"
+                "title": "Move.ManoMove.HandBump"
             },
             {
                 "title": "Move.MoveDifficulty.MoveRisk"
@@ -16122,7 +16122,7 @@ tags = [
                     "title": "Dev.Tagging.TagChip.TagChipHighlight"
                 },
                 {
-                    "title": "Move.HandMove.HandMatch"
+                    "title": "Move.ManoMove.HandMatch"
                 },
                 {
                     "title": "Move.MoveLine"
@@ -16157,7 +16157,7 @@ tags = [
                 "title": "Dev.Tagging.TagChip.TagChipHighlight"
             },
             {
-                "title": "Move.HandMove.HandMatch"
+                "title": "Move.ManoMove.HandMatch"
             },
             {
                 "title": "Move.MoveLine"
@@ -16392,7 +16392,7 @@ tags = [
                     "title": "Dev.UX.Event.OnHover"
                 },
                 {
-                    "title": "Move.ToolMove.Overview"
+                    "title": "Move.InstrumentMove.Overview"
                 },
                 {
                     "title": "PlantaBeta"
@@ -16430,7 +16430,7 @@ tags = [
                 "title": "Dev.UX.Event.OnHover"
             },
             {
-                "title": "Move.ToolMove.Overview"
+                "title": "Move.InstrumentMove.Overview"
             },
             {
                 "title": "PlantaBeta"
@@ -17610,7 +17610,7 @@ tags = [
                     "title": "Move.FootMove.FootSwap"
                 },
                 {
-                    "title": "Move.HandMove.HandSmear"
+                    "title": "Move.ManoMove.HandSmear"
                 },
                 {
                     "title": "Move.MoveAttributes.MoveType.CompressionMove"
@@ -17671,7 +17671,7 @@ tags = [
                 "title": "Move.FootMove.FootSwap"
             },
             {
-                "title": "Move.HandMove.HandSmear"
+                "title": "Move.ManoMove.HandSmear"
             },
             {
                 "title": "Move.MoveAttributes.MoveType.CompressionMove"
@@ -17712,7 +17712,7 @@ tags = [
                     "title": "Move.BodyMove.Walk"
                 },
                 {
-                    "title": "Move.HandMove.UnderclingGrip"
+                    "title": "Move.ManoMove.UnderclingMano"
                 },
                 {
                     "title": "Move.MoveDiagram.MoveTimeline"
@@ -17754,7 +17754,7 @@ tags = [
                 "title": "Move.BodyMove.Walk"
             },
             {
-                "title": "Move.HandMove.UnderclingGrip"
+                "title": "Move.ManoMove.UnderclingMano"
             },
             {
                 "title": "Move.MoveDiagram.MoveTimeline"
@@ -17948,7 +17948,7 @@ tags = [
                     "title": "Move.BodyMove.BodyAbsorb"
                 },
                 {
-                    "title": "Move.HandMove.HandSwap"
+                    "title": "Move.ManoMove.HandSwap"
                 },
                 {
                     "title": "Move.MoveAttributes.MoveDuration"
@@ -17986,7 +17986,7 @@ tags = [
                 "title": "Move.BodyMove.BodyAbsorb"
             },
             {
-                "title": "Move.HandMove.HandSwap"
+                "title": "Move.ManoMove.HandSwap"
             },
             {
                 "title": "Move.MoveAttributes.MoveDuration"
@@ -18640,25 +18640,25 @@ tags = [
                     "title": "Dev.Interdisciplinary.Climbing"
                 },
                 {
-                    "title": "Move.HandMove.CupGrip"
+                    "title": "Move.ManoMove.CupMano"
                 },
                 {
-                    "title": "Move.HandMove.FingerMove.FingerHook"
+                    "title": "Move.ManoMove.FingerMove.FingerHook"
                 },
                 {
-                    "title": "Move.HandMove.FingerMove.Overview"
+                    "title": "Move.ManoMove.FingerMove.Overview"
                 },
                 {
-                    "title": "Move.HandMove.FingerOverlapPoke"
+                    "title": "Move.ManoMove.FingerOverlapPoke"
                 },
                 {
-                    "title": "Move.HandMove.HandSlide"
+                    "title": "Move.ManoMove.HandSlide"
                 },
                 {
-                    "title": "Move.HandMove.HandSmear"
+                    "title": "Move.ManoMove.HandSmear"
                 },
                 {
-                    "title": "Move.HandMove.PinchGrip"
+                    "title": "Move.ManoMove.PinchMano"
                 },
                 {
                     "title": "PlantaBeta"
@@ -18684,25 +18684,25 @@ tags = [
                 "title": "Dev.Interdisciplinary.Climbing"
             },
             {
-                "title": "Move.HandMove.CupGrip"
+                "title": "Move.ManoMove.CupMano"
             },
             {
-                "title": "Move.HandMove.FingerMove.FingerHook"
+                "title": "Move.ManoMove.FingerMove.FingerHook"
             },
             {
-                "title": "Move.HandMove.FingerMove.Overview"
+                "title": "Move.ManoMove.FingerMove.Overview"
             },
             {
-                "title": "Move.HandMove.FingerOverlapPoke"
+                "title": "Move.ManoMove.FingerOverlapPoke"
             },
             {
-                "title": "Move.HandMove.HandSlide"
+                "title": "Move.ManoMove.HandSlide"
             },
             {
-                "title": "Move.HandMove.HandSmear"
+                "title": "Move.ManoMove.HandSmear"
             },
             {
-                "title": "Move.HandMove.PinchGrip"
+                "title": "Move.ManoMove.PinchMano"
             },
             {
                 "title": "PlantaBeta"
@@ -19805,7 +19805,7 @@ tags = [
                     "title": "Land.LandSpace.Overview"
                 },
                 {
-                    "title": "Move.HandMove.TreeFlip"
+                    "title": "Move.ManoMove.TreeFlip"
                 },
                 {
                     "title": "Move.MoveDifficulty.MoveComplexity"
@@ -19927,7 +19927,7 @@ tags = [
                 "title": "Land.LandSpace.Overview"
             },
             {
-                "title": "Move.HandMove.TreeFlip"
+                "title": "Move.ManoMove.TreeFlip"
             },
             {
                 "title": "Move.MoveDifficulty.MoveComplexity"
@@ -21068,7 +21068,7 @@ tags = [
                     "title": "Dev.Transcription"
                 },
                 {
-                    "title": "Move.HandMove.Overview"
+                    "title": "Move.ManoMove.Overview"
                 },
                 {
                     "title": "Move.MoveCard"
@@ -21100,7 +21100,7 @@ tags = [
                 "title": "Dev.Transcription"
             },
             {
-                "title": "Move.HandMove.Overview"
+                "title": "Move.ManoMove.Overview"
             },
             {
                 "title": "Move.MoveCard"
@@ -21132,7 +21132,7 @@ tags = [
                     "title": "Guide.What.WhatElement.ElementName.Affix"
                 },
                 {
-                    "title": "Move.HandMove.PinchGrip"
+                    "title": "Move.ManoMove.PinchMano"
                 },
                 {
                     "title": "Move.MoveCard"
@@ -21167,7 +21167,7 @@ tags = [
                 "title": "Guide.What.WhatElement.ElementName.Affix"
             },
             {
-                "title": "Move.HandMove.PinchGrip"
+                "title": "Move.ManoMove.PinchMano"
             },
             {
                 "title": "Move.MoveCard"
@@ -21272,7 +21272,7 @@ tags = [
                     "title": "Dev.PageLayout"
                 },
                 {
-                    "title": "Move.HandMove.Overview"
+                    "title": "Move.ManoMove.Overview"
                 },
                 {
                     "title": "Move.MoveCard"
@@ -21304,7 +21304,7 @@ tags = [
                 "title": "Dev.PageLayout"
             },
             {
-                "title": "Move.HandMove.Overview"
+                "title": "Move.ManoMove.Overview"
             },
             {
                 "title": "Move.MoveCard"
@@ -21547,7 +21547,7 @@ tags = [
                     "title": "Dev.LevelOfDetail"
                 },
                 {
-                    "title": "Move.HandMove.Overview"
+                    "title": "Move.ManoMove.Overview"
                 },
                 {
                     "title": "Move.MoveDiagram.Overview"
@@ -21570,7 +21570,7 @@ tags = [
                 "title": "Dev.LevelOfDetail"
             },
             {
-                "title": "Move.HandMove.Overview"
+                "title": "Move.ManoMove.Overview"
             },
             {
                 "title": "Move.MoveDiagram.Overview"
@@ -24182,7 +24182,7 @@ tags = [
                     "title": "Move.LegMove.LegProp"
                 },
                 {
-                    "title": "Move.ToolMove.SpadeMove.SpadeProp"
+                    "title": "Move.InstrumentMove.SpadeMove.SpadeProp"
                 },
                 {
                     "title": "Psike.CognitiveEase.Clarity",
@@ -24221,7 +24221,7 @@ tags = [
                 "title": "Move.LegMove.LegProp"
             },
             {
-                "title": "Move.ToolMove.SpadeMove.SpadeProp"
+                "title": "Move.InstrumentMove.SpadeMove.SpadeProp"
             },
             {
                 "title": "Psike.CognitiveEase.Clarity",
@@ -24550,7 +24550,7 @@ tags = [
                     "title": "Dev.Infographic.TreeView"
                 },
                 {
-                    "title": "Move.ToolMove.MarkaMove.Overview"
+                    "title": "Move.InstrumentMove.MarkaMove.Overview"
                 },
                 {
                     "title": "PlantaBeta"
@@ -24573,7 +24573,7 @@ tags = [
                 "title": "Dev.Infographic.TreeView"
             },
             {
-                "title": "Move.ToolMove.MarkaMove.Overview"
+                "title": "Move.InstrumentMove.MarkaMove.Overview"
             },
             {
                 "title": "PlantaBeta"
@@ -24697,7 +24697,7 @@ tags = [
                     "title": "Dev.Infographic.TreeView"
                 },
                 {
-                    "title": "Move.ToolMove.SpadeMove.Overview"
+                    "title": "Move.InstrumentMove.SpadeMove.Overview"
                 },
                 {
                     "title": "PlantaBeta"
@@ -24720,7 +24720,7 @@ tags = [
                 "title": "Dev.Infographic.TreeView"
             },
             {
-                "title": "Move.ToolMove.SpadeMove.Overview"
+                "title": "Move.InstrumentMove.SpadeMove.Overview"
             },
             {
                 "title": "PlantaBeta"
@@ -24844,7 +24844,7 @@ tags = [
                     "title": "Dev.Infographic.TreeView"
                 },
                 {
-                    "title": "Move.ToolMove.BagMove.Overview"
+                    "title": "Move.InstrumentMove.BagMove.Overview"
                 },
                 {
                     "title": "PlantaBeta"
@@ -24867,7 +24867,7 @@ tags = [
                 "title": "Dev.Infographic.TreeView"
             },
             {
-                "title": "Move.ToolMove.BagMove.Overview"
+                "title": "Move.InstrumentMove.BagMove.Overview"
             },
             {
                 "title": "PlantaBeta"
@@ -24893,7 +24893,7 @@ tags = [
                     "title": "Dev.Infographic.TreeView"
                 },
                 {
-                    "title": "Move.HandMove.Overview"
+                    "title": "Move.ManoMove.Overview"
                 },
                 {
                     "title": "PlantaBeta"
@@ -24916,7 +24916,7 @@ tags = [
                 "title": "Dev.Infographic.TreeView"
             },
             {
-                "title": "Move.HandMove.Overview"
+                "title": "Move.ManoMove.Overview"
             },
             {
                 "title": "PlantaBeta"
@@ -24942,7 +24942,7 @@ tags = [
                     "title": "Dev.Infographic.TreeView"
                 },
                 {
-                    "title": "Move.ToolMove.BoxMove.Overview"
+                    "title": "Move.InstrumentMove.BoxMove.Overview"
                 },
                 {
                     "title": "PlantaBeta"
@@ -24965,7 +24965,7 @@ tags = [
                 "title": "Dev.Infographic.TreeView"
             },
             {
-                "title": "Move.ToolMove.BoxMove.Overview"
+                "title": "Move.InstrumentMove.BoxMove.Overview"
             },
             {
                 "title": "PlantaBeta"
@@ -25414,7 +25414,7 @@ tags = [
                     "title": "Dev.Infographic"
                 },
                 {
-                    "title": "Move.HandMove.Overview"
+                    "title": "Move.ManoMove.Overview"
                 },
                 {
                     "title": "PlantaBeta"
@@ -25434,7 +25434,7 @@ tags = [
                 "title": "Dev.Infographic"
             },
             {
-                "title": "Move.HandMove.Overview"
+                "title": "Move.ManoMove.Overview"
             },
             {
                 "title": "PlantaBeta"
@@ -25640,7 +25640,7 @@ tags = [
                     "title": "Move.ArmMove.Overview"
                 },
                 {
-                    "title": "Move.HandMove.Overview"
+                    "title": "Move.ManoMove.Overview"
                 },
                 {
                     "title": "Move.MoveDiagram.Overview"
@@ -25687,7 +25687,7 @@ tags = [
                 "title": "Move.ArmMove.Overview"
             },
             {
-                "title": "Move.HandMove.Overview"
+                "title": "Move.ManoMove.Overview"
             },
             {
                 "title": "Move.MoveDiagram.Overview"
@@ -26370,10 +26370,10 @@ tags = [
             "lastUpdated": 1692978839605,
             "tags": [
                 {
-                    "title": "Dev.Tools.Kit"
+                    "title": "Dev.Instruments.Kit"
                 },
                 {
-                    "title": "Dev.Tools.PlantingBag"
+                    "title": "Dev.Instruments.PlantingBag"
                 },
                 {
                     "title": "Guide.Why.Injury"
@@ -26385,10 +26385,10 @@ tags = [
                     "title": "Move.MoveFrase.BaggingUpFrase"
                 },
                 {
-                    "title": "Move.ToolMove.BagMove.BaggingUp"
+                    "title": "Move.InstrumentMove.BagMove.BaggingUp"
                 },
                 {
-                    "title": "Move.ToolMove.SpadeMove.SpadeProp"
+                    "title": "Move.InstrumentMove.SpadeMove.SpadeProp"
                 },
                 {
                     "title": "Psike.Counting",
@@ -26409,10 +26409,10 @@ tags = [
         "extension": "jpg",
         "tags": [
             {
-                "title": "Dev.Tools.Kit"
+                "title": "Dev.Instruments.Kit"
             },
             {
-                "title": "Dev.Tools.PlantingBag"
+                "title": "Dev.Instruments.PlantingBag"
             },
             {
                 "title": "Guide.Why.Injury"
@@ -26424,10 +26424,10 @@ tags = [
                 "title": "Move.MoveFrase.BaggingUpFrase"
             },
             {
-                "title": "Move.ToolMove.BagMove.BaggingUp"
+                "title": "Move.InstrumentMove.BagMove.BaggingUp"
             },
             {
-                "title": "Move.ToolMove.SpadeMove.SpadeProp"
+                "title": "Move.InstrumentMove.SpadeMove.SpadeProp"
             },
             {
                 "title": "Psike.Counting",
@@ -26536,13 +26536,13 @@ tags = [
             "lastUpdated": 1692978839605,
             "tags": [
                 {
-                    "title": "Dev.Tools.Marka"
+                    "title": "Dev.Instruments.Marka"
                 },
                 {
-                    "title": "Move.HandMove.Overview"
+                    "title": "Move.ManoMove.Overview"
                 },
                 {
-                    "title": "Move.ToolMove.MarkaMove.Overview"
+                    "title": "Move.InstrumentMove.MarkaMove.Overview"
                 },
                 {
                     "title": "PlantaBeta"
@@ -26568,13 +26568,13 @@ tags = [
         "extension": "jpg",
         "tags": [
             {
-                "title": "Dev.Tools.Marka"
+                "title": "Dev.Instruments.Marka"
             },
             {
-                "title": "Move.HandMove.Overview"
+                "title": "Move.ManoMove.Overview"
             },
             {
-                "title": "Move.ToolMove.MarkaMove.Overview"
+                "title": "Move.InstrumentMove.MarkaMove.Overview"
             },
             {
                 "title": "PlantaBeta"
@@ -26606,7 +26606,7 @@ tags = [
                     "title": "Dev.Infographic.TreeView"
                 },
                 {
-                    "title": "Move.ToolMove.BundleMove.Overview"
+                    "title": "Move.InstrumentMove.BundleMove.Overview"
                 },
                 {
                     "title": "PlantaBeta"
@@ -26629,7 +26629,7 @@ tags = [
                 "title": "Dev.Infographic.TreeView"
             },
             {
-                "title": "Move.ToolMove.BundleMove.Overview"
+                "title": "Move.InstrumentMove.BundleMove.Overview"
             },
             {
                 "title": "PlantaBeta"
@@ -26652,10 +26652,10 @@ tags = [
             "lastUpdated": 1692978839605,
             "tags": [
                 {
-                    "title": "Dev.Tools.Kit"
+                    "title": "Dev.Instruments.Kit"
                 },
                 {
-                    "title": "Dev.Tools.PlantingBag"
+                    "title": "Dev.Instruments.PlantingBag"
                 },
                 {
                     "title": "Move.ClothingMove.HatMove"
@@ -26664,13 +26664,13 @@ tags = [
                     "title": "Move.ClothingMove.Overview"
                 },
                 {
-                    "title": "Move.ToolMove.BagMove.BagAdjustment"
+                    "title": "Move.InstrumentMove.BagMove.BagAdjustment"
                 },
                 {
-                    "title": "Move.ToolMove.BagMove.Overview"
+                    "title": "Move.InstrumentMove.BagMove.Overview"
                 },
                 {
-                    "title": "Move.ToolMove.Overview"
+                    "title": "Move.InstrumentMove.Overview"
                 },
                 {
                     "title": "PlantaBeta"
@@ -26687,10 +26687,10 @@ tags = [
         "extension": "jpg",
         "tags": [
             {
-                "title": "Dev.Tools.Kit"
+                "title": "Dev.Instruments.Kit"
             },
             {
-                "title": "Dev.Tools.PlantingBag"
+                "title": "Dev.Instruments.PlantingBag"
             },
             {
                 "title": "Move.ClothingMove.HatMove"
@@ -26699,13 +26699,13 @@ tags = [
                 "title": "Move.ClothingMove.Overview"
             },
             {
-                "title": "Move.ToolMove.BagMove.BagAdjustment"
+                "title": "Move.InstrumentMove.BagMove.BagAdjustment"
             },
             {
-                "title": "Move.ToolMove.BagMove.Overview"
+                "title": "Move.InstrumentMove.BagMove.Overview"
             },
             {
-                "title": "Move.ToolMove.Overview"
+                "title": "Move.InstrumentMove.Overview"
             },
             {
                 "title": "PlantaBeta"
@@ -28020,7 +28020,7 @@ tags = [
                     "title": "Dev.Interdisciplinary.Chemistry"
                 },
                 {
-                    "title": "Move.ToolMove.MarkaMove.MarkaErrorRecovery"
+                    "title": "Move.InstrumentMove.MarkaMove.MarkaErrorRecovery"
                 },
                 {
                     "title": "PlantaBeta"
@@ -28064,7 +28064,7 @@ tags = [
                 "title": "Dev.Interdisciplinary.Chemistry"
             },
             {
-                "title": "Move.ToolMove.MarkaMove.MarkaErrorRecovery"
+                "title": "Move.InstrumentMove.MarkaMove.MarkaErrorRecovery"
             },
             {
                 "title": "PlantaBeta"
@@ -28178,13 +28178,13 @@ tags = [
                     "title": "Move.FootMove.Overview"
                 },
                 {
-                    "title": "Move.HandMove.TreeTestGrip"
+                    "title": "Move.ManoMove.TreeTestMano"
                 },
                 {
                     "title": "Move.HoleMove.CloseHole"
                 },
                 {
-                    "title": "Move.ToolMove.SpadeMove.SpadeProbe"
+                    "title": "Move.InstrumentMove.SpadeMove.SpadeProbe"
                 },
                 {
                     "title": "PlantaBeta"
@@ -28216,13 +28216,13 @@ tags = [
                 "title": "Move.FootMove.Overview"
             },
             {
-                "title": "Move.HandMove.TreeTestGrip"
+                "title": "Move.ManoMove.TreeTestMano"
             },
             {
                 "title": "Move.HoleMove.CloseHole"
             },
             {
-                "title": "Move.ToolMove.SpadeMove.SpadeProbe"
+                "title": "Move.InstrumentMove.SpadeMove.SpadeProbe"
             },
             {
                 "title": "PlantaBeta"
@@ -28431,7 +28431,7 @@ tags = [
                     "title": "Move.MoveFrase.PlantingFrase"
                 },
                 {
-                    "title": "Move.ToolMove.BagMove.Overview"
+                    "title": "Move.InstrumentMove.BagMove.Overview"
                 },
                 {
                     "title": "Psike.Energy",
@@ -28481,7 +28481,7 @@ tags = [
                 "title": "Move.MoveFrase.PlantingFrase"
             },
             {
-                "title": "Move.ToolMove.BagMove.Overview"
+                "title": "Move.InstrumentMove.BagMove.Overview"
             },
             {
                 "title": "Psike.Energy",
@@ -28519,7 +28519,7 @@ tags = [
             "lastUpdated": 1692978839608,
             "tags": [
                 {
-                    "title": "Dev.Tools.Marka"
+                    "title": "Dev.Instruments.Marka"
                 },
                 {
                     "title": "Guide.Why.Innovation.MinimizeMarka"
@@ -28534,7 +28534,7 @@ tags = [
                     "title": "Move.MoveError.Slip.Overview"
                 },
                 {
-                    "title": "Move.ToolMove.MarkaMove.Overview"
+                    "title": "Move.InstrumentMove.MarkaMove.Overview"
                 },
                 {
                     "title": "PlantaBeta"
@@ -28578,7 +28578,7 @@ tags = [
         "extension": "jpg",
         "tags": [
             {
-                "title": "Dev.Tools.Marka"
+                "title": "Dev.Instruments.Marka"
             },
             {
                 "title": "Guide.Why.Innovation.MinimizeMarka"
@@ -28593,7 +28593,7 @@ tags = [
                 "title": "Move.MoveError.Slip.Overview"
             },
             {
-                "title": "Move.ToolMove.MarkaMove.Overview"
+                "title": "Move.InstrumentMove.MarkaMove.Overview"
             },
             {
                 "title": "PlantaBeta"
@@ -28977,13 +28977,13 @@ tags = [
                     "title": "Guide.Why.Productivity.Efficiency.Redundancy"
                 },
                 {
-                    "title": "Move.HandMove.HandSkreef"
+                    "title": "Move.ManoMove.HandSkreef"
                 },
                 {
-                    "title": "Move.HandMove.TreeFlip"
+                    "title": "Move.ManoMove.TreeFlip"
                 },
                 {
-                    "title": "Move.HandMove.TreeGrip"
+                    "title": "Move.ManoMove.TreeMano"
                 },
                 {
                     "title": "Move.HoleMove.CloseHole"
@@ -29050,13 +29050,13 @@ tags = [
                 "title": "Guide.Why.Productivity.Efficiency.Redundancy"
             },
             {
-                "title": "Move.HandMove.HandSkreef"
+                "title": "Move.ManoMove.HandSkreef"
             },
             {
-                "title": "Move.HandMove.TreeFlip"
+                "title": "Move.ManoMove.TreeFlip"
             },
             {
-                "title": "Move.HandMove.TreeGrip"
+                "title": "Move.ManoMove.TreeMano"
             },
             {
                 "title": "Move.HoleMove.CloseHole"
@@ -29126,7 +29126,7 @@ tags = [
                     "title": "Move.FootMove.FootSeal"
                 },
                 {
-                    "title": "Move.HandMove.TreeInsert"
+                    "title": "Move.ManoMove.TreeInsert"
                 },
                 {
                     "title": "Move.HoleMove.Overview"
@@ -29141,10 +29141,10 @@ tags = [
                     "title": "Move.PlantMove.Overview"
                 },
                 {
-                    "title": "Move.ToolMove.MarkaMove.MarkaRip"
+                    "title": "Move.InstrumentMove.MarkaMove.MarkaRip"
                 },
                 {
-                    "title": "Move.ToolMove.SpadeMove.Overview"
+                    "title": "Move.InstrumentMove.SpadeMove.Overview"
                 },
                 {
                     "title": "PlantaBeta"
@@ -29167,7 +29167,7 @@ tags = [
                 "title": "Move.FootMove.FootSeal"
             },
             {
-                "title": "Move.HandMove.TreeInsert"
+                "title": "Move.ManoMove.TreeInsert"
             },
             {
                 "title": "Move.HoleMove.Overview"
@@ -29182,10 +29182,10 @@ tags = [
                 "title": "Move.PlantMove.Overview"
             },
             {
-                "title": "Move.ToolMove.MarkaMove.MarkaRip"
+                "title": "Move.InstrumentMove.MarkaMove.MarkaRip"
             },
             {
-                "title": "Move.ToolMove.SpadeMove.Overview"
+                "title": "Move.InstrumentMove.SpadeMove.Overview"
             },
             {
                 "title": "PlantaBeta"
@@ -29539,7 +29539,7 @@ tags = [
                     "title": "Land.Prep.TrenchPrep"
                 },
                 {
-                    "title": "Move.ToolMove.MarkaMove.Overview"
+                    "title": "Move.InstrumentMove.MarkaMove.Overview"
                 },
                 {
                     "title": "Psike.Alignment",
@@ -29597,7 +29597,7 @@ tags = [
                 "title": "Land.Prep.TrenchPrep"
             },
             {
-                "title": "Move.ToolMove.MarkaMove.Overview"
+                "title": "Move.InstrumentMove.MarkaMove.Overview"
             },
             {
                 "title": "Psike.Alignment",
@@ -29640,7 +29640,7 @@ tags = [
                     "title": "Dev.Infographic"
                 },
                 {
-                    "title": "Move.HandMove.TreeGrip"
+                    "title": "Move.ManoMove.TreeMano"
                 },
                 {
                     "title": "Move.Overview.MoveHierarchy.Submoto"
@@ -29686,7 +29686,7 @@ tags = [
                 "title": "Dev.Infographic"
             },
             {
-                "title": "Move.HandMove.TreeGrip"
+                "title": "Move.ManoMove.TreeMano"
             },
             {
                 "title": "Move.Overview.MoveHierarchy.Submoto"
@@ -30082,7 +30082,7 @@ tags = [
             "lastUpdated": 1692978839609,
             "tags": [
                 {
-                    "title": "Dev.Tools.Marka"
+                    "title": "Dev.Instruments.Marka"
                 },
                 {
                     "title": "PlantaBeta"
@@ -30099,7 +30099,7 @@ tags = [
         "extension": "jpg",
         "tags": [
             {
-                "title": "Dev.Tools.Marka"
+                "title": "Dev.Instruments.Marka"
             },
             {
                 "title": "PlantaBeta"
@@ -30289,7 +30289,7 @@ tags = [
                     "title": "Dev.System.Object"
                 },
                 {
-                    "title": "Move.ToolMove.MarkaMove.Overview"
+                    "title": "Move.InstrumentMove.MarkaMove.Overview"
                 },
                 {
                     "title": "Psike.Event",
@@ -30322,7 +30322,7 @@ tags = [
                 "title": "Dev.System.Object"
             },
             {
-                "title": "Move.ToolMove.MarkaMove.Overview"
+                "title": "Move.InstrumentMove.MarkaMove.Overview"
             },
             {
                 "title": "Psike.Event",
@@ -31086,7 +31086,7 @@ tags = [
             "lastUpdated": 1692978839611,
             "tags": [
                 {
-                    "title": "Move.ToolMove.MarkaMove.Overview"
+                    "title": "Move.InstrumentMove.MarkaMove.Overview"
                 },
                 {
                     "title": "PlantaBeta"
@@ -31112,7 +31112,7 @@ tags = [
         "extension": "jpg",
         "tags": [
             {
-                "title": "Move.ToolMove.MarkaMove.Overview"
+                "title": "Move.InstrumentMove.MarkaMove.Overview"
             },
             {
                 "title": "PlantaBeta"
@@ -31220,7 +31220,7 @@ tags = [
                     "title": "Move.MoveLine"
                 },
                 {
-                    "title": "Move.ToolMove.MarkaMove.Overview"
+                    "title": "Move.InstrumentMove.MarkaMove.Overview"
                 },
                 {
                     "title": "Psike.Event",
@@ -31268,7 +31268,7 @@ tags = [
                 "title": "Move.MoveLine"
             },
             {
-                "title": "Move.ToolMove.MarkaMove.Overview"
+                "title": "Move.InstrumentMove.MarkaMove.Overview"
             },
             {
                 "title": "Psike.Event",
@@ -31319,7 +31319,7 @@ tags = [
                     "title": "Land.Obstacle.LogObstacle"
                 },
                 {
-                    "title": "Move.ToolMove.MarkaMove.Overview"
+                    "title": "Move.InstrumentMove.MarkaMove.Overview"
                 },
                 {
                     "title": "PlantaBeta"
@@ -31369,7 +31369,7 @@ tags = [
                 "title": "Land.Obstacle.LogObstacle"
             },
             {
-                "title": "Move.ToolMove.MarkaMove.Overview"
+                "title": "Move.InstrumentMove.MarkaMove.Overview"
             },
             {
                 "title": "PlantaBeta"
@@ -31416,7 +31416,7 @@ tags = [
                     "title": "Dev.Element.ElementDiagram.Symbols"
                 },
                 {
-                    "title": "Move.ToolMove.MarkaMove.Overview"
+                    "title": "Move.InstrumentMove.MarkaMove.Overview"
                 },
                 {
                     "title": "PlantaBeta"
@@ -31439,7 +31439,7 @@ tags = [
                 "title": "Dev.Element.ElementDiagram.Symbols"
             },
             {
-                "title": "Move.ToolMove.MarkaMove.Overview"
+                "title": "Move.InstrumentMove.MarkaMove.Overview"
             },
             {
                 "title": "PlantaBeta"
@@ -31459,7 +31459,7 @@ tags = [
             "lastUpdated": 1692978839612,
             "tags": [
                 {
-                    "title": "Move.ToolMove.BagMove.Overview"
+                    "title": "Move.InstrumentMove.BagMove.Overview"
                 },
                 {
                     "title": "Psike.Chunking.Fraction",
@@ -31491,7 +31491,7 @@ tags = [
         "extension": "jpg",
         "tags": [
             {
-                "title": "Move.ToolMove.BagMove.Overview"
+                "title": "Move.InstrumentMove.BagMove.Overview"
             },
             {
                 "title": "Psike.Chunking.Fraction",
@@ -31826,10 +31826,10 @@ tags = [
                     "title": "Dev.Poster"
                 },
                 {
-                    "title": "Dev.Tools.PlantingBag"
+                    "title": "Dev.Instruments.PlantingBag"
                 },
                 {
-                    "title": "Move.HandMove.SpadeHandleGrip"
+                    "title": "Move.ManoMove.SpadeHandleMano"
                 },
                 {
                     "title": "PlantaBeta"
@@ -31858,10 +31858,10 @@ tags = [
                 "title": "Dev.Poster"
             },
             {
-                "title": "Dev.Tools.PlantingBag"
+                "title": "Dev.Instruments.PlantingBag"
             },
             {
-                "title": "Move.HandMove.SpadeHandleGrip"
+                "title": "Move.ManoMove.SpadeHandleMano"
             },
             {
                 "title": "PlantaBeta"
@@ -31973,13 +31973,13 @@ tags = [
             "lastUpdated": 1692978839612,
             "tags": [
                 {
-                    "title": "Dev.Tools.Marka"
+                    "title": "Dev.Instruments.Marka"
                 },
                 {
-                    "title": "Move.ToolMove.MarkaMove.MarkaWeave"
+                    "title": "Move.InstrumentMove.MarkaMove.MarkaWeave"
                 },
                 {
-                    "title": "Move.ToolMove.MarkaMove.MarkaWrap"
+                    "title": "Move.InstrumentMove.MarkaMove.MarkaWrap"
                 },
                 {
                     "title": "PlantaBeta"
@@ -31999,13 +31999,13 @@ tags = [
         "extension": "jpg",
         "tags": [
             {
-                "title": "Dev.Tools.Marka"
+                "title": "Dev.Instruments.Marka"
             },
             {
-                "title": "Move.ToolMove.MarkaMove.MarkaWeave"
+                "title": "Move.InstrumentMove.MarkaMove.MarkaWeave"
             },
             {
-                "title": "Move.ToolMove.MarkaMove.MarkaWrap"
+                "title": "Move.InstrumentMove.MarkaMove.MarkaWrap"
             },
             {
                 "title": "PlantaBeta"
@@ -32870,7 +32870,7 @@ tags = [
                     "title": "Land.PlantIdentification"
                 },
                 {
-                    "title": "Move.ToolMove.BagMove.Overview"
+                    "title": "Move.InstrumentMove.BagMove.Overview"
                 },
                 {
                     "title": "Psike.Decision",
@@ -32907,7 +32907,7 @@ tags = [
                 "title": "Land.PlantIdentification"
             },
             {
-                "title": "Move.ToolMove.BagMove.Overview"
+                "title": "Move.InstrumentMove.BagMove.Overview"
             },
             {
                 "title": "Psike.Decision",
@@ -33118,7 +33118,7 @@ tags = [
                     "title": "Move.BodyMove.Fall"
                 },
                 {
-                    "title": "Move.ToolMove.SpadeMove.Overview"
+                    "title": "Move.InstrumentMove.SpadeMove.Overview"
                 },
                 {
                     "title": "Psike.PatternRecognition",
@@ -33139,7 +33139,7 @@ tags = [
                 "title": "Move.BodyMove.Fall"
             },
             {
-                "title": "Move.ToolMove.SpadeMove.Overview"
+                "title": "Move.InstrumentMove.SpadeMove.Overview"
             },
             {
                 "title": "Psike.PatternRecognition",
@@ -33416,7 +33416,7 @@ tags = [
                     "title": "Move.BodyMove.SlopeWalk"
                 },
                 {
-                    "title": "Move.HandMove.TreeInsert"
+                    "title": "Move.ManoMove.TreeInsert"
                 },
                 {
                     "title": "Move.HoleMove.HoleOpen"
@@ -33451,7 +33451,7 @@ tags = [
                 "title": "Move.BodyMove.SlopeWalk"
             },
             {
-                "title": "Move.HandMove.TreeInsert"
+                "title": "Move.ManoMove.TreeInsert"
             },
             {
                 "title": "Move.HoleMove.HoleOpen"
@@ -34008,10 +34008,10 @@ tags = [
                     "title": "Dev.Interdisciplinary.Analogy"
                 },
                 {
-                    "title": "Dev.ToolDiagram"
+                    "title": "Dev.InstrumentDiagram"
                 },
                 {
-                    "title": "Dev.ToolDiagram.BagsDiagram"
+                    "title": "Dev.InstrumentDiagram.BagsDiagram"
                 },
                 {
                     "title": "Move.CacheMove.BagsPlacement"
@@ -34026,7 +34026,7 @@ tags = [
                     "title": "Move.MoveFrase"
                 },
                 {
-                    "title": "Move.ToolMove.BagMove.BagOn"
+                    "title": "Move.InstrumentMove.BagMove.BagOn"
                 },
                 {
                     "title": "TagTest"
@@ -34046,10 +34046,10 @@ tags = [
                 "title": "Dev.Interdisciplinary.Analogy"
             },
             {
-                "title": "Dev.ToolDiagram"
+                "title": "Dev.InstrumentDiagram"
             },
             {
-                "title": "Dev.ToolDiagram.BagsDiagram"
+                "title": "Dev.InstrumentDiagram.BagsDiagram"
             },
             {
                 "title": "Move.CacheMove.BagsPlacement"
@@ -34064,7 +34064,7 @@ tags = [
                 "title": "Move.MoveFrase"
             },
             {
-                "title": "Move.ToolMove.BagMove.BagOn"
+                "title": "Move.InstrumentMove.BagMove.BagOn"
             },
             {
                 "title": "TagTest"
@@ -34151,10 +34151,10 @@ tags = [
                     "title": "Move.PlantMove.Overview"
                 },
                 {
-                    "title": "Move.ToolMove.BagMove.BagShield"
+                    "title": "Move.InstrumentMove.BagMove.BagShield"
                 },
                 {
-                    "title": "Move.ToolMove.BagMove.Overview"
+                    "title": "Move.InstrumentMove.BagMove.Overview"
                 },
                 {
                     "title": "TagTest"
@@ -34177,10 +34177,10 @@ tags = [
                 "title": "Move.PlantMove.Overview"
             },
             {
-                "title": "Move.ToolMove.BagMove.BagShield"
+                "title": "Move.InstrumentMove.BagMove.BagShield"
             },
             {
-                "title": "Move.ToolMove.BagMove.Overview"
+                "title": "Move.InstrumentMove.BagMove.Overview"
             },
             {
                 "title": "TagTest"
@@ -34279,7 +34279,7 @@ tags = [
                     "title": "Move.Overview"
                 },
                 {
-                    "title": "Move.ToolMove.BagMove.Overview"
+                    "title": "Move.InstrumentMove.BagMove.Overview"
                 },
                 {
                     "title": "TagTest"
@@ -34308,7 +34308,7 @@ tags = [
                 "title": "Move.Overview"
             },
             {
-                "title": "Move.ToolMove.BagMove.Overview"
+                "title": "Move.InstrumentMove.BagMove.Overview"
             },
             {
                 "title": "TagTest"
@@ -34386,7 +34386,7 @@ tags = [
                     "title": "Move.HoleMove.Overview"
                 },
                 {
-                    "title": "Move.ToolMove.SpadeMove.Overview"
+                    "title": "Move.InstrumentMove.SpadeMove.Overview"
                 },
                 {
                     "title": "Via.ViaGeometry.ViaPoint.Microsite.MicrositeStrikeLine"
@@ -34409,7 +34409,7 @@ tags = [
                 "title": "Move.HoleMove.Overview"
             },
             {
-                "title": "Move.ToolMove.SpadeMove.Overview"
+                "title": "Move.InstrumentMove.SpadeMove.Overview"
             },
             {
                 "title": "Via.ViaGeometry.ViaPoint.Microsite.MicrositeStrikeLine"
@@ -34501,7 +34501,7 @@ tags = [
                     "title": "Move.Overview.MoveHierarchy.Submoto"
                 },
                 {
-                    "title": "Move.ToolMove.SpadeMove.SpadeSkreef"
+                    "title": "Move.InstrumentMove.SpadeMove.SpadeSkreef"
                 },
                 {
                     "title": "Psike.CognitiveEase.Clarity",
@@ -34534,7 +34534,7 @@ tags = [
                 "title": "Move.Overview.MoveHierarchy.Submoto"
             },
             {
-                "title": "Move.ToolMove.SpadeMove.SpadeSkreef"
+                "title": "Move.InstrumentMove.SpadeMove.SpadeSkreef"
             },
             {
                 "title": "Psike.CognitiveEase.Clarity",
@@ -36390,7 +36390,7 @@ tags = [
                     "title": "Land.Overview"
                 },
                 {
-                    "title": "Move.ToolMove.BoxMove.Overview"
+                    "title": "Move.InstrumentMove.BoxMove.Overview"
                 },
                 {
                     "title": "Via.Marka.Overview"
@@ -36419,7 +36419,7 @@ tags = [
                 "title": "Land.Overview"
             },
             {
-                "title": "Move.ToolMove.BoxMove.Overview"
+                "title": "Move.InstrumentMove.BoxMove.Overview"
             },
             {
                 "title": "Via.Marka.Overview"
@@ -36509,7 +36509,7 @@ tags = [
                     "title": "Dev.Voss"
                 },
                 {
-                    "title": "Move.ToolMove.Overview"
+                    "title": "Move.InstrumentMove.Overview"
                 },
                 {
                     "title": "Psike.CognitiveEase",
@@ -36536,7 +36536,7 @@ tags = [
                 "title": "Dev.Voss"
             },
             {
-                "title": "Move.ToolMove.Overview"
+                "title": "Move.InstrumentMove.Overview"
             },
             {
                 "title": "Psike.CognitiveEase",
@@ -36627,7 +36627,7 @@ tags = [
                     "title": "Land.Density.Overiew"
                 },
                 {
-                    "title": "Move.ToolMove.SpadeMove.SpadeUnplant"
+                    "title": "Move.InstrumentMove.SpadeMove.SpadeUnplant"
                 },
                 {
                     "title": "Via.AreaCover.Overview"
@@ -36665,7 +36665,7 @@ tags = [
                 "title": "Land.Density.Overiew"
             },
             {
-                "title": "Move.ToolMove.SpadeMove.SpadeUnplant"
+                "title": "Move.InstrumentMove.SpadeMove.SpadeUnplant"
             },
             {
                 "title": "Via.AreaCover.Overview"
@@ -36843,10 +36843,10 @@ tags = [
             "lastUpdated": 1692978839623,
             "tags": [
                 {
-                    "title": "Move.HandMove.HandClose.HammerClose"
+                    "title": "Move.ManoMove.HandClose.HammerClose"
                 },
                 {
-                    "title": "Move.HandMove.HandClose.PunchClose"
+                    "title": "Move.ManoMove.HandClose.PunchClose"
                 },
                 {
                     "title": "PlantaBeta"
@@ -36872,10 +36872,10 @@ tags = [
         "extension": "jpg",
         "tags": [
             {
-                "title": "Move.HandMove.HandClose.HammerClose"
+                "title": "Move.ManoMove.HandClose.HammerClose"
             },
             {
-                "title": "Move.HandMove.HandClose.PunchClose"
+                "title": "Move.ManoMove.HandClose.PunchClose"
             },
             {
                 "title": "PlantaBeta"
@@ -37035,7 +37035,7 @@ tags = [
                     "title": "Dev.System.Object"
                 },
                 {
-                    "title": "Move.ToolMove.BagMove.BagEmpty"
+                    "title": "Move.InstrumentMove.BagMove.BagEmpty"
                 },
                 {
                     "title": "Psike.Chunking.Fraction"
@@ -37094,7 +37094,7 @@ tags = [
                 "title": "Dev.System.Object"
             },
             {
-                "title": "Move.ToolMove.BagMove.BagEmpty"
+                "title": "Move.InstrumentMove.BagMove.BagEmpty"
             },
             {
                 "title": "Psike.Chunking.Fraction"
@@ -44418,7 +44418,7 @@ tags = [
                     "title": "Land.Slash.LowSlash"
                 },
                 {
-                    "title": "Move.ToolMove.MarkaMove.MarkaThrow"
+                    "title": "Move.InstrumentMove.MarkaMove.MarkaThrow"
                 },
                 {
                     "title": "Move.ArmMove.TreeLoad"
@@ -44444,7 +44444,7 @@ tags = [
                 "title": "Land.Slash.LowSlash"
             },
             {
-                "title": "Move.ToolMove.MarkaMove.MarkaThrow"
+                "title": "Move.InstrumentMove.MarkaMove.MarkaThrow"
             },
             {
                 "title": "Move.ArmMove.TreeLoad"
@@ -44467,19 +44467,19 @@ tags = [
                     "title": "RawVideo"
                 },
                 {
-                    "title": "Move.ToolMove.TibiorMove.Overview"
+                    "title": "Move.InstrumentMove.TibiorMove.Overview"
                 },
                 {
-                    "title": "Move.HandMove.TreeInsert"
+                    "title": "Move.ManoMove.TreeInsert"
                 },
                 {
-                    "title": "Move.ToolMove.BootMove.Overview"
+                    "title": "Move.InstrumentMove.BootMove.Overview"
                 },
                 {
-                    "title": "Move.HandMove.HandSlide"
+                    "title": "Move.ManoMove.HandSlide"
                 },
                 {
-                    "title": "Move.ToolMove.SpadeMove.SpadeClose"
+                    "title": "Move.InstrumentMove.SpadeMove.SpadeClose"
                 }
             ],
             "id": "883ba7a3b6664614a7e4dac75b8e4854"
@@ -44490,19 +44490,19 @@ tags = [
                 "title": "RawVideo"
             },
             {
-                "title": "Move.ToolMove.TibiorMove.Overview"
+                "title": "Move.InstrumentMove.TibiorMove.Overview"
             },
             {
-                "title": "Move.HandMove.TreeInsert"
+                "title": "Move.ManoMove.TreeInsert"
             },
             {
-                "title": "Move.ToolMove.BootMove.Overview"
+                "title": "Move.InstrumentMove.BootMove.Overview"
             },
             {
-                "title": "Move.HandMove.HandSlide"
+                "title": "Move.ManoMove.HandSlide"
             },
             {
-                "title": "Move.ToolMove.SpadeMove.SpadeClose"
+                "title": "Move.InstrumentMove.SpadeMove.SpadeClose"
             }
         ],
         "thumbPath": "PlantaBeta_Video\\.ts\\Video_002.mp4.jpg"
@@ -44522,10 +44522,10 @@ tags = [
                     "title": "Land.Slash.LowSlash"
                 },
                 {
-                    "title": "Move.ToolMove.MarkaMove.MarkaThrow"
+                    "title": "Move.InstrumentMove.MarkaMove.MarkaThrow"
                 },
                 {
-                    "title": "Move.ToolMove.SpadeMove.SpadeProp"
+                    "title": "Move.InstrumentMove.SpadeMove.SpadeProp"
                 }
             ],
             "id": "cd68b79aabbb4b70be5a446851230497"
@@ -44542,10 +44542,10 @@ tags = [
                 "title": "Land.Slash.LowSlash"
             },
             {
-                "title": "Move.ToolMove.MarkaMove.MarkaThrow"
+                "title": "Move.InstrumentMove.MarkaMove.MarkaThrow"
             },
             {
-                "title": "Move.ToolMove.SpadeMove.SpadeProp"
+                "title": "Move.InstrumentMove.SpadeMove.SpadeProp"
             }
         ],
         "thumbPath": "PlantaBeta_Video\\.ts\\Video_003.mp4.jpg"
@@ -44565,7 +44565,7 @@ tags = [
                     "title": "Move.CacheMove.BundlePlacement"
                 },
                 {
-                    "title": "Move.ToolMove.BundleMove.BundleGrip"
+                    "title": "Move.InstrumentMove.BundleMove.BundleMano"
                 }
             ],
             "id": "6f2d51b6926c4ab2b22ab007c222c450"
@@ -44582,7 +44582,7 @@ tags = [
                 "title": "Move.CacheMove.BundlePlacement"
             },
             {
-                "title": "Move.ToolMove.BundleMove.BundleGrip"
+                "title": "Move.InstrumentMove.BundleMove.BundleMano"
             }
         ],
         "thumbPath": "PlantaBeta_Video\\.ts\\Video_004.mp4.jpg"
@@ -44599,7 +44599,7 @@ tags = [
                     "title": "Land.Slash.LowSlash"
                 },
                 {
-                    "title": "Move.ToolMove.BundleMove.BundlePeel"
+                    "title": "Move.InstrumentMove.BundleMove.BundlePeel"
                 },
                 {
                     "title": "Move.FootMove.FootSeal"
@@ -44608,19 +44608,19 @@ tags = [
                     "title": "Move.HoleMove.ExpandHole"
                 },
                 {
-                    "title": "Move.HandMove.TreeInsert"
+                    "title": "Move.ManoMove.TreeInsert"
                 },
                 {
-                    "title": "Move.ToolMove.SpadeMove.SpadePoke"
+                    "title": "Move.InstrumentMove.SpadeMove.SpadePoke"
                 },
                 {
                     "title": "Via.Marka.BoundaryMarka"
                 },
                 {
-                    "title": "Move.ToolMove.BagMove.BagAdjustment"
+                    "title": "Move.InstrumentMove.BagMove.BagAdjustment"
                 },
                 {
-                    "title": "Move.ToolMove.BagMove.Overview"
+                    "title": "Move.InstrumentMove.BagMove.Overview"
                 }
             ],
             "id": "4810832c6e2b4738a726c4394a035aa4"
@@ -44634,7 +44634,7 @@ tags = [
                 "title": "Land.Slash.LowSlash"
             },
             {
-                "title": "Move.ToolMove.BundleMove.BundlePeel"
+                "title": "Move.InstrumentMove.BundleMove.BundlePeel"
             },
             {
                 "title": "Move.FootMove.FootSeal"
@@ -44643,19 +44643,19 @@ tags = [
                 "title": "Move.HoleMove.ExpandHole"
             },
             {
-                "title": "Move.HandMove.TreeInsert"
+                "title": "Move.ManoMove.TreeInsert"
             },
             {
-                "title": "Move.ToolMove.SpadeMove.SpadePoke"
+                "title": "Move.InstrumentMove.SpadeMove.SpadePoke"
             },
             {
                 "title": "Via.Marka.BoundaryMarka"
             },
             {
-                "title": "Move.ToolMove.BagMove.BagAdjustment"
+                "title": "Move.InstrumentMove.BagMove.BagAdjustment"
             },
             {
-                "title": "Move.ToolMove.BagMove.Overview"
+                "title": "Move.InstrumentMove.BagMove.Overview"
             }
         ],
         "thumbPath": "PlantaBeta_Video\\.ts\\Video_005.mp4.jpg"
@@ -44669,28 +44669,28 @@ tags = [
                     "title": "RawVideo"
                 },
                 {
-                    "title": "Move.HandMove.HandClose"
+                    "title": "Move.ManoMove.HandClose"
                 },
                 {
                     "title": "Land.Slash.LowSlash"
                 },
                 {
-                    "title": "Move.HandMove.HandClose.PunchClose"
+                    "title": "Move.ManoMove.HandClose.PunchClose"
                 },
                 {
-                    "title": "Move.ToolMove.MarkaMove.MarkaThrow"
+                    "title": "Move.InstrumentMove.MarkaMove.MarkaThrow"
                 },
                 {
-                    "title": "Move.ToolMove.TibiorMove.Overview"
+                    "title": "Move.InstrumentMove.TibiorMove.Overview"
                 },
                 {
-                    "title": "Move.ToolMove.GloveMove.Overview"
+                    "title": "Move.InstrumentMove.GloveMove.Overview"
                 },
                 {
-                    "title": "Move.ToolMove.SpadeMove.SpadeProp"
+                    "title": "Move.InstrumentMove.SpadeMove.SpadeProp"
                 },
                 {
-                    "title": "Move.HandMove.TreeInspect"
+                    "title": "Move.ManoMove.TreeInspect"
                 }
             ],
             "id": "faddd71c92cb4f3cafa698d5768db782"
@@ -44701,28 +44701,28 @@ tags = [
                 "title": "RawVideo"
             },
             {
-                "title": "Move.HandMove.HandClose"
+                "title": "Move.ManoMove.HandClose"
             },
             {
                 "title": "Land.Slash.LowSlash"
             },
             {
-                "title": "Move.HandMove.HandClose.PunchClose"
+                "title": "Move.ManoMove.HandClose.PunchClose"
             },
             {
-                "title": "Move.ToolMove.MarkaMove.MarkaThrow"
+                "title": "Move.InstrumentMove.MarkaMove.MarkaThrow"
             },
             {
-                "title": "Move.ToolMove.TibiorMove.Overview"
+                "title": "Move.InstrumentMove.TibiorMove.Overview"
             },
             {
-                "title": "Move.ToolMove.GloveMove.Overview"
+                "title": "Move.InstrumentMove.GloveMove.Overview"
             },
             {
-                "title": "Move.ToolMove.SpadeMove.SpadeProp"
+                "title": "Move.InstrumentMove.SpadeMove.SpadeProp"
             },
             {
-                "title": "Move.HandMove.TreeInspect"
+                "title": "Move.ManoMove.TreeInspect"
             }
         ],
         "thumbPath": "PlantaBeta_Video\\.ts\\Video_006.mp4.jpg"
@@ -44736,10 +44736,10 @@ tags = [
                     "title": "RawVideo"
                 },
                 {
-                    "title": "Move.HandMove.HandMatch"
+                    "title": "Move.ManoMove.HandMatch"
                 },
                 {
-                    "title": "Move.ToolMove.SpadeMove.SpadeProbe"
+                    "title": "Move.InstrumentMove.SpadeMove.SpadeProbe"
                 },
                 {
                     "title": "Land.Block.Road"
@@ -44757,13 +44757,13 @@ tags = [
                     "title": "Land.Area.RockCapArea"
                 },
                 {
-                    "title": "Move.HandMove.HandClose"
+                    "title": "Move.ManoMove.HandClose"
                 },
                 {
                     "title": "Move.HoleMove.ExpandHole"
                 },
                 {
-                    "title": "Move.ToolMove.SpadeMove.SpadeProp"
+                    "title": "Move.InstrumentMove.SpadeMove.SpadeProp"
                 },
                 {
                     "title": "Move.ArmMove.ArmExtension"
@@ -44783,10 +44783,10 @@ tags = [
                 "title": "RawVideo"
             },
             {
-                "title": "Move.HandMove.HandMatch"
+                "title": "Move.ManoMove.HandMatch"
             },
             {
-                "title": "Move.ToolMove.SpadeMove.SpadeProbe"
+                "title": "Move.InstrumentMove.SpadeMove.SpadeProbe"
             },
             {
                 "title": "Land.Block.Road"
@@ -44804,13 +44804,13 @@ tags = [
                 "title": "Land.Area.RockCapArea"
             },
             {
-                "title": "Move.HandMove.HandClose"
+                "title": "Move.ManoMove.HandClose"
             },
             {
                 "title": "Move.HoleMove.ExpandHole"
             },
             {
-                "title": "Move.ToolMove.SpadeMove.SpadeProp"
+                "title": "Move.InstrumentMove.SpadeMove.SpadeProp"
             },
             {
                 "title": "Move.ArmMove.ArmExtension"
@@ -44845,7 +44845,7 @@ tags = [
                     "title": "Move.HoleMove.ExpandHole"
                 },
                 {
-                    "title": "Move.ToolMove.SpadeMove.SpadeThrow"
+                    "title": "Move.InstrumentMove.SpadeMove.SpadeThrow"
                 }
             ],
             "id": "bd4d2b062a8044989cb82f73ac3dcd94"
@@ -44868,7 +44868,7 @@ tags = [
                 "title": "Move.HoleMove.ExpandHole"
             },
             {
-                "title": "Move.ToolMove.SpadeMove.SpadeThrow"
+                "title": "Move.InstrumentMove.SpadeMove.SpadeThrow"
             }
         ],
         "thumbPath": "PlantaBeta_Video\\.ts\\Video_008.mp4.jpg"
@@ -44882,7 +44882,7 @@ tags = [
                     "title": "RawVideo"
                 },
                 {
-                    "title": "Move.HandMove.HandClose"
+                    "title": "Move.ManoMove.HandClose"
                 },
                 {
                     "title": "Move.MoveFrase.PlantingFrase"
@@ -44897,7 +44897,7 @@ tags = [
                     "title": "Via.ViaGeometry.ViaPoint.Microsite.MicrositeSelection"
                 },
                 {
-                    "title": "Move.HandMove.TreeInsert"
+                    "title": "Move.ManoMove.TreeInsert"
                 },
                 {
                     "title": "Move.ArmMove.TreeLoad"
@@ -44912,19 +44912,19 @@ tags = [
                     "title": "Land.Piece.PieceTopography.SlopeAngle"
                 },
                 {
-                    "title": "Move.ToolMove.SpadeMove.SpadePoke"
+                    "title": "Move.InstrumentMove.SpadeMove.SpadePoke"
                 },
                 {
                     "title": "Via.Marka.MarkaSite"
                 },
                 {
-                    "title": "Move.HandMove.HandSkreef"
+                    "title": "Move.ManoMove.HandSkreef"
                 },
                 {
-                    "title": "Move.ToolMove.MarkaMove.MarkaThrow"
+                    "title": "Move.InstrumentMove.MarkaMove.MarkaThrow"
                 },
                 {
-                    "title": "Move.HandMove.HandClose.PunchClose"
+                    "title": "Move.ManoMove.HandClose.PunchClose"
                 }
             ],
             "id": "f89181add004434ebcf6f35612af4b85"
@@ -44935,7 +44935,7 @@ tags = [
                 "title": "RawVideo"
             },
             {
-                "title": "Move.HandMove.HandClose"
+                "title": "Move.ManoMove.HandClose"
             },
             {
                 "title": "Move.MoveFrase.PlantingFrase"
@@ -44950,7 +44950,7 @@ tags = [
                 "title": "Via.ViaGeometry.ViaPoint.Microsite.MicrositeSelection"
             },
             {
-                "title": "Move.HandMove.TreeInsert"
+                "title": "Move.ManoMove.TreeInsert"
             },
             {
                 "title": "Move.ArmMove.TreeLoad"
@@ -44965,19 +44965,19 @@ tags = [
                 "title": "Land.Piece.PieceTopography.SlopeAngle"
             },
             {
-                "title": "Move.ToolMove.SpadeMove.SpadePoke"
+                "title": "Move.InstrumentMove.SpadeMove.SpadePoke"
             },
             {
                 "title": "Via.Marka.MarkaSite"
             },
             {
-                "title": "Move.HandMove.HandSkreef"
+                "title": "Move.ManoMove.HandSkreef"
             },
             {
-                "title": "Move.ToolMove.MarkaMove.MarkaThrow"
+                "title": "Move.InstrumentMove.MarkaMove.MarkaThrow"
             },
             {
-                "title": "Move.HandMove.HandClose.PunchClose"
+                "title": "Move.ManoMove.HandClose.PunchClose"
             }
         ],
         "thumbPath": "PlantaBeta_Video\\.ts\\Video_009.mp4.jpg"
@@ -45029,13 +45029,13 @@ tags = [
                     "title": "RawVideo"
                 },
                 {
-                    "title": "Move.ToolMove.SpadeMove.SpadeProp"
+                    "title": "Move.InstrumentMove.SpadeMove.SpadeProp"
                 },
                 {
                     "title": "Move.HoleMove.ExpandHole"
                 },
                 {
-                    "title": "Move.HandMove.TreeInsert"
+                    "title": "Move.ManoMove.TreeInsert"
                 },
                 {
                     "title": "Via.ViaDirection.ViaDownSlope"
@@ -45044,7 +45044,7 @@ tags = [
                     "title": "Via.Marka.MarkaSite"
                 },
                 {
-                    "title": "Move.HandMove.HandClose"
+                    "title": "Move.ManoMove.HandClose"
                 },
                 {
                     "title": "Move.BodyMove.StepOverLog"
@@ -45067,13 +45067,13 @@ tags = [
                 "title": "RawVideo"
             },
             {
-                "title": "Move.ToolMove.SpadeMove.SpadeProp"
+                "title": "Move.InstrumentMove.SpadeMove.SpadeProp"
             },
             {
                 "title": "Move.HoleMove.ExpandHole"
             },
             {
-                "title": "Move.HandMove.TreeInsert"
+                "title": "Move.ManoMove.TreeInsert"
             },
             {
                 "title": "Via.ViaDirection.ViaDownSlope"
@@ -45082,7 +45082,7 @@ tags = [
                 "title": "Via.Marka.MarkaSite"
             },
             {
-                "title": "Move.HandMove.HandClose"
+                "title": "Move.ManoMove.HandClose"
             },
             {
                 "title": "Move.BodyMove.StepOverLog"
@@ -45111,16 +45111,16 @@ tags = [
                     "title": "Move.CacheMove.BagsPlacement"
                 },
                 {
-                    "title": "Move.ToolMove.BundleMove.BundleGrip"
+                    "title": "Move.InstrumentMove.BundleMove.BundleMano"
                 },
                 {
-                    "title": "Move.ToolMove.BundleMove.BundlePeel"
+                    "title": "Move.InstrumentMove.BundleMove.BundlePeel"
                 },
                 {
-                    "title": "Move.ToolMove.GloveMove.Overview"
+                    "title": "Move.InstrumentMove.GloveMove.Overview"
                 },
                 {
-                    "title": "Move.ToolMove.BagMove.BaggingUp"
+                    "title": "Move.InstrumentMove.BagMove.BaggingUp"
                 },
                 {
                     "title": "Move.MoveFrase.BaggingUpFrase"
@@ -45129,13 +45129,13 @@ tags = [
                     "title": "Guide.Why.Productivity.Efficiency.Redundancy"
                 },
                 {
-                    "title": "Move.HandMove.BagGrip"
+                    "title": "Move.ManoMove.BagMano"
                 },
                 {
                     "title": "Move.LegMove.Kneel"
                 },
                 {
-                    "title": "Move.HandMove.HandMatch"
+                    "title": "Move.ManoMove.HandMatch"
                 },
                 {
                     "title": "Land.CropTree.SpeciesMix"
@@ -45147,7 +45147,7 @@ tags = [
                     "title": "Land.CropTree.FirTree"
                 },
                 {
-                    "title": "Move.HandMove.TreeGrip"
+                    "title": "Move.ManoMove.TreeMano"
                 }
             ],
             "id": "bf1d3cdae8b94cc6957ecc7f73051e76"
@@ -45161,16 +45161,16 @@ tags = [
                 "title": "Move.CacheMove.BagsPlacement"
             },
             {
-                "title": "Move.ToolMove.BundleMove.BundleGrip"
+                "title": "Move.InstrumentMove.BundleMove.BundleMano"
             },
             {
-                "title": "Move.ToolMove.BundleMove.BundlePeel"
+                "title": "Move.InstrumentMove.BundleMove.BundlePeel"
             },
             {
-                "title": "Move.ToolMove.GloveMove.Overview"
+                "title": "Move.InstrumentMove.GloveMove.Overview"
             },
             {
-                "title": "Move.ToolMove.BagMove.BaggingUp"
+                "title": "Move.InstrumentMove.BagMove.BaggingUp"
             },
             {
                 "title": "Move.MoveFrase.BaggingUpFrase"
@@ -45179,13 +45179,13 @@ tags = [
                 "title": "Guide.Why.Productivity.Efficiency.Redundancy"
             },
             {
-                "title": "Move.HandMove.BagGrip"
+                "title": "Move.ManoMove.BagMano"
             },
             {
                 "title": "Move.LegMove.Kneel"
             },
             {
-                "title": "Move.HandMove.HandMatch"
+                "title": "Move.ManoMove.HandMatch"
             },
             {
                 "title": "Land.CropTree.SpeciesMix"
@@ -45197,7 +45197,7 @@ tags = [
                 "title": "Land.CropTree.FirTree"
             },
             {
-                "title": "Move.HandMove.TreeGrip"
+                "title": "Move.ManoMove.TreeMano"
             }
         ],
         "thumbPath": "PlantaBeta_Video\\.ts\\Video_013.mp4.jpg"
@@ -45233,28 +45233,28 @@ tags = [
                     "title": "Move.CacheMove.BundlePlacement"
                 },
                 {
-                    "title": "Move.ToolMove.BundleMove.BundleGrip"
+                    "title": "Move.InstrumentMove.BundleMove.BundleMano"
                 },
                 {
-                    "title": "Move.ToolMove.BundleMove.BundlePeel"
+                    "title": "Move.InstrumentMove.BundleMove.BundlePeel"
                 },
                 {
-                    "title": "Move.ToolMove.BundleMove.Overview"
+                    "title": "Move.InstrumentMove.BundleMove.Overview"
                 },
                 {
-                    "title": "Move.HandMove.BagGrip"
+                    "title": "Move.ManoMove.BagMano"
                 },
                 {
                     "title": "Move.LegMove.Kneel"
                 },
                 {
-                    "title": "Move.ToolMove.GloveMove.Overview"
+                    "title": "Move.InstrumentMove.GloveMove.Overview"
                 },
                 {
                     "title": "Move.ArmMove.ArmReach"
                 },
                 {
-                    "title": "Move.HandMove.HandMatch"
+                    "title": "Move.ManoMove.HandMatch"
                 },
                 {
                     "title": "Land.Block.Road"
@@ -45286,28 +45286,28 @@ tags = [
                 "title": "Move.CacheMove.BundlePlacement"
             },
             {
-                "title": "Move.ToolMove.BundleMove.BundleGrip"
+                "title": "Move.InstrumentMove.BundleMove.BundleMano"
             },
             {
-                "title": "Move.ToolMove.BundleMove.BundlePeel"
+                "title": "Move.InstrumentMove.BundleMove.BundlePeel"
             },
             {
-                "title": "Move.ToolMove.BundleMove.Overview"
+                "title": "Move.InstrumentMove.BundleMove.Overview"
             },
             {
-                "title": "Move.HandMove.BagGrip"
+                "title": "Move.ManoMove.BagMano"
             },
             {
                 "title": "Move.LegMove.Kneel"
             },
             {
-                "title": "Move.ToolMove.GloveMove.Overview"
+                "title": "Move.InstrumentMove.GloveMove.Overview"
             },
             {
                 "title": "Move.ArmMove.ArmReach"
             },
             {
-                "title": "Move.HandMove.HandMatch"
+                "title": "Move.ManoMove.HandMatch"
             },
             {
                 "title": "Land.Block.Road"
@@ -45380,7 +45380,7 @@ tags = [
                     "title": "Move.MoveFrase.BaggingUpFrase"
                 },
                 {
-                    "title": "Move.ToolMove.BundleMove.BundleGrip"
+                    "title": "Move.InstrumentMove.BundleMove.BundleMano"
                 },
                 {
                     "title": "Move.CacheMove.BoxPlacement"
@@ -45389,13 +45389,13 @@ tags = [
                     "title": "Move.CacheMove.GarbageBox"
                 },
                 {
-                    "title": "Move.ToolMove.BundleMove.BundlePeel"
+                    "title": "Move.InstrumentMove.BundleMove.BundlePeel"
                 },
                 {
-                    "title": "Move.ToolMove.BundleMove.MoveError.WrapperLitter"
+                    "title": "Move.InstrumentMove.BundleMove.MoveError.WrapperLitter"
                 },
                 {
-                    "title": "Move.ToolMove.TibiorMove.Overview"
+                    "title": "Move.InstrumentMove.TibiorMove.Overview"
                 },
                 {
                     "title": "Move.ArmMove.ArmExtension"
@@ -45404,7 +45404,7 @@ tags = [
                     "title": "Move.MoveAttributes.MoveType.PushMove"
                 },
                 {
-                    "title": "Move.ToolMove.BundleMove.BundleRoll"
+                    "title": "Move.InstrumentMove.BundleMove.BundleRoll"
                 },
                 {
                     "title": "Move.CacheMove.BagsPlacement"
@@ -45428,10 +45428,10 @@ tags = [
                     "title": "Move.BodyMove.BodyBend"
                 },
                 {
-                    "title": "Move.ToolMove.GloveMove.Overview"
+                    "title": "Move.InstrumentMove.GloveMove.Overview"
                 },
                 {
-                    "title": "Dev.Tools.Kit"
+                    "title": "Dev.Instruments.Kit"
                 },
                 {
                     "title": "Land.Block.Road"
@@ -45454,7 +45454,7 @@ tags = [
                 "title": "Move.MoveFrase.BaggingUpFrase"
             },
             {
-                "title": "Move.ToolMove.BundleMove.BundleGrip"
+                "title": "Move.InstrumentMove.BundleMove.BundleMano"
             },
             {
                 "title": "Move.CacheMove.BoxPlacement"
@@ -45463,13 +45463,13 @@ tags = [
                 "title": "Move.CacheMove.GarbageBox"
             },
             {
-                "title": "Move.ToolMove.BundleMove.BundlePeel"
+                "title": "Move.InstrumentMove.BundleMove.BundlePeel"
             },
             {
-                "title": "Move.ToolMove.BundleMove.MoveError.WrapperLitter"
+                "title": "Move.InstrumentMove.BundleMove.MoveError.WrapperLitter"
             },
             {
-                "title": "Move.ToolMove.TibiorMove.Overview"
+                "title": "Move.InstrumentMove.TibiorMove.Overview"
             },
             {
                 "title": "Move.ArmMove.ArmExtension"
@@ -45478,7 +45478,7 @@ tags = [
                 "title": "Move.MoveAttributes.MoveType.PushMove"
             },
             {
-                "title": "Move.ToolMove.BundleMove.BundleRoll"
+                "title": "Move.InstrumentMove.BundleMove.BundleRoll"
             },
             {
                 "title": "Move.CacheMove.BagsPlacement"
@@ -45502,10 +45502,10 @@ tags = [
                 "title": "Move.BodyMove.BodyBend"
             },
             {
-                "title": "Move.ToolMove.GloveMove.Overview"
+                "title": "Move.InstrumentMove.GloveMove.Overview"
             },
             {
-                "title": "Dev.Tools.Kit"
+                "title": "Dev.Instruments.Kit"
             },
             {
                 "title": "Land.Block.Road"

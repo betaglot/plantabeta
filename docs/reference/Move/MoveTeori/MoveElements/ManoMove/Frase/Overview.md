@@ -15,7 +15,7 @@
 
 <h2>PageTags</h2>
 
-- "Move.HandMove.HandBump"
-- "Move.HandMove.HandMatch"
+- "Move.ManoMove.HandBump"
+- "Move.ManoMove.HandMatch"
 
 :::

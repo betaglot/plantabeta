@@ -33,8 +33,8 @@
     - Removing Ekons from your current Site
 - ThumbHook
 - RootRip
-- ClawGrip
-    - RaptorGrip
+- ClawMano
+    - RaptorMano
         - One or Two Finger Claw
         - While TreeHand is loaded
 - ThrowSkreef

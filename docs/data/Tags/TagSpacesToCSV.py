@@ -43,7 +43,7 @@ json = [
         "name": "0016.jpg",
         "tags": [
             {
-                "title": "Move.HandMove.SpadeHandleGrip"
+                "title": "Move.ManoMove.SpadeHandleMano"
             },
             {
                 "title": "Move.MoveName.Overview"
@@ -994,7 +994,7 @@ json = [
                 "title": "Dev.MoveDiagram.OrthographicDiagram"
             },
             {
-                "title": "Move.HandMove.FingertipPress"
+                "title": "Move.ManoMove.FingertipPress"
             },
             {
                 "title": "Move.MoveDiagram.OrthographicDiagram"
@@ -1292,7 +1292,7 @@ json = [
                 "title": "Move.BodyMove.BodyLean"
             },
             {
-                "title": "Move.HandMove.TreeGrip"
+                "title": "Move.ManoMove.TreeMano"
             },
             {
                 "title": "Move.MoveDiagram.Stickfigure"
@@ -1582,13 +1582,13 @@ json = [
                 "title": "Dev.Tools.Marka"
             },
             {
-                "title": "Move.HandMove.FingerMove.FingerCurl"
+                "title": "Move.ManoMove.FingerMove.FingerCurl"
             },
             {
-                "title": "Move.HandMove.FingerMove.Overview"
+                "title": "Move.ManoMove.FingerMove.Overview"
             },
             {
-                "title": "Move.HandMove.PinchGrip"
+                "title": "Move.ManoMove.PinchMano"
             },
             {
                 "title": "Move.ToolMove.MarkaMove.MarkaWeave"
@@ -2573,7 +2573,7 @@ json = [
                 "title": "Land.Obstacle.Overview"
             },
             {
-                "title": "Move.HandMove.HandMatch"
+                "title": "Move.ManoMove.HandMatch"
             },
             {
                 "title": "Move.MoveComposition.MoveSelection.ForcedMove"
@@ -3982,7 +3982,7 @@ json = [
                 "title": "Move.BodyMove.Stemming"
             },
             {
-                "title": "Move.HandMove.HandMatch"
+                "title": "Move.ManoMove.HandMatch"
             },
             {
                 "title": "Move.MoveDirection.RelativeDirection.ParallelTo"
@@ -4191,7 +4191,7 @@ json = [
                 "title": "Dev.System.Syntax.Punctuation.SquareBraces"
             },
             {
-                "title": "Move.HandMove.HandSwap"
+                "title": "Move.ManoMove.HandSwap"
             },
             {
                 "title": "Move.MoveComposition.MoveSelection.AlternativeMove"
@@ -6156,7 +6156,7 @@ json = [
                 "title": "Land.Obstacle.MicrositeObstacle.BlockerHold"
             },
             {
-                "title": "Move.HandMove.HandSlot"
+                "title": "Move.ManoMove.HandSlot"
             },
             {
                 "title": "Move.MoveAttributes.MoveType.SlotMove"
@@ -6795,10 +6795,10 @@ json = [
                 "title": "Move.ArmMove.ArmReach"
             },
             {
-                "title": "Move.HandMove.HandMatch"
+                "title": "Move.ManoMove.HandMatch"
             },
             {
-                "title": "Move.HandMove.HandSwap"
+                "title": "Move.ManoMove.HandSwap"
             },
             {
                 "title": "Move.MoveFrase"
@@ -6957,10 +6957,10 @@ json = [
                 "title": "Move.ArmMove.ArmRockOver"
             },
             {
-                "title": "Move.HandMove.HandSmear"
+                "title": "Move.ManoMove.HandSmear"
             },
             {
-                "title": "Move.HandMove.UnderclingGrip"
+                "title": "Move.ManoMove.UnderclingMano"
             },
             {
                 "title": "Move.LegMove.HighFoot"
@@ -7440,7 +7440,7 @@ json = [
                 "title": "Dev.System.Syntax"
             },
             {
-                "title": "Move.HandMove.HandBump"
+                "title": "Move.ManoMove.HandBump"
             },
             {
                 "title": "Move.MoveDifficulty.MoveRisk"
@@ -7758,7 +7758,7 @@ json = [
                 "title": "Dev.Tagging.TagChip.TagChipHighlight"
             },
             {
-                "title": "Move.HandMove.HandMatch"
+                "title": "Move.ManoMove.HandMatch"
             },
             {
                 "title": "Move.MoveLine"
@@ -8488,7 +8488,7 @@ json = [
                 "title": "Move.FootMove.FootSwap"
             },
             {
-                "title": "Move.HandMove.HandSmear"
+                "title": "Move.ManoMove.HandSmear"
             },
             {
                 "title": "Move.MoveAttributes.MoveType.CompressionMove"
@@ -8526,7 +8526,7 @@ json = [
                 "title": "Move.BodyMove.Walk"
             },
             {
-                "title": "Move.HandMove.UnderclingGrip"
+                "title": "Move.ManoMove.UnderclingMano"
             },
             {
                 "title": "Move.MoveDiagram.MoveTimeline"
@@ -8644,7 +8644,7 @@ json = [
                 "title": "Move.BodyMove.BodyAbsorb"
             },
             {
-                "title": "Move.HandMove.HandSwap"
+                "title": "Move.ManoMove.HandSwap"
             },
             {
                 "title": "Move.MoveAttributes.MoveDuration"
@@ -8972,25 +8972,25 @@ json = [
                 "title": "Dev.Interdisciplinary.Climbing"
             },
             {
-                "title": "Move.HandMove.CupGrip"
+                "title": "Move.ManoMove.CupMano"
             },
             {
-                "title": "Move.HandMove.FingerMove.FingerHook"
+                "title": "Move.ManoMove.FingerMove.FingerHook"
             },
             {
-                "title": "Move.HandMove.FingerMove.Overview"
+                "title": "Move.ManoMove.FingerMove.Overview"
             },
             {
-                "title": "Move.HandMove.FingerOverlapPoke"
+                "title": "Move.ManoMove.FingerOverlapPoke"
             },
             {
-                "title": "Move.HandMove.HandSlide"
+                "title": "Move.ManoMove.HandSlide"
             },
             {
-                "title": "Move.HandMove.HandSmear"
+                "title": "Move.ManoMove.HandSmear"
             },
             {
-                "title": "Move.HandMove.PinchGrip"
+                "title": "Move.ManoMove.PinchMano"
             },
             {
                 "title": "PlantaBeta"
@@ -9547,7 +9547,7 @@ json = [
                 "title": "Land.LandSpace.Overview"
             },
             {
-                "title": "Move.HandMove.TreeFlip"
+                "title": "Move.ManoMove.TreeFlip"
             },
             {
                 "title": "Move.MoveDifficulty.MoveComplexity"
@@ -10144,7 +10144,7 @@ json = [
                 "title": "Dev.Transcription"
             },
             {
-                "title": "Move.HandMove.Overview"
+                "title": "Move.ManoMove.Overview"
             },
             {
                 "title": "Move.MoveCard"
@@ -10173,7 +10173,7 @@ json = [
                 "title": "Guide.What.WhatElement.ElementName.Affix"
             },
             {
-                "title": "Move.HandMove.PinchGrip"
+                "title": "Move.ManoMove.PinchMano"
             },
             {
                 "title": "Move.MoveCard"
@@ -10240,7 +10240,7 @@ json = [
                 "title": "Dev.PageLayout"
             },
             {
-                "title": "Move.HandMove.Overview"
+                "title": "Move.ManoMove.Overview"
             },
             {
                 "title": "Move.MoveCard"
@@ -10370,7 +10370,7 @@ json = [
                 "title": "Dev.LevelOfDetail"
             },
             {
-                "title": "Move.HandMove.Overview"
+                "title": "Move.ManoMove.Overview"
             },
             {
                 "title": "Move.MoveDiagram.Overview"
@@ -11965,7 +11965,7 @@ json = [
                 "title": "Dev.Infographic.TreeView"
             },
             {
-                "title": "Move.HandMove.Overview"
+                "title": "Move.ManoMove.Overview"
             },
             {
                 "title": "PlantaBeta"
@@ -12212,7 +12212,7 @@ json = [
                 "title": "Dev.Infographic"
             },
             {
-                "title": "Move.HandMove.Overview"
+                "title": "Move.ManoMove.Overview"
             },
             {
                 "title": "PlantaBeta"
@@ -12331,7 +12331,7 @@ json = [
                 "title": "Move.ArmMove.Overview"
             },
             {
-                "title": "Move.HandMove.Overview"
+                "title": "Move.ManoMove.Overview"
             },
             {
                 "title": "Move.MoveDiagram.Overview"
@@ -12755,7 +12755,7 @@ json = [
                 "title": "Dev.Tools.Marka"
             },
             {
-                "title": "Move.HandMove.Overview"
+                "title": "Move.ManoMove.Overview"
             },
             {
                 "title": "Move.ToolMove.MarkaMove.Overview"
@@ -13543,7 +13543,7 @@ json = [
                 "title": "Move.FootMove.Overview"
             },
             {
-                "title": "Move.HandMove.TreeTestGrip"
+                "title": "Move.ManoMove.TreeTestMano"
             },
             {
                 "title": "Move.HoleMove.CloseHole"
@@ -13929,13 +13929,13 @@ json = [
                 "title": "Guide.Why.Productivity.Efficiency.Redundancy"
             },
             {
-                "title": "Move.HandMove.HandSkreef"
+                "title": "Move.ManoMove.HandSkreef"
             },
             {
-                "title": "Move.HandMove.TreeFlip"
+                "title": "Move.ManoMove.TreeFlip"
             },
             {
-                "title": "Move.HandMove.TreeGrip"
+                "title": "Move.ManoMove.TreeMano"
             },
             {
                 "title": "Move.HoleMove.CloseHole"
@@ -14002,7 +14002,7 @@ json = [
                 "title": "Move.FootMove.FootSeal"
             },
             {
-                "title": "Move.HandMove.TreeInsert"
+                "title": "Move.ManoMove.TreeInsert"
             },
             {
                 "title": "Move.HoleMove.Overview"
@@ -14250,7 +14250,7 @@ json = [
                 "title": "Dev.Infographic"
             },
             {
-                "title": "Move.HandMove.TreeGrip"
+                "title": "Move.ManoMove.TreeMano"
             },
             {
                 "title": "Move.Overview.MoveHierarchy.Submoto"
@@ -15301,7 +15301,7 @@ json = [
                 "title": "Dev.Tools.PlantingBag"
             },
             {
-                "title": "Move.HandMove.SpadeHandleGrip"
+                "title": "Move.ManoMove.SpadeHandleMano"
             },
             {
                 "title": "PlantaBeta"
@@ -16057,7 +16057,7 @@ json = [
                 "title": "Move.BodyMove.SlopeWalk"
             },
             {
-                "title": "Move.HandMove.TreeInsert"
+                "title": "Move.ManoMove.TreeInsert"
             },
             {
                 "title": "Move.HoleMove.HoleOpen"
@@ -17670,10 +17670,10 @@ json = [
         "name": "3160.jpg",
         "tags": [
             {
-                "title": "Move.HandMove.HandClose.HammerClose"
+                "title": "Move.ManoMove.HandClose.HammerClose"
             },
             {
-                "title": "Move.HandMove.HandClose.PunchClose"
+                "title": "Move.ManoMove.HandClose.PunchClose"
             },
             {
                 "title": "PlantaBeta"
@@ -21798,13 +21798,13 @@ json = [
                 "title": "Move.ToolMove.TibiorMove.Overview"
             },
             {
-                "title": "Move.HandMove.TreeInsert"
+                "title": "Move.ManoMove.TreeInsert"
             },
             {
                 "title": "Move.ToolMove.BootMove.Overview"
             },
             {
-                "title": "Move.HandMove.HandSlide"
+                "title": "Move.ManoMove.HandSlide"
             },
             {
                 "title": "Move.ToolMove.SpadeMove.SpadeClose"
@@ -21844,7 +21844,7 @@ json = [
                 "title": "Move.CacheMove.BundlePlacement"
             },
             {
-                "title": "Move.ToolMove.BundleMove.BundleGrip"
+                "title": "Move.ToolMove.BundleMove.BundleMano"
             }
         ]
     },
@@ -21867,7 +21867,7 @@ json = [
                 "title": "Move.HoleMove.ExpandHole"
             },
             {
-                "title": "Move.HandMove.TreeInsert"
+                "title": "Move.ManoMove.TreeInsert"
             },
             {
                 "title": "Move.ToolMove.SpadeMove.SpadePoke"
@@ -21890,13 +21890,13 @@ json = [
                 "title": "RawVideo"
             },
             {
-                "title": "Move.HandMove.HandClose"
+                "title": "Move.ManoMove.HandClose"
             },
             {
                 "title": "Land.Slash.LowSlash"
             },
             {
-                "title": "Move.HandMove.HandClose.PunchClose"
+                "title": "Move.ManoMove.HandClose.PunchClose"
             },
             {
                 "title": "Move.ToolMove.MarkaMove.MarkaThrow"
@@ -21911,7 +21911,7 @@ json = [
                 "title": "Move.ToolMove.SpadeMove.SpadeProp"
             },
             {
-                "title": "Move.HandMove.TreeInspect"
+                "title": "Move.ManoMove.TreeInspect"
             }
         ]
     },
@@ -21922,7 +21922,7 @@ json = [
                 "title": "RawVideo"
             },
             {
-                "title": "Move.HandMove.HandMatch"
+                "title": "Move.ManoMove.HandMatch"
             },
             {
                 "title": "Move.ToolMove.SpadeMove.SpadeProbe"
@@ -21943,7 +21943,7 @@ json = [
                 "title": "Land.Area.RockCapArea"
             },
             {
-                "title": "Move.HandMove.HandClose"
+                "title": "Move.ManoMove.HandClose"
             },
             {
                 "title": "Move.HoleMove.ExpandHole"
@@ -21992,7 +21992,7 @@ json = [
                 "title": "RawVideo"
             },
             {
-                "title": "Move.HandMove.HandClose"
+                "title": "Move.ManoMove.HandClose"
             },
             {
                 "title": "Move.MoveFrase.PlantingFrase"
@@ -22007,7 +22007,7 @@ json = [
                 "title": "Via.ViaGeometry.ViaPoint.Microsite.MicrositeSelection"
             },
             {
-                "title": "Move.HandMove.TreeInsert"
+                "title": "Move.ManoMove.TreeInsert"
             },
             {
                 "title": "Move.ArmMove.TreeLoad"
@@ -22028,13 +22028,13 @@ json = [
                 "title": "Via.Marka.MarkaSite"
             },
             {
-                "title": "Move.HandMove.HandSkreef"
+                "title": "Move.ManoMove.HandSkreef"
             },
             {
                 "title": "Move.ToolMove.MarkaMove.MarkaThrow"
             },
             {
-                "title": "Move.HandMove.HandClose.PunchClose"
+                "title": "Move.ManoMove.HandClose.PunchClose"
             }
         ]
     },
@@ -22067,7 +22067,7 @@ json = [
                 "title": "Move.HoleMove.ExpandHole"
             },
             {
-                "title": "Move.HandMove.TreeInsert"
+                "title": "Move.ManoMove.TreeInsert"
             },
             {
                 "title": "Via.ViaDirection.ViaDownSlope"
@@ -22076,7 +22076,7 @@ json = [
                 "title": "Via.Marka.MarkaSite"
             },
             {
-                "title": "Move.HandMove.HandClose"
+                "title": "Move.ManoMove.HandClose"
             },
             {
                 "title": "Move.BodyMove.StepOverLog"
@@ -22102,7 +22102,7 @@ json = [
                 "title": "Move.CacheMove.BagsPlacement"
             },
             {
-                "title": "Move.ToolMove.BundleMove.BundleGrip"
+                "title": "Move.ToolMove.BundleMove.BundleMano"
             },
             {
                 "title": "Move.ToolMove.BundleMove.BundlePeel"
@@ -22120,13 +22120,13 @@ json = [
                 "title": "Guide.Why.Productivity.Efficiency.Redundancy"
             },
             {
-                "title": "Move.HandMove.BagGrip"
+                "title": "Move.ManoMove.BagMano"
             },
             {
                 "title": "Move.LegMove.Kneel"
             },
             {
-                "title": "Move.HandMove.HandMatch"
+                "title": "Move.ManoMove.HandMatch"
             },
             {
                 "title": "Land.CropTree.SpeciesMix"
@@ -22138,7 +22138,7 @@ json = [
                 "title": "Land.CropTree.FirTree"
             },
             {
-                "title": "Move.HandMove.TreeGrip"
+                "title": "Move.ManoMove.TreeMano"
             }
         ]
     },
@@ -22160,7 +22160,7 @@ json = [
                 "title": "Move.CacheMove.BundlePlacement"
             },
             {
-                "title": "Move.ToolMove.BundleMove.BundleGrip"
+                "title": "Move.ToolMove.BundleMove.BundleMano"
             },
             {
                 "title": "Move.ToolMove.BundleMove.BundlePeel"
@@ -22169,7 +22169,7 @@ json = [
                 "title": "Move.ToolMove.BundleMove.Overview"
             },
             {
-                "title": "Move.HandMove.BagGrip"
+                "title": "Move.ManoMove.BagMano"
             },
             {
                 "title": "Move.LegMove.Kneel"
@@ -22181,7 +22181,7 @@ json = [
                 "title": "Move.ArmMove.ArmReach"
             },
             {
-                "title": "Move.HandMove.HandMatch"
+                "title": "Move.ManoMove.HandMatch"
             },
             {
                 "title": "Land.Block.Road"
@@ -22229,7 +22229,7 @@ json = [
                 "title": "Move.MoveFrase.BaggingUpFrase"
             },
             {
-                "title": "Move.ToolMove.BundleMove.BundleGrip"
+                "title": "Move.ToolMove.BundleMove.BundleMano"
             },
             {
                 "title": "Move.CacheMove.BoxPlacement"

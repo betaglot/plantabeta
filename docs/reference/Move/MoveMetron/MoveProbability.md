@@ -45,7 +45,7 @@ Levels of Probability
 
 MoveRisk.Probability1: Improbable
 
-- <move>JugGrip.Error.Slip</move>
+- <move>JugMano.Error.Slip</move>
 
 MoveRisk.Probability2: Remote
 
@@ -57,7 +57,7 @@ Probability4: Probable
 
 MoveRisk.Probability5: Frequent
 
-- <move>CrimpGrip.SharpHold</move>
+- <move>CrimpMano.SharpHold</move>
 - <move>OneFingerCatch</move>
 - <move>DownDyno</move>
 
@@ -120,7 +120,7 @@ Security
 
 > “Committing”,
 
-> “Delicate [Grip, FootPlacement]”,”Tenuous [Grip, FootPlacement]”
+> “Delicate [Mano, FootPlacement]”,”Tenuous [Mano, FootPlacement]”
 
 > “Dicey”
 
@@ -154,10 +154,10 @@ ClimberHeight
     - <move>FingerSlot</move> into a <eko>TwoFingerPocketHold</eko> is Risky.
     - Adding a <eko>BlockerHold</eko> increases the Risk that the Climber will miss the <via>RouteSurface</via>.
 
-<move>RiskOfLosingGrip</move> from being Gripped in <via>IncorrectRoutePosition</via> and or <via>IncorrectLoadingAngleRange</via>.
+<move>RiskOfLosingMano</move> from being Manoped in <via>IncorrectRoutePosition</via> and or <via>IncorrectLoadingAngleRange</via>.
 
 - <move>HandSlip</move>
-    - CausedBy(<move>GripEndurance</move>)
+    - CausedBy(<move>ManoEndurance</move>)
 
 <move>HandCatch</move>
 
@@ -165,7 +165,7 @@ ClimberHeight
     - <move>HandPianoSwap</move> on <via>Gioia</via> (V15)
     - <eko>BowlingBallHold</eko>
         - <eko>MultiplePocketHold</eko>
-            - <move>PinchPocketGrip</move>
+            - <move>PinchPocketMano</move>
     - When the position of each finger on a <eko>RockCrystal</eko> matters.
         - <move>HandPosition@(HandCatch)</move>
     - Rotpunkt(2019)\Rotpunkt | [Alex Megos and the Advent, the Agony and the Art of the Redpoint](https://youtu.be/SbWvFjUIt5k?t=2338)
@@ -219,7 +219,7 @@ Definition(NoRecovery)
 - If Climber has an AnteSubmovementFailure, then Climber won’t be able to perform RecoveryMovement.
 - Not possible to muscle through a RouteSequenceError
     - HandMatch not possible, therefore HandSwap not possible
-        - SmallHold, GripFatigue
+        - SmallHold, ManoFatigue
 
 - ThresholdPassed
 
@@ -278,11 +278,11 @@ WallType can modify MoveRisk or RouteRisk.
 - Kneebar
     - ShallowKneebar is riskier than DeepKneebar.
 - Sit
-- JugGrip
-    - JugGrip.Risk(+)
+- JugMano
+    - JugMano.Risk(+)
         - WetRouteSurface
-    - JugGrip.Risk(-)
-        - 2_JugGrip
+    - JugMano.Risk(-)
+        - 2_JugMano
 - Standing
 - Sitting
 - RestPosition

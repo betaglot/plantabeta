@@ -258,16 +258,16 @@ Connect Academia to PutPlant by linking to each field's current understanding.
 
 ---
 
-## Tools
+## Instruments
 
-> innovate tool use, design and construction
+> innovate Instrument use, design and construction
 
-See [Tools](/dev/Tools) for notes about each tool
+See [Instruments](/dev/Instruments) for notes about each Instrument
 
-- Test tools
+- Test Instruments
 - Test materials
 - Report User Pain Points
-- Research Tool Materials
+- Research Instrument Materials
 - Report
 - Research Construction Methods
 

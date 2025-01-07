@@ -69,7 +69,7 @@
     - OppositionMovement
         - CompressionMovement (ConvergentMovement)
             - Bicycle
-            - PinchGrip
+            - PinchMano
         - ExpansionMovement (DivergentMovement)
             - Kneebar
             - ReverseBicycle
@@ -130,7 +130,7 @@
         - BarnDoor
     - ConcentricAlignment
         - Velocity of AroundCornerMovement aligns with WallCorner.
-        - SloperHoldGrip
+        - SloperHoldMano
 
 ## Counterintuitive
 
@@ -150,14 +150,14 @@
 - Clipping(ArmCrossArm)Movement
 - (Dexterity.C)ProportionalTo(HandSubmovementCount, )
 - Clipping
-- ClimbingTool
+- ClimbingInstrument
 
 - ProtectionMovement
 - HandBump
 - ColdHands
     - Weather
         - AirTemperature
-- ArmPump.HandMovement
+- ArmPump.ManoMovement
 
 ## HiddenRouteSurface
 
@@ -225,8 +225,8 @@
     - SwingOff Dyno TargetSurface which isn’t a JugHold or DownPullHold.
     - Hop into Standing on a SmallHold on SlabWall.
     - Overshoot the TargetSurface or TargetBodyPosition, then need to redirect
-- Overgripping
-    - Gripping the Hold with a force which is greater than the minimum force required to maintain StaticFriction between the Climber and RouteSurface.
+- OverManoping
+    - Manoping the Hold with a force which is greater than the minimum force required to maintain StaticFriction between the Climber and RouteSurface.
     - Overgripping as a reaction to FearOfFalling
 
 ## RedHerring
@@ -342,7 +342,7 @@ ApparentPathOfLeastResistanceDeception
     - MovementPrecision+
         - [This bridge should not be possible to climb](https://youtu.be/hZ6pm2G543E?t=573)(9:33)
             - Climbers must have HighMovementPrecision to Maintain LaybackPosition on a FeaturelessOutsideCornerWallRoute without Barndooring in either LeftDirection or RightDirection.
-            - Maintain OptimalLoadingForceVector in HandMovement and FootMovement
+            - Maintain OptimalLoadingForceVector in ManoMovement and FootMovement
 
 ## Movement Repeatability
 
@@ -366,7 +366,7 @@ ApparentPathOfLeastResistanceDeception
 - Notation
     - [,]
         - [StandUp, UnderclingHold]
-            - MovementSequence[CrimpGrip, SpoonSmear, CrimpGrip]
+            - MovementSequence[CrimpMano, SpoonSmear, CrimpMano]
 
 - Differentiate(Timing, Sequencing)
 Timing is often used erroneously instead of sequence.

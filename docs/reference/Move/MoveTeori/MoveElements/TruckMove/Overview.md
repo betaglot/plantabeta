@@ -35,6 +35,6 @@
 
 <h2>PageTags</h2>
 
-- "Move.ToolMove.TruckMove.Overview"
+- "Move.InstrumentMove.TruckMove.Overview"
 
 :::
