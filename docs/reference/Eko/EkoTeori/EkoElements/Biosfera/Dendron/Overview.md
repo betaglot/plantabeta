@@ -1,10 +1,10 @@
-# 🟩 <eko>Fiton</eko>
+# 🟩 <eko>Dendron</eko>
 
-Aliases: Tree, Neophyte, Fiton
+Aliases: Tree, Neophyte, Seedling
 
 ## Species
 
-## 🕸 Fiton.Skema
+## 🕸 Dendron.Skema
 
 ### Related 🟩<eko>Eko</eko>
 

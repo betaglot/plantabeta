@@ -1,6 +1,6 @@
-# 🟠 <move>FitonInsert</move>
+# 🟠<move>ManoDragSeal</move>
 
-## 🕸 FitonInsert.Skema
+## 🕸 ManoDragSeal.Skema
 
 ### Related 🟩<eko>Eko</eko>
 
@@ -27,9 +27,8 @@
 <!-- =================================================== -->
 ::: details 🛠 <dev>&&&</dev>
 
-- FitonInsert can be an iterative process
-- Fiton1FingerInsert
-- Fiton2FingerInsert
-- Fiton3FingerInsert
+- LockedClawMano
+    - Isometric, not concentric
+- Diagonal or Saggital
 
 :::

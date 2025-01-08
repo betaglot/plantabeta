@@ -31,7 +31,7 @@
 <!-- =================================================== -->
 ::: details 🛠 <dev>&&&</dev>
 
-- Fitosite is a PlantedSite. There is a Fiton in the Site
+- Dendrosite is a PlantedSite. There is a Dendron in the Site
 - SiteState
     1. Selected
         - NeoSite hasn't been tested yet
@@ -43,7 +43,7 @@
     5. Dilated
     6. Inserted
     7. Sealed
-        - FitoSite
+        - DendroSite
     8. Marked
 
 <h2>PageTags</h2>

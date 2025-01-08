@@ -1,14 +1,6 @@
-# 🟠 <move>FitoforMove</move>
+# 🟠<move>DendronMove</move>
 
-Aliases: Planting Bags
-
-Roll up your back bag layer to shell from water and dirt
-
-## FitoforAnatomy
-
-## FitoforAttributes
-
-## 🕸 FitoforMove.Skema
+## 🕸 DendronMove.Skema
 
 ### Related 🟩<eko>Eko</eko>
 
@@ -35,8 +27,6 @@ Roll up your back bag layer to shell from water and dirt
 <!-- =================================================== -->
 ::: details 🛠 <dev>&&&</dev>
 
-- FertPouch
-- BagMove.Error
-    - BagSpill
+-
 
 :::

@@ -1,6 +1,14 @@
-# 🟠<move>FitonMove</move>
+# 🟠 <move>PlantaforMove</move>
 
-## 🕸 FitonMove.Skema
+Aliases: Planting Bags
+
+Roll up your back bag layer to shell from water and dirt
+
+## PlantaforAnatomy
+
+## PlantaforAttributes
+
+## 🕸 PlantaforMove.Skema
 
 ### Related 🟩<eko>Eko</eko>
 
@@ -27,6 +35,8 @@
 <!-- =================================================== -->
 ::: details 🛠 <dev>&&&</dev>
 
--
+- FertPouch
+- BagMove.Error
+    - BagSpill
 
 :::

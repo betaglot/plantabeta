@@ -4,7 +4,7 @@
 
 ## TreeMano Purpose
 
-- TreeMano is the interface between Plantor and Fiton.
+- TreeMano is the interface between Plantor and Dendron.
 
 ## TreeMano Parameters
 
@@ -60,7 +60,7 @@
 <!-- =================================================== -->
 ::: details 🛠 <dev>&&&</dev>
 
-- (Neophyte, Fiton)InsteadOf(Fiton)
+- (Neophyte, Dendron)InsteadOf(Dendron)
 - TreeConfirm
     - See if the tree has been planted with good quality
     - TreeTwirl

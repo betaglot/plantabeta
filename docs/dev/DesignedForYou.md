@@ -109,7 +109,7 @@ Beta is composed of four types, each of which can be represented by an icon:
 - 🟩<eko>[Soil](/encyclopedia/Eko/Soil/Overview)</eko>: Duff mixed with soil is ok if it is smearable, meaning that the soil sticks together when smeared.
     - Coherent
 
-- 🟩<eko>[CullTree](/encyclopedia/Eko/Fiton/Overview)</eko>: Put CullTrees in Duff instead of sidebag.
+- 🟩<eko>[CullTree](/encyclopedia/Eko/Dendron/Overview)</eko>: Put CullTrees in Duff instead of sidebag.
 
 - 🟩<eko>[SoilSound](/encyclopedia/Eko/Soil/Overview)</eko>: Muffled Soil has lots more organic matter to absorb sound. Rock is louder than organic matter due to the strength of rock's lattice structure.
 

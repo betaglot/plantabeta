@@ -19,7 +19,7 @@ The word "<eko>eko</eko>system" was derived from <eko>eko</eko>logy
 
 > (originally as <eko>oeco</eko>logy ): from Greek <eko>oikos</eko> ‘house’ + -logy.
 
-In PutPlant's <beta>Beta system</beta> the <eko>Eko</eko> module represents the <eko>homes</eko> of the Fitons that you're planting.
+In PutPlant's <beta>Beta system</beta> the <eko>Eko</eko> module represents the <eko>homes</eko> of the Dendrons that you're planting.
 
 :::
 
@@ -50,7 +50,7 @@ Eko Elements are prefixed by a 🟩 green square icon
     Slash,
     Soil,
     Obstacle,
-    Fiton,
+    Dendron,
     Animal
 }
 ```

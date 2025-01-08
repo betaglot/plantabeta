@@ -115,7 +115,7 @@
 
 ### Increases Quality
 
-- Increases the quality of the planted Fitons.
+- Increases the quality of the planted Dendrons.
 - Increases the ability of Plantors.
 
 ---

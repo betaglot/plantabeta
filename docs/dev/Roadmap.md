@@ -81,7 +81,7 @@ Test [novel plantor Instruments](dev/Instruments)
 
 🔷<beta>Put(<eko>Ice</eko>)</beta>
 
-- Plant a glacier Fiton
+- Plant a glacier Dendron
 -
 
 🔷<beta>Put(<eko>FireBreak</eko>)</beta>

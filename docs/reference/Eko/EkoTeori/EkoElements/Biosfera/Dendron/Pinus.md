@@ -1,22 +1,6 @@
-# 🟠<move>FitoforPreservation</move>
+# 🟩<eko>Pinus</eko>
 
-## 🕸 FitoforPreservation.Skema
-
-### Related 🟩<eko>Eko</eko>
-
--
-
-### Related 🔻<via>Via</via>
-
--
-
-### Related 🟠<move>Move</move>
-
--
-
-### Related 💜<psike>Psike</psike>
-
--
+Pine
 
 ---
 
@@ -27,5 +11,6 @@
 <!-- =================================================== -->
 ::: details 🛠 <dev>&&&</dev>
 
-- FitoforRepair
+-
+
 :::

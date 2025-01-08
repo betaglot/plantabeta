@@ -1,8 +1,8 @@
-# 🟠 <move>FitoforOff</move>
+# 🟠 <move>DendronTest</move>
 
 ![MoveIkon](/Move/Move_Ikon.png)
 
-## 🕸 FitoforOff.Skema
+## 🕸 DendronTest.Skema
 
 ### Related 🟩<eko>Eko</eko>
 
@@ -29,15 +29,11 @@
 <!-- =================================================== -->
 ::: details 🛠 <dev>&&&</dev>
 
-- AddClothingLayer
-    - AddShellLayer when raining, snowing or windy
-    - Add InsulationLayer when cold
-- RemoveClothingLayer
-    - Remove ShellLayer after rain has passed
-- FitoforDrop
-    - BuckleOff
-    - When Bags are full, a FitoforDrop can cause Spill
-- FallRecovery
-    - FitoforOff when you're Sitting
+-
+
+<h2>PageTags</h2>
+
+- "Move.ManoMove.TreeInspect"
+- "Move.ManoMove.TreeTestMano"
 
 :::

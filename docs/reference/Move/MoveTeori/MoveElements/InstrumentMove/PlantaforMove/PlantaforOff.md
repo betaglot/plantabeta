@@ -1,6 +1,8 @@
-# 🟠 <move>BundleMano</move>
+# 🟠 <move>PlantaforOff</move>
 
-## 🕸 BundleMano.Skema
+![MoveIkon](/Move/Move_Ikon.png)
+
+## 🕸 PlantaforOff.Skema
 
 ### Related 🟩<eko>Eko</eko>
 
@@ -27,6 +29,15 @@
 <!-- =================================================== -->
 ::: details 🛠 <dev>&&&</dev>
 
-- Mano the Wrapper to avoid pulling out a Dendron
+- AddClothingLayer
+    - AddShellLayer when raining, snowing or windy
+    - Add InsulationLayer when cold
+- RemoveClothingLayer
+    - Remove ShellLayer after rain has passed
+- PlantaforDrop
+    - BuckleOff
+    - When Bags are full, a PlantaforDrop can cause Spill
+- FallRecovery
+    - PlantaforOff when you're Sitting
 
 :::

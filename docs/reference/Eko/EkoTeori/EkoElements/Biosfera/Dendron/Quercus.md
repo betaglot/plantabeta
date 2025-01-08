@@ -1,24 +1,6 @@
-# 🟠 <move>FitoforSlide</move>
+# 🟩<eko>Quercus</eko>
 
-![MoveIkon](/Move/Move_Ikon.png)
-
-## 🕸 FitoforSlide.Skema
-
-### Related 🟩<eko>Eko</eko>
-
--
-
-### Related 🔻<via>Via</via>
-
--
-
-### Related 🟠<move>Move</move>
-
--
-
-### Related 💜<psike>Psike</psike>
-
--
+Oak
 
 ---
 

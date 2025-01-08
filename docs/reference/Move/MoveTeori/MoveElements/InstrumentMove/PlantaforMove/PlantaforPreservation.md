@@ -1,6 +1,6 @@
-# 🟠<move>FitoforTransport</move>
+# 🟠<move>PlantaforPreservation</move>
 
-## 🕸 FitoforTransport.Skema
+## 🕸 PlantaforPreservation.Skema
 
 ### Related 🟩<eko>Eko</eko>
 
@@ -27,10 +27,5 @@
 <!-- =================================================== -->
 ::: details 🛠 <dev>&&&</dev>
 
-- Pack the Fitofor
-    - into Crummy
-    - onto Quad
-    - into truck bed
-    - into itself for after the season
-
+- PlantaforRepair
 :::

@@ -1,6 +1,6 @@
-# 🟠 <move>BundleMano</move>
+# 🟠<move>PlantaforTransport</move>
 
-## 🕸 BundleMano.Skema
+## 🕸 PlantaforTransport.Skema
 
 ### Related 🟩<eko>Eko</eko>
 
@@ -27,6 +27,10 @@
 <!-- =================================================== -->
 ::: details 🛠 <dev>&&&</dev>
 
-- Mano the Wrapper to avoid pulling out a Dendron
+- Pack the Plantafor
+    - into Crummy
+    - onto Quad
+    - into truck bed
+    - into itself for after the season
 
 :::

@@ -1,6 +1,8 @@
-# 🟠<move>HandDragSeal</move>
+# 🟠 <move>PlantaforSlide</move>
 
-## 🕸 HandDragSeal.Skema
+![MoveIkon](/Move/Move_Ikon.png)
+
+## 🕸 PlantaforSlide.Skema
 
 ### Related 🟩<eko>Eko</eko>
 
@@ -27,8 +29,6 @@
 <!-- =================================================== -->
 ::: details 🛠 <dev>&&&</dev>
 
-- LockedClawMano
-    - Isometric, not concentric
-- Diagonal or Saggital
+-
 
 :::

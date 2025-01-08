@@ -1,8 +1,6 @@
-# 🟠 <move>FitoforOn</move>
+# 🟠 <move>DendronInsert</move>
 
-![MoveIkon](/Move/Move_Ikon.png)
-
-## 🕸 FitoforOn.Skema
+## 🕸 DendronInsert.Skema
 
 ### Related 🟩<eko>Eko</eko>
 
@@ -29,10 +27,9 @@
 <!-- =================================================== -->
 ::: details 🛠 <dev>&&&</dev>
 
-- StandingFitoforOn
-- SittingFitoforOn
-    - BodyRockUp
-- BuckleMano
-    - You can lift the Fitofor on using BuckleMano if the bags are lightweight
-- ShoulderThread without touching Straps with dirty hands
+- DendronInsert can be an iterative process
+- Dendron1FingerInsert
+- Dendron2FingerInsert
+- Dendron3FingerInsert
+
 :::

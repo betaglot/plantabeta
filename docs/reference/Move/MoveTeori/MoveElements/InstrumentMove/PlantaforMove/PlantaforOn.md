@@ -1,6 +1,8 @@
-# 🟠 <move>BundleMano</move>
+# 🟠 <move>PlantaforOn</move>
 
-## 🕸 BundleMano.Skema
+![MoveIkon](/Move/Move_Ikon.png)
+
+## 🕸 PlantaforOn.Skema
 
 ### Related 🟩<eko>Eko</eko>
 
@@ -27,6 +29,10 @@
 <!-- =================================================== -->
 ::: details 🛠 <dev>&&&</dev>
 
-- Mano the Wrapper to avoid pulling out a Dendron
-
+- StandingPlantaforOn
+- SittingPlantaforOn
+    - BodyRockUp
+- BuckleMano
+    - You can lift the Plantafor on using BuckleMano if the bags are lightweight
+- ShoulderThread without touching Straps with dirty hands
 :::
