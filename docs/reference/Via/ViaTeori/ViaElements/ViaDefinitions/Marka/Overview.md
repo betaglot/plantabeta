@@ -1,8 +1,5 @@
 # 🔻 <via>Marka</via>
 
-Instrument=Markager
-Move=Markaging
-
 MarkaRip
 
 ## MarkaPurpose

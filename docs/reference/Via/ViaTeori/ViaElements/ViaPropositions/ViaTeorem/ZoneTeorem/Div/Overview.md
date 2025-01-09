@@ -1,27 +1,18 @@
-# 🟠<move>SiteSkreef</move>
+# 🔻<via>Div</via>
 
-## Skreef.Anatomy
+> Short for "Division", a Div is any zone which is larger than a Site and smaller than a Piece
 
-- Center
-- Mineral Soil
-- Side
-- Circumference
+Aliases: Area
 
-## SiteSkreef.Attributes
-
-- SkreefSize
-    - SkreefDiameter
-    - SkreefDepth
-
-## 🕸 SiteSkreef.Skema
+## 🕸 Div.Skema
 
 ### Related 🟩<eko>Eko</eko>
 
--
+- NaturalDiv
 
 ### Related 🔻<via>Via</via>
 
-- Cover
+- (AreaPlanting == DivPlan)
 
 ### Related 🟠<move>Move</move>
 
@@ -40,6 +31,6 @@
 <!-- =================================================== -->
 ::: details 🛠 <dev>&&&</dev>
 
-- SiteSkreef is a Move and an Ekon
+- DivPlanting or ParaLine FillPattern. You can't fill an area without walking in lines.
 
 :::

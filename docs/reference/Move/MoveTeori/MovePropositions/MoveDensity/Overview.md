@@ -1,19 +1,6 @@
-# 🟠<move>SiteSkreef</move>
+# 🟠<move>MoveDensity</move>
 
-## Skreef.Anatomy
-
-- Center
-- Mineral Soil
-- Side
-- Circumference
-
-## SiteSkreef.Attributes
-
-- SkreefSize
-    - SkreefDiameter
-    - SkreefDepth
-
-## 🕸 SiteSkreef.Skema
+## 🕸 MoveDensity.Skema
 
 ### Related 🟩<eko>Eko</eko>
 
@@ -21,7 +8,7 @@
 
 ### Related 🔻<via>Via</via>
 
-- Cover
+-
 
 ### Related 🟠<move>Move</move>
 
@@ -40,6 +27,6 @@
 <!-- =================================================== -->
 ::: details 🛠 <dev>&&&</dev>
 
-- SiteSkreef is a Move and an Ekon
+-
 
 :::

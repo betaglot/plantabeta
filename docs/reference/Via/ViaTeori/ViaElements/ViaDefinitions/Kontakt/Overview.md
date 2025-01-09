@@ -1,18 +1,8 @@
 # 🔻 <via>Kontakt</via>
 
-> A surface that a Plantor contacts with any part of their body or with a Instrument.
+> The surface where a Move touches an Ekon
 
-Aliases: Contact point, Contact
-
-## Surface Form
-
-## Surface Attributes
-
-WetSurface
-
-DrySurface
-
-SmoothSurface
+Aliases: Contact point, Contact surface
 
 ## 🕸 Kontakt.Skema
 

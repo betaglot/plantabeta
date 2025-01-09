@@ -1,19 +1,10 @@
-# 🟠<move>SiteSkreef</move>
+# 🔻<via>ParaBorderCoverage</via>
 
-## Skreef.Anatomy
+> Following the Border of a zone which has already been covered.
 
-- Center
-- Mineral Soil
-- Side
-- Circumference
+Aliases: LinePlanting
 
-## SiteSkreef.Attributes
-
-- SkreefSize
-    - SkreefDiameter
-    - SkreefDepth
-
-## 🕸 SiteSkreef.Skema
+## 🕸 ParaBorderCoverage.Skema
 
 ### Related 🟩<eko>Eko</eko>
 
@@ -21,7 +12,7 @@
 
 ### Related 🔻<via>Via</via>
 
-- Cover
+-
 
 ### Related 🟠<move>Move</move>
 
@@ -40,6 +31,9 @@
 <!-- =================================================== -->
 ::: details 🛠 <dev>&&&</dev>
 
-- SiteSkreef is a Move and an Ekon
+- Follow the Trenches with a ParaLine
+- To get the lay of the land during your first BagOut. Especially for pieces which can't be seen
+    - To get a feel for the Space of your piece
+    - To answer "How many trees to the back of your piece?"
 
 :::

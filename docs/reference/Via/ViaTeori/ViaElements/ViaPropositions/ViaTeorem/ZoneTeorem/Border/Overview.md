@@ -1,19 +1,10 @@
-# 🟠<move>SiteSkreef</move>
+# 🔻<via>Border</via>
 
-## Skreef.Anatomy
+> The Limit of a Zone
 
-- Center
-- Mineral Soil
-- Side
-- Circumference
+Aliases: Border, Boundary
 
-## SiteSkreef.Attributes
-
-- SkreefSize
-    - SkreefDiameter
-    - SkreefDepth
-
-## 🕸 SiteSkreef.Skema
+## 🕸 Border.Skema
 
 ### Related 🟩<eko>Eko</eko>
 
@@ -21,7 +12,7 @@
 
 ### Related 🔻<via>Via</via>
 
-- Cover
+-
 
 ### Related 🟠<move>Move</move>
 
@@ -40,6 +31,6 @@
 <!-- =================================================== -->
 ::: details 🛠 <dev>&&&</dev>
 
-- SiteSkreef is a Move and an Ekon
+-
 
 :::

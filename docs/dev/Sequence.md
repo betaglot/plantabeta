@@ -2,9 +2,11 @@
 
 🔷: Sequence
 🟠: Frase
-🟩:
-🔻:
-💜:
+🟩: Terrain
+🔻: Coverage
+💜: Process
+
+- Analogy(Series, {Via: Coverage, Move: Frase, Eko: Terrain, Psike: Process, Beta: Sequence})
 
 ## Concurrency or Parallelism
 

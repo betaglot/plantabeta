@@ -1,6 +1,6 @@
-# 🔻 <via>Via</via>
+# 🔻 <via>Line</via>
 
-> A line is a sequence of Via
+>
 
 Aliases: Path, Way, Route, Passage, Trail
 

@@ -1,19 +1,10 @@
-# 🟠<move>SiteSkreef</move>
+# 🔻 <via>ZoneMarka</via>
 
-## Skreef.Anatomy
+## Cut line
 
-- Center
-- Mineral Soil
-- Side
-- Circumference
+![ViaIkon](/Via/Via_Ikon.png)
 
-## SiteSkreef.Attributes
-
-- SkreefSize
-    - SkreefDiameter
-    - SkreefDepth
-
-## 🕸 SiteSkreef.Skema
+## 🕸 BoundaryMarka.Skema
 
 ### Related 🟩<eko>Eko</eko>
 
@@ -21,7 +12,7 @@
 
 ### Related 🔻<via>Via</via>
 
-- Cover
+-
 
 ### Related 🟠<move>Move</move>
 
@@ -40,6 +31,7 @@
 <!-- =================================================== -->
 ::: details 🛠 <dev>&&&</dev>
 
-- SiteSkreef is a Move and an Ekon
+- ZoneMarka marks within a Zone
+- BorderMarka marks the limits of an Zone
 
 :::
