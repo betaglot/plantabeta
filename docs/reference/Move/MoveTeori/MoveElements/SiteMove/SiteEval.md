@@ -1,11 +1,24 @@
-# PolygonFill
+# 🟠<move>SiteEval</move>
 
-- Triad Isomorphism Classes
+Aliases: Test, Probe, Validate, Verify, Examine
 
-- Plant hexagons
+## 🕸 SiteEval.Skema
 
-Move on a hexagonal grid like CGP grey YouTube
-<https://youtu.be/bgR3yESAEVE>
+### Related 🟩<eko>Eko</eko>
+
+-
+
+### Related 🔻<via>Via</via>
+
+-
+
+### Related 🟠<move>Move</move>
+
+-
+
+### Related 💜<psike>Psike</psike>
+
+-
 
 ---
 
@@ -16,6 +29,8 @@ Move on a hexagonal grid like CGP grey YouTube
 <!-- =================================================== -->
 ::: details 🛠 <dev>&&&</dev>
 
-- You plant polygons even when you're
+-
+- DrySiltSoil must be compressed before Impact to prevent tree lean
+    - Near GraybackMountain
 
 :::

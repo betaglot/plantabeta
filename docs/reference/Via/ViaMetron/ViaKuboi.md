@@ -20,7 +20,7 @@
 - Small <via>Via</via> Surface Size
 - HiddenContact
     - Blind <via>Contact</via>
-    - Blindfolding can a ForcedBeta. Vision is a NeuroFactor which can be removed.
+    - Blindfolding can a ForcedBeta. Vision is a PsikeElement which can be removed.
     - Blind Landing
 - A <via>Via</via> with dead ends.
 - Forced <via>Via</via> sequence

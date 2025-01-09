@@ -3,7 +3,7 @@
 
 ![Psike_Ikon](/Psike/Psike_Ikon.png)
 
-## Related 🟩<eko>EcoFactors</eko>
+## Related 🟩<eko>EkoElements</eko>
 
 -
 
@@ -17,7 +17,7 @@
 
 ## See also:
 
-Links to other related NeuroFactors.
+Links to other related PsikeElements.
 ::: details External References
 
 - One

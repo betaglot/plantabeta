@@ -41,7 +41,7 @@ Select:
     src="https://observablehq.com/embed/@d3/force-directed-graph/2?cells=chart"
 ></iframe>
 
-## Related <eko>EcoFactors</eko>🟩
+## Related <eko>EkoElements</eko>🟩
 
 ## Related <move>MoveElements</move>
 
@@ -59,7 +59,7 @@ Quotes about this Element
 
 ## See also
 
-Links to other related EcoFactors. Related because they are the same EcoType or because they are performed at the same time or within the same Frase.
+Links to other related EkoElements. Related because they are the same EcoType or because they are performed at the same time or within the same Frase.
 ::: details External References
 
 - One

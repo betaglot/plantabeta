@@ -73,13 +73,13 @@ Based on Gymnastics Elements. Elements are completed using Beta Factors. Multipl
 - 🔷Skreef
 - 🔷Rework
 
-### <move>MoveFactor</move>
+### <move>MoveElement</move>
 
-### <eko>EcoFactor</eko>
+### <eko>EkoElement</eko>
 
 ### <via>ViaFactor</via>
 
-### <psike>NeuroFactor</psike>
+### <psike>PsikeElement</psike>
 
 ## <beta>What is a BetaInstance?</beta>
 
@@ -198,6 +198,6 @@ Via Theorem, Via Solution
 
 Via just gives the options, Beta is required to Solve, since solution requires Move. Beta occurs when more than module is required in 1stPersonPoint of view. Plantor's perspective.
 
-Psike that just thinks about NeuroFactors
+Psike that just thinks about PsikeElements
 
 :::

@@ -88,6 +88,10 @@ Lash D to Doru
 
 Plantafors are not planting bags, in the same way that a Jeep is not a Model-T
 
+### Patagonia
+
+Email Ottawa franchise of Patagonia. Then you can communicate in person and probably to a Canadian
+
 ### InstrumentRequirements()
 
 ### Bags Transport Configuration
@@ -108,8 +112,10 @@ Somehow use Plantafor to carry a PieceCache
 - Carbon Fiber
 -
 
-### 🟠<move>WaistbeltDev</move>
+### 🟠<move>BeltDev</move>
 
+- Rope which flows into frame
+- Custom and adjust by knot like harness
 - Suspension System
 
 ### 🟠<move>BasketWallDev</move>
@@ -415,6 +421,8 @@ Exchangeable Air Filter on Intake Valve
 One Way Valve
 
 ### 🟠<eko>Cape</eko>
+
+Poncho
 
 Cape which can be stowed in shoulder straps
 

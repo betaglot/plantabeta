@@ -1,8 +1,8 @@
 # 🔻<via>Plan</via>
 
-> A plan to complete the zone by using Lines, Divs, Deadwalking, Marka
+> A plan to complete the zone by using Lines, Zones, Deadwalking, Marka
 
-Aliases: Coverage Path Planning,
+Aliases: Coverage Path Planning, Fill Pattern
 
 Piece FillPattern
 
@@ -19,6 +19,9 @@ BlockFill Pattern plantors usually it's only supervisors that need to know Block
 <!-- =================================================== -->
 ::: details 🛠 <dev>&&&</dev>
 
+- Differentiate(Plan, Line, SitePolygon)
+    - A Plan is composed of Lines and Zones
+    - A Line is composed of SitePolygons
 - Plan can mean Map
 - Fill it from the Back
 - AreaPlanting

@@ -470,7 +470,7 @@ Syntax: `Move.AnteMove`
 
 ### Move.Eko
 
-Where in Eko is this Move performed and on what EcoFactor. Put "the ground" if necessary. Nothing is too obvious in formal languages!
+Where in Eko is this Move performed and on what EkoElement. Put "the ground" if necessary. Nothing is too obvious in formal languages!
 
 ### Move.Psike
 

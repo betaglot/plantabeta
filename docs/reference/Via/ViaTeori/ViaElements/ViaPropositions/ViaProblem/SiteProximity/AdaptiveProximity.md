@@ -1,4 +1,8 @@
-# 🔻 <via>ElasticProximity</via>
+# 🔻 <via>AdaptiveProximity</via>
+
+> Site proximity which changes in response to changing Eko
+
+Aliases: Reactive Spacing, Responsive Spacing, Flexible Spacing
 
 ![ViaIkon](/Via/Via_Ikon.png)
 
@@ -12,20 +16,20 @@ Graph which represents how this element is related to other elements in PlantaBe
     src="https://observablehq.com/embed/@d3/force-directed-graph/2?cells=chart"
 ></iframe>
 
-## EcoFactors
+## EkoElements
 
 - StumpCluster
 - EcoSlopeAngle
 
-## NeuroFactors
+## PsikeElements
 
 - WorkingMemory
 
-## MoveFactors
+## MoveElements
 
-- MoveSize.
-- LookAt.
-- ExtraStep.
+- MoveSize
+- LookAt
+- ExtraStep
 
 ## Examples
 

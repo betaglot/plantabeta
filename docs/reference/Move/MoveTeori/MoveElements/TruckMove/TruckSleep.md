@@ -34,7 +34,7 @@ HubermanLab Guest Series [with Dr. Matt Walker](https://www.youtube.com/playlist
 
 - After work
 
-## Related 🟩<eko>EcoFactors</eko>
+## Related 🟩<eko>EkoElements</eko>
 
 - Bumpy road
 

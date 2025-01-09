@@ -81,7 +81,7 @@ class SpadeImpact(Move):
 
 A more accurate name for "variable" is "assignable" since many variables don't vary, they remain constant after being assigned a value
 
-Instantiate and EcoFactor with an empty string for Via
+Instantiate and EkoElement with an empty string for Via
 
 ```py
 

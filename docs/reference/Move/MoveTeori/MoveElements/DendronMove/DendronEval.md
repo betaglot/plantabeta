@@ -1,8 +1,8 @@
-# 🟠<move>SiteInspect</move>
+# 🟠 <move>DendronEval</move>
 
-Aliases: Test, Probe, Validate, Verify, Examine
+![MoveIkon](/Move/Move_Ikon.png)
 
-## 🕸 SiteInspect.Skema
+## 🕸 DendronEval.Skema
 
 ### Related 🟩<eko>Eko</eko>
 
@@ -29,7 +29,14 @@ Aliases: Test, Probe, Validate, Verify, Examine
 <!-- =================================================== -->
 ::: details 🛠 <dev>&&&</dev>
 
-- DrySiltSoil must be compressed before Impact to prevent tree lean
-    - Near GraybackMountain
+- Evaluate the Quality of a Dendron
+    - LooseDendron
+    - ShallowDendron
+    - LeaningDendron
+
+<h2>PageTags</h2>
+
+- "Move.ManoMove.TreeInspect"
+- "Move.ManoMove.TreeTestMano"
 
 :::

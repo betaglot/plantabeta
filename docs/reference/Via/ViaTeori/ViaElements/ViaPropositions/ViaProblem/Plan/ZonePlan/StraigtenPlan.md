@@ -1,12 +1,4 @@
-# 🔻<via>Obstacle</via>
-
-> a thing that blocks one's way or prevents or hinders progress.
-
-An object is only an obstacle if it hinders your Via.
-
-## Obstacle for Atlete
-
-- An object which prevents a you from moving along an optimal Via.
+# 🔻<via>StraigtenPlan</via>
 
 ---
 
@@ -17,7 +9,6 @@ An object is only an obstacle if it hinders your Via.
 <!-- =================================================== -->
 ::: details 🛠 <dev>&&&</dev>
 
-- Decreases Space
-- Blocks Optimal Line
+- Fill the piece so that you will eventually be filling by straight line from the cache. Only works on FlatLand
 
 :::

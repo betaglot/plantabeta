@@ -118,3 +118,16 @@ Have an Experienced Plantor plant with novicePlantor as a practical demonstratio
 Active recall while planting
 
 Recall what you learned during the morning truck ride
+
+---
+
+<!-- =================================================== -->
+<!-- =================================================== -->
+<!-- =================================================== -->
+<!-- =================================================== -->
+<!-- =================================================== -->
+::: details 🛠 <dev>&&&</dev>
+
+- Programming instead of curriculum
+
+:::

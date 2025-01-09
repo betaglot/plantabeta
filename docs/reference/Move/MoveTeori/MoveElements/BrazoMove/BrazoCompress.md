@@ -1,29 +1,22 @@
+# 🟠<move>BrazoCompress</move>
 
-# <psike>Working Memory</psike>
+## 🕸 BrazoCompress.Skema
 
-![Psike_Ikon](/Psike/Psike_Ikon.png)
-
-## Related 🟩<eko>EkoElements</eko>
-
--
-
-## Related <via>ViaFactors</via>
+### Related 🟩<eko>Eko</eko>
 
 -
 
-## Examples
+### Related 🔻<via>Via</via>
 
-- Use Media donated by Plantors.
+-
 
-## See also:
+### Related 🟠<move>Move</move>
 
-Links to other related PsikeElements.
-::: details External References
+-
 
-- One
-- Two
-- Three
-:::
+### Related 💜<psike>Psike</psike>
+
+-
 
 ---
 
@@ -34,6 +27,8 @@ Links to other related PsikeElements.
 <!-- =================================================== -->
 ::: details 🛠 <dev>&&&</dev>
 
--
+- ArmClamp
+- Jouster
+- ArmPit
 
 :::

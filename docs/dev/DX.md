@@ -186,13 +186,13 @@ Plantbeta a beta script. PlantaBeta creates the Attributes of ManoMove, like how
 
 - To put it simply, coding lets you create a program, while scripting lets you control a program that was created with coding
 
-EcoFactor
+EkoElement
 
 ViaFactor
 
-MoveFactor
+MoveElement
 
-NeuroFactor
+PsikeElement
 
 All Elements are objects
 

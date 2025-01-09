@@ -138,6 +138,7 @@ Directions
 <!-- =================================================== -->
 ::: details 🛠 <dev>&&&</dev>
 
+- Ambulance drivers are masters of via
 - IsochroneMap
 - Request cache move
 - SquirrelCache -> PieceCache
@@ -160,7 +161,7 @@ Directions
 
 - Via is Superimposed onto Eko.
 - `IsPlanted(Eko{})`
-    - Look to see if an EcoFactor is planted
+    - Look to see if an EkoElement is planted
 
 ## Update your Via
 

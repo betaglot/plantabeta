@@ -27,6 +27,7 @@
 <!-- =================================================== -->
 ::: details 🛠 <dev>&&&</dev>
 
+- MoveAxiom: walking downhill is easier than walking up hill
 - Stand is the most basic move
 - PathOfLeastResistance
 - NewtonLaw

@@ -41,6 +41,7 @@ SmoothSurface
 <!-- =================================================== -->
 ::: details 🛠 <dev>&&&</dev>
 
+- All Kontakts emit sound
 - Kontakts are not necessarily contiguous, like stepping stones
 - Kontakts are exposures of Soil in the Land. Sometimes you must Skreef to expose a Kontakt
 - Kontakts for Move are less

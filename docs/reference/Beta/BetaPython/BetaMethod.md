@@ -75,7 +75,7 @@ With BareRoots you must often curl the roots into the hole
 
 ### 🔷<beta>Put(<via>Marka</via>)</beta>
 
-> to place a Marka on an EcoFactor
+> to place a Marka on an EkoElement
 
 <via>MarkaSite</via> is a ViaPoint
 
@@ -113,7 +113,7 @@ Trees/Time
 
 ### 🔷<beta>Get(<eko>Plant</eko>)</beta>
 
-> to obtain an EcoFactor
+> to obtain an EkoElement
 
 #### 🔷<beta>Get(<eko>Tree</eko>)</beta>
 

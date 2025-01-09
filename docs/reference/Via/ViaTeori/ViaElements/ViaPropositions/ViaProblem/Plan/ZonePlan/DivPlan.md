@@ -1,29 +1,8 @@
+# 🔻<via>DivPlan</via>
 
-# <psike>Working Memory</psike>
+Aliases: Area Planting
 
-![Psike_Ikon](/Psike/Psike_Ikon.png)
-
-## Related 🟩<eko>EkoElements</eko>
-
--
-
-## Related <via>ViaFactors</via>
-
--
-
-## Examples
-
-- Use Media donated by Plantors.
-
-## See also:
-
-Links to other related PsikeElements.
-::: details External References
-
-- One
-- Two
-- Three
-:::
+Complete the Zone by dividing it into Divs, then filling each Div at a time
 
 ---
 

@@ -2,6 +2,8 @@
 
 > a situation, or thing that needs attention and needs to be dealt with or solved by Via
 
+> an inquiry starting from given conditions to investigate or demonstrate a fact, result, or law.
+
 You use ViaTheorems or other ViaProblems to solve ViaProblems.
 
 ViaProblems are created by Eko.

@@ -1,11 +1,12 @@
-# PolygonFill
+# 🔻<via>Obstacle</via>
 
-- Triad Isomorphism Classes
+> a thing that blocks one's way or prevents or hinders progress.
 
-- Plant hexagons
+An object is only an obstacle if it hinders your Via.
 
-Move on a hexagonal grid like CGP grey YouTube
-<https://youtu.be/bgR3yESAEVE>
+## Obstacle for Atlete
+
+- An object which prevents a you from moving along an optimal Via.
 
 ---
 
@@ -16,6 +17,9 @@ Move on a hexagonal grid like CGP grey YouTube
 <!-- =================================================== -->
 ::: details 🛠 <dev>&&&</dev>
 
-- You plant polygons even when you're
+- A Zone which can't be traversed
+    - A Zone which can't be planted
+- Decreases Space
+- Blocks Optimal Line
 
 :::
