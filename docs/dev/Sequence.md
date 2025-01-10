@@ -1,12 +1,16 @@
 # 🔷<dev>Sequence</dev>
 
-🔷: Sequence
-🟠: Frase
-🟩: Terrain
-🔻: Coverage
-💜: Process
+The Sequences of each BetaTipos
 
-- Analogy(Series, {Via: Coverage, Move: Frase, Eko: Terrain, Psike: Process, Beta: Sequence})
+🔷: Moment is composed of Instants
+🟠: Frase is composed of Moves
+🟩: Eko is composed of Ekons
+🔻: Via is composed of Viums
+💜: Processes composed of Experiences
+
+
+
+- Analogy(Sequence, {Via: Via, Move: Frase, Eko: Eko, Psike: Process, Beta: Sequence})
 
 ## Concurrency or Parallelism
 
