@@ -6,6 +6,7 @@
 - Collar
 - Shaft
 - Handle
+- Tab
 
 ## Spade Attributes
 

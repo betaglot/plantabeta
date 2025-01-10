@@ -40,7 +40,7 @@
 - "Move.BodyMove.BodyLock"
 - "Move.BodyMove.BodyPosture"
 - "Move.BodyMove.Landing"
-- "Move.BodyMove.Landing.MoveError.LegProp"
+- "Move.BodyMove.Landing.MoveError.BaseAma"
 - "Move.BodyMove.Mantle"
 - "Move.BodyMove.Overview"
 - "Move.BodyMove.Stemming"

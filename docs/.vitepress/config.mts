@@ -327,7 +327,7 @@ export default defineConfig({
 //         {
 //           text: '🟠 <move>ArmMove</move>', link: '/encyclopedia/Move/ArmMove/Overview', collapsed: true, items: [
 //             { text: '🟠 <move>Arm Frase</move>', link: '/encyclopedia/Move/ArmMove/Frase/Overview' },
-//             { text: '🟠 <move>ArmProp</move>', link: '/encyclopedia/Move/ArmMove/ArmProp' },
+//             { text: '🟠 <move>BrazoAma</move>', link: '/encyclopedia/Move/ArmMove/BrazoAma' },
 //             { text: '🟠 <move>ArmKurve</move>', link: '/encyclopedia/Move/ArmMove/ArmKurve' },
 //             { text: '🟠 <move>ArmWalk</move>', link: '/encyclopedia/Move/ArmMove/ArmWalk' },
 //             { text: '🟠 <move>ArmBalance</move>', link: '/encyclopedia/Move/ArmMove/ArmBalance' },
@@ -423,7 +423,7 @@ export default defineConfig({
 //             { text: '🟠 <move>LegAdduction</move>', link: '/encyclopedia/Move/LegMove/LegAdduction' },
 //             { text: '🟠 <move>LegFlap</move>', link: '/encyclopedia/Move/LegMove/LegFlap' },
 //             { text: '🟠 <move>LegFlexion</move>', link: '/encyclopedia/Move/LegMove/LegFlexion' },
-//             { text: '🟠 <move>LegProp</move>', link: '/encyclopedia/Move/LegMove/LegProp' },
+//             { text: '🟠 <move>BaseAma</move>', link: '/encyclopedia/Move/LegMove/BaseAma' },
 //             { text: '🟠 <move>LegSidebagLift</move>', link: '/encyclopedia/Move/LegMove/LegSidebagLift' },
 //             { text: '🟠 <move>LegKurve</move>', link: '/encyclopedia/Move/LegMove/LegKurve' },
 //             { text: '🟠 <move>RunningStart</move>', link: '/encyclopedia/Move/LegMove/RunningStart' },
@@ -534,7 +534,7 @@ export default defineConfig({
 //                 { text: '🟠 <move>SpadePogo</move>', link: '/encyclopedia/Move/ToolMove/Spade/SpadePogo' },
 //                 { text: '🟠 <move>SpadePoke</move>', link: '/encyclopedia/Move/ToolMove/Spade/SpadePoke' },
 //                 { text: '🟠 <move>SpadePost</move>', link: '/encyclopedia/Move/ToolMove/Spade/SpadePost' },
-//                 { text: '🟠 <move>SpadeProp</move>', link: '/encyclopedia/Move/ToolMove/Spade/SpadeProp' },
+//                 { text: '🟠 <move>SpadeAma</move>', link: '/encyclopedia/Move/ToolMove/Spade/SpadeAma' },
 //                 { text: '🟠 <move>SpadeRotate</move>', link: '/encyclopedia/Move/ToolMove/Spade/SpadeRotate' },
 //                 { text: '🟠 <move>SpadeSkreef</move>', link: '/encyclopedia/Move/ToolMove/Spade/SpadeSkreef' },
 //                 { text: '🟠 <move>SpadeImpact</move>', link: '/encyclopedia/Move/ToolMove/Spade/SpadeImpact' },

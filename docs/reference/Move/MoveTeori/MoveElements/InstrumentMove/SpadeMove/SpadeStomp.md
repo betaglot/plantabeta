@@ -27,6 +27,9 @@
 <!-- =================================================== -->
 ::: details 🛠 <dev>&&&</dev>
 
--
+- FootArchSmear(SpadeTab)
+- SpadePogo
+- HardSoil
+- SpadeDilate
 
 :::

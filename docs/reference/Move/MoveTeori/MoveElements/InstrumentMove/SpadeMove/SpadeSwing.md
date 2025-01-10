@@ -1,8 +1,8 @@
-# 🟠 <move>SpadeKurve</move>
+# 🟠 <move>SpadeSwing</move>
 
 ![MoveIkon](/Move/Move_Ikon.png)
 
-## 🕸 SpadeKurve.Skema
+## 🕸 SpadeSwing.Skema
 
 ### Related 🟩<eko>Eko</eko>
 
@@ -29,16 +29,23 @@
 <!-- =================================================== -->
 ::: details 🛠 <dev>&&&</dev>
 
-- SpadeKurve leads with Handle
-- SpadeAnteriorKurve
+- SpadeSwing out of a Mound, to SpadeAnkor to SpadeMuscleUp to get out of Mound
+- SpadeSwing over an Obstacle
+- SpadeSwing around an Obstacle
+- SpadeRedirectionSwing
+- SpadePronationSwing
+- SpadeSupinationSwing
+- SpadeUpSwing
+- SpadeSwing leads with Handle
+- SpadeAnteriorSwing
     - To initiate Walk
-- SpadePosteriorKurve
-- SpadeLateralKurve
-- (SpadeCircumductionKurve == SpadeSpiralKurve)
+- SpadePosteriorSwing
+- SpadeLateralSwing
+- (SpadeCircumductionSwing == SpadeSpiralSwing)
 
 <h2>PageTags</h2>
 
 - "Move.InstrumentMove.SpadeMove.SpadeCircumduction"
-- "Move.InstrumentMove.SpadeMove.SpadeKurve"
+- "Move.InstrumentMove.SpadeMove.SpadeSwing"
 
 :::

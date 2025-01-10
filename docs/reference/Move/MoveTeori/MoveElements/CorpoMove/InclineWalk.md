@@ -32,7 +32,7 @@
 
 - InclineTraverseWalk
     - LeanIntoIncline
-        - ArmProp
+        - BrazoAma
         - SpadeAmble
         - BranchMano to minimize DownSlopeForces on Foot to prevent FootSlip
     - Spade on UpSlope side

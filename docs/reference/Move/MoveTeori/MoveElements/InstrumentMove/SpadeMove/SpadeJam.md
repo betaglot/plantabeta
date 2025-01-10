@@ -1,11 +1,22 @@
-# 🔻<via>CompletionLimit</via>
+# 🟠<move>SpadeJam</move>
 
-The Limit of the zone which has already been planted
+## 🕸 SpadeJam.Skema
 
-If you haven't planted anything in your Piece, then the CompletionLimit is the PieceBoundary
+### Related 🟩<eko>Eko</eko>
 
-## Quote
+-
 
+### Related 🔻<via>Via</via>
+
+-
+
+### Related 🟠<move>Move</move>
+
+-
+
+### Related 💜<psike>Psike</psike>
+
+-
 
 ---
 
@@ -16,11 +27,8 @@ If you haven't planted anything in your Piece, then the CompletionLimit is the P
 <!-- =================================================== -->
 ::: details 🛠 <dev>&&&</dev>
 
-- Zone is Complete
-- CompleteZone
-- ZoneCompleted
-- ZoneCompletion
-- the zone is Completed up to the Creek
-- There is a hole, so this Zone isn't complete
+- Crack Climbing
+- Jam between Logs
+- Jam and Twist
 
 :::

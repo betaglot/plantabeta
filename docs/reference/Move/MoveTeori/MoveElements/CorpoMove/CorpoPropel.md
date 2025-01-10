@@ -1,11 +1,25 @@
-# 🔻<via>CompletionLimit</via>
+# 🟠 <move>SuperPropel</move>
 
-The Limit of the zone which has already been planted
+- Superman Punch
+- 300 Spartan Jumping Thrust
 
-If you haven't planted anything in your Piece, then the CompletionLimit is the PieceBoundary
+## 🕸 SuperPropel.Skema
 
-## Quote
+### Related 🟩<eko>Eko</eko>
 
+-
+
+### Related 🔻<via>Via</via>
+
+-
+
+### Related 🟠<move>Move</move>
+
+-
+
+### Related 💜<psike>Psike</psike>
+
+-
 
 ---
 
@@ -16,11 +30,6 @@ If you haven't planted anything in your Piece, then the CompletionLimit is the P
 <!-- =================================================== -->
 ::: details 🛠 <dev>&&&</dev>
 
-- Zone is Complete
-- CompleteZone
-- ZoneCompleted
-- ZoneCompletion
-- the zone is Completed up to the Creek
-- There is a hole, so this Zone isn't complete
+-
 
 :::

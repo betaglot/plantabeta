@@ -558,7 +558,7 @@ guide/Why/Wildfire.md, Guide.Why.Wildfire
 media/Overview.md, Reference.Gallery
 Move/ArmMove/ArmBlock.md, Move.ArmMove.ArmBlock
 Move/ArmMove/ArmBalance.md, Move.ArmMove.ArmBalance
-Move/ArmMove/ArmProp.md, Move.ArmMove.ArmProp
+Move/ArmMove/BrazoAma.md, Move.ArmMove.BrazoAma
 Move/ArmMove/ArmSidebagLift.md, Move.ArmMove.ArmSidebagLift
 Move/ArmMove/ArmKurve.md, Move.ArmMove.ArmKurve
 Move/ArmMove/ArmWalk.md, Move.ArmMove.ArmWalk
@@ -597,7 +597,7 @@ Move/BodyMove/Overview.md, Move.BodyMove.BodyDrop.BodyDropInto
 Move/BodyMove/Overview.md, Move.BodyMove.BodyLock
 Move/BodyMove/Overview.md, Move.BodyMove.BodyPosture
 Move/BodyMove/Overview.md, Move.BodyMove.Landing
-Move/BodyMove/Overview.md, Move.BodyMove.Landing.MoveError.LegProp
+Move/BodyMove/Overview.md, Move.BodyMove.Landing.MoveError.BaseAma
 Move/BodyMove/Overview.md, Move.BodyMove.Mantle
 Move/BodyMove/Overview.md, Move.BodyMove.Overview
 Move/BodyMove/Overview.md, Move.BodyMove.Stemming
@@ -702,7 +702,7 @@ Move/LegMove/LegAbsorb.md, Move.LegMove.LegAbsorb
 Move/LegMove/LegAdduction.md, Move.LegMove.LegAdduction
 Move/LegMove/LegMarka.md, Move.LegMove.LegMarka
 Move/LegMove/LegFlexion.md, Move.LegMove.LegFlexion
-Move/LegMove/LegProp.md, Move.LegMove.LegProp
+Move/LegMove/BaseAma.md, Move.LegMove.BaseAma
 Move/LegMove/LegSidebagLift.md, Move.LegMove.LegSidebagLift
 Move/LegMove/LegKurve.md, Move.LegMove.LegKurve
 Move/LegMove/Overview.md, Move.LegMove.HighFoot
@@ -986,7 +986,7 @@ Move/ToolMove/Spade/Overview.md, Move.ToolMove.SpadeMove.SpadePush
 Move/ToolMove/Spade/Overview.md, Move.ToolMove.SpadeMove.SpadeUnplant
 Move/ToolMove/Spade/SpadeChop.md, Move.ToolMove.SpadeMove.SpadeChop
 Move/ToolMove/Spade/SpadePogo.md, Move.ToolMove.SpadeMove.SpadePogo
-Move/ToolMove/Spade/SpadeProp.md, Move.ToolMove.SpadeMove.SpadeProp
+Move/ToolMove/Spade/SpadeAma.md, Move.ToolMove.SpadeMove.SpadeAma
 Move/ToolMove/Spade/SpadeSkreef.md, Move.ToolMove.SpadeMove.SpadeSkreef
 Move/ToolMove/Spade/SpadeFrase.md, Move.ToolMove.SpadeMove.SpadeSwap
 Move/ToolMove/Spade/SpadeImpact.md, Move.ToolMove.SpadeMove.SpadeImpact

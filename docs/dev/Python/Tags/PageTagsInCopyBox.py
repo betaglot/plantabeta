@@ -746,8 +746,8 @@ tags = {
     "Move/ArmMove/ArmBalance.md": [
         "Move.ArmMove.ArmBalance"
     ],
-    "Move/ArmMove/ArmProp.md": [
-        "Move.ArmMove.ArmProp"
+    "Move/ArmMove/BrazoAma.md": [
+        "Move.ArmMove.BrazoAma"
     ],
     "Move/ArmMove/ArmFrase.md": [],
     "Move/ArmMove/ArmSidebagLift.md": [
@@ -819,7 +819,7 @@ tags = {
         "Move.BodyMove.BodyLock",
         "Move.BodyMove.BodyPosture",
         "Move.BodyMove.Landing",
-        "Move.BodyMove.Landing.MoveError.LegProp",
+        "Move.BodyMove.Landing.MoveError.BaseAma",
         "Move.BodyMove.Mantle",
         "Move.BodyMove.Overview",
         "Move.BodyMove.Stemming",
@@ -1061,8 +1061,8 @@ tags = {
     "Move/LegMove/LegFlexion.md": [
         "Move.LegMove.LegFlexion"
     ],
-    "Move/LegMove/LegProp.md": [
-        "Move.LegMove.LegProp"
+    "Move/LegMove/BaseAma.md": [
+        "Move.LegMove.BaseAma"
     ],
     "Move/LegMove/LegFrase.md": [],
     "Move/LegMove/LegSidebagLift.md": [
@@ -1460,8 +1460,8 @@ tags = {
     "Move/InstrumentMove/Spade/SpadePogo.md": [
         "Move.InstrumentMove.SpadeMove.SpadePogo"
     ],
-    "Move/InstrumentMove/Spade/SpadeProp.md": [
-        "Move.InstrumentMove.SpadeMove.SpadeProp"
+    "Move/InstrumentMove/Spade/SpadeAma.md": [
+        "Move.InstrumentMove.SpadeMove.SpadeAma"
     ],
     "Move/InstrumentMove/Spade/SpadeSkreef.md": [
         "Move.InstrumentMove.SpadeMove.SpadeSkreef"

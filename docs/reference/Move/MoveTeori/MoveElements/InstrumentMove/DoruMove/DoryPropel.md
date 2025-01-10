@@ -1,6 +1,6 @@
-# 🟠<move>DoruSlam</move>
+# 🟠<move>DoruPropel</move>
 
-## 🕸 DoruSlam.Skema
+## 🕸 DoruPropel.Skema
 
 ### Related 🟩<eko>Eko</eko>
 

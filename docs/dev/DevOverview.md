@@ -468,8 +468,8 @@ Download Printable resources
                         "link": "/reference/Move/ArmMove/Frase/Overview"
                     },
                     {
-                        "text": "ArmProp",
-                        "link": "/reference/Move/ArmMove/ArmProp"
+                        "text": "BrazoAma",
+                        "link": "/reference/Move/ArmMove/BrazoAma"
                     },
                     {
                         "text": "ArmKurve",
@@ -780,8 +780,8 @@ Download Printable resources
                         "link": "/reference/Move/LegMove/LegFlexion"
                     },
                     {
-                        "text": "LegProp",
-                        "link": "/reference/Move/LegMove/LegProp"
+                        "text": "BaseAma",
+                        "link": "/reference/Move/LegMove/BaseAma"
                     },
                     {
                         "text": "LegSidebagLift",
@@ -1109,8 +1109,8 @@ Download Printable resources
                                 "link": "/reference/Move/ToolMove/Spade/SpadePost"
                             },
                             {
-                                "text": "SpadeProp",
-                                "link": "/reference/Move/ToolMove/Spade/SpadeProp"
+                                "text": "SpadeAma",
+                                "link": "/reference/Move/ToolMove/Spade/SpadeAma"
                             },
                             {
                                 "text": "SpadeRotate",

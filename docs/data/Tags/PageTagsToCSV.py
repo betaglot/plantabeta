@@ -746,8 +746,8 @@ json = {
     "Move/ArmMove/ArmBalance.md": [
         "Move.ArmMove.ArmBalance"
     ],
-    "Move/ArmMove/ArmProp.md": [
-        "Move.ArmMove.ArmProp"
+    "Move/ArmMove/BrazoAma.md": [
+        "Move.ArmMove.BrazoAma"
     ],
     "Move/ArmMove/ArmFrase.md": [],
     "Move/ArmMove/ArmSidebagLift.md": [
@@ -819,7 +819,7 @@ json = {
         "Move.BodyMove.BodyLock",
         "Move.BodyMove.BodyPosture",
         "Move.BodyMove.Landing",
-        "Move.BodyMove.Landing.MoveError.LegProp",
+        "Move.BodyMove.Landing.MoveError.BaseAma",
         "Move.BodyMove.Mantle",
         "Move.BodyMove.Overview",
         "Move.BodyMove.Stemming",
@@ -1061,8 +1061,8 @@ json = {
     "Move/LegMove/LegFlexion.md": [
         "Move.LegMove.LegFlexion"
     ],
-    "Move/LegMove/LegProp.md": [
-        "Move.LegMove.LegProp"
+    "Move/LegMove/BaseAma.md": [
+        "Move.LegMove.BaseAma"
     ],
     "Move/LegMove/LegFrase.md": [],
     "Move/LegMove/LegSidebagLift.md": [
@@ -1460,8 +1460,8 @@ json = {
     "Move/ToolMove/Spade/SpadePogo.md": [
         "Move.ToolMove.SpadeMove.SpadePogo"
     ],
-    "Move/ToolMove/Spade/SpadeProp.md": [
-        "Move.ToolMove.SpadeMove.SpadeProp"
+    "Move/ToolMove/Spade/SpadeAma.md": [
+        "Move.ToolMove.SpadeMove.SpadeAma"
     ],
     "Move/ToolMove/Spade/SpadeSkreef.md": [
         "Move.ToolMove.SpadeMove.SpadeSkreef"

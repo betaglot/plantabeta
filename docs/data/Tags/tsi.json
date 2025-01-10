@@ -13479,7 +13479,7 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Move.ArmMove.ArmProp",
+                    "title": "Move.ArmMove.BrazoAma",
                     "color": "#ff7537ff",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -13491,7 +13491,7 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Move.LegMove.LegProp",
+                    "title": "Move.LegMove.BaseAma",
                     "color": "#ff7537ff",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -13591,7 +13591,7 @@
                 "textcolor": "white"
             },
             {
-                "title": "Move.ArmMove.ArmProp",
+                "title": "Move.ArmMove.BrazoAma",
                 "color": "#ff7537ff",
                 "textcolor": "white"
             },
@@ -13601,7 +13601,7 @@
                 "textcolor": "white"
             },
             {
-                "title": "Move.LegMove.LegProp",
+                "title": "Move.LegMove.BaseAma",
                 "color": "#ff7537ff",
                 "textcolor": "white"
             },
@@ -20753,7 +20753,7 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Move.LegMove.LegProp",
+                    "title": "Move.LegMove.BaseAma",
                     "color": "#ff7537ff",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -20810,7 +20810,7 @@
                 "textcolor": "white"
             },
             {
-                "title": "Move.LegMove.LegProp",
+                "title": "Move.LegMove.BaseAma",
                 "color": "#ff7537ff",
                 "textcolor": "white"
             },
@@ -30769,7 +30769,7 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Move.LegMove.LegProp",
+                    "title": "Move.LegMove.BaseAma",
                     "color": "#ff7537ff",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -30865,7 +30865,7 @@
                 "textcolor": "#ffffffff"
             },
             {
-                "title": "Move.LegMove.LegProp",
+                "title": "Move.LegMove.BaseAma",
                 "color": "#ff7537ff",
                 "textcolor": "white"
             },
@@ -40325,7 +40325,7 @@
             "lastUpdated": 1692978839599,
             "tags": [
                 {
-                    "title": "Move.ArmMove.ArmProp",
+                    "title": "Move.ArmMove.BrazoAma",
                     "color": "#ff7537ff",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -40366,7 +40366,7 @@
         "extension": "jpg",
         "tags": [
             {
-                "title": "Move.ArmMove.ArmProp",
+                "title": "Move.ArmMove.BrazoAma",
                 "color": "#ff7537ff",
                 "textcolor": "white"
             },
@@ -42726,7 +42726,7 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Move.ArmMove.ArmProp",
+                    "title": "Move.ArmMove.BrazoAma",
                     "color": "#ff7537ff",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -42738,13 +42738,13 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Move.LegMove.LegProp",
+                    "title": "Move.LegMove.BaseAma",
                     "color": "#ff7537ff",
                     "textcolor": "white",
                     "type": "sidecar"
                 },
                 {
-                    "title": "Move.ToolMove.SpadeMove.SpadeProp",
+                    "title": "Move.ToolMove.SpadeMove.SpadeAma",
                     "color": "#ff7537ff",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -42795,7 +42795,7 @@
                 "textcolor": "#000000ff"
             },
             {
-                "title": "Move.ArmMove.ArmProp",
+                "title": "Move.ArmMove.BrazoAma",
                 "color": "#ff7537ff",
                 "textcolor": "white"
             },
@@ -42805,12 +42805,12 @@
                 "textcolor": "white"
             },
             {
-                "title": "Move.LegMove.LegProp",
+                "title": "Move.LegMove.BaseAma",
                 "color": "#ff7537ff",
                 "textcolor": "white"
             },
             {
-                "title": "Move.ToolMove.SpadeMove.SpadeProp",
+                "title": "Move.ToolMove.SpadeMove.SpadeAma",
                 "color": "#ff7537ff",
                 "textcolor": "white"
             },
@@ -46633,7 +46633,7 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Move.ToolMove.SpadeMove.SpadeProp",
+                    "title": "Move.ToolMove.SpadeMove.SpadeAma",
                     "color": "#ff7537ff",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -46698,7 +46698,7 @@
                 "textcolor": "white"
             },
             {
-                "title": "Move.ToolMove.SpadeMove.SpadeProp",
+                "title": "Move.ToolMove.SpadeMove.SpadeAma",
                 "color": "#ff7537ff",
                 "textcolor": "white"
             },
@@ -79943,7 +79943,7 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Move.ArmMove.ArmProp",
+                    "title": "Move.ArmMove.BrazoAma",
                     "color": "#ff7537ff",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -79984,7 +79984,7 @@
                 "textcolor": "white"
             },
             {
-                "title": "Move.ArmMove.ArmProp",
+                "title": "Move.ArmMove.BrazoAma",
                 "color": "#ff7537ff",
                 "textcolor": "white"
             }
@@ -80114,7 +80114,7 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Move.ToolMove.SpadeMove.SpadeProp",
+                    "title": "Move.ToolMove.SpadeMove.SpadeAma",
                     "color": "#ff7537ff",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -80145,7 +80145,7 @@
                 "textcolor": "white"
             },
             {
-                "title": "Move.ToolMove.SpadeMove.SpadeProp",
+                "title": "Move.ToolMove.SpadeMove.SpadeAma",
                 "color": "#ff7537ff",
                 "textcolor": "white"
             }
@@ -80401,7 +80401,7 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Move.ToolMove.SpadeMove.SpadeProp",
+                    "title": "Move.ToolMove.SpadeMove.SpadeAma",
                     "color": "#ff7537ff",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -80453,7 +80453,7 @@
                 "textcolor": "white"
             },
             {
-                "title": "Move.ToolMove.SpadeMove.SpadeProp",
+                "title": "Move.ToolMove.SpadeMove.SpadeAma",
                 "color": "#ff7537ff",
                 "textcolor": "white"
             },
@@ -80538,7 +80538,7 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Move.ToolMove.SpadeMove.SpadeProp",
+                    "title": "Move.ToolMove.SpadeMove.SpadeAma",
                     "color": "#ff7537ff",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -80617,7 +80617,7 @@
                 "textcolor": "white"
             },
             {
-                "title": "Move.ToolMove.SpadeMove.SpadeProp",
+                "title": "Move.ToolMove.SpadeMove.SpadeAma",
                 "color": "#ff7537ff",
                 "textcolor": "white"
             },
@@ -81002,7 +81002,7 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Move.ToolMove.SpadeMove.SpadeProp",
+                    "title": "Move.ToolMove.SpadeMove.SpadeAma",
                     "color": "#ff7537ff",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -81072,7 +81072,7 @@
                 "textcolor": "#ffffffff"
             },
             {
-                "title": "Move.ToolMove.SpadeMove.SpadeProp",
+                "title": "Move.ToolMove.SpadeMove.SpadeAma",
                 "color": "#ff7537ff",
                 "textcolor": "white"
             },

@@ -1,6 +1,8 @@
-# 🟠 <move>SpadeProp</move>
+# 🟠 <move>LegAma</move>
 
-## 🕸 SpadeProp.Skema
+![MoveIkon](/Move/Move_Ikon.png)
+
+## 🕸 LegAma.Skema
 
 ### Related 🟩<eko>Eko</eko>
 
@@ -27,10 +29,6 @@
 <!-- =================================================== -->
 ::: details 🛠 <dev>&&&</dev>
 
-- Alpinists perform SpadeProp all the time when using an ice axe
-
-<h2>PageTags</h2>
-
-- "Move.InstrumentMove.SpadeMove.SpadeProp"
+-
 
 :::

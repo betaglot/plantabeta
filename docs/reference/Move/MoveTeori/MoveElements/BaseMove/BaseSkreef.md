@@ -35,8 +35,8 @@
 - Don't FootSkreef Poa
 - Minimize FootSkreef
 - Stabilize your body during FootSkreef
-    - ArmProp
+    - BrazoAma
         - HandSmear on Trunk
-    - SpadeProp
+    - SpadeAma
 
 :::

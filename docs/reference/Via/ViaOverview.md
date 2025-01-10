@@ -138,6 +138,7 @@ Directions
 <!-- =================================================== -->
 ::: details 🛠 <dev>&&&</dev>
 
+- Near is a Quality not a Quantity
 - Ambulance drivers are masters of via
 - IsochroneMap
 - Request cache move

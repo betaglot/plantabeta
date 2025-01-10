@@ -7608,13 +7608,13 @@ tags = [
                     "title": "Move.ArmMove.ArmBrake"
                 },
                 {
-                    "title": "Move.ArmMove.ArmProp"
+                    "title": "Move.ArmMove.BrazoAma"
                 },
                 {
                     "title": "Move.ArmMove.ArmRockOver"
                 },
                 {
-                    "title": "Move.LegMove.LegProp"
+                    "title": "Move.LegMove.BaseAma"
                 },
                 {
                     "title": "Move.MoveDiagram.Overview"
@@ -7670,13 +7670,13 @@ tags = [
                 "title": "Move.ArmMove.ArmBrake"
             },
             {
-                "title": "Move.ArmMove.ArmProp"
+                "title": "Move.ArmMove.BrazoAma"
             },
             {
                 "title": "Move.ArmMove.ArmRockOver"
             },
             {
-                "title": "Move.LegMove.LegProp"
+                "title": "Move.LegMove.BaseAma"
             },
             {
                 "title": "Move.MoveDiagram.Overview"
@@ -11716,7 +11716,7 @@ tags = [
                     "title": "Move.LegMove.LegLock"
                 },
                 {
-                    "title": "Move.LegMove.LegProp"
+                    "title": "Move.LegMove.BaseAma"
                 },
                 {
                     "title": "Move.MoveDiagram.Stickfigure"
@@ -11748,7 +11748,7 @@ tags = [
                 "title": "Move.LegMove.LegLock"
             },
             {
-                "title": "Move.LegMove.LegProp"
+                "title": "Move.LegMove.BaseAma"
             },
             {
                 "title": "Move.MoveDiagram.Stickfigure"
@@ -17356,7 +17356,7 @@ tags = [
                     "title": "Land.LandFrase"
                 },
                 {
-                    "title": "Move.LegMove.LegProp"
+                    "title": "Move.LegMove.BaseAma"
                 },
                 {
                     "title": "Move.LegMove.SupportingLeg"
@@ -17410,7 +17410,7 @@ tags = [
                 "title": "Land.LandFrase"
             },
             {
-                "title": "Move.LegMove.LegProp"
+                "title": "Move.LegMove.BaseAma"
             },
             {
                 "title": "Move.LegMove.SupportingLeg"
@@ -22810,7 +22810,7 @@ tags = [
             "lastUpdated": 1692978839599,
             "tags": [
                 {
-                    "title": "Move.ArmMove.ArmProp"
+                    "title": "Move.ArmMove.BrazoAma"
                 },
                 {
                     "title": "Move.BodyMove.Mantle"
@@ -22833,7 +22833,7 @@ tags = [
         "extension": "jpg",
         "tags": [
             {
-                "title": "Move.ArmMove.ArmProp"
+                "title": "Move.ArmMove.BrazoAma"
             },
             {
                 "title": "Move.BodyMove.Mantle"
@@ -24173,16 +24173,16 @@ tags = [
                     "title": "Dev.System.Theorem"
                 },
                 {
-                    "title": "Move.ArmMove.ArmProp"
+                    "title": "Move.ArmMove.BrazoAma"
                 },
                 {
                     "title": "Move.BodyMove.BodyPosture"
                 },
                 {
-                    "title": "Move.LegMove.LegProp"
+                    "title": "Move.LegMove.BaseAma"
                 },
                 {
-                    "title": "Move.InstrumentMove.SpadeMove.SpadeProp"
+                    "title": "Move.InstrumentMove.SpadeMove.SpadeAma"
                 },
                 {
                     "title": "Psike.CognitiveEase.Clarity",
@@ -24212,16 +24212,16 @@ tags = [
                 "title": "Dev.System.Theorem"
             },
             {
-                "title": "Move.ArmMove.ArmProp"
+                "title": "Move.ArmMove.BrazoAma"
             },
             {
                 "title": "Move.BodyMove.BodyPosture"
             },
             {
-                "title": "Move.LegMove.LegProp"
+                "title": "Move.LegMove.BaseAma"
             },
             {
-                "title": "Move.InstrumentMove.SpadeMove.SpadeProp"
+                "title": "Move.InstrumentMove.SpadeMove.SpadeAma"
             },
             {
                 "title": "Psike.CognitiveEase.Clarity",
@@ -26388,7 +26388,7 @@ tags = [
                     "title": "Move.InstrumentMove.BagMove.BaggingUp"
                 },
                 {
-                    "title": "Move.InstrumentMove.SpadeMove.SpadeProp"
+                    "title": "Move.InstrumentMove.SpadeMove.SpadeAma"
                 },
                 {
                     "title": "Psike.Counting",
@@ -26427,7 +26427,7 @@ tags = [
                 "title": "Move.InstrumentMove.BagMove.BaggingUp"
             },
             {
-                "title": "Move.InstrumentMove.SpadeMove.SpadeProp"
+                "title": "Move.InstrumentMove.SpadeMove.SpadeAma"
             },
             {
                 "title": "Psike.Counting",
@@ -44427,7 +44427,7 @@ tags = [
                     "title": "Move.HoleMove.HoleOpen"
                 },
                 {
-                    "title": "Move.ArmMove.ArmProp"
+                    "title": "Move.ArmMove.BrazoAma"
                 }
             ],
             "id": "2d0121b063ff4fb5b4182ac063f6d7fd"
@@ -44453,7 +44453,7 @@ tags = [
                 "title": "Move.HoleMove.HoleOpen"
             },
             {
-                "title": "Move.ArmMove.ArmProp"
+                "title": "Move.ArmMove.BrazoAma"
             }
         ],
         "thumbPath": "PlantaBeta_Video\\.ts\\Video_001.mp4.jpg"
@@ -44525,7 +44525,7 @@ tags = [
                     "title": "Move.InstrumentMove.MarkaMove.MarkaThrow"
                 },
                 {
-                    "title": "Move.InstrumentMove.SpadeMove.SpadeProp"
+                    "title": "Move.InstrumentMove.SpadeMove.SpadeAma"
                 }
             ],
             "id": "cd68b79aabbb4b70be5a446851230497"
@@ -44545,7 +44545,7 @@ tags = [
                 "title": "Move.InstrumentMove.MarkaMove.MarkaThrow"
             },
             {
-                "title": "Move.InstrumentMove.SpadeMove.SpadeProp"
+                "title": "Move.InstrumentMove.SpadeMove.SpadeAma"
             }
         ],
         "thumbPath": "PlantaBeta_Video\\.ts\\Video_003.mp4.jpg"
@@ -44687,7 +44687,7 @@ tags = [
                     "title": "Move.InstrumentMove.GloveMove.Overview"
                 },
                 {
-                    "title": "Move.InstrumentMove.SpadeMove.SpadeProp"
+                    "title": "Move.InstrumentMove.SpadeMove.SpadeAma"
                 },
                 {
                     "title": "Move.ManoMove.TreeInspect"
@@ -44719,7 +44719,7 @@ tags = [
                 "title": "Move.InstrumentMove.GloveMove.Overview"
             },
             {
-                "title": "Move.InstrumentMove.SpadeMove.SpadeProp"
+                "title": "Move.InstrumentMove.SpadeMove.SpadeAma"
             },
             {
                 "title": "Move.ManoMove.TreeInspect"
@@ -44763,7 +44763,7 @@ tags = [
                     "title": "Move.HoleMove.ExpandHole"
                 },
                 {
-                    "title": "Move.InstrumentMove.SpadeMove.SpadeProp"
+                    "title": "Move.InstrumentMove.SpadeMove.SpadeAma"
                 },
                 {
                     "title": "Move.ArmMove.ArmExtension"
@@ -44810,7 +44810,7 @@ tags = [
                 "title": "Move.HoleMove.ExpandHole"
             },
             {
-                "title": "Move.InstrumentMove.SpadeMove.SpadeProp"
+                "title": "Move.InstrumentMove.SpadeMove.SpadeAma"
             },
             {
                 "title": "Move.ArmMove.ArmExtension"
@@ -45029,7 +45029,7 @@ tags = [
                     "title": "RawVideo"
                 },
                 {
-                    "title": "Move.InstrumentMove.SpadeMove.SpadeProp"
+                    "title": "Move.InstrumentMove.SpadeMove.SpadeAma"
                 },
                 {
                     "title": "Move.HoleMove.ExpandHole"
@@ -45067,7 +45067,7 @@ tags = [
                 "title": "RawVideo"
             },
             {
-                "title": "Move.InstrumentMove.SpadeMove.SpadeProp"
+                "title": "Move.InstrumentMove.SpadeMove.SpadeAma"
             },
             {
                 "title": "Move.HoleMove.ExpandHole"

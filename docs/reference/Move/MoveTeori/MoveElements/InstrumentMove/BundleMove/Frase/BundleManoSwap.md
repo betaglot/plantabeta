@@ -1,9 +1,6 @@
-# 🟠 <move>SuperSlam</move>
+# 🟠<move>BundleManoSwap</move>
 
-- Superman Punch
-- 300 Spartan Jumping Thrust
-
-## 🕸 SuperSlam.Skema
+## 🕸 BundleManoSwap.Skema
 
 ### Related 🟩<eko>Eko</eko>
 

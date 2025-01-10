@@ -41,14 +41,14 @@
     - "Catch your fall" before you get to the ground
     - ArmAbsborb
     - BodyAbsorb
-    - ArmProp
+    - BrazoAma
     - HandCatch
     - LegAbsorb
-    - LegProp
+    - BaseAma
     - FloraMano
         - FloraPull
         - Don't Rely on Flora since you could rip it out of the ground if there's enough force
-    - SpadeProp
+    - SpadeAma
 - FallRedirectionFase
     - AbsorbMove
         - To give more time for redirection
@@ -59,7 +59,7 @@
             - Run it out. Run down the slope
             - Runaway truck gravel pits often slope up hill
         - Spot your landing
-    - Step in the direction of the fall, then LegAbsorb or LegProp only if the fall hasn't gained much energy
+    - Step in the direction of the fall, then LegAbsorb or BaseAma only if the fall hasn't gained much energy
         - Avoid LegSnag, or FootSnag
         - Don't cross your legs, because you could LegSnag yourself
     - After the point of no return. You can't stop falling, so you must redirect to fall into the safest place

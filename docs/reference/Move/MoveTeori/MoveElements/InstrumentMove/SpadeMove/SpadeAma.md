@@ -1,8 +1,6 @@
-# 🟠<move>SpadeBlock</move>
+# 🟠 <move>SpadeAma</move>
 
-> Block flora using the SpadeCollar
-
-## 🕸 SpadeBlock.Skema
+## 🕸 SpadeAma.Skema
 
 ### Related 🟩<eko>Eko</eko>
 
@@ -14,8 +12,7 @@
 
 ### Related 🟠<move>Move</move>
 
-- ArmBlock
-- BagShield
+-
 
 ### Related 💜<psike>Psike</psike>
 
@@ -30,6 +27,7 @@
 <!-- =================================================== -->
 ::: details 🛠 <dev>&&&</dev>
 
-- Can be used while Walking or while TreeInsert, like a SpadePry or with a SpadeAma (SpadeAma doesn't require BrazoAma)
-- CollarMano or HandleMano or both, 2ManoMove
+- <https://maoridictionary.co.nz/search?idiom=&phrase=&proverb=&loan=&histLoanWords=&keywords=ama>
+- Alpinists perform SpadeStabilizer all the time when using an ice axe
+
 :::

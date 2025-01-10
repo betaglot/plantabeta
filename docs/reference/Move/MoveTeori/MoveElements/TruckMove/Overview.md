@@ -31,10 +31,7 @@
 <!-- =================================================== -->
 ::: details 🛠 <dev>&&&</dev>
 
--
-
-<h2>PageTags</h2>
-
-- "Move.InstrumentMove.TruckMove.Overview"
+- CabinDoorSeal
+- DoorOpen
 
 :::

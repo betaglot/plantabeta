@@ -351,7 +351,7 @@
           "Stemming",
           "LegArch",
           "LegExpansion",
-          "LegProp"
+          "BaseAma"
         ],
         "subMove": [],
         "anteMove": [],
@@ -372,7 +372,7 @@
           "Stemming",
           "LegArch",
           "LegExpansion",
-          "LegProp"
+          "BaseAma"
         ],
         "subMove": [],
         "anteMove": [],
@@ -707,7 +707,7 @@
         "speed": [],
         "rhythm": [],
         "superMove": [
-          "LegProp"
+          "BaseAma"
         ],
         "subMove": [],
         "anteMove": [],
@@ -726,7 +726,7 @@
         "rhythm": [],
         "superMove": [
           "StraightArm",
-          "ArmProp",
+          "BrazoAma",
           "ArmArch"
         ],
         "subMove": [],
@@ -5647,7 +5647,7 @@
         "difficultyElement" : []
       },
       {
-        "name": "LegProp",
+        "name": "BaseAma",
         "namespace": "",
         "rank": "",
         "purpose": [],
@@ -5664,7 +5664,7 @@
         "difficultyElement" : []
       },
       {
-        "name": "2_LegProp",
+        "name": "2_BaseAma",
         "namespace": "",
         "rank": "",
         "purpose": [],
@@ -5681,7 +5681,7 @@
         "difficultyElement" : []
       },
       {
-        "name": "ArmProp",
+        "name": "BrazoAma",
         "namespace": "",
         "rank": "",
         "purpose": [],
@@ -5698,7 +5698,7 @@
         "difficultyElement" : []
       },
       {
-        "name": "2_ArmProp",
+        "name": "2_BrazoAma",
         "namespace": "",
         "rank": "",
         "purpose": [],
@@ -7522,7 +7522,7 @@
           "HandSwap",
           "HandFootSwap",
           "FeelingForHold",
-          "ArmProp"
+          "BrazoAma"
         ],
         "subMove": [],
         "anteMove": [],

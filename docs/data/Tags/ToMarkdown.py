@@ -850,24 +850,24 @@ data = [
         "TagName": "Move.ArmMove.ArmBalance"
     },
     {
-        "PagePath": "Move/ArmMove/ArmProp.md",
+        "PagePath": "Move/ArmMove/BrazoAma.md",
         "PaperPhoto": "1052.jpg",
-        "TagName": "Move.ArmMove.ArmProp"
+        "TagName": "Move.ArmMove.BrazoAma"
     },
     {
-        "PagePath": "Move/ArmMove/ArmProp.md",
+        "PagePath": "Move/ArmMove/BrazoAma.md",
         "PaperPhoto": "2278.jpg",
-        "TagName": "Move.ArmMove.ArmProp"
+        "TagName": "Move.ArmMove.BrazoAma"
     },
     {
-        "PagePath": "Move/ArmMove/ArmProp.md",
+        "PagePath": "Move/ArmMove/BrazoAma.md",
         "PaperPhoto": "2469.jpg",
-        "TagName": "Move.ArmMove.ArmProp"
+        "TagName": "Move.ArmMove.BrazoAma"
     },
     {
-        "PagePath": "Move/ArmMove/ArmProp.md",
+        "PagePath": "Move/ArmMove/BrazoAma.md",
         "PaperPhoto": "Video_001.mp4",
-        "TagName": "Move.ArmMove.ArmProp"
+        "TagName": "Move.ArmMove.BrazoAma"
     },
     {
         "PagePath": "Move/ArmMove/ArmKurve.md",
@@ -1865,24 +1865,24 @@ data = [
         "TagName": "Move.LegMove.LegAbsorb"
     },
     {
-        "PagePath": "Move/LegMove/LegProp.md",
+        "PagePath": "Move/LegMove/BaseAma.md",
         "PaperPhoto": "1052.jpg",
-        "TagName": "Move.LegMove.LegProp"
+        "TagName": "Move.LegMove.BaseAma"
     },
     {
-        "PagePath": "Move/LegMove/LegProp.md",
+        "PagePath": "Move/LegMove/BaseAma.md",
         "PaperPhoto": "1387.jpg",
-        "TagName": "Move.LegMove.LegProp"
+        "TagName": "Move.LegMove.BaseAma"
     },
     {
-        "PagePath": "Move/LegMove/LegProp.md",
+        "PagePath": "Move/LegMove/BaseAma.md",
         "PaperPhoto": "1752.jpg",
-        "TagName": "Move.LegMove.LegProp"
+        "TagName": "Move.LegMove.BaseAma"
     },
     {
-        "PagePath": "Move/LegMove/LegProp.md",
+        "PagePath": "Move/LegMove/BaseAma.md",
         "PaperPhoto": "2469.jpg",
-        "TagName": "Move.LegMove.LegProp"
+        "TagName": "Move.LegMove.BaseAma"
     },
     {
         "PagePath": "Move/LegMove/LegKurve.md",
@@ -5020,34 +5020,34 @@ data = [
         "TagName": "Move.ToolMove.SpadeMove.SpadeClose"
     },
     {
-        "PagePath": "Move/ToolMove/Spade/SpadeProp.md",
+        "PagePath": "Move/ToolMove/Spade/SpadeAma.md",
         "PaperPhoto": "2469.jpg",
-        "TagName": "Move.ToolMove.SpadeMove.SpadeProp"
+        "TagName": "Move.ToolMove.SpadeMove.SpadeAma"
     },
     {
-        "PagePath": "Move/ToolMove/Spade/SpadeProp.md",
+        "PagePath": "Move/ToolMove/Spade/SpadeAma.md",
         "PaperPhoto": "2567.jpg",
-        "TagName": "Move.ToolMove.SpadeMove.SpadeProp"
+        "TagName": "Move.ToolMove.SpadeMove.SpadeAma"
     },
     {
-        "PagePath": "Move/ToolMove/Spade/SpadeProp.md",
+        "PagePath": "Move/ToolMove/Spade/SpadeAma.md",
         "PaperPhoto": "Video_003.mp4",
-        "TagName": "Move.ToolMove.SpadeMove.SpadeProp"
+        "TagName": "Move.ToolMove.SpadeMove.SpadeAma"
     },
     {
-        "PagePath": "Move/ToolMove/Spade/SpadeProp.md",
+        "PagePath": "Move/ToolMove/Spade/SpadeAma.md",
         "PaperPhoto": "Video_006.mp4",
-        "TagName": "Move.ToolMove.SpadeMove.SpadeProp"
+        "TagName": "Move.ToolMove.SpadeMove.SpadeAma"
     },
     {
-        "PagePath": "Move/ToolMove/Spade/SpadeProp.md",
+        "PagePath": "Move/ToolMove/Spade/SpadeAma.md",
         "PaperPhoto": "Video_007.mp4",
-        "TagName": "Move.ToolMove.SpadeMove.SpadeProp"
+        "TagName": "Move.ToolMove.SpadeMove.SpadeAma"
     },
     {
-        "PagePath": "Move/ToolMove/Spade/SpadeProp.md",
+        "PagePath": "Move/ToolMove/Spade/SpadeAma.md",
         "PaperPhoto": "Video_011.mp4",
-        "TagName": "Move.ToolMove.SpadeMove.SpadeProp"
+        "TagName": "Move.ToolMove.SpadeMove.SpadeAma"
     },
     {
         "PagePath": "Move/ToolMove/Spade/SpadeSkreef.md",

@@ -3660,13 +3660,13 @@ json = [
                 "title": "Move.ArmMove.ArmBrake"
             },
             {
-                "title": "Move.ArmMove.ArmProp"
+                "title": "Move.ArmMove.BrazoAma"
             },
             {
                 "title": "Move.ArmMove.ArmRockOver"
             },
             {
-                "title": "Move.LegMove.LegProp"
+                "title": "Move.LegMove.BaseAma"
             },
             {
                 "title": "Move.MoveDiagram.Overview"
@@ -5624,7 +5624,7 @@ json = [
                 "title": "Move.LegMove.LegLock"
             },
             {
-                "title": "Move.LegMove.LegProp"
+                "title": "Move.LegMove.BaseAma"
             },
             {
                 "title": "Move.MoveDiagram.Stickfigure"
@@ -8357,7 +8357,7 @@ json = [
                 "title": "Land.LandFrase"
             },
             {
-                "title": "Move.LegMove.LegProp"
+                "title": "Move.LegMove.BaseAma"
             },
             {
                 "title": "Move.LegMove.SupportingLeg"
@@ -10973,7 +10973,7 @@ json = [
         "name": "2278.jpg",
         "tags": [
             {
-                "title": "Move.ArmMove.ArmProp"
+                "title": "Move.ArmMove.BrazoAma"
             },
             {
                 "title": "Move.BodyMove.Mantle"
@@ -11626,16 +11626,16 @@ json = [
                 "title": "Dev.System.Theorem"
             },
             {
-                "title": "Move.ArmMove.ArmProp"
+                "title": "Move.ArmMove.BrazoAma"
             },
             {
                 "title": "Move.BodyMove.BodyPosture"
             },
             {
-                "title": "Move.LegMove.LegProp"
+                "title": "Move.LegMove.BaseAma"
             },
             {
-                "title": "Move.ToolMove.SpadeMove.SpadeProp"
+                "title": "Move.ToolMove.SpadeMove.SpadeAma"
             },
             {
                 "title": "Psike.CognitiveEase.Clarity",
@@ -12690,7 +12690,7 @@ json = [
                 "title": "Move.ToolMove.BagMove.BaggingUp"
             },
             {
-                "title": "Move.ToolMove.SpadeMove.SpadeProp"
+                "title": "Move.ToolMove.SpadeMove.SpadeAma"
             },
             {
                 "title": "Psike.Counting",
@@ -21784,7 +21784,7 @@ json = [
                 "title": "Move.HoleMove.HoleOpen"
             },
             {
-                "title": "Move.ArmMove.ArmProp"
+                "title": "Move.ArmMove.BrazoAma"
             }
         ]
     },
@@ -21827,7 +21827,7 @@ json = [
                 "title": "Move.ToolMove.MarkaMove.MarkaThrow"
             },
             {
-                "title": "Move.ToolMove.SpadeMove.SpadeProp"
+                "title": "Move.ToolMove.SpadeMove.SpadeAma"
             }
         ]
     },
@@ -21908,7 +21908,7 @@ json = [
                 "title": "Move.ToolMove.GloveMove.Overview"
             },
             {
-                "title": "Move.ToolMove.SpadeMove.SpadeProp"
+                "title": "Move.ToolMove.SpadeMove.SpadeAma"
             },
             {
                 "title": "Move.ManoMove.TreeInspect"
@@ -21949,7 +21949,7 @@ json = [
                 "title": "Move.HoleMove.ExpandHole"
             },
             {
-                "title": "Move.ToolMove.SpadeMove.SpadeProp"
+                "title": "Move.ToolMove.SpadeMove.SpadeAma"
             },
             {
                 "title": "Move.ArmMove.ArmExtension"
@@ -22061,7 +22061,7 @@ json = [
                 "title": "RawVideo"
             },
             {
-                "title": "Move.ToolMove.SpadeMove.SpadeProp"
+                "title": "Move.ToolMove.SpadeMove.SpadeAma"
             },
             {
                 "title": "Move.HoleMove.ExpandHole"
