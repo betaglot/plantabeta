@@ -2,7 +2,7 @@
 
 The Sequences of each BetaTipos
 
-🔷: Moment is composed of Instants
+🔷: Sequence is composed of Moments
 🟠: Frase is composed of Moves
 🟩: Eko is composed of Ekons
 🔻: Via is composed of Viums
