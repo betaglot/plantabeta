@@ -1,6 +1,6 @@
-# 🟠<move>DoruMatch</move>
+# 🔻<via>PeriDirection</via>
 
-## 🕸 DoruMatch.Skema
+## 🕸 PeriDirection.Skema
 
 ### Related 🟩<eko>Eko</eko>
 
@@ -27,6 +27,8 @@
 <!-- =================================================== -->
 ::: details 🛠 <dev>&&&</dev>
 
--
+- Peri
+    - Perimeter
+- Circumvent
 
 :::

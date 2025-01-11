@@ -1,6 +1,8 @@
-# 🟠<move>DoruPendulum</move>
+# 🟠 <move>CollarMano</move>
 
-## 🕸 DoruPendulum.Skema
+![MoveIkon](/Move/Move_Ikon.png)
+
+## 🕸 CollarMano.Skema
 
 ### Related 🟩<eko>Eko</eko>
 

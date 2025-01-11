@@ -1,8 +1,8 @@
-# 🟠<move>FlaskMove</move>
+# 🟠<move>BottleMove</move>
 
 Aliases: water bottle
 
-## 🕸 FlaskMove.Skema
+## 🕸 BottleMove.Skema
 
 ### Related 🟩<eko>Eko</eko>
 
@@ -29,6 +29,9 @@ Aliases: water bottle
 <!-- =================================================== -->
 ::: details 🛠 <dev>&&&</dev>
 
--
+- Water
+- Coffee
+- Mixture
+    - Electrolyte
 
 :::

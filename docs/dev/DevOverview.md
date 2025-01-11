@@ -1089,8 +1089,8 @@ Download Printable resources
                                 "link": "/reference/Move/ToolMove/Spade/SpadeMano"
                             },
                             {
-                                "text": "SpadeJavelin",
-                                "link": "/reference/Move/ToolMove/Spade/SpadeJavelin"
+                                "text": "SpadeBallista",
+                                "link": "/reference/Move/ToolMove/Spade/SpadeBallista"
                             },
                             {
                                 "text": "SpadePendulum",
@@ -1244,8 +1244,8 @@ Download Printable resources
                                 "link": "/reference/Move/ToolMove/Doru/DoruStomp"
                             },
                             {
-                                "text": "DoruSwing",
-                                "link": "/reference/Move/ToolMove/Doru/DoruSwing"
+                                "text": "DoruOnda",
+                                "link": "/reference/Move/ToolMove/Doru/DoruOnda"
                             },
                             {
                                 "text": "DoruError",

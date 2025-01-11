@@ -21,5 +21,6 @@ An object is only an obstacle if it hinders your Via.
     - A Zone which can't be planted
 - Decreases Space
 - Blocks Optimal Line
+- Paraobstacle
 
 :::

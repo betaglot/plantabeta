@@ -7550,7 +7550,7 @@
         "difficultyElement" : []
       },
       {
-        "name": "FootSlide",
+        "name": "BootSlide",
         "namespace": "",
         "rank": "",
         "purpose": [],
@@ -8662,7 +8662,7 @@
         "difficultyElement" : []
       },
       {
-        "name": "Swing",
+        "name": "Onda",
         "namespace": "",
         "rank": "",
         "purpose": [],
@@ -8696,7 +8696,7 @@
         "difficultyElement" : []
       },
       {
-        "name": "ArmBackSwing",
+        "name": "ArmBackOnda",
         "namespace": "",
         "rank": "",
         "purpose": [],
@@ -8713,7 +8713,7 @@
         "difficultyElement" : []
       },
       {
-        "name": "ArmInitiationSwing",
+        "name": "ArmInitiationOnda",
         "namespace": "",
         "rank": "",
         "purpose": [],
@@ -8730,7 +8730,7 @@
         "difficultyElement" : []
       },
       {
-        "name": "ArmForeSwing",
+        "name": "ArmForeOnda",
         "namespace": "",
         "rank": "",
         "purpose": [],
@@ -8747,7 +8747,7 @@
         "difficultyElement" : []
       },
       {
-        "name": "ArmTwistSwing",
+        "name": "ArmTwistOnda",
         "namespace": "",
         "rank": "",
         "purpose": [],
@@ -8778,7 +8778,7 @@
         "difficultyElement" : []
       },
       {
-        "name": "LegBackSwing",
+        "name": "LegBackOnda",
         "namespace": "",
         "rank": "",
         "purpose": [],
@@ -8795,7 +8795,7 @@
         "difficultyElement" : []
       },
       {
-        "name": "LegInitiationSwing",
+        "name": "LegInitiationOnda",
         "namespace": "",
         "rank": "",
         "purpose": [],
@@ -8812,7 +8812,7 @@
         "difficultyElement" : []
       },
       {
-        "name": "LegForeSwing",
+        "name": "LegForeOnda",
         "namespace": "",
         "rank": "",
         "purpose": [],
@@ -8829,7 +8829,7 @@
         "difficultyElement" : []
       },
       {
-        "name": "LegTwistSwing",
+        "name": "LegTwistOnda",
         "namespace": "",
         "rank": "",
         "purpose": [],
@@ -8846,7 +8846,7 @@
         "difficultyElement" : []
       },
       {
-        "name": "BackSwing",
+        "name": "BackOnda",
         "namespace": "",
         "rank": "",
         "purpose": [],
@@ -8863,7 +8863,7 @@
         "difficultyElement" : []
       },
       {
-        "name": "InitiationSwing",
+        "name": "InitiationOnda",
         "namespace": "",
         "rank": "",
         "purpose": [],
@@ -8880,7 +8880,7 @@
         "difficultyElement" : []
       },
       {
-        "name": "ForeSwing",
+        "name": "ForeOnda",
         "namespace": "",
         "rank": "",
         "purpose": [],
@@ -8897,7 +8897,7 @@
         "difficultyElement" : []
       },
       {
-        "name": "TwistSwing",
+        "name": "TwistOnda",
         "namespace": "",
         "rank": "",
         "purpose": [],
@@ -10632,7 +10632,7 @@
         "name": "LegUpWhip",
         "namespace": "",
         "purpose": {
-          "InitiationSwing": [
+          "InitiationOnda": [
             "LateralDyno"
           ]
         },

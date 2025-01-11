@@ -1,23 +1,23 @@
-# 🟠 <move>DendronMano</move>
+# 🟠 <move>DendroMano</move>
 
 ![MoveIkon](/Move/Move_Ikon.png)
 
-## DendronMano Purpose
+## DendroMano Purpose
 
-- DendronMano is the interface between Plantor and Dendron.
+- DendroMano is the interface between Plantor and Dendron.
 
-## DendronMano Parameters
+## DendroMano
 
 - HandSize
-- PodSize
-- PodIntegrity
-    - Is the TreePod falling apart?
+- RizoSize
+- RizoIntegrity
+    - Is the Rizo falling apart?
 
 ## RequiredInstruments
 
 - Glove
 
-## PodMano
+## RizoMano
 
 ### Submoves
 
@@ -27,13 +27,13 @@
 
 ### Supermove
 
-- TreeInsert
-- BagCover
+- DendroInsert
+- BagIn
 - TreeRemove
 
 ## StemMano
 
-## 🕸 DendronMano.Skema
+## 🕸 DendroMano.Skema
 
 ### Related 🟩<eko>Eko</eko>
 
@@ -60,7 +60,7 @@
 <!-- =================================================== -->
 ::: details 🛠 <dev>&&&</dev>
 
-- (Neophyte, Dendron)InsteadOf(Dendron)
+- Rizo is Root
 - TreeConfirm
     - See if the tree has been planted with good quality
     - TreeTwirl
@@ -71,9 +71,9 @@
             - LooseTree
         - No roots exposed
             - ShallowTree
-- DendronFlip
+- DendroFlip
 - BlindMove
-- PodMano
+- RizoMano
 - TreeLoad
     - FeelingForHold
 - StemMano

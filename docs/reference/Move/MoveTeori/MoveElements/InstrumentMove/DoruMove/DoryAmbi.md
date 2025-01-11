@@ -1,6 +1,6 @@
-# 🟠<move>SpadeWhip</move>
+# 🟠<move>DoruAmbi</move>
 
-## 🕸 SpadeWhip.Skema
+## 🕸 DoruAmbi.Skema
 
 ### Related 🟩<eko>Eko</eko>
 
@@ -27,8 +27,6 @@
 <!-- =================================================== -->
 ::: details 🛠 <dev>&&&</dev>
 
-- Handle doesn't have must displacement, while Blade moves in arcs
-- PanBeta(BMXbeta) SpadeWhip like BMX tailwhip or Scooter tailwhip
-    - Analogy(SpadeHandle: [ScooterHandle, BMXhandle], SpadeBlade: [ScooterRearWheel, BMXrearWheel])
+-
 
 :::

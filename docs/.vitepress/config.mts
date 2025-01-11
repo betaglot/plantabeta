@@ -529,7 +529,7 @@ export default defineConfig({
 //                 { text: '🟠 <move>SpadeCone</move>', link: '/encyclopedia/Move/ToolMove/Spade/SpadeCone' },
 //                 { text: '🟠 <move>SpadeDrag</move>', link: '/encyclopedia/Move/ToolMove/Spade/SpadeDrag' },
 //                 { text: '🟠 <move>SpadeMano</move>', link: '/encyclopedia/Move/ToolMove/Spade/SpadeMano' },
-//                 { text: '🟠 <move>SpadeJavelin</move>', link: '/encyclopedia/Move/ToolMove/Spade/SpadeJavelin' },
+//                 { text: '🟠 <move>SpadeBallista</move>', link: '/encyclopedia/Move/ToolMove/Spade/SpadeBallista' },
 //                 { text: '🟠 <move>SpadePendulum</move>', link: '/encyclopedia/Move/ToolMove/Spade/SpadePendulum' },
 //                 { text: '🟠 <move>SpadePogo</move>', link: '/encyclopedia/Move/ToolMove/Spade/SpadePogo' },
 //                 { text: '🟠 <move>SpadePoke</move>', link: '/encyclopedia/Move/ToolMove/Spade/SpadePoke' },
@@ -570,7 +570,7 @@ export default defineConfig({
 //                 { text: '🟠 <move>DoruSlide</move>', link: '/encyclopedia/Move/ToolMove/Doru/DoruSlide' },
 //                 { text: '🟠 <move>DoruStall</move>', link: '/encyclopedia/Move/ToolMove/Doru/DoruStall' },
 //                 { text: '🟠 <move>DoruStomp</move>', link: '/encyclopedia/Move/ToolMove/Doru/DoruStomp' },
-//                 { text: '🟠 <move>DoruSwing</move>', link: '/encyclopedia/Move/ToolMove/Doru/DoruSwing' },
+//                 { text: '🟠 <move>DoruOnda</move>', link: '/encyclopedia/Move/ToolMove/Doru/DoruOnda' },
 //                 { text: '❌ <move>DoruError</move>', link: '/encyclopedia/Move/ToolMove/Doru/DoruError' },
 //               ]
 //             }

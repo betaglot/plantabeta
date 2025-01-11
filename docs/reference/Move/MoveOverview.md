@@ -214,7 +214,7 @@ Recover as fluidly as possible
 - "Move.MoveAttributes.MoveType.SlideMove"
 - "Move.MoveAttributes.MoveType.SlotMove"
 - "Move.MoveAttributes.MoveType.SmearMove"
-- "Move.MoveAttributes.MoveType.SwingMove"
+- "Move.MoveAttributes.MoveType.OndaMove"
 - "Move.MoveAttributes.MoveType.SymmetricMove"
 - "Move.MoveAttributes.MoveType.TwistMove"
 - "Move.MoveAttributes.MoveType.WhipMove"

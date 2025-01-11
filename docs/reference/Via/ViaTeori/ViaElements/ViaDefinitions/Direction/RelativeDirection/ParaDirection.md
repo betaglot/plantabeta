@@ -1,10 +1,6 @@
-# 🟠<move>SpadeJavelin</move>
+# 🔻<via>ParaDirection</via>
 
-- The FinishMove of SpadeJavelin is SpadePost
-
-- SpadeJavelin is used to SpadePost when returning to the cache or when both hands are needed to adjust bags, transfer bundles, modify clothing layers, or to reload Marka roll.
-
-## 🕸 SpadeJavelin.Skema
+## 🕸 ParaDirection.Skema
 
 ### Related 🟩<eko>Eko</eko>
 
@@ -31,6 +27,6 @@
 <!-- =================================================== -->
 ::: details 🛠 <dev>&&&</dev>
 
--
+- Beside or Following
 
 :::

@@ -1,16 +1,12 @@
-# 🟠 <move>FloraPass</move>
+# 🟠<move>DoruPont</move>
 
-> Passing through a cluster of Flora
+Aliases: DoruBridge
 
-## 🕸 FloraPass.Skema
+## 🕸 DoruBridge.Skema
 
 ### Related 🟩<eko>Eko</eko>
 
-- Thicket
-- Bush
-    - Raspberry
-- Alder
-- DevilsClub
+-
 
 ### Related 🔻<via>Via</via>
 
@@ -33,8 +29,8 @@
 <!-- =================================================== -->
 ::: details 🛠 <dev>&&&</dev>
 
-- Bush, Thicket
-- FloraBlock
-- FloraParry
+- Placing the Doru horizontally over a void like a concavity.
+- Used to lower yourself down or climb up, instead of using the sides of the concavity.
+    - Useful when the sides of the concavity is loose (therefore not a stable Kontakt)
 
 :::

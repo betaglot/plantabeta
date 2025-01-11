@@ -1,6 +1,6 @@
-# 🟠<move>SpadeChop</move>
+# 🟠<move>SpadeTomi</move>
 
-## 🕸 SpadeChop.Skema
+## 🕸 SpadeTomi.Skema
 
 ### Related 🟩<eko>Eko</eko>
 
@@ -28,15 +28,15 @@
 ::: details 🛠 <dev>&&&</dev>
 
 - Knuckles Parallel to shaft
-- SpadeChopSkreef
-    - SpadeChop is used anywhere, SpadeChopSkreef is only used when Skreefing a Site.
-    - SpadeChop is often a Loop
-    - RedRotChop
-        - Chop a RedRot log into a smaller chunk, then throw it
-    - BranchChop
+- SpadeTomiSkreef
+    - SpadeTomi is used anywhere, SpadeTomiSkreef is only used when Skreefing a Site.
+    - SpadeTomi is often a Loop
+    - RedRotTomi
+        - Tomi a RedRot log into a smaller chunk, then throw it
+    - BranchTomi
         - Aim for where the branch connects to the trunk, so the branch can't elastically absorb the impact
-    - PoaChop or RootChop
+    - PoaTomi or RizoTomi
         - Poa must be under tension
-            - FootSlide to apply tension
+            - BootSlide to apply tension
 
 :::

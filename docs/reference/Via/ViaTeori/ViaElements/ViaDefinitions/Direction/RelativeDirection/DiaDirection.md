@@ -1,22 +1,4 @@
-# 🟠<move>HandleMatch</move>
-
-## 🕸 HandleMatch.Skema
-
-### Related 🟩<eko>Eko</eko>
-
--
-
-### Related 🔻<via>Via</via>
-
--
-
-### Related 🟠<move>Move</move>
-
--
-
-### Related 💜<psike>Psike</psike>
-
--
+# 🔻<via>DiaDiection</via>
 
 ---
 
@@ -27,6 +9,15 @@
 <!-- =================================================== -->
 ::: details 🛠 <dev>&&&</dev>
 
--
+- Etymolog(Dia)
+    - Through
+    - Diameter
+    - Diagonal
+    - diagnosis
+    - diagram
+    - dialect
+    - dialog
+    - diorama
+    - diuretic
 
 :::

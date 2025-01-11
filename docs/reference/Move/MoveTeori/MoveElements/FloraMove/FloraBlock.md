@@ -29,6 +29,7 @@
 <!-- =================================================== -->
 ::: details 🛠 <dev>&&&</dev>
 
+- SpadeOnda to FloraBlock
 - RadiorDev.UX
 - (FloraBlock != FloraParry)
     - In FloraBlock you are moving towards the Flora, conversely, in FloraParry the Flora is moving towards you

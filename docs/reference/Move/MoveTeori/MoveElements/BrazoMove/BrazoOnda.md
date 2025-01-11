@@ -1,6 +1,8 @@
-# 🟠 <move>DendronInsert</move>
+# 🟠 <move>ArmKurve</move>
 
-## 🕸 DendronInsert.Skema
+![MoveIkon](/Move/Move_Ikon.png)
+
+## 🕸 ArmKurve.Skema
 
 ### Related 🟩<eko>Eko</eko>
 
@@ -27,9 +29,13 @@
 <!-- =================================================== -->
 ::: details 🛠 <dev>&&&</dev>
 
-- DendronInsert can be an iterative process
-- Dendron1FingerInsert
-- Dendron2FingerInsert
-- Dendron3FingerInsert
+- ArmLateralOnda
+- ArmUpOnda
+    - FallRedirection
+        - PanBeta(SlacklineBeta)
+
+<h2>PageTags</h2>
+
+- "Move.ArmMove.ArmKurve"
 
 :::

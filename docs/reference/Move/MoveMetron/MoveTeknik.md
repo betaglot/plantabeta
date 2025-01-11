@@ -39,7 +39,7 @@
 - High Teknik
     - DynamicMovement
         - Redirection
-        - ResonanceSwing
+        - ResonanceOnda
         - AbsorbMovement
 - MultipleMovementDirection
     - RedirectionMovement
@@ -194,7 +194,7 @@
         - HandOverlapSwap
         - HandPianoSwap
 - Brachiation
-    - [Hangeln – climbing with swinging feet](https://www.youtube.com/watch?v=H7eBvoWPeN8)
+    - [Hangeln – climbing with Ondaing feet](https://www.youtube.com/watch?v=H7eBvoWPeN8)
     - Climber uses Newton’s Third Law to redirect CenterOfMass.
 - CoordinationMovement
     - (HandFlip)To(HandCatch.ArmCompression)
@@ -222,7 +222,7 @@
 - Overshoot
     - ActualName(Parkour Jump to Railing).
         - VolumeJumping
-    - SwingOff Dyno TargetSurface which isn’t a JugHold or DownPullHold.
+    - OndaOff Dyno TargetSurface which isn’t a JugHold or DownPullHold.
     - Hop into Standing on a SmallHold on SlabWall.
     - Overshoot the TargetSurface or TargetBodyPosition, then need to redirect
 - OverManoping
@@ -271,7 +271,7 @@ ApparentPathOfLeastResistanceDeception
             - ArmKurve Inertia
             - ArmAbsorb
             - The timing ArmKurve in multiple directions and speeds can be difficult to achieve.
-            - ArmResonanceSwing Timing
+            - ArmResonanceOnda Timing
                 - Give Energy just before MovementLineReflection
 - RouteTeknik(+)
     - CornerWall is probably the MostComplexRouteType possible, although there is currently no video of it.
@@ -381,7 +381,7 @@ Timing is often used erroneously instead of sequence.
             - Touch Sensation when FingerContact TargetSurface.
     - On(Proprioception)
     - On(Stretch)
-        - LegWhip into Wall when LegAnteriorMuscles are stretched to their MaximumMuscleLength, during LegBackSwing.
+        - LegOnda into Wall when LegAnteriorMuscles are stretched to their MaximumMuscleLength, during LegBackOnda.
 
 - On(Time) = Timing
     - On(30second)\RestTime during a CompetitionRound

@@ -1,22 +1,4 @@
-# 🟠<move>DoruBridge</move>
-
-## 🕸 DoruBridge.Skema
-
-### Related 🟩<eko>Eko</eko>
-
--
-
-### Related 🔻<via>Via</via>
-
--
-
-### Related 🟠<move>Move</move>
-
--
-
-### Related 💜<psike>Psike</psike>
-
--
+# 🔻<via>EktoDirection</via>
 
 ---
 
@@ -27,6 +9,6 @@
 <!-- =================================================== -->
 ::: details 🛠 <dev>&&&</dev>
 
--
+- Out of
 
 :::

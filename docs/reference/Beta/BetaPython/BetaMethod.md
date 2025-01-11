@@ -91,7 +91,7 @@ Trees/Time
 
 🟠<move>Step()</move>
 
-🟠<move>FootSlide</move>
+🟠<move>BootSlide</move>
 
 ### 🔷<beta>Put(<psike>Memory</psike>)</beta>
 

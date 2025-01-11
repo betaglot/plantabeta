@@ -70,7 +70,7 @@
     - CrackClimbing
     - Brachiation
     - Generating Momentum
-        - ResonantSwing before DynamicMovement.
+        - ResonantOnda before DynamicMovement.
 
 - SequentialSubmovements in different directions.
     - MovementNameList
@@ -79,7 +79,7 @@
     - CompressionCatch
     - ExpansionCatch(ArmBrake)
     - LegAbsorb after a Dyno
-        > “Control the swing”,”Absorb the swing”
+        > “Control the Onda”,”Absorb the Onda”
 
 - MovementNameList
     - RoseMovement

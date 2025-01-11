@@ -1,10 +1,10 @@
-# 🟠 <move>SpadeAmael</move>
+# 🟠 <move>SpadePropel</move>
 
 Aliases: SpadeSlam, SpadeThrow
 
 ![MoveIkon](/Move/Move_Ikon.png)
 
-## 🕸 SpadeAmael.Skema
+## 🕸 SpadePropel.Skema
 
 ### Related 🟩<eko>Eko</eko>
 
@@ -37,17 +37,26 @@ Aliases: SpadeSlam, SpadeThrow
 <!-- =================================================== -->
 ::: details 🛠 <dev>&&&</dev>
 
+- Sequence
+    1. Neosite
+    2. BackOnda
+    3. Lift
+    4. Down
+    5. Impact
+
+- Aiming
+    - SpadeStall like Spear fishing
+    - ManoCompress to lock Spade Orientation until SpadeImpact
 - LeadingWithBase
-    - Bend your Knees first then BrazoSwing
-- SpadeAmael.BackSwing
-- HandleGrip
-    - IsometricGrip, GentleGrip, LooseGrip
+    - Bend your Knees first then BrazoOnda
+- SpadePropel.BackOnda
+- HandleMano
+    - IsometricMano, GentleMano, LooseMano
 - BrazoAbsorb
     - Rock
     - Listen to SoilSound on Kontakt
         - How to describe the sounds of Sand, Gravel, Rock, RockScrape, Root, RedRot, Cream, DirectHit, Mud?
-- ConcurrentMove
-    - DendronLoad
+- Sinkron(DendroLoad)
 - OneInchPunch
     - When you're already BentOver
     - To deepen Site
@@ -58,10 +67,10 @@ Aliases: SpadeSlam, SpadeThrow
     - SpadePerpendicularPropel
 - Move error
     - Sequence error
-    - Body Bend before SpadeAmael
+    - Body Bend before SpadePropel
     - Use body Bend to increase acceleration time to maximize velocity on impact therefore maximizing force on impact
 - SpaceFoot to increase slam height, therefore acceleration therefore force. Spade must impact before foot to be effective
-- Wrestling Snap down is SpadeAmael. Like Rope Climbing.
+- Wrestling Snap down is SpadePropel. Like Rope Climbing.
 
 - ElbowClose
 - AlsoKnownAs(SpadeThrow)
@@ -71,6 +80,6 @@ Aliases: SpadeSlam, SpadeThrow
 
 <h2>PageTags</h2>
 
-- "Move.InstrumentMove.SpadeMove.SpadeAmael"
+- "Move.InstrumentMove.SpadeMove.SpadePropel"
 
 :::

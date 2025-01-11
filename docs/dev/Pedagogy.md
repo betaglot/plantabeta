@@ -119,6 +119,18 @@ Active recall while planting
 
 Recall what you learned during the morning truck ride
 
+## Levels of Ability
+
+- Many video games have posters which show your achievements
+- Achievements
+- Quantify plantor ability
+- Use levels to tap into the competitiveness of plantors.
+- Make planting like a video game. Everyone younger than me understands how to progress in video games
+    - Completing Challenges
+    - Experience
+    - Easter Eggs
+    - Achievements
+
 ---
 
 <!-- =================================================== -->

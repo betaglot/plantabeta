@@ -76,8 +76,8 @@ RouteSurfaceSize
         - SmearMovement
         - CrimpMano
 - (SmearMovement)To(SlideMovement) requires (StaticFriction)To(KineticFriction).
-    - To FootSlide down to a FootHold.
-    - Take enough weight off feet to be able to FootSlide them when Stemming or during to make space on SmallHold  FootSwap on a SmallHold
+    - To BootSlide down to a FootHold.
+    - Take enough weight off feet to be able to BootSlide them when Stemming or during to make space on SmallHold  FootSwap on a SmallHold
 
 ### CoefficientOfFriction
 

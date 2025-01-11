@@ -1,22 +1,4 @@
-# 🔻<via>AroundDirection</via>
-
-## 🕸 AroundDirection.Skema
-
-### Related 🟩<eko>Eko</eko>
-
--
-
-### Related 🔻<via>Via</via>
-
--
-
-### Related 🟠<move>Move</move>
-
--
-
-### Related 💜<psike>Psike</psike>
-
--
+# 🔻<via>PosteriorDirection</via>
 
 ---
 
@@ -27,6 +9,6 @@
 <!-- =================================================== -->
 ::: details 🛠 <dev>&&&</dev>
 
-- Circumvent
+-
 
 :::

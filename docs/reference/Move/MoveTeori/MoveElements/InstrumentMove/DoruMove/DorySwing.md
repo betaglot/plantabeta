@@ -1,6 +1,6 @@
-# 🟠<move>DoruSwing</move>
+# 🟠<move>DoruOnda</move>
 
-## 🕸 DoruSwing.Skema
+## 🕸 DoruOnda.Skema
 
 ### Related 🟩<eko>Eko</eko>
 

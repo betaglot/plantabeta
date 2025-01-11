@@ -1,8 +1,6 @@
-# 🔻<via>FollowDirection</via>
+# 🟠 <move>DendroInsert</move>
 
-Aliases: Along
-
-## 🕸 FollowDirection.Skema
+## 🕸 DendroInsert.Skema
 
 ### Related 🟩<eko>Eko</eko>
 
@@ -29,6 +27,9 @@ Aliases: Along
 <!-- =================================================== -->
 ::: details 🛠 <dev>&&&</dev>
 
-- ParaLine
+- DendroInsert can be an iterative process
+- Dendro1FingerInsert
+- Dendro2FingerInsert
+- Dendro3FingerInsert
 
 :::
