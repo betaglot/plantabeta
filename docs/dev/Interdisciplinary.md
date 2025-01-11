@@ -51,7 +51,7 @@
 - "Dev.Interdisciplinary.Geology"
 - "Dev.Interdisciplinary.Gymnastics"
 - "Dev.Interdisciplinary.Music"
-- "Dev.Interdisciplinary.Music.Rhythm"
+- "Dev.Interdisciplinary.Music.Ritmo"
 - "Dev.Interdisciplinary.Music.SongStructure"
 - "Dev.Interdisciplinary.Parkour"
 - "Dev.Interdisciplinary.Skateboarding"

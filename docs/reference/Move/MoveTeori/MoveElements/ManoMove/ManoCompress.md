@@ -1,6 +1,6 @@
-# 🟠<move>HandCompress</move>
+# 🟠<move>ManoCompress</move>
 
-> Concentric contraction of Hand while its
+Aliases: Pinch
 
 If there wasn't something in your hand then HandCompress would result in a Fist
 

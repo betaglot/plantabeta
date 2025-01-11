@@ -243,13 +243,13 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Move.Overview.MoveHierarchy.Submoto",
+                    "title": "Move.Overview.MoveHierarchy.Submove",
                     "color": "#ffffffff",
                     "textcolor": "#000000ff",
                     "type": "sidecar"
                 },
                 {
-                    "title": "Move.Overview.MoveHierarchy.Supermoto",
+                    "title": "Move.Overview.MoveHierarchy.Supermove",
                     "color": "#ffffffff",
                     "textcolor": "#000000ff",
                     "type": "sidecar"
@@ -295,12 +295,12 @@
                 "textcolor": "#000000ff"
             },
             {
-                "title": "Move.Overview.MoveHierarchy.Submoto",
+                "title": "Move.Overview.MoveHierarchy.Submove",
                 "color": "#ffffffff",
                 "textcolor": "#000000ff"
             },
             {
-                "title": "Move.Overview.MoveHierarchy.Supermoto",
+                "title": "Move.Overview.MoveHierarchy.Supermove",
                 "color": "#ffffffff",
                 "textcolor": "#000000ff"
             },
@@ -5088,7 +5088,7 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Dev.Interdisciplinary.Music.Rhythm",
+                    "title": "Dev.Interdisciplinary.Music.Ritmo",
                     "color": "#ffffffff",
                     "textcolor": "#000000ff",
                     "type": "sidecar"
@@ -5112,7 +5112,7 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Move.MoveFrase.MoveRhythm",
+                    "title": "Move.MoveFrase.MoveRitmo",
                     "color": "#ff7537ff",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -5229,7 +5229,7 @@
                 "textcolor": "#000000ff"
             },
             {
-                "title": "Dev.Interdisciplinary.Music.Rhythm",
+                "title": "Dev.Interdisciplinary.Music.Ritmo",
                 "color": "#ffffffff",
                 "textcolor": "#000000ff"
             },
@@ -5249,7 +5249,7 @@
                 "textcolor": "#000000ff"
             },
             {
-                "title": "Move.MoveFrase.MoveRhythm",
+                "title": "Move.MoveFrase.MoveRitmo",
                 "color": "#ff7537ff",
                 "textcolor": "white"
             },
@@ -7181,7 +7181,7 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Move.Overview.MoveHierarchy.Submoto",
+                    "title": "Move.Overview.MoveHierarchy.Submove",
                     "color": "#ff7537ff",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -7259,7 +7259,7 @@
                 "textcolor": "white"
             },
             {
-                "title": "Move.Overview.MoveHierarchy.Submoto",
+                "title": "Move.Overview.MoveHierarchy.Submove",
                 "color": "#ff7537ff",
                 "textcolor": "white"
             },
@@ -9028,7 +9028,7 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Move.MoveAttributes.SubmotoCount",
+                    "title": "Move.MoveAttributes.SubmoveCount",
                     "color": "#ff7537ff",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -9084,7 +9084,7 @@
                 "textcolor": "white"
             },
             {
-                "title": "Move.MoveAttributes.SubmotoCount",
+                "title": "Move.MoveAttributes.SubmoveCount",
                 "color": "#ff7537ff",
                 "textcolor": "white"
             },
@@ -9168,7 +9168,7 @@
                 {
                     "color": "#ffffffff",
                     "textcolor": "#000000ff",
-                    "title": "Dev.Interdisciplinary.Music.Rhythm",
+                    "title": "Dev.Interdisciplinary.Music.Ritmo",
                     "type": "sidecar"
                 },
                 {
@@ -9204,7 +9204,7 @@
                 {
                     "color": "#ff7537ff",
                     "textcolor": "white",
-                    "title": "Move.MoveFrase.MoveRhythm",
+                    "title": "Move.MoveFrase.MoveRitmo",
                     "type": "sidecar"
                 },
                 {
@@ -9284,7 +9284,7 @@
                 "textcolor": "#000000ff"
             },
             {
-                "title": "Dev.Interdisciplinary.Music.Rhythm",
+                "title": "Dev.Interdisciplinary.Music.Ritmo",
                 "color": "#ffffffff",
                 "textcolor": "#000000ff"
             },
@@ -9314,7 +9314,7 @@
                 "textcolor": "white"
             },
             {
-                "title": "Move.MoveFrase.MoveRhythm",
+                "title": "Move.MoveFrase.MoveRitmo",
                 "color": "#ff7537ff",
                 "textcolor": "white"
             },
@@ -15883,7 +15883,7 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Move.MoveFrase.SubmotoFrase",
+                    "title": "Move.MoveFrase.SubmoveFrase",
                     "color": "#ff7537ff",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -15943,7 +15943,7 @@
                 "textcolor": "white"
             },
             {
-                "title": "Move.MoveFrase.SubmotoFrase",
+                "title": "Move.MoveFrase.SubmoveFrase",
                 "color": "#ff7537ff",
                 "textcolor": "white"
             },
@@ -18492,7 +18492,7 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Move.MoveAttributes.SubmotoCount",
+                    "title": "Move.MoveAttributes.SubmoveCount",
                     "color": "#ff7537ff",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -18563,7 +18563,7 @@
                 "textcolor": "white"
             },
             {
-                "title": "Move.MoveAttributes.SubmotoCount",
+                "title": "Move.MoveAttributes.SubmoveCount",
                 "color": "#ff7537ff",
                 "textcolor": "white"
             },
@@ -18889,7 +18889,7 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Move.MoveComposition.MoveSelection.SubmotoSelection",
+                    "title": "Move.MoveComposition.MoveSelection.SubmoveSelection",
                     "color": "#ff7537ff",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -18958,7 +18958,7 @@
                 "textcolor": "#000000ff"
             },
             {
-                "title": "Move.MoveComposition.MoveSelection.SubmotoSelection",
+                "title": "Move.MoveComposition.MoveSelection.SubmoveSelection",
                 "color": "#ff7537ff",
                 "textcolor": "white"
             },
@@ -19378,7 +19378,7 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Move.MoveComposition.MoveSelection.SubmotoSelection",
+                    "title": "Move.MoveComposition.MoveSelection.SubmoveSelection",
                     "color": "#ff7537ff",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -19417,7 +19417,7 @@
                 "textcolor": "#000000ff"
             },
             {
-                "title": "Move.MoveComposition.MoveSelection.SubmotoSelection",
+                "title": "Move.MoveComposition.MoveSelection.SubmoveSelection",
                 "color": "#ff7537ff",
                 "textcolor": "white"
             },
@@ -19500,7 +19500,7 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Move.MoveAttributes.SubmotoCount",
+                    "title": "Move.MoveAttributes.SubmoveCount",
                     "color": "#ff7537ff",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -19569,7 +19569,7 @@
                 "textcolor": "white"
             },
             {
-                "title": "Move.MoveAttributes.SubmotoCount",
+                "title": "Move.MoveAttributes.SubmoveCount",
                 "color": "#ff7537ff",
                 "textcolor": "white"
             },
@@ -19622,7 +19622,7 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Move.MoveComposition.MoveSelection.SubmotoSelection",
+                    "title": "Move.MoveComposition.MoveSelection.SubmoveSelection",
                     "color": "#ff7537ff",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -19666,7 +19666,7 @@
                 "textcolor": "#000000ff"
             },
             {
-                "title": "Move.MoveComposition.MoveSelection.SubmotoSelection",
+                "title": "Move.MoveComposition.MoveSelection.SubmoveSelection",
                 "color": "#ff7537ff",
                 "textcolor": "white"
             },
@@ -19946,13 +19946,13 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Move.MoveComposition.MoveSelection.SubmotoSelection",
+                    "title": "Move.MoveComposition.MoveSelection.SubmoveSelection",
                     "color": "#ff7537ff",
                     "textcolor": "white",
                     "type": "sidecar"
                 },
                 {
-                    "title": "Move.MoveAttributes.SubmotoCount",
+                    "title": "Move.MoveAttributes.SubmoveCount",
                     "color": "#ff7537ff",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -19996,12 +19996,12 @@
                 "textcolor": "#000000ff"
             },
             {
-                "title": "Move.MoveComposition.MoveSelection.SubmotoSelection",
+                "title": "Move.MoveComposition.MoveSelection.SubmoveSelection",
                 "color": "#ff7537ff",
                 "textcolor": "white"
             },
             {
-                "title": "Move.MoveAttributes.SubmotoCount",
+                "title": "Move.MoveAttributes.SubmoveCount",
                 "color": "#ff7537ff",
                 "textcolor": "white"
             },
@@ -20246,7 +20246,7 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Move.MoveComposition.MoveSelection.SubmotoSelection",
+                    "title": "Move.MoveComposition.MoveSelection.SubmoveSelection",
                     "color": "#ff7537ff",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -20264,7 +20264,7 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Move.MoveAttributes.SubmotoCount",
+                    "title": "Move.MoveAttributes.SubmoveCount",
                     "color": "#ff7537ff",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -20341,7 +20341,7 @@
                 "textcolor": "white"
             },
             {
-                "title": "Move.MoveComposition.MoveSelection.SubmotoSelection",
+                "title": "Move.MoveComposition.MoveSelection.SubmoveSelection",
                 "color": "#ff7537ff",
                 "textcolor": "white"
             },
@@ -20356,7 +20356,7 @@
                 "textcolor": "white"
             },
             {
-                "title": "Move.MoveAttributes.SubmotoCount",
+                "title": "Move.MoveAttributes.SubmoveCount",
                 "color": "#ff7537ff",
                 "textcolor": "white"
             },
@@ -21014,7 +21014,7 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Move.MoveComposition.MoveSelection.SubmotoSelection",
+                    "title": "Move.MoveComposition.MoveSelection.SubmoveSelection",
                     "color": "#ff7537ff",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -21063,7 +21063,7 @@
                 "textcolor": "#000000ff"
             },
             {
-                "title": "Move.MoveComposition.MoveSelection.SubmotoSelection",
+                "title": "Move.MoveComposition.MoveSelection.SubmoveSelection",
                 "color": "#ff7537ff",
                 "textcolor": "white"
             },
@@ -23426,7 +23426,7 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Move.MoveComposition.MoveSelection.SubmotoSelection",
+                    "title": "Move.MoveComposition.MoveSelection.SubmoveSelection",
                     "color": "#ff7537ff",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -23513,7 +23513,7 @@
                 "textcolor": "white"
             },
             {
-                "title": "Move.MoveComposition.MoveSelection.SubmotoSelection",
+                "title": "Move.MoveComposition.MoveSelection.SubmoveSelection",
                 "color": "#ff7537ff",
                 "textcolor": "white"
             },
@@ -30353,7 +30353,7 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Move.MoveAttributes.SubmotoCount",
+                    "title": "Move.MoveAttributes.SubmoveCount",
                     "color": "#ff7537ff",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -30460,7 +30460,7 @@
                 "textcolor": "white"
             },
             {
-                "title": "Move.MoveAttributes.SubmotoCount",
+                "title": "Move.MoveAttributes.SubmoveCount",
                 "color": "#ff7537ff",
                 "textcolor": "white"
             },
@@ -31424,7 +31424,7 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Move.MoveFrase.MoveRhythm",
+                    "title": "Move.MoveFrase.MoveRitmo",
                     "color": "#ff7537ff",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -31494,7 +31494,7 @@
                 "textcolor": "white"
             },
             {
-                "title": "Move.MoveFrase.MoveRhythm",
+                "title": "Move.MoveFrase.MoveRitmo",
                 "color": "#ff7537ff",
                 "textcolor": "white"
             },
@@ -31552,7 +31552,7 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Move.MoveFrase.MoveRhythm",
+                    "title": "Move.MoveFrase.MoveRitmo",
                     "color": "#ff7537ff",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -31614,7 +31614,7 @@
                 "textcolor": "white"
             },
             {
-                "title": "Move.MoveFrase.MoveRhythm",
+                "title": "Move.MoveFrase.MoveRitmo",
                 "color": "#ff7537ff",
                 "textcolor": "white"
             },
@@ -31930,7 +31930,7 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Dev.Interdisciplinary.Music.Rhythm",
+                    "title": "Dev.Interdisciplinary.Music.Ritmo",
                     "color": "#ffffffff",
                     "textcolor": "#000000ff",
                     "type": "sidecar"
@@ -31954,7 +31954,7 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Move.MoveFrase.MoveRhythm",
+                    "title": "Move.MoveFrase.MoveRitmo",
                     "color": "#ff7537ff",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -31988,7 +31988,7 @@
                 "textcolor": "#000000ff"
             },
             {
-                "title": "Dev.Interdisciplinary.Music.Rhythm",
+                "title": "Dev.Interdisciplinary.Music.Ritmo",
                 "color": "#ffffffff",
                 "textcolor": "#000000ff"
             },
@@ -32008,7 +32008,7 @@
                 "textcolor": "white"
             },
             {
-                "title": "Move.MoveFrase.MoveRhythm",
+                "title": "Move.MoveFrase.MoveRitmo",
                 "color": "#ff7537ff",
                 "textcolor": "white"
             },
@@ -32049,7 +32049,7 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Dev.Interdisciplinary.Music.Rhythm",
+                    "title": "Dev.Interdisciplinary.Music.Ritmo",
                     "color": "#ffffffff",
                     "textcolor": "#000000ff",
                     "type": "sidecar"
@@ -32073,7 +32073,7 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Move.MoveFrase.MoveRhythm",
+                    "title": "Move.MoveFrase.MoveRitmo",
                     "color": "#ff7537ff",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -32113,7 +32113,7 @@
                 "textcolor": "#000000ff"
             },
             {
-                "title": "Dev.Interdisciplinary.Music.Rhythm",
+                "title": "Dev.Interdisciplinary.Music.Ritmo",
                 "color": "#ffffffff",
                 "textcolor": "#000000ff"
             },
@@ -32133,7 +32133,7 @@
                 "textcolor": "white"
             },
             {
-                "title": "Move.MoveFrase.MoveRhythm",
+                "title": "Move.MoveFrase.MoveRitmo",
                 "color": "#ff7537ff",
                 "textcolor": "white"
             },
@@ -32436,7 +32436,7 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Move.Overview.MoveHierarchy.Submoto",
+                    "title": "Move.Overview.MoveHierarchy.Submove",
                     "color": "#ff7537ff",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -32495,7 +32495,7 @@
                 "textcolor": "white"
             },
             {
-                "title": "Move.Overview.MoveHierarchy.Submoto",
+                "title": "Move.Overview.MoveHierarchy.Submove",
                 "color": "#ff7537ff",
                 "textcolor": "white"
             },
@@ -32767,7 +32767,7 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Move.Overview.MoveHierarchy.Submoto",
+                    "title": "Move.Overview.MoveHierarchy.Submove",
                     "color": "#ff7537ff",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -32827,7 +32827,7 @@
                 "textcolor": "white"
             },
             {
-                "title": "Move.Overview.MoveHierarchy.Submoto",
+                "title": "Move.Overview.MoveHierarchy.Submove",
                 "color": "#ff7537ff",
                 "textcolor": "white"
             },
@@ -34789,7 +34789,7 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Move.Overview.MoveHierarchy.Submoto",
+                    "title": "Move.Overview.MoveHierarchy.Submove",
                     "color": "#ff7537ff",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -34872,7 +34872,7 @@
                 "textcolor": "white"
             },
             {
-                "title": "Move.Overview.MoveHierarchy.Submoto",
+                "title": "Move.Overview.MoveHierarchy.Submove",
                 "color": "#ff7537ff",
                 "textcolor": "white"
             },
@@ -35115,7 +35115,7 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Move.Overview.MoveHierarchy.Submoto",
+                    "title": "Move.Overview.MoveHierarchy.Submove",
                     "color": "#ff7537ff",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -35325,7 +35325,7 @@
                 "textcolor": "white"
             },
             {
-                "title": "Move.Overview.MoveHierarchy.Submoto",
+                "title": "Move.Overview.MoveHierarchy.Submove",
                 "color": "#ff7537ff",
                 "textcolor": "white"
             },
@@ -37153,7 +37153,7 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Move.Overview.MoveHierarchy.Submoto",
+                    "title": "Move.Overview.MoveHierarchy.Submove",
                     "color": "#ff7537ff",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -37213,7 +37213,7 @@
                 "textcolor": "white"
             },
             {
-                "title": "Move.Overview.MoveHierarchy.Submoto",
+                "title": "Move.Overview.MoveHierarchy.Submove",
                 "color": "#ff7537ff",
                 "textcolor": "white"
             },
@@ -37283,7 +37283,7 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Move.Overview.MoveHierarchy.Submoto",
+                    "title": "Move.Overview.MoveHierarchy.Submove",
                     "color": "#ff7537ff",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -37337,7 +37337,7 @@
                 "textcolor": "white"
             },
             {
-                "title": "Move.Overview.MoveHierarchy.Submoto",
+                "title": "Move.Overview.MoveHierarchy.Submove",
                 "color": "#ff7537ff",
                 "textcolor": "white"
             },
@@ -38596,7 +38596,7 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Move.Overview.MoveHierarchy.Submoto",
+                    "title": "Move.Overview.MoveHierarchy.Submove",
                     "color": "#ff7537ff",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -38667,7 +38667,7 @@
                 "textcolor": "white"
             },
             {
-                "title": "Move.Overview.MoveHierarchy.Submoto",
+                "title": "Move.Overview.MoveHierarchy.Submove",
                 "color": "#ff7537ff",
                 "textcolor": "white"
             },
@@ -40662,7 +40662,7 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Move.Overview.MoveHierarchy.Supermoto",
+                    "title": "Move.Overview.MoveHierarchy.Supermove",
                     "color": "#ff7537ff",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -40717,7 +40717,7 @@
                 "textcolor": "white"
             },
             {
-                "title": "Move.Overview.MoveHierarchy.Supermoto",
+                "title": "Move.Overview.MoveHierarchy.Supermove",
                 "color": "#ff7537ff",
                 "textcolor": "white"
             },
@@ -40793,7 +40793,7 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Move.Overview.MoveHierarchy.Supermoto",
+                    "title": "Move.Overview.MoveHierarchy.Supermove",
                     "color": "#ff7537ff",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -40858,7 +40858,7 @@
                 "textcolor": "white"
             },
             {
-                "title": "Move.Overview.MoveHierarchy.Supermoto",
+                "title": "Move.Overview.MoveHierarchy.Supermove",
                 "color": "#ff7537ff",
                 "textcolor": "white"
             },
@@ -41994,13 +41994,13 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Move.Overview.MoveHierarchy.Submoto",
+                    "title": "Move.Overview.MoveHierarchy.Submove",
                     "color": "#ff7537ff",
                     "textcolor": "white",
                     "type": "sidecar"
                 },
                 {
-                    "title": "Move.Overview.MoveHierarchy.Supermoto",
+                    "title": "Move.Overview.MoveHierarchy.Supermove",
                     "color": "#ff7537ff",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -42059,12 +42059,12 @@
                 "textcolor": "#000000ff"
             },
             {
-                "title": "Move.Overview.MoveHierarchy.Submoto",
+                "title": "Move.Overview.MoveHierarchy.Submove",
                 "color": "#ff7537ff",
                 "textcolor": "white"
             },
             {
-                "title": "Move.Overview.MoveHierarchy.Supermoto",
+                "title": "Move.Overview.MoveHierarchy.Supermove",
                 "color": "#ff7537ff",
                 "textcolor": "white"
             },
@@ -43143,7 +43143,7 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Move.MoveComposition.MoveSelection.SubmotoSelection",
+                    "title": "Move.MoveComposition.MoveSelection.SubmoveSelection",
                     "color": "#ff7537ff",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -43233,7 +43233,7 @@
                 "textcolor": "white"
             },
             {
-                "title": "Move.MoveComposition.MoveSelection.SubmotoSelection",
+                "title": "Move.MoveComposition.MoveSelection.SubmoveSelection",
                 "color": "#ff7537ff",
                 "textcolor": "white"
             },
@@ -44808,13 +44808,13 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Move.Overview.MoveHierarchy.Submoto",
+                    "title": "Move.Overview.MoveHierarchy.Submove",
                     "color": "#ff7537ff",
                     "textcolor": "white",
                     "type": "sidecar"
                 },
                 {
-                    "title": "Move.Overview.MoveHierarchy.Supermoto",
+                    "title": "Move.Overview.MoveHierarchy.Supermove",
                     "color": "#ff7537ff",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -44863,12 +44863,12 @@
                 "textcolor": "white"
             },
             {
-                "title": "Move.Overview.MoveHierarchy.Submoto",
+                "title": "Move.Overview.MoveHierarchy.Submove",
                 "color": "#ff7537ff",
                 "textcolor": "white"
             },
             {
-                "title": "Move.Overview.MoveHierarchy.Supermoto",
+                "title": "Move.Overview.MoveHierarchy.Supermove",
                 "color": "#ff7537ff",
                 "textcolor": "white"
             },
@@ -45458,7 +45458,7 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Move.Overview.MoveHierarchy.Submoto",
+                    "title": "Move.Overview.MoveHierarchy.Submove",
                     "color": "#ff7537ff",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -45507,7 +45507,7 @@
                 "textcolor": "#000000ff"
             },
             {
-                "title": "Move.Overview.MoveHierarchy.Submoto",
+                "title": "Move.Overview.MoveHierarchy.Submove",
                 "color": "#ff7537ff",
                 "textcolor": "white"
             },
@@ -45590,13 +45590,13 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Move.Overview.MoveHierarchy.Submoto",
+                    "title": "Move.Overview.MoveHierarchy.Submove",
                     "color": "#ff7537ff",
                     "textcolor": "white",
                     "type": "sidecar"
                 },
                 {
-                    "title": "Move.Overview.MoveHierarchy.Supermoto",
+                    "title": "Move.Overview.MoveHierarchy.Supermove",
                     "color": "#ff7537ff",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -45671,12 +45671,12 @@
                 "textcolor": "white"
             },
             {
-                "title": "Move.Overview.MoveHierarchy.Submoto",
+                "title": "Move.Overview.MoveHierarchy.Submove",
                 "color": "#ff7537ff",
                 "textcolor": "white"
             },
             {
-                "title": "Move.Overview.MoveHierarchy.Supermoto",
+                "title": "Move.Overview.MoveHierarchy.Supermove",
                 "color": "#ff7537ff",
                 "textcolor": "white"
             },
@@ -45764,7 +45764,7 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Move.Overview.MoveHierarchy.Submoto",
+                    "title": "Move.Overview.MoveHierarchy.Submove",
                     "color": "#ff7537ff",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -45845,7 +45845,7 @@
                 "textcolor": "white"
             },
             {
-                "title": "Move.Overview.MoveHierarchy.Submoto",
+                "title": "Move.Overview.MoveHierarchy.Submove",
                 "color": "#ff7537ff",
                 "textcolor": "white"
             },
@@ -46308,13 +46308,13 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Move.Overview.MoveHierarchy.Submoto",
+                    "title": "Move.Overview.MoveHierarchy.Submove",
                     "color": "#ff7537ff",
                     "textcolor": "white",
                     "type": "sidecar"
                 },
                 {
-                    "title": "Move.Overview.MoveHierarchy.Supermoto",
+                    "title": "Move.Overview.MoveHierarchy.Supermove",
                     "color": "#ff7537ff",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -46389,12 +46389,12 @@
                 "textcolor": "white"
             },
             {
-                "title": "Move.Overview.MoveHierarchy.Submoto",
+                "title": "Move.Overview.MoveHierarchy.Submove",
                 "color": "#ff7537ff",
                 "textcolor": "white"
             },
             {
-                "title": "Move.Overview.MoveHierarchy.Supermoto",
+                "title": "Move.Overview.MoveHierarchy.Supermove",
                 "color": "#ff7537ff",
                 "textcolor": "white"
             },
@@ -47268,13 +47268,13 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Move.Overview.MoveHierarchy.Submoto",
+                    "title": "Move.Overview.MoveHierarchy.Submove",
                     "color": "#ff7537ff",
                     "textcolor": "white",
                     "type": "sidecar"
                 },
                 {
-                    "title": "Move.Overview.MoveHierarchy.Supermoto",
+                    "title": "Move.Overview.MoveHierarchy.Supermove",
                     "color": "#ff7537ff",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -47360,12 +47360,12 @@
                 "textcolor": "white"
             },
             {
-                "title": "Move.Overview.MoveHierarchy.Submoto",
+                "title": "Move.Overview.MoveHierarchy.Submove",
                 "color": "#ff7537ff",
                 "textcolor": "white"
             },
             {
-                "title": "Move.Overview.MoveHierarchy.Supermoto",
+                "title": "Move.Overview.MoveHierarchy.Supermove",
                 "color": "#ff7537ff",
                 "textcolor": "white"
             },
@@ -48840,7 +48840,7 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Move.Overview.MoveHierarchy.Submoto",
+                    "title": "Move.Overview.MoveHierarchy.Submove",
                     "color": "#ff7537ff",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -48946,7 +48946,7 @@
                 "textcolor": "#ffffffff"
             },
             {
-                "title": "Move.Overview.MoveHierarchy.Submoto",
+                "title": "Move.Overview.MoveHierarchy.Submove",
                 "color": "#ff7537ff",
                 "textcolor": "white"
             },
@@ -49052,7 +49052,7 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Move.Overview.MoveHierarchy.Submoto",
+                    "title": "Move.Overview.MoveHierarchy.Submove",
                     "color": "#ff7537ff",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -49123,7 +49123,7 @@
                 "textcolor": "#000000ff"
             },
             {
-                "title": "Move.Overview.MoveHierarchy.Submoto",
+                "title": "Move.Overview.MoveHierarchy.Submove",
                 "color": "#ff7537ff",
                 "textcolor": "white"
             },
@@ -52310,7 +52310,7 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Move.Overview.MoveHierarchy.Submoto",
+                    "title": "Move.Overview.MoveHierarchy.Submove",
                     "color": "#ff7537ff",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -52390,7 +52390,7 @@
                 "textcolor": "white"
             },
             {
-                "title": "Move.Overview.MoveHierarchy.Submoto",
+                "title": "Move.Overview.MoveHierarchy.Submove",
                 "color": "#ff7537ff",
                 "textcolor": "white"
             },
@@ -60814,7 +60814,7 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Move.Overview.MoveHierarchy.Submoto",
+                    "title": "Move.Overview.MoveHierarchy.Submove",
                     "color": "#ff7537ff",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -60869,7 +60869,7 @@
                 "textcolor": "white"
             },
             {
-                "title": "Move.Overview.MoveHierarchy.Submoto",
+                "title": "Move.Overview.MoveHierarchy.Submove",
                 "color": "#ff7537ff",
                 "textcolor": "white"
             },
@@ -64218,7 +64218,7 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Move.Overview.MoveHierarchy.Submoto",
+                    "title": "Move.Overview.MoveHierarchy.Submove",
                     "color": "#ff7537ff",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -64272,7 +64272,7 @@
                 "textcolor": "white"
             },
             {
-                "title": "Move.Overview.MoveHierarchy.Submoto",
+                "title": "Move.Overview.MoveHierarchy.Submove",
                 "color": "#ff7537ff",
                 "textcolor": "white"
             },
@@ -66554,7 +66554,7 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Move.Overview.MoveHierarchy.Submoto",
+                    "title": "Move.Overview.MoveHierarchy.Submove",
                     "color": "#ff7537ff",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -66614,7 +66614,7 @@
                 "textcolor": "white"
             },
             {
-                "title": "Move.Overview.MoveHierarchy.Submoto",
+                "title": "Move.Overview.MoveHierarchy.Submove",
                 "color": "#ff7537ff",
                 "textcolor": "white"
             },
@@ -67656,13 +67656,13 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Move.Overview.MoveHierarchy.Submoto",
+                    "title": "Move.Overview.MoveHierarchy.Submove",
                     "color": "#ff7537ff",
                     "textcolor": "white",
                     "type": "sidecar"
                 },
                 {
-                    "title": "Move.Overview.MoveHierarchy.Supermoto",
+                    "title": "Move.Overview.MoveHierarchy.Supermove",
                     "color": "#ff7537ff",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -67701,12 +67701,12 @@
                 "textcolor": "white"
             },
             {
-                "title": "Move.Overview.MoveHierarchy.Submoto",
+                "title": "Move.Overview.MoveHierarchy.Submove",
                 "color": "#ff7537ff",
                 "textcolor": "white"
             },
             {
-                "title": "Move.Overview.MoveHierarchy.Supermoto",
+                "title": "Move.Overview.MoveHierarchy.Supermove",
                 "color": "#ff7537ff",
                 "textcolor": "white"
             },

@@ -148,7 +148,7 @@
 - "Move.MoveFrase.MoveLineFrase"
 - "Move.MoveFrase.MoveNestedFrase"
 - "Move.MoveFrase.MoveOverlap"
-- "Move.MoveFrase.MoveRhythm"
+- "Move.MoveFrase.MoveRitmo"
 - "Move.MoveFrase.MoveFraseArea"
 - "Move.MoveFrase.MoveFraseError"
 - "Move.MoveFrase.MoveFraseVariation"
@@ -159,6 +159,6 @@
 - "Move.MoveFrase.PostMove"
 - "Move.MoveFrase.SimultaneousMove"
 - "Move.MoveFrase.SpadeFrase"
-- "Move.MoveFrase.SubmotoFrase"
+- "Move.MoveFrase.SubmoveFrase"
 - "Move.MoveFrase.TransitionMove"
 :::

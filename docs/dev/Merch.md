@@ -44,7 +44,7 @@ Focus on Emotion and feeling, not abstract computations
 - Q:
 - K:
 
-### <via>Diamond: Via</via>
+### <via>Diamond: Beta</via>
 
 - Ace:
 - 2:
@@ -60,7 +60,7 @@ Focus on Emotion and feeling, not abstract computations
 - Q:
 - K:
 
-### <eko>Club: Econs</eko>
+### <eko>Club: Ekons</eko>
 
 - Ace: Cream
 - 2:
@@ -89,6 +89,15 @@ Joker: Rock under cream
 - ElementTree
 - Move, Via, Eko, Psike, Beta
 - Betaglot Logo
+
+### CampPoster
+
+- Goes in the Mess tent
+- Waterproofed
+- For orientation
+- For teaching
+- To encourage knowledge sharing while waiting for food
+- To be able to point to specific elements
 
 ## Video
 

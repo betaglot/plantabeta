@@ -77,4 +77,4 @@ Make an incredibles mask for plantors
 
 ## Storyboards
 
-- Zoom into putplant from ultimate view to submoto
+- Zoom into putplant from ultimate view to Submove

@@ -66,10 +66,10 @@ json = [
                 "title": "Move.Overview.MoveHierarchy"
             },
             {
-                "title": "Move.Overview.MoveHierarchy.Submoto"
+                "title": "Move.Overview.MoveHierarchy.Submove"
             },
             {
-                "title": "Move.Overview.MoveHierarchy.Supermoto"
+                "title": "Move.Overview.MoveHierarchy.Supermove"
             },
             {
                 "title": "Move.Overview.MoveType"
@@ -1385,7 +1385,7 @@ json = [
                 "title": "Dev.Interdisciplinary.Biology"
             },
             {
-                "title": "Dev.Interdisciplinary.Music.Rhythm"
+                "title": "Dev.Interdisciplinary.Music.Ritmo"
             },
             {
                 "title": "Dev.Interdisciplinary.Music.SongStructure"
@@ -1397,7 +1397,7 @@ json = [
                 "title": "Dev.System.Syntax.ElementHierarchySyntax"
             },
             {
-                "title": "Move.MoveFrase.MoveRhythm"
+                "title": "Move.MoveFrase.MoveRitmo"
             },
             {
                 "title": "Move.Overview.MoveHierarchy"
@@ -1941,7 +1941,7 @@ json = [
                 "title": "Move.MoveDecomposition"
             },
             {
-                "title": "Move.Overview.MoveHierarchy.Submoto"
+                "title": "Move.Overview.MoveHierarchy.Submove"
             },
             {
                 "title": "PlantaBeta"
@@ -2444,7 +2444,7 @@ json = [
                 "title": "Move.MoveAttributes.MoveWeightDistribution"
             },
             {
-                "title": "Move.MoveAttributes.SubmotoCount"
+                "title": "Move.MoveAttributes.SubmoveCount"
             },
             {
                 "title": "Move.MoveFrase.MoveDensity"
@@ -2485,7 +2485,7 @@ json = [
                 "title": "Dev.Interdisciplinary.Music"
             },
             {
-                "title": "Dev.Interdisciplinary.Music.Rhythm"
+                "title": "Dev.Interdisciplinary.Music.Ritmo"
             },
             {
                 "title": "Dev.Poster"
@@ -2503,7 +2503,7 @@ json = [
                 "title": "Move.MoveFrase.MoveCycle"
             },
             {
-                "title": "Move.MoveFrase.MoveRhythm"
+                "title": "Move.MoveFrase.MoveRitmo"
             },
             {
                 "title": "PlantaBeta"
@@ -4314,7 +4314,7 @@ json = [
                 "title": "Move.MoveFrase.MoveLineFrase"
             },
             {
-                "title": "Move.MoveFrase.SubmotoFrase"
+                "title": "Move.MoveFrase.SubmoveFrase"
             },
             {
                 "title": "PlantaBeta"
@@ -5020,7 +5020,7 @@ json = [
                 "title": "Move.MoveAttributes.MovePermutation"
             },
             {
-                "title": "Move.MoveAttributes.SubmotoCount"
+                "title": "Move.MoveAttributes.SubmoveCount"
             },
             {
                 "title": "PlantaBeta"
@@ -5121,7 +5121,7 @@ json = [
                 "title": "Dev.Transcription"
             },
             {
-                "title": "Move.MoveComposition.MoveSelection.SubmotoSelection"
+                "title": "Move.MoveComposition.MoveSelection.SubmoveSelection"
             },
             {
                 "title": "Move.MovePoint.MoveFinishPoint"
@@ -5253,7 +5253,7 @@ json = [
                 "title": "Dev.Transcription"
             },
             {
-                "title": "Move.MoveComposition.MoveSelection.SubmotoSelection"
+                "title": "Move.MoveComposition.MoveSelection.SubmoveSelection"
             },
             {
                 "title": "PlantaBeta"
@@ -5294,7 +5294,7 @@ json = [
                 "title": "Move.ArmMove.ArmKurve"
             },
             {
-                "title": "Move.MoveAttributes.SubmotoCount"
+                "title": "Move.MoveAttributes.SubmoveCount"
             },
             {
                 "title": "PlantaBeta"
@@ -5320,7 +5320,7 @@ json = [
                 "title": "Guide.What.WhatElement.ElementName.Affix"
             },
             {
-                "title": "Move.MoveComposition.MoveSelection.SubmotoSelection"
+                "title": "Move.MoveComposition.MoveSelection.SubmoveSelection"
             },
             {
                 "title": "PlantaBeta"
@@ -5407,10 +5407,10 @@ json = [
                 "title": "Dev.Transcription"
             },
             {
-                "title": "Move.MoveComposition.MoveSelection.SubmotoSelection"
+                "title": "Move.MoveComposition.MoveSelection.SubmoveSelection"
             },
             {
-                "title": "Move.MoveAttributes.SubmotoCount"
+                "title": "Move.MoveAttributes.SubmoveCount"
             },
             {
                 "title": "PlantaBeta"
@@ -5492,7 +5492,7 @@ json = [
                 "title": "Move.MoveCard"
             },
             {
-                "title": "Move.MoveComposition.MoveSelection.SubmotoSelection"
+                "title": "Move.MoveComposition.MoveSelection.SubmoveSelection"
             },
             {
                 "title": "Move.MoveDiagram.MoveTimeline"
@@ -5501,7 +5501,7 @@ json = [
                 "title": "Move.MoveDifficulty.MoveComplexity"
             },
             {
-                "title": "Move.MoveAttributes.SubmotoCount"
+                "title": "Move.MoveAttributes.SubmoveCount"
             },
             {
                 "title": "Move.MoveFrase.MoveDensity"
@@ -5697,7 +5697,7 @@ json = [
                 "title": "Dev.VideoAnalysis.VideoTagging"
             },
             {
-                "title": "Move.MoveComposition.MoveSelection.SubmotoSelection"
+                "title": "Move.MoveComposition.MoveSelection.SubmoveSelection"
             },
             {
                 "title": "PlantaBeta"
@@ -6359,7 +6359,7 @@ json = [
                 "title": "Move.MoveComposition.MoveSelection.ForcedMove"
             },
             {
-                "title": "Move.MoveComposition.MoveSelection.SubmotoSelection"
+                "title": "Move.MoveComposition.MoveSelection.SubmoveSelection"
             },
             {
                 "title": "Move.MoveLine.CenterOfMassLine"
@@ -8253,7 +8253,7 @@ json = [
                 "title": "Move.MoveDifficulty.MoveComplexity"
             },
             {
-                "title": "Move.MoveAttributes.SubmotoCount"
+                "title": "Move.MoveAttributes.SubmoveCount"
             },
             {
                 "title": "Move.MoveSpace.Overview"
@@ -8541,7 +8541,7 @@ json = [
                 "title": "Move.MoveAttributes.MoveType.ExpansionMove"
             },
             {
-                "title": "Move.MoveFrase.MoveRhythm"
+                "title": "Move.MoveFrase.MoveRitmo"
             },
             {
                 "title": "Psike.CognitiveEase.Repetition",
@@ -8571,7 +8571,7 @@ json = [
                 "title": "Move.MoveAttributes.MoveType.ReleaseMove"
             },
             {
-                "title": "Move.MoveFrase.MoveRhythm"
+                "title": "Move.MoveFrase.MoveRitmo"
             },
             {
                 "title": "Move.MoveFrase.MoveTempo"
@@ -8670,7 +8670,7 @@ json = [
                 "title": "Dev.Interdisciplinary.Climbing"
             },
             {
-                "title": "Dev.Interdisciplinary.Music.Rhythm"
+                "title": "Dev.Interdisciplinary.Music.Ritmo"
             },
             {
                 "title": "Move.MoveDiagram.MoveTimeline"
@@ -8682,7 +8682,7 @@ json = [
                 "title": "Move.MoveFrase"
             },
             {
-                "title": "Move.MoveFrase.MoveRhythm"
+                "title": "Move.MoveFrase.MoveRitmo"
             },
             {
                 "title": "PlantaBeta"
@@ -8702,7 +8702,7 @@ json = [
                 "title": "Dev.Interdisciplinary.Music"
             },
             {
-                "title": "Dev.Interdisciplinary.Music.Rhythm"
+                "title": "Dev.Interdisciplinary.Music.Ritmo"
             },
             {
                 "title": "Move.MoveAttributes.MoveType.RestMove"
@@ -8714,7 +8714,7 @@ json = [
                 "title": "Move.MoveFrase.MoveEndurance"
             },
             {
-                "title": "Move.MoveFrase.MoveRhythm"
+                "title": "Move.MoveFrase.MoveRitmo"
             },
             {
                 "title": "Move.MoveFrase.MoveTempo"
@@ -8814,7 +8814,7 @@ json = [
                 "title": "Move.MoveFrase.MoveOverlap"
             },
             {
-                "title": "Move.Overview.MoveHierarchy.Submoto"
+                "title": "Move.Overview.MoveHierarchy.Submove"
             },
             {
                 "title": "PlantaBeta"
@@ -8902,7 +8902,7 @@ json = [
                 "title": "Move.MoveDiagram.MoveTimeline"
             },
             {
-                "title": "Move.Overview.MoveHierarchy.Submoto"
+                "title": "Move.Overview.MoveHierarchy.Submove"
             },
             {
                 "title": "PlantaBeta"
@@ -9455,7 +9455,7 @@ json = [
                 "title": "Move.MoveFrase"
             },
             {
-                "title": "Move.Overview.MoveHierarchy.Submoto"
+                "title": "Move.Overview.MoveHierarchy.Submove"
             },
             {
                 "title": "Psike.Decision",
@@ -9562,7 +9562,7 @@ json = [
                 "title": "Move.MoveSpace.Overview"
             },
             {
-                "title": "Move.Overview.MoveHierarchy.Submoto"
+                "title": "Move.Overview.MoveHierarchy.Submove"
             },
             {
                 "title": "Move.Physics.Direction"
@@ -10118,7 +10118,7 @@ json = [
                 "title": "Move.MoveDiagram.MoveTimeline"
             },
             {
-                "title": "Move.Overview.MoveHierarchy.Submoto"
+                "title": "Move.Overview.MoveHierarchy.Submove"
             },
             {
                 "title": "Move.Physics.Direction"
@@ -10153,7 +10153,7 @@ json = [
                 "title": "Move.MoveDiagram.MoveTimeline"
             },
             {
-                "title": "Move.Overview.MoveHierarchy.Submoto"
+                "title": "Move.Overview.MoveHierarchy.Submove"
             },
             {
                 "title": "PlantaBeta"
@@ -10507,7 +10507,7 @@ json = [
                 "title": "Move.MoveDiagram.Overview"
             },
             {
-                "title": "Move.Overview.MoveHierarchy.Submoto"
+                "title": "Move.Overview.MoveHierarchy.Submove"
             },
             {
                 "title": "PlantaBeta"
@@ -11069,7 +11069,7 @@ json = [
                 "title": "Move.Overview.MoveHierarchy"
             },
             {
-                "title": "Move.Overview.MoveHierarchy.Supermoto"
+                "title": "Move.Overview.MoveHierarchy.Supermove"
             },
             {
                 "title": "Psike.Vision.Find.Overview",
@@ -11108,7 +11108,7 @@ json = [
                 "title": "Move.MoveDiagram.MoveTimeline"
             },
             {
-                "title": "Move.Overview.MoveHierarchy.Supermoto"
+                "title": "Move.Overview.MoveHierarchy.Supermove"
             },
             {
                 "title": "PlantaBeta"
@@ -11433,10 +11433,10 @@ json = [
                 "title": "Dev.Transcription"
             },
             {
-                "title": "Move.Overview.MoveHierarchy.Submoto"
+                "title": "Move.Overview.MoveHierarchy.Submove"
             },
             {
-                "title": "Move.Overview.MoveHierarchy.Supermoto"
+                "title": "Move.Overview.MoveHierarchy.Supermove"
             },
             {
                 "title": "PlantaBeta"
@@ -11743,7 +11743,7 @@ json = [
                 "title": "Move.MoveComposition.MoveSelection.AlternativeMove"
             },
             {
-                "title": "Move.MoveComposition.MoveSelection.SubmotoSelection"
+                "title": "Move.MoveComposition.MoveSelection.SubmoveSelection"
             },
             {
                 "title": "Move.MoveDifficulty.MoveComplexity"
@@ -12189,10 +12189,10 @@ json = [
                 "title": "Move.MoveFrase"
             },
             {
-                "title": "Move.Overview.MoveHierarchy.Submoto"
+                "title": "Move.Overview.MoveHierarchy.Submove"
             },
             {
-                "title": "Move.Overview.MoveHierarchy.Supermoto"
+                "title": "Move.Overview.MoveHierarchy.Supermove"
             },
             {
                 "title": "PlantaBeta"
@@ -12366,7 +12366,7 @@ json = [
                 "title": "Guide.Why.Productivity.Efficiency.Redundancy"
             },
             {
-                "title": "Move.Overview.MoveHierarchy.Submoto"
+                "title": "Move.Overview.MoveHierarchy.Submove"
             },
             {
                 "title": "PlantaBeta"
@@ -12407,10 +12407,10 @@ json = [
                 "title": "Move.MoveSize"
             },
             {
-                "title": "Move.Overview.MoveHierarchy.Submoto"
+                "title": "Move.Overview.MoveHierarchy.Submove"
             },
             {
-                "title": "Move.Overview.MoveHierarchy.Supermoto"
+                "title": "Move.Overview.MoveHierarchy.Supermove"
             },
             {
                 "title": "PlantaBeta"
@@ -12454,7 +12454,7 @@ json = [
                 "title": "Move.MoveShape"
             },
             {
-                "title": "Move.Overview.MoveHierarchy.Submoto"
+                "title": "Move.Overview.MoveHierarchy.Submove"
             },
             {
                 "title": "PlantaBeta"
@@ -12605,10 +12605,10 @@ json = [
                 "title": "Move.MoveFrase"
             },
             {
-                "title": "Move.Overview.MoveHierarchy.Submoto"
+                "title": "Move.Overview.MoveHierarchy.Submove"
             },
             {
-                "title": "Move.Overview.MoveHierarchy.Supermoto"
+                "title": "Move.Overview.MoveHierarchy.Supermove"
             },
             {
                 "title": "PlantaBeta"
@@ -12869,10 +12869,10 @@ json = [
                 "title": "Move.MoveType.DynamicMove"
             },
             {
-                "title": "Move.Overview.MoveHierarchy.Submoto"
+                "title": "Move.Overview.MoveHierarchy.Submove"
             },
             {
-                "title": "Move.Overview.MoveHierarchy.Supermoto"
+                "title": "Move.Overview.MoveHierarchy.Supermove"
             },
             {
                 "title": "PlantaBeta"
@@ -13303,7 +13303,7 @@ json = [
                 "title": "Land.Piece.PieceShape.IrregularPieceShape"
             },
             {
-                "title": "Move.Overview.MoveHierarchy.Submoto"
+                "title": "Move.Overview.MoveHierarchy.Submove"
             },
             {
                 "title": "PlantaBeta"
@@ -13359,7 +13359,7 @@ json = [
                 "title": "Dev.PageLayout"
             },
             {
-                "title": "Move.Overview.MoveHierarchy.Submoto"
+                "title": "Move.Overview.MoveHierarchy.Submove"
             },
             {
                 "title": "PlantaBeta"
@@ -14253,7 +14253,7 @@ json = [
                 "title": "Move.ManoMove.TreeMano"
             },
             {
-                "title": "Move.Overview.MoveHierarchy.Submoto"
+                "title": "Move.Overview.MoveHierarchy.Submove"
             },
             {
                 "title": "Psike.Alignment",
@@ -16571,7 +16571,7 @@ json = [
                 "title": "Move.MoveVideo"
             },
             {
-                "title": "Move.Overview.MoveHierarchy.Submoto"
+                "title": "Move.Overview.MoveHierarchy.Submove"
             },
             {
                 "title": "Move.ToolMove.SpadeMove.SpadeSkreef"
@@ -17492,7 +17492,7 @@ json = [
                 "title": "Move.MoveName.Overview"
             },
             {
-                "title": "Move.Overview.MoveHierarchy.Submoto"
+                "title": "Move.Overview.MoveHierarchy.Submove"
             },
             {
                 "title": "Via.Direction"
@@ -18124,7 +18124,7 @@ json = [
                 "title": "Move.BodyMove.Walk"
             },
             {
-                "title": "Move.Overview.MoveHierarchy.Submoto"
+                "title": "Move.Overview.MoveHierarchy.Submove"
             },
             {
                 "title": "Psike.Calm"
@@ -18415,10 +18415,10 @@ json = [
                 "title": "Move.Overview"
             },
             {
-                "title": "Move.Overview.MoveHierarchy.Submoto"
+                "title": "Move.Overview.MoveHierarchy.Submove"
             },
             {
-                "title": "Move.Overview.MoveHierarchy.Supermoto"
+                "title": "Move.Overview.MoveHierarchy.Supermove"
             },
             {
                 "title": "PlantaBeta"

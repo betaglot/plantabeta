@@ -1,8 +1,8 @@
-# 🟠<move>MarkorMove</move>
+# 🟠<move>MarkaforMove</move>
 
 Aliases: Flagger, Flagging Pouch
 
-## 🕸 MarkorMove.Skema
+## 🕸 MarkaforMove.Skema
 
 ### Related 🟩<eko>Eko</eko>
 
@@ -29,6 +29,6 @@ Aliases: Flagger, Flagging Pouch
 <!-- =================================================== -->
 ::: details 🛠 <dev>&&&</dev>
 
--
+- Markafor Reload
 
 :::

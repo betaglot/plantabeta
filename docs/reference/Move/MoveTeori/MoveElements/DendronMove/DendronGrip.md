@@ -1,12 +1,12 @@
-# 🟠 <move>TreeMano</move>
+# 🟠 <move>DendronMano</move>
 
 ![MoveIkon](/Move/Move_Ikon.png)
 
-## TreeMano Purpose
+## DendronMano Purpose
 
-- TreeMano is the interface between Plantor and Dendron.
+- DendronMano is the interface between Plantor and Dendron.
 
-## TreeMano Parameters
+## DendronMano Parameters
 
 - HandSize
 - PodSize
@@ -19,13 +19,13 @@
 
 ## PodMano
 
-### Submotos
+### Submoves
 
 - FingerCurl
 - FingerUncurl
 - Finger
 
-### Supermoto
+### Supermove
 
 - TreeInsert
 - BagCover
@@ -33,7 +33,7 @@
 
 ## StemMano
 
-## 🕸 TreeMano.Skema
+## 🕸 DendronMano.Skema
 
 ### Related 🟩<eko>Eko</eko>
 
@@ -71,7 +71,7 @@
             - LooseTree
         - No roots exposed
             - ShallowTree
-
+- DendronFlip
 - BlindMove
 - PodMano
 - TreeLoad
@@ -80,7 +80,5 @@
 - TreeInsert
     - PodMano(2Finger)
     - TreeRelease
-- "Move.ManoMove.TreeFlip"
-- "Move.ManoMove.TreeMano"
 
 :::

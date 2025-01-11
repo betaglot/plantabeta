@@ -71,6 +71,7 @@
 <!-- =================================================== -->
 ::: details 🛠 <dev>&&&</dev>
 
+- <https://en.wikipedia.org/wiki/Polynesian_multihull_terminology>
 - StiffArm Flora
 - CacheMove
     - BrazoAma during BagLoad
@@ -80,6 +81,10 @@
     - Polynesian dance developoed on boats
     - Especially down walk
     - Down climb
+
+- BrazoAnteriorAma
+- BrazoPosteriorAma
+- BrazoLateralAma
 
 <h2>PageTags</h2>
 

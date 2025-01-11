@@ -2137,12 +2137,12 @@ data = [
     {
         "PagePath": "Move/MoveOverview.md",
         "PaperPhoto": "0021.jpg",
-        "TagName": "Move.Overview.MoveHierarchy.Submoto"
+        "TagName": "Move.Overview.MoveHierarchy.Submove"
     },
     {
         "PagePath": "Move/MoveOverview.md",
         "PaperPhoto": "0021.jpg",
-        "TagName": "Move.Overview.MoveHierarchy.Supermoto"
+        "TagName": "Move.Overview.MoveHierarchy.Supermove"
     },
     {
         "PagePath": "Move/MoveOverview.md",
@@ -2327,7 +2327,7 @@ data = [
     {
         "PagePath": "Move/MoveOverview.md",
         "PaperPhoto": "0560.jpg",
-        "TagName": "Move.Overview.MoveHierarchy.Submoto"
+        "TagName": "Move.Overview.MoveHierarchy.Submove"
     },
     {
         "PagePath": "Move/MoveOverview.md",
@@ -2407,7 +2407,7 @@ data = [
     {
         "PagePath": "Move/MoveOverview.md",
         "PaperPhoto": "0756.jpg",
-        "TagName": "Move.MoveAttributes.SubmotoCount"
+        "TagName": "Move.MoveAttributes.SubmoveCount"
     },
     {
         "PagePath": "Move/MoveOverview.md",
@@ -2942,12 +2942,12 @@ data = [
     {
         "PagePath": "Move/MoveOverview.md",
         "PaperPhoto": "1324.jpg",
-        "TagName": "Move.MoveAttributes.SubmotoCount"
+        "TagName": "Move.MoveAttributes.SubmoveCount"
     },
     {
         "PagePath": "Move/MoveOverview.md",
         "PaperPhoto": "1342.jpg",
-        "TagName": "Move.MoveComposition.MoveSelection.SubmotoSelection"
+        "TagName": "Move.MoveComposition.MoveSelection.SubmoveSelection"
     },
     {
         "PagePath": "Move/MoveOverview.md",
@@ -2962,7 +2962,7 @@ data = [
     {
         "PagePath": "Move/MoveOverview.md",
         "PaperPhoto": "1343.jpg",
-        "TagName": "Move.MoveComposition.MoveSelection.SubmotoSelection"
+        "TagName": "Move.MoveComposition.MoveSelection.SubmoveSelection"
     },
     {
         "PagePath": "Move/MoveOverview.md",
@@ -3017,17 +3017,17 @@ data = [
     {
         "PagePath": "Move/MoveOverview.md",
         "PaperPhoto": "1356.jpg",
-        "TagName": "Move.MoveComposition.MoveSelection.SubmotoSelection"
+        "TagName": "Move.MoveComposition.MoveSelection.SubmoveSelection"
     },
     {
         "PagePath": "Move/MoveOverview.md",
         "PaperPhoto": "1357.jpg",
-        "TagName": "Move.MoveAttributes.SubmotoCount"
+        "TagName": "Move.MoveAttributes.SubmoveCount"
     },
     {
         "PagePath": "Move/MoveOverview.md",
         "PaperPhoto": "1359.jpg",
-        "TagName": "Move.MoveComposition.MoveSelection.SubmotoSelection"
+        "TagName": "Move.MoveComposition.MoveSelection.SubmoveSelection"
     },
     {
         "PagePath": "Move/MoveOverview.md",
@@ -3037,12 +3037,12 @@ data = [
     {
         "PagePath": "Move/MoveOverview.md",
         "PaperPhoto": "1374.jpg",
-        "TagName": "Move.MoveComposition.MoveSelection.SubmotoSelection"
+        "TagName": "Move.MoveComposition.MoveSelection.SubmoveSelection"
     },
     {
         "PagePath": "Move/MoveOverview.md",
         "PaperPhoto": "1374.jpg",
-        "TagName": "Move.MoveAttributes.SubmotoCount"
+        "TagName": "Move.MoveAttributes.SubmoveCount"
     },
     {
         "PagePath": "Move/MoveOverview.md",
@@ -3052,12 +3052,12 @@ data = [
     {
         "PagePath": "Move/MoveOverview.md",
         "PaperPhoto": "1379.jpg",
-        "TagName": "Move.MoveComposition.MoveSelection.SubmotoSelection"
+        "TagName": "Move.MoveComposition.MoveSelection.SubmoveSelection"
     },
     {
         "PagePath": "Move/MoveOverview.md",
         "PaperPhoto": "1379.jpg",
-        "TagName": "Move.MoveAttributes.SubmotoCount"
+        "TagName": "Move.MoveAttributes.SubmoveCount"
     },
     {
         "PagePath": "Move/MoveOverview.md",
@@ -3072,7 +3072,7 @@ data = [
     {
         "PagePath": "Move/MoveOverview.md",
         "PaperPhoto": "1393.jpg",
-        "TagName": "Move.MoveComposition.MoveSelection.SubmotoSelection"
+        "TagName": "Move.MoveComposition.MoveSelection.SubmoveSelection"
     },
     {
         "PagePath": "Move/MoveOverview.md",
@@ -3132,7 +3132,7 @@ data = [
     {
         "PagePath": "Move/MoveOverview.md",
         "PaperPhoto": "1493.jpg",
-        "TagName": "Move.MoveComposition.MoveSelection.SubmotoSelection"
+        "TagName": "Move.MoveComposition.MoveSelection.SubmoveSelection"
     },
     {
         "PagePath": "Move/MoveOverview.md",
@@ -3222,7 +3222,7 @@ data = [
     {
         "PagePath": "Move/MoveOverview.md",
         "PaperPhoto": "1749.jpg",
-        "TagName": "Move.MoveAttributes.SubmotoCount"
+        "TagName": "Move.MoveAttributes.SubmoveCount"
     },
     {
         "PagePath": "Move/MoveOverview.md",
@@ -3307,12 +3307,12 @@ data = [
     {
         "PagePath": "Move/MoveOverview.md",
         "PaperPhoto": "1817.jpg",
-        "TagName": "Move.Overview.MoveHierarchy.Submoto"
+        "TagName": "Move.Overview.MoveHierarchy.Submove"
     },
     {
         "PagePath": "Move/MoveOverview.md",
         "PaperPhoto": "1819.jpg",
-        "TagName": "Move.Overview.MoveHierarchy.Submoto"
+        "TagName": "Move.Overview.MoveHierarchy.Submove"
     },
     {
         "PagePath": "Move/MoveOverview.md",
@@ -3402,7 +3402,7 @@ data = [
     {
         "PagePath": "Move/MoveOverview.md",
         "PaperPhoto": "1857.jpg",
-        "TagName": "Move.Overview.MoveHierarchy.Submoto"
+        "TagName": "Move.Overview.MoveHierarchy.Submove"
     },
     {
         "PagePath": "Move/MoveOverview.md",
@@ -3422,7 +3422,7 @@ data = [
     {
         "PagePath": "Move/MoveOverview.md",
         "PaperPhoto": "1859.jpg",
-        "TagName": "Move.Overview.MoveHierarchy.Submoto"
+        "TagName": "Move.Overview.MoveHierarchy.Submove"
     },
     {
         "PagePath": "Move/MoveOverview.md",
@@ -3482,7 +3482,7 @@ data = [
     {
         "PagePath": "Move/MoveOverview.md",
         "PaperPhoto": "2002.jpg",
-        "TagName": "Move.Overview.MoveHierarchy.Submoto"
+        "TagName": "Move.Overview.MoveHierarchy.Submove"
     },
     {
         "PagePath": "Move/MoveOverview.md",
@@ -3507,7 +3507,7 @@ data = [
     {
         "PagePath": "Move/MoveOverview.md",
         "PaperPhoto": "2008.jpg",
-        "TagName": "Move.Overview.MoveHierarchy.Submoto"
+        "TagName": "Move.Overview.MoveHierarchy.Submove"
     },
     {
         "PagePath": "Move/MoveOverview.md",
@@ -3517,7 +3517,7 @@ data = [
     {
         "PagePath": "Move/MoveOverview.md",
         "PaperPhoto": "2035.jpg",
-        "TagName": "Move.Overview.MoveHierarchy.Submoto"
+        "TagName": "Move.Overview.MoveHierarchy.Submove"
     },
     {
         "PagePath": "Move/MoveOverview.md",
@@ -3552,12 +3552,12 @@ data = [
     {
         "PagePath": "Move/MoveOverview.md",
         "PaperPhoto": "2330.jpg",
-        "TagName": "Move.Overview.MoveHierarchy.Supermoto"
+        "TagName": "Move.Overview.MoveHierarchy.Supermove"
     },
     {
         "PagePath": "Move/MoveOverview.md",
         "PaperPhoto": "2338.jpg",
-        "TagName": "Move.Overview.MoveHierarchy.Supermoto"
+        "TagName": "Move.Overview.MoveHierarchy.Supermove"
     },
     {
         "PagePath": "Move/MoveOverview.md",
@@ -3597,12 +3597,12 @@ data = [
     {
         "PagePath": "Move/MoveOverview.md",
         "PaperPhoto": "2445.jpg",
-        "TagName": "Move.Overview.MoveHierarchy.Submoto"
+        "TagName": "Move.Overview.MoveHierarchy.Submove"
     },
     {
         "PagePath": "Move/MoveOverview.md",
         "PaperPhoto": "2445.jpg",
-        "TagName": "Move.Overview.MoveHierarchy.Supermoto"
+        "TagName": "Move.Overview.MoveHierarchy.Supermove"
     },
     {
         "PagePath": "Move/MoveOverview.md",
@@ -3627,12 +3627,12 @@ data = [
     {
         "PagePath": "Move/MoveOverview.md",
         "PaperPhoto": "2509.jpg",
-        "TagName": "Move.Overview.MoveHierarchy.Submoto"
+        "TagName": "Move.Overview.MoveHierarchy.Submove"
     },
     {
         "PagePath": "Move/MoveOverview.md",
         "PaperPhoto": "2509.jpg",
-        "TagName": "Move.Overview.MoveHierarchy.Supermoto"
+        "TagName": "Move.Overview.MoveHierarchy.Supermove"
     },
     {
         "PagePath": "Move/MoveOverview.md",
@@ -3647,7 +3647,7 @@ data = [
     {
         "PagePath": "Move/MoveOverview.md",
         "PaperPhoto": "2526.jpg",
-        "TagName": "Move.Overview.MoveHierarchy.Submoto"
+        "TagName": "Move.Overview.MoveHierarchy.Submove"
     },
     {
         "PagePath": "Move/MoveOverview.md",
@@ -3657,12 +3657,12 @@ data = [
     {
         "PagePath": "Move/MoveOverview.md",
         "PaperPhoto": "2530.jpg",
-        "TagName": "Move.Overview.MoveHierarchy.Submoto"
+        "TagName": "Move.Overview.MoveHierarchy.Submove"
     },
     {
         "PagePath": "Move/MoveOverview.md",
         "PaperPhoto": "2530.jpg",
-        "TagName": "Move.Overview.MoveHierarchy.Supermoto"
+        "TagName": "Move.Overview.MoveHierarchy.Supermove"
     },
     {
         "PagePath": "Move/MoveOverview.md",
@@ -3677,7 +3677,7 @@ data = [
     {
         "PagePath": "Move/MoveOverview.md",
         "PaperPhoto": "2531.jpg",
-        "TagName": "Move.Overview.MoveHierarchy.Submoto"
+        "TagName": "Move.Overview.MoveHierarchy.Submove"
     },
     {
         "PagePath": "Move/MoveOverview.md",
@@ -3692,12 +3692,12 @@ data = [
     {
         "PagePath": "Move/MoveOverview.md",
         "PaperPhoto": "2539.jpg",
-        "TagName": "Move.Overview.MoveHierarchy.Submoto"
+        "TagName": "Move.Overview.MoveHierarchy.Submove"
     },
     {
         "PagePath": "Move/MoveOverview.md",
         "PaperPhoto": "2539.jpg",
-        "TagName": "Move.Overview.MoveHierarchy.Supermoto"
+        "TagName": "Move.Overview.MoveHierarchy.Supermove"
     },
     {
         "PagePath": "Move/MoveOverview.md",
@@ -3717,12 +3717,12 @@ data = [
     {
         "PagePath": "Move/MoveOverview.md",
         "PaperPhoto": "2834.jpg",
-        "TagName": "Move.Overview.MoveHierarchy.Submoto"
+        "TagName": "Move.Overview.MoveHierarchy.Submove"
     },
     {
         "PagePath": "Move/MoveOverview.md",
         "PaperPhoto": "2834.jpg",
-        "TagName": "Move.Overview.MoveHierarchy.Supermoto"
+        "TagName": "Move.Overview.MoveHierarchy.Supermove"
     },
     {
         "PagePath": "Move/MoveOverview.md",
@@ -3747,12 +3747,12 @@ data = [
     {
         "PagePath": "Move/MoveOverview.md",
         "PaperPhoto": "2894.jpg",
-        "TagName": "Move.Overview.MoveHierarchy.Submoto"
+        "TagName": "Move.Overview.MoveHierarchy.Submove"
     },
     {
         "PagePath": "Move/MoveOverview.md",
         "PaperPhoto": "2917.jpg",
-        "TagName": "Move.Overview.MoveHierarchy.Submoto"
+        "TagName": "Move.Overview.MoveHierarchy.Submove"
     },
     {
         "PagePath": "Move/MoveOverview.md",
@@ -3782,7 +3782,7 @@ data = [
     {
         "PagePath": "Move/MoveOverview.md",
         "PaperPhoto": "2954.jpg",
-        "TagName": "Move.Overview.MoveHierarchy.Submoto"
+        "TagName": "Move.Overview.MoveHierarchy.Submove"
     },
     {
         "PagePath": "Move/MoveOverview.md",
@@ -3822,7 +3822,7 @@ data = [
     {
         "PagePath": "Move/MoveOverview.md",
         "PaperPhoto": "3088.jpg",
-        "TagName": "Move.Overview.MoveHierarchy.Submoto"
+        "TagName": "Move.Overview.MoveHierarchy.Submove"
     },
     {
         "PagePath": "Move/MoveOverview.md",
@@ -3852,12 +3852,12 @@ data = [
     {
         "PagePath": "Move/MoveOverview.md",
         "PaperPhoto": "3149.jpg",
-        "TagName": "Move.Overview.MoveHierarchy.Submoto"
+        "TagName": "Move.Overview.MoveHierarchy.Submove"
     },
     {
         "PagePath": "Move/MoveOverview.md",
         "PaperPhoto": "3217.jpg",
-        "TagName": "Move.Overview.MoveHierarchy.Submoto"
+        "TagName": "Move.Overview.MoveHierarchy.Submove"
     },
     {
         "PagePath": "Move/MoveOverview.md",
@@ -3882,12 +3882,12 @@ data = [
     {
         "PagePath": "Move/MoveOverview.md",
         "PaperPhoto": "3245.jpg",
-        "TagName": "Move.Overview.MoveHierarchy.Submoto"
+        "TagName": "Move.Overview.MoveHierarchy.Submove"
     },
     {
         "PagePath": "Move/MoveOverview.md",
         "PaperPhoto": "3245.jpg",
-        "TagName": "Move.Overview.MoveHierarchy.Supermoto"
+        "TagName": "Move.Overview.MoveHierarchy.Supermove"
     },
     {
         "PagePath": "Move/MoveOverview.md",
@@ -3982,7 +3982,7 @@ data = [
     {
         "PagePath": "Move/MoveFrase/Overview.md",
         "PaperPhoto": "0446.jpg",
-        "TagName": "Move.MoveFrase.MoveRhythm"
+        "TagName": "Move.MoveFrase.MoveRitmo"
     },
     {
         "PagePath": "Move/MoveFrase/Overview.md",
@@ -4052,7 +4052,7 @@ data = [
     {
         "PagePath": "Move/MoveFrase/Overview.md",
         "PaperPhoto": "0784.jpg",
-        "TagName": "Move.MoveFrase.MoveRhythm"
+        "TagName": "Move.MoveFrase.MoveRitmo"
     },
     {
         "PagePath": "Move/MoveFrase/Overview.md",
@@ -4077,7 +4077,7 @@ data = [
     {
         "PagePath": "Move/MoveFrase/Overview.md",
         "PaperPhoto": "1011.jpg",
-        "TagName": "Move.MoveFrase.SubmotoFrase"
+        "TagName": "Move.MoveFrase.SubmoveFrase"
     },
     {
         "PagePath": "Move/MoveFrase/Overview.md",
@@ -4362,12 +4362,12 @@ data = [
     {
         "PagePath": "Move/MoveFrase/Overview.md",
         "PaperPhoto": "1803.jpg",
-        "TagName": "Move.MoveFrase.MoveRhythm"
+        "TagName": "Move.MoveFrase.MoveRitmo"
     },
     {
         "PagePath": "Move/MoveFrase/Overview.md",
         "PaperPhoto": "1804.jpg",
-        "TagName": "Move.MoveFrase.MoveRhythm"
+        "TagName": "Move.MoveFrase.MoveRitmo"
     },
     {
         "PagePath": "Move/MoveFrase/Overview.md",
@@ -4397,7 +4397,7 @@ data = [
     {
         "PagePath": "Move/MoveFrase/Overview.md",
         "PaperPhoto": "1807.jpg",
-        "TagName": "Move.MoveFrase.MoveRhythm"
+        "TagName": "Move.MoveFrase.MoveRitmo"
     },
     {
         "PagePath": "Move/MoveFrase/Overview.md",
@@ -4412,7 +4412,7 @@ data = [
     {
         "PagePath": "Move/MoveFrase/Overview.md",
         "PaperPhoto": "1808.jpg",
-        "TagName": "Move.MoveFrase.MoveRhythm"
+        "TagName": "Move.MoveFrase.MoveRitmo"
     },
     {
         "PagePath": "Move/MoveFrase/Overview.md",
@@ -17222,7 +17222,7 @@ data = [
     {
         "PagePath": "dev/ResearchQuestions.md",
         "PaperPhoto": "0446.jpg",
-        "TagName": "Dev.Interdisciplinary.Music.Rhythm"
+        "TagName": "Dev.Interdisciplinary.Music.Ritmo"
     },
     {
         "PagePath": "dev/ResearchQuestions.md",
@@ -17287,7 +17287,7 @@ data = [
     {
         "PagePath": "dev/ResearchQuestions.md",
         "PaperPhoto": "0784.jpg",
-        "TagName": "Dev.Interdisciplinary.Music.Rhythm"
+        "TagName": "Dev.Interdisciplinary.Music.Ritmo"
     },
     {
         "PagePath": "dev/ResearchQuestions.md",
@@ -17577,7 +17577,7 @@ data = [
     {
         "PagePath": "dev/ResearchQuestions.md",
         "PaperPhoto": "1807.jpg",
-        "TagName": "Dev.Interdisciplinary.Music.Rhythm"
+        "TagName": "Dev.Interdisciplinary.Music.Ritmo"
     },
     {
         "PagePath": "dev/ResearchQuestions.md",
@@ -17587,7 +17587,7 @@ data = [
     {
         "PagePath": "dev/ResearchQuestions.md",
         "PaperPhoto": "1808.jpg",
-        "TagName": "Dev.Interdisciplinary.Music.Rhythm"
+        "TagName": "Dev.Interdisciplinary.Music.Ritmo"
     },
     {
         "PagePath": "dev/ResearchQuestions.md",

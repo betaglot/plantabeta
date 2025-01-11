@@ -1,8 +1,8 @@
-# 🟠 <move>LegAma</move>
+# 🟠 <move>BaseAma</move>
 
 ![MoveIkon](/Move/Move_Ikon.png)
 
-## 🕸 LegAma.Skema
+## 🕸 BaseAma.Skema
 
 ### Related 🟩<eko>Eko</eko>
 
@@ -29,6 +29,10 @@
 <!-- =================================================== -->
 ::: details 🛠 <dev>&&&</dev>
 
--
+- <https://en.wikipedia.org/wiki/Polynesian_multihull_terminology>
+
+- BaseAnteriorAma
+- BasePosteriorAma
+- BaseLateralAma
 
 :::

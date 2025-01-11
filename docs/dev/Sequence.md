@@ -8,11 +8,15 @@ The Sequences of each BetaTipos
 🔻: Via is composed of Viums
 💜: Processes composed of Experiences
 
-
-
 - Analogy(Sequence, {Via: Via, Move: Frase, Eko: Eko, Psike: Process, Beta: Sequence})
 
-## Concurrency or Parallelism
+## Sinkron (Noun)
+
+Aliases: Concurrent Element
+
+> An 🟠<move>MOVE</move> which is performed at the same time as another 🟠<move>MOVE</move>
+
+### Concurrency or Parallelism
 
 - [Difference between Concurrency and Parallelism](https://www.linkedin.com/advice/0/whats-difference-between-concurrent-parallel-programming)
 
@@ -36,78 +40,17 @@ Concurrency is
 >
 > Tuples are immutable sequences, typically used to store collections of heterogeneous data (such as the 2-tuples produced by the enumerate() built-in). Tuples are also used for cases where an immutable sequence of homogeneous data is needed (such as allowing storage in a set or dict instance).
 
-```py
->>> list(range(10))
-[0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
->>> list(range(1, 11))
-[1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
->>> list(range(0, 30, 5))
-[0, 5, 10, 15, 20, 25]
->>> list(range(0, 10, 3))
-[0, 3, 6, 9]
->>> list(range(0, -10, -1))
-[0, -1, -2, -3, -4, -5, -6, -7, -8, -9]
->>> list(range(0))
-[]
->>> list(range(1, 0))
-[]
-```
+## Ritmo
 
-## Card Sequence
+<iframe class="youtube-video" src="https://www.youtube.com/embed/2UphAzryVpY" title="A different way to visualize Ritmo - John Varney" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-Deck of cards
+### Ritmon
 
-Frase of MoveCards
-
-MoveCard
-
-ElementCard
-
-### CardCollection
-
-Group of Cards
-
-### CardCurve
-
-A Vuetify Component
-
-MoveCards are positioned along a Line
-
-### CardShape
-
-MoveCards are positioned in a CoverChart
-
-## Rhythm
-
-<iframe class="youtube-video" src="https://www.youtube.com/embed/2UphAzryVpY" title="A different way to visualize rhythm - John Varney" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+The Ritmo of a Sequence
 
 ## Timing
 
 ### Frame Rate
-
-All Frases are lists
-
-```py
-PythonDataType = List[]
-```
-
-```md
-1. Thing1
-2. Thing2
-3. Thing3
-4. Thing4
-
-```
-
-Standardize the way that Frases of BetaElements are represented in code and graphically.
-
-💜 Graphic
-
-🔷 Code
-
-## Differentiate(Frase, Supermoto, Move, Submoto, BodyMove)
-
-An ArmFrase is a list of ArmMoves performed in Parallel (BoxCarry), Concurrently (SpadeLift, TreeLoad)
 
 ## Control Flow Statements
 
@@ -118,7 +61,7 @@ Control flow is the codified version of [Decision Making](/encyclopedia/Psike/De
 - Reaction
     - Automatic
 
-### 💜 Flow Chart
+### Flux
 
 - Highlight current Frase branch, synchronize with
 
@@ -144,11 +87,6 @@ Rugby Gifs
 - Be able to toggle between GIF and FraseStrip
 - Modify framerate of GIF using Input Stepper
 - Change
-
-## Comic Strip
-
-- FraseStrip
-- Numbering in top corner
 
 ## Labels
 
