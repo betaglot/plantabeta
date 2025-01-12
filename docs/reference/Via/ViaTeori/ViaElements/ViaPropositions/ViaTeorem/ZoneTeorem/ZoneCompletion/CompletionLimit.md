@@ -6,7 +6,6 @@ If you haven't planted anything in your Piece, then the CompletionLimit is the P
 
 ## Quote
 
-
 ---
 
 <!-- =================================================== -->

@@ -1,6 +1,8 @@
-# 🟠<move>SpadeCone</move>
+# 🟠 <move>PlastMano</move>
 
-## 🕸 SpadeCone.Skema
+![MoveIkon](/Move/Move_Ikon.png)
+
+## 🕸 PlastMano.Skema
 
 ### Related 🟩<eko>Eko</eko>
 
@@ -27,9 +29,13 @@
 <!-- =================================================== -->
 ::: details 🛠 <dev>&&&</dev>
 
-- PanBeta(CookBeta) ConeMove is used a lot in baking. Stir with your wrist instead of whole arm.
-    - ShoulderCone
-    - ElbowCone
-    - WristCone
+- Etymology(Plast)
+    - Handles are Plastic
+    - Plast means "Climbing Hold" in Klimbeta
+- NeutralWrist
+    - To prevent Wrist Tendonitis, which is induced when the Tendons from the forearm to the hand rub on the wrist while under tension.
+- Glove
+- Keep the handle clean to reduce abraision
+    - Wipe DendroMano during SpadeTransfer
 
 :::

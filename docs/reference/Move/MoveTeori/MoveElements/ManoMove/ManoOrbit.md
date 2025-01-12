@@ -1,6 +1,6 @@
-# 🟠<move>SpadeDig</move>
+# 🟠<move>ManoOrbit</move>
 
-## 🕸 SpadeDig.Skema
+## 🕸 ManoOrbit.Skema
 
 ### Related 🟩<eko>Eko</eko>
 
@@ -27,6 +27,10 @@
 <!-- =================================================== -->
 ::: details 🛠 <dev>&&&</dev>
 
--
+- ManoOrbit.Submove(ManoSlide)
+- ManoOrbit around Collar, Plast, trunk, branch
+- IsometricContraction
+- SuperMove(SpadeOnda, SpadeMuscleUp, SpadePropel)
+- ManoOrbit
 
 :::

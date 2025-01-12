@@ -1,6 +1,6 @@
-# 🟠<move>DoruCone</move>
+# 🟠<move>DoruTransfer</move>
 
-## 🕸 DoruCone.Skema
+## 🕸 DoruTransfer.Skema
 
 ### Related 🟩<eko>Eko</eko>
 

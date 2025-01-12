@@ -48,7 +48,7 @@
     - Kneeling Reach
 - 🟠<move>SpadeAma</move>
     - (BrazoAma+SpadeAma): SpadeAma can be used to extend BrazoAma.
-        - Requires HandCompress to prevent HandRevolve around Handle
+        - Requires HandCompress to prevent HandOrbit around Handle
         - Useful when walking down slope like PolePlant in PanBeta(SkiAlpineBeta)
             - Pole allows you to start absorbing earlier, therefore more time to change acceleration, which increases Flux
 

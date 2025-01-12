@@ -1,6 +1,10 @@
-# 🟠<move>DoruDig</move>
+# 🟠<move>PlastBimano</move>
 
-## 🕸 DoruDig.Skema
+> Gripping the Spade Plast with both hands
+
+Aliases: Handle Match
+
+## 🕸 PlastBimano.Skema
 
 ### Related 🟩<eko>Eko</eko>
 
@@ -27,6 +31,7 @@
 <!-- =================================================== -->
 ::: details 🛠 <dev>&&&</dev>
 
--
+- SpadeMuscleUp
+- SpadePogo
 
 :::

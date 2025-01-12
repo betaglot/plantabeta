@@ -1,6 +1,6 @@
-# 🟠<move>SpadeRemove</move>
+# 🟠<move>SpadeDendrektomi</move>
 
-## 🕸 SpadeRemove.Skema
+## 🕸 SpadeDendrektomi.Skema
 
 ### Related 🟩<eko>Eko</eko>
 
@@ -27,7 +27,7 @@
 <!-- =================================================== -->
 ::: details 🛠 <dev>&&&</dev>
 
-- Use a Spade to remove a tree which has already been planted
+- Use a Spade to remove a Dendron which has already been planted
     - To modify density
 
 :::

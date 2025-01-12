@@ -797,8 +797,8 @@ tags = {
     "Move/BodyMove/BodyLean.md": [
         "Move.BodyMove.BodyLean"
     ],
-    "Move/BodyMove/BodyRevolve.md": [
-        "Move.BodyMove.Bodyrevolve"
+    "Move/BodyMove/CorpoOrbit.md": [
+        "Move.BodyMove.CorpoOrbit"
     ],
     "Move/BodyMove/BodyRotate.md": [
         "Move.BodyMove.BodyRotate"

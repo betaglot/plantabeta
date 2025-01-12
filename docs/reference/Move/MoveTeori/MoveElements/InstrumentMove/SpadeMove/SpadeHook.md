@@ -27,6 +27,10 @@
 <!-- =================================================== -->
 ::: details 🛠 <dev>&&&</dev>
 
+- Spade must not Rotate
 - SpadeHook
+- DoubleHook
+    - In a branch fork
+    - Between two logs that are separated by about 3cm
 
 :::

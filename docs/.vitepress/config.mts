@@ -339,7 +339,7 @@ export default defineConfig({
 //             { text: '🟠 <move>BodyAbsorb</move>', link: '/encyclopedia/Move/BodyMove/BodyAbsorb' },
 //             { text: '🟠 <move>BodyBend</move>', link: '/encyclopedia/Move/BodyMove/BodyBend' },
 //             { text: '🟠 <move>BodyLean</move>', link: '/encyclopedia/Move/BodyMove/BodyLean' },
-//             { text: '🟠 <move>BodyRevolve</move>', link: '/encyclopedia/Move/BodyMove/BodyRevolve' },
+//             { text: '🟠 <move>CorpoOrbit</move>', link: '/encyclopedia/Move/BodyMove/CorpoOrbit' },
 //             { text: '🟠 <move>BodyRotate</move>', link: '/encyclopedia/Move/BodyMove/BodyRotate' },
 //             { text: '🟠 <move>BodySlot</move>', link: '/encyclopedia/Move/BodyMove/BodySlot' },
 //             { text: '🟠 <move>Fall</move>', link: '/encyclopedia/Move/BodyMove/Fall' },

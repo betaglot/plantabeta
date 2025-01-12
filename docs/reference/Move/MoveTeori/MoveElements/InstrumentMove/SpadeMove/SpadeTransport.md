@@ -30,6 +30,6 @@
 ::: details 🛠 <dev>&&&</dev>
 
 - SpadeCollarMano
-- SpadeHandleMano
-
+- SpadePlastMano
+    - Use in Terrain where you may need to SpadeAma
 :::

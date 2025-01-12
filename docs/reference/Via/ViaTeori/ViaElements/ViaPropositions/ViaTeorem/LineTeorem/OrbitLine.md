@@ -1,8 +1,6 @@
-# 🟠 <move>BodyRevolve</move>
+# 🔻<via>OrbitLine</via>
 
-![MoveIkon](/Move/Move_Ikon.png)
-
-## 🕸 BodyRevolve.Skema
+## 🕸 OrbitLine.Skema
 
 ### Related 🟩<eko>Eko</eko>
 
@@ -10,7 +8,7 @@
 
 ### Related 🔻<via>Via</via>
 
-- Revolution
+-
 
 ### Related 🟠<move>Move</move>
 
@@ -29,11 +27,7 @@
 <!-- =================================================== -->
 ::: details 🛠 <dev>&&&</dev>
 
-- HandSlide
-- BodyRevolve rarely completes a full revolution
-- AroundCornerMove
+- CorpoOrbit
+- ManoOrbit
 
-<h2>PageTags</h2>
-
-- "Move.BodyMove.Bodyrevolve"
 :::

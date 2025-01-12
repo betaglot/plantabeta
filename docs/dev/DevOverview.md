@@ -507,8 +507,8 @@ Download Printable resources
                         "link": "/reference/Move/BodyMove/BodyLean"
                     },
                     {
-                        "text": "BodyRevolve",
-                        "link": "/reference/Move/BodyMove/BodyRevolve"
+                        "text": "CorpoOrbit",
+                        "link": "/reference/Move/BodyMove/CorpoOrbit"
                     },
                     {
                         "text": "BodyRotate",

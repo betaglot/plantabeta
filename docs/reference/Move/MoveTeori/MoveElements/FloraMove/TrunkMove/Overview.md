@@ -30,10 +30,10 @@
 - SpadeHook
     - TrunkDiameter < 3cm
 
-- BodyRevolve
+- CorpoOrbit
     - ForearmSlide, ShoulderSlide when BodyLean into Trunk
         - When your Hands are Loaded
-        - Like when you Revolve out of a Metro door (carriage or station door)
+        - Like when you Orbit out of a Metro door (carriage or station door)
         - RadiorDev.UX
     - BodyTangent
     - HandSlide on Trunk

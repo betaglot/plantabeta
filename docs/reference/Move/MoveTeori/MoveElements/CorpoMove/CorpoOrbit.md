@@ -1,6 +1,8 @@
-# 🟠<move>SpadeJam</move>
+# 🟠 <move>CorpoOrbit</move>
 
-## 🕸 SpadeJam.Skema
+![MoveIkon](/Move/Move_Ikon.png)
+
+## 🕸 CorpoOrbit.Skema
 
 ### Related 🟩<eko>Eko</eko>
 
@@ -8,7 +10,7 @@
 
 ### Related 🔻<via>Via</via>
 
--
+- OrbitLine
 
 ### Related 🟠<move>Move</move>
 
@@ -27,8 +29,9 @@
 <!-- =================================================== -->
 ::: details 🛠 <dev>&&&</dev>
 
-- Crack Climbing
-- Jam between Logs
-- Jam and Twist
+- Revolution
+- HandSlide
+- CorpoOrbit rarely completes a full revolution
+- AroundCornerMove
 
 :::

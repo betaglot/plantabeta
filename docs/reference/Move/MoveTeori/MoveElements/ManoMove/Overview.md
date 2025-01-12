@@ -1,8 +1,8 @@
 # 🟠 <move>ManoMove</move>
 
-## Hand Anatomy
+## Mano.Anatomy
 
-## Hand Attributes
+## Mano.Attributes
 
 ## 🕸 ManoMove.Skema
 
@@ -31,6 +31,8 @@
 <!-- =================================================== -->
 ::: details 🛠 <dev>&&&</dev>
 
+- SpadeMano and DendroMano
+- "Mano a Mano" hand to hand combat
 - [PanBeta(Grappling)](<https://www.invertedgear.com/blogs/inverted-gear-blog/a-visual-guide-to-hand-to-hand-Manos-in-bjj>)
     - 2Hand Manos are used during WalkIns and WalkOuts
         - Carrying [Tarps, CollapsedBoxes, Bags, WaterJugs]

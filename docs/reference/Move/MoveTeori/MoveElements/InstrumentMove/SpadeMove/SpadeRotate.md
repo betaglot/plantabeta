@@ -27,6 +27,9 @@
 <!-- =================================================== -->
 ::: details 🛠 <dev>&&&</dev>
 
--
+- ManoPronation
+- ManoSupination
+- ManoRadialDeviation
+- ManoUlnarDeviation
 
 :::

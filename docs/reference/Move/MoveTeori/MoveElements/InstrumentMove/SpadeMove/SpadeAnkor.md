@@ -27,6 +27,12 @@
 <!-- =================================================== -->
 ::: details 🛠 <dev>&&&</dev>
 
--
+- BrazoLock
+- Bimano
+    - CollarMano
+    - PlastMano
+- SteepSlopeClimb
+- SelfArrest
+    - IceAxe
 
 :::

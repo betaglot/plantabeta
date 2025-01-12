@@ -1,6 +1,8 @@
-# 🟠<move>DoruAmbi</move>
+# 🟠<move>SpadeTransfer</move>
 
-## 🕸 DoruAmbi.Skema
+Aliases: Hand Swap, Hand Switch
+
+## 🕸 SpadeTransfer.Skema
 
 ### Related 🟩<eko>Eko</eko>
 

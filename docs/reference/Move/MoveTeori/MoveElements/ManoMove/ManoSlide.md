@@ -1,6 +1,6 @@
-# 🟠<move>SpadePendulum</move>
+# 🟠<move>ManoSlide</move>
 
-## 🕸 SpadePendulum.Skema
+## 🕸 ManoSlide.Skema
 
 ### Related 🟩<eko>Eko</eko>
 

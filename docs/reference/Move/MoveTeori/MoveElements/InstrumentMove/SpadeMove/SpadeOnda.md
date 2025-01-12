@@ -31,6 +31,10 @@ Spanish(Onda) == Wave
 <!-- =================================================== -->
 ::: details 🛠 <dev>&&&</dev>
 
+- PanBeta(CookBeta) ConeMove is used a lot in baking. Stir with your wrist instead of whole arm.
+    - ShoulderCone
+    - ElbowCone
+    - WristCone
 - Minimize ReflectionCount
 - SpadeOnda.Submove
     - InitialOnda could be a backswing. When you're going to SpadeDistalOnda, then your "backswing" isn't backwards, instead it's a SpadeMedialOnda.
