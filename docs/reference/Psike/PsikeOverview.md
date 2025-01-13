@@ -35,10 +35,9 @@ Psike Factors are prefixed by a 💜 violet heart icon
 - NeuroAttributes
 - NeuroMethods
 
-### Huberman Lab Podcast
-
 ### Waking Up App
 
+- Awareness never gets tired
 - Awareness
 - Being in the Present moment experience.
 - Calm
