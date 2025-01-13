@@ -16,7 +16,7 @@
 }
 
 
-moto {
+move {
   color: #bf6a34;
 
 }
@@ -26,7 +26,7 @@ via {
 }
 
 
-neuro {
+psike {
   color: #c586c0
 }
 
@@ -46,8 +46,12 @@ dev {
   color: #9cdcfe
 }
 
-ye {
-  color: #ffd700
+atlon {
+  color: #caa600
+}
+
+py {
+  color: #6ec08b
 }
 
 error {
