@@ -25,6 +25,7 @@ Ecological Learning
 <!-- =================================================== -->
 ::: details 🛠 <dev>&&&</dev>
 
--
+- Program routes through the Skema like a PuzzleSphere
+- Skema PopUp book
 
 :::

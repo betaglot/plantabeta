@@ -1,10 +1,10 @@
-# 🔻<via>ParaBorderCoverage</via>
+# 🔻<via>ParaBorderFill</via>
 
 > Following the Border of a zone which has already been covered.
 
 Aliases: LinePlanting
 
-## 🕸 ParaBorderCoverage.Skema
+## 🕸 ParaBorderFill.Skema
 
 ### Related 🟩<eko>Eko</eko>
 

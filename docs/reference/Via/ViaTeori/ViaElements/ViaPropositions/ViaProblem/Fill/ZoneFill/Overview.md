@@ -1,6 +1,6 @@
-# 🔻<via>ParaDirection</via>
+# 🔻<via>ZoneFill</via>
 
-## 🕸 ParaDirection.Skema
+## 🕸 ZoneFill.Skema
 
 ### Related 🟩<eko>Eko</eko>
 
@@ -27,8 +27,8 @@
 <!-- =================================================== -->
 ::: details 🛠 <dev>&&&</dev>
 
-- Beside or Following
-- Concentric
-- "Around the Corner" becomes "Following the corner" or ParaCorner
+- What line did you take to plant this zone?
+- What was your line through this zone?
+- What line did you use to cover this zone?
 
 :::

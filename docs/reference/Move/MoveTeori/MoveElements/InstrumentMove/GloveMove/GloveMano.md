@@ -29,6 +29,11 @@
 <!-- =================================================== -->
 ::: details 🛠 <dev>&&&</dev>
 
+- GloveRevert
+    - Glove can turn inside out when it's being removed
+    - How to revert your glove without getting dirt on the inside?
+    - FingerRevert
+    - GloveRevert
 - FingertipMano
     - GloveOff
 - CuffMano

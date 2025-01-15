@@ -27,6 +27,7 @@
 <!-- =================================================== -->
 ::: details 🛠 <dev>&&&</dev>
 
+- BootWaterproofing
 - BootWax
 - Remove Dirt
     - BootBrush

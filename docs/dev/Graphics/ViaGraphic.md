@@ -1,5 +1,13 @@
 # 🛠 Via Graphics
 
+## Highlight
+
+[AssassinsCreed](https://www.youtube.com/watch?v=toW9lHSJ5Tg&ab_channel=AKG29)
+
+DareDevil
+
+> "It looks like a world on fire"
+
 ## ViaDiagram is a subset of ViaGraphic
 
 ## IsochroneMap

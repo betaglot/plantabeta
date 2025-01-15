@@ -1,22 +1,6 @@
-# 🔻<via>ParaDirection</via>
+# 🔻 <via>CrossingFill</via>
 
-## 🕸 ParaDirection.Skema
-
-### Related 🟩<eko>Eko</eko>
-
--
-
-### Related 🔻<via>Via</via>
-
--
-
-### Related 🟠<move>Move</move>
-
--
-
-### Related 💜<psike>Psike</psike>
-
--
+![ViaIkon](/Via/Via_Ikon.png)
 
 ---
 
@@ -27,8 +11,6 @@
 <!-- =================================================== -->
 ::: details 🛠 <dev>&&&</dev>
 
-- Beside or Following
-- Concentric
-- "Around the Corner" becomes "Following the corner" or ParaCorner
+-
 
 :::

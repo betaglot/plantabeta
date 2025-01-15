@@ -27,6 +27,7 @@
 <!-- =================================================== -->
 ::: details 🛠 <dev>&&&</dev>
 
+- ParaPeri
 - Peri
     - Perimeter
 - Circumvent

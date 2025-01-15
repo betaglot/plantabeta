@@ -31,6 +31,7 @@ There are no lines that are preventing you from jumping a kilometer into the air
 
 ## Limited by  🟩 Eko
 
+- Obstacle's Boundaries
 - You can't see or move through walls
 - Can't see over the hill
 - A Piece and ArmReach both have limits

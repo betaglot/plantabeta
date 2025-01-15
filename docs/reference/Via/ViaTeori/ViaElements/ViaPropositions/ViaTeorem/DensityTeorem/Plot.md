@@ -45,6 +45,7 @@ SemiPlot
 <!-- =================================================== -->
 ::: details 🛠 <dev>&&&</dev>
 
+- Plot.Limit == Circumference
 - PaperPhoto([3115,3116,3117,3118,3119,3120,3166,3167,3168])
 - PlotDiameter == 8m
 - Dendron in center

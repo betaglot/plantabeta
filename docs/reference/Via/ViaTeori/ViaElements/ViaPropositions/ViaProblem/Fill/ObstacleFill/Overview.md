@@ -1,8 +1,4 @@
-# 🔻<via>DivCoverage</via>
-
-Aliases: Area Planting
-
-Complete the Zone by dividing it into Divs, then filling each Div at a time
+# 🔻<via>ObstacleFill</via>
 
 ---
 
@@ -13,6 +9,6 @@ Complete the Zone by dividing it into Divs, then filling each Div at a time
 <!-- =================================================== -->
 ::: details 🛠 <dev>&&&</dev>
 
-- Div comes from HTML
+-
 
 :::
