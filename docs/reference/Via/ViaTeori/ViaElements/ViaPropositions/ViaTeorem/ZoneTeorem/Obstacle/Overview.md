@@ -17,6 +17,7 @@ An object is only an obstacle if it hinders your Via.
 <!-- =================================================== -->
 ::: details 🛠 <dev>&&&</dev>
 
+- [SlashPile,Boulder,ResidualPatch,Water,BigStump,RockCap,Cliff,Snow,Ice,MudPit]
 - A Zone which can't be traversed
     - A Zone which can't be planted
 - Decreases Space
