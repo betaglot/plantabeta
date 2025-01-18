@@ -1,4 +1,4 @@
-[
+Skema_List = [
     {
         "ElementName": "BetaDiagram",
         "Namespace": "Beta/BetaDiagram",
@@ -8,7 +8,7 @@
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "BetaComplexity",
@@ -19,7 +19,7 @@
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "BetaIntensity",
@@ -30,7 +30,7 @@
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "BetaRisk",
@@ -41,22 +41,18 @@
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "BetaDifficulty",
         "Namespace": "Beta/BetaDifficulty",
         "SuperElementName": "Beta",
-        "SubElementName": [
-            "BetaComplexity",
-            "BetaIntensity",
-            "BetaRisk"
-        ],
+        "SubElementName": [],
         "ConcurrentElementName": [],
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "BetaExamples",
@@ -67,7 +63,7 @@
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "BetaExecution",
@@ -78,7 +74,7 @@
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "BetaFlux",
@@ -89,7 +85,7 @@
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "BetaLingo",
@@ -100,7 +96,7 @@
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "BetaBlock",
@@ -111,7 +107,7 @@
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "BetaInstance",
@@ -122,7 +118,7 @@
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "BetaMethod",
@@ -133,7 +129,7 @@
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "BetaObject",
@@ -144,7 +140,7 @@
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "BetaString",
@@ -155,7 +151,7 @@
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "CompoundStatements",
@@ -166,7 +162,7 @@
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "DataModel",
@@ -177,7 +173,7 @@
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "ExecutionModel",
@@ -188,7 +184,7 @@
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "Expressions",
@@ -199,7 +195,7 @@
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "FullGrammarSpecification",
@@ -210,7 +206,7 @@
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "ImportSystem",
@@ -221,7 +217,7 @@
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "Introduction",
@@ -232,7 +228,7 @@
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "LexicalAnalysis",
@@ -243,34 +239,18 @@
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "BetaPython",
         "Namespace": "Beta/BetaPython",
         "SuperElementName": "Beta",
-        "SubElementName": [
-            "BetaBlock",
-            "BetaInstance",
-            "BetaMethod",
-            "BetaObject",
-            "BetaString",
-            "CompoundStatements",
-            "DataModel",
-            "ExecutionModel",
-            "Expressions",
-            "FullGrammarSpecification",
-            "ImportSystem",
-            "Introduction",
-            "LexicalAnalysis",
-            "SimpleStatements",
-            "TopLevelComponents"
-        ],
+        "SubElementName": [],
         "ConcurrentElementName": [],
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "SimpleStatements",
@@ -281,7 +261,7 @@
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "TopLevelComponents",
@@ -292,7 +272,7 @@
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "BetaVideo",
@@ -303,7 +283,7 @@
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "Rework",
@@ -314,7 +294,7 @@
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "TeamBeta",
@@ -325,7 +305,7 @@
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "WhatBeta",
@@ -336,7 +316,7 @@
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "EkoKratos",
@@ -347,7 +327,7 @@
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "EkoKuboi",
@@ -358,7 +338,7 @@
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "EkoTeknik",
@@ -369,22 +349,18 @@
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "EkoMetron",
         "Namespace": "Eko/EkoMetron",
         "SuperElementName": "Eko",
-        "SubElementName": [
-            "EkoKratos",
-            "EkoKuboi",
-            "EkoTeknik"
-        ],
+        "SubElementName": [],
         "ConcurrentElementName": [],
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "EkoOverview",
@@ -395,7 +371,7 @@
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "EkoError",
@@ -406,21 +382,18 @@
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "Antrosfera",
         "Namespace": "Eko/EkoTeori/EkoElements/Antrosfera",
         "SuperElementName": "EkoElements",
-        "SubElementName": [
-            "Prep",
-            "Road"
-        ],
+        "SubElementName": [],
         "ConcurrentElementName": [],
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "BurnPit",
@@ -431,7 +404,7 @@
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "MoundPrep",
@@ -442,23 +415,18 @@
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "Prep",
         "Namespace": "Eko/EkoTeori/EkoElements/Antrosfera/Prep",
         "SuperElementName": "Antrosfera",
-        "SubElementName": [
-            "BurnPit",
-            "MoundPrep",
-            "SkreefPrep",
-            "TrenchPrep"
-        ],
+        "SubElementName": [],
         "ConcurrentElementName": [],
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "SkreefPrep",
@@ -469,7 +437,7 @@
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "TrenchPrep",
@@ -480,7 +448,7 @@
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "Road",
@@ -491,7 +459,7 @@
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "AirTemperature",
@@ -502,7 +470,7 @@
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "Humidity",
@@ -513,23 +481,18 @@
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "Atmosfera",
         "Namespace": "Eko/EkoTeori/EkoElements/Atmosfera",
         "SuperElementName": "EkoElements",
-        "SubElementName": [
-            "AirTemperature",
-            "Humidity",
-            "Precipitation",
-            "Wind"
-        ],
+        "SubElementName": [],
         "ConcurrentElementName": [],
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "Precipitation",
@@ -540,7 +503,7 @@
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "Wind",
@@ -551,7 +514,7 @@
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "Abies",
@@ -562,7 +525,7 @@
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "Larix",
@@ -573,28 +536,18 @@
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "Dendron",
         "Namespace": "Eko/EkoTeori/EkoElements/Biosfera/Dendron",
         "SuperElementName": "Biosfera",
-        "SubElementName": [
-            "Abies",
-            "Larix",
-            "Picea",
-            "Pinus",
-            "Pseudotsuga",
-            "Quercus",
-            "Spruce",
-            "Thuja",
-            "Tsuga"
-        ],
+        "SubElementName": [],
         "ConcurrentElementName": [],
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "Picea",
@@ -605,7 +558,7 @@
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "Pinus",
@@ -616,7 +569,7 @@
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "Pseudotsuga",
@@ -627,7 +580,7 @@
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "Quercus",
@@ -638,7 +591,7 @@
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "Spruce",
@@ -649,7 +602,7 @@
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "Thuja",
@@ -660,7 +613,7 @@
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "Tsuga",
@@ -671,7 +624,7 @@
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "Fauna",
@@ -682,7 +635,7 @@
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "Bryophyta",
@@ -693,7 +646,7 @@
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "BurntLand",
@@ -704,7 +657,7 @@
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "CropTree",
@@ -715,7 +668,7 @@
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "Flower",
@@ -726,7 +679,7 @@
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "Log",
@@ -737,28 +690,18 @@
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "Flora",
         "Namespace": "Eko/EkoTeori/EkoElements/Biosfera/Flora",
         "SuperElementName": "Biosfera",
-        "SubElementName": [
-            "Bryophyta",
-            "BurntLand",
-            "CropTree",
-            "Flower",
-            "Log",
-            "Poales",
-            "RiparianZone",
-            "Slash",
-            "Stump"
-        ],
+        "SubElementName": [],
         "ConcurrentElementName": [],
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "Poales",
@@ -769,7 +712,7 @@
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "RiparianZone",
@@ -780,7 +723,7 @@
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "BurnPileSlash",
@@ -791,7 +734,7 @@
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "HighSlash",
@@ -802,7 +745,7 @@
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "LowSlash",
@@ -813,23 +756,18 @@
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "Slash",
         "Namespace": "Eko/EkoTeori/EkoElements/Biosfera/Flora/Slash",
         "SuperElementName": "Flora",
-        "SubElementName": [
-            "BurnPileSlash",
-            "HighSlash",
-            "LowSlash",
-            "WetSlash"
-        ],
+        "SubElementName": [],
         "ConcurrentElementName": [],
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "WetSlash",
@@ -840,7 +778,7 @@
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "Stump",
@@ -851,7 +789,7 @@
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "EcoCurve",
@@ -862,7 +800,7 @@
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "EcoPoint",
@@ -873,7 +811,7 @@
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "EcoSpace",
@@ -884,7 +822,7 @@
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "EcoSurface",
@@ -895,7 +833,7 @@
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "Flat",
@@ -906,7 +844,7 @@
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "Incline",
@@ -917,22 +855,18 @@
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "Geomorfologia",
         "Namespace": "Eko/EkoTeori/EkoElements/Geomorfologia",
         "SuperElementName": "EkoElements",
-        "SubElementName": [
-            "Flat",
-            "Incline",
-            "Valley"
-        ],
+        "SubElementName": [],
         "ConcurrentElementName": [],
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "Valley",
@@ -943,7 +877,7 @@
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "Helios",
@@ -954,7 +888,7 @@
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "GroundWater",
@@ -965,7 +899,7 @@
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "MovingWater",
@@ -976,23 +910,18 @@
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "Hidrosfera",
         "Namespace": "Eko/EkoTeori/EkoElements/Hidrosfera",
         "SuperElementName": "EkoElements",
-        "SubElementName": [
-            "GroundWater",
-            "MovingWater",
-            "Pond",
-            "Puddle"
-        ],
+        "SubElementName": [],
         "ConcurrentElementName": [],
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "Pond",
@@ -1003,7 +932,7 @@
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "Puddle",
@@ -1014,20 +943,18 @@
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "Litosfera",
         "Namespace": "Eko/EkoTeori/EkoElements/Litosfera",
         "SuperElementName": "EkoElements",
-        "SubElementName": [
-            "RockCap"
-        ],
+        "SubElementName": [],
         "ConcurrentElementName": [],
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "RockCap",
@@ -1038,7 +965,7 @@
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "DrySoil",
@@ -1049,7 +976,7 @@
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "IceSoil",
@@ -1060,7 +987,7 @@
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "BoulderSoil",
@@ -1071,7 +998,7 @@
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "ClaySoil",
@@ -1082,7 +1009,7 @@
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "CobbleSoil",
@@ -1093,7 +1020,7 @@
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "PebbleSoil",
@@ -1104,7 +1031,7 @@
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "RubbleSoil",
@@ -1115,7 +1042,7 @@
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "SandSoil",
@@ -1126,7 +1053,7 @@
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "SiltSoil",
@@ -1137,7 +1064,7 @@
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "MineralSoil",
@@ -1148,25 +1075,18 @@
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "Pedosfera",
         "Namespace": "Eko/EkoTeori/EkoElements/Pedosfera",
         "SuperElementName": "EkoElements",
-        "SubElementName": [
-            "DrySoil",
-            "IceSoil",
-            "MineralSoil",
-            "RedRotSoil",
-            "SubjectiveSoil",
-            "WetSoil"
-        ],
+        "SubElementName": [],
         "ConcurrentElementName": [],
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "RedRotSoil",
@@ -1177,7 +1097,7 @@
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "FibricSoil",
@@ -1188,7 +1108,7 @@
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "HumicSoil",
@@ -1199,7 +1119,7 @@
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "MesicSoil",
@@ -1210,7 +1130,7 @@
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "WoodySoil",
@@ -1221,7 +1141,7 @@
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "SubjectiveSoil",
@@ -1232,7 +1152,7 @@
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "WetSoil",
@@ -1243,7 +1163,7 @@
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "DiscernSigns",
@@ -1254,20 +1174,18 @@
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "Tracking",
         "Namespace": "Eko/EkoTeori/EkoPropositions/Tracking",
         "SuperElementName": "EkoPropositions",
-        "SubElementName": [
-            "DiscernSigns"
-        ],
+        "SubElementName": [],
         "ConcurrentElementName": [],
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "EkoSimbols",
@@ -1278,7 +1196,7 @@
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "Ergon",
@@ -1289,7 +1207,7 @@
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "Fisik",
@@ -1300,7 +1218,7 @@
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "Lexikon",
@@ -1311,7 +1229,7 @@
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "Kinesiology",
@@ -1322,7 +1240,7 @@
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "MoveKratos",
@@ -1333,7 +1251,7 @@
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "MoveProbability",
@@ -1344,7 +1262,7 @@
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "MoveTeknik",
@@ -1355,7 +1273,7 @@
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "MoveOverview",
@@ -1366,40 +1284,18 @@
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "Frase",
         "Namespace": "Move/MovePraktik/MoveCompositions/Frase",
         "SuperElementName": "MoveCompositions",
-        "SubElementName": [
-            "TarpOff",
-            "TarpOn",
-            "BootOff",
-            "BootOn",
-            "LaceLoosen",
-            "LaceTighten",
-            "BoxStack",
-            "BundleCount",
-            "BundleManoSwap",
-            "BundleStack",
-            "GloveOff",
-            "GloveOn",
-            "KitOffFrase",
-            "KitOnFrase",
-            "MarkaGet",
-            "MarkaPut",
-            "SewingFrase",
-            "SpadeTest",
-            "TibiorOffFrase",
-            "TibiorOnFrase",
-            "TruckSequence"
-        ],
+        "SubElementName": [],
         "ConcurrentElementName": [],
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "MoveError",
@@ -1410,20 +1306,18 @@
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "MovePraktik",
         "Namespace": "Move/MovePraktik",
         "SuperElementName": "Move",
-        "SubElementName": [
-            "MoveError"
-        ],
+        "SubElementName": [],
         "ConcurrentElementName": [],
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "MoveAxiom",
@@ -1434,7 +1328,7 @@
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "AnteriorDirection",
@@ -1445,7 +1339,7 @@
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "DistalDirection",
@@ -1456,7 +1350,7 @@
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "LateralDirection",
@@ -1467,7 +1361,7 @@
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "MedialDirection",
@@ -1478,7 +1372,7 @@
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "PosteriorDirection",
@@ -1489,7 +1383,7 @@
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "ProximalDirection",
@@ -1500,7 +1394,7 @@
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "FrontalPlane",
@@ -1511,7 +1405,7 @@
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "HorizontalPlane",
@@ -1522,7 +1416,7 @@
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "SagittalPlane",
@@ -1533,7 +1427,7 @@
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "MoveSurface",
@@ -1544,20 +1438,18 @@
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "MoveDefinitions",
         "Namespace": "Move/MoveTeori/MoveDefinitions",
         "SuperElementName": "MoveTeori",
-        "SubElementName": [
-            "MoveSurface"
-        ],
+        "SubElementName": [],
         "ConcurrentElementName": [],
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "BaseAbduction",
@@ -1568,7 +1460,7 @@
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "BaseAbsorb",
@@ -1579,7 +1471,7 @@
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "BaseAdduction",
@@ -1590,7 +1482,7 @@
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "BaseAma",
@@ -1601,7 +1493,7 @@
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "BaseArchSmear",
@@ -1612,7 +1504,7 @@
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "BaseDig",
@@ -1623,7 +1515,7 @@
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "BaseDorsiflexion",
@@ -1634,7 +1526,7 @@
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "BaseDrag",
@@ -1645,7 +1537,7 @@
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "BaseError",
@@ -1656,7 +1548,7 @@
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "BaseEversion",
@@ -1667,7 +1559,7 @@
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "BaseFlexion",
@@ -1678,7 +1570,7 @@
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "BaseInversion",
@@ -1689,7 +1581,7 @@
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "BaseOnda",
@@ -1700,7 +1592,7 @@
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "BaseSkreef",
@@ -1711,7 +1603,7 @@
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "Crouch",
@@ -1722,7 +1614,7 @@
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "Error",
@@ -1733,7 +1625,7 @@
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "ArchDragSeal",
@@ -1744,7 +1636,7 @@
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "ArchKickSeal",
@@ -1755,7 +1647,7 @@
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "FootArchSeal",
@@ -1766,7 +1658,7 @@
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "FootDragSeal",
@@ -1777,7 +1669,7 @@
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "HeelDragSeal",
@@ -1788,7 +1680,7 @@
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "HeelKickSeal",
@@ -1799,27 +1691,18 @@
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "FootSeal",
         "Namespace": "Move/MoveTeori/MoveElements/BaseMove/FootSeal",
         "SuperElementName": "BaseMove",
-        "SubElementName": [
-            "ArchDragSeal",
-            "ArchKickSeal",
-            "FootArchSeal",
-            "FootDragSeal",
-            "HeelDragSeal",
-            "HeelKickSeal",
-            "ToeDragSeal",
-            "ToeKickSeal"
-        ],
+        "SubElementName": [],
         "ConcurrentElementName": [],
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "ToeDragSeal",
@@ -1830,7 +1713,7 @@
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "ToeKickSeal",
@@ -1841,40 +1724,18 @@
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "Frase",
         "Namespace": "Move/MoveTeori/MoveElements/BaseMove/Frase",
         "SuperElementName": "BaseMove",
-        "SubElementName": [
-            "TarpOff",
-            "TarpOn",
-            "BootOff",
-            "BootOn",
-            "LaceLoosen",
-            "LaceTighten",
-            "BoxStack",
-            "BundleCount",
-            "BundleManoSwap",
-            "BundleStack",
-            "GloveOff",
-            "GloveOn",
-            "KitOffFrase",
-            "KitOnFrase",
-            "MarkaGet",
-            "MarkaPut",
-            "SewingFrase",
-            "SpadeTest",
-            "TibiorOffFrase",
-            "TibiorOnFrase",
-            "TruckSequence"
-        ],
+        "SubElementName": [],
         "ConcurrentElementName": [],
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "Hop",
@@ -1885,7 +1746,7 @@
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "Kneel",
@@ -1896,43 +1757,18 @@
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "BaseMove",
         "Namespace": "Move/MoveTeori/MoveElements/BaseMove",
         "SuperElementName": "MoveElements",
-        "SubElementName": [
-            "BaseAbduction",
-            "BaseAbsorb",
-            "BaseAdduction",
-            "BaseAma",
-            "BaseArchSmear",
-            "BaseDig",
-            "BaseDorsiflexion",
-            "BaseDrag",
-            "BaseError",
-            "BaseEversion",
-            "BaseFlexion",
-            "BaseInversion",
-            "BaseOnda",
-            "BaseSkreef",
-            "Crouch",
-            "Error",
-            "FootSeal",
-            "Frase",
-            "Hop",
-            "Kneel",
-            "PlantarFlexion",
-            "RunStart",
-            "Step",
-            "Stomp"
-        ],
+        "SubElementName": [],
         "ConcurrentElementName": [],
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "PlantarFlexion",
@@ -1943,7 +1779,7 @@
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "RunStart",
@@ -1954,7 +1790,7 @@
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "Step",
@@ -1965,7 +1801,7 @@
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "Stomp",
@@ -1976,7 +1812,7 @@
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "BrazoAma",
@@ -1987,7 +1823,7 @@
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "BrazoAmble",
@@ -1998,7 +1834,7 @@
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "BrazoCompress",
@@ -2009,7 +1845,7 @@
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "BrazoError",
@@ -2020,7 +1856,7 @@
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "BrazoHook",
@@ -2031,7 +1867,7 @@
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "BrazoOnda",
@@ -2042,7 +1878,7 @@
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "BrazoRockOver",
@@ -2053,60 +1889,29 @@
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "Frase",
         "Namespace": "Move/MoveTeori/MoveElements/BrazoMove/Frase",
         "SuperElementName": "BrazoMove",
-        "SubElementName": [
-            "TarpOff",
-            "TarpOn",
-            "BootOff",
-            "BootOn",
-            "LaceLoosen",
-            "LaceTighten",
-            "BoxStack",
-            "BundleCount",
-            "BundleManoSwap",
-            "BundleStack",
-            "GloveOff",
-            "GloveOn",
-            "KitOffFrase",
-            "KitOnFrase",
-            "MarkaGet",
-            "MarkaPut",
-            "SewingFrase",
-            "SpadeTest",
-            "TibiorOffFrase",
-            "TibiorOnFrase",
-            "TruckSequence"
-        ],
+        "SubElementName": [],
         "ConcurrentElementName": [],
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "BrazoMove",
         "Namespace": "Move/MoveTeori/MoveElements/BrazoMove",
         "SuperElementName": "MoveElements",
-        "SubElementName": [
-            "BrazoAma",
-            "BrazoAmble",
-            "BrazoCompress",
-            "BrazoError",
-            "BrazoHook",
-            "BrazoOnda",
-            "BrazoRockOver",
-            "Frase"
-        ],
+        "SubElementName": [],
         "ConcurrentElementName": [],
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "CacheError",
@@ -2117,7 +1922,7 @@
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "Eating",
@@ -2128,40 +1933,18 @@
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "Frase",
         "Namespace": "Move/MoveTeori/MoveElements/CacheMove/Frase",
         "SuperElementName": "CacheMove",
-        "SubElementName": [
-            "TarpOff",
-            "TarpOn",
-            "BootOff",
-            "BootOn",
-            "LaceLoosen",
-            "LaceTighten",
-            "BoxStack",
-            "BundleCount",
-            "BundleManoSwap",
-            "BundleStack",
-            "GloveOff",
-            "GloveOn",
-            "KitOffFrase",
-            "KitOnFrase",
-            "MarkaGet",
-            "MarkaPut",
-            "SewingFrase",
-            "SpadeTest",
-            "TibiorOffFrase",
-            "TibiorOnFrase",
-            "TruckSequence"
-        ],
+        "SubElementName": [],
         "ConcurrentElementName": [],
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "TarpOff",
@@ -2172,7 +1955,7 @@
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "TarpOn",
@@ -2183,22 +1966,18 @@
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "CacheMove",
         "Namespace": "Move/MoveTeori/MoveElements/CacheMove",
         "SuperElementName": "MoveElements",
-        "SubElementName": [
-            "CacheError",
-            "Eating",
-            "Frase"
-        ],
+        "SubElementName": [],
         "ConcurrentElementName": [],
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "BaseLayerMove",
@@ -2209,7 +1988,7 @@
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "BuckleMove",
@@ -2220,7 +1999,7 @@
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "ButtonMove",
@@ -2231,24 +2010,18 @@
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "FastenerMove",
         "Namespace": "Move/MoveTeori/MoveElements/ClothingMove/FastenerMove",
         "SuperElementName": "ClothingMove",
-        "SubElementName": [
-            "BuckleMove",
-            "ButtonMove",
-            "SnapMove",
-            "ZelcroMove",
-            "ZipperMove"
-        ],
+        "SubElementName": [],
         "ConcurrentElementName": [],
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "SnapMove",
@@ -2259,7 +2032,7 @@
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "ZelcroMove",
@@ -2270,7 +2043,7 @@
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "ZipperMove",
@@ -2281,40 +2054,18 @@
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "Frase",
         "Namespace": "Move/MoveTeori/MoveElements/ClothingMove/Frase",
         "SuperElementName": "ClothingMove",
-        "SubElementName": [
-            "TarpOff",
-            "TarpOn",
-            "BootOff",
-            "BootOn",
-            "LaceLoosen",
-            "LaceTighten",
-            "BoxStack",
-            "BundleCount",
-            "BundleManoSwap",
-            "BundleStack",
-            "GloveOff",
-            "GloveOn",
-            "KitOffFrase",
-            "KitOnFrase",
-            "MarkaGet",
-            "MarkaPut",
-            "SewingFrase",
-            "SpadeTest",
-            "TibiorOffFrase",
-            "TibiorOnFrase",
-            "TruckSequence"
-        ],
+        "SubElementName": [],
         "ConcurrentElementName": [],
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "InsulationLayerMove",
@@ -2325,7 +2076,7 @@
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "Layering",
@@ -2336,26 +2087,18 @@
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "ClothingMove",
         "Namespace": "Move/MoveTeori/MoveElements/ClothingMove",
         "SuperElementName": "MoveElements",
-        "SubElementName": [
-            "BaseLayerMove",
-            "FastenerMove",
-            "Frase",
-            "InsulationLayerMove",
-            "Layering",
-            "ShellLayerMove",
-            "TextilePreservation"
-        ],
+        "SubElementName": [],
         "ConcurrentElementName": [],
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "HatMove",
@@ -2366,24 +2109,18 @@
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "ShellLayerMove",
         "Namespace": "Move/MoveTeori/MoveElements/ClothingMove/ShellLayerMove",
         "SuperElementName": "ClothingMove",
-        "SubElementName": [
-            "HatMove",
-            "PocketMove",
-            "RainShell",
-            "RemoveMud",
-            "WindShell"
-        ],
+        "SubElementName": [],
         "ConcurrentElementName": [],
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "PocketMove",
@@ -2394,7 +2131,7 @@
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "RainShell",
@@ -2405,7 +2142,7 @@
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "RemoveMud",
@@ -2416,7 +2153,7 @@
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "WindShell",
@@ -2427,7 +2164,7 @@
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "TextilePreservation",
@@ -2438,7 +2175,7 @@
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "CorpoAbsorb",
@@ -2449,7 +2186,7 @@
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "CorpoBend",
@@ -2460,7 +2197,7 @@
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "CorpoError",
@@ -2471,7 +2208,7 @@
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "CorpoLean",
@@ -2482,7 +2219,7 @@
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "CorpoOrbit",
@@ -2493,7 +2230,7 @@
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "CorpoPosture",
@@ -2504,7 +2241,7 @@
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "CorpoPropel",
@@ -2515,7 +2252,7 @@
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "CorpoRotate",
@@ -2526,7 +2263,7 @@
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "CorpoSlot",
@@ -2537,7 +2274,7 @@
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "CorpoTangent",
@@ -2548,7 +2285,7 @@
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "CorpoTwist",
@@ -2559,7 +2296,7 @@
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "CorpoUnder",
@@ -2570,7 +2307,7 @@
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "Crawl",
@@ -2581,7 +2318,7 @@
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "Fall",
@@ -2592,40 +2329,18 @@
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "Frase",
         "Namespace": "Move/MoveTeori/MoveElements/CorpoMove/Frase",
         "SuperElementName": "CorpoMove",
-        "SubElementName": [
-            "TarpOff",
-            "TarpOn",
-            "BootOff",
-            "BootOn",
-            "LaceLoosen",
-            "LaceTighten",
-            "BoxStack",
-            "BundleCount",
-            "BundleManoSwap",
-            "BundleStack",
-            "GloveOff",
-            "GloveOn",
-            "KitOffFrase",
-            "KitOnFrase",
-            "MarkaGet",
-            "MarkaPut",
-            "SewingFrase",
-            "SpadeTest",
-            "TibiorOffFrase",
-            "TibiorOnFrase",
-            "TruckSequence"
-        ],
+        "SubElementName": [],
         "ConcurrentElementName": [],
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "HipHinge",
@@ -2636,7 +2351,7 @@
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "InclineWalk",
@@ -2647,7 +2362,7 @@
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "Jump",
@@ -2658,7 +2373,7 @@
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "LogWalk",
@@ -2669,46 +2384,18 @@
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "CorpoMove",
         "Namespace": "Move/MoveTeori/MoveElements/CorpoMove",
         "SuperElementName": "MoveElements",
-        "SubElementName": [
-            "CorpoAbsorb",
-            "CorpoBend",
-            "CorpoError",
-            "CorpoLean",
-            "CorpoOrbit",
-            "CorpoPosture",
-            "CorpoPropel",
-            "CorpoRotate",
-            "CorpoSlot",
-            "CorpoTangent",
-            "CorpoTwist",
-            "CorpoUnder",
-            "Crawl",
-            "Fall",
-            "Frase",
-            "HipHinge",
-            "InclineWalk",
-            "Jump",
-            "LogWalk",
-            "SpineExtension",
-            "SpineFlexion",
-            "Stand",
-            "StandUp",
-            "StepInto",
-            "StepOver",
-            "TrenchWalk",
-            "Walk"
-        ],
+        "SubElementName": [],
         "ConcurrentElementName": [],
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "SpineExtension",
@@ -2719,7 +2406,7 @@
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "SpineFlexion",
@@ -2730,7 +2417,7 @@
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "Stand",
@@ -2741,7 +2428,7 @@
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "StandUp",
@@ -2752,7 +2439,7 @@
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "StepInto",
@@ -2763,7 +2450,7 @@
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "StepOver",
@@ -2774,7 +2461,7 @@
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "TrenchWalk",
@@ -2785,7 +2472,7 @@
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "Walk",
@@ -2796,7 +2483,7 @@
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "DendroEval",
@@ -2807,7 +2494,7 @@
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "DendroInsert",
@@ -2818,7 +2505,7 @@
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "DendroLoad",
@@ -2829,7 +2516,7 @@
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "DendroMano",
@@ -2840,23 +2527,18 @@
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "DendroMove",
         "Namespace": "Move/MoveTeori/MoveElements/DendroMove",
         "SuperElementName": "MoveElements",
-        "SubElementName": [
-            "DendroEval",
-            "DendroInsert",
-            "DendroLoad",
-            "DendroMano"
-        ],
+        "SubElementName": [],
         "ConcurrentElementName": [],
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "BranchSnap",
@@ -2867,20 +2549,18 @@
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "BranchMove",
         "Namespace": "Move/MoveTeori/MoveElements/FloraMove/BranchMove",
         "SuperElementName": "FloraMove",
-        "SubElementName": [
-            "BranchSnap"
-        ],
+        "SubElementName": [],
         "ConcurrentElementName": [],
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "FloraBlock",
@@ -2891,7 +2571,7 @@
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "FloraCatch",
@@ -2902,7 +2582,7 @@
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "FloraError",
@@ -2913,7 +2593,7 @@
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "FloraFold",
@@ -2924,7 +2604,7 @@
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "FloraMachete",
@@ -2935,7 +2615,7 @@
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "FloraMano",
@@ -2946,7 +2626,7 @@
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "FloraParry",
@@ -2957,7 +2637,7 @@
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "FloraPassage",
@@ -2968,7 +2648,7 @@
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "FloraSnap",
@@ -2979,40 +2659,18 @@
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "Frase",
         "Namespace": "Move/MoveTeori/MoveElements/FloraMove/Frase",
         "SuperElementName": "FloraMove",
-        "SubElementName": [
-            "TarpOff",
-            "TarpOn",
-            "BootOff",
-            "BootOn",
-            "LaceLoosen",
-            "LaceTighten",
-            "BoxStack",
-            "BundleCount",
-            "BundleManoSwap",
-            "BundleStack",
-            "GloveOff",
-            "GloveOn",
-            "KitOffFrase",
-            "KitOnFrase",
-            "MarkaGet",
-            "MarkaPut",
-            "SewingFrase",
-            "SpadeTest",
-            "TibiorOffFrase",
-            "TibiorOnFrase",
-            "TruckSequence"
-        ],
+        "SubElementName": [],
         "ConcurrentElementName": [],
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "LogLaunch",
@@ -3023,33 +2681,18 @@
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "FloraMove",
         "Namespace": "Move/MoveTeori/MoveElements/FloraMove",
         "SuperElementName": "MoveElements",
-        "SubElementName": [
-            "BranchMove",
-            "FloraBlock",
-            "FloraCatch",
-            "FloraError",
-            "FloraFold",
-            "FloraMachete",
-            "FloraMano",
-            "FloraParry",
-            "FloraPassage",
-            "FloraSnap",
-            "Frase",
-            "LogLaunch",
-            "TrunkMove",
-            "TrunkMove"
-        ],
+        "SubElementName": [],
         "ConcurrentElementName": [],
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "TrunkMove",
@@ -3060,7 +2703,7 @@
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "TrunkMove",
@@ -3071,7 +2714,7 @@
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "FocusLook",
@@ -3082,40 +2725,18 @@
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "Frase",
         "Namespace": "Move/MoveTeori/MoveElements/HeadMove/Frase",
         "SuperElementName": "HeadMove",
-        "SubElementName": [
-            "TarpOff",
-            "TarpOn",
-            "BootOff",
-            "BootOn",
-            "LaceLoosen",
-            "LaceTighten",
-            "BoxStack",
-            "BundleCount",
-            "BundleManoSwap",
-            "BundleStack",
-            "GloveOff",
-            "GloveOn",
-            "KitOffFrase",
-            "KitOnFrase",
-            "MarkaGet",
-            "MarkaPut",
-            "SewingFrase",
-            "SpadeTest",
-            "TibiorOffFrase",
-            "TibiorOnFrase",
-            "TruckSequence"
-        ],
+        "SubElementName": [],
         "ConcurrentElementName": [],
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "HeadError",
@@ -3126,7 +2747,7 @@
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "HeadProtraction",
@@ -3137,7 +2758,7 @@
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "HeadRetraction",
@@ -3148,7 +2769,7 @@
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "HeadTilt",
@@ -3159,7 +2780,7 @@
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "ListenTo",
@@ -3170,7 +2791,7 @@
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "LookAway",
@@ -3181,7 +2802,7 @@
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "NeckExtension",
@@ -3192,7 +2813,7 @@
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "NeckFlexion",
@@ -3203,30 +2824,18 @@
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "HeadMove",
         "Namespace": "Move/MoveTeori/MoveElements/HeadMove",
         "SuperElementName": "MoveElements",
-        "SubElementName": [
-            "FocusLook",
-            "Frase",
-            "HeadError",
-            "HeadProtraction",
-            "HeadRetraction",
-            "HeadTilt",
-            "ListenTo",
-            "LookAway",
-            "NeckExtension",
-            "NeckFlexion",
-            "Speak"
-        ],
+        "SubElementName": [],
         "ConcurrentElementName": [],
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "Speak",
@@ -3237,7 +2846,7 @@
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "BootError",
@@ -3248,7 +2857,7 @@
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "BootMano",
@@ -3259,7 +2868,7 @@
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "BootPreservation",
@@ -3270,7 +2879,7 @@
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "BootSkreef",
@@ -3281,7 +2890,7 @@
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "BootOff",
@@ -3292,7 +2901,7 @@
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "BootOn",
@@ -3303,7 +2912,7 @@
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "LaceLoosen",
@@ -3314,7 +2923,7 @@
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "LaceTighten",
@@ -3325,40 +2934,18 @@
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "Frase",
         "Namespace": "Move/MoveTeori/MoveElements/InstrumentMove/BootMove/Frase",
         "SuperElementName": "BootMove",
-        "SubElementName": [
-            "TarpOff",
-            "TarpOn",
-            "BootOff",
-            "BootOn",
-            "LaceLoosen",
-            "LaceTighten",
-            "BoxStack",
-            "BundleCount",
-            "BundleManoSwap",
-            "BundleStack",
-            "GloveOff",
-            "GloveOn",
-            "KitOffFrase",
-            "KitOnFrase",
-            "MarkaGet",
-            "MarkaPut",
-            "SewingFrase",
-            "SpadeTest",
-            "TibiorOffFrase",
-            "TibiorOnFrase",
-            "TruckSequence"
-        ],
+        "SubElementName": [],
         "ConcurrentElementName": [],
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "LaceMove",
@@ -3369,25 +2956,18 @@
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "BootMove",
         "Namespace": "Move/MoveTeori/MoveElements/InstrumentMove/BootMove",
         "SuperElementName": "InstrumentMove",
-        "SubElementName": [
-            "BootError",
-            "BootMano",
-            "BootPreservation",
-            "BootSkreef",
-            "Frase",
-            "LaceMove"
-        ],
+        "SubElementName": [],
         "ConcurrentElementName": [],
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "BottleMove",
@@ -3398,7 +2978,7 @@
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "BoxConstruct",
@@ -3409,7 +2989,7 @@
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "BoxError",
@@ -3420,7 +3000,7 @@
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "BoxLift",
@@ -3431,7 +3011,7 @@
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "BoxLock",
@@ -3442,7 +3022,7 @@
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "BoxMano",
@@ -3453,7 +3033,7 @@
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "BoxSlide",
@@ -3464,7 +3044,7 @@
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "BoxTransport",
@@ -3475,7 +3055,7 @@
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "BoxStack",
@@ -3486,60 +3066,29 @@
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "Frase",
         "Namespace": "Move/MoveTeori/MoveElements/InstrumentMove/BoxMove/Frase",
         "SuperElementName": "BoxMove",
-        "SubElementName": [
-            "TarpOff",
-            "TarpOn",
-            "BootOff",
-            "BootOn",
-            "LaceLoosen",
-            "LaceTighten",
-            "BoxStack",
-            "BundleCount",
-            "BundleManoSwap",
-            "BundleStack",
-            "GloveOff",
-            "GloveOn",
-            "KitOffFrase",
-            "KitOnFrase",
-            "MarkaGet",
-            "MarkaPut",
-            "SewingFrase",
-            "SpadeTest",
-            "TibiorOffFrase",
-            "TibiorOnFrase",
-            "TruckSequence"
-        ],
+        "SubElementName": [],
         "ConcurrentElementName": [],
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "BoxMove",
         "Namespace": "Move/MoveTeori/MoveElements/InstrumentMove/BoxMove",
         "SuperElementName": "InstrumentMove",
-        "SubElementName": [
-            "BoxConstruct",
-            "BoxError",
-            "BoxLift",
-            "BoxLock",
-            "BoxMano",
-            "BoxSlide",
-            "BoxTransport",
-            "Frase"
-        ],
+        "SubElementName": [],
         "ConcurrentElementName": [],
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "BundleError",
@@ -3550,7 +3099,7 @@
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "BundleMano",
@@ -3561,7 +3110,7 @@
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "BundlePeel",
@@ -3572,7 +3121,7 @@
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "BundleUnwrap",
@@ -3583,7 +3132,7 @@
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "BundleCount",
@@ -3594,7 +3143,7 @@
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "BundleManoSwap",
@@ -3605,7 +3154,7 @@
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "BundleStack",
@@ -3616,57 +3165,29 @@
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "Frase",
         "Namespace": "Move/MoveTeori/MoveElements/InstrumentMove/BundleMove/Frase",
         "SuperElementName": "BundleMove",
-        "SubElementName": [
-            "TarpOff",
-            "TarpOn",
-            "BootOff",
-            "BootOn",
-            "LaceLoosen",
-            "LaceTighten",
-            "BoxStack",
-            "BundleCount",
-            "BundleManoSwap",
-            "BundleStack",
-            "GloveOff",
-            "GloveOn",
-            "KitOffFrase",
-            "KitOnFrase",
-            "MarkaGet",
-            "MarkaPut",
-            "SewingFrase",
-            "SpadeTest",
-            "TibiorOffFrase",
-            "TibiorOnFrase",
-            "TruckSequence"
-        ],
+        "SubElementName": [],
         "ConcurrentElementName": [],
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "BundleMove",
         "Namespace": "Move/MoveTeori/MoveElements/InstrumentMove/BundleMove",
         "SuperElementName": "InstrumentMove",
-        "SubElementName": [
-            "BundleError",
-            "BundleMano",
-            "BundlePeel",
-            "BundleUnwrap",
-            "Frase"
-        ],
+        "SubElementName": [],
         "ConcurrentElementName": [],
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "DoruAmble",
@@ -3677,7 +3198,7 @@
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "DoruAnkor",
@@ -3688,7 +3209,7 @@
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "DoruBump",
@@ -3699,7 +3220,7 @@
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "DoruPont",
@@ -3710,7 +3231,7 @@
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "DoryDrag",
@@ -3721,7 +3242,7 @@
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "DoryError",
@@ -3732,7 +3253,7 @@
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "DoryMano",
@@ -3743,7 +3264,7 @@
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "DoryPogo",
@@ -3754,7 +3275,7 @@
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "DoryPoke",
@@ -3765,7 +3286,7 @@
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "DoryPost",
@@ -3776,7 +3297,7 @@
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "DoryProp",
@@ -3787,7 +3308,7 @@
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "DoryPropel",
@@ -3798,7 +3319,7 @@
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "DoryRotate",
@@ -3809,7 +3330,7 @@
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "DorySkreef",
@@ -3820,7 +3341,7 @@
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "DorySlap",
@@ -3831,7 +3352,7 @@
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "DorySlide",
@@ -3842,7 +3363,7 @@
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "DoryStall",
@@ -3853,7 +3374,7 @@
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "DoryStomp",
@@ -3864,7 +3385,7 @@
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "DorySwap",
@@ -3875,7 +3396,7 @@
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "DorySwing",
@@ -3886,7 +3407,7 @@
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "DoryTransfer",
@@ -3897,40 +3418,18 @@
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "DoruMove",
         "Namespace": "Move/MoveTeori/MoveElements/InstrumentMove/DoruMove",
         "SuperElementName": "InstrumentMove",
-        "SubElementName": [
-            "DoruAmble",
-            "DoruAnkor",
-            "DoruBump",
-            "DoruPont",
-            "DoryDrag",
-            "DoryError",
-            "DoryMano",
-            "DoryPogo",
-            "DoryPoke",
-            "DoryPost",
-            "DoryProp",
-            "DoryPropel",
-            "DoryRotate",
-            "DorySkreef",
-            "DorySlap",
-            "DorySlide",
-            "DoryStall",
-            "DoryStomp",
-            "DorySwap",
-            "DorySwing",
-            "DoryTransfer"
-        ],
+        "SubElementName": [],
         "ConcurrentElementName": [],
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "GloveOff",
@@ -3941,7 +3440,7 @@
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "GloveOn",
@@ -3952,40 +3451,18 @@
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "Frase",
         "Namespace": "Move/MoveTeori/MoveElements/InstrumentMove/GloveMove/Frase",
         "SuperElementName": "GloveMove",
-        "SubElementName": [
-            "TarpOff",
-            "TarpOn",
-            "BootOff",
-            "BootOn",
-            "LaceLoosen",
-            "LaceTighten",
-            "BoxStack",
-            "BundleCount",
-            "BundleManoSwap",
-            "BundleStack",
-            "GloveOff",
-            "GloveOn",
-            "KitOffFrase",
-            "KitOnFrase",
-            "MarkaGet",
-            "MarkaPut",
-            "SewingFrase",
-            "SpadeTest",
-            "TibiorOffFrase",
-            "TibiorOnFrase",
-            "TruckSequence"
-        ],
+        "SubElementName": [],
         "ConcurrentElementName": [],
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "GloveError",
@@ -3996,7 +3473,7 @@
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "GloveMano",
@@ -4007,7 +3484,7 @@
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "GlovePreservation",
@@ -4018,23 +3495,18 @@
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "GloveMove",
         "Namespace": "Move/MoveTeori/MoveElements/InstrumentMove/GloveMove",
         "SuperElementName": "InstrumentMove",
-        "SubElementName": [
-            "Frase",
-            "GloveError",
-            "GloveMano",
-            "GlovePreservation"
-        ],
+        "SubElementName": [],
         "ConcurrentElementName": [],
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "KarabinerError",
@@ -4045,20 +3517,18 @@
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "KarabinerMove",
         "Namespace": "Move/MoveTeori/MoveElements/InstrumentMove/KarabinerMove",
         "SuperElementName": "InstrumentMove",
-        "SubElementName": [
-            "KarabinerError"
-        ],
+        "SubElementName": [],
         "ConcurrentElementName": [],
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "KitOffFrase",
@@ -4069,7 +3539,7 @@
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "KitOnFrase",
@@ -4080,40 +3550,18 @@
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "Frase",
         "Namespace": "Move/MoveTeori/MoveElements/InstrumentMove/KitMove/Frase",
         "SuperElementName": "KitMove",
-        "SubElementName": [
-            "TarpOff",
-            "TarpOn",
-            "BootOff",
-            "BootOn",
-            "LaceLoosen",
-            "LaceTighten",
-            "BoxStack",
-            "BundleCount",
-            "BundleManoSwap",
-            "BundleStack",
-            "GloveOff",
-            "GloveOn",
-            "KitOffFrase",
-            "KitOnFrase",
-            "MarkaGet",
-            "MarkaPut",
-            "SewingFrase",
-            "SpadeTest",
-            "TibiorOffFrase",
-            "TibiorOnFrase",
-            "TruckSequence"
-        ],
+        "SubElementName": [],
         "ConcurrentElementName": [],
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "KitError",
@@ -4124,7 +3572,7 @@
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "KitPreservation",
@@ -4135,22 +3583,18 @@
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "KitMove",
         "Namespace": "Move/MoveTeori/MoveElements/InstrumentMove/KitMove",
         "SuperElementName": "InstrumentMove",
-        "SubElementName": [
-            "Frase",
-            "KitError",
-            "KitPreservation"
-        ],
+        "SubElementName": [],
         "ConcurrentElementName": [],
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "MarkaGet",
@@ -4161,7 +3605,7 @@
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "MarkaPut",
@@ -4172,40 +3616,18 @@
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "Frase",
         "Namespace": "Move/MoveTeori/MoveElements/InstrumentMove/MarkaMove/Frase",
         "SuperElementName": "MarkaMove",
-        "SubElementName": [
-            "TarpOff",
-            "TarpOn",
-            "BootOff",
-            "BootOn",
-            "LaceLoosen",
-            "LaceTighten",
-            "BoxStack",
-            "BundleCount",
-            "BundleManoSwap",
-            "BundleStack",
-            "GloveOff",
-            "GloveOn",
-            "KitOffFrase",
-            "KitOnFrase",
-            "MarkaGet",
-            "MarkaPut",
-            "SewingFrase",
-            "SpadeTest",
-            "TibiorOffFrase",
-            "TibiorOnFrase",
-            "TruckSequence"
-        ],
+        "SubElementName": [],
         "ConcurrentElementName": [],
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "MarkaError",
@@ -4216,7 +3638,7 @@
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "MarkaforMove",
@@ -4227,7 +3649,7 @@
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "MarkaKnot",
@@ -4238,7 +3660,7 @@
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "MarkaLoad",
@@ -4249,7 +3671,7 @@
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "MarkaMano",
@@ -4260,7 +3682,7 @@
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "MarkaRip",
@@ -4271,7 +3693,7 @@
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "MarkaRoll",
@@ -4282,54 +3704,29 @@
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "MarkaMove",
         "Namespace": "Move/MoveTeori/MoveElements/InstrumentMove/MarkaMove",
         "SuperElementName": "InstrumentMove",
-        "SubElementName": [
-            "Frase",
-            "MarkaError",
-            "MarkaforMove",
-            "MarkaKnot",
-            "MarkaLoad",
-            "MarkaMano",
-            "MarkaRip",
-            "MarkaRoll"
-        ],
+        "SubElementName": [],
         "ConcurrentElementName": [],
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "InstrumentMove",
         "Namespace": "Move/MoveTeori/MoveElements/InstrumentMove",
         "SuperElementName": "MoveElements",
-        "SubElementName": [
-            "BootMove",
-            "BottleMove",
-            "BoxMove",
-            "BundleMove",
-            "DoruMove",
-            "GloveMove",
-            "KarabinerMove",
-            "KitMove",
-            "MarkaMove",
-            "PlantaforMove",
-            "RadiorMove",
-            "RepairMove",
-            "RopeMove",
-            "SpadeMove",
-            "TibiorMove"
-        ],
+        "SubElementName": [],
         "ConcurrentElementName": [],
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "BackBagMove",
@@ -4340,7 +3737,7 @@
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "BagEmpty",
@@ -4351,7 +3748,7 @@
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "BagIn",
@@ -4362,7 +3759,7 @@
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "BagLift",
@@ -4373,7 +3770,7 @@
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "BagShield",
@@ -4384,61 +3781,29 @@
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "Frase",
         "Namespace": "Move/MoveTeori/MoveElements/InstrumentMove/PlantaforMove/Frase",
         "SuperElementName": "PlantaforMove",
-        "SubElementName": [
-            "TarpOff",
-            "TarpOn",
-            "BootOff",
-            "BootOn",
-            "LaceLoosen",
-            "LaceTighten",
-            "BoxStack",
-            "BundleCount",
-            "BundleManoSwap",
-            "BundleStack",
-            "GloveOff",
-            "GloveOn",
-            "KitOffFrase",
-            "KitOnFrase",
-            "MarkaGet",
-            "MarkaPut",
-            "SewingFrase",
-            "SpadeTest",
-            "TibiorOffFrase",
-            "TibiorOnFrase",
-            "TruckSequence"
-        ],
+        "SubElementName": [],
         "ConcurrentElementName": [],
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "PlantaforMove",
         "Namespace": "Move/MoveTeori/MoveElements/InstrumentMove/PlantaforMove",
         "SuperElementName": "InstrumentMove",
-        "SubElementName": [
-            "Frase",
-            "PlantaforAdjust",
-            "PlantaforError",
-            "PlantaforLift",
-            "PlantaforOff",
-            "PlantaforOn",
-            "PlantaforPreservation",
-            "PlantaforSlide",
-            "PlantaforTransport"
-        ],
+        "SubElementName": [],
         "ConcurrentElementName": [],
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "PlantaforAdjust",
@@ -4449,7 +3814,7 @@
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "PlantaforError",
@@ -4460,7 +3825,7 @@
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "PlantaforLift",
@@ -4471,7 +3836,7 @@
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "PlantaforOff",
@@ -4482,7 +3847,7 @@
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "PlantaforOn",
@@ -4493,7 +3858,7 @@
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "PlantaforPreservation",
@@ -4504,7 +3869,7 @@
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "PlantaforSlide",
@@ -4515,7 +3880,7 @@
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "PlantaforTransport",
@@ -4526,20 +3891,18 @@
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "RadiorMove",
         "Namespace": "Move/MoveTeori/MoveElements/InstrumentMove/RadiorMove",
         "SuperElementName": "InstrumentMove",
-        "SubElementName": [
-            "RadiorPreservation"
-        ],
+        "SubElementName": [],
         "ConcurrentElementName": [],
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "RadiorPreservation",
@@ -4550,7 +3913,7 @@
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "SewingFrase",
@@ -4561,20 +3924,18 @@
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "RepairMove",
         "Namespace": "Move/MoveTeori/MoveElements/InstrumentMove/RepairMove",
         "SuperElementName": "InstrumentMove",
-        "SubElementName": [
-            "RepairError"
-        ],
+        "SubElementName": [],
         "ConcurrentElementName": [],
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "RepairError",
@@ -4585,20 +3946,18 @@
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "RopeMove",
         "Namespace": "Move/MoveTeori/MoveElements/InstrumentMove/RopeMove",
         "SuperElementName": "InstrumentMove",
-        "SubElementName": [
-            "RopeError"
-        ],
+        "SubElementName": [],
         "ConcurrentElementName": [],
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "RopeError",
@@ -4609,7 +3968,7 @@
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "CollarMano",
@@ -4620,7 +3979,7 @@
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "SpadeTest",
@@ -4631,50 +3990,18 @@
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "SpadeMove",
         "Namespace": "Move/MoveTeori/MoveElements/InstrumentMove/SpadeMove",
         "SuperElementName": "InstrumentMove",
-        "SubElementName": [
-            "CollarMano",
-            "SpadeAma",
-            "SpadeAmble",
-            "SpadeAnkor",
-            "SpadeBallista",
-            "SpadeBlock",
-            "SpadeDendrektomi",
-            "SpadeDilate",
-            "SpadeDrag",
-            "SpadeError",
-            "SpadeHook",
-            "SpadeMano",
-            "SpadeMuscleUp",
-            "SpadeOnda",
-            "SpadePlastBimano",
-            "SpadePlastMano",
-            "SpadePogo",
-            "SpadePoke",
-            "SpadePost",
-            "SpadePreservation",
-            "SpadePropel",
-            "SpadePurga",
-            "SpadeRotate",
-            "SpadeSeal",
-            "SpadeSkreef",
-            "SpadeSlap",
-            "SpadeStall",
-            "SpadeStomp",
-            "SpadeTomi",
-            "SpadeTransfer",
-            "SpadeTransport"
-        ],
+        "SubElementName": [],
         "ConcurrentElementName": [],
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "SpadeAma",
@@ -4685,7 +4012,7 @@
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "SpadeAmble",
@@ -4696,7 +4023,7 @@
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "SpadeAnkor",
@@ -4707,7 +4034,7 @@
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "SpadeBallista",
@@ -4718,7 +4045,7 @@
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "SpadeBlock",
@@ -4729,7 +4056,7 @@
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "SpadeDendrektomi",
@@ -4740,7 +4067,7 @@
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "SpadeDilate",
@@ -4751,7 +4078,7 @@
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "SpadeDrag",
@@ -4762,7 +4089,7 @@
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "SpadeError",
@@ -4773,7 +4100,7 @@
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "SpadeHook",
@@ -4784,7 +4111,7 @@
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "SpadeMano",
@@ -4795,7 +4122,7 @@
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "SpadeMuscleUp",
@@ -4806,7 +4133,7 @@
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "SpadeOnda",
@@ -4817,7 +4144,7 @@
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "SpadePlastBimano",
@@ -4828,7 +4155,7 @@
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "SpadePlastMano",
@@ -4839,7 +4166,7 @@
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "SpadePogo",
@@ -4850,7 +4177,7 @@
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "SpadePoke",
@@ -4861,7 +4188,7 @@
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "SpadePost",
@@ -4872,7 +4199,7 @@
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "SpadePreservation",
@@ -4883,7 +4210,7 @@
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "SpadePropel",
@@ -4894,7 +4221,7 @@
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "SpadePurga",
@@ -4905,7 +4232,7 @@
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "SpadeRotate",
@@ -4916,7 +4243,7 @@
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "SpadeSeal",
@@ -4927,7 +4254,7 @@
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "SpadeSkreef",
@@ -4938,7 +4265,7 @@
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "SpadeSlap",
@@ -4949,7 +4276,7 @@
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "SpadeStall",
@@ -4960,7 +4287,7 @@
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "SpadeStomp",
@@ -4971,7 +4298,7 @@
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "SpadeTomi",
@@ -4982,7 +4309,7 @@
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "SpadeTransfer",
@@ -4993,7 +4320,7 @@
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "SpadeTransport",
@@ -5004,40 +4331,18 @@
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "Frase",
         "Namespace": "Move/MoveTeori/MoveElements/InstrumentMove/TibiorMove/Frase",
         "SuperElementName": "TibiorMove",
-        "SubElementName": [
-            "TarpOff",
-            "TarpOn",
-            "BootOff",
-            "BootOn",
-            "LaceLoosen",
-            "LaceTighten",
-            "BoxStack",
-            "BundleCount",
-            "BundleManoSwap",
-            "BundleStack",
-            "GloveOff",
-            "GloveOn",
-            "KitOffFrase",
-            "KitOnFrase",
-            "MarkaGet",
-            "MarkaPut",
-            "SewingFrase",
-            "SpadeTest",
-            "TibiorOffFrase",
-            "TibiorOnFrase",
-            "TruckSequence"
-        ],
+        "SubElementName": [],
         "ConcurrentElementName": [],
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "TibiorOffFrase",
@@ -5048,7 +4353,7 @@
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "TibiorOnFrase",
@@ -5059,23 +4364,18 @@
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "TibiorMove",
         "Namespace": "Move/MoveTeori/MoveElements/InstrumentMove/TibiorMove",
         "SuperElementName": "InstrumentMove",
-        "SubElementName": [
-            "Frase",
-            "TibiorError",
-            "TibiorMano",
-            "TibiorPreservation"
-        ],
+        "SubElementName": [],
         "ConcurrentElementName": [],
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "TibiorError",
@@ -5086,7 +4386,7 @@
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "TibiorMano",
@@ -5097,7 +4397,7 @@
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "TibiorPreservation",
@@ -5108,7 +4408,7 @@
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "BagMano",
@@ -5119,7 +4419,7 @@
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "BoxMano",
@@ -5130,40 +4430,18 @@
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "Frase",
         "Namespace": "Move/MoveTeori/MoveElements/ManoMove/Frase",
         "SuperElementName": "ManoMove",
-        "SubElementName": [
-            "TarpOff",
-            "TarpOn",
-            "BootOff",
-            "BootOn",
-            "LaceLoosen",
-            "LaceTighten",
-            "BoxStack",
-            "BundleCount",
-            "BundleManoSwap",
-            "BundleStack",
-            "GloveOff",
-            "GloveOn",
-            "KitOffFrase",
-            "KitOnFrase",
-            "MarkaGet",
-            "MarkaPut",
-            "SewingFrase",
-            "SpadeTest",
-            "TibiorOffFrase",
-            "TibiorOnFrase",
-            "TruckSequence"
-        ],
+        "SubElementName": [],
         "ConcurrentElementName": [],
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "ManoCompress",
@@ -5174,7 +4452,7 @@
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "ManoDig",
@@ -5185,7 +4463,7 @@
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "ManoOrbit",
@@ -5196,7 +4474,7 @@
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "ManoPoke",
@@ -5207,7 +4485,7 @@
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "HammerSeal",
@@ -5218,7 +4496,7 @@
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "ManoDragSeal",
@@ -5229,24 +4507,18 @@
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "ManoSeal",
         "Namespace": "Move/MoveTeori/MoveElements/ManoMove/ManoSeal",
         "SuperElementName": "ManoMove",
-        "SubElementName": [
-            "HammerSeal",
-            "ManoDragSeal",
-            "PalmSeal",
-            "PunchSeal",
-            "SlapSeal"
-        ],
+        "SubElementName": [],
         "ConcurrentElementName": [],
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "PalmSeal",
@@ -5257,7 +4529,7 @@
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "PunchSeal",
@@ -5268,7 +4540,7 @@
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "SlapSeal",
@@ -5279,7 +4551,7 @@
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "ManoSkreef",
@@ -5290,7 +4562,7 @@
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "ManoSlide",
@@ -5301,108 +4573,51 @@
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "ManoMove",
         "Namespace": "Move/MoveTeori/MoveElements/ManoMove",
         "SuperElementName": "MoveElements",
-        "SubElementName": [
-            "BagMano",
-            "BoxMano",
-            "Frase",
-            "ManoCompress",
-            "ManoDig",
-            "ManoOrbit",
-            "ManoPoke",
-            "ManoSeal",
-            "ManoSkreef",
-            "ManoSlide"
-        ],
+        "SubElementName": [],
         "ConcurrentElementName": [],
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "MoveElements",
         "Namespace": "Move/MoveTeori/MoveElements",
         "SuperElementName": "MoveTeori",
-        "SubElementName": [
-            "BaseMove",
-            "BrazoMove",
-            "CacheMove",
-            "ClothingMove",
-            "CorpoMove",
-            "DendroMove",
-            "FloraMove",
-            "HeadMove",
-            "InstrumentMove",
-            "ManoMove",
-            "SiteMove",
-            "TruckMove"
-        ],
+        "SubElementName": [],
         "ConcurrentElementName": [],
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "Frase",
         "Namespace": "Move/MoveTeori/MoveElements/SiteMove/Frase",
         "SuperElementName": "SiteMove",
-        "SubElementName": [
-            "TarpOff",
-            "TarpOn",
-            "BootOff",
-            "BootOn",
-            "LaceLoosen",
-            "LaceTighten",
-            "BoxStack",
-            "BundleCount",
-            "BundleManoSwap",
-            "BundleStack",
-            "GloveOff",
-            "GloveOn",
-            "KitOffFrase",
-            "KitOnFrase",
-            "MarkaGet",
-            "MarkaPut",
-            "SewingFrase",
-            "SpadeTest",
-            "TibiorOffFrase",
-            "TibiorOnFrase",
-            "TruckSequence"
-        ],
+        "SubElementName": [],
         "ConcurrentElementName": [],
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "SiteMove",
         "Namespace": "Move/MoveTeori/MoveElements/SiteMove",
         "SuperElementName": "MoveElements",
-        "SubElementName": [
-            "Frase",
-            "SiteDilate",
-            "SiteEnter",
-            "SiteError",
-            "SiteEval",
-            "SiteExtract",
-            "SiteMark",
-            "SiteSeal",
-            "SiteSelect",
-            "SiteSkreef"
-        ],
+        "SubElementName": [],
         "ConcurrentElementName": [],
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "SiteDilate",
@@ -5413,7 +4628,7 @@
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "SiteEnter",
@@ -5424,7 +4639,7 @@
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "SiteError",
@@ -5435,7 +4650,7 @@
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "SiteEval",
@@ -5446,7 +4661,7 @@
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "SiteExtract",
@@ -5457,7 +4672,7 @@
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "SiteMark",
@@ -5468,7 +4683,7 @@
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "SiteSeal",
@@ -5479,7 +4694,7 @@
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "SiteSelect",
@@ -5490,7 +4705,7 @@
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "SiteSkreef",
@@ -5501,7 +4716,7 @@
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "TruckSequence",
@@ -5512,22 +4727,18 @@
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "TruckMove",
         "Namespace": "Move/MoveTeori/MoveElements/TruckMove",
         "SuperElementName": "MoveElements",
-        "SubElementName": [
-            "TruckError",
-            "TruckSit",
-            "TruckSleep"
-        ],
+        "SubElementName": [],
         "ConcurrentElementName": [],
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "TruckError",
@@ -5538,7 +4749,7 @@
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "TruckSit",
@@ -5549,7 +4760,7 @@
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "TruckSleep",
@@ -5560,7 +4771,7 @@
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "MoveCoverage",
@@ -5571,7 +4782,7 @@
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "MoveDensity",
@@ -5582,7 +4793,7 @@
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "BaseExtreme",
@@ -5593,7 +4804,7 @@
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "BrazoExtreme",
@@ -5604,21 +4815,18 @@
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "MoveExtreme",
         "Namespace": "Move/MoveTeori/MovePropositions/MoveExtreme",
         "SuperElementName": "MovePropositions",
-        "SubElementName": [
-            "BaseExtreme",
-            "BrazoExtreme"
-        ],
+        "SubElementName": [],
         "ConcurrentElementName": [],
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "MoveLine",
@@ -5629,7 +4837,7 @@
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "MoveSpace",
@@ -5640,7 +4848,7 @@
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "MoveSimbols",
@@ -5651,23 +4859,18 @@
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "MoveTeori",
         "Namespace": "Move/MoveTeori",
         "SuperElementName": "Move",
-        "SubElementName": [
-            "MoveAxiom",
-            "MoveDefinitions",
-            "MoveElements",
-            "MoveSimbols"
-        ],
+        "SubElementName": [],
         "ConcurrentElementName": [],
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "PsikeOverview",
@@ -5678,7 +4881,7 @@
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "Arousal",
@@ -5689,7 +4892,7 @@
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "Attention",
@@ -5700,7 +4903,7 @@
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "BranchBreakSound",
@@ -5711,7 +4914,7 @@
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "LogBreakSound",
@@ -5722,20 +4925,18 @@
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "Music",
         "Namespace": "Psike/PsikeTeori/Audio/Music",
         "SuperElementName": "Audio",
-        "SubElementName": [
-            "Playlists"
-        ],
+        "SubElementName": [],
         "ConcurrentElementName": [],
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "Playlists",
@@ -5746,25 +4947,18 @@
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "Audio",
         "Namespace": "Psike/PsikeTeori/Audio",
         "SuperElementName": "PsikeTeori",
-        "SubElementName": [
-            "BranchBreakSound",
-            "LogBreakSound",
-            "Music",
-            "SlashSound",
-            "SoilSound",
-            "SpadeSound"
-        ],
+        "SubElementName": [],
         "ConcurrentElementName": [],
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "SlashSound",
@@ -5775,7 +4969,7 @@
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "SoilSound",
@@ -5786,7 +4980,7 @@
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "SpadeSound",
@@ -5797,7 +4991,7 @@
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "Avoidance",
@@ -5808,7 +5002,7 @@
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "Awareness",
@@ -5819,7 +5013,7 @@
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "Compassion",
@@ -5830,7 +5024,7 @@
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "Competition",
@@ -5841,7 +5035,7 @@
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "CompressionSense",
@@ -5852,7 +5046,7 @@
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "Confidence",
@@ -5863,7 +5057,7 @@
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "ControlFlow",
@@ -5874,7 +5068,7 @@
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "BundleCounting",
@@ -5885,21 +5079,18 @@
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "Counting",
         "Namespace": "Psike/PsikeTeori/Counting",
         "SuperElementName": "PsikeTeori",
-        "SubElementName": [
-            "BundleCounting",
-            "StepCount"
-        ],
+        "SubElementName": [],
         "ConcurrentElementName": [],
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "StepCount",
@@ -5910,7 +5101,7 @@
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "BagUpSizeDecision",
@@ -5921,7 +5112,7 @@
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "GoOrNoGo",
@@ -5932,7 +5123,7 @@
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "MicrositeSelection",
@@ -5943,22 +5134,18 @@
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "Decision",
         "Namespace": "Psike/PsikeTeori/Decision",
         "SuperElementName": "PsikeTeori",
-        "SubElementName": [
-            "BagUpSizeDecision",
-            "GoOrNoGo",
-            "MicrositeSelection"
-        ],
+        "SubElementName": [],
         "ConcurrentElementName": [],
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "Anger",
@@ -5969,7 +5156,7 @@
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "Disgust",
@@ -5980,7 +5167,7 @@
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "Fear",
@@ -5991,7 +5178,7 @@
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "Joy",
@@ -6002,24 +5189,18 @@
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "Emotion",
         "Namespace": "Psike/PsikeTeori/Emotion",
         "SuperElementName": "PsikeTeori",
-        "SubElementName": [
-            "Anger",
-            "Disgust",
-            "Fear",
-            "Joy",
-            "Sadness"
-        ],
+        "SubElementName": [],
         "ConcurrentElementName": [],
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "Sadness",
@@ -6030,7 +5211,7 @@
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "Fatigue",
@@ -6041,20 +5222,18 @@
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "Energy",
         "Namespace": "Psike/PsikeTeori/Energy",
         "SuperElementName": "PsikeTeori",
-        "SubElementName": [
-            "Fatigue"
-        ],
+        "SubElementName": [],
         "ConcurrentElementName": [],
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "BagFillEstimation",
@@ -6065,22 +5244,18 @@
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "Estimation",
         "Namespace": "Psike/PsikeTeori/Estimation",
         "SuperElementName": "PsikeTeori",
-        "SubElementName": [
-            "BagFillEstimation",
-            "SpaceEstimation",
-            "TimeEstimation"
-        ],
+        "SubElementName": [],
         "ConcurrentElementName": [],
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "SpaceEstimation",
@@ -6091,7 +5266,7 @@
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "TimeEstimation",
@@ -6102,7 +5277,7 @@
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "Event",
@@ -6113,7 +5288,7 @@
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "Homeostasis",
@@ -6124,7 +5299,7 @@
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "Judgement",
@@ -6135,7 +5310,7 @@
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "Learning",
@@ -6146,7 +5321,7 @@
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "LongTermMemory",
@@ -6157,7 +5332,7 @@
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "NumberMemory",
@@ -6168,24 +5343,18 @@
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "Memory",
         "Namespace": "Psike/PsikeTeori/Memory",
         "SuperElementName": "PsikeTeori",
-        "SubElementName": [
-            "LongTermMemory",
-            "NumberMemory",
-            "ShortTermMemory",
-            "ViaMemory",
-            "WorkingMemory"
-        ],
+        "SubElementName": [],
         "ConcurrentElementName": [],
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "ShortTermMemory",
@@ -6196,7 +5365,7 @@
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "ViaMemory",
@@ -6207,7 +5376,7 @@
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "WorkingMemory",
@@ -6218,7 +5387,7 @@
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "Mindfulness",
@@ -6229,7 +5398,7 @@
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "Mindset",
@@ -6240,7 +5409,7 @@
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "Muscle",
@@ -6251,7 +5420,7 @@
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "FlowState",
@@ -6262,20 +5431,18 @@
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "NeuroState",
         "Namespace": "Psike/PsikeTeori/NeuroState",
         "SuperElementName": "PsikeTeori",
-        "SubElementName": [
-            "FlowState"
-        ],
+        "SubElementName": [],
         "ConcurrentElementName": [],
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "Proprioception",
@@ -6286,7 +5453,7 @@
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "Resilience",
@@ -6297,7 +5464,7 @@
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "SpatialCognition",
@@ -6308,7 +5475,7 @@
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "BagOutTime",
@@ -6319,7 +5486,7 @@
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "CacheTime",
@@ -6330,7 +5497,7 @@
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "DailySchedule",
@@ -6341,7 +5508,7 @@
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "MoveTiming",
@@ -6352,29 +5519,18 @@
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "Time",
         "Namespace": "Psike/PsikeTeori/Time",
         "SuperElementName": "PsikeTeori",
-        "SubElementName": [
-            "BagOutTime",
-            "CacheTime",
-            "DailySchedule",
-            "MoveTiming",
-            "Planning",
-            "Timer",
-            "AnteTime",
-            "DuringTime",
-            "PostTime",
-            "Speed"
-        ],
+        "SubElementName": [],
         "ConcurrentElementName": [],
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "Planning",
@@ -6385,7 +5541,7 @@
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "Timer",
@@ -6396,7 +5552,7 @@
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "RefOverview",
@@ -6407,7 +5563,7 @@
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "InputElement.py",
@@ -6418,21 +5574,18 @@
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "Skema",
         "Namespace": "Skema",
         "SuperElementName": [],
-        "SubElementName": [
-            "InputElement.py",
-            "Skema_AllElements.json"
-        ],
+        "SubElementName": [],
         "ConcurrentElementName": [],
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "Skema_AllElements.json",
@@ -6443,7 +5596,7 @@
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "FastLand",
@@ -6454,21 +5607,18 @@
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "LandSpeed",
         "Namespace": "Via/ViaMetron/LandSpeed",
         "SuperElementName": "ViaMetron",
-        "SubElementName": [
-            "FastLand",
-            "SlowLand"
-        ],
+        "SubElementName": [],
         "ConcurrentElementName": [],
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "SlowLand",
@@ -6479,23 +5629,18 @@
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "ViaMetron",
         "Namespace": "Via/ViaMetron",
         "SuperElementName": "Via",
-        "SubElementName": [
-            "LandSpeed",
-            "ViaKratos",
-            "ViaKuboi",
-            "ViaTeknik"
-        ],
+        "SubElementName": [],
         "ConcurrentElementName": [],
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "ViaKratos",
@@ -6506,7 +5651,7 @@
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "ViaKuboi",
@@ -6517,7 +5662,7 @@
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "ViaTeknik",
@@ -6528,7 +5673,7 @@
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "ViaOverview",
@@ -6539,7 +5684,7 @@
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "FillPlanSelection",
@@ -6550,7 +5695,7 @@
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "ViaError",
@@ -6561,21 +5706,18 @@
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "ViaElements",
         "Namespace": "Via/ViaTeori/ViaElements",
         "SuperElementName": "ViaTeori",
-        "SubElementName": [
-            "ViaAxiom",
-            "ViaPropositions"
-        ],
+        "SubElementName": [],
         "ConcurrentElementName": [],
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "ViaAxiom",
@@ -6586,7 +5728,7 @@
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "Density",
@@ -6597,7 +5739,7 @@
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "CardinalDirection",
@@ -6608,21 +5750,18 @@
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "Direction",
         "Namespace": "Via/ViaTeori/ViaElements/ViaDefinitions/Direction",
         "SuperElementName": "ViaDefinitions",
-        "SubElementName": [
-            "CardinalDirection",
-            "RelativeDirection"
-        ],
+        "SubElementName": [],
         "ConcurrentElementName": [],
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "AnteriorDirection",
@@ -6633,7 +5772,7 @@
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "DiaDirection",
@@ -6644,7 +5783,7 @@
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "EktoDirection",
@@ -6655,7 +5794,7 @@
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "InDirection",
@@ -6666,7 +5805,7 @@
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "OnDirection",
@@ -6677,7 +5816,7 @@
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "OverDirection",
@@ -6688,31 +5827,18 @@
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "RelativeDirection",
         "Namespace": "Via/ViaTeori/ViaElements/ViaDefinitions/Direction/RelativeDirection",
         "SuperElementName": "Direction",
-        "SubElementName": [
-            "AnteriorDirection",
-            "DiaDirection",
-            "EktoDirection",
-            "InDirection",
-            "OnDirection",
-            "OverDirection",
-            "ParaDirection",
-            "PeriDirection",
-            "PosteriorDirection",
-            "ProgressDirection",
-            "ProximalDirection",
-            "RegressDirection"
-        ],
+        "SubElementName": [],
         "ConcurrentElementName": [],
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "ParaDirection",
@@ -6723,7 +5849,7 @@
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "PeriDirection",
@@ -6734,7 +5860,7 @@
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "PosteriorDirection",
@@ -6745,7 +5871,7 @@
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "ProgressDirection",
@@ -6756,7 +5882,7 @@
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "ProximalDirection",
@@ -6767,7 +5893,7 @@
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "RegressDirection",
@@ -6778,22 +5904,18 @@
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "Fill",
         "Namespace": "Via/ViaTeori/ViaElements/ViaDefinitions/Fill",
         "SuperElementName": "ViaDefinitions",
-        "SubElementName": [
-            "ObstacleFill",
-            "TeamFill",
-            "ZoneFill"
-        ],
+        "SubElementName": [],
         "ConcurrentElementName": [],
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "Kontakt",
@@ -6804,7 +5926,7 @@
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "Limit",
@@ -6815,7 +5937,7 @@
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "Line",
@@ -6826,7 +5948,7 @@
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "Marka",
@@ -6837,7 +5959,7 @@
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "CenterPoint",
@@ -6848,7 +5970,7 @@
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "InflectionPoint",
@@ -6859,7 +5981,7 @@
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "MidPoint",
@@ -6870,27 +5992,18 @@
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "Point",
         "Namespace": "Via/ViaTeori/ViaElements/ViaDefinitions/Point",
         "SuperElementName": "ViaDefinitions",
-        "SubElementName": [
-            "CenterPoint",
-            "InflectionPoint",
-            "MidPoint",
-            "ReferencePoint",
-            "ReflectionPoint",
-            "TargetPoint",
-            "VertexPoint",
-            "Viewpoint"
-        ],
+        "SubElementName": [],
         "ConcurrentElementName": [],
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "ReferencePoint",
@@ -6901,7 +6014,7 @@
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "ReflectionPoint",
@@ -6912,7 +6025,7 @@
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "TargetPoint",
@@ -6923,7 +6036,7 @@
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "VertexPoint",
@@ -6934,7 +6047,7 @@
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "Viewpoint",
@@ -6945,7 +6058,7 @@
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "Space",
@@ -6956,7 +6069,7 @@
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "AnteTime",
@@ -6967,7 +6080,7 @@
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "DuringTime",
@@ -6978,29 +6091,18 @@
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "Time",
         "Namespace": "Via/ViaTeori/ViaElements/ViaDefinitions/Time",
         "SuperElementName": "ViaDefinitions",
-        "SubElementName": [
-            "BagOutTime",
-            "CacheTime",
-            "DailySchedule",
-            "MoveTiming",
-            "Planning",
-            "Timer",
-            "AnteTime",
-            "DuringTime",
-            "PostTime",
-            "Speed"
-        ],
+        "SubElementName": [],
         "ConcurrentElementName": [],
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "PostTime",
@@ -7011,7 +6113,7 @@
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "Speed",
@@ -7022,7 +6124,7 @@
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "Vium",
@@ -7033,21 +6135,18 @@
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "ViaPropositions",
         "Namespace": "Via/ViaTeori/ViaElements/ViaPropositions",
         "SuperElementName": "ViaElements",
-        "SubElementName": [
-            "ViaProblem",
-            "ViaTeorem"
-        ],
+        "SubElementName": [],
         "ConcurrentElementName": [],
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "Alignment",
@@ -7058,7 +6157,7 @@
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "ObstacleFill",
@@ -7069,22 +6168,18 @@
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "Fill",
         "Namespace": "Via/ViaTeori/ViaElements/ViaPropositions/ViaProblem/Fill",
         "SuperElementName": "ViaProblem",
-        "SubElementName": [
-            "ObstacleFill",
-            "TeamFill",
-            "ZoneFill"
-        ],
+        "SubElementName": [],
         "ConcurrentElementName": [],
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "BouncingFill",
@@ -7095,7 +6190,7 @@
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "CrossingFill",
@@ -7106,21 +6201,18 @@
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "TeamFill",
         "Namespace": "Via/ViaTeori/ViaElements/ViaPropositions/ViaProblem/Fill/TeamFill",
         "SuperElementName": "Fill",
-        "SubElementName": [
-            "BouncingFill",
-            "CrossingFill"
-        ],
+        "SubElementName": [],
         "ConcurrentElementName": [],
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "ApogeeFill",
@@ -7131,7 +6223,7 @@
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "DivFill",
@@ -7142,7 +6234,7 @@
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "OpenEndedFill",
@@ -7153,25 +6245,18 @@
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "ZoneFill",
         "Namespace": "Via/ViaTeori/ViaElements/ViaPropositions/ViaProblem/Fill/ZoneFill",
         "SuperElementName": "Fill",
-        "SubElementName": [
-            "ApogeeFill",
-            "DivFill",
-            "OpenEndedFill",
-            "ParaBorderFill",
-            "PerimeterFill",
-            "StraigtenFill"
-        ],
+        "SubElementName": [],
         "ConcurrentElementName": [],
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "ParaBorderFill",
@@ -7182,7 +6267,7 @@
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "PerimeterFill",
@@ -7193,7 +6278,7 @@
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "StraigtenFill",
@@ -7204,7 +6289,7 @@
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "DecreaseDensity",
@@ -7215,7 +6300,7 @@
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "IncreaseDensity",
@@ -7226,22 +6311,18 @@
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "ViaProblem",
         "Namespace": "Via/ViaTeori/ViaElements/ViaPropositions/ViaProblem",
         "SuperElementName": "ViaPropositions",
-        "SubElementName": [
-            "Alignment",
-            "Fill",
-            "SelectNeosite"
-        ],
+        "SubElementName": [],
         "ConcurrentElementName": [],
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "BisectLine",
@@ -7252,7 +6333,7 @@
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "BLine",
@@ -7263,23 +6344,18 @@
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "NeoSitePolygon",
         "Namespace": "Via/ViaTeori/ViaElements/ViaPropositions/ViaProblem/SelectNeosite/NeoSitePolygon",
         "SuperElementName": "SelectNeosite",
-        "SubElementName": [
-            "SiteDiamond",
-            "SiteSquare",
-            "SiteTrapezoid",
-            "SiteTriangle"
-        ],
+        "SubElementName": [],
         "ConcurrentElementName": [],
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "SiteDiamond",
@@ -7290,7 +6366,7 @@
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "SiteSquare",
@@ -7301,7 +6377,7 @@
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "SiteTrapezoid",
@@ -7312,7 +6388,7 @@
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "SiteTriangle",
@@ -7323,7 +6399,7 @@
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "AdaptiveProximity",
@@ -7334,7 +6410,7 @@
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "RigidProximity",
@@ -7345,7 +6421,7 @@
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "SlopedProximity",
@@ -7356,20 +6432,18 @@
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "SelectNeosite",
         "Namespace": "Via/ViaTeori/ViaElements/ViaPropositions/ViaProblem/SelectNeosite",
         "SuperElementName": "ViaProblem",
-        "SubElementName": [
-            "NeoSitePolygon"
-        ],
+        "SubElementName": [],
         "ConcurrentElementName": [],
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "Plot",
@@ -7380,7 +6454,7 @@
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "KontaktDensity",
@@ -7391,7 +6465,7 @@
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "BoustroLine",
@@ -7402,7 +6476,7 @@
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "CircumventLine",
@@ -7413,7 +6487,7 @@
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "GhostLine",
@@ -7424,7 +6498,7 @@
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "HypotenuseLine",
@@ -7435,7 +6509,7 @@
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "OrbitLine",
@@ -7446,31 +6520,18 @@
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "LineTeorem",
         "Namespace": "Via/ViaTeori/ViaElements/ViaPropositions/ViaTeorem/LineTeorem",
         "SuperElementName": "ViaTeorem",
-        "SubElementName": [
-            "BoustroLine",
-            "CircumventLine",
-            "GhostLine",
-            "HypotenuseLine",
-            "OrbitLine",
-            "RacingLine",
-            "RotationLine",
-            "SpiralLine",
-            "StraightLine",
-            "WalkInLine",
-            "WalkoutLine",
-            "ZigzagLine"
-        ],
+        "SubElementName": [],
         "ConcurrentElementName": [],
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "RacingLine",
@@ -7481,7 +6542,7 @@
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "RotationLine",
@@ -7492,7 +6553,7 @@
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "SpiralLine",
@@ -7503,7 +6564,7 @@
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "StraightLine",
@@ -7514,7 +6575,7 @@
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "WalkInLine",
@@ -7525,7 +6586,7 @@
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "WalkoutLine",
@@ -7536,7 +6597,7 @@
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "ZigzagLine",
@@ -7547,7 +6608,7 @@
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "BorderMarka",
@@ -7558,7 +6619,7 @@
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "HighMarka",
@@ -7569,7 +6630,7 @@
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "LineInMarka",
@@ -7580,7 +6641,7 @@
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "NaturalMarka",
@@ -7591,7 +6652,7 @@
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "SiteMarka",
@@ -7602,7 +6663,7 @@
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "TrenchExitMarka",
@@ -7613,7 +6674,7 @@
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "WastedMarka",
@@ -7624,7 +6685,7 @@
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "ZoneMarka",
@@ -7635,21 +6696,18 @@
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "ViaTeorem",
         "Namespace": "Via/ViaTeori/ViaElements/ViaPropositions/ViaTeorem",
         "SuperElementName": "ViaPropositions",
-        "SubElementName": [
-            "LineTeorem",
-            "ZoneTeorem"
-        ],
+        "SubElementName": [],
         "ConcurrentElementName": [],
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "FillBlock",
@@ -7660,20 +6718,18 @@
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "Block",
         "Namespace": "Via/ViaTeori/ViaElements/ViaPropositions/ViaTeorem/ZoneTeorem/Block",
         "SuperElementName": "ZoneTeorem",
-        "SubElementName": [
-            "FillBlock"
-        ],
+        "SubElementName": [],
         "ConcurrentElementName": [],
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "Border",
@@ -7684,7 +6740,7 @@
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "Div",
@@ -7695,7 +6751,7 @@
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "Obstacle",
@@ -7706,26 +6762,18 @@
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "ZoneTeorem",
         "Namespace": "Via/ViaTeori/ViaElements/ViaPropositions/ViaTeorem/ZoneTeorem",
         "SuperElementName": "ViaTeorem",
-        "SubElementName": [
-            "Block",
-            "Border",
-            "Div",
-            "Obstacle",
-            "Piece",
-            "Site",
-            "ZoneGeometry"
-        ],
+        "SubElementName": [],
         "ConcurrentElementName": [],
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "Piece",
@@ -7736,21 +6784,18 @@
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "Site",
         "Namespace": "Via/ViaTeori/ViaElements/ViaPropositions/ViaTeorem/ZoneTeorem/Site",
         "SuperElementName": "ZoneTeorem",
-        "SubElementName": [
-            "SiteDensity",
-            "SiteProximity"
-        ],
+        "SubElementName": [],
         "ConcurrentElementName": [],
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "4Density",
@@ -7761,7 +6806,7 @@
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "5Density",
@@ -7772,7 +6817,7 @@
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "6Density",
@@ -7783,7 +6828,7 @@
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "7Density",
@@ -7794,7 +6839,7 @@
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "8Density",
@@ -7805,7 +6850,7 @@
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "9Density",
@@ -7816,25 +6861,18 @@
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "SiteDensity",
         "Namespace": "Via/ViaTeori/ViaElements/ViaPropositions/ViaTeorem/ZoneTeorem/Site/SiteDensity",
         "SuperElementName": "Site",
-        "SubElementName": [
-            "4Density",
-            "5Density",
-            "6Density",
-            "7Density",
-            "8Density",
-            "9Density"
-        ],
+        "SubElementName": [],
         "ConcurrentElementName": [],
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "MaximumProximity",
@@ -7845,7 +6883,7 @@
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "MinimumProximity",
@@ -7856,7 +6894,7 @@
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "OptimalProximity",
@@ -7867,22 +6905,18 @@
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "SiteProximity",
         "Namespace": "Via/ViaTeori/ViaElements/ViaPropositions/ViaTeorem/ZoneTeorem/Site/SiteProximity",
         "SuperElementName": "Site",
-        "SubElementName": [
-            "MaximumProximity",
-            "MinimumProximity",
-            "OptimalProximity"
-        ],
+        "SubElementName": [],
         "ConcurrentElementName": [],
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "CompletionLimit",
@@ -7893,7 +6927,7 @@
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
     },
     {
         "ElementName": "ZoneGeometry",
@@ -7904,6 +6938,637 @@
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
-    }
+        "PsikeElementName": [],
+    },
 ]
+
+
+HasSuperElementList = [
+    {"Beta": "BetaDiagram"},
+    {"BetaDifficulty": "BetaComplexity"},
+    {"BetaDifficulty": "BetaIntensity"},
+    {"BetaDifficulty": "BetaRisk"},
+    {"Beta": "BetaDifficulty"},
+    {"Beta": "BetaExamples"},
+    {"Beta": "BetaExecution"},
+    {"Beta": "BetaFlux"},
+    {"Beta": "BetaLingo"},
+    {"BetaPython": "BetaBlock"},
+    {"BetaPython": "BetaInstance"},
+    {"BetaPython": "BetaMethod"},
+    {"BetaPython": "BetaObject"},
+    {"BetaPython": "BetaString"},
+    {"BetaPython": "CompoundStatements"},
+    {"BetaPython": "DataModel"},
+    {"BetaPython": "ExecutionModel"},
+    {"BetaPython": "Expressions"},
+    {"BetaPython": "FullGrammarSpecification"},
+    {"BetaPython": "ImportSystem"},
+    {"BetaPython": "Introduction"},
+    {"BetaPython": "LexicalAnalysis"},
+    {"Beta": "BetaPython"},
+    {"BetaPython": "SimpleStatements"},
+    {"BetaPython": "TopLevelComponents"},
+    {"Beta": "BetaVideo"},
+    {"Beta": "Rework"},
+    {"Beta": "TeamBeta"},
+    {"Beta": "WhatBeta"},
+    {"EkoMetron": "EkoKratos"},
+    {"EkoMetron": "EkoKuboi"},
+    {"EkoMetron": "EkoTeknik"},
+    {"Eko": "EkoMetron"},
+    {"Eko": "EkoOverview"},
+    {"EkoPraktik": "EkoError"},
+    {"EkoElements": "Antrosfera"},
+    {"Prep": "BurnPit"},
+    {"Prep": "MoundPrep"},
+    {"Antrosfera": "Prep"},
+    {"Prep": "SkreefPrep"},
+    {"Prep": "TrenchPrep"},
+    {"Antrosfera": "Road"},
+    {"Atmosfera": "AirTemperature"},
+    {"Atmosfera": "Humidity"},
+    {"EkoElements": "Atmosfera"},
+    {"Atmosfera": "Precipitation"},
+    {"Atmosfera": "Wind"},
+    {"Dendron": "Abies"},
+    {"Dendron": "Larix"},
+    {"Biosfera": "Dendron"},
+    {"Dendron": "Picea"},
+    {"Dendron": "Pinus"},
+    {"Dendron": "Pseudotsuga"},
+    {"Dendron": "Quercus"},
+    {"Dendron": "Spruce"},
+    {"Dendron": "Thuja"},
+    {"Dendron": "Tsuga"},
+    {"Biosfera": "Fauna"},
+    {"Flora": "Bryophyta"},
+    {"Flora": "BurntLand"},
+    {"Flora": "CropTree"},
+    {"Flora": "Flower"},
+    {"Flora": "Log"},
+    {"Biosfera": "Flora"},
+    {"Flora": "Poales"},
+    {"Flora": "RiparianZone"},
+    {"Slash": "BurnPileSlash"},
+    {"Slash": "HighSlash"},
+    {"Slash": "LowSlash"},
+    {"Flora": "Slash"},
+    {"Slash": "WetSlash"},
+    {"Flora": "Stump"},
+    {"EkoDefinitions": "EcoCurve"},
+    {"EkoDefinitions": "EcoPoint"},
+    {"EkoDefinitions": "EcoSpace"},
+    {"EkoDefinitions": "EcoSurface"},
+    {"Geomorfologia": "Flat"},
+    {"Geomorfologia": "Incline"},
+    {"EkoElements": "Geomorfologia"},
+    {"Geomorfologia": "Valley"},
+    {"EkoElements": "Helios"},
+    {"Hidrosfera": "GroundWater"},
+    {"Hidrosfera": "MovingWater"},
+    {"EkoElements": "Hidrosfera"},
+    {"Hidrosfera": "Pond"},
+    {"Hidrosfera": "Puddle"},
+    {"EkoElements": "Litosfera"},
+    {"Litosfera": "RockCap"},
+    {"Pedosfera": "DrySoil"},
+    {"Pedosfera": "IceSoil"},
+    {"MaterialModifiers": "BoulderSoil"},
+    {"MaterialModifiers": "ClaySoil"},
+    {"MaterialModifiers": "CobbleSoil"},
+    {"MaterialModifiers": "PebbleSoil"},
+    {"MaterialModifiers": "RubbleSoil"},
+    {"MaterialModifiers": "SandSoil"},
+    {"MaterialModifiers": "SiltSoil"},
+    {"Pedosfera": "MineralSoil"},
+    {"EkoElements": "Pedosfera"},
+    {"Pedosfera": "RedRotSoil"},
+    {"SoilFiber": "FibricSoil"},
+    {"SoilFiber": "HumicSoil"},
+    {"SoilFiber": "MesicSoil"},
+    {"SoilFiber": "WoodySoil"},
+    {"Pedosfera": "SubjectiveSoil"},
+    {"Pedosfera": "WetSoil"},
+    {"Tracking": "DiscernSigns"},
+    {"EkoPropositions": "Tracking"},
+    {"EkoTeori": "EkoSimbols"},
+    {"Move": "Kinesiology"},
+    {"MoveMetron": "MoveKratos"},
+    {"MoveMetron": "MoveProbability"},
+    {"MoveMetron": "MoveTeknik"},
+    {"Move": "MoveOverview"},
+    {"MoveCompositions": "Frase"},
+    {"MovePraktik": "MoveError"},
+    {"Move": "MovePraktik"},
+    {"MoveTeori": "MoveAxiom"},
+    {"MoveDirection": "AnteriorDirection"},
+    {"MoveDirection": "DistalDirection"},
+    {"MoveDirection": "LateralDirection"},
+    {"MoveDirection": "MedialDirection"},
+    {"MoveDirection": "PosteriorDirection"},
+    {"MoveDirection": "ProximalDirection"},
+    {"MovePlane": "FrontalPlane"},
+    {"MovePlane": "HorizontalPlane"},
+    {"MovePlane": "SagittalPlane"},
+    {"MoveDefinitions": "MoveSurface"},
+    {"MoveTeori": "MoveDefinitions"},
+    {"BaseMove": "BaseAbduction"},
+    {"BaseMove": "BaseAbsorb"},
+    {"BaseMove": "BaseAdduction"},
+    {"BaseMove": "BaseAma"},
+    {"BaseMove": "BaseArchSmear"},
+    {"BaseMove": "BaseDig"},
+    {"BaseMove": "BaseDorsiflexion"},
+    {"BaseMove": "BaseDrag"},
+    {"BaseMove": "BaseError"},
+    {"BaseMove": "BaseEversion"},
+    {"BaseMove": "BaseFlexion"},
+    {"BaseMove": "BaseInversion"},
+    {"BaseMove": "BaseOnda"},
+    {"BaseMove": "BaseSkreef"},
+    {"BaseMove": "Crouch"},
+    {"BaseMove": "Error"},
+    {"FootSeal": "ArchDragSeal"},
+    {"FootSeal": "ArchKickSeal"},
+    {"FootSeal": "FootArchSeal"},
+    {"FootSeal": "FootDragSeal"},
+    {"FootSeal": "HeelDragSeal"},
+    {"FootSeal": "HeelKickSeal"},
+    {"BaseMove": "FootSeal"},
+    {"FootSeal": "ToeDragSeal"},
+    {"FootSeal": "ToeKickSeal"},
+    {"BaseMove": "Frase"},
+    {"BaseMove": "Hop"},
+    {"BaseMove": "Kneel"},
+    {"MoveElements": "BaseMove"},
+    {"BaseMove": "PlantarFlexion"},
+    {"BaseMove": "RunStart"},
+    {"BaseMove": "Step"},
+    {"BaseMove": "Stomp"},
+    {"BrazoMove": "BrazoAma"},
+    {"BrazoMove": "BrazoAmble"},
+    {"BrazoMove": "BrazoCompress"},
+    {"BrazoMove": "BrazoError"},
+    {"BrazoMove": "BrazoHook"},
+    {"BrazoMove": "BrazoOnda"},
+    {"BrazoMove": "BrazoRockOver"},
+    {"BrazoMove": "Frase"},
+    {"MoveElements": "BrazoMove"},
+    {"CacheMove": "CacheError"},
+    {"CacheMove": "Eating"},
+    {"CacheMove": "Frase"},
+    {"Frase": "TarpOff"},
+    {"Frase": "TarpOn"},
+    {"MoveElements": "CacheMove"},
+    {"ClothingMove": "BaseLayerMove"},
+    {"FastenerMove": "BuckleMove"},
+    {"FastenerMove": "ButtonMove"},
+    {"ClothingMove": "FastenerMove"},
+    {"FastenerMove": "SnapMove"},
+    {"FastenerMove": "ZelcroMove"},
+    {"FastenerMove": "ZipperMove"},
+    {"ClothingMove": "Frase"},
+    {"ClothingMove": "InsulationLayerMove"},
+    {"ClothingMove": "Layering"},
+    {"MoveElements": "ClothingMove"},
+    {"ShellLayerMove": "HatMove"},
+    {"ClothingMove": "ShellLayerMove"},
+    {"ShellLayerMove": "PocketMove"},
+    {"ShellLayerMove": "RainShell"},
+    {"ShellLayerMove": "RemoveMud"},
+    {"ShellLayerMove": "WindShell"},
+    {"ClothingMove": "TextilePreservation"},
+    {"CorpoMove": "CorpoAbsorb"},
+    {"CorpoMove": "CorpoBend"},
+    {"CorpoMove": "CorpoError"},
+    {"CorpoMove": "CorpoLean"},
+    {"CorpoMove": "CorpoOrbit"},
+    {"CorpoMove": "CorpoPosture"},
+    {"CorpoMove": "CorpoPropel"},
+    {"CorpoMove": "CorpoRotate"},
+    {"CorpoMove": "CorpoSlot"},
+    {"CorpoMove": "CorpoTangent"},
+    {"CorpoMove": "CorpoTwist"},
+    {"CorpoMove": "CorpoUnder"},
+    {"CorpoMove": "Crawl"},
+    {"CorpoMove": "Fall"},
+    {"CorpoMove": "Frase"},
+    {"CorpoMove": "HipHinge"},
+    {"CorpoMove": "InclineWalk"},
+    {"CorpoMove": "Jump"},
+    {"CorpoMove": "LogWalk"},
+    {"MoveElements": "CorpoMove"},
+    {"CorpoMove": "SpineExtension"},
+    {"CorpoMove": "SpineFlexion"},
+    {"CorpoMove": "Stand"},
+    {"CorpoMove": "StandUp"},
+    {"CorpoMove": "StepInto"},
+    {"CorpoMove": "StepOver"},
+    {"CorpoMove": "TrenchWalk"},
+    {"CorpoMove": "Walk"},
+    {"DendroMove": "DendroEval"},
+    {"DendroMove": "DendroInsert"},
+    {"DendroMove": "DendroLoad"},
+    {"DendroMove": "DendroMano"},
+    {"MoveElements": "DendroMove"},
+    {"BranchMove": "BranchSnap"},
+    {"FloraMove": "BranchMove"},
+    {"FloraMove": "FloraBlock"},
+    {"FloraMove": "FloraCatch"},
+    {"FloraMove": "FloraError"},
+    {"FloraMove": "FloraFold"},
+    {"FloraMove": "FloraMachete"},
+    {"FloraMove": "FloraMano"},
+    {"FloraMove": "FloraParry"},
+    {"FloraMove": "FloraPassage"},
+    {"FloraMove": "FloraSnap"},
+    {"FloraMove": "Frase"},
+    {"FloraMove": "LogLaunch"},
+    {"MoveElements": "FloraMove"},
+    {"FloraMove": "TrunkMove"},
+    {"FloraMove": "TrunkMove"},
+    {"HeadMove": "FocusLook"},
+    {"HeadMove": "Frase"},
+    {"HeadMove": "HeadError"},
+    {"HeadMove": "HeadProtraction"},
+    {"HeadMove": "HeadRetraction"},
+    {"HeadMove": "HeadTilt"},
+    {"HeadMove": "ListenTo"},
+    {"HeadMove": "LookAway"},
+    {"HeadMove": "NeckExtension"},
+    {"HeadMove": "NeckFlexion"},
+    {"MoveElements": "HeadMove"},
+    {"HeadMove": "Speak"},
+    {"BootMove": "BootError"},
+    {"BootMove": "BootMano"},
+    {"BootMove": "BootPreservation"},
+    {"BootMove": "BootSkreef"},
+    {"Frase": "BootOff"},
+    {"Frase": "BootOn"},
+    {"Frase": "LaceLoosen"},
+    {"Frase": "LaceTighten"},
+    {"BootMove": "Frase"},
+    {"BootMove": "LaceMove"},
+    {"InstrumentMove": "BootMove"},
+    {"InstrumentMove": "BottleMove"},
+    {"BoxMove": "BoxConstruct"},
+    {"BoxMove": "BoxError"},
+    {"BoxMove": "BoxLift"},
+    {"BoxMove": "BoxLock"},
+    {"BoxMove": "BoxMano"},
+    {"BoxMove": "BoxSlide"},
+    {"BoxMove": "BoxTransport"},
+    {"Frase": "BoxStack"},
+    {"BoxMove": "Frase"},
+    {"InstrumentMove": "BoxMove"},
+    {"BundleMove": "BundleError"},
+    {"BundleMove": "BundleMano"},
+    {"BundleMove": "BundlePeel"},
+    {"BundleMove": "BundleUnwrap"},
+    {"Frase": "BundleCount"},
+    {"Frase": "BundleManoSwap"},
+    {"Frase": "BundleStack"},
+    {"BundleMove": "Frase"},
+    {"InstrumentMove": "BundleMove"},
+    {"DoruMove": "DoruAmble"},
+    {"DoruMove": "DoruAnkor"},
+    {"DoruMove": "DoruBump"},
+    {"DoruMove": "DoruPont"},
+    {"DoruMove": "DoryDrag"},
+    {"DoruMove": "DoryError"},
+    {"DoruMove": "DoryMano"},
+    {"DoruMove": "DoryPogo"},
+    {"DoruMove": "DoryPoke"},
+    {"DoruMove": "DoryPost"},
+    {"DoruMove": "DoryProp"},
+    {"DoruMove": "DoryPropel"},
+    {"DoruMove": "DoryRotate"},
+    {"DoruMove": "DorySkreef"},
+    {"DoruMove": "DorySlap"},
+    {"DoruMove": "DorySlide"},
+    {"DoruMove": "DoryStall"},
+    {"DoruMove": "DoryStomp"},
+    {"DoruMove": "DorySwap"},
+    {"DoruMove": "DorySwing"},
+    {"DoruMove": "DoryTransfer"},
+    {"InstrumentMove": "DoruMove"},
+    {"Frase": "GloveOff"},
+    {"Frase": "GloveOn"},
+    {"GloveMove": "Frase"},
+    {"GloveMove": "GloveError"},
+    {"GloveMove": "GloveMano"},
+    {"GloveMove": "GlovePreservation"},
+    {"InstrumentMove": "GloveMove"},
+    {"KarabinerMove": "KarabinerError"},
+    {"InstrumentMove": "KarabinerMove"},
+    {"Frase": "KitOffFrase"},
+    {"Frase": "KitOnFrase"},
+    {"KitMove": "Frase"},
+    {"KitMove": "KitError"},
+    {"KitMove": "KitPreservation"},
+    {"InstrumentMove": "KitMove"},
+    {"Frase": "MarkaGet"},
+    {"Frase": "MarkaPut"},
+    {"MarkaMove": "Frase"},
+    {"MarkaMove": "MarkaError"},
+    {"MarkaMove": "MarkaforMove"},
+    {"MarkaMove": "MarkaKnot"},
+    {"MarkaMove": "MarkaLoad"},
+    {"MarkaMove": "MarkaMano"},
+    {"MarkaMove": "MarkaRip"},
+    {"MarkaMove": "MarkaRoll"},
+    {"InstrumentMove": "MarkaMove"},
+    {"MoveElements": "InstrumentMove"},
+    {"BagMove": "BackBagMove"},
+    {"BagMove": "BagEmpty"},
+    {"BagMove": "BagIn"},
+    {"BagMove": "BagLift"},
+    {"BagMove": "BagShield"},
+    {"PlantaforMove": "Frase"},
+    {"InstrumentMove": "PlantaforMove"},
+    {"PlantaforMove": "PlantaforAdjust"},
+    {"PlantaforMove": "PlantaforError"},
+    {"PlantaforMove": "PlantaforLift"},
+    {"PlantaforMove": "PlantaforOff"},
+    {"PlantaforMove": "PlantaforOn"},
+    {"PlantaforMove": "PlantaforPreservation"},
+    {"PlantaforMove": "PlantaforSlide"},
+    {"PlantaforMove": "PlantaforTransport"},
+    {"InstrumentMove": "RadiorMove"},
+    {"RadiorMove": "RadiorPreservation"},
+    {"Frase": "SewingFrase"},
+    {"InstrumentMove": "RepairMove"},
+    {"RepairMove": "RepairError"},
+    {"InstrumentMove": "RopeMove"},
+    {"RopeMove": "RopeError"},
+    {"SpadeMove": "CollarMano"},
+    {"Frase": "SpadeTest"},
+    {"InstrumentMove": "SpadeMove"},
+    {"SpadeMove": "SpadeAma"},
+    {"SpadeMove": "SpadeAmble"},
+    {"SpadeMove": "SpadeAnkor"},
+    {"SpadeMove": "SpadeBallista"},
+    {"SpadeMove": "SpadeBlock"},
+    {"SpadeMove": "SpadeDendrektomi"},
+    {"SpadeMove": "SpadeDilate"},
+    {"SpadeMove": "SpadeDrag"},
+    {"SpadeMove": "SpadeError"},
+    {"SpadeMove": "SpadeHook"},
+    {"SpadeMove": "SpadeMano"},
+    {"SpadeMove": "SpadeMuscleUp"},
+    {"SpadeMove": "SpadeOnda"},
+    {"SpadeMove": "SpadePlastBimano"},
+    {"SpadeMove": "SpadePlastMano"},
+    {"SpadeMove": "SpadePogo"},
+    {"SpadeMove": "SpadePoke"},
+    {"SpadeMove": "SpadePost"},
+    {"SpadeMove": "SpadePreservation"},
+    {"SpadeMove": "SpadePropel"},
+    {"SpadeMove": "SpadePurga"},
+    {"SpadeMove": "SpadeRotate"},
+    {"SpadeMove": "SpadeSeal"},
+    {"SpadeMove": "SpadeSkreef"},
+    {"SpadeMove": "SpadeSlap"},
+    {"SpadeMove": "SpadeStall"},
+    {"SpadeMove": "SpadeStomp"},
+    {"SpadeMove": "SpadeTomi"},
+    {"SpadeMove": "SpadeTransfer"},
+    {"SpadeMove": "SpadeTransport"},
+    {"TibiorMove": "Frase"},
+    {"Frase": "TibiorOffFrase"},
+    {"Frase": "TibiorOnFrase"},
+    {"InstrumentMove": "TibiorMove"},
+    {"TibiorMove": "TibiorError"},
+    {"TibiorMove": "TibiorMano"},
+    {"TibiorMove": "TibiorPreservation"},
+    {"ManoMove": "BagMano"},
+    {"ManoMove": "BoxMano"},
+    {"ManoMove": "Frase"},
+    {"ManoMove": "ManoCompress"},
+    {"ManoMove": "ManoDig"},
+    {"ManoMove": "ManoOrbit"},
+    {"ManoMove": "ManoPoke"},
+    {"ManoSeal": "HammerSeal"},
+    {"ManoSeal": "ManoDragSeal"},
+    {"ManoMove": "ManoSeal"},
+    {"ManoSeal": "PalmSeal"},
+    {"ManoSeal": "PunchSeal"},
+    {"ManoSeal": "SlapSeal"},
+    {"ManoMove": "ManoSkreef"},
+    {"ManoMove": "ManoSlide"},
+    {"MoveElements": "ManoMove"},
+    {"MoveTeori": "MoveElements"},
+    {"SiteMove": "Frase"},
+    {"MoveElements": "SiteMove"},
+    {"SiteMove": "SiteDilate"},
+    {"SiteMove": "SiteEnter"},
+    {"SiteMove": "SiteError"},
+    {"SiteMove": "SiteEval"},
+    {"SiteMove": "SiteExtract"},
+    {"SiteMove": "SiteMark"},
+    {"SiteMove": "SiteSeal"},
+    {"SiteMove": "SiteSelect"},
+    {"SiteMove": "SiteSkreef"},
+    {"Frase": "TruckSequence"},
+    {"MoveElements": "TruckMove"},
+    {"TruckMove": "TruckError"},
+    {"TruckMove": "TruckSit"},
+    {"TruckMove": "TruckSleep"},
+    {"MovePropositions": "MoveCoverage"},
+    {"MovePropositions": "MoveDensity"},
+    {"MoveExtreme": "BaseExtreme"},
+    {"MoveExtreme": "BrazoExtreme"},
+    {"MovePropositions": "MoveExtreme"},
+    {"MovePropositions": "MoveLine"},
+    {"MovePropositions": "MoveSpace"},
+    {"MoveTeori": "MoveSimbols"},
+    {"Move": "MoveTeori"},
+    {"Psike": "PsikeOverview"},
+    {"PsikeTeori": "Arousal"},
+    {"PsikeTeori": "Attention"},
+    {"Audio": "BranchBreakSound"},
+    {"Audio": "LogBreakSound"},
+    {"Audio": "Music"},
+    {"Music": "Playlists"},
+    {"PsikeTeori": "Audio"},
+    {"Audio": "SlashSound"},
+    {"Audio": "SoilSound"},
+    {"Audio": "SpadeSound"},
+    {"PsikeTeori": "Avoidance"},
+    {"PsikeTeori": "Awareness"},
+    {"PsikeTeori": "Compassion"},
+    {"PsikeTeori": "Competition"},
+    {"PsikeTeori": "CompressionSense"},
+    {"PsikeTeori": "Confidence"},
+    {"PsikeTeori": "ControlFlow"},
+    {"Counting": "BundleCounting"},
+    {"PsikeTeori": "Counting"},
+    {"Counting": "StepCount"},
+    {"Decision": "BagUpSizeDecision"},
+    {"Decision": "GoOrNoGo"},
+    {"Decision": "MicrositeSelection"},
+    {"PsikeTeori": "Decision"},
+    {"Emotion": "Anger"},
+    {"Emotion": "Disgust"},
+    {"Emotion": "Fear"},
+    {"Emotion": "Joy"},
+    {"PsikeTeori": "Emotion"},
+    {"Emotion": "Sadness"},
+    {"Energy": "Fatigue"},
+    {"PsikeTeori": "Energy"},
+    {"Estimation": "BagFillEstimation"},
+    {"PsikeTeori": "Estimation"},
+    {"Estimation": "SpaceEstimation"},
+    {"Estimation": "TimeEstimation"},
+    {"PsikeTeori": "Event"},
+    {"PsikeTeori": "Homeostasis"},
+    {"PsikeTeori": "Judgement"},
+    {"PsikeTeori": "Learning"},
+    {"Memory": "LongTermMemory"},
+    {"Memory": "NumberMemory"},
+    {"PsikeTeori": "Memory"},
+    {"Memory": "ShortTermMemory"},
+    {"Memory": "ViaMemory"},
+    {"Memory": "WorkingMemory"},
+    {"PsikeTeori": "Mindfulness"},
+    {"PsikeTeori": "Mindset"},
+    {"PsikeTeori": "Muscle"},
+    {"NeuroState": "FlowState"},
+    {"PsikeTeori": "NeuroState"},
+    {"PsikeTeori": "Proprioception"},
+    {"PsikeTeori": "Resilience"},
+    {"PsikeTeori": "SpatialCognition"},
+    {"Time": "BagOutTime"},
+    {"Time": "CacheTime"},
+    {"Time": "DailySchedule"},
+    {"Time": "MoveTiming"},
+    {"PsikeTeori": "Time"},
+    {"Time": "Planning"},
+    {"Time": "Timer"},
+    {"Skema": "InputElement.py"},
+    {"Skema": "Skema_AllElements.json"},
+    {"LandSpeed": "FastLand"},
+    {"ViaMetron": "LandSpeed"},
+    {"LandSpeed": "SlowLand"},
+    {"Via": "ViaMetron"},
+    {"ViaMetron": "ViaKratos"},
+    {"ViaMetron": "ViaKuboi"},
+    {"ViaMetron": "ViaTeknik"},
+    {"Via": "ViaOverview"},
+    {"ViaPraktik": "FillPlanSelection"},
+    {"ViaPraktik": "ViaError"},
+    {"ViaTeori": "ViaElements"},
+    {"ViaElements": "ViaAxiom"},
+    {"ViaDefinitions": "Density"},
+    {"Direction": "CardinalDirection"},
+    {"ViaDefinitions": "Direction"},
+    {"RelativeDirection": "AnteriorDirection"},
+    {"RelativeDirection": "DiaDirection"},
+    {"RelativeDirection": "EktoDirection"},
+    {"RelativeDirection": "InDirection"},
+    {"RelativeDirection": "OnDirection"},
+    {"RelativeDirection": "OverDirection"},
+    {"Direction": "RelativeDirection"},
+    {"RelativeDirection": "ParaDirection"},
+    {"RelativeDirection": "PeriDirection"},
+    {"RelativeDirection": "PosteriorDirection"},
+    {"RelativeDirection": "ProgressDirection"},
+    {"RelativeDirection": "ProximalDirection"},
+    {"RelativeDirection": "RegressDirection"},
+    {"ViaDefinitions": "Fill"},
+    {"ViaDefinitions": "Kontakt"},
+    {"ViaDefinitions": "Limit"},
+    {"ViaDefinitions": "Line"},
+    {"ViaDefinitions": "Marka"},
+    {"Point": "CenterPoint"},
+    {"Point": "InflectionPoint"},
+    {"Point": "MidPoint"},
+    {"ViaDefinitions": "Point"},
+    {"Point": "ReferencePoint"},
+    {"Point": "ReflectionPoint"},
+    {"Point": "TargetPoint"},
+    {"Point": "VertexPoint"},
+    {"Point": "Viewpoint"},
+    {"ViaDefinitions": "Space"},
+    {"Time": "AnteTime"},
+    {"Time": "DuringTime"},
+    {"ViaDefinitions": "Time"},
+    {"Time": "PostTime"},
+    {"Time": "Speed"},
+    {"ViaDefinitions": "Vium"},
+    {"ViaElements": "ViaPropositions"},
+    {"ViaProblem": "Alignment"},
+    {"Fill": "ObstacleFill"},
+    {"ViaProblem": "Fill"},
+    {"TeamFill": "BouncingFill"},
+    {"TeamFill": "CrossingFill"},
+    {"Fill": "TeamFill"},
+    {"ZoneFill": "ApogeeFill"},
+    {"ZoneFill": "DivFill"},
+    {"ZoneFill": "OpenEndedFill"},
+    {"Fill": "ZoneFill"},
+    {"ZoneFill": "ParaBorderFill"},
+    {"ZoneFill": "PerimeterFill"},
+    {"ZoneFill": "StraigtenFill"},
+    {"ModifyDensity": "DecreaseDensity"},
+    {"ModifyDensity": "IncreaseDensity"},
+    {"ViaPropositions": "ViaProblem"},
+    {"SelectLine": "BisectLine"},
+    {"SelectLine": "BLine"},
+    {"SelectNeosite": "NeoSitePolygon"},
+    {"NeoSitePolygon": "SiteDiamond"},
+    {"NeoSitePolygon": "SiteSquare"},
+    {"NeoSitePolygon": "SiteTrapezoid"},
+    {"NeoSitePolygon": "SiteTriangle"},
+    {"NeoSiteProximity": "AdaptiveProximity"},
+    {"NeoSiteProximity": "RigidProximity"},
+    {"NeoSiteProximity": "SlopedProximity"},
+    {"ViaProblem": "SelectNeosite"},
+    {"DensityTeorem": "Plot"},
+    {"KontaktTeorem": "KontaktDensity"},
+    {"LineTeorem": "BoustroLine"},
+    {"LineTeorem": "CircumventLine"},
+    {"LineTeorem": "GhostLine"},
+    {"LineTeorem": "HypotenuseLine"},
+    {"LineTeorem": "OrbitLine"},
+    {"ViaTeorem": "LineTeorem"},
+    {"LineTeorem": "RacingLine"},
+    {"LineTeorem": "RotationLine"},
+    {"LineTeorem": "SpiralLine"},
+    {"LineTeorem": "StraightLine"},
+    {"LineTeorem": "WalkInLine"},
+    {"LineTeorem": "WalkoutLine"},
+    {"LineTeorem": "ZigzagLine"},
+    {"MarkaTeorem": "BorderMarka"},
+    {"MarkaTeorem": "HighMarka"},
+    {"MarkaTeorem": "LineInMarka"},
+    {"MarkaTeorem": "NaturalMarka"},
+    {"MarkaTeorem": "SiteMarka"},
+    {"MarkaTeorem": "TrenchExitMarka"},
+    {"MarkaTeorem": "WastedMarka"},
+    {"MarkaTeorem": "ZoneMarka"},
+    {"ViaPropositions": "ViaTeorem"},
+    {"Block": "FillBlock"},
+    {"ZoneTeorem": "Block"},
+    {"ZoneTeorem": "Border"},
+    {"ZoneTeorem": "Div"},
+    {"ZoneTeorem": "Obstacle"},
+    {"ViaTeorem": "ZoneTeorem"},
+    {"ZoneTeorem": "Piece"},
+    {"ZoneTeorem": "Site"},
+    {"SiteDensity": "4Density"},
+    {"SiteDensity": "5Density"},
+    {"SiteDensity": "6Density"},
+    {"SiteDensity": "7Density"},
+    {"SiteDensity": "8Density"},
+    {"SiteDensity": "9Density"},
+    {"Site": "SiteDensity"},
+    {"SiteProximity": "MaximumProximity"},
+    {"SiteProximity": "MinimumProximity"},
+    {"SiteProximity": "OptimalProximity"},
+    {"Site": "SiteProximity"},
+    {"ZoneCompletion": "CompletionLimit"},
+    {"ZoneTeorem": "ZoneGeometry"},
+]
+

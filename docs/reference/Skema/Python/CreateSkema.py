@@ -1,3 +1,8 @@
+import os
+
+script_dir = os.path.dirname(os.path.abspath(__file__))
+file_path = os.path.join(script_dir, 'Output.json')
+
 ElementNamespaceList = [
     "Atlon",
     "Beta/BetaDiagram",
@@ -634,20 +639,22 @@ ElementNamespaceList = [
 ]
 
 
-def InputElement():
-    for namespace in set(sorted(ElementNamespaceList)):
-        element = namespace  # the characters from the left until "/"
-        print("{")
-        print(f'\t"ElementName": "{element}",')
-        print('\t"Namespace": [],')
-        print('\t"SuperElement": [],')
-        print('\t"SubElement": [],')
-        print('\t"ConcurrentElement": [],')
-        print('\t"EkoElement": [],')
-        print('\t"ViaElement": [],')
-        print('\t"MoveElement": [],')
-        print('\t"PsikeElement": []')
-        print("},")
+def CreateSkema():
+    
+    outputList = []
+
+    for namespace in ElementNamespaceList:
+        splitnamespace = namespace.split("/")  # the characters from the left until "/"
+
+        elementName = splitnamespace[-1] # Get the name after the last "/" delimiter
+
+        outputList.append(f'{{"ElementName": "{elementName}", "Namespace": "{namespace}","SuperElement": [],"SubElement": [],"ConcurrentElement": [],"EkoElement": [],"ViaElement": [],"MoveElement": [],"PsikeElement": []}}')
 
 
-InputElement()
+    with open(file_path, 'w') as f:
+        for line in outputList:
+            f.write(f"{line},\n")
+
+
+
+CreateSkema()
