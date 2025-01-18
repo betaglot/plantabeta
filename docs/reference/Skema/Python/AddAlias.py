@@ -10,7 +10,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "BetaComplexity",
@@ -21,7 +22,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "BetaIntensity",
@@ -32,7 +34,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "BetaRisk",
@@ -43,7 +46,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "BetaDifficulty",
@@ -58,7 +62,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "BetaExamples",
@@ -69,7 +74,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "BetaExecution",
@@ -80,7 +86,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "BetaFlux",
@@ -91,7 +98,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "BetaLingo",
@@ -102,7 +110,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "BetaBlock",
@@ -113,7 +122,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "BetaInstance",
@@ -124,7 +134,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "BetaMethod",
@@ -135,7 +146,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "BetaObject",
@@ -146,7 +158,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "BetaString",
@@ -157,7 +170,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "CompoundStatements",
@@ -168,7 +182,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "DataModel",
@@ -179,7 +194,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "ExecutionModel",
@@ -190,7 +206,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "Expressions",
@@ -201,7 +218,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "FullGrammarSpecification",
@@ -212,7 +230,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "ImportSystem",
@@ -223,7 +242,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "Introduction",
@@ -234,7 +254,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "LexicalAnalysis",
@@ -245,7 +266,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "BetaPython",
@@ -272,7 +294,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "SimpleStatements",
@@ -283,7 +306,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "TopLevelComponents",
@@ -294,7 +318,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "BetaVideo",
@@ -305,7 +330,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "Rework",
@@ -316,7 +342,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "TeamBeta",
@@ -327,7 +354,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "WhatBeta",
@@ -338,7 +366,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "EkoKratos",
@@ -349,7 +378,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "EkoKuboi",
@@ -360,7 +390,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "EkoTeknik",
@@ -371,7 +402,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "EkoMetron",
@@ -386,7 +418,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "EkoOverview",
@@ -397,7 +430,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "EkoError",
@@ -408,7 +442,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "Antrosfera",
@@ -422,7 +457,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "BurnPit",
@@ -433,7 +469,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "MoundPrep",
@@ -444,7 +481,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "Prep",
@@ -460,7 +498,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "SkreefPrep",
@@ -471,7 +510,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "TrenchPrep",
@@ -482,7 +522,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "Road",
@@ -493,7 +534,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "AirTemperature",
@@ -504,7 +546,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "Humidity",
@@ -515,7 +558,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "Atmosfera",
@@ -531,7 +575,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "Precipitation",
@@ -542,7 +587,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "Wind",
@@ -553,7 +599,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "Abies",
@@ -564,7 +611,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "Larix",
@@ -575,7 +623,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "Dendron",
@@ -596,7 +645,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "Picea",
@@ -607,7 +657,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "Pinus",
@@ -618,7 +669,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "Pseudotsuga",
@@ -629,7 +681,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "Quercus",
@@ -640,7 +693,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "Spruce",
@@ -651,7 +705,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "Thuja",
@@ -662,7 +717,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "Tsuga",
@@ -673,7 +729,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "Fauna",
@@ -684,7 +741,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "Bryophyta",
@@ -695,7 +753,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "BurntLand",
@@ -706,7 +765,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "CropTree",
@@ -717,7 +777,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "Flower",
@@ -728,7 +789,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "Log",
@@ -739,7 +801,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "Flora",
@@ -760,7 +823,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "Poales",
@@ -771,7 +835,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "RiparianZone",
@@ -782,7 +847,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "BurnPileSlash",
@@ -793,7 +859,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "HighSlash",
@@ -804,7 +871,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "LowSlash",
@@ -815,7 +883,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "Slash",
@@ -831,7 +900,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "WetSlash",
@@ -842,7 +912,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "Stump",
@@ -853,7 +924,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "EcoCurve",
@@ -864,7 +936,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "EcoPoint",
@@ -875,7 +948,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "EcoSpace",
@@ -886,7 +960,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "EcoSurface",
@@ -897,7 +972,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "Flat",
@@ -908,7 +984,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "Incline",
@@ -919,7 +996,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "Geomorfologia",
@@ -934,7 +1012,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "Valley",
@@ -945,7 +1024,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "Helios",
@@ -956,7 +1036,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "GroundWater",
@@ -967,7 +1048,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "MovingWater",
@@ -978,7 +1060,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "Hidrosfera",
@@ -994,7 +1077,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "Pond",
@@ -1005,7 +1089,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "Puddle",
@@ -1016,7 +1101,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "Litosfera",
@@ -1029,7 +1115,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "RockCap",
@@ -1040,7 +1127,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "DrySoil",
@@ -1051,7 +1139,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "IceSoil",
@@ -1062,7 +1151,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "BoulderSoil",
@@ -1073,7 +1163,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "ClaySoil",
@@ -1084,7 +1175,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "CobbleSoil",
@@ -1095,7 +1187,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "PebbleSoil",
@@ -1106,7 +1199,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "RubbleSoil",
@@ -1117,7 +1211,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "SandSoil",
@@ -1128,7 +1223,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "SiltSoil",
@@ -1139,7 +1235,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "MineralSoil",
@@ -1150,7 +1247,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "Pedosfera",
@@ -1168,7 +1266,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "RedRotSoil",
@@ -1179,7 +1278,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "FibricSoil",
@@ -1190,7 +1290,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "HumicSoil",
@@ -1201,7 +1302,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "MesicSoil",
@@ -1212,7 +1314,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "WoodySoil",
@@ -1223,7 +1326,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "SubjectiveSoil",
@@ -1234,7 +1338,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "WetSoil",
@@ -1245,7 +1350,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "DiscernSigns",
@@ -1256,7 +1362,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "Tracking",
@@ -1269,7 +1376,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "EkoSimbols",
@@ -1280,7 +1388,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "Ergon",
@@ -1291,7 +1400,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "Fisik",
@@ -1302,7 +1412,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "Lexikon",
@@ -1313,7 +1424,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "Kinesiology",
@@ -1324,7 +1436,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "MoveKratos",
@@ -1335,7 +1448,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "MoveProbability",
@@ -1346,7 +1460,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "MoveTeknik",
@@ -1357,7 +1472,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "MoveOverview",
@@ -1368,7 +1484,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "Frase",
@@ -1401,7 +1518,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "MoveError",
@@ -1412,7 +1530,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "MovePraktik",
@@ -1425,7 +1544,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "MoveAxiom",
@@ -1436,7 +1556,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "AnteriorDirection",
@@ -1447,7 +1568,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "DistalDirection",
@@ -1458,7 +1580,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "LateralDirection",
@@ -1469,7 +1592,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "MedialDirection",
@@ -1480,7 +1604,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "PosteriorDirection",
@@ -1491,7 +1616,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "ProximalDirection",
@@ -1502,7 +1628,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "FrontalPlane",
@@ -1513,7 +1640,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "HorizontalPlane",
@@ -1524,7 +1652,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "SagittalPlane",
@@ -1535,7 +1664,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "MoveSurface",
@@ -1546,7 +1676,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "MoveDefinitions",
@@ -1559,7 +1690,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "BaseAbduction",
@@ -1570,7 +1702,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "BaseAbsorb",
@@ -1581,7 +1714,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "BaseAdduction",
@@ -1592,7 +1726,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "BaseAma",
@@ -1603,7 +1738,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "BaseArchSmear",
@@ -1614,7 +1750,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "BaseDig",
@@ -1625,7 +1762,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "BaseDorsiflexion",
@@ -1636,7 +1774,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "BaseDrag",
@@ -1647,7 +1786,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "BaseError",
@@ -1658,7 +1798,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "BaseEversion",
@@ -1669,7 +1810,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "BaseFlexion",
@@ -1680,7 +1822,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "BaseInversion",
@@ -1691,7 +1834,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "BaseOnda",
@@ -1702,7 +1846,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "BaseSkreef",
@@ -1713,7 +1858,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "Crouch",
@@ -1724,7 +1870,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "Error",
@@ -1735,7 +1882,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "ArchDragSeal",
@@ -1746,7 +1894,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "ArchKickSeal",
@@ -1757,7 +1906,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "FootArchSeal",
@@ -1768,7 +1918,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "FootDragSeal",
@@ -1779,7 +1930,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "HeelDragSeal",
@@ -1790,7 +1942,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "HeelKickSeal",
@@ -1801,7 +1954,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "FootSeal",
@@ -1821,7 +1975,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "ToeDragSeal",
@@ -1832,7 +1987,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "ToeKickSeal",
@@ -1843,10 +1999,11 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
-        "ElementName": "Frase",
+        "ElementName": "BaseMoveFrase",
         "Namespace": "Move/MoveTeori/MoveElements/BaseMove/Frase",
         "SuperElementName": "BaseMove",
         "SubElementName": [
@@ -1876,7 +2033,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "Hop",
@@ -1887,7 +2045,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "Kneel",
@@ -1898,7 +2057,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "BaseMove",
@@ -1934,7 +2094,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "PlantarFlexion",
@@ -1945,7 +2106,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "RunStart",
@@ -1956,7 +2118,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "Step",
@@ -1967,7 +2130,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "Stomp",
@@ -1978,7 +2142,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "BrazoAma",
@@ -1989,7 +2154,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "BrazoAmble",
@@ -2000,7 +2166,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "BrazoCompress",
@@ -2011,7 +2178,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "BrazoError",
@@ -2022,7 +2190,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "BrazoHook",
@@ -2033,7 +2202,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "BrazoOnda",
@@ -2044,7 +2214,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "BrazoRockOver",
@@ -2055,7 +2226,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "Frase",
@@ -2088,7 +2260,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "BrazoMove",
@@ -2108,7 +2281,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "CacheError",
@@ -2119,7 +2293,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "Eating",
@@ -2130,7 +2305,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "Frase",
@@ -2163,7 +2339,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "TarpOff",
@@ -2174,7 +2351,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "TarpOn",
@@ -2185,7 +2363,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "CacheMove",
@@ -2200,7 +2379,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "BaseLayerMove",
@@ -2211,7 +2391,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "BuckleMove",
@@ -2222,7 +2403,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "ButtonMove",
@@ -2233,7 +2415,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "FastenerMove",
@@ -2250,7 +2433,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "SnapMove",
@@ -2261,7 +2445,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "ZelcroMove",
@@ -2272,7 +2457,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "ZipperMove",
@@ -2283,7 +2469,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "Frase",
@@ -2316,7 +2503,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "InsulationLayerMove",
@@ -2327,7 +2515,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "Layering",
@@ -2338,7 +2527,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "ClothingMove",
@@ -2357,7 +2547,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "HatMove",
@@ -2368,7 +2559,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "ShellLayerMove",
@@ -2385,7 +2577,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "PocketMove",
@@ -2396,7 +2589,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "RainShell",
@@ -2407,7 +2601,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "RemoveMud",
@@ -2418,7 +2613,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "WindShell",
@@ -2429,7 +2625,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "TextilePreservation",
@@ -2440,7 +2637,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "CorpoAbsorb",
@@ -2451,7 +2649,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "CorpoBend",
@@ -2462,7 +2661,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "CorpoError",
@@ -2473,7 +2673,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "CorpoLean",
@@ -2484,7 +2685,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "CorpoOrbit",
@@ -2495,7 +2697,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "CorpoPosture",
@@ -2506,7 +2709,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "CorpoPropel",
@@ -2517,7 +2721,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "CorpoRotate",
@@ -2528,7 +2733,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "CorpoSlot",
@@ -2539,7 +2745,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "CorpoTangent",
@@ -2550,7 +2757,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "CorpoTwist",
@@ -2561,7 +2769,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "CorpoUnder",
@@ -2572,7 +2781,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "Crawl",
@@ -2583,7 +2793,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "Fall",
@@ -2594,7 +2805,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "Frase",
@@ -2627,7 +2839,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "HipHinge",
@@ -2638,7 +2851,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "InclineWalk",
@@ -2649,7 +2863,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "Jump",
@@ -2660,7 +2875,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "LogWalk",
@@ -2671,7 +2887,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "CorpoMove",
@@ -2710,7 +2927,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "SpineExtension",
@@ -2721,7 +2939,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "SpineFlexion",
@@ -2732,7 +2951,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "Stand",
@@ -2743,7 +2963,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "StandUp",
@@ -2754,7 +2975,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "StepInto",
@@ -2765,7 +2987,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "StepOver",
@@ -2776,7 +2999,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "TrenchWalk",
@@ -2787,7 +3011,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "Walk",
@@ -2798,7 +3023,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "DendroEval",
@@ -2809,7 +3035,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "DendroInsert",
@@ -2820,7 +3047,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "DendroLoad",
@@ -2831,7 +3059,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "DendroMano",
@@ -2842,7 +3071,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "DendroMove",
@@ -2858,7 +3088,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "BranchSnap",
@@ -2869,7 +3100,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "BranchMove",
@@ -2882,7 +3114,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "FloraBlock",
@@ -2893,7 +3126,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "FloraCatch",
@@ -2904,7 +3138,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "FloraError",
@@ -2915,7 +3150,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "FloraFold",
@@ -2926,7 +3162,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "FloraMachete",
@@ -2937,7 +3174,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "FloraMano",
@@ -2948,7 +3186,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "FloraParry",
@@ -2959,7 +3198,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "FloraPassage",
@@ -2970,7 +3210,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "FloraSnap",
@@ -2981,7 +3222,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "Frase",
@@ -3014,7 +3256,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "LogLaunch",
@@ -3025,7 +3268,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "FloraMove",
@@ -3051,7 +3295,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "TrunkMove",
@@ -3062,7 +3307,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "TrunkMove",
@@ -3073,7 +3319,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "FocusLook",
@@ -3084,7 +3331,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "Frase",
@@ -3117,7 +3365,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "HeadError",
@@ -3128,7 +3377,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "HeadProtraction",
@@ -3139,7 +3389,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "HeadRetraction",
@@ -3150,7 +3401,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "HeadTilt",
@@ -3161,7 +3413,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "ListenTo",
@@ -3172,7 +3425,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "LookAway",
@@ -3183,7 +3437,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "NeckExtension",
@@ -3194,7 +3449,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "NeckFlexion",
@@ -3205,7 +3461,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "HeadMove",
@@ -3228,7 +3485,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "Speak",
@@ -3239,7 +3497,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "BootError",
@@ -3250,7 +3509,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "BootMano",
@@ -3261,7 +3521,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "BootPreservation",
@@ -3272,7 +3533,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "BootSkreef",
@@ -3283,7 +3545,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "BootOff",
@@ -3294,7 +3557,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "BootOn",
@@ -3305,7 +3569,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "LaceLoosen",
@@ -3316,7 +3581,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "LaceTighten",
@@ -3327,7 +3593,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "Frase",
@@ -3360,7 +3627,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "LaceMove",
@@ -3371,7 +3639,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "BootMove",
@@ -3389,7 +3658,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "BottleMove",
@@ -3400,7 +3670,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "BoxConstruct",
@@ -3411,7 +3682,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "BoxError",
@@ -3422,7 +3694,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "BoxLift",
@@ -3433,7 +3706,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "BoxLock",
@@ -3444,7 +3718,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "BoxMano",
@@ -3455,7 +3730,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "BoxSlide",
@@ -3466,7 +3742,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "BoxTransport",
@@ -3477,7 +3754,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "BoxStack",
@@ -3488,7 +3766,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "Frase",
@@ -3521,7 +3800,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "BoxMove",
@@ -3541,7 +3821,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "BundleError",
@@ -3552,7 +3833,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "BundleMano",
@@ -3563,7 +3845,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "BundlePeel",
@@ -3574,7 +3857,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "BundleUnwrap",
@@ -3585,7 +3869,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "BundleCount",
@@ -3596,7 +3881,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "BundleManoSwap",
@@ -3607,7 +3893,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "BundleStack",
@@ -3618,7 +3905,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "Frase",
@@ -3651,7 +3939,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "BundleMove",
@@ -3668,7 +3957,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "DoruAmble",
@@ -3679,7 +3969,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "DoruAnkor",
@@ -3690,7 +3981,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "DoruBump",
@@ -3701,7 +3993,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "DoruPont",
@@ -3712,7 +4005,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "DoryDrag",
@@ -3723,7 +4017,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "DoryError",
@@ -3734,7 +4029,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "DoryMano",
@@ -3745,7 +4041,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "DoryPogo",
@@ -3756,7 +4053,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "DoryPoke",
@@ -3767,7 +4065,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "DoryPost",
@@ -3778,7 +4077,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "DoryProp",
@@ -3789,7 +4089,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "DoryPropel",
@@ -3800,7 +4101,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "DoryRotate",
@@ -3811,7 +4113,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "DorySkreef",
@@ -3822,7 +4125,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "DorySlap",
@@ -3833,7 +4137,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "DorySlide",
@@ -3844,7 +4149,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "DoryStall",
@@ -3855,7 +4161,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "DoryStomp",
@@ -3866,7 +4173,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "DorySwap",
@@ -3877,7 +4185,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "DorySwing",
@@ -3888,7 +4197,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "DoryTransfer",
@@ -3899,7 +4209,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "DoruMove",
@@ -3932,7 +4243,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "GloveOff",
@@ -3943,7 +4255,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "GloveOn",
@@ -3954,7 +4267,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "Frase",
@@ -3987,7 +4301,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "GloveError",
@@ -3998,7 +4313,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "GloveMano",
@@ -4009,7 +4325,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "GlovePreservation",
@@ -4020,7 +4337,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "GloveMove",
@@ -4036,7 +4354,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "KarabinerError",
@@ -4047,7 +4366,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "KarabinerMove",
@@ -4060,7 +4380,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "KitOffFrase",
@@ -4071,7 +4392,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "KitOnFrase",
@@ -4082,7 +4404,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "Frase",
@@ -4115,7 +4438,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "KitError",
@@ -4126,7 +4450,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "KitPreservation",
@@ -4137,7 +4462,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "KitMove",
@@ -4152,7 +4478,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "MarkaGet",
@@ -4163,7 +4490,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "MarkaPut",
@@ -4174,7 +4502,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "Frase",
@@ -4207,7 +4536,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "MarkaError",
@@ -4218,7 +4548,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "MarkaforMove",
@@ -4229,7 +4560,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "MarkaKnot",
@@ -4240,7 +4572,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "MarkaLoad",
@@ -4251,7 +4584,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "MarkaMano",
@@ -4262,7 +4596,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "MarkaRip",
@@ -4273,7 +4608,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "MarkaRoll",
@@ -4284,7 +4620,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "MarkaMove",
@@ -4304,7 +4641,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "InstrumentMove",
@@ -4331,7 +4669,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "BackBagMove",
@@ -4342,7 +4681,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "BagEmpty",
@@ -4353,7 +4693,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "BagIn",
@@ -4364,7 +4705,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "BagLift",
@@ -4375,7 +4717,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "BagShield",
@@ -4386,7 +4729,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "Frase",
@@ -4419,7 +4763,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "PlantaforMove",
@@ -4440,7 +4785,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "PlantaforAdjust",
@@ -4451,7 +4797,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "PlantaforError",
@@ -4462,7 +4809,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "PlantaforLift",
@@ -4473,7 +4821,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "PlantaforOff",
@@ -4484,7 +4833,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "PlantaforOn",
@@ -4495,7 +4845,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "PlantaforPreservation",
@@ -4506,7 +4857,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "PlantaforSlide",
@@ -4517,7 +4869,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "PlantaforTransport",
@@ -4528,7 +4881,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "RadiorMove",
@@ -4541,7 +4895,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "RadiorPreservation",
@@ -4552,7 +4907,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "SewingFrase",
@@ -4563,7 +4919,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "RepairMove",
@@ -4576,7 +4933,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "RepairError",
@@ -4587,7 +4945,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "RopeMove",
@@ -4600,7 +4959,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "RopeError",
@@ -4611,7 +4971,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "CollarMano",
@@ -4622,7 +4983,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "SpadeTest",
@@ -4633,7 +4995,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "SpadeMove",
@@ -4676,7 +5039,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "SpadeAma",
@@ -4687,7 +5051,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "SpadeAmble",
@@ -4698,7 +5063,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "SpadeAnkor",
@@ -4709,7 +5075,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "SpadeBallista",
@@ -4720,7 +5087,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "SpadeBlock",
@@ -4731,7 +5099,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "SpadeDendrektomi",
@@ -4742,7 +5111,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "SpadeDilate",
@@ -4753,7 +5123,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "SpadeDrag",
@@ -4764,7 +5135,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "SpadeError",
@@ -4775,7 +5147,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "SpadeHook",
@@ -4786,7 +5159,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "SpadeMano",
@@ -4797,7 +5171,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "SpadeMuscleUp",
@@ -4808,7 +5183,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "SpadeOnda",
@@ -4819,7 +5195,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "SpadePlastBimano",
@@ -4830,7 +5207,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "SpadePlastMano",
@@ -4841,7 +5219,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "SpadePogo",
@@ -4852,7 +5231,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "SpadePoke",
@@ -4863,7 +5243,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "SpadePost",
@@ -4874,7 +5255,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "SpadePreservation",
@@ -4885,7 +5267,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "SpadePropel",
@@ -4896,7 +5279,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "SpadePurga",
@@ -4907,7 +5291,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "SpadeRotate",
@@ -4918,7 +5303,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "SpadeSeal",
@@ -4929,7 +5315,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "SpadeSkreef",
@@ -4940,7 +5327,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "SpadeSlap",
@@ -4951,7 +5339,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "SpadeStall",
@@ -4962,7 +5351,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "SpadeStomp",
@@ -4973,7 +5363,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "SpadeTomi",
@@ -4984,7 +5375,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "SpadeTransfer",
@@ -4995,7 +5387,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "SpadeTransport",
@@ -5006,7 +5399,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "Frase",
@@ -5039,7 +5433,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "TibiorOffFrase",
@@ -5050,7 +5445,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "TibiorOnFrase",
@@ -5061,7 +5457,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "TibiorMove",
@@ -5077,7 +5474,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "TibiorError",
@@ -5088,7 +5486,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "TibiorMano",
@@ -5099,7 +5498,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "TibiorPreservation",
@@ -5110,7 +5510,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "BagMano",
@@ -5121,7 +5522,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "BoxMano",
@@ -5132,7 +5534,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "Frase",
@@ -5165,7 +5568,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "ManoCompress",
@@ -5176,7 +5580,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "ManoDig",
@@ -5187,7 +5592,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "ManoOrbit",
@@ -5198,7 +5604,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "ManoPoke",
@@ -5209,7 +5616,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "HammerSeal",
@@ -5220,7 +5628,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "ManoDragSeal",
@@ -5231,7 +5640,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "ManoSeal",
@@ -5248,7 +5658,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "PalmSeal",
@@ -5259,7 +5670,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "PunchSeal",
@@ -5270,7 +5682,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "SlapSeal",
@@ -5281,7 +5694,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "ManoSkreef",
@@ -5292,7 +5706,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "ManoSlide",
@@ -5303,7 +5718,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "ManoMove",
@@ -5325,7 +5741,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "MoveElements",
@@ -5349,7 +5766,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "Frase",
@@ -5382,7 +5800,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "SiteMove",
@@ -5404,7 +5823,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "SiteDilate",
@@ -5415,7 +5835,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "SiteEnter",
@@ -5426,7 +5847,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "SiteError",
@@ -5437,7 +5859,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "SiteEval",
@@ -5448,7 +5871,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "SiteExtract",
@@ -5459,7 +5883,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "SiteMark",
@@ -5470,7 +5895,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "SiteSeal",
@@ -5481,7 +5907,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "SiteSelect",
@@ -5492,7 +5919,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "SiteSkreef",
@@ -5503,7 +5931,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "TruckSequence",
@@ -5514,7 +5943,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "TruckMove",
@@ -5529,7 +5959,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "TruckError",
@@ -5540,7 +5971,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "TruckSit",
@@ -5551,7 +5983,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "TruckSleep",
@@ -5562,7 +5995,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "MoveCoverage",
@@ -5573,7 +6007,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "MoveDensity",
@@ -5584,7 +6019,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "BaseExtreme",
@@ -5595,7 +6031,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "BrazoExtreme",
@@ -5606,7 +6043,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "MoveExtreme",
@@ -5620,7 +6058,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "MoveLine",
@@ -5631,7 +6070,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "MoveSpace",
@@ -5642,7 +6082,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "MoveSimbols",
@@ -5653,7 +6094,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "MoveTeori",
@@ -5669,7 +6111,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "PsikeOverview",
@@ -5680,7 +6123,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "Arousal",
@@ -5691,7 +6135,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "Attention",
@@ -5702,7 +6147,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "BranchBreakSound",
@@ -5713,7 +6159,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "LogBreakSound",
@@ -5724,7 +6171,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "Music",
@@ -5737,7 +6185,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "Playlists",
@@ -5748,7 +6197,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "Audio",
@@ -5766,7 +6216,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "SlashSound",
@@ -5777,7 +6228,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "SoilSound",
@@ -5788,7 +6240,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "SpadeSound",
@@ -5799,7 +6252,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "Avoidance",
@@ -5810,7 +6264,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "Awareness",
@@ -5821,7 +6276,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "Compassion",
@@ -5832,7 +6288,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "Competition",
@@ -5843,7 +6300,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "CompressionSense",
@@ -5854,7 +6312,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "Confidence",
@@ -5865,7 +6324,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "ControlFlow",
@@ -5876,7 +6336,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "BundleCounting",
@@ -5887,7 +6348,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "Counting",
@@ -5901,7 +6363,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "StepCount",
@@ -5912,7 +6375,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "BagUpSizeDecision",
@@ -5923,7 +6387,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "GoOrNoGo",
@@ -5934,7 +6399,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "MicrositeSelection",
@@ -5945,7 +6411,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "Decision",
@@ -5960,7 +6427,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "Anger",
@@ -5971,7 +6439,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "Disgust",
@@ -5982,7 +6451,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "Fear",
@@ -5993,7 +6463,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "Joy",
@@ -6004,7 +6475,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "Emotion",
@@ -6021,7 +6493,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "Sadness",
@@ -6032,7 +6505,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "Fatigue",
@@ -6043,7 +6517,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "Energy",
@@ -6056,7 +6531,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "BagFillEstimation",
@@ -6067,7 +6543,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "Estimation",
@@ -6082,7 +6559,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "SpaceEstimation",
@@ -6093,7 +6571,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "TimeEstimation",
@@ -6104,7 +6583,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "Event",
@@ -6115,7 +6595,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "Homeostasis",
@@ -6126,7 +6607,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "Judgement",
@@ -6137,7 +6619,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "Learning",
@@ -6148,7 +6631,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "LongTermMemory",
@@ -6159,7 +6643,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "NumberMemory",
@@ -6170,7 +6655,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "Memory",
@@ -6187,7 +6673,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "ShortTermMemory",
@@ -6198,7 +6685,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "ViaMemory",
@@ -6209,7 +6697,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "WorkingMemory",
@@ -6220,7 +6709,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "Mindfulness",
@@ -6231,7 +6721,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "Mindset",
@@ -6242,7 +6733,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "Muscle",
@@ -6253,7 +6745,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "FlowState",
@@ -6264,7 +6757,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "NeuroState",
@@ -6277,7 +6771,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "Proprioception",
@@ -6288,7 +6783,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "Resilience",
@@ -6299,7 +6795,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "SpatialCognition",
@@ -6310,7 +6807,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "BagOutTime",
@@ -6321,7 +6819,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "CacheTime",
@@ -6332,7 +6831,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "DailySchedule",
@@ -6343,7 +6843,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "MoveTiming",
@@ -6354,7 +6855,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "Time",
@@ -6376,7 +6878,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "Planning",
@@ -6387,7 +6890,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "Timer",
@@ -6398,7 +6902,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "RefOverview",
@@ -6409,7 +6914,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "InputElement.py",
@@ -6420,7 +6926,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "Skema",
@@ -6434,7 +6941,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "Skema_AllElements.json",
@@ -6445,7 +6953,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "FastLand",
@@ -6456,7 +6965,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "LandSpeed",
@@ -6470,7 +6980,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "SlowLand",
@@ -6481,7 +6992,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "ViaMetron",
@@ -6497,7 +7009,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "ViaKratos",
@@ -6508,7 +7021,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "ViaKuboi",
@@ -6519,7 +7033,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "ViaTeknik",
@@ -6530,7 +7045,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "ViaOverview",
@@ -6541,7 +7057,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "FillPlanSelection",
@@ -6552,7 +7069,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "ViaError",
@@ -6563,7 +7081,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "ViaElements",
@@ -6577,7 +7096,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "ViaAxiom",
@@ -6588,7 +7108,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "Density",
@@ -6599,7 +7120,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "CardinalDirection",
@@ -6610,7 +7132,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "Direction",
@@ -6624,7 +7147,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "AnteriorDirection",
@@ -6635,7 +7159,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "DiaDirection",
@@ -6646,7 +7171,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "EktoDirection",
@@ -6657,7 +7183,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "InDirection",
@@ -6668,7 +7195,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "OnDirection",
@@ -6679,7 +7207,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "OverDirection",
@@ -6690,7 +7219,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "RelativeDirection",
@@ -6714,7 +7244,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "ParaDirection",
@@ -6725,7 +7256,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "PeriDirection",
@@ -6736,7 +7268,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "PosteriorDirection",
@@ -6747,7 +7280,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "ProgressDirection",
@@ -6758,7 +7292,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "ProximalDirection",
@@ -6769,7 +7304,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "RegressDirection",
@@ -6780,7 +7316,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "Fill",
@@ -6795,7 +7332,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "Kontakt",
@@ -6806,7 +7344,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "Limit",
@@ -6817,7 +7356,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "Line",
@@ -6828,7 +7368,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "Marka",
@@ -6839,7 +7380,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "CenterPoint",
@@ -6850,7 +7392,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "InflectionPoint",
@@ -6861,7 +7404,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "MidPoint",
@@ -6872,7 +7416,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "Point",
@@ -6892,7 +7437,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "ReferencePoint",
@@ -6903,7 +7449,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "ReflectionPoint",
@@ -6914,7 +7461,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "TargetPoint",
@@ -6925,7 +7473,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "VertexPoint",
@@ -6936,7 +7485,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "Viewpoint",
@@ -6947,7 +7497,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "Space",
@@ -6958,7 +7509,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "AnteTime",
@@ -6969,7 +7521,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "DuringTime",
@@ -6980,7 +7533,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "Time",
@@ -7002,7 +7556,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "PostTime",
@@ -7013,7 +7568,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "Speed",
@@ -7024,7 +7580,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "Vium",
@@ -7035,7 +7592,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "ViaPropositions",
@@ -7049,7 +7607,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "Alignment",
@@ -7060,7 +7619,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "ObstacleFill",
@@ -7071,7 +7631,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "Fill",
@@ -7086,7 +7647,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "BouncingFill",
@@ -7097,7 +7659,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "CrossingFill",
@@ -7108,7 +7671,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "TeamFill",
@@ -7122,7 +7686,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "ApogeeFill",
@@ -7133,7 +7698,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "DivFill",
@@ -7144,7 +7710,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "OpenEndedFill",
@@ -7155,7 +7722,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "ZoneFill",
@@ -7173,7 +7741,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "ParaBorderFill",
@@ -7184,7 +7753,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "PerimeterFill",
@@ -7195,7 +7765,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "StraigtenFill",
@@ -7206,7 +7777,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "DecreaseDensity",
@@ -7217,7 +7789,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "IncreaseDensity",
@@ -7228,7 +7801,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "ViaProblem",
@@ -7243,7 +7817,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "BisectLine",
@@ -7254,7 +7829,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "BLine",
@@ -7265,7 +7841,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "NeoSitePolygon",
@@ -7281,7 +7858,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "SiteDiamond",
@@ -7292,7 +7870,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "SiteSquare",
@@ -7303,7 +7882,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "SiteTrapezoid",
@@ -7314,7 +7894,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "SiteTriangle",
@@ -7325,7 +7906,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "AdaptiveProximity",
@@ -7336,7 +7918,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "RigidProximity",
@@ -7347,7 +7930,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "SlopedProximity",
@@ -7358,7 +7942,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "SelectNeosite",
@@ -7371,7 +7956,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "Plot",
@@ -7382,7 +7968,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "KontaktDensity",
@@ -7393,7 +7980,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "BoustroLine",
@@ -7404,7 +7992,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "CircumventLine",
@@ -7415,7 +8004,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "GhostLine",
@@ -7426,7 +8016,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "HypotenuseLine",
@@ -7437,7 +8028,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "OrbitLine",
@@ -7448,7 +8040,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "LineTeorem",
@@ -7472,7 +8065,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "RacingLine",
@@ -7483,7 +8077,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "RotationLine",
@@ -7494,7 +8089,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "SpiralLine",
@@ -7505,7 +8101,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "StraightLine",
@@ -7516,7 +8113,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "WalkInLine",
@@ -7527,7 +8125,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "WalkoutLine",
@@ -7538,7 +8137,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "ZigzagLine",
@@ -7549,7 +8149,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "BorderMarka",
@@ -7560,7 +8161,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "HighMarka",
@@ -7571,7 +8173,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "LineInMarka",
@@ -7582,7 +8185,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "NaturalMarka",
@@ -7593,7 +8197,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "SiteMarka",
@@ -7604,7 +8209,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "TrenchExitMarka",
@@ -7615,7 +8221,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "WastedMarka",
@@ -7626,7 +8233,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "ZoneMarka",
@@ -7637,7 +8245,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "ViaTeorem",
@@ -7651,7 +8260,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "FillBlock",
@@ -7662,7 +8272,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "Block",
@@ -7675,7 +8286,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "Border",
@@ -7686,7 +8298,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "Div",
@@ -7697,7 +8310,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "Obstacle",
@@ -7708,7 +8322,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "ZoneTeorem",
@@ -7727,7 +8342,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "Piece",
@@ -7738,7 +8354,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "Site",
@@ -7752,7 +8369,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "4Density",
@@ -7763,7 +8381,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "5Density",
@@ -7774,7 +8393,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "6Density",
@@ -7785,7 +8405,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "7Density",
@@ -7796,7 +8417,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "8Density",
@@ -7807,7 +8429,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "9Density",
@@ -7818,7 +8441,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "SiteDensity",
@@ -7836,7 +8460,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "MaximumProximity",
@@ -7847,7 +8472,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "MinimumProximity",
@@ -7858,7 +8484,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "OptimalProximity",
@@ -7869,7 +8496,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "SiteProximity",
@@ -7884,7 +8512,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "CompletionLimit",
@@ -7895,7 +8524,8 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     },
     {
         "ElementName": "ZoneGeometry",
@@ -7906,15 +8536,26 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": []
+        "PsikeElementName": [],
+        "Description": ""
     }
 ]
 
-def AddDescription():
+# def AddDescription():
+#     for item in Skema_List:
+#         item.update({"Description": ""})
+
+#     with open("sample.json", "w") as outfile: 
+#         json.dump(Skema_List, outfile)
+
+# AddDescription()
+
+def AddAlias():
+
     for item in Skema_List:
-        item.update({"Description": ""})
+        item.update({"Alias": ""})
 
     with open("sample.json", "w") as outfile: 
         json.dump(Skema_List, outfile)
 
-AddDescription()
+AddAlias()
