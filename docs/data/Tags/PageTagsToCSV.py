@@ -797,8 +797,8 @@ json = {
     "Move/BodyMove/BodyLean.md": [
         "Move.BodyMove.BodyLean"
     ],
-    "Move/BodyMove/CorpoOrbit.md": [
-        "Move.BodyMove.CorpoOrbit"
+    "Move/BodyMove/KorpoOrbit.md": [
+        "Move.BodyMove.KorpoOrbit"
     ],
     "Move/BodyMove/BodyRotate.md": [
         "Move.BodyMove.BodyRotate"

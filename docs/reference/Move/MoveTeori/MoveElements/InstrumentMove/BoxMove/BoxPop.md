@@ -1,8 +1,6 @@
-# 🟠 <move>CorpoOrbit</move>
+# 🟠<move>BoxPop</move>
 
-![MoveIkon](/Move/Move_Ikon.png)
-
-## 🕸 CorpoOrbit.Skema
+## 🕸 BoxPop.Skema
 
 ### Related 🟩<eko>Eko</eko>
 
@@ -10,7 +8,7 @@
 
 ### Related 🔻<via>Via</via>
 
-- OrbitLine
+-
 
 ### Related 🟠<move>Move</move>
 
@@ -29,9 +27,6 @@
 <!-- =================================================== -->
 ::: details 🛠 <dev>&&&</dev>
 
-- Revolution
-- HandSlide
-- CorpoOrbit rarely completes a full revolution
-- AroundCornerMove
+-
 
 :::

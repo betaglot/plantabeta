@@ -70,7 +70,7 @@ PageTags = {
 "Move/BodyMove/BodyAbsorb.md": [],
 "Move/BodyMove/BodyBend.md": [],
 "Move/BodyMove/BodyLean.md": [],
-"Move/BodyMove/CorpoOrbit.md": [],
+"Move/BodyMove/KorpoOrbit.md": [],
 "Move/BodyMove/BodyRotate.md": [],
 "Move/BodyMove/BodyFrase.md": [],
 "Move/BodyMove/BodySlot.md": [],

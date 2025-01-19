@@ -1,6 +1,8 @@
-# 🟠<move>TrunkMove</move>
+# 🟠 <move>KorpoOrbit</move>
 
-## 🕸 TrunkMove.Skema
+![MoveIkon](/Move/Move_Ikon.png)
+
+## 🕸 KorpoOrbit.Skema
 
 ### Related 🟩<eko>Eko</eko>
 
@@ -8,7 +10,7 @@
 
 ### Related 🔻<via>Via</via>
 
--
+- OrbitLine
 
 ### Related 🟠<move>Move</move>
 
@@ -27,16 +29,9 @@
 <!-- =================================================== -->
 ::: details 🛠 <dev>&&&</dev>
 
-- SpadeHook
-    - TrunkDiameter < 3cm
-
-- KorpoOrbit
-    - ForearmSlide, ShoulderSlide when BodyLean into Trunk
-        - When your Hands are Loaded
-        - Like when you Orbit out of a Metro door (carriage or station door)
-        - RadiorDev.UX
-    - BodyTangent
-    - HandSlide on Trunk
-    - Be sure that you're not going to snag a spike from a broken branch
+- Revolution
+- HandSlide
+- KorpoOrbit rarely completes a full revolution
+- AroundCornerMove
 
 :::

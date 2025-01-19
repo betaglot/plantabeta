@@ -588,7 +588,7 @@ Move/ArmMove/TreeLoad.md, Move.ArmMove.TreeLoad
 Move/BodyMove/BodyAbsorb.md, Move.BodyMove.BodyAbsorb
 Move/BodyMove/BodyBend.md, Move.BodyMove.BodyBend
 Move/BodyMove/BodyLean.md, Move.BodyMove.BodyLean
-Move/BodyMove/CorpoOrbit.md, Move.BodyMove.CorpoOrbit
+Move/BodyMove/KorpoOrbit.md, Move.BodyMove.KorpoOrbit
 Move/BodyMove/BodyRotate.md, Move.BodyMove.BodyRotate
 Move/BodyMove/BodySlot.md, Move.BodyMove.BodySlot
 Move/BodyMove/Fall.md, Move.BodyMove.Fall

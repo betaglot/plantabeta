@@ -35,7 +35,7 @@ An object is only an obstacle if it hinders your Via.
         - Some Obstacles can be planted, like roots, or grass
     - Obstacle to DendroMano
         - Root
-    - Obstacle to Corpo
+    - Obstacle to Korpo
 
 - ObstacleScope
     - BlockObstacle

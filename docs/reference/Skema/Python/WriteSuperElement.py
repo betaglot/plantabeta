@@ -2191,8 +2191,8 @@ Skema_List = [
         "PsikeElement": [],
     },
     {
-        "ElementName": "CorpoAbsorb",
-        "Namespace": "Move/MoveTeori/MoveElements/CorpoMove/CorpoAbsorb",
+        "ElementName": "KorpoAbsorb",
+        "Namespace": "Move/MoveTeori/MoveElements/KorpoMove/KorpoAbsorb",
         "SuperElement": [],
         "SubElement": [],
         "ConcurrentElement": [],
@@ -2202,8 +2202,8 @@ Skema_List = [
         "PsikeElement": [],
     },
     {
-        "ElementName": "CorpoBend",
-        "Namespace": "Move/MoveTeori/MoveElements/CorpoMove/CorpoBend",
+        "ElementName": "KorpoBend",
+        "Namespace": "Move/MoveTeori/MoveElements/KorpoMove/KorpoBend",
         "SuperElement": [],
         "SubElement": [],
         "ConcurrentElement": [],
@@ -2213,8 +2213,8 @@ Skema_List = [
         "PsikeElement": [],
     },
     {
-        "ElementName": "CorpoError",
-        "Namespace": "Move/MoveTeori/MoveElements/CorpoMove/CorpoError",
+        "ElementName": "KorpoError",
+        "Namespace": "Move/MoveTeori/MoveElements/KorpoMove/KorpoError",
         "SuperElement": [],
         "SubElement": [],
         "ConcurrentElement": [],
@@ -2224,8 +2224,8 @@ Skema_List = [
         "PsikeElement": [],
     },
     {
-        "ElementName": "CorpoLean",
-        "Namespace": "Move/MoveTeori/MoveElements/CorpoMove/CorpoLean",
+        "ElementName": "KorpoLean",
+        "Namespace": "Move/MoveTeori/MoveElements/KorpoMove/KorpoLean",
         "SuperElement": [],
         "SubElement": [],
         "ConcurrentElement": [],
@@ -2235,8 +2235,8 @@ Skema_List = [
         "PsikeElement": [],
     },
     {
-        "ElementName": "CorpoOrbit",
-        "Namespace": "Move/MoveTeori/MoveElements/CorpoMove/CorpoOrbit",
+        "ElementName": "KorpoOrbit",
+        "Namespace": "Move/MoveTeori/MoveElements/KorpoMove/KorpoOrbit",
         "SuperElement": [],
         "SubElement": [],
         "ConcurrentElement": [],
@@ -2246,8 +2246,8 @@ Skema_List = [
         "PsikeElement": [],
     },
     {
-        "ElementName": "CorpoPosture",
-        "Namespace": "Move/MoveTeori/MoveElements/CorpoMove/CorpoPosture",
+        "ElementName": "KorpoPosture",
+        "Namespace": "Move/MoveTeori/MoveElements/KorpoMove/KorpoPosture",
         "SuperElement": [],
         "SubElement": [],
         "ConcurrentElement": [],
@@ -2257,8 +2257,8 @@ Skema_List = [
         "PsikeElement": [],
     },
     {
-        "ElementName": "CorpoPropel",
-        "Namespace": "Move/MoveTeori/MoveElements/CorpoMove/CorpoPropel",
+        "ElementName": "KorpoPropel",
+        "Namespace": "Move/MoveTeori/MoveElements/KorpoMove/KorpoPropel",
         "SuperElement": [],
         "SubElement": [],
         "ConcurrentElement": [],
@@ -2268,8 +2268,8 @@ Skema_List = [
         "PsikeElement": [],
     },
     {
-        "ElementName": "CorpoRotate",
-        "Namespace": "Move/MoveTeori/MoveElements/CorpoMove/CorpoRotate",
+        "ElementName": "KorpoRotate",
+        "Namespace": "Move/MoveTeori/MoveElements/KorpoMove/KorpoRotate",
         "SuperElement": [],
         "SubElement": [],
         "ConcurrentElement": [],
@@ -2279,8 +2279,8 @@ Skema_List = [
         "PsikeElement": [],
     },
     {
-        "ElementName": "CorpoSlot",
-        "Namespace": "Move/MoveTeori/MoveElements/CorpoMove/CorpoSlot",
+        "ElementName": "KorpoSlot",
+        "Namespace": "Move/MoveTeori/MoveElements/KorpoMove/KorpoSlot",
         "SuperElement": [],
         "SubElement": [],
         "ConcurrentElement": [],
@@ -2290,8 +2290,8 @@ Skema_List = [
         "PsikeElement": [],
     },
     {
-        "ElementName": "CorpoTangent",
-        "Namespace": "Move/MoveTeori/MoveElements/CorpoMove/CorpoTangent",
+        "ElementName": "KorpoTangent",
+        "Namespace": "Move/MoveTeori/MoveElements/KorpoMove/KorpoTangent",
         "SuperElement": [],
         "SubElement": [],
         "ConcurrentElement": [],
@@ -2301,8 +2301,8 @@ Skema_List = [
         "PsikeElement": [],
     },
     {
-        "ElementName": "CorpoTwist",
-        "Namespace": "Move/MoveTeori/MoveElements/CorpoMove/CorpoTwist",
+        "ElementName": "KorpoTwist",
+        "Namespace": "Move/MoveTeori/MoveElements/KorpoMove/KorpoTwist",
         "SuperElement": [],
         "SubElement": [],
         "ConcurrentElement": [],
@@ -2312,8 +2312,8 @@ Skema_List = [
         "PsikeElement": [],
     },
     {
-        "ElementName": "CorpoUnder",
-        "Namespace": "Move/MoveTeori/MoveElements/CorpoMove/CorpoUnder",
+        "ElementName": "KorpoUnder",
+        "Namespace": "Move/MoveTeori/MoveElements/KorpoMove/KorpoUnder",
         "SuperElement": [],
         "SubElement": [],
         "ConcurrentElement": [],
@@ -2324,7 +2324,7 @@ Skema_List = [
     },
     {
         "ElementName": "Crawl",
-        "Namespace": "Move/MoveTeori/MoveElements/CorpoMove/Crawl",
+        "Namespace": "Move/MoveTeori/MoveElements/KorpoMove/Crawl",
         "SuperElement": [],
         "SubElement": [],
         "ConcurrentElement": [],
@@ -2335,7 +2335,7 @@ Skema_List = [
     },
     {
         "ElementName": "Fall",
-        "Namespace": "Move/MoveTeori/MoveElements/CorpoMove/Fall",
+        "Namespace": "Move/MoveTeori/MoveElements/KorpoMove/Fall",
         "SuperElement": [],
         "SubElement": [],
         "ConcurrentElement": [],
@@ -2346,7 +2346,7 @@ Skema_List = [
     },
     {
         "ElementName": "Frase",
-        "Namespace": "Move/MoveTeori/MoveElements/CorpoMove/Frase",
+        "Namespace": "Move/MoveTeori/MoveElements/KorpoMove/Frase",
         "SuperElement": [],
         "SubElement": [],
         "ConcurrentElement": [],
@@ -2357,7 +2357,7 @@ Skema_List = [
     },
     {
         "ElementName": "HipHinge",
-        "Namespace": "Move/MoveTeori/MoveElements/CorpoMove/HipHinge",
+        "Namespace": "Move/MoveTeori/MoveElements/KorpoMove/HipHinge",
         "SuperElement": [],
         "SubElement": [],
         "ConcurrentElement": [],
@@ -2368,7 +2368,7 @@ Skema_List = [
     },
     {
         "ElementName": "InclineWalk",
-        "Namespace": "Move/MoveTeori/MoveElements/CorpoMove/InclineWalk",
+        "Namespace": "Move/MoveTeori/MoveElements/KorpoMove/InclineWalk",
         "SuperElement": [],
         "SubElement": [],
         "ConcurrentElement": [],
@@ -2379,7 +2379,7 @@ Skema_List = [
     },
     {
         "ElementName": "Jump",
-        "Namespace": "Move/MoveTeori/MoveElements/CorpoMove/Jump",
+        "Namespace": "Move/MoveTeori/MoveElements/KorpoMove/Jump",
         "SuperElement": [],
         "SubElement": [],
         "ConcurrentElement": [],
@@ -2390,7 +2390,7 @@ Skema_List = [
     },
     {
         "ElementName": "LogWalk",
-        "Namespace": "Move/MoveTeori/MoveElements/CorpoMove/LogWalk",
+        "Namespace": "Move/MoveTeori/MoveElements/KorpoMove/LogWalk",
         "SuperElement": [],
         "SubElement": [],
         "ConcurrentElement": [],
@@ -2400,8 +2400,8 @@ Skema_List = [
         "PsikeElement": [],
     },
     {
-        "ElementName": "CorpoMove",
-        "Namespace": "Move/MoveTeori/MoveElements/CorpoMove",
+        "ElementName": "KorpoMove",
+        "Namespace": "Move/MoveTeori/MoveElements/KorpoMove",
         "SuperElement": [],
         "SubElement": [],
         "ConcurrentElement": [],
@@ -2412,7 +2412,7 @@ Skema_List = [
     },
     {
         "ElementName": "SpineExtension",
-        "Namespace": "Move/MoveTeori/MoveElements/CorpoMove/SpineExtension",
+        "Namespace": "Move/MoveTeori/MoveElements/KorpoMove/SpineExtension",
         "SuperElement": [],
         "SubElement": [],
         "ConcurrentElement": [],
@@ -2423,7 +2423,7 @@ Skema_List = [
     },
     {
         "ElementName": "SpineFlexion",
-        "Namespace": "Move/MoveTeori/MoveElements/CorpoMove/SpineFlexion",
+        "Namespace": "Move/MoveTeori/MoveElements/KorpoMove/SpineFlexion",
         "SuperElement": [],
         "SubElement": [],
         "ConcurrentElement": [],
@@ -2434,7 +2434,7 @@ Skema_List = [
     },
     {
         "ElementName": "Stand",
-        "Namespace": "Move/MoveTeori/MoveElements/CorpoMove/Stand",
+        "Namespace": "Move/MoveTeori/MoveElements/KorpoMove/Stand",
         "SuperElement": [],
         "SubElement": [],
         "ConcurrentElement": [],
@@ -2445,7 +2445,7 @@ Skema_List = [
     },
     {
         "ElementName": "StandUp",
-        "Namespace": "Move/MoveTeori/MoveElements/CorpoMove/StandUp",
+        "Namespace": "Move/MoveTeori/MoveElements/KorpoMove/StandUp",
         "SuperElement": [],
         "SubElement": [],
         "ConcurrentElement": [],
@@ -2456,7 +2456,7 @@ Skema_List = [
     },
     {
         "ElementName": "StepInto",
-        "Namespace": "Move/MoveTeori/MoveElements/CorpoMove/StepInto",
+        "Namespace": "Move/MoveTeori/MoveElements/KorpoMove/StepInto",
         "SuperElement": [],
         "SubElement": [],
         "ConcurrentElement": [],
@@ -2467,7 +2467,7 @@ Skema_List = [
     },
     {
         "ElementName": "StepOver",
-        "Namespace": "Move/MoveTeori/MoveElements/CorpoMove/StepOver",
+        "Namespace": "Move/MoveTeori/MoveElements/KorpoMove/StepOver",
         "SuperElement": [],
         "SubElement": [],
         "ConcurrentElement": [],
@@ -2478,7 +2478,7 @@ Skema_List = [
     },
     {
         "ElementName": "TrenchWalk",
-        "Namespace": "Move/MoveTeori/MoveElements/CorpoMove/TrenchWalk",
+        "Namespace": "Move/MoveTeori/MoveElements/KorpoMove/TrenchWalk",
         "SuperElement": [],
         "SubElement": [],
         "ConcurrentElement": [],
@@ -2489,7 +2489,7 @@ Skema_List = [
     },
     {
         "ElementName": "Walk",
-        "Namespace": "Move/MoveTeori/MoveElements/CorpoMove/Walk",
+        "Namespace": "Move/MoveTeori/MoveElements/KorpoMove/Walk",
         "SuperElement": [],
         "SubElement": [],
         "ConcurrentElement": [],

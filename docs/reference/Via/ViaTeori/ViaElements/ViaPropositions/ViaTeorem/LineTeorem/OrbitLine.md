@@ -27,7 +27,7 @@
 <!-- =================================================== -->
 ::: details 🛠 <dev>&&&</dev>
 
-- CorpoOrbit
+- KorpoOrbit
 - ManoOrbit
 
 :::

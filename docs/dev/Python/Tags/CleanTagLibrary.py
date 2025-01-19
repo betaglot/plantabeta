@@ -682,7 +682,7 @@ tags = [
     "Move.BodyMove.BodyPosture",
     "Move.BodyMove.BodyRotate",
     "Move.BodyMove.BodySlot",
-    "Move.BodyMove.CorpoOrbit",
+    "Move.BodyMove.KorpoOrbit",
     "Move.BodyMove.Fall",
     "Move.BodyMove.Landing",
     "Move.BodyMove.Landing.MoveError.BaseAma",

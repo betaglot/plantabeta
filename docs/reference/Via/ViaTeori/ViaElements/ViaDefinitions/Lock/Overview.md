@@ -1,22 +1,24 @@
-# 🟠<move>TrunkMove</move>
+# 🔻<via>Lock</via>
 
-## 🕸 TrunkMove.Skema
+## 🕸 Lock.Skema
 
 ### Related 🟩<eko>Eko</eko>
 
--
+- Lock the plant out of the way (FloraMove)
+- The rock is locked in place, therefore you can't RockSkreef.
 
 ### Related 🔻<via>Via</via>
 
--
+- Locked on to the target
 
 ### Related 🟠<move>Move</move>
 
--
+- Locked in
+- Locked and loaded (CacheMove)
 
 ### Related 💜<psike>Psike</psike>
 
--
+- Lock eyes
 
 ---
 
@@ -27,16 +29,7 @@
 <!-- =================================================== -->
 ::: details 🛠 <dev>&&&</dev>
 
-- SpadeHook
-    - TrunkDiameter < 3cm
-
-- KorpoOrbit
-    - ForearmSlide, ShoulderSlide when BodyLean into Trunk
-        - When your Hands are Loaded
-        - Like when you Orbit out of a Metro door (carriage or station door)
-        - RadiorDev.UX
-    - BodyTangent
-    - HandSlide on Trunk
-    - Be sure that you're not going to snag a spike from a broken branch
+- Definition(Lock)
+    - The State of Resisting any movement
 
 :::

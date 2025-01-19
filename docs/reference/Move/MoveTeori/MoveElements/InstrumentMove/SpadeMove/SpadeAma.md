@@ -38,7 +38,7 @@
 - Sinkron(BaseSkreef)
     - To Support UpperBody during BaseSkreef
 - Sinkron(DendronInsert)
-    - BrazoEccentric(Flexion, Elevation) to support Corpo during DendronInsert
+    - BrazoEccentric(Flexion, Elevation) to support Korpo during DendronInsert
 - ManoHandleCompress
 - SpadeAnteriorAma
 - SpadePosteriorAma
