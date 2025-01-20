@@ -1,4 +1,6 @@
-[
+import json
+
+Skema_List = [
     {
         "ElementName": "TeamBeta",
         "Namespace": "Beta/TeamBeta",
@@ -10,8 +12,7 @@
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": [],
-        "Dev": []
+        "Alias": []
     },
     {
         "ElementName": "EkoKratos",
@@ -24,8 +25,7 @@
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": [],
-        "Dev": []
+        "Alias": []
     },
     {
         "ElementName": "EkoKuboi",
@@ -38,8 +38,7 @@
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": [],
-        "Dev": []
+        "Alias": []
     },
     {
         "ElementName": "EkoTeknik",
@@ -52,8 +51,7 @@
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": [],
-        "Dev": []
+        "Alias": []
     },
     {
         "ElementName": "EkoMetron",
@@ -70,8 +68,7 @@
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": [],
-        "Dev": []
+        "Alias": []
     },
     {
         "ElementName": "EkoOverview",
@@ -84,8 +81,7 @@
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": [],
-        "Dev": []
+        "Alias": []
     },
     {
         "ElementName": "EkoError",
@@ -98,8 +94,7 @@
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": [],
-        "Dev": []
+        "Alias": []
     },
     {
         "ElementName": "Antrosfera",
@@ -115,8 +110,7 @@
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": [],
-        "Dev": []
+        "Alias": []
     },
     {
         "ElementName": "BurnPit",
@@ -135,8 +129,7 @@
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": [],
-        "Dev": []
+        "Alias": []
     },
     {
         "ElementName": "MoundPrep",
@@ -154,8 +147,7 @@
         ],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": [],
-        "Dev": []
+        "Alias": []
     },
     {
         "ElementName": "Prep",
@@ -173,8 +165,7 @@
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": [],
-        "Dev": []
+        "Alias": []
     },
     {
         "ElementName": "SkreefPrep",
@@ -190,8 +181,7 @@
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": [],
-        "Dev": []
+        "Alias": []
     },
     {
         "ElementName": "TrenchPrep",
@@ -208,8 +198,7 @@
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": [],
-        "Dev": []
+        "Alias": []
     },
     {
         "ElementName": "Road",
@@ -227,8 +216,7 @@
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": [],
-        "Dev": []
+        "Alias": []
     },
     {
         "ElementName": "AirTemperature",
@@ -245,8 +233,7 @@
         ],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": [],
-        "Dev": []
+        "Alias": []
     },
     {
         "ElementName": "Humidity",
@@ -264,8 +251,7 @@
         ],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": [],
-        "Dev": []
+        "Alias": []
     },
     {
         "ElementName": "Atmosfera",
@@ -283,8 +269,7 @@
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": [],
-        "Dev": []
+        "Alias": []
     },
     {
         "ElementName": "Precipitation",
@@ -301,8 +286,7 @@
         ],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": [],
-        "Dev": []
+        "Alias": []
     },
     {
         "ElementName": "Wind",
@@ -323,8 +307,7 @@
         ],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": [],
-        "Dev": []
+        "Alias": []
     },
     {
         "ElementName": "Abies",
@@ -339,8 +322,7 @@
         "Description": "",
         "Alias": [
             "FirTree"
-        ],
-        "Dev": []
+        ]
     },
     {
         "ElementName": "Larix",
@@ -355,8 +337,7 @@
         "Description": "",
         "Alias": [
             "LarchTree"
-        ],
-        "Dev": []
+        ]
     },
     {
         "ElementName": "Dendron",
@@ -381,8 +362,7 @@
         "Alias": [
             "Seedling",
             "Semis"
-        ],
-        "Dev": []
+        ]
     },
     {
         "ElementName": "Picea",
@@ -397,8 +377,7 @@
         "Description": "",
         "Alias": [
             "SpruceTree"
-        ],
-        "Dev": []
+        ]
     },
     {
         "ElementName": "Pinus",
@@ -413,8 +392,7 @@
         "Description": "",
         "Alias": [
             "PineTree"
-        ],
-        "Dev": []
+        ]
     },
     {
         "ElementName": "Pseudotsuga",
@@ -429,8 +407,7 @@
         "Description": "",
         "Alias": [
             "DouglasFirTree"
-        ],
-        "Dev": []
+        ]
     },
     {
         "ElementName": "Quercus",
@@ -445,8 +422,7 @@
         "Description": "",
         "Alias": [
             "OakTree"
-        ],
-        "Dev": []
+        ]
     },
     {
         "ElementName": "Thuja",
@@ -461,8 +437,7 @@
         "Description": "",
         "Alias": [
             "RedCedarTree"
-        ],
-        "Dev": []
+        ]
     },
     {
         "ElementName": "Tsuga",
@@ -482,8 +457,7 @@
         "Description": "",
         "Alias": [
             "Hemlock"
-        ],
-        "Dev": []
+        ]
     },
     {
         "ElementName": "Fauna",
@@ -496,8 +470,7 @@
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": [],
-        "Dev": []
+        "Alias": []
     },
     {
         "ElementName": "Bryophyta",
@@ -516,8 +489,7 @@
         "Description": "",
         "Alias": [
             "Moss"
-        ],
-        "Dev": []
+        ]
     },
     {
         "ElementName": "BurntLand",
@@ -535,8 +507,7 @@
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": [],
-        "Dev": []
+        "Alias": []
     },
     {
         "ElementName": "CropFlora",
@@ -556,8 +527,7 @@
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": [],
-        "Dev": []
+        "Alias": []
     },
     {
         "ElementName": "Flower",
@@ -576,8 +546,7 @@
             "SpeciesIdentification"
         ],
         "Description": "",
-        "Alias": [],
-        "Dev": []
+        "Alias": []
     },
     {
         "ElementName": "Log",
@@ -592,8 +561,7 @@
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": [],
-        "Dev": []
+        "Alias": []
     },
     {
         "ElementName": "Flora",
@@ -616,8 +584,7 @@
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": [],
-        "Dev": []
+        "Alias": []
     },
     {
         "ElementName": "Poales",
@@ -636,8 +603,7 @@
         "Description": "",
         "Alias": [
             "Grass"
-        ],
-        "Dev": []
+        ]
     },
     {
         "ElementName": "RiparianZone",
@@ -657,8 +623,7 @@
         ],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": [],
-        "Dev": []
+        "Alias": []
     },
     {
         "ElementName": "BurnPileSlash",
@@ -673,8 +638,7 @@
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": [],
-        "Dev": []
+        "Alias": []
     },
     {
         "ElementName": "HighSlash",
@@ -692,8 +656,7 @@
         ],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": [],
-        "Dev": []
+        "Alias": []
     },
     {
         "ElementName": "LowSlash",
@@ -710,8 +673,7 @@
         ],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": [],
-        "Dev": []
+        "Alias": []
     },
     {
         "ElementName": "Slash",
@@ -729,8 +691,7 @@
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": [],
-        "Dev": []
+        "Alias": []
     },
     {
         "ElementName": "WetSlash",
@@ -751,8 +712,7 @@
         ],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": [],
-        "Dev": []
+        "Alias": []
     },
     {
         "ElementName": "Stump",
@@ -767,8 +727,7 @@
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": [],
-        "Dev": []
+        "Alias": []
     },
     {
         "ElementName": "EcoCurve",
@@ -781,8 +740,7 @@
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": [],
-        "Dev": []
+        "Alias": []
     },
     {
         "ElementName": "EcoPoint",
@@ -795,8 +753,7 @@
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": [],
-        "Dev": []
+        "Alias": []
     },
     {
         "ElementName": "EcoSpace",
@@ -809,8 +766,7 @@
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": [],
-        "Dev": []
+        "Alias": []
     },
     {
         "ElementName": "EcoSurface",
@@ -823,8 +779,7 @@
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": [],
-        "Dev": []
+        "Alias": []
     },
     {
         "ElementName": "Flat",
@@ -837,8 +792,7 @@
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": [],
-        "Dev": []
+        "Alias": []
     },
     {
         "ElementName": "Incline",
@@ -854,8 +808,7 @@
         "Alias": [
             "Slope",
             "SlopeLand"
-        ],
-        "Dev": []
+        ]
     },
     {
         "ElementName": "Geomorfologia",
@@ -874,8 +827,7 @@
         "Description": "",
         "Alias": [
             "Terrain"
-        ],
-        "Dev": []
+        ]
     },
     {
         "ElementName": "Valley",
@@ -893,8 +845,7 @@
         "Alias": [
             "Gully",
             "Draw"
-        ],
-        "Dev": []
+        ]
     },
     {
         "ElementName": "Helios",
@@ -917,8 +868,7 @@
         "Description": "",
         "Alias": [
             "Sun"
-        ],
-        "Dev": []
+        ]
     },
     {
         "ElementName": "GroundWater",
@@ -933,8 +883,7 @@
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": [],
-        "Dev": []
+        "Alias": []
     },
     {
         "ElementName": "MovingWater",
@@ -953,8 +902,7 @@
             "Creek",
             "Stream",
             "River"
-        ],
-        "Dev": []
+        ]
     },
     {
         "ElementName": "Hidrosfera",
@@ -972,8 +920,7 @@
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": [],
-        "Dev": []
+        "Alias": []
     },
     {
         "ElementName": "Pond",
@@ -986,8 +933,7 @@
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": [],
-        "Dev": []
+        "Alias": []
     },
     {
         "ElementName": "Puddle",
@@ -1005,8 +951,7 @@
         ],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": [],
-        "Dev": []
+        "Alias": []
     },
     {
         "ElementName": "Litosfera",
@@ -1025,8 +970,7 @@
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": [],
-        "Dev": []
+        "Alias": []
     },
     {
         "ElementName": "RockCap",
@@ -1041,8 +985,7 @@
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": [],
-        "Dev": []
+        "Alias": []
     },
     {
         "ElementName": "DrySoil",
@@ -1057,8 +1000,7 @@
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": [],
-        "Dev": []
+        "Alias": []
     },
     {
         "ElementName": "IceSoil",
@@ -1078,8 +1020,7 @@
         "Description": "",
         "Alias": [
             "FrozenSoil"
-        ],
-        "Dev": []
+        ]
     },
     {
         "ElementName": "BoulderSoil",
@@ -1094,8 +1035,7 @@
         "Description": "",
         "Alias": [
             "RockyLand"
-        ],
-        "Dev": []
+        ]
     },
     {
         "ElementName": "ClaySoil",
@@ -1110,8 +1050,7 @@
         ],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": [],
-        "Dev": []
+        "Alias": []
     },
     {
         "ElementName": "CobbleSoil",
@@ -1126,8 +1065,7 @@
         "Description": "",
         "Alias": [
             "RockyLand"
-        ],
-        "Dev": []
+        ]
     },
     {
         "ElementName": "PebbleSoil",
@@ -1140,8 +1078,7 @@
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": [],
-        "Dev": []
+        "Alias": []
     },
     {
         "ElementName": "RubbleSoil",
@@ -1162,8 +1099,7 @@
         "Description": "",
         "Alias": [
             "ExplodedRock"
-        ],
-        "Dev": []
+        ]
     },
     {
         "ElementName": "SandSoil",
@@ -1178,8 +1114,7 @@
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": [],
-        "Dev": []
+        "Alias": []
     },
     {
         "ElementName": "SiltSoil",
@@ -1200,8 +1135,7 @@
         ],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": [],
-        "Dev": []
+        "Alias": []
     },
     {
         "ElementName": "MineralSoil",
@@ -1218,8 +1152,7 @@
         ],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": [],
-        "Dev": []
+        "Alias": []
     },
     {
         "ElementName": "Pedosfera",
@@ -1241,8 +1174,7 @@
         "Description": "",
         "Alias": [
             "Soil"
-        ],
-        "Dev": []
+        ]
     },
     {
         "ElementName": "RedRotSoil",
@@ -1263,8 +1195,7 @@
         "Description": "",
         "Alias": [
             "RedRot"
-        ],
-        "Dev": []
+        ]
     },
     {
         "ElementName": "FibricSoil",
@@ -1279,8 +1210,7 @@
         "Description": "",
         "Alias": [
             "Rooty"
-        ],
-        "Dev": []
+        ]
     },
     {
         "ElementName": "HumicSoil",
@@ -1293,8 +1223,7 @@
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": [],
-        "Dev": []
+        "Alias": []
     },
     {
         "ElementName": "MesicSoil",
@@ -1307,8 +1236,7 @@
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": [],
-        "Dev": []
+        "Alias": []
     },
     {
         "ElementName": "WoodySoil",
@@ -1323,8 +1251,7 @@
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": [],
-        "Dev": []
+        "Alias": []
     },
     {
         "ElementName": "SubjectiveSoil",
@@ -1337,8 +1264,7 @@
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": [],
-        "Dev": []
+        "Alias": []
     },
     {
         "ElementName": "WetSoil",
@@ -1355,8 +1281,7 @@
         ],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": [],
-        "Dev": []
+        "Alias": []
     },
     {
         "ElementName": "DiscernSigns",
@@ -1371,8 +1296,7 @@
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": [],
-        "Dev": []
+        "Alias": []
     },
     {
         "ElementName": "Tracking",
@@ -1387,8 +1311,7 @@
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": [],
-        "Dev": []
+        "Alias": []
     },
     {
         "ElementName": "EkoSimbols",
@@ -1401,8 +1324,7 @@
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": [],
-        "Dev": []
+        "Alias": []
     },
     {
         "ElementName": "Ergon",
@@ -1422,8 +1344,7 @@
             "Work",
             "Job",
             "Production"
-        ],
-        "Dev": []
+        ]
     },
     {
         "ElementName": "Fisik",
@@ -1440,8 +1361,7 @@
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": [],
-        "Dev": []
+        "Alias": []
     },
     {
         "ElementName": "MoveKratos",
@@ -1456,8 +1376,7 @@
         "Description": "",
         "Alias": [
             "MoveIntensity"
-        ],
-        "Dev": []
+        ]
     },
     {
         "ElementName": "MoveKuboi",
@@ -1472,8 +1391,7 @@
         "Description": "",
         "Alias": [
             "MoveRisk"
-        ],
-        "Dev": []
+        ]
     },
     {
         "ElementName": "MoveTeknik",
@@ -1488,8 +1406,7 @@
         "Description": "",
         "Alias": [
             "MoveComplexity"
-        ],
-        "Dev": []
+        ]
     },
     {
         "ElementName": "MoveOverview",
@@ -1502,8 +1419,7 @@
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": [],
-        "Dev": []
+        "Alias": []
     },
     {
         "ElementName": "Frase",
@@ -1538,8 +1454,7 @@
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": [],
-        "Dev": []
+        "Alias": []
     },
     {
         "ElementName": "MoveError",
@@ -1552,8 +1467,7 @@
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": [],
-        "Dev": []
+        "Alias": []
     },
     {
         "ElementName": "MovePraktik",
@@ -1568,8 +1482,7 @@
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": [],
-        "Dev": []
+        "Alias": []
     },
     {
         "ElementName": "MoveAxiom",
@@ -1582,8 +1495,7 @@
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": [],
-        "Dev": []
+        "Alias": []
     },
     {
         "ElementName": "AnteriorDirection",
@@ -1599,8 +1511,7 @@
         "Alias": [
             "Forwards",
             "In front"
-        ],
-        "Dev": []
+        ]
     },
     {
         "ElementName": "DistalDirection",
@@ -1615,8 +1526,7 @@
         "Description": "",
         "Alias": [
             "Away"
-        ],
-        "Dev": []
+        ]
     },
     {
         "ElementName": "LateralDirection",
@@ -1629,8 +1539,7 @@
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": [],
-        "Dev": []
+        "Alias": []
     },
     {
         "ElementName": "MedialDirection",
@@ -1643,8 +1552,7 @@
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": [],
-        "Dev": []
+        "Alias": []
     },
     {
         "ElementName": "PosteriorDirection",
@@ -1660,8 +1568,7 @@
         "Alias": [
             "Behind",
             "Backwards"
-        ],
-        "Dev": []
+        ]
     },
     {
         "ElementName": "ProximalDirection",
@@ -1676,8 +1583,7 @@
         "Description": "",
         "Alias": [
             "Closer"
-        ],
-        "Dev": []
+        ]
     },
     {
         "ElementName": "FrontalPlane",
@@ -1692,8 +1598,7 @@
         "Description": "",
         "Alias": [
             "CoronalPlane"
-        ],
-        "Dev": []
+        ]
     },
     {
         "ElementName": "HorizontalPlane",
@@ -1709,8 +1614,7 @@
         "Alias": [
             "AxialPlane",
             "TransversePlane"
-        ],
-        "Dev": []
+        ]
     },
     {
         "ElementName": "SagittalPlane",
@@ -1725,8 +1629,7 @@
         "Description": "",
         "Alias": [
             "LongitudinalPlane"
-        ],
-        "Dev": []
+        ]
     },
     {
         "ElementName": "MoveSurface",
@@ -1744,8 +1647,7 @@
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": [],
-        "Dev": []
+        "Alias": []
     },
     {
         "ElementName": "MoveDefinitions",
@@ -1760,8 +1662,7 @@
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": [],
-        "Dev": []
+        "Alias": []
     },
     {
         "ElementName": "BaseAbduction",
@@ -1776,8 +1677,7 @@
         "Description": "",
         "Alias": [
             "LegAbduction"
-        ],
-        "Dev": []
+        ]
     },
     {
         "ElementName": "BaseAbsorb",
@@ -1792,8 +1692,7 @@
         "Description": "",
         "Alias": [
             "LegAbsorb"
-        ],
-        "Dev": []
+        ]
     },
     {
         "ElementName": "BaseAdduction",
@@ -1808,8 +1707,7 @@
         "Description": "",
         "Alias": [
             "LegAdduction"
-        ],
-        "Dev": []
+        ]
     },
     {
         "ElementName": "BaseAma",
@@ -1825,8 +1723,7 @@
         "Alias": [
             "LegFlag",
             "LegProp"
-        ],
-        "Dev": []
+        ]
     },
     {
         "ElementName": "BaseArchSmear",
@@ -1841,8 +1738,7 @@
         "Description": "",
         "Alias": [
             "FootArchSmear"
-        ],
-        "Dev": []
+        ]
     },
     {
         "ElementName": "BaseDig",
@@ -1857,8 +1753,7 @@
         "Description": "",
         "Alias": [
             "FootDig"
-        ],
-        "Dev": []
+        ]
     },
     {
         "ElementName": "BaseDorsiflexion",
@@ -1873,8 +1768,7 @@
         "Description": "",
         "Alias": [
             "FootDorsiFlexion"
-        ],
-        "Dev": []
+        ]
     },
     {
         "ElementName": "BaseDrag",
@@ -1889,8 +1783,7 @@
         "Description": "",
         "Alias": [
             "FootDrag"
-        ],
-        "Dev": []
+        ]
     },
     {
         "ElementName": "BaseError",
@@ -1906,8 +1799,7 @@
         "Alias": [
             "LegError",
             "FootError"
-        ],
-        "Dev": []
+        ]
     },
     {
         "ElementName": "BaseEversion",
@@ -1922,8 +1814,7 @@
         "Description": "",
         "Alias": [
             "FootEversion"
-        ],
-        "Dev": []
+        ]
     },
     {
         "ElementName": "BaseFlexion",
@@ -1938,8 +1829,7 @@
         "Description": "",
         "Alias": [
             "LegFlexion"
-        ],
-        "Dev": []
+        ]
     },
     {
         "ElementName": "BaseInversion",
@@ -1954,8 +1844,7 @@
         "Description": "",
         "Alias": [
             "FootInversion"
-        ],
-        "Dev": []
+        ]
     },
     {
         "ElementName": "BaseOnda",
@@ -1972,8 +1861,7 @@
             "LegFlag",
             "LegSwing",
             "LegWhip"
-        ],
-        "Dev": []
+        ]
     },
     {
         "ElementName": "BaseSkreef",
@@ -1988,8 +1876,7 @@
         "Description": "",
         "Alias": [
             "FootSkreef"
-        ],
-        "Dev": []
+        ]
     },
     {
         "ElementName": "Crouch",
@@ -2004,8 +1891,7 @@
         "Description": "",
         "Alias": [
             "Squat"
-        ],
-        "Dev": []
+        ]
     },
     {
         "ElementName": "Error",
@@ -2020,8 +1906,7 @@
         "Description": "",
         "Alias": [
             "Mistake"
-        ],
-        "Dev": []
+        ]
     },
     {
         "ElementName": "ArchDragKlose",
@@ -2034,8 +1919,7 @@
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": [],
-        "Dev": []
+        "Alias": []
     },
     {
         "ElementName": "ArchKickKlose",
@@ -2048,8 +1932,7 @@
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": [],
-        "Dev": []
+        "Alias": []
     },
     {
         "ElementName": "FootArchKlose",
@@ -2062,8 +1945,7 @@
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": [],
-        "Dev": []
+        "Alias": []
     },
     {
         "ElementName": "FootDragKlose",
@@ -2076,8 +1958,7 @@
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": [],
-        "Dev": []
+        "Alias": []
     },
     {
         "ElementName": "HeelDragKlose",
@@ -2090,8 +1971,7 @@
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": [],
-        "Dev": []
+        "Alias": []
     },
     {
         "ElementName": "HeelKickKlose",
@@ -2104,8 +1984,7 @@
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": [],
-        "Dev": []
+        "Alias": []
     },
     {
         "ElementName": "FootKlose",
@@ -2127,8 +2006,7 @@
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": [],
-        "Dev": []
+        "Alias": []
     },
     {
         "ElementName": "ToeDragKlose",
@@ -2141,8 +2019,7 @@
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": [],
-        "Dev": []
+        "Alias": []
     },
     {
         "ElementName": "ToeKickKlose",
@@ -2155,8 +2032,7 @@
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": [],
-        "Dev": []
+        "Alias": []
     },
     {
         "ElementName": "BaseMoveFrase",
@@ -2194,8 +2070,7 @@
         "Alias": [
             "LegMoveFrase",
             "FootMoveFrase"
-        ],
-        "Dev": []
+        ]
     },
     {
         "ElementName": "Hop",
@@ -2210,8 +2085,7 @@
         "Description": "",
         "Alias": [
             "Jump"
-        ],
-        "Dev": []
+        ]
     },
     {
         "ElementName": "Kneel",
@@ -2224,8 +2098,7 @@
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": [],
-        "Dev": []
+        "Alias": []
     },
     {
         "ElementName": "BaseMove",
@@ -2266,8 +2139,7 @@
         "Alias": [
             "LegMove",
             "FootMove"
-        ],
-        "Dev": []
+        ]
     },
     {
         "ElementName": "PlantarFlexion",
@@ -2280,8 +2152,7 @@
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": [],
-        "Dev": []
+        "Alias": []
     },
     {
         "ElementName": "RunStart",
@@ -2296,8 +2167,7 @@
         "Description": "",
         "Alias": [
             "RunningStart"
-        ],
-        "Dev": []
+        ]
     },
     {
         "ElementName": "Step",
@@ -2310,8 +2180,7 @@
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": [],
-        "Dev": []
+        "Alias": []
     },
     {
         "ElementName": "Stomp",
@@ -2326,8 +2195,7 @@
         "Description": "",
         "Alias": [
             "Stamp"
-        ],
-        "Dev": []
+        ]
     },
     {
         "ElementName": "BrazoAma",
@@ -2342,8 +2210,7 @@
         "Description": "",
         "Alias": [
             "ArmProp"
-        ],
-        "Dev": []
+        ]
     },
     {
         "ElementName": "BrazoAmble",
@@ -2359,8 +2226,7 @@
         "Alias": [
             "ArmAmble",
             "ArmAmble"
-        ],
-        "Dev": []
+        ]
     },
     {
         "ElementName": "BrazoCompress",
@@ -2375,8 +2241,7 @@
         "Description": "",
         "Alias": [
             "ArmCompression"
-        ],
-        "Dev": []
+        ]
     },
     {
         "ElementName": "BrazoError",
@@ -2391,8 +2256,7 @@
         "Description": "",
         "Alias": [
             "ArmError"
-        ],
-        "Dev": []
+        ]
     },
     {
         "ElementName": "BrazoHook",
@@ -2407,8 +2271,7 @@
         "Description": "",
         "Alias": [
             "ArmHook"
-        ],
-        "Dev": []
+        ]
     },
     {
         "ElementName": "BrazoOnda",
@@ -2425,8 +2288,7 @@
             "ArmSwing",
             "ArmWhip",
             "ArmFlag"
-        ],
-        "Dev": []
+        ]
     },
     {
         "ElementName": "BrazoRockOver",
@@ -2441,8 +2303,7 @@
         "Description": "",
         "Alias": [
             "ArmRockOver"
-        ],
-        "Dev": []
+        ]
     },
     {
         "ElementName": "Frase",
@@ -2477,8 +2338,7 @@
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": [],
-        "Dev": []
+        "Alias": []
     },
     {
         "ElementName": "BrazoMove",
@@ -2502,8 +2362,7 @@
         "Description": "",
         "Alias": [
             "ArmMove"
-        ],
-        "Dev": []
+        ]
     },
     {
         "ElementName": "CacheError",
@@ -2516,8 +2375,7 @@
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": [],
-        "Dev": []
+        "Alias": []
     },
     {
         "ElementName": "Eating",
@@ -2530,8 +2388,7 @@
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": [],
-        "Dev": []
+        "Alias": []
     },
     {
         "ElementName": "Frase",
@@ -2566,8 +2423,7 @@
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": [],
-        "Dev": []
+        "Alias": []
     },
     {
         "ElementName": "TarpOff",
@@ -2580,8 +2436,7 @@
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": [],
-        "Dev": []
+        "Alias": []
     },
     {
         "ElementName": "TarpOn",
@@ -2594,8 +2449,7 @@
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": [],
-        "Dev": []
+        "Alias": []
     },
     {
         "ElementName": "CacheMove",
@@ -2612,8 +2466,7 @@
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": [],
-        "Dev": []
+        "Alias": []
     },
     {
         "ElementName": "BaseLayerMove",
@@ -2626,8 +2479,7 @@
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": [],
-        "Dev": []
+        "Alias": []
     },
     {
         "ElementName": "BuckleMove",
@@ -2640,8 +2492,7 @@
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": [],
-        "Dev": []
+        "Alias": []
     },
     {
         "ElementName": "ButtonMove",
@@ -2654,8 +2505,7 @@
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": [],
-        "Dev": []
+        "Alias": []
     },
     {
         "ElementName": "FastenerMove",
@@ -2674,8 +2524,7 @@
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": [],
-        "Dev": []
+        "Alias": []
     },
     {
         "ElementName": "SnapMove",
@@ -2690,8 +2539,7 @@
         "Description": "",
         "Alias": [
             "SnapButtonMove"
-        ],
-        "Dev": []
+        ]
     },
     {
         "ElementName": "ZelcroMove",
@@ -2704,8 +2552,7 @@
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": [],
-        "Dev": []
+        "Alias": []
     },
     {
         "ElementName": "ZipperMove",
@@ -2720,8 +2567,7 @@
         "Description": "",
         "Alias": [
             "zip up"
-        ],
-        "Dev": []
+        ]
     },
     {
         "ElementName": "Frase",
@@ -2756,8 +2602,7 @@
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": [],
-        "Dev": []
+        "Alias": []
     },
     {
         "ElementName": "InsulationLayerMove",
@@ -2770,8 +2615,7 @@
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": [],
-        "Dev": []
+        "Alias": []
     },
     {
         "ElementName": "Layering",
@@ -2786,8 +2630,7 @@
         "Description": "",
         "Alias": [
             "ClothingLayering"
-        ],
-        "Dev": []
+        ]
     },
     {
         "ElementName": "ClothingMove",
@@ -2808,8 +2651,7 @@
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": [],
-        "Dev": []
+        "Alias": []
     },
     {
         "ElementName": "HatMove",
@@ -2822,8 +2664,7 @@
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": [],
-        "Dev": []
+        "Alias": []
     },
     {
         "ElementName": "ShellLayerMove",
@@ -2842,8 +2683,7 @@
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": [],
-        "Dev": []
+        "Alias": []
     },
     {
         "ElementName": "PocketMove",
@@ -2858,8 +2698,7 @@
         "Description": "",
         "Alias": [
             "ClothingPocketMove"
-        ],
-        "Dev": []
+        ]
     },
     {
         "ElementName": "RainShell",
@@ -2875,8 +2714,7 @@
         "Alias": [
             "RainJacket",
             "RainCoat"
-        ],
-        "Dev": []
+        ]
     },
     {
         "ElementName": "RemoveMud",
@@ -2893,8 +2731,7 @@
         "Description": "",
         "Alias": [
             "ClothingPurga"
-        ],
-        "Dev": []
+        ]
     },
     {
         "ElementName": "WindShell",
@@ -2909,8 +2746,7 @@
         "Description": "",
         "Alias": [
             "WindBreaker"
-        ],
-        "Dev": []
+        ]
     },
     {
         "ElementName": "TextilePreservation",
@@ -2925,8 +2761,7 @@
         "Description": "",
         "Alias": [
             "ClothingCare"
-        ],
-        "Dev": []
+        ]
     },
     {
         "ElementName": "KorpoAbsorb",
@@ -2941,8 +2776,7 @@
         "Description": "",
         "Alias": [
             "BodyAbsorb"
-        ],
-        "Dev": []
+        ]
     },
     {
         "ElementName": "KorpoBend",
@@ -2957,8 +2791,7 @@
         "Description": "",
         "Alias": [
             "BodyBend"
-        ],
-        "Dev": []
+        ]
     },
     {
         "ElementName": "KorpoError",
@@ -2973,8 +2806,7 @@
         "Description": "",
         "Alias": [
             "BodyError"
-        ],
-        "Dev": []
+        ]
     },
     {
         "ElementName": "KorpoLean",
@@ -2989,8 +2821,7 @@
         "Description": "",
         "Alias": [
             "BodyLean"
-        ],
-        "Dev": []
+        ]
     },
     {
         "ElementName": "KorpoOrbit",
@@ -3005,8 +2836,7 @@
         "Description": "",
         "Alias": [
             "BodyOrbit"
-        ],
-        "Dev": []
+        ]
     },
     {
         "ElementName": "KorpoPosture",
@@ -3021,8 +2851,7 @@
         "Description": "",
         "Alias": [
             "BodyPosture"
-        ],
-        "Dev": []
+        ]
     },
     {
         "ElementName": "KorpoPropel",
@@ -3037,8 +2866,7 @@
         "Description": "",
         "Alias": [
             "BodyPropel"
-        ],
-        "Dev": []
+        ]
     },
     {
         "ElementName": "KorpoRotate",
@@ -3053,8 +2881,7 @@
         "Description": "",
         "Alias": [
             "BodyRotate"
-        ],
-        "Dev": []
+        ]
     },
     {
         "ElementName": "KorpoSlot",
@@ -3069,8 +2896,7 @@
         "Description": "",
         "Alias": [
             "BodySlot"
-        ],
-        "Dev": []
+        ]
     },
     {
         "ElementName": "KorpoTangent",
@@ -3085,8 +2911,7 @@
         "Description": "",
         "Alias": [
             "BodyTangent"
-        ],
-        "Dev": []
+        ]
     },
     {
         "ElementName": "KorpoTwist",
@@ -3102,8 +2927,7 @@
         "Alias": [
             "BodyTwist",
             "Twist"
-        ],
-        "Dev": []
+        ]
     },
     {
         "ElementName": "KorpoUnder",
@@ -3118,8 +2942,7 @@
         "Description": "",
         "Alias": [
             "BodyUnder"
-        ],
-        "Dev": []
+        ]
     },
     {
         "ElementName": "Crawl",
@@ -3134,8 +2957,7 @@
         "Description": "",
         "Alias": [
             "on all fours"
-        ],
-        "Dev": []
+        ]
     },
     {
         "ElementName": "Fall",
@@ -3148,8 +2970,7 @@
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": [],
-        "Dev": []
+        "Alias": []
     },
     {
         "ElementName": "Frase",
@@ -3184,8 +3005,7 @@
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": [],
-        "Dev": []
+        "Alias": []
     },
     {
         "ElementName": "HipHinge",
@@ -3198,8 +3018,7 @@
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": [],
-        "Dev": []
+        "Alias": []
     },
     {
         "ElementName": "InclineAmble",
@@ -3214,8 +3033,7 @@
         "Description": "",
         "Alias": [
             "SlopeAmble"
-        ],
-        "Dev": []
+        ]
     },
     {
         "ElementName": "Jump",
@@ -3228,8 +3046,7 @@
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": [],
-        "Dev": []
+        "Alias": []
     },
     {
         "ElementName": "LogAmble",
@@ -3246,8 +3063,7 @@
         "Description": "",
         "Alias": [
             "LogAmble"
-        ],
-        "Dev": []
+        ]
     },
     {
         "ElementName": "KorpoMove",
@@ -3288,8 +3104,7 @@
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": [],
-        "Dev": []
+        "Alias": []
     },
     {
         "ElementName": "SpineExtension",
@@ -3306,8 +3121,7 @@
         "Description": "",
         "Alias": [
             "BendBackwards"
-        ],
-        "Dev": []
+        ]
     },
     {
         "ElementName": "SpineFlexion",
@@ -3322,8 +3136,7 @@
         "Description": "",
         "Alias": [
             "bend over"
-        ],
-        "Dev": []
+        ]
     },
     {
         "ElementName": "Stand",
@@ -3338,8 +3151,7 @@
         "Description": "",
         "Alias": [
             "MountainPose"
-        ],
-        "Dev": []
+        ]
     },
     {
         "ElementName": "StandUp",
@@ -3354,8 +3166,7 @@
         "Description": "",
         "Alias": [
             "get up"
-        ],
-        "Dev": []
+        ]
     },
     {
         "ElementName": "StepInto",
@@ -3368,8 +3179,7 @@
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": [],
-        "Dev": []
+        "Alias": []
     },
     {
         "ElementName": "StepOver",
@@ -3382,8 +3192,7 @@
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": [],
-        "Dev": []
+        "Alias": []
     },
     {
         "ElementName": "TrenchAmble",
@@ -3396,8 +3205,7 @@
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": [],
-        "Dev": []
+        "Alias": []
     },
     {
         "ElementName": "Amble",
@@ -3412,8 +3220,7 @@
         "Description": "",
         "Alias": [
             "slow walk"
-        ],
-        "Dev": []
+        ]
     },
     {
         "ElementName": "DendroEval",
@@ -3430,8 +3237,7 @@
             "DendroTest",
             "TreeTest",
             "SeedlingTest"
-        ],
-        "Dev": []
+        ]
     },
     {
         "ElementName": "DendroInsert",
@@ -3446,8 +3252,7 @@
         "Description": "",
         "Alias": [
             "TreeInsert"
-        ],
-        "Dev": []
+        ]
     },
     {
         "ElementName": "DendroLoad",
@@ -3465,8 +3270,7 @@
             "TreeReload",
             "GetTree",
             "draw a tree"
-        ],
-        "Dev": []
+        ]
     },
     {
         "ElementName": "DendroMano",
@@ -3482,8 +3286,7 @@
         "Alias": [
             "DendroGrip",
             "TreeGrip"
-        ],
-        "Dev": []
+        ]
     },
     {
         "ElementName": "DendroMove",
@@ -3503,8 +3306,7 @@
         "Description": "",
         "Alias": [
             "SeedingMove"
-        ],
-        "Dev": []
+        ]
     },
     {
         "ElementName": "BranchSnap",
@@ -3519,8 +3321,7 @@
         "Description": "",
         "Alias": [
             "BranchBreak"
-        ],
-        "Dev": []
+        ]
     },
     {
         "ElementName": "BranchMove",
@@ -3535,8 +3336,7 @@
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": [],
-        "Dev": []
+        "Alias": []
     },
     {
         "ElementName": "FloraBlock",
@@ -3551,8 +3351,7 @@
         "Description": "",
         "Alias": [
             "PlantBlock"
-        ],
-        "Dev": []
+        ]
     },
     {
         "ElementName": "FloraCatch",
@@ -3565,8 +3364,7 @@
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": [],
-        "Dev": []
+        "Alias": []
     },
     {
         "ElementName": "FloraError",
@@ -3579,8 +3377,7 @@
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": [],
-        "Dev": []
+        "Alias": []
     },
     {
         "ElementName": "FloraFold",
@@ -3595,8 +3392,7 @@
         "Description": "",
         "Alias": [
             "FloraBend"
-        ],
-        "Dev": []
+        ]
     },
     {
         "ElementName": "FloraMachete",
@@ -3612,8 +3408,7 @@
         "Alias": [
             "FloraAxe",
             "FloraHack"
-        ],
-        "Dev": []
+        ]
     },
     {
         "ElementName": "FloraMano",
@@ -3628,8 +3423,7 @@
         "Description": "",
         "Alias": [
             "FloraGrip"
-        ],
-        "Dev": []
+        ]
     },
     {
         "ElementName": "FloraParry",
@@ -3644,8 +3438,7 @@
         "Description": "",
         "Alias": [
             "FloraDeflect"
-        ],
-        "Dev": []
+        ]
     },
     {
         "ElementName": "FloraPassage",
@@ -3660,8 +3453,7 @@
         "Description": "",
         "Alias": [
             "FlorTraverse"
-        ],
-        "Dev": []
+        ]
     },
     {
         "ElementName": "FloraSnap",
@@ -3676,8 +3468,7 @@
         "Description": "",
         "Alias": [
             "FloraBreak"
-        ],
-        "Dev": []
+        ]
     },
     {
         "ElementName": "Frase",
@@ -3712,8 +3503,7 @@
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": [],
-        "Dev": []
+        "Alias": []
     },
     {
         "ElementName": "LogLaunch",
@@ -3728,8 +3518,7 @@
         "Description": "",
         "Alias": [
             "LogThrow"
-        ],
-        "Dev": []
+        ]
     },
     {
         "ElementName": "FloraMove",
@@ -3757,8 +3546,7 @@
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": [],
-        "Dev": []
+        "Alias": []
     },
     {
         "ElementName": "TrunkMove",
@@ -3771,8 +3559,7 @@
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": [],
-        "Dev": []
+        "Alias": []
     },
     {
         "ElementName": "FocusLook",
@@ -3785,8 +3572,7 @@
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": [],
-        "Dev": []
+        "Alias": []
     },
     {
         "ElementName": "Frase",
@@ -3821,8 +3607,7 @@
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": [],
-        "Dev": []
+        "Alias": []
     },
     {
         "ElementName": "HeadError",
@@ -3835,8 +3620,7 @@
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": [],
-        "Dev": []
+        "Alias": []
     },
     {
         "ElementName": "HeadProtraction",
@@ -3851,8 +3635,7 @@
         "Description": "",
         "Alias": [
             "move head forwards"
-        ],
-        "Dev": []
+        ]
     },
     {
         "ElementName": "HeadRetraction",
@@ -3867,8 +3650,7 @@
         "Description": "",
         "Alias": [
             "move head backwards"
-        ],
-        "Dev": []
+        ]
     },
     {
         "ElementName": "HeadTilt",
@@ -3881,8 +3663,7 @@
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": [],
-        "Dev": []
+        "Alias": []
     },
     {
         "ElementName": "ListenTo",
@@ -3895,8 +3676,7 @@
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": [],
-        "Dev": []
+        "Alias": []
     },
     {
         "ElementName": "LookAway",
@@ -3909,8 +3689,7 @@
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": [],
-        "Dev": []
+        "Alias": []
     },
     {
         "ElementName": "NeckExtension",
@@ -3926,8 +3705,7 @@
         "Alias": [
             "LookUp",
             "tilt head up"
-        ],
-        "Dev": []
+        ]
     },
     {
         "ElementName": "NeckFlexion",
@@ -3943,8 +3721,7 @@
         "Alias": [
             "LookDown",
             "tilt head down"
-        ],
-        "Dev": []
+        ]
     },
     {
         "ElementName": "HeadMove",
@@ -3969,8 +3746,7 @@
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": [],
-        "Dev": []
+        "Alias": []
     },
     {
         "ElementName": "Speak",
@@ -3985,8 +3761,7 @@
         "Description": "",
         "Alias": [
             "Talk"
-        ],
-        "Dev": []
+        ]
     },
     {
         "ElementName": "BootError",
@@ -3999,8 +3774,7 @@
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": [],
-        "Dev": []
+        "Alias": []
     },
     {
         "ElementName": "BootMano",
@@ -4015,8 +3789,7 @@
         "Description": "",
         "Alias": [
             "BootGrip"
-        ],
-        "Dev": []
+        ]
     },
     {
         "ElementName": "BootPreservation",
@@ -4029,8 +3802,7 @@
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": [],
-        "Dev": []
+        "Alias": []
     },
     {
         "ElementName": "BootSkreef",
@@ -4043,8 +3815,7 @@
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": [],
-        "Dev": []
+        "Alias": []
     },
     {
         "ElementName": "BootOff",
@@ -4057,8 +3828,7 @@
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": [],
-        "Dev": []
+        "Alias": []
     },
     {
         "ElementName": "BootOn",
@@ -4071,8 +3841,7 @@
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": [],
-        "Dev": []
+        "Alias": []
     },
     {
         "ElementName": "LaceLoosen",
@@ -4085,8 +3854,7 @@
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": [],
-        "Dev": []
+        "Alias": []
     },
     {
         "ElementName": "LaceTighten",
@@ -4099,8 +3867,7 @@
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": [],
-        "Dev": []
+        "Alias": []
     },
     {
         "ElementName": "Frase",
@@ -4135,8 +3902,7 @@
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": [],
-        "Dev": []
+        "Alias": []
     },
     {
         "ElementName": "LaceMove",
@@ -4149,8 +3915,7 @@
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": [],
-        "Dev": []
+        "Alias": []
     },
     {
         "ElementName": "BootMove",
@@ -4170,8 +3935,7 @@
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": [],
-        "Dev": []
+        "Alias": []
     },
     {
         "ElementName": "BottleMove",
@@ -4187,8 +3951,7 @@
         "Alias": [
             "Waterbottle",
             "Flask"
-        ],
-        "Dev": []
+        ]
     },
     {
         "ElementName": "BoxConstruct",
@@ -4205,8 +3968,7 @@
             "build a Box",
             "make a Box",
             "assemble a Box"
-        ],
-        "Dev": []
+        ]
     },
     {
         "ElementName": "BoxError",
@@ -4219,8 +3981,7 @@
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": [],
-        "Dev": []
+        "Alias": []
     },
     {
         "ElementName": "BoxLift",
@@ -4233,8 +3994,7 @@
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": [],
-        "Dev": []
+        "Alias": []
     },
     {
         "ElementName": "BoxLock",
@@ -4249,8 +4009,7 @@
         "Description": "",
         "Alias": [
             "BoxClose"
-        ],
-        "Dev": []
+        ]
     },
     {
         "ElementName": "BoxMano",
@@ -4265,8 +4024,7 @@
         "Description": "",
         "Alias": [
             "BoxGrip"
-        ],
-        "Dev": []
+        ]
     },
     {
         "ElementName": "BoxSlide",
@@ -4279,8 +4037,7 @@
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": [],
-        "Dev": []
+        "Alias": []
     },
     {
         "ElementName": "BoxTransport",
@@ -4295,8 +4052,7 @@
         "Description": "",
         "Alias": [
             "BoxCarry"
-        ],
-        "Dev": []
+        ]
     },
     {
         "ElementName": "BoxStack",
@@ -4309,8 +4065,7 @@
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": [],
-        "Dev": []
+        "Alias": []
     },
     {
         "ElementName": "Frase",
@@ -4345,8 +4100,7 @@
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": [],
-        "Dev": []
+        "Alias": []
     },
     {
         "ElementName": "BoxMove",
@@ -4368,8 +4122,7 @@
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": [],
-        "Dev": []
+        "Alias": []
     },
     {
         "ElementName": "BundleError",
@@ -4382,8 +4135,7 @@
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": [],
-        "Dev": []
+        "Alias": []
     },
     {
         "ElementName": "BundleMano",
@@ -4398,8 +4150,7 @@
         "Description": "",
         "Alias": [
             "BundleGrip"
-        ],
-        "Dev": []
+        ]
     },
     {
         "ElementName": "BundlePeel",
@@ -4412,8 +4163,7 @@
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": [],
-        "Dev": []
+        "Alias": []
     },
     {
         "ElementName": "BundleUnwrap",
@@ -4426,8 +4176,7 @@
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": [],
-        "Dev": []
+        "Alias": []
     },
     {
         "ElementName": "BundleCount",
@@ -4442,8 +4191,7 @@
         "Description": "",
         "Alias": [
             "Bundle counting"
-        ],
-        "Dev": []
+        ]
     },
     {
         "ElementName": "BundleAlloMano",
@@ -4456,8 +4204,7 @@
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": [],
-        "Dev": []
+        "Alias": []
     },
     {
         "ElementName": "BundleStack",
@@ -4470,8 +4217,7 @@
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": [],
-        "Dev": []
+        "Alias": []
     },
     {
         "ElementName": "Frase",
@@ -4506,8 +4252,7 @@
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": [],
-        "Dev": []
+        "Alias": []
     },
     {
         "ElementName": "BundleMove",
@@ -4526,8 +4271,7 @@
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": [],
-        "Dev": []
+        "Alias": []
     },
     {
         "ElementName": "DoruAmble",
@@ -4542,8 +4286,7 @@
         "Description": "",
         "Alias": [
             "StaffAmble"
-        ],
-        "Dev": []
+        ]
     },
     {
         "ElementName": "DoruAnkor",
@@ -4559,8 +4302,7 @@
         "Alias": [
             "StaffAnchor",
             "DoruAnchor"
-        ],
-        "Dev": []
+        ]
     },
     {
         "ElementName": "DoruBump",
@@ -4575,8 +4317,7 @@
         "Description": "",
         "Alias": [
             "StaffBump"
-        ],
-        "Dev": []
+        ]
     },
     {
         "ElementName": "DoruPont",
@@ -4592,8 +4333,7 @@
         "Alias": [
             "StaffBridge",
             "DoruBridge"
-        ],
-        "Dev": []
+        ]
     },
     {
         "ElementName": "DoruDrag",
@@ -4608,8 +4348,7 @@
         "Description": "",
         "Alias": [
             "StaffDrag"
-        ],
-        "Dev": []
+        ]
     },
     {
         "ElementName": "DoruError",
@@ -4624,8 +4363,7 @@
         "Description": "",
         "Alias": [
             "StaffError"
-        ],
-        "Dev": []
+        ]
     },
     {
         "ElementName": "DoruMano",
@@ -4640,8 +4378,7 @@
         "Description": "",
         "Alias": [
             "StaffGrip"
-        ],
-        "Dev": []
+        ]
     },
     {
         "ElementName": "DoruPogo",
@@ -4656,8 +4393,7 @@
         "Description": "",
         "Alias": [
             "StaffPogo"
-        ],
-        "Dev": []
+        ]
     },
     {
         "ElementName": "DoruPoke",
@@ -4672,8 +4408,7 @@
         "Description": "",
         "Alias": [
             "StaffPoke"
-        ],
-        "Dev": []
+        ]
     },
     {
         "ElementName": "DoruPost",
@@ -4690,8 +4425,7 @@
             "StaffPost",
             "StaffPlant",
             "DoruPlant"
-        ],
-        "Dev": []
+        ]
     },
     {
         "ElementName": "DoruAma",
@@ -4707,8 +4441,7 @@
         "Alias": [
             "DoruProp",
             "StaffProp"
-        ],
-        "Dev": []
+        ]
     },
     {
         "ElementName": "DoruPropel",
@@ -4724,8 +4457,7 @@
         "Alias": [
             "DoruSlam",
             "StaffSlam"
-        ],
-        "Dev": []
+        ]
     },
     {
         "ElementName": "DoruRotate",
@@ -4740,8 +4472,7 @@
         "Description": "",
         "Alias": [
             "StaffRotate"
-        ],
-        "Dev": []
+        ]
     },
     {
         "ElementName": "DoruSkreef",
@@ -4756,8 +4487,7 @@
         "Description": "",
         "Alias": [
             "StaffSkreef"
-        ],
-        "Dev": []
+        ]
     },
     {
         "ElementName": "DoruSlap",
@@ -4772,8 +4502,7 @@
         "Description": "",
         "Alias": [
             "StaffSlap"
-        ],
-        "Dev": []
+        ]
     },
     {
         "ElementName": "DoruSlide",
@@ -4788,8 +4517,7 @@
         "Description": "",
         "Alias": [
             "StaffSlide"
-        ],
-        "Dev": []
+        ]
     },
     {
         "ElementName": "DoruStall",
@@ -4804,8 +4532,7 @@
         "Description": "",
         "Alias": [
             "StaffStall"
-        ],
-        "Dev": []
+        ]
     },
     {
         "ElementName": "DoruStomp",
@@ -4820,8 +4547,7 @@
         "Description": "",
         "Alias": [
             "StaffStomp"
-        ],
-        "Dev": []
+        ]
     },
     {
         "ElementName": "DoruAllo",
@@ -4836,8 +4562,7 @@
         "Description": "",
         "Alias": [
             "StaffAllo"
-        ],
-        "Dev": []
+        ]
     },
     {
         "ElementName": "DoruOnda",
@@ -4853,8 +4578,7 @@
         "Alias": [
             "StaffOnda",
             "StaffSwing"
-        ],
-        "Dev": []
+        ]
     },
     {
         "ElementName": "DoruMove",
@@ -4889,8 +4613,7 @@
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": [],
-        "Dev": []
+        "Alias": []
     },
     {
         "ElementName": "GloveOff",
@@ -4903,8 +4626,7 @@
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": [],
-        "Dev": []
+        "Alias": []
     },
     {
         "ElementName": "GloveOn",
@@ -4917,8 +4639,7 @@
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": [],
-        "Dev": []
+        "Alias": []
     },
     {
         "ElementName": "Frase",
@@ -4953,8 +4674,7 @@
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": [],
-        "Dev": []
+        "Alias": []
     },
     {
         "ElementName": "GloveError",
@@ -4967,8 +4687,7 @@
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": [],
-        "Dev": []
+        "Alias": []
     },
     {
         "ElementName": "GloveMano",
@@ -4981,8 +4700,7 @@
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": [],
-        "Dev": []
+        "Alias": []
     },
     {
         "ElementName": "GlovePreservation",
@@ -4995,8 +4713,7 @@
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": [],
-        "Dev": []
+        "Alias": []
     },
     {
         "ElementName": "GloveMove",
@@ -5014,8 +4731,7 @@
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": [],
-        "Dev": []
+        "Alias": []
     },
     {
         "ElementName": "KarabinerError",
@@ -5030,8 +4746,7 @@
         "Description": "",
         "Alias": [
             "CarabinerError"
-        ],
-        "Dev": []
+        ]
     },
     {
         "ElementName": "KarabinerMove",
@@ -5048,8 +4763,7 @@
         "Description": "",
         "Alias": [
             "CarabinerMove"
-        ],
-        "Dev": []
+        ]
     },
     {
         "ElementName": "KitOffFrase",
@@ -5064,8 +4778,7 @@
         "Description": "",
         "Alias": [
             "CacheBag"
-        ],
-        "Dev": []
+        ]
     },
     {
         "ElementName": "KitOnFrase",
@@ -5078,8 +4791,7 @@
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": [],
-        "Dev": []
+        "Alias": []
     },
     {
         "ElementName": "Frase",
@@ -5114,8 +4826,7 @@
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": [],
-        "Dev": []
+        "Alias": []
     },
     {
         "ElementName": "KitError",
@@ -5130,8 +4841,7 @@
         "Description": "",
         "Alias": [
             "CacheBagError"
-        ],
-        "Dev": []
+        ]
     },
     {
         "ElementName": "KitPreservation",
@@ -5144,8 +4854,7 @@
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": [],
-        "Dev": []
+        "Alias": []
     },
     {
         "ElementName": "KitMove",
@@ -5164,8 +4873,7 @@
         "Description": "",
         "Alias": [
             "CacheBagMove"
-        ],
-        "Dev": []
+        ]
     },
     {
         "ElementName": "MarkaPut",
@@ -5180,8 +4888,7 @@
         "Description": "",
         "Alias": [
             "MarkaPlace"
-        ],
-        "Dev": []
+        ]
     },
     {
         "ElementName": "Frase",
@@ -5216,8 +4923,7 @@
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": [],
-        "Dev": []
+        "Alias": []
     },
     {
         "ElementName": "MarkaError",
@@ -5230,8 +4936,7 @@
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": [],
-        "Dev": []
+        "Alias": []
     },
     {
         "ElementName": "MarkaforMove",
@@ -5246,8 +4951,7 @@
         "Description": "",
         "Alias": [
             "FlaggerMove"
-        ],
-        "Dev": []
+        ]
     },
     {
         "ElementName": "MarkaKnot",
@@ -5262,8 +4966,7 @@
         "Description": "",
         "Alias": [
             "FlagKnot"
-        ],
-        "Dev": []
+        ]
     },
     {
         "ElementName": "MarkaLoad",
@@ -5278,8 +4981,7 @@
         "Description": "",
         "Alias": [
             "FlagLoad"
-        ],
-        "Dev": []
+        ]
     },
     {
         "ElementName": "MarkaMano",
@@ -5294,8 +4996,7 @@
         "Description": "",
         "Alias": [
             "FlagGrip"
-        ],
-        "Dev": []
+        ]
     },
     {
         "ElementName": "MarkaRip",
@@ -5310,8 +5011,7 @@
         "Description": "",
         "Alias": [
             "FlagRip"
-        ],
-        "Dev": []
+        ]
     },
     {
         "ElementName": "MarkaRoll",
@@ -5326,8 +5026,7 @@
         "Description": "",
         "Alias": [
             "FlagRoll"
-        ],
-        "Dev": []
+        ]
     },
     {
         "ElementName": "MarkaMove",
@@ -5349,8 +5048,7 @@
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": [],
-        "Dev": []
+        "Alias": []
     },
     {
         "ElementName": "InstrumentMove",
@@ -5381,8 +5079,7 @@
         "Description": "",
         "Alias": [
             "ToolMove"
-        ],
-        "Dev": []
+        ]
     },
     {
         "ElementName": "BackBagMove",
@@ -5395,8 +5092,7 @@
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": [],
-        "Dev": []
+        "Alias": []
     },
     {
         "ElementName": "BagEmpty",
@@ -5409,8 +5105,7 @@
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": [],
-        "Dev": []
+        "Alias": []
     },
     {
         "ElementName": "BagIn",
@@ -5425,8 +5120,7 @@
         "Description": "",
         "Alias": [
             "BagUp"
-        ],
-        "Dev": []
+        ]
     },
     {
         "ElementName": "BagLift",
@@ -5439,8 +5133,7 @@
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": [],
-        "Dev": []
+        "Alias": []
     },
     {
         "ElementName": "BagBlock",
@@ -5453,8 +5146,7 @@
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": [],
-        "Dev": []
+        "Alias": []
     },
     {
         "ElementName": "Frase",
@@ -5489,8 +5181,7 @@
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": [],
-        "Dev": []
+        "Alias": []
     },
     {
         "ElementName": "PlantaforMove",
@@ -5515,8 +5206,7 @@
         "Description": "",
         "Alias": [
             "PlantingBagsMove"
-        ],
-        "Dev": []
+        ]
     },
     {
         "ElementName": "PlantaforAdjust",
@@ -5531,8 +5221,7 @@
         "Description": "",
         "Alias": [
             "PlantingBagsAdjust"
-        ],
-        "Dev": []
+        ]
     },
     {
         "ElementName": "PlantaforError",
@@ -5547,8 +5236,7 @@
         "Description": "",
         "Alias": [
             "PlantingBagsError"
-        ],
-        "Dev": []
+        ]
     },
     {
         "ElementName": "PlantaforLift",
@@ -5563,8 +5251,7 @@
         "Description": "",
         "Alias": [
             "PlantingBagsLift"
-        ],
-        "Dev": []
+        ]
     },
     {
         "ElementName": "PlantaforOff",
@@ -5580,8 +5267,7 @@
         "Alias": [
             "PlantingBagsOff",
             "BagsOff"
-        ],
-        "Dev": []
+        ]
     },
     {
         "ElementName": "PlantaforOn",
@@ -5597,8 +5283,7 @@
         "Alias": [
             "bag on",
             "PlantingBagsOn"
-        ],
-        "Dev": []
+        ]
     },
     {
         "ElementName": "PlantaforPreservation",
@@ -5611,8 +5296,7 @@
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": [],
-        "Dev": []
+        "Alias": []
     },
     {
         "ElementName": "PlantaforSlide",
@@ -5625,8 +5309,7 @@
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": [],
-        "Dev": []
+        "Alias": []
     },
     {
         "ElementName": "PlantaforTransport",
@@ -5639,8 +5322,7 @@
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": [],
-        "Dev": []
+        "Alias": []
     },
     {
         "ElementName": "RadiorMove",
@@ -5657,8 +5339,7 @@
         "Description": "",
         "Alias": [
             "VambraceMove"
-        ],
-        "Dev": []
+        ]
     },
     {
         "ElementName": "RadiorPreservation",
@@ -5671,8 +5352,7 @@
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": [],
-        "Dev": []
+        "Alias": []
     },
     {
         "ElementName": "SewingFrase",
@@ -5685,8 +5365,7 @@
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": [],
-        "Dev": []
+        "Alias": []
     },
     {
         "ElementName": "RepairMove",
@@ -5701,8 +5380,7 @@
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": [],
-        "Dev": []
+        "Alias": []
     },
     {
         "ElementName": "RepairError",
@@ -5715,8 +5393,7 @@
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": [],
-        "Dev": []
+        "Alias": []
     },
     {
         "ElementName": "RopeMove",
@@ -5731,8 +5408,7 @@
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": [],
-        "Dev": []
+        "Alias": []
     },
     {
         "ElementName": "RopeError",
@@ -5745,8 +5421,7 @@
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": [],
-        "Dev": []
+        "Alias": []
     },
     {
         "ElementName": "CollarMano",
@@ -5761,8 +5436,7 @@
         "Description": "",
         "Alias": [
             "CollarGrip"
-        ],
-        "Dev": []
+        ]
     },
     {
         "ElementName": "SpadeTest",
@@ -5777,8 +5451,7 @@
         "Description": "",
         "Alias": [
             "SpadeProbe"
-        ],
-        "Dev": []
+        ]
     },
     {
         "ElementName": "SpadeMove",
@@ -5823,8 +5496,7 @@
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": [],
-        "Dev": []
+        "Alias": []
     },
     {
         "ElementName": "SpadeAma",
@@ -5839,8 +5511,7 @@
         "Description": "",
         "Alias": [
             "SpadeProp"
-        ],
-        "Dev": []
+        ]
     },
     {
         "ElementName": "SpadeAmble",
@@ -5855,8 +5526,7 @@
         "Description": "",
         "Alias": [
             "SpadeWalk"
-        ],
-        "Dev": []
+        ]
     },
     {
         "ElementName": "SpadeAnkor",
@@ -5869,8 +5539,7 @@
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": [],
-        "Dev": []
+        "Alias": []
     },
     {
         "ElementName": "SpadeBallista",
@@ -5885,8 +5554,7 @@
         "Description": "",
         "Alias": [
             "SpadeThrow"
-        ],
-        "Dev": []
+        ]
     },
     {
         "ElementName": "SpadeBlock",
@@ -5901,8 +5569,7 @@
         "Description": "",
         "Alias": [
             "SpadeDeflect"
-        ],
-        "Dev": []
+        ]
     },
     {
         "ElementName": "SpadeDendrektomi",
@@ -5919,8 +5586,7 @@
             "RemoveTree",
             "RemoveDendron",
             "pull a tree"
-        ],
-        "Dev": []
+        ]
     },
     {
         "ElementName": "SpadeOpen",
@@ -5933,8 +5599,7 @@
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": [],
-        "Dev": []
+        "Alias": []
     },
     {
         "ElementName": "SpadeDrag",
@@ -5947,8 +5612,7 @@
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": [],
-        "Dev": []
+        "Alias": []
     },
     {
         "ElementName": "SpadeError",
@@ -5961,8 +5625,7 @@
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": [],
-        "Dev": []
+        "Alias": []
     },
     {
         "ElementName": "SpadeHook",
@@ -5975,8 +5638,7 @@
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": [],
-        "Dev": []
+        "Alias": []
     },
     {
         "ElementName": "SpadeMano",
@@ -5991,8 +5653,7 @@
         "Description": "",
         "Alias": [
             "SpadeGrip"
-        ],
-        "Dev": []
+        ]
     },
     {
         "ElementName": "SpadeMuscleUp",
@@ -6005,8 +5666,7 @@
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": [],
-        "Dev": []
+        "Alias": []
     },
     {
         "ElementName": "SpadeOnda",
@@ -6023,8 +5683,7 @@
             "SpadeWhip",
             "SpadeSwing",
             "SpadeFlag"
-        ],
-        "Dev": []
+        ]
     },
     {
         "ElementName": "SpadePlastBimano",
@@ -6037,10 +5696,7 @@
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": [
-            "SpadeHandleMatch"
-        ],
-        "Dev": []
+        "Alias": ["SpadeHandleMatch"]
     },
     {
         "ElementName": "SpadePlastMano",
@@ -6053,10 +5709,7 @@
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": [
-            "SpadeHandleGrip"
-        ],
-        "Dev": []
+        "Alias": ["SpadeHandleGrip"]
     },
     {
         "ElementName": "SpadePogo",
@@ -6069,8 +5722,7 @@
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": [],
-        "Dev": []
+        "Alias": []
     },
     {
         "ElementName": "SpadePoke",
@@ -6083,8 +5735,7 @@
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": [],
-        "Dev": []
+        "Alias": []
     },
     {
         "ElementName": "SpadePost",
@@ -6097,10 +5748,7 @@
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": [
-            "SpadePlant"
-        ],
-        "Dev": []
+        "Alias": ["SpadePlant"]
     },
     {
         "ElementName": "SpadePreservation",
@@ -6113,10 +5761,7 @@
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": [
-            "SpadeCare"
-        ],
-        "Dev": []
+        "Alias": ["SpadeCare"]
     },
     {
         "ElementName": "SpadePropel",
@@ -6129,10 +5774,7 @@
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": [
-            "SpadeSlam"
-        ],
-        "Dev": []
+        "Alias": ["SpadeSlam"]
     },
     {
         "ElementName": "SpadePurga",
@@ -6145,10 +5787,7 @@
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": [
-            "SpadeClean"
-        ],
-        "Dev": []
+        "Alias": ["SpadeClean"]
     },
     {
         "ElementName": "SpadeRotate",
@@ -6161,8 +5800,7 @@
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": [],
-        "Dev": []
+        "Alias": []
     },
     {
         "ElementName": "SpadeKlose",
@@ -6175,10 +5813,7 @@
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": [
-            "SpadeClose"
-        ],
-        "Dev": []
+        "Alias": ["SpadeClose"]
     },
     {
         "ElementName": "SpadeSkreef",
@@ -6191,10 +5826,7 @@
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": [
-            "SpadeScreef"
-        ],
-        "Dev": []
+        "Alias": ["SpadeScreef"]
     },
     {
         "ElementName": "SpadeSlap",
@@ -6207,8 +5839,7 @@
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": [],
-        "Dev": []
+        "Alias": []
     },
     {
         "ElementName": "SpadeStall",
@@ -6221,8 +5852,7 @@
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": [],
-        "Dev": []
+        "Alias": []
     },
     {
         "ElementName": "SpadeStomp",
@@ -6235,8 +5865,7 @@
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": [],
-        "Dev": []
+        "Alias": []
     },
     {
         "ElementName": "SpadeTomi",
@@ -6249,8 +5878,7 @@
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": [],
-        "Dev": []
+        "Alias": []
     },
     {
         "ElementName": "SpadeAllo",
@@ -6263,11 +5891,7 @@
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": [
-            "HandAllo",
-            "AlloMano"
-        ],
-        "Dev": []
+        "Alias": ["HandAllo","AlloMano"]
     },
     {
         "ElementName": "SpadeTransport",
@@ -6280,8 +5904,7 @@
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": [],
-        "Dev": []
+        "Alias": []
     },
     {
         "ElementName": "Frase",
@@ -6316,8 +5939,7 @@
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": [],
-        "Dev": []
+        "Alias": []
     },
     {
         "ElementName": "TibiorOffFrase",
@@ -6330,8 +5952,7 @@
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": [],
-        "Dev": []
+        "Alias": []
     },
     {
         "ElementName": "TibiorOnFrase",
@@ -6344,8 +5965,7 @@
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": [],
-        "Dev": []
+        "Alias": []
     },
     {
         "ElementName": "TibiorMove",
@@ -6363,8 +5983,7 @@
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": [],
-        "Dev": []
+        "Alias": []
     },
     {
         "ElementName": "TibiorError",
@@ -6377,8 +5996,7 @@
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": [],
-        "Dev": []
+        "Alias": []
     },
     {
         "ElementName": "TibiorMano",
@@ -6391,8 +6009,7 @@
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": [],
-        "Dev": []
+        "Alias": []
     },
     {
         "ElementName": "TibiorPreservation",
@@ -6405,8 +6022,7 @@
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": [],
-        "Dev": []
+        "Alias": []
     },
     {
         "ElementName": "BagMano",
@@ -6419,8 +6035,7 @@
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": [],
-        "Dev": []
+        "Alias": []
     },
     {
         "ElementName": "BoxMano",
@@ -6433,8 +6048,7 @@
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": [],
-        "Dev": []
+        "Alias": []
     },
     {
         "ElementName": "Frase",
@@ -6469,8 +6083,7 @@
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": [],
-        "Dev": []
+        "Alias": []
     },
     {
         "ElementName": "ManoCompress",
@@ -6483,8 +6096,7 @@
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": [],
-        "Dev": []
+        "Alias": []
     },
     {
         "ElementName": "ManoDig",
@@ -6497,8 +6109,7 @@
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": [],
-        "Dev": []
+        "Alias": []
     },
     {
         "ElementName": "ManoOrbit",
@@ -6511,8 +6122,7 @@
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": [],
-        "Dev": []
+        "Alias": []
     },
     {
         "ElementName": "ManoPoke",
@@ -6525,8 +6135,7 @@
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": [],
-        "Dev": []
+        "Alias": []
     },
     {
         "ElementName": "HammerKlose",
@@ -6539,8 +6148,7 @@
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": [],
-        "Dev": []
+        "Alias": []
     },
     {
         "ElementName": "ManoDragKlose",
@@ -6553,8 +6161,7 @@
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": [],
-        "Dev": []
+        "Alias": []
     },
     {
         "ElementName": "ManoKlose",
@@ -6573,8 +6180,7 @@
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": [],
-        "Dev": []
+        "Alias": []
     },
     {
         "ElementName": "PalmKlose",
@@ -6587,8 +6193,7 @@
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": [],
-        "Dev": []
+        "Alias": []
     },
     {
         "ElementName": "PunchKlose",
@@ -6601,8 +6206,7 @@
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": [],
-        "Dev": []
+        "Alias": []
     },
     {
         "ElementName": "SlapKlose",
@@ -6615,8 +6219,7 @@
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": [],
-        "Dev": []
+        "Alias": []
     },
     {
         "ElementName": "ManoSkreef",
@@ -6629,8 +6232,7 @@
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": [],
-        "Dev": []
+        "Alias": []
     },
     {
         "ElementName": "ManoSlide",
@@ -6643,8 +6245,7 @@
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": [],
-        "Dev": []
+        "Alias": []
     },
     {
         "ElementName": "ManoMove",
@@ -6668,8 +6269,7 @@
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": [],
-        "Dev": []
+        "Alias": []
     },
     {
         "ElementName": "MoveElements",
@@ -6695,8 +6295,7 @@
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": [],
-        "Dev": []
+        "Alias": []
     },
     {
         "ElementName": "Frase",
@@ -6731,8 +6330,7 @@
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": [],
-        "Dev": []
+        "Alias": []
     },
     {
         "ElementName": "SiteMove",
@@ -6756,8 +6354,7 @@
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": [],
-        "Dev": []
+        "Alias": []
     },
     {
         "ElementName": "SiteOpen",
@@ -6770,11 +6367,7 @@
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": [
-            "open a hole",
-            "OpenHole"
-        ],
-        "Dev": []
+        "Alias": ["open a hole","OpenHole"]
     },
     {
         "ElementName": "SiteEnter",
@@ -6787,8 +6380,7 @@
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": [],
-        "Dev": []
+        "Alias": []
     },
     {
         "ElementName": "SiteError",
@@ -6801,8 +6393,7 @@
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": [],
-        "Dev": []
+        "Alias": []
     },
     {
         "ElementName": "SiteEval",
@@ -6815,8 +6406,7 @@
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": [],
-        "Dev": []
+        "Alias": []
     },
     {
         "ElementName": "SiteExtract",
@@ -6829,8 +6419,7 @@
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": [],
-        "Dev": []
+        "Alias": []
     },
     {
         "ElementName": "SiteMark",
@@ -6843,8 +6432,7 @@
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": [],
-        "Dev": []
+        "Alias": []
     },
     {
         "ElementName": "SiteKlose",
@@ -6857,8 +6445,7 @@
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": [],
-        "Dev": []
+        "Alias": []
     },
     {
         "ElementName": "SiteSelect",
@@ -6871,8 +6458,7 @@
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": [],
-        "Dev": []
+        "Alias": []
     },
     {
         "ElementName": "SiteSkreef",
@@ -6885,8 +6471,7 @@
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": [],
-        "Dev": []
+        "Alias": []
     },
     {
         "ElementName": "TruckSequence",
@@ -6899,8 +6484,7 @@
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": [],
-        "Dev": []
+        "Alias": []
     },
     {
         "ElementName": "TruckMove",
@@ -6917,8 +6501,7 @@
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": [],
-        "Dev": []
+        "Alias": []
     },
     {
         "ElementName": "TruckError",
@@ -6931,8 +6514,7 @@
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": [],
-        "Dev": []
+        "Alias": []
     },
     {
         "ElementName": "TruckSit",
@@ -6945,8 +6527,7 @@
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": [],
-        "Dev": []
+        "Alias": []
     },
     {
         "ElementName": "TruckSleep",
@@ -6959,8 +6540,7 @@
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": [],
-        "Dev": []
+        "Alias": []
     },
     {
         "ElementName": "MoveCoverage",
@@ -6973,8 +6553,7 @@
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": [],
-        "Dev": []
+        "Alias": []
     },
     {
         "ElementName": "MoveDensity",
@@ -6987,8 +6566,7 @@
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": [],
-        "Dev": []
+        "Alias": []
     },
     {
         "ElementName": "BaseExtreme",
@@ -7001,8 +6579,7 @@
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": [],
-        "Dev": []
+        "Alias": []
     },
     {
         "ElementName": "BrazoExtreme",
@@ -7015,8 +6592,7 @@
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": [],
-        "Dev": []
+        "Alias": []
     },
     {
         "ElementName": "MoveExtreme",
@@ -7032,8 +6608,7 @@
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": [],
-        "Dev": []
+        "Alias": []
     },
     {
         "ElementName": "MoveLine",
@@ -7046,8 +6621,7 @@
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": [],
-        "Dev": []
+        "Alias": []
     },
     {
         "ElementName": "MoveSpace",
@@ -7060,8 +6634,7 @@
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": [],
-        "Dev": []
+        "Alias": []
     },
     {
         "ElementName": "MoveSimbols",
@@ -7074,8 +6647,7 @@
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": [],
-        "Dev": []
+        "Alias": []
     },
     {
         "ElementName": "MoveTeori",
@@ -7093,8 +6665,7 @@
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": [],
-        "Dev": []
+        "Alias": []
     },
     {
         "ElementName": "PsikeOverview",
@@ -7107,8 +6678,7 @@
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": [],
-        "Dev": []
+        "Alias": []
     },
     {
         "ElementName": "Arousal",
@@ -7121,8 +6691,7 @@
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": [],
-        "Dev": []
+        "Alias": []
     },
     {
         "ElementName": "Attention",
@@ -7135,8 +6704,7 @@
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": [],
-        "Dev": []
+        "Alias": []
     },
     {
         "ElementName": "BranchBreakSound",
@@ -7149,8 +6717,7 @@
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": [],
-        "Dev": []
+        "Alias": []
     },
     {
         "ElementName": "LogBreakSound",
@@ -7163,8 +6730,7 @@
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": [],
-        "Dev": []
+        "Alias": []
     },
     {
         "ElementName": "Music",
@@ -7179,8 +6745,7 @@
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": [],
-        "Dev": []
+        "Alias": []
     },
     {
         "ElementName": "Playlists",
@@ -7193,8 +6758,7 @@
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": [],
-        "Dev": []
+        "Alias": []
     },
     {
         "ElementName": "Audio",
@@ -7214,8 +6778,7 @@
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": [],
-        "Dev": []
+        "Alias": []
     },
     {
         "ElementName": "SlashSound",
@@ -7228,8 +6791,7 @@
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": [],
-        "Dev": []
+        "Alias": []
     },
     {
         "ElementName": "SoilSound",
@@ -7242,8 +6804,7 @@
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": [],
-        "Dev": []
+        "Alias": []
     },
     {
         "ElementName": "SpadeSound",
@@ -7256,8 +6817,7 @@
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": [],
-        "Dev": []
+        "Alias": []
     },
     {
         "ElementName": "Avoidance",
@@ -7270,8 +6830,7 @@
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": [],
-        "Dev": []
+        "Alias": []
     },
     {
         "ElementName": "Awareness",
@@ -7284,8 +6843,7 @@
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": [],
-        "Dev": []
+        "Alias": []
     },
     {
         "ElementName": "Compassion",
@@ -7298,8 +6856,7 @@
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": [],
-        "Dev": []
+        "Alias": []
     },
     {
         "ElementName": "Competition",
@@ -7312,8 +6869,7 @@
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": [],
-        "Dev": []
+        "Alias": []
     },
     {
         "ElementName": "CompressionSense",
@@ -7326,8 +6882,7 @@
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": [],
-        "Dev": []
+        "Alias": []
     },
     {
         "ElementName": "Confidence",
@@ -7340,8 +6895,7 @@
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": [],
-        "Dev": []
+        "Alias": []
     },
     {
         "ElementName": "ControlFlow",
@@ -7354,8 +6908,7 @@
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": [],
-        "Dev": []
+        "Alias": []
     },
     {
         "ElementName": "BundleCounting",
@@ -7368,8 +6921,7 @@
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": [],
-        "Dev": []
+        "Alias": []
     },
     {
         "ElementName": "Counting",
@@ -7385,8 +6937,7 @@
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": [],
-        "Dev": []
+        "Alias": []
     },
     {
         "ElementName": "StepCount",
@@ -7399,8 +6950,7 @@
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": [],
-        "Dev": []
+        "Alias": []
     },
     {
         "ElementName": "BagUpSizeDecision",
@@ -7413,8 +6963,7 @@
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": [],
-        "Dev": []
+        "Alias": []
     },
     {
         "ElementName": "GoOrNoGo",
@@ -7427,8 +6976,7 @@
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": [],
-        "Dev": []
+        "Alias": []
     },
     {
         "ElementName": "MicrositeSelection",
@@ -7441,8 +6989,7 @@
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": [],
-        "Dev": []
+        "Alias": []
     },
     {
         "ElementName": "Decision",
@@ -7459,8 +7006,7 @@
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": [],
-        "Dev": []
+        "Alias": []
     },
     {
         "ElementName": "Anger",
@@ -7473,8 +7019,7 @@
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": [],
-        "Dev": []
+        "Alias": []
     },
     {
         "ElementName": "Disgust",
@@ -7487,8 +7032,7 @@
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": [],
-        "Dev": []
+        "Alias": []
     },
     {
         "ElementName": "Fear",
@@ -7501,8 +7045,7 @@
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": [],
-        "Dev": []
+        "Alias": []
     },
     {
         "ElementName": "Joy",
@@ -7515,8 +7058,7 @@
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": [],
-        "Dev": []
+        "Alias": []
     },
     {
         "ElementName": "Emotion",
@@ -7535,8 +7077,7 @@
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": [],
-        "Dev": []
+        "Alias": []
     },
     {
         "ElementName": "Sadness",
@@ -7549,8 +7090,7 @@
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": [],
-        "Dev": []
+        "Alias": []
     },
     {
         "ElementName": "Fatigue",
@@ -7563,8 +7103,7 @@
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": [],
-        "Dev": []
+        "Alias": []
     },
     {
         "ElementName": "Energy",
@@ -7579,8 +7118,7 @@
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": [],
-        "Dev": []
+        "Alias": []
     },
     {
         "ElementName": "BagFillEstimation",
@@ -7593,8 +7131,7 @@
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": [],
-        "Dev": []
+        "Alias": []
     },
     {
         "ElementName": "Estimation",
@@ -7611,8 +7148,7 @@
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": [],
-        "Dev": []
+        "Alias": []
     },
     {
         "ElementName": "SpaceEstimation",
@@ -7625,8 +7161,7 @@
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": [],
-        "Dev": []
+        "Alias": []
     },
     {
         "ElementName": "TimeEstimation",
@@ -7639,8 +7174,7 @@
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": [],
-        "Dev": []
+        "Alias": []
     },
     {
         "ElementName": "Event",
@@ -7653,8 +7187,7 @@
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": [],
-        "Dev": []
+        "Alias": []
     },
     {
         "ElementName": "Homeostasis",
@@ -7667,8 +7200,7 @@
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": [],
-        "Dev": []
+        "Alias": []
     },
     {
         "ElementName": "Judgement",
@@ -7681,8 +7213,7 @@
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": [],
-        "Dev": []
+        "Alias": []
     },
     {
         "ElementName": "Learning",
@@ -7695,8 +7226,7 @@
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": [],
-        "Dev": []
+        "Alias": []
     },
     {
         "ElementName": "LongTermMemory",
@@ -7709,8 +7239,7 @@
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": [],
-        "Dev": []
+        "Alias": []
     },
     {
         "ElementName": "NumberMemory",
@@ -7723,8 +7252,7 @@
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": [],
-        "Dev": []
+        "Alias": []
     },
     {
         "ElementName": "Memory",
@@ -7743,8 +7271,7 @@
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": [],
-        "Dev": []
+        "Alias": []
     },
     {
         "ElementName": "ShortTermMemory",
@@ -7757,8 +7284,7 @@
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": [],
-        "Dev": []
+        "Alias": []
     },
     {
         "ElementName": "ViaMemory",
@@ -7771,8 +7297,7 @@
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": [],
-        "Dev": []
+        "Alias": []
     },
     {
         "ElementName": "WorkingMemory",
@@ -7785,8 +7310,7 @@
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": [],
-        "Dev": []
+        "Alias": []
     },
     {
         "ElementName": "Mindfulness",
@@ -7799,8 +7323,7 @@
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": [],
-        "Dev": []
+        "Alias": []
     },
     {
         "ElementName": "Mindset",
@@ -7813,8 +7336,7 @@
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": [],
-        "Dev": []
+        "Alias": []
     },
     {
         "ElementName": "Muscle",
@@ -7827,8 +7349,7 @@
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": [],
-        "Dev": []
+        "Alias": []
     },
     {
         "ElementName": "FlowState",
@@ -7841,8 +7362,7 @@
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": [],
-        "Dev": []
+        "Alias": []
     },
     {
         "ElementName": "NeuroState",
@@ -7857,8 +7377,7 @@
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": [],
-        "Dev": []
+        "Alias": []
     },
     {
         "ElementName": "Proprioception",
@@ -7871,8 +7390,7 @@
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": [],
-        "Dev": []
+        "Alias": []
     },
     {
         "ElementName": "Resilience",
@@ -7885,8 +7403,7 @@
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": [],
-        "Dev": []
+        "Alias": []
     },
     {
         "ElementName": "SpatialCognition",
@@ -7899,8 +7416,7 @@
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": [],
-        "Dev": []
+        "Alias": []
     },
     {
         "ElementName": "BagOutTime",
@@ -7913,8 +7429,7 @@
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": [],
-        "Dev": []
+        "Alias": []
     },
     {
         "ElementName": "CacheTime",
@@ -7927,8 +7442,7 @@
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": [],
-        "Dev": []
+        "Alias": []
     },
     {
         "ElementName": "DailySchedule",
@@ -7941,8 +7455,7 @@
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": [],
-        "Dev": []
+        "Alias": []
     },
     {
         "ElementName": "MoveTiming",
@@ -7955,8 +7468,7 @@
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": [],
-        "Dev": []
+        "Alias": []
     },
     {
         "ElementName": "Time",
@@ -7980,8 +7492,7 @@
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": [],
-        "Dev": []
+        "Alias": []
     },
     {
         "ElementName": "Planning",
@@ -7994,8 +7505,7 @@
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": [],
-        "Dev": []
+        "Alias": []
     },
     {
         "ElementName": "Timer",
@@ -8008,8 +7518,7 @@
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": [],
-        "Dev": []
+        "Alias": []
     },
     {
         "ElementName": "RefOverview",
@@ -8022,8 +7531,7 @@
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": [],
-        "Dev": []
+        "Alias": []
     },
     {
         "ElementName": "InputElement.py",
@@ -8036,8 +7544,7 @@
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": [],
-        "Dev": []
+        "Alias": []
     },
     {
         "ElementName": "Skema",
@@ -8053,8 +7560,7 @@
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": [],
-        "Dev": []
+        "Alias": []
     },
     {
         "ElementName": "Skema_AllElements.json",
@@ -8067,8 +7573,7 @@
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": [],
-        "Dev": []
+        "Alias": []
     },
     {
         "ElementName": "FastLand",
@@ -8081,8 +7586,7 @@
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": [],
-        "Dev": []
+        "Alias": []
     },
     {
         "ElementName": "LandSpeed",
@@ -8098,8 +7602,7 @@
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": [],
-        "Dev": []
+        "Alias": []
     },
     {
         "ElementName": "SlowLand",
@@ -8112,8 +7615,7 @@
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": [],
-        "Dev": []
+        "Alias": []
     },
     {
         "ElementName": "ViaMetron",
@@ -8131,8 +7633,7 @@
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": [],
-        "Dev": []
+        "Alias": []
     },
     {
         "ElementName": "ViaKratos",
@@ -8145,8 +7646,7 @@
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": [],
-        "Dev": []
+        "Alias": []
     },
     {
         "ElementName": "ViaKuboi",
@@ -8159,8 +7659,7 @@
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": [],
-        "Dev": []
+        "Alias": []
     },
     {
         "ElementName": "ViaTeknik",
@@ -8173,8 +7672,7 @@
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": [],
-        "Dev": []
+        "Alias": []
     },
     {
         "ElementName": "ViaOverview",
@@ -8187,8 +7685,7 @@
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": [],
-        "Dev": []
+        "Alias": []
     },
     {
         "ElementName": "FillPlanSelection",
@@ -8201,8 +7698,7 @@
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": [],
-        "Dev": []
+        "Alias": []
     },
     {
         "ElementName": "ViaError",
@@ -8215,8 +7711,7 @@
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": [],
-        "Dev": []
+        "Alias": []
     },
     {
         "ElementName": "ViaElements",
@@ -8232,8 +7727,7 @@
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": [],
-        "Dev": []
+        "Alias": []
     },
     {
         "ElementName": "ViaAxiom",
@@ -8246,8 +7740,7 @@
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": [],
-        "Dev": []
+        "Alias": []
     },
     {
         "ElementName": "Density",
@@ -8260,8 +7753,7 @@
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": [],
-        "Dev": []
+        "Alias": []
     },
     {
         "ElementName": "CardinalDirection",
@@ -8274,8 +7766,7 @@
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": [],
-        "Dev": []
+        "Alias": []
     },
     {
         "ElementName": "Direction",
@@ -8291,8 +7782,7 @@
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": [],
-        "Dev": []
+        "Alias": []
     },
     {
         "ElementName": "AnteriorDirection",
@@ -8305,8 +7795,7 @@
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": [],
-        "Dev": []
+        "Alias": []
     },
     {
         "ElementName": "DiaDirection",
@@ -8319,8 +7808,7 @@
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": [],
-        "Dev": []
+        "Alias": []
     },
     {
         "ElementName": "EktoDirection",
@@ -8333,8 +7821,7 @@
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": [],
-        "Dev": []
+        "Alias": []
     },
     {
         "ElementName": "InDirection",
@@ -8347,8 +7834,7 @@
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": [],
-        "Dev": []
+        "Alias": []
     },
     {
         "ElementName": "OnDirection",
@@ -8361,8 +7847,7 @@
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": [],
-        "Dev": []
+        "Alias": []
     },
     {
         "ElementName": "OverDirection",
@@ -8375,8 +7860,7 @@
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": [],
-        "Dev": []
+        "Alias": []
     },
     {
         "ElementName": "RelativeDirection",
@@ -8402,8 +7886,7 @@
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": [],
-        "Dev": []
+        "Alias": []
     },
     {
         "ElementName": "ParaDirection",
@@ -8416,8 +7899,7 @@
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": [],
-        "Dev": []
+        "Alias": []
     },
     {
         "ElementName": "PeriDirection",
@@ -8430,8 +7912,7 @@
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": [],
-        "Dev": []
+        "Alias": []
     },
     {
         "ElementName": "PosteriorDirection",
@@ -8444,8 +7925,7 @@
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": [],
-        "Dev": []
+        "Alias": []
     },
     {
         "ElementName": "ProgressDirection",
@@ -8458,8 +7938,7 @@
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": [],
-        "Dev": []
+        "Alias": []
     },
     {
         "ElementName": "ProximalDirection",
@@ -8472,8 +7951,7 @@
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": [],
-        "Dev": []
+        "Alias": []
     },
     {
         "ElementName": "RegressDirection",
@@ -8486,8 +7964,7 @@
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": [],
-        "Dev": []
+        "Alias": []
     },
     {
         "ElementName": "Fill",
@@ -8504,8 +7981,7 @@
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": [],
-        "Dev": []
+        "Alias": []
     },
     {
         "ElementName": "Kontakt",
@@ -8518,8 +7994,7 @@
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": [],
-        "Dev": []
+        "Alias": []
     },
     {
         "ElementName": "Limit",
@@ -8532,8 +8007,7 @@
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": [],
-        "Dev": []
+        "Alias": []
     },
     {
         "ElementName": "Line",
@@ -8546,8 +8020,7 @@
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": [],
-        "Dev": []
+        "Alias": []
     },
     {
         "ElementName": "Marka",
@@ -8560,8 +8033,7 @@
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": [],
-        "Dev": []
+        "Alias": []
     },
     {
         "ElementName": "CenterPoint",
@@ -8574,8 +8046,7 @@
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": [],
-        "Dev": []
+        "Alias": []
     },
     {
         "ElementName": "InflectionPoint",
@@ -8588,8 +8059,7 @@
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": [],
-        "Dev": []
+        "Alias": []
     },
     {
         "ElementName": "MidPoint",
@@ -8602,8 +8072,7 @@
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": [],
-        "Dev": []
+        "Alias": []
     },
     {
         "ElementName": "Point",
@@ -8625,8 +8094,7 @@
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": [],
-        "Dev": []
+        "Alias": []
     },
     {
         "ElementName": "ReferencePoint",
@@ -8639,8 +8107,7 @@
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": [],
-        "Dev": []
+        "Alias": []
     },
     {
         "ElementName": "ReflectionPoint",
@@ -8653,8 +8120,7 @@
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": [],
-        "Dev": []
+        "Alias": []
     },
     {
         "ElementName": "TargetPoint",
@@ -8667,8 +8133,7 @@
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": [],
-        "Dev": []
+        "Alias": []
     },
     {
         "ElementName": "VertexPoint",
@@ -8681,8 +8146,7 @@
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": [],
-        "Dev": []
+        "Alias": []
     },
     {
         "ElementName": "Viewpoint",
@@ -8695,8 +8159,7 @@
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": [],
-        "Dev": []
+        "Alias": []
     },
     {
         "ElementName": "Space",
@@ -8709,8 +8172,7 @@
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": [],
-        "Dev": []
+        "Alias": []
     },
     {
         "ElementName": "AnteTime",
@@ -8723,8 +8185,7 @@
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": [],
-        "Dev": []
+        "Alias": []
     },
     {
         "ElementName": "DuringTime",
@@ -8737,8 +8198,7 @@
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": [],
-        "Dev": []
+        "Alias": []
     },
     {
         "ElementName": "Time",
@@ -8762,8 +8222,7 @@
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": [],
-        "Dev": []
+        "Alias": []
     },
     {
         "ElementName": "PostTime",
@@ -8776,8 +8235,7 @@
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": [],
-        "Dev": []
+        "Alias": []
     },
     {
         "ElementName": "Speed",
@@ -8790,8 +8248,7 @@
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": [],
-        "Dev": []
+        "Alias": []
     },
     {
         "ElementName": "Vium",
@@ -8804,8 +8261,7 @@
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": [],
-        "Dev": []
+        "Alias": []
     },
     {
         "ElementName": "ViaPropositions",
@@ -8821,8 +8277,7 @@
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": [],
-        "Dev": []
+        "Alias": []
     },
     {
         "ElementName": "Alignment",
@@ -8835,8 +8290,7 @@
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": [],
-        "Dev": []
+        "Alias": []
     },
     {
         "ElementName": "ObstacleFill",
@@ -8849,8 +8303,7 @@
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": [],
-        "Dev": []
+        "Alias": []
     },
     {
         "ElementName": "Fill",
@@ -8867,8 +8320,7 @@
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": [],
-        "Dev": []
+        "Alias": []
     },
     {
         "ElementName": "BouncingFill",
@@ -8881,8 +8333,7 @@
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": [],
-        "Dev": []
+        "Alias": []
     },
     {
         "ElementName": "CrossingFill",
@@ -8895,8 +8346,7 @@
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": [],
-        "Dev": []
+        "Alias": []
     },
     {
         "ElementName": "TeamFill",
@@ -8912,8 +8362,7 @@
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": [],
-        "Dev": []
+        "Alias": []
     },
     {
         "ElementName": "ApogeeFill",
@@ -8926,8 +8375,7 @@
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": [],
-        "Dev": []
+        "Alias": []
     },
     {
         "ElementName": "DivFill",
@@ -8940,8 +8388,7 @@
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": [],
-        "Dev": []
+        "Alias": []
     },
     {
         "ElementName": "OpenEndedFill",
@@ -8954,8 +8401,7 @@
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": [],
-        "Dev": []
+        "Alias": []
     },
     {
         "ElementName": "ZoneFill",
@@ -8975,8 +8421,7 @@
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": [],
-        "Dev": []
+        "Alias": []
     },
     {
         "ElementName": "ParaBorderFill",
@@ -8989,8 +8434,7 @@
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": [],
-        "Dev": []
+        "Alias": []
     },
     {
         "ElementName": "PerimeterFill",
@@ -9003,8 +8447,7 @@
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": [],
-        "Dev": []
+        "Alias": []
     },
     {
         "ElementName": "StraigtenFill",
@@ -9017,8 +8460,7 @@
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": [],
-        "Dev": []
+        "Alias": []
     },
     {
         "ElementName": "DecreaseDensity",
@@ -9031,8 +8473,7 @@
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": [],
-        "Dev": []
+        "Alias": []
     },
     {
         "ElementName": "IncreaseDensity",
@@ -9045,8 +8486,7 @@
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": [],
-        "Dev": []
+        "Alias": []
     },
     {
         "ElementName": "ViaProblem",
@@ -9063,8 +8503,7 @@
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": [],
-        "Dev": []
+        "Alias": []
     },
     {
         "ElementName": "BisectLine",
@@ -9077,8 +8516,7 @@
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": [],
-        "Dev": []
+        "Alias": []
     },
     {
         "ElementName": "BLine",
@@ -9091,8 +8529,7 @@
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": [],
-        "Dev": []
+        "Alias": []
     },
     {
         "ElementName": "NeoSitePolygon",
@@ -9110,8 +8547,7 @@
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": [],
-        "Dev": []
+        "Alias": []
     },
     {
         "ElementName": "SiteDiamond",
@@ -9124,8 +8560,7 @@
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": [],
-        "Dev": []
+        "Alias": []
     },
     {
         "ElementName": "SiteSquare",
@@ -9138,8 +8573,7 @@
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": [],
-        "Dev": []
+        "Alias": []
     },
     {
         "ElementName": "SiteTrapezoid",
@@ -9152,8 +8586,7 @@
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": [],
-        "Dev": []
+        "Alias": []
     },
     {
         "ElementName": "SiteTriangle",
@@ -9166,8 +8599,7 @@
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": [],
-        "Dev": []
+        "Alias": []
     },
     {
         "ElementName": "AdaptiveProximity",
@@ -9180,8 +8612,7 @@
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": [],
-        "Dev": []
+        "Alias": []
     },
     {
         "ElementName": "RigidProximity",
@@ -9194,8 +8625,7 @@
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": [],
-        "Dev": []
+        "Alias": []
     },
     {
         "ElementName": "SlopedProximity",
@@ -9208,8 +8638,7 @@
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": [],
-        "Dev": []
+        "Alias": []
     },
     {
         "ElementName": "SelectNeosite",
@@ -9224,8 +8653,7 @@
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": [],
-        "Dev": []
+        "Alias": []
     },
     {
         "ElementName": "Plot",
@@ -9238,8 +8666,7 @@
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": [],
-        "Dev": []
+        "Alias": []
     },
     {
         "ElementName": "KontaktDensity",
@@ -9252,8 +8679,7 @@
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": [],
-        "Dev": []
+        "Alias": []
     },
     {
         "ElementName": "BoustroLine",
@@ -9266,8 +8692,7 @@
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": [],
-        "Dev": []
+        "Alias": []
     },
     {
         "ElementName": "CircumventLine",
@@ -9280,8 +8705,7 @@
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": [],
-        "Dev": []
+        "Alias": []
     },
     {
         "ElementName": "GhostLine",
@@ -9294,8 +8718,7 @@
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": [],
-        "Dev": []
+        "Alias": []
     },
     {
         "ElementName": "HypotenuseLine",
@@ -9308,8 +8731,7 @@
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": [],
-        "Dev": []
+        "Alias": []
     },
     {
         "ElementName": "OrbitLine",
@@ -9322,8 +8744,7 @@
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": [],
-        "Dev": []
+        "Alias": []
     },
     {
         "ElementName": "LineTeorem",
@@ -9349,8 +8770,7 @@
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": [],
-        "Dev": []
+        "Alias": []
     },
     {
         "ElementName": "RacingLine",
@@ -9363,8 +8783,7 @@
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": [],
-        "Dev": []
+        "Alias": []
     },
     {
         "ElementName": "RotationLine",
@@ -9377,8 +8796,7 @@
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": [],
-        "Dev": []
+        "Alias": []
     },
     {
         "ElementName": "SpiralLine",
@@ -9391,8 +8809,7 @@
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": [],
-        "Dev": []
+        "Alias": []
     },
     {
         "ElementName": "StraightLine",
@@ -9405,8 +8822,7 @@
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": [],
-        "Dev": []
+        "Alias": []
     },
     {
         "ElementName": "AmbleInLine",
@@ -9419,8 +8835,7 @@
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": [],
-        "Dev": []
+        "Alias": []
     },
     {
         "ElementName": "AmbleoutLine",
@@ -9433,8 +8848,7 @@
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": [],
-        "Dev": []
+        "Alias": []
     },
     {
         "ElementName": "ZigzagLine",
@@ -9447,8 +8861,7 @@
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": [],
-        "Dev": []
+        "Alias": []
     },
     {
         "ElementName": "BorderMarka",
@@ -9461,8 +8874,7 @@
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": [],
-        "Dev": []
+        "Alias": []
     },
     {
         "ElementName": "HighMarka",
@@ -9475,8 +8887,7 @@
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": [],
-        "Dev": []
+        "Alias": []
     },
     {
         "ElementName": "LineInMarka",
@@ -9489,8 +8900,7 @@
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": [],
-        "Dev": []
+        "Alias": []
     },
     {
         "ElementName": "NaturalMarka",
@@ -9503,8 +8913,7 @@
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": [],
-        "Dev": []
+        "Alias": []
     },
     {
         "ElementName": "SiteMarka",
@@ -9519,8 +8928,7 @@
         "Description": "",
         "Alias": [
             "TreeMarka"
-        ],
-        "Dev": []
+        ]
     },
     {
         "ElementName": "TrenchExitMarka",
@@ -9535,8 +8943,7 @@
         "Description": "",
         "Alias": [
             "TrenchExitFlag"
-        ],
-        "Dev": []
+        ]
     },
     {
         "ElementName": "WastedMarka",
@@ -9553,8 +8960,7 @@
         "Description": "",
         "Alias": [
             "WastedFlag"
-        ],
-        "Dev": []
+        ]
     },
     {
         "ElementName": "ZoneMarka",
@@ -9569,8 +8975,7 @@
         "Description": "",
         "Alias": [
             "AreaFlagging"
-        ],
-        "Dev": []
+        ]
     },
     {
         "ElementName": "ViaTeorem",
@@ -9586,8 +8991,7 @@
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": [],
-        "Dev": []
+        "Alias": []
     },
     {
         "ElementName": "FillBlock",
@@ -9600,8 +9004,7 @@
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": [],
-        "Dev": []
+        "Alias": []
     },
     {
         "ElementName": "Block",
@@ -9616,8 +9019,7 @@
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": [],
-        "Dev": []
+        "Alias": []
     },
     {
         "ElementName": "Border",
@@ -9630,8 +9032,7 @@
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": [],
-        "Dev": []
+        "Alias": []
     },
     {
         "ElementName": "Div",
@@ -9644,8 +9045,7 @@
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": [],
-        "Dev": []
+        "Alias": []
     },
     {
         "ElementName": "Obstacle",
@@ -9658,8 +9058,7 @@
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": [],
-        "Dev": []
+        "Alias": []
     },
     {
         "ElementName": "ZoneTeorem",
@@ -9680,8 +9079,7 @@
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": [],
-        "Dev": []
+        "Alias": []
     },
     {
         "ElementName": "Piece",
@@ -9694,8 +9092,7 @@
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": [],
-        "Dev": []
+        "Alias": []
     },
     {
         "ElementName": "Site",
@@ -9711,8 +9108,7 @@
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": [],
-        "Dev": []
+        "Alias": []
     },
     {
         "ElementName": "4Density",
@@ -9725,8 +9121,7 @@
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": [],
-        "Dev": []
+        "Alias": []
     },
     {
         "ElementName": "5Density",
@@ -9739,8 +9134,7 @@
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": [],
-        "Dev": []
+        "Alias": []
     },
     {
         "ElementName": "6Density",
@@ -9753,8 +9147,7 @@
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": [],
-        "Dev": []
+        "Alias": []
     },
     {
         "ElementName": "7Density",
@@ -9767,8 +9160,7 @@
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": [],
-        "Dev": []
+        "Alias": []
     },
     {
         "ElementName": "8Density",
@@ -9781,8 +9173,7 @@
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": [],
-        "Dev": []
+        "Alias": []
     },
     {
         "ElementName": "9Density",
@@ -9795,8 +9186,7 @@
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": [],
-        "Dev": []
+        "Alias": []
     },
     {
         "ElementName": "SiteDensity",
@@ -9816,8 +9206,7 @@
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": [],
-        "Dev": []
+        "Alias": []
     },
     {
         "ElementName": "MaximumProximity",
@@ -9830,8 +9219,7 @@
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": [],
-        "Dev": []
+        "Alias": []
     },
     {
         "ElementName": "MinimumProximity",
@@ -9844,8 +9232,7 @@
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": [],
-        "Dev": []
+        "Alias": []
     },
     {
         "ElementName": "OptimalProximity",
@@ -9858,8 +9245,7 @@
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": [],
-        "Dev": []
+        "Alias": []
     },
     {
         "ElementName": "SiteProximity",
@@ -9876,8 +9262,7 @@
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": [],
-        "Dev": []
+        "Alias": []
     },
     {
         "ElementName": "CompletionLimit",
@@ -9890,8 +9275,7 @@
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": [],
-        "Dev": []
+        "Alias": []
     },
     {
         "ElementName": "ZoneGeometry",
@@ -9904,7 +9288,26 @@
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": [],
-        "Dev": []
+        "Alias": []
     }
 ]
+# def AddDescription():
+#     for item in Skema_List:
+#         item.update({"Description": ""})
+
+#     with open("sample.json", "w") as outfile: 
+#         json.dump(Skema_List, outfile)
+
+# AddDescription()
+
+def AddAttribute(attributeName):
+
+    for item in Skema_List:
+        item.update({f"{attributeName}": []})
+
+# Add a timestamp 
+
+    with open("AddElement_Output.json", "w") as outfile: 
+        json.dump(Skema_List, outfile)
+
+AddAttribute("Dev")
