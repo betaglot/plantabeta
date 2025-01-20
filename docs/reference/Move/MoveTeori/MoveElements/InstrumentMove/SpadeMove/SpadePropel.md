@@ -1,6 +1,6 @@
 # 🟠 <move>SpadePropel</move>
 
-Aliases: SpadeSlam, SpadeThrow
+Aliases: SpadeSlam, SpadeThrow, SpadeChop
 
 ![MoveIkon](/Move/Move_Ikon.png)
 
@@ -44,6 +44,7 @@ Aliases: SpadeSlam, SpadeThrow
     4. Down
     5. Impact
 
+- Impact with the Tip of the Blade, not the side of the blade like SpadeMachete
 - Aiming
     - SpadeStall like Spear fishing
     - ManoCompress to lock Spade Orientation until SpadeImpact

@@ -1,6 +1,6 @@
-# 🟠<move>SpadeTomi</move>
+# 🟠<move>SpadeMachete</move>
 
-## 🕸 SpadeTomi.Skema
+## 🕸 SpadeMachete.Skema
 
 ### Related 🟩<eko>Eko</eko>
 
@@ -28,14 +28,14 @@
 ::: details 🛠 <dev>&&&</dev>
 
 - Knuckles Parallel to shaft
-- SpadeTomiSkreef
-    - SpadeTomi is used anywhere, SpadeTomiSkreef is only used when Skreefing a Site.
-    - SpadeTomi is often a Loop
-    - RedRotTomi
-        - Tomi a RedRot log into a smaller chunk, then throw it
-    - BranchTomi
+- SpadeMacheteSkreef
+    - SpadeMachete is used anywhere, SpadeMacheteSkreef is only used when Skreefing a Site.
+    - SpadeMachete is often a Loop
+    - RedRotMachete
+        - Machete a RedRot log into a smaller chunk, then throw it
+    - BranchMachete
         - Aim for where the branch connects to the trunk, so the branch can't elastically absorb the impact
-    - PoaTomi or RizoTomi
+    - PoaMachete or RizoMachete
         - Poa must be under tension
             - BootSlide to apply tension
 

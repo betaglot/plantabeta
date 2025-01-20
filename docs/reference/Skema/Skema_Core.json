@@ -1,391 +1,7 @@
 [
     {
-        "ElementName": "BetaDiagram",
-        "Namespace": "Beta/BetaDiagram",
-        "SuperElementName": "Beta",
-        "SubElementName": [],
-        "ConcurrentElementName": [],
-        "EkoElementName": [],
-        "ViaElementName": [],
-        "MoveElementName": [],
-        "PsikeElementName": [],
-        "Description": "",
-        "Alias": []
-    },
-    {
-        "ElementName": "BetaComplexity",
-        "Namespace": "Beta/BetaDifficulty/BetaComplexity",
-        "SuperElementName": "BetaDifficulty",
-        "SubElementName": [],
-        "ConcurrentElementName": [],
-        "EkoElementName": [],
-        "ViaElementName": [],
-        "MoveElementName": [],
-        "PsikeElementName": [],
-        "Description": "",
-        "Alias": []
-    },
-    {
-        "ElementName": "BetaIntensity",
-        "Namespace": "Beta/BetaDifficulty/BetaIntensity",
-        "SuperElementName": "BetaDifficulty",
-        "SubElementName": [],
-        "ConcurrentElementName": [],
-        "EkoElementName": [],
-        "ViaElementName": [],
-        "MoveElementName": [],
-        "PsikeElementName": [],
-        "Description": "",
-        "Alias": []
-    },
-    {
-        "ElementName": "BetaRisk",
-        "Namespace": "Beta/BetaDifficulty/BetaRisk",
-        "SuperElementName": "BetaDifficulty",
-        "SubElementName": [],
-        "ConcurrentElementName": [],
-        "EkoElementName": [],
-        "ViaElementName": [],
-        "MoveElementName": [],
-        "PsikeElementName": [],
-        "Description": "",
-        "Alias": []
-    },
-    {
-        "ElementName": "BetaDifficulty",
-        "Namespace": "Beta/BetaDifficulty",
-        "SuperElementName": "Beta",
-        "SubElementName": [
-            "BetaComplexity",
-            "BetaIntensity",
-            "BetaRisk"
-        ],
-        "ConcurrentElementName": [],
-        "EkoElementName": [],
-        "ViaElementName": [],
-        "MoveElementName": [],
-        "PsikeElementName": [],
-        "Description": "",
-        "Alias": []
-    },
-    {
-        "ElementName": "BetaExamples",
-        "Namespace": "Beta/BetaExamples",
-        "SuperElementName": "Beta",
-        "SubElementName": [],
-        "ConcurrentElementName": [],
-        "EkoElementName": [],
-        "ViaElementName": [],
-        "MoveElementName": [],
-        "PsikeElementName": [],
-        "Description": "",
-        "Alias": []
-    },
-    {
-        "ElementName": "BetaExecution",
-        "Namespace": "Beta/BetaExecution",
-        "SuperElementName": "Beta",
-        "SubElementName": [],
-        "ConcurrentElementName": [],
-        "EkoElementName": [],
-        "ViaElementName": [],
-        "MoveElementName": [],
-        "PsikeElementName": [],
-        "Description": "",
-        "Alias": []
-    },
-    {
-        "ElementName": "BetaFlux",
-        "Namespace": "Beta/BetaFlux",
-        "SuperElementName": "Beta",
-        "SubElementName": [],
-        "ConcurrentElementName": [],
-        "EkoElementName": [],
-        "ViaElementName": [],
-        "MoveElementName": [],
-        "PsikeElementName": [],
-        "Description": "",
-        "Alias": []
-    },
-    {
-        "ElementName": "BetaLingo",
-        "Namespace": "Beta/BetaLingo",
-        "SuperElementName": "Beta",
-        "SubElementName": [],
-        "ConcurrentElementName": [],
-        "EkoElementName": [],
-        "ViaElementName": [],
-        "MoveElementName": [],
-        "PsikeElementName": [],
-        "Description": "",
-        "Alias": []
-    },
-    {
-        "ElementName": "BetaBlock",
-        "Namespace": "Beta/BetaPython/BetaBlock",
-        "SuperElementName": "BetaPython",
-        "SubElementName": [],
-        "ConcurrentElementName": [],
-        "EkoElementName": [],
-        "ViaElementName": [],
-        "MoveElementName": [],
-        "PsikeElementName": [],
-        "Description": "",
-        "Alias": []
-    },
-    {
-        "ElementName": "BetaInstance",
-        "Namespace": "Beta/BetaPython/BetaInstance",
-        "SuperElementName": "BetaPython",
-        "SubElementName": [],
-        "ConcurrentElementName": [],
-        "EkoElementName": [],
-        "ViaElementName": [],
-        "MoveElementName": [],
-        "PsikeElementName": [],
-        "Description": "",
-        "Alias": []
-    },
-    {
-        "ElementName": "BetaMethod",
-        "Namespace": "Beta/BetaPython/BetaMethod",
-        "SuperElementName": "BetaPython",
-        "SubElementName": [],
-        "ConcurrentElementName": [],
-        "EkoElementName": [],
-        "ViaElementName": [],
-        "MoveElementName": [],
-        "PsikeElementName": [],
-        "Description": "",
-        "Alias": []
-    },
-    {
-        "ElementName": "BetaObject",
-        "Namespace": "Beta/BetaPython/BetaObject",
-        "SuperElementName": "BetaPython",
-        "SubElementName": [],
-        "ConcurrentElementName": [],
-        "EkoElementName": [],
-        "ViaElementName": [],
-        "MoveElementName": [],
-        "PsikeElementName": [],
-        "Description": "",
-        "Alias": []
-    },
-    {
-        "ElementName": "BetaString",
-        "Namespace": "Beta/BetaPython/BetaString",
-        "SuperElementName": "BetaPython",
-        "SubElementName": [],
-        "ConcurrentElementName": [],
-        "EkoElementName": [],
-        "ViaElementName": [],
-        "MoveElementName": [],
-        "PsikeElementName": [],
-        "Description": "",
-        "Alias": []
-    },
-    {
-        "ElementName": "CompoundStatements",
-        "Namespace": "Beta/BetaPython/CompoundStatements",
-        "SuperElementName": "BetaPython",
-        "SubElementName": [],
-        "ConcurrentElementName": [],
-        "EkoElementName": [],
-        "ViaElementName": [],
-        "MoveElementName": [],
-        "PsikeElementName": [],
-        "Description": "",
-        "Alias": []
-    },
-    {
-        "ElementName": "DataModel",
-        "Namespace": "Beta/BetaPython/DataModel",
-        "SuperElementName": "BetaPython",
-        "SubElementName": [],
-        "ConcurrentElementName": [],
-        "EkoElementName": [],
-        "ViaElementName": [],
-        "MoveElementName": [],
-        "PsikeElementName": [],
-        "Description": "",
-        "Alias": []
-    },
-    {
-        "ElementName": "ExecutionModel",
-        "Namespace": "Beta/BetaPython/ExecutionModel",
-        "SuperElementName": "BetaPython",
-        "SubElementName": [],
-        "ConcurrentElementName": [],
-        "EkoElementName": [],
-        "ViaElementName": [],
-        "MoveElementName": [],
-        "PsikeElementName": [],
-        "Description": "",
-        "Alias": []
-    },
-    {
-        "ElementName": "Expressions",
-        "Namespace": "Beta/BetaPython/Expressions",
-        "SuperElementName": "BetaPython",
-        "SubElementName": [],
-        "ConcurrentElementName": [],
-        "EkoElementName": [],
-        "ViaElementName": [],
-        "MoveElementName": [],
-        "PsikeElementName": [],
-        "Description": "",
-        "Alias": []
-    },
-    {
-        "ElementName": "FullGrammarSpecification",
-        "Namespace": "Beta/BetaPython/FullGrammarSpecification",
-        "SuperElementName": "BetaPython",
-        "SubElementName": [],
-        "ConcurrentElementName": [],
-        "EkoElementName": [],
-        "ViaElementName": [],
-        "MoveElementName": [],
-        "PsikeElementName": [],
-        "Description": "",
-        "Alias": []
-    },
-    {
-        "ElementName": "ImportSystem",
-        "Namespace": "Beta/BetaPython/ImportSystem",
-        "SuperElementName": "BetaPython",
-        "SubElementName": [],
-        "ConcurrentElementName": [],
-        "EkoElementName": [],
-        "ViaElementName": [],
-        "MoveElementName": [],
-        "PsikeElementName": [],
-        "Description": "",
-        "Alias": []
-    },
-    {
-        "ElementName": "Introduction",
-        "Namespace": "Beta/BetaPython/Introduction",
-        "SuperElementName": "BetaPython",
-        "SubElementName": [],
-        "ConcurrentElementName": [],
-        "EkoElementName": [],
-        "ViaElementName": [],
-        "MoveElementName": [],
-        "PsikeElementName": [],
-        "Description": "",
-        "Alias": []
-    },
-    {
-        "ElementName": "LexicalAnalysis",
-        "Namespace": "Beta/BetaPython/LexicalAnalysis",
-        "SuperElementName": "BetaPython",
-        "SubElementName": [],
-        "ConcurrentElementName": [],
-        "EkoElementName": [],
-        "ViaElementName": [],
-        "MoveElementName": [],
-        "PsikeElementName": [],
-        "Description": "",
-        "Alias": []
-    },
-    {
-        "ElementName": "BetaPython",
-        "Namespace": "Beta/BetaPython",
-        "SuperElementName": "Beta",
-        "SubElementName": [
-            "BetaBlock",
-            "BetaInstance",
-            "BetaMethod",
-            "BetaObject",
-            "BetaString",
-            "CompoundStatements",
-            "DataModel",
-            "ExecutionModel",
-            "Expressions",
-            "FullGrammarSpecification",
-            "ImportSystem",
-            "Introduction",
-            "LexicalAnalysis",
-            "SimpleStatements",
-            "TopLevelComponents"
-        ],
-        "ConcurrentElementName": [],
-        "EkoElementName": [],
-        "ViaElementName": [],
-        "MoveElementName": [],
-        "PsikeElementName": [],
-        "Description": "",
-        "Alias": []
-    },
-    {
-        "ElementName": "SimpleStatements",
-        "Namespace": "Beta/BetaPython/SimpleStatements",
-        "SuperElementName": "BetaPython",
-        "SubElementName": [],
-        "ConcurrentElementName": [],
-        "EkoElementName": [],
-        "ViaElementName": [],
-        "MoveElementName": [],
-        "PsikeElementName": [],
-        "Description": "",
-        "Alias": []
-    },
-    {
-        "ElementName": "TopLevelComponents",
-        "Namespace": "Beta/BetaPython/TopLevelComponents",
-        "SuperElementName": "BetaPython",
-        "SubElementName": [],
-        "ConcurrentElementName": [],
-        "EkoElementName": [],
-        "ViaElementName": [],
-        "MoveElementName": [],
-        "PsikeElementName": [],
-        "Description": "",
-        "Alias": []
-    },
-    {
-        "ElementName": "BetaVideo",
-        "Namespace": "Beta/BetaVideo",
-        "SuperElementName": "Beta",
-        "SubElementName": [],
-        "ConcurrentElementName": [],
-        "EkoElementName": [],
-        "ViaElementName": [],
-        "MoveElementName": [],
-        "PsikeElementName": [],
-        "Description": "",
-        "Alias": []
-    },
-    {
-        "ElementName": "Rework",
-        "Namespace": "Beta/Rework",
-        "SuperElementName": "Beta",
-        "SubElementName": [],
-        "ConcurrentElementName": [],
-        "EkoElementName": [],
-        "ViaElementName": [],
-        "MoveElementName": [],
-        "PsikeElementName": [],
-        "Description": "",
-        "Alias": []
-    },
-    {
         "ElementName": "TeamBeta",
         "Namespace": "Beta/TeamBeta",
-        "SuperElementName": "Beta",
-        "SubElementName": [],
-        "ConcurrentElementName": [],
-        "EkoElementName": [],
-        "ViaElementName": [],
-        "MoveElementName": [],
-        "PsikeElementName": [],
-        "Description": "",
-        "Alias": []
-    },
-    {
-        "ElementName": "WhatBeta",
-        "Namespace": "Beta/WhatBeta",
         "SuperElementName": "Beta",
         "SubElementName": [],
         "ConcurrentElementName": [],
@@ -500,8 +116,14 @@
         "SuperElementName": "Prep",
         "SubElementName": [],
         "ConcurrentElementName": [],
-        "EkoElementName": [],
-        "ViaElementName": [],
+        "EkoElementName": [
+            "Dust",
+            "Cream"
+        ],
+        "ViaElementName": [
+            "CircleZone",
+            "ZoneMarka"
+        ],
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
@@ -514,8 +136,13 @@
         "SubElementName": [],
         "ConcurrentElementName": [],
         "EkoElementName": [],
-        "ViaElementName": [],
-        "MoveElementName": [],
+        "ViaElementName": [
+            "MoundMarka",
+            "MoundSite"
+        ],
+        "MoveElementName": [
+            "StepInto"
+        ],
         "PsikeElementName": [],
         "Description": "",
         "Alias": []
@@ -545,7 +172,10 @@
         "SubElementName": [],
         "ConcurrentElementName": [],
         "EkoElementName": [],
-        "ViaElementName": [],
+        "ViaElementName": [
+            "SkreefMarka",
+            "SkreefSite"
+        ],
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
@@ -558,7 +188,11 @@
         "SubElementName": [],
         "ConcurrentElementName": [],
         "EkoElementName": [],
-        "ViaElementName": [],
+        "ViaElementName": [
+            "TrenchSite",
+            "TrenchExitMarka",
+            "TrenchEnterMarka"
+        ],
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
@@ -570,8 +204,13 @@
         "SuperElementName": "Antrosfera",
         "SubElementName": [],
         "ConcurrentElementName": [],
-        "EkoElementName": [],
-        "ViaElementName": [],
+        "EkoElementName": [
+            "CompactSoil",
+            "HardSoil"
+        ],
+        "ViaElementName": [
+            "CacheLocation"
+        ],
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
@@ -583,9 +222,13 @@
         "SuperElementName": "Atmosfera",
         "SubElementName": [],
         "ConcurrentElementName": [],
-        "EkoElementName": [],
+        "EkoElementName": [
+            "BlockAltitude"
+        ],
         "ViaElementName": [],
-        "MoveElementName": [],
+        "MoveElementName": [
+            "ClothingLayering"
+        ],
         "PsikeElementName": [],
         "Description": "",
         "Alias": []
@@ -596,9 +239,14 @@
         "SuperElementName": "Atmosfera",
         "SubElementName": [],
         "ConcurrentElementName": [],
-        "EkoElementName": [],
+        "EkoElementName": [
+            "WindChill"
+        ],
         "ViaElementName": [],
-        "MoveElementName": [],
+        "MoveElementName": [
+            "ClothingLayering",
+            "Sweating"
+        ],
         "PsikeElementName": [],
         "Description": "",
         "Alias": []
@@ -628,8 +276,12 @@
         "SubElementName": [],
         "ConcurrentElementName": [],
         "EkoElementName": [],
-        "ViaElementName": [],
-        "MoveElementName": [],
+        "ViaElementName": [
+            "WastedMarka"
+        ],
+        "MoveElementName": [
+            "ClothingLayering"
+        ],
         "PsikeElementName": [],
         "Description": "",
         "Alias": []
@@ -638,19 +290,27 @@
         "ElementName": "Wind",
         "Namespace": "Eko/EkoTeori/EkoElements/Atmosfera/Wind",
         "SuperElementName": "Atmosfera",
-        "SubElementName": [],
+        "SubElementName": [
+            "WindChill"
+        ],
         "ConcurrentElementName": [],
-        "EkoElementName": [],
-        "ViaElementName": [],
-        "MoveElementName": [],
+        "EkoElementName": [
+            "DangerTree"
+        ],
+        "ViaElementName": [
+            "WastedMarka"
+        ],
+        "MoveElementName": [
+            "ShellLayer"
+        ],
         "PsikeElementName": [],
         "Description": "",
         "Alias": []
     },
     {
         "ElementName": "Abies",
-        "Namespace": "Eko/EkoTeori/EkoElements/Biosfera/Dendron/Abies",
-        "SuperElementName": "Dendron",
+        "Namespace": "Eko/EkoTeori/EkoElements/Biosfera/Flora/Abies",
+        "SuperElementName": "Flora",
         "SubElementName": [],
         "ConcurrentElementName": [],
         "EkoElementName": [],
@@ -658,7 +318,9 @@
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": [
+            "FirTree"
+        ]
     },
     {
         "ElementName": "Larix",
@@ -671,14 +333,15 @@
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": [
+            "LarchTree"
+        ]
     },
     {
         "ElementName": "Dendron",
         "Namespace": "Eko/EkoTeori/EkoElements/Biosfera/Dendron",
         "SuperElementName": "Biosfera",
         "SubElementName": [
-            "Abies",
             "Larix",
             "Picea",
             "Pinus",
@@ -694,7 +357,10 @@
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": [
+            "Seedling",
+            "Semis"
+        ]
     },
     {
         "ElementName": "Picea",
@@ -707,7 +373,9 @@
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": [
+            "SpruceTree"
+        ]
     },
     {
         "ElementName": "Pinus",
@@ -720,7 +388,9 @@
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": [
+            "PineTree"
+        ]
     },
     {
         "ElementName": "Pseudotsuga",
@@ -733,7 +403,9 @@
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": [
+            "DouglasFirTree"
+        ]
     },
     {
         "ElementName": "Quercus",
@@ -746,20 +418,9 @@
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
-    },
-    {
-        "ElementName": "Spruce",
-        "Namespace": "Eko/EkoTeori/EkoElements/Biosfera/Dendron/Spruce",
-        "SuperElementName": "Dendron",
-        "SubElementName": [],
-        "ConcurrentElementName": [],
-        "EkoElementName": [],
-        "ViaElementName": [],
-        "MoveElementName": [],
-        "PsikeElementName": [],
-        "Description": "",
-        "Alias": []
+        "Alias": [
+            "OakTree"
+        ]
     },
     {
         "ElementName": "Thuja",
@@ -772,7 +433,9 @@
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": [
+            "RedCedarTree"
+        ]
     },
     {
         "ElementName": "Tsuga",
@@ -780,12 +443,19 @@
         "SuperElementName": "Dendron",
         "SubElementName": [],
         "ConcurrentElementName": [],
-        "EkoElementName": [],
+        "EkoElementName": [
+            "Pseudotsuga",
+            "Flora"
+        ],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": [],
+        "PsikeElementName": [
+            "SpeciesIdentification"
+        ],
         "Description": "",
-        "Alias": []
+        "Alias": [
+            "Hemlock"
+        ]
     },
     {
         "ElementName": "Fauna",
@@ -804,14 +474,20 @@
         "ElementName": "Bryophyta",
         "Namespace": "Eko/EkoTeori/EkoElements/Biosfera/Flora/Bryophyta",
         "SuperElementName": "Flora",
-        "SubElementName": [],
+        "SubElementName": [
+            "Sfagnum"
+        ],
         "ConcurrentElementName": [],
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": [],
+        "PsikeElementName": [
+            "SpeciesIdentification"
+        ],
         "Description": "",
-        "Alias": []
+        "Alias": [
+            "Moss"
+        ]
     },
     {
         "ElementName": "BurntLand",
@@ -819,7 +495,12 @@
         "SuperElementName": "Flora",
         "SubElementName": [],
         "ConcurrentElementName": [],
-        "EkoElementName": [],
+        "EkoElementName": [
+            "Ash",
+            "Dust",
+            "Exposure",
+            "DangerTree"
+        ],
         "ViaElementName": [],
         "MoveElementName": [],
         "PsikeElementName": [],
@@ -827,10 +508,17 @@
         "Alias": []
     },
     {
-        "ElementName": "CropTree",
-        "Namespace": "Eko/EkoTeori/EkoElements/Biosfera/Flora/CropTree",
+        "ElementName": "CropFlora",
+        "Namespace": "Eko/EkoTeori/EkoElements/Biosfera/Flora/CropFlora",
         "SuperElementName": "Flora",
-        "SubElementName": [],
+        "SubElementName": [
+            "Pseudotsuga",
+            "Quercus",
+            "Pinus",
+            "Larix",
+            "Picea",
+            "Thuja"
+        ],
         "ConcurrentElementName": [],
         "EkoElementName": [],
         "ViaElementName": [],
@@ -843,12 +531,18 @@
         "ElementName": "Flower",
         "Namespace": "Eko/EkoTeori/EkoElements/Biosfera/Flora/Flower",
         "SuperElementName": "Flora",
-        "SubElementName": [],
+        "SubElementName": [
+            "Chamaenerion",
+            "Lupinus",
+            "Castilleja"
+        ],
         "ConcurrentElementName": [],
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": [],
+        "PsikeElementName": [
+            "SpeciesIdentification"
+        ],
         "Description": "",
         "Alias": []
     },
@@ -859,7 +553,9 @@
         "SubElementName": [],
         "ConcurrentElementName": [],
         "EkoElementName": [],
-        "ViaElementName": [],
+        "ViaElementName": [
+            "Obstacle"
+        ],
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
@@ -872,7 +568,7 @@
         "SubElementName": [
             "Bryophyta",
             "BurntLand",
-            "CropTree",
+            "CropFlora",
             "Flower",
             "Log",
             "Poales",
@@ -892,14 +588,20 @@
         "ElementName": "Poales",
         "Namespace": "Eko/EkoTeori/EkoElements/Biosfera/Flora/Poales",
         "SuperElementName": "Flora",
-        "SubElementName": [],
+        "SubElementName": [
+            "Cyperaceae ",
+            "Juncaceae ",
+            "Poaceae"
+        ],
         "ConcurrentElementName": [],
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": [
+            "Grass"
+        ]
     },
     {
         "ElementName": "RiparianZone",
@@ -907,9 +609,16 @@
         "SuperElementName": "Flora",
         "SubElementName": [],
         "ConcurrentElementName": [],
-        "EkoElementName": [],
-        "ViaElementName": [],
-        "MoveElementName": [],
+        "EkoElementName": [
+            "Raw",
+            "Hidrosfera"
+        ],
+        "ViaElementName": [
+            "BorderMarka"
+        ],
+        "MoveElementName": [
+            "FloraMove"
+        ],
         "PsikeElementName": [],
         "Description": "",
         "Alias": []
@@ -921,7 +630,9 @@
         "SubElementName": [],
         "ConcurrentElementName": [],
         "EkoElementName": [],
-        "ViaElementName": [],
+        "ViaElementName": [
+            "Obstacle"
+        ],
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
@@ -934,8 +645,13 @@
         "SubElementName": [],
         "ConcurrentElementName": [],
         "EkoElementName": [],
-        "ViaElementName": [],
-        "MoveElementName": [],
+        "ViaElementName": [
+            "Obstacle"
+        ],
+        "MoveElementName": [
+            "SlashClimb",
+            "StepUnder"
+        ],
         "PsikeElementName": [],
         "Description": "",
         "Alias": []
@@ -947,8 +663,12 @@
         "SubElementName": [],
         "ConcurrentElementName": [],
         "EkoElementName": [],
-        "ViaElementName": [],
-        "MoveElementName": [],
+        "ViaElementName": [
+            "Obstacle"
+        ],
+        "MoveElementName": [
+            "StepOver"
+        ],
         "PsikeElementName": [],
         "Description": "",
         "Alias": []
@@ -977,9 +697,17 @@
         "SuperElementName": "Slash",
         "SubElementName": [],
         "ConcurrentElementName": [],
-        "EkoElementName": [],
+        "EkoElementName": [
+            "Precipitation",
+            "Coastal",
+            "DeBark"
+        ],
         "ViaElementName": [],
-        "MoveElementName": [],
+        "MoveElementName": [
+            "BaseSlip",
+            "Fall",
+            "BootSpike"
+        ],
         "PsikeElementName": [],
         "Description": "",
         "Alias": []
@@ -991,7 +719,9 @@
         "SubElementName": [],
         "ConcurrentElementName": [],
         "EkoElementName": [],
-        "ViaElementName": [],
+        "ViaElementName": [
+            "Obstacle"
+        ],
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
@@ -1073,7 +803,10 @@
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": [
+            "Slope",
+            "SlopeLand"
+        ]
     },
     {
         "ElementName": "Geomorfologia",
@@ -1090,7 +823,9 @@
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": [
+            "Terrain"
+        ]
     },
     {
         "ElementName": "Valley",
@@ -1098,12 +833,17 @@
         "SuperElementName": "Geomorfologia",
         "SubElementName": [],
         "ConcurrentElementName": [],
-        "EkoElementName": [],
+        "EkoElementName": [
+            "Hidrosfera"
+        ],
         "ViaElementName": [],
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": [
+            "Gully",
+            "Draw"
+        ]
     },
     {
         "ElementName": "Helios",
@@ -1111,12 +851,22 @@
         "SuperElementName": "EkoElements",
         "SubElementName": [],
         "ConcurrentElementName": [],
-        "EkoElementName": [],
+        "EkoElementName": [
+            "AirTemperature"
+        ],
         "ViaElementName": [],
-        "MoveElementName": [],
-        "PsikeElementName": [],
+        "MoveElementName": [
+            "ClothingLayering",
+            "SunBurn",
+            "HatMove"
+        ],
+        "PsikeElementName": [
+            "Mood"
+        ],
         "Description": "",
-        "Alias": []
+        "Alias": [
+            "Sun"
+        ]
     },
     {
         "ElementName": "GroundWater",
@@ -1124,7 +874,9 @@
         "SuperElementName": "Hidrosfera",
         "SubElementName": [],
         "ConcurrentElementName": [],
-        "EkoElementName": [],
+        "EkoElementName": [
+            "WetSoil"
+        ],
         "ViaElementName": [],
         "MoveElementName": [],
         "PsikeElementName": [],
@@ -1138,11 +890,17 @@
         "SubElementName": [],
         "ConcurrentElementName": [],
         "EkoElementName": [],
-        "ViaElementName": [],
+        "ViaElementName": [
+            "Obstacle"
+        ],
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": [
+            "Creek",
+            "Stream",
+            "River"
+        ]
     },
     {
         "ElementName": "Hidrosfera",
@@ -1182,8 +940,13 @@
         "SubElementName": [],
         "ConcurrentElementName": [],
         "EkoElementName": [],
-        "ViaElementName": [],
-        "MoveElementName": [],
+        "ViaElementName": [
+            "Obstacle"
+        ],
+        "MoveElementName": [
+            "PeriLine",
+            "OverLine"
+        ],
         "PsikeElementName": [],
         "Description": "",
         "Alias": []
@@ -1193,7 +956,11 @@
         "Namespace": "Eko/EkoTeori/EkoElements/Litosfera",
         "SuperElementName": "EkoElements",
         "SubElementName": [
-            "RockCap"
+            "RockCap",
+            "Gravel",
+            "SkreeSlope",
+            "Boulder",
+            "Pebble"
         ],
         "ConcurrentElementName": [],
         "EkoElementName": [],
@@ -1210,7 +977,9 @@
         "SubElementName": [],
         "ConcurrentElementName": [],
         "EkoElementName": [],
-        "ViaElementName": [],
+        "ViaElementName": [
+            "Obstacle"
+        ],
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
@@ -1222,7 +991,9 @@
         "SuperElementName": "Pedosfera",
         "SubElementName": [],
         "ConcurrentElementName": [],
-        "EkoElementName": [],
+        "EkoElementName": [
+            "Road"
+        ],
         "ViaElementName": [],
         "MoveElementName": [],
         "PsikeElementName": [],
@@ -1235,12 +1006,19 @@
         "SuperElementName": "Pedosfera",
         "SubElementName": [],
         "ConcurrentElementName": [],
-        "EkoElementName": [],
-        "ViaElementName": [],
+        "EkoElementName": [
+            "AirTemperature",
+            "BlockAltitude"
+        ],
+        "ViaElementName": [
+            "Obstacle"
+        ],
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": [
+            "FrozenSoil"
+        ]
     },
     {
         "ElementName": "BoulderSoil",
@@ -1253,7 +1031,9 @@
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": [
+            "RockyLand"
+        ]
     },
     {
         "ElementName": "ClaySoil",
@@ -1263,7 +1043,9 @@
         "ConcurrentElementName": [],
         "EkoElementName": [],
         "ViaElementName": [],
-        "MoveElementName": [],
+        "MoveElementName": [
+            "SpadePurga"
+        ],
         "PsikeElementName": [],
         "Description": "",
         "Alias": []
@@ -1279,7 +1061,9 @@
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": [
+            "RockyLand"
+        ]
     },
     {
         "ElementName": "PebbleSoil",
@@ -1300,12 +1084,20 @@
         "SuperElementName": "MaterialModifiers",
         "SubElementName": [],
         "ConcurrentElementName": [],
-        "EkoElementName": [],
-        "ViaElementName": [],
-        "MoveElementName": [],
+        "EkoElementName": [
+            "TrenchPrep"
+        ],
+        "ViaElementName": [
+            "Obstacle"
+        ],
+        "MoveElementName": [
+            "RockSkreef"
+        ],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": [
+            "ExplodedRock"
+        ]
     },
     {
         "ElementName": "SandSoil",
@@ -1313,7 +1105,9 @@
         "SuperElementName": "MaterialModifiers",
         "SubElementName": [],
         "ConcurrentElementName": [],
-        "EkoElementName": [],
+        "EkoElementName": [
+            "UnstableSlope"
+        ],
         "ViaElementName": [],
         "MoveElementName": [],
         "PsikeElementName": [],
@@ -1326,9 +1120,17 @@
         "SuperElementName": "MaterialModifiers",
         "SubElementName": [],
         "ConcurrentElementName": [],
-        "EkoElementName": [],
-        "ViaElementName": [],
-        "MoveElementName": [],
+        "EkoElementName": [
+            "Dust",
+            "CreamSoil",
+            "UnstableSlope"
+        ],
+        "ViaElementName": [
+            "Site"
+        ],
+        "MoveElementName": [
+            "SoilCompress"
+        ],
         "PsikeElementName": [],
         "Description": "",
         "Alias": []
@@ -1340,8 +1142,12 @@
         "SubElementName": [],
         "ConcurrentElementName": [],
         "EkoElementName": [],
-        "ViaElementName": [],
-        "MoveElementName": [],
+        "ViaElementName": [
+            "Site"
+        ],
+        "MoveElementName": [
+            "SkreefMove"
+        ],
         "PsikeElementName": [],
         "Description": "",
         "Alias": []
@@ -1364,7 +1170,9 @@
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": [
+            "Soil"
+        ]
     },
     {
         "ElementName": "RedRotSoil",
@@ -1373,11 +1181,19 @@
         "SubElementName": [],
         "ConcurrentElementName": [],
         "EkoElementName": [],
-        "ViaElementName": [],
-        "MoveElementName": [],
-        "PsikeElementName": [],
+        "ViaElementName": [
+            "Obstacle"
+        ],
+        "MoveElementName": [
+            "RedRotSkreef"
+        ],
+        "PsikeElementName": [
+            "Judgement"
+        ],
         "Description": "",
-        "Alias": []
+        "Alias": [
+            "RedRot"
+        ]
     },
     {
         "ElementName": "FibricSoil",
@@ -1390,7 +1206,9 @@
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": [
+            "Rooty"
+        ]
     },
     {
         "ElementName": "HumicSoil",
@@ -1422,7 +1240,9 @@
         "ElementName": "WoodySoil",
         "Namespace": "Eko/EkoTeori/EkoElements/Pedosfera/SoilFiber/WoodySoil",
         "SuperElementName": "SoilFiber",
-        "SubElementName": [],
+        "SubElementName": [
+            "RootySoil"
+        ],
         "ConcurrentElementName": [],
         "EkoElementName": [],
         "ViaElementName": [],
@@ -1450,9 +1270,13 @@
         "SuperElementName": "Pedosfera",
         "SubElementName": [],
         "ConcurrentElementName": [],
-        "EkoElementName": [],
+        "EkoElementName": [
+            "Hidrosfera"
+        ],
         "ViaElementName": [],
-        "MoveElementName": [],
+        "MoveElementName": [
+            "SlapKlose"
+        ],
         "PsikeElementName": [],
         "Description": "",
         "Alias": []
@@ -1464,7 +1288,9 @@
         "SubElementName": [],
         "ConcurrentElementName": [],
         "EkoElementName": [],
-        "ViaElementName": [],
+        "ViaElementName": [
+            "PlantedZone"
+        ],
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
@@ -1507,41 +1333,26 @@
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": [],
+        "PsikeElementName": [
+            "Mood",
+            "Competitiveness"
+        ],
         "Description": "",
-        "Alias": []
+        "Alias": [
+            "Work",
+            "Job",
+            "Production"
+        ]
     },
     {
         "ElementName": "Fisik",
         "Namespace": "Fisik",
         "SuperElementName": [],
-        "SubElementName": [],
-        "ConcurrentElementName": [],
-        "EkoElementName": [],
-        "ViaElementName": [],
-        "MoveElementName": [],
-        "PsikeElementName": [],
-        "Description": "",
-        "Alias": []
-    },
-    {
-        "ElementName": "Lexikon",
-        "Namespace": "Lexikon",
-        "SuperElementName": [],
-        "SubElementName": [],
-        "ConcurrentElementName": [],
-        "EkoElementName": [],
-        "ViaElementName": [],
-        "MoveElementName": [],
-        "PsikeElementName": [],
-        "Description": "",
-        "Alias": []
-    },
-    {
-        "ElementName": "Kinesiology",
-        "Namespace": "Move/Kinesiology",
-        "SuperElementName": "Move",
-        "SubElementName": [],
+        "SubElementName": [
+            "Kinematics",
+            "Dynamics",
+            "Gravity"
+        ],
         "ConcurrentElementName": [],
         "EkoElementName": [],
         "ViaElementName": [],
@@ -1561,11 +1372,13 @@
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": [
+            "MoveIntensity"
+        ]
     },
     {
-        "ElementName": "MoveProbability",
-        "Namespace": "Move/MoveMetron/MoveProbability",
+        "ElementName": "MoveKuboi",
+        "Namespace": "Move/MoveMetron/MoveKuboi",
         "SuperElementName": "MoveMetron",
         "SubElementName": [],
         "ConcurrentElementName": [],
@@ -1574,7 +1387,9 @@
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": [
+            "MoveRisk"
+        ]
     },
     {
         "ElementName": "MoveTeknik",
@@ -1587,7 +1402,9 @@
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": [
+            "MoveComplexity"
+        ]
     },
     {
         "ElementName": "MoveOverview",
@@ -1615,7 +1432,7 @@
             "LaceTighten",
             "BoxStack",
             "BundleCount",
-            "BundleManoSwap",
+            "BundleManoAllo",
             "BundleStack",
             "GloveOff",
             "GloveOn",
@@ -1689,7 +1506,10 @@
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": [
+            "Forwards",
+            "In front"
+        ]
     },
     {
         "ElementName": "DistalDirection",
@@ -1702,7 +1522,9 @@
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": [
+            "Away"
+        ]
     },
     {
         "ElementName": "LateralDirection",
@@ -1741,7 +1563,10 @@
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": [
+            "Behind",
+            "Backwards"
+        ]
     },
     {
         "ElementName": "ProximalDirection",
@@ -1754,7 +1579,9 @@
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": [
+            "Closer"
+        ]
     },
     {
         "ElementName": "FrontalPlane",
@@ -1767,7 +1594,9 @@
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": [
+            "CoronalPlane"
+        ]
     },
     {
         "ElementName": "HorizontalPlane",
@@ -1780,7 +1609,10 @@
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": [
+            "AxialPlane",
+            "TransversePlane"
+        ]
     },
     {
         "ElementName": "SagittalPlane",
@@ -1793,13 +1625,20 @@
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": [
+            "LongitudinalPlane"
+        ]
     },
     {
         "ElementName": "MoveSurface",
         "Namespace": "Move/MoveTeori/MoveDefinitions/MoveSurface",
         "SuperElementName": "MoveDefinitions",
-        "SubElementName": [],
+        "SubElementName": [
+            "Skin",
+            "Rubber",
+            "Clothing",
+            "Instrument"
+        ],
         "ConcurrentElementName": [],
         "EkoElementName": [],
         "ViaElementName": [],
@@ -1834,7 +1673,9 @@
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": [
+            "LegAbduction"
+        ]
     },
     {
         "ElementName": "BaseAbsorb",
@@ -1847,7 +1688,9 @@
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": [
+            "LegAbsorb"
+        ]
     },
     {
         "ElementName": "BaseAdduction",
@@ -1860,7 +1703,9 @@
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": [
+            "LegAdduction"
+        ]
     },
     {
         "ElementName": "BaseAma",
@@ -1873,7 +1718,10 @@
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": [
+            "LegFlag",
+            "LegProp"
+        ]
     },
     {
         "ElementName": "BaseArchSmear",
@@ -1886,7 +1734,9 @@
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": [
+            "FootArchSmear"
+        ]
     },
     {
         "ElementName": "BaseDig",
@@ -1899,7 +1749,9 @@
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": [
+            "FootDig"
+        ]
     },
     {
         "ElementName": "BaseDorsiflexion",
@@ -1912,7 +1764,9 @@
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": [
+            "FootDorsiFlexion"
+        ]
     },
     {
         "ElementName": "BaseDrag",
@@ -1925,7 +1779,9 @@
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": [
+            "FootDrag"
+        ]
     },
     {
         "ElementName": "BaseError",
@@ -1938,7 +1794,10 @@
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": [
+            "LegError",
+            "FootError"
+        ]
     },
     {
         "ElementName": "BaseEversion",
@@ -1951,7 +1810,9 @@
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": [
+            "FootEversion"
+        ]
     },
     {
         "ElementName": "BaseFlexion",
@@ -1964,7 +1825,9 @@
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": [
+            "LegFlexion"
+        ]
     },
     {
         "ElementName": "BaseInversion",
@@ -1977,7 +1840,9 @@
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": [
+            "FootInversion"
+        ]
     },
     {
         "ElementName": "BaseOnda",
@@ -1990,7 +1855,11 @@
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": [
+            "LegFlag",
+            "LegSwing",
+            "LegWhip"
+        ]
     },
     {
         "ElementName": "BaseSkreef",
@@ -2003,7 +1872,9 @@
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": [
+            "FootSkreef"
+        ]
     },
     {
         "ElementName": "Crouch",
@@ -2016,7 +1887,9 @@
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": [
+            "Squat"
+        ]
     },
     {
         "ElementName": "Error",
@@ -2029,12 +1902,14 @@
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": [
+            "Mistake"
+        ]
     },
     {
-        "ElementName": "ArchDragSeal",
-        "Namespace": "Move/MoveTeori/MoveElements/BaseMove/FootSeal/ArchDragSeal",
-        "SuperElementName": "FootSeal",
+        "ElementName": "ArchDragKlose",
+        "Namespace": "Move/MoveTeori/MoveElements/BaseMove/FootKlose/ArchDragKlose",
+        "SuperElementName": "FootKlose",
         "SubElementName": [],
         "ConcurrentElementName": [],
         "EkoElementName": [],
@@ -2045,9 +1920,9 @@
         "Alias": []
     },
     {
-        "ElementName": "ArchKickSeal",
-        "Namespace": "Move/MoveTeori/MoveElements/BaseMove/FootSeal/ArchKickSeal",
-        "SuperElementName": "FootSeal",
+        "ElementName": "ArchKickKlose",
+        "Namespace": "Move/MoveTeori/MoveElements/BaseMove/FootKlose/ArchKickKlose",
+        "SuperElementName": "FootKlose",
         "SubElementName": [],
         "ConcurrentElementName": [],
         "EkoElementName": [],
@@ -2058,9 +1933,9 @@
         "Alias": []
     },
     {
-        "ElementName": "FootArchSeal",
-        "Namespace": "Move/MoveTeori/MoveElements/BaseMove/FootSeal/FootArchSeal",
-        "SuperElementName": "FootSeal",
+        "ElementName": "FootArchKlose",
+        "Namespace": "Move/MoveTeori/MoveElements/BaseMove/FootKlose/FootArchKlose",
+        "SuperElementName": "FootKlose",
         "SubElementName": [],
         "ConcurrentElementName": [],
         "EkoElementName": [],
@@ -2071,9 +1946,9 @@
         "Alias": []
     },
     {
-        "ElementName": "FootDragSeal",
-        "Namespace": "Move/MoveTeori/MoveElements/BaseMove/FootSeal/FootDragSeal",
-        "SuperElementName": "FootSeal",
+        "ElementName": "FootDragKlose",
+        "Namespace": "Move/MoveTeori/MoveElements/BaseMove/FootKlose/FootDragKlose",
+        "SuperElementName": "FootKlose",
         "SubElementName": [],
         "ConcurrentElementName": [],
         "EkoElementName": [],
@@ -2084,9 +1959,9 @@
         "Alias": []
     },
     {
-        "ElementName": "HeelDragSeal",
-        "Namespace": "Move/MoveTeori/MoveElements/BaseMove/FootSeal/HeelDragSeal",
-        "SuperElementName": "FootSeal",
+        "ElementName": "HeelDragKlose",
+        "Namespace": "Move/MoveTeori/MoveElements/BaseMove/FootKlose/HeelDragKlose",
+        "SuperElementName": "FootKlose",
         "SubElementName": [],
         "ConcurrentElementName": [],
         "EkoElementName": [],
@@ -2097,9 +1972,9 @@
         "Alias": []
     },
     {
-        "ElementName": "HeelKickSeal",
-        "Namespace": "Move/MoveTeori/MoveElements/BaseMove/FootSeal/HeelKickSeal",
-        "SuperElementName": "FootSeal",
+        "ElementName": "HeelKickKlose",
+        "Namespace": "Move/MoveTeori/MoveElements/BaseMove/FootKlose/HeelKickKlose",
+        "SuperElementName": "FootKlose",
         "SubElementName": [],
         "ConcurrentElementName": [],
         "EkoElementName": [],
@@ -2110,18 +1985,18 @@
         "Alias": []
     },
     {
-        "ElementName": "FootSeal",
-        "Namespace": "Move/MoveTeori/MoveElements/BaseMove/FootSeal",
+        "ElementName": "FootKlose",
+        "Namespace": "Move/MoveTeori/MoveElements/BaseMove/FootKlose",
         "SuperElementName": "BaseMove",
         "SubElementName": [
-            "ArchDragSeal",
-            "ArchKickSeal",
-            "FootArchSeal",
-            "FootDragSeal",
-            "HeelDragSeal",
-            "HeelKickSeal",
-            "ToeDragSeal",
-            "ToeKickSeal"
+            "ArchDragKlose",
+            "ArchKickKlose",
+            "FootArchKlose",
+            "FootDragKlose",
+            "HeelDragKlose",
+            "HeelKickKlose",
+            "ToeDragKlose",
+            "ToeKickKlose"
         ],
         "ConcurrentElementName": [],
         "EkoElementName": [],
@@ -2132,9 +2007,9 @@
         "Alias": []
     },
     {
-        "ElementName": "ToeDragSeal",
-        "Namespace": "Move/MoveTeori/MoveElements/BaseMove/FootSeal/ToeDragSeal",
-        "SuperElementName": "FootSeal",
+        "ElementName": "ToeDragKlose",
+        "Namespace": "Move/MoveTeori/MoveElements/BaseMove/FootKlose/ToeDragKlose",
+        "SuperElementName": "FootKlose",
         "SubElementName": [],
         "ConcurrentElementName": [],
         "EkoElementName": [],
@@ -2145,9 +2020,9 @@
         "Alias": []
     },
     {
-        "ElementName": "ToeKickSeal",
-        "Namespace": "Move/MoveTeori/MoveElements/BaseMove/FootSeal/ToeKickSeal",
-        "SuperElementName": "FootSeal",
+        "ElementName": "ToeKickKlose",
+        "Namespace": "Move/MoveTeori/MoveElements/BaseMove/FootKlose/ToeKickKlose",
+        "SuperElementName": "FootKlose",
         "SubElementName": [],
         "ConcurrentElementName": [],
         "EkoElementName": [],
@@ -2170,7 +2045,7 @@
             "LaceTighten",
             "BoxStack",
             "BundleCount",
-            "BundleManoSwap",
+            "BundleManoAllo",
             "BundleStack",
             "GloveOff",
             "GloveOn",
@@ -2190,7 +2065,10 @@
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": [
+            "LegMoveFrase",
+            "FootMoveFrase"
+        ]
     },
     {
         "ElementName": "Hop",
@@ -2203,7 +2081,9 @@
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": [
+            "Jump"
+        ]
     },
     {
         "ElementName": "Kneel",
@@ -2239,7 +2119,7 @@
             "BaseSkreef",
             "Crouch",
             "Error",
-            "FootSeal",
+            "FootKlose",
             "Frase",
             "Hop",
             "Kneel",
@@ -2254,7 +2134,10 @@
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": [
+            "LegMove",
+            "FootMove"
+        ]
     },
     {
         "ElementName": "PlantarFlexion",
@@ -2280,7 +2163,9 @@
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": [
+            "RunningStart"
+        ]
     },
     {
         "ElementName": "Step",
@@ -2306,7 +2191,9 @@
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": [
+            "Stamp"
+        ]
     },
     {
         "ElementName": "BrazoAma",
@@ -2319,7 +2206,9 @@
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": [
+            "ArmProp"
+        ]
     },
     {
         "ElementName": "BrazoAmble",
@@ -2332,7 +2221,10 @@
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": [
+            "ArmAmble",
+            "ArmAmble"
+        ]
     },
     {
         "ElementName": "BrazoCompress",
@@ -2345,7 +2237,9 @@
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": [
+            "ArmCompression"
+        ]
     },
     {
         "ElementName": "BrazoError",
@@ -2358,7 +2252,9 @@
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": [
+            "ArmError"
+        ]
     },
     {
         "ElementName": "BrazoHook",
@@ -2371,7 +2267,9 @@
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": [
+            "ArmHook"
+        ]
     },
     {
         "ElementName": "BrazoOnda",
@@ -2384,7 +2282,11 @@
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": [
+            "ArmSwing",
+            "ArmWhip",
+            "ArmFlag"
+        ]
     },
     {
         "ElementName": "BrazoRockOver",
@@ -2397,7 +2299,9 @@
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": [
+            "ArmRockOver"
+        ]
     },
     {
         "ElementName": "Frase",
@@ -2412,7 +2316,7 @@
             "LaceTighten",
             "BoxStack",
             "BundleCount",
-            "BundleManoSwap",
+            "BundleManoAllo",
             "BundleStack",
             "GloveOff",
             "GloveOn",
@@ -2454,7 +2358,9 @@
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": [
+            "ArmMove"
+        ]
     },
     {
         "ElementName": "CacheError",
@@ -2495,7 +2401,7 @@
             "LaceTighten",
             "BoxStack",
             "BundleCount",
-            "BundleManoSwap",
+            "BundleManoAllo",
             "BundleStack",
             "GloveOff",
             "GloveOn",
@@ -2629,7 +2535,9 @@
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": [
+            "SnapButtonMove"
+        ]
     },
     {
         "ElementName": "ZelcroMove",
@@ -2655,7 +2563,9 @@
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": [
+            "zip up"
+        ]
     },
     {
         "ElementName": "Frase",
@@ -2670,7 +2580,7 @@
             "LaceTighten",
             "BoxStack",
             "BundleCount",
-            "BundleManoSwap",
+            "BundleManoAllo",
             "BundleStack",
             "GloveOff",
             "GloveOn",
@@ -2716,7 +2626,9 @@
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": [
+            "ClothingLayering"
+        ]
     },
     {
         "ElementName": "ClothingMove",
@@ -2782,7 +2694,9 @@
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": [
+            "ClothingPocketMove"
+        ]
     },
     {
         "ElementName": "RainShell",
@@ -2795,7 +2709,10 @@
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": [
+            "RainJacket",
+            "RainCoat"
+        ]
     },
     {
         "ElementName": "RemoveMud",
@@ -2803,12 +2720,16 @@
         "SuperElementName": "ShellLayerMove",
         "SubElementName": [],
         "ConcurrentElementName": [],
-        "EkoElementName": [],
+        "EkoElementName": [
+            "ClaySoil"
+        ],
         "ViaElementName": [],
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": [
+            "ClothingPurga"
+        ]
     },
     {
         "ElementName": "WindShell",
@@ -2821,7 +2742,9 @@
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": [
+            "WindBreaker"
+        ]
     },
     {
         "ElementName": "TextilePreservation",
@@ -2834,7 +2757,9 @@
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": [
+            "ClothingCare"
+        ]
     },
     {
         "ElementName": "KorpoAbsorb",
@@ -2847,7 +2772,9 @@
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": [
+            "BodyAbsorb"
+        ]
     },
     {
         "ElementName": "KorpoBend",
@@ -2860,7 +2787,9 @@
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": [
+            "BodyBend"
+        ]
     },
     {
         "ElementName": "KorpoError",
@@ -2873,7 +2802,9 @@
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": [
+            "BodyError"
+        ]
     },
     {
         "ElementName": "KorpoLean",
@@ -2886,7 +2817,9 @@
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": [
+            "BodyLean"
+        ]
     },
     {
         "ElementName": "KorpoOrbit",
@@ -2899,7 +2832,9 @@
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": [
+            "BodyOrbit"
+        ]
     },
     {
         "ElementName": "KorpoPosture",
@@ -2912,7 +2847,9 @@
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": [
+            "BodyPosture"
+        ]
     },
     {
         "ElementName": "KorpoPropel",
@@ -2925,7 +2862,9 @@
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": [
+            "BodyPropel"
+        ]
     },
     {
         "ElementName": "KorpoRotate",
@@ -2938,7 +2877,9 @@
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": [
+            "BodyRotate"
+        ]
     },
     {
         "ElementName": "KorpoSlot",
@@ -2951,7 +2892,9 @@
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": [
+            "BodySlot"
+        ]
     },
     {
         "ElementName": "KorpoTangent",
@@ -2964,7 +2907,9 @@
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": [
+            "BodyTangent"
+        ]
     },
     {
         "ElementName": "KorpoTwist",
@@ -2977,7 +2922,10 @@
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": [
+            "BodyTwist",
+            "Twist"
+        ]
     },
     {
         "ElementName": "KorpoUnder",
@@ -2990,7 +2938,9 @@
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": [
+            "BodyUnder"
+        ]
     },
     {
         "ElementName": "Crawl",
@@ -3003,7 +2953,9 @@
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": [
+            "on all fours"
+        ]
     },
     {
         "ElementName": "Fall",
@@ -3031,7 +2983,7 @@
             "LaceTighten",
             "BoxStack",
             "BundleCount",
-            "BundleManoSwap",
+            "BundleManoAllo",
             "BundleStack",
             "GloveOff",
             "GloveOn",
@@ -3067,8 +3019,8 @@
         "Alias": []
     },
     {
-        "ElementName": "InclineWalk",
-        "Namespace": "Move/MoveTeori/MoveElements/KorpoMove/InclineWalk",
+        "ElementName": "InclineAmble",
+        "Namespace": "Move/MoveTeori/MoveElements/KorpoMove/InclineAmble",
         "SuperElementName": "KorpoMove",
         "SubElementName": [],
         "ConcurrentElementName": [],
@@ -3077,7 +3029,9 @@
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": [
+            "SlopeAmble"
+        ]
     },
     {
         "ElementName": "Jump",
@@ -3093,17 +3047,21 @@
         "Alias": []
     },
     {
-        "ElementName": "LogWalk",
-        "Namespace": "Move/MoveTeori/MoveElements/KorpoMove/LogWalk",
+        "ElementName": "LogAmble",
+        "Namespace": "Move/MoveTeori/MoveElements/KorpoMove/LogAmble",
         "SuperElementName": "KorpoMove",
         "SubElementName": [],
         "ConcurrentElementName": [],
         "EkoElementName": [],
-        "ViaElementName": [],
+        "ViaElementName": [
+            "Speed"
+        ],
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": [
+            "LogAmble"
+        ]
     },
     {
         "ElementName": "KorpoMove",
@@ -3126,17 +3084,17 @@
             "Fall",
             "Frase",
             "HipHinge",
-            "InclineWalk",
+            "InclineAmble",
             "Jump",
-            "LogWalk",
+            "LogAmble",
             "SpineExtension",
             "SpineFlexion",
             "Stand",
             "StandUp",
             "StepInto",
             "StepOver",
-            "TrenchWalk",
-            "Walk"
+            "TrenchAmble",
+            "Amble"
         ],
         "ConcurrentElementName": [],
         "EkoElementName": [],
@@ -3154,10 +3112,14 @@
         "ConcurrentElementName": [],
         "EkoElementName": [],
         "ViaElementName": [],
-        "MoveElementName": [],
+        "MoveElementName": [
+            "JellyPump"
+        ],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": [
+            "BendBackwards"
+        ]
     },
     {
         "ElementName": "SpineFlexion",
@@ -3170,7 +3132,9 @@
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": [
+            "bend over"
+        ]
     },
     {
         "ElementName": "Stand",
@@ -3183,7 +3147,9 @@
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": [
+            "MountainPose"
+        ]
     },
     {
         "ElementName": "StandUp",
@@ -3196,7 +3162,9 @@
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": [
+            "get up"
+        ]
     },
     {
         "ElementName": "StepInto",
@@ -3225,8 +3193,8 @@
         "Alias": []
     },
     {
-        "ElementName": "TrenchWalk",
-        "Namespace": "Move/MoveTeori/MoveElements/KorpoMove/TrenchWalk",
+        "ElementName": "TrenchAmble",
+        "Namespace": "Move/MoveTeori/MoveElements/KorpoMove/TrenchAmble",
         "SuperElementName": "KorpoMove",
         "SubElementName": [],
         "ConcurrentElementName": [],
@@ -3238,8 +3206,8 @@
         "Alias": []
     },
     {
-        "ElementName": "Walk",
-        "Namespace": "Move/MoveTeori/MoveElements/KorpoMove/Walk",
+        "ElementName": "Amble",
+        "Namespace": "Move/MoveTeori/MoveElements/KorpoMove/Amble",
         "SuperElementName": "KorpoMove",
         "SubElementName": [],
         "ConcurrentElementName": [],
@@ -3248,7 +3216,9 @@
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": [
+            "slow walk"
+        ]
     },
     {
         "ElementName": "DendroEval",
@@ -3261,7 +3231,11 @@
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": [
+            "DendroTest",
+            "TreeTest",
+            "SeedlingTest"
+        ]
     },
     {
         "ElementName": "DendroInsert",
@@ -3274,7 +3248,9 @@
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": [
+            "TreeInsert"
+        ]
     },
     {
         "ElementName": "DendroLoad",
@@ -3287,7 +3263,12 @@
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": [
+            "TreeLoad",
+            "TreeReload",
+            "GetTree",
+            "draw a tree"
+        ]
     },
     {
         "ElementName": "DendroMano",
@@ -3300,7 +3281,10 @@
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": [
+            "DendroGrip",
+            "TreeGrip"
+        ]
     },
     {
         "ElementName": "DendroMove",
@@ -3318,7 +3302,9 @@
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": [
+            "SeedingMove"
+        ]
     },
     {
         "ElementName": "BranchSnap",
@@ -3331,7 +3317,9 @@
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": [
+            "BranchBreak"
+        ]
     },
     {
         "ElementName": "BranchMove",
@@ -3359,7 +3347,9 @@
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": [
+            "PlantBlock"
+        ]
     },
     {
         "ElementName": "FloraCatch",
@@ -3398,7 +3388,9 @@
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": [
+            "FloraBend"
+        ]
     },
     {
         "ElementName": "FloraMachete",
@@ -3411,7 +3403,10 @@
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": [
+            "FloraAxe",
+            "FloraHack"
+        ]
     },
     {
         "ElementName": "FloraMano",
@@ -3424,7 +3419,9 @@
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": [
+            "FloraGrip"
+        ]
     },
     {
         "ElementName": "FloraParry",
@@ -3437,7 +3434,9 @@
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": [
+            "FloraDeflect"
+        ]
     },
     {
         "ElementName": "FloraPassage",
@@ -3450,7 +3449,9 @@
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": [
+            "FlorTraverse"
+        ]
     },
     {
         "ElementName": "FloraSnap",
@@ -3463,7 +3464,9 @@
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": [
+            "FloraBreak"
+        ]
     },
     {
         "ElementName": "Frase",
@@ -3478,7 +3481,7 @@
             "LaceTighten",
             "BoxStack",
             "BundleCount",
-            "BundleManoSwap",
+            "BundleManoAllo",
             "BundleStack",
             "GloveOff",
             "GloveOn",
@@ -3511,7 +3514,9 @@
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": [
+            "LogThrow"
+        ]
     },
     {
         "ElementName": "FloraMove",
@@ -3533,19 +3538,6 @@
             "TrunkMove",
             "TrunkMove"
         ],
-        "ConcurrentElementName": [],
-        "EkoElementName": [],
-        "ViaElementName": [],
-        "MoveElementName": [],
-        "PsikeElementName": [],
-        "Description": "",
-        "Alias": []
-    },
-    {
-        "ElementName": "TrunkMove",
-        "Namespace": "Move/MoveTeori/MoveElements/FloraMove/TrunkMove",
-        "SuperElementName": "FloraMove",
-        "SubElementName": [],
         "ConcurrentElementName": [],
         "EkoElementName": [],
         "ViaElementName": [],
@@ -3593,7 +3585,7 @@
             "LaceTighten",
             "BoxStack",
             "BundleCount",
-            "BundleManoSwap",
+            "BundleAlloMano",
             "BundleStack",
             "GloveOff",
             "GloveOn",
@@ -3639,7 +3631,9 @@
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": [
+            "move head forwards"
+        ]
     },
     {
         "ElementName": "HeadRetraction",
@@ -3652,7 +3646,9 @@
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": [
+            "move head backwards"
+        ]
     },
     {
         "ElementName": "HeadTilt",
@@ -3704,7 +3700,10 @@
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": [
+            "LookUp",
+            "tilt head up"
+        ]
     },
     {
         "ElementName": "NeckFlexion",
@@ -3717,7 +3716,10 @@
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": [
+            "LookDown",
+            "tilt head down"
+        ]
     },
     {
         "ElementName": "HeadMove",
@@ -3755,7 +3757,9 @@
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": [
+            "Talk"
+        ]
     },
     {
         "ElementName": "BootError",
@@ -3781,7 +3785,9 @@
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": [
+            "BootGrip"
+        ]
     },
     {
         "ElementName": "BootPreservation",
@@ -3874,7 +3880,7 @@
             "LaceTighten",
             "BoxStack",
             "BundleCount",
-            "BundleManoSwap",
+            "BundleManoAllo",
             "BundleStack",
             "GloveOff",
             "GloveOn",
@@ -3940,7 +3946,10 @@
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": [
+            "Waterbottle",
+            "Flask"
+        ]
     },
     {
         "ElementName": "BoxConstruct",
@@ -3953,7 +3962,11 @@
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": [
+            "build a Box",
+            "make a Box",
+            "assemble a Box"
+        ]
     },
     {
         "ElementName": "BoxError",
@@ -3992,7 +4005,9 @@
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": [
+            "BoxClose"
+        ]
     },
     {
         "ElementName": "BoxMano",
@@ -4005,7 +4020,9 @@
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": [
+            "BoxGrip"
+        ]
     },
     {
         "ElementName": "BoxSlide",
@@ -4031,7 +4048,9 @@
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": [
+            "BoxCarry"
+        ]
     },
     {
         "ElementName": "BoxStack",
@@ -4059,7 +4078,7 @@
             "LaceTighten",
             "BoxStack",
             "BundleCount",
-            "BundleManoSwap",
+            "BundleManoAllo",
             "BundleStack",
             "GloveOff",
             "GloveOn",
@@ -4127,7 +4146,9 @@
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": [
+            "BundleGrip"
+        ]
     },
     {
         "ElementName": "BundlePeel",
@@ -4166,11 +4187,13 @@
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": [
+            "Bundle counting"
+        ]
     },
     {
-        "ElementName": "BundleManoSwap",
-        "Namespace": "Move/MoveTeori/MoveElements/InstrumentMove/BundleMove/Frase/BundleManoSwap",
+        "ElementName": "BundleAlloMano",
+        "Namespace": "Move/MoveTeori/MoveElements/InstrumentMove/BundleMove/Frase/BundleAlloMano",
         "SuperElementName": "Frase",
         "SubElementName": [],
         "ConcurrentElementName": [],
@@ -4207,7 +4230,7 @@
             "LaceTighten",
             "BoxStack",
             "BundleCount",
-            "BundleManoSwap",
+            "BundleManoAllo",
             "BundleStack",
             "GloveOff",
             "GloveOn",
@@ -4259,7 +4282,9 @@
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": [
+            "StaffAmble"
+        ]
     },
     {
         "ElementName": "DoruAnkor",
@@ -4272,7 +4297,10 @@
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": [
+            "StaffAnchor",
+            "DoruAnchor"
+        ]
     },
     {
         "ElementName": "DoruBump",
@@ -4285,7 +4313,9 @@
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": [
+            "StaffBump"
+        ]
     },
     {
         "ElementName": "DoruPont",
@@ -4298,11 +4328,14 @@
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": [
+            "StaffBridge",
+            "DoruBridge"
+        ]
     },
     {
-        "ElementName": "DoryDrag",
-        "Namespace": "Move/MoveTeori/MoveElements/InstrumentMove/DoruMove/DoryDrag",
+        "ElementName": "DoruDrag",
+        "Namespace": "Move/MoveTeori/MoveElements/InstrumentMove/DoruMove/DoruDrag",
         "SuperElementName": "DoruMove",
         "SubElementName": [],
         "ConcurrentElementName": [],
@@ -4311,11 +4344,13 @@
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": [
+            "StaffDrag"
+        ]
     },
     {
-        "ElementName": "DoryError",
-        "Namespace": "Move/MoveTeori/MoveElements/InstrumentMove/DoruMove/DoryError",
+        "ElementName": "DoruError",
+        "Namespace": "Move/MoveTeori/MoveElements/InstrumentMove/DoruMove/DoruError",
         "SuperElementName": "DoruMove",
         "SubElementName": [],
         "ConcurrentElementName": [],
@@ -4324,11 +4359,13 @@
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": [
+            "StaffError"
+        ]
     },
     {
-        "ElementName": "DoryMano",
-        "Namespace": "Move/MoveTeori/MoveElements/InstrumentMove/DoruMove/DoryMano",
+        "ElementName": "DoruMano",
+        "Namespace": "Move/MoveTeori/MoveElements/InstrumentMove/DoruMove/DoruMano",
         "SuperElementName": "DoruMove",
         "SubElementName": [],
         "ConcurrentElementName": [],
@@ -4337,11 +4374,13 @@
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": [
+            "StaffGrip"
+        ]
     },
     {
-        "ElementName": "DoryPogo",
-        "Namespace": "Move/MoveTeori/MoveElements/InstrumentMove/DoruMove/DoryPogo",
+        "ElementName": "DoruPogo",
+        "Namespace": "Move/MoveTeori/MoveElements/InstrumentMove/DoruMove/DoruPogo",
         "SuperElementName": "DoruMove",
         "SubElementName": [],
         "ConcurrentElementName": [],
@@ -4350,11 +4389,13 @@
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": [
+            "StaffPogo"
+        ]
     },
     {
-        "ElementName": "DoryPoke",
-        "Namespace": "Move/MoveTeori/MoveElements/InstrumentMove/DoruMove/DoryPoke",
+        "ElementName": "DoruPoke",
+        "Namespace": "Move/MoveTeori/MoveElements/InstrumentMove/DoruMove/DoruPoke",
         "SuperElementName": "DoruMove",
         "SubElementName": [],
         "ConcurrentElementName": [],
@@ -4363,11 +4404,13 @@
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": [
+            "StaffPoke"
+        ]
     },
     {
-        "ElementName": "DoryPost",
-        "Namespace": "Move/MoveTeori/MoveElements/InstrumentMove/DoruMove/DoryPost",
+        "ElementName": "DoruPost",
+        "Namespace": "Move/MoveTeori/MoveElements/InstrumentMove/DoruMove/DoruPost",
         "SuperElementName": "DoruMove",
         "SubElementName": [],
         "ConcurrentElementName": [],
@@ -4376,11 +4419,15 @@
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": [
+            "StaffPost",
+            "StaffPlant",
+            "DoruPlant"
+        ]
     },
     {
-        "ElementName": "DoryProp",
-        "Namespace": "Move/MoveTeori/MoveElements/InstrumentMove/DoruMove/DoryProp",
+        "ElementName": "DoruAma",
+        "Namespace": "Move/MoveTeori/MoveElements/InstrumentMove/DoruMove/DoruAma",
         "SuperElementName": "DoruMove",
         "SubElementName": [],
         "ConcurrentElementName": [],
@@ -4389,11 +4436,14 @@
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": [
+            "DoruProp",
+            "StaffProp"
+        ]
     },
     {
-        "ElementName": "DoryPropel",
-        "Namespace": "Move/MoveTeori/MoveElements/InstrumentMove/DoruMove/DoryPropel",
+        "ElementName": "DoruPropel",
+        "Namespace": "Move/MoveTeori/MoveElements/InstrumentMove/DoruMove/DoruPropel",
         "SuperElementName": "DoruMove",
         "SubElementName": [],
         "ConcurrentElementName": [],
@@ -4402,11 +4452,14 @@
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": [
+            "DoruSlam",
+            "StaffSlam"
+        ]
     },
     {
-        "ElementName": "DoryRotate",
-        "Namespace": "Move/MoveTeori/MoveElements/InstrumentMove/DoruMove/DoryRotate",
+        "ElementName": "DoruRotate",
+        "Namespace": "Move/MoveTeori/MoveElements/InstrumentMove/DoruMove/DoruRotate",
         "SuperElementName": "DoruMove",
         "SubElementName": [],
         "ConcurrentElementName": [],
@@ -4415,11 +4468,13 @@
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": [
+            "StaffRotate"
+        ]
     },
     {
-        "ElementName": "DorySkreef",
-        "Namespace": "Move/MoveTeori/MoveElements/InstrumentMove/DoruMove/DorySkreef",
+        "ElementName": "DoruSkreef",
+        "Namespace": "Move/MoveTeori/MoveElements/InstrumentMove/DoruMove/DoruSkreef",
         "SuperElementName": "DoruMove",
         "SubElementName": [],
         "ConcurrentElementName": [],
@@ -4428,11 +4483,13 @@
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": [
+            "StaffSkreef"
+        ]
     },
     {
-        "ElementName": "DorySlap",
-        "Namespace": "Move/MoveTeori/MoveElements/InstrumentMove/DoruMove/DorySlap",
+        "ElementName": "DoruSlap",
+        "Namespace": "Move/MoveTeori/MoveElements/InstrumentMove/DoruMove/DoruSlap",
         "SuperElementName": "DoruMove",
         "SubElementName": [],
         "ConcurrentElementName": [],
@@ -4441,11 +4498,13 @@
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": [
+            "StaffSlap"
+        ]
     },
     {
-        "ElementName": "DorySlide",
-        "Namespace": "Move/MoveTeori/MoveElements/InstrumentMove/DoruMove/DorySlide",
+        "ElementName": "DoruSlide",
+        "Namespace": "Move/MoveTeori/MoveElements/InstrumentMove/DoruMove/DoruSlide",
         "SuperElementName": "DoruMove",
         "SubElementName": [],
         "ConcurrentElementName": [],
@@ -4454,11 +4513,13 @@
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": [
+            "StaffSlide"
+        ]
     },
     {
-        "ElementName": "DoryStall",
-        "Namespace": "Move/MoveTeori/MoveElements/InstrumentMove/DoruMove/DoryStall",
+        "ElementName": "DoruStall",
+        "Namespace": "Move/MoveTeori/MoveElements/InstrumentMove/DoruMove/DoruStall",
         "SuperElementName": "DoruMove",
         "SubElementName": [],
         "ConcurrentElementName": [],
@@ -4467,11 +4528,13 @@
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": [
+            "StaffStall"
+        ]
     },
     {
-        "ElementName": "DoryStomp",
-        "Namespace": "Move/MoveTeori/MoveElements/InstrumentMove/DoruMove/DoryStomp",
+        "ElementName": "DoruStomp",
+        "Namespace": "Move/MoveTeori/MoveElements/InstrumentMove/DoruMove/DoruStomp",
         "SuperElementName": "DoruMove",
         "SubElementName": [],
         "ConcurrentElementName": [],
@@ -4480,11 +4543,13 @@
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": [
+            "StaffStomp"
+        ]
     },
     {
-        "ElementName": "DorySwap",
-        "Namespace": "Move/MoveTeori/MoveElements/InstrumentMove/DoruMove/DorySwap",
+        "ElementName": "DoruAllo",
+        "Namespace": "Move/MoveTeori/MoveElements/InstrumentMove/DoruMove/DoruAllo",
         "SuperElementName": "DoruMove",
         "SubElementName": [],
         "ConcurrentElementName": [],
@@ -4493,11 +4558,13 @@
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": [
+            "StaffAllo"
+        ]
     },
     {
-        "ElementName": "DorySwing",
-        "Namespace": "Move/MoveTeori/MoveElements/InstrumentMove/DoruMove/DorySwing",
+        "ElementName": "DoruOnda",
+        "Namespace": "Move/MoveTeori/MoveElements/InstrumentMove/DoruMove/DoruOnda",
         "SuperElementName": "DoruMove",
         "SubElementName": [],
         "ConcurrentElementName": [],
@@ -4506,20 +4573,10 @@
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
-    },
-    {
-        "ElementName": "DoryTransfer",
-        "Namespace": "Move/MoveTeori/MoveElements/InstrumentMove/DoruMove/DoryTransfer",
-        "SuperElementName": "DoruMove",
-        "SubElementName": [],
-        "ConcurrentElementName": [],
-        "EkoElementName": [],
-        "ViaElementName": [],
-        "MoveElementName": [],
-        "PsikeElementName": [],
-        "Description": "",
-        "Alias": []
+        "Alias": [
+            "StaffOnda",
+            "StaffSwing"
+        ]
     },
     {
         "ElementName": "DoruMove",
@@ -4530,23 +4587,23 @@
             "DoruAnkor",
             "DoruBump",
             "DoruPont",
-            "DoryDrag",
-            "DoryError",
-            "DoryMano",
-            "DoryPogo",
-            "DoryPoke",
-            "DoryPost",
-            "DoryProp",
-            "DoryPropel",
-            "DoryRotate",
-            "DorySkreef",
-            "DorySlap",
-            "DorySlide",
-            "DoryStall",
-            "DoryStomp",
-            "DorySwap",
-            "DorySwing",
-            "DoryTransfer"
+            "DoruDrag",
+            "DoruError",
+            "DoruMano",
+            "DoruPogo",
+            "DoruPoke",
+            "DoruPost",
+            "DoruAma",
+            "DoruPropel",
+            "DoruRotate",
+            "DoruSkreef",
+            "DoruSlap",
+            "DoruSlide",
+            "DoruStall",
+            "DoruStomp",
+            "DoruAllo",
+            "DoruOnda",
+            "DoruTransfer"
         ],
         "ConcurrentElementName": [],
         "EkoElementName": [],
@@ -4595,7 +4652,7 @@
             "LaceTighten",
             "BoxStack",
             "BundleCount",
-            "BundleManoSwap",
+            "BundleManoAllo",
             "BundleStack",
             "GloveOff",
             "GloveOn",
@@ -4685,7 +4742,9 @@
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": [
+            "CarabinerError"
+        ]
     },
     {
         "ElementName": "KarabinerMove",
@@ -4700,7 +4759,9 @@
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": [
+            "CarabinerMove"
+        ]
     },
     {
         "ElementName": "KitOffFrase",
@@ -4713,7 +4774,9 @@
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": [
+            "CacheBag"
+        ]
     },
     {
         "ElementName": "KitOnFrase",
@@ -4741,7 +4804,7 @@
             "LaceTighten",
             "BoxStack",
             "BundleCount",
-            "BundleManoSwap",
+            "BundleManoAllo",
             "BundleStack",
             "GloveOff",
             "GloveOn",
@@ -4774,7 +4837,9 @@
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": [
+            "CacheBagError"
+        ]
     },
     {
         "ElementName": "KitPreservation",
@@ -4804,20 +4869,9 @@
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
-    },
-    {
-        "ElementName": "MarkaGet",
-        "Namespace": "Move/MoveTeori/MoveElements/InstrumentMove/MarkaMove/Frase/MarkaGet",
-        "SuperElementName": "Frase",
-        "SubElementName": [],
-        "ConcurrentElementName": [],
-        "EkoElementName": [],
-        "ViaElementName": [],
-        "MoveElementName": [],
-        "PsikeElementName": [],
-        "Description": "",
-        "Alias": []
+        "Alias": [
+            "CacheBagMove"
+        ]
     },
     {
         "ElementName": "MarkaPut",
@@ -4830,7 +4884,9 @@
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": [
+            "MarkaPlace"
+        ]
     },
     {
         "ElementName": "Frase",
@@ -4845,7 +4901,7 @@
             "LaceTighten",
             "BoxStack",
             "BundleCount",
-            "BundleManoSwap",
+            "BundleManoAllo",
             "BundleStack",
             "GloveOff",
             "GloveOn",
@@ -4891,7 +4947,9 @@
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": [
+            "FlaggerMove"
+        ]
     },
     {
         "ElementName": "MarkaKnot",
@@ -4904,7 +4962,9 @@
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": [
+            "FlagKnot"
+        ]
     },
     {
         "ElementName": "MarkaLoad",
@@ -4917,7 +4977,9 @@
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": [
+            "FlagLoad"
+        ]
     },
     {
         "ElementName": "MarkaMano",
@@ -4930,7 +4992,9 @@
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": [
+            "FlagGrip"
+        ]
     },
     {
         "ElementName": "MarkaRip",
@@ -4943,7 +5007,9 @@
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": [
+            "FlagRip"
+        ]
     },
     {
         "ElementName": "MarkaRoll",
@@ -4956,7 +5022,9 @@
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": [
+            "FlagRoll"
+        ]
     },
     {
         "ElementName": "MarkaMove",
@@ -5007,7 +5075,9 @@
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": [
+            "ToolMove"
+        ]
     },
     {
         "ElementName": "BackBagMove",
@@ -5046,7 +5116,9 @@
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": [
+            "BagUp"
+        ]
     },
     {
         "ElementName": "BagLift",
@@ -5062,7 +5134,7 @@
         "Alias": []
     },
     {
-        "ElementName": "BagShield",
+        "ElementName": "BagBlock",
         "Namespace": "Move/MoveTeori/MoveElements/InstrumentMove/PlantaforMove/BagMove/BagShield",
         "SuperElementName": "BagMove",
         "SubElementName": [],
@@ -5087,7 +5159,7 @@
             "LaceTighten",
             "BoxStack",
             "BundleCount",
-            "BundleManoSwap",
+            "BundleManoAllo",
             "BundleStack",
             "GloveOff",
             "GloveOn",
@@ -5130,7 +5202,9 @@
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": [
+            "PlantingBagsMove"
+        ]
     },
     {
         "ElementName": "PlantaforAdjust",
@@ -5143,7 +5217,9 @@
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": [
+            "PlantingBagsAdjust"
+        ]
     },
     {
         "ElementName": "PlantaforError",
@@ -5156,7 +5232,9 @@
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": [
+            "PlantingBagsError"
+        ]
     },
     {
         "ElementName": "PlantaforLift",
@@ -5169,7 +5247,9 @@
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": [
+            "PlantingBagsLift"
+        ]
     },
     {
         "ElementName": "PlantaforOff",
@@ -5182,7 +5262,10 @@
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": [
+            "PlantingBagsOff",
+            "BagsOff"
+        ]
     },
     {
         "ElementName": "PlantaforOn",
@@ -5195,7 +5278,10 @@
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": [
+            "bag on",
+            "PlantingBagsOn"
+        ]
     },
     {
         "ElementName": "PlantaforPreservation",
@@ -5249,7 +5335,9 @@
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": [
+            "VambraceMove"
+        ]
     },
     {
         "ElementName": "RadiorPreservation",
@@ -5344,7 +5432,9 @@
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": [
+            "CollarGrip"
+        ]
     },
     {
         "ElementName": "SpadeTest",
@@ -5357,7 +5447,9 @@
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": [
+            "SpadeProbe"
+        ]
     },
     {
         "ElementName": "SpadeMove",
@@ -5371,7 +5463,7 @@
             "SpadeBallista",
             "SpadeBlock",
             "SpadeDendrektomi",
-            "SpadeDilate",
+            "SpadeOpen",
             "SpadeDrag",
             "SpadeError",
             "SpadeHook",
@@ -5387,13 +5479,13 @@
             "SpadePropel",
             "SpadePurga",
             "SpadeRotate",
-            "SpadeSeal",
+            "SpadeKlose",
             "SpadeSkreef",
             "SpadeSlap",
             "SpadeStall",
             "SpadeStomp",
             "SpadeTomi",
-            "SpadeTransfer",
+            "SpadeAlloMano",
             "SpadeTransport"
         ],
         "ConcurrentElementName": [],
@@ -5415,7 +5507,9 @@
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": [
+            "SpadeProp"
+        ]
     },
     {
         "ElementName": "SpadeAmble",
@@ -5428,7 +5522,9 @@
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": [
+            "SpadeWalk"
+        ]
     },
     {
         "ElementName": "SpadeAnkor",
@@ -5454,7 +5550,9 @@
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": [
+            "SpadeThrow"
+        ]
     },
     {
         "ElementName": "SpadeBlock",
@@ -5467,7 +5565,9 @@
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": [
+            "SpadeDeflect"
+        ]
     },
     {
         "ElementName": "SpadeDendrektomi",
@@ -5480,11 +5580,15 @@
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": [
+            "RemoveTree",
+            "RemoveDendron",
+            "pull a tree"
+        ]
     },
     {
-        "ElementName": "SpadeDilate",
-        "Namespace": "Move/MoveTeori/MoveElements/InstrumentMove/SpadeMove/SpadeDilate",
+        "ElementName": "SpadeOpen",
+        "Namespace": "Move/MoveTeori/MoveElements/InstrumentMove/SpadeMove/SpadeOpen",
         "SuperElementName": "SpadeMove",
         "SubElementName": [],
         "ConcurrentElementName": [],
@@ -5545,7 +5649,9 @@
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": [
+            "SpadeGrip"
+        ]
     },
     {
         "ElementName": "SpadeMuscleUp",
@@ -5571,7 +5677,11 @@
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": [
+            "SpadeWhip",
+            "SpadeSwing",
+            "SpadeFlag"
+        ]
     },
     {
         "ElementName": "SpadePlastBimano",
@@ -5584,7 +5694,7 @@
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": ["SpadeHandleMatch"]
     },
     {
         "ElementName": "SpadePlastMano",
@@ -5597,7 +5707,7 @@
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": ["SpadeHandleGrip"]
     },
     {
         "ElementName": "SpadePogo",
@@ -5636,7 +5746,7 @@
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": ["SpadePlant"]
     },
     {
         "ElementName": "SpadePreservation",
@@ -5649,7 +5759,7 @@
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": ["SpadeCare"]
     },
     {
         "ElementName": "SpadePropel",
@@ -5662,7 +5772,7 @@
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": ["SpadeSlam"]
     },
     {
         "ElementName": "SpadePurga",
@@ -5675,7 +5785,7 @@
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": ["SpadeClean"]
     },
     {
         "ElementName": "SpadeRotate",
@@ -5691,8 +5801,8 @@
         "Alias": []
     },
     {
-        "ElementName": "SpadeSeal",
-        "Namespace": "Move/MoveTeori/MoveElements/InstrumentMove/SpadeMove/SpadeSeal",
+        "ElementName": "SpadeKlose",
+        "Namespace": "Move/MoveTeori/MoveElements/InstrumentMove/SpadeMove/SpadeKlose",
         "SuperElementName": "SpadeMove",
         "SubElementName": [],
         "ConcurrentElementName": [],
@@ -5701,7 +5811,7 @@
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": ["SpadeClose"]
     },
     {
         "ElementName": "SpadeSkreef",
@@ -5714,7 +5824,7 @@
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": ["SpadeScreef"]
     },
     {
         "ElementName": "SpadeSlap",
@@ -5769,8 +5879,8 @@
         "Alias": []
     },
     {
-        "ElementName": "SpadeTransfer",
-        "Namespace": "Move/MoveTeori/MoveElements/InstrumentMove/SpadeMove/SpadeTransfer",
+        "ElementName": "SpadeAllo",
+        "Namespace": "Move/MoveTeori/MoveElements/InstrumentMove/SpadeMove/SpadeAlloMano",
         "SuperElementName": "SpadeMove",
         "SubElementName": [],
         "ConcurrentElementName": [],
@@ -5779,7 +5889,7 @@
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": ["HandAllo","AlloMano"]
     },
     {
         "ElementName": "SpadeTransport",
@@ -5807,7 +5917,7 @@
             "LaceTighten",
             "BoxStack",
             "BundleCount",
-            "BundleManoSwap",
+            "BundleManoAllo",
             "BundleStack",
             "GloveOff",
             "GloveOn",
@@ -5951,7 +6061,7 @@
             "LaceTighten",
             "BoxStack",
             "BundleCount",
-            "BundleManoSwap",
+            "BundleManoAllo",
             "BundleStack",
             "GloveOff",
             "GloveOn",
@@ -6026,9 +6136,9 @@
         "Alias": []
     },
     {
-        "ElementName": "HammerSeal",
-        "Namespace": "Move/MoveTeori/MoveElements/ManoMove/ManoSeal/HammerSeal",
-        "SuperElementName": "ManoSeal",
+        "ElementName": "HammerKlose",
+        "Namespace": "Move/MoveTeori/MoveElements/ManoMove/ManoKlose/HammerKlose",
+        "SuperElementName": "ManoKlose",
         "SubElementName": [],
         "ConcurrentElementName": [],
         "EkoElementName": [],
@@ -6039,9 +6149,9 @@
         "Alias": []
     },
     {
-        "ElementName": "ManoDragSeal",
-        "Namespace": "Move/MoveTeori/MoveElements/ManoMove/ManoSeal/ManoDragSeal",
-        "SuperElementName": "ManoSeal",
+        "ElementName": "ManoDragKlose",
+        "Namespace": "Move/MoveTeori/MoveElements/ManoMove/ManoKlose/ManoDragKlose",
+        "SuperElementName": "ManoKlose",
         "SubElementName": [],
         "ConcurrentElementName": [],
         "EkoElementName": [],
@@ -6052,15 +6162,15 @@
         "Alias": []
     },
     {
-        "ElementName": "ManoSeal",
-        "Namespace": "Move/MoveTeori/MoveElements/ManoMove/ManoSeal",
+        "ElementName": "ManoKlose",
+        "Namespace": "Move/MoveTeori/MoveElements/ManoMove/ManoKlose",
         "SuperElementName": "ManoMove",
         "SubElementName": [
-            "HammerSeal",
-            "ManoDragSeal",
-            "PalmSeal",
-            "PunchSeal",
-            "SlapSeal"
+            "HammerKlose",
+            "ManoDragKlose",
+            "PalmKlose",
+            "PunchKlose",
+            "SlapKlose"
         ],
         "ConcurrentElementName": [],
         "EkoElementName": [],
@@ -6071,9 +6181,9 @@
         "Alias": []
     },
     {
-        "ElementName": "PalmSeal",
-        "Namespace": "Move/MoveTeori/MoveElements/ManoMove/ManoSeal/PalmSeal",
-        "SuperElementName": "ManoSeal",
+        "ElementName": "PalmKlose",
+        "Namespace": "Move/MoveTeori/MoveElements/ManoMove/ManoKlose/PalmKlose",
+        "SuperElementName": "ManoKlose",
         "SubElementName": [],
         "ConcurrentElementName": [],
         "EkoElementName": [],
@@ -6084,9 +6194,9 @@
         "Alias": []
     },
     {
-        "ElementName": "PunchSeal",
-        "Namespace": "Move/MoveTeori/MoveElements/ManoMove/ManoSeal/PunchSeal",
-        "SuperElementName": "ManoSeal",
+        "ElementName": "PunchKlose",
+        "Namespace": "Move/MoveTeori/MoveElements/ManoMove/ManoKlose/PunchKlose",
+        "SuperElementName": "ManoKlose",
         "SubElementName": [],
         "ConcurrentElementName": [],
         "EkoElementName": [],
@@ -6097,9 +6207,9 @@
         "Alias": []
     },
     {
-        "ElementName": "SlapSeal",
-        "Namespace": "Move/MoveTeori/MoveElements/ManoMove/ManoSeal/SlapSeal",
-        "SuperElementName": "ManoSeal",
+        "ElementName": "SlapKlose",
+        "Namespace": "Move/MoveTeori/MoveElements/ManoMove/ManoKlose/SlapKlose",
+        "SuperElementName": "ManoKlose",
         "SubElementName": [],
         "ConcurrentElementName": [],
         "EkoElementName": [],
@@ -6147,7 +6257,7 @@
             "ManoDig",
             "ManoOrbit",
             "ManoPoke",
-            "ManoSeal",
+            "ManoKlose",
             "ManoSkreef",
             "ManoSlide"
         ],
@@ -6198,7 +6308,7 @@
             "LaceTighten",
             "BoxStack",
             "BundleCount",
-            "BundleManoSwap",
+            "BundleManoAllo",
             "BundleStack",
             "GloveOff",
             "GloveOn",
@@ -6226,13 +6336,13 @@
         "SuperElementName": "MoveElements",
         "SubElementName": [
             "Frase",
-            "SiteDilate",
+            "SiteOpen",
             "SiteEnter",
             "SiteError",
             "SiteEval",
             "SiteExtract",
             "SiteMark",
-            "SiteSeal",
+            "SiteKlose",
             "SiteSelect",
             "SiteSkreef"
         ],
@@ -6245,8 +6355,8 @@
         "Alias": []
     },
     {
-        "ElementName": "SiteDilate",
-        "Namespace": "Move/MoveTeori/MoveElements/SiteMove/SiteDilate",
+        "ElementName": "SiteOpen",
+        "Namespace": "Move/MoveTeori/MoveElements/SiteMove/SiteOpen",
         "SuperElementName": "SiteMove",
         "SubElementName": [],
         "ConcurrentElementName": [],
@@ -6323,8 +6433,8 @@
         "Alias": []
     },
     {
-        "ElementName": "SiteSeal",
-        "Namespace": "Move/MoveTeori/MoveElements/SiteMove/SiteSeal",
+        "ElementName": "SiteKlose",
+        "Namespace": "Move/MoveTeori/MoveElements/SiteMove/SiteKlose",
         "SuperElementName": "SiteMove",
         "SubElementName": [],
         "ConcurrentElementName": [],
@@ -8648,8 +8758,8 @@
             "RotationLine",
             "SpiralLine",
             "StraightLine",
-            "WalkInLine",
-            "WalkoutLine",
+            "AmbleInLine",
+            "AmbleoutLine",
             "ZigzagLine"
         ],
         "ConcurrentElementName": [],
@@ -8713,8 +8823,8 @@
         "Alias": []
     },
     {
-        "ElementName": "WalkInLine",
-        "Namespace": "Via/ViaTeori/ViaElements/ViaPropositions/ViaTeorem/LineTeorem/WalkInLine",
+        "ElementName": "AmbleInLine",
+        "Namespace": "Via/ViaTeori/ViaElements/ViaPropositions/ViaTeorem/LineTeorem/AmbleInLine",
         "SuperElementName": "LineTeorem",
         "SubElementName": [],
         "ConcurrentElementName": [],
@@ -8726,8 +8836,8 @@
         "Alias": []
     },
     {
-        "ElementName": "WalkoutLine",
-        "Namespace": "Via/ViaTeori/ViaElements/ViaPropositions/ViaTeorem/LineTeorem/WalkoutLine",
+        "ElementName": "AmbleoutLine",
+        "Namespace": "Via/ViaTeori/ViaElements/ViaPropositions/ViaTeorem/LineTeorem/AmbleoutLine",
         "SuperElementName": "LineTeorem",
         "SubElementName": [],
         "ConcurrentElementName": [],
@@ -8814,7 +8924,9 @@
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": [
+            "TreeMarka"
+        ]
     },
     {
         "ElementName": "TrenchExitMarka",
@@ -8827,7 +8939,9 @@
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": [
+            "TrenchExitFlag"
+        ]
     },
     {
         "ElementName": "WastedMarka",
@@ -8835,12 +8949,16 @@
         "SuperElementName": "MarkaTeorem",
         "SubElementName": [],
         "ConcurrentElementName": [],
-        "EkoElementName": [],
+        "EkoElementName": [
+            "Wind"
+        ],
         "ViaElementName": [],
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": [
+            "WastedFlag"
+        ]
     },
     {
         "ElementName": "ZoneMarka",
@@ -8853,7 +8971,9 @@
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": [
+            "AreaFlagging"
+        ]
     },
     {
         "ElementName": "ViaTeorem",

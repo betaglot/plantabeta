@@ -1,22 +1,10 @@
-# 🟠<move>BagBlock</move>
+# D3.TemporalForceDirectedGraph
 
-## 🕸 BagBlock.Skema
+<https://observablehq.com/@d3/temporal-force-directed-graph>
 
-### Related 🟩<eko>Eko</eko>
+> A ForceDirectedGraph which changes over time
 
--
-
-### Related 🔻<via>Via</via>
-
--
-
-### Related 🟠<move>Move</move>
-
--
-
-### Related 💜<psike>Psike</psike>
-
--
+- To show how the BetaInstance's Skema changes in a Sequence
 
 ---
 

@@ -1,8 +1,6 @@
-# 🟠<move>SpadeTransfer</move>
+# 🟠<move>SpadeKlose</move>
 
-Aliases: Hand Swap, Hand Switch
-
-## 🕸 SpadeTransfer.Skema
+## 🕸 SpadeKlose.Skema
 
 ### Related 🟩<eko>Eko</eko>
 
@@ -29,6 +27,6 @@ Aliases: Hand Swap, Hand Switch
 <!-- =================================================== -->
 ::: details 🛠 <dev>&&&</dev>
 
--
+- SpadeKlose
 
 :::

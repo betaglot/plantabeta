@@ -83,3 +83,18 @@ When MargoHayes attempted Biographie(9a+) while it was WetRoute.
     - Intense in which Direction. Mano can be intense IntoWall, DownWall, UpWall, OutOfWall. PinchMano.Error.Slide on VerticalWall, slides DownWall, which PinchMano.Error.Slide on OverhangWall is OutOfWall.
         - (MovementDirection)RelativeTo(Route)
             - IntoWall, DownWall, UpWall, OutOfWall
+
+
+---
+
+<!-- =================================================== -->
+<!-- =================================================== -->
+<!-- =================================================== -->
+<!-- =================================================== -->
+<!-- =================================================== -->
+::: details 🛠 <dev>&&&</dev>
+
+-
+
+:::
+

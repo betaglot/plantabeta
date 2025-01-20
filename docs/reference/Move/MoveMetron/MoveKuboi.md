@@ -1,5 +1,5 @@
 
-# 🔷🟠 <move>Move</move> Risk
+# 🔷🟠 <move>MoveKuboi</move>
 
 ## Definition
 

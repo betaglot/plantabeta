@@ -1,12 +1,12 @@
-# 🟠 <move>Walk</move>
+# 🟠 <move>Amble</move>
 
 ![MoveIkon](/Move/Move_Ikon.png)
 
-## Walk.Purpose
+## Amble.Purpose
 
-- Walk is the most frequent top level Move
+- Amble is the most frequent top level Move
 
-## Walk.Attributes
+## Amble.Attributes
 
 ### StepLength
 
@@ -18,26 +18,26 @@ Compensation is also less dynamic ie acceleration modulation is low. You don't n
 
 Aim small miss small. Larger moves have larger potential for error
 
-## Subset of Walking
+## Subset of Ambleing
 
-### WalkIn and WalkOut
+### AmbleIn and AmbleOut
 
-- Walking while carrying all your gear. WalkIn towards your cache
-- WalkIn occurs when the truck can't drop you off close to your cache.
+- Ambleing while carrying all your gear. AmbleIn towards your cache
+- AmbleIn occurs when the truck can't drop you off close to your cache.
 - Sometimes some of your gear will be brought by your supervisor on with an ATV or being carried.
     - Use case for a [Cart](/dev/Instruments#cart)
 
 ### Deadwalk
 
 - How can Deadwalk become useful, probably for Via.
-- Walking within a piece while **not** performing a planting Frase.
+- Ambleing within a piece while **not** performing a planting Frase.
 - Deadwalks are required to Cover very oblong areas.
 
-## Walk.Metod
+## Amble.Metod
 
 - LengthenStep() mid step Or ShortenStep()
 
-## 🕸 Walk.Skema
+## 🕸 Amble.Skema
 
 ### Related 🟩<eko>Eko</eko>
 
@@ -45,7 +45,7 @@ Aim small miss small. Larger moves have larger potential for error
 
 ### Related 🔻<via>Via</via>
 
-- WalkSpeed
+- AmbleSpeed
 
 ### Related 🟠<move>Move</move>
 
@@ -64,19 +64,19 @@ Aim small miss small. Larger moves have larger potential for error
 <!-- =================================================== -->
 ::: details 🛠 <dev>&&&</dev>
 
-- WalkSpeed
+- AmbleSpeed
     - RelativeToAtlete
     - Velocity
 - GaitWidth
     - Inline like a Wolf or Wide like a crab
 - StrideLength
-    - Shorten StrideLength during SlopeUpWalk or SlopeDownWalk
+    - Shorten StrideLength during SlopeUpAmble or SlopeDownAmble
     - Shorten StrideLength on UnstableSlope
-- (ArmAmble + Walk) on SteepSlope
-- StompTest when LogWalking
+- (ArmAmble + Amble) on SteepSlope
+- StompTest when LogAmbleing
 
 <h2>PageTags</h2>
 
-- "Move.BodyMove.Walk"
+- "Move.BodyMove.Amble"
 
 :::

@@ -1,22 +1,6 @@
-# 🟠<move>BagBlock</move>
+# D3.ZoomSunburst
 
-## 🕸 BagBlock.Skema
-
-### Related 🟩<eko>Eko</eko>
-
--
-
-### Related 🔻<via>Via</via>
-
--
-
-### Related 🟠<move>Move</move>
-
--
-
-### Related 💜<psike>Psike</psike>
-
--
+<https://observablehq.com/@d3/zoomable-sunburst>
 
 ---
 
@@ -27,6 +11,7 @@
 <!-- =================================================== -->
 ::: details 🛠 <dev>&&&</dev>
 
--
+- Use for transcription
+- Add links to each Node for Taxonomy Navigation
 
 :::

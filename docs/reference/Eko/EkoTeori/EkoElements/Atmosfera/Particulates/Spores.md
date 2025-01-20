@@ -1,6 +1,6 @@
-# 🟠<move>SpadeDilate</move>
+# 🟩<eko>Spores</eko>
 
-## 🕸 SpadeDilate.Skema
+## 🕸 Spores.Skema
 
 ### Related 🟩<eko>Eko</eko>
 
@@ -27,8 +27,6 @@
 <!-- =================================================== -->
 ::: details 🛠 <dev>&&&</dev>
 
-- CCut
-    - Only in CreamySoil
-- DoubleTap
+-
 
 :::

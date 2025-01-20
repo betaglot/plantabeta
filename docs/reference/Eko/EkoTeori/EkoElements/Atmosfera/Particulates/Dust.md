@@ -1,6 +1,6 @@
-# 🟠<move>SpadeSeal</move>
+# 🟩<eko>Dust</eko>
 
-## 🕸 SpadeSeal.Skema
+## 🕸 Dust.Skema
 
 ### Related 🟩<eko>Eko</eko>
 
@@ -27,6 +27,6 @@
 <!-- =================================================== -->
 ::: details 🛠 <dev>&&&</dev>
 
-- SpadeSeal
+-
 
 :::

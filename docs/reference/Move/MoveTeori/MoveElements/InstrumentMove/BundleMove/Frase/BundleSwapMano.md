@@ -1,6 +1,6 @@
-# 🟠<move>BundleManoSwap</move>
+# 🟠<move>BundleAlloMano</move>
 
-## 🕸 BundleManoSwap.Skema
+## 🕸 BundleAlloMano.Skema
 
 ### Related 🟩<eko>Eko</eko>
 
