@@ -84,7 +84,6 @@ When MargoHayes attempted Biographie(9a+) while it was WetRoute.
         - (MovementDirection)RelativeTo(Route)
             - IntoWall, DownWall, UpWall, OutOfWall
 
-
 ---
 
 <!-- =================================================== -->
@@ -97,4 +96,3 @@ When MargoHayes attempted Biographie(9a+) while it was WetRoute.
 -
 
 :::
-

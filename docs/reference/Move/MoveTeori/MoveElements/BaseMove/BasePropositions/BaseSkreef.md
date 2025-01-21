@@ -1,6 +1,8 @@
-# 🟠 <move>BodyBend</move>
+# 🟠 <move>BaseSkreef</move>
 
-## 🕸 BodyBend.Skema
+![MoveIkon](/Move/Move_Ikon.png)
+
+## 🕸 BaseSkreef.Skema
 
 ### Related 🟩<eko>Eko</eko>
 
@@ -12,8 +14,7 @@
 
 ### Related 🟠<move>Move</move>
 
-- SpineFlexion
-- HipHinge
+-
 
 ### Related 💜<psike>Psike</psike>
 
@@ -28,10 +29,15 @@
 <!-- =================================================== -->
 ::: details 🛠 <dev>&&&</dev>
 
--
-
-<h2>PageTags</h2>
-
-- "Move.BodyMove.BodyBend"
+- ToeSkreef
+- HeelSkreef
+    - HeelPushSkreef Moss on Cream
+    - BaseDorsiFlexion
+- Don't BaseSkreef Poa
+- Minimize BaseSkreef
+- Stabilize your body during BaseSkreef
+    - BrazoAma
+        - HandSmear on Trunk
+    - SpadeAma
 
 :::

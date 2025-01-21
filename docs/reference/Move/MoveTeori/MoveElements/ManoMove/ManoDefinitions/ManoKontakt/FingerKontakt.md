@@ -1,22 +1,4 @@
-# 🟠<move>FootArchSeal</move>
-
-## 🕸 FootArchSeal.Skema
-
-### Related 🟩<eko>Eko</eko>
-
--
-
-### Related 🔻<via>Via</via>
-
--
-
-### Related 🟠<move>Move</move>
-
--
-
-### Related 💜<psike>Psike</psike>
-
--
+# 🟠<move>FingerKontakt</move>
 
 ---
 
@@ -27,6 +9,6 @@
 <!-- =================================================== -->
 ::: details 🛠 <dev>&&&</dev>
 
-- FootSeal
+-
 
-Arch:::
+:::

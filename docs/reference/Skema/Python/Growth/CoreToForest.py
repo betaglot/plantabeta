@@ -22,7 +22,4 @@ https://observablehq.com/@d3/force-directed-graph/2
 
 """
 
-data = {
-    "nodes": [{"id": "Napoleon", "group": 1}],
-    "links": [{"source": "Napoleon", "target": "Myriel", "value": 1}],
-}
+

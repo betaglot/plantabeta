@@ -1,8 +1,6 @@
-# 🟠 <move>FootSkreef</move>
+# 🟠 <move>BodyBend</move>
 
-![MoveIkon](/Move/Move_Ikon.png)
-
-## 🕸 FootSkreef.Skema
+## 🕸 BodyBend.Skema
 
 ### Related 🟩<eko>Eko</eko>
 
@@ -14,7 +12,9 @@
 
 ### Related 🟠<move>Move</move>
 
--
+- LegFlexion
+- SpineFlexion
+- HipHinge
 
 ### Related 💜<psike>Psike</psike>
 
@@ -29,14 +29,10 @@
 <!-- =================================================== -->
 ::: details 🛠 <dev>&&&</dev>
 
-- HeelSkreef
-    - HeelPushSkreef Moss on Cream
-    - FootDorsiFlexion
-- Don't FootSkreef Poa
-- Minimize FootSkreef
-- Stabilize your body during FootSkreef
-    - BrazoAma
-        - HandSmear on Trunk
-    - SpadeAma
+-
+
+<h2>PageTags</h2>
+
+- "Move.BodyMove.BodyBend"
 
 :::

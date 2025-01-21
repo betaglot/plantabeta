@@ -1,24 +1,4 @@
-# 🟠 <move>FootArchSmear</move>
-
-![MoveIkon](/Move/Move_Ikon.png)
-
-## 🕸 FootArchSmear.Skema
-
-### Related 🟩<eko>Eko</eko>
-
--
-
-### Related 🔻<via>Via</via>
-
--
-
-### Related 🟠<move>Move</move>
-
--
-
-### Related 💜<psike>Psike</psike>
-
--
+# 🟠<move>MedialKontakt</move>
 
 ---
 
@@ -29,9 +9,6 @@
 <!-- =================================================== -->
 ::: details 🛠 <dev>&&&</dev>
 
--
+- MedialEdge of Boot
 
-<h2>PageTags</h2>
-
-- "Move.FootMove.FootArchSmear"
 :::

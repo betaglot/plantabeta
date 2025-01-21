@@ -9339,8 +9339,8 @@
             "RotationLine",
             "SpiralLine",
             "StraightLine",
-            "AmbleInLine",
-            "AmbleoutLine",
+            "WalkInLine",
+            "WalkOutLine",
             "ZigzagLine"
         ],
         "ConcurrentElementName": [],
@@ -9377,14 +9377,14 @@
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": [],
+        "Alias": ["RotationAxis","RotationalAxis"],
         "Dev": []
     },
     {
         "ElementName": "SpiralLine",
         "Namespace": "Via/ViaTeori/ViaElements/ViaPropositions/ViaTeorem/LineTeorem/SpiralLine",
         "SuperElementName": "LineTeorem",
-        "SubElementName": [],
+        "SubElementName": ["3SpiralLine","10SpiralLine","30SpiralLine"],
         "ConcurrentElementName": [],
         "EkoElementName": [],
         "ViaElementName": [],
@@ -9409,8 +9409,8 @@
         "Dev": []
     },
     {
-        "ElementName": "AmbleInLine",
-        "Namespace": "Via/ViaTeori/ViaElements/ViaPropositions/ViaTeorem/LineTeorem/AmbleInLine",
+        "ElementName": "WalkInLine",
+        "Namespace": "Via/ViaTeori/ViaElements/ViaPropositions/ViaTeorem/LineTeorem/WalkInLine",
         "SuperElementName": "LineTeorem",
         "SubElementName": [],
         "ConcurrentElementName": [],
@@ -9423,8 +9423,8 @@
         "Dev": []
     },
     {
-        "ElementName": "AmbleoutLine",
-        "Namespace": "Via/ViaTeori/ViaElements/ViaPropositions/ViaTeorem/LineTeorem/AmbleoutLine",
+        "ElementName": "WalkOutLine",
+        "Namespace": "Via/ViaTeori/ViaElements/ViaPropositions/ViaTeorem/LineTeorem/WalkOutLine",
         "SuperElementName": "LineTeorem",
         "SubElementName": [],
         "ConcurrentElementName": [],
@@ -9461,7 +9461,7 @@
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": [],
+        "Alias": ["PieceBoundary","BlockBoundary","FlagBoundary","a flag line around the zone"],
         "Dev": []
     },
     {
@@ -9473,7 +9473,7 @@
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": [],
+        "PsikeElementName": ["LongDistanceSight"],
         "Description": "",
         "Alias": [],
         "Dev": []
@@ -9718,7 +9718,10 @@
         "ElementName": "4Density",
         "Namespace": "Via/ViaTeori/ViaElements/ViaPropositions/ViaTeorem/ZoneTeorem/Site/SiteDensity/4Density",
         "SuperElementName": "SiteDensity",
-        "SubElementName": [],
+        "SubElementName": [
+            "9RegularDensity",
+            "9IrregularDensity"
+        ],
         "ConcurrentElementName": [],
         "EkoElementName": [],
         "ViaElementName": [],
@@ -9732,7 +9735,10 @@
         "ElementName": "5Density",
         "Namespace": "Via/ViaTeori/ViaElements/ViaPropositions/ViaTeorem/ZoneTeorem/Site/SiteDensity/5Density",
         "SuperElementName": "SiteDensity",
-        "SubElementName": [],
+        "SubElementName": [
+            "5RegularDensity",
+            "5IrregularDensity"
+        ],
         "ConcurrentElementName": [],
         "EkoElementName": [],
         "ViaElementName": [],
@@ -9746,7 +9752,10 @@
         "ElementName": "6Density",
         "Namespace": "Via/ViaTeori/ViaElements/ViaPropositions/ViaTeorem/ZoneTeorem/Site/SiteDensity/6Density",
         "SuperElementName": "SiteDensity",
-        "SubElementName": [],
+        "SubElementName": [
+            "6RegularDensity",
+            "6IrregularDensity"
+        ],
         "ConcurrentElementName": [],
         "EkoElementName": [],
         "ViaElementName": [],
@@ -9760,7 +9769,10 @@
         "ElementName": "7Density",
         "Namespace": "Via/ViaTeori/ViaElements/ViaPropositions/ViaTeorem/ZoneTeorem/Site/SiteDensity/7Density",
         "SuperElementName": "SiteDensity",
-        "SubElementName": [],
+        "SubElementName": [
+            "7RegularDensity",
+            "7IrregularDensity"
+        ],
         "ConcurrentElementName": [],
         "EkoElementName": [],
         "ViaElementName": [],
@@ -9774,7 +9786,10 @@
         "ElementName": "8Density",
         "Namespace": "Via/ViaTeori/ViaElements/ViaPropositions/ViaTeorem/ZoneTeorem/Site/SiteDensity/8Density",
         "SuperElementName": "SiteDensity",
-        "SubElementName": [],
+        "SubElementName": [
+            "8RegularDensity",
+            "8IrregularDensity"
+        ],
         "ConcurrentElementName": [],
         "EkoElementName": [],
         "ViaElementName": [],
@@ -9788,7 +9803,10 @@
         "ElementName": "9Density",
         "Namespace": "Via/ViaTeori/ViaElements/ViaPropositions/ViaTeorem/ZoneTeorem/Site/SiteDensity/9Density",
         "SuperElementName": "SiteDensity",
-        "SubElementName": [],
+        "SubElementName": [
+            "9RegularDensity",
+            "9IrregularDensity"
+        ],
         "ConcurrentElementName": [],
         "EkoElementName": [],
         "ViaElementName": [],
@@ -9858,7 +9876,9 @@
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": [],
+        "Alias": [
+            "ContractSpacing"
+        ],
         "Dev": []
     },
     {
@@ -9866,7 +9886,9 @@
         "Namespace": "Via/ViaTeori/ViaElements/ViaPropositions/ViaTeorem/ZoneTeorem/Site/SiteProximity",
         "SuperElementName": "Site",
         "SubElementName": [
-            "MaximumProximity",
+            {
+                "MaximumProximity": []
+            },
             "MinimumProximity",
             "OptimalProximity"
         ],
@@ -9876,7 +9898,12 @@
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": [],
+        "Alias": [
+            "Spacing",
+            "InterTreeSpacing",
+            "TreeSpacing",
+            "DendroSpacing"
+        ],
         "Dev": []
     },
     {

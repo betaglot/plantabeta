@@ -38,7 +38,6 @@ BlockFill Pattern plantors usually it's only supervisors that need to know Block
 
 - <https://www.researchgate.net/figure/Complete-coverage-path-planning-in-an-unstructured-Eco_fig3_8345839>
 
-
 - [The Fastest Maze-Solving Competition On Earth](https://www.youtube.com/watch?v=ZMQbHMgK2rw&ab_channel=Veritasium)
 - [HexagonCoverPattern](https://www.youtube.com/watch?v=BM9Qe4XjJ0k&ab_channel=VeRLab-LaboratoryofComputerVisionandRobotics)
 - <https://www.fujipress.jp/jrm/rb/robot003000010005/>
