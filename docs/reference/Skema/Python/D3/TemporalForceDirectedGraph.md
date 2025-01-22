@@ -1,6 +1,8 @@
-# D3.TemporalForceDirectedGraph
+# D3.ForceDirectedGraph
 
-<https://observablehq.com/@d3/temporal-force-directed-graph>
+With Labels
+
+<https://observablehq.com/@shreshthmohan/force-directed-graph>
 
 > A ForceDirectedGraph which changes over time
 

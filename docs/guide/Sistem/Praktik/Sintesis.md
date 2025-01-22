@@ -1,12 +1,10 @@
-# Synthesis
+# Sintesis
 
-## Definition(Synthesis)
+## Definition(Sintesis)
 
 > the act of combining different ideas or things to make a whole that is new and different from the items considered separately
 
 > the composition or combination of parts or elements so as to form a whole
-
-> 
 
 ## Emergence
 
