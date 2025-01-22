@@ -5,91 +5,26 @@
         "SuperElementName": "Beta",
         "SubElementName": [],
         "ConcurrentElementName": [],
-        "EkoElementName": [],
-        "ViaElementName": [],
-        "MoveElementName": [],
-        "PsikeElementName": [],
-        "Description": "",
-        "Alias": [],
-        "Dev": [],
-        "ElementType": ""
-    },
-    {
-        "ElementName": "EkoKratos",
-        "Namespace": "Eko/EkoMetron/EkoKratos",
-        "SuperElementName": "EkoMetron",
-        "SubElementName": [],
-        "ConcurrentElementName": [],
-        "EkoElementName": [],
-        "ViaElementName": [],
-        "MoveElementName": [],
-        "PsikeElementName": [],
-        "Description": "",
-        "Alias": [],
-        "Dev": [],
-        "ElementType": ""
-    },
-    {
-        "ElementName": "EkoKuboi",
-        "Namespace": "Eko/EkoMetron/EkoKuboi",
-        "SuperElementName": "EkoMetron",
-        "SubElementName": [],
-        "ConcurrentElementName": [],
-        "EkoElementName": [],
-        "ViaElementName": [],
-        "MoveElementName": [],
-        "PsikeElementName": [],
-        "Description": "",
-        "Alias": [],
-        "Dev": [],
-        "ElementType": ""
-    },
-    {
-        "ElementName": "EkoTeknik",
-        "Namespace": "Eko/EkoMetron/EkoTeknik",
-        "SuperElementName": "EkoMetron",
-        "SubElementName": [],
-        "ConcurrentElementName": [],
-        "EkoElementName": [],
-        "ViaElementName": [],
-        "MoveElementName": [],
-        "PsikeElementName": [],
-        "Description": "",
-        "Alias": [],
-        "Dev": [],
-        "ElementType": ""
-    },
-    {
-        "ElementName": "EkoMetron",
-        "Namespace": "Eko/EkoMetron",
-        "SuperElementName": "Eko",
-        "SubElementName": [
-            "EkoKratos",
-            "EkoKuboi",
-            "EkoTeknik"
+        "EkoElementName": [
+            "ZoneSize",
+            "UnstableSlope"
         ],
-        "ConcurrentElementName": [],
-        "EkoElementName": [],
-        "ViaElementName": [],
-        "MoveElementName": [],
-        "PsikeElementName": [],
+        "ViaElementName": [
+            "TeamVia"
+        ],
+        "MoveElementName": [
+            "RockSkreef",
+            "SkreefMove"
+        ],
+        "PsikeElementName": [
+            "Teamwork"
+        ],
         "Description": "",
-        "Alias": [],
-        "Dev": [],
-        "ElementType": ""
-    },
-    {
-        "ElementName": "EkoOverview",
-        "Namespace": "Eko/EkoOverview",
-        "SuperElementName": "Eko",
-        "SubElementName": [],
-        "ConcurrentElementName": [],
-        "EkoElementName": [],
-        "ViaElementName": [],
-        "MoveElementName": [],
-        "PsikeElementName": [],
-        "Description": "",
-        "Alias": [],
+        "Alias": [
+            "Crew",
+            "PartnerPlanting",
+            "CattlePlanting"
+        ],
         "Dev": [],
         "ElementType": ""
     },
@@ -99,10 +34,12 @@
         "SuperElementName": "EkoPraktik",
         "SubElementName": [],
         "ConcurrentElementName": [],
-        "EkoElementName": [],
-        "ViaElementName": [],
-        "MoveElementName": [],
-        "PsikeElementName": [],
+        "EkoElementName": [
+            "PrepError"
+        ],
+        "ViaElementName": ["DoublePlant"],
+        "MoveElementName": ["Fall"],
+        "PsikeElementName": ["Anger"],
         "Description": "",
         "Alias": [],
         "Dev": [],
@@ -133,17 +70,22 @@
         "SubElementName": [],
         "ConcurrentElementName": [],
         "EkoElementName": [
-            "Dust",
-            "Cream"
+            "DustAtmos",
+            "CreamSoil"
         ],
         "ViaElementName": [
             "CircleZone",
             "ZoneMarka"
         ],
-        "MoveElementName": [],
+        "MoveElementName": [
+            "BaseDrag",
+            "SkreefMove"
+        ],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": [],
+        "Alias": [
+            "a burn"
+        ],
         "Dev": [],
         "ElementType": ""
     },
@@ -153,7 +95,7 @@
         "SuperElementName": "Prep",
         "SubElementName": [],
         "ConcurrentElementName": [],
-        "EkoElementName": [],
+        "EkoElementName": ["Soil"],
         "ViaElementName": [
             "MoundMarka",
             "MoundSite"
@@ -1522,23 +1464,6 @@
         "PsikeElementName": [],
         "Description": "",
         "Alias": [],
-        "Dev": [],
-        "ElementType": ""
-    },
-    {
-        "ElementName": "MoveKratos",
-        "Namespace": "Move/MoveMetron/MoveKratos",
-        "SuperElementName": "MoveMetron",
-        "SubElementName": [],
-        "ConcurrentElementName": [],
-        "EkoElementName": [],
-        "ViaElementName": [],
-        "MoveElementName": [],
-        "PsikeElementName": [],
-        "Description": "",
-        "Alias": [
-            "MoveIntensity"
-        ],
         "Dev": [],
         "ElementType": ""
     },
