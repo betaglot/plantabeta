@@ -12,7 +12,8 @@ Skema_List = [
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": [],
+        "Dev": []
     },
     {
         "ElementName": "EkoKratos",
@@ -25,7 +26,8 @@ Skema_List = [
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": [],
+        "Dev": []
     },
     {
         "ElementName": "EkoKuboi",
@@ -38,7 +40,8 @@ Skema_List = [
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": [],
+        "Dev": []
     },
     {
         "ElementName": "EkoTeknik",
@@ -51,7 +54,8 @@ Skema_List = [
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": [],
+        "Dev": []
     },
     {
         "ElementName": "EkoMetron",
@@ -68,7 +72,8 @@ Skema_List = [
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": [],
+        "Dev": []
     },
     {
         "ElementName": "EkoOverview",
@@ -81,7 +86,8 @@ Skema_List = [
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": [],
+        "Dev": []
     },
     {
         "ElementName": "EkoError",
@@ -94,7 +100,8 @@ Skema_List = [
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": [],
+        "Dev": []
     },
     {
         "ElementName": "Antrosfera",
@@ -110,7 +117,8 @@ Skema_List = [
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": [],
+        "Dev": []
     },
     {
         "ElementName": "BurnPit",
@@ -129,7 +137,8 @@ Skema_List = [
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": [],
+        "Dev": []
     },
     {
         "ElementName": "MoundPrep",
@@ -147,7 +156,8 @@ Skema_List = [
         ],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": [],
+        "Dev": []
     },
     {
         "ElementName": "Prep",
@@ -165,7 +175,8 @@ Skema_List = [
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": [],
+        "Dev": []
     },
     {
         "ElementName": "SkreefPrep",
@@ -181,7 +192,8 @@ Skema_List = [
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": [],
+        "Dev": []
     },
     {
         "ElementName": "TrenchPrep",
@@ -198,7 +210,8 @@ Skema_List = [
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": [],
+        "Dev": []
     },
     {
         "ElementName": "Road",
@@ -216,7 +229,8 @@ Skema_List = [
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": [],
+        "Dev": []
     },
     {
         "ElementName": "AirTemperature",
@@ -233,7 +247,8 @@ Skema_List = [
         ],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": [],
+        "Dev": []
     },
     {
         "ElementName": "Humidity",
@@ -251,7 +266,8 @@ Skema_List = [
         ],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": [],
+        "Dev": []
     },
     {
         "ElementName": "Atmosfera",
@@ -269,7 +285,8 @@ Skema_List = [
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": [],
+        "Dev": []
     },
     {
         "ElementName": "Precipitation",
@@ -286,7 +303,8 @@ Skema_List = [
         ],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": [],
+        "Dev": []
     },
     {
         "ElementName": "Wind",
@@ -307,7 +325,8 @@ Skema_List = [
         ],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": [],
+        "Dev": []
     },
     {
         "ElementName": "Abies",
@@ -322,7 +341,8 @@ Skema_List = [
         "Description": "",
         "Alias": [
             "FirTree"
-        ]
+        ],
+        "Dev": []
     },
     {
         "ElementName": "Larix",
@@ -337,7 +357,8 @@ Skema_List = [
         "Description": "",
         "Alias": [
             "LarchTree"
-        ]
+        ],
+        "Dev": []
     },
     {
         "ElementName": "Dendron",
@@ -362,7 +383,8 @@ Skema_List = [
         "Alias": [
             "Seedling",
             "Semis"
-        ]
+        ],
+        "Dev": []
     },
     {
         "ElementName": "Picea",
@@ -377,7 +399,8 @@ Skema_List = [
         "Description": "",
         "Alias": [
             "SpruceTree"
-        ]
+        ],
+        "Dev": []
     },
     {
         "ElementName": "Pinus",
@@ -392,7 +415,8 @@ Skema_List = [
         "Description": "",
         "Alias": [
             "PineTree"
-        ]
+        ],
+        "Dev": []
     },
     {
         "ElementName": "Pseudotsuga",
@@ -407,7 +431,8 @@ Skema_List = [
         "Description": "",
         "Alias": [
             "DouglasFirTree"
-        ]
+        ],
+        "Dev": []
     },
     {
         "ElementName": "Quercus",
@@ -422,7 +447,8 @@ Skema_List = [
         "Description": "",
         "Alias": [
             "OakTree"
-        ]
+        ],
+        "Dev": []
     },
     {
         "ElementName": "Thuja",
@@ -437,7 +463,8 @@ Skema_List = [
         "Description": "",
         "Alias": [
             "RedCedarTree"
-        ]
+        ],
+        "Dev": []
     },
     {
         "ElementName": "Tsuga",
@@ -457,7 +484,8 @@ Skema_List = [
         "Description": "",
         "Alias": [
             "Hemlock"
-        ]
+        ],
+        "Dev": []
     },
     {
         "ElementName": "Fauna",
@@ -470,7 +498,8 @@ Skema_List = [
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": [],
+        "Dev": []
     },
     {
         "ElementName": "Bryophyta",
@@ -489,7 +518,8 @@ Skema_List = [
         "Description": "",
         "Alias": [
             "Moss"
-        ]
+        ],
+        "Dev": []
     },
     {
         "ElementName": "BurntLand",
@@ -507,7 +537,8 @@ Skema_List = [
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": [],
+        "Dev": []
     },
     {
         "ElementName": "CropFlora",
@@ -527,7 +558,8 @@ Skema_List = [
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": [],
+        "Dev": []
     },
     {
         "ElementName": "Flower",
@@ -546,7 +578,8 @@ Skema_List = [
             "SpeciesIdentification"
         ],
         "Description": "",
-        "Alias": []
+        "Alias": [],
+        "Dev": []
     },
     {
         "ElementName": "Log",
@@ -561,7 +594,8 @@ Skema_List = [
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": [],
+        "Dev": []
     },
     {
         "ElementName": "Flora",
@@ -584,7 +618,8 @@ Skema_List = [
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": [],
+        "Dev": []
     },
     {
         "ElementName": "Poales",
@@ -603,7 +638,8 @@ Skema_List = [
         "Description": "",
         "Alias": [
             "Grass"
-        ]
+        ],
+        "Dev": []
     },
     {
         "ElementName": "RiparianZone",
@@ -623,7 +659,8 @@ Skema_List = [
         ],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": [],
+        "Dev": []
     },
     {
         "ElementName": "BurnPileSlash",
@@ -638,7 +675,8 @@ Skema_List = [
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": [],
+        "Dev": []
     },
     {
         "ElementName": "HighSlash",
@@ -656,7 +694,8 @@ Skema_List = [
         ],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": [],
+        "Dev": []
     },
     {
         "ElementName": "LowSlash",
@@ -673,7 +712,8 @@ Skema_List = [
         ],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": [],
+        "Dev": []
     },
     {
         "ElementName": "Slash",
@@ -691,7 +731,8 @@ Skema_List = [
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": [],
+        "Dev": []
     },
     {
         "ElementName": "WetSlash",
@@ -712,7 +753,8 @@ Skema_List = [
         ],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": [],
+        "Dev": []
     },
     {
         "ElementName": "Stump",
@@ -727,7 +769,8 @@ Skema_List = [
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": [],
+        "Dev": []
     },
     {
         "ElementName": "EcoCurve",
@@ -740,7 +783,8 @@ Skema_List = [
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": [],
+        "Dev": []
     },
     {
         "ElementName": "EcoPoint",
@@ -753,7 +797,8 @@ Skema_List = [
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": [],
+        "Dev": []
     },
     {
         "ElementName": "EcoSpace",
@@ -766,7 +811,8 @@ Skema_List = [
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": [],
+        "Dev": []
     },
     {
         "ElementName": "EcoSurface",
@@ -779,7 +825,8 @@ Skema_List = [
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": [],
+        "Dev": []
     },
     {
         "ElementName": "Flat",
@@ -792,7 +839,8 @@ Skema_List = [
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": [],
+        "Dev": []
     },
     {
         "ElementName": "Incline",
@@ -808,7 +856,8 @@ Skema_List = [
         "Alias": [
             "Slope",
             "SlopeLand"
-        ]
+        ],
+        "Dev": []
     },
     {
         "ElementName": "Geomorfologia",
@@ -827,7 +876,8 @@ Skema_List = [
         "Description": "",
         "Alias": [
             "Terrain"
-        ]
+        ],
+        "Dev": []
     },
     {
         "ElementName": "Valley",
@@ -845,7 +895,8 @@ Skema_List = [
         "Alias": [
             "Gully",
             "Draw"
-        ]
+        ],
+        "Dev": []
     },
     {
         "ElementName": "Helios",
@@ -868,7 +919,8 @@ Skema_List = [
         "Description": "",
         "Alias": [
             "Sun"
-        ]
+        ],
+        "Dev": []
     },
     {
         "ElementName": "GroundWater",
@@ -883,7 +935,8 @@ Skema_List = [
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": [],
+        "Dev": []
     },
     {
         "ElementName": "MovingWater",
@@ -902,7 +955,8 @@ Skema_List = [
             "Creek",
             "Stream",
             "River"
-        ]
+        ],
+        "Dev": []
     },
     {
         "ElementName": "Hidrosfera",
@@ -920,7 +974,8 @@ Skema_List = [
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": [],
+        "Dev": []
     },
     {
         "ElementName": "Pond",
@@ -933,7 +988,8 @@ Skema_List = [
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": [],
+        "Dev": []
     },
     {
         "ElementName": "Puddle",
@@ -951,7 +1007,8 @@ Skema_List = [
         ],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": [],
+        "Dev": []
     },
     {
         "ElementName": "Litosfera",
@@ -970,7 +1027,8 @@ Skema_List = [
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": [],
+        "Dev": []
     },
     {
         "ElementName": "RockCap",
@@ -985,7 +1043,8 @@ Skema_List = [
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": [],
+        "Dev": []
     },
     {
         "ElementName": "DrySoil",
@@ -1000,7 +1059,8 @@ Skema_List = [
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": [],
+        "Dev": []
     },
     {
         "ElementName": "IceSoil",
@@ -1020,7 +1080,8 @@ Skema_List = [
         "Description": "",
         "Alias": [
             "FrozenSoil"
-        ]
+        ],
+        "Dev": []
     },
     {
         "ElementName": "BoulderSoil",
@@ -1035,7 +1096,8 @@ Skema_List = [
         "Description": "",
         "Alias": [
             "RockyLand"
-        ]
+        ],
+        "Dev": []
     },
     {
         "ElementName": "ClaySoil",
@@ -1050,7 +1112,8 @@ Skema_List = [
         ],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": [],
+        "Dev": []
     },
     {
         "ElementName": "CobbleSoil",
@@ -1065,7 +1128,8 @@ Skema_List = [
         "Description": "",
         "Alias": [
             "RockyLand"
-        ]
+        ],
+        "Dev": []
     },
     {
         "ElementName": "PebbleSoil",
@@ -1078,7 +1142,8 @@ Skema_List = [
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": [],
+        "Dev": []
     },
     {
         "ElementName": "RubbleSoil",
@@ -1099,7 +1164,8 @@ Skema_List = [
         "Description": "",
         "Alias": [
             "ExplodedRock"
-        ]
+        ],
+        "Dev": []
     },
     {
         "ElementName": "SandSoil",
@@ -1114,7 +1180,8 @@ Skema_List = [
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": [],
+        "Dev": []
     },
     {
         "ElementName": "SiltSoil",
@@ -1135,7 +1202,8 @@ Skema_List = [
         ],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": [],
+        "Dev": []
     },
     {
         "ElementName": "MineralSoil",
@@ -1152,7 +1220,8 @@ Skema_List = [
         ],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": [],
+        "Dev": []
     },
     {
         "ElementName": "Pedosfera",
@@ -1174,7 +1243,8 @@ Skema_List = [
         "Description": "",
         "Alias": [
             "Soil"
-        ]
+        ],
+        "Dev": []
     },
     {
         "ElementName": "RedRotSoil",
@@ -1195,7 +1265,8 @@ Skema_List = [
         "Description": "",
         "Alias": [
             "RedRot"
-        ]
+        ],
+        "Dev": []
     },
     {
         "ElementName": "FibricSoil",
@@ -1210,7 +1281,8 @@ Skema_List = [
         "Description": "",
         "Alias": [
             "Rooty"
-        ]
+        ],
+        "Dev": []
     },
     {
         "ElementName": "HumicSoil",
@@ -1223,7 +1295,8 @@ Skema_List = [
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": [],
+        "Dev": []
     },
     {
         "ElementName": "MesicSoil",
@@ -1236,7 +1309,8 @@ Skema_List = [
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": [],
+        "Dev": []
     },
     {
         "ElementName": "WoodySoil",
@@ -1251,7 +1325,8 @@ Skema_List = [
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": [],
+        "Dev": []
     },
     {
         "ElementName": "SubjectiveSoil",
@@ -1264,7 +1339,8 @@ Skema_List = [
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": [],
+        "Dev": []
     },
     {
         "ElementName": "WetSoil",
@@ -1281,7 +1357,8 @@ Skema_List = [
         ],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": [],
+        "Dev": []
     },
     {
         "ElementName": "DiscernSigns",
@@ -1296,7 +1373,8 @@ Skema_List = [
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": [],
+        "Dev": []
     },
     {
         "ElementName": "Tracking",
@@ -1311,7 +1389,8 @@ Skema_List = [
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": [],
+        "Dev": []
     },
     {
         "ElementName": "EkoSimbols",
@@ -1324,7 +1403,8 @@ Skema_List = [
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": [],
+        "Dev": []
     },
     {
         "ElementName": "Ergon",
@@ -1344,7 +1424,8 @@ Skema_List = [
             "Work",
             "Job",
             "Production"
-        ]
+        ],
+        "Dev": []
     },
     {
         "ElementName": "Fisik",
@@ -1361,7 +1442,8 @@ Skema_List = [
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": [],
+        "Dev": []
     },
     {
         "ElementName": "MoveKratos",
@@ -1376,7 +1458,8 @@ Skema_List = [
         "Description": "",
         "Alias": [
             "MoveIntensity"
-        ]
+        ],
+        "Dev": []
     },
     {
         "ElementName": "MoveKuboi",
@@ -1391,7 +1474,8 @@ Skema_List = [
         "Description": "",
         "Alias": [
             "MoveRisk"
-        ]
+        ],
+        "Dev": []
     },
     {
         "ElementName": "MoveTeknik",
@@ -1406,7 +1490,8 @@ Skema_List = [
         "Description": "",
         "Alias": [
             "MoveComplexity"
-        ]
+        ],
+        "Dev": []
     },
     {
         "ElementName": "MoveOverview",
@@ -1419,7 +1504,8 @@ Skema_List = [
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": [],
+        "Dev": []
     },
     {
         "ElementName": "Frase",
@@ -1454,7 +1540,8 @@ Skema_List = [
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": [],
+        "Dev": []
     },
     {
         "ElementName": "MoveError",
@@ -1467,7 +1554,8 @@ Skema_List = [
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": [],
+        "Dev": []
     },
     {
         "ElementName": "MovePraktik",
@@ -1482,7 +1570,8 @@ Skema_List = [
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": [],
+        "Dev": []
     },
     {
         "ElementName": "MoveAxiom",
@@ -1495,7 +1584,8 @@ Skema_List = [
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": [],
+        "Dev": []
     },
     {
         "ElementName": "AnteriorDirection",
@@ -1511,7 +1601,8 @@ Skema_List = [
         "Alias": [
             "Forwards",
             "In front"
-        ]
+        ],
+        "Dev": []
     },
     {
         "ElementName": "DistalDirection",
@@ -1526,7 +1617,8 @@ Skema_List = [
         "Description": "",
         "Alias": [
             "Away"
-        ]
+        ],
+        "Dev": []
     },
     {
         "ElementName": "LateralDirection",
@@ -1539,7 +1631,8 @@ Skema_List = [
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": [],
+        "Dev": []
     },
     {
         "ElementName": "MedialDirection",
@@ -1552,7 +1645,8 @@ Skema_List = [
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": [],
+        "Dev": []
     },
     {
         "ElementName": "PosteriorDirection",
@@ -1568,7 +1662,8 @@ Skema_List = [
         "Alias": [
             "Behind",
             "Backwards"
-        ]
+        ],
+        "Dev": []
     },
     {
         "ElementName": "ProximalDirection",
@@ -1583,7 +1678,8 @@ Skema_List = [
         "Description": "",
         "Alias": [
             "Closer"
-        ]
+        ],
+        "Dev": []
     },
     {
         "ElementName": "FrontalPlane",
@@ -1598,7 +1694,8 @@ Skema_List = [
         "Description": "",
         "Alias": [
             "CoronalPlane"
-        ]
+        ],
+        "Dev": []
     },
     {
         "ElementName": "HorizontalPlane",
@@ -1614,7 +1711,8 @@ Skema_List = [
         "Alias": [
             "AxialPlane",
             "TransversePlane"
-        ]
+        ],
+        "Dev": []
     },
     {
         "ElementName": "SagittalPlane",
@@ -1629,7 +1727,8 @@ Skema_List = [
         "Description": "",
         "Alias": [
             "LongitudinalPlane"
-        ]
+        ],
+        "Dev": []
     },
     {
         "ElementName": "MoveSurface",
@@ -1647,7 +1746,8 @@ Skema_List = [
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": [],
+        "Dev": []
     },
     {
         "ElementName": "MoveDefinitions",
@@ -1662,7 +1762,8 @@ Skema_List = [
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": [],
+        "Dev": []
     },
     {
         "ElementName": "BaseAbduction",
@@ -1677,7 +1778,8 @@ Skema_List = [
         "Description": "",
         "Alias": [
             "LegAbduction"
-        ]
+        ],
+        "Dev": []
     },
     {
         "ElementName": "BaseAbsorb",
@@ -1692,7 +1794,8 @@ Skema_List = [
         "Description": "",
         "Alias": [
             "LegAbsorb"
-        ]
+        ],
+        "Dev": []
     },
     {
         "ElementName": "BaseAdduction",
@@ -1707,7 +1810,8 @@ Skema_List = [
         "Description": "",
         "Alias": [
             "LegAdduction"
-        ]
+        ],
+        "Dev": []
     },
     {
         "ElementName": "BaseAma",
@@ -1723,7 +1827,8 @@ Skema_List = [
         "Alias": [
             "LegFlag",
             "LegProp"
-        ]
+        ],
+        "Dev": []
     },
     {
         "ElementName": "BaseArchSmear",
@@ -1738,7 +1843,8 @@ Skema_List = [
         "Description": "",
         "Alias": [
             "FootArchSmear"
-        ]
+        ],
+        "Dev": []
     },
     {
         "ElementName": "BaseDig",
@@ -1753,7 +1859,8 @@ Skema_List = [
         "Description": "",
         "Alias": [
             "FootDig"
-        ]
+        ],
+        "Dev": []
     },
     {
         "ElementName": "BaseDorsiflexion",
@@ -1768,7 +1875,8 @@ Skema_List = [
         "Description": "",
         "Alias": [
             "FootDorsiFlexion"
-        ]
+        ],
+        "Dev": []
     },
     {
         "ElementName": "BaseDrag",
@@ -1783,7 +1891,8 @@ Skema_List = [
         "Description": "",
         "Alias": [
             "FootDrag"
-        ]
+        ],
+        "Dev": []
     },
     {
         "ElementName": "BaseError",
@@ -1799,7 +1908,8 @@ Skema_List = [
         "Alias": [
             "LegError",
             "FootError"
-        ]
+        ],
+        "Dev": []
     },
     {
         "ElementName": "BaseEversion",
@@ -1814,7 +1924,8 @@ Skema_List = [
         "Description": "",
         "Alias": [
             "FootEversion"
-        ]
+        ],
+        "Dev": []
     },
     {
         "ElementName": "BaseFlexion",
@@ -1829,7 +1940,8 @@ Skema_List = [
         "Description": "",
         "Alias": [
             "LegFlexion"
-        ]
+        ],
+        "Dev": []
     },
     {
         "ElementName": "BaseInversion",
@@ -1844,7 +1956,8 @@ Skema_List = [
         "Description": "",
         "Alias": [
             "FootInversion"
-        ]
+        ],
+        "Dev": []
     },
     {
         "ElementName": "BaseOnda",
@@ -1861,7 +1974,8 @@ Skema_List = [
             "LegFlag",
             "LegSwing",
             "LegWhip"
-        ]
+        ],
+        "Dev": []
     },
     {
         "ElementName": "BaseSkreef",
@@ -1876,7 +1990,8 @@ Skema_List = [
         "Description": "",
         "Alias": [
             "FootSkreef"
-        ]
+        ],
+        "Dev": []
     },
     {
         "ElementName": "Crouch",
@@ -1891,7 +2006,8 @@ Skema_List = [
         "Description": "",
         "Alias": [
             "Squat"
-        ]
+        ],
+        "Dev": []
     },
     {
         "ElementName": "Error",
@@ -1906,7 +2022,8 @@ Skema_List = [
         "Description": "",
         "Alias": [
             "Mistake"
-        ]
+        ],
+        "Dev": []
     },
     {
         "ElementName": "ArchDragKlose",
@@ -1919,7 +2036,8 @@ Skema_List = [
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": [],
+        "Dev": []
     },
     {
         "ElementName": "ArchKickKlose",
@@ -1932,7 +2050,8 @@ Skema_List = [
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": [],
+        "Dev": []
     },
     {
         "ElementName": "FootArchKlose",
@@ -1945,7 +2064,8 @@ Skema_List = [
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": [],
+        "Dev": []
     },
     {
         "ElementName": "FootDragKlose",
@@ -1958,7 +2078,8 @@ Skema_List = [
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": [],
+        "Dev": []
     },
     {
         "ElementName": "HeelDragKlose",
@@ -1971,7 +2092,8 @@ Skema_List = [
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": [],
+        "Dev": []
     },
     {
         "ElementName": "HeelKickKlose",
@@ -1984,7 +2106,8 @@ Skema_List = [
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": [],
+        "Dev": []
     },
     {
         "ElementName": "FootKlose",
@@ -2006,7 +2129,8 @@ Skema_List = [
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": [],
+        "Dev": []
     },
     {
         "ElementName": "ToeDragKlose",
@@ -2019,7 +2143,8 @@ Skema_List = [
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": [],
+        "Dev": []
     },
     {
         "ElementName": "ToeKickKlose",
@@ -2032,7 +2157,8 @@ Skema_List = [
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": [],
+        "Dev": []
     },
     {
         "ElementName": "BaseMoveFrase",
@@ -2070,7 +2196,8 @@ Skema_List = [
         "Alias": [
             "LegMoveFrase",
             "FootMoveFrase"
-        ]
+        ],
+        "Dev": []
     },
     {
         "ElementName": "Hop",
@@ -2085,7 +2212,8 @@ Skema_List = [
         "Description": "",
         "Alias": [
             "Jump"
-        ]
+        ],
+        "Dev": []
     },
     {
         "ElementName": "Kneel",
@@ -2098,7 +2226,8 @@ Skema_List = [
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": [],
+        "Dev": []
     },
     {
         "ElementName": "BaseMove",
@@ -2139,7 +2268,8 @@ Skema_List = [
         "Alias": [
             "LegMove",
             "FootMove"
-        ]
+        ],
+        "Dev": []
     },
     {
         "ElementName": "PlantarFlexion",
@@ -2152,7 +2282,8 @@ Skema_List = [
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": [],
+        "Dev": []
     },
     {
         "ElementName": "RunStart",
@@ -2167,7 +2298,8 @@ Skema_List = [
         "Description": "",
         "Alias": [
             "RunningStart"
-        ]
+        ],
+        "Dev": []
     },
     {
         "ElementName": "Step",
@@ -2180,7 +2312,8 @@ Skema_List = [
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": [],
+        "Dev": []
     },
     {
         "ElementName": "Stomp",
@@ -2195,7 +2328,8 @@ Skema_List = [
         "Description": "",
         "Alias": [
             "Stamp"
-        ]
+        ],
+        "Dev": []
     },
     {
         "ElementName": "BrazoAma",
@@ -2210,7 +2344,8 @@ Skema_List = [
         "Description": "",
         "Alias": [
             "ArmProp"
-        ]
+        ],
+        "Dev": []
     },
     {
         "ElementName": "BrazoAmble",
@@ -2226,7 +2361,8 @@ Skema_List = [
         "Alias": [
             "ArmAmble",
             "ArmAmble"
-        ]
+        ],
+        "Dev": []
     },
     {
         "ElementName": "BrazoCompress",
@@ -2241,7 +2377,8 @@ Skema_List = [
         "Description": "",
         "Alias": [
             "ArmCompression"
-        ]
+        ],
+        "Dev": []
     },
     {
         "ElementName": "BrazoError",
@@ -2256,7 +2393,8 @@ Skema_List = [
         "Description": "",
         "Alias": [
             "ArmError"
-        ]
+        ],
+        "Dev": []
     },
     {
         "ElementName": "BrazoHook",
@@ -2271,7 +2409,8 @@ Skema_List = [
         "Description": "",
         "Alias": [
             "ArmHook"
-        ]
+        ],
+        "Dev": []
     },
     {
         "ElementName": "BrazoOnda",
@@ -2288,7 +2427,8 @@ Skema_List = [
             "ArmSwing",
             "ArmWhip",
             "ArmFlag"
-        ]
+        ],
+        "Dev": []
     },
     {
         "ElementName": "BrazoRockOver",
@@ -2303,7 +2443,8 @@ Skema_List = [
         "Description": "",
         "Alias": [
             "ArmRockOver"
-        ]
+        ],
+        "Dev": []
     },
     {
         "ElementName": "Frase",
@@ -2338,7 +2479,8 @@ Skema_List = [
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": [],
+        "Dev": []
     },
     {
         "ElementName": "BrazoMove",
@@ -2362,7 +2504,8 @@ Skema_List = [
         "Description": "",
         "Alias": [
             "ArmMove"
-        ]
+        ],
+        "Dev": []
     },
     {
         "ElementName": "CacheError",
@@ -2375,7 +2518,8 @@ Skema_List = [
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": [],
+        "Dev": []
     },
     {
         "ElementName": "Eating",
@@ -2388,7 +2532,8 @@ Skema_List = [
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": [],
+        "Dev": []
     },
     {
         "ElementName": "Frase",
@@ -2423,7 +2568,8 @@ Skema_List = [
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": [],
+        "Dev": []
     },
     {
         "ElementName": "TarpOff",
@@ -2436,7 +2582,8 @@ Skema_List = [
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": [],
+        "Dev": []
     },
     {
         "ElementName": "TarpOn",
@@ -2449,7 +2596,8 @@ Skema_List = [
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": [],
+        "Dev": []
     },
     {
         "ElementName": "CacheMove",
@@ -2466,7 +2614,8 @@ Skema_List = [
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": [],
+        "Dev": []
     },
     {
         "ElementName": "BaseLayerMove",
@@ -2479,7 +2628,8 @@ Skema_List = [
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": [],
+        "Dev": []
     },
     {
         "ElementName": "BuckleMove",
@@ -2492,7 +2642,8 @@ Skema_List = [
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": [],
+        "Dev": []
     },
     {
         "ElementName": "ButtonMove",
@@ -2505,7 +2656,8 @@ Skema_List = [
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": [],
+        "Dev": []
     },
     {
         "ElementName": "FastenerMove",
@@ -2524,7 +2676,8 @@ Skema_List = [
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": [],
+        "Dev": []
     },
     {
         "ElementName": "SnapMove",
@@ -2539,7 +2692,8 @@ Skema_List = [
         "Description": "",
         "Alias": [
             "SnapButtonMove"
-        ]
+        ],
+        "Dev": []
     },
     {
         "ElementName": "ZelcroMove",
@@ -2552,7 +2706,8 @@ Skema_List = [
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": [],
+        "Dev": []
     },
     {
         "ElementName": "ZipperMove",
@@ -2567,7 +2722,8 @@ Skema_List = [
         "Description": "",
         "Alias": [
             "zip up"
-        ]
+        ],
+        "Dev": []
     },
     {
         "ElementName": "Frase",
@@ -2602,7 +2758,8 @@ Skema_List = [
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": [],
+        "Dev": []
     },
     {
         "ElementName": "InsulationLayerMove",
@@ -2615,7 +2772,8 @@ Skema_List = [
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": [],
+        "Dev": []
     },
     {
         "ElementName": "Layering",
@@ -2630,7 +2788,8 @@ Skema_List = [
         "Description": "",
         "Alias": [
             "ClothingLayering"
-        ]
+        ],
+        "Dev": []
     },
     {
         "ElementName": "ClothingMove",
@@ -2651,7 +2810,8 @@ Skema_List = [
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": [],
+        "Dev": []
     },
     {
         "ElementName": "HatMove",
@@ -2664,7 +2824,8 @@ Skema_List = [
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": [],
+        "Dev": []
     },
     {
         "ElementName": "ShellLayerMove",
@@ -2683,7 +2844,8 @@ Skema_List = [
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": [],
+        "Dev": []
     },
     {
         "ElementName": "PocketMove",
@@ -2698,7 +2860,8 @@ Skema_List = [
         "Description": "",
         "Alias": [
             "ClothingPocketMove"
-        ]
+        ],
+        "Dev": []
     },
     {
         "ElementName": "RainShell",
@@ -2714,7 +2877,8 @@ Skema_List = [
         "Alias": [
             "RainJacket",
             "RainCoat"
-        ]
+        ],
+        "Dev": []
     },
     {
         "ElementName": "RemoveMud",
@@ -2731,7 +2895,8 @@ Skema_List = [
         "Description": "",
         "Alias": [
             "ClothingPurga"
-        ]
+        ],
+        "Dev": []
     },
     {
         "ElementName": "WindShell",
@@ -2746,7 +2911,8 @@ Skema_List = [
         "Description": "",
         "Alias": [
             "WindBreaker"
-        ]
+        ],
+        "Dev": []
     },
     {
         "ElementName": "TextilePreservation",
@@ -2761,7 +2927,8 @@ Skema_List = [
         "Description": "",
         "Alias": [
             "ClothingCare"
-        ]
+        ],
+        "Dev": []
     },
     {
         "ElementName": "KorpoAbsorb",
@@ -2776,7 +2943,8 @@ Skema_List = [
         "Description": "",
         "Alias": [
             "BodyAbsorb"
-        ]
+        ],
+        "Dev": []
     },
     {
         "ElementName": "KorpoBend",
@@ -2791,7 +2959,8 @@ Skema_List = [
         "Description": "",
         "Alias": [
             "BodyBend"
-        ]
+        ],
+        "Dev": []
     },
     {
         "ElementName": "KorpoError",
@@ -2806,7 +2975,8 @@ Skema_List = [
         "Description": "",
         "Alias": [
             "BodyError"
-        ]
+        ],
+        "Dev": []
     },
     {
         "ElementName": "KorpoLean",
@@ -2821,7 +2991,8 @@ Skema_List = [
         "Description": "",
         "Alias": [
             "BodyLean"
-        ]
+        ],
+        "Dev": []
     },
     {
         "ElementName": "KorpoOrbit",
@@ -2836,7 +3007,8 @@ Skema_List = [
         "Description": "",
         "Alias": [
             "BodyOrbit"
-        ]
+        ],
+        "Dev": []
     },
     {
         "ElementName": "KorpoPosture",
@@ -2851,7 +3023,8 @@ Skema_List = [
         "Description": "",
         "Alias": [
             "BodyPosture"
-        ]
+        ],
+        "Dev": []
     },
     {
         "ElementName": "KorpoPropel",
@@ -2866,7 +3039,8 @@ Skema_List = [
         "Description": "",
         "Alias": [
             "BodyPropel"
-        ]
+        ],
+        "Dev": []
     },
     {
         "ElementName": "KorpoRotate",
@@ -2881,7 +3055,8 @@ Skema_List = [
         "Description": "",
         "Alias": [
             "BodyRotate"
-        ]
+        ],
+        "Dev": []
     },
     {
         "ElementName": "KorpoSlot",
@@ -2896,7 +3071,8 @@ Skema_List = [
         "Description": "",
         "Alias": [
             "BodySlot"
-        ]
+        ],
+        "Dev": []
     },
     {
         "ElementName": "KorpoTangent",
@@ -2911,7 +3087,8 @@ Skema_List = [
         "Description": "",
         "Alias": [
             "BodyTangent"
-        ]
+        ],
+        "Dev": []
     },
     {
         "ElementName": "KorpoTwist",
@@ -2927,7 +3104,8 @@ Skema_List = [
         "Alias": [
             "BodyTwist",
             "Twist"
-        ]
+        ],
+        "Dev": []
     },
     {
         "ElementName": "KorpoUnder",
@@ -2942,7 +3120,8 @@ Skema_List = [
         "Description": "",
         "Alias": [
             "BodyUnder"
-        ]
+        ],
+        "Dev": []
     },
     {
         "ElementName": "Crawl",
@@ -2957,7 +3136,8 @@ Skema_List = [
         "Description": "",
         "Alias": [
             "on all fours"
-        ]
+        ],
+        "Dev": []
     },
     {
         "ElementName": "Fall",
@@ -2970,7 +3150,8 @@ Skema_List = [
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": [],
+        "Dev": []
     },
     {
         "ElementName": "Frase",
@@ -3005,7 +3186,8 @@ Skema_List = [
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": [],
+        "Dev": []
     },
     {
         "ElementName": "HipHinge",
@@ -3018,7 +3200,8 @@ Skema_List = [
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": [],
+        "Dev": []
     },
     {
         "ElementName": "InclineAmble",
@@ -3033,7 +3216,8 @@ Skema_List = [
         "Description": "",
         "Alias": [
             "SlopeAmble"
-        ]
+        ],
+        "Dev": []
     },
     {
         "ElementName": "Jump",
@@ -3046,7 +3230,8 @@ Skema_List = [
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": [],
+        "Dev": []
     },
     {
         "ElementName": "LogAmble",
@@ -3063,7 +3248,8 @@ Skema_List = [
         "Description": "",
         "Alias": [
             "LogAmble"
-        ]
+        ],
+        "Dev": []
     },
     {
         "ElementName": "KorpoMove",
@@ -3104,7 +3290,8 @@ Skema_List = [
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": [],
+        "Dev": []
     },
     {
         "ElementName": "SpineExtension",
@@ -3121,7 +3308,8 @@ Skema_List = [
         "Description": "",
         "Alias": [
             "BendBackwards"
-        ]
+        ],
+        "Dev": []
     },
     {
         "ElementName": "SpineFlexion",
@@ -3136,7 +3324,8 @@ Skema_List = [
         "Description": "",
         "Alias": [
             "bend over"
-        ]
+        ],
+        "Dev": []
     },
     {
         "ElementName": "Stand",
@@ -3151,7 +3340,8 @@ Skema_List = [
         "Description": "",
         "Alias": [
             "MountainPose"
-        ]
+        ],
+        "Dev": []
     },
     {
         "ElementName": "StandUp",
@@ -3166,7 +3356,8 @@ Skema_List = [
         "Description": "",
         "Alias": [
             "get up"
-        ]
+        ],
+        "Dev": []
     },
     {
         "ElementName": "StepInto",
@@ -3179,7 +3370,8 @@ Skema_List = [
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": [],
+        "Dev": []
     },
     {
         "ElementName": "StepOver",
@@ -3192,7 +3384,8 @@ Skema_List = [
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": [],
+        "Dev": []
     },
     {
         "ElementName": "TrenchAmble",
@@ -3205,7 +3398,8 @@ Skema_List = [
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": [],
+        "Dev": []
     },
     {
         "ElementName": "Amble",
@@ -3220,7 +3414,8 @@ Skema_List = [
         "Description": "",
         "Alias": [
             "slow walk"
-        ]
+        ],
+        "Dev": []
     },
     {
         "ElementName": "DendroEval",
@@ -3237,7 +3432,8 @@ Skema_List = [
             "DendroTest",
             "TreeTest",
             "SeedlingTest"
-        ]
+        ],
+        "Dev": []
     },
     {
         "ElementName": "DendroInsert",
@@ -3252,7 +3448,8 @@ Skema_List = [
         "Description": "",
         "Alias": [
             "TreeInsert"
-        ]
+        ],
+        "Dev": []
     },
     {
         "ElementName": "DendroLoad",
@@ -3270,7 +3467,8 @@ Skema_List = [
             "TreeReload",
             "GetTree",
             "draw a tree"
-        ]
+        ],
+        "Dev": []
     },
     {
         "ElementName": "DendroMano",
@@ -3286,7 +3484,8 @@ Skema_List = [
         "Alias": [
             "DendroGrip",
             "TreeGrip"
-        ]
+        ],
+        "Dev": []
     },
     {
         "ElementName": "DendroMove",
@@ -3306,7 +3505,8 @@ Skema_List = [
         "Description": "",
         "Alias": [
             "SeedingMove"
-        ]
+        ],
+        "Dev": []
     },
     {
         "ElementName": "BranchSnap",
@@ -3321,7 +3521,8 @@ Skema_List = [
         "Description": "",
         "Alias": [
             "BranchBreak"
-        ]
+        ],
+        "Dev": []
     },
     {
         "ElementName": "BranchMove",
@@ -3336,7 +3537,8 @@ Skema_List = [
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": [],
+        "Dev": []
     },
     {
         "ElementName": "FloraBlock",
@@ -3351,7 +3553,8 @@ Skema_List = [
         "Description": "",
         "Alias": [
             "PlantBlock"
-        ]
+        ],
+        "Dev": []
     },
     {
         "ElementName": "FloraCatch",
@@ -3364,7 +3567,8 @@ Skema_List = [
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": [],
+        "Dev": []
     },
     {
         "ElementName": "FloraError",
@@ -3377,7 +3581,8 @@ Skema_List = [
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": [],
+        "Dev": []
     },
     {
         "ElementName": "FloraFold",
@@ -3392,7 +3597,8 @@ Skema_List = [
         "Description": "",
         "Alias": [
             "FloraBend"
-        ]
+        ],
+        "Dev": []
     },
     {
         "ElementName": "FloraMachete",
@@ -3408,7 +3614,8 @@ Skema_List = [
         "Alias": [
             "FloraAxe",
             "FloraHack"
-        ]
+        ],
+        "Dev": []
     },
     {
         "ElementName": "FloraMano",
@@ -3423,7 +3630,8 @@ Skema_List = [
         "Description": "",
         "Alias": [
             "FloraGrip"
-        ]
+        ],
+        "Dev": []
     },
     {
         "ElementName": "FloraParry",
@@ -3438,7 +3646,8 @@ Skema_List = [
         "Description": "",
         "Alias": [
             "FloraDeflect"
-        ]
+        ],
+        "Dev": []
     },
     {
         "ElementName": "FloraPassage",
@@ -3453,7 +3662,8 @@ Skema_List = [
         "Description": "",
         "Alias": [
             "FlorTraverse"
-        ]
+        ],
+        "Dev": []
     },
     {
         "ElementName": "FloraSnap",
@@ -3468,7 +3678,8 @@ Skema_List = [
         "Description": "",
         "Alias": [
             "FloraBreak"
-        ]
+        ],
+        "Dev": []
     },
     {
         "ElementName": "Frase",
@@ -3503,7 +3714,8 @@ Skema_List = [
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": [],
+        "Dev": []
     },
     {
         "ElementName": "LogLaunch",
@@ -3518,7 +3730,8 @@ Skema_List = [
         "Description": "",
         "Alias": [
             "LogThrow"
-        ]
+        ],
+        "Dev": []
     },
     {
         "ElementName": "FloraMove",
@@ -3546,7 +3759,8 @@ Skema_List = [
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": [],
+        "Dev": []
     },
     {
         "ElementName": "TrunkMove",
@@ -3559,7 +3773,8 @@ Skema_List = [
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": [],
+        "Dev": []
     },
     {
         "ElementName": "FocusLook",
@@ -3572,7 +3787,8 @@ Skema_List = [
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": [],
+        "Dev": []
     },
     {
         "ElementName": "Frase",
@@ -3607,7 +3823,8 @@ Skema_List = [
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": [],
+        "Dev": []
     },
     {
         "ElementName": "HeadError",
@@ -3620,7 +3837,8 @@ Skema_List = [
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": [],
+        "Dev": []
     },
     {
         "ElementName": "HeadProtraction",
@@ -3635,7 +3853,8 @@ Skema_List = [
         "Description": "",
         "Alias": [
             "move head forwards"
-        ]
+        ],
+        "Dev": []
     },
     {
         "ElementName": "HeadRetraction",
@@ -3650,7 +3869,8 @@ Skema_List = [
         "Description": "",
         "Alias": [
             "move head backwards"
-        ]
+        ],
+        "Dev": []
     },
     {
         "ElementName": "HeadTilt",
@@ -3663,7 +3883,8 @@ Skema_List = [
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": [],
+        "Dev": []
     },
     {
         "ElementName": "ListenTo",
@@ -3676,7 +3897,8 @@ Skema_List = [
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": [],
+        "Dev": []
     },
     {
         "ElementName": "LookAway",
@@ -3689,7 +3911,8 @@ Skema_List = [
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": [],
+        "Dev": []
     },
     {
         "ElementName": "NeckExtension",
@@ -3705,7 +3928,8 @@ Skema_List = [
         "Alias": [
             "LookUp",
             "tilt head up"
-        ]
+        ],
+        "Dev": []
     },
     {
         "ElementName": "NeckFlexion",
@@ -3721,7 +3945,8 @@ Skema_List = [
         "Alias": [
             "LookDown",
             "tilt head down"
-        ]
+        ],
+        "Dev": []
     },
     {
         "ElementName": "HeadMove",
@@ -3746,7 +3971,8 @@ Skema_List = [
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": [],
+        "Dev": []
     },
     {
         "ElementName": "Speak",
@@ -3761,7 +3987,8 @@ Skema_List = [
         "Description": "",
         "Alias": [
             "Talk"
-        ]
+        ],
+        "Dev": []
     },
     {
         "ElementName": "BootError",
@@ -3774,7 +4001,8 @@ Skema_List = [
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": [],
+        "Dev": []
     },
     {
         "ElementName": "BootMano",
@@ -3789,7 +4017,8 @@ Skema_List = [
         "Description": "",
         "Alias": [
             "BootGrip"
-        ]
+        ],
+        "Dev": []
     },
     {
         "ElementName": "BootPreservation",
@@ -3802,7 +4031,8 @@ Skema_List = [
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": [],
+        "Dev": []
     },
     {
         "ElementName": "BootSkreef",
@@ -3815,7 +4045,8 @@ Skema_List = [
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": [],
+        "Dev": []
     },
     {
         "ElementName": "BootOff",
@@ -3828,7 +4059,8 @@ Skema_List = [
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": [],
+        "Dev": []
     },
     {
         "ElementName": "BootOn",
@@ -3841,7 +4073,8 @@ Skema_List = [
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": [],
+        "Dev": []
     },
     {
         "ElementName": "LaceLoosen",
@@ -3854,7 +4087,8 @@ Skema_List = [
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": [],
+        "Dev": []
     },
     {
         "ElementName": "LaceTighten",
@@ -3867,7 +4101,8 @@ Skema_List = [
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": [],
+        "Dev": []
     },
     {
         "ElementName": "Frase",
@@ -3902,7 +4137,8 @@ Skema_List = [
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": [],
+        "Dev": []
     },
     {
         "ElementName": "LaceMove",
@@ -3915,7 +4151,8 @@ Skema_List = [
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": [],
+        "Dev": []
     },
     {
         "ElementName": "BootMove",
@@ -3935,7 +4172,8 @@ Skema_List = [
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": [],
+        "Dev": []
     },
     {
         "ElementName": "BottleMove",
@@ -3951,7 +4189,8 @@ Skema_List = [
         "Alias": [
             "Waterbottle",
             "Flask"
-        ]
+        ],
+        "Dev": []
     },
     {
         "ElementName": "BoxConstruct",
@@ -3968,7 +4207,8 @@ Skema_List = [
             "build a Box",
             "make a Box",
             "assemble a Box"
-        ]
+        ],
+        "Dev": []
     },
     {
         "ElementName": "BoxError",
@@ -3981,7 +4221,8 @@ Skema_List = [
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": [],
+        "Dev": []
     },
     {
         "ElementName": "BoxLift",
@@ -3994,7 +4235,8 @@ Skema_List = [
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": [],
+        "Dev": []
     },
     {
         "ElementName": "BoxLock",
@@ -4009,7 +4251,8 @@ Skema_List = [
         "Description": "",
         "Alias": [
             "BoxClose"
-        ]
+        ],
+        "Dev": []
     },
     {
         "ElementName": "BoxMano",
@@ -4024,7 +4267,8 @@ Skema_List = [
         "Description": "",
         "Alias": [
             "BoxGrip"
-        ]
+        ],
+        "Dev": []
     },
     {
         "ElementName": "BoxSlide",
@@ -4037,7 +4281,8 @@ Skema_List = [
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": [],
+        "Dev": []
     },
     {
         "ElementName": "BoxTransport",
@@ -4052,7 +4297,8 @@ Skema_List = [
         "Description": "",
         "Alias": [
             "BoxCarry"
-        ]
+        ],
+        "Dev": []
     },
     {
         "ElementName": "BoxStack",
@@ -4065,7 +4311,8 @@ Skema_List = [
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": [],
+        "Dev": []
     },
     {
         "ElementName": "Frase",
@@ -4100,7 +4347,8 @@ Skema_List = [
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": [],
+        "Dev": []
     },
     {
         "ElementName": "BoxMove",
@@ -4122,7 +4370,8 @@ Skema_List = [
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": [],
+        "Dev": []
     },
     {
         "ElementName": "BundleError",
@@ -4135,7 +4384,8 @@ Skema_List = [
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": [],
+        "Dev": []
     },
     {
         "ElementName": "BundleMano",
@@ -4150,7 +4400,8 @@ Skema_List = [
         "Description": "",
         "Alias": [
             "BundleGrip"
-        ]
+        ],
+        "Dev": []
     },
     {
         "ElementName": "BundlePeel",
@@ -4163,7 +4414,8 @@ Skema_List = [
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": [],
+        "Dev": []
     },
     {
         "ElementName": "BundleUnwrap",
@@ -4176,7 +4428,8 @@ Skema_List = [
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": [],
+        "Dev": []
     },
     {
         "ElementName": "BundleCount",
@@ -4191,7 +4444,8 @@ Skema_List = [
         "Description": "",
         "Alias": [
             "Bundle counting"
-        ]
+        ],
+        "Dev": []
     },
     {
         "ElementName": "BundleAlloMano",
@@ -4204,7 +4458,8 @@ Skema_List = [
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": [],
+        "Dev": []
     },
     {
         "ElementName": "BundleStack",
@@ -4217,7 +4472,8 @@ Skema_List = [
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": [],
+        "Dev": []
     },
     {
         "ElementName": "Frase",
@@ -4252,7 +4508,8 @@ Skema_List = [
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": [],
+        "Dev": []
     },
     {
         "ElementName": "BundleMove",
@@ -4271,7 +4528,8 @@ Skema_List = [
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": [],
+        "Dev": []
     },
     {
         "ElementName": "DoruAmble",
@@ -4286,7 +4544,8 @@ Skema_List = [
         "Description": "",
         "Alias": [
             "StaffAmble"
-        ]
+        ],
+        "Dev": []
     },
     {
         "ElementName": "DoruAnkor",
@@ -4302,7 +4561,8 @@ Skema_List = [
         "Alias": [
             "StaffAnchor",
             "DoruAnchor"
-        ]
+        ],
+        "Dev": []
     },
     {
         "ElementName": "DoruBump",
@@ -4317,7 +4577,8 @@ Skema_List = [
         "Description": "",
         "Alias": [
             "StaffBump"
-        ]
+        ],
+        "Dev": []
     },
     {
         "ElementName": "DoruPont",
@@ -4333,7 +4594,8 @@ Skema_List = [
         "Alias": [
             "StaffBridge",
             "DoruBridge"
-        ]
+        ],
+        "Dev": []
     },
     {
         "ElementName": "DoruDrag",
@@ -4348,7 +4610,8 @@ Skema_List = [
         "Description": "",
         "Alias": [
             "StaffDrag"
-        ]
+        ],
+        "Dev": []
     },
     {
         "ElementName": "DoruError",
@@ -4363,7 +4626,8 @@ Skema_List = [
         "Description": "",
         "Alias": [
             "StaffError"
-        ]
+        ],
+        "Dev": []
     },
     {
         "ElementName": "DoruMano",
@@ -4378,7 +4642,8 @@ Skema_List = [
         "Description": "",
         "Alias": [
             "StaffGrip"
-        ]
+        ],
+        "Dev": []
     },
     {
         "ElementName": "DoruPogo",
@@ -4393,7 +4658,8 @@ Skema_List = [
         "Description": "",
         "Alias": [
             "StaffPogo"
-        ]
+        ],
+        "Dev": []
     },
     {
         "ElementName": "DoruPoke",
@@ -4408,7 +4674,8 @@ Skema_List = [
         "Description": "",
         "Alias": [
             "StaffPoke"
-        ]
+        ],
+        "Dev": []
     },
     {
         "ElementName": "DoruPost",
@@ -4425,7 +4692,8 @@ Skema_List = [
             "StaffPost",
             "StaffPlant",
             "DoruPlant"
-        ]
+        ],
+        "Dev": []
     },
     {
         "ElementName": "DoruAma",
@@ -4441,7 +4709,8 @@ Skema_List = [
         "Alias": [
             "DoruProp",
             "StaffProp"
-        ]
+        ],
+        "Dev": []
     },
     {
         "ElementName": "DoruPropel",
@@ -4457,7 +4726,8 @@ Skema_List = [
         "Alias": [
             "DoruSlam",
             "StaffSlam"
-        ]
+        ],
+        "Dev": []
     },
     {
         "ElementName": "DoruRotate",
@@ -4472,7 +4742,8 @@ Skema_List = [
         "Description": "",
         "Alias": [
             "StaffRotate"
-        ]
+        ],
+        "Dev": []
     },
     {
         "ElementName": "DoruSkreef",
@@ -4487,7 +4758,8 @@ Skema_List = [
         "Description": "",
         "Alias": [
             "StaffSkreef"
-        ]
+        ],
+        "Dev": []
     },
     {
         "ElementName": "DoruSlap",
@@ -4502,7 +4774,8 @@ Skema_List = [
         "Description": "",
         "Alias": [
             "StaffSlap"
-        ]
+        ],
+        "Dev": []
     },
     {
         "ElementName": "DoruSlide",
@@ -4517,7 +4790,8 @@ Skema_List = [
         "Description": "",
         "Alias": [
             "StaffSlide"
-        ]
+        ],
+        "Dev": []
     },
     {
         "ElementName": "DoruStall",
@@ -4532,7 +4806,8 @@ Skema_List = [
         "Description": "",
         "Alias": [
             "StaffStall"
-        ]
+        ],
+        "Dev": []
     },
     {
         "ElementName": "DoruStomp",
@@ -4547,7 +4822,8 @@ Skema_List = [
         "Description": "",
         "Alias": [
             "StaffStomp"
-        ]
+        ],
+        "Dev": []
     },
     {
         "ElementName": "DoruAllo",
@@ -4562,7 +4838,8 @@ Skema_List = [
         "Description": "",
         "Alias": [
             "StaffAllo"
-        ]
+        ],
+        "Dev": []
     },
     {
         "ElementName": "DoruOnda",
@@ -4578,7 +4855,8 @@ Skema_List = [
         "Alias": [
             "StaffOnda",
             "StaffSwing"
-        ]
+        ],
+        "Dev": []
     },
     {
         "ElementName": "DoruMove",
@@ -4613,7 +4891,8 @@ Skema_List = [
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": [],
+        "Dev": []
     },
     {
         "ElementName": "GloveOff",
@@ -4626,7 +4905,8 @@ Skema_List = [
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": [],
+        "Dev": []
     },
     {
         "ElementName": "GloveOn",
@@ -4639,7 +4919,8 @@ Skema_List = [
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": [],
+        "Dev": []
     },
     {
         "ElementName": "Frase",
@@ -4674,7 +4955,8 @@ Skema_List = [
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": [],
+        "Dev": []
     },
     {
         "ElementName": "GloveError",
@@ -4687,7 +4969,8 @@ Skema_List = [
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": [],
+        "Dev": []
     },
     {
         "ElementName": "GloveMano",
@@ -4700,7 +4983,8 @@ Skema_List = [
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": [],
+        "Dev": []
     },
     {
         "ElementName": "GlovePreservation",
@@ -4713,7 +4997,8 @@ Skema_List = [
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": [],
+        "Dev": []
     },
     {
         "ElementName": "GloveMove",
@@ -4731,7 +5016,8 @@ Skema_List = [
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": [],
+        "Dev": []
     },
     {
         "ElementName": "KarabinerError",
@@ -4746,7 +5032,8 @@ Skema_List = [
         "Description": "",
         "Alias": [
             "CarabinerError"
-        ]
+        ],
+        "Dev": []
     },
     {
         "ElementName": "KarabinerMove",
@@ -4763,7 +5050,8 @@ Skema_List = [
         "Description": "",
         "Alias": [
             "CarabinerMove"
-        ]
+        ],
+        "Dev": []
     },
     {
         "ElementName": "KitOffFrase",
@@ -4778,7 +5066,8 @@ Skema_List = [
         "Description": "",
         "Alias": [
             "CacheBag"
-        ]
+        ],
+        "Dev": []
     },
     {
         "ElementName": "KitOnFrase",
@@ -4791,7 +5080,8 @@ Skema_List = [
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": [],
+        "Dev": []
     },
     {
         "ElementName": "Frase",
@@ -4826,7 +5116,8 @@ Skema_List = [
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": [],
+        "Dev": []
     },
     {
         "ElementName": "KitError",
@@ -4841,7 +5132,8 @@ Skema_List = [
         "Description": "",
         "Alias": [
             "CacheBagError"
-        ]
+        ],
+        "Dev": []
     },
     {
         "ElementName": "KitPreservation",
@@ -4854,7 +5146,8 @@ Skema_List = [
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": [],
+        "Dev": []
     },
     {
         "ElementName": "KitMove",
@@ -4873,7 +5166,8 @@ Skema_List = [
         "Description": "",
         "Alias": [
             "CacheBagMove"
-        ]
+        ],
+        "Dev": []
     },
     {
         "ElementName": "MarkaPut",
@@ -4888,7 +5182,8 @@ Skema_List = [
         "Description": "",
         "Alias": [
             "MarkaPlace"
-        ]
+        ],
+        "Dev": []
     },
     {
         "ElementName": "Frase",
@@ -4923,7 +5218,8 @@ Skema_List = [
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": [],
+        "Dev": []
     },
     {
         "ElementName": "MarkaError",
@@ -4936,7 +5232,8 @@ Skema_List = [
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": [],
+        "Dev": []
     },
     {
         "ElementName": "MarkaforMove",
@@ -4951,7 +5248,8 @@ Skema_List = [
         "Description": "",
         "Alias": [
             "FlaggerMove"
-        ]
+        ],
+        "Dev": []
     },
     {
         "ElementName": "MarkaKnot",
@@ -4966,7 +5264,8 @@ Skema_List = [
         "Description": "",
         "Alias": [
             "FlagKnot"
-        ]
+        ],
+        "Dev": []
     },
     {
         "ElementName": "MarkaLoad",
@@ -4981,7 +5280,8 @@ Skema_List = [
         "Description": "",
         "Alias": [
             "FlagLoad"
-        ]
+        ],
+        "Dev": []
     },
     {
         "ElementName": "MarkaMano",
@@ -4996,7 +5296,8 @@ Skema_List = [
         "Description": "",
         "Alias": [
             "FlagGrip"
-        ]
+        ],
+        "Dev": []
     },
     {
         "ElementName": "MarkaRip",
@@ -5011,7 +5312,8 @@ Skema_List = [
         "Description": "",
         "Alias": [
             "FlagRip"
-        ]
+        ],
+        "Dev": []
     },
     {
         "ElementName": "MarkaRoll",
@@ -5026,7 +5328,8 @@ Skema_List = [
         "Description": "",
         "Alias": [
             "FlagRoll"
-        ]
+        ],
+        "Dev": []
     },
     {
         "ElementName": "MarkaMove",
@@ -5048,7 +5351,8 @@ Skema_List = [
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": [],
+        "Dev": []
     },
     {
         "ElementName": "InstrumentMove",
@@ -5079,7 +5383,8 @@ Skema_List = [
         "Description": "",
         "Alias": [
             "ToolMove"
-        ]
+        ],
+        "Dev": []
     },
     {
         "ElementName": "BackBagMove",
@@ -5092,7 +5397,8 @@ Skema_List = [
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": [],
+        "Dev": []
     },
     {
         "ElementName": "BagEmpty",
@@ -5105,7 +5411,8 @@ Skema_List = [
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": [],
+        "Dev": []
     },
     {
         "ElementName": "BagIn",
@@ -5120,7 +5427,8 @@ Skema_List = [
         "Description": "",
         "Alias": [
             "BagUp"
-        ]
+        ],
+        "Dev": []
     },
     {
         "ElementName": "BagLift",
@@ -5133,7 +5441,8 @@ Skema_List = [
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": [],
+        "Dev": []
     },
     {
         "ElementName": "BagBlock",
@@ -5146,7 +5455,8 @@ Skema_List = [
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": [],
+        "Dev": []
     },
     {
         "ElementName": "Frase",
@@ -5181,7 +5491,8 @@ Skema_List = [
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": [],
+        "Dev": []
     },
     {
         "ElementName": "PlantaforMove",
@@ -5206,7 +5517,8 @@ Skema_List = [
         "Description": "",
         "Alias": [
             "PlantingBagsMove"
-        ]
+        ],
+        "Dev": []
     },
     {
         "ElementName": "PlantaforAdjust",
@@ -5221,7 +5533,8 @@ Skema_List = [
         "Description": "",
         "Alias": [
             "PlantingBagsAdjust"
-        ]
+        ],
+        "Dev": []
     },
     {
         "ElementName": "PlantaforError",
@@ -5236,7 +5549,8 @@ Skema_List = [
         "Description": "",
         "Alias": [
             "PlantingBagsError"
-        ]
+        ],
+        "Dev": []
     },
     {
         "ElementName": "PlantaforLift",
@@ -5251,7 +5565,8 @@ Skema_List = [
         "Description": "",
         "Alias": [
             "PlantingBagsLift"
-        ]
+        ],
+        "Dev": []
     },
     {
         "ElementName": "PlantaforOff",
@@ -5267,7 +5582,8 @@ Skema_List = [
         "Alias": [
             "PlantingBagsOff",
             "BagsOff"
-        ]
+        ],
+        "Dev": []
     },
     {
         "ElementName": "PlantaforOn",
@@ -5283,7 +5599,8 @@ Skema_List = [
         "Alias": [
             "bag on",
             "PlantingBagsOn"
-        ]
+        ],
+        "Dev": []
     },
     {
         "ElementName": "PlantaforPreservation",
@@ -5296,7 +5613,8 @@ Skema_List = [
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": [],
+        "Dev": []
     },
     {
         "ElementName": "PlantaforSlide",
@@ -5309,7 +5627,8 @@ Skema_List = [
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": [],
+        "Dev": []
     },
     {
         "ElementName": "PlantaforTransport",
@@ -5322,7 +5641,8 @@ Skema_List = [
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": [],
+        "Dev": []
     },
     {
         "ElementName": "RadiorMove",
@@ -5339,7 +5659,8 @@ Skema_List = [
         "Description": "",
         "Alias": [
             "VambraceMove"
-        ]
+        ],
+        "Dev": []
     },
     {
         "ElementName": "RadiorPreservation",
@@ -5352,7 +5673,8 @@ Skema_List = [
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": [],
+        "Dev": []
     },
     {
         "ElementName": "SewingFrase",
@@ -5365,7 +5687,8 @@ Skema_List = [
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": [],
+        "Dev": []
     },
     {
         "ElementName": "RepairMove",
@@ -5380,7 +5703,8 @@ Skema_List = [
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": [],
+        "Dev": []
     },
     {
         "ElementName": "RepairError",
@@ -5393,7 +5717,8 @@ Skema_List = [
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": [],
+        "Dev": []
     },
     {
         "ElementName": "RopeMove",
@@ -5408,7 +5733,8 @@ Skema_List = [
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": [],
+        "Dev": []
     },
     {
         "ElementName": "RopeError",
@@ -5421,7 +5747,8 @@ Skema_List = [
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": [],
+        "Dev": []
     },
     {
         "ElementName": "CollarMano",
@@ -5436,7 +5763,8 @@ Skema_List = [
         "Description": "",
         "Alias": [
             "CollarGrip"
-        ]
+        ],
+        "Dev": []
     },
     {
         "ElementName": "SpadeTest",
@@ -5451,7 +5779,8 @@ Skema_List = [
         "Description": "",
         "Alias": [
             "SpadeProbe"
-        ]
+        ],
+        "Dev": []
     },
     {
         "ElementName": "SpadeMove",
@@ -5496,7 +5825,8 @@ Skema_List = [
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": [],
+        "Dev": []
     },
     {
         "ElementName": "SpadeAma",
@@ -5511,7 +5841,8 @@ Skema_List = [
         "Description": "",
         "Alias": [
             "SpadeProp"
-        ]
+        ],
+        "Dev": []
     },
     {
         "ElementName": "SpadeAmble",
@@ -5526,7 +5857,8 @@ Skema_List = [
         "Description": "",
         "Alias": [
             "SpadeWalk"
-        ]
+        ],
+        "Dev": []
     },
     {
         "ElementName": "SpadeAnkor",
@@ -5539,7 +5871,8 @@ Skema_List = [
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": [],
+        "Dev": []
     },
     {
         "ElementName": "SpadeBallista",
@@ -5554,7 +5887,8 @@ Skema_List = [
         "Description": "",
         "Alias": [
             "SpadeThrow"
-        ]
+        ],
+        "Dev": []
     },
     {
         "ElementName": "SpadeBlock",
@@ -5569,7 +5903,8 @@ Skema_List = [
         "Description": "",
         "Alias": [
             "SpadeDeflect"
-        ]
+        ],
+        "Dev": []
     },
     {
         "ElementName": "SpadeDendrektomi",
@@ -5586,7 +5921,8 @@ Skema_List = [
             "RemoveTree",
             "RemoveDendron",
             "pull a tree"
-        ]
+        ],
+        "Dev": []
     },
     {
         "ElementName": "SpadeOpen",
@@ -5599,7 +5935,8 @@ Skema_List = [
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": [],
+        "Dev": []
     },
     {
         "ElementName": "SpadeDrag",
@@ -5612,7 +5949,8 @@ Skema_List = [
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": [],
+        "Dev": []
     },
     {
         "ElementName": "SpadeError",
@@ -5625,7 +5963,8 @@ Skema_List = [
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": [],
+        "Dev": []
     },
     {
         "ElementName": "SpadeHook",
@@ -5638,7 +5977,8 @@ Skema_List = [
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": [],
+        "Dev": []
     },
     {
         "ElementName": "SpadeMano",
@@ -5653,7 +5993,8 @@ Skema_List = [
         "Description": "",
         "Alias": [
             "SpadeGrip"
-        ]
+        ],
+        "Dev": []
     },
     {
         "ElementName": "SpadeMuscleUp",
@@ -5666,7 +6007,8 @@ Skema_List = [
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": [],
+        "Dev": []
     },
     {
         "ElementName": "SpadeOnda",
@@ -5683,7 +6025,8 @@ Skema_List = [
             "SpadeWhip",
             "SpadeSwing",
             "SpadeFlag"
-        ]
+        ],
+        "Dev": []
     },
     {
         "ElementName": "SpadePlastBimano",
@@ -5696,7 +6039,10 @@ Skema_List = [
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": ["SpadeHandleMatch"]
+        "Alias": [
+            "SpadeHandleMatch"
+        ],
+        "Dev": []
     },
     {
         "ElementName": "SpadePlastMano",
@@ -5709,7 +6055,10 @@ Skema_List = [
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": ["SpadeHandleGrip"]
+        "Alias": [
+            "SpadeHandleGrip"
+        ],
+        "Dev": []
     },
     {
         "ElementName": "SpadePogo",
@@ -5722,7 +6071,8 @@ Skema_List = [
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": [],
+        "Dev": []
     },
     {
         "ElementName": "SpadePoke",
@@ -5735,7 +6085,8 @@ Skema_List = [
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": [],
+        "Dev": []
     },
     {
         "ElementName": "SpadePost",
@@ -5748,7 +6099,10 @@ Skema_List = [
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": ["SpadePlant"]
+        "Alias": [
+            "SpadePlant"
+        ],
+        "Dev": []
     },
     {
         "ElementName": "SpadePreservation",
@@ -5761,7 +6115,10 @@ Skema_List = [
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": ["SpadeCare"]
+        "Alias": [
+            "SpadeCare"
+        ],
+        "Dev": []
     },
     {
         "ElementName": "SpadePropel",
@@ -5774,7 +6131,10 @@ Skema_List = [
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": ["SpadeSlam"]
+        "Alias": [
+            "SpadeSlam"
+        ],
+        "Dev": []
     },
     {
         "ElementName": "SpadePurga",
@@ -5787,7 +6147,10 @@ Skema_List = [
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": ["SpadeClean"]
+        "Alias": [
+            "SpadeClean"
+        ],
+        "Dev": []
     },
     {
         "ElementName": "SpadeRotate",
@@ -5800,7 +6163,8 @@ Skema_List = [
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": [],
+        "Dev": []
     },
     {
         "ElementName": "SpadeKlose",
@@ -5813,7 +6177,10 @@ Skema_List = [
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": ["SpadeClose"]
+        "Alias": [
+            "SpadeClose"
+        ],
+        "Dev": []
     },
     {
         "ElementName": "SpadeSkreef",
@@ -5826,7 +6193,10 @@ Skema_List = [
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": ["SpadeScreef"]
+        "Alias": [
+            "SpadeScreef"
+        ],
+        "Dev": []
     },
     {
         "ElementName": "SpadeSlap",
@@ -5839,7 +6209,8 @@ Skema_List = [
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": [],
+        "Dev": []
     },
     {
         "ElementName": "SpadeStall",
@@ -5852,7 +6223,8 @@ Skema_List = [
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": [],
+        "Dev": []
     },
     {
         "ElementName": "SpadeStomp",
@@ -5865,7 +6237,8 @@ Skema_List = [
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": [],
+        "Dev": []
     },
     {
         "ElementName": "SpadeTomi",
@@ -5878,7 +6251,8 @@ Skema_List = [
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": [],
+        "Dev": []
     },
     {
         "ElementName": "SpadeAllo",
@@ -5891,7 +6265,11 @@ Skema_List = [
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": ["HandAllo","AlloMano"]
+        "Alias": [
+            "HandAllo",
+            "AlloMano"
+        ],
+        "Dev": []
     },
     {
         "ElementName": "SpadeTransport",
@@ -5904,7 +6282,8 @@ Skema_List = [
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": [],
+        "Dev": []
     },
     {
         "ElementName": "Frase",
@@ -5939,7 +6318,8 @@ Skema_List = [
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": [],
+        "Dev": []
     },
     {
         "ElementName": "TibiorOffFrase",
@@ -5952,7 +6332,8 @@ Skema_List = [
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": [],
+        "Dev": []
     },
     {
         "ElementName": "TibiorOnFrase",
@@ -5965,7 +6346,8 @@ Skema_List = [
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": [],
+        "Dev": []
     },
     {
         "ElementName": "TibiorMove",
@@ -5983,7 +6365,8 @@ Skema_List = [
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": [],
+        "Dev": []
     },
     {
         "ElementName": "TibiorError",
@@ -5996,7 +6379,8 @@ Skema_List = [
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": [],
+        "Dev": []
     },
     {
         "ElementName": "TibiorMano",
@@ -6009,7 +6393,8 @@ Skema_List = [
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": [],
+        "Dev": []
     },
     {
         "ElementName": "TibiorPreservation",
@@ -6022,7 +6407,8 @@ Skema_List = [
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": [],
+        "Dev": []
     },
     {
         "ElementName": "BagMano",
@@ -6035,7 +6421,8 @@ Skema_List = [
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": [],
+        "Dev": []
     },
     {
         "ElementName": "BoxMano",
@@ -6048,7 +6435,8 @@ Skema_List = [
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": [],
+        "Dev": []
     },
     {
         "ElementName": "Frase",
@@ -6083,7 +6471,8 @@ Skema_List = [
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": [],
+        "Dev": []
     },
     {
         "ElementName": "ManoCompress",
@@ -6096,7 +6485,8 @@ Skema_List = [
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": [],
+        "Dev": []
     },
     {
         "ElementName": "ManoDig",
@@ -6109,7 +6499,8 @@ Skema_List = [
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": [],
+        "Dev": []
     },
     {
         "ElementName": "ManoOrbit",
@@ -6122,7 +6513,8 @@ Skema_List = [
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": [],
+        "Dev": []
     },
     {
         "ElementName": "ManoPoke",
@@ -6135,7 +6527,8 @@ Skema_List = [
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": [],
+        "Dev": []
     },
     {
         "ElementName": "HammerKlose",
@@ -6148,7 +6541,8 @@ Skema_List = [
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": [],
+        "Dev": []
     },
     {
         "ElementName": "ManoDragKlose",
@@ -6161,7 +6555,8 @@ Skema_List = [
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": [],
+        "Dev": []
     },
     {
         "ElementName": "ManoKlose",
@@ -6180,7 +6575,8 @@ Skema_List = [
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": [],
+        "Dev": []
     },
     {
         "ElementName": "PalmKlose",
@@ -6193,7 +6589,8 @@ Skema_List = [
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": [],
+        "Dev": []
     },
     {
         "ElementName": "PunchKlose",
@@ -6206,7 +6603,8 @@ Skema_List = [
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": [],
+        "Dev": []
     },
     {
         "ElementName": "SlapKlose",
@@ -6219,7 +6617,8 @@ Skema_List = [
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": [],
+        "Dev": []
     },
     {
         "ElementName": "ManoSkreef",
@@ -6232,7 +6631,8 @@ Skema_List = [
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": [],
+        "Dev": []
     },
     {
         "ElementName": "ManoSlide",
@@ -6245,7 +6645,8 @@ Skema_List = [
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": [],
+        "Dev": []
     },
     {
         "ElementName": "ManoMove",
@@ -6269,7 +6670,8 @@ Skema_List = [
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": [],
+        "Dev": []
     },
     {
         "ElementName": "MoveElements",
@@ -6295,7 +6697,8 @@ Skema_List = [
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": [],
+        "Dev": []
     },
     {
         "ElementName": "Frase",
@@ -6330,7 +6733,8 @@ Skema_List = [
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": [],
+        "Dev": []
     },
     {
         "ElementName": "SiteMove",
@@ -6354,7 +6758,8 @@ Skema_List = [
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": [],
+        "Dev": []
     },
     {
         "ElementName": "SiteOpen",
@@ -6367,7 +6772,11 @@ Skema_List = [
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": ["open a hole","OpenHole"]
+        "Alias": [
+            "open a hole",
+            "OpenHole"
+        ],
+        "Dev": []
     },
     {
         "ElementName": "SiteEnter",
@@ -6380,7 +6789,8 @@ Skema_List = [
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": [],
+        "Dev": []
     },
     {
         "ElementName": "SiteError",
@@ -6393,7 +6803,8 @@ Skema_List = [
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": [],
+        "Dev": []
     },
     {
         "ElementName": "SiteEval",
@@ -6406,7 +6817,8 @@ Skema_List = [
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": [],
+        "Dev": []
     },
     {
         "ElementName": "SiteExtract",
@@ -6419,7 +6831,8 @@ Skema_List = [
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": [],
+        "Dev": []
     },
     {
         "ElementName": "SiteMark",
@@ -6432,7 +6845,8 @@ Skema_List = [
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": [],
+        "Dev": []
     },
     {
         "ElementName": "SiteKlose",
@@ -6445,7 +6859,8 @@ Skema_List = [
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": [],
+        "Dev": []
     },
     {
         "ElementName": "SiteSelect",
@@ -6458,7 +6873,8 @@ Skema_List = [
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": [],
+        "Dev": []
     },
     {
         "ElementName": "SiteSkreef",
@@ -6471,7 +6887,8 @@ Skema_List = [
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": [],
+        "Dev": []
     },
     {
         "ElementName": "TruckSequence",
@@ -6484,7 +6901,8 @@ Skema_List = [
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": [],
+        "Dev": []
     },
     {
         "ElementName": "TruckMove",
@@ -6501,7 +6919,8 @@ Skema_List = [
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": [],
+        "Dev": []
     },
     {
         "ElementName": "TruckError",
@@ -6514,7 +6933,8 @@ Skema_List = [
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": [],
+        "Dev": []
     },
     {
         "ElementName": "TruckSit",
@@ -6527,7 +6947,8 @@ Skema_List = [
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": [],
+        "Dev": []
     },
     {
         "ElementName": "TruckSleep",
@@ -6540,7 +6961,8 @@ Skema_List = [
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": [],
+        "Dev": []
     },
     {
         "ElementName": "MoveCoverage",
@@ -6553,7 +6975,8 @@ Skema_List = [
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": [],
+        "Dev": []
     },
     {
         "ElementName": "MoveDensity",
@@ -6566,7 +6989,8 @@ Skema_List = [
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": [],
+        "Dev": []
     },
     {
         "ElementName": "BaseExtreme",
@@ -6579,7 +7003,8 @@ Skema_List = [
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": [],
+        "Dev": []
     },
     {
         "ElementName": "BrazoExtreme",
@@ -6592,7 +7017,8 @@ Skema_List = [
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": [],
+        "Dev": []
     },
     {
         "ElementName": "MoveExtreme",
@@ -6608,7 +7034,8 @@ Skema_List = [
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": [],
+        "Dev": []
     },
     {
         "ElementName": "MoveLine",
@@ -6621,7 +7048,8 @@ Skema_List = [
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": [],
+        "Dev": []
     },
     {
         "ElementName": "MoveSpace",
@@ -6634,7 +7062,8 @@ Skema_List = [
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": [],
+        "Dev": []
     },
     {
         "ElementName": "MoveSimbols",
@@ -6647,7 +7076,8 @@ Skema_List = [
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": [],
+        "Dev": []
     },
     {
         "ElementName": "MoveTeori",
@@ -6665,7 +7095,8 @@ Skema_List = [
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": [],
+        "Dev": []
     },
     {
         "ElementName": "PsikeOverview",
@@ -6678,7 +7109,8 @@ Skema_List = [
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": [],
+        "Dev": []
     },
     {
         "ElementName": "Arousal",
@@ -6691,7 +7123,8 @@ Skema_List = [
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": [],
+        "Dev": []
     },
     {
         "ElementName": "Attention",
@@ -6704,7 +7137,8 @@ Skema_List = [
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": [],
+        "Dev": []
     },
     {
         "ElementName": "BranchBreakSound",
@@ -6717,7 +7151,8 @@ Skema_List = [
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": [],
+        "Dev": []
     },
     {
         "ElementName": "LogBreakSound",
@@ -6730,7 +7165,8 @@ Skema_List = [
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": [],
+        "Dev": []
     },
     {
         "ElementName": "Music",
@@ -6745,7 +7181,8 @@ Skema_List = [
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": [],
+        "Dev": []
     },
     {
         "ElementName": "Playlists",
@@ -6758,7 +7195,8 @@ Skema_List = [
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": [],
+        "Dev": []
     },
     {
         "ElementName": "Audio",
@@ -6778,7 +7216,8 @@ Skema_List = [
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": [],
+        "Dev": []
     },
     {
         "ElementName": "SlashSound",
@@ -6791,7 +7230,8 @@ Skema_List = [
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": [],
+        "Dev": []
     },
     {
         "ElementName": "SoilSound",
@@ -6804,7 +7244,8 @@ Skema_List = [
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": [],
+        "Dev": []
     },
     {
         "ElementName": "SpadeSound",
@@ -6817,7 +7258,8 @@ Skema_List = [
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": [],
+        "Dev": []
     },
     {
         "ElementName": "Avoidance",
@@ -6830,7 +7272,8 @@ Skema_List = [
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": [],
+        "Dev": []
     },
     {
         "ElementName": "Awareness",
@@ -6843,7 +7286,8 @@ Skema_List = [
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": [],
+        "Dev": []
     },
     {
         "ElementName": "Compassion",
@@ -6856,7 +7300,8 @@ Skema_List = [
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": [],
+        "Dev": []
     },
     {
         "ElementName": "Competition",
@@ -6869,7 +7314,8 @@ Skema_List = [
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": [],
+        "Dev": []
     },
     {
         "ElementName": "CompressionSense",
@@ -6882,7 +7328,8 @@ Skema_List = [
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": [],
+        "Dev": []
     },
     {
         "ElementName": "Confidence",
@@ -6895,7 +7342,8 @@ Skema_List = [
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": [],
+        "Dev": []
     },
     {
         "ElementName": "ControlFlow",
@@ -6908,7 +7356,8 @@ Skema_List = [
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": [],
+        "Dev": []
     },
     {
         "ElementName": "BundleCounting",
@@ -6921,7 +7370,8 @@ Skema_List = [
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": [],
+        "Dev": []
     },
     {
         "ElementName": "Counting",
@@ -6937,7 +7387,8 @@ Skema_List = [
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": [],
+        "Dev": []
     },
     {
         "ElementName": "StepCount",
@@ -6950,7 +7401,8 @@ Skema_List = [
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": [],
+        "Dev": []
     },
     {
         "ElementName": "BagUpSizeDecision",
@@ -6963,7 +7415,8 @@ Skema_List = [
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": [],
+        "Dev": []
     },
     {
         "ElementName": "GoOrNoGo",
@@ -6976,7 +7429,8 @@ Skema_List = [
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": [],
+        "Dev": []
     },
     {
         "ElementName": "MicrositeSelection",
@@ -6989,7 +7443,8 @@ Skema_List = [
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": [],
+        "Dev": []
     },
     {
         "ElementName": "Decision",
@@ -7006,7 +7461,8 @@ Skema_List = [
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": [],
+        "Dev": []
     },
     {
         "ElementName": "Anger",
@@ -7019,7 +7475,8 @@ Skema_List = [
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": [],
+        "Dev": []
     },
     {
         "ElementName": "Disgust",
@@ -7032,7 +7489,8 @@ Skema_List = [
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": [],
+        "Dev": []
     },
     {
         "ElementName": "Fear",
@@ -7045,7 +7503,8 @@ Skema_List = [
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": [],
+        "Dev": []
     },
     {
         "ElementName": "Joy",
@@ -7058,7 +7517,8 @@ Skema_List = [
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": [],
+        "Dev": []
     },
     {
         "ElementName": "Emotion",
@@ -7077,7 +7537,8 @@ Skema_List = [
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": [],
+        "Dev": []
     },
     {
         "ElementName": "Sadness",
@@ -7090,7 +7551,8 @@ Skema_List = [
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": [],
+        "Dev": []
     },
     {
         "ElementName": "Fatigue",
@@ -7103,7 +7565,8 @@ Skema_List = [
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": [],
+        "Dev": []
     },
     {
         "ElementName": "Energy",
@@ -7118,7 +7581,8 @@ Skema_List = [
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": [],
+        "Dev": []
     },
     {
         "ElementName": "BagFillEstimation",
@@ -7131,7 +7595,8 @@ Skema_List = [
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": [],
+        "Dev": []
     },
     {
         "ElementName": "Estimation",
@@ -7148,7 +7613,8 @@ Skema_List = [
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": [],
+        "Dev": []
     },
     {
         "ElementName": "SpaceEstimation",
@@ -7161,7 +7627,8 @@ Skema_List = [
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": [],
+        "Dev": []
     },
     {
         "ElementName": "TimeEstimation",
@@ -7174,7 +7641,8 @@ Skema_List = [
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": [],
+        "Dev": []
     },
     {
         "ElementName": "Event",
@@ -7187,7 +7655,8 @@ Skema_List = [
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": [],
+        "Dev": []
     },
     {
         "ElementName": "Homeostasis",
@@ -7200,7 +7669,8 @@ Skema_List = [
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": [],
+        "Dev": []
     },
     {
         "ElementName": "Judgement",
@@ -7213,7 +7683,8 @@ Skema_List = [
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": [],
+        "Dev": []
     },
     {
         "ElementName": "Learning",
@@ -7226,7 +7697,8 @@ Skema_List = [
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": [],
+        "Dev": []
     },
     {
         "ElementName": "LongTermMemory",
@@ -7239,7 +7711,8 @@ Skema_List = [
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": [],
+        "Dev": []
     },
     {
         "ElementName": "NumberMemory",
@@ -7252,7 +7725,8 @@ Skema_List = [
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": [],
+        "Dev": []
     },
     {
         "ElementName": "Memory",
@@ -7271,7 +7745,8 @@ Skema_List = [
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": [],
+        "Dev": []
     },
     {
         "ElementName": "ShortTermMemory",
@@ -7284,7 +7759,8 @@ Skema_List = [
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": [],
+        "Dev": []
     },
     {
         "ElementName": "ViaMemory",
@@ -7297,7 +7773,8 @@ Skema_List = [
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": [],
+        "Dev": []
     },
     {
         "ElementName": "WorkingMemory",
@@ -7310,7 +7787,8 @@ Skema_List = [
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": [],
+        "Dev": []
     },
     {
         "ElementName": "Mindfulness",
@@ -7323,7 +7801,8 @@ Skema_List = [
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": [],
+        "Dev": []
     },
     {
         "ElementName": "Mindset",
@@ -7336,7 +7815,8 @@ Skema_List = [
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": [],
+        "Dev": []
     },
     {
         "ElementName": "Muscle",
@@ -7349,7 +7829,8 @@ Skema_List = [
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": [],
+        "Dev": []
     },
     {
         "ElementName": "FlowState",
@@ -7362,7 +7843,8 @@ Skema_List = [
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": [],
+        "Dev": []
     },
     {
         "ElementName": "NeuroState",
@@ -7377,7 +7859,8 @@ Skema_List = [
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": [],
+        "Dev": []
     },
     {
         "ElementName": "Proprioception",
@@ -7390,7 +7873,8 @@ Skema_List = [
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": [],
+        "Dev": []
     },
     {
         "ElementName": "Resilience",
@@ -7403,7 +7887,8 @@ Skema_List = [
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": [],
+        "Dev": []
     },
     {
         "ElementName": "SpatialCognition",
@@ -7416,7 +7901,8 @@ Skema_List = [
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": [],
+        "Dev": []
     },
     {
         "ElementName": "BagOutTime",
@@ -7429,7 +7915,8 @@ Skema_List = [
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": [],
+        "Dev": []
     },
     {
         "ElementName": "CacheTime",
@@ -7442,7 +7929,8 @@ Skema_List = [
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": [],
+        "Dev": []
     },
     {
         "ElementName": "DailySchedule",
@@ -7455,7 +7943,8 @@ Skema_List = [
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": [],
+        "Dev": []
     },
     {
         "ElementName": "MoveTiming",
@@ -7468,7 +7957,8 @@ Skema_List = [
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": [],
+        "Dev": []
     },
     {
         "ElementName": "Time",
@@ -7492,7 +7982,8 @@ Skema_List = [
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": [],
+        "Dev": []
     },
     {
         "ElementName": "Planning",
@@ -7505,7 +7996,8 @@ Skema_List = [
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": [],
+        "Dev": []
     },
     {
         "ElementName": "Timer",
@@ -7518,7 +8010,8 @@ Skema_List = [
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": [],
+        "Dev": []
     },
     {
         "ElementName": "RefOverview",
@@ -7531,7 +8024,8 @@ Skema_List = [
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": [],
+        "Dev": []
     },
     {
         "ElementName": "InputElement.py",
@@ -7544,7 +8038,8 @@ Skema_List = [
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": [],
+        "Dev": []
     },
     {
         "ElementName": "Skema",
@@ -7560,7 +8055,8 @@ Skema_List = [
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": [],
+        "Dev": []
     },
     {
         "ElementName": "Skema_AllElements.json",
@@ -7573,7 +8069,8 @@ Skema_List = [
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": [],
+        "Dev": []
     },
     {
         "ElementName": "FastLand",
@@ -7586,7 +8083,8 @@ Skema_List = [
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": [],
+        "Dev": []
     },
     {
         "ElementName": "LandSpeed",
@@ -7602,7 +8100,8 @@ Skema_List = [
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": [],
+        "Dev": []
     },
     {
         "ElementName": "SlowLand",
@@ -7615,7 +8114,8 @@ Skema_List = [
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": [],
+        "Dev": []
     },
     {
         "ElementName": "ViaMetron",
@@ -7633,7 +8133,8 @@ Skema_List = [
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": [],
+        "Dev": []
     },
     {
         "ElementName": "ViaKratos",
@@ -7646,7 +8147,8 @@ Skema_List = [
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": [],
+        "Dev": []
     },
     {
         "ElementName": "ViaKuboi",
@@ -7659,7 +8161,8 @@ Skema_List = [
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": [],
+        "Dev": []
     },
     {
         "ElementName": "ViaTeknik",
@@ -7672,7 +8175,8 @@ Skema_List = [
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": [],
+        "Dev": []
     },
     {
         "ElementName": "ViaOverview",
@@ -7685,7 +8189,8 @@ Skema_List = [
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": [],
+        "Dev": []
     },
     {
         "ElementName": "FillPlanSelection",
@@ -7698,7 +8203,8 @@ Skema_List = [
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": [],
+        "Dev": []
     },
     {
         "ElementName": "ViaError",
@@ -7711,7 +8217,8 @@ Skema_List = [
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": [],
+        "Dev": []
     },
     {
         "ElementName": "ViaElements",
@@ -7727,7 +8234,8 @@ Skema_List = [
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": [],
+        "Dev": []
     },
     {
         "ElementName": "ViaAxiom",
@@ -7740,7 +8248,8 @@ Skema_List = [
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": [],
+        "Dev": []
     },
     {
         "ElementName": "Density",
@@ -7753,7 +8262,8 @@ Skema_List = [
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": [],
+        "Dev": []
     },
     {
         "ElementName": "CardinalDirection",
@@ -7766,7 +8276,8 @@ Skema_List = [
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": [],
+        "Dev": []
     },
     {
         "ElementName": "Direction",
@@ -7782,7 +8293,8 @@ Skema_List = [
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": [],
+        "Dev": []
     },
     {
         "ElementName": "AnteriorDirection",
@@ -7795,7 +8307,8 @@ Skema_List = [
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": [],
+        "Dev": []
     },
     {
         "ElementName": "DiaDirection",
@@ -7808,7 +8321,8 @@ Skema_List = [
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": [],
+        "Dev": []
     },
     {
         "ElementName": "EktoDirection",
@@ -7821,7 +8335,8 @@ Skema_List = [
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": [],
+        "Dev": []
     },
     {
         "ElementName": "InDirection",
@@ -7834,7 +8349,8 @@ Skema_List = [
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": [],
+        "Dev": []
     },
     {
         "ElementName": "OnDirection",
@@ -7847,7 +8363,8 @@ Skema_List = [
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": [],
+        "Dev": []
     },
     {
         "ElementName": "OverDirection",
@@ -7860,7 +8377,8 @@ Skema_List = [
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": [],
+        "Dev": []
     },
     {
         "ElementName": "RelativeDirection",
@@ -7886,7 +8404,8 @@ Skema_List = [
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": [],
+        "Dev": []
     },
     {
         "ElementName": "ParaDirection",
@@ -7899,7 +8418,8 @@ Skema_List = [
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": [],
+        "Dev": []
     },
     {
         "ElementName": "PeriDirection",
@@ -7912,7 +8432,8 @@ Skema_List = [
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": [],
+        "Dev": []
     },
     {
         "ElementName": "PosteriorDirection",
@@ -7925,7 +8446,8 @@ Skema_List = [
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": [],
+        "Dev": []
     },
     {
         "ElementName": "ProgressDirection",
@@ -7938,7 +8460,8 @@ Skema_List = [
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": [],
+        "Dev": []
     },
     {
         "ElementName": "ProximalDirection",
@@ -7951,7 +8474,8 @@ Skema_List = [
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": [],
+        "Dev": []
     },
     {
         "ElementName": "RegressDirection",
@@ -7964,7 +8488,8 @@ Skema_List = [
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": [],
+        "Dev": []
     },
     {
         "ElementName": "Fill",
@@ -7981,7 +8506,8 @@ Skema_List = [
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": [],
+        "Dev": []
     },
     {
         "ElementName": "Kontakt",
@@ -7994,7 +8520,8 @@ Skema_List = [
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": [],
+        "Dev": []
     },
     {
         "ElementName": "Limit",
@@ -8007,7 +8534,8 @@ Skema_List = [
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": [],
+        "Dev": []
     },
     {
         "ElementName": "Line",
@@ -8020,7 +8548,8 @@ Skema_List = [
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": [],
+        "Dev": []
     },
     {
         "ElementName": "Marka",
@@ -8033,7 +8562,8 @@ Skema_List = [
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": [],
+        "Dev": []
     },
     {
         "ElementName": "CenterPoint",
@@ -8046,7 +8576,8 @@ Skema_List = [
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": [],
+        "Dev": []
     },
     {
         "ElementName": "InflectionPoint",
@@ -8059,7 +8590,8 @@ Skema_List = [
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": [],
+        "Dev": []
     },
     {
         "ElementName": "MidPoint",
@@ -8072,7 +8604,8 @@ Skema_List = [
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": [],
+        "Dev": []
     },
     {
         "ElementName": "Point",
@@ -8094,7 +8627,8 @@ Skema_List = [
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": [],
+        "Dev": []
     },
     {
         "ElementName": "ReferencePoint",
@@ -8107,7 +8641,8 @@ Skema_List = [
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": [],
+        "Dev": []
     },
     {
         "ElementName": "ReflectionPoint",
@@ -8120,7 +8655,8 @@ Skema_List = [
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": [],
+        "Dev": []
     },
     {
         "ElementName": "TargetPoint",
@@ -8133,7 +8669,8 @@ Skema_List = [
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": [],
+        "Dev": []
     },
     {
         "ElementName": "VertexPoint",
@@ -8146,7 +8683,8 @@ Skema_List = [
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": [],
+        "Dev": []
     },
     {
         "ElementName": "Viewpoint",
@@ -8159,7 +8697,8 @@ Skema_List = [
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": [],
+        "Dev": []
     },
     {
         "ElementName": "Space",
@@ -8172,7 +8711,8 @@ Skema_List = [
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": [],
+        "Dev": []
     },
     {
         "ElementName": "AnteTime",
@@ -8185,7 +8725,8 @@ Skema_List = [
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": [],
+        "Dev": []
     },
     {
         "ElementName": "DuringTime",
@@ -8198,7 +8739,8 @@ Skema_List = [
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": [],
+        "Dev": []
     },
     {
         "ElementName": "Time",
@@ -8222,7 +8764,8 @@ Skema_List = [
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": [],
+        "Dev": []
     },
     {
         "ElementName": "PostTime",
@@ -8235,7 +8778,8 @@ Skema_List = [
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": [],
+        "Dev": []
     },
     {
         "ElementName": "Speed",
@@ -8248,7 +8792,8 @@ Skema_List = [
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": [],
+        "Dev": []
     },
     {
         "ElementName": "Vium",
@@ -8261,7 +8806,8 @@ Skema_List = [
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": [],
+        "Dev": []
     },
     {
         "ElementName": "ViaPropositions",
@@ -8277,7 +8823,8 @@ Skema_List = [
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": [],
+        "Dev": []
     },
     {
         "ElementName": "Alignment",
@@ -8290,7 +8837,8 @@ Skema_List = [
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": [],
+        "Dev": []
     },
     {
         "ElementName": "ObstacleFill",
@@ -8303,7 +8851,8 @@ Skema_List = [
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": [],
+        "Dev": []
     },
     {
         "ElementName": "Fill",
@@ -8320,7 +8869,8 @@ Skema_List = [
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": [],
+        "Dev": []
     },
     {
         "ElementName": "BouncingFill",
@@ -8333,7 +8883,8 @@ Skema_List = [
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": [],
+        "Dev": []
     },
     {
         "ElementName": "CrossingFill",
@@ -8346,7 +8897,8 @@ Skema_List = [
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": [],
+        "Dev": []
     },
     {
         "ElementName": "TeamFill",
@@ -8362,7 +8914,8 @@ Skema_List = [
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": [],
+        "Dev": []
     },
     {
         "ElementName": "ApogeeFill",
@@ -8375,7 +8928,8 @@ Skema_List = [
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": [],
+        "Dev": []
     },
     {
         "ElementName": "DivFill",
@@ -8388,7 +8942,8 @@ Skema_List = [
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": [],
+        "Dev": []
     },
     {
         "ElementName": "OpenEndedFill",
@@ -8401,7 +8956,8 @@ Skema_List = [
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": [],
+        "Dev": []
     },
     {
         "ElementName": "ZoneFill",
@@ -8421,7 +8977,8 @@ Skema_List = [
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": [],
+        "Dev": []
     },
     {
         "ElementName": "ParaBorderFill",
@@ -8434,7 +8991,8 @@ Skema_List = [
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": [],
+        "Dev": []
     },
     {
         "ElementName": "PerimeterFill",
@@ -8447,7 +9005,8 @@ Skema_List = [
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": [],
+        "Dev": []
     },
     {
         "ElementName": "StraigtenFill",
@@ -8460,7 +9019,8 @@ Skema_List = [
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": [],
+        "Dev": []
     },
     {
         "ElementName": "DecreaseDensity",
@@ -8473,7 +9033,8 @@ Skema_List = [
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": [],
+        "Dev": []
     },
     {
         "ElementName": "IncreaseDensity",
@@ -8486,7 +9047,8 @@ Skema_List = [
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": [],
+        "Dev": []
     },
     {
         "ElementName": "ViaProblem",
@@ -8503,7 +9065,8 @@ Skema_List = [
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": [],
+        "Dev": []
     },
     {
         "ElementName": "BisectLine",
@@ -8516,7 +9079,8 @@ Skema_List = [
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": [],
+        "Dev": []
     },
     {
         "ElementName": "BLine",
@@ -8529,7 +9093,8 @@ Skema_List = [
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": [],
+        "Dev": []
     },
     {
         "ElementName": "NeoSitePolygon",
@@ -8547,7 +9112,8 @@ Skema_List = [
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": [],
+        "Dev": []
     },
     {
         "ElementName": "SiteDiamond",
@@ -8560,7 +9126,8 @@ Skema_List = [
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": [],
+        "Dev": []
     },
     {
         "ElementName": "SiteSquare",
@@ -8573,7 +9140,8 @@ Skema_List = [
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": [],
+        "Dev": []
     },
     {
         "ElementName": "SiteTrapezoid",
@@ -8586,7 +9154,8 @@ Skema_List = [
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": [],
+        "Dev": []
     },
     {
         "ElementName": "SiteTriangle",
@@ -8599,7 +9168,8 @@ Skema_List = [
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": [],
+        "Dev": []
     },
     {
         "ElementName": "AdaptiveProximity",
@@ -8612,7 +9182,8 @@ Skema_List = [
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": [],
+        "Dev": []
     },
     {
         "ElementName": "RigidProximity",
@@ -8625,7 +9196,8 @@ Skema_List = [
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": [],
+        "Dev": []
     },
     {
         "ElementName": "SlopedProximity",
@@ -8638,7 +9210,8 @@ Skema_List = [
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": [],
+        "Dev": []
     },
     {
         "ElementName": "SelectNeosite",
@@ -8653,7 +9226,8 @@ Skema_List = [
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": [],
+        "Dev": []
     },
     {
         "ElementName": "Plot",
@@ -8666,7 +9240,8 @@ Skema_List = [
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": [],
+        "Dev": []
     },
     {
         "ElementName": "KontaktDensity",
@@ -8679,7 +9254,8 @@ Skema_List = [
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": [],
+        "Dev": []
     },
     {
         "ElementName": "BoustroLine",
@@ -8692,7 +9268,8 @@ Skema_List = [
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": [],
+        "Dev": []
     },
     {
         "ElementName": "CircumventLine",
@@ -8705,7 +9282,8 @@ Skema_List = [
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": [],
+        "Dev": []
     },
     {
         "ElementName": "GhostLine",
@@ -8718,7 +9296,8 @@ Skema_List = [
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": [],
+        "Dev": []
     },
     {
         "ElementName": "HypotenuseLine",
@@ -8731,7 +9310,8 @@ Skema_List = [
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": [],
+        "Dev": []
     },
     {
         "ElementName": "OrbitLine",
@@ -8744,7 +9324,8 @@ Skema_List = [
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": [],
+        "Dev": []
     },
     {
         "ElementName": "LineTeorem",
@@ -8760,8 +9341,8 @@ Skema_List = [
             "RotationLine",
             "SpiralLine",
             "StraightLine",
-            "AmbleInLine",
-            "AmbleoutLine",
+            "WalkInLine",
+            "WalkOutLine",
             "ZigzagLine"
         ],
         "ConcurrentElementName": [],
@@ -8770,7 +9351,8 @@ Skema_List = [
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": [],
+        "Dev": []
     },
     {
         "ElementName": "RacingLine",
@@ -8783,7 +9365,8 @@ Skema_List = [
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": [],
+        "Dev": []
     },
     {
         "ElementName": "RotationLine",
@@ -8796,20 +9379,22 @@ Skema_List = [
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": ["RotationAxis","RotationalAxis"],
+        "Dev": []
     },
     {
         "ElementName": "SpiralLine",
         "Namespace": "Via/ViaTeori/ViaElements/ViaPropositions/ViaTeorem/LineTeorem/SpiralLine",
         "SuperElementName": "LineTeorem",
-        "SubElementName": [],
+        "SubElementName": ["3SpiralLine","10SpiralLine","30SpiralLine"],
         "ConcurrentElementName": [],
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": [],
+        "Dev": []
     },
     {
         "ElementName": "StraightLine",
@@ -8822,11 +9407,12 @@ Skema_List = [
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": [],
+        "Dev": []
     },
     {
-        "ElementName": "AmbleInLine",
-        "Namespace": "Via/ViaTeori/ViaElements/ViaPropositions/ViaTeorem/LineTeorem/AmbleInLine",
+        "ElementName": "WalkInLine",
+        "Namespace": "Via/ViaTeori/ViaElements/ViaPropositions/ViaTeorem/LineTeorem/WalkInLine",
         "SuperElementName": "LineTeorem",
         "SubElementName": [],
         "ConcurrentElementName": [],
@@ -8835,11 +9421,12 @@ Skema_List = [
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": [],
+        "Dev": []
     },
     {
-        "ElementName": "AmbleoutLine",
-        "Namespace": "Via/ViaTeori/ViaElements/ViaPropositions/ViaTeorem/LineTeorem/AmbleoutLine",
+        "ElementName": "WalkOutLine",
+        "Namespace": "Via/ViaTeori/ViaElements/ViaPropositions/ViaTeorem/LineTeorem/WalkOutLine",
         "SuperElementName": "LineTeorem",
         "SubElementName": [],
         "ConcurrentElementName": [],
@@ -8848,7 +9435,8 @@ Skema_List = [
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": [],
+        "Dev": []
     },
     {
         "ElementName": "ZigzagLine",
@@ -8861,7 +9449,8 @@ Skema_List = [
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": [],
+        "Dev": []
     },
     {
         "ElementName": "BorderMarka",
@@ -8874,7 +9463,8 @@ Skema_List = [
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": ["PieceBoundary","BlockBoundary","FlagBoundary","a flag line around the zone"],
+        "Dev": []
     },
     {
         "ElementName": "HighMarka",
@@ -8885,9 +9475,10 @@ Skema_List = [
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
-        "PsikeElementName": [],
+        "PsikeElementName": ["LongDistanceSight"],
         "Description": "",
-        "Alias": []
+        "Alias": [],
+        "Dev": []
     },
     {
         "ElementName": "LineInMarka",
@@ -8900,7 +9491,8 @@ Skema_List = [
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": [],
+        "Dev": []
     },
     {
         "ElementName": "NaturalMarka",
@@ -8913,7 +9505,8 @@ Skema_List = [
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": [],
+        "Dev": []
     },
     {
         "ElementName": "SiteMarka",
@@ -8928,7 +9521,8 @@ Skema_List = [
         "Description": "",
         "Alias": [
             "TreeMarka"
-        ]
+        ],
+        "Dev": []
     },
     {
         "ElementName": "TrenchExitMarka",
@@ -8943,7 +9537,8 @@ Skema_List = [
         "Description": "",
         "Alias": [
             "TrenchExitFlag"
-        ]
+        ],
+        "Dev": []
     },
     {
         "ElementName": "WastedMarka",
@@ -8960,7 +9555,8 @@ Skema_List = [
         "Description": "",
         "Alias": [
             "WastedFlag"
-        ]
+        ],
+        "Dev": []
     },
     {
         "ElementName": "ZoneMarka",
@@ -8975,7 +9571,8 @@ Skema_List = [
         "Description": "",
         "Alias": [
             "AreaFlagging"
-        ]
+        ],
+        "Dev": []
     },
     {
         "ElementName": "ViaTeorem",
@@ -8991,7 +9588,8 @@ Skema_List = [
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": [],
+        "Dev": []
     },
     {
         "ElementName": "FillBlock",
@@ -9004,7 +9602,8 @@ Skema_List = [
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": [],
+        "Dev": []
     },
     {
         "ElementName": "Block",
@@ -9019,7 +9618,8 @@ Skema_List = [
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": [],
+        "Dev": []
     },
     {
         "ElementName": "Border",
@@ -9032,7 +9632,8 @@ Skema_List = [
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": [],
+        "Dev": []
     },
     {
         "ElementName": "Div",
@@ -9045,7 +9646,8 @@ Skema_List = [
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": [],
+        "Dev": []
     },
     {
         "ElementName": "Obstacle",
@@ -9058,7 +9660,8 @@ Skema_List = [
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": [],
+        "Dev": []
     },
     {
         "ElementName": "ZoneTeorem",
@@ -9079,7 +9682,8 @@ Skema_List = [
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": [],
+        "Dev": []
     },
     {
         "ElementName": "Piece",
@@ -9092,7 +9696,8 @@ Skema_List = [
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": [],
+        "Dev": []
     },
     {
         "ElementName": "Site",
@@ -9108,85 +9713,110 @@ Skema_List = [
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": [],
+        "Dev": []
     },
     {
         "ElementName": "4Density",
         "Namespace": "Via/ViaTeori/ViaElements/ViaPropositions/ViaTeorem/ZoneTeorem/Site/SiteDensity/4Density",
         "SuperElementName": "SiteDensity",
-        "SubElementName": [],
+        "SubElementName": [
+            "9RegularDensity",
+            "9IrregularDensity"
+        ],
         "ConcurrentElementName": [],
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": [],
+        "Dev": []
     },
     {
         "ElementName": "5Density",
         "Namespace": "Via/ViaTeori/ViaElements/ViaPropositions/ViaTeorem/ZoneTeorem/Site/SiteDensity/5Density",
         "SuperElementName": "SiteDensity",
-        "SubElementName": [],
+        "SubElementName": [
+            "5RegularDensity",
+            "5IrregularDensity"
+        ],
         "ConcurrentElementName": [],
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": [],
+        "Dev": []
     },
     {
         "ElementName": "6Density",
         "Namespace": "Via/ViaTeori/ViaElements/ViaPropositions/ViaTeorem/ZoneTeorem/Site/SiteDensity/6Density",
         "SuperElementName": "SiteDensity",
-        "SubElementName": [],
+        "SubElementName": [
+            "6RegularDensity",
+            "6IrregularDensity"
+        ],
         "ConcurrentElementName": [],
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": [],
+        "Dev": []
     },
     {
         "ElementName": "7Density",
         "Namespace": "Via/ViaTeori/ViaElements/ViaPropositions/ViaTeorem/ZoneTeorem/Site/SiteDensity/7Density",
         "SuperElementName": "SiteDensity",
-        "SubElementName": [],
+        "SubElementName": [
+            "7RegularDensity",
+            "7IrregularDensity"
+        ],
         "ConcurrentElementName": [],
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": [],
+        "Dev": []
     },
     {
         "ElementName": "8Density",
         "Namespace": "Via/ViaTeori/ViaElements/ViaPropositions/ViaTeorem/ZoneTeorem/Site/SiteDensity/8Density",
         "SuperElementName": "SiteDensity",
-        "SubElementName": [],
+        "SubElementName": [
+            "8RegularDensity",
+            "8IrregularDensity"
+        ],
         "ConcurrentElementName": [],
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": [],
+        "Dev": []
     },
     {
         "ElementName": "9Density",
         "Namespace": "Via/ViaTeori/ViaElements/ViaPropositions/ViaTeorem/ZoneTeorem/Site/SiteDensity/9Density",
         "SuperElementName": "SiteDensity",
-        "SubElementName": [],
+        "SubElementName": [
+            "9RegularDensity",
+            "9IrregularDensity"
+        ],
         "ConcurrentElementName": [],
         "EkoElementName": [],
         "ViaElementName": [],
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": [],
+        "Dev": []
     },
     {
         "ElementName": "SiteDensity",
@@ -9206,7 +9836,8 @@ Skema_List = [
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": [],
+        "Dev": []
     },
     {
         "ElementName": "MaximumProximity",
@@ -9219,7 +9850,8 @@ Skema_List = [
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": [],
+        "Dev": []
     },
     {
         "ElementName": "MinimumProximity",
@@ -9232,7 +9864,8 @@ Skema_List = [
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": [],
+        "Dev": []
     },
     {
         "ElementName": "OptimalProximity",
@@ -9245,14 +9878,19 @@ Skema_List = [
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": [
+            "ContractSpacing"
+        ],
+        "Dev": []
     },
     {
         "ElementName": "SiteProximity",
         "Namespace": "Via/ViaTeori/ViaElements/ViaPropositions/ViaTeorem/ZoneTeorem/Site/SiteProximity",
         "SuperElementName": "Site",
         "SubElementName": [
-            "MaximumProximity",
+            {
+                "MaximumProximity": []
+            },
             "MinimumProximity",
             "OptimalProximity"
         ],
@@ -9262,7 +9900,13 @@ Skema_List = [
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": [
+            "Spacing",
+            "InterTreeSpacing",
+            "TreeSpacing",
+            "DendroSpacing"
+        ],
+        "Dev": []
     },
     {
         "ElementName": "CompletionLimit",
@@ -9275,7 +9919,8 @@ Skema_List = [
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": [],
+        "Dev": []
     },
     {
         "ElementName": "ZoneGeometry",
@@ -9288,9 +9933,11 @@ Skema_List = [
         "MoveElementName": [],
         "PsikeElementName": [],
         "Description": "",
-        "Alias": []
+        "Alias": [],
+        "Dev": []
     }
 ]
+
 # def AddDescription():
 #     for item in Skema_List:
 #         item.update({"Description": ""})
@@ -9303,11 +9950,11 @@ Skema_List = [
 def AddAttribute(attributeName):
 
     for item in Skema_List:
-        item.update({f"{attributeName}": []})
+        item.update({f"{attributeName}": ""})
 
 # Add a timestamp 
 
     with open("AddElement_Output.json", "w") as outfile: 
         json.dump(Skema_List, outfile)
 
-AddAttribute("Dev")
+AddAttribute("ElementType")

@@ -1,6 +1,6 @@
-# 😣<erg>Ergon</erg>
+# 💰<erg>Ergon</erg>
 
-Aliases: Work, Job, Effort
+Aliases: Work, Job
 
 > an activity, such as a job, that a person uses physical or mental effort to do, usually for money
 
@@ -16,19 +16,6 @@ Aliases: Work, Job, Effort
 ::: details 🛠 <dev>&&&</dev>
 
 - Ergon is not an Element Attribute
-
-- Effort
-    - Exertion
-    - Grit
-    - Endurance (Psike+Move)
-    - Stamina (Psike+Move)
-    - Persistance
-    - Perserverance
-    - Production
-        - "We've had high production this shift"
-    - Push
-        - "Push to close"
-
 - (Ergon != Atlon)
     - You can think about making money without winning
     - The "losers" of planting make money

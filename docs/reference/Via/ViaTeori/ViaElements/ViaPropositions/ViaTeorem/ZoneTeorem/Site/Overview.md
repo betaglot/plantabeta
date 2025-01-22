@@ -1,9 +1,5 @@
 # 🔻<via>Site</via>
 
-## Macrosite
-
-## Microsite
-
 ## 🕸 Site.Skema
 
 ### Related 🟩<eko>Eko</eko>
@@ -31,6 +27,9 @@
 <!-- =================================================== -->
 ::: details 🛠 <dev>&&&</dev>
 
+- Macrosite
+- Microsite
+
 - Obstacle for Cows
 
     - An object which cows avoid stepping near.
@@ -42,7 +41,7 @@
     - To create an Eddie
     - Barrier
     - Shield
-    - <eko>BlockerHold</eko> like in Climbing
+    - <eko>BlockerHold</eko> like in Klimbeta
 
 - ObstaclePlanting
 
