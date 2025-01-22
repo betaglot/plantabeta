@@ -1,24 +1,8 @@
-# 🟠 <move>BaseAdduction</move>
+# 🟩<eko>EkoAlias</eko>
 
-![MoveIkon](/Move/Move_Ikon.png)
+> other names used to refer to this Element. In english or other languages.
 
-## 🕸 BaseAdduction.Skema
-
-### Related 🟩<eko>Eko</eko>
-
--
-
-### Related 🔻<via>Via</via>
-
--
-
-### Related 🟠<move>Move</move>
-
--
-
-### Related 💜<psike>Psike</psike>
-
--
+## 🔷<beta>BetaAnalogy</beta>
 
 ---
 

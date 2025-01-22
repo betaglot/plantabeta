@@ -1,24 +1,16 @@
-# 🟠 <move>BaseAdduction</move>
+# 🟠<move>MoveKratos</move>
 
-![MoveIkon](/Move/Move_Ikon.png)
+> the power of this Element
+>
+## 🔷<beta>BetaAnalogy</beta>
 
-## 🕸 BaseAdduction.Skema
+## Kratos = (Geometry + Via)
 
-### Related 🟩<eko>Eko</eko>
+Distance in what direction and how fast. Via has time, since movements are experienced by way of time.
 
--
+## StaticMove or DynamicMove
 
-### Related 🔻<via>Via</via>
-
--
-
-### Related 🟠<move>Move</move>
-
--
-
-### Related 💜<psike>Psike</psike>
-
--
+"ConstantMove" is more accurate than "StaticMove"
 
 ---
 

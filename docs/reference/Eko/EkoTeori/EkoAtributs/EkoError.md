@@ -1,24 +1,14 @@
-# 🟠 <move>BaseAdduction</move>
+# 🟩<eko>EkoError</eko>
 
-![MoveIkon](/Move/Move_Ikon.png)
+> any errors that can occur during the practice of this Element
 
-## 🕸 BaseAdduction.Skema
+## 🔷<beta>BetaAnalogy</beta>
 
-### Related 🟩<eko>Eko</eko>
+Error in performance
 
--
+Error in BetaPlan
 
-### Related 🔻<via>Via</via>
-
--
-
-### Related 🟠<move>Move</move>
-
--
-
-### Related 💜<psike>Psike</psike>
-
--
+- Using the wrong alternative
 
 ---
 

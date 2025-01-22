@@ -1,24 +1,14 @@
-# 🟠 <move>BaseAdduction</move>
+# 🟠<move>MoveAnalogia</move>
 
-![MoveIkon](/Move/Move_Ikon.png)
+> analogous Elements in other BetaSports
 
-## 🕸 BaseAdduction.Skema
+## Exact Analogy
 
-### Related 🟩<eko>Eko</eko>
+## Strong Analogy
 
--
+## Weak Analogy
 
-### Related 🔻<via>Via</via>
-
--
-
-### Related 🟠<move>Move</move>
-
--
-
-### Related 💜<psike>Psike</psike>
-
--
+### 🔷<beta>BetaAnalogy</beta>
 
 ---
 

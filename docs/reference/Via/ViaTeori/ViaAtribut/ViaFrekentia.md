@@ -1,24 +1,16 @@
-# 🟠 <move>BaseAdduction</move>
+# 🔻<via>ViaFrekentia</via>
 
-![MoveIkon](/Move/Move_Ikon.png)
+> the statistics of this Element
 
-## 🕸 BaseAdduction.Skema
+Statistics
 
-### Related 🟩<eko>Eko</eko>
+Frequency
 
--
+Rare
 
-### Related 🔻<via>Via</via>
+Common
 
--
-
-### Related 🟠<move>Move</move>
-
--
-
-### Related 💜<psike>Psike</psike>
-
--
+Often
 
 ---
 

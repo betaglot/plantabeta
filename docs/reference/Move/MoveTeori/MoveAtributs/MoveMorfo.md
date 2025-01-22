@@ -1,24 +1,16 @@
-# 🟠 <move>BaseAdduction</move>
+# 🟠<move>MoveMorfo</move>
 
-![MoveIkon](/Move/Move_Ikon.png)
+## 🔷<beta>BetaAnalogy</beta>
 
-## 🕸 BaseAdduction.Skema
+## BetaTypes
 
-### Related 🟩<eko>Eko</eko>
+🔻<via>VIA</via>, 🟩<eko>EKO</eko>, 🟠<move>MOVE</move>
 
--
+## Relative Geometry
 
-### Related 🔻<via>Via</via>
+A Move that's big for a small athlete, isn't big for a large athlete.
 
--
-
-### Related 🟠<move>Move</move>
-
--
-
-### Related 💜<psike>Psike</psike>
-
--
+Jumping a third of your height
 
 ---
 

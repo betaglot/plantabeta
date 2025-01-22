@@ -1,24 +1,8 @@
-# 🟠 <move>BaseAdduction</move>
+# 🟩<eko>EkoKrux</eko>
 
-![MoveIkon](/Move/Move_Ikon.png)
+> the most difficult attribute of this Element
 
-## 🕸 BaseAdduction.Skema
-
-### Related 🟩<eko>Eko</eko>
-
--
-
-### Related 🔻<via>Via</via>
-
--
-
-### Related 🟠<move>Move</move>
-
--
-
-### Related 💜<psike>Psike</psike>
-
--
+## 🔷<beta>BetaAnalogy</beta>
 
 ---
 

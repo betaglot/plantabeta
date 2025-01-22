@@ -1,3 +1,0 @@
-# 🟩<eko>Picea</eko>
-
-Spruce
