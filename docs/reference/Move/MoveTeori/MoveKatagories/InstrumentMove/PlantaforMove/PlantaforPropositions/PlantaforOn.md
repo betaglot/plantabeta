@@ -29,6 +29,7 @@
 <!-- =================================================== -->
 ::: details 🛠 <dev>&&&</dev>
 
+- TeamBeta can be used for PlantaforOn
 - StandingPlantaforOn
 - SittingPlantaforOn
     - BodyRockUp
