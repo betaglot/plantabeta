@@ -67,9 +67,19 @@ Not a place where many duplicates items are stored
 Stick them together with honey like cheap bookbinding
 Wax to waterproof
 
+## 🟠<move>DendroforDev</move>
+
+Hold the thing that holds the dendron
+
+Clamp under wrist to allow
+
+Attaches to the underside of Radior
+
 ## 🟠<move>KiklosDev</move>
 
 Kiklos: wheel
+
+Aliases: Cart, Wagon, Trolley, Dolly, WheelBarrow
 
 ### InstrumentRequirements()
 

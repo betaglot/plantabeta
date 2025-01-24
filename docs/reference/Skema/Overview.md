@@ -9,7 +9,7 @@
 - To ensure that if one element relates to another, then they both have the relationship
     - If 🟠BrazoOnda has the SuperMove 🟠Amble, then 🟠Amble must have the SubMove 🟠BrazoOnda
 
-### EkologicalLearning
+### EkologikalLearning
 
 - Wander through PlantaBeta by using the SkemaMarkdown
 - Identical to the Wikipedia "See Also" section near the bottom of the wiki page
