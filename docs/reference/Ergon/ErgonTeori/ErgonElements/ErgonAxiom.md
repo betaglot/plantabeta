@@ -2,6 +2,8 @@
 
 > Time is Money
 
+> Easier Beta is ultimately faster, although not necessarily proximally faster.
+
 ---
 
 <!-- =================================================== -->

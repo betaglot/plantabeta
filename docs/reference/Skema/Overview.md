@@ -9,6 +9,39 @@
 - To ensure that if one element relates to another, then they both have the relationship
     - If 🟠BrazoOnda has the SuperMove 🟠Amble, then 🟠Amble must have the SubMove 🟠BrazoOnda
 
+### To describe all the Elements which influence the InstanceAttributes of each Element
+
+Unlike other BetaSports, Plantors always choose the easiest Beta, so there's no point in creating a CodeOfPoints.
+
+- How to maximize the Ease of every Element
+
+- In a given situation, which combination of Elements is produce the greatest Ease
+
+### To discover NeoBetaElements (Everything is Connected)
+
+Combine all **Definitions** of BetaTipos to create new propositions. Why? To make as many connections as possible between elements, so when you understand an element you also have some understanding of other elements which share element parents. To gain a deeper understanding of the definitions.
+
+🟩 Flora + 🔻 Density = 🟩 FloraDensity
+🟩 Prep + 🔻 Density = 🟩 PrepDensity
+🟠 Move + 🔻 Density = 🟠 MoveDensity
+
+🟩 Flora + 🔻 Line = 🟩 FloraLine (like between Trenches)
+🟩 Prep + 🔻 Line = 🟩 PrepLine (Trench or Line of Mounds)
+🟠 Move + 🔻 Line = 🟠 MoveLine (line of best fit)
+
+Some scopes don't make sense.
+
+#### 🛠<dev>Analysis Paralysis</dev>
+
+Nobody gives a shit about the classification of PlantorExperience, they only care about the practical use.
+
+Analysis paralysis, also known as decision paralysis or choice paralysis, is when someone overthinks a problem to the point of being unable to make a decision. It can happen when someone is faced with too many choices, too much information, or is anxious about making a mistake.
+Causes
+
+- Anxiety: Psychologists say that anxiety is the root cause of analysis paralysis.
+- Too many options: The more options someone has, the harder it can be to choose one.
+- Perfectionism: Someone may want a perfect solution but fear making a mistake.
+
 ### EkologikalLearning
 
 - Wander through PlantaBeta by using the SkemaMarkdown

@@ -9,6 +9,6 @@
 <!-- =================================================== -->
 ::: details 🛠 <dev>&&&</dev>
 
--
+- A Plantor isn't a plantor without all of their instruments
 
 :::

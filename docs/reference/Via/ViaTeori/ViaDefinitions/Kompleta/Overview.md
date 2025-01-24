@@ -1,4 +1,4 @@
-# 🟠 <move>MoveDefinitions</move>
+# 🔻<via>Kompleta</via>
 
 ---
 
@@ -9,6 +9,6 @@
 <!-- =================================================== -->
 ::: details 🛠 <dev>&&&</dev>
 
--
+- Kompleta has Sites, Viums do not
 
 :::

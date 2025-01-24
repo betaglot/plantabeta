@@ -1,4 +1,4 @@
-# 🟠 <move>MoveDefinitions</move>
+# 🔻<via>KompletaTeorem</via>
 
 ---
 
@@ -9,6 +9,7 @@
 <!-- =================================================== -->
 ::: details 🛠 <dev>&&&</dev>
 
--
+- KompletaZone
+- KompletaLine
 
 :::
