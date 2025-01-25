@@ -1,8 +1,8 @@
-# 🔻<via>Vium</via>
+# 🟠 <move>BagDeadlift</move>
 
-> Vium is the unit of Via. It is spacetime
+![MoveIkon](/Move/Move_Ikon.png)
 
-## 🕸 Vium.Skema
+## 🕸 BagDeadlift.Skema
 
 ### Related 🟩<eko>Eko</eko>
 
@@ -29,5 +29,11 @@
 <!-- =================================================== -->
 ::: details 🛠 <dev>&&&</dev>
 
+- PanBeta(HalteroBeta) Deadlift
+    - TruckLoad
+    - Deadlift over a large log
 
+<h2>PageTags</h2>
+
+- "Move.InstrumentMove.BagMove.BagDeadlift"
 :::

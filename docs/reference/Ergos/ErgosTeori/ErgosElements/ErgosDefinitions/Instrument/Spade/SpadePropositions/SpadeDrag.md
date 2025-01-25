@@ -1,8 +1,6 @@
-# 🔻<via>Vium</via>
+# 🟠<move>SpadeDrag</move>
 
-> Vium is the unit of Via. It is spacetime
-
-## 🕸 Vium.Skema
+## 🕸 SpadeDrag.Skema
 
 ### Related 🟩<eko>Eko</eko>
 
@@ -29,5 +27,7 @@
 <!-- =================================================== -->
 ::: details 🛠 <dev>&&&</dev>
 
+- Drag your Spade when walking downhill
+- Most plantor's Spades are too short to drag on flat ground with good shoulder posture
 
 :::

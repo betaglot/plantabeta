@@ -1,8 +1,8 @@
-# 🔻<via>Vium</via>
+# 🟠<move>BottleMove</move>
 
-> Vium is the unit of Via. It is spacetime
+Aliases: water bottle
 
-## 🕸 Vium.Skema
+## 🕸 BottleMove.Skema
 
 ### Related 🟩<eko>Eko</eko>
 
@@ -29,5 +29,9 @@
 <!-- =================================================== -->
 ::: details 🛠 <dev>&&&</dev>
 
+- Water
+- Coffee
+- Mixture
+    - Electrolyte
 
 :::

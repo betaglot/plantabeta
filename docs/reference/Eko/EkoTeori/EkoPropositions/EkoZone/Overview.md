@@ -1,24 +1,4 @@
-# 🔻<via>Vium</via>
-
-> Vium is the unit of Via. It is spacetime
-
-## 🕸 Vium.Skema
-
-### Related 🟩<eko>Eko</eko>
-
--
-
-### Related 🔻<via>Via</via>
-
--
-
-### Related 🟠<move>Move</move>
-
--
-
-### Related 💜<psike>Psike</psike>
-
--
+# 🟩<eko>EkoZone</eko>
 
 ---
 
@@ -29,5 +9,10 @@
 <!-- =================================================== -->
 ::: details 🛠 <dev>&&&</dev>
 
+- EkoZones are not planted
+    - Remember that all Zones are an AbstractIdea
+
+- ResidualPatch
+- The residual
 
 :::

@@ -1,8 +1,25 @@
-# 🔻<via>Vium</via>
+# 🟠<move>SpadeAmble</move>
 
-> Vium is the unit of Via. It is spacetime
+## Attributes
 
-## 🕸 Vium.Skema
+## Methods
+
+### ModifyLength()
+
+```py
+
+def ModifyLength():
+    if Eko == TooClose():
+        Length++
+    elif
+
+    else 
+        pass
+
+
+```
+
+## 🕸 SpadeAmble.Skema
 
 ### Related 🟩<eko>Eko</eko>
 
@@ -29,5 +46,6 @@
 <!-- =================================================== -->
 ::: details 🛠 <dev>&&&</dev>
 
+- 🟠<move>Walk</move> uses the same
 
 :::

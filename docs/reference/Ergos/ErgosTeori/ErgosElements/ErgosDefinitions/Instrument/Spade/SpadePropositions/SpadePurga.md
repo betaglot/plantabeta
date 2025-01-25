@@ -1,8 +1,8 @@
-# 🔻<via>Vium</via>
+# 🟠<move>SpadePurga</move>
 
-> Vium is the unit of Via. It is spacetime
+Aliases: Spade Clean, Spade Purge
 
-## 🕸 Vium.Skema
+## 🕸 SpadePurga.Skema
 
 ### Related 🟩<eko>Eko</eko>
 
@@ -29,5 +29,11 @@
 <!-- =================================================== -->
 ::: details 🛠 <dev>&&&</dev>
 
+- Remove Soil which is stuck on the blade
+    - ClaySoil
+    - WetSoil
+- The Soil can make it more difficult to Propel your Blade deep enough into a site
+- The Soil makes your Spade Heavier
+- Propel it into an Ekon gently to allow inertia to fling off the Soil
 
 :::

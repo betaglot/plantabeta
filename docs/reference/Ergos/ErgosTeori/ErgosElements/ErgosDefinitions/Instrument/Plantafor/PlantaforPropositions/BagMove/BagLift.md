@@ -1,8 +1,8 @@
-# 🔻<via>Vium</via>
+# 🟠 <move>BagLift</move>
 
-> Vium is the unit of Via. It is spacetime
+![MoveIkon](/Move/Move_Ikon.png)
 
-## 🕸 Vium.Skema
+## 🕸 ArmBagLift.Skema
 
 ### Related 🟩<eko>Eko</eko>
 
@@ -29,5 +29,12 @@
 <!-- =================================================== -->
 ::: details 🛠 <dev>&&&</dev>
 
-
+- Lift Bags when BagSnag
+- Lift and Pull bags through a thicket
+- The Via is almost always 🔻<via>Over</via>
+- Over HighStump on DeclineWalk
+- Constriction
+- Lift over Obstacle
+- ArmBagLift
+- LegBagLift
 :::

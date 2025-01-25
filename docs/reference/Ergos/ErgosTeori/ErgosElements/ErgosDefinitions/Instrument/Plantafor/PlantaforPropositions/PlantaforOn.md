@@ -1,8 +1,8 @@
-# 🔻<via>Vium</via>
+# 🟠 <move>PlantaforOn</move>
 
-> Vium is the unit of Via. It is spacetime
+![MoveIkon](/Move/Move_Ikon.png)
 
-## 🕸 Vium.Skema
+## 🕸 PlantaforOn.Skema
 
 ### Related 🟩<eko>Eko</eko>
 
@@ -29,5 +29,11 @@
 <!-- =================================================== -->
 ::: details 🛠 <dev>&&&</dev>
 
-
+- TeamBeta can be used for PlantaforOn
+- StandingPlantaforOn
+- SittingPlantaforOn
+    - BodyRockUp
+- BuckleMano
+    - You can lift the Plantafor on using BuckleMano if the bags are lightweight
+- ShoulderThread without touching Straps with dirty hands
 :::

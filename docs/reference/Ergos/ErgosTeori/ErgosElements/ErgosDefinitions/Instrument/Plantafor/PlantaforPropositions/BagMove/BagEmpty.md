@@ -1,8 +1,8 @@
-# 🔻<via>Vium</via>
+# 🟠 <move>BagEmpty</move>
 
-> Vium is the unit of Via. It is spacetime
+![MoveIkon](/Move/Move_Ikon.png)
 
-## 🕸 Vium.Skema
+## 🕸 BagEmpty.Skema
 
 ### Related 🟩<eko>Eko</eko>
 
@@ -29,5 +29,12 @@
 <!-- =================================================== -->
 ::: details 🛠 <dev>&&&</dev>
 
+- ExcessSoil
+- InvertBag
+- BagMano
+
+<h2>PageTags</h2>
+
+- "Move.InstrumentMove.BagMove.BagEmpty"
 
 :::

@@ -1,8 +1,8 @@
-# 🔻<via>Vium</via>
+# 🟠<move>SpadeTransport</move>
 
-> Vium is the unit of Via. It is spacetime
+> Carrying a Spade when you're not using it to plant
 
-## 🕸 Vium.Skema
+## 🕸 SpadeTransport.Skema
 
 ### Related 🟩<eko>Eko</eko>
 
@@ -29,5 +29,7 @@
 <!-- =================================================== -->
 ::: details 🛠 <dev>&&&</dev>
 
-
+- SpadeCollarMano
+- SpadePlastMano
+    - Use in Terrain where you may need to SpadeAma
 :::

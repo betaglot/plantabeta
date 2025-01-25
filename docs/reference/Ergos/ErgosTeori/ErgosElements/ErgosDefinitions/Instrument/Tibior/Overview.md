@@ -1,8 +1,12 @@
-# 🔻<via>Vium</via>
+# 🟠 <move>TibiorMove</move>
 
-> Vium is the unit of Via. It is spacetime
+Aliases: Gaiter, Shin Pad
 
-## 🕸 Vium.Skema
+## TibiorMove.Anatomy
+
+## TibiorMove.Attributes
+
+## 🕸 TibiorMove.Skema
 
 ### Related 🟩<eko>Eko</eko>
 
@@ -29,5 +33,6 @@
 <!-- =================================================== -->
 ::: details 🛠 <dev>&&&</dev>
 
+- RemoveMud to prevent mud from slowly releasing its water content onto your leg
 
 :::

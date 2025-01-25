@@ -1,8 +1,6 @@
-# 🔻<via>Vium</via>
+# 🟠<move>PlantaforTransport</move>
 
-> Vium is the unit of Via. It is spacetime
-
-## 🕸 Vium.Skema
+## 🕸 PlantaforTransport.Skema
 
 ### Related 🟩<eko>Eko</eko>
 
@@ -29,5 +27,10 @@
 <!-- =================================================== -->
 ::: details 🛠 <dev>&&&</dev>
 
+- Pack the Plantafor
+    - into Crummy
+    - onto Quad
+    - into truck bed
+    - into itself for after the season
 
 :::

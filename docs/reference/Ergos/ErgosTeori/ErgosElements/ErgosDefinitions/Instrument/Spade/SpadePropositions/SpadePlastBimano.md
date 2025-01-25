@@ -1,8 +1,10 @@
-# 🔻<via>Vium</via>
+# 🟠<move>PlastBimano</move>
 
-> Vium is the unit of Via. It is spacetime
+> Gripping the Spade Plast with both hands
 
-## 🕸 Vium.Skema
+Aliases: Handle Match
+
+## 🕸 PlastBimano.Skema
 
 ### Related 🟩<eko>Eko</eko>
 
@@ -29,5 +31,7 @@
 <!-- =================================================== -->
 ::: details 🛠 <dev>&&&</dev>
 
+- SpadeMuscleUp
+- SpadePogo
 
 :::

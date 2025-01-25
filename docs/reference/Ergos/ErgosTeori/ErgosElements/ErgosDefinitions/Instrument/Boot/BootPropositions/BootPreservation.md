@@ -1,8 +1,6 @@
-# 🔻<via>Vium</via>
+# 🟠<move>BootPreservation</move>
 
-> Vium is the unit of Via. It is spacetime
-
-## 🕸 Vium.Skema
+## 🕸 BootPreservation.Skema
 
 ### Related 🟩<eko>Eko</eko>
 
@@ -29,5 +27,9 @@
 <!-- =================================================== -->
 ::: details 🛠 <dev>&&&</dev>
 
-
+- BootWaterproofing
+- BootWax
+- Remove Dirt
+    - BootBrush
+- Glue Seams
 :::

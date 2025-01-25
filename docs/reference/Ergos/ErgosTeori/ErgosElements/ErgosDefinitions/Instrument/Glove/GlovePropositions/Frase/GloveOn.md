@@ -1,8 +1,6 @@
-# 🔻<via>Vium</via>
+# 🟠<move>GloveOn</move>
 
-> Vium is the unit of Via. It is spacetime
-
-## 🕸 Vium.Skema
+## 🕸 GloveOn.Skema
 
 ### Related 🟩<eko>Eko</eko>
 
@@ -29,5 +27,7 @@
 <!-- =================================================== -->
 ::: details 🛠 <dev>&&&</dev>
 
+- WetGloveOn
+    - Psike Discomfort
 
 :::

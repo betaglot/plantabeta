@@ -1,8 +1,6 @@
-# 🔻<via>Vium</via>
+# 🟠<move>DoruMove</move>
 
-> Vium is the unit of Via. It is spacetime
-
-## 🕸 Vium.Skema
+## 🕸 DoruMove.Skema
 
 ### Related 🟩<eko>Eko</eko>
 
@@ -29,5 +27,6 @@
 <!-- =================================================== -->
 ::: details 🛠 <dev>&&&</dev>
 
+- Distance height of microsite above foot equals distance from DoruNeck
 
 :::

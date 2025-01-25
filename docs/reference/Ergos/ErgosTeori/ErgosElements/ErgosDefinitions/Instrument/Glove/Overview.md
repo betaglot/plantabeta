@@ -1,8 +1,15 @@
-# 🔻<via>Vium</via>
+# 🟠 <move>GloveMove</move>
 
-> Vium is the unit of Via. It is spacetime
+## Glove.Anatomy
 
-## 🕸 Vium.Skema
+- Cuff
+- Dorsal
+- Palm
+- Rubber
+
+## Glove.Attributes
+
+## 🕸 GloveMove.Skema
 
 ### Related 🟩<eko>Eko</eko>
 
@@ -29,5 +36,11 @@
 <!-- =================================================== -->
 ::: details 🛠 <dev>&&&</dev>
 
+- CleanGloves to remove the grit that causes SkinErosion
+- FingerRevertMove
+    - GloveOff
+- GloveWipe
+    - To remove Mud
+        - When Swapping SpadeHands for AmbiPlantor
 
 :::

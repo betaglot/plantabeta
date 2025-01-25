@@ -1,8 +1,8 @@
-# 🔻<via>Vium</via>
+# 🟠 <move>BagAdjust</move>
 
-> Vium is the unit of Via. It is spacetime
+![MoveIkon](/Move/Move_Ikon.png)
 
-## 🕸 Vium.Skema
+## 🕸 BagAdjust.Skema
 
 ### Related 🟩<eko>Eko</eko>
 
@@ -29,5 +29,13 @@
 <!-- =================================================== -->
 ::: details 🛠 <dev>&&&</dev>
 
+- BagStrapAdjust
+- BagBeltAdjust
+    - TightenBelt
+        - After removing clothing layer
+    - LoosenBelt
+        - After adding a clothing layer
+- BagBuckleAdjust
+    - BuckleMove
 
 :::

@@ -1,8 +1,6 @@
-# 🔻<via>Vium</via>
+# 🟠<move>SpadeDendrektomi</move>
 
-> Vium is the unit of Via. It is spacetime
-
-## 🕸 Vium.Skema
+## 🕸 SpadeDendrektomi.Skema
 
 ### Related 🟩<eko>Eko</eko>
 
@@ -29,5 +27,7 @@
 <!-- =================================================== -->
 ::: details 🛠 <dev>&&&</dev>
 
+- Use a Spade to remove a Dendron which has already been planted
+    - To modify density
 
 :::

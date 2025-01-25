@@ -1,8 +1,6 @@
-# 🔻<via>Vium</via>
+# 🟠<move>BootMano</move>
 
-> Vium is the unit of Via. It is spacetime
-
-## 🕸 Vium.Skema
+## 🕸 BootMano.Skema
 
 ### Related 🟩<eko>Eko</eko>
 
@@ -29,5 +27,10 @@
 <!-- =================================================== -->
 ::: details 🛠 <dev>&&&</dev>
 
+- BootHeelMano
+- BootHeelToeMano
+    - BootOff
+    - BootOn
+- BootToeMano
 
 :::

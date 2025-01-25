@@ -1,8 +1,6 @@
-# 🔻<via>Vium</via>
+# 🟠<move>SpadeRotate</move>
 
-> Vium is the unit of Via. It is spacetime
-
-## 🕸 Vium.Skema
+## 🕸 SpadeRotate.Skema
 
 ### Related 🟩<eko>Eko</eko>
 
@@ -29,5 +27,9 @@
 <!-- =================================================== -->
 ::: details 🛠 <dev>&&&</dev>
 
+- ManoPronation
+- ManoSupination
+- ManoRadialDeviation
+- ManoUlnarDeviation
 
 :::

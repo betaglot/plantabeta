@@ -1,24 +1,4 @@
-# 🔻<via>Vium</via>
-
-> Vium is the unit of Via. It is spacetime
-
-## 🕸 Vium.Skema
-
-### Related 🟩<eko>Eko</eko>
-
--
-
-### Related 🔻<via>Via</via>
-
--
-
-### Related 🟠<move>Move</move>
-
--
-
-### Related 💜<psike>Psike</psike>
-
--
+# 💰<erg>Kompletion</erg>
 
 ---
 
@@ -29,5 +9,11 @@
 <!-- =================================================== -->
 ::: details 🛠 <dev>&&&</dev>
 
+- Fulfill
+- State of Completion
+- You can Finish without Completing
+    - You left a hole in your piece
+- Sick Dyno, but you didn't reach the hold
+    - You finished the Dyno, but you didn't complete the task of getting to the hold.
 
 :::

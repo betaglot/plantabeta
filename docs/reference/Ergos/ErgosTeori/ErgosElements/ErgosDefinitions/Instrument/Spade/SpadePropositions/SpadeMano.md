@@ -1,8 +1,8 @@
-# 🔻<via>Vium</via>
+# 🟠 <move>SpadeMano</move>
 
-> Vium is the unit of Via. It is spacetime
+![MoveIkon](/Move/Move_Ikon.png)
 
-## 🕸 Vium.Skema
+## 🕸 SpadeMano.Skema
 
 ### Related 🟩<eko>Eko</eko>
 
@@ -29,5 +29,14 @@
 <!-- =================================================== -->
 ::: details 🛠 <dev>&&&</dev>
 
+- SpadeCollarMano
+    - SpadeCollarMano(2Finger)
+    - SpadeCollarMano(3Finger)
+        - SpadeSkreef
+        - SpadeBlock
+    - SpadeTransport
+    - SpadeCollarSlide
+    - SpadeCollarSlip
+- SpadeHandleMano
 
 :::

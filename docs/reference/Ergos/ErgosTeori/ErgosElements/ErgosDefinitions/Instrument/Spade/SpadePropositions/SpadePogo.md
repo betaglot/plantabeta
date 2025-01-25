@@ -1,8 +1,8 @@
-# 🔻<via>Vium</via>
+# 🟠 <move>SpadePogo</move>
 
-> Vium is the unit of Via. It is spacetime
+![MoveIkon](/Move/Move_Ikon.png)
 
-## 🕸 Vium.Skema
+## 🕸 SpadePogo.Skema
 
 ### Related 🟩<eko>Eko</eko>
 
@@ -29,5 +29,11 @@
 <!-- =================================================== -->
 ::: details 🛠 <dev>&&&</dev>
 
+- SpadePogo often Finishes with a Rocking motion to deepen the blade. In the same plane as blade
+    - HardSoil
+        - CompressedSoil like in a Road
 
+<h2>PageTags</h2>
+
+- "Move.InstrumentMove.SpadeMove.SpadePogo"
 :::

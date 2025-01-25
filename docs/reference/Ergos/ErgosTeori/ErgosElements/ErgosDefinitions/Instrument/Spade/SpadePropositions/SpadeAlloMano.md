@@ -1,8 +1,8 @@
-# 🔻<via>Vium</via>
+# 🟠<move>SpadeAlloMano</move>
 
-> Vium is the unit of Via. It is spacetime
+Aliases: Hand Swap, Hand Switch
 
-## 🕸 Vium.Skema
+## 🕸 SpadeAlloMano.Skema
 
 ### Related 🟩<eko>Eko</eko>
 
@@ -29,5 +29,6 @@
 <!-- =================================================== -->
 ::: details 🛠 <dev>&&&</dev>
 
+-
 
 :::

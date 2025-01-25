@@ -1,8 +1,8 @@
-# 🔻<via>Vium</via>
+# 🟠 <move>TibiorOnFrase</move>
 
-> Vium is the unit of Via. It is spacetime
+![MoveIkon](/Move/Move_Ikon.png)
 
-## 🕸 Vium.Skema
+## 🕸 TibiorOnFrase.Skema
 
 ### Related 🟩<eko>Eko</eko>
 
@@ -29,5 +29,9 @@
 <!-- =================================================== -->
 ::: details 🛠 <dev>&&&</dev>
 
+-
 
+<h2>PageTags</h2>
+
+- "Move.InstrumentMove.TibiorMove.TibiorOn"
 :::

@@ -1,8 +1,6 @@
-# 🔻<via>Vium</via>
+# 🟠<move>DoruOnda</move>
 
-> Vium is the unit of Via. It is spacetime
-
-## 🕸 Vium.Skema
+## 🕸 DoruOnda.Skema
 
 ### Related 🟩<eko>Eko</eko>
 
@@ -29,5 +27,6 @@
 <!-- =================================================== -->
 ::: details 🛠 <dev>&&&</dev>
 
+-
 
 :::

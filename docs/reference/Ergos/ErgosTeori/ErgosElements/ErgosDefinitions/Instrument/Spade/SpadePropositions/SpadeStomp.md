@@ -1,8 +1,6 @@
-# 🔻<via>Vium</via>
+# 🟠<move>SpadeStomp</move>
 
-> Vium is the unit of Via. It is spacetime
-
-## 🕸 Vium.Skema
+## 🕸 SpadeStomp.Skema
 
 ### Related 🟩<eko>Eko</eko>
 
@@ -29,5 +27,9 @@
 <!-- =================================================== -->
 ::: details 🛠 <dev>&&&</dev>
 
+- FootArchSmear(SpadeTab)
+- SpadePogo
+- HardSoil
+- SpadeDilate
 
 :::

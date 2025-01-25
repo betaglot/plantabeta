@@ -1,8 +1,14 @@
-# 🔻<via>Vium</via>
+# 🟠 <move>PlantaforMove</move>
 
-> Vium is the unit of Via. It is spacetime
+Aliases: Planting Bags
 
-## 🕸 Vium.Skema
+Roll up your back bag layer to shell from water and dirt
+
+## PlantaforAnatomy
+
+## PlantaforAttributes
+
+## 🕸 PlantaforMove.Skema
 
 ### Related 🟩<eko>Eko</eko>
 
@@ -29,5 +35,8 @@
 <!-- =================================================== -->
 ::: details 🛠 <dev>&&&</dev>
 
+- FertPouch
+- BagMove.Error
+    - BagSpill
 
 :::

@@ -1,8 +1,8 @@
-# 🔻<via>Vium</via>
+# 🟠 <move>GloveMano</move>
 
-> Vium is the unit of Via. It is spacetime
+![MoveIkon](/Move/Move_Ikon.png)
 
-## 🕸 Vium.Skema
+## 🕸 GloveMano.Skema
 
 ### Related 🟩<eko>Eko</eko>
 
@@ -29,5 +29,14 @@
 <!-- =================================================== -->
 ::: details 🛠 <dev>&&&</dev>
 
+- GloveRevert
+    - Glove can turn inside out when it's being removed
+    - How to revert your glove without getting dirt on the inside?
+    - FingerRevert
+    - GloveRevert
+- FingertipMano
+    - GloveOff
+- CuffMano
+    - Minimize Kontakt to prevent grit from getting into glove
 
 :::

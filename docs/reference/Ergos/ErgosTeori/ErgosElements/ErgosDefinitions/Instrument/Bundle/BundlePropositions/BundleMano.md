@@ -1,8 +1,6 @@
-# 🔻<via>Vium</via>
+# 🟠 <move>BundleMano</move>
 
-> Vium is the unit of Via. It is spacetime
-
-## 🕸 Vium.Skema
+## 🕸 BundleMano.Skema
 
 ### Related 🟩<eko>Eko</eko>
 
@@ -29,5 +27,6 @@
 <!-- =================================================== -->
 ::: details 🛠 <dev>&&&</dev>
 
+- Mano the Wrapper to avoid pulling out a Dendron
 
 :::
