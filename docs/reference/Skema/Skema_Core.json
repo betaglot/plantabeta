@@ -3,21 +3,25 @@
         "ElementName": "TeamBeta",
         "Namespace": "Beta/TeamBeta",
         "SuperDirectory": "Beta",
-        "SuperElementName": [],
-        "SubElementName": [],
+        "SuperElementName": ["Test_SuperElementName"],
+        "SubElementName": ["Test_SubElementName"],
         "ConcurrentElementName": [],
         "RelatedEkon": [
+            "Test_RelatedEkon",
             "ZoneSize",
             "UnstableSlope"
         ],
         "RelatedVium": [
+            "Test_RelatedVium",
             "TeamVia"
         ],
         "RelatedMove": [
+            "Test_RelatedMove",
             "RockSkreef",
             "SkreefMove"
         ],
         "RelatedPsike": [
+            "RelatedPsike",
             "Teamwork"
         ],
         "Description": "",
