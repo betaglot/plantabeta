@@ -1,23 +1,23 @@
 # 🔷 <beta>KUBOI</beta>
 
-Formery Known As: PROBABILITAS
+Aliases: Probability, Risk
 
-> the probability of this Element being performed successfully
-
-## 🔷<beta>BetaAnalogy</beta>
+> the probability of an Element being performed successfully and consequences of its failure
 
 ## Etymology(Kuboi)
 
 The concept of Probability didn't exist in ancient greece.
 
-Chance, Risk, Likelihood, Odds
+Chance, Risk, Likelihood, Odds, Gamble
 
 Probability of Success
 
 - Dice
 - NalleHukkataival: Burden of Dreams
 
-### Quotes about Dice
+[How to Gamble in Greek: The Meaning of Kubeia](https://www.cambridge.org/core/journals/journal-of-hellenic-studies/article/abs/how-to-gamble-in-greek-the-meaning-of-kubeia/E2E922D260EB65ECE6F0A29BEBB758CA)
+
+### Quotes about Kuboi
 
 <https://www.azquotes.com/quotes/topics/dice.html>
 
@@ -94,16 +94,15 @@ RouteRisk.Environment(--)
 - Probability Tree 🌲
 - The Kuboi are rolled every BetaMoment
 
-## BaseRate
+- BaseRate
+- Bayesian Theorem
 
-## Bayesian Theorem
+- Probability vs. Propensity
 
-## Probability vs. Propensity
-
-Except from [Why You Should Always Switch: The Monty Hall Problem (Finally) Explained](https://behavioralscientist.org/steven-pinker-rationality-why-you-should-always-switch-the-monty-hall-problem-finally-explained/) by Steven Pinker
+- Except from [Why You Should Always Switch: The Monty Hall Problem (Finally) Explained](https://behavioralscientist.org/steven-pinker-rationality-why-you-should-always-switch-the-monty-hall-problem-finally-explained/) by Steven Pinker
 
 > But probability is different; it is a conceptual tool invented in the seventeenth century. The word has several meanings, but the one that matters in making risky decisions is the strength of one’s belief in an unknown state of affairs. Any scrap of evidence that alters our confidence in an outcome will change its probability and the rational way to act upon it. The dependence of probability on ethereal knowledge rather than just physical makeup helps explain why people fail at the dilemma. They intuit the propensities for the car to have ended up behind the different doors, and they know that opening a door could not have changed those propensities. But probabilities are not about the world; they’re about our ignorance of the world. New information reduces our ignorance and changes the probability.
 
-Tendency
+- Tendency
 
 :::

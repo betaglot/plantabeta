@@ -3,8 +3,12 @@
         "ElementName": "TeamBeta",
         "Namespace": "Beta/TeamBeta",
         "SuperDirectory": "Beta",
-        "SuperElementName": ["Test_SuperElementName"],
-        "SubElementName": ["Test_SubElementName"],
+        "SuperElementName": [
+            "Test_SuperElementName"
+        ],
+        "SubElementName": [
+            "Test_SubElementName"
+        ],
         "ConcurrentElementName": [],
         "RelatedEkon": [
             "Test_RelatedEkon",
@@ -2054,9 +2058,15 @@
         "SuperElementName": [],
         "SubElementName": [],
         "ConcurrentElementName": [],
-        "RelatedEkon": ["DownSlopeAmble"],
-        "RelatedVium": ["NA"],
-        "RelatedMove": ["HeelKontakt"],
+        "RelatedEkon": [
+            "DownSlopeAmble"
+        ],
+        "RelatedVium": [
+            "NA"
+        ],
+        "RelatedMove": [
+            "HeelKontakt"
+        ],
         "RelatedPsike": [],
         "Description": "",
         "Alias": [
