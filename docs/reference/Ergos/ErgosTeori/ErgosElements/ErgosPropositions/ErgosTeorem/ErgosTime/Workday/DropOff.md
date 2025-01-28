@@ -1,22 +1,4 @@
-# 🟩  <eko>Air Temperature</eko>
-
-## 🕸 AirTemperature.Skema
-
-### Related 🟩<eko>Eko</eko>
-
--
-
-### Related 🔻<via>Via</via>
-
--
-
-### Related 🟠<move>Move</move>
-
--
-
-### Related 💜<psike>Psike</psike>
-
--
+# ✔<erg>DropOff</erg>
 
 ---
 

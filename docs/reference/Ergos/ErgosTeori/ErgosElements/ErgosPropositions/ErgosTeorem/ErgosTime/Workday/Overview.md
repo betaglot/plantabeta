@@ -1,22 +1,4 @@
-# 🟩  <eko>PrepLand</eko>
-
-## 🕸 PrepLand.Skema
-
-### Related 🟩<eko>Eko</eko>
-
--
-
-### Related 🔻<via>Via</via>
-
--
-
-### Related 🟠<move>Move</move>
-
--
-
-### Related 💜<psike>Psike</psike>
-
--
+# ✔<erg>Workday</erg>
 
 ---
 
@@ -27,9 +9,9 @@
 <!-- =================================================== -->
 ::: details 🛠 <dev>&&&</dev>
 
--
+- WorkdayFinishTime
+    - Be at the Trucks by `time`
+    - We're rolling at `time`
+    - Plant until `time`
 
-<h2>PageTags</h2>
-
-- "Eko.Prep.Overview"
 :::

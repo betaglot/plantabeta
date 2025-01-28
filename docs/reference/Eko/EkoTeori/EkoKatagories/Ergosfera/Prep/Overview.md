@@ -1,6 +1,6 @@
-# 🟩  <eko>Air Temperature</eko>
+# 🟩  <eko>PrepLand</eko>
 
-## 🕸 AirTemperature.Skema
+## 🕸 PrepLand.Skema
 
 ### Related 🟩<eko>Eko</eko>
 
@@ -27,6 +27,6 @@
 <!-- =================================================== -->
 ::: details 🛠 <dev>&&&</dev>
 
--
+- 🔻 Plantors only move around the space above the ground
 
 :::

@@ -27,30 +27,31 @@
 <!-- =================================================== -->
 ::: details 🛠 <dev>&&&</dev>
 
-- Spiltting trenches
+- Subclass
+    - SpiralTrench
+    - PerimeterTrench
+    - PeriObstacleTrench
+    - TrenchBreak
+    - Spiltting trenches
+    - DivergingTrench
+    - BoustroTrench
 
-- Periodically look at neighboring trench to ensure that thete are no missed trenches
+- 🔻 Putting one in the middle of TrenchError.WideTrench
 
-- Use landmarks to define the space
+- 💜 Periodically look at neighboring trench to ensure that thete are no missed trenches
 
-- Plantors only move around the space above the ground
+- 🔻 Use landmarks to define the space
 
-- Also Known As [Bedding](https://www.youtube.com/watch?v=9eudIOmbako)
+- 🛠 Also Known As [Bedding](https://www.youtube.com/watch?v=9eudIOmbako)
 
 - BoustroTrench
     - The least Efficient way to Fill a BoustroTrench is to Fill perpendicular to the Trenches, or to AreaFill
     - Sometimes you can't BoustroFill a BoustroTrench.
 
-- Walking across Trenches is a waste of Trenches.
+- ✔ Walking across Trenches is a waste of Trenches.
 
-- SpiralTrench
-
-- PerimeterTrench
-
-- Perimeter around an Obstacle or a hillock
-
-- Trenching Error
-
-- Obstacles in TrenchLand
+- 🔻 Obstacles in TrenchLand
+    - Obstacles to the Trencher
+    - Obstacles to the Plantor
 
 :::

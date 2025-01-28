@@ -32,7 +32,7 @@ TrenchPrep,RelatedToVium,TrenchEnterMarka
 TrenchPrep,RelatedToMove,TrenchAmble
 TrenchPrep,RelatedToMove,TrenchTrot
 TrenchPrep,RelatedToMove,StepInto
-TrenchPrep,RelatedToMove,NoSkreefMove
+TrenchPrep,RelatedToMove,NoSkreefSite
 TrenchPrep,RelatedToMove,Ambidexterity
 TrenchPrep,RelatedToMove,BaseKlose
 TrenchPrep,RelatedToMove,ManoKlose
@@ -176,41 +176,42 @@ BurnPit,RelatedToEkon,Quicksand
 MoundPrep,RelatedToMove,Straddle
 Prep,RelatedToEkon,Stickmat
 SkreefPrep,RelatedToEkon,RubbleSoil
-TrenchPrep,RelatedToEkon,
-Road,
-AirTemperature,
-Humidity,
-Atmosfera,
-Precipitation,
-Wind,
-Abies,
-Larix,
-Dendron,
-Picea,
-Pinus,
-Pseudotsuga,
-Quercus,
-Thuja,
-Tsuga,
-Fauna,
-Bryophyta,
-BurntLand,
-CropFlora,
-Flower,
-Log,
-Flora,
-Poales,
-RiparianZone,
-BurnPileSlash,
-HighSlash,
-LowSlash,
-Slash,
-WetSlash,
-Stump,
-EcoCurve,
-EcoPoint,
-EcoSpace,
-EcoSurface,
+TrenchPrep,RelatedToEkon,MoundPrep
+TrenchPrep,RelatedToEkon,SkreefPrep
+TrenchPrep,RelatedToErgon,TrenchSite
+Road,RelatedToErgon,DayStart
+Road,RelatedToErgon,DayFinish,"Finish your day on a road"
+AirTemperature,RelatedToErgon,TimeOfYear,"Independently of Altitude, the spring is has a colder air temperature than summer"
+Humidity,RelatedToEkon,Cloud,"It's maximum humidity when you're in a cloud"
+Atmosfera,RelatedToEkon,Smoke,"Wildfire Smoke can be from far away, but it can still hurt your lungs"
+Precipitation,RelatedToErgon,KitError,"Kit which isn't waterproofed, or "
+Wind,RelatedToEkon,DangerTree
+Abies,RelatedToErgon,HighMarka
+Larix,RelatedToErgon,SiteMarka,"You can't see Larix easily, since they are usually just sticks without needles"
+Abies,RelatedToMove,MarkaWeave,"Weave a Marka through the needles"
+Abies,RelatedToMove,MarkaWeave,"Wrap the top of an Abies which is shoulder height"
+Dendron,RelatedToMove,DendroMano
+Picea,RelatedToErgon,WetSite
+Pinus,RelatedToErgon,NoSkreefSite
+Pseudotsuga,RelatedToEkon,Abies,"DouglasFir looks like Abies, which is confusing since Abies is Flora, but Pseudotsuga is a Ergon"
+Quercus,RelatedToEkon,Ontario,"Oak is planted in Ontario, but not BC"
+Thuja,RelatedToEkon,Stickmat
+Tsuga,RelatedToErgon,Pseudotsuga,"Hemlock looks like DouglasFir and is sometimes a CropTree"
+Fauna,RelatedToPsike,Fear,"Bears are scary"
+Bryophyta,RelatedToErgon,NoSkreefSite
+BurntLand,RelatedToErgon,NoSkreefSite
+CropTree,RelatedToVium,DripLineLimit
+Flower,RelatedToErgon,MarkaError,"Fireweed, Lupine, and Paintbrush look like Marka"
+Log,RelatedToErgon,SiteProtection
+Flora,RelatedToPsike,Color
+Poales,RelatedToMove,SpadeSkreef
+RiparianZone,RelatedToErgon,SlipSite
+BurnPileSlash,RelatedToEkon,SlashCollapse
+HighSlash,RelatedToVium,Limit
+LowSlash,RelatedToVium,OverLine
+Slash,RelatedToVium,Obstacle
+WetSlash,RelatedToMove,BaseSlip
+Stump,RelatedToVium,ObstacleFill
 Flat,
 Incline,
 Geomorfologia,
@@ -246,9 +247,6 @@ Tracking,
 EkoSimbols,
 Ergon,
 Fisik,
-MoveKuboi,
-MoveTeknik,
-MoveOverview,
 Frase,
 MoveError,
 MovePraktik,
