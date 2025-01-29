@@ -24,6 +24,7 @@
 <!-- =================================================== -->
 ::: details 🛠 <dev>&&&</dev>
 
+- Variable
 - Purpose
     - Postulate
     - Propose
