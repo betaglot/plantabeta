@@ -1,1 +1,0 @@
-# 🟩<eko>EcoPoint</eko>
