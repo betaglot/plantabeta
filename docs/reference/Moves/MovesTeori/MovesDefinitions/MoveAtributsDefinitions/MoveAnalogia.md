@@ -1,4 +1,4 @@
-# 🟠<move>MoveAnalogia</move>
+# 🟠<mooves>MooveAnalogia</mooves>
 
 > analogous Elements in other BetaSports
 

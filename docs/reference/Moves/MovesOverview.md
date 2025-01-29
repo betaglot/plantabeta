@@ -1,32 +1,32 @@
-# 🟠 <move>Moves</move>
+# 🟠 <mooves>Mooves</mooves>
 
-![Move Icon](/Move/Move_Ikon.png)
+![Moove Icon](/Moove/Moove_Ikon.png)
 
-## <move>Moves Icon</move> 🟠
+## <mooves>Mooves Icon</mooves> 🟠
 
 > Orange Circle
 
-## <move>What is Moves?</move>
+## <mooves>What is Mooves?</mooves>
 
 > to set in motion; to shake; to stir; to move
 
-::: details Why is it called <move>Move</move>?
+::: details Why is it called <mooves>Moove</mooves>?
 
-## Etymology of "<move>Moves</move>"
+## Etymology of "<mooves>Mooves</mooves>"
 
 movere
 
 :::
 
-## <move>What is a Move?</move>
+## <mooves>What is a Moove?</mooves>
 
-Move  are prefixed by an orange circle 🟠
+Moove  are prefixed by an orange circle 🟠
 
 ```py
 🟠
 ```
 
-### <move>What is a Move Element?</move>
+### <mooves>What is a Moove Element?</mooves>
 
 ```py
 {
@@ -55,31 +55,31 @@ Move  are prefixed by an orange circle 🟠
 }
 ```
 
-### <move>What are Move Attributes?</move>
+### <mooves>What are Moove Attributes?</mooves>
 
-#### <move>Moves.<psike>Time</psike></move>
+#### <mooves>Mooves.<psike>Time</psike></mooves>
 
-- Move can be slow motion while movement can't. Since Move is from 1stPOV, time can be relative. Typically time **feels like** it's slowing down when you pay close attention to an object.
+- Moove can be slow motion while movement can't. Since Moove is from 1stPOV, time can be relative. Typically time **feels like** it's slowing down when you pay close attention to an object.
 
 Sherlock Fight Scene
 
 300 Fight Scene
 
-### <move>What are Moves Methods?</move>
+### <mooves>What are Mooves Methods?</mooves>
 
-### "Move" instead of "Move"
+### "Moove" instead of "Moove"
 
-Move is polyglot
+Moove is polyglot
 
-## <move>What is a Move Frase?</move>
+## <mooves>What is a Moove Frase?</mooves>
 
 - Represented in Python as a List object.
 
-## <move>What is a MoveError?</move>
+## <mooves>What is a MooveError?</mooves>
 
-Errors don't necessarily come from you, they could arise from PlantMove.
+Errors don't necessarily come from you, they could arise from PlantMoove.
 
-### MoveErrorRecovery
+### MooveErrorRecovery
 
 Recover as fluidly as possible
 
@@ -92,174 +92,174 @@ Recover as fluidly as possible
 <!-- =================================================== -->
 ::: details 🛠 <dev>&&&</dev>
 
-- NeoMove
+- NeoMoove
     - ArmSlide across Torso
-- Move is a superset of Movement
-- Move can be a Position or a Movement
+- Moove is a superset of Moovement
+- Moove can be a Position or a Moovement
 
 <h2>PageTags</h2>
 
-- "Move.CoordinationMove"
-- "Move.MoveAnalysis"
-- "Move.MoveComposition.MoveAddition"
-- "Move.MoveComposition.MoveSelection"
-- "Move.MoveComposition.MoveSelection.AlternativeMove"
-- "Move.MoveComposition.MoveSelection.ForcedMove"
-- "Move.MoveComposition.MoveSelection.MoveComparison"
-- "Move.MoveComposition.MoveSelection.SubmoveSelection"
-- "Move.MoveComposition.Overview"
-- "Move.MoveContactPoint.Overview"
-- "Move.MoveDirection.AbsoluteDirection"
-- "Move.MoveDirection.AbsoluteDirection.Down"
-- "Move.MoveDirection.AbsoluteDirection.Up"
-- "Move.MoveDirection.Overview"
-- "Move.MoveDirection.RelativeDirection.Above"
-- "Move.MoveDirection.RelativeDirection.Along"
-- "Move.MoveDirection.RelativeDirection.Around"
-- "Move.MoveDirection.RelativeDirection.Away"
-- "Move.MoveDirection.RelativeDirection.Below"
-- "Move.MoveDirection.RelativeDirection.Between"
-- "Move.MoveDirection.RelativeDirection.From"
-- "Move.MoveDirection.RelativeDirection.In"
-- "Move.MoveDirection.RelativeDirection.Out"
-- "Move.MoveDirection.RelativeDirection.Over"
-- "Move.MoveDirection.RelativeDirection.Overview"
-- "Move.MoveDirection.RelativeDirection.ParallelTo"
-- "Move.MoveDirection.RelativeDirection.PerpendicularTo"
-- "Move.MoveDirection.RelativeDirection.To"
-- "Move.MoveDirection.RelativeDirection.Under"
-- "Move.MoveDirection.TraverseMove"
-- "Move.MoveError.DroppedTree"
-- "Move.MoveError.Overview"
-- "Move.MoveError.RedundantMove"
-- "Move.MoveError.Slip.FootSlip"
-- "Move.MoveError.Slip.HandSlip"
-- "Move.MoveError.Slip.Overview"
-- "Move.MoveError.Slip.SpadeSlip"
-- "Move.MoveError.TooClose"
-- "Move.MoveError.TooFar"
-- "Move.MoveEvent"
-- "Move.MoveFrequency"
-- "Move.MoveName.Overview"
-- "Move.MovePlane"
-- "Move.MovePoint.Deadpoint"
-- "Move.MovePoint.MoveContactPoint"
-- "Move.MovePoint.MoveFinishPoint"
-- "Move.MovePoint.MoveHighestPoint"
-- "Move.MovePoint.MoveInflectionPoint"
-- "Move.MovePoint.MoveLowestPoint"
-- "Move.MovePoint.MovePausePoint"
-- "Move.MovePoint.MoveReflectionPoint"
-- "Move.MovePoint.MoveRotationPoint"
-- "Move.MovePoint.MoveStartPoint"
-- "Move.MovePoint.Overview"
-- "Move.MovePoint.ReleasePoint"
-- "Move.MoveAttributes.MoveAccuracy"
-- "Move.MoveAttributes.MoveDegreesOfFreedom"
-- "Move.MoveAttributes.MoveDependencies.DependentMove"
-- "Move.MoveAttributes.MoveDependencies.IndependentMove"
-- "Move.MoveAttributes.MoveDependencies.Overview"
-- "Move.MoveAttributes.MoveDescription"
-- "Move.MoveAttributes.MoveDuration"
-- "Move.MoveAttributes.MoveForce"
-- "Move.MoveAttributes.MovePermutation"
-- "Move.MoveAttributes.MovePlane.Overview"
-- "Move.MoveAttributes.MovePlane.XYPlane"
-- "Move.MoveAttributes.MovePlane.XZPlane"
-- "Move.MoveAttributes.MovePlane.YZPlane"
-- "Move.MoveAttributes.MovePrecision"
-- "Move.MoveAttributes.MovePurpose"
-- "Move.MoveAttributes.MoveRangeOfMotion"
-- "Move.MoveAttributes.MoveShape.CircleMove"
-- "Move.MoveAttributes.MoveShape.MoveShapeCenter"
-- "Move.MoveAttributes.MoveShape.Overview"
-- "Move.MoveAttributes.MoveShape.SquareMove"
-- "Move.MoveAttributes.MoveShape.TriangleMove"
-- "Move.MoveAttributes.MoveSize"
-- "Move.MoveAttributes.MoveState"
-- "Move.MoveAttributes.MoveType"
-- "Move.MoveAttributes.MoveType.AbductionMove"
-- "Move.MoveAttributes.MoveType.AbsorbMove"
-- "Move.MoveAttributes.MoveType.AdductionMove"
-- "Move.MoveAttributes.MoveType.ArchMove"
-- "Move.MoveAttributes.MoveType.ArmBelowShoulderMove"
-- "Move.MoveAttributes.MoveType.AsymmetricMove"
-- "Move.MoveAttributes.MoveType.Balance"
-- "Move.MoveAttributes.MoveType.BuckleMove"
-- "Move.MoveAttributes.MoveType.BumpMove"
-- "Move.MoveAttributes.MoveType.CircumductionMove"
-- "Move.MoveAttributes.MoveType.CompressionMove"
-- "Move.MoveAttributes.MoveType.DeadpointMove"
-- "Move.MoveAttributes.MoveType.DeflectionMove"
-- "Move.MoveAttributes.MoveType.DropMove"
-- "Move.MoveAttributes.MoveType.ExpansionMove"
-- "Move.MoveAttributes.MoveType.FallMove"
-- "Move.MoveAttributes.MoveType.FlexionMove"
-- "Move.MoveAttributes.MoveType.HookMove"
-- "Move.MoveAttributes.MoveType.JamMove"
-- "Move.MoveAttributes.MoveType.LeanMove"
-- "Move.MoveAttributes.MoveType.LeverMove"
-- "Move.MoveAttributes.MoveType.LockMove"
-- "Move.MoveAttributes.MoveType.MatchMove"
-- "Move.MoveAttributes.MoveType.OpenMove"
-- "Move.MoveAttributes.MoveType.Overview"
-- "Move.MoveAttributes.MoveType.PivotMove"
-- "Move.MoveAttributes.MoveType.PullMove"
-- "Move.MoveAttributes.MoveType.PushMove"
-- "Move.MoveAttributes.MoveType.ReachMove"
-- "Move.MoveAttributes.MoveType.ReleaseMove"
-- "Move.MoveAttributes.MoveType.RestMove"
-- "Move.MoveAttributes.MoveType.Revolution"
-- "Move.MoveAttributes.MoveType.RockOverMove"
-- "Move.MoveAttributes.MoveType.RollMove"
-- "Move.MoveAttributes.MoveType.RotationMove"
-- "Move.MoveAttributes.MoveType.SlideMove"
-- "Move.MoveAttributes.MoveType.SlotMove"
-- "Move.MoveAttributes.MoveType.SmearMove"
-- "Move.MoveAttributes.MoveType.OndaMove"
-- "Move.MoveAttributes.MoveType.SymmetricMove"
-- "Move.MoveAttributes.MoveType.TwistMove"
-- "Move.MoveAttributes.MoveType.WhipMove"
-- "Move.MoveAttributes.MoveWeightDistribution"
-- "Move.MoveAttributes.Overview"
-- "Move.MoveAttributes.SubmoveCount"
-- "Move.MoveQuestion"
-- "Move.MoveShape"
-- "Move.MoveShape.SubMoveShape"
-- "Move.MoveSize"
-- "Move.MoveSpace.Overview"
-- "Move.MoveType"
-- "Move.MoveType.ContinuousMove"
-- "Move.MoveType.DynamicMove"
-- "Move.MoveType.FiniteMove"
-- "Move.MoveType.StaticMove"
-- "Move.MoveValidation"
-- "Move.Overview"
-- "Move.Overview.ConcertedMove"
-- "Move.Overview.MoveHierarchy"
-- "Move.Overview.MoveHierarchy.Submove"
-- "Move.Overview.MoveHierarchy.Supermove"
-- "Move.Overview.MoveType"
-- "Move.Overview.MoveType.RelativeMove"
-- "Move.Physics.Acceleration"
-- "Move.Physics.CenterOfMass"
-- "Move.Physics.Direction"
-- "Move.Physics.Displacement"
-- "Move.Physics.Distance"
-- "Move.Physics.Force"
-- "Move.Physics.Force.Friction.NormalForce"
-- "Move.Physics.Friction"
-- "Move.Physics.LoadingAngle"
-- "Move.Physics.Overview"
-- "Move.Physics.Tangent"
-- "Move.Physics.Vector"
-- "Move.Physics.Velocity"
-- "Move.PlantorPart"
-- "Move.PlantorAttributes.Overview"
-- "Move.PlantorAttributes.PlantorAbility"
-- "Move.PlantorAttributes.PlantorSize"
-- "Move.RedirectMove"
-- "Move.ViaInfluenceMove"
-- "Move.SlashMove.Overview"
+- "Moove.CoordinationMoove"
+- "Moove.MooveAnalysis"
+- "Moove.MooveComposition.MooveAddition"
+- "Moove.MooveComposition.MooveSelection"
+- "Moove.MooveComposition.MooveSelection.AlternativeMoove"
+- "Moove.MooveComposition.MooveSelection.ForcedMoove"
+- "Moove.MooveComposition.MooveSelection.MooveComparison"
+- "Moove.MooveComposition.MooveSelection.SubmoveSelection"
+- "Moove.MooveComposition.Overview"
+- "Moove.MooveContactPoint.Overview"
+- "Moove.MooveDirection.AbsoluteDirection"
+- "Moove.MooveDirection.AbsoluteDirection.Down"
+- "Moove.MooveDirection.AbsoluteDirection.Up"
+- "Moove.MooveDirection.Overview"
+- "Moove.MooveDirection.RelativeDirection.Above"
+- "Moove.MooveDirection.RelativeDirection.Along"
+- "Moove.MooveDirection.RelativeDirection.Around"
+- "Moove.MooveDirection.RelativeDirection.Away"
+- "Moove.MooveDirection.RelativeDirection.Below"
+- "Moove.MooveDirection.RelativeDirection.Between"
+- "Moove.MooveDirection.RelativeDirection.From"
+- "Moove.MooveDirection.RelativeDirection.In"
+- "Moove.MooveDirection.RelativeDirection.Out"
+- "Moove.MooveDirection.RelativeDirection.Over"
+- "Moove.MooveDirection.RelativeDirection.Overview"
+- "Moove.MooveDirection.RelativeDirection.ParallelTo"
+- "Moove.MooveDirection.RelativeDirection.PerpendicularTo"
+- "Moove.MooveDirection.RelativeDirection.To"
+- "Moove.MooveDirection.RelativeDirection.Under"
+- "Moove.MooveDirection.TraverseMoove"
+- "Moove.MooveError.DroppedTree"
+- "Moove.MooveError.Overview"
+- "Moove.MooveError.RedundantMoove"
+- "Moove.MooveError.Slip.FootSlip"
+- "Moove.MooveError.Slip.HandSlip"
+- "Moove.MooveError.Slip.Overview"
+- "Moove.MooveError.Slip.SpadeSlip"
+- "Moove.MooveError.TooClose"
+- "Moove.MooveError.TooFar"
+- "Moove.MooveEvent"
+- "Moove.MooveFrequency"
+- "Moove.MooveName.Overview"
+- "Moove.MoovePlane"
+- "Moove.MoovePoint.Deadpoint"
+- "Moove.MoovePoint.MooveContactPoint"
+- "Moove.MoovePoint.MooveFinishPoint"
+- "Moove.MoovePoint.MooveHighestPoint"
+- "Moove.MoovePoint.MooveInflectionPoint"
+- "Moove.MoovePoint.MooveLowestPoint"
+- "Moove.MoovePoint.MoovePausePoint"
+- "Moove.MoovePoint.MooveReflectionPoint"
+- "Moove.MoovePoint.MooveRotationPoint"
+- "Moove.MoovePoint.MooveStartPoint"
+- "Moove.MoovePoint.Overview"
+- "Moove.MoovePoint.ReleasePoint"
+- "Moove.MooveAttributes.MooveAccuracy"
+- "Moove.MooveAttributes.MooveDegreesOfFreedom"
+- "Moove.MooveAttributes.MooveDependencies.DependentMoove"
+- "Moove.MooveAttributes.MooveDependencies.IndependentMoove"
+- "Moove.MooveAttributes.MooveDependencies.Overview"
+- "Moove.MooveAttributes.MooveDescription"
+- "Moove.MooveAttributes.MooveDuration"
+- "Moove.MooveAttributes.MooveForce"
+- "Moove.MooveAttributes.MoovePermutation"
+- "Moove.MooveAttributes.MoovePlane.Overview"
+- "Moove.MooveAttributes.MoovePlane.XYPlane"
+- "Moove.MooveAttributes.MoovePlane.XZPlane"
+- "Moove.MooveAttributes.MoovePlane.YZPlane"
+- "Moove.MooveAttributes.MoovePrecision"
+- "Moove.MooveAttributes.MoovePurpose"
+- "Moove.MooveAttributes.MooveRangeOfMotion"
+- "Moove.MooveAttributes.MooveShape.CircleMoove"
+- "Moove.MooveAttributes.MooveShape.MooveShapeCenter"
+- "Moove.MooveAttributes.MooveShape.Overview"
+- "Moove.MooveAttributes.MooveShape.SquareMoove"
+- "Moove.MooveAttributes.MooveShape.TriangleMoove"
+- "Moove.MooveAttributes.MooveSize"
+- "Moove.MooveAttributes.MooveState"
+- "Moove.MooveAttributes.MooveType"
+- "Moove.MooveAttributes.MooveType.AbductionMoove"
+- "Moove.MooveAttributes.MooveType.AbsorbMoove"
+- "Moove.MooveAttributes.MooveType.AdductionMoove"
+- "Moove.MooveAttributes.MooveType.ArchMoove"
+- "Moove.MooveAttributes.MooveType.ArmBelowShoulderMoove"
+- "Moove.MooveAttributes.MooveType.AsymmetricMoove"
+- "Moove.MooveAttributes.MooveType.Balance"
+- "Moove.MooveAttributes.MooveType.BuckleMoove"
+- "Moove.MooveAttributes.MooveType.BumpMoove"
+- "Moove.MooveAttributes.MooveType.CircumductionMoove"
+- "Moove.MooveAttributes.MooveType.CompressionMoove"
+- "Moove.MooveAttributes.MooveType.DeadpointMoove"
+- "Moove.MooveAttributes.MooveType.DeflectionMoove"
+- "Moove.MooveAttributes.MooveType.DropMoove"
+- "Moove.MooveAttributes.MooveType.ExpansionMoove"
+- "Moove.MooveAttributes.MooveType.FallMoove"
+- "Moove.MooveAttributes.MooveType.FlexionMoove"
+- "Moove.MooveAttributes.MooveType.HookMoove"
+- "Moove.MooveAttributes.MooveType.JamMoove"
+- "Moove.MooveAttributes.MooveType.LeanMoove"
+- "Moove.MooveAttributes.MooveType.LeverMoove"
+- "Moove.MooveAttributes.MooveType.LockMoove"
+- "Moove.MooveAttributes.MooveType.MatchMoove"
+- "Moove.MooveAttributes.MooveType.OpenMoove"
+- "Moove.MooveAttributes.MooveType.Overview"
+- "Moove.MooveAttributes.MooveType.PivotMoove"
+- "Moove.MooveAttributes.MooveType.PullMoove"
+- "Moove.MooveAttributes.MooveType.PushMoove"
+- "Moove.MooveAttributes.MooveType.ReachMoove"
+- "Moove.MooveAttributes.MooveType.ReleaseMoove"
+- "Moove.MooveAttributes.MooveType.RestMoove"
+- "Moove.MooveAttributes.MooveType.Revolution"
+- "Moove.MooveAttributes.MooveType.RockOverMoove"
+- "Moove.MooveAttributes.MooveType.RollMoove"
+- "Moove.MooveAttributes.MooveType.RotationMoove"
+- "Moove.MooveAttributes.MooveType.SlideMoove"
+- "Moove.MooveAttributes.MooveType.SlotMoove"
+- "Moove.MooveAttributes.MooveType.SmearMoove"
+- "Moove.MooveAttributes.MooveType.OndaMoove"
+- "Moove.MooveAttributes.MooveType.SymmetricMoove"
+- "Moove.MooveAttributes.MooveType.TwistMoove"
+- "Moove.MooveAttributes.MooveType.WhipMoove"
+- "Moove.MooveAttributes.MooveWeightDistribution"
+- "Moove.MooveAttributes.Overview"
+- "Moove.MooveAttributes.SubmoveCount"
+- "Moove.MooveQuestion"
+- "Moove.MooveShape"
+- "Moove.MooveShape.SubMooveShape"
+- "Moove.MooveSize"
+- "Moove.MooveSpace.Overview"
+- "Moove.MooveType"
+- "Moove.MooveType.ContinuousMoove"
+- "Moove.MooveType.DynamicMoove"
+- "Moove.MooveType.FiniteMoove"
+- "Moove.MooveType.StaticMoove"
+- "Moove.MooveValidation"
+- "Moove.Overview"
+- "Moove.Overview.ConcertedMoove"
+- "Moove.Overview.MooveHierarchy"
+- "Moove.Overview.MooveHierarchy.Submove"
+- "Moove.Overview.MooveHierarchy.Supermove"
+- "Moove.Overview.MooveType"
+- "Moove.Overview.MooveType.RelativeMoove"
+- "Moove.Physics.Acceleration"
+- "Moove.Physics.CenterOfMass"
+- "Moove.Physics.Direction"
+- "Moove.Physics.Displacement"
+- "Moove.Physics.Distance"
+- "Moove.Physics.Force"
+- "Moove.Physics.Force.Friction.NormalForce"
+- "Moove.Physics.Friction"
+- "Moove.Physics.LoadingAngle"
+- "Moove.Physics.Overview"
+- "Moove.Physics.Tangent"
+- "Moove.Physics.Vector"
+- "Moove.Physics.Velocity"
+- "Moove.PlantorPart"
+- "Moove.PlantorAttributes.Overview"
+- "Moove.PlantorAttributes.PlantorAbility"
+- "Moove.PlantorAttributes.PlantorSize"
+- "Moove.RedirectMoove"
+- "Moove.ViaInfluenceMoove"
+- "Moove.SlashMoove.Overview"
 
 :::

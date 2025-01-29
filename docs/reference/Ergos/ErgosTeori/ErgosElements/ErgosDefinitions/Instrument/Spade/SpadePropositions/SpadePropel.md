@@ -1,12 +1,12 @@
-# 🟠 <move>SpadePropel</move>
+# 🟠 <mooves>SpadePropel</mooves>
 
 Aliases: SpadeSlam, SpadeThrow, SpadeChop
 
-![MoveIkon](/Move/Move_Ikon.png)
+![MooveIkon](/Moove/Moove_Ikon.png)
 
 ## 🕸 SpadePropel.Skema
 
-### Related 🟩<eko>Eko</eko>
+### Related 🟩<ekos>Eko</ekos>
 
 - Blade gets stuck into root near stump, especially near a stump cluster.
 
@@ -14,7 +14,7 @@ Aliases: SpadeSlam, SpadeThrow, SpadeChop
 
 -
 
-### Related 🟠<move>Move</move>
+### Related 🟠<mooves>Moove</mooves>
 
 -
 
@@ -66,7 +66,7 @@ Aliases: SpadeSlam, SpadeThrow, SpadeChop
     - SpadeAcutePropel
     - SpadeObtusePropel
     - SpadePerpendicularPropel
-- Move error
+- Moove error
     - Sequence error
     - Body Bend before SpadePropel
     - Use body Bend to increase acceleration time to maximize velocity on impact therefore maximizing force on impact
@@ -81,6 +81,6 @@ Aliases: SpadeSlam, SpadeThrow, SpadeChop
 
 <h2>PageTags</h2>
 
-- "Move.InstrumentMove.SpadeMove.SpadePropel"
+- "Moove.InstrumentMoove.SpadeMoove.SpadePropel"
 
 :::

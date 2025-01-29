@@ -1,8 +1,8 @@
-# 🟩  <eko>Atmosfera</eko>
+# 🟩  <ekos>Atmosfera</ekos>
 
 ## 🕸 Atmosfera.Skema
 
-### Related 🟩<eko>Eko</eko>
+### Related 🟩<ekos>Eko</ekos>
 
 -
 
@@ -10,7 +10,7 @@
 
 -
 
-### Related 🟠<move>Move</move>
+### Related 🟠<mooves>Moove</mooves>
 
 -
 

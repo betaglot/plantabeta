@@ -1,4 +1,4 @@
-# 🟠<move>ManoCompress</move>
+# 🟠<mooves>ManoCompress</mooves>
 
 Aliases: Pinch
 

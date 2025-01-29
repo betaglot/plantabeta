@@ -1,8 +1,8 @@
-# 🟠<move>MoveAxiom</move>
+# 🟠<mooves>MooveAxiom</mooves>
 
-## 🕸 MoveAxiom.Skema
+## 🕸 MooveAxiom.Skema
 
-### Related 🟩<eko>Eko</eko>
+### Related 🟩<ekos>Eko</ekos>
 
 -
 
@@ -10,7 +10,7 @@
 
 -
 
-### Related 🟠<move>Move</move>
+### Related 🟠<mooves>Moove</mooves>
 
 -
 
@@ -27,7 +27,7 @@
 <!-- =================================================== -->
 ::: details 🛠 <dev>&&&</dev>
 
-- MoveAxiom: walking downhill is easier than walking up hill
+- MooveAxiom: walking downhill is easier than walking up hill
 - Stand is the most basic move
 - PathOfLeastResistance
 - NewtonLaw

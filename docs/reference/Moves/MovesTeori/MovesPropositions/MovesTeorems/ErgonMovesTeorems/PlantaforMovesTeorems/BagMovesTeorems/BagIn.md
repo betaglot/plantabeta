@@ -1,4 +1,4 @@
-# 🟠<move>BagIn</move>
+# 🟠<mooves>BagIn</mooves>
 
 Aliases: Bag up some trees
 
@@ -6,7 +6,7 @@ Aliases: Bag up some trees
 
 ## 🕸 BagIn.Skema
 
-### Related 🟩<eko>Eko</eko>
+### Related 🟩<ekos>Eko</ekos>
 
 -
 
@@ -14,7 +14,7 @@ Aliases: Bag up some trees
 
 -
 
-### Related 🟠<move>Move</move>
+### Related 🟠<mooves>Moove</mooves>
 
 -
 

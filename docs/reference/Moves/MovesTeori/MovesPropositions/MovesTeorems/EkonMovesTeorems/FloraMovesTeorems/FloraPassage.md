@@ -1,10 +1,10 @@
-# 🟠 <move>FloraPassage</move>
+# 🟠 <mooves>FloraPassage</mooves>
 
 > Passing through a cluster of Flora
 
 ## 🕸 FloraPassage.Skema
 
-### Related 🟩<eko>Eko</eko>
+### Related 🟩<ekos>Eko</ekos>
 
 - Thicket
 - Bush
@@ -16,7 +16,7 @@
 
 -
 
-### Related 🟠<move>Move</move>
+### Related 🟠<mooves>Moove</mooves>
 
 -
 

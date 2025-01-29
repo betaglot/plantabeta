@@ -30,9 +30,9 @@ Import
 
 ### 💜<psike>ArcheryBeta.PSIKE</psike>
 
-### 🟩<eko>ArcheryBeta.EKO</eko>
+### 🟩<ekos>ArcheryBeta.EKO</ekos>
 
-### 🟠<move>ArcheryBeta.MOVE</move>
+### 🟠<mooves>ArcheryBeta.MOVE</mooves>
 
 ### 🔻<via>ArcheryBeta.VIA</via>
 
@@ -58,15 +58,15 @@ Passing
 
 ### 💜<psike>BasketballBeta.PSIKE</psike>
 
-### 🟩<eko>.BasketballBetaEKO: =Opponent</eko>
+### 🟩<ekos>.BasketballBetaEKO: =Opponent</ekos>
 
-### 🟠<move>BasketballBeta.MOVE</move>
+### 🟠<mooves>BasketballBeta.MOVE</mooves>
 
 ### 🔻<via>BasketballBeta.VIA</via>
 
 - Play diagram [InsertImage]
     - Planted trees are like teammates in play diagrams
-- MovePhrase
+- MoovePhrase
 
 ## ### 🔷<beta>BikeBeta</beta>
 
@@ -79,9 +79,9 @@ Passing
 
 ### 💜<psike>BikeBeta.PSIKE</psike>
 
-### 🟩<eko>BikeBeta.EKO</eko>
+### 🟩<ekos>BikeBeta.EKO</ekos>
 
-### 🟠<move>BikeBeta.MOVE</move>
+### 🟠<mooves>BikeBeta.MOVE</mooves>
 
 ### 🔻<via>BikeBeta.VIA</via>
 
@@ -95,9 +95,9 @@ Passing
 
 ### 💜<psike>BmxBeta.PSIKE</psike>
 
-### 🟩<eko>BmxBeta.EKO</eko>
+### 🟩<ekos>BmxBeta.EKO</ekos>
 
-### 🟠<move>BmxBeta.MOVE</move>
+### 🟠<mooves>BmxBeta.MOVE</mooves>
 
 ### 🔻<via>BmxBeta.VIA</via>
 
@@ -109,18 +109,18 @@ Passing
 
 ### 💜<psike>BoxingBeta.PSIKE</psike>
 
-### 🟩<eko>BoxingBeta.EKO: Plant=Opponent</eko>
+### 🟩<ekos>BoxingBeta.EKO: Plant=Opponent</ekos>
 
-### 🟠<move>BoxingBeta.MOVE</move>
+### 🟠<mooves>BoxingBeta.MOVE</mooves>
 
 ### 🔻<via>BoxingBeta.VIA</via>
 
-- [BranchDeflection](/encyclopedia/Move/PlantMove/BranchDeflection)
-- [HeadBob](/encyclopedia/Move/HeadMove/Overview)
-- [HandClose](/encyclopedia/Move/HandMove/Overview)
-    - [PunchClose](/encyclopedia/Move/HandMove/Overview)
-- [FootClose](/encyclopedia/Move/FootMove/Overview)
-    - [StompClose](/encyclopedia/Move/FootMove/Overview)
+- [BranchDeflection](/encyclopedia/Moove/PlantMoove/BranchDeflection)
+- [HeadBob](/encyclopedia/Moove/HeadMoove/Overview)
+- [HandClose](/encyclopedia/Moove/HandMoove/Overview)
+    - [PunchClose](/encyclopedia/Moove/HandMoove/Overview)
+- [FootClose](/encyclopedia/Moove/FootMoove/Overview)
+    - [StompClose](/encyclopedia/Moove/FootMoove/Overview)
 
 ## 🔷 BreakDance (HipHopBeta)
 
@@ -130,9 +130,9 @@ Passing
 
 ### 💜<psike>HipHopBeta.PSIKE</psike>
 
-### 🟩<eko>HipHopBeta.EKO</eko>
+### 🟩<ekos>HipHopBeta.EKO</ekos>
 
-### 🟠<move>HipHopBeta.MOVE</move>
+### 🟠<mooves>HipHopBeta.MOVE</mooves>
 
 ### 🔻<via>HipHopBeta.VIA</via>
 
@@ -142,9 +142,9 @@ Passing
 
 ### 💜<psike>CalisthenicBeta.PSIKE</psike>
 
-### 🟩<eko>CalisthenicBeta.EKO</eko>
+### 🟩<ekos>CalisthenicBeta.EKO</ekos>
 
-### 🟠<move>CalisthenicBeta.MOVE</move>
+### 🟠<mooves>CalisthenicBeta.MOVE</mooves>
 
 ### 🔻<via>CalisthenicBeta.VIA</via>
 
@@ -156,17 +156,17 @@ Passing
 
 ### 💜<psike>CanoeBeta.PSIKE</psike>
 
-### 🟩<eko>CanoeBeta.EKO</eko>
+### 🟩<ekos>CanoeBeta.EKO</ekos>
 
-### 🟠<move>CanoeBeta.MOVE: Spade=Paddle</move>
+### 🟠<mooves>CanoeBeta.MOVE: Spade=Paddle</mooves>
 
 ### 🔻<via>CanoeBeta.VIA</via>
 
 - Paddle = Spade
-    - [SpadeSkreef](/encyclopedia/Move/SpadeMove/SpadeSkreef) is like taking a forward stroke or a draw stroke with a canoe paddle
-    - [SpadeGrip](/encyclopedia/Move/SpadeMove/SpadeGrip)
-        - [ShaftGrip](/encyclopedia/Move/SpadeMove/ShaftGrip)
-        - [HandleGrip](/encyclopedia/Move/SpadeMove/HandleGrip)
+    - [SpadeSkreef](/encyclopedia/Moove/SpadeMoove/SpadeSkreef) is like taking a forward stroke or a draw stroke with a canoe paddle
+    - [SpadeGrip](/encyclopedia/Moove/SpadeMoove/SpadeGrip)
+        - [ShaftGrip](/encyclopedia/Moove/SpadeMoove/ShaftGrip)
+        - [HandleGrip](/encyclopedia/Moove/SpadeMoove/HandleGrip)
 
 ## 🔷 Climbing (Klimbeta)
 
@@ -184,9 +184,9 @@ Send Planting bags full of merch and printed information to Chris Sharma in Spai
 
 ### 💜<psike>DiveBeta.PSIKE</psike>
 
-### 🟩<eko>DiveBeta.EKO</eko>
+### 🟩<ekos>DiveBeta.EKO</ekos>
 
-### 🟠<move>DiveBeta.MOVE</move>
+### 🟠<mooves>DiveBeta.MOVE</mooves>
 
 ### 🔻<via>DiveBeta.VIA</via>
 
@@ -204,9 +204,9 @@ Send Planting bags full of merch and printed information to Chris Sharma in Spai
 
 ### 💜<psike>FigureSkatingBeta.PSIKE</psike>
 
-### 🟩<eko>FigureSkatingBeta.EKO</eko>
+### 🟩<ekos>FigureSkatingBeta.EKO</ekos>
 
-### 🟠<move>FigureSkatingBeta.MOVE</move>
+### 🟠<mooves>FigureSkatingBeta.MOVE</mooves>
 
 ### 🔻<via>FigureSkatingBeta.VIA</via>
 
@@ -218,9 +218,9 @@ Send Planting bags full of merch and printed information to Chris Sharma in Spai
 
 ### 💜<psike>FootbagBeta.PSIKE</psike>
 
-### 🟩<eko>FootbagBeta.EKO</eko>
+### 🟩<ekos>FootbagBeta.EKO</ekos>
 
-### 🟠<move>FootbagBeta.MOVE</move>
+### 🟠<mooves>FootbagBeta.MOVE</mooves>
 
 ### 🔻<via>FootbagBeta.VIA</via>
 
@@ -233,9 +233,9 @@ Send Planting bags full of merch and printed information to Chris Sharma in Spai
 
 ### 💜<psike>FootballBeta.PSIKE</psike>
 
-### 🟩<eko>FootballBeta.EKO</eko>
+### 🟩<ekos>FootballBeta.EKO</ekos>
 
-### 🟠<move>FootballBeta.MOVE</move>
+### 🟠<mooves>FootballBeta.MOVE</mooves>
 
 ### 🔻<via>FootballBeta.VIA</via>
 
@@ -247,9 +247,9 @@ Send Planting bags full of merch and printed information to Chris Sharma in Spai
 
 ### 💜<psike>GolfBeta.PSIKE</psike>
 
-### 🟩<eko>GolfBeta.EKO</eko>
+### 🟩<ekos>GolfBeta.EKO</ekos>
 
-### 🟠<move>GolfBeta.MOVE</move>
+### 🟠<mooves>GolfBeta.MOVE</mooves>
 
 ### 🔻<via>GolfBeta.VIA</via>
 
@@ -263,9 +263,9 @@ Puck not Hockey since Hockey requires Anatagonists
 
 ### 💜<psike>PuckBeta.PSIKE</psike>
 
-### 🟩<eko>PuckBeta.EKO</eko>
+### 🟩<ekos>PuckBeta.EKO</ekos>
 
-### 🟠<move>PuckBeta.MOVE</move>
+### 🟠<mooves>PuckBeta.MOVE</mooves>
 
 - Deep squat while leaning into turn.
 
@@ -286,9 +286,9 @@ Puck not Hockey since Hockey requires Anatagonists
 
 ### 💜<psike>JavelinBeta.PSIKE</psike>
 
-### 🟩<eko>JavelinBeta.EKO</eko>
+### 🟩<ekos>JavelinBeta.EKO</ekos>
 
-### 🟠<move>JavelinBeta.MOVE</move>
+### 🟠<mooves>JavelinBeta.MOVE</mooves>
 
 ### 🔻<via>JavelinBeta.VIA</via>
 
@@ -300,9 +300,9 @@ Puck not Hockey since Hockey requires Anatagonists
 
 ### 💜<psike>JugglingBeta.PSIKE</psike>
 
-### 🟩<eko>.EKO</eko>
+### 🟩<ekos>.EKO</ekos>
 
-### 🟠<move>JugglingBeta.MOVE</move>
+### 🟠<mooves>JugglingBeta.MOVE</mooves>
 
 ### 🔻<via>JugglingBeta.VIA</via>
 
@@ -314,9 +314,9 @@ Puck not Hockey since Hockey requires Anatagonists
 
 ### 💜<psike>KayakBeta.PSIKE</psike>
 
-### 🟩<eko>KayakBeta.EKO</eko>
+### 🟩<ekos>KayakBeta.EKO</ekos>
 
-### 🟠<move>KayakBeta.MOVE</move>
+### 🟠<mooves>KayakBeta.MOVE</mooves>
 
 ### 🔻<via>KayakBeta.VIA</via>
 
@@ -330,9 +330,9 @@ Puck not Hockey since Hockey requires Anatagonists
 
 ### 💜<psike>KirkosBeta.PSIKE</psike>
 
-### 🟩<eko>KirkosBeta.EKO</eko>
+### 🟩<ekos>KirkosBeta.EKO</ekos>
 
-### 🟠<move>KirkosBeta.MOVE</move>
+### 🟠<mooves>KirkosBeta.MOVE</mooves>
 
 ### 🔻<via>KirkosBeta.VIA</via>
 
@@ -356,9 +356,9 @@ IKEA Beta
 
 ### 💜<psike>LongJumpBeta.PSIKE</psike>
 
-### 🟩<eko>LongJumpBeta.EKO</eko>
+### 🟩<ekos>LongJumpBeta.EKO</ekos>
 
-### 🟠<move>LongJumpBeta.MOVE</move>
+### 🟠<mooves>LongJumpBeta.MOVE</mooves>
 
 ### 🔻<via>LongJumpBeta.VIA</via>
 
@@ -372,9 +372,9 @@ IKEA Beta
 
 ### 💜<psike>LugeBeta.PSIKE</psike>
 
-### 🟩<eko>LugeBeta.EKO</eko>
+### 🟩<ekos>LugeBeta.EKO</ekos>
 
-### 🟠<move>LugeBeta.MOVE</move>
+### 🟠<mooves>LugeBeta.MOVE</mooves>
 
 ### 🔻<via>LugeBeta.VIA</via>
 
@@ -388,9 +388,9 @@ IKEA Beta
 
 ### 💜<psike>MusicBeta.PSIKE</psike>
 
-### 🟩<eko>MusicBeta.EKO</eko>
+### 🟩<ekos>MusicBeta.EKO</ekos>
 
-### 🟠<move>MusicBeta.MOVE</move>
+### 🟠<mooves>MusicBeta.MOVE</mooves>
 
 ### 🔻<via>MusicBeta.VIA</via>
 
@@ -404,9 +404,9 @@ IKEA Beta
 
 ### 💜<psike>ParkourBeta.PSIKE</psike>
 
-### 🟩<eko>ParkourBeta.EKO</eko>
+### 🟩<ekos>ParkourBeta.EKO</ekos>
 
-### 🟠<move>ParkourBeta.MOVE</move>
+### 🟠<mooves>ParkourBeta.MOVE</mooves>
 
 ### 🔻<via>ParkourBeta.VIA</via>
 
@@ -418,9 +418,9 @@ IKEA Beta
 
 ### 💜<psike>PoleVaultBeta.PSIKE</psike>
 
-### 🟩<eko>PoleVaultBeta.EKO</eko>
+### 🟩<ekos>PoleVaultBeta.EKO</ekos>
 
-### 🟠<move>PoleVaultBeta.MOVE</move>
+### 🟠<mooves>PoleVaultBeta.MOVE</mooves>
 
 ### 🔻<via>PoleVaultBeta.VIA</via>
 
@@ -432,9 +432,9 @@ IKEA Beta
 
 ### 💜<psike>LiftBeta.PSIKE</psike>
 
-### 🟩<eko>LiftBeta.EKO</eko>
+### 🟩<ekos>LiftBeta.EKO</ekos>
 
-### 🟠<move>LiftBeta.MOVE</move>
+### 🟠<mooves>LiftBeta.MOVE</mooves>
 
 ### 🔻<via>LiftBeta.VIA</via>
 
@@ -455,11 +455,11 @@ NitroCircus
 
 ### 💜<psike>ScooterBeta.PSIKE</psike>
 
-### 🟩<eko>ScooterBeta.EKO</eko>
+### 🟩<ekos>ScooterBeta.EKO</ekos>
 
-### 🟠<move>ScooterBeta.MOVE</move>
+### 🟠<mooves>ScooterBeta.MOVE</mooves>
 
-Scooter space move is like SpadeMove
+Scooter space move is like SpadeMoove
 
 SpadeWhip
 
@@ -479,9 +479,9 @@ What is the name of the scooter's shaft?
 
 ### 💜<psike>ShotPutBeta.PSIKE</psike>
 
-### 🟩<eko>ShotPutBeta.EKO</eko>
+### 🟩<ekos>ShotPutBeta.EKO</ekos>
 
-### 🟠<move>ShotPutBeta.MOVE</move>
+### 🟠<mooves>ShotPutBeta.MOVE</mooves>
 
 ### 🔻<via>ShotPutBeta.VIA</via>
 
@@ -493,9 +493,9 @@ What is the name of the scooter's shaft?
 
 ### 💜<psike>SkeletonBeta.PSIKE</psike>
 
-### 🟩<eko>SkeletonBeta.EKO</eko>
+### 🟩<ekos>SkeletonBeta.EKO</ekos>
 
-### 🟠<move>SkeletonBeta.MOVE</move>
+### 🟠<mooves>SkeletonBeta.MOVE</mooves>
 
 ### 🔻<via>SkeletonBeta.VIA</via>
 
@@ -507,9 +507,9 @@ What is the name of the scooter's shaft?
 
 ### 💜<psike>SkiAerialBeta.PSIKE</psike>
 
-### 🟩<eko>SkiAerialBeta.EKO</eko>
+### 🟩<ekos>SkiAerialBeta.EKO</ekos>
 
-### 🟠<move>SkiAerialBeta.MOVE</move>
+### 🟠<mooves>SkiAerialBeta.MOVE</mooves>
 
 ### 🔻<via>SkiAerialBeta.VIA</via>
 
@@ -525,9 +525,9 @@ You're the elder you make the norms. No one can stop you. Anything other than ki
 
 ### 💜<psike>SkiAlpineBeta.PSIKE</psike>
 
-### 🟩<eko>SkiAlpineBeta.EKO: Topography=Topography, Microsite=Gate</eko>
+### 🟩<ekos>SkiAlpineBeta.EKO: Topography=Topography, Microsite=Gate</ekos>
 
-### 🟠<move>SkiAlpineBeta.MOVE: Spade=Pole</move>
+### 🟠<mooves>SkiAlpineBeta.MOVE: Spade=Pole</mooves>
 
 ### 🔻<via>SkiAlpineBeta.VIA: TargetPoint=Gate</via>
 
@@ -551,9 +551,9 @@ Planting while your body is moving away or towards hole
 
 ### 💜<psike>SkiJumpBeta.PSIKE</psike>
 
-### 🟩<eko>SkiJumpBeta.EKO</eko>
+### 🟩<ekos>SkiJumpBeta.EKO</ekos>
 
-### 🟠<move>SkiJumpBeta.MOVE</move>
+### 🟠<mooves>SkiJumpBeta.MOVE</mooves>
 
 ### 🔻<via>SkiJumpBeta.VIA</via>
 
@@ -565,9 +565,9 @@ Planting while your body is moving away or towards hole
 
 ### 💜<psike>MogulBeta.PSIKE</psike>
 
-### 🟩<eko>MogulBeta.EKO</eko>
+### 🟩<ekos>MogulBeta.EKO</ekos>
 
-### 🟠<move>MogulBeta.MOVE</move>
+### 🟠<mooves>MogulBeta.MOVE</mooves>
 
 ### 🔻<via>MogulBeta.VIA</via>
 
@@ -579,9 +579,9 @@ Planting while your body is moving away or towards hole
 
 ### 💜<psike>SnowboardBeta.PSIKE</psike>
 
-### 🟩<eko>SnowboardBeta.EKO</eko>
+### 🟩<ekos>SnowboardBeta.EKO</ekos>
 
-### 🟠<move>SnowboardBeta.MOVE</move>
+### 🟠<mooves>SnowboardBeta.MOVE</mooves>
 
 ### 🔻<via>SnowboardBeta.VIA</via>
 
@@ -593,9 +593,9 @@ Planting while your body is moving away or towards hole
 
 ### 💜<psike>SnowParkBeta.PSIKE</psike>
 
-### 🟩<eko>SnowParkBeta.EKO</eko>
+### 🟩<ekos>SnowParkBeta.EKO</ekos>
 
-### 🟠<move>SnowParkBeta.MOVE</move>
+### 🟠<mooves>SnowParkBeta.MOVE</mooves>
 
 ### 🔻<via>SnowParkBeta.VIA</via>
 
@@ -607,9 +607,9 @@ Planting while your body is moving away or towards hole
 
 ### 💜<psike>SurfBeta.PSIKE</psike>
 
-### 🟩<eko>SurfBeta.EKO: Land=Wave</eko>
+### 🟩<ekos>SurfBeta.EKO: Land=Wave</ekos>
 
-### 🟠<move>SurfBeta.MOVE: Carve,Cut,NoseRiding,SwitchStance</move>
+### 🟠<mooves>SurfBeta.MOVE: Carve,Cut,NoseRiding,SwitchStance</mooves>
 
 ### 🔻<via>SurfBeta.VIA: [BarrelRide](https://www.surfertoday.com/surfing/how-to-get-barreled), [CloseoutReentry](https://www.surfertoday.com/surfing/how-to-do-a-closeout-reentry-in-surfing)</via>
 
@@ -621,9 +621,9 @@ Planting while your body is moving away or towards hole
 
 ### 💜<psike>SwimBeta.PSIKE</psike>
 
-### 🟩<eko>SwimBeta.EKO</eko>
+### 🟩<ekos>SwimBeta.EKO</ekos>
 
-### 🟠<move>SwimBeta.MOVE</move>
+### 🟠<mooves>SwimBeta.MOVE</mooves>
 
 ### 🔻<via>SwimBeta.VIA</via>
 
@@ -633,9 +633,9 @@ Planting while your body is moving away or towards hole
 
 ### 💜<psike>TrampBeta.PSIKE</psike>
 
-### 🟩<eko>TrampBeta.EKO</eko>
+### 🟩<ekos>TrampBeta.EKO</ekos>
 
-### 🟠<move>TrampBeta.MOVE</move>
+### 🟠<mooves>TrampBeta.MOVE</mooves>
 
 ### 🔻<via>TrampBeta.VIA</via>
 
@@ -690,9 +690,9 @@ On the streets, on campus, in airports, in public transit
 
 ### 💜<psike>YogaBeta.PSIKE</psike>
 
-### 🟩<eko>YogaBeta.EKO</eko>
+### 🟩<ekos>YogaBeta.EKO</ekos>
 
-### 🟠<move>YogaBeta.MOVE</move>
+### 🟠<mooves>YogaBeta.MOVE</mooves>
 
 ### 🔻<via>YogaBeta.VIA</via>
 
@@ -719,11 +719,11 @@ betaglot_activities = {
 - Consilience, Interdisciplinary
 - Climber to Planter group program. The Climbing Instructor stays with the group as they become planters. The Instructor already has rapport with the planters before the season starts and the planters have already become friends.
 - Betaglot needs to be able to translate into and from Mentalese
-- Betaglot Moves use OtherSportBeta
+- Betaglot Mooves use OtherSportBeta
     - Apex of SpadeSlam is TrampBeta while Spade impact is DiveBeta. SpadeSwing is RingsBeta. Legs are doing DanceBeta Foutette at Slam. Apex to move body and to counteract any offbalancing forces from SpadeSwing
 - Compulsory Elements
     - The superclass of Elements is Apparatus since most elements. Apparatus is an Ekon.
-    - ElementGraph is not just Move, nodes can be any of the BetaTypes. Ekon branches down into psike or move
+    - ElementGraph is not just Moove, nodes can be any of the BetaTypes. Ekon branches down into psike or move
 - CheerBeta see Dallas Cowboys Cheerleaders
 - (BetaQuotient)InsteadOf(BetaIndex,BETAMETRON)
 :::

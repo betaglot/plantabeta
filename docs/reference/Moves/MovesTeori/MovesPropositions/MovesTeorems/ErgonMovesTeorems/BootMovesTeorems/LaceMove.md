@@ -1,6 +1,6 @@
-# 🟠 <move>LaceMove</move>
+# 🟠 <mooves>LaceMoove</mooves>
 
-## LaceMove.Anatomy
+## LaceMoove.Anatomy
 
 - End
 - Loop
@@ -15,9 +15,9 @@
 
 - LacePull
 
-## 🕸 LaceMove.Skema
+## 🕸 LaceMoove.Skema
 
-### Related 🟩<eko>Eko</eko>
+### Related 🟩<ekos>Eko</ekos>
 
 -
 
@@ -25,7 +25,7 @@
 
 -
 
-### Related 🟠<move>Move</move>
+### Related 🟠<mooves>Moove</mooves>
 
 -
 

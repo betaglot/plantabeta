@@ -1,4 +1,4 @@
-# <eko>AfternoonTask</eko>
+# <ekos>AfternoonTask</ekos>
 
 In the afternoon it can be difficult to pay attention and it's not possible to consume caffeine to increase attention, so the best use of afternoon time is to explore. Explore and save what you found in Keep.
 

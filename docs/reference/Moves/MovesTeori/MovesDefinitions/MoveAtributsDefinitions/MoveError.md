@@ -1,4 +1,4 @@
-# 🟠<move>MoveError</move>
+# 🟠<mooves>MooveError</mooves>
 
 > any errors that can occur during the practice of this Element
 

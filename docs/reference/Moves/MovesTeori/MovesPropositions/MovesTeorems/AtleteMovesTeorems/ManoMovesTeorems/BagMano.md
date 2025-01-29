@@ -1,10 +1,10 @@
-# 🟠 <move>BagMano</move>
+# 🟠 <mooves>BagMano</mooves>
 
-![MoveIkon](/Move/Move_Ikon.png)
+![MooveIkon](/Moove/Moove_Ikon.png)
 
 ## 🕸 BagMano.Skema
 
-### Related 🟩<eko>Eko</eko>
+### Related 🟩<ekos>Eko</ekos>
 
 -
 
@@ -12,7 +12,7 @@
 
 -
 
-### Related 🟠<move>Move</move>
+### Related 🟠<mooves>Moove</mooves>
 
 -
 
@@ -29,7 +29,7 @@
 <!-- =================================================== -->
 ::: details 🛠 <dev>&&&</dev>
 
-- SuperMove
+- SuperMoove
     - BagLift
     - BagSlide
     - BagAdjust
@@ -41,5 +41,5 @@
 - BagWrinkleMano
     - PanBeta(BJJ, SleeveMano)
     - Used to Mano bag during BagIn.BundleRoll
-    - CacheMove since bags must be close to empty for Wrinkle Mano
+    - CacheMoove since bags must be close to empty for Wrinkle Mano
 :::

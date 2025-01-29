@@ -1,4 +1,4 @@
-# 🟠<move>Breathing</move>
+# 🟠<mooves>Breathing</mooves>
 
 ---
 

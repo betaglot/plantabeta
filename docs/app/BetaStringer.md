@@ -4,7 +4,7 @@ Hover over BetaString token to see its module values.
 
 ```py
 BetaElementModuleValues = {
-    'Move': 'value',
+    'Moove': 'value',
     'Via': 'value',
     'Psike': 'value',
     'Eko': 'value'

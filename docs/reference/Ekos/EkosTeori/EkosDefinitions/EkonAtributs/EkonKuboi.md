@@ -1,4 +1,4 @@
-# 🟩<eko>EkoKuboi</eko>
+# 🟩<ekos>EkoKuboi</ekos>
 
 ## Definition
 

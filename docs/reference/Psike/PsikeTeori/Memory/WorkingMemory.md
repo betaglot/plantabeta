@@ -3,7 +3,7 @@
 
 ![Psike_Ikon](/Psike/Psike_Ikon.png)
 
-## Related 🟩<eko>EkoElements</eko>
+## Related 🟩<ekos>EkoElements</ekos>
 
 -
 

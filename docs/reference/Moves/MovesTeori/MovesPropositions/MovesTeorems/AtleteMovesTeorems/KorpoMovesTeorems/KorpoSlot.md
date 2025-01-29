@@ -1,10 +1,10 @@
-# 🟠 <move>BodySlot</move>
+# 🟠 <mooves>BodySlot</mooves>
 
-![MoveIkon](/Move/Move_Ikon.png)
+![MooveIkon](/Moove/Moove_Ikon.png)
 
 ## 🕸 BodySlot.Skema
 
-### Related 🟩<eko>Eko</eko>
+### Related 🟩<ekos>Eko</ekos>
 
 -
 
@@ -12,7 +12,7 @@
 
 - Traverse
 
-### Related 🟠<move>Move</move>
+### Related 🟠<mooves>Moove</mooves>
 
 - ArmBlock
 - BagShield
@@ -21,7 +21,7 @@
 - SpadeBlock
 - BodyRotate to decrease your cross sectional Width
 - FootPivot
-- TorsoTwist, so your Bags and hips are LateralMove, while Torso is facing Anterior
+- TorsoTwist, so your Bags and hips are LateralMoove, while Torso is facing Anterior
 
 ### Related 💜<psike>Psike</psike>
 
@@ -37,6 +37,6 @@
 ::: details 🛠 <dev>&&&</dev>
 
 - (BodySlot != FloraPass)
-    - Slotting between two trunks or between two rocks doesn't require any FloraMove
+    - Slotting between two trunks or between two rocks doesn't require any FloraMoove
 
 :::

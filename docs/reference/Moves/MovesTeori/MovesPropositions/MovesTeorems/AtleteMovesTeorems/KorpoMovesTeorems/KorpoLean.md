@@ -1,4 +1,4 @@
-# 🟠 <move>BodyLean</move>  🟠
+# 🟠 <mooves>BodyLean</mooves>  🟠
 
 ## 🟠 BodyLean Problem
 
@@ -8,11 +8,11 @@
 
 ## 🟠 BodyLean Solution
 
-![MoveIkon](/Move/Move_Ikon.png)
+![MooveIkon](/Moove/Moove_Ikon.png)
 
 ## 🕸 BodyLean.Skema
 
-### Related 🟩<eko>Eko</eko>
+### Related 🟩<ekos>Eko</ekos>
 
 -
 
@@ -20,7 +20,7 @@
 
 -
 
-### Related 🟠<move>Move</move>
+### Related 🟠<mooves>Moove</mooves>
 
 -
 
@@ -50,6 +50,6 @@
 
 <h2>PageTags</h2>
 
-- "Move.BodyMove.BodyLean"
+- "Moove.BodyMoove.BodyLean"
 
 :::

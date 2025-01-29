@@ -1,4 +1,4 @@
-# 🟠<move>FingerExtension</move>
+# 🟠<mooves>FingerExtension</mooves>
 
 ---
 

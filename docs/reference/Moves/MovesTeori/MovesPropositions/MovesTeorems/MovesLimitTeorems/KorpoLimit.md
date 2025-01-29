@@ -1,4 +1,4 @@
-# 🟠<move>KorpoLimit</move>
+# 🟠<mooves>KorpoLimit</mooves>
 
 ---
 

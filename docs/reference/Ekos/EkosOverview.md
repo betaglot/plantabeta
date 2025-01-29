@@ -1,29 +1,29 @@
-# 🟩  <eko>Eko</eko>
+# 🟩  <ekos>Eko</ekos>
 
 ![Eko_Ikon](/Eko/Eko_Ikon.png)
 
-## What is <eko>Eko</eko>?
+## What is <ekos>Eko</ekos>?
 
 Eko is Geology and Biology
 
-::: details Why is it called <eko>Eko</eko>?
+::: details Why is it called <ekos>Eko</ekos>?
 
-## Etymology of "<eko>Eko</eko>"
+## Etymology of "<ekos>Eko</ekos>"
 
-The name of the Eko module is derived from <eko>eko</eko>system
+The name of the Eko module is derived from <ekos>eko</ekos>system
 
 The British Columbian Government's [definition](https://www2.gov.bc.ca/gov/content/environment/plants-animals-ecosystems/ecosystems):
 > An ecosystem is a collection of communities of both living and non-living things that are connected. The biotic elements in an ecosystem include living things such as plants and animals. The abiotic elements found in an ecosystem include non-living things like land forms or climate.
 
-The word "<eko>eko</eko>system" was derived from <eko>eko</eko>logy
+The word "<ekos>eko</ekos>system" was derived from <ekos>eko</ekos>logy
 
-> (originally as <eko>oeco</eko>logy ): from Greek <eko>oikos</eko> ‘house’ + -logy.
+> (originally as <ekos>oeco</ekos>logy ): from Greek <ekos>oikos</ekos> ‘house’ + -logy.
 
-In PutPlant's <beta>Beta system</beta> the <eko>Eko</eko> module represents the <eko>homes</eko> of the Dendrons that you're planting.
+In PutPlant's <beta>Beta system</beta> the <ekos>Eko</ekos> module represents the <ekos>homes</ekos> of the Dendrons that you're planting.
 
 :::
 
-## <eko>What are Eko Factors?</eko>
+## <ekos>What are Eko Factors?</ekos>
 
 Eko Elements are prefixed by a 🟩 green square icon
 
@@ -35,7 +35,7 @@ Eko Elements are prefixed by a 🟩 green square icon
 - Eko Property
 - Eko Method
 
-### <eko>What are Eko Objects?</eko>
+### <ekos>What are Eko Objects?</ekos>
 
 ```py
 {
@@ -55,17 +55,17 @@ Eko Elements are prefixed by a 🟩 green square icon
 }
 ```
 
-## <eko>What are Eko Attributes?</eko>
+## <ekos>What are Eko Attributes?</ekos>
 
-## <eko>What are Eko Methods?</eko>
+## <ekos>What are Eko Methods?</ekos>
 
-🟩<eko>Atmosphere.Wind()</eko>
+🟩<ekos>Atmosphere.Wind()</ekos>
 
-🟩<eko>Water.Splash()</eko>
+🟩<ekos>Water.Splash()</ekos>
 
-🟩<eko>Soil.Collapse()</eko>
+🟩<ekos>Soil.Collapse()</ekos>
 
-🟩<eko>Plant.BranchWhip()</eko>
+🟩<ekos>Plant.BranchWhip()</ekos>
 
 ---
 

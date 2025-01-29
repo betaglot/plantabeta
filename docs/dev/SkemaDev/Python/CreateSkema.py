@@ -14,7 +14,7 @@ def CreateSkema():
 
         elementName = splitnamespace[-1] # Get the name after the last "/" delimiter
 
-        outputList.append(f'{{"ElementName": "{elementName}", "Namespace": "{namespace}","SuperElement": [],"SubElement": [],"ConcurrentElement": [],"EkoElement": [],"ViaElement": [],"MoveElement": [],"PsikeElement": []}}')
+        outputList.append(f'{{"ElementName": "{elementName}", "Namespace": "{namespace}","SuperElement": [],"SubElement": [],"ConcurrentElement": [],"EkoElement": [],"ViaElement": [],"MooveElement": [],"PsikeElement": []}}')
 
 
     with open(file_path, 'w') as f:

@@ -1,8 +1,8 @@
-# 🟠<move>SpadeStall</move>
+# 🟠<mooves>SpadeStall</mooves>
 
 ## 🕸 SpadeStall.Skema
 
-### Related 🟩<eko>Eko</eko>
+### Related 🟩<ekos>Eko</ekos>
 
 -
 
@@ -10,9 +10,9 @@
 
 -
 
-### Related 🟠<move>Move</move>
+### Related 🟠<mooves>Moove</mooves>
 
-- 🟠<move>HandCompressMano</move>
+- 🟠<mooves>HandCompressMano</mooves>
 
 ### Related 💜<psike>Psike</psike>
 

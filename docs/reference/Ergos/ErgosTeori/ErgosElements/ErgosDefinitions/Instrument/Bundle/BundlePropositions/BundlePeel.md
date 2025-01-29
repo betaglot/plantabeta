@@ -1,8 +1,8 @@
-# 🟠 <move>BundlePeel</move>
+# 🟠 <mooves>BundlePeel</mooves>
 
 ## 🕸 BundlePeel.Skema
 
-### Related 🟩<eko>Eko</eko>
+### Related 🟩<ekos>Eko</ekos>
 
 -
 
@@ -10,7 +10,7 @@
 
 -
 
-### Related 🟠<move>Move</move>
+### Related 🟠<mooves>Moove</mooves>
 
 -
 
@@ -29,6 +29,6 @@
 
 -
 
-- "Move.InstrumentMove.BundleMove.BundlePeel"
+- "Moove.InstrumentMoove.BundleMoove.BundlePeel"
 
 :::

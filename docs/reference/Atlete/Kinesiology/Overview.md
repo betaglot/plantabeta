@@ -1,4 +1,4 @@
-# 🟠 <move>Kinesiology</move>
+# 🟠 <mooves>Kinesiology</mooves>
 
 ## Fitness and Nutrition
 

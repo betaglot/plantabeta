@@ -2,7 +2,7 @@
 
 Aliases: Flow, Fluidity, Fluency, Transition
 
-## 🟩<eko>Eko.Flux</eko>
+## 🟩<ekos>Eko.Flux</ekos>
 
 - A cliff has low Flux
 - Rolling Hills
@@ -19,12 +19,12 @@ Aliases: Flow, Fluidity, Fluency, Transition
 - Minimize acceleration changes
     - Minimize Turns
 
-## 🟠<move>Move.Flux</move>
+## 🟠<mooves>Moove.Flux</mooves>
 
 - Graceful
-- FluidMove
-- Linked Movement
-    - ((CurrentMove.FinishMove == PostMove.StartMove) = (AnteMove.FinishMove == CurrentMove.StartMove))
+- FluidMoove
+- Linked Moovement
+    - ((CurrentMoove.FinishMoove == PostMoove.StartMoove) = (AnteMoove.FinishMoove == CurrentMoove.StartMoove))
 
 ## 💜<psike>Psike.Flux</psike>
 

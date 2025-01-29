@@ -1,8 +1,8 @@
-# 🟩<eko>Log</eko>
+# 🟩<ekos>Log</ekos>
 
 ## 🕸 Log.Skema
 
-### Related 🟩<eko>Eko</eko>
+### Related 🟩<ekos>Eko</ekos>
 
 -
 
@@ -10,7 +10,7 @@
 
 -
 
-### Related 🟠<move>Move</move>
+### Related 🟠<mooves>Moove</mooves>
 
 -
 

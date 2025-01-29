@@ -1,8 +1,8 @@
-# 🟠<move>LaceTighten</move>
+# 🟠<mooves>LaceTighten</mooves>
 
 ## 🕸 LaceTighten.Skema
 
-### Related 🟩<eko>Eko</eko>
+### Related 🟩<ekos>Eko</ekos>
 
 -
 
@@ -10,7 +10,7 @@
 
 -
 
-### Related 🟠<move>Move</move>
+### Related 🟠<mooves>Moove</mooves>
 
 -
 

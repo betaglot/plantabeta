@@ -1,4 +1,4 @@
-# 🟠<move>FingerAdduction</move>
+# 🟠<mooves>FingerAdduction</mooves>
 
 ---
 

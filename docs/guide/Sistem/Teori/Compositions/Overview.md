@@ -16,13 +16,13 @@ The closest thing to a BetaComposition is a Theatre Composition, since:
     - All BetaTypes
     - Performed in one go, unlike film
 
-> 🟠<move>Dance</move> 🔻<via>to the center</via> of 🟩<eko>the stage</eko> while 💜<psike>singing to music</psike>
+> 🟠<mooves>Dance</mooves> 🔻<via>to the center</via> of 🟩<ekos>the stage</ekos> while 💜<psike>singing to music</psike>
 
-### The movements of actors is a 🟠<move>MOVE Composition</move>
+### The movements of actors is a 🟠<mooves>MOVE Composition</mooves>
 
 ### Stage Directions a 🔻<via>VIA Composition</via>
 
-### Scenery is an 🟩<eko>EKO Composition</eko>
+### Scenery is an 🟩<ekos>EKO Composition</ekos>
 
 ### Music and Speech are 💜<psike>NEURO Compositions</psike>
 
@@ -60,7 +60,7 @@ Etude
 
 ## Visual Composition
 
-## 🟩<eko>MiseEnScene</eko>
+## 🟩<ekos>MiseEnScene</ekos>
 
 - the type of place and situation in which the action of a film or play happens
 - French, mise en scène literally means "the action of putting onto the stage." The term's use originated in stage drama, where it refers to the way actors and scenery props are arranged; as its usage expanded into other narrative arts, its meaning shifted. In film production, mise en scène refers to all of the elements that comprise a single shot; that includes, but is not limited to, the actors, setting, props, costumes, and lighting. The director of a play or film is called the metteur en scène—literally, "one who puts on the stage."

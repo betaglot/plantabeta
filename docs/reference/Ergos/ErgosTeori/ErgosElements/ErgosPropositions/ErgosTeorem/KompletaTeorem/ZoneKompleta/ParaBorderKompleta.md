@@ -6,7 +6,7 @@ Aliases: LinePlanting
 
 ## 🕸 ParaBorderFill.Skema
 
-### Related 🟩<eko>Eko</eko>
+### Related 🟩<ekos>Eko</ekos>
 
 -
 
@@ -14,7 +14,7 @@ Aliases: LinePlanting
 
 -
 
-### Related 🟠<move>Move</move>
+### Related 🟠<mooves>Moove</mooves>
 
 -
 

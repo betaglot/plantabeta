@@ -1,4 +1,4 @@
-# 🟠<move>FingerFlexion</move>
+# 🟠<mooves>FingerFlexion</mooves>
 
 ---
 

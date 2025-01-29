@@ -4,7 +4,7 @@
 
 ## 🕸 Time.Skema
 
-### Related 🟩<eko>Eko</eko>
+### Related 🟩<ekos>Eko</ekos>
 
 -
 
@@ -12,7 +12,7 @@
 
 -
 
-### Related 🟠<move>Move</move>
+### Related 🟠<mooves>Moove</mooves>
 
 -
 
@@ -29,7 +29,7 @@
 <!-- =================================================== -->
 ::: details 🛠 <dev>&&&</dev>
 
-- ❌<error>Move doesn't require Time. (ArmLock, LegLock, Stand, any pose). Stationary Moves don't require Via.</error>
+- ❌<error>Moove doesn't require Time. (ArmLock, LegLock, Stand, any pose). Stationary Mooves don't require Via.</error>
     - A Via of 0 is still a Via. PertainentNegative, music is about the silence between notes
 
 :::

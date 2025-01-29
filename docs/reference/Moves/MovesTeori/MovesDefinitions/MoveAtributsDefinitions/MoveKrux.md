@@ -1,4 +1,4 @@
-# 🟠<move>MoveKrux</move>
+# 🟠<mooves>MooveKrux</mooves>
 
 > the most difficult attribute of this Element
 

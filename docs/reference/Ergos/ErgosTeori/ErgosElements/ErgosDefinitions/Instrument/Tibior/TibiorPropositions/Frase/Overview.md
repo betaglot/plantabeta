@@ -1,4 +1,4 @@
-# 🔷<move>Tibior Frase</move>
+# 🔷<mooves>Tibior Frase</mooves>
 
 ---
 

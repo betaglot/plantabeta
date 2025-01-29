@@ -1,10 +1,10 @@
-# 🟠<move>SpadeBlock</move>
+# 🟠<mooves>SpadeBlock</mooves>
 
 > Block flora using the SpadeCollar
 
 ## 🕸 SpadeBlock.Skema
 
-### Related 🟩<eko>Eko</eko>
+### Related 🟩<ekos>Eko</ekos>
 
 -
 
@@ -12,7 +12,7 @@
 
 -
 
-### Related 🟠<move>Move</move>
+### Related 🟠<mooves>Moove</mooves>
 
 - ArmBlock
 - BagShield
@@ -31,5 +31,5 @@
 ::: details 🛠 <dev>&&&</dev>
 
 - Can be used while Walking or while TreeInsert, like a SpadePry or with a SpadeAma (SpadeAma doesn't require BrazoAma)
-- CollarMano or HandleMano or both, 2ManoMove
+- CollarMano or HandleMano or both, 2ManoMoove
 :::

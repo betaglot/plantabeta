@@ -1,4 +1,4 @@
-# 🏆<atlon>ATLON</atlon>
+# 🏆<atlos>ATLON</atlos>
 
 - Competition
 - The symbol of Atlon is a Trophy 🏆

@@ -28,7 +28,7 @@ Space Size
 
 Via Cell
 
-### [BodySlot](/encyclopedia/Move/BodyMove/BodySlot)
+### [BodySlot](/encyclopedia/Moove/BodyMoove/BodySlot)
 
 When performing a BodySlot between Obstacles, the ViaSpace is the Space between the Obstacles that the Plantor must fit through. If the ViaSpace is narrow, then the Plantor must BodyRotate to fit through the ViaSpace.
 
@@ -71,7 +71,7 @@ Coverin spandrels to show the mortar between ideal tree spacing spgeres
 - ❌<error>TooFar</error>
 - ❌<error>TooClose</error>
 - ViaSpace extends underground. You wouldn't want to step on quicksand
-    - You need to consider what's under a <via>Contact</via> when 🟠<move>Stepping</move> or 🟠<move>OpenHole</move>
+    - You need to consider what's under a <via>Contact</via> when 🟠<mooves>Stepping</mooves> or 🟠<mooves>OpenHole</mooves>
 - ViaSpace is usually directly above Contact
 - Most stable ViaSpace is aligned with Normal
 

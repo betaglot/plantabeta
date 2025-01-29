@@ -10,7 +10,7 @@ Scantily clad Plantors
 
 No genders
 
-### <move>Spade: SpadeMove</move>
+### <mooves>Spade: SpadeMoove</mooves>
 
 - Ace:
 - 2:
@@ -60,7 +60,7 @@ Focus on Emotion and feeling, not abstract computations
 - Q:
 - K:
 
-### <eko>Club: Ekons</eko>
+### <ekos>Club: Ekons</ekos>
 
 - Ace: Cream
 - 2:
@@ -87,7 +87,7 @@ Joker: Rock under cream
 - Achievements Poster
 - ElementWeb
 - ElementTree
-- Move, Via, Eko, Psike, Beta
+- Moove, Via, Eko, Psike, Beta
 - Betaglot Logo
 
 ### CampPoster
@@ -117,7 +117,7 @@ Spaghetti sculpture build
 
 Thick diameter
 
-Dyed for Move Direction Extension or Flexion like yoga book,
+Dyed for Moove Direction Extension or Flexion like yoga book,
  WholeGrain
 
 ## Clothes

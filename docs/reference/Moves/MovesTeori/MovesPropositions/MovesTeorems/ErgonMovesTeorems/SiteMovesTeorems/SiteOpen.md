@@ -1,12 +1,12 @@
-# 🟠 <move>SiteDilate</move>
+# 🟠 <mooves>SiteDilate</mooves>
 
 Aliases: HoleOpen, Open a Hole
 
-![MoveIkon](/Move/Move_Ikon.png)
+![MooveIkon](/Moove/Moove_Ikon.png)
 
 ## 🕸 SiteOpen.Skema
 
-### Related 🟩<eko>Eko</eko>
+### Related 🟩<ekos>Eko</ekos>
 
 -
 
@@ -14,7 +14,7 @@ Aliases: HoleOpen, Open a Hole
 
 -
 
-### Related 🟠<move>Move</move>
+### Related 🟠<mooves>Moove</mooves>
 
 -
 

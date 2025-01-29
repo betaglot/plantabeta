@@ -1,4 +1,4 @@
-# 🟠<move>CollarKontakt</move>
+# 🟠<mooves>CollarKontakt</mooves>
 
 ---
 

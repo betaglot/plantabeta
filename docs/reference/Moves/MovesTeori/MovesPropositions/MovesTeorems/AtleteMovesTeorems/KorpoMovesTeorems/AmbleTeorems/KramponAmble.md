@@ -1,4 +1,4 @@
-# 🟠<move>KramponAmble</move>
+# 🟠<mooves>KramponAmble</mooves>
 
 ---
 

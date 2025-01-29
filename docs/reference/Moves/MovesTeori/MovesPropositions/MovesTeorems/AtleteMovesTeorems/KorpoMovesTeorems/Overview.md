@@ -1,12 +1,12 @@
-# 🟠 <move>BodyMove</move>
+# 🟠 <mooves>BodyMoove</mooves>
 
 ## Body Anatomy
 
 ## Body Attributes
 
-## 🕸 BodyMove.Skema
+## 🕸 BodyMoove.Skema
 
-### Related 🟩<eko>Eko</eko>
+### Related 🟩<ekos>Eko</ekos>
 
 -
 
@@ -14,7 +14,7 @@
 
 -
 
-### Related 🟠<move>Move</move>
+### Related 🟠<mooves>Moove</mooves>
 
 -
 
@@ -36,15 +36,15 @@
 
 <h2>PageTags</h2>
 
-- "Move.BodyMove.BodyDrop.BodyDropInto"
-- "Move.BodyMove.BodyLock"
-- "Move.BodyMove.BodyPosture"
-- "Move.BodyMove.Landing"
-- "Move.BodyMove.Landing.MoveError.BaseAma"
-- "Move.BodyMove.Mantle"
-- "Move.BodyMove.Overview"
-- "Move.BodyMove.Stemming"
-- "Move.BodyMove.Straddle"
+- "Moove.BodyMoove.BodyDrop.BodyDropInto"
+- "Moove.BodyMoove.BodyLock"
+- "Moove.BodyMoove.BodyPosture"
+- "Moove.BodyMoove.Landing"
+- "Moove.BodyMoove.Landing.MooveError.BaseAma"
+- "Moove.BodyMoove.Mantle"
+- "Moove.BodyMoove.Overview"
+- "Moove.BodyMoove.Stemming"
+- "Moove.BodyMoove.Straddle"
 - Body move overview every single move is a body move so body move is the superset of everything because a plantor is a body so there's body moves and then there's each limb has their own particular variation for about for a body move body moves
 
 - a good image for the body move would be I think it'd be a good idea to have a picture of the body that plantors don't normally see so like a top few would be good body moves the biggest

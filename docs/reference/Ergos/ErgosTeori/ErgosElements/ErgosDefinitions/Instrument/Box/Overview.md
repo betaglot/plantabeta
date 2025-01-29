@@ -1,12 +1,12 @@
-# 🟠 <move>BoxMove</move>
+# 🟠 <mooves>BoxMoove</mooves>
 
 🔻<via>BoxHandle</via> is the main Contact of Box.
 
 🔻<via>BoxCorner</via> is a Contact used only when carrying a single box.
 
-## 🕸 BoxMove.Skema
+## 🕸 BoxMoove.Skema
 
-### Related 🟩<eko>Eko</eko>
+### Related 🟩<ekos>Eko</ekos>
 
 -
 
@@ -14,7 +14,7 @@
 
 -
 
-### Related 🟠<move>Move</move>
+### Related 🟠<mooves>Moove</mooves>
 
 -
 
@@ -60,9 +60,9 @@
 
 <h2>PageTags</h2>
 
-- "Move.InstrumentMove.BoxMove.BoxOpen"
-- "Move.InstrumentMove.BoxMove.BoxSlide"
-- "Move.InstrumentMove.BoxMove.BoxStack"
-- "Move.InstrumentMove.BoxMove.Overview"
+- "Moove.InstrumentMoove.BoxMoove.BoxOpen"
+- "Moove.InstrumentMoove.BoxMoove.BoxSlide"
+- "Moove.InstrumentMoove.BoxMoove.BoxStack"
+- "Moove.InstrumentMoove.BoxMoove.Overview"
 
 :::

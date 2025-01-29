@@ -1,10 +1,10 @@
-# 🟩<eko>CobbleSoil</eko>
+# 🟩<ekos>CobbleSoil</ekos>
 
 > CobbleSoil An accumulation of rounded particles having a diameter of 64-256 mm. - [CanadianGov](https://sis.agr.gc.ca/cansis/taxa/cssc3/chpt18.html)
 
 ## 🕸 CobbleSoil.Skema
 
-### Related 🟩<eko>Eko</eko>
+### Related 🟩<ekos>Eko</ekos>
 
 -
 
@@ -12,7 +12,7 @@
 
 -
 
-### Related 🟠<move>Move</move>
+### Related 🟠<mooves>Moove</mooves>
 
 -
 

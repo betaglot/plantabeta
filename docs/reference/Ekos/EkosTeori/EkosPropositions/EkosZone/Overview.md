@@ -1,4 +1,4 @@
-# 🟩<eko>EkoZone</eko>
+# 🟩<ekos>EkoZone</ekos>
 
 ---
 

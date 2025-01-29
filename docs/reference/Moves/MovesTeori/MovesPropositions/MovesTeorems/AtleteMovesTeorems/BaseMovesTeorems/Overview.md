@@ -1,4 +1,4 @@
-# 🟠 <move>BaseMove</move>
+# 🟠 <mooves>BaseMoove</mooves>
 
 ## Base.Anatomy
 
@@ -17,9 +17,9 @@
 
 - FootLength
 
-## 🕸 FootMove.Skema
+## 🕸 FootMoove.Skema
 
-### Related 🟩<eko>Eko</eko>
+### Related 🟩<ekos>Eko</ekos>
 
 -
 
@@ -27,7 +27,7 @@
 
 -
 
-### Related 🟠<move>Move</move>
+### Related 🟠<mooves>Moove</mooves>
 
 -
 
@@ -48,19 +48,19 @@
 
 <h2>PageTags</h2>
 
-- "Move.LegMove.HighFoot"
-- "Move.LegMove.LegCircumduction"
-- "Move.LegMove.LegLock"
-- "Move.LegMove.LegReach"
-- "Move.LegMove.LegRockOver"
-- "Move.LegMove.LegRockUp"
-- "Move.LegMove.LegSlot"
-- "Move.LegMove.Overview"
-- "Move.LegMove.SupportingLeg"
+- "Moove.LegMoove.HighFoot"
+- "Moove.LegMoove.LegCircumduction"
+- "Moove.LegMoove.LegLock"
+- "Moove.LegMoove.LegReach"
+- "Moove.LegMoove.LegRockOver"
+- "Moove.LegMoove.LegRockUp"
+- "Moove.LegMoove.LegSlot"
+- "Moove.LegMoove.Overview"
+- "Moove.LegMoove.SupportingLeg"
 
-- "Move.FootMove.FootRoll"
-- "Move.FootMove.FootSlot"
-- "Move.FootMove.FootSmear"
-- "Move.FootMove.Overview"
+- "Moove.FootMoove.FootRoll"
+- "Moove.FootMoove.FootSlot"
+- "Moove.FootMoove.FootSmear"
+- "Moove.FootMoove.Overview"
 
 :::

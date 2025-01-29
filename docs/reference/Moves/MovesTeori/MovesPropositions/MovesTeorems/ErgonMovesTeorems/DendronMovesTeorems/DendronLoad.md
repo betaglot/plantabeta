@@ -1,10 +1,10 @@
-# 🟠 <move>DendroLoad</move>
+# 🟠 <mooves>DendroLoad</mooves>
 
-![MoveIkon](/Move/Move_Ikon.png)
+![MooveIkon](/Moove/Moove_Ikon.png)
 
 ## 🕸 DendroLoad.Skema
 
-### Related 🟩<eko>Eko</eko>
+### Related 🟩<ekos>Eko</ekos>
 
 -
 
@@ -12,7 +12,7 @@
 
 - Deciding where to Mano tree is Via. If you want to TreeFlip then you grab pod, if you want to
 
-### Related 🟠<move>Move</move>
+### Related 🟠<mooves>Moove</mooves>
 
 -
 
@@ -37,5 +37,5 @@
 
 <h2>PageTags</h2>
 
-- "Move.ArmMove.TreeLoad"
+- "Moove.ArmMoove.TreeLoad"
 :::

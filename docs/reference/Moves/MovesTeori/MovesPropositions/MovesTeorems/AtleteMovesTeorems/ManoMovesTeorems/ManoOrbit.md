@@ -1,8 +1,8 @@
-# 🟠<move>ManoOrbit</move>
+# 🟠<mooves>ManoOrbit</mooves>
 
 ## 🕸 ManoOrbit.Skema
 
-### Related 🟩<eko>Eko</eko>
+### Related 🟩<ekos>Eko</ekos>
 
 -
 
@@ -10,7 +10,7 @@
 
 -
 
-### Related 🟠<move>Move</move>
+### Related 🟠<mooves>Moove</mooves>
 
 -
 
@@ -30,7 +30,7 @@
 - ManoOrbit.Submove(ManoSlide)
 - ManoOrbit around Collar, Plast, trunk, branch
 - IsometricContraction
-- SuperMove(SpadeOnda, SpadeMuscleUp, SpadePropel)
+- SuperMoove(SpadeOnda, SpadeMuscleUp, SpadePropel)
 - ManoOrbit
 
 :::

@@ -1,10 +1,10 @@
-# 🟠<move>MarkaforMove</move>
+# 🟠<mooves>MarkaforMoove</mooves>
 
 Aliases: Flagger, Flagging Pouch
 
-## 🕸 MarkaforMove.Skema
+## 🕸 MarkaforMoove.Skema
 
-### Related 🟩<eko>Eko</eko>
+### Related 🟩<ekos>Eko</ekos>
 
 -
 
@@ -12,7 +12,7 @@ Aliases: Flagger, Flagging Pouch
 
 -
 
-### Related 🟠<move>Move</move>
+### Related 🟠<mooves>Moove</mooves>
 
 -
 

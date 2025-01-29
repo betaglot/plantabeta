@@ -1,4 +1,4 @@
-# 🟠<move>ThumbExtension</move>
+# 🟠<mooves>ThumbExtension</mooves>
 
 ---
 

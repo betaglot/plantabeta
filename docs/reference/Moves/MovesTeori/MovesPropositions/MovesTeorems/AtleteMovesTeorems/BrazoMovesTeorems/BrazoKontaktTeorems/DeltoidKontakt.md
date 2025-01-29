@@ -1,4 +1,4 @@
-# 🟠<move>DeltoidKontakt</move>
+# 🟠<mooves>DeltoidKontakt</mooves>
 
 ---
 

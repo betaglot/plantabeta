@@ -1,4 +1,4 @@
-# 🟠<move>BrazoExRotation</move>
+# 🟠<mooves>BrazoExRotation</mooves>
 
 ---
 

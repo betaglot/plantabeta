@@ -1,8 +1,8 @@
-# 🟠<move>SiteSelect</move>
+# 🟠<mooves>SiteSelect</mooves>
 
 ## 🕸 SiteSelect.Skema
 
-### Related 🟩<eko>Eko</eko>
+### Related 🟩<ekos>Eko</ekos>
 
 -
 
@@ -10,7 +10,7 @@
 
 -
 
-### Related 🟠<move>Move</move>
+### Related 🟠<mooves>Moove</mooves>
 
 -
 
@@ -27,7 +27,7 @@
 <!-- =================================================== -->
 ::: details 🛠 <dev>&&&</dev>
 
-- Using EyeMove
+- Using EyeMoove
 - You can Select from further away if you stand instead of BodyBend
 
 :::

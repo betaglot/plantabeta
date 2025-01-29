@@ -1,13 +1,13 @@
-# 🟠<move>ShellLayerMove</move>
+# 🟠<mooves>ShellLayerMoove</mooves>
 
-## ❌<error>ShellLayerMove.Error</error>
+## ❌<error>ShellLayerMoove.Error</error>
 
 - Snag
 - Rip
 
-## 🕸 ShellLayerMove.Skema
+## 🕸 ShellLayerMoove.Skema
 
-### Related 🟩<eko>Eko</eko>
+### Related 🟩<ekos>Eko</ekos>
 
 -
 
@@ -15,7 +15,7 @@
 
 -
 
-### Related 🟠<move>Move</move>
+### Related 🟠<mooves>Moove</mooves>
 
 -
 

@@ -21,13 +21,13 @@ All Propositions must be proved
 
 ## Differentiate(Definition, Proposition)
 
-## Differentiate(Via, Move)
+## Differentiate(Via, Moove)
 
 ### Confusion
 
-ViaGravity as acceleration but not by force. Force is Move
+ViaGravity as acceleration but not by force. Force is Moove
 
-Split Newton Kinematics into Via or Move
+Split Newton Kinematics into Via or Moove
 
 ## Differentiate(Via, Eko)
 

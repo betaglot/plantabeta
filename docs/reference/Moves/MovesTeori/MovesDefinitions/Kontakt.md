@@ -1,6 +1,6 @@
-# 🟠<move>Kontakt</move>
+# 🟠<mooves>Kontakt</mooves>
 
-> The surface of a 🟠Move which interfaces with a 🔻Takt or another 🟠Kontakt
+> The surface of a 🟠Moove which interfaces with a 🔻Takt or another 🟠Kontakt
 
 ---
 

@@ -1,14 +1,14 @@
-# 🟠 <move>SiteKlose</move>
+# 🟠 <mooves>SiteKlose</mooves>
 
 Aliases: HoleClose
 
 > to close a container or opening - [Cambridge](https://dictionary.cambridge.org/dictionary/english/seal)
 
-![MoveIkon](/Move/Move_Ikon.png)
+![MooveIkon](/Moove/Moove_Ikon.png)
 
 ## 🕸 HoleSeal.Skema
 
-### Related 🟩<eko>Eko</eko>
+### Related 🟩<ekos>Eko</ekos>
 
 -
 
@@ -16,7 +16,7 @@ Aliases: HoleClose
 
 -
 
-### Related 🟠<move>Move</move>
+### Related 🟠<mooves>Moove</mooves>
 
 -
 

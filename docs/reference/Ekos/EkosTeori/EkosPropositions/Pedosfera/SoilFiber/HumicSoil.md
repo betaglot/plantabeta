@@ -1,10 +1,10 @@
-# 🟩<eko>HumicSoil</eko>
+# 🟩<ekos>HumicSoil</ekos>
 
 > Highly decomposed organic material; small amounts of fiber are present that can be identified as to their botanical origin. Fibers can be easily destroyed by rubbing. - [CanadianGov](https://sis.agr.gc.ca/cansis/taxa/cssc3/chpt18.html)
 
 ## 🕸 HumicSoil.Skema
 
-### Related 🟩<eko>Eko</eko>
+### Related 🟩<ekos>Eko</ekos>
 
 -
 
@@ -12,7 +12,7 @@
 
 -
 
-### Related 🟠<move>Move</move>
+### Related 🟠<mooves>Moove</mooves>
 
 -
 

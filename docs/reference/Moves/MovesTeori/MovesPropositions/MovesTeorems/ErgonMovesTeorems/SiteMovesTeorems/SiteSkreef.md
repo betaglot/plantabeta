@@ -1,4 +1,4 @@
-# 🟠<move>SiteSkreef</move>
+# 🟠<mooves>SiteSkreef</mooves>
 
 ## Skreef.Anatomy
 
@@ -15,7 +15,7 @@
 
 ## 🕸 SiteSkreef.Skema
 
-### Related 🟩<eko>Eko</eko>
+### Related 🟩<ekos>Eko</ekos>
 
 -
 
@@ -23,7 +23,7 @@
 
 - Cover
 
-### Related 🟠<move>Move</move>
+### Related 🟠<mooves>Moove</mooves>
 
 -
 
@@ -40,6 +40,6 @@
 <!-- =================================================== -->
 ::: details 🛠 <dev>&&&</dev>
 
-- SiteSkreef is a Move and an Ekon
+- SiteSkreef is a Moove and an Ekon
 
 :::

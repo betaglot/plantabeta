@@ -12,7 +12,7 @@ All BetaFunctions require at least 2 modules
 
 ## 🔷<beta>Ask(Beta)</beta>
 
-🟠<move>Speak()</move>
+🟠<mooves>Speak()</mooves>
 
 ## 🔷<beta>Link(Beta)</beta>
 
@@ -41,9 +41,9 @@ Abstract Syntax Tree
     - Leg.Step.Over(Log)
 
 3. Separate into <beta>BetaModules</beta> (optional step)
-    - 🟠<move>Leg.Step()</move>
+    - 🟠<mooves>Leg.Step()</mooves>
     - 🔻<via>Over</via>
-    - 🟩<eko>Log</eko>
+    - 🟩<ekos>Log</ekos>
 
 ## 🔷<beta>Give(Beta)</beta>
 
@@ -59,11 +59,11 @@ Abstract Syntax Tree
 
 > to move something or someone into the stated place, position, or direction
 
-### 🔷<beta>Put(<eko>Plant</eko>)</beta>
+### 🔷<beta>Put(<ekos>Plant</ekos>)</beta>
 
 > to plant a plant in the soil
 
-### 🔷<beta>Put(<eko>Root</eko>)</beta>
+### 🔷<beta>Put(<ekos>Root</ekos>)</beta>
 
 > to place a root within a Hole
 
@@ -71,7 +71,7 @@ Stuff into hole
 
 With BareRoots you must often curl the roots into the hole
 
-<eko>Nanosite</eko> is a ViaPoint
+<ekos>Nanosite</ekos> is a ViaPoint
 
 ### 🔷<beta>Put(<via>Marka</via>)</beta>
 
@@ -83,15 +83,15 @@ With BareRoots you must often curl the roots into the hole
 
 Trees/Time
 
-### 🔷<beta>Put(<move>Hood</move>)</beta>
+### 🔷<beta>Put(<mooves>Hood</mooves>)</beta>
 
-### 🔷<beta>Put(<move>Boot</move>)</beta>
+### 🔷<beta>Put(<mooves>Boot</mooves>)</beta>
 
 > put your boot onto a Contact
 
-🟠<move>Step()</move>
+🟠<mooves>Step()</mooves>
 
-🟠<move>BootSlide</move>
+🟠<mooves>BootSlide</mooves>
 
 ### 🔷<beta>Put(<psike>Memory</psike>)</beta>
 
@@ -111,17 +111,17 @@ Trees/Time
 
 "Do you get it?"
 
-### 🔷<beta>Get(<eko>Plant</eko>)</beta>
+### 🔷<beta>Get(<ekos>Plant</ekos>)</beta>
 
 > to obtain an EkoElement
 
-#### 🔷<beta>Get(<eko>Tree</eko>)</beta>
+#### 🔷<beta>Get(<ekos>Tree</ekos>)</beta>
 
-#### 🔷<beta>Get(<eko>Bundle</eko>)</beta>
+#### 🔷<beta>Get(<ekos>Bundle</ekos>)</beta>
 
-#### 🔷<beta>Get(<eko>Box</eko>)</beta>
+#### 🔷<beta>Get(<ekos>Box</ekos>)</beta>
 
-#### 🔷<beta>Get(<eko>Log</eko>)</beta>
+#### 🔷<beta>Get(<ekos>Log</ekos>)</beta>
 
 ### 🔷<beta>Get(<via>Via</via>)</beta>
 

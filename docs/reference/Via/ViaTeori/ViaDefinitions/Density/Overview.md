@@ -1,9 +1,9 @@
 # 🔻<via>Density</via>
 
-- 🟠<move>MoveDensity</move>
-    - Moves per Zone
-    - Walking is LowMoveDensity
-- 🟩<eko>FloraDensity</eko>
+- 🟠<mooves>MooveDensity</mooves>
+    - Mooves per Zone
+    - Walking is LowMooveDensity
+- 🟩<ekos>FloraDensity</ekos>
     - Flora per Zone
 - 🔻<via>SiteDensity</via>
     - Sites per Zone

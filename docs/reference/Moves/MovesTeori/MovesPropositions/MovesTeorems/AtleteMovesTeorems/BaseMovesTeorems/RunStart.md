@@ -1,21 +1,21 @@
-# 🟠 <move>RunStart</move>
+# 🟠 <mooves>RunStart</mooves>
 
-![MoveIkon](/Move/Move_Ikon.png)
+![MooveIkon](/Moove/Moove_Ikon.png)
 
 ## 🕸 RunStart.Skema
 
-### Related 🟩<eko>Eko</eko>
+### Related 🟩<ekos>Eko</ekos>
 
-- 🟩<eko>SteepSlope</eko>
+- 🟩<ekos>SteepSlope</ekos>
     - RunStart too gain momentum to climb a SteepSlope
 
 ### Related 🔻<via>Via</via>
 
 -
 
-### Related 🟠<move>Move</move>
+### Related 🟠<mooves>Moove</mooves>
 
-- 🟠<move>Jump</move>
+- 🟠<mooves>Jump</mooves>
     - RunStart too gain momentum to Jump horzontally
 
 ### Related 💜<psike>Psike</psike>
@@ -35,5 +35,5 @@
 
 <h2>PageTags</h2>
 
-- "Move.LegMove.RunningStart"
+- "Moove.LegMoove.RunningStart"
 :::

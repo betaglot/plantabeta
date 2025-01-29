@@ -1,4 +1,4 @@
-# 🟩  <eko>BurnPit</eko>🟩
+# 🟩  <ekos>BurnPit</ekos>🟩
 
 - The area of Eko which is the remants of a burnt BurnPile.
 
@@ -8,7 +8,7 @@
 
 ## 🕸 BurnPit.Skema
 
-### Related 🟩<eko>Eko</eko>
+### Related 🟩<ekos>Eko</ekos>
 
 -
 
@@ -16,7 +16,7 @@
 
 -
 
-### Related 🟠<move>Move</move>
+### Related 🟠<mooves>Moove</mooves>
 
 -
 

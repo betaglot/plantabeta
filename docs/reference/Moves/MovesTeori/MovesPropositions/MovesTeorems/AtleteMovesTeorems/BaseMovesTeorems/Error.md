@@ -1,1 +1,1 @@
-# 🟠<move>LegError</move>
+# 🟠<mooves>LegError</mooves>

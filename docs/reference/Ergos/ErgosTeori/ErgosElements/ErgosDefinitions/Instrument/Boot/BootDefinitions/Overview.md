@@ -1,4 +1,4 @@
-# 🟠<move>BootDefinitions</move>
+# 🟠<mooves>BootDefinitions</mooves>
 
 ---
 

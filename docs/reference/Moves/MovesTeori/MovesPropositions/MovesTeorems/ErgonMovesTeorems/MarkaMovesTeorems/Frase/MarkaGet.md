@@ -1,6 +1,6 @@
-# 🟠 <move>MarkaGet</move>
+# 🟠 <mooves>MarkaGet</mooves>
 
-![MoveIkon](/Move/Move_Ikon.png)
+![MooveIkon](/Moove/Moove_Ikon.png)
 
 ---
 

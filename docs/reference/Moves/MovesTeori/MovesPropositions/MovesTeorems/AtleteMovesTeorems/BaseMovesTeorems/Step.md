@@ -1,10 +1,10 @@
-# 🟠 <move>Step</move>
+# 🟠 <mooves>Step</mooves>
 
-![MoveIkon](/Move/Move_Ikon.png)
+![MooveIkon](/Moove/Moove_Ikon.png)
 
 ## 🕸 Step.Skema
 
-### Related 🟩<eko>Eko</eko>
+### Related 🟩<ekos>Eko</ekos>
 
 -
 
@@ -12,7 +12,7 @@
 
 -
 
-### Related 🟠<move>Move</move>
+### Related 🟠<mooves>Moove</mooves>
 
 -
 
@@ -30,7 +30,7 @@
 ::: details 🛠 <dev>&&&</dev>
 
 - TestStep
-    - SlowMove
+    - SlowMoove
     - Like SpadeTest, Test a Kontakt before putting your full weight on it
         - UnstableSlope
         - SlipperySlope
@@ -40,9 +40,9 @@
 
 <h2>PageTags</h2>
 
-- "Move.LegMove.Step"
-- "Move.LegMove.Step.BackStep"
-- "Move.LegMove.Step.KickStep"
-- "Move.LegMove.Step.SideStep"
+- "Moove.LegMoove.Step"
+- "Moove.LegMoove.Step.BackStep"
+- "Moove.LegMoove.Step.KickStep"
+- "Moove.LegMoove.Step.SideStep"
 
 :::

@@ -54,6 +54,6 @@ Use TagSpaces or equivalent
 - "Dev.Transcription"
 - "Dev.Transcription.TranscriptionFrase"
 - "Dev.VideoAnalysis.VideoTagging"
-- "Move.MoveVideo"
+- "Moove.MooveVideo"
 
 :::

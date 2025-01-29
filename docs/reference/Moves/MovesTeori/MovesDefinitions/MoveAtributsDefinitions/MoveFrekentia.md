@@ -1,4 +1,4 @@
-# 🟠<move>MoveFrekentia</move>
+# 🟠<mooves>MooveFrekentia</mooves>
 
 > the statistics of this Element
 

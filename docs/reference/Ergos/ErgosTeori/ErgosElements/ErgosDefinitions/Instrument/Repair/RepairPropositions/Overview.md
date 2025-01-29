@@ -1,4 +1,4 @@
-# 🟠<move>RepairPropositions</move>
+# 🟠<mooves>RepairPropositions</mooves>
 
 ---
 

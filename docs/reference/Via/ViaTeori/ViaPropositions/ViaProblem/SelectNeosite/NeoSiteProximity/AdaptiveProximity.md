@@ -25,9 +25,9 @@ Graph which represents how this element is related to other elements in PlantaBe
 
 - WorkingMemory
 
-## MoveElements
+## MooveElements
 
-- MoveSize
+- MooveSize
 - LookAt
 - ExtraStep
 

@@ -143,7 +143,7 @@ Periods
 
 ## <dev>Color</dev>
 
-### <move>MoveColor</move>
+### <mooves>MooveColor</mooves>
 
 ```md
 
@@ -163,7 +163,7 @@ Periods
 #569cd6 
 ```
 
-### <eko>EcoColor</eko>
+### <ekos>EcoColor</ekos>
 
 ```ts
 #6a9955 
@@ -181,22 +181,31 @@ Periods
 #1f1f1f
 ```
 
-## Icon
+## Ikon
 
-Icons are only used to represent Objects or Functions.
+Ikons are only used to represent Objects or Functions.
 
-### !Icon
+### (BetaTiposName + BetaIkon)
+
+Initials like ByrneEuklid
+
+🟩 E of Ekos
+🔻 V of Via
+🟠 oo of Moove
+💜 Psike
+
+### !Ikon
 
 Concept, Object Property
 
-MoveTimeline is orange as a header but it is not prefixed with an Icon.
+MooveTimeline is orange as a header but it is not prefixed with an Ikon.
 
 ::: warning Incorrect Syntax
-🟠<move>Arm.🟠<move>ArmPut()</move></move>
+🟠<mooves>Arm.🟠<mooves>ArmPut()</mooves></mooves>
 
-Only the 🟠<move>Arm</move> object is prefixed with an icon. ArmPut is orange but has no icon
+Only the 🟠<mooves>Arm</mooves> object is prefixed with an ikon. ArmPut is orange but has no ikon
 
-🟠<move>Arm.<move>ArmPut()</move></move>
+🟠<mooves>Arm.<mooves>ArmPut()</mooves></mooves>
 
 :::
 
@@ -204,21 +213,21 @@ Only the 🟠<move>Arm</move> object is prefixed with an icon. ArmPut is orange 
 
 ### Tree 🌲
 
-### Face Icons
+### Face Ikons
 
 - Emotion
 - Sleep
 
-### Purpose(Icon)
+### Purpose(Ikon)
 
 - Visual Search
-- For plantors to use the Icons
-- Each Icon can be easily handwritten, since electronics don't do well in extreme weather, in terms of breaking and in UX. You can't easily view a screen in summer sun, or rain, definitely not in snow.
+- For plantors to use the Ikons
+- Each Ikon can be easily handwritten, since electronics don't do well in extreme weather, in terms of breaking and in UX. You can't easily view a screen in summer sun, or rain, definitely not in snow.
 
-The BetaModules are aliased as Icons.
+The BetaModules are aliased as Ikons.
 
 ::: tip ?
-When is it useful for Icons to be monochrome outlines?
+When is it useful for Ikons to be monochrome outlines?
 :::
 
 ### Ambifix for Page Title
@@ -231,19 +240,19 @@ When is it useful for Icons to be monochrome outlines?
 
 - Prefix for
 
-### Icon Only
+### Ikon Only
 
-- Which renderer to use for Icons in images?
+- Which renderer to use for Ikons in images?
     - No shading
 
 `eko`
 
 <beta>`eko`</beta>
 
-<code><move>eko</move></code>
+<code><mooves>eko</mooves></code>
 
 ```html
-<code><move>eko</move></code>
+<code><mooves>eko</mooves></code>
 ```
 
 ## <dev>DesignBox</dev>
@@ -258,7 +267,7 @@ Delete tags once converted to headers. They are stored in a JSON
 
 ```md
 
-### 🟠 <dev>DesignBox</dev><move>.Move</move>
+### 🟠 <dev>DesignBox</dev><mooves>.Moove</mooves>
 
 ```md
 ---
@@ -273,11 +282,11 @@ Delete tags once converted to headers. They are stored in a JSON
 -
 
 :::
-# 🟠 <move>Move</move>
+# 🟠 <mooves>Moove</mooves>
 
 ```md
 
-### 🟩 <dev>DesignBox</dev><eko>.Eko</eko>
+### 🟩 <dev>DesignBox</dev><ekos>.Eko</ekos>
 
 ```md
 ---
@@ -292,7 +301,7 @@ Delete tags once converted to headers. They are stored in a JSON
 -
 
 :::
-# 🟩 <eko>Eko</eko>
+# 🟩 <ekos>Eko</ekos>
 
 ```md
 
@@ -414,7 +423,7 @@ Should "via" be used as natural language? "Get to the next page via the link at 
 
 ## <dev>ElementPageDesign</dev>
 
-## <move>MovePage.BaseLayout</move>
+## <mooves>MoovePage.BaseLayout</mooves>
 
 ### Definition
 
@@ -422,7 +431,7 @@ Should "via" be used as natural language? "Get to the next page via the link at 
 
 ### Taxonomy
 
-#### Move.SubMove
+#### Moove.SubMoove
 
 ::: tip
 
@@ -432,15 +441,15 @@ It doesn't matter if nobody looks at it.
 
 :::
 
-- Subset of Move
+- Subset of Moove
 
-#### Move.SuperMove
+#### Moove.SuperMoove
 
-- Superset of Move
+- Superset of Moove
 
 ```py
 
-ArmKurve.SuperMove = ArmMove
+ArmKurve.SuperMoove = ArmMoove
 
 ```
 
@@ -448,38 +457,38 @@ ArmKurve.SuperMove = ArmMove
 
 - Description of a useful image in mind's eye
 - Link to image
-- Link to PaperPhoto. Draw a rough sketch of the Move, be sure to clearly Tag the sketch in the Head of the paper.
+- Link to PaperPhoto. Draw a rough sketch of the Moove, be sure to clearly Tag the sketch in the Head of the paper.
     - Capture then Upload the Photo with Phone
 
-### Move.Purpose
+### Moove.Purpose
 
 The purpose is usually affect other BetaElements
 
-### Move.AnteMove
+### Moove.AnteMoove
 
-Syntax: `Move.AnteMove`
+Syntax: `Moove.AnteMoove`
 
 - How they transition to each other
 
-### Move.PostMove
+### Moove.PostMoove
 
-### Move.Via
+### Moove.Via
 
-- How does this Move interface with Eko?
-- Where in the Via is this Move performed?
+- How does this Moove interface with Eko?
+- Where in the Via is this Moove performed?
 
-### Move.Eko
+### Moove.Eko
 
-Where in Eko is this Move performed and on what EkoElement. Put "the ground" if necessary. Nothing is too obvious in formal languages!
+Where in Eko is this Moove performed and on what EkoElement. Put "the ground" if necessary. Nothing is too obvious in formal languages!
 
-### Move.Psike
+### Moove.Psike
 
 - Control Flow Statements for alternative moves
 
-### Move.Error
+### Moove.Error
 
 - Any errors in ControlFlow
-- MoveExecutionError
+- MooveExecutionError
 - Error which is caused by Eko
     - Soil Collapse
     - Wood breaking
@@ -487,7 +496,7 @@ Where in Eko is this Move performed and on what EkoElement. Put "the ground" if 
 
 ## <via>ViaPage.BaseLayout</via>
 
-### <via>Via.Move</via>
+### <via>Via.Moove</via>
 
 ### <via>Via.Psike</via>
 
@@ -501,7 +510,7 @@ Where in Eko is this Move performed and on what EkoElement. Put "the ground" if 
 
 ## <beta>BetaPage.BaseLayout</beta>
 
-## <eko>EcoPage.BaseLayout</eko>
+## <ekos>EcoPage.BaseLayout</ekos>
 
 ---
 

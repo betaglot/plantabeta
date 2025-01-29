@@ -40,7 +40,7 @@ for Bundle in Box:
 
 ### Frase
 
-> A dance phrase or sequence can be likened to a sentence formed when speaking. Sometimes we refer to dance phrases as moto sequences. For the purpose of this lesson either term is acceptable. Each phrase has a beginning, middle, and end. Moves selected in a dance phrase may flow one to the other naturally or may be connected by a transition Move. Evolving dance sequences from action words is another way to demystify the creative process. Action words lead to the formation of individual dance phrases and provide the framework for further developing those phrases into larger compositional forms. In this lesson, the action words are common terms used in contemporary dance.
+> A dance phrase or sequence can be likened to a sentence formed when speaking. Sometimes we refer to dance phrases as moto sequences. For the purpose of this lesson either term is acceptable. Each phrase has a beginning, middle, and end. Mooves selected in a dance phrase may flow one to the other naturally or may be connected by a transition Moove. Evolving dance sequences from action words is another way to demystify the creative process. Action words lead to the formation of individual dance phrases and provide the framework for further developing those phrases into larger compositional forms. In this lesson, the action words are common terms used in contemporary dance.
 
 - <https://us.humankinetics.com/blogs/excerpt/phrase-linking-motos>
 
@@ -71,8 +71,8 @@ for Tree in bag:
 class Trench(PrepLand):
  
 
-class SpadeImpact(Move):
-    def __init(self, MoveLocation)
+class SpadeImpact(Moove):
+    def __init(self, MooveLocation)
 ```
 
 ### Instance Variable
@@ -101,7 +101,7 @@ def Put(PlantType: str, Location: str, TreeCount: int, TreeType: str, SkreefBool
 ### Put(Marka)
 
 ```py
-def Put(Marka, MarkaColor: str, MarkaType: str, ManoMove: str)
+def Put(Marka, MarkaColor: str, MarkaType: str, ManoMoove: str)
 ```
 
 ## ReservedWords
@@ -135,9 +135,9 @@ As you move through the land the EcoState is constantly changing. Remember that 
 - TopoState
     - SlopeAngle
 
-### MoveState
+### MooveState
 
-- MoveState
+- MooveState
 - FatigueState
 
 ### NeuroState
@@ -201,7 +201,7 @@ You don't need to communicate Beta all the time, but when you do, PlantaBeta hel
 
 Beta is the syntax
 
-Moves are the objects and functions
+Mooves are the objects and functions
 
 Plantbeta can be used in Planting and Climbing, on PlantaBeta.com and Klimbeta.com
 
@@ -238,10 +238,10 @@ for object in BetaList:
 
 <Beta>
     <Via>Cover</Via>
-    <Move>Climb</Move>
-    <eko>Log</eko>
+    <mooves>Climb</mooves>
+    <ekos>Log</ekos>
     <Via>MinimumSpace</Via>
-    <Move>ArmPut</Move>
+    <mooves>ArmPut</mooves>
 </Beta>
 
 ```

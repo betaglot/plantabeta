@@ -1,10 +1,10 @@
-# 🟠<move>SpadePurga</move>
+# 🟠<mooves>SpadePurga</mooves>
 
 Aliases: Spade Clean, Spade Purge
 
 ## 🕸 SpadePurga.Skema
 
-### Related 🟩<eko>Eko</eko>
+### Related 🟩<ekos>Eko</ekos>
 
 -
 
@@ -12,7 +12,7 @@ Aliases: Spade Clean, Spade Purge
 
 -
 
-### Related 🟠<move>Move</move>
+### Related 🟠<mooves>Moove</mooves>
 
 -
 

@@ -1,4 +1,4 @@
-# 🟠<move>MoveKuboi</move>
+# 🟠<mooves>MooveKuboi</mooves>
 
 Formery Known As: PROBABILITAS
 
@@ -29,7 +29,7 @@ Probability of Success
     - Already know what to expect
 - FamiliarityEase
 - Risk decreases when Climber is familiar with the Holds in a Route, especially when HiddenRouteContact.
-- Risk decreases after a Climber repeatedly successfully performs a Movement.
+- Risk decreases after a Climber repeatedly successfully performs a Moovement.
 
 ## Accuracy
 

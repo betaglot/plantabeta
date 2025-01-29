@@ -1,4 +1,4 @@
-# 🟠 <move>MarkaRoll</move>
+# 🟠 <mooves>MarkaRoll</mooves>
 
 ## MarkaUnroll
 
@@ -14,7 +14,7 @@
 
 ## 🕸 MarkaRoll.Skema
 
-### Related 🟩<eko>Eko</eko>
+### Related 🟩<ekos>Eko</ekos>
 
 -
 
@@ -22,7 +22,7 @@
 
 -
 
-### Related 🟠<move>Move</move>
+### Related 🟠<mooves>Moove</mooves>
 
 -
 
@@ -43,5 +43,5 @@
 
 <h2>PageTags</h2>
 
-- "Move.InstrumentMove.MarkaMove.MarkaRoll"
+- "Moove.InstrumentMoove.MarkaMoove.MarkaRoll"
 :::

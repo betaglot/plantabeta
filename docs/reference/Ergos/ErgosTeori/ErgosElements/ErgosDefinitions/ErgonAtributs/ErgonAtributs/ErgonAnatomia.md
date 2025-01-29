@@ -1,14 +1,14 @@
-# 🟩<eko>EkoAnatomia</eko>
+# 🟩<ekos>EkoAnatomia</ekos>
 
 > the parts of the Element
 
 ## Examples
 
-- 🟩<eko>Stump</eko>
+- 🟩<ekos>Stump</ekos>
     - Top of Stump
     - Side
     - Buttress
-- 🟠<move>HeelHook</move>
+- 🟠<mooves>HeelHook</mooves>
     - Foot
     - Shoe
     - Leg

@@ -1,11 +1,11 @@
-# 🟠 <move>SuperPropel</move>
+# 🟠 <mooves>SuperPropel</mooves>
 
 - Superman Punch
 - 300 Spartan Jumping Thrust
 
 ## 🕸 SuperPropel.Skema
 
-### Related 🟩<eko>Eko</eko>
+### Related 🟩<ekos>Eko</ekos>
 
 -
 
@@ -13,7 +13,7 @@
 
 -
 
-### Related 🟠<move>Move</move>
+### Related 🟠<mooves>Moove</mooves>
 
 -
 

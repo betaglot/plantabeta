@@ -1,4 +1,4 @@
-# 🟠<move>BoxDefinitions</move>
+# 🟠<mooves>BoxDefinitions</mooves>
 
 ---
 

@@ -1,4 +1,4 @@
-# 🟠<move>PlantaforDefinitions</move>
+# 🟠<mooves>PlantaforDefinitions</mooves>
 
 ---
 

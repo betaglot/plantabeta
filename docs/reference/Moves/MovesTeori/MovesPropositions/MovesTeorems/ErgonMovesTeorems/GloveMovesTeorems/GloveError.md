@@ -1,1 +1,1 @@
-# 🟠<move>GloveError</move>
+# 🟠<mooves>GloveError</mooves>

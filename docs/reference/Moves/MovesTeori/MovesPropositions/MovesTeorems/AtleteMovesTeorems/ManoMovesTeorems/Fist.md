@@ -1,4 +1,4 @@
-# 🟠<move>Fist</move>
+# 🟠<mooves>Fist</mooves>
 
 ---
 

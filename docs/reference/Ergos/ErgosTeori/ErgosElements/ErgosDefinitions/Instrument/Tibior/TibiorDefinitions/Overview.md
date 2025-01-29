@@ -1,4 +1,4 @@
-# 🟠<move>TibiorDefinitions</move>
+# 🟠<mooves>TibiorDefinitions</mooves>
 
 ---
 

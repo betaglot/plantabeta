@@ -1,4 +1,4 @@
-# 🟠<move>SpadePost</move>
+# 🟠<mooves>SpadePost</mooves>
 
 - Post spade when setting up or returning to cache for easier grabbing with full bags. No bend and easier Find(Spade)
 
@@ -6,7 +6,7 @@
 
 ## 🕸 SpadePost.Skema
 
-### Related 🟩<eko>Eko</eko>
+### Related 🟩<ekos>Eko</ekos>
 
 -
 
@@ -14,7 +14,7 @@
 
 -
 
-### Related 🟠<move>Move</move>
+### Related 🟠<mooves>Moove</mooves>
 
 -
 

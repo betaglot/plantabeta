@@ -1,4 +1,4 @@
-# 🟠<move>FingerKontakt</move>
+# 🟠<mooves>FingerKontakt</mooves>
 
 ---
 

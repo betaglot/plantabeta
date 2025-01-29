@@ -1,12 +1,12 @@
-# 🟠 <move>NeckFlexion</move>
+# 🟠 <mooves>NeckFlexion</mooves>
 
 > Looking down
 
-![MoveIkon](/Move/Move_Ikon.png)
+![MooveIkon](/Moove/Moove_Ikon.png)
 
 ## 🕸 NeckFlexion.Skema
 
-### Related 🟩<eko>Eko</eko>
+### Related 🟩<ekos>Eko</ekos>
 
 -
 
@@ -14,7 +14,7 @@
 
 -
 
-### Related 🟠<move>Move</move>
+### Related 🟠<mooves>Moove</mooves>
 
 -
 
@@ -35,5 +35,5 @@
 
 <h2>PageTags</h2>
 
-- "Move.HeadMove.NeckFlexion"
+- "Moove.HeadMoove.NeckFlexion"
 :::

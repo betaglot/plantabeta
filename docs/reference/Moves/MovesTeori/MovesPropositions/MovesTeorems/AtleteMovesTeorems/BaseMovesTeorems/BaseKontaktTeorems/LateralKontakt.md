@@ -1,4 +1,4 @@
-# 🟠<move>LateralKontakt</move>
+# 🟠<mooves>LateralKontakt</mooves>
 
 ---
 

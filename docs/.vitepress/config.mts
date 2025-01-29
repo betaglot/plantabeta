@@ -61,8 +61,8 @@ export default defineConfig({
 //       text: '<dev>Graphics</dev>', collapsed: true, items: [
 //         { text: '<dev>Overview</dev>', link: '/dev/Graphics/Overview' },
 //         { text: '<beta>Beta Graphics</beta>', link: '/dev/Graphics/BetaGraphic' },
-//         { text: '<eko>Eko Graphics</eko>', link: '/dev/Graphics/EcoGraphic' },
-//         { text: '<move>Move Graphics</move>', link: '/dev/Graphics/MoveGraphic' },
+//         { text: '<ekos>Eko Graphics</ekos>', link: '/dev/Graphics/EcoGraphic' },
+//         { text: '<mooves>Move Graphics</mooves>', link: '/dev/Graphics/MoveGraphic' },
 //         { text: '<psike>Psike Graphics</psike>', link: '/dev/Graphics/NeuroGraphic' },
 //         { text: '<via>Via Graphics</via>', link: '/dev/Graphics/ViaGraphic' },
 //         { text: 'UX Graphics', link: '/dev/Graphics/UXGraphic' },
@@ -133,13 +133,13 @@ export default defineConfig({
 //       collapsed: false,
 //       items: [
 //         { text: 'What is Tree Planting?', link: '/guide/What/WhatTreePlanting' },
-//         { text: 'What is 🔷<beta>Put(<eko>Plant</eko>)</beta>?', link: '/guide/What/WhatPutPlant' },
+//         { text: 'What is 🔷<beta>Put(<ekos>Plant</ekos>)</beta>?', link: '/guide/What/WhatPutPlant' },
 //       ]
 //     },
 //     {
 //       text: 'Purpose', collapsed: false, items: [
-//         { text: '🔥<eko>To Support Ecosystems</eko>', link: '/guide/Why/SupportEcosystem' },
-//         { text: '🟠<move>To Reduce Injury</move>', link: '/guide/Why/Injury' },
+//         { text: '🔥<ekos>To Support Ecosystems</ekos>', link: '/guide/Why/SupportEcosystem' },
+//         { text: '🟠<mooves>To Reduce Injury</mooves>', link: '/guide/Why/Injury' },
 //         { text: '🔻<via>To Increase Productivity</via>', link: '/guide/Why/Productivity' },
 //         { text: '🔷<beta>To Improve Communication</beta>', link: '/guide/Why/Communication' },
 //         { text: '💜<psike>To Steepen Learning Curve</psike>', link: '/guide/Why/LearningCurve' },
@@ -208,382 +208,382 @@ function sidebarReference() {
     },
     // #Eko
     {
-      text: '🟩 <eko>Eko</eko>', collapsed: true, link: '/encyclopedia/Eko/EkoOverview', items: [
+      text: '🟩 <ekos>Eko</ekos>', collapsed: true, link: '/encyclopedia/Eko/EkoOverview', items: [
         {
-          text: '🔷 <eko>Eko Theoria</eko>', link: '/encyclopedia/Eko/EkoTheoria', collapsed: true, items: [
-            { text: '🟩 <eko>EcoTeknik</eko>', link: '/encyclopedia/Eko/EcoTheoria/EcoTeknik' },
-            { text: '🟩 <eko>EcoKratos</eko>', link: '/encyclopedia/Eko/EcoTheoria/EcoKratos' },
-            { text: '🟩 <eko>EcoProbability</eko>', link: '/encyclopedia/Eko/EcoTheoria/EcoProbability' },
+          text: '🔷 <ekos>Eko Theoria</ekos>', link: '/encyclopedia/Eko/EkoTheoria', collapsed: true, items: [
+            { text: '🟩 <ekos>EcoTeknik</ekos>', link: '/encyclopedia/Eko/EcoTheoria/EcoTeknik' },
+            { text: '🟩 <ekos>EcoKratos</ekos>', link: '/encyclopedia/Eko/EcoTheoria/EcoKratos' },
+            { text: '🟩 <ekos>EcoProbability</ekos>', link: '/encyclopedia/Eko/EcoTheoria/EcoProbability' },
           ]
         },
         {
-          text: '🟩 <eko>Animals</eko>', link: '/encyclopedia/Eko/Animals/Overview', collapsed: true, items: [
+          text: '🟩 <ekos>Animals</ekos>', link: '/encyclopedia/Eko/Animals/Overview', collapsed: true, items: [
           ]
         },
         {
-          text: '🟩 <eko>Atmosphere</eko>', link: '/encyclopedia/Eko/Atmosphere/Overview', collapsed: true, items: [
-            { text: '🟩 <eko>AirTemperature</eko>', link: '/encyclopedia/Eko/Atmosphere/AirTemperature' },
-            { text: '🟩 <eko>Humidity</eko>', link: '/encyclopedia/Eko/Atmosphere/Humidity' },
-            { text: '🟩 <eko>Precipitation</eko>', link: '/encyclopedia/Eko/Atmosphere/Precipitation' },
-            { text: '🟩 <eko>Wind</eko>', link: '/encyclopedia/Eko/Atmosphere/Wind' },
+          text: '🟩 <ekos>Atmosphere</ekos>', link: '/encyclopedia/Eko/Atmosphere/Overview', collapsed: true, items: [
+            { text: '🟩 <ekos>AirTemperature</ekos>', link: '/encyclopedia/Eko/Atmosphere/AirTemperature' },
+            { text: '🟩 <ekos>Humidity</ekos>', link: '/encyclopedia/Eko/Atmosphere/Humidity' },
+            { text: '🟩 <ekos>Precipitation</ekos>', link: '/encyclopedia/Eko/Atmosphere/Precipitation' },
+            { text: '🟩 <ekos>Wind</ekos>', link: '/encyclopedia/Eko/Atmosphere/Wind' },
           ]
         },
         {
-          text: '🟩 <eko>Block</eko>', link: '/encyclopedia/Eko/Block/Overview', collapsed: true, items: [
-            { text: '🟩 <eko>FillBlock</eko>', link: '/encyclopedia/Eko/Block/FillBlock' },
-            { text: '🟩 <eko>Road</eko>', link: '/encyclopedia/Eko/Block/Road' },
+          text: '🟩 <ekos>Block</ekos>', link: '/encyclopedia/Eko/Block/Overview', collapsed: true, items: [
+            { text: '🟩 <ekos>FillBlock</ekos>', link: '/encyclopedia/Eko/Block/FillBlock' },
+            { text: '🟩 <ekos>Road</ekos>', link: '/encyclopedia/Eko/Block/Road' },
           ]
         },
         {
-          text: '🟩 <eko>Density</eko>', link: '/encyclopedia/Eko/Density/Overview', collapsed: true, items: [
-            { text: '🟩 <eko>Plot</eko>', link: '/encyclopedia/Eko/Density/Plot' },
+          text: '🟩 <ekos>Density</ekos>', link: '/encyclopedia/Eko/Density/Overview', collapsed: true, items: [
+            { text: '🟩 <ekos>Plot</ekos>', link: '/encyclopedia/Eko/Density/Plot' },
           ]
         },
         {
-          text: '🟩 <eko>LandSpeed</eko>', link: '/encyclopedia/Eko/LandSpeed/Overview', collapsed: true, items: [
-            { text: '🟩 <eko>FastLand</eko>', link: '/encyclopedia/Eko/LandSpeed/FastLand' },
-            { text: '🟩 <eko>SlowLand</eko>', link: '/encyclopedia/Eko/LandSpeed/SlowLand' },
+          text: '🟩 <ekos>LandSpeed</ekos>', link: '/encyclopedia/Eko/LandSpeed/Overview', collapsed: true, items: [
+            { text: '🟩 <ekos>FastLand</ekos>', link: '/encyclopedia/Eko/LandSpeed/FastLand' },
+            { text: '🟩 <ekos>SlowLand</ekos>', link: '/encyclopedia/Eko/LandSpeed/SlowLand' },
           ]
         },
         {
-          text: '🟩 <eko>Obstacle</eko>', link: '/encyclopedia/Eko/Obstacle/Overview', collapsed: true, items: [
-            { text: '🟩 <eko>HoleObstacle</eko>', link: '/encyclopedia/Eko/Obstacle/HoleObstacle' },
-            { text: '🟩 <eko>LogObstacle</eko>', link: '/encyclopedia/Eko/Obstacle/LogObstacle' },
-            { text: '🟩 <eko>MicrositeObstacle</eko>', link: '/encyclopedia/Eko/Obstacle/MicrositeObstacle' },
-            { text: '🟩 <eko>RockObstacle</eko>', link: '/encyclopedia/Eko/Obstacle/RockObstacle' },
-            { text: '🟩 <eko>StumpObstacle</eko>', link: '/encyclopedia/Eko/Obstacle/StumpObstacle' },
+          text: '🟩 <ekos>Obstacle</ekos>', link: '/encyclopedia/Eko/Obstacle/Overview', collapsed: true, items: [
+            { text: '🟩 <ekos>HoleObstacle</ekos>', link: '/encyclopedia/Eko/Obstacle/HoleObstacle' },
+            { text: '🟩 <ekos>LogObstacle</ekos>', link: '/encyclopedia/Eko/Obstacle/LogObstacle' },
+            { text: '🟩 <ekos>MicrositeObstacle</ekos>', link: '/encyclopedia/Eko/Obstacle/MicrositeObstacle' },
+            { text: '🟩 <ekos>RockObstacle</ekos>', link: '/encyclopedia/Eko/Obstacle/RockObstacle' },
+            { text: '🟩 <ekos>StumpObstacle</ekos>', link: '/encyclopedia/Eko/Obstacle/StumpObstacle' },
           ]
         },
         {
-          text: '🟩 <eko>Piece</eko>', link: '/encyclopedia/Eko/Piece/Overview', collapsed: true, items: [
-            { text: '🟩 <eko>PieceTopography</eko>', link: '/encyclopedia/Eko/Piece/PieceTopography' },
+          text: '🟩 <ekos>Piece</ekos>', link: '/encyclopedia/Eko/Piece/Overview', collapsed: true, items: [
+            { text: '🟩 <ekos>PieceTopography</ekos>', link: '/encyclopedia/Eko/Piece/PieceTopography' },
           ]
         },
         {
-          text: '🟩 <eko>Prep</eko>', link: '/encyclopedia/Eko/Prep/Overview', collapsed: true, items: [
-            { text: '🟩 <eko>MoundLand</eko>', link: '/encyclopedia/Eko/Prep/MoundLand' },
-            { text: '🟩 <eko>TrenchLand</eko>', link: '/encyclopedia/Eko/Prep/TrenchLand' },
-            { text: '🟩 <eko>DeactivatedRoad</eko>', link: '/encyclopedia/Eko/Prep/TrenchLand' },
+          text: '🟩 <ekos>Prep</ekos>', link: '/encyclopedia/Eko/Prep/Overview', collapsed: true, items: [
+            { text: '🟩 <ekos>MoundLand</ekos>', link: '/encyclopedia/Eko/Prep/MoundLand' },
+            { text: '🟩 <ekos>TrenchLand</ekos>', link: '/encyclopedia/Eko/Prep/TrenchLand' },
+            { text: '🟩 <ekos>DeactivatedRoad</ekos>', link: '/encyclopedia/Eko/Prep/TrenchLand' },
           ]
         },
         {
-          text: '🟩 <eko>Raw</eko>', link: '/encyclopedia/Eko/Raw/Overview', collapsed: true, items: [
-            { text: '🟩 <eko>StumpLand</eko>', link: '/encyclopedia/Eko/Raw/StumpLand' },
-            { text: '🟩 <eko>BurntLand</eko>', link: '/encyclopedia/Eko/Raw/BurntLand' },
-            { text: '🟩 <eko>RiparianLand</eko>', link: '/encyclopedia/Eko/Raw/RiparianLand' },
-            { text: '🟩 <eko>RockyLand</eko>', link: '/encyclopedia/Eko/Raw/RockyLand' },
+          text: '🟩 <ekos>Raw</ekos>', link: '/encyclopedia/Eko/Raw/Overview', collapsed: true, items: [
+            { text: '🟩 <ekos>StumpLand</ekos>', link: '/encyclopedia/Eko/Raw/StumpLand' },
+            { text: '🟩 <ekos>BurntLand</ekos>', link: '/encyclopedia/Eko/Raw/BurntLand' },
+            { text: '🟩 <ekos>RiparianLand</ekos>', link: '/encyclopedia/Eko/Raw/RiparianLand' },
+            { text: '🟩 <ekos>RockyLand</ekos>', link: '/encyclopedia/Eko/Raw/RockyLand' },
           ]
         },
         {
-          text: '🟩 <eko>Slash</eko>', link: '/encyclopedia/Eko/Slash/Overview', collapsed: true, items: [
-            { text: '🟩 <eko>BurnPileSlash</eko>', link: '/encyclopedia/Eko/Slash/BurnPileSlash' },
-            { text: '🟩 <eko>HighSlash</eko>', link: '/encyclopedia/Eko/Slash/HighSlash' },
-            { text: '🟩 <eko>LowSlash</eko>', link: '/encyclopedia/Eko/Slash/LowSlash' },
-            { text: '🟩 <eko>WetSlash</eko>', link: '/encyclopedia/Eko/Slash/WetSlash' },
+          text: '🟩 <ekos>Slash</ekos>', link: '/encyclopedia/Eko/Slash/Overview', collapsed: true, items: [
+            { text: '🟩 <ekos>BurnPileSlash</ekos>', link: '/encyclopedia/Eko/Slash/BurnPileSlash' },
+            { text: '🟩 <ekos>HighSlash</ekos>', link: '/encyclopedia/Eko/Slash/HighSlash' },
+            { text: '🟩 <ekos>LowSlash</ekos>', link: '/encyclopedia/Eko/Slash/LowSlash' },
+            { text: '🟩 <ekos>WetSlash</ekos>', link: '/encyclopedia/Eko/Slash/WetSlash' },
           ]
         },
         {
-          text: '🟩 <eko>Soil</eko>', link: '/encyclopedia/Eko/Soil/Overview', collapsed: true, items: [
-            { text: '🟩 <eko>Hole</eko>', link: '/encyclopedia/Eko/Soil/Hole' },
-            { text: '🟩 <eko>ClaySoil</eko>', link: '/encyclopedia/Eko/Soil/ClaySoil' },
-            { text: '🟩 <eko>DrySoil</eko>', link: '/encyclopedia/Eko/Soil/DrySoil' },
-            { text: '🟩 <eko>GravelSoil</eko>', link: '/encyclopedia/Eko/Soil/GravelSoil' },
-            { text: '🟩 <eko>MineralSoil</eko>', link: '/encyclopedia/Eko/Soil/MineralSoil' },
-            { text: '🟩 <eko>RedRot</eko>', link: '/encyclopedia/Eko/Soil/RedRot' },
-            { text: '🟩 <eko>SandSoil</eko>', link: '/encyclopedia/Eko/Soil/SandSoil' },
-            { text: '🟩 <eko>WetSoil</eko>', link: '/encyclopedia/Eko/Soil/WetSoil' },
+          text: '🟩 <ekos>Soil</ekos>', link: '/encyclopedia/Eko/Soil/Overview', collapsed: true, items: [
+            { text: '🟩 <ekos>Hole</ekos>', link: '/encyclopedia/Eko/Soil/Hole' },
+            { text: '🟩 <ekos>ClaySoil</ekos>', link: '/encyclopedia/Eko/Soil/ClaySoil' },
+            { text: '🟩 <ekos>DrySoil</ekos>', link: '/encyclopedia/Eko/Soil/DrySoil' },
+            { text: '🟩 <ekos>GravelSoil</ekos>', link: '/encyclopedia/Eko/Soil/GravelSoil' },
+            { text: '🟩 <ekos>MineralSoil</ekos>', link: '/encyclopedia/Eko/Soil/MineralSoil' },
+            { text: '🟩 <ekos>RedRot</ekos>', link: '/encyclopedia/Eko/Soil/RedRot' },
+            { text: '🟩 <ekos>SandSoil</ekos>', link: '/encyclopedia/Eko/Soil/SandSoil' },
+            { text: '🟩 <ekos>WetSoil</ekos>', link: '/encyclopedia/Eko/Soil/WetSoil' },
           ]
         },
         {
-          text: '🟩 <eko>Sun</eko>', link: '/encyclopedia/Eko/Sun/Overview', collapsed: true, items: [
+          text: '🟩 <ekos>Sun</ekos>', link: '/encyclopedia/Eko/Sun/Overview', collapsed: true, items: [
           ]
         },
         {
-          text: '🟩 <eko>Plants</eko>', link: '/encyclopedia/Eko/Plants/Overview', collapsed: true, items: [
+          text: '🟩 <ekos>Plants</ekos>', link: '/encyclopedia/Eko/Plants/Overview', collapsed: true, items: [
           ]
         },
       ]
     },
     // #Move
     {
-      text: '🟠 <move>Move</move>', link: '/encyclopedia/Move/MoveOverview', collapsed: true, items: [
-        { text: '🟠 <move>Frase</move>', link: '/encyclopedia/Move/Frase/Overview' },
+      text: '🟠 <mooves>Move</mooves>', link: '/encyclopedia/Move/MoveOverview', collapsed: true, items: [
+        { text: '🟠 <mooves>Frase</mooves>', link: '/encyclopedia/Move/Frase/Overview' },
         {
-          text: '🟠 <move>Move THEORIA</move>', link: '/encyclopedia/Move/MoveTheoria/Overview', collapsed: true, items: [
-            { text: '🟠 <move>MoveTeknik</move>', link: '/encyclopedia/Move/MoveTheoria/MoveTeknik' },
-            { text: '🟠 <move>MoveKratos</move>', link: '/encyclopedia/Move/MoveTheoria/MoveKratos' },
-            { text: '🟠 <move>MoveProbability</move>', link: '/encyclopedia/Move/MoveTheoria/MoveProbability' },
+          text: '🟠 <mooves>Move THEORIA</mooves>', link: '/encyclopedia/Move/MoveTheoria/Overview', collapsed: true, items: [
+            { text: '🟠 <mooves>MoveTeknik</mooves>', link: '/encyclopedia/Move/MoveTheoria/MoveTeknik' },
+            { text: '🟠 <mooves>MoveKratos</mooves>', link: '/encyclopedia/Move/MoveTheoria/MoveKratos' },
+            { text: '🟠 <mooves>MoveProbability</mooves>', link: '/encyclopedia/Move/MoveTheoria/MoveProbability' },
           ],
         },
         {
-          text: '🟠 <move>MoveGeometry</move>', collapsed: true, items: [
-            { text: '🟠 <move>Overview</move>', link: '/encyclopedia/Move/MoveGeometry/Overview' },
-            { text: '🟠 <move>MovePoint</move>', link: '/encyclopedia/Move/MoveGeometry/MovePoint' },
-            { text: '🟠 <move>MoveCurve</move>', link: '/encyclopedia/Move/MoveGeometry/MoveCurve' },
-            { text: '🟠 <move>MoveSpace</move>', link: '/encyclopedia/Move/MoveGeometry/MoveSpace' },
-            { text: '🟠 <move>MoveSurface</move>', link: '/encyclopedia/Move/MoveGeometry/MoveSurface' },
+          text: '🟠 <mooves>MoveGeometry</mooves>', collapsed: true, items: [
+            { text: '🟠 <mooves>Overview</mooves>', link: '/encyclopedia/Move/MoveGeometry/Overview' },
+            { text: '🟠 <mooves>MovePoint</mooves>', link: '/encyclopedia/Move/MoveGeometry/MovePoint' },
+            { text: '🟠 <mooves>MoveCurve</mooves>', link: '/encyclopedia/Move/MoveGeometry/MoveCurve' },
+            { text: '🟠 <mooves>MoveSpace</mooves>', link: '/encyclopedia/Move/MoveGeometry/MoveSpace' },
+            { text: '🟠 <mooves>MoveSurface</mooves>', link: '/encyclopedia/Move/MoveGeometry/MoveSurface' },
           ]
         },
         {
-          text: '🟠 <move>ArmMove</move>', link: '/encyclopedia/Move/ArmMove/Overview', collapsed: true, items: [
-            { text: '🟠 <move>Arm Frase</move>', link: '/encyclopedia/Move/ArmMove/Frase/Overview' },
-            { text: '🟠 <move>BrazoAma</move>', link: '/encyclopedia/Move/ArmMove/BrazoAma' },
-            { text: '🟠 <move>ArmKurve</move>', link: '/encyclopedia/Move/ArmMove/ArmKurve' },
-            { text: '🟠 <move>ArmWalk</move>', link: '/encyclopedia/Move/ArmMove/ArmWalk' },
-            { text: '🟠 <move>ArmBalance</move>', link: '/encyclopedia/Move/ArmMove/ArmBalance' },
+          text: '🟠 <mooves>ArmMove</mooves>', link: '/encyclopedia/Move/ArmMove/Overview', collapsed: true, items: [
+            { text: '🟠 <mooves>Arm Frase</mooves>', link: '/encyclopedia/Move/ArmMove/Frase/Overview' },
+            { text: '🟠 <mooves>BrazoAma</mooves>', link: '/encyclopedia/Move/ArmMove/BrazoAma' },
+            { text: '🟠 <mooves>ArmKurve</mooves>', link: '/encyclopedia/Move/ArmMove/ArmKurve' },
+            { text: '🟠 <mooves>ArmWalk</mooves>', link: '/encyclopedia/Move/ArmMove/ArmWalk' },
+            { text: '🟠 <mooves>ArmBalance</mooves>', link: '/encyclopedia/Move/ArmMove/ArmBalance' },
           ]
         },
         {
-          text: '🟠 <move>BodyMove</move>', link: '/encyclopedia/Move/BodyMove/Overview', collapsed: true, items: [
-            { text: '🟠 <move>Body Frase</move>', link: '/encyclopedia/Move/BodyMove/Frase/Overview' },
-            { text: '🟠 <move>BodyAbsorb</move>', link: '/encyclopedia/Move/BodyMove/BodyAbsorb' },
-            { text: '🟠 <move>BodyBend</move>', link: '/encyclopedia/Move/BodyMove/BodyBend' },
-            { text: '🟠 <move>BodyLean</move>', link: '/encyclopedia/Move/BodyMove/BodyLean' },
-            { text: '🟠 <move>KorpoOrbit</move>', link: '/encyclopedia/Move/BodyMove/KorpoOrbit' },
-            { text: '🟠 <move>BodyRotate</move>', link: '/encyclopedia/Move/BodyMove/BodyRotate' },
-            { text: '🟠 <move>BodySlot</move>', link: '/encyclopedia/Move/BodyMove/BodySlot' },
-            { text: '🟠 <move>Fall</move>', link: '/encyclopedia/Move/BodyMove/Fall' },
+          text: '🟠 <mooves>BodyMove</mooves>', link: '/encyclopedia/Move/BodyMove/Overview', collapsed: true, items: [
+            { text: '🟠 <mooves>Body Frase</mooves>', link: '/encyclopedia/Move/BodyMove/Frase/Overview' },
+            { text: '🟠 <mooves>BodyAbsorb</mooves>', link: '/encyclopedia/Move/BodyMove/BodyAbsorb' },
+            { text: '🟠 <mooves>BodyBend</mooves>', link: '/encyclopedia/Move/BodyMove/BodyBend' },
+            { text: '🟠 <mooves>BodyLean</mooves>', link: '/encyclopedia/Move/BodyMove/BodyLean' },
+            { text: '🟠 <mooves>KorpoOrbit</mooves>', link: '/encyclopedia/Move/BodyMove/KorpoOrbit' },
+            { text: '🟠 <mooves>BodyRotate</mooves>', link: '/encyclopedia/Move/BodyMove/BodyRotate' },
+            { text: '🟠 <mooves>BodySlot</mooves>', link: '/encyclopedia/Move/BodyMove/BodySlot' },
+            { text: '🟠 <mooves>Fall</mooves>', link: '/encyclopedia/Move/BodyMove/Fall' },
           ]
         },
         {
-          text: '🟠 <move>CacheMove</move>', link: '/encyclopedia/Move/CacheMove/Overview', collapsed: true, items: [
-            { text: '🟠 <move>Cache Frase</move>', link: '/encyclopedia/Move/CacheMove/Frase/Overview' },
-            { text: '🟠 <move>Eating</move>', link: '/encyclopedia/Move/CacheMove/Eating' },
-            { text: '🟠 <move>TarpOff</move>', link: '/encyclopedia/Move/CacheMove/TarpOff' },
-            { text: '🟠 <move>TarpOn</move>', link: '/encyclopedia/Move/CacheMove/TarpOn' },
+          text: '🟠 <mooves>CacheMove</mooves>', link: '/encyclopedia/Move/CacheMove/Overview', collapsed: true, items: [
+            { text: '🟠 <mooves>Cache Frase</mooves>', link: '/encyclopedia/Move/CacheMove/Frase/Overview' },
+            { text: '🟠 <mooves>Eating</mooves>', link: '/encyclopedia/Move/CacheMove/Eating' },
+            { text: '🟠 <mooves>TarpOff</mooves>', link: '/encyclopedia/Move/CacheMove/TarpOff' },
+            { text: '🟠 <mooves>TarpOn</mooves>', link: '/encyclopedia/Move/CacheMove/TarpOn' },
           ]
         },
         {
-          text: '🟠 <move>ClothingMove</move>', link: '/encyclopedia/Move/ClothingMove/Overview', collapsed: true, items: [
-            { text: '🟠 <move>Clothing Frase</move>', link: '/encyclopedia/Move/ClothingMove/Frase/Overview' },
-            { text: '🟠 <move>Button</move>', link: '/encyclopedia/Move/ClothingMove/Button' },
-            { text: '🟠 <move>ClothingLayer</move>', link: '/encyclopedia/Move/ClothingMove/ClothingLayer' },
-            { text: '🟠 <move>RemoveMud</move>', link: '/encyclopedia/Move/ClothingMove/RemoveMud' },
-            { text: '🟠 <move>ZipperMove</move>', link: '/encyclopedia/Move/ClothingMove/ZipperMove' },
+          text: '🟠 <mooves>ClothingMove</mooves>', link: '/encyclopedia/Move/ClothingMove/Overview', collapsed: true, items: [
+            { text: '🟠 <mooves>Clothing Frase</mooves>', link: '/encyclopedia/Move/ClothingMove/Frase/Overview' },
+            { text: '🟠 <mooves>Button</mooves>', link: '/encyclopedia/Move/ClothingMove/Button' },
+            { text: '🟠 <mooves>ClothingLayer</mooves>', link: '/encyclopedia/Move/ClothingMove/ClothingLayer' },
+            { text: '🟠 <mooves>RemoveMud</mooves>', link: '/encyclopedia/Move/ClothingMove/RemoveMud' },
+            { text: '🟠 <mooves>ZipperMove</mooves>', link: '/encyclopedia/Move/ClothingMove/ZipperMove' },
           ]
         },
         {
-          text: '🟠 <move>FootMove</move>', link: '/encyclopedia/Move/FootMove/Overview', collapsed: true, items: [
-            { text: '🟠 <move>Foot Frase</move>', link: '/encyclopedia/Move/FootMove/Frase/Overview' },
-            { text: '🟠 <move>FootArchSmear</move>', link: '/encyclopedia/Move/FootMove/FootArchSmear' },
-            { text: '🟠 <move>FootSeal</move>', link: '/encyclopedia/Move/FootMove/FootSeal' },
-            { text: '🟠 <move>FootDig</move>', link: '/encyclopedia/Move/FootMove/FootDig' },
-            { text: '🟠 <move>FootDorsiflexion</move>', link: '/encyclopedia/Move/FootMove/FootDorsiflexion' },
-            { text: '🟠 <move>FootDrag</move>', link: '/encyclopedia/Move/FootMove/FootDrag' },
-            { text: '🟠 <move>FootEversion</move>', link: '/encyclopedia/Move/FootMove/FootEversion' },
-            { text: '🟠 <move>FootInversion</move>', link: '/encyclopedia/Move/FootMove/FootInversion' },
-            { text: '🟠 <move>FootSkreef</move>', link: '/encyclopedia/Move/FootMove/FootSkreef' },
-            { text: '🟠 <move>PlantarFlexion</move>', link: '/encyclopedia/Move/FootMove/PlantarFlexion' },
+          text: '🟠 <mooves>FootMove</mooves>', link: '/encyclopedia/Move/FootMove/Overview', collapsed: true, items: [
+            { text: '🟠 <mooves>Foot Frase</mooves>', link: '/encyclopedia/Move/FootMove/Frase/Overview' },
+            { text: '🟠 <mooves>FootArchSmear</mooves>', link: '/encyclopedia/Move/FootMove/FootArchSmear' },
+            { text: '🟠 <mooves>FootSeal</mooves>', link: '/encyclopedia/Move/FootMove/FootSeal' },
+            { text: '🟠 <mooves>FootDig</mooves>', link: '/encyclopedia/Move/FootMove/FootDig' },
+            { text: '🟠 <mooves>FootDorsiflexion</mooves>', link: '/encyclopedia/Move/FootMove/FootDorsiflexion' },
+            { text: '🟠 <mooves>FootDrag</mooves>', link: '/encyclopedia/Move/FootMove/FootDrag' },
+            { text: '🟠 <mooves>FootEversion</mooves>', link: '/encyclopedia/Move/FootMove/FootEversion' },
+            { text: '🟠 <mooves>FootInversion</mooves>', link: '/encyclopedia/Move/FootMove/FootInversion' },
+            { text: '🟠 <mooves>FootSkreef</mooves>', link: '/encyclopedia/Move/FootMove/FootSkreef' },
+            { text: '🟠 <mooves>PlantarFlexion</mooves>', link: '/encyclopedia/Move/FootMove/PlantarFlexion' },
           ]
         },
         {
-          text: '🟠 <move>ManoMove</move>', link: '/encyclopedia/Move/ManoMove/Overview', collapsed: true, items: [
-            { text: '🟠 <move>Hand Frase</move>', link: '/encyclopedia/Move/ManoMove/Frase/Overview' },
-            { text: '🟠 <move>BagMano</move>', link: '/encyclopedia/Move/ManoMove/BagMano' },
-            { text: '🟠 <move>BoxMano</move>', link: '/encyclopedia/Move/ManoMove/BoxMano' },
-            { text: '🟠 <move>BranchMano</move>', link: '/encyclopedia/Move/ManoMove/BranchMano' },
-            { text: '🟠 <move>BranchSnapMano</move>', link: '/encyclopedia/Move/ManoMove/BranchSnapMano' },
-            { text: '🟠 <move>HandClose</move>', link: '/encyclopedia/Move/ManoMove/HandClose' },
-            { text: '🟠 <move>HandPoke</move>', link: '/encyclopedia/Move/ManoMove/HandPoke' },
-            { text: '🟠 <move>HandSkreef</move>', link: '/encyclopedia/Move/ManoMove/HandSkreef' },
-            { text: '🟠 <move>SpadeHandleMano</move>', link: '/encyclopedia/Move/ManoMove/SpadeHandleMano' },
-            { text: '🟠 <move>SpadeCollarMano</move>', link: '/encyclopedia/Move/ManoMove/SpadeCollarMano' },
-            { text: '🟠 <move>TreeMano</move>', link: '/encyclopedia/Move/ManoMove/TreeMano' },
-            { text: '🟠 <move>TreeTestMano</move>', link: '/encyclopedia/Move/ManoMove/TreeTestMano' },
+          text: '🟠 <mooves>ManoMove</mooves>', link: '/encyclopedia/Move/ManoMove/Overview', collapsed: true, items: [
+            { text: '🟠 <mooves>Hand Frase</mooves>', link: '/encyclopedia/Move/ManoMove/Frase/Overview' },
+            { text: '🟠 <mooves>BagMano</mooves>', link: '/encyclopedia/Move/ManoMove/BagMano' },
+            { text: '🟠 <mooves>BoxMano</mooves>', link: '/encyclopedia/Move/ManoMove/BoxMano' },
+            { text: '🟠 <mooves>BranchMano</mooves>', link: '/encyclopedia/Move/ManoMove/BranchMano' },
+            { text: '🟠 <mooves>BranchSnapMano</mooves>', link: '/encyclopedia/Move/ManoMove/BranchSnapMano' },
+            { text: '🟠 <mooves>HandClose</mooves>', link: '/encyclopedia/Move/ManoMove/HandClose' },
+            { text: '🟠 <mooves>HandPoke</mooves>', link: '/encyclopedia/Move/ManoMove/HandPoke' },
+            { text: '🟠 <mooves>HandSkreef</mooves>', link: '/encyclopedia/Move/ManoMove/HandSkreef' },
+            { text: '🟠 <mooves>SpadeHandleMano</mooves>', link: '/encyclopedia/Move/ManoMove/SpadeHandleMano' },
+            { text: '🟠 <mooves>SpadeCollarMano</mooves>', link: '/encyclopedia/Move/ManoMove/SpadeCollarMano' },
+            { text: '🟠 <mooves>TreeMano</mooves>', link: '/encyclopedia/Move/ManoMove/TreeMano' },
+            { text: '🟠 <mooves>TreeTestMano</mooves>', link: '/encyclopedia/Move/ManoMove/TreeTestMano' },
           ]
         },
         {
-          text: '🟠 <move>HeadMove</move>', link: '/encyclopedia/Move/HeadMove/Overview', collapsed: true, items: [
-            { text: '🟠 <move>Head Frase</move>', link: '/encyclopedia/Move/HeadMove/Frase/Overview' },
-            { text: '🟠 <move>FocusLook</move>', link: '/encyclopedia/Move/HeadMove/FocusLook' },
-            { text: '🟠 <move>HeadProtraction</move>', link: '/encyclopedia/Move/HeadMove/HeadProtraction' },
-            { text: '🟠 <move>HeadRetraction</move>', link: '/encyclopedia/Move/HeadMove/HeadRetraction' },
-            { text: '🟠 <move>HeadTiltIntoWind</move>', link: '/encyclopedia/Move/HeadMove/HeadTiltIntoWind' },
-            { text: '🟠 <move>Hearing</move>', link: '/encyclopedia/Move/HeadMove/Hearing' },
-            { text: '🟠 <move>LookAway</move>', link: '/encyclopedia/Move/HeadMove/LookAway' },
-            { text: '🟠 <move>NeckExtension</move>', link: '/encyclopedia/Move/HeadMove/NeckExtension' },
+          text: '🟠 <mooves>HeadMove</mooves>', link: '/encyclopedia/Move/HeadMove/Overview', collapsed: true, items: [
+            { text: '🟠 <mooves>Head Frase</mooves>', link: '/encyclopedia/Move/HeadMove/Frase/Overview' },
+            { text: '🟠 <mooves>FocusLook</mooves>', link: '/encyclopedia/Move/HeadMove/FocusLook' },
+            { text: '🟠 <mooves>HeadProtraction</mooves>', link: '/encyclopedia/Move/HeadMove/HeadProtraction' },
+            { text: '🟠 <mooves>HeadRetraction</mooves>', link: '/encyclopedia/Move/HeadMove/HeadRetraction' },
+            { text: '🟠 <mooves>HeadTiltIntoWind</mooves>', link: '/encyclopedia/Move/HeadMove/HeadTiltIntoWind' },
+            { text: '🟠 <mooves>Hearing</mooves>', link: '/encyclopedia/Move/HeadMove/Hearing' },
+            { text: '🟠 <mooves>LookAway</mooves>', link: '/encyclopedia/Move/HeadMove/LookAway' },
+            { text: '🟠 <mooves>NeckExtension</mooves>', link: '/encyclopedia/Move/HeadMove/NeckExtension' },
           ]
         },
         {
-          text: '🟠 <move>HoleMove</move>', link: '/encyclopedia/Move/HoleMove/Overview', collapsed: true, items: [
-            { text: '🟠 <move>Hole Frase</move>', link: '/encyclopedia/Move/HoleMove/Frase/Overview' },
-            { text: '🟠 <move>HoleClose</move>', link: '/encyclopedia/Move/HoleMove/HoleClose' },
-            { text: '🟠 <move>HoleExpand</move>', link: '/encyclopedia/Move/HoleMove/HoleExpand' },
-            { text: '🟠 <move>HoleOpen</move>', link: '/encyclopedia/Move/HoleMove/HoleOpen' },
+          text: '🟠 <mooves>HoleMove</mooves>', link: '/encyclopedia/Move/HoleMove/Overview', collapsed: true, items: [
+            { text: '🟠 <mooves>Hole Frase</mooves>', link: '/encyclopedia/Move/HoleMove/Frase/Overview' },
+            { text: '🟠 <mooves>HoleClose</mooves>', link: '/encyclopedia/Move/HoleMove/HoleClose' },
+            { text: '🟠 <mooves>HoleExpand</mooves>', link: '/encyclopedia/Move/HoleMove/HoleExpand' },
+            { text: '🟠 <mooves>HoleOpen</mooves>', link: '/encyclopedia/Move/HoleMove/HoleOpen' },
           ]
         },
         {
-          text: '🟠 <move>LegMove</move>', link: '/encyclopedia/Move/LegMove/Overview', collapsed: true, items: [
-            { text: '🟠 <move>Leg Frase</move>', link: '/encyclopedia/Move/LegMove/Frase/Overview' },
-            { text: '🟠 <move>Crouch</move>', link: '/encyclopedia/Move/LegMove/Overview' },
-            { text: '🟠 <move>Jump</move>', link: '/encyclopedia/Move/LegMove/Jump' },
-            { text: '🟠 <move>Kneel</move>', link: '/encyclopedia/Move/LegMove/Kneel' },
-            { text: '🟠 <move>LegAbduction</move>', link: '/encyclopedia/Move/LegMove/LegAbduction' },
-            { text: '🟠 <move>LegAbsorb</move>', link: '/encyclopedia/Move/LegMove/LegAbsorb' },
-            { text: '🟠 <move>LegAdduction</move>', link: '/encyclopedia/Move/LegMove/LegAdduction' },
-            { text: '🟠 <move>LegFlap</move>', link: '/encyclopedia/Move/LegMove/LegFlap' },
-            { text: '🟠 <move>LegFlexion</move>', link: '/encyclopedia/Move/LegMove/LegFlexion' },
-            { text: '🟠 <move>BaseAma</move>', link: '/encyclopedia/Move/LegMove/BaseAma' },
-            { text: '🟠 <move>LegSidebagLift</move>', link: '/encyclopedia/Move/LegMove/LegSidebagLift' },
-            { text: '🟠 <move>LegKurve</move>', link: '/encyclopedia/Move/LegMove/LegKurve' },
-            { text: '🟠 <move>RunningStart</move>', link: '/encyclopedia/Move/LegMove/RunningStart' },
-            { text: '🟠 <move>Step</move>', link: '/encyclopedia/Move/LegMove/Step' },
-            { text: '🟠 <move>Stomp</move>', link: '/encyclopedia/Move/LegMove/Stomp' },
+          text: '🟠 <mooves>LegMove</mooves>', link: '/encyclopedia/Move/LegMove/Overview', collapsed: true, items: [
+            { text: '🟠 <mooves>Leg Frase</mooves>', link: '/encyclopedia/Move/LegMove/Frase/Overview' },
+            { text: '🟠 <mooves>Crouch</mooves>', link: '/encyclopedia/Move/LegMove/Overview' },
+            { text: '🟠 <mooves>Jump</mooves>', link: '/encyclopedia/Move/LegMove/Jump' },
+            { text: '🟠 <mooves>Kneel</mooves>', link: '/encyclopedia/Move/LegMove/Kneel' },
+            { text: '🟠 <mooves>LegAbduction</mooves>', link: '/encyclopedia/Move/LegMove/LegAbduction' },
+            { text: '🟠 <mooves>LegAbsorb</mooves>', link: '/encyclopedia/Move/LegMove/LegAbsorb' },
+            { text: '🟠 <mooves>LegAdduction</mooves>', link: '/encyclopedia/Move/LegMove/LegAdduction' },
+            { text: '🟠 <mooves>LegFlap</mooves>', link: '/encyclopedia/Move/LegMove/LegFlap' },
+            { text: '🟠 <mooves>LegFlexion</mooves>', link: '/encyclopedia/Move/LegMove/LegFlexion' },
+            { text: '🟠 <mooves>BaseAma</mooves>', link: '/encyclopedia/Move/LegMove/BaseAma' },
+            { text: '🟠 <mooves>LegSidebagLift</mooves>', link: '/encyclopedia/Move/LegMove/LegSidebagLift' },
+            { text: '🟠 <mooves>LegKurve</mooves>', link: '/encyclopedia/Move/LegMove/LegKurve' },
+            { text: '🟠 <mooves>RunningStart</mooves>', link: '/encyclopedia/Move/LegMove/RunningStart' },
+            { text: '🟠 <mooves>Step</mooves>', link: '/encyclopedia/Move/LegMove/Step' },
+            { text: '🟠 <mooves>Stomp</mooves>', link: '/encyclopedia/Move/LegMove/Stomp' },
           ]
         },
         {
-          text: '🟠 <move>PlantMove</move>', link: '/encyclopedia/Move/PlantMove/Overview', collapsed: true, items: [
-            { text: '🟠 <move>BranchMove</move>', link: '/encyclopedia/Move/PlantMove/BranchMove' },
-            { text: '🟠 <move>BranchWhip</move>', link: '/encyclopedia/Move/PlantMove/BranchWhip' },
-            { text: '🟠 <move>Bush</move>', link: '/encyclopedia/Move/PlantMove/Bush' },
-            { text: '🟠 <move>Log</move>', link: '/encyclopedia/Move/PlantMove/Log' },
-            { text: '🟠 <move>SlashPile</move>', link: '/encyclopedia/Move/PlantMove/SlashPile' },
-            { text: '🟠 <move>Stump</move>', link: '/encyclopedia/Move/PlantMove/Stump' },
+          text: '🟠 <mooves>PlantMove</mooves>', link: '/encyclopedia/Move/PlantMove/Overview', collapsed: true, items: [
+            { text: '🟠 <mooves>BranchMove</mooves>', link: '/encyclopedia/Move/PlantMove/BranchMove' },
+            { text: '🟠 <mooves>BranchWhip</mooves>', link: '/encyclopedia/Move/PlantMove/BranchWhip' },
+            { text: '🟠 <mooves>Bush</mooves>', link: '/encyclopedia/Move/PlantMove/Bush' },
+            { text: '🟠 <mooves>Log</mooves>', link: '/encyclopedia/Move/PlantMove/Log' },
+            { text: '🟠 <mooves>SlashPile</mooves>', link: '/encyclopedia/Move/PlantMove/SlashPile' },
+            { text: '🟠 <mooves>Stump</mooves>', link: '/encyclopedia/Move/PlantMove/Stump' },
           ]
         },
         {
-          text: '🟠 <move>Skreef</move>', link: '/encyclopedia/Move/Skreef/Overview', collapsed: true, items: [
-            { text: '🟠 <move>BootSkreef</move>', link: '/encyclopedia/Move/ToolMove/Boot/BootSkreef' },
-            { text: '🟠 <move>HandSkreef</move>', link: '/encyclopedia/Move/ManoMove/HandSkreef' },
-            { text: '🟠 <move>SpadeSkreef</move>', link: '/encyclopedia/Move/ToolMove/Spade/SpadeSkreef' },
+          text: '🟠 <mooves>Skreef</mooves>', link: '/encyclopedia/Move/Skreef/Overview', collapsed: true, items: [
+            { text: '🟠 <mooves>BootSkreef</mooves>', link: '/encyclopedia/Move/ToolMove/Boot/BootSkreef' },
+            { text: '🟠 <mooves>HandSkreef</mooves>', link: '/encyclopedia/Move/ManoMove/HandSkreef' },
+            { text: '🟠 <mooves>SpadeSkreef</mooves>', link: '/encyclopedia/Move/ToolMove/Spade/SpadeSkreef' },
           ]
         },
         {
-          text: '🟠 <move>ToolMove</move>', link: '/encyclopedia/Move/ToolMove/Overview', collapsed: true, items: [
+          text: '🟠 <mooves>ToolMove</mooves>', link: '/encyclopedia/Move/ToolMove/Overview', collapsed: true, items: [
             {
-              text: '🟠 <move>Bag</move>', link: '/encyclopedia/Move/ToolMove/Bag/Overview', collapsed: true, items: [
-                { text: '🟠 <move>BagMano</move>', link: '/encyclopedia/Move/ToolMove/Bag/BagMano' },
-                { text: '🔷 <move>Bag Frase</move>', link: '/encyclopedia/Move/ToolMove/Bag/Frase/Overview' },
-                { text: '🟠 <move>BagAdjustment</move>', link: '/encyclopedia/Move/ToolMove/Bag/BagAdjustment' },
-                { text: '🟠 <move>BagDeadlift</move>', link: '/encyclopedia/Move/ToolMove/Bag/BagDeadlift' },
-                { text: '🟠 <move>BagEmpty</move>', link: '/encyclopedia/Move/ToolMove/Bag/BagEmpty' },
-                { text: '🟠 <move>BaggingUp</move>', link: '/encyclopedia/Move/ToolMove/Bag/BaggingUp' },
-                { text: '🟠 <move>BagOff</move>', link: '/encyclopedia/Move/ToolMove/Bag/BagOff' },
-                { text: '🟠 <move>BagOn</move>', link: '/encyclopedia/Move/ToolMove/Bag/BagOn' },
-                { text: '🟠 <move>BagSlide</move>', link: '/encyclopedia/Move/ToolMove/Bag/BagSlide' },
+              text: '🟠 <mooves>Bag</mooves>', link: '/encyclopedia/Move/ToolMove/Bag/Overview', collapsed: true, items: [
+                { text: '🟠 <mooves>BagMano</mooves>', link: '/encyclopedia/Move/ToolMove/Bag/BagMano' },
+                { text: '🔷 <mooves>Bag Frase</mooves>', link: '/encyclopedia/Move/ToolMove/Bag/Frase/Overview' },
+                { text: '🟠 <mooves>BagAdjustment</mooves>', link: '/encyclopedia/Move/ToolMove/Bag/BagAdjustment' },
+                { text: '🟠 <mooves>BagDeadlift</mooves>', link: '/encyclopedia/Move/ToolMove/Bag/BagDeadlift' },
+                { text: '🟠 <mooves>BagEmpty</mooves>', link: '/encyclopedia/Move/ToolMove/Bag/BagEmpty' },
+                { text: '🟠 <mooves>BaggingUp</mooves>', link: '/encyclopedia/Move/ToolMove/Bag/BaggingUp' },
+                { text: '🟠 <mooves>BagOff</mooves>', link: '/encyclopedia/Move/ToolMove/Bag/BagOff' },
+                { text: '🟠 <mooves>BagOn</mooves>', link: '/encyclopedia/Move/ToolMove/Bag/BagOn' },
+                { text: '🟠 <mooves>BagSlide</mooves>', link: '/encyclopedia/Move/ToolMove/Bag/BagSlide' },
               ]
             },
             {
-              text: '🟠 <move>Boot</move>', link: '/encyclopedia/Move/ToolMove/Boot/Overview', collapsed: true, items: [
-                { text: '🔷 <move>Boot Frase</move>', link: '/encyclopedia/Move/ToolMove/Boot/Frase/Overview' },
-                { text: '🟠 <move>BootMano</move>', link: '/encyclopedia/Move/ToolMove/Boot/BootMano' },
-                { text: '🟠 <move>BootSkreef</move>', link: '/encyclopedia/Move/ToolMove/Boot/BootSkreef' },
-                { text: '🟠 <move>LaceKnot</move>', link: '/encyclopedia/Move/ToolMove/Boot/LaceKnot' },
+              text: '🟠 <mooves>Boot</mooves>', link: '/encyclopedia/Move/ToolMove/Boot/Overview', collapsed: true, items: [
+                { text: '🔷 <mooves>Boot Frase</mooves>', link: '/encyclopedia/Move/ToolMove/Boot/Frase/Overview' },
+                { text: '🟠 <mooves>BootMano</mooves>', link: '/encyclopedia/Move/ToolMove/Boot/BootMano' },
+                { text: '🟠 <mooves>BootSkreef</mooves>', link: '/encyclopedia/Move/ToolMove/Boot/BootSkreef' },
+                { text: '🟠 <mooves>LaceKnot</mooves>', link: '/encyclopedia/Move/ToolMove/Boot/LaceKnot' },
               ]
             },
             {
-              text: '🟠 <move>Box</move>', link: '/encyclopedia/Move/ToolMove/Box/Overview', collapsed: true, items: [
-                { text: '🔷 <move>Box Frase</move>', link: '/encyclopedia/Move/ToolMove/Box/Frase/Overview' },
-                { text: '🟠 <move>BoxMano</move>', link: '/encyclopedia/Move/ToolMove/Box/BoxMano' },
+              text: '🟠 <mooves>Box</mooves>', link: '/encyclopedia/Move/ToolMove/Box/Overview', collapsed: true, items: [
+                { text: '🔷 <mooves>Box Frase</mooves>', link: '/encyclopedia/Move/ToolMove/Box/Frase/Overview' },
+                { text: '🟠 <mooves>BoxMano</mooves>', link: '/encyclopedia/Move/ToolMove/Box/BoxMano' },
               ]
             },
             {
-              text: '🟠 <move>Bundle</move>', link: '/encyclopedia/Move/ToolMove/Bundle/Overview', collapsed: true, items: [
-                { text: '🔷 <move>Bundle Frase</move>', link: '/encyclopedia/Move/ToolMove/Bundle/Frase/Overview' },
-                { text: '🟠 <move>BundleMano</move>', link: '/encyclopedia/Move/ToolMove/Bundle/BundleMano' },
-                { text: '🟠 <move>BundlePeel</move>', link: '/encyclopedia/Move/ToolMove/Bundle/BundlePeel' },
+              text: '🟠 <mooves>Bundle</mooves>', link: '/encyclopedia/Move/ToolMove/Bundle/Overview', collapsed: true, items: [
+                { text: '🔷 <mooves>Bundle Frase</mooves>', link: '/encyclopedia/Move/ToolMove/Bundle/Frase/Overview' },
+                { text: '🟠 <mooves>BundleMano</mooves>', link: '/encyclopedia/Move/ToolMove/Bundle/BundleMano' },
+                { text: '🟠 <mooves>BundlePeel</mooves>', link: '/encyclopedia/Move/ToolMove/Bundle/BundlePeel' },
               ]
             },
             {
-              text: '🟠 <move>Carabiner</move>', link: '/encyclopedia/Move/ToolMove/Carabiner/Overview', collapsed: true, items: [
+              text: '🟠 <mooves>Carabiner</mooves>', link: '/encyclopedia/Move/ToolMove/Carabiner/Overview', collapsed: true, items: [
               ]
             },
             {
-              text: '🟠 <move>Marka</move>', link: '/encyclopedia/Move/ToolMove/Marka/Overview', collapsed: true, items: [
-                { text: '🔷 <move>Marka Frase</move>', link: '/encyclopedia/Move/ToolMove/Marka/Frase/Overview' },
-                { text: '🟠 <move>MarkaMano</move>', link: '/encyclopedia/Move/ToolMove/Marka/MarkaMano' },
-                { text: '🟠 <move>MarkaKnot</move>', link: '/encyclopedia/Move/ToolMove/Marka/MarkaKnot' },
-                { text: '🟠 <move>MarkaReload</move>', link: '/encyclopedia/Move/ToolMove/Marka/MarkaReload' },
-                { text: '🟠 <move>MarkaRip</move>', link: '/encyclopedia/Move/ToolMove/Marka/MarkaRip' },
-                { text: '🟠 <move>MarkaRoll</move>', link: '/encyclopedia/Move/ToolMove/Marka/MarkaRoll' },
+              text: '🟠 <mooves>Marka</mooves>', link: '/encyclopedia/Move/ToolMove/Marka/Overview', collapsed: true, items: [
+                { text: '🔷 <mooves>Marka Frase</mooves>', link: '/encyclopedia/Move/ToolMove/Marka/Frase/Overview' },
+                { text: '🟠 <mooves>MarkaMano</mooves>', link: '/encyclopedia/Move/ToolMove/Marka/MarkaMano' },
+                { text: '🟠 <mooves>MarkaKnot</mooves>', link: '/encyclopedia/Move/ToolMove/Marka/MarkaKnot' },
+                { text: '🟠 <mooves>MarkaReload</mooves>', link: '/encyclopedia/Move/ToolMove/Marka/MarkaReload' },
+                { text: '🟠 <mooves>MarkaRip</mooves>', link: '/encyclopedia/Move/ToolMove/Marka/MarkaRip' },
+                { text: '🟠 <mooves>MarkaRoll</mooves>', link: '/encyclopedia/Move/ToolMove/Marka/MarkaRoll' },
               ]
             },
             {
-              text: '🟠 <move>Tibior</move>', link: '/encyclopedia/Move/ToolMove/Tibior/Overview', collapsed: true, items: [
-                { text: '🔷 <move>Tibior Frase</move>', link: '/encyclopedia/Move/ToolMove/Tibior/Frase/Overview' },
-                { text: '🟠 <move>TibiorMano</move>', link: '/encyclopedia/Move/ToolMove/Tibior/TibiorMano' },
-                { text: '🟠 <move>TibiorOn</move>', link: '/encyclopedia/Move/ToolMove/Tibior/TibiorOn' },
-                { text: '🟠 <move>TibiorOff</move>', link: '/encyclopedia/Move/ToolMove/Tibior/TibiorOff' },
+              text: '🟠 <mooves>Tibior</mooves>', link: '/encyclopedia/Move/ToolMove/Tibior/Overview', collapsed: true, items: [
+                { text: '🔷 <mooves>Tibior Frase</mooves>', link: '/encyclopedia/Move/ToolMove/Tibior/Frase/Overview' },
+                { text: '🟠 <mooves>TibiorMano</mooves>', link: '/encyclopedia/Move/ToolMove/Tibior/TibiorMano' },
+                { text: '🟠 <mooves>TibiorOn</mooves>', link: '/encyclopedia/Move/ToolMove/Tibior/TibiorOn' },
+                { text: '🟠 <mooves>TibiorOff</mooves>', link: '/encyclopedia/Move/ToolMove/Tibior/TibiorOff' },
               ]
             },
             {
-              text: '🟠 <move>Glove</move>', link: '/encyclopedia/Move/ToolMove/Glove/Overview', collapsed: true, items: [
-                { text: '🔷 <move>Glove Frase</move>', link: '/encyclopedia/Move/ToolMove/Glove/Frase/Overview' },
-                { text: '🟠 <move>GloveMano</move>', link: '/encyclopedia/Move/ToolMove/Glove/GloveMano' },
+              text: '🟠 <mooves>Glove</mooves>', link: '/encyclopedia/Move/ToolMove/Glove/Overview', collapsed: true, items: [
+                { text: '🔷 <mooves>Glove Frase</mooves>', link: '/encyclopedia/Move/ToolMove/Glove/Frase/Overview' },
+                { text: '🟠 <mooves>GloveMano</mooves>', link: '/encyclopedia/Move/ToolMove/Glove/GloveMano' },
               ]
             },
             {
-              text: '🟠 <move>Kit</move>', link: '/encyclopedia/Move/ToolMove/Kit/Overview', collapsed: true, items: [
+              text: '🟠 <mooves>Kit</mooves>', link: '/encyclopedia/Move/ToolMove/Kit/Overview', collapsed: true, items: [
               ]
             },
             {
-              text: '🟠 <move>Rope</move>', link: '/encyclopedia/Move/ToolMove/Rope/Overview', collapsed: true, items: [
+              text: '🟠 <mooves>Rope</mooves>', link: '/encyclopedia/Move/ToolMove/Rope/Overview', collapsed: true, items: [
               ]
             },
             {
-              text: '🟠 <move>Spade</move>', link: '/encyclopedia/Move/ToolMove/Spade/Overview', collapsed: true, items: [
-                { text: '🔷 <move>Spade Frase</move>', link: '/encyclopedia/Move/ToolMove/Spade/Frase/Overview' },
-                { text: '🟠 <move>SpadeAmble</move>', link: '/encyclopedia/Move/ToolMove/Spade/SpadeAmble' },
-                { text: '🟠 <move>SpadeAnchor</move>', link: '/encyclopedia/Move/ToolMove/Spade/SpadeAnchor' },
-                { text: '🟠 <move>SpadeChop</move>', link: '/encyclopedia/Move/ToolMove/Spade/SpadeChop' },
-                { text: '🟠 <move>SpadeCone</move>', link: '/encyclopedia/Move/ToolMove/Spade/SpadeCone' },
-                { text: '🟠 <move>SpadeDrag</move>', link: '/encyclopedia/Move/ToolMove/Spade/SpadeDrag' },
-                { text: '🟠 <move>SpadeMano</move>', link: '/encyclopedia/Move/ToolMove/Spade/SpadeMano' },
-                { text: '🟠 <move>SpadeBallista</move>', link: '/encyclopedia/Move/ToolMove/Spade/SpadeBallista' },
-                { text: '🟠 <move>SpadePendulum</move>', link: '/encyclopedia/Move/ToolMove/Spade/SpadePendulum' },
-                { text: '🟠 <move>SpadePogo</move>', link: '/encyclopedia/Move/ToolMove/Spade/SpadePogo' },
-                { text: '🟠 <move>SpadePoke</move>', link: '/encyclopedia/Move/ToolMove/Spade/SpadePoke' },
-                { text: '🟠 <move>SpadePost</move>', link: '/encyclopedia/Move/ToolMove/Spade/SpadePost' },
-                { text: '🟠 <move>SpadeAma</move>', link: '/encyclopedia/Move/ToolMove/Spade/SpadeAma' },
-                { text: '🟠 <move>SpadeRotate</move>', link: '/encyclopedia/Move/ToolMove/Spade/SpadeRotate' },
-                { text: '🟠 <move>SpadeSkreef</move>', link: '/encyclopedia/Move/ToolMove/Spade/SpadeSkreef' },
-                { text: '🟠 <move>SpadeImpact</move>', link: '/encyclopedia/Move/ToolMove/Spade/SpadeImpact' },
-                { text: '🟠 <move>SpadeStall</move>', link: '/encyclopedia/Move/ToolMove/Spade/SpadeStall' },
-                { text: '🟠 <move>SpadeStomp</move>', link: '/encyclopedia/Move/ToolMove/Spade/SpadeStomp' },
-                { text: '🟠 <move>SpadeKurve</move>', link: '/encyclopedia/Move/ToolMove/Spade/SpadeKurve' },
-                { text: '🟠 <move>SpadeTest</move>', link: '/encyclopedia/Move/ToolMove/Spade/SpadeTest' },
-                { text: '❌ <move>SpadeError</move>', link: '/encyclopedia/Move/ToolMove/Spade/SpadeError' },
+              text: '🟠 <mooves>Spade</mooves>', link: '/encyclopedia/Move/ToolMove/Spade/Overview', collapsed: true, items: [
+                { text: '🔷 <mooves>Spade Frase</mooves>', link: '/encyclopedia/Move/ToolMove/Spade/Frase/Overview' },
+                { text: '🟠 <mooves>SpadeAmble</mooves>', link: '/encyclopedia/Move/ToolMove/Spade/SpadeAmble' },
+                { text: '🟠 <mooves>SpadeAnchor</mooves>', link: '/encyclopedia/Move/ToolMove/Spade/SpadeAnchor' },
+                { text: '🟠 <mooves>SpadeChop</mooves>', link: '/encyclopedia/Move/ToolMove/Spade/SpadeChop' },
+                { text: '🟠 <mooves>SpadeCone</mooves>', link: '/encyclopedia/Move/ToolMove/Spade/SpadeCone' },
+                { text: '🟠 <mooves>SpadeDrag</mooves>', link: '/encyclopedia/Move/ToolMove/Spade/SpadeDrag' },
+                { text: '🟠 <mooves>SpadeMano</mooves>', link: '/encyclopedia/Move/ToolMove/Spade/SpadeMano' },
+                { text: '🟠 <mooves>SpadeBallista</mooves>', link: '/encyclopedia/Move/ToolMove/Spade/SpadeBallista' },
+                { text: '🟠 <mooves>SpadePendulum</mooves>', link: '/encyclopedia/Move/ToolMove/Spade/SpadePendulum' },
+                { text: '🟠 <mooves>SpadePogo</mooves>', link: '/encyclopedia/Move/ToolMove/Spade/SpadePogo' },
+                { text: '🟠 <mooves>SpadePoke</mooves>', link: '/encyclopedia/Move/ToolMove/Spade/SpadePoke' },
+                { text: '🟠 <mooves>SpadePost</mooves>', link: '/encyclopedia/Move/ToolMove/Spade/SpadePost' },
+                { text: '🟠 <mooves>SpadeAma</mooves>', link: '/encyclopedia/Move/ToolMove/Spade/SpadeAma' },
+                { text: '🟠 <mooves>SpadeRotate</mooves>', link: '/encyclopedia/Move/ToolMove/Spade/SpadeRotate' },
+                { text: '🟠 <mooves>SpadeSkreef</mooves>', link: '/encyclopedia/Move/ToolMove/Spade/SpadeSkreef' },
+                { text: '🟠 <mooves>SpadeImpact</mooves>', link: '/encyclopedia/Move/ToolMove/Spade/SpadeImpact' },
+                { text: '🟠 <mooves>SpadeStall</mooves>', link: '/encyclopedia/Move/ToolMove/Spade/SpadeStall' },
+                { text: '🟠 <mooves>SpadeStomp</mooves>', link: '/encyclopedia/Move/ToolMove/Spade/SpadeStomp' },
+                { text: '🟠 <mooves>SpadeKurve</mooves>', link: '/encyclopedia/Move/ToolMove/Spade/SpadeKurve' },
+                { text: '🟠 <mooves>SpadeTest</mooves>', link: '/encyclopedia/Move/ToolMove/Spade/SpadeTest' },
+                { text: '❌ <mooves>SpadeError</mooves>', link: '/encyclopedia/Move/ToolMove/Spade/SpadeError' },
               ]
             },
             {
-              text: '🟠 <move>Doru</move>', link: '/encyclopedia/Move/ToolMove/Doru/Overview', collapsed: true, items: [
-                { text: '🟠 <move>DoruAmble</move>', link: '/encyclopedia/Move/ToolMove/Doru/DoruAmble' },
-                { text: '🟠 <move>DoruAmble</move>', link: '/encyclopedia/Move/ToolMove/Doru/DoruAmble' },
-                { text: '🟠 <move>DoruAnchor</move>', link: '/encyclopedia/Move/ToolMove/Doru/DoruAnchor' },
-                { text: '🟠 <move>DoruBridge</move>', link: '/encyclopedia/Move/ToolMove/Doru/DoruBridge' },
-                { text: '🟠 <move>DoruBump</move>', link: '/encyclopedia/Move/ToolMove/Doru/DoruBump' },
-                { text: '🟠 <move>DoruChop</move>', link: '/encyclopedia/Move/ToolMove/Doru/DoruChop' },
-                { text: '🟠 <move>DoruCone</move>', link: '/encyclopedia/Move/ToolMove/Doru/DoruCone' },
-                { text: '🟠 <move>DoruDrag</move>', link: '/encyclopedia/Move/ToolMove/Doru/DoruDrag' },
-                { text: '🟠 <move>DoruMano</move>', link: '/encyclopedia/Move/ToolMove/Doru/DoruMano' },
-                { text: '🟠 <move>DoruMatch</move>', link: '/encyclopedia/Move/ToolMove/Doru/DoruMatch' },
-                { text: '🟠 <move>DoruPendulum</move>', link: '/encyclopedia/Move/ToolMove/Doru/DoruPendulum' },
-                { text: '🟠 <move>DoruPogo</move>', link: '/encyclopedia/Move/ToolMove/Doru/DoruPogo' },
-                { text: '🟠 <move>DoruPoke</move>', link: '/encyclopedia/Move/ToolMove/Doru/DoruPoke' },
-                { text: '🟠 <move>DoruPost</move>', link: '/encyclopedia/Move/ToolMove/Doru/DoruPost' },
-                { text: '🟠 <move>DoruProp</move>', link: '/encyclopedia/Move/ToolMove/Doru/DoruProp' },
-                { text: '🟠 <move>DoruPost</move>', link: '/encyclopedia/Move/ToolMove/Doru/DoruPost' },
-                { text: '🟠 <move>DoruRotate</move>', link: '/encyclopedia/Move/ToolMove/Doru/DoruRotate' },
-                { text: '🟠 <move>DoruSkreef</move>', link: '/encyclopedia/Move/ToolMove/Doru/DoruSkreef' },
-                { text: '🟠 <move>DoruSlam</move>', link: '/encyclopedia/Move/ToolMove/Doru/DoruSlam' },
-                { text: '🟠 <move>DoruSlap</move>', link: '/encyclopedia/Move/ToolMove/Doru/DoruSlap' },
-                { text: '🟠 <move>DoruSlide</move>', link: '/encyclopedia/Move/ToolMove/Doru/DoruSlide' },
-                { text: '🟠 <move>DoruStall</move>', link: '/encyclopedia/Move/ToolMove/Doru/DoruStall' },
-                { text: '🟠 <move>DoruStomp</move>', link: '/encyclopedia/Move/ToolMove/Doru/DoruStomp' },
-                { text: '🟠 <move>DoruOnda</move>', link: '/encyclopedia/Move/ToolMove/Doru/DoruOnda' },
-                { text: '❌ <move>DoruError</move>', link: '/encyclopedia/Move/ToolMove/Doru/DoruError' },
+              text: '🟠 <mooves>Doru</mooves>', link: '/encyclopedia/Move/ToolMove/Doru/Overview', collapsed: true, items: [
+                { text: '🟠 <mooves>DoruAmble</mooves>', link: '/encyclopedia/Move/ToolMove/Doru/DoruAmble' },
+                { text: '🟠 <mooves>DoruAmble</mooves>', link: '/encyclopedia/Move/ToolMove/Doru/DoruAmble' },
+                { text: '🟠 <mooves>DoruAnchor</mooves>', link: '/encyclopedia/Move/ToolMove/Doru/DoruAnchor' },
+                { text: '🟠 <mooves>DoruBridge</mooves>', link: '/encyclopedia/Move/ToolMove/Doru/DoruBridge' },
+                { text: '🟠 <mooves>DoruBump</mooves>', link: '/encyclopedia/Move/ToolMove/Doru/DoruBump' },
+                { text: '🟠 <mooves>DoruChop</mooves>', link: '/encyclopedia/Move/ToolMove/Doru/DoruChop' },
+                { text: '🟠 <mooves>DoruCone</mooves>', link: '/encyclopedia/Move/ToolMove/Doru/DoruCone' },
+                { text: '🟠 <mooves>DoruDrag</mooves>', link: '/encyclopedia/Move/ToolMove/Doru/DoruDrag' },
+                { text: '🟠 <mooves>DoruMano</mooves>', link: '/encyclopedia/Move/ToolMove/Doru/DoruMano' },
+                { text: '🟠 <mooves>DoruMatch</mooves>', link: '/encyclopedia/Move/ToolMove/Doru/DoruMatch' },
+                { text: '🟠 <mooves>DoruPendulum</mooves>', link: '/encyclopedia/Move/ToolMove/Doru/DoruPendulum' },
+                { text: '🟠 <mooves>DoruPogo</mooves>', link: '/encyclopedia/Move/ToolMove/Doru/DoruPogo' },
+                { text: '🟠 <mooves>DoruPoke</mooves>', link: '/encyclopedia/Move/ToolMove/Doru/DoruPoke' },
+                { text: '🟠 <mooves>DoruPost</mooves>', link: '/encyclopedia/Move/ToolMove/Doru/DoruPost' },
+                { text: '🟠 <mooves>DoruProp</mooves>', link: '/encyclopedia/Move/ToolMove/Doru/DoruProp' },
+                { text: '🟠 <mooves>DoruPost</mooves>', link: '/encyclopedia/Move/ToolMove/Doru/DoruPost' },
+                { text: '🟠 <mooves>DoruRotate</mooves>', link: '/encyclopedia/Move/ToolMove/Doru/DoruRotate' },
+                { text: '🟠 <mooves>DoruSkreef</mooves>', link: '/encyclopedia/Move/ToolMove/Doru/DoruSkreef' },
+                { text: '🟠 <mooves>DoruSlam</mooves>', link: '/encyclopedia/Move/ToolMove/Doru/DoruSlam' },
+                { text: '🟠 <mooves>DoruSlap</mooves>', link: '/encyclopedia/Move/ToolMove/Doru/DoruSlap' },
+                { text: '🟠 <mooves>DoruSlide</mooves>', link: '/encyclopedia/Move/ToolMove/Doru/DoruSlide' },
+                { text: '🟠 <mooves>DoruStall</mooves>', link: '/encyclopedia/Move/ToolMove/Doru/DoruStall' },
+                { text: '🟠 <mooves>DoruStomp</mooves>', link: '/encyclopedia/Move/ToolMove/Doru/DoruStomp' },
+                { text: '🟠 <mooves>DoruOnda</mooves>', link: '/encyclopedia/Move/ToolMove/Doru/DoruOnda' },
+                { text: '❌ <mooves>DoruError</mooves>', link: '/encyclopedia/Move/ToolMove/Doru/DoruError' },
               ]
             }
           ]
         },
         {
-          text: '🟠 <move>Truck</move>', link: '/encyclopedia/Move/TruckMove/Overview', collapsed: true, items: [
-            { text: '🔷 <move>Truck Frase</move>', link: '/encyclopedia/Move/TruckMove/Frase/Overview' },
-            { text: '🟠 <move>Sleep</move>', link: '/encyclopedia/Move/TruckMove/Sleep' },
-            { text: '🟠 <move>Sit</move>', link: '/encyclopedia/Move/TruckMove/Sit' },
+          text: '🟠 <mooves>Truck</mooves>', link: '/encyclopedia/Move/TruckMove/Overview', collapsed: true, items: [
+            { text: '🔷 <mooves>Truck Frase</mooves>', link: '/encyclopedia/Move/TruckMove/Frase/Overview' },
+            { text: '🟠 <mooves>Sleep</mooves>', link: '/encyclopedia/Move/TruckMove/Sleep' },
+            { text: '🟠 <mooves>Sit</mooves>', link: '/encyclopedia/Move/TruckMove/Sit' },
           ]
         },
-        { text: '🟠 <move>Kinesiology</move>', link: '/encyclopedia/Move/Kinesiology/KinesiologyOverview' },
+        { text: '🟠 <mooves>Kinesiology</mooves>', link: '/encyclopedia/Move/Kinesiology/KinesiologyOverview' },
       ],
     },
     // #Via

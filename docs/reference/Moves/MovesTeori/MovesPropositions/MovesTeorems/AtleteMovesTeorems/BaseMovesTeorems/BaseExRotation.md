@@ -1,4 +1,4 @@
-# 🟠<move>BaseExRotation</move>
+# 🟠<mooves>BaseExRotation</mooves>
 
 ---
 

@@ -6,7 +6,7 @@ Aliases: Area
 
 ## 🕸 Div.Skema
 
-### Related 🟩<eko>Eko</eko>
+### Related 🟩<ekos>Eko</ekos>
 
 - NaturalDiv
 
@@ -14,7 +14,7 @@ Aliases: Area
 
 - (AreaPlanting == DivPlan)
 
-### Related 🟠<move>Move</move>
+### Related 🟠<mooves>Moove</mooves>
 
 -
 

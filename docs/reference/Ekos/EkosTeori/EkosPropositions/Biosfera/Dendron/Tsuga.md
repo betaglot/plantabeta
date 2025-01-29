@@ -1,4 +1,4 @@
-# 🟩<eko>Tsuga</eko>
+# 🟩<ekos>Tsuga</ekos>
 
 Hemlock
 

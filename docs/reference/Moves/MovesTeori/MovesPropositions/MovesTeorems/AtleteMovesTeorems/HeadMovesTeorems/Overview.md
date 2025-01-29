@@ -1,12 +1,12 @@
-# 🟠 <move>HeadMove</move>
+# 🟠 <mooves>HeadMoove</mooves>
 
 ## Head Anatomy
 
 ## Head Attributes
 
-## 🕸 HeadMove.Skema
+## 🕸 HeadMoove.Skema
 
-### Related 🟩<eko>Eko</eko>
+### Related 🟩<ekos>Eko</ekos>
 
 -
 
@@ -14,7 +14,7 @@
 
 -
 
-### Related 🟠<move>Move</move>
+### Related 🟠<mooves>Moove</mooves>
 
 -
 
@@ -37,8 +37,8 @@
 
 <h2>PageTags</h2>
 
-- "Move.HeadMove.Find.Marka"
-- "Move.HeadMove.LookAt"
-- "Move.HeadMove.Overview"
+- "Moove.HeadMoove.Find.Marka"
+- "Moove.HeadMoove.LookAt"
+- "Moove.HeadMoove.Overview"
 
 :::

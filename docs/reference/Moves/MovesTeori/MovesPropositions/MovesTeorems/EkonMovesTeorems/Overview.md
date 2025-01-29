@@ -1,4 +1,4 @@
-# 🟠<move>EkonMovesTeorems</move>
+# 🟠<mooves>EkonMoovesTeorems</mooves>
 
 ---
 

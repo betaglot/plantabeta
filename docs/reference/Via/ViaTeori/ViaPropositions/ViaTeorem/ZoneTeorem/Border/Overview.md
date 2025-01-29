@@ -6,7 +6,7 @@ Aliases: Border, Boundary
 
 ## 🕸 Border.Skema
 
-### Related 🟩<eko>Eko</eko>
+### Related 🟩<ekos>Eko</ekos>
 
 -
 
@@ -14,7 +14,7 @@ Aliases: Border, Boundary
 
 -
 
-### Related 🟠<move>Move</move>
+### Related 🟠<mooves>Moove</mooves>
 
 -
 

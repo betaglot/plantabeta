@@ -1,10 +1,10 @@
-# 🟠 <move>GetUp</move>
+# 🟠 <mooves>GetUp</mooves>
 
-![MoveIkon](/Move/Move_Ikon.png)
+![MooveIkon](/Moove/Moove_Ikon.png)
 
 ## 🕸 GetUp.Skema
 
-### Related 🟩<eko>Eko</eko>
+### Related 🟩<ekos>Eko</ekos>
 
 -
 
@@ -12,7 +12,7 @@
 
 -
 
-### Related 🟠<move>Move</move>
+### Related 🟠<mooves>Moove</mooves>
 
 -
 
@@ -30,7 +30,7 @@
 ::: details 🛠 <dev>&&&</dev>
 
 - SpadeMuscleUp
-- TrunkMove
+- TrunkMoove
     - Pull on Trunk to StandUp
 - SitToStand
 - BagSpill often occurs during GetUp

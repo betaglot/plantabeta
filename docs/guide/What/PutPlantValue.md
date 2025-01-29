@@ -25,16 +25,16 @@
 
 ### Increases Motivation and Hope while reducing Anxiety
 
-- <eko>PlantaBeta</eko> reduced the worrying about what to expect during your Novice season.
+- <ekos>PlantaBeta</ekos> reduced the worrying about what to expect during your Novice season.
 - "I can do this"
-- The fear of the unknown, especially unknown unknowns, can be paralyzing. <eko>PlantaBeta</eko> is being created to minimize the number of unknowns in a tree Plantor's experience.
-- There is a whole page in <eko>PlantaBeta</eko> specifically devoted to Motivation. It's easy to become unmotivated when you're tired, you've spent the past few days in the rain and the Eko is difficult, but there is knowledge that Plantors and PlantorSupervisors can use to keep planting!
+- The fear of the unknown, especially unknown unknowns, can be paralyzing. <ekos>PlantaBeta</ekos> is being created to minimize the number of unknowns in a tree Plantor's experience.
+- There is a whole page in <ekos>PlantaBeta</ekos> specifically devoted to Motivation. It's easy to become unmotivated when you're tired, you've spent the past few days in the rain and the Eko is difficult, but there is knowledge that Plantors and PlantorSupervisors can use to keep planting!
 
 ---
 
 ### Rewarding
 
-- <eko>PlantaBeta</eko> is designed to increase the planting rate of any Plantor, therefore increasing the income of any Plantor who studies <eko>PlantaBeta</eko>.
+- <ekos>PlantaBeta</ekos> is designed to increase the planting rate of any Plantor, therefore increasing the income of any Plantor who studies <ekos>PlantaBeta</ekos>.
 - Be able to track your progress as a Plantor by the number of elements that you've understood then mastered.
 - Complete Tests
 
@@ -42,16 +42,16 @@
 
 ### Badge Value
 
-- By learning all the theory and practices of <eko>PlantaBeta</eko>, you can become a Highballer.
+- By learning all the theory and practices of <ekos>PlantaBeta</ekos>, you can become a Highballer.
 - Increase your Personal Best (PB) Planting Day. Planting 2,000 in a day is a standard checkpoint for Plantors across Canada.
 - Total trees planted during your career is usually 100,000+. Achieving a million trees planting is a badge to be proud of.
-- Get a perfect score on <eko>PlantaBeta</eko>'s tests to add to your CV when applying for Plantor jobs.
+- Get a perfect score on <ekos>PlantaBeta</ekos>'s tests to add to your CV when applying for Plantor jobs.
 
 ---
 
 ### Wellness
 
-- <eko>PlantaBeta</eko> is designed to [reduce Plantor injury](/guide/Why/Injury).
+- <ekos>PlantaBeta</ekos> is designed to [reduce Plantor injury](/guide/Why/Injury).
 
 ---
 

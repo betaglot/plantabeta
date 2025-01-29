@@ -8,9 +8,9 @@
 
 Distance in what direction and how fast. Via has time, since movements are experienced by way of time.
 
-## StaticMove or DynamicMove
+## StaticMoove or DynamicMoove
 
-"ConstantMove" is more accurate than "StaticMove"
+"ConstantMoove" is more accurate than "StaticMoove"
 
 ---
 

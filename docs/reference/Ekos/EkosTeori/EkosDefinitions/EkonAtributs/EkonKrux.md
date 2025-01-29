@@ -1,4 +1,4 @@
-# 🟩<eko>EkoKrux</eko>
+# 🟩<ekos>EkoKrux</ekos>
 
 > the most difficult attribute of this Element
 

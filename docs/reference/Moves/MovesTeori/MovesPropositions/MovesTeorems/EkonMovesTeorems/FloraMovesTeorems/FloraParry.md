@@ -1,12 +1,12 @@
-# 🟠 <move>FloraDeflection</move>
+# 🟠 <mooves>FloraDeflection</mooves>
 
 > Use a FloraParry to redirect flora which is colliding with you.  
 
-![MoveIkon](/Move/Move_Ikon.png)
+![MooveIkon](/Moove/Moove_Ikon.png)
 
 ## 🕸 FloraParry.Skema
 
-### Related 🟩<eko>Eko</eko>
+### Related 🟩<ekos>Eko</ekos>
 
 - SmallTree falling into you.
 - Slash ripped up by Prep can be unstable and can fall into you.
@@ -16,9 +16,9 @@
 
 -
 
-### Related 🟠<move>Move</move>
+### Related 🟠<mooves>Moove</mooves>
 
-- RadiorMove
+- RadiorMoove
 
 ### Related 💜<psike>Psike</psike>
 
@@ -34,7 +34,7 @@
 ::: details 🛠 <dev>&&&</dev>
 
 - ParryUp, ParryLateral
-- FloraSwim, like BreastStroke to part a way through Flora. 2ArmMove
+- FloraSwim, like BreastStroke to part a way through Flora. 2ArmMoove
     - TallGrassSwim
 - Can be performed with Arm or Spade
     - Avoid having a tree in your hand
@@ -45,6 +45,6 @@
 
 <h2>PageTags</h2>
 
-- "Move.PlantMove.BranchArmDeflection"
-- "Move.PlantMove.BranchDeflection"
+- "Moove.PlantMoove.BranchArmDeflection"
+- "Moove.PlantMoove.BranchDeflection"
 :::

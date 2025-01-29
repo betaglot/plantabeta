@@ -1,10 +1,10 @@
-# 🟠 <move>Jump</move>
+# 🟠 <mooves>Jump</mooves>
 
-![MoveIkon](/Move/Move_Ikon.png)
+![MooveIkon](/Moove/Moove_Ikon.png)
 
 ## 🕸 Jump.Skema
 
-### Related 🟩<eko>Eko</eko>
+### Related 🟩<ekos>Eko</ekos>
 
 -
 
@@ -12,7 +12,7 @@
 
 -
 
-### Related 🟠<move>Move</move>
+### Related 🟠<mooves>Moove</mooves>
 
 -
 
@@ -34,6 +34,6 @@
 
 <h2>PageTags</h2>
 
-- "Move.LegMove.Jump"
+- "Moove.LegMoove.Jump"
 
 :::

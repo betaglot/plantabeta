@@ -1,4 +1,4 @@
-# 🔷<move>Hand Frase</move>
+# 🔷<mooves>Hand Frase</mooves>
 
 ## 🔷<beta>HandPut</beta>
 
@@ -15,7 +15,7 @@
 
 <h2>PageTags</h2>
 
-- "Move.ManoMove.HandBump"
-- "Move.ManoMove.HandMatch"
+- "Moove.ManoMoove.HandBump"
+- "Moove.ManoMoove.HandMatch"
 
 :::

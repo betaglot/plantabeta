@@ -12,8 +12,8 @@
 - Effort
     - Exertion
     - Grit
-    - Endurance (Psike+Move)
-    - Stamina (Psike+Move)
+    - Endurance (Psike+Moove)
+    - Stamina (Psike+Moove)
     - Persistance
     - Perserverance
     - Production

@@ -10,7 +10,7 @@
 
 ## <via>What is Via ?</via>
 
-> the interface between Move, Psike and Eko
+> the interface between Moove, Psike and Eko
 
 ::: details Why is it called <via>Via</via>?
 
@@ -74,8 +74,8 @@ Not worth the trouble
 
 - Interact
 - Interface
-    - Via is the interface between <eko>Eko</eko> and <move>Move</move>
-    - Via is the interface between <eko>Eko</eko> and <psike>Psike</psike>
+    - Via is the interface between <ekos>Eko</ekos> and <mooves>Moove</mooves>
+    - Via is the interface between <ekos>Eko</ekos> and <psike>Psike</psike>
 - Interpolate
     - Most ViaGeometry is interpolated.
 
@@ -83,14 +83,14 @@ Not worth the trouble
 
 > "Be able to because of"
 
-> Move Via Eko
+> Moove Via Eko
 
-> "Move by way of the land"
+> "Moove by way of the land"
 
 > "Use that branch to pull yourself up"
 
 - Computational Geometry
-- The interface between Move, Psike and Eko.
+- The interface between Moove, Psike and Eko.
 - Via is an abstract layer on top of Eko. A via is where the Plantor
 - A vias start and finish at the Cache.
 
@@ -228,7 +228,7 @@ Eko is decomposed by composing a Via
 - "Via.ViaSuperposition"
 - PlantingProcess_LandApproach_FlyIn_Helicopter
 - PlantingProcess_LandApproach_WalkIn_WalkInTime
-- PlantingProcess_LandBriefing_FingerPointing_ArmMove
+- PlantingProcess_LandBriefing_FingerPointing_ArmMoove
 - PlantingProcess_LandBriefing_PlantorSupervisor_BlockDiagram
 - PlantingProcess_LandBriefing_PlantorSupervisor_LandDiagram
 - PlantingProcess_LandManagement_Error_DeadWalking_Definition_

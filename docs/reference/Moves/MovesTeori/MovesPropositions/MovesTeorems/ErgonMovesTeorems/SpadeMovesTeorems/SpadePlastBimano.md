@@ -1,4 +1,4 @@
-# 🟠<move>PlastBimano</move>
+# 🟠<mooves>PlastBimano</mooves>
 
 > Gripping the Spade Plast with both hands
 
@@ -6,7 +6,7 @@ Aliases: Handle Match
 
 ## 🕸 PlastBimano.Skema
 
-### Related 🟩<eko>Eko</eko>
+### Related 🟩<ekos>Eko</ekos>
 
 -
 
@@ -14,7 +14,7 @@ Aliases: Handle Match
 
 -
 
-### Related 🟠<move>Move</move>
+### Related 🟠<mooves>Moove</mooves>
 
 -
 

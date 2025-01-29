@@ -1,6 +1,6 @@
-# 🟩<eko>EkoFlux</eko>
+# 🟩<ekos>EkoFlux</ekos>
 
-Aliases: Flow, Flowing Movement, Fluidity, Fluid movement, Continuous, NonStop, Constantly Changing, ever moving, fleeting,
+Aliases: Flow, Flowing Moovement, Fluidity, Fluid movement, Continuous, NonStop, Constantly Changing, ever moving, fleeting,
 
 ## 🔷<beta>BetaAnalogy</beta>
 
@@ -14,15 +14,15 @@ Aliases: Flow, Flowing Movement, Fluidity, Fluid movement, Continuous, NonStop, 
 
 Connection Score
 
-## 🟠<move>MOVE.Flux</move>
+## 🟠<mooves>MOVE.Flux</mooves>
 
 ### 🔷<beta>BetaAnalogy</beta>
 
 (GymBeta, SkateBeta): ConnectionScore
 
-Connection of Moves within Phrases and connections of phrases too.
+Connection of Mooves within Phrases and connections of phrases too.
 
-Moves flow into each other
+Mooves flow into each other
 
 ## 🔻<via>VIA.Flux</via>: Transition
 

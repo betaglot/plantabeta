@@ -1,4 +1,4 @@
-# 🟠<move>BladeKontakt</move>
+# 🟠<mooves>BladeKontakt</mooves>
 
 ---
 

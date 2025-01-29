@@ -1,8 +1,8 @@
-# 🟠 <move>BundleMove</move>
+# 🟠 <mooves>BundleMoove</mooves>
 
-## 🕸 BundleMove.Skema
+## 🕸 BundleMoove.Skema
 
-### Related 🟩<eko>Eko</eko>
+### Related 🟩<ekos>Eko</ekos>
 
 -
 
@@ -10,7 +10,7 @@
 
 -
 
-### Related 🟠<move>Move</move>
+### Related 🟠<mooves>Moove</mooves>
 
 -
 
@@ -32,9 +32,9 @@
     - Wrap up excess trees
 - BundleTuck: Roll bundles in to bags during BagIn
 
-- "Move.InstrumentMove.BundleMove.BundleRoll"
-- "Move.InstrumentMove.BundleMove.BundleUnwrap"
-- "Move.InstrumentMove.BundleMove.MoveError.WrapperLitter"
-- "Move.InstrumentMove.BundleMove.Overview"
+- "Moove.InstrumentMoove.BundleMoove.BundleRoll"
+- "Moove.InstrumentMoove.BundleMoove.BundleUnwrap"
+- "Moove.InstrumentMoove.BundleMoove.MooveError.WrapperLitter"
+- "Moove.InstrumentMoove.BundleMoove.Overview"
 
 :::

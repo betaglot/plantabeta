@@ -1,4 +1,4 @@
-# 🟩  <eko>Helios</eko>
+# 🟩  <ekos>Helios</ekos>
 
 ## Shade
 
@@ -12,7 +12,7 @@ Andrew Huberman is always reminding [us to get morning sunlight](https://www.hub
 
 ## 🕸 Helios.Skema
 
-### Related 🟩<eko>Eko</eko>
+### Related 🟩<ekos>Eko</ekos>
 
 -
 
@@ -20,7 +20,7 @@ Andrew Huberman is always reminding [us to get morning sunlight](https://www.hub
 
 -
 
-### Related 🟠<move>Move</move>
+### Related 🟠<mooves>Moove</mooves>
 
 -
 

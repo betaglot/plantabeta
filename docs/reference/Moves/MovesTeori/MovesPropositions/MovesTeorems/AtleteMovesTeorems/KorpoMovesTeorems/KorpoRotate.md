@@ -1,10 +1,10 @@
-# 🟠 <move>BodyRotate</move>
+# 🟠 <mooves>BodyRotate</mooves>
 
-![MoveIkon](/Move/Move_Ikon.png)
+![MooveIkon](/Moove/Moove_Ikon.png)
 
 ## 🕸 BodyRotate.Skema
 
-### Related 🟩<eko>Eko</eko>
+### Related 🟩<ekos>Eko</ekos>
 
 -
 
@@ -12,7 +12,7 @@
 
 -
 
-### Related 🟠<move>Move</move>
+### Related 🟠<mooves>Moove</mooves>
 
 - FootPivot
 - BodyTwist
@@ -34,6 +34,6 @@
 
 <h2>PageTags</h2>
 
-- "Move.BodyMove.BodyRotate"
+- "Moove.BodyMoove.BodyRotate"
 
 :::

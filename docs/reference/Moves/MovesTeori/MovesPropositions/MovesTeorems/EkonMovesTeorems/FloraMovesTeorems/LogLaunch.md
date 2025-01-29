@@ -1,4 +1,4 @@
-# 🟠 <move>LogLaunch</move>
+# 🟠 <mooves>LogLaunch</mooves>
 
 > Launch a Log away from microsite with your leg
 
@@ -8,7 +8,7 @@ No Impact
 
 ## 🕸 LogLaunch.Skema
 
-### Related 🟩<eko>Eko</eko>
+### Related 🟩<ekos>Eko</ekos>
 
 -
 
@@ -16,7 +16,7 @@ No Impact
 
 -
 
-### Related 🟠<move>Move</move>
+### Related 🟠<mooves>Moove</mooves>
 
 - Toehook
 

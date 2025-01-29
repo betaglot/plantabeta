@@ -1,4 +1,4 @@
-# 🟩<eko>EkoFrekentia</eko>
+# 🟩<ekos>EkoFrekentia</ekos>
 
 > the statistics of this Element
 

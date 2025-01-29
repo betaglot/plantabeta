@@ -1,4 +1,4 @@
-# 🟠 <move>Instrument Repair</move>
+# 🟠 <mooves>Instrument Repair</mooves>
 
 Temporary Repair until you can have your Instruments repaired by a professional.
 
@@ -38,9 +38,9 @@ Maintain your Instruments to ensure that they last as long a possible and to mai
 
 ### Bag Repair
 
-## 🕸 RepairMove.Skema
+## 🕸 RepairMoove.Skema
 
-### Related 🟩<eko>Eko</eko>
+### Related 🟩<ekos>Eko</ekos>
 
 -
 
@@ -48,7 +48,7 @@ Maintain your Instruments to ensure that they last as long a possible and to mai
 
 -
 
-### Related 🟠<move>Move</move>
+### Related 🟠<mooves>Moove</mooves>
 
 -
 

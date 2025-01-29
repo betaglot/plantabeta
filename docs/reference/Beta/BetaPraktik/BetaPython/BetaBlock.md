@@ -6,7 +6,7 @@ Code Block
 
 Loop through the BetaModules
 
-Eko to Via to Move then back to Eko, the arrows are Psike
+Eko to Via to Moove then back to Eko, the arrows are Psike
 
 Noticing labelling
 

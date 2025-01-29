@@ -1,4 +1,4 @@
-# 🟠<move>ScapulaKontakt</move>
+# 🟠<mooves>ScapulaKontakt</mooves>
 
 ---
 

@@ -1,4 +1,4 @@
-# 🟠<move>MoveAlias</move>
+# 🟠<mooves>MooveAlias</mooves>
 
 > other names used to refer to this Element. In english or other languages.
 

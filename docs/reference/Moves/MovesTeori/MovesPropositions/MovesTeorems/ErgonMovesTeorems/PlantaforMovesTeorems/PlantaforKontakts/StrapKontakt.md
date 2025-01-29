@@ -1,4 +1,4 @@
-# 🟠<move>StrapKontakt</move>
+# 🟠<mooves>StrapKontakt</mooves>
 
 ---
 

@@ -1,12 +1,12 @@
 # 🔻 <via>Takt</via>
 
-> The surface where a Move touches an Ekon
+> The surface where a Moove touches an Ekon
 
 Aliases: Contact point, Contact surface
 
 ## 🕸 Takt.Skema
 
-### Related 🟩<eko>Eko</eko>
+### Related 🟩<ekos>Eko</ekos>
 
 -
 
@@ -14,7 +14,7 @@ Aliases: Contact point, Contact surface
 
 -
 
-### Related 🟠<move>Move</move>
+### Related 🟠<mooves>Moove</mooves>
 
 -
 
@@ -35,7 +35,7 @@ Aliases: Contact point, Contact surface
 - All Takts emit sound
 - Takts are not necessarily contiguous, like stepping stones
 - Takts are exposures of Soil in the Land. Sometimes you must Skreef to expose a Takt
-- Takts for Move are less
+- Takts for Moove are less
 - "Via.ViaGeometry.Takt.LogSurface"
 - "Via.ViaGeometry.Takt.Overview"
 - "Via.ViaGeometry.Takt.RockSurface"

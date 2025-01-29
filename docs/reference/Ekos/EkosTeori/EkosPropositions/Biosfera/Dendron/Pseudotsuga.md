@@ -1,4 +1,4 @@
-# 🟩<eko>Pseudotsuga</eko>
+# 🟩<ekos>Pseudotsuga</ekos>
 
 Douglas Fir
 

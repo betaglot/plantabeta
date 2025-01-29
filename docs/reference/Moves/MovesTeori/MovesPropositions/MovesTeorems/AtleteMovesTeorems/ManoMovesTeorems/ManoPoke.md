@@ -1,6 +1,6 @@
-# 🟠 <move>HandPoke</move>
+# 🟠 <mooves>HandPoke</mooves>
 
-![MoveIkon](/Move/Move_Ikon.png)
+![MooveIkon](/Moove/Moove_Ikon.png)
 
 ---
 
@@ -15,6 +15,6 @@
 
 <h2>PageTags</h2>
 
-- "Move.ManoMove.HandPoke"
+- "Moove.ManoMoove.HandPoke"
 
 :::

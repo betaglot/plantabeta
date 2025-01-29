@@ -14,6 +14,6 @@ Copy the indexes of these docs:
 
 ## Hole.Put()
 
-🟩<eko>Hole</eko>.<beta>Put()</beta>
+🟩<ekos>Hole</ekos>.<beta>Put()</beta>
 
 ## LineIn()

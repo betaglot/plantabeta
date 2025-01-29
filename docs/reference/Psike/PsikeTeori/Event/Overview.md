@@ -36,7 +36,7 @@ Event from a first person perspective
 - onPieceCompletion()
 - onBlockCompletion()
 
-## MoveEvent
+## MooveEvent
 
 ### InstrumentEvent
 
@@ -61,7 +61,7 @@ Event from a first person perspective
 - Anticipate
 - Counter
 - Predict
-- Maintain a Move while waiting for an EcoEvent
+- Maintain a Moove while waiting for an EcoEvent
 
 <h2>PageTags</h2>
 

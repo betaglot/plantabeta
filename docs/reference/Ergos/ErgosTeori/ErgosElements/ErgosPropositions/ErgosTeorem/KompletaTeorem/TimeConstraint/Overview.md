@@ -1,6 +1,6 @@
 # 🔻<via>KompletaTimeConstraint</via>
 
-After a BlockMove you are given a piece and you only have 70 minutes before DayFinishTime
+After a BlockMoove you are given a piece and you only have 70 minutes before DayFinishTime
 
 - Prepare for Tomorrow
 

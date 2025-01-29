@@ -79,16 +79,16 @@ Test [novel plantor Instruments](dev/Instruments)
 
 ### Plant fire resistance Devices
 
-🔷<beta>Put(<eko>Ice</eko>)</beta>
+🔷<beta>Put(<ekos>Ice</ekos>)</beta>
 
 - Plant a glacier Dendron
 -
 
-🔷<beta>Put(<eko>FireBreak</eko>)</beta>
+🔷<beta>Put(<ekos>FireBreak</ekos>)</beta>
 
-🔷<beta>Put(<eko>Meadow</eko>)</beta>
+🔷<beta>Put(<ekos>Meadow</ekos>)</beta>
 
-🔷<beta>Put(<eko></eko>)</beta>
+🔷<beta>Put(<ekos></ekos>)</beta>
 
 ### Urban Planting
 

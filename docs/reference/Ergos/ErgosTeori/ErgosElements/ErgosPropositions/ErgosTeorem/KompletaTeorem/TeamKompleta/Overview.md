@@ -2,7 +2,7 @@
 
 When Plantors share the same piece of Land they are TeamPlanting, currently known as "Partner Planting" or if there are more than a couple other Plantors "Cattle Planting". "Cattle Planting" refers to the situation where cattle a herd of cattle gaze randomly across a piece of land and has a connotation of chaotic Routing. "Cattle Planting" is not a useful term because it does not encourage team work.
 
-Team members only share Via, they don't share Move (nobody plants a single Dendron as a team), therefore "Team Planting"
+Team members only share Via, they don't share Moove (nobody plants a single Dendron as a team), therefore "Team Planting"
 
 ## [Bouncing Fill](/encyclopedia/Via/TeamPlant/BouncingCover)
 

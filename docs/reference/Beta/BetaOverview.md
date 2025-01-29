@@ -2,7 +2,7 @@
 
 > Beta is the **information** that you use to perform planting tasks.
 
-<beta>Beta</beta> emerges from the interactions between <eko>Eko</eko>, <move>Move</move>, <via>Via</via> and <psike>Psike</psike>.
+<beta>Beta</beta> emerges from the interactions between <ekos>Eko</ekos>, <mooves>Moove</mooves>, <via>Via</via> and <psike>Psike</psike>.
 
 ![<beta>Beta</beta>Icon](/Beta/Beta_Icon.png)
 
@@ -31,25 +31,25 @@ This each line are analog pairs. The equal signs = denotes where Climbing and Pl
 |                         **Climbing** | **Planting**                      |
 | -----------------------------------: | :-------------------------------- |
 |                  <beta>Beta</beta> = | = <beta>Beta</beta>               |
-|                     <eko>Eko</eko> = | = <eko>Eko</eko>                  |
+|                     <ekos>Eko</ekos> = | = <ekos>Eko</ekos>                  |
 |               <via>Via</via> = | = <via>Via</via>            |
 |               <psike>Psike</psike> = | = <psike>Psike</psike>            |
-|                      <eko>Wall</eko> | <eko>Land</eko>                   |
-|              <eko>Wall Section</eko> | <eko>Area</eko>                  |
+|                      <ekos>Wall</ekos> | <ekos>Land</ekos>                   |
+|              <ekos>Wall Section</ekos> | <ekos>Area</ekos>                  |
 |      <via>ContactSurface</via> = | = <via>ContactSurface</via>   |
 |                  <via>Hold</via> | <via>Microsite</via>          |
-|                    <eko>Volume</eko> | <eko>Mound, Trench</eko>          |
-|                 <eko>WallAngle</eko> | <eko>SlopeAngle</eko>             |
-|            <move>ClimbingShoe</move> | <move>PlantingBoot</move>         |
+|                    <ekos>Volume</ekos> | <ekos>Mound, Trench</ekos>          |
+|                 <ekos>WallAngle</ekos> | <ekos>SlopeAngle</ekos>             |
+|            <mooves>ClimbingShoe</mooves> | <mooves>PlantingBoot</mooves>         |
 |                <beta>Redpoint</beta> | <beta>Replanting Required </beta> |
 |          <beta>Flash, Onsight</beta> | <beta>No replanting </beta>       |
-|         <move>RockOver Move </move>= | = <move>RockOver Move </move>     |
+|         <mooves>RockOver Moove </mooves>= | = <mooves>RockOver Moove </mooves>     |
 |        <via>ViaFinding</via> = | = <via>ViaFinding</via>     |
 |             <via>One Pitch</via> | <via>One CoverLoop </via>      |
-|                  <move>Fall</move> = | = <move>Fall</move>               |
+|                  <mooves>Fall</mooves> = | = <mooves>Fall</mooves>               |
 | <via>Anchor, Belay Station</via> | <via>Cache</via>              |
 |              <via>Approach</via> | <via>Walk In </via>           |
-|                     <eko>Crag </eko> | <eko> Block</eko>                 |
+|                     <ekos>Crag </ekos> | <ekos> Block</ekos>                 |
 
 ## How is it useful to relate Climbing to Planting?
 
@@ -73,9 +73,9 @@ Based on Gymnastics Elements. Elements are completed using Beta Factors. Multipl
 - 🔷Skreef
 - 🔷Rework
 
-### <move>MoveElement</move>
+### <mooves>MooveElement</mooves>
 
-### <eko>EkoElement</eko>
+### <ekos>EkoElement</ekos>
 
 ### <via>ViaFactor</via>
 
@@ -102,16 +102,16 @@ Via is often a lack of knowledge of what's over the hill or around the corner
 
 - bag weight constrains Via Length
 
-### <move>Move Constraints</move>
+### <mooves>Moove Constraints</mooves>
 
-- Move is metabolic energy
+- Moove is metabolic energy
 - bag weight
 
 ### <psike>Psike Constraints</psike>
 
 Psike is
 
-### <eko>Eko Constraints</eko>
+### <ekos>Eko Constraints</ekos>
 
 Eko is weather, if you are in fog you can't see eko. Remember that eko is the object of environment, which always exists. Eko requires perception. Eko requires Psike
 
@@ -131,7 +131,7 @@ There is a miscommunication happening if:
 [BetaSequence](https://docs.python.org/3/library/stdtypes.html#sequence-types-list-tuple-range)
 
 1. 🔷
-2. 🟠 <move>BodyLean</move>
+2. 🟠 <mooves>BodyLean</mooves>
 3. 🟠
 4. 🟠
 5. 🟩
@@ -196,7 +196,7 @@ Only Beta can be the solution
 
 Via Theorem, Via Solution
 
-Via just gives the options, Beta is required to Solve, since solution requires Move. Beta occurs when more than module is required in 1stPersonPoint of view. Plantor's perspective.
+Via just gives the options, Beta is required to Solve, since solution requires Moove. Beta occurs when more than module is required in 1stPersonPoint of view. Plantor's perspective.
 
 Psike that just thinks about PsikeElements
 

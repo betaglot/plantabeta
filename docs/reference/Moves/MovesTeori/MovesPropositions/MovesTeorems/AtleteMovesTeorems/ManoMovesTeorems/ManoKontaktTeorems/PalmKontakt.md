@@ -1,4 +1,4 @@
-# 🟠<move>PalmKontakt</move>
+# 🟠<mooves>PalmKontakt</mooves>
 
 ---
 

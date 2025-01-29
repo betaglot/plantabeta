@@ -1,10 +1,10 @@
-# 🟠<move>SpadeAlloMano</move>
+# 🟠<mooves>SpadeAlloMano</mooves>
 
 Aliases: Hand Swap, Hand Switch
 
 ## 🕸 SpadeAlloMano.Skema
 
-### Related 🟩<eko>Eko</eko>
+### Related 🟩<ekos>Eko</ekos>
 
 -
 
@@ -12,7 +12,7 @@ Aliases: Hand Swap, Hand Switch
 
 -
 
-### Related 🟠<move>Move</move>
+### Related 🟠<mooves>Moove</mooves>
 
 -
 

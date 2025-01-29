@@ -1,4 +1,4 @@
-# 🟩<eko>EkoAxioms</eko>
+# 🟩<ekos>EkoAxioms</ekos>
 
 ---
 

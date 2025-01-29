@@ -6,7 +6,7 @@ Aliases: Area, Enclosure, Region, Section, Sector, Territory
 
 ## 🕸 Zone.Skema
 
-### Related 🟩<eko>Eko</eko>
+### Related 🟩<ekos>Eko</ekos>
 
 -
 
@@ -14,7 +14,7 @@ Aliases: Area, Enclosure, Region, Section, Sector, Territory
 
 -
 
-### Related 🟠<move>Move</move>
+### Related 🟠<mooves>Moove</mooves>
 
 -
 

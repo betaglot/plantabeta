@@ -1,7 +1,7 @@
 # ViaElements
 
-- ViaElements don't require Eko or Move
-- ViaCompositions do require Eko or Move
+- ViaElements don't require Eko or Moove
+- ViaCompositions do require Eko or Moove
 - All Beta always requires Psike
 
 ## Differentiate(Composition, Proposition)

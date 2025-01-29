@@ -1,4 +1,4 @@
-# 🟠 <move>Sleep</move>
+# 🟠 <mooves>Sleep</mooves>
 
 HubermanLab Guest Series [with Dr. Matt Walker](https://www.youtube.com/playlist?list=PLPNW_gerXa4OoypUEgZI7uouI12WZrxeS)
 
@@ -30,11 +30,11 @@ HubermanLab Guest Series [with Dr. Matt Walker](https://www.youtube.com/playlist
 - Sleep Mask
 - Pillow
 
-## Related <move>MoveElements</move>
+## Related <mooves>MooveElements</mooves>
 
 - After work
 
-## Related 🟩<eko>EkoElements</eko>
+## Related 🟩<ekos>EkoElements</ekos>
 
 - Bumpy road
 
@@ -48,7 +48,7 @@ HubermanLab Guest Series [with Dr. Matt Walker](https://www.youtube.com/playlist
 
 ## 🕸 TruckSleep.Skema
 
-### Related 🟩<eko>Eko</eko>
+### Related 🟩<ekos>Eko</ekos>
 
 -
 
@@ -56,7 +56,7 @@ HubermanLab Guest Series [with Dr. Matt Walker](https://www.youtube.com/playlist
 
 -
 
-### Related 🟠<move>Move</move>
+### Related 🟠<mooves>Moove</mooves>
 
 -
 
@@ -77,5 +77,5 @@ HubermanLab Guest Series [with Dr. Matt Walker](https://www.youtube.com/playlist
 
 <h2>PageTags</h2>
 
-- "Move.InstrumentMove.TruckMove.Sleep"
+- "Moove.InstrumentMoove.TruckMoove.Sleep"
 :::

@@ -174,13 +174,13 @@ You're not making it worse, each workblock makes it better, deciding that what y
 
 Just get as much information out of your head and into data structures, so that they can be processed.
 
-<move>Keep going!!!</move>
+<mooves>Keep going!!!</mooves>
 
 ### Differentiate(Beta, PlantaBeta)
 
 PlantaBeta is a language
 
-Plantbeta a beta script. PlantaBeta creates the Attributes of ManoMove, like how many fingers you have. Beta can't change the number of fingers. A Hand is part of PlantaBeta, a hand is controlled with Beta
+Plantbeta a beta script. PlantaBeta creates the Attributes of ManoMoove, like how many fingers you have. Beta can't change the number of fingers. A Hand is part of PlantaBeta, a hand is controlled with Beta
 
 - Beta is only during runtime
 
@@ -190,7 +190,7 @@ EkoElement
 
 ViaFactor
 
-MoveElement
+MooveElement
 
 PsikeElement
 
@@ -216,7 +216,7 @@ There shouldn't be beta and putplant, because they a supposed to be the name of 
 
 PlantaBeta is the language and the
 
-Beta represents moto, but Move is the move itself. Move doesn't care about how it's being represented.
+Beta represents moto, but Moove is the move itself. Moove doesn't care about how it's being represented.
 
 ### Arnold Schwarzenegger
 
@@ -303,7 +303,7 @@ Every rep
 
 Make a list of DX research models for each module
 
-Move, Psike, Eko, Via, Beta
+Moove, Psike, Eko, Via, Beta
 
 To make prototyping easier. So you don't need to worry about the content
 
@@ -312,7 +312,7 @@ To make prototyping easier. So you don't need to worry about the content
 researchModels = {
     'Via': BoustroCover,
     'Psike':
-    'Move':
+    'Moove':
     'Beta':
     'Eko':
 }

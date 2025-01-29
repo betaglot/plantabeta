@@ -1,6 +1,6 @@
-# 🟠 <move>DendroMano</move>
+# 🟠 <mooves>DendroMano</mooves>
 
-![MoveIkon](/Move/Move_Ikon.png)
+![MooveIkon](/Moove/Moove_Ikon.png)
 
 ## DendroMano Purpose
 
@@ -35,7 +35,7 @@
 
 ## 🕸 DendroMano.Skema
 
-### Related 🟩<eko>Eko</eko>
+### Related 🟩<ekos>Eko</ekos>
 
 -
 
@@ -43,7 +43,7 @@
 
 -
 
-### Related 🟠<move>Move</move>
+### Related 🟠<mooves>Moove</mooves>
 
 -
 
@@ -72,7 +72,7 @@
         - No roots exposed
             - ShallowTree
 - DendroFlip
-- BlindMove
+- BlindMoove
 - RizoMano
 - TreeLoad
     - FeelingForHold

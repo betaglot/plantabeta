@@ -1,19 +1,19 @@
-# 🟠 <move>Frase</move>
+# 🟠 <mooves>Frase</mooves>
 
-> sequence of Move Factors
+> sequence of Moove Factors
 
 <div style="display: flex">
     <div>
-        <img style="margin: 5px" height="200" width="200" alt="Icon" src="/Move/Move_Icon.png"/>
-        <p>Description of Move Photo</p>
+        <img style="margin: 5px" height="200" width="200" alt="Icon" src="/Moove/Moove_Icon.png"/>
+        <p>Description of Moove Photo</p>
     </div>
     <div>
-        <img style="margin: 5px" height="200" width="200" alt="Icon" src="/Move/Move_Icon.png"/>
-        <p>Description of Move Photo</p>
+        <img style="margin: 5px" height="200" width="200" alt="Icon" src="/Moove/Moove_Icon.png"/>
+        <p>Description of Moove Photo</p>
     </div>
     <div>
-        <img style="margin: 5px" height="200" width="200" alt="Icon" src="/Move/Move_Icon.png"/>
-        <p>Description of Move Photo</p>
+        <img style="margin: 5px" height="200" width="200" alt="Icon" src="/Moove/Moove_Icon.png"/>
+        <p>Description of Moove Photo</p>
     </div>
 </div>
 
@@ -31,14 +31,14 @@
 
 ## Swap
 
-## Linguistics of MovementSequence
+## Linguistics of MoovementSequence
 
-- A MovementPosition in MovementSequence.
-    - FirstMovement
-    - BetweenMovement
-    - WhileMovement
-    - LastMovement
-- AnteMovement (AntecedentMovement)
+- A MoovementPosition in MoovementSequence.
+    - FirstMoovement
+    - BetweenMoovement
+    - WhileMoovement
+    - LastMoovement
+- AnteMoovement (AntecedentMoovement)
 
 > “Before”
 
@@ -48,7 +48,7 @@
 
 > “Preceding”
 
-- PostMovement (PostcedentMovement)
+- PostMoovement (PostcedentMoovement)
 
 > “After”
 
@@ -61,34 +61,34 @@
 > “Next”
 
 - (Complexity)ProportionalTo(SubmovementDirectionCount)
-    - Complexity(UpThenOverMovement > UpMovement)
+    - Complexity(UpThenOverMoovement > UpMoovement)
 
-- MovementCycle
+- MoovementCycle
     - CycleCount
     - RepeatingSequence
     - ClimberPartCycle
     - CrackClimbing
     - Brachiation
     - Generating Momentum
-        - ResonantOnda before DynamicMovement.
+        - ResonantOnda before DynamicMoovement.
 
 - SequentialSubmovements in different directions.
-    - MovementNameList
-        - To(UnderclingHold)Movement
+    - MoovementNameList
+        - To(UnderclingHold)Moovement
             - [StandUp, UnderclingHold]
     - CompressionCatch
     - ExpansionCatch(ArmBrake)
     - LegAbsorb after a Dyno
         > “Control the Onda”,”Absorb the Onda”
 
-- MovementNameList
-    - RoseMovement
-    - ClockMovement
+- MoovementNameList
+    - RoseMoovement
+    - ClockMoovement
     - DropKnee
     - Brachiation
     - FarThenClose
 
-- ConditionalMovementSequence
+- ConditionalMoovementSequence
     - LogicalOperator
     - LogicalAND
         - &&
@@ -97,21 +97,21 @@
     - Nullish Coalescing Operator
     - TernaryOperator
         - (condition ? exprIfTrue : exprIfFalse)
-    - MovementEvent
+    - MoovementEvent
         - RouteEvent
         - IfThen
-        - If(RouteEvent)Then(MovementEvent)
+        - If(RouteEvent)Then(MoovementEvent)
         - Used more in OnsightClimb.
-- MovementSequenceError
+- MoovementSequenceError
     - HandSwap
         > “botched sequence”
 
-## Movement Timing
+## Moovement Timing
 
 - SubmovementTiming
     - Writing Time SynchronousTime is redundant since Chronos already means Time.
-    - SynchronousMovement
-    - AsynchronousMovement
+    - SynchronousMoovement
+    - AsynchronousMoovement
 
 ---
 
@@ -126,39 +126,39 @@
 
 <h2>PageTags</h2>
 
-- "Move.MoveFrase"
-- "Move.MoveFrase.AnteMove"
-- "Move.MoveFrase.ArmFrase"
-- "Move.MoveFrase.Attempt"
-- "Move.MoveFrase.BaggingUpFrase"
-- "Move.MoveFrase.BodyFrase"
-- "Move.MoveFrase.ContiguousMove"
-- "Move.MoveFrase.CurrentMove"
-- "Move.MoveFrase.FootFrase"
-- "Move.MoveFrase.HandFrase"
-- "Move.MoveFrase.InitiationMove"
-- "Move.MoveFrase.IntermembralTiming"
-- "Move.MoveFrase.LegFrase"
-- "Move.MoveFrase.MoveChunk.MoveFrase"
-- "Move.MoveFrase.MoveCycle"
-- "Move.MoveFrase.MoveCycle.DoUntil"
-- "Move.MoveFrase.MoveCycle.DoWhile"
-- "Move.MoveFrase.MoveDensity"
-- "Move.MoveFrase.MoveEndurance"
-- "Move.MoveFrase.MoveLineFrase"
-- "Move.MoveFrase.MoveNestedFrase"
-- "Move.MoveFrase.MoveOverlap"
-- "Move.MoveFrase.MoveRitmo"
-- "Move.MoveFrase.MoveFraseArea"
-- "Move.MoveFrase.MoveFraseError"
-- "Move.MoveFrase.MoveFraseVariation"
-- "Move.MoveFrase.MoveShapeFrase.MoveShapeOverlap"
-- "Move.MoveFrase.MoveSpaceFrase.MoveSpaceOverlap"
-- "Move.MoveFrase.MoveTempo"
-- "Move.MoveFrase.PlantingFrase"
-- "Move.MoveFrase.PostMove"
-- "Move.MoveFrase.SimultaneousMove"
-- "Move.MoveFrase.SpadeFrase"
-- "Move.MoveFrase.SubmoveFrase"
-- "Move.MoveFrase.TransitionMove"
+- "Moove.MooveFrase"
+- "Moove.MooveFrase.AnteMoove"
+- "Moove.MooveFrase.ArmFrase"
+- "Moove.MooveFrase.Attempt"
+- "Moove.MooveFrase.BaggingUpFrase"
+- "Moove.MooveFrase.BodyFrase"
+- "Moove.MooveFrase.ContiguousMoove"
+- "Moove.MooveFrase.CurrentMoove"
+- "Moove.MooveFrase.FootFrase"
+- "Moove.MooveFrase.HandFrase"
+- "Moove.MooveFrase.InitiationMoove"
+- "Moove.MooveFrase.IntermembralTiming"
+- "Moove.MooveFrase.LegFrase"
+- "Moove.MooveFrase.MooveChunk.MooveFrase"
+- "Moove.MooveFrase.MooveCycle"
+- "Moove.MooveFrase.MooveCycle.DoUntil"
+- "Moove.MooveFrase.MooveCycle.DoWhile"
+- "Moove.MooveFrase.MooveDensity"
+- "Moove.MooveFrase.MooveEndurance"
+- "Moove.MooveFrase.MooveLineFrase"
+- "Moove.MooveFrase.MooveNestedFrase"
+- "Moove.MooveFrase.MooveOverlap"
+- "Moove.MooveFrase.MooveRitmo"
+- "Moove.MooveFrase.MooveFraseArea"
+- "Moove.MooveFrase.MooveFraseError"
+- "Moove.MooveFrase.MooveFraseVariation"
+- "Moove.MooveFrase.MooveShapeFrase.MooveShapeOverlap"
+- "Moove.MooveFrase.MooveSpaceFrase.MooveSpaceOverlap"
+- "Moove.MooveFrase.MooveTempo"
+- "Moove.MooveFrase.PlantingFrase"
+- "Moove.MooveFrase.PostMoove"
+- "Moove.MooveFrase.SimultaneousMoove"
+- "Moove.MooveFrase.SpadeFrase"
+- "Moove.MooveFrase.SubmoveFrase"
+- "Moove.MooveFrase.TransitionMoove"
 :::

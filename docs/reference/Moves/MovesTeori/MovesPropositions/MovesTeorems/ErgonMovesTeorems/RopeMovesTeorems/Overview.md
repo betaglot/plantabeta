@@ -1,8 +1,8 @@
-# 🟠 <move>RopeMove</move>
+# 🟠 <mooves>RopeMoove</mooves>
 
-## 🕸 RopeMove.Skema
+## 🕸 RopeMoove.Skema
 
-### Related 🟩<eko>Eko</eko>
+### Related 🟩<ekos>Eko</ekos>
 
 -
 
@@ -10,7 +10,7 @@
 
 -
 
-### Related 🟠<move>Move</move>
+### Related 🟠<mooves>Moove</mooves>
 
 -
 

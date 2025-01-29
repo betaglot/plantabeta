@@ -1,4 +1,4 @@
-# 🟠<move>ThumbAdduction</move>
+# 🟠<mooves>ThumbAdduction</mooves>
 
 ---
 

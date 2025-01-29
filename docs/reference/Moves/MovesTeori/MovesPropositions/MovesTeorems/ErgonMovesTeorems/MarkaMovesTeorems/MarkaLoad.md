@@ -1,6 +1,6 @@
-# 🟠 <move>MarkaLoad</move>
+# 🟠 <mooves>MarkaLoad</mooves>
 
-![MoveIkon](/Move/Move_Ikon.png)
+![MooveIkon](/Moove/Moove_Ikon.png)
 
 ---
 
@@ -15,5 +15,5 @@
 
 <h2>PageTags</h2>
 
-- "Move.InstrumentMove.MarkaMove.MarkaUnload"
+- "Moove.InstrumentMoove.MarkaMoove.MarkaUnload"
 :::

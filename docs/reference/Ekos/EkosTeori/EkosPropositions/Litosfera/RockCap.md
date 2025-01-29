@@ -1,4 +1,4 @@
-# 🟩<eko>RockCap</eko>
+# 🟩<ekos>RockCap</ekos>
 
 ---
 

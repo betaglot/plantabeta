@@ -1,17 +1,17 @@
-# 🔷🟠 Moves Theoria
+# 🔷🟠 Mooves Theoria
 
-A RICscore description for a single Move.
+A RICscore description for a single Moove.
 
-- SuperMove, SubMove
+- SuperMoove, SubMoove
 
-- MoveRICscore is used to compare Moves. AlternativeMoves can be compared to find a Move which fits in a MoveSequence.
-    - MoveComparison
+- MooveRICscore is used to compare Mooves. AlternativeMooves can be compared to find a Moove which fits in a MooveSequence.
+    - MooveComparison
 
-- MovePattern.Theoria
-    - A Theoria description for a single MovePattern, which is composed of many Moves.
-    - Used to compare multiple MovePatterns.
+- MoovePattern.Theoria
+    - A Theoria description for a single MoovePattern, which is composed of many Mooves.
+    - Used to compare multiple MoovePatterns.
 
-## Unlike Via, Moves Pages are composed of Definitions and Propositions
+## Unlike Via, Mooves Pages are composed of Definitions and Propositions
 
 This is a Jump (Theorem), this is how to Jump (Problem), this is you jumping (Praktik)
 
@@ -19,13 +19,13 @@ This is a BoustroLine (Theorem), this how to construction a BoutroLine (Problem)
 
 Propositions never have errors. Errors only occur in Praktik
 
-There is less Via than Moves. It makes more sense to group MoveElements by their definitions (their concrete objects)
+There is less Via than Mooves. It makes more sense to group MooveElements by their definitions (their concrete objects)
 
 Each BetaTipos is like a Book
 
 EkoBook
 ViaBook
-MoveBook
+MooveBook
 PsikeBook
 
 then later Books combine them into Beta

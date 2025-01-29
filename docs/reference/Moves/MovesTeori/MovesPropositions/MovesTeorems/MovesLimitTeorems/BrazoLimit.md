@@ -1,4 +1,4 @@
-# 🟠<move>BrazoLimit</move>
+# 🟠<mooves>BrazoLimit</mooves>
 
 ---
 

@@ -2,11 +2,11 @@
 
 ## ❌ Team.Error
 
-### ❌ Team.Error.Eko 🟩<eko></eko>
+### ❌ Team.Error.Eko 🟩<ekos></ekos>
 
 Unbundle heuristic during team plant block close
 
-### ❌ Team.Error.Move 🟠<move></move>
+### ❌ Team.Error.Moove 🟠<mooves></mooves>
 
 ### ❌Team.Error.Via 🔻<via></via>
 

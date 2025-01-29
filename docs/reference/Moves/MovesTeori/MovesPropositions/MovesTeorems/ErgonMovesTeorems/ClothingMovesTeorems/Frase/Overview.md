@@ -1,4 +1,4 @@
-# 🔷 <move>Clothing Frase</move>
+# 🔷 <mooves>Clothing Frase</mooves>
 
 ## Substitute Frase
 

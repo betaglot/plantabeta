@@ -32,7 +32,7 @@ treeList = [
     ]
 ```
 
-## MoveTest
+## MooveTest
 
 ## ViaTest
 
@@ -53,7 +53,7 @@ treeList = [
 - Every minute counts
 - Simulate the job with Test coded in Python. Use Voronoi and other algorithms to check answers
 - The most simple test is multiple choice naming test
-    - Gif of the PlantorMove
+    - Gif of the PlantorMoove
     - Image of Instruments
     - Name all the objects
 
@@ -70,8 +70,8 @@ treeList = [
 - "Tests.FillInBlank"
 - "Tests.IncreasingDifficulty"
 - "Tests.MatchingTest"
-- "Tests.MoveDecomposition"
-- "Tests.MoveTest.VideoAnswer"
+- "Tests.MooveDecomposition"
+- "Tests.MooveTest.VideoAnswer"
 - "Tests.MultipleChoiceTest"
 - "Tests.Overview"
 - "Tests.Recall.Recall.RecallBetaDiagram"

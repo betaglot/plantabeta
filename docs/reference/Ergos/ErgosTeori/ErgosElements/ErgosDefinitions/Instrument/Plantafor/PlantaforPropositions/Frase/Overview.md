@@ -1,4 +1,4 @@
-# 🔷<move>Bag Frase</move>
+# 🔷<mooves>Bag Frase</mooves>
 
 ---
 
@@ -13,5 +13,5 @@
 
 <h2>PageTags</h2>
 
-- "Move.InstrumentMove.BagMove.BagOn"
+- "Moove.InstrumentMoove.BagMoove.BagOn"
 :::

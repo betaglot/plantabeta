@@ -1,6 +1,6 @@
 # 🛠<dev>TaskList</dev>
 
-A list of all tasks needed for 🔷<beta>Put(<eko>Plant</eko>)</beta>
+A list of all tasks needed for 🔷<beta>Put(<ekos>Plant</ekos>)</beta>
 
 ::: warning You can too!
 You don't need to be a programmer to contribute to this open source project.
@@ -200,7 +200,7 @@ Connect Academia to PutPlant by linking to each field's current understanding.
 - Apply Computational Thinking to PutPlant
 - Python
 - Create JSON files which are used in DataVisualizations
-    - MoveHierarchy
+    - MooveHierarchy
     - EcoHierarchy
     - ViaHierarchy
 
@@ -301,7 +301,7 @@ See [Instruments](/dev/Instruments) for notes about each Instrument
 
 - D3
 - TreeView
-    - TreeView_MoveHierarchy
+    - TreeView_MooveHierarchy
     - TreeView_EcoHierarchy
     - TreeView_ViaHierarchy
 

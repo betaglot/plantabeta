@@ -1,10 +1,10 @@
-# 🟠 <move>LegAbduction</move>
+# 🟠 <mooves>LegAbduction</mooves>
 
-![MoveIkon](/Move/Move_Ikon.png)
+![MooveIkon](/Moove/Moove_Ikon.png)
 
 ## 🕸 LegAbduction.Skema
 
-### Related 🟩<eko>Eko</eko>
+### Related 🟩<ekos>Eko</ekos>
 
 -
 
@@ -12,7 +12,7 @@
 
 -
 
-### Related 🟠<move>Move</move>
+### Related 🟠<mooves>Moove</mooves>
 
 -
 
@@ -33,5 +33,5 @@
 
 <h2>PageTags</h2>
 
-- "Move.LegMove.LegAbduction"
+- "Moove.LegMoove.LegAbduction"
 :::

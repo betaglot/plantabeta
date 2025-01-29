@@ -1,20 +1,20 @@
-# 🟠<move>Speak</move>
+# 🟠<mooves>Speak</mooves>
 
-🟠<move>Speak(<beta>BetaString</beta>)</move>
+🟠<mooves>Speak(<beta>BetaString</beta>)</mooves>
 
 ## Speak is the opposite of Parse
 
 Put Plantbeta into a natural language
 
 1. Separated <beta>BetaModules</beta> (optional step)
-    - 🟠<move>Leg.Step()</move>
+    - 🟠<mooves>Leg.Step()</mooves>
     - 🔻<via>Over</via>
-    - 🟩<eko>Log</eko>
+    - 🟩<ekos>Log</ekos>
 
 2. <beta>Plantbeta</beta>
     - 🔷<beta>Leg.Step.Over(Log)</beta>
 
-3. 🟠<move>Speak(<beta>"Step over the log"</beta>)</move>
+3. 🟠<mooves>Speak(<beta>"Step over the log"</beta>)</mooves>
 
 ## Loudness
 
@@ -22,7 +22,7 @@ When does speaking become yelling? What is a more polyglot word for speak?
 
 Speaking to teammate less than 3 meters away.
 
-Speak over the 🟩<eko>weather</eko>. The loudest would be during a windy hail storm.
+Speak over the 🟩<ekos>weather</ekos>. The loudest would be during a windy hail storm.
 
 Speak to a teammate who is far away.
 

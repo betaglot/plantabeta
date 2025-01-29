@@ -1,4 +1,4 @@
-# 🔷<move>Kit Frase</move>
+# 🔷<mooves>Kit Frase</mooves>
 
 ---
 

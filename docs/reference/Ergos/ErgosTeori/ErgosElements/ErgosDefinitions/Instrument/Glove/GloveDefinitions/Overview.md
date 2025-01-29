@@ -1,4 +1,4 @@
-# 🟠<move>GloveDefinitions</move>
+# 🟠<mooves>GloveDefinitions</mooves>
 
 ---
 

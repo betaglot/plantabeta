@@ -9,7 +9,7 @@ Aliases: Path, Way, Route, Passage, Trail
 
 ## 🕸 Line.Skema
 
-### Related 🟩<eko>Eko</eko>
+### Related 🟩<ekos>Eko</ekos>
 
 -
 
@@ -17,7 +17,7 @@ Aliases: Path, Way, Route, Passage, Trail
 
 -
 
-### Related 🟠<move>Move</move>
+### Related 🟠<mooves>Moove</mooves>
 
 -
 
@@ -34,24 +34,24 @@ Aliases: Path, Way, Route, Passage, Trail
 <!-- =================================================== -->
 ::: details 🛠 <dev>&&&</dev>
 
-- Remember that there can be many different ways to Move along a given line. Line and Move are independent of each other.
+- Remember that there can be many different ways to Moove along a given line. Line and Moove are independent of each other.
 
 - The Sequence of Via is a Line
-    - Analogy(Move: Frase, Via: Line), then what are the Elements of a Line? Geometry?
-        - Move->Frase->Composition
+    - Analogy(Moove: Frase, Via: Line), then what are the Elements of a Line? Geometry?
+        - Moove->Frase->Composition
         - What->Line->Proposition
         - A line is a sequence of points
-        - How does a Line(Path) apply to Move and to Eko
-            - Move:Trajectory, Via:Boundary
+        - How does a Line(Path) apply to Moove and to Eko
+            - Moove:Trajectory, Via:Boundary
             - A border isn't a line
-            - The border of ArmMove is determined by the maximum length of your Arm
+            - The border of ArmMoove is determined by the maximum length of your Arm
             - Trajectory, Boundary, Time, Marka
                 - Trajectory: Point then Curve
                 - Boundary: Points
 
 <h2>PageTags</h2>
 
-- "Via.Line.AdvancingMove"
+- "Via.Line.AdvancingMoove"
 - "Via.Line.BagUpLine"
 - "Via.Line.BeeLine"
 - "Via.Line.BoundaryLine.ArtificialBoundaryLine"

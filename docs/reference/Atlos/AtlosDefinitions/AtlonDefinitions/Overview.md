@@ -1,4 +1,4 @@
-# 🏆<atlon>Atlon</atlon>
+# 🏆<atlos>Atlon</atlos>
 
 ---
 

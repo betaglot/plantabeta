@@ -1,10 +1,10 @@
-# 🟠 <move>Fall</move>
+# 🟠 <mooves>Fall</mooves>
 
-![MoveIkon](/Move/Move_Ikon.png)
+![MooveIkon](/Moove/Moove_Ikon.png)
 
 ## 🕸 Fall.Skema
 
-### Related 🟩<eko>Eko</eko>
+### Related 🟩<ekos>Eko</ekos>
 
 -
 
@@ -12,7 +12,7 @@
 
 -
 
-### Related 🟠<move>Move</move>
+### Related 🟠<mooves>Moove</mooves>
 
 -
 
@@ -50,7 +50,7 @@
         - Don't Rely on Flora since you could rip it out of the ground if there's enough force
     - SpadeAma
 - FallRedirectionFase
-    - AbsorbMove
+    - AbsorbMoove
         - To give more time for redirection
     - PanBeta(SkateboardBeta)
         - Most BigAir jumps have a quarter pipe after landing ramp to convert kinetic energy into gravitational potential energy and friction. The gravitational potential energy is only dissipated if the skateboarder steps onto the top of the quarter pipe. Otherwise the kinetic energy is lost to air drag and friction
@@ -64,13 +64,13 @@
         - Don't cross your legs, because you could LegSnag yourself
     - After the point of no return. You can't stop falling, so you must redirect to fall into the safest place
     - To fall onto your bags
-    - PushMove
-    - PullMove
+    - PushMoove
+    - PullMoove
     - Sit instead of toppling over like a domino
         - Don't Sit if you're gonna get impaled
     - KontaktSelection
         - Via which Fluxes to the next site
-        - Somewhere to decelerate (AbsorbMove)
+        - Somewhere to decelerate (AbsorbMoove)
             - Run down the hill
 - FallCollisionFase
     - When you actually collide with the ground

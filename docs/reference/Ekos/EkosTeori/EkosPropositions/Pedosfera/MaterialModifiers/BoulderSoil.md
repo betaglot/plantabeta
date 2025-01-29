@@ -1,10 +1,10 @@
-# 🟩<eko>BoulderSoil</eko>
+# 🟩<ekos>BoulderSoil</ekos>
 
 > An accumulation of rounded particles greater than 256 mm in size. - [CanadianGov](https://sis.agr.gc.ca/cansis/taxa/cssc3/chpt18.html)
 
 ## 🕸 BoulderSoil.Skema
 
-### Related 🟩<eko>Eko</eko>
+### Related 🟩<ekos>Eko</ekos>
 
 -
 
@@ -12,7 +12,7 @@
 
 -
 
-### Related 🟠<move>Move</move>
+### Related 🟠<mooves>Moove</mooves>
 
 -
 

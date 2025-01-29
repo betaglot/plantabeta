@@ -23,9 +23,9 @@ Like the ones in Euclid's Elements
 
 ## Examples
 
-### 🟠<move></move> How to get your feet back on the wall?
+### 🟠<mooves></mooves> How to get your feet back on the wall?
 
-### 🟩<eko></eko> How to
+### 🟩<ekos></ekos> How to
 
 ### 🔻<via></via> How to estimate the distance between ViaContacts
 

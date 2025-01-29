@@ -1,10 +1,10 @@
-# 🟠<move>RadiorMove</move>
+# 🟠<mooves>RadiorMoove</mooves>
 
 Aliases: Vambrace, Forearm Guard
 
-## 🕸 RadiorMove.Skema
+## 🕸 RadiorMoove.Skema
 
-### Related 🟩<eko>Eko</eko>
+### Related 🟩<ekos>Eko</ekos>
 
 -
 
@@ -12,7 +12,7 @@ Aliases: Vambrace, Forearm Guard
 
 -
 
-### Related 🟠<move>Move</move>
+### Related 🟠<mooves>Moove</mooves>
 
 -
 

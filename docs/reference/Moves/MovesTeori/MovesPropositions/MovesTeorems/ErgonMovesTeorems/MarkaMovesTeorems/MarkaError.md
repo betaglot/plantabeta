@@ -1,4 +1,4 @@
-# ❌<move>MarkaError</move>
+# ❌<mooves>MarkaError</mooves>
 
 - Don't walk into the bush that you just high Markaged the spring back to vertical will dislodge the Marka.
 

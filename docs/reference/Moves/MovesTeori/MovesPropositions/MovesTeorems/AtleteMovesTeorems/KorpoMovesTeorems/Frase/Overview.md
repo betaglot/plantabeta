@@ -1,4 +1,4 @@
-# 🔷<move>Body Frase</move>
+# 🔷<mooves>Body Frase</mooves>
 
 ## Get
 

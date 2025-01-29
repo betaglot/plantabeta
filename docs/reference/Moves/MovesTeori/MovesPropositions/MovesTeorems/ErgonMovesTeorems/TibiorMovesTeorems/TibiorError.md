@@ -1,1 +1,1 @@
-# 🟠<move>TibiorError</move>
+# 🟠<mooves>TibiorError</mooves>

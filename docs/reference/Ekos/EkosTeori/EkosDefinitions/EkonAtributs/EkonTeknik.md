@@ -1,4 +1,4 @@
-# 🟩<eko>EkoTeknik</eko>
+# 🟩<ekos>EkoTeknik</ekos>
 
 ## Definition
 

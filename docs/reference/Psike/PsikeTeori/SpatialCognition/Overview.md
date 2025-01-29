@@ -28,7 +28,7 @@
 
 ## Spatial Pattern
 
-## Spatial Move
+## Spatial Moove
 
 ## Cognitive Map
 
@@ -66,9 +66,9 @@ View from road
 
 ViaPlan vs. ActualVia
 
-## <eko>EcoSpace</eko>
+## <ekos>EcoSpace</ekos>
 
-## <move>MoveSpace</move>
+## <mooves>MooveSpace</mooves>
 
 ## <via>ViaSpace</via>
 

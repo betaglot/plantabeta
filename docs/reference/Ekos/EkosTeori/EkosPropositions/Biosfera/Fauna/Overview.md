@@ -1,8 +1,8 @@
-# 🟩 <eko>Fauna</eko>
+# 🟩 <ekos>Fauna</ekos>
 
 ## 🕸 Fauna.Skema
 
-### Related 🟩<eko>Eko</eko>
+### Related 🟩<ekos>Eko</ekos>
 
 -
 
@@ -10,7 +10,7 @@
 
 -
 
-### Related 🟠<move>Move</move>
+### Related 🟠<mooves>Moove</mooves>
 
 -
 
@@ -43,6 +43,6 @@
 - AnimalWildlifeLibrary_Ungulate_Moose_EncounterFrequency_ToDo_GetStatistic
 - AnimalWildlifeLibrary_WildlifeInjury_PreventInjury_RoadKill_ToDo_GetStatistic
 - AnimalWildlifeLibrary_Wolf_WolfPack_PlantingLocation_ToDo_GetFact
-- AnimalWildlifeLibrary_Worm_WildlifeInjury_SpadeMove_Decapatation
+- AnimalWildlifeLibrary_Worm_WildlifeInjury_SpadeMoove_Decapatation
 - Ant
 :::

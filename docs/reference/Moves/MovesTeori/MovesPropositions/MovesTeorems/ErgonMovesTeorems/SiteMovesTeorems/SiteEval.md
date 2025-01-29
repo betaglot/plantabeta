@@ -1,10 +1,10 @@
-# 🟠<move>SiteEval</move>
+# 🟠<mooves>SiteEval</mooves>
 
 Aliases: Test, Probe, Validate, Verify, Examine
 
 ## 🕸 SiteEval.Skema
 
-### Related 🟩<eko>Eko</eko>
+### Related 🟩<ekos>Eko</ekos>
 
 -
 
@@ -12,7 +12,7 @@ Aliases: Test, Probe, Validate, Verify, Examine
 
 -
 
-### Related 🟠<move>Move</move>
+### Related 🟠<mooves>Moove</mooves>
 
 -
 

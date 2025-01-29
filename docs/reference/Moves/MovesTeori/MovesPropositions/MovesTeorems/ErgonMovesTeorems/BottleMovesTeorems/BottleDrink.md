@@ -1,4 +1,4 @@
-# 🟠<move>BottleDrink</move>
+# 🟠<mooves>BottleDrink</mooves>
 
 ---
 

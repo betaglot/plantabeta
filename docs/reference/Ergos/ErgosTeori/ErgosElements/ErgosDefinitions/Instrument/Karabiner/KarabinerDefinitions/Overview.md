@@ -1,4 +1,4 @@
-# 🟠<move>KarabinerDefinitions</move>
+# 🟠<mooves>KarabinerDefinitions</mooves>
 
 ---
 

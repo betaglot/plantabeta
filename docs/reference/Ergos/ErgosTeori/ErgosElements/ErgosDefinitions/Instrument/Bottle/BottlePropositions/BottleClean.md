@@ -1,4 +1,4 @@
-# 🟠<move>BottleClean</move>
+# 🟠<mooves>BottleClean</mooves>
 
 ---
 

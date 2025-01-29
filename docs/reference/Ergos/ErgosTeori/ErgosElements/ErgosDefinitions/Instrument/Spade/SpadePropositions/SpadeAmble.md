@@ -1,4 +1,4 @@
-# 🟠<move>SpadeAmble</move>
+# 🟠<mooves>SpadeAmble</mooves>
 
 ## Attributes
 
@@ -21,7 +21,7 @@ def ModifyLength():
 
 ## 🕸 SpadeAmble.Skema
 
-### Related 🟩<eko>Eko</eko>
+### Related 🟩<ekos>Eko</ekos>
 
 -
 
@@ -29,7 +29,7 @@ def ModifyLength():
 
 -
 
-### Related 🟠<move>Move</move>
+### Related 🟠<mooves>Moove</mooves>
 
 -
 
@@ -46,6 +46,6 @@ def ModifyLength():
 <!-- =================================================== -->
 ::: details 🛠 <dev>&&&</dev>
 
-- 🟠<move>Walk</move> uses the same
+- 🟠<mooves>Walk</mooves> uses the same
 
 :::

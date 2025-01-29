@@ -1,10 +1,10 @@
-# 🟩<eko>Hirdosfera</eko>
+# 🟩<ekos>Hirdosfera</ekos>
 
 Aliases: Water, Hydrosphere
 
 ## 🕸 Hidrosfera.Skema
 
-### Related 🟩<eko>Eko</eko>
+### Related 🟩<ekos>Eko</ekos>
 
 -
 
@@ -12,7 +12,7 @@ Aliases: Water, Hydrosphere
 
 -
 
-### Related 🟠<move>Move</move>
+### Related 🟠<mooves>Moove</mooves>
 
 -
 

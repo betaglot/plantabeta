@@ -1,4 +1,4 @@
-# 💜 <psike>MoveTiming </psike>
+# 💜 <psike>MooveTiming </psike>
 
 ## PlantingRate
 

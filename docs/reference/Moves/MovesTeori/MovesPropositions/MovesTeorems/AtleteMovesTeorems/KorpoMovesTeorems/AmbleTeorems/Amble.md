@@ -1,10 +1,10 @@
-# 🟠 <move>Amble</move>
+# 🟠 <mooves>Amble</mooves>
 
-![MoveIkon](/Move/Move_Ikon.png)
+![MooveIkon](/Moove/Moove_Ikon.png)
 
 ## Amble.Purpose
 
-- Amble is the most frequent top level Move
+- Amble is the most frequent top level Moove
 
 ## Amble.Attributes
 
@@ -39,7 +39,7 @@ Aim small miss small. Larger moves have larger potential for error
 
 ## 🕸 Amble.Skema
 
-### Related 🟩<eko>Eko</eko>
+### Related 🟩<ekos>Eko</ekos>
 
 -
 
@@ -47,7 +47,7 @@ Aim small miss small. Larger moves have larger potential for error
 
 - AmbleSpeed
 
-### Related 🟠<move>Move</move>
+### Related 🟠<mooves>Moove</mooves>
 
 -
 
@@ -77,6 +77,6 @@ Aim small miss small. Larger moves have larger potential for error
 
 <h2>PageTags</h2>
 
-- "Move.BodyMove.Amble"
+- "Moove.BodyMoove.Amble"
 
 :::

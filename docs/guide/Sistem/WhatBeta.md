@@ -2,7 +2,7 @@
 
 > Beta is the **information** that you use to perform planting tasks.
 
-<beta>Beta</beta> emerges from the interactions between <eko>Eko</eko>, <move>Move</move>, <via>Via</via> and <psike>Psike</psike>.
+<beta>Beta</beta> emerges from the interactions between <ekos>Eko</ekos>, <mooves>Moove</mooves>, <via>Via</via> and <psike>Psike</psike>.
 
 ![<beta>Beta</beta>Icon](/Beta/Beta_Icon.png)
 
@@ -28,9 +28,9 @@ Betamax was a piece of hardware (similar to a VHS tape or cassete) which was use
 
 BetaType
 
-### <move>MoveType</move>
+### <mooves>MooveType</mooves>
 
-### <eko>EkoType</eko>
+### <ekos>EkoType</ekos>
 
 ### <via>ViaType</via>
 
@@ -53,16 +53,16 @@ Via is often a lack of knowledge of what's over the hill or around the corner
 
 - bag weight constrains Via Length
 
-### <move>Move Constraints</move>
+### <mooves>Moove Constraints</mooves>
 
-- Move is metabolic energy
+- Moove is metabolic energy
 - bag weight
 
 ### <psike>Psike Constraints</psike>
 
 Psike is
 
-### <eko>Eko Constraints</eko>
+### <ekos>Eko Constraints</ekos>
 
 Eko is weather, if you are in fog you can't see eko. Remember that eko is the object of environment, which always exists. Eko requires perception. Eko requires Psike
 
@@ -73,7 +73,7 @@ There is a miscommunication happening if:
 [BetaSequence](https://docs.python.org/3/library/stdtypes.html#sequence-types-list-tuple-range)
 
 1. 🔷
-2. 🟠 <move>BodyLean</move>
+2. 🟠 <mooves>BodyLean</mooves>
 3. 🟠
 4. 🟠
 5. 🟩
@@ -139,7 +139,7 @@ Only Beta can be the solution
 
 Via Theorem, Via Solution
 
-Via just gives the options, Beta is required to Solve, since solution requires Move. Beta occurs when more than module is required in 1stPersonPoint of view. Planter's perspective.
+Via just gives the options, Beta is required to Solve, since solution requires Moove. Beta occurs when more than module is required in 1stPersonPoint of view. Planter's perspective.
 
 Psike that just thinks about PsykheTypes
 :::

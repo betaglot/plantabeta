@@ -1,4 +1,4 @@
-# 🟩<eko>EkoAlias</eko>
+# 🟩<ekos>EkoAlias</ekos>
 
 > other names used to refer to this Element. In english or other languages.
 

@@ -1,4 +1,4 @@
-# 🟩<eko>Bryophyta</eko>
+# 🟩<ekos>Bryophyta</ekos>
 
 Aliases: Moss
 

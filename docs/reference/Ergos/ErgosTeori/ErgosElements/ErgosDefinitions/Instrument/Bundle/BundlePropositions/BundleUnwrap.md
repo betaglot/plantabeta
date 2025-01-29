@@ -1,8 +1,8 @@
-# 🟠<move>BundleUnwrap</move>
+# 🟠<mooves>BundleUnwrap</mooves>
 
 ## 🕸 BundleUnwrap.Skema
 
-### Related 🟩<eko>Eko</eko>
+### Related 🟩<ekos>Eko</ekos>
 
 -
 
@@ -10,7 +10,7 @@
 
 -
 
-### Related 🟠<move>Move</move>
+### Related 🟠<mooves>Moove</mooves>
 
 -
 
@@ -29,7 +29,7 @@
 
 - FeelingForKontakt to find WrapperStart
 - PinchSlideGrip
-- 2HandMove
+- 2HandMoove
     - (PinchMano + ScoopMano)
 
 :::

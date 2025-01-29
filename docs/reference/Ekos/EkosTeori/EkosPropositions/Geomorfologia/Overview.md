@@ -1,4 +1,4 @@
-# 🟩<eko>Geomorphology</eko>
+# 🟩<ekos>Geomorphology</ekos>
 
 ---
 

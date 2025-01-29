@@ -1,4 +1,4 @@
-# 🔷<move>Plant Frase</move>
+# 🔷<mooves>Plant Frase</mooves>
 
 ---
 

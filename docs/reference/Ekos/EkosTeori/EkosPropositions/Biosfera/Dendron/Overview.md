@@ -1,4 +1,4 @@
-# 🟩 <eko>Dendron</eko>
+# 🟩 <ekos>Dendron</ekos>
 
 Aliases: Tree, Neophyte, Seedling
 
@@ -6,7 +6,7 @@ Aliases: Tree, Neophyte, Seedling
 
 ## 🕸 Dendron.Skema
 
-### Related 🟩<eko>Eko</eko>
+### Related 🟩<ekos>Eko</ekos>
 
 -
 
@@ -14,7 +14,7 @@ Aliases: Tree, Neophyte, Seedling
 
 -
 
-### Related 🟠<move>Move</move>
+### Related 🟠<mooves>Moove</mooves>
 
 -
 

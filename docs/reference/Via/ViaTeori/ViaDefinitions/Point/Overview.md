@@ -38,7 +38,7 @@ Makes the Voronoi Cells more
 
 ## 🕸 Point.Skema
 
-### Related 🟩<eko>Eko</eko>
+### Related 🟩<ekos>Eko</ekos>
 
 -
 
@@ -46,7 +46,7 @@ Makes the Voronoi Cells more
 
 -
 
-### Related 🟠<move>Move</move>
+### Related 🟠<mooves>Moove</mooves>
 
 -
 

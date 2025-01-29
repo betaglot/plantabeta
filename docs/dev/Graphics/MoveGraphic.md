@@ -1,12 +1,12 @@
-# 🛠 <move>Move Graphics</move>
+# 🛠 <mooves>Move Graphics</mooves>
 
-## <move>MoveCard</move>
+## <mooves>MoveCard</mooves>
 
 Mirror images for ambidextrous plantor
 
-## <move>MoveTimeline</move>
+## <mooves>MoveTimeline</mooves>
 
-## <move>MoveTree</move>
+## <mooves>MoveTree</mooves>
 
 ---
 

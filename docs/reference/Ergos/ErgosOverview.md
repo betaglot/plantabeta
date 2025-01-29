@@ -30,7 +30,7 @@ Aliases: Work, Job, Task
         - Don't take all the easy land
             - Cream someone out
             - A creamer
-- 🟩<eko>Eko</eko>.Ergos
+- 🟩<ekos>Eko</ekos>.Ergos
     - SlowLand
     - TreePrice
         - EkoMetron affects TreePrice, it
@@ -39,8 +39,8 @@ Aliases: Work, Job, Task
     - Choose the most Efficient Via
     - Path of least resistance
     - Ergos defines the Boundary of a Block
-- 🟠<move>Move</move>.Ergos
-    - Choose the most Efficient Move
+- 🟠<mooves>Moove</mooves>.Ergos
+    - Choose the most Efficient Moove
     - Work as a unit of energy
 - 💜<psike>Psike</psike>.Ergos
     - Ergos can influence Motivate

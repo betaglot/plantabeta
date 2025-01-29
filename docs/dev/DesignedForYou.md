@@ -82,9 +82,9 @@ Remember f(x) = 2x ?
 
 Beta is composed of four types, each of which can be represented by an icon:
 
-🟩<eko>Eko </eko>: All biologic and geologic objects and processes you interact with while in a planting block. For example: slash, roads, stumps, plants, soil and weather.
+🟩<ekos>Eko </ekos>: All biologic and geologic objects and processes you interact with while in a planting block. For example: slash, roads, stumps, plants, soil and weather.
 
-🟠<move>Move </move>: The movements and Instruments you use to plant trees. For example: slamming your spade into the ground, ripping Marka, your clothing and your bags.
+🟠<mooves>Moove </mooves>: The movements and Instruments you use to plant trees. For example: slamming your spade into the ground, ripping Marka, your clothing and your bags.
 
 🔻<via>Via </via>: The path taken by plantors. For example: your line in, backfilling, area planting, bouncing while partner planting and deadwalking
 
@@ -106,28 +106,28 @@ Beta is composed of four types, each of which can be represented by an icon:
 
 ### Examples
 
-- 🟩<eko>[Soil](/encyclopedia/Eko/Soil/Overview)</eko>: Duff mixed with soil is ok if it is smearable, meaning that the soil sticks together when smeared.
+- 🟩<ekos>[Soil](/encyclopedia/Eko/Soil/Overview)</ekos>: Duff mixed with soil is ok if it is smearable, meaning that the soil sticks together when smeared.
     - Coherent
 
-- 🟩<eko>[CullTree](/encyclopedia/Eko/Dendron/Overview)</eko>: Put CullTrees in Duff instead of sidebag.
+- 🟩<ekos>[CullTree](/encyclopedia/Eko/Dendron/Overview)</ekos>: Put CullTrees in Duff instead of sidebag.
 
-- 🟩<eko>[SoilSound](/encyclopedia/Eko/Soil/Overview)</eko>: Muffled Soil has lots more organic matter to absorb sound. Rock is louder than organic matter due to the strength of rock's lattice structure.
+- 🟩<ekos>[SoilSound](/encyclopedia/Eko/Soil/Overview)</ekos>: Muffled Soil has lots more organic matter to absorb sound. Rock is louder than organic matter due to the strength of rock's lattice structure.
 
-- 🟠<move>[Clothing](/encyclopedia/Move/ClothingMove/Overview)</move>: Don't leave stuff in backbag when wet.
+- 🟠<mooves>[Clothing](/encyclopedia/Moove/ClothingMoove/Overview)</mooves>: Don't leave stuff in backbag when wet.
     - Cotton mold
 
-- 🟠<move>[BundleMano](/encyclopedia/Move/InstrumentMove/Bundle/BundleMano)</move>: Grab two bundles in each hand, so four bundles at a time when transfering bundles from boxes to bags.
+- 🟠<mooves>[BundleMano](/encyclopedia/Moove/InstrumentMoove/Bundle/BundleMano)</mooves>: Grab two bundles in each hand, so four bundles at a time when transfering bundles from boxes to bags.
 
-- 🟠<move>[TreeTest.Error](/encyclopedia/Move/ManoMove/TreeTest)</move>: One tree test and what are you looking for?
+- 🟠<mooves>[TreeTest.Error](/encyclopedia/Moove/ManoMoove/TreeTest)</mooves>: One tree test and what are you looking for?
     - 💜<psike>FearOfReplant</psike>
 
-- 🟠<move>[TreeTest](/encyclopedia/Move/ManoMove/TreeTest)</move>: Single Move for TreeTest
+- 🟠<mooves>[TreeTest](/encyclopedia/Moove/ManoMoove/TreeTest)</mooves>: Single Moove for TreeTest
 
-- 🟠<move>[SpadeImpact](/encyclopedia/Move/InstrumentMove/Spade/SpadeImpact)</move>: Humerus Rotate Out for SpadeImpact to recruit Latissimus Dorsi and prevent overactivation of Pectoralis muscles which causes Shoulder Impingement Injury
+- 🟠<mooves>[SpadeImpact](/encyclopedia/Moove/InstrumentMoove/Spade/SpadeImpact)</mooves>: Humerus Rotate Out for SpadeImpact to recruit Latissimus Dorsi and prevent overactivation of Pectoralis muscles which causes Shoulder Impingement Injury
 
-- 🟠<move>[SpadeSkreef](/encyclopedia/Move/InstrumentMove/Spade/SpadeSkreef)</move>: SpadeSkreef is faster than BootSkreef or HandSkreef. And it flows into the retrokurve of SpadeImpact.
+- 🟠<mooves>[SpadeSkreef](/encyclopedia/Moove/InstrumentMoove/Spade/SpadeSkreef)</mooves>: SpadeSkreef is faster than BootSkreef or HandSkreef. And it flows into the retrokurve of SpadeImpact.
 
-- 🟠<move>[TraverseBush](/encyclopedia/Move/PlantMove/Overview)</move>: Spread branches while pushing your way through a bush.
+- 🟠<mooves>[TraverseBush](/encyclopedia/Moove/PlantMoove/Overview)</mooves>: Spread branches while pushing your way through a bush.
     - AlderCluster, MapleCluster
 
 - 🔻<via>[Walkout](/encyclopedia/Via/Path/Overview)</via>: Walkout using the most direct path unless there's a road, skidder trail or clear path near.

@@ -1,12 +1,12 @@
-# 🟠<move>ZelcroMove</move>
+# 🟠<mooves>ZelcroMoove</mooves>
 
-## ❌<error>ZelcroMove.Error</error>
+## ❌<error>ZelcroMoove.Error</error>
 
 - Dirt in Zelcro
 
-## 🕸 VelcroMove.Skema
+## 🕸 VelcroMoove.Skema
 
-### Related 🟩<eko>Eko</eko>
+### Related 🟩<ekos>Eko</ekos>
 
 -
 
@@ -14,7 +14,7 @@
 
 -
 
-### Related 🟠<move>Move</move>
+### Related 🟠<mooves>Moove</mooves>
 
 -
 

@@ -1,4 +1,4 @@
-# 🔷<move>Box Frase</move>
+# 🔷<mooves>Box Frase</mooves>
 
 ## BoxPile
 
@@ -39,6 +39,6 @@
 
 <h2>PageTags</h2>
 
-- "Move.InstrumentMove.BoxMove.BoxStack"
+- "Moove.InstrumentMoove.BoxMoove.BoxStack"
 
 :::

@@ -1,4 +1,4 @@
-# 🟠<move>PlantorAnatomy</move>
+# 🟠<mooves>PlantorAnatomy</mooves>
 
 ---
 

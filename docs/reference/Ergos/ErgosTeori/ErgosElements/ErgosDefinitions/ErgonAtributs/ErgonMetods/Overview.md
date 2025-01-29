@@ -1,4 +1,4 @@
-# 🟩<eko>EkonMetods</eko>
+# 🟩<ekos>EkonMetods</ekos>
 
 ---
 

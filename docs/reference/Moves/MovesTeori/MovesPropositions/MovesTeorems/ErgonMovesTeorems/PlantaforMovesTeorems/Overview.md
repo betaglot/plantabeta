@@ -1,4 +1,4 @@
-# 🟠 <move>PlantaforMove</move>
+# 🟠 <mooves>PlantaforMoove</mooves>
 
 Aliases: Planting Bags
 
@@ -8,9 +8,9 @@ Roll up your back bag layer to shell from water and dirt
 
 ## PlantaforAttributes
 
-## 🕸 PlantaforMove.Skema
+## 🕸 PlantaforMoove.Skema
 
-### Related 🟩<eko>Eko</eko>
+### Related 🟩<ekos>Eko</ekos>
 
 -
 
@@ -18,7 +18,7 @@ Roll up your back bag layer to shell from water and dirt
 
 -
 
-### Related 🟠<move>Move</move>
+### Related 🟠<mooves>Moove</mooves>
 
 -
 
@@ -36,7 +36,7 @@ Roll up your back bag layer to shell from water and dirt
 ::: details 🛠 <dev>&&&</dev>
 
 - FertPouch
-- BagMove.Error
+- BagMoove.Error
     - BagSpill
 
 :::

@@ -1,4 +1,4 @@
-# 🟠 <move>SpadeOnda</move>
+# 🟠 <mooves>SpadeOnda</mooves>
 
 Aliases: SpadeSwing
 
@@ -6,7 +6,7 @@ Spanish(Onda) == Wave
 
 ## 🕸 SpadeOnda.Skema
 
-### Related 🟩<eko>Eko</eko>
+### Related 🟩<ekos>Eko</ekos>
 
 -
 
@@ -14,7 +14,7 @@ Spanish(Onda) == Wave
 
 -
 
-### Related 🟠<move>Move</move>
+### Related 🟠<mooves>Moove</mooves>
 
 -
 
@@ -31,7 +31,7 @@ Spanish(Onda) == Wave
 <!-- =================================================== -->
 ::: details 🛠 <dev>&&&</dev>
 
-- PanBeta(CookBeta) ConeMove is used a lot in baking. Stir with your wrist instead of whole arm.
+- PanBeta(CookBeta) ConeMoove is used a lot in baking. Stir with your wrist instead of whole arm.
     - ShoulderCone
     - ElbowCone
     - WristCone

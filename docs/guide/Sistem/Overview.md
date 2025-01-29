@@ -98,7 +98,7 @@ BetaMoment is a Tuple or at least an immutable DataStructure
 - Remove the Concept of Elements
 - Propositions are Objects
 - Propositions have attributes and Methods
-- All Moves have the method to connect to another Move in a sequence
+- All Mooves have the method to connect to another Moove in a sequence
 - The sistema is for knowing what beta to use
     - Given this situation what methods do I use with what objects and how to tune their attributes to increase ease of performance
 

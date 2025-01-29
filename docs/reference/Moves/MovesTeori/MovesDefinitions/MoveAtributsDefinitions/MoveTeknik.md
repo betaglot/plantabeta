@@ -1,4 +1,4 @@
-# 🟠<move>MoveTeknik</move>
+# 🟠<mooves>MooveTeknik</mooves>
 
 > the complexity of this Element
 
@@ -34,7 +34,7 @@ For example:
 
 🔷Walking across a Slackline is high Teknik because it require many concurrent 🟠movements at many different joints, while the 🟩slackline moves, you must know 🔻where to place your foot without looking, and during all of this you can't let your 💜mind wander.
 
-🟠Reach is LowTeknik because it only uses one Move
+🟠Reach is LowTeknik because it only uses one Moove
 
 <!-- =================================================== -->
 <!-- =================================================== -->

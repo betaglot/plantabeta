@@ -1,10 +1,10 @@
-# 🟠<move>SiteMark</move>
+# 🟠<mooves>SiteMark</mooves>
 
 Aliases: Flagging your tree
 
 ## 🕸 SiteMark.Skema
 
-### Related 🟩<eko>Eko</eko>
+### Related 🟩<ekos>Eko</ekos>
 
 -
 
@@ -12,7 +12,7 @@ Aliases: Flagging your tree
 
 -
 
-### Related 🟠<move>Move</move>
+### Related 🟠<mooves>Moove</mooves>
 
 -
 

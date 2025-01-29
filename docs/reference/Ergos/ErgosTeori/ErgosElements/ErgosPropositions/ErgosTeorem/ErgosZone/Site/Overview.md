@@ -2,7 +2,7 @@
 
 ## 🕸 Site.Skema
 
-### Related 🟩<eko>Eko</eko>
+### Related 🟩<ekos>Eko</ekos>
 
 - SiteEko
 
@@ -10,9 +10,9 @@
 
 -
 
-### Related 🟠<move>Move</move>
+### Related 🟠<mooves>Moove</mooves>
 
-- SiteMove
+- SiteMoove
 
 ### Related 💜<psike>Psike</psike>
 
@@ -41,7 +41,7 @@
     - To create an Eddie
     - Barrier
     - Shield
-    - <eko>BlockerHold</eko> like in Klimbeta
+    - <ekos>BlockerHold</ekos> like in Klimbeta
 
 - ObstaclePlanting
 

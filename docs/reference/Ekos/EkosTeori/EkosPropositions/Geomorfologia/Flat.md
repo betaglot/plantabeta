@@ -1,4 +1,4 @@
-# 🟩<eko>Flat</eko>
+# 🟩<ekos>Flat</ekos>
 
 ---
 

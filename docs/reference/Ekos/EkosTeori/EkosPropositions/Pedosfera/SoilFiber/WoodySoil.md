@@ -1,10 +1,10 @@
-# 🟩<eko>WoodySoil</eko>
+# 🟩<ekos>WoodySoil</ekos>
 
 > Organic material containing more than 50% woody fibers. - [CanadianGov](https://sis.agr.gc.ca/cansis/taxa/cssc3/chpt18.html)
 
 ## 🕸 WoodySoil.Skema
 
-### Related 🟩<eko>Eko</eko>
+### Related 🟩<ekos>Eko</ekos>
 
 -
 
@@ -12,7 +12,7 @@
 
 -
 
-### Related 🟠<move>Move</move>
+### Related 🟠<mooves>Moove</mooves>
 
 -
 

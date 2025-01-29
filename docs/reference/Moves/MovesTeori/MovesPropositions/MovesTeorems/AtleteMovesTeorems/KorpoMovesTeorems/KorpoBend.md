@@ -1,8 +1,8 @@
-# 🟠 <move>BodyBend</move>
+# 🟠 <mooves>BodyBend</mooves>
 
 ## 🕸 BodyBend.Skema
 
-### Related 🟩<eko>Eko</eko>
+### Related 🟩<ekos>Eko</ekos>
 
 -
 
@@ -10,7 +10,7 @@
 
 -
 
-### Related 🟠<move>Move</move>
+### Related 🟠<mooves>Moove</mooves>
 
 - LegFlexion
 - SpineFlexion
@@ -33,6 +33,6 @@
 
 <h2>PageTags</h2>
 
-- "Move.BodyMove.BodyBend"
+- "Moove.BodyMoove.BodyBend"
 
 :::

@@ -1,4 +1,4 @@
-# 🟠<move>SpadeMuscleUp</move>
+# 🟠<mooves>SpadeMuscleUp</mooves>
 
 ---
 

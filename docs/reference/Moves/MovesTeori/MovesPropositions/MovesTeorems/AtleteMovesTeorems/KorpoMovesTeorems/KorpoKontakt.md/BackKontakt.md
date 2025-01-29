@@ -1,4 +1,4 @@
-# 🟠<move>SpineKontakt</move>
+# 🟠<mooves>SpineKontakt</mooves>
 
 ---
 

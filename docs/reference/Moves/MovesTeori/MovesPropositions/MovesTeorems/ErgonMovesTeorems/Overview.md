@@ -1,4 +1,4 @@
-# 🟠 <move>InstrumentMove</move>
+# 🟠 <mooves>InstrumentMoove</mooves>
 
 ## Instrument List
 
@@ -22,6 +22,6 @@
 
 <h2>PageTags</h2>
 
-- "Move.InstrumentMove.Overview"
+- "Moove.InstrumentMoove.Overview"
 
 :::

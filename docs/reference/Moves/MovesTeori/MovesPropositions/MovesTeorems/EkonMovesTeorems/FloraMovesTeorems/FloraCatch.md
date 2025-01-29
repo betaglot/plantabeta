@@ -1,13 +1,13 @@
-# 🟠 <move>FloraCatch</move>
+# 🟠 <mooves>FloraCatch</mooves>
 
 > Grab vegetation before colliding with it
-![MoveIkon](/Move/Move_Ikon.png)
+![MooveIkon](/Moove/Moove_Ikon.png)
 
 The Plant can be moving towards you or the Plant can be stationary while you move towards the vege
 
 ## 🕸 FloraCatch.Skema
 
-### Related 🟩<eko>Eko</eko>
+### Related 🟩<ekos>Eko</ekos>
 
 -
 
@@ -15,7 +15,7 @@ The Plant can be moving towards you or the Plant can be stationary while you mov
 
 -
 
-### Related 🟠<move>Move</move>
+### Related 🟠<mooves>Moove</mooves>
 
 -
 
@@ -36,7 +36,7 @@ The Plant can be moving towards you or the Plant can be stationary while you mov
 
 <h2>PageTags</h2>
 
-- "Move.PlantMove.BranchWhip"
+- "Moove.PlantMoove.BranchWhip"
 
 - BranchWhip
 -

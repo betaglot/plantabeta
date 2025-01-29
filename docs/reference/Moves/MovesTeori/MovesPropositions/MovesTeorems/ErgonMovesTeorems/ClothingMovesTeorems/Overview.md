@@ -1,10 +1,10 @@
-# 🟠 <move>TextileMove</move>
+# 🟠 <mooves>TextileMoove</mooves>
 
 ## Textile.Attributes
 
-## 🕸 TextileMove.Skema
+## 🕸 TextileMoove.Skema
 
-### Related 🟩<eko>Eko</eko>
+### Related 🟩<ekos>Eko</ekos>
 
 -
 
@@ -12,7 +12,7 @@
 
 -
 
-### Related 🟠<move>Move</move>
+### Related 🟠<mooves>Moove</mooves>
 
 -
 
@@ -35,6 +35,6 @@
 
 <h2>PageTags</h2>
 
-- "Move.ClothingMove.Overview"
+- "Moove.ClothingMoove.Overview"
 
 :::

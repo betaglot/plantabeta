@@ -1,10 +1,10 @@
-# 🟠 <move>FloraBlock</move>
+# 🟠 <mooves>FloraBlock</mooves>
 
 > Protecting yourself from Plant as it collides into you or as it drags along you as you push through it
 
 ## 🕸 FloraBlok.Skema
 
-### Related 🟩<eko>Eko</eko>
+### Related 🟩<ekos>Eko</ekos>
 
 -
 
@@ -12,7 +12,7 @@
 
 -
 
-### Related 🟠<move>Move</move>
+### Related 🟠<mooves>Moove</mooves>
 
 -
 

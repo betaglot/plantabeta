@@ -1,6 +1,6 @@
-# 🟠 <move>SpadeMove</move>
+# 🟠 <mooves>SpadeMoove</mooves>
 
-## SpadeMove.Anatomy
+## SpadeMoove.Anatomy
 
 - Blade
     - BladeConvex
@@ -26,9 +26,9 @@
 
 ## Spade Attributes
 
-## 🕸 SpadeMove.Skema
+## 🕸 SpadeMoove.Skema
 
-### Related 🟩<eko>Eko</eko>
+### Related 🟩<ekos>Eko</ekos>
 
 -
 
@@ -36,7 +36,7 @@
 
 -
 
-### Related 🟠<move>Move</move>
+### Related 🟠<mooves>Moove</mooves>
 
 -
 

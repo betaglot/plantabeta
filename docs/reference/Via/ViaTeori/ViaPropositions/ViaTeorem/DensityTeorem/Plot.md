@@ -20,7 +20,7 @@ SemiPlot
 
 ## 🕸 Plot.Skema
 
-### Related 🟩<eko>Eko</eko>
+### Related 🟩<ekos>Eko</ekos>
 
 -
 
@@ -28,7 +28,7 @@ SemiPlot
 
 -
 
-### Related 🟠<move>Move</move>
+### Related 🟠<mooves>Moove</mooves>
 
 -
 
@@ -73,12 +73,12 @@ SemiPlot
             - Which Site can be Extracted?
             - 1NeoSite, 2NeoSite, 3NeoSite
             - 1SiteExtract, 2SiteExtract, 3SiteExtract
-- StartMove
+- StartMoove
     - StartPoint
         - Where along the Circumference did you enter the Plot?
     - Remember the start tree in your plot, pick one which is distinctive
     - Use Marka for StartSite
-- FinishMove
+- FinishMoove
 - How to scan?
 - UnplantableZone
 - NeoSite count relative to DendroSite

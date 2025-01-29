@@ -67,7 +67,7 @@ Not a place where many duplicates items are stored
 Stick them together with honey like cheap bookbinding
 Wax to waterproof
 
-## 🟠<move>DendroforDev</move>
+## 🟠<mooves>DendroforDev</mooves>
 
 Hold the thing that holds the dendron
 
@@ -75,7 +75,7 @@ Clamp under wrist to allow
 
 Attaches to the underside of Radior
 
-## 🟠<move>KiklosDev</move>
+## 🟠<mooves>KiklosDev</mooves>
 
 Kiklos: wheel
 
@@ -84,9 +84,9 @@ Aliases: Cart, Wagon, Trolley, Dolly, WheelBarrow
 ### InstrumentRequirements()
 
 - WalkIn
-- BoxMove
+- BoxMoove
 
-## 🟠<move>DoruDev</move>
+## 🟠<mooves>DoruDev</mooves>
 
 ### InstrumentRequirements()
 
@@ -94,7 +94,7 @@ Greek for Spear
 
 Lash D to Doru
 
-## 🟠<move>PlantaforDev</move>
+## 🟠<mooves>PlantaforDev</mooves>
 
 > (Plantafor == "plant" + "bearer")
 
@@ -112,11 +112,11 @@ Packed up space. Fold up Bag like origami
 
 Partially Disassemble to reduce space
 
-### 🟠<move>PieceCacheDev</move>
+### 🟠<mooves>PieceCacheDev</mooves>
 
 Somehow use Plantafor to carry a PieceCache
 
-### 🟠<move>BagMaterialDev</move>
+### 🟠<mooves>BagMaterialDev</mooves>
 
 #### InstrumentRequirements()
 
@@ -124,17 +124,17 @@ Somehow use Plantafor to carry a PieceCache
 - Carbon Fiber
 -
 
-### 🟠<move>BeltDev</move>
+### 🟠<mooves>BeltDev</mooves>
 
 - Rope which flows into frame
 - Custom and adjust by knot like harness
 - Suspension System
 
-### 🟠<move>BasketWallDev</move>
+### 🟠<mooves>BasketWallDev</mooves>
 
 - Cradle board sidebag
 
-### 🟠<move>BagFrameDev</move>
+### 🟠<mooves>BagFrameDev</mooves>
 
 They should be rigid and woven
 
@@ -164,7 +164,7 @@ Make cardboard prototype.
 
 "Lay up"
 
-### 🟠<move>BagSkeletonDev</move>
+### 🟠<mooves>BagSkeletonDev</mooves>
 
 Pannier
 
@@ -172,7 +172,7 @@ Pannier
 - To keep sidebags from rubbing on legs.
 - Suspension system
 
-### 🟠<move>BackBagDev</move>
+### 🟠<mooves>BackBagDev</mooves>
 
 - ❌<error>There needs to be another moniker for "BackBag"</error>
     - Something like "Instrumentbox"
@@ -180,7 +180,7 @@ Pannier
 - Use waterproof Flap instead of sphincter design, since sphincter allows water to collect and slowly seep into backbag.
 - Pocket on underside of Flap
 
-### 🟠<move>MarkaforDev</move>
+### 🟠<mooves>MarkaforDev</mooves>
 
 Ideally there would be a Markor on each Ulnor
 
@@ -195,28 +195,28 @@ Polychrome or Polytipos
 
 More than one color
 
-## 🟠<move>RopeDev</move>
+## 🟠<mooves>RopeDev</mooves>
 
 Rope to transport the Instruments
 
-### <move>🟠PlotCordDev</move>
+### <mooves>🟠PlotCordDev</mooves>
 
 - Abacus plot cord
 - Storage within Bags accessible with bags on.
 
-### 🟠<eko>Lashing(SummerCache)</eko>
+### 🟠<ekos>Lashing(SummerCache)</ekos>
 
 Lashing requires a thinner rope than
 
 Use Hemp Lashing so you can leave the sticks to decompose
 
-### <move>Abrasion Resistant MaterialDev</move>
+### <mooves>Abrasion Resistant MaterialDev</mooves>
 
 Cordura or Kevlar
 
 - <https://www.testextextile.com/evaluating-the-abrasion-resistance-of-different-fabric-types/#Most_Abrasion-Resistant_Synthetic_Fibers>
 
-## 🟠<move>KitDev</move>
+## 🟠<mooves>KitDev</mooves>
 
 ### Requirements
 
@@ -250,9 +250,9 @@ Protein Powder Cookies
 
 ### Dirty Gloves
 
-## <move>Water VolumeDev</move>
+## <mooves>Water VolumeDev</mooves>
 
-## 🟠<move>SuitDev</move>
+## 🟠<mooves>SuitDev</mooves>
 
 ### SuitModularity
 
@@ -276,9 +276,9 @@ Padding in the joints
 
 Mail at joints
 
-#### SuitSwap out parts to adapt to Eko and Move
+#### SuitSwap out parts to adapt to Eko and Moove
 
-### 🟠<move>RadiorDev</move>
+### 🟠<mooves>RadiorDev</mooves>
 
 #### Etymology(Radior)
 
@@ -304,7 +304,7 @@ The goal of vambrace is to keep the hand clean and warm. There isn't a need to p
 - You only need to worry about the back of your hands. Glabrous warms the palm
 - Wool lining
 
-### 🟠<move>PaddingDev</move>
+### 🟠<mooves>PaddingDev</mooves>
 
 - HipPadding
 - KneePadding
@@ -315,7 +315,7 @@ The goal of vambrace is to keep the hand clean and warm. There isn't a need to p
     - Plantors wear a corset under their waist belt like a saddle pad
     - Corset restricts BendOver
 
-### 🟠<move>PantDev</move>
+### 🟠<mooves>PantDev</mooves>
 
 - Gusset to strengthen crotch
 
@@ -323,7 +323,7 @@ The Blanket which goes on a horse, before and under the saddle.
 
 ### Design Constraint
 
-Holes in fabric snag, which often leads to the hole becoming larger and can potentially prevent Move.
+Holes in fabric snag, which often leads to the hole becoming larger and can potentially prevent Moove.
 
 RipStop Fabric
 
@@ -345,7 +345,7 @@ SuitParts = [
 
 ```
 
-### 🟠<move>TibiorDev</move>
+### 🟠<mooves>TibiorDev</mooves>
 
 #### Aliases
 
@@ -366,7 +366,7 @@ SuitParts = [
 - Extra padding to strengthen attachment point and to prevent erosion from metal wire from rubbing on boot leather.
 - Big zipper
 
-### 🟠<move>GloveDev</move>
+### 🟠<mooves>GloveDev</mooves>
 
 #### InstrumentRequirements()
 
@@ -390,18 +390,18 @@ SuitParts = [
 - Glove which does not collect dirt unlike the knitted gloves currently used by most plantors
 - Easily taken off without getting dirt inside
 
-### 🟠<move>KranosDev</move>
+### 🟠<mooves>KranosDev</mooves>
 
 - Etymology(Kranos) = Cranium
 - Helmet
 - SoftShell
 - BugNet
 
-### 🟠<move>ShellDev</move>
+### 🟠<mooves>ShellDev</mooves>
 
 <https://www.patagonia.ca/product/hose-down-slicker-jacket/27892.html?dwvar_27892_color=CMPO>
 
-#### 🟠<move>ZipperDev</move>
+#### 🟠<mooves>ZipperDev</mooves>
 
 - Zipper.Anatomy
     - Tape
@@ -420,7 +420,7 @@ SuitParts = [
     - to prevent getting mud on your shell while you're trying to Mano the ZipperTab
     - to allow you to lever the zipper tab so that the cinch
 
-### 🟠<move>Bellow BackpackDev</move>
+### 🟠<mooves>Bellow BackpackDev</mooves>
 
 Bellow which blows air into shirt for evaporative cooling during summer
 
@@ -432,7 +432,7 @@ Exchangeable Air Filter on Intake Valve
 
 One Way Valve
 
-### 🟠<eko>Cape</eko>
+### 🟠<ekos>Cape</ekos>
 
 Poncho
 
@@ -442,16 +442,16 @@ Aang Cape
 
 ### LocalizedRepair
 
-## 🟩<eko>EcoInstruments</eko>
+## 🟩<ekos>EcoInstruments</ekos>
 
-### 🟩<eko>TreeBox</eko>
+### 🟩<ekos>TreeBox</ekos>
 
 - Premixed boxes
 - PieceCache
 - U haul graphic prt boxes
     - Element poster
 
-### 🟩<eko>Treepod</eko>
+### 🟩<ekos>Treepod</ekos>
 
 Design Treepod to be like ammo.
 
@@ -459,7 +459,7 @@ Seven sided hexagon with honey glue on the last side
 
 Treepod
 
-### 🟩<eko>Bundle Wrapper</eko>
+### 🟩<ekos>Bundle Wrapper</ekos>
 
 (Untie bundle)InsteadOf(BundlePeel)
 

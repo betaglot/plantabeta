@@ -15,25 +15,25 @@ This each line are analog pairs. The equal signs = denotes where Climbing and Pl
 |                         **Climbing** | **Planting**                      |
 | -----------------------------------: | :-------------------------------- |
 |                  <beta>Beta</beta> = | = <beta>Beta</beta>               |
-|                     <eko>Eko</eko> = | = <eko>Eko</eko>                  |
+|                     <ekos>Eko</ekos> = | = <ekos>Eko</ekos>                  |
 |                     <via>Via</via> = | = <via>Via</via>                  |
 |               <psike>Psike</psike> = | = <psike>Psike</psike>            |
-|                      <eko>Wall</eko> | <eko>Land</eko>                   |
-|              <eko>Wall Section</eko> | <eko>Area</eko>                   |
+|                      <ekos>Wall</ekos> | <ekos>Land</ekos>                   |
+|              <ekos>Wall Section</ekos> | <ekos>Area</ekos>                   |
 |          <via>Contact</via> = | = <via>Contact</via>       |
 |                      <via>Hold</via> | <via>Microsite</via>              |
-|                    <eko>Volume</eko> | <eko>Mound, Trench</eko>          |
-|                 <eko>WallAngle</eko> | <eko>SlopeAngle</eko>             |
-|            <move>ClimbingShoe</move> | <move>PlantingBoot</move>         |
+|                    <ekos>Volume</ekos> | <ekos>Mound, Trench</ekos>          |
+|                 <ekos>WallAngle</ekos> | <ekos>SlopeAngle</ekos>             |
+|            <mooves>ClimbingShoe</mooves> | <mooves>PlantingBoot</mooves>         |
 |                <beta>Redpoint</beta> | <beta>Replanting Required </beta> |
 |          <beta>Flash, Onsight</beta> | <beta>No replanting </beta>       |
-|         <move>RockOver Move</move> = | = <move>RockOver Move</move>      |
+|         <mooves>RockOver Moove</mooves> = | = <mooves>RockOver Moove</mooves>      |
 |              <via>ViaFinding</via> = | = <via>ViaFinding</via>           |
 |                <via>One Pitch</via>  | <via>One CoverLoop </via>         |
-|                  <move>Fall</move> = | = <move>Fall</move>               |
+|                  <mooves>Fall</mooves> = | = <mooves>Fall</mooves>               |
 | <via>Anchor, Belay Station</via>     | <via>Cache</via>                  |
 |              <via>Approach</via>     | <via>Walk In</via>                |
-|                     <eko>Crag</eko>  | <eko>Block</eko>                  |
+|                     <ekos>Crag</ekos>  | <ekos>Block</ekos>                  |
 
 ## How is it useful to relate Climbing to Planting?
 

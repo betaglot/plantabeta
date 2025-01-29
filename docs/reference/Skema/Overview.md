@@ -7,7 +7,7 @@
 - To make PlantaBeta portable to Vue, Python, D3, SQLite, Poster, PopUp, Betomiks
 - It's easier to manipulate data within a Json than within tons of directories of Markdown
 - To ensure that if one element relates to another, then they both have the relationship
-    - If 🟠BrazoOnda has the SuperMove 🟠Amble, then 🟠Amble must have the SubMove 🟠BrazoOnda
+    - If 🟠BrazoOnda has the SuperMoove 🟠Amble, then 🟠Amble must have the SubMoove 🟠BrazoOnda
 
 ### To describe all the Elements which influence the InstanceAttributes of each Element
 
@@ -23,11 +23,11 @@ Combine all **Definitions** of BetaTipos to create new propositions. Why? To mak
 
 🟩 Flora + 🔻 Density = 🟩 FloraDensity
 🟩 Prep + 🔻 Density = 🟩 PrepDensity
-🟠 Move + 🔻 Density = 🟠 MoveDensity
+🟠 Moove + 🔻 Density = 🟠 MooveDensity
 
 🟩 Flora + 🔻 Line = 🟩 FloraLine (like between Trenches)
 🟩 Prep + 🔻 Line = 🟩 PrepLine (Trench or Line of Mounds)
-🟠 Move + 🔻 Line = 🟠 MoveLine (line of best fit)
+🟠 Moove + 🔻 Line = 🟠 MooveLine (line of best fit)
 
 Some scopes don't make sense.
 
@@ -77,7 +77,7 @@ Causes
 ### Search
 
 - Searching for Parents, results in the Parents and their Children
-- If "🟠Amble" is searched, then results its SubMove 🟠BrazoOnda
+- If "🟠Amble" is searched, then results its SubMoove 🟠BrazoOnda
 
 ### BetaVideoTagging
 
@@ -93,7 +93,7 @@ Choose the LevelOfDetail
 
 - BatchProcessing
     - A delegate could do the first round, and I do the later rounds at a greater LevelOfDetail
-    - Allows you to reduce task switching (RepetitionEase) by Batching all 🟠SiteMoves at once, then all the 🟩Eko moves, etc...
+    - Allows you to reduce task switching (RepetitionEase) by Batching all 🟠SiteMooves at once, then all the 🟩Eko moves, etc...
 
 - FirstRound is LowDetail
 - Next round increases the Validation.LevelOfDetail
@@ -139,7 +139,7 @@ Choose the LevelOfDetail
         "ConcurrentElementName": [],
         "RelatedEkon": [],
         "RelatedVium": [],
-        "RelatedMove": [],
+        "RelatedMoove": [],
         "RelatedPsike": [],
         "Description": "",
         "Alias": [],

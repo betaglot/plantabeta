@@ -1,4 +1,4 @@
-# 🟠 <move>ArmMove</move>
+# 🟠 <mooves>ArmMoove</mooves>
 
 ## Arm Anatomy
 
@@ -27,9 +27,9 @@ SpadeArm, Spader, Spadus
 
 SpadeLimb
 
-## 🕸 ArmMove.Skema
+## 🕸 ArmMoove.Skema
 
-### Related 🟩<eko>Eko</eko>
+### Related 🟩<ekos>Eko</ekos>
 
 -
 
@@ -37,7 +37,7 @@ SpadeLimb
 
 -
 
-### Related 🟠<move>Move</move>
+### Related 🟠<mooves>Moove</mooves>
 
 -
 
@@ -54,7 +54,7 @@ SpadeLimb
 <!-- =================================================== -->
 ::: details 🛠 <dev>&&&</dev>
 
-- 2ArmMove
+- 2ArmMoove
     - SpadeSkeef
     - FloraSwimParry
     - BagOn
@@ -64,26 +64,26 @@ SpadeLimb
 
 <h2>PageTags</h2>
 
-- "Move.ArmMove.ArmBrake"
-- "Move.ArmMove.ArmCircumduction"
-- "Move.ArmMove.ArmCross"
-- "Move.ArmMove.ArmExtension"
-- "Move.ArmMove.ArmExternalRotation"
-- "Move.ArmMove.ArmFlexion"
-- "Move.ArmMove.ArmInternalRotation"
-- "Move.ArmMove.ArmLock"
-- "Move.ArmMove.ArmReach"
-- "Move.ArmMove.ArmRockOver"
-- "Move.ArmMove.ArmRow"
-- "Move.ArmMove.ArmShakeOut"
-- "Move.ArmMove.ArmSlot"
-- "Move.ArmMove.ArmTRex"
-- "Move.ArmMove.ProximalElbow"
-- "Move.ArmMove.Overview"
-- "Move.ArmMove.ShoulderMove.Overview"
-- "Move.ArmMove.ShoulderMove.ShoulderDepress"
-- "Move.ArmMove.ShoulderMove.ShoulderElevate"
-- "Move.ArmMove.ShoulderMove.ShoulderProtract"
-- "Move.ArmMove.ShoulderMove.ShoulderRetract"
+- "Moove.ArmMoove.ArmBrake"
+- "Moove.ArmMoove.ArmCircumduction"
+- "Moove.ArmMoove.ArmCross"
+- "Moove.ArmMoove.ArmExtension"
+- "Moove.ArmMoove.ArmExternalRotation"
+- "Moove.ArmMoove.ArmFlexion"
+- "Moove.ArmMoove.ArmInternalRotation"
+- "Moove.ArmMoove.ArmLock"
+- "Moove.ArmMoove.ArmReach"
+- "Moove.ArmMoove.ArmRockOver"
+- "Moove.ArmMoove.ArmRow"
+- "Moove.ArmMoove.ArmShakeOut"
+- "Moove.ArmMoove.ArmSlot"
+- "Moove.ArmMoove.ArmTRex"
+- "Moove.ArmMoove.ProximalElbow"
+- "Moove.ArmMoove.Overview"
+- "Moove.ArmMoove.ShoulderMoove.Overview"
+- "Moove.ArmMoove.ShoulderMoove.ShoulderDepress"
+- "Moove.ArmMoove.ShoulderMoove.ShoulderElevate"
+- "Moove.ArmMoove.ShoulderMoove.ShoulderProtract"
+- "Moove.ArmMoove.ShoulderMoove.ShoulderRetract"
 
 :::

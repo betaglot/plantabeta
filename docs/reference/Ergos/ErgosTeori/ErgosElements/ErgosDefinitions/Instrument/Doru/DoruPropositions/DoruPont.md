@@ -1,10 +1,10 @@
-# 🟠<move>DoruPont</move>
+# 🟠<mooves>DoruPont</mooves>
 
 Aliases: DoruBridge
 
 ## 🕸 DoruBridge.Skema
 
-### Related 🟩<eko>Eko</eko>
+### Related 🟩<ekos>Eko</ekos>
 
 -
 
@@ -12,7 +12,7 @@ Aliases: DoruBridge
 
 -
 
-### Related 🟠<move>Move</move>
+### Related 🟠<mooves>Moove</mooves>
 
 -
 

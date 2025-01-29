@@ -1,7 +1,7 @@
-# 🟠 <move>PutMarka</move>
+# 🟠 <mooves>PutMarka</mooves>
 
 > placing a Marka in the Land
-![MoveIkon](/Move/Move_Ikon.png)
+![MooveIkon](/Moove/Moove_Ikon.png)
 
 ## MarkaKnot
 
@@ -24,9 +24,9 @@
 
 <h2>PageTags</h2>
 
-- "Move.InstrumentMove.MarkaMove.MarkaWrap"
-- "Move.InstrumentMove.MarkaMove.MarkaWeave"
-- "Move.InstrumentMove.MarkaMove.MarkaThrow"
-- "Move.InstrumentMove.MarkaMove.MarkaKnot"
+- "Moove.InstrumentMoove.MarkaMoove.MarkaWrap"
+- "Moove.InstrumentMoove.MarkaMoove.MarkaWeave"
+- "Moove.InstrumentMoove.MarkaMoove.MarkaThrow"
+- "Moove.InstrumentMoove.MarkaMoove.MarkaKnot"
 
 :::

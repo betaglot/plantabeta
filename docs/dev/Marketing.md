@@ -103,7 +103,7 @@ King Kong Reforestation
 
 Use Competitions to gather Data and to increase audience size
 
-Remove Land as a variable. Judge by Move and Via
+Remove Land as a variable. Judge by Moove and Via
 
 Submission then voting
 

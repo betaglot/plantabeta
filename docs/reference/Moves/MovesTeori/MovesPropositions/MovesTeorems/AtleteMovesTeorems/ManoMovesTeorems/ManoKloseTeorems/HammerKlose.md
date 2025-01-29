@@ -1,4 +1,4 @@
-# 🟠<move>HammerKlose</move>
+# 🟠<mooves>HammerKlose</mooves>
 
 ---
 

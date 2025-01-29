@@ -1,8 +1,8 @@
-# 🟠 <move>BootMove</move>
+# 🟠 <mooves>BootMoove</mooves>
 
-## 🕸 BootMove.Skema
+## 🕸 BootMoove.Skema
 
-### Related 🟩<eko>Eko</eko>
+### Related 🟩<ekos>Eko</ekos>
 
 -
 
@@ -10,7 +10,7 @@
 
 -
 
-### Related 🟠<move>Move</move>
+### Related 🟠<mooves>Moove</mooves>
 
 -
 
@@ -31,8 +31,8 @@
 
 <h2>PageTags</h2>
 
-- "Move.InstrumentMove.BootMove.BootOff"
-- "Move.InstrumentMove.BootMove.BootOn"
-- "Move.InstrumentMove.BootMove.Overview"
+- "Moove.InstrumentMoove.BootMoove.BootOff"
+- "Moove.InstrumentMoove.BootMoove.BootOn"
+- "Moove.InstrumentMoove.BootMoove.Overview"
 
 :::

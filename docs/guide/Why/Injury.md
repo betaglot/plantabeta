@@ -8,9 +8,9 @@ Planting can be a dangerous job.
 
 ## Choose Safer Alternatives
 
-Plantors can get injured when they don't adapt motos to the specific situation. 🔷<beta>Put(<eko>Plant</eko>)</beta> gives many options to adapt motos for any situation.
+Plantors can get injured when they don't adapt motos to the specific situation. 🔷<beta>Put(<ekos>Plant</ekos>)</beta> gives many options to adapt motos for any situation.
 
-Some Plantors only know how to [🟠<move>HandClose</move>](/encyclopedia/Move/ManoMove/HandClose) one way, but there are many different ways. Even slightly varying a motos can reduce repetitive strain injuries.
+Some Plantors only know how to [🟠<mooves>HandClose</mooves>](/encyclopedia/Moove/ManoMoove/HandClose) one way, but there are many different ways. Even slightly varying a motos can reduce repetitive strain injuries.
 
 ## Repetitive Strain
 
@@ -19,24 +19,24 @@ Injury can occur in Plantors when they perform the same movement repeatedly.
 - Do ambidextrous Plantors suffer less injury caused by repetitive strain?
     - Repetitive Motion
     - Greater moto variability reduces moto repetition.
-        - How many [🟠<move>HandClosing</move>](/encyclopedia/Move/ManoMove/HandClose)  methods do you know?
+        - How many [🟠<mooves>HandClosing</mooves>](/encyclopedia/Moove/ManoMoove/HandClose)  methods do you know?
 
 ## Reduces Injuries from Falling
 
-PlantaBeta teaches Plantors how to move through their [🟩<eko>Eko</eko>](/encyclopedia/Eko/EcoOverview) safely.
+PlantaBeta teaches Plantors how to move through their [🟩<ekos>Eko</ekos>](/encyclopedia/Eko/EcoOverview) safely.
 
 Falling is a large part of Climbing. PlantaBeta transfers the knowledge of how to fall safely from climbing to Planting.
-::: tip Some of the Moves used to safely Fall
+::: tip Some of the Mooves used to safely Fall
 
-- [🟠<move>BodyAbsorb</move>](/encyclopedia/Move/BodyMove/BodyAbsorb)
-- [🟠<move>BodyRedirect</move>](/encyclopedia/Move/BodyMove/BodyRedirect)
+- [🟠<mooves>BodyAbsorb</mooves>](/encyclopedia/Moove/BodyMoove/BodyAbsorb)
+- [🟠<mooves>BodyRedirect</mooves>](/encyclopedia/Moove/BodyMoove/BodyRedirect)
 :::
 
 ## Wrist Tendonitis
 
 Wrist Tendonitis occurs from straining the tissues around the wrist. The strain can be acute, such as when a Plantor hits a rock with full force and doesn't absorb the shock, or the strain can be from repetitive use.
 
-- [🟠<move>ArmAbsorb</move>](/encyclopedia/Move/ArmMove/ArmAbsorb) during the impact of [🟠<move>SpadeImpact</move>](/encyclopedia/Move/InstrumentMove/Spade/SpadeImpact)
+- [🟠<mooves>ArmAbsorb</mooves>](/encyclopedia/Moove/ArmMoove/ArmAbsorb) during the impact of [🟠<mooves>SpadeImpact</mooves>](/encyclopedia/Moove/InstrumentMoove/Spade/SpadeImpact)
 -
 
 ## Christmas Toe
@@ -45,8 +45,8 @@ Plantors kick To remove the layer of organic material off an intended microsite.
 
 A greater knowledge of possible alternative moves can prevent Christmas Toe from ever occuring.
 
-- [🟠<move>SpadeSkreef</move>](/encyclopedia/InstrumentMove/SpadeMove/SpadeSkreef) instead of only [🟠<move>FootSkreef</move>](/encyclopedia/Move/FootMove/FootSkreef)
-- [🟠<move>HandClose</move>](/encyclopedia/Move/ManoMove/HandClose) instead of only [🟠<move>FootSeal</move>](/encyclopedia/Move/FootMove/FootSeal)
+- [🟠<mooves>SpadeSkreef</mooves>](/encyclopedia/InstrumentMoove/SpadeMoove/SpadeSkreef) instead of only [🟠<mooves>FootSkreef</mooves>](/encyclopedia/Moove/FootMoove/FootSkreef)
+- [🟠<mooves>HandClose</mooves>](/encyclopedia/Moove/ManoMoove/HandClose) instead of only [🟠<mooves>FootSeal</mooves>](/encyclopedia/Moove/FootMoove/FootSeal)
 
 ---
 

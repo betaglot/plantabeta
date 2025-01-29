@@ -1,4 +1,4 @@
-# 🟠 <move>MarkaMove</move>
+# 🟠 <mooves>MarkaMoove</mooves>
 
 ## MarkaPut
 
@@ -8,12 +8,12 @@ post verb (MAKE KNOWN)
 
 Markas are posted throughout the land.
 
-## MarkaMove.Anatomy
+## MarkaMoove.Anatomy
 
 - MarkaBody
 - MarkaEnd
 
-## MarkaMove.Attributes
+## MarkaMoove.Attributes
 
 - MarkaLength
 - MarkaWidth
@@ -21,9 +21,9 @@ Markas are posted throughout the land.
 - MarkaHeight
 - MarkaColor
 
-## 🕸 MarkaMove.Skema
+## 🕸 MarkaMoove.Skema
 
-### Related 🟩<eko>Eko</eko>
+### Related 🟩<ekos>Eko</ekos>
 
 -
 
@@ -31,7 +31,7 @@ Markas are posted throughout the land.
 
 -
 
-### Related 🟠<move>Move</move>
+### Related 🟠<mooves>Moove</mooves>
 
 -
 
@@ -53,8 +53,8 @@ Markas are posted throughout the land.
 
 <h2>PageTags</h2>
 
-- "Move.InstrumentMove.MarkaMove.MarkaDrop"
-- "Move.InstrumentMove.MarkaMove.MarkaStump"
-- "Move.InstrumentMove.MarkaMove.MoveError.PlantedMarka"
-- "Move.InstrumentMove.MarkaMove.Overview"
+- "Moove.InstrumentMoove.MarkaMoove.MarkaDrop"
+- "Moove.InstrumentMoove.MarkaMoove.MarkaStump"
+- "Moove.InstrumentMoove.MarkaMoove.MooveError.PlantedMarka"
+- "Moove.InstrumentMoove.MarkaMoove.Overview"
 :::

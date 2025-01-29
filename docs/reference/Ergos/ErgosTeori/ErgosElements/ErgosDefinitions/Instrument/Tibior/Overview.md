@@ -1,14 +1,14 @@
-# 🟠 <move>TibiorMove</move>
+# 🟠 <mooves>TibiorMoove</mooves>
 
 Aliases: Gaiter, Shin Pad
 
-## TibiorMove.Anatomy
+## TibiorMoove.Anatomy
 
-## TibiorMove.Attributes
+## TibiorMoove.Attributes
 
-## 🕸 TibiorMove.Skema
+## 🕸 TibiorMoove.Skema
 
-### Related 🟩<eko>Eko</eko>
+### Related 🟩<ekos>Eko</ekos>
 
 -
 
@@ -16,7 +16,7 @@ Aliases: Gaiter, Shin Pad
 
 -
 
-### Related 🟠<move>Move</move>
+### Related 🟠<mooves>Moove</mooves>
 
 -
 

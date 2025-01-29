@@ -1,1 +1,1 @@
-# 🟠<move>HipHinge</move>
+# 🟠<mooves>HipHinge</mooves>

@@ -1,4 +1,4 @@
-# 🟠<move>BaseKontakt</move>
+# 🟠<mooves>BaseKontakt</mooves>
 
 > Kontakt is a Verb
 

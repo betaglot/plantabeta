@@ -1,4 +1,4 @@
-# 🟠<move>LatissimusKontakt</move>
+# 🟠<mooves>LatissimusKontakt</mooves>
 
 ---
 

@@ -1,4 +1,4 @@
-# 🟠<move>CrossStep</move>
+# 🟠<mooves>CrossStep</mooves>
 
 Aliases: French Step
 

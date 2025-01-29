@@ -1,4 +1,4 @@
-# 🟩<eko>Pinus</eko>
+# 🟩<ekos>Pinus</ekos>
 
 Pine
 

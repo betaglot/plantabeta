@@ -1,4 +1,4 @@
-# 🟩  <eko>Pedosfera</eko>🟩
+# 🟩  <ekos>Pedosfera</ekos>🟩
 
 Aliases: Soil, Dirt, Ground
 
@@ -11,7 +11,7 @@ Aliases: Soil, Dirt, Ground
 
 ## 🕸 Soil.Skema
 
-### Related 🟩<eko>Eko</eko>
+### Related 🟩<ekos>Eko</ekos>
 
 -
 
@@ -19,7 +19,7 @@ Aliases: Soil, Dirt, Ground
 
 -
 
-### Related 🟠<move>Move</move>
+### Related 🟠<mooves>Moove</mooves>
 
 -
 

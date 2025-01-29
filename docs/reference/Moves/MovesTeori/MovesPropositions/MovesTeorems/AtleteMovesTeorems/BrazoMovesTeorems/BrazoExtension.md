@@ -1,4 +1,4 @@
-# 🟠<move>BrazoExtension</move>
+# 🟠<mooves>BrazoExtension</mooves>
 
 ---
 

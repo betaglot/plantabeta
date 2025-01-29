@@ -1,4 +1,4 @@
-# 🔷<move>Boot Frase</move>
+# 🔷<mooves>Boot Frase</mooves>
 
 ---
 

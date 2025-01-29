@@ -1,8 +1,8 @@
-# 🟠<move>BrazoCompress</move>
+# 🟠<mooves>BrazoCompress</mooves>
 
 ## 🕸 BrazoCompress.Skema
 
-### Related 🟩<eko>Eko</eko>
+### Related 🟩<ekos>Eko</ekos>
 
 -
 
@@ -10,7 +10,7 @@
 
 -
 
-### Related 🟠<move>Move</move>
+### Related 🟠<mooves>Moove</mooves>
 
 -
 

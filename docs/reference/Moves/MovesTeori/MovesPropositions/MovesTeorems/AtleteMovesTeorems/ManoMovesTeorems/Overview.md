@@ -1,12 +1,12 @@
-# 🟠 <move>ManoMove</move>
+# 🟠 <mooves>ManoMoove</mooves>
 
 ## Mano.Anatomy
 
 ## Mano.Attributes
 
-## 🕸 ManoMove.Skema
+## 🕸 ManoMoove.Skema
 
-### Related 🟩<eko>Eko</eko>
+### Related 🟩<ekos>Eko</ekos>
 
 -
 
@@ -14,7 +14,7 @@
 
 -
 
-### Related 🟠<move>Move</move>
+### Related 🟠<mooves>Moove</mooves>
 
 -
 
@@ -40,39 +40,39 @@
     - ScoopMano
         - When your Thumb can't oppose fingers because the Mano radius is too large
         - LogLaunch
-        - TrunkMove
+        - TrunkMoove
         - HandSmear
     - SleeveMano
     - PocketMano
     - PistolMano
         - Tarp
         - BagMano
-    - 2ManoMove
+    - 2ManoMoove
         - SMano
         - CableMano
             - No thumbs
         - ButterflyMano
         - SeatbeltMano
 
-- "Move.ManoMove.CupMano"
-- "Move.ManoMove.FingerMove.FingerCurl"
-- "Move.ManoMove.FingerMove.FingerFlexion"
-- "Move.ManoMove.FingerMove.FingerHook"
-- "Move.ManoMove.FingerMove.FingerPoke"
-- "Move.ManoMove.FingerMove.Overview"
-- "Move.ManoMove.FingerMove.ThumbHook
-- Move.ManoMove.FingerMove.FingerExtension"
-- "Move.ManoMove.FingerOverlapPoke"
-- "Move.ManoMove.FingertipPress"
-- "Move.ManoMove.GentleMano"
-- "Move.ManoMove.HandRoll"
-- "Move.ManoMove.HandSlide"
-- "Move.ManoMove.HandSlot"
-- "Move.ManoMove.HandSmear"
-- "Move.ManoMove.HandSwap"
-- "Move.ManoMove.Overview"
-- "Move.ManoMove.PinchMano"
-- "Move.ManoMove.TrunkMano"
-- "Move.ManoMove.UnderclingMano"
+- "Moove.ManoMoove.CupMano"
+- "Moove.ManoMoove.FingerMoove.FingerCurl"
+- "Moove.ManoMoove.FingerMoove.FingerFlexion"
+- "Moove.ManoMoove.FingerMoove.FingerHook"
+- "Moove.ManoMoove.FingerMoove.FingerPoke"
+- "Moove.ManoMoove.FingerMoove.Overview"
+- "Moove.ManoMoove.FingerMoove.ThumbHook
+- Moove.ManoMoove.FingerMoove.FingerExtension"
+- "Moove.ManoMoove.FingerOverlapPoke"
+- "Moove.ManoMoove.FingertipPress"
+- "Moove.ManoMoove.GentleMano"
+- "Moove.ManoMoove.HandRoll"
+- "Moove.ManoMoove.HandSlide"
+- "Moove.ManoMoove.HandSlot"
+- "Moove.ManoMoove.HandSmear"
+- "Moove.ManoMoove.HandSwap"
+- "Moove.ManoMoove.Overview"
+- "Moove.ManoMoove.PinchMano"
+- "Moove.ManoMoove.TrunkMano"
+- "Moove.ManoMoove.UnderclingMano"
 
 :::

@@ -1,4 +1,4 @@
-# 🟠<move>DoruDefinitions</move>
+# 🟠<mooves>DoruDefinitions</mooves>
 
 ---
 

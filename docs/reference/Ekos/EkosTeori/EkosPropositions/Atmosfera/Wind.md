@@ -1,10 +1,10 @@
-# 🟩  <eko>Wind</eko>
+# 🟩  <ekos>Wind</ekos>
 
 ![Eko_Ikon](/Eko/Eko_Ikon.png)
 
 ## 🕸 Wind.Skema
 
-### Related 🟩<eko>Eko</eko>
+### Related 🟩<ekos>Eko</ekos>
 
 -
 
@@ -12,7 +12,7 @@
 
 -
 
-### Related 🟠<move>Move</move>
+### Related 🟠<mooves>Moove</mooves>
 
 -
 

@@ -6,7 +6,7 @@ Beta is expressed using a Natural Language. In PlantaBeta, Beta is only expresse
 
 A method of Beta is to print out a string describing the Beta in English. This seems like something AI would be good at.
 
-## 🟠<move>Miming</move>
+## 🟠<mooves>Miming</mooves>
 
 How can miming be used to communicate Beta non verbally and can be seen from a distance?
 
@@ -18,7 +18,7 @@ How can miming be used to communicate Beta non verbally and can be seen from a d
 
 - Pointing
 
-## 🟠<move>Speak()</move>
+## 🟠<mooves>Speak()</mooves>
 
 ## Gestures
 

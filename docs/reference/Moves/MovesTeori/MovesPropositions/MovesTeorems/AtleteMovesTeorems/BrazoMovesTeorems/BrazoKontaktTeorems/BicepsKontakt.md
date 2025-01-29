@@ -1,4 +1,4 @@
-# 🟠<move>BicepsKontakt</move>
+# 🟠<mooves>BicepsKontakt</mooves>
 
 ---
 

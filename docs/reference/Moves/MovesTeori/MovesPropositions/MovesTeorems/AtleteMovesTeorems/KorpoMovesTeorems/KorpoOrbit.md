@@ -1,10 +1,10 @@
-# 🟠 <move>KorpoOrbit</move>
+# 🟠 <mooves>KorpoOrbit</mooves>
 
-![MoveIkon](/Move/Move_Ikon.png)
+![MooveIkon](/Moove/Moove_Ikon.png)
 
 ## 🕸 KorpoOrbit.Skema
 
-### Related 🟩<eko>Eko</eko>
+### Related 🟩<ekos>Eko</ekos>
 
 -
 
@@ -12,7 +12,7 @@
 
 - OrbitLine
 
-### Related 🟠<move>Move</move>
+### Related 🟠<mooves>Moove</mooves>
 
 -
 
@@ -32,6 +32,6 @@
 - Revolution
 - HandSlide
 - KorpoOrbit rarely completes a full revolution
-- AroundCornerMove
+- AroundCornerMoove
 
 :::

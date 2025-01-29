@@ -1,1 +1,1 @@
-# 🟠<move>BootError</move>
+# 🟠<mooves>BootError</mooves>

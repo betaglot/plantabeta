@@ -54,7 +54,7 @@ Unknown Information
 
 - ViaFinishTime
 
-## <eko>EcoDensity</eko>
+## <ekos>EcoDensity</ekos>
 
 ---
 

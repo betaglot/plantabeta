@@ -17,7 +17,7 @@ A greater Plantor efficiency leads to:
 - PlantingRate
     - Daily Trees in the Ground
 - Fewer Plantors required to Cover an Eko
-- Fewer Moves performed by Plantor, therefore less Metabolic Energy used.
+- Fewer Mooves performed by Plantor, therefore less Metabolic Energy used.
 - Less Deadwalking
 - Fewer Injury
 - More efficient vias
@@ -46,10 +46,10 @@ Such traits include:
 <!-- =================================================== -->
 ::: details 🛠 <dev>&&&</dev>
 
-### MoveFrequency
+### MooveFrequency
 
 - HoleOpen to HoleClose ratio is optimal when 1:1. Many Novice plantors are greater than 1.
-- When there are multiple MoveAlternatives, efficient when the Move with the lower BetaDifficulty is more frequent than an AlternativeMove with a higher MoveDifficulty. ExperiencedPlantors are performing easier Beta than NovicePlantor. BetaExecution
+- When there are multiple MooveAlternatives, efficient when the Moove with the lower BetaDifficulty is more frequent than an AlternativeMoove with a higher MooveDifficulty. ExperiencedPlantors are performing easier Beta than NovicePlantor. BetaExecution
 
 <h2>PageTags</h2>
 

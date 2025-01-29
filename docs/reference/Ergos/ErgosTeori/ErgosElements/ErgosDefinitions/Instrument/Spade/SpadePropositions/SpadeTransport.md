@@ -1,10 +1,10 @@
-# 🟠<move>SpadeTransport</move>
+# 🟠<mooves>SpadeTransport</mooves>
 
 > Carrying a Spade when you're not using it to plant
 
 ## 🕸 SpadeTransport.Skema
 
-### Related 🟩<eko>Eko</eko>
+### Related 🟩<ekos>Eko</ekos>
 
 -
 
@@ -12,7 +12,7 @@
 
 -
 
-### Related 🟠<move>Move</move>
+### Related 🟠<mooves>Moove</mooves>
 
 -
 

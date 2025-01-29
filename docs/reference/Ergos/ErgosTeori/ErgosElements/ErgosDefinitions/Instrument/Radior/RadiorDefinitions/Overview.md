@@ -1,4 +1,4 @@
-# 🟠<move>RadiorDefinitions</move>
+# 🟠<mooves>RadiorDefinitions</mooves>
 
 ---
 

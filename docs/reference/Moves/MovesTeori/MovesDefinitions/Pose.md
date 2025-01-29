@@ -1,4 +1,4 @@
-# 🟠<move>Pose</move>
+# 🟠<mooves>Pose</mooves>
 
 ---
 

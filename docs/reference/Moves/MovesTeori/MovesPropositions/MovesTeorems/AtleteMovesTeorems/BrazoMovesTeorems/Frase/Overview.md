@@ -1,4 +1,4 @@
-# 🔷 <move>Arm Frase</move>
+# 🔷 <mooves>Arm Frase</mooves>
 
 ## Get
 

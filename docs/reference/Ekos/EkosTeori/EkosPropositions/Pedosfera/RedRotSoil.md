@@ -1,4 +1,4 @@
-# 🟩  <eko>RedRot</eko>
+# 🟩  <ekos>RedRot</ekos>
 
 ## When to abandon RedRot Site?
 
@@ -10,7 +10,7 @@ If the redrot is skreefed to deeper than a blade then punch down if you don't he
 
 ## 🕸 RedRot.Skema
 
-### Related 🟩<eko>Eko</eko>
+### Related 🟩<ekos>Eko</ekos>
 
 -
 
@@ -18,7 +18,7 @@ If the redrot is skreefed to deeper than a blade then punch down if you don't he
 
 -
 
-### Related 🟠<move>Move</move>
+### Related 🟠<mooves>Moove</mooves>
 
 -
 

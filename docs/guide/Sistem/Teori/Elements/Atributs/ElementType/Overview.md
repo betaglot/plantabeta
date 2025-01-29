@@ -159,9 +159,9 @@ At a different scope, *'HeelHooks can be used to traverse a ledge'* is a Theorem
 
 🔷<beta>*'HeelHooks can be used to traverse a ledge'*</beta> is a BetaStatement composed of instances of Elements from multiple BetaTypes:
 
-- 🟠<move>HeelHook</move>
+- 🟠<mooves>HeelHook</mooves>
 - 🔻<via>Traverse</via>
-- 🟩<eko>Ledge</eko>
+- 🟩<ekos>Ledge</ekos>
 
 BetaStatements are not Elements, only the Statements of BetaTypes can be Elements.
 
@@ -183,10 +183,10 @@ Knowledge of Geometry is assumed.
 
 - Book3 is Via requires substrate(Eko)
 
-- Book4 is Move requires direction(Via)
+- Book4 is Moove requires direction(Via)
     - Physik.Mechanics
 
-- Book5 is Beta requires BetaTypes(Psike, Eko, Via, Move)
+- Book5 is Beta requires BetaTypes(Psike, Eko, Via, Moove)
 
 ## Pose
 

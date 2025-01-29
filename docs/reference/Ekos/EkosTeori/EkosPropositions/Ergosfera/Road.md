@@ -1,4 +1,4 @@
-# 🟩  <eko>Road</eko>
+# 🟩  <ekos>Road</ekos>
 
 The dirt road
 
@@ -26,7 +26,7 @@ Block Start
 
 ## 🕸 Road.Skema
 
-### Related 🟩<eko>Eko</eko>
+### Related 🟩<ekos>Eko</ekos>
 
 -
 
@@ -34,7 +34,7 @@ Block Start
 
 -
 
-### Related 🟠<move>Move</move>
+### Related 🟠<mooves>Moove</mooves>
 
 -
 

@@ -9,9 +9,9 @@ A method can be a Problema
 ## Elements of each BetaType
 
 - 🔷<beta>BETUM</beta>
-- 🟠<move>MOVEN</move>
+- 🟠<mooves>MOVEN</mooves>
 - 🔻<via>VIUM</via>
-- 🟩<eko>EKON</eko>
+- 🟩<ekos>EKON</ekos>
 - 💜<psike>NEURO</psike>
 
 ## Taxonomy of Elements
@@ -33,7 +33,7 @@ Elements combined together become a new element, not a Compound like Chemistry.
 
 ## Collection of Elements
 
-- Move collections are called Phrases
+- Moove collections are called Phrases
 - Via collections are called Passages
 - Eko collections are called Set, Sections, (Piece,Pitch), Block
 - Beta collections are called Blocks

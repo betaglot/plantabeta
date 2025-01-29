@@ -1,4 +1,4 @@
-# 🟠<move>BrazoLock</move>
+# 🟠<mooves>BrazoLock</mooves>
 
 ---
 

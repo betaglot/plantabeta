@@ -1,12 +1,12 @@
-# 🟠 <move>BootKlose</move>
+# 🟠 <mooves>BootKlose</mooves>
 
 Aliases: FootClose
 
-![MoveIkon](/Move/Move_Ikon.png)
+![MooveIkon](/Moove/Moove_Ikon.png)
 
 ## 🕸 BootKlose.Skema
 
-### Related 🟩<eko>Eko</eko>
+### Related 🟩<ekos>Eko</ekos>
 
 -
 
@@ -14,7 +14,7 @@ Aliases: FootClose
 
 -
 
-### Related 🟠<move>Move</move>
+### Related 🟠<mooves>Moove</mooves>
 
 -
 
@@ -63,6 +63,6 @@ Aliases: FootClose
 - Frase
     - BootKlose == Walk.Step
 
-- "Move.FootMove.BootKlose"
+- "Moove.FootMoove.BootKlose"
 
 :::

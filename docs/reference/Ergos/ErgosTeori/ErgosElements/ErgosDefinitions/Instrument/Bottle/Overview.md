@@ -1,10 +1,10 @@
-# 🟠<move>BottleMove</move>
+# 🟠<mooves>BottleMoove</mooves>
 
 Aliases: water bottle
 
-## 🕸 BottleMove.Skema
+## 🕸 BottleMoove.Skema
 
-### Related 🟩<eko>Eko</eko>
+### Related 🟩<ekos>Eko</ekos>
 
 -
 
@@ -12,7 +12,7 @@ Aliases: water bottle
 
 -
 
-### Related 🟠<move>Move</move>
+### Related 🟠<mooves>Moove</mooves>
 
 -
 

@@ -15,21 +15,21 @@
 
 - Plantors which don't live in tents, ie not in a bush camp.
 
-## 🟠 <move>Move Instruments</move>
+## 🟠 <mooves>Moove Instruments</mooves>
 
 Instruments you need to perform plantor motos.
 
-### 🟠 <move>Spade</move>
+### 🟠 <mooves>Spade</mooves>
 
 - Often called a shovel, but is never used to scoop soil like a shovel.
 
-### 🟠 <move>Plantor Bags</move>
+### 🟠 <mooves>Plantor Bags</mooves>
 
-### 🟠 <move>Cache Bag</move>
+### 🟠 <mooves>Cache Bag</mooves>
 
-### 🟠 <move>Water Container</move>
+### 🟠 <mooves>Water Container</mooves>
 
-### 🟠 <move>Clothing</move>
+### 🟠 <mooves>Clothing</mooves>
 
 ::: tip
 

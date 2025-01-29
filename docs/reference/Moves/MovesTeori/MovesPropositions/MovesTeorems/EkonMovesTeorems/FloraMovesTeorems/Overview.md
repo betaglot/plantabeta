@@ -1,14 +1,14 @@
-# 🟠 <move>FloraMove</move>
+# 🟠 <mooves>FloraMoove</mooves>
 
-## FloraMove.Anatomy
+## FloraMoove.Anatomy
 
-## FloraMove.Atribut
+## FloraMoove.Atribut
 
-## FloraMove.Metod
+## FloraMoove.Metod
 
-## 🕸 FloraMove.Skema
+## 🕸 FloraMoove.Skema
 
-### Related 🟩<eko>Eko</eko>
+### Related 🟩<ekos>Eko</ekos>
 
 -
 
@@ -16,7 +16,7 @@
 
 -
 
-### Related 🟠<move>Move</move>
+### Related 🟠<mooves>Moove</mooves>
 
 -
 

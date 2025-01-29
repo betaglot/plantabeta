@@ -15,7 +15,7 @@ As the Bee flies
 
 ## 🕸 BLine.Skema
 
-### Related 🟩<eko>Eko</eko>
+### Related 🟩<ekos>Eko</ekos>
 
 -
 
@@ -23,7 +23,7 @@ As the Bee flies
 
 -
 
-### Related 🟠<move>Move</move>
+### Related 🟠<mooves>Moove</mooves>
 
 -
 

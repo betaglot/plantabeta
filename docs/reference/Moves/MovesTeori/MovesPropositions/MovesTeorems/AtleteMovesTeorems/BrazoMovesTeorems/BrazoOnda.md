@@ -1,10 +1,10 @@
-# 🟠 <move>ArmKurve</move>
+# 🟠 <mooves>ArmKurve</mooves>
 
-![MoveIkon](/Move/Move_Ikon.png)
+![MooveIkon](/Moove/Moove_Ikon.png)
 
 ## 🕸 ArmKurve.Skema
 
-### Related 🟩<eko>Eko</eko>
+### Related 🟩<ekos>Eko</ekos>
 
 -
 
@@ -12,7 +12,7 @@
 
 -
 
-### Related 🟠<move>Move</move>
+### Related 🟠<mooves>Moove</mooves>
 
 -
 
@@ -36,6 +36,6 @@
 
 <h2>PageTags</h2>
 
-- "Move.ArmMove.ArmKurve"
+- "Moove.ArmMoove.ArmKurve"
 
 :::

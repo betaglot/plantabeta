@@ -1,14 +1,14 @@
-# 🟠 <move>ArmAmble</move>
+# 🟠 <mooves>ArmAmble</mooves>
 
 Aliases: ArmWalk
 
 > Using your Arms like as if you were a quadruped
 
-![MoveIkon](/Move/Move_Ikon.png)
+![MooveIkon](/Moove/Moove_Ikon.png)
 
 ## 🕸 ArmAmble.Skema
 
-### Related 🟩<eko>Eko</eko>
+### Related 🟩<ekos>Eko</ekos>
 
 - SteepSlope
     - Walk Up Slope with log in your ArmPit (ShoulderHook)
@@ -17,7 +17,7 @@ Aliases: ArmWalk
 
 -
 
-### Related 🟠<move>Move</move>
+### Related 🟠<mooves>Moove</mooves>
 
 -
 
@@ -38,5 +38,5 @@ Aliases: ArmWalk
 
 <h2>PageTags</h2>
 
-- "Move.ArmMove.ArmWalk"
+- "Moove.ArmMoove.ArmWalk"
 :::

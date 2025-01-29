@@ -1,4 +1,4 @@
-# 🟠<move>SpadeDefinitions</move>
+# 🟠<mooves>SpadeDefinitions</mooves>
 
 ---
 

@@ -1,6 +1,6 @@
-# 🟠 <move>BrazoAma</move>
+# 🟠 <mooves>BrazoAma</mooves>
 
-![MoveIkon](/Move/Move_Ikon.png)
+![MooveIkon](/Moove/Moove_Ikon.png)
 
 ## BrazoAma.Problem
 
@@ -23,9 +23,9 @@
 - ArmPosition
     - <via>ArmAboveShoulder</via>
 
-## Related <move>Move</move>
+## Related <mooves>Moove</mooves>
 
-- 🟠<move>StandUp</move>
+- 🟠<mooves>StandUp</mooves>
     - FallRecovery
         - Lean UpSlope
         - PerpendicularHips
@@ -34,27 +34,27 @@
     - PanBeta(SkiBeta): GetUp after SkiFall.
         - OneHip on the slope then press up towards your other hip until Standing
     - Remember to keep your shoulders out of your ears, to maintain optimal ScapulaPosition
-- 🟠<move>FallRedirection</move>
+- 🟠<mooves>FallRedirection</mooves>
     - Don't BrazoAma the ground, because you can rip apart your shoulder tendons
     - BrazoAma off an Ekon to redirect your Fall or to prevent falling into that Ekon.
-- 🟠<move>HandSmear</move>
-- 🟠<move>ArmLock</move>
-- 🟠<move>ArmReach</move>
+- 🟠<mooves>HandSmear</mooves>
+- 🟠<mooves>ArmLock</mooves>
+- 🟠<mooves>ArmReach</mooves>
     - BrazoAma during BagIn while the OtherArm ArmReach
         - BundleStack
         - BundleRollingAway
         - SpeciesMixing
             - You need space to separate BundleStacks of each Species, so you must ArmReach further around the Bags to get each Species. You must reach further than if there was only one species.
     - Kneeling Reach
-- 🟠<move>SpadeAma</move>
+- 🟠<mooves>SpadeAma</mooves>
     - (BrazoAma+SpadeAma): SpadeAma can be used to extend BrazoAma.
         - Requires HandCompress to prevent HandOrbit around Handle
         - Useful when walking down slope like PolePlant in PanBeta(SkiAlpineBeta)
             - Pole allows you to start absorbing earlier, therefore more time to change acceleration, which increases Flux
 
-## Related 🟩<eko>Eko</eko>
+## Related 🟩<ekos>Eko</ekos>
 
-- 🟩<eko>Log</eko>
+- 🟩<ekos>Log</ekos>
 
 ## Related 🔻<via>Via</via>
 
@@ -73,7 +73,7 @@
 
 - <https://en.wikipedia.org/wiki/Polynesian_multihull_terminology>
 - StiffArm Flora
-- CacheMove
+- CacheMoove
     - BrazoAma during BagLoad
 - What determines ArmAngle to maintain Spine Position?
 - Arm prop occurs on ships
@@ -88,6 +88,6 @@
 
 <h2>PageTags</h2>
 
-- "Move.ArmMove.BrazoAma"
+- "Moove.ArmMoove.BrazoAma"
 
 :::
