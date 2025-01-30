@@ -246,12 +246,6 @@ FloraDensity,RelatedToErgon,FillPlant
 FloraDensity,RelatedToMoove,SkreefMoove
 DiscernSigns,
 Tracking,RelatedToErgon,Deadwalking
-EkosSimbols,
-Ergon,
-Fisik,
-MoovesError,
-MoovesPraktik,
-MoovesAxiom,
 AnteriorDirection,
 DistalDirection,
 LateralDirection,
@@ -279,11 +273,11 @@ BaseSkreef,
 Crouch,
 Error,
 ArchDragKlose,
-ArchKickKlose,
+ArchKickKlose,RelatedToEkon,ClaySoil,"Converge the sides of a site. If the Site split into two"
 FootArchKlose,
 FootDragKlose,
 HeelDragKlose,
-HeelKickKlose,
+HeelKickKlose,RelatedToEkon,ClaySoil,"Asymmetric sides of a hole. One side has more Flip"
 FootKlose,
 ToeDragKlose,
 ToeKickKlose,
