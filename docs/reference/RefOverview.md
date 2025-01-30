@@ -1,19 +1,19 @@
 
-# ENCYCLOPEDIA Overview
+# Reference Overview
 
-> This ENCYCLOPEDIA section provides you with details about the functions, modules, and objects included in PlantaBeta, describing their Attributes and usage.
+> This Reference section provides you with details about the functions, modules, and objects included in PlantaBeta, describing their Attributes and usage.
 
-## [![Beta](/Beta/Beta_Icon.png)](/encyclopedia/Beta/WhatBeta)
+## [![Beta](/BetaIkon/Beta_Ikon.png)](/reference/Beta/WhatBeta)
 
-## [![Eko](/Eko/Eko_Icon.png)](/encyclopedia/Eko/EkoOverview)
+## [![Ekos](/BetaIkon/Ekos_Ikon.png)](/reference/Ekos/EkosOverview)
 
-## [![Moove](/Moove/Moove_Ikon.png)](/encyclopedia/Moove/MooveOverview)
+## [![Mooves](/BetaIkon/Mooves_Ikon.png)](/reference/Mooves/MoovesOverview)
 
-## [![Via](/Via/Via_Icon.png)](/encyclopedia/Via/ViaOverview)
+## [![Via](/BetaIkon/Via_Ikon.png)](/reference/Via/ViaOverview)
 
-## [![Psike](/Psike/Neuro_Icon.png)](/encyclopedia/Psike/NeuroOverview)
+## [![Psike](/BetaIkon/Psike_Ikon.png)](/reference/Psike/PsikeOverview)
 
-## [Lexikon](/encyclopedia/Lexikon)
+## [Lexikon](/reference/Lexikon)
 
 A list of all terms that you must be familiar with to master planting.
 

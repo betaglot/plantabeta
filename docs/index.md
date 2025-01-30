@@ -16,7 +16,7 @@ hero:
       link: /guide/What/WhatPlantaBeta
 
 
-# features:
+features:
 #   - icon: 🔷
 #     title:  Examples
 #     details: Accelerate your plantor development by learning from examples
@@ -25,10 +25,10 @@ hero:
 #     title: Last Updated on Jan 24, 2025
 #     details: 
 #     link: /dev/DevOverview
-#   - icon: 🔍
-#     title: Browse the Reference Section
-#     details: Find information about the PlantaBeta objects that you're using
-#     link: /reference/RefOverview
+  - icon: 🔍
+    title: Browse the Reference Section
+    details: Find information about the PlantaBeta objects that you're using
+    link: /reference/RefOverview
 
 ---
 

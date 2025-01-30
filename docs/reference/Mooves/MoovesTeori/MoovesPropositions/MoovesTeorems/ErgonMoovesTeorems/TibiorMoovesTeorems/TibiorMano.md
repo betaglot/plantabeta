@@ -1,6 +1,6 @@
 # 🟠 <mooves>TibiorMano</mooves>
 
-![MooveIkon](/Moove/Moove_Ikon.png)
+![MooveIkon](/BetaIkon/Mooves_Ikon.png)
 
 ## 🕸 TibiorMoove.Skema
 

@@ -8,7 +8,7 @@
 
 ## 🟠 BodyLean Solution
 
-![MooveIkon](/Moove/Moove_Ikon.png)
+![MooveIkon](/BetaIkon/Mooves_Ikon.png)
 
 ## 🕸 BodyLean.Skema
 

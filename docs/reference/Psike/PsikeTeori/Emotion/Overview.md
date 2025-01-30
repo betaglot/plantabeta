@@ -1,5 +1,11 @@
 # 💜 <psike>Emotion</psike>
 
+😄 Joy
+😨 Fear
+😠 Anger
+😞 Sadness
+😤 Disgust
+
 ---
 
 <!-- =================================================== -->
@@ -9,10 +15,6 @@
 <!-- =================================================== -->
 ::: details 🛠 <dev>&&&</dev>
 
--
-
-<h2>PageTags</h2>
-
-- "Psike.Emotion"
+- Avoid the dichotomy of Joy and Sadness, since aren't actually opposites. Antagonists
 
 :::

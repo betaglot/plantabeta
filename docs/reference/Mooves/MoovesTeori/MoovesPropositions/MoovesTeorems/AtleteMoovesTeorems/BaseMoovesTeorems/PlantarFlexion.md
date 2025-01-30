@@ -1,6 +1,6 @@
 # 🟠 <mooves>PlantarFlexion</mooves>
 
-![MooveIkon](/Moove/Moove_Ikon.png)
+![MooveIkon](/BetaIkon/Mooves_Ikon.png)
 
 ## 🕸 PlantarFlexion.Skema
 

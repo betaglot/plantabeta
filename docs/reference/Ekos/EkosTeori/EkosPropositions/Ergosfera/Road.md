@@ -22,7 +22,7 @@ Block Start
 
 ## RoadCache
 
-![Eko_Ikon](/Eko/Eko_Ikon.png)
+![Eko_Ikon](/BetaIkon/Ekos_Ikon.png)
 
 ## 🕸 Road.Skema
 

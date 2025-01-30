@@ -1,6 +1,6 @@
 # 🟠 <mooves>HeadTiltIntoWind</mooves>
 
-![MooveIkon](/Moove/Moove_Ikon.png)
+![MooveIkon](/BetaIkon/Mooves_Ikon.png)
 
 ## 🕸 HeadTilt.Skema
 

@@ -1,6 +1,6 @@
 # 🟠 <mooves>DendronEval</mooves>
 
-![MooveIkon](/Moove/Moove_Ikon.png)
+![MooveIkon](/BetaIkon/Mooves_Ikon.png)
 
 ## 🕸 DendronEval.Skema
 

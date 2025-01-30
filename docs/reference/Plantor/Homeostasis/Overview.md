@@ -1,4 +1,4 @@
-# 💜 <psike>Homeostasis</psike>
+# 👷‍♀️<plantor>Homeostasis</plantor>
 
 ![Psike_Ikon](/Psike/Psike_Ikon.png)
 

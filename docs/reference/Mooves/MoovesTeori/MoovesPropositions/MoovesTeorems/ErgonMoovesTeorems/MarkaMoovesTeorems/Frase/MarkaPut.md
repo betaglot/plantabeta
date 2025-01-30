@@ -1,7 +1,7 @@
 # 🟠 <mooves>PutMarka</mooves>
 
 > placing a Marka in the Land
-![MooveIkon](/Moove/Moove_Ikon.png)
+![MooveIkon](/BetaIkon/Mooves_Ikon.png)
 
 ## MarkaKnot
 

@@ -1,7 +1,7 @@
 # 🟠 <mooves>FloraCatch</mooves>
 
 > Grab vegetation before colliding with it
-![MooveIkon](/Moove/Moove_Ikon.png)
+![MooveIkon](/BetaIkon/Mooves_Ikon.png)
 
 The Plant can be moving towards you or the Plant can be stationary while you move towards the vege
 

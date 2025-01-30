@@ -1,8 +1,8 @@
 # 🟠 <mooves>Mooves</mooves>
 
-![Moove Icon](/Moove/Moove_Ikon.png)
+![Moove Icon](/BetaIkon/Mooves_Ikon.png)
 
-## <mooves>Mooves Icon</mooves> 🟠
+## <mooves>Mooves Ikon</mooves> 🟠
 
 > Orange Circle
 
@@ -14,74 +14,11 @@
 
 ## Etymology of "<mooves>Mooves</mooves>"
 
-movere
+Latin: movere
 
 :::
 
 ## <mooves>What is a Moove?</mooves>
-
-Moove  are prefixed by an orange circle 🟠
-
-```py
-🟠
-```
-
-### <mooves>What is a Moove Element?</mooves>
-
-```py
-{
-   Arm, 
-   Body, 
-   Cache, 
-   Clothing, 
-   Hand,
-   Foot, 
-   Head, 
-   Hole, 
-   Leg, 
-   Bag, 
-   Boot, 
-   Box, 
-   Bundle, 
-   Carabiner, 
-   Marka, 
-   Tibior, 
-   Glove, 
-   Kit, 
-   Rope, 
-   Spade, 
-   Truck, 
-   Plant 
-}
-```
-
-### <mooves>What are Moove Attributes?</mooves>
-
-#### <mooves>Mooves.<psike>Time</psike></mooves>
-
-- Moove can be slow motion while movement can't. Since Moove is from 1stPOV, time can be relative. Typically time **feels like** it's slowing down when you pay close attention to an object.
-
-Sherlock Fight Scene
-
-300 Fight Scene
-
-### <mooves>What are Mooves Methods?</mooves>
-
-### "Moove" instead of "Moove"
-
-Moove is polyglot
-
-## <mooves>What is a Moove Frase?</mooves>
-
-- Represented in Python as a List object.
-
-## <mooves>What is a MooveError?</mooves>
-
-Errors don't necessarily come from you, they could arise from PlantMoove.
-
-### MooveErrorRecovery
-
-Recover as fluidly as possible
 
 ---
 

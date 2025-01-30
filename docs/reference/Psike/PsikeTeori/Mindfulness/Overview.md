@@ -2,10 +2,6 @@
 
 ![Psike_Ikon](/Psike/Psike_Ikon.png)
 
-## Disce Pati
-
-Learn To Suffer
-
 ---
 
 <!-- =================================================== -->
@@ -15,16 +11,13 @@ Learn To Suffer
 <!-- =================================================== -->
 ::: details 🛠 <dev>&&&</dev>
 
--
-
-- Acceptance
+- Awareness never gets tired
+- Awareness
+- Being in the Present moment experience.
+- Calm
+- Concentration Practice
 - Equanimity
-- WakingUp App
-
-Vipassana
-<h2>PageTags</h2>
-
-- "Psike.Meditation"
-- "Psike.NonDual"
+- 1st Person Experience
+- Suffering
 
 :::

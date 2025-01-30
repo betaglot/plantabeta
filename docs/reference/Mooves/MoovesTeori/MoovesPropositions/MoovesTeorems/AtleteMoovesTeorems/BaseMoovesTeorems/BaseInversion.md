@@ -1,6 +1,6 @@
 # 🟠 <mooves>FootInversion</mooves>
 
-![MooveIkon](/Moove/Moove_Ikon.png)
+![MooveIkon](/BetaIkon/Mooves_Ikon.png)
 
 ## 🕸 FootInversion.Skema
 

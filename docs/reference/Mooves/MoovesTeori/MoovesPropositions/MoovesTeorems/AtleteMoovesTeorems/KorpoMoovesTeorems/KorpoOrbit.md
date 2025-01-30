@@ -1,6 +1,6 @@
 # 🟠 <mooves>KorpoOrbit</mooves>
 
-![MooveIkon](/Moove/Moove_Ikon.png)
+![MooveIkon](/BetaIkon/Mooves_Ikon.png)
 
 ## 🕸 KorpoOrbit.Skema
 

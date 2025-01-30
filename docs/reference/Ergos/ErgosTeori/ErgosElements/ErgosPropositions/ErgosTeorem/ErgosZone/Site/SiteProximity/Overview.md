@@ -28,7 +28,7 @@ Space Size
 
 Via Cell
 
-### [BodySlot](/encyclopedia/Moove/BodyMoove/BodySlot)
+### [BodySlot](/reference/Moove/BodyMoove/BodySlot)
 
 When performing a BodySlot between Obstacles, the ViaSpace is the Space between the Obstacles that the Plantor must fit through. If the ViaSpace is narrow, then the Plantor must BodyRotate to fit through the ViaSpace.
 

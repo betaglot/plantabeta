@@ -2,7 +2,7 @@
 
 Aliases: HoleOpen, Open a Hole
 
-![MooveIkon](/Moove/Moove_Ikon.png)
+![MooveIkon](/BetaIkon/Mooves_Ikon.png)
 
 ## 🕸 SiteOpen.Skema
 

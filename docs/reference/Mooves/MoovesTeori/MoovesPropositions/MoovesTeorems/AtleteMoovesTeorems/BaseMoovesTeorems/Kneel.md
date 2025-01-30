@@ -1,6 +1,6 @@
 # 🟠 <mooves>Kneel</mooves>
 
-![MooveIkon](/Moove/Moove_Ikon.png)
+![MooveIkon](/BetaIkon/Mooves_Ikon.png)
 
 ## 🕸 Kneel.Skema
 

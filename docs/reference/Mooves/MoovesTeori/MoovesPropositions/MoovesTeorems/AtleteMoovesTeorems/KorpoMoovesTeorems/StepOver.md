@@ -1,6 +1,6 @@
 # 🟠 <mooves>StepOver</mooves>
 
-![MooveIkon](/Moove/Moove_Ikon.png)
+![MooveIkon](/BetaIkon/Mooves_Ikon.png)
 
 ## 🕸 StepOver.Skema
 

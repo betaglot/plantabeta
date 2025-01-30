@@ -2,7 +2,7 @@
 >
 > to avoid something by going around it
 
-![ViaIkon](/Via/Via_Ikon.png)
+![ViaIkon](/BetaIkon/Via_Ikon.png)
 
 ## 🕸 CircumventCurve.Skema
 

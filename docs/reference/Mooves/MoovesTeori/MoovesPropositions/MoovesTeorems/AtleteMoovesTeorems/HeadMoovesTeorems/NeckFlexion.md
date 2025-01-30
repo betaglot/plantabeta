@@ -2,7 +2,7 @@
 
 > Looking down
 
-![MooveIkon](/Moove/Moove_Ikon.png)
+![MooveIkon](/BetaIkon/Mooves_Ikon.png)
 
 ## 🕸 NeckFlexion.Skema
 

@@ -1,6 +1,6 @@
 # 🟠 <mooves>HatMoove</mooves>
 
-![MooveIkon](/Moove/Moove_Ikon.png)
+![MooveIkon](/BetaIkon/Mooves_Ikon.png)
 
 ## 🕸 HatMoove.Skema
 

@@ -1,6 +1,6 @@
 # 🟠 <mooves>Jump</mooves>
 
-![MooveIkon](/Moove/Moove_Ikon.png)
+![MooveIkon](/BetaIkon/Mooves_Ikon.png)
 
 ## 🕸 Jump.Skema
 

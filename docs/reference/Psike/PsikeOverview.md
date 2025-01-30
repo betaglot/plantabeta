@@ -2,49 +2,9 @@
 
 ![Psike_Ikon](/Psike/Psike_Ikon.png)
 
-## <psike>Psike Symbol</psike> 💜
+## <psike>Psike Simbol</psike> 💜
 
 > Violet Heart
-
-## What is a Psike Factor?
-
-The most fundamental Psike Factor is **curiosity**.
-
-Short for Neuroscience
-
-- Computational Neuroscience
-- Cognitive Neuroscience
-- Neuropsychology
-- Sensory Neuroscience
-
-::: details Why is it called <psike>Psike</psike>?
-
-## Etymology of "<psike>Psike</psike>"
-
-:::
-
-## Psike Factors
-
-Psike Factors are prefixed by a 💜 violet heart icon
-
-```py
-💜
-```
-
-- NeuroObjects
-- NeuroAttributes
-- NeuroMethods
-
-### Waking Up App
-
-- Awareness never gets tired
-- Awareness
-- Being in the Present moment experience.
-- Calm
-- Concentration Practice
-- Equanimity
-- 1st Person Experience
-- Suffering
 
 ---
 
@@ -57,9 +17,7 @@ Psike Factors are prefixed by a 💜 violet heart icon
 
 - ControlFlowStatements are Psike
 
-## Danger
->
-> It is easy to get lost in neuroscience, but always try to minimize the amount of technical knowledge and only present neuroscience in the context of PlantaBeta. Every section needs to directly link back to a plantor's experience and not a person's experience in general.
+> It is easy to get lost in neuroscience, but always try to minimize the amount of technical knowledge and only present Psychology in the context of PlantaBeta. Every section needs to directly link back to a plantor's experience and not a person's experience in general.
 
 <h2>PageTags</h2>
 
@@ -72,20 +30,10 @@ Psike Factors are prefixed by a 💜 violet heart icon
 - "Psike.CognitiveEase.Good"
 - "Psike.CognitiveEase.Priming"
 - "Psike.CognitiveEase.Repetition"
-- "Psike.Difficulty"
-- "Psike.Difficulty.NeuroComplexity"
-- "Psike.Difficulty.NeuroIntensity"
-- "Psike.Difficulty.NeuroRisk"
 - "Psike.FlowState"
 - "Psike.Music"
-- "Psike.NeuroDifficulty.NeuroComplexity"
-- "Psike.NeuroDifficulty.NeuroIntensity"
-- "Psike.NeuroDifficulty.NeuroRisk"
-- "Psike.NeuroDifficulty.Overview"
-- "Psike.NeuroError"
-- "Psike.NeuroEvent"
 - "Psike.NeuroName"
-- "Psike.NeuroQuestion"
+- "Psike.PsikeQuestion"
 - "Psike.Overview"
 - "Psike.PatternRecognition"
 - "Psike.Proprioception"

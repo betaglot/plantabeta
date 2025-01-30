@@ -1,6 +1,6 @@
 # 🟠 <mooves>LogWalk</mooves>
 
-![MooveIkon](/Moove/Moove_Ikon.png)
+![MooveIkon](/BetaIkon/Mooves_Ikon.png)
 
 ## 🕸 LogWalk.Skema
 

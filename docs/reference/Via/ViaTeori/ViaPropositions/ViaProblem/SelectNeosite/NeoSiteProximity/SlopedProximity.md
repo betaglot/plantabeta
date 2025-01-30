@@ -4,7 +4,7 @@ Hypotenuse or Horizontal side of Right Triangle
 
 InsertDiagram
 
-![ViaIkon](/Via/Via_Ikon.png)
+![ViaIkon](/BetaIkon/Via_Ikon.png)
 
 ---
 

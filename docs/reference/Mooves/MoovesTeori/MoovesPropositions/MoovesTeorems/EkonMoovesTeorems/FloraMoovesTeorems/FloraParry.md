@@ -2,7 +2,7 @@
 
 > Use a FloraParry to redirect flora which is colliding with you.  
 
-![MooveIkon](/Moove/Moove_Ikon.png)
+![MooveIkon](/BetaIkon/Mooves_Ikon.png)
 
 ## 🕸 FloraParry.Skema
 
