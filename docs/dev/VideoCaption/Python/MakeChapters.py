@@ -1,4 +1,11 @@
-[
+""""
+Format the captions so they can be uploaded to the Youtube VideoDescription, which will be converted by Youtube into Chapters which can be seeked with Crtl + Arrow
+
+"""
+
+
+
+Caption_JSON = [
     {
         "startTime": "00:06:00.000",
         "finishTime": "00:06:19.000",
@@ -4410,3 +4417,10 @@
         ]
     }
 ]
+
+
+
+for member in Caption_JSON:
+    split_member = member['startTime'][:-4]
+    print(f"{split_member} Beta")
+
