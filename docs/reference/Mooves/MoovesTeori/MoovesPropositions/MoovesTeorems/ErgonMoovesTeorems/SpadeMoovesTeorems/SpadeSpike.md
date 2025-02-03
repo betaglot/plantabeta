@@ -1,10 +1,10 @@
-# 🟠 <mooves>SpadePropel</mooves>
+# 🟠 <mooves>SpadeSpike</mooves>
 
 Aliases: SpadeSlam, SpadeThrow, SpadeChop
 
 ![MooveIkon](/BetaIkon/Mooves_Ikon.png)
 
-## 🕸 SpadePropel.Skema
+## 🕸 SpadeSpike.Skema
 
 ### Related 🟩<ekos>Eko</ekos>
 
@@ -37,6 +37,8 @@ Aliases: SpadeSlam, SpadeThrow, SpadeChop
 <!-- =================================================== -->
 ::: details 🛠 <dev>&&&</dev>
 
+<https://www.youtube.com/watch?v=u-WhjYYocBs&t=115s&ab_channel=ElevateYourself>
+
 - Sequence
     1. Neosite
     2. BackOnda
@@ -50,7 +52,7 @@ Aliases: SpadeSlam, SpadeThrow, SpadeChop
     - ManoCompress to lock Spade Orientation until SpadeImpact
 - LeadingWithBase
     - Bend your Knees first then BrazoOnda
-- SpadePropel.BackOnda
+- SpadeSpike.BackOnda
 - HandleMano
     - IsometricMano, GentleMano, LooseMano
 - BrazoAbsorb
@@ -68,10 +70,10 @@ Aliases: SpadeSlam, SpadeThrow, SpadeChop
     - SpadePerpendicularPropel
 - Moove error
     - Sequence error
-    - Body Bend before SpadePropel
+    - Body Bend before SpadeSpike
     - Use body Bend to increase acceleration time to maximize velocity on impact therefore maximizing force on impact
 - SpaceFoot to increase slam height, therefore acceleration therefore force. Spade must impact before foot to be effective
-- Wrestling Snap down is SpadePropel. Like Rope Climbing.
+- Wrestling Snap down is SpadeSpike. Like Rope Climbing.
 
 - ElbowClose
 - AlsoKnownAs(SpadeThrow)
@@ -81,6 +83,6 @@ Aliases: SpadeSlam, SpadeThrow, SpadeChop
 
 <h2>PageTags</h2>
 
-- "Moove.InstrumentMoove.SpadeMoove.SpadePropel"
+- "Moove.InstrumentMoove.SpadeMoove.SpadeSpike"
 
 :::

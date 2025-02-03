@@ -6465,7 +6465,7 @@
             "SpadePoke",
             "SpadePost",
             "SpadePreservation",
-            "SpadePropel",
+            "SpadeSpike",
             "SpadePurga",
             "SpadeRotate",
             "SpadeKlose",
@@ -6818,8 +6818,8 @@
         "ElementType": ""
     },
     {
-        "ElementName": "SpadePropel",
-        "Namespace": "Moove/MooveTeori/MooveElements/InstrumentMoove/SpadeMoove/SpadePropel",
+        "ElementName": "SpadeSpike",
+        "Namespace": "Moove/MooveTeori/MooveElements/InstrumentMoove/SpadeMoove/SpadeSpike",
         "SuperDirectory": "SpadeMoove",
         "SuperElementName": [],
         "SubElementName": [],

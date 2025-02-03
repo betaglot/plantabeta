@@ -30,7 +30,7 @@ An object is only an obstacle if it hinders your Via.
 - Obstacle to Moove
     - Obstacle to Spade
     - Obstacle to Blade
-        - A 3cm rock can be an Obstacle to be avoided for SpadePropel, since pushing a rock through the ground requires more force than just the blade by itself
+        - A 3cm rock can be an Obstacle to be avoided for SpadeSpike, since pushing a rock through the ground requires more force than just the blade by itself
             - MikroBeta, MikroVia, SiteVia
         - Some Obstacles can be planted, like roots, or grass
     - Obstacle to DendroMano

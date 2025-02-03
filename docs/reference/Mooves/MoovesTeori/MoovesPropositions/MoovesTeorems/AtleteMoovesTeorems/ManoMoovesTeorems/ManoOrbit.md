@@ -30,7 +30,7 @@
 - ManoOrbit.Submove(ManoSlide)
 - ManoOrbit around Collar, Plast, trunk, branch
 - IsometricContraction
-- SuperMoove(SpadeOnda, SpadeMuscleUp, SpadePropel)
+- SuperMoove(SpadeOnda, SpadeMuscleUp, SpadeSpike)
 - ManoOrbit
 
 :::
