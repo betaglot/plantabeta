@@ -1,4 +1,14 @@
-[
+"""
+HH:MM:SS to seconds
+
+https://youtu.be/4yygmmGyynw?t=3671
+
+
+"""
+
+import json
+
+Captions_JSON = [
     {
         "startTime": "00:06:00.000",
         "finishTime": "00:06:19.000",
@@ -10,11 +20,9 @@
                 "Row_3": "",
                 "Row_4": "",
                 "Row_5": "",
-                "Row_6": ""
+                "Row_6": "",
             }
         ],
-        "base10_Time": 360,
-        "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=360s"
     },
     {
         "startTime": "00:06:19.000",
@@ -27,11 +35,9 @@
                 "Row_3": "",
                 "Row_4": "",
                 "Row_5": "",
-                "Row_6": ""
+                "Row_6": "",
             }
         ],
-        "base10_Time": 379,
-        "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=379s"
     },
     {
         "startTime": "00:06:26.000",
@@ -44,11 +50,9 @@
                 "Row_3": "",
                 "Row_4": "",
                 "Row_5": "",
-                "Row_6": ""
+                "Row_6": "",
             }
         ],
-        "base10_Time": 386,
-        "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=386s"
     },
     {
         "startTime": "00:06:36.000",
@@ -61,11 +65,9 @@
                 "Row_3": "",
                 "Row_4": "",
                 "Row_5": "",
-                "Row_6": ""
+                "Row_6": "",
             }
         ],
-        "base10_Time": 396,
-        "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=396s"
     },
     {
         "startTime": "00:06:53.000",
@@ -78,11 +80,9 @@
                 "Row_3": "",
                 "Row_4": "",
                 "Row_5": "",
-                "Row_6": ""
+                "Row_6": "",
             }
         ],
-        "base10_Time": 413,
-        "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=413s"
     },
     {
         "startTime": "00:07:02.000",
@@ -95,11 +95,9 @@
                 "Row_3": "",
                 "Row_4": "",
                 "Row_5": "",
-                "Row_6": ""
+                "Row_6": "",
             }
         ],
-        "base10_Time": 422,
-        "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=422s"
     },
     {
         "startTime": "00:07:12.000",
@@ -112,11 +110,9 @@
                 "Row_3": "",
                 "Row_4": "",
                 "Row_5": "",
-                "Row_6": ""
+                "Row_6": "",
             }
         ],
-        "base10_Time": 432,
-        "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=432s"
     },
     {
         "startTime": "00:07:24.000",
@@ -129,11 +125,9 @@
                 "Row_3": "",
                 "Row_4": "",
                 "Row_5": "",
-                "Row_6": ""
+                "Row_6": "",
             }
         ],
-        "base10_Time": 444,
-        "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=444s"
     },
     {
         "startTime": "00:07:36.000",
@@ -146,11 +140,9 @@
                 "Row_3": "",
                 "Row_4": "",
                 "Row_5": "",
-                "Row_6": ""
+                "Row_6": "",
             }
         ],
-        "base10_Time": 456,
-        "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=456s"
     },
     {
         "startTime": "00:07:54.000",
@@ -163,11 +155,9 @@
                 "Row_3": "",
                 "Row_4": "",
                 "Row_5": "",
-                "Row_6": ""
+                "Row_6": "",
             }
         ],
-        "base10_Time": 474,
-        "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=474s"
     },
     {
         "startTime": "00:08:08.000",
@@ -180,11 +170,9 @@
                 "Row_3": "",
                 "Row_4": "",
                 "Row_5": "",
-                "Row_6": ""
+                "Row_6": "",
             }
         ],
-        "base10_Time": 488,
-        "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=488s"
     },
     {
         "startTime": "00:08:21.000",
@@ -197,11 +185,9 @@
                 "Row_3": "",
                 "Row_4": "",
                 "Row_5": "",
-                "Row_6": ""
+                "Row_6": "",
             }
         ],
-        "base10_Time": 501,
-        "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=501s"
     },
     {
         "startTime": "00:08:32.000",
@@ -214,11 +200,9 @@
                 "Row_3": "",
                 "Row_4": "",
                 "Row_5": "",
-                "Row_6": ""
+                "Row_6": "",
             }
         ],
-        "base10_Time": 512,
-        "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=512s"
     },
     {
         "startTime": "00:08:44.641",
@@ -231,11 +215,9 @@
                 "Row_3": "",
                 "Row_4": "",
                 "Row_5": "",
-                "Row_6": ""
+                "Row_6": "",
             }
         ],
-        "base10_Time": 524,
-        "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=524s"
     },
     {
         "startTime": "00:08:54.049",
@@ -248,11 +230,9 @@
                 "Row_3": "",
                 "Row_4": "",
                 "Row_5": "",
-                "Row_6": ""
+                "Row_6": "",
             }
         ],
-        "base10_Time": 534,
-        "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=534s"
     },
     {
         "startTime": "00:09:07.027",
@@ -265,11 +245,9 @@
                 "Row_3": "",
                 "Row_4": "",
                 "Row_5": "",
-                "Row_6": ""
+                "Row_6": "",
             }
         ],
-        "base10_Time": 547,
-        "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=547s"
     },
     {
         "startTime": "00:09:22.140",
@@ -282,11 +260,9 @@
                 "Row_3": "",
                 "Row_4": "",
                 "Row_5": "",
-                "Row_6": ""
+                "Row_6": "",
             }
         ],
-        "base10_Time": 562,
-        "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=562s"
     },
     {
         "startTime": "00:09:34.084",
@@ -299,11 +275,9 @@
                 "Row_3": "",
                 "Row_4": "",
                 "Row_5": "",
-                "Row_6": ""
+                "Row_6": "",
             }
         ],
-        "base10_Time": 574,
-        "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=574s"
     },
     {
         "startTime": "00:09:47.763",
@@ -316,11 +290,9 @@
                 "Row_3": "",
                 "Row_4": "",
                 "Row_5": "",
-                "Row_6": ""
+                "Row_6": "",
             }
         ],
-        "base10_Time": 587,
-        "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=587s"
     },
     {
         "startTime": "00:10:01.108",
@@ -333,11 +305,9 @@
                 "Row_3": "",
                 "Row_4": "",
                 "Row_5": "",
-                "Row_6": ""
+                "Row_6": "",
             }
         ],
-        "base10_Time": 601,
-        "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=601s"
     },
     {
         "startTime": "00:12:11.495",
@@ -350,11 +320,9 @@
                 "Row_3": "",
                 "Row_4": "",
                 "Row_5": "",
-                "Row_6": ""
+                "Row_6": "",
             }
         ],
-        "base10_Time": 731,
-        "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=731s"
     },
     {
         "startTime": "00:12:23.472",
@@ -367,11 +335,9 @@
                 "Row_3": "",
                 "Row_4": "",
                 "Row_5": "",
-                "Row_6": ""
+                "Row_6": "",
             }
         ],
-        "base10_Time": 743,
-        "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=743s"
     },
     {
         "startTime": "00:12:33.915",
@@ -384,11 +350,9 @@
                 "Row_3": "",
                 "Row_4": "",
                 "Row_5": "",
-                "Row_6": ""
+                "Row_6": "",
             }
         ],
-        "base10_Time": 753,
-        "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=753s"
     },
     {
         "startTime": "00:12:44.925",
@@ -401,11 +365,9 @@
                 "Row_3": "",
                 "Row_4": "",
                 "Row_5": "",
-                "Row_6": ""
+                "Row_6": "",
             }
         ],
-        "base10_Time": 764,
-        "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=764s"
     },
     {
         "startTime": "00:12:54.800",
@@ -418,11 +380,9 @@
                 "Row_3": "",
                 "Row_4": "",
                 "Row_5": "",
-                "Row_6": ""
+                "Row_6": "",
             }
         ],
-        "base10_Time": 774,
-        "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=774s"
     },
     {
         "startTime": "00:13:04.509",
@@ -435,11 +395,9 @@
                 "Row_3": "",
                 "Row_4": "",
                 "Row_5": "",
-                "Row_6": ""
+                "Row_6": "",
             }
         ],
-        "base10_Time": 784,
-        "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=784s"
     },
     {
         "startTime": "00:13:25.060",
@@ -452,11 +410,9 @@
                 "Row_3": "",
                 "Row_4": "",
                 "Row_5": "",
-                "Row_6": ""
+                "Row_6": "",
             }
         ],
-        "base10_Time": 805,
-        "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=805s"
     },
     {
         "startTime": "00:13:36.203",
@@ -469,11 +425,9 @@
                 "Row_3": "",
                 "Row_4": "",
                 "Row_5": "",
-                "Row_6": ""
+                "Row_6": "",
             }
         ],
-        "base10_Time": 816,
-        "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=816s"
     },
     {
         "startTime": "00:13:44.210",
@@ -486,11 +440,9 @@
                 "Row_3": "",
                 "Row_4": "",
                 "Row_5": "",
-                "Row_6": ""
+                "Row_6": "",
             }
         ],
-        "base10_Time": 824,
-        "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=824s"
     },
     {
         "startTime": "00:13:54.085",
@@ -503,11 +455,9 @@
                 "Row_3": "",
                 "Row_4": "",
                 "Row_5": "",
-                "Row_6": ""
+                "Row_6": "",
             }
         ],
-        "base10_Time": 834,
-        "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=834s"
     },
     {
         "startTime": "00:14:03.660",
@@ -520,11 +470,9 @@
                 "Row_3": "",
                 "Row_4": "",
                 "Row_5": "",
-                "Row_6": ""
+                "Row_6": "",
             }
         ],
-        "base10_Time": 843,
-        "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=843s"
     },
     {
         "startTime": "00:14:15.537",
@@ -537,11 +485,9 @@
                 "Row_3": "",
                 "Row_4": "",
                 "Row_5": "",
-                "Row_6": ""
+                "Row_6": "",
             }
         ],
-        "base10_Time": 855,
-        "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=855s"
     },
     {
         "startTime": "00:14:24.011",
@@ -554,11 +500,9 @@
                 "Row_3": "",
                 "Row_4": "",
                 "Row_5": "",
-                "Row_6": ""
+                "Row_6": "",
             }
         ],
-        "base10_Time": 864,
-        "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=864s"
     },
     {
         "startTime": "00:14:33.920",
@@ -571,11 +515,9 @@
                 "Row_3": "",
                 "Row_4": "",
                 "Row_5": "",
-                "Row_6": ""
+                "Row_6": "",
             }
         ],
-        "base10_Time": 873,
-        "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=873s"
     },
     {
         "startTime": "00:14:43.095",
@@ -588,11 +530,9 @@
                 "Row_3": "",
                 "Row_4": "",
                 "Row_5": "",
-                "Row_6": ""
+                "Row_6": "",
             }
         ],
-        "base10_Time": 883,
-        "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=883s"
     },
     {
         "startTime": "00:14:54.272",
@@ -605,11 +545,9 @@
                 "Row_3": "",
                 "Row_4": "",
                 "Row_5": "",
-                "Row_6": ""
+                "Row_6": "",
             }
         ],
-        "base10_Time": 894,
-        "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=894s"
     },
     {
         "startTime": "00:15:05.177",
@@ -622,11 +560,9 @@
                 "Row_3": "",
                 "Row_4": "",
                 "Row_5": "",
-                "Row_6": ""
+                "Row_6": "",
             }
         ],
-        "base10_Time": 905,
-        "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=905s"
     },
     {
         "startTime": "00:15:15.453",
@@ -639,11 +575,9 @@
                 "Row_3": "",
                 "Row_4": "",
                 "Row_5": "",
-                "Row_6": ""
+                "Row_6": "",
             }
         ],
-        "base10_Time": 915,
-        "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=915s"
     },
     {
         "startTime": "00:15:25.529",
@@ -656,11 +590,9 @@
                 "Row_3": "",
                 "Row_4": "",
                 "Row_5": "",
-                "Row_6": ""
+                "Row_6": "",
             }
         ],
-        "base10_Time": 925,
-        "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=925s"
     },
     {
         "startTime": "00:15:35.404",
@@ -673,11 +605,9 @@
                 "Row_3": "",
                 "Row_4": "",
                 "Row_5": "",
-                "Row_6": ""
+                "Row_6": "",
             }
         ],
-        "base10_Time": 935,
-        "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=935s"
     },
     {
         "startTime": "00:15:47.214",
@@ -690,11 +620,9 @@
                 "Row_3": "",
                 "Row_4": "",
                 "Row_5": "",
-                "Row_6": ""
+                "Row_6": "",
             }
         ],
-        "base10_Time": 947,
-        "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=947s"
     },
     {
         "startTime": "00:16:02.661",
@@ -707,11 +635,9 @@
                 "Row_3": "",
                 "Row_4": "",
                 "Row_5": "",
-                "Row_6": ""
+                "Row_6": "",
             }
         ],
-        "base10_Time": 962,
-        "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=962s"
     },
     {
         "startTime": "00:16:12.303",
@@ -724,11 +650,9 @@
                 "Row_3": "",
                 "Row_4": "",
                 "Row_5": "",
-                "Row_6": ""
+                "Row_6": "",
             }
         ],
-        "base10_Time": 972,
-        "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=972s"
     },
     {
         "startTime": "00:16:21.111",
@@ -741,11 +665,9 @@
                 "Row_3": "",
                 "Row_4": "",
                 "Row_5": "",
-                "Row_6": ""
+                "Row_6": "",
             }
         ],
-        "base10_Time": 981,
-        "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=981s"
     },
     {
         "startTime": "00:16:31.000",
@@ -758,11 +680,9 @@
                 "Row_3": "",
                 "Row_4": "",
                 "Row_5": "",
-                "Row_6": ""
+                "Row_6": "",
             }
         ],
-        "base10_Time": 991,
-        "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=991s"
     },
     {
         "startTime": "00:16:39.995",
@@ -775,11 +695,9 @@
                 "Row_3": "",
                 "Row_4": "",
                 "Row_5": "",
-                "Row_6": ""
+                "Row_6": "",
             }
         ],
-        "base10_Time": 999,
-        "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=999s"
     },
     {
         "startTime": "00:16:48.136",
@@ -792,11 +710,9 @@
                 "Row_3": "",
                 "Row_4": "",
                 "Row_5": "",
-                "Row_6": ""
+                "Row_6": "",
             }
         ],
-        "base10_Time": 1008,
-        "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=1008s"
     },
     {
         "startTime": "00:16:57.778",
@@ -809,11 +725,9 @@
                 "Row_3": "",
                 "Row_4": "",
                 "Row_5": "",
-                "Row_6": ""
+                "Row_6": "",
             }
         ],
-        "base10_Time": 1017,
-        "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=1017s"
     },
     {
         "startTime": "00:17:09.055",
@@ -826,11 +740,9 @@
                 "Row_3": "",
                 "Row_4": "",
                 "Row_5": "",
-                "Row_6": ""
+                "Row_6": "",
             }
         ],
-        "base10_Time": 1029,
-        "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=1029s"
     },
     {
         "startTime": "00:17:17.996",
@@ -843,11 +755,9 @@
                 "Row_3": "",
                 "Row_4": "",
                 "Row_5": "",
-                "Row_6": ""
+                "Row_6": "",
             }
         ],
-        "base10_Time": 1037,
-        "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=1037s"
     },
     {
         "startTime": "00:17:27.505",
@@ -860,11 +770,9 @@
                 "Row_3": "",
                 "Row_4": "",
                 "Row_5": "",
-                "Row_6": ""
+                "Row_6": "",
             }
         ],
-        "base10_Time": 1047,
-        "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=1047s"
     },
     {
         "startTime": "00:17:38.515",
@@ -877,11 +785,9 @@
                 "Row_3": "",
                 "Row_4": "",
                 "Row_5": "",
-                "Row_6": ""
+                "Row_6": "",
             }
         ],
-        "base10_Time": 1058,
-        "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=1058s"
     },
     {
         "startTime": "00:17:53.000",
@@ -894,11 +800,9 @@
                 "Row_3": "",
                 "Row_4": "",
                 "Row_5": "",
-                "Row_6": ""
+                "Row_6": "",
             }
         ],
-        "base10_Time": 1073,
-        "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=1073s"
     },
     {
         "startTime": "00:18:07.540",
@@ -911,11 +815,9 @@
                 "Row_3": "",
                 "Row_4": "",
                 "Row_5": "",
-                "Row_6": ""
+                "Row_6": "",
             }
         ],
-        "base10_Time": 1087,
-        "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=1087s"
     },
     {
         "startTime": "00:18:15.080",
@@ -928,11 +830,9 @@
                 "Row_3": "",
                 "Row_4": "",
                 "Row_5": "",
-                "Row_6": ""
+                "Row_6": "",
             }
         ],
-        "base10_Time": 1095,
-        "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=1095s"
     },
     {
         "startTime": "00:18:23.087",
@@ -945,11 +845,9 @@
                 "Row_3": "",
                 "Row_4": "",
                 "Row_5": "",
-                "Row_6": ""
+                "Row_6": "",
             }
         ],
-        "base10_Time": 1103,
-        "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=1103s"
     },
     {
         "startTime": "00:18:32.095",
@@ -962,11 +860,9 @@
                 "Row_3": "",
                 "Row_4": "",
                 "Row_5": "",
-                "Row_6": ""
+                "Row_6": "",
             }
         ],
-        "base10_Time": 1112,
-        "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=1112s"
     },
     {
         "startTime": "00:18:40.569",
@@ -979,11 +875,9 @@
                 "Row_3": "",
                 "Row_4": "",
                 "Row_5": "",
-                "Row_6": ""
+                "Row_6": "",
             }
         ],
-        "base10_Time": 1120,
-        "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=1120s"
     },
     {
         "startTime": "00:18:50.545",
@@ -996,11 +890,9 @@
                 "Row_3": "",
                 "Row_4": "",
                 "Row_5": "",
-                "Row_6": ""
+                "Row_6": "",
             }
         ],
-        "base10_Time": 1130,
-        "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=1130s"
     },
     {
         "startTime": "00:18:58.185",
@@ -1013,11 +905,9 @@
                 "Row_3": "",
                 "Row_4": "",
                 "Row_5": "",
-                "Row_6": ""
+                "Row_6": "",
             }
         ],
-        "base10_Time": 1138,
-        "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=1138s"
     },
     {
         "startTime": "00:19:06.426",
@@ -1030,11 +920,9 @@
                 "Row_3": "",
                 "Row_4": "",
                 "Row_5": "",
-                "Row_6": ""
+                "Row_6": "",
             }
         ],
-        "base10_Time": 1146,
-        "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=1146s"
     },
     {
         "startTime": "00:19:15.134",
@@ -1047,11 +935,9 @@
                 "Row_3": "",
                 "Row_4": "",
                 "Row_5": "",
-                "Row_6": ""
+                "Row_6": "",
             }
         ],
-        "base10_Time": 1155,
-        "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=1155s"
     },
     {
         "startTime": "00:19:24.809",
@@ -1064,11 +950,9 @@
                 "Row_3": "",
                 "Row_4": "",
                 "Row_5": "",
-                "Row_6": ""
+                "Row_6": "",
             }
         ],
-        "base10_Time": 1164,
-        "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=1164s"
     },
     {
         "startTime": "00:19:34.584",
@@ -1081,11 +965,9 @@
                 "Row_3": "",
                 "Row_4": "",
                 "Row_5": "",
-                "Row_6": ""
+                "Row_6": "",
             }
         ],
-        "base10_Time": 1174,
-        "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=1174s"
     },
     {
         "startTime": "00:19:46.528",
@@ -1098,11 +980,9 @@
                 "Row_3": "",
                 "Row_4": "",
                 "Row_5": "",
-                "Row_6": ""
+                "Row_6": "",
             }
         ],
-        "base10_Time": 1186,
-        "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=1186s"
     },
     {
         "startTime": "00:19:56.137",
@@ -1115,11 +995,9 @@
                 "Row_3": "",
                 "Row_4": "",
                 "Row_5": "",
-                "Row_6": ""
+                "Row_6": "",
             }
         ],
-        "base10_Time": 1196,
-        "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=1196s"
     },
     {
         "startTime": "00:20:06.446",
@@ -1132,11 +1010,9 @@
                 "Row_3": "",
                 "Row_4": "",
                 "Row_5": "",
-                "Row_6": ""
+                "Row_6": "",
             }
         ],
-        "base10_Time": 1206,
-        "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=1206s"
     },
     {
         "startTime": "00:20:14.954",
@@ -1149,11 +1025,9 @@
                 "Row_3": "",
                 "Row_4": "",
                 "Row_5": "",
-                "Row_6": ""
+                "Row_6": "",
             }
         ],
-        "base10_Time": 1214,
-        "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=1214s"
     },
     {
         "startTime": "00:20:26.264",
@@ -1166,11 +1040,9 @@
                 "Row_3": "",
                 "Row_4": "",
                 "Row_5": "",
-                "Row_6": ""
+                "Row_6": "",
             }
         ],
-        "base10_Time": 1226,
-        "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=1226s"
     },
     {
         "startTime": "00:20:34.472",
@@ -1183,11 +1055,9 @@
                 "Row_3": "",
                 "Row_4": "",
                 "Row_5": "",
-                "Row_6": ""
+                "Row_6": "",
             }
         ],
-        "base10_Time": 1234,
-        "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=1234s"
     },
     {
         "startTime": "00:20:44.981",
@@ -1200,11 +1070,9 @@
                 "Row_3": "",
                 "Row_4": "",
                 "Row_5": "",
-                "Row_6": ""
+                "Row_6": "",
             }
         ],
-        "base10_Time": 1244,
-        "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=1244s"
     },
     {
         "startTime": "00:20:58.559",
@@ -1217,11 +1085,9 @@
                 "Row_3": "",
                 "Row_4": "",
                 "Row_5": "",
-                "Row_6": ""
+                "Row_6": "",
             }
         ],
-        "base10_Time": 1258,
-        "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=1258s"
     },
     {
         "startTime": "00:21:11.003",
@@ -1234,11 +1100,9 @@
                 "Row_3": "",
                 "Row_4": "",
                 "Row_5": "",
-                "Row_6": ""
+                "Row_6": "",
             }
         ],
-        "base10_Time": 1271,
-        "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=1271s"
     },
     {
         "startTime": "00:21:21.045",
@@ -1251,11 +1115,9 @@
                 "Row_3": "",
                 "Row_4": "",
                 "Row_5": "",
-                "Row_6": ""
+                "Row_6": "",
             }
         ],
-        "base10_Time": 1281,
-        "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=1281s"
     },
     {
         "startTime": "00:21:28.919",
@@ -1268,11 +1130,9 @@
                 "Row_3": "",
                 "Row_4": "",
                 "Row_5": "",
-                "Row_6": ""
+                "Row_6": "",
             }
         ],
-        "base10_Time": 1288,
-        "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=1288s"
     },
     {
         "startTime": "00:21:40.129",
@@ -1285,11 +1145,9 @@
                 "Row_3": "",
                 "Row_4": "",
                 "Row_5": "",
-                "Row_6": ""
+                "Row_6": "",
             }
         ],
-        "base10_Time": 1300,
-        "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=1300s"
     },
     {
         "startTime": "00:21:48.236",
@@ -1302,11 +1160,9 @@
                 "Row_3": "",
                 "Row_4": "",
                 "Row_5": "",
-                "Row_6": ""
+                "Row_6": "",
             }
         ],
-        "base10_Time": 1308,
-        "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=1308s"
     },
     {
         "startTime": "00:22:00.380",
@@ -1319,11 +1175,9 @@
                 "Row_3": "",
                 "Row_4": "",
                 "Row_5": "",
-                "Row_6": ""
+                "Row_6": "",
             }
         ],
-        "base10_Time": 1320,
-        "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=1320s"
     },
     {
         "startTime": "00:22:10.875",
@@ -1336,11 +1190,9 @@
                 "Row_3": "",
                 "Row_4": "",
                 "Row_5": "",
-                "Row_6": ""
+                "Row_6": "",
             }
         ],
-        "base10_Time": 1330,
-        "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=1330s"
     },
     {
         "startTime": "00:22:20.785",
@@ -1353,11 +1205,9 @@
                 "Row_3": "",
                 "Row_4": "",
                 "Row_5": "",
-                "Row_6": ""
+                "Row_6": "",
             }
         ],
-        "base10_Time": 1340,
-        "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=1340s"
     },
     {
         "startTime": "00:22:33.229",
@@ -1370,11 +1220,9 @@
                 "Row_3": "",
                 "Row_4": "",
                 "Row_5": "",
-                "Row_6": ""
+                "Row_6": "",
             }
         ],
-        "base10_Time": 1353,
-        "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=1353s"
     },
     {
         "startTime": "00:22:54.614",
@@ -1387,11 +1235,9 @@
                 "Row_3": "",
                 "Row_4": "",
                 "Row_5": "",
-                "Row_6": ""
+                "Row_6": "",
             }
         ],
-        "base10_Time": 1374,
-        "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=1374s"
     },
     {
         "startTime": "00:23:04.356",
@@ -1404,11 +1250,9 @@
                 "Row_3": "",
                 "Row_4": "",
                 "Row_5": "",
-                "Row_6": ""
+                "Row_6": "",
             }
         ],
-        "base10_Time": 1384,
-        "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=1384s"
     },
     {
         "startTime": "00:23:21.304",
@@ -1421,11 +1265,9 @@
                 "Row_3": "",
                 "Row_4": "",
                 "Row_5": "",
-                "Row_6": ""
+                "Row_6": "",
             }
         ],
-        "base10_Time": 1401,
-        "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=1401s"
     },
     {
         "startTime": "00:23:35.249",
@@ -1438,11 +1280,9 @@
                 "Row_3": "",
                 "Row_4": "",
                 "Row_5": "",
-                "Row_6": ""
+                "Row_6": "",
             }
         ],
-        "base10_Time": 1415,
-        "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=1415s"
     },
     {
         "startTime": "00:23:56.066",
@@ -1455,11 +1295,9 @@
                 "Row_3": "",
                 "Row_4": "",
                 "Row_5": "",
-                "Row_6": ""
+                "Row_6": "",
             }
         ],
-        "base10_Time": 1436,
-        "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=1436s"
     },
     {
         "startTime": "00:24:11.880",
@@ -1472,11 +1310,9 @@
                 "Row_3": "",
                 "Row_4": "",
                 "Row_5": "",
-                "Row_6": ""
+                "Row_6": "",
             }
         ],
-        "base10_Time": 1451,
-        "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=1451s"
     },
     {
         "startTime": "00:24:28.961",
@@ -1489,11 +1325,9 @@
                 "Row_3": "",
                 "Row_4": "",
                 "Row_5": "",
-                "Row_6": ""
+                "Row_6": "",
             }
         ],
-        "base10_Time": 1468,
-        "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=1468s"
     },
     {
         "startTime": "00:24:43.372",
@@ -1506,11 +1340,9 @@
                 "Row_3": "",
                 "Row_4": "",
                 "Row_5": "",
-                "Row_6": ""
+                "Row_6": "",
             }
         ],
-        "base10_Time": 1483,
-        "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=1483s"
     },
     {
         "startTime": "00:24:52.515",
@@ -1523,11 +1355,9 @@
                 "Row_3": "",
                 "Row_4": "",
                 "Row_5": "",
-                "Row_6": ""
+                "Row_6": "",
             }
         ],
-        "base10_Time": 1492,
-        "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=1492s"
     },
     {
         "startTime": "00:25:08.796",
@@ -1540,11 +1370,9 @@
                 "Row_3": "",
                 "Row_4": "",
                 "Row_5": "",
-                "Row_6": ""
+                "Row_6": "",
             }
         ],
-        "base10_Time": 1508,
-        "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=1508s"
     },
     {
         "startTime": "00:25:41.000",
@@ -1557,11 +1385,9 @@
                 "Row_3": "",
                 "Row_4": "",
                 "Row_5": "",
-                "Row_6": ""
+                "Row_6": "",
             }
         ],
-        "base10_Time": 1541,
-        "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=1541s"
     },
     {
         "startTime": "00:25:50.000",
@@ -1574,11 +1400,9 @@
                 "Row_3": "",
                 "Row_4": "",
                 "Row_5": "",
-                "Row_6": ""
+                "Row_6": "",
             }
         ],
-        "base10_Time": 1550,
-        "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=1550s"
     },
     {
         "startTime": "00:26:00.000",
@@ -1591,11 +1415,9 @@
                 "Row_3": "",
                 "Row_4": "",
                 "Row_5": "",
-                "Row_6": ""
+                "Row_6": "",
             }
         ],
-        "base10_Time": 1560,
-        "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=1560s"
     },
     {
         "startTime": "00:26:10.000",
@@ -1608,11 +1430,9 @@
                 "Row_3": "",
                 "Row_4": "",
                 "Row_5": "",
-                "Row_6": ""
+                "Row_6": "",
             }
         ],
-        "base10_Time": 1570,
-        "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=1570s"
     },
     {
         "startTime": "00:26:18.000",
@@ -1625,11 +1445,9 @@
                 "Row_3": "",
                 "Row_4": "",
                 "Row_5": "",
-                "Row_6": ""
+                "Row_6": "",
             }
         ],
-        "base10_Time": 1578,
-        "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=1578s"
     },
     {
         "startTime": "00:26:28.000",
@@ -1642,11 +1460,9 @@
                 "Row_3": "",
                 "Row_4": "",
                 "Row_5": "",
-                "Row_6": ""
+                "Row_6": "",
             }
         ],
-        "base10_Time": 1588,
-        "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=1588s"
     },
     {
         "startTime": "00:26:38.000",
@@ -1659,11 +1475,9 @@
                 "Row_3": "",
                 "Row_4": "",
                 "Row_5": "",
-                "Row_6": ""
+                "Row_6": "",
             }
         ],
-        "base10_Time": 1598,
-        "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=1598s"
     },
     {
         "startTime": "00:26:48.000",
@@ -1676,11 +1490,9 @@
                 "Row_3": "",
                 "Row_4": "",
                 "Row_5": "",
-                "Row_6": ""
+                "Row_6": "",
             }
         ],
-        "base10_Time": 1608,
-        "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=1608s"
     },
     {
         "startTime": "00:27:00.000",
@@ -1693,11 +1505,9 @@
                 "Row_3": "",
                 "Row_4": "",
                 "Row_5": "",
-                "Row_6": ""
+                "Row_6": "",
             }
         ],
-        "base10_Time": 1620,
-        "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=1620s"
     },
     {
         "startTime": "00:27:14.000",
@@ -1710,11 +1520,9 @@
                 "Row_3": "",
                 "Row_4": "",
                 "Row_5": "",
-                "Row_6": ""
+                "Row_6": "",
             }
         ],
-        "base10_Time": 1634,
-        "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=1634s"
     },
     {
         "startTime": "00:27:25.000",
@@ -1727,11 +1535,9 @@
                 "Row_3": "",
                 "Row_4": "",
                 "Row_5": "",
-                "Row_6": ""
+                "Row_6": "",
             }
         ],
-        "base10_Time": 1645,
-        "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=1645s"
     },
     {
         "startTime": "00:27:35.000",
@@ -1744,11 +1550,9 @@
                 "Row_3": "",
                 "Row_4": "",
                 "Row_5": "",
-                "Row_6": ""
+                "Row_6": "",
             }
         ],
-        "base10_Time": 1655,
-        "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=1655s"
     },
     {
         "startTime": "00:27:48.000",
@@ -1761,11 +1565,9 @@
                 "Row_3": "",
                 "Row_4": "",
                 "Row_5": "",
-                "Row_6": ""
+                "Row_6": "",
             }
         ],
-        "base10_Time": 1668,
-        "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=1668s"
     },
     {
         "startTime": "00:28:15.000",
@@ -1778,11 +1580,9 @@
                 "Row_3": "",
                 "Row_4": "",
                 "Row_5": "",
-                "Row_6": ""
+                "Row_6": "",
             }
         ],
-        "base10_Time": 1695,
-        "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=1695s"
     },
     {
         "startTime": "00:28:30.000",
@@ -1795,11 +1595,9 @@
                 "Row_3": "",
                 "Row_4": "",
                 "Row_5": "",
-                "Row_6": ""
+                "Row_6": "",
             }
         ],
-        "base10_Time": 1710,
-        "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=1710s"
     },
     {
         "startTime": "00:28:40.000",
@@ -1812,11 +1610,9 @@
                 "Row_3": "",
                 "Row_4": "",
                 "Row_5": "",
-                "Row_6": ""
+                "Row_6": "",
             }
         ],
-        "base10_Time": 1720,
-        "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=1720s"
     },
     {
         "startTime": "00:28:53.000",
@@ -1829,11 +1625,9 @@
                 "Row_3": "",
                 "Row_4": "",
                 "Row_5": "",
-                "Row_6": ""
+                "Row_6": "",
             }
         ],
-        "base10_Time": 1733,
-        "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=1733s"
     },
     {
         "startTime": "00:29:08.000",
@@ -1846,11 +1640,9 @@
                 "Row_3": "",
                 "Row_4": "",
                 "Row_5": "",
-                "Row_6": ""
+                "Row_6": "",
             }
         ],
-        "base10_Time": 1748,
-        "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=1748s"
     },
     {
         "startTime": "00:29:21.000",
@@ -1863,11 +1655,9 @@
                 "Row_3": "",
                 "Row_4": "",
                 "Row_5": "",
-                "Row_6": ""
+                "Row_6": "",
             }
         ],
-        "base10_Time": 1761,
-        "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=1761s"
     },
     {
         "startTime": "00:29:33.000",
@@ -1880,11 +1670,9 @@
                 "Row_3": "",
                 "Row_4": "",
                 "Row_5": "",
-                "Row_6": ""
+                "Row_6": "",
             }
         ],
-        "base10_Time": 1773,
-        "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=1773s"
     },
     {
         "startTime": "00:29:46.000",
@@ -1897,11 +1685,9 @@
                 "Row_3": "",
                 "Row_4": "",
                 "Row_5": "",
-                "Row_6": ""
+                "Row_6": "",
             }
         ],
-        "base10_Time": 1786,
-        "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=1786s"
     },
     {
         "startTime": "00:29:59.000",
@@ -1914,11 +1700,9 @@
                 "Row_3": "",
                 "Row_4": "",
                 "Row_5": "",
-                "Row_6": ""
+                "Row_6": "",
             }
         ],
-        "base10_Time": 1799,
-        "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=1799s"
     },
     {
         "startTime": "00:30:11.000",
@@ -1931,11 +1715,9 @@
                 "Row_3": "",
                 "Row_4": "",
                 "Row_5": "",
-                "Row_6": ""
+                "Row_6": "",
             }
         ],
-        "base10_Time": 1811,
-        "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=1811s"
     },
     {
         "startTime": "00:30:22.000",
@@ -1948,11 +1730,9 @@
                 "Row_3": "",
                 "Row_4": "",
                 "Row_5": "",
-                "Row_6": ""
+                "Row_6": "",
             }
         ],
-        "base10_Time": 1822,
-        "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=1822s"
     },
     {
         "startTime": "00:30:30.000",
@@ -1965,11 +1745,9 @@
                 "Row_3": "",
                 "Row_4": "",
                 "Row_5": "",
-                "Row_6": ""
+                "Row_6": "",
             }
         ],
-        "base10_Time": 1830,
-        "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=1830s"
     },
     {
         "startTime": "00:30:43.000",
@@ -1982,11 +1760,9 @@
                 "Row_3": "",
                 "Row_4": "",
                 "Row_5": "",
-                "Row_6": ""
+                "Row_6": "",
             }
         ],
-        "base10_Time": 1843,
-        "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=1843s"
     },
     {
         "startTime": "00:31:03.000",
@@ -1999,11 +1775,9 @@
                 "Row_3": "",
                 "Row_4": "",
                 "Row_5": "",
-                "Row_6": ""
+                "Row_6": "",
             }
         ],
-        "base10_Time": 1863,
-        "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=1863s"
     },
     {
         "startTime": "00:31:16.000",
@@ -2016,11 +1790,9 @@
                 "Row_3": "",
                 "Row_4": "",
                 "Row_5": "",
-                "Row_6": ""
+                "Row_6": "",
             }
         ],
-        "base10_Time": 1876,
-        "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=1876s"
     },
     {
         "startTime": "00:31:27.000",
@@ -2033,11 +1805,9 @@
                 "Row_3": "",
                 "Row_4": "",
                 "Row_5": "",
-                "Row_6": ""
+                "Row_6": "",
             }
         ],
-        "base10_Time": 1887,
-        "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=1887s"
     },
     {
         "startTime": "00:31:43.000",
@@ -2050,11 +1820,9 @@
                 "Row_3": "",
                 "Row_4": "",
                 "Row_5": "",
-                "Row_6": ""
+                "Row_6": "",
             }
         ],
-        "base10_Time": 1903,
-        "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=1903s"
     },
     {
         "startTime": "00:31:58.000",
@@ -2067,11 +1835,9 @@
                 "Row_3": "",
                 "Row_4": "",
                 "Row_5": "",
-                "Row_6": ""
+                "Row_6": "",
             }
         ],
-        "base10_Time": 1918,
-        "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=1918s"
     },
     {
         "startTime": "00:32:12.000",
@@ -2084,11 +1850,9 @@
                 "Row_3": "",
                 "Row_4": "",
                 "Row_5": "",
-                "Row_6": ""
+                "Row_6": "",
             }
         ],
-        "base10_Time": 1932,
-        "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=1932s"
     },
     {
         "startTime": "00:32:28.000",
@@ -2101,11 +1865,9 @@
                 "Row_3": "",
                 "Row_4": "",
                 "Row_5": "",
-                "Row_6": ""
+                "Row_6": "",
             }
         ],
-        "base10_Time": 1948,
-        "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=1948s"
     },
     {
         "startTime": "00:32:39.000",
@@ -2118,11 +1880,9 @@
                 "Row_3": "",
                 "Row_4": "",
                 "Row_5": "",
-                "Row_6": ""
+                "Row_6": "",
             }
         ],
-        "base10_Time": 1959,
-        "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=1959s"
     },
     {
         "startTime": "00:32:56.000",
@@ -2135,11 +1895,9 @@
                 "Row_3": "",
                 "Row_4": "",
                 "Row_5": "",
-                "Row_6": ""
+                "Row_6": "",
             }
         ],
-        "base10_Time": 1976,
-        "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=1976s"
     },
     {
         "startTime": "00:33:08.000",
@@ -2152,11 +1910,9 @@
                 "Row_3": "",
                 "Row_4": "",
                 "Row_5": "",
-                "Row_6": ""
+                "Row_6": "",
             }
         ],
-        "base10_Time": 1988,
-        "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=1988s"
     },
     {
         "startTime": "00:33:23.000",
@@ -2169,11 +1925,9 @@
                 "Row_3": "",
                 "Row_4": "",
                 "Row_5": "",
-                "Row_6": ""
+                "Row_6": "",
             }
         ],
-        "base10_Time": 2003,
-        "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=2003s"
     },
     {
         "startTime": "00:33:33.000",
@@ -2186,11 +1940,9 @@
                 "Row_3": "",
                 "Row_4": "",
                 "Row_5": "",
-                "Row_6": ""
+                "Row_6": "",
             }
         ],
-        "base10_Time": 2013,
-        "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=2013s"
     },
     {
         "startTime": "00:33:52.000",
@@ -2203,11 +1955,9 @@
                 "Row_3": "",
                 "Row_4": "",
                 "Row_5": "",
-                "Row_6": ""
+                "Row_6": "",
             }
         ],
-        "base10_Time": 2032,
-        "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=2032s"
     },
     {
         "startTime": "00:34:04.000",
@@ -2220,11 +1970,9 @@
                 "Row_3": "",
                 "Row_4": "",
                 "Row_5": "",
-                "Row_6": ""
+                "Row_6": "",
             }
         ],
-        "base10_Time": 2044,
-        "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=2044s"
     },
     {
         "startTime": "00:34:15.000",
@@ -2237,11 +1985,9 @@
                 "Row_3": "",
                 "Row_4": "",
                 "Row_5": "",
-                "Row_6": ""
+                "Row_6": "",
             }
         ],
-        "base10_Time": 2055,
-        "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=2055s"
     },
     {
         "startTime": "00:34:27.000",
@@ -2254,11 +2000,9 @@
                 "Row_3": "",
                 "Row_4": "",
                 "Row_5": "",
-                "Row_6": ""
+                "Row_6": "",
             }
         ],
-        "base10_Time": 2067,
-        "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=2067s"
     },
     {
         "startTime": "00:34:50.000",
@@ -2271,11 +2015,9 @@
                 "Row_3": "",
                 "Row_4": "",
                 "Row_5": "",
-                "Row_6": ""
+                "Row_6": "",
             }
         ],
-        "base10_Time": 2090,
-        "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=2090s"
     },
     {
         "startTime": "00:35:05.000",
@@ -2288,11 +2030,9 @@
                 "Row_3": "",
                 "Row_4": "",
                 "Row_5": "",
-                "Row_6": ""
+                "Row_6": "",
             }
         ],
-        "base10_Time": 2105,
-        "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=2105s"
     },
     {
         "startTime": "00:35:19.000",
@@ -2305,11 +2045,9 @@
                 "Row_3": "",
                 "Row_4": "",
                 "Row_5": "",
-                "Row_6": ""
+                "Row_6": "",
             }
         ],
-        "base10_Time": 2119,
-        "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=2119s"
     },
     {
         "startTime": "00:35:31.000",
@@ -2322,11 +2060,9 @@
                 "Row_3": "",
                 "Row_4": "",
                 "Row_5": "",
-                "Row_6": ""
+                "Row_6": "",
             }
         ],
-        "base10_Time": 2131,
-        "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=2131s"
     },
     {
         "startTime": "00:35:39.000",
@@ -2339,11 +2075,9 @@
                 "Row_3": "",
                 "Row_4": "",
                 "Row_5": "",
-                "Row_6": ""
+                "Row_6": "",
             }
         ],
-        "base10_Time": 2139,
-        "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=2139s"
     },
     {
         "startTime": "00:35:52.000",
@@ -2356,11 +2090,9 @@
                 "Row_3": "",
                 "Row_4": "",
                 "Row_5": "",
-                "Row_6": ""
+                "Row_6": "",
             }
         ],
-        "base10_Time": 2152,
-        "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=2152s"
     },
     {
         "startTime": "00:36:04.000",
@@ -2373,11 +2105,9 @@
                 "Row_3": "",
                 "Row_4": "",
                 "Row_5": "",
-                "Row_6": ""
+                "Row_6": "",
             }
         ],
-        "base10_Time": 2164,
-        "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=2164s"
     },
     {
         "startTime": "00:36:25.000",
@@ -2390,11 +2120,9 @@
                 "Row_3": "",
                 "Row_4": "",
                 "Row_5": "",
-                "Row_6": ""
+                "Row_6": "",
             }
         ],
-        "base10_Time": 2185,
-        "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=2185s"
     },
     {
         "startTime": "00:36:35.000",
@@ -2407,11 +2135,9 @@
                 "Row_3": "",
                 "Row_4": "",
                 "Row_5": "",
-                "Row_6": ""
+                "Row_6": "",
             }
         ],
-        "base10_Time": 2195,
-        "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=2195s"
     },
     {
         "startTime": "00:36:47.000",
@@ -2424,11 +2150,9 @@
                 "Row_3": "",
                 "Row_4": "",
                 "Row_5": "",
-                "Row_6": ""
+                "Row_6": "",
             }
         ],
-        "base10_Time": 2207,
-        "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=2207s"
     },
     {
         "startTime": "00:37:02.000",
@@ -2441,11 +2165,9 @@
                 "Row_3": "",
                 "Row_4": "",
                 "Row_5": "",
-                "Row_6": ""
+                "Row_6": "",
             }
         ],
-        "base10_Time": 2222,
-        "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=2222s"
     },
     {
         "startTime": "00:37:12.000",
@@ -2458,11 +2180,9 @@
                 "Row_3": "",
                 "Row_4": "",
                 "Row_5": "",
-                "Row_6": ""
+                "Row_6": "",
             }
         ],
-        "base10_Time": 2232,
-        "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=2232s"
     },
     {
         "startTime": "00:37:24.000",
@@ -2475,11 +2195,9 @@
                 "Row_3": "",
                 "Row_4": "",
                 "Row_5": "",
-                "Row_6": ""
+                "Row_6": "",
             }
         ],
-        "base10_Time": 2244,
-        "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=2244s"
     },
     {
         "startTime": "00:37:48.000",
@@ -2492,11 +2210,9 @@
                 "Row_3": "",
                 "Row_4": "",
                 "Row_5": "",
-                "Row_6": ""
+                "Row_6": "",
             }
         ],
-        "base10_Time": 2268,
-        "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=2268s"
     },
     {
         "startTime": "00:38:30.000",
@@ -2509,11 +2225,9 @@
                 "Row_3": "",
                 "Row_4": "",
                 "Row_5": "",
-                "Row_6": ""
+                "Row_6": "",
             }
         ],
-        "base10_Time": 2310,
-        "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=2310s"
     },
     {
         "startTime": "00:38:44.000",
@@ -2526,11 +2240,9 @@
                 "Row_3": "",
                 "Row_4": "",
                 "Row_5": "",
-                "Row_6": ""
+                "Row_6": "",
             }
         ],
-        "base10_Time": 2324,
-        "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=2324s"
     },
     {
         "startTime": "00:38:55.000",
@@ -2543,11 +2255,9 @@
                 "Row_3": "",
                 "Row_4": "",
                 "Row_5": "",
-                "Row_6": ""
+                "Row_6": "",
             }
         ],
-        "base10_Time": 2335,
-        "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=2335s"
     },
     {
         "startTime": "00:39:16.000",
@@ -2560,11 +2270,9 @@
                 "Row_3": "",
                 "Row_4": "",
                 "Row_5": "",
-                "Row_6": ""
+                "Row_6": "",
             }
         ],
-        "base10_Time": 2356,
-        "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=2356s"
     },
     {
         "startTime": "00:39:26.000",
@@ -2577,11 +2285,9 @@
                 "Row_3": "",
                 "Row_4": "",
                 "Row_5": "",
-                "Row_6": ""
+                "Row_6": "",
             }
         ],
-        "base10_Time": 2366,
-        "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=2366s"
     },
     {
         "startTime": "00:39:39.000",
@@ -2594,11 +2300,9 @@
                 "Row_3": "",
                 "Row_4": "",
                 "Row_5": "",
-                "Row_6": ""
+                "Row_6": "",
             }
         ],
-        "base10_Time": 2379,
-        "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=2379s"
     },
     {
         "startTime": "00:39:52.000",
@@ -2611,11 +2315,9 @@
                 "Row_3": "",
                 "Row_4": "",
                 "Row_5": "",
-                "Row_6": ""
+                "Row_6": "",
             }
         ],
-        "base10_Time": 2392,
-        "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=2392s"
     },
     {
         "startTime": "00:40:02.000",
@@ -2628,11 +2330,9 @@
                 "Row_3": "",
                 "Row_4": "",
                 "Row_5": "",
-                "Row_6": ""
+                "Row_6": "",
             }
         ],
-        "base10_Time": 2402,
-        "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=2402s"
     },
     {
         "startTime": "00:40:14.000",
@@ -2645,11 +2345,9 @@
                 "Row_3": "",
                 "Row_4": "",
                 "Row_5": "",
-                "Row_6": ""
+                "Row_6": "",
             }
         ],
-        "base10_Time": 2414,
-        "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=2414s"
     },
     {
         "startTime": "00:40:23.000",
@@ -2662,11 +2360,9 @@
                 "Row_3": "",
                 "Row_4": "",
                 "Row_5": "",
-                "Row_6": ""
+                "Row_6": "",
             }
         ],
-        "base10_Time": 2423,
-        "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=2423s"
     },
     {
         "startTime": "00:40:37.000",
@@ -2679,11 +2375,9 @@
                 "Row_3": "",
                 "Row_4": "",
                 "Row_5": "",
-                "Row_6": ""
+                "Row_6": "",
             }
         ],
-        "base10_Time": 2437,
-        "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=2437s"
     },
     {
         "startTime": "00:40:50.000",
@@ -2696,11 +2390,9 @@
                 "Row_3": "",
                 "Row_4": "",
                 "Row_5": "",
-                "Row_6": ""
+                "Row_6": "",
             }
         ],
-        "base10_Time": 2450,
-        "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=2450s"
     },
     {
         "startTime": "00:41:06.000",
@@ -2713,11 +2405,9 @@
                 "Row_3": "",
                 "Row_4": "",
                 "Row_5": "",
-                "Row_6": ""
+                "Row_6": "",
             }
         ],
-        "base10_Time": 2466,
-        "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=2466s"
     },
     {
         "startTime": "00:41:17.000",
@@ -2730,11 +2420,9 @@
                 "Row_3": "",
                 "Row_4": "",
                 "Row_5": "",
-                "Row_6": ""
+                "Row_6": "",
             }
         ],
-        "base10_Time": 2477,
-        "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=2477s"
     },
     {
         "startTime": "00:41:35.000",
@@ -2747,11 +2435,9 @@
                 "Row_3": "",
                 "Row_4": "",
                 "Row_5": "",
-                "Row_6": ""
+                "Row_6": "",
             }
         ],
-        "base10_Time": 2495,
-        "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=2495s"
     },
     {
         "startTime": "00:41:49.000",
@@ -2764,11 +2450,9 @@
                 "Row_3": "",
                 "Row_4": "",
                 "Row_5": "",
-                "Row_6": ""
+                "Row_6": "",
             }
         ],
-        "base10_Time": 2509,
-        "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=2509s"
     },
     {
         "startTime": "00:42:02.000",
@@ -2781,11 +2465,9 @@
                 "Row_3": "",
                 "Row_4": "",
                 "Row_5": "",
-                "Row_6": ""
+                "Row_6": "",
             }
         ],
-        "base10_Time": 2522,
-        "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=2522s"
     },
     {
         "startTime": "00:42:17.000",
@@ -2798,11 +2480,9 @@
                 "Row_3": "",
                 "Row_4": "",
                 "Row_5": "",
-                "Row_6": ""
+                "Row_6": "",
             }
         ],
-        "base10_Time": 2537,
-        "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=2537s"
     },
     {
         "startTime": "00:42:33.000",
@@ -2815,11 +2495,9 @@
                 "Row_3": "",
                 "Row_4": "",
                 "Row_5": "",
-                "Row_6": ""
+                "Row_6": "",
             }
         ],
-        "base10_Time": 2553,
-        "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=2553s"
     },
     {
         "startTime": "00:43:09.000",
@@ -2832,11 +2510,9 @@
                 "Row_3": "",
                 "Row_4": "",
                 "Row_5": "",
-                "Row_6": ""
+                "Row_6": "",
             }
         ],
-        "base10_Time": 2589,
-        "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=2589s"
     },
     {
         "startTime": "00:43:25.000",
@@ -2849,11 +2525,9 @@
                 "Row_3": "",
                 "Row_4": "",
                 "Row_5": "",
-                "Row_6": ""
+                "Row_6": "",
             }
         ],
-        "base10_Time": 2605,
-        "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=2605s"
     },
     {
         "startTime": "00:43:39.000",
@@ -2866,11 +2540,9 @@
                 "Row_3": "",
                 "Row_4": "",
                 "Row_5": "",
-                "Row_6": ""
+                "Row_6": "",
             }
         ],
-        "base10_Time": 2619,
-        "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=2619s"
     },
     {
         "startTime": "00:43:46.000",
@@ -2883,11 +2555,9 @@
                 "Row_3": "",
                 "Row_4": "",
                 "Row_5": "",
-                "Row_6": ""
+                "Row_6": "",
             }
         ],
-        "base10_Time": 2626,
-        "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=2626s"
     },
     {
         "startTime": "00:44:06.000",
@@ -2900,11 +2570,9 @@
                 "Row_3": "",
                 "Row_4": "",
                 "Row_5": "",
-                "Row_6": ""
+                "Row_6": "",
             }
         ],
-        "base10_Time": 2646,
-        "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=2646s"
     },
     {
         "startTime": "00:44:22.000",
@@ -2917,11 +2585,9 @@
                 "Row_3": "",
                 "Row_4": "",
                 "Row_5": "",
-                "Row_6": ""
+                "Row_6": "",
             }
         ],
-        "base10_Time": 2662,
-        "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=2662s"
     },
     {
         "startTime": "00:44:35.000",
@@ -2934,11 +2600,9 @@
                 "Row_3": "",
                 "Row_4": "",
                 "Row_5": "",
-                "Row_6": ""
+                "Row_6": "",
             }
         ],
-        "base10_Time": 2675,
-        "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=2675s"
     },
     {
         "startTime": "00:44:44.000",
@@ -2951,11 +2615,9 @@
                 "Row_3": "",
                 "Row_4": "",
                 "Row_5": "",
-                "Row_6": ""
+                "Row_6": "",
             }
         ],
-        "base10_Time": 2684,
-        "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=2684s"
     },
     {
         "startTime": "00:44:54.000",
@@ -2968,11 +2630,9 @@
                 "Row_3": "",
                 "Row_4": "",
                 "Row_5": "",
-                "Row_6": ""
+                "Row_6": "",
             }
         ],
-        "base10_Time": 2694,
-        "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=2694s"
     },
     {
         "startTime": "00:45:05.000",
@@ -2985,11 +2645,9 @@
                 "Row_3": "",
                 "Row_4": "",
                 "Row_5": "",
-                "Row_6": ""
+                "Row_6": "",
             }
         ],
-        "base10_Time": 2705,
-        "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=2705s"
     },
     {
         "startTime": "00:45:27.000",
@@ -3002,11 +2660,9 @@
                 "Row_3": "",
                 "Row_4": "",
                 "Row_5": "",
-                "Row_6": ""
+                "Row_6": "",
             }
         ],
-        "base10_Time": 2727,
-        "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=2727s"
     },
     {
         "startTime": "00:45:38.000",
@@ -3019,11 +2675,9 @@
                 "Row_3": "",
                 "Row_4": "",
                 "Row_5": "",
-                "Row_6": ""
+                "Row_6": "",
             }
         ],
-        "base10_Time": 2738,
-        "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=2738s"
     },
     {
         "startTime": "00:46:03.000",
@@ -3036,11 +2690,9 @@
                 "Row_3": "",
                 "Row_4": "",
                 "Row_5": "",
-                "Row_6": ""
+                "Row_6": "",
             }
         ],
-        "base10_Time": 2763,
-        "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=2763s"
     },
     {
         "startTime": "00:46:29.000",
@@ -3053,11 +2705,9 @@
                 "Row_3": "",
                 "Row_4": "",
                 "Row_5": "",
-                "Row_6": ""
+                "Row_6": "",
             }
         ],
-        "base10_Time": 2789,
-        "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=2789s"
     },
     {
         "startTime": "00:46:37.000",
@@ -3070,11 +2720,9 @@
                 "Row_3": "",
                 "Row_4": "",
                 "Row_5": "",
-                "Row_6": ""
+                "Row_6": "",
             }
         ],
-        "base10_Time": 2797,
-        "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=2797s"
     },
     {
         "startTime": "00:46:47.000",
@@ -3087,11 +2735,9 @@
                 "Row_3": "",
                 "Row_4": "",
                 "Row_5": "",
-                "Row_6": ""
+                "Row_6": "",
             }
         ],
-        "base10_Time": 2807,
-        "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=2807s"
     },
     {
         "startTime": "00:46:55.000",
@@ -3104,11 +2750,9 @@
                 "Row_3": "",
                 "Row_4": "",
                 "Row_5": "",
-                "Row_6": ""
+                "Row_6": "",
             }
         ],
-        "base10_Time": 2815,
-        "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=2815s"
     },
     {
         "startTime": "00:47:03.000",
@@ -3121,11 +2765,9 @@
                 "Row_3": "",
                 "Row_4": "",
                 "Row_5": "",
-                "Row_6": ""
+                "Row_6": "",
             }
         ],
-        "base10_Time": 2823,
-        "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=2823s"
     },
     {
         "startTime": "00:47:11.000",
@@ -3138,11 +2780,9 @@
                 "Row_3": "",
                 "Row_4": "",
                 "Row_5": "",
-                "Row_6": ""
+                "Row_6": "",
             }
         ],
-        "base10_Time": 2831,
-        "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=2831s"
     },
     {
         "startTime": "00:47:23.000",
@@ -3155,11 +2795,9 @@
                 "Row_3": "",
                 "Row_4": "",
                 "Row_5": "",
-                "Row_6": ""
+                "Row_6": "",
             }
         ],
-        "base10_Time": 2843,
-        "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=2843s"
     },
     {
         "startTime": "00:47:34.000",
@@ -3172,11 +2810,9 @@
                 "Row_3": "",
                 "Row_4": "",
                 "Row_5": "",
-                "Row_6": ""
+                "Row_6": "",
             }
         ],
-        "base10_Time": 2854,
-        "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=2854s"
     },
     {
         "startTime": "00:47:42.000",
@@ -3189,11 +2825,9 @@
                 "Row_3": "",
                 "Row_4": "",
                 "Row_5": "",
-                "Row_6": ""
+                "Row_6": "",
             }
         ],
-        "base10_Time": 2862,
-        "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=2862s"
     },
     {
         "startTime": "00:47:51.000",
@@ -3206,11 +2840,9 @@
                 "Row_3": "",
                 "Row_4": "",
                 "Row_5": "",
-                "Row_6": ""
+                "Row_6": "",
             }
         ],
-        "base10_Time": 2871,
-        "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=2871s"
     },
     {
         "startTime": "00:47:59.000",
@@ -3223,11 +2855,9 @@
                 "Row_3": "",
                 "Row_4": "",
                 "Row_5": "",
-                "Row_6": ""
+                "Row_6": "",
             }
         ],
-        "base10_Time": 2879,
-        "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=2879s"
     },
     {
         "startTime": "00:48:24.000",
@@ -3240,11 +2870,9 @@
                 "Row_3": "",
                 "Row_4": "",
                 "Row_5": "",
-                "Row_6": ""
+                "Row_6": "",
             }
         ],
-        "base10_Time": 2904,
-        "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=2904s"
     },
     {
         "startTime": "00:48:37.000",
@@ -3257,11 +2885,9 @@
                 "Row_3": "",
                 "Row_4": "",
                 "Row_5": "",
-                "Row_6": ""
+                "Row_6": "",
             }
         ],
-        "base10_Time": 2917,
-        "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=2917s"
     },
     {
         "startTime": "00:48:50.000",
@@ -3274,11 +2900,9 @@
                 "Row_3": "",
                 "Row_4": "",
                 "Row_5": "",
-                "Row_6": ""
+                "Row_6": "",
             }
         ],
-        "base10_Time": 2930,
-        "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=2930s"
     },
     {
         "startTime": "00:49:06.000",
@@ -3291,11 +2915,9 @@
                 "Row_3": "",
                 "Row_4": "",
                 "Row_5": "",
-                "Row_6": ""
+                "Row_6": "",
             }
         ],
-        "base10_Time": 2946,
-        "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=2946s"
     },
     {
         "startTime": "00:49:28.000",
@@ -3308,11 +2930,9 @@
                 "Row_3": "",
                 "Row_4": "",
                 "Row_5": "",
-                "Row_6": ""
+                "Row_6": "",
             }
         ],
-        "base10_Time": 2968,
-        "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=2968s"
     },
     {
         "startTime": "00:50:24.000",
@@ -3325,11 +2945,9 @@
                 "Row_3": "",
                 "Row_4": "",
                 "Row_5": "",
-                "Row_6": ""
+                "Row_6": "",
             }
         ],
-        "base10_Time": 3024,
-        "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=3024s"
     },
     {
         "startTime": "00:50:43.000",
@@ -3342,11 +2960,9 @@
                 "Row_3": "",
                 "Row_4": "",
                 "Row_5": "",
-                "Row_6": ""
+                "Row_6": "",
             }
         ],
-        "base10_Time": 3043,
-        "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=3043s"
     },
     {
         "startTime": "00:50:57.000",
@@ -3359,11 +2975,9 @@
                 "Row_3": "",
                 "Row_4": "",
                 "Row_5": "",
-                "Row_6": ""
+                "Row_6": "",
             }
         ],
-        "base10_Time": 3057,
-        "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=3057s"
     },
     {
         "startTime": "00:51:12.000",
@@ -3376,11 +2990,9 @@
                 "Row_3": "",
                 "Row_4": "",
                 "Row_5": "",
-                "Row_6": ""
+                "Row_6": "",
             }
         ],
-        "base10_Time": 3072,
-        "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=3072s"
     },
     {
         "startTime": "00:51:26.000",
@@ -3393,11 +3005,9 @@
                 "Row_3": "",
                 "Row_4": "",
                 "Row_5": "",
-                "Row_6": ""
+                "Row_6": "",
             }
         ],
-        "base10_Time": 3086,
-        "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=3086s"
     },
     {
         "startTime": "00:51:45.000",
@@ -3410,11 +3020,9 @@
                 "Row_3": "",
                 "Row_4": "",
                 "Row_5": "",
-                "Row_6": ""
+                "Row_6": "",
             }
         ],
-        "base10_Time": 3105,
-        "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=3105s"
     },
     {
         "startTime": "00:52:22.000",
@@ -3427,11 +3035,9 @@
                 "Row_3": "",
                 "Row_4": "",
                 "Row_5": "",
-                "Row_6": ""
+                "Row_6": "",
             }
         ],
-        "base10_Time": 3142,
-        "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=3142s"
     },
     {
         "startTime": "00:52:47.000",
@@ -3444,11 +3050,9 @@
                 "Row_3": "",
                 "Row_4": "",
                 "Row_5": "",
-                "Row_6": ""
+                "Row_6": "",
             }
         ],
-        "base10_Time": 3167,
-        "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=3167s"
     },
     {
         "startTime": "00:52:58.000",
@@ -3461,11 +3065,9 @@
                 "Row_3": "",
                 "Row_4": "",
                 "Row_5": "",
-                "Row_6": ""
+                "Row_6": "",
             }
         ],
-        "base10_Time": 3178,
-        "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=3178s"
     },
     {
         "startTime": "00:53:08.000",
@@ -3478,11 +3080,9 @@
                 "Row_3": "",
                 "Row_4": "",
                 "Row_5": "",
-                "Row_6": ""
+                "Row_6": "",
             }
         ],
-        "base10_Time": 3188,
-        "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=3188s"
     },
     {
         "startTime": "00:53:22.000",
@@ -3495,11 +3095,9 @@
                 "Row_3": "",
                 "Row_4": "",
                 "Row_5": "",
-                "Row_6": ""
+                "Row_6": "",
             }
         ],
-        "base10_Time": 3202,
-        "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=3202s"
     },
     {
         "startTime": "00:53:36.000",
@@ -3512,11 +3110,9 @@
                 "Row_3": "",
                 "Row_4": "",
                 "Row_5": "",
-                "Row_6": ""
+                "Row_6": "",
             }
         ],
-        "base10_Time": 3216,
-        "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=3216s"
     },
     {
         "startTime": "00:53:52.000",
@@ -3529,11 +3125,9 @@
                 "Row_3": "",
                 "Row_4": "",
                 "Row_5": "",
-                "Row_6": ""
+                "Row_6": "",
             }
         ],
-        "base10_Time": 3232,
-        "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=3232s"
     },
     {
         "startTime": "00:54:00.000",
@@ -3546,11 +3140,9 @@
                 "Row_3": "",
                 "Row_4": "",
                 "Row_5": "",
-                "Row_6": ""
+                "Row_6": "",
             }
         ],
-        "base10_Time": 3240,
-        "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=3240s"
     },
     {
         "startTime": "00:54:18.000",
@@ -3563,11 +3155,9 @@
                 "Row_3": "",
                 "Row_4": "",
                 "Row_5": "",
-                "Row_6": ""
+                "Row_6": "",
             }
         ],
-        "base10_Time": 3258,
-        "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=3258s"
     },
     {
         "startTime": "00:54:32.000",
@@ -3580,11 +3170,9 @@
                 "Row_3": "",
                 "Row_4": "",
                 "Row_5": "",
-                "Row_6": ""
+                "Row_6": "",
             }
         ],
-        "base10_Time": 3272,
-        "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=3272s"
     },
     {
         "startTime": "00:54:46.000",
@@ -3597,11 +3185,9 @@
                 "Row_3": "",
                 "Row_4": "",
                 "Row_5": "",
-                "Row_6": ""
+                "Row_6": "",
             }
         ],
-        "base10_Time": 3286,
-        "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=3286s"
     },
     {
         "startTime": "00:54:55.000",
@@ -3614,11 +3200,9 @@
                 "Row_3": "",
                 "Row_4": "",
                 "Row_5": "",
-                "Row_6": ""
+                "Row_6": "",
             }
         ],
-        "base10_Time": 3295,
-        "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=3295s"
     },
     {
         "startTime": "00:55:04.000",
@@ -3631,11 +3215,9 @@
                 "Row_3": "",
                 "Row_4": "",
                 "Row_5": "",
-                "Row_6": ""
+                "Row_6": "",
             }
         ],
-        "base10_Time": 3304,
-        "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=3304s"
     },
     {
         "startTime": "00:55:17.000",
@@ -3648,11 +3230,9 @@
                 "Row_3": "",
                 "Row_4": "",
                 "Row_5": "",
-                "Row_6": ""
+                "Row_6": "",
             }
         ],
-        "base10_Time": 3317,
-        "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=3317s"
     },
     {
         "startTime": "00:55:25.000",
@@ -3665,11 +3245,9 @@
                 "Row_3": "",
                 "Row_4": "",
                 "Row_5": "",
-                "Row_6": ""
+                "Row_6": "",
             }
         ],
-        "base10_Time": 3325,
-        "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=3325s"
     },
     {
         "startTime": "00:55:35.000",
@@ -3682,11 +3260,9 @@
                 "Row_3": "",
                 "Row_4": "",
                 "Row_5": "",
-                "Row_6": ""
+                "Row_6": "",
             }
         ],
-        "base10_Time": 3335,
-        "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=3335s"
     },
     {
         "startTime": "00:55:48.000",
@@ -3699,11 +3275,9 @@
                 "Row_3": "",
                 "Row_4": "",
                 "Row_5": "",
-                "Row_6": ""
+                "Row_6": "",
             }
         ],
-        "base10_Time": 3348,
-        "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=3348s"
     },
     {
         "startTime": "00:56:03.000",
@@ -3716,11 +3290,9 @@
                 "Row_3": "",
                 "Row_4": "",
                 "Row_5": "",
-                "Row_6": ""
+                "Row_6": "",
             }
         ],
-        "base10_Time": 3363,
-        "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=3363s"
     },
     {
         "startTime": "00:56:26.000",
@@ -3733,11 +3305,9 @@
                 "Row_3": "",
                 "Row_4": "",
                 "Row_5": "",
-                "Row_6": ""
+                "Row_6": "",
             }
         ],
-        "base10_Time": 3386,
-        "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=3386s"
     },
     {
         "startTime": "00:56:37.000",
@@ -3750,11 +3320,9 @@
                 "Row_3": "",
                 "Row_4": "",
                 "Row_5": "",
-                "Row_6": ""
+                "Row_6": "",
             }
         ],
-        "base10_Time": 3397,
-        "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=3397s"
     },
     {
         "startTime": "00:56:50.000",
@@ -3767,11 +3335,9 @@
                 "Row_3": "",
                 "Row_4": "",
                 "Row_5": "",
-                "Row_6": ""
+                "Row_6": "",
             }
         ],
-        "base10_Time": 3410,
-        "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=3410s"
     },
     {
         "startTime": "00:57:01.000",
@@ -3784,11 +3350,9 @@
                 "Row_3": "",
                 "Row_4": "",
                 "Row_5": "",
-                "Row_6": ""
+                "Row_6": "",
             }
         ],
-        "base10_Time": 3421,
-        "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=3421s"
     },
     {
         "startTime": "00:57:09.000",
@@ -3801,11 +3365,9 @@
                 "Row_3": "",
                 "Row_4": "",
                 "Row_5": "",
-                "Row_6": ""
+                "Row_6": "",
             }
         ],
-        "base10_Time": 3429,
-        "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=3429s"
     },
     {
         "startTime": "00:57:26.000",
@@ -3818,11 +3380,9 @@
                 "Row_3": "",
                 "Row_4": "",
                 "Row_5": "",
-                "Row_6": ""
+                "Row_6": "",
             }
         ],
-        "base10_Time": 3446,
-        "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=3446s"
     },
     {
         "startTime": "00:57:39.000",
@@ -3835,11 +3395,9 @@
                 "Row_3": "",
                 "Row_4": "",
                 "Row_5": "",
-                "Row_6": ""
+                "Row_6": "",
             }
         ],
-        "base10_Time": 3459,
-        "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=3459s"
     },
     {
         "startTime": "00:57:50.000",
@@ -3852,11 +3410,9 @@
                 "Row_3": "",
                 "Row_4": "",
                 "Row_5": "",
-                "Row_6": ""
+                "Row_6": "",
             }
         ],
-        "base10_Time": 3470,
-        "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=3470s"
     },
     {
         "startTime": "00:58:02.000",
@@ -3869,11 +3425,9 @@
                 "Row_3": "",
                 "Row_4": "",
                 "Row_5": "",
-                "Row_6": ""
+                "Row_6": "",
             }
         ],
-        "base10_Time": 3482,
-        "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=3482s"
     },
     {
         "startTime": "00:58:16.000",
@@ -3886,11 +3440,9 @@
                 "Row_3": "",
                 "Row_4": "",
                 "Row_5": "",
-                "Row_6": ""
+                "Row_6": "",
             }
         ],
-        "base10_Time": 3496,
-        "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=3496s"
     },
     {
         "startTime": "00:58:26.000",
@@ -3903,11 +3455,9 @@
                 "Row_3": "",
                 "Row_4": "",
                 "Row_5": "",
-                "Row_6": ""
+                "Row_6": "",
             }
         ],
-        "base10_Time": 3506,
-        "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=3506s"
     },
     {
         "startTime": "00:58:34.000",
@@ -3920,11 +3470,9 @@
                 "Row_3": "",
                 "Row_4": "",
                 "Row_5": "",
-                "Row_6": ""
+                "Row_6": "",
             }
         ],
-        "base10_Time": 3514,
-        "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=3514s"
     },
     {
         "startTime": "00:58:48.000",
@@ -3937,11 +3485,9 @@
                 "Row_3": "",
                 "Row_4": "",
                 "Row_5": "",
-                "Row_6": ""
+                "Row_6": "",
             }
         ],
-        "base10_Time": 3528,
-        "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=3528s"
     },
     {
         "startTime": "00:58:57.000",
@@ -3954,11 +3500,9 @@
                 "Row_3": "",
                 "Row_4": "",
                 "Row_5": "",
-                "Row_6": ""
+                "Row_6": "",
             }
         ],
-        "base10_Time": 3537,
-        "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=3537s"
     },
     {
         "startTime": "00:59:08.000",
@@ -3971,11 +3515,9 @@
                 "Row_3": "",
                 "Row_4": "",
                 "Row_5": "",
-                "Row_6": ""
+                "Row_6": "",
             }
         ],
-        "base10_Time": 3548,
-        "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=3548s"
     },
     {
         "startTime": "00:59:22.000",
@@ -3988,11 +3530,9 @@
                 "Row_3": "",
                 "Row_4": "",
                 "Row_5": "",
-                "Row_6": ""
+                "Row_6": "",
             }
         ],
-        "base10_Time": 3562,
-        "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=3562s"
     },
     {
         "startTime": "00:59:33.000",
@@ -4005,11 +3545,9 @@
                 "Row_3": "",
                 "Row_4": "",
                 "Row_5": "",
-                "Row_6": ""
+                "Row_6": "",
             }
         ],
-        "base10_Time": 3573,
-        "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=3573s"
     },
     {
         "startTime": "00:59:40.000",
@@ -4022,11 +3560,9 @@
                 "Row_3": "",
                 "Row_4": "",
                 "Row_5": "",
-                "Row_6": ""
+                "Row_6": "",
             }
         ],
-        "base10_Time": 3580,
-        "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=3580s"
     },
     {
         "startTime": "00:59:48.000",
@@ -4039,11 +3575,9 @@
                 "Row_3": "",
                 "Row_4": "",
                 "Row_5": "",
-                "Row_6": ""
+                "Row_6": "",
             }
         ],
-        "base10_Time": 3588,
-        "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=3588s"
     },
     {
         "startTime": "00:59:59.000",
@@ -4056,11 +3590,9 @@
                 "Row_3": "",
                 "Row_4": "",
                 "Row_5": "",
-                "Row_6": ""
+                "Row_6": "",
             }
         ],
-        "base10_Time": 3599,
-        "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=3599s"
     },
     {
         "startTime": "01:00:07.000",
@@ -4073,11 +3605,9 @@
                 "Row_3": "",
                 "Row_4": "",
                 "Row_5": "",
-                "Row_6": ""
+                "Row_6": "",
             }
         ],
-        "base10_Time": 3607,
-        "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=3607s"
     },
     {
         "startTime": "01:00:24.000",
@@ -4090,11 +3620,9 @@
                 "Row_3": "",
                 "Row_4": "",
                 "Row_5": "",
-                "Row_6": ""
+                "Row_6": "",
             }
         ],
-        "base10_Time": 3624,
-        "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=3624s"
     },
     {
         "startTime": "01:00:33.000",
@@ -4107,11 +3635,9 @@
                 "Row_3": "",
                 "Row_4": "",
                 "Row_5": "",
-                "Row_6": ""
+                "Row_6": "",
             }
         ],
-        "base10_Time": 3633,
-        "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=3633s"
     },
     {
         "startTime": "01:00:42.000",
@@ -4124,11 +3650,9 @@
                 "Row_3": "",
                 "Row_4": "",
                 "Row_5": "",
-                "Row_6": ""
+                "Row_6": "",
             }
         ],
-        "base10_Time": 3642,
-        "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=3642s"
     },
     {
         "startTime": "01:00:51.000",
@@ -4141,11 +3665,9 @@
                 "Row_3": "",
                 "Row_4": "",
                 "Row_5": "",
-                "Row_6": ""
+                "Row_6": "",
             }
         ],
-        "base10_Time": 3651,
-        "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=3651s"
     },
     {
         "startTime": "01:00:59.000",
@@ -4158,11 +3680,9 @@
                 "Row_3": "",
                 "Row_4": "",
                 "Row_5": "",
-                "Row_6": ""
+                "Row_6": "",
             }
         ],
-        "base10_Time": 3659,
-        "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=3659s"
     },
     {
         "startTime": "01:01:11.000",
@@ -4175,11 +3695,9 @@
                 "Row_3": "",
                 "Row_4": "",
                 "Row_5": "",
-                "Row_6": ""
+                "Row_6": "",
             }
         ],
-        "base10_Time": 3671,
-        "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=3671s"
     },
     {
         "startTime": "01:01:20.000",
@@ -4192,11 +3710,9 @@
                 "Row_3": "",
                 "Row_4": "",
                 "Row_5": "",
-                "Row_6": ""
+                "Row_6": "",
             }
         ],
-        "base10_Time": 3680,
-        "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=3680s"
     },
     {
         "startTime": "01:01:33.000",
@@ -4209,11 +3725,9 @@
                 "Row_3": "",
                 "Row_4": "",
                 "Row_5": "",
-                "Row_6": ""
+                "Row_6": "",
             }
         ],
-        "base10_Time": 3693,
-        "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=3693s"
     },
     {
         "startTime": "01:01:52.000",
@@ -4226,11 +3740,9 @@
                 "Row_3": "",
                 "Row_4": "",
                 "Row_5": "",
-                "Row_6": ""
+                "Row_6": "",
             }
         ],
-        "base10_Time": 3712,
-        "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=3712s"
     },
     {
         "startTime": "01:02:03.000",
@@ -4243,11 +3755,9 @@
                 "Row_3": "",
                 "Row_4": "",
                 "Row_5": "",
-                "Row_6": ""
+                "Row_6": "",
             }
         ],
-        "base10_Time": 3723,
-        "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=3723s"
     },
     {
         "startTime": "01:02:14.000",
@@ -4260,11 +3770,9 @@
                 "Row_3": "",
                 "Row_4": "",
                 "Row_5": "",
-                "Row_6": ""
+                "Row_6": "",
             }
         ],
-        "base10_Time": 3734,
-        "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=3734s"
     },
     {
         "startTime": "01:02:28.000",
@@ -4277,11 +3785,9 @@
                 "Row_3": "",
                 "Row_4": "",
                 "Row_5": "",
-                "Row_6": ""
+                "Row_6": "",
             }
         ],
-        "base10_Time": 3748,
-        "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=3748s"
     },
     {
         "startTime": "01:02:40.000",
@@ -4294,11 +3800,9 @@
                 "Row_3": "",
                 "Row_4": "",
                 "Row_5": "",
-                "Row_6": ""
+                "Row_6": "",
             }
         ],
-        "base10_Time": 3760,
-        "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=3760s"
     },
     {
         "startTime": "01:02:52.000",
@@ -4311,11 +3815,9 @@
                 "Row_3": "",
                 "Row_4": "",
                 "Row_5": "",
-                "Row_6": ""
+                "Row_6": "",
             }
         ],
-        "base10_Time": 3772,
-        "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=3772s"
     },
     {
         "startTime": "01:03:04.000",
@@ -4328,11 +3830,9 @@
                 "Row_3": "",
                 "Row_4": "",
                 "Row_5": "",
-                "Row_6": ""
+                "Row_6": "",
             }
         ],
-        "base10_Time": 3784,
-        "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=3784s"
     },
     {
         "startTime": "01:03:18.000",
@@ -4345,11 +3845,9 @@
                 "Row_3": "",
                 "Row_4": "",
                 "Row_5": "",
-                "Row_6": ""
+                "Row_6": "",
             }
         ],
-        "base10_Time": 3798,
-        "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=3798s"
     },
     {
         "startTime": "01:03:31.000",
@@ -4362,11 +3860,9 @@
                 "Row_3": "",
                 "Row_4": "",
                 "Row_5": "",
-                "Row_6": ""
+                "Row_6": "",
             }
         ],
-        "base10_Time": 3811,
-        "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=3811s"
     },
     {
         "startTime": "01:03:42.000",
@@ -4379,11 +3875,9 @@
                 "Row_3": "",
                 "Row_4": "",
                 "Row_5": "",
-                "Row_6": ""
+                "Row_6": "",
             }
         ],
-        "base10_Time": 3822,
-        "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=3822s"
     },
     {
         "startTime": "01:03:52.000",
@@ -4396,11 +3890,9 @@
                 "Row_3": "",
                 "Row_4": "",
                 "Row_5": "",
-                "Row_6": ""
+                "Row_6": "",
             }
         ],
-        "base10_Time": 3832,
-        "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=3832s"
     },
     {
         "startTime": "01:04:04.000",
@@ -4413,11 +3905,9 @@
                 "Row_3": "",
                 "Row_4": "",
                 "Row_5": "",
-                "Row_6": ""
+                "Row_6": "",
             }
         ],
-        "base10_Time": 3844,
-        "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=3844s"
     },
     {
         "startTime": "01:04:14.000",
@@ -4430,11 +3920,9 @@
                 "Row_3": "",
                 "Row_4": "",
                 "Row_5": "",
-                "Row_6": ""
+                "Row_6": "",
             }
         ],
-        "base10_Time": 3854,
-        "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=3854s"
     },
     {
         "startTime": "01:04:23.000",
@@ -4447,11 +3935,9 @@
                 "Row_3": "",
                 "Row_4": "",
                 "Row_5": "",
-                "Row_6": ""
+                "Row_6": "",
             }
         ],
-        "base10_Time": 3863,
-        "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=3863s"
     },
     {
         "startTime": "01:04:33.000",
@@ -4464,11 +3950,9 @@
                 "Row_3": "",
                 "Row_4": "",
                 "Row_5": "",
-                "Row_6": ""
+                "Row_6": "",
             }
         ],
-        "base10_Time": 3873,
-        "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=3873s"
     },
     {
         "startTime": "01:04:41.000",
@@ -4481,11 +3965,9 @@
                 "Row_3": "",
                 "Row_4": "",
                 "Row_5": "",
-                "Row_6": ""
+                "Row_6": "",
             }
         ],
-        "base10_Time": 3881,
-        "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=3881s"
     },
     {
         "startTime": "01:04:50.000",
@@ -4498,11 +3980,9 @@
                 "Row_3": "",
                 "Row_4": "",
                 "Row_5": "",
-                "Row_6": ""
+                "Row_6": "",
             }
         ],
-        "base10_Time": 3890,
-        "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=3890s"
     },
     {
         "startTime": "01:05:02.000",
@@ -4515,11 +3995,9 @@
                 "Row_3": "",
                 "Row_4": "",
                 "Row_5": "",
-                "Row_6": ""
+                "Row_6": "",
             }
         ],
-        "base10_Time": 3902,
-        "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=3902s"
     },
     {
         "startTime": "01:05:12.000",
@@ -4532,11 +4010,9 @@
                 "Row_3": "",
                 "Row_4": "",
                 "Row_5": "",
-                "Row_6": ""
+                "Row_6": "",
             }
         ],
-        "base10_Time": 3912,
-        "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=3912s"
     },
     {
         "startTime": "01:05:20.000",
@@ -4549,11 +4025,9 @@
                 "Row_3": "",
                 "Row_4": "",
                 "Row_5": "",
-                "Row_6": ""
+                "Row_6": "",
             }
         ],
-        "base10_Time": 3920,
-        "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=3920s"
     },
     {
         "startTime": "01:05:28.000",
@@ -4566,11 +4040,9 @@
                 "Row_3": "",
                 "Row_4": "",
                 "Row_5": "",
-                "Row_6": ""
+                "Row_6": "",
             }
         ],
-        "base10_Time": 3928,
-        "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=3928s"
     },
     {
         "startTime": "01:05:36.000",
@@ -4583,11 +4055,9 @@
                 "Row_3": "",
                 "Row_4": "",
                 "Row_5": "",
-                "Row_6": ""
+                "Row_6": "",
             }
         ],
-        "base10_Time": 3936,
-        "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=3936s"
     },
     {
         "startTime": "01:05:43.000",
@@ -4600,11 +4070,9 @@
                 "Row_3": "",
                 "Row_4": "",
                 "Row_5": "",
-                "Row_6": ""
+                "Row_6": "",
             }
         ],
-        "base10_Time": 3943,
-        "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=3943s"
     },
     {
         "startTime": "01:05:53.000",
@@ -4617,11 +4085,9 @@
                 "Row_3": "",
                 "Row_4": "",
                 "Row_5": "",
-                "Row_6": ""
+                "Row_6": "",
             }
         ],
-        "base10_Time": 3953,
-        "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=3953s"
     },
     {
         "startTime": "01:06:08.000",
@@ -4634,11 +4100,9 @@
                 "Row_3": "",
                 "Row_4": "",
                 "Row_5": "",
-                "Row_6": ""
+                "Row_6": "",
             }
         ],
-        "base10_Time": 3968,
-        "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=3968s"
     },
     {
         "startTime": "01:06:18.000",
@@ -4651,11 +4115,9 @@
                 "Row_3": "",
                 "Row_4": "",
                 "Row_5": "",
-                "Row_6": ""
+                "Row_6": "",
             }
         ],
-        "base10_Time": 3978,
-        "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=3978s"
     },
     {
         "startTime": "01:06:34.000",
@@ -4668,11 +4130,9 @@
                 "Row_3": "",
                 "Row_4": "",
                 "Row_5": "",
-                "Row_6": ""
+                "Row_6": "",
             }
         ],
-        "base10_Time": 3994,
-        "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=3994s"
     },
     {
         "startTime": "01:06:44.000",
@@ -4685,11 +4145,9 @@
                 "Row_3": "",
                 "Row_4": "",
                 "Row_5": "",
-                "Row_6": ""
+                "Row_6": "",
             }
         ],
-        "base10_Time": 4004,
-        "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=4004s"
     },
     {
         "startTime": "01:06:55.000",
@@ -4702,11 +4160,9 @@
                 "Row_3": "",
                 "Row_4": "",
                 "Row_5": "",
-                "Row_6": ""
+                "Row_6": "",
             }
         ],
-        "base10_Time": 4015,
-        "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=4015s"
     },
     {
         "startTime": "01:07:08.000",
@@ -4719,11 +4175,9 @@
                 "Row_3": "",
                 "Row_4": "",
                 "Row_5": "",
-                "Row_6": ""
+                "Row_6": "",
             }
         ],
-        "base10_Time": 4028,
-        "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=4028s"
     },
     {
         "startTime": "01:07:21.000",
@@ -4736,11 +4190,9 @@
                 "Row_3": "",
                 "Row_4": "",
                 "Row_5": "",
-                "Row_6": ""
+                "Row_6": "",
             }
         ],
-        "base10_Time": 4041,
-        "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=4041s"
     },
     {
         "startTime": "01:07:31.000",
@@ -4753,11 +4205,9 @@
                 "Row_3": "",
                 "Row_4": "",
                 "Row_5": "",
-                "Row_6": ""
+                "Row_6": "",
             }
         ],
-        "base10_Time": 4051,
-        "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=4051s"
     },
     {
         "startTime": "01:07:46.000",
@@ -4770,11 +4220,9 @@
                 "Row_3": "",
                 "Row_4": "",
                 "Row_5": "",
-                "Row_6": ""
+                "Row_6": "",
             }
         ],
-        "base10_Time": 4066,
-        "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=4066s"
     },
     {
         "startTime": "01:08:02.000",
@@ -4787,11 +4235,9 @@
                 "Row_3": "",
                 "Row_4": "",
                 "Row_5": "",
-                "Row_6": ""
+                "Row_6": "",
             }
         ],
-        "base10_Time": 4082,
-        "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=4082s"
     },
     {
         "startTime": "01:08:14.000",
@@ -4804,11 +4250,9 @@
                 "Row_3": "",
                 "Row_4": "",
                 "Row_5": "",
-                "Row_6": ""
+                "Row_6": "",
             }
         ],
-        "base10_Time": 4094,
-        "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=4094s"
     },
     {
         "startTime": "01:08:25.000",
@@ -4821,11 +4265,9 @@
                 "Row_3": "",
                 "Row_4": "",
                 "Row_5": "",
-                "Row_6": ""
+                "Row_6": "",
             }
         ],
-        "base10_Time": 4105,
-        "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=4105s"
     },
     {
         "startTime": "01:08:42.000",
@@ -4838,11 +4280,9 @@
                 "Row_3": "",
                 "Row_4": "",
                 "Row_5": "",
-                "Row_6": ""
+                "Row_6": "",
             }
         ],
-        "base10_Time": 4122,
-        "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=4122s"
     },
     {
         "startTime": "01:09:01.000",
@@ -4855,11 +4295,9 @@
                 "Row_3": "",
                 "Row_4": "",
                 "Row_5": "",
-                "Row_6": ""
+                "Row_6": "",
             }
         ],
-        "base10_Time": 4141,
-        "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=4141s"
     },
     {
         "startTime": "01:09:12.000",
@@ -4872,11 +4310,9 @@
                 "Row_3": "",
                 "Row_4": "",
                 "Row_5": "",
-                "Row_6": ""
+                "Row_6": "",
             }
         ],
-        "base10_Time": 4152,
-        "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=4152s"
     },
     {
         "startTime": "01:09:26.000",
@@ -4889,11 +4325,9 @@
                 "Row_3": "",
                 "Row_4": "",
                 "Row_5": "",
-                "Row_6": ""
+                "Row_6": "",
             }
         ],
-        "base10_Time": 4166,
-        "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=4166s"
     },
     {
         "startTime": "01:09:43.000",
@@ -4906,11 +4340,9 @@
                 "Row_3": "",
                 "Row_4": "",
                 "Row_5": "",
-                "Row_6": ""
+                "Row_6": "",
             }
         ],
-        "base10_Time": 4183,
-        "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=4183s"
     },
     {
         "startTime": "01:09:57.000",
@@ -4923,11 +4355,9 @@
                 "Row_3": "",
                 "Row_4": "",
                 "Row_5": "",
-                "Row_6": ""
+                "Row_6": "",
             }
         ],
-        "base10_Time": 4197,
-        "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=4197s"
     },
     {
         "startTime": "01:10:08.000",
@@ -4940,11 +4370,9 @@
                 "Row_3": "",
                 "Row_4": "",
                 "Row_5": "",
-                "Row_6": ""
+                "Row_6": "",
             }
         ],
-        "base10_Time": 4208,
-        "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=4208s"
     },
     {
         "startTime": "01:10:26.000",
@@ -4957,11 +4385,9 @@
                 "Row_3": "",
                 "Row_4": "",
                 "Row_5": "",
-                "Row_6": ""
+                "Row_6": "",
             }
         ],
-        "base10_Time": 4226,
-        "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=4226s"
     },
     {
         "startTime": "01:10:44.000",
@@ -4974,11 +4400,9 @@
                 "Row_3": "",
                 "Row_4": "",
                 "Row_5": "",
-                "Row_6": ""
+                "Row_6": "",
             }
         ],
-        "base10_Time": 4244,
-        "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=4244s"
     },
     {
         "startTime": "01:10:56.000",
@@ -4991,10 +4415,35 @@
                 "Row_3": "",
                 "Row_4": "",
                 "Row_5": "",
-                "Row_6": ""
+                "Row_6": "",
             }
         ],
-        "base10_Time": 4256,
-        "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=4256s"
-    }
+    },
 ]
+
+def Base60_To_Base10():
+
+    for member in Captions_JSON:
+
+        Base60 = member['startTime'][:-4]
+
+
+        h = int(Base60[:2])
+        m = int(Base60[3:5])
+        s = int(Base60[6:])
+
+        # print(h, m, s)
+
+        Base10 = (h * 3600) + (m * 60) + (s)
+
+        member['base10_Time'] = Base10
+
+        member['youtubeLink'] = f"https://www.youtube.com/watch?v=4yygmmGyynw&t={Base10}s"
+
+        with open("Base60_To_Base10_Output.json", "w") as outfile: 
+            json.dump(Captions_JSON, outfile)
+
+        # print(Base10)
+
+
+Base60_To_Base10()
