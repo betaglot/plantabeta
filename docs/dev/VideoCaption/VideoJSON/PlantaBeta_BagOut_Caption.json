@@ -1,7 +1,7 @@
 [
     {
-        "startTime": "00:06:00.000",
-        "finishTime": "00:06:19.000",
+        "startTime": "00:06:10",
+        "finishTime": "00:06:19",
         "site_ID": "1",
         "Caption": [
             {
@@ -13,12 +13,12 @@
                 "Row_6": ""
             }
         ],
-        "base10_Time": 360,
-        "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=360s"
+        "base10_Time": 370,
+        "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=370s"
     },
     {
-        "startTime": "00:06:19.000",
-        "finishTime": "00:06:26.000",
+        "startTime": "00:06:19",
+        "finishTime": "00:06:26",
         "site_ID": "2",
         "Caption": [
             {
@@ -34,8 +34,8 @@
         "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=379s"
     },
     {
-        "startTime": "00:06:26.000",
-        "finishTime": "00:06:36.000",
+        "startTime": "00:06:26",
+        "finishTime": "00:06:36",
         "site_ID": "3",
         "Caption": [
             {
@@ -51,8 +51,8 @@
         "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=386s"
     },
     {
-        "startTime": "00:06:36.000",
-        "finishTime": "00:06:53.000",
+        "startTime": "00:06:36",
+        "finishTime": "00:06:53",
         "site_ID": "4",
         "Caption": [
             {
@@ -68,8 +68,8 @@
         "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=396s"
     },
     {
-        "startTime": "00:06:53.000",
-        "finishTime": "00:07:02.000",
+        "startTime": "00:06:53",
+        "finishTime": "00:07:02",
         "site_ID": "5",
         "Caption": [
             {
@@ -85,8 +85,8 @@
         "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=413s"
     },
     {
-        "startTime": "00:07:02.000",
-        "finishTime": "00:07:12.000",
+        "startTime": "00:07:02",
+        "finishTime": "00:07:12",
         "site_ID": "6",
         "Caption": [
             {
@@ -102,8 +102,8 @@
         "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=422s"
     },
     {
-        "startTime": "00:07:12.000",
-        "finishTime": "00:07:23.000",
+        "startTime": "00:07:12",
+        "finishTime": "00:07:23",
         "site_ID": "7",
         "Caption": [
             {
@@ -119,8 +119,8 @@
         "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=432s"
     },
     {
-        "startTime": "00:07:24.000",
-        "finishTime": "00:07:36.000",
+        "startTime": "00:07:24",
+        "finishTime": "00:07:36",
         "site_ID": "8",
         "Caption": [
             {
@@ -136,8 +136,8 @@
         "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=444s"
     },
     {
-        "startTime": "00:07:36.000",
-        "finishTime": "00:07:54.000",
+        "startTime": "00:07:36",
+        "finishTime": "00:07:54",
         "site_ID": "9",
         "Caption": [
             {
@@ -153,8 +153,8 @@
         "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=456s"
     },
     {
-        "startTime": "00:07:54.000",
-        "finishTime": "00:08:08.000",
+        "startTime": "00:07:54",
+        "finishTime": "00:08:08",
         "site_ID": "10",
         "Caption": [
             {
@@ -170,8 +170,8 @@
         "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=474s"
     },
     {
-        "startTime": "00:08:08.000",
-        "finishTime": "00:08:21.000",
+        "startTime": "00:08:08",
+        "finishTime": "00:08:21",
         "site_ID": "11",
         "Caption": [
             {
@@ -187,8 +187,8 @@
         "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=488s"
     },
     {
-        "startTime": "00:08:21.000",
-        "finishTime": "00:08:32.000",
+        "startTime": "00:08:21",
+        "finishTime": "00:08:32",
         "site_ID": "12",
         "Caption": [
             {
@@ -204,8 +204,8 @@
         "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=501s"
     },
     {
-        "startTime": "00:08:32.000",
-        "finishTime": "00:08:44.641",
+        "startTime": "00:08:32",
+        "finishTime": "00:08:44",
         "site_ID": "13",
         "Caption": [
             {
@@ -221,8 +221,8 @@
         "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=512s"
     },
     {
-        "startTime": "00:08:44.641",
-        "finishTime": "00:08:54.049",
+        "startTime": "00:08:44",
+        "finishTime": "00:08:54",
         "site_ID": "14",
         "Caption": [
             {
@@ -238,8 +238,8 @@
         "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=524s"
     },
     {
-        "startTime": "00:08:54.049",
-        "finishTime": "00:09:07.027",
+        "startTime": "00:08:54",
+        "finishTime": "00:09:07",
         "site_ID": "15",
         "Caption": [
             {
@@ -255,8 +255,8 @@
         "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=534s"
     },
     {
-        "startTime": "00:09:07.027",
-        "finishTime": "00:09:22.140",
+        "startTime": "00:09:07",
+        "finishTime": "00:09:22",
         "site_ID": "16",
         "Caption": [
             {
@@ -272,8 +272,8 @@
         "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=547s"
     },
     {
-        "startTime": "00:09:22.140",
-        "finishTime": "00:09:34.084",
+        "startTime": "00:09:22",
+        "finishTime": "00:09:34",
         "site_ID": "17",
         "Caption": [
             {
@@ -289,8 +289,8 @@
         "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=562s"
     },
     {
-        "startTime": "00:09:34.084",
-        "finishTime": "00:09:47.763",
+        "startTime": "00:09:34",
+        "finishTime": "00:09:47",
         "site_ID": "18",
         "Caption": [
             {
@@ -306,8 +306,8 @@
         "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=574s"
     },
     {
-        "startTime": "00:09:47.763",
-        "finishTime": "00:10:01.108",
+        "startTime": "00:09:47",
+        "finishTime": "00:10:01",
         "site_ID": "19",
         "Caption": [
             {
@@ -323,8 +323,8 @@
         "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=587s"
     },
     {
-        "startTime": "00:10:01.108",
-        "finishTime": "00:12:11.495",
+        "startTime": "00:10:01",
+        "finishTime": "00:12:11",
         "site_ID": "20",
         "Caption": [
             {
@@ -340,8 +340,8 @@
         "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=601s"
     },
     {
-        "startTime": "00:12:11.495",
-        "finishTime": "00:12:23.472",
+        "startTime": "00:12:11",
+        "finishTime": "00:12:23",
         "site_ID": "21",
         "Caption": [
             {
@@ -357,8 +357,8 @@
         "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=731s"
     },
     {
-        "startTime": "00:12:23.472",
-        "finishTime": "00:12:33.915",
+        "startTime": "00:12:23",
+        "finishTime": "00:12:33",
         "site_ID": "22",
         "Caption": [
             {
@@ -374,8 +374,8 @@
         "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=743s"
     },
     {
-        "startTime": "00:12:33.915",
-        "finishTime": "00:12:44.925",
+        "startTime": "00:12:33",
+        "finishTime": "00:12:44",
         "site_ID": "23",
         "Caption": [
             {
@@ -391,8 +391,8 @@
         "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=753s"
     },
     {
-        "startTime": "00:12:44.925",
-        "finishTime": "00:12:54.800",
+        "startTime": "00:12:44",
+        "finishTime": "00:12:54",
         "site_ID": "24",
         "Caption": [
             {
@@ -408,8 +408,8 @@
         "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=764s"
     },
     {
-        "startTime": "00:12:54.800",
-        "finishTime": "00:13:04.509",
+        "startTime": "00:12:54",
+        "finishTime": "00:13:04",
         "site_ID": "25",
         "Caption": [
             {
@@ -425,8 +425,8 @@
         "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=774s"
     },
     {
-        "startTime": "00:13:04.509",
-        "finishTime": "00:13:25.060",
+        "startTime": "00:13:04",
+        "finishTime": "00:13:25",
         "site_ID": "26",
         "Caption": [
             {
@@ -442,8 +442,8 @@
         "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=784s"
     },
     {
-        "startTime": "00:13:25.060",
-        "finishTime": "00:13:36.203",
+        "startTime": "00:13:25",
+        "finishTime": "00:13:36",
         "site_ID": "27",
         "Caption": [
             {
@@ -459,8 +459,8 @@
         "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=805s"
     },
     {
-        "startTime": "00:13:36.203",
-        "finishTime": "00:13:44.210",
+        "startTime": "00:13:36",
+        "finishTime": "00:13:44",
         "site_ID": "28",
         "Caption": [
             {
@@ -476,8 +476,8 @@
         "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=816s"
     },
     {
-        "startTime": "00:13:44.210",
-        "finishTime": "00:13:54.085",
+        "startTime": "00:13:44",
+        "finishTime": "00:13:54",
         "site_ID": "29",
         "Caption": [
             {
@@ -493,8 +493,8 @@
         "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=824s"
     },
     {
-        "startTime": "00:13:54.085",
-        "finishTime": "00:14:03.660",
+        "startTime": "00:13:54",
+        "finishTime": "00:14:03",
         "site_ID": "30",
         "Caption": [
             {
@@ -510,8 +510,8 @@
         "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=834s"
     },
     {
-        "startTime": "00:14:03.660",
-        "finishTime": "00:14:15.537",
+        "startTime": "00:14:03",
+        "finishTime": "00:14:15",
         "site_ID": "31",
         "Caption": [
             {
@@ -527,8 +527,8 @@
         "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=843s"
     },
     {
-        "startTime": "00:14:15.537",
-        "finishTime": "00:14:24.011",
+        "startTime": "00:14:15",
+        "finishTime": "00:14:24",
         "site_ID": "32",
         "Caption": [
             {
@@ -544,8 +544,8 @@
         "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=855s"
     },
     {
-        "startTime": "00:14:24.011",
-        "finishTime": "00:14:33.920",
+        "startTime": "00:14:24",
+        "finishTime": "00:14:33",
         "site_ID": "33",
         "Caption": [
             {
@@ -561,8 +561,8 @@
         "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=864s"
     },
     {
-        "startTime": "00:14:33.920",
-        "finishTime": "00:14:43.095",
+        "startTime": "00:14:33",
+        "finishTime": "00:14:43",
         "site_ID": "34",
         "Caption": [
             {
@@ -578,8 +578,8 @@
         "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=873s"
     },
     {
-        "startTime": "00:14:43.095",
-        "finishTime": "00:14:54.272",
+        "startTime": "00:14:43",
+        "finishTime": "00:14:54",
         "site_ID": "35",
         "Caption": [
             {
@@ -595,8 +595,8 @@
         "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=883s"
     },
     {
-        "startTime": "00:14:54.272",
-        "finishTime": "00:15:05.177",
+        "startTime": "00:14:54",
+        "finishTime": "00:15:05",
         "site_ID": "36",
         "Caption": [
             {
@@ -612,8 +612,8 @@
         "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=894s"
     },
     {
-        "startTime": "00:15:05.177",
-        "finishTime": "00:15:15.453",
+        "startTime": "00:15:05",
+        "finishTime": "00:15:15",
         "site_ID": "37",
         "Caption": [
             {
@@ -629,8 +629,8 @@
         "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=905s"
     },
     {
-        "startTime": "00:15:15.453",
-        "finishTime": "00:15:25.529",
+        "startTime": "00:15:15",
+        "finishTime": "00:15:25",
         "site_ID": "38",
         "Caption": [
             {
@@ -646,8 +646,8 @@
         "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=915s"
     },
     {
-        "startTime": "00:15:25.529",
-        "finishTime": "00:15:35.404",
+        "startTime": "00:15:25",
+        "finishTime": "00:15:35",
         "site_ID": "39",
         "Caption": [
             {
@@ -663,8 +663,8 @@
         "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=925s"
     },
     {
-        "startTime": "00:15:35.404",
-        "finishTime": "00:15:47.214",
+        "startTime": "00:15:35",
+        "finishTime": "00:15:47",
         "site_ID": "40",
         "Caption": [
             {
@@ -680,8 +680,8 @@
         "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=935s"
     },
     {
-        "startTime": "00:15:47.214",
-        "finishTime": "00:16:02.661",
+        "startTime": "00:15:47",
+        "finishTime": "00:16:02",
         "site_ID": "41",
         "Caption": [
             {
@@ -697,8 +697,8 @@
         "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=947s"
     },
     {
-        "startTime": "00:16:02.661",
-        "finishTime": "00:16:12.303",
+        "startTime": "00:16:02",
+        "finishTime": "00:16:12",
         "site_ID": "42",
         "Caption": [
             {
@@ -714,8 +714,8 @@
         "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=962s"
     },
     {
-        "startTime": "00:16:12.303",
-        "finishTime": "00:16:21.111",
+        "startTime": "00:16:12",
+        "finishTime": "00:16:21",
         "site_ID": "43",
         "Caption": [
             {
@@ -731,8 +731,8 @@
         "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=972s"
     },
     {
-        "startTime": "00:16:21.111",
-        "finishTime": "00:16:31.000",
+        "startTime": "00:16:21",
+        "finishTime": "00:16:31",
         "site_ID": "44",
         "Caption": [
             {
@@ -748,8 +748,8 @@
         "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=981s"
     },
     {
-        "startTime": "00:16:31.000",
-        "finishTime": "00:16:39.995",
+        "startTime": "00:16:31",
+        "finishTime": "00:16:39",
         "site_ID": "45",
         "Caption": [
             {
@@ -765,8 +765,8 @@
         "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=991s"
     },
     {
-        "startTime": "00:16:39.995",
-        "finishTime": "00:16:48.136",
+        "startTime": "00:16:39",
+        "finishTime": "00:16:48",
         "site_ID": "46",
         "Caption": [
             {
@@ -782,8 +782,8 @@
         "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=999s"
     },
     {
-        "startTime": "00:16:48.136",
-        "finishTime": "00:16:57.778",
+        "startTime": "00:16:48",
+        "finishTime": "00:16:57",
         "site_ID": "47",
         "Caption": [
             {
@@ -799,8 +799,8 @@
         "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=1008s"
     },
     {
-        "startTime": "00:16:57.778",
-        "finishTime": "00:17:09.055",
+        "startTime": "00:16:57",
+        "finishTime": "00:17:09",
         "site_ID": "48",
         "Caption": [
             {
@@ -816,8 +816,8 @@
         "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=1017s"
     },
     {
-        "startTime": "00:17:09.055",
-        "finishTime": "00:17:17.996",
+        "startTime": "00:17:09",
+        "finishTime": "00:17:17",
         "site_ID": "49",
         "Caption": [
             {
@@ -833,8 +833,8 @@
         "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=1029s"
     },
     {
-        "startTime": "00:17:17.996",
-        "finishTime": "00:17:27.505",
+        "startTime": "00:17:17",
+        "finishTime": "00:17:27",
         "site_ID": "50",
         "Caption": [
             {
@@ -850,8 +850,8 @@
         "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=1037s"
     },
     {
-        "startTime": "00:17:27.505",
-        "finishTime": "00:17:38.515",
+        "startTime": "00:17:27",
+        "finishTime": "00:17:38",
         "site_ID": "51",
         "Caption": [
             {
@@ -867,8 +867,8 @@
         "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=1047s"
     },
     {
-        "startTime": "00:17:38.515",
-        "finishTime": "00:17:53.000",
+        "startTime": "00:17:38",
+        "finishTime": "00:17:53",
         "site_ID": "52",
         "Caption": [
             {
@@ -884,8 +884,8 @@
         "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=1058s"
     },
     {
-        "startTime": "00:17:53.000",
-        "finishTime": "00:18:07.540",
+        "startTime": "00:17:53",
+        "finishTime": "00:18:07",
         "site_ID": "53",
         "Caption": [
             {
@@ -901,8 +901,8 @@
         "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=1073s"
     },
     {
-        "startTime": "00:18:07.540",
-        "finishTime": "00:18:15.000",
+        "startTime": "00:18:07",
+        "finishTime": "00:18:15",
         "site_ID": "54",
         "Caption": [
             {
@@ -918,8 +918,8 @@
         "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=1087s"
     },
     {
-        "startTime": "00:18:15.080",
-        "finishTime": "00:18:23.087",
+        "startTime": "00:18:15",
+        "finishTime": "00:18:23",
         "site_ID": "55",
         "Caption": [
             {
@@ -935,8 +935,8 @@
         "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=1095s"
     },
     {
-        "startTime": "00:18:23.087",
-        "finishTime": "00:18:32.095",
+        "startTime": "00:18:23",
+        "finishTime": "00:18:32",
         "site_ID": "56",
         "Caption": [
             {
@@ -952,8 +952,8 @@
         "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=1103s"
     },
     {
-        "startTime": "00:18:32.095",
-        "finishTime": "00:18:40.569",
+        "startTime": "00:18:32",
+        "finishTime": "00:18:40",
         "site_ID": "57",
         "Caption": [
             {
@@ -969,8 +969,8 @@
         "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=1112s"
     },
     {
-        "startTime": "00:18:40.569",
-        "finishTime": "00:18:50.545",
+        "startTime": "00:18:40",
+        "finishTime": "00:18:50",
         "site_ID": "58",
         "Caption": [
             {
@@ -986,8 +986,8 @@
         "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=1120s"
     },
     {
-        "startTime": "00:18:50.545",
-        "finishTime": "00:18:58.185",
+        "startTime": "00:18:50",
+        "finishTime": "00:18:58",
         "site_ID": "59",
         "Caption": [
             {
@@ -1003,8 +1003,8 @@
         "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=1130s"
     },
     {
-        "startTime": "00:18:58.185",
-        "finishTime": "00:19:06.426",
+        "startTime": "00:18:58",
+        "finishTime": "00:19:06",
         "site_ID": "60",
         "Caption": [
             {
@@ -1020,8 +1020,8 @@
         "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=1138s"
     },
     {
-        "startTime": "00:19:06.426",
-        "finishTime": "00:19:15.134",
+        "startTime": "00:19:06",
+        "finishTime": "00:19:15",
         "site_ID": "61",
         "Caption": [
             {
@@ -1037,8 +1037,8 @@
         "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=1146s"
     },
     {
-        "startTime": "00:19:15.134",
-        "finishTime": "00:19:24.809",
+        "startTime": "00:19:15",
+        "finishTime": "00:19:24",
         "site_ID": "62",
         "Caption": [
             {
@@ -1054,8 +1054,8 @@
         "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=1155s"
     },
     {
-        "startTime": "00:19:24.809",
-        "finishTime": "00:19:34.584",
+        "startTime": "00:19:24",
+        "finishTime": "00:19:34",
         "site_ID": "63",
         "Caption": [
             {
@@ -1071,8 +1071,8 @@
         "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=1164s"
     },
     {
-        "startTime": "00:19:34.584",
-        "finishTime": "00:19:46.528",
+        "startTime": "00:19:34",
+        "finishTime": "00:19:46",
         "site_ID": "64",
         "Caption": [
             {
@@ -1088,8 +1088,8 @@
         "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=1174s"
     },
     {
-        "startTime": "00:19:46.528",
-        "finishTime": "00:19:56.137",
+        "startTime": "00:19:46",
+        "finishTime": "00:19:56",
         "site_ID": "65",
         "Caption": [
             {
@@ -1105,8 +1105,8 @@
         "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=1186s"
     },
     {
-        "startTime": "00:19:56.137",
-        "finishTime": "00:20:06.446",
+        "startTime": "00:19:56",
+        "finishTime": "00:20:06",
         "site_ID": "66",
         "Caption": [
             {
@@ -1122,8 +1122,8 @@
         "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=1196s"
     },
     {
-        "startTime": "00:20:06.446",
-        "finishTime": "00:20:14.954",
+        "startTime": "00:20:06",
+        "finishTime": "00:20:14",
         "site_ID": "67",
         "Caption": [
             {
@@ -1139,8 +1139,8 @@
         "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=1206s"
     },
     {
-        "startTime": "00:20:14.954",
-        "finishTime": "00:20:26.264",
+        "startTime": "00:20:14",
+        "finishTime": "00:20:26",
         "site_ID": "68",
         "Caption": [
             {
@@ -1156,8 +1156,8 @@
         "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=1214s"
     },
     {
-        "startTime": "00:20:26.264",
-        "finishTime": "00:20:34.472",
+        "startTime": "00:20:26",
+        "finishTime": "00:20:34",
         "site_ID": "69",
         "Caption": [
             {
@@ -1173,8 +1173,8 @@
         "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=1226s"
     },
     {
-        "startTime": "00:20:34.472",
-        "finishTime": "00:20:44.981",
+        "startTime": "00:20:34",
+        "finishTime": "00:20:44",
         "site_ID": "70",
         "Caption": [
             {
@@ -1190,8 +1190,8 @@
         "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=1234s"
     },
     {
-        "startTime": "00:20:44.981",
-        "finishTime": "00:20:58.559",
+        "startTime": "00:20:44",
+        "finishTime": "00:20:58",
         "site_ID": "71",
         "Caption": [
             {
@@ -1207,8 +1207,8 @@
         "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=1244s"
     },
     {
-        "startTime": "00:20:58.559",
-        "finishTime": "00:21:10.668",
+        "startTime": "00:20:58",
+        "finishTime": "00:21:10",
         "site_ID": "72",
         "Caption": [
             {
@@ -1224,8 +1224,8 @@
         "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=1258s"
     },
     {
-        "startTime": "00:21:11.003",
-        "finishTime": "00:21:21.045",
+        "startTime": "00:21:11",
+        "finishTime": "00:21:21",
         "site_ID": "73",
         "Caption": [
             {
@@ -1241,8 +1241,8 @@
         "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=1271s"
     },
     {
-        "startTime": "00:21:21.045",
-        "finishTime": "00:21:28.919",
+        "startTime": "00:21:21",
+        "finishTime": "00:21:28",
         "site_ID": "74",
         "Caption": [
             {
@@ -1258,8 +1258,8 @@
         "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=1281s"
     },
     {
-        "startTime": "00:21:28.919",
-        "finishTime": "00:21:40.129",
+        "startTime": "00:21:28",
+        "finishTime": "00:21:40",
         "site_ID": "75",
         "Caption": [
             {
@@ -1275,8 +1275,8 @@
         "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=1288s"
     },
     {
-        "startTime": "00:21:40.129",
-        "finishTime": "00:21:48.236",
+        "startTime": "00:21:40",
+        "finishTime": "00:21:48",
         "site_ID": "76",
         "Caption": [
             {
@@ -1292,8 +1292,8 @@
         "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=1300s"
     },
     {
-        "startTime": "00:21:48.236",
-        "finishTime": "00:22:00.000",
+        "startTime": "00:21:48",
+        "finishTime": "00:22:00",
         "site_ID": "77",
         "Caption": [
             {
@@ -1309,8 +1309,8 @@
         "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=1308s"
     },
     {
-        "startTime": "00:22:00.380",
-        "finishTime": "00:22:10.875",
+        "startTime": "00:22:00",
+        "finishTime": "00:22:10",
         "site_ID": "78",
         "Caption": [
             {
@@ -1326,8 +1326,8 @@
         "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=1320s"
     },
     {
-        "startTime": "00:22:10.875",
-        "finishTime": "00:22:20.785",
+        "startTime": "00:22:10",
+        "finishTime": "00:22:20",
         "site_ID": "79",
         "Caption": [
             {
@@ -1343,8 +1343,8 @@
         "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=1330s"
     },
     {
-        "startTime": "00:22:20.785",
-        "finishTime": "00:22:33.229",
+        "startTime": "00:22:20",
+        "finishTime": "00:22:33",
         "site_ID": "80",
         "Caption": [
             {
@@ -1360,8 +1360,8 @@
         "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=1340s"
     },
     {
-        "startTime": "00:22:33.229",
-        "finishTime": "00:22:54.614",
+        "startTime": "00:22:33",
+        "finishTime": "00:22:54",
         "site_ID": "81",
         "Caption": [
             {
@@ -1377,8 +1377,8 @@
         "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=1353s"
     },
     {
-        "startTime": "00:22:54.614",
-        "finishTime": "00:23:04.356",
+        "startTime": "00:22:54",
+        "finishTime": "00:23:04",
         "site_ID": "82",
         "Caption": [
             {
@@ -1394,8 +1394,8 @@
         "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=1374s"
     },
     {
-        "startTime": "00:23:04.356",
-        "finishTime": "00:23:21.304",
+        "startTime": "00:23:04",
+        "finishTime": "00:23:21",
         "site_ID": "83",
         "Caption": [
             {
@@ -1411,8 +1411,8 @@
         "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=1384s"
     },
     {
-        "startTime": "00:23:21.304",
-        "finishTime": "00:23:35.249",
+        "startTime": "00:23:21",
+        "finishTime": "00:23:35",
         "site_ID": "84",
         "Caption": [
             {
@@ -1428,8 +1428,8 @@
         "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=1401s"
     },
     {
-        "startTime": "00:23:35.249",
-        "finishTime": "00:23:56.066",
+        "startTime": "00:23:35",
+        "finishTime": "00:23:56",
         "site_ID": "85",
         "Caption": [
             {
@@ -1445,8 +1445,8 @@
         "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=1415s"
     },
     {
-        "startTime": "00:23:56.066",
-        "finishTime": "00:24:11.880",
+        "startTime": "00:23:56",
+        "finishTime": "00:24:11",
         "site_ID": "86",
         "Caption": [
             {
@@ -1462,8 +1462,8 @@
         "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=1436s"
     },
     {
-        "startTime": "00:24:11.880",
-        "finishTime": "00:24:28.961",
+        "startTime": "00:24:11",
+        "finishTime": "00:24:28",
         "site_ID": "87",
         "Caption": [
             {
@@ -1479,8 +1479,8 @@
         "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=1451s"
     },
     {
-        "startTime": "00:24:28.961",
-        "finishTime": "00:24:43.372",
+        "startTime": "00:24:28",
+        "finishTime": "00:24:43",
         "site_ID": "88",
         "Caption": [
             {
@@ -1496,8 +1496,8 @@
         "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=1468s"
     },
     {
-        "startTime": "00:24:43.372",
-        "finishTime": "00:24:52.515",
+        "startTime": "00:24:43",
+        "finishTime": "00:24:52",
         "site_ID": "89",
         "Caption": [
             {
@@ -1513,8 +1513,8 @@
         "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=1483s"
     },
     {
-        "startTime": "00:24:52.515",
-        "finishTime": "00:25:08.796",
+        "startTime": "00:24:52",
+        "finishTime": "00:25:08",
         "site_ID": "90",
         "Caption": [
             {
@@ -1530,8 +1530,8 @@
         "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=1492s"
     },
     {
-        "startTime": "00:25:08.796",
-        "finishTime": "00:25:10.796",
+        "startTime": "00:25:08",
+        "finishTime": "00:25:10",
         "site_ID": "91",
         "Caption": [
             {
@@ -1547,8 +1547,8 @@
         "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=1508s"
     },
     {
-        "startTime": "00:25:41.000",
-        "finishTime": "00:25:50.000",
+        "startTime": "00:25:41",
+        "finishTime": "00:25:50",
         "site_ID": "92",
         "Caption": [
             {
@@ -1564,8 +1564,8 @@
         "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=1541s"
     },
     {
-        "startTime": "00:25:50.000",
-        "finishTime": "00:26:00.000",
+        "startTime": "00:25:50",
+        "finishTime": "00:26:00",
         "site_ID": "93",
         "Caption": [
             {
@@ -1581,8 +1581,8 @@
         "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=1550s"
     },
     {
-        "startTime": "00:26:00.000",
-        "finishTime": "00:26:10.000",
+        "startTime": "00:26:00",
+        "finishTime": "00:26:10",
         "site_ID": "94",
         "Caption": [
             {
@@ -1598,8 +1598,8 @@
         "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=1560s"
     },
     {
-        "startTime": "00:26:10.000",
-        "finishTime": "00:26:18.000",
+        "startTime": "00:26:10",
+        "finishTime": "00:26:18",
         "site_ID": "95",
         "Caption": [
             {
@@ -1615,8 +1615,8 @@
         "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=1570s"
     },
     {
-        "startTime": "00:26:18.000",
-        "finishTime": "00:26:28.000",
+        "startTime": "00:26:18",
+        "finishTime": "00:26:28",
         "site_ID": "96",
         "Caption": [
             {
@@ -1632,8 +1632,8 @@
         "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=1578s"
     },
     {
-        "startTime": "00:26:28.000",
-        "finishTime": "00:26:38.000",
+        "startTime": "00:26:28",
+        "finishTime": "00:26:38",
         "site_ID": "97",
         "Caption": [
             {
@@ -1649,8 +1649,8 @@
         "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=1588s"
     },
     {
-        "startTime": "00:26:38.000",
-        "finishTime": "00:26:48.000",
+        "startTime": "00:26:38",
+        "finishTime": "00:26:48",
         "site_ID": "98",
         "Caption": [
             {
@@ -1666,8 +1666,8 @@
         "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=1598s"
     },
     {
-        "startTime": "00:26:48.000",
-        "finishTime": "00:27:00.000",
+        "startTime": "00:26:48",
+        "finishTime": "00:27:00",
         "site_ID": "99",
         "Caption": [
             {
@@ -1683,8 +1683,8 @@
         "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=1608s"
     },
     {
-        "startTime": "00:27:00.000",
-        "finishTime": "00:27:14.000",
+        "startTime": "00:27:00",
+        "finishTime": "00:27:14",
         "site_ID": "100",
         "Caption": [
             {
@@ -1700,8 +1700,8 @@
         "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=1620s"
     },
     {
-        "startTime": "00:27:14.000",
-        "finishTime": "00:27:25.000",
+        "startTime": "00:27:14",
+        "finishTime": "00:27:25",
         "site_ID": "101",
         "Caption": [
             {
@@ -1717,8 +1717,8 @@
         "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=1634s"
     },
     {
-        "startTime": "00:27:25.000",
-        "finishTime": "00:27:35.000",
+        "startTime": "00:27:25",
+        "finishTime": "00:27:35",
         "site_ID": "102",
         "Caption": [
             {
@@ -1734,8 +1734,8 @@
         "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=1645s"
     },
     {
-        "startTime": "00:27:35.000",
-        "finishTime": "00:27:48.000",
+        "startTime": "00:27:35",
+        "finishTime": "00:27:48",
         "site_ID": "103",
         "Caption": [
             {
@@ -1751,8 +1751,8 @@
         "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=1655s"
     },
     {
-        "startTime": "00:27:48.000",
-        "finishTime": "00:28:00.000",
+        "startTime": "00:27:48",
+        "finishTime": "00:28:00",
         "site_ID": "104",
         "Caption": [
             {
@@ -1768,8 +1768,8 @@
         "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=1668s"
     },
     {
-        "startTime": "00:28:15.000",
-        "finishTime": "00:28:30.000",
+        "startTime": "00:28:15",
+        "finishTime": "00:28:30",
         "site_ID": "105",
         "Caption": [
             {
@@ -1785,8 +1785,8 @@
         "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=1695s"
     },
     {
-        "startTime": "00:28:30.000",
-        "finishTime": "00:28:40.000",
+        "startTime": "00:28:30",
+        "finishTime": "00:28:40",
         "site_ID": "106",
         "Caption": [
             {
@@ -1802,8 +1802,8 @@
         "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=1710s"
     },
     {
-        "startTime": "00:28:40.000",
-        "finishTime": "00:28:53.000",
+        "startTime": "00:28:40",
+        "finishTime": "00:28:53",
         "site_ID": "107",
         "Caption": [
             {
@@ -1819,8 +1819,8 @@
         "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=1720s"
     },
     {
-        "startTime": "00:28:53.000",
-        "finishTime": "00:29:08.000",
+        "startTime": "00:28:53",
+        "finishTime": "00:29:08",
         "site_ID": "108",
         "Caption": [
             {
@@ -1836,8 +1836,8 @@
         "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=1733s"
     },
     {
-        "startTime": "00:29:08.000",
-        "finishTime": "00:29:21.000",
+        "startTime": "00:29:08",
+        "finishTime": "00:29:21",
         "site_ID": "109",
         "Caption": [
             {
@@ -1853,8 +1853,8 @@
         "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=1748s"
     },
     {
-        "startTime": "00:29:21.000",
-        "finishTime": "00:29:33.000",
+        "startTime": "00:29:21",
+        "finishTime": "00:29:33",
         "site_ID": "110",
         "Caption": [
             {
@@ -1870,8 +1870,8 @@
         "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=1761s"
     },
     {
-        "startTime": "00:29:33.000",
-        "finishTime": "00:29:46.000",
+        "startTime": "00:29:33",
+        "finishTime": "00:29:46",
         "site_ID": "111",
         "Caption": [
             {
@@ -1887,8 +1887,8 @@
         "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=1773s"
     },
     {
-        "startTime": "00:29:46.000",
-        "finishTime": "00:29:59.000",
+        "startTime": "00:29:46",
+        "finishTime": "00:29:59",
         "site_ID": "112",
         "Caption": [
             {
@@ -1904,8 +1904,8 @@
         "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=1786s"
     },
     {
-        "startTime": "00:29:59.000",
-        "finishTime": "00:30:11.000",
+        "startTime": "00:29:59",
+        "finishTime": "00:30:11",
         "site_ID": "113",
         "Caption": [
             {
@@ -1921,8 +1921,8 @@
         "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=1799s"
     },
     {
-        "startTime": "00:30:11.000",
-        "finishTime": "00:30:22.000",
+        "startTime": "00:30:11",
+        "finishTime": "00:30:22",
         "site_ID": "114",
         "Caption": [
             {
@@ -1938,8 +1938,8 @@
         "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=1811s"
     },
     {
-        "startTime": "00:30:22.000",
-        "finishTime": "00:30:30.000",
+        "startTime": "00:30:22",
+        "finishTime": "00:30:30",
         "site_ID": "115",
         "Caption": [
             {
@@ -1955,8 +1955,8 @@
         "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=1822s"
     },
     {
-        "startTime": "00:30:30.000",
-        "finishTime": "00:30:43.000",
+        "startTime": "00:30:30",
+        "finishTime": "00:30:43",
         "site_ID": "116",
         "Caption": [
             {
@@ -1972,8 +1972,8 @@
         "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=1830s"
     },
     {
-        "startTime": "00:30:43.000",
-        "finishTime": "00:31:03.000",
+        "startTime": "00:30:43",
+        "finishTime": "00:31:03",
         "site_ID": "117",
         "Caption": [
             {
@@ -1989,8 +1989,8 @@
         "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=1843s"
     },
     {
-        "startTime": "00:31:03.000",
-        "finishTime": "00:31:16.000",
+        "startTime": "00:31:03",
+        "finishTime": "00:31:16",
         "site_ID": "118",
         "Caption": [
             {
@@ -2006,8 +2006,8 @@
         "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=1863s"
     },
     {
-        "startTime": "00:31:16.000",
-        "finishTime": "00:31:27.000",
+        "startTime": "00:31:16",
+        "finishTime": "00:31:27",
         "site_ID": "119",
         "Caption": [
             {
@@ -2023,8 +2023,8 @@
         "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=1876s"
     },
     {
-        "startTime": "00:31:27.000",
-        "finishTime": "00:31:43.000",
+        "startTime": "00:31:27",
+        "finishTime": "00:31:43",
         "site_ID": "120",
         "Caption": [
             {
@@ -2040,8 +2040,8 @@
         "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=1887s"
     },
     {
-        "startTime": "00:31:43.000",
-        "finishTime": "00:31:58.000",
+        "startTime": "00:31:43",
+        "finishTime": "00:31:58",
         "site_ID": "121",
         "Caption": [
             {
@@ -2057,8 +2057,8 @@
         "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=1903s"
     },
     {
-        "startTime": "00:31:58.000",
-        "finishTime": "00:32:12.000",
+        "startTime": "00:31:58",
+        "finishTime": "00:32:12",
         "site_ID": "122",
         "Caption": [
             {
@@ -2074,8 +2074,8 @@
         "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=1918s"
     },
     {
-        "startTime": "00:32:12.000",
-        "finishTime": "00:32:28.000",
+        "startTime": "00:32:12",
+        "finishTime": "00:32:28",
         "site_ID": "123",
         "Caption": [
             {
@@ -2091,8 +2091,8 @@
         "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=1932s"
     },
     {
-        "startTime": "00:32:28.000",
-        "finishTime": "00:32:39.000",
+        "startTime": "00:32:28",
+        "finishTime": "00:32:39",
         "site_ID": "124",
         "Caption": [
             {
@@ -2108,8 +2108,8 @@
         "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=1948s"
     },
     {
-        "startTime": "00:32:39.000",
-        "finishTime": "00:32:56.000",
+        "startTime": "00:32:39",
+        "finishTime": "00:32:56",
         "site_ID": "125",
         "Caption": [
             {
@@ -2125,8 +2125,8 @@
         "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=1959s"
     },
     {
-        "startTime": "00:32:56.000",
-        "finishTime": "00:33:08.000",
+        "startTime": "00:32:56",
+        "finishTime": "00:33:08",
         "site_ID": "126",
         "Caption": [
             {
@@ -2142,8 +2142,8 @@
         "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=1976s"
     },
     {
-        "startTime": "00:33:08.000",
-        "finishTime": "00:33:23.000",
+        "startTime": "00:33:08",
+        "finishTime": "00:33:23",
         "site_ID": "127",
         "Caption": [
             {
@@ -2159,8 +2159,8 @@
         "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=1988s"
     },
     {
-        "startTime": "00:33:23.000",
-        "finishTime": "00:33:33.000",
+        "startTime": "00:33:23",
+        "finishTime": "00:33:33",
         "site_ID": "128",
         "Caption": [
             {
@@ -2176,8 +2176,8 @@
         "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=2003s"
     },
     {
-        "startTime": "00:33:33.000",
-        "finishTime": "00:33:52.000",
+        "startTime": "00:33:33",
+        "finishTime": "00:33:52",
         "site_ID": "129",
         "Caption": [
             {
@@ -2193,8 +2193,8 @@
         "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=2013s"
     },
     {
-        "startTime": "00:33:52.000",
-        "finishTime": "00:34:04.000",
+        "startTime": "00:33:52",
+        "finishTime": "00:34:04",
         "site_ID": "130",
         "Caption": [
             {
@@ -2210,8 +2210,8 @@
         "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=2032s"
     },
     {
-        "startTime": "00:34:04.000",
-        "finishTime": "00:34:15.000",
+        "startTime": "00:34:04",
+        "finishTime": "00:34:15",
         "site_ID": "131",
         "Caption": [
             {
@@ -2227,8 +2227,8 @@
         "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=2044s"
     },
     {
-        "startTime": "00:34:15.000",
-        "finishTime": "00:34:27.000",
+        "startTime": "00:34:15",
+        "finishTime": "00:34:27",
         "site_ID": "132",
         "Caption": [
             {
@@ -2244,8 +2244,8 @@
         "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=2055s"
     },
     {
-        "startTime": "00:34:27.000",
-        "finishTime": "00:34:50.000",
+        "startTime": "00:34:27",
+        "finishTime": "00:34:50",
         "site_ID": "133",
         "Caption": [
             {
@@ -2261,8 +2261,8 @@
         "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=2067s"
     },
     {
-        "startTime": "00:34:50.000",
-        "finishTime": "00:35:05.000",
+        "startTime": "00:34:50",
+        "finishTime": "00:35:05",
         "site_ID": "134",
         "Caption": [
             {
@@ -2278,8 +2278,8 @@
         "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=2090s"
     },
     {
-        "startTime": "00:35:05.000",
-        "finishTime": "00:35:19.000",
+        "startTime": "00:35:05",
+        "finishTime": "00:35:19",
         "site_ID": "135",
         "Caption": [
             {
@@ -2295,8 +2295,8 @@
         "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=2105s"
     },
     {
-        "startTime": "00:35:19.000",
-        "finishTime": "00:35:31.000",
+        "startTime": "00:35:19",
+        "finishTime": "00:35:31",
         "site_ID": "136",
         "Caption": [
             {
@@ -2312,8 +2312,8 @@
         "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=2119s"
     },
     {
-        "startTime": "00:35:31.000",
-        "finishTime": "00:35:39.000",
+        "startTime": "00:35:31",
+        "finishTime": "00:35:39",
         "site_ID": "137",
         "Caption": [
             {
@@ -2329,8 +2329,8 @@
         "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=2131s"
     },
     {
-        "startTime": "00:35:39.000",
-        "finishTime": "00:35:52.000",
+        "startTime": "00:35:39",
+        "finishTime": "00:35:52",
         "site_ID": "138",
         "Caption": [
             {
@@ -2346,8 +2346,8 @@
         "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=2139s"
     },
     {
-        "startTime": "00:35:52.000",
-        "finishTime": "00:36:04.000",
+        "startTime": "00:35:52",
+        "finishTime": "00:36:04",
         "site_ID": "139",
         "Caption": [
             {
@@ -2363,8 +2363,8 @@
         "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=2152s"
     },
     {
-        "startTime": "00:36:04.000",
-        "finishTime": "00:36:25.000",
+        "startTime": "00:36:04",
+        "finishTime": "00:36:25",
         "site_ID": "140",
         "Caption": [
             {
@@ -2380,8 +2380,8 @@
         "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=2164s"
     },
     {
-        "startTime": "00:36:25.000",
-        "finishTime": "00:36:35.000",
+        "startTime": "00:36:25",
+        "finishTime": "00:36:35",
         "site_ID": "141",
         "Caption": [
             {
@@ -2397,8 +2397,8 @@
         "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=2185s"
     },
     {
-        "startTime": "00:36:35.000",
-        "finishTime": "00:36:47.000",
+        "startTime": "00:36:35",
+        "finishTime": "00:36:47",
         "site_ID": "142",
         "Caption": [
             {
@@ -2414,8 +2414,8 @@
         "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=2195s"
     },
     {
-        "startTime": "00:36:47.000",
-        "finishTime": "00:37:02.000",
+        "startTime": "00:36:47",
+        "finishTime": "00:37:02",
         "site_ID": "143",
         "Caption": [
             {
@@ -2431,8 +2431,8 @@
         "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=2207s"
     },
     {
-        "startTime": "00:37:02.000",
-        "finishTime": "00:37:12.000",
+        "startTime": "00:37:02",
+        "finishTime": "00:37:12",
         "site_ID": "144",
         "Caption": [
             {
@@ -2448,8 +2448,8 @@
         "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=2222s"
     },
     {
-        "startTime": "00:37:12.000",
-        "finishTime": "00:37:24.000",
+        "startTime": "00:37:12",
+        "finishTime": "00:37:24",
         "site_ID": "145",
         "Caption": [
             {
@@ -2465,8 +2465,8 @@
         "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=2232s"
     },
     {
-        "startTime": "00:37:24.000",
-        "finishTime": "00:37:48.000",
+        "startTime": "00:37:24",
+        "finishTime": "00:37:48",
         "site_ID": "146",
         "Caption": [
             {
@@ -2482,8 +2482,8 @@
         "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=2244s"
     },
     {
-        "startTime": "00:37:48.000",
-        "finishTime": "00:38:30.000",
+        "startTime": "00:37:48",
+        "finishTime": "00:38:30",
         "site_ID": "147",
         "Caption": [
             {
@@ -2499,8 +2499,8 @@
         "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=2268s"
     },
     {
-        "startTime": "00:38:30.000",
-        "finishTime": "00:38:44.000",
+        "startTime": "00:38:30",
+        "finishTime": "00:38:44",
         "site_ID": "148",
         "Caption": [
             {
@@ -2516,8 +2516,8 @@
         "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=2310s"
     },
     {
-        "startTime": "00:38:44.000",
-        "finishTime": "00:38:55.000",
+        "startTime": "00:38:44",
+        "finishTime": "00:38:55",
         "site_ID": "149",
         "Caption": [
             {
@@ -2533,8 +2533,8 @@
         "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=2324s"
     },
     {
-        "startTime": "00:38:55.000",
-        "finishTime": "00:39:16.000",
+        "startTime": "00:38:55",
+        "finishTime": "00:39:16",
         "site_ID": "150",
         "Caption": [
             {
@@ -2550,8 +2550,8 @@
         "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=2335s"
     },
     {
-        "startTime": "00:39:16.000",
-        "finishTime": "00:39:26.000",
+        "startTime": "00:39:16",
+        "finishTime": "00:39:26",
         "site_ID": "151",
         "Caption": [
             {
@@ -2567,8 +2567,8 @@
         "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=2356s"
     },
     {
-        "startTime": "00:39:26.000",
-        "finishTime": "00:39:39.000",
+        "startTime": "00:39:26",
+        "finishTime": "00:39:39",
         "site_ID": "152",
         "Caption": [
             {
@@ -2584,8 +2584,8 @@
         "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=2366s"
     },
     {
-        "startTime": "00:39:39.000",
-        "finishTime": "00:39:52.000",
+        "startTime": "00:39:39",
+        "finishTime": "00:39:52",
         "site_ID": "153",
         "Caption": [
             {
@@ -2601,8 +2601,8 @@
         "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=2379s"
     },
     {
-        "startTime": "00:39:52.000",
-        "finishTime": "00:40:02.000",
+        "startTime": "00:39:52",
+        "finishTime": "00:40:02",
         "site_ID": "154",
         "Caption": [
             {
@@ -2618,8 +2618,8 @@
         "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=2392s"
     },
     {
-        "startTime": "00:40:02.000",
-        "finishTime": "00:40:14.000",
+        "startTime": "00:40:02",
+        "finishTime": "00:40:14",
         "site_ID": "155",
         "Caption": [
             {
@@ -2635,8 +2635,8 @@
         "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=2402s"
     },
     {
-        "startTime": "00:40:14.000",
-        "finishTime": "00:40:23.000",
+        "startTime": "00:40:14",
+        "finishTime": "00:40:23",
         "site_ID": "156",
         "Caption": [
             {
@@ -2652,8 +2652,8 @@
         "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=2414s"
     },
     {
-        "startTime": "00:40:23.000",
-        "finishTime": "00:40:37.000",
+        "startTime": "00:40:23",
+        "finishTime": "00:40:37",
         "site_ID": "157",
         "Caption": [
             {
@@ -2669,8 +2669,8 @@
         "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=2423s"
     },
     {
-        "startTime": "00:40:37.000",
-        "finishTime": "00:40:50.000",
+        "startTime": "00:40:37",
+        "finishTime": "00:40:50",
         "site_ID": "158",
         "Caption": [
             {
@@ -2686,8 +2686,8 @@
         "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=2437s"
     },
     {
-        "startTime": "00:40:50.000",
-        "finishTime": "00:41:06.000",
+        "startTime": "00:40:50",
+        "finishTime": "00:41:06",
         "site_ID": "159",
         "Caption": [
             {
@@ -2703,8 +2703,8 @@
         "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=2450s"
     },
     {
-        "startTime": "00:41:06.000",
-        "finishTime": "00:41:17.000",
+        "startTime": "00:41:06",
+        "finishTime": "00:41:17",
         "site_ID": "160",
         "Caption": [
             {
@@ -2720,8 +2720,8 @@
         "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=2466s"
     },
     {
-        "startTime": "00:41:17.000",
-        "finishTime": "00:41:35.000",
+        "startTime": "00:41:17",
+        "finishTime": "00:41:35",
         "site_ID": "161",
         "Caption": [
             {
@@ -2737,8 +2737,8 @@
         "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=2477s"
     },
     {
-        "startTime": "00:41:35.000",
-        "finishTime": "00:41:49.000",
+        "startTime": "00:41:35",
+        "finishTime": "00:41:49",
         "site_ID": "162",
         "Caption": [
             {
@@ -2754,8 +2754,8 @@
         "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=2495s"
     },
     {
-        "startTime": "00:41:49.000",
-        "finishTime": "00:42:02.000",
+        "startTime": "00:41:49",
+        "finishTime": "00:42:02",
         "site_ID": "163",
         "Caption": [
             {
@@ -2771,8 +2771,8 @@
         "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=2509s"
     },
     {
-        "startTime": "00:42:02.000",
-        "finishTime": "00:42:17.000",
+        "startTime": "00:42:02",
+        "finishTime": "00:42:17",
         "site_ID": "164",
         "Caption": [
             {
@@ -2788,8 +2788,8 @@
         "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=2522s"
     },
     {
-        "startTime": "00:42:17.000",
-        "finishTime": "00:42:33.000",
+        "startTime": "00:42:17",
+        "finishTime": "00:42:33",
         "site_ID": "165",
         "Caption": [
             {
@@ -2805,8 +2805,8 @@
         "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=2537s"
     },
     {
-        "startTime": "00:42:33.000",
-        "finishTime": "00:43:09.000",
+        "startTime": "00:42:33",
+        "finishTime": "00:43:09",
         "site_ID": "166",
         "Caption": [
             {
@@ -2822,8 +2822,8 @@
         "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=2553s"
     },
     {
-        "startTime": "00:43:09.000",
-        "finishTime": "00:43:25.000",
+        "startTime": "00:43:09",
+        "finishTime": "00:43:25",
         "site_ID": "167",
         "Caption": [
             {
@@ -2839,8 +2839,8 @@
         "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=2589s"
     },
     {
-        "startTime": "00:43:25.000",
-        "finishTime": "00:43:39.000",
+        "startTime": "00:43:25",
+        "finishTime": "00:43:39",
         "site_ID": "168",
         "Caption": [
             {
@@ -2856,8 +2856,8 @@
         "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=2605s"
     },
     {
-        "startTime": "00:43:39.000",
-        "finishTime": "00:43:46.000",
+        "startTime": "00:43:39",
+        "finishTime": "00:43:46",
         "site_ID": "169",
         "Caption": [
             {
@@ -2873,8 +2873,8 @@
         "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=2619s"
     },
     {
-        "startTime": "00:43:46.000",
-        "finishTime": "00:44:06.000",
+        "startTime": "00:43:46",
+        "finishTime": "00:44:06",
         "site_ID": "170",
         "Caption": [
             {
@@ -2890,8 +2890,8 @@
         "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=2626s"
     },
     {
-        "startTime": "00:44:06.000",
-        "finishTime": "00:44:22.000",
+        "startTime": "00:44:06",
+        "finishTime": "00:44:22",
         "site_ID": "171",
         "Caption": [
             {
@@ -2907,8 +2907,8 @@
         "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=2646s"
     },
     {
-        "startTime": "00:44:22.000",
-        "finishTime": "00:44:35.000",
+        "startTime": "00:44:22",
+        "finishTime": "00:44:35",
         "site_ID": "172",
         "Caption": [
             {
@@ -2924,8 +2924,8 @@
         "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=2662s"
     },
     {
-        "startTime": "00:44:35.000",
-        "finishTime": "00:44:44.000",
+        "startTime": "00:44:35",
+        "finishTime": "00:44:44",
         "site_ID": "173",
         "Caption": [
             {
@@ -2941,8 +2941,8 @@
         "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=2675s"
     },
     {
-        "startTime": "00:44:44.000",
-        "finishTime": "00:44:54.000",
+        "startTime": "00:44:44",
+        "finishTime": "00:44:54",
         "site_ID": "174",
         "Caption": [
             {
@@ -2958,8 +2958,8 @@
         "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=2684s"
     },
     {
-        "startTime": "00:44:54.000",
-        "finishTime": "00:45:05.000",
+        "startTime": "00:44:54",
+        "finishTime": "00:45:05",
         "site_ID": "175",
         "Caption": [
             {
@@ -2975,8 +2975,8 @@
         "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=2694s"
     },
     {
-        "startTime": "00:45:05.000",
-        "finishTime": "00:45:27.000",
+        "startTime": "00:45:05",
+        "finishTime": "00:45:27",
         "site_ID": "176",
         "Caption": [
             {
@@ -2992,8 +2992,8 @@
         "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=2705s"
     },
     {
-        "startTime": "00:45:27.000",
-        "finishTime": "00:45:38.000",
+        "startTime": "00:45:27",
+        "finishTime": "00:45:38",
         "site_ID": "177",
         "Caption": [
             {
@@ -3009,8 +3009,8 @@
         "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=2727s"
     },
     {
-        "startTime": "00:45:38.000",
-        "finishTime": "00:46:03.000",
+        "startTime": "00:45:38",
+        "finishTime": "00:46:03",
         "site_ID": "178",
         "Caption": [
             {
@@ -3026,8 +3026,8 @@
         "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=2738s"
     },
     {
-        "startTime": "00:46:03.000",
-        "finishTime": "00:46:29.000",
+        "startTime": "00:46:03",
+        "finishTime": "00:46:29",
         "site_ID": "179",
         "Caption": [
             {
@@ -3043,8 +3043,8 @@
         "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=2763s"
     },
     {
-        "startTime": "00:46:29.000",
-        "finishTime": "00:46:37.000",
+        "startTime": "00:46:29",
+        "finishTime": "00:46:37",
         "site_ID": "180",
         "Caption": [
             {
@@ -3060,8 +3060,8 @@
         "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=2789s"
     },
     {
-        "startTime": "00:46:37.000",
-        "finishTime": "00:46:47.000",
+        "startTime": "00:46:37",
+        "finishTime": "00:46:47",
         "site_ID": "181",
         "Caption": [
             {
@@ -3077,8 +3077,8 @@
         "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=2797s"
     },
     {
-        "startTime": "00:46:47.000",
-        "finishTime": "00:46:55.000",
+        "startTime": "00:46:47",
+        "finishTime": "00:46:55",
         "site_ID": "182",
         "Caption": [
             {
@@ -3094,8 +3094,8 @@
         "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=2807s"
     },
     {
-        "startTime": "00:46:55.000",
-        "finishTime": "00:47:03.000",
+        "startTime": "00:46:55",
+        "finishTime": "00:47:03",
         "site_ID": "183",
         "Caption": [
             {
@@ -3111,8 +3111,8 @@
         "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=2815s"
     },
     {
-        "startTime": "00:47:03.000",
-        "finishTime": "00:47:11.000",
+        "startTime": "00:47:03",
+        "finishTime": "00:47:11",
         "site_ID": "184",
         "Caption": [
             {
@@ -3128,8 +3128,8 @@
         "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=2823s"
     },
     {
-        "startTime": "00:47:11.000",
-        "finishTime": "00:47:23.000",
+        "startTime": "00:47:11",
+        "finishTime": "00:47:23",
         "site_ID": "185",
         "Caption": [
             {
@@ -3145,8 +3145,8 @@
         "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=2831s"
     },
     {
-        "startTime": "00:47:23.000",
-        "finishTime": "00:47:34.000",
+        "startTime": "00:47:23",
+        "finishTime": "00:47:34",
         "site_ID": "186",
         "Caption": [
             {
@@ -3162,8 +3162,8 @@
         "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=2843s"
     },
     {
-        "startTime": "00:47:34.000",
-        "finishTime": "00:47:42.000",
+        "startTime": "00:47:34",
+        "finishTime": "00:47:42",
         "site_ID": "187",
         "Caption": [
             {
@@ -3179,8 +3179,8 @@
         "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=2854s"
     },
     {
-        "startTime": "00:47:42.000",
-        "finishTime": "00:47:51.000",
+        "startTime": "00:47:42",
+        "finishTime": "00:47:51",
         "site_ID": "188",
         "Caption": [
             {
@@ -3196,8 +3196,8 @@
         "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=2862s"
     },
     {
-        "startTime": "00:47:51.000",
-        "finishTime": "00:47:59.000",
+        "startTime": "00:47:51",
+        "finishTime": "00:47:59",
         "site_ID": "189",
         "Caption": [
             {
@@ -3213,8 +3213,8 @@
         "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=2871s"
     },
     {
-        "startTime": "00:47:59.000",
-        "finishTime": "00:48:24.000",
+        "startTime": "00:47:59",
+        "finishTime": "00:48:24",
         "site_ID": "190",
         "Caption": [
             {
@@ -3230,8 +3230,8 @@
         "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=2879s"
     },
     {
-        "startTime": "00:48:24.000",
-        "finishTime": "00:48:37.000",
+        "startTime": "00:48:24",
+        "finishTime": "00:48:37",
         "site_ID": "191",
         "Caption": [
             {
@@ -3247,8 +3247,8 @@
         "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=2904s"
     },
     {
-        "startTime": "00:48:37.000",
-        "finishTime": "00:48:50.000",
+        "startTime": "00:48:37",
+        "finishTime": "00:48:50",
         "site_ID": "192",
         "Caption": [
             {
@@ -3264,8 +3264,8 @@
         "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=2917s"
     },
     {
-        "startTime": "00:48:50.000",
-        "finishTime": "00:49:06.000",
+        "startTime": "00:48:50",
+        "finishTime": "00:49:06",
         "site_ID": "193",
         "Caption": [
             {
@@ -3281,8 +3281,8 @@
         "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=2930s"
     },
     {
-        "startTime": "00:49:06.000",
-        "finishTime": "00:49:28.000",
+        "startTime": "00:49:06",
+        "finishTime": "00:49:28",
         "site_ID": "194",
         "Caption": [
             {
@@ -3298,8 +3298,8 @@
         "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=2946s"
     },
     {
-        "startTime": "00:49:28.000",
-        "finishTime": "00:50:24.000",
+        "startTime": "00:49:28",
+        "finishTime": "00:50:24",
         "site_ID": "195",
         "Caption": [
             {
@@ -3315,8 +3315,8 @@
         "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=2968s"
     },
     {
-        "startTime": "00:50:24.000",
-        "finishTime": "00:50:43.000",
+        "startTime": "00:50:24",
+        "finishTime": "00:50:43",
         "site_ID": "196",
         "Caption": [
             {
@@ -3332,8 +3332,8 @@
         "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=3024s"
     },
     {
-        "startTime": "00:50:43.000",
-        "finishTime": "00:50:57.000",
+        "startTime": "00:50:43",
+        "finishTime": "00:50:57",
         "site_ID": "197",
         "Caption": [
             {
@@ -3349,8 +3349,8 @@
         "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=3043s"
     },
     {
-        "startTime": "00:50:57.000",
-        "finishTime": "00:51:12.000",
+        "startTime": "00:50:57",
+        "finishTime": "00:51:12",
         "site_ID": "198",
         "Caption": [
             {
@@ -3366,8 +3366,8 @@
         "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=3057s"
     },
     {
-        "startTime": "00:51:12.000",
-        "finishTime": "00:51:26.000",
+        "startTime": "00:51:12",
+        "finishTime": "00:51:26",
         "site_ID": "199",
         "Caption": [
             {
@@ -3383,8 +3383,8 @@
         "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=3072s"
     },
     {
-        "startTime": "00:51:26.000",
-        "finishTime": "00:51:45.000",
+        "startTime": "00:51:26",
+        "finishTime": "00:51:45",
         "site_ID": "200",
         "Caption": [
             {
@@ -3400,8 +3400,8 @@
         "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=3086s"
     },
     {
-        "startTime": "00:51:45.000",
-        "finishTime": "00:52:22.000",
+        "startTime": "00:51:45",
+        "finishTime": "00:52:22",
         "site_ID": "201",
         "Caption": [
             {
@@ -3417,8 +3417,8 @@
         "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=3105s"
     },
     {
-        "startTime": "00:52:22.000",
-        "finishTime": "00:52:47.000",
+        "startTime": "00:52:22",
+        "finishTime": "00:52:47",
         "site_ID": "202",
         "Caption": [
             {
@@ -3434,8 +3434,8 @@
         "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=3142s"
     },
     {
-        "startTime": "00:52:47.000",
-        "finishTime": "00:52:58.000",
+        "startTime": "00:52:47",
+        "finishTime": "00:52:58",
         "site_ID": "203",
         "Caption": [
             {
@@ -3451,8 +3451,8 @@
         "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=3167s"
     },
     {
-        "startTime": "00:52:58.000",
-        "finishTime": "00:53:08.000",
+        "startTime": "00:52:58",
+        "finishTime": "00:53:08",
         "site_ID": "204",
         "Caption": [
             {
@@ -3468,8 +3468,8 @@
         "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=3178s"
     },
     {
-        "startTime": "00:53:08.000",
-        "finishTime": "00:53:22.000",
+        "startTime": "00:53:08",
+        "finishTime": "00:53:22",
         "site_ID": "205",
         "Caption": [
             {
@@ -3485,8 +3485,8 @@
         "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=3188s"
     },
     {
-        "startTime": "00:53:22.000",
-        "finishTime": "00:53:36.000",
+        "startTime": "00:53:22",
+        "finishTime": "00:53:36",
         "site_ID": "206",
         "Caption": [
             {
@@ -3502,8 +3502,8 @@
         "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=3202s"
     },
     {
-        "startTime": "00:53:36.000",
-        "finishTime": "00:53:52.000",
+        "startTime": "00:53:36",
+        "finishTime": "00:53:52",
         "site_ID": "207",
         "Caption": [
             {
@@ -3519,8 +3519,8 @@
         "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=3216s"
     },
     {
-        "startTime": "00:53:52.000",
-        "finishTime": "00:54:00.000",
+        "startTime": "00:53:52",
+        "finishTime": "00:54:00",
         "site_ID": "208",
         "Caption": [
             {
@@ -3536,8 +3536,8 @@
         "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=3232s"
     },
     {
-        "startTime": "00:54:00.000",
-        "finishTime": "00:54:18.000",
+        "startTime": "00:54:00",
+        "finishTime": "00:54:18",
         "site_ID": "209",
         "Caption": [
             {
@@ -3553,8 +3553,8 @@
         "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=3240s"
     },
     {
-        "startTime": "00:54:18.000",
-        "finishTime": "00:54:32.000",
+        "startTime": "00:54:18",
+        "finishTime": "00:54:32",
         "site_ID": "210",
         "Caption": [
             {
@@ -3570,8 +3570,8 @@
         "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=3258s"
     },
     {
-        "startTime": "00:54:32.000",
-        "finishTime": "00:54:46.000",
+        "startTime": "00:54:32",
+        "finishTime": "00:54:46",
         "site_ID": "211",
         "Caption": [
             {
@@ -3587,8 +3587,8 @@
         "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=3272s"
     },
     {
-        "startTime": "00:54:46.000",
-        "finishTime": "00:54:55.000",
+        "startTime": "00:54:46",
+        "finishTime": "00:54:55",
         "site_ID": "212",
         "Caption": [
             {
@@ -3604,8 +3604,8 @@
         "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=3286s"
     },
     {
-        "startTime": "00:54:55.000",
-        "finishTime": "00:55:04.000",
+        "startTime": "00:54:55",
+        "finishTime": "00:55:04",
         "site_ID": "213",
         "Caption": [
             {
@@ -3621,8 +3621,8 @@
         "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=3295s"
     },
     {
-        "startTime": "00:55:04.000",
-        "finishTime": "00:55:17.000",
+        "startTime": "00:55:04",
+        "finishTime": "00:55:17",
         "site_ID": "214",
         "Caption": [
             {
@@ -3638,8 +3638,8 @@
         "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=3304s"
     },
     {
-        "startTime": "00:55:17.000",
-        "finishTime": "00:55:25.000",
+        "startTime": "00:55:17",
+        "finishTime": "00:55:25",
         "site_ID": "215",
         "Caption": [
             {
@@ -3655,8 +3655,8 @@
         "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=3317s"
     },
     {
-        "startTime": "00:55:25.000",
-        "finishTime": "00:55:35.000",
+        "startTime": "00:55:25",
+        "finishTime": "00:55:35",
         "site_ID": "216",
         "Caption": [
             {
@@ -3672,8 +3672,8 @@
         "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=3325s"
     },
     {
-        "startTime": "00:55:35.000",
-        "finishTime": "00:55:48.000",
+        "startTime": "00:55:35",
+        "finishTime": "00:55:48",
         "site_ID": "217",
         "Caption": [
             {
@@ -3689,8 +3689,8 @@
         "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=3335s"
     },
     {
-        "startTime": "00:55:48.000",
-        "finishTime": "00:56:03.000",
+        "startTime": "00:55:48",
+        "finishTime": "00:56:03",
         "site_ID": "218",
         "Caption": [
             {
@@ -3706,8 +3706,8 @@
         "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=3348s"
     },
     {
-        "startTime": "00:56:03.000",
-        "finishTime": "00:56:26.000",
+        "startTime": "00:56:03",
+        "finishTime": "00:56:26",
         "site_ID": "219",
         "Caption": [
             {
@@ -3723,8 +3723,8 @@
         "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=3363s"
     },
     {
-        "startTime": "00:56:26.000",
-        "finishTime": "00:56:37.000",
+        "startTime": "00:56:26",
+        "finishTime": "00:56:37",
         "site_ID": "220",
         "Caption": [
             {
@@ -3740,8 +3740,8 @@
         "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=3386s"
     },
     {
-        "startTime": "00:56:37.000",
-        "finishTime": "00:56:50.000",
+        "startTime": "00:56:37",
+        "finishTime": "00:56:50",
         "site_ID": "221",
         "Caption": [
             {
@@ -3757,8 +3757,8 @@
         "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=3397s"
     },
     {
-        "startTime": "00:56:50.000",
-        "finishTime": "00:57:01.000",
+        "startTime": "00:56:50",
+        "finishTime": "00:57:01",
         "site_ID": "222",
         "Caption": [
             {
@@ -3774,8 +3774,8 @@
         "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=3410s"
     },
     {
-        "startTime": "00:57:01.000",
-        "finishTime": "00:57:09.000",
+        "startTime": "00:57:01",
+        "finishTime": "00:57:09",
         "site_ID": "223",
         "Caption": [
             {
@@ -3791,8 +3791,8 @@
         "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=3421s"
     },
     {
-        "startTime": "00:57:09.000",
-        "finishTime": "00:57:26.000",
+        "startTime": "00:57:09",
+        "finishTime": "00:57:26",
         "site_ID": "224",
         "Caption": [
             {
@@ -3808,8 +3808,8 @@
         "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=3429s"
     },
     {
-        "startTime": "00:57:26.000",
-        "finishTime": "00:57:39.000",
+        "startTime": "00:57:26",
+        "finishTime": "00:57:39",
         "site_ID": "225",
         "Caption": [
             {
@@ -3825,8 +3825,8 @@
         "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=3446s"
     },
     {
-        "startTime": "00:57:39.000",
-        "finishTime": "00:57:50.000",
+        "startTime": "00:57:39",
+        "finishTime": "00:57:50",
         "site_ID": "226",
         "Caption": [
             {
@@ -3842,8 +3842,8 @@
         "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=3459s"
     },
     {
-        "startTime": "00:57:50.000",
-        "finishTime": "00:58:02.000",
+        "startTime": "00:57:50",
+        "finishTime": "00:58:02",
         "site_ID": "227",
         "Caption": [
             {
@@ -3859,8 +3859,8 @@
         "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=3470s"
     },
     {
-        "startTime": "00:58:02.000",
-        "finishTime": "00:58:16.000",
+        "startTime": "00:58:02",
+        "finishTime": "00:58:16",
         "site_ID": "228",
         "Caption": [
             {
@@ -3876,8 +3876,8 @@
         "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=3482s"
     },
     {
-        "startTime": "00:58:16.000",
-        "finishTime": "00:58:26.000",
+        "startTime": "00:58:16",
+        "finishTime": "00:58:26",
         "site_ID": "229",
         "Caption": [
             {
@@ -3893,8 +3893,8 @@
         "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=3496s"
     },
     {
-        "startTime": "00:58:26.000",
-        "finishTime": "00:58:34.000",
+        "startTime": "00:58:26",
+        "finishTime": "00:58:34",
         "site_ID": "230",
         "Caption": [
             {
@@ -3910,8 +3910,8 @@
         "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=3506s"
     },
     {
-        "startTime": "00:58:34.000",
-        "finishTime": "00:58:48.000",
+        "startTime": "00:58:34",
+        "finishTime": "00:58:48",
         "site_ID": "231",
         "Caption": [
             {
@@ -3927,8 +3927,8 @@
         "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=3514s"
     },
     {
-        "startTime": "00:58:48.000",
-        "finishTime": "00:58:57.000",
+        "startTime": "00:58:48",
+        "finishTime": "00:58:57",
         "site_ID": "232",
         "Caption": [
             {
@@ -3944,8 +3944,8 @@
         "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=3528s"
     },
     {
-        "startTime": "00:58:57.000",
-        "finishTime": "00:59:08.000",
+        "startTime": "00:58:57",
+        "finishTime": "00:59:08",
         "site_ID": "233",
         "Caption": [
             {
@@ -3961,8 +3961,8 @@
         "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=3537s"
     },
     {
-        "startTime": "00:59:08.000",
-        "finishTime": "00:59:22.000",
+        "startTime": "00:59:08",
+        "finishTime": "00:59:22",
         "site_ID": "234",
         "Caption": [
             {
@@ -3978,8 +3978,8 @@
         "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=3548s"
     },
     {
-        "startTime": "00:59:22.000",
-        "finishTime": "00:59:33.000",
+        "startTime": "00:59:22",
+        "finishTime": "00:59:33",
         "site_ID": "235",
         "Caption": [
             {
@@ -3995,8 +3995,8 @@
         "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=3562s"
     },
     {
-        "startTime": "00:59:33.000",
-        "finishTime": "00:59:40.000",
+        "startTime": "00:59:33",
+        "finishTime": "00:59:40",
         "site_ID": "236",
         "Caption": [
             {
@@ -4012,8 +4012,8 @@
         "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=3573s"
     },
     {
-        "startTime": "00:59:40.000",
-        "finishTime": "00:59:48.000",
+        "startTime": "00:59:40",
+        "finishTime": "00:59:48",
         "site_ID": "237",
         "Caption": [
             {
@@ -4029,8 +4029,8 @@
         "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=3580s"
     },
     {
-        "startTime": "00:59:48.000",
-        "finishTime": "00:59:59.000",
+        "startTime": "00:59:48",
+        "finishTime": "00:59:59",
         "site_ID": "238",
         "Caption": [
             {
@@ -4046,8 +4046,8 @@
         "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=3588s"
     },
     {
-        "startTime": "00:59:59.000",
-        "finishTime": "00:00:07.000",
+        "startTime": "00:59:59",
+        "finishTime": "00:00:07",
         "site_ID": "239",
         "Caption": [
             {
@@ -4063,8 +4063,8 @@
         "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=3599s"
     },
     {
-        "startTime": "01:00:07.000",
-        "finishTime": "01:00:24.000",
+        "startTime": "01:00:07",
+        "finishTime": "01:00:24",
         "site_ID": "240",
         "Caption": [
             {
@@ -4080,8 +4080,8 @@
         "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=3607s"
     },
     {
-        "startTime": "01:00:24.000",
-        "finishTime": "01:00:33.000",
+        "startTime": "01:00:24",
+        "finishTime": "01:00:33",
         "site_ID": "241",
         "Caption": [
             {
@@ -4097,8 +4097,8 @@
         "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=3624s"
     },
     {
-        "startTime": "01:00:33.000",
-        "finishTime": "01:00:42.000",
+        "startTime": "01:00:33",
+        "finishTime": "01:00:42",
         "site_ID": "242",
         "Caption": [
             {
@@ -4114,8 +4114,8 @@
         "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=3633s"
     },
     {
-        "startTime": "01:00:42.000",
-        "finishTime": "01:00:51.000",
+        "startTime": "01:00:42",
+        "finishTime": "01:00:51",
         "site_ID": "243",
         "Caption": [
             {
@@ -4131,8 +4131,8 @@
         "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=3642s"
     },
     {
-        "startTime": "01:00:51.000",
-        "finishTime": "01:00:59.000",
+        "startTime": "01:00:51",
+        "finishTime": "01:00:59",
         "site_ID": "244",
         "Caption": [
             {
@@ -4148,8 +4148,8 @@
         "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=3651s"
     },
     {
-        "startTime": "01:00:59.000",
-        "finishTime": "01:01:11.000",
+        "startTime": "01:00:59",
+        "finishTime": "01:01:11",
         "site_ID": "245",
         "Caption": [
             {
@@ -4165,8 +4165,8 @@
         "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=3659s"
     },
     {
-        "startTime": "01:01:11.000",
-        "finishTime": "01:01:20.000",
+        "startTime": "01:01:11",
+        "finishTime": "01:01:20",
         "site_ID": "246",
         "Caption": [
             {
@@ -4182,8 +4182,8 @@
         "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=3671s"
     },
     {
-        "startTime": "01:01:20.000",
-        "finishTime": "01:01:33.000",
+        "startTime": "01:01:20",
+        "finishTime": "01:01:33",
         "site_ID": "247",
         "Caption": [
             {
@@ -4199,8 +4199,8 @@
         "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=3680s"
     },
     {
-        "startTime": "01:01:33.000",
-        "finishTime": "01:01:52.000",
+        "startTime": "01:01:33",
+        "finishTime": "01:01:52",
         "site_ID": "248",
         "Caption": [
             {
@@ -4216,8 +4216,8 @@
         "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=3693s"
     },
     {
-        "startTime": "01:01:52.000",
-        "finishTime": "01:02:03.000",
+        "startTime": "01:01:52",
+        "finishTime": "01:02:03",
         "site_ID": "249",
         "Caption": [
             {
@@ -4233,8 +4233,8 @@
         "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=3712s"
     },
     {
-        "startTime": "01:02:03.000",
-        "finishTime": "01:02:14.000",
+        "startTime": "01:02:03",
+        "finishTime": "01:02:14",
         "site_ID": "250",
         "Caption": [
             {
@@ -4250,8 +4250,8 @@
         "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=3723s"
     },
     {
-        "startTime": "01:02:14.000",
-        "finishTime": "01:02:28.000",
+        "startTime": "01:02:14",
+        "finishTime": "01:02:28",
         "site_ID": "251",
         "Caption": [
             {
@@ -4267,8 +4267,8 @@
         "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=3734s"
     },
     {
-        "startTime": "01:02:28.000",
-        "finishTime": "01:02:40.000",
+        "startTime": "01:02:28",
+        "finishTime": "01:02:40",
         "site_ID": "252",
         "Caption": [
             {
@@ -4284,8 +4284,8 @@
         "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=3748s"
     },
     {
-        "startTime": "01:02:40.000",
-        "finishTime": "01:02:52.000",
+        "startTime": "01:02:40",
+        "finishTime": "01:02:52",
         "site_ID": "253",
         "Caption": [
             {
@@ -4301,8 +4301,8 @@
         "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=3760s"
     },
     {
-        "startTime": "01:02:52.000",
-        "finishTime": "01:03:04.000",
+        "startTime": "01:02:52",
+        "finishTime": "01:03:04",
         "site_ID": "254",
         "Caption": [
             {
@@ -4318,8 +4318,8 @@
         "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=3772s"
     },
     {
-        "startTime": "01:03:04.000",
-        "finishTime": "01:03:18.000",
+        "startTime": "01:03:04",
+        "finishTime": "01:03:18",
         "site_ID": "255",
         "Caption": [
             {
@@ -4335,8 +4335,8 @@
         "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=3784s"
     },
     {
-        "startTime": "01:03:18.000",
-        "finishTime": "01:03:31.000",
+        "startTime": "01:03:18",
+        "finishTime": "01:03:31",
         "site_ID": "256",
         "Caption": [
             {
@@ -4352,8 +4352,8 @@
         "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=3798s"
     },
     {
-        "startTime": "01:03:31.000",
-        "finishTime": "01:03:42.000",
+        "startTime": "01:03:31",
+        "finishTime": "01:03:42",
         "site_ID": "257",
         "Caption": [
             {
@@ -4369,8 +4369,8 @@
         "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=3811s"
     },
     {
-        "startTime": "01:03:42.000",
-        "finishTime": "01:03:52.000",
+        "startTime": "01:03:42",
+        "finishTime": "01:03:52",
         "site_ID": "258",
         "Caption": [
             {
@@ -4386,8 +4386,8 @@
         "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=3822s"
     },
     {
-        "startTime": "01:03:52.000",
-        "finishTime": "01:04:04.000",
+        "startTime": "01:03:52",
+        "finishTime": "01:04:04",
         "site_ID": "259",
         "Caption": [
             {
@@ -4403,8 +4403,8 @@
         "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=3832s"
     },
     {
-        "startTime": "01:04:04.000",
-        "finishTime": "01:04:14.000",
+        "startTime": "01:04:04",
+        "finishTime": "01:04:14",
         "site_ID": "260",
         "Caption": [
             {
@@ -4420,8 +4420,8 @@
         "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=3844s"
     },
     {
-        "startTime": "01:04:14.000",
-        "finishTime": "01:04:23.000",
+        "startTime": "01:04:14",
+        "finishTime": "01:04:23",
         "site_ID": "261",
         "Caption": [
             {
@@ -4437,8 +4437,8 @@
         "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=3854s"
     },
     {
-        "startTime": "01:04:23.000",
-        "finishTime": "01:04:33.000",
+        "startTime": "01:04:23",
+        "finishTime": "01:04:33",
         "site_ID": "262",
         "Caption": [
             {
@@ -4454,8 +4454,8 @@
         "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=3863s"
     },
     {
-        "startTime": "01:04:33.000",
-        "finishTime": "01:04:41.000",
+        "startTime": "01:04:33",
+        "finishTime": "01:04:41",
         "site_ID": "263",
         "Caption": [
             {
@@ -4471,8 +4471,8 @@
         "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=3873s"
     },
     {
-        "startTime": "01:04:41.000",
-        "finishTime": "01:04:50.000",
+        "startTime": "01:04:41",
+        "finishTime": "01:04:50",
         "site_ID": "264",
         "Caption": [
             {
@@ -4488,8 +4488,8 @@
         "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=3881s"
     },
     {
-        "startTime": "01:04:50.000",
-        "finishTime": "01:05:02.000",
+        "startTime": "01:04:50",
+        "finishTime": "01:05:02",
         "site_ID": "265",
         "Caption": [
             {
@@ -4505,8 +4505,8 @@
         "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=3890s"
     },
     {
-        "startTime": "01:05:02.000",
-        "finishTime": "01:05:12.000",
+        "startTime": "01:05:02",
+        "finishTime": "01:05:12",
         "site_ID": "266",
         "Caption": [
             {
@@ -4522,8 +4522,8 @@
         "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=3902s"
     },
     {
-        "startTime": "01:05:12.000",
-        "finishTime": "01:05:20.000",
+        "startTime": "01:05:12",
+        "finishTime": "01:05:20",
         "site_ID": "267",
         "Caption": [
             {
@@ -4539,8 +4539,8 @@
         "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=3912s"
     },
     {
-        "startTime": "01:05:20.000",
-        "finishTime": "01:05:28.000",
+        "startTime": "01:05:20",
+        "finishTime": "01:05:28",
         "site_ID": "268",
         "Caption": [
             {
@@ -4556,8 +4556,8 @@
         "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=3920s"
     },
     {
-        "startTime": "01:05:28.000",
-        "finishTime": "01:05:36.000",
+        "startTime": "01:05:28",
+        "finishTime": "01:05:36",
         "site_ID": "269",
         "Caption": [
             {
@@ -4573,8 +4573,8 @@
         "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=3928s"
     },
     {
-        "startTime": "01:05:36.000",
-        "finishTime": "01:05:43.000",
+        "startTime": "01:05:36",
+        "finishTime": "01:05:43",
         "site_ID": "270",
         "Caption": [
             {
@@ -4590,8 +4590,8 @@
         "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=3936s"
     },
     {
-        "startTime": "01:05:43.000",
-        "finishTime": "01:05:53.000",
+        "startTime": "01:05:43",
+        "finishTime": "01:05:53",
         "site_ID": "271",
         "Caption": [
             {
@@ -4607,8 +4607,8 @@
         "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=3943s"
     },
     {
-        "startTime": "01:05:53.000",
-        "finishTime": "01:06:08.000",
+        "startTime": "01:05:53",
+        "finishTime": "01:06:08",
         "site_ID": "272",
         "Caption": [
             {
@@ -4624,8 +4624,8 @@
         "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=3953s"
     },
     {
-        "startTime": "01:06:08.000",
-        "finishTime": "01:06:18.000",
+        "startTime": "01:06:08",
+        "finishTime": "01:06:18",
         "site_ID": "273",
         "Caption": [
             {
@@ -4641,8 +4641,8 @@
         "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=3968s"
     },
     {
-        "startTime": "01:06:18.000",
-        "finishTime": "01:06:34.000",
+        "startTime": "01:06:18",
+        "finishTime": "01:06:34",
         "site_ID": "274",
         "Caption": [
             {
@@ -4658,8 +4658,8 @@
         "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=3978s"
     },
     {
-        "startTime": "01:06:34.000",
-        "finishTime": "01:06:44.000",
+        "startTime": "01:06:34",
+        "finishTime": "01:06:44",
         "site_ID": "275",
         "Caption": [
             {
@@ -4675,8 +4675,8 @@
         "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=3994s"
     },
     {
-        "startTime": "01:06:44.000",
-        "finishTime": "01:06:55.000",
+        "startTime": "01:06:44",
+        "finishTime": "01:06:55",
         "site_ID": "276",
         "Caption": [
             {
@@ -4692,8 +4692,8 @@
         "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=4004s"
     },
     {
-        "startTime": "01:06:55.000",
-        "finishTime": "01:07:08.000",
+        "startTime": "01:06:55",
+        "finishTime": "01:07:08",
         "site_ID": "277",
         "Caption": [
             {
@@ -4709,8 +4709,8 @@
         "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=4015s"
     },
     {
-        "startTime": "01:07:08.000",
-        "finishTime": "01:07:21.000",
+        "startTime": "01:07:08",
+        "finishTime": "01:07:21",
         "site_ID": "278",
         "Caption": [
             {
@@ -4726,8 +4726,8 @@
         "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=4028s"
     },
     {
-        "startTime": "01:07:21.000",
-        "finishTime": "01:07:31.000",
+        "startTime": "01:07:21",
+        "finishTime": "01:07:31",
         "site_ID": "279",
         "Caption": [
             {
@@ -4743,8 +4743,8 @@
         "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=4041s"
     },
     {
-        "startTime": "01:07:31.000",
-        "finishTime": "01:07:46.000",
+        "startTime": "01:07:31",
+        "finishTime": "01:07:46",
         "site_ID": "280",
         "Caption": [
             {
@@ -4760,8 +4760,8 @@
         "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=4051s"
     },
     {
-        "startTime": "01:07:46.000",
-        "finishTime": "01:08:02.000",
+        "startTime": "01:07:46",
+        "finishTime": "01:08:02",
         "site_ID": "281",
         "Caption": [
             {
@@ -4777,8 +4777,8 @@
         "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=4066s"
     },
     {
-        "startTime": "01:08:02.000",
-        "finishTime": "01:08:14.000",
+        "startTime": "01:08:02",
+        "finishTime": "01:08:14",
         "site_ID": "282",
         "Caption": [
             {
@@ -4794,8 +4794,8 @@
         "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=4082s"
     },
     {
-        "startTime": "01:08:14.000",
-        "finishTime": "01:08:25.000",
+        "startTime": "01:08:14",
+        "finishTime": "01:08:25",
         "site_ID": "283",
         "Caption": [
             {
@@ -4811,8 +4811,8 @@
         "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=4094s"
     },
     {
-        "startTime": "01:08:25.000",
-        "finishTime": "01:08:42.000",
+        "startTime": "01:08:25",
+        "finishTime": "01:08:42",
         "site_ID": "284",
         "Caption": [
             {
@@ -4828,8 +4828,8 @@
         "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=4105s"
     },
     {
-        "startTime": "01:08:42.000",
-        "finishTime": "01:09:01.000",
+        "startTime": "01:08:42",
+        "finishTime": "01:09:01",
         "site_ID": "285",
         "Caption": [
             {
@@ -4845,8 +4845,8 @@
         "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=4122s"
     },
     {
-        "startTime": "01:09:01.000",
-        "finishTime": "01:09:12.000",
+        "startTime": "01:09:01",
+        "finishTime": "01:09:12",
         "site_ID": "286",
         "Caption": [
             {
@@ -4862,8 +4862,8 @@
         "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=4141s"
     },
     {
-        "startTime": "01:09:12.000",
-        "finishTime": "01:09:26.000",
+        "startTime": "01:09:12",
+        "finishTime": "01:09:26",
         "site_ID": "287",
         "Caption": [
             {
@@ -4879,8 +4879,8 @@
         "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=4152s"
     },
     {
-        "startTime": "01:09:26.000",
-        "finishTime": "01:09:43.000",
+        "startTime": "01:09:26",
+        "finishTime": "01:09:43",
         "site_ID": "288",
         "Caption": [
             {
@@ -4896,8 +4896,8 @@
         "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=4166s"
     },
     {
-        "startTime": "01:09:43.000",
-        "finishTime": "01:09:57.000",
+        "startTime": "01:09:43",
+        "finishTime": "01:09:57",
         "site_ID": "289",
         "Caption": [
             {
@@ -4913,8 +4913,8 @@
         "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=4183s"
     },
     {
-        "startTime": "01:09:57.000",
-        "finishTime": "01:10:08.000",
+        "startTime": "01:09:57",
+        "finishTime": "01:10:08",
         "site_ID": "290",
         "Caption": [
             {
@@ -4930,8 +4930,8 @@
         "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=4197s"
     },
     {
-        "startTime": "01:10:08.000",
-        "finishTime": "01:10:26.000",
+        "startTime": "01:10:08",
+        "finishTime": "01:10:26",
         "site_ID": "291",
         "Caption": [
             {
@@ -4947,8 +4947,8 @@
         "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=4208s"
     },
     {
-        "startTime": "01:10:26.000",
-        "finishTime": "01:10:44.000",
+        "startTime": "01:10:26",
+        "finishTime": "01:10:44",
         "site_ID": "292",
         "Caption": [
             {
@@ -4964,8 +4964,8 @@
         "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=4226s"
     },
     {
-        "startTime": "01:10:44.000",
-        "finishTime": "01:10:56.000",
+        "startTime": "01:10:44",
+        "finishTime": "01:10:56",
         "site_ID": "293",
         "Caption": [
             {
@@ -4981,8 +4981,8 @@
         "youtubeLink": "https://www.youtube.com/watch?v=4yygmmGyynw&t=4244s"
     },
     {
-        "startTime": "01:10:56.000",
-        "finishTime": "01:11:13.000",
+        "startTime": "01:10:56",
+        "finishTime": "01:11:13",
         "site_ID": "294",
         "Caption": [
             {

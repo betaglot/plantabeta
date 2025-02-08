@@ -40,7 +40,7 @@ TrenchPrep,RelatedToVium,LinearKontaktAlignment
 Road,RelatedToEkon,CompactSoil
 Road,RelatedToEkon,HardSoil
 Road,RelatedToEkon,CutBank
-Road,RelatedToErgon,CacheZone
+Road,RelatedToLabor,CacheZone
 Road,RelatedToVium,BagOutStartPoint
 Road,RelatedToVium,BagOutFinishPoint
 Road,RelatedToVium,Landmark
@@ -67,12 +67,12 @@ Precipitation,RelatedToEkon,Hidrosfera
 Precipitation,RelatedToVium,WastedMarka
 Precipitation,RelatedToMoove,ClothingLayering
 Wind,RelatedToEkon,DangerTree
-Wind,RelatedToErgon,WastedMarka
+Wind,RelatedToLabor,WastedMarka
 Wind,RelatedToMoove,AddShellLayer
-Abies,RelatedToErgon,HighMarka
+Abies,RelatedToLabor,HighMarka
 Abies,RelatedToVium,Obstacle
 Abies,RelatedToMoove,FloraMoove
-Picea,RelatedToErgon,WetSite
+Picea,RelatedToLabor,WetSite
 Picea,RelatedToAtlete,SpruceRash
 Tsuga,RelatedToEkon,Pseudotsuga
 Tsuga,RelatedToEkon,Flora
@@ -85,7 +85,7 @@ BurntLand,RelatedToEkon,DangerTree
 Log,RelatedToVium,Obstacle
 RiparianZone,RelatedToEkon,Raw
 RiparianZone,RelatedToEkon,Hidrosfera
-RiparianZone,RelatedToErgon,BorderMarka
+RiparianZone,RelatedToLabor,BorderMarka
 RiparianZone,RelatedToMoove,FloraMoove
 BurnPileSlash,RelatedToVium,Obstacle
 HighSlash,RelatedToVium,Obstacle
@@ -96,10 +96,10 @@ LowSlash,RelatedToMoove,StepOver
 WetSlash,RelatedToEkon,Precipitation
 WetSlash,RelatedToEkon,Coastal
 WetSlash,RelatedToEkon,BarkPeel
-WetSlash,RelatedToErgon,BootSpike
+WetSlash,RelatedToLabor,BootSpike
 WetSlash,RelatedToMoove,BaseSlip
 WetSlash,RelatedToMoove,Fall
-Stump,RelatedToErgon,SiteProtection
+Stump,RelatedToLabor,SiteProtection
 Stump,RelatedToMoove,StumpPrySkreef
 Stump,RelatedToMoove,Sit
 Stump,RelatedToMoove,SpadeExcalibur
@@ -109,11 +109,11 @@ Helios,RelatedToAtlete,SunBurn
 Helios,RelatedToMoove,HatMoove
 Helios,RelatedToEkon,Shadow
 Helios,RelatedToPsike,Mood
-Helios,RelatedToErgon,EvaporateClothes
+Helios,RelatedToLabor,EvaporateClothes
 Helios,RelatedToEkon,EvaporateFlora
 Helios,RelatedToEkon,HotRock
-Helios,RelatedToErgon,Hat
-Helios,RelatedToErgon,Sunscreen
+Helios,RelatedToLabor,Hat
+Helios,RelatedToLabor,Sunscreen
 Helios,RelatedToEkon,Rainbow
 Helios,RelatedToEkon,Sunrise
 Helios,RelatedToEkon,Sunset
@@ -124,15 +124,15 @@ Puddle,RelatedToMoove,PeriLine
 Puddle,RelatedToMoove,OverLine
 RockCap,RelatedToVium,Obstacle
 DrySoil,RelatedToEkon,Road
-DrySoil,RelatedToErgon,LooseDendron
+DrySoil,RelatedToLabor,LooseDendron
 IceSoil,RelatedToEkon,AirTemperature
 IceSoil,RelatedToEkon,BlockAltitude
-Snow,RelatedToErgon,SnowDay
+Snow,RelatedToLabor,SnowDay
 IceSoil,RelatedToVium,Obstacle
 ClaySoil,RelatedToMoove,SpadePurga
 CobbleSoil,RelatedToMoove,RockSkreef
-RubbleSoil,RelatedToErgon,TrenchPrep
-RubbleSoil,RelatedToErgon,LooseDendron
+RubbleSoil,RelatedToLabor,TrenchPrep
+RubbleSoil,RelatedToLabor,LooseDendron
 RubbleSoil,RelatedToVium,Obstacle
 RubbleSoil,RelatedToMoove,RockSkreef
 SandSoil,RelatedToEkon,UnstableSlope
@@ -142,7 +142,7 @@ SiltSoil,RelatedToEkon,CreamSoil
 SiltSoil,RelatedToMoove,SoilCompress
 RedRotSoil,RelatedToVium,Obstacle
 RedRotSoil,RelatedToMoove,RedRotSkreef
-RedRotSoil,RelatedToErgon,SoilFault
+RedRotSoil,RelatedToLabor,SoilFault
 RedRotSoil,RelatedToPsike,SoilIdentification
 WetSoil,RelatedToMoove,SlapKlose
 DiscernSigns,RelatedToVium,KompletedZone
@@ -171,41 +171,41 @@ BaseDig,RelatedToMoove,HeelKontakt
 BaseDorsiflexion,RelatedToMoove,BaseDig
 TeamBeta,RelatedToMoove,Pause
 EkoError,RelatedToEkon,OverlappingTrench
-Antrosfera,RelatedToErgon,WastedMarka
+Antrosfera,RelatedToLabor,WastedMarka
 BurnPit,RelatedToEkon,Quicksand
 MoundPrep,RelatedToMoove,Straddle
 Prep,RelatedToEkon,Stickmat
 SkreefPrep,RelatedToEkon,RubbleSoil
 TrenchPrep,RelatedToEkon,MoundPrep
 TrenchPrep,RelatedToEkon,SkreefPrep
-TrenchPrep,RelatedToErgon,TrenchSite
-Road,RelatedToErgon,DayStart
-Road,RelatedToErgon,DayFinish,"Finish your day on a road"
-AirTemperature,RelatedToErgon,TimeOfYear,"Independently of Altitude, the spring is has a colder air temperature than summer"
+TrenchPrep,RelatedToLabor,TrenchSite
+Road,RelatedToLabor,DayStart
+Road,RelatedToLabor,DayFinish,"Finish your day on a road"
+AirTemperature,RelatedToLabor,TimeOfYear,"Independently of Altitude, the spring is has a colder air temperature than summer"
 Humidity,RelatedToEkon,Cloud,"It's maximum humidity when you're in a cloud"
 Atmosfera,RelatedToEkon,Smoke,"Wildfire Smoke can be from far away, but it can still hurt your lungs"
-Precipitation,RelatedToErgon,KitError,"Kit which isn't waterproofed, or "
+Precipitation,RelatedToLabor,KitError,"Kit which isn't waterproofed, or "
 Wind,RelatedToEkon,DangerTree
-Abies,RelatedToErgon,HighMarka
-Larix,RelatedToErgon,SiteMarka,"You can't see Larix easily, since they are usually just sticks without needles"
+Abies,RelatedToLabor,HighMarka
+Larix,RelatedToLabor,SiteMarka,"You can't see Larix easily, since they are usually just sticks without needles"
 Abies,RelatedToMoove,MarkaWeave,"Weave a Marka through the needles"
 Abies,RelatedToMoove,MarkaWeave,"Wrap the top of an Abies which is shoulder height"
 Dendron,RelatedToMoove,DendroMano
-Picea,RelatedToErgon,WetSite
-Pinus,RelatedToErgon,NoSkreefSite
-Pseudotsuga,RelatedToEkon,Abies,"DouglasFir looks like Abies, which is confusing since Abies is Flora, but Pseudotsuga is a Ergon"
+Picea,RelatedToLabor,WetSite
+Pinus,RelatedToLabor,NoSkreefSite
+Pseudotsuga,RelatedToEkon,Abies,"DouglasFir looks like Abies, which is confusing since Abies is Flora, but Pseudotsuga is a Labor"
 Quercus,RelatedToEkon,Ontario,"Oak is planted in Ontario, but not BC"
 Thuja,RelatedToEkon,Stickmat
-Tsuga,RelatedToErgon,Pseudotsuga,"Hemlock looks like DouglasFir and is sometimes a CropTree"
+Tsuga,RelatedToLabor,Pseudotsuga,"Hemlock looks like DouglasFir and is sometimes a CropTree"
 Fauna,RelatedToPsike,Fear,"Bears are scary"
-Bryophyta,RelatedToErgon,NoSkreefSite
-BurntLand,RelatedToErgon,NoSkreefSite
+Bryophyta,RelatedToLabor,NoSkreefSite
+BurntLand,RelatedToLabor,NoSkreefSite
 CropTree,RelatedToVium,DripLineLimit
-Flower,RelatedToErgon,MarkaError,"Fireweed, Lupine, and Paintbrush look like Marka"
-Log,RelatedToErgon,SiteProtection
+Flower,RelatedToLabor,MarkaError,"Fireweed, Lupine, and Paintbrush look like Marka"
+Log,RelatedToLabor,SiteProtection
 Flora,RelatedToPsike,Color
 Poales,RelatedToMoove,SpadeSkreef
-RiparianZone,RelatedToErgon,SlipSite
+RiparianZone,RelatedToLabor,SlipSite
 BurnPileSlash,RelatedToEkon,SlashCollapse
 HighSlash,RelatedToVium,Limit
 LowSlash,RelatedToVium,OverLine
@@ -215,7 +215,7 @@ Stump,RelatedToVium,ObstacleFill
 Flat,
 Incline,
 Valley,RelatedToEkon,MovingWater
-Helios,RelatedToErgon,Sunglasses
+Helios,RelatedToLabor,Sunglasses
 GroundWater,RelatedToEkon,WetSoil
 MovingWater,RelatedToVium,Obstacle
 Pond,RelatedToVium,PeriLine
@@ -238,14 +238,14 @@ HumicSoil,
 MesicSoil,
 WoodySoil,
 SubjectiveSoil,RelatedToEkon,CreamSoil
-WetSoil,RelatedToErgon,WetSite
+WetSoil,RelatedToLabor,WetSite
 WetSoil,RelatedToMoove,SpadePurga
 FloraDensity,RelatedToMoove,FloraPassage
-FloraDensity,RelatedToErgon,WetClothes
-FloraDensity,RelatedToErgon,FillPlant
+FloraDensity,RelatedToLabor,WetClothes
+FloraDensity,RelatedToLabor,FillPlant
 FloraDensity,RelatedToMoove,SkreefMoove
 DiscernSigns,
-Tracking,RelatedToErgon,Deadwalking
+Tracking,RelatedToLabor,Deadwalking
 AnteriorDirection,
 DistalDirection,
 LateralDirection,
