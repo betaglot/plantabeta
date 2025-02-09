@@ -1,4 +1,4 @@
-# 🔷<beta>DirectionMedial</beta>
+# 👷‍♀️<plantor>ZoneLateral</plantor>
 
 ---
 

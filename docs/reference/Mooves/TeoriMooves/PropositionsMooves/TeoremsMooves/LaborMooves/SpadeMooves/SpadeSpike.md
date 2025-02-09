@@ -2,7 +2,7 @@
 
 Aliases: SpadeSlam, SpadeThrow, SpadeChop
 
-![MooveIkon](/BetaIkon/Mooves_Ikon.png)
+![MooveIkon](/BetaIkon/Mooves_Ikon.png)E
 
 ## 🕸 SpadeSpike.Skema
 
