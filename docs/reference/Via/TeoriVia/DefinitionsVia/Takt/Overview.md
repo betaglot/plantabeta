@@ -31,6 +31,28 @@ Aliases: Contact point, Contact surface
 <!-- =================================================== -->
 ::: details 🛠 <dev>&&&</dev>
 
+- (EkosTakt = (Material)x(Orientation)x(Wet,Dry))
+    - Material
+        - Soil
+            - LooseSoil
+            - SiltSoil
+            - RedRotSoil
+            - BoulderSoil
+            - CobbleSoil
+            - RubbleSoil
+            - SandSoil
+            - ClaySoil
+        - Rock
+        - Flora
+            - Moss
+            - Root
+            - Leave
+            - Bark
+            - Branch
+    - Orientation
+        - Inclined
+        - Horizontal
+
 - Tactile
 - All Takts emit sound
 - Takts are not necessarily contiguous, like stepping stones

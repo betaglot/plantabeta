@@ -1,4 +1,4 @@
-# 🔻<via>KompletionTeorem</via>
+# ⭐<labors>Demobeta</labors>
 
 ---
 
@@ -9,7 +9,6 @@
 <!-- =================================================== -->
 ::: details 🛠 <dev>&&&</dev>
 
-- KompletaZone
-- KompletaLine
+-
 
 :::
