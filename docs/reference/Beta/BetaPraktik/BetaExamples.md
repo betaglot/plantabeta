@@ -20,7 +20,7 @@
 
 🔻<via>"back to the cache": ViaFinishPoint</via>
 
-## 🔷<beta>"<via>Kompleta</via> the <ekos>wet areas</ekos> with <ekos>spruce</ekos>, you don't need to <mooves>skreef</mooves> in the <ekos>riparian areas</ekos>"</beta>
+## 🔷<beta>"<via>Kompleta</via> the <ekos>wet areas</ekos> with <labor>spruce</labor>, you don't need to <mooves>skreef</mooves> in the <ekos>riparian areas</ekos>"</beta>
 
 🔻<via>"Fill": Cover</via>
 
@@ -28,7 +28,7 @@
 
 💜<psike>"don't need to": NOT</psike>
 
-🟩<ekos>"spruce": Dendron</ekos>
+⭐<labors>"spruce": Neon</labors>
 
 🟠<mooves>"skreef": SkreefMoove</mooves>
 

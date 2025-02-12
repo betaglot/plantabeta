@@ -37,8 +37,8 @@
     - Kontakt with Palm instead of Purlicue
 - Sinkron(BaseSkreef)
     - To Support UpperBody during BaseSkreef
-- Sinkron(DendronInsert)
-    - BrazoEccentric(Flexion, Elevation) to support Korpo during DendronInsert
+- Sinkron(NeonInsert)
+    - BrazoEccentric(Flexion, Elevation) to support Korpo during NeonInsert
 - ManoHandleCompress
 - SpadeAnteriorAma
 - SpadePosteriorAma

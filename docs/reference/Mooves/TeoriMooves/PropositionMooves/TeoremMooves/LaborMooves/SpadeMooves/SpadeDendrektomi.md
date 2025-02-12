@@ -1,6 +1,6 @@
-# 🟠<mooves>SpadeDendrektomi</mooves>
+# 🟠<mooves>SpadeNeonektomi</mooves>
 
-## 🕸 SpadeDendrektomi.Skema
+## 🕸 SpadeNeonektomi.Skema
 
 ### Related 🟩<ekos>Eko</ekos>
 
@@ -27,7 +27,7 @@
 <!-- =================================================== -->
 ::: details 🛠 <dev>&&&</dev>
 
-- Use a Spade to remove a Dendron which has already been planted
+- Use a Spade to remove a Neon which has already been planted
     - To modify density
 
 :::

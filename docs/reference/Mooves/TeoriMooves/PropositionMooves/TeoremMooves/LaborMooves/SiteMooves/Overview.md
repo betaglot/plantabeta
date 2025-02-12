@@ -31,7 +31,7 @@
 <!-- =================================================== -->
 ::: details 🛠 <dev>&&&</dev>
 
-- Dendrosite is a PlantedSite. There is a Dendron in the Site
+- NeonSite is a PlantedSite. There is a Neon in the Site
 
 - SiteDepth_BareRoot_DeepSite
 - SiteDepth_RelativeDepth_TreePodLength

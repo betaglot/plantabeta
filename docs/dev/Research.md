@@ -30,7 +30,7 @@
 - Where did the term 'skreef' come from?
 - Where did the term 'duff' come from?
 - Are planting tubes more efficient than spades?
-- Globally, how many Dendrons survive to their 10th year?
+- Globally, how many Neon survive to their 10th year?
 - Are there countries that don't plant trees?
 - How is bamboo planted?
 - What is the median depth of a pine tree roots in optimal soil?
@@ -39,7 +39,7 @@
 - How many Plantors live in motels during their season in Canada?
 - By law,is there a first and last day of the planting season?  
 - How can bundle wrappers be made out of bioplastics?
-- How can Dendron trays be constructed with bioplastics?
+- How can Neon trays be constructed with bioplastics?
 - Are tree boxes recycled by every planting company?
 - How many times can an undamaged tree box be reused?
 - How much wax does it take to cover a tree box?

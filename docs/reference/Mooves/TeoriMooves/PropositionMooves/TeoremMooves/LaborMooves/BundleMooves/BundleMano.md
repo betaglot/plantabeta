@@ -27,6 +27,6 @@
 <!-- =================================================== -->
 ::: details 🛠 <dev>&&&</dev>
 
-- Mano the Wrapper to avoid pulling out a Dendron
+- Mano the Wrapper to avoid pulling out a Neon
 
 :::

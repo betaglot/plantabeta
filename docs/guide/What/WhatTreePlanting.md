@@ -9,7 +9,7 @@ sidebar: false
 
 ![InstaPhoto033](/InstaPhoto033.jpg)
 
-Every year millions of tree Dendrons are planted across Canada. As shown in the image above, the Plantor finds a suitable place to plant a Dendron, then uses a spade to open holes for the Dendron to be inserted, then the Plantor closes the hole and the cycle repeats thousands of times each day.  
+Every year millions of tree Neons are planted across Canada. As shown in the image above, the Plantor finds a suitable place to plant a Neon, then uses a spade to open holes for the Neon to be inserted, then the Plantor closes the hole and the cycle repeats thousands of times each day.  
 
 Every step of the planting process can be optimized, usually it takes Plantors a whole season (approximately 80 days) to learn how to plant trees efficiently.  
 
@@ -31,7 +31,7 @@ Ontario woman goes viral for planting more than 4,500 trees in a day
 
 - <https://www.cbc.ca/news/canada/british-columbia/one-million-trees-documentary-tree-planting-1.5791939>
 
-Forestry sector scrambles to recruit tree Plantors to sow millions — perhaps billions — more Dendrons
+Forestry sector scrambles to recruit tree Plantors to sow millions — perhaps billions — more Neons
 
 - <https://www.cbc.ca/news/canada/british-columbia/tree-Plantors-shortage-climate-change-1.5170853>
 
@@ -62,7 +62,7 @@ The current record is held by [Antoine Moses](https://www.instagram.com/antomosp
 <!--  -->
 ::: details How big are the trees?
 
-Dendron
+Neon
 
 ![InstaPhoto025](/InstaPhoto025.jpeg)
 
@@ -92,7 +92,7 @@ Dendron
 <!--  -->
 ::: details What types of Trees are planted?
 
-The three main types of Dendrons which are planted are:
+The three main types of Neons which are planted are:
 
 ## Pine
 

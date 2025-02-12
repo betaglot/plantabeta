@@ -69,7 +69,7 @@ Wax to waterproof
 
 ## 🟠<mooves>DendroforDev</mooves>
 
-Hold the thing that holds the dendron
+Hold the thing that holds the Neon
 
 Clamp under wrist to allow
 

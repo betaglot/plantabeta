@@ -27,13 +27,15 @@
 <!-- =================================================== -->
 ::: details 🛠 <dev>&&&</dev>
 
+- <https://www2.gov.bc.ca/assets/gov/farming-natural-resources-and-industry/forestry/silviculture/micrositeselection_informedplanter.pdf>
+
 - Macrosite
 - Microsite
 
 - Obstacle for Cows
 
     - An object which cows avoid stepping near.
-    - Proctects the Dendron from Cows
+    - Proctects the Neon from Cows
     - Cows physically can step anywhere, but they choose not to. Comfort
     - A stump is an obstacle for cows but not for plantors.
 

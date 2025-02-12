@@ -1,4 +1,4 @@
-# PutPlant's Value
+# PlantaBeta's Value
 
 ## How does PlantaBeta provide Value to Plantors?
 
@@ -115,7 +115,7 @@
 
 ### Increases Quality
 
-- Increases the quality of the planted Dendrons.
+- Increases the quality of the planted Neons.
 - Increases the ability of Plantors.
 
 ---

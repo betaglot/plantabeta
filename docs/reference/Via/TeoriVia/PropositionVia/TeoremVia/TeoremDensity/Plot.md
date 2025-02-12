@@ -2,9 +2,9 @@
 
 > The area of the circle who's radius is created by a plot cord of a given length, usually 4 meters
 
-You Plot EcoDensity, not ViaDensity. ViaDensity is the density of planned Microsites, while EcoDensity is the density of planted Dendrons
+You Plot EcoDensity, not ViaDensity. ViaDensity is the density of planned Microsites, while EcoDensity is the density of planted Neons
 
-A plot is almost always a circle, some checkers implement the plot as a sphere. When the Plot is a Sphere then Dendrons can be closer together on slopes.
+A plot is almost always a circle, some checkers implement the plot as a sphere. When the Plot is a Sphere then Neons can be closer together on slopes.
 
 ## Circle
 
@@ -48,7 +48,7 @@ SemiPlot
 - Plot.Limit == Circumference
 - PaperPhoto([3115,3116,3117,3118,3119,3120,3166,3167,3168])
 - PlotDiameter == 8m
-- Dendron in center
+- Neon in center
 - IrregularSiteDistribution
     - Site are not equally spaced
     - Cluster
@@ -81,6 +81,6 @@ SemiPlot
 - FinishMoove
 - How to scan?
 - UnplantableZone
-- NeoSite count relative to DendroSite
+- NeoSite count relative to NeonSite
 - PanBeta(What is the Plot of Klimbeta?)
 :::
