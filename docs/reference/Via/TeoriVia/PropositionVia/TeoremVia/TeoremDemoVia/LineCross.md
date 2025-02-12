@@ -1,4 +1,4 @@
-# 🔻 <via>CrossingKompleta</via>
+# 🔻 <via>CrossingPlan</via>
 
 ![ViaIkon](/BetaIkon/Via_Ikon.png)
 

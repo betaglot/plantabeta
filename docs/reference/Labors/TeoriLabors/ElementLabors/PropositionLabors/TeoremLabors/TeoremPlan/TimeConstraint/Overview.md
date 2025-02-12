@@ -1,10 +1,10 @@
-# 🔻 <via>BouncingPlan</via>
+# 🔻<via>PlanTimeConstraint</via>
 
-## 2PlantorBounceFill
+After a BlockMoove you are given a piece and you only have 70 minutes before DayFinishTime
 
-## 3PlantorBounceFill
+- Prepare for Tomorrow
 
-![ViaIkon](/BetaIkon/Via_Ikon.png)
+- Cream it out because you're tired
 
 ---
 
@@ -15,7 +15,6 @@
 <!-- =================================================== -->
 ::: details 🛠 <dev>&&&</dev>
 
-- Don't bounce in concave corners
-    - Bounce before to give the plantor in the corner space for a few trees while turning around
+-
 
 :::

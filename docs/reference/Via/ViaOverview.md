@@ -138,6 +138,7 @@ Directions
 <!-- =================================================== -->
 ::: details 🛠 <dev>&&&</dev>
 
+- All Viums require Affordance
 - Near is a Quality not a Quantity
 - Ambulance drivers are masters of via
 - IsochroneMap

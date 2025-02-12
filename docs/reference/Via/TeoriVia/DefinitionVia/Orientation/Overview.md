@@ -1,10 +1,4 @@
-# 🔻 <via>BouncingPlan</via>
-
-## 2PlantorBounceFill
-
-## 3PlantorBounceFill
-
-![ViaIkon](/BetaIkon/Via_Ikon.png)
+# 🔻<via>Orientation</via>
 
 ---
 
@@ -15,7 +9,8 @@
 <!-- =================================================== -->
 ::: details 🛠 <dev>&&&</dev>
 
-- Don't bounce in concave corners
-    - Bounce before to give the plantor in the corner space for a few trees while turning around
+- A Slope isn't an Orientation, like how a "Cliff" isn't either.
+    - Landform
+    - A dune isn't the same as a flat land which is inclined. The soil is stacked. Gravity isn't perpendicular to surface of a slope, which makes the surficial material act differently than a flat surface.
 
 :::

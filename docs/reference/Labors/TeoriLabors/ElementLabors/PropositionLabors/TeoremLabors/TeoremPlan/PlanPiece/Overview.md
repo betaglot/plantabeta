@@ -1,10 +1,22 @@
-# 🔻 <via>BouncingPlan</via>
+# 🔻<via>ZonePlan</via>
 
-## 2PlantorBounceFill
+## 🕸 ZoneFill.Skema
 
-## 3PlantorBounceFill
+### Related 🟩<ekos>Eko</ekos>
 
-![ViaIkon](/BetaIkon/Via_Ikon.png)
+-
+
+### Related 🔻<via>Via</via>
+
+-
+
+### Related 🟠<mooves>Moove</mooves>
+
+-
+
+### Related 💜<psike>Psike</psike>
+
+-
 
 ---
 
@@ -15,7 +27,8 @@
 <!-- =================================================== -->
 ::: details 🛠 <dev>&&&</dev>
 
-- Don't bounce in concave corners
-    - Bounce before to give the plantor in the corner space for a few trees while turning around
+- What line did you take to plant this zone?
+- What was your line through this zone?
+- What line did you use to cover this zone?
 
 :::

@@ -3068,7 +3068,7 @@
             fill="currentColor">BetaDifficulty</text>
         <text transform="rotate(-65.2885018193978) translate(875.5555555555555,0) rotate(0)"
             dy="0.31em" x="6" text-anchor="start" paint-order="stroke" stroke="white"
-            fill="currentColor">BetaKompletion</text>
+            fill="currentColor">BetaPlan</text>
         <text transform="rotate(-64.43638119248047) translate(875.5555555555555,0) rotate(0)"
             dy="0.31em" x="6" text-anchor="start" paint-order="stroke" stroke="white"
             fill="currentColor">Betomiks</text>
@@ -3464,7 +3464,7 @@
             fill="currentColor">Instrument</text>
         <text transform="rotate(-2.3411337938341887) translate(1094.4444444444443,0) rotate(0)"
             dy="0.31em" x="6" text-anchor="start" paint-order="stroke" stroke="white"
-            fill="currentColor">Kompletion</text>
+            fill="currentColor">Plan</text>
         <text transform="rotate(8.485532171498605) translate(1094.4444444444443,0) rotate(0)"
             dy="0.31em" x="6" text-anchor="start" paint-order="stroke" stroke="white"
             fill="currentColor">LaborsProblem</text>
@@ -3620,7 +3620,7 @@
             fill="currentColor">DisplacementTeorem</text>
         <text transform="rotate(248.71727291342216) translate(1094.4444444444443,0) rotate(180)"
             dy="0.31em" x="-6" text-anchor="end" paint-order="stroke" stroke="white"
-            fill="currentColor">KompletionTeorem</text>
+            fill="currentColor">PlanTeorem</text>
         <text transform="rotate(249.7114136448257) translate(1094.4444444444443,0) rotate(180)"
             dy="0.31em" x="6" text-anchor="start" paint-order="stroke" stroke="white"
             fill="currentColor">KontaktTeorem</text>
@@ -3839,7 +3839,7 @@
             fill="currentColor">LaborsZone</text>
         <text transform="rotate(12.917235717680512) translate(1313.3333333333333,0) rotate(0)"
             dy="0.31em" x="-6" text-anchor="end" paint-order="stroke" stroke="white"
-            fill="currentColor">KompletaTeorem</text>
+            fill="currentColor">PlanTeorem</text>
         <text transform="rotate(13.485316135625382) translate(1313.3333333333333,0) rotate(0)"
             dy="0.31em" x="6" text-anchor="start" paint-order="stroke" stroke="white"
             fill="currentColor">Synergy</text>
@@ -4175,16 +4175,16 @@
             fill="currentColor">ModifySiteDensity</text>
         <text transform="rotate(11.852084934033854) translate(1532.2222222222222,0) rotate(0)"
             dy="0.31em" x="6" text-anchor="start" paint-order="stroke" stroke="white"
-            fill="currentColor">ObstacleKompleta</text>
+            fill="currentColor">ObstaclePlan</text>
         <text transform="rotate(12.491175404221849) translate(1532.2222222222222,0) rotate(0)"
             dy="0.31em" x="-6" text-anchor="end" paint-order="stroke" stroke="white"
-            fill="currentColor">TeamKompleta</text>
+            fill="currentColor">TeamPlan</text>
         <text transform="rotate(13.556326187868493) translate(1532.2222222222222,0) rotate(0)"
             dy="0.31em" x="6" text-anchor="start" paint-order="stroke" stroke="white"
             fill="currentColor">TimeConstraint</text>
         <text transform="rotate(14.621476971515136) translate(1532.2222222222222,0) rotate(0)"
             dy="0.31em" x="-6" text-anchor="end" paint-order="stroke" stroke="white"
-            fill="currentColor">ZoneKompleta</text>
+            fill="currentColor">ZonePlan</text>
         <text transform="rotate(15.595329116563505) translate(1532.2222222222222,0) rotate(0)"
             dy="0.31em" x="6" text-anchor="start" paint-order="stroke" stroke="white"
             fill="currentColor">BaseAbduction</text>
@@ -5036,28 +5036,28 @@
             fill="currentColor">IncreaseSiteDensity</text>
         <text transform="rotate(12.278145247492517) translate(1751.111111111111,0) rotate(0)"
             dy="0.31em" x="6" text-anchor="start" paint-order="stroke" stroke="white"
-            fill="currentColor">BouncingKompleta</text>
+            fill="currentColor">BouncingPlan</text>
         <text transform="rotate(12.704205560951166) translate(1751.111111111111,0) rotate(0)"
             dy="0.31em" x="6" text-anchor="start" paint-order="stroke" stroke="white"
-            fill="currentColor">CrossingKompleta</text>
+            fill="currentColor">CrossingPlan</text>
         <text transform="rotate(13.556326187868493) translate(1751.111111111111,0) rotate(0)"
             dy="0.31em" x="6" text-anchor="start" paint-order="stroke" stroke="white"
-            fill="currentColor">ApogeeKompletion</text>
+            fill="currentColor">ApogeePlan</text>
         <text transform="rotate(13.982386501327156) translate(1751.111111111111,0) rotate(0)"
             dy="0.31em" x="6" text-anchor="start" paint-order="stroke" stroke="white"
-            fill="currentColor">DivKompleta</text>
+            fill="currentColor">DivPlan</text>
         <text transform="rotate(14.40844681478579) translate(1751.111111111111,0) rotate(0)"
             dy="0.31em" x="6" text-anchor="start" paint-order="stroke" stroke="white"
-            fill="currentColor">OpenEndedKompleta</text>
+            fill="currentColor">OpenEndedPlan</text>
         <text transform="rotate(14.834507128244482) translate(1751.111111111111,0) rotate(0)"
             dy="0.31em" x="6" text-anchor="start" paint-order="stroke" stroke="white"
-            fill="currentColor">ParaBorderKompleta</text>
+            fill="currentColor">ParaBorderPlan</text>
         <text transform="rotate(15.260567441703117) translate(1751.111111111111,0) rotate(0)"
             dy="0.31em" x="6" text-anchor="start" paint-order="stroke" stroke="white"
-            fill="currentColor">PerimeterKompleta</text>
+            fill="currentColor">PerimeterPlan</text>
         <text transform="rotate(15.68662775516178) translate(1751.111111111111,0) rotate(0)"
             dy="0.31em" x="6" text-anchor="start" paint-order="stroke" stroke="white"
-            fill="currentColor">StraigtenKompleta</text>
+            fill="currentColor">StraigtenPlan</text>
         <text transform="rotate(20.43415696227254) translate(1751.111111111111,0) rotate(0)"
             dy="0.31em" x="6" text-anchor="start" paint-order="stroke" stroke="white"
             fill="currentColor">ArchDragKlose</text>

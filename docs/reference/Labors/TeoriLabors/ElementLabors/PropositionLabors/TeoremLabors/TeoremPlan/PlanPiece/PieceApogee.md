@@ -1,10 +1,6 @@
-# 🔻 <via>BouncingPlan</via>
+# 🔻 <via>ApogeePlan</via>
 
-## 2PlantorBounceFill
-
-## 3PlantorBounceFill
-
-![ViaIkon](/BetaIkon/Via_Ikon.png)
+Aliases: BackFilling
 
 ---
 
@@ -15,7 +11,7 @@
 <!-- =================================================== -->
 ::: details 🛠 <dev>&&&</dev>
 
-- Don't bounce in concave corners
-    - Bounce before to give the plantor in the corner space for a few trees while turning around
+1. Use a ParaPerimeterLine for the first bag up
+2.
 
 :::

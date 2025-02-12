@@ -196,8 +196,8 @@
         "Namespace": "reference/Beta/BetaTeori/BetaPropositions/BetaDifficulty"
     },
     {
-        "ElementName": "BetaKompletion",
-        "Namespace": "reference/Beta/BetaTeori/BetaPropositions/BetaKompletion"
+        "ElementName": "BetaPlan",
+        "Namespace": "reference/Beta/BetaTeori/BetaPropositions/BetaPlan"
     },
     {
         "ElementName": "Flux",
@@ -528,8 +528,8 @@
         "Namespace": "reference/Labors/TeoriLabors/ElementsLabors/DefinitionsLabors/Instrument/Tibior/TibiorTakts"
     },
     {
-        "ElementName": "Kompletion",
-        "Namespace": "reference/Labors/TeoriLabors/ElementsLabors/DefinitionsLabors/Kompletion"
+        "ElementName": "Plan",
+        "Namespace": "reference/Labors/TeoriLabors/ElementsLabors/DefinitionsLabors/Plan"
     },
     {
         "ElementName": "Marka",
@@ -624,28 +624,28 @@
         "Namespace": "reference/Labors/TeoriLabors/ElementsLabors/PropositionsLabors/TeoremLabors/Simbeta"
     },
     {
-        "ElementName": "TeoremKompleta",
-        "Namespace": "reference/Labors/TeoriLabors/ElementsLabors/PropositionsLabors/TeoremLabors/TeoremKompleta"
+        "ElementName": "TeoremPlan",
+        "Namespace": "reference/Labors/TeoriLabors/ElementsLabors/PropositionsLabors/TeoremLabors/TeoremPlan"
     },
     {
-        "ElementName": "KompletaZone",
-        "Namespace": "reference/Labors/TeoriLabors/ElementsLabors/PropositionsLabors/TeoremLabors/TeoremKompleta/KompletaZone"
+        "ElementName": "PlanZone",
+        "Namespace": "reference/Labors/TeoriLabors/ElementsLabors/PropositionsLabors/TeoremLabors/TeoremPlan/PlanZone"
     },
     {
         "ElementName": "ModifySiteDensity",
-        "Namespace": "reference/Labors/TeoriLabors/ElementsLabors/PropositionsLabors/TeoremLabors/TeoremKompleta/ModifySiteDensity"
+        "Namespace": "reference/Labors/TeoriLabors/ElementsLabors/PropositionsLabors/TeoremLabors/TeoremPlan/ModifySiteDensity"
     },
     {
-        "ElementName": "ObstacleKompleta",
-        "Namespace": "reference/Labors/TeoriLabors/ElementsLabors/PropositionsLabors/TeoremLabors/TeoremKompleta/ObstacleKompleta"
+        "ElementName": "ObstaclePlan",
+        "Namespace": "reference/Labors/TeoriLabors/ElementsLabors/PropositionsLabors/TeoremLabors/TeoremPlan/ObstaclePlan"
     },
     {
-        "ElementName": "SimbetaKompleta",
-        "Namespace": "reference/Labors/TeoriLabors/ElementsLabors/PropositionsLabors/TeoremLabors/TeoremKompleta/SimbetaKompleta"
+        "ElementName": "SimbetaPlan",
+        "Namespace": "reference/Labors/TeoriLabors/ElementsLabors/PropositionsLabors/TeoremLabors/TeoremPlan/SimbetaPlan"
     },
     {
         "ElementName": "TimeConstraint",
-        "Namespace": "reference/Labors/TeoriLabors/ElementsLabors/PropositionsLabors/TeoremLabors/TeoremKompleta/TimeConstraint"
+        "Namespace": "reference/Labors/TeoriLabors/ElementsLabors/PropositionsLabors/TeoremLabors/TeoremPlan/TimeConstraint"
     },
     {
         "ElementName": "TeoremMarka",
@@ -1648,8 +1648,8 @@
         "Namespace": "reference/Via/TeoriVia/PropositionsVia/TeoremVia/TeoremDisplacement/TeoremVelocity"
     },
     {
-        "ElementName": "TeoremKompletion",
-        "Namespace": "reference/Via/TeoriVia/PropositionsVia/TeoremVia/TeoremKompletion"
+        "ElementName": "TeoremPlan",
+        "Namespace": "reference/Via/TeoriVia/PropositionsVia/TeoremVia/TeoremPlan"
     },
     {
         "ElementName": "TeoremKontakt",

@@ -627,7 +627,7 @@
                                     ]
                                 },
                                 {
-                                    "name": "BetaKompletion",
+                                    "name": "BetaPlan",
                                     "type": "folder"
                                 },
                                 {
@@ -1445,7 +1445,7 @@
                                             ]
                                         },
                                         {
-                                            "name": "Kompletion",
+                                            "name": "Plan",
                                             "type": "folder",
                                             "children": []
                                         },
@@ -1648,35 +1648,35 @@
                                                     "children": []
                                                 },
                                                 {
-                                                    "name": "TeoremKompleta",
+                                                    "name": "TeoremPlan",
                                                     "type": "folder",
                                                     "children": [
                                                         {
-                                                            "name": "KompletaZone",
+                                                            "name": "PlanZone",
                                                             "type": "folder",
                                                             "children": [
                                                                 {
-                                                                    "name": "ApogeeKompletion",
+                                                                    "name": "ApogeePlan",
                                                                     "type": "file"
                                                                 },
                                                                 {
-                                                                    "name": "DivKompleta",
+                                                                    "name": "DivPlan",
                                                                     "type": "file"
                                                                 },
                                                                 {
-                                                                    "name": "OpenEndedKompleta",
+                                                                    "name": "OpenEndedPlan",
                                                                     "type": "file"
                                                                 },
                                                                 {
-                                                                    "name": "ParaBorderKompleta",
+                                                                    "name": "ParaBorderPlan",
                                                                     "type": "file"
                                                                 },
                                                                 {
-                                                                    "name": "PerimeterKompleta",
+                                                                    "name": "PerimeterPlan",
                                                                     "type": "file"
                                                                 },
                                                                 {
-                                                                    "name": "StraigtenKompleta",
+                                                                    "name": "StraigtenPlan",
                                                                     "type": "file"
                                                                 }
                                                             ]
@@ -1696,20 +1696,20 @@
                                                             ]
                                                         },
                                                         {
-                                                            "name": "ObstacleKompleta",
+                                                            "name": "ObstaclePlan",
                                                             "type": "folder",
                                                             "children": []
                                                         },
                                                         {
-                                                            "name": "SimbetaKompleta",
+                                                            "name": "SimbetaPlan",
                                                             "type": "folder",
                                                             "children": [
                                                                 {
-                                                                    "name": "BouncingKompleta",
+                                                                    "name": "BouncingPlan",
                                                                     "type": "file"
                                                                 },
                                                                 {
-                                                                    "name": "CrossingKompleta",
+                                                                    "name": "CrossingPlan",
                                                                     "type": "file"
                                                                 }
                                                             ]
@@ -4580,7 +4580,7 @@
                                             ]
                                         },
                                         {
-                                            "name": "TeoremKompletion",
+                                            "name": "TeoremPlan",
                                             "type": "folder",
                                             "children": []
                                         },

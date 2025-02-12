@@ -1,10 +1,4 @@
-# 🔻 <via>BouncingPlan</via>
-
-## 2PlantorBounceFill
-
-## 3PlantorBounceFill
-
-![ViaIkon](/BetaIkon/Via_Ikon.png)
+# 💜<psike>Affordance</psike>
 
 ---
 
@@ -15,7 +9,9 @@
 <!-- =================================================== -->
 ::: details 🛠 <dev>&&&</dev>
 
-- Don't bounce in concave corners
-    - Bounce before to give the plantor in the corner space for a few trees while turning around
+- Takta, Lines, Zones require Affordance
+- Where is Affordance found in Mooves?
+- Affordance in Demos
+    - Your teammate's ability affords greater DemosTeknik complexity
 
 :::

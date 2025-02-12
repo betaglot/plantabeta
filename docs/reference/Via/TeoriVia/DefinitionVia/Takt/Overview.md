@@ -1,6 +1,6 @@
 # 🔻 <via>Takt</via>
 
-> The surface where a Moove touches an Ekon
+> 
 
 Aliases: Contact point, Contact surface
 
@@ -31,24 +31,10 @@ Aliases: Contact point, Contact surface
 <!-- =================================================== -->
 ::: details 🛠 <dev>&&&</dev>
 
+_ The Plural of "Takt" is "Takta"
+- (Takt = isA(Zone))
+
 - (EkosTakt = (Material)x(Orientation)x(Wet,Dry))
-    - Material
-        - Soil
-            - LooseSoil
-            - SiltSoil
-            - RedRotSoil
-            - BoulderSoil
-            - CobbleSoil
-            - RubbleSoil
-            - SandSoil
-            - ClaySoil
-        - Rock
-        - Flora
-            - Moss
-            - Root
-            - Leave
-            - Bark
-            - Branch
     - Orientation
         - Inclined
         - Horizontal

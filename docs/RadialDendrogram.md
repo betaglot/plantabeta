@@ -308,7 +308,7 @@ data = {
                                     ]
                                 },
                                 {
-                                    "name": "BetaKompletion",
+                                    "name": "BetaPlan",
                                     "type": "folder",
                                     "children": []
                                 },
@@ -1314,7 +1314,7 @@ data = {
                                             ]
                                         },
                                         {
-                                            "name": "Kompletion",
+                                            "name": "Plan",
                                             "type": "folder",
                                             "children": [
                                                 {
@@ -1507,7 +1507,7 @@ data = {
                                                     ]
                                                 },
                                                 {
-                                                    "name": "KompletaTeorem",
+                                                    "name": "PlanTeorem",
                                                     "type": "folder",
                                                     "children": [
                                                         {
@@ -1525,7 +1525,7 @@ data = {
                                                             ]
                                                         },
                                                         {
-                                                            "name": "ObstacleKompleta",
+                                                            "name": "ObstaclePlan",
                                                             "type": "folder",
                                                             "children": [
                                                                 {
@@ -1539,15 +1539,15 @@ data = {
                                                             "type": "file"
                                                         },
                                                         {
-                                                            "name": "TeamKompleta",
+                                                            "name": "TeamPlan",
                                                             "type": "folder",
                                                             "children": [
                                                                 {
-                                                                    "name": "BouncingKompleta.md",
+                                                                    "name": "BouncingPlan.md",
                                                                     "type": "file"
                                                                 },
                                                                 {
-                                                                    "name": "CrossingKompleta.md",
+                                                                    "name": "CrossingPlan.md",
                                                                     "type": "file"
                                                                 },
                                                                 {
@@ -1567,19 +1567,19 @@ data = {
                                                             ]
                                                         },
                                                         {
-                                                            "name": "ZoneKompleta",
+                                                            "name": "ZonePlan",
                                                             "type": "folder",
                                                             "children": [
                                                                 {
-                                                                    "name": "ApogeeKompletion.md",
+                                                                    "name": "ApogeePlan.md",
                                                                     "type": "file"
                                                                 },
                                                                 {
-                                                                    "name": "DivKompleta.md",
+                                                                    "name": "DivPlan.md",
                                                                     "type": "file"
                                                                 },
                                                                 {
-                                                                    "name": "OpenEndedKompleta.md",
+                                                                    "name": "OpenEndedPlan.md",
                                                                     "type": "file"
                                                                 },
                                                                 {
@@ -1587,15 +1587,15 @@ data = {
                                                                     "type": "file"
                                                                 },
                                                                 {
-                                                                    "name": "ParaBorderKompleta.md",
+                                                                    "name": "ParaBorderPlan.md",
                                                                     "type": "file"
                                                                 },
                                                                 {
-                                                                    "name": "PerimeterKompleta.md",
+                                                                    "name": "PerimeterPlan.md",
                                                                     "type": "file"
                                                                 },
                                                                 {
-                                                                    "name": "StraigtenKompleta.md",
+                                                                    "name": "StraigtenPlan.md",
                                                                     "type": "file"
                                                                 }
                                                             ]
@@ -4870,7 +4870,7 @@ data = {
                                             ]
                                         },
                                         {
-                                            "name": "KompletionTeorem",
+                                            "name": "PlanTeorem",
                                             "type": "folder",
                                             "children": [
                                                 {

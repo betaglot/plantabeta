@@ -20,7 +20,7 @@
 
 🔻<via>"back to the cache": ViaFinishPoint</via>
 
-## 🔷<beta>"<via>Kompleta</via> the <ekos>wet areas</ekos> with <labor>spruce</labor>, you don't need to <mooves>skreef</mooves> in the <ekos>riparian areas</ekos>"</beta>
+## 🔷<beta>"<via>Plan</via> the <ekos>wet areas</ekos> with <labor>spruce</labor>, you don't need to <mooves>skreef</mooves> in the <ekos>riparian areas</ekos>"</beta>
 
 🔻<via>"Fill": Cover</via>
 
@@ -95,7 +95,7 @@ is not a move, it is Beta since it is composed of 3 modules:
 
 ## 🟩<ekos>Piece</ekos>.<via>Cover(Boustro)</via>
 
-## 🔷<beta>"<mooves>Bag up heavy</mooves> to <via>backKompleta</via> this <ekos>long piece</ekos></beta>
+## 🔷<beta>"<mooves>Bag up heavy</mooves> to <via>backPlan</via> this <ekos>long piece</ekos></beta>
 
 🟠<mooves>BagSize</mooves>
 

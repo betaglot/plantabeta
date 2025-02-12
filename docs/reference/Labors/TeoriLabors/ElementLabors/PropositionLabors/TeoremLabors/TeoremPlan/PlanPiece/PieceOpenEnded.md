@@ -1,10 +1,8 @@
-# 🔻 <via>BouncingPlan</via>
+# 🔻 <via>OpenEndedPlan</via>
 
-## 2PlantorBounceFill
+> Lacking Zone Limits
 
-## 3PlantorBounceFill
-
-![ViaIkon](/BetaIkon/Via_Ikon.png)
+## OverflowBlock
 
 ---
 
@@ -15,7 +13,6 @@
 <!-- =================================================== -->
 ::: details 🛠 <dev>&&&</dev>
 
-- Don't bounce in concave corners
-    - Bounce before to give the plantor in the corner space for a few trees while turning around
+-
 
 :::

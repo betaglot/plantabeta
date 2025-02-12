@@ -1,10 +1,8 @@
-# 🔻 <via>BouncingPlan</via>
+# 🔻<via>DivPlan</via>
 
-## 2PlantorBounceFill
+Aliases: Area Planting
 
-## 3PlantorBounceFill
-
-![ViaIkon](/BetaIkon/Via_Ikon.png)
+Complete the Zone by dividing it into Divs, then filling each Div at a time
 
 ---
 
@@ -15,7 +13,7 @@
 <!-- =================================================== -->
 ::: details 🛠 <dev>&&&</dev>
 
-- Don't bounce in concave corners
-    - Bounce before to give the plantor in the corner space for a few trees while turning around
-
+- Div comes from HTML
+- Exit near Entrance
+- Exit opposite Entrance
 :::
