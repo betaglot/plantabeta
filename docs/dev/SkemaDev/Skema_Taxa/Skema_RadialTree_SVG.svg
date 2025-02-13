@@ -2675,7 +2675,7 @@
             fill="currentColor">Ekos</text>
         <text transform="rotate(-2.0202359863165356) translate(218.88888888888889,0) rotate(0)"
             dy="0.31em" x="-6" text-anchor="end" paint-order="stroke" stroke="white"
-            fill="currentColor">Labors</text>
+            fill="currentColor">Labor</text>
         <text transform="rotate(11.055419776487355) translate(218.88888888888889,0) rotate(0)"
             dy="0.31em" x="-6" text-anchor="end" paint-order="stroke" stroke="white"
             fill="currentColor">Fisik</text>
@@ -2717,10 +2717,10 @@
             fill="currentColor">EkosTeori</text>
         <text transform="rotate(-2.8723566132338476) translate(437.77777777777777,0) rotate(0)"
             dy="0.31em" x="6" text-anchor="start" paint-order="stroke" stroke="white"
-            fill="currentColor">LaborsPraktik</text>
+            fill="currentColor">LaborPraktik</text>
         <text transform="rotate(-1.1681153593992235) translate(437.77777777777777,0) rotate(0)"
             dy="0.31em" x="-6" text-anchor="end" paint-order="stroke" stroke="white"
-            fill="currentColor">LaborsTeori</text>
+            fill="currentColor">LaborTeori</text>
         <text transform="rotate(10.203299149570029) translate(437.77777777777777,0) rotate(0)"
             dy="0.31em" x="-6" text-anchor="end" paint-order="stroke" stroke="white"
             fill="currentColor">FisikDefinitions</text>
@@ -2819,7 +2819,7 @@
             fill="currentColor">EkosSimbols</text>
         <text transform="rotate(-1.1681153593992235) translate(656.6666666666666,0) rotate(0)"
             dy="0.31em" x="-6" text-anchor="end" paint-order="stroke" stroke="white"
-            fill="currentColor">LaborsElements</text>
+            fill="currentColor">LaborElements</text>
         <text transform="rotate(7.930977477790506) translate(656.6666666666666,0) rotate(0)"
             dy="0.31em" x="6" text-anchor="start" paint-order="stroke" stroke="white"
             fill="currentColor">Collision</text>
@@ -3089,7 +3089,7 @@
             fill="currentColor">EkosZone</text>
         <text transform="rotate(-37.31054123561252) translate(875.5555555555555,0) rotate(0)"
             dy="0.31em" x="-6" text-anchor="end" paint-order="stroke" stroke="white"
-            fill="currentColor">Laborsfera</text>
+            fill="currentColor">Laborfera</text>
         <text transform="rotate(-36.117572357928275) translate(875.5555555555555,0) rotate(0)"
             dy="0.31em" x="6" text-anchor="start" paint-order="stroke" stroke="white"
             fill="currentColor">FloraDensity</text>
@@ -3113,13 +3113,13 @@
             fill="currentColor">Tracking</text>
         <text transform="rotate(-11.162611141063962) translate(875.5555555555555,0) rotate(0)"
             dy="0.31em" x="6" text-anchor="start" paint-order="stroke" stroke="white"
-            fill="currentColor">LaborsAxiom</text>
+            fill="currentColor">LaborAxiom</text>
         <text transform="rotate(-10.310490514146636) translate(875.5555555555555,0) rotate(0)"
             dy="0.31em" x="-6" text-anchor="end" paint-order="stroke" stroke="white"
-            fill="currentColor">LaborsDefinitions</text>
+            fill="currentColor">LaborDefinitions</text>
         <text transform="rotate(8.826380422265544) translate(875.5555555555555,0) rotate(0)"
             dy="0.31em" x="-6" text-anchor="end" paint-order="stroke" stroke="white"
-            fill="currentColor">LaborsPropositions</text>
+            fill="currentColor">LaborPropositions</text>
         <text transform="rotate(28.40148482394946) translate(875.5555555555555,0) rotate(0)"
             dy="0.31em" x="6" text-anchor="start" paint-order="stroke" stroke="white"
             fill="currentColor">Frase</text>
@@ -3467,10 +3467,10 @@
             fill="currentColor">Plan</text>
         <text transform="rotate(8.485532171498605) translate(1094.4444444444443,0) rotate(0)"
             dy="0.31em" x="6" text-anchor="start" paint-order="stroke" stroke="white"
-            fill="currentColor">LaborsProblem</text>
+            fill="currentColor">LaborProblem</text>
         <text transform="rotate(9.167228673032469) translate(1094.4444444444443,0) rotate(0)"
             dy="0.31em" x="-6" text-anchor="end" paint-order="stroke" stroke="white"
-            fill="currentColor">LaborsTeorem</text>
+            fill="currentColor">LaborTeorem</text>
         <text transform="rotate(27.208515946265223) translate(1094.4444444444443,0) rotate(0)"
             dy="0.31em" x="6" text-anchor="start" paint-order="stroke" stroke="white"
             fill="currentColor">MooveAlias</text>
@@ -3830,13 +3830,13 @@
             fill="currentColor">Tibior</text>
         <text transform="rotate(4.849141210439541) translate(1313.3333333333333,0) rotate(0)"
             dy="0.31em" x="6" text-anchor="start" paint-order="stroke" stroke="white"
-            fill="currentColor">LaborsFlora</text>
+            fill="currentColor">LaborFlora</text>
         <text transform="rotate(5.417221628384439) translate(1313.3333333333333,0) rotate(0)"
             dy="0.31em" x="-6" text-anchor="end" paint-order="stroke" stroke="white"
-            fill="currentColor">LaborsTime</text>
+            fill="currentColor">LaborTime</text>
         <text transform="rotate(8.403025253654235) translate(1313.3333333333333,0) rotate(0)"
             dy="0.31em" x="-6" text-anchor="end" paint-order="stroke" stroke="white"
-            fill="currentColor">LaborsZone</text>
+            fill="currentColor">LaborZone</text>
         <text transform="rotate(12.917235717680512) translate(1313.3333333333333,0) rotate(0)"
             dy="0.31em" x="-6" text-anchor="end" paint-order="stroke" stroke="white"
             fill="currentColor">PlanTeorem</text>

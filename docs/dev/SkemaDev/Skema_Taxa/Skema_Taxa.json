@@ -954,7 +954,7 @@
                                     ]
                                 },
                                 {
-                                    "name": "Laborsfera",
+                                    "name": "Laborfera",
                                     "type": "folder",
                                     "children": [
                                         {
@@ -1107,31 +1107,31 @@
             ]
         },
         {
-            "name": "Labors",
+            "name": "Labor",
             "type": "folder",
             "children": [
                 {
-                    "name": "LaborsOverview",
+                    "name": "LaborOverview",
                     "type": "file"
                 },
                 {
-                    "name": "PraktikLabors",
+                    "name": "PraktikLabor",
                     "type": "folder"
                 },
                 {
-                    "name": "TeoriLabors",
+                    "name": "TeoriLabor",
                     "type": "folder",
                     "children": [
                         {
-                            "name": "ElementsLabors",
+                            "name": "ElementsLabor",
                             "type": "folder",
                             "children": [
                                 {
-                                    "name": "AxiomLabors",
+                                    "name": "AxiomLabor",
                                     "type": "file"
                                 },
                                 {
-                                    "name": "DefinitionsLabors",
+                                    "name": "DefinitionsLabor",
                                     "type": "folder",
                                     "children": [
                                         {
@@ -1462,11 +1462,11 @@
                                     ]
                                 },
                                 {
-                                    "name": "PropositionsLabors",
+                                    "name": "PropositionsLabor",
                                     "type": "folder",
                                     "children": [
                                         {
-                                            "name": "ProblemLabors",
+                                            "name": "ProblemLabor",
                                             "type": "folder",
                                             "children": [
                                                 {
@@ -1518,7 +1518,7 @@
                                             ]
                                         },
                                         {
-                                            "name": "TeoremLabors",
+                                            "name": "TeoremLabor",
                                             "type": "folder",
                                             "children": [
                                                 {
@@ -1527,7 +1527,7 @@
                                                     "children": []
                                                 },
                                                 {
-                                                    "name": "LaborsTime",
+                                                    "name": "LaborTime",
                                                     "type": "folder",
                                                     "children": [
                                                         {

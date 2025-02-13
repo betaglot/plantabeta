@@ -296,12 +296,12 @@
         "Namespace": "reference/Ekos/TeoriEkos/PropositionsEkos/Hidrosfera"
     },
     {
-        "ElementName": "Laborsfera",
-        "Namespace": "reference/Ekos/TeoriEkos/PropositionsEkos/Laborsfera"
+        "ElementName": "Laborfera",
+        "Namespace": "reference/Ekos/TeoriEkos/PropositionsEkos/Laborfera"
     },
     {
         "ElementName": "Prep",
-        "Namespace": "reference/Ekos/TeoriEkos/PropositionsEkos/Laborsfera/Prep"
+        "Namespace": "reference/Ekos/TeoriEkos/PropositionsEkos/Laborfera/Prep"
     },
     {
         "ElementName": "Litosfera",
@@ -332,324 +332,324 @@
         "Namespace": "reference/Ekos/TeoriEkos/SimbolsEkos"
     },
     {
-        "ElementName": "Labors",
-        "Namespace": "reference/Labors"
+        "ElementName": "Labor",
+        "Namespace": "reference/Labor"
     },
     {
-        "ElementName": "PraktikLabors",
-        "Namespace": "reference/Labors/PraktikLabors"
+        "ElementName": "PraktikLabor",
+        "Namespace": "reference/Labor/PraktikLabor"
     },
     {
-        "ElementName": "TeoriLabors",
-        "Namespace": "reference/Labors/TeoriLabors"
+        "ElementName": "TeoriLabor",
+        "Namespace": "reference/Labor/TeoriLabor"
     },
     {
-        "ElementName": "ElementsLabors",
-        "Namespace": "reference/Labors/TeoriLabors/ElementsLabors"
+        "ElementName": "ElementsLabor",
+        "Namespace": "reference/Labor/TeoriLabor/ElementsLabor"
     },
     {
-        "ElementName": "DefinitionsLabors",
-        "Namespace": "reference/Labors/TeoriLabors/ElementsLabors/DefinitionsLabors"
+        "ElementName": "DefinitionsLabor",
+        "Namespace": "reference/Labor/TeoriLabor/ElementsLabor/DefinitionsLabor"
     },
     {
         "ElementName": "AtributsLabor",
-        "Namespace": "reference/Labors/TeoriLabors/ElementsLabors/DefinitionsLabors/AtributsLabor"
+        "Namespace": "reference/Labor/TeoriLabor/ElementsLabor/DefinitionsLabor/AtributsLabor"
     },
     {
         "ElementName": "Dendron",
-        "Namespace": "reference/Labors/TeoriLabors/ElementsLabors/DefinitionsLabors/Dendron"
+        "Namespace": "reference/Labor/TeoriLabor/ElementsLabor/DefinitionsLabor/Dendron"
     },
     {
         "ElementName": "UnitPrice",
-        "Namespace": "reference/Labors/TeoriLabors/ElementsLabors/DefinitionsLabors/Dendron/UnitPrice"
+        "Namespace": "reference/Labor/TeoriLabor/ElementsLabor/DefinitionsLabor/Dendron/UnitPrice"
     },
     {
         "ElementName": "Instrument",
-        "Namespace": "reference/Labors/TeoriLabors/ElementsLabors/DefinitionsLabors/Instrument"
+        "Namespace": "reference/Labor/TeoriLabor/ElementsLabor/DefinitionsLabor/Instrument"
     },
     {
         "ElementName": "Boot",
-        "Namespace": "reference/Labors/TeoriLabors/ElementsLabors/DefinitionsLabors/Instrument/Boot"
+        "Namespace": "reference/Labor/TeoriLabor/ElementsLabor/DefinitionsLabor/Instrument/Boot"
     },
     {
         "ElementName": "DefinitionsBoot",
-        "Namespace": "reference/Labors/TeoriLabors/ElementsLabors/DefinitionsLabors/Instrument/Boot/DefinitionsBoot"
+        "Namespace": "reference/Labor/TeoriLabor/ElementsLabor/DefinitionsLabor/Instrument/Boot/DefinitionsBoot"
     },
     {
         "ElementName": "BootTakts",
-        "Namespace": "reference/Labors/TeoriLabors/ElementsLabors/DefinitionsLabors/Instrument/Boot/DefinitionsBoot/BootTakts"
+        "Namespace": "reference/Labor/TeoriLabor/ElementsLabor/DefinitionsLabor/Instrument/Boot/DefinitionsBoot/BootTakts"
     },
     {
         "ElementName": "Bottle",
-        "Namespace": "reference/Labors/TeoriLabors/ElementsLabors/DefinitionsLabors/Instrument/Bottle"
+        "Namespace": "reference/Labor/TeoriLabor/ElementsLabor/DefinitionsLabor/Instrument/Bottle"
     },
     {
         "ElementName": "DefinitionsBottle",
-        "Namespace": "reference/Labors/TeoriLabors/ElementsLabors/DefinitionsLabors/Instrument/Bottle/DefinitionsBottle"
+        "Namespace": "reference/Labor/TeoriLabor/ElementsLabor/DefinitionsLabor/Instrument/Bottle/DefinitionsBottle"
     },
     {
         "ElementName": "Box",
-        "Namespace": "reference/Labors/TeoriLabors/ElementsLabors/DefinitionsLabors/Instrument/Box"
+        "Namespace": "reference/Labor/TeoriLabor/ElementsLabor/DefinitionsLabor/Instrument/Box"
     },
     {
         "ElementName": "DefinitionsBox",
-        "Namespace": "reference/Labors/TeoriLabors/ElementsLabors/DefinitionsLabors/Instrument/Box/DefinitionsBox"
+        "Namespace": "reference/Labor/TeoriLabor/ElementsLabor/DefinitionsLabor/Instrument/Box/DefinitionsBox"
     },
     {
         "ElementName": "BoxTakts",
-        "Namespace": "reference/Labors/TeoriLabors/ElementsLabors/DefinitionsLabors/Instrument/Box/DefinitionsBox/BoxTakts"
+        "Namespace": "reference/Labor/TeoriLabor/ElementsLabor/DefinitionsLabor/Instrument/Box/DefinitionsBox/BoxTakts"
     },
     {
         "ElementName": "Bundle",
-        "Namespace": "reference/Labors/TeoriLabors/ElementsLabors/DefinitionsLabors/Instrument/Bundle"
+        "Namespace": "reference/Labor/TeoriLabor/ElementsLabor/DefinitionsLabor/Instrument/Bundle"
     },
     {
         "ElementName": "DefinitionsBundle",
-        "Namespace": "reference/Labors/TeoriLabors/ElementsLabors/DefinitionsLabors/Instrument/Bundle/DefinitionsBundle"
+        "Namespace": "reference/Labor/TeoriLabor/ElementsLabor/DefinitionsLabor/Instrument/Bundle/DefinitionsBundle"
     },
     {
         "ElementName": "BundleTaks",
-        "Namespace": "reference/Labors/TeoriLabors/ElementsLabors/DefinitionsLabors/Instrument/Bundle/DefinitionsBundle/BundleTaks"
+        "Namespace": "reference/Labor/TeoriLabor/ElementsLabor/DefinitionsLabor/Instrument/Bundle/DefinitionsBundle/BundleTaks"
     },
     {
         "ElementName": "Doru",
-        "Namespace": "reference/Labors/TeoriLabors/ElementsLabors/DefinitionsLabors/Instrument/Doru"
+        "Namespace": "reference/Labor/TeoriLabor/ElementsLabor/DefinitionsLabor/Instrument/Doru"
     },
     {
         "ElementName": "DefinitionsDoru",
-        "Namespace": "reference/Labors/TeoriLabors/ElementsLabors/DefinitionsLabors/Instrument/Doru/DefinitionsDoru"
+        "Namespace": "reference/Labor/TeoriLabor/ElementsLabor/DefinitionsLabor/Instrument/Doru/DefinitionsDoru"
     },
     {
         "ElementName": "DoruTakts",
-        "Namespace": "reference/Labors/TeoriLabors/ElementsLabors/DefinitionsLabors/Instrument/Doru/DefinitionsDoru/DoruTakts"
+        "Namespace": "reference/Labor/TeoriLabor/ElementsLabor/DefinitionsLabor/Instrument/Doru/DefinitionsDoru/DoruTakts"
     },
     {
         "ElementName": "Glove",
-        "Namespace": "reference/Labors/TeoriLabors/ElementsLabors/DefinitionsLabors/Instrument/Glove"
+        "Namespace": "reference/Labor/TeoriLabor/ElementsLabor/DefinitionsLabor/Instrument/Glove"
     },
     {
         "ElementName": "DefinitionsGlove",
-        "Namespace": "reference/Labors/TeoriLabors/ElementsLabors/DefinitionsLabors/Instrument/Glove/DefinitionsGlove"
+        "Namespace": "reference/Labor/TeoriLabor/ElementsLabor/DefinitionsLabor/Instrument/Glove/DefinitionsGlove"
     },
     {
         "ElementName": "GloveTakts",
-        "Namespace": "reference/Labors/TeoriLabors/ElementsLabors/DefinitionsLabors/Instrument/Glove/DefinitionsGlove/GloveTakts"
+        "Namespace": "reference/Labor/TeoriLabor/ElementsLabor/DefinitionsLabor/Instrument/Glove/DefinitionsGlove/GloveTakts"
     },
     {
         "ElementName": "Karabiner",
-        "Namespace": "reference/Labors/TeoriLabors/ElementsLabors/DefinitionsLabors/Instrument/Karabiner"
+        "Namespace": "reference/Labor/TeoriLabor/ElementsLabor/DefinitionsLabor/Instrument/Karabiner"
     },
     {
         "ElementName": "DefinitionsKarabiner",
-        "Namespace": "reference/Labors/TeoriLabors/ElementsLabors/DefinitionsLabors/Instrument/Karabiner/DefinitionsKarabiner"
+        "Namespace": "reference/Labor/TeoriLabor/ElementsLabor/DefinitionsLabor/Instrument/Karabiner/DefinitionsKarabiner"
     },
     {
         "ElementName": "KarabinerTakts",
-        "Namespace": "reference/Labors/TeoriLabors/ElementsLabors/DefinitionsLabors/Instrument/Karabiner/DefinitionsKarabiner/KarabinerTakts"
+        "Namespace": "reference/Labor/TeoriLabor/ElementsLabor/DefinitionsLabor/Instrument/Karabiner/DefinitionsKarabiner/KarabinerTakts"
     },
     {
         "ElementName": "Kit",
-        "Namespace": "reference/Labors/TeoriLabors/ElementsLabors/DefinitionsLabors/Instrument/Kit"
+        "Namespace": "reference/Labor/TeoriLabor/ElementsLabor/DefinitionsLabor/Instrument/Kit"
     },
     {
         "ElementName": "KitTakts",
-        "Namespace": "reference/Labors/TeoriLabors/ElementsLabors/DefinitionsLabors/Instrument/Kit/KitTakts"
+        "Namespace": "reference/Labor/TeoriLabor/ElementsLabor/DefinitionsLabor/Instrument/Kit/KitTakts"
     },
     {
         "ElementName": "Marka",
-        "Namespace": "reference/Labors/TeoriLabors/ElementsLabors/DefinitionsLabors/Instrument/Marka"
+        "Namespace": "reference/Labor/TeoriLabor/ElementsLabor/DefinitionsLabor/Instrument/Marka"
     },
     {
         "ElementName": "MarkaTakts",
-        "Namespace": "reference/Labors/TeoriLabors/ElementsLabors/DefinitionsLabors/Instrument/Marka/MarkaTakts"
+        "Namespace": "reference/Labor/TeoriLabor/ElementsLabor/DefinitionsLabor/Instrument/Marka/MarkaTakts"
     },
     {
         "ElementName": "Plantafor",
-        "Namespace": "reference/Labors/TeoriLabors/ElementsLabors/DefinitionsLabors/Instrument/Plantafor"
+        "Namespace": "reference/Labor/TeoriLabor/ElementsLabor/DefinitionsLabor/Instrument/Plantafor"
     },
     {
         "ElementName": "DefinitionsPlantafor",
-        "Namespace": "reference/Labors/TeoriLabors/ElementsLabors/DefinitionsLabors/Instrument/Plantafor/DefinitionsPlantafor"
+        "Namespace": "reference/Labor/TeoriLabor/ElementsLabor/DefinitionsLabor/Instrument/Plantafor/DefinitionsPlantafor"
     },
     {
         "ElementName": "PlantaforTakts",
-        "Namespace": "reference/Labors/TeoriLabors/ElementsLabors/DefinitionsLabors/Instrument/Plantafor/DefinitionsPlantafor/PlantaforTakts"
+        "Namespace": "reference/Labor/TeoriLabor/ElementsLabor/DefinitionsLabor/Instrument/Plantafor/DefinitionsPlantafor/PlantaforTakts"
     },
     {
         "ElementName": "Radior",
-        "Namespace": "reference/Labors/TeoriLabors/ElementsLabors/DefinitionsLabors/Instrument/Radior"
+        "Namespace": "reference/Labor/TeoriLabor/ElementsLabor/DefinitionsLabor/Instrument/Radior"
     },
     {
         "ElementName": "DefinitionsRadior",
-        "Namespace": "reference/Labors/TeoriLabors/ElementsLabors/DefinitionsLabors/Instrument/Radior/DefinitionsRadior"
+        "Namespace": "reference/Labor/TeoriLabor/ElementsLabor/DefinitionsLabor/Instrument/Radior/DefinitionsRadior"
     },
     {
         "ElementName": "RadiorTakts",
-        "Namespace": "reference/Labors/TeoriLabors/ElementsLabors/DefinitionsLabors/Instrument/Radior/DefinitionsRadior/RadiorTakts"
+        "Namespace": "reference/Labor/TeoriLabor/ElementsLabor/DefinitionsLabor/Instrument/Radior/DefinitionsRadior/RadiorTakts"
     },
     {
         "ElementName": "Repair",
-        "Namespace": "reference/Labors/TeoriLabors/ElementsLabors/DefinitionsLabors/Instrument/Repair"
+        "Namespace": "reference/Labor/TeoriLabor/ElementsLabor/DefinitionsLabor/Instrument/Repair"
     },
     {
         "ElementName": "DefinitionsRepair",
-        "Namespace": "reference/Labors/TeoriLabors/ElementsLabors/DefinitionsLabors/Instrument/Repair/DefinitionsRepair"
+        "Namespace": "reference/Labor/TeoriLabor/ElementsLabor/DefinitionsLabor/Instrument/Repair/DefinitionsRepair"
     },
     {
         "ElementName": "Frase",
-        "Namespace": "reference/Labors/TeoriLabors/ElementsLabors/DefinitionsLabors/Instrument/Repair/Frase"
+        "Namespace": "reference/Labor/TeoriLabor/ElementsLabor/DefinitionsLabor/Instrument/Repair/Frase"
     },
     {
         "ElementName": "Rope",
-        "Namespace": "reference/Labors/TeoriLabors/ElementsLabors/DefinitionsLabors/Instrument/Rope"
+        "Namespace": "reference/Labor/TeoriLabor/ElementsLabor/DefinitionsLabor/Instrument/Rope"
     },
     {
         "ElementName": "Frase",
-        "Namespace": "reference/Labors/TeoriLabors/ElementsLabors/DefinitionsLabors/Instrument/Rope/Frase"
+        "Namespace": "reference/Labor/TeoriLabor/ElementsLabor/DefinitionsLabor/Instrument/Rope/Frase"
     },
     {
         "ElementName": "RopeTakts",
-        "Namespace": "reference/Labors/TeoriLabors/ElementsLabors/DefinitionsLabors/Instrument/Rope/RopeTakts"
+        "Namespace": "reference/Labor/TeoriLabor/ElementsLabor/DefinitionsLabor/Instrument/Rope/RopeTakts"
     },
     {
         "ElementName": "Spade",
-        "Namespace": "reference/Labors/TeoriLabors/ElementsLabors/DefinitionsLabors/Instrument/Spade"
+        "Namespace": "reference/Labor/TeoriLabor/ElementsLabor/DefinitionsLabor/Instrument/Spade"
     },
     {
         "ElementName": "SpadeTakts",
-        "Namespace": "reference/Labors/TeoriLabors/ElementsLabors/DefinitionsLabors/Instrument/Spade/SpadeTakts"
+        "Namespace": "reference/Labor/TeoriLabor/ElementsLabor/DefinitionsLabor/Instrument/Spade/SpadeTakts"
     },
     {
         "ElementName": "Tibior",
-        "Namespace": "reference/Labors/TeoriLabors/ElementsLabors/DefinitionsLabors/Instrument/Tibior"
+        "Namespace": "reference/Labor/TeoriLabor/ElementsLabor/DefinitionsLabor/Instrument/Tibior"
     },
     {
         "ElementName": "TibiorTakts",
-        "Namespace": "reference/Labors/TeoriLabors/ElementsLabors/DefinitionsLabors/Instrument/Tibior/TibiorTakts"
+        "Namespace": "reference/Labor/TeoriLabor/ElementsLabor/DefinitionsLabor/Instrument/Tibior/TibiorTakts"
     },
     {
         "ElementName": "Plan",
-        "Namespace": "reference/Labors/TeoriLabors/ElementsLabors/DefinitionsLabors/Plan"
+        "Namespace": "reference/Labor/TeoriLabor/ElementsLabor/DefinitionsLabor/Plan"
     },
     {
         "ElementName": "Marka",
-        "Namespace": "reference/Labors/TeoriLabors/ElementsLabors/DefinitionsLabors/Marka"
+        "Namespace": "reference/Labor/TeoriLabor/ElementsLabor/DefinitionsLabor/Marka"
     },
     {
         "ElementName": "MetodsLabor",
-        "Namespace": "reference/Labors/TeoriLabors/ElementsLabors/DefinitionsLabors/MetodsLabor"
+        "Namespace": "reference/Labor/TeoriLabor/ElementsLabor/DefinitionsLabor/MetodsLabor"
     },
     {
-        "ElementName": "PropositionsLabors",
-        "Namespace": "reference/Labors/TeoriLabors/ElementsLabors/PropositionsLabors"
+        "ElementName": "PropositionsLabor",
+        "Namespace": "reference/Labor/TeoriLabor/ElementsLabor/PropositionsLabor"
     },
     {
-        "ElementName": "ProblemLabors",
-        "Namespace": "reference/Labors/TeoriLabors/ElementsLabors/PropositionsLabors/ProblemLabors"
+        "ElementName": "ProblemLabor",
+        "Namespace": "reference/Labor/TeoriLabor/ElementsLabor/PropositionsLabor/ProblemLabor"
     },
     {
         "ElementName": "SelectNeosite",
-        "Namespace": "reference/Labors/TeoriLabors/ElementsLabors/PropositionsLabors/ProblemLabors/SelectNeosite"
+        "Namespace": "reference/Labor/TeoriLabor/ElementsLabor/PropositionsLabor/ProblemLabor/SelectNeosite"
     },
     {
         "ElementName": "NeoSitePolygon",
-        "Namespace": "reference/Labors/TeoriLabors/ElementsLabors/PropositionsLabors/ProblemLabors/SelectNeosite/NeoSitePolygon"
+        "Namespace": "reference/Labor/TeoriLabor/ElementsLabor/PropositionsLabor/ProblemLabor/SelectNeosite/NeoSitePolygon"
     },
     {
         "ElementName": "NeoSiteProximity",
-        "Namespace": "reference/Labors/TeoriLabors/ElementsLabors/PropositionsLabors/ProblemLabors/SelectNeosite/NeoSiteProximity"
+        "Namespace": "reference/Labor/TeoriLabor/ElementsLabor/PropositionsLabor/ProblemLabor/SelectNeosite/NeoSiteProximity"
     },
     {
-        "ElementName": "TeoremLabors",
-        "Namespace": "reference/Labors/TeoriLabors/ElementsLabors/PropositionsLabors/TeoremLabors"
+        "ElementName": "TeoremLabor",
+        "Namespace": "reference/Labor/TeoriLabor/ElementsLabor/PropositionsLabor/TeoremLabor"
     },
     {
         "ElementName": "LaborFlora",
-        "Namespace": "reference/Labors/TeoriLabors/ElementsLabors/PropositionsLabors/TeoremLabors/LaborFlora"
+        "Namespace": "reference/Labor/TeoriLabor/ElementsLabor/PropositionsLabor/TeoremLabor/LaborFlora"
     },
     {
-        "ElementName": "LaborsTime",
-        "Namespace": "reference/Labors/TeoriLabors/ElementsLabors/PropositionsLabors/TeoremLabors/LaborsTime"
+        "ElementName": "LaborTime",
+        "Namespace": "reference/Labor/TeoriLabor/ElementsLabor/PropositionsLabor/TeoremLabor/LaborTime"
     },
     {
         "ElementName": "Break",
-        "Namespace": "reference/Labors/TeoriLabors/ElementsLabors/PropositionsLabors/TeoremLabors/LaborsTime/Break"
+        "Namespace": "reference/Labor/TeoriLabor/ElementsLabor/PropositionsLabor/TeoremLabor/LaborTime/Break"
     },
     {
         "ElementName": "Season",
-        "Namespace": "reference/Labors/TeoriLabors/ElementsLabors/PropositionsLabors/TeoremLabors/LaborsTime/Season"
+        "Namespace": "reference/Labor/TeoriLabor/ElementsLabor/PropositionsLabor/TeoremLabor/LaborTime/Season"
     },
     {
         "ElementName": "Session",
-        "Namespace": "reference/Labors/TeoriLabors/ElementsLabors/PropositionsLabors/TeoremLabors/LaborsTime/Session"
+        "Namespace": "reference/Labor/TeoriLabor/ElementsLabor/PropositionsLabor/TeoremLabor/LaborTime/Session"
     },
     {
         "ElementName": "Shift",
-        "Namespace": "reference/Labors/TeoriLabors/ElementsLabors/PropositionsLabors/TeoremLabors/LaborsTime/Shift"
+        "Namespace": "reference/Labor/TeoriLabor/ElementsLabor/PropositionsLabor/TeoremLabor/LaborTime/Shift"
     },
     {
         "ElementName": "LaborZone",
-        "Namespace": "reference/Labors/TeoriLabors/ElementsLabors/PropositionsLabors/TeoremLabors/LaborZone"
+        "Namespace": "reference/Labor/TeoriLabor/ElementsLabor/PropositionsLabor/TeoremLabor/LaborZone"
     },
     {
         "ElementName": "Block",
-        "Namespace": "reference/Labors/TeoriLabors/ElementsLabors/PropositionsLabors/TeoremLabors/LaborZone/Block"
+        "Namespace": "reference/Labor/TeoriLabor/ElementsLabor/PropositionsLabor/TeoremLabor/LaborZone/Block"
     },
     {
         "ElementName": "Div",
-        "Namespace": "reference/Labors/TeoriLabors/ElementsLabors/PropositionsLabors/TeoremLabors/LaborZone/Div"
+        "Namespace": "reference/Labor/TeoriLabor/ElementsLabor/PropositionsLabor/TeoremLabor/LaborZone/Div"
     },
     {
         "ElementName": "Piece",
-        "Namespace": "reference/Labors/TeoriLabors/ElementsLabors/PropositionsLabors/TeoremLabors/LaborZone/Piece"
+        "Namespace": "reference/Labor/TeoriLabor/ElementsLabor/PropositionsLabor/TeoremLabor/LaborZone/Piece"
     },
     {
         "ElementName": "Site",
-        "Namespace": "reference/Labors/TeoriLabors/ElementsLabors/PropositionsLabors/TeoremLabors/LaborZone/Site"
+        "Namespace": "reference/Labor/TeoriLabor/ElementsLabor/PropositionsLabor/TeoremLabor/LaborZone/Site"
     },
     {
         "ElementName": "SiteDensity",
-        "Namespace": "reference/Labors/TeoriLabors/ElementsLabors/PropositionsLabors/TeoremLabors/LaborZone/Site/SiteDensity"
+        "Namespace": "reference/Labor/TeoriLabor/ElementsLabor/PropositionsLabor/TeoremLabor/LaborZone/Site/SiteDensity"
     },
     {
         "ElementName": "SiteProximity",
-        "Namespace": "reference/Labors/TeoriLabors/ElementsLabors/PropositionsLabors/TeoremLabors/LaborZone/Site/SiteProximity"
+        "Namespace": "reference/Labor/TeoriLabor/ElementsLabor/PropositionsLabor/TeoremLabor/LaborZone/Site/SiteProximity"
     },
     {
         "ElementName": "Specs",
-        "Namespace": "reference/Labors/TeoriLabors/ElementsLabors/PropositionsLabors/TeoremLabors/LaborZone/Specs"
+        "Namespace": "reference/Labor/TeoriLabor/ElementsLabor/PropositionsLabor/TeoremLabor/LaborZone/Specs"
     },
     {
         "ElementName": "Simbeta",
-        "Namespace": "reference/Labors/TeoriLabors/ElementsLabors/PropositionsLabors/TeoremLabors/Simbeta"
+        "Namespace": "reference/Labor/TeoriLabor/ElementsLabor/PropositionsLabor/TeoremLabor/Simbeta"
     },
     {
         "ElementName": "TeoremPlan",
-        "Namespace": "reference/Labors/TeoriLabors/ElementsLabors/PropositionsLabors/TeoremLabors/TeoremPlan"
+        "Namespace": "reference/Labor/TeoriLabor/ElementsLabor/PropositionsLabor/TeoremLabor/TeoremPlan"
     },
     {
         "ElementName": "PlanZone",
-        "Namespace": "reference/Labors/TeoriLabors/ElementsLabors/PropositionsLabors/TeoremLabors/TeoremPlan/PlanZone"
+        "Namespace": "reference/Labor/TeoriLabor/ElementsLabor/PropositionsLabor/TeoremLabor/TeoremPlan/PlanZone"
     },
     {
         "ElementName": "ModifySiteDensity",
-        "Namespace": "reference/Labors/TeoriLabors/ElementsLabors/PropositionsLabors/TeoremLabors/TeoremPlan/ModifySiteDensity"
+        "Namespace": "reference/Labor/TeoriLabor/ElementsLabor/PropositionsLabor/TeoremLabor/TeoremPlan/ModifySiteDensity"
     },
     {
         "ElementName": "ObstaclePlan",
-        "Namespace": "reference/Labors/TeoriLabors/ElementsLabors/PropositionsLabors/TeoremLabors/TeoremPlan/ObstaclePlan"
+        "Namespace": "reference/Labor/TeoriLabor/ElementsLabor/PropositionsLabor/TeoremLabor/TeoremPlan/ObstaclePlan"
     },
     {
         "ElementName": "SimbetaPlan",
-        "Namespace": "reference/Labors/TeoriLabors/ElementsLabors/PropositionsLabors/TeoremLabors/TeoremPlan/SimbetaPlan"
+        "Namespace": "reference/Labor/TeoriLabor/ElementsLabor/PropositionsLabor/TeoremLabor/TeoremPlan/SimbetaPlan"
     },
     {
         "ElementName": "TimeConstraint",
-        "Namespace": "reference/Labors/TeoriLabors/ElementsLabors/PropositionsLabors/TeoremLabors/TeoremPlan/TimeConstraint"
+        "Namespace": "reference/Labor/TeoriLabor/ElementsLabor/PropositionsLabor/TeoremLabor/TeoremPlan/TimeConstraint"
     },
     {
         "ElementName": "TeoremMarka",
-        "Namespace": "reference/Labors/TeoriLabors/ElementsLabors/PropositionsLabors/TeoremLabors/TeoremMarka"
+        "Namespace": "reference/Labor/TeoriLabor/ElementsLabor/PropositionsLabor/TeoremLabor/TeoremMarka"
     },
     {
         "ElementName": "Mooves",

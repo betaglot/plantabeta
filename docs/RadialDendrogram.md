@@ -639,7 +639,7 @@ data = {
                                     ]
                                 },
                                 {
-                                    "name": "Laborsfera",
+                                    "name": "Laborfera",
                                     "type": "folder",
                                     "children": [
                                         {
@@ -891,32 +891,32 @@ data = {
             ]
         },
         {
-            "name": "Labors",
+            "name": "Labor",
             "type": "folder",
             "children": [
                 {
-                    "name": "LaborsOverview.md",
+                    "name": "LaborOverview.md",
                     "type": "file"
                 },
                 {
-                    "name": "LaborsPraktik",
+                    "name": "LaborPraktik",
                     "type": "folder",
                     "children": []
                 },
                 {
-                    "name": "LaborsTeori",
+                    "name": "LaborTeori",
                     "type": "folder",
                     "children": [
                         {
-                            "name": "LaborsElements",
+                            "name": "LaborElements",
                             "type": "folder",
                             "children": [
                                 {
-                                    "name": "LaborsAxiom.md",
+                                    "name": "LaborAxiom.md",
                                     "type": "file"
                                 },
                                 {
-                                    "name": "LaborsDefinitions",
+                                    "name": "LaborDefinitions",
                                     "type": "folder",
                                     "children": [
                                         {
@@ -1330,20 +1330,20 @@ data = {
                                     ]
                                 },
                                 {
-                                    "name": "LaborsPropositions",
+                                    "name": "LaborPropositions",
                                     "type": "folder",
                                     "children": [
                                         {
-                                            "name": "LaborsProblem",
+                                            "name": "LaborProblem",
                                             "type": "folder",
                                             "children": []
                                         },
                                         {
-                                            "name": "LaborsTeorem",
+                                            "name": "LaborTeorem",
                                             "type": "folder",
                                             "children": [
                                                 {
-                                                    "name": "LaborsFlora",
+                                                    "name": "LaborFlora",
                                                     "type": "folder",
                                                     "children": [
                                                         {
@@ -1353,7 +1353,7 @@ data = {
                                                     ]
                                                 },
                                                 {
-                                                    "name": "LaborsTime",
+                                                    "name": "LaborTime",
                                                     "type": "folder",
                                                     "children": [
                                                         {
@@ -1392,7 +1392,7 @@ data = {
                                                     ]
                                                 },
                                                 {
-                                                    "name": "LaborsZone",
+                                                    "name": "LaborZone",
                                                     "type": "folder",
                                                     "children": [
                                                         {
