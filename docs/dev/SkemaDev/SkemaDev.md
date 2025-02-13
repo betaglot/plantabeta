@@ -60,7 +60,7 @@ source,relationshipType,target
 
 ##### SimElement
 
-- isSimPsikeOf
+- isSimAnimaOf
 - isSimMooveOf
 - isSimBetaOf
 - isSimViumOf
@@ -69,7 +69,7 @@ source,relationshipType,target
 
 ##### AnteElement
 
-- isAntePsikeOf
+- isAnteAnimaOf
 - isAnteMooveOf
 - isAnteBetaOf
 - isAnteViumOf
@@ -78,7 +78,7 @@ source,relationshipType,target
 
 ##### PostElement
 
-- isPostPsikeOf
+- isPostAnimaOf
 - isPostMooveOf
 - isPostBetaOf
 - isPostViumOf
@@ -87,7 +87,7 @@ source,relationshipType,target
 
 #### GeneralRelation
 
-- relatedToPsike
+- relatedToAnima
 - relatedToMoove
 - relatedToBeta
 - relatedToVium

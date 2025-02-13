@@ -67,7 +67,7 @@ Plantors become physically fit and ambidextrous
 
 #### Via
 
-#### Psike
+#### Anima
 
 #### Eko
 

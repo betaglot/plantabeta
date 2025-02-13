@@ -4,7 +4,7 @@
 
 ## BetaTypes
 
-🔻<via>VIA</via>, 🟩<ekos>EKO</ekos>, 🟠<mooves>MOVE</mooves>
+🔻<via>VIA</via>, 🟩<ekos>EKO</ekos>, 🟠<motor>MOVE</motor>
 
 ## Relative Geometry
 

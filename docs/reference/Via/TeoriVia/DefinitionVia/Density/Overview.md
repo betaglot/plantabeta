@@ -1,6 +1,6 @@
 # 🔻<via>Density</via>
 
-- 🟠<mooves>MooveDensity</mooves>
+- 🟠<motor>MooveDensity</motor>
     - Mooves per Zone
     - Walking is LowMooveDensity
 - 🟩<ekos>FloraDensity</ekos>

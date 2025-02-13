@@ -154,7 +154,7 @@ Convert the list of Papers associated with a given tag into a markdown photos
 find -type f -print0 | xargs -0 ls -t
 ```
 
-## <psike>WTF is going on?</psike>
+## <anima>WTF is going on?</anima>
 
 It's ok to be confused by your own work. Complex systems don't start off being coherent.
 
@@ -168,13 +168,13 @@ Coherence is developed
 > the situation when the parts of something fit together in a natural or reasonable way
 :::
 
-### <psike> “I looked forward to another 500 pounds of squat. I looked forward to doing more and more curls until my arms would fall off. Why? Because I knew that every rep that I did and every set that I did and more weights that I lifted, I get one step closer to turning that **vision** into reality.”</psike>
+### <anima> “I looked forward to another 500 pounds of squat. I looked forward to doing more and more curls until my arms would fall off. Why? Because I knew that every rep that I did and every set that I did and more weights that I lifted, I get one step closer to turning that **vision** into reality.”</anima>
 
 You're not making it worse, each workblock makes it better, deciding that what you wrote needs to be changed is an improvement. Finding out what doesn't work is a form of improvement. PlantaBeta is a really difficult project, **expect to feel its difficulties!**
 
 Just get as much information out of your head and into data structures, so that they can be processed.
 
-<mooves>Keep going!!!</mooves>
+<motor>Keep going!!!</motor>
 
 ### Differentiate(Beta, PlantaBeta)
 
@@ -192,7 +192,7 @@ ViaFactor
 
 MooveElement
 
-PsikeElement
+AnimaElement
 
 All Elements are objects
 
@@ -222,7 +222,7 @@ Beta represents moto, but Moove is the move itself. Moove doesn't care about how
 
 Every rep
 
-<psike> “I looked forward to another 500 pounds of squat. I looked forward to doing more and more curls until my arms would fall off. Why? Because I knew that every rep that I did and every set that I did and more weights that I lifted, I get one step closer to turning that **vision** into reality.”</psike>
+<anima> “I looked forward to another 500 pounds of squat. I looked forward to doing more and more curls until my arms would fall off. Why? Because I knew that every rep that I did and every set that I did and more weights that I lifted, I get one step closer to turning that **vision** into reality.”</anima>
 
 ### Sherlock Holmes
 
@@ -303,7 +303,7 @@ Every rep
 
 Make a list of DX research models for each module
 
-Moove, Psike, Eko, Via, Beta
+Moove, Anima, Eko, Via, Beta
 
 To make prototyping easier. So you don't need to worry about the content
 
@@ -311,7 +311,7 @@ To make prototyping easier. So you don't need to worry about the content
 
 researchModels = {
     'Via': BoustroCover,
-    'Psike':
+    'Anima':
     'Moove':
     'Beta':
     'Eko':

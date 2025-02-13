@@ -8,7 +8,7 @@
     - Top of Stump
     - Side
     - Buttress
-- 🟠<mooves>HeelHook</mooves>
+- 🟠<motor>HeelHook</motor>
     - Foot
     - Shoe
     - Leg
@@ -16,7 +16,7 @@
     - Start
     - Finish
     - Middle
-- 💜<psike>Psike</psike>
+- 💜<anima>Anima</anima>
     - Anatomy doesn't apply to Neuroscience. Neuroanatomy is beyond the scope of Sistema.
 
 ---

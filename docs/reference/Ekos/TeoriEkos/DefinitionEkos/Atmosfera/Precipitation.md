@@ -18,11 +18,11 @@
 
 -
 
-### Related 🟠<mooves>Moove</mooves>
+### Related 🟠<motor>Motor</motor>
 
 -
 
-### Related 💜<psike>Psike</psike>
+### Related 💜<anima>Anima</anima>
 
 -
 

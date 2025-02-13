@@ -31,7 +31,7 @@ The word "<ekos>eko</ekos>system" was derived from <ekos>eko</ekos>logy
 ::: details 🛠 <dev>&&&</dev>
 
 - All Land is Ekos, but not all Ekos is Land. Atmosphere
-- Ekos a subset of Psike. Ekos is perceived. The map is not the territory. Psike objectifies earth.
+- Ekos a subset of Anima. Ekos is perceived. The map is not the territory. Anima objectifies earth.
 - Ekos exists within Awareness
 - A meter into the residual is no longer Ekos. Ekos is only earth that you interact with.
 - A storm on the other side of your valley is not Ekos.

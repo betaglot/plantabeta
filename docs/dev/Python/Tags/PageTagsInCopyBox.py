@@ -217,7 +217,7 @@ tags = {
     ],
     "dev/Graphics/NeuroGraphic.md": [
         "Dev.NeuroDiagram.NeuroTimeline",
-        "Psike.NeuroCard"
+        "Anima.NeuroCard"
     ],
     "dev/Graphics/Overview.md": [
         "Dev.Element.ElementCard",
@@ -1490,171 +1490,171 @@ tags = {
         "Moove.InstrumentMoove.TruckMoove.Sleep"
     ],
     "Moove/TruckMoove/TruckFrase.md": [],
-    "Psike/Acceptance/Overview.md": [],
-    "Psike/Algorithm/Overview.md": [],
-    "Psike/Arousal/Calm.md": [
-        "Psike.Calm"
+    "Anima/Acceptance/Overview.md": [],
+    "Anima/Algorithm/Overview.md": [],
+    "Anima/Arousal/Calm.md": [
+        "Anima.Calm"
     ],
-    "Psike/Arousal/Overview.md": [
-        "Psike.Adrenaline"
+    "Anima/Arousal/Overview.md": [
+        "Anima.Adrenaline"
     ],
-    "Psike/Attention/Overview.md": [
-        "Psike.Attention"
+    "Anima/Attention/Overview.md": [
+        "Anima.Attention"
     ],
-    "Psike/Audio/BranchBreakSound.md": [],
-    "Psike/Audio/LogBreakSound.md": [],
-    "Psike/Audio/Music/Overview.md": [],
-    "Psike/Audio/Music/Playlists.md": [],
-    "Psike/Audio/Overview.md": [
-        "Psike.Hearing"
+    "Anima/Audio/BranchBreakSound.md": [],
+    "Anima/Audio/LogBreakSound.md": [],
+    "Anima/Audio/Music/Overview.md": [],
+    "Anima/Audio/Music/Playlists.md": [],
+    "Anima/Audio/Overview.md": [
+        "Anima.Hearing"
     ],
-    "Psike/Audio/SlashSound.md": [],
-    "Psike/Audio/SoilSound.md": [],
-    "Psike/Audio/SpadeSound.md": [],
-    "Psike/Avoidance/Overview.md": [],
-    "Psike/Awareness/Overview.md": [
-        "Psike.Awareness"
+    "Anima/Audio/SlashSound.md": [],
+    "Anima/Audio/SoilSound.md": [],
+    "Anima/Audio/SpadeSound.md": [],
+    "Anima/Avoidance/Overview.md": [],
+    "Anima/Awareness/Overview.md": [
+        "Anima.Awareness"
     ],
-    "Psike/Comfort/Overview.md": [],
-    "Psike/Compassion/Overview.md": [],
-    "Psike/Competition/Overview.md": [],
-    "Psike/CompressionSense/Overview.md": [],
-    "Psike/Confidence/Overview.md": [],
-    "Psike/Counting/BundleCounting.md": [],
-    "Psike/Counting/Overview.md": [
-        "Psike.Counting"
+    "Anima/Comfort/Overview.md": [],
+    "Anima/Compassion/Overview.md": [],
+    "Anima/Competition/Overview.md": [],
+    "Anima/CompressionSense/Overview.md": [],
+    "Anima/Confidence/Overview.md": [],
+    "Anima/Counting/BundleCounting.md": [],
+    "Anima/Counting/Overview.md": [
+        "Anima.Counting"
     ],
-    "Psike/Counting/StepCount.md": [],
-    "Psike/Decision/BagUpSizeDecision.md": [],
-    "Psike/Decision/GoOrNoGo.md": [],
-    "Psike/Decision/MicrositeSelection.md": [],
-    "Psike/Decision/Overview.md": [
-        "Psike.Decision"
+    "Anima/Counting/StepCount.md": [],
+    "Anima/Decision/BagUpSizeDecision.md": [],
+    "Anima/Decision/GoOrNoGo.md": [],
+    "Anima/Decision/MicrositeSelection.md": [],
+    "Anima/Decision/Overview.md": [
+        "Anima.Decision"
     ],
-    "Psike/Emotion/Anger.md": [],
-    "Psike/Emotion/Disgust.md": [],
-    "Psike/Emotion/Fear.md": [],
-    "Psike/Emotion/Joy.md": [],
-    "Psike/Emotion/Overview.md": [
-        "Psike.Emotion"
+    "Anima/Emotion/Anger.md": [],
+    "Anima/Emotion/Disgust.md": [],
+    "Anima/Emotion/Fear.md": [],
+    "Anima/Emotion/Joy.md": [],
+    "Anima/Emotion/Overview.md": [
+        "Anima.Emotion"
     ],
-    "Psike/Emotion/Sadness.md": [],
-    "Psike/Energy/Fatigue.md": [],
-    "Psike/Energy/Overview.md": [
-        "Psike.Energy"
+    "Anima/Emotion/Sadness.md": [],
+    "Anima/Energy/Fatigue.md": [],
+    "Anima/Energy/Overview.md": [
+        "Anima.Energy"
     ],
-    "Psike/Estimation/AreaEstimation.md": [],
-    "Psike/Estimation/BagCoverEstimation.md": [],
-    "Psike/Estimation/DistanceEstimation.md": [],
-    "Psike/Estimation/Overview.md": [
-        "Psike.Estimation",
-        "Psike.Estimation.BagCover",
-        "Psike.Estimation.LandEstimation.Fraction",
-        "Psike.Estimation.ViaEstimation.AreaEstimation",
-        "Psike.Estimation.ViaEstimation.AreaEstimation.AreaCompletionEstimation",
-        "Psike.Estimation.ViaEstimation.LineDistanceEstimation",
-        "Psike.Estimation.ViaEstimation.TimeEstimation"
+    "Anima/Estimation/AreaEstimation.md": [],
+    "Anima/Estimation/BagCoverEstimation.md": [],
+    "Anima/Estimation/DistanceEstimation.md": [],
+    "Anima/Estimation/Overview.md": [
+        "Anima.Estimation",
+        "Anima.Estimation.BagCover",
+        "Anima.Estimation.LandEstimation.Fraction",
+        "Anima.Estimation.ViaEstimation.AreaEstimation",
+        "Anima.Estimation.ViaEstimation.AreaEstimation.AreaCompletionEstimation",
+        "Anima.Estimation.ViaEstimation.LineDistanceEstimation",
+        "Anima.Estimation.ViaEstimation.TimeEstimation"
     ],
-    "Psike/Estimation/TimeEstimation.md": [],
-    "Psike/Event/Overview.md": [
-        "Psike.Event"
+    "Anima/Estimation/TimeEstimation.md": [],
+    "Anima/Event/Overview.md": [
+        "Anima.Event"
     ],
-    "Psike/Homeostasis/Overview.md": [],
-    "Psike/Judgement/LandJudgement.md": [
-        "Psike.Judgement",
-        "Psike.Logic.Boolean",
-        "Psike.Logic.Deduction",
-        "Psike.Logic.Induction",
-        "Psike.Logic.Overview"
+    "Anima/Homeostasis/Overview.md": [],
+    "Anima/Judgement/LandJudgement.md": [
+        "Anima.Judgement",
+        "Anima.Logic.Boolean",
+        "Anima.Logic.Deduction",
+        "Anima.Logic.Induction",
+        "Anima.Logic.Overview"
     ],
-    "Psike/Learning/Overview.md": [
-        "Psike.Learning.Feedback",
-        "Psike.Learning.Overview",
-        "Psike.Learning.Recall",
-        "Psike.Learning.Recall.NonverbalRecall",
-        "Psike.Learning.Review"
+    "Anima/Learning/Overview.md": [
+        "Anima.Learning.Feedback",
+        "Anima.Learning.Overview",
+        "Anima.Learning.Recall",
+        "Anima.Learning.Recall.NonverbalRecall",
+        "Anima.Learning.Review"
     ],
-    "Psike/Memory/LongTermMemory.md": [],
-    "Psike/Memory/NumberMemory.md": [],
-    "Psike/Memory/Overview.md": [
-        "Psike.Memory",
-        "Psike.Memory.Mnemonic"
+    "Anima/Memory/LongTermMemory.md": [],
+    "Anima/Memory/NumberMemory.md": [],
+    "Anima/Memory/Overview.md": [
+        "Anima.Memory",
+        "Anima.Memory.Mnemonic"
     ],
-    "Psike/Memory/ViaMemory.md": [],
-    "Psike/Memory/ShortTermMemory.md": [],
-    "Psike/Memory/WorkingMemory.md": [],
-    "Psike/Mindfulness/MindfulBreathing.md": [
-        "Psike.Meditation",
-        "Psike.NonDual"
+    "Anima/Memory/ViaMemory.md": [],
+    "Anima/Memory/ShortTermMemory.md": [],
+    "Anima/Memory/WorkingMemory.md": [],
+    "Anima/Mindfulness/MindfulBreathing.md": [
+        "Anima.Meditation",
+        "Anima.NonDual"
     ],
-    "Psike/Muscle/Overview.md": [],
-    "Psike/NeuroOverview.md": [
-        "Psike.CognitiveEase",
-        "Psike.CognitiveEase.Clarity",
-        "Psike.CognitiveEase.FeelsEffortless",
-        "Psike.CognitiveEase.FeelsFamiliar",
-        "Psike.CognitiveEase.FeelsGood",
-        "Psike.CognitiveEase.FeelsTrue",
-        "Psike.CognitiveEase.Good",
-        "Psike.CognitiveEase.Priming",
-        "Psike.CognitiveEase.Repetition",
-        "Psike.Difficulty",
-        "Psike.Difficulty.NeuroComplexity",
-        "Psike.Difficulty.NeuroIntensity",
-        "Psike.Difficulty.NeuroRisk",
-        "Psike.FlowState",
-        "Psike.Music",
-        "Psike.NeuroDifficulty.NeuroComplexity",
-        "Psike.NeuroDifficulty.NeuroIntensity",
-        "Psike.NeuroDifficulty.NeuroRisk",
-        "Psike.NeuroDifficulty.Overview",
-        "Psike.NeuroError",
-        "Psike.NeuroEvent",
-        "Psike.NeuroName",
-        "Psike.NeuroQuestion",
-        "Psike.Overview",
-        "Psike.PatternRecognition",
-        "Psike.Proprioception",
-        "Psike.Rehearsal",
-        "Psike.SpatialSense",
-        "Psike.State",
-        "Psike.State.Arousal",
-        "Psike.State.EmotionalState",
-        "Psike.State.EnergyState",
-        "Psike.Stress.TooManyOptions",
-        "Psike.Thermoception",
-        "Psike.Time",
-        "Psike.Visualization"
+    "Anima/Muscle/Overview.md": [],
+    "Anima/NeuroOverview.md": [
+        "Anima.CognitiveEase",
+        "Anima.CognitiveEase.Clarity",
+        "Anima.CognitiveEase.FeelsEffortless",
+        "Anima.CognitiveEase.FeelsFamiliar",
+        "Anima.CognitiveEase.FeelsGood",
+        "Anima.CognitiveEase.FeelsTrue",
+        "Anima.CognitiveEase.Good",
+        "Anima.CognitiveEase.Priming",
+        "Anima.CognitiveEase.Repetition",
+        "Anima.Difficulty",
+        "Anima.Difficulty.NeuroComplexity",
+        "Anima.Difficulty.NeuroIntensity",
+        "Anima.Difficulty.NeuroRisk",
+        "Anima.FlowState",
+        "Anima.Music",
+        "Anima.NeuroDifficulty.NeuroComplexity",
+        "Anima.NeuroDifficulty.NeuroIntensity",
+        "Anima.NeuroDifficulty.NeuroRisk",
+        "Anima.NeuroDifficulty.Overview",
+        "Anima.NeuroError",
+        "Anima.NeuroEvent",
+        "Anima.NeuroName",
+        "Anima.NeuroQuestion",
+        "Anima.Overview",
+        "Anima.PatternRecognition",
+        "Anima.Proprioception",
+        "Anima.Rehearsal",
+        "Anima.SpatialSense",
+        "Anima.State",
+        "Anima.State.Arousal",
+        "Anima.State.EmotionalState",
+        "Anima.State.EnergyState",
+        "Anima.Stress.TooManyOptions",
+        "Anima.Thermoception",
+        "Anima.Time",
+        "Anima.Visualization"
     ],
-    "Psike/Proprioception/Overview.md": [],
-    "Psike/Resilience/Overview.md": [],
-    "Psike/SpatialCognition/Overview.md": [
-        "Psike.Alignment",
-        "Psike.Alignment.AlignmentRange",
-        "Psike.Alignment.AlignOn()",
-        "Psike.Alignment.LineExtension",
-        "Psike.Alignment.OptimalAlignment",
-        "Psike.Alignment.Parallel",
-        "Psike.Alignment.Perpendicular",
-        "Psike.Chunking",
-        "Psike.Chunking.Fraction",
-        "Psike.Orientation",
-        "Psike.Orientation.ToCache",
-        "Psike.Orientation.ToCardinalDirection",
-        "Psike.Orientation.ToPieceBack",
-        "Psike.Orientation.ToRoad",
-        "Psike.Orientation.ToTarget"
+    "Anima/Proprioception/Overview.md": [],
+    "Anima/Resilience/Overview.md": [],
+    "Anima/SpatialCognition/Overview.md": [
+        "Anima.Alignment",
+        "Anima.Alignment.AlignmentRange",
+        "Anima.Alignment.AlignOn()",
+        "Anima.Alignment.LineExtension",
+        "Anima.Alignment.OptimalAlignment",
+        "Anima.Alignment.Parallel",
+        "Anima.Alignment.Perpendicular",
+        "Anima.Chunking",
+        "Anima.Chunking.Fraction",
+        "Anima.Orientation",
+        "Anima.Orientation.ToCache",
+        "Anima.Orientation.ToCardinalDirection",
+        "Anima.Orientation.ToPieceBack",
+        "Anima.Orientation.ToRoad",
+        "Anima.Orientation.ToTarget"
     ],
-    "Psike/Time/BagUpTime.md": [],
-    "Psike/Time/CacheTime.md": [],
-    "Psike/Time/DailySchedule.md": [],
-    "Psike/Time/MooveTiming.md": [],
-    "Psike/Time/Overview.md": [],
-    "Psike/Time/Planning.md": [
-        "Psike.Planning",
-        "Psike.Planning.Prediction"
+    "Anima/Time/BagUpTime.md": [],
+    "Anima/Time/CacheTime.md": [],
+    "Anima/Time/DailySchedule.md": [],
+    "Anima/Time/MooveTiming.md": [],
+    "Anima/Time/Overview.md": [],
+    "Anima/Time/Planning.md": [
+        "Anima.Planning",
+        "Anima.Planning.Prediction"
     ],
-    "Psike/Time/Timer.md": [],
+    "Anima/Time/Timer.md": [],
     "RefOverview.md": [
         "Reference.Overview"
     ],
@@ -1778,14 +1778,14 @@ tags = {
         "Via.ViaDifficulty.ViaRisk"
     ],
     "Via/ViaOverview.md": [
-        "Psike.Vision",
-        "Psike.Vision.Find.BackLine",
-        "Psike.Vision.Find.FarSide",
-        "Psike.Vision.Find.FindFirstBagUp",
-        "Psike.Vision.Find.Marka",
-        "Psike.Vision.Find.Overview",
-        "Psike.Vision.Hidden",
-        "Psike.Vision.SeenFromCache",
+        "Anima.Vision",
+        "Anima.Vision.Find.BackLine",
+        "Anima.Vision.Find.FarSide",
+        "Anima.Vision.Find.FindFirstBagUp",
+        "Anima.Vision.Find.Marka",
+        "Anima.Vision.Find.Overview",
+        "Anima.Vision.Hidden",
+        "Anima.Vision.SeenFromCache",
         "Via.Direction",
         "Via.Overview",
         "Via.ReadLand",

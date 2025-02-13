@@ -49,9 +49,9 @@ Use the module colors along with their icons
 
 🟩<ekos>Eko</ekos>
 
-💜<psike>Psike</psike>
+💜<anima>Psike</anima>
 
-🟠<mooves>Moove</mooves>
+🟠<motor>Moove</motor>
 
 ## Betaglot Docs
 

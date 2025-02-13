@@ -143,7 +143,7 @@ Periods
 
 ## <dev>Color</dev>
 
-### <mooves>MooveColor</mooves>
+### <motor>MooveColor</motor>
 
 ```md
 
@@ -169,7 +169,7 @@ Periods
 #6a9955 
 ```
 
-### <psike>NeuroColor</psike>
+### <anima>NeuroColor</anima>
 
 ```ts
 #c586c0 
@@ -192,7 +192,7 @@ Initials like ByrneEuklid
 🟩 E of Ekos
 🔻 V of Via
 🟠 oo of Moove
-💜 Psike
+💜 Anima
 
 ### !Ikon
 
@@ -201,11 +201,11 @@ Concept, Object Property
 MooveTimeline is orange as a header but it is not prefixed with an Ikon.
 
 ::: warning Incorrect Syntax
-🟠<mooves>Arm.🟠<mooves>ArmPut()</mooves></mooves>
+🟠<motor>Arm.🟠<motor>ArmPut()</motor></motor>
 
-Only the 🟠<mooves>Arm</mooves> object is prefixed with an ikon. ArmPut is orange but has no ikon
+Only the 🟠<motor>Arm</motor> object is prefixed with an ikon. ArmPut is orange but has no ikon
 
-🟠<mooves>Arm.<mooves>ArmPut()</mooves></mooves>
+🟠<motor>Arm.<motor>ArmPut()</motor></motor>
 
 :::
 
@@ -249,10 +249,10 @@ When is it useful for Ikons to be monochrome outlines?
 
 <beta>`eko`</beta>
 
-<code><mooves>eko</mooves></code>
+<code><motor>eko</motor></code>
 
 ```html
-<code><mooves>eko</mooves></code>
+<code><motor>eko</motor></code>
 ```
 
 ## <dev>DesignBox</dev>
@@ -267,7 +267,7 @@ Delete tags once converted to headers. They are stored in a JSON
 
 ```md
 
-### 🟠 <dev>DesignBox</dev><mooves>.Moove</mooves>
+### 🟠 <dev>DesignBox</dev><motor>.Moove</motor>
 
 ```md
 ---
@@ -282,7 +282,7 @@ Delete tags once converted to headers. They are stored in a JSON
 -
 
 :::
-# 🟠 <mooves>Moove</mooves>
+# 🟠 <motor>Moove</motor>
 
 ```md
 
@@ -324,7 +324,7 @@ Delete tags once converted to headers. They are stored in a JSON
 
 ```md
 
-### 💜 <dev>DesignBox</dev><psike>.Psike</psike>
+### 💜 <dev>DesignBox</dev><anima>.Anima</anima>
 
 ```md
 ---
@@ -339,7 +339,7 @@ Delete tags once converted to headers. They are stored in a JSON
 -
 
 :::
-# 💜 <psike>Psike</psike>
+# 💜 <anima>Anima</anima>
 
 ```md
 
@@ -423,7 +423,7 @@ Should "via" be used as natural language? "Get to the next page via the link at 
 
 ## <dev>ElementPageDesign</dev>
 
-## <mooves>MoovePage.BaseLayout</mooves>
+## <motor>MoovePage.BaseLayout</motor>
 
 ### Definition
 
@@ -481,7 +481,7 @@ Syntax: `Moove.AnteMoove`
 
 Where in Eko is this Moove performed and on what EkoElement. Put "the ground" if necessary. Nothing is too obvious in formal languages!
 
-### Moove.Psike
+### Moove.Anima
 
 - Control Flow Statements for alternative moves
 
@@ -498,15 +498,15 @@ Where in Eko is this Moove performed and on what EkoElement. Put "the ground" if
 
 ### <via>Via.Moove</via>
 
-### <via>Via.Psike</via>
+### <via>Via.Anima</via>
 
 ### <via>Via.Beta</via>
 
 ### <via>Via.Via</via>
 
-## <psike>NeuroPage.BaseLayout</psike>
+## <anima>NeuroPage.BaseLayout</anima>
 
-## <psike></psike>
+## <anima></anima>
 
 ## <beta>BetaPage.BaseLayout</beta>
 

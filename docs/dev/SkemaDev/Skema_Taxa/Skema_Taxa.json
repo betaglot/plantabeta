@@ -3964,15 +3964,15 @@
             ]
         },
         {
-            "name": "Psike",
+            "name": "Anima",
             "type": "folder",
             "children": [
                 {
-                    "name": "PsikePraktik",
+                    "name": "AnimaPraktik",
                     "type": "folder"
                 },
                 {
-                    "name": "PsikeTeori",
+                    "name": "AnimaTeori",
                     "type": "folder",
                     "children": [
                         {
@@ -4190,11 +4190,11 @@
                             "type": "folder"
                         },
                         {
-                            "name": "PsikeDensity",
+                            "name": "AnimaDensity",
                             "type": "folder"
                         },
                         {
-                            "name": "PsikeLimit",
+                            "name": "AnimaLimit",
                             "type": "folder"
                         },
                         {

@@ -10,7 +10,7 @@ Scantily clad Plantors
 
 No genders
 
-### <mooves>Spade: SpadeMoove</mooves>
+### <motor>Spade: SpadeMoove</motor>
 
 - Ace:
 - 2:
@@ -26,7 +26,7 @@ No genders
 - Q:
 - K:
 
-### <psike>Heart: Psike</psike>
+### <anima>Heart: Anima</anima>
 
 Focus on Emotion and feeling, not abstract computations
 
@@ -87,7 +87,7 @@ Joker: Rock under cream
 - Achievements Poster
 - ElementWeb
 - ElementTree
-- Moove, Via, Eko, Psike, Beta
+- Moove, Via, Eko, Anima, Beta
 - Betaglot Logo
 
 ### CampPoster

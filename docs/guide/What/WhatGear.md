@@ -15,21 +15,21 @@
 
 - Plantors which don't live in tents, ie not in a bush camp.
 
-## 🟠 <mooves>Moove Instruments</mooves>
+## 🟠 <motor>Moove Instruments</motor>
 
 Instruments you need to perform plantor motos.
 
-### 🟠 <mooves>Spade</mooves>
+### 🟠 <motor>Spade</motor>
 
 - Often called a shovel, but is never used to scoop soil like a shovel.
 
-### 🟠 <mooves>Plantor Bags</mooves>
+### 🟠 <motor>Plantor Bags</motor>
 
-### 🟠 <mooves>Cache Bag</mooves>
+### 🟠 <motor>Cache Bag</motor>
 
-### 🟠 <mooves>Water Container</mooves>
+### 🟠 <motor>Water Container</motor>
 
-### 🟠 <mooves>Clothing</mooves>
+### 🟠 <motor>Clothing</motor>
 
 ::: tip
 
@@ -37,17 +37,17 @@ You will not regret bringing duplicates of clothing. If you have the space then 
 
 :::
 
-## 💜 <psike>Psike Instruments</psike>
+## 💜 <anima>Anima Instruments</anima>
 
 Instruments you need for your brain.
 
-### 💜 <psike>Notebook</psike>
+### 💜 <anima>Notebook</anima>
 
 - Record your tree count
 - Record species mix
 - Draw a map of your piece
 
-### 💜 <psike>Phone</psike>
+### 💜 <anima>Phone</anima>
 
 - Record your tree count
 - Record species mix
@@ -56,7 +56,7 @@ Instruments you need for your brain.
     - Podcasts
     - Audiobook
 
-### 💜 <psike>Speaker</psike>
+### 💜 <anima>Speaker</anima>
 
 - Use a speaker instead of headphones to be able to hear the Eko. Hear the wind, a tree falling behind you, an animal moving around, another plantor trying to communicate with you.
 

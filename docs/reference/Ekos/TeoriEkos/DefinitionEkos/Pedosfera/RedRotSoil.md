@@ -18,11 +18,11 @@ If the redrot is skreefed to deeper than a blade then punch down if you don't he
 
 -
 
-### Related 🟠<mooves>Moove</mooves>
+### Related 🟠<motor>Motor</motor>
 
 -
 
-### Related 💜<psike>Psike</psike>
+### Related 💜<anima>Anima</anima>
 
 -
 

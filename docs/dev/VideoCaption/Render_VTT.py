@@ -13,7 +13,7 @@ captionItemsList = [{
     "ekosCaption": "List of Ekons",
     "viaCaption": "List of Via", 
     "moovesCaption": "List of Mooves",
-    "psikeCaption": "Psike Sentences" 
+    "AnimaCaption": "Anima Sentences" 
 }]
 
 
@@ -34,7 +34,7 @@ def Render_VTT(captionItemsList):
         print(f"ekosCaption: {item['ekosCaption']}")
         print(f"viaCaption: {item['viaCaption']}")
         print(f"moovesCaption: {item['moovesCaption']}")
-        print(f"psikeCaption: {item['psikeCaption']}")
+        print(f"AnimaCaption: {item['AnimaCaption']}")
         print()
 
 Render_VTT(captionItemsList)

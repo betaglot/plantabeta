@@ -10,7 +10,7 @@
 
 ## <via>What is Via ?</via>
 
-> the interface between Moove, Psike and Eko
+> the interface between Moove, Anima and Eko
 
 ::: details Why is it called <via>Via</via>?
 
@@ -74,8 +74,8 @@ Not worth the trouble
 
 - Interact
 - Interface
-    - Via is the interface between <ekos>Eko</ekos> and <mooves>Moove</mooves>
-    - Via is the interface between <ekos>Eko</ekos> and <psike>Psike</psike>
+    - Via is the interface between <ekos>Eko</ekos> and <motor>Moove</motor>
+    - Via is the interface between <ekos>Eko</ekos> and <anima>Anima</anima>
 - Interpolate
     - Most ViaGeometry is interpolated.
 
@@ -90,7 +90,7 @@ Not worth the trouble
 > "Use that branch to pull yourself up"
 
 - Computational Geometry
-- The interface between Moove, Psike and Eko.
+- The interface between Moove, Anima and Eko.
 - Via is an abstract layer on top of Eko. A via is where the Plantor
 - A vias start and finish at the Cache.
 
@@ -187,14 +187,14 @@ Eko is decomposed by composing a Via
 - Route start and finish are RouteProblems
     - Route Surfaces are RouteSolutions
     - Givens Assignables are Route and their values are Eko
-- "Psike.Vision"
-- "Psike.Vision.Find.BackLine"
-- "Psike.Vision.Find.FarSide"
-- "Psike.Vision.Find.FindFirstBagUp"
-- "Psike.Vision.Find.Marka"
-- "Psike.Vision.Find.Overview"
-- "Psike.Vision.Hidden"
-- "Psike.Vision.SeenFromCache"
+- "Anima.Vision"
+- "Anima.Vision.Find.BackLine"
+- "Anima.Vision.Find.FarSide"
+- "Anima.Vision.Find.FindFirstBagUp"
+- "Anima.Vision.Find.Marka"
+- "Anima.Vision.Find.Overview"
+- "Anima.Vision.Hidden"
+- "Anima.Vision.SeenFromCache"
 - "Via.Direction"
 - "Via.Overview"
 - "Via.ReadLand"

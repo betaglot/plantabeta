@@ -11,7 +11,7 @@
 
 ## [![Via](/BetaIkon/Via_Ikon.png)](/reference/Via/ViaOverview)
 
-## [![Psike](/BetaIkon/Psike_Ikon.png)](/reference/Psike/PsikeOverview)
+## [![Anima](/BetaIkon/Anima_Ikon.png)](/reference/Anima/AnimaOverview)
 
 ## [Lexikon](/reference/Lexikon)
 

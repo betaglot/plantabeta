@@ -14,7 +14,7 @@ Aliases: Flow, Flowing Moovement, Fluidity, Fluid movement, Continuous, NonStop,
 
 Connection Score
 
-## 🟠<mooves>MOVE.Flux</mooves>
+## 🟠<motor>MOVE.Flux</motor>
 
 ### 🔷<beta>BetaAnalogy</beta>
 

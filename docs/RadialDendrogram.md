@@ -3858,20 +3858,20 @@ data = {
             ]
         },
         {
-            "name": "Psike",
+            "name": "Anima",
             "type": "folder",
             "children": [
                 {
-                    "name": "PsikeOverview.md",
+                    "name": "AnimaOverview.md",
                     "type": "file"
                 },
                 {
-                    "name": "PsikePraktik",
+                    "name": "AnimaPraktik",
                     "type": "folder",
                     "children": []
                 },
                 {
-                    "name": "PsikeTeori",
+                    "name": "AnimaTeori",
                     "type": "folder",
                     "children": [
                         {
@@ -4249,12 +4249,12 @@ data = {
                             ]
                         },
                         {
-                            "name": "PsikeDensity",
+                            "name": "AnimaDensity",
                             "type": "folder",
                             "children": []
                         },
                         {
-                            "name": "PsikeLimit",
+                            "name": "AnimaLimit",
                             "type": "folder",
                             "children": []
                         },

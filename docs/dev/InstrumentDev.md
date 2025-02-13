@@ -67,7 +67,7 @@ Not a place where many duplicates items are stored
 Stick them together with honey like cheap bookbinding
 Wax to waterproof
 
-## 🟠<mooves>DendroforDev</mooves>
+## 🟠<motor>DendroforDev</motor>
 
 Hold the thing that holds the Neon
 
@@ -75,7 +75,7 @@ Clamp under wrist to allow
 
 Attaches to the underside of Radior
 
-## 🟠<mooves>KiklosDev</mooves>
+## 🟠<motor>KiklosDev</motor>
 
 Kiklos: wheel
 
@@ -86,7 +86,7 @@ Aliases: Cart, Wagon, Trolley, Dolly, WheelBarrow
 - WalkIn
 - BoxMoove
 
-## 🟠<mooves>DoruDev</mooves>
+## 🟠<motor>DoruDev</motor>
 
 ### InstrumentRequirements()
 
@@ -94,7 +94,7 @@ Greek for Spear
 
 Lash D to Doru
 
-## 🟠<mooves>PlantaforDev</mooves>
+## 🟠<motor>PlantaforDev</motor>
 
 > (Plantafor == "plant" + "bearer")
 
@@ -112,11 +112,11 @@ Packed up space. Fold up Bag like origami
 
 Partially Disassemble to reduce space
 
-### 🟠<mooves>PieceCacheDev</mooves>
+### 🟠<motor>PieceCacheDev</motor>
 
 Somehow use Plantafor to carry a PieceCache
 
-### 🟠<mooves>BagMaterialDev</mooves>
+### 🟠<motor>BagMaterialDev</motor>
 
 #### InstrumentRequirements()
 
@@ -124,17 +124,17 @@ Somehow use Plantafor to carry a PieceCache
 - Carbon Fiber
 -
 
-### 🟠<mooves>BeltDev</mooves>
+### 🟠<motor>BeltDev</motor>
 
 - Rope which flows into frame
 - Custom and adjust by knot like harness
 - Suspension System
 
-### 🟠<mooves>BasketWallDev</mooves>
+### 🟠<motor>BasketWallDev</motor>
 
 - Cradle board sidebag
 
-### 🟠<mooves>BagFrameDev</mooves>
+### 🟠<motor>BagFrameDev</motor>
 
 They should be rigid and woven
 
@@ -164,7 +164,7 @@ Make cardboard prototype.
 
 "Lay up"
 
-### 🟠<mooves>BagSkeletonDev</mooves>
+### 🟠<motor>BagSkeletonDev</motor>
 
 Pannier
 
@@ -172,7 +172,7 @@ Pannier
 - To keep sidebags from rubbing on legs.
 - Suspension system
 
-### 🟠<mooves>BackBagDev</mooves>
+### 🟠<motor>BackBagDev</motor>
 
 - ❌<error>There needs to be another moniker for "BackBag"</error>
     - Something like "Instrumentbox"
@@ -180,7 +180,7 @@ Pannier
 - Use waterproof Flap instead of sphincter design, since sphincter allows water to collect and slowly seep into backbag.
 - Pocket on underside of Flap
 
-### 🟠<mooves>MarkaforDev</mooves>
+### 🟠<motor>MarkaforDev</motor>
 
 Ideally there would be a Markor on each Ulnor
 
@@ -195,11 +195,11 @@ Polychrome or Polytipos
 
 More than one color
 
-## 🟠<mooves>RopeDev</mooves>
+## 🟠<motor>RopeDev</motor>
 
 Rope to transport the Instruments
 
-### <mooves>🟠PlotCordDev</mooves>
+### <motor>🟠PlotCordDev</motor>
 
 - Abacus plot cord
 - Storage within Bags accessible with bags on.
@@ -210,13 +210,13 @@ Lashing requires a thinner rope than
 
 Use Hemp Lashing so you can leave the sticks to decompose
 
-### <mooves>Abrasion Resistant MaterialDev</mooves>
+### <motor>Abrasion Resistant MaterialDev</motor>
 
 Cordura or Kevlar
 
 - <https://www.testextextile.com/evaluating-the-abrasion-resistance-of-different-fabric-types/#Most_Abrasion-Resistant_Synthetic_Fibers>
 
-## 🟠<mooves>KitDev</mooves>
+## 🟠<motor>KitDev</motor>
 
 ### Requirements
 
@@ -250,9 +250,9 @@ Protein Powder Cookies
 
 ### Dirty Gloves
 
-## <mooves>Water VolumeDev</mooves>
+## <motor>Water VolumeDev</motor>
 
-## 🟠<mooves>SuitDev</mooves>
+## 🟠<motor>SuitDev</motor>
 
 ### SuitModularity
 
@@ -278,7 +278,7 @@ Mail at joints
 
 #### SuitSwap out parts to adapt to Eko and Moove
 
-### 🟠<mooves>RadiorDev</mooves>
+### 🟠<motor>RadiorDev</motor>
 
 #### Etymology(Radior)
 
@@ -304,7 +304,7 @@ The goal of vambrace is to keep the hand clean and warm. There isn't a need to p
 - You only need to worry about the back of your hands. Glabrous warms the palm
 - Wool lining
 
-### 🟠<mooves>PaddingDev</mooves>
+### 🟠<motor>PaddingDev</motor>
 
 - HipPadding
 - KneePadding
@@ -315,7 +315,7 @@ The goal of vambrace is to keep the hand clean and warm. There isn't a need to p
     - Plantors wear a corset under their waist belt like a saddle pad
     - Corset restricts BendOver
 
-### 🟠<mooves>PantDev</mooves>
+### 🟠<motor>PantDev</motor>
 
 - Gusset to strengthen crotch
 
@@ -345,7 +345,7 @@ SuitParts = [
 
 ```
 
-### 🟠<mooves>TibiorDev</mooves>
+### 🟠<motor>TibiorDev</motor>
 
 #### Aliases
 
@@ -366,7 +366,7 @@ SuitParts = [
 - Extra padding to strengthen attachment point and to prevent erosion from metal wire from rubbing on boot leather.
 - Big zipper
 
-### 🟠<mooves>GloveDev</mooves>
+### 🟠<motor>GloveDev</motor>
 
 #### InstrumentRequirements()
 
@@ -390,18 +390,18 @@ SuitParts = [
 - Glove which does not collect dirt unlike the knitted gloves currently used by most plantors
 - Easily taken off without getting dirt inside
 
-### 🟠<mooves>KranosDev</mooves>
+### 🟠<motor>KranosDev</motor>
 
 - Etymology(Kranos) = Cranium
 - Helmet
 - SoftShell
 - BugNet
 
-### 🟠<mooves>ShellDev</mooves>
+### 🟠<motor>ShellDev</motor>
 
 <https://www.patagonia.ca/product/hose-down-slicker-jacket/27892.html?dwvar_27892_color=CMPO>
 
-#### 🟠<mooves>ZipperDev</mooves>
+#### 🟠<motor>ZipperDev</motor>
 
 - Zipper.Anatomy
     - Tape
@@ -420,7 +420,7 @@ SuitParts = [
     - to prevent getting mud on your shell while you're trying to Mano the ZipperTab
     - to allow you to lever the zipper tab so that the cinch
 
-### 🟠<mooves>Bellow BackpackDev</mooves>
+### 🟠<motor>Bellow BackpackDev</motor>
 
 Bellow which blows air into shirt for evaporative cooling during summer
 

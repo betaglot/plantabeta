@@ -11,12 +11,12 @@
 
 - Locked on to the target
 
-### Related 🟠<mooves>Moove</mooves>
+### Related 🟠<motor>Motor</motor>
 
 - Locked in
 - Locked and loaded (CacheMoove)
 
-### Related 💜<psike>Psike</psike>
+### Related 💜<anima>Anima</anima>
 
 - Lock eyes
 

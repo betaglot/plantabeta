@@ -1,0 +1,26 @@
+# 🟠<motor>MooveMorfo</motor>
+
+## 🔷<beta>BetaAnalogy</beta>
+
+## BetaTypes
+
+🔻<via>VIA</via>, 🟩<ekos>EKO</ekos>, 🟠<motor>MOVE</motor>
+
+## Relative Geometry
+
+A Moove that's big for a small athlete, isn't big for a large athlete.
+
+Jumping a third of your height
+
+---
+
+<!-- =================================================== -->
+<!-- =================================================== -->
+<!-- =================================================== -->
+<!-- =================================================== -->
+<!-- =================================================== -->
+::: details 🛠 <dev>&&&</dev>
+
+-
+
+:::

@@ -101,7 +101,7 @@
 ### Reduces Effort
 
 - PlantaBeta informs Plantors on the
-- Increased <psike>CognitiveEase</psike> leads to feelings of effortlessness.
+- Increased <anima>CognitiveEase</anima> leads to feelings of effortlessness.
 - Fluid moto through the Eko.
 - Reduces the distance travelled by Plantors by using efficient Routing.
 

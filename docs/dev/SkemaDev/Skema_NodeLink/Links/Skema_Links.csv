@@ -3,11 +3,11 @@ TeamBeta,RelatedToEkon,UnstableSlope
 TeamBeta,RelatedToVium,TeamVia
 TeamBeta,RelatedToMoove,RockSkreef
 TeamBeta,RelatedToMoove,SkreefMoove
-TeamBeta,RelatedToPsike,Teamwork
+TeamBeta,RelatedToAnima,Teamwork
 EkoError,RelatedToEkon,PrepError
 EkoError,RelatedToVium,DoublePlant
 EkoError,RelatedToMoove,Fall
-EkoError,RelatedToPsike,Anger
+EkoError,RelatedToAnima,Anger
 BurnPit,RelatedToEkon,DustAtmos
 BurnPit,RelatedToEkon,CreamSoil
 BurnPit,RelatedToVium,CircleZone
@@ -76,8 +76,8 @@ Picea,RelatedToLabor,WetSite
 Picea,RelatedToAtlete,SpruceRash
 Tsuga,RelatedToEkon,Pseudotsuga
 Tsuga,RelatedToEkon,Flora
-Tsuga,RelatedToPsike,SpeciesIdentification
-Bryophyta,RelatedToPsike,SpeciesIdentification
+Tsuga,RelatedToAnima,SpeciesIdentification
+Bryophyta,RelatedToAnima,SpeciesIdentification
 BurntLand,RelatedToEkon,AshAtmos
 BurntLand,RelatedToEkon,AshSoil
 BurntLand,RelatedToEkon,Wind
@@ -108,7 +108,7 @@ Helios,RelatedToMoove,ClothingLayering
 Helios,RelatedToAtlete,SunBurn
 Helios,RelatedToMoove,HatMoove
 Helios,RelatedToEkon,Shadow
-Helios,RelatedToPsike,Mood
+Helios,RelatedToAnima,Mood
 Helios,RelatedToLabor,EvaporateClothes
 Helios,RelatedToEkon,EvaporateFlora
 Helios,RelatedToEkon,HotRock
@@ -143,7 +143,7 @@ SiltSoil,RelatedToMoove,SoilCompress
 RedRotSoil,RelatedToVium,Obstacle
 RedRotSoil,RelatedToMoove,RedRotSkreef
 RedRotSoil,RelatedToLabor,SoilFault
-RedRotSoil,RelatedToPsike,SoilIdentification
+RedRotSoil,RelatedToAnima,SoilIdentification
 WetSoil,RelatedToMoove,SlapKlose
 DiscernSigns,RelatedToVium,KompletedZone
 BaseAbduction,RelatedToVium,LateralDirection
@@ -197,13 +197,13 @@ Pseudotsuga,RelatedToEkon,Abies,"DouglasFir looks like Abies, which is confusing
 Quercus,RelatedToEkon,Ontario,"Oak is planted in Ontario, but not BC"
 Thuja,RelatedToEkon,Stickmat
 Tsuga,RelatedToLabor,Pseudotsuga,"Hemlock looks like DouglasFir and is sometimes a CropTree"
-Fauna,RelatedToPsike,Fear,"Bears are scary"
+Fauna,RelatedToAnima,Fear,"Bears are scary"
 Bryophyta,RelatedToLabor,NoSkreefSite
 BurntLand,RelatedToLabor,NoSkreefSite
 CropTree,RelatedToVium,DripLineLimit
 Flower,RelatedToLabor,MarkaError,"Fireweed, Lupine, and Paintbrush look like Marka"
 Log,RelatedToLabor,SiteProtection
-Flora,RelatedToPsike,Color
+Flora,RelatedToAnima,Color
 Poales,RelatedToMoove,SpadeSkreef
 RiparianZone,RelatedToLabor,SlipSite
 BurnPileSlash,RelatedToEkon,SlashCollapse
@@ -548,7 +548,7 @@ MooveLine,
 MooveSpace,
 MooveSimbols,
 MooveTeori,
-PsikeOverview,
+AnimaOverview,
 Arousal,
 Attention,
 BranchBreakSound,

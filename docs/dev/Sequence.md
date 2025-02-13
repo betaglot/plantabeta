@@ -8,13 +8,13 @@ The Sequences of each BetaTipos
 🔻: Via is composed of Viums
 💜: Processes composed of Experiences
 
-- Analogy(Sequence, {Via: Via, Moove: Frase, Eko: Eko, Psike: Process, Beta: Sequence})
+- Analogy(Sequence, {Via: Via, Moove: Frase, Eko: Eko, Anima: Process, Beta: Sequence})
 
 ## Sinkron (Noun)
 
 Aliases: Concurrent Element
 
-> An 🟠<mooves>MOVE</mooves> which is performed at the same time as another 🟠<mooves>MOVE</mooves>
+> An 🟠<motor>MOVE</motor> which is performed at the same time as another 🟠<motor>MOVE</motor>
 
 ### Concurrency or Parallelism
 
@@ -54,7 +54,7 @@ The Ritmo of a Sequence
 
 ## Control Flow Statements
 
-Control flow is the codified version of [Decision Making](/encyclopedia/Psike/Decision/Overview)
+Control flow is the codified version of [Decision Making](/encyclopedia/Anima/Decision/Overview)
 
 - Decision
     - Conscious

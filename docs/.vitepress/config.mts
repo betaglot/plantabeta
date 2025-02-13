@@ -98,8 +98,8 @@ function sidebarDevelopment() {
         { text: '<dev>Overview</dev>', link: '/dev/Graphics/Overview' },
         { text: '<beta>Beta Graphics</beta>', link: '/dev/Graphics/BetaGraphic' },
         { text: '<ekos>Ekos Graphics</ekos>', link: '/dev/Graphics/EcoGraphic' },
-        { text: '<mooves>Moove Graphics</mooves>', link: '/dev/Graphics/MoovesGraphic' },
-        { text: '<psike>Psike Graphics</psike>', link: '/dev/Graphics/NeuroGraphic' },
+        { text: '<motor>Moove Graphics</motor>', link: '/dev/Graphics/MoovesGraphic' },
+        { text: '<anima>Psike Graphics</anima>', link: '/dev/Graphics/NeuroGraphic' },
         { text: '<via>Via Graphics</via>', link: '/dev/Graphics/ViaGraphic' },
         { text: 'UX Graphics', link: '/dev/Graphics/UXGraphic' },
         { text: '<dev>DX Graphics</dev>', link: '/dev/Graphics/DXGraphic' },
@@ -141,10 +141,10 @@ function sidebarGuide() {
     {
       text: 'Purpose', collapsed: false, items: [
         { text: '🔥<ekos>To Support Ecosystems</ekos>', link: '/guide/Why/SupportEcosystem' },
-        { text: '🟠<mooves>To Reduce Injury</mooves>', link: '/guide/Why/Injury' },
+        { text: '🟠<motor>To Reduce Injury</motor>', link: '/guide/Why/Injury' },
         { text: '🔻<via>To Increase Productivity</via>', link: '/guide/Why/Productivity' },
         { text: '🔷<beta>To Improve Communication</beta>', link: '/guide/Why/Communication' },
-        { text: '💜<psike>To Steepen Learning Curve</psike>', link: '/guide/Why/LearningCurve' },
+        { text: '💜<anima>To Steepen Learning Curve</anima>', link: '/guide/Why/LearningCurve' },
         { text: '💲To Increase Profit', link: '/guide/Why/Company' }
       ]
     },
@@ -308,284 +308,284 @@ function sidebarReference() {
     },
     // #Moove
     {
-      text: '🟠 <mooves>Mooves</mooves>', link: '/reference/Mooves/MoovesOverview', collapsed: true, items: [
-        { text: '🟠 <mooves>Frase</mooves>', link: '/reference/Mooves/Frase/Overview' },
+      text: '🟠 <motor>Mooves</motor>', link: '/reference/Mooves/MoovesOverview', collapsed: true, items: [
+        { text: '🟠 <motor>Frase</motor>', link: '/reference/Mooves/Frase/Overview' },
         {
-          text: '🟠 <mooves>TEORI</mooves>', link: '/reference/Mooves/MoovesTeori/Overview', collapsed: true, items: [
-            { text: '🟠 <mooves>MooveTeknik</mooves>', link: '/reference/Mooves/MoovesTeori/MoovesTeknik' },
-            { text: '🟠 <mooves>MooveKratos</mooves>', link: '/reference/Mooves/MoovesTeori/MoovesKratos' },
-            { text: '🟠 <mooves>MooveKuboi</mooves>', link: '/reference/Mooves/MoovesTeori/MoovesKuboi' },
+          text: '🟠 <motor>TEORI</motor>', link: '/reference/Mooves/MoovesTeori/Overview', collapsed: true, items: [
+            { text: '🟠 <motor>MooveTeknik</motor>', link: '/reference/Mooves/MoovesTeori/MoovesTeknik' },
+            { text: '🟠 <motor>MooveKratos</motor>', link: '/reference/Mooves/MoovesTeori/MoovesKratos' },
+            { text: '🟠 <motor>MooveKuboi</motor>', link: '/reference/Mooves/MoovesTeori/MoovesKuboi' },
           ],
         },
         {
-          text: '🟠 <mooves>MooveGeometry</mooves>', collapsed: true, items: [
-            { text: '🟠 <mooves>Overview</mooves>', link: '/reference/Mooves/MoovesGeometry/Overview' },
-            { text: '🟠 <mooves>MoovePoint</mooves>', link: '/reference/Mooves/MoovesGeometry/MoovesPoint' },
-            { text: '🟠 <mooves>MooveCurve</mooves>', link: '/reference/Mooves/MoovesGeometry/MoovesCurve' },
-            { text: '🟠 <mooves>MooveSpace</mooves>', link: '/reference/Mooves/MoovesGeometry/MoovesSpace' },
-            { text: '🟠 <mooves>MooveSurface</mooves>', link: '/reference/Mooves/MoovesGeometry/MoovesSurface' },
+          text: '🟠 <motor>MooveGeometry</motor>', collapsed: true, items: [
+            { text: '🟠 <motor>Overview</motor>', link: '/reference/Mooves/MoovesGeometry/Overview' },
+            { text: '🟠 <motor>MoovePoint</motor>', link: '/reference/Mooves/MoovesGeometry/MoovesPoint' },
+            { text: '🟠 <motor>MooveCurve</motor>', link: '/reference/Mooves/MoovesGeometry/MoovesCurve' },
+            { text: '🟠 <motor>MooveSpace</motor>', link: '/reference/Mooves/MoovesGeometry/MoovesSpace' },
+            { text: '🟠 <motor>MooveSurface</motor>', link: '/reference/Mooves/MoovesGeometry/MoovesSurface' },
           ]
         },
         {
-          text: '🟠 <mooves>BrazoMoove</mooves>', link: '/reference/Mooves/BrazoMooves/Overview', collapsed: true, items: [
-            { text: '🟠 <mooves>Arm Frase</mooves>', link: '/reference/Mooves/BrazoMooves/Frase/Overview' },
-            { text: '🟠 <mooves>BrazoAma</mooves>', link: '/reference/Mooves/BrazoMooves/BrazoAma' },
-            { text: '🟠 <mooves>ArmKurve</mooves>', link: '/reference/Mooves/BrazoMooves/ArmKurve' },
-            { text: '🟠 <mooves>ArmWalk</mooves>', link: '/reference/Mooves/BrazoMooves/ArmWalk' },
-            { text: '🟠 <mooves>ArmBalance</mooves>', link: '/reference/Mooves/BrazoMooves/ArmBalance' },
+          text: '🟠 <motor>BrazoMoove</motor>', link: '/reference/Mooves/BrazoMooves/Overview', collapsed: true, items: [
+            { text: '🟠 <motor>Arm Frase</motor>', link: '/reference/Mooves/BrazoMooves/Frase/Overview' },
+            { text: '🟠 <motor>BrazoAma</motor>', link: '/reference/Mooves/BrazoMooves/BrazoAma' },
+            { text: '🟠 <motor>ArmKurve</motor>', link: '/reference/Mooves/BrazoMooves/ArmKurve' },
+            { text: '🟠 <motor>ArmWalk</motor>', link: '/reference/Mooves/BrazoMooves/ArmWalk' },
+            { text: '🟠 <motor>ArmBalance</motor>', link: '/reference/Mooves/BrazoMooves/ArmBalance' },
           ]
         },
         {
-          text: '🟠 <mooves>KorposMooves</mooves>', link: '/reference/Mooves/KorposMooves/Overview', collapsed: true, items: [
-            { text: '🟠 <mooves>Body Frase</mooves>', link: '/reference/Mooves/KorposMooves/Frase/Overview' },
-            { text: '🟠 <mooves>BodyAbsorb</mooves>', link: '/reference/Mooves/KorposMooves/BodyAbsorb' },
-            { text: '🟠 <mooves>BodyBend</mooves>', link: '/reference/Mooves/KorposMooves/BodyBend' },
-            { text: '🟠 <mooves>BodyLean</mooves>', link: '/reference/Mooves/KorposMooves/BodyLean' },
-            { text: '🟠 <mooves>KorpoOrbit</mooves>', link: '/reference/Mooves/KorposMooves/KorpoOrbit' },
-            { text: '🟠 <mooves>BodyRotate</mooves>', link: '/reference/Mooves/KorposMooves/BodyRotate' },
-            { text: '🟠 <mooves>BodySlot</mooves>', link: '/reference/Mooves/KorposMooves/BodySlot' },
-            { text: '🟠 <mooves>Fall</mooves>', link: '/reference/Mooves/KorposMooves/Fall' },
+          text: '🟠 <motor>KorposMooves</motor>', link: '/reference/Mooves/KorposMooves/Overview', collapsed: true, items: [
+            { text: '🟠 <motor>Body Frase</motor>', link: '/reference/Mooves/KorposMooves/Frase/Overview' },
+            { text: '🟠 <motor>BodyAbsorb</motor>', link: '/reference/Mooves/KorposMooves/BodyAbsorb' },
+            { text: '🟠 <motor>BodyBend</motor>', link: '/reference/Mooves/KorposMooves/BodyBend' },
+            { text: '🟠 <motor>BodyLean</motor>', link: '/reference/Mooves/KorposMooves/BodyLean' },
+            { text: '🟠 <motor>KorpoOrbit</motor>', link: '/reference/Mooves/KorposMooves/KorpoOrbit' },
+            { text: '🟠 <motor>BodyRotate</motor>', link: '/reference/Mooves/KorposMooves/BodyRotate' },
+            { text: '🟠 <motor>BodySlot</motor>', link: '/reference/Mooves/KorposMooves/BodySlot' },
+            { text: '🟠 <motor>Fall</motor>', link: '/reference/Mooves/KorposMooves/Fall' },
           ]
         },
         {
-          text: '🟠 <mooves>CacheMooves</mooves>', link: '/reference/Mooves/CacheMoove/Overview', collapsed: true, items: [
-            { text: '🟠 <mooves>Cache Frase</mooves>', link: '/reference/Mooves/CacheMoove/Frase/Overview' },
-            { text: '🟠 <mooves>Eating</mooves>', link: '/reference/Mooves/CacheMoove/Eating' },
-            { text: '🟠 <mooves>TarpOff</mooves>', link: '/reference/Mooves/CacheMoove/TarpOff' },
-            { text: '🟠 <mooves>TarpOn</mooves>', link: '/reference/Mooves/CacheMoove/TarpOn' },
+          text: '🟠 <motor>CacheMooves</motor>', link: '/reference/Mooves/CacheMoove/Overview', collapsed: true, items: [
+            { text: '🟠 <motor>Cache Frase</motor>', link: '/reference/Mooves/CacheMoove/Frase/Overview' },
+            { text: '🟠 <motor>Eating</motor>', link: '/reference/Mooves/CacheMoove/Eating' },
+            { text: '🟠 <motor>TarpOff</motor>', link: '/reference/Mooves/CacheMoove/TarpOff' },
+            { text: '🟠 <motor>TarpOn</motor>', link: '/reference/Mooves/CacheMoove/TarpOn' },
           ]
         },
         {
-          text: '🟠 <mooves>ClothingMooves</mooves>', link: '/reference/Mooves/ClothingMooves/Overview', collapsed: true, items: [
-            { text: '🟠 <mooves>Clothing Frase</mooves>', link: '/reference/Mooves/ClothingMooves/Frase/Overview' },
-            { text: '🟠 <mooves>Button</mooves>', link: '/reference/Mooves/ClothingMooves/Button' },
-            { text: '🟠 <mooves>ClothingLayer</mooves>', link: '/reference/Mooves/ClothingMooves/ClothingLayer' },
-            { text: '🟠 <mooves>RemoveMud</mooves>', link: '/reference/Mooves/ClothingMooves/RemooveMud' },
-            { text: '🟠 <mooves>ZipperMooves</mooves>', link: '/reference/Mooves/ClothingMooves/ZipperMoove' },
+          text: '🟠 <motor>ClothingMooves</motor>', link: '/reference/Mooves/ClothingMooves/Overview', collapsed: true, items: [
+            { text: '🟠 <motor>Clothing Frase</motor>', link: '/reference/Mooves/ClothingMooves/Frase/Overview' },
+            { text: '🟠 <motor>Button</motor>', link: '/reference/Mooves/ClothingMooves/Button' },
+            { text: '🟠 <motor>ClothingLayer</motor>', link: '/reference/Mooves/ClothingMooves/ClothingLayer' },
+            { text: '🟠 <motor>RemoveMud</motor>', link: '/reference/Mooves/ClothingMooves/RemooveMud' },
+            { text: '🟠 <motor>ZipperMooves</motor>', link: '/reference/Mooves/ClothingMooves/ZipperMoove' },
           ]
         },
         {
-          text: '🟠 <mooves>FootMooves</mooves>', link: '/reference/Mooves/BaseMooves/Overview', collapsed: true, items: [
-            { text: '🟠 <mooves>Foot Frase</mooves>', link: '/reference/Mooves/BaseMooves/Frase/Overview' },
-            { text: '🟠 <mooves>FootArchSmear</mooves>', link: '/reference/Mooves/BaseMooves/FootArchSmear' },
-            { text: '🟠 <mooves>FootSeal</mooves>', link: '/reference/Mooves/BaseMooves/FootSeal' },
-            { text: '🟠 <mooves>FootDig</mooves>', link: '/reference/Mooves/BaseMooves/FootDig' },
-            { text: '🟠 <mooves>FootDorsiflexion</mooves>', link: '/reference/Mooves/BaseMooves/FootDorsiflexion' },
-            { text: '🟠 <mooves>FootDrag</mooves>', link: '/reference/Mooves/BaseMooves/FootDrag' },
-            { text: '🟠 <mooves>FootEversion</mooves>', link: '/reference/Mooves/BaseMooves/FootEversion' },
-            { text: '🟠 <mooves>FootInversion</mooves>', link: '/reference/Mooves/BaseMooves/FootInversion' },
-            { text: '🟠 <mooves>FootSkreef</mooves>', link: '/reference/Mooves/BaseMooves/FootSkreef' },
-            { text: '🟠 <mooves>PlantarFlexion</mooves>', link: '/reference/Mooves/BaseMooves/PlantarFlexion' },
+          text: '🟠 <motor>FootMooves</motor>', link: '/reference/Mooves/BaseMooves/Overview', collapsed: true, items: [
+            { text: '🟠 <motor>Foot Frase</motor>', link: '/reference/Mooves/BaseMooves/Frase/Overview' },
+            { text: '🟠 <motor>FootArchSmear</motor>', link: '/reference/Mooves/BaseMooves/FootArchSmear' },
+            { text: '🟠 <motor>FootSeal</motor>', link: '/reference/Mooves/BaseMooves/FootSeal' },
+            { text: '🟠 <motor>FootDig</motor>', link: '/reference/Mooves/BaseMooves/FootDig' },
+            { text: '🟠 <motor>FootDorsiflexion</motor>', link: '/reference/Mooves/BaseMooves/FootDorsiflexion' },
+            { text: '🟠 <motor>FootDrag</motor>', link: '/reference/Mooves/BaseMooves/FootDrag' },
+            { text: '🟠 <motor>FootEversion</motor>', link: '/reference/Mooves/BaseMooves/FootEversion' },
+            { text: '🟠 <motor>FootInversion</motor>', link: '/reference/Mooves/BaseMooves/FootInversion' },
+            { text: '🟠 <motor>FootSkreef</motor>', link: '/reference/Mooves/BaseMooves/FootSkreef' },
+            { text: '🟠 <motor>PlantarFlexion</motor>', link: '/reference/Mooves/BaseMooves/PlantarFlexion' },
           ]
         },
         {
-          text: '🟠 <mooves>ManoMooves</mooves>', link: '/reference/Mooves/ManoMoove/Overview', collapsed: true, items: [
-            { text: '🟠 <mooves>Hand Frase</mooves>', link: '/reference/Mooves/ManoMoove/Frase/Overview' },
-            { text: '🟠 <mooves>BagMano</mooves>', link: '/reference/Mooves/ManoMoove/BagMano' },
-            { text: '🟠 <mooves>BoxMano</mooves>', link: '/reference/Mooves/ManoMoove/BoxMano' },
-            { text: '🟠 <mooves>BranchMano</mooves>', link: '/reference/Mooves/ManoMoove/BranchMano' },
-            { text: '🟠 <mooves>BranchSnapMano</mooves>', link: '/reference/Mooves/ManoMoove/BranchSnapMano' },
-            { text: '🟠 <mooves>HandClose</mooves>', link: '/reference/Mooves/ManoMoove/HandClose' },
-            { text: '🟠 <mooves>HandPoke</mooves>', link: '/reference/Mooves/ManoMoove/HandPoke' },
-            { text: '🟠 <mooves>HandSkreef</mooves>', link: '/reference/Mooves/ManoMoove/HandSkreef' },
-            { text: '🟠 <mooves>SpadeHandleMano</mooves>', link: '/reference/Mooves/ManoMoove/SpadeHandleMano' },
-            { text: '🟠 <mooves>SpadeCollarMano</mooves>', link: '/reference/Mooves/ManoMoove/SpadeCollarMano' },
-            { text: '🟠 <mooves>TreeMano</mooves>', link: '/reference/Mooves/ManoMoove/TreeMano' },
-            { text: '🟠 <mooves>TreeTestMano</mooves>', link: '/reference/Mooves/ManoMoove/TreeTestMano' },
+          text: '🟠 <motor>ManoMooves</motor>', link: '/reference/Mooves/ManoMoove/Overview', collapsed: true, items: [
+            { text: '🟠 <motor>Hand Frase</motor>', link: '/reference/Mooves/ManoMoove/Frase/Overview' },
+            { text: '🟠 <motor>BagMano</motor>', link: '/reference/Mooves/ManoMoove/BagMano' },
+            { text: '🟠 <motor>BoxMano</motor>', link: '/reference/Mooves/ManoMoove/BoxMano' },
+            { text: '🟠 <motor>BranchMano</motor>', link: '/reference/Mooves/ManoMoove/BranchMano' },
+            { text: '🟠 <motor>BranchSnapMano</motor>', link: '/reference/Mooves/ManoMoove/BranchSnapMano' },
+            { text: '🟠 <motor>HandClose</motor>', link: '/reference/Mooves/ManoMoove/HandClose' },
+            { text: '🟠 <motor>HandPoke</motor>', link: '/reference/Mooves/ManoMoove/HandPoke' },
+            { text: '🟠 <motor>HandSkreef</motor>', link: '/reference/Mooves/ManoMoove/HandSkreef' },
+            { text: '🟠 <motor>SpadeHandleMano</motor>', link: '/reference/Mooves/ManoMoove/SpadeHandleMano' },
+            { text: '🟠 <motor>SpadeCollarMano</motor>', link: '/reference/Mooves/ManoMoove/SpadeCollarMano' },
+            { text: '🟠 <motor>TreeMano</motor>', link: '/reference/Mooves/ManoMoove/TreeMano' },
+            { text: '🟠 <motor>TreeTestMano</motor>', link: '/reference/Mooves/ManoMoove/TreeTestMano' },
           ]
         },
         {
-          text: '🟠 <mooves>HeadMooves</mooves>', link: '/reference/Mooves/HeadMoove/Overview', collapsed: true, items: [
-            { text: '🟠 <mooves>Head Frase</mooves>', link: '/reference/Mooves/HeadMoove/Frase/Overview' },
-            { text: '🟠 <mooves>FocusLook</mooves>', link: '/reference/Mooves/HeadMoove/FocusLook' },
-            { text: '🟠 <mooves>HeadProtraction</mooves>', link: '/reference/Mooves/HeadMoove/HeadProtraction' },
-            { text: '🟠 <mooves>HeadRetraction</mooves>', link: '/reference/Mooves/HeadMoove/HeadRetraction' },
-            { text: '🟠 <mooves>HeadTiltIntoWind</mooves>', link: '/reference/Mooves/HeadMoove/HeadTiltIntoWind' },
-            { text: '🟠 <mooves>Hearing</mooves>', link: '/reference/Mooves/HeadMoove/Hearing' },
-            { text: '🟠 <mooves>LookAway</mooves>', link: '/reference/Mooves/HeadMoove/LookAway' },
-            { text: '🟠 <mooves>NeckExtension</mooves>', link: '/reference/Mooves/HeadMoove/NeckExtension' },
+          text: '🟠 <motor>HeadMooves</motor>', link: '/reference/Mooves/HeadMoove/Overview', collapsed: true, items: [
+            { text: '🟠 <motor>Head Frase</motor>', link: '/reference/Mooves/HeadMoove/Frase/Overview' },
+            { text: '🟠 <motor>FocusLook</motor>', link: '/reference/Mooves/HeadMoove/FocusLook' },
+            { text: '🟠 <motor>HeadProtraction</motor>', link: '/reference/Mooves/HeadMoove/HeadProtraction' },
+            { text: '🟠 <motor>HeadRetraction</motor>', link: '/reference/Mooves/HeadMoove/HeadRetraction' },
+            { text: '🟠 <motor>HeadTiltIntoWind</motor>', link: '/reference/Mooves/HeadMoove/HeadTiltIntoWind' },
+            { text: '🟠 <motor>Hearing</motor>', link: '/reference/Mooves/HeadMoove/Hearing' },
+            { text: '🟠 <motor>LookAway</motor>', link: '/reference/Mooves/HeadMoove/LookAway' },
+            { text: '🟠 <motor>NeckExtension</motor>', link: '/reference/Mooves/HeadMoove/NeckExtension' },
           ]
         },
         {
-          text: '🟠 <mooves>HoleMooves</mooves>', link: '/reference/Mooves/HoleMoove/Overview', collapsed: true, items: [
-            { text: '🟠 <mooves>Hole Frase</mooves>', link: '/reference/Mooves/HoleMoove/Frase/Overview' },
-            { text: '🟠 <mooves>HoleClose</mooves>', link: '/reference/Mooves/HoleMoove/HoleClose' },
-            { text: '🟠 <mooves>HoleExpand</mooves>', link: '/reference/Mooves/HoleMoove/HoleExpand' },
-            { text: '🟠 <mooves>HoleOpen</mooves>', link: '/reference/Mooves/HoleMoove/HoleOpen' },
+          text: '🟠 <motor>HoleMooves</motor>', link: '/reference/Mooves/HoleMoove/Overview', collapsed: true, items: [
+            { text: '🟠 <motor>Hole Frase</motor>', link: '/reference/Mooves/HoleMoove/Frase/Overview' },
+            { text: '🟠 <motor>HoleClose</motor>', link: '/reference/Mooves/HoleMoove/HoleClose' },
+            { text: '🟠 <motor>HoleExpand</motor>', link: '/reference/Mooves/HoleMoove/HoleExpand' },
+            { text: '🟠 <motor>HoleOpen</motor>', link: '/reference/Mooves/HoleMoove/HoleOpen' },
           ]
         },
         {
-          text: '🟠 <mooves>BaseMooves</mooves>', link: '/reference/Mooves/LegMoove/Overview', collapsed: true, items: [
-            { text: '🟠 <mooves>Leg Frase</mooves>', link: '/reference/Mooves/LegMoove/Frase/Overview' },
-            { text: '🟠 <mooves>Crouch</mooves>', link: '/reference/Mooves/LegMoove/Overview' },
-            { text: '🟠 <mooves>Jump</mooves>', link: '/reference/Mooves/LegMoove/Jump' },
-            { text: '🟠 <mooves>Kneel</mooves>', link: '/reference/Mooves/LegMoove/Kneel' },
-            { text: '🟠 <mooves>LegAbduction</mooves>', link: '/reference/Mooves/LegMoove/LegAbduction' },
-            { text: '🟠 <mooves>LegAbsorb</mooves>', link: '/reference/Mooves/LegMoove/LegAbsorb' },
-            { text: '🟠 <mooves>LegAdduction</mooves>', link: '/reference/Mooves/LegMoove/LegAdduction' },
-            { text: '🟠 <mooves>LegFlap</mooves>', link: '/reference/Mooves/LegMoove/LegFlap' },
-            { text: '🟠 <mooves>LegFlexion</mooves>', link: '/reference/Mooves/LegMoove/LegFlexion' },
-            { text: '🟠 <mooves>BaseAma</mooves>', link: '/reference/Mooves/LegMoove/BaseAma' },
-            { text: '🟠 <mooves>LegSidebagLift</mooves>', link: '/reference/Mooves/LegMoove/LegSidebagLift' },
-            { text: '🟠 <mooves>LegKurve</mooves>', link: '/reference/Mooves/LegMoove/LegKurve' },
-            { text: '🟠 <mooves>RunningStart</mooves>', link: '/reference/Mooves/LegMoove/RunningStart' },
-            { text: '🟠 <mooves>Step</mooves>', link: '/reference/Mooves/LegMoove/Step' },
-            { text: '🟠 <mooves>Stomp</mooves>', link: '/reference/Mooves/LegMoove/Stomp' },
+          text: '🟠 <motor>BaseMooves</motor>', link: '/reference/Mooves/LegMoove/Overview', collapsed: true, items: [
+            { text: '🟠 <motor>Leg Frase</motor>', link: '/reference/Mooves/LegMoove/Frase/Overview' },
+            { text: '🟠 <motor>Crouch</motor>', link: '/reference/Mooves/LegMoove/Overview' },
+            { text: '🟠 <motor>Jump</motor>', link: '/reference/Mooves/LegMoove/Jump' },
+            { text: '🟠 <motor>Kneel</motor>', link: '/reference/Mooves/LegMoove/Kneel' },
+            { text: '🟠 <motor>LegAbduction</motor>', link: '/reference/Mooves/LegMoove/LegAbduction' },
+            { text: '🟠 <motor>LegAbsorb</motor>', link: '/reference/Mooves/LegMoove/LegAbsorb' },
+            { text: '🟠 <motor>LegAdduction</motor>', link: '/reference/Mooves/LegMoove/LegAdduction' },
+            { text: '🟠 <motor>LegFlap</motor>', link: '/reference/Mooves/LegMoove/LegFlap' },
+            { text: '🟠 <motor>LegFlexion</motor>', link: '/reference/Mooves/LegMoove/LegFlexion' },
+            { text: '🟠 <motor>BaseAma</motor>', link: '/reference/Mooves/LegMoove/BaseAma' },
+            { text: '🟠 <motor>LegSidebagLift</motor>', link: '/reference/Mooves/LegMoove/LegSidebagLift' },
+            { text: '🟠 <motor>LegKurve</motor>', link: '/reference/Mooves/LegMoove/LegKurve' },
+            { text: '🟠 <motor>RunningStart</motor>', link: '/reference/Mooves/LegMoove/RunningStart' },
+            { text: '🟠 <motor>Step</motor>', link: '/reference/Mooves/LegMoove/Step' },
+            { text: '🟠 <motor>Stomp</motor>', link: '/reference/Mooves/LegMoove/Stomp' },
           ]
         },
         {
-          text: '🟠 <mooves>PlantMooves</mooves>', link: '/reference/Mooves/FloraMooves/Overview', collapsed: true, items: [
-            { text: '🟠 <mooves>BranchMooves</mooves>', link: '/reference/Mooves/FloraMooves/BranchMoove' },
-            { text: '🟠 <mooves>BranchWhip</mooves>', link: '/reference/Mooves/FloraMooves/BranchWhip' },
-            { text: '🟠 <mooves>Bush</mooves>', link: '/reference/Mooves/FloraMooves/Bush' },
-            { text: '🟠 <mooves>Log</mooves>', link: '/reference/Mooves/FloraMooves/Log' },
-            { text: '🟠 <mooves>SlashPile</mooves>', link: '/reference/Mooves/FloraMooves/SlashPile' },
-            { text: '🟠 <mooves>Stump</mooves>', link: '/reference/Mooves/FloraMooves/Stump' },
+          text: '🟠 <motor>PlantMooves</motor>', link: '/reference/Mooves/FloraMooves/Overview', collapsed: true, items: [
+            { text: '🟠 <motor>BranchMooves</motor>', link: '/reference/Mooves/FloraMooves/BranchMoove' },
+            { text: '🟠 <motor>BranchWhip</motor>', link: '/reference/Mooves/FloraMooves/BranchWhip' },
+            { text: '🟠 <motor>Bush</motor>', link: '/reference/Mooves/FloraMooves/Bush' },
+            { text: '🟠 <motor>Log</motor>', link: '/reference/Mooves/FloraMooves/Log' },
+            { text: '🟠 <motor>SlashPile</motor>', link: '/reference/Mooves/FloraMooves/SlashPile' },
+            { text: '🟠 <motor>Stump</motor>', link: '/reference/Mooves/FloraMooves/Stump' },
           ]
         },
         {
-          text: '🟠 <mooves>Skreef</mooves>', link: '/reference/Mooves/Skreef/Overview', collapsed: true, items: [
-            { text: '🟠 <mooves>BootSkreef</mooves>', link: '/reference/Mooves/InstrumentMooves/Boot/BootSkreef' },
-            { text: '🟠 <mooves>HandSkreef</mooves>', link: '/reference/Mooves/ManoMoove/HandSkreef' },
-            { text: '🟠 <mooves>SpadeSkreef</mooves>', link: '/reference/Mooves/InstrumentMooves/Spade/SpadeSkreef' },
+          text: '🟠 <motor>Skreef</motor>', link: '/reference/Mooves/Skreef/Overview', collapsed: true, items: [
+            { text: '🟠 <motor>BootSkreef</motor>', link: '/reference/Mooves/InstrumentMooves/Boot/BootSkreef' },
+            { text: '🟠 <motor>HandSkreef</motor>', link: '/reference/Mooves/ManoMoove/HandSkreef' },
+            { text: '🟠 <motor>SpadeSkreef</motor>', link: '/reference/Mooves/InstrumentMooves/Spade/SpadeSkreef' },
           ]
         },
         {
-          text: '🟠 <mooves>InstrumentMooves</mooves>', link: '/reference/Mooves/InstrumentMooves/Overview', collapsed: true, items: [
+          text: '🟠 <motor>InstrumentMooves</motor>', link: '/reference/Mooves/InstrumentMooves/Overview', collapsed: true, items: [
             {
-              text: '🟠 <mooves>Bag</mooves>', link: '/reference/Mooves/InstrumentMooves/Bag/Overview', collapsed: true, items: [
-                { text: '🟠 <mooves>BagMano</mooves>', link: '/reference/Mooves/InstrumentMooves/Bag/BagMano' },
-                { text: '🔷 <mooves>Bag Frase</mooves>', link: '/reference/Mooves/InstrumentMooves/Bag/Frase/Overview' },
-                { text: '🟠 <mooves>BagAdjustment</mooves>', link: '/reference/Mooves/InstrumentMooves/Bag/BagAdjustment' },
-                { text: '🟠 <mooves>BagDeadlift</mooves>', link: '/reference/Mooves/InstrumentMooves/Bag/BagDeadlift' },
-                { text: '🟠 <mooves>BagEmpty</mooves>', link: '/reference/Mooves/InstrumentMooves/Bag/BagEmpty' },
-                { text: '🟠 <mooves>BaggingUp</mooves>', link: '/reference/Mooves/InstrumentMooves/Bag/BaggingUp' },
-                { text: '🟠 <mooves>BagOff</mooves>', link: '/reference/Mooves/InstrumentMooves/Bag/BagOff' },
-                { text: '🟠 <mooves>BagOn</mooves>', link: '/reference/Mooves/InstrumentMooves/Bag/BagOn' },
-                { text: '🟠 <mooves>BagSlide</mooves>', link: '/reference/Mooves/InstrumentMooves/Bag/BagSlide' },
+              text: '🟠 <motor>Bag</motor>', link: '/reference/Mooves/InstrumentMooves/Bag/Overview', collapsed: true, items: [
+                { text: '🟠 <motor>BagMano</motor>', link: '/reference/Mooves/InstrumentMooves/Bag/BagMano' },
+                { text: '🔷 <motor>Bag Frase</motor>', link: '/reference/Mooves/InstrumentMooves/Bag/Frase/Overview' },
+                { text: '🟠 <motor>BagAdjustment</motor>', link: '/reference/Mooves/InstrumentMooves/Bag/BagAdjustment' },
+                { text: '🟠 <motor>BagDeadlift</motor>', link: '/reference/Mooves/InstrumentMooves/Bag/BagDeadlift' },
+                { text: '🟠 <motor>BagEmpty</motor>', link: '/reference/Mooves/InstrumentMooves/Bag/BagEmpty' },
+                { text: '🟠 <motor>BaggingUp</motor>', link: '/reference/Mooves/InstrumentMooves/Bag/BaggingUp' },
+                { text: '🟠 <motor>BagOff</motor>', link: '/reference/Mooves/InstrumentMooves/Bag/BagOff' },
+                { text: '🟠 <motor>BagOn</motor>', link: '/reference/Mooves/InstrumentMooves/Bag/BagOn' },
+                { text: '🟠 <motor>BagSlide</motor>', link: '/reference/Mooves/InstrumentMooves/Bag/BagSlide' },
               ]
             },
             {
-              text: '🟠 <mooves>Boot</mooves>', link: '/reference/Mooves/InstrumentMooves/Boot/Overview', collapsed: true, items: [
-                { text: '🔷 <mooves>Boot Frase</mooves>', link: '/reference/Mooves/InstrumentMooves/Boot/Frase/Overview' },
-                { text: '🟠 <mooves>BootMano</mooves>', link: '/reference/Mooves/InstrumentMooves/Boot/BootMano' },
-                { text: '🟠 <mooves>BootSkreef</mooves>', link: '/reference/Mooves/InstrumentMooves/Boot/BootSkreef' },
-                { text: '🟠 <mooves>LaceKnot</mooves>', link: '/reference/Mooves/InstrumentMooves/Boot/LaceKnot' },
+              text: '🟠 <motor>Boot</motor>', link: '/reference/Mooves/InstrumentMooves/Boot/Overview', collapsed: true, items: [
+                { text: '🔷 <motor>Boot Frase</motor>', link: '/reference/Mooves/InstrumentMooves/Boot/Frase/Overview' },
+                { text: '🟠 <motor>BootMano</motor>', link: '/reference/Mooves/InstrumentMooves/Boot/BootMano' },
+                { text: '🟠 <motor>BootSkreef</motor>', link: '/reference/Mooves/InstrumentMooves/Boot/BootSkreef' },
+                { text: '🟠 <motor>LaceKnot</motor>', link: '/reference/Mooves/InstrumentMooves/Boot/LaceKnot' },
               ]
             },
             {
-              text: '🟠 <mooves>Box</mooves>', link: '/reference/Mooves/InstrumentMooves/Box/Overview', collapsed: true, items: [
-                { text: '🔷 <mooves>Box Frase</mooves>', link: '/reference/Mooves/InstrumentMooves/Box/Frase/Overview' },
-                { text: '🟠 <mooves>BoxMano</mooves>', link: '/reference/Mooves/InstrumentMooves/Box/BoxMano' },
+              text: '🟠 <motor>Box</motor>', link: '/reference/Mooves/InstrumentMooves/Box/Overview', collapsed: true, items: [
+                { text: '🔷 <motor>Box Frase</motor>', link: '/reference/Mooves/InstrumentMooves/Box/Frase/Overview' },
+                { text: '🟠 <motor>BoxMano</motor>', link: '/reference/Mooves/InstrumentMooves/Box/BoxMano' },
               ]
             },
             {
-              text: '🟠 <mooves>Bundle</mooves>', link: '/reference/Mooves/InstrumentMooves/Bundle/Overview', collapsed: true, items: [
-                { text: '🔷 <mooves>Bundle Frase</mooves>', link: '/reference/Mooves/InstrumentMooves/Bundle/Frase/Overview' },
-                { text: '🟠 <mooves>BundleMano</mooves>', link: '/reference/Mooves/InstrumentMooves/Bundle/BundleMano' },
-                { text: '🟠 <mooves>BundlePeel</mooves>', link: '/reference/Mooves/InstrumentMooves/Bundle/BundlePeel' },
+              text: '🟠 <motor>Bundle</motor>', link: '/reference/Mooves/InstrumentMooves/Bundle/Overview', collapsed: true, items: [
+                { text: '🔷 <motor>Bundle Frase</motor>', link: '/reference/Mooves/InstrumentMooves/Bundle/Frase/Overview' },
+                { text: '🟠 <motor>BundleMano</motor>', link: '/reference/Mooves/InstrumentMooves/Bundle/BundleMano' },
+                { text: '🟠 <motor>BundlePeel</motor>', link: '/reference/Mooves/InstrumentMooves/Bundle/BundlePeel' },
               ]
             },
             {
-              text: '🟠 <mooves>Carabiner</mooves>', link: '/reference/Mooves/InstrumentMooves/Carabiner/Overview', collapsed: true, items: [
+              text: '🟠 <motor>Carabiner</motor>', link: '/reference/Mooves/InstrumentMooves/Carabiner/Overview', collapsed: true, items: [
               ]
             },
             {
-              text: '🟠 <mooves>Marka</mooves>', link: '/reference/Mooves/InstrumentMooves/Marka/Overview', collapsed: true, items: [
-                { text: '🔷 <mooves>Marka Frase</mooves>', link: '/reference/Mooves/InstrumentMooves/Marka/Frase/Overview' },
-                { text: '🟠 <mooves>MarkaMano</mooves>', link: '/reference/Mooves/InstrumentMooves/Marka/MarkaMano' },
-                { text: '🟠 <mooves>MarkaKnot</mooves>', link: '/reference/Mooves/InstrumentMooves/Marka/MarkaKnot' },
-                { text: '🟠 <mooves>MarkaReload</mooves>', link: '/reference/Mooves/InstrumentMooves/Marka/MarkaReload' },
-                { text: '🟠 <mooves>MarkaRip</mooves>', link: '/reference/Mooves/InstrumentMooves/Marka/MarkaRip' },
-                { text: '🟠 <mooves>MarkaRoll</mooves>', link: '/reference/Mooves/InstrumentMooves/Marka/MarkaRoll' },
+              text: '🟠 <motor>Marka</motor>', link: '/reference/Mooves/InstrumentMooves/Marka/Overview', collapsed: true, items: [
+                { text: '🔷 <motor>Marka Frase</motor>', link: '/reference/Mooves/InstrumentMooves/Marka/Frase/Overview' },
+                { text: '🟠 <motor>MarkaMano</motor>', link: '/reference/Mooves/InstrumentMooves/Marka/MarkaMano' },
+                { text: '🟠 <motor>MarkaKnot</motor>', link: '/reference/Mooves/InstrumentMooves/Marka/MarkaKnot' },
+                { text: '🟠 <motor>MarkaReload</motor>', link: '/reference/Mooves/InstrumentMooves/Marka/MarkaReload' },
+                { text: '🟠 <motor>MarkaRip</motor>', link: '/reference/Mooves/InstrumentMooves/Marka/MarkaRip' },
+                { text: '🟠 <motor>MarkaRoll</motor>', link: '/reference/Mooves/InstrumentMooves/Marka/MarkaRoll' },
               ]
             },
             {
-              text: '🟠 <mooves>Tibior</mooves>', link: '/reference/Mooves/InstrumentMooves/Tibior/Overview', collapsed: true, items: [
-                { text: '🔷 <mooves>Tibior Frase</mooves>', link: '/reference/Mooves/InstrumentMooves/Tibior/Frase/Overview' },
-                { text: '🟠 <mooves>TibiorMano</mooves>', link: '/reference/Mooves/InstrumentMooves/Tibior/TibiorMano' },
-                { text: '🟠 <mooves>TibiorOn</mooves>', link: '/reference/Mooves/InstrumentMooves/Tibior/TibiorOn' },
-                { text: '🟠 <mooves>TibiorOff</mooves>', link: '/reference/Mooves/InstrumentMooves/Tibior/TibiorOff' },
+              text: '🟠 <motor>Tibior</motor>', link: '/reference/Mooves/InstrumentMooves/Tibior/Overview', collapsed: true, items: [
+                { text: '🔷 <motor>Tibior Frase</motor>', link: '/reference/Mooves/InstrumentMooves/Tibior/Frase/Overview' },
+                { text: '🟠 <motor>TibiorMano</motor>', link: '/reference/Mooves/InstrumentMooves/Tibior/TibiorMano' },
+                { text: '🟠 <motor>TibiorOn</motor>', link: '/reference/Mooves/InstrumentMooves/Tibior/TibiorOn' },
+                { text: '🟠 <motor>TibiorOff</motor>', link: '/reference/Mooves/InstrumentMooves/Tibior/TibiorOff' },
               ]
             },
             {
-              text: '🟠 <mooves>Glove</mooves>', link: '/reference/Mooves/InstrumentMooves/Glove/Overview', collapsed: true, items: [
-                { text: '🔷 <mooves>Glove Frase</mooves>', link: '/reference/Mooves/InstrumentMooves/Glove/Frase/Overview' },
-                { text: '🟠 <mooves>GloveMano</mooves>', link: '/reference/Mooves/InstrumentMooves/Glove/GloveMano' },
+              text: '🟠 <motor>Glove</motor>', link: '/reference/Mooves/InstrumentMooves/Glove/Overview', collapsed: true, items: [
+                { text: '🔷 <motor>Glove Frase</motor>', link: '/reference/Mooves/InstrumentMooves/Glove/Frase/Overview' },
+                { text: '🟠 <motor>GloveMano</motor>', link: '/reference/Mooves/InstrumentMooves/Glove/GloveMano' },
               ]
             },
             {
-              text: '🟠 <mooves>Kit</mooves>', link: '/reference/Mooves/InstrumentMooves/Kit/Overview', collapsed: true, items: [
+              text: '🟠 <motor>Kit</motor>', link: '/reference/Mooves/InstrumentMooves/Kit/Overview', collapsed: true, items: [
               ]
             },
             {
-              text: '🟠 <mooves>Rope</mooves>', link: '/reference/Mooves/InstrumentMooves/Rope/Overview', collapsed: true, items: [
+              text: '🟠 <motor>Rope</motor>', link: '/reference/Mooves/InstrumentMooves/Rope/Overview', collapsed: true, items: [
               ]
             },
             {
-              text: '🟠 <mooves>Spade</mooves>', link: '/reference/Mooves/InstrumentMooves/Spade/Overview', collapsed: true, items: [
-                { text: '🔷 <mooves>Spade Frase</mooves>', link: '/reference/Mooves/InstrumentMooves/Spade/Frase/Overview' },
-                { text: '🟠 <mooves>SpadeAmble</mooves>', link: '/reference/Mooves/InstrumentMooves/Spade/SpadeAmble' },
-                { text: '🟠 <mooves>SpadeAnchor</mooves>', link: '/reference/Mooves/InstrumentMooves/Spade/SpadeAnchor' },
-                { text: '🟠 <mooves>SpadeChop</mooves>', link: '/reference/Mooves/InstrumentMooves/Spade/SpadeChop' },
-                { text: '🟠 <mooves>SpadeCone</mooves>', link: '/reference/Mooves/InstrumentMooves/Spade/SpadeCone' },
-                { text: '🟠 <mooves>SpadeDrag</mooves>', link: '/reference/Mooves/InstrumentMooves/Spade/SpadeDrag' },
-                { text: '🟠 <mooves>SpadeMano</mooves>', link: '/reference/Mooves/InstrumentMooves/Spade/SpadeMano' },
-                { text: '🟠 <mooves>SpadeBallista</mooves>', link: '/reference/Mooves/InstrumentMooves/Spade/SpadeBallista' },
-                { text: '🟠 <mooves>SpadePendulum</mooves>', link: '/reference/Mooves/InstrumentMooves/Spade/SpadePendulum' },
-                { text: '🟠 <mooves>SpadePogo</mooves>', link: '/reference/Mooves/InstrumentMooves/Spade/SpadePogo' },
-                { text: '🟠 <mooves>SpadePoke</mooves>', link: '/reference/Mooves/InstrumentMooves/Spade/SpadePoke' },
-                { text: '🟠 <mooves>SpadePost</mooves>', link: '/reference/Mooves/InstrumentMooves/Spade/SpadePost' },
-                { text: '🟠 <mooves>SpadeAma</mooves>', link: '/reference/Mooves/InstrumentMooves/Spade/SpadeAma' },
-                { text: '🟠 <mooves>SpadeRotate</mooves>', link: '/reference/Mooves/InstrumentMooves/Spade/SpadeRotate' },
-                { text: '🟠 <mooves>SpadeSkreef</mooves>', link: '/reference/Mooves/InstrumentMooves/Spade/SpadeSkreef' },
-                { text: '🟠 <mooves>SpadeImpact</mooves>', link: '/reference/Mooves/InstrumentMooves/Spade/SpadeImpact' },
-                { text: '🟠 <mooves>SpadeStall</mooves>', link: '/reference/Mooves/InstrumentMooves/Spade/SpadeStall' },
-                { text: '🟠 <mooves>SpadeStomp</mooves>', link: '/reference/Mooves/InstrumentMooves/Spade/SpadeStomp' },
-                { text: '🟠 <mooves>SpadeKurve</mooves>', link: '/reference/Mooves/InstrumentMooves/Spade/SpadeKurve' },
-                { text: '🟠 <mooves>SpadeTest</mooves>', link: '/reference/Mooves/InstrumentMooves/Spade/SpadeTest' },
-                { text: '❌ <mooves>SpadeError</mooves>', link: '/reference/Mooves/InstrumentMooves/Spade/SpadeError' },
+              text: '🟠 <motor>Spade</motor>', link: '/reference/Mooves/InstrumentMooves/Spade/Overview', collapsed: true, items: [
+                { text: '🔷 <motor>Spade Frase</motor>', link: '/reference/Mooves/InstrumentMooves/Spade/Frase/Overview' },
+                { text: '🟠 <motor>SpadeAmble</motor>', link: '/reference/Mooves/InstrumentMooves/Spade/SpadeAmble' },
+                { text: '🟠 <motor>SpadeAnchor</motor>', link: '/reference/Mooves/InstrumentMooves/Spade/SpadeAnchor' },
+                { text: '🟠 <motor>SpadeChop</motor>', link: '/reference/Mooves/InstrumentMooves/Spade/SpadeChop' },
+                { text: '🟠 <motor>SpadeCone</motor>', link: '/reference/Mooves/InstrumentMooves/Spade/SpadeCone' },
+                { text: '🟠 <motor>SpadeDrag</motor>', link: '/reference/Mooves/InstrumentMooves/Spade/SpadeDrag' },
+                { text: '🟠 <motor>SpadeMano</motor>', link: '/reference/Mooves/InstrumentMooves/Spade/SpadeMano' },
+                { text: '🟠 <motor>SpadeBallista</motor>', link: '/reference/Mooves/InstrumentMooves/Spade/SpadeBallista' },
+                { text: '🟠 <motor>SpadePendulum</motor>', link: '/reference/Mooves/InstrumentMooves/Spade/SpadePendulum' },
+                { text: '🟠 <motor>SpadePogo</motor>', link: '/reference/Mooves/InstrumentMooves/Spade/SpadePogo' },
+                { text: '🟠 <motor>SpadePoke</motor>', link: '/reference/Mooves/InstrumentMooves/Spade/SpadePoke' },
+                { text: '🟠 <motor>SpadePost</motor>', link: '/reference/Mooves/InstrumentMooves/Spade/SpadePost' },
+                { text: '🟠 <motor>SpadeAma</motor>', link: '/reference/Mooves/InstrumentMooves/Spade/SpadeAma' },
+                { text: '🟠 <motor>SpadeRotate</motor>', link: '/reference/Mooves/InstrumentMooves/Spade/SpadeRotate' },
+                { text: '🟠 <motor>SpadeSkreef</motor>', link: '/reference/Mooves/InstrumentMooves/Spade/SpadeSkreef' },
+                { text: '🟠 <motor>SpadeImpact</motor>', link: '/reference/Mooves/InstrumentMooves/Spade/SpadeImpact' },
+                { text: '🟠 <motor>SpadeStall</motor>', link: '/reference/Mooves/InstrumentMooves/Spade/SpadeStall' },
+                { text: '🟠 <motor>SpadeStomp</motor>', link: '/reference/Mooves/InstrumentMooves/Spade/SpadeStomp' },
+                { text: '🟠 <motor>SpadeKurve</motor>', link: '/reference/Mooves/InstrumentMooves/Spade/SpadeKurve' },
+                { text: '🟠 <motor>SpadeTest</motor>', link: '/reference/Mooves/InstrumentMooves/Spade/SpadeTest' },
+                { text: '❌ <motor>SpadeError</motor>', link: '/reference/Mooves/InstrumentMooves/Spade/SpadeError' },
               ]
             },
             {
-              text: '🟠 <mooves>Doru</mooves>', link: '/reference/Mooves/InstrumentMooves/Doru/Overview', collapsed: true, items: [
-                { text: '🟠 <mooves>DoruAmble</mooves>', link: '/reference/Mooves/InstrumentMooves/Doru/DoruAmble' },
-                { text: '🟠 <mooves>DoruAmble</mooves>', link: '/reference/Mooves/InstrumentMooves/Doru/DoruAmble' },
-                { text: '🟠 <mooves>DoruAnchor</mooves>', link: '/reference/Mooves/InstrumentMooves/Doru/DoruAnchor' },
-                { text: '🟠 <mooves>DoruBridge</mooves>', link: '/reference/Mooves/InstrumentMooves/Doru/DoruBridge' },
-                { text: '🟠 <mooves>DoruBump</mooves>', link: '/reference/Mooves/InstrumentMooves/Doru/DoruBump' },
-                { text: '🟠 <mooves>DoruChop</mooves>', link: '/reference/Mooves/InstrumentMooves/Doru/DoruChop' },
-                { text: '🟠 <mooves>DoruCone</mooves>', link: '/reference/Mooves/InstrumentMooves/Doru/DoruCone' },
-                { text: '🟠 <mooves>DoruDrag</mooves>', link: '/reference/Mooves/InstrumentMooves/Doru/DoruDrag' },
-                { text: '🟠 <mooves>DoruMano</mooves>', link: '/reference/Mooves/InstrumentMooves/Doru/DoruMano' },
-                { text: '🟠 <mooves>DoruMatch</mooves>', link: '/reference/Mooves/InstrumentMooves/Doru/DoruMatch' },
-                { text: '🟠 <mooves>DoruPendulum</mooves>', link: '/reference/Mooves/InstrumentMooves/Doru/DoruPendulum' },
-                { text: '🟠 <mooves>DoruPogo</mooves>', link: '/reference/Mooves/InstrumentMooves/Doru/DoruPogo' },
-                { text: '🟠 <mooves>DoruPoke</mooves>', link: '/reference/Mooves/InstrumentMooves/Doru/DoruPoke' },
-                { text: '🟠 <mooves>DoruPost</mooves>', link: '/reference/Mooves/InstrumentMooves/Doru/DoruPost' },
-                { text: '🟠 <mooves>DoruProp</mooves>', link: '/reference/Mooves/InstrumentMooves/Doru/DoruProp' },
-                { text: '🟠 <mooves>DoruPost</mooves>', link: '/reference/Mooves/InstrumentMooves/Doru/DoruPost' },
-                { text: '🟠 <mooves>DoruRotate</mooves>', link: '/reference/Mooves/InstrumentMooves/Doru/DoruRotate' },
-                { text: '🟠 <mooves>DoruSkreef</mooves>', link: '/reference/Mooves/InstrumentMooves/Doru/DoruSkreef' },
-                { text: '🟠 <mooves>DoruSlam</mooves>', link: '/reference/Mooves/InstrumentMooves/Doru/DoruSlam' },
-                { text: '🟠 <mooves>DoruSlap</mooves>', link: '/reference/Mooves/InstrumentMooves/Doru/DoruSlap' },
-                { text: '🟠 <mooves>DoruSlide</mooves>', link: '/reference/Mooves/InstrumentMooves/Doru/DoruSlide' },
-                { text: '🟠 <mooves>DoruStall</mooves>', link: '/reference/Mooves/InstrumentMooves/Doru/DoruStall' },
-                { text: '🟠 <mooves>DoruStomp</mooves>', link: '/reference/Mooves/InstrumentMooves/Doru/DoruStomp' },
-                { text: '🟠 <mooves>DoruOnda</mooves>', link: '/reference/Mooves/InstrumentMooves/Doru/DoruOnda' },
-                { text: '❌ <mooves>DoruError</mooves>', link: '/reference/Mooves/InstrumentMooves/Doru/DoruError' },
+              text: '🟠 <motor>Doru</motor>', link: '/reference/Mooves/InstrumentMooves/Doru/Overview', collapsed: true, items: [
+                { text: '🟠 <motor>DoruAmble</motor>', link: '/reference/Mooves/InstrumentMooves/Doru/DoruAmble' },
+                { text: '🟠 <motor>DoruAmble</motor>', link: '/reference/Mooves/InstrumentMooves/Doru/DoruAmble' },
+                { text: '🟠 <motor>DoruAnchor</motor>', link: '/reference/Mooves/InstrumentMooves/Doru/DoruAnchor' },
+                { text: '🟠 <motor>DoruBridge</motor>', link: '/reference/Mooves/InstrumentMooves/Doru/DoruBridge' },
+                { text: '🟠 <motor>DoruBump</motor>', link: '/reference/Mooves/InstrumentMooves/Doru/DoruBump' },
+                { text: '🟠 <motor>DoruChop</motor>', link: '/reference/Mooves/InstrumentMooves/Doru/DoruChop' },
+                { text: '🟠 <motor>DoruCone</motor>', link: '/reference/Mooves/InstrumentMooves/Doru/DoruCone' },
+                { text: '🟠 <motor>DoruDrag</motor>', link: '/reference/Mooves/InstrumentMooves/Doru/DoruDrag' },
+                { text: '🟠 <motor>DoruMano</motor>', link: '/reference/Mooves/InstrumentMooves/Doru/DoruMano' },
+                { text: '🟠 <motor>DoruMatch</motor>', link: '/reference/Mooves/InstrumentMooves/Doru/DoruMatch' },
+                { text: '🟠 <motor>DoruPendulum</motor>', link: '/reference/Mooves/InstrumentMooves/Doru/DoruPendulum' },
+                { text: '🟠 <motor>DoruPogo</motor>', link: '/reference/Mooves/InstrumentMooves/Doru/DoruPogo' },
+                { text: '🟠 <motor>DoruPoke</motor>', link: '/reference/Mooves/InstrumentMooves/Doru/DoruPoke' },
+                { text: '🟠 <motor>DoruPost</motor>', link: '/reference/Mooves/InstrumentMooves/Doru/DoruPost' },
+                { text: '🟠 <motor>DoruProp</motor>', link: '/reference/Mooves/InstrumentMooves/Doru/DoruProp' },
+                { text: '🟠 <motor>DoruPost</motor>', link: '/reference/Mooves/InstrumentMooves/Doru/DoruPost' },
+                { text: '🟠 <motor>DoruRotate</motor>', link: '/reference/Mooves/InstrumentMooves/Doru/DoruRotate' },
+                { text: '🟠 <motor>DoruSkreef</motor>', link: '/reference/Mooves/InstrumentMooves/Doru/DoruSkreef' },
+                { text: '🟠 <motor>DoruSlam</motor>', link: '/reference/Mooves/InstrumentMooves/Doru/DoruSlam' },
+                { text: '🟠 <motor>DoruSlap</motor>', link: '/reference/Mooves/InstrumentMooves/Doru/DoruSlap' },
+                { text: '🟠 <motor>DoruSlide</motor>', link: '/reference/Mooves/InstrumentMooves/Doru/DoruSlide' },
+                { text: '🟠 <motor>DoruStall</motor>', link: '/reference/Mooves/InstrumentMooves/Doru/DoruStall' },
+                { text: '🟠 <motor>DoruStomp</motor>', link: '/reference/Mooves/InstrumentMooves/Doru/DoruStomp' },
+                { text: '🟠 <motor>DoruOnda</motor>', link: '/reference/Mooves/InstrumentMooves/Doru/DoruOnda' },
+                { text: '❌ <motor>DoruError</motor>', link: '/reference/Mooves/InstrumentMooves/Doru/DoruError' },
               ]
             }
           ]
         },
         {
-          text: '🟠 <mooves>Truck</mooves>', link: '/reference/Mooves/TruckMoove/Overview', collapsed: true, items: [
-            { text: '🔷 <mooves>Truck Frase</mooves>', link: '/reference/Mooves/TruckMoove/Frase/Overview' },
-            { text: '🟠 <mooves>Sleep</mooves>', link: '/reference/Mooves/TruckMoove/Sleep' },
-            { text: '🟠 <mooves>Sit</mooves>', link: '/reference/Mooves/TruckMoove/Sit' },
+          text: '🟠 <motor>Truck</motor>', link: '/reference/Mooves/TruckMoove/Overview', collapsed: true, items: [
+            { text: '🔷 <motor>Truck Frase</motor>', link: '/reference/Mooves/TruckMoove/Frase/Overview' },
+            { text: '🟠 <motor>Sleep</motor>', link: '/reference/Mooves/TruckMoove/Sleep' },
+            { text: '🟠 <motor>Sit</motor>', link: '/reference/Mooves/TruckMoove/Sit' },
           ]
         },
-        { text: '🟠 <mooves>Kinesiology</mooves>', link: '/reference/Mooves/Kinesiology/KinesiologyOverview' },
+        { text: '🟠 <motor>Kinesiology</motor>', link: '/reference/Mooves/Kinesiology/KinesiologyOverview' },
       ],
     },
     // #Via
@@ -682,106 +682,106 @@ function sidebarReference() {
     },
     // #Psike
     {
-      text: '💜 <psike>Psike</psike>', link: '/reference/Psike/NeuroOverview', collapsed: true, items: [
-        { text: '🔷 <psike>Psike Teori</psike>', link: '/reference/Psike/NeuroTeori' },
+      text: '💜 <anima>Psike</anima>', link: '/reference/Psike/NeuroOverview', collapsed: true, items: [
+        { text: '🔷 <anima>Psike Teori</anima>', link: '/reference/Psike/NeuroTeori' },
         {
-          text: '💜 <psike>Arousal</psike>', link: '/reference/Psike/Arousal/Overview', collapsed: true, items: [
+          text: '💜 <anima>Arousal</anima>', link: '/reference/Psike/Arousal/Overview', collapsed: true, items: [
           ]
         },
         {
-          text: '💜 <psike>Attention</psike>', link: '/reference/Psike/Attention/Overview', collapsed: true, items: [
+          text: '💜 <anima>Attention</anima>', link: '/reference/Psike/Attention/Overview', collapsed: true, items: [
           ]
         },
         {
-          text: '💜 <psike>Audio</psike>', link: '/reference/Psike/Audio/Overview', collapsed: true, items: [
+          text: '💜 <anima>Audio</anima>', link: '/reference/Psike/Audio/Overview', collapsed: true, items: [
             {
-              text: '💜 <psike>Music</psike>', link: '/reference/Psike/Audio/Music/Overview', collapsed: true, items: [
-                { text: '💜 <psike>Playlists</psike>', link: '/reference/Psike/Audio/Music/Overview' },
+              text: '💜 <anima>Music</anima>', link: '/reference/Psike/Audio/Music/Overview', collapsed: true, items: [
+                { text: '💜 <anima>Playlists</anima>', link: '/reference/Psike/Audio/Music/Overview' },
               ]
             },
-            { text: '💜 <psike>BranchBreakSound</psike>', link: '/reference/Psike/Audio/BranchBreakSound' },
-            { text: '💜 <psike>LogBreakSound</psike>', link: '/reference/Psike/Audio/LogBreakSound' },
-            { text: '💜 <psike>SlashSound</psike>', link: '/reference/Psike/Audio/SlashSound' },
-            { text: '💜 <psike>SpadeSound</psike>', link: '/reference/Psike/Audio/SpadeSound' },
-            { text: '💜 <psike>SoilSound</psike>', link: '/reference/Psike/Audio/SoilSound' },
+            { text: '💜 <anima>BranchBreakSound</anima>', link: '/reference/Psike/Audio/BranchBreakSound' },
+            { text: '💜 <anima>LogBreakSound</anima>', link: '/reference/Psike/Audio/LogBreakSound' },
+            { text: '💜 <anima>SlashSound</anima>', link: '/reference/Psike/Audio/SlashSound' },
+            { text: '💜 <anima>SpadeSound</anima>', link: '/reference/Psike/Audio/SpadeSound' },
+            { text: '💜 <anima>SoilSound</anima>', link: '/reference/Psike/Audio/SoilSound' },
           ]
         },
         {
-          text: '💜 <psike>Awareness</psike>', link: '/reference/Psike/Awareness/Overview', collapsed: true, items: [
+          text: '💜 <anima>Awareness</anima>', link: '/reference/Psike/Awareness/Overview', collapsed: true, items: [
           ]
         },
         {
-          text: '💜 <psike>Counting</psike>', link: '/reference/Psike/Counting/Overview', collapsed: true, items: [
+          text: '💜 <anima>Counting</anima>', link: '/reference/Psike/Counting/Overview', collapsed: true, items: [
           ]
         },
         {
-          text: '💜 <psike>Decision</psike>', collapsed: true, items: [
-            { text: '💜 <psike>GoOrNoGo</psike>', link: '/reference/Psike/Decision/GoOrNoGo' },
-            { text: '💜 <psike>MicrositeSelection</psike>', link: '/reference/Psike/Decision/MicrositeSelection' },
+          text: '💜 <anima>Decision</anima>', collapsed: true, items: [
+            { text: '💜 <anima>GoOrNoGo</anima>', link: '/reference/Psike/Decision/GoOrNoGo' },
+            { text: '💜 <anima>MicrositeSelection</anima>', link: '/reference/Psike/Decision/MicrositeSelection' },
           ]
         },
         {
-          text: '💜 <psike>Emotion</psike>', link: '/reference/Psike/Emotion/Overview', collapsed: true, items: [
-            { text: '💜 <psike>Anger</psike>', link: '/reference/Psike/Emotion/Anger' },
-            { text: '💜 <psike>Disgust</psike>', link: '/reference/Psike/Emotion/Disgust' },
-            { text: '💜 <psike>Fear</psike>', link: '/reference/Psike/Emotion/Fear' },
-            { text: '💜 <psike>Joy</psike>', link: '/reference/Psike/Emotion/Joy' },
-            { text: '💜 <psike>Sadness</psike>', link: '/reference/Psike/Emotion/Sadness' },
+          text: '💜 <anima>Emotion</anima>', link: '/reference/Psike/Emotion/Overview', collapsed: true, items: [
+            { text: '💜 <anima>Anger</anima>', link: '/reference/Psike/Emotion/Anger' },
+            { text: '💜 <anima>Disgust</anima>', link: '/reference/Psike/Emotion/Disgust' },
+            { text: '💜 <anima>Fear</anima>', link: '/reference/Psike/Emotion/Fear' },
+            { text: '💜 <anima>Joy</anima>', link: '/reference/Psike/Emotion/Joy' },
+            { text: '💜 <anima>Sadness</anima>', link: '/reference/Psike/Emotion/Sadness' },
           ]
         },
         {
-          text: '💜 <psike>Energy</psike>', link: '/reference/Psike/Energy/Overview', collapsed: true, items: [
+          text: '💜 <anima>Energy</anima>', link: '/reference/Psike/Energy/Overview', collapsed: true, items: [
           ]
         },
         {
-          text: '💜 <psike>Estimation</psike>', collapsed: true, items: [
-            { text: '💜 <psike>AreaEstimation</psike>', link: '/reference/Psike/Estimation/AreaEstimation' },
-            { text: '💜 <psike>BagCoverEstimation</psike>', link: '/reference/Psike/Estimation/BagCoverEstimation' },
-            { text: '💜 <psike>DistanceEstimation</psike>', link: '/reference/Psike/Estimation/DistanceEstimation' },
-            { text: '💜 <psike>TimeEstimation</psike>', link: '/reference/Psike/Estimation/TimeEstimation' },
+          text: '💜 <anima>Estimation</anima>', collapsed: true, items: [
+            { text: '💜 <anima>AreaEstimation</anima>', link: '/reference/Psike/Estimation/AreaEstimation' },
+            { text: '💜 <anima>BagCoverEstimation</anima>', link: '/reference/Psike/Estimation/BagCoverEstimation' },
+            { text: '💜 <anima>DistanceEstimation</anima>', link: '/reference/Psike/Estimation/DistanceEstimation' },
+            { text: '💜 <anima>TimeEstimation</anima>', link: '/reference/Psike/Estimation/TimeEstimation' },
           ]
         },
         {
-          text: '💜 <psike>Event</psike>', link: '/reference/Psike/Event/Overview', collapsed: true, items: [
+          text: '💜 <anima>Event</anima>', link: '/reference/Psike/Event/Overview', collapsed: true, items: [
           ]
         },
         {
-          text: '💜 <psike>Homeostasis</psike>', link: '/reference/Psike/Homeostasis/Overview', collapsed: true, items: [
+          text: '💜 <anima>Homeostasis</anima>', link: '/reference/Psike/Homeostasis/Overview', collapsed: true, items: [
           ]
         },
         {
-          text: '💜 <psike>Memory</psike>', link: '/reference/Psike/Memory/Overview', collapsed: true, items: [
-            { text: '💜 <psike>WorkingMemory</psike>', link: '/reference/Psike/Memory/WorkingMemory' },
-            { text: '💜 <psike>ShortTermMemory</psike>', link: '/reference/Psike/Memory/ShortTermMemory' },
-            { text: '💜 <psike>LongTermMemory</psike>', link: '/reference/Psike/Memory/LongTermMemory' },
-            { text: '💜 <psike>NumberMemory</psike>', link: '/reference/Psike/Memory/NumberMemory' },
-            { text: '💜 <psike>ViaMemory</psike>', link: '/reference/Psike/Memory/ViaMemory' },
+          text: '💜 <anima>Memory</anima>', link: '/reference/Psike/Memory/Overview', collapsed: true, items: [
+            { text: '💜 <anima>WorkingMemory</anima>', link: '/reference/Psike/Memory/WorkingMemory' },
+            { text: '💜 <anima>ShortTermMemory</anima>', link: '/reference/Psike/Memory/ShortTermMemory' },
+            { text: '💜 <anima>LongTermMemory</anima>', link: '/reference/Psike/Memory/LongTermMemory' },
+            { text: '💜 <anima>NumberMemory</anima>', link: '/reference/Psike/Memory/NumberMemory' },
+            { text: '💜 <anima>ViaMemory</anima>', link: '/reference/Psike/Memory/ViaMemory' },
           ]
         },
         {
-          text: '💜 <psike>Mindfulness</psike>', link: '/reference/Psike/Mindfulness/Overview', collapsed: true, items: [
+          text: '💜 <anima>Mindfulness</anima>', link: '/reference/Psike/Mindfulness/Overview', collapsed: true, items: [
           ]
         },
         {
-          text: '💜 <psike>Muscle</psike>', link: '/reference/Psike/Muscle/Overview', collapsed: true, items: [
+          text: '💜 <anima>Muscle</anima>', link: '/reference/Psike/Muscle/Overview', collapsed: true, items: [
           ]
         },
-        { text: '💜 <psike>Proprioception</psike>', link: '/reference/Psike/Proprioception/Overview' },
-        { text: '💜 <psike>Resilience</psike>', link: '/reference/Psike/Resilience/Overview' },
+        { text: '💜 <anima>Proprioception</anima>', link: '/reference/Psike/Proprioception/Overview' },
+        { text: '💜 <anima>Resilience</anima>', link: '/reference/Psike/Resilience/Overview' },
         {
-          text: '💜 <psike>SpatialCognition</psike>', link: '/reference/Psike/SpatialCognition/Overview', collapsed: true, items: [
+          text: '💜 <anima>SpatialCognition</anima>', link: '/reference/Psike/SpatialCognition/Overview', collapsed: true, items: [
           ]
         },
         {
-          text: '💜 <psike>Time</psike>', link: '/reference/Psike/Time/Overview', collapsed: true, items: [
-            { text: '💜 <psike>BagUpTime</psike>', link: '/reference/Psike/Time/BagUpTime' },
-            { text: '💜 <psike>DailySchedule</psike>', link: '/reference/Psike/Time/DailySchedule' },
-            { text: '💜 <psike>MooveTiming</psike>', link: '/reference/Psike/Time/MoovesTiming' },
-            { text: '💜 <psike>Planning</psike>', link: '/reference/Psike/Time/Planning' },
-            { text: '💜 <psike>Timer</psike>', link: '/reference/Psike/Time/Timer' },
+          text: '💜 <anima>Time</anima>', link: '/reference/Psike/Time/Overview', collapsed: true, items: [
+            { text: '💜 <anima>BagUpTime</anima>', link: '/reference/Psike/Time/BagUpTime' },
+            { text: '💜 <anima>DailySchedule</anima>', link: '/reference/Psike/Time/DailySchedule' },
+            { text: '💜 <anima>MooveTiming</anima>', link: '/reference/Psike/Time/MoovesTiming' },
+            { text: '💜 <anima>Planning</anima>', link: '/reference/Psike/Time/Planning' },
+            { text: '💜 <anima>Timer</anima>', link: '/reference/Psike/Time/Timer' },
           ]
         },
-        { text: '💜 <psike>Thermoception</psike>', link: '/reference/Psike/Thermoception' },
+        { text: '💜 <anima>Thermoception</anima>', link: '/reference/Psike/Thermoception' },
       ]
     },
     { text: '📃 Lexikon', link: '/reference/glossary/Glossary' },

@@ -23,7 +23,7 @@ There are no lines that are preventing you from jumping a kilometer into the air
 - The Border of a Zone
     - PieceBorder: You can't go past the OrangeFlag
 
-## Limited by 💜 Psike
+## Limited by 💜 Anima
 
 - I can't remember that much information
 - I can't see that far

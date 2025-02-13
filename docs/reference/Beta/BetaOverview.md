@@ -2,7 +2,7 @@
 
 > Beta is the **information** that you use to perform planting tasks.
 
-<beta>Beta</beta> emerges from the interactions between <ekos>Eko</ekos>, <mooves>Moove</mooves>, <via>Via</via> and <psike>Psike</psike>.
+<beta>Beta</beta> emerges from the interactions between <ekos>Eko</ekos>, <motor>Moove</motor>, <via>Via</via> and <anima>Anima</anima>.
 
 ![<beta>Beta</beta>Icon](/Beta/Beta_Icon.png)
 
@@ -33,20 +33,20 @@ This each line are analog pairs. The equal signs = denotes where Climbing and Pl
 |                  <beta>Beta</beta> = | = <beta>Beta</beta>               |
 |                     <ekos>Eko</ekos> = | = <ekos>Eko</ekos>                  |
 |               <via>Via</via> = | = <via>Via</via>            |
-|               <psike>Psike</psike> = | = <psike>Psike</psike>            |
+|               <anima>Anima</anima> = | = <anima>Anima</anima>            |
 |                      <ekos>Wall</ekos> | <ekos>Land</ekos>                   |
 |              <ekos>Wall Section</ekos> | <ekos>Area</ekos>                  |
 |      <via>ContactSurface</via> = | = <via>ContactSurface</via>   |
 |                  <via>Hold</via> | <via>Microsite</via>          |
 |                    <ekos>Volume</ekos> | <ekos>Mound, Trench</ekos>          |
 |                 <ekos>WallAngle</ekos> | <ekos>SlopeAngle</ekos>             |
-|            <mooves>ClimbingShoe</mooves> | <mooves>PlantingBoot</mooves>         |
+|            <motor>ClimbingShoe</motor> | <motor>PlantingBoot</motor>         |
 |                <beta>Redpoint</beta> | <beta>Replanting Required </beta> |
 |          <beta>Flash, Onsight</beta> | <beta>No replanting </beta>       |
-|         <mooves>RockOver Moove </mooves>= | = <mooves>RockOver Moove </mooves>     |
+|         <motor>RockOver Moove </motor>= | = <motor>RockOver Moove </motor>     |
 |        <via>ViaFinding</via> = | = <via>ViaFinding</via>     |
 |             <via>One Pitch</via> | <via>One CoverLoop </via>      |
-|                  <mooves>Fall</mooves> = | = <mooves>Fall</mooves>               |
+|                  <motor>Fall</motor> = | = <motor>Fall</motor>               |
 | <via>Anchor, Belay Station</via> | <via>Cache</via>              |
 |              <via>Approach</via> | <via>Walk In </via>           |
 |                     <ekos>Crag </ekos> | <ekos> Block</ekos>                 |
@@ -73,13 +73,13 @@ Based on Gymnastics Elements. Elements are completed using Beta Factors. Multipl
 - 🔷Skreef
 - 🔷Rework
 
-### <mooves>MooveElement</mooves>
+### <motor>MooveElement</motor>
 
 ### <ekos>EkoElement</ekos>
 
 ### <via>ViaFactor</via>
 
-### <psike>PsikeElement</psike>
+### <anima>AnimaElement</anima>
 
 ## <beta>What is a BetaInstance?</beta>
 
@@ -102,18 +102,18 @@ Via is often a lack of knowledge of what's over the hill or around the corner
 
 - bag weight constrains Via Length
 
-### <mooves>Moove Constraints</mooves>
+### <motor>Moove Constraints</motor>
 
 - Moove is metabolic energy
 - bag weight
 
-### <psike>Psike Constraints</psike>
+### <anima>Anima Constraints</anima>
 
-Psike is
+Anima is
 
 ### <ekos>Eko Constraints</ekos>
 
-Eko is weather, if you are in fog you can't see eko. Remember that eko is the object of environment, which always exists. Eko requires perception. Eko requires Psike
+Eko is weather, if you are in fog you can't see eko. Remember that eko is the object of environment, which always exists. Eko requires perception. Eko requires Anima
 
 ## Beta.Error
 
@@ -131,7 +131,7 @@ There is a miscommunication happening if:
 [BetaSequence](https://docs.python.org/3/library/stdtypes.html#sequence-types-list-tuple-range)
 
 1. 🔷
-2. 🟠 <mooves>BodyLean</mooves>
+2. 🟠 <motor>BodyLean</motor>
 3. 🟠
 4. 🟠
 5. 🟩
@@ -156,7 +156,7 @@ There is a miscommunication happening if:
 
 - Eko is not required for Attention
 - BodyBend does not require Via
-- Some Psike only uses NeuroConcepts, like Emotional Regulation. If a function uses more than one module then it is Beta.
+- Some Anima only uses NeuroConcepts, like Emotional Regulation. If a function uses more than one module then it is Beta.
 
 - Everything is an Object, like Python
 
@@ -198,6 +198,6 @@ Via Theorem, Via Solution
 
 Via just gives the options, Beta is required to Solve, since solution requires Moove. Beta occurs when more than module is required in 1stPersonPoint of view. Plantor's perspective.
 
-Psike that just thinks about PsikeElements
+Anima that just thinks about AnimaElements
 
 :::

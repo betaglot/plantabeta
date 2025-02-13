@@ -22,13 +22,13 @@ LaptopOnly tasks include:
 
 :::
 
-::: danger <psike>Attencide</psike> until season start
+::: danger <anima>Attencide</anima> until season start
 
 - Anything related to climbing.
 - Instruments
 - International
 - Naming
-- Psike
+- Anima
 
 :::
 

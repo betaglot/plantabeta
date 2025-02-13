@@ -1,4 +1,4 @@
-# 🟠<mooves>StrapTakt</mooves>
+# 🟠<motor>StrapTakt</motor>
 
 ---
 
