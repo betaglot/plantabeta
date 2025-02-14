@@ -8,15 +8,37 @@ Each SistemType is structured into Praktik and Teoria
 
 ## Sistem Syntax
 
-(🕸 🔷 ⭐ 🟩 🔻 🟠 💜)
+(🕸 👷‍♀️ ⭐ 🟩 🔻 🟠 💜)
 
 1. 🕸Sistem
-2. 🔷Beta
+2. 👷‍♀️Plantor
 3. ⭐Labor
 4. 🟩Ekos
 5. 🔻Via
-6. 🟠Mooves
+6. 🟠Motor
 7. 💜Anima
+
+🔷 Brazo.Anterior.Down.Ama
+
+1. 🕸Sistem:
+2. 👷‍♀️Plantor: Brazo.Anterior
+3. ⭐Labor:
+4. 🟩Ekos: Plast
+5. 🔻Via: Down
+6. 🟠Motor: BrazoAma
+7. 💜Anima:
+
+---
+
+1. 🕸Sistem:
+2. 👷‍♀️Plantor:
+3. ⭐Labor:
+4. 🟩Ekos:
+5. 🔻Via:
+6. 🟠Motor:
+7. 💜Anima:
+
+BrazoAnterior_Plast_Down_Ama
 
 Betaglot.PlantaBeta.Sistem.Teori.Element.Definition.Ekos.Stump
 
@@ -32,15 +54,11 @@ DeclarativeLanguage
 
 BETAGLOTS are people who apply the SISTEM to multiple sports
 
-::: tip The language is not the organization (except for Klimbeta)
-Gymnastics : CodeOfPoints :: BETAGLOT : SISTEM :: PlantaBeta : PlantaBeta :: Klimbeta : Klimbeta
-:::
-
 BETAGLOT is the organization which is developing SISTEM.py and applying it to solo sports
 
 SISTEM is the system which is composed of EKO, MOVE, VIA, Anima
 
-The term Beta can refer to any of the BetaTypes. All TypeElements inherit from BetaElement, which is the Base class. EkoElement
+The term Beta can refer to any of the SistemTypes. All TypeElements inherit from Element, which is the Base class. EkosElement
 
 The terms "Element" is used instead of "Object", since abstract objects are difficult to understand and will render SISTEM inaccessible to everyone who isn't a computer scientist or philosopher.
 

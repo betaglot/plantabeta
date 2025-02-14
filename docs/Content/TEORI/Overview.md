@@ -1,55 +1,23 @@
-# 🔷<beta>TEORIA</beta>
 
-## A system of Elements
+# Reference Overview
 
-Based on types of Elements in Euclids Elements:
+> This Reference section provides you with details about the functions, modules, and objects included in PlantaBeta, describing their Attributes and usage.
 
-- Axioma
-- Symbols 🐍<py>Syntax</py>
-- Definitions 🐍<py>ClassDefinitions</py>
-    - Elements 🐍<py>Class</py>
-    - BetaType 🐍<py>Types</py>
-- Propositions 🐍<py>Statements</py>
-    - Postulates
-    - Problema 🐍<py>Functions</py>
-    - Teoria 🐍<py>Variables</py>
-    - Hypothesis 🐍<py>DocStrings, Test</py>
+## [![Beta](/BetaIkon/Beta_Ikon.png)](/reference/Beta/WhatBeta)
 
-Definitions have no proofs.
+## [![Ekos](/BetaIkon/Ekos_Ikon.png)](/reference/Ekos/EkosOverview)
 
-All Propositions must be proved
+## [![Mooves](/BetaIkon/Mooves_Ikon.png)](/reference/Mooves/MoovesOverview)
 
-## Differentiate(Definition, Proposition)
+## [![Via](/BetaIkon/Via_Ikon.png)](/reference/Via/ViaOverview)
 
-## Differentiate(Via, Moove)
+## [![Anima](/BetaIkon/Anima_Ikon.png)](/reference/Anima/AnimaOverview)
 
-### Confusion
+## [Lexikon](/reference/Lexikon)
 
-ViaGravity as acceleration but not by force. Force is Moove
+A list of all terms that you must be familiar with to master planting.
 
-Split Newton Kinematics into Via or Moove
-
-## Differentiate(Via, Eko)
-
-### Confusion
-
-## Dependencies
-
-### Instances of Dependencies
-
-Instances of Definitions, Symbols, previous  occur in Propositions
-
-Anteproposition is a proposition which occurs before the current proposition
-
-Dependency can refer to any Element type
-
-### Linear Dependency (A Taxonomy)
-
-#### Deductive Axiomatic System
-
-### Interdependent (A network)
-
-they all depend on each other
+---
 
 <!-- =================================================== -->
 <!-- =================================================== -->
@@ -58,6 +26,16 @@ they all depend on each other
 <!-- =================================================== -->
 ::: details 🛠 <dev>&&&</dev>
 
-- Number theory is the most accessible Theory which can shed the "theory is just your opinion" missemmey
+-
 
+The ENCYCLOPEDIA Section is like a dictionary
+
+The ENCYCLOPEDIA section is not going to be used as much as the tutorials. To use the ref section you need to already know what you're looking for. Known unknowns. When using the Guide, user is full of unknown unknowns, they don't know anything about planting.
+
+ENCYCLOPEDIA overview should have a table of contents for the whole module
+
+Module overview
+<h2>PageTags</h2>
+
+- "ENCYCLOPEDIA.Overview"
 :::
