@@ -1,8 +1,8 @@
-# 🟠 <motor>Step</motor>
+# 🟠 <motor>Base_Step</motor>
 
 ![MooveIkon](/BetaIkon/Mooves_Ikon.png)
 
-## 🕸 Step.Skema
+## 🕸 Base_Step.Skema
 
 ### Related 🟩<ekos>Eko</ekos>
 
@@ -29,6 +29,11 @@
 <!-- =================================================== -->
 ::: details 🛠 <dev>&&&</dev>
 
+- Differentiate(Step,Amble)
+    - Step into
+    - Stepping up a ladder isn't Amble
+- StepInto
+- StepOver
 - TestStep
     - SlowMoove
     - Like SpadeTest, Test a Kontakt before putting your full weight on it

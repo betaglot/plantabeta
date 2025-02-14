@@ -46,7 +46,7 @@ treeList = [
 <!-- =================================================== -->
 ::: details 🛠 <dev>&&&</dev>
 
-- https://www.verywellmind.com/bronfenbrenner-ecological-model-7643403
+- <https://www.verywellmind.com/bronfenbrenner-ecological-model-7643403>
 - Documentation to play the (game == simulation == PlantorExperience)
 - Documentation for the game is also documentation for the job
 - Knowledge Gaps are the low hanging fruit of PutPlant education

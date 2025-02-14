@@ -1,6 +1,6 @@
-# 🟠<motor>ManoSlide</motor>
+# 🟠<motor>Mano_Slide</motor>
 
-## 🕸 ManoSlide.Skema
+## 🕸 Mano_Slide.Skema
 
 ### Related 🟩<ekos>Eko</ekos>
 

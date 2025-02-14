@@ -1,8 +1,8 @@
-# 🟠 <motor>HandSkreef</motor>
+# 🟠 <motor>Mano_Skreef</motor>
 
 ![MooveIkon](/BetaIkon/Mooves_Ikon.png)
 
-## 🕸 HandSkreef.Skema
+## 🕸 Mano_Skreef.Skema
 
 ### Related 🟩<ekos>Eko</ekos>
 

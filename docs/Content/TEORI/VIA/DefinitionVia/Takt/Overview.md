@@ -1,6 +1,6 @@
 # 🔻 <via>Takt</via>
 
-> 
+>
 
 Aliases: Contact point, Contact surface
 
@@ -32,6 +32,7 @@ Aliases: Contact point, Contact surface
 ::: details 🛠 <dev>&&&</dev>
 
 _ The Plural of "Takt" is "Takta"
+
 - (Takt = isA(Zone))
 
 - (EkosTakt = (Material)x(Orientation)x(Wet,Dry))

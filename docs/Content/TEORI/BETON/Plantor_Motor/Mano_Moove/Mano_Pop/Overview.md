@@ -1,4 +1,4 @@
-# 🟠<motor>ManoPop</motor>
+# 🟠<motor>Mano_Pop</motor>
 
 ## 🕸 ManoPop.Skema
 
