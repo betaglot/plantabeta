@@ -18,6 +18,10 @@ Each SistemType is structured into Praktik and Teoria
 6. 🟠Motor
 7. 💜Anima
 
+DotNotation for Subset
+
+
+
 🔷 Brazo.Anterior.Down.Ama
 
 1. 🕸Sistem:

@@ -1,6 +1,8 @@
 
 # 🛠 <dev>Research and Development</dev>
 
+<iframe width="1263" height="720" src="https://www.youtube.com/embed/5jzchxfzF28?playlist=pzqD7SZoZcQ,llfZYq7NwI0" title="0001 PutPlant 2024 05 05 01 GH010209" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 PlantaBeta is constantly being expanded and improved. PlantaBeta is being developped during the offseason of tree planting in Canada. PlantaBeta will be tested in the field between late April and early August. Nothing is set in stone.
 
 ## Contact

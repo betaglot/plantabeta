@@ -9,6 +9,11 @@
 <!-- =================================================== -->
 ::: details 🛠 <dev>&&&</dev>
 
--
+- Meander
+- ScenicRoute
+- Take the long way
+- Shortcut
+- Faster
+- Shorter
 
 :::
