@@ -20,7 +20,7 @@ There will be hundreds of tasks
 
 ## Academia
 
-Connect Academia to PutPlant by linking to each field's current understanding.  
+Connect Academia to PLANTABETA by linking to each field's current understanding.  
 
 - Grant Writing
 - Cite papers whenever possible
@@ -30,7 +30,7 @@ Connect Academia to PutPlant by linking to each field's current understanding.
 
 ## Art
 
-> create art related to PutPlant
+> create art related to PLANTABETA
 
 ### Art Business
 
@@ -71,7 +71,7 @@ Connect Academia to PutPlant by linking to each field's current understanding.
 
 ## Contribution
 
-> manage the contributions to PutPlant
+> manage the contributions to PLANTABETA
 
 - Backend database which holds all submissions
 - Accept submissions
@@ -83,7 +83,7 @@ Connect Academia to PutPlant by linking to each field's current understanding.
 
 ## Documentation
 
-> document every part of PutPlant's system
+> document every part of PLANTABETA's system
 
 ### ElementPage
 
@@ -120,11 +120,11 @@ Connect Academia to PutPlant by linking to each field's current understanding.
 
 ## Graphic Design
 
-> design how PutPlant looks
+> design how PLANTABETA looks
 
-### Complete PutPlant's StyleGuide
+### Complete PLANTABETA's StyleGuide
 
-- PutPlantApp
+- PLANTABETAApp
 - Documentation Style Guide
 - Copy each header of [Google's StyleGuide](https://developers.google.com/style)
 
@@ -141,7 +141,7 @@ Connect Academia to PutPlant by linking to each field's current understanding.
 
 ## Interviews
 
-> interview people to gain a better understanding of their experience of PutPlant or related topics
+> interview people to gain a better understanding of their experience of PLANTABETA or related topics
 
 ### Interview Plantors
 
@@ -166,7 +166,7 @@ Connect Academia to PutPlant by linking to each field's current understanding.
 ### Copyright
 
 - Open Source License
-- PutPlant name
+- PLANTABETA name
 
 ### Disclaimer
 
@@ -197,7 +197,7 @@ Connect Academia to PutPlant by linking to each field's current understanding.
 
 > use the [Python Programming Language](https://python.org)
 
-- Apply Computational Thinking to PutPlant
+- Apply Computational Thinking to PLANTABETA
 - Python
 - Create JSON files which are used in DataVisualizations
     - MooveHierarchy
@@ -211,7 +211,7 @@ Connect Academia to PutPlant by linking to each field's current understanding.
 
 ## Roadmap
 
-> plan for the future of PutPlant
+> plan for the future of PLANTABETA
 
 ### 1 year plan (2025_Plan)
 
@@ -225,13 +225,13 @@ Connect Academia to PutPlant by linking to each field's current understanding.
 ### 2030_Plan
 
 - 2 Billion Trees
-- PutPlant in Africa
+- PLANTABETA in Africa
 
 ---
 
 ## Social Media
 
-> manage PutPlant's social media presence
+> manage PLANTABETA's social media presence
 
 - Find potential contributors
 - Edit Video into Reels
@@ -281,7 +281,7 @@ See [Instruments](/dev/Instruments) for notes about each Instrument
 
 ## UX Design
 
-> design how PutPlant is used
+> design how PLANTABETA is used
 
 -
 

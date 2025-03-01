@@ -22,7 +22,7 @@ Could I set up a dev container?
 
 ## Printout
 
-- PutPlant binder allows easy updates and 'TreeShaking'
+- PLANTABETA binder allows easy updates and 'TreeShaking'
 
 - LetterSizedPaper
 

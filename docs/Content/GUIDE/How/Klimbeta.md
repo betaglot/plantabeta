@@ -1,7 +1,7 @@
 
-# Klimbeta
+# KLIMBETA
 
-<!-- ![Klimbeta_PlantaBeta](/Klimbeta_PlantaBeta.png) -->
+<!-- ![KLIMBETA_PlantaBeta](/KLIMBETA_PlantaBeta.png) -->
 
 ## Story of Young People Who Want to Combat Climate Change
 
@@ -92,7 +92,7 @@ Video of climbing with planting bags on
 
 PlantaBeta climbs while planting
 
-Klimbeta could plant while climbing
+KLIMBETA could plant while climbing
 
 What is the puck what is the net and how do you carry the puck?
 

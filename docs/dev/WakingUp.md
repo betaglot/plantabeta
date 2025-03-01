@@ -3,11 +3,11 @@
 ## Abstract
 
 <!-- What is the topic?
-Write an abstract to be posted along with phone screenshots of putplant.ca -->
+Write an abstract to be posted along with phone screenshots of PLANTABETA.ca -->
 
-## Betaglot is PutPlant and Klimbeta
+## Betaglot is PLANTABETA and KLIMBETA
 
-![TreeGraph_Betaglot_PutPlant_Klimbeta]()
+![TreeGraph_Betaglot_PLANTABETA_KLIMBETA]()
 
 ### What is Betaglot?
 
@@ -44,11 +44,11 @@ Frans de Waal
 
 - Writer guy
 
-## PutPlant
+## PLANTABETA
 
 -
 
-## Klimbeta
+## KLIMBETA
 
 ### Sharma
 
@@ -60,13 +60,13 @@ Frans de Waal
 
 ## 47 ways Waking Up is relevant to Betaglot
 
-<!-- Don't limit to Plantbeta and Klimbeta. These should be relevant to at least 3 BetaActivities -->
+<!-- Don't limit to Plantbeta and KLIMBETA. These should be relevant to at least 3 BetaActivities -->
 
 ### 1: No competition
 
 > "There is no competition at the frontier of your artform" - David Whyte
 
-Progression Score in Skiing, Skateboarding, Gymnastics and Klimbeta competitions.
+Progression Score in Skiing, Skateboarding, Gymnastics and KLIMBETA competitions.
 
 ### 2: The 5 Aggregates
 

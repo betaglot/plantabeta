@@ -1,7 +1,7 @@
 
 # 🛠 <dev>Research and Development</dev>
 
-<iframe width="1263" height="720" src="https://www.youtube.com/embed/5jzchxfzF28?playlist=pzqD7SZoZcQ,llfZYq7NwI0" title="0001 PutPlant 2024 05 05 01 GH010209" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="1263" height="720" src="https://www.youtube.com/embed/5jzchxfzF28?playlist=pzqD7SZoZcQ,llfZYq7NwI0" title="0001 PLANTABETA 2024 05 05 01 GH010209" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 PlantaBeta is constantly being expanded and improved. PlantaBeta is being developped during the offseason of tree planting in Canada. PlantaBeta will be tested in the field between late April and early August. Nothing is set in stone.
 
@@ -37,7 +37,7 @@ Where can PlantaBeta lead.
 
 Download Printable resources
 
-## [Github](https://github.com/klimbeta/putplant)
+## [Github](https://github.com/KLIMBETA/PLANTABETA)
 
 ## <dev>**&**</dev>
 
@@ -50,7 +50,7 @@ Download Printable resources
 <!-- =================================================== -->
 ::: details 🛠 <dev>&&&</dev>
 
-- Document everything to make PutPlant.dev portable to any company
+- Document everything to make PLANTABETA.dev portable to any company
 
 <h2>PageTags</h2>
 

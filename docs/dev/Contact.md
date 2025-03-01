@@ -23,7 +23,7 @@ What are some features that you would like to see
 
 ### Clarification
 
-Which parts of of [PlantaBeta](/guide/introduction.html#what-is-putplant) are:
+Which parts of of [PlantaBeta](/guide/introduction.html#what-is-PLANTABETA) are:
 
 - Confusing
 - Unclear

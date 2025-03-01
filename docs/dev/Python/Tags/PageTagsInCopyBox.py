@@ -666,7 +666,7 @@ tags = {
         "Dev.AlsoKnownAs",
         "Reference.Glossary"
     ],
-    "guide/How/Klimbeta.md": [],
+    "guide/How/KLIMBETA.md": [],
     "guide/How/Science.md": [],
     "guide/What/GearList.md": [],
     "guide/What/WhatGear.md": [],

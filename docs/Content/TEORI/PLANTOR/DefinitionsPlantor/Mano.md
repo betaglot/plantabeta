@@ -1,1 +1,0 @@
-# 🖐 👷‍♀️<plantor>Mano</plantor>

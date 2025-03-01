@@ -22,7 +22,7 @@
 
 -
 
-- KlimBeta, the Database is where Klimors can post their own content, their own Beta.
+- KLIMBETA, the Database is where Klimors can post their own content, their own Beta.
 
 - It's against Plantor's best interest to make their own content, unless it's from FirstPerson.
 

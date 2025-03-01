@@ -104,7 +104,7 @@ If you decide that you’d like to get more involved, then there are some opport
 ::: info
 Upload videos on YouTube then download for processing
 
-Put "PutPlant" in the title
+Put "PLANTABETA" in the title
 
 :::
 

@@ -2,14 +2,14 @@
 sidebar: false
 ---
 
-# PutPlant Is Designed For You
+# PLANTABETA Is Designed For You
 
 <!-- Expect to fail in some parts, show the sincerity and we will solve the problems together -->
 
 ::: info Purpose
 
 - **Show don't tell!** Use the Classic Writing Style
-- Write a page which shows the plantors at Quastuco what PutPlant is, how it is designed for them and how to use it
+- Write a page which shows the plantors at Quastuco what PLANTABETA is, how it is designed for them and how to use it
 - Write a paragraph summarizing this page and post it in the WhatsApp group
 
 :::
@@ -90,7 +90,7 @@ Beta is composed of four types, each of which can be represented by an icon:
 
 💜<anima>Psike </anima>: Any phenonmena of your nervous system, includes emotion, thought, perception, awareness, attention and more.  
 
-## How am I supposed to use putplant.ca?
+## How am I supposed to use PLANTABETA.ca?
 
 ### The Guide Section
 
@@ -169,13 +169,13 @@ To test
 
 Plantbeta is a system to define the rules of the game.
 
-## PutPlant is an open source project
+## PLANTABETA is an open source project
 
 ### What is an open source project?
 
 ### Many hands make light work
 
-## What is the first step to learning and contributing to PutPlant?
+## What is the first step to learning and contributing to PLANTABETA?
 
 Learn the vocabulary
 

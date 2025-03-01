@@ -49,7 +49,7 @@ Test [novel plantor Instruments](dev/Instruments)
 
 ### Climbing
 
-- Klimbeta + PlantaBeta
+- KLIMBETA + PlantaBeta
 
 ## Future Features
 
