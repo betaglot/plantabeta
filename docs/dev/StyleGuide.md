@@ -339,7 +339,7 @@ Delete tags once converted to headers. They are stored in a JSON
 -
 
 :::
-# 💜 <anima>Anima</anima>
+# 🕸 <anima>Anima</anima>
 
 ```md
 

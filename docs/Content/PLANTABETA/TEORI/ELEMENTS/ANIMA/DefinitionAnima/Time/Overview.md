@@ -1,4 +1,4 @@
-# 💜 <anima>Time</anima>
+# 🕸 <anima>Time</anima>
 
 ![Anima_Ikon](/Anima/Anima_Ikon.png)
 

@@ -1,4 +1,4 @@
-# 💜 <anima>Judgement</anima>
+# 🕸 <anima>Judgement</anima>
 
 ![Anima_Ikon](/Anima/Anima_Ikon.png)
 

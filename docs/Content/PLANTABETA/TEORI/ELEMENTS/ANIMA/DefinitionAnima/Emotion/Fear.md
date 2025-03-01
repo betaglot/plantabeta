@@ -1,4 +1,4 @@
-# 💜 <anima>Fear </anima>
+# 🕸 <anima>Fear </anima>
 
 ## Doubt
 

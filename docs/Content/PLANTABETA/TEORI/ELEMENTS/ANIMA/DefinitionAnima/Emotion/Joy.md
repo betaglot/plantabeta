@@ -1,4 +1,4 @@
-# 💜 <anima>Joy </anima>
+# 🕸 <anima>Joy </anima>
 
 ![Anima_Ikon](/Anima/Anima_Ikon.png)
 

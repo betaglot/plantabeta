@@ -1,4 +1,4 @@
-# 💜 <anima>Arousal</anima>
+# 🕸 <anima>Arousal</anima>
 
 ::: warning Not Sexual Arousal
 :::

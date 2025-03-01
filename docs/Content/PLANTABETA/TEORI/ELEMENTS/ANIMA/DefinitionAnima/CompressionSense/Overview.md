@@ -1,4 +1,4 @@
-# 💜 <anima>Compression Sense</anima>
+# 🕸 <anima>Compression Sense</anima>
 
 ![Anima_Ikon](/Anima/Anima_Ikon.png)
 

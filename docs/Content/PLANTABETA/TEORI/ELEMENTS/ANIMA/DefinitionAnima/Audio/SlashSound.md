@@ -1,4 +1,4 @@
-# 💜 <anima>Slash Sound </anima>
+# 🕸 <anima>Slash Sound </anima>
 
 ## Falling
 

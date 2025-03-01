@@ -1,4 +1,4 @@
-# 💜 <anima>Resilience</anima>
+# 🕸 <anima>Resilience</anima>
 
 ![Anima_Ikon](/Anima/Anima_Ikon.png)
 

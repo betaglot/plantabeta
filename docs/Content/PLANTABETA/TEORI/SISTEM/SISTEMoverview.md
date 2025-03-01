@@ -21,12 +21,10 @@ Each SistemType is structured into Praktik and Teoria
 
 DotNotation for Subset
 
-
-
 🔷 Brazo.Anterior.Down.Ama
 
 1. 🕸Sistem:
-2. 👷‍♀️Plantor: Brazo.Anterior
+2. ✋Soma : Brazo.Anterior
 3. ⭐Labor:
 4. 🟩Ekos: Plast
 5. 🔻Via: Down
@@ -34,14 +32,6 @@ DotNotation for Subset
 7. 💜Anima:
 
 ---
-
-1. 🕸Sistem:
-2. 👷‍♀️Plantor:
-3. ⭐Labor:
-4. 🟩Ekos:
-5. 🔻Via:
-6. 🟠Motor:
-7. 💜Anima:
 
 BrazoAnterior_Plast_Down_Ama
 

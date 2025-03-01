@@ -1,4 +1,4 @@
-# 💜 <anima>Compassion</anima>
+# 🕸 <anima>Compassion</anima>
 
 ## SelfCompassion
 

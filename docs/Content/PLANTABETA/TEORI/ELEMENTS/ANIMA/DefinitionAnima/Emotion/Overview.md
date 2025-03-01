@@ -1,4 +1,4 @@
-# 💜 <anima>Emotion</anima>
+# 🕸 <anima>Emotion</anima>
 
 😄 Joy
 😨 Fear

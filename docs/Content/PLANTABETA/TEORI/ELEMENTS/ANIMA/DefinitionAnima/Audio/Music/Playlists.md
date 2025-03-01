@@ -1,4 +1,4 @@
-# 💜 <anima>Playlists</anima>
+# 🕸 <anima>Playlists</anima>
 
 ![Anima_Ikon](/Anima/Anima_Ikon.png)
 

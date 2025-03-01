@@ -1,4 +1,4 @@
-# 💜 <anima>Attention</anima>
+# 🕸 <anima>Attention</anima>
 
 ## Differences between Experience and Attention
 
