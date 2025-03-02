@@ -1,4 +1,4 @@
-# ⭐<labos>Labos</labos>
+# ⭐<labor>LABOR</labor>
 
 Aliases: Work, Job, Task
 

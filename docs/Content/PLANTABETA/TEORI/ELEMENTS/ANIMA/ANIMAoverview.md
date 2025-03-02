@@ -2,8 +2,6 @@
 
 ANIMA == PSYCHE == SPIRITUS
 
-![Anima_Ikon](/Anima/Anima_Ikon.png)
-
 > Focus on your breath to experience anima directly
 
 ## Etymology

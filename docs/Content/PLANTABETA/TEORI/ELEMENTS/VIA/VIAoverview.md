@@ -1,20 +1,18 @@
-# 🔻 <via>Via</via>
+# 🔻 <via>VIA</via>
 
 > the way
 
-![Via Icon](/Via/Via_Icon.png)
-
-## <via>Via Symbol</via> 🔻
+## <via>VIA Symbol</via> 🔻
 
 > Inverted Red Triangle
 
-## <via>What is Via ?</via>
+## <via>What is VIA ?</via>
 
-> the interface between Moove, Anima and Eko
+> the interface between MOTOR, ANIMA and EKOS
 
-::: details Why is it called <via>Via</via>?
+::: details Why is it called <via>VIA</via>?
 
-## Etymology of "<via>Via</via>"
+## Etymology of "<via>VIA</via> and <via>VION</via>"
 
 Road, Path, Route, through, using, composed of
 
@@ -25,7 +23,7 @@ Road, Path, Route, through, using, composed of
 - en<via>voy</via>
 - <via>via</via>ticum
 - <via>via</via>tic
-- tri<via>vium</via>
+- tri<via>VION</via>
 - de<via>viate</via>
 - ob<via>viate</via>
 - in<via>voice</via>
@@ -46,7 +44,7 @@ Road, Path, Route, through, using, composed of
 
 :::
 
-## <via>What are Via Factors?</via>
+## <via>What is a VION?</via>
 
 ```py
 🔻
@@ -83,18 +81,17 @@ Not worth the trouble
 
 > "Be able to because of"
 
-> Moove Via Eko
+> MOTON VIA EKO
 
-> "Moove by way of the land"
+> "Move by way of the land"
 
 > "Use that branch to pull yourself up"
 
 - Computational Geometry
-- The interface between Moove, Anima and Eko.
 - Via is an abstract layer on top of Eko. A via is where the Plantor
-- A vias start and finish at the Cache.
+- A Via starts and finishes at the Cache.
 
-### Purpose of Via
+### Purpose of VIA
 
 - Minimize Deadwalking
 - To be able to have a detailed mental model of your land, so that you can plan how you're going to Cover your lang.
@@ -138,7 +135,7 @@ Directions
 <!-- =================================================== -->
 ::: details 🛠 <dev>&&&</dev>
 
-- All Viums require Affordance
+- All VIONs require Affordance
 - Near is a Quality not a Quantity
 - Ambulance drivers are masters of via
 - IsochroneMap
@@ -154,18 +151,18 @@ Directions
 - Complete a Via
     - Solve a ViaProblem
 - MissedLand is a CoverError
-- The most inefficient Via exists at the same time as the most efficient Via. You can choose the wrong Via but still be using a valid Via. Possible but not practical.
+- The most inefficient Via exists at the same time as the most efficient VIA. You can choose the wrong Via but still be using a valid VIA. Possible but not practical.
 - PertainentNegative
     - "You can't put your foot there"
 - The units of Via are BagUps
 - Via is close to Surveying
     - Trangulation
 
-- Via is Superimposed onto Eko.
+- VIA is Superimposed onto EKOS.
 - `IsPlanted(Eko{})`
-    - Look to see if an EkoElement is planted
+    - Look to see if an EKON is planted
 
-## Update your Via
+## Update your VIA
 
 <h2>PageTags</h2>
 
@@ -173,7 +170,7 @@ Directions
 
 ## ViaComposition
 
-Eko is decomposed by composing a Via
+EKOS is decomposed by composing a VIA
 
 - Compose Lines, ViaSpaces and ViaPoints together to Cover Land
 - Fit the ViaFactors together
@@ -195,38 +192,38 @@ Eko is decomposed by composing a Via
 - "Anima.Vision.Find.Overview"
 - "Anima.Vision.Hidden"
 - "Anima.Vision.SeenFromCache"
-- "Via.Direction"
-- "Via.Overview"
-- "Via.ReadLand"
-- "Via.ViaAnalysis"
-- "Via.ViaDirection.ViaDownSlope"
-- "Via.ViaDirection.ViaTraverseSlope"
-- "Via.ViaDirection.ViaUpSlope"
-- "Via.ViaError"
-- "Via.ViaError.Deadwalking"
-- "Via.ViaError.PinchedArea"
-- "Via.ViaError.RedundantVia"
-- "Via.ViaError.TooClose"
-- "Via.ViaError.TooFar"
-- "Via.ViaEvent"
-- "Via.ViaEvent.AreaClosed"
-- "Via.ViaEvent.CompletionEvent"
-- "Via.ViaEvent.PositionEvent"
-- "Via.ViaGrid"
-- "Via.ViaGrid.ViaHexagonGrid"
-- "Via.ViaGrid.ViaSquareGrid"
-- "Via.ViaGrid.ViaTriangleGrid"
-- "Via.ViaName"
-- "Via.ViaAttributes.Overview"
-- "Via.ViaAttributes.ViaAccuracy"
-- "Via.ViaAttributes.ViaLength"
-- "Via.ViaAttributes.ViaPermutation"
-- "Via.ViaAttributes.ViaPrecision"
-- "Via.ViaAttributes.ViaTreeCount"
-- "Via.ViaQuestion"
-- "Via.ViaShape"
-- "Via.ViaShape.ViaNegativeShape"
-- "Via.ViaSuperposition"
+- "VIA.Direction"
+- "VIA.Overview"
+- "VIA.ReadLand"
+- "VIA.ViaAnalysis"
+- "VIA.Direction.ViaDownSlope"
+- "VIA.Direction.ViaTraverseSlope"
+- "VIA.Direction.ViaUpSlope"
+- "VIA.Error"
+- "VIA.Error.Deadwalking"
+- "VIA.Error.PinchedArea"
+- "VIA.Error.RedundantVia"
+- "VIA.Error.TooClose"
+- "VIA.Error.TooFar"
+- "VIA.Event"
+- "VIA.Event.AreaClosed"
+- "VIA.Event.CompletionEvent"
+- "VIA.Event.PositionEvent"
+- "VIA.Grid"
+- "VIA.Grid.ViaHexagonGrid"
+- "VIA.Grid.ViaSquareGrid"
+- "VIA.Grid.ViaTriangleGrid"
+- "VIA.Name"
+- "VIA.Attributes.Overview"
+- "VIA.Attributes.Accuracy"
+- "VIA.Attributes.Length"
+- "VIA.Attributes.Permutation"
+- "VIA.Attributes.Precision"
+- "VIA.Attributes.TreeCount"
+- "VIA.Question"
+- "VIA.Shape"
+- "VIA.Shape.NegativeShape"
+- "VIA.Superposition"
 - PlantingProcess_LandApproach_FlyIn_Helicopter
 - PlantingProcess_LandApproach_WalkIn_WalkInTime
 - PlantingProcess_LandBriefing_FingerPointing_ArmMoove

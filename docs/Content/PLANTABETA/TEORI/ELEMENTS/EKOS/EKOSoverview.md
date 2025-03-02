@@ -1,6 +1,6 @@
-# 🟩  <ekos>Ekos</ekos>
+# 🟩  <ekos>EKOS</ekos>
 
-![Eko_Ikon](/BetaIkon/Ekos_Ikon.png)
+![Ekos_Ikon](/BetaIkon/Ekos_Ikon.png)
 
 ## What is <ekos>Ekos</ekos>?
 

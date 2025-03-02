@@ -166,6 +166,7 @@ function sidebarGuide() {
 function sidebarTEORI() {
   return [
     { text: '<strong>TEORI Overview</strong>', link: '/content/PLANTABETA/TEORI/ELEMENTS/TEORIoverview' },
+    
 
     // # SISTEM
     {
@@ -177,39 +178,7 @@ function sidebarTEORI() {
         // #BETA
         {
           text: '🔷 <beta>BETA</beta>', link: '/content/PLANTABETA/TEORI/ELEMENTS/BETA/BETAoverview', collapsed: true, items: [
-            { text: '🔷 <beta>BetaExamples</beta>', link: '/content/PLANTABETA/TEORI/ELEMENTS/BETA/BetaExamples' },
-            { text: '🔷 <beta>BetaLingo</beta>', link: '/content/PLANTABETA/TEORI/ELEMENTS/BETA/BetaLingo/Overview' },
-            { text: '🔷 <beta>BetaDiagram</beta>', link: '/content/PLANTABETA/TEORI/ELEMENTS/BETA/BetaDiagram' },
-            {
-              text: '🔷 <beta>Plantbeta</beta>', link: '/content/PLANTABETA/TEORI/ELEMENTS/BETA/Plantbeta/Overview', collapsed: true, items: [
-                { text: '🔷 <beta>BetaElement</beta>', link: '/content/PLANTABETA/TEORI/ELEMENTS/BETA/Plantbeta/BetaElement' },
-                { text: '🔷 <beta>BetaMethod</beta>', link: '/content/PLANTABETA/TEORI/ELEMENTS/BETA/Plantbeta/BetaMethod' },
-                { text: '🔷 <beta>BetaBlock</beta>', link: '/content/PLANTABETA/TEORI/ELEMENTS/BETA/Plantbeta/BetaBlock' },
-              ]
-            },
-            {
-              text: '🔷 <beta>BetaScore</beta>', link: '/content/PLANTABETA/TEORI/ELEMENTS/BETA/BetaScore/Overview', collapsed: true, items: [
-                { text: '🔷 <beta>BetaExecutionScore</beta>', link: '/content/PLANTABETA/TEORI/ELEMENTS/BETA/BetaScore/BetaExecutionScore' },
-                {
-                  text: '🔷 <beta>BetaTeoriScore</beta>', link: '/content/PLANTABETA/TEORI/ELEMENTS/BETA/BetaScore/BetaTeoriScore/Overview', collapsed: true, items: [
-                    { text: '🔷 <beta>BetaTeknikScore</beta>', link: '/content/PLANTABETA/TEORI/ELEMENTS/BETA/BetaScore/BetaTeoriScore/BetaTeknikScore' },
-                    { text: '🔷 <beta>BetaKuboiScore</beta>', link: '/content/PLANTABETA/TEORI/ELEMENTS/BETA/BetaScore/BetaTeoriScore/BetaKuboiScore' },
-                    { text: '🔷 <beta>BetaKratosScore</beta>', link: '/content/PLANTABETA/TEORI/ELEMENTS/BETA/BetaScore/BetaTeoriScore/BetaKratosScore' }
-                  ]
-                }
-              ]
-            },
-            {
-              text: '🔷 <beta>BetaTeori</beta>', link: '/content/PLANTABETA/TEORI/ELEMENTS/BETA/BetaTeori/Overview', collapsed: true, items: [
-                { text: '🔷 <beta>BetaTeknik</beta>', link: '/content/PLANTABETA/TEORI/ELEMENTS/BETA/BetaTeori/BetaTeknik' },
-                { text: '🔷 <beta>BetaKratos</beta>', link: '/content/PLANTABETA/TEORI/ELEMENTS/BETA/BetaTeori/BetaKratos' },
-                { text: '🔷 <beta>BetaKuboi</beta>', link: '/content/PLANTABETA/TEORI/ELEMENTS/BETA/BetaTeori/BetaKuboi' }
-              ]
-            },
-            {
-              text: '🔷 <beta>BetaVideo</beta>', link: '/content/PLANTABETA/TEORI/ELEMENTS/BETA/BetaVideo/Overview', collapsed: true, items: [
-              ]
-            },
+            
           ]
         },
         // #SOMA
@@ -859,7 +828,10 @@ function sidebarTEORI() {
         { text: '🟠_🕸', link: '/content/PLANTABETA/TEORI/COMPOUNDS/', collapsed: true, items: [] },
       ]
     },
-
+    // # BETOMIKS
+    {
+      text: '🔷<beta>BETOMIKS</beta>', link: '/content/PLANTABETA/TEORI/BETOMIKS/BETOMIKSoverview', collapsed: true, items: []
+    },
 
     { text: '📃 Lexikon', link: '/content/PLANTABETA/TEORI/ELEMENTS/glossary/Glossary' },
     { text: '📷 Media Database', link: '/content/PLANTABETA/TEORI/ELEMENTS/media/Overview' }

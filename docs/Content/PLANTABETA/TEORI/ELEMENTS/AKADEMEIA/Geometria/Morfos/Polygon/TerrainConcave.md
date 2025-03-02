@@ -1,4 +1,4 @@
-# 🟩<eko>Concave</eko>
+# 🟩<ekos>Concave</ekos>
 
 ---
 

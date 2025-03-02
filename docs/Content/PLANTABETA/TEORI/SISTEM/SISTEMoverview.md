@@ -8,34 +8,41 @@ Each SistemType is structured into Praktik and Teoria
 
 ## Sistem Syntax
 
-(🕸 ✋ ⭐ 🟩 🔻 🟠 💜)
+(🕸 💜 ⭐ 🟩 🔻 🟠 )
 
-1. 🕸Sistem
-🔷Beta
-2. ✋Soma
-3. ⭐Labor
-4. 🟩Ekos
-5. 🔻Via
-6. 🟠Motor
-7. 💜Anima
+1. 🕸SISTEM
+2. 🔷BETA
+3. 💜SOMA
+4. ⭐LABOR
+5. 🟩EKOS
+6. 🔻VIA
+7. 🟠MOTOR
+8. 💜ANIMA
 
 DotNotation for Subset
 
 🔷 Brazo.Anterior.Down.Ama
 
-1. 🕸Sistem:
-2. ✋Soma : Brazo.Anterior
-3. ⭐Labor:
-4. 🟩Ekos: Plast
-5. 🔻Via: Down
-6. 🟠Motor: BrazoAma
-7. 💜Anima:
+- Timestamp
+- File being refered to
+- Tree_ID is SISTEM information. Plantors never count their trees, so it doesn't make sense to call Tree_ID an instance of BETA.
+
+1. 🕸SISTEM
+2. 🔷BETA
+3. 💜SOMA: Brazo.Anterior
+4. ⭐LABOR
+5. 🟩EKOS: Plast
+6. 🔻VIA: Down
+7. 🟠MOTOR: Ama
+8. 💜ANIMA
 
 ---
 
 BrazoAnterior_Plast_Down_Ama
 
-Betaglot.PlantaBeta.Sistem.Teori.Element.Definition.Ekos.Stump
+NameSpace
+
+Betaglot.PlantaBeta.Sistem.Teori.Element.Ekos.Definition.Stump
 
 ## Based on Euclid's Elements
 

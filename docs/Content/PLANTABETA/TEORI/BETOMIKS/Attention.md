@@ -1,4 +1,4 @@
-# BetaAttendo
+# BetaAttention
 
 What the athlete needs to pay attention to while doing some Beta.
 
@@ -8,7 +8,7 @@ The Attendo doesn't need Vision, it can be another part of Consciousness Thought
 
 ## Vision
 
-## Haptik
+## Touch
 
 ## Spatial
 

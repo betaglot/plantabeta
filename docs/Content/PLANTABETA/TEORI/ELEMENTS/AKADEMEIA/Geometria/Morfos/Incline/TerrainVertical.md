@@ -1,4 +1,4 @@
-# 🟩<eko>Vertical</eko>
+# 🟩<ekos>Vertical</ekos>
 
 ---
 
