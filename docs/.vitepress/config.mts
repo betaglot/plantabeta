@@ -6,6 +6,7 @@ export default defineConfig({
   lang: 'en-US',
   title: 'PLANTABETA',
   description: '',
+  base: '/plantabeta/',
   lastUpdated: true,
   ignoreDeadLinks: true,
   appearance: 'dark',
@@ -31,7 +32,7 @@ export default defineConfig({
     sidebar: {
       '/content/guide/': sidebarGuide(),
       '/content/example/': sidebarExamples(),
-      'content/content/tutorial/': sidebarTutorial(),
+      '/content/content/tutorial/': sidebarTutorial(),
       '/content/PLANTABETA/TEORI/': sidebarTEORI(),
       '/content/PLANTABETA/PRAKTIK/': sidebarPRAKTIK(),
       '/dev/': sidebarDevelopment(),
