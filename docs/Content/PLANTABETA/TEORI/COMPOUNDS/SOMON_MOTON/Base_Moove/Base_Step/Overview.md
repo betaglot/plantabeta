@@ -1,6 +1,6 @@
 # 🟠 <motor>Base_Step</motor>
 
-![MOTONIkon](/BetaIkon/MOTONs_Ikon.png)
+![MOTONIkon](/Ikon/MOTONs_Ikon.png)
 
 ## 🕸 Base_Step.Skema
 

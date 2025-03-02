@@ -2,7 +2,7 @@
 
 > A square of Sites
 
-![ViaIkon](/BetaIkon/Via_Ikon.png)
+![ViaIkon](/Ikon/Via_Ikon.png)
 
 ---
 

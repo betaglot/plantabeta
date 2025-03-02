@@ -4,7 +4,7 @@ Aliases: ArmWalk
 
 > Using your Arms like as if you were a quadruped
 
-![MOTONIkon](/BetaIkon/MOTONs_Ikon.png)
+![MOTONIkon](/Ikon/MOTONs_Ikon.png)
 
 ## 🕸 ArmAmble.Skema
 

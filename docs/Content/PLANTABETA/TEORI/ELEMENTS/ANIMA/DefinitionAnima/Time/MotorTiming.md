@@ -8,7 +8,7 @@
 
 - onHoleClose()
 
-![ViaIkon](/BetaIkon/Via_Ikon.png)
+![ViaIkon](/Ikon/Via_Ikon.png)
 
 ---
 

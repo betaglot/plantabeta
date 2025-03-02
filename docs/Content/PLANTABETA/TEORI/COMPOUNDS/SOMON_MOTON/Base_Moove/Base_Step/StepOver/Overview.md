@@ -1,6 +1,6 @@
 # 🟠 <motor>StepOver</motor>
 
-![MOTONIkon](/BetaIkon/MOTONs_Ikon.png)
+![MOTONIkon](/Ikon/MOTONs_Ikon.png)
 
 ## 🕸 StepOver.Skema
 

@@ -1,6 +1,6 @@
 # 🟠 <MOTOR>MOTOR</MOTOR>
 
-![<motor>Motor</motor>Icon](/BetaIkon/Motor_Ikon.png)
+![<motor>Motor</motor>Icon](/Ikon/Motor_Ikon.png)
 
 ## <MOTOR>MOTOR Ikon</MOTOR> 🟠
 

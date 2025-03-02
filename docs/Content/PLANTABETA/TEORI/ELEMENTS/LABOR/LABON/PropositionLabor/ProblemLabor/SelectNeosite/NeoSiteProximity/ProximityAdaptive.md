@@ -4,7 +4,7 @@
 
 Aliases: Reactive Spacing, Responsive Spacing, Flexible Spacing
 
-![ViaIkon](/BetaIkon/Via_Ikon.png)
+![ViaIkon](/Ikon/Via_Ikon.png)
 
 ## BetaGraph
 

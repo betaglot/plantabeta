@@ -1,6 +1,6 @@
 # 🔻 <via>GhostLine</via>
 
-![ViaIkon](/BetaIkon/Via_Ikon.png)
+![ViaIkon](/Ikon/Via_Ikon.png)
 
 ---
 

@@ -4,19 +4,19 @@ export default defineConfig({
 
   cleanUrls: true,
   lang: 'en-US',
-  title: 'PlantaBeta',
+  title: 'PLANTABETA',
   description: '',
   lastUpdated: true,
   ignoreDeadLinks: true,
   appearance: 'dark',
   head: [
-    ["link", { rel: "apple-touch-icon", href: "/BetaIkon/Ekos_Ikon.png" }],
-    ["link", { rel: "icon", type: "image/png", href: "/BetaIkon/Ekos_Ikon.png" }]
+    ["link", { rel: "apple-touch-icon", href: "/Ikon/PLANTABETA_Ikon.png" }],
+    ["link", { rel: "icon", type: "image/png", href: "/Ikon/PLANTABETA_Ikon.png" }]
   ],
   themeConfig: {
 
     outline: [2, 4],
-    logo: '/BetaIkon/Ekos_Ikon.png',
+    logo: '/Ikon/PLANTABETA_Ikon.png',
     socialLinks: [
       { icon: 'github', link: 'https://github.com/betaglot/plantabeta' }
     ],
@@ -25,7 +25,7 @@ export default defineConfig({
       provider: 'local'
     },
 
-    siteTitle: 'PlantaBeta',
+    siteTitle: 'PLANTABETA',
     nav: nav(),
 
     sidebar: {
@@ -39,13 +39,13 @@ export default defineConfig({
   }
 })
 
-// // #Nav
+// #Nav
 function nav() {
   return [
     {
       text: 'Guide',
-      link: '/content/GUIDE/What/WhatPLANTABETA',
-      activeMatch: '/content/GUIDE/'
+      link: '/content/guide/GuideOverview',
+      activeMatch: '/content/guide/'
     },
     {
       text: 'Examples',
@@ -120,10 +120,7 @@ function sidebarDevelopment() {
     { text: '<dev>AfternoonTask</dev>', link: '/dev/AfternoonTask' },
   ]
 }
-
-
-
-//#Guide
+// #Guide
 function sidebarGuide() {
   return [
     {
@@ -131,7 +128,7 @@ function sidebarGuide() {
       collapsed: false,
       items: [
         { text: 'What is Tree Planting?', link: '/content/GUIDE/What/WhatTreePlanting' },
-        { text: 'What is 🔷<beta>Put(<ekos>Plant</ekos>)</beta>?', link: '/content/GUIDE/What/WhatPLANTABETA' },
+        { text: 'What is 🔷<beta>PLANTABETA</beta>?', link: '/content/GUIDE/What/WhatPLANTABETA' },
       ]
     },
     {
@@ -162,7 +159,7 @@ function sidebarGuide() {
     { text: 'Go to Examples', link: '/content/example/Overview' },
   ]
 }
-// 
+// #Teori
 function sidebarTEORI() {
   return [
     { text: '<strong>TEORI Overview</strong>', link: '/content/PLANTABETA/TEORI/ELEMENTS/TEORIoverview' },
@@ -277,13 +274,12 @@ function sidebarTEORI() {
     { text: '📷 Media Database', link: '/content/PLANTABETA/TEORI/ELEMENTS/media/Overview' }
   ]
 }
-
+// #Praktik
 function sidebarPRAKTIK() {
   return [
     { text: '<strong>PRAKTIK Overview</strong>', link: '/content/PLANTABETA/PRAKTIK/ELEMENTS/PRAKTIKoverview' },
   ]
 }
-
 // #Tutorial
 function sidebarTutorial() {
   return [
@@ -297,7 +293,7 @@ function sidebarTutorial() {
     { text: 'Go to Reference', link: '/content/PLANTABETA/TEORI/ELEMENTS/Overview' },
   ]
 }
-
+// #Example
 function sidebarExamples() {
   return [
     { text: 'Examples Overview', link: '/content/example/Overview' },
@@ -305,18 +301,3 @@ function sidebarExamples() {
   ]
 }
 
-function sidebarApp() {
-  return [
-    {
-      text: 'App', link: '/app/Overview', collapsed: false, items: [
-        { text: 'BetaCard', link: '/app/BetaCard' },
-        { text: 'BetaDataAnalysis', link: '/app/BetaDataAnalysis' },
-        { text: 'BetaEditor', link: '/app/BetaEditor' },
-        { text: 'BetaGraph', link: '/app/BetaGraph' },
-        { text: 'BetaParser', link: '/app/BetaParser' },
-        { text: 'BetaStringer', link: '/app/BetaStringer' },
-        { text: 'BetaTranscriber', link: '/app/BetaTranscriber' },
-      ]
-    },
-  ]
-}

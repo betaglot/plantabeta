@@ -6,7 +6,7 @@
 
 ## Hail
 
-![Eko_Ikon](/BetaIkon/Ekos_Ikon.png)
+![Eko_Ikon](/Ikon/Ekos_Ikon.png)
 
 ## 🕸 Precipitation.Skema
 

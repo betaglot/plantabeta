@@ -1,6 +1,6 @@
 # 🟠 <motor>HeadRetraction</motor>
 
-![MOTONIkon](/BetaIkon/MOTONs_Ikon.png)
+![MOTONIkon](/Ikon/MOTONs_Ikon.png)
 
 ## 🕸 HeadRetraction.Skema
 

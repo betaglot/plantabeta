@@ -1,6 +1,6 @@
 # 🔻 <via>VIA</via>
 
-![<via>Via</via>Icon](/BetaIkon/Via_Ikon.png)
+![<via>Via</via>Icon](/Ikon/Via_Ikon.png)
 
 > the way
 

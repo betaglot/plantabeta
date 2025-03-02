@@ -2,7 +2,7 @@
 
 ## Cut line
 
-![ViaIkon](/BetaIkon/Via_Ikon.png)
+![ViaIkon](/Ikon/Via_Ikon.png)
 
 ## 🕸 BoundaryMarka.Skema
 

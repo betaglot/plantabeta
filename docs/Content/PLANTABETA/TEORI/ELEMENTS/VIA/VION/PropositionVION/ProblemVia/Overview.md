@@ -8,7 +8,7 @@ You use ViaTheorems or other ViaProblems to solve ViaProblems.
 
 ViaProblems are created by Eko.
 
-![ViaIkon](/BetaIkon/Via_Ikon.png)
+![ViaIkon](/Ikon/Via_Ikon.png)
 
 ## Problem Statement
 

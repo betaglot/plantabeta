@@ -1,6 +1,6 @@
 # 🟠 <motor>PlantarFlexion</motor>
 
-![MOTONIkon](/BetaIkon/MOTONs_Ikon.png)
+![MOTONIkon](/Ikon/MOTONs_Ikon.png)
 
 ## 🕸 PlantarFlexion.Skema
 

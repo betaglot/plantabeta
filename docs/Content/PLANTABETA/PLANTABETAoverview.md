@@ -1,18 +1,18 @@
 # 🔷 <beta>What is PLANTABETA?</beta>
 
-> PlantaBeta or "Beta" for short, is the **information** that you use to perform planting tasks.
+> PLANTABETA or "BETA" for short, is the **information** that you use to perform planting tasks.
 
-<beta>Beta</beta> emerges from the interactions between <ekos>EKOS</ekos>, <motor>MOTON</motor>, <via>Via</via> and <anima>Anima</anima>.
+<beta>BETA</beta> emerges from the interactions between <ekos>EKOS</ekos>, <motor>MOTON</motor>, <via>Via</via> and <anima>Anima</anima>.
 
-![<beta>Beta</beta>Icon](/BetaIkon/Beta_Ikon.png)
+![<beta>Beta</beta>Icon](/Ikon/Beta_Ikon.png)
 
-## <beta>Beta Symbol</beta> 🔷
+## <beta>PLANTABETA Symbol</beta> 🔷
 
 > Blue Diamond
 
 ::: details Why is it called <beta>Beta</beta>?
 
-## Etymology of "<beta>Beta</beta>"
+## Etymology of "<beta>PLANTABETA</beta>" and "<beta>BETA</beta>"
 
 Betamax was a piece of hardware (similar to a VHS tape or cassete) which was used by climbers to record video of themselves climbing a rock. Climbers would share their Betamax tapes to give their friends information about how to climb a piece of rock.  
 

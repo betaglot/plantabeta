@@ -1,6 +1,6 @@
 # 🟠 <motor>BagDeadlift</motor>
 
-![MOTONIkon](/BetaIkon/MOTONs_Ikon.png)
+![MOTONIkon](/Ikon/MOTONs_Ikon.png)
 
 ## 🕸 BagDeadlift.Skema
 

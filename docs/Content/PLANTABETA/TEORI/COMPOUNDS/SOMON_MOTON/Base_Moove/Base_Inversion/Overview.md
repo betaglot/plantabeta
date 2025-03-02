@@ -1,6 +1,6 @@
 # 🟠 <motor>FootInversion</motor>
 
-![MOTONIkon](/BetaIkon/MOTONs_Ikon.png)
+![MOTONIkon](/Ikon/MOTONs_Ikon.png)
 
 ## 🕸 FootInversion.Skema
 

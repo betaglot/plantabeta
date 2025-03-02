@@ -2,7 +2,7 @@
 
 Aliases: SpadeSlam, SpadeThrow, SpadeChop
 
-![MOTONIkon](/BetaIkon/MOTONs_Ikon.png)E
+![MOTONIkon](/Ikon/MOTONs_Ikon.png)E
 
 ## 🕸 SpadeSpike.Skema
 

@@ -2,15 +2,15 @@
 
 > This Reference section provides you with details about the functions, modules, and objects included in PlantaBeta, describing their Attributes and usage.
 
-## [![Beta](/BetaIkon/Beta_Ikon.png)](/reference/Beta/WhatBeta)
+## [![Beta](/Ikon/Beta_Ikon.png)](/reference/Beta/WhatBeta)
 
-## [![Ekos](/BetaIkon/Ekos_Ikon.png)](/reference/Ekos/EkosOverview)
+## [![Ekos](/Ikon/Ekos_Ikon.png)](/reference/Ekos/EkosOverview)
 
-## [![MOTONs](/BetaIkon/Motor_Ikon.png)](/reference/MOTONs/MOTONsOverview)
+## [![MOTONs](/Ikon/Motor_Ikon.png)](/reference/MOTONs/MOTONsOverview)
 
-## [![Via](/BetaIkon/Via_Ikon.png)](/reference/Via/ViaOverview)
+## [![Via](/Ikon/Via_Ikon.png)](/reference/Via/ViaOverview)
 
-## [![Anima](/BetaIkon/Anima_Ikon.png)](/reference/Anima/AnimaOverview)
+## [![Anima](/Ikon/Anima_Ikon.png)](/reference/Anima/AnimaOverview)
 
 ## [Lexikon](/reference/Lexikon)
 
