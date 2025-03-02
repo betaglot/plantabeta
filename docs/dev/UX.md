@@ -46,8 +46,6 @@ Search Box
 
 #### ThumbnailIndex
 
-![ThumbnailIndex](/dev/ThumbnailIndex.jpg)
-
 #### TableOfContents
 
 Sidebar

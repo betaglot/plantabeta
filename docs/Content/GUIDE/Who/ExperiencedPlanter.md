@@ -33,8 +33,6 @@ Company Highballer
 
 ## What will be your planting Legacy?
 
-![TheBear_Legacy](/guide/TheBear_Legacy.png)
-
 The Bear, Season 3, Episode 7 "Legacy"
 
 > [Marcus] What’s, uh, “legerdemain”?

@@ -1,10 +1,6 @@
----
-aside: False
----
 
 # 🔷<beta>Put(<ekos>Plant</ekos>)</beta>
 
-![PLANTABETA_Logo](/PLANTABETA_Logo.png)
 <!-- 
 ## 🔷<beta>Put(<ekos>Tree</ekos>)</beta>, 🔷<beta>Put(<ekos>Shrub</ekos>)</beta>, 🔷<beta>Put(<ekos>Flower</ekos>)</beta>, 🔷<beta>Put(<ekos>Moss</ekos>)</beta>, 🔷<beta>Put(<ekos>Bulb</ekos>)</beta>, 🔷<beta>Put(<ekos>Root</ekos>)</beta>, 🔷<beta>Put(<ekos>Meadow</ekos>)</beta> -->
 

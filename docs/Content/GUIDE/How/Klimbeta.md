@@ -1,8 +1,6 @@
 
 # KLIMBETA
 
-<!-- ![KLIMBETA_PlantaBeta](/KLIMBETA_PlantaBeta.png) -->
-
 ## Story of Young People Who Want to Combat Climate Change
 
 ### Define Climate Change

@@ -7,15 +7,11 @@ sidebar: false
 
 # What is Tree Planting?
 
-![InstaPhoto033](/InstaPhoto033.jpg)
-
 Every year millions of tree Neons are planted across Canada. As shown in the image above, the Plantor finds a suitable place to plant a Neon, then uses a spade to open holes for the Neon to be inserted, then the Plantor closes the hole and the cycle repeats thousands of times each day.  
 
 Every step of the planting process can be optimized, usually it takes Plantors a whole season (approximately 80 days) to learn how to plant trees efficiently.  
 
 For a great look at what tree planting is like, watch this documentary [One Million Trees](https://www.youtube.com/watch?v=ep6sWECi3BE)
-
-![OneMillionTrees](/OneMillionTrees.png)
 
 ::: details Click Here to view links to recent media articles about Tree Planting
 
@@ -56,37 +52,23 @@ In some very difficult Ecos 500 trees is a good day.
 
 The current record is held by [Antoine Moses](https://www.instagram.com/antomosplant/)
 
-![Guiness](/Guiness.png)
-
 :::
 <!--  -->
 ::: details How big are the trees?
 
 Neon
 
-![InstaPhoto025](/InstaPhoto025.jpeg)
-
 ---
-
-![InstaPhoto011](/InstaPhoto011.jpg)
 
 :::
 <!--  -->
 ::: details What does a typical planting Eko look like?
 
-![InstaPhoto015](/InstaPhoto015.jpg)
+---
 
 ---
 
-![InstaPhoto031](/InstaPhoto031.jpg)
-
 ---
-
-![InstaPhoto033](/InstaPhoto033.jpg)
-
----
-
-![InstaPhoto034](/InstaPhoto034.jpg)
 
 :::
 <!--  -->
@@ -96,15 +78,9 @@ The three main types of Neons which are planted are:
 
 ## Pine
 
-![InstaPhoto011](/InstaPhoto011.jpg)
-
 Spruce
 
-![InstaPhoto059](/InstaPhoto059.jpg)
-
 Fir
-
-![InstaPhoto071](/InstaPhoto071.jpg)
 
 :::
 <!--  -->

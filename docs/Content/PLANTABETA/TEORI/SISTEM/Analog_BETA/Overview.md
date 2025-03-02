@@ -1,7 +1,5 @@
 # BETANALOGY
 
-![BetaSports_Tree](/Beta/BetaSports_Tree.png)
-
 ## How much of their SKHEMA is overlapping? SYNSKHEMA shared schema
 
 ## Systematic analogy

@@ -2,9 +2,6 @@
 
 The most important constraint for Instruments is the space it takes in the Truck.
 
-![TreePlantor](/TreePlantor001.jpg)
-![TreePlantor](/TreePlantor.jpg)
-
 ## 🔷<beta>TrailerDev</beta>
 
 A trailer loaded with everthing that PLANTERS need for their season. For plantors only, not for company logistics like water purification or showers or kitchen.
@@ -54,7 +51,6 @@ Not a place where many duplicates items are stored
 - Wooden staple for Marka
 - Marka is a source of income for PlantaBeta
 - Paper Trombone to lock Marka like a Bookmark
-    - ![BookMark](/dev/Bookmark.jpg)
 - Marka ring
 - Paper
 - Conformable
@@ -147,8 +143,6 @@ Bags detach with gap junction
 Swap out Baskets for Tray or even just Belt for large trees or something large.
 
 ::: details Images
-
-![BagFrame_001](/dev/BagFrame_001.jpg)
 
 :::
 

@@ -438,8 +438,6 @@ IKEA Beta
 
 ## 🔷 Rugby (RubgyBeta)
 
-![RugbyGIF](/Via/RugbyGIF.gif)
-
 - Gifs of Plays
     - <https://rugbyslate.com/attacking/attacking-against-a-blitz-defence/>
 

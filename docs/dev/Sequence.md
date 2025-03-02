@@ -76,8 +76,6 @@ Control flow is the codified version of [Decision Making](/encyclopedia/Anima/De
 
 ## GIF
 
-![RugbyGIF](/Via/RugbyGIF.gif)
-
 Rugby Gifs
 
 <https://rugbyslate.com/attacking/attacking-against-a-blitz-defence/>

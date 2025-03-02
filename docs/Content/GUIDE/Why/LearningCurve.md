@@ -1,7 +1,6 @@
 
 # To Steepen Learning Curve
 
-![LearningCurve](/guide/LearningCurve.png)
 ::: warning Trial and Error
 
 The difference between intelligence and wisdom is that an intelligent person knows all the theory and practices to solve a problem, but a wise person knows which theories and practices are best suited solve the particular problem.

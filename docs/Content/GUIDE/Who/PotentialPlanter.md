@@ -20,8 +20,6 @@ What is tree planting like?
 
 ### Rugby
 
-![AllBlacksRugby](/guide/AllBlacksRugby.jpg)
-
 - Resilience
 - Leg Strength
 - DynamicMOTONs

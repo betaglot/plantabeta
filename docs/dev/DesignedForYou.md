@@ -16,8 +16,6 @@ sidebar: false
 
 ## Summary of your experience
 
-![InsideOut2_AllEmotions](/InsideOut2_AllEmotions.jpg)
-
 ### Fear 😨
 
 - *What is going on?*
