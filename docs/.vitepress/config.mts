@@ -29,9 +29,9 @@ export default defineConfig({
     nav: nav(),
 
     sidebar: {
-      'content/guide/': sidebarGuide(),
-      'content/example/': sidebarExamples(),
-      'content/content/tutorial/': sidebarTutorial(),
+      '/guide/': sidebarGuide(),
+      '/example/': sidebarExamples(),
+      '//tutorial/': sidebarTutorial(),
       'PlantaBeta/Teori/': sidebarTEORI(),
       'PlantaBeta/Praktik/': sidebarPRAKTIK(),
       '/dev/': sidebarDevelopment(),
@@ -44,18 +44,18 @@ function nav() {
   return [
     {
       text: 'Guide',
-      link: 'content/guide/GuideOverview',
-      activeMatch: '/content/guide/'
+      link: 'guide/GuideOverview',
+      activeMatch: '/guide/'
     },
     {
       text: 'Examples',
-      link: 'content/example/Overview',
-      activeMatch: '/content/example/'
+      link: '/example/Overview',
+      activeMatch: '//example/'
     },
     {
       text: 'Tutorial',
-      link: 'content/tutorial/TutorialOverview',
-      activeMatch: '/content/tutorial/'
+      link: 'tutorial/TutorialOverview',
+      activeMatch: '/tutorial/'
     },
     {
       text: '🔷TEORI',
@@ -127,36 +127,36 @@ function sidebarGuide() {
       text: 'Introduction',
       collapsed: false,
       items: [
-        { text: 'What is Tree Planting?', link: 'content/GUIDE/What/WhatTreePlanting' },
-        { text: 'What is 🔷<beta>PLANTABETA</beta>?', link: 'content/GUIDE/What/WhatPLANTABETA' },
+        { text: 'What is Tree Planting?', link: '/GUIDE/What/WhatTreePlanting' },
+        { text: 'What is 🔷<beta>PLANTABETA</beta>?', link: '/GUIDE/What/WhatPLANTABETA' },
       ]
     },
     {
       text: 'Purpose', collapsed: false, items: [
-        { text: '🔥<ekos>To Support Ecosystems</ekos>', link: 'content/GUIDE/Why/SupportEcosystem' },
-        { text: '🟠<motor>To Reduce Injury</motor>', link: 'content/GUIDE/Why/Injury' },
-        { text: '🔻<via>To Increase Productivity</via>', link: 'content/GUIDE/Why/Productivity' },
-        { text: '🔷<beta>To Improve Communication</beta>', link: 'content/GUIDE/Why/Communication' },
-        { text: '💜<anima>To Steepen Learning Curve</anima>', link: 'content/GUIDE/Why/LearningCurve' },
-        { text: '💲To Increase Profit', link: 'content/GUIDE/Why/Company' }
+        { text: '🔥<ekos>To Support Ecosystems</ekos>', link: '/GUIDE/Why/SupportEcosystem' },
+        { text: '🟠<motor>To Reduce Injury</motor>', link: '/GUIDE/Why/Injury' },
+        { text: '🔻<via>To Increase Productivity</via>', link: '/GUIDE/Why/Productivity' },
+        { text: '🔷<beta>To Improve Communication</beta>', link: '/GUIDE/Why/Communication' },
+        { text: '💜<anima>To Steepen Learning Curve</anima>', link: '/GUIDE/Why/LearningCurve' },
+        { text: '💲To Increase Profit', link: '/GUIDE/Why/Company' }
       ]
     },
     {
       text: 'Plantor Guide', collapsed: false, items: [
-        { text: 'Potential Plantor', link: 'content/GUIDE/Who/PotentialPlantor' },
-        { text: 'Novice Plantor', link: 'content/GUIDE/Who/NovicePlantor' },
-        { text: 'Experienced Plantor', link: 'content/GUIDE/Who/ExperiencedPlantor' },
-        { text: 'Plantor Supervisor', link: 'content/GUIDE/Who/PlantorSupervisor' },
-        { text: 'Plantor Instructor', link: 'content/GUIDE/Who/PlantorInstructor' }
+        { text: 'Potential Plantor', link: '/GUIDE/Who/PotentialPlantor' },
+        { text: 'Novice Plantor', link: '/GUIDE/Who/NovicePlantor' },
+        { text: 'Experienced Plantor', link: '/GUIDE/Who/ExperiencedPlantor' },
+        { text: 'Plantor Supervisor', link: '/GUIDE/Who/PlantorSupervisor' },
+        { text: 'Plantor Instructor', link: '/GUIDE/Who/PlantorInstructor' }
       ]
     },
     {
       text: 'Gear Guide', collapsed: false, items: [
-        { text: 'What Gear to bring?', link: 'content/GUIDE/What/WhatGear' },
-        { text: 'Gear List', link: 'content/GUIDE/What/GearList' }
+        { text: 'What Gear to bring?', link: '/GUIDE/What/WhatGear' },
+        { text: 'Gear List', link: '/GUIDE/What/GearList' }
       ]
     },
-    { text: 'Go to Examples', link: 'content/example/Overview' },
+    { text: 'Go to Examples', link: '/example/Overview' },
   ]
 }
 // #Teori
@@ -277,21 +277,21 @@ function sidebarPRAKTIK() {
 // #Tutorial
 function sidebarTutorial() {
   return [
-    { text: 'Tutorial Overview', link: 'content/tutorial/TutorialOverview' },
-    { text: 'Lesson Plans', link: 'content/tutorial/LessonPlans' },
-    { text: 'Video Tutorials Overview', link: 'content/tutorial/VideoTutorialsOverview' },
-    { text: 'Labelling', link: 'content/tutorial/Test_LabelDiagram' },
-    { text: 'Matching', link: 'content/tutorial/Test_Matching' },
-    { text: 'MultipleChoice', link: 'content/tutorial/Test_MultipleChoice' },
-    { text: 'Sequencing', link: 'content/tutorial/Test_Sequencing' },
+    { text: 'Tutorial Overview', link: '/tutorial/TutorialOverview' },
+    { text: 'Lesson Plans', link: '/tutorial/LessonPlans' },
+    { text: 'Video Tutorials Overview', link: '/tutorial/VideoTutorialsOverview' },
+    { text: 'Labelling', link: '/tutorial/Test_LabelDiagram' },
+    { text: 'Matching', link: '/tutorial/Test_Matching' },
+    { text: 'MultipleChoice', link: '/tutorial/Test_MultipleChoice' },
+    { text: 'Sequencing', link: '/tutorial/Test_Sequencing' },
     { text: 'Go to Reference', link: 'PlantaBeta/Teori/Elements/Overview' },
   ]
 }
 // #Example
 function sidebarExamples() {
   return [
-    { text: 'Examples Overview', link: 'content/example/Overview' },
-    { text: 'Go to Tutorial', link: 'content/tutorial/TutorialOverview' },
+    { text: 'Examples Overview', link: '/example/Overview' },
+    { text: 'Go to Tutorial', link: '/tutorial/TutorialOverview' },
   ]
 }
 
