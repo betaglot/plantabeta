@@ -6,7 +6,6 @@ export default defineConfig({
   lang: 'en-US',
   title: 'PLANTABETA',
   description: '',
-  base: '/plantabeta/',
   lastUpdated: true,
   ignoreDeadLinks: true,
   appearance: 'dark',
