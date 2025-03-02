@@ -59,12 +59,12 @@ function nav() {
     },
     {
       text: '🔷TEORI',
-      link: '/content/PlantaBeta/Teori/TEORIoverview',
+      link: '/content/PlantaBeta/Teori/TeoriOverview',
       activeMatch: '/content/PlantaBeta/Teori/'
     },
     {
       text: '🔷PRAKTIK',
-      link: '/content/PlantaBeta/Praktik/PRAKTIKoverview',
+      link: '/content/PlantaBeta/Praktik/PraktikOverview',
       activeMatch: '/content/PlantaBeta/Praktik/'
     },
     {
