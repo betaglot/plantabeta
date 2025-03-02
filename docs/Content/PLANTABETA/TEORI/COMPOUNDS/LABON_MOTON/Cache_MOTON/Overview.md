@@ -1,7 +1,5 @@
 # 🟠 <motor>CacheMOTON</motor>
 
-![CacheOverview](/MOTON/CacheTopview.png)
-
 ## What is a Cache?
 
 ## Cache Anatomy

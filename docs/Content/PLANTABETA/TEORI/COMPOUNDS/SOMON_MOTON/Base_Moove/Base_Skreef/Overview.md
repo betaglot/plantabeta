@@ -1,6 +1,6 @@
 # 🟠 <motor>BaseSkreef</motor>
 
-![MOTONIkon](/Ikon/MOTONs_Ikon.png)
+![MOTONIkon](/Ikon/Motor_Ikon.png)
 
 ## 🕸 BaseSkreef.Skema
 

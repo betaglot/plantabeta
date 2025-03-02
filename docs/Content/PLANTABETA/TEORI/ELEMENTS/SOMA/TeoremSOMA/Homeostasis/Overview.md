@@ -1,6 +1,6 @@
 # 👷‍♀️<soma>Homeostasis</soma>
 
-![Anima_Ikon](/Anima/Anima_Ikon.png)
+![Anima_Ikon](/Ikon/Anima_Ikon.png)
 
 ---
 

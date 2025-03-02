@@ -4,7 +4,7 @@
 
 <beta>Beta</beta> emerges from the interactions between <ekos>Eko</ekos>, <motor>MOTON</motor>, <via>Via</via> and <anima>Anima</anima>.
 
-![<beta>Beta</beta>Icon](/Beta/Beta_Icon.png)
+![<beta>Beta</beta>Icon](/Ikon/Beta_Ikon.png)
 
 ## <beta>Beta Symbol</beta> 🔷
 

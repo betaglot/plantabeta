@@ -4,7 +4,7 @@ Aliases: HoleClose
 
 > to close a container or opening - [Cambridge](https://dictionary.cambridge.org/dictionary/english/seal)
 
-![MOTONIkon](/Ikon/MOTONs_Ikon.png)
+![MOTONIkon](/Ikon/Motor_Ikon.png)
 
 ## 🕸 HoleSeal.Skema
 

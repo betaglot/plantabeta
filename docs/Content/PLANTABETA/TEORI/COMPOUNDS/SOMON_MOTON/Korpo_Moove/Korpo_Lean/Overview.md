@@ -8,7 +8,7 @@
 
 ## 🟠 BodyLean Solution
 
-![MOTONIkon](/Ikon/MOTONs_Ikon.png)
+![MOTONIkon](/Ikon/Motor_Ikon.png)
 
 ## 🕸 BodyLean.Skema
 

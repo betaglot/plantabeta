@@ -2,8 +2,6 @@
 
 > Beta across the world
 
-![BetaSports_Tree](/Beta/BetaSports_Tree.png)
-
 ## Transfer your Beta from other Sports into Planting
 
 Beta can give your life meaning if you apply it to planting

@@ -1,6 +1,6 @@
 # 💭 <anima>Playlists</anima>
 
-![Anima_Ikon](/Anima/Anima_Ikon.png)
+![Anima_Ikon](/Ikon/Anima_Ikon.png)
 
  Description of how this <anima>AnimaElement </anima>relates to a particular [<motor>MOTONElement</motor>](/encyclopedia/MOTON/MOTONOverview).
 

@@ -2,7 +2,7 @@
 
 ## MicrositeSelection
 
-![MOTONIkon](/Ikon/MOTONs_Ikon.png)
+![MOTONIkon](/Ikon/Motor_Ikon.png)
 
 ## 🕸 SpadeTest.Skema
 

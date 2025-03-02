@@ -2,7 +2,7 @@
 
 Aliases: HoleOpen, Open a Hole
 
-![MOTONIkon](/Ikon/MOTONs_Ikon.png)
+![MOTONIkon](/Ikon/Motor_Ikon.png)
 
 ## 🕸 SiteOpen.Skema
 

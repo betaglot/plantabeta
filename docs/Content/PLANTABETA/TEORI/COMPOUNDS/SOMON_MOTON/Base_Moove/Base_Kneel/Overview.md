@@ -1,6 +1,6 @@
 # 🟠 <motor>Kneel</motor>
 
-![MOTONIkon](/Ikon/MOTONs_Ikon.png)
+![MOTONIkon](/Ikon/Motor_Ikon.png)
 
 ## 🕸 Kneel.Skema
 

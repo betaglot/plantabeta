@@ -1,7 +1,5 @@
 # 🔷<beta>BetaTranscriber</beta>
 
-![BetaInCaptions](/Beta/BetaInCaptions.png)
-
 ---
 
 <!-- =================================================== -->

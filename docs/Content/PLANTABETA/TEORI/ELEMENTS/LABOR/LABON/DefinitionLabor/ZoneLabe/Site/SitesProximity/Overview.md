@@ -51,11 +51,6 @@ Center is hole
 
 Coverin spandrels to show the mortar between ideal tree spacing spgeres
 
-![PentagonPartitions](/Via/PentagonPartitions.png)
-![SquarePartitions](/Via/SquarePartitions.png)
-![Pentomino](/Via/Pentomino.png)
-![PeelStationFloor](/art/PeelStationFloor.jpg)
-
 ---
 
 <!-- =================================================== -->

@@ -2,9 +2,6 @@
 
 > there are dozens of events happening each second
 
-![Dashboard](/dev/Dashboard.png)
-
--
 - When a particular state is present
 - State Dependent Memory Recall
 - EventListener

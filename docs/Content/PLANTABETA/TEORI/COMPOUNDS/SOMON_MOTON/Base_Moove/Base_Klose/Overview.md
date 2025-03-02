@@ -2,7 +2,7 @@
 
 Aliases: FootClose
 
-![MOTONIkon](/Ikon/MOTONs_Ikon.png)
+![MOTONIkon](/Ikon/Motor_Ikon.png)
 
 ## 🕸 BootKlose.Skema
 

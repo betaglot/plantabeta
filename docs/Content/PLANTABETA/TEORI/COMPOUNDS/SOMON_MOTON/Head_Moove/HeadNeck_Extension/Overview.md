@@ -2,7 +2,7 @@
 
 > Looking up
 
-![MOTONIkon](/Ikon/MOTONs_Ikon.png)
+![MOTONIkon](/Ikon/Motor_Ikon.png)
 
 ## 🕸 NeckExtension.Skema
 

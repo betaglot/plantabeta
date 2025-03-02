@@ -34,8 +34,6 @@ Makes the Voronoi Cells more
 
 - Decompose a plane polygon into Triangles
 
-[TriangleCover](/encyclopedia/Via/AreaCover/TriangleCover)
-
 ## 🕸 Point.Skema
 
 ### Related 🟩<ekos>Eko</ekos>
@@ -65,8 +63,6 @@ Makes the Voronoi Cells more
 
 - Landmarking is like Markaging, but only in your mind. Marka represents ViaPoints.
 - <https://gwlucastrig.github.io/TinfourDocs/DelaunayIntro/index.html>
-
-![DelaunayOptimality](/Via/Voronoi/DelaunayOptimality.png)
 
 ## Target
 

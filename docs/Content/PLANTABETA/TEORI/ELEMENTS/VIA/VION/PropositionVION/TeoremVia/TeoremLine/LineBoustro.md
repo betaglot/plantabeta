@@ -2,8 +2,6 @@
 
 > BoustroLine is composed of ParaLine
 
-![Boustrophedon](/Boustrophedon.jpg)
-
 [Boustrophedon](https://en.wikipedia.org/wiki/Boustrophedon) is from Greek, literally means 'as an ox turns in plowing'.
 
 > The boustrophedon cellular decomposition is a new type of decomposition where the robot's free space is broken down into cells such that the robot can cover each cell with back-and-forth boustrophedic motions. Once a robot covers each cell, it has covered the entire free region of an environment.

@@ -1,6 +1,6 @@
 # 🟠 <motor>Mano_Skreef</motor>
 
-![MOTONIkon](/Ikon/MOTONs_Ikon.png)
+![MOTONIkon](/Ikon/Motor_Ikon.png)
 
 ## 🕸 Mano_Skreef.Skema
 

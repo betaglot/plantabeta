@@ -1,6 +1,6 @@
 # 🟠 <motor>DendroLoad</motor>
 
-![MOTONIkon](/Ikon/MOTONs_Ikon.png)
+![MOTONIkon](/Ikon/Motor_Ikon.png)
 
 ## 🕸 DendroLoad.Skema
 
