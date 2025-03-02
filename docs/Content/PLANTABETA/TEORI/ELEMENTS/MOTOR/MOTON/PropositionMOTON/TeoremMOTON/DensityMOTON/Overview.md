@@ -1,6 +1,6 @@
-# 🟠<motor>MooveDensity</motor>
+# 🟠<motor>MOTONDensity</motor>
 
-## 🕸 MooveDensity.Skema
+## 🕸 MOTONDensity.Skema
 
 ### Related 🟩<ekos>Eko</ekos>
 

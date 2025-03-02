@@ -73,12 +73,12 @@ SemiPlot
             - Which Site can be Extracted?
             - 1NeoSite, 2NeoSite, 3NeoSite
             - 1SiteExtract, 2SiteExtract, 3SiteExtract
-- StartMoove
+- StartMOTON
     - StartPoint
         - Where along the Circumference did you enter the Plot?
     - Remember the start tree in your plot, pick one which is distinctive
     - Use Marka for StartSite
-- FinishMoove
+- FinishMOTON
 - How to scan?
 - UnplantableZone
 - NeoSite count relative to NeonSite

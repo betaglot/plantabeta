@@ -1,6 +1,6 @@
-# 🟠 <motor>BundleMoove</motor>
+# 🟠 <motor>BundleMOTON</motor>
 
-## 🕸 BundleMoove.Skema
+## 🕸 BundleMOTON.Skema
 
 ### Related 🟩<ekos>Eko</ekos>
 
@@ -32,9 +32,9 @@
     - Wrap up excess trees
 - BundleTuck: Roll bundles in to bags during BagIn
 
-- "Moove.InstrumentMoove.BundleMoove.BundleRoll"
-- "Moove.InstrumentMoove.BundleMoove.BundleUnwrap"
-- "Moove.InstrumentMoove.BundleMoove.MooveError.WrapperLitter"
-- "Moove.InstrumentMoove.BundleMoove.Overview"
+- "MOTON.InstrumentMOTON.BundleMOTON.BundleRoll"
+- "MOTON.InstrumentMOTON.BundleMOTON.BundleUnwrap"
+- "MOTON.InstrumentMOTON.BundleMOTON.MOTONError.WrapperLitter"
+- "MOTON.InstrumentMOTON.BundleMOTON.Overview"
 
 :::

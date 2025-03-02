@@ -1,6 +1,6 @@
-# 🟠 <motor>LaceMoove</motor>
+# 🟠 <motor>LaceMOTON</motor>
 
-## LaceMoove.Anatomy
+## LaceMOTON.Anatomy
 
 - End
 - Loop
@@ -15,7 +15,7 @@
 
 - LacePull
 
-## 🕸 LaceMoove.Skema
+## 🕸 LaceMOTON.Skema
 
 ### Related 🟩<ekos>Eko</ekos>
 

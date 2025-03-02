@@ -2,7 +2,7 @@
 
 Aliases: SpadeSlam, SpadeThrow, SpadeChop
 
-![MooveIkon](/BetaIkon/Mooves_Ikon.png)E
+![MOTONIkon](/BetaIkon/MOTONs_Ikon.png)E
 
 ## 🕸 SpadeSpike.Skema
 
@@ -68,7 +68,7 @@ Aliases: SpadeSlam, SpadeThrow, SpadeChop
     - SpadeAcutePropel
     - SpadeObtusePropel
     - SpadePerpendicularPropel
-- Moove error
+- MOTON error
     - Sequence error
     - Body Bend before SpadeSpike
     - Use body Bend to increase acceleration time to maximize velocity on impact therefore maximizing force on impact
@@ -83,6 +83,6 @@ Aliases: SpadeSlam, SpadeThrow, SpadeChop
 
 <h2>PageTags</h2>
 
-- "Moove.InstrumentMoove.SpadeMoove.SpadeSpike"
+- "MOTON.InstrumentMOTON.SpadeMOTON.SpadeSpike"
 
 :::

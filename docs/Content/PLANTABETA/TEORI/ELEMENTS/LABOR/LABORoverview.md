@@ -39,8 +39,8 @@ Aliases: Work, Job, Task
     - Choose the most Efficient Via
     - Path of least resistance
     - Labor defines the Boundary of a Block
-- 🟠<motor>Moove</motor>.Labor
-    - Choose the most Efficient Moove
+- 🟠<motor>MOTON</motor>.Labor
+    - Choose the most Efficient MOTON
     - Work as a unit of energy
 - 💜<anima>Anima</anima>.Labor
     - Labor can influence Motivate

@@ -1,6 +1,6 @@
 # 🔻<via>PlanTimeConstraint</via>
 
-After a BlockMoove you are given a piece and you only have 70 minutes before DayFinishTime
+After a BlockMOTON you are given a piece and you only have 70 minutes before DayFinishTime
 
 - Prepare for Tomorrow
 

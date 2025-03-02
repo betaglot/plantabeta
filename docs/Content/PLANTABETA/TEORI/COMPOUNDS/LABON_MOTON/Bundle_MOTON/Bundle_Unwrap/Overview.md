@@ -29,7 +29,7 @@
 
 - FeelingForKontakt to find WrapperStart
 - PinchSlideGrip
-- 2HandMoove
+- 2HandMOTON
     - (PinchMano + ScoopMano)
 
 :::

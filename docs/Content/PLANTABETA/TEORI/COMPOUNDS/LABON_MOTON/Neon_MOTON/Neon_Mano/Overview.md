@@ -1,6 +1,6 @@
 # 🟠 <motor>NeonMano</motor>
 
-![MooveIkon](/BetaIkon/Mooves_Ikon.png)
+![MOTONIkon](/BetaIkon/MOTONs_Ikon.png)
 
 ## NeonMano Purpose
 
@@ -72,7 +72,7 @@
         - No roots exposed
             - ShallowTree
 - DendroFlip
-- BlindMoove
+- BlindMOTON
 - RizoMano
 - TreeLoad
     - FeelingForHold

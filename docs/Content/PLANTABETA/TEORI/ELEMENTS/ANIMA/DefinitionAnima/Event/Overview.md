@@ -1,4 +1,4 @@
-# 🕸 <anima>Event</anima>
+# 💭 <anima>Event</anima>
 
 > there are dozens of events happening each second
 
@@ -36,7 +36,7 @@ Event from a first person perspective
 - onPieceCompletion()
 - onBlockCompletion()
 
-## MooveEvent
+## MOTONEvent
 
 ### InstrumentEvent
 
@@ -61,7 +61,7 @@ Event from a first person perspective
 - Anticipate
 - Counter
 - Predict
-- Maintain a Moove while waiting for an EcoEvent
+- Maintain a MOTON while waiting for an EcoEvent
 
 <h2>PageTags</h2>
 

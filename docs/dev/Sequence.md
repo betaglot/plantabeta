@@ -3,12 +3,12 @@
 The Sequences of each BetaTipos
 
 🔷: Sequence is composed of Moments
-🟠: Frase is composed of Mooves
+🟠: Frase is composed of MOTONs
 🟩: Eko is composed of Ekons
 🔻: Via is composed of Viums
 💜: Processes composed of Experiences
 
-- Analogy(Sequence, {Via: Via, Moove: Frase, Eko: Eko, Anima: Process, Beta: Sequence})
+- Analogy(Sequence, {Via: Via, MOTON: Frase, Eko: Eko, Anima: Process, Beta: Sequence})
 
 ## Sinkron (Noun)
 
@@ -72,7 +72,7 @@ Control flow is the codified version of [Decision Making](/encyclopedia/Anima/De
 
 ### Else
 
-- Alternative Moove
+- Alternative MOTON
 
 ## GIF
 

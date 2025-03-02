@@ -1,8 +1,8 @@
-# 🟠 <motor>ButtonMoove</motor>
+# 🟠 <motor>ButtonMOTON</motor>
 
-![MooveIkon](/BetaIkon/Mooves_Ikon.png)
+![MOTONIkon](/BetaIkon/MOTONs_Ikon.png)
 
-## 🕸 ButtonMoove.Skema
+## 🕸 ButtonMOTON.Skema
 
 ### Related 🟩<ekos>Eko</ekos>
 
@@ -33,5 +33,5 @@
 
 <h2>PageTags</h2>
 
-- "Moove.ClothingMoove.Button"
+- "MOTON.ClothingMOTON.Button"
 :::

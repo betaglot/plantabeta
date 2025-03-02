@@ -15,7 +15,7 @@
 
 - Plantors which don't live in tents, ie not in a bush camp.
 
-## 🟠 <motor>Moove Instruments</motor>
+## 🟠 <motor>MOTON Instruments</motor>
 
 Instruments you need to perform plantor motos.
 
@@ -37,17 +37,17 @@ You will not regret bringing duplicates of clothing. If you have the space then 
 
 :::
 
-## 🕸 <anima>Anima Instruments</anima>
+## 💭 <anima>Anima Instruments</anima>
 
 Instruments you need for your brain.
 
-### 🕸 <anima>Notebook</anima>
+### 💭 <anima>Notebook</anima>
 
 - Record your tree count
 - Record species mix
 - Draw a map of your piece
 
-### 🕸 <anima>Phone</anima>
+### 💭 <anima>Phone</anima>
 
 - Record your tree count
 - Record species mix
@@ -56,7 +56,7 @@ Instruments you need for your brain.
     - Podcasts
     - Audiobook
 
-### 🕸 <anima>Speaker</anima>
+### 💭 <anima>Speaker</anima>
 
 - Use a speaker instead of headphones to be able to hear the Eko. Hear the wind, a tree falling behind you, an animal moving around, another plantor trying to communicate with you.
 

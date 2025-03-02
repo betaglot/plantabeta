@@ -1,6 +1,6 @@
-# 🟠<motor>NeonMoove</motor>
+# 🟠<motor>NeonMOTON</motor>
 
-## 🕸 NeonMoove.Skema
+## 🕸 NeonMOTON.Skema
 
 ### Related 🟩<ekos>Eko</ekos>
 

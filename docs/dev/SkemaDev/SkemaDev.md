@@ -61,7 +61,7 @@ source,relationshipType,target
 ##### SimElement
 
 - isSimAnimaOf
-- isSimMooveOf
+- isSimMOTONOf
 - isSimBetaOf
 - isSimViumOf
 - isSimEkonOf
@@ -70,7 +70,7 @@ source,relationshipType,target
 ##### AnteElement
 
 - isAnteAnimaOf
-- isAnteMooveOf
+- isAnteMOTONOf
 - isAnteBetaOf
 - isAnteViumOf
 - isAnteEkonOf
@@ -79,7 +79,7 @@ source,relationshipType,target
 ##### PostElement
 
 - isPostAnimaOf
-- isPostMooveOf
+- isPostMOTONOf
 - isPostBetaOf
 - isPostViumOf
 - isPostEkonOf
@@ -88,7 +88,7 @@ source,relationshipType,target
 #### GeneralRelation
 
 - relatedToAnima
-- relatedToMoove
+- relatedToMOTON
 - relatedToBeta
 - relatedToVium
 - relatedToEkon

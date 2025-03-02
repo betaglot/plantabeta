@@ -8,7 +8,7 @@
 
 ## Relative Geometry
 
-A Moove that's big for a small athlete, isn't big for a large athlete.
+A MOTON that's big for a small athlete, isn't big for a large athlete.
 
 Jumping a third of your height
 

@@ -1,4 +1,4 @@
-# 🟠<motor>MooveFrekentia</motor>
+# 🟠<motor>MOTONFrekentia</motor>
 
 > the statistics of this Element
 

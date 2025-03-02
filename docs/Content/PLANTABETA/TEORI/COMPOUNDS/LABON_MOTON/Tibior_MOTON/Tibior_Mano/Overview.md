@@ -1,8 +1,8 @@
 # 🟠 <motor>TibiorMano</motor>
 
-![MooveIkon](/BetaIkon/Mooves_Ikon.png)
+![MOTONIkon](/BetaIkon/MOTONs_Ikon.png)
 
-## 🕸 TibiorMoove.Skema
+## 🕸 TibiorMOTON.Skema
 
 ### Related 🟩<ekos>Eko</ekos>
 

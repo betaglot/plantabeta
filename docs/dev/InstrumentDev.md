@@ -84,7 +84,7 @@ Aliases: Cart, Wagon, Trolley, Dolly, WheelBarrow
 ### InstrumentRequirements()
 
 - WalkIn
-- BoxMoove
+- BoxMOTON
 
 ## 🟠<motor>DoruDev</motor>
 
@@ -276,7 +276,7 @@ Padding in the joints
 
 Mail at joints
 
-#### SuitSwap out parts to adapt to Eko and Moove
+#### SuitSwap out parts to adapt to Eko and MOTON
 
 ### 🟠<motor>RadiorDev</motor>
 
@@ -323,7 +323,7 @@ The Blanket which goes on a horse, before and under the saddle.
 
 ### Design Constraint
 
-Holes in fabric snag, which often leads to the hole becoming larger and can potentially prevent Moove.
+Holes in fabric snag, which often leads to the hole becoming larger and can potentially prevent MOTON.
 
 RipStop Fabric
 

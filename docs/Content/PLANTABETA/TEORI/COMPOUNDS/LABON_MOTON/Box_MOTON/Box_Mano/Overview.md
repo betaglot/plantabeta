@@ -1,6 +1,6 @@
 # 🟠 <motor>BoxMano</motor>
 
-![MooveIkon](/BetaIkon/Mooves_Ikon.png)
+![MOTONIkon](/BetaIkon/MOTONs_Ikon.png)
 
 ## 🕸 BoxMano.Skema
 

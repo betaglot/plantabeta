@@ -1,8 +1,8 @@
 # 🔻<via>Density</via>
 
-- 🟠<motor>MooveDensity</motor>
-    - Mooves per Zone
-    - Walking is LowMooveDensity
+- 🟠<motor>MOTONDensity</motor>
+    - MOTONs per Zone
+    - Walking is LowMOTONDensity
 - 🟩<ekos>FloraDensity</ekos>
     - Flora per Zone
 - 🔻<via>SiteDensity</via>

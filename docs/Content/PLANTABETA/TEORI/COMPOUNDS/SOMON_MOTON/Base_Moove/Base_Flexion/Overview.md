@@ -1,6 +1,6 @@
 # 🟠 <motor>LegFlexion</motor>
 
-![MooveIkon](/BetaIkon/Mooves_Ikon.png)
+![MOTONIkon](/BetaIkon/MOTONs_Ikon.png)
 
 ## 🕸 LegFlexion.Skema
 
@@ -33,5 +33,5 @@
 
 <h2>PageTags</h2>
 
-- "Moove.LegMoove.LegFlexion"
+- "MOTON.LegMOTON.LegFlexion"
 :::

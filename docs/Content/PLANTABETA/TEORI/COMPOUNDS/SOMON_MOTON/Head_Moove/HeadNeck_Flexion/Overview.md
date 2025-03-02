@@ -2,7 +2,7 @@
 
 > Looking down
 
-![MooveIkon](/BetaIkon/Mooves_Ikon.png)
+![MOTONIkon](/BetaIkon/MOTONs_Ikon.png)
 
 ## 🕸 NeckFlexion.Skema
 
@@ -35,5 +35,5 @@
 
 <h2>PageTags</h2>
 
-- "Moove.HeadMoove.NeckFlexion"
+- "MOTON.HeadMOTON.NeckFlexion"
 :::

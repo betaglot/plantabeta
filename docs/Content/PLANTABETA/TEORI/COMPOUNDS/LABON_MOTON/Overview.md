@@ -1,4 +1,4 @@
-# 🟠 <motor>InstrumentMoove</motor>
+# 🟠 <motor>InstrumentMOTON</motor>
 
 ## Instrument List
 
@@ -22,6 +22,6 @@
 
 <h2>PageTags</h2>
 
-- "Moove.InstrumentMoove.Overview"
+- "MOTON.InstrumentMOTON.Overview"
 
 :::

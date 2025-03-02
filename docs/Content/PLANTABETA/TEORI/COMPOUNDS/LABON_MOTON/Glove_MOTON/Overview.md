@@ -1,4 +1,4 @@
-# 🟠 <motor>GloveMoove</motor>
+# 🟠 <motor>GloveMOTON</motor>
 
 ## Glove.Anatomy
 
@@ -9,7 +9,7 @@
 
 ## Glove.Attributes
 
-## 🕸 GloveMoove.Skema
+## 🕸 GloveMOTON.Skema
 
 ### Related 🟩<ekos>Eko</ekos>
 
@@ -37,7 +37,7 @@
 ::: details 🛠 <dev>&&&</dev>
 
 - CleanGloves to remove the grit that causes SkinErosion
-- FingerRevertMoove
+- FingerRevertMOTON
     - GloveOff
 - GloveWipe
     - To remove Mud

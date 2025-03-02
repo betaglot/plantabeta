@@ -1,4 +1,4 @@
-# 🕸 <anima>Competition</anima>
+# 💭 <anima>Competition</anima>
 
 ---
 

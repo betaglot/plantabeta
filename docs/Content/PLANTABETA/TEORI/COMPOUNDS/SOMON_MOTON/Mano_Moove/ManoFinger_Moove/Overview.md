@@ -1,4 +1,4 @@
-# 🔷<beta>ManoFinger_Moove</beta>
+# 🔷<beta>ManoFinger_MOTON</beta>
 
 ---
 

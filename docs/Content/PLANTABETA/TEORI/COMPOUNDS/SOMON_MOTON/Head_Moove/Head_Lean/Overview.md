@@ -1,6 +1,6 @@
 # 🟠 <motor>HeadTiltIntoWind</motor>
 
-![MooveIkon](/BetaIkon/Mooves_Ikon.png)
+![MOTONIkon](/BetaIkon/MOTONs_Ikon.png)
 
 ## 🕸 HeadTilt.Skema
 
@@ -33,5 +33,5 @@
 
 <h2>PageTags</h2>
 
-- "Moove.HeadMoove.HeadTiltIntoWind"
+- "MOTON.HeadMOTON.HeadTiltIntoWind"
 :::

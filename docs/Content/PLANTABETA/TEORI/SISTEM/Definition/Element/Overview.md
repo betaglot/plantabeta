@@ -9,7 +9,7 @@ A method can be a Problema
 ## Elements of each BetaType
 
 - 🔷<beta>BETUM</beta>
-- 🟠<motor>MOOVE</motor>
+- 🟠<motor>MOTON</motor>
 - 🔻<via>VIUM</via>
 - 🟩<ekos>EKON</ekos>
 - 💜<anima>Anima</anima>
@@ -34,7 +34,7 @@ Elements combined together become a new element, not a Compound like Chemistry.
 
 ## Collection of Elements
 
-- Moove collections are called Phrases
+- MOTON collections are called Phrases
 - Via collections are called Passages
 - Eko collections are called Set, Sections, (Piece,Pitch), Block
 - Beta collections are called Blocks

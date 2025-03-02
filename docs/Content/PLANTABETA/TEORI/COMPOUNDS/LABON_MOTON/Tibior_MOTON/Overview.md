@@ -1,12 +1,12 @@
-# 🟠 <motor>TibiorMoove</motor>
+# 🟠 <motor>TibiorMOTON</motor>
 
 Aliases: Gaiter, Shin Pad
 
-## TibiorMoove.Anatomy
+## TibiorMOTON.Anatomy
 
-## TibiorMoove.Attributes
+## TibiorMOTON.Attributes
 
-## 🕸 TibiorMoove.Skema
+## 🕸 TibiorMOTON.Skema
 
 ### Related 🟩<ekos>Eko</ekos>
 

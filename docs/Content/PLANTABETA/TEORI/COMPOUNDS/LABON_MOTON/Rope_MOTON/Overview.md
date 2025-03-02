@@ -1,6 +1,6 @@
-# 🟠 <motor>RopeMoove</motor>
+# 🟠 <motor>RopeMOTON</motor>
 
-## 🕸 RopeMoove.Skema
+## 🕸 RopeMOTON.Skema
 
 ### Related 🟩<ekos>Eko</ekos>
 

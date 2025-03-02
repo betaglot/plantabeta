@@ -1,8 +1,8 @@
-# 🟠 <motor>HatMoove</motor>
+# 🟠 <motor>HatMOTON</motor>
 
-![MooveIkon](/BetaIkon/Mooves_Ikon.png)
+![MOTONIkon](/BetaIkon/MOTONs_Ikon.png)
 
-## 🕸 HatMoove.Skema
+## 🕸 HatMOTON.Skema
 
 ### Related 🟩<ekos>Eko</ekos>
 

@@ -1,6 +1,6 @@
 # 🟠 <motor>ArmKurve</motor>
 
-![MooveIkon](/BetaIkon/Mooves_Ikon.png)
+![MOTONIkon](/BetaIkon/MOTONs_Ikon.png)
 
 ## 🕸 ArmKurve.Skema
 
@@ -36,6 +36,6 @@
 
 <h2>PageTags</h2>
 
-- "Moove.ArmMoove.ArmKurve"
+- "MOTON.ArmMOTON.ArmKurve"
 
 :::

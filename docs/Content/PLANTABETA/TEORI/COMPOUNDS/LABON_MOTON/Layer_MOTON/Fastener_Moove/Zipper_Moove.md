@@ -1,6 +1,6 @@
-# 🟠<motor>ZipperMoove</motor>
+# 🟠<motor>ZipperMOTON</motor>
 
-## 🕸 ZipperMoove.Skema
+## 🕸 ZipperMOTON.Skema
 
 ### Related 🟩<ekos>Eko</ekos>
 

@@ -1,6 +1,6 @@
-# 🟠<motor>DoruMoove</motor>
+# 🟠<motor>DoruMOTON</motor>
 
-## 🕸 DoruMoove.Skema
+## 🕸 DoruMOTON.Skema
 
 ### Related 🟩<ekos>Eko</ekos>
 

@@ -1,5 +1,7 @@
 # 🔻 <via>VIA</via>
 
+![<via>Via</via>Icon](/BetaIkon/Via_Ikon.png)
+
 > the way
 
 ## <via>VIA Symbol</via> 🔻
@@ -72,7 +74,7 @@ Not worth the trouble
 
 - Interact
 - Interface
-    - Via is the interface between <ekos>Eko</ekos> and <motor>Moove</motor>
+    - Via is the interface between <ekos>Eko</ekos> and <motor>MOTON</motor>
     - Via is the interface between <ekos>Eko</ekos> and <anima>Anima</anima>
 - Interpolate
     - Most ViaGeometry is interpolated.
@@ -226,7 +228,7 @@ EKOS is decomposed by composing a VIA
 - "VIA.Superposition"
 - PlantingProcess_LandApproach_FlyIn_Helicopter
 - PlantingProcess_LandApproach_WalkIn_WalkInTime
-- PlantingProcess_LandBriefing_FingerPointing_ArmMoove
+- PlantingProcess_LandBriefing_FingerPointing_ArmMOTON
 - PlantingProcess_LandBriefing_PlantorSupervisor_BlockDiagram
 - PlantingProcess_LandBriefing_PlantorSupervisor_LandDiagram
 - PlantingProcess_LandManagement_Error_DeadWalking_Definition_

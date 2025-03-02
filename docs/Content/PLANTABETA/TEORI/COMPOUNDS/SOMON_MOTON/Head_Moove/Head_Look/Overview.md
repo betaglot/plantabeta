@@ -1,6 +1,6 @@
 # 🟠 <motor>FocusLook</motor>
 
-![MooveIkon](/BetaIkon/Mooves_Ikon.png)
+![MOTONIkon](/BetaIkon/MOTONs_Ikon.png)
 
 ## 🕸 FocusLook.Skema
 
@@ -33,6 +33,6 @@
 
 <h2>PageTags</h2>
 
-- "Moove.HeadMoove.FocusLook"
+- "MOTON.HeadMOTON.FocusLook"
 
 :::

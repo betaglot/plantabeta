@@ -84,7 +84,7 @@ Beta is composed of four types, each of which can be represented by an icon:
 
 🟩<ekos>Eko </ekos>: All biologic and geologic objects and processes you interact with while in a planting block. For example: slash, roads, stumps, plants, soil and weather.
 
-🟠<motor>Moove </motor>: The movements and Instruments you use to plant trees. For example: slamming your spade into the ground, ripping Marka, your clothing and your bags.
+🟠<motor>MOTON </motor>: The movements and Instruments you use to plant trees. For example: slamming your spade into the ground, ripping Marka, your clothing and your bags.
 
 🔻<via>Via </via>: The path taken by plantors. For example: your line in, backfilling, area planting, bouncing while partner planting and deadwalking
 
@@ -113,21 +113,21 @@ Beta is composed of four types, each of which can be represented by an icon:
 
 - 🟩<ekos>[SoilSound](/encyclopedia/Eko/Soil/Overview)</ekos>: Muffled Soil has lots more organic matter to absorb sound. Rock is louder than organic matter due to the strength of rock's lattice structure.
 
-- 🟠<motor>[Clothing](/encyclopedia/Moove/ClothingMoove/Overview)</motor>: Don't leave stuff in backbag when wet.
+- 🟠<motor>[Clothing](/encyclopedia/MOTON/ClothingMOTON/Overview)</motor>: Don't leave stuff in backbag when wet.
     - Cotton mold
 
-- 🟠<motor>[BundleMano](/encyclopedia/Moove/InstrumentMoove/Bundle/BundleMano)</motor>: Grab two bundles in each hand, so four bundles at a time when transfering bundles from boxes to bags.
+- 🟠<motor>[BundleMano](/encyclopedia/MOTON/InstrumentMOTON/Bundle/BundleMano)</motor>: Grab two bundles in each hand, so four bundles at a time when transfering bundles from boxes to bags.
 
-- 🟠<motor>[TreeTest.Error](/encyclopedia/Moove/ManoMoove/TreeTest)</motor>: One tree test and what are you looking for?
+- 🟠<motor>[TreeTest.Error](/encyclopedia/MOTON/ManoMOTON/TreeTest)</motor>: One tree test and what are you looking for?
     - 💜<anima>FearOfReplant</anima>
 
-- 🟠<motor>[TreeTest](/encyclopedia/Moove/ManoMoove/TreeTest)</motor>: Single Moove for TreeTest
+- 🟠<motor>[TreeTest](/encyclopedia/MOTON/ManoMOTON/TreeTest)</motor>: Single MOTON for TreeTest
 
-- 🟠<motor>[SpadeImpact](/encyclopedia/Moove/InstrumentMoove/Spade/SpadeImpact)</motor>: Humerus Rotate Out for SpadeImpact to recruit Latissimus Dorsi and prevent overactivation of Pectoralis muscles which causes Shoulder Impingement Injury
+- 🟠<motor>[SpadeImpact](/encyclopedia/MOTON/InstrumentMOTON/Spade/SpadeImpact)</motor>: Humerus Rotate Out for SpadeImpact to recruit Latissimus Dorsi and prevent overactivation of Pectoralis muscles which causes Shoulder Impingement Injury
 
-- 🟠<motor>[SpadeSkreef](/encyclopedia/Moove/InstrumentMoove/Spade/SpadeSkreef)</motor>: SpadeSkreef is faster than BootSkreef or HandSkreef. And it flows into the retrokurve of SpadeImpact.
+- 🟠<motor>[SpadeSkreef](/encyclopedia/MOTON/InstrumentMOTON/Spade/SpadeSkreef)</motor>: SpadeSkreef is faster than BootSkreef or HandSkreef. And it flows into the retrokurve of SpadeImpact.
 
-- 🟠<motor>[TraverseBush](/encyclopedia/Moove/PlantMoove/Overview)</motor>: Spread branches while pushing your way through a bush.
+- 🟠<motor>[TraverseBush](/encyclopedia/MOTON/PlantMOTON/Overview)</motor>: Spread branches while pushing your way through a bush.
     - AlderCluster, MapleCluster
 
 - 🔻<via>[Walkout](/encyclopedia/Via/Path/Overview)</via>: Walkout using the most direct path unless there's a road, skidder trail or clear path near.

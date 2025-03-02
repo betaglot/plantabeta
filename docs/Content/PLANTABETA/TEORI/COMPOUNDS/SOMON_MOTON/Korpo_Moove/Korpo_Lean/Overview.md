@@ -8,7 +8,7 @@
 
 ## 🟠 BodyLean Solution
 
-![MooveIkon](/BetaIkon/Mooves_Ikon.png)
+![MOTONIkon](/BetaIkon/MOTONs_Ikon.png)
 
 ## 🕸 BodyLean.Skema
 
@@ -50,6 +50,6 @@
 
 <h2>PageTags</h2>
 
-- "Moove.BodyMoove.BodyLean"
+- "MOTON.BodyMOTON.BodyLean"
 
 :::

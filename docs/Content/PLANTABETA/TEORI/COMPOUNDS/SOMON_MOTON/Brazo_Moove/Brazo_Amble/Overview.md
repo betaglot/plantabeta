@@ -4,7 +4,7 @@ Aliases: ArmWalk
 
 > Using your Arms like as if you were a quadruped
 
-![MooveIkon](/BetaIkon/Mooves_Ikon.png)
+![MOTONIkon](/BetaIkon/MOTONs_Ikon.png)
 
 ## 🕸 ArmAmble.Skema
 
@@ -38,5 +38,5 @@ Aliases: ArmWalk
 
 <h2>PageTags</h2>
 
-- "Moove.ArmMoove.ArmWalk"
+- "MOTON.ArmMOTON.ArmWalk"
 :::

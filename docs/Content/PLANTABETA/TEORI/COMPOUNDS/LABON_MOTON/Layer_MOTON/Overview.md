@@ -1,8 +1,8 @@
-# 🟠 <motor>ClothingMoove</motor>
+# 🟠 <motor>ClothingMOTON</motor>
 
 ## Textile.Attributes
 
-## 🕸 TextileMoove.Skema
+## 🕸 TextileMOTON.Skema
 
 ### Related 🟩<ekos>Eko</ekos>
 
@@ -35,6 +35,6 @@
 
 <h2>PageTags</h2>
 
-- "Moove.ClothingMoove.Overview"
+- "MOTON.ClothingMOTON.Overview"
 
 :::

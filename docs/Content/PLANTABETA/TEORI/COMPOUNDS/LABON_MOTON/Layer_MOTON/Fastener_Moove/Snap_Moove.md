@@ -1,6 +1,6 @@
-# 🟠<motor>SnapMoove</motor>
+# 🟠<motor>SnapMOTON</motor>
 
-## 🕸 SnapMoove.Skema
+## 🕸 SnapMOTON.Skema
 
 ### Related 🟩<ekos>Eko</ekos>
 

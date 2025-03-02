@@ -1,6 +1,6 @@
 # 🟠 <motor>GetUp</motor>
 
-![MooveIkon](/BetaIkon/Mooves_Ikon.png)
+![MOTONIkon](/BetaIkon/MOTONs_Ikon.png)
 
 ## 🕸 GetUp.Skema
 
@@ -30,7 +30,7 @@
 ::: details 🛠 <dev>&&&</dev>
 
 - SpadeMuscleUp
-- TrunkMoove
+- TrunkMOTON
     - Pull on Trunk to StandUp
 - SitToStand
 - BagSpill often occurs during GetUp

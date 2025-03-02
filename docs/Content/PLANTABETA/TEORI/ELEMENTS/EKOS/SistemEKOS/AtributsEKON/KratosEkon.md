@@ -6,11 +6,11 @@ How the Eko
 
 ### Relationship between EkoKratos and ViaKratos
 
-EkoKratos is independent of ViaKratos, Moove Kratos, AnimaKratos
+EkoKratos is independent of ViaKratos, MOTON Kratos, AnimaKratos
 
 WallAngle
 
-### Relationship between EkoKratos and Moove Kratos
+### Relationship between EkoKratos and MOTON Kratos
 
 ### Relationship between EkoKratos and Anima Kratos
 
@@ -81,7 +81,7 @@ When MargoHayes attempted Biographie(9a+) while it was WetRoute.
 
 - (WallAngle+SurfaceAngle+LoadingAngle)
     - Intense in which Direction. Mano can be intense IntoWall, DownWall, UpWall, OutOfWall. PinchMano.Error.Slide on VerticalWall, slides DownWall, which PinchMano.Error.Slide on OverhangWall is OutOfWall.
-        - (MoovementDirection)RelativeTo(Route)
+        - (MOTONmentDirection)RelativeTo(Route)
             - IntoWall, DownWall, UpWall, OutOfWall
 
 ---

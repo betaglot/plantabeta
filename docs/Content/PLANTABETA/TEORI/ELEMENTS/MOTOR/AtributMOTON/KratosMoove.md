@@ -1,4 +1,4 @@
-# 🟠<motor>MooveKratos</motor>
+# 🟠<motor>MOTONKratos</motor>
 
 > the power of this Element
 >
@@ -8,9 +8,9 @@
 
 Distance in what direction and how fast. Via has time, since movements are experienced by way of time.
 
-## StaticMoove or DynamicMoove
+## StaticMOTON or DynamicMOTON
 
-"ConstantMoove" is more accurate than "StaticMoove"
+"ConstantMOTON" is more accurate than "StaticMOTON"
 
 ---
 

@@ -104,7 +104,7 @@ Route.Complexity(PerceptibleAffordance < HiddenAffordance < FalseAffordance)
 
 ### Eko Affordance
 
-#### Eko Affords Moove
+#### Eko Affords MOTON
 
 - That branch looks thin enough that I can Mano it
 -

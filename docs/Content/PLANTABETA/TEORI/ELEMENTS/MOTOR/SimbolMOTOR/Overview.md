@@ -1,6 +1,6 @@
-# 🟠<motor>MooveSimbol</motor>
+# 🟠<motor>MOTONSimbol</motor>
 
-## 🕸 MooveSimbol.Skema
+## 🕸 MOTONSimbol.Skema
 
 ### Related 🟩<ekos>Eko</ekos>
 

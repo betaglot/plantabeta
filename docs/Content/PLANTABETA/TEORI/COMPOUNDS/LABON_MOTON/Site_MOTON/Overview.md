@@ -1,10 +1,10 @@
-# 🟠 <motor>SiteMoove</motor>
+# 🟠 <motor>SiteMOTON</motor>
 
 ## Sit.Anatomy
 
 ## Site.Attributes
 
-## 🕸 SiteMoove.Skema
+## 🕸 SiteMOTON.Skema
 
 ### Related 🟩<ekos>Eko</ekos>
 
@@ -39,11 +39,11 @@
 - ParaLog_RottenLog_RedRot_DuffShot_
 - ParaLog_RottenLog_TreeInspector
 - ParaRock_RockSize_LithosphereInfluence
-- ParaStump_FastLand_OneManoMoove_SpadeLeverSkreef_
+- ParaStump_FastLand_OneManoMOTON_SpadeLeverSkreef_
 - Root_ThickRoot_SpadeSnag
 - Root_ThinRoot_PlantingSound
 - TreeFertilizerSite_ParaSite_SpadeThrow
 - TreeFertilizerSite_SameSite_PlantingFrase
-- Underrock_RockPry_SpadeMoove_SpadeBlade_
+- Underrock_RockPry_SpadeMOTON_SpadeBlade_
 
 :::

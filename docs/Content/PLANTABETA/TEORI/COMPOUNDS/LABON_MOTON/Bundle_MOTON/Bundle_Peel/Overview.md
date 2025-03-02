@@ -29,6 +29,6 @@
 
 -
 
-- "Moove.InstrumentMoove.BundleMoove.BundlePeel"
+- "MOTON.InstrumentMOTON.BundleMOTON.BundlePeel"
 
 :::

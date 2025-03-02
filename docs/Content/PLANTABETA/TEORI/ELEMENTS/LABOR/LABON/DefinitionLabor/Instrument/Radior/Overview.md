@@ -1,8 +1,8 @@
-# 🟠<motor>RadiorMoove</motor>
+# 🟠<motor>RadiorMOTON</motor>
 
 Aliases: Vambrace, Forearm Guard
 
-## 🕸 RadiorMoove.Skema
+## 🕸 RadiorMOTON.Skema
 
 ### Related 🟩<ekos>Eko</ekos>
 

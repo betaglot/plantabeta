@@ -1,4 +1,4 @@
-# 🕸 <anima>LogBreakSound</anima>
+# 💭 <anima>LogBreakSound</anima>
 
 ![Anima_Ikon](/Anima/Anima_Ikon.png)
 

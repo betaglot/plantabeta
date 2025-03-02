@@ -1,6 +1,6 @@
 # 🟠 <motor>FootDorsiflexion</motor>
 
-![MooveIkon](/BetaIkon/Mooves_Ikon.png)
+![MOTONIkon](/BetaIkon/MOTONs_Ikon.png)
 
 ## 🕸 FootDorsiflexion.Skema
 
@@ -33,5 +33,5 @@
 
 <h2>PageTags</h2>
 
-- "Moove.FootMoove.FootDorsiflexion"
+- "MOTON.FootMOTON.FootDorsiflexion"
 :::

@@ -40,7 +40,7 @@ for Bundle in Box:
 
 ### Frase
 
-> A dance phrase or sequence can be likened to a sentence formed when speaking. Sometimes we refer to dance phrases as moto sequences. For the purpose of this lesson either term is acceptable. Each phrase has a beginning, middle, and end. Mooves selected in a dance phrase may flow one to the other naturally or may be connected by a transition Moove. Evolving dance sequences from action words is another way to demystify the creative process. Action words lead to the formation of individual dance phrases and provide the framework for further developing those phrases into larger compositional forms. In this lesson, the action words are common terms used in contemporary dance.
+> A dance phrase or sequence can be likened to a sentence formed when speaking. Sometimes we refer to dance phrases as moto sequences. For the purpose of this lesson either term is acceptable. Each phrase has a beginning, middle, and end. MOTONs selected in a dance phrase may flow one to the other naturally or may be connected by a transition MOTON. Evolving dance sequences from action words is another way to demystify the creative process. Action words lead to the formation of individual dance phrases and provide the framework for further developing those phrases into larger compositional forms. In this lesson, the action words are common terms used in contemporary dance.
 
 - <https://us.humankinetics.com/blogs/excerpt/phrase-linking-motos>
 
@@ -71,8 +71,8 @@ for Tree in bag:
 class Trench(PrepLand):
  
 
-class SpadeImpact(Moove):
-    def __init(self, MooveLocation)
+class SpadeImpact(MOTON):
+    def __init(self, MOTONLocation)
 ```
 
 ### Instance Variable
@@ -101,7 +101,7 @@ def Put(PlantType: str, Location: str, TreeCount: int, TreeType: str, SkreefBool
 ### Put(Marka)
 
 ```py
-def Put(Marka, MarkaColor: str, MarkaType: str, ManoMoove: str)
+def Put(Marka, MarkaColor: str, MarkaType: str, ManoMOTON: str)
 ```
 
 ## ReservedWords
@@ -135,9 +135,9 @@ As you move through the land the EcoState is constantly changing. Remember that 
 - TopoState
     - SlopeAngle
 
-### MooveState
+### MOTONState
 
-- MooveState
+- MOTONState
 - FatigueState
 
 ### NeuroState
@@ -201,7 +201,7 @@ You don't need to communicate Beta all the time, but when you do, PlantaBeta hel
 
 Beta is the syntax
 
-Mooves are the objects and functions
+MOTONs are the objects and functions
 
 Plantbeta can be used in Planting and Climbing, on PlantaBeta.com and KLIMBETA.com
 

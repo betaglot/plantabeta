@@ -1,6 +1,6 @@
 # 🟠 <motor>HeadRetraction</motor>
 
-![MooveIkon](/BetaIkon/Mooves_Ikon.png)
+![MOTONIkon](/BetaIkon/MOTONs_Ikon.png)
 
 ## 🕸 HeadRetraction.Skema
 
@@ -33,5 +33,5 @@
 
 <h2>PageTags</h2>
 
-- "Moove.HeadMoove.HeadRetraction"
+- "MOTON.HeadMOTON.HeadRetraction"
 :::

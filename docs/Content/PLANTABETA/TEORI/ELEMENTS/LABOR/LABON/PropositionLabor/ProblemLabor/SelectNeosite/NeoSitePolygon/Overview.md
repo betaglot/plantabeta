@@ -6,7 +6,7 @@
 
 - Plant hexagons
 
-Moove on a hexagonal grid like CGP grey YouTube
+MOTON on a hexagonal grid like CGP grey YouTube
 <https://youtu.be/bgR3yESAEVE>
 
 ---

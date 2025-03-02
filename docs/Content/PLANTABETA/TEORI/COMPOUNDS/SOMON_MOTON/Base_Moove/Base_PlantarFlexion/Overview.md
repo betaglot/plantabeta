@@ -1,6 +1,6 @@
 # 🟠 <motor>PlantarFlexion</motor>
 
-![MooveIkon](/BetaIkon/Mooves_Ikon.png)
+![MOTONIkon](/BetaIkon/MOTONs_Ikon.png)
 
 ## 🕸 PlantarFlexion.Skema
 
@@ -33,5 +33,5 @@
 
 <h2>PageTags</h2>
 
-- "Moove.FootMoove.PlantarFlexion"
+- "MOTON.FootMOTON.PlantarFlexion"
 :::

@@ -29,7 +29,7 @@
 <!-- =================================================== -->
 ::: details 🛠 <dev>&&&</dev>
 
-- ❌<error>Moove doesn't require Time. (ArmLock, LegLock, Stand, any pose). Stationary Mooves don't require Via.</error>
+- ❌<error>MOTON doesn't require Time. (ArmLock, LegLock, Stand, any pose). Stationary MOTONs don't require Via.</error>
     - A Via of 0 is still a Via. PertainentNegative, music is about the silence between notes
 
 :::

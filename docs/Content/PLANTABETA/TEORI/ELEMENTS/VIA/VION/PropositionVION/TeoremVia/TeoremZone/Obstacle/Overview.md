@@ -27,7 +27,7 @@ An object is only an obstacle if it hinders your Via.
     - Limit
 - PlantedSites become Obstacles
 
-- Obstacle to Moove
+- Obstacle to MOTON
     - Obstacle to Spade
     - Obstacle to Blade
         - A 3cm rock can be an Obstacle to be avoided for SpadeSpike, since pushing a rock through the ground requires more force than just the blade by itself

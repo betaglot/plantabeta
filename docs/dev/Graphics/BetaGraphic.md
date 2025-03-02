@@ -51,7 +51,7 @@ Use the module colors along with their icons
 
 💜<anima>Psike</anima>
 
-🟠<motor>Moove</motor>
+🟠<motor>MOTON</motor>
 
 ## Betaglot Docs
 
@@ -72,7 +72,7 @@ No images of humans at a computer. It doesn't even need to be technical, just an
 - Have a BetaGraphic of your piece with recommended Line ViaPath.
 - Arrow of Attention is Violet
 - AttentionLoop
-    - Eko, then Psike, then Moove, then Via, then back to Eko.
+    - Eko, then Psike, then MOTON, then Via, then back to Eko.
 
 <h2>PageTags</h2>
 

@@ -19,12 +19,12 @@ Aliases: Flow, Fluidity, Fluency, Transition
 - Minimize acceleration changes
     - Minimize Turns
 
-## 🟠<motor>Moove.Flux</motor>
+## 🟠<motor>MOTON.Flux</motor>
 
 - Graceful
-- FluidMoove
-- Linked Moovement
-    - ((CurrentMoove.FinishMoove == PostMoove.StartMoove) = (AnteMoove.FinishMoove == CurrentMoove.StartMoove))
+- FluidMOTON
+- Linked MOTONment
+    - ((CurrentMOTON.FinishMOTON == PostMOTON.StartMOTON) = (AnteMOTON.FinishMOTON == CurrentMOTON.StartMOTON))
 
 ## 💜<anima>Anima.Flux</anima>
 

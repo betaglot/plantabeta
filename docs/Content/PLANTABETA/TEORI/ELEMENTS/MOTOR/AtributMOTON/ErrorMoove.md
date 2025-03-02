@@ -1,4 +1,4 @@
-# 🟠<motor>MooveError</motor>
+# 🟠<motor>MOTONError</motor>
 
 > any errors that can occur during the practice of this Element
 

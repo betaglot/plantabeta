@@ -1,6 +1,6 @@
 # 🟠 <motor>LookAway</motor>
 
-![MooveIkon](/BetaIkon/Mooves_Ikon.png)
+![MOTONIkon](/BetaIkon/MOTONs_Ikon.png)
 
 ## 🕸 LookAway.Skema
 
@@ -39,5 +39,5 @@
 
 <h2>PageTags</h2>
 
-- "Moove.HeadMoove.LookAway"
+- "MOTON.HeadMOTON.LookAway"
 :::

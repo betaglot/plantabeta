@@ -1,7 +1,7 @@
 # 🟠 <motor>FloraCatch</motor>
 
 > Grab vegetation before colliding with it
-![MooveIkon](/BetaIkon/Mooves_Ikon.png)
+![MOTONIkon](/BetaIkon/MOTONs_Ikon.png)
 
 The Plant can be moving towards you or the Plant can be stationary while you move towards the vege
 
@@ -36,7 +36,7 @@ The Plant can be moving towards you or the Plant can be stationary while you mov
 
 <h2>PageTags</h2>
 
-- "Moove.PlantMoove.BranchWhip"
+- "MOTON.PlantMOTON.BranchWhip"
 
 - BranchWhip
 -

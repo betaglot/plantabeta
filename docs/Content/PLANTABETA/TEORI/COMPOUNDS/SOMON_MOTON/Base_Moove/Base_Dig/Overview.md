@@ -1,6 +1,6 @@
 # 🟠 <motor>FootDig</motor>
 
-![MooveIkon](/BetaIkon/Mooves_Ikon.png)
+![MOTONIkon](/BetaIkon/MOTONs_Ikon.png)
 
 ## 🕸 FootDig.Skema
 
@@ -33,5 +33,5 @@
 
 <h2>PageTags</h2>
 
-- "Moove.FootMoove.FootDig"
+- "MOTON.FootMOTON.FootDig"
 :::

@@ -1,10 +1,10 @@
-# 🟠 <motor>BoxMoove</motor>
+# 🟠 <motor>BoxMOTON</motor>
 
 🔻<via>BoxHandle</via> is the main Contact of Box.
 
 🔻<via>BoxCorner</via> is a Contact used only when carrying a single box.
 
-## 🕸 BoxMoove.Skema
+## 🕸 BoxMOTON.Skema
 
 ### Related 🟩<ekos>Eko</ekos>
 
@@ -60,9 +60,9 @@
 
 <h2>PageTags</h2>
 
-- "Moove.InstrumentMoove.BoxMoove.BoxOpen"
-- "Moove.InstrumentMoove.BoxMoove.BoxSlide"
-- "Moove.InstrumentMoove.BoxMoove.BoxStack"
-- "Moove.InstrumentMoove.BoxMoove.Overview"
+- "MOTON.InstrumentMOTON.BoxMOTON.BoxOpen"
+- "MOTON.InstrumentMOTON.BoxMOTON.BoxSlide"
+- "MOTON.InstrumentMOTON.BoxMOTON.BoxStack"
+- "MOTON.InstrumentMOTON.BoxMOTON.Overview"
 
 :::

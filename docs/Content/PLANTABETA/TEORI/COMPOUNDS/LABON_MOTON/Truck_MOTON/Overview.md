@@ -1,10 +1,10 @@
-# 🟠 <motor>TruckMoove</motor>
+# 🟠 <motor>TruckMOTON</motor>
 
 ## Truck Anatomy
 
 ## Truck Attributes
 
-## 🕸 TruckMoove.Skema
+## 🕸 TruckMOTON.Skema
 
 ### Related 🟩<ekos>Eko</ekos>
 

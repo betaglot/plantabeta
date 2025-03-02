@@ -10,7 +10,7 @@ A theorem is the mathematical statement and the proof is the method by which you
 
 ### 🟠<motor></motor>BodySag reduces FootFriction
 
-BodySag is a Moove, FootFriction is physics.
+BodySag is a MOTON, FootFriction is physics.
 
 Use other resources to explain Kinematics. Explaining physics is beyond the current scope of BETAGLOT
 

@@ -2,7 +2,7 @@
 
 Aliases: FootClose
 
-![MooveIkon](/BetaIkon/Mooves_Ikon.png)
+![MOTONIkon](/BetaIkon/MOTONs_Ikon.png)
 
 ## 🕸 BootKlose.Skema
 
@@ -63,6 +63,6 @@ Aliases: FootClose
 - Frase
     - BootKlose == Walk.Step
 
-- "Moove.FootMoove.BootKlose"
+- "MOTON.FootMOTON.BootKlose"
 
 :::

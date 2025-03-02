@@ -2,7 +2,7 @@
 
 > Use a FloraParry to redirect flora which is colliding with you.  
 
-![MooveIkon](/BetaIkon/Mooves_Ikon.png)
+![MOTONIkon](/BetaIkon/MOTONs_Ikon.png)
 
 ## 🕸 FloraParry.Skema
 
@@ -18,7 +18,7 @@
 
 ### Related 🟠<motor>Motor</motor>
 
-- RadiorMoove
+- RadiorMOTON
 
 ### Related 💜<anima>Anima</anima>
 
@@ -34,7 +34,7 @@
 ::: details 🛠 <dev>&&&</dev>
 
 - ParryUp, ParryLateral
-- FloraSwim, like BreastStroke to part a way through Flora. 2ArmMoove
+- FloraSwim, like BreastStroke to part a way through Flora. 2ArmMOTON
     - TallGrassSwim
 - Can be performed with Arm or Spade
     - Avoid having a tree in your hand
@@ -45,6 +45,6 @@
 
 <h2>PageTags</h2>
 
-- "Moove.PlantMoove.BranchArmDeflection"
-- "Moove.PlantMoove.BranchDeflection"
+- "MOTON.PlantMOTON.BranchArmDeflection"
+- "MOTON.PlantMOTON.BranchDeflection"
 :::

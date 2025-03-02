@@ -1,6 +1,6 @@
 # 🟠 <motor>TarpOn</motor>
 
-![MooveIkon](/BetaIkon/Mooves_Ikon.png)
+![MOTONIkon](/BetaIkon/MOTONs_Ikon.png)
 
 ## 🕸 TarpOn.Skema
 
@@ -33,5 +33,5 @@
 
 <h2>PageTags</h2>
 
-- "Moove.CacheMoove.TarpOn"
+- "MOTON.CacheMOTON.TarpOn"
 :::

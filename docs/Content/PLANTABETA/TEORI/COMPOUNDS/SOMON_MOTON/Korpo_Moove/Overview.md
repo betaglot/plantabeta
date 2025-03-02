@@ -1,10 +1,10 @@
-# 🟠 <motor>BodyMoove</motor>
+# 🟠 <motor>BodyMOTON</motor>
 
 ## Body Anatomy
 
 ## Body Attributes
 
-## 🕸 BodyMoove.Skema
+## 🕸 BodyMOTON.Skema
 
 ### Related 🟩<ekos>Eko</ekos>
 
@@ -36,15 +36,15 @@
 
 <h2>PageTags</h2>
 
-- "Moove.BodyMoove.BodyDrop.BodyDropInto"
-- "Moove.BodyMoove.BodyLock"
-- "Moove.BodyMoove.BodyPosture"
-- "Moove.BodyMoove.Landing"
-- "Moove.BodyMoove.Landing.MooveError.BaseAma"
-- "Moove.BodyMoove.Mantle"
-- "Moove.BodyMoove.Overview"
-- "Moove.BodyMoove.Stemming"
-- "Moove.BodyMoove.Straddle"
+- "MOTON.BodyMOTON.BodyDrop.BodyDropInto"
+- "MOTON.BodyMOTON.BodyLock"
+- "MOTON.BodyMOTON.BodyPosture"
+- "MOTON.BodyMOTON.Landing"
+- "MOTON.BodyMOTON.Landing.MOTONError.BaseAma"
+- "MOTON.BodyMOTON.Mantle"
+- "MOTON.BodyMOTON.Overview"
+- "MOTON.BodyMOTON.Stemming"
+- "MOTON.BodyMOTON.Straddle"
 - Body move overview every single move is a body move so body move is the superset of everything because a plantor is a body so there's body moves and then there's each limb has their own particular variation for about for a body move body moves
 
 - a good image for the body move would be I think it'd be a good idea to have a picture of the body that plantors don't normally see so like a top few would be good body moves the biggest

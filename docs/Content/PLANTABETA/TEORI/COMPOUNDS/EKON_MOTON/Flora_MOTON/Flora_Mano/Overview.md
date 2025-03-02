@@ -1,6 +1,6 @@
 # 🟠 <motor>FloraMano</motor>
 
-![MooveIkon](/BetaIkon/Mooves_Ikon.png)
+![MOTONIkon](/BetaIkon/MOTONs_Ikon.png)
 
 ## 🕸 FloraMano.Skema
 
@@ -33,5 +33,5 @@
 
 <h2>PageTags</h2>
 
-- "Moove.ManoMoove.BranchMano"
+- "MOTON.ManoMOTON.BranchMano"
 :::

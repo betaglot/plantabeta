@@ -1,6 +1,6 @@
-# 🟠<motor>MooveAxiom</motor>
+# 🟠<motor>MOTONAxiom</motor>
 
-## 🕸 MooveAxiom.Skema
+## 🕸 MOTONAxiom.Skema
 
 ### Related 🟩<ekos>Eko</ekos>
 
@@ -27,7 +27,7 @@
 <!-- =================================================== -->
 ::: details 🛠 <dev>&&&</dev>
 
-- MooveAxiom: walking downhill is easier than walking up hill
+- MOTONAxiom: walking downhill is easier than walking up hill
 - Stand is the most basic move
 - PathOfLeastResistance
 - NewtonLaw

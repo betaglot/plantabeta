@@ -1,6 +1,6 @@
 # 🟠 <motor>Mano_Skreef</motor>
 
-![MooveIkon](/BetaIkon/Mooves_Ikon.png)
+![MOTONIkon](/BetaIkon/MOTONs_Ikon.png)
 
 ## 🕸 Mano_Skreef.Skema
 

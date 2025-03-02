@@ -1,4 +1,4 @@
-# 🟠<motor>MooveAnalogia</motor>
+# 🟠<motor>MOTONAnalogia</motor>
 
 > analogous Elements in other BetaSports
 

@@ -1,8 +1,8 @@
-# 🟠<motor>BottleMoove</motor>
+# 🟠<motor>BottleMOTON</motor>
 
 Aliases: water bottle
 
-## 🕸 BottleMoove.Skema
+## 🕸 BottleMOTON.Skema
 
 ### Related 🟩<ekos>Eko</ekos>
 

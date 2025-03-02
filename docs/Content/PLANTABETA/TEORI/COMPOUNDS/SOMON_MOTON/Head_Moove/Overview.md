@@ -1,10 +1,10 @@
-# 🟠 <motor>HeadMoove</motor>
+# 🟠 <motor>HeadMOTON</motor>
 
 ## Head Anatomy
 
 ## Head Attributes
 
-## 🕸 HeadMoove.Skema
+## 🕸 HeadMOTON.Skema
 
 ### Related 🟩<ekos>Eko</ekos>
 
@@ -37,8 +37,8 @@
 
 <h2>PageTags</h2>
 
-- "Moove.HeadMoove.Find.Marka"
-- "Moove.HeadMoove.LookAt"
-- "Moove.HeadMoove.Overview"
+- "MOTON.HeadMOTON.Find.Marka"
+- "MOTON.HeadMOTON.LookAt"
+- "MOTON.HeadMOTON.Overview"
 
 :::

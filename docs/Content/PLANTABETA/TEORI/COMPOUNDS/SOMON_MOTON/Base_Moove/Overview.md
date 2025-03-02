@@ -1,4 +1,4 @@
-# 🟠 <motor>BaseMoove</motor>
+# 🟠 <motor>BaseMOTON</motor>
 
 ## Base.Anatomy
 
@@ -17,7 +17,7 @@
 
 - FootLength
 
-## 🕸 FootMoove.Skema
+## 🕸 FootMOTON.Skema
 
 ### Related 🟩<ekos>Eko</ekos>
 
@@ -48,19 +48,19 @@
 
 <h2>PageTags</h2>
 
-- "Moove.LegMoove.HighFoot"
-- "Moove.LegMoove.LegCircumduction"
-- "Moove.LegMoove.LegLock"
-- "Moove.LegMoove.LegReach"
-- "Moove.LegMoove.LegRockOver"
-- "Moove.LegMoove.LegRockUp"
-- "Moove.LegMoove.LegSlot"
-- "Moove.LegMoove.Overview"
-- "Moove.LegMoove.SupportingLeg"
+- "MOTON.LegMOTON.HighFoot"
+- "MOTON.LegMOTON.LegCircumduction"
+- "MOTON.LegMOTON.LegLock"
+- "MOTON.LegMOTON.LegReach"
+- "MOTON.LegMOTON.LegRockOver"
+- "MOTON.LegMOTON.LegRockUp"
+- "MOTON.LegMOTON.LegSlot"
+- "MOTON.LegMOTON.Overview"
+- "MOTON.LegMOTON.SupportingLeg"
 
-- "Moove.FootMoove.FootRoll"
-- "Moove.FootMoove.FootSlot"
-- "Moove.FootMoove.FootSmear"
-- "Moove.FootMoove.Overview"
+- "MOTON.FootMOTON.FootRoll"
+- "MOTON.FootMOTON.FootSlot"
+- "MOTON.FootMOTON.FootSmear"
+- "MOTON.FootMOTON.Overview"
 
 :::

@@ -1,4 +1,4 @@
-# 🕸 <anima>Memory</anima>
+# 💭 <anima>Memory</anima>
 
 > Fire together, wire together
 

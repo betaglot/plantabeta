@@ -44,7 +44,7 @@ _ The Plural of "Takt" is "Takta"
 - All Takts emit sound
 - Takts are not necessarily contiguous, like stepping stones
 - Takts are exposures of Soil in the Land. Sometimes you must Skreef to expose a Takt
-- Takts for Moove are less
+- Takts for MOTON are less
 - "Via.ViaGeometry.Takt.LogSurface"
 - "Via.ViaGeometry.Takt.Overview"
 - "Via.ViaGeometry.Takt.RockSurface"

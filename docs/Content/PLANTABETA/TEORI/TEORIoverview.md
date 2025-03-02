@@ -6,7 +6,7 @@
 
 ## [![Ekos](/BetaIkon/Ekos_Ikon.png)](/reference/Ekos/EkosOverview)
 
-## [![Mooves](/BetaIkon/Motor_Ikon.png)](/reference/Mooves/MoovesOverview)
+## [![MOTONs](/BetaIkon/Motor_Ikon.png)](/reference/MOTONs/MOTONsOverview)
 
 ## [![Via](/BetaIkon/Via_Ikon.png)](/reference/Via/ViaOverview)
 

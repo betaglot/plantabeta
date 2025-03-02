@@ -1,10 +1,10 @@
-# 🟠 <motor>ManoMoove</motor>
+# 🟠 <motor>ManoMOTON</motor>
 
 ## Mano.Anatomy
 
 ## Mano.Attributes
 
-## 🕸 ManoMoove.Skema
+## 🕸 ManoMOTON.Skema
 
 ### Related 🟩<ekos>Eko</ekos>
 
@@ -40,39 +40,39 @@
     - ScoopMano
         - When your Thumb can't oppose fingers because the Mano radius is too large
         - LogLaunch
-        - TrunkMoove
+        - TrunkMOTON
         - HandSmear
     - SleeveMano
     - PocketMano
     - PistolMano
         - Tarp
         - BagMano
-    - 2ManoMoove
+    - 2ManoMOTON
         - SMano
         - CableMano
             - No thumbs
         - ButterflyMano
         - SeatbeltMano
 
-- "Moove.ManoMoove.CupMano"
-- "Moove.ManoMoove.FingerMoove.FingerCurl"
-- "Moove.ManoMoove.FingerMoove.FingerFlexion"
-- "Moove.ManoMoove.FingerMoove.FingerHook"
-- "Moove.ManoMoove.FingerMoove.FingerPoke"
-- "Moove.ManoMoove.FingerMoove.Overview"
-- "Moove.ManoMoove.FingerMoove.ThumbHook
-- Moove.ManoMoove.FingerMoove.FingerExtension"
-- "Moove.ManoMoove.FingerOverlapPoke"
-- "Moove.ManoMoove.FingertipPress"
-- "Moove.ManoMoove.GentleMano"
-- "Moove.ManoMoove.HandRoll"
-- "Moove.ManoMoove.HandSlide"
-- "Moove.ManoMoove.HandSlot"
-- "Moove.ManoMoove.HandSmear"
-- "Moove.ManoMoove.HandSwap"
-- "Moove.ManoMoove.Overview"
-- "Moove.ManoMoove.PinchMano"
-- "Moove.ManoMoove.TrunkMano"
-- "Moove.ManoMoove.UnderclingMano"
+- "MOTON.ManoMOTON.CupMano"
+- "MOTON.ManoMOTON.FingerMOTON.FingerCurl"
+- "MOTON.ManoMOTON.FingerMOTON.FingerFlexion"
+- "MOTON.ManoMOTON.FingerMOTON.FingerHook"
+- "MOTON.ManoMOTON.FingerMOTON.FingerPoke"
+- "MOTON.ManoMOTON.FingerMOTON.Overview"
+- "MOTON.ManoMOTON.FingerMOTON.ThumbHook
+- MOTON.ManoMOTON.FingerMOTON.FingerExtension"
+- "MOTON.ManoMOTON.FingerOverlapPoke"
+- "MOTON.ManoMOTON.FingertipPress"
+- "MOTON.ManoMOTON.GentleMano"
+- "MOTON.ManoMOTON.HandRoll"
+- "MOTON.ManoMOTON.HandSlide"
+- "MOTON.ManoMOTON.HandSlot"
+- "MOTON.ManoMOTON.HandSmear"
+- "MOTON.ManoMOTON.HandSwap"
+- "MOTON.ManoMOTON.Overview"
+- "MOTON.ManoMOTON.PinchMano"
+- "MOTON.ManoMOTON.TrunkMano"
+- "MOTON.ManoMOTON.UnderclingMano"
 
 :::

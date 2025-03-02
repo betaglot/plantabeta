@@ -1,6 +1,6 @@
 # 🟠 <motor>BagAdjust</motor>
 
-![MooveIkon](/BetaIkon/Mooves_Ikon.png)
+![MOTONIkon](/BetaIkon/MOTONs_Ikon.png)
 
 ## 🕸 BagAdjust.Skema
 
@@ -36,6 +36,6 @@
     - LoosenBelt
         - After adding a clothing layer
 - BagBuckleAdjust
-    - BuckleMoove
+    - BuckleMOTON
 
 :::

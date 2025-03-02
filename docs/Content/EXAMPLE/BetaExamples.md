@@ -30,13 +30,13 @@
 
 ⭐<labos>"spruce": Neon</labos>
 
-🟠<motor>"skreef": SkreefMoove</motor>
+🟠<motor>"skreef": SkreefMOTON</motor>
 
 ## 🔷<beta>"Only <via>Marka</via> your <via>line in</via> and <anima>if</anima> you <via>leave</via> the <ekos>trench</ekos>"</beta>
 
 🔷<beta>"Only": </beta>
 
-🟠<motor>"Marka": [MarkaMoove](/encyclopedia/Moove/InstrumentMoove/MarkaMoove/Overview)</motor>
+🟠<motor>"Marka": [MarkaMOTON](/encyclopedia/MOTON/InstrumentMOTON/MarkaMOTON/Overview)</motor>
 
 🔻<via>"line in": </via>
 

@@ -1,10 +1,10 @@
-# 🟠<motor>ZelcroMoove</motor>
+# 🟠<motor>ZelcroMOTON</motor>
 
-## ❌<error>ZelcroMoove.Error</error>
+## ❌<error>ZelcroMOTON.Error</error>
 
 - Dirt in Zelcro
 
-## 🕸 VelcroMoove.Skema
+## 🕸 VelcroMOTON.Skema
 
 ### Related 🟩<ekos>Eko</ekos>
 

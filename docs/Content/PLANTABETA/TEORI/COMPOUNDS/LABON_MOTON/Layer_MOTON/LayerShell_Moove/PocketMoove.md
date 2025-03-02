@@ -1,6 +1,6 @@
-# 🟠<motor>PocketMoove</motor>
+# 🟠<motor>PocketMOTON</motor>
 
-## 🕸 PocketMoove.Skema
+## 🕸 PocketMOTON.Skema
 
 ### Related 🟩<ekos>Eko</ekos>
 

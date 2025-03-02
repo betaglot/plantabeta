@@ -1,6 +1,6 @@
 # 🟠 <motor>FootDrag</motor>
 
-![MooveIkon](/BetaIkon/Mooves_Ikon.png)
+![MOTONIkon](/BetaIkon/MOTONs_Ikon.png)
 
 ## 🕸 FootDrag.Skema
 
@@ -33,5 +33,5 @@
 
 <h2>PageTags</h2>
 
-- "Moove.FootMoove.FootDrag"
+- "MOTON.FootMOTON.FootDrag"
 :::

@@ -1,6 +1,6 @@
 # 🟠 <motor>FootInversion</motor>
 
-![MooveIkon](/BetaIkon/Mooves_Ikon.png)
+![MOTONIkon](/BetaIkon/MOTONs_Ikon.png)
 
 ## 🕸 FootInversion.Skema
 
@@ -33,5 +33,5 @@
 
 <h2>PageTags</h2>
 
-- "Moove.FootMoove.FootInversion"
+- "MOTON.FootMOTON.FootInversion"
 :::

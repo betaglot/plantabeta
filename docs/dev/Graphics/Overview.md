@@ -110,7 +110,7 @@ DashedCurve
 - "Dev.Element.ElementDiagram.Labels.TextLabel"
 - "Dev.Element.ElementDiagram.Labels.TextLabel.AbbreviatedTextLabel"
 - "Dev.Element.ElementDiagram.Labels.TextLabel.LandLabel"
-- "Dev.Element.ElementDiagram.Labels.TextLabel.MooveLabel"
+- "Dev.Element.ElementDiagram.Labels.TextLabel.MOTONLabel"
 - "Dev.Element.ElementDiagram.Labels.TextLabel.ViaLineLabel"
 - "Dev.Element.ElementDiagram.LevelOfDetail"
 - "Dev.Element.ElementDiagram.Line.ConstructionLine"

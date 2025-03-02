@@ -1,4 +1,4 @@
-# 🟠 <motor>PlantaforMoove</motor>
+# 🟠 <motor>PlantaforMOTON</motor>
 
 Aliases: Planting Bags
 
@@ -8,7 +8,7 @@ Roll up your back bag layer to shell from water and dirt
 
 ## PlantaforAttributes
 
-## 🕸 PlantaforMoove.Skema
+## 🕸 PlantaforMOTON.Skema
 
 ### Related 🟩<ekos>Eko</ekos>
 
@@ -36,7 +36,7 @@ Roll up your back bag layer to shell from water and dirt
 ::: details 🛠 <dev>&&&</dev>
 
 - FertPouch
-- BagMoove.Error
+- BagMOTON.Error
     - BagSpill
 
 :::

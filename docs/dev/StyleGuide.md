@@ -143,7 +143,7 @@ Periods
 
 ## <dev>Color</dev>
 
-### <motor>MooveColor</motor>
+### <motor>MOTONColor</motor>
 
 ```md
 
@@ -191,14 +191,14 @@ Initials like ByrneEuklid
 
 🟩 E of Ekos
 🔻 V of Via
-🟠 oo of Moove
+🟠 oo of MOTON
 💜 Anima
 
 ### !Ikon
 
 Concept, Object Property
 
-MooveTimeline is orange as a header but it is not prefixed with an Ikon.
+MOTONTimeline is orange as a header but it is not prefixed with an Ikon.
 
 ::: warning Incorrect Syntax
 🟠<motor>Arm.🟠<motor>ArmPut()</motor></motor>
@@ -267,7 +267,7 @@ Delete tags once converted to headers. They are stored in a JSON
 
 ```md
 
-### 🟠 <dev>DesignBox</dev><motor>.Moove</motor>
+### 🟠 <dev>DesignBox</dev><motor>.MOTON</motor>
 
 ```md
 ---
@@ -282,7 +282,7 @@ Delete tags once converted to headers. They are stored in a JSON
 -
 
 :::
-# 🟠 <motor>Moove</motor>
+# 🟠 <motor>MOTON</motor>
 
 ```md
 
@@ -339,7 +339,7 @@ Delete tags once converted to headers. They are stored in a JSON
 -
 
 :::
-# 🕸 <anima>Anima</anima>
+# 💭 <anima>Anima</anima>
 
 ```md
 
@@ -423,7 +423,7 @@ Should "via" be used as natural language? "Get to the next page via the link at 
 
 ## <dev>ElementPageDesign</dev>
 
-## <motor>MoovePage.BaseLayout</motor>
+## <motor>MOTONPage.BaseLayout</motor>
 
 ### Definition
 
@@ -431,7 +431,7 @@ Should "via" be used as natural language? "Get to the next page via the link at 
 
 ### Taxonomy
 
-#### Moove.SubMoove
+#### MOTON.SubMOTON
 
 ::: tip
 
@@ -441,15 +441,15 @@ It doesn't matter if nobody looks at it.
 
 :::
 
-- Subset of Moove
+- Subset of MOTON
 
-#### Moove.SuperMoove
+#### MOTON.SuperMOTON
 
-- Superset of Moove
+- Superset of MOTON
 
 ```py
 
-ArmKurve.SuperMoove = ArmMoove
+ArmKurve.SuperMOTON = ArmMOTON
 
 ```
 
@@ -457,38 +457,38 @@ ArmKurve.SuperMoove = ArmMoove
 
 - Description of a useful image in mind's eye
 - Link to image
-- Link to PaperPhoto. Draw a rough sketch of the Moove, be sure to clearly Tag the sketch in the Head of the paper.
+- Link to PaperPhoto. Draw a rough sketch of the MOTON, be sure to clearly Tag the sketch in the Head of the paper.
     - Capture then Upload the Photo with Phone
 
-### Moove.Purpose
+### MOTON.Purpose
 
 The purpose is usually affect other BetaElements
 
-### Moove.AnteMoove
+### MOTON.AnteMOTON
 
-Syntax: `Moove.AnteMoove`
+Syntax: `MOTON.AnteMOTON`
 
 - How they transition to each other
 
-### Moove.PostMoove
+### MOTON.PostMOTON
 
-### Moove.Via
+### MOTON.Via
 
-- How does this Moove interface with Eko?
-- Where in the Via is this Moove performed?
+- How does this MOTON interface with Eko?
+- Where in the Via is this MOTON performed?
 
-### Moove.Eko
+### MOTON.Eko
 
-Where in Eko is this Moove performed and on what EkoElement. Put "the ground" if necessary. Nothing is too obvious in formal languages!
+Where in Eko is this MOTON performed and on what EkoElement. Put "the ground" if necessary. Nothing is too obvious in formal languages!
 
-### Moove.Anima
+### MOTON.Anima
 
 - Control Flow Statements for alternative moves
 
-### Moove.Error
+### MOTON.Error
 
 - Any errors in ControlFlow
-- MooveExecutionError
+- MOTONExecutionError
 - Error which is caused by Eko
     - Soil Collapse
     - Wood breaking
@@ -496,7 +496,7 @@ Where in Eko is this Moove performed and on what EkoElement. Put "the ground" if
 
 ## <via>ViaPage.BaseLayout</via>
 
-### <via>Via.Moove</via>
+### <via>Via.MOTON</via>
 
 ### <via>Via.Anima</via>
 

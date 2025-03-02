@@ -1,6 +1,6 @@
-# 🟠 <motor>KarabinerMoove</motor>
+# 🟠 <motor>KarabinerMOTON</motor>
 
-## 🕸 KarabinerMoove.Skema
+## 🕸 KarabinerMOTON.Skema
 
 ### Related 🟩<ekos>Eko</ekos>
 

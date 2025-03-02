@@ -1,8 +1,8 @@
-# 🟠 <motor>TrunkMoove</motor>
+# 🟠 <motor>TrunkMOTON</motor>
 
-![MooveIkon](/BetaIkon/Mooves_Ikon.png)
+![MOTONIkon](/BetaIkon/MOTONs_Ikon.png)
 
-## 🕸 TrunkMoove.Skema
+## 🕸 TrunkMOTON.Skema
 
 ### Related 🟩<ekos>Eko</ekos>
 
@@ -33,5 +33,5 @@
 
 <h2>PageTags</h2>
 
-- "Moove.FloraMoove.TrunkMoove"
+- "MOTON.FloraMOTON.TrunkMOTON"
 :::

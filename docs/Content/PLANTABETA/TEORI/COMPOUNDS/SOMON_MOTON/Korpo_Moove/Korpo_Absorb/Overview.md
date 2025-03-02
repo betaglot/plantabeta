@@ -1,6 +1,6 @@
 # 🟠 <motor>BodyAbsorb</motor>
 
-![MooveIkon](/BetaIkon/Mooves_Ikon.png)
+![MOTONIkon](/BetaIkon/MOTONs_Ikon.png)
 
 ## 🕸 BodyAbsorb.Skema
 
@@ -33,6 +33,6 @@
 
 <h2>PageTags</h2>
 
-- "Moove.BodyMoove.BodyAbsorb"
+- "MOTON.BodyMOTON.BodyAbsorb"
 
 :::

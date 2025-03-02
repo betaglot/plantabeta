@@ -1,6 +1,6 @@
 # 🟠 <motor>TruckSit</motor>
 
-![MooveIkon](/BetaIkon/Mooves_Ikon.png)
+![MOTONIkon](/BetaIkon/MOTONs_Ikon.png)
 
 ## 🕸 TruckSit.Skema
 
@@ -33,5 +33,5 @@
 
 <h2>PageTags</h2>
 
-- "Moove.InstrumentMoove.TruckMoove.Sit"
+- "MOTON.InstrumentMOTON.TruckMOTON.Sit"
 :::

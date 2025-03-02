@@ -1,6 +1,6 @@
 # 🟠 <motor>StepOver</motor>
 
-![MooveIkon](/BetaIkon/Mooves_Ikon.png)
+![MOTONIkon](/BetaIkon/MOTONs_Ikon.png)
 
 ## 🕸 StepOver.Skema
 
@@ -33,6 +33,6 @@
 
 <h2>PageTags</h2>
 
-- "Moove.BodyMoove.StepOverLog"
+- "MOTON.BodyMOTON.StepOverLog"
 
 :::

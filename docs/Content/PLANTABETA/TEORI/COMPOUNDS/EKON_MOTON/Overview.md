@@ -1,4 +1,4 @@
-# 🟠<motor>EkonMoovesTeorems</motor>
+# 🟠<motor>EkonMOTONsTeorems</motor>
 
 ---
 

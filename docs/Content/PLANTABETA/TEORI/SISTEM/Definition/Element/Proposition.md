@@ -183,10 +183,10 @@ Knowledge of Geometry is assumed.
 
 - Book3 is Via requires substrate(Eko)
 
-- Book4 is Moove requires direction(Via)
+- Book4 is MOTON requires direction(Via)
     - Physik.Mechanics
 
-- Book5 is Beta requires BetaTypes(Anima, Eko, Via, Moove)
+- Book5 is Beta requires BetaTypes(Anima, Eko, Via, MOTON)
 
 ## Pose
 

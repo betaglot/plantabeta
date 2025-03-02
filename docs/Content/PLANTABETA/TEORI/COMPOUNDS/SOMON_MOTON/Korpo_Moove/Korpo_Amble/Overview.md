@@ -1,10 +1,10 @@
 # 🟠 <motor>Amble</motor>
 
-![MooveIkon](/BetaIkon/Mooves_Ikon.png)
+![MOTONIkon](/BetaIkon/MOTONs_Ikon.png)
 
 ## Amble.Purpose
 
-- Amble is the most frequent top level Moove
+- Amble is the most frequent top level MOTON
 
 ## Amble.Attributes
 
@@ -77,6 +77,6 @@ Aim small miss small. Larger moves have larger potential for error
 
 <h2>PageTags</h2>
 
-- "Moove.BodyMoove.Amble"
+- "MOTON.BodyMOTON.Amble"
 
 :::

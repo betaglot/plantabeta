@@ -1,4 +1,4 @@
-# 🟠 <motor>ArmMoove</motor>
+# 🟠 <motor>ArmMOTON</motor>
 
 ## Arm Anatomy
 
@@ -27,7 +27,7 @@ SpadeArm, Spader, Spadus
 
 SpadeLimb
 
-## 🕸 ArmMoove.Skema
+## 🕸 ArmMOTON.Skema
 
 ### Related 🟩<ekos>Eko</ekos>
 
@@ -54,7 +54,7 @@ SpadeLimb
 <!-- =================================================== -->
 ::: details 🛠 <dev>&&&</dev>
 
-- 2ArmMoove
+- 2ArmMOTON
     - SpadeSkeef
     - FloraSwimParry
     - BagOn
@@ -64,26 +64,26 @@ SpadeLimb
 
 <h2>PageTags</h2>
 
-- "Moove.ArmMoove.ArmBrake"
-- "Moove.ArmMoove.ArmCircumduction"
-- "Moove.ArmMoove.ArmCross"
-- "Moove.ArmMoove.ArmExtension"
-- "Moove.ArmMoove.ArmExternalRotation"
-- "Moove.ArmMoove.ArmFlexion"
-- "Moove.ArmMoove.ArmInternalRotation"
-- "Moove.ArmMoove.ArmLock"
-- "Moove.ArmMoove.ArmReach"
-- "Moove.ArmMoove.ArmRockOver"
-- "Moove.ArmMoove.ArmRow"
-- "Moove.ArmMoove.ArmShakeOut"
-- "Moove.ArmMoove.ArmSlot"
-- "Moove.ArmMoove.ArmTRex"
-- "Moove.ArmMoove.ProximalElbow"
-- "Moove.ArmMoove.Overview"
-- "Moove.ArmMoove.ShoulderMoove.Overview"
-- "Moove.ArmMoove.ShoulderMoove.ShoulderDepress"
-- "Moove.ArmMoove.ShoulderMoove.ShoulderElevate"
-- "Moove.ArmMoove.ShoulderMoove.ShoulderProtract"
-- "Moove.ArmMoove.ShoulderMoove.ShoulderRetract"
+- "MOTON.ArmMOTON.ArmBrake"
+- "MOTON.ArmMOTON.ArmCircumduction"
+- "MOTON.ArmMOTON.ArmCross"
+- "MOTON.ArmMOTON.ArmExtension"
+- "MOTON.ArmMOTON.ArmExternalRotation"
+- "MOTON.ArmMOTON.ArmFlexion"
+- "MOTON.ArmMOTON.ArmInternalRotation"
+- "MOTON.ArmMOTON.ArmLock"
+- "MOTON.ArmMOTON.ArmReach"
+- "MOTON.ArmMOTON.ArmRockOver"
+- "MOTON.ArmMOTON.ArmRow"
+- "MOTON.ArmMOTON.ArmShakeOut"
+- "MOTON.ArmMOTON.ArmSlot"
+- "MOTON.ArmMOTON.ArmTRex"
+- "MOTON.ArmMOTON.ProximalElbow"
+- "MOTON.ArmMOTON.Overview"
+- "MOTON.ArmMOTON.ShoulderMOTON.Overview"
+- "MOTON.ArmMOTON.ShoulderMOTON.ShoulderDepress"
+- "MOTON.ArmMOTON.ShoulderMOTON.ShoulderElevate"
+- "MOTON.ArmMOTON.ShoulderMOTON.ShoulderProtract"
+- "MOTON.ArmMOTON.ShoulderMOTON.ShoulderRetract"
 
 :::

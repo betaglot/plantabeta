@@ -1,6 +1,6 @@
 # 🟠 <motor>Stomp</motor>
 
-![MooveIkon](/BetaIkon/Mooves_Ikon.png)
+![MOTONIkon](/BetaIkon/MOTONs_Ikon.png)
 
 ## 🕸 Stomp.Skema
 
@@ -33,6 +33,6 @@
 
 <h2>PageTags</h2>
 
-- "Moove.LegMoove.Stomp"
+- "MOTON.LegMOTON.Stomp"
 
 :::

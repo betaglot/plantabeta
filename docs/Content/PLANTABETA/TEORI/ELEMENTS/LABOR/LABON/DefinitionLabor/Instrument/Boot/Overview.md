@@ -1,6 +1,6 @@
-# 🟠 <motor>BootMoove</motor>
+# 🟠 <motor>BootMOTON</motor>
 
-## 🕸 BootMoove.Skema
+## 🕸 BootMOTON.Skema
 
 ### Related 🟩<ekos>Eko</ekos>
 
@@ -31,8 +31,8 @@
 
 <h2>PageTags</h2>
 
-- "Moove.InstrumentMoove.BootMoove.BootOff"
-- "Moove.InstrumentMoove.BootMoove.BootOn"
-- "Moove.InstrumentMoove.BootMoove.Overview"
+- "MOTON.InstrumentMOTON.BootMOTON.BootOff"
+- "MOTON.InstrumentMOTON.BootMOTON.BootOn"
+- "MOTON.InstrumentMOTON.BootMOTON.Overview"
 
 :::

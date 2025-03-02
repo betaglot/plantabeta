@@ -1,10 +1,10 @@
-# 🔷 <beta>What is Beta?</beta>
+# 🔷 <beta>What is PLANTABETA?</beta>
 
-> Beta is the **information** that you use to perform planting tasks.
+> PlantaBeta or "Beta" for short, is the **information** that you use to perform planting tasks.
 
-<beta>Beta</beta> emerges from the interactions between <ekos>Eko</ekos>, <motor>Moove</motor>, <via>Via</via> and <anima>Anima</anima>.
+<beta>Beta</beta> emerges from the interactions between <ekos>EKOS</ekos>, <motor>MOTON</motor>, <via>Via</via> and <anima>Anima</anima>.
 
-![<beta>Beta</beta>Icon](/Beta/Beta_Icon.png)
+![<beta>Beta</beta>Icon](/BetaIkon/Beta_Ikon.png)
 
 ## <beta>Beta Symbol</beta> 🔷
 
@@ -43,7 +43,7 @@ This each line are analog pairs. The equal signs = denotes where Climbing and Pl
 |            <motor>ClimbingShoe</motor> | <motor>PlantingBoot</motor>         |
 |                <beta>Redpoint</beta> | <beta>Replanting Required </beta> |
 |          <beta>Flash, Onsight</beta> | <beta>No replanting </beta>       |
-|         <motor>RockOver Moove </motor>= | = <motor>RockOver Moove </motor>     |
+|         <motor>RockOver MOTON </motor>= | = <motor>RockOver MOTON </motor>     |
 |        <via>ViaFinding</via> = | = <via>ViaFinding</via>     |
 |             <via>One Pitch</via> | <via>One CoverLoop </via>      |
 |                  <motor>Fall</motor> = | = <motor>Fall</motor>               |
@@ -73,7 +73,7 @@ Based on Gymnastics Elements. Elements are completed using Beta Factors. Multipl
 - 🔷Skreef
 - 🔷Rework
 
-### <motor>MooveElement</motor>
+### <motor>MOTONElement</motor>
 
 ### <ekos>EkoElement</ekos>
 
@@ -102,9 +102,9 @@ Via is often a lack of knowledge of what's over the hill or around the corner
 
 - bag weight constrains Via Length
 
-### <motor>Moove Constraints</motor>
+### <motor>MOTON Constraints</motor>
 
-- Moove is metabolic energy
+- MOTON is metabolic energy
 - bag weight
 
 ### <anima>Anima Constraints</anima>
@@ -196,7 +196,7 @@ Only Beta can be the solution
 
 Via Theorem, Via Solution
 
-Via just gives the options, Beta is required to Solve, since solution requires Moove. Beta occurs when more than module is required in 1stPersonPoint of view. Plantor's perspective.
+Via just gives the options, Beta is required to Solve, since solution requires MOTON. Beta occurs when more than module is required in 1stPersonPoint of view. Plantor's perspective.
 
 Anima that just thinks about AnimaElements
 

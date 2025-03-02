@@ -1,4 +1,4 @@
-# 🕸 <anima>Spatial Cognition</anima>
+# 💭 <anima>Spatial Cognition</anima>
 
 - Visuospatial Ability
 - Spatial Visualization
@@ -28,7 +28,7 @@
 
 ## Spatial Pattern
 
-## Spatial Moove
+## Spatial MOTON
 
 ## Cognitive Map
 
@@ -68,7 +68,7 @@ ViaPlan vs. ActualVia
 
 ## <ekos>EcoSpace</ekos>
 
-## <motor>MooveSpace</motor>
+## <motor>MOTONSpace</motor>
 
 ## <via>ViaSpace</via>
 

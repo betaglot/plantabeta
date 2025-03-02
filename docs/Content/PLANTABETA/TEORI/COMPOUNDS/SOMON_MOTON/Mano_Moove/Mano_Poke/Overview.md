@@ -1,6 +1,6 @@
 # 🟠 <motor>HandPoke</motor>
 
-![MooveIkon](/BetaIkon/Mooves_Ikon.png)
+![MOTONIkon](/BetaIkon/MOTONs_Ikon.png)
 
 ---
 
@@ -15,6 +15,6 @@
 
 <h2>PageTags</h2>
 
-- "Moove.ManoMoove.HandPoke"
+- "MOTON.ManoMOTON.HandPoke"
 
 :::

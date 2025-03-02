@@ -1,4 +1,4 @@
-# 🟠 <motor>MooveDefinitions</motor>
+# 🟠 <motor>MOTONDefinitions</motor>
 
 ---
 

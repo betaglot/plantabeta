@@ -1,4 +1,4 @@
-# 🟠<move>Via Moove</move>
+# 🟠<move>Via MOTON</move>
 
 ## Spraction
 
@@ -13,7 +13,7 @@
 <!-- =================================================== -->
 ::: details 🛠 <dev>&&&</dev>
 
-- All ViaMooves are Spractions
+- All ViaMOTONs are Spractions
 - Gesture
     - Pointing at stuff
 

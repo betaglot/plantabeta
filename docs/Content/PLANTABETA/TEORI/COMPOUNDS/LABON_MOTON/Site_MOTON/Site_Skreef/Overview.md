@@ -40,6 +40,6 @@
 <!-- =================================================== -->
 ::: details 🛠 <dev>&&&</dev>
 
-- SiteSkreef is a Moove and an Ekon
+- SiteSkreef is a MOTON and an Ekon
 
 :::

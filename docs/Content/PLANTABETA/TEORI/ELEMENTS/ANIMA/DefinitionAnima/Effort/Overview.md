@@ -12,8 +12,8 @@
 - Effort
     - Exertion
     - Grit
-    - Endurance (Anima+Moove)
-    - Stamina (Anima+Moove)
+    - Endurance (Anima+MOTON)
+    - Stamina (Anima+MOTON)
     - Persistance
     - Perserverance
     - Production

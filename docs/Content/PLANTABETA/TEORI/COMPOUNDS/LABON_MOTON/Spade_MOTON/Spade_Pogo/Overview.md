@@ -1,6 +1,6 @@
 # 🟠 <motor>SpadePogo</motor>
 
-![MooveIkon](/BetaIkon/Mooves_Ikon.png)
+![MOTONIkon](/BetaIkon/MOTONs_Ikon.png)
 
 ## 🕸 SpadePogo.Skema
 
@@ -35,5 +35,5 @@
 
 <h2>PageTags</h2>
 
-- "Moove.InstrumentMoove.SpadeMoove.SpadePogo"
+- "MOTON.InstrumentMOTON.SpadeMOTON.SpadePogo"
 :::

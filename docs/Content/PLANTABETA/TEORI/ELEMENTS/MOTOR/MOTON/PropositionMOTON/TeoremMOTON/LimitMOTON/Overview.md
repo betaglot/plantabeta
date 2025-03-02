@@ -1,4 +1,4 @@
-# 🟠<motor>MooveExtreme</motor>
+# 🟠<motor>MOTONExtreme</motor>
 
 >
 

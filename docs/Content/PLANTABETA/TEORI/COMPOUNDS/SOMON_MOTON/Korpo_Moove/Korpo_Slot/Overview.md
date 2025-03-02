@@ -1,6 +1,6 @@
 # 🟠 <motor>BodySlot</motor>
 
-![MooveIkon](/BetaIkon/Mooves_Ikon.png)
+![MOTONIkon](/BetaIkon/MOTONs_Ikon.png)
 
 ## 🕸 BodySlot.Skema
 
@@ -21,7 +21,7 @@
 - SpadeBlock
 - BodyRotate to decrease your cross sectional Width
 - FootPivot
-- TorsoTwist, so your Bags and hips are LateralMoove, while Torso is facing Anterior
+- TorsoTwist, so your Bags and hips are LateralMOTON, while Torso is facing Anterior
 
 ### Related 💜<anima>Anima</anima>
 
@@ -37,6 +37,6 @@
 ::: details 🛠 <dev>&&&</dev>
 
 - (BodySlot != FloraPass)
-    - Slotting between two trunks or between two rocks doesn't require any FloraMoove
+    - Slotting between two trunks or between two rocks doesn't require any FloraMOTON
 
 :::

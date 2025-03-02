@@ -1,6 +1,6 @@
-# 🟠<motor>BuckleMoove</motor>
+# 🟠<motor>BuckleMOTON</motor>
 
-## 🕸 BuckleMoove.Skema
+## 🕸 BuckleMOTON.Skema
 
 ### Related 🟩<ekos>Eko</ekos>
 

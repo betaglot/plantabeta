@@ -2,7 +2,7 @@
 
 > Looking up
 
-![MooveIkon](/BetaIkon/Mooves_Ikon.png)
+![MOTONIkon](/BetaIkon/MOTONs_Ikon.png)
 
 ## 🕸 NeckExtension.Skema
 
@@ -35,5 +35,5 @@
 
 <h2>PageTags</h2>
 
-- "Moove.HeadMoove.NeckExtension"
+- "MOTON.HeadMOTON.NeckExtension"
 :::

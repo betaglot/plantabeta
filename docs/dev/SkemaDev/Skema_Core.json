@@ -652,728 +652,728 @@
         "Namespace": "reference/Labor/TeoriLabor/ElementsLabor/PropositionsLabor/TeoremLabor/TeoremMarka"
     },
     {
-        "ElementName": "Mooves",
-        "Namespace": "reference/Mooves"
+        "ElementName": "MOTONs",
+        "Namespace": "reference/MOTONs"
     },
     {
-        "ElementName": "PraktikMooves",
-        "Namespace": "reference/Mooves/PraktikMooves"
+        "ElementName": "PraktikMOTONs",
+        "Namespace": "reference/MOTONs/PraktikMOTONs"
     },
     {
-        "ElementName": "CompositionsMooves",
-        "Namespace": "reference/Mooves/PraktikMooves/CompositionsMooves"
-    },
-    {
-        "ElementName": "Frase",
-        "Namespace": "reference/Mooves/PraktikMooves/CompositionsMooves/Frase"
-    },
-    {
-        "ElementName": "ErrorMooves",
-        "Namespace": "reference/Mooves/PraktikMooves/ErrorMooves"
-    },
-    {
-        "ElementName": "TeoriMooves",
-        "Namespace": "reference/Mooves/TeoriMooves"
-    },
-    {
-        "ElementName": "AxiomsMooves",
-        "Namespace": "reference/Mooves/TeoriMooves/AxiomsMooves"
-    },
-    {
-        "ElementName": "DefinitionsMooves",
-        "Namespace": "reference/Mooves/TeoriMooves/DefinitionsMooves"
-    },
-    {
-        "ElementName": "AtributsMoove",
-        "Namespace": "reference/Mooves/TeoriMooves/DefinitionsMooves/AtributsMoove"
-    },
-    {
-        "ElementName": "MetodsMoove",
-        "Namespace": "reference/Mooves/TeoriMooves/DefinitionsMooves/MetodsMoove"
-    },
-    {
-        "ElementName": "MoovesPlane",
-        "Namespace": "reference/Mooves/TeoriMooves/DefinitionsMooves/MoovesPlane"
-    },
-    {
-        "ElementName": "PropositionsMooves",
-        "Namespace": "reference/Mooves/TeoriMooves/PropositionsMooves"
-    },
-    {
-        "ElementName": "ProblemsMooves",
-        "Namespace": "reference/Mooves/TeoriMooves/PropositionsMooves/ProblemsMooves"
-    },
-    {
-        "ElementName": "TeoremsMooves",
-        "Namespace": "reference/Mooves/TeoriMooves/PropositionsMooves/TeoremsMooves"
-    },
-    {
-        "ElementName": "DensityMooves",
-        "Namespace": "reference/Mooves/TeoriMooves/PropositionsMooves/TeoremsMooves/DensityMooves"
-    },
-    {
-        "ElementName": "EkonMooves",
-        "Namespace": "reference/Mooves/TeoriMooves/PropositionsMooves/TeoremsMooves/EkonMooves"
-    },
-    {
-        "ElementName": "FloraMooves",
-        "Namespace": "reference/Mooves/TeoriMooves/PropositionsMooves/TeoremsMooves/EkonMooves/FloraMooves"
-    },
-    {
-        "ElementName": "BranchMooves",
-        "Namespace": "reference/Mooves/TeoriMooves/PropositionsMooves/TeoremsMooves/EkonMooves/FloraMooves/BranchMooves"
+        "ElementName": "CompositionsMOTONs",
+        "Namespace": "reference/MOTONs/PraktikMOTONs/CompositionsMOTONs"
     },
     {
         "ElementName": "Frase",
-        "Namespace": "reference/Mooves/TeoriMooves/PropositionsMooves/TeoremsMooves/EkonMooves/FloraMooves/Frase"
+        "Namespace": "reference/MOTONs/PraktikMOTONs/CompositionsMOTONs/Frase"
     },
     {
-        "ElementName": "TrunkMooves",
-        "Namespace": "reference/Mooves/TeoriMooves/PropositionsMooves/TeoremsMooves/EkonMooves/FloraMooves/TrunkMooves"
+        "ElementName": "ErrorMOTONs",
+        "Namespace": "reference/MOTONs/PraktikMOTONs/ErrorMOTONs"
     },
     {
-        "ElementName": "LaborMooves",
-        "Namespace": "reference/Mooves/TeoriMooves/PropositionsMooves/TeoremsMooves/LaborMooves"
+        "ElementName": "TeoriMOTONs",
+        "Namespace": "reference/MOTONs/TeoriMOTONs"
     },
     {
-        "ElementName": "BootMooves",
-        "Namespace": "reference/Mooves/TeoriMooves/PropositionsMooves/TeoremsMooves/LaborMooves/BootMooves"
+        "ElementName": "AxiomsMOTONs",
+        "Namespace": "reference/MOTONs/TeoriMOTONs/AxiomsMOTONs"
     },
     {
-        "ElementName": "Frase",
-        "Namespace": "reference/Mooves/TeoriMooves/PropositionsMooves/TeoremsMooves/LaborMooves/BootMooves/Frase"
+        "ElementName": "DefinitionsMOTONs",
+        "Namespace": "reference/MOTONs/TeoriMOTONs/DefinitionsMOTONs"
     },
     {
-        "ElementName": "BottleMooves",
-        "Namespace": "reference/Mooves/TeoriMooves/PropositionsMooves/TeoremsMooves/LaborMooves/BottleMooves"
+        "ElementName": "AtributsMOTON",
+        "Namespace": "reference/MOTONs/TeoriMOTONs/DefinitionsMOTONs/AtributsMOTON"
     },
     {
-        "ElementName": "BoxMooves",
-        "Namespace": "reference/Mooves/TeoriMooves/PropositionsMooves/TeoremsMooves/LaborMooves/BoxMooves"
+        "ElementName": "MetodsMOTON",
+        "Namespace": "reference/MOTONs/TeoriMOTONs/DefinitionsMOTONs/MetodsMOTON"
     },
     {
-        "ElementName": "Frase",
-        "Namespace": "reference/Mooves/TeoriMooves/PropositionsMooves/TeoremsMooves/LaborMooves/BoxMooves/Frase"
+        "ElementName": "MOTONsPlane",
+        "Namespace": "reference/MOTONs/TeoriMOTONs/DefinitionsMOTONs/MOTONsPlane"
     },
     {
-        "ElementName": "BundleMooves",
-        "Namespace": "reference/Mooves/TeoriMooves/PropositionsMooves/TeoremsMooves/LaborMooves/BundleMooves"
+        "ElementName": "PropositionsMOTONs",
+        "Namespace": "reference/MOTONs/TeoriMOTONs/PropositionsMOTONs"
     },
     {
-        "ElementName": "CacheMooves",
-        "Namespace": "reference/Mooves/TeoriMooves/PropositionsMooves/TeoremsMooves/LaborMooves/CacheMooves"
+        "ElementName": "ProblemsMOTONs",
+        "Namespace": "reference/MOTONs/TeoriMOTONs/PropositionsMOTONs/ProblemsMOTONs"
     },
     {
-        "ElementName": "Frase",
-        "Namespace": "reference/Mooves/TeoriMooves/PropositionsMooves/TeoremsMooves/LaborMooves/CacheMooves/Frase"
+        "ElementName": "TeoremsMOTONs",
+        "Namespace": "reference/MOTONs/TeoriMOTONs/PropositionsMOTONs/TeoremsMOTONs"
     },
     {
-        "ElementName": "ClothingMooves",
-        "Namespace": "reference/Mooves/TeoriMooves/PropositionsMooves/TeoremsMooves/LaborMooves/ClothingMooves"
+        "ElementName": "DensityMOTONs",
+        "Namespace": "reference/MOTONs/TeoriMOTONs/PropositionsMOTONs/TeoremsMOTONs/DensityMOTONs"
     },
     {
-        "ElementName": "BaseLayerMoove",
-        "Namespace": "reference/Mooves/TeoriMooves/PropositionsMooves/TeoremsMooves/LaborMooves/ClothingMooves/BaseLayerMoove"
+        "ElementName": "EkonMOTONs",
+        "Namespace": "reference/MOTONs/TeoriMOTONs/PropositionsMOTONs/TeoremsMOTONs/EkonMOTONs"
     },
     {
-        "ElementName": "FastenerMoove",
-        "Namespace": "reference/Mooves/TeoriMooves/PropositionsMooves/TeoremsMooves/LaborMooves/ClothingMooves/FastenerMoove"
+        "ElementName": "FloraMOTONs",
+        "Namespace": "reference/MOTONs/TeoriMOTONs/PropositionsMOTONs/TeoremsMOTONs/EkonMOTONs/FloraMOTONs"
     },
     {
-        "ElementName": "Frase",
-        "Namespace": "reference/Mooves/TeoriMooves/PropositionsMooves/TeoremsMooves/LaborMooves/ClothingMooves/Frase"
-    },
-    {
-        "ElementName": "InsulationLayerMoove",
-        "Namespace": "reference/Mooves/TeoriMooves/PropositionsMooves/TeoremsMooves/LaborMooves/ClothingMooves/InsulationLayerMoove"
-    },
-    {
-        "ElementName": "ShellLayerMoove",
-        "Namespace": "reference/Mooves/TeoriMooves/PropositionsMooves/TeoremsMooves/LaborMooves/ClothingMooves/ShellLayerMoove"
-    },
-    {
-        "ElementName": "DendronMooves",
-        "Namespace": "reference/Mooves/TeoriMooves/PropositionsMooves/TeoremsMooves/LaborMooves/DendronMooves"
-    },
-    {
-        "ElementName": "DoruMooves",
-        "Namespace": "reference/Mooves/TeoriMooves/PropositionsMooves/TeoremsMooves/LaborMooves/DoruMooves"
+        "ElementName": "BranchMOTONs",
+        "Namespace": "reference/MOTONs/TeoriMOTONs/PropositionsMOTONs/TeoremsMOTONs/EkonMOTONs/FloraMOTONs/BranchMOTONs"
     },
     {
         "ElementName": "Frase",
-        "Namespace": "reference/Mooves/TeoriMooves/PropositionsMooves/TeoremsMooves/LaborMooves/DoruMooves/Frase"
+        "Namespace": "reference/MOTONs/TeoriMOTONs/PropositionsMOTONs/TeoremsMOTONs/EkonMOTONs/FloraMOTONs/Frase"
     },
     {
-        "ElementName": "GloveMooves",
-        "Namespace": "reference/Mooves/TeoriMooves/PropositionsMooves/TeoremsMooves/LaborMooves/GloveMooves"
+        "ElementName": "TrunkMOTONs",
+        "Namespace": "reference/MOTONs/TeoriMOTONs/PropositionsMOTONs/TeoremsMOTONs/EkonMOTONs/FloraMOTONs/TrunkMOTONs"
     },
     {
-        "ElementName": "Frase",
-        "Namespace": "reference/Mooves/TeoriMooves/PropositionsMooves/TeoremsMooves/LaborMooves/GloveMooves/Frase"
+        "ElementName": "LaborMOTONs",
+        "Namespace": "reference/MOTONs/TeoriMOTONs/PropositionsMOTONs/TeoremsMOTONs/LaborMOTONs"
     },
     {
-        "ElementName": "KarabinerMooves",
-        "Namespace": "reference/Mooves/TeoriMooves/PropositionsMooves/TeoremsMooves/LaborMooves/KarabinerMooves"
-    },
-    {
-        "ElementName": "KitMooves",
-        "Namespace": "reference/Mooves/TeoriMooves/PropositionsMooves/TeoremsMooves/LaborMooves/KitMooves"
+        "ElementName": "BootMOTONs",
+        "Namespace": "reference/MOTONs/TeoriMOTONs/PropositionsMOTONs/TeoremsMOTONs/LaborMOTONs/BootMOTONs"
     },
     {
         "ElementName": "Frase",
-        "Namespace": "reference/Mooves/TeoriMooves/PropositionsMooves/TeoremsMooves/LaborMooves/KitMooves/Frase"
+        "Namespace": "reference/MOTONs/TeoriMOTONs/PropositionsMOTONs/TeoremsMOTONs/LaborMOTONs/BootMOTONs/Frase"
     },
     {
-        "ElementName": "MarkaMooves",
-        "Namespace": "reference/Mooves/TeoriMooves/PropositionsMooves/TeoremsMooves/LaborMooves/MarkaMooves"
+        "ElementName": "BottleMOTONs",
+        "Namespace": "reference/MOTONs/TeoriMOTONs/PropositionsMOTONs/TeoremsMOTONs/LaborMOTONs/BottleMOTONs"
+    },
+    {
+        "ElementName": "BoxMOTONs",
+        "Namespace": "reference/MOTONs/TeoriMOTONs/PropositionsMOTONs/TeoremsMOTONs/LaborMOTONs/BoxMOTONs"
     },
     {
         "ElementName": "Frase",
-        "Namespace": "reference/Mooves/TeoriMooves/PropositionsMooves/TeoremsMooves/LaborMooves/MarkaMooves/Frase"
+        "Namespace": "reference/MOTONs/TeoriMOTONs/PropositionsMOTONs/TeoremsMOTONs/LaborMOTONs/BoxMOTONs/Frase"
     },
     {
-        "ElementName": "PlantaforMooves",
-        "Namespace": "reference/Mooves/TeoriMooves/PropositionsMooves/TeoremsMooves/LaborMooves/PlantaforMooves"
+        "ElementName": "BundleMOTONs",
+        "Namespace": "reference/MOTONs/TeoriMOTONs/PropositionsMOTONs/TeoremsMOTONs/LaborMOTONs/BundleMOTONs"
+    },
+    {
+        "ElementName": "CacheMOTONs",
+        "Namespace": "reference/MOTONs/TeoriMOTONs/PropositionsMOTONs/TeoremsMOTONs/LaborMOTONs/CacheMOTONs"
+    },
+    {
+        "ElementName": "Frase",
+        "Namespace": "reference/MOTONs/TeoriMOTONs/PropositionsMOTONs/TeoremsMOTONs/LaborMOTONs/CacheMOTONs/Frase"
+    },
+    {
+        "ElementName": "ClothingMOTONs",
+        "Namespace": "reference/MOTONs/TeoriMOTONs/PropositionsMOTONs/TeoremsMOTONs/LaborMOTONs/ClothingMOTONs"
+    },
+    {
+        "ElementName": "BaseLayerMOTON",
+        "Namespace": "reference/MOTONs/TeoriMOTONs/PropositionsMOTONs/TeoremsMOTONs/LaborMOTONs/ClothingMOTONs/BaseLayerMOTON"
+    },
+    {
+        "ElementName": "FastenerMOTON",
+        "Namespace": "reference/MOTONs/TeoriMOTONs/PropositionsMOTONs/TeoremsMOTONs/LaborMOTONs/ClothingMOTONs/FastenerMOTON"
+    },
+    {
+        "ElementName": "Frase",
+        "Namespace": "reference/MOTONs/TeoriMOTONs/PropositionsMOTONs/TeoremsMOTONs/LaborMOTONs/ClothingMOTONs/Frase"
+    },
+    {
+        "ElementName": "InsulationLayerMOTON",
+        "Namespace": "reference/MOTONs/TeoriMOTONs/PropositionsMOTONs/TeoremsMOTONs/LaborMOTONs/ClothingMOTONs/InsulationLayerMOTON"
+    },
+    {
+        "ElementName": "ShellLayerMOTON",
+        "Namespace": "reference/MOTONs/TeoriMOTONs/PropositionsMOTONs/TeoremsMOTONs/LaborMOTONs/ClothingMOTONs/ShellLayerMOTON"
+    },
+    {
+        "ElementName": "DendronMOTONs",
+        "Namespace": "reference/MOTONs/TeoriMOTONs/PropositionsMOTONs/TeoremsMOTONs/LaborMOTONs/DendronMOTONs"
+    },
+    {
+        "ElementName": "DoruMOTONs",
+        "Namespace": "reference/MOTONs/TeoriMOTONs/PropositionsMOTONs/TeoremsMOTONs/LaborMOTONs/DoruMOTONs"
+    },
+    {
+        "ElementName": "Frase",
+        "Namespace": "reference/MOTONs/TeoriMOTONs/PropositionsMOTONs/TeoremsMOTONs/LaborMOTONs/DoruMOTONs/Frase"
+    },
+    {
+        "ElementName": "GloveMOTONs",
+        "Namespace": "reference/MOTONs/TeoriMOTONs/PropositionsMOTONs/TeoremsMOTONs/LaborMOTONs/GloveMOTONs"
+    },
+    {
+        "ElementName": "Frase",
+        "Namespace": "reference/MOTONs/TeoriMOTONs/PropositionsMOTONs/TeoremsMOTONs/LaborMOTONs/GloveMOTONs/Frase"
+    },
+    {
+        "ElementName": "KarabinerMOTONs",
+        "Namespace": "reference/MOTONs/TeoriMOTONs/PropositionsMOTONs/TeoremsMOTONs/LaborMOTONs/KarabinerMOTONs"
+    },
+    {
+        "ElementName": "KitMOTONs",
+        "Namespace": "reference/MOTONs/TeoriMOTONs/PropositionsMOTONs/TeoremsMOTONs/LaborMOTONs/KitMOTONs"
+    },
+    {
+        "ElementName": "Frase",
+        "Namespace": "reference/MOTONs/TeoriMOTONs/PropositionsMOTONs/TeoremsMOTONs/LaborMOTONs/KitMOTONs/Frase"
+    },
+    {
+        "ElementName": "MarkaMOTONs",
+        "Namespace": "reference/MOTONs/TeoriMOTONs/PropositionsMOTONs/TeoremsMOTONs/LaborMOTONs/MarkaMOTONs"
+    },
+    {
+        "ElementName": "Frase",
+        "Namespace": "reference/MOTONs/TeoriMOTONs/PropositionsMOTONs/TeoremsMOTONs/LaborMOTONs/MarkaMOTONs/Frase"
+    },
+    {
+        "ElementName": "PlantaforMOTONs",
+        "Namespace": "reference/MOTONs/TeoriMOTONs/PropositionsMOTONs/TeoremsMOTONs/LaborMOTONs/PlantaforMOTONs"
     },
     {
         "ElementName": "BagMovesTeorems",
-        "Namespace": "reference/Mooves/TeoriMooves/PropositionsMooves/TeoremsMooves/LaborMooves/PlantaforMooves/BagMovesTeorems"
+        "Namespace": "reference/MOTONs/TeoriMOTONs/PropositionsMOTONs/TeoremsMOTONs/LaborMOTONs/PlantaforMOTONs/BagMovesTeorems"
     },
     {
         "ElementName": "Frase",
-        "Namespace": "reference/Mooves/TeoriMooves/PropositionsMooves/TeoremsMooves/LaborMooves/PlantaforMooves/Frase"
+        "Namespace": "reference/MOTONs/TeoriMOTONs/PropositionsMOTONs/TeoremsMOTONs/LaborMOTONs/PlantaforMOTONs/Frase"
     },
     {
         "ElementName": "PlantaforKontakts",
-        "Namespace": "reference/Mooves/TeoriMooves/PropositionsMooves/TeoremsMooves/LaborMooves/PlantaforMooves/PlantaforKontakts"
+        "Namespace": "reference/MOTONs/TeoriMOTONs/PropositionsMOTONs/TeoremsMOTONs/LaborMOTONs/PlantaforMOTONs/PlantaforKontakts"
     },
     {
-        "ElementName": "RadiorMooves",
-        "Namespace": "reference/Mooves/TeoriMooves/PropositionsMooves/TeoremsMooves/LaborMooves/RadiorMooves"
+        "ElementName": "RadiorMOTONs",
+        "Namespace": "reference/MOTONs/TeoriMOTONs/PropositionsMOTONs/TeoremsMOTONs/LaborMOTONs/RadiorMOTONs"
     },
     {
-        "ElementName": "RepairMooves",
-        "Namespace": "reference/Mooves/TeoriMooves/PropositionsMooves/TeoremsMooves/LaborMooves/RepairMooves"
-    },
-    {
-        "ElementName": "Frase",
-        "Namespace": "reference/Mooves/TeoriMooves/PropositionsMooves/TeoremsMooves/LaborMooves/RepairMooves/Frase"
-    },
-    {
-        "ElementName": "RopeMooves",
-        "Namespace": "reference/Mooves/TeoriMooves/PropositionsMooves/TeoremsMooves/LaborMooves/RopeMooves"
+        "ElementName": "RepairMOTONs",
+        "Namespace": "reference/MOTONs/TeoriMOTONs/PropositionsMOTONs/TeoremsMOTONs/LaborMOTONs/RepairMOTONs"
     },
     {
         "ElementName": "Frase",
-        "Namespace": "reference/Mooves/TeoriMooves/PropositionsMooves/TeoremsMooves/LaborMooves/RopeMooves/Frase"
+        "Namespace": "reference/MOTONs/TeoriMOTONs/PropositionsMOTONs/TeoremsMOTONs/LaborMOTONs/RepairMOTONs/Frase"
     },
     {
-        "ElementName": "SiteMooves",
-        "Namespace": "reference/Mooves/TeoriMooves/PropositionsMooves/TeoremsMooves/LaborMooves/SiteMooves"
-    },
-    {
-        "ElementName": "Frase",
-        "Namespace": "reference/Mooves/TeoriMooves/PropositionsMooves/TeoremsMooves/LaborMooves/SiteMooves/Frase"
-    },
-    {
-        "ElementName": "SpadeMooves",
-        "Namespace": "reference/Mooves/TeoriMooves/PropositionsMooves/TeoremsMooves/LaborMooves/SpadeMooves"
+        "ElementName": "RopeMOTONs",
+        "Namespace": "reference/MOTONs/TeoriMOTONs/PropositionsMOTONs/TeoremsMOTONs/LaborMOTONs/RopeMOTONs"
     },
     {
         "ElementName": "Frase",
-        "Namespace": "reference/Mooves/TeoriMooves/PropositionsMooves/TeoremsMooves/LaborMooves/SpadeMooves/Frase"
+        "Namespace": "reference/MOTONs/TeoriMOTONs/PropositionsMOTONs/TeoremsMOTONs/LaborMOTONs/RopeMOTONs/Frase"
+    },
+    {
+        "ElementName": "SiteMOTONs",
+        "Namespace": "reference/MOTONs/TeoriMOTONs/PropositionsMOTONs/TeoremsMOTONs/LaborMOTONs/SiteMOTONs"
+    },
+    {
+        "ElementName": "Frase",
+        "Namespace": "reference/MOTONs/TeoriMOTONs/PropositionsMOTONs/TeoremsMOTONs/LaborMOTONs/SiteMOTONs/Frase"
+    },
+    {
+        "ElementName": "SpadeMOTONs",
+        "Namespace": "reference/MOTONs/TeoriMOTONs/PropositionsMOTONs/TeoremsMOTONs/LaborMOTONs/SpadeMOTONs"
+    },
+    {
+        "ElementName": "Frase",
+        "Namespace": "reference/MOTONs/TeoriMOTONs/PropositionsMOTONs/TeoremsMOTONs/LaborMOTONs/SpadeMOTONs/Frase"
     },
     {
         "ElementName": "SpadeKontakts",
-        "Namespace": "reference/Mooves/TeoriMooves/PropositionsMooves/TeoremsMooves/LaborMooves/SpadeMooves/SpadeKontakts"
+        "Namespace": "reference/MOTONs/TeoriMOTONs/PropositionsMOTONs/TeoremsMOTONs/LaborMOTONs/SpadeMOTONs/SpadeKontakts"
     },
     {
-        "ElementName": "TibiorMooves",
-        "Namespace": "reference/Mooves/TeoriMooves/PropositionsMooves/TeoremsMooves/LaborMooves/TibiorMooves"
+        "ElementName": "TibiorMOTONs",
+        "Namespace": "reference/MOTONs/TeoriMOTONs/PropositionsMOTONs/TeoremsMOTONs/LaborMOTONs/TibiorMOTONs"
     },
     {
-        "ElementName": "TruckMooves",
-        "Namespace": "reference/Mooves/TeoriMooves/PropositionsMooves/TeoremsMooves/LaborMooves/TruckMooves"
+        "ElementName": "TruckMOTONs",
+        "Namespace": "reference/MOTONs/TeoriMOTONs/PropositionsMOTONs/TeoremsMOTONs/LaborMOTONs/TruckMOTONs"
     },
     {
         "ElementName": "Frase",
-        "Namespace": "reference/Mooves/TeoriMooves/PropositionsMooves/TeoremsMooves/LaborMooves/TruckMooves/Frase"
+        "Namespace": "reference/MOTONs/TeoriMOTONs/PropositionsMOTONs/TeoremsMOTONs/LaborMOTONs/TruckMOTONs/Frase"
     },
     {
-        "ElementName": "LimitMooves",
-        "Namespace": "reference/Mooves/TeoriMooves/PropositionsMooves/TeoremsMooves/LimitMooves"
+        "ElementName": "LimitMOTONs",
+        "Namespace": "reference/MOTONs/TeoriMOTONs/PropositionsMOTONs/TeoremsMOTONs/LimitMOTONs"
     },
     {
-        "ElementName": "LineMooves",
-        "Namespace": "reference/Mooves/TeoriMooves/PropositionsMooves/TeoremsMooves/LineMooves"
+        "ElementName": "LineMOTONs",
+        "Namespace": "reference/MOTONs/TeoriMOTONs/PropositionsMOTONs/TeoremsMOTONs/LineMOTONs"
     },
     {
-        "ElementName": "PlantorMooves",
-        "Namespace": "reference/Mooves/TeoriMooves/PropositionsMooves/TeoremsMooves/PlantorMooves"
+        "ElementName": "PlantorMOTONs",
+        "Namespace": "reference/MOTONs/TeoriMOTONs/PropositionsMOTONs/TeoremsMOTONs/PlantorMOTONs"
     },
     {
-        "ElementName": "BaseMooves",
-        "Namespace": "reference/Mooves/TeoriMooves/PropositionsMooves/TeoremsMooves/PlantorMooves/BaseMooves"
+        "ElementName": "BaseMOTONs",
+        "Namespace": "reference/MOTONs/TeoriMOTONs/PropositionsMOTONs/TeoremsMOTONs/PlantorMOTONs/BaseMOTONs"
     },
     {
         "ElementName": "BaseAbduction",
-        "Namespace": "reference/Mooves/TeoriMooves/PropositionsMooves/TeoremsMooves/PlantorMooves/BaseMooves/BaseAbduction"
+        "Namespace": "reference/MOTONs/TeoriMOTONs/PropositionsMOTONs/TeoremsMOTONs/PlantorMOTONs/BaseMOTONs/BaseAbduction"
     },
     {
         "ElementName": "BaseAbsorb",
-        "Namespace": "reference/Mooves/TeoriMooves/PropositionsMooves/TeoremsMooves/PlantorMooves/BaseMooves/BaseAbsorb"
+        "Namespace": "reference/MOTONs/TeoriMOTONs/PropositionsMOTONs/TeoremsMOTONs/PlantorMOTONs/BaseMOTONs/BaseAbsorb"
     },
     {
         "ElementName": "BaseAdduction",
-        "Namespace": "reference/Mooves/TeoriMooves/PropositionsMooves/TeoremsMooves/PlantorMooves/BaseMooves/BaseAdduction"
+        "Namespace": "reference/MOTONs/TeoriMOTONs/PropositionsMOTONs/TeoremsMOTONs/PlantorMOTONs/BaseMOTONs/BaseAdduction"
     },
     {
         "ElementName": "BaseAma",
-        "Namespace": "reference/Mooves/TeoriMooves/PropositionsMooves/TeoremsMooves/PlantorMooves/BaseMooves/BaseAma"
+        "Namespace": "reference/MOTONs/TeoriMOTONs/PropositionsMOTONs/TeoremsMOTONs/PlantorMOTONs/BaseMOTONs/BaseAma"
     },
     {
         "ElementName": "BaseDig",
-        "Namespace": "reference/Mooves/TeoriMooves/PropositionsMooves/TeoremsMooves/PlantorMooves/BaseMooves/BaseDig"
+        "Namespace": "reference/MOTONs/TeoriMOTONs/PropositionsMOTONs/TeoremsMOTONs/PlantorMOTONs/BaseMOTONs/BaseDig"
     },
     {
         "ElementName": "BaseDorsiflexion",
-        "Namespace": "reference/Mooves/TeoriMooves/PropositionsMooves/TeoremsMooves/PlantorMooves/BaseMooves/BaseDorsiflexion"
+        "Namespace": "reference/MOTONs/TeoriMOTONs/PropositionsMOTONs/TeoremsMOTONs/PlantorMOTONs/BaseMOTONs/BaseDorsiflexion"
     },
     {
         "ElementName": "BaseDrag",
-        "Namespace": "reference/Mooves/TeoriMooves/PropositionsMooves/TeoremsMooves/PlantorMooves/BaseMooves/BaseDrag"
+        "Namespace": "reference/MOTONs/TeoriMOTONs/PropositionsMOTONs/TeoremsMOTONs/PlantorMOTONs/BaseMOTONs/BaseDrag"
     },
     {
         "ElementName": "BaseError",
-        "Namespace": "reference/Mooves/TeoriMooves/PropositionsMooves/TeoremsMooves/PlantorMooves/BaseMooves/BaseError"
+        "Namespace": "reference/MOTONs/TeoriMOTONs/PropositionsMOTONs/TeoremsMOTONs/PlantorMOTONs/BaseMOTONs/BaseError"
     },
     {
         "ElementName": "BaseEversion",
-        "Namespace": "reference/Mooves/TeoriMooves/PropositionsMooves/TeoremsMooves/PlantorMooves/BaseMooves/BaseEversion"
+        "Namespace": "reference/MOTONs/TeoriMOTONs/PropositionsMOTONs/TeoremsMOTONs/PlantorMOTONs/BaseMOTONs/BaseEversion"
     },
     {
         "ElementName": "BaseExRotation",
-        "Namespace": "reference/Mooves/TeoriMooves/PropositionsMooves/TeoremsMooves/PlantorMooves/BaseMooves/BaseExRotation"
+        "Namespace": "reference/MOTONs/TeoriMOTONs/PropositionsMOTONs/TeoremsMOTONs/PlantorMOTONs/BaseMOTONs/BaseExRotation"
     },
     {
         "ElementName": "BaseFlexion",
-        "Namespace": "reference/Mooves/TeoriMooves/PropositionsMooves/TeoremsMooves/PlantorMooves/BaseMooves/BaseFlexion"
+        "Namespace": "reference/MOTONs/TeoriMOTONs/PropositionsMOTONs/TeoremsMOTONs/PlantorMOTONs/BaseMOTONs/BaseFlexion"
     },
     {
         "ElementName": "BaseInRotation",
-        "Namespace": "reference/Mooves/TeoriMooves/PropositionsMooves/TeoremsMooves/PlantorMooves/BaseMooves/BaseInRotation"
+        "Namespace": "reference/MOTONs/TeoriMOTONs/PropositionsMOTONs/TeoremsMOTONs/PlantorMOTONs/BaseMOTONs/BaseInRotation"
     },
     {
         "ElementName": "BaseInversion",
-        "Namespace": "reference/Mooves/TeoriMooves/PropositionsMooves/TeoremsMooves/PlantorMooves/BaseMooves/BaseInversion"
+        "Namespace": "reference/MOTONs/TeoriMOTONs/PropositionsMOTONs/TeoremsMOTONs/PlantorMOTONs/BaseMOTONs/BaseInversion"
     },
     {
         "ElementName": "BaseOnda",
-        "Namespace": "reference/Mooves/TeoriMooves/PropositionsMooves/TeoremsMooves/PlantorMooves/BaseMooves/BaseOnda"
+        "Namespace": "reference/MOTONs/TeoriMOTONs/PropositionsMOTONs/TeoremsMOTONs/PlantorMOTONs/BaseMOTONs/BaseOnda"
     },
     {
         "ElementName": "BasePop",
-        "Namespace": "reference/Mooves/TeoriMooves/PropositionsMooves/TeoremsMooves/PlantorMooves/BaseMooves/BasePop"
+        "Namespace": "reference/MOTONs/TeoriMOTONs/PropositionsMOTONs/TeoremsMOTONs/PlantorMOTONs/BaseMOTONs/BasePop"
     },
     {
         "ElementName": "BaseSkreef",
-        "Namespace": "reference/Mooves/TeoriMooves/PropositionsMooves/TeoremsMooves/PlantorMooves/BaseMooves/BaseSkreef"
+        "Namespace": "reference/MOTONs/TeoriMOTONs/PropositionsMOTONs/TeoremsMOTONs/PlantorMOTONs/BaseMOTONs/BaseSkreef"
     },
     {
         "ElementName": "Frase",
-        "Namespace": "reference/Mooves/TeoriMooves/PropositionsMooves/TeoremsMooves/PlantorMooves/BaseMooves/Frase"
+        "Namespace": "reference/MOTONs/TeoriMOTONs/PropositionsMOTONs/TeoremsMOTONs/PlantorMOTONs/BaseMOTONs/Frase"
     },
     {
         "ElementName": "Kneel",
-        "Namespace": "reference/Mooves/TeoriMooves/PropositionsMooves/TeoremsMooves/PlantorMooves/BaseMooves/Kneel"
+        "Namespace": "reference/MOTONs/TeoriMOTONs/PropositionsMOTONs/TeoremsMOTONs/PlantorMOTONs/BaseMOTONs/Kneel"
     },
     {
         "ElementName": "Overview",
-        "Namespace": "reference/Mooves/TeoriMooves/PropositionsMooves/TeoremsMooves/PlantorMooves/BaseMooves/Overview"
+        "Namespace": "reference/MOTONs/TeoriMOTONs/PropositionsMOTONs/TeoremsMOTONs/PlantorMOTONs/BaseMOTONs/Overview"
     },
     {
         "ElementName": "PlantarFlexion",
-        "Namespace": "reference/Mooves/TeoriMooves/PropositionsMooves/TeoremsMooves/PlantorMooves/BaseMooves/PlantarFlexion"
+        "Namespace": "reference/MOTONs/TeoriMOTONs/PropositionsMOTONs/TeoremsMOTONs/PlantorMOTONs/BaseMOTONs/PlantarFlexion"
     },
     {
         "ElementName": "RunStart",
-        "Namespace": "reference/Mooves/TeoriMooves/PropositionsMooves/TeoremsMooves/PlantorMooves/BaseMooves/RunStart"
+        "Namespace": "reference/MOTONs/TeoriMOTONs/PropositionsMOTONs/TeoremsMOTONs/PlantorMOTONs/BaseMOTONs/RunStart"
     },
     {
         "ElementName": "Step",
-        "Namespace": "reference/Mooves/TeoriMooves/PropositionsMooves/TeoremsMooves/PlantorMooves/BaseMooves/Step"
+        "Namespace": "reference/MOTONs/TeoriMOTONs/PropositionsMOTONs/TeoremsMOTONs/PlantorMOTONs/BaseMOTONs/Step"
     },
     {
         "ElementName": "Stomp",
-        "Namespace": "reference/Mooves/TeoriMooves/PropositionsMooves/TeoremsMooves/PlantorMooves/BaseMooves/Stomp"
+        "Namespace": "reference/MOTONs/TeoriMOTONs/PropositionsMOTONs/TeoremsMOTONs/PlantorMOTONs/BaseMOTONs/Stomp"
     },
     {
         "ElementName": "TeoremsBaseKlose",
-        "Namespace": "reference/Mooves/TeoriMooves/PropositionsMooves/TeoremsMooves/PlantorMooves/BaseMooves/TeoremsBaseKlose"
+        "Namespace": "reference/MOTONs/TeoriMOTONs/PropositionsMOTONs/TeoremsMOTONs/PlantorMOTONs/BaseMOTONs/TeoremsBaseKlose"
     },
     {
         "ElementName": "TeoremsBaseKontakt",
-        "Namespace": "reference/Mooves/TeoriMooves/PropositionsMooves/TeoremsMooves/PlantorMooves/BaseMooves/TeoremsBaseKontakt"
+        "Namespace": "reference/MOTONs/TeoriMOTONs/PropositionsMOTONs/TeoremsMOTONs/PlantorMOTONs/BaseMOTONs/TeoremsBaseKontakt"
     },
     {
-        "ElementName": "BrazoMooves",
-        "Namespace": "reference/Mooves/TeoriMooves/PropositionsMooves/TeoremsMooves/PlantorMooves/BrazoMooves"
+        "ElementName": "BrazoMOTONs",
+        "Namespace": "reference/MOTONs/TeoriMOTONs/PropositionsMOTONs/TeoremsMOTONs/PlantorMOTONs/BrazoMOTONs"
     },
     {
         "ElementName": "BrazoAma",
-        "Namespace": "reference/Mooves/TeoriMooves/PropositionsMooves/TeoremsMooves/PlantorMooves/BrazoMooves/BrazoAma"
+        "Namespace": "reference/MOTONs/TeoriMOTONs/PropositionsMOTONs/TeoremsMOTONs/PlantorMOTONs/BrazoMOTONs/BrazoAma"
     },
     {
         "ElementName": "BrazoAnteriorAma",
-        "Namespace": "reference/Mooves/TeoriMooves/PropositionsMooves/TeoremsMooves/PlantorMooves/BrazoMooves/BrazoAma/BrazoAnteriorAma"
+        "Namespace": "reference/MOTONs/TeoriMOTONs/PropositionsMOTONs/TeoremsMOTONs/PlantorMOTONs/BrazoMOTONs/BrazoAma/BrazoAnteriorAma"
     },
     {
         "ElementName": "BrazoAnteriorUpAma",
-        "Namespace": "reference/Mooves/TeoriMooves/PropositionsMooves/TeoremsMooves/PlantorMooves/BrazoMooves/BrazoAma/BrazoAnteriorAma/BrazoAnteriorUpAma"
+        "Namespace": "reference/MOTONs/TeoriMOTONs/PropositionsMOTONs/TeoremsMOTONs/PlantorMOTONs/BrazoMOTONs/BrazoAma/BrazoAnteriorAma/BrazoAnteriorUpAma"
     },
     {
         "ElementName": "BrazoAnterior_Down_Ama",
-        "Namespace": "reference/Mooves/TeoriMooves/PropositionsMooves/TeoremsMooves/PlantorMooves/BrazoMooves/BrazoAma/BrazoAnteriorAma/BrazoAnterior_Down_Ama"
+        "Namespace": "reference/MOTONs/TeoriMOTONs/PropositionsMOTONs/TeoremsMOTONs/PlantorMOTONs/BrazoMOTONs/BrazoAma/BrazoAnteriorAma/BrazoAnterior_Down_Ama"
     },
     {
         "ElementName": "BrazoAmble",
-        "Namespace": "reference/Mooves/TeoriMooves/PropositionsMooves/TeoremsMooves/PlantorMooves/BrazoMooves/BrazoAmble"
+        "Namespace": "reference/MOTONs/TeoriMOTONs/PropositionsMOTONs/TeoremsMOTONs/PlantorMOTONs/BrazoMOTONs/BrazoAmble"
     },
     {
         "ElementName": "BrazoCompress",
-        "Namespace": "reference/Mooves/TeoriMooves/PropositionsMooves/TeoremsMooves/PlantorMooves/BrazoMooves/BrazoCompress"
+        "Namespace": "reference/MOTONs/TeoriMOTONs/PropositionsMOTONs/TeoremsMOTONs/PlantorMOTONs/BrazoMOTONs/BrazoCompress"
     },
     {
         "ElementName": "BrazoError",
-        "Namespace": "reference/Mooves/TeoriMooves/PropositionsMooves/TeoremsMooves/PlantorMooves/BrazoMooves/BrazoError"
+        "Namespace": "reference/MOTONs/TeoriMOTONs/PropositionsMOTONs/TeoremsMOTONs/PlantorMOTONs/BrazoMOTONs/BrazoError"
     },
     {
         "ElementName": "BrazoExRotation",
-        "Namespace": "reference/Mooves/TeoriMooves/PropositionsMooves/TeoremsMooves/PlantorMooves/BrazoMooves/BrazoExRotation"
+        "Namespace": "reference/MOTONs/TeoriMOTONs/PropositionsMOTONs/TeoremsMOTONs/PlantorMOTONs/BrazoMOTONs/BrazoExRotation"
     },
     {
         "ElementName": "BrazoExtension",
-        "Namespace": "reference/Mooves/TeoriMooves/PropositionsMooves/TeoremsMooves/PlantorMooves/BrazoMooves/BrazoExtension"
+        "Namespace": "reference/MOTONs/TeoriMOTONs/PropositionsMOTONs/TeoremsMOTONs/PlantorMOTONs/BrazoMOTONs/BrazoExtension"
     },
     {
         "ElementName": "BrazoFlexion",
-        "Namespace": "reference/Mooves/TeoriMooves/PropositionsMooves/TeoremsMooves/PlantorMooves/BrazoMooves/BrazoFlexion"
+        "Namespace": "reference/MOTONs/TeoriMOTONs/PropositionsMOTONs/TeoremsMOTONs/PlantorMOTONs/BrazoMOTONs/BrazoFlexion"
     },
     {
         "ElementName": "BrazoHook",
-        "Namespace": "reference/Mooves/TeoriMooves/PropositionsMooves/TeoremsMooves/PlantorMooves/BrazoMooves/BrazoHook"
+        "Namespace": "reference/MOTONs/TeoriMOTONs/PropositionsMOTONs/TeoremsMOTONs/PlantorMOTONs/BrazoMOTONs/BrazoHook"
     },
     {
         "ElementName": "BrazoInRotation",
-        "Namespace": "reference/Mooves/TeoriMooves/PropositionsMooves/TeoremsMooves/PlantorMooves/BrazoMooves/BrazoInRotation"
+        "Namespace": "reference/MOTONs/TeoriMOTONs/PropositionsMOTONs/TeoremsMOTONs/PlantorMOTONs/BrazoMOTONs/BrazoInRotation"
     },
     {
         "ElementName": "BrazoKontakt",
-        "Namespace": "reference/Mooves/TeoriMooves/PropositionsMooves/TeoremsMooves/PlantorMooves/BrazoMooves/BrazoKontakt"
+        "Namespace": "reference/MOTONs/TeoriMOTONs/PropositionsMOTONs/TeoremsMOTONs/PlantorMOTONs/BrazoMOTONs/BrazoKontakt"
     },
     {
         "ElementName": "BrazoLock",
-        "Namespace": "reference/Mooves/TeoriMooves/PropositionsMooves/TeoremsMooves/PlantorMooves/BrazoMooves/BrazoLock"
+        "Namespace": "reference/MOTONs/TeoriMOTONs/PropositionsMOTONs/TeoremsMOTONs/PlantorMOTONs/BrazoMOTONs/BrazoLock"
     },
     {
         "ElementName": "BrazoOnda",
-        "Namespace": "reference/Mooves/TeoriMooves/PropositionsMooves/TeoremsMooves/PlantorMooves/BrazoMooves/BrazoOnda"
+        "Namespace": "reference/MOTONs/TeoriMOTONs/PropositionsMOTONs/TeoremsMOTONs/PlantorMOTONs/BrazoMOTONs/BrazoOnda"
     },
     {
         "ElementName": "BrazoOrbit",
-        "Namespace": "reference/Mooves/TeoriMooves/PropositionsMooves/TeoremsMooves/PlantorMooves/BrazoMooves/BrazoOrbit"
+        "Namespace": "reference/MOTONs/TeoriMOTONs/PropositionsMOTONs/TeoremsMOTONs/PlantorMOTONs/BrazoMOTONs/BrazoOrbit"
     },
     {
         "ElementName": "BrazoPop",
-        "Namespace": "reference/Mooves/TeoriMooves/PropositionsMooves/TeoremsMooves/PlantorMooves/BrazoMooves/BrazoPop"
+        "Namespace": "reference/MOTONs/TeoriMOTONs/PropositionsMOTONs/TeoremsMOTONs/PlantorMOTONs/BrazoMOTONs/BrazoPop"
     },
     {
         "ElementName": "BrazoRockOver",
-        "Namespace": "reference/Mooves/TeoriMooves/PropositionsMooves/TeoremsMooves/PlantorMooves/BrazoMooves/BrazoRockOver"
+        "Namespace": "reference/MOTONs/TeoriMOTONs/PropositionsMOTONs/TeoremsMOTONs/PlantorMOTONs/BrazoMOTONs/BrazoRockOver"
     },
     {
         "ElementName": "Frase",
-        "Namespace": "reference/Mooves/TeoriMooves/PropositionsMooves/TeoremsMooves/PlantorMooves/BrazoMooves/Frase"
+        "Namespace": "reference/MOTONs/TeoriMOTONs/PropositionsMOTONs/TeoremsMOTONs/PlantorMOTONs/BrazoMOTONs/Frase"
     },
     {
-        "ElementName": "HeadMooves",
-        "Namespace": "reference/Mooves/TeoriMooves/PropositionsMooves/TeoremsMooves/PlantorMooves/HeadMooves"
+        "ElementName": "HeadMOTONs",
+        "Namespace": "reference/MOTONs/TeoriMOTONs/PropositionsMOTONs/TeoremsMOTONs/PlantorMOTONs/HeadMOTONs"
     },
     {
         "ElementName": "FocusLook",
-        "Namespace": "reference/Mooves/TeoriMooves/PropositionsMooves/TeoremsMooves/PlantorMooves/HeadMooves/FocusLook"
+        "Namespace": "reference/MOTONs/TeoriMOTONs/PropositionsMOTONs/TeoremsMOTONs/PlantorMOTONs/HeadMOTONs/FocusLook"
     },
     {
         "ElementName": "Frase",
-        "Namespace": "reference/Mooves/TeoriMooves/PropositionsMooves/TeoremsMooves/PlantorMooves/HeadMooves/Frase"
+        "Namespace": "reference/MOTONs/TeoriMOTONs/PropositionsMOTONs/TeoremsMOTONs/PlantorMOTONs/HeadMOTONs/Frase"
     },
     {
         "ElementName": "HeadError",
-        "Namespace": "reference/Mooves/TeoriMooves/PropositionsMooves/TeoremsMooves/PlantorMooves/HeadMooves/HeadError"
+        "Namespace": "reference/MOTONs/TeoriMOTONs/PropositionsMOTONs/TeoremsMOTONs/PlantorMOTONs/HeadMOTONs/HeadError"
     },
     {
         "ElementName": "HeadProtraction",
-        "Namespace": "reference/Mooves/TeoriMooves/PropositionsMooves/TeoremsMooves/PlantorMooves/HeadMooves/HeadProtraction"
+        "Namespace": "reference/MOTONs/TeoriMOTONs/PropositionsMOTONs/TeoremsMOTONs/PlantorMOTONs/HeadMOTONs/HeadProtraction"
     },
     {
         "ElementName": "HeadRetraction",
-        "Namespace": "reference/Mooves/TeoriMooves/PropositionsMooves/TeoremsMooves/PlantorMooves/HeadMooves/HeadRetraction"
+        "Namespace": "reference/MOTONs/TeoriMOTONs/PropositionsMOTONs/TeoremsMOTONs/PlantorMOTONs/HeadMOTONs/HeadRetraction"
     },
     {
         "ElementName": "HeadTilt",
-        "Namespace": "reference/Mooves/TeoriMooves/PropositionsMooves/TeoremsMooves/PlantorMooves/HeadMooves/HeadTilt"
+        "Namespace": "reference/MOTONs/TeoriMOTONs/PropositionsMOTONs/TeoremsMOTONs/PlantorMOTONs/HeadMOTONs/HeadTilt"
     },
     {
         "ElementName": "ListenTo",
-        "Namespace": "reference/Mooves/TeoriMooves/PropositionsMooves/TeoremsMooves/PlantorMooves/HeadMooves/ListenTo"
+        "Namespace": "reference/MOTONs/TeoriMOTONs/PropositionsMOTONs/TeoremsMOTONs/PlantorMOTONs/HeadMOTONs/ListenTo"
     },
     {
         "ElementName": "LookAway",
-        "Namespace": "reference/Mooves/TeoriMooves/PropositionsMooves/TeoremsMooves/PlantorMooves/HeadMooves/LookAway"
+        "Namespace": "reference/MOTONs/TeoriMOTONs/PropositionsMOTONs/TeoremsMOTONs/PlantorMOTONs/HeadMOTONs/LookAway"
     },
     {
         "ElementName": "NeckExtension",
-        "Namespace": "reference/Mooves/TeoriMooves/PropositionsMooves/TeoremsMooves/PlantorMooves/HeadMooves/NeckExtension"
+        "Namespace": "reference/MOTONs/TeoriMOTONs/PropositionsMOTONs/TeoremsMOTONs/PlantorMOTONs/HeadMOTONs/NeckExtension"
     },
     {
         "ElementName": "NeckFlexion",
-        "Namespace": "reference/Mooves/TeoriMooves/PropositionsMooves/TeoremsMooves/PlantorMooves/HeadMooves/NeckFlexion"
+        "Namespace": "reference/MOTONs/TeoriMOTONs/PropositionsMOTONs/TeoremsMOTONs/PlantorMOTONs/HeadMOTONs/NeckFlexion"
     },
     {
         "ElementName": "Overview",
-        "Namespace": "reference/Mooves/TeoriMooves/PropositionsMooves/TeoremsMooves/PlantorMooves/HeadMooves/Overview"
+        "Namespace": "reference/MOTONs/TeoriMOTONs/PropositionsMOTONs/TeoremsMOTONs/PlantorMOTONs/HeadMOTONs/Overview"
     },
     {
         "ElementName": "Speak",
-        "Namespace": "reference/Mooves/TeoriMooves/PropositionsMooves/TeoremsMooves/PlantorMooves/HeadMooves/Speak"
+        "Namespace": "reference/MOTONs/TeoriMOTONs/PropositionsMOTONs/TeoremsMOTONs/PlantorMOTONs/HeadMOTONs/Speak"
     },
     {
-        "ElementName": "KorpoMooves",
-        "Namespace": "reference/Mooves/TeoriMooves/PropositionsMooves/TeoremsMooves/PlantorMooves/KorpoMooves"
+        "ElementName": "KorpoMOTONs",
+        "Namespace": "reference/MOTONs/TeoriMOTONs/PropositionsMOTONs/TeoremsMOTONs/PlantorMOTONs/KorpoMOTONs"
     },
     {
         "ElementName": "Breathing",
-        "Namespace": "reference/Mooves/TeoriMooves/PropositionsMooves/TeoremsMooves/PlantorMooves/KorpoMooves/Breathing"
+        "Namespace": "reference/MOTONs/TeoriMOTONs/PropositionsMOTONs/TeoremsMOTONs/PlantorMOTONs/KorpoMOTONs/Breathing"
     },
     {
         "ElementName": "Crawl",
-        "Namespace": "reference/Mooves/TeoriMooves/PropositionsMooves/TeoremsMooves/PlantorMooves/KorpoMooves/Crawl"
+        "Namespace": "reference/MOTONs/TeoriMOTONs/PropositionsMOTONs/TeoremsMOTONs/PlantorMOTONs/KorpoMOTONs/Crawl"
     },
     {
         "ElementName": "Crouch",
-        "Namespace": "reference/Mooves/TeoriMooves/PropositionsMooves/TeoremsMooves/PlantorMooves/KorpoMooves/Crouch"
+        "Namespace": "reference/MOTONs/TeoriMOTONs/PropositionsMOTONs/TeoremsMOTONs/PlantorMOTONs/KorpoMOTONs/Crouch"
     },
     {
         "ElementName": "Fall",
-        "Namespace": "reference/Mooves/TeoriMooves/PropositionsMooves/TeoremsMooves/PlantorMooves/KorpoMooves/Fall"
+        "Namespace": "reference/MOTONs/TeoriMOTONs/PropositionsMOTONs/TeoremsMOTONs/PlantorMOTONs/KorpoMOTONs/Fall"
     },
     {
         "ElementName": "Frase",
-        "Namespace": "reference/Mooves/TeoriMooves/PropositionsMooves/TeoremsMooves/PlantorMooves/KorpoMooves/Frase"
+        "Namespace": "reference/MOTONs/TeoriMOTONs/PropositionsMOTONs/TeoremsMOTONs/PlantorMOTONs/KorpoMOTONs/Frase"
     },
     {
         "ElementName": "HipHinge",
-        "Namespace": "reference/Mooves/TeoriMooves/PropositionsMooves/TeoremsMooves/PlantorMooves/KorpoMooves/HipHinge"
+        "Namespace": "reference/MOTONs/TeoriMOTONs/PropositionsMOTONs/TeoremsMOTONs/PlantorMOTONs/KorpoMOTONs/HipHinge"
     },
     {
         "ElementName": "Jump",
-        "Namespace": "reference/Mooves/TeoriMooves/PropositionsMooves/TeoremsMooves/PlantorMooves/KorpoMooves/Jump"
+        "Namespace": "reference/MOTONs/TeoriMOTONs/PropositionsMOTONs/TeoremsMOTONs/PlantorMOTONs/KorpoMOTONs/Jump"
     },
     {
         "ElementName": "KorpoAbsorb",
-        "Namespace": "reference/Mooves/TeoriMooves/PropositionsMooves/TeoremsMooves/PlantorMooves/KorpoMooves/KorpoAbsorb"
+        "Namespace": "reference/MOTONs/TeoriMOTONs/PropositionsMOTONs/TeoremsMOTONs/PlantorMOTONs/KorpoMOTONs/KorpoAbsorb"
     },
     {
         "ElementName": "KorpoBend",
-        "Namespace": "reference/Mooves/TeoriMooves/PropositionsMooves/TeoremsMooves/PlantorMooves/KorpoMooves/KorpoBend"
+        "Namespace": "reference/MOTONs/TeoriMOTONs/PropositionsMOTONs/TeoremsMOTONs/PlantorMOTONs/KorpoMOTONs/KorpoBend"
     },
     {
         "ElementName": "KorpoError",
-        "Namespace": "reference/Mooves/TeoriMooves/PropositionsMooves/TeoremsMooves/PlantorMooves/KorpoMooves/KorpoError"
+        "Namespace": "reference/MOTONs/TeoriMOTONs/PropositionsMOTONs/TeoremsMOTONs/PlantorMOTONs/KorpoMOTONs/KorpoError"
     },
     {
         "ElementName": "KorpoKontakt",
-        "Namespace": "reference/Mooves/TeoriMooves/PropositionsMooves/TeoremsMooves/PlantorMooves/KorpoMooves/KorpoKontakt"
+        "Namespace": "reference/MOTONs/TeoriMOTONs/PropositionsMOTONs/TeoremsMOTONs/PlantorMOTONs/KorpoMOTONs/KorpoKontakt"
     },
     {
         "ElementName": "KorpoKontakt.md",
-        "Namespace": "reference/Mooves/TeoriMooves/PropositionsMooves/TeoremsMooves/PlantorMooves/KorpoMooves/KorpoKontakt.md"
+        "Namespace": "reference/MOTONs/TeoriMOTONs/PropositionsMOTONs/TeoremsMOTONs/PlantorMOTONs/KorpoMOTONs/KorpoKontakt.md"
     },
     {
         "ElementName": "KorpoLean",
-        "Namespace": "reference/Mooves/TeoriMooves/PropositionsMooves/TeoremsMooves/PlantorMooves/KorpoMooves/KorpoLean"
+        "Namespace": "reference/MOTONs/TeoriMOTONs/PropositionsMOTONs/TeoremsMOTONs/PlantorMOTONs/KorpoMOTONs/KorpoLean"
     },
     {
         "ElementName": "KorpoOrbit",
-        "Namespace": "reference/Mooves/TeoriMooves/PropositionsMooves/TeoremsMooves/PlantorMooves/KorpoMooves/KorpoOrbit"
+        "Namespace": "reference/MOTONs/TeoriMOTONs/PropositionsMOTONs/TeoremsMOTONs/PlantorMOTONs/KorpoMOTONs/KorpoOrbit"
     },
     {
         "ElementName": "KorpoPop",
-        "Namespace": "reference/Mooves/TeoriMooves/PropositionsMooves/TeoremsMooves/PlantorMooves/KorpoMooves/KorpoPop"
+        "Namespace": "reference/MOTONs/TeoriMOTONs/PropositionsMOTONs/TeoremsMOTONs/PlantorMOTONs/KorpoMOTONs/KorpoPop"
     },
     {
         "ElementName": "KorpoPosture",
-        "Namespace": "reference/Mooves/TeoriMooves/PropositionsMooves/TeoremsMooves/PlantorMooves/KorpoMooves/KorpoPosture"
+        "Namespace": "reference/MOTONs/TeoriMOTONs/PropositionsMOTONs/TeoremsMOTONs/PlantorMOTONs/KorpoMOTONs/KorpoPosture"
     },
     {
         "ElementName": "KorpoRotate",
-        "Namespace": "reference/Mooves/TeoriMooves/PropositionsMooves/TeoremsMooves/PlantorMooves/KorpoMooves/KorpoRotate"
+        "Namespace": "reference/MOTONs/TeoriMOTONs/PropositionsMOTONs/TeoremsMOTONs/PlantorMOTONs/KorpoMOTONs/KorpoRotate"
     },
     {
         "ElementName": "KorpoSlot",
-        "Namespace": "reference/Mooves/TeoriMooves/PropositionsMooves/TeoremsMooves/PlantorMooves/KorpoMooves/KorpoSlot"
+        "Namespace": "reference/MOTONs/TeoriMOTONs/PropositionsMOTONs/TeoremsMOTONs/PlantorMOTONs/KorpoMOTONs/KorpoSlot"
     },
     {
         "ElementName": "KorpoSpike",
-        "Namespace": "reference/Mooves/TeoriMooves/PropositionsMooves/TeoremsMooves/PlantorMooves/KorpoMooves/KorpoSpike"
+        "Namespace": "reference/MOTONs/TeoriMOTONs/PropositionsMOTONs/TeoremsMOTONs/PlantorMOTONs/KorpoMOTONs/KorpoSpike"
     },
     {
         "ElementName": "KorpoTangent",
-        "Namespace": "reference/Mooves/TeoriMooves/PropositionsMooves/TeoremsMooves/PlantorMooves/KorpoMooves/KorpoTangent"
+        "Namespace": "reference/MOTONs/TeoriMOTONs/PropositionsMOTONs/TeoremsMOTONs/PlantorMOTONs/KorpoMOTONs/KorpoTangent"
     },
     {
         "ElementName": "KorpoTwist",
-        "Namespace": "reference/Mooves/TeoriMooves/PropositionsMooves/TeoremsMooves/PlantorMooves/KorpoMooves/KorpoTwist"
+        "Namespace": "reference/MOTONs/TeoriMOTONs/PropositionsMOTONs/TeoremsMOTONs/PlantorMOTONs/KorpoMOTONs/KorpoTwist"
     },
     {
         "ElementName": "KorpoUnder",
-        "Namespace": "reference/Mooves/TeoriMooves/PropositionsMooves/TeoremsMooves/PlantorMooves/KorpoMooves/KorpoUnder"
+        "Namespace": "reference/MOTONs/TeoriMOTONs/PropositionsMOTONs/TeoremsMOTONs/PlantorMOTONs/KorpoMOTONs/KorpoUnder"
     },
     {
         "ElementName": "LogWalk",
-        "Namespace": "reference/Mooves/TeoriMooves/PropositionsMooves/TeoremsMooves/PlantorMooves/KorpoMooves/LogWalk"
+        "Namespace": "reference/MOTONs/TeoriMOTONs/PropositionsMOTONs/TeoremsMOTONs/PlantorMOTONs/KorpoMOTONs/LogWalk"
     },
     {
         "ElementName": "Overview",
-        "Namespace": "reference/Mooves/TeoriMooves/PropositionsMooves/TeoremsMooves/PlantorMooves/KorpoMooves/Overview"
+        "Namespace": "reference/MOTONs/TeoriMOTONs/PropositionsMOTONs/TeoremsMOTONs/PlantorMOTONs/KorpoMOTONs/Overview"
     },
     {
         "ElementName": "SpineExtension",
-        "Namespace": "reference/Mooves/TeoriMooves/PropositionsMooves/TeoremsMooves/PlantorMooves/KorpoMooves/SpineExtension"
+        "Namespace": "reference/MOTONs/TeoriMOTONs/PropositionsMOTONs/TeoremsMOTONs/PlantorMOTONs/KorpoMOTONs/SpineExtension"
     },
     {
         "ElementName": "SpineFlexion",
-        "Namespace": "reference/Mooves/TeoriMooves/PropositionsMooves/TeoremsMooves/PlantorMooves/KorpoMooves/SpineFlexion"
+        "Namespace": "reference/MOTONs/TeoriMOTONs/PropositionsMOTONs/TeoremsMOTONs/PlantorMOTONs/KorpoMOTONs/SpineFlexion"
     },
     {
         "ElementName": "Stand",
-        "Namespace": "reference/Mooves/TeoriMooves/PropositionsMooves/TeoremsMooves/PlantorMooves/KorpoMooves/Stand"
+        "Namespace": "reference/MOTONs/TeoriMOTONs/PropositionsMOTONs/TeoremsMOTONs/PlantorMOTONs/KorpoMOTONs/Stand"
     },
     {
         "ElementName": "StandUp",
-        "Namespace": "reference/Mooves/TeoriMooves/PropositionsMooves/TeoremsMooves/PlantorMooves/KorpoMooves/StandUp"
+        "Namespace": "reference/MOTONs/TeoriMOTONs/PropositionsMOTONs/TeoremsMOTONs/PlantorMOTONs/KorpoMOTONs/StandUp"
     },
     {
         "ElementName": "StepInto",
-        "Namespace": "reference/Mooves/TeoriMooves/PropositionsMooves/TeoremsMooves/PlantorMooves/KorpoMooves/StepInto"
+        "Namespace": "reference/MOTONs/TeoriMOTONs/PropositionsMOTONs/TeoremsMOTONs/PlantorMOTONs/KorpoMOTONs/StepInto"
     },
     {
         "ElementName": "StepOver",
-        "Namespace": "reference/Mooves/TeoriMooves/PropositionsMooves/TeoremsMooves/PlantorMooves/KorpoMooves/StepOver"
+        "Namespace": "reference/MOTONs/TeoriMOTONs/PropositionsMOTONs/TeoremsMOTONs/PlantorMOTONs/KorpoMOTONs/StepOver"
     },
     {
         "ElementName": "TeoremsAmble",
-        "Namespace": "reference/Mooves/TeoriMooves/PropositionsMooves/TeoremsMooves/PlantorMooves/KorpoMooves/TeoremsAmble"
+        "Namespace": "reference/MOTONs/TeoriMOTONs/PropositionsMOTONs/TeoremsMOTONs/PlantorMOTONs/KorpoMOTONs/TeoremsAmble"
     },
     {
         "ElementName": "TrenchWalk",
-        "Namespace": "reference/Mooves/TeoriMooves/PropositionsMooves/TeoremsMooves/PlantorMooves/KorpoMooves/TrenchWalk"
+        "Namespace": "reference/MOTONs/TeoriMOTONs/PropositionsMOTONs/TeoremsMOTONs/PlantorMOTONs/KorpoMOTONs/TrenchWalk"
     },
     {
         "ElementName": "Trot",
-        "Namespace": "reference/Mooves/TeoriMooves/PropositionsMooves/TeoremsMooves/PlantorMooves/KorpoMooves/Trot"
+        "Namespace": "reference/MOTONs/TeoriMOTONs/PropositionsMOTONs/TeoremsMOTONs/PlantorMOTONs/KorpoMOTONs/Trot"
     },
     {
-        "ElementName": "ManoMooves",
-        "Namespace": "reference/Mooves/TeoriMooves/PropositionsMooves/TeoremsMooves/PlantorMooves/ManoMooves"
+        "ElementName": "ManoMOTONs",
+        "Namespace": "reference/MOTONs/TeoriMOTONs/PropositionsMOTONs/TeoremsMOTONs/PlantorMOTONs/ManoMOTONs"
     },
     {
         "ElementName": "BagMano",
-        "Namespace": "reference/Mooves/TeoriMooves/PropositionsMooves/TeoremsMooves/PlantorMooves/ManoMooves/BagMano"
+        "Namespace": "reference/MOTONs/TeoriMOTONs/PropositionsMOTONs/TeoremsMOTONs/PlantorMOTONs/ManoMOTONs/BagMano"
     },
     {
         "ElementName": "BoxMano",
-        "Namespace": "reference/Mooves/TeoriMooves/PropositionsMooves/TeoremsMooves/PlantorMooves/ManoMooves/BoxMano"
+        "Namespace": "reference/MOTONs/TeoriMOTONs/PropositionsMOTONs/TeoremsMOTONs/PlantorMOTONs/ManoMOTONs/BoxMano"
     },
     {
         "ElementName": "FingerAdduction",
-        "Namespace": "reference/Mooves/TeoriMooves/PropositionsMooves/TeoremsMooves/PlantorMooves/ManoMooves/FingerAdduction"
+        "Namespace": "reference/MOTONs/TeoriMOTONs/PropositionsMOTONs/TeoremsMOTONs/PlantorMOTONs/ManoMOTONs/FingerAdduction"
     },
     {
         "ElementName": "FingerExtension",
-        "Namespace": "reference/Mooves/TeoriMooves/PropositionsMooves/TeoremsMooves/PlantorMooves/ManoMooves/FingerExtension"
+        "Namespace": "reference/MOTONs/TeoriMOTONs/PropositionsMOTONs/TeoremsMOTONs/PlantorMOTONs/ManoMOTONs/FingerExtension"
     },
     {
         "ElementName": "FingerFlexion",
-        "Namespace": "reference/Mooves/TeoriMooves/PropositionsMooves/TeoremsMooves/PlantorMooves/ManoMooves/FingerFlexion"
+        "Namespace": "reference/MOTONs/TeoriMOTONs/PropositionsMOTONs/TeoremsMOTONs/PlantorMOTONs/ManoMOTONs/FingerFlexion"
     },
     {
         "ElementName": "Fist",
-        "Namespace": "reference/Mooves/TeoriMooves/PropositionsMooves/TeoremsMooves/PlantorMooves/ManoMooves/Fist"
+        "Namespace": "reference/MOTONs/TeoriMOTONs/PropositionsMOTONs/TeoremsMOTONs/PlantorMOTONs/ManoMOTONs/Fist"
     },
     {
         "ElementName": "Frase",
-        "Namespace": "reference/Mooves/TeoriMooves/PropositionsMooves/TeoremsMooves/PlantorMooves/ManoMooves/Frase"
+        "Namespace": "reference/MOTONs/TeoriMOTONs/PropositionsMOTONs/TeoremsMOTONs/PlantorMOTONs/ManoMOTONs/Frase"
     },
     {
         "ElementName": "ManoCompress",
-        "Namespace": "reference/Mooves/TeoriMooves/PropositionsMooves/TeoremsMooves/PlantorMooves/ManoMooves/ManoCompress"
+        "Namespace": "reference/MOTONs/TeoriMOTONs/PropositionsMOTONs/TeoremsMOTONs/PlantorMOTONs/ManoMOTONs/ManoCompress"
     },
     {
         "ElementName": "ManoDig",
-        "Namespace": "reference/Mooves/TeoriMooves/PropositionsMooves/TeoremsMooves/PlantorMooves/ManoMooves/ManoDig"
+        "Namespace": "reference/MOTONs/TeoriMOTONs/PropositionsMOTONs/TeoremsMOTONs/PlantorMOTONs/ManoMOTONs/ManoDig"
     },
     {
         "ElementName": "ManoLock",
-        "Namespace": "reference/Mooves/TeoriMooves/PropositionsMooves/TeoremsMooves/PlantorMooves/ManoMooves/ManoLock"
+        "Namespace": "reference/MOTONs/TeoriMOTONs/PropositionsMOTONs/TeoremsMOTONs/PlantorMOTONs/ManoMOTONs/ManoLock"
     },
     {
         "ElementName": "ManoOrbit",
-        "Namespace": "reference/Mooves/TeoriMooves/PropositionsMooves/TeoremsMooves/PlantorMooves/ManoMooves/ManoOrbit"
+        "Namespace": "reference/MOTONs/TeoriMOTONs/PropositionsMOTONs/TeoremsMOTONs/PlantorMOTONs/ManoMOTONs/ManoOrbit"
     },
     {
         "ElementName": "ManoPoke",
-        "Namespace": "reference/Mooves/TeoriMooves/PropositionsMooves/TeoremsMooves/PlantorMooves/ManoMooves/ManoPoke"
+        "Namespace": "reference/MOTONs/TeoriMOTONs/PropositionsMOTONs/TeoremsMOTONs/PlantorMOTONs/ManoMOTONs/ManoPoke"
     },
     {
         "ElementName": "ManoPop",
-        "Namespace": "reference/Mooves/TeoriMooves/PropositionsMooves/TeoremsMooves/PlantorMooves/ManoMooves/ManoPop"
+        "Namespace": "reference/MOTONs/TeoriMOTONs/PropositionsMOTONs/TeoremsMOTONs/PlantorMOTONs/ManoMOTONs/ManoPop"
     },
     {
         "ElementName": "ManoSkreef",
-        "Namespace": "reference/Mooves/TeoriMooves/PropositionsMooves/TeoremsMooves/PlantorMooves/ManoMooves/ManoSkreef"
+        "Namespace": "reference/MOTONs/TeoriMOTONs/PropositionsMOTONs/TeoremsMOTONs/PlantorMOTONs/ManoMOTONs/ManoSkreef"
     },
     {
         "ElementName": "ManoSlide",
-        "Namespace": "reference/Mooves/TeoriMooves/PropositionsMooves/TeoremsMooves/PlantorMooves/ManoMooves/ManoSlide"
+        "Namespace": "reference/MOTONs/TeoriMOTONs/PropositionsMOTONs/TeoremsMOTONs/PlantorMOTONs/ManoMOTONs/ManoSlide"
     },
     {
         "ElementName": "Overview",
-        "Namespace": "reference/Mooves/TeoriMooves/PropositionsMooves/TeoremsMooves/PlantorMooves/ManoMooves/Overview"
+        "Namespace": "reference/MOTONs/TeoriMOTONs/PropositionsMOTONs/TeoremsMOTONs/PlantorMOTONs/ManoMOTONs/Overview"
     },
     {
         "ElementName": "TeoremsManoKlose",
-        "Namespace": "reference/Mooves/TeoriMooves/PropositionsMooves/TeoremsMooves/PlantorMooves/ManoMooves/TeoremsManoKlose"
+        "Namespace": "reference/MOTONs/TeoriMOTONs/PropositionsMOTONs/TeoremsMOTONs/PlantorMOTONs/ManoMOTONs/TeoremsManoKlose"
     },
     {
         "ElementName": "TeoremsManoKontakt",
-        "Namespace": "reference/Mooves/TeoriMooves/PropositionsMooves/TeoremsMooves/PlantorMooves/ManoMooves/TeoremsManoKontakt"
+        "Namespace": "reference/MOTONs/TeoriMOTONs/PropositionsMOTONs/TeoremsMOTONs/PlantorMOTONs/ManoMOTONs/TeoremsManoKontakt"
     },
     {
         "ElementName": "ThumbAduction",
-        "Namespace": "reference/Mooves/TeoriMooves/PropositionsMooves/TeoremsMooves/PlantorMooves/ManoMooves/ThumbAduction"
+        "Namespace": "reference/MOTONs/TeoriMOTONs/PropositionsMOTONs/TeoremsMOTONs/PlantorMOTONs/ManoMOTONs/ThumbAduction"
     },
     {
         "ElementName": "ThumbExtension",
-        "Namespace": "reference/Mooves/TeoriMooves/PropositionsMooves/TeoremsMooves/PlantorMooves/ManoMooves/ThumbExtension"
+        "Namespace": "reference/MOTONs/TeoriMOTONs/PropositionsMOTONs/TeoremsMOTONs/PlantorMOTONs/ManoMOTONs/ThumbExtension"
     },
     {
         "ElementName": "ThumbFlexion",
-        "Namespace": "reference/Mooves/TeoriMooves/PropositionsMooves/TeoremsMooves/PlantorMooves/ManoMooves/ThumbFlexion"
+        "Namespace": "reference/MOTONs/TeoriMOTONs/PropositionsMOTONs/TeoremsMOTONs/PlantorMOTONs/ManoMOTONs/ThumbFlexion"
     },
     {
-        "ElementName": "SimbolsMooves",
-        "Namespace": "reference/Mooves/TeoriMooves/SimbolsMooves"
+        "ElementName": "SimbolsMOTONs",
+        "Namespace": "reference/MOTONs/TeoriMOTONs/SimbolsMOTONs"
     },
     {
         "ElementName": "Anima",

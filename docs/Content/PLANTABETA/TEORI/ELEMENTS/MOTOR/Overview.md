@@ -1,15 +1,15 @@
 # 🔷🟠 Motor Teori
 
-A RICscore description for a single Moove.
+A RICscore description for a single MOTON.
 
-- SuperMoove, SubMoove
+- SuperMOTON, SubMOTON
 
-- MooveRICscore is used to compare Mooves. AlternativeMooves can be compared to find a Moove which fits in a MooveSequence.
-    - MooveComparison
+- MOTONRICscore is used to compare MOTONs. AlternativeMOTONs can be compared to find a MOTON which fits in a MOTONSequence.
+    - MOTONComparison
 
-- MoovePattern.Theoria
-    - A Theoria description for a single MoovePattern, which is composed of many Mooves.
-    - Used to compare multiple MoovePatterns.
+- MOTONPattern.Theoria
+    - A Theoria description for a single MOTONPattern, which is composed of many MOTONs.
+    - Used to compare multiple MOTONPatterns.
 
 ## Unlike Via, Motor Pages are composed of Definitions and Propositions
 
@@ -19,7 +19,7 @@ This is a BoustroLine (Teorem), this how to construction a BoutroLine (Problem),
 
 Propositions never have errors. Errors only occur in Praktik
 
-There is less Via than Mooves. It makes more sense to group MooveElements by their definitions (their concrete objects)
+There is less Via than MOTONs. It makes more sense to group MOTONElements by their definitions (their concrete objects)
 
 Each BetaTipos is like a Book
 

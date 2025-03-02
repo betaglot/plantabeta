@@ -1,4 +1,4 @@
-# 🕸 <anima>Counting</anima>
+# 💭 <anima>Counting</anima>
 
 ![Anima_Ikon](/Anima/Anima_Ikon.png)
 

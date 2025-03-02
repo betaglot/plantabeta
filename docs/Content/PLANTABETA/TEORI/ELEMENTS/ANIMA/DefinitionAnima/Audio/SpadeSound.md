@@ -1,4 +1,4 @@
-# 🕸 <anima>SpadeSound</anima>
+# 💭 <anima>SpadeSound</anima>
 
 ![Anima_Ikon](/Anima/Anima_Ikon.png)
 

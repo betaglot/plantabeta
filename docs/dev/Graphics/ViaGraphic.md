@@ -40,7 +40,7 @@ CrossedLine=MarkagedLine
 | Line | Curve |
 | Water | Water |
 | Transfer | ViaCross |
-| "Moove around your city" | "Moove around your Piece" |
+| "MOTON around your city" | "MOTON around your Piece" |
 
 ## Density Report
 
@@ -90,7 +90,7 @@ Number of Edges of a Voronoi Cell?
 
 [D3 closest neighbor and Voronoi edges](https://d3js.org/d3-delaunay/voronoi#voronoi_neighbors)
 
-### <motor>MooveVoronoi</motor>
+### <motor>MOTONVoronoi</motor>
 
 ![Fencing](/Via/Voronoi/FencingVoronoi.png)
 
@@ -119,7 +119,7 @@ Closest
 
 ## Assassins Creed
 
-Eagle Vision is Via. Just like [EagleVision](https://www.youtube.com/watch?v=toW9lHSJ5Tg), Via is an abstraction layer onto Moove and
+Eagle Vision is Via. Just like [EagleVision](https://www.youtube.com/watch?v=toW9lHSJ5Tg), Via is an abstraction layer onto MOTON and
 
 ('lit')InsteadOf('highlighted')
 

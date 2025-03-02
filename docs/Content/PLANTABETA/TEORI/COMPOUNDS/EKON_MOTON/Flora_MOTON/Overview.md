@@ -1,12 +1,12 @@
-# 🟠 <motor>FloraMoove</motor>
+# 🟠 <motor>FloraMOTON</motor>
 
-## FloraMoove.Anatomy
+## FloraMOTON.Anatomy
 
-## FloraMoove.Atribut
+## FloraMOTON.Atribut
 
-## FloraMoove.Metod
+## FloraMOTON.Metod
 
-## 🕸 FloraMoove.Skema
+## 🕸 FloraMOTON.Skema
 
 ### Related 🟩<ekos>Eko</ekos>
 

@@ -1,6 +1,6 @@
 # 🟠 <motor>SpineExtension</motor>
 
-![MooveIkon](/BetaIkon/Mooves_Ikon.png)
+![MOTONIkon](/BetaIkon/MOTONs_Ikon.png)
 
 ## 🕸 SpineExtension.Skema
 
@@ -33,5 +33,5 @@
 
 <h2>PageTags</h2>
 
-- "Moove.BodyMoove.SpineExtension"
+- "MOTON.BodyMOTON.SpineExtension"
 :::

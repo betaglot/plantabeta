@@ -30,7 +30,7 @@ HubermanLab Guest Series [with Dr. Matt Walker](https://www.youtube.com/playlist
 - Sleep Mask
 - Pillow
 
-## Related <motor>MooveElements</motor>
+## Related <motor>MOTONElements</motor>
 
 - After work
 
@@ -77,5 +77,5 @@ HubermanLab Guest Series [with Dr. Matt Walker](https://www.youtube.com/playlist
 
 <h2>PageTags</h2>
 
-- "Moove.InstrumentMoove.TruckMoove.Sleep"
+- "MOTON.InstrumentMOTON.TruckMOTON.Sleep"
 :::

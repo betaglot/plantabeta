@@ -1,6 +1,6 @@
 # 🟠 <motor>KorpoOrbit</motor>
 
-![MooveIkon](/BetaIkon/Mooves_Ikon.png)
+![MOTONIkon](/BetaIkon/MOTONs_Ikon.png)
 
 ## 🕸 KorpoOrbit.Skema
 
@@ -32,6 +32,6 @@
 - Revolution
 - HandSlide
 - KorpoOrbit rarely completes a full revolution
-- AroundCornerMoove
+- AroundCornerMOTON
 
 :::

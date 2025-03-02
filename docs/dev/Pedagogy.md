@@ -81,7 +81,7 @@ To understand what's going on in the plantor video
 
 ### VideoLabelling
 
-Fundamental BetaUnit of Plantbeta is between HoleCloses... after the StartHole which is preceded by CacheMoove
+Fundamental BetaUnit of Plantbeta is between HoleCloses... after the StartHole which is preceded by CacheMOTON
 
 Parse into events
 

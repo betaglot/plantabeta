@@ -33,7 +33,7 @@
 <!-- =================================================== -->
 ::: details 🛠 <dev>&&&</dev>
 
-- BoustroLine can be a BodyMoove like in PlantaBeta or an ArmMoove when FeelingForHold
+- BoustroLine can be a BodyMOTON like in PlantaBeta or an ArmMOTON when FeelingForHold
     - You don't necessarily need to be planting in a BoustroLine
 - ViaDirection
 - BackCover

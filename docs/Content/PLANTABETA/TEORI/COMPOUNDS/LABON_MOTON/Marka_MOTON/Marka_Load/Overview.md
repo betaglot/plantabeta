@@ -1,6 +1,6 @@
 # 🟠 <motor>MarkaLoad</motor>
 
-![MooveIkon](/BetaIkon/Mooves_Ikon.png)
+![MOTONIkon](/BetaIkon/MOTONs_Ikon.png)
 
 ---
 
@@ -15,5 +15,5 @@
 
 <h2>PageTags</h2>
 
-- "Moove.InstrumentMoove.MarkaMoove.MarkaUnload"
+- "MOTON.InstrumentMOTON.MarkaMOTON.MarkaUnload"
 :::

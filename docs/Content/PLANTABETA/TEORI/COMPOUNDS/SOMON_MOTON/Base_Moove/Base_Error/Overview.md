@@ -1,6 +1,6 @@
 # 🟠<motor>FootError</motor>
 
-## FootMooveError
+## FootMOTONError
 
 FootSnag
 

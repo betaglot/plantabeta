@@ -1,6 +1,6 @@
 # 🟠 <motor>DendroLoad</motor>
 
-![MooveIkon](/BetaIkon/Mooves_Ikon.png)
+![MOTONIkon](/BetaIkon/MOTONs_Ikon.png)
 
 ## 🕸 DendroLoad.Skema
 
@@ -37,5 +37,5 @@
 
 <h2>PageTags</h2>
 
-- "Moove.ArmMoove.TreeLoad"
+- "MOTON.ArmMOTON.TreeLoad"
 :::

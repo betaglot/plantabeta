@@ -1,6 +1,6 @@
 # 🟠 <motor>Jump</motor>
 
-![MooveIkon](/BetaIkon/Mooves_Ikon.png)
+![MOTONIkon](/BetaIkon/MOTONs_Ikon.png)
 
 ## 🕸 Jump.Skema
 
@@ -34,6 +34,6 @@
 
 <h2>PageTags</h2>
 
-- "Moove.LegMoove.Jump"
+- "MOTON.LegMOTON.Jump"
 
 :::

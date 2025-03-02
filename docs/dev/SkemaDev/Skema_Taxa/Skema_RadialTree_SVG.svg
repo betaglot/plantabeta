@@ -2684,7 +2684,7 @@
             fill="currentColor">Lexikon</text>
         <text transform="rotate(49.787430093609174) translate(218.88888888888889,0) rotate(0)"
             dy="0.31em" x="-6" text-anchor="end" paint-order="stroke" stroke="white"
-            fill="currentColor">Mooves</text>
+            fill="currentColor">MOTONs</text>
         <text transform="rotate(134.7182422569924) translate(218.88888888888889,0) rotate(180)"
             dy="0.31em" x="6" text-anchor="start" paint-order="stroke" stroke="white"
             fill="currentColor">Plantor</text>
@@ -2729,10 +2729,10 @@
             fill="currentColor">FisikPropositions</text>
         <text transform="rotate(28.96956524189433) translate(437.77777777777777,0) rotate(0)"
             dy="0.31em" x="-6" text-anchor="end" paint-order="stroke" stroke="white"
-            fill="currentColor">MoovesPraktik</text>
+            fill="currentColor">MOTONsPraktik</text>
         <text transform="rotate(70.60529494532403) translate(437.77777777777777,0) rotate(0)"
             dy="0.31em" x="-6" text-anchor="end" paint-order="stroke" stroke="white"
-            fill="currentColor">MoovesTeori</text>
+            fill="currentColor">MOTONsTeori</text>
         <text transform="rotate(131.30975974932315) translate(437.77777777777777,0) rotate(180)"
             dy="0.31em" x="6" text-anchor="start" paint-order="stroke" stroke="white"
             fill="currentColor">Homeostasis</text>
@@ -2837,22 +2837,22 @@
             fill="currentColor">Inertia</text>
         <text transform="rotate(28.40148482394946) translate(656.6666666666666,0) rotate(0)"
             dy="0.31em" x="-6" text-anchor="end" paint-order="stroke" stroke="white"
-            fill="currentColor">MoovesCompositions</text>
+            fill="currentColor">MOTONsCompositions</text>
         <text transform="rotate(29.537645659839242) translate(656.6666666666666,0) rotate(0)"
             dy="0.31em" x="6" text-anchor="start" paint-order="stroke" stroke="white"
-            fill="currentColor">MoovesError</text>
+            fill="currentColor">MOTONsError</text>
         <text transform="rotate(35.78653025723288) translate(656.6666666666666,0) rotate(0)"
             dy="0.31em" x="6" text-anchor="start" paint-order="stroke" stroke="white"
-            fill="currentColor">MoovesAxioms</text>
+            fill="currentColor">MOTONsAxioms</text>
         <text transform="rotate(36.92269109312264) translate(656.6666666666666,0) rotate(0)"
             dy="0.31em" x="-6" text-anchor="end" paint-order="stroke" stroke="white"
-            fill="currentColor">MoovesDefinitions</text>
+            fill="currentColor">MOTONsDefinitions</text>
         <text transform="rotate(104.28789879752546) translate(656.6666666666666,0) rotate(180)"
             dy="0.31em" x="6" text-anchor="start" paint-order="stroke" stroke="white"
-            fill="currentColor">MoovesPropositions</text>
+            fill="currentColor">MOTONsPropositions</text>
         <text transform="rotate(105.4240596334152) translate(656.6666666666666,0) rotate(180)"
             dy="0.31em" x="-6" text-anchor="end" paint-order="stroke" stroke="white"
-            fill="currentColor">MoovesSimbols</text>
+            fill="currentColor">MOTONsSimbols</text>
         <text transform="rotate(129.0374380775436) translate(656.6666666666666,0) rotate(180)"
             dy="0.31em" x="-6" text-anchor="end" paint-order="stroke" stroke="white"
             fill="currentColor">Electrolyte</text>
@@ -3128,25 +3128,25 @@
             fill="currentColor">Kontakt</text>
         <text transform="rotate(30.95784670470141) translate(875.5555555555555,0) rotate(0)"
             dy="0.31em" x="-6" text-anchor="end" paint-order="stroke" stroke="white"
-            fill="currentColor">MooveAtributsDefinitions</text>
+            fill="currentColor">MOTONAtributsDefinitions</text>
         <text transform="rotate(36.07057046620534) translate(875.5555555555555,0) rotate(0)"
             dy="0.31em" x="-6" text-anchor="end" paint-order="stroke" stroke="white"
-            fill="currentColor">MooveMetodsDefinitions</text>
+            fill="currentColor">MOTONMetodsDefinitions</text>
         <text transform="rotate(39.13820472310766) translate(875.5555555555555,0) rotate(0)"
             dy="0.31em" x="-6" text-anchor="end" paint-order="stroke" stroke="white"
-            fill="currentColor">MoovesDirectionDefinitions</text>
+            fill="currentColor">MOTONsDirectionDefinitions</text>
         <text transform="rotate(42.887535481543864) translate(875.5555555555555,0) rotate(0)"
             dy="0.31em" x="-6" text-anchor="end" paint-order="stroke" stroke="white"
-            fill="currentColor">MoovesPlaneDefinitions</text>
+            fill="currentColor">MOTONsPlaneDefinitions</text>
         <text transform="rotate(43.73965610846122) translate(875.5555555555555,0) rotate(0)"
             dy="0.31em" x="6" text-anchor="start" paint-order="stroke" stroke="white"
             fill="currentColor">Pose</text>
         <text transform="rotate(103.86183848406682) translate(875.5555555555555,0) rotate(180)"
             dy="0.31em" x="-6" text-anchor="end" paint-order="stroke" stroke="white"
-            fill="currentColor">MoovesProblems</text>
+            fill="currentColor">MOTONsProblems</text>
         <text transform="rotate(104.71395911098409) translate(875.5555555555555,0) rotate(180)"
             dy="0.31em" x="6" text-anchor="start" paint-order="stroke" stroke="white"
-            fill="currentColor">MoovesTeorems</text>
+            fill="currentColor">MOTONsTeorems</text>
         <text transform="rotate(164.15444498505587) translate(875.5555555555555,0) rotate(180)"
             dy="0.31em" x="-6" text-anchor="end" paint-order="stroke" stroke="white"
             fill="currentColor">BranchBreakSound</text>
@@ -3236,7 +3236,7 @@
             fill="currentColor">DailySchedule</text>
         <text transform="rotate(204.91421497260103) translate(875.5555555555555,0) rotate(180)"
             dy="0.31em" x="-6" text-anchor="end" paint-order="stroke" stroke="white"
-            fill="currentColor">MoovesTiming</text>
+            fill="currentColor">MOTONsTiming</text>
         <text transform="rotate(205.7663355995183) translate(875.5555555555555,0) rotate(180)"
             dy="0.31em" x="-6" text-anchor="end" paint-order="stroke" stroke="white"
             fill="currentColor">Planning</text>
@@ -3473,43 +3473,43 @@
             fill="currentColor">LaborTeorem</text>
         <text transform="rotate(27.208515946265223) translate(1094.4444444444443,0) rotate(0)"
             dy="0.31em" x="6" text-anchor="start" paint-order="stroke" stroke="white"
-            fill="currentColor">MooveAlias</text>
+            fill="currentColor">MOTONAlias</text>
         <text transform="rotate(27.890212447799087) translate(1094.4444444444443,0) rotate(0)"
             dy="0.31em" x="6" text-anchor="start" paint-order="stroke" stroke="white"
-            fill="currentColor">MooveAnalogia</text>
+            fill="currentColor">MOTONAnalogia</text>
         <text transform="rotate(28.57190894933295) translate(1094.4444444444443,0) rotate(0)"
             dy="0.31em" x="6" text-anchor="start" paint-order="stroke" stroke="white"
-            fill="currentColor">MooveAnatomia</text>
+            fill="currentColor">MOTONAnatomia</text>
         <text transform="rotate(29.25360545086677) translate(1094.4444444444443,0) rotate(0)"
             dy="0.31em" x="6" text-anchor="start" paint-order="stroke" stroke="white"
-            fill="currentColor">MooveError</text>
+            fill="currentColor">MOTONError</text>
         <text transform="rotate(29.935301952400664) translate(1094.4444444444443,0) rotate(0)"
             dy="0.31em" x="6" text-anchor="start" paint-order="stroke" stroke="white"
-            fill="currentColor">MooveFlux</text>
+            fill="currentColor">MOTONFlux</text>
         <text transform="rotate(30.61699845393447) translate(1094.4444444444443,0) rotate(0)"
             dy="0.31em" x="6" text-anchor="start" paint-order="stroke" stroke="white"
-            fill="currentColor">MooveFrekentia</text>
+            fill="currentColor">MOTONFrekentia</text>
         <text transform="rotate(31.29869495546835) translate(1094.4444444444443,0) rotate(0)"
             dy="0.31em" x="6" text-anchor="start" paint-order="stroke" stroke="white"
-            fill="currentColor">MooveKratos</text>
+            fill="currentColor">MOTONKratos</text>
         <text transform="rotate(31.980391457002213) translate(1094.4444444444443,0) rotate(0)"
             dy="0.31em" x="6" text-anchor="start" paint-order="stroke" stroke="white"
-            fill="currentColor">MooveKrux</text>
+            fill="currentColor">MOTONKrux</text>
         <text transform="rotate(32.66208795853606) translate(1094.4444444444443,0) rotate(0)"
             dy="0.31em" x="6" text-anchor="start" paint-order="stroke" stroke="white"
-            fill="currentColor">MooveKuboi</text>
+            fill="currentColor">MOTONKuboi</text>
         <text transform="rotate(33.34378446006991) translate(1094.4444444444443,0) rotate(0)"
             dy="0.31em" x="6" text-anchor="start" paint-order="stroke" stroke="white"
-            fill="currentColor">MooveMorfo</text>
+            fill="currentColor">MOTONMorfo</text>
         <text transform="rotate(34.025480961603776) translate(1094.4444444444443,0) rotate(0)"
             dy="0.31em" x="6" text-anchor="start" paint-order="stroke" stroke="white"
-            fill="currentColor">MooveTeknik</text>
+            fill="currentColor">MOTONTeknik</text>
         <text transform="rotate(34.707177463137626) translate(1094.4444444444443,0) rotate(0)"
             dy="0.31em" x="6" text-anchor="start" paint-order="stroke" stroke="white"
-            fill="currentColor">MooveTelos</text>
+            fill="currentColor">MOTONTelos</text>
         <text transform="rotate(36.07057046620534) translate(1094.4444444444443,0) rotate(0)"
             dy="0.31em" x="6" text-anchor="start" paint-order="stroke" stroke="white"
-            fill="currentColor">MooveMetods</text>
+            fill="currentColor">MOTONMetods</text>
         <text transform="rotate(37.43396346927305) translate(1094.4444444444443,0) rotate(0)"
             dy="0.31em" x="6" text-anchor="start" paint-order="stroke" stroke="white"
             fill="currentColor">AnteriorDirection</text>
@@ -3539,22 +3539,22 @@
             fill="currentColor">SagittalPlane</text>
         <text transform="rotate(44.93262498614547) translate(1094.4444444444443,0) rotate(0)"
             dy="0.31em" x="-6" text-anchor="end" paint-order="stroke" stroke="white"
-            fill="currentColor">AtleteMoovesTeorems</text>
+            fill="currentColor">AtleteMOTONsTeorems</text>
         <text transform="rotate(76.58281970021724) translate(1094.4444444444443,0) rotate(0)"
             dy="0.31em" x="-6" text-anchor="end" paint-order="stroke" stroke="white"
-            fill="currentColor">EkonMoovesTeorems</text>
+            fill="currentColor">EkonMOTONsTeorems</text>
         <text transform="rotate(121.88216088473251) translate(1094.4444444444443,0) rotate(180)"
             dy="0.31em" x="6" text-anchor="start" paint-order="stroke" stroke="white"
-            fill="currentColor">LaborMoovesTeorems</text>
+            fill="currentColor">LaborMOTONsTeorems</text>
         <text transform="rotate(142.84787880951072) translate(1094.4444444444443,0) rotate(180)"
             dy="0.31em" x="-6" text-anchor="end" paint-order="stroke" stroke="white"
-            fill="currentColor">MoovesDensityTeorems</text>
+            fill="currentColor">MOTONsDensityTeorems</text>
         <text transform="rotate(163.81359673428892) translate(1094.4444444444443,0) rotate(180)"
             dy="0.31em" x="6" text-anchor="start" paint-order="stroke" stroke="white"
-            fill="currentColor">MoovesLimitTeorems</text>
+            fill="currentColor">MOTONsLimitTeorems</text>
         <text transform="rotate(164.49529323582277) translate(1094.4444444444443,0) rotate(180)"
             dy="0.31em" x="-6" text-anchor="end" paint-order="stroke" stroke="white"
-            fill="currentColor">MoovesLineTeorems</text>
+            fill="currentColor">MOTONsLineTeorems</text>
         <text transform="rotate(165.8586862388905) translate(1094.4444444444443,0) rotate(180)"
             dy="0.31em" x="-6" text-anchor="end" paint-order="stroke" stroke="white"
             fill="currentColor">Playlists</text>
@@ -3845,82 +3845,82 @@
             fill="currentColor">Synergy</text>
         <text transform="rotate(23.112250361155546) translate(1313.3333333333333,0) rotate(0)"
             dy="0.31em" x="-6" text-anchor="end" paint-order="stroke" stroke="white"
-            fill="currentColor">BaseMoovesTeorems</text>
+            fill="currentColor">BaseMOTONsTeorems</text>
         <text transform="rotate(35.25496929472732) translate(1313.3333333333333,0) rotate(0)"
             dy="0.31em" x="-6" text-anchor="end" paint-order="stroke" stroke="white"
-            fill="currentColor">BrazoMoovesTeorems</text>
+            fill="currentColor">BrazoMOTONsTeorems</text>
         <text transform="rotate(42.315397346327984) translate(1313.3333333333333,0) rotate(0)"
             dy="0.31em" x="-6" text-anchor="end" paint-order="stroke" stroke="white"
-            fill="currentColor">HeadMoovesTeorems</text>
+            fill="currentColor">HeadMOTONsTeorems</text>
         <text transform="rotate(53.027770941859984) translate(1313.3333333333333,0) rotate(0)"
             dy="0.31em" x="-6" text-anchor="end" paint-order="stroke" stroke="white"
-            fill="currentColor">KorpoMoovesTeorems</text>
+            fill="currentColor">KorpoMOTONsTeorems</text>
         <text transform="rotate(66.75299961113532) translate(1313.3333333333333,0) rotate(0)"
             dy="0.31em" x="-6" text-anchor="end" paint-order="stroke" stroke="white"
-            fill="currentColor">ManoMoovesTeorems</text>
+            fill="currentColor">ManoMOTONsTeorems</text>
         <text transform="rotate(76.58281970021724) translate(1313.3333333333333,0) rotate(0)"
             dy="0.31em" x="-6" text-anchor="end" paint-order="stroke" stroke="white"
-            fill="currentColor">FloraMoovesTeorems</text>
+            fill="currentColor">FloraMOTONsTeorems</text>
         <text transform="rotate(81.93900649798326) translate(1313.3333333333333,0) rotate(0)"
             dy="0.31em" x="-6" text-anchor="end" paint-order="stroke" stroke="white"
-            fill="currentColor">BootMoovesTeorems</text>
+            fill="currentColor">BootMOTONsTeorems</text>
         <text transform="rotate(84.37363686060414) translate(1313.3333333333333,0) rotate(0)"
             dy="0.31em" x="-6" text-anchor="end" paint-order="stroke" stroke="white"
-            fill="currentColor">BottleMoovesTeorems</text>
+            fill="currentColor">BottleMOTONsTeorems</text>
         <text transform="rotate(87.78211936827341) translate(1313.3333333333333,0) rotate(0)"
             dy="0.31em" x="-6" text-anchor="end" paint-order="stroke" stroke="white"
-            fill="currentColor">BoxMoovesTeorems</text>
+            fill="currentColor">BoxMOTONsTeorems</text>
         <text transform="rotate(91.4340649122048) translate(1313.3333333333333,0) rotate(180)"
             dy="0.31em" x="6" text-anchor="start" paint-order="stroke" stroke="white"
-            fill="currentColor">BundleMoovesTeorems</text>
+            fill="currentColor">BundleMOTONsTeorems</text>
         <text transform="rotate(93.6252322385636) translate(1313.3333333333333,0) rotate(180)"
             dy="0.31em" x="6" text-anchor="start" paint-order="stroke" stroke="white"
-            fill="currentColor">CacheMoovesTeorems</text>
+            fill="currentColor">CacheMOTONsTeorems</text>
         <text transform="rotate(97.30761066202771) translate(1313.3333333333333,0) rotate(180)"
             dy="0.31em" x="6" text-anchor="start" paint-order="stroke" stroke="white"
-            fill="currentColor">ClothingMoovesTeorems</text>
+            fill="currentColor">ClothingMOTONsTeorems</text>
         <text transform="rotate(101.02042196502458) translate(1313.3333333333333,0) rotate(180)"
             dy="0.31em" x="6" text-anchor="start" paint-order="stroke" stroke="white"
-            fill="currentColor">DendronMoovesTeorems</text>
+            fill="currentColor">DendronMOTONsTeorems</text>
         <text transform="rotate(108.32431305288733) translate(1313.3333333333333,0) rotate(180)"
             dy="0.31em" x="6" text-anchor="start" paint-order="stroke" stroke="white"
-            fill="currentColor">DoruMoovesTeorems</text>
+            fill="currentColor">DoruMOTONsTeorems</text>
         <text transform="rotate(115.38474110448797) translate(1313.3333333333333,0) rotate(180)"
             dy="0.31em" x="6" text-anchor="start" paint-order="stroke" stroke="white"
-            fill="currentColor">GloveMoovesTeorems</text>
+            fill="currentColor">GloveMOTONsTeorems</text>
         <text transform="rotate(117.08898235832262) translate(1313.3333333333333,0) rotate(180)"
             dy="0.31em" x="6" text-anchor="start" paint-order="stroke" stroke="white"
-            fill="currentColor">KarabinerMoovesTeorems</text>
+            fill="currentColor">KarabinerMOTONsTeorems</text>
         <text transform="rotate(118.54976057589519) translate(1313.3333333333333,0) rotate(180)"
             dy="0.31em" x="6" text-anchor="start" paint-order="stroke" stroke="white"
-            fill="currentColor">KitMoovesTeorems</text>
+            fill="currentColor">KitMOTONsTeorems</text>
         <text transform="rotate(121.95824308356444) translate(1313.3333333333333,0) rotate(180)"
             dy="0.31em" x="6" text-anchor="start" paint-order="stroke" stroke="white"
-            fill="currentColor">MarkaMoovesTeorems</text>
+            fill="currentColor">MarkaMOTONsTeorems</text>
         <text transform="rotate(127.6491915561908) translate(1313.3333333333333,0) rotate(180)"
             dy="0.31em" x="6" text-anchor="start" paint-order="stroke" stroke="white"
-            fill="currentColor">PlantaforMoovesTeorems</text>
+            fill="currentColor">PlantaforMOTONsTeorems</text>
         <text transform="rotate(131.87936181124465) translate(1313.3333333333333,0) rotate(180)"
             dy="0.31em" x="6" text-anchor="start" paint-order="stroke" stroke="white"
-            fill="currentColor">RadiorMoovesTeorems</text>
+            fill="currentColor">RadiorMOTONsTeorems</text>
         <text transform="rotate(133.82706610134142) translate(1313.3333333333333,0) rotate(180)"
             dy="0.31em" x="6" text-anchor="start" paint-order="stroke" stroke="white"
-            fill="currentColor">RepairMoovesTeorems</text>
+            fill="currentColor">RepairMOTONsTeorems</text>
         <text transform="rotate(135.53130735517604) translate(1313.3333333333333,0) rotate(180)"
             dy="0.31em" x="6" text-anchor="start" paint-order="stroke" stroke="white"
-            fill="currentColor">RopeMoovesTeorems</text>
+            fill="currentColor">RopeMOTONsTeorems</text>
         <text transform="rotate(138.9397898628453) translate(1313.3333333333333,0) rotate(180)"
             dy="0.31em" x="6" text-anchor="start" paint-order="stroke" stroke="white"
-            fill="currentColor">SiteMoovesTeorems</text>
+            fill="currentColor">SiteMOTONsTeorems</text>
         <text transform="rotate(150.13908953090146) translate(1313.3333333333333,0) rotate(180)"
             dy="0.31em" x="6" text-anchor="start" paint-order="stroke" stroke="white"
-            fill="currentColor">SpadeMoovesTeorems</text>
+            fill="currentColor">SpadeMOTONsTeorems</text>
         <text transform="rotate(159.63414794512303) translate(1313.3333333333333,0) rotate(180)"
             dy="0.31em" x="6" text-anchor="start" paint-order="stroke" stroke="white"
-            fill="currentColor">TibiorMoovesTeorems</text>
+            fill="currentColor">TibiorMOTONsTeorems</text>
         <text transform="rotate(161.8253152714818) translate(1313.3333333333333,0) rotate(180)"
             dy="0.31em" x="6" text-anchor="start" paint-order="stroke" stroke="white"
-            fill="currentColor">TruckMoovesTeorems</text>
+            fill="currentColor">TruckMOTONsTeorems</text>
         <text transform="rotate(162.96147610737162) translate(1313.3333333333333,0) rotate(180)"
             dy="0.31em" x="-6" text-anchor="end" paint-order="stroke" stroke="white"
             fill="currentColor">BaseLimit</text>
@@ -4496,7 +4496,7 @@
             fill="currentColor">ThumbFlexion</text>
         <text transform="rotate(73.17433719254794) translate(1532.2222222222222,0) rotate(0)"
             dy="0.31em" x="-6" text-anchor="end" paint-order="stroke" stroke="white"
-            fill="currentColor">BranchMoovesTeorems</text>
+            fill="currentColor">BranchMOTONsTeorems</text>
         <text transform="rotate(73.66126326507217) translate(1532.2222222222222,0) rotate(0)"
             dy="0.31em" x="6" text-anchor="start" paint-order="stroke" stroke="white"
             fill="currentColor">FloraBlock</text>
@@ -4535,10 +4535,10 @@
             fill="currentColor">LogLaunch</text>
         <text transform="rotate(79.50437613536229) translate(1532.2222222222222,0) rotate(0)"
             dy="0.31em" x="6" text-anchor="start" paint-order="stroke" stroke="white"
-            fill="currentColor">TrunkMoove</text>
+            fill="currentColor">TrunkMOTON</text>
         <text transform="rotate(79.99130220788655) translate(1532.2222222222222,0) rotate(0)"
             dy="0.31em" x="6" text-anchor="start" paint-order="stroke" stroke="white"
-            fill="currentColor">TrunkMoovesTeorems</text>
+            fill="currentColor">TrunkMOTONsTeorems</text>
         <text transform="rotate(80.96515435293489) translate(1532.2222222222222,0) rotate(0)"
             dy="0.31em" x="6" text-anchor="start" paint-order="stroke" stroke="white"
             fill="currentColor">BootError</text>
@@ -4553,7 +4553,7 @@
             fill="currentColor">Frase</text>
         <text transform="rotate(82.9128586430316) translate(1532.2222222222222,0) rotate(0)"
             dy="0.31em" x="6" text-anchor="start" paint-order="stroke" stroke="white"
-            fill="currentColor">LaceMoove</text>
+            fill="currentColor">LaceMOTON</text>
         <text transform="rotate(83.88671078807994) translate(1532.2222222222222,0) rotate(0)"
             dy="0.31em" x="6" text-anchor="start" paint-order="stroke" stroke="white"
             fill="currentColor">BottleClean</text>
@@ -4613,22 +4613,22 @@
             fill="currentColor">Frase</text>
         <text transform="rotate(95.54250364912758) translate(1532.2222222222222,0) rotate(180)"
             dy="0.31em" x="-6" text-anchor="end" paint-order="stroke" stroke="white"
-            fill="currentColor">BaseLayerMoove</text>
+            fill="currentColor">BaseLayerMOTON</text>
         <text transform="rotate(96.02942972165175) translate(1532.2222222222222,0) rotate(180)"
             dy="0.31em" x="6" text-anchor="start" paint-order="stroke" stroke="white"
-            fill="currentColor">FastenerMoove</text>
+            fill="currentColor">FastenerMOTON</text>
         <text transform="rotate(96.66852019183975) translate(1532.2222222222222,0) rotate(180)"
             dy="0.31em" x="-6" text-anchor="end" paint-order="stroke" stroke="white"
             fill="currentColor">Frase</text>
         <text transform="rotate(97.30761066202771) translate(1532.2222222222222,0) rotate(180)"
             dy="0.31em" x="-6" text-anchor="end" paint-order="stroke" stroke="white"
-            fill="currentColor">InsulationLayerMoove</text>
+            fill="currentColor">InsulationLayerMOTON</text>
         <text transform="rotate(97.94670113221571) translate(1532.2222222222222,0) rotate(180)"
             dy="0.31em" x="-6" text-anchor="end" paint-order="stroke" stroke="white"
             fill="currentColor">Layering</text>
         <text transform="rotate(98.58579160240367) translate(1532.2222222222222,0) rotate(180)"
             dy="0.31em" x="6" text-anchor="start" paint-order="stroke" stroke="white"
-            fill="currentColor">ShellLayerMoove</text>
+            fill="currentColor">ShellLayerMOTON</text>
         <text transform="rotate(99.07271767492787) translate(1532.2222222222222,0) rotate(180)"
             dy="0.31em" x="-6" text-anchor="end" paint-order="stroke" stroke="white"
             fill="currentColor">TextilePreservation</text>
@@ -5198,25 +5198,25 @@
             fill="currentColor">TarpOn</text>
         <text transform="rotate(95.17730909473443) translate(1751.111111111111,0) rotate(180)"
             dy="0.31em" x="-6" text-anchor="end" paint-order="stroke" stroke="white"
-            fill="currentColor">BuckleMoove</text>
+            fill="currentColor">BuckleMOTON</text>
         <text transform="rotate(95.60336940819306) translate(1751.111111111111,0) rotate(180)"
             dy="0.31em" x="-6" text-anchor="end" paint-order="stroke" stroke="white"
-            fill="currentColor">ButtonMoove</text>
+            fill="currentColor">ButtonMOTON</text>
         <text transform="rotate(96.02942972165175) translate(1751.111111111111,0) rotate(180)"
             dy="0.31em" x="-6" text-anchor="end" paint-order="stroke" stroke="white"
-            fill="currentColor">SnapMoove</text>
+            fill="currentColor">SnapMOTON</text>
         <text transform="rotate(96.45549003511039) translate(1751.111111111111,0) rotate(180)"
             dy="0.31em" x="-6" text-anchor="end" paint-order="stroke" stroke="white"
-            fill="currentColor">ZelcroMoove</text>
+            fill="currentColor">ZelcroMOTON</text>
         <text transform="rotate(96.88155034856905) translate(1751.111111111111,0) rotate(180)"
             dy="0.31em" x="-6" text-anchor="end" paint-order="stroke" stroke="white"
-            fill="currentColor">ZipperMoove</text>
+            fill="currentColor">ZipperMOTON</text>
         <text transform="rotate(97.7336709754864) translate(1751.111111111111,0) rotate(180)"
             dy="0.31em" x="-6" text-anchor="end" paint-order="stroke" stroke="white"
-            fill="currentColor">HatMoove</text>
+            fill="currentColor">HatMOTON</text>
         <text transform="rotate(98.15973128894504) translate(1751.111111111111,0) rotate(180)"
             dy="0.31em" x="-6" text-anchor="end" paint-order="stroke" stroke="white"
-            fill="currentColor">PocketMoove</text>
+            fill="currentColor">PocketMOTON</text>
         <text transform="rotate(98.58579160240367) translate(1751.111111111111,0) rotate(180)"
             dy="0.31em" x="-6" text-anchor="end" paint-order="stroke" stroke="white"
             fill="currentColor">RainShell</text>
@@ -5246,7 +5246,7 @@
             fill="currentColor">MarkaPut</text>
         <text transform="rotate(124.02767889179225) translate(1751.111111111111,0) rotate(180)"
             dy="0.31em" x="-6" text-anchor="end" paint-order="stroke" stroke="white"
-            fill="currentColor">BackBagMoove</text>
+            fill="currentColor">BackBagMOTON</text>
         <text transform="rotate(124.45373920525088) translate(1751.111111111111,0) rotate(180)"
             dy="0.31em" x="-6" text-anchor="end" paint-order="stroke" stroke="white"
             fill="currentColor">BagEmpty</text>

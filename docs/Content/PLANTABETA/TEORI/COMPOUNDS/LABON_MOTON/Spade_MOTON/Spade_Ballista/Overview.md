@@ -1,6 +1,6 @@
 # 🟠<motor>SpadeBallista</motor>
 
-- The FinishMoove of SpadeBallista is SpadePost
+- The FinishMOTON of SpadeBallista is SpadePost
 
 - SpadeBallista is used to SpadePost when returning to the cache or when both hands are needed to adjust bags, transfer bundles, modify clothing layers, or to reload Marka roll.
 

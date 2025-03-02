@@ -1,6 +1,6 @@
-# 🟠 <motor>SpadeMoove</motor>
+# 🟠 <motor>SpadeMOTON</motor>
 
-## SpadeMoove.Anatomy
+## SpadeMOTON.Anatomy
 
 - Blade
     - BladeConvex
@@ -26,7 +26,7 @@
 
 ## Spade Attributes
 
-## 🕸 SpadeMoove.Skema
+## 🕸 SpadeMOTON.Skema
 
 ### Related 🟩<ekos>Eko</ekos>
 

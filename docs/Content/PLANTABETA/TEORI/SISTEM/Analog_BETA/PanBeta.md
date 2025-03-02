@@ -66,7 +66,7 @@ Passing
 
 - Play diagram [InsertImage]
     - Planted trees are like teammates in play diagrams
-- MoovePhrase
+- MOTONPhrase
 
 ## ### 🔷<beta>BikeBeta</beta>
 
@@ -115,12 +115,12 @@ Passing
 
 ### 🔻<via>BoxingBeta.VIA</via>
 
-- [BranchDeflection](/encyclopedia/Moove/PlantMoove/BranchDeflection)
-- [HeadBob](/encyclopedia/Moove/HeadMoove/Overview)
-- [HandClose](/encyclopedia/Moove/HandMoove/Overview)
-    - [PunchClose](/encyclopedia/Moove/HandMoove/Overview)
-- [FootClose](/encyclopedia/Moove/FootMoove/Overview)
-    - [StompClose](/encyclopedia/Moove/FootMoove/Overview)
+- [BranchDeflection](/encyclopedia/MOTON/PlantMOTON/BranchDeflection)
+- [HeadBob](/encyclopedia/MOTON/HeadMOTON/Overview)
+- [HandClose](/encyclopedia/MOTON/HandMOTON/Overview)
+    - [PunchClose](/encyclopedia/MOTON/HandMOTON/Overview)
+- [FootClose](/encyclopedia/MOTON/FootMOTON/Overview)
+    - [StompClose](/encyclopedia/MOTON/FootMOTON/Overview)
 
 ## 🔷 BreakDance (HipHopBeta)
 
@@ -163,10 +163,10 @@ Passing
 ### 🔻<via>CanoeBeta.VIA</via>
 
 - Paddle = Spade
-    - [SpadeSkreef](/encyclopedia/Moove/SpadeMoove/SpadeSkreef) is like taking a forward stroke or a draw stroke with a canoe paddle
-    - [SpadeGrip](/encyclopedia/Moove/SpadeMoove/SpadeGrip)
-        - [ShaftGrip](/encyclopedia/Moove/SpadeMoove/ShaftGrip)
-        - [HandleGrip](/encyclopedia/Moove/SpadeMoove/HandleGrip)
+    - [SpadeSkreef](/encyclopedia/MOTON/SpadeMOTON/SpadeSkreef) is like taking a forward stroke or a draw stroke with a canoe paddle
+    - [SpadeGrip](/encyclopedia/MOTON/SpadeMOTON/SpadeGrip)
+        - [ShaftGrip](/encyclopedia/MOTON/SpadeMOTON/ShaftGrip)
+        - [HandleGrip](/encyclopedia/MOTON/SpadeMOTON/HandleGrip)
 
 ## 🔷 Climbing (KLIMBETA)
 
@@ -459,7 +459,7 @@ NitroCircus
 
 ### 🟠<motor>ScooterBeta.MOVE</motor>
 
-Scooter space move is like SpadeMoove
+Scooter space move is like SpadeMOTON
 
 SpadeWhip
 
@@ -719,11 +719,11 @@ betaglot_activities = {
 - Consilience, Interdisciplinary
 - Climber to Planter group program. The Climbing Instructor stays with the group as they become planters. The Instructor already has rapport with the planters before the season starts and the planters have already become friends.
 - Betaglot needs to be able to translate into and from Mentalese
-- Betaglot Mooves use OtherSportBeta
+- Betaglot MOTONs use OtherSportBeta
     - Apex of SpadeSlam is TrampBeta while Spade impact is DiveBeta. SpadeSwing is RingsBeta. Legs are doing DanceBeta Foutette at Slam. Apex to move body and to counteract any offbalancing forces from SpadeSwing
 - Compulsory Elements
     - The superclass of Elements is Apparatus since most elements. Apparatus is an Ekon.
-    - ElementGraph is not just Moove, nodes can be any of the BetaTypes. Ekon branches down into Anima or move
+    - ElementGraph is not just MOTON, nodes can be any of the BetaTypes. Ekon branches down into Anima or move
 - CheerBeta see Dallas Cowboys Cheerleaders
 - (BetaQuotient)InsteadOf(BetaIndex,BETAMETRON)
 :::

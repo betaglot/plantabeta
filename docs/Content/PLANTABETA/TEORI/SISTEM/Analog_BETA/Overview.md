@@ -27,7 +27,7 @@ This each line are analog pairs. The equal signs = denotes where Climbing and Pl
 |            <motor>ClimbingShoe</motor> | <motor>PlantingBoot</motor>         |
 |                <beta>Redpoint</beta> | <beta>Replanting Required </beta> |
 |          <beta>Flash, Onsight</beta> | <beta>No replanting </beta>       |
-|         <motor>RockOver Moove</motor> = | = <motor>RockOver Moove</motor>      |
+|         <motor>RockOver MOTON</motor> = | = <motor>RockOver MOTON</motor>      |
 |              <via>ViaFinding</via> = | = <via>ViaFinding</via>           |
 |                <via>One Pitch</via>  | <via>One CoverLoop </via>         |
 |                  <motor>Fall</motor> = | = <motor>Fall</motor>               |

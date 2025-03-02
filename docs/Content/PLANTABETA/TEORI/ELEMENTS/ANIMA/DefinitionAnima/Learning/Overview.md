@@ -1,4 +1,4 @@
-# 🕸 <anima>Learning</anima>
+# 💭 <anima>Learning</anima>
 
 ---
 

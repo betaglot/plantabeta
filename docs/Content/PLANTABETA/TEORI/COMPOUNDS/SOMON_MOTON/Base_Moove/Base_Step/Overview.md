@@ -1,6 +1,6 @@
 # 🟠 <motor>Base_Step</motor>
 
-![MooveIkon](/BetaIkon/Mooves_Ikon.png)
+![MOTONIkon](/BetaIkon/MOTONs_Ikon.png)
 
 ## 🕸 Base_Step.Skema
 
@@ -35,7 +35,7 @@
 - StepInto
 - StepOver
 - TestStep
-    - SlowMoove
+    - SlowMOTON
     - Like SpadeTest, Test a Kontakt before putting your full weight on it
         - UnstableSlope
         - SlipperySlope
@@ -45,9 +45,9 @@
 
 <h2>PageTags</h2>
 
-- "Moove.LegMoove.Step"
-- "Moove.LegMoove.Step.BackStep"
-- "Moove.LegMoove.Step.KickStep"
-- "Moove.LegMoove.Step.SideStep"
+- "MOTON.LegMOTON.Step"
+- "MOTON.LegMOTON.Step.BackStep"
+- "MOTON.LegMOTON.Step.KickStep"
+- "MOTON.LegMOTON.Step.SideStep"
 
 :::

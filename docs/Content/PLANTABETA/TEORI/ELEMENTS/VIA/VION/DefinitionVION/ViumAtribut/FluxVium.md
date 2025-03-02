@@ -1,6 +1,6 @@
 # 🔻<via>ViaFlux</via>
 
-Aliases: Flow, Flowing Moovement, Fluidity, Fluid movement, Continuous, NonStop, Constantly Changing, ever moving, fleeting,
+Aliases: Flow, Flowing MOTONment, Fluidity, Fluid movement, Continuous, NonStop, Constantly Changing, ever moving, fleeting,
 
 ## 🔷<beta>BetaAnalogy</beta>
 
@@ -20,9 +20,9 @@ Connection Score
 
 (GymBeta, SkateBeta): ConnectionScore
 
-Connection of Mooves within Phrases and connections of phrases too.
+Connection of MOTONs within Phrases and connections of phrases too.
 
-Mooves flow into each other
+MOTONs flow into each other
 
 ## 🔻<via>VIA.Flux</via>: Transition
 

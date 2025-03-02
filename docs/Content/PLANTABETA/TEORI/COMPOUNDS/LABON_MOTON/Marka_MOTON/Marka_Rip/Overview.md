@@ -1,6 +1,6 @@
 # 🟠 <motor>MarkaRip</motor>
 
-![MooveIkon](/BetaIkon/Mooves_Ikon.png)
+![MOTONIkon](/BetaIkon/MOTONs_Ikon.png)
 
 ## 🕸 MarkaRip.Skema
 
@@ -33,6 +33,6 @@
 
 <h2>PageTags</h2>
 
-- "Moove.InstrumentMoove.MarkaMoove.MarkaRip"
+- "MOTON.InstrumentMOTON.MarkaMOTON.MarkaRip"
 
 :::

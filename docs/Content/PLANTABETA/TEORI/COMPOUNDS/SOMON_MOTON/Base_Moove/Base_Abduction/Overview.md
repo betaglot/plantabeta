@@ -1,6 +1,6 @@
 # 🟠 <motor>BaseAbduction</motor>
 
-![MooveIkon](/BetaIkon/Mooves_Ikon.png)
+![MOTONIkon](/BetaIkon/MOTONs_Ikon.png)
 
 ## 🕸 BaseAbduction.Skema
 
@@ -33,5 +33,5 @@
 
 <h2>PageTags</h2>
 
-- "Moove.LegMoove.BaseAbduction"
+- "MOTON.LegMOTON.BaseAbduction"
 :::

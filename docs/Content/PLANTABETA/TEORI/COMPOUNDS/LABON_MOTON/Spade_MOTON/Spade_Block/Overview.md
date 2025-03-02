@@ -31,5 +31,5 @@
 ::: details 🛠 <dev>&&&</dev>
 
 - Can be used while Walking or while TreeInsert, like a SpadePry or with a SpadeAma (SpadeAma doesn't require BrazoAma)
-- CollarMano or HandleMano or both, 2ManoMoove
+- CollarMano or HandleMano or both, 2ManoMOTON
 :::

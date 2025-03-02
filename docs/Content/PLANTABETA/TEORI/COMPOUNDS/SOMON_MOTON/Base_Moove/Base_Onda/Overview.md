@@ -1,6 +1,6 @@
 # 🟠 <motor>LegKurve</motor>
 
-![MooveIkon](/BetaIkon/Mooves_Ikon.png)
+![MOTONIkon](/BetaIkon/MOTONs_Ikon.png)
 
 ## 🕸 LegKurve.Skema
 
@@ -33,6 +33,6 @@
 
 <h2>PageTags</h2>
 
-- "Moove.LegMoove.LegKurve"
+- "MOTON.LegMOTON.LegKurve"
 
 :::

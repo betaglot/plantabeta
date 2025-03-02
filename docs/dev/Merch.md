@@ -10,7 +10,7 @@ Scantily clad Plantors
 
 No genders
 
-### <motor>Spade: SpadeMoove</motor>
+### <motor>Spade: SpadeMOTON</motor>
 
 - Ace:
 - 2:
@@ -87,7 +87,7 @@ Joker: Rock under cream
 - Achievements Poster
 - ElementWeb
 - ElementTree
-- Moove, Via, Eko, Anima, Beta
+- MOTON, Via, Eko, Anima, Beta
 - Betaglot Logo
 
 ### CampPoster
@@ -117,7 +117,7 @@ Spaghetti sculpture build
 
 Thick diameter
 
-Dyed for Moove Direction Extension or Flexion like yoga book,
+Dyed for MOTON Direction Extension or Flexion like yoga book,
  WholeGrain
 
 ## Clothes

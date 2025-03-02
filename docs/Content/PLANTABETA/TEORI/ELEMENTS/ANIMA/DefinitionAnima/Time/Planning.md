@@ -1,4 +1,4 @@
-# 🕸 <anima>Planning </anima>
+# 💭 <anima>Planning </anima>
 
 ![Anima_Ikon](/Anima/Anima_Ikon.png)
 

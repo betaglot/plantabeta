@@ -18,7 +18,7 @@ The closest thing to a BetaKomposition is a Theatre Komposition, since:
 
 > 🟠<motor>Dance</motor> 🔻<via>to the center</via> of 🟩<ekos>the stage</ekos> while 💜<anima>singing to music</anima>
 
-### The movements of actors is a 🟠<motor>MOOVES Komposition</motor>
+### The movements of actors is a 🟠<motor>MOTONS Komposition</motor>
 
 ### Stage Directions a 🔻<via>VIA Komposition</via>
 
@@ -93,14 +93,14 @@ One of the foundations of Computational Thinking
 ⭐: Labor is composed of the elements called Labes
 🟩: Ekos is composed of the elements called Ekons
 🔻: Via is composed of the elements called Vions
-🟠: Motor is composed of the elements called Mooves
+🟠: Motor is composed of the elements called MOTONs
 💜: Anima is composed of the elements called Animons
 
 🔷: Betons can be grouped into Moments
 ⭐: Labes can be grouped into Tasks
 🟩: Ekons can be grouped into Ecosystems
 🔻: Vions can be grouped into
-🟠: Mooves can be grouped into Frases
+🟠: MOTONs can be grouped into Frases
 💜: Animons can be grouped into Breaths
 
 :::

@@ -1,6 +1,6 @@
 # 🟠 <motor>BrazoAma</motor>
 
-![MooveIkon](/BetaIkon/Mooves_Ikon.png)
+![MOTONIkon](/BetaIkon/MOTONs_Ikon.png)
 
 ## BrazoAma.Problem
 
@@ -23,7 +23,7 @@
 - ArmPosition
     - <via>ArmAboveShoulder</via>
 
-## Related <motor>Moove</motor>
+## Related <motor>MOTON</motor>
 
 - 🟠<motor>StandUp</motor>
     - FallRecovery
@@ -73,7 +73,7 @@
 
 - <https://en.wikipedia.org/wiki/Polynesian_multihull_terminology>
 - StiffArm Flora
-- CacheMoove
+- CacheMOTON
     - BrazoAma during BagLoad
 - What determines ArmAngle to maintain Spine Position?
 - Arm prop occurs on ships
@@ -88,6 +88,6 @@
 
 <h2>PageTags</h2>
 
-- "Moove.ArmMoove.BrazoAma"
+- "MOTON.ArmMOTON.BrazoAma"
 
 :::

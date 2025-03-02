@@ -1,6 +1,6 @@
 # 🟠 <motor>Stand</motor>
 
-![MooveIkon](/BetaIkon/Mooves_Ikon.png)
+![MOTONIkon](/BetaIkon/MOTONs_Ikon.png)
 
 ## 🕸 Stand.Skema
 
@@ -31,6 +31,6 @@
 
 - Balance
 - MountainPose
-- MooveAxiom
+- MOTONAxiom
 
 :::

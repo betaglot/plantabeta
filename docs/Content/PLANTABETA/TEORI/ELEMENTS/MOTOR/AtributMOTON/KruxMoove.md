@@ -1,4 +1,4 @@
-# 🟠<motor>MooveKrux</motor>
+# 🟠<motor>MOTONKrux</motor>
 
 > the most difficult attribute of this Element
 

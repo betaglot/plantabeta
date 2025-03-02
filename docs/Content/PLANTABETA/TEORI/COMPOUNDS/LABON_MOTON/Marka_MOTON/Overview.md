@@ -1,4 +1,4 @@
-# 🟠 <motor>MarkaMoove</motor>
+# 🟠 <motor>MarkaMOTON</motor>
 
 ## MarkaPut
 
@@ -8,12 +8,12 @@ post verb (MAKE KNOWN)
 
 Markas are posted throughout the land.
 
-## MarkaMoove.Anatomy
+## MarkaMOTON.Anatomy
 
 - MarkaBody
 - MarkaEnd
 
-## MarkaMoove.Attributes
+## MarkaMOTON.Attributes
 
 - MarkaLength
 - MarkaWidth
@@ -21,7 +21,7 @@ Markas are posted throughout the land.
 - MarkaHeight
 - MarkaColor
 
-## 🕸 MarkaMoove.Skema
+## 🕸 MarkaMOTON.Skema
 
 ### Related 🟩<ekos>Eko</ekos>
 
@@ -53,8 +53,8 @@ Markas are posted throughout the land.
 
 <h2>PageTags</h2>
 
-- "Moove.InstrumentMoove.MarkaMoove.MarkaDrop"
-- "Moove.InstrumentMoove.MarkaMoove.MarkaStump"
-- "Moove.InstrumentMoove.MarkaMoove.MooveError.PlantedMarka"
-- "Moove.InstrumentMoove.MarkaMoove.Overview"
+- "MOTON.InstrumentMOTON.MarkaMOTON.MarkaDrop"
+- "MOTON.InstrumentMOTON.MarkaMOTON.MarkaStump"
+- "MOTON.InstrumentMOTON.MarkaMOTON.MOTONError.PlantedMarka"
+- "MOTON.InstrumentMOTON.MarkaMOTON.Overview"
 :::

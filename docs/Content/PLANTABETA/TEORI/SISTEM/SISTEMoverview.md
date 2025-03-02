@@ -17,7 +17,7 @@ Each SistemType is structured into Praktik and Teoria
 5. 🟩EKOS
 6. 🔻VIA
 7. 🟠MOTOR
-8. 💜ANIMA
+8. 💭ANIMA
 
 DotNotation for Subset
 
@@ -130,7 +130,7 @@ BetaMoment is a Tuple or at least an immutable DataStructure
 - Remove the Concept of Elements
 - Propositions are Objects
 - Propositions have attributes and Methods
-- All Mooves have the method to connect to another Moove in a sequence
+- All MOTONs have the method to connect to another MOTON in a sequence
 - The sistema is for knowing what beta to use
     - Given this situation what methods do I use with what objects and how to tune their attributes to increase ease of performance
 

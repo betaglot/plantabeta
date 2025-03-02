@@ -32,9 +32,9 @@ Listing items tests a Climbers ability to recall information.
 
 Order Elements by:
 
-- MooveRisk
-- MooveIntensity
-- MooveComplexity
+- MOTONRisk
+- MOTONIntensity
+- MOTONComplexity
 - RouteRisk
 - RouteIntensity
 - RouteComplexity

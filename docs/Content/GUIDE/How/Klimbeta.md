@@ -61,7 +61,7 @@ The BetaScore encourages efficiency.
 
 - Understand the optimal way to perform a move, to prevent injury.
 
-#### Moove
+#### MOTON
 
 Plantors become physically fit and ambidextrous
 

@@ -1,6 +1,6 @@
-# 🟠<motor>InsulationLayerMoove</motor>
+# 🟠<motor>InsulationLayerMOTON</motor>
 
-## 🕸 InsulationLayerMoove.Skema
+## 🕸 InsulationLayerMOTON.Skema
 
 ### Related 🟩<ekos>Eko</ekos>
 

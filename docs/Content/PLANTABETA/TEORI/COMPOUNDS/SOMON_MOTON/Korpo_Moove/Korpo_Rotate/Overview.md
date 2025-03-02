@@ -1,6 +1,6 @@
 # 🟠 <motor>BodyRotate</motor>
 
-![MooveIkon](/BetaIkon/Mooves_Ikon.png)
+![MOTONIkon](/BetaIkon/MOTONs_Ikon.png)
 
 ## 🕸 BodyRotate.Skema
 
@@ -34,6 +34,6 @@
 
 <h2>PageTags</h2>
 
-- "Moove.BodyMoove.BodyRotate"
+- "MOTON.BodyMOTON.BodyRotate"
 
 :::

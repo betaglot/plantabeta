@@ -24,13 +24,13 @@ What is tree planting like?
 
 - Resilience
 - Leg Strength
-- DynamicMooves
+- DynamicMOTONs
 
 ### Wrestling
 
-- FullBodyMoove
+- FullBodyMOTON
 - Resilience
-- Moove Frases
+- MOTON Frases
 
 ### Hiking
 

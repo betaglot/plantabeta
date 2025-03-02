@@ -69,7 +69,7 @@ pencil on a string
 
 Use OpenCV in Python to tag Video timestamps
 
-To Put boxes around MooveObject or EcoObjects
+To Put boxes around MOTONObject or EcoObjects
 
 ## Privacy
 

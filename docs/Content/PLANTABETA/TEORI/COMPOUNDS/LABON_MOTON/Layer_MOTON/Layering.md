@@ -19,5 +19,5 @@
 
 <h2>PageTags</h2>
 
-- "Moove.ClothingMoove.ClothingLayer"
+- "MOTON.ClothingMOTON.ClothingLayer"
 :::

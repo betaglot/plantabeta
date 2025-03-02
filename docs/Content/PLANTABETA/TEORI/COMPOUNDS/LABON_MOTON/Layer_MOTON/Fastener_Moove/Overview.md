@@ -1,6 +1,6 @@
-# 🟠<motor>FastenerMoove</motor>
+# 🟠<motor>FastenerMOTON</motor>
 
-## 🕸 FastenerMoove.Skema
+## 🕸 FastenerMOTON.Skema
 
 ### Related 🟩<ekos>Eko</ekos>
 
