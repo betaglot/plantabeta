@@ -45,27 +45,27 @@ function nav() {
     {
       text: 'Guide',
       link: 'content/guide/GuideOverview',
-      activeMatch: 'content/guide/'
+      activeMatch: '/content/guide/'
     },
     {
       text: 'Examples',
       link: 'content/example/Overview',
-      activeMatch: 'content/example/'
+      activeMatch: '/content/example/'
     },
     {
       text: 'Tutorial',
       link: 'content/tutorial/TutorialOverview',
-      activeMatch: 'content/tutorial/'
+      activeMatch: '/content/tutorial/'
     },
     {
       text: '🔷TEORI',
       link: 'content/PlantaBeta/Teori/TeoriOverview',
-      activeMatch: 'content/PlantaBeta/Teori/'
+      activeMatch: '/content/PlantaBeta/Teori/'
     },
     {
       text: '🔷PRAKTIK',
       link: 'content/PlantaBeta/Praktik/PraktikOverview',
-      activeMatch: 'content/PlantaBeta/Praktik/'
+      activeMatch: '/content/PlantaBeta/Praktik/'
     },
     {
       text: '🛠',
