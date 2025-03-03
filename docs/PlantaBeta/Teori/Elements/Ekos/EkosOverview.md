@@ -28,7 +28,7 @@ The word "<ekos>eko</ekos>system" was derived from <ekos>eco</ekos>logy
 <!-- =================================================== -->
 <!-- =================================================== -->
 <!-- =================================================== -->
-::: details 🛠 <dev>&&&</dev>
+::: details 🛠
 
 - All Land is Ekos, but not all Ekos is Land. Atmosphere
 - Ekos a subset of Anima. Ekos is perceived. The map is not the territory. Anima objectifies earth.

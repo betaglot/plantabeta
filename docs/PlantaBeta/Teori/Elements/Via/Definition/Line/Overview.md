@@ -32,7 +32,7 @@ Aliases: Path, Way, Route, Passage, Trail
 <!-- =================================================== -->
 <!-- =================================================== -->
 <!-- =================================================== -->
-::: details 🛠 <dev>&&&</dev>
+::: details 🛠
 
 - Remember that there can be many different ways to MOTON along a given line. Line and MOTON are independent of each other.
 

@@ -63,7 +63,7 @@ Unknown Information
 <!-- =================================================== -->
 <!-- =================================================== -->
 <!-- =================================================== -->
-::: details 🛠 <dev>&&&</dev>
+::: details 🛠
 
 - Cornering
 - The UltimateViaProblem is to close the next hole. Planting is all about closing holes

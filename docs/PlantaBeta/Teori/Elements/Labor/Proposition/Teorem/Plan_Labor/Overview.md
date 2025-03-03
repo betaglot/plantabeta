@@ -13,7 +13,7 @@ BlockFill Pattern plantors usually it's only supervisors that need to know Block
 <!-- =================================================== -->
 <!-- =================================================== -->
 <!-- =================================================== -->
-::: details 🛠 <dev>&&&</dev>
+::: details 🛠
 
 - Complete is a State and also a Plan
     - Plan to complete a Labor

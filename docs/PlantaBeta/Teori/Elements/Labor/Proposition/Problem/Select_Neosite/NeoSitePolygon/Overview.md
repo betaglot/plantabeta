@@ -16,7 +16,7 @@ MOTON on a hexagonal grid like CGP grey YouTube
 <!-- =================================================== -->
 <!-- =================================================== -->
 <!-- =================================================== -->
-::: details 🛠 <dev>&&&</dev>
+::: details 🛠
 
 - You plant polygons even when you're ParaLimit
 

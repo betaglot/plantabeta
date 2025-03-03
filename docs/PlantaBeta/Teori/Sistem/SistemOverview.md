@@ -8,7 +8,7 @@ Each SistemType is structured into Praktik and Teoria
 
 Betum = (Element+Element)
 
-(Vion+Vion) = Vion 
+(Vion+Vion) = Vion
 (Vion+Moton) = Betum
 
 Betomiks(Komposition(Betum(Element)))
@@ -20,12 +20,12 @@ Betomiks(Komposition(Betum(Element)))
 "You need to change the VIA of the Betum that you performed using the Stump."
 
 1. SISTEM
-2. ⭐LABOR
-3. 🔷SOMA
-4. 🟩EKOS
-5. 🔻VIA
-6. 🟠MOTOR
-7. 💜ANIMA
+2. ⭐<labor>LABOR</labor>
+3. 🔷<soma>SOMA</soma>
+4. 🟩<ekos>EKOS</ekos>
+5. 🔻<via>VIA</via>
+6. 🟠<motor>MOTOR</motor>
+7. 💜<anima>ANIMA</anima>
 
 DotNotation for Subset
 
@@ -136,7 +136,7 @@ BetaMoment is a Tuple or at least an immutable DataStructure
 <!-- =================================================== -->
 <!-- =================================================== -->
 <!-- =================================================== -->
-::: details 🛠 <dev>&&&</dev>
+::: details 🛠
 
 - There's gonna be recursion
 - Beta does not require Sistem, PlantaBeta\Beta requires a Sistem

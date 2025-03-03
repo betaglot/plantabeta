@@ -29,7 +29,7 @@
 <!-- =================================================== -->
 <!-- =================================================== -->
 <!-- =================================================== -->
-::: details 🛠 <dev>&&&</dev>
+::: details 🛠
 
 - The Seedlings that you're planting are not part of Eko, they are brought to the Block by your company.
 

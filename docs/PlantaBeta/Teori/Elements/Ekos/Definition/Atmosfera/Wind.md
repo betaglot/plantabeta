@@ -27,7 +27,7 @@
 <!-- =================================================== -->
 <!-- =================================================== -->
 <!-- =================================================== -->
-::: details 🛠 <dev>&&&</dev>
+::: details 🛠
 
 - Tree Eddy to shield from wind
 - Looking up while planting the treeline during windy weather

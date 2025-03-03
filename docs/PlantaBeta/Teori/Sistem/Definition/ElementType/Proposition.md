@@ -331,7 +331,7 @@ From the french dictionary [Le Robert](https://dictionnaire.lerobert.com/definit
 <!-- =================================================== -->
 <!-- =================================================== -->
 <!-- =================================================== -->
-::: details 🛠 <dev>&&&</dev>
+::: details 🛠
 
 - QED Quod Erat Demonstratum
 

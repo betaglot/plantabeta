@@ -27,7 +27,7 @@ Use other resources to explain Kinematics. Explaining physics is beyond the curr
 <!-- =================================================== -->
 <!-- =================================================== -->
 <!-- =================================================== -->
-::: details 🛠 <dev>&&&</dev>
+::: details 🛠
 
 - Pythagorean theorem to explain what a theorem is
 

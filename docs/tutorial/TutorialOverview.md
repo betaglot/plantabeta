@@ -13,7 +13,7 @@ Multiple choice tests, where Plantors choose from a selection of images or a sel
 - Error Dectection
 - Crosswords
 
-## EcoTest
+## EKOS Test
 
 - Tree Genus Identification (Species Identification is more nuanced than required)
 
@@ -31,11 +31,13 @@ treeList = [
     ]
 ```
 
-## MOTONTest
+## LABOR Test
 
-## ViaTest
+## VIA Test
 
-## NeuroTest
+## MOTON Test
+
+## ANIMA Test
 
 ---
 
@@ -44,7 +46,7 @@ treeList = [
 <!-- =================================================== -->
 <!-- =================================================== -->
 <!-- =================================================== -->
-::: details 🛠 <dev>&&&</dev>
+::: details 🛠
 
 - <https://www.verywellmind.com/bronfenbrenner-ecological-model-7643403>
 - Documentation to play the (game == simulation == PlantorExperience)

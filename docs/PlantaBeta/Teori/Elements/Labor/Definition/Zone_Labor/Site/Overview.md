@@ -25,7 +25,7 @@
 <!-- =================================================== -->
 <!-- =================================================== -->
 <!-- =================================================== -->
-::: details 🛠 <dev>&&&</dev>
+::: details 🛠
 
 - <https://www2.gov.bc.ca/assets/gov/farming-natural-resources-and-industry/forestry/silviculture/micrositeselection_informedplanter.pdf>
 

@@ -1,0 +1,27 @@
+# 🟠 <motor>InstrumentMOTON</motor>
+
+## Instrument List
+
+- Spade
+- PlantingBags
+- Gloves
+- Kit
+- Marka
+- Rope
+
+---
+
+<!-- =================================================== -->
+<!-- =================================================== -->
+<!-- =================================================== -->
+<!-- =================================================== -->
+<!-- =================================================== -->
+::: details 🛠
+
+- Boots are Instruments, they have different attributes from feet, in the same way that spades have different attributes from hands
+
+<h2>PageTags</h2>
+
+- "MOTON.InstrumentMOTON.Overview"
+
+:::
