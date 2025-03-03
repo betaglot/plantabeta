@@ -2,19 +2,15 @@
 
 > This Reference section provides you with details about the functions, modules, and objects included in PlantaBeta, describing their Attributes and usage.
 
-## [![Beta](/Ikon/Beta_Ikon.png)](/reference/Beta/WhatBeta)
+## [Sistem](/PlantaBeta/Teori/Sistem/SistemOverview)
 
-## [![Ekos](/Ikon/Ekos_Ikon.png)](/reference/Ekos/EkosOverview)
+## [Elements](/PlantaBeta/Teori/Elements/ElementsOverview)
 
-## [![MOTONs](/Ikon/Motor_Ikon.png)](/reference/MOTONs/MOTONsOverview)
+## [Betum](/PlantaBeta/Teori/Betum/BetumOverview)
 
-## [![Via](/Ikon/Via_Ikon.png)](/reference/Via/ViaOverview)
+## [Komposition](/PlantaBeta/Teori/Komposition/KompositionOverview)
 
-## [![Anima](/Ikon/Anima_Ikon.png)](/reference/Anima/AnimaOverview)
-
-## [Lexikon](/reference/Lexikon)
-
-A list of all terms that you must be familiar with to master planting.
+## [Betomiks](/PlantaBeta/Teori/Betomiks/BetomiksOverview)
 
 ---
 
@@ -27,14 +23,4 @@ A list of all terms that you must be familiar with to master planting.
 
 -
 
-The ENCYCLOPEDIA Section is like a dictionary
-
-The ENCYCLOPEDIA section is not going to be used as much as the tutorials. To use the ref section you need to already know what you're looking for. Known unknowns. When using the Guide, user is full of unknown unknowns, they don't know anything about planting.
-
-ENCYCLOPEDIA overview should have a table of contents for the whole module
-
-Module overview
-<h2>PageTags</h2>
-
-- "ENCYCLOPEDIA.Overview"
 :::

@@ -1,6 +1,8 @@
-# 💜<soma>SOMA</soma>
+# 🔷 <soma>SOMA</soma> 🔷
 
-## What is a 💜<soma>SOMON</soma>
+![Soma_Ikon](/Ikon/Soma_Ikon.png)
+
+## What is a 🔷<soma>SOMON</soma>
 
 ---
 

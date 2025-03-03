@@ -1,4 +1,4 @@
-# 💜 <anima>Anima Overview </anima>
+# 💜 <anima>ANIMA</anima> 💜
 
 ANIMA == PSYCHE == SPIRITUS
 
@@ -76,7 +76,7 @@ ANIMA == PSYCHE == SPIRITUS
 
 ---
 
-## <anima>Anima Simbol</anima> 💭
+## <anima>Anima Simbol</anima> 💜
 
 > Violet Heart
 

@@ -1,4 +1,6 @@
-# ⭐<labor>LABOR</labor>
+# ⭐ <labor>LABOR</labor> ⭐
+
+![Labor_Ikon](/Ikon/Labor_Ikon.png)
 
 Aliases: Work, Job, Task
 

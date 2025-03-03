@@ -12,14 +12,14 @@ hero:
   actions:
     - theme: brand
       text: I'm new to PLANTABETA
-      link: /content/guide/GuideOverview
+      link: /guide/GuideOverview
 
 
 features:
   - icon: 🔷
     title: Examples
     details: Accelerate your plantor development by learning from examples
-    link: /example/EXAMPLEoverview
+    link: /example/ExampleOverview
   - icon: 🛠️
     title: Dev
     details: Last Updated on March 2, 2025
@@ -27,7 +27,7 @@ features:
   - icon: 🔎
     title: Browse PLANTABETA
     details: Find information about the PlantaBeta objects that you're using
-    link: /content/PLANTABETA/PLANTABETAoverview
+    link: /PlantaBeta/PlantaBetaOverview
 
 ---
 

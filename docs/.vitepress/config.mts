@@ -31,9 +31,10 @@ export default defineConfig({
     sidebar: {
       '/guide/': sidebarGuide(),
       '/example/': sidebarExamples(),
-      '//tutorial/': sidebarTutorial(),
-      'PlantaBeta/Teori/': sidebarTEORI(),
-      'PlantaBeta/Praktik/': sidebarPRAKTIK(),
+      '/tutorial/': sidebarTutorial(),
+      '/PlantaBeta/Teori/Elements/': sidebarElements(),
+      '/PlantaBeta/Teori/Betums/': sidebarBetums(),
+      '/PlantaBeta/Praktik/': sidebarPRAKTIK(),
       '/dev/': sidebarDevelopment(),
     }
   }
@@ -49,7 +50,7 @@ function nav() {
     },
     {
       text: 'Examples',
-      link: '/example/Overview',
+      link: '/example/ExampleOverview',
       activeMatch: '/example/'
     },
     {
@@ -58,12 +59,12 @@ function nav() {
       activeMatch: '/tutorial/'
     },
     {
-      text: '🔷TEORI',
+      text: 'TEORI',
       link: 'PlantaBeta/Teori/TeoriOverview',
       activeMatch: '/PlantaBeta/Teori/'
     },
     {
-      text: '🔷PRAKTIK',
+      text: 'PRAKTIK',
       link: 'PlantaBeta/Praktik/PraktikOverview',
       activeMatch: '/PlantaBeta/Praktik/'
     },
@@ -127,33 +128,33 @@ function sidebarGuide() {
       text: 'Introduction',
       collapsed: false,
       items: [
-        { text: 'What is Tree Planting?', link: '/GUIDE/What/WhatTreePlanting' },
-        { text: 'What is 🔷<beta>PLANTABETA</beta>?', link: '/GUIDE/What/WhatPLANTABETA' },
+        { text: 'What is Tree Planting?', link: '/guide/What/WhatTreePlanting' },
+        { text: 'What is <beta>PLANTABETA</beta>?', link: '/guide/What/WhatPLANTABETA' },
       ]
     },
     {
       text: 'Purpose', collapsed: false, items: [
-        { text: '🔥<ekos>To Support Ecosystems</ekos>', link: '/GUIDE/Why/SupportEcosystem' },
-        { text: '🟠<motor>To Reduce Injury</motor>', link: '/GUIDE/Why/Injury' },
-        { text: '🔻<via>To Increase Productivity</via>', link: '/GUIDE/Why/Productivity' },
-        { text: '🔷<beta>To Improve Communication</beta>', link: '/GUIDE/Why/Communication' },
-        { text: '💜<anima>To Steepen Learning Curve</anima>', link: '/GUIDE/Why/LearningCurve' },
-        { text: '💲To Increase Profit', link: '/GUIDE/Why/Company' }
+        { text: '🔥<ekos>To Support Ecosystems</ekos>', link: '/guide/Why/SupportEcosystem' },
+        { text: '🟠<motor>To Reduce Injury</motor>', link: '/guide/Why/Injury' },
+        { text: '🔻<via>To Increase Productivity</via>', link: '/guide/Why/Productivity' },
+        { text: '<beta>To Improve Communication</beta>', link: '/guide/Why/Communication' },
+        { text: '💜<anima>To Steepen Learning Curve</anima>', link: '/guide/Why/LearningCurve' },
+        { text: '💲To Increase Profit', link: '/guide/Why/Company' }
       ]
     },
     {
       text: 'Plantor Guide', collapsed: false, items: [
-        { text: 'Potential Plantor', link: '/GUIDE/Who/PotentialPlantor' },
-        { text: 'Novice Plantor', link: '/GUIDE/Who/NovicePlantor' },
-        { text: 'Experienced Plantor', link: '/GUIDE/Who/ExperiencedPlantor' },
-        { text: 'Plantor Supervisor', link: '/GUIDE/Who/PlantorSupervisor' },
-        { text: 'Plantor Instructor', link: '/GUIDE/Who/PlantorInstructor' }
+        { text: 'Potential Plantor', link: '/guide/Who/PotentialPlantor' },
+        { text: 'Novice Plantor', link: '/guide/Who/NovicePlantor' },
+        { text: 'Experienced Plantor', link: '/guide/Who/ExperiencedPlantor' },
+        { text: 'Plantor Supervisor', link: '/guide/Who/PlantorSupervisor' },
+        { text: 'Plantor Instructor', link: '/guide/Who/PlantorInstructor' }
       ]
     },
     {
       text: 'Gear Guide', collapsed: false, items: [
-        { text: 'What Gear to bring?', link: '/GUIDE/What/WhatGear' },
-        { text: 'Gear List', link: '/GUIDE/What/GearList' }
+        { text: 'What Gear to bring?', link: '/guide/What/WhatGear' },
+        { text: 'Gear List', link: '/guide/What/GearList' }
       ]
     },
     { text: 'Go to Examples', link: '/example/Overview' },
@@ -163,111 +164,120 @@ function sidebarGuide() {
 function sidebarTEORI() {
   return [
     { text: '<strong>TEORI Overview</strong>', link: 'PlantaBeta/Teori/Elements/TeoriOverview' },
-    
-
-    // # SISTEM
-    {
-      text: '🔷<beta>SISTEM</beta>', link: 'PlantaBeta/Teori/Sistem/SistemOverview', collapsed: true, items: []
-    },
-    // # ELEMENTS
-    {
-      text: '🔷 <beta>ELEMENTS</beta>', link: 'PlantaBeta/Teori/Elements/ElementsOverview', collapsed: true, items: [
-        // #SOMA
-        {
-          text: '💜<soma>SOMA</soma>', link: 'PlantaBeta/Teori/Elements/Soma/SomaOverview', collapsed: true, items: []
-        },
-        // #LABOR
-        {
-          text: '⭐<labor>LABOR</labor>', link: 'PlantaBeta/Teori/Elements/Labor/LaborOverview', collapsed: true, items: []
-        },
-        // #EKOS
-        {
-          text: '🟩 <ekos>EKOS</ekos>', collapsed: true, link: 'PlantaBeta/Teori/Elements/Ekos/EkosOverview', items: []
-        },
-        // #VIA
-        {
-          text: '🔻 <via>VIA</via>', link: 'PlantaBeta/Teori/Elements/Via/ViaOverview', collapsed: true, items: []
-        },
-        // #MOTOR
-        {
-          text: '🟠 <motor>MOTOR</motor>', link: 'PlantaBeta/Teori/Elements/Motor/MotorOverview', collapsed: true, items: []
-        },
-        // #ANIMA
-        {
-          text: '💭 <anima>ANIMA</anima>', link: 'PlantaBeta/Teori/Elements/Anima/AnimaOverview', collapsed: true, items: []
-        },
-      ]
-    },
-    // # COMPOUNDS
-    {
-      text: '🔷_🔷 <beta>COMPOUNDS</beta>', link: 'PlantaBeta/Teori/COMPOUNDS/COMPOUNDSoverview', collapsed: true, items: [
-        { text: '💜_⭐', link: 'PlantaBeta/Teori/COMPOUNDS/SOMON_LABON', collapsed: true, items: [] },
-        { text: '💜_⭐_🟩', link: 'PlantaBeta/Teori/COMPOUNDS/SOMON_LABON', collapsed: true, items: [] },
-        { text: '💜_⭐_🟩_🔻', link: 'PlantaBeta/Teori/COMPOUNDS/SOMON_LABON', collapsed: true, items: [] },
-        { text: '💜_⭐_🟩_🔻_🟠', link: 'PlantaBeta/Teori/COMPOUNDS/SOMON_LABON', collapsed: true, items: [] },
-        { text: '💜_⭐_🟩_🔻_🟠_🕸', link: 'PlantaBeta/Teori/COMPOUNDS/SOMON_LABON', collapsed: true, items: [] },
-        { text: '💜_⭐_🟩_🔻_🕸', link: 'PlantaBeta/Teori/COMPOUNDS/SOMON_LABON', collapsed: true, items: [] },
-        { text: '💜_⭐_🟩_🟠', link: 'PlantaBeta/Teori/COMPOUNDS/SOMON_LABON', collapsed: true, items: [] },
-        { text: '💜_⭐_🟩_🟠_🕸', link: 'PlantaBeta/Teori/COMPOUNDS/SOMON_LABON', collapsed: true, items: [] },
-        { text: '💜_⭐_🟩_🕸', link: 'PlantaBeta/Teori/COMPOUNDS/SOMON_LABON', collapsed: true, items: [] },
-        { text: '💜_⭐_🔻', link: 'PlantaBeta/Teori/COMPOUNDS/SOMON_LABON', collapsed: true, items: [] },
-        { text: '💜_⭐_🔻_🟠', link: 'PlantaBeta/Teori/COMPOUNDS/SOMON_LABON', collapsed: true, items: [] },
-        { text: '💜_⭐_🔻_🟠_🕸', link: 'PlantaBeta/Teori/COMPOUNDS/SOMON_LABON', collapsed: true, items: [] },
-        { text: '💜_⭐_🔻_🕸', link: 'PlantaBeta/Teori/COMPOUNDS/SOMON_LABON', collapsed: true, items: [] },
-        { text: '💜_⭐_🟠', link: 'PlantaBeta/Teori/COMPOUNDS/SOMON_LABON', collapsed: true, items: [] },
-        { text: '💜_⭐_🟠_🕸', link: 'PlantaBeta/Teori/COMPOUNDS/SOMON_LABON', collapsed: true, items: [] },
-        { text: '💜_⭐_🕸', link: 'PlantaBeta/Teori/COMPOUNDS/SOMON_LABON', collapsed: true, items: [] },
-        { text: '💜_🟩', link: 'PlantaBeta/Teori/COMPOUNDS/SOMON_EKON', collapsed: true, items: [] },
-        { text: '💜_🟩_🔻', link: 'PlantaBeta/Teori/COMPOUNDS/SOMON_EKON', collapsed: true, items: [] },
-        { text: '💜_🟩_🔻_🟠', link: 'PlantaBeta/Teori/COMPOUNDS/SOMON_EKON', collapsed: true, items: [] },
-        { text: '💜_🟩_🔻_🟠_🕸', link: 'PlantaBeta/Teori/COMPOUNDS/SOMON_EKON', collapsed: true, items: [] },
-        { text: '💜_🟩_🟠', link: 'PlantaBeta/Teori/COMPOUNDS/SOMON_EKON', collapsed: true, items: [] },
-        { text: '💜_🟩_🟠_🕸', link: 'PlantaBeta/Teori/COMPOUNDS/SOMON_EKON', collapsed: true, items: [] },
-        { text: '💜_🟩_🕸', link: 'PlantaBeta/Teori/COMPOUNDS/SOMON_EKON', collapsed: true, items: [] },
-        { text: '💜_🔻', link: 'PlantaBeta/Teori/COMPOUNDS/', collapsed: true, items: [] },
-        { text: '💜_🔻_🟠', link: 'PlantaBeta/Teori/COMPOUNDS/', collapsed: true, items: [] },
-        { text: '💜_🔻_🟠_🕸', link: 'PlantaBeta/Teori/COMPOUNDS/', collapsed: true, items: [] },
-        { text: '💜_🔻_🕸', link: 'PlantaBeta/Teori/COMPOUNDS/', collapsed: true, items: [] },
-        { text: '💜_🟠', link: 'PlantaBeta/Teori/COMPOUNDS/', collapsed: true, items: [] },
-        { text: '💜_🟠_🕸', link: 'PlantaBeta/Teori/COMPOUNDS/', collapsed: true, items: [] },
-        { text: '💜_🕸', link: 'PlantaBeta/Teori/COMPOUNDS/', collapsed: true, items: [] },
-        { text: '⭐_🟩', link: 'PlantaBeta/Teori/COMPOUNDS/', collapsed: true, items: [] },
-        { text: '⭐_🟩_🔻', link: 'PlantaBeta/Teori/COMPOUNDS/', collapsed: true, items: [] },
-        { text: '⭐_🟩_🔻_🟠', link: 'PlantaBeta/Teori/COMPOUNDS/', collapsed: true, items: [] },
-        { text: '⭐_🟩_🔻_🟠_🕸', link: 'PlantaBeta/Teori/COMPOUNDS/', collapsed: true, items: [] },
-        { text: '⭐_🟩_🔻_🕸', link: 'PlantaBeta/Teori/COMPOUNDS/', collapsed: true, items: [] },
-        { text: '⭐_🟩_🟠', link: 'PlantaBeta/Teori/COMPOUNDS/', collapsed: true, items: [] },
-        { text: '⭐_🟩_🟠_🕸', link: 'PlantaBeta/Teori/COMPOUNDS/', collapsed: true, items: [] },
-        { text: '⭐_🟩_🕸', link: 'PlantaBeta/Teori/COMPOUNDS/', collapsed: true, items: [] },
-        { text: '⭐_🔻', link: 'PlantaBeta/Teori/COMPOUNDS/', collapsed: true, items: [] },
-        { text: '⭐_🔻_🟠', link: 'PlantaBeta/Teori/COMPOUNDS/', collapsed: true, items: [] },
-        { text: '⭐_🔻_🟠_🕸', link: 'PlantaBeta/Teori/COMPOUNDS/', collapsed: true, items: [] },
-        { text: '⭐_🔻_🕸', link: 'PlantaBeta/Teori/COMPOUNDS/', collapsed: true, items: [] },
-        { text: '⭐_🟠', link: 'PlantaBeta/Teori/COMPOUNDS/', collapsed: true, items: [] },
-        { text: '⭐_🟠_🕸', link: 'PlantaBeta/Teori/COMPOUNDS/', collapsed: true, items: [] },
-        { text: '⭐_🕸', link: 'PlantaBeta/Teori/COMPOUNDS/', collapsed: true, items: [] },
-        { text: '🟩_🔻', link: 'PlantaBeta/Teori/COMPOUNDS/', collapsed: true, items: [] },
-        { text: '🟩_🔻_🟠', link: 'PlantaBeta/Teori/COMPOUNDS/', collapsed: true, items: [] },
-        { text: '🟩_🔻_🟠_🕸', link: 'PlantaBeta/Teori/COMPOUNDS/', collapsed: true, items: [] },
-        { text: '🟩_🔻_🕸', link: 'PlantaBeta/Teori/COMPOUNDS/', collapsed: true, items: [] },
-        { text: '🟩_🟠 ', link: 'PlantaBeta/Teori/COMPOUNDS/', collapsed: true, items: [] },
-        { text: '🟩_🟠_🕸', link: 'PlantaBeta/Teori/COMPOUNDS/', collapsed: true, items: [] },
-        { text: '🟩_🕸', link: 'PlantaBeta/Teori/COMPOUNDS/', collapsed: true, items: [] },
-        { text: '🔻_🟠', link: 'PlantaBeta/Teori/COMPOUNDS/', collapsed: true, items: [] },
-        { text: '🔻_🟠_🕸', link: 'PlantaBeta/Teori/COMPOUNDS/', collapsed: true, items: [] },
-        { text: '🔻_🕸', link: 'PlantaBeta/Teori/COMPOUNDS/', collapsed: true, items: [] },
-        { text: '🟠_🕸', link: 'PlantaBeta/Teori/COMPOUNDS/', collapsed: true, items: [] },
-      ]
-    },
     // # BETOMIKS
     {
-      text: '🔷<beta>BETOMIKS</beta>', link: 'PlantaBeta/Teori/BETOMIKS/BETOMIKSoverview', collapsed: true, items: []
+      text: '<beta>BETOMIKS</beta>', link: 'PlantaBeta/Teori/BETOMIKS/BETOMIKSoverview', collapsed: true, items: []
     },
-
     { text: '📃 Lexikon', link: 'PlantaBeta/Teori/Elements/glossary/Glossary' },
     { text: '📷 Media Database', link: 'PlantaBeta/Teori/Elements/media/Overview' }
   ]
 }
+// # SISTEM
+function sidebarSistem() {
+  return [
+    {
+      text: '<beta>SISTEM</beta>', link: 'PlantaBeta/Teori/Sistem/SistemOverview', collapsed: true, items: []
+    },
+  ]
+}
+// # ELEMENTS
+function sidebarElements() {
+  return [
+    {
+      text: '<beta>ELEMENTs</beta>', link: 'PlantaBeta/Teori/Elements/ElementsOverview'
+    },
+    // #LABOR
+    {
+      text: '⭐<labor>LABOR</labor>⭐', link: 'PlantaBeta/Teori/Elements/Labor/LaborOverview', collapsed: true, items: []
+    },
+    // #SOMA
+    {
+      text: '🔷<soma>SOMA</soma>🔷', link: 'PlantaBeta/Teori/Elements/Soma/SomaOverview', collapsed: true, items: []
+    },
+    // #EKOS
+    {
+      text: '🟩<ekos>EKOS</ekos>🟩', collapsed: true, link: 'PlantaBeta/Teori/Elements/Ekos/EkosOverview', items: []
+    },
+    // #VIA
+    {
+      text: '🔻<via>VIA</via>🔻', link: 'PlantaBeta/Teori/Elements/Via/ViaOverview', collapsed: true, items: []
+    },
+    // #MOTOR
+    {
+      text: '🟠<motor>MOTOR</motor>🟠', link: 'PlantaBeta/Teori/Elements/Motor/MotorOverview', collapsed: true, items: []
+    },
+    // #ANIMA
+    {
+      text: '💜<anima>ANIMA</anima>💜', link: 'PlantaBeta/Teori/Elements/Anima/AnimaOverview', collapsed: true, items: []
+    },
+  ]
+}
+// # BETUM
+function sidebarBetums() {
+  return [
+    {
+      text: '<beta>BETUMs</beta>', link: 'PlantaBeta/Teori/Betum/BetumOverview', collapsed: true, items: [
+        { text: '🔷_⭐', link: 'PlantaBeta/Teori/COMPOUNDS/SOMON_LABON', collapsed: true, items: [] },
+        { text: '🔷_⭐_🟩', link: 'PlantaBeta/Teori/COMPOUNDS/SOMON_LABON', collapsed: true, items: [] },
+        { text: '🔷_⭐_🟩_🔻', link: 'PlantaBeta/Teori/COMPOUNDS/SOMON_LABON', collapsed: true, items: [] },
+        { text: '🔷_⭐_🟩_🔻_🟠', link: 'PlantaBeta/Teori/COMPOUNDS/SOMON_LABON', collapsed: true, items: [] },
+        { text: '🔷_⭐_🟩_🔻_🟠_💜', link: 'PlantaBeta/Teori/COMPOUNDS/SOMON_LABON', collapsed: true, items: [] },
+        { text: '🔷_⭐_🟩_🔻_💜', link: 'PlantaBeta/Teori/COMPOUNDS/SOMON_LABON', collapsed: true, items: [] },
+        { text: '🔷_⭐_🟩_🟠', link: 'PlantaBeta/Teori/COMPOUNDS/SOMON_LABON', collapsed: true, items: [] },
+        { text: '🔷_⭐_🟩_🟠_💜', link: 'PlantaBeta/Teori/COMPOUNDS/SOMON_LABON', collapsed: true, items: [] },
+        { text: '🔷_⭐_🟩_💜', link: 'PlantaBeta/Teori/COMPOUNDS/SOMON_LABON', collapsed: true, items: [] },
+        { text: '🔷_⭐_🔻', link: 'PlantaBeta/Teori/COMPOUNDS/SOMON_LABON', collapsed: true, items: [] },
+        { text: '🔷_⭐_🔻_🟠', link: 'PlantaBeta/Teori/COMPOUNDS/SOMON_LABON', collapsed: true, items: [] },
+        { text: '🔷_⭐_🔻_🟠_💜', link: 'PlantaBeta/Teori/COMPOUNDS/SOMON_LABON', collapsed: true, items: [] },
+        { text: '🔷_⭐_🔻_💜', link: 'PlantaBeta/Teori/COMPOUNDS/SOMON_LABON', collapsed: true, items: [] },
+        { text: '🔷_⭐_🟠', link: 'PlantaBeta/Teori/COMPOUNDS/SOMON_LABON', collapsed: true, items: [] },
+        { text: '🔷_⭐_🟠_💜', link: 'PlantaBeta/Teori/COMPOUNDS/SOMON_LABON', collapsed: true, items: [] },
+        { text: '🔷_⭐_💜', link: 'PlantaBeta/Teori/COMPOUNDS/SOMON_LABON', collapsed: true, items: [] },
+        { text: '🔷_🟩', link: 'PlantaBeta/Teori/COMPOUNDS/SOMON_EKON', collapsed: true, items: [] },
+        { text: '🔷_🟩_🔻', link: 'PlantaBeta/Teori/COMPOUNDS/SOMON_EKON', collapsed: true, items: [] },
+        { text: '🔷_🟩_🔻_🟠', link: 'PlantaBeta/Teori/COMPOUNDS/SOMON_EKON', collapsed: true, items: [] },
+        { text: '🔷_🟩_🔻_🟠_💜', link: 'PlantaBeta/Teori/COMPOUNDS/SOMON_EKON', collapsed: true, items: [] },
+        { text: '🔷_🟩_🟠', link: 'PlantaBeta/Teori/COMPOUNDS/SOMON_EKON', collapsed: true, items: [] },
+        { text: '🔷_🟩_🟠_💜', link: 'PlantaBeta/Teori/COMPOUNDS/SOMON_EKON', collapsed: true, items: [] },
+        { text: '🔷_🟩_💜', link: 'PlantaBeta/Teori/COMPOUNDS/SOMON_EKON', collapsed: true, items: [] },
+        { text: '🔷_🔻', link: 'PlantaBeta/Teori/COMPOUNDS/', collapsed: true, items: [] },
+        { text: '🔷_🔻_🟠', link: 'PlantaBeta/Teori/COMPOUNDS/', collapsed: true, items: [] },
+        { text: '🔷_🔻_🟠_💜', link: 'PlantaBeta/Teori/COMPOUNDS/', collapsed: true, items: [] },
+        { text: '🔷_🔻_💜', link: 'PlantaBeta/Teori/COMPOUNDS/', collapsed: true, items: [] },
+        { text: '🔷_🟠', link: 'PlantaBeta/Teori/COMPOUNDS/', collapsed: true, items: [] },
+        { text: '🔷_🟠_💜', link: 'PlantaBeta/Teori/COMPOUNDS/', collapsed: true, items: [] },
+        { text: '🔷_💜', link: 'PlantaBeta/Teori/COMPOUNDS/', collapsed: true, items: [] },
+        { text: '⭐_🟩', link: 'PlantaBeta/Teori/COMPOUNDS/', collapsed: true, items: [] },
+        { text: '⭐_🟩_🔻', link: 'PlantaBeta/Teori/COMPOUNDS/', collapsed: true, items: [] },
+        { text: '⭐_🟩_🔻_🟠', link: 'PlantaBeta/Teori/COMPOUNDS/', collapsed: true, items: [] },
+        { text: '⭐_🟩_🔻_🟠_💜', link: 'PlantaBeta/Teori/COMPOUNDS/', collapsed: true, items: [] },
+        { text: '⭐_🟩_🔻_💜', link: 'PlantaBeta/Teori/COMPOUNDS/', collapsed: true, items: [] },
+        { text: '⭐_🟩_🟠', link: 'PlantaBeta/Teori/COMPOUNDS/', collapsed: true, items: [] },
+        { text: '⭐_🟩_🟠_💜', link: 'PlantaBeta/Teori/COMPOUNDS/', collapsed: true, items: [] },
+        { text: '⭐_🟩_💜', link: 'PlantaBeta/Teori/COMPOUNDS/', collapsed: true, items: [] },
+        { text: '⭐_🔻', link: 'PlantaBeta/Teori/COMPOUNDS/', collapsed: true, items: [] },
+        { text: '⭐_🔻_🟠', link: 'PlantaBeta/Teori/COMPOUNDS/', collapsed: true, items: [] },
+        { text: '⭐_🔻_🟠_💜', link: 'PlantaBeta/Teori/COMPOUNDS/', collapsed: true, items: [] },
+        { text: '⭐_🔻_💜', link: 'PlantaBeta/Teori/COMPOUNDS/', collapsed: true, items: [] },
+        { text: '⭐_🟠', link: 'PlantaBeta/Teori/COMPOUNDS/', collapsed: true, items: [] },
+        { text: '⭐_🟠_💜', link: 'PlantaBeta/Teori/COMPOUNDS/', collapsed: true, items: [] },
+        { text: '⭐_💜', link: 'PlantaBeta/Teori/COMPOUNDS/', collapsed: true, items: [] },
+        { text: '🟩_🔻', link: 'PlantaBeta/Teori/COMPOUNDS/', collapsed: true, items: [] },
+        { text: '🟩_🔻_🟠', link: 'PlantaBeta/Teori/COMPOUNDS/', collapsed: true, items: [] },
+        { text: '🟩_🔻_🟠_💜', link: 'PlantaBeta/Teori/COMPOUNDS/', collapsed: true, items: [] },
+        { text: '🟩_🔻_💜', link: 'PlantaBeta/Teori/COMPOUNDS/', collapsed: true, items: [] },
+        { text: '🟩_🟠 ', link: 'PlantaBeta/Teori/COMPOUNDS/', collapsed: true, items: [] },
+        { text: '🟩_🟠_💜', link: 'PlantaBeta/Teori/COMPOUNDS/', collapsed: true, items: [] },
+        { text: '🟩_💜', link: 'PlantaBeta/Teori/COMPOUNDS/', collapsed: true, items: [] },
+        { text: '🔻_🟠', link: 'PlantaBeta/Teori/COMPOUNDS/', collapsed: true, items: [] },
+        { text: '🔻_🟠_💜', link: 'PlantaBeta/Teori/COMPOUNDS/', collapsed: true, items: [] },
+        { text: '🔻_💜', link: 'PlantaBeta/Teori/COMPOUNDS/', collapsed: true, items: [] },
+        { text: '🟠_💜', link: 'PlantaBeta/Teori/COMPOUNDS/', collapsed: true, items: [] },
+      ]
+    },
+  ]
+}
+
 // #Praktik
 function sidebarPRAKTIK() {
   return [

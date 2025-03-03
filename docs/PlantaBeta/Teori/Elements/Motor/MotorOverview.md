@@ -1,24 +1,24 @@
-# 🟠 <MOTOR>MOTOR</MOTOR>
+# 🟠 <motor>MOTOR</motor> 🟠
 
 ![<motor>Motor</motor>Icon](/Ikon/Motor_Ikon.png)
 
-## <MOTOR>MOTOR Ikon</MOTOR> 🟠
+## <motor>MOTOR Ikon</motor> 🟠
 
 > Orange Circle
 
-## <MOTOR>What is MOTOR?</MOTOR>
+## <motor>What is MOTOR?</motor>
 
 > to set in motion; to shake; to stir; to move
 
-::: details Why is it called <MOTOR>MOTOR</MOTOR>?
+::: details Why is it called <motor>MOTOR</motor>?
 
-## Etymology of "<MOTOR>MOTOR</MOTOR> and <MOTOR>MOTON</MOTOR>"
+## Etymology of "<motor>MOTOR</motor> and <motor>MOTON</motor>"
 
 Latin: movere
 
 :::
 
-## <MOTOR>What is a MOTON?</MOTOR>
+## <motor>What is a MOTON?</motor>
 
 ---
 

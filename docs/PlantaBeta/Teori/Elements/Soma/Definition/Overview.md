@@ -1,4 +1,4 @@
-# 🔷<beta>BetaObservation</beta>
+# 🔷<soma>SOMA Definitions</soma>
 
 ---
 
@@ -9,6 +9,6 @@
 <!-- =================================================== -->
 ::: details 🛠 <dev>&&&</dev>
 
-- Gather the facts
+- A Plantor isn't a plantor without all of their instruments
 
 :::

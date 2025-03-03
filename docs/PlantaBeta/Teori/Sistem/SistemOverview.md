@@ -8,13 +8,14 @@ Each SistemType is structured into Praktik and Teoria
 
 Betum = (Element+Element)
 
+(Vion+Vion) = Vion 
+(Vion+Moton) = Betum
+
 Betomiks(Komposition(Betum(Element)))
 
 ## PLANTABETA Syntax for Combining Elements
 
 [Combinatorics](https://en.wikipedia.org/wiki/Combinatorics)
-
-"Beton" but not an element, so no -on suffix
 
 "You need to change the VIA of the Betum that you performed using the Stump."
 

@@ -1,4 +1,4 @@
-# 🟩<ekos>EkoFlux</ekos>
+# 🟩<ekos>EkosFlux</ekos>
 
 Aliases: Flow, Flowing MOTONment, Fluidity, Fluid movement, Continuous, NonStop, Constantly Changing, ever moving, fleeting,
 
@@ -16,7 +16,7 @@ Connection Score
 
 ## 🟠<motor>MOVE.Flux</motor>
 
-### 🔷<beta>BetaAnalogy</beta>
+### 🔷<beta>PanBeta</beta>
 
 (GymBeta, SkateBeta): ConnectionScore
 

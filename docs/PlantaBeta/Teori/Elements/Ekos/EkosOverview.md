@@ -1,4 +1,4 @@
-# 🟩  <ekos>EKOS</ekos>
+# 🟩 <ekos>EKOS</ekos> 🟩
 
 ![Ekos_Ikon](/Ikon/Ekos_Ikon.png)
 
