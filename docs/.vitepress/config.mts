@@ -78,12 +78,6 @@ function nav() {
 function sidebarDevelopment() {
   return [
     { text: '<dev>Dev Overview</dev>', link: '/dev/DevOverview' },
-    {
-      text: '<dev>CasingTest</dev>', collapsed: true, items: [
-        { text: '<dev>Ekon-Vion-Moton</dev>', link: '/dev/Casing-Test/Ekon-Vion-Moton' },
-        { text: '<dev>Vion-Moton</dev>', link: '/dev/Casing-Test/Vion-Moton' },
-      ]
-    },
     { text: '<dev>Contact</dev>', link: '/dev/Contact' },
     { text: '<dev>AcademiaDev</dev>', link: '/dev/AcademiaDev' },
     { text: '<dev>Art</dev>', link: '/dev/art/Overview' },
