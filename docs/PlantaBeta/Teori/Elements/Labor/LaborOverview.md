@@ -15,34 +15,36 @@ Aliases: Work, Job, Task
 - Labor defines the BlockBoundary
 - Labor defines what makes a Site
 
+- A meter into the residual is no longer Labor. Labor is only earth that you interact with.
+
 - Labor is not an Element Attribute
 - (Labor != Atlos)
     - You can think about making money without winning
-    - The "losers" of planting make money
+    - The "losers" of planting make money and fulfill their job description
     - All workers experience Labor, but not all workers experience Atlos
     - Professional Atletes experience Labor and Atlos  
 
 - You need to get it done
 - Income
 
-- 🔷<beta>Beta</beta>.Labor
+- 🔷<beta>SISTEM</beta>.Labor
     - TeamBeta
         - Don't take all the easy land
             - Cream someone out
             - A creamer
-- 🟩<ekos>Eko</ekos>.Labor
+- 🟩<ekos>EKOS</ekos>.Labor
     - SlowLand
     - TreePrice
         - EkoMetron affects TreePrice, it
         - When the Price is high, chill while making same average daily income.
-- 🔻<via>Via</via>.Labor
+- 🔻<via>VIA</via>.Labor
     - Choose the most Efficient Via
     - Path of least resistance
     - Labor defines the Boundary of a Block
 - 🟠<motor>MOTON</motor>.Labor
     - Choose the most Efficient MOTON
     - Work as a unit of energy
-- 💜<anima>Anima</anima>.Labor
+- 💜<anima>ANIMA</anima>.Labor
     - Labor can influence Motivate
         - I've already made enough money today, so I'm calling it quits
 

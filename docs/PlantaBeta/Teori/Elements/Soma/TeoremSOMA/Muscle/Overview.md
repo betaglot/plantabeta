@@ -1,4 +1,4 @@
-# 💭 <anima>Muscle</anima>
+# 💜 <anima>Muscle</anima>
 
 ## Slow Twitch Muscle
 

@@ -6,43 +6,57 @@ Sistem is in the Guide
 
 Each SistemType is structured into Praktik and Teoria
 
-## Sistem Syntax
+Betum = (Element+Element)
 
-(🕸 💜 ⭐ 🟩 🔻 🟠 )
+Betomiks(Komposition(Betum(Element)))
 
-1. 🕸SISTEM
-2. 🔷BETA
-3. 💜SOMA
-4. ⭐LABOR
-5. 🟩EKOS
-6. 🔻VIA
-7. 🟠MOTOR
-8. 💭ANIMA
+## PLANTABETA Syntax for Combining Elements
+
+[Combinatorics](https://en.wikipedia.org/wiki/Combinatorics)
+
+"Beton" but not an element, so no -on suffix
+
+"You need to change the VIA of the Betum that you performed using the Stump."
+
+1. SISTEM
+2. ⭐LABOR
+3. 🔷SOMA
+4. 🟩EKOS
+5. 🔻VIA
+6. 🟠MOTOR
+7. 💜ANIMA
 
 DotNotation for Subset
 
-🔷 Brazo.Anterior.Down.Ama
+Brazo.Anterior.Down.Ama
 
 - Timestamp
 - File being refered to
 - Tree_ID is SISTEM information. Plantors never count their trees, so it doesn't make sense to call Tree_ID an instance of BETA.
 
-1. 🕸SISTEM
-2. 🔷BETA
-3. 💜SOMA: Brazo.Anterior
-4. ⭐LABOR
-5. 🟩EKOS: Plast
-6. 🔻VIA: Down
-7. 🟠MOTOR: Ama
-8. 💜ANIMA
+1. SISTEM
+2. ⭐LABOR
+3. 🔷SOMA: Brazo.Anterior
+4. 🟩EKOS: Plast
+5. 🔻VIA: Down
+6. 🟠MOTOR: Ama
+7. 💜ANIMA
 
 ---
 
-BrazoAnterior_Plast_Down_Ama
+Send_BrazoAnterior_Plast_Down_Ama
+
+Dance_BrazoAnterior_Plast_Down_Ama
 
 NameSpace
 
 Betaglot.PlantaBeta.Sistem.Teori.Element.Ekos.Definition.Stump
+
+## By Negation
+
+- Definition(Element)
+    - WetSoil-Takt is not an Element
+        - WetSoil is an element and Takt is an element
 
 ## Based on Euclid's Elements
 

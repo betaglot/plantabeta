@@ -1,4 +1,4 @@
-# 💭 <anima>Avoidance</anima>
+# 💜 <anima>Avoidance</anima>
 
 ---
 

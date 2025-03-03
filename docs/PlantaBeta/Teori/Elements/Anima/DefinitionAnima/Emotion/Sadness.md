@@ -1,4 +1,4 @@
-# 💭 <anima>Sadness </anima>
+# 💜 <anima>Sadness </anima>
 
 ![Anima_Ikon](/Ikon/Anima_Ikon.png)
 

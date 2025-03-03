@@ -1,4 +1,4 @@
-# 💭 <anima>StepCount </anima>
+# 💜 <anima>StepCount </anima>
 
 ![Anima_Ikon](/Ikon/Anima_Ikon.png)
 

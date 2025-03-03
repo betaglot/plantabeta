@@ -1,4 +1,4 @@
-# 💭 <anima>Confidence</anima>
+# 💜 <anima>Confidence</anima>
 
 ![Anima_Ikon](/Ikon/Anima_Ikon.png)
 

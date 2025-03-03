@@ -1,4 +1,4 @@
-# 💭 <anima>Spatial Cognition</anima>
+# 💜 <anima>Spatial Cognition</anima>
 
 - Visuospatial Ability
 - Spatial Visualization

@@ -1,4 +1,4 @@
-# 💭 <anima>SoilSound </anima>
+# 💜 <anima>SoilSound </anima>
 
 ![Anima_Ikon](/Ikon/Anima_Ikon.png)
 

@@ -1,4 +1,4 @@
-# 💭 <anima>Event</anima>
+# 💜 <anima>Event</anima>
 
 > there are dozens of events happening each second
 

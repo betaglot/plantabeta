@@ -1,4 +1,4 @@
-# 💭 <anima>BagUpSizeDecision</anima>
+# 💜 <anima>BagUpSizeDecision</anima>
 
 ![Anima_Ikon](/Ikon/Anima_Ikon.png)
 

@@ -1,4 +1,4 @@
-# 💭 <anima>BagOutTime </anima>
+# 💜 <anima>BagOutTime </anima>
 
 ![Anima_Ikon](/Ikon/Anima_Ikon.png)
 

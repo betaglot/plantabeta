@@ -1,4 +1,4 @@
-# 💭 <anima>Disgust </anima>
+# 💜 <anima>Disgust </anima>
 
 ![Anima_Ikon](/Ikon/Anima_Ikon.png)
 

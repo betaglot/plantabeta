@@ -1,4 +1,4 @@
-# 💭 <anima>Anima Overview </anima>
+# 💜 <anima>Anima Overview </anima>
 
 ANIMA == PSYCHE == SPIRITUS
 

@@ -1,4 +1,4 @@
-# 💭 <anima>Proprioception</anima>
+# 💜 <anima>Proprioception</anima>
 
 ![Anima_Ikon](/Ikon/Anima_Ikon.png)
 

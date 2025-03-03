@@ -1,4 +1,4 @@
-# 💭 <anima>DailySchdule</anima>
+# 💜 <anima>DailySchdule</anima>
 
 ![Anima_Ikon](/Ikon/Anima_Ikon.png)
 

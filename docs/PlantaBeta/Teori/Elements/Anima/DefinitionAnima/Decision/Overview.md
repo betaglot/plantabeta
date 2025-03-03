@@ -1,4 +1,4 @@
-# 💭 <anima>Decision Overview </anima>
+# 💜 <anima>Decision Overview </anima>
 
 ## Conscious Decision
 
