@@ -10,13 +10,13 @@ export default defineConfig({
   ignoreDeadLinks: true,
   appearance: 'dark',
   head: [
-    ["link", { rel: "apple-touch-icon", href: "/Ikon/PLANTABETA_Ikon.png" }],
-    ["link", { rel: "icon", type: "image/png", href: "/Ikon/PLANTABETA_Ikon.png" }]
+    ["link", { rel: "apple-touch-icon", href: "/Ikon/PLANTABETA_Logo.png" }],
+    ["link", { rel: "icon", type: "image/png", href: "/Ikon/PLANTABETA_Logo.png" }]
   ],
   themeConfig: {
 
     outline: [2, 4],
-    logo: '/Ikon/PLANTABETA_Ikon.png',
+    logo: '/Ikon/PLANTABETA_Logo.png',
     socialLinks: [
       { icon: 'github', link: 'https://github.com/betaglot/plantabeta' }
     ],
@@ -25,7 +25,7 @@ export default defineConfig({
       provider: 'local'
     },
 
-    siteTitle: 'PLANTABETA',
+    siteTitle: '',
     nav: nav(),
 
     sidebar: {

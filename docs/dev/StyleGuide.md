@@ -163,13 +163,13 @@ Periods
 #569cd6 
 ```
 
-### <ekos>EcoColor</ekos>
+### <ekos>EkosColor</ekos>
 
 ```ts
 #6a9955 
 ```
 
-### <anima>NeuroColor</anima>
+### <anima>AnimaColor</anima>
 
 ```ts
 #c586c0 
@@ -185,14 +185,15 @@ Periods
 
 Ikons are only used to represent Objects or Functions.
 
-### (BetaTiposName + BetaIkon)
+### (ElementGroupName + BetaIkon)
 
 Initials like ByrneEuklid
 
-🟩 E of Ekos
-🔻 V of Via
-🟠 oo of MOTON
-💜 Anima
+⭐<labor>of Labor???</labor>
+🟩 E of EKOS
+🔻 V of VIA
+🟠 oo of MOTOR
+💜 ANIMA
 
 ### !Ikon
 
@@ -206,6 +207,18 @@ MOTONTimeline is orange as a header but it is not prefixed with an Ikon.
 Only the 🟠<motor>Arm</motor> object is prefixed with an ikon. ArmPut is orange but has no ikon
 
 🟠<motor>Arm.<motor>ArmPut()</motor></motor>
+
+### PLANTABETA_IKON
+
+KlimBeta has its own Ikon too
+
+Betaglot too
+
+Custom Ikon
+
+Plantors have access to all the ElementGroupIkons
+
+Groups of Animons
 
 :::
 
@@ -512,6 +525,9 @@ Where in Eko is this MOTON performed and on what EkoElement. Put "the ground" if
 
 ## <ekos>EcoPage.BaseLayout</ekos>
 
+## Custom CSS
+
+<https://github.com/vuejs/vitepress/blob/main/src/client/theme-default/styles/vars.css>
 ---
 
 <!-- =================================================== -->

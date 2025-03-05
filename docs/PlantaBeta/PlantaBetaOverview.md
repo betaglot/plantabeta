@@ -4,8 +4,6 @@
 
 <beta>BETA</beta> emerges from the interactions between <ekos>EKOS</ekos>, <motor>MOTON</motor>, <via>Via</via> and <anima>Anima</anima>.
 
-![<beta>Beta</beta>Icon](/Ikon/Beta_Ikon.png)
-
 ## <beta>PLANTABETA Symbol</beta>
 
 ::: details Why is it called <beta>Beta</beta>?
@@ -58,65 +56,6 @@ This each line are analog pairs. The equal signs = denotes where Climbing and Pl
 - You will get better at one by learning the other.
 :::
 
-## <beta>What is a Beta Element?</beta>
-
-Based on Gymnastics Elements. Elements are completed using Beta Factors. Multiple alternative Factors can be used to complete an Element.
-
-- 🔷OpenHole
-- 🔷SelectSite
-- 🔷CloseHole
-- 🔷Marka
-- 🔷BagUp
-- 🔷LineIn
-- 🔷Skreef
-- 🔷Rework
-
-### <motor>MOTONElement</motor>
-
-### <ekos>EkoElement</ekos>
-
-### <via>ViaFactor</via>
-
-### <anima>AnimaElement</anima>
-
-## <beta>What is a BetaInstance?</beta>
-
-> all the BetaElements occuring at a given instant
-
----
-
-## Constraints when Implementing <beta>Beta</beta>
-
-What are the the constraints for each module when implementing Beta in PlantaBeta?
-
-### <beta>Beta Constraints</beta>
-
-- TeamBeta is constrained by the level of ability and knowledge of each team member
-    - You can't BounceCover if your teammate doesn't know what BouceCover is.
-
-### <via>Via Constraints</via>
-
-Via is often a lack of knowledge of what's over the hill or around the corner
-
-- bag weight constrains Via Length
-
-### <motor>MOTON Constraints</motor>
-
-- MOTON is metabolic energy
-- bag weight
-
-### <anima>Anima Constraints</anima>
-
-Anima is
-
-### <ekos>Eko Constraints</ekos>
-
-Eko is weather, if you are in fog you can't see eko. Remember that eko is the object of environment, which always exists. Eko requires perception. Eko requires Anima
-
-## Beta.Error
-
-There is a miscommunication happening if:
-
 ---
 
 <!-- =================================================== -->
@@ -128,33 +67,14 @@ There is a miscommunication happening if:
 
 [BetaSequence](https://docs.python.org/3/library/stdtypes.html#sequence-types-list-tuple-range)
 
-1. 🔷
-2. 🟠 <motor>BodyLean</motor>
-3. 🟠
-4. 🟠
-5. 🟩
-6. 🟠
-7. 🔻
-8. 💜
-
----
-
-<!-- =================================================== -->
-<!-- =================================================== -->
-<!-- =================================================== -->
-<!-- =================================================== -->
-<!-- =================================================== -->
-::: details 🛠 <dev>&&&</dev>
-
 - TeamPut() is Beta
 - You don't need Beta to be a TreePlantor. Beta is just a Wrapper for communication. It's an API, an Interface between you and your coworkers.
 - Use Code snippets to write abbreviated names to insert Tags or ElementName
 
-## Independent Modules
-
-- Eko is not required for Attention
-- BodyBend does not require Via
-- Some Anima only uses NeuroConcepts, like Emotional Regulation. If a function uses more than one module then it is Beta.
+- Independent Modules
+    - Eko is not required for Attention
+    - BodyBend does not require Via
+    - Some Anima only uses NeuroConcepts, like Emotional Regulation. If a function uses more than one module then it is Beta.
 
 - Everything is an Object, like Python
 
@@ -166,13 +86,10 @@ Each PlantaBeta module is composed of problems and theorems. Problems all have s
 
 Eko doesn't have any problems or theorems
 
-## Strategy
-
-- Plan of Action
+- Strategy
+    - Plan of Action
 
 Beta can be a description or an instruction
-
-<h2>PageTags</h2>
 
 - "Beta.BetaEvent"
 - "Beta.BetaInstance"

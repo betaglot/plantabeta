@@ -1,14 +1,14 @@
 ---
 layout: home 
-title: PLANTABETA
-titleTemplate: PLANTABETA
+title: "PLANTABETA"
+titleTemplate: "PLANTABETA"
 
 hero: 
+  image:
+    src: /Ikon/PLANTABETA_Logo.png
+    alt: "Logo"
   text: Everything is Connected
   tagline: The examples, guides, and reference you need — whether you're planting in the mountains of British Columbia, the wetlands of the Canadian Shield, or anywhere in between. Take advantage of this resource to develop your ability to plant faster and with higher quality.
-  image:
-    src: /Ikon/PLANTABETA_Ikon.png
-    alt: "Logo"
   actions:
     - theme: brand
       text: I'm new to PLANTABETA
@@ -30,10 +30,3 @@ features:
     link: /PlantaBeta/PlantaBetaOverview
 
 ---
-
-<!-- 
-
-- Gif of multiple HandPut() on home page
-- Probably use canva
-
- -->

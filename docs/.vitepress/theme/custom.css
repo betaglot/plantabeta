@@ -3,7 +3,24 @@
   --vp-c-brand-1: #569cd6;
   --vp-c-brand-2: #569cd6;
   --vp-c-brand-3: #569cd6;
+  --vp-nav-logo-height: 100%;
 
+
+
+  --vp-layout-max-width: 1920px;
+
+}
+
+.VPDoc:not(.has-sidebar) .container {
+  max-width: 1584px !important;
+}
+
+.VPDoc:not(.has-sidebar) .content {
+  max-width: 1264px !important;
+}
+
+.VPDoc.has-aside .content-container {
+  max-width: 1168px !important;
 }
 
 .vp-doc a {
