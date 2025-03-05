@@ -10,13 +10,19 @@ export default defineConfig({
   ignoreDeadLinks: true,
   appearance: 'dark',
   head: [
-    ["link", { rel: "apple-touch-icon", href: "/Ikon/PLANTABETA_Logo.png" }],
-    ["link", { rel: "icon", type: "image/png", href: "/Ikon/PLANTABETA_Logo.png" }]
+    ["link", { rel: "apple-touch-icon", href: "/PlantaBeta_Logo.png" }],
+    ["link", { rel: "icon", type: "image/png", href: "/PlantaBeta_Logo.png" }]
   ],
   themeConfig: {
-
+    notFound: {
+      title: 'PAGE NOT FOUND',
+      quote: "Quote", // set to '' to hide
+      linkLabel: 'go to home', // aria-label
+      linkText: 'Back to home',
+      code: '404'
+    },
     outline: [2, 4],
-    logo: '/Ikon/PLANTABETA_Logo.png',
+    logo: '/PlantaBeta_Logo.png',
     socialLinks: [
       { icon: 'github', link: 'https://github.com/betaglot/plantabeta' }
     ],
@@ -33,6 +39,9 @@ export default defineConfig({
       '/example/': sidebarExamples(),
       '/tutorial/': sidebarTutorial(),
       '/PlantaBeta/Teori/Elements/': sidebarElements(),
+      '/PlantaBeta/Teori/Sistem/': sidebarSistem(),
+      '/PlantaBeta/Teori/Betomiks/': sidebarBetomiks(),
+      '/PlantaBeta/Teori/Komposition/': sidebarKomposition(),
       '/PlantaBeta/Teori/Betums/': sidebarBetums(),
       '/PlantaBeta/Praktik/': sidebarPRAKTIK(),
       '/dev/': sidebarDevelopment(),
@@ -40,6 +49,14 @@ export default defineConfig({
   }
 })
 
+function sidebarBetomiks() {
+  return []
+}
+
+
+function sidebarKomposition() {
+  return []
+}
 // #Nav
 function nav() {
   return [
@@ -78,47 +95,47 @@ function nav() {
 // #Dev
 function sidebarDevelopment() {
   return [
-    { text: '<dev>Dev Overview</dev>', link: '/dev/DevOverview' },
-    { text: '<dev>Contact</dev>', link: '/dev/Contact' },
-    { text: '<dev>AcademiaDev</dev>', link: '/dev/AcademiaDev' },
-    { text: '<dev>Art</dev>', link: '/dev/art/Overview' },
-    { text: '<dev>👩‍💻 BePython</dev>', link: '/dev/BePython' },
-    { text: '<dev>Contribute</dev>', link: '/dev/Contribute' },
-    { text: '<dev>Downloads</dev>', link: '/dev/Downloads' },
-    { text: '<dev>DX</dev>', link: '/dev/DX' },
-    { text: '<dev>ElementGraph</dev>', link: '/dev/ElementsGraph' },
-    { text: '<dev>Filming</dev>', link: '/dev/Filming' },
-    { text: '<dev>FireBeta</dev>', link: '/FireBeta/FireBeta' },
-    { text: '<dev>GoPro</dev>', link: '/dev/GoPro' },
+    { text: 'Dev Overview', link: '/dev/DevOverview' },
+    { text: 'Contact', link: '/dev/Contact' },
+    { text: 'AcademiaDev', link: '/dev/AcademiaDev' },
+    { text: 'Art', link: '/dev/art/Overview' },
+    { text: '👩‍💻 BePython', link: '/dev/BePython' },
+    { text: 'Contribute', link: '/dev/Contribute' },
+    { text: 'Downloads', link: '/dev/Downloads' },
+    { text: 'DX', link: '/dev/DX' },
+    { text: 'ElementGraph', link: '/dev/ElementsGraph' },
+    { text: 'Filming', link: '/dev/Filming' },
+    { text: 'FireBeta', link: '/FireBeta/FireBeta' },
+    { text: 'GoPro', link: '/dev/GoPro' },
     {
-      text: '<dev>Graphics</dev>', collapsed: true, items: [
-        { text: '<dev>Overview</dev>', link: '/dev/Graphics/Overview' },
+      text: 'Graphics', collapsed: true, items: [
+        { text: 'Overview', link: '/dev/Graphics/Overview' },
         { text: '<beta>BETA Graphics</beta>', link: '/dev/Graphics/BETAGraphic' },
         { text: '<ekos>EKOS Graphics</ekos>', link: '/dev/Graphics/EKOSGraphic' },
         { text: '<motor>MOTOR Graphics</motor>', link: '/dev/Graphics/MOTORGraphic' },
         { text: '<anima>ANIMA Graphics</anima>', link: '/dev/Graphics/ANIMAGraphic' },
         { text: '<via>VIA Graphics</via>', link: '/dev/Graphics/VIAGraphic' },
         { text: 'UX Graphics', link: '/dev/Graphics/UXGraphic' },
-        { text: '<dev>DX Graphics</dev>', link: '/dev/Graphics/DXGraphic' },
+        { text: 'DX Graphics', link: '/dev/Graphics/DXGraphic' },
       ]
     },
-    { text: '<dev>Mindmap</dev>', link: '/dev/Mindmap' },
-    { text: '<dev>Offline</dev>', link: '/dev/Offline' },
-    { text: '<dev>Open Source</dev>', link: '/dev/OpenSource' },
-    { text: '<dev>PaperPhoto</dev>', link: '/dev/PaperPhoto' },
-    { text: '<dev>Podcast</dev>', link: '/dev/Podcast' },
-    { text: '<dev>Pylanter</dev>', link: '/dev/Pylanter' },
-    { text: '<dev>Research Questions</dev>', link: '/dev/ResearchQuestions' },
-    { text: '<dev>Roadmap</dev>', link: '/dev/Roadmap' },
-    { text: '<dev>Sequence</dev>', link: '/dev/Sequence' },
-    { text: '<dev>SocialMedia</dev>', link: '/dev/SocialMedia' },
-    { text: '<dev>StyleGuide</dev>', link: '/dev/StyleGuide' },
-    { text: '<dev>Tagging</dev>', link: '/dev/Tagging' },
-    { text: '<dev>TaskList</dev>', link: '/dev/TaskList' },
-    { text: '<dev>ToDo</dev>', link: '/dev/ToDo' },
-    { text: '<dev>Tools</dev>', link: '/dev/Tools' },
-    { text: '<dev>UX</dev>', link: '/dev/UX' },
-    { text: '<dev>AfternoonTask</dev>', link: '/dev/AfternoonTask' },
+    { text: 'Mindmap', link: '/dev/Mindmap' },
+    { text: 'Offline', link: '/dev/Offline' },
+    { text: 'Open Source', link: '/dev/OpenSource' },
+    { text: 'PaperPhoto', link: '/dev/PaperPhoto' },
+    { text: 'Podcast', link: '/dev/Podcast' },
+    { text: 'Pylanter', link: '/dev/Pylanter' },
+    { text: 'Research Questions', link: '/dev/ResearchQuestions' },
+    { text: 'Roadmap', link: '/dev/Roadmap' },
+    { text: 'Sequence', link: '/dev/Sequence' },
+    { text: 'SocialMedia', link: '/dev/SocialMedia' },
+    { text: 'StyleGuide', link: '/dev/StyleGuide' },
+    { text: 'Tagging', link: '/dev/Tagging' },
+    { text: 'TaskList', link: '/dev/TaskList' },
+    { text: 'ToDo', link: '/dev/ToDo' },
+    { text: 'Tools', link: '/dev/Tools' },
+    { text: 'UX', link: '/dev/UX' },
+    { text: 'AfternoonTask', link: '/dev/AfternoonTask' },
   ]
 }
 // #Guide
@@ -184,7 +201,7 @@ function sidebarSistem() {
 function sidebarElements() {
   return [
     {
-      text: '<beta>ELEMENTs</beta>', link: 'PlantaBeta/Teori/Elements/ElementsOverview'
+      text: '<beta>TEORI</beta>', link: 'PlantaBeta/Teori/TeoriOverview'
     },
     // #LABOR
     {

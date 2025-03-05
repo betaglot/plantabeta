@@ -121,7 +121,7 @@ Maximum Length
 ## Image Contribution
 
 ::: tip Send an email to:
-<christopheralduncan@gmail.com>
+<betaglot@betaglot.org>
 :::
 
 ---
@@ -131,7 +131,7 @@ Maximum Length
 <!-- =================================================== -->
 <!-- =================================================== -->
 <!-- =================================================== -->
-::: details 🛠 <dev>&&&</dev>
+::: details 🛠 &&&
 
 - What Instrument to use which allows easy uploading?
 - <https://opensource.guide/how-to-contribute/>

@@ -7,7 +7,7 @@
     - Use BetaglotColors
 - Betomiks
     - Comics of Beta
-- BetaCode (for 🛠<dev>Devs</dev> only)
+- BetaCode (for 🛠Devs only)
     - Using Python as a shorthand
         - Allows VScode Autocomplete
         - Each function prints a list or you can read the Python script as literal. LiteralBetaCode isn't very accessible, since you need to understand Python Syntax.

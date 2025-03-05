@@ -19,7 +19,7 @@ Novice Plantors ALWAYS Google "How to Plant trees?" before starting the season. 
 <!-- =================================================== -->
 <!-- =================================================== -->
 <!-- =================================================== -->
-::: details 🛠 <dev>&&&</dev>
+::: details 🛠 &&&
 
 - Confidence is how much you trust yourself. Doubt. "Was that a good tree, should I Test it?"
 

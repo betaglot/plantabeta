@@ -62,7 +62,7 @@ Such traits include:
 <!-- =================================================== -->
 <!-- =================================================== -->
 <!-- =================================================== -->
-::: details 🛠 <dev>&&&</dev>
+::: details 🛠 &&&
 
 - Instructor needs to wear bags since demonstration is more salient than words
 - Mental essay about how curiosity can increase learning

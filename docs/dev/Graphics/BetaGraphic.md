@@ -66,7 +66,7 @@ No images of humans at a computer. It doesn't even need to be technical, just an
 <!-- =================================================== -->
 <!-- =================================================== -->
 <!-- =================================================== -->
-::: details 🛠 <dev>&&&</dev>
+::: details 🛠 &&&
 
 - ScaleBar
 - Have a BetaGraphic of your piece with recommended Line ViaPath.

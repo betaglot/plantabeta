@@ -500,7 +500,7 @@ Weave Tab
 <!-- =================================================== -->
 <!-- =================================================== -->
 <!-- =================================================== -->
-::: details 🛠 <dev>&&&</dev>
+::: details 🛠 &&&
 
 - What could be planted to suppress fire like a firebreak or something. Planted just before
 

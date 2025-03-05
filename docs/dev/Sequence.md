@@ -1,4 +1,4 @@
-# 🔷<dev>Sequence</dev>
+# 🔷Sequence
 
 The Sequences of each BetaTipos
 
@@ -124,7 +124,7 @@ All algorithms are Frases. "Frase" is more commonplace than "Algorithm". Use "Fr
 <!-- =================================================== -->
 <!-- =================================================== -->
 <!-- =================================================== -->
-::: details 🛠 <dev>&&&</dev>
+::: details 🛠 &&&
 
 - Sequence of Events
 

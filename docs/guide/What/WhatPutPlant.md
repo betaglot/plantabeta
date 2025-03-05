@@ -1,7 +1,6 @@
 
 # 🔷<beta>Put(<ekos>Plant</ekos>)</beta>
 
-<!-- 
 ## 🔷<beta>Put(<ekos>Tree</ekos>)</beta>, 🔷<beta>Put(<ekos>Shrub</ekos>)</beta>, 🔷<beta>Put(<ekos>Flower</ekos>)</beta>, 🔷<beta>Put(<ekos>Moss</ekos>)</beta>, 🔷<beta>Put(<ekos>Bulb</ekos>)</beta>, 🔷<beta>Put(<ekos>Root</ekos>)</beta>, 🔷<beta>Put(<ekos>Meadow</ekos>)</beta> -->
 
 <!-- ::: details What does 🔷<beta>Put(<ekos>Plant</ekos>)</beta>
@@ -62,7 +61,7 @@ Noun
 - "newly planted <ekos>plant</ekos>"
 - ""
 
-::: -->
+:::
 
 ::: info 🔷<beta>Put(<ekos>Plant</ekos>)</beta>'s **Mission**
 
@@ -113,7 +112,7 @@ If you're an Experienced Plantor, then 🔷<beta>Put(<ekos>Plant</ekos>)</beta> 
 <!-- =================================================== -->
 <!-- =================================================== -->
 <!-- =================================================== -->
-::: details 🛠 <dev>&&&</dev>
+::: details 🛠 &&&
 
 - You can plant trees without Beta. PlantaBeta isn't required to plant
 - PlantaBeta is written like a computer programming language function since it's the application of computational thinking.

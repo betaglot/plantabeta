@@ -1,4 +1,4 @@
-# 🛠<dev>TaskList</dev>
+# 🛠TaskList
 
 A list of all tasks needed for 🔷<beta>Put(<ekos>Plant</ekos>)</beta>
 

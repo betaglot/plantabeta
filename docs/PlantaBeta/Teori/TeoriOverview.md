@@ -2,19 +2,23 @@
 
 >
 
+![PlantaBetaLogo](/PlantaBeta_Logo.png)
+
 ## [SISTEM](/PlantaBeta/Teori/Sistem/SistemOverview)
 
 ## [ELEMENTs](/PlantaBeta/Teori/Elements/ElementsOverview)
 
-### [🔷<soma>SOMA</soma>🔷](/PlantaBeta/Teori/Elements/Soma/SomaOverview)
+### [⭐<labor>LABOR</labor>⭐![ElementGroup](/Ikon/Labor_Ikon.png)](/PlantaBeta/Teori/Elements/Labor/LaborOverview)
 
-### [🟩<ekos>EKOS</ekos>🟩](/PlantaBeta/Teori/Elements/Ekos/EkosOverview)
+### [🔷<soma>SOMA</soma>🔷![ElementGroup](/Ikon/Soma_Ikon.png)](/PlantaBeta/Teori/Elements/Soma/SomaOverview)
 
-### [🟠<motor>MOTOR</motor>🟠](/PlantaBeta/Teori/Elements/Motor/MotorOverview)
+### [🟩<ekos>EKOS</ekos>🟩![ElementGroup](/Ikon/Ekos_Ikon.png)](/PlantaBeta/Teori/Elements/Ekos/EkosOverview)
 
-### [🔻<via>VIA</via>🔻](/PlantaBeta/Teori/Elements/Via/ViaOverview)
+### [🟠<motor>MOTOR</motor>🟠![ElementGroup](/Ikon/Motor_Ikon.png)](/PlantaBeta/Teori/Elements/Motor/MotorOverview)
 
-### [💜<anima>ANIMA</anima>💜](/PlantaBeta/Teori/Elements/Anima/AnimaOverview)
+### [🔻<via>VIA</via>🔻![ElementGroup](/Ikon/Via_Ikon.png)](/PlantaBeta/Teori/Elements/Via/ViaOverview)
+
+### [💜<anima>ANIMA</anima>💜![ElementGroup](/Ikon/Anima_Ikon.png)](/PlantaBeta/Teori/Elements/Anima/AnimaOverview)
 
 ## [BETUMs](/PlantaBeta/Teori/Betums/BetumsOverview)
 

@@ -1,4 +1,4 @@
-# <dev>Filming</dev>
+# Filming
 
 > record a Plantor's experience with a camera
 

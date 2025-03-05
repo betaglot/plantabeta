@@ -1,4 +1,4 @@
-# 🛠<dev>Pitfalls</dev>
+# 🛠Pitfalls
 
 What not to do
 

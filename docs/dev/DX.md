@@ -57,7 +57,7 @@ Homonyms = {
 
 0. SetUp Laptop with PlantaBeta open on left half and the google doc open on the right. Record the audio with your phone being held up close to your mouth.
 
-1. Look at the Page, Tags and the PaperPhotos in <dev>DesignBox</dev> .
+1. Look at the Page, Tags and the PaperPhotos in DesignBox .
     - Think of something to say for each header. Say the header that you're thinking about, eg. "Subelements", "Related Elements", "Element Attributes", "Definition"...etc
     - Say period, new line,
 
@@ -89,7 +89,7 @@ Homonyms = {
 <!-- =================================================== -->
 <!-- =================================================== -->
 <!-- =================================================== -->
-::: details 🛠 <dev>&&&</dev>
+::: details 🛠 &&&
 
 -
 
@@ -142,7 +142,7 @@ Convert the list of Papers associated with a given tag into a markdown photos
 <!-- =================================================== -->
 <!-- =================================================== -->
 <!-- =================================================== -->
-::: details 🛠 <dev>&&&</dev>
+::: details 🛠 &&&
 
 -
 
@@ -325,7 +325,7 @@ researchModels = {
 <!-- =================================================== -->
 <!-- =================================================== -->
 <!-- =================================================== -->
-::: details 🛠 <dev>&&&</dev>
+::: details 🛠 &&&
 
 -
 

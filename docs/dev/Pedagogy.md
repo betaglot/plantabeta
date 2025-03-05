@@ -138,7 +138,7 @@ Recall what you learned during the morning truck ride
 <!-- =================================================== -->
 <!-- =================================================== -->
 <!-- =================================================== -->
-::: details 🛠 <dev>&&&</dev>
+::: details 🛠 &&&
 
 - Programming instead of curriculum
 

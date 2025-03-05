@@ -1,4 +1,4 @@
-# 🛠<dev>Mindmap</dev>
+# 🛠Mindmap
 
 To prove that you're in it for the long run.
 

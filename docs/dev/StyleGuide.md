@@ -56,7 +56,7 @@ Show don't tell
 
 Reader and writer are intellectual equals
 
-## <dev>Semantics</dev>
+## Semantics
 
 ::: warning
 
@@ -95,7 +95,7 @@ Euphemisms undermine PlantaBeta and open it up to unnecessary criticism
 - "Slut in"
 -
 
-## <dev>LevelOfDetail</dev>
+## LevelOfDetail
 
 No Acronyms
 
@@ -103,15 +103,15 @@ Write complete sentences.
 
 Point form is lazy. Think about all the coding documentation which is not easy to read. Too formal, too concise, humans don't process language like computers, point of view matters.
 
-## <dev>ElementName</dev>
+## ElementName
 
 - PascaleCase
 
-## <dev>Bilingual</dev>
+## Bilingual
 
  French,  English
 
-## <dev>Grammar</dev>
+## Grammar
 
 ### You, not them
 
@@ -141,7 +141,7 @@ Periods
 
 <https://developers.google.com/style/person>
 
-## <dev>Color</dev>
+## Color
 
 ### <motor>MOTONColor</motor>
 
@@ -268,7 +268,7 @@ When is it useful for Ikons to be monochrome outlines?
 <code><motor>eko</motor></code>
 ```
 
-## <dev>DesignBox</dev>
+## DesignBox
 
 Add current state of development to desgin box
 
@@ -280,7 +280,7 @@ Delete tags once converted to headers. They are stored in a JSON
 
 ```md
 
-### 🟠 <dev>DesignBox</dev><motor>.MOTON</motor>
+### 🟠 DesignBox<motor>.MOTON</motor>
 
 ```md
 ---
@@ -290,7 +290,7 @@ Delete tags once converted to headers. They are stored in a JSON
 <!-- =================================================== -->
 <!-- =================================================== -->
 <!-- =================================================== -->
-::: details 🛠 <dev>&&&</dev>
+::: details 🛠 &&&
 
 -
 
@@ -299,7 +299,7 @@ Delete tags once converted to headers. They are stored in a JSON
 
 ```md
 
-### 🟩 <dev>DesignBox</dev><ekos>.Eko</ekos>
+### 🟩 DesignBox<ekos>.Eko</ekos>
 
 ```md
 ---
@@ -309,7 +309,7 @@ Delete tags once converted to headers. They are stored in a JSON
 <!-- =================================================== -->
 <!-- =================================================== -->
 <!-- =================================================== -->
-::: details 🛠 <dev>&&&</dev>
+::: details 🛠 &&&
 
 -
 
@@ -318,7 +318,7 @@ Delete tags once converted to headers. They are stored in a JSON
 
 ```md
 
-### 🔻 <dev>DesignBox</dev><via>.Via</via>
+### 🔻 DesignBox<via>.Via</via>
 
 ```md
 ---
@@ -328,7 +328,7 @@ Delete tags once converted to headers. They are stored in a JSON
 <!-- =================================================== -->
 <!-- =================================================== -->
 <!-- =================================================== -->
-::: details 🛠 <dev>&&&</dev>
+::: details 🛠 &&&
 
 -
 
@@ -337,7 +337,7 @@ Delete tags once converted to headers. They are stored in a JSON
 
 ```md
 
-### 💜 <dev>DesignBox</dev><anima>.Anima</anima>
+### 💜 DesignBox<anima>.Anima</anima>
 
 ```md
 ---
@@ -347,7 +347,7 @@ Delete tags once converted to headers. They are stored in a JSON
 <!-- =================================================== -->
 <!-- =================================================== -->
 <!-- =================================================== -->
-::: details 🛠 <dev>&&&</dev>
+::: details 🛠 &&&
 
 -
 
@@ -356,7 +356,7 @@ Delete tags once converted to headers. They are stored in a JSON
 
 ```md
 
-### 🔷 <dev>DesignBox</dev><beta>.Beta</beta>
+### 🔷 DesignBox<beta>.Beta</beta>
 
 ```md
 ---
@@ -366,7 +366,7 @@ Delete tags once converted to headers. They are stored in a JSON
 <!-- =================================================== -->
 <!-- =================================================== -->
 <!-- =================================================== -->
-::: details 🛠 <dev>&&&</dev>
+::: details 🛠 &&&
 
 -
 
@@ -376,7 +376,7 @@ Delete tags once converted to headers. They are stored in a JSON
 
 ```md
 
-### 🛠 <dev>DesignBox.Dev</dev>
+### 🛠 DesignBox.Dev
 
 ```md
 ---
@@ -386,17 +386,17 @@ Delete tags once converted to headers. They are stored in a JSON
 <!-- =================================================== -->
 <!-- =================================================== -->
 <!-- =================================================== -->
-::: details 🛠 <dev>&&&</dev>
+::: details 🛠 &&&
 
 -
 
 :::
 
-# 🛠 <dev>Dev</dev>
+# 🛠 Dev
 
 ```md
 
-## <dev>Beta Symbols</dev>
+## Beta Symbols
 
 ```md
 🔷
@@ -406,7 +406,7 @@ Delete tags once converted to headers. They are stored in a JSON
 💜
 ```
 
-## <dev>Links</dev>
+## Links
 
 How many links is too many?
 
@@ -434,7 +434,7 @@ Plantors are Heros. Many people commented on @antmos Instagram that he was a her
 
 Should "via" be used as natural language? "Get to the next page via the link at the bottom of the page"
 
-## <dev>ElementPageDesign</dev>
+## ElementPageDesign
 
 ## <motor>MOTONPage.BaseLayout</motor>
 
@@ -527,7 +527,8 @@ Where in Eko is this MOTON performed and on what EkoElement. Put "the ground" if
 
 ## Custom CSS
 
-<https://github.com/vuejs/vitepress/blob/main/src/client/theme-default/styles/vars.css>
+- <https://github.com/vuejs/vitepress/blob/main/src/client/theme-default/styles/vars.css>
+
 ---
 
 <!-- =================================================== -->
@@ -535,7 +536,7 @@ Where in Eko is this MOTON performed and on what EkoElement. Put "the ground" if
 <!-- =================================================== -->
 <!-- =================================================== -->
 <!-- =================================================== -->
-::: details 🛠 <dev>&&&</dev>
+::: details 🛠 &&&
 
 - Use Code snippets to write abbreviated names to insert Tags or ElementName
 

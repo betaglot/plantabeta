@@ -4,7 +4,7 @@
 ::: tip Send an email to:
 
 ```md
-christopheralduncan@gmail.com
+betaglot@betaglot.org
 ```
 
 :::
@@ -41,7 +41,7 @@ Which parts of of [PlantaBeta](/guide/introduction.html#what-is-PLANTABETA) are:
 <!-- =================================================== -->
 <!-- =================================================== -->
 <!-- =================================================== -->
-::: details 🛠 <dev>&&&</dev>
+::: details 🛠 &&&
 
 -
 

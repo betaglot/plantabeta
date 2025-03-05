@@ -20412,6 +20412,6 @@ data = [
 ]
 
 for item in data:
-    print(f"{item['PagePath']}, <dev>{item['TagName']}</dev>, ![{item['PaperPhoto']}](/PaperPhoto/{item['PaperPhoto']})")
+    print(f"{item['PagePath']}, {item['TagName']}, ![{item['PaperPhoto']}](/PaperPhoto/{item['PaperPhoto']})")
 
 

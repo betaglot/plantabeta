@@ -92,7 +92,7 @@ Update to `True` once completed
     - Make a script which puts all the tags into code boxes which can be copied
  -->
 
-<!-- ## Add PaperPhoto to <dev>DesignBox</dev>
+<!-- ## Add PaperPhoto to DesignBox
 
 1. <s>Make dict `PageNamespace: [TagName]`</s>
 
@@ -100,7 +100,7 @@ Update to `True` once completed
 
 3. <s>Make a dict `PageNamespace: [PaperPhoto]`</s> -->
 
-## Add PaperText to <dev>DesignBox</dev>
+## Add PaperText to DesignBox
 
 ::: tip
 

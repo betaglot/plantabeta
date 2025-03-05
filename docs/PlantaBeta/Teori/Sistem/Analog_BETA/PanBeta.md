@@ -168,10 +168,6 @@ Passing
 
 ## 🔷 Climbing (KLIMBETA)
 
-KLIMBETA
-
-Send Planting bags full of merch and printed information to Chris Sharma in Spain
-
 ## 🔷Cooking (CookBeta)
 
 ## 🔷 Diving (DiveBeta)
