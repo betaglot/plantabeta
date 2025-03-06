@@ -18,6 +18,8 @@ a moment has duration, an instant does not
 
 > In a moment of weakness
 
+> Take a moment to...
+
 > Give it a moment
 
 > Opportune moment

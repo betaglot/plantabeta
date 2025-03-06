@@ -8,8 +8,9 @@ Each SistemType is structured into Praktik and Teoria
 
 Betum = (Element+Element)
 
-(Vion+Vion) = Vion
-(Vion+Moton) = Betum
+(🔻<via>VION</via> +🔻<via>VION</via>) = 🔻<via>VION</via>
+
+(🔻<via>VION</via> + 🟠<motor>MOTON</motor>) = Betum
 
 Betomiks(Komposition(Betum(Element)))
 

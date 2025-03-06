@@ -1,6 +1,4 @@
-# PRAKTIK
-
-Practicing PlantaBeta
+# About
 
 ---
 

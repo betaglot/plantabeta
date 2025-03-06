@@ -4,11 +4,7 @@
   --vp-c-brand-2: #569cd6;
   --vp-c-brand-3: #569cd6;
   --vp-nav-logo-height: 100%;
-
-
-
   --vp-layout-max-width: 1920px;
-
 }
 
 .VPDoc:not(.has-sidebar) .container {

@@ -3,13 +3,7 @@
 
 <https://developers.google.com/style>
 
-<via>
-
-## Be Canadian, eh!
-
-It doesn't matter if it's always totally true, the canadian stereotype is believed, not proven.
-
-### Mindset
+## Mindset
 
 - Openness
     - Open Source
@@ -18,25 +12,6 @@ It doesn't matter if it's always totally true, the canadian stereotype is believ
     - "the quality of being generous, helpful, and caring about other people"
     - No crusty vet
     - All on the same team
-
-### Canadian Activities
-
-- Paddling
-    - Canoe
-    - Kayak
-- Hockey
-- Lacrosse
-- Skiing
-    - Freestyle Skiing
-- Alpinism
-
-### Canadian Land
-
-- Massive Wilderness
-    - EcoHome Hero Image
-- Cold, Winter
-
-</via>
 
 ## Classic Style
 
@@ -237,7 +212,7 @@ Groups of Animons
 - For plantors to use the Ikons
 - Each Ikon can be easily handwritten, since electronics don't do well in extreme weather, in terms of breaking and in UX. You can't easily view a screen in summer sun, or rain, definitely not in snow.
 
-The BetaModules are aliased as Ikons.
+The ElementGroups are aliased as Ikons.
 
 ::: tip ?
 When is it useful for Ikons to be monochrome outlines?
@@ -253,158 +228,9 @@ When is it useful for Ikons to be monochrome outlines?
 
 - Prefix for
 
-### Ikon Only
-
-- Which renderer to use for Ikons in images?
-    - No shading
-
-`eko`
-
-<beta>`eko`</beta>
-
-<code><motor>eko</motor></code>
-
-```html
-<code><motor>eko</motor></code>
-```
-
 ## DesignBox
 
-Add current state of development to desgin box
-
-Boolean
-
-#
-
-Delete tags once converted to headers. They are stored in a JSON
-
-```md
-
-### 🟠 DesignBox<motor>.MOTON</motor>
-
-```md
----
-
-<!-- =================================================== -->
-<!-- =================================================== -->
-<!-- =================================================== -->
-<!-- =================================================== -->
-<!-- =================================================== -->
-::: details 🛠 &&&
-
--
-
-:::
-# 🟠 <motor>MOTON</motor>
-
-```md
-
-### 🟩 DesignBox<ekos>.Eko</ekos>
-
-```md
----
-
-<!-- =================================================== -->
-<!-- =================================================== -->
-<!-- =================================================== -->
-<!-- =================================================== -->
-<!-- =================================================== -->
-::: details 🛠 &&&
-
--
-
-:::
-# 🟩 <ekos>Eko</ekos>
-
-```md
-
-### 🔻 DesignBox<via>.Via</via>
-
-```md
----
-
-<!-- =================================================== -->
-<!-- =================================================== -->
-<!-- =================================================== -->
-<!-- =================================================== -->
-<!-- =================================================== -->
-::: details 🛠 &&&
-
--
-
-:::
-# 🔻 <via>Via</via>
-
-```md
-
-### 💜 DesignBox<anima>.ANIMA</anima>
-
-```md
----
-
-<!-- =================================================== -->
-<!-- =================================================== -->
-<!-- =================================================== -->
-<!-- =================================================== -->
-<!-- =================================================== -->
-::: details 🛠 &&&
-
--
-
-:::
-# 💭 <anima>ANIMA</anima>
-
-```md
-
-### 🔷 DesignBox<beta>.Beta</beta>
-
-```md
----
-
-<!-- =================================================== -->
-<!-- =================================================== -->
-<!-- =================================================== -->
-<!-- =================================================== -->
-<!-- =================================================== -->
-::: details 🛠 &&&
-
--
-
-:::
-
-## 🔷 <beta>Beta</beta>
-
-```md
-
-### 🛠 DesignBox.Dev
-
-```md
----
-
-<!-- =================================================== -->
-<!-- =================================================== -->
-<!-- =================================================== -->
-<!-- =================================================== -->
-<!-- =================================================== -->
-::: details 🛠 &&&
-
--
-
-:::
-
-# 🛠 Dev
-
-```md
-
-## Beta Symbols
-
-```md
-🔷
-🟠
-🟩
-🔻
-💜
-```
+Add current state of development to DesignBox
 
 ## Links
 
@@ -412,118 +238,11 @@ How many links is too many?
 
 Every paragraph should have a link
 
-## Grandiosity
-
-### Oversell
-
-### Scale
-
-- Number of Plants
-- Scope
-- Timeline
-
-### Urgency
-
-### Hero
-
-Save the Day
-
-Plantors are Heros. Many people commented on @antmos Instagram that he was a hero. People already naturally think it.
-
-## Via
+## "via" in Natural Language
 
 Should "via" be used as natural language? "Get to the next page via the link at the bottom of the page"
 
 ## ElementPageDesign
-
-## <motor>MOTONPage.BaseLayout</motor>
-
-### Definition
-
-> Brief Definition in Blockquote avoid using VIA adjectives and other BetaModules
-
-### Taxonomy
-
-#### MOTON.SubMOTON
-
-::: tip
-
-Taxonomy will be useful for D3.js
-
-It doesn't matter if nobody looks at it.
-
-:::
-
-- Subset of MOTON
-
-#### MOTON.SuperMOTON
-
-- Superset of MOTON
-
-```py
-
-ArmKurve.SuperMOTON = ArmMOTON
-
-```
-
-### Images
-
-- Description of a useful image in mind's eye
-- Link to image
-- Link to PaperPhoto. Draw a rough sketch of the MOTON, be sure to clearly Tag the sketch in the Head of the paper.
-    - Capture then Upload the Photo with Phone
-
-### MOTON.Purpose
-
-The purpose is usually affect other BetaElements
-
-### MOTON.AnteMOTON
-
-Syntax: `MOTON.AnteMOTON`
-
-- How they transition to each other
-
-### MOTON.PostMOTON
-
-### MOTON.Via
-
-- How does this MOTON interface with Eko?
-- Where in the VIA is this MOTON performed?
-
-### MOTON.Eko
-
-Where in EKOS is this MOTON performed and on what EkoElement. Put "the ground" if necessary. Nothing is too obvious in formal languages!
-
-### MOTON.ANIMA
-
-- Control Flow Statements for alternative moves
-
-### MOTON.Error
-
-- Any errors in ControlFlow
-- MOTONExecutionError
-- Error which is caused by Eko
-    - Soil Collapse
-    - Wood breaking
-- Error Recovery if possible
-
-## <via>ViaPage.BaseLayout</via>
-
-### <via>Via.MOTON</via>
-
-### <via>Via.ANIMA</via>
-
-### <via>Via.Beta</via>
-
-### <via>Via.Via</via>
-
-## <anima>NeuroPage.BaseLayout</anima>
-
-## <anima></anima>
-
-## <beta>BetaPage.BaseLayout</beta>
-
-## <ekos>EcoPage.BaseLayout</ekos>
 
 ## Custom CSS
 
@@ -537,10 +256,6 @@ Where in EKOS is this MOTON performed and on what EkoElement. Put "the ground" i
 <!-- =================================================== -->
 <!-- =================================================== -->
 ::: details 🛠 &&&
-
-- Use Code snippets to write abbreviated names to insert Tags or ElementName
-
-<h2>PageTags</h2>
 
 - "Dev.Breadcrumb"
 - "Dev.Carousel"

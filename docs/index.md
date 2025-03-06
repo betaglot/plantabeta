@@ -8,7 +8,7 @@ hero:
     src: /PlantaBeta_Logo.png
     alt: "Logo"
   text: Everything is Connected
-  tagline: The examples, guides, and reference you need — whether you're planting in the mountains of British Columbia, the wetlands of the Canadian Shield, or anywhere in between. Take advantage of this resource to develop your ability to plant faster and with higher quality.
+  tagline: Whether you're planting in the mountains of British Columbia, the wetlands of the Canadian Shield, or anywhere in between. Take advantage of this resource to develop your ability to <strong>plant faster</strong> and with <strong>greater quality</strong>.
   actions:
     - theme: brand
       text: I'm new to PLANTABETA
@@ -16,17 +16,16 @@ hero:
 
 
 features:
-  - icon: 🔷
+  - icon: 🙌
     title: Examples
-    details: Accelerate your plantor development by learning from examples
+    details: See what you can do with PlantaBeta
     link: /example/ExampleOverview
+  - icon: 🤔
+    title: Learn
+    details: Learn how to use PlantaBeta
+    link: /PlantaBeta/TutorialOverview
   - icon: 🛠️
     title: Dev
     details: Last Updated on March 2, 2025
     link: /dev/DevOverview
-  - icon: 🔎
-    title: Browse PLANTABETA
-    details: Find information about the PlantaBeta objects that you're using
-    link: /PlantaBeta/PlantaBetaOverview
-
 ---
