@@ -18,7 +18,7 @@ Aliases: Handle Match
 
 -
 
-### Related 💜<anima>Anima</anima>
+### Related 💜<anima>ANIMA</anima>
 
 -
 

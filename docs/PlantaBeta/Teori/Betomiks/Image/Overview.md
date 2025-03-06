@@ -32,7 +32,7 @@ In real life.
 
 Not a diagram
 
-Useful for abstraction like Sequencing, alternatives, Anima
+Useful for abstraction like Sequencing, alternatives, ANIMA
 
 #### Glyphs
 

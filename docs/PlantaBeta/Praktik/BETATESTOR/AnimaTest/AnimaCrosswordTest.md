@@ -1,1 +1,1 @@
-# Anima Crossword
+# ANIMA Crossword

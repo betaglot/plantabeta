@@ -26,7 +26,7 @@ No genders
 - Q:
 - K:
 
-### <anima>Heart: Anima</anima>
+### <anima>Heart: ANIMA</anima>
 
 Focus on Emotion and feeling, not abstract computations
 
@@ -87,7 +87,7 @@ Joker: Rock under cream
 - Achievements Poster
 - ElementWeb
 - ElementTree
-- MOTON, Via, Eko, Anima, Beta
+- MOTON, Via, Eko, ANIMA, Beta
 - Betaglot Logo
 
 ### CampPoster

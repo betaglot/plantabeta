@@ -1,4 +1,4 @@
-# 🟠<move>Via MOTON</move>
+# 🟠<move>VIA MOTON</move>
 
 ## Spraction
 

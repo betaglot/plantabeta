@@ -16,7 +16,7 @@ Aliases: DoruBridge
 
 -
 
-### Related 💜<anima>Anima</anima>
+### Related 💜<anima>ANIMA</anima>
 
 -
 

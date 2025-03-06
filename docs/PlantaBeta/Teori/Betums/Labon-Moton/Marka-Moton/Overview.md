@@ -35,7 +35,7 @@ Markas are posted throughout the land.
 
 -
 
-### Related 💜<anima>Anima</anima>
+### Related 💜<anima>ANIMA</anima>
 
 -
 

@@ -32,7 +32,7 @@
 
 ## Cognitive Map
 
-Mental representation of Eko to construct Via
+Mental representation of EKOS to construct Via
 
 > three basic elements of cognitive map based navigation spatial coding, landmark anchoring, and via planning
 
@@ -62,7 +62,7 @@ View from road
 - RockOutcrop
 - Mature tree which is uncut.
 
-### Via Planning
+### VIA Planning
 
 ViaPlan vs. ActualVia
 
@@ -74,9 +74,9 @@ ViaPlan vs. ActualVia
 
 ### Navigation
 
-#### Via Search
+#### VIA Search
 
-#### Via Aiming
+#### VIA Aiming
 
 Wayfinding
 
@@ -99,20 +99,20 @@ When to slow down
 
 <h2>PageTags</h2>
 
-- "Anima.Alignment"
-- "Anima.Alignment.AlignmentRange"
-- "Anima.Alignment.AlignOn()"
-- "Anima.Alignment.LineExtension"
-- "Anima.Alignment.OptimalAlignment"
-- "Anima.Alignment.Parallel"
-- "Anima.Alignment.Perpendicular"
-- "Anima.Chunking"
-- "Anima.Chunking.Fraction"
-- "Anima.Orientation"
-- "Anima.Orientation.ToCache"
-- "Anima.Orientation.ToCardinalDirection"
-- "Anima.Orientation.ToPieceBack"
-- "Anima.Orientation.ToRoad"
-- "Anima.Orientation.ToTarget"
+- "ANIMA.Alignment"
+- "ANIMA.Alignment.AlignmentRange"
+- "ANIMA.Alignment.AlignOn()"
+- "ANIMA.Alignment.LineExtension"
+- "ANIMA.Alignment.OptimalAlignment"
+- "ANIMA.Alignment.Parallel"
+- "ANIMA.Alignment.Perpendicular"
+- "ANIMA.Chunking"
+- "ANIMA.Chunking.Fraction"
+- "ANIMA.Orientation"
+- "ANIMA.Orientation.ToCache"
+- "ANIMA.Orientation.ToCardinalDirection"
+- "ANIMA.Orientation.ToPieceBack"
+- "ANIMA.Orientation.ToRoad"
+- "ANIMA.Orientation.ToTarget"
 
 :::

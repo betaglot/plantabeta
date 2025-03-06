@@ -14,7 +14,7 @@
 
 - 🟠<motor>HandCompressMano</motor>
 
-### Related 💜<anima>Anima</anima>
+### Related 💜<anima>ANIMA</anima>
 
 -
 

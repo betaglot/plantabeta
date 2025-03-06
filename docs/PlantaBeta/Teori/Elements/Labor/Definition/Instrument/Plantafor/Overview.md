@@ -22,7 +22,7 @@ Roll up your back bag layer to shell from water and dirt
 
 -
 
-### Related 💜<anima>Anima</anima>
+### Related 💜<anima>ANIMA</anima>
 
 -
 

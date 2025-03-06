@@ -14,6 +14,6 @@
 ::: details 🛠
 
 - MarkaSnag
-    - MarkaRoll can get snagged on by Eko and unrolls as you walk away. This can waste dozens of meters of Marka.
+    - MarkaRoll can get snagged on by EKOS and unrolls as you walk away. This can waste dozens of meters of Marka.
 
 :::

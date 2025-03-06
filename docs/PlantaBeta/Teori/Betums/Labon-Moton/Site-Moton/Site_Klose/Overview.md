@@ -20,7 +20,7 @@ Aliases: HoleClose
 
 -
 
-### Related 💜<anima>Anima</anima>
+### Related 💜<anima>ANIMA</anima>
 
 -
 

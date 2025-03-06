@@ -48,7 +48,7 @@ Makes the Voronoi Cells more
 
 -
 
-### Related 💜<anima>Anima</anima>
+### Related 💜<anima>ANIMA</anima>
 
 -
 

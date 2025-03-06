@@ -19,7 +19,7 @@ Each BetaInstance is different. The Beta that a user is experiencing changes eac
 <!-- =================================================== -->
 ::: details 🛠 &&&
 
-- Move becomes another person's Eko in Acrobatics
+- Move becomes another person's EKOS in Acrobatics
     - Acroyoga, Human Tower Build race, Cirque du Solei
 
 :::

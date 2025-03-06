@@ -60,7 +60,7 @@ HubermanLab Guest Series [with Dr. Matt Walker](https://www.youtube.com/playlist
 
 -
 
-### Related 💜<anima>Anima</anima>
+### Related 💜<anima>ANIMA</anima>
 
 -
 

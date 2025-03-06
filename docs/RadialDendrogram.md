@@ -3858,7 +3858,7 @@ data = {
             ]
         },
         {
-            "name": "Anima",
+            "name": "ANIMA",
             "type": "folder",
             "children": [
                 {

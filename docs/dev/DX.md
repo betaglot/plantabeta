@@ -303,7 +303,7 @@ Every rep
 
 Make a list of DX research models for each module
 
-MOTON, Anima, Eko, Via, Beta
+MOTON, ANIMA, Eko, Via, Beta
 
 To make prototyping easier. So you don't need to worry about the content
 
@@ -311,7 +311,7 @@ To make prototyping easier. So you don't need to worry about the content
 
 researchModels = {
     'Via': BoustroCover,
-    'Anima':
+    'ANIMA':
     'MOTON':
     'Beta':
     'Eko':

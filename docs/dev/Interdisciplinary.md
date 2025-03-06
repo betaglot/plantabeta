@@ -3,8 +3,8 @@
 ## Design
 
 - Spacing between objects in an enclosed space
-- Easiest Via through obstacles
-- [DistanceEstimation](/encyclopedia/Anima/Estimation/DistanceEstimation)
+- Easiest VIA through obstacles
+- [DistanceEstimation](/encyclopedia/ANIMA/Estimation/DistanceEstimation)
 
 ### Landscape Architecture
 

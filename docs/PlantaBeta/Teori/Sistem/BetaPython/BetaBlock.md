@@ -6,7 +6,7 @@ Code Block
 
 Loop through the BetaModules
 
-Eko to Via to MOTON then back to Eko, the arrows are Anima
+EKOS to VIA to MOTON then back to Eko, the arrows are ANIMA
 
 Noticing labelling
 

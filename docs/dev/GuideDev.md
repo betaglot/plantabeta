@@ -1,6 +1,5 @@
 # GuideDev
 
-
 ## Material Design
 
 ## WebDev Framework
@@ -10,8 +9,6 @@
 ### Angular
 
 ### React
-
-
 
 ## Games
 

@@ -42,7 +42,7 @@ Observation to LessonPlan
 
 ##### Atlete to Atlete
 
-##### Eko to Eko
+##### EKOS to Eko
 
 #### Attendo (Frame)
 

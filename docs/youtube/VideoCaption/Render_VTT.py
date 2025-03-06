@@ -13,7 +13,7 @@ captionItemsList = [{
     "ekosCaption": "List of Ekons",
     "viaCaption": "List of Via", 
     "MOTONsCaption": "List of MOTONs",
-    "AnimaCaption": "Anima Sentences" 
+    "AnimaCaption": "ANIMA Sentences" 
 }]
 
 

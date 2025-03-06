@@ -15,7 +15,7 @@ This each line are analog pairs. The equal signs = denotes where Climbing and Pl
 |                  <beta>Beta</beta> = | = <beta>Beta</beta>               |
 |                     <ekos>Eko</ekos> = | = <ekos>Eko</ekos>                  |
 |                     <via>Via</via> = | = <via>Via</via>                  |
-|               <anima>Anima</anima> = | = <anima>Anima</anima>            |
+|               <anima>ANIMA</anima> = | = <anima>ANIMA</anima>            |
 |                      <ekos>Wall</ekos> | <ekos>Land</ekos>                   |
 |              <ekos>Wall Section</ekos> | <ekos>Area</ekos>                   |
 |          <via>Contact</via> = | = <via>Contact</via>       |

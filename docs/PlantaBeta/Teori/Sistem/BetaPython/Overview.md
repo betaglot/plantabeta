@@ -122,7 +122,7 @@ Variables change their values. They are assigned a new value.
 
 Changing Values
 
-As you move through the land the EcoState is constantly changing. Remember that Eko is from the first person point of view. The Geology and Botany remains static, but Eko is relative to where you are in the land. The land under your feet is constantly changing.
+As you move through the land the EcoState is constantly changing. Remember that EKOS is from the first person point of view. The Geology and Botany remains static, but EKOS is relative to where you are in the land. The land under your feet is constantly changing.
 
 > CurrentState
 

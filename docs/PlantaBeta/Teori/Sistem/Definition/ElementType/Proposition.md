@@ -176,17 +176,17 @@ Knowledge of Geometry is assumed.
 - Book0
     - BaseClass. Define Elements
 
-- Book1 is Anima
-    - Experience is the most fundamental component of Anima
+- Book1 is ANIMA
+    - Experience is the most fundamental component of ANIMA
 
-- Book2 is Eko requires perception(Anima)
+- Book2 is EKOS requires perception(ANIMA)
 
-- Book3 is Via requires substrate(Eko)
+- Book3 is VIA requires substrate(Eko)
 
 - Book4 is MOTON requires direction(Via)
     - Physik.Mechanics
 
-- Book5 is Beta requires BetaTypes(Anima, Eko, Via, MOTON)
+- Book5 is Beta requires BetaTypes(ANIMA, Eko, Via, MOTON)
 
 ## Pose
 

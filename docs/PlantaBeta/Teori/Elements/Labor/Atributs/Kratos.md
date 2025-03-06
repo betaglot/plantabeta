@@ -12,9 +12,9 @@ WallAngle
 
 ### Relationship between EkoKratos and MOTON Kratos
 
-### Relationship between EkoKratos and Anima Kratos
+### Relationship between EkoKratos and ANIMA Kratos
 
-Eko Causes Panic
+EKOS Causes Panic
 
 - Fear can be LowKratos, HighKratos Fear is Panic.
 - Fear of Falling
@@ -23,11 +23,11 @@ Eko Causes Panic
 - Performance Anxiety
     - Climbing in front of Spectators
 
-## Examples of Eko Kratos
+## Examples of EKOS Kratos
 
-### Low Eko Kratos
+### Low EKOS Kratos
 
-### High Eko Kratos
+### High EKOS Kratos
 
 - RoofWall
 - WetWall

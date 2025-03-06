@@ -38,7 +38,7 @@ What is tree planting like?
 ### Climbing
 
 - Finger Strength
-- Via Planning
+- VIA Planning
 
 ### Ultramarathon Runner
 

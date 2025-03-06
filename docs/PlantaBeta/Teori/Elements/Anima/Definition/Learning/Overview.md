@@ -13,10 +13,10 @@
 
 <h2>PageTags</h2>
 
-- "Anima.Learning.Feedback"
-- "Anima.Learning.Overview"
-- "Anima.Learning.Recall"
-- "Anima.Learning.Recall.NonverbalRecall"
-- "Anima.Learning.Review"
+- "ANIMA.Learning.Feedback"
+- "ANIMA.Learning.Overview"
+- "ANIMA.Learning.Recall"
+- "ANIMA.Learning.Recall.NonverbalRecall"
+- "ANIMA.Learning.Review"
 
 :::

@@ -1368,7 +1368,7 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Anima.Vision",
+                    "title": "ANIMA.Vision",
                     "color": "#ffffffff",
                     "textcolor": "#000000ff",
                     "type": "sidecar"
@@ -1435,7 +1435,7 @@
                 "textcolor": "white"
             },
             {
-                "title": "Anima.Vision",
+                "title": "ANIMA.Vision",
                 "color": "#ffffffff",
                 "textcolor": "#000000ff"
             },
@@ -2175,7 +2175,7 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Anima.NeuroDifficulty.Overview",
+                    "title": "ANIMA.NeuroDifficulty.Overview",
                     "color": "#cd74e6ff",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -2230,7 +2230,7 @@
                 "textcolor": "white"
             },
             {
-                "title": "Anima.NeuroDifficulty.Overview",
+                "title": "ANIMA.NeuroDifficulty.Overview",
                 "color": "#cd74e6ff",
                 "textcolor": "white"
             },
@@ -2976,7 +2976,7 @@
             "lastUpdated": 1692978839566,
             "tags": [
                 {
-                    "title": "Anima.Alignment",
+                    "title": "ANIMA.Alignment",
                     "color": "#ffffffff",
                     "textcolor": "#000000ff",
                     "type": "sidecar"
@@ -3011,7 +3011,7 @@
         "extension": "jpg",
         "tags": [
             {
-                "title": "Anima.Alignment",
+                "title": "ANIMA.Alignment",
                 "color": "#ffffffff",
                 "textcolor": "#000000ff"
             },
@@ -3051,7 +3051,7 @@
             "lastUpdated": 1692978839566,
             "tags": [
                 {
-                    "title": "Anima.Alignment",
+                    "title": "ANIMA.Alignment",
                     "color": "#ffffffff",
                     "textcolor": "#000000ff",
                     "type": "sidecar"
@@ -3086,7 +3086,7 @@
         "extension": "jpg",
         "tags": [
             {
-                "title": "Anima.Alignment",
+                "title": "ANIMA.Alignment",
                 "color": "#ffffffff",
                 "textcolor": "#000000ff"
             },
@@ -3126,13 +3126,13 @@
             "lastUpdated": 1692978839566,
             "tags": [
                 {
-                    "title": "Anima.Alignment",
+                    "title": "ANIMA.Alignment",
                     "color": "#ffffffff",
                     "textcolor": "#000000ff",
                     "type": "sidecar"
                 },
                 {
-                    "title": "Anima.Chunking",
+                    "title": "ANIMA.Chunking",
                     "color": "#ffffffff",
                     "textcolor": "#000000ff",
                     "type": "sidecar"
@@ -3173,12 +3173,12 @@
         "extension": "jpg",
         "tags": [
             {
-                "title": "Anima.Alignment",
+                "title": "ANIMA.Alignment",
                 "color": "#ffffffff",
                 "textcolor": "#000000ff"
             },
             {
-                "title": "Anima.Chunking",
+                "title": "ANIMA.Chunking",
                 "color": "#ffffffff",
                 "textcolor": "#000000ff"
             },
@@ -3443,7 +3443,7 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Anima.Alignment",
+                    "title": "ANIMA.Alignment",
                     "color": "#ffffffff",
                     "textcolor": "#000000ff",
                     "type": "sidecar"
@@ -3477,7 +3477,7 @@
                 "textcolor": "#000000ff"
             },
             {
-                "title": "Anima.Alignment",
+                "title": "ANIMA.Alignment",
                 "color": "#ffffffff",
                 "textcolor": "#000000ff"
             },
@@ -4295,7 +4295,7 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Anima.Visualization",
+                    "title": "ANIMA.Visualization",
                     "color": "#cd74e6ff",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -4412,7 +4412,7 @@
                 "textcolor": "white"
             },
             {
-                "title": "Anima.Visualization",
+                "title": "ANIMA.Visualization",
                 "color": "#cd74e6ff",
                 "textcolor": "white"
             },
@@ -4543,7 +4543,7 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Anima.Chunking",
+                    "title": "ANIMA.Chunking",
                     "color": "#cd74e6ff",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -4583,7 +4583,7 @@
                 "textcolor": "#000000ff"
             },
             {
-                "title": "Anima.Chunking",
+                "title": "ANIMA.Chunking",
                 "color": "#cd74e6ff",
                 "textcolor": "white"
             },
@@ -4827,7 +4827,7 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Anima.Music",
+                    "title": "ANIMA.Music",
                     "color": "#cd74e6ff",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -4954,7 +4954,7 @@
                 "textcolor": "white"
             },
             {
-                "title": "Anima.Music",
+                "title": "ANIMA.Music",
                 "color": "#cd74e6ff",
                 "textcolor": "white"
             },
@@ -6124,7 +6124,7 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Anima.Estimation.ViaEstimation.LineDistanceEstimation",
+                    "title": "ANIMA.Estimation.ViaEstimation.LineDistanceEstimation",
                     "color": "#cd74e6ff",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -6281,7 +6281,7 @@
                 "textcolor": "white"
             },
             {
-                "title": "Anima.Estimation.ViaEstimation.LineDistanceEstimation",
+                "title": "ANIMA.Estimation.ViaEstimation.LineDistanceEstimation",
                 "color": "#cd74e6ff",
                 "textcolor": "white"
             },
@@ -6666,7 +6666,7 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Anima.Alignment.AlignOn()",
+                    "title": "ANIMA.Alignment.AlignOn()",
                     "color": "#cd74e6ff",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -6796,7 +6796,7 @@
                 "textcolor": "white"
             },
             {
-                "title": "Anima.Alignment.AlignOn()",
+                "title": "ANIMA.Alignment.AlignOn()",
                 "color": "#cd74e6ff",
                 "textcolor": "white"
             },
@@ -7766,7 +7766,7 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Anima.Learning.Overview",
+                    "title": "ANIMA.Learning.Overview",
                     "color": "#cd74e6ff",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -7851,7 +7851,7 @@
                 "textcolor": "#000000ff"
             },
             {
-                "title": "Anima.Learning.Overview",
+                "title": "ANIMA.Learning.Overview",
                 "color": "#cd74e6ff",
                 "textcolor": "white"
             },
@@ -8466,7 +8466,7 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Anima.Decision",
+                    "title": "ANIMA.Decision",
                     "color": "#cd74e6ff",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -8542,7 +8542,7 @@
                 "textcolor": "white"
             },
             {
-                "title": "Anima.Decision",
+                "title": "ANIMA.Decision",
                 "color": "#cd74e6ff",
                 "textcolor": "white"
             },
@@ -8870,31 +8870,31 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Anima.Attention",
+                    "title": "ANIMA.Attention",
                     "color": "#cd74e6ff",
                     "textcolor": "white",
                     "type": "sidecar"
                 },
                 {
-                    "title": "Anima.Awareness",
+                    "title": "ANIMA.Awareness",
                     "color": "#cd74e6ff",
                     "textcolor": "white",
                     "type": "sidecar"
                 },
                 {
-                    "title": "Anima.Chunking.Fraction",
+                    "title": "ANIMA.Chunking.Fraction",
                     "color": "#cd74e6ff",
                     "textcolor": "white",
                     "type": "sidecar"
                 },
                 {
-                    "title": "Anima.Learning.Recall.NonverbalRecall",
+                    "title": "ANIMA.Learning.Recall.NonverbalRecall",
                     "color": "#cd74e6ff",
                     "textcolor": "white",
                     "type": "sidecar"
                 },
                 {
-                    "title": "Anima.NonDual",
+                    "title": "ANIMA.NonDual",
                     "color": "#cd74e6ff",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -8945,27 +8945,27 @@
                 "textcolor": "white"
             },
             {
-                "title": "Anima.Attention",
+                "title": "ANIMA.Attention",
                 "color": "#cd74e6ff",
                 "textcolor": "white"
             },
             {
-                "title": "Anima.Awareness",
+                "title": "ANIMA.Awareness",
                 "color": "#cd74e6ff",
                 "textcolor": "white"
             },
             {
-                "title": "Anima.Chunking.Fraction",
+                "title": "ANIMA.Chunking.Fraction",
                 "color": "#cd74e6ff",
                 "textcolor": "white"
             },
             {
-                "title": "Anima.Learning.Recall.NonverbalRecall",
+                "title": "ANIMA.Learning.Recall.NonverbalRecall",
                 "color": "#cd74e6ff",
                 "textcolor": "white"
             },
             {
-                "title": "Anima.NonDual",
+                "title": "ANIMA.NonDual",
                 "color": "#cd74e6ff",
                 "textcolor": "white"
             },
@@ -10485,13 +10485,13 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Anima.Chunking",
+                    "title": "ANIMA.Chunking",
                     "color": "#cd74e6ff",
                     "textcolor": "white",
                     "type": "sidecar"
                 },
                 {
-                    "title": "Anima.Learning.Feedback",
+                    "title": "ANIMA.Learning.Feedback",
                     "color": "#cd74e6ff",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -10545,12 +10545,12 @@
                 "textcolor": "#000000ff"
             },
             {
-                "title": "Anima.Chunking",
+                "title": "ANIMA.Chunking",
                 "color": "#cd74e6ff",
                 "textcolor": "white"
             },
             {
-                "title": "Anima.Learning.Feedback",
+                "title": "ANIMA.Learning.Feedback",
                 "color": "#cd74e6ff",
                 "textcolor": "white"
             },
@@ -10745,19 +10745,19 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Anima.Alignment.OptimalAlignment",
+                    "title": "ANIMA.Alignment.OptimalAlignment",
                     "color": "#cd74e6ff",
                     "textcolor": "white",
                     "type": "sidecar"
                 },
                 {
-                    "title": "Anima.Logic.Boolean",
+                    "title": "ANIMA.Logic.Boolean",
                     "color": "#cd74e6ff",
                     "textcolor": "white",
                     "type": "sidecar"
                 },
                 {
-                    "title": "Anima.Logic.Deduction",
+                    "title": "ANIMA.Logic.Deduction",
                     "color": "#cd74e6ff",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -10829,17 +10829,17 @@
                 "textcolor": "white"
             },
             {
-                "title": "Anima.Alignment.OptimalAlignment",
+                "title": "ANIMA.Alignment.OptimalAlignment",
                 "color": "#cd74e6ff",
                 "textcolor": "white"
             },
             {
-                "title": "Anima.Logic.Boolean",
+                "title": "ANIMA.Logic.Boolean",
                 "color": "#cd74e6ff",
                 "textcolor": "white"
             },
             {
-                "title": "Anima.Logic.Deduction",
+                "title": "ANIMA.Logic.Deduction",
                 "color": "#cd74e6ff",
                 "textcolor": "white"
             },
@@ -10931,7 +10931,7 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Anima.Chunking.Fraction",
+                    "title": "ANIMA.Chunking.Fraction",
                     "color": "#cd74e6ff",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -10995,7 +10995,7 @@
                 "textcolor": "white"
             },
             {
-                "title": "Anima.Chunking.Fraction",
+                "title": "ANIMA.Chunking.Fraction",
                 "color": "#cd74e6ff",
                 "textcolor": "white"
             },
@@ -12374,7 +12374,7 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Anima.Alignment.Perpendicular",
+                    "title": "ANIMA.Alignment.Perpendicular",
                     "color": "#cd74e6ff",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -12483,7 +12483,7 @@
                 "textcolor": "white"
             },
             {
-                "title": "Anima.Alignment.Perpendicular",
+                "title": "ANIMA.Alignment.Perpendicular",
                 "color": "#cd74e6ff",
                 "textcolor": "white"
             },
@@ -12834,7 +12834,7 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Anima.Alignment.LineExtension",
+                    "title": "ANIMA.Alignment.LineExtension",
                     "color": "#cd74e6ff",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -13011,7 +13011,7 @@
                 "textcolor": "white"
             },
             {
-                "title": "Anima.Alignment.LineExtension",
+                "title": "ANIMA.Alignment.LineExtension",
                 "color": "#cd74e6ff",
                 "textcolor": "white"
             },
@@ -14199,7 +14199,7 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Anima.Alignment.AlignmentRange",
+                    "title": "ANIMA.Alignment.AlignmentRange",
                     "color": "#cd74e6ff",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -14289,7 +14289,7 @@
                 "textcolor": "white"
             },
             {
-                "title": "Anima.Alignment.AlignmentRange",
+                "title": "ANIMA.Alignment.AlignmentRange",
                 "color": "#cd74e6ff",
                 "textcolor": "white"
             },
@@ -14380,7 +14380,7 @@
                 {
                     "color": "#cd74e6ff",
                     "textcolor": "white",
-                    "title": "Anima.Alignment.AlignmentRange",
+                    "title": "ANIMA.Alignment.AlignmentRange",
                     "type": "sidecar"
                 },
                 {
@@ -14476,7 +14476,7 @@
                 "textcolor": "white"
             },
             {
-                "title": "Anima.Alignment.AlignmentRange",
+                "title": "ANIMA.Alignment.AlignmentRange",
                 "color": "#cd74e6ff",
                 "textcolor": "white"
             },
@@ -15070,13 +15070,13 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Anima.Alignment.OptimalAlignment",
+                    "title": "ANIMA.Alignment.OptimalAlignment",
                     "color": "#cd74e6ff",
                     "textcolor": "white",
                     "type": "sidecar"
                 },
                 {
-                    "title": "Anima.Alignment.Perpendicular",
+                    "title": "ANIMA.Alignment.Perpendicular",
                     "color": "#cd74e6ff",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -15182,12 +15182,12 @@
                 "textcolor": "white"
             },
             {
-                "title": "Anima.Alignment.OptimalAlignment",
+                "title": "ANIMA.Alignment.OptimalAlignment",
                 "color": "#cd74e6ff",
                 "textcolor": "white"
             },
             {
-                "title": "Anima.Alignment.Perpendicular",
+                "title": "ANIMA.Alignment.Perpendicular",
                 "color": "#cd74e6ff",
                 "textcolor": "white"
             },
@@ -15583,7 +15583,7 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Anima.Alignment.LineExtension",
+                    "title": "ANIMA.Alignment.LineExtension",
                     "color": "#cd74e6ff",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -15646,7 +15646,7 @@
                 "textcolor": "white"
             },
             {
-                "title": "Anima.Alignment.LineExtension",
+                "title": "ANIMA.Alignment.LineExtension",
                 "color": "#cd74e6ff",
                 "textcolor": "white"
             },
@@ -15731,13 +15731,13 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Anima.Alignment.Parallel",
+                    "title": "ANIMA.Alignment.Parallel",
                     "color": "#cd74e6ff",
                     "textcolor": "white",
                     "type": "sidecar"
                 },
                 {
-                    "title": "Anima.Alignment.Perpendicular",
+                    "title": "ANIMA.Alignment.Perpendicular",
                     "color": "#cd74e6ff",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -15803,12 +15803,12 @@
                 "textcolor": "white"
             },
             {
-                "title": "Anima.Alignment.Parallel",
+                "title": "ANIMA.Alignment.Parallel",
                 "color": "#cd74e6ff",
                 "textcolor": "white"
             },
             {
-                "title": "Anima.Alignment.Perpendicular",
+                "title": "ANIMA.Alignment.Perpendicular",
                 "color": "#cd74e6ff",
                 "textcolor": "white"
             },
@@ -15989,7 +15989,7 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Anima.Alignment.Parallel",
+                    "title": "ANIMA.Alignment.Parallel",
                     "color": "#cd74e6ff",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -16065,7 +16065,7 @@
                 "textcolor": "#000000ff"
             },
             {
-                "title": "Anima.Alignment.Parallel",
+                "title": "ANIMA.Alignment.Parallel",
                 "color": "#cd74e6ff",
                 "textcolor": "white"
             },
@@ -17165,7 +17165,7 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Anima.Visualization",
+                    "title": "ANIMA.Visualization",
                     "color": "#cd74e6ff",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -17215,7 +17215,7 @@
                 "textcolor": "white"
             },
             {
-                "title": "Anima.Visualization",
+                "title": "ANIMA.Visualization",
                 "color": "#cd74e6ff",
                 "textcolor": "white"
             },
@@ -17746,13 +17746,13 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Anima.Logic.Deduction",
+                    "title": "ANIMA.Logic.Deduction",
                     "color": "#cd74e6ff",
                     "textcolor": "white",
                     "type": "sidecar"
                 },
                 {
-                    "title": "Anima.Logic.Induction",
+                    "title": "ANIMA.Logic.Induction",
                     "color": "#cd74e6ff",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -17827,12 +17827,12 @@
                 "textcolor": "white"
             },
             {
-                "title": "Anima.Logic.Deduction",
+                "title": "ANIMA.Logic.Deduction",
                 "color": "#cd74e6ff",
                 "textcolor": "white"
             },
             {
-                "title": "Anima.Logic.Induction",
+                "title": "ANIMA.Logic.Induction",
                 "color": "#cd74e6ff",
                 "textcolor": "white"
             },
@@ -20442,7 +20442,7 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Anima.Logic.Deduction",
+                    "title": "ANIMA.Logic.Deduction",
                     "color": "#cd74e6ff",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -20501,7 +20501,7 @@
                 "textcolor": "white"
             },
             {
-                "title": "Anima.Logic.Deduction",
+                "title": "ANIMA.Logic.Deduction",
                 "color": "#cd74e6ff",
                 "textcolor": "white"
             },
@@ -21675,13 +21675,13 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Anima.Memory.Mnemonic",
+                    "title": "ANIMA.Memory.Mnemonic",
                     "color": "#cd74e6ff",
                     "textcolor": "white",
                     "type": "sidecar"
                 },
                 {
-                    "title": "Anima.Planning.Prediction",
+                    "title": "ANIMA.Planning.Prediction",
                     "color": "#cd74e6ff",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -21760,12 +21760,12 @@
                 "textcolor": "white"
             },
             {
-                "title": "Anima.Memory.Mnemonic",
+                "title": "ANIMA.Memory.Mnemonic",
                 "color": "#cd74e6ff",
                 "textcolor": "white"
             },
             {
-                "title": "Anima.Planning.Prediction",
+                "title": "ANIMA.Planning.Prediction",
                 "color": "#cd74e6ff",
                 "textcolor": "white"
             },
@@ -21873,7 +21873,7 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Anima.Orientation",
+                    "title": "ANIMA.Orientation",
                     "color": "#cd74e6ff",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -21966,7 +21966,7 @@
                 "textcolor": "white"
             },
             {
-                "title": "Anima.Orientation",
+                "title": "ANIMA.Orientation",
                 "color": "#cd74e6ff",
                 "textcolor": "white"
             },
@@ -22045,13 +22045,13 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Anima.CognitiveEase.Repetition",
+                    "title": "ANIMA.CognitiveEase.Repetition",
                     "color": "#cd74e6ff",
                     "textcolor": "white",
                     "type": "sidecar"
                 },
                 {
-                    "title": "Anima.Visualization",
+                    "title": "ANIMA.Visualization",
                     "color": "#cd74e6ff",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -22130,12 +22130,12 @@
                 "textcolor": "white"
             },
             {
-                "title": "Anima.CognitiveEase.Repetition",
+                "title": "ANIMA.CognitiveEase.Repetition",
                 "color": "#cd74e6ff",
                 "textcolor": "white"
             },
             {
-                "title": "Anima.Visualization",
+                "title": "ANIMA.Visualization",
                 "color": "#cd74e6ff",
                 "textcolor": "white"
             },
@@ -22868,7 +22868,7 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Anima.Vision.Hidden",
+                    "title": "ANIMA.Vision.Hidden",
                     "color": "#cd74e6ff",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -22948,7 +22948,7 @@
                 "textcolor": "white"
             },
             {
-                "title": "Anima.Vision.Hidden",
+                "title": "ANIMA.Vision.Hidden",
                 "color": "#cd74e6ff",
                 "textcolor": "white"
             },
@@ -23587,13 +23587,13 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Anima.Memory",
+                    "title": "ANIMA.Memory",
                     "color": "#cd74e6ff",
                     "textcolor": "white",
                     "type": "sidecar"
                 },
                 {
-                    "title": "Anima.Memory.Mnemonic",
+                    "title": "ANIMA.Memory.Mnemonic",
                     "color": "#cd74e6ff",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -23648,12 +23648,12 @@
                 "textcolor": "white"
             },
             {
-                "title": "Anima.Memory",
+                "title": "ANIMA.Memory",
                 "color": "#cd74e6ff",
                 "textcolor": "white"
             },
             {
-                "title": "Anima.Memory.Mnemonic",
+                "title": "ANIMA.Memory.Mnemonic",
                 "color": "#cd74e6ff",
                 "textcolor": "white"
             },
@@ -23940,13 +23940,13 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Anima.Alignment",
+                    "title": "ANIMA.Alignment",
                     "color": "#cd74e6ff",
                     "textcolor": "white",
                     "type": "sidecar"
                 },
                 {
-                    "title": "Anima.Alignment.LineExtension",
+                    "title": "ANIMA.Alignment.LineExtension",
                     "color": "#cd74e6ff",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -24020,12 +24020,12 @@
                 "textcolor": "#000000ff"
             },
             {
-                "title": "Anima.Alignment",
+                "title": "ANIMA.Alignment",
                 "color": "#cd74e6ff",
                 "textcolor": "white"
             },
             {
-                "title": "Anima.Alignment.LineExtension",
+                "title": "ANIMA.Alignment.LineExtension",
                 "color": "#cd74e6ff",
                 "textcolor": "white"
             },
@@ -24266,7 +24266,7 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Anima.Alignment",
+                    "title": "ANIMA.Alignment",
                     "color": "#cd74e6ff",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -24383,7 +24383,7 @@
                 "textcolor": "white"
             },
             {
-                "title": "Anima.Alignment",
+                "title": "ANIMA.Alignment",
                 "color": "#cd74e6ff",
                 "textcolor": "white"
             },
@@ -24475,7 +24475,7 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Anima.Vision.Hidden",
+                    "title": "ANIMA.Vision.Hidden",
                     "color": "#cd74e6ff",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -24569,7 +24569,7 @@
                 "textcolor": "#ffffffff"
             },
             {
-                "title": "Anima.Vision.Hidden",
+                "title": "ANIMA.Vision.Hidden",
                 "color": "#cd74e6ff",
                 "textcolor": "white"
             },
@@ -24671,7 +24671,7 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Anima.Learning.Overview",
+                    "title": "ANIMA.Learning.Overview",
                     "color": "#cd74e6ff",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -24759,7 +24759,7 @@
                 "textcolor": "white"
             },
             {
-                "title": "Anima.Learning.Overview",
+                "title": "ANIMA.Learning.Overview",
                 "color": "#cd74e6ff",
                 "textcolor": "white"
             },
@@ -26126,7 +26126,7 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Anima.Planning",
+                    "title": "ANIMA.Planning",
                     "color": "#cd74e6ff",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -26250,7 +26250,7 @@
                 "textcolor": "white"
             },
             {
-                "title": "Anima.Planning",
+                "title": "ANIMA.Planning",
                 "color": "#cd74e6ff",
                 "textcolor": "white"
             },
@@ -26315,7 +26315,7 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Anima.Alignment",
+                    "title": "ANIMA.Alignment",
                     "color": "#cd74e6ff",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -26393,7 +26393,7 @@
                 "textcolor": "#ffffffff"
             },
             {
-                "title": "Anima.Alignment",
+                "title": "ANIMA.Alignment",
                 "color": "#cd74e6ff",
                 "textcolor": "white"
             },
@@ -26648,7 +26648,7 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Anima.CognitiveEase.Repetition",
+                    "title": "ANIMA.CognitiveEase.Repetition",
                     "color": "#cd74e6ff",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -26735,7 +26735,7 @@
                 "textcolor": "white"
             },
             {
-                "title": "Anima.CognitiveEase.Repetition",
+                "title": "ANIMA.CognitiveEase.Repetition",
                 "color": "#cd74e6ff",
                 "textcolor": "white"
             },
@@ -27007,7 +27007,7 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Anima.Alignment",
+                    "title": "ANIMA.Alignment",
                     "color": "#cd74e6ff",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -27088,7 +27088,7 @@
                 "textcolor": "white"
             },
             {
-                "title": "Anima.Alignment",
+                "title": "ANIMA.Alignment",
                 "color": "#cd74e6ff",
                 "textcolor": "white"
             },
@@ -27818,7 +27818,7 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Anima.Logic.Boolean",
+                    "title": "ANIMA.Logic.Boolean",
                     "color": "#cd74e6ff",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -27867,7 +27867,7 @@
                 "textcolor": "#000000ff"
             },
             {
-                "title": "Anima.Logic.Boolean",
+                "title": "ANIMA.Logic.Boolean",
                 "color": "#cd74e6ff",
                 "textcolor": "white"
             },
@@ -28142,7 +28142,7 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Anima.NeuroName",
+                    "title": "ANIMA.NeuroName",
                     "color": "#cd74e6ff",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -28250,7 +28250,7 @@
                 "textcolor": "white"
             },
             {
-                "title": "Anima.NeuroName",
+                "title": "ANIMA.NeuroName",
                 "color": "#cd74e6ff",
                 "textcolor": "white"
             },
@@ -29675,7 +29675,7 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Anima.Visualization",
+                    "title": "ANIMA.Visualization",
                     "color": "#cd74e6ff",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -29724,7 +29724,7 @@
                 "textcolor": "white"
             },
             {
-                "title": "Anima.Visualization",
+                "title": "ANIMA.Visualization",
                 "color": "#cd74e6ff",
                 "textcolor": "white"
             },
@@ -29807,13 +29807,13 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Anima.Learning.Recall",
+                    "title": "ANIMA.Learning.Recall",
                     "color": "#cd74e6ff",
                     "textcolor": "white",
                     "type": "sidecar"
                 },
                 {
-                    "title": "Anima.Learning.Recall.NonverbalRecall",
+                    "title": "ANIMA.Learning.Recall.NonverbalRecall",
                     "color": "#cd74e6ff",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -29918,12 +29918,12 @@
                 "textcolor": "#000000ff"
             },
             {
-                "title": "Anima.Learning.Recall",
+                "title": "ANIMA.Learning.Recall",
                 "color": "#cd74e6ff",
                 "textcolor": "white"
             },
             {
-                "title": "Anima.Learning.Recall.NonverbalRecall",
+                "title": "ANIMA.Learning.Recall.NonverbalRecall",
                 "color": "#cd74e6ff",
                 "textcolor": "white"
             },
@@ -30170,13 +30170,13 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Anima.Learning.Feedback",
+                    "title": "ANIMA.Learning.Feedback",
                     "color": "#cd74e6ff",
                     "textcolor": "white",
                     "type": "sidecar"
                 },
                 {
-                    "title": "Anima.Learning.Overview",
+                    "title": "ANIMA.Learning.Overview",
                     "color": "#cd74e6ff",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -30236,12 +30236,12 @@
                 "textcolor": "white"
             },
             {
-                "title": "Anima.Learning.Feedback",
+                "title": "ANIMA.Learning.Feedback",
                 "color": "#cd74e6ff",
                 "textcolor": "white"
             },
             {
-                "title": "Anima.Learning.Overview",
+                "title": "ANIMA.Learning.Overview",
                 "color": "#cd74e6ff",
                 "textcolor": "white"
             },
@@ -30365,7 +30365,7 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Anima.NeuroCard",
+                    "title": "ANIMA.NeuroCard",
                     "color": "#cd74e6ff",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -30470,7 +30470,7 @@
                 "textcolor": "white"
             },
             {
-                "title": "Anima.NeuroCard",
+                "title": "ANIMA.NeuroCard",
                 "color": "#cd74e6ff",
                 "textcolor": "white"
             },
@@ -30799,7 +30799,7 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Anima.Chunking",
+                    "title": "ANIMA.Chunking",
                     "color": "#cd74e6ff",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -30890,7 +30890,7 @@
                 "textcolor": "white"
             },
             {
-                "title": "Anima.Chunking",
+                "title": "ANIMA.Chunking",
                 "color": "#cd74e6ff",
                 "textcolor": "white"
             },
@@ -31007,19 +31007,19 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Anima.Learning.Overview",
+                    "title": "ANIMA.Learning.Overview",
                     "color": "#cd74e6ff",
                     "textcolor": "white",
                     "type": "sidecar"
                 },
                 {
-                    "title": "Anima.Learning.Recall",
+                    "title": "ANIMA.Learning.Recall",
                     "color": "#cd74e6ff",
                     "textcolor": "white",
                     "type": "sidecar"
                 },
                 {
-                    "title": "Anima.Learning.Review",
+                    "title": "ANIMA.Learning.Review",
                     "color": "#cd74e6ff",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -31108,17 +31108,17 @@
                 "textcolor": "white"
             },
             {
-                "title": "Anima.Learning.Overview",
+                "title": "ANIMA.Learning.Overview",
                 "color": "#cd74e6ff",
                 "textcolor": "white"
             },
             {
-                "title": "Anima.Learning.Recall",
+                "title": "ANIMA.Learning.Recall",
                 "color": "#cd74e6ff",
                 "textcolor": "white"
             },
             {
-                "title": "Anima.Learning.Review",
+                "title": "ANIMA.Learning.Review",
                 "color": "#cd74e6ff",
                 "textcolor": "white"
             },
@@ -31430,7 +31430,7 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Anima.CognitiveEase.Repetition",
+                    "title": "ANIMA.CognitiveEase.Repetition",
                     "color": "#cd74e6ff",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -31499,7 +31499,7 @@
                 "textcolor": "white"
             },
             {
-                "title": "Anima.CognitiveEase.Repetition",
+                "title": "ANIMA.CognitiveEase.Repetition",
                 "color": "#cd74e6ff",
                 "textcolor": "white"
             },
@@ -32321,7 +32321,7 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Anima.Music",
+                    "title": "ANIMA.Music",
                     "color": "#cd74e6ff",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -32365,7 +32365,7 @@
                 "textcolor": "white"
             },
             {
-                "title": "Anima.Music",
+                "title": "ANIMA.Music",
                 "color": "#cd74e6ff",
                 "textcolor": "white"
             },
@@ -33366,13 +33366,13 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Anima.Chunking",
+                    "title": "ANIMA.Chunking",
                     "color": "#cd74e6ff",
                     "textcolor": "white",
                     "type": "sidecar"
                 },
                 {
-                    "title": "Anima.CognitiveEase.Clarity",
+                    "title": "ANIMA.CognitiveEase.Clarity",
                     "color": "#cd74e6ff",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -33446,12 +33446,12 @@
                 "textcolor": "white"
             },
             {
-                "title": "Anima.Chunking",
+                "title": "ANIMA.Chunking",
                 "color": "#cd74e6ff",
                 "textcolor": "white"
             },
             {
-                "title": "Anima.CognitiveEase.Clarity",
+                "title": "ANIMA.CognitiveEase.Clarity",
                 "color": "#cd74e6ff",
                 "textcolor": "white"
             },
@@ -33516,7 +33516,7 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Anima.Judgement",
+                    "title": "ANIMA.Judgement",
                     "color": "#cd74e6ff",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -33576,7 +33576,7 @@
                 "textcolor": "#000000ff"
             },
             {
-                "title": "Anima.Judgement",
+                "title": "ANIMA.Judgement",
                 "color": "#cd74e6ff",
                 "textcolor": "white"
             },
@@ -33725,13 +33725,13 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Anima.Calm",
+                    "title": "ANIMA.Calm",
                     "color": "#cd74e6ff",
                     "textcolor": "white",
                     "type": "sidecar"
                 },
                 {
-                    "title": "Anima.Visualization",
+                    "title": "ANIMA.Visualization",
                     "color": "#cd74e6ff",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -33770,12 +33770,12 @@
                 "textcolor": "#000000ff"
             },
             {
-                "title": "Anima.Calm",
+                "title": "ANIMA.Calm",
                 "color": "#cd74e6ff",
                 "textcolor": "white"
             },
             {
-                "title": "Anima.Visualization",
+                "title": "ANIMA.Visualization",
                 "color": "#cd74e6ff",
                 "textcolor": "white"
             },
@@ -34382,7 +34382,7 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Anima.Planning",
+                    "title": "ANIMA.Planning",
                     "color": "#cd74e6ff",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -34436,7 +34436,7 @@
                 "textcolor": "#000000ff"
             },
             {
-                "title": "Anima.Planning",
+                "title": "ANIMA.Planning",
                 "color": "#cd74e6ff",
                 "textcolor": "white"
             },
@@ -34525,7 +34525,7 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Anima.Logic.Boolean",
+                    "title": "ANIMA.Logic.Boolean",
                     "color": "#cd74e6ff",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -34605,7 +34605,7 @@
                 "textcolor": "white"
             },
             {
-                "title": "Anima.Logic.Boolean",
+                "title": "ANIMA.Logic.Boolean",
                 "color": "#cd74e6ff",
                 "textcolor": "white"
             },
@@ -34795,25 +34795,25 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Anima.Decision",
+                    "title": "ANIMA.Decision",
                     "color": "#cd74e6ff",
                     "textcolor": "white",
                     "type": "sidecar"
                 },
                 {
-                    "title": "Anima.Stress.TooManyOptions",
+                    "title": "ANIMA.Stress.TooManyOptions",
                     "color": "#cd74e6ff",
                     "textcolor": "white",
                     "type": "sidecar"
                 },
                 {
-                    "title": "Anima.Vision",
+                    "title": "ANIMA.Vision",
                     "color": "#cd74e6ff",
                     "textcolor": "white",
                     "type": "sidecar"
                 },
                 {
-                    "title": "Anima.Vision.Hidden",
+                    "title": "ANIMA.Vision.Hidden",
                     "color": "#cd74e6ff",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -34877,22 +34877,22 @@
                 "textcolor": "white"
             },
             {
-                "title": "Anima.Decision",
+                "title": "ANIMA.Decision",
                 "color": "#cd74e6ff",
                 "textcolor": "white"
             },
             {
-                "title": "Anima.Stress.TooManyOptions",
+                "title": "ANIMA.Stress.TooManyOptions",
                 "color": "#cd74e6ff",
                 "textcolor": "white"
             },
             {
-                "title": "Anima.Vision",
+                "title": "ANIMA.Vision",
                 "color": "#cd74e6ff",
                 "textcolor": "white"
             },
             {
-                "title": "Anima.Vision.Hidden",
+                "title": "ANIMA.Vision.Hidden",
                 "color": "#cd74e6ff",
                 "textcolor": "white"
             },
@@ -35145,37 +35145,37 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Anima.Calm",
+                    "title": "ANIMA.Calm",
                     "color": "#cd74e6ff",
                     "textcolor": "white",
                     "type": "sidecar"
                 },
                 {
-                    "title": "Anima.Counting",
+                    "title": "ANIMA.Counting",
                     "color": "#cd74e6ff",
                     "textcolor": "white",
                     "type": "sidecar"
                 },
                 {
-                    "title": "Anima.Difficulty.NeuroComplexity",
+                    "title": "ANIMA.Difficulty.NeuroComplexity",
                     "color": "#cd74e6ff",
                     "textcolor": "white",
                     "type": "sidecar"
                 },
                 {
-                    "title": "Anima.Difficulty.NeuroIntensity",
+                    "title": "ANIMA.Difficulty.NeuroIntensity",
                     "color": "#cd74e6ff",
                     "textcolor": "white",
                     "type": "sidecar"
                 },
                 {
-                    "title": "Anima.Difficulty.NeuroRisk",
+                    "title": "ANIMA.Difficulty.NeuroRisk",
                     "color": "#cd74e6ff",
                     "textcolor": "white",
                     "type": "sidecar"
                 },
                 {
-                    "title": "Anima.Emotion",
+                    "title": "ANIMA.Emotion",
                     "color": "#cd74e6ff",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -35350,32 +35350,32 @@
                 "textcolor": "white"
             },
             {
-                "title": "Anima.Calm",
+                "title": "ANIMA.Calm",
                 "color": "#cd74e6ff",
                 "textcolor": "white"
             },
             {
-                "title": "Anima.Counting",
+                "title": "ANIMA.Counting",
                 "color": "#cd74e6ff",
                 "textcolor": "white"
             },
             {
-                "title": "Anima.Difficulty.NeuroComplexity",
+                "title": "ANIMA.Difficulty.NeuroComplexity",
                 "color": "#cd74e6ff",
                 "textcolor": "white"
             },
             {
-                "title": "Anima.Difficulty.NeuroIntensity",
+                "title": "ANIMA.Difficulty.NeuroIntensity",
                 "color": "#cd74e6ff",
                 "textcolor": "white"
             },
             {
-                "title": "Anima.Difficulty.NeuroRisk",
+                "title": "ANIMA.Difficulty.NeuroRisk",
                 "color": "#cd74e6ff",
                 "textcolor": "white"
             },
             {
-                "title": "Anima.Emotion",
+                "title": "ANIMA.Emotion",
                 "color": "#cd74e6ff",
                 "textcolor": "white"
             },
@@ -35470,13 +35470,13 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Anima.CognitiveEase.FeelsFamiliar",
+                    "title": "ANIMA.CognitiveEase.FeelsFamiliar",
                     "color": "#cd74e6ff",
                     "textcolor": "white",
                     "type": "sidecar"
                 },
                 {
-                    "title": "Anima.CognitiveEase.Repetition",
+                    "title": "ANIMA.CognitiveEase.Repetition",
                     "color": "#cd74e6ff",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -35542,12 +35542,12 @@
                 "textcolor": "white"
             },
             {
-                "title": "Anima.CognitiveEase.FeelsFamiliar",
+                "title": "ANIMA.CognitiveEase.FeelsFamiliar",
                 "color": "#cd74e6ff",
                 "textcolor": "white"
             },
             {
-                "title": "Anima.CognitiveEase.Repetition",
+                "title": "ANIMA.CognitiveEase.Repetition",
                 "color": "#cd74e6ff",
                 "textcolor": "white"
             },
@@ -35604,13 +35604,13 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Anima.CognitiveEase",
+                    "title": "ANIMA.CognitiveEase",
                     "color": "#cd74e6ff",
                     "textcolor": "white",
                     "type": "sidecar"
                 },
                 {
-                    "title": "Anima.CognitiveEase.Clarity",
+                    "title": "ANIMA.CognitiveEase.Clarity",
                     "color": "#cd74e6ff",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -35655,12 +35655,12 @@
                 "textcolor": "#000000ff"
             },
             {
-                "title": "Anima.CognitiveEase",
+                "title": "ANIMA.CognitiveEase",
                 "color": "#cd74e6ff",
                 "textcolor": "white"
             },
             {
-                "title": "Anima.CognitiveEase.Clarity",
+                "title": "ANIMA.CognitiveEase.Clarity",
                 "color": "#cd74e6ff",
                 "textcolor": "white"
             },
@@ -35844,37 +35844,37 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Anima.Alignment.AlignmentRange",
+                    "title": "ANIMA.Alignment.AlignmentRange",
                     "color": "#cd74e6ff",
                     "textcolor": "white",
                     "type": "sidecar"
                 },
                 {
-                    "title": "Anima.Alignment.OptimalAlignment",
+                    "title": "ANIMA.Alignment.OptimalAlignment",
                     "color": "#cd74e6ff",
                     "textcolor": "white",
                     "type": "sidecar"
                 },
                 {
-                    "title": "Anima.Difficulty.NeuroRisk",
+                    "title": "ANIMA.Difficulty.NeuroRisk",
                     "color": "#cd74e6ff",
                     "textcolor": "white",
                     "type": "sidecar"
                 },
                 {
-                    "title": "Anima.Planning",
+                    "title": "ANIMA.Planning",
                     "color": "#cd74e6ff",
                     "textcolor": "white",
                     "type": "sidecar"
                 },
                 {
-                    "title": "Anima.Planning.Prediction",
+                    "title": "ANIMA.Planning.Prediction",
                     "color": "#cd74e6ff",
                     "textcolor": "white",
                     "type": "sidecar"
                 },
                 {
-                    "title": "Anima.Proprioception",
+                    "title": "ANIMA.Proprioception",
                     "color": "#cd74e6ff",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -35951,32 +35951,32 @@
                 "textcolor": "white"
             },
             {
-                "title": "Anima.Alignment.AlignmentRange",
+                "title": "ANIMA.Alignment.AlignmentRange",
                 "color": "#cd74e6ff",
                 "textcolor": "white"
             },
             {
-                "title": "Anima.Alignment.OptimalAlignment",
+                "title": "ANIMA.Alignment.OptimalAlignment",
                 "color": "#cd74e6ff",
                 "textcolor": "white"
             },
             {
-                "title": "Anima.Difficulty.NeuroRisk",
+                "title": "ANIMA.Difficulty.NeuroRisk",
                 "color": "#cd74e6ff",
                 "textcolor": "white"
             },
             {
-                "title": "Anima.Planning",
+                "title": "ANIMA.Planning",
                 "color": "#cd74e6ff",
                 "textcolor": "white"
             },
             {
-                "title": "Anima.Planning.Prediction",
+                "title": "ANIMA.Planning.Prediction",
                 "color": "#cd74e6ff",
                 "textcolor": "white"
             },
             {
-                "title": "Anima.Proprioception",
+                "title": "ANIMA.Proprioception",
                 "color": "#cd74e6ff",
                 "textcolor": "white"
             },
@@ -36877,7 +36877,7 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Anima.Alignment",
+                    "title": "ANIMA.Alignment",
                     "color": "#cd74e6ff",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -36936,7 +36936,7 @@
                 "textcolor": "white"
             },
             {
-                "title": "Anima.Alignment",
+                "title": "ANIMA.Alignment",
                 "color": "#cd74e6ff",
                 "textcolor": "white"
             },
@@ -36995,31 +36995,31 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Anima.CognitiveEase.Clarity",
+                    "title": "ANIMA.CognitiveEase.Clarity",
                     "color": "#cd74e6ff",
                     "textcolor": "white",
                     "type": "sidecar"
                 },
                 {
-                    "title": "Anima.CognitiveEase.FeelsFamiliar",
+                    "title": "ANIMA.CognitiveEase.FeelsFamiliar",
                     "color": "#cd74e6ff",
                     "textcolor": "white",
                     "type": "sidecar"
                 },
                 {
-                    "title": "Anima.CognitiveEase.Priming",
+                    "title": "ANIMA.CognitiveEase.Priming",
                     "color": "#cd74e6ff",
                     "textcolor": "white",
                     "type": "sidecar"
                 },
                 {
-                    "title": "Anima.CognitiveEase.Repetition",
+                    "title": "ANIMA.CognitiveEase.Repetition",
                     "color": "#cd74e6ff",
                     "textcolor": "white",
                     "type": "sidecar"
                 },
                 {
-                    "title": "Anima.Memory",
+                    "title": "ANIMA.Memory",
                     "color": "#cd74e6ff",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -37068,27 +37068,27 @@
                 "textcolor": "#000000ff"
             },
             {
-                "title": "Anima.CognitiveEase.Clarity",
+                "title": "ANIMA.CognitiveEase.Clarity",
                 "color": "#cd74e6ff",
                 "textcolor": "white"
             },
             {
-                "title": "Anima.CognitiveEase.FeelsFamiliar",
+                "title": "ANIMA.CognitiveEase.FeelsFamiliar",
                 "color": "#cd74e6ff",
                 "textcolor": "white"
             },
             {
-                "title": "Anima.CognitiveEase.Priming",
+                "title": "ANIMA.CognitiveEase.Priming",
                 "color": "#cd74e6ff",
                 "textcolor": "white"
             },
             {
-                "title": "Anima.CognitiveEase.Repetition",
+                "title": "ANIMA.CognitiveEase.Repetition",
                 "color": "#cd74e6ff",
                 "textcolor": "white"
             },
             {
-                "title": "Anima.Memory",
+                "title": "ANIMA.Memory",
                 "color": "#cd74e6ff",
                 "textcolor": "white"
             },
@@ -38730,7 +38730,7 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Anima.Planning.Prediction",
+                    "title": "ANIMA.Planning.Prediction",
                     "color": "#cd74e6ff",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -38774,7 +38774,7 @@
                 "textcolor": "#000000ff"
             },
             {
-                "title": "Anima.Planning.Prediction",
+                "title": "ANIMA.Planning.Prediction",
                 "color": "#cd74e6ff",
                 "textcolor": "white"
             },
@@ -38930,7 +38930,7 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Anima.Chunking",
+                    "title": "ANIMA.Chunking",
                     "color": "#cd74e6ff",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -38985,7 +38985,7 @@
                 "textcolor": "#000000ff"
             },
             {
-                "title": "Anima.Chunking",
+                "title": "ANIMA.Chunking",
                 "color": "#cd74e6ff",
                 "textcolor": "white"
             },
@@ -39055,7 +39055,7 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Anima.CognitiveEase.Clarity",
+                    "title": "ANIMA.CognitiveEase.Clarity",
                     "color": "#cd74e6ff",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -39109,7 +39109,7 @@
                 "textcolor": "#000000ff"
             },
             {
-                "title": "Anima.CognitiveEase.Clarity",
+                "title": "ANIMA.CognitiveEase.Clarity",
                 "color": "#cd74e6ff",
                 "textcolor": "white"
             },
@@ -39180,13 +39180,13 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Anima.CognitiveEase",
+                    "title": "ANIMA.CognitiveEase",
                     "color": "#cd74e6ff",
                     "textcolor": "white",
                     "type": "sidecar"
                 },
                 {
-                    "title": "Anima.Emotion",
+                    "title": "ANIMA.Emotion",
                     "color": "#cd74e6ff",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -39257,12 +39257,12 @@
                 "textcolor": "#000000ff"
             },
             {
-                "title": "Anima.CognitiveEase",
+                "title": "ANIMA.CognitiveEase",
                 "color": "#cd74e6ff",
                 "textcolor": "white"
             },
             {
-                "title": "Anima.Emotion",
+                "title": "ANIMA.Emotion",
                 "color": "#cd74e6ff",
                 "textcolor": "white"
             },
@@ -39319,13 +39319,13 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Anima.Alignment",
+                    "title": "ANIMA.Alignment",
                     "color": "#cd74e6ff",
                     "textcolor": "white",
                     "type": "sidecar"
                 },
                 {
-                    "title": "Anima.Estimation.ViaEstimation.AreaEstimation",
+                    "title": "ANIMA.Estimation.ViaEstimation.AreaEstimation",
                     "color": "#cd74e6ff",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -39376,12 +39376,12 @@
                 "textcolor": "#ffffffff"
             },
             {
-                "title": "Anima.Alignment",
+                "title": "ANIMA.Alignment",
                 "color": "#cd74e6ff",
                 "textcolor": "white"
             },
             {
-                "title": "Anima.Estimation.ViaEstimation.AreaEstimation",
+                "title": "ANIMA.Estimation.ViaEstimation.AreaEstimation",
                 "color": "#cd74e6ff",
                 "textcolor": "white"
             },
@@ -39853,7 +39853,7 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Anima.CognitiveEase.Repetition",
+                    "title": "ANIMA.CognitiveEase.Repetition",
                     "color": "#cd74e6ff",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -39946,7 +39946,7 @@
                 "textcolor": "white"
             },
             {
-                "title": "Anima.CognitiveEase.Repetition",
+                "title": "ANIMA.CognitiveEase.Repetition",
                 "color": "#cd74e6ff",
                 "textcolor": "white"
             },
@@ -40025,7 +40025,7 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Anima.Logic.Deduction",
+                    "title": "ANIMA.Logic.Deduction",
                     "color": "#cd74e6ff",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -40086,7 +40086,7 @@
                 "textcolor": "#000000ff"
             },
             {
-                "title": "Anima.Logic.Deduction",
+                "title": "ANIMA.Logic.Deduction",
                 "color": "#cd74e6ff",
                 "textcolor": "white"
             },
@@ -40668,7 +40668,7 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Anima.Vision.Find.Overview",
+                    "title": "ANIMA.Vision.Find.Overview",
                     "color": "#cd74e6ff",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -40722,7 +40722,7 @@
                 "textcolor": "white"
             },
             {
-                "title": "Anima.Vision.Find.Overview",
+                "title": "ANIMA.Vision.Find.Overview",
                 "color": "#cd74e6ff",
                 "textcolor": "white"
             },
@@ -41427,7 +41427,7 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Anima.Alignment.Perpendicular",
+                    "title": "ANIMA.Alignment.Perpendicular",
                     "color": "#cd74e6ff",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -41491,7 +41491,7 @@
                 "textcolor": "white"
             },
             {
-                "title": "Anima.Alignment.Perpendicular",
+                "title": "ANIMA.Alignment.Perpendicular",
                 "color": "#cd74e6ff",
                 "textcolor": "white"
             },
@@ -41629,7 +41629,7 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Anima.Alignment",
+                    "title": "ANIMA.Alignment",
                     "color": "#cd74e6ff",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -41675,7 +41675,7 @@
                 "textcolor": "#000000ff"
             },
             {
-                "title": "Anima.Alignment",
+                "title": "ANIMA.Alignment",
                 "color": "#cd74e6ff",
                 "textcolor": "white"
             },
@@ -42407,13 +42407,13 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Anima.Alignment.Parallel",
+                    "title": "ANIMA.Alignment.Parallel",
                     "color": "#cd74e6ff",
                     "textcolor": "white",
                     "type": "sidecar"
                 },
                 {
-                    "title": "Anima.Alignment.Perpendicular",
+                    "title": "ANIMA.Alignment.Perpendicular",
                     "color": "#cd74e6ff",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -42453,12 +42453,12 @@
                 "textcolor": "#000000ff"
             },
             {
-                "title": "Anima.Alignment.Parallel",
+                "title": "ANIMA.Alignment.Parallel",
                 "color": "#cd74e6ff",
                 "textcolor": "white"
             },
             {
-                "title": "Anima.Alignment.Perpendicular",
+                "title": "ANIMA.Alignment.Perpendicular",
                 "color": "#cd74e6ff",
                 "textcolor": "white"
             },
@@ -42750,7 +42750,7 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Anima.CognitiveEase.Clarity",
+                    "title": "ANIMA.CognitiveEase.Clarity",
                     "color": "#cd74e6ff",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -42815,7 +42815,7 @@
                 "textcolor": "white"
             },
             {
-                "title": "Anima.CognitiveEase.Clarity",
+                "title": "ANIMA.CognitiveEase.Clarity",
                 "color": "#cd74e6ff",
                 "textcolor": "white"
             },
@@ -44440,7 +44440,7 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Anima.Vision",
+                    "title": "ANIMA.Vision",
                     "color": "#cd74e6ff",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -44495,7 +44495,7 @@
                 "textcolor": "#000000ff"
             },
             {
-                "title": "Anima.Vision",
+                "title": "ANIMA.Vision",
                 "color": "#cd74e6ff",
                 "textcolor": "white"
             },
@@ -45128,13 +45128,13 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Anima.Alignment.Parallel",
+                    "title": "ANIMA.Alignment.Parallel",
                     "color": "#cd74e6ff",
                     "textcolor": "white",
                     "type": "sidecar"
                 },
                 {
-                    "title": "Anima.Logic.Overview",
+                    "title": "ANIMA.Logic.Overview",
                     "color": "#cd74e6ff",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -45210,12 +45210,12 @@
                 "textcolor": "white"
             },
             {
-                "title": "Anima.Alignment.Parallel",
+                "title": "ANIMA.Alignment.Parallel",
                 "color": "#cd74e6ff",
                 "textcolor": "white"
             },
             {
-                "title": "Anima.Logic.Overview",
+                "title": "ANIMA.Logic.Overview",
                 "color": "#cd74e6ff",
                 "textcolor": "white"
             },
@@ -45944,25 +45944,25 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Anima.Chunking",
+                    "title": "ANIMA.Chunking",
                     "color": "#cd74e6ff",
                     "textcolor": "white",
                     "type": "sidecar"
                 },
                 {
-                    "title": "Anima.CognitiveEase",
+                    "title": "ANIMA.CognitiveEase",
                     "color": "#cd74e6ff",
                     "textcolor": "white",
                     "type": "sidecar"
                 },
                 {
-                    "title": "Anima.Memory",
+                    "title": "ANIMA.Memory",
                     "color": "#cd74e6ff",
                     "textcolor": "white",
                     "type": "sidecar"
                 },
                 {
-                    "title": "Anima.Proprioception",
+                    "title": "ANIMA.Proprioception",
                     "color": "#cd74e6ff",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -46048,22 +46048,22 @@
                 "textcolor": "white"
             },
             {
-                "title": "Anima.Chunking",
+                "title": "ANIMA.Chunking",
                 "color": "#cd74e6ff",
                 "textcolor": "white"
             },
             {
-                "title": "Anima.CognitiveEase",
+                "title": "ANIMA.CognitiveEase",
                 "color": "#cd74e6ff",
                 "textcolor": "white"
             },
             {
-                "title": "Anima.Memory",
+                "title": "ANIMA.Memory",
                 "color": "#cd74e6ff",
                 "textcolor": "white"
             },
             {
-                "title": "Anima.Proprioception",
+                "title": "ANIMA.Proprioception",
                 "color": "#cd74e6ff",
                 "textcolor": "white"
             },
@@ -46639,7 +46639,7 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Anima.Counting",
+                    "title": "ANIMA.Counting",
                     "color": "#cd74e6ff",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -46703,7 +46703,7 @@
                 "textcolor": "white"
             },
             {
-                "title": "Anima.Counting",
+                "title": "ANIMA.Counting",
                 "color": "#cd74e6ff",
                 "textcolor": "white"
             },
@@ -46744,19 +46744,19 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Anima.Orientation.ToTarget",
+                    "title": "ANIMA.Orientation.ToTarget",
                     "color": "#cd74e6ff",
                     "textcolor": "white",
                     "type": "sidecar"
                 },
                 {
-                    "title": "Anima.Vision.Find.Marka",
+                    "title": "ANIMA.Vision.Find.Marka",
                     "color": "#cd74e6ff",
                     "textcolor": "white",
                     "type": "sidecar"
                 },
                 {
-                    "title": "Anima.Vision.SeenFromCache",
+                    "title": "ANIMA.Vision.SeenFromCache",
                     "color": "#cd74e6ff",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -46814,17 +46814,17 @@
                 "textcolor": "#000000ff"
             },
             {
-                "title": "Anima.Orientation.ToTarget",
+                "title": "ANIMA.Orientation.ToTarget",
                 "color": "#cd74e6ff",
                 "textcolor": "white"
             },
             {
-                "title": "Anima.Vision.Find.Marka",
+                "title": "ANIMA.Vision.Find.Marka",
                 "color": "#cd74e6ff",
                 "textcolor": "white"
             },
             {
-                "title": "Anima.Vision.SeenFromCache",
+                "title": "ANIMA.Vision.SeenFromCache",
                 "color": "#cd74e6ff",
                 "textcolor": "white"
             },
@@ -47559,7 +47559,7 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Anima.Emotion",
+                    "title": "ANIMA.Emotion",
                     "color": "#cd74e6ff",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -47619,7 +47619,7 @@
                 "textcolor": "#000000ff"
             },
             {
-                "title": "Anima.Emotion",
+                "title": "ANIMA.Emotion",
                 "color": "#cd74e6ff",
                 "textcolor": "white"
             },
@@ -47731,19 +47731,19 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Anima.Alignment.Parallel",
+                    "title": "ANIMA.Alignment.Parallel",
                     "color": "#cd74e6ff",
                     "textcolor": "white",
                     "type": "sidecar"
                 },
                 {
-                    "title": "Anima.Chunking",
+                    "title": "ANIMA.Chunking",
                     "color": "#cd74e6ff",
                     "textcolor": "white",
                     "type": "sidecar"
                 },
                 {
-                    "title": "Anima.CognitiveEase",
+                    "title": "ANIMA.CognitiveEase",
                     "color": "#cd74e6ff",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -47838,17 +47838,17 @@
                 "textcolor": "white"
             },
             {
-                "title": "Anima.Alignment.Parallel",
+                "title": "ANIMA.Alignment.Parallel",
                 "color": "#cd74e6ff",
                 "textcolor": "white"
             },
             {
-                "title": "Anima.Chunking",
+                "title": "ANIMA.Chunking",
                 "color": "#cd74e6ff",
                 "textcolor": "white"
             },
             {
-                "title": "Anima.CognitiveEase",
+                "title": "ANIMA.CognitiveEase",
                 "color": "#cd74e6ff",
                 "textcolor": "white"
             },
@@ -47924,13 +47924,13 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Anima.Chunking.Fraction",
+                    "title": "ANIMA.Chunking.Fraction",
                     "color": "#cd74e6ff",
                     "textcolor": "white",
                     "type": "sidecar"
                 },
                 {
-                    "title": "Anima.CognitiveEase",
+                    "title": "ANIMA.CognitiveEase",
                     "color": "#cd74e6ff",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -48007,12 +48007,12 @@
                 "textcolor": "#000000ff"
             },
             {
-                "title": "Anima.Chunking.Fraction",
+                "title": "ANIMA.Chunking.Fraction",
                 "color": "#cd74e6ff",
                 "textcolor": "white"
             },
             {
-                "title": "Anima.CognitiveEase",
+                "title": "ANIMA.CognitiveEase",
                 "color": "#cd74e6ff",
                 "textcolor": "white"
             },
@@ -48238,25 +48238,25 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Anima.CognitiveEase",
+                    "title": "ANIMA.CognitiveEase",
                     "color": "#cd74e6ff",
                     "textcolor": "white",
                     "type": "sidecar"
                 },
                 {
-                    "title": "Anima.CognitiveEase.Repetition",
+                    "title": "ANIMA.CognitiveEase.Repetition",
                     "color": "#cd74e6ff",
                     "textcolor": "white",
                     "type": "sidecar"
                 },
                 {
-                    "title": "Anima.Emotion",
+                    "title": "ANIMA.Emotion",
                     "color": "#cd74e6ff",
                     "textcolor": "white",
                     "type": "sidecar"
                 },
                 {
-                    "title": "Anima.Planning",
+                    "title": "ANIMA.Planning",
                     "color": "#cd74e6ff",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -48305,22 +48305,22 @@
                 "textcolor": "#000000ff"
             },
             {
-                "title": "Anima.CognitiveEase",
+                "title": "ANIMA.CognitiveEase",
                 "color": "#cd74e6ff",
                 "textcolor": "white"
             },
             {
-                "title": "Anima.CognitiveEase.Repetition",
+                "title": "ANIMA.CognitiveEase.Repetition",
                 "color": "#cd74e6ff",
                 "textcolor": "white"
             },
             {
-                "title": "Anima.Emotion",
+                "title": "ANIMA.Emotion",
                 "color": "#cd74e6ff",
                 "textcolor": "white"
             },
             {
-                "title": "Anima.Planning",
+                "title": "ANIMA.Planning",
                 "color": "#cd74e6ff",
                 "textcolor": "white"
             },
@@ -48397,7 +48397,7 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Anima.Alignment",
+                    "title": "ANIMA.Alignment",
                     "color": "#cd74e6ff",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -48461,7 +48461,7 @@
                 "textcolor": "#ffffffff"
             },
             {
-                "title": "Anima.Alignment",
+                "title": "ANIMA.Alignment",
                 "color": "#cd74e6ff",
                 "textcolor": "white"
             },
@@ -48532,7 +48532,7 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Anima.Emotion",
+                    "title": "ANIMA.Emotion",
                     "color": "#cd74e6ff",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -48591,7 +48591,7 @@
                 "textcolor": "white"
             },
             {
-                "title": "Anima.Emotion",
+                "title": "ANIMA.Emotion",
                 "color": "#cd74e6ff",
                 "textcolor": "white"
             },
@@ -48718,7 +48718,7 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Anima.Emotion",
+                    "title": "ANIMA.Emotion",
                     "color": "#cd74e6ff",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -48758,7 +48758,7 @@
                 "textcolor": "#000000ff"
             },
             {
-                "title": "Anima.Emotion",
+                "title": "ANIMA.Emotion",
                 "color": "#cd74e6ff",
                 "textcolor": "white"
             },
@@ -50054,13 +50054,13 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Anima.Chunking",
+                    "title": "ANIMA.Chunking",
                     "color": "#cd74e6ff",
                     "textcolor": "white",
                     "type": "sidecar"
                 },
                 {
-                    "title": "Anima.Vision",
+                    "title": "ANIMA.Vision",
                     "color": "#cd74e6ff",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -50121,12 +50121,12 @@
                 "textcolor": "#ffffffff"
             },
             {
-                "title": "Anima.Chunking",
+                "title": "ANIMA.Chunking",
                 "color": "#cd74e6ff",
                 "textcolor": "white"
             },
             {
-                "title": "Anima.Vision",
+                "title": "ANIMA.Vision",
                 "color": "#cd74e6ff",
                 "textcolor": "white"
             },
@@ -50207,19 +50207,19 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Anima.Energy",
+                    "title": "ANIMA.Energy",
                     "color": "#cd74e6ff",
                     "textcolor": "white",
                     "type": "sidecar"
                 },
                 {
-                    "title": "Anima.Estimation.BagCover",
+                    "title": "ANIMA.Estimation.BagCover",
                     "color": "#cd74e6ff",
                     "textcolor": "white",
                     "type": "sidecar"
                 },
                 {
-                    "title": "Anima.State",
+                    "title": "ANIMA.State",
                     "color": "#cd74e6ff",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -50290,17 +50290,17 @@
                 "textcolor": "white"
             },
             {
-                "title": "Anima.Energy",
+                "title": "ANIMA.Energy",
                 "color": "#cd74e6ff",
                 "textcolor": "white"
             },
             {
-                "title": "Anima.Estimation.BagCover",
+                "title": "ANIMA.Estimation.BagCover",
                 "color": "#cd74e6ff",
                 "textcolor": "white"
             },
             {
-                "title": "Anima.State",
+                "title": "ANIMA.State",
                 "color": "#cd74e6ff",
                 "textcolor": "white"
             },
@@ -50605,19 +50605,19 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Anima.Counting",
+                    "title": "ANIMA.Counting",
                     "color": "#cd74e6ff",
                     "textcolor": "white",
                     "type": "sidecar"
                 },
                 {
-                    "title": "Anima.Judgement",
+                    "title": "ANIMA.Judgement",
                     "color": "#cd74e6ff",
                     "textcolor": "white",
                     "type": "sidecar"
                 },
                 {
-                    "title": "Anima.Logic.Boolean",
+                    "title": "ANIMA.Logic.Boolean",
                     "color": "#cd74e6ff",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -50681,17 +50681,17 @@
                 "textcolor": "white"
             },
             {
-                "title": "Anima.Counting",
+                "title": "ANIMA.Counting",
                 "color": "#cd74e6ff",
                 "textcolor": "white"
             },
             {
-                "title": "Anima.Judgement",
+                "title": "ANIMA.Judgement",
                 "color": "#cd74e6ff",
                 "textcolor": "white"
             },
             {
-                "title": "Anima.Logic.Boolean",
+                "title": "ANIMA.Logic.Boolean",
                 "color": "#cd74e6ff",
                 "textcolor": "white"
             },
@@ -50768,7 +50768,7 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Anima.Visualization",
+                    "title": "ANIMA.Visualization",
                     "color": "#cd74e6ff",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -50850,7 +50850,7 @@
                 "textcolor": "#ffffffff"
             },
             {
-                "title": "Anima.Visualization",
+                "title": "ANIMA.Visualization",
                 "color": "#cd74e6ff",
                 "textcolor": "white"
             },
@@ -50960,7 +50960,7 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Anima.Estimation.BagCover",
+                    "title": "ANIMA.Estimation.BagCover",
                     "color": "#cd74e6ff",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -51075,7 +51075,7 @@
                 "textcolor": "#ffffffff"
             },
             {
-                "title": "Anima.Estimation.BagCover",
+                "title": "ANIMA.Estimation.BagCover",
                 "color": "#cd74e6ff",
                 "textcolor": "white"
             },
@@ -51188,31 +51188,31 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Anima.Attention",
+                    "title": "ANIMA.Attention",
                     "color": "#cd74e6ff",
                     "textcolor": "white",
                     "type": "sidecar"
                 },
                 {
-                    "title": "Anima.CognitiveEase.Clarity",
+                    "title": "ANIMA.CognitiveEase.Clarity",
                     "color": "#cd74e6ff",
                     "textcolor": "white",
                     "type": "sidecar"
                 },
                 {
-                    "title": "Anima.CognitiveEase.FeelsFamiliar",
+                    "title": "ANIMA.CognitiveEase.FeelsFamiliar",
                     "color": "#cd74e6ff",
                     "textcolor": "white",
                     "type": "sidecar"
                 },
                 {
-                    "title": "Anima.Orientation.ToTarget",
+                    "title": "ANIMA.Orientation.ToTarget",
                     "color": "#cd74e6ff",
                     "textcolor": "white",
                     "type": "sidecar"
                 },
                 {
-                    "title": "Anima.Planning",
+                    "title": "ANIMA.Planning",
                     "color": "#cd74e6ff",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -51311,27 +51311,27 @@
                 "textcolor": "white"
             },
             {
-                "title": "Anima.Attention",
+                "title": "ANIMA.Attention",
                 "color": "#cd74e6ff",
                 "textcolor": "white"
             },
             {
-                "title": "Anima.CognitiveEase.Clarity",
+                "title": "ANIMA.CognitiveEase.Clarity",
                 "color": "#cd74e6ff",
                 "textcolor": "white"
             },
             {
-                "title": "Anima.CognitiveEase.FeelsFamiliar",
+                "title": "ANIMA.CognitiveEase.FeelsFamiliar",
                 "color": "#cd74e6ff",
                 "textcolor": "white"
             },
             {
-                "title": "Anima.Orientation.ToTarget",
+                "title": "ANIMA.Orientation.ToTarget",
                 "color": "#cd74e6ff",
                 "textcolor": "white"
             },
             {
-                "title": "Anima.Planning",
+                "title": "ANIMA.Planning",
                 "color": "#cd74e6ff",
                 "textcolor": "white"
             },
@@ -51555,13 +51555,13 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Anima.CognitiveEase",
+                    "title": "ANIMA.CognitiveEase",
                     "color": "#cd74e6ff",
                     "textcolor": "white",
                     "type": "sidecar"
                 },
                 {
-                    "title": "Anima.CognitiveEase.FeelsFamiliar",
+                    "title": "ANIMA.CognitiveEase.FeelsFamiliar",
                     "color": "#cd74e6ff",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -51612,12 +51612,12 @@
                 "textcolor": "#000000ff"
             },
             {
-                "title": "Anima.CognitiveEase",
+                "title": "ANIMA.CognitiveEase",
                 "color": "#cd74e6ff",
                 "textcolor": "white"
             },
             {
-                "title": "Anima.CognitiveEase.FeelsFamiliar",
+                "title": "ANIMA.CognitiveEase.FeelsFamiliar",
                 "color": "#cd74e6ff",
                 "textcolor": "white"
             },
@@ -51991,7 +51991,7 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Anima.Hearing",
+                    "title": "ANIMA.Hearing",
                     "color": "#cd74e6ff",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -52050,7 +52050,7 @@
                 "textcolor": "#ffffffff"
             },
             {
-                "title": "Anima.Hearing",
+                "title": "ANIMA.Hearing",
                 "color": "#cd74e6ff",
                 "textcolor": "white"
             },
@@ -52139,13 +52139,13 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Anima.Alignment",
+                    "title": "ANIMA.Alignment",
                     "color": "#cd74e6ff",
                     "textcolor": "white",
                     "type": "sidecar"
                 },
                 {
-                    "title": "Anima.Chunking.Fraction",
+                    "title": "ANIMA.Chunking.Fraction",
                     "color": "#cd74e6ff",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -52237,12 +52237,12 @@
                 "textcolor": "white"
             },
             {
-                "title": "Anima.Alignment",
+                "title": "ANIMA.Alignment",
                 "color": "#cd74e6ff",
                 "textcolor": "white"
             },
             {
-                "title": "Anima.Chunking.Fraction",
+                "title": "ANIMA.Chunking.Fraction",
                 "color": "#cd74e6ff",
                 "textcolor": "white"
             },
@@ -52316,13 +52316,13 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Anima.Alignment",
+                    "title": "ANIMA.Alignment",
                     "color": "#cd74e6ff",
                     "textcolor": "white",
                     "type": "sidecar"
                 },
                 {
-                    "title": "Anima.Vision",
+                    "title": "ANIMA.Vision",
                     "color": "#cd74e6ff",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -52395,12 +52395,12 @@
                 "textcolor": "white"
             },
             {
-                "title": "Anima.Alignment",
+                "title": "ANIMA.Alignment",
                 "color": "#cd74e6ff",
                 "textcolor": "white"
             },
             {
-                "title": "Anima.Vision",
+                "title": "ANIMA.Vision",
                 "color": "#cd74e6ff",
                 "textcolor": "white"
             },
@@ -53459,7 +53459,7 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Anima.Event",
+                    "title": "ANIMA.Event",
                     "color": "#cd74e6ff",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -53513,7 +53513,7 @@
                 "textcolor": "white"
             },
             {
-                "title": "Anima.Event",
+                "title": "ANIMA.Event",
                 "color": "#cd74e6ff",
                 "textcolor": "white"
             },
@@ -53928,13 +53928,13 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Anima.CognitiveEase",
+                    "title": "ANIMA.CognitiveEase",
                     "color": "#cd74e6ff",
                     "textcolor": "white",
                     "type": "sidecar"
                 },
                 {
-                    "title": "Anima.Memory",
+                    "title": "ANIMA.Memory",
                     "color": "#cd74e6ff",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -53973,12 +53973,12 @@
                 "textcolor": "#000000ff"
             },
             {
-                "title": "Anima.CognitiveEase",
+                "title": "ANIMA.CognitiveEase",
                 "color": "#cd74e6ff",
                 "textcolor": "white"
             },
             {
-                "title": "Anima.Memory",
+                "title": "ANIMA.Memory",
                 "color": "#cd74e6ff",
                 "textcolor": "white"
             },
@@ -54049,7 +54049,7 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Anima.Visualization",
+                    "title": "ANIMA.Visualization",
                     "color": "#cd74e6ff",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -54108,7 +54108,7 @@
                 "textcolor": "#000000ff"
             },
             {
-                "title": "Anima.Visualization",
+                "title": "ANIMA.Visualization",
                 "color": "#cd74e6ff",
                 "textcolor": "white"
             },
@@ -54173,13 +54173,13 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Anima.Chunking.Fraction",
+                    "title": "ANIMA.Chunking.Fraction",
                     "color": "#cd74e6ff",
                     "textcolor": "white",
                     "type": "sidecar"
                 },
                 {
-                    "title": "Anima.Music",
+                    "title": "ANIMA.Music",
                     "color": "#cd74e6ff",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -54239,12 +54239,12 @@
                 "textcolor": "white"
             },
             {
-                "title": "Anima.Chunking.Fraction",
+                "title": "ANIMA.Chunking.Fraction",
                 "color": "#cd74e6ff",
                 "textcolor": "white"
             },
             {
-                "title": "Anima.Music",
+                "title": "ANIMA.Music",
                 "color": "#cd74e6ff",
                 "textcolor": "white"
             },
@@ -55094,7 +55094,7 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Anima.Event",
+                    "title": "ANIMA.Event",
                     "color": "#cd74e6ff",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -55178,7 +55178,7 @@
                 "textcolor": "white"
             },
             {
-                "title": "Anima.Event",
+                "title": "ANIMA.Event",
                 "color": "#cd74e6ff",
                 "textcolor": "white"
             },
@@ -55515,19 +55515,19 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Anima.Chunking.Fraction",
+                    "title": "ANIMA.Chunking.Fraction",
                     "color": "#cd74e6ff",
                     "textcolor": "white",
                     "type": "sidecar"
                 },
                 {
-                    "title": "Anima.Counting",
+                    "title": "ANIMA.Counting",
                     "color": "#cd74e6ff",
                     "textcolor": "white",
                     "type": "sidecar"
                 },
                 {
-                    "title": "Anima.Estimation.BagCover",
+                    "title": "ANIMA.Estimation.BagCover",
                     "color": "#cd74e6ff",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -55567,17 +55567,17 @@
                 "textcolor": "white"
             },
             {
-                "title": "Anima.Chunking.Fraction",
+                "title": "ANIMA.Chunking.Fraction",
                 "color": "#cd74e6ff",
                 "textcolor": "white"
             },
             {
-                "title": "Anima.Counting",
+                "title": "ANIMA.Counting",
                 "color": "#cd74e6ff",
                 "textcolor": "white"
             },
             {
-                "title": "Anima.Estimation.BagCover",
+                "title": "ANIMA.Estimation.BagCover",
                 "color": "#cd74e6ff",
                 "textcolor": "white"
             },
@@ -55617,13 +55617,13 @@
             "lastUpdated": 1692978839612,
             "tags": [
                 {
-                    "title": "Anima.Vision.Find.FindFirstBagUp",
+                    "title": "ANIMA.Vision.Find.FindFirstBagUp",
                     "color": "#cd74e6ff",
                     "textcolor": "white",
                     "type": "sidecar"
                 },
                 {
-                    "title": "Anima.Vision.SeenFromCache",
+                    "title": "ANIMA.Vision.SeenFromCache",
                     "color": "#cd74e6ff",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -55658,12 +55658,12 @@
         "extension": "jpg",
         "tags": [
             {
-                "title": "Anima.Vision.Find.FindFirstBagUp",
+                "title": "ANIMA.Vision.Find.FindFirstBagUp",
                 "color": "#cd74e6ff",
                 "textcolor": "white"
             },
             {
-                "title": "Anima.Vision.SeenFromCache",
+                "title": "ANIMA.Vision.SeenFromCache",
                 "color": "#cd74e6ff",
                 "textcolor": "white"
             },
@@ -56022,7 +56022,7 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Anima.Vision.SeenFromCache",
+                    "title": "ANIMA.Vision.SeenFromCache",
                     "color": "#ffffffff",
                     "textcolor": "#000000ff",
                     "type": "sidecar"
@@ -56074,7 +56074,7 @@
                 "textcolor": "#ffffffff"
             },
             {
-                "title": "Anima.Vision.SeenFromCache",
+                "title": "ANIMA.Vision.SeenFromCache",
                 "color": "#ffffffff",
                 "textcolor": "#000000ff"
             },
@@ -56261,13 +56261,13 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Anima.Event",
+                    "title": "ANIMA.Event",
                     "color": "#cd74e6ff",
                     "textcolor": "white",
                     "type": "sidecar"
                 },
                 {
-                    "title": "Anima.Vision",
+                    "title": "ANIMA.Vision",
                     "color": "#cd74e6ff",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -56335,12 +56335,12 @@
                 "textcolor": "#000000ff"
             },
             {
-                "title": "Anima.Event",
+                "title": "ANIMA.Event",
                 "color": "#cd74e6ff",
                 "textcolor": "white"
             },
             {
-                "title": "Anima.Vision",
+                "title": "ANIMA.Vision",
                 "color": "#cd74e6ff",
                 "textcolor": "white"
             },
@@ -56510,19 +56510,19 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Anima.Vision.Find.BackLine",
+                    "title": "ANIMA.Vision.Find.BackLine",
                     "color": "#cd74e6ff",
                     "textcolor": "white",
                     "type": "sidecar"
                 },
                 {
-                    "title": "Anima.Vision.Find.FarSide",
+                    "title": "ANIMA.Vision.Find.FarSide",
                     "color": "#cd74e6ff",
                     "textcolor": "white",
                     "type": "sidecar"
                 },
                 {
-                    "title": "Anima.Vision.Find.FindFirstBagUp",
+                    "title": "ANIMA.Vision.Find.FindFirstBagUp",
                     "color": "#cd74e6ff",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -56620,17 +56620,17 @@
                 "textcolor": "#ffffffff"
             },
             {
-                "title": "Anima.Vision.Find.BackLine",
+                "title": "ANIMA.Vision.Find.BackLine",
                 "color": "#cd74e6ff",
                 "textcolor": "white"
             },
             {
-                "title": "Anima.Vision.Find.FarSide",
+                "title": "ANIMA.Vision.Find.FarSide",
                 "color": "#cd74e6ff",
                 "textcolor": "white"
             },
             {
-                "title": "Anima.Vision.Find.FindFirstBagUp",
+                "title": "ANIMA.Vision.Find.FindFirstBagUp",
                 "color": "#cd74e6ff",
                 "textcolor": "white"
             },
@@ -56803,7 +56803,7 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Anima.Estimation.ViaEstimation.AreaEstimation.AreaCompletionEstimation",
+                    "title": "ANIMA.Estimation.ViaEstimation.AreaEstimation.AreaCompletionEstimation",
                     "color": "#cd74e6ff",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -56883,7 +56883,7 @@
                 "textcolor": "#ffffffff"
             },
             {
-                "title": "Anima.Estimation.ViaEstimation.AreaEstimation.AreaCompletionEstimation",
+                "title": "ANIMA.Estimation.ViaEstimation.AreaEstimation.AreaCompletionEstimation",
                 "color": "#cd74e6ff",
                 "textcolor": "white"
             },
@@ -57064,7 +57064,7 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Anima.NeuroCard",
+                    "title": "ANIMA.NeuroCard",
                     "color": "#cd74e6ff",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -57118,7 +57118,7 @@
                 "textcolor": "white"
             },
             {
-                "title": "Anima.NeuroCard",
+                "title": "ANIMA.NeuroCard",
                 "color": "#cd74e6ff",
                 "textcolor": "white"
             },
@@ -57974,13 +57974,13 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Anima.Decision",
+                    "title": "ANIMA.Decision",
                     "color": "#cd74e6ff",
                     "textcolor": "white",
                     "type": "sidecar"
                 },
                 {
-                    "title": "Anima.Meditation",
+                    "title": "ANIMA.Meditation",
                     "color": "#cd74e6ff",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -58037,12 +58037,12 @@
                 "textcolor": "white"
             },
             {
-                "title": "Anima.Decision",
+                "title": "ANIMA.Decision",
                 "color": "#cd74e6ff",
                 "textcolor": "white"
             },
             {
-                "title": "Anima.Meditation",
+                "title": "ANIMA.Meditation",
                 "color": "#cd74e6ff",
                 "textcolor": "white"
             },
@@ -58406,7 +58406,7 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Anima.PatternRecognition",
+                    "title": "ANIMA.PatternRecognition",
                     "color": "#cd74e6ff",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -58439,7 +58439,7 @@
                 "textcolor": "white"
             },
             {
-                "title": "Anima.PatternRecognition",
+                "title": "ANIMA.PatternRecognition",
                 "color": "#cd74e6ff",
                 "textcolor": "white"
             },
@@ -58676,13 +58676,13 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Anima.Chunking.Fraction",
+                    "title": "ANIMA.Chunking.Fraction",
                     "color": "#cd74e6ff",
                     "textcolor": "white",
                     "type": "sidecar"
                 },
                 {
-                    "title": "Anima.CognitiveEase",
+                    "title": "ANIMA.CognitiveEase",
                     "color": "#cd74e6ff",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -58737,12 +58737,12 @@
                 "textcolor": "#000000ff"
             },
             {
-                "title": "Anima.Chunking.Fraction",
+                "title": "ANIMA.Chunking.Fraction",
                 "color": "#cd74e6ff",
                 "textcolor": "white"
             },
             {
-                "title": "Anima.CognitiveEase",
+                "title": "ANIMA.CognitiveEase",
                 "color": "#cd74e6ff",
                 "textcolor": "white"
             },
@@ -58800,7 +58800,7 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Anima.Alignment.Perpendicular",
+                    "title": "ANIMA.Alignment.Perpendicular",
                     "color": "#cd74e6ff",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -58850,7 +58850,7 @@
                 "textcolor": "white"
             },
             {
-                "title": "Anima.Alignment.Perpendicular",
+                "title": "ANIMA.Alignment.Perpendicular",
                 "color": "#cd74e6ff",
                 "textcolor": "white"
             },
@@ -59026,19 +59026,19 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Anima.Alignment.Perpendicular",
+                    "title": "ANIMA.Alignment.Perpendicular",
                     "color": "#cd74e6ff",
                     "textcolor": "white",
                     "type": "sidecar"
                 },
                 {
-                    "title": "Anima.Orientation",
+                    "title": "ANIMA.Orientation",
                     "color": "#cd74e6ff",
                     "textcolor": "white",
                     "type": "sidecar"
                 },
                 {
-                    "title": "Anima.Visualization",
+                    "title": "ANIMA.Visualization",
                     "color": "#cd74e6ff",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -59078,17 +59078,17 @@
                 "textcolor": "#000000ff"
             },
             {
-                "title": "Anima.Alignment.Perpendicular",
+                "title": "ANIMA.Alignment.Perpendicular",
                 "color": "#cd74e6ff",
                 "textcolor": "white"
             },
             {
-                "title": "Anima.Orientation",
+                "title": "ANIMA.Orientation",
                 "color": "#cd74e6ff",
                 "textcolor": "white"
             },
             {
-                "title": "Anima.Visualization",
+                "title": "ANIMA.Visualization",
                 "color": "#cd74e6ff",
                 "textcolor": "white"
             },
@@ -60711,7 +60711,7 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Anima.CognitiveEase.Clarity",
+                    "title": "ANIMA.CognitiveEase.Clarity",
                     "color": "#cd74e6ff",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -60755,7 +60755,7 @@
                 "textcolor": "#000000ff"
             },
             {
-                "title": "Anima.CognitiveEase.Clarity",
+                "title": "ANIMA.CognitiveEase.Clarity",
                 "color": "#cd74e6ff",
                 "textcolor": "white"
             },
@@ -60826,7 +60826,7 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Anima.CognitiveEase.Clarity",
+                    "title": "ANIMA.CognitiveEase.Clarity",
                     "color": "#cd74e6ff",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -60879,7 +60879,7 @@
                 "textcolor": "white"
             },
             {
-                "title": "Anima.CognitiveEase.Clarity",
+                "title": "ANIMA.CognitiveEase.Clarity",
                 "color": "#cd74e6ff",
                 "textcolor": "white"
             },
@@ -62090,7 +62090,7 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Anima.Energy",
+                    "title": "ANIMA.Energy",
                     "color": "#cd74e6ff",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -62154,7 +62154,7 @@
                 "textcolor": "#ffffffff"
             },
             {
-                "title": "Anima.Energy",
+                "title": "ANIMA.Energy",
                 "color": "#cd74e6ff",
                 "textcolor": "white"
             },
@@ -62731,25 +62731,25 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Anima.Alignment",
+                    "title": "ANIMA.Alignment",
                     "color": "#cd74e6ff",
                     "textcolor": "white",
                     "type": "sidecar"
                 },
                 {
-                    "title": "Anima.Alignment.LineExtension",
+                    "title": "ANIMA.Alignment.LineExtension",
                     "color": "#ffffffff",
                     "textcolor": "#000000ff",
                     "type": "sidecar"
                 },
                 {
-                    "title": "Anima.Alignment.Parallel",
+                    "title": "ANIMA.Alignment.Parallel",
                     "color": "#ffffffff",
                     "textcolor": "#000000ff",
                     "type": "sidecar"
                 },
                 {
-                    "title": "Anima.Alignment.Perpendicular",
+                    "title": "ANIMA.Alignment.Perpendicular",
                     "color": "#ffffffff",
                     "textcolor": "#000000ff",
                     "type": "sidecar"
@@ -62846,22 +62846,22 @@
                 "textcolor": "#ffffffff"
             },
             {
-                "title": "Anima.Alignment",
+                "title": "ANIMA.Alignment",
                 "color": "#cd74e6ff",
                 "textcolor": "white"
             },
             {
-                "title": "Anima.Alignment.LineExtension",
+                "title": "ANIMA.Alignment.LineExtension",
                 "color": "#ffffffff",
                 "textcolor": "#000000ff"
             },
             {
-                "title": "Anima.Alignment.Parallel",
+                "title": "ANIMA.Alignment.Parallel",
                 "color": "#ffffffff",
                 "textcolor": "#000000ff"
             },
             {
-                "title": "Anima.Alignment.Perpendicular",
+                "title": "ANIMA.Alignment.Perpendicular",
                 "color": "#ffffffff",
                 "textcolor": "#000000ff"
             },
@@ -62972,7 +62972,7 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Anima.Rehearsal",
+                    "title": "ANIMA.Rehearsal",
                     "color": "#ffffffff",
                     "textcolor": "#000000ff",
                     "type": "sidecar"
@@ -63025,7 +63025,7 @@
                 "textcolor": "#000000ff"
             },
             {
-                "title": "Anima.Rehearsal",
+                "title": "ANIMA.Rehearsal",
                 "color": "#ffffffff",
                 "textcolor": "#000000ff"
             },
@@ -63073,61 +63073,61 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Anima.CognitiveEase",
+                    "title": "ANIMA.CognitiveEase",
                     "color": "#cd74e6ff",
                     "textcolor": "white",
                     "type": "sidecar"
                 },
                 {
-                    "title": "Anima.CognitiveEase.Clarity",
+                    "title": "ANIMA.CognitiveEase.Clarity",
                     "color": "#cd74e6ff",
                     "textcolor": "white",
                     "type": "sidecar"
                 },
                 {
-                    "title": "Anima.CognitiveEase.FeelsEffortless",
+                    "title": "ANIMA.CognitiveEase.FeelsEffortless",
                     "color": "#ffffffff",
                     "textcolor": "#000000ff",
                     "type": "sidecar"
                 },
                 {
-                    "title": "Anima.CognitiveEase.FeelsFamiliar",
+                    "title": "ANIMA.CognitiveEase.FeelsFamiliar",
                     "color": "#ffffffff",
                     "textcolor": "#000000ff",
                     "type": "sidecar"
                 },
                 {
-                    "title": "Anima.CognitiveEase.FeelsGood",
+                    "title": "ANIMA.CognitiveEase.FeelsGood",
                     "color": "#ffffffff",
                     "textcolor": "#000000ff",
                     "type": "sidecar"
                 },
                 {
-                    "title": "Anima.CognitiveEase.FeelsTrue",
+                    "title": "ANIMA.CognitiveEase.FeelsTrue",
                     "color": "#ffffffff",
                     "textcolor": "#000000ff",
                     "type": "sidecar"
                 },
                 {
-                    "title": "Anima.CognitiveEase.Good",
+                    "title": "ANIMA.CognitiveEase.Good",
                     "color": "#cd74e6ff",
                     "textcolor": "white",
                     "type": "sidecar"
                 },
                 {
-                    "title": "Anima.CognitiveEase.Priming",
+                    "title": "ANIMA.CognitiveEase.Priming",
                     "color": "#cd74e6ff",
                     "textcolor": "white",
                     "type": "sidecar"
                 },
                 {
-                    "title": "Anima.CognitiveEase.Repetition",
+                    "title": "ANIMA.CognitiveEase.Repetition",
                     "color": "#cd74e6ff",
                     "textcolor": "white",
                     "type": "sidecar"
                 },
                 {
-                    "title": "Anima.FlowState",
+                    "title": "ANIMA.FlowState",
                     "color": "#ffffffff",
                     "textcolor": "#000000ff",
                     "type": "sidecar"
@@ -63165,52 +63165,52 @@
                 "textcolor": "#000000ff"
             },
             {
-                "title": "Anima.CognitiveEase",
+                "title": "ANIMA.CognitiveEase",
                 "color": "#cd74e6ff",
                 "textcolor": "white"
             },
             {
-                "title": "Anima.CognitiveEase.Clarity",
+                "title": "ANIMA.CognitiveEase.Clarity",
                 "color": "#cd74e6ff",
                 "textcolor": "white"
             },
             {
-                "title": "Anima.CognitiveEase.FeelsEffortless",
+                "title": "ANIMA.CognitiveEase.FeelsEffortless",
                 "color": "#ffffffff",
                 "textcolor": "#000000ff"
             },
             {
-                "title": "Anima.CognitiveEase.FeelsFamiliar",
+                "title": "ANIMA.CognitiveEase.FeelsFamiliar",
                 "color": "#ffffffff",
                 "textcolor": "#000000ff"
             },
             {
-                "title": "Anima.CognitiveEase.FeelsGood",
+                "title": "ANIMA.CognitiveEase.FeelsGood",
                 "color": "#ffffffff",
                 "textcolor": "#000000ff"
             },
             {
-                "title": "Anima.CognitiveEase.FeelsTrue",
+                "title": "ANIMA.CognitiveEase.FeelsTrue",
                 "color": "#ffffffff",
                 "textcolor": "#000000ff"
             },
             {
-                "title": "Anima.CognitiveEase.Good",
+                "title": "ANIMA.CognitiveEase.Good",
                 "color": "#cd74e6ff",
                 "textcolor": "white"
             },
             {
-                "title": "Anima.CognitiveEase.Priming",
+                "title": "ANIMA.CognitiveEase.Priming",
                 "color": "#cd74e6ff",
                 "textcolor": "white"
             },
             {
-                "title": "Anima.CognitiveEase.Repetition",
+                "title": "ANIMA.CognitiveEase.Repetition",
                 "color": "#cd74e6ff",
                 "textcolor": "white"
             },
             {
-                "title": "Anima.FlowState",
+                "title": "ANIMA.FlowState",
                 "color": "#ffffffff",
                 "textcolor": "#000000ff"
             },
@@ -63564,7 +63564,7 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Anima.Chunking.Fraction",
+                    "title": "ANIMA.Chunking.Fraction",
                     "color": "#cd74e6ff",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -63643,7 +63643,7 @@
                 "textcolor": "#ffffffff"
             },
             {
-                "title": "Anima.Chunking.Fraction",
+                "title": "ANIMA.Chunking.Fraction",
                 "color": "#cd74e6ff",
                 "textcolor": "white"
             },
@@ -64319,7 +64319,7 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Anima.CognitiveEase",
+                    "title": "ANIMA.CognitiveEase",
                     "color": "#cd74e6ff",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -64364,7 +64364,7 @@
                 "textcolor": "#000000ff"
             },
             {
-                "title": "Anima.CognitiveEase",
+                "title": "ANIMA.CognitiveEase",
                 "color": "#cd74e6ff",
                 "textcolor": "white"
             },
@@ -65251,37 +65251,37 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Anima.Chunking.Fraction",
+                    "title": "ANIMA.Chunking.Fraction",
                     "color": "#ffffffff",
                     "textcolor": "#000000ff",
                     "type": "sidecar"
                 },
                 {
-                    "title": "Anima.Estimation.LandEstimation.Fraction",
+                    "title": "ANIMA.Estimation.LandEstimation.Fraction",
                     "color": "#ffffffff",
                     "textcolor": "#000000ff",
                     "type": "sidecar"
                 },
                 {
-                    "title": "Anima.Estimation.ViaEstimation.AreaEstimation",
+                    "title": "ANIMA.Estimation.ViaEstimation.AreaEstimation",
                     "color": "#ffffffff",
                     "textcolor": "#000000ff",
                     "type": "sidecar"
                 },
                 {
-                    "title": "Anima.Estimation.ViaEstimation.AreaEstimation.AreaCompletionEstimation",
+                    "title": "ANIMA.Estimation.ViaEstimation.AreaEstimation.AreaCompletionEstimation",
                     "color": "#ffffffff",
                     "textcolor": "#000000ff",
                     "type": "sidecar"
                 },
                 {
-                    "title": "Anima.Estimation.ViaEstimation.LineDistanceEstimation",
+                    "title": "ANIMA.Estimation.ViaEstimation.LineDistanceEstimation",
                     "color": "#ffffffff",
                     "textcolor": "#000000ff",
                     "type": "sidecar"
                 },
                 {
-                    "title": "Anima.Estimation.ViaEstimation.TimeEstimation",
+                    "title": "ANIMA.Estimation.ViaEstimation.TimeEstimation",
                     "color": "#ffffffff",
                     "textcolor": "#000000ff",
                     "type": "sidecar"
@@ -65358,32 +65358,32 @@
                 "textcolor": "white"
             },
             {
-                "title": "Anima.Chunking.Fraction",
+                "title": "ANIMA.Chunking.Fraction",
                 "color": "#ffffffff",
                 "textcolor": "#000000ff"
             },
             {
-                "title": "Anima.Estimation.LandEstimation.Fraction",
+                "title": "ANIMA.Estimation.LandEstimation.Fraction",
                 "color": "#ffffffff",
                 "textcolor": "#000000ff"
             },
             {
-                "title": "Anima.Estimation.ViaEstimation.AreaEstimation",
+                "title": "ANIMA.Estimation.ViaEstimation.AreaEstimation",
                 "color": "#ffffffff",
                 "textcolor": "#000000ff"
             },
             {
-                "title": "Anima.Estimation.ViaEstimation.AreaEstimation.AreaCompletionEstimation",
+                "title": "ANIMA.Estimation.ViaEstimation.AreaEstimation.AreaCompletionEstimation",
                 "color": "#ffffffff",
                 "textcolor": "#000000ff"
             },
             {
-                "title": "Anima.Estimation.ViaEstimation.LineDistanceEstimation",
+                "title": "ANIMA.Estimation.ViaEstimation.LineDistanceEstimation",
                 "color": "#ffffffff",
                 "textcolor": "#000000ff"
             },
             {
-                "title": "Anima.Estimation.ViaEstimation.TimeEstimation",
+                "title": "ANIMA.Estimation.ViaEstimation.TimeEstimation",
                 "color": "#ffffffff",
                 "textcolor": "#000000ff"
             },
@@ -65548,7 +65548,7 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Anima.CognitiveEase.Clarity",
+                    "title": "ANIMA.CognitiveEase.Clarity",
                     "color": "#cd74e6ff",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -65616,7 +65616,7 @@
                 "textcolor": "#ffffffff"
             },
             {
-                "title": "Anima.CognitiveEase.Clarity",
+                "title": "ANIMA.CognitiveEase.Clarity",
                 "color": "#cd74e6ff",
                 "textcolor": "white"
             },
@@ -65798,13 +65798,13 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Anima.CognitiveEase.Clarity",
+                    "title": "ANIMA.CognitiveEase.Clarity",
                     "color": "#cd74e6ff",
                     "textcolor": "white",
                     "type": "sidecar"
                 },
                 {
-                    "title": "Anima.Memory",
+                    "title": "ANIMA.Memory",
                     "color": "#cd74e6ff",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -65864,12 +65864,12 @@
                 "textcolor": "#ffffffff"
             },
             {
-                "title": "Anima.CognitiveEase.Clarity",
+                "title": "ANIMA.CognitiveEase.Clarity",
                 "color": "#cd74e6ff",
                 "textcolor": "white"
             },
             {
-                "title": "Anima.Memory",
+                "title": "ANIMA.Memory",
                 "color": "#cd74e6ff",
                 "textcolor": "white"
             },
@@ -66211,31 +66211,31 @@
             "lastUpdated": 1692978839624,
             "tags": [
                 {
-                    "title": "Anima.CognitiveEase",
+                    "title": "ANIMA.CognitiveEase",
                     "color": "#ffffffff",
                     "textcolor": "#000000ff",
                     "type": "sidecar"
                 },
                 {
-                    "title": "Anima.CognitiveEase.Clarity",
+                    "title": "ANIMA.CognitiveEase.Clarity",
                     "color": "#ffffffff",
                     "textcolor": "#000000ff",
                     "type": "sidecar"
                 },
                 {
-                    "title": "Anima.CognitiveEase.Good",
+                    "title": "ANIMA.CognitiveEase.Good",
                     "color": "#ffffffff",
                     "textcolor": "#000000ff",
                     "type": "sidecar"
                 },
                 {
-                    "title": "Anima.CognitiveEase.Priming",
+                    "title": "ANIMA.CognitiveEase.Priming",
                     "color": "#ffffffff",
                     "textcolor": "#000000ff",
                     "type": "sidecar"
                 },
                 {
-                    "title": "Anima.CognitiveEase.Repetition",
+                    "title": "ANIMA.CognitiveEase.Repetition",
                     "color": "#ffffffff",
                     "textcolor": "#000000ff",
                     "type": "sidecar"
@@ -66264,27 +66264,27 @@
         "extension": "jpg",
         "tags": [
             {
-                "title": "Anima.CognitiveEase",
+                "title": "ANIMA.CognitiveEase",
                 "color": "#ffffffff",
                 "textcolor": "#000000ff"
             },
             {
-                "title": "Anima.CognitiveEase.Clarity",
+                "title": "ANIMA.CognitiveEase.Clarity",
                 "color": "#ffffffff",
                 "textcolor": "#000000ff"
             },
             {
-                "title": "Anima.CognitiveEase.Good",
+                "title": "ANIMA.CognitiveEase.Good",
                 "color": "#ffffffff",
                 "textcolor": "#000000ff"
             },
             {
-                "title": "Anima.CognitiveEase.Priming",
+                "title": "ANIMA.CognitiveEase.Priming",
                 "color": "#ffffffff",
                 "textcolor": "#000000ff"
             },
             {
-                "title": "Anima.CognitiveEase.Repetition",
+                "title": "ANIMA.CognitiveEase.Repetition",
                 "color": "#ffffffff",
                 "textcolor": "#000000ff"
             },
@@ -66560,7 +66560,7 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Anima.Calm",
+                    "title": "ANIMA.Calm",
                     "color": "#ffffffff",
                     "textcolor": "#000000ff",
                     "type": "sidecar"
@@ -66619,7 +66619,7 @@
                 "textcolor": "white"
             },
             {
-                "title": "Anima.Calm",
+                "title": "ANIMA.Calm",
                 "color": "#ffffffff",
                 "textcolor": "#000000ff"
             },
@@ -67580,7 +67580,7 @@
             "lastUpdated": 1692978839626,
             "tags": [
                 {
-                    "title": "Anima.Calm",
+                    "title": "ANIMA.Calm",
                     "color": "#ffffffff",
                     "textcolor": "#000000ff",
                     "type": "sidecar"
@@ -67609,7 +67609,7 @@
         "extension": "jpg",
         "tags": [
             {
-                "title": "Anima.Calm",
+                "title": "ANIMA.Calm",
                 "color": "#ffffffff",
                 "textcolor": "#000000ff"
             },
@@ -68757,7 +68757,7 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Anima.Memory",
+                    "title": "ANIMA.Memory",
                     "color": "#ffffffff",
                     "textcolor": "#000000ff",
                     "type": "sidecar"
@@ -68791,7 +68791,7 @@
                 "textcolor": "#000000ff"
             },
             {
-                "title": "Anima.Memory",
+                "title": "ANIMA.Memory",
                 "color": "#ffffffff",
                 "textcolor": "#000000ff"
             },
@@ -68965,7 +68965,7 @@
             "lastUpdated": 1692978839627,
             "tags": [
                 {
-                    "title": "Anima.Adrenaline",
+                    "title": "ANIMA.Adrenaline",
                     "color": "#ffffffff",
                     "textcolor": "#000000ff",
                     "type": "sidecar"
@@ -68994,7 +68994,7 @@
         "extension": "jpg",
         "tags": [
             {
-                "title": "Anima.Adrenaline",
+                "title": "ANIMA.Adrenaline",
                 "color": "#ffffffff",
                 "textcolor": "#000000ff"
             },
@@ -70439,7 +70439,7 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Anima.Overview",
+                    "title": "ANIMA.Overview",
                     "color": "#cd74e6ff",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -70478,7 +70478,7 @@
                 "textcolor": "#000000ff"
             },
             {
-                "title": "Anima.Overview",
+                "title": "ANIMA.Overview",
                 "color": "#cd74e6ff",
                 "textcolor": "white"
             },
@@ -70566,13 +70566,13 @@
             "lastUpdated": 1693258845941,
             "tags": [
                 {
-                    "title": "Anima.Logic.Boolean",
+                    "title": "ANIMA.Logic.Boolean",
                     "color": "#cd74e6ff",
                     "textcolor": "white",
                     "type": "sidecar"
                 },
                 {
-                    "title": "Anima.Logic.Overview",
+                    "title": "ANIMA.Logic.Overview",
                     "color": "#cd74e6ff",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -70619,12 +70619,12 @@
         "extension": "jpg",
         "tags": [
             {
-                "title": "Anima.Logic.Boolean",
+                "title": "ANIMA.Logic.Boolean",
                 "color": "#cd74e6ff",
                 "textcolor": "white"
             },
             {
-                "title": "Anima.Logic.Overview",
+                "title": "ANIMA.Logic.Overview",
                 "color": "#cd74e6ff",
                 "textcolor": "white"
             },
@@ -71255,7 +71255,7 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Anima.Decision",
+                    "title": "ANIMA.Decision",
                     "color": "#cd74e6ff",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -71314,7 +71314,7 @@
                 "textcolor": "white"
             },
             {
-                "title": "Anima.Decision",
+                "title": "ANIMA.Decision",
                 "color": "#cd74e6ff",
                 "textcolor": "white"
             },
@@ -73639,7 +73639,7 @@
                     "type": "sidecar"
                 },
                 {
-                    "title": "Anima.Logic.Deduction",
+                    "title": "ANIMA.Logic.Deduction",
                     "color": "#cd74e6ff",
                     "textcolor": "white",
                     "type": "sidecar"
@@ -73712,7 +73712,7 @@
                 "textcolor": "#000000ff"
             },
             {
-                "title": "Anima.Logic.Deduction",
+                "title": "ANIMA.Logic.Deduction",
                 "color": "#cd74e6ff",
                 "textcolor": "white"
             },

@@ -21,7 +21,7 @@ Aliases: ArmWalk
 
 -
 
-### Related 💜<anima>Anima</anima>
+### Related 💜<anima>ANIMA</anima>
 
 -
 

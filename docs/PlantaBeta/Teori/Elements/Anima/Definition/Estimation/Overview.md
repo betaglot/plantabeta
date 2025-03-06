@@ -14,12 +14,12 @@
 
 <h2>PageTags</h2>
 
-- "Anima.Estimation"
-- "Anima.Estimation.BagCover"
-- "Anima.Estimation.LandEstimation.Fraction"
-- "Anima.Estimation.ViaEstimation.AreaEstimation"
-- "Anima.Estimation.ViaEstimation.AreaEstimation.AreaCompletionEstimation"
-- "Anima.Estimation.ViaEstimation.LineDistanceEstimation"
-- "Anima.Estimation.ViaEstimation.TimeEstimation"
+- "ANIMA.Estimation"
+- "ANIMA.Estimation.BagCover"
+- "ANIMA.Estimation.LandEstimation.Fraction"
+- "ANIMA.Estimation.ViaEstimation.AreaEstimation"
+- "ANIMA.Estimation.ViaEstimation.AreaEstimation.AreaCompletionEstimation"
+- "ANIMA.Estimation.ViaEstimation.LineDistanceEstimation"
+- "ANIMA.Estimation.ViaEstimation.TimeEstimation"
 
 :::

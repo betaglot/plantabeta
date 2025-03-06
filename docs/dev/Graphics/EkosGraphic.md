@@ -1,8 +1,8 @@
-# 🛠 <ekos>Eko Graphics</ekos>
+# 🛠 <ekos>EKOS Graphics</ekos>
 
 ## Simplify
 
-Simplify Eko like John Revill
+Simplify EKOS like John Revill
 Depth Compression like accordion christmas book
 
 Cut out monotous Eko

@@ -16,7 +16,7 @@ Aliases: Hand Swap, Hand Switch
 
 -
 
-### Related 💜<anima>Anima</anima>
+### Related 💜<anima>ANIMA</anima>
 
 -
 

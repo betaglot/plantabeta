@@ -1,4 +1,4 @@
-# 🛠 <motor>Motor Graphics</motor>
+# 🛠 <motor>MOTOR Graphics</motor>
 
 ## <motor>MotorCard</motor>
 

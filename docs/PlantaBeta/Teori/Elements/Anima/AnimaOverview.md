@@ -63,7 +63,7 @@ ANIMA == PSYCHE == SPIRITUS
 ### <anima>Soul</anima>
 
 - WakingUp
-    - Anima is your breath and your breath leads to NonDualExperience
+    - ANIMA is your breath and your breath leads to NonDualExperience
     - equanimity
 
 - In<anima>spir</anima>ation
@@ -76,7 +76,7 @@ ANIMA == PSYCHE == SPIRITUS
 
 ---
 
-## <anima>Anima Simbol</anima> 💜
+## <anima>ANIMA Simbol</anima> 💜
 
 > Violet Heart
 
@@ -99,37 +99,37 @@ ANIMA == PSYCHE == SPIRITUS
     - *anima mundi*: "The Kosmos is a soul"
         - Not the same as NonDual
 
-- ControlFlowStatements are Anima
+- ControlFlowStatements are ANIMA
 
 > It is easy to get lost in neuroscience, but always try to minimize the amount of technical knowledge and only present Psychology in the context of PlantaBeta. Every section needs to directly link back to a plantor's experience and not a person's experience in general.
 
 <h2>PageTags</h2>
 
-- "Anima.CognitiveEase"
-- "Anima.CognitiveEase.Clarity"
-- "Anima.CognitiveEase.FeelsEffortless"
-- "Anima.CognitiveEase.FeelsFamiliar"
-- "Anima.CognitiveEase.FeelsGood"
-- "Anima.CognitiveEase.FeelsTrue"
-- "Anima.CognitiveEase.Good"
-- "Anima.CognitiveEase.Priming"
-- "Anima.CognitiveEase.Repetition"
-- "Anima.FlowState"
-- "Anima.Music"
-- "Anima.NeuroName"
-- "Anima.AnimaQuestion"
-- "Anima.Overview"
-- "Anima.PatternRecognition"
-- "Anima.Proprioception"
-- "Anima.Rehearsal"
-- "Anima.SpatialSense"
-- "Anima.State"
-- "Anima.State.Arousal"
-- "Anima.State.EmotionalState"
-- "Anima.State.EnergyState"
-- "Anima.Stress.TooManyOptions"
-- "Anima.Thermoception"
-- "Anima.Time"
-- "Anima.Visualization"
+- "ANIMA.CognitiveEase"
+- "ANIMA.CognitiveEase.Clarity"
+- "ANIMA.CognitiveEase.FeelsEffortless"
+- "ANIMA.CognitiveEase.FeelsFamiliar"
+- "ANIMA.CognitiveEase.FeelsGood"
+- "ANIMA.CognitiveEase.FeelsTrue"
+- "ANIMA.CognitiveEase.Good"
+- "ANIMA.CognitiveEase.Priming"
+- "ANIMA.CognitiveEase.Repetition"
+- "ANIMA.FlowState"
+- "ANIMA.Music"
+- "ANIMA.NeuroName"
+- "ANIMA.AnimaQuestion"
+- "ANIMA.Overview"
+- "ANIMA.PatternRecognition"
+- "ANIMA.Proprioception"
+- "ANIMA.Rehearsal"
+- "ANIMA.SpatialSense"
+- "ANIMA.State"
+- "ANIMA.State.Arousal"
+- "ANIMA.State.EmotionalState"
+- "ANIMA.State.EnergyState"
+- "ANIMA.Stress.TooManyOptions"
+- "ANIMA.Thermoception"
+- "ANIMA.Time"
+- "ANIMA.Visualization"
 
 :::

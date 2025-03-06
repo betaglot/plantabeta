@@ -20,7 +20,7 @@ No Impact
 
 - Toehook
 
-### Related 💜<anima>Anima</anima>
+### Related 💜<anima>ANIMA</anima>
 
 -
 

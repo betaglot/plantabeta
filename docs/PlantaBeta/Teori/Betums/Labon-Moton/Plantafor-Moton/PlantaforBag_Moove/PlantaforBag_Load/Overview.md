@@ -18,7 +18,7 @@ Aliases: Bag up some trees
 
 -
 
-### Related 💜<anima>Anima</anima>
+### Related 💜<anima>ANIMA</anima>
 
 -
 

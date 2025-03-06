@@ -10,7 +10,7 @@
 
 Select the ViaTheorem to solve the ViaProblem.
 
-Via selection
+VIA selection
 
 NormalForce vector is a parameter in area suitability computation Selection
 

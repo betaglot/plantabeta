@@ -20,7 +20,7 @@ Aliases: Gaiter, Shin Pad
 
 -
 
-### Related 💜<anima>Anima</anima>
+### Related 💜<anima>ANIMA</anima>
 
 -
 

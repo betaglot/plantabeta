@@ -41,7 +41,7 @@ First Person Point of View
 
 <h2>PageTags</h2>
 
-- "Anima.Memory"
-- "Anima.Memory.Mnemonic"
+- "ANIMA.Memory"
+- "ANIMA.Memory.Mnemonic"
 
 :::

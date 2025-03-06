@@ -1,1 +1,1 @@
-# Anima Naming
+# ANIMA Naming

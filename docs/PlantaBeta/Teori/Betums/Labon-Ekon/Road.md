@@ -38,7 +38,7 @@ Block Start
 
 -
 
-### Related 💜<anima>Anima</anima>
+### Related 💜<anima>ANIMA</anima>
 
 -
 
@@ -52,6 +52,6 @@ Block Start
 ::: details 🛠
 
 - CutBank
-- To a plantor a Road is more Via than Eko, since no planting is ever performed on road, unless it has been deactivated.
+- To a plantor a Road is more VIA than Eko, since no planting is ever performed on road, unless it has been deactivated.
 
 :::

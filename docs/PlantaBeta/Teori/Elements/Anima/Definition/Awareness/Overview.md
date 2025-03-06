@@ -24,6 +24,6 @@
 
 <h2>PageTags</h2>
 
-- "Anima.Awareness"
+- "ANIMA.Awareness"
 
 :::

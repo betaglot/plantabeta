@@ -52,7 +52,7 @@ Maintain your Instruments to ensure that they last as long a possible and to mai
 
 -
 
-### Related 💜<anima>Anima</anima>
+### Related 💜<anima>ANIMA</anima>
 
 -
 

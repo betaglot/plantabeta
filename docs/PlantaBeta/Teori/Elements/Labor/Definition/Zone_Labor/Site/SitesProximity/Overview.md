@@ -20,13 +20,13 @@ ViaStartSpace is relative to ViaTotal
 
 ## ViaFinishSpace
 
-## Via Space Attributes
+## VIA Space Attributes
 
 Space Form
 
 Space Size
 
-Via Cell
+VIA Cell
 
 ### [BodySlot](/reference/MOTON/BodyMOTON/BodySlot)
 
@@ -42,7 +42,7 @@ Parsing Land into VoronoiCells
 
 Spandrel art between plating plot radius cirle area circleshape
 
-Via Cover
+VIA Cover
 
 Cirles make hexagons
 

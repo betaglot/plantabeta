@@ -50,12 +50,30 @@ export default defineConfig({
 })
 
 function sidebarBetomiks() {
-  return []
+  return [
+    { text: 'BETOMIKS', link: '/PlantaBeta/Teori/Betomiks/BetomiksOverview', collapsed: false, items: [
+      { text: 'Attention', link: '/PlantaBeta/Teori/Betomiks/Attention/Overview' },
+      { text: 'Flux', link: '/PlantaBeta/Teori/Betomiks/Flux/Overview' },
+      { text: 'Image', link: '/PlantaBeta/Teori/Betomiks/Image/Overview' },
+      { text: 'Moment', link: '/PlantaBeta/Teori/Betomiks/Moment/Overview' },
+      { text: 'Text', link: '/PlantaBeta/Teori/Betomiks/Text/Overview' },
+    ]},
+  ]
 }
 
 
 function sidebarKomposition() {
-  return []
+  return [
+    { text: 'KOMPOSITION', link: '/PlantaBeta/Teori/Komposition/KompositionOverview', collapsed: false, items: [
+      { text: 'Density', link: '/PlantaBeta/Teori/Komposition/Density/Overview' },
+      { text: 'Flux', link: '/PlantaBeta/Teori/Komposition/Flux/Overview' },
+      { text: 'Harmony', link: '/PlantaBeta/Teori/Komposition/Harmony/Overview' },
+      { text: 'Melody', link: '/PlantaBeta/Teori/Komposition/Melody/Overview' },
+      { text: 'Moment', link: '/PlantaBeta/Teori/Komposition/Moment/Overview' },
+      { text: 'Ritmo', link: '/PlantaBeta/Teori/Komposition/Ritmo/Overview' },
+      { text: 'Komposor', link: '/PlantaBeta/Teori/Komposition/Komposor/Overview' },
+    ]},
+  ]
 }
 // #Nav
 function nav() {

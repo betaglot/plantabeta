@@ -9,7 +9,7 @@
 ```py
 
 def ModifyLength():
-    if Eko == TooClose():
+    if EKOS == TooClose():
         Length++
     elif
 
@@ -33,7 +33,7 @@ def ModifyLength():
 
 -
 
-### Related 💜<anima>Anima</anima>
+### Related 💜<anima>ANIMA</anima>
 
 -
 

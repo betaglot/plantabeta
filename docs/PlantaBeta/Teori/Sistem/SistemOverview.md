@@ -73,7 +73,7 @@ BETAGLOTS are people who apply the SISTEM to multiple sports
 
 BETAGLOT is the organization which is developing SISTEM.py and applying it to solo sports
 
-SISTEM is the system which is composed of EKO, MOVE, VIA, Anima
+SISTEM is the system which is composed of EKO, MOVE, VIA, ANIMA
 
 The term Beta can refer to any of the SistemTypes. All TypeElements inherit from Element, which is the Base class. EkosElement
 

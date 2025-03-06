@@ -22,7 +22,7 @@ If the redrot is skreefed to deeper than a blade then punch down if you don't he
 
 -
 
-### Related 💜<anima>Anima</anima>
+### Related 💜<anima>ANIMA</anima>
 
 -
 

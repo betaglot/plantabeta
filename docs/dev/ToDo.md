@@ -28,7 +28,7 @@ LaptopOnly tasks include:
 - Instruments
 - International
 - Naming
-- Anima
+- ANIMA
 
 :::
 

@@ -24,7 +24,7 @@ Andrew Huberman is always reminding [us to get morning sunlight](https://www.hub
 
 -
 
-### Related 💜<anima>Anima</anima>
+### Related 💜<anima>ANIMA</anima>
 
 -
 

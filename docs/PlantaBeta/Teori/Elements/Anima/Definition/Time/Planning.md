@@ -15,6 +15,6 @@
 
 <h2>PageTags</h2>
 
-- "Anima.Planning"
-- "Anima.Planning.Prediction"
+- "ANIMA.Planning"
+- "ANIMA.Planning.Prediction"
 :::

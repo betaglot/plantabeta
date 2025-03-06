@@ -22,6 +22,6 @@
 
 <h2>PageTags</h2>
 
-- "Anima.Decision"
+- "ANIMA.Decision"
 
 :::

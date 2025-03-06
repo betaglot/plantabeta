@@ -18,7 +18,7 @@ Aliases: SpadeSlam, SpadeThrow, SpadeChop
 
 -
 
-### Related 💜<anima>Anima</anima>
+### Related 💜<anima>ANIMA</anima>
 
 -
 

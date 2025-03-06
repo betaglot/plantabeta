@@ -14,7 +14,7 @@
 
 -
 
-### Related 💜<anima>Anima</anima>
+### Related 💜<anima>ANIMA</anima>
 
 -
 
@@ -28,6 +28,6 @@
 ::: details 🛠
 
 - WetGloveOn
-    - Anima Discomfort
+    - ANIMA Discomfort
 
 :::

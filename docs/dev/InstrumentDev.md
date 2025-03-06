@@ -270,7 +270,7 @@ Padding in the joints
 
 Mail at joints
 
-#### SuitSwap out parts to adapt to Eko and MOTON
+#### SuitSwap out parts to adapt to EKOS and MOTON
 
 ### 🟠<motor>RadiorDev</motor>
 

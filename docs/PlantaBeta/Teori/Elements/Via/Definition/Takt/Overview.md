@@ -18,7 +18,7 @@ Aliases: Contact point, Contact surface
 
 -
 
-### Related 💜<anima>Anima</anima>
+### Related 💜<anima>ANIMA</anima>
 
 -
 

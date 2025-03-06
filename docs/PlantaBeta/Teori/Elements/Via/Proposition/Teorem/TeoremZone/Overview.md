@@ -18,7 +18,7 @@ Aliases: Area, Enclosure, Region, Section, Sector, Territory
 
 -
 
-### Related 💜<anima>Anima</anima>
+### Related 💜<anima>ANIMA</anima>
 
 -
 

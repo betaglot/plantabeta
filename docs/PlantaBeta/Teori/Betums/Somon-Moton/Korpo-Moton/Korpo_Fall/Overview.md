@@ -16,7 +16,7 @@
 
 -
 
-### Related 💜<anima>Anima</anima>
+### Related 💜<anima>ANIMA</anima>
 
 -
 
@@ -69,7 +69,7 @@
     - Sit instead of toppling over like a domino
         - Don't Sit if you're gonna get impaled
     - KontaktSelection
-        - Via which Fluxes to the next site
+        - VIA which Fluxes to the next site
         - Somewhere to decelerate (AbsorbMOTON)
             - Run down the hill
 - FallCollisionFase

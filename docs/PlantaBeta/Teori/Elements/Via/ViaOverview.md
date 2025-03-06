@@ -52,17 +52,17 @@ Road, Path, Route, through, using, composed of
 🔻
 ```
 
-- Via Object
-- Via Property
-- Via Method
+- VIA Object
+- VIA Property
+- VIA Method
 
-## <via>What are Via Objects?</via>
+## <via>What are VIA Objects?</via>
 
-## <via>What are Via Attributes?</via>
+## <via>What are VIA Attributes?</via>
 
-## <via>What are Via Methods?</via>
+## <via>What are VIA Methods?</via>
 
-### Via must be easily attainable
+### VIA must be easily attainable
 
 Flying through air from hole to hole is possible but not attainable.
 
@@ -74,8 +74,8 @@ Not worth the trouble
 
 - Interact
 - Interface
-    - Via is the interface between <ekos>Eko</ekos> and <motor>MOTON</motor>
-    - Via is the interface between <ekos>Eko</ekos> and <anima>Anima</anima>
+    - VIA is the interface between <ekos>Eko</ekos> and <motor>MOTON</motor>
+    - VIA is the interface between <ekos>Eko</ekos> and <anima>ANIMA</anima>
 - Interpolate
     - Most ViaGeometry is interpolated.
 
@@ -90,8 +90,8 @@ Not worth the trouble
 > "Use that branch to pull yourself up"
 
 - Computational Geometry
-- Via is an abstract layer on top of Eko. A via is where the Plantor
-- A Via starts and finishes at the Cache.
+- VIA is an abstract layer on top of Eko. A via is where the Plantor
+- A VIA starts and finishes at the Cache.
 
 ### Purpose of VIA
 
@@ -114,7 +114,7 @@ FillPlant
 
 "Cover" is a verb, "Fill" is a noun.
 
-## Via Scope
+## VIA Scope
 
 PieceCover > AreaCover > Line > ViaPoint
 
@@ -124,7 +124,7 @@ Directions
 
 ## $$$
 
-- Via Affects productivity the most because via has deadwalking and cache positioning. Via Starts and Finishes at the cache.
+- VIA Affects productivity the most because via has deadwalking and cache positioning. VIA Starts and Finishes at the cache.
 
 - Even the most atheletic plantor is wasting time during deadwalking. Minimizing deadwalking benefits all plantors and supervisors.
 
@@ -143,8 +143,8 @@ Directions
 - IsochroneMap
 - Request cache move
 - SquirrelCache -> PieceCache
-- Via layer
-- Via is superimposed onto eko
+- VIA layer
+- VIA is superimposed onto eko
 - "Out of the way" Detour
 - Find the Path of least resistance
 - Navigate
@@ -153,11 +153,11 @@ Directions
 - Complete a Via
     - Solve a ViaProblem
 - MissedLand is a CoverError
-- The most inefficient Via exists at the same time as the most efficient VIA. You can choose the wrong Via but still be using a valid VIA. Possible but not practical.
+- The most inefficient VIA exists at the same time as the most efficient VIA. You can choose the wrong VIA but still be using a valid VIA. Possible but not practical.
 - PertainentNegative
     - "You can't put your foot there"
-- The units of Via are BagUps
-- Via is close to Surveying
+- The units of VIA are BagUps
+- VIA is close to Surveying
     - Trangulation
 
 - VIA is Superimposed onto EKOS.
@@ -186,14 +186,14 @@ EKOS is decomposed by composing a VIA
 - Route start and finish are RouteProblems
     - Route Surfaces are RouteSolutions
     - Givens Assignables are Route and their values are Eko
-- "Anima.Vision"
-- "Anima.Vision.Find.BackLine"
-- "Anima.Vision.Find.FarSide"
-- "Anima.Vision.Find.FindFirstBagUp"
-- "Anima.Vision.Find.Marka"
-- "Anima.Vision.Find.Overview"
-- "Anima.Vision.Hidden"
-- "Anima.Vision.SeenFromCache"
+- "ANIMA.Vision"
+- "ANIMA.Vision.Find.BackLine"
+- "ANIMA.Vision.Find.FarSide"
+- "ANIMA.Vision.Find.FindFirstBagUp"
+- "ANIMA.Vision.Find.Marka"
+- "ANIMA.Vision.Find.Overview"
+- "ANIMA.Vision.Hidden"
+- "ANIMA.Vision.SeenFromCache"
 - "VIA.Direction"
 - "VIA.Overview"
 - "VIA.ReadLand"

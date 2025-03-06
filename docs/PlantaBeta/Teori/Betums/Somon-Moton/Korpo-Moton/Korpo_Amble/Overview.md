@@ -51,7 +51,7 @@ Aim small miss small. Larger moves have larger potential for error
 
 -
 
-### Related 💜<anima>Anima</anima>
+### Related 💜<anima>ANIMA</anima>
 
 -
 

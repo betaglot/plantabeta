@@ -337,7 +337,7 @@ Delete tags once converted to headers. They are stored in a JSON
 
 ```md
 
-### 💜 DesignBox<anima>.Anima</anima>
+### 💜 DesignBox<anima>.ANIMA</anima>
 
 ```md
 ---
@@ -352,7 +352,7 @@ Delete tags once converted to headers. They are stored in a JSON
 -
 
 :::
-# 💭 <anima>Anima</anima>
+# 💭 <anima>ANIMA</anima>
 
 ```md
 
@@ -440,7 +440,7 @@ Should "via" be used as natural language? "Get to the next page via the link at 
 
 ### Definition
 
-> Brief Definition in Blockquote avoid using Via adjectives and other BetaModules
+> Brief Definition in Blockquote avoid using VIA adjectives and other BetaModules
 
 ### Taxonomy
 
@@ -488,13 +488,13 @@ Syntax: `MOTON.AnteMOTON`
 ### MOTON.Via
 
 - How does this MOTON interface with Eko?
-- Where in the Via is this MOTON performed?
+- Where in the VIA is this MOTON performed?
 
 ### MOTON.Eko
 
-Where in Eko is this MOTON performed and on what EkoElement. Put "the ground" if necessary. Nothing is too obvious in formal languages!
+Where in EKOS is this MOTON performed and on what EkoElement. Put "the ground" if necessary. Nothing is too obvious in formal languages!
 
-### MOTON.Anima
+### MOTON.ANIMA
 
 - Control Flow Statements for alternative moves
 
@@ -511,7 +511,7 @@ Where in Eko is this MOTON performed and on what EkoElement. Put "the ground" if
 
 ### <via>Via.MOTON</via>
 
-### <via>Via.Anima</via>
+### <via>Via.ANIMA</via>
 
 ### <via>Via.Beta</via>
 

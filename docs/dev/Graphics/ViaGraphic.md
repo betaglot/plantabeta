@@ -1,4 +1,4 @@
-# 🛠 Via Graphics
+# 🛠 VIA Graphics
 
 ## Highlight
 
@@ -32,7 +32,7 @@ CrossedLine=MarkagedLine
 
 ## Montreal Metro Map
 
-| Metro | Via |
+| Metro | VIA |
 | ------ | ------ |
 | Station | ViaPoint |
 | Line | Curve |
@@ -113,11 +113,11 @@ Closest
 
 ## Assassins Creed
 
-Eagle Vision is Via. Just like [EagleVision](https://www.youtube.com/watch?v=toW9lHSJ5Tg), Via is an abstraction layer onto MOTON and
+Eagle Vision is Via. Just like [EagleVision](https://www.youtube.com/watch?v=toW9lHSJ5Tg), VIA is an abstraction layer onto MOTON and
 
 ('lit')InsteadOf('highlighted')
 
-Via can be seen through the land.
+VIA can be seen through the land.
 
 ---
 

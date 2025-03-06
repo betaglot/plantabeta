@@ -18,7 +18,7 @@
 - 🟠<motor>Jump</motor>
     - RunStart too gain momentum to Jump horzontally
 
-### Related 💜<anima>Anima</anima>
+### Related 💜<anima>ANIMA</anima>
 
 -
 

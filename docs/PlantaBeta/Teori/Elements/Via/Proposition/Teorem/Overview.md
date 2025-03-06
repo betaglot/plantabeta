@@ -1,6 +1,6 @@
-# 🔻 <via>Via Teorem</via>
+# 🔻 <via>VIA Teorem</via>
 
-> a statement about Via that can be shown to be true
+> a statement about VIA that can be shown to be true
 
 ## Cover
 

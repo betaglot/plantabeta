@@ -28,7 +28,7 @@
 - <ekos>PlantaBeta</ekos> reduced the worrying about what to expect during your Novice season.
 - "I can do this"
 - The fear of the unknown, especially unknown unknowns, can be paralyzing. <ekos>PlantaBeta</ekos> is being created to minimize the number of unknowns in a tree Plantor's experience.
-- There is a whole page in <ekos>PlantaBeta</ekos> specifically devoted to Motivation. It's easy to become unmotivated when you're tired, you've spent the past few days in the rain and the Eko is difficult, but there is knowledge that Plantors and PlantorSupervisors can use to keep planting!
+- There is a whole page in <ekos>PlantaBeta</ekos> specifically devoted to Motivation. It's easy to become unmotivated when you're tired, you've spent the past few days in the rain and the EKOS is difficult, but there is knowledge that Plantors and PlantorSupervisors can use to keep planting!
 
 ---
 

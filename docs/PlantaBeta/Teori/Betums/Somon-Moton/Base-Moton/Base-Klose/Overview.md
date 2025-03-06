@@ -18,7 +18,7 @@ Aliases: FootClose
 
 -
 
-### Related 💜<anima>Anima</anima>
+### Related 💜<anima>ANIMA</anima>
 
 -
 

@@ -62,6 +62,6 @@ Event from a first person perspective
 
 <h2>PageTags</h2>
 
-- "Anima.Event"
+- "ANIMA.Event"
 
 :::

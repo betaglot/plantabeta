@@ -18,7 +18,7 @@ Aliases: HoleOpen, Open a Hole
 
 -
 
-### Related 💜<anima>Anima</anima>
+### Related 💜<anima>ANIMA</anima>
 
 -
 

@@ -1,1 +1,1 @@
-# Anima Mimicry
+# ANIMA Mimicry

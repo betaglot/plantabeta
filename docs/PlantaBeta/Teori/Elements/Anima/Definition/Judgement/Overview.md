@@ -15,10 +15,10 @@
 
 <h2>PageTags</h2>
 
-- "Anima.Judgement"
-- "Anima.Logic.Boolean"
-- "Anima.Logic.Deduction"
-- "Anima.Logic.Induction"
-- "Anima.Logic.Overview"
+- "ANIMA.Judgement"
+- "ANIMA.Logic.Boolean"
+- "ANIMA.Logic.Deduction"
+- "ANIMA.Logic.Induction"
+- "ANIMA.Logic.Overview"
 
 :::

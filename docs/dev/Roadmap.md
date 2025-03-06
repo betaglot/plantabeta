@@ -30,7 +30,7 @@ Use Reference Class Forecasting to set realistic goals by comparing PlantaBeta w
 
 One purpose of PlantaBeta is to act as a resource for designers and researchers.
 
-To [Reforest](https://www.lasy.gov.pl/en/information/news/a-forest-is-much-more-than-a-plantation) the Eko destroyed by wildfires in Canada and across the world.
+To [Reforest](https://www.lasy.gov.pl/en/information/news/a-forest-is-much-more-than-a-plantation) the EKOS destroyed by wildfires in Canada and across the world.
 
 ## Reference
 
@@ -94,7 +94,7 @@ Test [novel plantor Instruments](dev/Instruments)
 
 Probably more shrubs than trees
 
-Eko is Street
+EKOS is Street
 
 Promotional video
 

@@ -14,7 +14,7 @@
 
 - SiteMOTON
 
-### Related 💜<anima>Anima</anima>
+### Related 💜<anima>ANIMA</anima>
 
 - SiteEval
 

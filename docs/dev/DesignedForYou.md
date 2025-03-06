@@ -80,11 +80,11 @@ Remember f(x) = 2x ?
 
 Beta is composed of four types, each of which can be represented by an icon:
 
-🟩<ekos>Eko </ekos>: All biologic and geologic objects and processes you interact with while in a planting block. For example: slash, roads, stumps, plants, soil and weather.
+🟩<ekos>EKOS </ekos>: All biologic and geologic objects and processes you interact with while in a planting block. For example: slash, roads, stumps, plants, soil and weather.
 
 🟠<motor>MOTON </motor>: The movements and Instruments you use to plant trees. For example: slamming your spade into the ground, ripping Marka, your clothing and your bags.
 
-🔻<via>Via </via>: The path taken by plantors. For example: your line in, backfilling, area planting, bouncing while partner planting and deadwalking
+🔻<via>VIA </via>: The path taken by plantors. For example: your line in, backfilling, area planting, bouncing while partner planting and deadwalking
 
 💜<anima>Psike </anima>: Any phenonmena of your nervous system, includes emotion, thought, perception, awareness, attention and more.  
 

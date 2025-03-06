@@ -23,7 +23,7 @@ There are no lines that are preventing you from jumping a kilometer into the air
 - The Border of a Zone
     - PieceBorder: You can't go past the OrangeFlag
 
-## Limited by 💜 Anima
+## Limited by 💜 ANIMA
 
 - I can't remember that much information
 - I can't see that far
@@ -47,6 +47,6 @@ There are no lines that are preventing you from jumping a kilometer into the air
 
 - FuzzyLimit
 - DiscreteLimit
-- Via means "by way of". The Limit of Via shows where there is no more way
+- VIA means "by way of". The Limit of VIA shows where there is no more way
 
 :::

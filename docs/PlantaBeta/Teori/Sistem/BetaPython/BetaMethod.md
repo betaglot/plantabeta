@@ -133,7 +133,7 @@ Trees/Time
 
 "Get around the obstacle"
 
-### 🔷<beta>Get(<anima>Anima</anima>)</beta>
+### 🔷<beta>Get(<anima>ANIMA</anima>)</beta>
 
 > to achieve a neuro state
 

@@ -1,6 +1,6 @@
 # 🟩  <ekos>BurnPit</ekos>🟩
 
-- The area of Eko which is the remants of a burnt BurnPile.
+- The area of EKOS which is the remants of a burnt BurnPile.
 
 - There is usually very fine dust, which easily becomes airborne.  
 
@@ -20,7 +20,7 @@
 
 -
 
-### Related 💜<anima>Anima</anima>
+### Related 💜<anima>ANIMA</anima>
 
 -
 

@@ -23,7 +23,7 @@
 - FootPivot
 - TorsoTwist, so your Bags and hips are LateralMOTON, while Torso is facing Anterior
 
-### Related 💜<anima>Anima</anima>
+### Related 💜<anima>ANIMA</anima>
 
 -
 

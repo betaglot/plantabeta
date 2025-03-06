@@ -23,7 +23,7 @@ Aliases: Soil, Dirt, Ground
 
 -
 
-### Related 💜<anima>Anima</anima>
+### Related 💜<anima>ANIMA</anima>
 
 -
 

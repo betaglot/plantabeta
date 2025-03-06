@@ -37,7 +37,7 @@ You will not regret bringing duplicates of clothing. If you have the space then 
 
 :::
 
-## 💭 <anima>Anima Instruments</anima>
+## 💭 <anima>ANIMA Instruments</anima>
 
 Instruments you need for your brain.
 
@@ -64,7 +64,7 @@ Instruments you need for your brain.
 
 :::
 
-## 🔻 <via>Via Instruments</via>
+## 🔻 <via>VIA Instruments</via>
 
 Instruments you need for your vias
 

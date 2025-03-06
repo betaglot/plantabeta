@@ -18,7 +18,7 @@ Aliases: Tree, Neophyte, Seedling
 
 -
 
-### Related 💜<anima>Anima</anima>
+### Related 💜<anima>ANIMA</anima>
 
 -
 

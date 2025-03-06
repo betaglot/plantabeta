@@ -16,7 +16,7 @@ Aliases: Spade Clean, Spade Purge
 
 -
 
-### Related 💜<anima>Anima</anima>
+### Related 💜<anima>ANIMA</anima>
 
 -
 

@@ -62,7 +62,7 @@ Neon
 
 :::
 <!--  -->
-::: details What does a typical planting Eko look like?
+::: details What does a typical planting EKOS look like?
 
 ---
 

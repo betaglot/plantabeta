@@ -1,4 +1,4 @@
-# 🔷🟠 Motor Teori
+# 🔷🟠 MOTOR Teori
 
 A RICscore description for a single MOTON.
 
@@ -11,7 +11,7 @@ A RICscore description for a single MOTON.
     - A Theoria description for a single MOTONPattern, which is composed of many MOTONs.
     - Used to compare multiple MOTONPatterns.
 
-## Unlike Via, Motor Pages are composed of Definitions and Propositions
+## Unlike Via, MOTOR Pages are composed of Definitions and Propositions
 
 This is a Jump (Teorem), this is how to Jump (Problem), this is you jumping (Praktik)
 
@@ -19,7 +19,7 @@ This is a BoustroLine (Teorem), this how to construction a BoutroLine (Problem),
 
 Propositions never have errors. Errors only occur in Praktik
 
-There is less Via than MOTONs. It makes more sense to group MOTONElements by their definitions (their concrete objects)
+There is less VIA than MOTONs. It makes more sense to group MOTONElements by their definitions (their concrete objects)
 
 Each BetaTipos is like a Book
 

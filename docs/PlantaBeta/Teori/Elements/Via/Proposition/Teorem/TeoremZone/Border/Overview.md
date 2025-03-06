@@ -18,7 +18,7 @@ Aliases: Border, Boundary
 
 -
 
-### Related 💜<anima>Anima</anima>
+### Related 💜<anima>ANIMA</anima>
 
 -
 

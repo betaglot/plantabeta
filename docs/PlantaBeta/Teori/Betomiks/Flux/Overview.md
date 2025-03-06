@@ -1,6 +1,6 @@
-# BetaFlux
+# Flux
 
-> Flux between Optiks is analogous to Flux between BetaMoments
+>
 
 ## Purpose
 
@@ -60,6 +60,6 @@ EyeMove.Via
 <!-- =================================================== -->
 ::: details 🛠
 
--
+- McCloud uses the term "Flow" instead of "Flux", but "Flow" is not Polyglot
 
 :::

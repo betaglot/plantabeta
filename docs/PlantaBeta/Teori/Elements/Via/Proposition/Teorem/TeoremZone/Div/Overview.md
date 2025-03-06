@@ -10,7 +10,7 @@
 ::: details 🛠
 
 - Div can be a road. Roads aren't in Pieces and not necessarily in blocks either.
-- Div is Via not Labor
+- Div is VIA not Labor
 - Div is a Zone
 
 :::

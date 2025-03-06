@@ -46,7 +46,7 @@ GlobalEko: OverhangWall
 
 ## Calling
 
-Eko Elements methods can call other BetaTypes
+EKOS Elements methods can call other BetaTypes
 
 ## Execution Sequence
 

@@ -1,3 +1,10 @@
+---
+
+outline: false 
+sidebar: false
+
+---
+
 # Guide
 
 ---

@@ -20,7 +20,7 @@
 
 -
 
-### Related 💜<anima>Anima</anima>
+### Related 💜<anima>ANIMA</anima>
 
 -
 
@@ -39,7 +39,7 @@
     - Implies HorizontalBranch
 - SlapStick
     - Rake step
-- Eko branch leverage for break. Norah Impaled
+- EKOS branch leverage for break. Norah Impaled
 - UlnarDeviationSnap
     - Release once you hear the snap, then bump to PinchMano to bring Distal and Medial sides of break to parallel to fully break the branch. Sometimes the bark keeps both sides attached.
 - BrazoAma to TrunkPush or BranchPush like pushing open a door. There is also ArmAbduction

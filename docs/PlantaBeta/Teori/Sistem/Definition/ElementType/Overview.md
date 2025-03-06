@@ -12,7 +12,7 @@ A method can be a Problema
 - 🟠<motor>MOTON</motor>
 - 🔻<via>VIUM</via>
 - 🟩<ekos>EKON</ekos>
-- 💜<anima>Anima</anima>
+- 💜<anima>ANIMA</anima>
 - ⭐<labos>LABOR</labos>
 
 ## Taxonomy of Elements
@@ -35,10 +35,10 @@ Elements combined together become a new element, not a Compound like Chemistry.
 ## Collection of Elements
 
 - MOTON collections are called Phrases
-- Via collections are called Passages
-- Eko collections are called Set, Sections, (Piece,Pitch), Block
+- VIA collections are called Passages
+- EKOS collections are called Set, Sections, (Piece,Pitch), Block
 - Beta collections are called Blocks
-- Anima collections are called Processes
+- ANIMA collections are called Processes
 
 ### Element Sequence
 

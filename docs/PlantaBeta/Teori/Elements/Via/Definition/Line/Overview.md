@@ -21,7 +21,7 @@ Aliases: Path, Way, Route, Passage, Trail
 
 -
 
-### Related 💜<anima>Anima</anima>
+### Related 💜<anima>ANIMA</anima>
 
 -
 
@@ -36,7 +36,7 @@ Aliases: Path, Way, Route, Passage, Trail
 
 - Remember that there can be many different ways to MOTON along a given line. Line and MOTON are independent of each other.
 
-- The Sequence of Via is a Line
+- The Sequence of VIA is a Line
     - Analogy(MOTON: Frase, Via: Line), then what are the Elements of a Line? Geometry?
         - MOTON->Frase->Composition
         - What->Line->Proposition

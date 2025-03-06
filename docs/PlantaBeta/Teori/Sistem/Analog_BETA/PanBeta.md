@@ -26,7 +26,7 @@ Import
 
 ### 🔷<beta>BETA</beta>
 
-### 💜<anima>ArcheryBeta.Anima</anima>
+### 💜<anima>ArcheryBeta.ANIMA</anima>
 
 ### 🟩<ekos>ArcheryBeta.EKO</ekos>
 
@@ -54,7 +54,7 @@ Passing
 
 ### 🔷<beta>BETA: BetaDiagram=PlayDiagram,</beta>
 
-### 💜<anima>BasketballBeta.Anima</anima>
+### 💜<anima>BasketballBeta.ANIMA</anima>
 
 ### 🟩<ekos>.BasketballBetaEKO: =Opponent</ekos>
 
@@ -75,7 +75,7 @@ Passing
 
 ### 🔷<beta>BETA</beta>
 
-### 💜<anima>BikeBeta.Anima</anima>
+### 💜<anima>BikeBeta.ANIMA</anima>
 
 ### 🟩<ekos>BikeBeta.EKO</ekos>
 
@@ -91,7 +91,7 @@ Passing
 
 ### 🔷<beta>BETA</beta>
 
-### 💜<anima>BmxBeta.Anima</anima>
+### 💜<anima>BmxBeta.ANIMA</anima>
 
 ### 🟩<ekos>BmxBeta.EKO</ekos>
 
@@ -105,7 +105,7 @@ Passing
 
 ### 🔷<beta>BETA</beta>
 
-### 💜<anima>BoxingBeta.Anima</anima>
+### 💜<anima>BoxingBeta.ANIMA</anima>
 
 ### 🟩<ekos>BoxingBeta.EKO: Plant=Opponent</ekos>
 
@@ -126,7 +126,7 @@ Passing
 
 ### 🔷<beta>BETA</beta>
 
-### 💜<anima>HipHopBeta.Anima</anima>
+### 💜<anima>HipHopBeta.ANIMA</anima>
 
 ### 🟩<ekos>HipHopBeta.EKO</ekos>
 
@@ -138,7 +138,7 @@ Passing
 
 ### 🔷<beta>BETA</beta>
 
-### 💜<anima>CalisthenicBeta.Anima</anima>
+### 💜<anima>CalisthenicBeta.ANIMA</anima>
 
 ### 🟩<ekos>CalisthenicBeta.EKO</ekos>
 
@@ -152,7 +152,7 @@ Passing
 
 ### 🔷<beta>BETA</beta>
 
-### 💜<anima>CanoeBeta.Anima</anima>
+### 💜<anima>CanoeBeta.ANIMA</anima>
 
 ### 🟩<ekos>CanoeBeta.EKO</ekos>
 
@@ -176,7 +176,7 @@ Passing
 
 ### 🔷<beta>BETA</beta>
 
-### 💜<anima>DiveBeta.Anima</anima>
+### 💜<anima>DiveBeta.ANIMA</anima>
 
 ### 🟩<ekos>DiveBeta.EKO</ekos>
 
@@ -196,7 +196,7 @@ Passing
 
 ### 🔷<beta>BETA</beta>
 
-### 💜<anima>FigureSkatingBeta.Anima</anima>
+### 💜<anima>FigureSkatingBeta.ANIMA</anima>
 
 ### 🟩<ekos>FigureSkatingBeta.EKO</ekos>
 
@@ -210,7 +210,7 @@ Passing
 
 ### 🔷<beta>BETA</beta>
 
-### 💜<anima>FootbagBeta.Anima</anima>
+### 💜<anima>FootbagBeta.ANIMA</anima>
 
 ### 🟩<ekos>FootbagBeta.EKO</ekos>
 
@@ -225,7 +225,7 @@ Passing
 
 ### 🔷<beta>BETA: BetaDiagram=PlayDiagram</beta>
 
-### 💜<anima>FootballBeta.Anima</anima>
+### 💜<anima>FootballBeta.ANIMA</anima>
 
 ### 🟩<ekos>FootballBeta.EKO</ekos>
 
@@ -239,7 +239,7 @@ Passing
 
 ### 🔷<beta>BETA</beta>
 
-### 💜<anima>GolfBeta.Anima</anima>
+### 💜<anima>GolfBeta.ANIMA</anima>
 
 ### 🟩<ekos>GolfBeta.EKO</ekos>
 
@@ -255,7 +255,7 @@ Puck not Hockey since Hockey requires Anatagonists
 
 ### 🔷<beta>BETA: BetaDiagram=PlayDiagram</beta>
 
-### 💜<anima>PuckBeta.Anima</anima>
+### 💜<anima>PuckBeta.ANIMA</anima>
 
 ### 🟩<ekos>PuckBeta.EKO</ekos>
 
@@ -278,7 +278,7 @@ Puck not Hockey since Hockey requires Anatagonists
 
 ### 🔷<beta>BETA</beta>
 
-### 💜<anima>JavelinBeta.Anima</anima>
+### 💜<anima>JavelinBeta.ANIMA</anima>
 
 ### 🟩<ekos>JavelinBeta.EKO</ekos>
 
@@ -292,7 +292,7 @@ Puck not Hockey since Hockey requires Anatagonists
 
 ### 🔷<beta>BETA</beta>
 
-### 💜<anima>JugglingBeta.Anima</anima>
+### 💜<anima>JugglingBeta.ANIMA</anima>
 
 ### 🟩<ekos>.EKO</ekos>
 
@@ -306,7 +306,7 @@ Puck not Hockey since Hockey requires Anatagonists
 
 ### 🔷<beta>BETA</beta>
 
-### 💜<anima>KayakBeta.Anima</anima>
+### 💜<anima>KayakBeta.ANIMA</anima>
 
 ### 🟩<ekos>KayakBeta.EKO</ekos>
 
@@ -322,7 +322,7 @@ Puck not Hockey since Hockey requires Anatagonists
 
 ### 🔷<beta>BETA</beta>
 
-### 💜<anima>KirkosBeta.Anima</anima>
+### 💜<anima>KirkosBeta.ANIMA</anima>
 
 ### 🟩<ekos>KirkosBeta.EKO</ekos>
 
@@ -348,7 +348,7 @@ IKEA Beta
 
 ### 🔷<beta>BETA</beta>
 
-### 💜<anima>LongJumpBeta.Anima</anima>
+### 💜<anima>LongJumpBeta.ANIMA</anima>
 
 ### 🟩<ekos>LongJumpBeta.EKO</ekos>
 
@@ -364,7 +364,7 @@ IKEA Beta
 
 ### 🔷<beta>BETA</beta>
 
-### 💜<anima>LugeBeta.Anima</anima>
+### 💜<anima>LugeBeta.ANIMA</anima>
 
 ### 🟩<ekos>LugeBeta.EKO</ekos>
 
@@ -374,13 +374,13 @@ IKEA Beta
 
 ## 🔷<beta>MusicBeta</beta>
 
-> The Beta of playing instruments, conducting and the Anima of BetaComposition
+> The Beta of playing instruments, conducting and the ANIMA of BetaComposition
 
 ### BetaAnalogy
 
 ### 🔷<beta>BETA</beta>
 
-### 💜<anima>MusicBeta.Anima</anima>
+### 💜<anima>MusicBeta.ANIMA</anima>
 
 ### 🟩<ekos>MusicBeta.EKO</ekos>
 
@@ -396,7 +396,7 @@ IKEA Beta
 
 ### 🔷<beta>BETA</beta>
 
-### 💜<anima>ParkourBeta.Anima</anima>
+### 💜<anima>ParkourBeta.ANIMA</anima>
 
 ### 🟩<ekos>ParkourBeta.EKO</ekos>
 
@@ -410,7 +410,7 @@ IKEA Beta
 
 ### 🔷<beta>BETA</beta>
 
-### 💜<anima>PoleVaultBeta.Anima</anima>
+### 💜<anima>PoleVaultBeta.ANIMA</anima>
 
 ### 🟩<ekos>PoleVaultBeta.EKO</ekos>
 
@@ -424,7 +424,7 @@ IKEA Beta
 
 ### 🔷<beta>BETA</beta>
 
-### 💜<anima>LiftBeta.Anima</anima>
+### 💜<anima>LiftBeta.ANIMA</anima>
 
 ### 🟩<ekos>LiftBeta.EKO</ekos>
 
@@ -445,7 +445,7 @@ NitroCircus
 
 ### 🔷<beta>BETA</beta>
 
-### 💜<anima>ScooterBeta.Anima</anima>
+### 💜<anima>ScooterBeta.ANIMA</anima>
 
 ### 🟩<ekos>ScooterBeta.EKO</ekos>
 
@@ -469,7 +469,7 @@ What is the name of the scooter's shaft?
 
 ### 🔷<beta>BETA</beta>
 
-### 💜<anima>ShotPutBeta.Anima</anima>
+### 💜<anima>ShotPutBeta.ANIMA</anima>
 
 ### 🟩<ekos>ShotPutBeta.EKO</ekos>
 
@@ -483,7 +483,7 @@ What is the name of the scooter's shaft?
 
 ### 🔷<beta>BETA</beta>
 
-### 💜<anima>SkeletonBeta.Anima</anima>
+### 💜<anima>SkeletonBeta.ANIMA</anima>
 
 ### 🟩<ekos>SkeletonBeta.EKO</ekos>
 
@@ -497,7 +497,7 @@ What is the name of the scooter's shaft?
 
 ### 🔷<beta>BETA</beta>
 
-### 💜<anima>SkiAerialBeta.Anima</anima>
+### 💜<anima>SkiAerialBeta.ANIMA</anima>
 
 ### 🟩<ekos>SkiAerialBeta.EKO</ekos>
 
@@ -515,7 +515,7 @@ You're the elder you make the norms. No one can stop you. Anything other than ki
 
 ### 🔷<beta>BETA: Plantbeta=SkiBeta</beta>
 
-### 💜<anima>SkiAlpineBeta.Anima</anima>
+### 💜<anima>SkiAlpineBeta.ANIMA</anima>
 
 ### 🟩<ekos>SkiAlpineBeta.EKO: Topography=Topography, Microsite=Gate</ekos>
 
@@ -541,7 +541,7 @@ Planting while your body is moving away or towards hole
 
 ### 🔷<beta>BETA</beta>
 
-### 💜<anima>SkiJumpBeta.Anima</anima>
+### 💜<anima>SkiJumpBeta.ANIMA</anima>
 
 ### 🟩<ekos>SkiJumpBeta.EKO</ekos>
 
@@ -555,7 +555,7 @@ Planting while your body is moving away or towards hole
 
 ### 🔷<beta>BETA</beta>
 
-### 💜<anima>MogulBeta.Anima</anima>
+### 💜<anima>MogulBeta.ANIMA</anima>
 
 ### 🟩<ekos>MogulBeta.EKO</ekos>
 
@@ -569,7 +569,7 @@ Planting while your body is moving away or towards hole
 
 ### 🔷<beta>BETA</beta>
 
-### 💜<anima>SnowboardBeta.Anima</anima>
+### 💜<anima>SnowboardBeta.ANIMA</anima>
 
 ### 🟩<ekos>SnowboardBeta.EKO</ekos>
 
@@ -583,7 +583,7 @@ Planting while your body is moving away or towards hole
 
 ### 🔷<beta>BETA</beta>
 
-### 💜<anima>SnowParkBeta.Anima</anima>
+### 💜<anima>SnowParkBeta.ANIMA</anima>
 
 ### 🟩<ekos>SnowParkBeta.EKO</ekos>
 
@@ -597,7 +597,7 @@ Planting while your body is moving away or towards hole
 
 ### 🔷<beta>BETA: Element=Maneuver </beta>
 
-### 💜<anima>SurfBeta.Anima</anima>
+### 💜<anima>SurfBeta.ANIMA</anima>
 
 ### 🟩<ekos>SurfBeta.EKO: Land=Wave</ekos>
 
@@ -611,7 +611,7 @@ Planting while your body is moving away or towards hole
 
 ### 🔷<beta>SwimBeta.BETA</beta>
 
-### 💜<anima>SwimBeta.Anima</anima>
+### 💜<anima>SwimBeta.ANIMA</anima>
 
 ### 🟩<ekos>SwimBeta.EKO</ekos>
 
@@ -623,7 +623,7 @@ Planting while your body is moving away or towards hole
 
 ### 🔷<beta>BETA</beta>
 
-### 💜<anima>TrampBeta.Anima</anima>
+### 💜<anima>TrampBeta.ANIMA</anima>
 
 ### 🟩<ekos>TrampBeta.EKO</ekos>
 
@@ -680,7 +680,7 @@ On the streets, on campus, in airports, in public transit
 
 ### 🔷<beta>BETA</beta>
 
-### 💜<anima>YogaBeta.Anima</anima>
+### 💜<anima>YogaBeta.ANIMA</anima>
 
 ### 🟩<ekos>YogaBeta.EKO</ekos>
 
@@ -705,7 +705,7 @@ betaglot_activities = {
     - Proposition, Definition, Theorem, Problem
 - Wushu
 - Golden Age of Planting
-- Natural language is Anima not Beta
+- Natural language is ANIMA not Beta
 - Beta diagram of each interdisciplinary, show where each of the modules is on their
 - Contradiction is confusing. A Benefit of canon is convention
 - Consilience, Interdisciplinary
@@ -715,7 +715,7 @@ betaglot_activities = {
     - Apex of SpadeSlam is TrampBeta while Spade impact is DiveBeta. SpadeSwing is RingsBeta. Legs are doing DanceBeta Foutette at Slam. Apex to move body and to counteract any offbalancing forces from SpadeSwing
 - Compulsory Elements
     - The superclass of Elements is Apparatus since most elements. Apparatus is an Ekon.
-    - ElementGraph is not just MOTON, nodes can be any of the BetaTypes. Ekon branches down into Anima or move
+    - ElementGraph is not just MOTON, nodes can be any of the BetaTypes. Ekon branches down into ANIMA or move
 - CheerBeta see Dallas Cowboys Cheerleaders
 - (BetaQuotient)InsteadOf(BetaIndex,BETAMETRON)
 :::

@@ -16,7 +16,7 @@ Aliases: Test, Probe, Validate, Verify, Examine
 
 -
 
-### Related 💜<anima>Anima</anima>
+### Related 💜<anima>ANIMA</anima>
 
 -
 

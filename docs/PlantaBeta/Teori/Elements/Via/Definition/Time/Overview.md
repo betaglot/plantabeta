@@ -1,6 +1,6 @@
 # 🔻<via>Time</via>
 
-> Via requires Time
+> VIA requires Time
 
 ## 🕸 Time.Skema
 
@@ -16,7 +16,7 @@
 
 -
 
-### Related 💜<anima>Anima</anima>
+### Related 💜<anima>ANIMA</anima>
 
 -
 
@@ -30,6 +30,6 @@
 ::: details 🛠
 
 - ❌<error>MOTON doesn't require Time. (ArmLock, LegLock, Stand, any pose). Stationary MOTONs don't require Via.</error>
-    - A Via of 0 is still a Via. PertainentNegative, music is about the silence between notes
+    - A VIA of 0 is still a Via. PertainentNegative, music is about the silence between notes
 
 :::

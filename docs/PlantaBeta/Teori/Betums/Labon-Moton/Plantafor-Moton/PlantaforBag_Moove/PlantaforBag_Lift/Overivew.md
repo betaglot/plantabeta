@@ -16,7 +16,7 @@
 
 -
 
-### Related 💜<anima>Anima</anima>
+### Related 💜<anima>ANIMA</anima>
 
 -
 
@@ -31,7 +31,7 @@
 
 - Lift Bags when BagSnag
 - Lift and Pull bags through a thicket
-- The Via is almost always 🔻<via>Over</via>
+- The VIA is almost always 🔻<via>Over</via>
 - Over HighStump on DeclineWalk
 - Constriction
 - Lift over Obstacle

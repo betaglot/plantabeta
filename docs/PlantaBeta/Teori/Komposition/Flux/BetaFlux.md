@@ -26,7 +26,7 @@ Aliases: Flow, Fluidity, Fluency, Transition
 - Linked MOTONment
     - ((CurrentMOTON.FinishMOTON == PostMOTON.StartMOTON) = (AnteMOTON.FinishMOTON == CurrentMOTON.StartMOTON))
 
-## 💜<anima>Anima.Flux</anima>
+## 💜<anima>ANIMA.Flux</anima>
 
 - FlowState
 - CognitiveEase == CognitiveFluency
