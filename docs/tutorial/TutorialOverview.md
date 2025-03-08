@@ -13,7 +13,13 @@ Multiple choice tests, where Plantors choose from a selection of images or a sel
 - Error Dectection
 - Crosswords
 
-## EKOS Test
+## 🌈<beta>BETA Test</beta>
+
+## ⭐<labor>LABOR Test</labor>
+
+## 🔷<soma>SOMA Test</soma>
+
+## 🟩<ekos>EKOS Test</ekos>
 
 - Tree Genus Identification (Species Identification is more nuanced than required)
 
@@ -31,13 +37,11 @@ treeList = [
     ]
 ```
 
-## LABOR Test
+## 🔻<via>VIA Test</via>
 
-## VIA Test
+## 🟠<motor>MOTON Test</motor>
 
-## MOTON Test
-
-## ANIMA Test
+## 💜<anima>ANIMA Test</anima>
 
 ---
 

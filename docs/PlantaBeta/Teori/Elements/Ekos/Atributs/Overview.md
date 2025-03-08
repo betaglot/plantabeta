@@ -1,4 +1,4 @@
-# 🔷<beta>ATRIBUTOS</beta>
+# 🟩<ekos>EKON: Atributs</ekos>
 
 ## Class Attribute
 

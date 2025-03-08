@@ -1,4 +1,4 @@
-# Problem Plantor
+# 🔷<soma>SOMA: Problems</soma>
 
 ---
 
@@ -9,9 +9,6 @@
 <!-- =================================================== -->
 ::: details 🛠
 
-- To WarmUp
-- To CoolDown
-- To Sleep
-- To MaintainGlucose
+-
 
 :::

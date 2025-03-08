@@ -23,7 +23,7 @@ features:
   - icon: 🤔
     title: Learn
     details: Learn how to use PlantaBeta
-    link: /PlantaBeta/TutorialOverview
+    link: /tutorial/TutorialOverview
   - icon: 🛠️
     title: Dev
     details: Last Updated on March 2, 2025

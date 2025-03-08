@@ -1,4 +1,4 @@
-# 🟠 <motor>MOTONDefinitions</motor>
+# 🟠 <motor>MOTOR: Definitions</motor>
 
 ---
 

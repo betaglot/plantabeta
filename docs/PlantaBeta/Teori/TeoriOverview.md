@@ -1,12 +1,10 @@
 # TEORI
 
->
-
 ![PlantaBetaLogo](/PlantaBeta_Logo.png)
 
-## [SISTEM](/PlantaBeta/Teori/Sistem/SistemOverview)
+## [PLANTABETA's SISTEM](/PlantaBeta/Teori/Sistem/SistemOverview)
 
-## [ELEMENTs](/PlantaBeta/Teori/Elements/ElementsOverview)
+## [PLANTABETA's ELEMENTS](/PlantaBeta/Teori/Elements/ElementsOverview)
 
 ### [⭐<labor>LABOR</labor>⭐![ElementGroup](/Ikon/Labor_Ikon.png)](/PlantaBeta/Teori/Elements/Labor/LaborOverview)
 
@@ -20,11 +18,11 @@
 
 ### [💜<anima>ANIMA</anima>💜![ElementGroup](/Ikon/Anima_Ikon.png)](/PlantaBeta/Teori/Elements/ANIMA/AnimaOverview)
 
-## [BETUMs](/PlantaBeta/Teori/Betums/BetumsOverview)
+## [🌈<beta>BETA</beta>](/PlantaBeta/Teori/Betums/BetumsOverview)
 
-## [KOMPOSITION](/PlantaBeta/Teori/Komposition/KompositionOverview)
+## [PLANTABETA KOMPOSITION](/PlantaBeta/Teori/Komposition/KompositionOverview)
 
-## [BETOMIKS](/PlantaBeta/Teori/Betomiks/BetomiksOverview)
+## [PLANTABETA's BETOMIKS](/PlantaBeta/Teori/Betomiks/BetomiksOverview)
 
 ---
 

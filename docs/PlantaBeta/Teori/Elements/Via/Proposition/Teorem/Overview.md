@@ -1,4 +1,4 @@
-# 🔻 <via>VIA Teorem</via>
+# 🔻 <via>VIA: Teorems</via>
 
 > a statement about VIA that can be shown to be true
 

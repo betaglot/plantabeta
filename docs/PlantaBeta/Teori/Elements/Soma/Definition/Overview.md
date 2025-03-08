@@ -1,4 +1,4 @@
-# 🔷<soma>SOMA Definitions</soma>
+# 🔷<soma>SOMA: Definitions</soma>
 
 ---
 

@@ -1,4 +1,4 @@
-# 🔻 <via>VIA Problem</via>
+# 🔻 <via>VIA: Problems</via>
 
 > a situation, or thing that needs attention and needs to be dealt with or solved by Via
 

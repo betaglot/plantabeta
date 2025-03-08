@@ -1,4 +1,4 @@
-# 🔻<via>ViaDefinitions</via>
+# 🔻<via>VIA: Definitions</via>
 
 ---
 

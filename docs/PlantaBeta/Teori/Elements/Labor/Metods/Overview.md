@@ -1,4 +1,4 @@
-# 🟩<ekos>EkonMetods</ekos>
+# ⭐<labor>LABON: Metods</labor>
 
 ---
 

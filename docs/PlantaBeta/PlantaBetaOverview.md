@@ -7,27 +7,13 @@ sidebar: false
 
 # <beta>What is PLANTABETA?</beta>
 
-> PLANTABETA or "BETA" for short, is the **information** that you use to perform planting tasks.
+## <beta>PLANTABETA Logo</beta>
 
-<beta>BETA</beta> emerges from the interactions between <ekos>EKOS</ekos>, <motor>MOTON</motor>, <via>VIA</via> and <anima>ANIMA</anima>.
+::: details Why is it called <beta>PLANTABETA</beta>?
 
-## <beta>PLANTABETA Symbol</beta>
+## Etymology of "<beta>PLANTABETA</beta>"
 
-::: details Why is it called <beta>BETA</beta>?
-
-## Etymology of "<beta>BETA</beta>" and "<beta>PLANTABETA</beta>"
-
-Betamax was a piece of hardware (similar to a VHS tape or cassete) which was used by climbers to record video of themselves climbing a rock. Climbers would share their Betamax tapes to give their friends information about how to climb a piece of rock.  
-
-- If you're a climber, then you're likely familiar with the term "beta"
-
-> In climbing _beta_ is the information about the _motos_, _sequences_, and _holds_ of a climb. If someone asks you for a climb's BETA, then they want to know how you climbed it.
-
-> BETA could be something as simple as the general type of _holds_, like “it’s all slopers” or just the type of rock and length.
-
-> BETA in climbing can be very detailed down to the exact way you _Mano_ a specific hold i.e. “pinch the left side with your first two fingers so there’s space to match with your other hand”.
-
-## Analogy between Climbing and Planting
+## Analogies between Climbing and Planting
 
 This each line are analog pairs. The equal signs = denotes where Climbing and Planting are exactly the same.
 
@@ -85,10 +71,6 @@ This each line are analog pairs. The equal signs = denotes where Climbing and Pl
 
 - Everything is an Object, like Python
 
-> BETA is what you actually do implement
-> Elements are just options possibilities
-> BETA requires decision
-
 Each PlantaBETA module is composed of problems and theorems. Problems all have solutions, they aren't proven valid yet, but are still useful for development. Pertainent negative. Science proves hypotheses wrong. NullHypotheses.
 
 EKOS doesn't have any problems or theorems
@@ -111,44 +93,6 @@ BETA can be a description or an instruction
 - "BETA.Overview"
 
 - VIA just gives the options, BETA is required to Solve, since solution requires MOTON. BETA occurs when more than module is required in 1stPersonPoint of view. Plantor's perspective.
-
-- Separate the semantics by inflecting "beta", like "Betum"
-    - BETA is:
-        - An Experience: BETA PRAKTIK
-            - thought can be the experience
-                - calming yourself down is beta
-                    - I need to stay calm
-                - ERROR: you can also think about thinking
-                    "I psyched myself out"
-            - being the beta
-                - living the beta
-                - embodying the beta
-            - That beta didn't work
-            - I'm going to copy your beta
-            - Implementation
-            - Execution
-        - A representation of the Experience: BETA TEORI
-            - Spectating BETA
-                - Watch them practice
-                    - Watching their Praktik, but not participating in the Praktik
-                - You don't Experience their beta, since it's impossible to directly experience someone else's ANIMA. It's impossible to know if the color that you name "red" is the same color as someone else's "red".
-            - Abstraction
-                - Skema
-                - Thought
-            - Video
-            - Speech
-                - What synonym for speech is totally analog?
-                    - in person
-                - Asking for beta
-                - Talking about beta with another person
-            - GraphicRepresentation: Betomik
-                - Chart
-                - Website
-                - Book
-                - Sketch
-                - Text
-                    - Book
-            - Communication
 
 - BETAglot is the Parent Organization of PlantaBeta and KlimBeta
     - BETAGLOT.org is the Website
