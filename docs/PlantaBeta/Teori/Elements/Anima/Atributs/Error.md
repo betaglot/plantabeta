@@ -1,16 +1,14 @@
-# 🟩<ekos>EKON: Teknik</ekos>
+# 💜<anima>ANIMON: Error</anima>
 
-## Definition
+> any errors that can occur during the practice of this Element
 
-## Examples of Environment Complexity
+## 🔷<beta>BetaAnalogy</beta>
 
-### Low Environment Complexity
+Error in performance
 
-### High Environment Complexity
+Error in BetaPlan
 
-## Protection
-
-Protection.C(Boulder < TopRope < SportRoute < TradRoute < MultipitchSportRoute < MultipitchTradRoute)
+- Using the wrong alternative
 
 ---
 

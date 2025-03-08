@@ -1,4 +1,4 @@
-# 🟩<ekos>EkoAnatomia</ekos>
+# ⭐<labor>LABON: Anatomia</labor>
 
 > the parts of the Element
 

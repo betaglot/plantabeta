@@ -1,4 +1,4 @@
-# 🟩<ekos>EkoError</ekos>
+# 🟩<ekos>EKON: Error</ekos>
 
 > any errors that can occur during the practice of this Element
 

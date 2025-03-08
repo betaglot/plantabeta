@@ -1,16 +1,21 @@
-# 🟩<ekos>EkoKuboi</ekos>
+# ⭐<labor>LABON: Kuboi</labor>
 
 ## Definition
 
-- Probability of Negative Environment
+- Probability of Negative LABOR
     - Improbable, Remote, Occasional, Probable, Frequent
-- Consequence of Negative Environment
+- Consequence of Negative LABOR
     - Negligible, Marginal, Moderate, Critical, Catastrophic
 
-## Examples of Environment Risk
+---
 
-### Low Environment Risk
+<!-- =================================================== -->
+<!-- =================================================== -->
+<!-- =================================================== -->
+<!-- =================================================== -->
+<!-- =================================================== -->
+::: details 🛠
 
-### High Environment Risk
+-
 
-- Slab Wall
+:::

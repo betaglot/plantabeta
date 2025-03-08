@@ -1,16 +1,12 @@
-# 🟩<ekos>EKON: Teknik</ekos>
+# 💜<anima>ANIMON: Telos</anima>
 
-## Definition
+> Teleology, (from Greek telos, “end,” and logos, “reason”), explanation by reference to some purpose, end, goal, or function.
 
-## Examples of Environment Complexity
+<https://www.britannica.com/topic/teleology>
 
-### Low Environment Complexity
+Why is this element used?
 
-### High Environment Complexity
-
-## Protection
-
-Protection.C(Boulder < TopRope < SportRoute < TradRoute < MultipitchSportRoute < MultipitchTradRoute)
+How does it fit into a greater whole?
 
 ---
 

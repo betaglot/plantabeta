@@ -1,4 +1,4 @@
-# 🟩<ekos>EkoMorfo</ekos>
+# 🟩<ekos>EKON: Morfo</ekos>
 
 ## 🔷<beta>BetaAnalogy</beta>
 

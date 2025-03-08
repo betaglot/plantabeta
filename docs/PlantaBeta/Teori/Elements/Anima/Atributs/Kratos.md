@@ -1,4 +1,4 @@
-# ⭐<labor>LABON: Kratos</labor>
+# 💜<anima>ANIMON: Kratos</anima>
 
 ## Definition
 

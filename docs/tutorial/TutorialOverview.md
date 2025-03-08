@@ -39,7 +39,7 @@ treeList = [
 
 ## 🔻<via>VIA Test</via>
 
-## 🟠<motor>MOTON Test</motor>
+## 🟠<motor>MOTOR Test</motor>
 
 ## 💜<anima>ANIMA Test</anima>
 

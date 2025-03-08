@@ -1,16 +1,19 @@
-# 🟩<ekos>EKON: Teknik</ekos>
+# 💜<anima>ANIMON: Kuboi</anima>
 
 ## Definition
 
-## Examples of Environment Complexity
+- Probability of Negative Environment
+    - Improbable, Remote, Occasional, Probable, Frequent
+- Consequence of Negative Environment
+    - Negligible, Marginal, Moderate, Critical, Catastrophic
 
-### Low Environment Complexity
+## Examples of Environment Risk
 
-### High Environment Complexity
+### Low Environment Risk
 
-## Protection
+### High Environment Risk
 
-Protection.C(Boulder < TopRope < SportRoute < TradRoute < MultipitchSportRoute < MultipitchTradRoute)
+- Slab Wall
 
 ---
 

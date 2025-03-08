@@ -1,4 +1,4 @@
-# 🟩<ekos>EKON: Flux</ekos>
+# 💜<anima>ANIMON: Flux</anima>
 
 Aliases: Flow, Flowing MOTONment, Fluidity, Fluid movement, Continuous, NonStop, Constantly Changing, ever moving, fleeting,
 
@@ -44,7 +44,7 @@ Transition from straight down slope to across the slope.
 
 Transition to another Direction
 
-## EKOS Transition
+## EKO Transition
 
 ### Plastekt
 

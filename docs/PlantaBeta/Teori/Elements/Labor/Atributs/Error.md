@@ -1,4 +1,4 @@
-# 🟩<ekos>EkoError</ekos>
+# ⭐<labor>LABON: Error</labor>
 
 > any errors that can occur during the practice of this Element
 

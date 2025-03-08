@@ -1,13 +1,14 @@
-# 🟩<ekos>EkoTeknik</ekos>
+# ⭐<labor>LABON: Teknik</labor>
 
-## Definition
+---
 
-## Examples of Environment Complexity
+<!-- =================================================== -->
+<!-- =================================================== -->
+<!-- =================================================== -->
+<!-- =================================================== -->
+<!-- =================================================== -->
+::: details 🛠
 
-### Low Environment Complexity
+-
 
-### High Environment Complexity
-
-## Protection
-
-Protection.C(Boulder < TopRope < SportRoute < TradRoute < MultipitchSportRoute < MultipitchTradRoute)
+:::

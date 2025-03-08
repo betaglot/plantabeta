@@ -1,16 +1,14 @@
-# 🟩<ekos>EKON: Teknik</ekos>
+# 💜<anima>ANIMON: Analogia</anima>
 
-## Definition
+> analogous Elements in other BetaSports
 
-## Examples of Environment Complexity
+## Exact Analogy
 
-### Low Environment Complexity
+## Strong Analogy
 
-### High Environment Complexity
+## Weak Analogy
 
-## Protection
-
-Protection.C(Boulder < TopRope < SportRoute < TradRoute < MultipitchSportRoute < MultipitchTradRoute)
+### 🔷<beta>BetaAnalogy</beta>
 
 ---
 

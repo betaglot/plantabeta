@@ -1,4 +1,4 @@
-# 🟩<ekos>EKON: Anatomia</ekos>
+# 💜<anima>ANIMON: Anatomia</anima>
 
 > the parts of the Element
 

@@ -1,4 +1,4 @@
-# 🟩<ekos>EkoAnalogia</ekos>
+# ⭐<labor>LABON: Analogia</labor>
 
 > analogous Elements in other BetaSports
 

@@ -1,16 +1,4 @@
-# 🟩<ekos>EKON: Teknik</ekos>
-
-## Definition
-
-## Examples of Environment Complexity
-
-### Low Environment Complexity
-
-### High Environment Complexity
-
-## Protection
-
-Protection.C(Boulder < TopRope < SportRoute < TradRoute < MultipitchSportRoute < MultipitchTradRoute)
+# 🌈<beta>BETA: Axioms</beta>
 
 ---
 
@@ -21,6 +9,7 @@ Protection.C(Boulder < TopRope < SportRoute < TradRoute < MultipitchSportRoute <
 <!-- =================================================== -->
 ::: details 🛠
 
--
+- Consent
+    - Don't spray Beta
 
 :::

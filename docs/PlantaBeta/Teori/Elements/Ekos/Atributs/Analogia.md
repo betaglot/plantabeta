@@ -1,4 +1,4 @@
-# 🟩<ekos>EkoAnalogia</ekos>
+# 🟩<ekos>EKON: Analogia</ekos>
 
 > analogous Elements in other BetaSports
 

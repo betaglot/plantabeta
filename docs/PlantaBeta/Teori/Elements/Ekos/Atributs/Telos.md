@@ -1,4 +1,4 @@
-# 🟩<ekos>EkoTelos</ekos>
+# 🟩<ekos>EKON: Telos</ekos>
 
 > Teleology, (from Greek telos, “end,” and logos, “reason”), explanation by reference to some purpose, end, goal, or function.
 
@@ -7,3 +7,16 @@
 Why is this element used?
 
 How does it fit into a greater whole?
+
+---
+
+<!-- =================================================== -->
+<!-- =================================================== -->
+<!-- =================================================== -->
+<!-- =================================================== -->
+<!-- =================================================== -->
+::: details 🛠
+
+-
+
+:::

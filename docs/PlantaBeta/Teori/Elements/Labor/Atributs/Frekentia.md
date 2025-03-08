@@ -1,4 +1,4 @@
-# 🟩<ekos>EkoFrekentia</ekos>
+# ⭐<labor>LABON: Frekentia</labor>
 
 > the statistics of this Element
 

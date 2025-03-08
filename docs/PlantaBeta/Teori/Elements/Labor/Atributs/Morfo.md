@@ -1,4 +1,4 @@
-# 🟩<ekos>EkoMorfo</ekos>
+# ⭐<labor>LABON: Morfo</labor>
 
 ## 🔷<beta>BetaAnalogy</beta>
 

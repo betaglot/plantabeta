@@ -1,24 +1,22 @@
-# 🌈 BETA
+# 🌈<beta>BETA</beta>
 
-> A BETUM is a unit of BETA
+> A <beta>BETUM</beta> is a unit of <beta>BETA</beta>
 
 > PLANTABETA or "BETA" for short, is the **information** that you use to perform planting tasks.
 
-<beta>BETA</beta> emerges from the interactions between <ekos>EKOS</ekos>, <motor>MOTON</motor>, <via>VIA</via> and <anima>ANIMA</anima>.
-
-A BETUM must be composed of at least two Elements of a different Group which occur within the same Moment
+A <beta>BETUM</beta> must be composed of at least two Elements of a different Group which occur within the same Moment
 
 ( 🔻<via>VION</via> +  🔻<via>VION</via>) ==  🔻<via>VION</via>
 
 ( 🔻<via>VION</via> +  🔻<via>VION</via> +  🔻<via>VION</via>) ==  🔻<via>VION</via>
 
-(🟩<ekos>EKON</ekos> +  🔻<via>VION</via>) == BETUM
+(🟩<ekos>EKON</ekos> +  🔻<via>VION</via>) == 🌈<beta>BETUM</beta>
 
-(🟩<ekos>EKON</ekos> +  🔻<via>VION</via> +  🔻<via>VION</via>) == BETUM
+(🟩<ekos>EKON</ekos> +  🔻<via>VION</via> +  🔻<via>VION</via>) == 🌈<beta>BETUM</beta>
 
-(🟩<ekos>EKON</ekos> +  🔻<via>VION</via> + 🟠<motor>MOTON</motor>) == BETUM
+(🟩<ekos>EKON</ekos> +  🔻<via>VION</via> + 🟠<motor>MOTON</motor>) == 🌈<beta>BETUM</beta>
 
-(⭐<labor>LABON</labor> + <soma>SOMON</soma> + 🟩<ekos>EKON</ekos> +  🔻<via>VION</via> + 🟠<motor>MOTON</motor> + 💜<anima>ANIMON</anima>) = BETUM
+(⭐<labor>LABON</labor> + 🔷<soma>SOMON</soma> + 🟩<ekos>EKON</ekos> +  🔻<via>VION</via> + 🟠<motor>MOTON</motor> + 💜<anima>ANIMON</anima>) = 🌈<beta>BETUM</beta>
 
 ::: details Etymology of "<beta>BETA</beta>" and "<beta>BETUM</beta>"
 

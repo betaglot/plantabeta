@@ -1,16 +1,6 @@
-# 🟩<ekos>EKON: Teknik</ekos>
+# 💜<anima>ANIMON: Alias</anima>
 
-## Definition
-
-## Examples of Environment Complexity
-
-### Low Environment Complexity
-
-### High Environment Complexity
-
-## Protection
-
-Protection.C(Boulder < TopRope < SportRoute < TradRoute < MultipitchSportRoute < MultipitchTradRoute)
+> other names used to refer to this Element. In english or other languages.
 
 ---
 

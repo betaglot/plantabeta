@@ -1,16 +1,16 @@
-# 🟩<ekos>EKON: Teknik</ekos>
+# 💜<anima>ANIMON: Frekentia</anima>
 
-## Definition
+> the statistics of this Element
 
-## Examples of Environment Complexity
+Statistics
 
-### Low Environment Complexity
+Frequency
 
-### High Environment Complexity
+Rare
 
-## Protection
+Common
 
-Protection.C(Boulder < TopRope < SportRoute < TradRoute < MultipitchSportRoute < MultipitchTradRoute)
+Often
 
 ---
 

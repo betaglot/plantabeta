@@ -1,16 +1,16 @@
-# 🟩<ekos>EKON: Teknik</ekos>
+# 💜<anima>ANIMON: Morfo</anima>
 
-## Definition
+## 🔷<beta>BetaAnalogy</beta>
 
-## Examples of Environment Complexity
+## BetaTypes
 
-### Low Environment Complexity
+🔻<via>VIA</via>, 🟩<ekos>EKO</ekos>, 🟠<motor>MOVE</motor>
 
-### High Environment Complexity
+## Relative Geometry
 
-## Protection
+A MOTON that's big for a small athlete, isn't big for a large athlete.
 
-Protection.C(Boulder < TopRope < SportRoute < TradRoute < MultipitchSportRoute < MultipitchTradRoute)
+Jumping a third of your height
 
 ---
 

@@ -23,37 +23,65 @@
   color: inherit;
 }
 
+.VPHero .VPButton {
+  background-image: linear-gradient(to right, #FFCC00,#569cd6,#6a9955,#f44747,#bf6a34,#c586c0);
+  /* color: transparent; */
+  /* background-clip: text;
+  -webkit-background-clip: text; */
+}
+
+beta {
+  font-weight: 900;
+  background-image: linear-gradient(to right, #FFCC00,#569cd6,#6a9955,#f44747,#bf6a34,#c586c0);
+  color: transparent;
+  background-clip: text;
+  -webkit-background-clip: text;
+
+}
+
+thick {
+  font-weight: 900;
+}
+
+labor {
+  font-weight: 900;
+  color:  #FFCC00;
+  
+}
+
+soma {
+  font-weight: 900;
+  color: #569cd6;
+}
+
+ekos {
+  font-weight: 900;
+  color: #6a9955;
+}
+
+via {
+  font-weight: 900;
+  color: #f44747;
+}
+
 motor {
+  font-weight: 900;
   color: #bf6a34;
 
 }
 
-via {
-  color: #f44747
-}
-
 anima {
-  color: #c586c0
-}
-
-soma {
-  color: #569cd6
-}
-
-ekos {
-  color: #6a9955
+  font-weight: 900;
+  color: #c586c0;
 }
 
 bg {
-  color: #1f1f1f
-}
-
-labor {
-  color:  #FFCC00
+  color: #1f1f1f;
 }
 
 py {
-  color: #6ec08b
+  font-weight: 900;
+  color: #6ec08b;
 }
 
 error {

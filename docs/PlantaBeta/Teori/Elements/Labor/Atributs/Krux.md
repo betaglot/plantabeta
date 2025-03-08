@@ -1,4 +1,4 @@
-# 🟩<ekos>EkoKrux</ekos>
+# ⭐<labor>LABON: Krux</labor>
 
 > the most difficult attribute of this Element
 

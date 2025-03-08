@@ -1,4 +1,4 @@
-# 🟩<ekos>EKON: Teknik</ekos>
+# 💜<anima>ANIMON: Teknik</anima>
 
 ## Definition
 
