@@ -1,4 +1,4 @@
-# 🌈<beta>BETA: Definitions</beta>
+# 💜<anima>ANIMON: Metods</anima>
 
 ---
 

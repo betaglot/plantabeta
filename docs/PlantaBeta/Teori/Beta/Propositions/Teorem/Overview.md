@@ -1,4 +1,4 @@
-# 🌈<beta>BETA: Definitions</beta>
+# 🌈<beta>BETA: Teorem</beta>
 
 ---
 

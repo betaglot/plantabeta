@@ -189,13 +189,12 @@ function sidebarTEORI() {
     // # BETOMIKS
     { text: 'SISTEM', link: '/PlantaBeta/Teori/Sistem/SistemOverview' },
     { text: 'ELEMENTS', link: '/PlantaBeta/Teori/Elements/ElementsOverview' },
-    { text: '🌈 BETA', link: '/PlantaBeta/Teori/Beta/BetaOverview' },
+    { text: '🌈 <beta>BETA</beta>', link: '/PlantaBeta/Teori/Beta/BetaOverview' },
     { text: 'KOMPOSITION', link: '' },
     { text: 'BETOMIKS', link: '/PlantaBeta/Teori/BETOMIKS/BETOMIKSoverview', },
     { text: 'LEXIKON', link: '/PlantaBeta/Teori/Elements/glossary/Glossary' },
   ]
 }
-
 
 function sidebarBetomiks() {
   return [
@@ -229,7 +228,6 @@ function sidebarKomposition() {
   ]
 }
 
-
 function sidebarSistem() {
   return [
     { text: '<strong>TEORI</strong>', link: '/PlantaBeta/Teori/Elements/TeoriOverview' },
@@ -242,11 +240,17 @@ function sidebarSistem() {
 function sidebarElements() {
   return [
     {
-      text: '<beta>TEORI</beta>', link: '/PlantaBeta/Teori/TeoriOverview'
+      text: 'TEORI', link: '/PlantaBeta/Teori/TeoriOverview'
     },
     // #LABOR
     {
       text: '⭐<labor>LABOR</labor>⭐', link: '/PlantaBeta/Teori/Elements/Labor/LaborOverview', collapsed: true, items: [
+        {
+          text: '<labor>LABON</labor>', link: '/PlantaBeta/Teori/Elements/Labor/Labon/Overview', collapsed: true, items: [
+            { text: '<labor>Atributs</labor>', link: '/PlantaBeta/Teori/Elements/Labor/Labon/Atributs/Overview', collapsed: true, items: [] },
+            { text: '<labor>Metods</labor>', link: '/PlantaBeta/Teori/Elements/Labor/Labon/Metods/Overview', collapsed: true, items: [] },
+          ]
+        },
         {
           text: '<labor>Definitions</Labor>', link: '/PlantaBeta/Teori/Elements/Labor/Definition/Overview', collapsed: true, items: [
           ]
@@ -257,12 +261,17 @@ function sidebarElements() {
             { text: '<labor>Problem</Labor>', link: '/PlantaBeta/Teori/Elements/Labor/Proposition/Problem/Overview', collapsed: true, items: [] },
           ]
         },
-        
       ]
     },
     // #SOMA
     {
       text: '🔷<soma>SOMA</soma>🔷', link: '/PlantaBeta/Teori/Elements/Soma/SomaOverview', collapsed: true, items: [
+        {
+          text: '🔷<soma>SOMON</soma>', link: '/PlantaBeta/Teori/Elements/Soma/Somon/Overview', collapsed: true, items: [
+            { text: '<soma>Atributs</soma>', link: '/PlantaBeta/Teori/Elements/Soma/Somon/Atributs/Overview', collapsed: true, items: [] },
+            { text: '<soma>Metods</soma>', link: '/PlantaBeta/Teori/Elements/Soma/Somon/Metods/Overview', collapsed: true, items: [] },
+          ]
+        },
         {
           text: '<soma>Definitions</soma>', link: '/PlantaBeta/Teori/Elements/Soma/Definition/Overview', collapsed: true, items: [
             { text: '🔷<soma>Korpos</soma>', link: '/PlantaBeta/Teori/Elements/Soma/Definition/Korpos' },
@@ -283,7 +292,12 @@ function sidebarElements() {
     // #EKOS
     {
       text: '🟩<ekos>EKOS</ekos>🟩', collapsed: true, link: '/PlantaBeta/Teori/Elements/Ekos/EkosOverview', items: [
-        { text: '<ekos>Atributs</ekos>', link: '/PlantaBeta/Teori/Elements/Ekos/Atributs/Overview', collapsed: true, items: [] },
+        {
+          text: '🟩<ekos>EKON</ekos>', link: '/PlantaBeta/Teori/Elements/Ekos/Ekon/Overview', collapsed: true, items: [
+            { text: '<ekos>Atributs</ekos>', link: '/PlantaBeta/Teori/Elements/Ekos/Ekon/Atributs/Overview', collapsed: true, items: [] },
+            { text: '<ekos>Metods</ekos>', link: '/PlantaBeta/Teori/Elements/Ekos/Ekon/Metods/Overview', collapsed: true, items: [] },
+          ]
+        },
         { text: '<ekos>Axioms</ekos>', link: '/PlantaBeta/Teori/Elements/Ekos/Axiom/Overview', collapsed: true, items: [] },
         { text: '<ekos>Definitions</ekos>', link: '/PlantaBeta/Teori/Elements/Ekos/Definition/Overview', collapsed: true, items: [] },
         {
@@ -297,7 +311,12 @@ function sidebarElements() {
     // #VIA
     {
       text: '🔻<via>VIA</via>🔻', link: '/PlantaBeta/Teori/Elements/Via/ViaOverview', collapsed: true, items: [
-        { text: '<via>Atributs</via>', link: '/PlantaBeta/Teori/Elements/Via/Atributs/Overview', collapsed: true, items: [] },
+        {
+          text: '🔻<via>VION</via>', link: '/PlantaBeta/Teori/Elements/Via/Vion/Overview', collapsed: true, items: [
+            { text: '<via>Atributs</via>', link: '/PlantaBeta/Teori/Elements/Via/Vion/Atributs/Overview', collapsed: true, items: [] },
+            { text: '<via>Metods</via>', link: '/PlantaBeta/Teori/Elements/Via/Vion/Metods/Overview', collapsed: true, items: [] },
+          ]
+        },
         { text: '<via>Axioms</via>', link: '/PlantaBeta/Teori/Elements/Via/Axiom/Overview', collapsed: true, items: [] },
         { text: '<via>Definitions</via>', link: '/PlantaBeta/Teori/Elements/Via/Definition/Overview', collapsed: true, items: [] },
         {
@@ -311,7 +330,12 @@ function sidebarElements() {
     // #MOTOR
     {
       text: '🟠<motor>MOTOR</motor>🟠', link: '/PlantaBeta/Teori/Elements/Motor/MotorOverview', collapsed: true, items: [
-        { text: '<motor>Atributs</motor>', link: '/PlantaBeta/Teori/Elements/Motor/Atributs/Overview', collapsed: true, items: [] },
+        {
+          text: '🟠<motor>MOTON</motor>', link: '/PlantaBeta/Teori/Elements/Motor/Moton/Overview', collapsed: true, items: [
+            { text: '<motor>Atributs</motor>', link: '/PlantaBeta/Teori/Elements/Motor/Moton/Atributs/Overview', collapsed: true, items: [] },
+            { text: '<motor>Metdods</motor>', link: '/PlantaBeta/Teori/Elements/Motor/Moton/Metods/Overview', collapsed: true, items: [] },
+          ]
+        },
         { text: '<motor>Axioms</motor>', link: '/PlantaBeta/Teori/Elements/Motor/Axiom/Overview', collapsed: true, items: [] },
         { text: '<motor>Definitions</motor>', link: '/PlantaBeta/Teori/Elements/Motor/Definition/Overview', collapsed: true, items: [] },
         {
@@ -325,7 +349,12 @@ function sidebarElements() {
     // #ANIMA
     {
       text: '💜<anima>ANIMA</anima>💜', link: '/PlantaBeta/Teori/Elements/Anima/AnimaOverview', collapsed: true, items: [
-        { text: '<anima>Atributs</anima>', link: '/PlantaBeta/Teori/Elements/Anima/Atributs/Overview', collapsed: true, items: [] },
+        {
+          text: '💜<anima>ANIMON</anima>', link: '/PlantaBeta/Teori/Elements/Anima/Animon/Overview', collapsed: true, items: [
+            { text: '<anima>Atributs</anima>', link: '/PlantaBeta/Teori/Elements/Anima/Animon/Atributs/Overview', collapsed: true, items: [] },
+            { text: '<anima>Metods</anima>', link: '/PlantaBeta/Teori/Elements/Anima/Animon/Metods/Overview', collapsed: true, items: [] },
+          ]
+        },
         { text: '<anima>Axioms</anima>', link: '/PlantaBeta/Teori/Elements/Anima/Axiom/Overview', collapsed: true, items: [] },
         { text: '<anima>Definitions</anima>', link: '/PlantaBeta/Teori/Elements/Anima/Definition/Overview', collapsed: true, items: [] },
         {
@@ -341,64 +370,81 @@ function sidebarElements() {
 
 function sidebarBeta() {
   return [
-    { text: '<strong>TEORI</strong>', link: '/PlantaBeta/Teori/Elements/TeoriOverview' },
-    { text: '<beta>BETA</beta>', link: '/PlantaBeta/Teori/Beta/BetaOverview' },
-    { text: '⭐-🔷', link: '/PlantaBeta/Teori/Beta/Labon-Somon/Overview', collapsed: true, items: [] },
-    { text: '⭐-🔷-🟩', link: '/PlantaBeta/Teori/Beta/Labon-Somon-Ekon/Overview', collapsed: true, items: [] },
-    { text: '⭐-🔷-🟩-🔻', link: '/PlantaBeta/Teori/Beta/Labon-Somon-Ekon-Vion/Overview', collapsed: true, items: [] },
-    { text: '⭐-🔷-🟩-🔻-🟠', link: '/PlantaBeta/Teori/Beta/Labon-Somon-Ekon-Vion-Moton/Overview', collapsed: true, items: [] },
-    { text: '⭐-🔷-🟩-🔻-🟠-💜', link: '/PlantaBeta/Teori/Beta/Labon-Somon-Ekon-Vion-Moton-Anima/Overview', collapsed: true, items: [] },
-    { text: '⭐-🔷-🟩-🔻-💜', link: '/PlantaBeta/Teori/Beta/Labon-Somon-Ekon-Vion-Animon/Overview', collapsed: true, items: [] },
-    { text: '⭐-🔷-🟩-🟠', link: '/PlantaBeta/Teori/Beta/Labon-Somon-Ekon-Moton/Overview', collapsed: true, items: [] },
-    { text: '⭐-🔷-🟩-🟠-💜', link: '/PlantaBeta/Teori/Beta/Labon-Somon-Ekon-Moton-Animon/Overview', collapsed: true, items: [] },
-    { text: '⭐-🔷-🟩-💜', link: '/PlantaBeta/Teori/Beta/Labon-Somon-Ekon/Animon', collapsed: true, items: [] },
-    { text: '⭐-🔷-🔻', link: '/PlantaBeta/Teori/Beta/Labon-Somon-Vion/Overview', collapsed: true, items: [] },
-    { text: '⭐-🔷-🔻-🟠', link: '/PlantaBeta/Teori/Beta/Labon-Somon-Vion-Moton/Overview', collapsed: true, items: [] },
-    { text: '⭐-🔷-🔻-🟠-💜', link: '/PlantaBeta/Teori/Beta/Labon-Somon-Vion-Moton-Animon/Overview', collapsed: true, items: [] },
-    { text: '⭐-🔷-🔻-💜', link: '/PlantaBeta/Teori/Beta/Labon-Somon-Vion-Animon/Overview', collapsed: true, items: [] },
-    { text: '⭐-🔷-🟠', link: '/PlantaBeta/Teori/Beta/Labon-Somon-Moton/Overview', collapsed: true, items: [] },
-    { text: '⭐-🔷-🟠-💜', link: '/PlantaBeta/Teori/Beta/Labon-Somon-Moton-Animon/Overview', collapsed: true, items: [] },
-    { text: '⭐-🔷-💜', link: '/PlantaBeta/Teori/Beta/Labon-Somon-Animon/Overview', collapsed: true, items: [] },
-    { text: '⭐-🟩', link: '/PlantaBeta/Teori/Beta/Labon-Ekon/Overview', collapsed: true, items: [] },
-    { text: '⭐-🟩-🔻', link: '/PlantaBeta/Teori/Beta/Labon-Ekon-Vion/Overview', collapsed: true, items: [] },
-    { text: '⭐-🟩-🔻-🟠', link: '/PlantaBeta/Teori/Beta/Labon-Ekon-Vion-Moton/Overview', collapsed: true, items: [] },
-    { text: '⭐-🟩-🔻-🟠-💜', link: '/PlantaBeta/Teori/Beta/Labon-Ekon-Vion-Moton-Animon/Overview', collapsed: true, items: [] },
-    { text: '⭐-🟩-🔻-💜', link: '/PlantaBeta/Teori/Beta/Labon-Ekon-Vion-Animon/Overview', collapsed: true, items: [] },
-    { text: '⭐-🟩-🟠', link: '/PlantaBeta/Teori/Beta/Labon-Ekon-Moton/Overview', collapsed: true, items: [] },
-    { text: '⭐-🟩-🟠-💜', link: '/PlantaBeta/Teori/Beta/Labon-Ekon-Moton-Animon/Overview', collapsed: true, items: [] },
-    { text: '⭐-🟩-💜', link: '/PlantaBeta/Teori/Beta/Labon-Ekon-Animon/Overview', collapsed: true, items: [] },
-    { text: '⭐-🔻', link: '/PlantaBeta/Teori/Beta/Labon-Vion/Overview', collapsed: true, items: [] },
-    { text: '⭐-🔻-🟠', link: '/PlantaBeta/Teori/Beta/Labon-Vion-Moton/Overview', collapsed: true, items: [] },
-    { text: '⭐-🔻-🟠-💜', link: '/PlantaBeta/Teori/Beta/Labon-Vion-Moton-Animon/Overview', collapsed: true, items: [] },
-    { text: '⭐-🔻-💜', link: '/PlantaBeta/Teori/Beta/Labon-Vion-Animon/Overview', collapsed: true, items: [] },
-    { text: '⭐-🟠', link: '/PlantaBeta/Teori/Beta/Labon-Moton/Overview', collapsed: true, items: [] },
-    { text: '⭐-🟠-💜', link: '/PlantaBeta/Teori/Beta/Labon-Moton-Animon/Overview', collapsed: true, items: [] },
-    { text: '⭐-💜', link: '/PlantaBeta/Teori/Beta/Labon-Animon/Overview', collapsed: true, items: [] },
-    { text: '🔷-🟩', link: '/PlantaBeta/Teori/Beta/Somon-Ekon/Overview', collapsed: true, items: [] },
-    { text: '🔷-🟩-🔻', link: '/PlantaBeta/Teori/Beta/Somon-Ekon-Vion/Overview', collapsed: true, items: [] },
-    { text: '🔷-🟩-🔻-🟠', link: '/PlantaBeta/Teori/Beta/Somon-Ekon-Vion-Moton/Overview', collapsed: true, items: [] },
-    { text: '🔷-🟩-🔻-🟠-💜', link: '/PlantaBeta/Teori/Beta/Somon-Ekon-Vion-Moton-Animon/Overview', collapsed: true, items: [] },
-    { text: '🔷-🟩-🟠', link: '/PlantaBeta/Teori/Beta/Somon-Ekon-Moton/Overview', collapsed: true, items: [] },
-    { text: '🔷-🟩-🟠-💜', link: '/PlantaBeta/Teori/Beta/Somon-Ekon-Moton-Animon/Overview', collapsed: true, items: [] },
-    { text: '🔷-🟩-💜', link: '/PlantaBeta/Teori/Beta/Somon-Ekon-Animon/Overview', collapsed: true, items: [] },
-    { text: '🔷-🔻', link: '/PlantaBeta/Teori/Beta/Somon-Vion/Overview', collapsed: true, items: [] },
-    { text: '🔷-🔻-🟠', link: '/PlantaBeta/Teori/Beta/Somon-Vion-Moton/Overview', collapsed: true, items: [] },
-    { text: '🔷-🔻-🟠-💜', link: '/PlantaBeta/Teori/Beta/Somon-Vion-Moton-Animon/Overview', collapsed: true, items: [] },
-    { text: '🔷-🔻-💜', link: '/PlantaBeta/Teori/Beta/Somon-Vion-Animon/Overview', collapsed: true, items: [] },
-    { text: '🔷-🟠', link: '/PlantaBeta/Teori/Beta/Somon-Moton/Overview', collapsed: true, items: [] },
-    { text: '🔷-🟠-💜', link: '/PlantaBeta/Teori/Beta/Somon-Moton-Animon/Overview', collapsed: true, items: [] },
-    { text: '🔷-💜', link: '/PlantaBeta/Teori/Beta/Somon-Animon/Overview', collapsed: true, items: [] },
-    { text: '🟩-🔻', link: '/PlantaBeta/Teori/Beta/Ekon-Vion/Overview', collapsed: true, items: [] },
-    { text: '🟩-🔻-🟠', link: '/PlantaBeta/Teori/Beta/Ekon-Vion-Moton/Overview', collapsed: true, items: [] },
-    { text: '🟩-🔻-🟠-💜', link: '/PlantaBeta/Teori/Beta/Ekon-Vion-Moton-Animon/Overview', collapsed: true, items: [] },
-    { text: '🟩-🔻-💜', link: '/PlantaBeta/Teori/Beta/Ekon-Vion-Animon/Overview', collapsed: true, items: [] },
-    { text: '🟩-🟠 ', link: '/PlantaBeta/Teori/Beta/Ekon-Moton/Overview', collapsed: true, items: [] },
-    { text: '🟩-🟠-💜', link: '/PlantaBeta/Teori/Beta/Ekon-Moton-Animon/Overview', collapsed: true, items: [] },
-    { text: '🟩-💜', link: '/PlantaBeta/Teori/Beta/Ekon-Animon/Overview', collapsed: true, items: [] },
-    { text: '🔻-🟠', link: '/PlantaBeta/Teori/Beta/Vion-Moton/Overview', collapsed: true, items: [] },
-    { text: '🔻-🟠-💜', link: '/PlantaBeta/Teori/Beta/Vion-Moton-Animon/Overview', collapsed: true, items: [] },
-    { text: '🔻-💜', link: '/PlantaBeta/Teori/Beta/Vion-Animon/Overview', collapsed: true, items: [] },
-    { text: '🟠-💜', link: '/PlantaBeta/Teori/Beta/Moton-Animon/Overview', collapsed: true, items: [] },
+    { text: '<strong>TEORI</strong>', link: '/PlantaBeta/Teori/TeoriOverview' },
+    { text: '🌈<beta>BETA</beta>🌈', link: '/PlantaBeta/Teori/Beta/BetaOverview' },
+    {
+      text: '🌈<beta>BETUM</beta>', link: '/PlantaBeta/Teori/Beta/Betum/Overview', collapsed: true, items: [
+        { text: '<beta>Atributs</beta>', link: '/PlantaBeta/Teori/Beta/Betum/Atributs/Overview', collapsed: true, items: [] },
+        { text: '<beta>Metods</beta>', link: '/PlantaBeta/Teori/Beta/Betum/Metods/Overview', collapsed: true, items: [] },
+      ]
+    },
+    { text: '<beta>Axioms</beta>', link: '/PlantaBeta/Teori/Beta/Axioms/Overview', collapsed: true, items: [] },
+    {
+      text: '<beta>Definitions</beta>', link: '/PlantaBeta/Teori/Beta/Definitions/Overview', collapsed: true, items: [
+        { text: '⭐-🔷', link: '/PlantaBeta/Teori/Beta/Definitions/Labon-Somon/Overview', collapsed: true, items: [] },
+        { text: '⭐-🔷-🟩', link: '/PlantaBeta/Teori/Beta/Definitions/Labon-Somon-Ekon/Overview', collapsed: true, items: [] },
+        { text: '⭐-🔷-🟩-🔻', link: '/PlantaBeta/Teori/Beta/Definitions/Labon-Somon-Ekon-Vion/Overview', collapsed: true, items: [] },
+        { text: '⭐-🔷-🟩-🔻-🟠', link: '/PlantaBeta/Teori/Beta/Definitions/Labon-Somon-Ekon-Vion-Moton/Overview', collapsed: true, items: [] },
+        { text: '⭐-🔷-🟩-🔻-🟠-💜', link: '/PlantaBeta/Teori/Beta/Definitions/Labon-Somon-Ekon-Vion-Moton-Animon/Overview', collapsed: true, items: [] },
+        { text: '⭐-🔷-🟩-🔻-💜', link: '/PlantaBeta/Teori/Beta/Definitions/Labon-Somon-Ekon-Vion-Animon/Overview', collapsed: true, items: [] },
+        { text: '⭐-🔷-🟩-🟠', link: '/PlantaBeta/Teori/Beta/Definitions/Labon-Somon-Ekon-Moton/Overview', collapsed: true, items: [] },
+        { text: '⭐-🔷-🟩-🟠-💜', link: '/PlantaBeta/Teori/Beta/Definitions/Labon-Somon-Ekon-Moton-Animon/Overview', collapsed: true, items: [] },
+        { text: '⭐-🔷-🟩-💜', link: '/PlantaBeta/Teori/Beta/Definitions/Labon-Somon-Ekon-Animon/Overview', collapsed: true, items: [] },
+        { text: '⭐-🔷-🔻', link: '/PlantaBeta/Teori/Beta/Definitions/Labon-Somon-Vion/Overview', collapsed: true, items: [] },
+        { text: '⭐-🔷-🔻-🟠', link: '/PlantaBeta/Teori/Beta/Definitions/Labon-Somon-Vion-Moton/Overview', collapsed: true, items: [] },
+        { text: '⭐-🔷-🔻-🟠-💜', link: '/PlantaBeta/Teori/Beta/Definitions/Labon-Somon-Vion-Moton-Animon/Overview', collapsed: true, items: [] },
+        { text: '⭐-🔷-🔻-💜', link: '/PlantaBeta/Teori/Beta/Definitions/Labon-Somon-Vion-Animon/Overview', collapsed: true, items: [] },
+        { text: '⭐-🔷-🟠', link: '/PlantaBeta/Teori/Beta/Definitions/Labon-Somon-Moton/Overview', collapsed: true, items: [] },
+        { text: '⭐-🔷-🟠-💜', link: '/PlantaBeta/Teori/Beta/Definitions/Labon-Somon-Moton-Animon/Overview', collapsed: true, items: [] },
+        { text: '⭐-🔷-💜', link: '/PlantaBeta/Teori/Beta/Definitions/Labon-Somon-Animon/Overview', collapsed: true, items: [] },
+        { text: '⭐-🟩', link: '/PlantaBeta/Teori/Beta/Definitions/Labon-Ekon/Overview', collapsed: true, items: [] },
+        { text: '⭐-🟩-🔻', link: '/PlantaBeta/Teori/Beta/Definitions/Labon-Ekon-Vion/Overview', collapsed: true, items: [] },
+        { text: '⭐-🟩-🔻-🟠', link: '/PlantaBeta/Teori/Beta/Definitions/Labon-Ekon-Vion-Moton/Overview', collapsed: true, items: [] },
+        { text: '⭐-🟩-🔻-🟠-💜', link: '/PlantaBeta/Teori/Beta/Definitions/Labon-Ekon-Vion-Moton-Animon/Overview', collapsed: true, items: [] },
+        { text: '⭐-🟩-🔻-💜', link: '/PlantaBeta/Teori/Beta/Definitions/Labon-Ekon-Vion-Animon/Overview', collapsed: true, items: [] },
+        { text: '⭐-🟩-🟠', link: '/PlantaBeta/Teori/Beta/Definitions/Labon-Ekon-Moton/Overview', collapsed: true, items: [] },
+        { text: '⭐-🟩-🟠-💜', link: '/PlantaBeta/Teori/Beta/Definitions/Labon-Ekon-Moton-Animon/Overview', collapsed: true, items: [] },
+        { text: '⭐-🟩-💜', link: '/PlantaBeta/Teori/Beta/Definitions/Labon-Ekon-Animon/Overview', collapsed: true, items: [] },
+        { text: '⭐-🔻', link: '/PlantaBeta/Teori/Beta/Definitions/Labon-Vion/Overview', collapsed: true, items: [] },
+        { text: '⭐-🔻-🟠', link: '/PlantaBeta/Teori/Beta/Definitions/Labon-Vion-Moton/Overview', collapsed: true, items: [] },
+        { text: '⭐-🔻-🟠-💜', link: '/PlantaBeta/Teori/Beta/Definitions/Labon-Vion-Moton-Animon/Overview', collapsed: true, items: [] },
+        { text: '⭐-🔻-💜', link: '/PlantaBeta/Teori/Beta/Definitions/Labon-Vion-Animon/Overview', collapsed: true, items: [] },
+        { text: '⭐-🟠', link: '/PlantaBeta/Teori/Beta/Definitions/Labon-Moton/Overview', collapsed: true, items: [] },
+        { text: '⭐-🟠-💜', link: '/PlantaBeta/Teori/Beta/Definitions/Labon-Moton-Animon/Overview', collapsed: true, items: [] },
+        { text: '⭐-💜', link: '/PlantaBeta/Teori/Beta/Definitions/Labon-Animon/Overview', collapsed: true, items: [] },
+        { text: '🔷-🟩', link: '/PlantaBeta/Teori/Beta/Definitions/Somon-Ekon/Overview', collapsed: true, items: [] },
+        { text: '🔷-🟩-🔻', link: '/PlantaBeta/Teori/Beta/Definitions/Somon-Ekon-Vion/Overview', collapsed: true, items: [] },
+        { text: '🔷-🟩-🔻-🟠', link: '/PlantaBeta/Teori/Beta/Definitions/Somon-Ekon-Vion-Moton/Overview', collapsed: true, items: [] },
+        { text: '🔷-🟩-🔻-🟠-💜', link: '/PlantaBeta/Teori/Beta/Definitions/Somon-Ekon-Vion-Moton-Animon/Overview', collapsed: true, items: [] },
+        { text: '🔷-🟩-🟠', link: '/PlantaBeta/Teori/Beta/Definitions/Somon-Ekon-Moton/Overview', collapsed: true, items: [] },
+        { text: '🔷-🟩-🟠-💜', link: '/PlantaBeta/Teori/Beta/Definitions/Somon-Ekon-Moton-Animon/Overview', collapsed: true, items: [] },
+        { text: '🔷-🟩-💜', link: '/PlantaBeta/Teori/Beta/Definitions/Somon-Ekon-Animon/Overview', collapsed: true, items: [] },
+        { text: '🔷-🔻', link: '/PlantaBeta/Teori/Beta/Definitions/Somon-Vion/Overview', collapsed: true, items: [] },
+        { text: '🔷-🔻-🟠', link: '/PlantaBeta/Teori/Beta/Definitions/Somon-Vion-Moton/Overview', collapsed: true, items: [] },
+        { text: '🔷-🔻-🟠-💜', link: '/PlantaBeta/Teori/Beta/Definitions/Somon-Vion-Moton-Animon/Overview', collapsed: true, items: [] },
+        { text: '🔷-🔻-💜', link: '/PlantaBeta/Teori/Beta/Definitions/Somon-Vion-Animon/Overview', collapsed: true, items: [] },
+        { text: '🔷-🟠', link: '/PlantaBeta/Teori/Beta/Definitions/Somon-Moton/Overview', collapsed: true, items: [] },
+        { text: '🔷-🟠-💜', link: '/PlantaBeta/Teori/Beta/Definitions/Somon-Moton-Animon/Overview', collapsed: true, items: [] },
+        { text: '🔷-💜', link: '/PlantaBeta/Teori/Beta/Definitions/Somon-Animon/Overview', collapsed: true, items: [] },
+        { text: '🟩-🔻', link: '/PlantaBeta/Teori/Beta/Definitions/Ekon-Vion/Overview', collapsed: true, items: [] },
+        { text: '🟩-🔻-🟠', link: '/PlantaBeta/Teori/Beta/Definitions/Ekon-Vion-Moton/Overview', collapsed: true, items: [] },
+        { text: '🟩-🔻-🟠-💜', link: '/PlantaBeta/Teori/Beta/Definitions/Ekon-Vion-Moton-Animon/Overview', collapsed: true, items: [] },
+        { text: '🟩-🔻-💜', link: '/PlantaBeta/Teori/Beta/Definitions/Ekon-Vion-Animon/Overview', collapsed: true, items: [] },
+        { text: '🟩-🟠 ', link: '/PlantaBeta/Teori/Beta/Definitions/Ekon-Moton/Overview', collapsed: true, items: [] },
+        { text: '🟩-🟠-💜', link: '/PlantaBeta/Teori/Beta/Definitions/Ekon-Moton-Animon/Overview', collapsed: true, items: [] },
+        { text: '🟩-💜', link: '/PlantaBeta/Teori/Beta/Definitions/Ekon-Animon/Overview', collapsed: true, items: [] },
+        { text: '🔻-🟠', link: '/PlantaBeta/Teori/Beta/Definitions/Vion-Moton/Overview', collapsed: true, items: [] },
+        { text: '🔻-🟠-💜', link: '/PlantaBeta/Teori/Beta/Definitions/Vion-Moton-Animon/Overview', collapsed: true, items: [] },
+        { text: '🔻-💜', link: '/PlantaBeta/Teori/Beta/Definitions/Vion-Animon/Overview', collapsed: true, items: [] },
+        { text: '🟠-💜', link: '/PlantaBeta/Teori/Beta/Definitions/Moton-Animon/Overview', collapsed: true, items: [] },
+      ]
+    },
+    {
+      text: '<beta>Propositions</beta>', link: '/PlantaBeta/Teori/Beta/Propositions/Overview', collapsed: true, items: [
+        { text: '<beta>Teorem</beta>', link: '/PlantaBeta/Teori/Beta/Propositions/Teorem/Overview', collapsed: true, items: [] },
+        { text: '<beta>Problem</beta>', link: '/PlantaBeta/Teori/Beta/Propositions/Problem/Overview', collapsed: true, items: [] },
+      ]
+    },
   ]
 }
 

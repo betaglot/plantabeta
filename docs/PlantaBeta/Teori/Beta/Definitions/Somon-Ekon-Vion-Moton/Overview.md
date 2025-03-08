@@ -1,4 +1,4 @@
-# 🌈<beta>BETA: Definitions</beta>
+# 🔷<soma>SOMON</soma>-🟩<ekos>EKON</ekos>-🔻<via>VION</via>-🟠<motor>MOTON</motor>
 
 ---
 

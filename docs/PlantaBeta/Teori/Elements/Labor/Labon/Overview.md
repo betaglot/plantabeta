@@ -1,4 +1,4 @@
-# 🌈<beta>BETA: Definitions</beta>
+# ⭐<labor>LABON</labor>
 
 ---
 

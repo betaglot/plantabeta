@@ -1,4 +1,4 @@
-# 🌈<beta>BETA: Definitions</beta>
+# 🟩<ekos>EKON</ekos>-🔻<via>VION</via>-💜<anima>ANIMON</anima>
 
 ---
 
