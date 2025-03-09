@@ -1,24 +1,6 @@
-# 🟠<motor>RadiorMOTON</motor>
+# ⭐<labor>Radior</labor>
 
 Aliases: Vambrace, Forearm Guard
-
-## 🕸 RadiorMOTON.Skema
-
-### Related 🟩<ekos>Eko</ekos>
-
--
-
-### Related 🔻<via>Via</via>
-
--
-
-### Related 🟠<motor>Motor</motor>
-
--
-
-### Related 💜<anima>ANIMA</anima>
-
--
 
 ---
 

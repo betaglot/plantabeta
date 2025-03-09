@@ -37,24 +37,6 @@ Aim small miss small. Larger moves have larger potential for error
 
 - LengthenStep() mid step Or ShortenStep()
 
-## 🕸 Amble.Skema
-
-### Related 🟩<ekos>Eko</ekos>
-
--
-
-### Related 🔻<via>Via</via>
-
-- AmbleSpeed
-
-### Related 🟠<motor>Motor</motor>
-
--
-
-### Related 💜<anima>ANIMA</anima>
-
--
-
 ---
 
 <!-- =================================================== -->

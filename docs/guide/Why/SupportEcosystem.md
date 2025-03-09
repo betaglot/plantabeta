@@ -6,7 +6,6 @@
 
 All of Canada's burnt Ecos will need to be replanted as efficiently as possible. PlantaBeta increases the efficiency of every Plantor who studies it.
 
-
 ::: details
 
 Mapping the scale of Canada’s record wildfires

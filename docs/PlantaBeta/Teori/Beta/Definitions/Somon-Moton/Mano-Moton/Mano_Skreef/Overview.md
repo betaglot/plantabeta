@@ -1,25 +1,5 @@
 # 🟠 <motor>Mano_Skreef</motor>
 
-![MOTONIkon](/Ikon/Motor_Ikon.png)
-
-## 🕸 Mano_Skreef.Skema
-
-### Related 🟩<ekos>Eko</ekos>
-
--
-
-### Related 🔻<via>Via</via>
-
--
-
-### Related 🟠<motor>Motor</motor>
-
--
-
-### Related 💜<anima>ANIMA</anima>
-
--
-
 ---
 
 <!-- =================================================== -->

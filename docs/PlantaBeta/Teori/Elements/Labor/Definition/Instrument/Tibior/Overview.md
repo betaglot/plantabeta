@@ -1,28 +1,6 @@
-# 🟠 <motor>TibiorMOTON</motor>
+# ⭐<labor>Tibior</labor>
 
 Aliases: Gaiter, Shin Pad
-
-## TibiorMOTON.Anatomy
-
-## TibiorMOTON.Attributes
-
-## 🕸 TibiorMOTON.Skema
-
-### Related 🟩<ekos>Eko</ekos>
-
--
-
-### Related 🔻<via>Via</via>
-
--
-
-### Related 🟠<motor>Motor</motor>
-
--
-
-### Related 💜<anima>ANIMA</anima>
-
--
 
 ---
 

@@ -21,24 +21,6 @@ Markas are posted throughout the land.
 - MarkaHeight
 - MarkaColor
 
-## 🕸 MarkaMOTON.Skema
-
-### Related 🟩<ekos>Eko</ekos>
-
--
-
-### Related 🔻<via>Via</via>
-
--
-
-### Related 🟠<motor>Motor</motor>
-
--
-
-### Related 💜<anima>ANIMA</anima>
-
--
-
 ---
 
 <!-- =================================================== -->

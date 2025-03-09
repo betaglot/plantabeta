@@ -7,24 +7,6 @@ Aliases: Path, Way, Route, Passage, Trail
 - LineStartPoint
 - Line FinishPoint
 
-## 🕸 Line.Skema
-
-### Related 🟩<ekos>Eko</ekos>
-
--
-
-### Related 🔻<via>Via</via>
-
--
-
-### Related 🟠<motor>Motor</motor>
-
--
-
-### Related 💜<anima>ANIMA</anima>
-
--
-
 ---
 
 <!-- =================================================== -->

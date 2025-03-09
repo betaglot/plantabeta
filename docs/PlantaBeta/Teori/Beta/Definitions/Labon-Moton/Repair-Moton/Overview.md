@@ -38,24 +38,6 @@ Maintain your Instruments to ensure that they last as long a possible and to mai
 
 ### Bag Repair
 
-## 🕸 RepairMOTON.Skema
-
-### Related 🟩<ekos>Eko</ekos>
-
--
-
-### Related 🔻<via>Via</via>
-
--
-
-### Related 🟠<motor>Motor</motor>
-
--
-
-### Related 💜<anima>ANIMA</anima>
-
--
-
 ---
 
 <!-- =================================================== -->

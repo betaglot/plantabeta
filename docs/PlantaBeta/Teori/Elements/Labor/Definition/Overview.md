@@ -1,4 +1,4 @@
-# ⭐<labos>LABOR: Definitions</labos>
+# ⭐<labor>LABOR: Definitions</labor>
 
 ---
 

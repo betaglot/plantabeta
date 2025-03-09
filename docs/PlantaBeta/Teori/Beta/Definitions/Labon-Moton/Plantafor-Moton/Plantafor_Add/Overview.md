@@ -1,25 +1,5 @@
 # 🟠 <motor>PlantaforOn</motor>
 
-![MOTONIkon](/Ikon/Motor_Ikon.png)
-
-## 🕸 PlantaforOn.Skema
-
-### Related 🟩<ekos>Eko</ekos>
-
--
-
-### Related 🔻<via>Via</via>
-
--
-
-### Related 🟠<motor>Motor</motor>
-
--
-
-### Related 💜<anima>ANIMA</anima>
-
--
-
 ---
 
 <!-- =================================================== -->

@@ -2,8 +2,6 @@
 
 Aliases: SpadeSlam, SpadeThrow, SpadeChop
 
-![MOTONIkon](/Ikon/Motor_Ikon.png)E
-
 ## 🕸 SpadeSpike.Skema
 
 ### Related 🟩<ekos>Eko</ekos>

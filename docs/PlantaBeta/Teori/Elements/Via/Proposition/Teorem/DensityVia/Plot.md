@@ -16,26 +16,6 @@ SemiPlot
 
 ## Counting
 
-![Eko_Ikon](/Ikon/Ekos_Ikon.png)
-
-## 🕸 Plot.Skema
-
-### Related 🟩<ekos>Eko</ekos>
-
--
-
-### Related 🔻<via>Via</via>
-
--
-
-### Related 🟠<motor>Motor</motor>
-
--
-
-### Related 💜<anima>ANIMA</anima>
-
--
-
 ---
 
 <!-- =================================================== -->

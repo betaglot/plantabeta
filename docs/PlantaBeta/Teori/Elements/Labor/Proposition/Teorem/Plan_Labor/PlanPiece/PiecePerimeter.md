@@ -2,26 +2,6 @@
 
 > Plant a ParaLine along the perimeter of your piece until you run out of trees, then deadwalk back.
 
-![ViaIkon](/Ikon/Via_Ikon.png)
-
-## 🕸 PlanPerimeter.Skema
-
-### Related 🟩<ekos>Eko</ekos>
-
--
-
-### Related 🔻<via>Via</via>
-
--
-
-### Related 🟠<motor>Motor</motor>
-
--
-
-### Related 💜<anima>ANIMA</anima>
-
--
-
 ---
 
 <!-- =================================================== -->

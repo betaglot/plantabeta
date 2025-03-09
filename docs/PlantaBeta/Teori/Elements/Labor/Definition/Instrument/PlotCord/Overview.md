@@ -1,4 +1,4 @@
-# ⭐<labos>PlotCord</labos>
+# ⭐<labor>PlotCord</labor>
 
 ---
 

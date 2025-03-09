@@ -1,4 +1,4 @@
-# ⭐<labos>PickUp</labos>
+# ⭐<labor>PickUp</labor>
 
 ---
 

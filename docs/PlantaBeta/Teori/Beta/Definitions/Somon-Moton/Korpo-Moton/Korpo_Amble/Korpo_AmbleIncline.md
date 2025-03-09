@@ -1,26 +1,5 @@
 # 🟠 <motor>InclineWalk</motor>
 
-![MOTONIkon](/Ikon/Motor_Ikon.png)
-
-## 🕸 InclineWalk.Skema
-
-### Related 🟩<ekos>Eko</ekos>
-
--
-
-### Related 🔻<via>Via</via>
-
--
-
-### Related 🟠<motor>Motor</motor>
-
-- FootInversion
-- FootEversion
-
-### Related 💜<anima>ANIMA</anima>
-
--
-
 ---
 
 <!-- =================================================== -->

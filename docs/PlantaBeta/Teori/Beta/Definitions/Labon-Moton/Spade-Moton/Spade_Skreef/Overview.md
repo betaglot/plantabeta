@@ -1,25 +1,5 @@
 # 🟠 <motor>SpadeSkreef</motor>
 
-![MOTONIkon](/Ikon/Motor_Ikon.png)
-
-## 🕸 SpadeSkreef.Skema
-
-### Related 🟩<ekos>Eko</ekos>
-
--
-
-### Related 🔻<via>Via</via>
-
-- HandPlacement on SpadeCollar or SpadeHandle is Via.
-
-### Related 🟠<motor>Motor</motor>
-
--
-
-### Related 💜<anima>ANIMA</anima>
-
--
-
 ---
 
 <!-- =================================================== -->

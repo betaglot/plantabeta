@@ -34,24 +34,6 @@ Makes the Voronoi Cells more
 
 - Decompose a plane polygon into Triangles
 
-## 🕸 Point.Skema
-
-### Related 🟩<ekos>Eko</ekos>
-
--
-
-### Related 🔻<via>Via</via>
-
--
-
-### Related 🟠<motor>Motor</motor>
-
--
-
-### Related 💜<anima>ANIMA</anima>
-
--
-
 ---
 
 <!-- =================================================== -->

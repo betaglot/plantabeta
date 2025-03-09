@@ -2,24 +2,6 @@
 
 > Protecting yourself from Plant as it collides into you or as it drags along you as you push through it
 
-## 🕸 FloraBlok.Skema
-
-### Related 🟩<ekos>Eko</ekos>
-
--
-
-### Related 🔻<via>Via</via>
-
--
-
-### Related 🟠<motor>Motor</motor>
-
--
-
-### Related 💜<anima>ANIMA</anima>
-
--
-
 ---
 
 <!-- =================================================== -->

@@ -1,6 +1,8 @@
-# 🟠 <motor>SpadeMOTON</motor>
+# ⭐<labor>Spade</labor>
 
-## SpadeMOTON.Anatomy
+Aliases: Shovel
+
+## Spade.Anatomy
 
 - Blade
     - BladeConvex
@@ -25,24 +27,6 @@
     - TabWidth
 
 ## Spade Attributes
-
-## 🕸 SpadeMOTON.Skema
-
-### Related 🟩<ekos>Eko</ekos>
-
--
-
-### Related 🔻<via>Via</via>
-
--
-
-### Related 🟠<motor>Motor</motor>
-
--
-
-### Related 💜<anima>ANIMA</anima>
-
--
 
 ---
 

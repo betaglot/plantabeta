@@ -1,4 +1,4 @@
-# ⭐<labos>Crop_Flora</labos>
+# ⭐<labor>Crop_Flora</labor>
 
 ---
 

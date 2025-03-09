@@ -1,23 +1,5 @@
 # 🔻<via>DirectionOn</via>
 
-## 🕸 DirectionOn.Skema
-
-### Related 🟩<ekos>Eko</ekos>
-
--
-
-### Related 🔻<via>Via</via>
-
-- Kontakt
-
-### Related 🟠<motor>Motor</motor>
-
--
-
-### Related 💜<anima>ANIMA</anima>
-
--
-
 ---
 
 <!-- =================================================== -->

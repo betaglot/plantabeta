@@ -1,4 +1,4 @@
-# 🟠 <motor>Instrument Repair</motor>
+# ⭐<labor>Repair</labor>
 
 Temporary Repair until you can have your Instruments repaired by a professional.
 
@@ -37,24 +37,6 @@ Maintain your Instruments to ensure that they last as long a possible and to mai
 - Holes in Socks
 
 ### Bag Repair
-
-## 🕸 RepairMOTON.Skema
-
-### Related 🟩<ekos>Eko</ekos>
-
--
-
-### Related 🔻<via>Via</via>
-
--
-
-### Related 🟠<motor>Motor</motor>
-
--
-
-### Related 💜<anima>ANIMA</anima>
-
--
 
 ---
 

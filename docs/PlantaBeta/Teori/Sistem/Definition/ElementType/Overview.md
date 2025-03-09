@@ -13,7 +13,7 @@ A method can be a Problema
 - 🔻<via>VIUM</via>
 - 🟩<ekos>EKON</ekos>
 - 💜<anima>ANIMA</anima>
-- ⭐<labos>LABOR</labos>
+- ⭐<labor>LABOR</labor>
 
 ## Taxonomy of Elements
 

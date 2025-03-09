@@ -1,4 +1,4 @@
-# ✔<labos>Workday</labos>
+# ✔<labor>Workday</labor>
 
 ---
 

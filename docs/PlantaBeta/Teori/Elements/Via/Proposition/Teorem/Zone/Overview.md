@@ -4,24 +4,6 @@
 
 Aliases: Area, Enclosure, Region, Section, Sector, Territory
 
-## 🕸 Zone.Skema
-
-### Related 🟩<ekos>Eko</ekos>
-
--
-
-### Related 🔻<via>Via</via>
-
--
-
-### Related 🟠<motor>Motor</motor>
-
--
-
-### Related 💜<anima>ANIMA</anima>
-
--
-
 ---
 
 <!-- =================================================== -->

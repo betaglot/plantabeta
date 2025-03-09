@@ -4,24 +4,6 @@ Aliases: HoleOpen, Open a Hole
 
 ![MOTONIkon](/Ikon/Motor_Ikon.png)
 
-## 🕸 SiteOpen.Skema
-
-### Related 🟩<ekos>Eko</ekos>
-
--
-
-### Related 🔻<via>Via</via>
-
--
-
-### Related 🟠<motor>Motor</motor>
-
--
-
-### Related 💜<anima>ANIMA</anima>
-
--
-
 ---
 
 <!-- =================================================== -->

@@ -5,24 +5,6 @@
 
 The Plant can be moving towards you or the Plant can be stationary while you move towards the vege
 
-## 🕸 FloraCatch.Skema
-
-### Related 🟩<ekos>Eko</ekos>
-
--
-
-### Related 🔻<via>Via</via>
-
--
-
-### Related 🟠<motor>Motor</motor>
-
--
-
-### Related 💜<anima>ANIMA</anima>
-
--
-
 ---
 
 <!-- =================================================== -->

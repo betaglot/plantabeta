@@ -4,24 +4,6 @@
 
 - DoruPost is performed when returning to the cache or when both hands are needed to adjust bags, transfer bundles, modify clothing layers, or to reload Marka roll.
 
-## 🕸 DoruPost.Skema
-
-### Related 🟩<ekos>Eko</ekos>
-
--
-
-### Related 🔻<via>Via</via>
-
--
-
-### Related 🟠<motor>Motor</motor>
-
--
-
-### Related 💜<anima>ANIMA</anima>
-
--
-
 ---
 
 <!-- =================================================== -->

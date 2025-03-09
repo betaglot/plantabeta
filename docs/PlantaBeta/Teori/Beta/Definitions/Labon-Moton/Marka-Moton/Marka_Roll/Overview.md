@@ -12,24 +12,6 @@
 
 - Unroll too much Marka, ie MarkaLength is too long.
 
-## 🕸 MarkaRoll.Skema
-
-### Related 🟩<ekos>Eko</ekos>
-
--
-
-### Related 🔻<via>Via</via>
-
--
-
-### Related 🟠<motor>Motor</motor>
-
--
-
-### Related 💜<anima>ANIMA</anima>
-
--
-
 ---
 
 <!-- =================================================== -->

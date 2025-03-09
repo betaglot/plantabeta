@@ -1,26 +1,4 @@
-# 🔻 <via>ZoneMarka</via>
-
-## Cut line
-
-![ViaIkon](/Ikon/Via_Ikon.png)
-
-## 🕸 BoundaryMarka.Skema
-
-### Related 🟩<ekos>Eko</ekos>
-
--
-
-### Related 🔻<via>Via</via>
-
--
-
-### Related 🟠<motor>Motor</motor>
-
--
-
-### Related 💜<anima>ANIMA</anima>
-
--
+# ZoneMarka
 
 ---
 

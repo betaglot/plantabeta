@@ -1,25 +1,5 @@
 # 🟩  <ekos>Wind</ekos>
 
-![Eko_Ikon](/Ikon/Ekos_Ikon.png)
-
-## 🕸 Wind.Skema
-
-### Related 🟩<ekos>Eko</ekos>
-
--
-
-### Related 🔻<via>Via</via>
-
--
-
-### Related 🟠<motor>Motor</motor>
-
--
-
-### Related 💜<anima>ANIMA</anima>
-
--
-
 ---
 
 <!-- =================================================== -->

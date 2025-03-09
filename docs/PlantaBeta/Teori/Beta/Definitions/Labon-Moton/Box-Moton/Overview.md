@@ -4,24 +4,6 @@
 
 🔻<via>BoxCorner</via> is a Contact used only when carrying a single box.
 
-## 🕸 BoxMOTON.Skema
-
-### Related 🟩<ekos>Eko</ekos>
-
--
-
-### Related 🔻<via>Via</via>
-
--
-
-### Related 🟠<motor>Motor</motor>
-
--
-
-### Related 💜<anima>ANIMA</anima>
-
--
-
 ---
 
 <!-- =================================================== -->

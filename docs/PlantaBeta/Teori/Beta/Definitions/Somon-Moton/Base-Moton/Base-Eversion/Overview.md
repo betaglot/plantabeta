@@ -1,25 +1,5 @@
 # 🟠 <motor>FootEversion</motor>
 
-![MOTONIkon](/Ikon/Motor_Ikon.png)
-
-## 🕸 FootEversion.Skema
-
-### Related 🟩<ekos>Eko</ekos>
-
--
-
-### Related 🔻<via>Via</via>
-
--
-
-### Related 🟠<motor>Motor</motor>
-
--
-
-### Related 💜<anima>ANIMA</anima>
-
--
-
 ---
 
 <!-- =================================================== -->

@@ -28,7 +28,7 @@
 
 💜<anima>"don't need to": NOT</anima>
 
-⭐<labos>"spruce": Neon</labos>
+⭐<labor>"spruce": Neon</labor>
 
 🟠<motor>"skreef": SkreefMOTON</motor>
 

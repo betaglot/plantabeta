@@ -2,8 +2,6 @@
 
 > Use a FloraParry to redirect flora which is colliding with you.  
 
-![MOTONIkon](/Ikon/Motor_Ikon.png)
-
 ## 🕸 FloraParry.Skema
 
 ### Related 🟩<ekos>Eko</ekos>

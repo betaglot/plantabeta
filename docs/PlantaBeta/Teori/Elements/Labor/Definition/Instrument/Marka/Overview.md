@@ -1,4 +1,4 @@
-# ⭐<labos>Marka</labos>
+# ⭐<labor>Marka</labor>
 
 ## Marka Frequency
 

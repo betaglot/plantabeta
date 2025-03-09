@@ -1,25 +1,5 @@
 # 🟠 <motor>BagLift</motor>
 
-![MOTONIkon](/Ikon/Motor_Ikon.png)
-
-## 🕸 ArmBagLift.Skema
-
-### Related 🟩<ekos>Eko</ekos>
-
--
-
-### Related 🔻<via>Via</via>
-
--
-
-### Related 🟠<motor>Motor</motor>
-
--
-
-### Related 💜<anima>ANIMA</anima>
-
--
-
 ---
 
 <!-- =================================================== -->

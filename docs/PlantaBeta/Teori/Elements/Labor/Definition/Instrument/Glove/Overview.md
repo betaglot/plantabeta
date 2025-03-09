@@ -1,4 +1,4 @@
-# 🟠 <motor>GloveMOTON</motor>
+# ⭐<labor>Glove</labor>
 
 ## Glove.Anatomy
 
@@ -8,24 +8,6 @@
 - Rubber
 
 ## Glove.Attributes
-
-## 🕸 GloveMOTON.Skema
-
-### Related 🟩<ekos>Eko</ekos>
-
--
-
-### Related 🔻<via>Via</via>
-
--
-
-### Related 🟠<motor>Motor</motor>
-
--
-
-### Related 💜<anima>ANIMA</anima>
-
--
 
 ---
 

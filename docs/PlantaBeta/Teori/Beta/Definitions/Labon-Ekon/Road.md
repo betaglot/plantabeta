@@ -22,26 +22,6 @@ Block Start
 
 ## RoadCache
 
-![Eko_Ikon](/Ikon/Ekos_Ikon.png)
-
-## 🕸 Road.Skema
-
-### Related 🟩<ekos>Eko</ekos>
-
--
-
-### Related 🔻<via>Via</via>
-
--
-
-### Related 🟠<motor>Motor</motor>
-
--
-
-### Related 💜<anima>ANIMA</anima>
-
--
-
 ---
 
 <!-- =================================================== -->
