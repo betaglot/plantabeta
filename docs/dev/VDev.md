@@ -5,7 +5,7 @@ import NewVue from '/vue/NewVue.vue'
 # VDev
 
 This is a .md using a custom component
-
+:::raw
 <NewVue />
-
+:::
 ...

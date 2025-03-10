@@ -1,8 +1,12 @@
 <template>
-    <v-btn>
-        Button
-    </v-btn>
-    <v-date-picker></v-date-picker>
+    <v-button variant="outlined">
+        BUTTON
+    </v-button>
+    <v-container class="cursor-grabbing">
+        <v-date-picker show-adjacent-months></v-date-picker>
+    </v-container>
+    <v-color-picker></v-color-picker>
+    <v-date-picker show-adjacent-months></v-date-picker>
     <div class="container">
         <li class="list" v-for="item in items">
             <div>{{ item.site_ID }}</div>

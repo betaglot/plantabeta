@@ -2,7 +2,7 @@
 import { h } from 'vue'
 import type { Theme } from 'vitepress'
 import DefaultTheme from 'vitepress/theme'
-// import './style.css'
+import './custom.css'
 
 import 'vuetify/styles'
 import { createVuetify } from 'vuetify'
@@ -12,6 +12,9 @@ import * as directives from 'vuetify/directives'
 const vuetify = createVuetify({
     components,
     directives,
+    theme: {
+        defaultTheme: 'dark'
+    }
 })
 
 export default {
