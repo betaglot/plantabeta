@@ -1,4 +1,7 @@
-# 🟠<motor>BranchSnap</motor>
+---
+aside: false
+---
+# Branch-Snap
 
 ---
 

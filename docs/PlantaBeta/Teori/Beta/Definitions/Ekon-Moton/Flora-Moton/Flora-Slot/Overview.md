@@ -1,4 +1,7 @@
-# 🟠 <motor>FloraPassage</motor>
+---
+aside: false
+---
+# Flora-Passage
 
 > Passing through a cluster of Flora
 

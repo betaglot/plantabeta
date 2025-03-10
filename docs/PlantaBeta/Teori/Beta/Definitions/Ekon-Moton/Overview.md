@@ -1,3 +1,6 @@
+---
+aside: false
+---
 # 🟩<ekos>EKON</ekos>-🟠<motor>MOTON</motor>
 
 ---

@@ -1,4 +1,7 @@
-# 🔷<beta>FloraBranch_Weave</beta>
+---
+aside: false
+---
+# FloraBranch-Weave
 
 ---
 

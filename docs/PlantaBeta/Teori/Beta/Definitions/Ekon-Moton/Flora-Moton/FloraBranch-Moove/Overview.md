@@ -1,4 +1,7 @@
-# 🟠<motor>Branch_MOTON</motor>
+---
+aside: false
+---
+# Branch-MOTON
 
 ---
 

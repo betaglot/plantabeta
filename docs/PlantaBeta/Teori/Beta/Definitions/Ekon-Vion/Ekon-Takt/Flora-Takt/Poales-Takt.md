@@ -1,4 +1,7 @@
-# 🟠 <motor>TrunkMOTON</motor>
+---
+aside: false
+---
+# Poales-Takt
 
 ---
 
@@ -11,7 +14,4 @@
 
 -
 
-<h2>PageTags</h2>
-
-- "MOTON.FloraMOTON.TrunkMOTON"
 :::

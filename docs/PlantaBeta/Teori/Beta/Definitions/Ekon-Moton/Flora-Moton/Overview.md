@@ -1,10 +1,13 @@
-# 🟠 <motor>FloraMOTON</motor>
+---
+aside: false
+---
+# Flora-MOTON
 
 ## FloraMOTON.Anatomy
 
-## FloraMOTON.Atribut
+## FloraMOTON.Atributs
 
-## FloraMOTON.Metod
+## FloraMOTON.Metods
 
 ---
 

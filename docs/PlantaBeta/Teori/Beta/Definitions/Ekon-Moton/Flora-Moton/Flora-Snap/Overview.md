@@ -1,6 +1,7 @@
-# 🟠 <motor>FloraSnap</motor>
-
-![MOTONIkon](/Ikon/Motor_Ikon.png)
+---
+aside: false
+---
+# Flora-Snap
 
 ---
 

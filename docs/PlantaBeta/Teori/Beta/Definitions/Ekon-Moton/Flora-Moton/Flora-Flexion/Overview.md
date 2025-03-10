@@ -1,4 +1,7 @@
-# 🟠<motor>Flora_Flexion</motor>
+---
+aside: false
+---
+# Flora-Flexion
 
 ---
 

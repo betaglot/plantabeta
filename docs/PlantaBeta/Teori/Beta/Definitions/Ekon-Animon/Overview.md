@@ -1,3 +1,6 @@
+---
+aside: false
+---
 # 🟩<ekos>EKON</ekos>-💜<anima>ANIMON</anima>
 
 ---

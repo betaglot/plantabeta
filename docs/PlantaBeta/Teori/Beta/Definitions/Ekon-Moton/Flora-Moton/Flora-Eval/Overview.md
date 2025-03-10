@@ -1,4 +1,7 @@
-# 🔷<beta>Flora_Eval</beta>
+---
+aside: false
+---
+# Flora-Eval
 
 ---
 

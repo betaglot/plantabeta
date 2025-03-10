@@ -1,4 +1,7 @@
-# 🟠 <motor>FloraDeflection</motor>
+---
+aside: false
+---
+# Flora-Deflection
 
 > Use a FloraParry to redirect flora which is colliding with you.  
 

@@ -1,4 +1,7 @@
-# 🟠 <motor>FloraBlock</motor>
+---
+aside: false
+---
+# Flora-Block
 
 > Protecting yourself from Plant as it collides into you or as it drags along you as you push through it
 

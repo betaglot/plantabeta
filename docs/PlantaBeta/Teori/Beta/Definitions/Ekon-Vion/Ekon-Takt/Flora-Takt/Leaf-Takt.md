@@ -1,8 +1,8 @@
-# About
-
-```py
-betaglot@betaglot.org
-```
+---
+title: Leaf-Takt
+aside: false
+---
+# {{ frontmater.title }}
 
 ---
 

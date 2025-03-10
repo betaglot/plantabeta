@@ -1,4 +1,7 @@
-# 🟠 <motor>LogLaunch</motor>
+---
+aside: false
+---
+# Log-Launch
 
 > Launch a Log away from microsite with your leg
 

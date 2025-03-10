@@ -1,4 +1,7 @@
-# 🔷<beta>Flora_Emotion</beta>
+---
+aside: false
+---
+# Flora-Emotion
 
 ---
 

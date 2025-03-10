@@ -1,4 +1,7 @@
-# 🟠<motor>FloraPop</motor>
+---
+aside: false
+---
+# Flora-Pop
 
 ---
 
