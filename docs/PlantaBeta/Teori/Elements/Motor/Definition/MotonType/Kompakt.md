@@ -1,4 +1,7 @@
-# <beta>Kompakt</beta>
+---
+aside: false
+---
+# 🟠<motor>Kompakt</motor>
 
 ---
 

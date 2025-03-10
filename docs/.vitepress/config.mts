@@ -1,13 +1,19 @@
 import { defineConfig } from 'vitepress'
+import vuetify from 'vite-plugin-vuetify'
 
 export default defineConfig({
-
+  vite: {
+    // ...
+    ssr: {
+      noExternal: ['vuetify']
+    }
+  },
   cleanUrls: true,
   lang: 'en-US',
   title: 'PLANTABETA',
-  description: '',
+  description: 'Everything is Connected',
   lastUpdated: true,
-  ignoreDeadLinks: true,
+  ignoreDeadLinks: false,
   appearance: 'dark',
   head: [
     ["link", { rel: "apple-touch-icon", href: "/PlantaBeta_Logo.png" }],
@@ -27,14 +33,12 @@ export default defineConfig({
       { icon: 'youtube', link: 'https://www.youtube.com/@BETAGLOT' },
       { icon: 'github', link: 'https://github.com/betaglot/plantabeta' }
     ],
-
+// Search
     search: {
       provider: 'local'
     },
-
-    siteTitle: '',
     nav: nav(),
-
+// Sidebar
     sidebar: {
       '/about/': sidebarAbout(),
       '/guide/': sidebarGuide(),
@@ -47,12 +51,12 @@ export default defineConfig({
       '/PlantaBeta/Teori/Komposition/': sidebarKomposition(),
       '/PlantaBeta/Teori/Beta/': sidebarBeta(),
       '/PlantaBeta/Praktik/': sidebarPRAKTIK(),
-      '/dev/': sidebarDevelopment(),
+      '/dev/': sidebarDev(),
     }
   }
 })
 
-
+// Nav
 function nav() {
   return [
     {
@@ -92,10 +96,11 @@ function nav() {
     }
   ]
 }
-
-function sidebarDevelopment() {
+// Dev
+function sidebarDev() {
   return [
     { text: 'Dev Overview', link: '/dev/DevOverview' },
+    { text: 'Captions', link: '/dev/BagOut_Captions' },
     { text: 'Contact', link: '/dev/Contact' },
     { text: 'AcademiaDev', link: '/dev/AcademiaDev' },
     { text: 'Art', link: '/dev/art/Overview' },
@@ -135,10 +140,11 @@ function sidebarDevelopment() {
     { text: 'ToDo', link: '/dev/ToDo' },
     { text: 'Tools', link: '/dev/Tools' },
     { text: 'UX', link: '/dev/UX' },
+    { text: 'VDev', link: '/dev/VDev' },
     { text: 'AfternoonTask', link: '/dev/AfternoonTask' },
   ]
 }
-
+// Guide
 function sidebarGuide() {
   return [
     {
@@ -170,7 +176,7 @@ function sidebarGuide() {
     { text: 'Go to Examples', link: '/example/ExampleOverview' },
   ]
 }
-
+// About
 function sidebarAbout() {
   return [
     {
@@ -179,10 +185,7 @@ function sidebarAbout() {
     },
   ]
 }
-
-
 // TEORI
-
 function sidebarTEORI() {
   return [
     { text: '<strong>TEORI</strong>', link: '/PlantaBeta/Teori/Elements/TeoriOverview' },
@@ -195,7 +198,7 @@ function sidebarTEORI() {
     { text: 'LEXIKON', link: '/PlantaBeta/Teori/Elements/glossary/Glossary' },
   ]
 }
-
+// Betomiks
 function sidebarBetomiks() {
   return [
     { text: '<strong>TEORI</strong>', link: '/PlantaBeta/Teori/Elements/TeoriOverview' },
@@ -210,7 +213,7 @@ function sidebarBetomiks() {
     },
   ]
 }
-
+// Komposition
 function sidebarKomposition() {
   return [
     { text: '<strong>TEORI</strong>', link: '/PlantaBeta/Teori/Elements/TeoriOverview' },
@@ -227,7 +230,7 @@ function sidebarKomposition() {
     },
   ]
 }
-
+// Sistem
 function sidebarSistem() {
   return [
     { text: '<strong>TEORI</strong>', link: '/PlantaBeta/Teori/Elements/TeoriOverview' },
@@ -236,7 +239,7 @@ function sidebarSistem() {
     },
   ]
 }
-
+// Elements
 function sidebarElements() {
   return [
     {
@@ -511,7 +514,7 @@ function sidebarElements() {
     },
   ]
 }
-
+// Beta
 function sidebarBeta() {
   return [
     { text: '<strong>TEORI</strong>', link: '/PlantaBeta/Teori/TeoriOverview' },
@@ -592,12 +595,10 @@ function sidebarBeta() {
   ]
 }
 
-
-
 // PRAKTIK
 function sidebarPRAKTIK() {
   return [
-    { text: '<strong>PRAKTIK Overview</strong>', link: '/PlantaBeta/Praktik/Elements/PRAKTIKoverview' },
+    { text: '<strong>PRAKTIK Overview</strong>', link: '/PlantaBeta/Praktik/PRAKTIKoverview' },
   ]
 }
 
@@ -618,7 +619,7 @@ function sidebarTutorial() {
 // Examples
 function sidebarExamples() {
   return [
-    { text: 'Examples Overview', link: '/example/Overview' },
+    { text: 'Examples Overview', link: '/example/ExampleOverview' },
     { text: 'Go to Tutorial', link: '/tutorial/TutorialOverview' },
   ]
 }

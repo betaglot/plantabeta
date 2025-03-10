@@ -1,7 +1,7 @@
 ---
 aside: false
 ---
-# Flora-Block
+# Flora-Aspis
 
 > Protecting yourself from Plant as it collides into you or as it drags along you as you push through it
 
@@ -14,6 +14,7 @@ aside: false
 <!-- =================================================== -->
 ::: details 🛠
 
+- Hoplite Shield
 - SpadeOnda to FloraBlock
 - RadiorDev.UX
 - (FloraBlock != FloraParry)

@@ -1,4 +1,7 @@
-# 🟠<move>Purga</move>
+---
+aside: false
+---
+# 🟠<motor>Purga</motor>
 
 ---
 
@@ -9,8 +12,6 @@
 <!-- =================================================== -->
 ::: details 🛠
 
-- (Purga != Clean)
-    - Purga removes chunks of dirt
-    - Clean uses soap
+-
 
 :::

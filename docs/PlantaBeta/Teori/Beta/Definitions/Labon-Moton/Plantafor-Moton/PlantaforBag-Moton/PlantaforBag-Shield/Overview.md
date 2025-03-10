@@ -1,7 +1,7 @@
 ---
 aside: false
 ---
-# Bag-Block
+# Bag-Aspis
 
 ---
 
@@ -12,6 +12,6 @@ aside: false
 <!-- =================================================== -->
 ::: details 🛠
 
--
+- Hoplite Shield
 
 :::

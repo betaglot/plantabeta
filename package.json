@@ -10,6 +10,9 @@
   },
   "dependencies": {
     "d3": "^7.9.0",
-    "nvm": "^0.0.4"
+    "nvm": "^0.0.4",
+    "postcss": "^8.5.3",
+    "vite-plugin-vuetify": "^2.1.0",
+    "vuetify": "^3.7.15"
   }
 }
