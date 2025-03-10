@@ -1,4 +1,4 @@
-# 🔷<beta>BetaEditor</beta>
+# <beta>BetaEditor</beta>
 
 ---
 

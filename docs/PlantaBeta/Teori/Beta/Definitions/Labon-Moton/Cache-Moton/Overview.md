@@ -1,4 +1,7 @@
-# 🟠 <motor>CacheMOTON</motor>
+---
+aside: false
+---
+# Cache-MOTON
 
 ## What is a Cache?
 

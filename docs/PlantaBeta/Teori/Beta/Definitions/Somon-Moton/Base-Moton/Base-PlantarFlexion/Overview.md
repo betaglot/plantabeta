@@ -1,4 +1,7 @@
-# 🟠 <motor>PlantarFlexion</motor>
+---
+aside: false
+---
+# PlantarFlexion
 
 ---
 

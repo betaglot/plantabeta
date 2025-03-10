@@ -1,4 +1,7 @@
-# 🔻<via>PlantaforTakt</via>
+---
+aside: false
+---
+# Plantafor-Takt
 
 ---
 

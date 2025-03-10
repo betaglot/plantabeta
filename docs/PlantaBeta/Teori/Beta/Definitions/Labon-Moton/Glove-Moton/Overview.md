@@ -1,4 +1,7 @@
-# 🟠 <motor>GloveMOTON</motor>
+---
+aside: false
+---
+# Glove-MOTON
 
 ## Glove.Anatomy
 

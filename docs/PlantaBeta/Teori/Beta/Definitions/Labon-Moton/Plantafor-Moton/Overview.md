@@ -1,4 +1,7 @@
-# 🟠 <motor>PlantaforMOTON</motor>
+---
+aside: false
+---
+# Plantafor-MOTON
 
 Aliases: Planting Bags
 

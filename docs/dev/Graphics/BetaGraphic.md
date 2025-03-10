@@ -45,7 +45,7 @@ Use the module colors along with their icons
 
 🔻<via>Via</via>
 
-🔷<beta>Beta</beta>
+<beta>Beta</beta>
 
 🟩<ekos>Eko</ekos>
 

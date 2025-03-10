@@ -1,4 +1,7 @@
-# 🟠<motor>BasePop</motor>
+---
+aside: false
+---
+# Base-Pop
 
 ---
 

@@ -1,6 +1,6 @@
 # 🟠<motor>MOTONMorfo</motor>
 
-## 🔷<beta>BetaAnalogy</beta>
+## <beta>BetaAnalogy</beta>
 
 ## BetaTypes
 

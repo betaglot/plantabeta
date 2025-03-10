@@ -1,4 +1,7 @@
-# 🟩  <ekos>BurnPit</ekos>🟩
+---
+aside: false
+---
+# BurnPit
 
 - The area of EKOS which is the remants of a burnt BurnPile.
 

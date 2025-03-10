@@ -1,3 +1,6 @@
+---
+aside: false
+---
 # ⭐<labor>LABON</labor>-🔷<soma>SOMON</soma>-🔻<via>VION</via>-💜<anima>ANIMON</anima>
 
 ---

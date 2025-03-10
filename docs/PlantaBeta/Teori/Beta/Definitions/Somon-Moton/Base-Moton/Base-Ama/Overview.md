@@ -1,4 +1,7 @@
-# 🟠 <motor>BaseAma</motor>
+---
+aside: false
+---
+# Base-Ama
 
 ---
 

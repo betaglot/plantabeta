@@ -1,4 +1,7 @@
-# 🟠<motor>BrazoExtension</motor>
+---
+aside: false
+---
+# Brazo-Extension
 
 ---
 

@@ -4,7 +4,7 @@ Formery Known As: PROBABILITAS
 
 > the probability of this Element being performed successfully
 
-## 🔷<beta>BetaAnalogy</beta>
+## <beta>BetaAnalogy</beta>
 
 ## Etymology(Kuboi)
 

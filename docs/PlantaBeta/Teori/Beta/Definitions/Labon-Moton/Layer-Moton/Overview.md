@@ -1,4 +1,7 @@
-# 🟠 <motor>ClothingMOTON</motor>
+---
+aside: false
+---
+# Layer-MOTON
 
 ---
 

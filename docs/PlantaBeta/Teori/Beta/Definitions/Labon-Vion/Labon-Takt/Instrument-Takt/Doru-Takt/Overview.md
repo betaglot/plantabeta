@@ -1,4 +1,7 @@
-# 🔻<via>DoruTakt</via>
+---
+aside: false
+---
+# Doru-Takt
 
 ---
 

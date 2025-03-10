@@ -1,4 +1,7 @@
-# 🟠<motor>BrazoPop</motor>
+---
+aside: false
+---
+# Brazo-Pop
 
 ---
 

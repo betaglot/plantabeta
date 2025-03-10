@@ -1,4 +1,7 @@
-# 🟠<motor>FootError</motor>
+---
+aside: false
+---
+# Base-Error
 
 ## FootMOTONError
 

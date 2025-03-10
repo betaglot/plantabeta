@@ -1,4 +1,4 @@
-# 🔷<beta>Kompakt</beta>
+# <beta>Kompakt</beta>
 
 ---
 

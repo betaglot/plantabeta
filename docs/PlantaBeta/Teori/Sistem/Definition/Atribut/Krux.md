@@ -1,8 +1,8 @@
-# 🔷<beta>KRUX</beta>
+# <beta>KRUX</beta>
 
 > the most difficult attribute of this Element
 
-## 🔷<beta>BetaAnalogy</beta>
+## <beta>BetaAnalogy</beta>
 
 ---
 

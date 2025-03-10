@@ -1,4 +1,7 @@
-# 🟠<motor>BaseExRotation</motor>
+---
+aside: false
+---
+# Base-ExRotation
 
 ---
 

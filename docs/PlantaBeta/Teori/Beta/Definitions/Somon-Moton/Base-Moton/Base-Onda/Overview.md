@@ -1,4 +1,7 @@
-# 🟠 <motor>LegKurve</motor>
+---
+aside: false
+---
+# Base-Onda
 
 ---
 

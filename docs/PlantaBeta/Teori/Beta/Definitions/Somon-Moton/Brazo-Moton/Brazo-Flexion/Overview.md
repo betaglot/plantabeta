@@ -1,4 +1,7 @@
-# 🟠<motor>BrazoFlexion</motor>
+---
+aside: false
+---
+# Brazo-Flexion
 
 ---
 

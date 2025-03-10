@@ -1,4 +1,7 @@
-# 🟠 <motor>LegFlexion</motor>
+---
+aside: false
+---
+# Base-Flexion
 
 ---
 

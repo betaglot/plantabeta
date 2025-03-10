@@ -1,4 +1,7 @@
-# 🟠 <motor>KitMOTON</motor>
+---
+aside: false
+---
+# Kit-MOTON
 
 AlsoKnownAs(CacheBag)
 

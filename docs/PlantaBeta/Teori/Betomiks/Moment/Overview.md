@@ -6,7 +6,7 @@ Choose which moments to display
 
 Disney Animation
 
-## Moment to Moment: 🔷<beta>Moment to Moment</beta>
+## Moment to Moment: <beta>Moment to Moment</beta>
 
 Submoment
 

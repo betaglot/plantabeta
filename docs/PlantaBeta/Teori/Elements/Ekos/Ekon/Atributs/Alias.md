@@ -2,7 +2,7 @@
 
 > other names used to refer to this Element. In english or other languages.
 
-## 🔷<beta>BetaAnalogy</beta>
+## <beta>BetaAnalogy</beta>
 
 ---
 

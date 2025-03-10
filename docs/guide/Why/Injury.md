@@ -8,7 +8,7 @@ Planting can be a dangerous job.
 
 ## Choose Safer Alternatives
 
-Plantors can get injured when they don't adapt motos to the specific situation. 🔷<beta>Put(<ekos>Plant</ekos>)</beta> gives many options to adapt motos for any situation.
+Plantors can get injured when they don't adapt motos to the specific situation. <beta>Put(<ekos>Plant</ekos>)</beta> gives many options to adapt motos for any situation.
 
 Some Plantors only know how to [🟠<motor>HandClose</motor>](/encyclopedia/MOTON/ManoMOTON/HandClose) one way, but there are many different ways. Even slightly varying a motos can reduce repetitive strain injuries.
 

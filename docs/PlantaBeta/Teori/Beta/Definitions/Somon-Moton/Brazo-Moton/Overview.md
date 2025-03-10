@@ -1,4 +1,7 @@
-# 🟠 <motor>ArmMOTON</motor>
+---
+aside: false
+---
+# Brazo-MOTON
 
 ## Arm Anatomy
 

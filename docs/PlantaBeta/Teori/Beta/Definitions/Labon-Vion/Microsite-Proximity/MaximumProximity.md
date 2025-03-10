@@ -1,4 +1,7 @@
-# 🔻<via>MaximumProximity</via>
+---
+aside: false
+---
+# MaximumProximity
 
 Aliases: Maximum Spacing
 

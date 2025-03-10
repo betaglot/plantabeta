@@ -1,4 +1,7 @@
-# 🟠 <motor>Kneel</motor>
+---
+aside: false
+---
+# Kneel
 
 ---
 

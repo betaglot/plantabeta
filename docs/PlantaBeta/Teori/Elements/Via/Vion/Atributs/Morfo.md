@@ -1,6 +1,6 @@
 # 🔻<via>ViaMorfo</via>
 
-## 🔷<beta>BetaAnalogy</beta>
+## <beta>BetaAnalogy</beta>
 
 ## BetaTypes
 

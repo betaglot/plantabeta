@@ -1,3 +1,6 @@
+---
+aside: false
+---
 # 🔻<via>Density</via>
 
 Density of Sites

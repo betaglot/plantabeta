@@ -1,4 +1,7 @@
-# 🔷<beta>Brazo.Anterior.Plast.Down.Ama</beta>
+---
+aside: false
+---
+# BrazoAnterior-Plast-Down-Ama
 
 ---
 

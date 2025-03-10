@@ -1,3 +1,6 @@
+---
+aside: false
+---
 # 🔷<soma>SOMON</soma>-🟩<ekos>EKON</ekos>-🟠<motor>MOTON</motor>-💜<anima>ANIMON</anima>
 
 ---

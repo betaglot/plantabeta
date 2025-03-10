@@ -8,7 +8,7 @@
 
 ## Weak Analogy
 
-### 🔷<beta>BetaAnalogy</beta>
+### <beta>BetaAnalogy</beta>
 
 ---
 

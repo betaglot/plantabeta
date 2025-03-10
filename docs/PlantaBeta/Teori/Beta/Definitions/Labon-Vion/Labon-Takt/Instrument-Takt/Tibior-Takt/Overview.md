@@ -1,4 +1,7 @@
-# 🔻<via>TibiorTakt</via>
+---
+aside: false
+---
+# Tibior-Takt
 
 ---
 

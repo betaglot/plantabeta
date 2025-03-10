@@ -1,6 +1,6 @@
 # 🔷 <beta>MORFO</beta>
 
-## 🔷<beta>BetaAnalogy</beta>
+## <beta>BetaAnalogy</beta>
 
 ## BetaTypes
 

@@ -1,4 +1,4 @@
-# 🔷<beta>Beta Methods</beta>
+# <beta>Beta Methods</beta>
 
 All BetaFunctions require at least 2 modules
 
@@ -10,25 +10,25 @@ All BetaFunctions require at least 2 modules
 
 - Recall
 
-## 🔷<beta>Ask(Beta)</beta>
+## <beta>Ask(Beta)</beta>
 
 🟠<motor>Speak()</motor>
 
-## 🔷<beta>Link(Beta)</beta>
+## <beta>Link(Beta)</beta>
 
 > to combine BetaBlocks
 
-## 🔷<beta>Record(Beta)</beta>
+## <beta>Record(Beta)</beta>
 
 BetaDiagram
 
 BetaVideo
 
-## 🔷<beta>Mime(Beta)</beta>
+## <beta>Mime(Beta)</beta>
 
 > to demonstrate Beta with body language without actually performing the Beta
 
-## 🔷<beta>Parse(Beta)</beta>
+## <beta>Parse(Beta)</beta>
 
 > to convert BetaString into Plantbeta
 
@@ -45,7 +45,7 @@ Abstract Syntax Tree
     - 🔻<via>Over</via>
     - 🟩<ekos>Log</ekos>
 
-## 🔷<beta>Give(Beta)</beta>
+## <beta>Give(Beta)</beta>
 
 > to communicate Beta to another person
 
@@ -53,17 +53,17 @@ Abstract Syntax Tree
 
 > There is one bag left in my piece.
 
-## 🔷<beta>Replant(<via>ViaSpace</via>)</beta>
+## <beta>Replant(<via>ViaSpace</via>)</beta>
 
-## 🔷<beta>Put()</beta>
+## <beta>Put()</beta>
 
 > to move something or someone into the stated place, position, or direction
 
-### 🔷<beta>Put(<ekos>Plant</ekos>)</beta>
+### <beta>Put(<ekos>Plant</ekos>)</beta>
 
 > to plant a plant in the soil
 
-### 🔷<beta>Put(<ekos>Root</ekos>)</beta>
+### <beta>Put(<ekos>Root</ekos>)</beta>
 
 > to place a root within a Hole
 
@@ -73,7 +73,7 @@ With BareRoots you must often curl the roots into the hole
 
 <ekos>Nanosite</ekos> is a ViaPoint
 
-### 🔷<beta>Put(<via>Marka</via>)</beta>
+### <beta>Put(<via>Marka</via>)</beta>
 
 > to place a Marka on an EkoElement
 
@@ -83,9 +83,9 @@ With BareRoots you must often curl the roots into the hole
 
 Trees/Time
 
-### 🔷<beta>Put(<motor>Hood</motor>)</beta>
+### <beta>Put(<motor>Hood</motor>)</beta>
 
-### 🔷<beta>Put(<motor>Boot</motor>)</beta>
+### <beta>Put(<motor>Boot</motor>)</beta>
 
 > put your boot onto a Contact
 
@@ -93,7 +93,7 @@ Trees/Time
 
 🟠<motor>BootSlide</motor>
 
-### 🔷<beta>Put(<anima>Memory</anima>)</beta>
+### <beta>Put(<anima>Memory</anima>)</beta>
 
 > to remember some information
 
@@ -101,29 +101,29 @@ Trees/Time
 
 "Remember this"
 
-## 🔷<beta>Get()</beta>
+## <beta>Get()</beta>
 
 > to obtain something
 
-### 🔷<beta>Get(Beta)</beta>
+### <beta>Get(Beta)</beta>
 
 > to understand or hear some Beta
 
 "Do you get it?"
 
-### 🔷<beta>Get(<ekos>Plant</ekos>)</beta>
+### <beta>Get(<ekos>Plant</ekos>)</beta>
 
 > to obtain an EkoElement
 
-#### 🔷<beta>Get(<ekos>Tree</ekos>)</beta>
+#### <beta>Get(<ekos>Tree</ekos>)</beta>
 
-#### 🔷<beta>Get(<ekos>Bundle</ekos>)</beta>
+#### <beta>Get(<ekos>Bundle</ekos>)</beta>
 
-#### 🔷<beta>Get(<ekos>Box</ekos>)</beta>
+#### <beta>Get(<ekos>Box</ekos>)</beta>
 
-#### 🔷<beta>Get(<ekos>Log</ekos>)</beta>
+#### <beta>Get(<ekos>Log</ekos>)</beta>
 
-### 🔷<beta>Get(<via>Via</via>)</beta>
+### <beta>Get(<via>Via</via>)</beta>
 
 > to move to a different place or into a different position
 
@@ -133,7 +133,7 @@ Trees/Time
 
 "Get around the obstacle"
 
-### 🔷<beta>Get(<anima>ANIMA</anima>)</beta>
+### <beta>Get(<anima>ANIMA</anima>)</beta>
 
 > to achieve a neuro state
 

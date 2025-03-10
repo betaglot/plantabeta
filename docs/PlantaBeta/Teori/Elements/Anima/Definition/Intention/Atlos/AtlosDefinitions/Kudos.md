@@ -1,4 +1,4 @@
-# 🔷<beta>Kudos</beta>
+# <beta>Kudos</beta>
 
 ---
 

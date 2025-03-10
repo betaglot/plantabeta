@@ -1,4 +1,4 @@
-# 🔷<beta>BetaParser</beta>
+# <beta>BetaParser</beta>
 
 BreakDown Beta
 

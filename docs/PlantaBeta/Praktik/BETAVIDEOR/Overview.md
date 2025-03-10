@@ -1,4 +1,4 @@
-# 🔷<beta>BetaVideo</beta>
+# <beta>BetaVideo</beta>
 
 ## Purpose
 

@@ -1,6 +1,7 @@
-# 🟠 <motor>BrazoAma</motor>
-
-![MOTONIkon](/Ikon/Motor_Ikon.png)
+---
+aside: false
+---
+# Brazo-Ama
 
 ## BrazoAma.Problem
 

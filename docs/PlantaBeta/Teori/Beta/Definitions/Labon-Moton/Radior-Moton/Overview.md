@@ -1,4 +1,7 @@
-# 🟠<motor>RadiorMOTON</motor>
+---
+aside: false
+---
+# Radior-MOTON
 
 Aliases: Vambrace, Forearm Guard
 

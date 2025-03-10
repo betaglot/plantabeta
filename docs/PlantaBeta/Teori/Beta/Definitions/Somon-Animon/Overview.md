@@ -1,3 +1,6 @@
+---
+aside: false
+---
 # 🔷<soma>SOMON</soma>-💜<anima>ANIMON</anima>
 
 ---

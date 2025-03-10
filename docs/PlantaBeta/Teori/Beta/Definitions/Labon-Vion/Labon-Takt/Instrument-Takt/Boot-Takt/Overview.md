@@ -1,4 +1,7 @@
-# 🔻<via>BootTakt</via>
+---
+aside: false
+---
+# Boot-Takt
 
 ---
 

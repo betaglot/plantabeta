@@ -1,4 +1,7 @@
-# 🟠 <motor>MarkaMOTON</motor>
+---
+aside: false
+---
+# Marka-MOTON
 
 ## MarkaPut
 

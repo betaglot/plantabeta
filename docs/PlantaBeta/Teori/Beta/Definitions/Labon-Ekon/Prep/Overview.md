@@ -1,4 +1,7 @@
-# 🟩  <ekos>PrepLand</ekos>
+---
+aside: false
+---
+# PrepLand
 
 ---
 

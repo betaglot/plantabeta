@@ -1,4 +1,7 @@
-# 🟩  <ekos>TrenchPrep</ekos>🟩
+---
+aside: false
+---
+# TrenchPrep
 
 ---
 

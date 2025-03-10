@@ -1,4 +1,4 @@
-# 🔷<beta>BetaBlock</beta>
+# <beta>BetaBlock</beta>
 
 Code Block
 

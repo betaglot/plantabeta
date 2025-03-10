@@ -1,4 +1,7 @@
-# 🟠 <motor>BoxMOTON</motor>
+---
+aside: false
+---
+# Box-MOTON
 
 🔻<via>BoxHandle</via> is the main Contact of Box.
 

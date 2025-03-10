@@ -1,4 +1,7 @@
-# 🟩  <ekos>Road</ekos>
+---
+aside: false
+---
+# Road
 
 The dirt road
 

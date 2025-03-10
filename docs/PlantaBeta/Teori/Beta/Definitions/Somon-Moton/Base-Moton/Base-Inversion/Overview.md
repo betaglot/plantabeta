@@ -1,4 +1,7 @@
-# 🟠 <motor>FootInversion</motor>
+---
+aside: false
+---
+# Base-Inversion
 
 ---
 

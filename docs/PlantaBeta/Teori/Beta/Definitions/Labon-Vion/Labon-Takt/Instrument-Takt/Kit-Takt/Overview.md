@@ -1,4 +1,7 @@
-# 🔻<via>KitTakt</via>
+---
+aside: false
+---
+# Kit-Takt
 
 ---
 

@@ -1,6 +1,6 @@
 # 💜<anima>ANIMON: Morfo</anima>
 
-## 🔷<beta>BetaAnalogy</beta>
+## <beta>BetaAnalogy</beta>
 
 ## BetaTypes
 

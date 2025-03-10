@@ -1,4 +1,7 @@
-# 🟠<motor>ArmRockOver</motor>
+---
+aside: false
+---
+# Brazo-RockOver
 
 ---
 

@@ -1,4 +1,7 @@
-# 🟠 <motor>FootDorsiflexion</motor>
+---
+aside: false
+---
+# Base-Dorsiflexion
 
 ---
 

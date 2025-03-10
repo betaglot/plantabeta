@@ -1,4 +1,7 @@
-# 🟠<motor>BaseKontakt</motor>
+---
+aside: false
+---
+# Base-Kontakt
 
 > Kontakt is a Verb
 

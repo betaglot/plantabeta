@@ -1,4 +1,7 @@
-# ⭐<labor>LABON</labor>-🔷<soma>SOMON</soma>-🟩<ekos>EKON</ekos>-🟠<motor>MOTON</motor>
+---
+aside: false
+---
+#  ⭐<labor>LABON</labor>-🔷<soma>SOMON</soma>-🟩<ekos>EKON</ekos>-🟠<motor>MOTON</motor>
 
 ---
 

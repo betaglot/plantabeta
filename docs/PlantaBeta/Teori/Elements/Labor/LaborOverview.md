@@ -29,7 +29,7 @@ Aliases: Work, Job, Task
 - You need to get it done
 - Income
 
-- 🔷<beta>SISTEM</beta>.Labor
+- <beta>SISTEM</beta>.Labor
     - TeamBeta
         - Don't take all the easy land
             - Cream someone out

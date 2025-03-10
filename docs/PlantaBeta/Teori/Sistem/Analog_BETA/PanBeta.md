@@ -16,7 +16,7 @@ Import
 
 - Port your Beta ability from a BetaSport into Planting
 
-## What is a 🔷<beta>BetaSport</beta>
+## What is a <beta>BetaSport</beta>
 
 - BetaSports don't contain Antagonists, therefore all allow Kindness between participants
 
@@ -24,7 +24,7 @@ Import
 
 ### BetaAnalogy
 
-### 🔷<beta>BETA</beta>
+### <beta>BETA</beta>
 
 ### 💜<anima>ArcheryBeta.ANIMA</anima>
 
@@ -52,7 +52,7 @@ Passing
 
 ### BetaAnalogy
 
-### 🔷<beta>BETA: BetaDiagram=PlayDiagram,</beta>
+### <beta>BETA: BetaDiagram=PlayDiagram,</beta>
 
 ### 💜<anima>BasketballBeta.ANIMA</anima>
 
@@ -66,14 +66,14 @@ Passing
     - Planted trees are like teammates in play diagrams
 - MOTONPhrase
 
-## ### 🔷<beta>BikeBeta</beta>
+## ### <beta>BikeBeta</beta>
 
 - Bike beta benefits Montreal
 - UrbanBike Beta is probably the most dangerous implementation of Beta
 
 ### BetaAnalogy
 
-### 🔷<beta>BETA</beta>
+### <beta>BETA</beta>
 
 ### 💜<anima>BikeBeta.ANIMA</anima>
 
@@ -89,7 +89,7 @@ Passing
 
 ### BetaAnalogy
 
-### 🔷<beta>BETA</beta>
+### <beta>BETA</beta>
 
 ### 💜<anima>BmxBeta.ANIMA</anima>
 
@@ -103,7 +103,7 @@ Passing
 
 ### BetaAnalogy
 
-### 🔷<beta>BETA</beta>
+### <beta>BETA</beta>
 
 ### 💜<anima>BoxingBeta.ANIMA</anima>
 
@@ -124,7 +124,7 @@ Passing
 
 ### BetaAnalogy
 
-### 🔷<beta>BETA</beta>
+### <beta>BETA</beta>
 
 ### 💜<anima>HipHopBeta.ANIMA</anima>
 
@@ -136,7 +136,7 @@ Passing
 
 ## 🔷 CalisthenicBeta
 
-### 🔷<beta>BETA</beta>
+### <beta>BETA</beta>
 
 ### 💜<anima>CalisthenicBeta.ANIMA</anima>
 
@@ -150,7 +150,7 @@ Passing
 
 ### BetaAnalogy
 
-### 🔷<beta>BETA</beta>
+### <beta>BETA</beta>
 
 ### 💜<anima>CanoeBeta.ANIMA</anima>
 
@@ -174,7 +174,7 @@ Passing
 
 ### BetaAnalogy
 
-### 🔷<beta>BETA</beta>
+### <beta>BETA</beta>
 
 ### 💜<anima>DiveBeta.ANIMA</anima>
 
@@ -194,7 +194,7 @@ Passing
 
 ### BetaAnalogy
 
-### 🔷<beta>BETA</beta>
+### <beta>BETA</beta>
 
 ### 💜<anima>FigureSkatingBeta.ANIMA</anima>
 
@@ -208,7 +208,7 @@ Passing
 
 ### BetaAnalogy
 
-### 🔷<beta>BETA</beta>
+### <beta>BETA</beta>
 
 ### 💜<anima>FootbagBeta.ANIMA</anima>
 
@@ -223,7 +223,7 @@ Passing
 ::: warning FIFA football not NFL football
 :::
 
-### 🔷<beta>BETA: BetaDiagram=PlayDiagram</beta>
+### <beta>BETA: BetaDiagram=PlayDiagram</beta>
 
 ### 💜<anima>FootballBeta.ANIMA</anima>
 
@@ -237,7 +237,7 @@ Passing
 
 ### BetaAnalogy
 
-### 🔷<beta>BETA</beta>
+### <beta>BETA</beta>
 
 ### 💜<anima>GolfBeta.ANIMA</anima>
 
@@ -253,7 +253,7 @@ Puck not Hockey since Hockey requires Anatagonists
 
 ### BetaAnalogy
 
-### 🔷<beta>BETA: BetaDiagram=PlayDiagram</beta>
+### <beta>BETA: BetaDiagram=PlayDiagram</beta>
 
 ### 💜<anima>PuckBeta.ANIMA</anima>
 
@@ -276,7 +276,7 @@ Puck not Hockey since Hockey requires Anatagonists
 
 ### BetaAnalogy
 
-### 🔷<beta>BETA</beta>
+### <beta>BETA</beta>
 
 ### 💜<anima>JavelinBeta.ANIMA</anima>
 
@@ -290,7 +290,7 @@ Puck not Hockey since Hockey requires Anatagonists
 
 ### BetaAnalogy
 
-### 🔷<beta>BETA</beta>
+### <beta>BETA</beta>
 
 ### 💜<anima>JugglingBeta.ANIMA</anima>
 
@@ -304,7 +304,7 @@ Puck not Hockey since Hockey requires Anatagonists
 
 ### BetaAnalogy
 
-### 🔷<beta>BETA</beta>
+### <beta>BETA</beta>
 
 ### 💜<anima>KayakBeta.ANIMA</anima>
 
@@ -320,7 +320,7 @@ Puck not Hockey since Hockey requires Anatagonists
 
 ### BetaAnalogy
 
-### 🔷<beta>BETA</beta>
+### <beta>BETA</beta>
 
 ### 💜<anima>KirkosBeta.ANIMA</anima>
 
@@ -346,7 +346,7 @@ IKEA Beta
 
 ### BetaAnalogy
 
-### 🔷<beta>BETA</beta>
+### <beta>BETA</beta>
 
 ### 💜<anima>LongJumpBeta.ANIMA</anima>
 
@@ -362,7 +362,7 @@ IKEA Beta
 
 ### BetaAnalogy
 
-### 🔷<beta>BETA</beta>
+### <beta>BETA</beta>
 
 ### 💜<anima>LugeBeta.ANIMA</anima>
 
@@ -372,13 +372,13 @@ IKEA Beta
 
 ### 🔻<via>LugeBeta.VIA</via>
 
-## 🔷<beta>MusicBeta</beta>
+## <beta>MusicBeta</beta>
 
 > The Beta of playing instruments, conducting and the ANIMA of BetaComposition
 
 ### BetaAnalogy
 
-### 🔷<beta>BETA</beta>
+### <beta>BETA</beta>
 
 ### 💜<anima>MusicBeta.ANIMA</anima>
 
@@ -394,7 +394,7 @@ IKEA Beta
 
 ### BetaAnalogy
 
-### 🔷<beta>BETA</beta>
+### <beta>BETA</beta>
 
 ### 💜<anima>ParkourBeta.ANIMA</anima>
 
@@ -408,7 +408,7 @@ IKEA Beta
 
 ### BetaAnalogy
 
-### 🔷<beta>BETA</beta>
+### <beta>BETA</beta>
 
 ### 💜<anima>PoleVaultBeta.ANIMA</anima>
 
@@ -422,7 +422,7 @@ IKEA Beta
 
 ### BetaAnalogy
 
-### 🔷<beta>BETA</beta>
+### <beta>BETA</beta>
 
 ### 💜<anima>LiftBeta.ANIMA</anima>
 
@@ -443,7 +443,7 @@ NitroCircus
 
 ### BetaAnalogy
 
-### 🔷<beta>BETA</beta>
+### <beta>BETA</beta>
 
 ### 💜<anima>ScooterBeta.ANIMA</anima>
 
@@ -467,7 +467,7 @@ What is the name of the scooter's shaft?
 
 ### BetaAnalogy
 
-### 🔷<beta>BETA</beta>
+### <beta>BETA</beta>
 
 ### 💜<anima>ShotPutBeta.ANIMA</anima>
 
@@ -481,7 +481,7 @@ What is the name of the scooter's shaft?
 
 ### BetaAnalogy
 
-### 🔷<beta>BETA</beta>
+### <beta>BETA</beta>
 
 ### 💜<anima>SkeletonBeta.ANIMA</anima>
 
@@ -495,7 +495,7 @@ What is the name of the scooter's shaft?
 
 ### BetaAnalogy
 
-### 🔷<beta>BETA</beta>
+### <beta>BETA</beta>
 
 ### 💜<anima>SkiAerialBeta.ANIMA</anima>
 
@@ -513,7 +513,7 @@ You're the elder you make the norms. No one can stop you. Anything other than ki
 
 ### BetaAnalogy
 
-### 🔷<beta>BETA: Plantbeta=SkiBeta</beta>
+### <beta>BETA: Plantbeta=SkiBeta</beta>
 
 ### 💜<anima>SkiAlpineBeta.ANIMA</anima>
 
@@ -539,7 +539,7 @@ Planting while your body is moving away or towards hole
 
 ### BetaAnalogy
 
-### 🔷<beta>BETA</beta>
+### <beta>BETA</beta>
 
 ### 💜<anima>SkiJumpBeta.ANIMA</anima>
 
@@ -553,7 +553,7 @@ Planting while your body is moving away or towards hole
 
 ### BetaAnalogy
 
-### 🔷<beta>BETA</beta>
+### <beta>BETA</beta>
 
 ### 💜<anima>MogulBeta.ANIMA</anima>
 
@@ -567,7 +567,7 @@ Planting while your body is moving away or towards hole
 
 ### BetaAnalogy
 
-### 🔷<beta>BETA</beta>
+### <beta>BETA</beta>
 
 ### 💜<anima>SnowboardBeta.ANIMA</anima>
 
@@ -581,7 +581,7 @@ Planting while your body is moving away or towards hole
 
 ### BetaAnalogy
 
-### 🔷<beta>BETA</beta>
+### <beta>BETA</beta>
 
 ### 💜<anima>SnowParkBeta.ANIMA</anima>
 
@@ -595,7 +595,7 @@ Planting while your body is moving away or towards hole
 
 [List of Tricks and Maneuvers](https://www.surfertoday.com/surfing/the-complete-list-of-surfing-tricks-and-maneuvers)
 
-### 🔷<beta>BETA: Element=Maneuver </beta>
+### <beta>BETA: Element=Maneuver </beta>
 
 ### 💜<anima>SurfBeta.ANIMA</anima>
 
@@ -609,7 +609,7 @@ Planting while your body is moving away or towards hole
 
 ### BetaAnalogy
 
-### 🔷<beta>SwimBeta.BETA</beta>
+### <beta>SwimBeta.BETA</beta>
 
 ### 💜<anima>SwimBeta.ANIMA</anima>
 
@@ -621,7 +621,7 @@ Planting while your body is moving away or towards hole
 
 ## 🔷 Trampoline (TrampBeta)
 
-### 🔷<beta>BETA</beta>
+### <beta>BETA</beta>
 
 ### 💜<anima>TrampBeta.ANIMA</anima>
 
@@ -678,7 +678,7 @@ On the streets, on campus, in airports, in public transit
 
 ## 🔷 Yoga (YogaBeta)
 
-### 🔷<beta>BETA</beta>
+### <beta>BETA</beta>
 
 ### 💜<anima>YogaBeta.ANIMA</anima>
 

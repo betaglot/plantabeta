@@ -1,4 +1,7 @@
-# 🟠<motor>BrazoCompress</motor>
+---
+aside: false
+---
+# Brazo-Compress
 
 ---
 

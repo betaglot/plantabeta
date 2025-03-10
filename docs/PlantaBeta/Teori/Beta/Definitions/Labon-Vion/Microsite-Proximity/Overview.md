@@ -1,4 +1,7 @@
-# <via>Proximity</via>
+---
+aside: false
+---
+# Proximity
 
 > the Space that you move through while following a Line
 

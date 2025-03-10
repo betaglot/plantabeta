@@ -1,4 +1,7 @@
-# 🔻<via>MinimumProximity</via>
+---
+aside: false
+---
+# Minimum-Proximity
 
 Aliases: Minimums, Minimum Spacing
 

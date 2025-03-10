@@ -1,4 +1,7 @@
-# 🟠 <motor>SpadeMOTON</motor>
+---
+aside: false
+---
+# Spade-MOTON
 
 ## SpadeMOTON.Anatomy
 

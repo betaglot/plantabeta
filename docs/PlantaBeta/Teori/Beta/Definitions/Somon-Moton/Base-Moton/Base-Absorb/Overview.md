@@ -1,4 +1,7 @@
-# 🟠 <motor>LegAbsorb</motor>
+---
+aside: false
+---
+# Base-Absorb
 
 ---
 

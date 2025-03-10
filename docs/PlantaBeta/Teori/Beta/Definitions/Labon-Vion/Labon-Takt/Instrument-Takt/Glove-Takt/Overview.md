@@ -1,4 +1,7 @@
-# 🔻<via>GloveTakt</via>
+---
+aside: false
+---
+# Glove-Takt
 
 ---
 

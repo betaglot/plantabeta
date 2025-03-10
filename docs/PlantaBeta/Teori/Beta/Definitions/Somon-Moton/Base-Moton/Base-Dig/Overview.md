@@ -1,4 +1,7 @@
-# 🟠 <motor>FootDig</motor>
+---
+aside: false
+---
+# Base-Dig
 
 ---
 

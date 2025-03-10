@@ -1,8 +1,8 @@
-# 🔷<beta>ERROR</beta>
+# <beta>ERROR</beta>
 
 > any errors that can occur during the practice of this Element
 
-## 🔷<beta>BetaAnalogy</beta>
+## <beta>BetaAnalogy</beta>
 
 Error in performance
 

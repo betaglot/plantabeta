@@ -1,4 +1,7 @@
-# 🟠 <motor>BaseAbduction</motor>
+---
+aside: false
+---
+# Base-Abduction
 
 ---
 

@@ -1,3 +1,6 @@
+---
+aside: false
+---
 # ⭐<labor>LABON</labor>-🟩<ekos>EKON</ekos>-🟠<motor>MOTON</motor>-💜<anima>ANIMON</anima>
 
 ---

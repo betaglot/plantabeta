@@ -14,7 +14,7 @@ aside: false
 
 - BranchMano
     - When the Branch is small diameter, you can use your use your thumb to oppose your fingers, instead of using your palm
-        - Branch is compressed between ThumbDistalPhalanx and IntermediatePhalanges or ProximalPhalanges of IndexFinger and MiddleFinger
+    - Branch is compressed between ThumbDistalPhalanx and IntermediatePhalanges or ProximalPhalanges of IndexFinger and MiddleFinger
 - BranchPull
     - Pull up on to maintain Balance
         - Like how coaches support kids on balance beams Analogy({Coach: Kid, Branch: Plantor})

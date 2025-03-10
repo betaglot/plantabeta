@@ -1,4 +1,4 @@
-# 🔷<beta>ANATOMIA</beta>
+# <beta>ANATOMIA</beta>
 
 > the parts of the Element
 

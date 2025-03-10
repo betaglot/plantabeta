@@ -1,3 +1,6 @@
+---
+aside: false
+---
 # ⭐<labor>PieceDensity</labor>
 
 ---

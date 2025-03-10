@@ -1,4 +1,7 @@
-# 🟠 <motor>BaseSkreef</motor>
+---
+aside: false
+---
+# Base-Skreef
 
 ---
 

@@ -1,4 +1,4 @@
-# 🔷<beta>BetaTranscriber</beta>
+# <beta>BetaTranscriber</beta>
 
 ---
 

@@ -1,4 +1,7 @@
-# 🟠<motor>BaseInRotation</motor>
+---
+aside: false
+---
+# Base-InRotation
 
 ---
 

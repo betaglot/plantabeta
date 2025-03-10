@@ -1,4 +1,4 @@
-# 🔷<beta>ANALOGIA</beta>
+# <beta>ANALOGIA</beta>
 
 > analogous Elements in other BetaSports
 
@@ -8,7 +8,7 @@
 
 ## Weak Analogy
 
-### 🔷<beta>BetaAnalogy</beta>
+### <beta>BetaAnalogy</beta>
 
 ---
 

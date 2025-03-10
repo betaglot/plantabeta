@@ -1,4 +1,7 @@
-# 🟠<motor>BrazoLock</motor>
+---
+aside: false
+---
+# Brazo-Lock
 
 ---
 

@@ -1,4 +1,9 @@
 {
   "MD013": false,
-  "single-h1": false
+  "single-h1": false,
+  "MD033": false,
+  "ul-indent": {
+    "indent": 4
+  },
+  "single-trailing-newline":false
 }

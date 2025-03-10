@@ -1,4 +1,7 @@
-# 🟠<motor>NeonMOTON</motor>
+---
+aside: false
+---
+# Neon-MOTON
 
 ---
 

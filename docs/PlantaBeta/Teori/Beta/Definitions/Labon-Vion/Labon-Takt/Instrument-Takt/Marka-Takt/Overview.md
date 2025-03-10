@@ -1,4 +1,7 @@
-# 🔻<via>MarkaTakt</via>
+---
+aside: false
+---
+# Marka-Takt
 
 ---
 

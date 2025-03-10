@@ -1,4 +1,4 @@
-# 🔷<beta>ELEMENT</beta>
+# <beta>ELEMENT</beta>
 
 All Elements have Attributes and Methods
 
@@ -8,7 +8,7 @@ A method can be a Problema
 
 ## Elements of each BetaType
 
-- 🔷<beta>BETUM</beta>
+- <beta>BETUM</beta>
 - 🟠<motor>MOTON</motor>
 - 🔻<via>VIUM</via>
 - 🟩<ekos>EKON</ekos>

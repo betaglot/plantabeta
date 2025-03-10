@@ -1,4 +1,7 @@
-# 🟩<ekos>CreamSoil</ekos>
+---
+aside: false
+---
+# CreamSoil
 
 ---
 

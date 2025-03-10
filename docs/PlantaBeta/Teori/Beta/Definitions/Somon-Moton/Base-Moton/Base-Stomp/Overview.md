@@ -1,4 +1,7 @@
-# 🟠 <motor>Stomp</motor>
+---
+aside: false
+---
+# Stomp
 
 ---
 

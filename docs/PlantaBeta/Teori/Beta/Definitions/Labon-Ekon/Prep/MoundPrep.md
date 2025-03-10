@@ -1,4 +1,7 @@
-# 🟩  <ekos>MoundPrep</ekos>
+---
+aside: false
+---
+# MoundPrep
 
 ## Mounding Error
 

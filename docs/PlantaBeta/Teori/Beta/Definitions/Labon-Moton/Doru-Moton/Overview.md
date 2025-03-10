@@ -1,4 +1,7 @@
-# 🟠<motor>DoruMOTON</motor>
+---
+aside: false
+---
+# Doru-MOTON
 
 ---
 

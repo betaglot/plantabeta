@@ -1,4 +1,7 @@
-# 🔷<beta>BaseReach</beta>
+---
+aside: false
+---
+# Base-Reach
 
 ---
 

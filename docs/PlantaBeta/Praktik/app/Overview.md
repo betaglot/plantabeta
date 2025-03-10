@@ -1,4 +1,4 @@
-# 🔷<beta>BetaApp</beta>
+# <beta>BetaApp</beta>
 
 Everything made so far is Documentation for this App. App is designed to mimic a plantor's experience. Plantors create, edit, view, browse, compose, record Beta.
 

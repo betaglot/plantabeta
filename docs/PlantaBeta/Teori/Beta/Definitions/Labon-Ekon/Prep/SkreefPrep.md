@@ -1,4 +1,7 @@
-# 🟩<ekos>SkreefPrep</ekos>
+---
+aside: false
+---
+# SkreefPrep
 
 ---
 

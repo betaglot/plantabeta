@@ -1,4 +1,7 @@
-# 🟠 <motor>ArmKurve</motor>
+---
+aside: false
+---
+# Brazo-Onda
 
 ---
 

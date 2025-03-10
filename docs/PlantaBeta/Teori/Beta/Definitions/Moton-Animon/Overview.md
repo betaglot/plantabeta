@@ -1,3 +1,6 @@
+---
+aside: false
+---
 # 🟠<motor>MOTON</motor>-💜<anima>ANIMON</anima>
 
 ---

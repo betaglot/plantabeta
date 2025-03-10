@@ -1,4 +1,7 @@
-# 🟠<motor>BottleMOTON</motor>
+---
+aside: false
+---
+# Bottle-MOTON
 
 Aliases: water bottle
 

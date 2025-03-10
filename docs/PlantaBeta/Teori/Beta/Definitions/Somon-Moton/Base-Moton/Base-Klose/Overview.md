@@ -1,4 +1,7 @@
-# 🟠 <motor>BootKlose</motor>
+---
+aside: false
+---
+# BootKlose
 
 Aliases: FootClose
 

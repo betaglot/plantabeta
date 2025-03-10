@@ -1,4 +1,7 @@
-# 🔷<beta>BrazoAnterior_Ama</beta>
+---
+aside: false
+---
+# BrazoAnterior-Ama
 
 ---
 

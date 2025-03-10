@@ -1,3 +1,6 @@
+---
+aside: false
+---
 # ⭐<labor>DivDensity</labor>
 
 ---

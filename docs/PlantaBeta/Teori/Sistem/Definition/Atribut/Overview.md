@@ -1,4 +1,4 @@
-# 🔷<beta>ATRIBUTOS</beta>
+# <beta>ATRIBUTOS</beta>
 
 ## Class Attribute
 

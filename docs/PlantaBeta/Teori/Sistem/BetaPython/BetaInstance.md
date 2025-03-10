@@ -1,4 +1,4 @@
-# 🔷<beta>Beta Instance</beta>
+# <beta>Beta Instance</beta>
 
 ## Definition(BetaInstance)
 

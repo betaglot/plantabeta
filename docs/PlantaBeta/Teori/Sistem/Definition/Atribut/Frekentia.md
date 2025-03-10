@@ -1,4 +1,4 @@
-# 🔷<beta>FREKENTIA</beta>
+# <beta>FREKENTIA</beta>
 
 > the statistics of this Element
 

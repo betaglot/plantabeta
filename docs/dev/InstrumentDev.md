@@ -2,13 +2,13 @@
 
 The most important constraint for Instruments is the space it takes in the Truck.
 
-## 🔷<beta>TrailerDev</beta>
+## <beta>TrailerDev</beta>
 
 A trailer loaded with everthing that PLANTERS need for their season. For plantors only, not for company logistics like water purification or showers or kitchen.
 
 > What your company needs to join the cutting edge of tree plantor technology
 
-### Analogous to:
+### Analogous to
 
 - GearRoom
 - GearShed

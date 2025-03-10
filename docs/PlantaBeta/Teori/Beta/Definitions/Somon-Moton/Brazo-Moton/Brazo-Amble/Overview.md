@@ -1,4 +1,7 @@
-# 🟠 <motor>ArmAmble</motor>
+---
+aside: false
+---
+# Brazo-Amble
 
 Aliases: ArmWalk
 

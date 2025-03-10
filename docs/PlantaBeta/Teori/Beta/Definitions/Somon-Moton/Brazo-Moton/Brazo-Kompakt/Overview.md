@@ -1,4 +1,7 @@
-# 🔷<beta>BrazoKompakt</beta>
+---
+aside: false
+---
+# Brazo-Kompakt
 
 ---
 

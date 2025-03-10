@@ -1,4 +1,7 @@
-# 🔷<beta>Brazo_Kontakt</beta>
+---
+aside: false
+---
+# Brazo-Kontakt
 
 ---
 

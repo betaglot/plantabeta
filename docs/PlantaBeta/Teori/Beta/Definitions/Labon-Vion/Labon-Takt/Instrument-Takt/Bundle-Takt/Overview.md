@@ -1,4 +1,7 @@
-# 🔻<via>BundleTakt</via>
+---
+aside: false
+---
+# Bundle-Takt
 
 ---
 

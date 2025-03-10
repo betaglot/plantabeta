@@ -1,4 +1,7 @@
-# 🟠 <motor>BundleMOTON</motor>
+---
+aside: false
+---
+# Bundle-MOTON
 
 ---
 

@@ -1,4 +1,7 @@
-# 🟠 <motor>StepOver</motor>
+---
+aside: false
+---
+# Step-Over
 
 ---
 

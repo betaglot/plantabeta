@@ -1,4 +1,7 @@
-# 🔻<via>BoxTakt</via>
+---
+aside: false
+---
+# Box-Takt
 
 ---
 

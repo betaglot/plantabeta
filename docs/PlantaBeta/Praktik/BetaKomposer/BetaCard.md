@@ -1,4 +1,4 @@
-# 🔷<beta>BetaCard</beta>
+# <beta>BetaCard</beta>
 
 ## BetaCardStack
 

@@ -1,4 +1,4 @@
-# 🔷<beta>Flux</beta>
+# <beta>Flux</beta>
 
 Aliases: Flow, Fluidity, Fluency, Transition
 

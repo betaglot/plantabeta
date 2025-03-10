@@ -1,8 +1,7 @@
 ---
-title: Leaf-Takt
 aside: false
 ---
-# {{ frontmater.title }}
+# Leaf-Takt
 
 ---
 

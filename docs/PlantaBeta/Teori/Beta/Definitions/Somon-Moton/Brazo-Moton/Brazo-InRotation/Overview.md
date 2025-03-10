@@ -1,4 +1,7 @@
-# 🟠<motor>BrazoInRotation</motor>
+---
+aside: false
+---
+# BrazoInRotation
 
 ---
 

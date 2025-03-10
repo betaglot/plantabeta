@@ -1,4 +1,7 @@
-# 🟠 <motor>TruckMOTON</motor>
+---
+aside: false
+---
+# Truck-MOTON
 
 ## Truck Anatomy
 

@@ -1,4 +1,7 @@
-# 🟠 <motor>BaseMOTON</motor>
+---
+aside: false
+---
+# Base-MOTON
 
 ## Base.Anatomy
 

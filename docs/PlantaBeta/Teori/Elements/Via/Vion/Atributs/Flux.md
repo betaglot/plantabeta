@@ -2,7 +2,7 @@
 
 Aliases: Flow, Flowing MOTONment, Fluidity, Fluid movement, Continuous, NonStop, Constantly Changing, ever moving, fleeting,
 
-## 🔷<beta>BetaAnalogy</beta>
+## <beta>BetaAnalogy</beta>
 
 ## Qualifiers
 
@@ -16,7 +16,7 @@ Connection Score
 
 ## 🟠<motor>MOVE.Flux</motor>
 
-### 🔷<beta>BetaAnalogy</beta>
+### <beta>BetaAnalogy</beta>
 
 (GymBeta, SkateBeta): ConnectionScore
 

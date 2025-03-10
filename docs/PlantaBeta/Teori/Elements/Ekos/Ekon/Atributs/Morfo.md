@@ -1,6 +1,6 @@
 # 🟩<ekos>EKON: Morfo</ekos>
 
-## 🔷<beta>BetaAnalogy</beta>
+## <beta>BetaAnalogy</beta>
 
 ## BetaTypes
 

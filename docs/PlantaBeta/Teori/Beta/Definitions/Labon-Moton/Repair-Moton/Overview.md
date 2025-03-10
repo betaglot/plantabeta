@@ -1,4 +1,7 @@
-# 🟠 <motor>Instrument Repair</motor>
+---
+aside: false
+---
+# Instrument-Repair
 
 Temporary Repair until you can have your Instruments repaired by a professional.
 

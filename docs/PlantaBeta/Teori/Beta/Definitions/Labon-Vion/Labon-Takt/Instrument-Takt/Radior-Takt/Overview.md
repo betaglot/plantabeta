@@ -1,4 +1,7 @@
-# 🔻<via>RadiorTakt</via>
+---
+aside: false
+---
+# Radior-Takt
 
 ---
 

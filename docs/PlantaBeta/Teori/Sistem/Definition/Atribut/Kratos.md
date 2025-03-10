@@ -2,7 +2,7 @@
 
 > the power of this Element
 >
-## 🔷<beta>BetaAnalogy</beta>
+## <beta>BetaAnalogy</beta>
 
 ## Kratos = (Geometry + Via)
 

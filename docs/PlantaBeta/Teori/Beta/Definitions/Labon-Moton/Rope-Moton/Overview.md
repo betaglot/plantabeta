@@ -1,4 +1,7 @@
-# 🟠 <motor>RopeMOTON</motor>
+---
+aside: false
+---
+# Rope-MOTON
 
 ---
 

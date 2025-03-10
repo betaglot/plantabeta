@@ -1,4 +1,7 @@
-# 🔻<via>KarabinerTakt</via>
+---
+aside: false
+---
+# Karabiner-Takt
 
 ---
 

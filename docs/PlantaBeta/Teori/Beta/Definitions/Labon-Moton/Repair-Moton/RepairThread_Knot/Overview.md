@@ -1,4 +1,7 @@
-# 🔷<beta>RepairThread_Knot</beta>
+---
+aside: false
+---
+# RepairThread-Knot
 
 ---
 

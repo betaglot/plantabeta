@@ -1,4 +1,7 @@
-# 🟠 <motor>HeadMOTON</motor>
+---
+aside: false
+---
+# Head-MOTON
 
 ## Head Anatomy
 

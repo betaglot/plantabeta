@@ -1,4 +1,7 @@
-# 🟠 <motor>ClothingLayer</motor>
+---
+aside: false
+---
+# ClothingLayer-Moton
 
 ## AddClothingLayer
 

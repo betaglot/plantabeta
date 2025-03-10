@@ -1,4 +1,4 @@
-# 🔷<beta>BetaString</beta>
+# <beta>BetaString</beta>
 
 People speak BetaStrings
 

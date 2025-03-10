@@ -74,7 +74,7 @@ Remember f(x) = 2x ?
 
 ## What do the icons mean?
 
-🔷<beta>Beta</beta>: The system used to prescribe or describe a plantor's experience.
+<beta>Beta</beta>: The system used to prescribe or describe a plantor's experience.
 
 "beta" comes from climbing. It is any information about how to climb something. The term beta is an abbreviation of Betamax, which was hardware used to record video, like a VHS cassette tape 📼. Before the internet climbers would give each other Betamax video tapes of climbs, so if you wanted to see a video of climb was performed you would ask for the "Beta". Although people no longer use tapes 📼, the term is still used in climbing all the time and is sometimes used in other mountain sports, such as, mountain biking and skiing.
 
@@ -139,19 +139,19 @@ Beta is composed of four types, each of which can be represented by an icon:
 
 - 🔻<via>[MarkaError](/encyclopedia/Via/)</via>: Attempt to high Marka in fill plants whenever possible. The Marka may fall to the ground, but it's worth taking the chance since a high Marka is more valuable than the time wasted from a HighMarka Fail.
 
-- 🔷<beta>Lesson</beta>: Point out microsites so plantor can work on walking speed while not thinking about SiteSelection
+- <beta>Lesson</beta>: Point out microsites so plantor can work on walking speed while not thinking about SiteSelection
     - Isolate Elements, Isolate Skills. Decompose Elements into subelements then instruct them in isolation.
 
-- 🔷<beta>Lesson</beta>: Follow the instructor. Follow the instructor while they plant. Instructor can make error on purpose to test student's 💜<anima>ErrorDetection</anima> ability. You integrate information more deeply when teaching it, students become teachers in this lesson.
+- <beta>Lesson</beta>: Follow the instructor. Follow the instructor while they plant. Instructor can make error on purpose to test student's 💜<anima>ErrorDetection</anima> ability. You integrate information more deeply when teaching it, students become teachers in this lesson.
 
-- 🔷<beta>Instruction</beta>: Let Plantor get in the groove before observing
+- <beta>Instruction</beta>: Let Plantor get in the groove before observing
     - CurrentSite, AnteSite, PostSite are NOT NULL is more realistic than one tree at a time.
 
-- 🔷<beta>Instruction</beta>: CurseOfKnowledge. Instructors can take for granted their knowledge. When using jargon for the first few times, remember to explain to student what it means.
+- <beta>Instruction</beta>: CurseOfKnowledge. Instructors can take for granted their knowledge. When using jargon for the first few times, remember to explain to student what it means.
 
-- 🔷<beta>Instruction</beta>: Only ask for an answer to a question that students could plausibly know. Apriori will only cause frustration and can easily become condescending.
+- <beta>Instruction</beta>: Only ask for an answer to a question that students could plausibly know. Apriori will only cause frustration and can easily become condescending.
 
-- 🔷<beta>Instruction</beta>: So there isn't resistance, set the intentions of student by asking questions like "Do you want to plant as fast as possible?", "Why are we doing this lesson?", " Why did you come planting?"
+- <beta>Instruction</beta>: So there isn't resistance, set the intentions of student by asking questions like "Do you want to plant as fast as possible?", "Why are we doing this lesson?", " Why did you come planting?"
 
 ## What if you disagree with some of its content?
 

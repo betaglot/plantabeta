@@ -1,4 +1,7 @@
-# 🟠 <motor>Base_Step</motor>
+---
+aside: false
+---
+# Base-Step
 
 ---
 

@@ -1,4 +1,7 @@
-# ⭐<labor>LABON</labor>-🟠<motor>MOTON</motor>
+---
+aside: false
+---
+#  ⭐<labor>LABON</labor>-🟠<motor>MOTON</motor>
 
 ---
 

@@ -1,4 +1,7 @@
-# 🟠<motor>ArmHook</motor>
+---
+aside: false
+---
+# Brazo-Hook
 
 ---
 

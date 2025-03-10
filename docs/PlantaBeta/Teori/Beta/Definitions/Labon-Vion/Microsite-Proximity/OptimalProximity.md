@@ -1,4 +1,7 @@
-# 🔻<via>OptimalProximity</via>
+---
+aside: false
+---
+# Optimal-Proximity
 
 Aliases: Contract Spacing
 

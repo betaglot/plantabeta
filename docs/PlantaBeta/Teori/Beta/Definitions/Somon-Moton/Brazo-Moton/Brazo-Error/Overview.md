@@ -1,4 +1,7 @@
-# 🟠<motor>ArmError</motor>
+---
+aside: false
+---
+# Brazo-Error
 
 ---
 

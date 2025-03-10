@@ -1,4 +1,7 @@
-# 🔻<via>SpadeTakt</via>
+---
+aside: false
+---
+# Spade-Takt
 
 ---
 

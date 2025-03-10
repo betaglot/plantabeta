@@ -1,4 +1,7 @@
-# 🟠<motor>BrazoOrbit.md</motor>
+---
+aside: false
+---
+# Brazo-Orbit
 
 ---
 

@@ -1,4 +1,7 @@
-# 🟠<motor>BrazoExRotation</motor>
+---
+aside: false
+---
+# Brazo-ExRotation
 
 ---
 
