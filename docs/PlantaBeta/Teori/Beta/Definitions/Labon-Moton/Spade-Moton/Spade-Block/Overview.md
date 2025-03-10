@@ -1,7 +1,7 @@
 ---
 aside: false
 ---
-# Spade-Block</motor>
+# Spade-Block
 
 > Block flora using the SpadeCollar
 
