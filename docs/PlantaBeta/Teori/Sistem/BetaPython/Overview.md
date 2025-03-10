@@ -7,9 +7,9 @@ Plantbeta is the Python package which is used to formally write Beta.
 ::: tip Bjarne Stroustrup to Lex Fridman
 
 > "Philosophy is important for C++ because you are determining what people can express and how. "
-
+---
 > "What can be outputted?"
-
+---
 > "What is the output what are the inputs and how are they processed? "
 :::
 

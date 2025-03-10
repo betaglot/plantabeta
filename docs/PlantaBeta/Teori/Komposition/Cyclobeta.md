@@ -5,7 +5,7 @@ This should be a Chart
 ## It's an Iterative Process
 
 > doing something again and again, usually to improve it
-
+---
 > a cycle of improvement
 
 ## 0. Choose a Target
@@ -19,7 +19,7 @@ This should be a Chart
 - Look at the Eko
 
 > "Scope it out"
-
+---
 > "Suss it out"
 
 ### 🟩<ekos>Look at the Eko</ekos>

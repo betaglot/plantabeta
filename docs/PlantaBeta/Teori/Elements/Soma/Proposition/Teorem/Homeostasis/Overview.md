@@ -1,4 +1,4 @@
-# 👷‍♀️<soma>Homeostasis</soma>
+# 🔷<soma>Homeostasis</soma>
 
 ![Anima_Ikon](/Ikon/Anima_Ikon.png)
 

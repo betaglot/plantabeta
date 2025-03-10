@@ -5,12 +5,10 @@
 - Mental Rotation
 
 > Where is the cache?
-
+---
 > How do I get there?
-
+---
 > What is the fastest way there?
-
->
 
 ## Spatial Location
 

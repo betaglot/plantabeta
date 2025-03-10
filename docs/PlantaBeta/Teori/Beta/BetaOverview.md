@@ -1,7 +1,7 @@
 # 🌈<beta>BETA</beta>🌈
 
 > A <beta>BETUM</beta> is a unit of <beta>BETA</beta>
-
+---
 > PLANTABETA or "BETA" for short, is the **information** that you use to perform planting tasks.
 
 A <beta>BETUM</beta> must be composed of at least two Elements of a different Group which occur within the same Moment
@@ -25,9 +25,9 @@ Betamax was a piece of hardware (similar to a VHS tape or cassete) which was use
 - If you're a climber, then you're likely familiar with the term "beta"
 
 > In climbing _beta_ is the information about the _motos_, _sequences_, and _holds_ of a climb. If someone asks you for a climb's BETA, then they want to know how you climbed it.
-
+---
 > BETA could be something as simple as the general type of _holds_, like “it’s all slopers” or just the type of rock and length.
-
+---
 > BETA in climbing can be very detailed down to the exact way you _Mano_ a specific hold i.e. “pinch the left side with your first two fingers so there’s space to match with your other hand”.
 
 :::

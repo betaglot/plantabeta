@@ -5,5 +5,8 @@
   "ul-indent": {
     "indent": 4
   },
-  "single-trailing-newline":false
+  "single-trailing-newline":false,
+  "MD024":false,
+  "MD026": false
+
 }

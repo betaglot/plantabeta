@@ -3,7 +3,7 @@
 <!-- This page explains what a problem is. The actual list of problems are within each BetaType Section in the Referencia -->
 
 > a task, that which is proposed, a question
-
+---
 > All problems return objects
 
 ## Givens

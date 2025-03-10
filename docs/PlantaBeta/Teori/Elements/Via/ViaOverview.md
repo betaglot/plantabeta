@@ -82,11 +82,11 @@ Not worth the trouble
 ### "By way of"
 
 > "Be able to because of"
-
+---
 > MOTON VIA EKO
-
+---
 > "Move by way of the land"
-
+---
 > "Use that branch to pull yourself up"
 
 - Computational Geometry
@@ -99,7 +99,7 @@ Not worth the trouble
 - To be able to have a detailed mental model of your land, so that you can plan how you're going to Cover your lang.
 
 > a particular way or direction between places
-
+---
 > a method of achieving something
 
 Also Known As "Land Management"

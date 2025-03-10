@@ -99,7 +99,7 @@ Knowing how to solve a problem isn't the same as actually solving the problem. K
 You can't have Practice in the encyclopedia. Practice only exists in the Akademeia Section.
 
 > When we try to think our way out of bad situations to avoid getting hurt, we become engaged in trying to think of a solution instead of acting on one
-
+---
 > Use your Knowledge to act
 
 It seems like there is a bias towards action instead of theory, like theory is somehow useless.

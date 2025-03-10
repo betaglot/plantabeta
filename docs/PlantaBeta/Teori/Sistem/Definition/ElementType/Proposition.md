@@ -3,15 +3,15 @@
 ## Definition(**Proposition**)
 
 > an offer or suggestion
-
+---
 > an idea or opinion
-
+---
 > a statement or problem that must be solved or proved to be **either** true or not true.
 
 ### Definition(Proof)
 
 > a fact or piece of information that shows that something exists or is true
-
+---
 > A mathematical proof is a deductive argument for a mathematical statement, showing that the stated assumptions logically guarantee the conclusion
 
 New objects can be introduced to prove a statement
@@ -29,9 +29,9 @@ New objects can be introduced to prove a statement
 ### Definition(Theorema)
 
 > Given some set of inital objects, a theorem asserts some property that is true of these objects
-
+---
 > a formal statement that can be shown to be true by logic
-
+---
 > a general proposition not self-evident but proved by a chain of reasoning; a truth established by means of accepted truths
 
 ### Similarities
@@ -132,7 +132,7 @@ Relying on other Statements
 ## What is the relationship between Classes and Statements?
 
 > Each Statement is a Class?
-
+---
 > Statements contain instances of Elements
 
 Classes are composed of both Problems and Theorems

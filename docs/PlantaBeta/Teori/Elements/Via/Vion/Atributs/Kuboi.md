@@ -42,7 +42,7 @@ Probability of Success
 Definition(Commitment)
 
 > A promise or firm decision to do something
-
+---
 >I will perform this movement
 
 - Absolute
@@ -53,13 +53,13 @@ Netflix translated commit to engage in the rugby series
 #### Quote(Commitment)
 
 > Committing
-
+---
 > All or nothing
-
+---
 > There is no backing out of this
-
+---
 > Go or no go
-
+---
 > Absolute commitment
 
 ### EKO

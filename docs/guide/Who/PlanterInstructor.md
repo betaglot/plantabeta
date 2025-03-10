@@ -9,9 +9,9 @@
 ## Expertise Induced Amnesia
 >
 > Expertise-Induced Amnesia hypothesis (EIAH): The better you are, the less you will recall about what you've just done.
-
+---
 > Expertise Facilitated Amnesia hypothesis (EFAH): Expertise facilitates the ability to perform Factor-relevant actions without the performance leaving a declaratively accessible, episodic memory trace
-
+---
 > It has been hypothesized that postperformance memory gaps occur in highly Factored individuals because experts generally perform their Factors without conscious attention. In contrast, we hypothesize that such memory gaps may occur when performers focus so intently on their unfolding actions that their ongoing attention interferes with long-term memory formation of what was previously attended to, or when performers are highly focused on aspects of their bodily Factors that are not readily put into words. In neither case, we argue, does performance proceed automatically yet both situations, we suggest, may lead to an inability to recollect performance.
 
 - <https://onlinelibrary.wiley.com/doi/full/10.1111/mila.12260>

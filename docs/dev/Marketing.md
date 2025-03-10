@@ -10,7 +10,7 @@ The closest step isnt forestry, its writing
 :::
 
 > It Hits. It landed. It connected with the audience crowd viewers.
-
+---
 > **Put** the word out
 
 ::: danger
@@ -96,7 +96,7 @@ King Kong Reforestation
 ## Wild
 
 >Definition: very unusual, often in a way that is attractive or exciting
-
+---
 >"*Those are wild trousers you're wearing, Maddy.*"
 
 ## Competition

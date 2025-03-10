@@ -1,12 +1,12 @@
 # Affordance
 
 > An affordance is a relationship between the properties of an object and the capabilities of the agent that determine just how the object could possibly be used
-
+---
 > For aspect of an object's appearance that suggests what you can to do it, such as it's liftability, squeezeability, plantability
 
 Udo Neumann
 
-## Able to...
+## Able to
 
 - Putability
 - Plantability
@@ -38,7 +38,7 @@ What is possible?
 
 What is attainable?
 
-## affords you...
+## affords you
 
 - time
 - space

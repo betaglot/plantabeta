@@ -2,8 +2,6 @@
 
 Aliases: Flow, Flowing MOTONment, Fluidity, Fluid movement, Continuous, NonStop, Constantly Changing, ever moving, fleeting,
 
-## <beta>BetaAnalogy</beta>
-
 ## Qualifiers
 
 - Smooth
@@ -47,3 +45,16 @@ Transition to another Direction
 ## EKO Transition
 
 ### Plastekt
+
+---
+
+<!-- =================================================== -->
+<!-- =================================================== -->
+<!-- =================================================== -->
+<!-- =================================================== -->
+<!-- =================================================== -->
+::: details 🛠
+
+-
+
+:::

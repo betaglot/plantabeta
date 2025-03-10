@@ -27,7 +27,7 @@ Not a place where many duplicates items are stored
 - repository
 - storage
 
-#### InstrumentRequirements()
+#
 
 ## 🔻<via>MarkaDev</via>
 
@@ -42,8 +42,6 @@ Not a place where many duplicates items are stored
 - Kirigami-enabled self-folding origami
     - <https://www.sciencedirect.com/science/article/pii/S1369702119307394>
     - Bilayer that curves when stretched and released. For FloraWrap
-
-### InstrumentRequirements()
 
 - How are notebooks perforated?
 - Marka wrap is waiter bill fold
@@ -77,14 +75,10 @@ Kiklos: wheel
 
 Aliases: Cart, Wagon, Trolley, Dolly, WheelBarrow
 
-### InstrumentRequirements()
-
 - WalkIn
 - BoxMOTON
 
 ## 🟠<motor>DoruDev</motor>
-
-### InstrumentRequirements()
 
 Greek for Spear
 
@@ -100,8 +94,6 @@ Plantafors are not planting bags, in the same way that a Jeep is not a Model-T
 
 Email Ottawa franchise of Patagonia. Then you can communicate in person and probably to a Canadian
 
-### InstrumentRequirements()
-
 ### Bags Transport Configuration
 
 Packed up space. Fold up Bag like origami
@@ -113,8 +105,6 @@ Partially Disassemble to reduce space
 Somehow use Plantafor to carry a PieceCache
 
 ### 🟠<motor>BagMaterialDev</motor>
-
-#### InstrumentRequirements()
 
 - Not plastic
 - Carbon Fiber
@@ -361,8 +351,6 @@ SuitParts = [
 - Big zipper
 
 ### 🟠<motor>GloveDev</motor>
-
-#### InstrumentRequirements()
 
 - GloveShell
     - HardSurface on palm like Starwars StormTrooper, marvel
