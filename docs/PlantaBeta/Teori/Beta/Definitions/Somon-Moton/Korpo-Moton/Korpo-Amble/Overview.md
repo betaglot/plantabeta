@@ -25,11 +25,11 @@ Aim small miss small. Larger moves have larger potential for error
 - Ambleing while carrying all your gear. AmbleIn towards your cache
 - AmbleIn occurs when the truck can't drop you off close to your cache.
 - Sometimes some of your gear will be brought by your supervisor on with an ATV or being carried.
-    - Use case for a [Cart](/dev/Instruments#cart)
+    - Use case for a Cart
 
 ### Deadwalk
 
-- How can Deadwalk become useful, probably for Via.
+- How can Deadwalk become useful, probably for VIA.
 - Ambleing within a piece while **not** performing a planting Frase.
 - Deadwalks are required to Cover very oblong areas.
 
@@ -56,8 +56,6 @@ Aim small miss small. Larger moves have larger potential for error
     - Shorten StrideLength on UnstableSlope
 - (ArmAmble + Amble) on SteepSlope
 - StompTest when LogAmbleing
-
-<h2>PageTags</h2>
 
 - "MOTON.BodyMOTON.Amble"
 

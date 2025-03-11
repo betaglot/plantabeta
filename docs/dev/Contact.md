@@ -15,7 +15,7 @@ betaglot@betaglot.org
 
 What parts of PlantaBeta do you like or Dislike and Why?
 
-### Suggest New [Elements](/guide/What/WhatElement)
+### Suggest New Elements
 
 ### Suggest New Features
 
@@ -23,7 +23,7 @@ What are some features that you would like to see
 
 ### Clarification
 
-Which parts of of [PlantaBeta](/guide/introduction.html#what-is-PLANTABETA) are:
+Which parts of of PlantaBeta are:
 
 - Confusing
 - Unclear

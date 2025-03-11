@@ -15,7 +15,5 @@
 
 - Minimize burn dust inhaled by moveselection
 
-<h2>PageTags</h2>
-
 - "Eko.Slash.BurnPileSlash"
 :::

@@ -14,7 +14,5 @@ aside: false
 
 - PanBeta(BJJ, [PistolMano, SleeveMano, PocketMano])
 
-<h2>PageTags</h2>
-
 - "MOTON.CacheMOTON.TarpOn"
 :::

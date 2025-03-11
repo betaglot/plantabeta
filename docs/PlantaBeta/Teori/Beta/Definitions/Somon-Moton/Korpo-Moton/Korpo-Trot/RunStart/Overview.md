@@ -1,6 +1,6 @@
 # 🟠 <motor>RunStart</motor>
 
-## Related 🟩<ekos>Eko</ekos>
+## Related 🟩<ekos>EKOS</ekos>
 
 - 🟩<ekos>SteepSlope</ekos>
     - RunStart too gain momentum to climb a SteepSlope
@@ -20,8 +20,6 @@
 ::: details 🛠
 
 -
-
-<h2>PageTags</h2>
 
 - "MOTON.LegMOTON.RunningStart"
 :::

@@ -1,4 +1,4 @@
-# 🔷 <beta>Beta Examples</beta>
+# 🌈 <beta>Beta Examples</beta>
 
 ## <beta>"<via>Follow that <ekos>stream</ekos> up to the <ekos>top corner</ekos> <anima>then</anima> go left and BoustroCover </via> <anima>then</anima> <motor>walk </motor>back to cache"</beta>
 
@@ -12,13 +12,13 @@
 
 💜<anima>"then": Event</anima>
 
-🔻<via>"go left and BoustroCover" : ViaDirection, BoustroCover</via>
+🔻<via>"go left and BoustroCover" : Direction, BoustroCover</via>
 
 💜<anima>"then": Event</anima>
 
 🟠<motor>"walk": Walk</motor>
 
-🔻<via>"back to the cache": ViaFinishPoint</via>
+🔻<via>"back to the cache": FinishPoint</via>
 
 ## <beta>"<via>Plan</via> the <ekos>wet areas</ekos> with <labor>spruce</labor>, you don't need to <motor>skreef</motor> in the <ekos>riparian areas</ekos>"</beta>
 
@@ -36,13 +36,13 @@
 
 <beta>"Only": </beta>
 
-🟠<motor>"Marka": [MarkaMOTON](/encyclopedia/MOTON/InstrumentMOTON/MarkaMOTON/Overview)</motor>
+🟠<motor>"Marka": </motor>
 
 🔻<via>"line in": </via>
 
 💜<anima>"if": Logic</anima>
 
-🟩<ekos>"trench": [TrenchLand](/encyclopedia/Eko/Prep/TrenchLand)</ekos>
+🟩<ekos>"trench": </ekos>
 
 ## <beta>"I've been <via>backfilling</via> this <ekos>piece</ekos>"</beta>
 
@@ -56,7 +56,7 @@
 
 <beta>"we": TeamBeta</beta>
 
-🔻<via>"get to": ViaPoint</via>
+🔻<via>"get to": Point</via>
 
 🟩<ekos>"boulder": Rock</ekos>
 
@@ -113,8 +113,6 @@ is not a move, it is Beta since it is composed of 3 modules:
 ## <beta>Get to the back of the piece then start backfilling</beta>
 
 -
-
-<h2>PageTags</h2>
 
 - "Beta.BetaExamples"
 - "Beta.BetaExamples.BetaQuote"

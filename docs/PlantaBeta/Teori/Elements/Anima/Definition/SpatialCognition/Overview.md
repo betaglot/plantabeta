@@ -95,8 +95,6 @@ When to slow down
 
 - Spatially complex
 
-<h2>PageTags</h2>
-
 - "ANIMA.Alignment"
 - "ANIMA.Alignment.AlignmentRange"
 - "ANIMA.Alignment.AlignOn()"

@@ -13,8 +13,6 @@
 
 -
 
-<h2>PageTags</h2>
-
 - "ANIMA.Hearing"
 - SoundLibrary_Linguistics_Onomatopoeia_Ping
 - SoundLibrary_Linguistics_Onomatopoeia_Ting

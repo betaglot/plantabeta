@@ -6,11 +6,11 @@ Code Block
 
 Loop through the BetaModules
 
-EKOS to VIA to MOTON then back to Eko, the arrows are ANIMA
+EKOS to VIA to MOTOR then back to EKOS, the arrows are ANIMA
 
 Noticing labelling
 
-Litany of Beta
+Litany of BETA
 
 BetaLoopMantra
 

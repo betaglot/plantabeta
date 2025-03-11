@@ -11,8 +11,6 @@
 
 -
 
-<h2>PageTags</h2>
-
 - "Eko.Slash.Overview"
 - Slash is anything on the land that has been cut and is not living anymore and is usually in your way and it can it can be an obstacle to your root
 

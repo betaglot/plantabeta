@@ -2,9 +2,9 @@
 
 ## <beta>BetaAnalogy</beta>
 
-## BetaTypes
+## ElementGroups
 
-🔻<via>VIA</via>, 🟩<ekos>EKO</ekos>, 🟠<motor>MOVE</motor>
+🔻<via>VIA</via>, 🟩<ekos>EKOS</ekos>, 🟠<motor>MOVE</motor>
 
 ## Relative Geometry
 

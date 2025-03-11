@@ -20,8 +20,6 @@ Art inspired by Planting
 
 -
 
-<h2>PageTags</h2>
-
 - "Dev.Sculpture"
 
 :::

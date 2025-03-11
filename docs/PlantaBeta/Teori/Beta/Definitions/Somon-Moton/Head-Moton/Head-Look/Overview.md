@@ -13,8 +13,6 @@
 
 - You don't need to pay attention to look where you're going
 
-<h2>PageTags</h2>
-
 - "MOTON.HeadMOTON.FocusLook"
 
 :::

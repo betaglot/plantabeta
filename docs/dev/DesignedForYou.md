@@ -86,7 +86,7 @@ Beta is composed of four types, each of which can be represented by an icon:
 
 🔻<via>VIA </via>: The path taken by plantors. For example: your line in, backfilling, area planting, bouncing while partner planting and deadwalking
 
-💜<anima>Psike </anima>: Any phenonmena of your nervous system, includes emotion, thought, perception, awareness, attention and more.  
+💜<anima>ANIMA </anima>: Any phenonmena of your nervous system, includes emotion, thought, perception, awareness, attention and more.  
 
 ## How am I supposed to use PLANTABETA.ca?
 
@@ -104,40 +104,40 @@ Beta is composed of four types, each of which can be represented by an icon:
 
 ### Examples
 
-- 🟩<ekos>[Soil](/encyclopedia/Eko/Soil/Overview)</ekos>: Duff mixed with soil is ok if it is smearable, meaning that the soil sticks together when smeared.
+- 🟩<ekos>Soil</ekos>: Duff mixed with soil is ok if it is smearable, meaning that the soil sticks together when smeared.
     - Coherent
 
-- 🟩<ekos>[CullTree](/encyclopedia/Eko/Dendron/Overview)</ekos>: Put CullTrees in Duff instead of sidebag.
+- 🟩<ekos>CullTree</ekos>: Put CullTrees in Duff instead of sidebag.
 
-- 🟩<ekos>[SoilSound](/encyclopedia/Eko/Soil/Overview)</ekos>: Muffled Soil has lots more organic matter to absorb sound. Rock is louder than organic matter due to the strength of rock's lattice structure.
+- 🟩<ekos>SoilSound</ekos>: Muffled Soil has lots more organic matter to absorb sound. Rock is louder than organic matter due to the strength of rock's lattice structure.
 
-- 🟠<motor>[Clothing](/encyclopedia/MOTON/ClothingMOTON/Overview)</motor>: Don't leave stuff in backbag when wet.
+- 🟠<motor>Clothing</motor>: Don't leave stuff in backbag when wet.
     - Cotton mold
 
-- 🟠<motor>[BundleMano](/encyclopedia/MOTON/InstrumentMOTON/Bundle/BundleMano)</motor>: Grab two bundles in each hand, so four bundles at a time when transfering bundles from boxes to bags.
+- 🟠<motor>BundleMano</motor>: Grab two bundles in each hand, so four bundles at a time when transfering bundles from boxes to bags.
 
-- 🟠<motor>[TreeTest.Error](/encyclopedia/MOTON/ManoMOTON/TreeTest)</motor>: One tree test and what are you looking for?
+- 🟠<motor>TreeTest.Error</motor>: One tree test and what are you looking for?
     - 💜<anima>FearOfReplant</anima>
 
-- 🟠<motor>[TreeTest](/encyclopedia/MOTON/ManoMOTON/TreeTest)</motor>: Single MOTON for TreeTest
+- 🟠<motor>TreeTest</motor>: Single MOTON for TreeTest
 
-- 🟠<motor>[SpadeImpact](/encyclopedia/MOTON/InstrumentMOTON/Spade/SpadeImpact)</motor>: Humerus Rotate Out for SpadeImpact to recruit Latissimus Dorsi and prevent overactivation of Pectoralis muscles which causes Shoulder Impingement Injury
+- 🟠<motor>SpadeImpact</motor>: Humerus Rotate Out for SpadeImpact to recruit Latissimus Dorsi and prevent overactivation of Pectoralis muscles which causes Shoulder Impingement Injury
 
-- 🟠<motor>[SpadeSkreef](/encyclopedia/MOTON/InstrumentMOTON/Spade/SpadeSkreef)</motor>: SpadeSkreef is faster than BootSkreef or HandSkreef. And it flows into the retrokurve of SpadeImpact.
+- 🟠<motor>SpadeSkreef</motor>: SpadeSkreef is faster than BootSkreef or HandSkreef. And it flows into the retrokurve of SpadeImpact.
 
-- 🟠<motor>[TraverseBush](/encyclopedia/MOTON/PlantMOTON/Overview)</motor>: Spread branches while pushing your way through a bush.
+- 🟠<motor>TraverseBush</motor>: Spread branches while pushing your way through a bush.
     - AlderCluster, MapleCluster
 
-- 🔻<via>[Walkout](/encyclopedia/Via/Path/Overview)</via>: Walkout using the most direct path unless there's a road, skidder trail or clear path near.
+- 🔻<via>Walkout</via>: Walkout using the most direct path unless there's a road, skidder trail or clear path near.
     - The PathOfLeastResistance is sometimes faster than ShortestPath
 
-- 🔻<via>[CoverError](/encyclopedia/Via/)</via>: FrontFilling is when there are trees between the cache and backline
+- 🔻<via>Cover-Error</via>: FrontFilling is when there are trees between the cache and backline
 
-- 🔻<via>[ViaError](/encyclopedia/Via/)</via>: Don't walk up and down slope, only up and across slope, during BoustroCover and ZigzagCover.
+- 🔻<via>VIA-Error</via>: Don't walk up and down slope, only up and across slope, during BoustroCover and ZigzagCover.
 
-- 🔻<via>[Marka](/encyclopedia/Via/)</via>: Only Marka the "zag" of ZigzagCover.
+- 🔻<via>Marka</via>: Only Marka the "zag" of ZigzagCover.
 
-- 🔻<via>[MarkaError](/encyclopedia/Via/)</via>: Attempt to high Marka in fill plants whenever possible. The Marka may fall to the ground, but it's worth taking the chance since a high Marka is more valuable than the time wasted from a HighMarka Fail.
+- 🔻<via>Marka-Error</via>: Attempt to high Marka in fill plants whenever possible. The Marka may fall to the ground, but it's worth taking the chance since a high Marka is more valuable than the time wasted from a HighMarka Fail.
 
 - <beta>Lesson</beta>: Point out microsites so plantor can work on walking speed while not thinking about SiteSelection
     - Isolate Elements, Isolate Skills. Decompose Elements into subelements then instruct them in isolation.

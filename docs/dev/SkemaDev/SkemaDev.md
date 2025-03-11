@@ -63,7 +63,7 @@ source,relationshipType,target
 - isSimAnimaOf
 - isSimMOTONOf
 - isSimBetaOf
-- isSimViumOf
+- isSimVionOf
 - isSimEkonOf
 - isSimLaborOf
 
@@ -72,7 +72,7 @@ source,relationshipType,target
 - isAnteAnimaOf
 - isAnteMOTONOf
 - isAnteBetaOf
-- isAnteViumOf
+- isAnteVionOf
 - isAnteEkonOf
 - isAnteLaborOf
 
@@ -81,7 +81,7 @@ source,relationshipType,target
 - isPostAnimaOf
 - isPostMOTONOf
 - isPostBetaOf
-- isPostViumOf
+- isPostVionOf
 - isPostEkonOf
 - isPostLaborOf
 
@@ -90,7 +90,7 @@ source,relationshipType,target
 - relatedToAnima
 - relatedToMOTON
 - relatedToBeta
-- relatedToVium
+- relatedToVion
 - relatedToEkon
 - relatedToLabor
 
@@ -104,4 +104,4 @@ source,relationshipType,target
 
 ### Skema_RadialTree_Growth
 
-The outer ring of DendroChart is a combination of BetaTypes
+The outer ring of DendroChart is a combination of ElementGroups

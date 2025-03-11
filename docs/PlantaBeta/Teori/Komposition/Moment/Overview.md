@@ -46,7 +46,7 @@ a moment has duration, an instant does not
 ---
 > tense moment
 
-## What about 3 simultaneous BetaTypes
+## What about 3 simultaneous ElementGroups
 
 - PolyBeta
 - DiBeta

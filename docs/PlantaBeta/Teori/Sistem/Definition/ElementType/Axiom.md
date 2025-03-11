@@ -6,7 +6,7 @@
 4. Things which coincide with one another are equal to one another.
 5. The whole is greater than the part
 
-Does Sistema really need axioms?
+Does Sistem really need axioms?
 
 - Be kind
 - Don't get injured

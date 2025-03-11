@@ -24,6 +24,4 @@ aside: false
     - Drop your shoulder into the flora
     - PanBeta(Running into an opponent who is trying to tackle you)
 
-<h2>PageTags</h2>
-
 :::

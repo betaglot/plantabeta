@@ -13,8 +13,6 @@
 
 -
 
-<h2>PageTags</h2>
-
 - "ANIMA.Planning"
 - "ANIMA.Planning.Prediction"
 :::

@@ -74,8 +74,8 @@ Not worth the trouble
 
 - Interact
 - Interface
-    - VIA is the interface between <ekos>Eko</ekos> and <motor>MOTON</motor>
-    - VIA is the interface between <ekos>Eko</ekos> and <anima>ANIMA</anima>
+    - VIA is the interface between <ekos>EKOS</ekos> and <motor>MOTON</motor>
+    - VIA is the interface between <ekos>EKOS</ekos> and <anima>ANIMA</anima>
 - Interpolate
     - Most ViaGeometry is interpolated.
 
@@ -165,8 +165,6 @@ Directions
     - Look to see if an EKON is planted
 
 ## Update your VIA
-
-<h2>PageTags</h2>
 
 ## ViaProbability
 

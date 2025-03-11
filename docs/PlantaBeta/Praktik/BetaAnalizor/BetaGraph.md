@@ -6,7 +6,7 @@ A BetaGraph for a BetaBlock
 
 All modules are interdependent
 
-All ViaFactor have Psike property dependencies
+All VIA_Factor have ANIMA property dependencies
 
 Each BetaInstance is different. The Beta that a user is experiencing changes each BetaInstance.
 

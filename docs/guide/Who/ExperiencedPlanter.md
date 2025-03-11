@@ -11,7 +11,7 @@
 
 ## How to be an AmbidextrousPlantor
 
-Experienced Plantors have mastered the basics of planting, but they usually don't swap the roles of their arms. Many experienced Plantors spend years only using their dominant hand for [SpadeMOTON](/encyclopedia/MOTON/SpadeMOTON/Overview), not only does this dispose Plantors to injury, it also complicates when Plantors must have a specific mixture of species that they're planting. Ambidextrous Plantors can separate the species into either side of their planting bags
+Experienced Plantors have mastered the basics of planting, but they usually don't swap the roles of their arms. Many experienced Plantors spend years only using their dominant hand for Spade-MOTON, not only does this dispose Plantors to injury, it also complicates when Plantors must have a specific mixture of species that they're planting. Ambidextrous Plantors can separate the species into either side of their planting bags
 
 To reduce injury caused by repetitive strain.
 
@@ -74,8 +74,6 @@ The Bear, Season 3, Episode 7 "Legacy"
 - Golden Age of Planting
 - Experienced Plantor The Bear Kitchen Legacy. The legacy of chefs is how their disciples spread their idiosyncracies to other kitchens that they work for. Their legacy elevates the whole field.
 - Annual refresher, Early season refresher
-
-<h2>PageTags</h2>
 
 - "Guide.Who.ExperiencedPlantor"
 

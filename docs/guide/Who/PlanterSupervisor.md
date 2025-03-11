@@ -30,7 +30,6 @@ Also known as:
 -
 
 Supervisor is too many syllables. NameInstrumentong
-<h2>PageTags</h2>
 
 - "Guide.Who.PlantorRecruiter"
 - "Guide.Who.PlantorSupervisor"

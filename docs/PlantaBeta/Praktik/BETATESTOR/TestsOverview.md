@@ -38,9 +38,9 @@ Order Elements by:
 - RouteRisk
 - RouteIntensity
 - RouteComplexity
-- NeuroRisk
-- NeuroIntensity
-- NeuroComplexity
+- ANIMARisk
+- ANIMAIntensity
+- ANIMAComplexity
 - BetaRisk
 - BetaIntensity
 - BetaComplexity

@@ -8,7 +8,7 @@ DareDevil
 
 > "It looks like a world on fire"
 
-## ViaDiagram is a subset of ViaGraphic
+## VIA_Diagram is a subset of VIA_Graphic
 
 ## IsochroneMap
 
@@ -34,11 +34,11 @@ CrossedLine=MarkagedLine
 
 | Metro | VIA |
 | ------ | ------ |
-| Station | ViaPoint |
+| Station | VIA-Point |
 | Line | Curve |
 | Water | Water |
-| Transfer | ViaCross |
-| "MOTON around your city" | "MOTON around your Piece" |
+| Transfer | VIA-Cross |
+| "MOTOR around your city" | "MOTOR around your Piece" |
 
 ## Density Report
 
@@ -90,7 +90,7 @@ Number of Edges of a Voronoi Cell?
 
 ### <motor>MOTONVoronoi</motor>
 
-### <via>ViaVoronoi</via>
+### <via>VIA_Voronoi</via>
 
 <https://www.researchgate.net/publication/228440675_Spatial_dynamics_of_team_sports_exposed_by_Voronoi_diagrams>
 
@@ -113,7 +113,7 @@ Closest
 
 ## Assassins Creed
 
-Eagle Vision is Via. Just like [EagleVision](https://www.youtube.com/watch?v=toW9lHSJ5Tg), VIA is an abstraction layer onto MOTON and
+Eagle Vision is VIA. Just like [EagleVision](https://www.youtube.com/watch?v=toW9lHSJ5Tg), VIA is an abstraction layer onto MOTON and
 
 ('lit')InsteadOf('highlighted')
 
@@ -132,13 +132,11 @@ VIA can be seen through the land.
 
 - Follow the lit Path
 - ScaleBar
-- ViaStartPoint is a Circle
+- VIA_StartPoint is a Circle
     - Filled circle is Planted
     - Circle Border is NotPlanted
 
-- ViaFinishPoint is a Triangle
-
-<h2>PageTags</h2>
+- VIA_FinishPoint is a Triangle
 
 - "Via.ViaCard"
 - "Via.ViaDiagram.Overview"

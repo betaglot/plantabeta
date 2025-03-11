@@ -4,13 +4,13 @@ Sistem is in the Guide
 
 > Sistem's structure is repeated in each SistemType. The "Sistem" section doesn't contain the content, it shows how everything is related to each other.
 
-Each SistemType is structured into Praktik and Teoria
+Each SistemType is structured into Praktik and Teori
 
-Betum = (Element+Element)
+🌈<beta>BETUM</beta> = (Element+Element)
 
 (🔻<via>VION</via> +🔻<via>VION</via>) = 🔻<via>VION</via>
 
-(🔻<via>VION</via> + 🟠<motor>MOTON</motor>) = Betum
+(🔻<via>VION</via> + 🟠<motor>MOTON</motor>) = 🌈<beta>BETUM</beta>
 
 Betomiks(Komposition(Betum(Element)))
 
@@ -30,7 +30,7 @@ Betomiks(Komposition(Betum(Element)))
 
 DotNotation for Subset
 
-Brazo.Anterior.Down.Ama
+Brazo.Anterior-Down-Ama
 
 - Timestamp
 - File being refered to
@@ -46,9 +46,9 @@ Brazo.Anterior.Down.Ama
 
 ---
 
-Send_BrazoAnterior_Plast_Down_Ama
+Send-BrazoAnterior-Plast-Down-Ama
 
-Dance_BrazoAnterior_Plast_Down_Ama
+Dance-BrazoAnterior-Plast-Down-Ama
 
 NameSpace
 
@@ -74,9 +74,9 @@ BETAGLOTS are people who apply the SISTEM to multiple sports
 
 BETAGLOT is the organization which is developing SISTEM.py and applying it to solo sports
 
-SISTEM is the system which is composed of EKO, MOVE, VIA, ANIMA
+SISTEM is the system which is composed of EKOS, MOVE, VIA, ANIMA
 
-The term Beta can refer to any of the SistemTypes. All TypeElements inherit from Element, which is the Base class. EkosElement
+The term Beta can refer to any of the SistemTypes. All TypeElements inherit from Element, which is the Base class. EKON
 
 The terms "Element" is used instead of "Object", since abstract objects are difficult to understand and will render SISTEM inaccessible to everyone who isn't a computer scientist or philosopher.
 
@@ -88,15 +88,13 @@ Same for climbing
 
 Yoga is more ancestral than Climbing
 
-## Differentiate(Teoria, Praktik)
+## Differentiate(Teori, Praktik)
 
 > theory refers to the construction of theories and the explicit knowledge derived from them, while practice involves the understanding and implementation of practical knowledge in real-world situations
 
 "Theory" is consistently misunderstood and misused. How to point this out without judgement? In the Ivory Tower is the last place that BETAGLOTs need to be.  
 
 Knowing how to solve a problem isn't the same as actually solving the problem. Knowing how to draw an equilateral triangle doesn't result in an actual triangle on paper. You must put the knowledge into practice.
-
-You can't have Practice in the encyclopedia. Practice only exists in the Akademeia Section.
 
 > When we try to think our way out of bad situations to avoid getting hurt, we become engaged in trying to think of a solution instead of acting on one
 ---
@@ -108,27 +106,13 @@ It seems like there is a bias towards action instead of theory, like theory is s
 
 The Theory of Gravitation is not useless, The Theory of Natural Selection is not useless. Architecture doesn't exist without  
 
-## Teoria Propositions are declared in Praktik BETOMIKS
+## Teori Propositions are declared in Praktik BETOMIKS
 
 Call a Proposition
 
 Propose a Proposition
 
-## ArmSwing is a Proposition
-
-ArmSwing is a Proposition
-
-Arm is a Definition
-
-Swing is a Proposition
-
-## BetaMoment
-
-> all the BetaElements occuring at a given instant
-
-Anton gormley BoxBodies are like BetaInstanceCube
-
-BetaMoment is a Tuple or at least an immutable DataStructure
+## Beta
 
 ---
 
@@ -139,15 +123,22 @@ BetaMoment is a Tuple or at least an immutable DataStructure
 <!-- =================================================== -->
 ::: details 🛠
 
+- Moment
+    - all the Elements occuring at a given instant
+    - Anton gormley BoxBodies are like BetaInstanceCube
+    - BetaMoment is a Tuple or at least an immutable DataStructure
+
+[The 362-Page Proof That 1+1=2](https://www.youtube.com/watch?v=v9tXHIWeK2M&ab_channel=CamGee)
+
 - There's gonna be recursion
-- Beta does not require Sistem, PlantaBeta\Beta requires a Sistem
+- BETA does not require Sistem, PlantaBeta\BETA requires a Sistem
 - Do Definitions have methods?
 - Arm has the method to flex or extend
 - Remove the Concept of Elements
 - Propositions are Objects
 - Propositions have attributes and Methods
 - All MOTONs have the method to connect to another MOTON in a sequence
-- The sistema is for knowing what beta to use
+- The Sistem is for knowing what BETA to use
     - Given this situation what methods do I use with what objects and how to tune their attributes to increase ease of performance
 
 :::

@@ -1,11 +1,11 @@
 ---
 aside: false
 ---
-# ClothingLayer-Moton
+# Layer-MOTON
 
-## AddClothingLayer
+## Layer-On
 
-## RemoveClothingLayer
+## Layer-Off
 
 - Roll up your back bag layer to shell from water and dirt
 
@@ -19,8 +19,6 @@ aside: false
 ::: details 🛠
 
 -
-
-<h2>PageTags</h2>
 
 - "MOTON.ClothingMOTON.ClothingLayer"
 :::

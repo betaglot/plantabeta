@@ -15,25 +15,25 @@ betaglot@betaglot.org
 
 :::
 
-## [Donate Media](/dev/Donation)
+## Donate Media
 
 Donate Images, Video, Writings, Audio to PlantaBeta.
 
-## [Feedback](/dev/Feedback)
+## Feedback
 
 Give feedback to PlantaBeta about what works and doesn't work well, what's unclear and what you've learned.
 
-## [Research Questions](/dev/ResearchQuestions)
+## Research Questions
 
 A list of questions which have come up during the design process and don't have a good answer yet.
 
-## [Roadmap](/dev/Roadmap)
+## Roadmap
 
 Directions for future developments.
 
 Where can PlantaBeta lead.
 
-## [Downloads](/dev/Downloads)
+## Downloads
 
 Download Printable resources
 

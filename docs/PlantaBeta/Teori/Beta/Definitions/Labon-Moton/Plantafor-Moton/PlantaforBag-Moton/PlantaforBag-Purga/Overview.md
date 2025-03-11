@@ -16,8 +16,6 @@ aside: false
 - InvertBag
 - BagMano
 
-<h2>PageTags</h2>
-
 - "MOTON.InstrumentMOTON.BagMOTON.BagEmpty"
 
 :::

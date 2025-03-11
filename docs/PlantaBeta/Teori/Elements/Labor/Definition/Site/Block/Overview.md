@@ -38,8 +38,6 @@ Dispersed
 - WalkInBlock
 - WalkOut
 
-<h2>PageTags</h2>
-
 - "Eko.Block.FillBlock"
 - "Eko.Block.OverflowBlock"
 - "Eko.Block.Overview"

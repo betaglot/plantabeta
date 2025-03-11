@@ -103,8 +103,6 @@ ANIMA == PSYCHE == SPIRITUS
 
 > It is easy to get lost in neuroscience, but always try to minimize the amount of technical knowledge and only present Psychology in the context of PlantaBeta. Every section needs to directly link back to a plantor's experience and not a person's experience in general.
 
-<h2>PageTags</h2>
-
 - "ANIMA.CognitiveEase"
 - "ANIMA.CognitiveEase.Clarity"
 - "ANIMA.CognitiveEase.FeelsEffortless"
@@ -116,7 +114,7 @@ ANIMA == PSYCHE == SPIRITUS
 - "ANIMA.CognitiveEase.Repetition"
 - "ANIMA.FlowState"
 - "ANIMA.Music"
-- "ANIMA.NeuroName"
+- "ANIMA.ANIMAName"
 - "ANIMA.AnimaQuestion"
 - "ANIMA.Overview"
 - "ANIMA.PatternRecognition"

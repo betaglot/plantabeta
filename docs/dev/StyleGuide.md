@@ -118,7 +118,7 @@ Periods
 
 ## Color
 
-### <motor>MOTONColor</motor>
+### <motor>MOTOR_Color</motor>
 
 ```md
 
@@ -126,25 +126,25 @@ Periods
 
 ```
 
-### <via>ViaColor</via>
+### <via>VIA_Color</via>
 
 ```ts
 #f44747
 ```
 
-### <beta>BetaColor</beta>
+### <soma>SOMA_Color</soma>
 
 ```ts
 #569cd6 
 ```
 
-### <ekos>EkosColor</ekos>
+### <ekos>EKOS_Color</ekos>
 
 ```ts
 #6a9955 
 ```
 
-### <anima>AnimaColor</anima>
+### <anima>ANIMA_Color</anima>
 
 ```ts
 #c586c0 

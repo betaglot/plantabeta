@@ -73,10 +73,10 @@ Look at the PaperPhoto section to have a better idea of what the Tag represents
 1. Start with the Module Overviews
     - Some of the tags in the overview will become their own Pages.
     - **Remember to transfer the PaperPhotos to the new page too**
-2. MOTONPages
-3. ViaPages
-4. NeuroPages
-5. BetaPages
+2. MOTOR_Pages
+3. VIA_Pages
+4. ANIMA_Pages
+5. BETA_Pages
 
 ```py
 TagsToHeaders: True

@@ -4,7 +4,6 @@ dictation = "Raw land overview cash raw land is land which is been cut but not b
 
 Homonyms = {
     'cash': 'cache',
-    'narrow': 'neuro',
     '/': 'slash',
     'planetary': 'plantor',
     'Roland': 'RawLand',

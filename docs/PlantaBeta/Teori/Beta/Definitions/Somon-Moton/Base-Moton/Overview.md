@@ -31,8 +31,6 @@ aside: false
 
 -
 
-<h2>PageTags</h2>
-
 - "MOTON.LegMOTON.HighFoot"
 - "MOTON.LegMOTON.LegCircumduction"
 - "MOTON.LegMOTON.LegLock"

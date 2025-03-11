@@ -18,8 +18,6 @@ The Plant can be moving towards you or the Plant can be stationary while you mov
 
 -
 
-<h2>PageTags</h2>
-
 - "MOTON.PlantMOTON.BranchWhip"
 
 - BranchWhip

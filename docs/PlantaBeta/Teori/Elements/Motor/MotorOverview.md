@@ -34,8 +34,6 @@ Latin: movere
 - MOTOR is a superset of Movement
 - MOTON can be a Position or a Movement
 
-<h2>PageTags</h2>
-
 - "MOTON.CoordinationMOTON"
 - "MOTOR.MOTORAnalysis"
 - "MOTOR.MOTORComposition.MOTONAddition"

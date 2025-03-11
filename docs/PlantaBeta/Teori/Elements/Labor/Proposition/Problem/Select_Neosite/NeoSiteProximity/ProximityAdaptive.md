@@ -21,7 +21,7 @@ Graph which represents how this element is related to other elements in PlantaBe
 - StumpCluster
 - EcoSlopeAngle
 
-## AnimaElements
+## Anima
 
 - WorkingMemory
 

@@ -51,8 +51,6 @@ Makes the Voronoi Cells more
 - TargetLandMark
     - LineIn uses a TargetLandmark
 
-<h2>PageTags</h2>
-
 - "Via.ViaGeometry.ViaPoint.CenterPoint"
 - "Via.ViaGeometry.ViaPoint.DeadEndPoint"
 - "Via.ViaGeometry.ViaPoint.MarkaSite"

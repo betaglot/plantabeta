@@ -24,7 +24,7 @@ Present to Past: Reflection, LearningFromFailure,
 
 Synergy
 
-## 🟩<ekos>EKO to EKO</ekos>
+## 🟩<ekos>EKO to EKOS</ekos>
 
 ## 🔻<via>VIA to VIA</via>
 

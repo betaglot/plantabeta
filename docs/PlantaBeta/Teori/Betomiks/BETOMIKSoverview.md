@@ -102,7 +102,7 @@ First Panel contains an UltimateView of Eko.
 ::: details 🛠
 
 - In-between chart
-- Debugger shows the planters experience through Betomiks.py in slowmo
+- Debugger shows the plantors experience through Betomiks.py in slowmo
 - Guitar hero streak for Betomiks game, like dance dance too
 
 :::

@@ -10,7 +10,7 @@
 ::: details 🛠
 
 - DirectedLine
-    - Vium
+    - Vion
 - UndirectedLine
     - Remember that "Boundary" is a Limit, not a Line
     - AlignmentLine

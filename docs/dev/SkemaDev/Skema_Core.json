@@ -1381,127 +1381,127 @@
     },
     {
         "ElementName": "AnimaPraktik",
-        "Namespace": "reference/ANIMA/AnimaPraktik"
+        "Namespace": "reference/Anima/AnimaPraktik"
     },
     {
         "ElementName": "AnimaTeori",
-        "Namespace": "reference/ANIMA/AnimaTeori"
+        "Namespace": "reference/Anima/AnimaTeori"
     },
     {
         "ElementName": "Arousal",
-        "Namespace": "reference/ANIMA/AnimaTeori/Arousal"
+        "Namespace": "reference/Anima/AnimaTeori/Arousal"
     },
     {
         "ElementName": "Attention",
-        "Namespace": "reference/ANIMA/AnimaTeori/Attention"
+        "Namespace": "reference/Anima/AnimaTeori/Attention"
     },
     {
         "ElementName": "Audio",
-        "Namespace": "reference/ANIMA/AnimaTeori/Audio"
+        "Namespace": "reference/Anima/AnimaTeori/Audio"
     },
     {
         "ElementName": "Music",
-        "Namespace": "reference/ANIMA/AnimaTeori/Audio/Music"
+        "Namespace": "reference/Anima/AnimaTeori/Audio/Music"
     },
     {
         "ElementName": "Awareness",
-        "Namespace": "reference/ANIMA/AnimaTeori/Awareness"
+        "Namespace": "reference/Anima/AnimaTeori/Awareness"
     },
     {
         "ElementName": "Compassion",
-        "Namespace": "reference/ANIMA/AnimaTeori/Compassion"
+        "Namespace": "reference/Anima/AnimaTeori/Compassion"
     },
     {
         "ElementName": "CompressionSense",
-        "Namespace": "reference/ANIMA/AnimaTeori/CompressionSense"
+        "Namespace": "reference/Anima/AnimaTeori/CompressionSense"
     },
     {
         "ElementName": "Confidence",
-        "Namespace": "reference/ANIMA/AnimaTeori/Confidence"
+        "Namespace": "reference/Anima/AnimaTeori/Confidence"
     },
     {
         "ElementName": "ControlFlow",
-        "Namespace": "reference/ANIMA/AnimaTeori/ControlFlow"
+        "Namespace": "reference/Anima/AnimaTeori/ControlFlow"
     },
     {
         "ElementName": "Counting",
-        "Namespace": "reference/ANIMA/AnimaTeori/Counting"
+        "Namespace": "reference/Anima/AnimaTeori/Counting"
     },
     {
         "ElementName": "Danger",
-        "Namespace": "reference/ANIMA/AnimaTeori/Danger"
+        "Namespace": "reference/Anima/AnimaTeori/Danger"
     },
     {
         "ElementName": "Avoidance",
-        "Namespace": "reference/ANIMA/AnimaTeori/Danger/Avoidance"
+        "Namespace": "reference/Anima/AnimaTeori/Danger/Avoidance"
     },
     {
         "ElementName": "Decision",
-        "Namespace": "reference/ANIMA/AnimaTeori/Decision"
+        "Namespace": "reference/Anima/AnimaTeori/Decision"
     },
     {
         "ElementName": "Effort",
-        "Namespace": "reference/ANIMA/AnimaTeori/Effort"
+        "Namespace": "reference/Anima/AnimaTeori/Effort"
     },
     {
         "ElementName": "Emotion",
-        "Namespace": "reference/ANIMA/AnimaTeori/Emotion"
+        "Namespace": "reference/Anima/AnimaTeori/Emotion"
     },
     {
         "ElementName": "Estimation",
-        "Namespace": "reference/ANIMA/AnimaTeori/Estimation"
+        "Namespace": "reference/Anima/AnimaTeori/Estimation"
     },
     {
         "ElementName": "Event",
-        "Namespace": "reference/ANIMA/AnimaTeori/Event"
+        "Namespace": "reference/Anima/AnimaTeori/Event"
     },
     {
         "ElementName": "Judgement",
-        "Namespace": "reference/ANIMA/AnimaTeori/Judgement"
+        "Namespace": "reference/Anima/AnimaTeori/Judgement"
     },
     {
         "ElementName": "Learning",
-        "Namespace": "reference/ANIMA/AnimaTeori/Learning"
+        "Namespace": "reference/Anima/AnimaTeori/Learning"
     },
     {
         "ElementName": "Memory",
-        "Namespace": "reference/ANIMA/AnimaTeori/Memory"
+        "Namespace": "reference/Anima/AnimaTeori/Memory"
     },
     {
         "ElementName": "Mindfulness",
-        "Namespace": "reference/ANIMA/AnimaTeori/Mindfulness"
+        "Namespace": "reference/Anima/AnimaTeori/Mindfulness"
     },
     {
         "ElementName": "Mindset",
-        "Namespace": "reference/ANIMA/AnimaTeori/Mindset"
+        "Namespace": "reference/Anima/AnimaTeori/Mindset"
     },
     {
-        "ElementName": "NeuroState",
-        "Namespace": "reference/ANIMA/AnimaTeori/NeuroState"
+        "ElementName": "ANIMAState",
+        "Namespace": "reference/Anima/AnimaTeori/ANIMAState"
     },
     {
         "ElementName": "Proprioception",
-        "Namespace": "reference/ANIMA/AnimaTeori/Proprioception"
+        "Namespace": "reference/Anima/AnimaTeori/Proprioception"
     },
     {
         "ElementName": "AnimaDensity",
-        "Namespace": "reference/ANIMA/AnimaTeori/AnimaDensity"
+        "Namespace": "reference/Anima/AnimaTeori/AnimaDensity"
     },
     {
         "ElementName": "AnimaLimit",
-        "Namespace": "reference/ANIMA/AnimaTeori/AnimaLimit"
+        "Namespace": "reference/Anima/AnimaTeori/AnimaLimit"
     },
     {
         "ElementName": "Resilience",
-        "Namespace": "reference/ANIMA/AnimaTeori/Resilience"
+        "Namespace": "reference/Anima/AnimaTeori/Resilience"
     },
     {
         "ElementName": "SpatialCognition",
-        "Namespace": "reference/ANIMA/AnimaTeori/SpatialCognition"
+        "Namespace": "reference/Anima/AnimaTeori/SpatialCognition"
     },
     {
         "ElementName": "Time",
-        "Namespace": "reference/ANIMA/AnimaTeori/Time"
+        "Namespace": "reference/Anima/AnimaTeori/Time"
     },
     {
         "ElementName": "Skema",
@@ -1672,8 +1672,8 @@
         "Namespace": "reference/Via/TeoriVia/PropositionsVia/TeoremVia/TeoremProximity"
     },
     {
-        "ElementName": "TeoremVium",
-        "Namespace": "reference/Via/TeoriVia/PropositionsVia/TeoremVia/TeoremVium"
+        "ElementName": "TeoremVion",
+        "Namespace": "reference/Via/TeoriVia/PropositionsVia/TeoremVia/TeoremVion"
     },
     {
         "ElementName": "TeoremZone",

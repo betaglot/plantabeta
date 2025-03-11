@@ -13,11 +13,11 @@
 Deck of cards
 
 CardFrase: Frase of MoveCards
-CardEko:
-CardVia:
-CardPsike
 
-MoveCard
+EKOS_Card:
+VIA_Card:
+ANIMA_Card
+MOTOR_Card
 
 ElementCard
 

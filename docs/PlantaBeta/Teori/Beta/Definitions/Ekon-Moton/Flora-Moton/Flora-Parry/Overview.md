@@ -7,17 +7,17 @@ aside: false
 
 ## 🕸 FloraParry.Skema
 
-### Related 🟩<ekos>Eko</ekos>
+### Related 🟩<ekos>EKOS</ekos>
 
 - SmallTree falling into you.
 - Slash ripped up by Prep can be unstable and can fall into you.
 - Wind can blow Flora towards you.
 
-### Related 🔻<via>Via</via>
+### Related 🔻<via>VIA</via>
 
 -
 
-### Related 🟠<motor>Motor</motor>
+### Related 🟠<motor>MOTOR</motor>
 
 - RadiorMOTON
 
@@ -43,8 +43,6 @@ aside: false
 - Don't try to parry large trees which are falling on you
 - ShrugOff a Tackle
     - TorsoTwist
-
-<h2>PageTags</h2>
 
 - "MOTON.PlantMOTON.BranchArmDeflection"
 - "MOTON.PlantMOTON.BranchDeflection"

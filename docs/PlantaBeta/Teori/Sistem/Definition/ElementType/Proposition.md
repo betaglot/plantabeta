@@ -18,15 +18,15 @@ New objects can be introduced to prove a statement
 
 ### Derivations of **Proposition**
 
-## Differentiate(Problema, Theorema)
+## Differentiate(Problem, Teorem)
 
-### Definition(Problema)
+### Definition(Problem)
 
 > Given some set of initial objects, a problem shows how to do something (say, how to find, to draw, to set out) and then demonstrates that what has been done is satisfactory
 
 #### Definition(Solve)
 
-### Definition(Theorema)
+### Definition(Teorem)
 
 > Given some set of inital objects, a theorem asserts some property that is true of these objects
 ---
@@ -46,7 +46,7 @@ New objects can be introduced to prove a statement
 - Problems are questions which must return an answer.
     - 'How to make an equilateral triangle' returns an equilateral triangle.
     - 'How to '
-- Theorems don't return anything.
+- Teorems don't return anything.
     - "If in a triangle two angles equal one another, then the sides opposite the equal angles also equal one another."
 
 ## Validity
@@ -63,11 +63,11 @@ All statements must be valid for them to run in Python.
 
 > statements are instructions or commands that you write to perform specific actions or tasks
 
-Element.Attributes are Theorems, while Element.Methods are Problems.
+Element.Attributes are Teorems, while Element.Methods are Problems.
 
-PythonStatements are closer to Problema than to Theorema.
+PythonStatements are closer to Problem than to Teorem.
 
-Problema:
+Problem:
 > a task, that which is proposed, a question
 
 - SimpleStatements
@@ -135,17 +135,17 @@ Relying on other Statements
 ---
 > Statements contain instances of Elements
 
-Classes are composed of both Problems and Theorems
+Classes are composed of both Problems and Teorems
 
-A ClassDefinition is a Theorem.
+A ClassDefinition is a Teorem.
 
-All Elements are composed of Theorems(Attributes) and Problems(Methods)
+All Elements are composed of Teorems(Atributs) and Problems(Metods)
 
-(Problema !=== Problem), (Theorema !=== Theorem)
+(Problem !=== Problem), (Teorem !=== Theorem)
 
-Problema and Theorema are a Subset of Problems and Theorems, they must be of type Beta
+Problem and Teorem are a Subset of Problems and Teorems, they must be of type BETA
 
-Each Elements is acutally composed of multiple Statements, but in Sistema, Elements are not called Statements. In the same way that all Functions in Python are actually Objects.
+Each Element is acutally composed of multiple Statements, but in Sistem, Elements are not called Statements. In the same way that all Functions in Python are actually Objects.
 
 All definitions are actually propositions
 
@@ -155,17 +155,17 @@ How to perform the class.
 
 Knowing what a HeelHook looks like is not the same thing as knowing how to perform a HeelHook. Both knowing and performing are contained within the HeelHook class.
 
-At a different scope, *'HeelHooks can be used to traverse a ledge'* is a Theorem which itself is not an Element. Unless, like Python, everything is an Object (all objects are classes), so *'HeelHooks can be used to traverse a ledge'* is an class. If each unqiue combination of Elements is a class, then there are millions of unqiue classes in SISTEM. Each class would be contained in a database table.
+At a different scope, *'HeelHooks can be used to traverse a ledge'* is a Teorem which itself is not an Element. Unless, like Python, everything is an Object (all objects are classes), so *'HeelHooks can be used to traverse a ledge'* is an class. If each unqiue combination of Elements is a class, then there are millions of unqiue classes in SISTEM. Each class would be contained in a database table.
 
-<beta>*'HeelHooks can be used to traverse a ledge'*</beta> is a BetaStatement composed of instances of Elements from multiple BetaTypes:
+<beta>*'HeelHooks can be used to traverse a ledge'*</beta> is a BetaStatement composed of instances of Elements from multiple ElementGroups:
 
 - 🟠<motor>HeelHook</motor>
 - 🔻<via>Traverse</via>
 - 🟩<ekos>Ledge</ekos>
 
-BetaStatements are not Elements, only the Statements of BetaTypes can be Elements.
+BetaStatements are not Elements, only the Statements of ElementGroups can be Elements.
 
-BetaStatements which haven't been proven true are Hypotheses. Proven Hypotheses are Theorems.
+BetaStatements which haven't been proven true are Hypotheses. Proven Hypotheses are Teorems.
 
 The Vue Tutorial has Theory on the left and Practice on the right
 
@@ -173,20 +173,22 @@ Remember that the encyclopedia is just for reference. The actual teaching occurs
 
 Knowledge of Geometry is assumed.
 
-- Book0
-    - BaseClass. Define Elements
+- Book0 is SISTEM
+    - BaseClass. Define what Elements are
 
 - Book1 is ANIMA
     - Experience is the most fundamental component of ANIMA
 
 - Book2 is EKOS requires perception(ANIMA)
 
-- Book3 is VIA requires substrate(Eko)
+- Book3 is LABOR
 
-- Book4 is MOTON requires direction(Via)
+- Book3 is VIA requires substrate(EKOS)
+
+- Book4 is MOTON requires direction(VIA)
     - Physik.Mechanics
 
-- Book5 is Beta requires BetaTypes(ANIMA, Eko, Via, MOTON)
+- Book5 is Beta requires ElementGroups(ANIMA, EKOS, VIA, MOTOR)
 
 ## Pose
 

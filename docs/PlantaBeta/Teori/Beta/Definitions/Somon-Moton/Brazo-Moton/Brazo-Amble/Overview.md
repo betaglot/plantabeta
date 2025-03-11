@@ -11,12 +11,12 @@ Aliases: ArmWalk
 
 ## 🕸 ArmAmble.Skema
 
-### Related 🟩<ekos>Eko</ekos>
+### Related 🟩<ekos>EKOS</ekos>
 
 - SteepSlope
     - Walk Up Slope with log in your ArmPit (ShoulderHook)
 
-### Related 🔻<via>Via</via>
+### Related 🔻<via>VIA</via>
 
 -
 
@@ -38,8 +38,6 @@ Aliases: ArmWalk
 ::: details 🛠
 
 -
-
-<h2>PageTags</h2>
 
 - "MOTON.ArmMOTON.ArmWalk"
 :::

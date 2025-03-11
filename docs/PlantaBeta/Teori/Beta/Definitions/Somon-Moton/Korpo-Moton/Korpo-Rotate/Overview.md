@@ -11,8 +11,6 @@
 
 - SpinAway PanBeta(RugbyBeta)
 
-<h2>PageTags</h2>
-
 - "MOTON.BodyMOTON.BodyRotate"
 
 :::

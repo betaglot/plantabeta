@@ -12,8 +12,6 @@
 
 -
 
-<h2>PageTags</h2>
-
 - "ANIMA.Estimation"
 - "ANIMA.Estimation.BagCover"
 - "ANIMA.Estimation.LandEstimation.Fraction"

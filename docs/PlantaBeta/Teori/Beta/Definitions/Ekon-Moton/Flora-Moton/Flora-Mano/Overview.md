@@ -11,7 +11,5 @@
 
 -
 
-<h2>PageTags</h2>
-
 - "MOTON.ManoMOTON.BranchMano"
 :::

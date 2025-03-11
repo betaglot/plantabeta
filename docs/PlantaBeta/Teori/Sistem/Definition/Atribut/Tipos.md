@@ -1,3 +1,3 @@
 # <beta>TIPOS</beta>
 
-> the BetaType that this Element belongs to
+> the ElementGroup that this Element belongs to

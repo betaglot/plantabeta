@@ -10,7 +10,7 @@
 
 Event from a first person perspective
 
-## NeuroEvent
+## ANIMAEvent
 
 ## EcoEvent
 
@@ -59,8 +59,6 @@ Event from a first person perspective
 - Counter
 - Predict
 - Maintain a MOTON while waiting for an EcoEvent
-
-<h2>PageTags</h2>
 
 - "ANIMA.Event"
 

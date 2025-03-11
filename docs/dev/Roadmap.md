@@ -40,7 +40,7 @@ To [Reforest](https://www.lasy.gov.pl/en/information/news/a-forest-is-much-more-
 
 ## Instruments
 
-Test [novel plantor Instruments](dev/Instruments)
+Test novel plantor Instruments
 
 ### Psychology
 

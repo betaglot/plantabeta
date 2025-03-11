@@ -2957,7 +2957,7 @@
             fill="currentColor">Muscle</text>
         <text transform="rotate(197.67118964380376) translate(656.6666666666666,0) rotate(180)"
             dy="0.31em" x="6" text-anchor="start" paint-order="stroke" stroke="white"
-            fill="currentColor">NeuroState</text>
+            fill="currentColor">ANIMAState</text>
         <text transform="rotate(198.80735047969353) translate(656.6666666666666,0) rotate(180)"
             dy="0.31em" x="-6" text-anchor="end" paint-order="stroke" stroke="white"
             fill="currentColor">Proprioception</text>
@@ -3308,7 +3308,7 @@
             fill="currentColor">Time</text>
         <text transform="rotate(236.72671837751426) translate(875.5555555555555,0) rotate(180)"
             dy="0.31em" x="-6" text-anchor="end" paint-order="stroke" stroke="white"
-            fill="currentColor">Vium</text>
+            fill="currentColor">Vion</text>
         <text transform="rotate(240.20012436152007) translate(875.5555555555555,0) rotate(180)"
             dy="0.31em" x="6" text-anchor="start" paint-order="stroke" stroke="white"
             fill="currentColor">ViaProblem</text>
@@ -3632,7 +3632,7 @@
             fill="currentColor">MarkaTeorem</text>
         <text transform="rotate(263.44678660727874) translate(1094.4444444444443,0) rotate(180)"
             dy="0.31em" x="-6" text-anchor="end" paint-order="stroke" stroke="white"
-            fill="currentColor">ViumTeorem</text>
+            fill="currentColor">VionTeorem</text>
         <text transform="rotate(265.5365110018617) translate(1094.4444444444443,0) rotate(180)"
             dy="0.31em" x="6" text-anchor="start" paint-order="stroke" stroke="white"
             fill="currentColor">ZoneTeorem</text>

@@ -53,11 +53,11 @@ aside: false
         - Useful when walking down slope like PolePlant in PanBeta(SkiAlpineBeta)
             - Pole allows you to start absorbing earlier, therefore more time to change acceleration, which increases Flux
 
-## Related 🟩<ekos>Eko</ekos>
+## Related 🟩<ekos>EKOS</ekos>
 
 - 🟩<ekos>Log</ekos>
 
-## Related 🔻<via>Via</via>
+## Related 🔻<via>VIA</via>
 
 -
 
@@ -86,8 +86,6 @@ aside: false
 - BrazoAnteriorAma
 - BrazoPosteriorAma
 - BrazoLateralAma
-
-<h2>PageTags</h2>
 
 - "MOTON.ArmMOTON.BrazoAma"
 

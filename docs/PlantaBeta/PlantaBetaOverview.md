@@ -20,8 +20,8 @@ This each line are analog pairs. The equal signs = denotes where Climbing and Pl
 |                         **Climbing** | **Planting**                      |
 | -----------------------------------: | :-------------------------------- |
 |                  <beta>BETA</beta> = | = <beta>BETA</beta>               |
-|                     <ekos>Eko</ekos> = | = <ekos>Eko</ekos>                  |
-|               <via>Via</via> = | = <via>Via</via>            |
+|                     <ekos>EKOS</ekos> = | = <ekos>EKOS</ekos>                  |
+|               <via>VIA</via> = | = <via>VIA</via>            |
 |               <anima>ANIMA</anima> = | = <anima>ANIMA</anima>            |
 |                      <ekos>Wall</ekos> | <ekos>Land</ekos>                   |
 |              <ekos>Wall Section</ekos> | <ekos>Area</ekos>                  |
@@ -33,7 +33,7 @@ This each line are analog pairs. The equal signs = denotes where Climbing and Pl
 |                <beta>Redpoint</beta> | <beta>Replanting Required </beta> |
 |          <beta>Flash, Onsight</beta> | <beta>No replanting </beta>       |
 |         <motor>RockOver MOTON </motor>= | = <motor>RockOver MOTON </motor>     |
-|        <via>ViaFinding</via> = | = <via>ViaFinding</via>     |
+|        <via>VIA_Finding</via> = | = <via>VIA_Finding</via>     |
 |             <via>One Pitch</via> | <via>One CoverLoop </via>      |
 |                  <motor>Fall</motor> = | = <motor>Fall</motor>               |
 | <via>Anchor, Belay Station</via> | <via>Cache</via>              |
@@ -66,8 +66,8 @@ This each line are analog pairs. The equal signs = denotes where Climbing and Pl
 
 - Independent Modules
     - EKOS is not required for Attention
-    - BodyBend does not require Via
-    - Some ANIMA only uses NeuroConcepts, like Emotional Regulation. If a function uses more than one module then it is BETA.
+    - BodyBend does not require VIA
+    - Some ANIMA only uses ANIMAConcepts, like Emotional Regulation. If a function uses more than one module then it is BETA.
 
 - Everything is an Object, like Python
 

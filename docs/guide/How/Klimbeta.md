@@ -1,4 +1,3 @@
-
 # KLIMBETA
 
 ## Story of Young People Who Want to Combat Climate Change
@@ -37,25 +36,21 @@ Show the utility of BetaComp for Plantors
 - Time it takes to train a Novice
 - Number of Trees planted by a Novice compared to an Experienced Plantor.
 
-### 2. How [PlantaBeta](/guide/What/WhatPlantaBeta) helps Planting to Combat Climate Change
+### 2. How PlantaBeta helps Planting to Combat Climate Change
 
 Currently there is no way to teach planting
 
-### 3. How [BetaComp](/guide/What/WhatBetaComp) helps PlantaBeta
+### 3. How BetaComp helps PlantaBeta
 
-#### [Beta System](reference/Beta/WhatBetaSystem)
+#### Sistem
 
-The [Beta System](reference/Beta/WhatBetaSystem) which is developed in BetaComp can be directly applied to PlantaBeta.
+The Sistem which is developed in BetaComp can be directly applied to PlantaBeta.
 
-#### [BetaScore](/encyclopedia/Score/Overview)
+#### BetaScore
 
 The BetaScore encourages efficiency.
 
-[DifficultyScore](/encyclopedia/Score/Difficulty/Overview)
-
 - Understand what makes Beta difficult so that Plantor can choose the easiest Beta.
-
-[ExecutionScore](/encyclopedia/Score)
 
 - Understand the optimal way to perform a move, to prevent injury.
 
@@ -63,11 +58,11 @@ The BetaScore encourages efficiency.
 
 Plantors become physically fit and ambidextrous
 
-#### Via
+#### VIA
 
 #### ANIMA
 
-#### Eko
+#### EKOS
 
 #### Photo of Shared Beta between Planting and Climbing
 

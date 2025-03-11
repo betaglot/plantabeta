@@ -8,7 +8,7 @@
 
 ## [![Via](/Ikon/Via_Ikon.png)](/PlantaBeta/Teori/Elements/Via/ViaOverview)
 
-## [![ANIMA](/Ikon/Anima_Ikon.png)](/PlantaBeta/Teori/Elements/ANIMA/AnimaOverview)
+## [![ANIMA](/Ikon/Anima_Ikon.png)](/PlantaBeta/Teori/Elements/Anima/AnimaOverview)
 
 ---
 

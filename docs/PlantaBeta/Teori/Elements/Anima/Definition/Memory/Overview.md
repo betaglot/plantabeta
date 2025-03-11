@@ -10,7 +10,7 @@
 
 ## Mnemonic
 
-### Marka is a Mnemonic for ViaMemory
+### Marka is a Mnemonic for VIA_Memory
 
 ## Episodic Memory or Autobiographical Memory
 
@@ -38,8 +38,6 @@ First Person Point of View
 ::: details 🛠
 
 -
-
-<h2>PageTags</h2>
 
 - "ANIMA.Memory"
 - "ANIMA.Memory.Mnemonic"

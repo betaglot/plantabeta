@@ -4,7 +4,7 @@
 ---
 > an inquiry starting from given conditions to investigate or demonstrate a fact, result, or law.
 
-You use ViaTheorems or other ViaProblems to solve ViaProblems.
+You use ViaTeorems or other ViaProblems to solve ViaProblems.
 
 ViaProblems are created by Eko.
 
@@ -71,6 +71,6 @@ Unknown Information
 Not all problems can be perfectly solved.
 Define the Area to be Covered
 
-The ViaProblem is a lot smaller than the ViaTheorem
+The ViaProblem is a lot smaller than the ViaTeorem
 
 :::

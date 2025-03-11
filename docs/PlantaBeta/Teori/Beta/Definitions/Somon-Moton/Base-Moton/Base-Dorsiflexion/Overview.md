@@ -14,7 +14,5 @@ aside: false
 
 -
 
-<h2>PageTags</h2>
-
 - "MOTON.FootMOTON.FootDorsiflexion"
 :::

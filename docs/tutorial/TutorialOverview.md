@@ -69,8 +69,6 @@ treeList = [
 
 - Keep a list of all the BetaElements which have been included in a test. Each BetaElement should appear as many times as possible. Minimum 3 times in each format Image, Text, Video.
 
-<h2>PageTags</h2>
-
 - "Test.LabelDiagram"
 - "Tests.BetaDecomposition"
 - "Tests.FillInBlank"

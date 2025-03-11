@@ -79,8 +79,6 @@ DashedCurve
 
 - Hatching
 
-<h2>PageTags</h2>
-
 - "Dev.Element.ElementCard"
 - "Dev.Element.ElementDiagram.AnglePie"
 - "Dev.Element.ElementDiagram.Arrow"

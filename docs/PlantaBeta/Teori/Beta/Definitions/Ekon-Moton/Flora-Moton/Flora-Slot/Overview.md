@@ -7,7 +7,7 @@ aside: false
 
 ## 🕸 FloraPassage.Skema
 
-### Related 🟩<ekos>Eko</ekos>
+### Related 🟩<ekos>EKOS</ekos>
 
 - Thicket
 - Bush
@@ -15,7 +15,7 @@ aside: false
 - Alder
 - DevilsClub
 
-### Related 🔻<via>Via</via>
+### Related 🔻<via>VIA</via>
 
 -
 

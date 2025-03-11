@@ -41,7 +41,5 @@
 
 -
 
-<h2>PageTags</h2>
-
 - "Eko.Piece.Overview"
 :::

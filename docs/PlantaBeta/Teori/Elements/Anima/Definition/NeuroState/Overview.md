@@ -11,7 +11,7 @@ MentalStateDimensions = {
     Flow, 
     Creativity, 
     Hyperfocus, 
-    Neuroplasticity,
+    ANIMAplasticity,
     Arousal,
     Emotion,
     Anxiety

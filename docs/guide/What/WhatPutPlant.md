@@ -10,7 +10,7 @@
 ### Colors
 
 - <beta>Blue</beta> for <beta>Beta</beta>
-- <ekos>Green</ekos> for 🟩<ekos>Eko</ekos>
+- <ekos>Green</ekos> for 🟩<ekos>EKOS</ekos>
 
 ### Brackets <beta>()</beta>
 
@@ -118,8 +118,6 @@ If you're an Experienced Plantor, then <beta>Put(<ekos>Plant</ekos>)</beta> give
 - PlantaBeta is written like a computer programming language function since it's the application of computational thinking.
 - PLANTABETA.com is only used for learning and research. It's not meant to be used everyday by plantors. People don't use textbooks everyday.
 - Shift the Color of Plantations towards green
-
-<h2>PageTags</h2>
 
 - "Guide.GettingStarted"
 - "Guide.What.WhatElement"

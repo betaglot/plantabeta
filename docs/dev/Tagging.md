@@ -38,8 +38,6 @@ Use TagSpaces or equivalent
 
 - Use Code snippets to write abbreviated names to insert Tags or ElementName
 
-<h2>PageTags</h2>
-
 - "Dev.Tagging.Overview"
 - "Dev.Tagging.TagChip"
 - "Dev.Tagging.TagChip.TagChipHighlight"

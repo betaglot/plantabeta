@@ -8,7 +8,7 @@
 
 ### ViaSelection
 
-Select the ViaTheorem to solve the ViaProblem.
+Select the ViaTeorem to solve the ViaProblem.
 
 VIA selection
 
@@ -28,8 +28,6 @@ NormalForce vector is a parameter in area suitability computation Selection
     - The compositions are Beta, they require Eko.
 
 - DivPlanting
-
-<h2>PageTags</h2>
 
 - "Via.ViaComposition.Overview"
 - "Via.ViaComposition.ViaAddition"

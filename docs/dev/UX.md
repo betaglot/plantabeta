@@ -94,8 +94,6 @@ The Ref is like the API section of Vue.org
 
 ## ToReduceConfusion
 
-<h2>PageTags</h2>
-
 - "Dev.Hardware"
 - "Dev.Hardware.Clipboard"
 - "Dev.Hardware.Keyboard.NumberPad"

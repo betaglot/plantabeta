@@ -22,8 +22,6 @@
 - SelfAwareness
     - Stephen Fleming [Know Thyself](https://metacoglab.org/people)
 
-<h2>PageTags</h2>
-
 - "ANIMA.Awareness"
 
 :::

@@ -14,9 +14,9 @@
 
 ### [🔻<via>VIA</via>🔻![ElementGroup](/Ikon/Via_Ikon.png)](/PlantaBeta/Teori/Elements/Via/ViaOverview)
 
-### [💜<anima>ANIMA</anima>💜![ElementGroup](/Ikon/Anima_Ikon.png)](/PlantaBeta/Teori/Elements/ANIMA/AnimaOverview)
+### [💜<anima>ANIMA</anima>💜![ElementGroup](/Ikon/Anima_Ikon.png)](/PlantaBeta/Teori/Elements/Anima/AnimaOverview)
 
-## [🌈<beta>BETA</beta>](/PlantaBeta/Teori/Betums/BetumsOverview)
+## [🌈<beta>BETA</beta>](/PlantaBeta/Teori/Beta/BetaOverview)
 
 ## [PLANTABETA KOMPOSITION](/PlantaBeta/Teori/Komposition/KompositionOverview)
 

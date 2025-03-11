@@ -21,12 +21,14 @@ Propositions never have errors. Errors only occur in Praktik
 
 There is less VIA than MOTONs. It makes more sense to group MOTONElements by their definitions (their concrete objects)
 
-Each BetaTipos is like a Book
+Each ElementGroup is like a Book
 
-EkosBook
-ViaBook
-MotorBook
-AnimaBook
+LABOR_Book
+SOMA_Book
+EKOS_Book
+VIA_Book
+MOTOR_Book
+ANIMA_Book
 
 then later Books combine them into Beta
 

@@ -16,8 +16,6 @@
 - Clamber = Definition("climb, move, or get in or out of something in an awkward and laborious way, typically using both hands and feet")
 - Scramble
 
-<h2>PageTags</h2>
-
 - "MOTON.BodyMOTON.BodyDrop.BodyDropInto"
 - "MOTON.BodyMOTON.BodyLock"
 - "MOTON.BodyMOTON.BodyPosture"
@@ -31,7 +29,7 @@
 
 - a good image for the body move would be I think it'd be a good idea to have a picture of the body that plantors don't normally see so like a top few would be good body moves the biggest
 
-- the most important body move that plantors need to be aware of is a fall so the other thing with body moves is that since they are pretty high scope choosing the right body move really matters because like what's an example of choosing a body move I guess going climbing over something that would be a body move because it's multiple sub motos to get to use your legs and your arms together in a concerted concurrent
+- the most important body move that plantors need to be aware of is a fall so the other thing with body moves is that since they are pretty high scope choosing the right body move really matters because like what's an example of choosing a body move I guess going climbing over something that would be a body move because it's multiple sub MOTONS to get to use your legs and your arms together in a concerted concurrent
 
 - what's the difference between concurrent and concerted moto they kind of seem like they would be the same
 

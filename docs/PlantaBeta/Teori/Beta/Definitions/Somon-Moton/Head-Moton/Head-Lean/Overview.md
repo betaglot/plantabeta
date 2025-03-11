@@ -14,7 +14,5 @@ aside: false
 
 - HeadTiltIntoWind
 
-<h2>PageTags</h2>
-
 - "MOTON.HeadMOTON.HeadTiltIntoWind"
 :::

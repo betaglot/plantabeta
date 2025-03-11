@@ -1240,7 +1240,7 @@ tags = [
                     "title": "MOTON.MOTONDifficulty.Overview"
                 },
                 {
-                    "title": "ANIMA.NeuroDifficulty.Overview",
+                    "title": "ANIMA.ANIMADifficulty.Overview",
                     "color": "#cd74e6ff"
                 },
                 {
@@ -1273,7 +1273,7 @@ tags = [
                 "title": "MOTON.MOTONDifficulty.Overview"
             },
             {
-                "title": "ANIMA.NeuroDifficulty.Overview",
+                "title": "ANIMA.ANIMADifficulty.Overview",
                 "color": "#cd74e6ff"
             },
             {
@@ -6748,7 +6748,7 @@ tags = [
                     "title": "Dev.System.Definitions"
                 },
                 {
-                    "title": "Dev.System.Theorem"
+                    "title": "Dev.System.Teorem"
                 },
                 {
                     "title": "Guide.How.Understanding.CurrentUnderstanding"
@@ -6789,7 +6789,7 @@ tags = [
                 "title": "Dev.System.Definitions"
             },
             {
-                "title": "Dev.System.Theorem"
+                "title": "Dev.System.Teorem"
             },
             {
                 "title": "Guide.How.Understanding.CurrentUnderstanding"
@@ -10012,7 +10012,7 @@ tags = [
                     "title": "Dev.System.Problem"
                 },
                 {
-                    "title": "Dev.System.Theorem"
+                    "title": "Dev.System.Teorem"
                 },
                 {
                     "title": "MOTON.MOTONFrase.MOTONFraseError"
@@ -10061,7 +10061,7 @@ tags = [
                 "title": "Dev.System.Problem"
             },
             {
-                "title": "Dev.System.Theorem"
+                "title": "Dev.System.Teorem"
             },
             {
                 "title": "MOTON.MOTONFrase.MOTONFraseError"
@@ -15874,7 +15874,7 @@ tags = [
                     "title": "MOTON.MOTONFrase"
                 },
                 {
-                    "title": "ANIMA.NeuroName",
+                    "title": "ANIMA.ANIMAName",
                     "color": "#cd74e6ff"
                 },
                 {
@@ -15937,7 +15937,7 @@ tags = [
                 "title": "MOTON.MOTONFrase"
             },
             {
-                "title": "ANIMA.NeuroName",
+                "title": "ANIMA.ANIMAName",
                 "color": "#cd74e6ff"
             },
             {
@@ -17127,7 +17127,7 @@ tags = [
                     "title": "MOTON.MOTONSpace.Overview"
                 },
                 {
-                    "title": "ANIMA.NeuroCard",
+                    "title": "ANIMA.ANIMACard",
                     "color": "#cd74e6ff"
                 },
                 {
@@ -17190,7 +17190,7 @@ tags = [
                 "title": "MOTON.MOTONSpace.Overview"
             },
             {
-                "title": "ANIMA.NeuroCard",
+                "title": "ANIMA.ANIMACard",
                 "color": "#cd74e6ff"
             },
             {
@@ -19843,15 +19843,15 @@ tags = [
                     "color": "#cd74e6ff"
                 },
                 {
-                    "title": "ANIMA.Difficulty.NeuroComplexity",
+                    "title": "ANIMA.Difficulty.ANIMAComplexity",
                     "color": "#cd74e6ff"
                 },
                 {
-                    "title": "ANIMA.Difficulty.NeuroIntensity",
+                    "title": "ANIMA.Difficulty.ANIMAIntensity",
                     "color": "#cd74e6ff"
                 },
                 {
-                    "title": "ANIMA.Difficulty.NeuroRisk",
+                    "title": "ANIMA.Difficulty.ANIMARisk",
                     "color": "#cd74e6ff"
                 },
                 {
@@ -19965,15 +19965,15 @@ tags = [
                 "color": "#cd74e6ff"
             },
             {
-                "title": "ANIMA.Difficulty.NeuroComplexity",
+                "title": "ANIMA.Difficulty.ANIMAComplexity",
                 "color": "#cd74e6ff"
             },
             {
-                "title": "ANIMA.Difficulty.NeuroIntensity",
+                "title": "ANIMA.Difficulty.ANIMAIntensity",
                 "color": "#cd74e6ff"
             },
             {
-                "title": "ANIMA.Difficulty.NeuroRisk",
+                "title": "ANIMA.Difficulty.ANIMARisk",
                 "color": "#cd74e6ff"
             },
             {
@@ -20257,7 +20257,7 @@ tags = [
                     "color": "#cd74e6ff"
                 },
                 {
-                    "title": "ANIMA.Difficulty.NeuroRisk",
+                    "title": "ANIMA.Difficulty.ANIMARisk",
                     "color": "#cd74e6ff"
                 },
                 {
@@ -20322,7 +20322,7 @@ tags = [
                 "color": "#cd74e6ff"
             },
             {
-                "title": "ANIMA.Difficulty.NeuroRisk",
+                "title": "ANIMA.Difficulty.ANIMARisk",
                 "color": "#cd74e6ff"
             },
             {
@@ -22453,7 +22453,7 @@ tags = [
                     "title": "Dev.System.Definitions.Differentiation"
                 },
                 {
-                    "title": "Dev.System.Theorem"
+                    "title": "Dev.System.Teorem"
                 },
                 {
                     "title": "MOTON.MOTONDiagram.Overview"
@@ -22485,7 +22485,7 @@ tags = [
                 "title": "Dev.System.Definitions.Differentiation"
             },
             {
-                "title": "Dev.System.Theorem"
+                "title": "Dev.System.Teorem"
             },
             {
                 "title": "MOTON.MOTONDiagram.Overview"
@@ -24170,7 +24170,7 @@ tags = [
                     "title": "Dev.System.Byrne"
                 },
                 {
-                    "title": "Dev.System.Theorem"
+                    "title": "Dev.System.Teorem"
                 },
                 {
                     "title": "MOTON.ArmMOTON.BrazoAma"
@@ -24209,7 +24209,7 @@ tags = [
                 "title": "Dev.System.Byrne"
             },
             {
-                "title": "Dev.System.Theorem"
+                "title": "Dev.System.Teorem"
             },
             {
                 "title": "MOTON.ArmMOTON.BrazoAma"
@@ -28254,7 +28254,7 @@ tags = [
                     "title": "Dev.System.Axiom"
                 },
                 {
-                    "title": "Dev.System.Theorem"
+                    "title": "Dev.System.Teorem"
                 },
                 {
                     "title": "Guide.Why.Productivity.Efficiency"
@@ -28295,7 +28295,7 @@ tags = [
                 "title": "Dev.System.Axiom"
             },
             {
-                "title": "Dev.System.Theorem"
+                "title": "Dev.System.Teorem"
             },
             {
                 "title": "Guide.Why.Productivity.Efficiency"
@@ -28746,7 +28746,7 @@ tags = [
                     "title": "Dev.System.Model"
                 },
                 {
-                    "title": "Dev.System.Theorem"
+                    "title": "Dev.System.Teorem"
                 },
                 {
                     "title": "Guide.What.WhatPlantaBeta"
@@ -28794,7 +28794,7 @@ tags = [
                 "title": "Dev.System.Model"
             },
             {
-                "title": "Dev.System.Theorem"
+                "title": "Dev.System.Teorem"
             },
             {
                 "title": "Guide.What.WhatPlantaBeta"
@@ -28851,7 +28851,7 @@ tags = [
                     "title": "Dev.System.Problem"
                 },
                 {
-                    "title": "Dev.System.Theorem"
+                    "title": "Dev.System.Teorem"
                 },
                 {
                     "title": "Dev.TagChip"
@@ -28917,7 +28917,7 @@ tags = [
                 "title": "Dev.System.Problem"
             },
             {
-                "title": "Dev.System.Theorem"
+                "title": "Dev.System.Teorem"
             },
             {
                 "title": "Dev.TagChip"
@@ -30870,7 +30870,7 @@ tags = [
                     "title": "Dev.System.Problem"
                 },
                 {
-                    "title": "Dev.System.Theorem"
+                    "title": "Dev.System.Teorem"
                 },
                 {
                     "title": "Land.Soil.RedRot"
@@ -30902,7 +30902,7 @@ tags = [
                 "title": "Dev.System.Problem"
             },
             {
-                "title": "Dev.System.Theorem"
+                "title": "Dev.System.Teorem"
             },
             {
                 "title": "Land.Soil.RedRot"
@@ -32355,7 +32355,7 @@ tags = [
                     "title": "MOTON.MOTONCard"
                 },
                 {
-                    "title": "ANIMA.NeuroCard",
+                    "title": "ANIMA.ANIMACard",
                     "color": "#cd74e6ff"
                 },
                 {
@@ -32388,7 +32388,7 @@ tags = [
                 "title": "MOTON.MOTONCard"
             },
             {
-                "title": "ANIMA.NeuroCard",
+                "title": "ANIMA.ANIMACard",
                 "color": "#cd74e6ff"
             },
             {
@@ -33169,7 +33169,7 @@ tags = [
                     "title": "Dev.System.Definitions"
                 },
                 {
-                    "title": "Dev.System.Theorem"
+                    "title": "Dev.System.Teorem"
                 },
                 {
                     "title": "Via.AreaCover.TriangleCover"
@@ -33198,7 +33198,7 @@ tags = [
                 "title": "Dev.System.Definitions"
             },
             {
-                "title": "Dev.System.Theorem"
+                "title": "Dev.System.Teorem"
             },
             {
                 "title": "Via.AreaCover.TriangleCover"
@@ -37624,10 +37624,10 @@ tags = [
                 "title": "ANIMA.CognitiveEase.Good"
             },
             {
-                "title": "Psike.CognitiveEase.Priming"
+                "title": "ANIMA.CognitiveEase.Priming"
             },
             {
-                "title": "Psike.CognitiveEase.Repetition"
+                "title": "ANIMA.CognitiveEase.Repetition"
             },
             {
                 "title": "PlantaBeta"
@@ -37781,7 +37781,7 @@ tags = [
                     "title": "MOTON.Overview.MOTONHierarchy.Submove"
                 },
                 {
-                    "title": "Psike.Calm"
+                    "title": "ANIMA.Calm"
                 },
                 {
                     "title": "PlantaBeta"
@@ -37816,7 +37816,7 @@ tags = [
                 "title": "MOTON.Overview.MOTONHierarchy.Submove"
             },
             {
-                "title": "Psike.Calm"
+                "title": "ANIMA.Calm"
             },
             {
                 "title": "PlantaBeta"
@@ -38362,7 +38362,7 @@ tags = [
             "lastUpdated": 1692978839626,
             "tags": [
                 {
-                    "title": "Psike.Calm"
+                    "title": "ANIMA.Calm"
                 },
                 {
                     "title": "PlantaBeta"
@@ -38379,7 +38379,7 @@ tags = [
         "extension": "jpg",
         "tags": [
             {
-                "title": "Psike.Calm"
+                "title": "ANIMA.Calm"
             },
             {
                 "title": "PlantaBeta"
@@ -38469,7 +38469,7 @@ tags = [
                     "title": "Dev.System.Problem"
                 },
                 {
-                    "title": "Dev.System.Theorem"
+                    "title": "Dev.System.Teorem"
                 },
                 {
                     "title": "PlantaBeta"
@@ -38501,7 +38501,7 @@ tags = [
                 "title": "Dev.System.Problem"
             },
             {
-                "title": "Dev.System.Theorem"
+                "title": "Dev.System.Teorem"
             },
             {
                 "title": "PlantaBeta"
@@ -38567,7 +38567,7 @@ tags = [
                     "title": "Dev.Element.Overview"
                 },
                 {
-                    "title": "Dev.System.Theorem"
+                    "title": "Dev.System.Teorem"
                 },
                 {
                     "title": "Guide.What.WhatElement.Euclid"
@@ -38590,7 +38590,7 @@ tags = [
                 "title": "Dev.Element.Overview"
             },
             {
-                "title": "Dev.System.Theorem"
+                "title": "Dev.System.Teorem"
             },
             {
                 "title": "Guide.What.WhatElement.Euclid"
@@ -39033,7 +39033,7 @@ tags = [
                     "title": "Dev.System.Object"
                 },
                 {
-                    "title": "Psike.Memory"
+                    "title": "ANIMA.Memory"
                 },
                 {
                     "title": "PlantaBeta"
@@ -39053,7 +39053,7 @@ tags = [
                 "title": "Dev.System.Object"
             },
             {
-                "title": "Psike.Memory"
+                "title": "ANIMA.Memory"
             },
             {
                 "title": "PlantaBeta"
@@ -39153,7 +39153,7 @@ tags = [
             "lastUpdated": 1692978839627,
             "tags": [
                 {
-                    "title": "Psike.Adrenaline"
+                    "title": "ANIMA.Adrenaline"
                 },
                 {
                     "title": "PlantaBeta"
@@ -39170,7 +39170,7 @@ tags = [
         "extension": "jpg",
         "tags": [
             {
-                "title": "Psike.Adrenaline"
+                "title": "ANIMA.Adrenaline"
             },
             {
                 "title": "PlantaBeta"
@@ -39288,7 +39288,7 @@ tags = [
                     "title": "Dev.System.Problem"
                 },
                 {
-                    "title": "Dev.System.Theorem"
+                    "title": "Dev.System.Teorem"
                 },
                 {
                     "title": "PlantaBeta"
@@ -39317,7 +39317,7 @@ tags = [
                 "title": "Dev.System.Problem"
             },
             {
-                "title": "Dev.System.Theorem"
+                "title": "Dev.System.Teorem"
             },
             {
                 "title": "PlantaBeta"
@@ -39992,7 +39992,7 @@ tags = [
                     "title": "Dev.Transcription"
                 },
                 {
-                    "title": "Psike.Overview",
+                    "title": "ANIMA.Overview",
                     "color": "#cd74e6ff"
                 },
                 {
@@ -40016,7 +40016,7 @@ tags = [
                 "title": "Dev.Transcription"
             },
             {
-                "title": "Psike.Overview",
+                "title": "ANIMA.Overview",
                 "color": "#cd74e6ff"
             },
             {
@@ -40068,11 +40068,11 @@ tags = [
             "lastUpdated": 1693258845941,
             "tags": [
                 {
-                    "title": "Psike.Logic.Boolean",
+                    "title": "ANIMA.Logic.Boolean",
                     "color": "#cd74e6ff"
                 },
                 {
-                    "title": "Psike.Logic.Overview",
+                    "title": "ANIMA.Logic.Overview",
                     "color": "#cd74e6ff"
                 },
                 {
@@ -40099,11 +40099,11 @@ tags = [
         "extension": "jpg",
         "tags": [
             {
-                "title": "Psike.Logic.Boolean",
+                "title": "ANIMA.Logic.Boolean",
                 "color": "#cd74e6ff"
             },
             {
-                "title": "Psike.Logic.Overview",
+                "title": "ANIMA.Logic.Overview",
                 "color": "#cd74e6ff"
             },
             {
@@ -40465,7 +40465,7 @@ tags = [
                     "title": "Via.ViaComposition.ViaSelection"
                 },
                 {
-                    "title": "Psike.Decision",
+                    "title": "ANIMA.Decision",
                     "color": "#cd74e6ff"
                 },
                 {
@@ -40501,7 +40501,7 @@ tags = [
                 "title": "Via.ViaComposition.ViaSelection"
             },
             {
-                "title": "Psike.Decision",
+                "title": "ANIMA.Decision",
                 "color": "#cd74e6ff"
             },
             {
@@ -41829,11 +41829,11 @@ tags = [
                     "title": "Dev.System.Syntax.Punctuation.Equal"
                 },
                 {
-                    "title": "Psike.Logic.Deduction",
+                    "title": "ANIMA.Logic.Deduction",
                     "color": "#cd74e6ff"
                 },
                 {
-                    "title": "Dev.System.Theorem"
+                    "title": "Dev.System.Teorem"
                 },
                 {
                     "title": "NotPaper"
@@ -41874,11 +41874,11 @@ tags = [
                 "title": "Dev.System.Syntax.Punctuation.Equal"
             },
             {
-                "title": "Psike.Logic.Deduction",
+                "title": "ANIMA.Logic.Deduction",
                 "color": "#cd74e6ff"
             },
             {
-                "title": "Dev.System.Theorem"
+                "title": "Dev.System.Teorem"
             },
             {
                 "title": "NotPaper"
@@ -42195,7 +42195,7 @@ tags = [
                     "title": "NotPaper"
                 },
                 {
-                    "title": "BetaGraph.EkosystemMap"
+                    "title": "BetaGraph.EcosystemMap"
                 },
                 {
                     "title": "Dev.Infographic.TreeView"
@@ -42214,7 +42214,7 @@ tags = [
                 "title": "NotPaper"
             },
             {
-                "title": "BetaGraph.EkosystemMap"
+                "title": "BetaGraph.EcosystemMap"
             },
             {
                 "title": "Dev.Infographic.TreeView"
@@ -42358,7 +42358,7 @@ tags = [
                     "title": "BetaGraph.ColorCode.Highlight"
                 },
                 {
-                    "title": "BetaGraph.EkosystemMap"
+                    "title": "BetaGraph.EcosystemMap"
                 },
                 {
                     "title": "BetaGraph.ElementDependencies"
@@ -42391,7 +42391,7 @@ tags = [
                 "title": "BetaGraph.ColorCode.Highlight"
             },
             {
-                "title": "BetaGraph.EkosystemMap"
+                "title": "BetaGraph.EcosystemMap"
             },
             {
                 "title": "BetaGraph.ElementDependencies"
@@ -42427,7 +42427,7 @@ tags = [
                     "title": "Dev.Element.ElementDiagram.Labels.TextLabel"
                 },
                 {
-                    "title": "BetaGraph.EkosystemMapPie.ConcentricRings"
+                    "title": "BetaGraph.EcosystemMapPie.ConcentricRings"
                 },
                 {
                     "title": "BetaGraph.ElementValue.ElementValueExchange"
@@ -42457,7 +42457,7 @@ tags = [
                 "title": "Dev.Element.ElementDiagram.Labels.TextLabel"
             },
             {
-                "title": "BetaGraph.EkosystemMapPie.ConcentricRings"
+                "title": "BetaGraph.EcosystemMapPie.ConcentricRings"
             },
             {
                 "title": "BetaGraph.ElementValue.ElementValueExchange"
@@ -42523,7 +42523,7 @@ tags = [
             "lastUpdated": 1693257163837,
             "tags": [
                 {
-                    "title": "BetaGraph.EkosystemMapPie.ConcentricRings"
+                    "title": "BetaGraph.EcosystemMapPie.ConcentricRings"
                 },
                 {
                     "title": "BetaGraph.PostIt"
@@ -42538,7 +42538,7 @@ tags = [
         },
         "tags": [
             {
-                "title": "BetaGraph.EkosystemMapPie.ConcentricRings"
+                "title": "BetaGraph.EcosystemMapPie.ConcentricRings"
             },
             {
                 "title": "BetaGraph.PostIt"
@@ -42568,7 +42568,7 @@ tags = [
                     "title": "Dev.Element.ElementPictogram"
                 },
                 {
-                    "title": "BetaGraph.EkosystemMapPie.ConcentricRings"
+                    "title": "BetaGraph.EcosystemMapPie.ConcentricRings"
                 },
                 {
                     "title": "BetaGraph.ElementValue.ElementValuePictogram"
@@ -42604,7 +42604,7 @@ tags = [
                 "title": "Dev.Element.ElementPictogram"
             },
             {
-                "title": "BetaGraph.EkosystemMapPie.ConcentricRings"
+                "title": "BetaGraph.EcosystemMapPie.ConcentricRings"
             },
             {
                 "title": "BetaGraph.ElementValue.ElementValuePictogram"
@@ -42733,7 +42733,7 @@ tags = [
                     "title": "BetaGraph.ColorCode"
                 },
                 {
-                    "title": "BetaGraph.EkosystemMapPie.ConcentricRings"
+                    "title": "BetaGraph.EcosystemMapPie.ConcentricRings"
                 },
                 {
                     "title": "BetaGraph.MetroMap"
@@ -42754,7 +42754,7 @@ tags = [
                 "title": "BetaGraph.ColorCode"
             },
             {
-                "title": "BetaGraph.EkosystemMapPie.ConcentricRings"
+                "title": "BetaGraph.EcosystemMapPie.ConcentricRings"
             },
             {
                 "title": "BetaGraph.MetroMap"
@@ -43096,10 +43096,10 @@ tags = [
                 "title": "BetaGraph.ColorCode"
             },
             {
-                "title": "BetaGraph.EkosystemMapPie"
+                "title": "BetaGraph.EcosystemMapPie"
             },
             {
-                "title": "BetaGraph.EkosystemMapPie.ConcentricRings"
+                "title": "BetaGraph.EcosystemMapPie.ConcentricRings"
             },
             {
                 "title": "BetaGraph.ElementValue.ElementEvaluation"
@@ -43120,10 +43120,10 @@ tags = [
         "name": "90092.png",
         "tags": [
             {
-                "title": "BetaGraph.EkosystemMapPie.ConcentricRings"
+                "title": "BetaGraph.EcosystemMapPie.ConcentricRings"
             },
             {
-                "title": "BetaGraph.EkosystemMapPie.PieSection"
+                "title": "BetaGraph.EcosystemMapPie.PieSection"
             },
             {
                 "title": "BetaGraph.ElementValue"
@@ -43153,7 +43153,7 @@ tags = [
         "name": "90094.png",
         "tags": [
             {
-                "title": "BetaGraph.EkosystemMapPie.PieSection"
+                "title": "BetaGraph.EcosystemMapPie.PieSection"
             },
             {
                 "title": "BetaGraph.ElementValue.ElementValueChain"
@@ -43183,10 +43183,10 @@ tags = [
                 "title": "BetaGraph.DirectRelationship"
             },
             {
-                "title": "BetaGraph.EkosystemMapPie"
+                "title": "BetaGraph.EcosystemMapPie"
             },
             {
-                "title": "BetaGraph.EkosystemMapPie.ConcentricRings"
+                "title": "BetaGraph.EcosystemMapPie.ConcentricRings"
             },
             {
                 "title": "BetaGraph.ElementRole"
@@ -43216,7 +43216,7 @@ tags = [
                 "title": "BetaGraph.ColorCode"
             },
             {
-                "title": "BetaGraph.EkosystemMapPie.PieSection"
+                "title": "BetaGraph.EcosystemMapPie.PieSection"
             },
             {
                 "title": "BetaGraph.ElementValue.ElementValueChain"
@@ -43237,10 +43237,10 @@ tags = [
         "name": "90095.png",
         "tags": [
             {
-                "title": "BetaGraph.EkosystemMapPie.CentralElement"
+                "title": "BetaGraph.EcosystemMapPie.CentralElement"
             },
             {
-                "title": "BetaGraph.ElementValue.EkosystemValueProposition"
+                "title": "BetaGraph.ElementValue.EcosystemValueProposition"
             },
             {
                 "title": "NotPaper"
@@ -43255,7 +43255,7 @@ tags = [
                 "title": "Dev.Element.ElementDiagram.ConnectorLine"
             },
             {
-                "title": "BetaGraph.EkosystemMapPie.PieSection"
+                "title": "BetaGraph.EcosystemMapPie.PieSection"
             },
             {
                 "title": "BetaGraph.ElementValue.CreateValue"
@@ -43279,7 +43279,7 @@ tags = [
         "name": "90096.png",
         "tags": [
             {
-                "title": "BetaGraph.EkosystemMapPie.PieSection"
+                "title": "BetaGraph.EcosystemMapPie.PieSection"
             },
             {
                 "title": "NotPaper"
@@ -43366,7 +43366,7 @@ tags = [
                 "title": "BetaGraph.ColorCode.Highlight"
             },
             {
-                "title": "BetaGraph.EkosystemMapPie.ConcentricRings"
+                "title": "BetaGraph.EcosystemMapPie.ConcentricRings"
             },
             {
                 "title": "BetaGraph.PostIt"
@@ -43393,7 +43393,7 @@ tags = [
                 "title": "Dev.Element.ElementDiagram.ConnectorLine"
             },
             {
-                "title": "BetaGraph.EkosystemMapPie.ConcentricRings"
+                "title": "BetaGraph.EcosystemMapPie.ConcentricRings"
             },
             {
                 "title": "BetaGraph.PostIt"
@@ -43414,7 +43414,7 @@ tags = [
                 "title": "BetaGraph.Frase.FinishElement"
             },
             {
-                "title": "BetaGraph.EkosystemMapPie.PieSection"
+                "title": "BetaGraph.EcosystemMapPie.PieSection"
             }
         ],
         "thumbPath": ".ts\\90103.png.jpg"
@@ -43435,7 +43435,7 @@ tags = [
                 "title": "BetaGraph.Frase.StartElement"
             },
             {
-                "title": "BetaGraph.EkosystemMapPie.PieSection"
+                "title": "BetaGraph.EcosystemMapPie.PieSection"
             }
         ],
         "thumbPath": ".ts\\90102.png.jpg"
@@ -43447,7 +43447,7 @@ tags = [
                 "title": "NotPaper"
             },
             {
-                "title": "BetaGraph.EkosystemMapPie.PieSection"
+                "title": "BetaGraph.EcosystemMapPie.PieSection"
             },
             {
                 "title": "BetaGraph.Frase.FrasePop"
@@ -43480,19 +43480,19 @@ tags = [
                 "title": "NotPaper"
             },
             {
-                "title": "BetaGraph.EkosystemMapPie.ConcentricRings"
+                "title": "BetaGraph.EcosystemMapPie.ConcentricRings"
             },
             {
-                "title": "BetaGraph.EkosystemMapPie.PieSection"
+                "title": "BetaGraph.EcosystemMapPie.PieSection"
             },
             {
-                "title": "BetaGraph.EkosystemMapPie.CentralElement"
+                "title": "BetaGraph.EcosystemMapPie.CentralElement"
             },
             {
                 "title": "BetaGraph.ColorCode.Highlight"
             },
             {
-                "title": "BetaGraph.EkosystemMapPie.ConcentricRings.RingLabel"
+                "title": "BetaGraph.EcosystemMapPie.ConcentricRings.RingLabel"
             },
             {
                 "title": "Via.ViaGrid.ViaHexagonGrid"
@@ -43531,19 +43531,19 @@ tags = [
                 "title": "NotPaper"
             },
             {
-                "title": "BetaGraph.EkosystemMapPie.ConcentricRings"
+                "title": "BetaGraph.EcosystemMapPie.ConcentricRings"
             },
             {
-                "title": "BetaGraph.EkosystemMapPie.PieSection"
+                "title": "BetaGraph.EcosystemMapPie.PieSection"
             },
             {
-                "title": "BetaGraph.EkosystemMapPie.CentralElement"
+                "title": "BetaGraph.EcosystemMapPie.CentralElement"
             },
             {
                 "title": "BetaGraph.ColorCode.Highlight"
             },
             {
-                "title": "BetaGraph.EkosystemMapPie.ConcentricRings.RingLabel"
+                "title": "BetaGraph.EcosystemMapPie.ConcentricRings.RingLabel"
             },
             {
                 "title": "Via.ViaGrid.ViaHexagonGrid"
@@ -43666,10 +43666,10 @@ tags = [
                 "title": "BetaGraph.ElementValue.ElementValueExchange"
             },
             {
-                "title": "BetaGraph.EkosystemMapPie.ConcentricRings"
+                "title": "BetaGraph.EcosystemMapPie.ConcentricRings"
             },
             {
-                "title": "BetaGraph.EkosystemMapPie.ConcentricRings.RingLabel"
+                "title": "BetaGraph.EcosystemMapPie.ConcentricRings.RingLabel"
             },
             {
                 "title": "BetaGraph.ColorCode"

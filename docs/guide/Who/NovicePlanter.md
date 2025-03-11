@@ -34,7 +34,6 @@ Novice Plantors ALWAYS Google "How to Plant trees?" before starting the season. 
 
 Scaffold
 Give a place to start
-<h2>PageTags</h2>
 
 - "Guide.Who.NovicePlantor"
 - "Guide.Who.NovicePlantor.NoviceStare"

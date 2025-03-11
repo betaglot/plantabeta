@@ -20,7 +20,5 @@ aside: false
     - Breathing in Particles of soil
 - (LookAway != NoLookAt)
 
-<h2>PageTags</h2>
-
 - "MOTON.HeadMOTON.LookAway"
 :::

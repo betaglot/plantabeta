@@ -8,9 +8,9 @@ Planting can be a dangerous job.
 
 ## Choose Safer Alternatives
 
-Plantors can get injured when they don't adapt motos to the specific situation. <beta>Put(<ekos>Plant</ekos>)</beta> gives many options to adapt motos for any situation.
+Plantors can get injured when they don't adapt MOTONS to the specific situation. <beta>Put(<ekos>Plant</ekos>)</beta> gives many options to adapt MOTONS for any situation.
 
-Some Plantors only know how to [🟠<motor>HandClose</motor>](/encyclopedia/MOTON/ManoMOTON/HandClose) one way, but there are many different ways. Even slightly varying a motos can reduce repetitive strain injuries.
+Some Plantors only know how to 🟠<motor>HandClose</motor> one way, but there are many different ways. Even slightly varying a MOTONS can reduce repetitive strain injuries.
 
 ## Repetitive Strain
 
@@ -19,25 +19,24 @@ Injury can occur in Plantors when they perform the same movement repeatedly.
 - Do ambidextrous Plantors suffer less injury caused by repetitive strain?
     - Repetitive Motion
     - Greater moto variability reduces moto repetition.
-        - How many [🟠<motor>HandClosing</motor>](/encyclopedia/MOTON/ManoMOTON/HandClose)  methods do you know?
+        - How many 🟠<motor>HandClosing</motor> methods do you know?
 
 ## Reduces Injuries from Falling
 
-PlantaBeta teaches Plantors how to move through their [🟩<ekos>Eko</ekos>](/encyclopedia/Eko/EcoOverview) safely.
+PlantaBeta teaches Plantors how to move through their 🟩<ekos>EKOS</ekos> safely.
 
 Falling is a large part of Climbing. PlantaBeta transfers the knowledge of how to fall safely from climbing to Planting.
 ::: tip Some of the MOTONs used to safely Fall
 
-- [🟠<motor>BodyAbsorb</motor>](/encyclopedia/MOTON/BodyMOTON/BodyAbsorb)
-- [🟠<motor>BodyRedirect</motor>](/encyclopedia/MOTON/BodyMOTON/BodyRedirect)
+- 🟠<motor>BodyAbsorb</motor>
+- 🟠<motor>BodyRedirect</motor>
 :::
 
 ## Wrist Tendonitis
 
 Wrist Tendonitis occurs from straining the tissues around the wrist. The strain can be acute, such as when a Plantor hits a rock with full force and doesn't absorb the shock, or the strain can be from repetitive use.
 
-- [🟠<motor>ArmAbsorb</motor>](/encyclopedia/MOTON/ArmMOTON/ArmAbsorb) during the impact of [🟠<motor>SpadeImpact</motor>](/encyclopedia/MOTON/InstrumentMOTON/Spade/SpadeImpact)
--
+- 🟠<motor>ArmAbsorb</motor> during the impact of 🟠<motor>SpadeImpact</motor>
 
 ## Christmas Toe
 
@@ -45,8 +44,8 @@ Plantors kick To remove the layer of organic material off an intended microsite.
 
 A greater knowledge of possible alternative moves can prevent Christmas Toe from ever occuring.
 
-- [🟠<motor>SpadeSkreef</motor>](/encyclopedia/InstrumentMOTON/SpadeMOTON/SpadeSkreef) instead of only [🟠<motor>FootSkreef</motor>](/encyclopedia/MOTON/FootMOTON/FootSkreef)
-- [🟠<motor>HandClose</motor>](/encyclopedia/MOTON/ManoMOTON/HandClose) instead of only [🟠<motor>FootSeal</motor>](/encyclopedia/MOTON/FootMOTON/FootSeal)
+- 🟠<motor>SpadeSkreef</motor> instead of only 🟠<motor>FootSkreef</motor>
+- 🟠<motor>HandClose</motor> instead of only 🟠<motor>FootSeal</motor>
 
 ---
 

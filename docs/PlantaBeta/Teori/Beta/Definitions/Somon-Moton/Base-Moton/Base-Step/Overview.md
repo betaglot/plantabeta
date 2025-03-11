@@ -26,8 +26,6 @@ aside: false
         - (StepOn != WalkOn)
         - TestKick
 
-<h2>PageTags</h2>
-
 - "MOTON.LegMOTON.Step"
 - "MOTON.LegMOTON.Step.BackStep"
 - "MOTON.LegMOTON.Step.KickStep"

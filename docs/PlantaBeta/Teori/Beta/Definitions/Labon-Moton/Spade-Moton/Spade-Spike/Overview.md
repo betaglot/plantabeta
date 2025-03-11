@@ -7,11 +7,11 @@ Aliases: SpadeSlam, SpadeThrow, SpadeChop
 
 ## 🕸 SpadeSpike.Skema
 
-### Related 🟩<ekos>Eko</ekos>
+### Related 🟩<ekos>EKOS</ekos>
 
 - Blade gets stuck into root near stump, especially near a stump cluster.
 
-### Related 🔻<via>Via</via>
+### Related 🔻<via>VIA</via>
 
 -
 
@@ -81,8 +81,6 @@ Aliases: SpadeSlam, SpadeThrow, SpadeChop
 - WWE Slam move
 - Step up then drop down
 - When to pull your punch, pull your Propel?
-
-<h2>PageTags</h2>
 
 - "MOTON.InstrumentMOTON.SpadeMOTON.SpadeSpike"
 

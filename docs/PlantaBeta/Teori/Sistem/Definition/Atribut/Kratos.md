@@ -1,4 +1,4 @@
-# 🔷 <beta>KRATOS</beta>
+# 🌈 <beta>KRATOS</beta>
 
 > the power of this Element
 >

@@ -17,7 +17,7 @@
 
 ## 🟠 <motor>MOTON Instruments</motor>
 
-Instruments you need to perform plantor motos.
+Instruments you need to perform plantor MOTONS.
 
 ### 🟠 <motor>Spade</motor>
 

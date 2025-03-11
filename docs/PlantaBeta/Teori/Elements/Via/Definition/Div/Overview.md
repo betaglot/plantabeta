@@ -4,7 +4,7 @@
 
 Aliases: Area
 
-## Related 🟩<ekos>Eko</ekos>
+## Related 🟩<ekos>EKOS</ekos>
 
 - NaturalDiv
 

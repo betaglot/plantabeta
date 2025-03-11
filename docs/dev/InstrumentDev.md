@@ -4,7 +4,7 @@ The most important constraint for Instruments is the space it takes in the Truck
 
 ## <beta>TrailerDev</beta>
 
-A trailer loaded with everthing that PLANTERS need for their season. For plantors only, not for company logistics like water purification or showers or kitchen.
+A trailer loaded with everthing that PLANTORS need for their season. For plantors only, not for company logistics like water purification or showers or kitchen.
 
 > What your company needs to join the cutting edge of tree plantor technology
 
@@ -493,8 +493,6 @@ Weave Tab
 - What could be planted to suppress fire like a firebreak or something. Planted just before
 
 Planting Bags used all year round are no longer called planting bags. `(Silvicolum)Latin = "Inhabitor of woods"`
-
-<h2>PageTags</h2>
 
 - "Dev.InstrumentDiagram"
 - "Dev.InstrumentDiagram.BagsDiagram"

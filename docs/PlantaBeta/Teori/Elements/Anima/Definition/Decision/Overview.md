@@ -20,8 +20,6 @@
 
 -
 
-<h2>PageTags</h2>
-
 - "ANIMA.Decision"
 
 :::

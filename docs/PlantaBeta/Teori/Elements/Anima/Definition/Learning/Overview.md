@@ -11,8 +11,6 @@
 
 -
 
-<h2>PageTags</h2>
-
 - "ANIMA.Learning.Feedback"
 - "ANIMA.Learning.Overview"
 - "ANIMA.Learning.Recall"

@@ -16,7 +16,5 @@ aside: false
 
 -
 
-<h2>PageTags</h2>
-
 - "MOTON.HeadMOTON.NeckFlexion"
 :::

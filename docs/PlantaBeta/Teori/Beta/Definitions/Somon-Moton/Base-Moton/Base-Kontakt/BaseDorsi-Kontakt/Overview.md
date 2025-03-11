@@ -13,7 +13,7 @@ aside: false
 ::: details 🛠
 
 - The dorsal part of your boot (Foot)
-- ToeHook
+- Toe-Hook
 - LogLaunch
 
 :::

@@ -19,8 +19,6 @@ Mirror images for ambidextrous plantor
 
 -
 
-<h2>PageTags</h2>
-
 - "Motor.MotorCard"
 - "Motor.MotorDecomposition"
 - "Motor.MotorDiagram.MotorTimeline"

@@ -31,8 +31,6 @@ Aliases: Path, Way, Route, Passage, Trail
                 - Trajectory: Point then Curve
                 - Boundary: Points
 
-<h2>PageTags</h2>
-
 - "Via.Line.AdvancingMOTON"
 - "Via.Line.BagUpLine"
 - "Via.Line.BeeLine"

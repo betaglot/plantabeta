@@ -17,7 +17,7 @@
     - Finish
     - Middle
 - 💜<anima>ANIMA</anima>
-    - Anatomy doesn't apply to Neuroscience. Neuroanatomy is beyond the scope of Sistema.
+    - Anatomy doesn't apply to ANIMAscience. ANIMAanatomy is beyond the scope of Sistem.
 
 ---
 

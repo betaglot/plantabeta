@@ -1,20 +1,20 @@
 # 🔷Sequence
 
-The Sequences of each BetaTipos
+The Sequences of each ElementGroups
 
-🔷: Sequence is composed of Moments
-🟠: Frase is composed of MOTONs
-🟩: EKOS is composed of Ekons
-🔻: VIA is composed of Viums
+🌈:Sequence is composed of Moments
+⭐:
+🔷:
+🟠: MOTOR is composed of MOTONs
+🟩: EKOS is composed of EKONs
+🔻: VIA is composed of VIONs
 💜: Processes composed of Experiences
-
-- Analogy(Sequence, {Via: Via, MOTON: Frase, Eko: Eko, ANIMA: Process, Beta: Sequence})
 
 ## Sinkron (Noun)
 
 Aliases: Concurrent Element
 
-> An 🟠<motor>MOVE</motor> which is performed at the same time as another 🟠<motor>MOVE</motor>
+> A 🟠<motor>MOTON</motor> which is performed at the same time as another 🟠<motor>MOTON</motor>
 
 ### Concurrency or Parallelism
 
@@ -54,7 +54,7 @@ The Ritmo of a Sequence
 
 ## Control Flow Statements
 
-Control flow is the codified version of [Decision Making](/encyclopedia/ANIMA/Decision/Overview)
+Control flow is the codified version of Decision Making
 
 - Decision
     - Conscious

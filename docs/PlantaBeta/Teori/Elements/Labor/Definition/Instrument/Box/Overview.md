@@ -40,8 +40,6 @@
     - BoxSide
     - BoxBase
 
-<h2>PageTags</h2>
-
 - "MOTON.InstrumentMOTON.BoxMOTON.BoxOpen"
 - "MOTON.InstrumentMOTON.BoxMOTON.BoxSlide"
 - "MOTON.InstrumentMOTON.BoxMOTON.BoxStack"

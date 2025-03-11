@@ -33,15 +33,15 @@ HubermanLab Guest Series [with Dr. Matt Walker](https://www.youtube.com/playlist
 - Sleep Mask
 - Pillow
 
-## Related <motor>MOTONElements</motor>
+## Related <motor>MOTOR</motor>
 
 - After work
 
-## Related 🟩<ekos>EkoElements</ekos>
+## Related 🟩<ekos>EKOS</ekos>
 
 - Bumpy road
 
-## Related 🔻<via>ViaFactors</via>
+## Related 🔻<via>VIA</via>
 
 -
 
@@ -59,8 +59,6 @@ HubermanLab Guest Series [with Dr. Matt Walker](https://www.youtube.com/playlist
 ::: details 🛠
 
 -
-
-<h2>PageTags</h2>
 
 - "MOTON.InstrumentMOTON.TruckMOTON.Sleep"
 :::

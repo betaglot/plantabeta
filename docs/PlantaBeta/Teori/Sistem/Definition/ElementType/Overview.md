@@ -1,19 +1,19 @@
 # <beta>ELEMENT</beta>
 
-All Elements have Attributes and Methods
+All Elements have Atributs and Metods
 
-Attributes and Methods are not Elements
+Atributs and Metods are not Elements
 
-A method can be a Problema
+A method can be a Problem
 
-## Elements of each BetaType
+## Elements of each ElementGroup
 
-- <beta>BETUM</beta>
-- 🟠<motor>MOTON</motor>
-- 🔻<via>VIUM</via>
-- 🟩<ekos>EKON</ekos>
-- 💜<anima>ANIMA</anima>
+- 🌈<beta>BETUM</beta>
 - ⭐<labor>LABOR</labor>
+- 🟩<ekos>EKON</ekos>
+- 🔻<via>VIUM</via>
+- 🟠<motor>MOTON</motor>
+- 💜<anima>ANIMA</anima>
 
 ## Taxonomy of Elements
 
@@ -28,17 +28,9 @@ A method can be a Problema
 
 (Element_A + Element_B == Element_AB)
 
-Arm + Swing == ArmSwing
+Brazo + Onda == Brazo-Onda
 
 Elements combined together become a new element, not a Compound like Chemistry.
-
-## Collection of Elements
-
-- MOTON collections are called Phrases
-- VIA collections are called Passages
-- EKOS collections are called Set, Sections, (Piece,Pitch), Block
-- Beta collections are called Blocks
-- ANIMA collections are called Processes
 
 ### Element Sequence
 

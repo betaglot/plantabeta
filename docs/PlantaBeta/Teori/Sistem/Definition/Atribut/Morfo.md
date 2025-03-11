@@ -1,10 +1,10 @@
-# 🔷 <beta>MORFO</beta>
+# 🌈 <beta>MORFO</beta>
 
 ## <beta>BetaAnalogy</beta>
 
-## BetaTypes
+## ElementGroups
 
-🔻<via>VIA</via>, 🟩<ekos>EKO</ekos>, 🟠<motor>MOVE</motor>
+🔻<via>VIA</via>, 🟩<ekos>EKOS</ekos>, 🟠<motor>MOVE</motor>
 
 ## Relative Geometry
 

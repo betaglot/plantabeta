@@ -35,6 +35,6 @@ Block Start
 ::: details 🛠
 
 - CutBank
-- To a plantor a Road is more VIA than Eko, since no planting is ever performed on road, unless it has been deactivated.
+- To a plantor a Road is more VIA than EKOS, since no planting is ever performed on road, unless it has been deactivated.
 
 :::

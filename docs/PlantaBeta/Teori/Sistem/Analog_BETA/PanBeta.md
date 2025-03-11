@@ -20,7 +20,7 @@ Import
 
 - BetaSports don't contain Antagonists, therefore all allow Kindness between participants
 
-## 🔷 Archery (ArcheryBeta)
+## 🌈 Archery (ArcheryBeta)
 
 ### BetaAnalogy
 
@@ -28,13 +28,13 @@ Import
 
 ### 💜<anima>ArcheryBeta.ANIMA</anima>
 
-### 🟩<ekos>ArcheryBeta.EKO</ekos>
+### 🟩<ekos>ArcheryBeta.EKOS</ekos>
 
-### 🟠<motor>ArcheryBeta.MOVE</motor>
+### 🟠<motor>ArcheryBeta.MOTOR</motor>
 
 ### 🔻<via>ArcheryBeta.VIA</via>
 
-## 🔷 Basketball (BasketballBeta)
+## 🌈 Basketball (BasketballBeta)
 
 TeamBeta
 
@@ -58,7 +58,7 @@ Passing
 
 ### 🟩<ekos>.BasketballBetaEKO: =Opponent</ekos>
 
-### 🟠<motor>BasketballBeta.MOVE</motor>
+### 🟠<motor>BasketballBeta.MOTOR</motor>
 
 ### 🔻<via>BasketballBeta.VIA</via>
 
@@ -77,15 +77,15 @@ Passing
 
 ### 💜<anima>BikeBeta.ANIMA</anima>
 
-### 🟩<ekos>BikeBeta.EKO</ekos>
+### 🟩<ekos>BikeBeta.EKOS</ekos>
 
-### 🟠<motor>BikeBeta.MOVE</motor>
+### 🟠<motor>BikeBeta.MOTOR</motor>
 
 ### 🔻<via>BikeBeta.VIA</via>
 
 - <https://www.pactimo.com/blogs/cycling-people-places-things/glossary-of-cycling-terminology>
 
-## 🔷 Freestyle BMX (BmxBeta)
+## 🌈 Freestyle BMX (BmxBeta)
 
 ### BetaAnalogy
 
@@ -93,13 +93,13 @@ Passing
 
 ### 💜<anima>BmxBeta.ANIMA</anima>
 
-### 🟩<ekos>BmxBeta.EKO</ekos>
+### 🟩<ekos>BmxBeta.EKOS</ekos>
 
-### 🟠<motor>BmxBeta.MOVE</motor>
+### 🟠<motor>BmxBeta.MOTOR</motor>
 
 ### 🔻<via>BmxBeta.VIA</via>
 
-## 🔷 Boxing (BoxingBeta)
+## 🌈 Boxing (BoxingBeta)
 
 ### BetaAnalogy
 
@@ -109,18 +109,18 @@ Passing
 
 ### 🟩<ekos>BoxingBeta.EKO: Plant=Opponent</ekos>
 
-### 🟠<motor>BoxingBeta.MOVE</motor>
+### 🟠<motor>BoxingBeta.MOTOR</motor>
 
 ### 🔻<via>BoxingBeta.VIA</via>
 
-- [BranchDeflection](/encyclopedia/MOTON/PlantMOTON/BranchDeflection)
-- [HeadBob](/encyclopedia/MOTON/HeadMOTON/Overview)
-- [HandClose](/encyclopedia/MOTON/HandMOTON/Overview)
-    - [PunchClose](/encyclopedia/MOTON/HandMOTON/Overview)
-- [FootClose](/encyclopedia/MOTON/FootMOTON/Overview)
-    - [StompClose](/encyclopedia/MOTON/FootMOTON/Overview)
+- BranchDeflection
+- HeadBob
+- HandClose
+    - PunchClose
+- FootClose
+    - StompClose
 
-## 🔷 BreakDance (HipHopBeta)
+## 🌈 BreakDance (HipHopBeta)
 
 ### BetaAnalogy
 
@@ -128,49 +128,49 @@ Passing
 
 ### 💜<anima>HipHopBeta.ANIMA</anima>
 
-### 🟩<ekos>HipHopBeta.EKO</ekos>
+### 🟩<ekos>HipHopBeta.EKOS</ekos>
 
-### 🟠<motor>HipHopBeta.MOVE</motor>
+### 🟠<motor>HipHopBeta.MOTOR</motor>
 
 ### 🔻<via>HipHopBeta.VIA</via>
 
-## 🔷 CalisthenicBeta
+## 🌈 CalisthenicBeta
 
 ### <beta>BETA</beta>
 
 ### 💜<anima>CalisthenicBeta.ANIMA</anima>
 
-### 🟩<ekos>CalisthenicBeta.EKO</ekos>
+### 🟩<ekos>CalisthenicBeta.EKOS</ekos>
 
-### 🟠<motor>CalisthenicBeta.MOVE</motor>
+### 🟠<motor>CalisthenicBeta.MOTOR</motor>
 
 ### 🔻<via>CalisthenicBeta.VIA</via>
 
-## 🔷 Canoe (CanoeBeta)
+## 🌈 Canoe (CanoeBeta)
 
 ### BetaAnalogy
 
-### <beta>BETA</beta>
+### 🌈<beta>BETA</beta>
 
 ### 💜<anima>CanoeBeta.ANIMA</anima>
 
-### 🟩<ekos>CanoeBeta.EKO</ekos>
+### 🟩<ekos>CanoeBeta.EKOS</ekos>
 
-### 🟠<motor>CanoeBeta.MOVE: Spade=Paddle</motor>
+### 🟠<motor>CanoeBeta.MOTOR: Spade=Paddle</motor>
 
 ### 🔻<via>CanoeBeta.VIA</via>
 
 - Paddle = Spade
-    - [SpadeSkreef](/encyclopedia/MOTON/SpadeMOTON/SpadeSkreef) is like taking a forward stroke or a draw stroke with a canoe paddle
-    - [SpadeGrip](/encyclopedia/MOTON/SpadeMOTON/SpadeGrip)
-        - [ShaftGrip](/encyclopedia/MOTON/SpadeMOTON/ShaftGrip)
-        - [HandleGrip](/encyclopedia/MOTON/SpadeMOTON/HandleGrip)
+    - SpadeSkreef is like taking a forward stroke or a draw stroke with a canoe paddle
+    - SpadeGrip
+        - ShaftGrip
+        - HandleGrip
 
-## 🔷 Climbing (KLIMBETA)
+## 🌈 Climbing (KLIMBETA)
 
-## 🔷Cooking (CookBeta)
+## 🌈Cooking (CookBeta)
 
-## 🔷 Diving (DiveBeta)
+## 🌈 Diving (DiveBeta)
 
 ### BetaAnalogy
 
@@ -178,19 +178,19 @@ Passing
 
 ### 💜<anima>DiveBeta.ANIMA</anima>
 
-### 🟩<ekos>DiveBeta.EKO</ekos>
+### 🟩<ekos>DiveBeta.EKOS</ekos>
 
-### 🟠<motor>DiveBeta.MOVE</motor>
+### 🟠<motor>DiveBeta.MOTOR</motor>
 
 ### 🔻<via>DiveBeta.VIA</via>
 
-## 🔷 Farming (FarmBeta)
+## 🌈 Farming (FarmBeta)
 
 - StockHandling
 - HayBale TreeBox  
-- [BoustroCover](/encyclopedia/Via/ViaTheorem/ViaCover/BoustroCover)
+- BoustroCover
 
-## 🔷 Figure Skating (FigureSkatingBeta)
+## 🌈 Figure Skating (FigureSkatingBeta)
 
 ### BetaAnalogy
 
@@ -198,13 +198,13 @@ Passing
 
 ### 💜<anima>FigureSkatingBeta.ANIMA</anima>
 
-### 🟩<ekos>FigureSkatingBeta.EKO</ekos>
+### 🟩<ekos>FigureSkatingBeta.EKOS</ekos>
 
-### 🟠<motor>FigureSkatingBeta.MOVE</motor>
+### 🟠<motor>FigureSkatingBeta.MOTOR</motor>
 
 ### 🔻<via>FigureSkatingBeta.VIA</via>
 
-## 🔷 Footbag (FootbagBeta)
+## 🌈 Footbag (FootbagBeta)
 
 ### BetaAnalogy
 
@@ -212,13 +212,13 @@ Passing
 
 ### 💜<anima>FootbagBeta.ANIMA</anima>
 
-### 🟩<ekos>FootbagBeta.EKO</ekos>
+### 🟩<ekos>FootbagBeta.EKOS</ekos>
 
-### 🟠<motor>FootbagBeta.MOVE</motor>
+### 🟠<motor>FootbagBeta.MOTOR</motor>
 
 ### 🔻<via>FootbagBeta.VIA</via>
 
-## 🔷 Football (FootballBeta)
+## 🌈 Football (FootballBeta)
 
 ::: warning FIFA football not NFL football
 :::
@@ -227,13 +227,13 @@ Passing
 
 ### 💜<anima>FootballBeta.ANIMA</anima>
 
-### 🟩<ekos>FootballBeta.EKO</ekos>
+### 🟩<ekos>FootballBeta.EKOS</ekos>
 
-### 🟠<motor>FootballBeta.MOVE</motor>
+### 🟠<motor>FootballBeta.MOTOR</motor>
 
 ### 🔻<via>FootballBeta.VIA</via>
 
-## 🔷 Golf (GolfBeta)
+## 🌈 Golf (GolfBeta)
 
 ### BetaAnalogy
 
@@ -241,13 +241,13 @@ Passing
 
 ### 💜<anima>GolfBeta.ANIMA</anima>
 
-### 🟩<ekos>GolfBeta.EKO</ekos>
+### 🟩<ekos>GolfBeta.EKOS</ekos>
 
-### 🟠<motor>GolfBeta.MOVE</motor>
+### 🟠<motor>GolfBeta.MOTOR</motor>
 
 ### 🔻<via>GolfBeta.VIA</via>
 
-## 🔷 Hockey (PuckBeta)
+## 🌈 Hockey (PuckBeta)
 
 Puck not Hockey since Hockey requires Anatagonists
 
@@ -257,9 +257,9 @@ Puck not Hockey since Hockey requires Anatagonists
 
 ### 💜<anima>PuckBeta.ANIMA</anima>
 
-### 🟩<ekos>PuckBeta.EKO</ekos>
+### 🟩<ekos>PuckBeta.EKOS</ekos>
 
-### 🟠<motor>PuckBeta.MOVE</motor>
+### 🟠<motor>PuckBeta.MOTOR</motor>
 
 - Deep squat while leaning into turn.
 
@@ -272,7 +272,7 @@ Puck not Hockey since Hockey requires Anatagonists
 - TheTrap, the Trapezoid
 - Play diagram [InsertImage]
 
-## 🔷 Javelin (JavelinBeta)
+## 🌈 Javelin (JavelinBeta)
 
 ### BetaAnalogy
 
@@ -280,13 +280,13 @@ Puck not Hockey since Hockey requires Anatagonists
 
 ### 💜<anima>JavelinBeta.ANIMA</anima>
 
-### 🟩<ekos>JavelinBeta.EKO</ekos>
+### 🟩<ekos>JavelinBeta.EKOS</ekos>
 
-### 🟠<motor>JavelinBeta.MOVE</motor>
+### 🟠<motor>JavelinBeta.MOTOR</motor>
 
 ### 🔻<via>JavelinBeta.VIA</via>
 
-## 🔷 Juggling (JugglingBeta)
+## 🌈 Juggling (JugglingBeta)
 
 ### BetaAnalogy
 
@@ -294,13 +294,13 @@ Puck not Hockey since Hockey requires Anatagonists
 
 ### 💜<anima>JugglingBeta.ANIMA</anima>
 
-### 🟩<ekos>.EKO</ekos>
+### 🟩<ekos>.EKOS</ekos>
 
-### 🟠<motor>JugglingBeta.MOVE</motor>
+### 🟠<motor>JugglingBeta.MOTOR</motor>
 
 ### 🔻<via>JugglingBeta.VIA</via>
 
-## 🔷 Kayak (KayakBeta)
+## 🌈 Kayak (KayakBeta)
 
 ### BetaAnalogy
 
@@ -308,13 +308,13 @@ Puck not Hockey since Hockey requires Anatagonists
 
 ### 💜<anima>KayakBeta.ANIMA</anima>
 
-### 🟩<ekos>KayakBeta.EKO</ekos>
+### 🟩<ekos>KayakBeta.EKOS</ekos>
 
-### 🟠<motor>KayakBeta.MOVE</motor>
+### 🟠<motor>KayakBeta.MOTOR</motor>
 
 ### 🔻<via>KayakBeta.VIA</via>
 
-## 🔷 Kirkos (KirkosBeta)
+## 🌈 Kirkos (KirkosBeta)
 
 > The Beta of Travelling Rings
 
@@ -324,25 +324,25 @@ Puck not Hockey since Hockey requires Anatagonists
 
 ### 💜<anima>KirkosBeta.ANIMA</anima>
 
-### 🟩<ekos>KirkosBeta.EKO</ekos>
+### 🟩<ekos>KirkosBeta.EKOS</ekos>
 
-### 🟠<motor>KirkosBeta.MOVE</motor>
+### 🟠<motor>KirkosBeta.MOTOR</motor>
 
 ### 🔻<via>KirkosBeta.VIA</via>
 
-## 🔷 Landscaping (LandscapingBeta)
+## 🌈 Landscaping (LandscapingBeta)
 
 - Lawn Mower uses Via
     - <https://www.wired.com/2012/08/optimal-lawn-mowing-patterns/>
-    - [BoustroCover](/encyclopedia/Via/ViaTheorem/ViaCover/BoustroCover)
+    - BoustroCover
 
-## 🔷 LegoBeta
+## 🌈 LegoBeta
 
 > The Beta of constructing Lego and the Betomiks of the Lego assembly instructions
 
 IKEA Beta
 
-## 🔷 LongJump (LongJumpBeta)
+## 🌈 LongJump (LongJumpBeta)
 
 ### BetaAnalogy
 
@@ -350,13 +350,13 @@ IKEA Beta
 
 ### 💜<anima>LongJumpBeta.ANIMA</anima>
 
-### 🟩<ekos>LongJumpBeta.EKO</ekos>
+### 🟩<ekos>LongJumpBeta.EKOS</ekos>
 
-### 🟠<motor>LongJumpBeta.MOVE</motor>
+### 🟠<motor>LongJumpBeta.MOTOR</motor>
 
 ### 🔻<via>LongJumpBeta.VIA</via>
 
-## 🔷 Luge (LugeBeta)
+## 🌈 Luge (LugeBeta)
 
 > The Beta of Luge
 
@@ -366,9 +366,9 @@ IKEA Beta
 
 ### 💜<anima>LugeBeta.ANIMA</anima>
 
-### 🟩<ekos>LugeBeta.EKO</ekos>
+### 🟩<ekos>LugeBeta.EKOS</ekos>
 
-### 🟠<motor>LugeBeta.MOVE</motor>
+### 🟠<motor>LugeBeta.MOTOR</motor>
 
 ### 🔻<via>LugeBeta.VIA</via>
 
@@ -382,15 +382,15 @@ IKEA Beta
 
 ### 💜<anima>MusicBeta.ANIMA</anima>
 
-### 🟩<ekos>MusicBeta.EKO</ekos>
+### 🟩<ekos>MusicBeta.EKOS</ekos>
 
-### 🟠<motor>MusicBeta.MOVE</motor>
+### 🟠<motor>MusicBeta.MOTOR</motor>
 
 ### 🔻<via>MusicBeta.VIA</via>
 
-## 🔷 Painting (PaintBeta)
+## 🌈 Painting (PaintBeta)
 
-## 🔷 Parkour (ParkourBeta)
+## 🌈 Parkour (ParkourBeta)
 
 ### BetaAnalogy
 
@@ -398,13 +398,13 @@ IKEA Beta
 
 ### 💜<anima>ParkourBeta.ANIMA</anima>
 
-### 🟩<ekos>ParkourBeta.EKO</ekos>
+### 🟩<ekos>ParkourBeta.EKOS</ekos>
 
-### 🟠<motor>ParkourBeta.MOVE</motor>
+### 🟠<motor>ParkourBeta.MOTOR</motor>
 
 ### 🔻<via>ParkourBeta.VIA</via>
 
-## 🔷 Pole Vault (PoleVaultBeta)
+## 🌈 Pole Vault (PoleVaultBeta)
 
 ### BetaAnalogy
 
@@ -412,13 +412,13 @@ IKEA Beta
 
 ### 💜<anima>PoleVaultBeta.ANIMA</anima>
 
-### 🟩<ekos>PoleVaultBeta.EKO</ekos>
+### 🟩<ekos>PoleVaultBeta.EKOS</ekos>
 
-### 🟠<motor>PoleVaultBeta.MOVE</motor>
+### 🟠<motor>PoleVaultBeta.MOTOR</motor>
 
 ### 🔻<via>PoleVaultBeta.VIA</via>
 
-## 🔷 Powerlifting (LiftBeta)
+## 🌈 Powerlifting (LiftBeta)
 
 ### BetaAnalogy
 
@@ -426,18 +426,18 @@ IKEA Beta
 
 ### 💜<anima>LiftBeta.ANIMA</anima>
 
-### 🟩<ekos>LiftBeta.EKO</ekos>
+### 🟩<ekos>LiftBeta.EKOS</ekos>
 
-### 🟠<motor>LiftBeta.MOVE</motor>
+### 🟠<motor>LiftBeta.MOTOR</motor>
 
 ### 🔻<via>LiftBeta.VIA</via>
 
-## 🔷 Rugby (RubgyBeta)
+## 🌈 Rugby (RubgyBeta)
 
 - Gifs of Plays
     - <https://rugbyslate.com/attacking/attacking-against-a-blitz-defence/>
 
-## 🔷 ScooterBeta
+## 🌈 ScooterBeta
 
 NitroCircus
 
@@ -447,9 +447,9 @@ NitroCircus
 
 ### 💜<anima>ScooterBeta.ANIMA</anima>
 
-### 🟩<ekos>ScooterBeta.EKO</ekos>
+### 🟩<ekos>ScooterBeta.EKOS</ekos>
 
-### 🟠<motor>ScooterBeta.MOVE</motor>
+### 🟠<motor>ScooterBeta.MOTOR</motor>
 
 Scooter space move is like SpadeMOTON
 
@@ -461,9 +461,9 @@ What is the name of the scooter's shaft?
 
 ### 🔻<via>ScooterBeta.VIA</via>
 
-## 🔷 Sculpture (SculptBeta)
+## 🌈 Sculpture (SculptBeta)
 
-## 🔷 ShotPut (ShotPutBeta)
+## 🌈 ShotPut (ShotPutBeta)
 
 ### BetaAnalogy
 
@@ -471,13 +471,13 @@ What is the name of the scooter's shaft?
 
 ### 💜<anima>ShotPutBeta.ANIMA</anima>
 
-### 🟩<ekos>ShotPutBeta.EKO</ekos>
+### 🟩<ekos>ShotPutBeta.EKOS</ekos>
 
-### 🟠<motor>ShotPutBeta.MOVE</motor>
+### 🟠<motor>ShotPutBeta.MOTOR</motor>
 
 ### 🔻<via>ShotPutBeta.VIA</via>
 
-## 🔷 Skeleton (SkeletonBeta)
+## 🌈 Skeleton (SkeletonBeta)
 
 ### BetaAnalogy
 
@@ -485,13 +485,13 @@ What is the name of the scooter's shaft?
 
 ### 💜<anima>SkeletonBeta.ANIMA</anima>
 
-### 🟩<ekos>SkeletonBeta.EKO</ekos>
+### 🟩<ekos>SkeletonBeta.EKOS</ekos>
 
-### 🟠<motor>SkeletonBeta.MOVE</motor>
+### 🟠<motor>SkeletonBeta.MOTOR</motor>
 
 ### 🔻<via>SkeletonBeta.VIA</via>
 
-## 🔷 Aerial Skiing  (SkiAerialBeta)
+## 🌈 Aerial Skiing  (SkiAerialBeta)
 
 ### BetaAnalogy
 
@@ -499,13 +499,13 @@ What is the name of the scooter's shaft?
 
 ### 💜<anima>SkiAerialBeta.ANIMA</anima>
 
-### 🟩<ekos>SkiAerialBeta.EKO</ekos>
+### 🟩<ekos>SkiAerialBeta.EKOS</ekos>
 
-### 🟠<motor>SkiAerialBeta.MOVE</motor>
+### 🟠<motor>SkiAerialBeta.MOTOR</motor>
 
 ### 🔻<via>SkiAerialBeta.VIA</via>
 
-## 🔷 Alpine Skiing (SkiAlpineBeta)
+## 🌈 Alpine Skiing (SkiAlpineBeta)
 
 Slalom where you hit the gates is the most like planting.
 
@@ -519,7 +519,7 @@ You're the elder you make the norms. No one can stop you. Anything other than ki
 
 ### 🟩<ekos>SkiAlpineBeta.EKO: Topography=Topography, Microsite=Gate</ekos>
 
-### 🟠<motor>SkiAlpineBeta.MOVE: Spade=Pole</motor>
+### 🟠<motor>SkiAlpineBeta.MOTOR: Spade=Pole</motor>
 
 ### 🔻<via>SkiAlpineBeta.VIA: TargetPoint=Gate</via>
 
@@ -535,7 +535,7 @@ Planting while your body is moving away or towards hole
 - Carving turns on steep slopes
     - CutBank [InsertImage]
 
-## 🔷 Ski Jump (SkiJumpBeta)
+## 🌈 Ski Jump (SkiJumpBeta)
 
 ### BetaAnalogy
 
@@ -543,13 +543,13 @@ Planting while your body is moving away or towards hole
 
 ### 💜<anima>SkiJumpBeta.ANIMA</anima>
 
-### 🟩<ekos>SkiJumpBeta.EKO</ekos>
+### 🟩<ekos>SkiJumpBeta.EKOS</ekos>
 
-### 🟠<motor>SkiJumpBeta.MOVE</motor>
+### 🟠<motor>SkiJumpBeta.MOTOR</motor>
 
 ### 🔻<via>SkiJumpBeta.VIA</via>
 
-## 🔷 Ski Moguls (MogulBeta)
+## 🌈 Ski Moguls (MogulBeta)
 
 ### BetaAnalogy
 
@@ -557,13 +557,13 @@ Planting while your body is moving away or towards hole
 
 ### 💜<anima>MogulBeta.ANIMA</anima>
 
-### 🟩<ekos>MogulBeta.EKO</ekos>
+### 🟩<ekos>MogulBeta.EKOS</ekos>
 
-### 🟠<motor>MogulBeta.MOVE</motor>
+### 🟠<motor>MogulBeta.MOTOR</motor>
 
 ### 🔻<via>MogulBeta.VIA</via>
 
-## 🔷 Snowboard (SnowboardBeta)
+## 🌈 Snowboard (SnowboardBeta)
 
 ### BetaAnalogy
 
@@ -571,13 +571,13 @@ Planting while your body is moving away or towards hole
 
 ### 💜<anima>SnowboardBeta.ANIMA</anima>
 
-### 🟩<ekos>SnowboardBeta.EKO</ekos>
+### 🟩<ekos>SnowboardBeta.EKOS</ekos>
 
-### 🟠<motor>SnowboardBeta.MOVE</motor>
+### 🟠<motor>SnowboardBeta.MOTOR</motor>
 
 ### 🔻<via>SnowboardBeta.VIA</via>
 
-## 🔷 SnowPark (SnowParkBeta)
+## 🌈 SnowPark (SnowParkBeta)
 
 ### BetaAnalogy
 
@@ -585,13 +585,13 @@ Planting while your body is moving away or towards hole
 
 ### 💜<anima>SnowParkBeta.ANIMA</anima>
 
-### 🟩<ekos>SnowParkBeta.EKO</ekos>
+### 🟩<ekos>SnowParkBeta.EKOS</ekos>
 
-### 🟠<motor>SnowParkBeta.MOVE</motor>
+### 🟠<motor>SnowParkBeta.MOTOR</motor>
 
 ### 🔻<via>SnowParkBeta.VIA</via>
 
-## 🔷 Surfing (SurfBeta)
+## 🌈 Surfing (SurfBeta)
 
 [List of Tricks and Maneuvers](https://www.surfertoday.com/surfing/the-complete-list-of-surfing-tricks-and-maneuvers)
 
@@ -601,11 +601,11 @@ Planting while your body is moving away or towards hole
 
 ### 🟩<ekos>SurfBeta.EKO: Land=Wave</ekos>
 
-### 🟠<motor>SurfBeta.MOVE: Carve,Cut,NoseRiding,SwitchStance</motor>
+### 🟠<motor>SurfBeta.MOTOR: Carve,Cut,NoseRiding,SwitchStance</motor>
 
 ### 🔻<via>SurfBeta.VIA: [BarrelRide](https://www.surfertoday.com/surfing/how-to-get-barreled), [CloseoutReentry](https://www.surfertoday.com/surfing/how-to-do-a-closeout-reentry-in-surfing)</via>
 
-## 🔷 Swimming (SwimBeta)
+## 🌈 Swimming (SwimBeta)
 
 ### BetaAnalogy
 
@@ -613,25 +613,25 @@ Planting while your body is moving away or towards hole
 
 ### 💜<anima>SwimBeta.ANIMA</anima>
 
-### 🟩<ekos>SwimBeta.EKO</ekos>
+### 🟩<ekos>SwimBeta.EKOS</ekos>
 
-### 🟠<motor>SwimBeta.MOVE</motor>
+### 🟠<motor>SwimBeta.MOTOR</motor>
 
 ### 🔻<via>SwimBeta.VIA</via>
 
-## 🔷 Trampoline (TrampBeta)
+## 🌈 Trampoline (TrampBeta)
 
 ### <beta>BETA</beta>
 
 ### 💜<anima>TrampBeta.ANIMA</anima>
 
-### 🟩<ekos>TrampBeta.EKO</ekos>
+### 🟩<ekos>TrampBeta.EKOS</ekos>
 
-### 🟠<motor>TrampBeta.MOVE</motor>
+### 🟠<motor>TrampBeta.MOTOR</motor>
 
 ### 🔻<via>TrampBeta.VIA</via>
 
-## 🔷TransitBeta
+## 🌈TransitBeta
 
 Standing in line for a bus is Via
 
@@ -676,15 +676,15 @@ On the streets, on campus, in airports, in public transit
 - diverge
 - collision
 
-## 🔷 Yoga (YogaBeta)
+## 🌈 Yoga (YogaBeta)
 
 ### <beta>BETA</beta>
 
 ### 💜<anima>YogaBeta.ANIMA</anima>
 
-### 🟩<ekos>YogaBeta.EKO</ekos>
+### 🟩<ekos>YogaBeta.EKOS</ekos>
 
-### 🟠<motor>YogaBeta.MOVE</motor>
+### 🟠<motor>YogaBeta.MOTOR</motor>
 
 ### 🔻<via>YogaBeta.VIA</via>
 
@@ -702,20 +702,20 @@ betaglot_activities = {
 
 - Betasports require kindness. You can't be a kind antagonist (Oppositon != Antagonist)
 - MusicBeta: Elements of Music
-    - Proposition, Definition, Theorem, Problem
+    - Proposition, Definition, Teorem, Problem
 - Wushu
 - Golden Age of Planting
 - Natural language is ANIMA not Beta
 - Beta diagram of each interdisciplinary, show where each of the modules is on their
 - Contradiction is confusing. A Benefit of canon is convention
 - Consilience, Interdisciplinary
-- Climber to Planter group program. The Climbing Instructor stays with the group as they become planters. The Instructor already has rapport with the planters before the season starts and the planters have already become friends.
+- Climber to Plantor group program. The Climbing Instructor stays with the group as they become plantors. The Instructor already has rapport with the plantors before the season starts and the plantors have already become friends.
 - Betaglot needs to be able to translate into and from Mentalese
 - Betaglot MOTONs use OtherSportBeta
     - Apex of SpadeSlam is TrampBeta while Spade impact is DiveBeta. SpadeSwing is RingsBeta. Legs are doing DanceBeta Foutette at Slam. Apex to move body and to counteract any offbalancing forces from SpadeSwing
 - Compulsory Elements
     - The superclass of Elements is Apparatus since most elements. Apparatus is an Ekon.
-    - ElementGraph is not just MOTON, nodes can be any of the BetaTypes. Ekon branches down into ANIMA or move
+    - ElementGraph is not just MOTON, nodes can be any of the ElementGroups. Ekon branches down into ANIMA or move
 - CheerBeta see Dallas Cowboys Cheerleaders
 - (BetaQuotient)InsteadOf(BetaIndex,BETAMETRON)
 :::

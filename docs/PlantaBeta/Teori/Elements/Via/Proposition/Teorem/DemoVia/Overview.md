@@ -4,15 +4,15 @@ When Plantors share the same piece of Land they are TeamPlanting, currently know
 
 Team members only share Via, they don't share MOTON (nobody plants a single Neon as a team), therefore "Team Planting"
 
-## [Bouncing Fill](/reference/Via/TeamPlant/BouncingCover)
+## Bouncing Fill
 
 When a Plantor turns back on their line when they converge with another Plantor in the land.
 
-## [Crossing Fill](/reference/Via/TeamPlant/CrossingCover)
+## Crossing Fill
 
 When a Plantor crosses over the line of another Plantor when they converge in the land.
 
-## [Following Fill](/reference/Via/TeamPlant/FollowingCover)
+## Following Fill
 
 When a Plantor follows the line of the Plantor in front of them.
 

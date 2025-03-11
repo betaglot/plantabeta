@@ -1,6 +1,6 @@
 # PROBLEMA
 
-<!-- This page explains what a problem is. The actual list of problems are within each BetaType Section in the Referencia -->
+<!-- This page explains what a problem is. The actual list of problems are within each ElementGroup Section in the Referencia -->
 
 > a task, that which is proposed, a question
 ---
@@ -17,7 +17,7 @@ All problems start with Givens
     - "Only using..."
 - "Given these tools"
 
-## Construction Problema
+## Construction Problem
 
 Like the ones in Euclid's Elements
 
@@ -29,7 +29,7 @@ Like the ones in Euclid's Elements
 
 ### 🔻<via></via> How to estimate the distance between ViaContacts
 
-## Components of a Problema
+## Components of a Problem
 
 1. Enunciation: Statement of what is to be done
 2. Givens: Statement of what is given
@@ -37,4 +37,4 @@ Like the ones in Euclid's Elements
 4. Proof: Argument that shows that the solution meets the requirements of the enunciation
 5. Conclusion: Restates what is to be done
 
-## Problematic
+## Problemtic

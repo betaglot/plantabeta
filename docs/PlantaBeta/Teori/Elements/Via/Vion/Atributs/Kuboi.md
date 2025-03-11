@@ -35,7 +35,7 @@ Probability of Success
 
 ### Precision
 
-## Bayes Theorem
+## Bayes Teorem
 
 ### Commitment
 
@@ -96,7 +96,7 @@ RouteRisk.Environment(--)
 
 ## BaseRate
 
-## Bayesian Theorem
+## Bayesian Teorem
 
 ## Probability vs. Propensity
 

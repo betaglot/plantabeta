@@ -13,7 +13,7 @@ export default defineConfig({
   title: 'PLANTABETA',
   description: 'Everything is Connected',
   lastUpdated: true,
-  ignoreDeadLinks: true,
+  ignoreDeadLinks: false,
   appearance: 'dark',
   head: [
     ["link", { rel: "apple-touch-icon", href: "/PlantaBeta_Logo.png" }],
@@ -108,7 +108,6 @@ function sidebarDev() {
     { text: 'Contribute', link: '/dev/Contribute' },
     { text: 'Downloads', link: '/dev/Downloads' },
     { text: 'DX', link: '/dev/DX' },
-    { text: 'ElementGraph', link: '/dev/ElementsGraph' },
     { text: 'Filming', link: '/dev/Filming' },
     { text: 'FireBeta', link: '/FireBeta/FireBeta' },
     { text: 'GoPro', link: '/dev/GoPro' },

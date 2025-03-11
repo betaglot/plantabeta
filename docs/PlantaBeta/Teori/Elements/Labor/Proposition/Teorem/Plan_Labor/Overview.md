@@ -48,8 +48,6 @@ BlockFill Pattern plantors usually it's only supervisors that need to know Block
 - [HexagonCoverPattern](https://www.youtube.com/watch?v=BM9Qe4XjJ0k&ab_channel=VeRLab-LaboratoryofComputerVisionandRobotics)
 - <https://www.fujipress.jp/jrm/rb/robot003000010005/>
 
-<h2>PageTags</h2>
-
 - "Via.ZoneFill.AreaBoundary.BoundaryLine"
 - "Via.ZoneFill.AreaBoundary.BoundaryPoint"
 - "Via.ZoneFill.AreaBoundary.SideBoundary"

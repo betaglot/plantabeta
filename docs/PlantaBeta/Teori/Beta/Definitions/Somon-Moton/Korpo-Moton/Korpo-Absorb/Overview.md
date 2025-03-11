@@ -11,8 +11,6 @@
 
 -
 
-<h2>PageTags</h2>
-
 - "MOTON.BodyMOTON.BodyAbsorb"
 
 :::

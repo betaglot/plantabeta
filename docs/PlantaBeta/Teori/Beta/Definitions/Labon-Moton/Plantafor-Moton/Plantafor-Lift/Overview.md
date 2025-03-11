@@ -16,7 +16,5 @@ aside: false
     - TruckLoad
     - Deadlift over a large log
 
-<h2>PageTags</h2>
-
 - "MOTON.InstrumentMOTON.BagMOTON.BagDeadlift"
 :::

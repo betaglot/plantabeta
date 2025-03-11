@@ -133,12 +133,6 @@ Trees/Time
 
 "Get around the obstacle"
 
-### <beta>Get(<anima>ANIMA</anima>)</beta>
-
-> to achieve a neuro state
-
-"Get psyched"
-
 ---
 
 <!-- =================================================== -->
@@ -149,8 +143,6 @@ Trees/Time
 ::: details 🛠
 
 - Negociate
-
-<h2>PageTags</h2>
 
 - "Beta.BetaFunction.AskBeta"
 - "Beta.BetaFunction.ChunkBeta.BetaChunk"

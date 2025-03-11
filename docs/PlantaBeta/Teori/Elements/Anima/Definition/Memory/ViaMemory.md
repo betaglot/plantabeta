@@ -1,5 +1,4 @@
-
-# <anima>ViaMemory</anima>
+# <anima>Via-Memory</anima>
 
 ## Marka is a Mnemonic for ViaMemory
 

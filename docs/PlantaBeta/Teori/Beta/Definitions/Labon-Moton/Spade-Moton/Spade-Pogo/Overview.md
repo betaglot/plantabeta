@@ -16,7 +16,5 @@ aside: false
     - HardSoil
         - CompressedSoil like in a Road
 
-<h2>PageTags</h2>
-
 - "MOTON.InstrumentMOTON.SpadeMOTON.SpadePogo"
 :::

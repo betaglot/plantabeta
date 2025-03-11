@@ -1,4 +1,4 @@
-# 🛠 Psike Graphics
+# 🛠 ANIMA Graphics
 
 ---
 
@@ -11,9 +11,7 @@
 
 -
 
-<h2>PageTags</h2>
-
-- "Dev.NeuroDiagram.NeuroTimeline"
-- "Psike.NeuroCard"
+- "Dev.ANIMADiagram.ANIMATimeline"
+- "ANIMA.ANIMACard"
 
 :::

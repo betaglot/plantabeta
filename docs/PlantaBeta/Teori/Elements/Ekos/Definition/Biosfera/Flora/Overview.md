@@ -20,8 +20,6 @@
     - Bifurcation (Fork)
     - Branch
 
-<h2>PageTags</h2>
-
 - "Eko.PlantIdentification"
 - "Eko.Plants.Fireweed"
 - "Eko.Plants.ResidualPatch"

@@ -1,10 +1,13 @@
-# 🟠 <motor>BodySlot</motor>
+---
+aside: false
+---
+# Body-Slot
 
 ![MOTONIkon](/Ikon/Motor_Ikon.png)
 
 ## 🕸 BodySlot.Skema
 
-### Related 🔻<via>Via</via>
+### Related 🔻<via>VIA</via>
 
 - Traverse
 

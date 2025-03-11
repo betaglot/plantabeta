@@ -200,9 +200,9 @@ Connect Academia to PLANTABETA by linking to each field's current understanding.
 - Apply Computational Thinking to PLANTABETA
 - Python
 - Create JSON files which are used in DataVisualizations
-    - MOTONHierarchy
-    - EcoHierarchy
-    - ViaHierarchy
+    - MOTOR_Hierarchy
+    - EKOS_Hierarchy
+    - VIA_Hierarchy
 
 ### Pytorch
 
@@ -262,7 +262,7 @@ Connect Academia to PLANTABETA by linking to each field's current understanding.
 
 > innovate Instrument use, design and construction
 
-See [Instruments](/dev/Instruments) for notes about each Instrument
+See Instruments for notes about each Instrument
 
 - Test Instruments
 - Test materials
@@ -301,8 +301,8 @@ See [Instruments](/dev/Instruments) for notes about each Instrument
 
 - D3
 - TreeView
-    - TreeView_MOTONHierarchy
-    - TreeView_EcoHierarchy
-    - TreeView_ViaHierarchy
+    - TreeView_MOTOR_Hierarchy
+    - TreeView_EKOS_Hierarchy
+    - TreeView_VIA_Hierarchy
 
 ---

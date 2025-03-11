@@ -22,7 +22,7 @@ This should be a Chart
 ---
 > "Suss it out"
 
-### 🟩<ekos>Look at the Eko</ekos>
+### 🟩<ekos>Look at the EKOS</ekos>
 
 ### 🔻<via>Pathfinding</via>
 

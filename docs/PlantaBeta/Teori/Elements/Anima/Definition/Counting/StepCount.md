@@ -5,7 +5,7 @@
 ## BetaGraph
 
 Graph which represents how this element is related to other elements in PlantaBeta.
-🛠 The Element Relationships Chart is still [under development](/dev/ElementsGraph)
+🛠 The Element Relationships Chart is still under development
 
 <iframe
     width="100%"

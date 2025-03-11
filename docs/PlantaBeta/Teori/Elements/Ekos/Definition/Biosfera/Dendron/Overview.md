@@ -13,8 +13,6 @@ Aliases: Tree, Neophyte, Seedling
 
 -
 
-<h2>PageTags</h2>
-
 - "Eko.CropTree.CedarTree"
 - "Eko.CropTree.FirTree"
 - "Eko.CropTree.LarchTree"

@@ -10,7 +10,7 @@ Scantily clad Plantors
 
 No genders
 
-### <motor>Spade: SpadeMOTON</motor>
+### <motor>Spade: Spade-MOTON</motor>
 
 - Ace:
 - 2:
@@ -44,7 +44,7 @@ Focus on Emotion and feeling, not abstract computations
 - Q:
 - K:
 
-### <via>Diamond: Beta</via>
+### <via>Diamond: BETA</via>
 
 - Ace:
 - 2:
@@ -60,7 +60,7 @@ Focus on Emotion and feeling, not abstract computations
 - Q:
 - K:
 
-### <ekos>Club: Ekons</ekos>
+### <ekos>Club: EKONS</ekos>
 
 - Ace: Cream
 - 2:
@@ -87,7 +87,7 @@ Joker: Rock under cream
 - Achievements Poster
 - ElementWeb
 - ElementTree
-- MOTON, Via, Eko, ANIMA, Beta
+- LABOR, MOTON, VIA, EKOS, ANIMA, BETA
 - Betaglot Logo
 
 ### CampPoster

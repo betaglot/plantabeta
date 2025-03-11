@@ -35,7 +35,7 @@ Probability of Success
 
 ### Precision
 
-## Bayes Theorem
+## Bayes Teorem
 
 ### Commitment
 
@@ -95,7 +95,7 @@ RouteRisk.Environment(--)
 - The Kuboi are rolled every BetaMoment
 
 - BaseRate
-- Bayesian Theorem
+- Bayesian Teorem
 
 - Probability vs. Propensity
 

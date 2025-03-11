@@ -7,7 +7,7 @@ aside: false
 
 No Impact
 
-## ToeHook
+## Toe-Hook
 
 ---
 

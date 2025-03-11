@@ -1,4 +1,4 @@
-# 🔷 <beta>Plantbeta</beta>
+# 🌈 <beta>Plantbeta</beta>
 
 Plantbeta is the Python package which is used to formally write Beta.
 
@@ -42,7 +42,7 @@ for Bundle in Box:
 
 > A dance phrase or sequence can be likened to a sentence formed when speaking. Sometimes we refer to dance phrases as moto sequences. For the purpose of this lesson either term is acceptable. Each phrase has a beginning, middle, and end. MOTONs selected in a dance phrase may flow one to the other naturally or may be connected by a transition MOTON. Evolving dance sequences from action words is another way to demystify the creative process. Action words lead to the formation of individual dance phrases and provide the framework for further developing those phrases into larger compositional forms. In this lesson, the action words are common terms used in contemporary dance.
 
-- <https://us.humankinetics.com/blogs/excerpt/phrase-linking-motos>
+- <https://us.humankinetics.com/blogs/excerpt/phrase-linking-MOTONS>
 
 CodeBlock
 
@@ -91,7 +91,7 @@ Instantiate and EkoElement with an empty string for Via
 
 ## Methods
 
-See [BetaMethods](/encyclopedia/)
+See BetaMethods
 
 ```py
 def Put(PlantType: str, Location: str, TreeCount: int, TreeType: str, SkreefBoolean: bool):
@@ -140,7 +140,7 @@ As you move through the land the EcoState is constantly changing. Remember that 
 - MOTONState
 - FatigueState
 
-### NeuroState
+### ANIMAState
 
 - Vigilance
 - Mindset
@@ -149,7 +149,7 @@ As you move through the land the EcoState is constantly changing. Remember that 
 
 ### ViaState
 
-- CurrentTheorem
+- CurrentTeorem
 - Direction
 - ViaDensityState
 - ContactState

@@ -14,8 +14,6 @@ aside: false
 
 - StompTest when LogWalking
 
-<h2>PageTags</h2>
-
 - "MOTON.LegMOTON.Stomp"
 
 :::

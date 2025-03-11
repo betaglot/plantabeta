@@ -24,8 +24,6 @@ Mapping the scale of Canada’s record wildfires
 
 - Put use less Marka closer to the home page.
 
-<h2>PageTags</h2>
-
 - "Guide.Why.Wildfire"
 
 :::

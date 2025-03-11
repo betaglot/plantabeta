@@ -21,6 +21,20 @@
 
 <script setup>
 
+import { useData } from 'vitepress';
+import { useTheme } from 'vuetify';
+import { watch } from 'vue';
+
+const { isDark } = useData();
+const theme = useTheme();
+watch(
+    isDark,
+    (isDark) => {
+        theme.global.name.value = isDark ? 'dark' : 'light';
+    },
+    { immediate: true },
+);
+
 const items = [
     {
         "startTime": "00:06:10",

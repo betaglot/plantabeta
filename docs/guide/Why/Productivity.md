@@ -51,8 +51,6 @@ Such traits include:
 - HoleOpen to HoleClose ratio is optimal when 1:1. Many Novice plantors are greater than 1.
 - When there are multiple MOTONAlternatives, efficient when the MOTON with the lower BetaDifficulty is more frequent than an AlternativeMOTON with a higher MOTONDifficulty. ExperiencedPlantors are performing easier Beta than NovicePlantor. BetaExecution
 
-<h2>PageTags</h2>
-
 - "Guide.Why.Productivity"
 - "Guide.Why.Productivity.Efficiency"
 - "Guide.Why.Productivity.Efficiency.Redundancy"

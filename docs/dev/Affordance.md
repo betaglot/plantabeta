@@ -109,7 +109,7 @@ Route.Complexity(PerceptibleAffordance < HiddenAffordance < FalseAffordance)
 - That branch looks thin enough that I can Mano it
 -
 
-#### EKOS affords Via
+#### EKOS affords VIA
 
 - It doesn't look like I could go around that cliff
 - My foot could fit between those logs

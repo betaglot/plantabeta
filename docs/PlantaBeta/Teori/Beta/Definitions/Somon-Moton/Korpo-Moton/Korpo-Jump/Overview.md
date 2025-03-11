@@ -12,8 +12,6 @@
 - VerticalJump PanBeta(HighJump)
 - HorizontalJump PanBeta(LongJump)
 
-<h2>PageTags</h2>
-
 - "MOTON.LegMOTON.Jump"
 
 :::

@@ -1,4 +1,3 @@
-
 # 🛠 <beta>Beta Graphics</beta>
 
 ## BetaDiagram is a subset of BetaGraphic
@@ -14,7 +13,7 @@ EinsteinSpaghetti Timeline of instances
 
 Network of interacting elements. Network can extend to the opposite side of the piece if looking at a landmark, don't limit the instance by space, only by time
 
-Line width is BetaIntensity
+Line width is Beta.Kratos
 
 Nested along a via line
 
@@ -24,7 +23,7 @@ Interactive Diagram can happen in a static website. How to make them work for ev
 
 How to layer network of influence over cartographic? Beta over land
 
-Don't show all beta, chunk, scoped, highlights, error, injury, event ends
+Don't show all BETA, chunk, scoped, highlights, error, injury, event ends
 
 Repetitions of planting instance
 
@@ -43,15 +42,17 @@ State is Nondual.
 
 Use the module colors along with their icons
 
-🔻<via>Via</via>
+🌈<beta>BETA</beta>
 
-<beta>Beta</beta>
+🔷<soma>SOMA</soma>
 
-🟩<ekos>Eko</ekos>
+🟩<ekos>EKOS</ekos>
 
-💜<anima>Psike</anima>
+🔻<via>VIA</via>
 
-🟠<motor>MOTON</motor>
+🟠<motor>MOTOR</motor>
+
+💜<anima>ANIMA</anima>
 
 ## Betaglot Docs
 
@@ -69,12 +70,10 @@ No images of humans at a computer. It doesn't even need to be technical, just an
 ::: details 🛠 &&&
 
 - ScaleBar
-- Have a BetaGraphic of your piece with recommended Line ViaPath.
+- Have a BetaGraphic of your piece with recommended Line VIA-Path.
 - Arrow of Attention is Violet
 - AttentionLoop
-    - Eko, then Psike, then MOTON, then Via, then back to Eko.
-
-<h2>PageTags</h2>
+    - EKOS, then ANIMA, then MOTOR, then VIA, then back to EKOS.
 
 - "Beta.BetaCard"
 - "Beta.BetaTimeline"

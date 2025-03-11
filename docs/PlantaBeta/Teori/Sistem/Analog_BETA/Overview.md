@@ -13,7 +13,7 @@ This each line are analog pairs. The equal signs = denotes where Climbing and Pl
 |                         **Climbing** | **Planting**                      |
 | -----------------------------------: | :-------------------------------- |
 |                  <beta>Beta</beta> = | = <beta>Beta</beta>               |
-|                     <ekos>Eko</ekos> = | = <ekos>Eko</ekos>                  |
+|                     <ekos>EKOS</ekos> = | = <ekos>EKOS</ekos>                  |
 |                     <via>Via</via> = | = <via>Via</via>                  |
 |               <anima>ANIMA</anima> = | = <anima>ANIMA</anima>            |
 |                      <ekos>Wall</ekos> | <ekos>Land</ekos>                   |
@@ -37,7 +37,7 @@ This each line are analog pairs. The equal signs = denotes where Climbing and Pl
 
 - OffSeason Training
 - Outdoor Climbing has a similar to Planting.
-- Many Planters are also Climbers and share many attributes.
+- Many Plantors are also Climbers and share many attributes.
     - Resilience, Ruggedness, Physically Fit
 - You will get better at one by learning the other.
 

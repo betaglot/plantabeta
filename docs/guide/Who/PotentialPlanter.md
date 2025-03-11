@@ -57,7 +57,5 @@ What is tree planting like?
 
 -
 
-<h2>PageTags</h2>
-
 - "Guide.Who.PotentialPlantor"
 :::

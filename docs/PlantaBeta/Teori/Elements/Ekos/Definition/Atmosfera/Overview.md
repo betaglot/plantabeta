@@ -11,8 +11,6 @@
 
 -
 
-<h2>PageTags</h2>
-
 - "Eko.Weather.Overview"
 - Geology_Atmosfera_AirQuality_SmokeConcentration_ParticulateMatterConcentration_
 - Geology_Atmosfera_Climate_ClimateChange_Evolution_

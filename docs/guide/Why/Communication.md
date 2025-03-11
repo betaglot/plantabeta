@@ -23,11 +23,11 @@ An increased vocabulary and standardization of communication improves the effect
 
 ### Plantors Communicating with Themselves
 
-PlantaBeta increases the vocabulary of a Plantor's internal dialog which improves [short term memory](/encyclopedia/ANIMA/Memory/ShortTermMemory) of Plantor's experience.
+PlantaBeta increases the vocabulary of a Plantor's internal dialog which improves short term memory of Plantor's experience.
 
 ### Plantor Communicating with Other Plantors
 
-[TeamPlant](/encyclopedia/Via/TeamPlant/Overview)
+TeamPlant
 
 ### Supervisor Communicating with Plantors
 
@@ -39,7 +39,7 @@ When cutting pieces.
 
 *Over where?*
 
-- [Landmark](/encyclopedia/Via/ViaGeometry/ViaPoint/Overview) description.
+- Landmark description.
 
 ---
 
@@ -51,8 +51,6 @@ When cutting pieces.
 ::: details 🛠 &&&
 
 -
-
-<h2>PageTags</h2>
 
 - "Guide.Who.Overview"
 - "Guide.Why.Communication"

@@ -79,7 +79,6 @@ How would you even know?
 Wouldn't it be nice to know what you've forgotten. If you could take a test to find out, would you take it?
 
 Percentages
-<h2>PageTags</h2>
 
 - "Dev.Pedagogy"
 - "Dev.Pedagogy.Curriculum.LessonFrase"

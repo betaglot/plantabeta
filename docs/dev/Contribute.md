@@ -34,7 +34,7 @@ If you just want to sponsor PlantaBeta
 ### Do you like to code?
 
 - Fix code bugs
-- Write unit tests for the [Tutorial section](/tutorial/Overview)
+- Write unit tests for the Tutorial section
 
 ### Do you like visual media?
 
@@ -141,8 +141,6 @@ Maximum Length
 - "Join a community" instead of just contribute this project. Remember that some people don't want to join a community and remain anonymous.
 - Discussion in chats contribute without pull requests. Conversation leads to code.
 - Community of Plantors
-
-<h2>PageTags</h2>
 
 - "Dev.Donation"
 - "Dev.Feedback"

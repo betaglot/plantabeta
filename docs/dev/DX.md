@@ -31,7 +31,6 @@ Dictation will be performed at Arch Street, so the setup is a large TV, laptop, 
 
 Homonyms = {
     'cash': 'cache',
-    'narrow': 'neuro',
     '/': 'slash',
     'planetary': 'plantor',
     'Roland': 'RawLand',
@@ -176,23 +175,9 @@ Just get as much information out of your head and into data structures, so that 
 
 <motor>Keep going!!!</motor>
 
-### Differentiate(Beta, PlantaBeta)
+### Differentiate(BETA, PlantaBeta)
 
 PlantaBeta is a language
-
-Plantbeta a beta script. PlantaBeta creates the Attributes of ManoMOTON, like how many fingers you have. Beta can't change the number of fingers. A Hand is part of PlantaBeta, a hand is controlled with Beta
-
-- Beta is only during runtime
-
-- To put it simply, coding lets you create a program, while scripting lets you control a program that was created with coding
-
-EkoElement
-
-ViaFactor
-
-MOTONElement
-
-AnimaElement
 
 All Elements are objects
 
@@ -215,8 +200,6 @@ a data construct that provides a description of something that may be used by a 
 There shouldn't be beta and PLANTABETA, because they a supposed to be the name of the language used by plantors. Forget "Beta" make up your own name
 
 PlantaBeta is the language and the
-
-Beta represents moto, but MOTON is the move itself. MOTON doesn't care about how it's being represented.
 
 ### Arnold Schwarzenegger
 
@@ -303,18 +286,21 @@ Every rep
 
 Make a list of DX research models for each module
 
-MOTON, ANIMA, Eko, Via, Beta
+LABOR, MOTOR, ANIMA, EKOS, VIA, BETA
 
 To make prototyping easier. So you don't need to worry about the content
 
 ```py
 
 researchModels = {
-    'Via': BoustroCover,
+    'LABOR':
+    'SOMA': 
+    'EKOS': Stump
+    'VIA': BoustroCover,
     'ANIMA':
-    'MOTON':
-    'Beta':
-    'Eko':
+    'MOTOR': SpadeSlam
+    'BETA':
+    
 }
 ```
 
@@ -336,8 +322,6 @@ researchModels = {
 ## ()InsteadOf()
 
 ## ()AlsoKnownAs()
-
-<h2>PageTags</h2>
 
 - "Dev.DesignProcess"
 - "Dev.DesignProcess.Attencide"

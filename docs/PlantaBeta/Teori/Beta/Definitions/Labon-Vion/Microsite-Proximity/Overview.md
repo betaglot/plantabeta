@@ -31,7 +31,7 @@ Space Size
 
 VIA Cell
 
-### [BodySlot](/reference/MOTON/BodyMOTON/BodySlot)
+### BodySlot
 
 When performing a BodySlot between Obstacles, the ViaSpace is the Space between the Obstacles that the Plantor must fit through. If the ViaSpace is narrow, then the Plantor must BodyRotate to fit through the ViaSpace.
 
@@ -72,8 +72,6 @@ Coverin spandrels to show the mortar between ideal tree spacing spgeres
     - You need to consider what's under a <via>Contact</via> when 🟠<motor>Stepping</motor> or 🟠<motor>OpenHole</motor>
 - ViaSpace is usually directly above Contact
 - Most stable ViaSpace is aligned with Normal
-
-<h2>PageTags</h2>
 
 - "Via.ViaGeometry.ViaSpace.Overview"
 - "Via.ViaGeometry.ViaSpace.ViaNegativeSpace"
