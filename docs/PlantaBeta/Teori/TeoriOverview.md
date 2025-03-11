@@ -1,7 +1,5 @@
 # TEORI
 
-![PlantaBetaLogo](/PlantaBeta_Logo.png)
-
 ## [PLANTABETA's SISTEM](/PlantaBeta/Teori/Sistem/SistemOverview)
 
 ## [PLANTABETA's ELEMENTS](/PlantaBeta/Teori/Elements/ElementsOverview)

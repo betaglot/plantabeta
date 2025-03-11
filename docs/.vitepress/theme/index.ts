@@ -3,6 +3,7 @@ import { h } from 'vue'
 import type { Theme } from 'vitepress'
 import DefaultTheme from 'vitepress/theme'
 import './custom.css'
+import '@mdi/font/css/materialdesignicons.css'
 
 import 'vuetify/styles'
 import { createVuetify } from 'vuetify'
@@ -14,7 +15,10 @@ const vuetify = createVuetify({
     directives,
     theme: {
         defaultTheme: 'dark'
-    }
+    },
+    icons: {
+        defaultSet: 'mdi', // This is already the default value - only for display purposes
+    },
 })
 
 export default {
