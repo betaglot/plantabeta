@@ -193,7 +193,7 @@ function sidebarTEORI() {
     { text: 'ELEMENTS', link: '/PlantaBeta/Teori/Elements/ElementsOverview' },
     { text: '🌈 <beta>BETA</beta>', link: '/PlantaBeta/Teori/Beta/BetaOverview' },
     { text: 'KOMPOSITION', link: '' },
-    { text: 'BETOMIKS', link: '/PlantaBeta/Teori/BETOMIKS/BETOMIKSoverview', },
+    { text: 'BETOMIKS', link: '/PlantaBeta/Teori/Betomiks/BetomiksOverview', },
     { text: 'LEXIKON', link: '/PlantaBeta/Teori/Elements/glossary/Glossary' },
   ]
 }
