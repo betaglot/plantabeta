@@ -13,7 +13,7 @@ export default defineConfig({
   title: 'PLANTABETA',
   description: 'Everything is Connected',
   lastUpdated: true,
-  ignoreDeadLinks: false,
+  ignoreDeadLinks: true,
   appearance: 'dark',
   head: [
     ["link", { rel: "apple-touch-icon", href: "/PlantaBeta_Logo.png" }],

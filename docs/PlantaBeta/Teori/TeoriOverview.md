@@ -22,6 +22,8 @@
 
 ## [PLANTABETA's BETOMIKS](/PlantaBeta/Teori/Betomiks/BetomiksOverview)
 
+C:\Users\chris\plantabeta\docs\PlantaBeta\Teori\Betomiks\BetomiksOverview.md
+
 ---
 
 <!-- =================================================== -->
