@@ -42,7 +42,7 @@ export default defineConfig({
     sidebar: {
       '/about/': sidebarAbout(),
       '/guide/': sidebarGuide(),
-      '/example/': sidebarExamples(),
+      '/examples/': sidebarExamples(),
       '/tutorial/': sidebarTutorial(),
       '/PlantaBeta/Teori/': sidebarTEORI(),
       '/PlantaBeta/Teori/Elements/': sidebarElements(),
@@ -66,8 +66,8 @@ function nav() {
     },
     {
       text: 'Examples',
-      link: '/example/ExampleOverview',
-      activeMatch: '/example/'
+      link: '/examples/ExampleOverview',
+      activeMatch: '/examples/'
     },
     {
       text: 'Tutorial',
@@ -81,7 +81,7 @@ function nav() {
     },
     {
       text: '[ PRAKTIK ]',
-      link: '/PlantaBeta/Praktik/PraktikOverview',
+      link: '/PlantaBeta/Praktik/Praktik_Overview',
       activeMatch: '/PlantaBeta/Praktik/'
     },
     {
@@ -172,7 +172,7 @@ function sidebarGuide() {
         { text: 'Plantor Instructor', link: '/guide/Who/PlantorInstructor' }
       ]
     },
-    { text: 'Go to Examples', link: '/example/ExampleOverview' },
+    { text: 'Go to Examples', link: '/examples/ExampleOverview' },
   ]
 }
 // About
@@ -597,7 +597,7 @@ function sidebarBeta() {
 // PRAKTIK
 function sidebarPRAKTIK() {
   return [
-    { text: '<strong>PRAKTIK Overview</strong>', link: '/PlantaBeta/Praktik/PRAKTIKoverview' },
+    { text: '<strong>PRAKTIK Overview</strong>', link: '/PlantaBeta/Praktik/Praktik_Overview' },
   ]
 }
 
@@ -618,7 +618,7 @@ function sidebarTutorial() {
 // Examples
 function sidebarExamples() {
   return [
-    { text: 'Examples Overview', link: '/example/ExampleOverview' },
+    { text: 'Examples Overview', link: '/examples/ExampleOverview' },
     { text: 'Go to Tutorial', link: '/tutorial/TutorialOverview' },
   ]
 }

@@ -19,7 +19,7 @@ features:
   - icon: 🙌
     title: Examples
     details: See what you can do with PlantaBeta
-    link: /example/ExampleOverview
+    link: /examples/ExampleOverview
   - icon: 🤔
     title: Learn
     details: Learn how to use PlantaBeta
