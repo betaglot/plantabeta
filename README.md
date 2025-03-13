@@ -1,5 +1,7 @@
 # PlantaBeta
 
-## BETAGLOT.org
+Contact:
 
-<https://youtu.be/4yygmmGyynw?feature=shared>
+```txt
+betaglot@betaglot.org
+```
