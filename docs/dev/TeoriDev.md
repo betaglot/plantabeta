@@ -1,0 +1,13 @@
+# TeoriDev
+
+Find Pages for each Element
+
+## Search
+
+
+
+### Random Element
+
+## Magic the Gathering
+
+<https://gatherer.wizards.com/Pages/Default.aspx>

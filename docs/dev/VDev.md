@@ -1,18 +1,21 @@
 <script setup>
-// import NewVue from '/vue/NewVue.vue'
+import NewVue from '/vue/NewVue.vue'
 import ElementGroupIkon from '/vue/ElementGroupIkon.vue'
+import BChip from '/vue/BChip.vue'
+import BIkon from '/vue/BIkon.vue'
 
 </script>
 
 # VDev
 
-This is a .md using a custom component
-<!-- :::raw
-<NewVue />
-::: -->
+<BIkon elementGroup="via"></BIkon>
+<BIkon elementGroup="via"></BIkon>
 
-:::raw
-<ElementGroupIkon imageSource="/PlantaBeta_Logo.png" />
-:::
+<BChip elementGroupName="motor">Ama</BChip>
+<BChip elementGroupName="labor">Spade</BChip>
+<BChip elementGroupName="via">Over</BChip>
+<BChip elementGroupName="ekos">Stump</BChip>
+<BChip elementGroupName="soma">Brazo</BChip>
+<BChip elementGroupName="anima">Memory</BChip>
 
 ...
