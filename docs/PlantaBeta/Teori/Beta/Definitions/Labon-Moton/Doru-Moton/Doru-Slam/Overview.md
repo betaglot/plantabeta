@@ -1,7 +1,7 @@
 ---
 aside: false
 ---
-# 🔷<soma>Korpo</soma>-🟠<motor>Twist</motor>
+# ⭐<labor>Doru</labor>-🟠<motor>Slam</motor>
 
 ---
 

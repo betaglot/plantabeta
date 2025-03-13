@@ -1,4 +1,7 @@
-# 🔷<soma>Korpos</soma>
+---
+aside: false
+---
+# 🟩<ekos>FloraStem</ekos>-🔻<via>Takt</via>
 
 ---
 

@@ -1,6 +1,6 @@
 import { defineConfig } from 'vitepress'
-import vuetify from 'vite-plugin-vuetify'
-//  go
+import { cs, el } from 'vuetify/locale'
+
 export default defineConfig({
   vite: {
     // ...
@@ -33,12 +33,12 @@ export default defineConfig({
       { icon: 'youtube', link: 'https://www.youtube.com/@BETAGLOT' },
       { icon: 'github', link: 'https://github.com/betaglot/plantabeta' }
     ],
-// Search
+    // Search
     search: {
       provider: 'local'
     },
     nav: nav(),
-// Sidebar
+    // Sidebar
     sidebar: {
       '/about/': sidebarAbout(),
       '/guide/': sidebarGuide(),
@@ -309,7 +309,7 @@ function sidebarElements() {
         },
         {
           text: '<soma>Definitions</soma>', link: '/PlantaBeta/Teori/Elements/Soma/Definition/Overview', collapsed: true, items: [
-            { text: '🔷<soma>Korpos</soma>', link: '/PlantaBeta/Teori/Elements/Soma/Definition/Korpos' },
+            { text: '🔷<soma>Korpo</soma>', link: '/PlantaBeta/Teori/Elements/Soma/Definition/Korpo' },
             { text: '🔷<soma>Head</soma>', link: '/PlantaBeta/Teori/Elements/Soma/Definition/Head' },
             { text: '🔷<soma>Brazo</soma>', link: '/PlantaBeta/Teori/Elements/Soma/Definition/Brazo' },
             { text: '🔷<soma>Mano</soma>', link: '/PlantaBeta/Teori/Elements/Soma/Definition/Mano' },
@@ -543,7 +543,21 @@ function sidebarBeta() {
         { text: '⭐-🔷-🟠', link: '/PlantaBeta/Teori/Beta/Definitions/Labon-Somon-Moton/Overview', collapsed: true, items: [] },
         { text: '⭐-🔷-🟠-💜', link: '/PlantaBeta/Teori/Beta/Definitions/Labon-Somon-Moton-Animon/Overview', collapsed: true, items: [] },
         { text: '⭐-🔷-💜', link: '/PlantaBeta/Teori/Beta/Definitions/Labon-Somon-Animon/Overview', collapsed: true, items: [] },
-        { text: '⭐-🟩', link: '/PlantaBeta/Teori/Beta/Definitions/Labon-Ekon/Overview', collapsed: true, items: [] },
+        {
+          text: '⭐-🟩', link: '/PlantaBeta/Teori/Beta/Definitions/Labon-Ekon/Overview', collapsed: true, items: [
+            { text: '🌈 Cream-Soil', link: '/PlantaBeta/Teori/Beta/Definitions/Labon-Ekon/Cream-Soil' },
+            { text: '🌈 Crop-Flora', link: '/PlantaBeta/Teori/Beta/Definitions/Labon-Ekon/Crop-Flora/Overview' },
+            {
+              text: '🌈 Prep-Ekon', link: '/PlantaBeta/Teori/Beta/Definitions/Labon-Ekon/Prep-Ekon/Overview', collapsed: true, items: [
+                { text: '🌈 BurnPit', link: '/PlantaBeta/Teori/Beta/Definitions/Labon-Ekon/Prep-Ekon/BurnPit' },
+                { text: '🌈 Prep-Mound', link: '/PlantaBeta/Teori/Beta/Definitions/Labon-Ekon/Prep-Ekon/Prep-Mound' },
+                { text: '🌈 Prep-Skreef', link: '/PlantaBeta/Teori/Beta/Definitions/Labon-Ekon/Prep-Ekon/Prep-Skreef' },
+                { text: '🌈 Prep-Trench', link: '/PlantaBeta/Teori/Beta/Definitions/Labon-Ekon/Prep-Ekon/Prep-Trench' },
+              ]
+            },
+            { text: '🌈 Road', link: '/PlantaBeta/Teori/Beta/Definitions/Labon-Ekon/Road/Overview' },
+          ]
+        },
         { text: '⭐-🟩-🔻', link: '/PlantaBeta/Teori/Beta/Definitions/Labon-Ekon-Vion/Overview', collapsed: true, items: [] },
         { text: '⭐-🟩-🔻-🟠', link: '/PlantaBeta/Teori/Beta/Definitions/Labon-Ekon-Vion-Moton/Overview', collapsed: true, items: [] },
         { text: '⭐-🟩-🔻-🟠-💜', link: '/PlantaBeta/Teori/Beta/Definitions/Labon-Ekon-Vion-Moton-Animon/Overview', collapsed: true, items: [] },
@@ -555,7 +569,118 @@ function sidebarBeta() {
         { text: '⭐-🔻-🟠', link: '/PlantaBeta/Teori/Beta/Definitions/Labon-Vion-Moton/Overview', collapsed: true, items: [] },
         { text: '⭐-🔻-🟠-💜', link: '/PlantaBeta/Teori/Beta/Definitions/Labon-Vion-Moton-Animon/Overview', collapsed: true, items: [] },
         { text: '⭐-🔻-💜', link: '/PlantaBeta/Teori/Beta/Definitions/Labon-Vion-Animon/Overview', collapsed: true, items: [] },
-        { text: '⭐-🟠', link: '/PlantaBeta/Teori/Beta/Definitions/Labon-Moton/Overview', collapsed: true, items: [] },
+        {
+          text: '⭐-🟠', link: '/PlantaBeta/Teori/Beta/Definitions/Labon-Moton/Overview', collapsed: true, items: [
+            {
+              text: '🌈 Boot-MOTON', link: '/PlantaBeta/Teori/Beta/Definitions/Labon-Moton/Boot-Moton/Overview', collapsed: true, items: [
+                { text: '🌈 Boot-DragKlose', link: '/PlantaBeta/Teori/Beta/Definitions/Labon-Moton/Boot-Moton/Boot-DragKlose/Overview' },
+                { text: '🌈 Boot-❌<error>Error</error>', link: '/PlantaBeta/Teori/Beta/Definitions/Labon-Moton/Boot-Moton/Boot-❌<error>Error</error>/Overview' },
+                { text: '🌈 Boot-Mano', link: '/PlantaBeta/Teori/Beta/Definitions/Labon-Moton/Boot-Moton/Boot-Mano/Overview' },
+                { text: '🌈 Boot-Off', link: '/PlantaBeta/Teori/Beta/Definitions/Labon-Moton/Boot-Moton/Boot-Off/Overview' },
+                { text: '🌈 Boot-On', link: '/PlantaBeta/Teori/Beta/Definitions/Labon-Moton/Boot-Moton/Boot-On/Overview' },
+                { text: '🌈 Boot-Preserve', link: '/PlantaBeta/Teori/Beta/Definitions/Labon-Moton/Boot-Moton/Boot-Preserve/Overview' },
+                { text: '🌈 BootArch-Klose', link: '/PlantaBeta/Teori/Beta/Definitions/Labon-Moton/Boot-Moton/BootArch-Klose/Overview' },
+                { text: '🌈 BootArch-Kontakt', link: '/PlantaBeta/Teori/Beta/Definitions/Labon-Moton/Boot-Moton/BootArch-Kontakt/Overview' },
+                { text: '🌈 BootDorsi-Kontakt', link: '/PlantaBeta/Teori/Beta/Definitions/Labon-Moton/Boot-Moton/BootDorsi-Kontakt/Overview' },
+                { text: '🌈 BootHeel-DragKlose', link: '/PlantaBeta/Teori/Beta/Definitions/Labon-Moton/Boot-Moton/BootHeel-DragKlose/Overview' },
+                { text: '🌈 BootHeel-KickKlose', link: '/PlantaBeta/Teori/Beta/Definitions/Labon-Moton/Boot-Moton/BootHeel-KickKlose/Overview' },
+                { text: '🌈 BootLace-Adjust', link: '/PlantaBeta/Teori/Beta/Definitions/Labon-Moton/Boot-Moton/BootLace-Adjust/Overview' },
+                { text: '🌈 BootLace-Knot', link: '/PlantaBeta/Teori/Beta/Definitions/Labon-Moton/Boot-Moton/BootLace-Knot/Overview' },
+                { text: '🌈 BootToe-DragKlose', link: '/PlantaBeta/Teori/Beta/Definitions/Labon-Moton/Boot-Moton/BootToe-DragKlose/Overview' },
+                { text: '🌈 BootToe-KickKlose', link: '/PlantaBeta/Teori/Beta/Definitions/Labon-Moton/Boot-Moton/BootToe-KickKlose/Overview' },
+              ]
+            },
+            {
+              text: '🌈 Bottle-MOTON', link: '/PlantaBeta/Teori/Beta/Definitions/Labon-Moton/Bottle-Moton/Overview', collapsed: true, items: [
+                { text: '🌈 Bottle-Clean', link: '/PlantaBeta/Teori/Beta/Definitions/Labon-Moton/Bottle-Moton/Bottle-Clean/Overview' },
+                { text: '🌈 Bottle-Drink', link: '/PlantaBeta/Teori/Beta/Definitions/Labon-Moton/Bottle-Moton/Bottle-Drink/Overview' },
+                { text: '🌈 Bottle-Fill', link: '/PlantaBeta/Teori/Beta/Definitions/Labon-Moton/Bottle-Moton/Bottle-Fill/Overview' },
+              ]
+            },
+            {
+              text: '🌈 Box-MOTON', link: '/PlantaBeta/Teori/Beta/Definitions/Labon-Moton/Box-Moton/Overview', collapsed: true, items: [
+                { text: '🌈 Box-Construct', link: '/PlantaBeta/Teori/Beta/Definitions/Labon-Moton/Box-Moton/Box-Construct/Overview' },
+                { text: '🌈 Box-Lift', link: '/PlantaBeta/Teori/Beta/Definitions/Labon-Moton/Box-Moton/Box-Lift/Overview' },
+                { text: '🌈 Box-Lock', link: '/PlantaBeta/Teori/Beta/Definitions/Labon-Moton/Box-Moton/Box-Lock/Overview' },
+                { text: '🌈 Box-Mano', link: '/PlantaBeta/Teori/Beta/Definitions/Labon-Moton/Box-Moton/Box-Mano/Overview' },
+                { text: '🌈 Box-Pop', link: '/PlantaBeta/Teori/Beta/Definitions/Labon-Moton/Box-Moton/Box-Pop/Overview' },
+                { text: '🌈 Box-Slide', link: '/PlantaBeta/Teori/Beta/Definitions/Labon-Moton/Box-Moton/Box-Slide/Overview' },
+                { text: '🌈 Box-Stack', link: '/PlantaBeta/Teori/Beta/Definitions/Labon-Moton/Box-Moton/Box-Stack/Overview' },
+                { text: '🌈 Box-Transport', link: '/PlantaBeta/Teori/Beta/Definitions/Labon-Moton/Box-Moton/Box-Transport/Overview' },
+                { text: '🌈 Box-Error</error>', link: '/PlantaBeta/Teori/Beta/Definitions/Labon-Moton/Box-Moton/Box-❌<error>Error</error>/Overview' },
+                { text: '🌈 Box-Construct', link: '/PlantaBeta/Teori/Beta/Definitions/Labon-Moton/Box-Moton/Box-Construct/Overview' },
+                { text: '🌈 Box-Construct', link: '/PlantaBeta/Teori/Beta/Definitions/Labon-Moton/Box-Moton/Box-Construct/Overview' },
+              ]
+            },
+            {
+              text: '🌈 Bundle-MOTON', link: '/PlantaBeta/Teori/Beta/Definitions/Labon-Moton/Bundle-Moton/Overview', collapsed: true, items: [
+                { text: '🌈 Bundle-Error', link: '/PlantaBeta/Teori/Beta/Definitions/Labon-Moton/Bundle-Moton/Bundle-Error/Overview' },
+                { text: '🌈 Bundle-Mano', link: '/PlantaBeta/Teori/Beta/Definitions/Labon-Moton/Bundle-Moton/Bundle-Mano/Overview' },
+                { text: '🌈 Bundle-Peel', link: '/PlantaBeta/Teori/Beta/Definitions/Labon-Moton/Bundle-Moton/Bundle-Peel/Overview' },
+                { text: '🌈 Bundle-Unwrap', link: '/PlantaBeta/Teori/Beta/Definitions/Labon-Moton/Bundle-Moton/Bundle-Unwrap/Overview' },
+              ]
+            },
+            {
+              text: '🌈 Cache-MOTON', link: '/PlantaBeta/Teori/Beta/Definitions/Labon-Moton/Cache-Moton/Overview', collapsed: true, items: [
+                { text: 'Cache-Error', link: '/PlantaBeta/Teori/Beta/Definitions/Labon-Moton/Cache-Moton/Cache-Error/Overview' },
+              ]
+            },
+            {
+              text: '🌈 Doru-MOTON', link: '/PlantaBeta/Teori/Beta/Definitions/Labon-Moton/Doru-Moton/Overview', collapsed: true, items: [
+                { text: '🌈 Doru-Amble', link: '/PlantaBeta/Teori/Beta/Definitions/Labon-Moton/Doru-Moton/Doru-Amble/Overview' },
+                { text: '🌈 Doru-Ankor', link: '/PlantaBeta/Teori/Beta/Definitions/Labon-Moton/Doru-Moton/Doru-Ankor/Overview' },
+                { text: '🌈 Doru-Bump', link: '/PlantaBeta/Teori/Beta/Definitions/Labon-Moton/Doru-Moton/Doru-Bump/Overview' },
+                { text: '🌈 Doru-Drag', link: '/PlantaBeta/Teori/Beta/Definitions/Labon-Moton/Doru-Moton/Doru-Drag/Overview' },
+                { text: '🌈 Doru-Error', link: '/PlantaBeta/Teori/Beta/Definitions/Labon-Moton/Doru-Moton/Doru-Error/Overview' },
+                { text: '🌈 Doru-Mano', link: '/PlantaBeta/Teori/Beta/Definitions/Labon-Moton/Doru-Moton/Doru-Mano/Overview' },
+                { text: '🌈 Doru-Onda', link: '/PlantaBeta/Teori/Beta/Definitions/Labon-Moton/Doru-Moton/Doru-Onda/Overview' },
+                { text: '🌈 Doru-Pogo', link: '/PlantaBeta/Teori/Beta/Definitions/Labon-Moton/Doru-Moton/Doru-Pogo/Overview' },
+                { text: '🌈 Doru-Poke', link: '/PlantaBeta/Teori/Beta/Definitions/Labon-Moton/Doru-Moton/Doru-Poke/Overview' },
+                { text: '🌈 Doru-Pont', link: '/PlantaBeta/Teori/Beta/Definitions/Labon-Moton/Doru-Moton/Doru-Pont/Overview' },
+                { text: '🌈 Doru-Pop', link: '/PlantaBeta/Teori/Beta/Definitions/Labon-Moton/Doru-Moton/Doru-Pop/Overview' },
+                { text: '🌈 Doru-Post', link: '/PlantaBeta/Teori/Beta/Definitions/Labon-Moton/Doru-Moton/Doru-Post/Overview' },
+                { text: '🌈 Doru-Prop', link: '/PlantaBeta/Teori/Beta/Definitions/Labon-Moton/Doru-Moton/Doru-Prop/Overview' },
+                { text: '🌈 Doru-Rotate', link: '/PlantaBeta/Teori/Beta/Definitions/Labon-Moton/Doru-Moton/Doru-Rotate/Overview' },
+                { text: '🌈 Doru-Skreef', link: '/PlantaBeta/Teori/Beta/Definitions/Labon-Moton/Doru-Moton/Doru-Skreef/Overview' },
+                { text: '🌈 Doru-Slam', link: '/PlantaBeta/Teori/Beta/Definitions/Labon-Moton/Doru-Moton/Doru-Slam/Overview' },
+                { text: '🌈 Doru-Slap', link: '/PlantaBeta/Teori/Beta/Definitions/Labon-Moton/Doru-Moton/Doru-Slap/Overview' },
+                { text: '🌈 Doru-Slide', link: '/PlantaBeta/Teori/Beta/Definitions/Labon-Moton/Doru-Moton/Doru-Slide/Overview' },
+                { text: '🌈 Doru-Stall', link: '/PlantaBeta/Teori/Beta/Definitions/Labon-Moton/Doru-Moton/Doru-Stall/Overview' },
+                { text: '🌈 Doru-Stomp', link: '/PlantaBeta/Teori/Beta/Definitions/Labon-Moton/Doru-Moton/Doru-Stomp/Overview' },
+                { text: '🌈 Doru-Swap', link: '/PlantaBeta/Teori/Beta/Definitions/Labon-Moton/Doru-Moton/Doru-Swap/Overview' },
+                { text: '🌈 Doru-Transfer', link: '/PlantaBeta/Teori/Beta/Definitions/Labon-Moton/Doru-Moton/Doru-Transfer/Overview' },
+              ]
+            },
+            {
+              text: '🌈 Glove-MOTON', link: '/PlantaBeta/Teori/Beta/Definitions/Labon-Moton/Glove-Moton/Overview', collapsed: true, items: [
+                { text: '🌈 Glove-Error', link: '/PlantaBeta/Teori/Beta/Definitions/Labon-Moton/Glove-Moton/Glove-Error/Overview' },
+                { text: '🌈 Glove-Mano', link: '/PlantaBeta/Teori/Beta/Definitions/Labon-Moton/Glove-Moton/Glove-Mano/Overview' },
+                { text: '🌈 Glove-Off', link: '/PlantaBeta/Teori/Beta/Definitions/Labon-Moton/Glove-Moton/Glove-Off/Overview' },
+                { text: '🌈 Glove-On', link: '/PlantaBeta/Teori/Beta/Definitions/Labon-Moton/Glove-Moton/Glove-On/Overview' },
+                { text: '🌈 Glove-Preserve', link: '/PlantaBeta/Teori/Beta/Definitions/Labon-Moton/Glove-Moton/Glove-Preserve/Overview' },
+              ]
+            },
+            {
+              text: '🌈 Karabiner-MOTON', link: '/PlantaBeta/Teori/Beta/Definitions/Labon-Moton/Karabiner-Moton/Overview', collapsed: true, items: [
+                { text: '🌈 Karabiner-Off', link: '/PlantaBeta/Teori/Beta/Definitions/Labon-Moton/Karabiner-Moton/Karabiner-Off/Overview' },
+                { text: '🌈 Karabiner-On', link: '/PlantaBeta/Teori/Beta/Definitions/Labon-Moton/Karabiner-Moton/Karabiner-On/Overview' },
+              ]
+            },
+            { text: '🌈 Kit-MOTON', link: '/PlantaBeta/Teori/Beta/Definitions/Labon-Moton/Kit-Moton/Overview', collapsed: true, items: [] },
+            { text: '🌈 Layer-MOTON', link: '/PlantaBeta/Teori/Beta/Definitions/Labon-Moton/Layer-Moton/Overview', collapsed: true, items: [] },
+            { text: '🌈 Marka-MOTON', link: '/PlantaBeta/Teori/Beta/Definitions/Labon-Moton/Marka-Moton/Overview', collapsed: true, items: [] },
+            { text: '🌈 Microsite-MOTON', link: '/PlantaBeta/Teori/Beta/Definitions/Labon-Moton/Microsite-Moton/Overview', collapsed: true, items: [] },
+            { text: '🌈 Neon-MOTON', link: '/PlantaBeta/Teori/Beta/Definitions/Labon-Moton/Neon-Moton/Overview', collapsed: true, items: [] },
+            { text: '🌈 Plantafor-MOTON', link: '/PlantaBeta/Teori/Beta/Definitions/Labon-Moton/Plantafor-Moton/Overview', collapsed: true, items: [] },
+            { text: '🌈 Radior-MOTON', link: '/PlantaBeta/Teori/Beta/Definitions/Labon-Moton/Radior-Moton/Overview', collapsed: true, items: [] },
+            { text: '🌈 Repair-MOTON', link: '/PlantaBeta/Teori/Beta/Definitions/Labon-Moton/Repair-Moton/Overview', collapsed: true, items: [] },
+            { text: '🌈 Rope-MOTON', link: '/PlantaBeta/Teori/Beta/Definitions/Labon-Moton/Rope-Moton/Overview', collapsed: true, items: [] },
+            { text: '🌈 Spade-MOTON', link: '/PlantaBeta/Teori/Beta/Definitions/Labon-Moton/Spade-Moton/Overview', collapsed: true, items: [] },
+            { text: '🌈 Tarp-MOTON', link: '/PlantaBeta/Teori/Beta/Definitions/Labon-Moton/Tarp-Moton/Overview', collapsed: true, items: [] },
+            { text: '🌈 Tibior-MOTON', link: '/PlantaBeta/Teori/Beta/Definitions/Labon-Moton/Tibior-Moton/Overview', collapsed: true, items: [] },
+            { text: '🌈 Truck-MOTON', link: '/PlantaBeta/Teori/Beta/Definitions/Labon-Moton/Truck-Moton/Overview', collapsed: true, items: [] },
+          ]
+        },
         { text: '⭐-🟠-💜', link: '/PlantaBeta/Teori/Beta/Definitions/Labon-Moton-Animon/Overview', collapsed: true, items: [] },
         { text: '⭐-💜', link: '/PlantaBeta/Teori/Beta/Definitions/Labon-Animon/Overview', collapsed: true, items: [] },
         { text: '🔷-🟩', link: '/PlantaBeta/Teori/Beta/Definitions/Somon-Ekon/Overview', collapsed: true, items: [] },
@@ -572,13 +697,69 @@ function sidebarBeta() {
         { text: '🔷-🟠', link: '/PlantaBeta/Teori/Beta/Definitions/Somon-Moton/Overview', collapsed: true, items: [] },
         { text: '🔷-🟠-💜', link: '/PlantaBeta/Teori/Beta/Definitions/Somon-Moton-Animon/Overview', collapsed: true, items: [] },
         { text: '🔷-💜', link: '/PlantaBeta/Teori/Beta/Definitions/Somon-Animon/Overview', collapsed: true, items: [] },
-        { text: '🟩-🔻', link: '/PlantaBeta/Teori/Beta/Definitions/Ekon-Vion/Overview', collapsed: true, items: [] },
+        {
+          text: '🟩-🔻', link: '/PlantaBeta/Teori/Beta/Definitions/Ekon-Vion/Overview', collapsed: true, items: [
+            {
+              text: '🌈 Ekon-Takt', link: '/PlantaBeta/Teori/Beta/Definitions/Ekon-Vion/Ekon-Takt/Overview', collapsed: true, items: [
+                {
+                  text: '🌈 Flora-Takt', link: '/PlantaBeta/Teori/Beta/Definitions/Ekon-Vion/Ekon-Takt/Flora-Takt/Overview', collapsed: true, items: [
+                    { text: '🌈 Bryophyte-Takt', link: '/PlantaBeta/Teori/Beta/Definitions/Ekon-Vion/Ekon-Takt/Flora-Takt/Bryophyte-Takt' },
+                    { text: '🌈 BryophyteHidro-Takt', link: '/PlantaBeta/Teori/Beta/Definitions/Ekon-Vion/Ekon-Takt/Flora-Takt/BryophyteHidro-Takt' },
+                    { text: '🌈 BurntFlora-Takt', link: '/PlantaBeta/Teori/Beta/Definitions/Ekon-Vion/Ekon-Takt/Flora-Takt/BurntFlora-Takt' },
+                    { text: '🌈 Flower-Takt', link: '/PlantaBeta/Teori/Beta/Definitions/Ekon-Vion/Ekon-Takt/Flora-Takt/Flower-Takt' },
+                    { text: '🌈 Leaf-Takt', link: '/PlantaBeta/Teori/Beta/Definitions/Ekon-Vion/Ekon-Takt/Flora-Takt/Leaf-Takt' },
+                    { text: '🌈 Periderm-Takt', link: '/PlantaBeta/Teori/Beta/Definitions/Ekon-Vion/Ekon-Takt/Flora-Takt/Periderm-Takt' },
+                    { text: '🌈 PeridermHidros-Takt', link: '/PlantaBeta/Teori/Beta/Definitions/Ekon-Vion/Ekon-Takt/Flora-Takt/PeridermHidros-Takt' },
+                    { text: '🌈 Poales-Takt', link: '/PlantaBeta/Teori/Beta/Definitions/Ekon-Vion/Ekon-Takt/Flora-Takt/Poales-Takt' },
+                    { text: '🌈 Poales-Hidros-Takt', link: '/PlantaBeta/Teori/Beta/Definitions/Ekon-Vion/Ekon-Takt/Flora-Takt/Poales-Hidros-Takt' },
+                    { text: '🌈 FloraStem-Takt', link: '/PlantaBeta/Teori/Beta/Definitions/Ekon-Vion/Ekon-Takt/Flora-Takt/FloraStem-Takt' },
+                    { text: '🌈 Stump-Takt', link: '/PlantaBeta/Teori/Beta/Definitions/Ekon-Vion/Ekon-Takt/Flora-Takt/Stump-Takt' },
+                    { text: '🌈 Xilem-Takt', link: '/PlantaBeta/Teori/Beta/Definitions/Ekon-Vion/Ekon-Takt/Flora-Takt/Xilem-Takt' },
+                    { text: '🌈 XilemHidros-Takt', link: '/PlantaBeta/Teori/Beta/Definitions/Ekon-Vion/Ekon-Takt/Flora-Takt/XilemHidros-Takt' },
+                  ]
+                },
+                { text: '🌈 Litos-Takt', link: '/PlantaBeta/Teori/Beta/Definitions/Ekon-Vion/Ekon-Takt/Litos-Takt/Overview', collapsed: true, items: [] },
+                { text: '🌈 Soil-Takt', link: '/PlantaBeta/Teori/Beta/Definitions/Ekon-Vion/Ekon-Takt/Soil-Takt/Overview', collapsed: true, items: [] },
+              ]
+            },
+          ]
+        },
         { text: '🟩-🔻-🟠', link: '/PlantaBeta/Teori/Beta/Definitions/Ekon-Vion-Moton/Overview', collapsed: true, items: [] },
         { text: '🟩-🔻-🟠-💜', link: '/PlantaBeta/Teori/Beta/Definitions/Ekon-Vion-Moton-Animon/Overview', collapsed: true, items: [] },
         { text: '🟩-🔻-💜', link: '/PlantaBeta/Teori/Beta/Definitions/Ekon-Vion-Animon/Overview', collapsed: true, items: [] },
-        { text: '🟩-🟠 ', link: '/PlantaBeta/Teori/Beta/Definitions/Ekon-Moton/Overview', collapsed: true, items: [] },
+        {
+          text: '🟩-🟠 ', link: '/PlantaBeta/Teori/Beta/Definitions/Ekon-Moton/Overview', collapsed: true, items: [
+            {
+              text: '🌈 Flora-Moton', link: '/PlantaBeta/Teori/Beta/Definitions/Ekon-Moton/Flora-Moton/Overview', collapsed: true, items: [
+                { text: '🌈 Flora-Aspis', link: '/PlantaBeta/Teori/Beta/Definitions/Ekon-Moton/Flora-Moton/Flora-Aspis/Overview' },
+                { text: '🌈 Flora-Ballista', link: '/PlantaBeta/Teori/Beta/Definitions/Ekon-Moton/Flora-Moton/Flora-Ballista/Overview' },
+                { text: '🌈 Flora-Catch', link: '/PlantaBeta/Teori/Beta/Definitions/Ekon-Moton/Flora-Moton/Flora-Catch/Overview' },
+                { text: '🌈 Flora-Eval', link: '/PlantaBeta/Teori/Beta/Definitions/Ekon-Moton/Flora-Moton/Flora-Eval/Overview' },
+                { text: '🌈 Flora-Flexion', link: '/PlantaBeta/Teori/Beta/Definitions/Ekon-Moton/Flora-Moton/Flora-Flexion/Overview' },
+                { text: '🌈 Flora-Knot', link: '/PlantaBeta/Teori/Beta/Definitions/Ekon-Moton/Flora-Moton/Flora-Knot/Overview' },
+                { text: '🌈 Flora-Machete', link: '/PlantaBeta/Teori/Beta/Definitions/Ekon-Moton/Flora-Moton/Flora-Machete/Overview' },
+                { text: '🌈 Flora-Mano', link: '/PlantaBeta/Teori/Beta/Definitions/Ekon-Moton/Flora-Moton/Flora-Mano/Overview' },
+                { text: '🌈 Flora-Parry', link: '/PlantaBeta/Teori/Beta/Definitions/Ekon-Moton/Flora-Moton/Flora-Parry/Overview' },
+                { text: '🌈 Flora-Pop', link: '/PlantaBeta/Teori/Beta/Definitions/Ekon-Moton/Flora-Moton/Flora-Pop/Overview' },
+                { text: '🌈 Flora-Slot', link: '/PlantaBeta/Teori/Beta/Definitions/Ekon-Moton/Flora-Moton/Flora-Slot/Overview' },
+                { text: '🌈 Flora-Snap', link: '/PlantaBeta/Teori/Beta/Definitions/Ekon-Moton/Flora-Moton/Flora-Snap/Overview' },
+                { text: '🌈 FloraBranch-Moton', link: '/PlantaBeta/Teori/Beta/Definitions/Ekon-Moton/Flora-Moton/FloraBranch-Moton/Overview' },
+                { text: '🌈 FloraRoot-Moton', link: '/PlantaBeta/Teori/Beta/Definitions/Ekon-Moton/Flora-Moton/FloraRoot-Moton/Overview' },
+                { text: '🌈 FloraTrunk-Moton', link: '/PlantaBeta/Teori/Beta/Definitions/Ekon-Moton/Flora-Moton/FloraTrunk-Moton/Overview' },
+              ]
+            },
+            { text: '🌈 Hidros-Moton', link: '/PlantaBeta/Teori/Beta/Definitions/Ekon-Moton/Hidros-Moton/Overview', collapsed: true, items: [] },
+            { text: '🌈 Litos-Moton', link: '/PlantaBeta/Teori/Beta/Definitions/Ekon-Moton/Litos-Moton/Overview', collapsed: true, items: [] },
+            { text: '🌈 Soil-Moton', link: '/PlantaBeta/Teori/Beta/Definitions/Ekon-Moton/Soil-Moton/Overview', collapsed: true, items: [] },
+          ]
+        },
         { text: '🟩-🟠-💜', link: '/PlantaBeta/Teori/Beta/Definitions/Ekon-Moton-Animon/Overview', collapsed: true, items: [] },
-        { text: '🟩-💜', link: '/PlantaBeta/Teori/Beta/Definitions/Ekon-Animon/Overview', collapsed: true, items: [] },
+        {
+          text: '🟩-💜', link: '/PlantaBeta/Teori/Beta/Definitions/Ekon-Animon/Overview', collapsed: true, items: [
+            { text: '🌈 Flora-Emotion', link: '/PlantaBeta/Teori/Beta/Definitions/Ekon-Animon/Flora-Emotion/Overview' },
+            { text: '🌈 Flora-Identification', link: '/PlantaBeta/Teori/Beta/Definitions/Ekon-Animon/Flora-Identification/Overview' },
+          ]
+        },
         { text: '🔻-🟠', link: '/PlantaBeta/Teori/Beta/Definitions/Vion-Moton/Overview', collapsed: true, items: [] },
         { text: '🔻-🟠-💜', link: '/PlantaBeta/Teori/Beta/Definitions/Vion-Moton-Animon/Overview', collapsed: true, items: [] },
         { text: '🔻-💜', link: '/PlantaBeta/Teori/Beta/Definitions/Vion-Animon/Overview', collapsed: true, items: [] },

@@ -1,7 +1,7 @@
 ---
 aside: false
 ---
-# 🔷<soma>Korpos</soma>-🟠<motor>Kontakt</motor>
+# 🔷<soma>Korpo</soma>-🟠<motor>Kontakt</motor>
 
 ---
 

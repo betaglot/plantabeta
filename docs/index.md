@@ -16,7 +16,7 @@ hero:
 
 
 features:
-  - icon: 🙌
+  - icon: 🌈
     title: Examples
     details: See what you can do with PlantaBeta
     link: /examples/ExampleOverview
@@ -24,8 +24,4 @@ features:
     title: Learn
     details: Learn how to use PlantaBeta
     link: /tutorial/TutorialOverview
-  - icon: 🛠️
-    title: Dev
-    details: Last Updated on March 2, 2025
-    link: /dev/DevOverview
 ---

@@ -1,7 +1,7 @@
 ---
 aside: false
 ---
-# 🔷<soma>Korpo</soma>-🟠<motor>Twist</motor>
+# 🟩<ekos>Flora</ekos>-💜<anima>Identification</anima>
 
 ---
 

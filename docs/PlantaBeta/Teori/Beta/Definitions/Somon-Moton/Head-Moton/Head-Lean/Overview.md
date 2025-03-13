@@ -1,7 +1,7 @@
 ---
 aside: false
 ---
-# 🔷<soma>Head</soma>-Lean
+# 🔷<soma>Head</soma>-🟠<motor>Lean</motor>
 
 IntoWind
 

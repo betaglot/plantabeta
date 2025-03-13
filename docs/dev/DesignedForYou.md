@@ -131,13 +131,13 @@ Beta is composed of four types, each of which can be represented by an icon:
 - 🔻<via>Walkout</via>: Walkout using the most direct path unless there's a road, skidder trail or clear path near.
     - The PathOfLeastResistance is sometimes faster than ShortestPath
 
-- 🔻<via>Cover-Error</via>: FrontFilling is when there are trees between the cache and backline
+- 🔻<via>Cover-❌<error>Error</error></via>: FrontFilling is when there are trees between the cache and backline
 
-- 🔻<via>VIA-Error</via>: Don't walk up and down slope, only up and across slope, during BoustroCover and ZigzagCover.
+- 🔻<via>VIA-❌<error>Error</error></via>: Don't walk up and down slope, only up and across slope, during BoustroCover and ZigzagCover.
 
 - 🔻<via>Marka</via>: Only Marka the "zag" of ZigzagCover.
 
-- 🔻<via>⭐<labor>Marka</labor>-Error</via>: Attempt to high Marka in fill plants whenever possible. The Marka may fall to the ground, but it's worth taking the chance since a high Marka is more valuable than the time wasted from a HighMarka Fail.
+- 🔻<via>⭐<labor>Marka</labor>-❌<error>Error</error></via>: Attempt to high Marka in fill plants whenever possible. The Marka may fall to the ground, but it's worth taking the chance since a high Marka is more valuable than the time wasted from a HighMarka Fail.
 
 - <beta>Lesson</beta>: Point out microsites so plantor can work on walking speed while not thinking about SiteSelection
     - Isolate Elements, Isolate Skills. Decompose Elements into subelements then instruct them in isolation.

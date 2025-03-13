@@ -1,7 +1,7 @@
 ---
 aside: false
 ---
-# Cache-Error
+# Cache-❌<error>Error</error>
 
 ---
 

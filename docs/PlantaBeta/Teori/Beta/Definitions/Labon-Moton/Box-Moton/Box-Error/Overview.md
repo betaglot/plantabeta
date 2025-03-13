@@ -1,7 +1,7 @@
 ---
 aside: false
 ---
-# Boot-Error
+# ⭐<labor>Box</labor>-❌<error>Error</error>
 
 ---
 

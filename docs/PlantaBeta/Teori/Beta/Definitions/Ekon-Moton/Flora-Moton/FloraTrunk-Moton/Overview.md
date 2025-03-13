@@ -1,7 +1,7 @@
 ---
 aside: false
 ---
-# 🟩<ekos>Stem</ekos>-🔻<via>Takt</via>
+# 🟩<ekos>FloraTrunk</ekos>-🟠<motor>MOTON</motor>
 
 ---
 

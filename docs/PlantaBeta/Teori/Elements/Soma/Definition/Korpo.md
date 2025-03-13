@@ -1,7 +1,4 @@
----
-aside: false
----
-# CreamSoil
+# 🔷<soma>Korpo</soma>
 
 ---
 
@@ -12,6 +9,6 @@ aside: false
 <!-- =================================================== -->
 ::: details 🛠
 
-- CreamSoil
+-
 
 :::

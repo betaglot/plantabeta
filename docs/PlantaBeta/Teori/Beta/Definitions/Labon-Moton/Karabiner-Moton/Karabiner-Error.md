@@ -1,7 +1,7 @@
 ---
 aside: false
 ---
-# Karabiner-Error
+# Karabiner-❌<error>Error</error>
 
 ---
 

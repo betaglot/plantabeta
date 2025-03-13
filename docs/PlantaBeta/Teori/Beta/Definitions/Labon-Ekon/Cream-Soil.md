@@ -1,7 +1,7 @@
 ---
 aside: false
 ---
-# 🔷<soma>Korpo</soma>-🟠<motor>Twist</motor>
+# ⭐<labor>Cream</labor>-🟩<ekos>Soil</ekos>
 
 ---
 
@@ -12,6 +12,6 @@ aside: false
 <!-- =================================================== -->
 ::: details 🛠
 
--
+- CreamSoil
 
 :::
