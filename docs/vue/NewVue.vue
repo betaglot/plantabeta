@@ -1,18 +1,27 @@
 <template>
-    <v-button variant="outlined">
-        BUTTON
-    </v-button>
+
+
     <v-container class="cursor-grabbing">
+        <v-button variant="outlined">
+            BUTTON
+        </v-button>
+        <v-img class="d-flex w-66"
+               aspect-ratio="1/1"
+               cover
+               src="/PlantaBeta_Logo.png"></v-img>
         <v-date-picker show-adjacent-months></v-date-picker>
     </v-container>
     <v-color-picker></v-color-picker>
     <v-date-picker show-adjacent-months></v-date-picker>
     <div class="container">
-        <li class="list" v-for="item in items">
+        <li class="list"
+            v-for="item in items">
             <div>{{ item.site_ID }}</div>
             <div>{{ item.startTime }}</div>
             <div>{{ item.finishTime }}</div>
-            <a class="youtube-link" target="_blank" :href="`${item.youtubeLink}`">Link</a>
+            <a class="youtube-link"
+               target="_blank"
+               :href="`${item.youtubeLink}`">Link</a>
         </li>
     </div class="container">
 

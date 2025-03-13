@@ -1,20 +1,46 @@
+<script setup>
+import ElementGroupIkon from '/vue/ElementGroupIkon.vue'
+</script>
+
 # TEORI
 
 ## [PLANTABETA's SISTEM](/PlantaBeta/Teori/Sistem/SistemOverview)
 
 ## [PLANTABETA's ELEMENTS](/PlantaBeta/Teori/Elements/ElementsOverview)
 
-### [⭐<labor>LABOR</labor>⭐![ElementGroup](/Ikon/Labor_Ikon.png)](/PlantaBeta/Teori/Elements/Labor/LaborOverview)
+:::raw
+<ElementGroupIkon imageLink="/PlantaBeta/Teori/Elements/Labor/LaborOverview" imageSource='/Ikon/Labor_Ikon.png'/>
+:::
 
-### [🔷<soma>SOMA</soma>🔷![ElementGroup](/Ikon/Soma_Ikon.png)](/PlantaBeta/Teori/Elements/Soma/SomaOverview)
+---
 
-### [🟩<ekos>EKOS</ekos>🟩![ElementGroup](/Ikon/Ekos_Ikon.png)](/PlantaBeta/Teori/Elements/Ekos/EkosOverview)
+:::raw
+<ElementGroupIkon imageLink="/PlantaBeta/Teori/Elements/Soma/SomaOverview" imageSource='/Ikon/Soma_Ikon.png'/>
+:::
 
-### [🔻<via>VIA</via>🔻![ElementGroup](/Ikon/Via_Ikon.png)](/PlantaBeta/Teori/Elements/Via/ViaOverview)
+---
 
-### [🟠<motor>MOTOR</motor>🟠![ElementGroup](/Ikon/Motor_Ikon.png)](/PlantaBeta/Teori/Elements/Motor/MotorOverview)
+:::raw
+<ElementGroupIkon imageLink="/PlantaBeta/Teori/Elements/Ekos/EkosOverview" imageSource='/Ikon/Ekos_Ikon.png'/>
+:::
 
-### [💜<anima>ANIMA</anima>💜![ElementGroup](/Ikon/Anima_Ikon.png)](/PlantaBeta/Teori/Elements/Anima/AnimaOverview)
+---
+
+:::raw
+<ElementGroupIkon imageLink="/PlantaBeta/Teori/Elements/Via/ViaOverview" imageSource='/Ikon/Via_Ikon.png'/>
+:::
+
+---
+
+:::raw
+<ElementGroupIkon imageLink="/PlantaBeta/Teori/Elements/Motor/MotorOverview" imageSource='/Ikon/Motor_Ikon.png'/>
+:::
+
+---
+
+:::raw
+<ElementGroupIkon imageLink="/PlantaBeta/Teori/Elements/Anima/AnimaOverview" imageSource='/Ikon/Anima_Ikon.png'/>
+:::
 
 ## [🌈<beta>BETA</beta>](/PlantaBeta/Teori/Beta/BetaOverview)
 
