@@ -1,7 +1,7 @@
 ---
 aside: false
 ---
-# Dorsi-Kontakt
+# ⭐<labor>BootHeel</labor>-🟠<motor>KickKlose</motor>
 
 ---
 
@@ -12,8 +12,6 @@ aside: false
 <!-- =================================================== -->
 ::: details 🛠
 
-- The dorsal part of your boot (Foot)
-- Toe🟠<motor>Hook</motor>
-- LogLaunch
+- HeelKickSeal
 
 :::

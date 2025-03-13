@@ -1,7 +1,7 @@
 ---
 aside: false
 ---
-# Base🟠<motor>Dig</motor>
+# 🔷<soma>Base</soma>-🟠<motor>Dig</motor>
 
 ---
 

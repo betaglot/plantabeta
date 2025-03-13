@@ -1,7 +1,7 @@
 ---
 aside: false
 ---
-# HeelKick🟠<motor>Klose</motor>
+# ⭐<labor>BootToe</labor>-🟠<motor>KickKlose</motor>
 
 ---
 
@@ -12,6 +12,6 @@ aside: false
 <!-- =================================================== -->
 ::: details 🛠
 
-- HeelKickSeal
+- ToeKickSeal
 
 :::

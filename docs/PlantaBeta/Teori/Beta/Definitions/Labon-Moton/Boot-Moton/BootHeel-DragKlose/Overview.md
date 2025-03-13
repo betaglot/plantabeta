@@ -1,7 +1,7 @@
 ---
 aside: false
 ---
-# ToeDrag🟠<motor>Klose</motor>
+# ⭐<labor>BootHeel</labor>-🟠<motor>DragKlose</motor>
 
 ---
 
@@ -12,6 +12,6 @@ aside: false
 <!-- =================================================== -->
 ::: details 🛠
 
-- ToeDragSeal
+- HeelDragSeal
 
 :::

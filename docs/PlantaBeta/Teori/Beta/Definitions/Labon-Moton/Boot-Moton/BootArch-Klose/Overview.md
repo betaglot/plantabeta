@@ -1,7 +1,7 @@
 ---
 aside: false
 ---
-# Flat-Kontakt
+# ⭐<labor>BootArch</labor>-🟠<motor>Klose</motor>
 
 ---
 
@@ -12,6 +12,6 @@ aside: false
 <!-- =================================================== -->
 ::: details 🛠
 
-- Using Kontakting your whole sole with the ground
+- FootSeal
 
-:::
+Arch:::

@@ -1,7 +1,7 @@
 ---
 aside: false
 ---
-# Arch-Kontakt
+# ⭐<labor>BootDorsi</labor>-🟠<motor>Kontakt</motor>
 
 ---
 
@@ -12,6 +12,8 @@ aside: false
 <!-- =================================================== -->
 ::: details 🛠
 
-- BootArch
+- The dorsal part of your boot (Foot)
+- Toe🟠<motor>Hook</motor>
+- LogLaunch
 
 :::

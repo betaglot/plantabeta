@@ -1,7 +1,7 @@
 ---
 aside: false
 ---
-# ToeKick🟠<motor>Klose</motor>
+# ⭐<labor>Boot</labor>-🟠<motor>DragKlose</motor>
 
 ---
 
@@ -12,6 +12,6 @@ aside: false
 <!-- =================================================== -->
 ::: details 🛠
 
-- ToeKickSeal
+- FootDragSeal
 
 :::

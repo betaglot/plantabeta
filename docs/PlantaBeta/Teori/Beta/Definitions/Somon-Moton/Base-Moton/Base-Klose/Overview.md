@@ -1,7 +1,7 @@
 ---
 aside: false
 ---
-# Boot🟠<motor>Klose</motor>
+# 🔷<soma>Boot</soma>-🟠<motor>Klose</motor>
 
 Aliases: FootClose
 

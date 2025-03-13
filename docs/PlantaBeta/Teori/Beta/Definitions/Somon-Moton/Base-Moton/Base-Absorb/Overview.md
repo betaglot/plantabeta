@@ -1,7 +1,7 @@
 ---
 aside: false
 ---
-# Base🟠<motor>Absorb</motor>
+# 🔷<soma>Base</soma>-🟠<motor>Absorb</motor>
 
 ---
 

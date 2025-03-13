@@ -1,7 +1,7 @@
 ---
 aside: false
 ---
-# BootArch🟠<motor>Klose</motor>
+# ⭐<labor>BootToe</labor>-🟠<motor>DragKlose</motor>
 
 ---
 
@@ -12,6 +12,6 @@ aside: false
 <!-- =================================================== -->
 ::: details 🛠
 
-- FootSeal
+- ToeDragSeal
 
-Arch:::
+:::

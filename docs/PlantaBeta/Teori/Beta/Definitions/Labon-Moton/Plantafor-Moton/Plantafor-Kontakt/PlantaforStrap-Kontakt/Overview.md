@@ -1,7 +1,7 @@
 ---
 aside: false
 ---
-# Strap-Kontakt
+# Strap-🟠<motor>Kontakt</motor>
 
 ---
 
