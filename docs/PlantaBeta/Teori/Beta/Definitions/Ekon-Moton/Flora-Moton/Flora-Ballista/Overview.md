@@ -1,13 +1,13 @@
 ---
 aside: false
 ---
-# Log-Launch
+# 🟩<ekos>Log</ekos>-🟠<motor>Launch</motor>
 
 > Launch a Log away from microsite with your leg
 
 No Impact
 
-## Toe-Hook
+## Toe🟠<motor>Hook</motor>
 
 ---
 

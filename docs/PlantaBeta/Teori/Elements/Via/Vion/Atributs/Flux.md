@@ -1,4 +1,4 @@
-# 🔻<via>ViaFlux</via>
+# 🔻<via>Flux</via>
 
 Aliases: Flow, Flowing MOTONment, Fluidity, Fluid movement, Continuous, NonStop, Constantly Changing, ever moving, fleeting,
 

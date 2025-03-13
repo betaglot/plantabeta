@@ -1,7 +1,7 @@
 ---
 aside: false
 ---
-# Doru-Onda
+# ⭐<labor>Doru</labor>-🟠<motor>Onda</motor>
 
 ---
 

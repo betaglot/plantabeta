@@ -1,7 +1,7 @@
 ---
 aside: false
 ---
-# Doru-Stall
+# ⭐<labor>Doru</labor>🟠<motor>Stall</motor>
 
 ---
 

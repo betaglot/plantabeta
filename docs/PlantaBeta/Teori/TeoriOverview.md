@@ -4,9 +4,9 @@ import ElementGroupIkon from '/vue/ElementGroupIkon.vue'
 
 # TEORI
 
-## [PLANTABETA's SISTEM](/PlantaBeta/Teori/Sistem/SistemOverview)
+## [SISTEM](/PlantaBeta/Teori/Sistem/SistemOverview)
 
-## [PLANTABETA's ELEMENTS](/PlantaBeta/Teori/Elements/ElementsOverview)
+## [Element Groups](/PlantaBeta/Teori/Elements/ElementsOverview)
 
 :::raw
 <ElementGroupIkon imageLink="/PlantaBeta/Teori/Elements/Labor/LaborOverview" imageSource='/Ikon/Labor_Ikon.png'/>
@@ -44,9 +44,9 @@ import ElementGroupIkon from '/vue/ElementGroupIkon.vue'
 
 ## [🌈<beta>BETA</beta>](/PlantaBeta/Teori/Beta/BetaOverview)
 
-## [PLANTABETA KOMPOSITION](/PlantaBeta/Teori/Komposition/KompositionOverview)
+## [KOMPOSITION](/PlantaBeta/Teori/Komposition/KompositionOverview)
 
-## [PLANTABETA's BETOMIKS](/PlantaBeta/Teori/Betomiks/BetomiksOverview)
+## [BETOMIKS](/PlantaBeta/Teori/Betomiks/BetomiksOverview)
 
 C:\Users\chris\plantabeta\docs\PlantaBeta\Teori\Betomiks\BetomiksOverview.md
 

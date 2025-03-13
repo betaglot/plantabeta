@@ -1,6 +1,7 @@
+---
+aside: false
+---
 # 🟠 <motor>GetUp</motor>
-
-![MOTONIkon](/Ikon/Motor_Ikon.png)
 
 ---
 

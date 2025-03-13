@@ -1,7 +1,7 @@
 ---
 aside: false
 ---
-# BootArchSeal
+# BootArch🟠<motor>Klose</motor>
 
 ---
 

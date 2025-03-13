@@ -1,7 +1,7 @@
 ---
 aside: false
 ---
-# Doru-Bump
+# ⭐<labor>Doru</labor>-Bump
 
 ---
 

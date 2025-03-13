@@ -15,9 +15,9 @@
 - "ANIMA.Estimation"
 - "ANIMA.Estimation.BagCover"
 - "ANIMA.Estimation.LandEstimation.Fraction"
-- "ANIMA.Estimation.ViaEstimation.AreaEstimation"
-- "ANIMA.Estimation.ViaEstimation.AreaEstimation.AreaCompletionEstimation"
-- "ANIMA.Estimation.ViaEstimation.LineDistanceEstimation"
-- "ANIMA.Estimation.ViaEstimation.TimeEstimation"
+- "ANIMA.Estimation.VIA_Estimation.AreaEstimation"
+- "ANIMA.Estimation.VIA_Estimation.AreaEstimation.AreaCompletionEstimation"
+- "ANIMA.Estimation.VIA_Estimation.LineDistanceEstimation"
+- "ANIMA.Estimation.VIA_Estimation.TimeEstimation"
 
 :::

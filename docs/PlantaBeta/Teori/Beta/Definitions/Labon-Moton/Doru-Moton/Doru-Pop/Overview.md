@@ -1,7 +1,7 @@
 ---
 aside: false
 ---
-# Doru-Pop
+# ⭐<labor>Doru</labor>-🟠<motor>Pop</motor>
 
 ---
 

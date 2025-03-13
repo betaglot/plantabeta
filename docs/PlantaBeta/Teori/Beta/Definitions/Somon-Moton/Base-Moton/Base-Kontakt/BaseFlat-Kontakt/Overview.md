@@ -1,7 +1,7 @@
 ---
 aside: false
 ---
-# FlatKontakt
+# Flat-Kontakt
 
 ---
 

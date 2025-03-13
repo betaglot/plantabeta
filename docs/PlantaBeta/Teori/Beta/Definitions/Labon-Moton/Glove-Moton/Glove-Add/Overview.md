@@ -1,7 +1,7 @@
 ---
 aside: false
 ---
-# GloveOn
+# Glove-On
 
 ---
 

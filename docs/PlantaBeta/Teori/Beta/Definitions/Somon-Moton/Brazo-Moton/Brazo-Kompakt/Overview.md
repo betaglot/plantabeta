@@ -1,7 +1,7 @@
 ---
 aside: false
 ---
-# Brazo-Kompakt
+# Brazo🟠<motor>Kompakt</motor>
 
 ---
 

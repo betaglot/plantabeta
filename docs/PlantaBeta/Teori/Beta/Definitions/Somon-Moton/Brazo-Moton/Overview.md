@@ -1,7 +1,7 @@
 ---
 aside: false
 ---
-# Brazo-MOTON
+# 🔷<soma>Brazo</soma>-🟠<motor>MOTON</motor>
 
 ## Arm Anatomy
 

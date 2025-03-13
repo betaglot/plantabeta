@@ -10,7 +10,7 @@ Scantily clad Plantors
 
 No genders
 
-### <motor>Spade: Spade-MOTON</motor>
+### <motor>Spade: ⭐<labor>Spade</labor>-🟠<motor>MOTON</motor></motor>
 
 - Ace:
 - 2:

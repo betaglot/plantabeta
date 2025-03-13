@@ -1,7 +1,7 @@
 ---
 aside: false
 ---
-# Box-Mano
+# ⭐<labor>Box</labor>-Mano
 
 ---
 

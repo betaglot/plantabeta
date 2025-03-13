@@ -1,4 +1,7 @@
-# 🟠 <motor>FloraMano</motor>
+---
+aside: false
+---
+# 🟩<ekos>Flora</ekos>-🟠<motor>Mano</motor>
 
 ---
 

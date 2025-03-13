@@ -1,7 +1,7 @@
 ---
 aside: false
 ---
-# Marka-Rip
+# ⭐<labor>Marka</labor>-Rip
 
 ---
 

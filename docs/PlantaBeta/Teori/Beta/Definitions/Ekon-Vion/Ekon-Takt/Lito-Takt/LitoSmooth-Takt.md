@@ -1,7 +1,7 @@
 ---
 aside: false
 ---
-# LitoSmooth-Takt
+# 🟩<ekos>LitoSmooth</ekos>-🔻<via>Takt</via>
 
 ---
 

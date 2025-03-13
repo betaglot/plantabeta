@@ -1,7 +1,7 @@
 ---
 aside: false
 ---
-# Spade-Kontakt
+# ⭐<labor>Spade</labor>-Kontakt
 
 ---
 

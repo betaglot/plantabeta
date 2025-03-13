@@ -1,4 +1,7 @@
-# 🟠<motor>FingerExtension</motor>
+---
+aside: false
+---
+# 🟠<motor>Finger-Extension</motor>
 
 ---
 

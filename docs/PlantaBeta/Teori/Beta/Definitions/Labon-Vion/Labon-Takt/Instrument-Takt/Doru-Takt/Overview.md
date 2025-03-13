@@ -1,7 +1,7 @@
 ---
 aside: false
 ---
-# Doru-Takt
+# ⭐<labor>Doru</labor>-🔻<via>Takt</via>
 
 ---
 

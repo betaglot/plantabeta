@@ -1,7 +1,7 @@
 ---
 aside: false
 ---
-# ArchKickSeal
+# ArchKick🟠<motor>Klose</motor>
 
 ---
 

@@ -1,4 +1,7 @@
-# Layer Knot
+---
+aside: false
+---
+# Layer🟠<motor>Knot</motor>
 
 ---
 

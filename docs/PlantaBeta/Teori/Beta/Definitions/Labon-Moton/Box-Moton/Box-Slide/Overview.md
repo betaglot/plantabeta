@@ -1,7 +1,7 @@
 ---
 aside: false
 ---
-# Box-Slide
+# ⭐<labor>Box</labor>-Slide
 
 ---
 

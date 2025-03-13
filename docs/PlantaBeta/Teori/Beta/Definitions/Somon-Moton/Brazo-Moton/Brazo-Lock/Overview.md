@@ -1,7 +1,7 @@
 ---
 aside: false
 ---
-# Brazo-Lock
+# 🔷<soma>Brazo</soma>-Lock
 
 ---
 

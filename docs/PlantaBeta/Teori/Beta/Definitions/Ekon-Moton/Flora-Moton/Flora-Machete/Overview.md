@@ -1,4 +1,7 @@
-# 🟠<motor>FloraMachete</motor>
+---
+aside: false
+---
+# 🟩<ekos>Flora</ekos>-🟠<motor>Machete</motor>
 
 ---
 

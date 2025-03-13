@@ -18,13 +18,13 @@ Mount and also attach a **wire** and HiVis to the camera in case the mount malfu
 
 #### HeadMount
 
-- Head-MOTON
+- 🔷<soma>Head</soma>-🟠<motor>MOTON</motor>
 
 #### ForearmMount
 
 - Hole
-- Spade-MOTON
-- Mano-MOTON
+- ⭐<labor>Spade</labor>-🟠<motor>MOTON</motor>
+- 🔷<soma>Mano</soma>-🟠<motor>MOTON</motor>
 
 #### TripodMount
 

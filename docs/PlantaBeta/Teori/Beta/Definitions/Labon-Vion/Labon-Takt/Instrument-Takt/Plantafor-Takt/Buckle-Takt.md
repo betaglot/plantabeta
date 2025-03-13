@@ -1,4 +1,7 @@
-# 🟠<motor>BuckleTakt</motor>
+---
+aside: false
+---
+# Buckle-Takt
 
 ---
 

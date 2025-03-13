@@ -1,4 +1,7 @@
-# 🟠 <motor>ManoMOTON</motor>
+---
+aside: false
+---
+# 🟠 <motor>🔷<soma>Mano</soma>-MOTON</motor>
 
 ## Mano.Anatomy
 

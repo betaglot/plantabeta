@@ -1,7 +1,7 @@
 ---
 aside: false
 ---
-# Strap-Takt
+# Strap-🔻<via>Takt</via>
 
 ---
 

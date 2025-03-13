@@ -1,4 +1,7 @@
-# 🟠<motor>ManoOrbit</motor>
+---
+aside: false
+---
+# 🟠<motor>Mano🟠<motor>Orbit</motor></motor>
 
 ---
 

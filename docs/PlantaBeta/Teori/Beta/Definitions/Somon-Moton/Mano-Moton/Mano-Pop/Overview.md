@@ -1,4 +1,7 @@
-# 🟠<motor>Mano_Pop</motor>
+---
+aside: false
+---
+# 🟠<motor>Mano🟠<motor>Pop</motor></motor>
 
 ---
 

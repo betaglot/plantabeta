@@ -1,7 +1,7 @@
 ---
 aside: false
 ---
-# Spade-Skreef
+# ⭐<labor>Spade</labor>-Skreef
 
 ---
 

@@ -11,7 +11,7 @@
 
 ## How to be an AmbidextrousPlantor
 
-Experienced Plantors have mastered the basics of planting, but they usually don't swap the roles of their arms. Many experienced Plantors spend years only using their dominant hand for Spade-MOTON, not only does this dispose Plantors to injury, it also complicates when Plantors must have a specific mixture of species that they're planting. Ambidextrous Plantors can separate the species into either side of their planting bags
+Experienced Plantors have mastered the basics of planting, but they usually don't swap the roles of their arms. Many experienced Plantors spend years only using their dominant hand for ⭐<labor>Spade</labor>-🟠<motor>MOTON</motor>, not only does this dispose Plantors to injury, it also complicates when Plantors must have a specific mixture of species that they're planting. Ambidextrous Plantors can separate the species into either side of their planting bags
 
 To reduce injury caused by repetitive strain.
 

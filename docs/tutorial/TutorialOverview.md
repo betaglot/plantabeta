@@ -79,7 +79,7 @@ treeList = [
 - "Tests.MultipleChoiceTest"
 - "Tests.Overview"
 - "Tests.Recall.Recall.RecallBetaDiagram"
-- "Tests.ViaDecomposition"
+- "Tests.VIA_Decomposition"
 - "Tests.ContactHighlight"
 - "Tests.Senario"
 - "Tests.Sequencing"

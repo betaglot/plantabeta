@@ -1,7 +1,7 @@
 ---
 aside: false
 ---
-# ⭐<labor>BlockDensity</labor>
+# ⭐<labor>Block</labor>-Density
 
 ---
 

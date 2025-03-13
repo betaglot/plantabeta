@@ -1,7 +1,7 @@
 ---
 aside: false
 ---
-# Marka-Slot
+# ⭐<labor>Marka</labor>-Slot
 
 ---
 

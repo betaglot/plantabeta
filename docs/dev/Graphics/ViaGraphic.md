@@ -138,11 +138,11 @@ VIA can be seen through the land.
 
 - VIA_FinishPoint is a Triangle
 
-- "Via.ViaCard"
-- "Via.ViaDiagram.Overview"
-- "Via.ViaDiagram.ViaDirectedLine"
-- "Via.ViaDiagram.ViaNotDirectedLine"
-- "Via.ViaDiagram.Contact.ContactHighlight"
-- "Via.ViaDiagram.ViaTimeline"
+- "VIA.VIA_Card"
+- "VIA.VIA_Diagram.Overview"
+- "VIA.VIA_Diagram.VIA_DirectedLine"
+- "VIA.VIA_Diagram.VIA_NotDirectedLine"
+- "VIA.VIA_Diagram.Contact.ContactHighlight"
+- "VIA.VIA_Diagram.VIA_Timeline"
 
 :::

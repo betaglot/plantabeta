@@ -1,7 +1,7 @@
 ---
 aside: false
 ---
-# Stem-Takt
+# 🟩<ekos>Stem</ekos>-🔻<via>Takt</via>
 
 ---
 

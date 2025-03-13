@@ -1,6 +1,7 @@
-# 🟠 <motor>KorpoOrbit</motor>
-
-![MOTONIkon](/Ikon/Motor_Ikon.png)
+---
+aside: false
+---
+# Korpo🟠<motor>Orbit</motor>
 
 ---
 

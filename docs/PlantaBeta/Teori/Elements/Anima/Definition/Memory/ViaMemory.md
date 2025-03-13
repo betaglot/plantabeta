@@ -1,8 +1,6 @@
-# <anima>Via-Memory</anima>
+# <anima>VIA-Memory</anima>
 
 ## Marka is a Mnemonic for ViaMemory
-
-Memory of ViaFactors
 
 "Where have I already planted?"
 

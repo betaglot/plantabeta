@@ -1,3 +1,6 @@
+---
+aside: false
+---
 # 🟠 <motor>SuperSpike</motor>
 
 - Superman Punch

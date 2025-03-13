@@ -1,7 +1,7 @@
 ---
 aside: false
 ---
-# Doru-Propel
+# ⭐<labor>Doru</labor>-Propel
 
 ---
 

@@ -1,4 +1,7 @@
-# 🟠<motor>ThumbExtension</motor>
+---
+aside: false
+---
+# 🟠<motor>Thumb-Extension</motor>
 
 ---
 

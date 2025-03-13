@@ -1,7 +1,7 @@
 ---
 aside: false
 ---
-# Blade-Takt
+# Blade-🔻<via>Takt</via>
 
 ---
 

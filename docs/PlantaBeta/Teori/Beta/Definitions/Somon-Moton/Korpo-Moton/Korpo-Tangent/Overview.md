@@ -1,4 +1,7 @@
-# 🟠<motor>BodyTangent</motor>
+---
+aside: false
+---
+# 🟠<motor>Body🟠<motor>Tangent</motor></motor>
 
 ---
 

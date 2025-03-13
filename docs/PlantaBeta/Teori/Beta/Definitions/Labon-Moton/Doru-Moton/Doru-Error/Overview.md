@@ -1,7 +1,7 @@
 ---
 aside: false
 ---
-# Doru-Error
+# ⭐<labor>Doru</labor>-Error
 
 ---
 

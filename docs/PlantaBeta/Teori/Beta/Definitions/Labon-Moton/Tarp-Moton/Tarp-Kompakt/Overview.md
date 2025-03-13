@@ -1,7 +1,7 @@
 ---
 aside: false
 ---
-# Tarp-Kompakt
+# Tarp🟠<motor>Kompakt</motor>
 
 ---
 

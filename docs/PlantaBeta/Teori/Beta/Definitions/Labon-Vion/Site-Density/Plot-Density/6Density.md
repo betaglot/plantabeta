@@ -1,7 +1,7 @@
 ---
 aside: false
 ---
-# 🔻<via>6Density</via>
+# 6Density
 
 ---
 

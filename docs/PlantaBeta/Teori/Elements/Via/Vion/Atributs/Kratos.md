@@ -1,4 +1,4 @@
-# 🔻<via>ViaKratos</via>
+# 🔻<via>Kratos</via>
 
 > the power of this Element
 >

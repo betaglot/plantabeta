@@ -109,7 +109,7 @@ DashedCurve
 - "Dev.Element.ElementDiagram.Labels.TextLabel.AbbreviatedTextLabel"
 - "Dev.Element.ElementDiagram.Labels.TextLabel.LandLabel"
 - "Dev.Element.ElementDiagram.Labels.TextLabel.MOTONLabel"
-- "Dev.Element.ElementDiagram.Labels.TextLabel.ViaLineLabel"
+- "Dev.Element.ElementDiagram.Labels.TextLabel.VIA_LineLabel"
 - "Dev.Element.ElementDiagram.LevelOfDetail"
 - "Dev.Element.ElementDiagram.Line.ConstructionLine"
 - "Dev.Element.ElementDiagram.Line.Overview"
@@ -162,6 +162,5 @@ DashedCurve
 - "Dev.Infographic.Web"
 - "Dev.Poster"
 - "Dev.Scroll"
-- "Via.LandInfluenceVia.Overview"
 
 :::

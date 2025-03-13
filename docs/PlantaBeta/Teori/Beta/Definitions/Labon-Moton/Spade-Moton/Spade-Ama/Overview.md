@@ -1,7 +1,7 @@
 ---
 aside: false
 ---
-# Spade-Ama
+# ⭐<labor>Spade</labor>-🟠<motor>Ama</motor>
 
 ---
 

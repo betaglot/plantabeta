@@ -1,7 +1,7 @@
 ---
 aside: false
 ---
-# Doru-Prop
+# ⭐<labor>Doru</labor>-Prop
 
 ---
 

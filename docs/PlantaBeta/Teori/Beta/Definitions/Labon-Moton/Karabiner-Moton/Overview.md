@@ -1,7 +1,7 @@
 ---
 aside: false
 ---
-# Karabiner-MOTON
+# Karabiner-🟠<motor>MOTON</motor>
 
 ---
 

@@ -1,4 +1,7 @@
-# 🟠 <motor>Mano_Skreef</motor>
+---
+aside: false
+---
+# 🟠 <motor>🔷<soma>Mano</soma>-Skreef</motor>
 
 ---
 

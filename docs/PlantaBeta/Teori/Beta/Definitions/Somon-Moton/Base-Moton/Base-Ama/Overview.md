@@ -1,7 +1,7 @@
 ---
 aside: false
 ---
-# Base-Ama
+# 🔷<soma>Base</soma>-🟠<motor>Ama</motor>
 
 ---
 

@@ -1,7 +1,7 @@
 ---
 aside: false
 ---
-# Glove-Off
+# ⭐<labor>Glove</labor>-🟠<motor>Off</motor>
 
 ---
 

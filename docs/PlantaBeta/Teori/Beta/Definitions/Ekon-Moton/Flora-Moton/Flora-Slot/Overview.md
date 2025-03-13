@@ -1,7 +1,7 @@
 ---
 aside: false
 ---
-# Flora-Passage
+# 🟩<ekos>Flora</ekos>-🟠<motor>Slot</motor>
 
 > Passing through a cluster of Flora
 

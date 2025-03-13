@@ -1,7 +1,7 @@
 ---
 aside: false
 ---
-# Spade-Open
+# ⭐<labor>Spade</labor>-Open
 
 ---
 

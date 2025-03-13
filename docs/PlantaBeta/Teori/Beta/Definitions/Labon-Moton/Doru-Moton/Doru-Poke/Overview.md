@@ -1,7 +1,7 @@
 ---
 aside: false
 ---
-# Doru-Poke
+# ⭐<labor>Doru</labor>-Poke
 
 ---
 

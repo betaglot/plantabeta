@@ -1,7 +1,7 @@
 ---
 aside: false
 ---
-# Base-Adduction
+# 🔷<soma>Base</soma>-🟠<motor>Adduction</motor>
 
 ---
 

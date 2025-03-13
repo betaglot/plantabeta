@@ -1,4 +1,4 @@
-# 🟠 <motor>BodyAbsorb</motor>
+# 🔷<soma>Korpos</soma>-🟠<motor>Absorb</motor>
 
 ---
 

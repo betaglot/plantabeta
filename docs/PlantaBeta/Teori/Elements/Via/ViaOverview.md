@@ -1,6 +1,6 @@
 # 🔻 <via>VIA</via> 🔻
 
-![<via>Via</via>Icon](/Ikon/Via_Ikon.png)
+![<via>VIA</via>Icon](/Ikon/Via_Ikon.png)
 
 > the way
 
@@ -164,10 +164,6 @@ Directions
 - `IsPlanted(Eko{})`
     - Look to see if an EKON is planted
 
-## Update your VIA
-
-## ViaProbability
-
 ## ViaComposition
 
 EKOS is decomposed by composing a VIA
@@ -195,10 +191,10 @@ EKOS is decomposed by composing a VIA
 - "VIA.Direction"
 - "VIA.Overview"
 - "VIA.ReadLand"
-- "VIA.ViaAnalysis"
-- "VIA.Direction.ViaDownSlope"
-- "VIA.Direction.ViaTraverseSlope"
-- "VIA.Direction.ViaUpSlope"
+- "VIA.VIA_Analysis"
+- "VIA.Direction.VIA_DownSlope"
+- "VIA.Direction.VIA_TraverseSlope"
+- "VIA.Direction.VIA_UpSlope"
 - "VIA.Error"
 - "VIA.Error.Deadwalking"
 - "VIA.Error.PinchedArea"
@@ -210,9 +206,9 @@ EKOS is decomposed by composing a VIA
 - "VIA.Event.CompletionEvent"
 - "VIA.Event.PositionEvent"
 - "VIA.Grid"
-- "VIA.Grid.ViaHexagonGrid"
-- "VIA.Grid.ViaSquareGrid"
-- "VIA.Grid.ViaTriangleGrid"
+- "VIA.Grid.VIA_HexagonGrid"
+- "VIA.Grid.VIA_SquareGrid"
+- "VIA.Grid.VIA_TriangleGrid"
 - "VIA.Name"
 - "VIA.Attributes.Overview"
 - "VIA.Attributes.Accuracy"

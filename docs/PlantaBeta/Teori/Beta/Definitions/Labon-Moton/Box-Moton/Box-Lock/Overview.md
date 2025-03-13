@@ -1,7 +1,7 @@
 ---
 aside: false
 ---
-# Box-Lock
+# ⭐<labor>Box</labor>-Lock
 
 ---
 

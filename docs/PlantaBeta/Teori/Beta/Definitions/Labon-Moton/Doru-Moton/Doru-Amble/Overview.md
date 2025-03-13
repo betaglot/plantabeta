@@ -1,7 +1,7 @@
 ---
 aside: false
 ---
-# DoruAmble
+# Doru-Amble
 
 ---
 

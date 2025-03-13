@@ -1,7 +1,7 @@
 ---
 aside: false
 ---
-# Spade-Test
+# ⭐<labor>Spade</labor>-Test
 
 ---
 

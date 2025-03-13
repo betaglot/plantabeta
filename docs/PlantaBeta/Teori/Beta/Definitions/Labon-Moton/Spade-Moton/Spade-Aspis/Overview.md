@@ -1,7 +1,7 @@
 ---
 aside: false
 ---
-# Spade-Aspis
+# ⭐<labor>Spade</labor>-🟠<motor>Aspis</motor>
 
 > Block flora using the SpadeCollar
 

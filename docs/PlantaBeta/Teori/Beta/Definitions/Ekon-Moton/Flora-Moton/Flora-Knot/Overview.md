@@ -1,7 +1,7 @@
 ---
 aside: false
 ---
-# Flora-Knot
+# 🟩<ekos>Flora</ekos>-🟠<motor>Knot</motor>
 
 ---
 

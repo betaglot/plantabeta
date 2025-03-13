@@ -1,7 +1,7 @@
 ---
 aside: false
 ---
-# Glove-Takt
+# ⭐<labor>Glove</labor>-🔻<via>Takt</via>
 
 ---
 

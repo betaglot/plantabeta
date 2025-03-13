@@ -1,7 +1,7 @@
 ---
 aside: false
 ---
-# Trunk-MOTON
+# 🟩<ekos>Trunk</ekos>-🟠<motor>MOTON</motor>
 
 ---
 

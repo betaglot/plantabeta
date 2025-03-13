@@ -1,6 +1,7 @@
-# 🟠 <motor>HandPoke</motor>
-
-![MOTONIkon](/Ikon/Motor_Ikon.png)
+---
+aside: false
+---
+# 🟠 <motor>Hand-Poke</motor>
 
 ---
 

@@ -1,4 +1,7 @@
-# 🟠<motor>Mano_Slide</motor>
+---
+aside: false
+---
+# 🟠<motor>🔷<soma>Mano</soma>-Slide</motor>
 
 ---
 

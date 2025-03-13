@@ -1,7 +1,7 @@
 ---
 aside: false
 ---
-# Spade-Takt
+# ⭐<labor>Spade</labor>-🔻<via>Takt</via>
 
 ---
 

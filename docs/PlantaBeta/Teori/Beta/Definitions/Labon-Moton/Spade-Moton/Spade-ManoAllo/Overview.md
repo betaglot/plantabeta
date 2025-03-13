@@ -1,7 +1,7 @@
 ---
 aside: false
 ---
-# Spade-AlloMano
+# ⭐<labor>Spade</labor>🟠<motor>Allo</motor>Mano
 
 Aliases: Hand Swap, Hand Switch
 

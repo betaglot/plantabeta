@@ -1,7 +1,7 @@
 ---
 aside: false
 ---
-# Spade-MuscleUp
+# ⭐<labor>Spade</labor>-MuscleUp
 
 ---
 

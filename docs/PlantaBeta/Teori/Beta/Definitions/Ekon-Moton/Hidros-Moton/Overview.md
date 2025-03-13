@@ -1,7 +1,7 @@
 ---
 aside: false
 ---
-# Hidros-MOTON
+# 🟩<ekos>Trunk</ekos>-🟠<motor>MOTON</motor>
 
 ---
 

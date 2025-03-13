@@ -1,7 +1,7 @@
 ---
 aside: false
 ---
-# Box-Lift
+# ⭐<labor>Box</labor>-Lift
 
 ---
 

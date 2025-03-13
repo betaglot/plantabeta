@@ -1,7 +1,7 @@
 ---
 aside: false
 ---
-# Plantafor-MOTON
+# ⭐<labor>Plantafor</labor>-🟠<motor>MOTON</motor>
 
 Aliases: Planting Bags
 

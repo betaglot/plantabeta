@@ -1,7 +1,7 @@
 ---
 aside: false
 ---
-# Hat-MOTON
+# ⭐<labor>Hat</labor>-🟠<motor>MOTON</motor>
 
 ---
 

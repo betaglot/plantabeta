@@ -1,7 +1,7 @@
 ---
 aside: false
 ---
-# BootError
+# Boot-Error
 
 ---
 

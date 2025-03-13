@@ -1,3 +1,6 @@
+---
+aside: false
+---
 # 🟠 <motor>RunStart</motor>
 
 ## Related 🟩<ekos>EKOS</ekos>

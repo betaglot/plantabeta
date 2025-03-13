@@ -1,7 +1,7 @@
 ---
 aside: false
 ---
-# Truck-Sit
+# ⭐<labor>Truck</labor>-Sit
 
 ---
 

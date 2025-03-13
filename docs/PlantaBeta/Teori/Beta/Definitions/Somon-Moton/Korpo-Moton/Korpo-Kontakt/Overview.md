@@ -1,4 +1,7 @@
-# <beta>Korpo_Kontakt</beta>
+---
+aside: false
+---
+# 🔷<soma>Korpos</soma>-Kontakt
 
 ---
 

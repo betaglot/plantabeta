@@ -1,6 +1,7 @@
-# 🟠 <motor>FocusLook</motor>
-
-![MOTONIkon](/Ikon/Motor_Ikon.png)
+---
+aside: false
+---
+# 🔷<soma>Head</soma>-Look
 
 ---
 

@@ -1,7 +1,7 @@
 ---
 aside: false
 ---
-# Flora-Emotion
+# 🟩<ekos>Flora</ekos>-💜<anima>Emotion</anima>
 
 ---
 

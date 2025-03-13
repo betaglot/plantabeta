@@ -1,4 +1,4 @@
-# 🔻<via>ViaAnalogia</via>
+# 🔻<via>Analogia</via>
 
 > analogous Elements in other BetaSports
 

@@ -30,7 +30,7 @@ Betomiks(Komposition(Betum(Element)))
 
 DotNotation for Subset
 
-Brazo.Anterior-Down-Ama
+Brazo.Anterior-Down-🟠<motor>Ama</motor>
 
 - Timestamp
 - File being refered to
@@ -46,9 +46,9 @@ Brazo.Anterior-Down-Ama
 
 ---
 
-Send-BrazoAnterior-Plast-Down-Ama
+Send-BrazoAnterior-Plast-Down-🟠<motor>Ama</motor>
 
-Dance-BrazoAnterior-Plast-Down-Ama
+Dance-BrazoAnterior-Plast-Down-🟠<motor>Ama</motor>
 
 NameSpace
 
@@ -57,7 +57,7 @@ Betaglot.PlantaBeta.Sistem.Teori.Element.Ekos.Definition.Stump
 ## By Negation
 
 - Definition(Element)
-    - WetSoil-Takt is not an Element
+    - WetSoil-🔻<via>Takt</via> is not an Element
         - WetSoil is an element and Takt is an element
 
 ## Based on Euclid's Elements

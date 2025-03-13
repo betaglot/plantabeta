@@ -28,7 +28,7 @@ A method can be a Problem
 
 (Element_A + Element_B == Element_AB)
 
-Brazo + Onda == Brazo-Onda
+Brazo + Onda == 🔷<soma>Brazo</soma>-🟠<motor>Onda</motor>
 
 Elements combined together become a new element, not a Compound like Chemistry.
 

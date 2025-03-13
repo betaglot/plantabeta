@@ -1,7 +1,7 @@
 ---
 aside: false
 ---
-# Box-Stack
+# ⭐<labor>Box</labor>🟠<motor>Stack</motor>
 
 ---
 

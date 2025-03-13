@@ -1,7 +1,7 @@
 ---
 aside: false
 ---
-# Spade-Neonektomi
+# ⭐<labor>Spade</labor>-Neonektomi
 
 ---
 

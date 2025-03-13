@@ -1,7 +1,7 @@
 ---
 aside: false
 ---
-# Truck-MOTON
+# ⭐<labor>Truck</labor>-🟠<motor>MOTON</motor>
 
 ## Truck Anatomy
 

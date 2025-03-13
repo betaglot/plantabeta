@@ -1,7 +1,7 @@
 ---
 aside: false
 ---
-# WindShell-MOTON
+# WindShell-🟠<motor>MOTON</motor>
 
 ---
 

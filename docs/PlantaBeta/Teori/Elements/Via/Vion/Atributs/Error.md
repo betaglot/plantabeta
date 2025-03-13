@@ -1,4 +1,4 @@
-# 🔻<via>ViaError</via>
+# 🔻<via>Error</via>
 
 > any errors that can occur during the practice of this Element
 

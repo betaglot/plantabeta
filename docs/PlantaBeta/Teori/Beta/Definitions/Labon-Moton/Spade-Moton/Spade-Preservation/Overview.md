@@ -1,7 +1,7 @@
 ---
 aside: false
 ---
-# Spade-Preservation
+# ⭐<labor>Spade</labor>🟠<motor>Preserve</motor>
 
 ---
 

@@ -1,7 +1,7 @@
 ---
 aside: false
 ---
-# BoxBottomTakt
+# BoxBottom-Takt
 
 ---
 

@@ -1,7 +1,7 @@
 ---
 aside: false
 ---
-# MineralSoilHidro-Takt
+# 🟩<ekos>MineralSoilHidro</ekos>-🔻<via>Takt</via>
 
 ---
 

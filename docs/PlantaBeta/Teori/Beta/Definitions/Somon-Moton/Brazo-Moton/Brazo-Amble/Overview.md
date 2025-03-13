@@ -1,7 +1,7 @@
 ---
 aside: false
 ---
-# Brazo-Amble
+# 🔷<soma>Brazo</soma>-Amble
 
 Aliases: ArmWalk
 

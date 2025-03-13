@@ -137,7 +137,7 @@ Beta is composed of four types, each of which can be represented by an icon:
 
 - 🔻<via>Marka</via>: Only Marka the "zag" of ZigzagCover.
 
-- 🔻<via>Marka-Error</via>: Attempt to high Marka in fill plants whenever possible. The Marka may fall to the ground, but it's worth taking the chance since a high Marka is more valuable than the time wasted from a HighMarka Fail.
+- 🔻<via>⭐<labor>Marka</labor>-Error</via>: Attempt to high Marka in fill plants whenever possible. The Marka may fall to the ground, but it's worth taking the chance since a high Marka is more valuable than the time wasted from a HighMarka Fail.
 
 - <beta>Lesson</beta>: Point out microsites so plantor can work on walking speed while not thinking about SiteSelection
     - Isolate Elements, Isolate Skills. Decompose Elements into subelements then instruct them in isolation.

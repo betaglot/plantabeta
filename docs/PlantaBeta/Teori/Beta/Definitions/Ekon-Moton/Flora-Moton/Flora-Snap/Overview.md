@@ -1,7 +1,7 @@
 ---
 aside: false
 ---
-# Flora-Snap
+# 🟩<ekos>Flora</ekos>-🟠<motor>Snap</motor>
 
 ---
 

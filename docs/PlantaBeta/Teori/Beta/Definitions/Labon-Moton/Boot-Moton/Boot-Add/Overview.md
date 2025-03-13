@@ -1,7 +1,7 @@
 ---
 aside: false
 ---
-# Boot-On
+# ⭐<labor>Boot</labor>-🟠<motor>On</motor>
 
 ---
 

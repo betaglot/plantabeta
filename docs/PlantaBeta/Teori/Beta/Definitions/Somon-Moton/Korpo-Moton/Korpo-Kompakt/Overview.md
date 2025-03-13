@@ -1,4 +1,7 @@
-# <beta>Korpo_Kompakt</beta>
+---
+aside: false
+---
+# Korpo🟠<motor>Kompakt</motor>
 
 ---
 

@@ -1,4 +1,4 @@
-# 🔻<via>ViaAnatomia</via>
+# 🔻<via>Anatomia</via>
 
 > the parts of the Element
 

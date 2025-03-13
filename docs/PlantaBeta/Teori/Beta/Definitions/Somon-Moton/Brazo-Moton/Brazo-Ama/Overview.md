@@ -1,7 +1,7 @@
 ---
 aside: false
 ---
-# Brazo-Ama
+# 🔷<soma>Brazo</soma>-🟠<motor>Ama</motor>
 
 ## BrazoAma.Problem
 

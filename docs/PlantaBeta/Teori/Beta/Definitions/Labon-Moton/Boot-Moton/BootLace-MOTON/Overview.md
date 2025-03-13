@@ -1,7 +1,7 @@
 ---
 aside: false
 ---
-# Lace-MOTON
+# Lace-🟠<motor>MOTON</motor>
 
 ## LaceMOTON.Anatomy
 

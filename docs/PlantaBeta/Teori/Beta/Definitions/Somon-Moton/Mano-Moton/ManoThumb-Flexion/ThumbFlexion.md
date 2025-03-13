@@ -1,4 +1,7 @@
-# 🟠<motor>ThumbFlexion</motor>
+---
+aside: false
+---
+# 🟠<motor>Thumb🟠<motor>Flexion</motor></motor>
 
 ---
 

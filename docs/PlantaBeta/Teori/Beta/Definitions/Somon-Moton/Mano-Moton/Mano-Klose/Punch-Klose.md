@@ -1,4 +1,7 @@
-# 🟠<motor>PunchSeal</motor>
+---
+aside: false
+---
+# Punch🟠<motor>Klose</motor>
 
 ---
 

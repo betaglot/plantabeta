@@ -1,4 +1,7 @@
-# 🟠<motor>BrantaStep</motor>
+---
+aside: false
+---
+# 🔷<soma>Korpos</soma>-🟠<motor>AmbleBranta</motor>
 
 ---
 

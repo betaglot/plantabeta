@@ -1,4 +1,7 @@
-# <beta>ManoFinger_MOTON</beta>
+---
+aside: false
+---
+# ManoFinger-MOTON
 
 ---
 

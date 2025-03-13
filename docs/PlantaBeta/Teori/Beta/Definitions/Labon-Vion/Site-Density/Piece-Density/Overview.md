@@ -1,7 +1,7 @@
 ---
 aside: false
 ---
-# ⭐<labor>PieceDensity</labor>
+# ⭐<labor>Piece</labor>-Density
 
 ---
 

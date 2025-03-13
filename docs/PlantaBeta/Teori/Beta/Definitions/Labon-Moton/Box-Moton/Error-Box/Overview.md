@@ -1,7 +1,7 @@
 ---
 aside: false
 ---
-# Box-Error
+# ⭐<labor>Box</labor>-Error
 
 ---
 

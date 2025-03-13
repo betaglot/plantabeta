@@ -1,11 +1,11 @@
 ---
 aside: false
 ---
-# Layer-MOTON
+# ⭐<labor>Layer</labor>-🟠<motor>MOTON</motor>
 
-## Layer-On
+## ⭐<labor>Layer</labor>-🟠<motor>On</motor>
 
-## Layer-Off
+## ⭐<labor>Layer</labor>-🟠<motor>Off</motor>
 
 - Roll up your back bag layer to shell from water and dirt
 

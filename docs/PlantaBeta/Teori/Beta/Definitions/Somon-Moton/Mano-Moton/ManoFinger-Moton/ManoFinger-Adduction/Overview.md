@@ -1,4 +1,7 @@
-# 🟠<motor>FingerAdduction</motor>
+---
+aside: false
+---
+# 🟠<motor>Finger🟠<motor>Adduction</motor></motor>
 
 ---
 

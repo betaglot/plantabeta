@@ -1,7 +1,7 @@
 ---
 aside: false
 ---
-# InsulationLayer-MOTON
+# ⭐<labor>InsulationLayer</labor>-🟠<motor>MOTON</motor>
 
 ---
 

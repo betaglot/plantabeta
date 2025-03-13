@@ -1,7 +1,7 @@
 ---
 aside: false
 ---
-# Karabiner-Takt
+# Karabiner-🔻<via>Takt</via>
 
 ---
 

@@ -1,7 +1,7 @@
 ---
 aside: false
 ---
-# Bundle-Mano
+# ⭐<labor>Bundle</labor>-Mano
 
 ---
 

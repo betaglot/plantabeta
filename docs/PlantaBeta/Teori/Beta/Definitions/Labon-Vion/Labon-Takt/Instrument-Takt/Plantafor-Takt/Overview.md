@@ -1,7 +1,7 @@
 ---
 aside: false
 ---
-# Plantafor-Takt
+# ⭐<labor>Plantafor</labor>-🔻<via>Takt</via>
 
 ---
 

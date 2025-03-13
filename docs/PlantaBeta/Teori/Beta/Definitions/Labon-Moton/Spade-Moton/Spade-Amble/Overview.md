@@ -1,7 +1,7 @@
 ---
 aside: false
 ---
-# Spade-Amble
+# ⭐<labor>Spade</labor>-Amble
 
 ## Attributes
 

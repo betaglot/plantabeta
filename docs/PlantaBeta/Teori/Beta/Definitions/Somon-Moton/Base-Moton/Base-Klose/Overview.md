@@ -1,7 +1,7 @@
 ---
 aside: false
 ---
-# BootKlose
+# Boot🟠<motor>Klose</motor>
 
 Aliases: FootClose
 

@@ -19,6 +19,6 @@ Brazo.Anterior.Rock.Down.Ama()
 #         self.ANIMA = ANIMA
 
 #     def __str__(self):
-#         return f"{self.Caption_ID},\n{self.Beta},\n{self.Labor},\n{self.Ekos},\n{self.Via},\n{self.MOTONs},\n{self.ANIMA}"
+#         return f"{self.Caption_ID},\n{self.Beta},\n{self.Labor},\n{self.Ekos},\n{self.VIA_},\n{self.MOTONs},\n{self.ANIMA}"
 
 # Caption()

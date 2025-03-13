@@ -1,7 +1,7 @@
 ---
 aside: false
 ---
-# Plantafor-Drag
+# ⭐<labor>Plantafor</labor>🟠<motor>Drag</motor>
 
 ---
 

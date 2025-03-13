@@ -1,7 +1,7 @@
 ---
 aside: false
 ---
-# Box-Construct
+# ⭐<labor>Box</labor>🟠<motor>Construct</motor>
 
 ---
 

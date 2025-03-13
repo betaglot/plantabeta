@@ -1,7 +1,7 @@
 ---
 aside: false
 ---
-# Truck-Error
+# ⭐<labor>Truck</labor>-Error
 
 ---
 

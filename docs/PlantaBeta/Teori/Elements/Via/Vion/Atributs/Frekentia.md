@@ -1,4 +1,4 @@
-# 🔻<via>ViaFrekentia</via>
+# 🔻<via>Frekentia</via>
 
 > the statistics of this Element
 

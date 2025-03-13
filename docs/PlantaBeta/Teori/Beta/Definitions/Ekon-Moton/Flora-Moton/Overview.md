@@ -1,7 +1,7 @@
 ---
 aside: false
 ---
-# Flora-MOTON
+# 🟩<ekos>Flora</ekos>-🟠<motor>MOTON</motor>
 
 ## FloraMOTON.Anatomy
 

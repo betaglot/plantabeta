@@ -194,7 +194,7 @@ Latin: movere
 - "MOTON.PlantorAttributes.PlantorAbility"
 - "MOTON.PlantorAttributes.PlantorSize"
 - "MOTON.RedirectMOTON"
-- "MOTON.ViaInfluenceMOTON"
+- "MOTON.VIA_InfluenceMOTON"
 - "MOTON.SlashMOTON.Overview"
 
 :::

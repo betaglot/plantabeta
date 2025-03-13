@@ -1,7 +1,7 @@
 ---
 aside: false
 ---
-# Spade-Machete
+# ⭐<labor>Spade</labor>-Machete
 
 ---
 

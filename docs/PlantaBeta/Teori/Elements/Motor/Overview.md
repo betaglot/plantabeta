@@ -11,7 +11,7 @@ A RICscore description for a single MOTON.
     - A Theoria description for a single MOTONPattern, which is composed of many MOTONs.
     - Used to compare multiple MOTONPatterns.
 
-## Unlike Via, MOTOR Pages are composed of Definitions and Propositions
+## Unlike VIA, MOTOR Pages are composed of Definitions and Propositions
 
 This is a Jump (Teorem), this is how to Jump (Problem), this is you jumping (Praktik)
 

@@ -1,7 +1,7 @@
 ---
 aside: false
 ---
-# Glove-Error
+# ⭐<labor>Glove</labor>-Error
 
 ---
 

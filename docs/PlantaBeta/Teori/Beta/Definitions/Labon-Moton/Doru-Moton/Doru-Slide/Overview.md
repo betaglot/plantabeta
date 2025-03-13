@@ -1,7 +1,7 @@
 ---
 aside: false
 ---
-# Doru-Slide
+# ⭐<labor>Doru</labor>-Slide
 
 ---
 

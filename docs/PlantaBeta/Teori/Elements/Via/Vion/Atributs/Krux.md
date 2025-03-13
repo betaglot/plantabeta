@@ -1,4 +1,4 @@
-# 🔻<via>ViaKrux</via>
+# 🔻<via>Krux</via>
 
 > the most difficult attribute of this Element
 

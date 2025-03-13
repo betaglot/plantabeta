@@ -1,4 +1,4 @@
-# 🟠 <motor>SpadeOnda</motor>
+# Spade-🟠<motor>Onda</motor>
 
 Aliases: SpadeSwing
 

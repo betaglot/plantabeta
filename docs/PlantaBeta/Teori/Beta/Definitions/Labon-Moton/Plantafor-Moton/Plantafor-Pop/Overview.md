@@ -1,7 +1,7 @@
 ---
 aside: false
 ---
-# Plantafor-Pop
+# ⭐<labor>Plantafor</labor>-🟠<motor>Pop</motor>
 
 ---
 

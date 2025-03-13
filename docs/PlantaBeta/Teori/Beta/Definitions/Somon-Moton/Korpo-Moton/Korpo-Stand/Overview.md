@@ -1,6 +1,7 @@
+---
+aside: false
+---
 # 🟠 <motor>Stand</motor>
-
-![MOTONIkon](/Ikon/Motor_Ikon.png)
 
 ---
 

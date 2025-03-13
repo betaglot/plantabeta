@@ -1,7 +1,7 @@
 ---
 aside: false
 ---
-# Spade-Stall
+# ⭐<labor>Spade</labor>🟠<motor>Stall</motor>
 
 ---
 

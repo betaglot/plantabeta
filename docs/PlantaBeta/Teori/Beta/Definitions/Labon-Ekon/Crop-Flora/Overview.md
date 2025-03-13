@@ -1,7 +1,7 @@
 ---
 aside: false
 ---
-# ⭐<labor>Crop_Flora</labor>
+# ⭐<labor>Crop</labor>-🟩<ekos>Flora</ekos>
 
 ---
 

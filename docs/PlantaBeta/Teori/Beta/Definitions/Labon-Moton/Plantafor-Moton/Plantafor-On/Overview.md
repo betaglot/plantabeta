@@ -1,7 +1,7 @@
 ---
 aside: false
 ---
-# Plantafor-On
+# ⭐<labor>Plantafor</labor>-🟠<motor>On</motor>
 
 ---
 

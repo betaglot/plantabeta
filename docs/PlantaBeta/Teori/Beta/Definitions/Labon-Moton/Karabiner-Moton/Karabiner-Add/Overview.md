@@ -1,7 +1,7 @@
 ---
 aside: false
 ---
-# Karabiner-Add
+# Karabiner-On
 
 ---
 

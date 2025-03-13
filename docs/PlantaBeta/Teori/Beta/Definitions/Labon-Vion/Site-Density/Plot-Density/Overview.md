@@ -1,7 +1,7 @@
 ---
 aside: false
 ---
-# 🔻<via>Density</via>
+# Density
 
 Density of Sites
 

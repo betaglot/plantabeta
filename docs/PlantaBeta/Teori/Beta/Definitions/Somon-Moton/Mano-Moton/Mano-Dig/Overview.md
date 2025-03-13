@@ -1,4 +1,7 @@
-# 🟠<motor>HandDig</motor>
+---
+aside: false
+---
+# 🟠<motor>Hand🟠<motor>Dig</motor></motor>
 
 ---
 
