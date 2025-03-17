@@ -126,6 +126,12 @@ function sidebarDev() {
     { text: 'Mindmap', link: '/dev/Mindmap' },
     { text: 'Offline', link: '/dev/Offline' },
     { text: 'Open Source', link: '/dev/OpenSource' },
+    { text: 'Pedagogy', link: '/dev/Pedagogy/Overview', collapsed: true, items: [
+      { text: 'TutorialDev', link: '/dev/Pedagogy/TutorialDev' },
+      { text: 'Instructor', link: '/dev/Pedagogy/Instructor' },
+      { text: 'Motel_Pedagogy', link: '/dev/Pedagogy/Motel_Pedagogy' },
+      { text: 'Shadowing', link: '/dev/Pedagogy/Shadowing' },
+    ]},
     { text: 'PaperPhoto', link: '/dev/PaperPhoto' },
     { text: 'Podcast', link: '/dev/Podcast' },
     { text: 'Pylanter', link: '/dev/Pylanter' },
