@@ -1,3 +1,6 @@
+---
+aside: false
+---
 # 💜 <anima>Attention</anima>
 
 ## Differences between Experience and Attention

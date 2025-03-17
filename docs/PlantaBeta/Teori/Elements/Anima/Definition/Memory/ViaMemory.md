@@ -1,3 +1,6 @@
+---
+aside: false
+---
 # <anima>VIA-Memory</anima>
 
 ## Marka is a Mnemonic for ViaMemory

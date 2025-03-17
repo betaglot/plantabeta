@@ -9,12 +9,7 @@ Aliases: Reactive Spacing, Responsive Spacing, Flexible Spacing
 ## BetaGraph
 
 Graph which represents how this element is related to other elements in PlantaBeta.
-<iframe
-    width="100%"
-    height="684"
-    frameborder="0"
-    src="https://observablehq.com/embed/@d3/force-directed-graph/2?cells=chart"
-></iframe>
+
 
 ## EkoElements
 

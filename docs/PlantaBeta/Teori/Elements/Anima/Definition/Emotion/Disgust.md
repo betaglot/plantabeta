@@ -1,6 +1,7 @@
+---
+aside: false
+---
 # 💜 <anima>Disgust </anima>
-
-![Anima_Ikon](/Ikon/Anima_Ikon.png)
 
 ---
 

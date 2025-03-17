@@ -75,15 +75,15 @@ function nav() {
       activeMatch: '/tutorial/'
     },
     {
-      text: '[ TEORI ]',
+      text: '🌈 <beta>TEORI</beta>',
       link: '/PlantaBeta/Teori/TeoriOverview',
       activeMatch: '/PlantaBeta/Teori/'
     },
-    {
-      text: '[ PRAKTIK ]',
-      link: '/PlantaBeta/Praktik/Praktik_Overview',
-      activeMatch: '/PlantaBeta/Praktik/'
-    },
+    // {
+    //   text: '🌈 PRAKTIK',
+    //   link: '/PlantaBeta/Praktik/Praktik_Overview',
+    //   activeMatch: '/PlantaBeta/Praktik/'
+    // },
     {
       text: 'About',
       link: '/about/AboutOverview',
@@ -126,12 +126,14 @@ function sidebarDev() {
     { text: 'Mindmap', link: '/dev/Mindmap' },
     { text: 'Offline', link: '/dev/Offline' },
     { text: 'Open Source', link: '/dev/OpenSource' },
-    { text: 'Pedagogy', link: '/dev/Pedagogy/Overview', collapsed: true, items: [
-      { text: 'TutorialDev', link: '/dev/Pedagogy/TutorialDev' },
-      { text: 'Instructor', link: '/dev/Pedagogy/Instructor' },
-      { text: 'Motel_Pedagogy', link: '/dev/Pedagogy/Motel_Pedagogy' },
-      { text: 'Shadowing', link: '/dev/Pedagogy/Shadowing' },
-    ]},
+    {
+      text: 'Pedagogy', link: '/dev/Pedagogy/Overview', collapsed: true, items: [
+        { text: 'TutorialDev', link: '/dev/Pedagogy/TutorialDev' },
+        { text: 'Instructor', link: '/dev/Pedagogy/Instructor' },
+        { text: 'Motel_Pedagogy', link: '/dev/Pedagogy/Motel_Pedagogy' },
+        { text: 'Shadowing', link: '/dev/Pedagogy/Shadowing' },
+      ]
+    },
     { text: 'PaperPhoto', link: '/dev/PaperPhoto' },
     { text: 'Podcast', link: '/dev/Podcast' },
     { text: 'Pylanter', link: '/dev/Pylanter' },
@@ -195,12 +197,12 @@ function sidebarTEORI() {
   return [
     { text: '<strong>TEORI</strong>', link: '/PlantaBeta/Teori/Elements/TeoriOverview' },
     // # BETOMIKS
-    { text: 'SISTEM', link: '/PlantaBeta/Teori/Sistem/SistemOverview' },
-    { text: 'ELEMENTS', link: '/PlantaBeta/Teori/Elements/ElementsOverview' },
+    { text: '🌈 SISTEM', link: '/PlantaBeta/Teori/Sistem/SistemOverview' },
+    { text: '🌈 ELEMENTS', link: '/PlantaBeta/Teori/Elements/ElementsOverview' },
     { text: '🌈 <beta>BETA</beta>', link: '/PlantaBeta/Teori/Beta/BetaOverview' },
-    { text: 'KOMPOSITION', link: '' },
-    { text: 'BETOMIKS', link: '/PlantaBeta/Teori/Betomiks/BetomiksOverview', },
-    { text: 'LEXIKON', link: '/PlantaBeta/Teori/Elements/glossary/Glossary' },
+    { text: '🌈 KOMPOSITION', link: '' },
+    { text: '🌈 BETOMIKS', link: '/PlantaBeta/Teori/Betomiks/BetomiksOverview', },
+    { text: '🌈 LEXIKON', link: '/PlantaBeta/Teori/Elements/glossary/Glossary' },
   ]
 }
 // Betomiks
@@ -470,10 +472,48 @@ function sidebarElements() {
           ]
         },
         { text: '<via>Axioms</via>', link: '/PlantaBeta/Teori/Elements/Via/Axiom/Overview', collapsed: true, items: [] },
-        { text: '<via>Definitions</via>', link: '/PlantaBeta/Teori/Elements/Via/Definition/Overview', collapsed: true, items: [] },
+        {
+          text: '<via>Definitions</via>', link: '/PlantaBeta/Teori/Elements/Via/Definition/Overview', collapsed: true, items: [
+            { text: '🔻<via>Density</via>', link: '/PlantaBeta/Teori/Elements/Via/Definition/Density/Overview' },
+            {
+              text: '🔻<via>Direction</via>', link: '/PlantaBeta/Teori/Elements/Via/Definition/Direction/Overview', collapsed: true, items: [
+                { text: '🔻<via>Direction_Cardinal</via>', link: '/PlantaBeta/Teori/Elements/Via/Definition/Direction/DirectionCardinal' },
+
+              ]
+            },
+            { text: '🔻<via>Displacement</via>', link: '/PlantaBeta/Teori/Elements/Via/Definition/Displacement/Overview' },
+            { text: '🔻<via>Distance</via>', link: '/PlantaBeta/Teori/Elements/Via/Definition/Distance/Overview' },
+            { text: '🔻<via>Div</via>', link: '/PlantaBeta/Teori/Elements/Via/Definition/Div/Overview' },
+            { text: '🔻<via>Limit</via>', link: '/PlantaBeta/Teori/Elements/Via/Definition/Limit/Overview' },
+            { text: '🔻<via>Line</via>', link: '/PlantaBeta/Teori/Elements/Via/Definition/Line/Overview' },
+            { text: '🔻<via>Orientation</via>', link: '/PlantaBeta/Teori/Elements/Via/Definition/Orientation/Overview' },
+            { text: '🔻<via>Point</via>', link: '/PlantaBeta/Teori/Elements/Via/Definition/Point/Overview' },
+            { text: '🔻<via>Takt</via>', link: '/PlantaBeta/Teori/Elements/Via/Definition/Takt/Overview' },
+            { text: '🔻<via>Time</via>', link: '/PlantaBeta/Teori/Elements/Via/Definition/Time/Overview' },
+            { text: '🔻<via>Zone</via>', link: '/PlantaBeta/Teori/Elements/Via/Definition/Zone/Overview' }
+          ]
+        },
         {
           text: '<via>Propositions</via>', link: '/PlantaBeta/Teori/Elements/Via/Proposition/Overview', collapsed: true, items: [
-            { text: '<via>Teorem</via>', link: '/PlantaBeta/Teori/Elements/Via/Proposition/Teorem/Overview', collapsed: true, items: [] },
+            {
+              text: '<via>Teorem</via>', link: '/PlantaBeta/Teori/Elements/Via/Proposition/Teorem/Overview', collapsed: true, items: [
+                {
+                  text: '🔻<via>Direction_Relative</via>', link: '/PlantaBeta/Teori/Elements/Via/Proposition/Teorem/DirectionRelative/Overview', collapsed: true, items: [
+                    { text: '🔻<via>Dia</via>', link: '/PlantaBeta/Teori/Elements/Via/Proposition/Teorem/DirectionRelative/DirectionDia' },
+                    { text: '🔻<via>Egress</via>', link: '/PlantaBeta/Teori/Elements/Via/Proposition/Teorem/DirectionRelative/DirectionEgress' },
+                    { text: '🔻<via>Ekto</via>', link: '/PlantaBeta/Teori/Elements/Via/Proposition/Teorem/DirectionRelative/DirectionEkto' },
+                    { text: '🔻<via>In</via>', link: '/PlantaBeta/Teori/Elements/Via/Proposition/Teorem/DirectionRelative/DirectionIn' },
+                    { text: '🔻<via>On</via>', link: '/PlantaBeta/Teori/Elements/Via/Proposition/Teorem/DirectionRelative/DirectionOn' },
+                    { text: '🔻<via>Over</via>', link: '/PlantaBeta/Teori/Elements/Via/Proposition/Teorem/DirectionRelative/DirectionOver' },
+                    { text: '🔻<via>Para</via>', link: '/PlantaBeta/Teori/Elements/Via/Proposition/Teorem/DirectionRelative/DirectionPara' },
+                    { text: '🔻<via>Peri</via>', link: '/PlantaBeta/Teori/Elements/Via/Proposition/Teorem/DirectionRelative/DirectionPeri' },
+                    { text: '🔻<via>Progress</via>', link: '/PlantaBeta/Teori/Elements/Via/Proposition/Teorem/DirectionRelative/DirectionProgress' },
+                    { text: '🔻<via>Proximal</via>', link: '/PlantaBeta/Teori/Elements/Via/Proposition/Teorem/DirectionRelative/DirectionProximal' },
+                    { text: '🔻<via>Regress</via>', link: '/PlantaBeta/Teori/Elements/Via/Proposition/Teorem/DirectionRelative/DirectionRegress' },
+                  ]
+                },
+              ]
+            },
             { text: '<via>Problem</via>', link: '/PlantaBeta/Teori/Elements/Via/Proposition/Problem/Overview', collapsed: true, items: [] },
           ]
         },
@@ -489,7 +529,65 @@ function sidebarElements() {
           ]
         },
         { text: '<motor>Axioms</motor>', link: '/PlantaBeta/Teori/Elements/Motor/Axiom/Overview', collapsed: true, items: [] },
-        { text: '<motor>Definitions</motor>', link: '/PlantaBeta/Teori/Elements/Motor/Definition/Overview', collapsed: true, items: [] },
+        {
+          text: '<motor>Definitions</motor>', link: '/PlantaBeta/Teori/Elements/Motor/Definition/Overview', collapsed: true, items: [
+            { text: '<motor>MotonPlane</motor>', link: '/PlantaBeta/Teori/Elements/Motor/Definition/MotonPlane/Overview', collapsed: true, items: [] },
+            {
+              text: '<motor>MotonType</motor>', link: '/PlantaBeta/Teori/Elements/Motor/Definition/MotonType/Overview', collapsed: true, items: [
+                { text: '🟠<motor>Abduction</motor>', link: '/PlantaBeta/Teori/Elements/Motor/Definition/MotonType/Abduction' },
+                { text: '🟠<motor>Absorb</motor>', link: '/PlantaBeta/Teori/Elements/Motor/Definition/MotonType/Absorb' },
+                { text: '🟠<motor>Adduction</motor>', link: '/PlantaBeta/Teori/Elements/Motor/Definition/MotonType/Adduction' },
+                { text: '🟠<motor>Adjust</motor>', link: '/PlantaBeta/Teori/Elements/Motor/Definition/MotonType/Adjust' },
+                { text: '🟠<motor>Allo</motor>', link: '/PlantaBeta/Teori/Elements/Motor/Definition/MotonType/Allo' },
+                { text: '🟠<motor>Ama</motor>', link: '/PlantaBeta/Teori/Elements/Motor/Definition/MotonType/Ama' },
+                { text: '🟠<motor>Ankor</motor>', link: '/PlantaBeta/Teori/Elements/Motor/Definition/MotonType/Ankor' },
+                { text: '🟠<motor>Aspis</motor>', link: '/PlantaBeta/Teori/Elements/Motor/Definition/MotonType/Aspis' },
+                { text: '🟠<motor>Ballista</motor>', link: '/PlantaBeta/Teori/Elements/Motor/Definition/MotonType/Ballista' },
+                { text: '🟠<motor>Catch</motor>', link: '/PlantaBeta/Teori/Elements/Motor/Definition/MotonType/Catch' },
+                { text: '🟠<motor>Clean</motor>', link: '/PlantaBeta/Teori/Elements/Motor/Definition/MotonType/Clean' },
+                { text: '🟠<motor>Construct</motor>', link: '/PlantaBeta/Teori/Elements/Motor/Definition/MotonType/Construct' },
+                { text: '🟠<motor>Crawl</motor>', link: '/PlantaBeta/Teori/Elements/Motor/Definition/MotonType/Crawl' },
+                { text: '🟠<motor>Dig</motor>', link: '/PlantaBeta/Teori/Elements/Motor/Definition/MotonType/Dig' },
+                { text: '🟠<motor>Drag</motor>', link: '/PlantaBeta/Teori/Elements/Motor/Definition/MotonType/Drag' },
+                { text: '🟠<motor>Drop</motor>', link: '/PlantaBeta/Teori/Elements/Motor/Definition/MotonType/Drop' },
+                { text: '🟠<motor>Eval</motor>', link: '/PlantaBeta/Teori/Elements/Motor/Definition/MotonType/Eval' },
+                { text: '🟠<motor>Fall</motor>', link: '/PlantaBeta/Teori/Elements/Motor/Definition/MotonType/Fall' },
+                { text: '🟠<motor>Flexion</motor>', link: '/PlantaBeta/Teori/Elements/Motor/Definition/MotonType/Flexion' },
+                { text: '🟠<motor>Hinge</motor>', link: '/PlantaBeta/Teori/Elements/Motor/Definition/MotonType/Hinge' },
+                { text: '🟠<motor>Hook</motor>', link: '/PlantaBeta/Teori/Elements/Motor/Definition/MotonType/Hook' },
+                { text: '🟠<motor>Insert</motor>', link: '/PlantaBeta/Teori/Elements/Motor/Definition/MotonType/Insert' },
+                { text: '🟠<motor>Klose</motor>', link: '/PlantaBeta/Teori/Elements/Motor/Definition/MotonType/Klose' },
+                { text: '🟠<motor>Knot</motor>', link: '/PlantaBeta/Teori/Elements/Motor/Definition/MotonType/Knot' },
+                { text: '🟠<motor>Kompakt</motor>', link: '/PlantaBeta/Teori/Elements/Motor/Definition/MotonType/Kompakt' },
+                { text: '🟠<motor>Kompress</motor>', link: '/PlantaBeta/Teori/Elements/Motor/Definition/MotonType/Kompress' },
+                { text: '🟠<motor>Kontakt</motor>', link: '/PlantaBeta/Teori/Elements/Motor/Definition/MotonType/Kontakt' },
+                { text: '🟠<motor>Launch</motor>', link: '/PlantaBeta/Teori/Elements/Motor/Definition/MotonType/Launch' },
+                { text: '🟠<motor>Lift</motor>', link: '/PlantaBeta/Teori/Elements/Motor/Definition/MotonType/Lift' },
+                { text: '🟠<motor>Load</motor>', link: '/PlantaBeta/Teori/Elements/Motor/Definition/MotonType/Load' },
+                { text: '🟠<motor>Machete</motor>', link: '/PlantaBeta/Teori/Elements/Motor/Definition/MotonType/Machete' },
+                { text: '🟠<motor>Onda</motor>', link: '/PlantaBeta/Teori/Elements/Motor/Definition/MotonType/Onda' },
+                { text: '🟠<motor>Orbit</motor>', link: '/PlantaBeta/Teori/Elements/Motor/Definition/MotonType/Orbit' },
+                { text: '🟠<motor>Parry</motor>', link: '/PlantaBeta/Teori/Elements/Motor/Definition/MotonType/Parry' },
+                { text: '🟠<motor>Pop</motor>', link: '/PlantaBeta/Teori/Elements/Motor/Definition/MotonType/Pop' },
+                { text: '🟠<motor>Preserve</motor>', link: '/PlantaBeta/Teori/Elements/Motor/Definition/MotonType/Preserve' },
+                { text: '🟠<motor>Purga</motor>', link: '/PlantaBeta/Teori/Elements/Motor/Definition/MotonType/Purga' },
+                { text: '🟠<motor>Reach</motor>', link: '/PlantaBeta/Teori/Elements/Motor/Definition/MotonType/Reach' },
+                { text: '🟠<motor>Rip</motor>', link: '/PlantaBeta/Teori/Elements/Motor/Definition/MotonType/Rip' },
+                { text: '🟠<motor>Rotation</motor>', link: '/PlantaBeta/Teori/Elements/Motor/Definition/MotonType/Rotation' },
+                { text: '🟠<motor>Skreef</motor>', link: '/PlantaBeta/Teori/Elements/Motor/Definition/MotonType/Skreef' },
+                { text: '🟠<motor>Slam</motor>', link: '/PlantaBeta/Teori/Elements/Motor/Definition/MotonType/Slam' },
+                { text: '🟠<motor>Slot</motor>', link: '/PlantaBeta/Teori/Elements/Motor/Definition/MotonType/Slot' },
+                { text: '🟠<motor>Snap</motor>', link: '/PlantaBeta/Teori/Elements/Motor/Definition/MotonType/Snap' },
+                { text: '🟠<motor>Stack</motor>', link: '/PlantaBeta/Teori/Elements/Motor/Definition/MotonType/Stack' },
+                { text: '🟠<motor>Stall</motor>', link: '/PlantaBeta/Teori/Elements/Motor/Definition/MotonType/Stall' },
+                { text: '🟠<motor>Substitute</motor>', link: '/PlantaBeta/Teori/Elements/Motor/Definition/MotonType/Substitute' },
+                { text: '🟠<motor>Tangent</motor>', link: '/PlantaBeta/Teori/Elements/Motor/Definition/MotonType/Tangent' },
+                { text: '🟠<motor>Transport</motor>', link: '/PlantaBeta/Teori/Elements/Motor/Definition/MotonType/Transport' },
+                { text: '🟠<motor>Wrap</motor>', link: '/PlantaBeta/Teori/Elements/Motor/Definition/MotonType/Wrap' },
+              ]
+            },
+          ]
+        },
         {
           text: '<motor>Propositions</motor>', link: '/PlantaBeta/Teori/Elements/Motor/Proposition/Overview', collapsed: true, items: [
             { text: '<motor>Teorem</motor>', link: '/PlantaBeta/Teori/Elements/Motor/Proposition/Teorem/Overview', collapsed: true, items: [] },
@@ -508,7 +606,54 @@ function sidebarElements() {
           ]
         },
         { text: '<anima>Axioms</anima>', link: '/PlantaBeta/Teori/Elements/Anima/Axiom/Overview', collapsed: true, items: [] },
-        { text: '<anima>Definitions</anima>', link: '/PlantaBeta/Teori/Elements/Anima/Definition/Overview', collapsed: true, items: [] },
+        {
+          text: '<anima>Definitions</anima>', link: '/PlantaBeta/Teori/Elements/Anima/Definition/Overview', collapsed: true, items: [
+            { text: '💜<anima>Attention</anima>', link: '/PlantaBeta/Teori/Elements/Anima/Definition/Attention/Overview' },
+            { text: '💜<anima>Awareness</anima>', link: '/PlantaBeta/Teori/Elements/Anima/Definition/Awareness/Overview' },
+            {
+              text: '<anima>Cognition</anima>', link: '/PlantaBeta/Teori/Elements/Anima/Definition/Cognition/Overview', collapsed: true, items: [
+                { text: '💜<anima>Affordance</anima>', link: '/PlantaBeta/Teori/Elements/Anima/Definition/Cognition/Affordance/Overview' },
+                { text: '💜<anima>Compassion</anima>', link: '/PlantaBeta/Teori/Elements/Anima/Definition/Cognition/Compassion/Overview' },
+                { text: '💜<anima>ControlFlow</anima>', link: '/PlantaBeta/Teori/Elements/Anima/Definition/Cognition/ControlFlow/Overview' },
+                { text: '💜<anima>Counting</anima>', link: '/PlantaBeta/Teori/Elements/Anima/Definition/Cognition/Counting/Overview' },
+                { text: '💜<anima>Decision</anima>', link: '/PlantaBeta/Teori/Elements/Anima/Definition/Cognition/Decision/Overview' },
+                { text: '💜<anima>Estimation</anima>', link: '/PlantaBeta/Teori/Elements/Anima/Definition/Cognition/Estimation/Overview' },
+                { text: '💜<anima>Identification</anima>', link: '/PlantaBeta/Teori/Elements/Anima/Definition/Cognition/Identification/Overview' },
+                { text: '💜<anima>Judgement</anima>', link: '/PlantaBeta/Teori/Elements/Anima/Definition/Cognition/Judgement/Overview' },
+                { text: '💜<anima>Resilience</anima>', link: '/PlantaBeta/Teori/Elements/Anima/Definition/Cognition/Resilience/Overview' },
+              ]
+            },
+            { text: '💜<anima>Effort</anima>', link: '/PlantaBeta/Teori/Elements/Anima/Definition/Effort/Overview' },
+            { text: '💜<anima>Emotion</anima>', link: '/PlantaBeta/Teori/Elements/Anima/Definition/Emotion/Overview' },
+            { text: '💜<anima>Event</anima>', link: '/PlantaBeta/Teori/Elements/Anima/Definition/Event/Overview' },
+            { text: '💜<anima>Learning</anima>', link: '/PlantaBeta/Teori/Elements/Anima/Definition/Learning/Overview' },
+            { text: '💜<anima>Memory</anima>', link: '/PlantaBeta/Teori/Elements/Anima/Definition/Memory/Overview' },
+            { text: '💜<anima>Mindset</anima>', link: '/PlantaBeta/Teori/Elements/Anima/Definition/Mindset/Overview' },
+            {
+              text: '<anima>MindState</anima>', link: '/PlantaBeta/Teori/Elements/Anima/Definition/MindState/Overview', collapsed: true, items: [
+                { text: '💜<anima>Arousal</anima>', link: '/PlantaBeta/Teori/Elements/Anima/Definition/MindState/Arousal/Overview' },
+                { text: '💜<anima>Confidence</anima>', link: '/PlantaBeta/Teori/Elements/Anima/Definition/MindState/Confidence/Overview' },
+                { text: '💜<anima>Mindfulness</anima>', link: '/PlantaBeta/Teori/Elements/Anima/Definition/MindState/Mindfulness/Overview' },
+
+              ]
+            },
+            {
+              text: '<anima>Senses</anima>', link: '/PlantaBeta/Teori/Elements/Anima/Definition/Sense/Overview', collapsed: true, items: [
+                { text: '💜<anima>AuditorySense</anima>', link: '/PlantaBeta/Teori/Elements/Anima/Definition/Sense/AuditorySense/Overview' },
+                { text: '💜<anima>CompressionSense</anima>', link: '/PlantaBeta/Teori/Elements/Anima/Definition/Sense/CompressionSense/Overview' },
+                { text: '💜<anima>DangerSense</anima>', link: '/PlantaBeta/Teori/Elements/Anima/Definition/Sense/DangerSense/Overview' },
+                { text: '💜<anima>Proprioception</anima>', link: '/PlantaBeta/Teori/Elements/Anima/Definition/Sense/Proprioception/Overview' },
+                { text: '💜<anima>SpatialSense</anima>', link: '/PlantaBeta/Teori/Elements/Anima/Definition/Sense/SpatialSense/Overview' },
+                { text: '💜<anima>TimeSense</anima>', link: '/PlantaBeta/Teori/Elements/Anima/Definition/Sense/TimeSense/Overview' },
+              ]
+            },
+
+
+
+
+
+          ]
+        },
         {
           text: '<anima>Propositions</anima>', link: '/PlantaBeta/Teori/Elements/Anima/Proposition/Overview', collapsed: true, items: [
             { text: '<anima>Teorem</anima>', link: '/PlantaBeta/Teori/Elements/Anima/Proposition/Teorem/Overview', collapsed: true, items: [] },
@@ -688,7 +833,9 @@ function sidebarBeta() {
           ]
         },
         { text: '⭐-🟠-💜', link: '/PlantaBeta/Teori/Beta/Definitions/Labon-Moton-Animon/Overview', collapsed: true, items: [] },
-        { text: '⭐-💜', link: '/PlantaBeta/Teori/Beta/Definitions/Labon-Animon/Overview', collapsed: true, items: [] },
+        { text: '⭐-💜', link: '/PlantaBeta/Teori/Beta/Definitions/Labon-Animon/Overview', collapsed: true, items: [
+          { text: '🌈 Spade-Audio', link: '/PlantaBeta/Teori/Beta/Definitions/Labon-Animon/Spade-Audio' },
+        ] },
         { text: '🔷-🟩', link: '/PlantaBeta/Teori/Beta/Definitions/Somon-Ekon/Overview', collapsed: true, items: [] },
         { text: '🔷-🟩-🔻', link: '/PlantaBeta/Teori/Beta/Definitions/Somon-Ekon-Vion/Overview', collapsed: true, items: [] },
         { text: '🔷-🟩-🔻-🟠', link: '/PlantaBeta/Teori/Beta/Definitions/Somon-Ekon-Vion-Moton/Overview', collapsed: true, items: [] },
@@ -762,6 +909,14 @@ function sidebarBeta() {
         { text: '🟩-🟠-💜', link: '/PlantaBeta/Teori/Beta/Definitions/Ekon-Moton-Animon/Overview', collapsed: true, items: [] },
         {
           text: '🟩-💜', link: '/PlantaBeta/Teori/Beta/Definitions/Ekon-Animon/Overview', collapsed: true, items: [
+            {
+              text: '🌈 Ekon-Audio', link: '/PlantaBeta/Teori/Beta/Definitions/Ekon-Animon/Overview', collapsed: true, items: [
+                { text: '🌈 Branch-Audio', link: '/PlantaBeta/Teori/Beta/Definitions/Ekon-Animon/Branch-Audio' },
+                { text: '🌈 Log-Audio', link: '/PlantaBeta/Teori/Beta/Definitions/Ekon-Animon/Log-Audio' },
+                { text: '🌈 Slash-Audio', link: '/PlantaBeta/Teori/Beta/Definitions/Ekon-Animon/Slash-Audio' },
+                { text: '🌈 Soil-Audio', link: '/PlantaBeta/Teori/Beta/Definitions/Ekon-Animon/Soil-Audio' },
+              ]
+            },
             { text: '🌈 Flora-Emotion', link: '/PlantaBeta/Teori/Beta/Definitions/Ekon-Animon/Flora-Emotion/Overview' },
             { text: '🌈 Flora-Identification', link: '/PlantaBeta/Teori/Beta/Definitions/Ekon-Animon/Flora-Identification/Overview' },
           ]

@@ -1,6 +1,8 @@
+---
+aside: false
+---
 # <anima>Working Memory</anima>
 
-![Anima_Ikon](/Ikon/Anima_Ikon.png)
 
 ---
 

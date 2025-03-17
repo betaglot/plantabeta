@@ -1,7 +1,7 @@
 ---
 aside: false
 ---
-# 🟠<move>Construct</move>
+# 🟠<motor>Construct</motor>
 
 ---
 

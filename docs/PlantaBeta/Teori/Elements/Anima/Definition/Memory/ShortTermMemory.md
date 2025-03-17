@@ -1,6 +1,8 @@
+---
+aside: false
+---
 # <anima>Short Term Memory</anima>
 
-![Anima_Ikon](/Ikon/Anima_Ikon.png)
 
 ---
 

@@ -1,6 +1,7 @@
-# 💜 <anima>Anger </anima>
-
-![Anima_Ikon](/Ikon/Anima_Ikon.png)
+---
+aside: false
+---
+# 💜 <anima>Anger</anima>
 
 ---
 

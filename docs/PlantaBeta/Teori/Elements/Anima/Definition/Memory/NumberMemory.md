@@ -1,4 +1,6 @@
-
+---
+aside: false
+---
 # <anima>Number Memory</anima>
 
 ## Mnemonics

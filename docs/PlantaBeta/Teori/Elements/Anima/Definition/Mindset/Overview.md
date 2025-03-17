@@ -1,3 +1,6 @@
+---
+aside: false
+---
 # 💜<anima>Mindset</anima>
 
 ## Beginner's Mindset
@@ -9,3 +12,16 @@ How to Enhance Performance & Learning by Applying a Growth Mindset | Huberman La
 <https://www.youtube.com/watch?v=aQDOU3hPci0>
 
 ## Stress is enhancing Mindset
+
+---
+
+<!-- =================================================== -->
+<!-- =================================================== -->
+<!-- =================================================== -->
+<!-- =================================================== -->
+<!-- =================================================== -->
+::: details 🛠
+
+-
+
+:::

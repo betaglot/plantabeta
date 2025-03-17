@@ -1,6 +1,7 @@
+---
+aside: false
+---
 # <anima>Long Term Memory</anima>
-
-![Anima_Ikon](/Ikon/Anima_Ikon.png)
 
 ---
 

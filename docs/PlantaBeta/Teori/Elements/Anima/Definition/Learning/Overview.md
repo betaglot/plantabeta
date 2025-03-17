@@ -1,3 +1,6 @@
+---
+aside: false
+---
 # 💜 <anima>Learning</anima>
 
 ---
