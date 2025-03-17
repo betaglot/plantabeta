@@ -255,7 +255,7 @@ function sidebarElements() {
         },
         {
           text: '<labor>Definitions</Labor>', link: '/PlantaBeta/Teori/Elements/Labor/Definition/Overview', collapsed: true, items: [
-            { text: '⭐<labor>Cache</labor>', link: '//PlantaBeta/Teori/Elements/Labor/Definition/Cache/Overview', collapsed: true, items: [] },
+            { text: '⭐<labor>Cache</labor>', link: '/PlantaBeta/Teori/Elements/Labor/Definition/Cache/Overview', collapsed: true, items: [] },
             { text: '⭐<labor>Crop</labor>', link: '/PlantaBeta/Teori/Elements/Labor/Definition/Crop/Overview', collapsed: true, items: [] },
             {
               text: '⭐<labor>Instrument</labor>', link: '/PlantaBeta/Teori/Elements/Labor/Definition/Instrument/Overview', collapsed: true, items: [
