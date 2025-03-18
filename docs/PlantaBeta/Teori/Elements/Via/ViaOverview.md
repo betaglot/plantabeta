@@ -8,6 +8,10 @@
 
 > Inverted Red Triangle
 
+```py
+🔻
+```
+
 ## <via>What is VIA ?</via>
 
 > the interface between MOTOR, ANIMA and EKOS
@@ -46,54 +50,31 @@ Road, Path, Route, through, using, composed of
 
 :::
 
-## <via>What is a VION?</via>
-
-```py
-🔻
-```
-
-- VIA Object
-- VIA Property
-- VIA Method
-
-## <via>What are VIA Objects?</via>
-
-## <via>What are VIA Attributes?</via>
-
-## <via>What are VIA Methods?</via>
-
-### VIA must be easily attainable
-
-Flying through air from hole to hole is possible but not attainable.
-
-There's no point in thinking about paths which won't work
-
-Not worth the trouble
-
-### Inter
-
-- Interact
-- Interface
-    - VIA is the interface between <ekos>EKOS</ekos> and <motor>MOTON</motor>
-    - VIA is the interface between <ekos>EKOS</ekos> and <anima>ANIMA</anima>
-- Interpolate
-    - Most ViaGeometry is interpolated.
-
-### "By way of"
-
-> "Be able to because of"
 ---
-> MOTON VIA EKO
----
-> "Move by way of the land"
----
-> "Use that branch to pull yourself up"
 
-- Computational Geometry
-- VIA is an abstract layer on top of Eko. A via is where the Plantor
-- A VIA starts and finishes at the Cache.
+::: details Examples of <via>VIA</via> in everyday life
 
-### Purpose of VIA
+- while driving a car
+    - Lanes on a highway
+    - knowing if there's enough time to cross the street before a car passes
+    - knowing if there's enough time to pass a car before the passing lane ends
+
+- while Playing Sports
+    - Lines on a basketball court
+    - getting "open" for a pass in soccer
+
+- while walking in urban areas
+    - walking through a crowd without collisions
+    - slowing down to prevent a collision at an intersection
+
+- following footsteps in deep snow
+- standing out of the way of a door when you open it
+
+:::
+
+## <via>Affordance</via>
+
+### <via>Purpose of VIA</via>
 
 - Minimize Deadwalking
 - To be able to have a detailed mental model of your land, so that you can plan how you're going to Cover your lang.
@@ -108,21 +89,7 @@ Also Known As "Land Management"
 
 > the use of a particular path or direction for something to travel or be placed
 
-## "Cover" instead of "Fill"
-
-FillPlant
-
-"Cover" is a verb, "Fill" is a noun.
-
-## VIA Scope
-
-PieceCover > AreaCover > Line > ViaPoint
-
-## Direction
-
-Directions
-
-## $$$
+## 🔻<via>VIA</via> affects ⭐<labor>LABOR</labor>
 
 - VIA Affects productivity the most because via has deadwalking and cache positioning. VIA Starts and Finishes at the cache.
 

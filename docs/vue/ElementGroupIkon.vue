@@ -1,11 +1,11 @@
 <template>
-  <a :href=imageLink>
-  <v-container class="d-flex justify-center w-50">
-      <v-img class=""
+  <a class="text-decoration-none" :href=imageLink>
+    <v-container class="d-flex justify-center w-50 " >
+      <v-img class="rounded-xl"
              cover
              :src=imageSource></v-img>
-  </v-container>
-</a>
+    </v-container>
+  </a>
 </template>
 
 <script setup>

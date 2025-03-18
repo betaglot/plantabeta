@@ -18,7 +18,23 @@ Latin: movere
 
 :::
 
-## <motor>What is a MOTON?</motor>
+---
+
+::: details Examples of <ekos>EKOS</ekos> in everyday life
+
+- while driving a car
+    - the road
+    - being blown off the road by wind
+    - losing traction when the road is wet
+    - a road too steep to drive up
+
+- while playing sports
+    - the grass
+    - a clay court or grass court in tennis
+
+- while walking in urban areas
+
+:::
 
 ---
 

@@ -1,12 +1,19 @@
+--- 
+aside: false
+---
+
 <script setup>
 import ElementGroupIkon from '/vue/ElementGroupIkon.vue'
+import BTitle from '/vue/BTitle.vue'
 </script>
 
-# TEORI
+# <h1 class="d-flex justify-center bg">TEORI</h1>
 
-## [SISTEM](/PlantaBeta/Teori/Sistem/SistemOverview)
+> Teori is
 
-## [Element Groups](/PlantaBeta/Teori/Elements/ElementsOverview)
+<BTitle link="/PlantaBeta/Teori/Sistem/SistemOverview">SISTEM</BTitle>
+
+<BTitle link="/PlantaBeta/Teori/Elements/ElementsOverview">Element Groups</BTitle>
 
 :::raw
 <ElementGroupIkon imageLink="/PlantaBeta/Teori/Elements/Labor/LaborOverview" imageSource='/Ikon/Labor_Ikon.png'/>
@@ -42,13 +49,11 @@ import ElementGroupIkon from '/vue/ElementGroupIkon.vue'
 <ElementGroupIkon imageLink="/PlantaBeta/Teori/Elements/Anima/AnimaOverview" imageSource='/Ikon/Anima_Ikon.png'/>
 :::
 
-## [🌈<beta>BETA</beta>](/PlantaBeta/Teori/Beta/BetaOverview)
+<BTitle link="/PlantaBeta/Teori/Beta/BetaOverview">🌈<beta>BETA</beta></BTitle>
 
-## [KOMPOSITION](/PlantaBeta/Teori/Komposition/KompositionOverview)
+<BTitle link="/PlantaBeta/Teori/Komposition/KompositionOverview">KOMPOSITION</BTitle>
 
-## [BETOMIKS](/PlantaBeta/Teori/Betomiks/BetomiksOverview)
-
-C:\Users\chris\plantabeta\docs\PlantaBeta\Teori\Betomiks\BetomiksOverview.md
+<BTitle link="/PlantaBeta/Teori/Betomiks/BetomiksOverview">BETOMIKS</BTitle>
 
 ---
 

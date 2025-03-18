@@ -23,6 +23,19 @@ The word "<ekos>EKOS</ekos>system" was derived from <ekos>eco</ekos>logy
 
 ---
 
+::: details Examples of <ekos>EKOS</ekos> in everyday life
+
+- while driving a car
+    - 
+
+- while playing sports
+
+- while walking in urban areas
+
+:::
+
+---
+
 <!-- =================================================== -->
 <!-- =================================================== -->
 <!-- =================================================== -->

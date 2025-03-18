@@ -4,6 +4,23 @@
 
 Aliases: Work, Job, Task
 
+::: details Examples of <labor>LABOR</labor> in everyday life
+
+- while driving a car
+    - a stop sign
+    - stop lights
+
+- while playing sports
+    - the rules of a game
+    - scoring system of a game
+    - the start and finish lines
+    - the try zones in rugby
+
+- while walking in urban areas
+    - pedestrian cross walk lights
+
+:::
+
 ---
 
 <!-- =================================================== -->
