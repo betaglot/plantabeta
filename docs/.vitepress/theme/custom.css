@@ -8,6 +8,14 @@
 
 }
 
+.VPNavBarTitle span {
+  font-weight: 900;
+  background-image: linear-gradient(to right, #FFCC00,#569cd6,#6a9955,#f44747,#bf6a34,#c586c0);
+  color: transparent;
+  background-clip: text;
+  -webkit-background-clip: text;
+}
+
 .VPDoc:not(.has-sidebar) .container {
   max-width: 1584px !important;
 }
