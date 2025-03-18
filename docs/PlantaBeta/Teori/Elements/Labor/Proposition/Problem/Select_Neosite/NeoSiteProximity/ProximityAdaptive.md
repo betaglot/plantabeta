@@ -4,14 +4,7 @@
 
 Aliases: Reactive Spacing, Responsive Spacing, Flexible Spacing
 
-![ViaIkon](/Ikon/Via_Ikon.png)
-
-## BetaGraph
-
-Graph which represents how this element is related to other elements in PlantaBeta.
-
-
-## EkoElements
+## EkosElements
 
 - StumpCluster
 - EcoSlopeAngle

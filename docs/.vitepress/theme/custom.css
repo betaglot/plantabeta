@@ -36,6 +36,10 @@
   width: 100%;
 }
 
+dev {
+  color: #9bdbfd;
+}
+
 beta {
   font-weight: 900;
   background-image: linear-gradient(to right, #FFCC00,#569cd6,#6a9955,#f44747,#bf6a34,#c586c0);

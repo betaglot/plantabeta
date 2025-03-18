@@ -132,6 +132,7 @@ function sidebarDev() {
         { text: 'Instructor', link: '/dev/Pedagogy/Instructor' },
         { text: 'Motel_Pedagogy', link: '/dev/Pedagogy/Motel_Pedagogy' },
         { text: 'Shadowing', link: '/dev/Pedagogy/Shadowing' },
+        { text: '2024_Timeline', link: '/dev/Pedagogy/2024_Timeline' },
       ]
     },
     { text: 'PaperPhoto', link: '/dev/PaperPhoto' },

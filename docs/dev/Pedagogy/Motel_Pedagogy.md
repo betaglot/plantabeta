@@ -1,4 +1,22 @@
-# Motel Pegagogy
+# Motel Pedagogy
+
+## Time
+
+### AfterWork
+
+### DayOff
+
+## Instruments
+
+### Whiteboard
+
+## Location
+
+### Beach
+
+### Park
+
+### Room
 
 ---
 
