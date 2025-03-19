@@ -1,6 +1,5 @@
 ---
 aside: false 
-sidebar: false
 ---
 
 # What is Tree Planting?

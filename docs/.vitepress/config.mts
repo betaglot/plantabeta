@@ -166,12 +166,12 @@ function sidebarGuide() {
       ]
     },
     {
-      text: 'Plantor Guide', collapsed: false, items: [
+      text: 'Who are you?', collapsed: false, items: [
         { text: 'Potential Plantor', link: '/guide/Who/PotentialPlantor' },
         { text: 'Novice Plantor', link: '/guide/Who/NovicePlantor' },
-        { text: 'Experienced Plantor', link: '/guide/Who/ExperiencedPlantor' },
-        { text: 'Plantor Supervisor', link: '/guide/Who/PlantorSupervisor' },
-        { text: 'Plantor Instructor', link: '/guide/Who/PlantorInstructor' }
+        { text: 'Veteran Plantor', link: '/guide/Who/VeteranPlantor' },
+        { text: 'Supervisor', link: '/guide/Who/Supervisor' },
+        { text: 'Instructor', link: '/guide/Who/Instructor' }
       ]
     },
     { text: 'Go to Examples', link: '/examples/ExampleOverview' },

@@ -1,5 +1,5 @@
 
-# Plantor Supervisor
+# Supervisor
 
 > A person who manages a crew of Plantors
 

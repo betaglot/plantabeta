@@ -1,4 +1,4 @@
-# Shadowing
+# Tandem (Shadowing)
 
 > to follow closely
 ---

@@ -1,8 +1,10 @@
 # ⭐<labor>Box</labor>
 
-🔻<via>BoxHandle</via> is the main Contact of Box.
+<PageImage source="Labor_Box.jpeg" />
 
-🔻<via>BoxCorner</via> is a Contact used only when carrying a single box.
+- <BC l='Box_Handle's=''e=''v='Takt'm=''a=''/> is the main 🔻<via>Takt</via> of ⭐<labor>Box</labor>.
+
+- <BC l='Box_Corner's=''e=''v='Takt'm=''a=''/> is a 🔻<via>Takt</via> used only when carrying a single box.
 
 ---
 
