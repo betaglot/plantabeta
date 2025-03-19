@@ -1,17 +1,11 @@
 ---
-
-outline: false 
+aside: false 
 sidebar: false
-
 ---
 
 # What is Tree Planting?
 
 Every year millions of tree seedlings are planted across Canada. As shown in the image above, the Plantor finds a suitable place to plant a seedling, then uses a spade to open holes for the seedling to be inserted, then the Plantor closes the hole and the cycle repeats thousands of times each day.  
-
-Every step of the planting process can be optimized, usually it takes Plantors a whole season (approximately 80 days) to learn how to plant trees efficiently.  
-
-For a great look at what tree planting is like, watch this documentary [One Million Trees](https://www.youtube.com/watch?v=ep6sWECi3BE)
 
 ::: details Click Here to view links to recent media articles about Tree Planting
 

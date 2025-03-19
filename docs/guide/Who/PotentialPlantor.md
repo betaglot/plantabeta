@@ -1,4 +1,3 @@
-
 # Potential Plantor
 
 > A person who wants to become a Plantor.
@@ -22,18 +21,17 @@ What is tree planting like?
 
 - Resilience
 - Leg Strength
-- DynamicMOTONs
+- Dynamic Movements
 
 ### Wrestling
 
-- FullBodyMOTON
+- FullBody Movements
 - Resilience
-- MOTON Frases
 
 ### Hiking
 
 - Endurance
-- Walking over complex Eko.
+- Walking over complex land.
 
 ### Climbing
 
@@ -55,7 +53,6 @@ What is tree planting like?
 <!-- =================================================== -->
 ::: details 🛠 &&&
 
--
-
 - "Guide.Who.PotentialPlantor"
+
 :::

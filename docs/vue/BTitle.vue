@@ -1,8 +1,8 @@
 <template>
     <a class="text-decoration-none" :href=link>
-        <h2 class="d-flex justify-center bg">
+        <div class="d-flex justify-center text-h2">
             <slot></slot>
-        </h2>
+        </div>
     </a>
 </template>
 

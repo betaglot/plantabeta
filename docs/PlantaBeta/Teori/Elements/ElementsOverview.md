@@ -1,14 +1,21 @@
-# ELEMENTS
+<script setup>
+import ElementGroupIkon from '/vue/ElementGroupIkon.vue'
+import BTitle from '/vue/BTitle.vue'
+</script>
 
-## [![Soma](/Ikon/Soma_Ikon.png)](/PlantaBeta/Teori/Elements/Soma/SomaOverview)
+# <div class="d-flex justify-center text-h1">ELEMENTS</div>
 
-## [![Ekos](/Ikon/Ekos_Ikon.png)](/PlantaBeta/Teori/Elements/Ekos/EkosOverview)
+<ElementGroupIkon imageLink="/PlantaBeta/Teori/Elements/Labor/LaborOverview" imageSource='/Ikon/Labor_Ikon.png'/>
 
-## [![MOTONs](/Ikon/Motor_Ikon.png)](/PlantaBeta/Teori/Elements/Motor/MotorOverview)
+<ElementGroupIkon imageLink="/PlantaBeta/Teori/Elements/Soma/SomaOverview" imageSource='/Ikon/Soma_Ikon.png'/>
 
-## [![Via](/Ikon/Via_Ikon.png)](/PlantaBeta/Teori/Elements/Via/ViaOverview)
+<ElementGroupIkon imageLink="/PlantaBeta/Teori/Elements/Ekos/EkosOverview" imageSource='/Ikon/Ekos_Ikon.png'/>
 
-## [![ANIMA](/Ikon/Anima_Ikon.png)](/PlantaBeta/Teori/Elements/Anima/AnimaOverview)
+<ElementGroupIkon imageLink="/PlantaBeta/Teori/Elements/Via/ViaOverview" imageSource='/Ikon/Via_Ikon.png'/>
+
+<ElementGroupIkon imageLink="/PlantaBeta/Teori/Elements/Motor/MotorOverview" imageSource='/Ikon/Motor_Ikon.png'/>
+
+<ElementGroupIkon imageLink="/PlantaBeta/Teori/Elements/Anima/AnimaOverview" imageSource='/Ikon/Anima_Ikon.png'/>
 
 ---
 

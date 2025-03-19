@@ -3,58 +3,32 @@ aside: false
 ---
 
 <script setup>
-import ElementGroupIkon from '/vue/ElementGroupIkon.vue'
+import ElementGroupCarousel from '/vue/ElementGroupCarousel.vue'
 import BTitle from '/vue/BTitle.vue'
 </script>
 
-# <h1 class="d-flex justify-center bg">TEORI</h1>
+# <div class="d-flex justify-center text-h1">TEORI</div>
 
-> Teori is
+<div class="my-16">
+    <BTitle class="my-16" link="/PlantaBeta/Teori/Sistem/SistemOverview">Sistem</BTitle>
+</div>
 
-<BTitle link="/PlantaBeta/Teori/Sistem/SistemOverview">SISTEM</BTitle>
+<div class="my-16">
+    <BTitle  link="/PlantaBeta/Teori/Elements/ElementsOverview">Element Groups</BTitle>
+</div>
 
-<BTitle link="/PlantaBeta/Teori/Elements/ElementsOverview">Element Groups</BTitle>
+<ElementGroupCarousel />
 
-:::raw
-<ElementGroupIkon imageLink="/PlantaBeta/Teori/Elements/Labor/LaborOverview" imageSource='/Ikon/Labor_Ikon.png'/>
-:::
+<div class="my-16">
+    <BTitle link="/PlantaBeta/Teori/Beta/BetaOverview">🌈<beta>BETA</beta></BTitle>
+</div>
+<div class="my-16">
+    <BTitle link="/PlantaBeta/Teori/Komposition/KompositionOverview">Komposition</BTitle>
+</div>
 
----
-
-:::raw
-<ElementGroupIkon imageLink="/PlantaBeta/Teori/Elements/Soma/SomaOverview" imageSource='/Ikon/Soma_Ikon.png'/>
-:::
-
----
-
-:::raw
-<ElementGroupIkon imageLink="/PlantaBeta/Teori/Elements/Ekos/EkosOverview" imageSource='/Ikon/Ekos_Ikon.png'/>
-:::
-
----
-
-:::raw
-<ElementGroupIkon imageLink="/PlantaBeta/Teori/Elements/Via/ViaOverview" imageSource='/Ikon/Via_Ikon.png'/>
-:::
-
----
-
-:::raw
-<ElementGroupIkon imageLink="/PlantaBeta/Teori/Elements/Motor/MotorOverview" imageSource='/Ikon/Motor_Ikon.png'/>
-:::
-
----
-
-:::raw
-<ElementGroupIkon imageLink="/PlantaBeta/Teori/Elements/Anima/AnimaOverview" imageSource='/Ikon/Anima_Ikon.png'/>
-:::
-
-<BTitle link="/PlantaBeta/Teori/Beta/BetaOverview">🌈<beta>BETA</beta></BTitle>
-
-<BTitle link="/PlantaBeta/Teori/Komposition/KompositionOverview">KOMPOSITION</BTitle>
-
-<BTitle link="/PlantaBeta/Teori/Betomiks/BetomiksOverview">BETOMIKS</BTitle>
-
+<div class="my-16">
+    <BTitle link="/PlantaBeta/Teori/Betomiks/BetomiksOverview">Betomiks</BTitle>
+</div>
 ---
 
 <!-- =================================================== -->

@@ -1,8 +1,6 @@
 ---
-
-outline: false 
+aside: false 
 sidebar: false
-
 ---
 
 # Guide

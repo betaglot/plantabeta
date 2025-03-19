@@ -1,6 +1,10 @@
-# 🟠 <motor>MOTOR</motor> 🟠
+<script setup>
+import ElementGroupIkon from '/vue/ElementGroupIkon.vue'
+</script>
 
-![<motor>Motor</motor>Icon](/Ikon/Motor_Ikon.png)
+# <div class="d-flex justify-center text-h1"><motor>MOTOR</motor></div>
+
+<ElementGroupIkon imageSource='/Ikon/Motor_Ikon.png' />
 
 ## <motor>MOTOR Ikon</motor> 🟠
 
@@ -20,19 +24,16 @@ Latin: movere
 
 ---
 
-::: details Examples of <ekos>EKOS</ekos> in everyday life
+::: details Examples of <motor>MOTOR</motor> in everyday life
 
 - while driving a car
-    - the road
-    - being blown off the road by wind
-    - losing traction when the road is wet
-    - a road too steep to drive up
+    - turning the steering wheel
 
 - while playing sports
-    - the grass
-    - a clay court or grass court in tennis
+    - walking, running, jumping
+    - the motion of a ball after it is kicked or thrown
 
-- while walking in urban areas
+- while being a pedestrian in urban areas
 
 :::
 

@@ -1,6 +1,10 @@
-# 🔻 <via>VIA</via> 🔻
+<script setup>
+import ElementGroupIkon from '/vue/ElementGroupIkon.vue'
+</script>
 
-![<via>VIA</via>Icon](/Ikon/Via_Ikon.png)
+# <div class="d-flex justify-center text-h1"><via>VIA</via></div>
+
+<ElementGroupIkon imageSource='/Ikon/Via_Ikon.png' />
 
 > the way
 
@@ -60,15 +64,13 @@ Road, Path, Route, through, using, composed of
     - knowing if there's enough time to pass a car before the passing lane ends
 
 - while Playing Sports
-    - Lines on a basketball court
     - getting "open" for a pass in soccer
 
-- while walking in urban areas
+- while being a pedestrian in urban areas
     - walking through a crowd without collisions
     - slowing down to prevent a collision at an intersection
-
-- following footsteps in deep snow
-- standing out of the way of a door when you open it
+    - following footsteps in deep snow
+    - standing out of the way of a door when you open it
 
 :::
 

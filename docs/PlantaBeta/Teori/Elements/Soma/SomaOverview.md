@@ -1,6 +1,10 @@
-# 🔷 <soma>SOMA</soma> 🔷
+<script setup>
+import ElementGroupIkon from '/vue/ElementGroupIkon.vue'
+</script>
 
-![Soma_Ikon](/Ikon/Soma_Ikon.png)
+# <div class="d-flex justify-center text-h1"><soma>SOMA</soma></div>
+
+<ElementGroupIkon imageSource='/Ikon/Soma_Ikon.png' />
 
 ## What is a 🔷<soma>SOMON</soma>
 

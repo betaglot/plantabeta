@@ -1,6 +1,10 @@
-# ⭐ <labor>LABOR</labor> ⭐
+<script setup>
+import ElementGroupIkon from '/vue/ElementGroupIkon.vue'
+</script>
 
-![Labor_Ikon](/Ikon/Labor_Ikon.png)
+# <div class="d-flex justify-center text-h1"><labor>LABOR</labor></div>
+
+<ElementGroupIkon imageSource='/Ikon/Labor_Ikon.png' />
 
 Aliases: Work, Job, Task
 
@@ -15,8 +19,9 @@ Aliases: Work, Job, Task
     - scoring system of a game
     - the start and finish lines
     - the try zones in rugby
+    - lines on a basketball court
 
-- while walking in urban areas
+- while being a pedestrian  in urban areas
     - pedestrian cross walk lights
 
 :::

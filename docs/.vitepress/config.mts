@@ -79,11 +79,6 @@ function nav() {
       link: '/PlantaBeta/Teori/TeoriOverview',
       activeMatch: '/PlantaBeta/Teori/'
     },
-    // {
-    //   text: '🌈 PRAKTIK',
-    //   link: '/PlantaBeta/Praktik/Praktik_Overview',
-    //   activeMatch: '/PlantaBeta/Praktik/'
-    // },
     {
       text: 'About',
       link: '/about/AboutOverview',
@@ -164,12 +159,10 @@ function sidebarGuide() {
     },
     {
       text: 'Purpose', collapsed: false, items: [
-        { text: 'To Support Ecosystems', link: '/guide/Why/SupportEcosystem' },
         { text: 'To Reduce Injury', link: '/guide/Why/Injury' },
         { text: 'To Increase Productivity', link: '/guide/Why/Productivity' },
         { text: 'To Improve Communication', link: '/guide/Why/Communication' },
         { text: 'To Steepen Learning Curve', link: '/guide/Why/LearningCurve' },
-        { text: '💲To Increase Profit', link: '/guide/Why/Company' }
       ]
     },
     {
@@ -255,7 +248,7 @@ function sidebarElements() {
     },
     // #LABOR
     {
-      text: '⭐<labor>LABOR</labor>⭐', link: '/PlantaBeta/Teori/Elements/Labor/LaborOverview', collapsed: true, items: [
+      text: '<labor>LABOR</labor>', link: '/PlantaBeta/Teori/Elements/Labor/LaborOverview', collapsed: true, items: [
         {
           text: '⭐<labor>LABON</labor>', link: '/PlantaBeta/Teori/Elements/Labor/Labon/Overview', collapsed: true, items: [
             { text: '<labor>Atributs</labor>', link: '/PlantaBeta/Teori/Elements/Labor/Labon/Atributs/Overview', collapsed: true, items: [] },
@@ -309,7 +302,7 @@ function sidebarElements() {
     },
     // #SOMA
     {
-      text: '🔷<soma>SOMA</soma>🔷', link: '/PlantaBeta/Teori/Elements/Soma/SomaOverview', collapsed: true, items: [
+      text: '<soma>SOMA</soma>', link: '/PlantaBeta/Teori/Elements/Soma/SomaOverview', collapsed: true, items: [
         {
           text: '🔷<soma>SOMON</soma>', link: '/PlantaBeta/Teori/Elements/Soma/Somon/Overview', collapsed: true, items: [
             { text: '<soma>Atributs</soma>', link: '/PlantaBeta/Teori/Elements/Soma/Somon/Atributs/Overview', collapsed: true, items: [] },
@@ -335,7 +328,7 @@ function sidebarElements() {
     },
     // #EKOS
     {
-      text: '🟩<ekos>EKOS</ekos>🟩', collapsed: true, link: '/PlantaBeta/Teori/Elements/Ekos/EkosOverview', items: [
+      text: '<ekos>EKOS</ekos>', collapsed: true, link: '/PlantaBeta/Teori/Elements/Ekos/EkosOverview', items: [
         {
           text: '🟩<ekos>EKON</ekos>', link: '/PlantaBeta/Teori/Elements/Ekos/Ekon/Overview', collapsed: true, items: [
             { text: '<ekos>Atributs</ekos>', link: '/PlantaBeta/Teori/Elements/Ekos/Ekon/Atributs/Overview', collapsed: true, items: [] },
@@ -465,7 +458,7 @@ function sidebarElements() {
     },
     // #VIA
     {
-      text: '🔻<via>VIA</via>🔻', link: '/PlantaBeta/Teori/Elements/Via/ViaOverview', collapsed: true, items: [
+      text: '<via>VIA</via>', link: '/PlantaBeta/Teori/Elements/Via/ViaOverview', collapsed: true, items: [
         {
           text: '🔻<via>VION</via>', link: '/PlantaBeta/Teori/Elements/Via/Vion/Overview', collapsed: true, items: [
             { text: '<via>Atributs</via>', link: '/PlantaBeta/Teori/Elements/Via/Vion/Atributs/Overview', collapsed: true, items: [] },
@@ -522,7 +515,7 @@ function sidebarElements() {
     },
     // #MOTOR
     {
-      text: '🟠<motor>MOTOR</motor>🟠', link: '/PlantaBeta/Teori/Elements/Motor/MotorOverview', collapsed: true, items: [
+      text: '<motor>MOTOR</motor>', link: '/PlantaBeta/Teori/Elements/Motor/MotorOverview', collapsed: true, items: [
         {
           text: '🟠<motor>MOTON</motor>', link: '/PlantaBeta/Teori/Elements/Motor/Moton/Overview', collapsed: true, items: [
             { text: '<motor>Atributs</motor>', link: '/PlantaBeta/Teori/Elements/Motor/Moton/Atributs/Overview', collapsed: true, items: [] },
@@ -599,7 +592,7 @@ function sidebarElements() {
     },
     // #ANIMA
     {
-      text: '💜<anima>ANIMA</anima>💜', link: '/PlantaBeta/Teori/Elements/Anima/AnimaOverview', collapsed: true, items: [
+      text: '<anima>ANIMA</anima>', link: '/PlantaBeta/Teori/Elements/Anima/AnimaOverview', collapsed: true, items: [
         {
           text: '💜<anima>ANIMON</anima>', link: '/PlantaBeta/Teori/Elements/Anima/Animon/Overview', collapsed: true, items: [
             { text: '<anima>Atributs</anima>', link: '/PlantaBeta/Teori/Elements/Anima/Animon/Atributs/Overview', collapsed: true, items: [] },

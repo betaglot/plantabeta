@@ -10,6 +10,8 @@ import { createVuetify } from 'vuetify'
 import * as components from 'vuetify/components'
 import * as directives from 'vuetify/directives'
 
+import BetumChip from './BetumChip.vue'
+
 const vuetify = createVuetify({
     components,
     directives,
@@ -28,5 +30,6 @@ export default {
     },
     enhanceApp({ app, router, siteData }) {
         app.use(vuetify)
+        app.component('BC', BetumChip)
     }
 } satisfies Theme

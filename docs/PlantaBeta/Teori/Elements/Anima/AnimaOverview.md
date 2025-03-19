@@ -1,4 +1,10 @@
-# 💜 <anima>ANIMA</anima> 💜
+<script setup>
+import ElementGroupIkon from '/vue/ElementGroupIkon.vue'
+</script>
+
+# <div class="d-flex justify-center text-h1"><anima>ANIMA</anima></div>
+
+<ElementGroupIkon imageSource='/Ikon/Anima_Ikon.png' />
 
 ANIMA == PSYCHE == SPIRITUS
 

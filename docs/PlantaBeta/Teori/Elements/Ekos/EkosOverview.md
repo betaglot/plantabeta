@@ -1,6 +1,10 @@
-# 🟩 <ekos>EKOS</ekos> 🟩
+<script setup>
+import ElementGroupIkon from '/vue/ElementGroupIkon.vue'
+</script>
 
-![Ekos_Ikon](/Ikon/Ekos_Ikon.png)
+# <div class="d-flex justify-center text-h1"><ekos>EKOS</ekos></div>
+
+<ElementGroupIkon imageSource='/Ikon/Ekos_Ikon.png' />
 
 ## What is <ekos>EKOS</ekos>?
 
@@ -26,11 +30,16 @@ The word "<ekos>EKOS</ekos>system" was derived from <ekos>eco</ekos>logy
 ::: details Examples of <ekos>EKOS</ekos> in everyday life
 
 - while driving a car
-    - 
+    - the road
+    - being blown off the road by wind
+    - losing traction when the road is wet
+    - a road too steep to drive up
 
 - while playing sports
+    - the grass
+    - a clay court or grass court in tennis
 
-- while walking in urban areas
+- while being a pedestrian in urban areas
 
 :::
 
