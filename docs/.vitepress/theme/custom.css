@@ -10,7 +10,7 @@
 
 .VPNavBarTitle span {
   font-weight: 900;
-  background-image: linear-gradient(to right, #FFCC00,#569cd6,#6a9955,#f44747,#bf6a34,#c586c0);
+  background-image: linear-gradient(to right, #FFCC00,#569cd6,#6a9955,#f44747,#ca733d,#c586c0);
   color: transparent;
   background-clip: text;
   -webkit-background-clip: text;
@@ -33,7 +33,7 @@
 }
 
 .VPHero .VPButton {
-  background-image: linear-gradient(to right, #FFCC00,#569cd6,#6a9955,#f44747,#bf6a34,#c586c0);
+  background-image: linear-gradient(to right, #FFCC00,#569cd6,#6a9955,#f44747,#ca733d,#c586c0);
   /* color: transparent; */
   /* background-clip: text;
   -webkit-background-clip: text; */
@@ -50,7 +50,7 @@ dev {
 
 beta {
   font-weight: 900;
-  background-image: linear-gradient(to right, #FFCC00,#569cd6,#6a9955,#f44747,#bf6a34,#c586c0);
+  background-image: linear-gradient(to right, #FFCC00,#569cd6,#6a9955,#f44747,#ca733d,#c586c0);
   color: transparent;
   background-clip: text;
   -webkit-background-clip: text;
@@ -84,7 +84,7 @@ via {
 
 motor {
   font-weight: 900;
-  color: #bf6a34;
+  color: #ca733d;
 
 }
 
@@ -134,7 +134,7 @@ error {
 
 .motor {
   font-weight: 900;
-  color: #bf6a34;
+  color: #ca733d;
 
 }
 

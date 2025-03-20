@@ -13,6 +13,8 @@ import BTitle from '/vue/BTitle.vue'
     <BTitle class="my-16" link="/PlantaBeta/Teori/Sistem/SistemOverview">Sistem</BTitle>
 </div>
 
+The system
+
 <div class="my-16">
     <BTitle  link="/PlantaBeta/Teori/Elements/ElementsOverview">Element Groups</BTitle>
 </div>
@@ -26,9 +28,14 @@ import BTitle from '/vue/BTitle.vue'
     <BTitle link="/PlantaBeta/Teori/Komposition/KompositionOverview">Komposition</BTitle>
 </div>
 
+Sheet Music
+
 <div class="my-16">
     <BTitle link="/PlantaBeta/Teori/Betomiks/BetomiksOverview">Betomiks</BTitle>
 </div>
+
+Graphic of Beta
+
 ---
 
 <!-- =================================================== -->

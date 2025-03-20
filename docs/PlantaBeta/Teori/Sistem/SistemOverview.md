@@ -46,9 +46,15 @@ Brazo.Anterior-Down-🟠<motor>Ama</motor>
 
 ---
 
-Send-BrazoAnterior-Plast-Down-🟠<motor>Ama</motor>
+- <BC l='Send's='Brazo_Anterior'e='Plast'v='Down'm='Ama'a='Delicate'/>
 
-Dance-BrazoAnterior-Plast-Down-🟠<motor>Ama</motor>
+- <BC l='Dance's='Brazo_Anterior'e='Plast'v='Down'm='Ama'a='Delicate'/>
+
+- <BC l='Send's=''e=''v=''m=''a='Delicate'/>
+
+- <BC l=''s='Brazo'e=''v=''m='Ama'a=''/>
+
+- <BC l='Dance's=''e=''v=''m='Ama'a=''/>
 
 NameSpace
 
@@ -57,8 +63,8 @@ Betaglot.PlantaBeta.Sistem.Teori.Element.Ekos.Definition.Stump
 ## By Negation
 
 - Definition(Element)
-    - WetSoil-🔻<via>Takt</via> is not an Element
-        - WetSoil is an element and Takt is an element
+    - <BC l=''s=''e='Wet_Soil'v='Takt'm=''a=''/> is not an Element
+        - 🟩<ekos>Wet_Soil</ekos> is an element of <ekos>EKOS</ekos> and 🔻<via>Takt</via> is an element of <via>VIA</via>
 
 ## Based on Euclid's Elements
 
@@ -112,7 +118,31 @@ Call a Proposition
 
 Propose a Proposition
 
-## Beta
+## Exemplars each of Element Group
+
+### <labor>LABOR</labor>
+
+- ⭐<labor>Spade</labor>
+
+### 🔷<soma>SOMA</soma>
+
+- 🔷<soma>Mano</soma>
+
+### <ekos>EKOS</ekos>
+
+- 🟩<ekos>Stump</ekos>
+
+### <via>VIA</via>
+
+- 🔻<via>BoustroLine</via>
+
+### <motor>MOTOR</motor>
+
+-
+
+### <anima>ANIMA</anima>
+
+-
 
 ---
 
@@ -122,6 +152,10 @@ Propose a Proposition
 <!-- =================================================== -->
 <!-- =================================================== -->
 ::: details 🛠
+
+- What is the Sistem
+    - In a sentence
+    - In 100 words
 
 - Moment
     - all the Elements occuring at a given instant

@@ -7,46 +7,22 @@ sidebar: false
 
 # <beta>What is PLANTABETA?</beta>
 
-## <beta>PLANTABETA Logo</beta>
+## In a sentence
 
-::: details Why is it called <beta>PLANTABETA</beta>?
+## In a page
 
-## Etymology of "<beta>PLANTABETA</beta>"
+## In a short video
 
-## Analogies between Climbing and Planting
+## In a 5 minute video
 
-This each line are analog pairs. The equal signs = denotes where Climbing and Planting are exactly the same.
+## In a 10 minute video
 
-|                         **Climbing** | **Planting**                      |
-| -----------------------------------: | :-------------------------------- |
-|                  <beta>BETA</beta> = | = <beta>BETA</beta>               |
-|                     <ekos>EKOS</ekos> = | = <ekos>EKOS</ekos>                  |
-|               <via>VIA</via> = | = <via>VIA</via>            |
-|               <anima>ANIMA</anima> = | = <anima>ANIMA</anima>            |
-|                      <ekos>Wall</ekos> | <ekos>Land</ekos>                   |
-|              <ekos>Wall Section</ekos> | <ekos>Area</ekos>                  |
-|      <via>ContactSurface</via> = | = <via>ContactSurface</via>   |
-|                  <via>Hold</via> | <via>Microsite</via>          |
-|                    <ekos>Volume</ekos> | <ekos>Mound, Trench</ekos>          |
-|                 <ekos>WallAngle</ekos> | <ekos>SlopeAngle</ekos>             |
-|            <motor>ClimbingShoe</motor> | <motor>PlantingBoot</motor>         |
-|                <beta>Redpoint</beta> | <beta>Replanting Required </beta> |
-|          <beta>Flash, Onsight</beta> | <beta>No replanting </beta>       |
-|         <motor>RockOver MOTON </motor>= | = <motor>RockOver MOTON </motor>     |
-|        <via>VIA_Finding</via> = | = <via>VIA_Finding</via>     |
-|             <via>One Pitch</via> | <via>One CoverLoop </via>      |
-|                  <motor>Fall</motor> = | = <motor>Fall</motor>               |
-| <via>Anchor, Belay Station</via> | <via>Cache</via>              |
-|              <via>Approach</via> | <via>Walk In </via>           |
-|                     <ekos>Crag </ekos> | <ekos> Block</ekos>                 |
+## In a 20 minute video
 
-## How is it useful to relate Climbing to Planting?
+## In an hour video
 
-- OffSeason Training
-- Outdoor Climbing has a similar to Planting.
-- Many Plantors are also Climbers and share many attributes.
-    - Resilience, Ruggedness, Physically Fit
-- You will get better at one by learning the other.
+## In a 4 hour podcast
+
 :::
 
 ---
