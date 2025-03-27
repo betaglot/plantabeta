@@ -2,7 +2,17 @@
 
 Aliases: HowTo, Walkthrough
 
+## Story
+
+## Epitomes
+
 ## Material Design
+
+### Rounded Corners
+
+Rugby World Cup use rounded corners in their
+
+<https://www.youtube.com/watch?v=FykXCpCuhNM&ab_channel=WorldRugby>
 
 ## Interactive Walkthrough
 
