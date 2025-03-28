@@ -35,6 +35,8 @@ Company Highballer
 
 The Bear, Season 3, Episode 7 "Legacy"
 
+![TheBear_Carmy_Marcus](/TheBear_Carmy_Marcus.png)
+
 > [Marcus] What’s, uh, “legerdemain”?
 ---
 > [Carmy] It’s French for “sleight of hand.”
