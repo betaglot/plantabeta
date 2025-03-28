@@ -4,21 +4,9 @@
 
 ## <labor>LABOR</labor> Questions
 
-## <soma>SOMA</soma> Questions
+::: details Does that crop tree look healthy enough to respect?
 
-## <ekos>EKOS</ekos> Questions
-
-::: details Can I step on this plant?
-
-> Can I <motor>step</motor> on this <ekos>plant</ekos>?
-
--
-
-:::
-
-::: details Is that a crop tree?
-
-> Is that a <labor>crop tree</labor>?
+> <anima>Does</anima> that <labor>crop tree</labor> <anima>look</anima> <labor>healthy enough</labor> to <labor>respect</labor>?
 
 -
 
@@ -26,7 +14,67 @@
 
 ::: details Should I respect that tree?
 
-> Should I respect that <ekos>tree</ekos>?
+> <anima>Should</anima> I <labor>respect</labor> that <ekos>tree</ekos>?
+
+-
+
+:::
+
+## <soma>SOMA</soma> Questions
+
+::: details How do I cool down my body?
+
+> <anima>How</anima> do I <soma>cool down my body</soma>?
+
+-
+
+:::
+
+::: details How do I warm up my body?
+
+> <anima>How</anima> do I <soma>warm up my body</soma>?
+
+-
+
+:::
+
+::: details What stretch should I do every planting day?
+
+> <anima>What</anima> <motor>stretch</motor> should I do every <labor>planting day</labor>?
+
+-
+
+:::
+
+::: details Is this spade too long for me?
+
+> <anima>Is</anima> this <labor>spade</labor> <soma>too long for me</soma>?
+
+-
+
+:::
+
+::: details How can I stop getting so dehydrated?
+
+> <anima>How</anima> can I stop getting so <soma>dehydrated</soma>?
+
+-
+
+:::
+
+## <ekos>EKOS</ekos> Questions
+
+::: details Can I step on this plant?
+
+> <anima>Can</anima> I <motor>step</motor> on this <ekos>plant</ekos>?
+
+-
+
+:::
+
+::: details Is that a crop tree?
+
+> <anima>Is</anima> that a <labor>crop tree</labor>?
 
 -
 
@@ -34,7 +82,7 @@
 
 ::: details Where is the shallowest water?
 
-> Where is the <ekos>shallowest water</ekos>?
+> <anima>Where</anima> is the <ekos>shallowest water</ekos>?
 
 -
 
@@ -42,7 +90,7 @@
 
 ::: details Is this mineral soil?
 
-> Is this <ekos>mineral soil</ekos>?
+> <anima>Is</anima> this <ekos>mineral soil</ekos>?
 
 -
 
@@ -50,7 +98,7 @@
 
 ::: details Is that sphagnum moss or feather moss?
 
-> Is that <labor>sphagnum moss</labor> or <ekos>feather moss</ekos>?
+> <anima>Is</anima> that <labor>sphagnum moss</labor> or <ekos>feather moss</ekos>?
 
 -
 
@@ -58,7 +106,7 @@
 
 ::: details Which side of the trench is the flip side?
 
-> Which side of the <labor>trench</labor> is the <labor>flip side</labor>?
+> <anima>Which</anima> <labor>side of the trench</labor> is the <labor>flip side</labor>?
 
 -
 
@@ -66,7 +114,7 @@
 
 ::: details Where is the ground level in this trench?
 
-> Where is the <ekos>ground level</ekos> in this <labor>trench</labor>?
+> <anima>Where</anima> is the <ekos>ground level</ekos> in this <labor>trench</labor>?
 
 -
 
@@ -74,7 +122,7 @@
 
 ::: details Does this count as an obstacle?
 
-> Does this <anima>count</anima> as an <via>obstacle</via>?
+> <anima>Does</anima> this <anima>count</anima> as an <via>obstacle</via>?
 
 -
 
@@ -82,7 +130,7 @@
 
 ::: details Where is the north side of this stump?
 
-> Where is the <via>north side</via> of this <ekos>stump</ekos>?
+> <anima>Where</anima> is the <via>north side</via> of this <ekos>stump</ekos>?
 
 -
 
@@ -90,7 +138,7 @@
 
 ::: details Is this microsite too wet?
 
-> Is this <labor>microsite</labor> too <ekos>wet</ekos>?
+> <anima>Is</anima> this <labor>microsite</labor> too <ekos>wet</ekos>?
 
 -
 
@@ -98,7 +146,7 @@
 
 ::: details Does it look like the rain will last long?
 
-> Does it <anima>look like</anima> the <ekos>rain</ekos> will <anima>last long</anima>?
+> <anima>Does</anima> it <anima>look like</anima> the <ekos>rain</ekos> will <anima>last long</anima>?
 
 -
 
@@ -106,7 +154,7 @@
 
 ::: details Does it look like that tree will fall over in the wind?
 
-> Does it <anima>look like</anima> that <ekos>tree</ekos> will <motor>fall over</motor> in the <ekos>wind</ekos>?
+> <anima>Does</anima> it <anima>look like</anima> that <ekos>tree</ekos> will <motor>fall over</motor> in the <ekos>wind</ekos>?
 
 -
 
@@ -114,7 +162,7 @@
 
 ::: details Does this log feel stable enough to walk on it?
 
-> Does this <ekos>log</ekos> <anima>feel</anima> <via>stable enough</via> to <motor>walk</motor> <via>on</via> <ekos>it</ekos>?
+> <anima>Does</anima> this <ekos>log</ekos> <anima>feel</anima> <via>stable enough</via> to <motor>walk</motor> <via>on</via> <ekos>it</ekos>?
 
 -
 
@@ -122,7 +170,7 @@
 
 ::: details Is this hole deep enough?
 
-> Is this <ekos>hole</ekos> <via>deep enough</via>?
+> <anima>Is</anima> this <ekos>hole</ekos> <via>deep enough</via>?
 
 -
 
@@ -130,15 +178,7 @@
 
 ::: details Do I need to screef that?
 
-> Do I need to screef that?
-
--
-
-:::
-
-::: details Does that natural look healthy?
-
-> Does that natural look healthy?
+> <anima>Do</anima> I <labor>need</labor> to <motor>screef</motor> that?
 
 -
 
