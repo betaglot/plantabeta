@@ -1,6 +1,8 @@
-# 🟩<ekos>Hidrosfera</ekos>
+# Unfairness
 
-Aliases: Water, Hydrosphere
+## CreamOut
+
+- Veterans using their greater knowledge of VIA to CreamOut Novices  
 
 ---
 

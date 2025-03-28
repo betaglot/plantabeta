@@ -1,6 +1,4 @@
-# 🟩<ekos>Hidrosfera</ekos>
-
-Aliases: Water, Hydrosphere
+# Greed
 
 ---
 

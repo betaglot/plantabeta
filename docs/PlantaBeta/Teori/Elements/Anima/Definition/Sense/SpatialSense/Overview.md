@@ -67,12 +67,6 @@ View from road
 
 ViaPlan vs. ActualVia
 
-## <ekos>EcoSpace</ekos>
-
-## <motor>MOTONSpace</motor>
-
-## <via>ViaSpace</via>
-
 ### Navigation
 
 #### VIA Search

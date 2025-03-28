@@ -94,57 +94,54 @@ function nav() {
 // Dev
 function sidebarDev() {
   return [
-    { text: 'Dev Overview', link: '/dev/DevOverview' },
-    { text: 'Captions', link: '/dev/BagOut_Captions' },
-    { text: 'Contact', link: '/dev/Contact' },
-    { text: 'AcademiaDev', link: '/dev/AcademiaDev' },
-    { text: 'Art', link: '/dev/art/Overview' },
-    { text: '👩‍💻 BePython', link: '/dev/BePython' },
-    { text: 'Contribute', link: '/dev/Contribute' },
-    { text: 'Downloads', link: '/dev/Downloads' },
-    { text: 'DX', link: '/dev/DX' },
-    { text: 'Filming', link: '/dev/Filming' },
-    { text: 'FireBeta', link: '/FireBeta/FireBeta' },
-    { text: 'GoPro', link: '/dev/GoPro' },
+    { text: '<dev>DevOverview</dev>', link: '/dev/DevOverview' },
+    { text: '<dev>Captions</dev>', link: '/dev/BagOut_Captions' },
+    { text: '<dev>Contact</dev>', link: '/dev/Contact' },
     {
-      text: 'Graphics', collapsed: true, items: [
-        { text: 'Overview', link: '/dev/Graphics/Overview' },
-        { text: '<beta>BETA Graphics</beta>', link: '/dev/Graphics/BETAGraphic' },
-        { text: '<ekos>EKOS Graphics</ekos>', link: '/dev/Graphics/EKOSGraphic' },
-        { text: '<motor>MOTOR Graphics</motor>', link: '/dev/Graphics/MOTORGraphic' },
-        { text: '<anima>ANIMA Graphics</anima>', link: '/dev/Graphics/ANIMAGraphic' },
-        { text: '<via>VIA Graphics</via>', link: '/dev/Graphics/VIAGraphic' },
-        { text: 'UX Graphics', link: '/dev/Graphics/UXGraphic' },
-        { text: 'DX Graphics', link: '/dev/Graphics/DXGraphic' },
+      text: '<dev>ContentDev</dev>', collapsed: true, items: [
+        { text: '<dev>GuideDev</dev>', link: '/dev/ContentDev/GuideDev' },
+        { text: '<dev>TeoriDev</dev>', link: '/dev/ContentDev/TeoriDev' },
+        { text: '<dev>VDev</dev>', link: '/dev/ContentDev/VDev' },
       ]
     },
-    { text: 'Mindmap', link: '/dev/Mindmap' },
-    { text: 'Offline', link: '/dev/Offline' },
-    { text: 'Open Source', link: '/dev/OpenSource' },
+    { text: '<dev>Art</dev>', link: '/dev/art/Overview' },
+    { text: '<dev>Contribute</dev>', link: '/dev/Contribute' },
+    { text: '<dev>DX</dev>', link: '/dev/DX' },
+    { text: '<dev>Filming</dev>', link: '/dev/Filming' },
+    { text: '<dev>GoPro</dev>', link: '/dev/GoPro' },
     {
-      text: 'Pedagogy', link: '/dev/Pedagogy/Overview', collapsed: true, items: [
-        { text: 'TutorialDev', link: '/dev/Pedagogy/TutorialDev' },
-        { text: 'Instructor', link: '/dev/Pedagogy/Instructor' },
-        { text: 'Motel_Pedagogy', link: '/dev/Pedagogy/Motel_Pedagogy' },
-        { text: 'Shadowing', link: '/dev/Pedagogy/Shadowing' },
-        { text: '2024_Timeline', link: '/dev/Pedagogy/2024_Timeline' },
+      text: '<dev>Graphics</dev>', collapsed: true, items: [
+        { text: '<dev>Overview</dev>', link: '/dev/Graphics/Overview' },
+        { text: '<beta>BETA Graphics</beta>', link: '/dev/Graphics/Beta_Graphic' },
+        { text: '<labor>LABOR</labor>', link: '/dev/Graphics/Labor_Graphic' },
+        { text: '<soma>SOMA</soma>', link: '/dev/Graphics/Soma_Graphic' },
+        { text: '<ekos>EKOS Graphics</ekos>', link: '/dev/Graphics/Ekos_Graphic' },
+        { text: '<via>VIA Graphics</via>', link: '/dev/Graphics/Via_Graphic' },
+        { text: '<motor>MOTOR Graphics</motor>', link: '/dev/Graphics/Motor_Graphic' },
+        { text: '<anima>ANIMA Graphics</anima>', link: '/dev/Graphics/Anima_Graphic' },
+        { text: '<dev>UX Graphics</dev>', link: '/dev/Graphics/UX_Graphic' },
+        { text: '<dev>DX Graphics</dev>', link: '/dev/Graphics/DX_Graphic' },
       ]
     },
-    { text: 'PaperPhoto', link: '/dev/PaperPhoto' },
-    { text: 'Podcast', link: '/dev/Podcast' },
-    { text: 'Pylanter', link: '/dev/Pylanter' },
-    { text: 'Research Questions', link: '/dev/ResearchQuestions' },
-    { text: 'Roadmap', link: '/dev/Roadmap' },
-    { text: 'Sequence', link: '/dev/Sequence' },
-    { text: 'SocialMedia', link: '/dev/SocialMedia' },
-    { text: 'StyleGuide', link: '/dev/StyleGuide' },
-    { text: 'Tagging', link: '/dev/Tagging' },
-    { text: 'TaskList', link: '/dev/TaskList' },
-    { text: 'ToDo', link: '/dev/ToDo' },
-    { text: 'Tools', link: '/dev/Tools' },
-    { text: 'UX', link: '/dev/UX' },
-    { text: 'VDev', link: '/dev/VDev' },
-    { text: 'AfternoonTask', link: '/dev/AfternoonTask' },
+    { text: '<dev>Mindmap</dev>', link: '/dev/Mindmap' },
+    { text: '<dev>Offline</dev>', link: '/dev/Offline' },
+    { text: '<dev>OpenSource</dev>', link: '/dev/OpenSource' },
+    {
+      text: '<dev>Pedagogy</dev>', link: '/dev/Pedagogy/Overview', collapsed: true, items: [
+        { text: '<dev>TutorialDev</dev>', link: '/dev/Pedagogy/TutorialDev' },
+        { text: '<dev>Instructor</dev>', link: '/dev/Pedagogy/Instructor' },
+        { text: '<dev>Motel_Pedagogy</dev>', link: '/dev/Pedagogy/Motel_Pedagogy' },
+        { text: '<dev>Shadowing</dev>', link: '/dev/Pedagogy/Shadowing' },
+        { text: '<dev>2024_Timeline</dev>', link: '/dev/Pedagogy/2024_Timeline' },
+      ]
+    },
+    { text: '<dev>PodcastDev</dev>', link: '/dev/PodcastDev' },
+    { text: '<dev>ResearchQuestions</dev>', link: '/dev/ResearchQuestions' },
+    { text: '<dev>Roadmap</dev>', link: '/dev/Roadmap' },
+    { text: '<dev>StyleGuide</dev>', link: '/dev/StyleGuide' },
+    { text: '<dev>UX</dev>', link: '/dev/UX' },
+    { text: '<dev>VDev</dev>', link: '/dev/VDev' },
+    { text: '<dev>AfternoonTask</dev>', link: '/dev/AfternoonTask' },
   ]
 }
 // Guide
@@ -189,7 +186,7 @@ function sidebarAbout() {
 // TEORI
 function sidebarTEORI() {
   return [
-    { text: '<strong>TEORI</strong>', link: '/PlantaBeta/Teori/Elements/TeoriOverview' },
+    { text: '<strong>TEORI</strong>', link: '/PlantaBeta/Teori/TeoriOverview' },
     // # BETOMIKS
     { text: '🌈 SISTEM', link: '/PlantaBeta/Teori/Sistem/SistemOverview' },
     { text: '🌈 ELEMENTS', link: '/PlantaBeta/Teori/Elements/ElementsOverview' },
@@ -202,7 +199,7 @@ function sidebarTEORI() {
 // Betomiks
 function sidebarBetomiks() {
   return [
-    { text: '<strong>TEORI</strong>', link: '/PlantaBeta/Teori/Elements/TeoriOverview' },
+    { text: '<strong>TEORI</strong>', link: '/PlantaBeta/Teori/TeoriOverview' },
     {
       text: 'BETOMIKS', link: '/PlantaBeta/Teori/Betomiks/BetomiksOverview', collapsed: false, items: [
         { text: 'Attention', link: '/PlantaBeta/Teori/Betomiks/Attention/Overview' },
@@ -217,7 +214,7 @@ function sidebarBetomiks() {
 // Komposition
 function sidebarKomposition() {
   return [
-    { text: '<strong>TEORI</strong>', link: '/PlantaBeta/Teori/Elements/TeoriOverview' },
+    { text: '<strong>TEORI</strong>', link: '/PlantaBeta/Teori/TeoriOverview' },
     {
       text: 'KOMPOSITION', link: '/PlantaBeta/Teori/Komposition/KompositionOverview', collapsed: false, items: [
         { text: 'Density', link: '/PlantaBeta/Teori/Komposition/Density/Overview' },
@@ -234,7 +231,7 @@ function sidebarKomposition() {
 // Sistem
 function sidebarSistem() {
   return [
-    { text: '<strong>TEORI</strong>', link: '/PlantaBeta/Teori/Elements/TeoriOverview' },
+    { text: '<strong>TEORI</strong>', link: '/PlantaBeta/Teori/TeoriOverview' },
     {
       text: '<beta>SISTEM</beta>', link: '/PlantaBeta/Teori/Sistem/SistemOverview', collapsed: true, items: []
     },
@@ -411,7 +408,7 @@ function sidebarElements() {
               ]
             },
             {
-              text: '<ekos>🟩Hidrosfera</ekos>', link: '/PlantaBeta/Teori/Elements/Ekos/Definition/Hirdosfera/Overview', collapsed: true, items: [
+              text: '<ekos>🟩Hidrosfera</ekos>', link: '/PlantaBeta/Teori/Elements/Ekos/Definition/Hidrosfera/Overview', collapsed: true, items: [
                 { text: '<ekos>🟩GroundWater</ekos>', link: '/PlantaBeta/Teori/Elements/Ekos/Definition/Heliosfera/GroundWater' },
                 { text: '<ekos>🟩MovingWater</ekos>', link: '/PlantaBeta/Teori/Elements/Ekos/Definition/Heliosfera/MovingWater' },
                 { text: '<ekos>🟩StagnantWater</ekos>', link: '/PlantaBeta/Teori/Elements/Ekos/Definition/Heliosfera/StagnantWater' },
@@ -419,7 +416,7 @@ function sidebarElements() {
             },
             {
               text: '<ekos>🟩Litosfera</ekos>', link: '/PlantaBeta/Teori/Elements/Ekos/Definition/Litosfera/Overview', collapsed: true, items: [
-                { text: '<ekos>🟩RockCap</ekos>', link: '/PlantaBeta/Teori/Elements/Ekos/Definition/Hirdosfera/RockCap' },
+                { text: '<ekos>🟩RockCap</ekos>', link: '/PlantaBeta/Teori/Elements/Ekos/Definition/Hidrosfera/RockCap' },
               ]
             },
             {
@@ -827,9 +824,11 @@ function sidebarBeta() {
           ]
         },
         { text: '⭐-🟠-💜', link: '/PlantaBeta/Teori/Beta/Definitions/Labon-Moton-Animon/Overview', collapsed: true, items: [] },
-        { text: '⭐-💜', link: '/PlantaBeta/Teori/Beta/Definitions/Labon-Animon/Overview', collapsed: true, items: [
-          { text: '🌈 Spade-Audio', link: '/PlantaBeta/Teori/Beta/Definitions/Labon-Animon/Spade-Audio' },
-        ] },
+        {
+          text: '⭐-💜', link: '/PlantaBeta/Teori/Beta/Definitions/Labon-Animon/Overview', collapsed: true, items: [
+            { text: '🌈 Spade-Audio', link: '/PlantaBeta/Teori/Beta/Definitions/Labon-Animon/Spade-Audio' },
+          ]
+        },
         { text: '🔷-🟩', link: '/PlantaBeta/Teori/Beta/Definitions/Somon-Ekon/Overview', collapsed: true, items: [] },
         { text: '🔷-🟩-🔻', link: '/PlantaBeta/Teori/Beta/Definitions/Somon-Ekon-Vion/Overview', collapsed: true, items: [] },
         { text: '🔷-🟩-🔻-🟠', link: '/PlantaBeta/Teori/Beta/Definitions/Somon-Ekon-Vion-Moton/Overview', collapsed: true, items: [] },
@@ -942,12 +941,6 @@ function sidebarTutorial() {
   return [
     { text: 'Tutorial Overview', link: '/tutorial/TutorialOverview' },
     { text: 'Lesson Plans', link: '/tutorial/LessonPlans' },
-    { text: 'Video Tutorials Overview', link: '/tutorial/VideoTutorialsOverview' },
-    { text: 'Labelling', link: '/tutorial/Test_LabelDiagram' },
-    { text: 'Matching', link: '/tutorial/Test_Matching' },
-    { text: 'MultipleChoice', link: '/tutorial/Test_MultipleChoice' },
-    { text: 'Sequencing', link: '/tutorial/Test_Sequencing' },
-    { text: 'Go to Reference', link: '/PlantaBeta/Teori/Elements/Overview' },
   ]
 }
 

@@ -1,6 +1,6 @@
-# 🟩<ekos>Hidrosfera</ekos>
+# ⭐<labor>Site</labor>
 
-Aliases: Water, Hydrosphere
+(Block > Piece > Div > Microsite )
 
 ---
 
@@ -11,6 +11,6 @@ Aliases: Water, Hydrosphere
 <!-- =================================================== -->
 ::: details 🛠
 
--
+- (Block: Website > Piece: Webpage > Div: ContainerElement > Microsite: InteractiveHTMLelement )
 
 :::

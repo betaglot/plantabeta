@@ -1,8 +1,15 @@
-# TeoriDev
+# <dev>TeoriDev</dev>
 
 Find Pages for each Element
 
+## UX
+
+Find Specific Information visually. Text can be easily be found via search box
+
 ## Analogs of Teori
+
+- [WakingUp Explore](https://app.wakingup.com/explore)
+    - The Explore section
 
 - <https://parents.pokemon.com/en-us/trading-card-game/>
 

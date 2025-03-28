@@ -131,6 +131,22 @@ Recall what you learned during the morning truck ride
     - Easter Eggs
     - Achievements
 
+## Criticism
+
+- Planters are often [set up to fail](https://en.wikipedia.org/wiki/Setting_up_to_fail)
+
+- Anti-pedagogy
+    - Some Plantors are fringe or counter-culture, which often leads to a dislike of any schooling.
+    - Plantors who are Dyslexic
+    - Plantors
+    - "when will I ever use this in my life?" is always null in PlantaBeta, literally every piece of information is designed to contribute to plantor's profit 💲🤑💸💰.
+
+- Underestimation
+
+- ShortTerm Gain instead of LongTerm Gain
+- Traditionalism
+    - "This is how we've always done things so why change"
+
 ---
 
 <!-- =================================================== -->

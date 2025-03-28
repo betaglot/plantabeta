@@ -2,7 +2,7 @@
 
 The most important constraint for Instruments is the space it takes in the Truck.
 
-## <beta>TrailerDev</beta>
+## <labor>TrailerDev</labor>
 
 A trailer loaded with everthing that PLANTORS need for their season. For plantors only, not for company logistics like water purification or showers or kitchen.
 
@@ -27,9 +27,22 @@ Not a place where many duplicates items are stored
 - repository
 - storage
 
-#
+### Pitfalls(Trailer)
 
-## 🔻<via>MarkaDev</via>
+- Getting stolen
+    - Wheel Lock
+    - Knob Lock
+    - Door Lock
+    - Chained to a building or Pole
+
+## ⭐<labor>PhoneDev</labor>
+
+- Guided Planting Session
+    - 3k pacer
+    - 2k pacer
+    - Input BagOut parameters
+
+## ⭐<labor>MarkaDev</labor>
 
 ### Kirigami
 
@@ -61,7 +74,7 @@ Not a place where many duplicates items are stored
 Stick them together with honey like cheap bookbinding
 Wax to waterproof
 
-## 🟠<motor>DendroforDev</motor>
+## ⭐<labor>DendroforDev</labor>
 
 Hold the thing that holds the Neon
 
@@ -69,7 +82,7 @@ Clamp under wrist to allow
 
 Attaches to the underside of Radior
 
-## 🟠<motor>KiklosDev</motor>
+## ⭐<labor>KiklosDev</labor>
 
 Kiklos: wheel
 
@@ -78,13 +91,13 @@ Aliases: Cart, Wagon, Trolley, Dolly, WheelBarrow
 - WalkIn
 - BoxMOTON
 
-## 🟠<motor>DoruDev</motor>
+## ⭐<labor>DoruDev</labor>
 
 Greek for Spear
 
 Lash D to Doru
 
-## 🟠<motor>PlantaforDev</motor>
+## ⭐<labor>PlantaforDev</labor>
 
 > (Plantafor == "plant" + "bearer")
 
@@ -100,27 +113,27 @@ Packed up space. Fold up Bag like origami
 
 Partially Disassemble to reduce space
 
-### 🟠<motor>PieceCacheDev</motor>
+### ⭐<labor>PieceCacheDev</labor>
 
 Somehow use Plantafor to carry a PieceCache
 
-### 🟠<motor>BagMaterialDev</motor>
+### ⭐<labor>BagMaterialDev</labor>
 
 - Not plastic
 - Carbon Fiber
 -
 
-### 🟠<motor>BeltDev</motor>
+### ⭐<labor>BeltDev</labor>
 
 - Rope which flows into frame
 - Custom and adjust by knot like harness
 - Suspension System
 
-### 🟠<motor>BasketWallDev</motor>
+### ⭐<labor>BasketWallDev</labor>
 
 - Cradle board sidebag
 
-### 🟠<motor>BagFrameDev</motor>
+### ⭐<labor>BagFrameDev</labor>
 
 They should be rigid and woven
 
@@ -148,7 +161,7 @@ Make cardboard prototype.
 
 "Lay up"
 
-### 🟠<motor>BagSkeletonDev</motor>
+### ⭐<labor>BagSkeletonDev</labor>
 
 Pannier
 
@@ -156,7 +169,7 @@ Pannier
 - To keep sidebags from rubbing on legs.
 - Suspension system
 
-### 🟠<motor>BackBagDev</motor>
+### ⭐<labor>BackBagDev</labor>
 
 - ❌<error>There needs to be another moniker for "BackBag"</error>
     - Something like "Instrumentbox"
@@ -164,14 +177,19 @@ Pannier
 - Use waterproof Flap instead of sphincter design, since sphincter allows water to collect and slowly seep into backbag.
 - Pocket on underside of Flap
 
-### 🟠<motor>MarkaforDev</motor>
+### ⭐<labor>MarkaforDev</labor>
 
-Ideally there would be a Markor on each Ulnor
+- Each time you pull a flag out, it triggers a geolocation
+    - How long does it take to send the signal? You can't stop moving to wait for the transmission.
+
+Ideally there would be a Markor on each Radior
 
 - Stored in many places like a knife thrower in Assassins Creed doesn't throw from the same place each time. Take from wherever is most convenient.
 
-- SpadeMarkafor
-- TibiorMarkafor
+- Radior_Markafor
+- Spade_Markafor
+- Tibior_Markafor
+- Plantafor_Markafor
 
 ### PolyMarkafor
 
@@ -179,28 +197,28 @@ Polychrome or Polytipos
 
 More than one color
 
-## 🟠<motor>RopeDev</motor>
+## ⭐<labor>RopeDev</labor>
 
 Rope to transport the Instruments
 
-### <motor>🟠PlotCordDev</motor>
+### ⭐<labor>PlotCordDev</labor>
 
 - Abacus plot cord
 - Storage within Bags accessible with bags on.
 
-### 🟠<ekos>Lashing(SummerCache)</ekos>
+### ⭐<labor>Lashing(SummerCache)</labor>
 
 Lashing requires a thinner rope than
 
 Use Hemp Lashing so you can leave the sticks to decompose
 
-### <motor>Abrasion Resistant MaterialDev</motor>
+### ⭐<labor>Abrasion Resistant MaterialDev</labor>
 
 Cordura or Kevlar
 
 - <https://www.testextextile.com/evaluating-the-abrasion-resistance-of-different-fabric-types/#Most_Abrasion-Resistant_Synthetic_Fibers>
 
-## 🟠<motor>KitDev</motor>
+## ⭐<labor>KitDev</labor>
 
 ### Requirements
 
@@ -234,9 +252,9 @@ Protein Powder Cookies
 
 ### Dirty Gloves
 
-## <motor>Water VolumeDev</motor>
+## ⭐<labor>Water VolumeDev</labor>
 
-## 🟠<motor>SuitDev</motor>
+## ⭐<labor>SuitDev</labor>
 
 ### SuitModularity
 
@@ -262,7 +280,7 @@ Mail at joints
 
 #### SuitSwap out parts to adapt to EKOS and MOTON
 
-### 🟠<motor>RadiorDev</motor>
+### ⭐<labor>RadiorDev</labor>
 
 #### Etymology(Radior)
 
@@ -288,7 +306,7 @@ The goal of vambrace is to keep the hand clean and warm. There isn't a need to p
 - You only need to worry about the back of your hands. Glabrous warms the palm
 - Wool lining
 
-### 🟠<motor>PaddingDev</motor>
+### ⭐<labor>PaddingDev</labor>
 
 - HipPadding
 - KneePadding
@@ -299,7 +317,7 @@ The goal of vambrace is to keep the hand clean and warm. There isn't a need to p
     - Plantors wear a corset under their waist belt like a saddle pad
     - Corset restricts BendOver
 
-### 🟠<motor>PantDev</motor>
+### ⭐<labor>PantDev</labor>
 
 - Gusset to strengthen crotch
 
@@ -329,7 +347,7 @@ SuitParts = [
 
 ```
 
-### 🟠<motor>TibiorDev</motor>
+### ⭐<labor>TibiorDev</labor>
 
 #### Aliases
 
@@ -350,7 +368,7 @@ SuitParts = [
 - Extra padding to strengthen attachment point and to prevent erosion from metal wire from rubbing on boot leather.
 - Big zipper
 
-### 🟠<motor>GloveDev</motor>
+### ⭐<labor>GloveDev</labor>
 
 - GloveShell
     - HardSurface on palm like Starwars StormTrooper, marvel
@@ -372,18 +390,18 @@ SuitParts = [
 - Glove which does not collect dirt unlike the knitted gloves currently used by most plantors
 - Easily taken off without getting dirt inside
 
-### 🟠<motor>KranosDev</motor>
+### ⭐<labor>KranosDev</labor>
 
 - Etymology(Kranos) = Cranium
 - Helmet
 - SoftShell
 - BugNet
 
-### 🟠<motor>ShellDev</motor>
+### ⭐<labor>ShellDev</labor>
 
 <https://www.patagonia.ca/product/hose-down-slicker-jacket/27892.html?dwvar_27892_color=CMPO>
 
-#### 🟠<motor>ZipperDev</motor>
+#### ⭐<labor>ZipperDev</labor>
 
 - Zipper.Anatomy
     - Tape
@@ -402,7 +420,7 @@ SuitParts = [
     - to prevent getting mud on your shell while you're trying to Mano the ZipperTab
     - to allow you to lever the zipper tab so that the cinch
 
-### 🟠<motor>Bellow BackpackDev</motor>
+### ⭐<labor>Bellow BackpackDev</labor>
 
 Bellow which blows air into shirt for evaporative cooling during summer
 
@@ -414,7 +432,7 @@ Exchangeable Air Filter on Intake Valve
 
 One Way Valve
 
-### 🟠<ekos>Cape</ekos>
+### ⭐<labor>Cape</labor>
 
 Poncho
 
@@ -424,16 +442,16 @@ Aang Cape
 
 ### LocalizedRepair
 
-## 🟩<ekos>EcoInstruments</ekos>
+## ⭐<labor>EcoInstruments</labor>
 
-### 🟩<ekos>TreeBox</ekos>
+### ⭐<labor>TreeBox</labor>
 
 - Premixed boxes
 - PieceCache
 - U haul graphic prt boxes
     - Element poster
 
-### 🟩<ekos>Treepod</ekos>
+### ⭐<labor>Treepod</labor>
 
 Design Treepod to be like ammo.
 
@@ -441,7 +459,7 @@ Seven sided hexagon with honey glue on the last side
 
 Treepod
 
-### 🟩<ekos>Bundle Wrapper</ekos>
+### ⭐<labor>Bundle Wrapper</labor>
 
 (Untie bundle)InsteadOf(BundlePeel)
 

@@ -1,6 +1,8 @@
-# 🟩<ekos>Hidrosfera</ekos>
+# Poor Sport
 
-Aliases: Water, Hydrosphere
+- Putting Rocks in other Plantor's Bags
+- Complaining about false unfairness
+    - You had better land
 
 ---
 

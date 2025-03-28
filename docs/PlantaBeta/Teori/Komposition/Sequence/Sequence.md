@@ -1,4 +1,4 @@
-# 🔷Sequence
+# Sequence
 
 The Sequences of each ElementGroups
 

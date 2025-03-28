@@ -1,6 +1,6 @@
-# 🟩<ekos>Hidrosfera</ekos>
+# Inferiority
 
-Aliases: Water, Hydrosphere
+## Hazing
 
 ---
 

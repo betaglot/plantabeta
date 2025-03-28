@@ -91,7 +91,7 @@ Also Known As "Land Management"
 
 > the use of a particular path or direction for something to travel or be placed
 
-## 🔻<via>VIA</via> affects ⭐<labor>LABOR</labor>
+## <via>VIA</via> affects <labor>LABOR</labor>
 
 - VIA Affects productivity the most because via has deadwalking and cache positioning. VIA Starts and Finishes at the cache.
 
@@ -141,7 +141,7 @@ EKOS is decomposed by composing a VIA
 - Fit the ViaFactors together
 - Lines within ViaSpaces
     - Walking through a Space between Trees.
-    - EcoSpace is everywhere, ViaSpace are only the Spaces which are not obstructed.
+    - EkosSpace is everywhere, ViaSpace are only the Spaces which are not obstructed.
 - ViaPoints within Lines
 
 - ViaSelection
