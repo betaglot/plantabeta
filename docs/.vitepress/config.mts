@@ -948,7 +948,7 @@ function sidebarTutorial() {
 function sidebarExamples() {
   return [
     { text: 'Examples Overview', link: '/examples/ExampleOverview' },
-    { text: 'Go to Tutorial', link: '/tutorial/TutorialOverview' },
+    { text: 'Plantor Questions', link: '/examples/PlantorQuestions' },
   ]
 }
 

@@ -65,39 +65,17 @@ How to get identifer into land for follower, ie how to visually show followers i
 
 - Display on your phone and hold up to camera
 
+### Live
+
+- Bagups
+- Bundle
+- Mound
+- Use obstacles to group trees into donation sizes
+- Donate a trench
+- Donate an area
+- Donate a line in
+
 ### ASMR planting sounds
-
-## Instagram
-
-### Partnerships
-
-- <https://www.instagram.com/antomosplant/?hl=en>
-
-### Triplet carousel
-
-1. Image
-
-2. Beta Object
-
-3. BetaDiagram
-
-Hide Attributes, show diagram. Graphic instead of text
-
-## TikTok
-
-## Facebook
-
-### KKR
-
-King Kong Reforestation
-
-## Meme
-
-## Wild
-
->Definition: very unusual, often in a way that is attractive or exciting
----
->"*Those are wild trousers you're wearing, Maddy.*"
 
 ## Competition
 
@@ -107,19 +85,19 @@ Remove Land as a variable. Judge by MOTON and VIA
 
 Submission then voting
 
-### Best Writing
+### Most Popular Writing
 
 Poem, Prose, Fiction or Non fiction
 
-### Best Art
+### Most Popular Art
 
 Sculpture, Painting, Drawing
 
-### Best Video
+### Most Popular Video
 
 Dance, Skit, BetaVideo
 
-### Best Photo
+### Most Popular Photo
 
 Most Epic BC day, Most shitty Ontario day
 
@@ -131,8 +109,9 @@ Most Epic BC day, Most shitty Ontario day
 
 #### InstrumentPrize
 
-- Greave
-- Water Jug
+- Tibior
+- Radior
+- WaterJug
 - Kneepad
 - Kevlar
 - Cool Leggings
