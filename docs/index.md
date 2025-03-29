@@ -5,7 +5,7 @@ titleTemplate: "PLANTABETA"
 
 hero: 
   image:
-    src: /PlantaBeta_Logo.png
+    src: /Gif.gif
     alt: "Logo"
   text: Everything is Connected
   tagline: Whether you're planting in the mountains of British Columbia, the wetlands of the Canadian Shield, or anywhere in between. Take advantage of this resource to develop your ability to <strong>plant faster</strong> and with <strong>greater quality</strong>.
@@ -29,3 +29,7 @@ features:
     details: Prime yourself for your upcoming planting season. Discover then fill your knowledge gaps. Get back into the mindset of a Plantor!
     link: /tutorial/TutorialOverview
 ---
+
+#
+
+![Gif](/Gif.gif)

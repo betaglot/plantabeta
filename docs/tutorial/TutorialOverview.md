@@ -10,7 +10,7 @@ Multiple choice tests, where Plantors choose from a selection of images or a sel
 - Matching
 - Multiple Choice
 - Sequencing
-- Error Dectection
+- Error Detection
 - Crosswords
 
 ## 🌈<beta>BETA Test</beta>

@@ -99,9 +99,7 @@ Approximately 6500 Plantors each season in Canada
 - Drive to Eko
 - Plant for 8.5 hours
     - Take trees out of boxes or trays, then load the trees into bags
-    [InsertImage]
     - Put on the bags and walk into your Eko
-    [InsertImage]
     - Plant all the trees in your bag
 
 - Drive home

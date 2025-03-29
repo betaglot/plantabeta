@@ -10,7 +10,7 @@ There will always be an element of Trial and Error in tree planting. A goal of P
 
 ## Decrease the time it takes to train a NovicePlantor
 
-[InsertDiagram] Horizontal Timeline of Novice Season
+Horizontal Timeline of Novice Season
 
 - Novices usually take about a month before they can consistently plant a the same rate as experienced Plantors.
 - Make the learning process more intense and shorter.
