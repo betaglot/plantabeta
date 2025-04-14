@@ -1,7 +1,7 @@
 ---
 aside: false
 ---
-# ⭐<labor>Doru</labor>-Post
+# (⭐,)<laborDoru</labor>-Post
 
 - Post Doru when setting up or returning to cache for easier grabbing with full bags. No bend and easier Find(Spade)
 

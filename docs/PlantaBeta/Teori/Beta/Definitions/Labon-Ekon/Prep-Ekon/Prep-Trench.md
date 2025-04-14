@@ -1,7 +1,7 @@
 ---
 aside: false
 ---
-# TrenchPrep
+# <labor>TrenchPrep</labor>
 
 ---
 

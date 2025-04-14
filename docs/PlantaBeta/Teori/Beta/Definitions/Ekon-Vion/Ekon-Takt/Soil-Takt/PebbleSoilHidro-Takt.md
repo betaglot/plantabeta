@@ -1,7 +1,7 @@
 ---
 aside: false
 ---
-# (🟩,)<ekos>PebbleSoilHidro</ekos>,🔻<via>Takt</via>
+# (🟩,🔻)<ekos>PebbleSoilHidro</ekos>,<via>Takt</via>
 
 ---
 

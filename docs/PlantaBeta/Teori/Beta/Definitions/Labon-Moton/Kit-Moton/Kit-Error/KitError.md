@@ -1,4 +1,7 @@
-# Kit-❌<error>Error</error>
+---
+aside: false
+---
+# (⭐,❌)<labor>Kit</labor>,<error>Error</error>
 
 ---
 

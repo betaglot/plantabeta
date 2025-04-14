@@ -1,7 +1,7 @@
 ---
 aside: false
 ---
-# Boot-❌<error>Error</error>
+# (⭐,❌)<labor>Boot</labor>-<error>Error</error>
 
 ---
 

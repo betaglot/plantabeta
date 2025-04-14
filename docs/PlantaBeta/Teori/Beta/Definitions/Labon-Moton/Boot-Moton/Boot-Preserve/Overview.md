@@ -1,4 +1,7 @@
-# Boot,🟠<motor>Preserve</motor>
+---
+aside: false
+---
+# (⭐,🟠)<labor>Boot</labor>,<motor>Preserve</motor>
 
 ---
 

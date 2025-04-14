@@ -1,7 +1,7 @@
 ---
 aside: false
 ---
-# Neon-Insert
+# (⭐,🟠)<labor>Neon</labor>,<motor>Insert</motor>
 
 ---
 

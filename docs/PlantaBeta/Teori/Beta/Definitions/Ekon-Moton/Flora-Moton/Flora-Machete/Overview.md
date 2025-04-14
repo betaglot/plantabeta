@@ -1,7 +1,7 @@
 ---
 aside: false
 ---
-# (🟩,)<ekos>Flora</ekos>,🟠<motor>Machete</motor>
+# (🟩,🟠)<ekos>Flora</ekos>,<motor>Machete</motor>
 
 ---
 

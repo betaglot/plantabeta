@@ -1,4 +1,7 @@
-# 🟠<motor>BundleError</motor>
+---
+aside: false
+---
+# (⭐,❌) <labor>Bundle</labor>,Error
 
 ---
 

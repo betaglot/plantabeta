@@ -1,7 +1,7 @@
 ---
 aside: false
 ---
-# Bag,🟠<motor>Aspis</motor>
+# (⭐,🟠)<labor>Bag</labor>,<motor>Aspis</motor>
 
 ---
 

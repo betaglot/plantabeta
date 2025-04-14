@@ -1,7 +1,7 @@
 ---
 aside: false
 ---
-# Bottle,🟠<motor>MOTON</motor>
+# (⭐,🟠)<labor>Bottle</labor>,<motor>MOTON</motor>
 
 Aliases: water bottle
 

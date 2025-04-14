@@ -1,4 +1,7 @@
-# ⭐<labor>Boot</labor>,🟠<motor>Mano</motor>
+---
+aside: false
+---
+# (⭐,🟠)<labor>Boot</labor>,<motor>Mano</motor>
 
 ---
 

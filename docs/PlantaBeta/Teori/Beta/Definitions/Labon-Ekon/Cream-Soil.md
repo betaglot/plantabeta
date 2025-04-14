@@ -1,7 +1,7 @@
 ---
 aside: false
 ---
-# ⭐<labor>Cream</labor>,🟩<ekos>Soil</ekos>
+# (⭐,🟩)(<labor>Cream</labor>,<ekos>Soil</ekos>)
 
 ---
 

@@ -1,7 +1,7 @@
 ---
 aside: false
 ---
-# (🟩,)<ekos>LitoRoughHidro</ekos>,🔻<via>Takt</via>
+# (🟩,🔻)<ekos>LitoRoughHidro</ekos>,<via>Takt</via>
 
 ---
 

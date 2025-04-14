@@ -1,7 +1,7 @@
 ---
 aside: false
 ---
-# ⭐<labor>Box</labor>-Mano
+# (⭐,🟠)<laborBox</labor>,<motor>Mano</motor>
 
 ---
 

@@ -1,7 +1,7 @@
 ---
 aside: false
 ---
-# Neon-Mano
+# (⭐,🟠)<labor>Neon</labor>,Mano
 
 ## NeonMano Purpose
 

@@ -1,7 +1,7 @@
 ---
 aside: false
 ---
-# Microsite🟠<motor>Klose</motor>
+# (⭐,🟠)Microsite🟠<motor>Klose</motor>
 
 Aliases: HoleClose
 

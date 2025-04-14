@@ -1,7 +1,7 @@
 ---
 aside: false
 ---
-# ⭐<labor>Doru</labor>🟠<motor>Drag</motor>
+# (⭐,)<laborDoru</labor>🟠<motor>Drag</motor>
 
 ---
 

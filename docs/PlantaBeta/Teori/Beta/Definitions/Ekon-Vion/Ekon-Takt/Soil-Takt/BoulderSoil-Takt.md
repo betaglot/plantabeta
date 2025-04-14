@@ -1,7 +1,7 @@
 ---
 aside: false
 ---
-# (🟩,)<ekos>BoulderSoil</ekos>,🔻<via>Takt</via>
+# (🟩,🔻)<ekos>BoulderSoil</ekos>,<via>Takt</via>
 
 ---
 

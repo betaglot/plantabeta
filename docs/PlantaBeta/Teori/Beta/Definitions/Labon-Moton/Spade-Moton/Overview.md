@@ -1,7 +1,7 @@
 ---
 aside: false
 ---
-# ⭐<labor>Spade</labor>,🟠<motor>MOTON</motor>
+# (⭐,)<laborSpade</labor>,🟠<motor>MOTON</motor>
 
 ## SpadeMOTON.Anatomy
 

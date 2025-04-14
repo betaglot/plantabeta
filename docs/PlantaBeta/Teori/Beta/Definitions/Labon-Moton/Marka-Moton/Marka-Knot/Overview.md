@@ -1,13 +1,13 @@
 ---
 aside: false
 ---
-# Marka🟠<motor>Knot</motor>
+# (⭐,🟠)<labor>Marka</labor><motor>Knot</motor>
 
-## MarkaBowtie
+## <labor>Marka</labor>Bowtie
 
-## MarkaGirthHitch
+## <labor>Marka</labor>GirthHitch
 
-## MarkaOverhandKnot
+## <labor>Marka</labor>OverhandKnot
 
 ---
 

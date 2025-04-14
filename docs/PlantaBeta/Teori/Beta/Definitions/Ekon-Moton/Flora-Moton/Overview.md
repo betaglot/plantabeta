@@ -1,7 +1,7 @@
 ---
 aside: false
 ---
-# (🟩,)<ekos>Flora</ekos>,🟠<motor>MOTON</motor>
+# (🟩,🟠)<ekos>Flora</ekos>,<motor>MOTON</motor>
 
 ## FloraMOTON.Anatomy
 

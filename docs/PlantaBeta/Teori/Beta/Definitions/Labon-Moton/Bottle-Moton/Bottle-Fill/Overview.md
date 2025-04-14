@@ -1,4 +1,7 @@
-# Bottle,🟠<motor>Fill</motor>
+---
+aside: false
+---
+# (⭐,🟠)<labor>Bottle</labor>,<motor>Fill</motor>
 
 ---
 

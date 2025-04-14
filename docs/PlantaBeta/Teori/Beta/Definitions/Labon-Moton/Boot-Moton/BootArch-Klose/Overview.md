@@ -1,7 +1,7 @@
 ---
 aside: false
 ---
-# ⭐<labor>BootArch</labor>,🟠<motor>Klose</motor>
+# (⭐,🟠)<laborBootArch</labor>,<motor>Klose</motor>
 
 ---
 

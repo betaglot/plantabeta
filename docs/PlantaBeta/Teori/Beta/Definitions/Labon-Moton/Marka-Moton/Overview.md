@@ -1,9 +1,9 @@
 ---
 aside: false
 ---
-# ⭐<labor>Marka</labor>,🟠<motor>MOTON</motor>
+# (⭐,🟠)<laborMarka</labor>,<motor>MOTON</motor>
 
-## MarkaPut
+## <labor>Marka</labor>Put
 
 post verb (MAKE KNOWN)
 
@@ -11,12 +11,12 @@ post verb (MAKE KNOWN)
 
 Markas are posted throughout the land.
 
-## MarkaMOTON.Anatomy
+## <labor>Marka</labor>MOTON.Anatomy
 
 - MarkaBody
 - MarkaEnd
 
-## MarkaMOTON.Attributes
+## <labor>Marka</labor>MOTON.Attributes
 
 - MarkaLength
 - MarkaWidth

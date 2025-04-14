@@ -1,7 +1,7 @@
 ---
 aside: false
 ---
-# BurnPit
+# (<labor>BurnPit</labor>)
 
 - The area of EKOS which is the remants of a burnt BurnPile.
 

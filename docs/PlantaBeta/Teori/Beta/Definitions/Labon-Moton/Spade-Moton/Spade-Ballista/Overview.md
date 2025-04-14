@@ -1,7 +1,7 @@
 ---
 aside: false
 ---
-# ⭐<labor>Spade</labor>🟠<motor>Ballista</motor>
+# (⭐,)<laborSpade</labor>🟠<motor>Ballista</motor>
 
 - The FinishMOTON of SpadeBallista is SpadePost
 

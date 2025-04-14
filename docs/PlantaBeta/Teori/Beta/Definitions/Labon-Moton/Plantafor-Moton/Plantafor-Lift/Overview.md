@@ -1,7 +1,7 @@
 ---
 aside: false
 ---
-# Bag-Lift
+# <labor>Bag</labor>,<motor>Lift</motor>
 
 ---
 

@@ -1,7 +1,7 @@
 ---
 aside: false
 ---
-# Strap,🟠<motor>Kontakt</motor>
+# (⭐,🟠)<labor>Strap</labor>,<motor>Kontakt</motor>
 
 ---
 
