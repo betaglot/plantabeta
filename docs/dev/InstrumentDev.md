@@ -44,7 +44,17 @@ Not a place where many duplicates items are stored
 
 ## ⭐<labor>MarkaDev</labor>
 
-### Kirigami
+> Paper Towel cut into strips and painted <soma>BLUE</soma> with non toxic paint
+
+### Color
+
+```md
+#3fb0df
+```
+
+### Form
+
+#### Kirigami
 
 > Kirigami is a variation of origami, the Japanese art of folding paper. In kirigami, the paper is cut as well as being folded, resulting in a three-dimensional design that stands away from the page.
 
@@ -73,6 +83,24 @@ Not a place where many duplicates items are stored
 
 Stick them together with honey like cheap bookbinding
 Wax to waterproof
+
+### Materials
+
+#### Paper Towel
+
+[Seventh Generation](https://www.seventhgeneration.com/100-recycled-paper-towels)
+
+#### Pigment, not Dye
+
+Recycled Paper is usually to dark to dye light blue. Tint isn't easily added to dyes. The Blue need to be
+
+##### Non-Toxic
+
+[The Effects of Natural and Synthetic Blue Dyes on Human Health: A Review of Current Knowledge and Therapeutic Perspectives](https://pmc.ncbi.nlm.nih.gov/articles/PMC8634323/)
+
+##### Spirulina
+
+<https://www.cbc.ca/news/canada/calgary/university-of-calgary-1.6125840>
 
 ## ⭐<labor>DendroforDev</labor>
 

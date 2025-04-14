@@ -2,7 +2,7 @@
 aside: false
 ---
 
-# ⭐<labor>LABON</labor>-🔷<soma>SOMON</soma>
+# ⭐<labor>LABON</labor>,🔷<soma>SOMON</soma>
 
 ---
 

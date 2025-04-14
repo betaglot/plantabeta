@@ -1,7 +1,7 @@
 ---
 aside: false
 ---
-# Tibior-🟠<motor>MOTON</motor>
+# Tibior,🟠<motor>MOTON</motor>
 
 Aliases: Gaiter, Shin Pad
 

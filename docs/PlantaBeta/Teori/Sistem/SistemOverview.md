@@ -30,7 +30,7 @@ Betomiks(Komposition(Betum(Element)))
 
 DotNotation for Subset
 
-Brazo.Anterior-Down-🟠<motor>Ama</motor>
+Brazo.Anterior-Down,🟠<motor>Ama</motor>
 
 - Timestamp
 - File being refered to

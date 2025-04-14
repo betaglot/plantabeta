@@ -1,5 +1,17 @@
 # 🌈<beta>BETUM</beta>
 
+> The elements that happen each Beat
+
+Pronouned "bee-tum"
+
+## Etymology of Betum
+
+### Beat from Music
+
+### Beat from Dance
+
+(1,2,3,4,5,6,7,8)
+
 ---
 
 <!-- =================================================== -->

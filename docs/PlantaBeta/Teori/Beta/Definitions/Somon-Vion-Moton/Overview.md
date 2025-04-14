@@ -1,4 +1,4 @@
-# 🔷<soma>SOMON</soma>-🔻<via>VION</via>-🟠<motor>MOTON</motor>
+# 🔷<soma>SOMON</soma>,🔻<via>VION</via>,🟠<motor>MOTON</motor>
 
 ---
 

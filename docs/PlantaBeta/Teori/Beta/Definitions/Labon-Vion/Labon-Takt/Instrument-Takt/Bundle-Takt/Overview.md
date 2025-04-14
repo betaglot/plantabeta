@@ -1,7 +1,7 @@
 ---
 aside: false
 ---
-# ⭐<labor>Bundle</labor>-🔻<via>Takt</via>
+# ⭐<labor>Bundle</labor>,🔻<via>Takt</via>
 
 ---
 

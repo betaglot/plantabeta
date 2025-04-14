@@ -1,7 +1,7 @@
 ---
 aside: false
 ---
-# 🟩<ekos>Flora</ekos>-🟠<motor>Deflection</motor>
+# (🟩,)<ekos>Flora</ekos>,🟠<motor>Deflection</motor>
 
 > Use a FloraParry to redirect flora which is colliding with you.  
 

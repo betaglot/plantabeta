@@ -1,7 +1,7 @@
 ---
 aside: false
 ---
-# 🔷<soma>Korpo</soma>-🟠<motor>Lean</motor>
+# 🔷<soma>Korpo</soma>,🟠<motor>Lean</motor>
 
 ## 🟠 BodyLean Problem
 

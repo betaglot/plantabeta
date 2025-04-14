@@ -1,7 +1,7 @@
 ---
 aside: false
 ---
-# 🔷<soma>Base</soma>-🟠<motor>MOTON</motor>
+# 🔷<soma>Base</soma>,🟠<motor>MOTON</motor>
 
 ## Base.Anatomy
 

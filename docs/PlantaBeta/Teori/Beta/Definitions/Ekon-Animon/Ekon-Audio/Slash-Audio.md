@@ -1,7 +1,7 @@
 ---
 aside: false
 ---
-# 🟩<ekos>Slash</ekos>-💜<anima>Audio</anima>
+# (🟩,💜)<ekos>Slash</ekos>,<anima>Audio</anima>
 
 ## Falling
 

@@ -1,7 +1,7 @@
 ---
 aside: false
 ---
-# Radior-🟠<motor>MOTON</motor>
+# Radior,🟠<motor>MOTON</motor>
 
 Aliases: Vambrace, Forearm Guard
 

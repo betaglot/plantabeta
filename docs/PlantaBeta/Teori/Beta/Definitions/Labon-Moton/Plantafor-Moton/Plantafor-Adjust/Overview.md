@@ -1,7 +1,7 @@
 ---
 aside: false
 ---
-# Plantafor-🟠<motor>Adjust</motor>
+# Plantafor,🟠<motor>Adjust</motor>
 
 ---
 

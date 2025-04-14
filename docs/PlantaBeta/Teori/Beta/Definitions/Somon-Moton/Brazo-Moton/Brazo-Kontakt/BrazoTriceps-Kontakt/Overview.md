@@ -1,7 +1,7 @@
 ---
 aside: false
 ---
-# Triceps-🟠<motor>Kontakt</motor>
+# Triceps,🟠<motor>Kontakt</motor>
 
 ---
 

@@ -1,7 +1,7 @@
 ---
 aside: false
 ---
-# 🟩<ekos>Log</ekos>-🟠<motor>Launch</motor>
+# (🟩,)<ekos>Log</ekos>,🟠<motor>Launch</motor>
 
 > Launch a Log away from microsite with your leg
 

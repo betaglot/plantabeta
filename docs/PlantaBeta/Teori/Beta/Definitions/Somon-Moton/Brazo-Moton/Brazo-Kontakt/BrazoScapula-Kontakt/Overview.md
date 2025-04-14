@@ -1,7 +1,7 @@
 ---
 aside: false
 ---
-# Scapula-🟠<motor>Kontakt</motor>
+# Scapula,🟠<motor>Kontakt</motor>
 
 ---
 

@@ -1,4 +1,4 @@
-# ⭐<labor>Boot</labor>-🟠<motor>Mano</motor>
+# ⭐<labor>Boot</labor>,🟠<motor>Mano</motor>
 
 ---
 

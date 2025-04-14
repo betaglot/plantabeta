@@ -1,7 +1,7 @@
 ---
 aside: false
 ---
-# 🟩<ekos>Bryophyte</ekos>-🔻<via>Takt</via>
+# (🟩,)<ekos>Bryophyte</ekos>,🔻<via>Takt</via>
 
 ---
 

@@ -1,7 +1,7 @@
 ---
 aside: false
 ---
-# 🔷<soma>Plantar</soma>-🟠<motor>Flexion</motor>
+# 🔷<soma>Plantar</soma>,🟠<motor>Flexion</motor>
 
 ---
 

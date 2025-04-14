@@ -1,7 +1,7 @@
 ---
 aside: false
 ---
-# KitStrap-🔻<via>Takt</via>
+# KitStrap,🔻<via>Takt</via>
 
 ---
 

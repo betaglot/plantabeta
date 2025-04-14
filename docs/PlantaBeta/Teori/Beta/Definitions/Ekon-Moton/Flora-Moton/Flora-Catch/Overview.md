@@ -1,7 +1,7 @@
 ---
 aside: false
 ---
-# 🟩<ekos>Flora</ekos>-🟠<motor>Catch</motor>
+# (🟩,)<ekos>Flora</ekos>,🟠<motor>Catch</motor>
 
 > Grab vegetation before colliding with it
 

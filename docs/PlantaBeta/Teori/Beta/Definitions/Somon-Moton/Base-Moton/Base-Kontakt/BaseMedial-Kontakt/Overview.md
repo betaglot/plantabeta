@@ -1,7 +1,7 @@
 ---
 aside: false
 ---
-# Medial-🟠<motor>Kontakt</motor>
+# Medial,🟠<motor>Kontakt</motor>
 
 ---
 

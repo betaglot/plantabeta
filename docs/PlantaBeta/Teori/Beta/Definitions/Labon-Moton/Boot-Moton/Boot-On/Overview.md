@@ -1,7 +1,7 @@
 ---
 aside: false
 ---
-# ⭐<labor>Boot</labor>-🟠<motor>On</motor>
+# ⭐<labor>Boot</labor>,🟠<motor>On</motor>
 
 ---
 

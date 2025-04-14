@@ -1,7 +1,7 @@
 ---
 aside: false
 ---
-# ⭐<labor>Marka</labor>-🟠<motor>MOTON</motor>
+# ⭐<labor>Marka</labor>,🟠<motor>MOTON</motor>
 
 ## MarkaPut
 

@@ -1,7 +1,7 @@
 ---
 aside: false
 ---
-# 🟩<ekos>Soil</ekos>-💜<anima>Audio</anima>
+# (🟩,💜)<ekos>Soil</ekos>,<anima>Audio</anima>
 
 ---
 

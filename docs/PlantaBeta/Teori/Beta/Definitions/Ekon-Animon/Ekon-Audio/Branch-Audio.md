@@ -1,7 +1,7 @@
 ---
 aside: false
 ---
-# 🟩<ekos>Branch</ekos>-💜<anima>Audio</anima>
+# (🟩,💜)<ekos>Branch</ekos>,<anima>Audio</anima>
 
 ---
 

@@ -1,4 +1,4 @@
-# 🟩<ekos>EKON</ekos>-💜<anima>Audio</anima>
+# (🟩,💜)<ekos>EKON</ekos>,<anima>Audio</anima>
 
 ---
 

@@ -1,7 +1,7 @@
 ---
 aside: false
 ---
-# 🟩<ekos>EKON</ekos>-🔻<via>VION</via>
+# (🟩,)<ekos>EKON</ekos>,🔻<via>VION</via>
 
 ---
 

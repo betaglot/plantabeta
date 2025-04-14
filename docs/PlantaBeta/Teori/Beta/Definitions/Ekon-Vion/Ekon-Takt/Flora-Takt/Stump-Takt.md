@@ -1,7 +1,7 @@
 ---
 aside: false
 ---
-# 🟩<ekos>Stump</ekos>-🔻<via>Takt</via>
+# (🟩,)<ekos>Stump</ekos>,🔻<via>Takt</via>
 
 ---
 

@@ -1,7 +1,7 @@
 ---
 aside: false
 ---
-# 🟩<ekos>FloraStem</ekos>-🔻<via>Takt</via>
+# (🟩,)<ekos>FloraStem</ekos>,🔻<via>Takt</via>
 
 ---
 

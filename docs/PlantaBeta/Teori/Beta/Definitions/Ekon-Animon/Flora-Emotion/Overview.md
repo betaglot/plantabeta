@@ -1,7 +1,9 @@
 ---
 aside: false
 ---
-# 🟩<ekos>Flora</ekos>-💜<anima>Emotion</anima>
+# (🟩,💜)
+
+(<ekos>Flora</ekos>,<anima>Emotion</anima>)
 
 ---
 

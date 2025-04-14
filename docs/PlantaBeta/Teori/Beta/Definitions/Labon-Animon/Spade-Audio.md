@@ -1,7 +1,7 @@
 ---
 aside: false
 ---
-# ⭐<labor>Spade</labor>-💜<anima>Audio</anima>
+# ⭐<labor>Spade</labor>,💜<anima>Audio</anima>
 
 ---
 

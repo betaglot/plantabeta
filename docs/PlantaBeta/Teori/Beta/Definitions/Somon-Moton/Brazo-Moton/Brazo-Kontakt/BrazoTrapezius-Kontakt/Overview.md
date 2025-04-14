@@ -1,7 +1,7 @@
 ---
 aside: false
 ---
-# Trapezius-🟠<motor>Kontakt</motor>
+# Trapezius,🟠<motor>Kontakt</motor>
 
 ---
 
