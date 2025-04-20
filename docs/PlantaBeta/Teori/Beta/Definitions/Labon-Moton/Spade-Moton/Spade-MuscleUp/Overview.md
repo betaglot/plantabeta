@@ -1,7 +1,7 @@
 ---
 aside: false
 ---
-# [⭐,)<labor>Spade</labor>-MuscleUp
+# [⭐,]<labor>Spade</labor>-MuscleUp
 
 ---
 

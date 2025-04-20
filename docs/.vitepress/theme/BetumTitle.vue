@@ -1,44 +1,19 @@
 <template>
-    <!-- <v-sheet class="betumChip px-1"
-            tag="span"
+    <v-sheet rounded="xl" border="primary lg" class="mx-auto mt-4">
+        <v-container class="text-h2 font-weight-bold ">
+    
+            <v-row class="" v-if="l"><span>⭐</span><span class="labon pl-2">{{ l }}</span><span v-if="l && (s || e || v || m || a)" class="plantabeta">,</span></v-row>
+            <v-row class="pt-1" v-if="s"><span>🔷</span><span class="somon pl-2">{{ s }}</span><span v-if="s && (e || v || m || a)" class="plantabeta">,</span></v-row>
+            <v-row class="pt-1" v-if="e"><span>🟩</span><span class="ekon pl-2" >{{ e }}</span><span v-if="e && (v || m || a)" class="plantabeta">,</span></v-row>
+            <v-row class="pt-1" v-if="v"><span>🔻</span><span class="vion pl-2" >{{ v }}</span><span v-if="v && (m || a)" class="plantabeta">,</span></v-row>
+            <v-row class="pt-1" v-if="m"><span>🟠</span><span class="moton pl-2" >{{ m }}</span><span v-if="m && a" class="plantabeta">,</span></v-row>
+            <v-row class="pt-1" v-if="a"><span>💜</span><span class="animon pl-2" >{{ a }}</span></v-row>
             
-            >
-      [<span class="labon">{{ l }}</span><span v-if="l && (s || e || v || m || a)">,</span>
-      <span class="somon">{{ s }}</span><span v-if="s && (e || v || m || a)">,</span>
-      <span class="ekon">{{ e }}</span><span v-if="e && (v || m || a)">,</span>
-      <span class="vion">{{ v }}</span><span v-if="v && (m || a)">,</span>
-      <span class="moton">{{ m }}</span><span v-if="m && a">,</span>
-      <span class="animon">{{ a }}</span>]
-    </v-sheet> -->
-    <v-container
-        class="rounded-xl pl-0"  
-    >
-        <v-row>
-            <v-row class="text-h2 font-weight-bold pl-0">      
-                <span class="plantabeta">[</span>
-                <span v-if="l">⭐</span><span v-if="l && (s || e || v || m || a)" class="plantabeta">,</span>
-                <span v-if="s">🔷</span><span v-if="s && (e || v || m || a)" class="plantabeta">,</span>
-                <span v-if="e">🟩</span><span v-if="e && (v || m || a)" class="plantabeta">,</span>
-                <span v-if="v">🔻</span><span v-if="v && (m || a)" class="plantabeta">,</span>
-                <span v-if="m">🟠</span><span v-if="m && a" class="plantabeta">,</span>
-                <span v-if="a">💜</span>
-                <span class="plantabeta">]</span>
-            </v-row>
-            <v-container class="text-h2 font-weight-bold pl-0">
-                <span class="plantabeta">[</span>
-                <v-row v-if="l"><span class="labon pl-10">{{ l }}</span><span v-if="l && (s || e || v || m || a)" class="plantabeta">,</span></v-row>
-                <v-row v-if="s"><span class="somon pl-10">{{ s }}</span><span v-if="s && (e || v || m || a)" class="plantabeta">,</span></v-row>
-                <v-row v-if="e"><span class="ekon pl-10" >{{ e }}</span><span v-if="e && (v || m || a)" class="plantabeta">,</span></v-row>
-                <v-row v-if="v"><span class="vion pl-10" >{{ v }}</span><span v-if="v && (m || a)" class="plantabeta">,</span></v-row>
-                <v-row v-if="m"><span class="moton pl-10" >{{ m }}</span><span v-if="m && a" class="plantabeta">,</span></v-row>
-                <v-row v-if="a"><span class="animon pl-10" >{{ a }}</span></v-row>
-                <span class="plantabeta">]</span>
-            </v-container>
-        </v-row>
-    </v-container>
-  </template>
+        </v-container>
+    </v-sheet>
+</template>
   
-  <script setup>
+<script setup>
   const props = defineProps({
     l: String,
     s: String,
@@ -58,42 +33,38 @@
   
   // "`/PlantaBeta/Teori/Beta/Definitions/${l}-${s}`"
   
-  </script>
+</script>
   
-  <style>
-  .plantabeta {
-    color: #6ec08b;
-  }
+<style>
+.labon {
 
-  .labon {
-  
-    color: #FFCC00;
-  
-  }
-  
-  .somon {
-  
-    color: #569cd6;
-  }
-  
-  .ekon {
-  
-    color: #6a9955;
-  }
-  
-  .vion {
-  
-    color: #f44747;
-  }
-  
-  .moton {
-  
-    color: #bf6a34;
-  
-  }
-  
-  .animon {
-  
-    color: #c586c0;
-  }
-  </style>
+  color: #FFCC00;
+
+}
+
+.somon {
+
+  color: #569cd6;
+}
+
+.ekon {
+
+  color: #6a9955;
+}
+
+.vion {
+
+  color: #f44747;
+}
+
+.moton {
+
+  color: #bf6a34;
+
+}
+
+.animon {
+
+  color: #c586c0;
+}
+</style>

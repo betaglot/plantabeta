@@ -1,7 +1,7 @@
 ---
 aside: false
 ---
-# [⭐,)<labor>Neon</labor>,🔻<via>Takt</via>
+# [⭐,]<labor>Neon</labor>,🔻<via>Takt</via>
 
 ---
 

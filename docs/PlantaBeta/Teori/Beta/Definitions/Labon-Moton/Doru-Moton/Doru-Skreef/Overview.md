@@ -1,7 +1,7 @@
 ---
 aside: false
 ---
-# [⭐,)<labor>Doru</labor>-Skreef
+# [⭐,]<labor>Doru</labor>-Skreef
 
 ---
 

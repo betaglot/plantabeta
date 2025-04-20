@@ -1,7 +1,7 @@
 ---
 aside: false
 ---
-# [⭐,🟠)<laborPlantafor</labor>,<motor>Preserve</motor>
+# [⭐,🟠]<labor>Plantafor</labor>,<motor>Preserve</motor>
 
 ---
 

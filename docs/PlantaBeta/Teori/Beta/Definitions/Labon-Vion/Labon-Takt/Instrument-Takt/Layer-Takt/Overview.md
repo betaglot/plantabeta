@@ -1,7 +1,7 @@
 ---
 aside: false
 ---
-# [⭐,)<labor>Layer</labor>,🔻<via>Takt</via>
+# [⭐,]<labor>Layer</labor>,🔻<via>Takt</via>
 
 ---
 

@@ -1,21 +1,29 @@
 ---
 aside: false
 ---
-<BT l='Spade's='Tall'e='DeadGrass'v='Constricted'm='Skreef'a='MaxEffort'/>
 
-# .
+# <py>[<labor>Spade</labor>,<motor>Skreef</motor>]</py>
 
-## <labor>Spade</labor>
+<BT
+    l='Spade'
+    m='Skreef'
+/>
 
-## <soma>Tall</soma>
+## <py>Elements</py>
 
-## <ekos>DeadGrass</ekos>
+<!-- V-Carousel -->
 
-## <via>Constricted</via>
+### ⭐<labor>Spade</labor>
 
-## <motor>Skreef</motor>
+### 🟠<motor>Skreef</motor>
 
-## <anima>MaxEffort</anima>
+## <py>Subtypes</py>
+
+- <BC l='Spade's=''e='Stump'v=''m='Skreef.Lever'a=''/>
+- <BC l='Spade's=''e=''v=''m='Skreef.Collar.2Finger'a=''/>
+- <BC l='Spade's=''e=''v=''m='Skreef.X'a=''/>
+
+## <py>Examples</py>
 
 ---
 

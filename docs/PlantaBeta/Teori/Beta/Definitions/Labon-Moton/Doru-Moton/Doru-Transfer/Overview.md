@@ -1,7 +1,7 @@
 ---
 aside: false
 ---
-# [⭐,)<labor>Doru</labor>-Transfer
+# [⭐,]<labor>Doru</labor>-Transfer
 
 ---
 

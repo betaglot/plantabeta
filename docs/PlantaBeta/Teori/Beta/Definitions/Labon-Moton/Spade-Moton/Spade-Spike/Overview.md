@@ -1,7 +1,7 @@
 ---
 aside: false
 ---
-# [⭐,)<labor>Spade</labor>-Spike
+# [⭐,]<labor>Spade</labor>-Spike
 
 Aliases: SpadeSlam, SpadeThrow, SpadeChop
 

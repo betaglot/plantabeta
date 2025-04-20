@@ -1,7 +1,7 @@
 ---
 aside: false
 ---
-# [⭐,)<labor>Doru</labor>-Rotate
+# [⭐,]<labor>Doru</labor>-Rotate
 
 ---
 

@@ -18,7 +18,19 @@ const vuetify = createVuetify({
     components,
     directives,
     theme: {
-        defaultTheme: 'dark'
+        defaultTheme: 'dark',
+        themes: {
+            dark: {
+              colors: {
+                primary: "#6ec08b",
+              }
+            },
+            light: {
+                colors: {
+                  primary: "#6ec08b",
+                }
+              },
+          },
     },
     icons: {
         defaultSet: 'mdi', // This is already the default value - only for display purposes

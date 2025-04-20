@@ -1,0 +1,80 @@
+[
+    {
+       "betumID": "",
+       "betumElements": {
+          "labon": ["Ekon"],
+          "somon": [""],
+          "ekon": [""],
+          "vion": [""],
+          "moton": [""],
+          "animon": ["Audio"]
+       },
+       "betumPath": "",
+       "betumDescription": [],
+       "betumExample": {
+           "betumExampleVideo": [],
+           "betumExampleImage": [],
+           "betumExampleQuote": [] 
+       },
+       "betumSubtypes": []
+    },
+    {
+       "betumID": "",
+       "betumElements": {
+          "labon": [""],
+          "somon": [""],
+          "ekon": ["Flora"],
+          "vion": [""],
+          "moton": [""],
+          "animon": ["Emotion"]
+       },
+       "betumPath": "",
+       "betumDescription": [],
+       "betumExample": {
+           "betumExampleVideo": [],
+           "betumExampleImage": [],
+           "betumExampleQuote": [] 
+       },
+       "betumSubtypes": []
+    },
+    {
+       "betumID": "",
+       "betumElements": {
+          "labon": [""],
+          "somon": [""],
+          "ekon": ["Flora"],
+          "vion": [""],
+          "moton": [""],
+          "animon": ["Identification"]
+       },
+       "betumPath": "",
+       "betumDescription": [],
+       "betumExample": {
+           "betumExampleVideo": [],
+           "betumExampleImage": [],
+           "betumExampleQuote": [] 
+       },
+       "betumSubtypes": []
+    },
+    {
+       "betumID": "",
+       "betumElements": {
+          "labon": [""],
+          "somon": [""],
+          "ekon": ["Flora"],
+          "vion": [""],
+          "moton": [""],
+          "animon": [""]
+       },
+       "betumPath": "",
+       "betumDescription": [],
+       "betumExample": {
+           "betumExampleVideo": [],
+           "betumExampleImage": [],
+           "betumExampleQuote": [] 
+       },
+       "betumSubtypes": []
+    },
+    
+    
+]
