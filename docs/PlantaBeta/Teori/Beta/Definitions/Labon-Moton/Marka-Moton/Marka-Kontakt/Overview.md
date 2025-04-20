@@ -1,7 +1,7 @@
 ---
 aside: false
 ---
-# [⭐,🟠)<laborMarka</labor>,<motor>Kontakt</motor>
+# [⭐,🟠)<labor>Marka</labor>,<motor>Kontakt</motor>
 
 ---
 

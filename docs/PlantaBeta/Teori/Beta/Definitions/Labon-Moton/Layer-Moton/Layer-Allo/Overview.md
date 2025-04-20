@@ -1,7 +1,7 @@
 ---
 aside: false
 ---
-# [⭐,)<laborLayer</labor>🟠<motor>Allo</motor>
+# [⭐,)<labor>Layer</labor>🟠<motor>Allo</motor>
 
 ---
 

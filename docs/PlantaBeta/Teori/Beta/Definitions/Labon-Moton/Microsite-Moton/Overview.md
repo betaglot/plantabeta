@@ -1,7 +1,7 @@
 ---
 aside: false
 ---
-# [⭐,🟠)<labor>Microsite</labor>,<motor>MOTON</motor>
+# [⭐,🟠]<labor>Microsite</labor>,<motor>MOTON</motor>
 
 ## Sit.Anatomy
 

@@ -1,7 +1,7 @@
 ---
 aside: false
 ---
-# [⭐,🟠)<laborBundle</labor>,<motor>Peel</motor>
+# [⭐,🟠)<labor>Bundle</labor>,<motor>Peel</motor>
 
 ---
 

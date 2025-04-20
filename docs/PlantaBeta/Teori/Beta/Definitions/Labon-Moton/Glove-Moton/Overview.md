@@ -1,7 +1,7 @@
 ---
 aside: false
 ---
-# [⭐,🟠)<laborGlove</labor>,<motor>MOTON</motor>
+# [⭐,🟠)<labor>Glove</labor>,<motor>MOTON</motor>
 
 ## Glove.Anatomy
 

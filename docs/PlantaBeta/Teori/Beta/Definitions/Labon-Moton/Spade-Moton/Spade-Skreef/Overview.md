@@ -3,6 +3,20 @@ aside: false
 ---
 <BT l='Spade's='Tall'e='DeadGrass'v='Constricted'm='Skreef'a='MaxEffort'/>
 
+# .
+
+## <labor>Spade</labor>
+
+## <soma>Tall</soma>
+
+## <ekos>DeadGrass</ekos>
+
+## <via>Constricted</via>
+
+## <motor>Skreef</motor>
+
+## <anima>MaxEffort</anima>
+
 ---
 
 <!-- =================================================== -->

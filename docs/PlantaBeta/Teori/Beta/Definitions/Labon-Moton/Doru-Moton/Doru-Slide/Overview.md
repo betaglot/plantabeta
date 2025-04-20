@@ -1,7 +1,7 @@
 ---
 aside: false
 ---
-# [⭐,)<laborDoru</labor>-Slide
+# [⭐,)<labor>Doru</labor>-Slide
 
 ---
 

@@ -1,7 +1,7 @@
 ---
 aside: false
 ---
-# [⭐,)<laborDoru</labor>-Poke
+# [⭐,)<labor>Doru</labor>-Poke
 
 ---
 

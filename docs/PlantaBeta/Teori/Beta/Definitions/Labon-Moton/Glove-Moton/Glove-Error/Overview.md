@@ -1,7 +1,7 @@
 ---
 aside: false
 ---
-# [⭐,❌)<laborGlove</labor>,<error>Error</error>
+# [⭐,❌)<labor>Glove</labor>,<error>Error</error>
 
 ---
 

@@ -1,7 +1,7 @@
 ---
 aside: false
 ---
-# [⭐,)<laborDoru</labor>-Pogo
+# [⭐,)<labor>Doru</labor>-Pogo
 
 ---
 

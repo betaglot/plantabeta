@@ -1,7 +1,7 @@
 ---
 aside: false
 ---
-# [⭐,🟠)<labor>Buckle</labor>,<motor>Kontakt</motor>
+# [⭐,🟠]<labor>Buckle</labor>,<motor>Kontakt</motor>
 
 ---
 

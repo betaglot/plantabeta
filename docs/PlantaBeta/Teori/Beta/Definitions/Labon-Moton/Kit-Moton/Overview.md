@@ -1,7 +1,7 @@
 ---
 aside: false
 ---
-# [⭐,🟠)<labor>Kit</labor>,<motor>MOTON</motor>
+# [⭐,🟠]<labor>Kit</labor>,<motor>MOTON</motor>
 
 AlsoKnownAs(CacheBag)
 
