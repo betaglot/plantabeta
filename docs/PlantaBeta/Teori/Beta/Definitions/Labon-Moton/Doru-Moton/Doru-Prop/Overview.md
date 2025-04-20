@@ -1,7 +1,7 @@
 ---
 aside: false
 ---
-# (⭐,)<laborDoru</labor>-Prop
+# [⭐,)<laborDoru</labor>-Prop
 
 ---
 

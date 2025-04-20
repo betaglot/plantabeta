@@ -1,7 +1,7 @@
 ---
 aside: false
 ---
-# (⭐,)<laborTruck</labor>-❌<error>Error</error>
+# [⭐,)<laborTruck</labor>-❌<error>Error</error>
 
 ---
 

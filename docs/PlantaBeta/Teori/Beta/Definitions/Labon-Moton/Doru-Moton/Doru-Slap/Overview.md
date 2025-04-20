@@ -1,7 +1,7 @@
 ---
 aside: false
 ---
-# (⭐,)<laborDoru</labor>-Slap
+# [⭐,)<laborDoru</labor>-Slap
 
 ---
 

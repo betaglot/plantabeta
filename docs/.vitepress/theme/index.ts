@@ -11,6 +11,7 @@ import * as components from 'vuetify/components'
 import * as directives from 'vuetify/directives'
 
 import BetumChip from './BetumChip.vue'
+import BetumTitle from './BetumTitle.vue'
 import PageImage from './PageImage.vue'
 
 const vuetify = createVuetify({
@@ -32,6 +33,7 @@ export default {
     enhanceApp({ app, router, siteData }) {
         app.use(vuetify)
         app.component('BC', BetumChip)
+        app.component('BT', BetumTitle)
         app.component('PageImage', PageImage)
     }
 } satisfies Theme

@@ -1,7 +1,7 @@
 ---
 aside: false
 ---
-# (⭐,)<laborSpade</labor>🟠<motor>Stall</motor>
+# [⭐,)<labor>Spade</labor>🟠<motor>Stall</motor>
 
 ---
 

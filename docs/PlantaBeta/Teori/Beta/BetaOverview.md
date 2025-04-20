@@ -16,7 +16,7 @@ A <beta>BETUM</beta> must be composed of at least two Elements of a different Gr
 
 (🟩<ekos>EKON</ekos> +  🔻<via>VION</via> + 🟠<motor>MOTON</motor>) == 🌈<beta>BETUM</beta>
 
-(⭐<labor>LABON</labor> + 🔷<soma>SOMON</soma> + 🟩<ekos>EKON</ekos> +  🔻<via>VION</via> + 🟠<motor>MOTON</motor> + 💜<anima>ANIMON</anima>) = 🌈<beta>BETUM</beta>
+[⭐<labor>LABON</labor> + 🔷<soma>SOMON</soma> + 🟩<ekos>EKON</ekos> +  🔻<via>VION</via> + 🟠<motor>MOTON</motor> + 💜<anima>ANIMON</anima>) = 🌈<beta>BETUM</beta>
 
 ::: details Etymology of "<beta>BETA</beta>" and "<beta>BETUM</beta>"
 

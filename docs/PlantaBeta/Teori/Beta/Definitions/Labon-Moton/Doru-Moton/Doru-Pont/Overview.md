@@ -1,7 +1,7 @@
 ---
 aside: false
 ---
-# (⭐,)<laborDoru</labor>-Pont
+# [⭐,)<laborDoru</labor>-Pont
 
 Aliases: DoruBridge
 

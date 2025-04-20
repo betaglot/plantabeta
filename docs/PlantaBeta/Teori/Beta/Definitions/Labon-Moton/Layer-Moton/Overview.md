@@ -1,7 +1,7 @@
 ---
 aside: false
 ---
-# (⭐,)<laborLayer</labor>,🟠<motor>MOTON</motor>
+# [⭐,)<laborLayer</labor>,🟠<motor>MOTON</motor>
 
 ---
 

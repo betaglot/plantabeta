@@ -948,6 +948,7 @@ function sidebarExamples() {
   return [
     { text: 'Examples Overview', link: '/examples/ExampleOverview' },
     { text: 'Plantor Questions', link: '/examples/PlantorQuestions' },
+    { text: '2k of Beta', link: '/examples/2kBeta' },
   ]
 }
 

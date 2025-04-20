@@ -1,7 +1,7 @@
 ---
 aside: false
 ---
-# (⭐,)<laborTruck</labor>,🟠<motor>MOTON</motor>
+# [⭐,)<laborTruck</labor>,🟠<motor>MOTON</motor>
 
 ## Truck Anatomy
 

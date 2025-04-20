@@ -1,7 +1,7 @@
 ---
 aside: false
 ---
-# (⭐,🟠)<labor>Microsite</labor>,Enter
+# [⭐,🟠)<labor>Microsite</labor>,Enter
 
 ---
 

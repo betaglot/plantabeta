@@ -1,7 +1,7 @@
 ---
 aside: false
 ---
-# (⭐,❌)<labor>Kit</labor>,<error>Error</error>
+# [⭐,❌)<labor>Kit</labor>,<error>Error</error>
 
 ---
 

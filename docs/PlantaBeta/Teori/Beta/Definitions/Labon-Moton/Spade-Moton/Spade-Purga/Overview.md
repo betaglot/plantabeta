@@ -1,7 +1,7 @@
 ---
 aside: false
 ---
-# (⭐,)<laborSpade</labor>-Purga
+# [⭐,)<labor>Spade</labor>-Purga
 
 Aliases: Spade Clean, Spade Purge
 

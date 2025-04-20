@@ -1,7 +1,7 @@
 ---
 aside: false
 ---
-# (⭐,🟠)<labor>Microsite</labor>,<motor>Dilate</motor>
+# [⭐,🟠)<labor>Microsite</labor>,<motor>Dilate</motor>
 
 Aliases: HoleOpen, Open a Hole
 

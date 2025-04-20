@@ -1,7 +1,7 @@
 ---
 aside: false
 ---
-# (⭐,🟠)<labor>Cache</labor>,<motor>MOTON</motor>
+# [⭐,🟠)<labor>Cache</labor>,<motor>MOTON</motor>
 
 ## What is a Cache?
 

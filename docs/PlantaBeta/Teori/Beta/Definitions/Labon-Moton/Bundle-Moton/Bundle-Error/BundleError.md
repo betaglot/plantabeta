@@ -1,7 +1,7 @@
 ---
 aside: false
 ---
-# (⭐,❌) <labor>Bundle</labor>,Error
+# [⭐,❌) <labor>Bundle</labor>,Error
 
 ---
 

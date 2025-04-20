@@ -1,7 +1,7 @@
 ---
 aside: false
 ---
-# (⭐,)<laborSpade</labor>-Neonektomi
+# [⭐,)<labor>Spade</labor>-Neonektomi
 
 ---
 

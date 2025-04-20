@@ -1,7 +1,7 @@
 ---
 aside: false
 ---
-# (⭐,🟠)<labor>Kit</labor>,<motor>Preserve</motor>
+# [⭐,🟠)<labor>Kit</labor>,<motor>Preserve</motor>
 
 ---
 

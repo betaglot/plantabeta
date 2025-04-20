@@ -1,7 +1,7 @@
 ---
 aside: false
 ---
-# (⭐,)<laborSpade</labor>-Pogo
+# [⭐,)<labor>Spade</labor>-Pogo
 
 ---
 

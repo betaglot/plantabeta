@@ -1,14 +1,15 @@
 <template>
   <v-chip class="betumChip px-1"
-          draggable
-          variant="tonal"
+          variant="outlined"
           density="compact"
-          tag="span">
-    🌈<span class="labon">{{ l }}</span><span v-if="l && (s || e || v || m || a)">-</span>
-    <span class="somon">{{ s }}</span><span v-if="s && (e || v || m || a)">-</span>
-    <span class="ekon">{{ e }}</span><span v-if="e && (v || m || a)">-</span>
-    <span class="vion">{{ v }}</span><span v-if="v && (m || a)">-</span>
-    <span class="moton">{{ m }}</span><span v-if="m && a">-</span>
+          tag="span"
+          label
+          color="#6ec08b">
+    <span class="labon">{{ l }}</span><span v-if="l && (s || e || v || m || a)">,</span>
+    <span class="somon">{{ s }}</span><span v-if="s && (e || v || m || a)">,</span>
+    <span class="ekon">{{ e }}</span><span v-if="e && (v || m || a)">,</span>
+    <span class="vion">{{ v }}</span><span v-if="v && (m || a)">,</span>
+    <span class="moton">{{ m }}</span><span v-if="m && a">,</span>
     <span class="animon">{{ a }}</span>
   </v-chip>
 </template>

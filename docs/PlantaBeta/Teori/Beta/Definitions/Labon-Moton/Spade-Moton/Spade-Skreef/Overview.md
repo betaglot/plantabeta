@@ -1,7 +1,7 @@
 ---
 aside: false
 ---
-# (⭐,)<laborSpade</labor>-Skreef
+<BT l='Spade's='Tall'e='DeadGrass'v='Constricted'm='Skreef'a='MaxEffort'/>
 
 ---
 

@@ -1,7 +1,7 @@
 ---
 aside: false
 ---
-# (⭐,)<laborDoru</labor>-Anchor
+# [⭐,)<laborDoru</labor>-Anchor
 
 ---
 
