@@ -1,7 +1,7 @@
 ---
 aside: false
 ---
-# [⭐,]<labor>Spade</labor>🟠<motor>Allo</motor>Mano
+# <py>[<labor>Spade</labor>,<motor>Allo</motor>Mano]</py>
 
 Aliases: Hand Swap, Hand Switch
 

@@ -1,7 +1,7 @@
 ---
 aside: false
 ---
-# [⭐,]<labor>Spade</labor>-Spike
+# <py>[<labor>Spade</labor>-<motor>Spike</motor>]</py>
 
 Aliases: SpadeSlam, SpadeThrow, SpadeChop
 

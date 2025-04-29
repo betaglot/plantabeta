@@ -1,7 +1,7 @@
 ---
 aside: false
 ---
-# Bag-In
+# <py>[Bag,In]</py>
 
 Aliases: Bag up some trees
 

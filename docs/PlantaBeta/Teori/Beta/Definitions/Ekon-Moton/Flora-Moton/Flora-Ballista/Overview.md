@@ -1,7 +1,7 @@
 ---
 aside: false
 ---
-# (🟩,🟠)<ekos>Log</ekos>,<motor>Launch</motor>
+# <py>[<ekos>Log</ekos>,<motor>Launch</motor>]</py>
 
 > Launch a Log away from microsite with your leg
 

@@ -1,7 +1,7 @@
 ---
 aside: false
 ---
-# [⭐,🟠]<labor>Microsite</labor>,Skreef
+# <py>[<labor>Microsite</labor>,<motor>Skreef</motor>]</py>
 
 ## Skreef.Anatomy
 

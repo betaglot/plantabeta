@@ -1,7 +1,7 @@
 ---
 aside: false
 ---
-# [⭐,]<labor>Spade</labor>-Neonektomi
+# <py>[<labor>Spade</labor>-Neonektomi]</py>
 
 ---
 

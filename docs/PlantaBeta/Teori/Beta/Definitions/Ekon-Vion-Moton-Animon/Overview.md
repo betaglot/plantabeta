@@ -1,7 +1,7 @@
 ---
 aside: false
 ---
-# (🟩<ekos>EKON</ekos>,🔻<via>VION</via>,🟠<motor>MOTON</motor>,💜<anima>ANIMON</anima>)
+# <py>[EKON</ekos>,<via>VION</via>,<motor>MOTON</motor>,<anima>ANIMON</anima>]</py>
 
 ---
 

@@ -58,6 +58,12 @@ Not a place where many duplicates items are stored
 
 > Kirigami is a variation of origami, the Japanese art of folding paper. In kirigami, the paper is cut as well as being folded, resulting in a three-dimensional design that stands away from the page.
 
+- Rigid Foldable Origami
+    - <https://www.youtube.com/watch?v=YkTPpWPU0ZE&ab_channel=BYUCompliantMechanismsResearchGroup>
+- Kresling Tower
+    - <https://www.youtube.com/watch?v=Y5xRtJjNCh0&ab_channel=naturevideo>
+    - <https://www.nature.com/articles/s43586-024-00313-7>
+
 - Self-folding origami at any energy scale
     - <https://www.nature.com/articles/ncomms15477>
 - Rigidly flat-foldable class of lockable origami-inspired metamaterials with topological stiff states
@@ -193,7 +199,7 @@ Make cardboard prototype.
 
 Pannier
 
-- To keep sidebags open
+- To keep sidebags ope
 - To keep sidebags from rubbing on legs.
 - Suspension system
 
@@ -207,6 +213,7 @@ Pannier
 
 ### ⭐<labor>MarkaforDev</labor>
 
+- DiskShooter which shoots DiskFlag which expands and has hooks
 - Each time you pull a flag out, it triggers a geolocation
     - How long does it take to send the signal? You can't stop moving to wait for the transmission.
 

@@ -1,7 +1,7 @@
 ---
 aside: false
 ---
-# [⭐,]<labor>Spade</labor>🟠<motor>Transport</motor>
+# <py>[<labor>Spade</labor>,<motor>Transport</motor>]</py>
 
 > Carrying a Spade when you're not using it to plant
 

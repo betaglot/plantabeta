@@ -1,7 +1,7 @@
 ---
 aside: false
 ---
-# [⭐,🟠]<labor>Microsite</labor>,Mark
+# <py>[<labor>Microsite</labor>,Mark]</py>
 
 Aliases: Flagging your tree
 

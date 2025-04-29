@@ -1,7 +1,7 @@
 ---
 aside: false
 ---
-# Tarp,🟠<motor>On</motor>
+# <py>[<labor>Tarp</labor>,<motor>On</motor>]</py>
 
 ---
 

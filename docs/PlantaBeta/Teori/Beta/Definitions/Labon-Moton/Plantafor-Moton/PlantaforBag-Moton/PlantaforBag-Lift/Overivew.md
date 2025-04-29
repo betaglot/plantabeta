@@ -1,7 +1,7 @@
 ---
 aside: false
 ---
-# Bag-Lift
+# <py>[Bag-Lift]</py>
 
 ---
 

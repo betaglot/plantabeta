@@ -1,7 +1,7 @@
 ---
 aside: false
 ---
-# (🟩,🔻)<ekos>BurntFlora</ekos>,<via>Takt</via>
+# <py>[<ekos>BurntFlora</ekos>,<via>Takt</via>]</py>
 
 ---
 

@@ -1,7 +1,7 @@
 ---
 aside: false
 ---
-# Plast-Mano
+# <py>[<labor>Plast</labor>,<motor>Mano</motor>]</py>
 
 ---
 

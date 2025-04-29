@@ -1,7 +1,7 @@
 ---
 aside: false
 ---
-# [⭐,🟠]<labor>BootArch</labor>,<motor>Kontakt</motor>
+# <py>[<labor>BootArch</labor>,<motor>Kontakt</motor>]</py>
 
 ---
 

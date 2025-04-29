@@ -1,7 +1,7 @@
 ---
 aside: false
 ---
-# [⭐,🟠]<labor>Cache</labor>,<motor>MOTON</motor>
+# <py>[<labor>Cache</labor>,<motor>MOTON</motor>]</py>
 
 ## What is a Cache?
 

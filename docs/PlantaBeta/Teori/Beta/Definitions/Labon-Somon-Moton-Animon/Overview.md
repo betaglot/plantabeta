@@ -1,7 +1,7 @@
 ---
 aside: false
 ---
-# [⭐,]<labor>LABON</labor>,🔷<soma>SOMON</soma>,🟠<motor>MOTON</motor>,💜<anima>ANIMON</anima>
+# <py>[<labor>LABON</labor>,🔷<soma>SOMON</soma>,🟠<motor>MOTON</motor>,💜<anima>ANIMON</anima>
 
 ---
 

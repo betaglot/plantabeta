@@ -1,7 +1,7 @@
 ---
 aside: false
 ---
-# (🟩,🔻)<ekos>SandSoil</ekos>,<via>Takt</via>
+# <py>[<ekos>SandSoil</ekos>,<via>Takt</via>]</py>
 
 ---
 

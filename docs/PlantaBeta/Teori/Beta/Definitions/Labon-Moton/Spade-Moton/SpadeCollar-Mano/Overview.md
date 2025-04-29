@@ -1,7 +1,7 @@
 ---
 aside: false
 ---
-# Collar-Mano
+# <py>[<labor>Collar</labor>,<motor>Mano</motor>]</py>
 
 ---
 

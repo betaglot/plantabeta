@@ -1,7 +1,7 @@
 ---
 aside: false
 ---
-# [⭐,🟠]<labor>Box</labor>,<motor>MOTON</motor>
+# <py>[<labor>Box</labor>,<motor>MOTON</motor>]</py>
 
 🔻<via>BoxHandle</via> is the main Contact of Box.
 

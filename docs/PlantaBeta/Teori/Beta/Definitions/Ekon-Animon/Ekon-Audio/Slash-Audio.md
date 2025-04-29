@@ -1,7 +1,7 @@
 ---
 aside: false
 ---
-# (🟩,💜)<ekos>Slash</ekos>,<anima>Audio</anima>
+# <py>[<ekos>Slash</ekos>,<anima>Audio</anima>]</py>
 
 ## Falling
 

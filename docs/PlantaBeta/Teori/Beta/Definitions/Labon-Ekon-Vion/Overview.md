@@ -1,7 +1,7 @@
 ---
 aside: false
 ---
-# [⭐<labor>LABON</labor>,🟩<ekos>EKON</ekos>,🔻<via>VION</via>)
+# <py>[<labor>LABON</labor>,<ekos>EKON</ekos>,<via>VION</via>]</py>
 
 ---
 

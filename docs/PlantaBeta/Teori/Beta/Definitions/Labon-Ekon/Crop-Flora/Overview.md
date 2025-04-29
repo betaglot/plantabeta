@@ -1,7 +1,7 @@
 ---
 aside: false
 ---
-# [⭐,🟩)(<labor>Crop</labor>,<ekos>Flora</ekos>)
+# <py>[<labor>Crop</labor>,<ekos>Flora</ekos>]</py>
 
 ---
 

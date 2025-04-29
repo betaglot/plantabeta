@@ -1,7 +1,7 @@
 ---
 aside: false
 ---
-# [⭐<labor>LABON</labor>,💜<anima>ANIMON</anima>)
+# <py>[<labor>LABON</labor>,<anima>ANIMON</anima>]</py>
 
 ---
 

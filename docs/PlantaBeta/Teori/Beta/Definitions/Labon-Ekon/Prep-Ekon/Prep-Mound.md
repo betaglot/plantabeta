@@ -1,7 +1,7 @@
 ---
 aside: false
 ---
-# <labor>MoundPrep</labor>
+# <py>[<labor>Prep</labor>,<ekos>Mound</ekos>]</py>
 
 ## Mounding Error
 

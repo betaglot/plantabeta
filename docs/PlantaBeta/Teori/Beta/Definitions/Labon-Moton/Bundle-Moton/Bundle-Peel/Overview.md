@@ -1,7 +1,7 @@
 ---
 aside: false
 ---
-# [⭐,🟠]<labor>Bundle</labor>,<motor>Peel</motor>
+# <py>[<labor>Bundle</labor>,<motor>Peel</motor>]</py>
 
 ---
 

@@ -1,7 +1,7 @@
 ---
 aside: false
 ---
-# [⭐,🟠]<labor>Marka</labor>,<motor>Slot</motor>
+# <py>[<labor>Marka</labor>,<motor>Slot</motor>]</py>
 
 ---
 

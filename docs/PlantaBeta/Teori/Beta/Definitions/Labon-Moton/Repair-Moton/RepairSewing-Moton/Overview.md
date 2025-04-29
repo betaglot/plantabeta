@@ -1,7 +1,7 @@
 ---
 aside: false
 ---
-# Sewing
+# <py>[Sewing]</py>
 
 ---
 

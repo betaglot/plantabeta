@@ -1,7 +1,7 @@
 ---
 aside: false
 ---
-# [⭐,]<labor>Plantafor</labor>,🟠<motor>MOTON</motor>
+# <py>[<labor>Plantafor</labor>,<motor>MOTON</motor>]</py>
 
 Aliases: Planting Bags
 

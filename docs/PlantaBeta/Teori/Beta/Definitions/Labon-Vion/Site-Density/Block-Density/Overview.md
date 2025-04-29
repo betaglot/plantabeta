@@ -1,7 +1,7 @@
 ---
 aside: false
 ---
-# [⭐,)<labor>Block</labor>-Density
+# <labor>Block</labor>,Density
 
 ---
 

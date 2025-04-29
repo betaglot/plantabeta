@@ -1,7 +1,7 @@
 ---
 aside: false
 ---
-# [⭐,🟠]<labor>Microsite</labor>,Select
+# <py>[<labor>Microsite</labor>,Select]</py>
 
 ---
 

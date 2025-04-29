@@ -1,4 +1,7 @@
-# Spade,🟠<motor>Onda</motor>
+---
+aside: false
+---
+# <py>[<labor>Spade</labor>,<motor>Onda</motor>]</py>
 
 Aliases: SpadeSwing
 

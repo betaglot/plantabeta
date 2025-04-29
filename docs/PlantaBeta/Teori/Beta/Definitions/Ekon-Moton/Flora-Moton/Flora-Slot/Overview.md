@@ -1,7 +1,7 @@
 ---
 aside: false
 ---
-# (🟩,🟠)<ekos>Flora</ekos>,<motor>Slot</motor>
+# <py>[<ekos>Flora</ekos>,<motor>Slot</motor>]</py>
 
 > Passing through a cluster of Flora
 

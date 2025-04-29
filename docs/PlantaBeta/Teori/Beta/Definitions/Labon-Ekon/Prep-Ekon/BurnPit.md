@@ -1,7 +1,7 @@
 ---
 aside: false
 ---
-# (<labor>BurnPit</labor>)
+# <py>[<labor>BurnPit</labor>]</py>
 
 - The area of EKOS which is the remants of a burnt BurnPile.
 

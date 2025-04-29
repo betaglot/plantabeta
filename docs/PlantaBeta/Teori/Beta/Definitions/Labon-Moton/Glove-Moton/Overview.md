@@ -1,7 +1,7 @@
 ---
 aside: false
 ---
-# [⭐,🟠]<labor>Glove</labor>,<motor>MOTON</motor>
+# <py>[<labor>Glove</labor>,<motor>MOTON</motor>]</py>
 
 ## Glove.Anatomy
 

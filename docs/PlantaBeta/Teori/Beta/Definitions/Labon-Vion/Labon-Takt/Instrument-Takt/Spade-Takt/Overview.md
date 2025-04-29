@@ -1,7 +1,7 @@
 ---
 aside: false
 ---
-# [⭐,]<labor>Spade</labor>,🔻<via>Takt</via>
+# <py>[<labor>Spade</labor>,🔻<via>Takt</via>
 
 ---
 

@@ -1,7 +1,7 @@
 ---
 aside: false
 ---
-# [⭐,🟠]<labor>Bottle</labor>,<motor>MOTON</motor>
+# <py>[<labor>Bottle</labor>,<motor>MOTON</motor>]</py>
 
 Aliases: water bottle
 

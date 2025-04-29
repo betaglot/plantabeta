@@ -1,7 +1,7 @@
 ---
 aside: false
 ---
-# Radior,🟠<motor>Off</motor>
+# <py>[<labor>Spade</labor>,<motor>Preserve</motor>]</py>
 
 ---
 

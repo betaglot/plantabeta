@@ -1,7 +1,7 @@
 ---
 aside: false
 ---
-# [⭐,)<labor>Truck</labor>-Sit
+# <labor>Truck</labor>-Sit
 
 ---
 

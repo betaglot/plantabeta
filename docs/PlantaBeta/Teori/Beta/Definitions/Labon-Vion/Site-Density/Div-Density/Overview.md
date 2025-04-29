@@ -1,7 +1,7 @@
 ---
 aside: false
 ---
-# [⭐,)<labor>Div</labor>-Density
+# <py>[<labor>Div</labor>,<via>Density</via>]</py>
 
 ---
 

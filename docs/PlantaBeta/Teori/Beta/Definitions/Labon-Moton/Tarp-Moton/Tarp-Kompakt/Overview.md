@@ -1,7 +1,7 @@
 ---
 aside: false
 ---
-# Tarp🟠<motor>Kompakt</motor>
+# <py>[<labor>Tarp</labor>,<motor>Kompakt</motor>]</py>
 
 ---
 

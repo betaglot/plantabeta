@@ -1,7 +1,7 @@
 ---
 aside: false
 ---
-# [⭐,]<labor>Spade</labor>-Post
+# <py>[<labor>Spade</labor>-Post]</py>
 
 - Post spade when setting up or returning to cache for easier grabbing with full bags. No bend and easier Find(Spade)
 

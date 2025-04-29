@@ -1,7 +1,7 @@
 ---
 aside: false
 ---
-# [⭐,]<labor>Doru</labor>-Swap
+# <py>[<labor>Doru</labor>-Swap
 
 ---
 

@@ -1,7 +1,7 @@
 ---
 aside: false
 ---
-# (🟩,🟠)<ekos>Branch</ekos>,<motor>MOTON</motor>
+# <py>[<ekos>Branch</ekos>,<motor>MOTON</motor>]</py>
 
 ---
 

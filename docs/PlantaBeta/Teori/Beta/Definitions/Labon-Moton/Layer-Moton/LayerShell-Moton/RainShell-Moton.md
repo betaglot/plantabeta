@@ -1,7 +1,7 @@
 ---
 aside: false
 ---
-# RainShell,🟠<motor>MOTON</motor>
+# RainShell,<motor>MOTON</motor>]</py>
 
 ---
 

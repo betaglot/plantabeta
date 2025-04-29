@@ -1,4 +1,8 @@
-# BaseLayer,🟠<motor>MOTON</motor>
+---
+aside: false
+---
+
+# <py>[<labor>BaseLayer</labor>,<motor>MOTON</motor>]</py>
 
 ---
 

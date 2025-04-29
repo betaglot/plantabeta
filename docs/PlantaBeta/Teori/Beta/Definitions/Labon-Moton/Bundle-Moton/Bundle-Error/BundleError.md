@@ -1,7 +1,7 @@
 ---
 aside: false
 ---
-# [⭐,❌) <labor>Bundle</labor>,Error
+# <py>[<labor>Bundle</labor>,Error]</py>
 
 ---
 

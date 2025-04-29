@@ -1,7 +1,7 @@
 ---
 aside: false
 ---
-# (🟩,🟠)<ekos>Flora</ekos>,<motor>MOTON</motor>
+# <py>[<ekos>Flora</ekos>,<motor>MOTON</motor>]</py>
 
 ## FloraMOTON.Anatomy
 

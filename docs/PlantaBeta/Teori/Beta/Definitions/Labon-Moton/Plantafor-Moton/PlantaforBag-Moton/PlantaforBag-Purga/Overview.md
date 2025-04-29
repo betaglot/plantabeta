@@ -1,7 +1,7 @@
 ---
 aside: false
 ---
-# Bag-Purga
+# <py>[Bag-Purga]</py>
 
 ---
 
