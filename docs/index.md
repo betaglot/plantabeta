@@ -25,9 +25,9 @@ features:
     details: Get Started Using PLANTABETA
     link: /guide/GuideOverview
   - icon: 🤔
-    title: Test your knowledge of PLANTABETA
-    details: Prime yourself for your upcoming planting season. Discover then fill your knowledge gaps. Get back into the mindset of a Plantor!
-    link: /tutorial/TutorialOverview
+    title: Support PLANTABETA
+    details: 
+    link: https://patreon.com/plantabeta
 ---
 
 #

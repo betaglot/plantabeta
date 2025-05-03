@@ -1,4 +1,4 @@
-# 🔻<via>NeoSite</via>
+# <beta>[NeoSite,Selection]</beta>
 
 How to choose your next site
 
