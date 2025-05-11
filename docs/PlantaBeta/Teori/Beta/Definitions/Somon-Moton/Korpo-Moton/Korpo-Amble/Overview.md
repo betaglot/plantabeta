@@ -10,7 +10,7 @@
 
 ### StepLength
 
-Small step on slab so nice steadicam torso is difficult due to high complexity geometry between spine torso shin hip
+Small step on slab so nice Steadicam torso is difficult due to high complexity geometry between spine torso shin hip
 
 Small step is less change between steps therefore less compensation each step
 
