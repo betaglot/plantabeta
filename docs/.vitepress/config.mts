@@ -1,7 +1,8 @@
 import { defineConfig } from 'vitepress'
 import { cs, el } from 'vuetify/locale'
+import { withPwa } from '@vite-pwa/vitepress'
 
-export default defineConfig({
+export default withPwa(defineConfig({
   vite: {
     // ...
     ssr: {
@@ -54,7 +55,7 @@ export default defineConfig({
       '/dev/': sidebarDev(),
     }
   }
-})
+}))
 
 // Nav
 function nav() {
