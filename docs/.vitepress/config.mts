@@ -3,6 +3,16 @@ import { cs, el } from 'vuetify/locale'
 import { withPwa } from '@vite-pwa/vitepress'
 
 export default withPwa(defineConfig({
+  pwa: {
+    mode: 'development',
+    base: '/',
+    scope: '/',
+    devOptions: {
+      enabled: true,
+      suppressWarnings: true,
+      navigateFallback: '/',
+    },
+  },
   vite: {
     // ...
     ssr: {
