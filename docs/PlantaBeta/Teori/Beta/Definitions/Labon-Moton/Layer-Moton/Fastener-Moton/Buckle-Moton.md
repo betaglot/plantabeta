@@ -1,7 +1,7 @@
 ---
 aside: false
 ---
-# Buckle,🟠<motor>MOTON</motor>]</py>
+# Buckle,🟠<motor>MOTON</motor>
 
 ---
 

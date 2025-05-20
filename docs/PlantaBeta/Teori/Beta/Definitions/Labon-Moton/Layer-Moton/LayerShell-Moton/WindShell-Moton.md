@@ -1,7 +1,7 @@
 ---
 aside: false
 ---
-# WindShell,<motor>MOTON</motor>]</py>
+# WindShell,<motor>MOTON</motor>
 
 ---
 

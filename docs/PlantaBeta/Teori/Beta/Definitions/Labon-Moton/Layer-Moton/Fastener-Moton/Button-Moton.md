@@ -1,7 +1,7 @@
 ---
 aside: false
 ---
-# Button,🟠<motor>MOTON</motor>]</py>
+# Button,🟠<motor>MOTON</motor>
 
 ---
 

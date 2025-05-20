@@ -1,7 +1,7 @@
 ---
 aside: false
 ---
-# <labor>Microsite</labor>,❌<error>Error</error>]</py>
+# <labor>Microsite</labor>,❌<error>Error</error>
 
 ---
 

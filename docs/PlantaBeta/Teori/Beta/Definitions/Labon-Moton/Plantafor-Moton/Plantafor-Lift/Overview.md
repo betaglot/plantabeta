@@ -1,7 +1,7 @@
 ---
 aside: false
 ---
-# <labor>Bag</labor>,<motor>Lift</motor>]</py>
+# <labor>Bag</labor>,<motor>Lift</motor>
 
 ---
 

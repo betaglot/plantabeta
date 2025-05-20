@@ -1,7 +1,7 @@
 ---
 aside: false
 ---
-# Collar,<motor>Kontakt</motor>]</py>
+# Collar,<motor>Kontakt</motor>
 
 ---
 

@@ -1,7 +1,7 @@
 ---
 aside: false
 ---
-# Zipper,🟠<motor>MOTON</motor>]</py>
+# Zipper,🟠<motor>MOTON</motor>
 
 ---
 

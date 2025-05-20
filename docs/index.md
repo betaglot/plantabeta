@@ -29,7 +29,3 @@ features:
     details: 
     link: https://patreon.com/plantabeta
 ---
-
-#
-
-![Gif](/Gif.gif)

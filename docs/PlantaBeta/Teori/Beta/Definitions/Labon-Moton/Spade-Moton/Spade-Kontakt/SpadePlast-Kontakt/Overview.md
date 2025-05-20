@@ -1,7 +1,7 @@
 ---
 aside: false
 ---
-# Plast,<motor>Kontakt</motor>]</py>
+# Plast,<motor>Kontakt</motor>
 
 ---
 

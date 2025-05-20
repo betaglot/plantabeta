@@ -2,17 +2,46 @@
 aside: false
 ---
 
-# <beta>2k of BETA</beta>
+# <beta>2K of BETA</beta>
 
-Show don't Tell
+2K of Beta, to plant 2K of trees
+
+<!-- Show don't Tell -->
 
 1. Don't tie your flag around anything
     - <BC l='Markum's=''e=''v=''m=''a='Error'/>
 1. Double knotting your laces prevents them from unting by themselves
     - <BC l='Boot's=''e=''v=''m='Knot'a=''/>
 1. Having your forearm horizontal
-    - <BC l='Spade's=''e=''v=''m='Skreef'a=''/>
-1.
+    - <BC l='Spade's=''e='Skreef'v=''m='Skim'a=''/>
+1. Drop yout hips when Slamming your spade into the ground to maximize force
+    - <BC l='Spade's=''e=''v=''m='Slam'a=''/>
+1. Make sure your spade is Perpendicular when it strikes the ground to maximize force and
+    - <BC l='Spade's=''e=''v='Perpendicular'm='Slam'a=''/>
+1. don't allow your knees to cave in (called Valgus Knees)
+    - <BC l=''s=''e=''v=''m='BasePosture'a='Health'/>
+1. don't Lateral screef. Only foot screef forward and back
+    - <BC l='Boot's=''e='Skreef'v=''m='MOTON'a=''/>
+1. have an extra clothing Layer in backbag at all times
+    - <BC l='(RainLayer,Bags)'s=''e=''v=''m=''a=''/>
+1. plant Triangles in raw
+    - <BC l=''s=''e=''v='Triads'm=''a=''/>
+1. Kneel while bagging up, everything should be within arms reach
+    - <BC l='BagUp's=''e=''v=''m='Kneel'a=''/>
+1. no screefing in trenches
+    - <BC l=''s=''e='Skreef'v=''m=''a='NOT'/>
+1. always have a tree in your hand
+    - <BC l=''s=''e='Tree'v=''m='Grip'a='Habit'/>
+1. vertical holes
+    - <BC l='Spade's=''e=''v='Vertical'm='Slam'a=''/>
+1. fingers at the bottom of the root pod when inserting tree
+1. Drop yout hips when Slamming your spade into the ground to maximize force
+1. Make sure your spade is Perpendicular when it strikes the ground to maximize force and
+1. don't Lateral screef. Only foot screef forward and back
+1. have an extra clothing Layer in backbag at all times
+1. plant Triangles in raw
+1. kneel while bagging up and put the bundles you're bagging up as close as possible, so you don't need to reach far
+1. only flag in trenches when you're leaving a trench
 1.
 1.
 1.

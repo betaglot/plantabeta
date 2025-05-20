@@ -1,7 +1,7 @@
 ---
 aside: false
 ---
-# Layer🟠<motor>Knot</motor>]</py>
+# Layer🟠<motor>Knot</motor>
 
 ---
 

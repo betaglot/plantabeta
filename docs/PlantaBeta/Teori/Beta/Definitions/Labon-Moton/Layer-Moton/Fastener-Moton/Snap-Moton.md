@@ -1,7 +1,7 @@
 ---
 aside: false
 ---
-# Snap,🟠<motor>MOTON</motor>]</py>
+# Snap,🟠<motor>MOTON</motor>
 
 ---
 

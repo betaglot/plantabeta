@@ -1,7 +1,7 @@
 ---
 aside: false
 ---
-# Tab,<motor>Kontakt</motor>]</py>
+# Tab,<motor>Kontakt</motor>
 
 ---
 

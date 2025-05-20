@@ -1,7 +1,7 @@
 ---
 aside: false
 ---
-# <py>[<labor>Doru</labor>-Pont
+# <py>[<labor>Doru</labor>-Pont]</py>
 
 Aliases: DoruBridge
 

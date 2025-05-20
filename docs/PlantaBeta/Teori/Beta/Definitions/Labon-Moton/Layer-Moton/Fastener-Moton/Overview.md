@@ -1,7 +1,7 @@
 ---
 aside: false
 ---
-# Fastener,🟠<motor>MOTON</motor>]</py>
+# Fastener,🟠<motor>MOTON</motor>
 
 ---
 

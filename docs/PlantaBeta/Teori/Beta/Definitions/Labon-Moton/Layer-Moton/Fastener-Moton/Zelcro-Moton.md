@@ -1,7 +1,7 @@
 ---
 aside: false
 ---
-# Zelcro,🟠<motor>MOTON</motor>]</py>
+# Zelcro,🟠<motor>MOTON</motor>
 
 ## ❌<error>ZelcroMOTON.Error</error>
 

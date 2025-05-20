@@ -1,7 +1,7 @@
 ---
 aside: false
 ---
-# <py>[<labor>Piece</labor>,<via>Density</via>]
+# [<labor>Piece</labor>,<via>Density</via>]
 
 ---
 

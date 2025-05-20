@@ -1,7 +1,7 @@
 ---
 aside: false
 ---
-# Blade,<motor>Kontakt</motor>]</py>
+# Blade,<motor>Kontakt</motor>
 
 ---
 

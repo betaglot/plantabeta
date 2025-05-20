@@ -1,7 +1,7 @@
 ---
 aside: false
 ---
-# [⭐,❌]<labor>Karabiner</labor>,<error>Error</error>]</py>
+# [⭐,❌]<labor>Karabiner</labor>,<error>Error</error>
 
 ---
 

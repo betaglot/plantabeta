@@ -1,7 +1,7 @@
 ---
 aside: false
 ---
-# <py>[<labor>Marka</labor>,🔻<via>Takt</via>
+# <labor>Marka</labor>,🔻<via>Takt</via>
 
 ---
 

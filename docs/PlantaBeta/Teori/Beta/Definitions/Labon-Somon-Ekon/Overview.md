@@ -1,7 +1,7 @@
 ---
 aside: false
 ---
-# <py>[<labor>LABON</labor>,🔷<soma>SOMON</soma>,🟩<ekos>EKON</ekos>
+# <labor>LABON</labor>,🔷<soma>SOMON</soma>,🟩<ekos>EKON</ekos>
 
 ---
 
