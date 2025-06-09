@@ -11,17 +11,99 @@
     - Take pictures of flag to show where they end up
     - All the different ways that flag remains fixed both on purpose and by wind
     - Take a picture of every tree of a bag up. Use different FlagColor. To link to each PlantaCycle
--  
+- 1.06
+    - Boustro to simplify perpendicular instead of walking over tree
+- 1.07
+    - Insert Flag LooseEnd medial and up
+- 1.08
+    - Throw your spade over a high obstacle so you can use two hands to climb
+    - RockCap has few places for flag to snag
+- 1.09
+    - Layering is like Reving your engine.
+        - Shifting up or down
+        - RPM = Energy
+        - Thermal Energy
+    - Step Down into trench sideways to prevent knee over toes, otherwise HeelKrampon step becuase of stiff boot
+        - ⭐<labor>Boot</labor>
+- 1.10
+    - Bounce, Cross, Zone, Follow
+        - Your four options when you converge with another plantor
+- 1.11
+    - Fan, Partial Boustro
+    - 🔻<via>NeoVion</via>(AsymmetricBoustro)
 
----
-
-<!-- =================================================== -->
-<!-- =================================================== -->
-<!-- =================================================== -->
-<!-- =================================================== -->
-<!-- =================================================== -->
-::: details 🛠
-
--
-
-:::
+- 1.12
+    - Triangle made from straight lines. Like a 3D printer
+        - 3D printer algorithms are like fill algorithms.
+            - Get(Open Source Completion Algorithms)
+- 1.13
+    - "Bring up the line"
+    - "Brought up the line"
+    - "Brought the line up to [Ekon || Vion]"
+    - Synonym("Hit" = Interact)
+        - "Hit a line"
+        - "Hit a boundary"
+        - "I hit trees, so I turned back"
+        - "Hit a road"
+        - "Hit an [Ekon || Vion]"
+- 1.14
+    - Rip apart during NeonInsert. Trees that are attached by an intrusive root, can be ripped apart during NeonInsert instead of as separate Betum
+    - Planting 15s is like planting a myriad or "a lot"
+        - Superlative Density
+        - Maximum Practical Density
+            - PRAKTIK
+- 1.15
+    - You stop paying attention to the spade during the moton, when planting with non dominant side. MotorControl requires attention. Dominant side has more developed attention hooks
+        - <BC l='Spade's='NonDominant'e=''v=''m=''a='Attention'/>
+        - You must adapt to how the ⭐<labor>Spade</labor> is moving.  
+            - Guide
+            - Herd (verb)
+            - Affordance
+                - "Able to get it back under control if I do this moton"
+                    - Control = "Following a 🔻<via>line</via>"
+    - Motor can require AnimaInhibition.
+        - "Quiet the mind"
+        - "Stop thinking", "discursive thoughts"
+        - Focus can be about (Exclusion = NOT Excessive Inclusion)
+- 1.16
+    - <BC l='Boot.Rand's=''e=''v=''m='Purga'a=''/>
+    - Betum = Tuple
+    - <BC l='Boot.Sole's=''e=''v=''m='Purga'a=''/>
+- 1.17
+    - Reorient Neon while picking up by twisting. Like Spin the Bottle
+        - <BC l=''s='Mano'e=''v=''m='Twist'a=''/>
+        - <BC l=''s='Mano'e=''v=''m='Opposition'a=''/>
+- 1.18
+    - InertiaPurga or ScrapePurga
+    - <BC l=''s=''e=''v=''m='Purga.Inertia'a=''/>
+    - <BC l=''s=''e=''v=''m='Purga.Scrape'a=''/>
+    - Diagram of Triplantor Fill Pattern
+        - Middle Plantor follows Zone.Midline
+        - Flankers do <via>FillPattern(ZigZagLine)</via>
+- 1.19
+    - First submoton of Klose gathers, then secon Moton Stamps
+        - Gather then Kompakt
+    - <BC l='(Spade, Boot.Rand)'s=''e=''v=''m='Purga'a=''/>
+        - [Rand, Purga.Scrape] along SpadeEdge
+        - SpadeProp.Vertical to keep Spade Stationary
+- 1.20
+    - MarkumDev
+        - Block boundary flag becomes difficult to see when its color is sun faded, which leads to trespassing
+    - Start your [Poales.Skreef,Skim] closest to roots
+- 1.21
+    - Cross Sectional Diagram of Poales
+            - C negates te necessity for A  
+        - To cut the Poales once medially, instead of once distally and another medially
+            - ReduceRedundancy
+- 1.22
+    - Diagram of IKON Label
+    - Dynamic or Static
+    - Use Slots to input number
+        - Numbered Ikon
+- 1.23
+    - Blinding yourself with the sun each time you look for the drip line
+    - <BC l='Spade's=''e=''v=''m='Pry.PalmPush'a=''/>
+        - Open Hand in to PalmPush to avoid hitting an Ekon with your knuckles
+        - like closing a drawer
+        - Don't allow anything (Labon,Somon,Ekon) to curl over edge
+- 2.02

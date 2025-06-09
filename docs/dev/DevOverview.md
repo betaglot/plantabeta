@@ -1,6 +1,4 @@
-# 🛠 Research and Development
-
-<BetumChip>Mano-Klose</BetumChip>
+# 🛠 Dev
 
 <iframe class="youtube" src="https://www.youtube.com/embed/5jzchxfzF28?playlist=pzqD7SZoZcQ,llfZYq7NwI0" title="0001 PLANTABETA 2024 05 05 01 GH010209" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -24,9 +22,11 @@ Donate Images, Video, Writings, Audio to PlantaBeta.
 
 Give feedback to PlantaBeta about what works and doesn't work well, what's unclear and what you've learned.
 
-## Research Questions
+## Research
 
 A list of questions which have come up during the design process and don't have a good answer yet.
+
+- [FieldNotes](/dev/Research/FieldNotes)
 
 ## Roadmap
 
