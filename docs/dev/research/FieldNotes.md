@@ -107,3 +107,58 @@
         - like closing a drawer
         - Don't allow anything (Labon,Somon,Ekon) to curl over edge
 - 2.02
+    - Replanting for Density
+        - 2 Plantor Replant
+            - Diplantor
+            - Distance between Plantors
+    - How to prevent Hole.Hourglass
+        - Use [Spade,Slam.DoubleTap]
+        - Cross Sectional Diagram of Hourglass Hole
+- 2.03
+    - Diagram of ZoneCompletion (Area Planting) to simply Zone.Perimeter
+- 2.04, 2.05
+    - It's better to put the piece cache in the middle of the piece, not along the perimeter
+        - Diagram of BoustroLine
+        - If you BagOut, then B is the closest to A,B or C. Otherwise, if you put the cache at A and BagOut at B or C, then you will need to deadwalk
+- 2.06
+    - Experience the first day twice.
+        - Video of the training so planters can watch before arriving at Motel, or show the video the night before starting the first day in the field
+- 2.07
+    - UBC Student Council
+- 2.08
+    - WhatsApp Query
+        - Poll
+        - "Do you have a friend on UBC Student Council?"
+        - "Can I plant with you to show what I mean?"
+    - PieceCache weight distribution depending on how the PieceCache is brought into the land
+        - PlantInPieceCache
+            - Load Neons to Maximize the Fill of Primary Draw Bag
+        - WalkInPieceCache
+            - Load Neons to evenly distribute weight between both sides
+                - It's easier to walk with evenly distributed Neons and WalkInPieceCache has more walking with full bags than PlantInPieceCache
+                    - Kuboi of Injury
+- 2.09
+    - Taking a step closer to hole is less Kuboi than stepping backwards, since you can see the [Boot,Anterior,Ekos]  of your Boots, but not the <BC l='Boot's='Posterior'e='EKOS'v=''m=''a=''/>
+        - 🔷<soma>Anterior</soma> is a Space relative to SOMA, not a 🔻<via>Direction</via>
+            - A 🔷<soma>SOMON</soma>, not a 🔻<via>VION</via>
+- 2.10
+    - <BC l=''s='Forearm'e=''v='(Horizontal || ParallelTo(Blade.Tip, Takt.Line))'m=''a=''/>
+        - Attributes of a 🔻<via>Takt</via>
+            - Takt.Line
+            - Takt.Shape
+            - Takt.Form
+- 2.11
+    - BetumArray
+    - Wipe both your hands before reaching for this book. Soiled paper is more difficult to read
+- 2.12
+    - Lunge SpadeSlam is more powerful, but should only be used when both Feet are at the same elevation when lunging, ie. not lunging up or down a slope.
+- 2.13
+    - Don't plant like a how athletes ride half pipes.
+        - VION("Walk up and down Slope")
+            - Proposition
+    - Definitions don't have proofs
+- 2.14
+    - <BC l='Boot's='Skreef'e=''v=''m='Rasp'a=''/> has no impact, unlike <BC l='Boot's='Skreef'e=''v=''m='Kick'a=''/>
+    - Bellows unfold from ChestPack then attach to waist belt
+    - If a Rock or hole DeflectingObstacle rotates the Blade onKontakt, then KorpoOrbit around Spade until Shoulders are SquaredUp with Spade
+        - Adapt your position relative to Spade, since the 🟩<ekos>Soil</ekos> constrains BladePosition more than SOMA
