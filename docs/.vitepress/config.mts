@@ -147,7 +147,12 @@ function sidebarDev() {
       ]
     },
     { text: '<dev>PodcastDev</dev>', link: '/dev/PodcastDev' },
-    { text: '<dev>ResearchQuestions</dev>', link: '/dev/ResearchQuestions' },
+    { text: '<dev>Research</dev>', link: '/dev/ResearchOverivew', collapsed: true, items:   [
+      { text: '<dev>Affordance</dev>', link: '/dev/Research/Affordance' },
+      { text: '<dev>AkademiaDev</dev>', link: '/dev/Research/AkademiaDev' },
+      { text: '<dev>FieldNotes_2025</dev>', link: '/dev/Research/FieldNotes' },
+      { text: '<dev>ResearchQuestions</dev>', link: '/dev/Research/ResearchQuestions' },
+    ] },
     { text: '<dev>Roadmap</dev>', link: '/dev/Roadmap' },
     { text: '<dev>StyleGuide</dev>', link: '/dev/StyleGuide' },
     { text: '<dev>UX</dev>', link: '/dev/UX' },
