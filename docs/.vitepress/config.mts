@@ -2,17 +2,18 @@ import { defineConfig } from 'vitepress'
 import { cs, el } from 'vuetify/locale'
 import { withPwa } from '@vite-pwa/vitepress'
 
-export default withPwa(defineConfig({
-  pwa: {
-    mode: 'development',
-    base: '/',
-    scope: '/',
-    devOptions: {
-      enabled: true,
-      suppressWarnings: true,
-      navigateFallback: '/',
-    },
-  },
+// export default withPwa(defineConfig({
+  // pwa: {
+  //   mode: 'development',
+  //   base: '/',
+  //   scope: '/',
+  //   devOptions: {
+  //     enabled: true,
+  //     suppressWarnings: true,
+  //     navigateFallback: '/',
+  //   },
+  // },
+export default defineConfig({  
   vite: {
     // ...
     ssr: {
@@ -65,7 +66,7 @@ export default withPwa(defineConfig({
       '/dev/': sidebarDev(),
     }
   }
-}))
+})
 
 // Nav
 function nav() {
