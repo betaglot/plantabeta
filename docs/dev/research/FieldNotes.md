@@ -162,3 +162,65 @@
     - Bellows unfold from ChestPack then attach to waist belt
     - If a Rock or hole DeflectingObstacle rotates the Blade onKontakt, then KorpoOrbit around Spade until Shoulders are SquaredUp with Spade
         - Adapt your position relative to Spade, since the 🟩<ekos>Soil</ekos> constrains BladePosition more than SOMA
+- 2.15
+    - SquaredUp shoulders
+        - Diagram of Square with Vions on Parallel Sides Blade on AnteriorSide and Shoulders and Hips on PosteriorSide
+        - SquaredUp must be relative to something
+- 2.16, 2.17
+    - NeoMoton((Gyro)InsteadOf(Steadicam))
+    - Bring multiple sashes to serve as buffer between WaistBelt and SOMA with possibility for PneumaticCapillaries to evaporate sweat
+        - TuxedoBelt, Metis Sash, SaddleBlanket, Underarmor(historical)
+        - CompressionDistribution like a SaddleBlanket
+- 2.18
+    - One Strap Plantafor Transport to allow time for SweatEvaporation
+    - BagButton TabTakt for SilviOut
+        - Like stepping on a garbage can when pulling out the garbage bag.
+            - AirResistance (suction) and friction can prevent the Silvi from sliding out
+- 2.19
+    - Bus to SkahaPark and stop at grocery store on way home
+    - SkahaParkSessions
+    - InstructionSessions
+- 2.20
+    - SudburyBeach instead of SkahaBeach since it's less busy
+- 3.02
+    - PieceCache Markum
+        - Markum Weighted down with water bottle 250mL
+- 3.03
+    - Diagram of Adjustable Flag for Balanced on Midline or one end connected to an Ekon
+        - Semaphore
+        - Clothesline Flag
+- 3.04
+    - Diagram of PieceCache Silvi with Markum attached along side.
+- 3.05
+    - Diagram of PieceCache Silvi with detatchable Markum
+    - 2 Connection with side of Silvi
+- 3.06
+    - Use two HighStumps or other Tall Ekons as Landmarks and then use for alignment like gunsights or stonehenge
+    - understanding the geology of a site enables prediction
+        - Knowing where the soil, mud, rock, water will be
+- 3.07
+    - Geology for VIA: landmarks at the rock cap at the esker
+    - Via\Follow the (fault, esker, depression, rock cap, ActualName(Dried up river bed))
+- 3.08
+    - Evaporate the water stuck inside waterproof gloves by using the sun to heat the Black side (the grippy part) to evaporate the water. Ensure that the cuff is open to allow the vapor to escape.
+    - Be predictable
+    - `{Question:"Got it?", Answer: "Got it"}`
+    - Deload week is supported by science
+- 3.09
+    - You didn't make an error, instead say "An error occured"
+        - Anima.NonDualism
+    - Give one day off a month. No saving allowed
+- 3.10, 3.11
+    - Cross Sectional Diagram of Plantafor with integrated Cape
+        - The bottom surface of Bag is slippery to allow the trees to slide into place
+- 3.12
+    - Kart
+        - StartWithEasy: Prefabricated wheels from used Bikes.
+- 4.02
+    - Show not tell. Demonstrate the incorrect Beta, then Betan chooses the correct Beta
+        - Reductio ad absurdum (Latin for "reduction to the absurd") is a logical argument that disproves a proposition by showing that its acceptance leads to absurd or contradictory conclusions
+    - Show can start with an Ask, tell doesn't
+- 4.03
+    - "You can afford to go a little tighter"
+        - DensityAffordance
+        - SupervisorFeedback
