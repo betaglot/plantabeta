@@ -149,11 +149,11 @@ function sidebarDev() {
     },
     { text: '<dev>PodcastDev</dev>', link: '/dev/PodcastDev' },
     {
-      text: '<dev>Research</dev>', link: '/dev/Research/Overview', collapsed: false, items: [
-        { text: '<dev>AffordanceDev</dev>', link: '/dev/Research/Affordance' },
-        { text: '<dev>AkademiaDev</dev>', link: '/dev/Research/AkademiaDev' },
-        { text: '<dev>FieldNotes_2025</dev>', link: '/dev/Research/FieldNotes' },
-        { text: '<dev>ResearchQuestions</dev>', link: '/dev/Research/ResearchQuestions' },
+      text: '<dev>Research</dev>', link: '/dev/ResearchDev/Overview', collapsed: false, items: [
+        { text: '<dev>AffordanceDev</dev>', link: '/dev/ResearchDev/Affordance' },
+        { text: '<dev>AkademiaDev</dev>', link: '/dev/ResearchDev/AkademiaDev' },
+        { text: '<dev>FieldNotes_2025</dev>', link: '/dev/ResearchDev/FieldNotes' },
+        { text: '<dev>ResearchQuestions</dev>', link: '/dev/ResearchDev/ResearchQuestions' },
       ]
     },
     { text: '<dev>Roadmap</dev>', link: '/dev/Roadmap' },
