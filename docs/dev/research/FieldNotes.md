@@ -224,3 +224,76 @@
     - "You can afford to go a little tighter"
         - DensityAffordance
         - SupervisorFeedback
+    - Burnt Trunks can lead to living canopy. Only the bottom of the tree is burnt. How to avoid having to look up each tree to see if it's totally burnt
+    - Follow your partner's trees, not their SOMA
+    - Diagram of Diplantor "L"Line
+- 4.04
+    - Overgeneralization of Rule
+        - Don't bounce up and down slopes
+    - Pedagogy: High Risk of Error
+        - "I don't want to teach them BootKlose because some are pretty sloppy" then when to tell them that you can BootKlose?
+            - How to ensure that Plantors are using the minimum force required, so that they don't get PatellarTendonitis?
+        - Ratio(Instructor: Plantor) is an Instruction Constraint
+- 4.05
+    - PanBeta Session
+        - Gather in a room to discuss PanBeta for PlantaBeta.
+- 4.06
+    - Kuboi\RiskOfError
+    - Kuboi\RiskOfFailure
+    - (Failure != Error)
+        - A successful more at the incorrect time is an error.
+    - Error is Anima
+    - Failure is Sistem
+- 4.07
+    - Get ULine clipboard Box
+    - Nonlinear BagUp Size increase. Heavy then light could be useful. Increase by Bundle units
+- 4.08
+    - Leaner relative to Klose.Direction
+    - Leaner is never AntiDirection of Klose
+    - Leaner.ParallelTo(Blade)
+    - Leaner.PerpendicularTo(Blade)
+    - [Leaner, Anterior] = [TreeFault, Direction] = [LABON, VION]
+    - Blade.Plane
+- 4.09
+    - Diagram of Embayment caused by incorrect Fill Pattern and the pattern to use to correct it
+- 4.10, 4.11
+    - Diagram of BouncingNeosites
+    - Diagram of BouncingLine
+- 4.12
+    - Diagram of AsymmetricalBouncing
+- 4.13
+    - NeonGrip with needles on forearm instead of holding like a pencil allows NeonInsert. Tuck to PinkySide. Otherwise Thumb gets in the way while sliding along back of Blade
+- 4.14
+    - ResponsiveSpacing
+    - How is optimal Spacing calculated when given the required density?
+    - Replant
+        - Use the trees that you pull (Dendrektomi) from a HighDensityZone to increase the a Low Density Zone
+            - Transplant contains Dendrektomi, then TreeInsert
+- 4.15
+    - Hockey Gesture
+    - "I'm gonna go back on this line"
+    - "I'm gonna line back to the cache"
+    - BoustroLine
+    - When to load bags into the truck at the end of the day?
+- 4.16
+    - How to know which tree to remove from a HighDensityPlot?
+    - Each BagUp has a new lesson and things to keep in mind
+    - How to know whether to BootKlose or ManoKlose?
+    - Temporary BagRepair when on the Block
+        - Paracord
+        - ZipTies
+- 4.17
+    - BootArchKontakt prevents LogRoll
+        - See Lumberjack Games LogRoll
+    - Place flag on the EkonTakt which has the highest probability of keeping the flag from blowing away
+    - GuideNeon during BookKlose to maintain NeonPosition
+        - Maintain RootDepth if the hole is deeper than roots
+        - Maintain Vertical Stem to prevent Leaner
+- 4.18
+    - NeoBetum(NeonSlide, NeonGuide, NeonSupport)
+    - Leave space for Alloplantor to pass by
+        - <BC l=''s='Anterior'e=''v=''m='Pass'a=''/>
+        - <BC l=''s='Posterior'e=''v=''m='Pass'a=''/>
+        - <BC l=''s='Lateral'e=''v=''m='Pass'a=''/>
+- 4.19
+    - Keep your Spade up like SpearFishing
