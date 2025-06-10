@@ -148,7 +148,7 @@ function sidebarDev() {
     },
     { text: '<dev>PodcastDev</dev>', link: '/dev/PodcastDev' },
     {
-      text: '<dev>Research</dev>', link: '/dev/Research/Overview', collapsed: true, items: [
+      text: '<dev>Research</dev>', link: '/dev/Research/Overview', collapsed: false, items: [
         { text: '<dev>AffordanceDev</dev>', link: '/dev/Research/Affordance' },
         { text: '<dev>AkademiaDev</dev>', link: '/dev/Research/AkademiaDev' },
         { text: '<dev>FieldNotes_2025</dev>', link: '/dev/Research/FieldNotes' },

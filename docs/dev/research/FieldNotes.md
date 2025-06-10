@@ -158,7 +158,7 @@
             - Proposition
     - Definitions don't have proofs
 - 2.14
-    - <BC l='Boot's='Skreef'e=''v=''m='Rasp'a=''/> has no impact, unlike <BC l='Boot's='Skreef'e=''v=''m='Kick'a=''/>
+    - <BC l='Boot's=''e='Skreef'v=''m='Rasp'a=''/> has no impact, unlike <BC l='Boot's=''e='Skreef'v=''m='Kick'a=''/>
     - Bellows unfold from ChestPack then attach to waist belt
     - If a Rock or hole DeflectingObstacle rotates the Blade onKontakt, then KorpoOrbit around Spade until Shoulders are SquaredUp with Spade
         - Adapt your position relative to Spade, since the 🟩<ekos>Soil</ekos> constrains BladePosition more than SOMA
