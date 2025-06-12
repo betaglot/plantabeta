@@ -297,3 +297,110 @@
         - <BC l=''s='Lateral'e=''v=''m='Pass'a=''/>
 - 4.19
     - Keep your Spade up like SpearFishing
+    - MetalBoot armor like Toph's Daughter's Army. No Metal Heel
+- 4.20
+    - Armor must deform instead of splinter
+        - Shrapnel
+- 4.21
+    - Slope Forces [Anterior,LookUp]
+        - First piece for Rookies would be a gentle slope so that they unconsciously make the habit of looking Anterior and to the Frontier
+    - AskAlex
+        - "Can you think of..." can cause shame. Just say "what" instead. Patronizing Power Move
+- 4.22
+    - Responsive BagUpSize
+    - Rookie is always following my line. Demonstration of plating doesn't always need demonstrator.
+        - Tutor
+        - Animator like MC or host in French
+- 4.23
+    - "Project" is more geometric linguistically than "Predict"
+        - Project where their line is
+        - Produce to predict
+        - Prefix("pro-") == English("from")
+- 4.24
+    - FootKlose
+    - FlatPrint
+    - <ekos>Print is EKOS</ekos>
+    - The result of Klose.Kompakt() is a Print.
+        - A Print which extended past NeonStem is evidence of a leaner
+    - BootPrint
+    - ManoPrint
+    - DistalFalangesPrint
+    - MedialFalangesPrint
+    - ThumbPrint
+    - HeelPrint
+    - ToePrint
+    - RockPrint
+        - When you lift up a Rock it leaves a Print
+    - LogPrint
+    - BladePrint
+        - Where the BladeKontakts the soil during a Prop
+- 5.02
+    - TotalPhysio
+    - Weyerhaeuser pays for TotalPhysio
+    - Houston, BC
+    - Highly Repetitive work results in a small number of types of injuries
+        - (MotonVaribility)InverselyProportionalTo(InjuryTypeCount)
+        - 21 injuries from planting
+    - Treat is reactive, prevent is proactive
+    - During JellyPump push hips forwards like a standing Yoga.Cobra()
+    - StraightLegs are bad for low back
+    - 30 percent contraction of PelvicFloor all the time and especially during lifting
+    - MotorPlan
+    - SI joint Injury from Valgus and unbalanced bags
+    - Right Foot Up and Jelly Pump to release tension on SI joint
+- 5.04
+    - never told a planter that their Spade is too short
+    - Keep shoulder straps off traps
+    - Tendons don't like corners
+    - radior could cause tendo if it's too tight
+    - ManoKlose.Gather() without Twist
+    - BootToeSkreef is less injurious than HeelSkreef because Heel will displace Fibula
+- 5.05
+    - Increase GripRadius of BoxHandle to reduce PinchPoint in fingers
+- 5.06
+    - What is the breakpoint for SpadeLength
+        - 1.8m?
+    - Use DynamicPhysics to find the exact length which is equivalent to my ratio of Spade to Height
+- 5.07
+    - Slick
+    - Labor\Layers\Tick
+    - Hybrid Planting Company, BurnsLake, BC
+    - Fill Burns whenever you encount it, unless along a LineIn or PinchableZone
+- 5.08
+    - Pedagogy: Group work
+        - How would you fill this piece?
+        - Slow Planter skips a beat. How to TeamPlant with a slower plantor. Each beat, place a neosite on a diagram of the piece
+            - Brilliantoid
+- 5.09
+    - Don't remove Spade before NeonInsert
+        - To prevent collapse
+        - To restrain Flora
+    - ForestryOfficer
+    - It seems like that's more comfortable
+        - Comfortable can be Errant
+    - [Spade,Skim]: Get under instead of coming down on top
+- 5.10
+    - SpadeSlam.DuckStep leg offsets Spade's forces like Ballet
+    - BaseOnda to perpetuate motion like TED-ED Ballet Fouette
+- 5.11
+    - FireBeta
+        - CreamMoss
+        - Bryophyte grow on the sould exposed by fire
+    - How to plant a stump hollow?
+        - RootMassCasting
+- 5.12
+    - "Wait a sec. I'm gonna come over" when you can't hear someone and it isn't urgent enough to yell.
+    - [Spade, (Jab, Cross, Hook, Haymaker)]
+        - Jab isn't as powerful as Haymaker
+- 5.13
+    - Backswing the FullRangeOfMotion to MaximizeAccelerationTime just like HammerToss or Discus
+    - How to Spike a Volleyball
+- 5.14
+    - [Spade,Takt,Skim,Selection] Err on side of HyperMano more Distal than HypoMano
+        - Have the Spade pointing back towards yourself
+    - Crouching as StartMoton of Skim prevent AcuteSpade
+        - AcuteSpade points towards Plantor
+        - ObliqueSpade points away from Plantor
+- 5.15
+    - Why does low density occur when fill planting with lots of 7m natural crop trees?
+    - "How can you tell if a hole is closed" is not obvious
