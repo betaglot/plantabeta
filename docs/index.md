@@ -28,4 +28,28 @@ features:
     title: Support PLANTABETA
     details: 
     link: https://patreon.com/plantabeta
+  - icon: ⭐
+    title: LABOR
+    details: Labor
+    link: /
+  - icon: 🔷
+    title: SOMA
+    details: Soma
+    link: /
+  - icon: 🟩
+    title: EKOS
+    details: Ekos
+    link: /
+  - icon: 🔻
+    title: VIA
+    details: Via
+    link: /
+  - icon: 🟠
+    title: MOTOR
+    details: Motor
+    link: /
+  - icon: 💜
+    title: ANIMA
+    details: Anima
+    link: /    
 ---
