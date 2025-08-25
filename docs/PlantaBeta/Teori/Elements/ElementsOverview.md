@@ -26,6 +26,10 @@ import BTitle from '/vue/BTitle.vue'
 <!-- =================================================== -->
 ::: details 🛠
 
--
+- VElementsTable
+    - Vuetify Datatable
+        - To Browse or Search for Elements
+        - AdvancedSearch
+        - The sidebar isn't useful for Search, but it is good for wandering or reading a book from cover to cover.
 
 :::

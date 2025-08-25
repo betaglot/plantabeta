@@ -3,17 +3,17 @@ import { cs, el } from 'vuetify/locale'
 import { withPwa } from '@vite-pwa/vitepress'
 
 // export default withPwa(defineConfig({
-  // pwa: {
-  //   mode: 'development',
-  //   base: '/',
-  //   scope: '/',
-  //   devOptions: {
-  //     enabled: true,
-  //     suppressWarnings: true,
-  //     navigateFallback: '/',
-  //   },
-  // },
-export default defineConfig({  
+// pwa: {
+//   mode: 'development',
+//   base: '/',
+//   scope: '/',
+//   devOptions: {
+//     enabled: true,
+//     suppressWarnings: true,
+//     navigateFallback: '/',
+//   },
+// },
+export default defineConfig({
   vite: {
     // ...
     ssr: {
@@ -198,10 +198,9 @@ function sidebarGuide() {
 // About
 function sidebarAbout() {
   return [
-    {
-      text: 'About', link: '/about/AboutOverview', collapsed: false, items: [
-      ]
-    },
+    { text: 'About', link: '/about/AboutOverview', },
+    { text: 'Contact', link: '/about/Contact', },
+    { text: 'FAQ', link: '/about/FAQ', },
   ]
 }
 // TEORI
