@@ -1,3 +1,266 @@
 # KeepNotes
 
-- Test
+- PlantaBeta Kickstarter Ask Journalists 
+- 1 one second of time saved as sponsor level
+- Ask Luke Rowan
+- Forests are fractals. use for testing ease
+- Use shallow nautical terms to describe soil thin enough to 
+- Urban Planting This is a creamshow how long would it take for YOU to plant it?
+- Planted trees are trail delimiters
+- The real world implementation of UBCsoft is fall planting and New Zealand
+- Learn how yo collect flower seeds then you'll have something to farm and sell 
+- Ubc must precede kickstart 
+- Given that most forests are sixes,nhow much space is represented by a little logging truck?
+- Prehydrate
+- Seats are shock absorbers, benches are rarely if ever absorbers
+- Andre cut undercut anterior to tree
+- Complacency from fatigue 
+- Boot loosesoil down surf
+- Having a rain shield makes you feel better even if there is no difference in cold. It's not the wetness, but the cold that people dislike. Rain layer also prevents dermal evaporative cooling
+- Waterproof gloves should be stored dry in a waterproof bag
+- Amy would be an ideal head plantor kapoplantor
+- TacticalRest TacticalRestDay
+- Trees are mechanical pumps
+- Patrol line replant
+- Space out in the y axis to get to back faster
+- Ubc planter school
+- Practice by skimming water
+- Soil compaction 
+- Wine can glabrous tissue cooler sleeve
+- Toph Beifong is good a Via
+- Use coastal autumn experience as marketing shorts for PlantaBeta 
+- Find the exceptions
+- around the planet instead of around the world
+- Ekon ContourLine
+- RepairKit
+- Bouldery everywhere only top has soil washed away. Every other place has inflow of sediment 
+- Treaded wagon
+- Flag is easier to throw folded 
+- The black swan that needs to be uncovered is the grr of training
+- Record the extremities 
+- TopographicMap blended with Motoid as a way to visualize Moton
+- Tag myriad using tagspaces then display with vuetify
+- Buy your apprentise Patagonia
+- Kickstart a company where the plantors get the start up finding themselves the better they get at planting the closer we are to developping PlantaBeta
+- Schedule opening clipbox instead of work block barrier to entry into work block is lower than if the task description contained the content
+- Spruce root increases soilteknik and possibly soil Kratos 
+- Wanna surpass minimum wage?
+- Unable unaffordable 
+- Learn how to harvest seeds
+- BundleWrapper and Markum kickstarter
+- SpadeSpike to get both hands free to rip apart interrooted pods 
+- Miriad of Beta should be a DataTable to allow filtering and local search
+- SpineFlexion pulls bellow open. SpineExtension presses air out
+- Precipice Prominence 
+- Look for the leaves and flowers in stick mat, since they only grow in soil. Conifers don't always grow in soil 
+- Markum Telos Speed isn't a benefit if it leads to waste
+- Get in the zone
+- Distance to the back
+- Kickstarter Give them markums
+- Hyperhero
+- T pose for I'm on the line 
+- I don't want to cream out all of the pine 
+- Could you identify a plantor by their motion captured model?
+- Go back down your line i  when you're backfillng walk iut and you won't have enough trees to BoustroLineBack. Especially in trenches since half full trench leaves a hole or forces deadwalking
+- Gripping flag on  spade doesn't affort Palm or IsometricGrip
+- Jig Songs are jigs in the woodworking sense
+- RestDay plantors are prime candidates for TediousDev
+- Say the purpose of the flag, because plantors usually don't have a purpose and are just flagging by automatic convention. IntentionalFlagging
+- Invite some people into your land
+- Mantra for where to direct your attention: piece neon line neon markum neon
+- You don't need to start a pkot on a tree if an ekon is more distinctive
+- You don't need to be conscious thought of look like looking before changing lanes ir turning in a car
+- Beginnings mind can be an advantage 
+- Head kook like breathing rhythm if swimming front crawl
+- Priority to stumps to increase predictability. affordance of neosite selection 
+- Ektomi is the opposite Moton of SpadeKlose
+- Focus on Anima while you wait for soma to get back into shape or into shape for the first time 
+- Remove cuff buttons
+- Do you mind if I Jump your line
+- Increase devrease density gestures when yelling is too difficult 
+- StumpTakt Density 
+- Probe on blunt spade
+- The probability of piecepinch increases proportional to plantor count
+- Drink and Eat before replanting 
+- If i had already sold twelve works of art then I'd know how to sell one
+- Tension when backswing
+- Accusations while replanting a cattle plant
+- Elevation instead of level
+- Low D in the flat high d in the slope 
+- AreaPlant the culdesac
+- Overtake Pass
+- Pull a bit more out with SoadeHand after ripping with TreeHand
+- Maintain a couple trees buffer between plantors
+- PlantaforCarry: One Shoulder strap when one side is empty 
+- Fireweed MarkumTakt
+- Defined Leader in trenches 
+- ManoSkreef before BootKlose, but after NeonInsert
+- Soil so soft that the blade goes in a stays by itself when dropped from a given height
+- Trench DeadEnds
+- Ting your Spade to get someone's attention 
+- Reky
+- RookieFreeze is more apt than rookieStare
+- U instead of O Grip GentleGrip SpadeGrip
+- Where to buy a hook needle for asolo heel panel
+- Deep enough neons are less floppy 
+- Vertical Blade in constrained area
+- Repeat pry to get under a big chunk of redrot or other low density duff
+- Email Jared to build planter confidence
+- PlotKord Coil
+- Use stump as step on steep slopes 
+- Counting steps us a crutch for spacing and ultimately density 
+-  Steadicam is Gimbal
+- Via: pitch yaw roll
+- Teorem: On a slope there shouldn't be trees below you
+- Teorem to know if you're ghost lining
+- Seek out good teachers to learn the practice of teaching 
+- ClusterPlanting within Plots
+- Morning meeting: Circle crowd is not ideal
+- Bonus Tree stumped trees don't count in  plots
+- Dot instead of point in glyphs 
+- SpadeSkreef isn't a move
+- It seems like you view me negatively 
+- Aquarium bubbler for 
+- Fold Markum into figure 4
+- Spade Peck 
+- Plant triads instead of triangles 
+- VillaBeta
+- Day Off Map of Penticton
+- Ask Guides agac? Of Canada about Layering and other Beta
+- BootFender
+- BlueWax
+- Rugby Goose Step
+- Send PaperTowel compnay a message about Markums 
+- Constrain PlantaBeta to students
+- Grant
+- Add japanese crowd walk to via overview 
+- Ferrous weighted markalim allows magnetic storage
+- Calendar for motel
+- Gray honey paint tryptic at NAG
+- Norah isochrone
+- Bonzai instead of toddler trees
+- are you interested in Beta testing PlantaBeta?
+- Tie or loop or button on the inside of jacket to allow fully unzipped while also maintaining the structure of the jacket. Stop your jacket from flapping open
+- Unit instead of team
+- You have the money for PlantaforDev
+- Via: Hold the door open for someone anterior posterior lateral relative to you
+- Stomp for boot purga
+- SetUp a job for September
+- Find a Canadian Mossy Earth
+- Aditojnal use of goggles is as an ankor point for glabrous skin air pneuma aero wind
+- Labor of love
+- Tree planter dance meme for Shorts
+- Voronoi are mosaics 
+- Sift
+- KramponMoove requires rigid BootSole
+- Use protein powder jar for nut mix
+- Plantafor folds into a hoplite shield
+- PropositionEkos: There is a type of moss which grows only on creamsoil
+- Planters carry spray can
+- Biodegradable has nothing to do with Biology. bio is life, so over the lifetime of the plastic, it degrades
+- Coffee filters don't fall apart when wet, neither do napkins
+- Truckers hitch for quad
+- Delta is chance and via and agreek triangle letter
+- Via: get through before the door closes
+- When removing Midlayer and the shell is wet, ensure that the inside of the shell remains dry by not letting
+- Shade is a Shadow large enough to sit in
+- Soccerball control is flora move
+- BirchBark Marka dyed
+- KickerPlate is the Hilt of a Spade
+- Branch rope burn
+- Slink
+- Sfagnum
+- Ekon: Dihedral
+- Insulation keeps you warm,bit doesn't make you warm 
+- See Daredevil for Via like ACreed
+- ViaLine InsteadOf ViaCurve
+- Cowl
+- authentikos "original, genuine, principal,"
+- Pythogoras for theorem example and first via proposition after definitions
+- Time is a cycle
+- Footprints in snow show via
+- stuffed pepper
+- Axiom: Gravity 
+- PlantaBeta: A video game that's designed to be not fun
+- Clay Plantafor Sculpture
+- ShoeResole without glue
+- Morning Meditation
+- Shoot the wire from the fully deployed skidder crane tree delivery zipline
+- The "nothing" landscape of up North is the place that absorbs humanity's carbon
+- Eat in your wind eddie. Back to wind
+- Lean into a banked turn
+- Tibior anchors around foot in boot. Not how it's currently around boot
+- Change to Korpo
+- Gyro Gyrate
+- Stance
+- AtClimbingGym Reset for Quastuco demo
+- Maybe painting the paper with nontoxic blue paint will be easier.
+- Pacer is easier than teacher
+- Div ToVia
+- Piece to Labor
+- throw your spade over a high obstacle first, so you cab use two hands to climb
+- Drink when you're not thirsty and stop eating while you're still hungry 
+- Master != Elite  
+- MechanicalDryer
+- Crossing the street because you someone else start to move. Intention.mimik
+- Flag pineapple 
+- Markoid
+- If seedlings are neons, then what are crop trees in fill plants. Paleon
+- Certified that they completed Kendra's course and are therefore muscularily ready for the upcoming season
+- Double serrated bookbinding sides for markum stack and markum rip 
+- Playback on ipad like nhl 
+- BagAdjust ManoBagRim instead of SilviMoton
+- Patagonia Orange Epaulets on bags and niunt for ventilator. Copy Paramedic Ventilator 
+- Pacer is the TA of planting  Low bar for entry, lower than becoming an Instructor
+- Plant hypotenuse in flat terrain and "L" on slope 
+- ManoSlideCheck uses Kinetic Friction to pull on tree while needletest uses static, same with StaticCheck
+- Teaching noflag, but its optional maybe isn't good
+- Only the first moton is a pry the rest are skim
+- Cedar Bark Flag
+- Planter communication  I'm gonna area plant this section
+- Be a checker for a short time
+- Tablet markafor case 
+- Octopus Stump
+- Drum Sand in dune Drum Clay Drum RedrotSoil Skin is Moss or dense roots
+- NeonMano on FlipSide of trench. Perpendicular Blade
+- Respect not just in trench also. Trench Area
+- Each page of Booklet has a qr code which links to PlantaBeta
+- Markafor triggers a Geolocation event when Markum is dispensed
+- To remember a thought, say it aloud and gesture. Like Japanese Train Conductors
+- Worm into. Use SpadePalm
+- Squire Page Support GlialCell Scaffold Framework SupportStaff PitCrew
+- Refereeing benefits players the same way as surveying benefits plantors
+- Spade that's too long leads to overuse of tab and tears along medial side of boot sole and rand
+- 2$ for anyone that can provide evidence from a scientific paper
+- Start doing fastBagOuts to experiment with Stoicism for Anima
+- What will you sacrifice? Nothing is free
+- Minute physics mountain valley illusion for Ekon Form
+- SpadeDribble PanBeta(Basketball)
+- Cherries fluffing neon packing error
+- Affordance: You can grab it here. If you walk over here, the n you'll be able to see it better
+- Quality decreases at the end of day
+- Planters and Supervisors should be hired for their character
+- Planters should be saying That's good enough, insteadof Fuck it!
+- Bundle wrappers which haven't been frozen
+- Finger step to start zipper. Hold anterior fabric fixed to prevent zipper kink
+- Teach someone to teach. Triad. Student teacher me 
+- First bagIn with insulation layer since it's usually cold in the morning 
+- 4g blue paper cup for salt
+- If you want to know more, there is a place you can go. If you're at all interested in PlantaBeta
+- Decisions evaporate when you're following wanting. The choice is always obvious 
+- They were going ham. Implies density. Anima can be a descriptor of density 
+- Missing Front pocket for camera is limiting the data collection for PlantaBeta. Accessibility is low to GoPro 
+- Run a line. Run to the back
+- Broaden your idea of a PlantaBeta sponsor to any person or company involved with Plantations. For example Gransfors Bruk
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
