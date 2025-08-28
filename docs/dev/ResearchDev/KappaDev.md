@@ -1,0 +1,69 @@
+# KappaDev
+
+- Pull up slow to reduce the momentum of dust cloud
+- taping
+- Plantor drop off sequence
+- Plantor drop off with the minimum cache to get started and
+- Plantor pick up sequence
+- flag bag shovel at every drop off
+- break down boxes
+- rock on flatyened boxes
+- when to KappaPlantor
+    - block close
+- music selection
+    - bpm
+- sit in truck
+- fill plant flag boundary
+- predict boundaries that plantors will mess up
+- specs
+    - say ratio slowly
+    - number before species
+- flag bag shovel finish time at moring drop off
+- Kappa puts on plantors bags to demonstrate something
+- maps in dropbox
+- fold tarps using creases
+- pothole via
+- sit in truck when cold
+    - when to kick out
+- moving plantors stuff when migrating cache
+- cache migration
+- cache immigration
+- cache emigration
+- where to go after done piece
+- cutting pieces
+- Making teams
+- example of what to respect and how deep to go into green or slash
+- track yourself so you know where you've been
+- pins for plots and color code for density. Danger sign for needs attention
+- enough to get them started
+- backup road instead of Austin Powers
+- remind to download map in the morning while still in service
+- guide for maneuvering truck. Use room left hand split
+- leaving truck idling
+- ting your spade to get a plantors attention to avoid startling them. A ting a long distance away could only be a human and a ting closer to you is more startling than a ting a long distance away. People can tell how close a sound is, how? Weave in akademia, implicate akademia, Betaglot is a braid of opinion and objectivity
+- how to give feedback for polyplantor
+- i just want you to see what I'm seeing
+- spotter for truck
+- Ting your Spade to get someone's attention
+- Polykappa on a block
+    - Homogeneous crew mixture
+    - Heterogeneous crew mix
+- Take a picture to point out landmarks
+- Take trees from plantor to bump up density
+- Demonstrate protector planting instead of just telling to hit more obstacles. ClassicStyle. HamelinsRazor?
+- extra laces
+- test hitch by lifting the trailer up by cranking the supporting wheel. To ensure that the hitch doesn't pop off while driving
+- how each piece should be planted pointing on ipad with pointer
+- tree lining excess
+- knots. Truckers, bowline
+- normalize and schedule pee breaks during driving
+- ask for them to turn music off
+- We instead of you
+    - Are we misery planting today?
+- Each interaction needs to eased into with small talk
+    - You're the only person that they've interacted with in the last few hours
+    - Beginnings are delicate
+    - Begin Again
+    - Greeting before business talk
+- Tablet Satchel 
+    - Loop from the two corners of the short side

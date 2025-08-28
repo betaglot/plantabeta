@@ -154,6 +154,7 @@ function sidebarDev() {
         { text: '<dev>AkademiaDev</dev>', link: '/dev/ResearchDev/AkademiaDev' },
         { text: '<dev>FieldNotes_2025</dev>', link: '/dev/ResearchDev/FieldNotes' },
         { text: '<dev>KeepNotes</dev>', link: '/dev/ResearchDev/KeepNotes' },
+        { text: '<dev>KappaDev</dev>', link: '/dev/ResearchDev/KappaDev' },
         { text: '<dev>ResearchQuestions</dev>', link: '/dev/ResearchDev/ResearchQuestions' },
 
       ]

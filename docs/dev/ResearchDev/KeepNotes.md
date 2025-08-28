@@ -252,15 +252,290 @@
 - Missing Front pocket for camera is limiting the data collection for PlantaBeta. Accessibility is low to GoPro
 - Run a line. Run to the back
 - Broaden your idea of a PlantaBeta sponsor to any person or company involved with Plantations. For example Gransfors Bruk
--
--
--
--
--
--
--
--
--
--
--
--
+- A skfreef is a Labon. You don't need to skreef that
+- Define the range for NovicePlantors, so they know what to expect
+    - This is as steep as it gets
+- The goal is to dance while planting
+- NeoMoton BootSlideSkreef is a Skid
+    - Skid
+    - Skim
+    - Skreef
+    - Skrape
+    - Skour
+    - Ski down loose slopes like going down snowbanks in ski boots
+- TibiorDev Sagging gaiters collect water.
+- Alloplantor needs to know if you're planting off density so they can compensate
+    - Alloplantor implies Polyplantad
+    - Diplantad
+    - Triplantad
+    - Polyplantad
+- Minimal break
+- Working too hard
+- Put redrot to make it high density
+- A Skreef is evidence of effort
+- Planters take shorter steps in slashy areas, which leads to HighDensity
+- The backs of pieces. Piece distal to road is more raw since less slash has been dragged through it
+- The space between road and piles is often better than prep
+- Raw is a continuum
+- SpadeLeg and BrazoOnda and Spade.Moton at same time
+    - DuckStep during SpadeSlam uses the same physics as a double universal pendulum's motion  
+- Gather data for Betaglot
+    - Strava
+    - GoPro
+- Record SpadeMoton with drawings
+    - Inertia
+    - Rotation
+    - Torque
+    - Cycle
+    - Embellishment
+- Walking to prevent pinch is rhe same amount of deadwalking as uf walking through the pinch, but deadwalking in first has a more clear start, especially when the start is high flagged
+- BellowDev
+    - Slight taper distally with help to pull all joints to 180 degrees. To overcome paper stiffness
+    - kraft paper
+    - spatula creaser
+    - dominoes frame on both sides. Double thick
+    - double garbage bag for transport and hydrophobia
+- Chestpack Accordion Bucket Acoustic Amplifier for phone
+    - Double doors with finger loops to open intake vent at anterior of bellows
+    - Washable Air filter
+    - Chestpack bellow allows two arms to operate and minimizez tubing
+    - Accordion reinforced folds
+- Rotate blade to perpendicular to cut roots during skim
+    - Perpendicular Blade leads with BladeEdge therefore increases pressure on Impakt
+- NeoAktion Brazo thread through straps during PlantaforOn
+- Soil type affords Hole variation
+    - Derivative isn't variation
+    - Soil type determines hole
+- PlotKord.Aktion
+    - Helix over a tree
+    - See Rodeo for terminology
+    - Dimano
+    - Transport
+    - Coil verb and noun
+    - CoilTransport
+    - Loop around Spade and Unloop
+    - HandOver Hand pull Medial
+    - ConcentricLine
+    - RadialLine
+    - Center==Spade
+    - Maintain tension like walking a dog
+    - BrazoExternalRotation
+    - InsideGrip twirl
+    - OutsideGrip has no twirl
+    - Grip loop and Plast at same time
+    - TailDrag
+    - Loop, Markum and Tail
+    - ManoSlide.Distal
+    - RadialLook
+    - LookDistal, look Medial, DistalMedialLook
+    - Hook along Tail
+    - Saddle slide between thumb and index
+- PlantforDev: Phone case front bag attachment
+    - HardShell
+    - Coil Kord around Kase
+- RainJacket which turns into a Bellow
+    - You're never too sweaty when it's raining
+    - If it's waterproof then it's also AirProof too
+- Bundle Grip
+    - Hold on stem as close to pods as possible for max stability
+    - Bending stems
+    - Fascile is bound
+    - Bind bundle with Mano
+- LookDown the slope to reduce chance of high Density
+    - Choose the next spot before walking up hill
+    - Turning around on a hill is more difficult since turn around step is more difficult on slope land than on flat
+    - KorpoRotate
+    - KorpoTwist
+    - NeckTwist
+- SpadeSkim
+    - Lower HypoMano decreases the force required to grip the spade
+    - And Lower HypoMano also reduces energy loss. The movement of the Spade takes energy which could have been transferred into the SkreefSite
+- Proof us more important for getting experienced plantors to use PlantaBeta than rookies
+    - Rookies aren't set in their ways
+    - If it's not broke don't fix it. I'll need to prove that it's broken
+- Vary Kayak Paddle grip to reduce tendonitis OKC
+- Heuristic then algorithm
+    - If: Plant the low spots
+    - Else: use a proposition
+- What is an open ended version of "Does that make sense?". TeamBeta
+    - PodTuck naturally angles the Neons in Silvi
+    - Bunching
+    - Angled Down to anterior decreases probability of neons slipping out during bend over
+    - Especially important when silvi is more than 75% full
+- MarkumDev: Flag length doesn't need to be variable
+    - Design Constraint: Flag length must be standarized
+    - Press
+    - SkateboardPress
+    - Extruder
+    - CandyExtruder
+    - Punch
+    - Former like a bumper maker
+- Neon blue
+- Follow the Fireline
+- PlantaBeta: DataStructures
+    - Everything is an Object, like in Python
+    - Poliads are DataStructures
+    - Plots
+    - Which to Pop() from a Plot?
+        - To Density--
+    - Where to Plot.Insert() into a Plot?
+        - To Density++
+- The edge is more precise than line
+    - Edge of what's been completed
+    - Front. WeatherFront. All quiet on the Western Front
+    - Frontier
+    - Frontline
+    - Cutting edge
+    - Bleeding edge
+    - Pushing the envelope
+- Each interaction needs to eased into with small talk
+    - You're the only person that they've interacted with in the last few hours
+    - Beginnings are delicate
+    - Begin Again
+    - Greeting before business talk
+- Thumbs up for spade hypomano skreef
+    - Thumbs up for spade hypomano skreef
+    - Full palm kontakt requires crouch to align forearms then wrist
+    - More fingers increases kratos of manoMOTON
+    - Test
+    - Drag plantor into alignment or multiple choice choose the optimal alignment image. Photo or diagram
+- Team formation is labor and via, not motor
+    - "Form up!"
+    - Form a line
+    - Testudo
+    - Attack V
+- (Protector)InsteadOf(Obstacle)
+    - Buffer for cows
+    - Protection from sun or snow
+    - Protector is Labor
+    - Obstacle is Via
+- CrummyDev
+    - All tools for adjustment bag spade
+- Genius Loci CrummyDev
+    - Treadcart remove tread for flat transport
+    - CrummyWhiteboard
+- Spade.Shaft,Markum,Skreef.Hypomano
+    - Put tape on the shaft
+    - Some part of your lower hand must be touching this tape when you're skreefing
+    - Physics experiment
+    - I put from the tip as they vary hypomano position along shaft
+    - Ensure that instructor is standing at an angle to reduce probability of getting hit by the blade
+- No background music during Pedagogy. Turn off the music that you've been listening to while planting
+- Inside of cape can be a mount
+    - bellows
+    - fan
+    - water
+    - map
+    - Webbing down the middle with gear loops
+    - Less accessible than back bag
+    - Or but everything in the cape so back bag can carry bundles
+    - Pocket curtains beechfern
+- Worst case scenario
+    - Best case scenario
+    - Most likely case scenario
+- Start moton of (Spade,Skreef)
+- ArmOnda to BladeTipKontakt OR BladeTipKontakt
+
+- PlantaMaki
+    - When you're tired or the land is shit
+    - Just lock in on planting
+    - Relax breathe and plant
+    - 3:15
+    - <https://youtu.be/F5MODFj28oU?feature=shared>
+- BetaSelection
+    - Injury weights the BetaAlternatives
+    - Knee injury increases the weight of ManoKlose
+- Error.KitTransport
+    - Things swinging while you walk
+    - Like a cowbell
+    - For example a water bottle
+- Analysis during morning crummy faster than real
+    - Analyze planters during the ride to the block in the morning
+- MarkumDev
+    - Blue ink qr code for flag
+    - What happens if you tile a qr code, does it mess up the reading. What is the minimum spacing between qrcodes relative to size
+- [Step, (Brazo, Finger)]
+    - Arms can step
+    - Fingers can step
+    - Step your arms
+- Be a "Stoic", not a "roman" or a "greek"
+    - Be a "Stoic", not a "roman" or a "greek"
+- Spike instead of Propel or Slam or Throw
+    - SpadeSpike
+    - DoruSpike
+    - Train rail spike
+- Close Glove to keep thermal energy
+    - When removing a mid layer, keep the outer layer wrapped
+- Professionalism: Leave nothing to chance
+- Thousand mile stare. RookieStare. RookieFreeze
+- PieceWalkOut => PieceExit
+    - PieceWalkOut => PieceExit
+- Paint instead of complete or cover
+    - Paint yourself into a corner
+- ClothingDev: Jacket Backpack straps
+- L-notch planting
+    - Special form of slit planting involving two slits at right angles with the seedling placed at the apex of the L.
+- Pull the outer layer of clothing in the opposite direction to precompensate
+    - Ratchet
+    - When your sleeve getting jammed
+    - Sleeve or pant
+- ClothingDev: Sleeve Tab or loop at cuff for layer subtract and add to prevent crumple snag of inner layers
+- TeamBeta
+    - Leader
+    - Captain
+    - Quarterback
+    - NOT necessarily by Seniority!
+- Thermocline
+    - "abrupt temperature gradient" in a lake, ocean, etc., 1897, from thermo- "temperature, heat" + -cline, from Greek klinein "to slope" (see cline).
+- Where is your line?
+    - Where is the border of the area that's already filled?
+    - Line of Planted trees is Cover
+- NeoAktion(SpadeSpike)
+    - SpikeBall
+    - Spike the Spade into ground when Reloading Flag or when you need both hands
+- PlantaforDev: Overall+Bags. Built-in Bags
+- Box ollie
+    - BoxPop
+    - (Pop)InsteadOf(Ollie)
+- Trencher
+    - I guess continuing the lines after going around obstacles
+    Foresight into exit strategies for pinch points.
+    - Oblong areas or fingers require backing up to create squares to work off of for rest of blocks
+    - Backing up to the danger zone of wet areas
+    - The GPS is set at 10 second intervals if I remember correct so yes spacing would be related to speed.
+    - I did deadwalk down a road to the furthest point of the block to start, mostly so I end my day closer to my truck.
+    - I don't really get much feedback on how it looks only asked why I wasn't able to hit areas.
+- Via Merge into Follow
+    - PlantingSynergy
+    - After going around different sides of a residual patch then merging back together
+    - On ramp merge lane. Highway is an established multilane
+    - Lane is ViaSpace
+- SpadeDev: Piezoelectric SpadeSlam to recharge a planter battery used for cooling system
+- Pods should be planar instead of cylinder
+    - Envelope is easier to design than cylinder
+    - Stack
+- NovelVia(NeoSite)
+    - Abandon CurrentSite for Neosite when you determine that CurrentSite isn't good
+    - Stop wasting time screefing through redrot and just find another site
+- Lokhmē "thicket": from the fact that one lays ambushes (lokhân) in such places. But Philoxenus derives it from the verb lazō "to seize", thick things being easier to grasp. Lazō, future laxō, noun lakhmos, as from krazō "to croak", kraxō and kragmos "croaking"; and the [g] having changed to [kh], *lakhmos; the feminine of the latter, lokhmē
+- Gather ExcessSoil at Posterior Bottom of Silvi
+- Via Radar
+    - Proximal tree
+    - Like a plot
+    - Use Voronoi
+- Inertia To break apart pods which are held together by a few roots
+- NeonDensity: Dial it in
+    - Dialed
+    - Tuning dial on radio
+    - Tune like Recording Studio
+- Soil flip to expose mineral soil, when there is Organic Material on top of MineralSoil and the space if too tight to fully Skreef
+    - SoilBall to ManoRelease
+    - Lift ball three cm above hole rim before drop
+- Head Plantor or Plantor Coach
+    - repair gear
+    - fit gear
+    - stretching
+    - seminars
+    - train pacers
+    - not therapy physical or mental
+    - train instructors
