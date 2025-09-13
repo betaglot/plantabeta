@@ -1,5 +1,6 @@
 # KappaDev
 
+- Increase decrease density gestures when yelling is too difficult
 - Pull up slow to reduce the momentum of dust cloud
 - taping
 - Plantor drop off sequence
@@ -65,5 +66,5 @@
     - Beginnings are delicate
     - Begin Again
     - Greeting before business talk
-- Tablet Satchel 
+- Tablet Satchel
     - Loop from the two corners of the short side

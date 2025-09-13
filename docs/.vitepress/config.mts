@@ -1,6 +1,5 @@
 import { defineConfig } from 'vitepress'
 import { cs, el } from 'vuetify/locale'
-import { withPwa } from '@vite-pwa/vitepress'
 
 // export default withPwa(defineConfig({
 // pwa: {
