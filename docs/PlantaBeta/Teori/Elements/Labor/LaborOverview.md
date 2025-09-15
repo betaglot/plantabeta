@@ -6,7 +6,13 @@ import ElementGroupIkon from '/vue/ElementGroupIkon.vue'
 
 <ElementGroupIkon imageSource='/Ikon/Labor_Ikon.png' />
 
+## What is <labor>LABOR</labor>
+
 Aliases: Work, Job, Task
+
+::: details Why is it called <labor>LABOR</labor>?
+
+:::
 
 ::: details Examples of <labor>LABOR</labor> in everyday life
 

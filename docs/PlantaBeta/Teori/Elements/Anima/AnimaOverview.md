@@ -6,9 +6,13 @@ import ElementGroupIkon from '/vue/ElementGroupIkon.vue'
 
 <ElementGroupIkon imageSource='/Ikon/Anima_Ikon.png' />
 
+## What is <anima>ANIMA</anima>?
+
 ANIMA == PSYCHE == SPIRITUS
 
 > Focus on your breath to experience anima directly
+
+::: details Why is it called <anima>ANIMA</anima>?
 
 ## Etymology
 
@@ -79,6 +83,8 @@ ANIMA == PSYCHE == SPIRITUS
 - Psyche
     - Psychology
         - animology
+
+:::
 
 ---
 

@@ -6,19 +6,9 @@ import ElementGroupIkon from '/vue/ElementGroupIkon.vue'
 
 <ElementGroupIkon imageSource='/Ikon/Via_Ikon.png' />
 
-> the way
-
-## <via>VIA Symbol</via> 🔻
-
-> Inverted Red Triangle
-
-```py
-🔻
-```
-
 ## <via>What is VIA ?</via>
 
-> the interface between MOTOR, ANIMA and EKOS
+> the way
 
 ::: details Why is it called <via>VIA</via>?
 
@@ -74,6 +64,15 @@ Road, Path, Route, through, using, composed of
 
 :::
 
+---
+
+<!-- =================================================== -->
+<!-- =================================================== -->
+<!-- =================================================== -->
+<!-- =================================================== -->
+<!-- =================================================== -->
+::: details 🛠
+
 ## <via>Affordance</via>
 
 ### <via>Purpose of VIA</via>
@@ -96,15 +95,6 @@ Also Known As "Land Management"
 - VIA Affects productivity the most because via has deadwalking and cache positioning. VIA Starts and Finishes at the cache.
 
 - Even the most atheletic plantor is wasting time during deadwalking. Minimizing deadwalking benefits all plantors and supervisors.
-
----
-
-<!-- =================================================== -->
-<!-- =================================================== -->
-<!-- =================================================== -->
-<!-- =================================================== -->
-<!-- =================================================== -->
-::: details 🛠
 
 - All VIONs require Affordance
 - Near is a Quality not a Quantity

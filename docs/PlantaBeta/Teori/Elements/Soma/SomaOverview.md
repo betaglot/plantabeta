@@ -6,7 +6,11 @@ import ElementGroupIkon from '/vue/ElementGroupIkon.vue'
 
 <ElementGroupIkon imageSource='/Ikon/Soma_Ikon.png' />
 
-## What is a 🔷<soma>SOMON</soma>
+## What is <soma>SOMA</soma>?
+
+::: details Why is it called <soma>SOMA</soma>?
+
+:::
 
 ---
 
