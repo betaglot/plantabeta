@@ -14,7 +14,7 @@ Each SistemType is structured into Praktik and Teori
 
 Betomiks(Komposition(Betum(Element)))
 
-## PLANTABETA Syntax for Combining Elements
+## PlantaBeta Syntax for Combining Elements
 
 [Combinatorics](https://en.wikipedia.org/wiki/Combinatorics)
 

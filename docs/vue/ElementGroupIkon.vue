@@ -1,6 +1,6 @@
 <template>
   <a class="text-decoration-none" :href=imageLink>
-    <v-container class="d-flex justify-center w-50 " >
+    <v-container class="d-flex justify-center" >
       <v-img class="rounded-xl"
              cover
              :src=imageSource></v-img>

@@ -116,7 +116,7 @@ If you're an Experienced Plantor, then <beta>Put(<ekos>Plant</ekos>)</beta> give
 
 - You can plant trees without Beta. PlantaBeta isn't required to plant
 - PlantaBeta is written like a computer programming language function since it's the application of computational thinking.
-- PLANTABETA.com is only used for learning and research. It's not meant to be used everyday by plantors. People don't use textbooks everyday.
+- PlantaBeta.com is only used for learning and research. It's not meant to be used everyday by plantors. People don't use textbooks everyday.
 - Shift the Color of Plantations towards green
 
 - "Guide.GettingStarted"

@@ -77,4 +77,4 @@ Make an incredibles mask for plantors
 
 ## Storyboards
 
-- Zoom into PLANTABETA from ultimate view to Submove
+- Zoom into PlantaBeta from ultimate view to Submove

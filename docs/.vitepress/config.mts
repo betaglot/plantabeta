@@ -1,5 +1,4 @@
 import { defineConfig } from 'vitepress'
-import { cs, el } from 'vuetify/locale'
 
 // export default withPwa(defineConfig({
 // pwa: {
@@ -21,7 +20,7 @@ export default defineConfig({
   },
   cleanUrls: true,
   lang: 'en-US',
-  title: 'PLANTABETA',
+  title: 'PlantaBeta',
   description: 'Everything is Connected',
   lastUpdated: true,
   ignoreDeadLinks: true,
@@ -208,9 +207,9 @@ function sidebarElements() {
       collapsed: true,
       items: [
         {
-          text: '⭐<labor>Tasks</labor>', link: '/reference/Elements/Labor/Task', collapsed: true, items: [
-            { text: '<labor>Route</labor>', link: '/reference/Elements/Labor/Route' },
-            { text: '<labor>Competition</labor>', link: '/reference/Elements/Labor/Competition' },
+          text: '⭐<labor>Tasks</labor>', link: '/reference/Elements/Labor/Tasks/Overview', collapsed: true, items: [
+            { text: '<labor>Piece</labor>', link: '/reference/Elements/Labor/Tasks/Piece' },
+            { text: '<labor>Specs</labor>', link: '/reference/Elements/Labor/Tasks/Specs' },
           ]
         },
         {
@@ -270,30 +269,6 @@ function sidebarElements() {
             { text: '<labor>Sling</labor>', link: '/reference/Elements/Labor/Tool/Sling', },
           ]
         },
-        {
-          text: '👐<labor>Spotter</labor><beta>BETA</beta>', link: '/reference/Elements/Labor/SpotterBeta/Overview', collapsed: true, items: [
-            { text: '<labor>Spotter.Aktions</labor>', link: '/reference/Elements/Labor/SpotterBeta/SpotterAktions/Overview' },
-            { text: '<labor>Spotter.Tasks</labor>', link: '/reference/Elements/Labor/SpotterBeta/SpotterTasks/Overview' },
-          ]
-        },
-        {
-          text: '👷‍♀️<labor>Setter</labor><beta>BETA</beta> ', link: '/reference/Elements/Labor/SetterBeta/Overview', collapsed: true, items: [
-            {
-              text: '<labor>Setter.Tools</labor>', link: '/reference/Elements/Labor/SetterBeta/SetterTools/Overview', collapsed: true, items: [
-                { text: '<labor>Driver</labor>', link: '/reference/Elements/Labor/SetterBeta/SetterTools/' },
-                { text: '<labor>Ladder</labor>', link: '/reference/Elements/Labor/SetterBeta/SetterTools/' },
-                { text: '<labor>Wrench</labor>', link: '/reference/Elements/Labor/SetterBeta/SetterTools/' },
-                { text: '<labor>Bolt</labor>', link: '/reference/Elements/Labor/SetterBeta/SetterTools/' },
-                { text: '<labor>Screw</labor>', link: '/reference/Elements/Labor/SetterBeta/SetterTools/' },
-                { text: '<labor>ThreadTap</labor>', link: '/reference/Elements/Labor/SetterBeta/SetterTools/' },
-
-              ]
-            },
-            { text: '<labor>Setter.Aktions</labor>', link: '/reference/Elements/Labor/SetterBeta/SetterAktions/Overview', collapsed: true, items: [] },
-            { text: '<labor>Setter.Tasks</labor>', link: '', collapsed: true, items: [] },
-          ]
-        },
-
       ]
     },
     {
@@ -481,9 +456,6 @@ function sidebarElements() {
 
           ]
         },
-
-
-
       ]
     },
     {

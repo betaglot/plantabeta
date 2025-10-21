@@ -183,7 +183,7 @@ Only the 🟠<motor>Arm</motor> object is prefixed with an ikon. ArmPut is orang
 
 🟠<motor>Arm.<motor>ArmPut()</motor></motor>
 
-### PLANTABETA_IKON
+### PlantaBeta_IKON
 
 KlimBeta has its own Ikon too
 

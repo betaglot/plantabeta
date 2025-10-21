@@ -108,7 +108,7 @@ Approximately 6500 Plantors each season in Canada
 
 :::
 
-## What does PLANTABETA have to do with Tree Planting?
+## What does PlantaBeta have to do with Tree Planting?
 
 ---
 

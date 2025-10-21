@@ -5,7 +5,7 @@ sidebar: false
 
 ---
 
-# <beta>What is PLANTABETA?</beta>
+# <beta>What is PlantaBeta?</beta>
 
 ## In a sentence
 
@@ -77,8 +77,8 @@ BETA can be a description or an instruction
     - Instagram.BETAGLOT
     - Snapchat.BETAGLOT
 - PlantaBeta is the Organization
-    - PLANTABETA.com is the Website
-    - PLANTABETA.py is the Python Library
+    - PlantaBeta.com is the Website
+    - PlantaBeta.py is the Python Library
 - KLIMBETA is a sibling Organization
     - KLIMBETA.com is the Website
     - KLIMBETA.py is the Python Library

@@ -1,6 +1,6 @@
 # 🛠 Dev
 
-<iframe class="youtube" src="https://www.youtube.com/embed/5jzchxfzF28?playlist=pzqD7SZoZcQ,llfZYq7NwI0" title="0001 PLANTABETA 2024 05 05 01 GH010209" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe class="youtube" src="https://www.youtube.com/embed/5jzchxfzF28?playlist=pzqD7SZoZcQ,llfZYq7NwI0" title="0001 PlantaBeta 2024 05 05 01 GH010209" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 [To Downloads Autoscroll using URL#fragment](/dev/DevOverview#downloads)
 
@@ -49,7 +49,7 @@ Download Printable resources
 <!-- =================================================== -->
 ::: details 🛠 &&&
 
-- Document everything to make PLANTABETA_Dev portable to any company
+- Document everything to make PlantaBeta_Dev portable to any company
 - "Dev.Overview"
 - "Dev.PlantaBeta.SeedIdea"
 - "Dev.Youtube"

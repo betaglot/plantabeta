@@ -2,7 +2,7 @@
 
 > A <beta>BETUM</beta> is a unit of <beta>BETA</beta>
 ---
-> PLANTABETA or "BETA" for short, is the **information** that you use to perform planting tasks.
+> PlantaBeta or "BETA" for short, is the **information** that you use to perform planting tasks.
 
 A <beta>BETUM</beta> must be composed of at least two Elements of a different Group which occur within the same Moment
 

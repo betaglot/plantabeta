@@ -55,7 +55,7 @@ treeList = [
 - <https://www.verywellmind.com/bronfenbrenner-ecological-model-7643403>
 - Documentation to play the (game == simulation == PlantorExperience)
 - Documentation for the game is also documentation for the job
-- Knowledge Gaps are the low hanging fruit of PLANTABETA education
+- Knowledge Gaps are the low hanging fruit of PlantaBeta education
 - Every minute counts
 - Simulate the job with Test coded in Python. Use Voronoi and other algorithms to check answers
 - The most simple test is multiple choice naming test
