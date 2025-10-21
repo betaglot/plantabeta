@@ -1,7 +1,7 @@
 ---
 aside: false
 ---
-# Knuckle,🔻<via>Takt</via>
+# Knuckle,🔻Takt
 
 ---
 

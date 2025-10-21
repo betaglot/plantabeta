@@ -2,7 +2,7 @@
 aside: false
 ---
 
-# <py>[<labor>Spade</labor>,<motor>Skreef</motor>]</py>
+# <py>[Spade,Skreef]</py>
 
 <BT
     l='Spade'
@@ -13,9 +13,9 @@ aside: false
 
 <!-- V-Carousel -->
 
-### ⭐<labor>Spade</labor>
+### ⭐Spade
 
-### 🟠<motor>Skreef</motor>
+### 🟠Skreef
 
 ## <py>Subtypes</py>
 

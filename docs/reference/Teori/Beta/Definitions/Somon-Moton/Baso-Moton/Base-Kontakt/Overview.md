@@ -1,7 +1,7 @@
 ---
 aside: false
 ---
-# 🔷<soma>Base</soma>,🟠<motor>Kontakt</motor>
+# 🔷Base,🟠Kontakt
 
 > Kontakt is a Verb
 

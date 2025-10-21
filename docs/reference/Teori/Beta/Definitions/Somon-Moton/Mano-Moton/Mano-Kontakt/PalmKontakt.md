@@ -1,4 +1,4 @@
-# ⭐<labor>PalmKontakt</motor>
+# ⭐PalmKontakt
 
 ---
 

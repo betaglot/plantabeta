@@ -69,7 +69,7 @@ Coverin spandrels to show the mortar between ideal tree spacing spgeres
 - ❌<error>TooFar</error>
 - ❌<error>TooClose</error>
 - ViaSpace extends underground. You wouldn't want to step on quicksand
-    - You need to consider what's under a <via>Contact</via> when 🟠<motor>Stepping</motor> or 🟠<motor>OpenHole</motor>
+    - You need to consider what's under a Contact when 🟠Stepping or 🟠OpenHole
 - ViaSpace is usually directly above Contact
 - Most stable ViaSpace is aligned with Normal
 

@@ -1,4 +1,4 @@
-# ⭐<labor>Mano🟠<motor>Pop</motor></motor>
+# ⭐Mano🟠Pop
 
 ---
 

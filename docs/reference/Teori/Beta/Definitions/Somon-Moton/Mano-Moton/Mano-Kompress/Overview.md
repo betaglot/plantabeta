@@ -1,4 +1,4 @@
-# ⭐<labor>ManoCompress</motor>
+# ⭐ManoCompress
 
 Aliases: Pinch
 

@@ -1,4 +1,4 @@
-# ⭐<labor>Mano🟠<motor>Orbit</motor></motor>
+# ⭐Mano🟠Orbit
 
 ---
 

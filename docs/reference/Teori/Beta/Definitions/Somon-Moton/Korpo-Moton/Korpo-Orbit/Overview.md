@@ -1,7 +1,7 @@
 ---
 aside: false
 ---
-# Korpo🟠<motor>Orbit</motor>
+# Korpo🟠Orbit
 
 ---
 

@@ -1,4 +1,4 @@
-# 🔷<soma>SOMON</soma>,🔻<via>VION</via>
+# 🔷SOMON,🔻VION
 
 ---
 

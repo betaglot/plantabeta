@@ -1,7 +1,7 @@
 ---
 aside: false
 ---
-# BundleStart,🔻<via>Takt</via>
+# BundleStart,🔻Takt
 
 ---
 

@@ -1,7 +1,7 @@
 ---
 aside: false
 ---
-# 🟠 <motor>SuperSpike</motor>
+# 🟠 SuperSpike
 
 - Superman Punch
 - 300 Spartan Jumping Thrust

@@ -1,7 +1,7 @@
 ---
 aside: false
 ---
-# <py>[<ekos>Flora</ekos>,<motor>Catch</motor>]</py>
+# <py>[Flora,Catch]</py>
 
 > Grab vegetation before colliding with it
 

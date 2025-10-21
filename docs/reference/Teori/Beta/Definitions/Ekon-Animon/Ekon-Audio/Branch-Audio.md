@@ -1,7 +1,7 @@
 ---
 aside: false
 ---
-# <py>[<ekos>Branch</ekos>,<anima>Audio</anima>]</py>
+# <py>[Branch,Audio]</py>
 
 ---
 

@@ -1,4 +1,4 @@
-# ⭐<labor>MOTON</motor>,💜<anima>ANIMON</anima>
+# 🟠MOTON,💜ANIMON
 
 ---
 

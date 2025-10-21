@@ -1,7 +1,7 @@
 ---
 aside: false
 ---
-# Fingertip,🔻<via>Takt</via>
+# Fingertip,🔻Takt
 
 ---
 

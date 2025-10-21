@@ -1,4 +1,4 @@
-# ⭐<labor>SlapSeal</motor>
+# ⭐SlapSeal
 
 ---
 

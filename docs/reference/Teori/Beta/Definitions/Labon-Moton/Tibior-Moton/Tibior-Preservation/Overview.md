@@ -1,7 +1,7 @@
 ---
 aside: false
 ---
-# Tibior🟠<motor>Preserve</motor>
+# Tibior🟠Preserve
 
 ---
 

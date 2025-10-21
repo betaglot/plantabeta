@@ -1,4 +1,4 @@
-# ⭐<labor>🔷<soma>Mano</soma>-Slide</motor>
+# ⭐🔷Mano-Slide
 
 ---
 

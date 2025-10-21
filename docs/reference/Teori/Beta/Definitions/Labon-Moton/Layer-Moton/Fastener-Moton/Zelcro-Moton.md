@@ -1,7 +1,7 @@
 ---
 aside: false
 ---
-# Zelcro,🟠<motor>MOTON</motor>
+# Zelcro,🟠MOTON
 
 ## ❌<error>ZelcroMOTON.Error</error>
 

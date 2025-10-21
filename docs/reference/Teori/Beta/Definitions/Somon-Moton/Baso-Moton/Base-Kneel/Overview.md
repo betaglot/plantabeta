@@ -1,7 +1,7 @@
 ---
 aside: false
 ---
-# 🔷<soma>Base</soma>,🟠<motor>Kneel</motor>
+# 🔷Base,🟠Kneel
 
 ---
 

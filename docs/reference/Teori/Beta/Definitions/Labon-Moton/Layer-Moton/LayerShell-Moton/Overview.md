@@ -1,7 +1,7 @@
 ---
 aside: false
 ---
-# <py>[<labor>Layer.Shell</labor>,<motor>MOTON</motor>]</py>
+# <py>[Layer.Shell,MOTON]</py>
 
 ## ❌<error>ShellLayerMOTON.Error</error>
 

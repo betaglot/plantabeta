@@ -1,7 +1,7 @@
 ---
 aside: false
 ---
-# <py>[<labor>Radior</labor>,<motor>MOTON</motor>]</py>
+# <py>[Radior,MOTON]</py>
 
 Aliases: Vambrace, Forearm Guard
 

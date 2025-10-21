@@ -1,7 +1,7 @@
 ---
 aside: false
 ---
-# Plast,🔻<via>Takt</via>
+# Plast,🔻Takt
 
 ---
 

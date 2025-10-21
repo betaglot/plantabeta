@@ -1,7 +1,7 @@
 ---
 aside: false
 ---
-# BoxCorner,🔻<via>Takt</via>
+# BoxCorner,🔻Takt
 
 ---
 

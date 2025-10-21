@@ -1,7 +1,7 @@
 ---
 aside: false
 ---
-# Blade,<motor>Kontakt</motor>
+# Blade,Kontakt
 
 ---
 

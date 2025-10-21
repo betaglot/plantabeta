@@ -1,7 +1,7 @@
 ---
 aside: false
 ---
-# <py>[<labor>Spade</labor>,<motor>Purga</motor>]</py>
+# <py>[Spade,Purga]</py>
 
 Aliases: Spade Clean, Spade Purge
 

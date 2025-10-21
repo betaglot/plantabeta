@@ -1,7 +1,7 @@
 ---
 aside: false
 ---
-# <py>[<labor>Spade</labor>,<motor>Transport</motor>]</py>
+# <py>[Spade,Transport]</py>
 
 > Carrying a Spade when you're not using it to plant
 

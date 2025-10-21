@@ -1,7 +1,7 @@
 ---
 aside: false
 ---
-# Root,🔻<via>Takt</via>
+# Root,🔻Takt
 
 ---
 

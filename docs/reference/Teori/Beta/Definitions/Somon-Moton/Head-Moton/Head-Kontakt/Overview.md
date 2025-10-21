@@ -1,7 +1,7 @@
 ---
 aside: false
 ---
-# 🔷<soma>Head</soma>,🟠<motor>Kontakt</motor>
+# 🔷Head,🟠Kontakt
 
 ---
 

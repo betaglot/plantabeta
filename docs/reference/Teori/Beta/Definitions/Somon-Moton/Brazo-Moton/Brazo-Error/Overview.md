@@ -1,7 +1,7 @@
 ---
 aside: false
 ---
-# 🔷<soma>Brazo</soma>-❌<error>Error</error>
+# 🔷Brazo-❌<error>Error</error>
 
 ---
 

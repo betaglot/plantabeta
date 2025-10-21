@@ -1,7 +1,7 @@
 ---
 aside: false
 ---
-# <py>[<labor>Cache</labor>,❌<error>Error</error>]</py>
+# <py>[Cache,❌<error>Error</error>]</py>
 
 ---
 

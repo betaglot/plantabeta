@@ -1,7 +1,7 @@
 ---
 aside: false
 ---
-# Belt,🔻<via>Takt</via>
+# Belt,🔻Takt
 
 ---
 

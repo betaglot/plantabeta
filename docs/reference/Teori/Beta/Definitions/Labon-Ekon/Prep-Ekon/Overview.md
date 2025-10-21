@@ -1,7 +1,7 @@
 ---
 aside: false
 ---
-# <labor>Prep</labor>
+# Prep
 
 ---
 

@@ -1,4 +1,4 @@
-# 🟠<motor>SpadeError</motor>
+# 🟠SpadeError
 
 ---
 

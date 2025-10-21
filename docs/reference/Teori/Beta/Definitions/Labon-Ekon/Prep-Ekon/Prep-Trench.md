@@ -1,7 +1,7 @@
 ---
 aside: false
 ---
-# <py>[<labor>Prep</labor>,<ekos>Trench</ekos>]</py>
+# <py>[Prep,Trench]</py>
 
 ---
 

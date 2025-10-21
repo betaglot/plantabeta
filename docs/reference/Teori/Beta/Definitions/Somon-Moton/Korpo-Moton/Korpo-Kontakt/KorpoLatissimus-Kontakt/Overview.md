@@ -1,7 +1,7 @@
 ---
 aside: false
 ---
-# Latissimus,🟠<motor>Kontakt</motor>
+# Latissimus,🟠Kontakt
 
 ---
 

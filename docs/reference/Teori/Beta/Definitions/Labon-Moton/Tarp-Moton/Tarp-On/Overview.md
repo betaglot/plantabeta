@@ -1,7 +1,7 @@
 ---
 aside: false
 ---
-# <py>[<labor>Tarp</labor>,<motor>On</motor>]</py>
+# <py>[Tarp,On]</py>
 
 ---
 

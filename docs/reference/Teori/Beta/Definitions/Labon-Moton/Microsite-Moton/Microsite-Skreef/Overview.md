@@ -1,7 +1,7 @@
 ---
 aside: false
 ---
-# <py>[<labor>Microsite</labor>,<motor>Skreef</motor>]</py>
+# <py>[Microsite,Skreef]</py>
 
 ## Skreef.Anatomy
 

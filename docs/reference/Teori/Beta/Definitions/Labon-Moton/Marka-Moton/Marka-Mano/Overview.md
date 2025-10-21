@@ -1,7 +1,7 @@
 ---
 aside: false
 ---
-# <py>[<labor>Marka</labor>-Mano]</py>
+# <py>[Marka-Mano]</py>
 
 ---
 

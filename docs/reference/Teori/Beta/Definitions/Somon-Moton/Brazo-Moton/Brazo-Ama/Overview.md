@@ -1,7 +1,7 @@
 ---
 aside: false
 ---
-# 🔷<soma>Brazo</soma>,🟠<motor>Ama</motor>
+# 🔷Brazo,🟠Ama
 
 ## BrazoAma.Problem
 
@@ -22,11 +22,11 @@ aside: false
 - ArmAngle
 - HandPosition
 - ArmPosition
-    - <via>ArmAboveShoulder</via>
+    - ArmAboveShoulder
 
-## Related <motor>MOTON</motor>
+## Related MOTON
 
-- 🟠<motor>StandUp</motor>
+- 🟠StandUp
     - FallRecovery
         - Lean UpSlope
         - PerpendicularHips
@@ -35,29 +35,29 @@ aside: false
     - PanBeta(SkiBeta): GetUp after SkiFall.
         - OneHip on the slope then press up towards your other hip until Standing
     - Remember to keep your shoulders out of your ears, to maintain optimal ScapulaPosition
-- 🟠<motor>FallRedirection</motor>
+- 🟠FallRedirection
     - Don't BrazoAma the ground, because you can rip apart your shoulder tendons
     - BrazoAma off an Ekon to redirect your Fall or to prevent falling into that Ekon.
-- 🟠<motor>HandSmear</motor>
-- 🟠<motor>ArmLock</motor>
-- 🟠<motor>ArmReach</motor>
+- 🟠HandSmear
+- 🟠ArmLock
+- 🟠ArmReach
     - BrazoAma during BagIn while the OtherArm ArmReach
         - BundleStack
         - BundleRollingAway
         - SpeciesMixing
             - You need space to separate BundleStacks of each Species, so you must ArmReach further around the Bags to get each Species. You must reach further than if there was only one species.
     - Kneeling Reach
-- 🟠<motor>SpadeAma</motor>
+- 🟠SpadeAma
     - (BrazoAma+SpadeAma): SpadeAma can be used to extend BrazoAma.
         - Requires HandCompress to prevent HandOrbit around Handle
         - Useful when walking down slope like PolePlant in PanBeta(SkiAlpineBeta)
             - Pole allows you to start absorbing earlier, therefore more time to change acceleration, which increases Flux
 
-## Related 🟩<ekos>EKOS</ekos>
+## Related 🟩EKOS
 
-- 🟩<ekos>Log</ekos>
+- 🟩Log
 
-## Related 🔻<via>VIA</via>
+## Related 🔻VIA
 
 -
 

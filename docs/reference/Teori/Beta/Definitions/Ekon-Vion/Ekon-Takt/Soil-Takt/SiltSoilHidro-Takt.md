@@ -1,7 +1,7 @@
 ---
 aside: false
 ---
-# <py>[<ekos>SiltSoilHidro</ekos>,<via>Takt</via>]</py>
+# <py>[SiltSoilHidro,Takt]</py>
 
 ---
 

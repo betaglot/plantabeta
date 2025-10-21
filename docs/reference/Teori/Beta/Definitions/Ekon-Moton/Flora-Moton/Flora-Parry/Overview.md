@@ -1,27 +1,27 @@
 ---
 aside: false
 ---
-# <py>[<ekos>Flora</ekos>,<motor>Deflection</motor>]</py>
+# <py>[Flora,Deflection]</py>
 
 > Use a FloraParry to redirect flora which is colliding with you.  
 
 ## 🕸 FloraParry.Skema
 
-### Related 🟩<ekos>EKOS</ekos>
+### Related 🟩EKOS
 
 - SmallTree falling into you.
 - Slash ripped up by Prep can be unstable and can fall into you.
 - Wind can blow Flora towards you.
 
-### Related 🔻<via>VIA</via>
+### Related 🔻VIA
 
 -
 
-### Related 🟠<motor>MOTOR</motor>
+### Related 🟠MOTOR
 
 - RadiorMOTON
 
-### Related 💜<anima>ANIMA</anima>
+### Related 💜ANIMA
 
 -
 

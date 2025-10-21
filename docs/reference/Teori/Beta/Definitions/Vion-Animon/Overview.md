@@ -1,7 +1,7 @@
 ---
 aside: false
 ---
-# 🔻<via>VION</via>,💜<anima>ANIMON</anima>
+# 🔻VION,💜ANIMON
 
 ---
 

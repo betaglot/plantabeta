@@ -1,7 +1,7 @@
 ---
 aside: false
 ---
-# 🔷<soma>Brazo</soma>-Compress
+# 🔷Brazo-Compress
 
 ---
 

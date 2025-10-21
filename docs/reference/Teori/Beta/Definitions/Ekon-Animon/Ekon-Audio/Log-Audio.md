@@ -1,7 +1,7 @@
 ---
 aside: false
 ---
-# <py>[<ekos>Log</ekos>,<anima>Audio</anima>]</py>
+# <py>[Log,Audio]</py>
 
 ---
 

@@ -1,4 +1,4 @@
-# ⭐<labor>BodyPosture</motor>
+# ⭐BodyPosture
 
 ---
 

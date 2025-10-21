@@ -1,7 +1,7 @@
 ---
 aside: false
 ---
-# <py>[<labor>Spade</labor><motor>Ballista</motor>]</py>
+# <py>[SpadeBallista]</py>
 
 - The FinishMOTON of SpadeBallista is SpadePost
 

@@ -1,7 +1,7 @@
 ---
 aside: false
 ---
-# 🔷<soma>SOMON</soma>,🟩<ekos>EKON</ekos>,💜<anima>ANIMON</anima>
+# 🔷SOMON,🟩EKON,💜ANIMON
 
 ---
 

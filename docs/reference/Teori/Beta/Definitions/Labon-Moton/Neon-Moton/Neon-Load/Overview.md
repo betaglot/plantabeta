@@ -1,7 +1,7 @@
 ---
 aside: false
 ---
-# <py>[<labor>Neon</labor>,<motor>Load</motor>]</py>
+# <py>[Neon,Load]</py>
 
 ## GetTree.Error
 

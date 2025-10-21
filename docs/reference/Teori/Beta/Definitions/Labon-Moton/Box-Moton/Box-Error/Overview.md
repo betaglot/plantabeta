@@ -1,7 +1,7 @@
 ---
 aside: false
 ---
-# <py>[<labor>Box</labor>-<error>Error</error>]</py>
+# <py>[Box-<error>Error</error>]</py>
 
 ---
 

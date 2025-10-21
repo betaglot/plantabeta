@@ -1,7 +1,7 @@
 ---
 aside: false
 ---
-# <py>[<labor>Bundle</labor>,<motor>MOTON</motor>]</py>
+# <py>[Bundle,MOTON]</py>
 
 ---
 

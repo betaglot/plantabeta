@@ -1,4 +1,4 @@
-# ⭐<labor>Body🟠<motor>Tangent</motor></motor>
+# ⭐Body🟠Tangent
 
 ---
 

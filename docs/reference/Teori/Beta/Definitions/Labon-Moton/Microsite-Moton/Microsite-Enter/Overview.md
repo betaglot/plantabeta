@@ -1,7 +1,7 @@
 ---
 aside: false
 ---
-# <py>[<labor>Microsite</labor>,Enter]</py>
+# <py>[Microsite,Enter]</py>
 
 ---
 

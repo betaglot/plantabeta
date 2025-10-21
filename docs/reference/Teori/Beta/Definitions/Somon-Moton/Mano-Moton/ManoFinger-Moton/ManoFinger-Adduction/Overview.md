@@ -1,4 +1,4 @@
-# ⭐<labor>Finger🟠<motor>Adduction</motor></motor>
+# ⭐Finger🟠Adduction
 
 ---
 

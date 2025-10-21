@@ -1,7 +1,7 @@
 ---
 aside: false
 ---
-# <py>[<ekos>Flora</ekos>,<anima>Emotion</anima>]</py>
+# <py>[Flora,Emotion]</py>
 
 ---
 

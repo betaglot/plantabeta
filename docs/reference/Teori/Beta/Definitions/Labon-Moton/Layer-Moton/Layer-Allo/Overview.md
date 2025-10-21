@@ -1,7 +1,7 @@
 ---
 aside: false
 ---
-# <py>[<labor>Layer</labor>🟠<motor>Allo</motor>]</py>
+# <py>[Layer🟠Allo]</py>
 
 ---
 

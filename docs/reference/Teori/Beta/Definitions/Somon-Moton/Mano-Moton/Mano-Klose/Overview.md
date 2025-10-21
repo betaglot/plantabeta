@@ -1,7 +1,7 @@
 ---
 aside: false
 ---
-# 🟠 <motor>HandSeal</motor>
+# 🟠 HandSeal
 
 ---
 

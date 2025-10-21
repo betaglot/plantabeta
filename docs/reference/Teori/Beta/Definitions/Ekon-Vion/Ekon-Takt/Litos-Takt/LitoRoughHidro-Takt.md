@@ -1,7 +1,7 @@
 ---
 aside: false
 ---
-# <py>[<ekos>LitoRoughHidro</ekos>,<via>Takt</via>]</py>
+# <py>[LitoRoughHidro,Takt]</py>
 
 ---
 

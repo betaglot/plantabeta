@@ -1,7 +1,7 @@
 ---
 aside: false
 ---
-# Tibior,🔻<via>Takt</via>
+# Tibior,🔻Takt
 
 ---
 

@@ -1,7 +1,7 @@
 ---
 aside: false
 ---
-# <py>[<ekos>BurntFlora</ekos>,<via>Takt</via>]</py>
+# <py>[BurntFlora,Takt]</py>
 
 ---
 

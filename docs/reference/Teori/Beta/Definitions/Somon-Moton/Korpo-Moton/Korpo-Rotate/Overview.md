@@ -1,7 +1,7 @@
 ---
 aside: false
 ---
-# 🟠 <motor>BodyRotate</motor>
+# 🟠 BodyRotate
 
 ---
 

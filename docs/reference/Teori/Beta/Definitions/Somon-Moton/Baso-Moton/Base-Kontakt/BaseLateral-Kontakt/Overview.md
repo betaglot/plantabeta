@@ -1,7 +1,7 @@
 ---
 aside: false
 ---
-# Lateral,🟠<motor>Kontakt</motor>
+# Lateral,🟠Kontakt
 
 ---
 

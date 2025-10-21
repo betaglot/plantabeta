@@ -1,7 +1,7 @@
 ---
 aside: false
 ---
-# BrazoAnterior-Up🟠<motor>Ama</motor>
+# BrazoAnterior-Up🟠Ama
 
 ---
 

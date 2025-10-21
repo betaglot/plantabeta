@@ -1,7 +1,7 @@
 ---
 aside: false
 ---
-# Mano🟠<motor>Kompakt</motor>
+# Mano🟠Kompakt
 
 ---
 

@@ -1,4 +1,4 @@
-# 🟠 <motor>Amble</motor>
+# 🟠 Amble
 
 ![MOTONIkon](/Ikon/Motor_Ikon.png)
 

@@ -1,7 +1,7 @@
 ---
 aside: false
 ---
-# 🔷<soma>Base</soma>-❌<error>Error</error>
+# 🔷Base-❌<error>Error</error>
 
 ## FootMOTONError
 

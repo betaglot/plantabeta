@@ -1,7 +1,7 @@
 ---
 aside: false
 ---
-# <py>[<labor>Microsite</labor>,Select]</py>
+# <py>[Microsite,Select]</py>
 
 ---
 

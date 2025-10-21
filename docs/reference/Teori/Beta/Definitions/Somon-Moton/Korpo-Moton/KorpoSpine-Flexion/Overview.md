@@ -1,4 +1,4 @@
-# ⭐<labor>SpineFlexion</motor>
+# ⭐SpineFlexion
 
 ---
 

@@ -1,7 +1,7 @@
 ---
 aside: false
 ---
-# <py>[<labor>Plast</labor>,<motor>Dimano</motor>]</py>
+# <py>[Plast,Dimano]</py>
 
 > Gripping the Spade Plast with both hands
 

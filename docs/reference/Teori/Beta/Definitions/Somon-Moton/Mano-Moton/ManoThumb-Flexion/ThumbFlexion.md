@@ -1,4 +1,4 @@
-# ⭐<labor>Thumb🟠<motor>Flexion</motor></motor>
+# ⭐Thumb🟠Flexion
 
 ---
 

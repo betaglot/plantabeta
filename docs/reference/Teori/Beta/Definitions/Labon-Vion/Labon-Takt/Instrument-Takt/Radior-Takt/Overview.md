@@ -1,7 +1,7 @@
 ---
 aside: false
 ---
-# Radior,🔻<via>Takt</via>
+# Radior,🔻Takt
 
 ---
 

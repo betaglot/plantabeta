@@ -1,7 +1,7 @@
 ---
 aside: false
 ---
-# <py>[<labor>Bottle</labor>,<motor>MOTON</motor>]</py>
+# <py>[Bottle,MOTON]</py>
 
 Aliases: water bottle
 

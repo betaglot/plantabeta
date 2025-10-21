@@ -1,4 +1,4 @@
-# ⭐<labor>Hand🟠<motor>Dig</motor></motor>
+# ⭐Hand🟠Dig
 
 ---
 

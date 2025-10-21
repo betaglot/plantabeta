@@ -1,16 +1,16 @@
 ---
 aside: false
 ---
-# 🟠 <motor>RunStart</motor>
+# 🟠 RunStart
 
-## Related 🟩<ekos>EKOS</ekos>
+## Related 🟩EKOS
 
-- 🟩<ekos>SteepSlope</ekos>
+- 🟩SteepSlope
     - RunStart too gain momentum to climb a SteepSlope
 
-### Related 🟠<motor>Motor</motor>
+### Related 🟠Motor
 
-- 🟠<motor>Jump</motor>
+- 🟠Jump
     - RunStart too gain momentum to Jump horzontally
 
 ---

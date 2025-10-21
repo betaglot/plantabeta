@@ -1,7 +1,7 @@
 ---
 aside: false
 ---
-# KitHandle,🔻<via>Takt</via>
+# KitHandle,🔻Takt
 
 ---
 

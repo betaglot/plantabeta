@@ -1,7 +1,7 @@
 ---
 aside: false
 ---
-# Pocket,<motor>MOTON</motor>
+# Pocket,MOTON
 
 ---
 

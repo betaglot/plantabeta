@@ -1,7 +1,7 @@
 ---
 aside: false
 ---
-# <py>[<labor>BootDorsi</labor>,<motor>Kontakt</motor>]</py>
+# <py>[BootDorsi,Kontakt]</py>
 
 ---
 
@@ -13,7 +13,7 @@ aside: false
 ::: details 🛠
 
 - The dorsal part of your boot (Foot)
-- Toe🟠<motor>Hook</motor>
+- Toe🟠Hook
 - LogLaunch
 
 :::

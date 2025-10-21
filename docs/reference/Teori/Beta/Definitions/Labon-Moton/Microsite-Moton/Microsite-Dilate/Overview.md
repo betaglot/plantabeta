@@ -1,7 +1,7 @@
 ---
 aside: false
 ---
-# <py>[<labor>Microsite</labor>,<motor>Dilate</motor>]</py>
+# <py>[Microsite,Dilate]</py>
 
 Aliases: HoleOpen, Open a Hole
 

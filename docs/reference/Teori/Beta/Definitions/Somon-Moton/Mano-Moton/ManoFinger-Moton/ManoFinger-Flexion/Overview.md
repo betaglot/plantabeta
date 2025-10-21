@@ -1,4 +1,4 @@
-# ⭐<labor>Finger🟠<motor>Flexion</motor></motor>
+# ⭐Finger🟠Flexion
 
 ---
 

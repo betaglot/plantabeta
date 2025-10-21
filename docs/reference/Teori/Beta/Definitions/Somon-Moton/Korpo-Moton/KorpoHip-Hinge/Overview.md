@@ -1,4 +1,4 @@
-# ⭐<labor>HipHinge</motor>
+# ⭐HipHinge
 
 ---
 

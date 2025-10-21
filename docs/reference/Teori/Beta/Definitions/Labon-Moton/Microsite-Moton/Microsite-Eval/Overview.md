@@ -1,7 +1,7 @@
 ---
 aside: false
 ---
-# <py>[Microsite,<motor>Eval</motor>]</py>
+# <py>[Microsite,Eval]</py>
 
 Aliases: Test, Probe, Validate, Verify, Examine
 

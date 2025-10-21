@@ -1,7 +1,7 @@
 ---
 aside: false
 ---
-# Brim,🔻<via>Takt</via>
+# Brim,🔻Takt
 
 ---
 

@@ -7,11 +7,11 @@ aside: false
 
 ## 🕸 BodySlot.Skema
 
-### Related 🔻<via>VIA</via>
+### Related 🔻VIA
 
 - Traverse
 
-### Related 🟠<motor>Motor</motor>
+### Related 🟠Motor
 
 - ArmBlock
 - BagShield

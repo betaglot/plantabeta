@@ -1,7 +1,7 @@
 ---
 aside: false
 ---
-# <py>[<labor>Spade</labor>,<motor>Amble</motor>]</py>
+# <py>[Spade,Amble]</py>
 
 ## Attributes
 
@@ -31,6 +31,6 @@ def ModifyLength():
 <!-- =================================================== -->
 ::: details 🛠
 
-- 🟠<motor>Walk</motor> uses the same
+- 🟠Walk uses the same
 
 :::

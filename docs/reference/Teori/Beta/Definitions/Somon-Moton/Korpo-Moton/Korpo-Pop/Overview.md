@@ -1,4 +1,4 @@
-# ⭐<labor>KorpoPop</motor>
+# ⭐KorpoPop
 
 ---
 

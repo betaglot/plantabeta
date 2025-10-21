@@ -1,7 +1,7 @@
 ---
 aside: false
 ---
-# Kit,🔻<via>Takt</via>
+# Kit,🔻Takt
 
 ---
 

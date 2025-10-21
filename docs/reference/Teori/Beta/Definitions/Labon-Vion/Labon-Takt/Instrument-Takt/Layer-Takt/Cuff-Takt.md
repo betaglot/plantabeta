@@ -1,7 +1,7 @@
 ---
 aside: false
 ---
-# Cuff,🔻<via>Takt</via>
+# Cuff,🔻Takt
 
 ---
 

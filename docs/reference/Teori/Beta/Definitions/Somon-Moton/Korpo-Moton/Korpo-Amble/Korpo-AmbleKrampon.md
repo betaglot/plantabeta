@@ -1,4 +1,4 @@
-# ⭐<labor>KramponAmble</motor>
+# ⭐KramponAmble
 
 ---
 

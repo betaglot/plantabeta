@@ -1,7 +1,7 @@
 ---
 aside: false
 ---
-# 🔷<soma>Mano</soma>-Lock
+# 🔷Mano-Lock
 
 ---
 

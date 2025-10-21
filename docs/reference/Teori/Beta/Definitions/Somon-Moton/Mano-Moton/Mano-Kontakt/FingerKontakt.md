@@ -1,4 +1,4 @@
-# ⭐<labor>FingerKontakt</motor>
+# ⭐FingerKontakt
 
 ---
 

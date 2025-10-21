@@ -1,7 +1,7 @@
 ---
 aside: false
 ---
-# 🔷<soma>Base</soma>-InRotation
+# 🔷Base-InRotation
 
 ---
 

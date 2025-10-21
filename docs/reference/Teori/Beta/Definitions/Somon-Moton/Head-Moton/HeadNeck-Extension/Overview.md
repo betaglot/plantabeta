@@ -1,7 +1,7 @@
 ---
 aside: false
 ---
-# Neck,🟠<motor>Extension</motor>
+# Neck,🟠Extension
 
 > Looking up
 

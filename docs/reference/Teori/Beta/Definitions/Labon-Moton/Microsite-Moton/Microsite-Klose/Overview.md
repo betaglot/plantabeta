@@ -1,7 +1,7 @@
 ---
 aside: false
 ---
-# <py>[Microsite<motor>Klose</motor>]</py>
+# <py>[MicrositeKlose]</py>
 
 Aliases: HoleClose
 

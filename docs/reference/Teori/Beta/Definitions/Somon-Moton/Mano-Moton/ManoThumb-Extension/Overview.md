@@ -1,4 +1,4 @@
-# ⭐<labor>Thumb-Extension</motor>
+# ⭐Thumb-Extension
 
 ---
 

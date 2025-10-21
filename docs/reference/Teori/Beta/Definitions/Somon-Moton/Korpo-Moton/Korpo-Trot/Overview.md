@@ -1,4 +1,4 @@
-# ⭐<labor>Trot</motor>
+# ⭐Trot
 
 ---
 

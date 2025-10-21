@@ -1,9 +1,9 @@
 ---
 aside: false
 ---
-# <py>[<labor>Marka</labor>,<motor>MOTON</motor>]</py>
+# <py>[Marka,MOTON]</py>
 
-## <labor>Marka</labor>Put
+## MarkaPut
 
 post verb (MAKE KNOWN)
 
@@ -11,12 +11,12 @@ post verb (MAKE KNOWN)
 
 Markas are posted throughout the land.
 
-## <labor>Marka</labor>MOTON.Anatomy
+## MarkaMOTON.Anatomy
 
 - MarkaBody
 - MarkaEnd
 
-## <labor>Marka</labor>MOTON.Attributes
+## MarkaMOTON.Attributes
 
 - MarkaLength
 - MarkaWidth

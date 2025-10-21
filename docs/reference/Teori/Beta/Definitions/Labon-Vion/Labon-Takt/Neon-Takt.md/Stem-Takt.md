@@ -1,7 +1,7 @@
 ---
 aside: false
 ---
-# Stem,🔻<via>Takt</via>
+# Stem,🔻Takt
 
 ---
 

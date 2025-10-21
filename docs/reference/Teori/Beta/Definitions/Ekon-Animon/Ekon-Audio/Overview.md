@@ -1,4 +1,4 @@
-# <py>[<ekos>EKON</ekos>,<anima>Audio</anima>]</py>
+# <py>[EKON,Audio]</py>
 
 ---
 

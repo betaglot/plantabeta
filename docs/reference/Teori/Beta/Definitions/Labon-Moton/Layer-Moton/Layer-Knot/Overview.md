@@ -1,7 +1,7 @@
 ---
 aside: false
 ---
-# Layer🟠<motor>Knot</motor>
+# Layer🟠Knot
 
 ---
 

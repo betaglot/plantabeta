@@ -1,7 +1,7 @@
 ---
 aside: false
 ---
-# 🔷<soma>Head</soma>-Protraction
+# 🔷Head-Protraction
 
 ---
 

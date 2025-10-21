@@ -1,7 +1,7 @@
 ---
 aside: false
 ---
-# <labor>Truck</labor>-Sit
+# Truck-Sit
 
 ---
 

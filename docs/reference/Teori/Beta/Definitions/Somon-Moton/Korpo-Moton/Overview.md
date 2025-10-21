@@ -1,7 +1,7 @@
 ---
 aside: false
 ---
-# 🟠 <motor>BodyMOTON</motor>
+# 🟠 BodyMOTON
 
 ## Body Anatomy
 

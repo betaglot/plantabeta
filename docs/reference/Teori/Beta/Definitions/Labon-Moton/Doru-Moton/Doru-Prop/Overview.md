@@ -1,7 +1,7 @@
 ---
 aside: false
 ---
-# <py>[<labor>Doru</labor>-Prop]</py>
+# <py>[Doru-Prop]</py>
 
 ---
 

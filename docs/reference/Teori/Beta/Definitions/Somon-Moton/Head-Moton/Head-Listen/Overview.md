@@ -1,7 +1,7 @@
 ---
 aside: false
 ---
-# 🔷<soma>Head</soma>-Listen
+# 🔷Head-Listen
 
 ---
 

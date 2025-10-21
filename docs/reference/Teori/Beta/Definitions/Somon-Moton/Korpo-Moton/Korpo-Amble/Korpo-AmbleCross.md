@@ -1,4 +1,4 @@
-# ⭐<labor>CrossStep</motor>
+# ⭐CrossStep
 
 Aliases: French Step
 

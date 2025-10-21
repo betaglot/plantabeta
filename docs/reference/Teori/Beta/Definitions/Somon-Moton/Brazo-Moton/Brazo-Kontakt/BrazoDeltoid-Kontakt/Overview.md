@@ -1,7 +1,7 @@
 ---
 aside: false
 ---
-# Deltoid,🟠<motor>Kontakt</motor>
+# Deltoid,🟠Kontakt
 
 ---
 

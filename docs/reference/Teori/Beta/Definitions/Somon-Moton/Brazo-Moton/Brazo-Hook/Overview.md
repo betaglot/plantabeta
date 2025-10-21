@@ -1,7 +1,7 @@
 ---
 aside: false
 ---
-# Brazo🟠<motor>Hook</motor>
+# Brazo🟠Hook
 
 ---
 

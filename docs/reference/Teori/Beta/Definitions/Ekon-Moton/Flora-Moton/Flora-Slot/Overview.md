@@ -1,13 +1,13 @@
 ---
 aside: false
 ---
-# <py>[<ekos>Flora</ekos>,<motor>Slot</motor>]</py>
+# <py>[Flora,Slot]</py>
 
 > Passing through a cluster of Flora
 
 ## 🕸 FloraPassage.Skema
 
-### Related 🟩<ekos>EKOS</ekos>
+### Related 🟩EKOS
 
 - Thicket
 - Bush
@@ -15,15 +15,15 @@ aside: false
 - Alder
 - DevilsClub
 
-### Related 🔻<via>VIA</via>
+### Related 🔻VIA
 
 -
 
-### Related 🟠<motor>Motor</motor>
+### Related 🟠Motor
 
 -
 
-### Related 💜<anima>ANIMA</anima>
+### Related 💜ANIMA
 
 -
 

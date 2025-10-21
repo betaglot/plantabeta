@@ -1,7 +1,7 @@
 ---
 aside: false
 ---
-# <py>[<labor>Kit</labor>,<motor>MOTON</motor>]</py>
+# <py>[Kit,MOTON]</py>
 
 AlsoKnownAs(CacheBag)
 

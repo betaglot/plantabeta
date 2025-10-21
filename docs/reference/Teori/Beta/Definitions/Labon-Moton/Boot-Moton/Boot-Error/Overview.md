@@ -1,7 +1,7 @@
 ---
 aside: false
 ---
-# <py>[<labor>Boot</labor>-<error>Error</error>]</py>
+# <py>[Boot-<error>Error</error>]</py>
 
 ---
 

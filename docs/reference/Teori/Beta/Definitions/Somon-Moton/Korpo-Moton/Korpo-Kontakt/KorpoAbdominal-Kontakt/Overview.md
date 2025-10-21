@@ -1,7 +1,7 @@
 ---
 aside: false
 ---
-# Abdominal,🟠<motor>Kontakt</motor>
+# Abdominal,🟠Kontakt
 
 ---
 

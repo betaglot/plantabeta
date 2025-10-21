@@ -1,25 +1,25 @@
 ---
 aside: false
 ---
-# <py>[<labor>Spade</labor>-<motor>Spike</motor>]</py>
+# <py>[Spade-Spike]</py>
 
 Aliases: SpadeSlam, SpadeThrow, SpadeChop
 
 ## 🕸 SpadeSpike.Skema
 
-### Related 🟩<ekos>EKOS</ekos>
+### Related 🟩EKOS
 
 - Blade gets stuck into root near stump, especially near a stump cluster.
 
-### Related 🔻<via>VIA</via>
+### Related 🔻VIA
 
 -
 
-### Related 🟠<motor>Motor</motor>
+### Related 🟠Motor
 
 -
 
-### Related 💜<anima>ANIMA</anima>
+### Related 💜ANIMA
 
 -
 

@@ -1,7 +1,7 @@
 ---
 aside: false
 ---
-# Brazo🟠<motor>Orbit</motor>
+# Brazo🟠Orbit
 
 ---
 

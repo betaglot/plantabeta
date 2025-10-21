@@ -1,11 +1,11 @@
 ---
 aside: false
 ---
-# <py>[<labor>Box</labor>,<motor>MOTON</motor>]</py>
+# <py>[Box,MOTON]</py>
 
-🔻<via>BoxHandle</via> is the main Contact of Box.
+🔻BoxHandle is the main Contact of Box.
 
-🔻<via>BoxCorner</via> is a Contact used only when carrying a single box.
+🔻BoxCorner is a Contact used only when carrying a single box.
 
 ---
 

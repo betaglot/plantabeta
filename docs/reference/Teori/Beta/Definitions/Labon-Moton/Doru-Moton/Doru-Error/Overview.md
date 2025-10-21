@@ -1,7 +1,7 @@
 ---
 aside: false
 ---
-# <py>[<labor>Doru</labor>-❌<error>Error</error>]</py>
+# <py>[Doru-❌<error>Error</error>]</py>
 
 ---
 

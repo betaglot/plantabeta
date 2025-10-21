@@ -1,7 +1,7 @@
 ---
 aside: false
 ---
-# Palm🟠<motor>Klose</motor>
+# Palm🟠Klose
 
 ---
 

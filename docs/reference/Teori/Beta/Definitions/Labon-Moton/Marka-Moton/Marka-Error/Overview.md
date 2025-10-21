@@ -1,7 +1,7 @@
 ---
 aside: false
 ---
-# [⭐,❌]<labor>Marka</labor>,<error>Error</error>
+# [⭐,❌]Marka,<error>Error</error>
 
 - Don't walk into the bush that you just high Markaged the spring back to vertical will dislodge the Marka.
 

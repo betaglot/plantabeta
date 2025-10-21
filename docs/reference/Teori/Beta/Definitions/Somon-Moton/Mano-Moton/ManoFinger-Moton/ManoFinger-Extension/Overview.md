@@ -1,4 +1,4 @@
-# ⭐<labor>Finger-Extension</motor>
+# ⭐Finger-Extension
 
 ---
 

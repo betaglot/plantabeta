@@ -1,7 +1,7 @@
 ---
 aside: false
 ---
-# <labor>Road</labor>
+# Road
 
 The dirt road
 

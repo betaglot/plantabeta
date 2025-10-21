@@ -1,7 +1,7 @@
 ---
 aside: false
 ---
-# <py>[<labor>Microsite</labor>,<motor>MOTON</motor>]</py>
+# <py>[Microsite,MOTON]</py>
 
 ## Sit.Anatomy
 

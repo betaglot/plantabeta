@@ -1,7 +1,7 @@
 ---
 aside: false
 ---
-# 🟠 <motor>🔷<soma>Mano</soma>-MOTON</motor>
+# 🟠 🔷Mano-MOTON
 
 ## Mano.Anatomy
 

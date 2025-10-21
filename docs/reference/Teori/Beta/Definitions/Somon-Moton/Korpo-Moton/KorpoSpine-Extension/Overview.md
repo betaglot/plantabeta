@@ -1,7 +1,7 @@
 ---
 aside: false
 ---
-# 🟠 <motor>SpineExtension</motor>
+# 🟠 SpineExtension
 
 ---
 

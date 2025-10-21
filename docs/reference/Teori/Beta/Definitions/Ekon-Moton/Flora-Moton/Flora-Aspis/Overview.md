@@ -1,7 +1,7 @@
 ---
 aside: false
 ---
-# <py>[<ekos>Flora</ekos>,<motor>Aspis</motor>]</py>
+# <py>[Flora,Aspis]</py>
 
 > Protecting yourself from Plant as it collides into you or as it drags along you as you push through it
 

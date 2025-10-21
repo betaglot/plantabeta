@@ -1,7 +1,7 @@
 ---
 aside: false
 ---
-# <py>[<labor>Spade</labor>-<motor>Rotate</motor>]</py>
+# <py>[Spade-Rotate]</py>
 
 ---
 

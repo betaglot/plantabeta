@@ -1,13 +1,13 @@
 ---
 aside: false
 ---
-# 🔷<soma>Brazo</soma>-Amble
+# 🔷Brazo-Amble
 
 Aliases: ArmWalk
 
 > Using your Arms like as if you were a quadruped
 
-## Related 🟩<ekos>EKOS</ekos>
+## Related 🟩EKOS
 
 - SteepSlope
     - Walk Up Slope with log in your ArmPit (ShoulderHook)

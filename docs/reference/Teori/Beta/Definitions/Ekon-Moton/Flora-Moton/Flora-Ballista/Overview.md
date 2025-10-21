@@ -1,13 +1,13 @@
 ---
 aside: false
 ---
-# <py>[<ekos>Log</ekos>,<motor>Launch</motor>]</py>
+# <py>[Log,Launch]</py>
 
 > Launch a Log away from microsite with your leg
 
 No Impact
 
-## Toe🟠<motor>Hook</motor>
+## Toe🟠Hook
 
 ---
 

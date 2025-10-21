@@ -1,7 +1,7 @@
 ---
 aside: false
 ---
-# 🟠 <motor>Hand-Poke</motor>
+# 🟠 Hand-Poke
 
 ---
 

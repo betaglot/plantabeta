@@ -1,7 +1,7 @@
 ---
 aside: false
 ---
-# Button,🟠<motor>MOTON</motor>
+# Button,🟠MOTON
 
 ---
 

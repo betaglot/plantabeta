@@ -1,7 +1,7 @@
 ---
 aside: false
 ---
-# Elbow,🟠<motor>Kontakt</motor>
+# Elbow,🟠Kontakt
 
 ---
 

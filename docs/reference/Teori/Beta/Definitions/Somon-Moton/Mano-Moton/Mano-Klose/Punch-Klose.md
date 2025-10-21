@@ -1,7 +1,7 @@
 ---
 aside: false
 ---
-# Punch🟠<motor>Klose</motor>
+# Punch🟠Klose
 
 ---
 

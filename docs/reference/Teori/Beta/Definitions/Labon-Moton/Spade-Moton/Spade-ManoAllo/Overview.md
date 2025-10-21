@@ -1,7 +1,7 @@
 ---
 aside: false
 ---
-# <py>[<labor>Spade</labor>,<motor>Allo</motor>Mano]</py>
+# <py>[Spade,AlloMano]</py>
 
 Aliases: Hand Swap, Hand Switch
 

@@ -1,7 +1,7 @@
 ---
 aside: false
 ---
-# Bag,🔻<via>Takt</via>
+# Bag,🔻Takt
 
 ---
 

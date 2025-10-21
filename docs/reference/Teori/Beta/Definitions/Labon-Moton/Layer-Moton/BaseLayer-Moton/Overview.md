@@ -2,7 +2,7 @@
 aside: false
 ---
 
-# <py>[<labor>BaseLayer</labor>,<motor>MOTON</motor>]</py>
+# <py>[BaseLayer,MOTON]</py>
 
 ---
 

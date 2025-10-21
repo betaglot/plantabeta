@@ -1,7 +1,7 @@
 ---
 aside: false
 ---
-# <labor>Box</labor>,🔻<via>Takt</via>
+# Box,🔻Takt
 
 ---
 

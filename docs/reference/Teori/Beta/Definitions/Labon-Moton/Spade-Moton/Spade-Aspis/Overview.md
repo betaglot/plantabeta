@@ -1,7 +1,7 @@
 ---
 aside: false
 ---
-# <py>[<labor>Spade</labor>,<motor>Aspis</motor>]</py>
+# <py>[Spade,Aspis]</py>
 
 > Block flora using the SpadeCollar
 

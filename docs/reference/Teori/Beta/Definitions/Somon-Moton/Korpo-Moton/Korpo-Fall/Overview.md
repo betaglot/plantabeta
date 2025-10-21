@@ -1,7 +1,7 @@
 ---
 aside: false
 ---
-# 🟠 <motor>Fall</motor>
+# 🟠 Fall
 
 ---
 

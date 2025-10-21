@@ -1,7 +1,7 @@
 ---
 aside: false
 ---
-# <labor>Spade</labor>,🔻<via>Takt</via>
+# Spade,🔻Takt
 
 ---
 

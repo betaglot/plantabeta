@@ -1,7 +1,7 @@
 ---
 aside: false
 ---
-# Zipper,🔻<via>Takt</via>
+# Zipper,🔻Takt
 
 ---
 

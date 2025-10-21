@@ -1,7 +1,7 @@
 ---
 aside: false
 ---
-# <py>[<ekos>Periderm</ekos>,<via>Takt</via>]</py>
+# <py>[Periderm,Takt]</py>
 
 ---
 

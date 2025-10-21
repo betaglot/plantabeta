@@ -1,7 +1,7 @@
 ---
 aside: false
 ---
-# <py>[<labor>LABON</labor>,<ekos>EKON</ekos>,<via>VION</via>]</py>
+# <py>[LABON,EKON,VION]</py>
 
 ---
 

@@ -1,7 +1,7 @@
 ---
 aside: false
 ---
-# <py>[<labor>BootArch</labor>,<motor>Klose</motor>]</py>
+# <py>[BootArch,Klose]</py>
 
 ---
 

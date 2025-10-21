@@ -1,4 +1,4 @@
-# ⭐<labor>Thumb🟠<motor>Adduction</motor></motor>
+# ⭐Thumb🟠Adduction
 
 ---
 

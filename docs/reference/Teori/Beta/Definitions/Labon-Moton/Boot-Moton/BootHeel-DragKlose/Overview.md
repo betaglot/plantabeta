@@ -1,7 +1,7 @@
 ---
 aside: false
 ---
-# <py>[<labor>BootHeel</labor>,<motor>DragKlose</motor>]</py>
+# <py>[BootHeel,DragKlose]</py>
 
 ---
 

@@ -1,7 +1,7 @@
 ---
 aside: false
 ---
-# 🔷<soma>Brazo</soma>,🟠<motor>Pop</motor>
+# 🔷Brazo,🟠Pop
 
 ---
 

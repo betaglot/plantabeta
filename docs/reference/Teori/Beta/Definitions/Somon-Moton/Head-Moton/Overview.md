@@ -1,7 +1,7 @@
 ---
 aside: false
 ---
-# 🔷<soma>Head</soma>,🟠<motor>MOTON</motor>
+# 🔷Head,🟠MOTON
 
 ## Head Anatomy
 

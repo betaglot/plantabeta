@@ -1,7 +1,7 @@
 ---
 aside: false
 ---
-# <py>[<labor>Doru</labor>-Rotate]</py>
+# <py>[Doru-Rotate]</py>
 
 ---
 

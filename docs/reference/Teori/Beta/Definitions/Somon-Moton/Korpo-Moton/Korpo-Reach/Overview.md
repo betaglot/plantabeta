@@ -1,7 +1,7 @@
 ---
 aside: false
 ---
-# 🟠 <motor>BodyBend</motor>
+# 🟠 BodyBend
 
 ---
 

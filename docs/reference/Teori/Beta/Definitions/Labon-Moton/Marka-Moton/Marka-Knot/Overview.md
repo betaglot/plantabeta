@@ -1,13 +1,13 @@
 ---
 aside: false
 ---
-# <py>[<labor>Marka</labor><motor>Knot</motor>]</py>
+# <py>[MarkaKnot]</py>
 
-## <labor>Marka</labor>Bowtie
+## MarkaBowtie
 
-## <labor>Marka</labor>GirthHitch
+## MarkaGirthHitch
 
-## <labor>Marka</labor>OverhandKnot
+## MarkaOverhandKnot
 
 ---
 

@@ -1,7 +1,7 @@
 ---
 aside: false
 ---
-# Toe,🟠<motor>Kontakt</motor>
+# Toe,🟠Kontakt
 
 ---
 

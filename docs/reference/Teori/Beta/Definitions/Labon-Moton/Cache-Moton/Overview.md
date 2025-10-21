@@ -1,7 +1,7 @@
 ---
 aside: false
 ---
-# <py>[<labor>Cache</labor>,<motor>MOTON</motor>]</py>
+# <py>[Cache,MOTON]</py>
 
 ## What is a Cache?
 
@@ -19,7 +19,7 @@ aside: false
 - BoxStackWidth
 - BoxStackDepth
 
-## 🟠<motor>BuildCache()</motor>
+## 🟠BuildCache()
 
  Set up for success
 

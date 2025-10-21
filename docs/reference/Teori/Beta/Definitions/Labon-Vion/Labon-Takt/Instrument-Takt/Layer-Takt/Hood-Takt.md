@@ -1,7 +1,7 @@
 ---
 aside: false
 ---
-# Hood,🔻<via>Takt</via>
+# Hood,🔻Takt
 
 ---
 

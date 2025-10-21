@@ -1,7 +1,7 @@
 ---
 aside: false
 ---
-# <py>[<labor>Spade</labor>,<motor>Onda</motor>]</py>
+# <py>[Spade,Onda]</py>
 
 Aliases: SpadeSwing
 
