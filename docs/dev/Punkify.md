@@ -1,5 +1,4 @@
 ---
-aside: false
 sidebar: false
 
 ---
@@ -185,4 +184,14 @@ The order in which the elements of each category is listed is fixed
 <BC l='Reach's='Arm'e='Sloper'v='Left'm=''a=''/>
 <BC l=''s=''e=''v=''m=''a=''/>
 
+## Seeing Betums in Images
+
+## Seeing Betums in Gifs
+
 ## Why was Betaglot created?
+
+## PanBeta
+
+## BetaComps
+
+## PlantaBeta
