@@ -1,7 +1,4 @@
----
-aside: false
----
-# 🟠<motor>Launch</motor>
+# ⭐<labor>Launch</labor>
 
 ---
 

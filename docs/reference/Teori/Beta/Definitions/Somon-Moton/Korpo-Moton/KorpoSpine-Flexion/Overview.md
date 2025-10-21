@@ -1,7 +1,4 @@
----
-aside: false
----
-# 🟠<motor>SpineFlexion</motor>
+# ⭐<labor>SpineFlexion</motor>
 
 ---
 

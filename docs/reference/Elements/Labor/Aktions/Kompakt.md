@@ -1,7 +1,4 @@
----
-aside: false
----
-# 🟠<motor>Kompakt</motor>
+# ⭐<labor>Kompakt</labor>
 
 ---
 

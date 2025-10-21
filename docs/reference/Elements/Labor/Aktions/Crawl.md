@@ -1,7 +1,4 @@
----
-aside: false
----
-# 🟠<motor>Crawl</motor>
+# ⭐<labor>Crawl</labor>
 
 ---
 

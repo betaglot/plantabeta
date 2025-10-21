@@ -1,7 +1,4 @@
----
-aside: false
----
-# 🟠<motor>Skreef</motor>
+# ⭐<labor>Skreef</labor>
 
 ---
 

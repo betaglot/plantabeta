@@ -1,27 +1,22 @@
 <template>
-  <v-chip class="betumChip px-1"
-          variant="outlined"
-          density="compact"
-          tag="span"
-          label
-          color="#6ec08b">
-    <span class="labon">{{ l }}</span><span v-if="l && (s || e || v || m || a)">,</span>
-    <span class="somon">{{ s }}</span><span v-if="s && (e || v || m || a)">,</span>
-    <span class="ekon">{{ e }}</span><span v-if="e && (v || m || a)">,</span>
-    <span class="vion">{{ v }}</span><span v-if="v && (m || a)">,</span>
-    <span class="moton">{{ m }}</span><span v-if="m && a">,</span>
-    <span class="animon">{{ a }}</span>
-  </v-chip>
+  <div class="betumChipContainer">
+    <div class="betumChip">
+
+      <span class="labon">{{ b.l }}</span><span v-if="b.l && (b.s || b.e || b.v || b.m || b.a)">|</span>
+      <span class="somon">{{ b.s }}</span><span v-if="b.s && (b.e || b.v || b.m || b.a)">|</span>
+      <span class="ekon">{{ b.e }}</span><span v-if="b.e && (b.v || b.m || b.a)">|</span>
+      <span class="vion">{{ b.v }}</span><span v-if="b.v && (b.m || b.a)">|</span>
+      <span class="moton">{{ b.m }}</span><span v-if="b.m && b.a">|</span>
+      <span class="animon">{{ b.a }}</span>
+
+    </div>
+  </div>
+
 </template>
 
 <script setup>
 const props = defineProps({
-  l: String,
-  s: String,
-  e: String,
-  v: String,
-  m: String,
-  a: String
+  b: Object
 })
 
 
@@ -37,6 +32,25 @@ const props = defineProps({
 </script>
 
 <style>
+.betumChipContainer{
+  display:flex;
+  overflow:hidden;
+}
+
+.betumChip {
+  overflow-x: auto;
+  border: solid;
+  border-width: 1px;
+  border-color: white;
+  border-radius: 6px;
+  padding-left: 4px;
+  padding-right: 4px;
+  white-space: nowrap;
+}
+
+.betumChip::-webkit-scrollbar {
+  display: none;
+}
 .labon {
 
   color: #FFCC00;

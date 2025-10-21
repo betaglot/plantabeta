@@ -1,7 +1,4 @@
----
-aside: false
----
-# 🟠<motor>Onda</motor>
+# ⭐<labor>Onda</labor>
 
 ---
 

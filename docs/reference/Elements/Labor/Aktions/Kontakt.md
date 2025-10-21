@@ -1,7 +1,4 @@
----
-aside: false
----
-# 🟠<motor>Kontakt</motor>
+# ⭐<labor>Kontakt</labor>
 
 ---
 

@@ -1,5 +1,5 @@
 
-# <via>Productivity</via>
+# Productivity
 
 ## Effectiveness
 

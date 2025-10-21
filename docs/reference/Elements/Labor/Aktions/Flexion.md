@@ -1,7 +1,4 @@
----
-aside: false
----
-# 🟠<motor>Flexion</motor>
+# ⭐<labor>Flexion</labor>
 
 ---
 

@@ -1,7 +1,4 @@
----
-aside: false
----
-# 🟠<motor>Adduction</motor>
+# ⭐<labor>Adduction</labor>
 
 ---
 

@@ -1,7 +1,4 @@
----
-aside: false
----
-# 🟠<motor>Mano🟠<motor>Orbit</motor></motor>
+# ⭐<labor>Mano🟠<motor>Orbit</motor></motor>
 
 ---
 

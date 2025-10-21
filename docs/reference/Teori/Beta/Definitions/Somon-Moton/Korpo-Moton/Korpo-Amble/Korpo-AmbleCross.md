@@ -1,7 +1,4 @@
----
-aside: false
----
-# 🟠<motor>CrossStep</motor>
+# ⭐<labor>CrossStep</motor>
 
 Aliases: French Step
 

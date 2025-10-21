@@ -1,7 +1,4 @@
----
-aside: false
----
-# 🟠<motor>Rip</motor>
+# ⭐<labor>Rip</labor>
 
 ---
 

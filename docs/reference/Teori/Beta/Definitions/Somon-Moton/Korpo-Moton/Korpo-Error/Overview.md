@@ -1,7 +1,4 @@
----
-aside: false
----
-# 🟠<motor>BodyError</motor>
+# ⭐<labor>BodyError</motor>
 
 ---
 

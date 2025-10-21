@@ -1,7 +1,4 @@
----
-aside: false
----
-# 🟠<motor>Pop</motor>
+# ⭐<labor>Pop</labor>
 
 ---
 

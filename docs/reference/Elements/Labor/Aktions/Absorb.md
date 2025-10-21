@@ -1,7 +1,4 @@
----
-aside: false
----
-# 🟠<motor>Absorb</motor>
+# ⭐<labor>Absorb</labor>
 
 ---
 

@@ -1,7 +1,4 @@
----
-aside: false
----
-# 🟠<motor>FingertipKontakt</motor>
+# ⭐<labor>FingertipKontakt</motor>
 
 ---
 

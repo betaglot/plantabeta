@@ -1,7 +1,4 @@
----
-aside: false
----
-# 🟠<motor>Tangent</motor>
+# ⭐<labor>Tangent</labor>
 
 ---
 

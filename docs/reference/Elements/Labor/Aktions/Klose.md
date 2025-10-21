@@ -1,7 +1,4 @@
----
-aside: false
----
-# 🟠<motor>Klose</motor>
+# ⭐<labor>Klose</labor>
 
 ---
 

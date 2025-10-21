@@ -1,7 +1,4 @@
----
-aside: false
----
-# 🟠<motor>Aspis</motor>
+# ⭐<labor>Aspis</labor>
 
 ---
 

@@ -1,7 +1,4 @@
----
-aside: false
----
-# 🟠<motor>🔷<soma>Mano</soma>-Slide</motor>
+# ⭐<labor>🔷<soma>Mano</soma>-Slide</motor>
 
 ---
 

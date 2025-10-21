@@ -1,7 +1,4 @@
----
-aside: false
----
-# 🟠<motor>BodyPosture</motor>
+# ⭐<labor>BodyPosture</motor>
 
 ---
 

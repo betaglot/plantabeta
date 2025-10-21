@@ -1,7 +1,4 @@
----
-aside: false
----
-# 🟠<motor>Insert</motor>
+# ⭐<labor>Insert</labor>
 
 ---
 

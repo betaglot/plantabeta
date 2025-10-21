@@ -1,7 +1,4 @@
----
-aside: false
----
-# 🟠<motor>Purga</motor>
+# ⭐<labor>Purga</labor>
 
 ---
 

@@ -1,7 +1,4 @@
----
-aside: false
----
-# 🟠<motor>Kompress</motor>
+# ⭐<labor>Kompress</labor>
 
 ---
 

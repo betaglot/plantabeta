@@ -1,7 +1,4 @@
----
-aside: false
----
-# 🟠<motor>HipHinge</motor>
+# ⭐<labor>HipHinge</motor>
 
 ---
 

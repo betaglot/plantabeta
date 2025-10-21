@@ -1,7 +1,4 @@
----
-aside: false
----
-# 🟠<motor>Wrap</motor>
+# ⭐<labor>Wrap</labor>
 
 ---
 

@@ -1,5 +1,5 @@
 
-# <beta>Better Communication</beta>
+# Better Communication
 
 ## Greater Vocabulary
 

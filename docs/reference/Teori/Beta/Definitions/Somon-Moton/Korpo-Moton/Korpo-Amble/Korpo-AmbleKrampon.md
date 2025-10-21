@@ -1,7 +1,4 @@
----
-aside: false
----
-# 🟠<motor>KramponAmble</motor>
+# ⭐<labor>KramponAmble</motor>
 
 ---
 

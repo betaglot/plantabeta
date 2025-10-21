@@ -1,7 +1,4 @@
----
-aside: false
----
-# 🟠<motor>Substitute</motor>
+# ⭐<labor>Substitute</labor>
 
 ---
 

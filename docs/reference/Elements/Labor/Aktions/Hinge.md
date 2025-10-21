@@ -1,7 +1,4 @@
----
-aside: false
----
-# 🟠<motor>Hinge</motor>
+# ⭐<labor>Hinge</labor>
 
 ---
 

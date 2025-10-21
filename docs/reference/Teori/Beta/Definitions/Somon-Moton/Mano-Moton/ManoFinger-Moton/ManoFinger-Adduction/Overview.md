@@ -1,7 +1,4 @@
----
-aside: false
----
-# 🟠<motor>Finger🟠<motor>Adduction</motor></motor>
+# ⭐<labor>Finger🟠<motor>Adduction</motor></motor>
 
 ---
 

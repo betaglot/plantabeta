@@ -1,7 +1,4 @@
----
-aside: false
----
-# 🟠<motor>Eval</motor>
+# ⭐<labor>Eval</labor>
 
 ---
 

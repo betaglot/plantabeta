@@ -1,7 +1,4 @@
----
-aside: false
----
-# 🟠<motor>Clean</motor>
+# ⭐<labor>Clean</labor>
 
 ---
 

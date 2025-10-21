@@ -1,7 +1,4 @@
----
-aside: false
----
-# 🟠<motor>Ankor</motor>
+# ⭐<labor>Ankor</labor>
 
 ---
 

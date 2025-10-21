@@ -1,7 +1,4 @@
----
-aside: false
----
-# 🟠<motor>Breathing</motor>
+# ⭐<labor>Breathing</motor>
 
 ---
 

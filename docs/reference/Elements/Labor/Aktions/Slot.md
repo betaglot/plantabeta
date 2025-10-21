@@ -1,7 +1,4 @@
----
-aside: false
----
-# 🟠<motor>Slot</motor>
+# ⭐<labor>Slot</labor>
 
 ---
 

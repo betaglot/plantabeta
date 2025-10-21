@@ -1,7 +1,4 @@
----
-aside: false
----
-# 🟠<motor>Ballista</motor>
+# ⭐<labor>Ballista</labor>
 
 ---
 

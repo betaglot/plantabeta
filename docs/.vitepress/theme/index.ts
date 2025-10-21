@@ -44,7 +44,7 @@ export default {
     },
     enhanceApp({ app, router, siteData }) {
         app.use(vuetify)
-        app.component('BC', BetumChip)
+        app.component('BB', BetumChip)
         app.component('BT', BetumTitle)
         app.component('PageImage', PageImage)
     }

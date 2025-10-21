@@ -1,7 +1,4 @@
----
-aside: false
----
-# 🟠<motor>Knot</motor>
+# ⭐<labor>Knot</labor>
 
 ---
 

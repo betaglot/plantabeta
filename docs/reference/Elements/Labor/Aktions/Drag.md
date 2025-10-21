@@ -1,7 +1,4 @@
----
-aside: false
----
-# 🟠<motor>Drag</motor>
+# ⭐<labor>Drag</labor>
 
 ---
 

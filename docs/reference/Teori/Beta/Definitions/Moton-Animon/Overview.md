@@ -1,7 +1,4 @@
----
-aside: false
----
-# 🟠<motor>MOTON</motor>,💜<anima>ANIMON</anima>
+# ⭐<labor>MOTON</motor>,💜<anima>ANIMON</anima>
 
 ---
 

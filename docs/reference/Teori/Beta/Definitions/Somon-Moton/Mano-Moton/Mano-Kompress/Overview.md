@@ -1,7 +1,4 @@
----
-aside: false
----
-# 🟠<motor>ManoCompress</motor>
+# ⭐<labor>ManoCompress</motor>
 
 Aliases: Pinch
 

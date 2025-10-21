@@ -1,7 +1,4 @@
----
-aside: false
----
-# 🟠<motor>SlapSeal</motor>
+# ⭐<labor>SlapSeal</motor>
 
 ---
 

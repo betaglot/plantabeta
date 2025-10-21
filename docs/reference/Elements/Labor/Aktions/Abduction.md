@@ -1,7 +1,5 @@
----
-aside: false
----
-# 🟠<motor>Abduction</motor>
+
+# ⭐<labor>Abduction</labor>
 
 ---
 

@@ -1,7 +1,4 @@
----
-aside: false
----
-# 🟠<motor>Orbit</motor>
+# ⭐<labor>Orbit</labor>
 
 ---
 

@@ -1,7 +1,4 @@
----
-aside: false
----
-# 🟠<motor>KorpoPop</motor>
+# ⭐<labor>KorpoPop</motor>
 
 ---
 

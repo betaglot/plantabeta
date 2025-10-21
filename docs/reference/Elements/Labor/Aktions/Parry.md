@@ -1,7 +1,4 @@
----
-aside: false
----
-# 🟠<motor>Parry</motor>
+# ⭐<labor>Parry</labor>
 
 ---
 

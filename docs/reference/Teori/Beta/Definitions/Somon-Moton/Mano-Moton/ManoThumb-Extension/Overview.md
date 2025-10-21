@@ -1,7 +1,4 @@
----
-aside: false
----
-# 🟠<motor>Thumb-Extension</motor>
+# ⭐<labor>Thumb-Extension</motor>
 
 ---
 

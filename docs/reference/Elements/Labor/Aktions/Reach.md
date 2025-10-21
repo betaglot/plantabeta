@@ -1,7 +1,4 @@
----
-aside: false
----
-# 🟠<motor>Reach</motor>
+# ⭐<labor>Reach</labor>
 
 ---
 

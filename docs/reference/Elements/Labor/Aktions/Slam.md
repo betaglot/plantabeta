@@ -1,4 +1,4 @@
-# 🟠<motor>Slam</motor>
+# ⭐<labor>Slam</labor>
 
 ---
 

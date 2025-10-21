@@ -1,7 +1,4 @@
----
-aside: false
----
-# 🟠<motor>Transport</motor>
+# ⭐<labor>Transport</labor>
 
 ---
 

@@ -1,7 +1,4 @@
----
-aside: false
----
-# 🟠<motor>ManoDragSeal</motor>
+# ⭐<labor>ManoDragSeal</motor>
 
 ---
 

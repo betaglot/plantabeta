@@ -1,7 +1,4 @@
----
-aside: false
----
-# 🟠<motor>HammerKlose</motor>
+# ⭐<labor>HammerKlose</motor>
 
 ---
 

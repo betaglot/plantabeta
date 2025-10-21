@@ -1,7 +1,4 @@
----
-aside: false
----
-# 🟠<motor>Hook</motor>
+# ⭐<labor>Hook</labor>
 
 ---
 

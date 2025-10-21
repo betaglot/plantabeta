@@ -1,7 +1,4 @@
----
-aside: false
----
-# 🟠<motor>Machete</motor>
+# ⭐<labor>Machete</labor>
 
 ---
 
