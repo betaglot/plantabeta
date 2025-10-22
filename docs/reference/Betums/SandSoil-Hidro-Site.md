@@ -1,8 +1,3 @@
-
-
----
-aside: false
----
 # <py>[SandSoilHidro,Takt]</py>
 
 ---
