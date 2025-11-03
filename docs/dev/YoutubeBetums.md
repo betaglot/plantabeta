@@ -672,7 +672,6 @@ Use sound and pin to insta
 
 ## <div class="text-h4 mb-4 text-center">PlantaBeta_084</div>
 
-
 <ekos>🟩 NoSkreef, FallenTree</ekos>
 <via>🔻 ProtectedSite</via>
 
@@ -746,7 +745,6 @@ Use sound and pin to insta
 <div class="betacontainer text-h5   d-flex flex-column" >
 
 ## <div class="text-h4 mb-4 text-center">PlantaBeta_093</div>
-
 
 <ekos>🟩 Flower</ekos>
 

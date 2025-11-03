@@ -20,8 +20,8 @@ features:
     title: PlantaBeta is Free!
     details: Click here to learn about Open Source Projects
     link: https://opensource.com/resources/what-open-source
-#   - icon: 🤔
-#     title: Support PlantaBeta
-#     details: 
-#     link: https://patreon.com/plantabeta
+  - icon: 🤔
+    title: Support PlantaBeta
+    details: Anything helps
+    link: https://patreon.com/plantabeta
 ---
