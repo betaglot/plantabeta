@@ -15,7 +15,11 @@ hero:
       link: /guide/What/WhatPlantaBeta
 
 
-# features:
+features:
+  - icon: 🙌
+    title: PlantaBeta is Free!
+    details: Click here to learn about Open Source Projects
+    link: https://opensource.com/resources/what-open-source
 #   - icon: 🤔
 #     title: Support PlantaBeta
 #     details: 
