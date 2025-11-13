@@ -1,6 +1,6 @@
 # <beta>BetaApp</beta>
 
-Everything made so far is Documentation for this App. App is designed to mimic a plantor's experience. Plantors create, edit, view, browse, compose, record Beta.
+Everything made so far is Documentation for this App. App is designed to mimic a Planter's experience. Planters create, edit, view, browse, compose, record Beta.
 
 BetaApp can be used for KLIMBETA and PlantaBeta
 

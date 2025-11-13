@@ -8,8 +8,8 @@ There is about 100 hours of work time available before the season start.
 
 - To know what media to collect
     - Add all the info in the DesignBox to the PageBody
-- To be able to communicate what PlantaBeta is to other plantors.
-    - NovicePlantor.md
+- To be able to communicate what PlantaBeta is to other Planters.
+    - NovicePlanter.md
     - WhatPlantaBeta.md
 
 LaptopOnly tasks include:

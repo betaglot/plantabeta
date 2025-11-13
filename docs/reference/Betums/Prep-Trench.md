@@ -37,6 +37,6 @@ aside: false
 
 - 🔻 Obstacles in TrenchLand
     - Obstacles to the Trencher
-    - Obstacles to the Plantor
+    - Obstacles to the Planter
 
 :::

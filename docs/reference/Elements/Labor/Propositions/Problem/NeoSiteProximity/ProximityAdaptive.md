@@ -21,7 +21,7 @@ Aliases: Reactive Spacing, Responsive Spacing, Flexible Spacing
 
 ## Examples
 
-- Use Media donated by Plantors.
+- Use Media donated by Planters.
 
 ## Related ViaFactors
 

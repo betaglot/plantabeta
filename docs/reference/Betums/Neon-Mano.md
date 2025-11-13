@@ -5,7 +5,7 @@ aside: false
 
 ## NeonMano Purpose
 
-- NeonMano is the interface between Plantor and Neon.
+- NeonMano is the interface between Planter and Neon.
 
 ## NeonMano
 

@@ -113,7 +113,7 @@ ANIMA == PSYCHE == SPIRITUS
 
 - ControlFlowStatements are ANIMA
 
-> It is easy to get lost in neuroscience, but always try to minimize the amount of technical knowledge and only present Psychology in the context of PlantaBeta. Every section needs to directly link back to a plantor's experience and not a person's experience in general.
+> It is easy to get lost in neuroscience, but always try to minimize the amount of technical knowledge and only present Psychology in the context of PlantaBeta. Every section needs to directly link back to a Planter's experience and not a person's experience in general.
 
 - "ANIMA.CognitiveEase"
 - "ANIMA.CognitiveEase.Clarity"

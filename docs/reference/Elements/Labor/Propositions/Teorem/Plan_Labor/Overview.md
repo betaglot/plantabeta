@@ -4,7 +4,7 @@
 
 Aliases: [Coverage Path Planning](https://www.sciencedirect.com/science/article/abs/pii/S092188901300167X), Fill Pattern, Land Management
 
-BlockFill Pattern plantors usually it's only supervisors that need to know BlockFillPattern
+BlockFill Pattern Planters usually it's only supervisors that need to know BlockFillPattern
 
 ---
 

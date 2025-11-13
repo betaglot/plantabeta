@@ -1,6 +1,6 @@
 # Filming
 
-> record a Plantor's experience with a camera
+> record a Planter's experience with a camera
 
 ## Cinematography
 
@@ -42,7 +42,7 @@ Use a small whiteboard like a clapboard to reference notes to specific trees
 
 - Datetime
 - Location
-- Plantor
+- Planter
 - BagUp_ID
 
 Example you find something that you want to comment on, so you shoe the camera a number or some kind of identifier then you also reference it in your audio and later text
@@ -73,7 +73,7 @@ To Put boxes around MOTONObject or EcoObjects
 
 ## Privacy
 
-Make an incredibles mask for plantors
+Make an incredibles mask for Planters
 
 ## Storyboards
 

@@ -17,7 +17,7 @@
 - <BC l='Boot, Surf's=''e='LooseSoil'v='Down'm=''a=''/> Boot loosesoil down surf
 - Having a rain shield makes you feel better even if there is no difference in cold. It's not the wetness, but the cold that people dislike. Rain layer also prevents dermal evaporative cooling
 - <BC l='WaterproofGlove, Kit, Waterproof Bag's=''e=''v=''m=''a=''/> Waterproof gloves should be stored dry in a waterproof bag
-- Amy would be an ideal head plantor kapoplantor
+- Amy would be an ideal head Planter kapoPlanter
 - <BC l='TacticalRest's=''e=''v=''m=''a=''/> TacticalRest TacticalRestDay
 - Trees are mechanical pumps
 - <BC l='Team, Replant's=''e=''v='Alignment'm=''a=''/> Patrol line replant
@@ -40,7 +40,7 @@
 - <BC l=''s=''e=''v='Map'm='Motoid'a=''/> TopographicMap blended with Motoid as a way to visualize Moton. (Motoid == EinsteinSpaghetti)
 - Tag myriad using tagspaces then display with vuetify
 - Buy your apprentise Patagonia
-- Kickstart a company where the plantors get the start up finding themselves the better they get at planting the closer we are to developping PlantaBeta
+- Kickstart a company where the Planters get the start up finding themselves the better they get at planting the closer we are to developping PlantaBeta
 - Schedule opening clipbox instead of work block barrier to entry into work block is lower than if the task description contained the content
 - Spruce root increases soilteknik and possibly soil Kratos
 - <BC l='MinimumWage's=''e=''v=''m=''a=''/> Wanna surpass minimum wage?
@@ -59,11 +59,11 @@
 - <BC l='RoleModel's=''e=''v=''m=''a=''/> Hyperhero
 - <BC l='Tpose's=''e=''v='FrontierLine'm=''a='Gesture'/> T pose for I'm on the line
 - <BC l='NeonMix, Cache, Teamwork, BagIn's=''e=''v=''m=''a=''/> I don't want to cream out all of the pine
-- Could you identify a plantor by their motion captured model?
+- Could you identify a Planter by their motion captured model?
 - Go back down your line i  when you're backfillng walk iut and you won't have enough trees to BoustroLineBack. Especially in trenches since half full trench leaves a hole or forces deadwalking
 - Gripping flag on  spade doesn't affort Palm or IsometricGrip
 - <BC l='Jig's=''e=''v=''m=''a=''/> Jig Songs are jigs in the woodworking sense
-- Say the purpose of the flag, because plantors usually don't have a purpose and are just flagging by automatic convention. IntentionalFlagging
+- Say the purpose of the flag, because Planters usually don't have a purpose and are just flagging by automatic convention. IntentionalFlagging
 - Invite some people into your land
 - <BC l='Neon, Piece, Markum's=''e=''v=''m=''a='Mantra, Attention'/> Mantra for where to direct your attention: piece neon line neon markum neon
 - <BC l='Plot's=''e=''v='Landmark'm=''a='Clarity'/> You don't need to start a plot on a tree if an ekon is more distinctive
@@ -78,7 +78,7 @@
 - Increase decrease density gestures when yelling is too difficult
 - StumpTakt Density
 - Probe on blunt spade
-- The probability of piecepinch increases proportional to plantor count
+- The probability of piecepinch increases proportional to Planter count
 - Drink and Eat before replanting
 - If i had already sold twelve works of art then I'd know how to sell one
 - Tension when backswing
@@ -88,7 +88,7 @@
 - AreaPlant the culdesac
 - Overtake Pass
 - Pull a bit more out with SoadeHand after ripping with TreeHand
-- Maintain a couple trees buffer between plantors
+- Maintain a couple trees buffer between Planters
 - PlantaforCarry: One Shoulder strap when one side is empty
 - Fireweed MarkumTakt
 - Defined Leader in trenches
@@ -227,7 +227,7 @@
 - To remember a thought, say it aloud and gesture. Like Japanese Train Conductors
 - Worm into. Use SpadePalm
 - Squire Page Support GlialCell Scaffold Framework SupportStaff PitCrew
-- Refereeing benefits players the same way as surveying benefits plantors
+- Refereeing benefits players the same way as surveying benefits Planters
 - Spade that's too long leads to overuse of tab and tears along medial side of boot sole and rand
 - 2$ for anyone that can provide evidence from a scientific paper
 - Start doing fastBagOuts to experiment with Stoicism for Anima
@@ -251,7 +251,7 @@
 - Run a line. Run to the back
 - Broaden your idea of a PlantaBeta sponsor to any person or company involved with Plantations. For example Gransfors Bruk
 - A skfreef is a Labon. You don't need to skreef that
-- Define the range for NovicePlantors, so they know what to expect
+- Define the range for NovicePlanters, so they know what to expect
     - This is as steep as it gets
 - The goal is to dance while planting
 - NeoMoton BootSlideSkreef is a Skid
@@ -262,8 +262,8 @@
     - Skour
     - Ski down loose slopes like going down snowbanks in ski boots
 - TibiorDev Sagging gaiters collect water.
-- Alloplantor needs to know if you're planting off density so they can compensate
-    - Alloplantor implies Polyplantad
+- AlloPlanter needs to know if you're planting off density so they can compensate
+    - AlloPlanter implies Polyplantad
     - Diplantad
     - Triplantad
     - Polyplantad
@@ -348,7 +348,7 @@
 - SpadeSkim
     - Lower HypoMano decreases the force required to grip the spade
     - And Lower HypoMano also reduces energy loss. The movement of the Spade takes energy which could have been transferred into the SkreefSite
-- Proof us more important for getting experienced plantors to use PlantaBeta than rookies
+- Proof us more important for getting experienced Planters to use PlantaBeta than rookies
     - Rookies aren't set in their ways
     - If it's not broke don't fix it. I'll need to prove that it's broken
 - Vary Kayak Paddle grip to reduce tendonitis OKC
@@ -396,7 +396,7 @@
     - Full palm kontakt requires crouch to align forearms then wrist
     - More fingers increases kratos of manoMOTON
     - Test
-    - Drag plantor into alignment or multiple choice choose the optimal alignment image. Photo or diagram
+    - Drag Planter into alignment or multiple choice choose the optimal alignment image. Photo or diagram
 - Team formation is labor and via, not motor
     - "Form up!"
     - Form a line
@@ -529,7 +529,7 @@
 - Soil flip to expose mineral soil, when there is Organic Material on top of MineralSoil and the space if too tight to fully Skreef
     - SoilBall to ManoRelease
     - Lift ball three cm above hole rim before drop
-- Head Plantor or Plantor Coach
+- Head Planter or Planter Coach
     - repair gear
     - fit gear
     - stretching

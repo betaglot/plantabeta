@@ -20,7 +20,7 @@ Percentages
 
 PurposeGames.com
 
-Use Instruments that GenZ is already addicted to. Many PotentialPlantors are young adults who are addicted to playing video games. Create a video game which teaches PlantaBeta so plantors can increase their planting knowledge before the season starts.
+Use Instruments that GenZ is already addicted to. Many PotentialPlanters are young adults who are addicted to playing video games. Create a video game which teaches PlantaBeta so Planters can increase their planting knowledge before the season starts.
 
 It's ok if the game is boring if you're being paid to play it.
 
@@ -43,7 +43,7 @@ Use the sand at 10cm below surface for SpadeSkreef, since it's a similar density
 
 ## Pacer
 
-Use an ExperiencedPlantor to act as a Pacer for NovicePlantors. To show the speed goal speed. Be sure that the Pacer isn't competing with the Novices, that is, the Pacer must not try to constantly go faster than the novices.
+Use an ExperiencedPlanter to act as a Pacer for NovicePlanters. To show the speed goal speed. Be sure that the Pacer isn't competing with the Novices, that is, the Pacer must not try to constantly go faster than the novices.
 
 ## Pedagogy Instruments
 
@@ -77,7 +77,7 @@ Submit image of drawing for testing
 
 ## Video Analysis
 
-To understand what's going on in the plantor video
+To understand what's going on in the Planter video
 
 ### VideoLabelling
 
@@ -105,7 +105,7 @@ Question to ask themselves to not get bored without audio
 
 ## 'Mentor' is too strong a word
 
-Have an Experienced Plantor plant with novicePlantor as a practical demonstration and for confidence in quality
+Have an Experienced Planter plant with novicePlanter as a practical demonstration and for confidence in quality
 
 ## Setting
 
@@ -123,8 +123,8 @@ Recall what you learned during the morning truck ride
 
 - Many video games have posters which show your achievements
 - Achievements
-- Quantify plantor ability
-- Use levels to tap into the competitiveness of plantors.
+- Quantify Planter ability
+- Use levels to tap into the competitiveness of Planters.
 - Make planting like a video game. Everyone younger than me understands how to progress in video games
     - Completing Challenges
     - Experience
@@ -136,10 +136,10 @@ Recall what you learned during the morning truck ride
 - Planters are often [set up to fail](https://en.wikipedia.org/wiki/Setting_up_to_fail)
 
 - Anti-pedagogy
-    - Some Plantors are fringe or counter-culture, which often leads to a dislike of any schooling.
-    - Plantors who are Dyslexic
-    - Plantors
-    - "when will I ever use this in my life?" is always null in PlantaBeta, literally every piece of information is designed to contribute to plantor's profit 💲🤑💸💰.
+    - Some Planters are fringe or counter-culture, which often leads to a dislike of any schooling.
+    - Planters who are Dyslexic
+    - Planters
+    - "when will I ever use this in my life?" is always null in PlantaBeta, literally every piece of information is designed to contribute to Planter's profit 💲🤑💸💰.
 
 - Underestimation
 

@@ -2,7 +2,7 @@
 
 Active Recall is the most effective way to learn new things.
 
-Multiple choice tests, where Plantors choose from a selection of images or a selection of text answers.
+Multiple choice tests, where Planters choose from a selection of images or a selection of text answers.
 
 <https://brilliant.org/>
 
@@ -53,13 +53,13 @@ treeList = [
 ::: details 🛠
 
 - <https://www.verywellmind.com/bronfenbrenner-ecological-model-7643403>
-- Documentation to play the (game == simulation == PlantorExperience)
+- Documentation to play the (game == simulation == PlanterExperience)
 - Documentation for the game is also documentation for the job
 - Knowledge Gaps are the low hanging fruit of PlantaBeta education
 - Every minute counts
 - Simulate the job with Test coded in Python. Use Voronoi and other algorithms to check answers
 - The most simple test is multiple choice naming test
-    - Gif of the PlantorMOTON
+    - Gif of the PlanterMOTON
     - Image of Instruments
     - Name all the objects
 

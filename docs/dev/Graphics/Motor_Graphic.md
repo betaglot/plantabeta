@@ -2,7 +2,7 @@
 
 ## <motor>MotorCard</motor>
 
-Mirror images for ambidextrous plantor
+Mirror images for ambidextrous Planter
 
 ## <motor>MotorTimeline</motor>
 
@@ -33,7 +33,7 @@ Mirror images for ambidextrous plantor
 - "Motor.MotorLine.MotorMirrorLine"
 - "Motor.MotorLine.Overview"
 - "Motor.MotorPhoto"
-- "Motor.PlantorDiagram"
-- "Motor.PlantorDiagram.LevelOfDetail"
+- "Motor.PlanterDiagram"
+- "Motor.PlanterDiagram.LevelOfDetail"
 
 :::

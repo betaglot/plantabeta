@@ -4,7 +4,7 @@ aside: false
 
 # What is PlantaBeta?
 
-Every year millions of tree seedlings are planted across Canada. As shown in the image above, the Plantor finds a suitable place to plant a seedling, then uses a spade to open holes for the seedling to be inserted, then the Plantor closes the hole and the cycle repeats thousands of times each day.  
+Every year millions of tree seedlings are planted across Canada. As shown in the image above, the Planter finds a suitable place to plant a seedling, then uses a spade to open holes for the seedling to be inserted, then the Planter closes the hole and the cycle repeats thousands of times each day.  
 
 ::: details View links to recent media articles about Tree Planting
 
@@ -20,9 +20,9 @@ Ontario woman goes viral for planting more than 4,500 trees in a day
 
 - <https://www.cbc.ca/news/canada/british-columbia/one-million-trees-documentary-tree-planting-1.5791939>
 
-Forestry sector scrambles to recruit tree Plantors to sow millions — perhaps billions — more Neons
+Forestry sector scrambles to recruit tree Planters to sow millions — perhaps billions — more Neons
 
-- <https://www.cbc.ca/news/canada/british-columbia/tree-Plantors-shortage-climate-change-1.5170853>
+- <https://www.cbc.ca/news/canada/british-columbia/tree-Planters-shortage-climate-change-1.5170853>
 
 :::
 

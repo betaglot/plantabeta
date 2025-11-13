@@ -3,7 +3,7 @@
 ## Lesson: Intuitive SiteSelection
 
 - Instructor uses thick rope (decomissioned climbing rope) to outline an area
-- Plantors place a pin (like the ones used to denote underground wires) in all the sites that they think are suitable WITHOUT testing the soil first
+- Planters place a pin (like the ones used to denote underground wires) in all the sites that they think are suitable WITHOUT testing the soil first
 
 ## Lesson: 🟩 Tree Identification
 
@@ -13,4 +13,4 @@
 
 ## Lesson: 💜
 
-## Lesson: 🔷 Communicate your Beta to another Plantor
+## Lesson: 🔷 Communicate your Beta to another Planter

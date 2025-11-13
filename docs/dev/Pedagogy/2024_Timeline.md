@@ -13,7 +13,7 @@ sidebar: false
 
 ### 10-10:30
 
-- Instructors got each Plantor to plant 1 tree
+- Instructors got each Planter to plant 1 tree
 - Discussed J-roots and what makes a tree straight.
 - Planted the same tree like 3-5 times, then needed to show Instructors that we could do it correctly.
 - how to flag.
@@ -25,14 +25,14 @@ sidebar: false
 
 ### 11-2  
 
-- Plantors were given pieces and bagged approximately 50 trees
-- Plantors were told to deadwalk into the back and start planting.
+- Planters were given pieces and bagged approximately 50 trees
+- Planters were told to deadwalk into the back and start planting.
 
 ## Day 2:
 
 ### 8-1
 
-- As a group, went through each Plantor's piece and took plots.
+- As a group, went through each Planter's piece and took plots.
 - Discussed why each tree was good or bad, and how to properly take plots.
 - Explained how to pick a microsite
 

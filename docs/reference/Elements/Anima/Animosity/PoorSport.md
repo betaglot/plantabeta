@@ -1,6 +1,6 @@
 # Poor Sport
 
-- Putting Rocks in other Plantor's Bags
+- Putting Rocks in other Planter's Bags
 - Complaining about false unfairness
     - You had better land
 

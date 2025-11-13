@@ -5,7 +5,7 @@ Tag media with ElementNames
 
 ## Purpose
 
-- For Plantor Learning
+- For Planter Learning
 - For AI learning Data Set
 
 ## TagSpaces

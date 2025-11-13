@@ -98,7 +98,7 @@ Rugby Gifs
 
 ### GroupBy
 
-- GroupBy(PlantorAnatomy)
+- GroupBy(PlanterAnatomy)
 - GroupBy(BetaModule)
 
 ## Concurrency

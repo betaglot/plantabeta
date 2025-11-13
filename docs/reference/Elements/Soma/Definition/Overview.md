@@ -9,6 +9,6 @@
 <!-- =================================================== -->
 ::: details 🛠
 
-- A Plantor isn't a plantor without all of their instruments
+- A Planter isn't a Planter without all of their instruments
 
 :::

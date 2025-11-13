@@ -143,7 +143,7 @@ Connect Academia to PlantaBeta by linking to each field's current understanding.
 
 > interview people to gain a better understanding of their experience of PlantaBeta or related topics
 
-### Interview Plantors
+### Interview Planters
 
 ### Interview Supervisors
 
@@ -289,7 +289,7 @@ See Instruments for notes about each Instrument
 
 ## Video
 
-> a film crew to record plantors working
+> a film crew to record Planters working
 
 - Film Video
 - Producer

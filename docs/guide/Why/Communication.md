@@ -7,7 +7,7 @@ Be able to describe more experiences.
 
 ## Greater Precision
 
-Pinpoint the specific part of a Plantor's experience.
+Pinpoint the specific part of a Planter's experience.
 
 ## More Concise
 
@@ -21,15 +21,15 @@ Use single words instead of phrases when useful, but not as a rule. There's no p
 
 An increased vocabulary and standardization of communication improves the effectiveness of instructions.
 
-### Plantors Communicating with Themselves
+### Planters Communicating with Themselves
 
-PlantaBeta increases the vocabulary of a Plantor's internal dialog which improves short term memory of Plantor's experience.
+PlantaBeta increases the vocabulary of a Planter's internal dialog which improves short term memory of Planter's experience.
 
-### Plantor Communicating with Other Plantors
+### Planter Communicating with Other Planters
 
 TeamPlant
 
-### Supervisor Communicating with Plantors
+### Supervisor Communicating with Planters
 
 Instructions
 

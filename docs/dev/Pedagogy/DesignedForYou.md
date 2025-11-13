@@ -9,7 +9,7 @@ sidebar: false
 ::: info Purpose
 
 - **Show don't tell!** Use the Classic Writing Style
-- Write a page which shows the plantors at Quastuco what PlantaBeta is, how it is designed for them and how to use it
+- Write a page which shows the Planters at Quastuco what PlantaBeta is, how it is designed for them and how to use it
 - Write a paragraph summarizing this page and post it in the WhatsApp group
 
 :::
@@ -74,7 +74,7 @@ Remember f(x) = 2x ?
 
 ## What do the icons mean?
 
-<beta>Beta</beta>: The system used to prescribe or describe a plantor's experience.
+<beta>Beta</beta>: The system used to prescribe or describe a Planter's experience.
 
 "beta" comes from climbing. It is any information about how to climb something. The term beta is an abbreviation of Betamax, which was hardware used to record video, like a VHS cassette tape 📼. Before the internet climbers would give each other Betamax video tapes of climbs, so if you wanted to see a video of climb was performed you would ask for the "Beta". Although people no longer use tapes 📼, the term is still used in climbing all the time and is sometimes used in other mountain sports, such as, mountain biking and skiing.
 
@@ -84,7 +84,7 @@ Beta is composed of four types, each of which can be represented by an icon:
 
 🟠<motor>MOTON </motor>: The movements and Instruments you use to plant trees. For example: slamming your spade into the ground, ripping Marka, your clothing and your bags.
 
-🔻<via>VIA </via>: The path taken by plantors. For example: your line in, backfilling, area planting, bouncing while partner planting and deadwalking
+🔻<via>VIA </via>: The path taken by Planters. For example: your line in, backfilling, area planting, bouncing while partner planting and deadwalking
 
 💜<anima>ANIMA </anima>: Any phenonmena of your nervous system, includes emotion, thought, perception, awareness, attention and more.  
 
@@ -139,12 +139,12 @@ Beta is composed of four types, each of which can be represented by an icon:
 
 - 🔻<via>⭐<labor>Marka</labor>-❌<error>Error</error></via>: Attempt to high Marka in fill plants whenever possible. The Marka may fall to the ground, but it's worth taking the chance since a high Marka is more valuable than the time wasted from a HighMarka Fail.
 
-- <beta>Lesson</beta>: Point out microsites so plantor can work on walking speed while not thinking about SiteSelection
+- <beta>Lesson</beta>: Point out microsites so Planter can work on walking speed while not thinking about SiteSelection
     - Isolate Elements, Isolate Skills. Decompose Elements into subelements then instruct them in isolation.
 
 - <beta>Lesson</beta>: Follow the instructor. Follow the instructor while they plant. Instructor can make error on purpose to test student's 💜<anima>ErrorDetection</anima> ability. You integrate information more deeply when teaching it, students become teachers in this lesson.
 
-- <beta>Instruction</beta>: Let Plantor get in the groove before observing
+- <beta>Instruction</beta>: Let Planter get in the groove before observing
     - CurrentSite, AnteSite, PostSite are NOT NULL is more realistic than one tree at a time.
 
 - <beta>Instruction</beta>: CurseOfKnowledge. Instructors can take for granted their knowledge. When using jargon for the first few times, remember to explain to student what it means.
@@ -161,7 +161,7 @@ Label things so they can be communicated
 
 ## What is the Big Picture for PlantaBeta?
 
-A game which is designed to simulate being a plantor.
+A game which is designed to simulate being a Planter.
 
 To test
 

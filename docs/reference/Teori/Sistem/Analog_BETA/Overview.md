@@ -37,7 +37,7 @@ This each line are analog pairs. The equal signs = denotes where Climbing and Pl
 
 - OffSeason Training
 - Outdoor Climbing has a similar to Planting.
-- Many Plantors are also Climbers and share many attributes.
+- Many Planters are also Climbers and share many attributes.
     - Resilience, Ruggedness, Physically Fit
 - You will get better at one by learning the other.
 

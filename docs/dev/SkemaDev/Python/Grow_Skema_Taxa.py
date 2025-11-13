@@ -1,5 +1,5 @@
 def AddTaks():
-    plantorZonesList = ["Anterior", "Posterior", "Lateral"]
+    PlanterZonesList = ["Anterior", "Posterior", "Lateral"]
 
     taktsList = [""]
 
@@ -12,8 +12,8 @@ def AddTaks():
         # If element['Namespace'] contains MOTONName, then 
         for MOTONName in MOTONNameList:
             if MOTONName in namespace:
-                for plantorZone in plantorZonesList:
+                for PlanterZone in PlanterZonesList:
                     for direction in directionsList:
-                        print(namespace + "/" + plantorZone + "/" + direction) 
+                        print(namespace + "/" + PlanterZone + "/" + direction) 
 
 AddTaks()

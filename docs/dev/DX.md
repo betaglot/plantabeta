@@ -32,7 +32,7 @@ Dictation will be performed at Arch Street, so the setup is a large TV, laptop, 
 Homonyms = {
     'cash': 'cache',
     '/': 'slash',
-    'planetary': 'plantor',
+    'planetary': 'Planter',
     'Roland': 'RawLand',
     'Rollins': 'RawLand',
     'screaming': 'skreefing',
@@ -197,7 +197,7 @@ a data construct that provides a description of something that may be used by a 
     - Boolean to Bit
     - Python to PlantaBeta
 
-There shouldn't be beta and PlantaBeta, because they a supposed to be the name of the language used by plantors. Forget "Beta" make up your own name
+There shouldn't be beta and PlantaBeta, because they a supposed to be the name of the language used by Planters. Forget "Beta" make up your own name
 
 PlantaBeta is the language and the
 

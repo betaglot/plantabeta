@@ -11,10 +11,10 @@ def checkkey(event):
 	
 	# get data from l 
 	if value == '': 
-		data = plantor 
+		data = Planter 
 	else: 
 		data = [] 
-		for item in plantor: 
+		for item in Planter: 
 			if value.lower() in item.lower(): 
 				data.append(item)				 
 
@@ -33,7 +33,7 @@ def update(data):
 
 
 # Driver code 
-plantor = ('Brazo','Base','Korpo', 
+Planter = ('Brazo','Base','Korpo', 
 	'Mano','Head') 
 
 
@@ -49,7 +49,7 @@ e.bind('<KeyRelease>', checkkey)
 #creating list box 
 lb = Listbox(root) 
 lb.pack() 
-update(plantor) 
+update(Planter) 
 
 
 

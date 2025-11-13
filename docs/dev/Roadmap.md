@@ -40,7 +40,7 @@ To [Reforest](https://www.lasy.gov.pl/en/information/news/a-forest-is-much-more-
 
 ## Instruments
 
-Test novel plantor Instruments
+Test novel Planter Instruments
 
 ### Psychology
 
@@ -73,7 +73,7 @@ Test novel plantor Instruments
 
 ## Future of Planting
 
-### Merge Plantor Beta with Wildfire Fighter Beta
+### Merge Planter Beta with Wildfire Fighter Beta
 
 - Skreef
 
@@ -117,7 +117,7 @@ Heterogeneous Plantations, ie not just trees to slow the advance of fire.
 
 It would be better for the earth if planting was more difficult.
 
-Train plantors so the difficulty is mitigated by people learning a Factor instead of making something
+Train Planters so the difficulty is mitigated by people learning a Factor instead of making something
 
 ### Africa
 

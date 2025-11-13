@@ -38,7 +38,7 @@ Look at the documentation for these sites:
 
 - I need to have at least some understanding about how the planting industry works, especially how the financials work since PlantaBeta will cost something to implement.
 
-- Learning more about the silviculture industry will give ideas about how to convince plantors and companies to want PlantaBeta
+- Learning more about the silviculture industry will give ideas about how to convince Planters and companies to want PlantaBeta
 
 - Find other groups who are doing the similar things to PlantaBeta, such as [Flash Forest](https://flashforest.ca/).
 
@@ -52,7 +52,7 @@ Look at the documentation for these sites:
 
 - Learn about the projects that they collaborate with.
 - Learn the names of the people in charge of Action
-- Find products which can be modified into Plantor Instruments
+- Find products which can be modified into Planter Instruments
 
 ## Dictation
 

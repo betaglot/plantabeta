@@ -15,7 +15,7 @@ Aliases: FootClose
 ::: details 🛠
 
 - BootPrint
-    - You can tell the type of BootKlose that a Plantor used by the BootPrint that they leave
+    - You can tell the type of BootKlose that a Planter used by the BootPrint that they leave
 - Precision
     - ❌<error>Stepping on the Tree instead of beside the Tree</error>
 - Kratos

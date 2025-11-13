@@ -94,7 +94,7 @@ Also Known As "Land Management"
 
 - VIA Affects productivity the most because via has deadwalking and cache positioning. VIA Starts and Finishes at the cache.
 
-- Even the most atheletic plantor is wasting time during deadwalking. Minimizing deadwalking benefits all plantors and supervisors.
+- Even the most atheletic Planter is wasting time during deadwalking. Minimizing deadwalking benefits all Planters and supervisors.
 
 - All VIONs require Affordance
 - Near is a Quality not a Quantity
@@ -182,8 +182,8 @@ EKOS is decomposed by composing a VIA
 - PlantingProcess_LandApproach_FlyIn_Helicopter
 - PlantingProcess_LandApproach_WalkIn_WalkInTime
 - PlantingProcess_LandBriefing_FingerPointing_ArmMOTON
-- PlantingProcess_LandBriefing_PlantorSupervisor_BlockDiagram
-- PlantingProcess_LandBriefing_PlantorSupervisor_LandDiagram
+- PlantingProcess_LandBriefing_PlanterSupervisor_BlockDiagram
+- PlantingProcess_LandBriefing_PlanterSupervisor_LandDiagram
 - PlantingProcess_LandManagement_Error_DeadWalking_Definition_
 - PlantingProcess_LandManagement_Error_PinchedLand_WasteOfEnergy_
 - PlantingProcess_LandManagement_Landmark_Boulder_RelativeLocation_
@@ -196,7 +196,7 @@ EKOS is decomposed by composing a VIA
 - PlantingProcess_LandManagement_Orientation_Landmark_LandmarkAlignment_
 - PlantingProcess_LandManagement_PartnerPlanting_InsideLandBorderline_LandDiagram_
 - PlantingProcess_LandManagement_PartnerPlanting_InsideLandBorderline_TreeMarka_
-- PlantingProcess_LandManagement_PlantorEfficiency_DeadWalking
+- PlantingProcess_LandManagement_PlanterEfficiency_DeadWalking
 - PlantingProcess_LandManagement_ViaLine_OptimalViaLine_StraightLine_
 - PlantingProcess_LandManagement_TreeCacheLocation_RoadCacheAboveLand_LineIn_WalkDownSlope
 - PlantingProcess_LandManagement_TreeCacheLocation_RoadCacheAboveLand
@@ -208,7 +208,7 @@ EKOS is decomposed by composing a VIA
 - PlantingProcess_LandManagement_TreeDensity_VisualPlot_Brain_
 - PlantingProcess_LandManagement_TreeSpacing_MinimumTreeSpacing_ResidualLand_
 
-- PlantingProcess_LastBagUp_BagOutTime_PlantorPickUpTime_PlantorSupervisor_
+- PlantingProcess_LastBagUp_BagOutTime_PlanterPickUpTime_PlanterSupervisor_
 - PlantingProcess_LastBagUp_Finish=CountdownTo(TreeCount=0)_PlantingEfficiency
 - PlantingProcess_LastBagUp_FinishByLand_BlockClosure
 - PlantingProcess_LastBagUp_FinishByTreeCount_TargetTreeCount

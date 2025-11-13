@@ -26,6 +26,6 @@ aside: false
     - GloveOff
 - GloveWipe
     - To remove Mud
-        - When Swapping SpadeHands for AmbiPlantor
+        - When Swapping SpadeHands for AmbiPlanter
 
 :::

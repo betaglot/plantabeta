@@ -4,9 +4,9 @@ The most important constraint for Instruments is the space it takes in the Truck
 
 ## <labor>TrailerDev</labor>
 
-A trailer loaded with everthing that PLANTORS need for their season. For plantors only, not for company logistics like water purification or showers or kitchen.
+A trailer loaded with everthing that PlanterS need for their season. For Planters only, not for company logistics like water purification or showers or kitchen.
 
-> What your company needs to join the cutting edge of tree plantor technology
+> What your company needs to join the cutting edge of tree Planter technology
 
 ### Analogous to
 
@@ -262,7 +262,7 @@ Cordura or Kevlar
 
 Long thin bag is easier to sit with
 
-Theres air space between plantor and the seat in front of them
+Theres air space between Planter and the seat in front of them
 
 V shape center contact between feet
 
@@ -349,7 +349,7 @@ The goal of vambrace is to keep the hand clean and warm. There isn't a need to p
 - Hockey Padding which doesn't have a shell
 
 - Corset
-    - Plantors wear a corset under their waist belt like a saddle pad
+    - Planters wear a corset under their waist belt like a saddle pad
     - Corset restricts BendOver
 
 ### ⭐<labor>PantDev</labor>
@@ -422,7 +422,7 @@ SuitParts = [
 - Do gloves need to be tight?
 
 - Glove which can have fingers repaired. At least the Middle Three fingers.
-- Glove which does not collect dirt unlike the knitted gloves currently used by most plantors
+- Glove which does not collect dirt unlike the knitted gloves currently used by most Planters
 - Easily taken off without getting dirt inside
 
 ### ⭐<labor>KranosDev</labor>

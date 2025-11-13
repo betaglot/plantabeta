@@ -273,7 +273,7 @@ On the streets, on campus, in airports, in public transit
 - Beta diagram of each interdisciplinary, show where each of the modules is on their
 - Contradiction is confusing. A Benefit of canon is convention
 - Consilience, Interdisciplinary
-- Climber to Plantor group program. The Climbing Instructor stays with the group as they become plantors. The Instructor already has rapport with the plantors before the season starts and the plantors have already become friends.
+- Climber to Planter group program. The Climbing Instructor stays with the group as they become Planters. The Instructor already has rapport with the Planters before the season starts and the Planters have already become friends.
 - Betaglot needs to be able to translate into and from Mentalese
 - Betaglot MOTONs use OtherSportBeta
     - Apex of SpadeSlam is TrampBeta while Spade impact is DiveBeta. SpadeSwing is RingsBeta. Legs are doing DanceBeta Foutette at Slam. Apex to move body and to counteract any offbalancing forces from SpadeSwing

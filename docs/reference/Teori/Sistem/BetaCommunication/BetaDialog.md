@@ -28,10 +28,10 @@ Description of Scene
 
 CharacterName and who they're talking to
 
-- Plantor to Plantor
-- Plantor to Team
-- Plantor to Supervisor
-- Plantor to Self
+- Planter to Planter
+- Planter to Team
+- Planter to Supervisor
+- Planter to Self
 
 ### [Parenthetical](https://www.movieoutline.com/articles/10-rules-for-using-parentheticals-in-your-screenplay.html)
 

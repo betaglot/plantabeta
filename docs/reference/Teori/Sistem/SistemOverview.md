@@ -34,7 +34,7 @@ Brazo.Anterior-Down,🟠<motor>Ama</motor>
 
 - Timestamp
 - File being refered to
-- Tree_ID is SISTEM information. Plantors never count their trees, so it doesn't make sense to call Tree_ID an instance of BETA.
+- Tree_ID is SISTEM information. Planters never count their trees, so it doesn't make sense to call Tree_ID an instance of BETA.
 
 1. SISTEM
 2. ⭐LABOR

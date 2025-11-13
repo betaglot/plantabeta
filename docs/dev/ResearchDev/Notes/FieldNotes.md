@@ -27,7 +27,7 @@
         - ⭐<labor>Boot</labor>
 - 1.10
     - Bounce, Cross, Zone, Follow
-        - Your four options when you converge with another plantor
+        - Your four options when you converge with another Planter
 - 1.11
     - Fan, Partial Boustro
     - 🔻<via>NeoVion</via>(AsymmetricBoustro)
@@ -77,8 +77,8 @@
     - InertiaPurga or ScrapePurga
     - <BC l=''s=''e=''v=''m='Purga.Inertia'a=''/>
     - <BC l=''s=''e=''v=''m='Purga.Scrape'a=''/>
-    - Diagram of Triplantor Fill Pattern
-        - Middle Plantor follows Zone.Midline
+    - Diagram of TriPlanter Fill Pattern
+        - Middle Planter follows Zone.Midline
         - Flankers do <via>FillPattern(ZigZagLine)</via>
 - 1.19
     - First submoton of Klose gathers, then secon Moton Stamps
@@ -108,9 +108,9 @@
         - Don't allow anything (Labon,Somon,Ekon) to curl over edge
 - 2.02
     - Replanting for Density
-        - 2 Plantor Replant
-            - Diplantor
-            - Distance between Plantors
+        - 2 Planter Replant
+            - DiPlanter
+            - Distance between Planters
     - How to prevent Hole.Hourglass
         - Use [Spade,Slam.DoubleTap]
         - Cross Sectional Diagram of Hourglass Hole
@@ -226,14 +226,14 @@
         - SupervisorFeedback
     - Burnt Trunks can lead to living canopy. Only the bottom of the tree is burnt. How to avoid having to look up each tree to see if it's totally burnt
     - Follow your partner's trees, not their SOMA
-    - Diagram of Diplantor "L"Line
+    - Diagram of DiPlanter "L"Line
 - 4.04
     - Overgeneralization of Rule
         - Don't bounce up and down slopes
     - Pedagogy: High Risk of Error
         - "I don't want to teach them BootKlose because some are pretty sloppy" then when to tell them that you can BootKlose?
-            - How to ensure that Plantors are using the minimum force required, so that they don't get PatellarTendonitis?
-        - Ratio(Instructor: Plantor) is an Instruction Constraint
+            - How to ensure that Planters are using the minimum force required, so that they don't get PatellarTendonitis?
+        - Ratio(Instructor: Planter) is an Instruction Constraint
 - 4.05
     - PanBeta Session
         - Gather in a room to discuss PanBeta for PlantaBeta.
@@ -291,7 +291,7 @@
         - Maintain Vertical Stem to prevent Leaner
 - 4.18
     - NeoBetum(NeonSlide, NeonGuide, NeonSupport)
-    - Leave space for Alloplantor to pass by
+    - Leave space for AlloPlanter to pass by
         - <BC l=''s='Anterior'e=''v=''m='Pass'a=''/>
         - <BC l=''s='Posterior'e=''v=''m='Pass'a=''/>
         - <BC l=''s='Lateral'e=''v=''m='Pass'a=''/>
@@ -369,7 +369,7 @@
 - 5.08
     - Pedagogy: Group work
         - How would you fill this piece?
-        - Slow Planter skips a beat. How to TeamPlant with a slower plantor. Each beat, place a neosite on a diagram of the piece
+        - Slow Planter skips a beat. How to TeamPlant with a slower Planter. Each beat, place a neosite on a diagram of the piece
             - Brilliantoid
 - 5.09
     - Don't remove Spade before NeonInsert
@@ -399,8 +399,8 @@
     - [Spade,Takt,Skim,Selection] Err on side of HyperMano more Distal than HypoMano
         - Have the Spade pointing back towards yourself
     - Crouching as StartMoton of Skim prevent AcuteSpade
-        - AcuteSpade points towards Plantor
-        - ObliqueSpade points away from Plantor
+        - AcuteSpade points towards Planter
+        - ObliqueSpade points away from Planter
 - 5.15
     - Why does low density occur when fill planting with lots of 7m natural crop trees?
     - "How can you tell if a hole is closed" is not obvious

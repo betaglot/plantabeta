@@ -19,7 +19,7 @@
     - An object which cows avoid stepping near.
     - Proctects the Neon from Cows
     - Cows physically can step anywhere, but they choose not to. Comfort
-    - A stump is an obstacle for cows but not for plantors.
+    - A stump is an obstacle for cows but not for Planters.
 
 - Obstacle for Snow
     - To create an Eddie

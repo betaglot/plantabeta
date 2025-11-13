@@ -8,7 +8,7 @@ aside: false
 - Ambiguous eko
 - Road to piece
 - Boundary Markas
-Plantor Confidence is the solution to Ambiguity
+Planter Confidence is the solution to Ambiguity
 
 ---
 

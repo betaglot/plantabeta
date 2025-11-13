@@ -183,9 +183,9 @@ function sidebarGuide() {
     },
     {
       text: 'Who are you?', collapsed: false, items: [
-        { text: 'Potential Plantor', link: '/guide/Who/PotentialPlantor' },
-        { text: 'Novice Plantor', link: '/guide/Who/NovicePlantor' },
-        { text: 'Veteran Plantor', link: '/guide/Who/VeteranPlantor' },
+        { text: 'Potential Planter', link: '/guide/Who/PotentialPlanter' },
+        { text: 'Novice Planter', link: '/guide/Who/NovicePlanter' },
+        { text: 'Veteran Planter', link: '/guide/Who/VeteranPlanter' },
         { text: 'Supervisor', link: '/guide/Who/Supervisor' },
         { text: 'Instructor', link: '/guide/Who/Instructor' }
       ]
@@ -1025,7 +1025,7 @@ function sidebarTutorial() {
 function sidebarExamples() {
   return [
     { text: 'Examples Overview', link: '/examples/ExampleOverview' },
-    { text: 'Plantor Questions', link: '/examples/PlantorQuestions' },
+    { text: 'Planter Questions', link: '/examples/PlanterQuestions' },
     { text: '2k of Beta', link: '/examples/2kBeta' },
   ]
 }

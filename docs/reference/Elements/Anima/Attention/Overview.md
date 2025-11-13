@@ -7,7 +7,7 @@
 
 PlantingCycle
 
-[Hole, Instrument, Plantor, Tree, Plantor, Instrument]
+[Hole, Instrument, Planter, Tree, Planter, Instrument]
 
 ---
 

@@ -7,7 +7,7 @@
 
 - Openness
     - Open Source
-    - Anyone can be a plantor
+    - Anyone can be a Planter
 - Kindness
     - "the quality of being generous, helpful, and caring about other people"
     - No crusty vet
@@ -191,7 +191,7 @@ Betaglot too
 
 Custom Ikon
 
-Plantors have access to all the ElementGroupIkons
+Planters have access to all the ElementGroupIkons
 
 Groups of Animons
 
@@ -209,7 +209,7 @@ Groups of Animons
 ### Purpose(Ikon)
 
 - Visual Search
-- For plantors to use the Ikons
+- For Planters to use the Ikons
 - Each Ikon can be easily handwritten, since electronics don't do well in extreme weather, in terms of breaking and in UX. You can't easily view a screen in summer sun, or rain, definitely not in snow.
 
 The ElementGroups are aliased as Ikons.

@@ -37,7 +37,7 @@ Aliases: Tree, Neophyte, Seedling
 - TreeLibrary_TreeAnatomy_Stem_Collar
 - TreeLibrary_TreeBoxDesign_PRT_TreeBoxSize
 
-- TreeLibrary_TreeIdentification_AccessApp_PlantorTesting
+- TreeLibrary_TreeIdentification_AccessApp_PlanterTesting
 - TreeLibrary_TreeIdentification_BarkType_BarkColor
 - TreeLibrary_TreeIdentification_BarkType_BarkScale
 - TreeLibrary*TreeIdentification_ConeForm_PineTree_CloseUpView*

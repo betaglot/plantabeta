@@ -90,7 +90,7 @@ Aliases: Work, Job, Task
 - Who
     - Routesetters experience Labor
     - Coaches experience Labor
-    - Plantors
+    - Planters
 
 - "Like it's your job"
 - How to make money

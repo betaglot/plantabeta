@@ -3,30 +3,30 @@
 - Increase decrease density gestures when yelling is too difficult
 - Pull up slow to reduce the momentum of dust cloud
 - taping
-- Plantor drop off sequence
-- Plantor drop off with the minimum cache to get started and
-- Plantor pick up sequence
+- Planter drop off sequence
+- Planter drop off with the minimum cache to get started and
+- Planter pick up sequence
 - flag bag shovel at every drop off
 - break down boxes
 - rock on flatyened boxes
-- when to KappaPlantor
+- when to KappaPlanter
     - block close
 - music selection
     - bpm
 - sit in truck
 - fill plant flag boundary
-- predict boundaries that plantors will mess up
+- predict boundaries that Planters will mess up
 - specs
     - say ratio slowly
     - number before species
 - flag bag shovel finish time at moring drop off
-- Kappa puts on plantors bags to demonstrate something
+- Kappa puts on Planters bags to demonstrate something
 - maps in dropbox
 - fold tarps using creases
 - pothole via
 - sit in truck when cold
     - when to kick out
-- moving plantors stuff when migrating cache
+- moving Planters stuff when migrating cache
 - cache migration
 - cache immigration
 - cache emigration
@@ -41,8 +41,8 @@
 - remind to download map in the morning while still in service
 - guide for maneuvering truck. Use room left hand split
 - leaving truck idling
-- ting your spade to get a plantors attention to avoid startling them. A ting a long distance away could only be a human and a ting closer to you is more startling than a ting a long distance away. People can tell how close a sound is, how? Weave in akademia, implicate akademia, Betaglot is a braid of opinion and objectivity
-- how to give feedback for polyplantor
+- ting your spade to get a Planters attention to avoid startling them. A ting a long distance away could only be a human and a ting closer to you is more startling than a ting a long distance away. People can tell how close a sound is, how? Weave in akademia, implicate akademia, Betaglot is a braid of opinion and objectivity
+- how to give feedback for polyPlanter
 - i just want you to see what I'm seeing
 - spotter for truck
 - Ting your Spade to get someone's attention
@@ -50,7 +50,7 @@
     - Homogeneous crew mixture
     - Heterogeneous crew mix
 - Take a picture to point out landmarks
-- Take trees from plantor to bump up density
+- Take trees from Planter to bump up density
 - Demonstrate protector planting instead of just telling to hit more obstacles. ClassicStyle. HamelinsRazor?
 - extra laces
 - test hitch by lifting the trailer up by cranking the supporting wheel. To ensure that the hitch doesn't pop off while driving

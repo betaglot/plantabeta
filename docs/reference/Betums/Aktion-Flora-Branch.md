@@ -17,7 +17,7 @@ aside: false
     - Branch is compressed between ThumbDistalPhalanx and IntermediatePhalanges or ProximalPhalanges of IndexFinger and MiddleFinger
 - BranchPull
     - Pull up on to maintain Balance
-        - Like how coaches support kids on balance beams Analogy({Coach: Kid, Branch: Plantor})
+        - Like how coaches support kids on balance beams Analogy({Coach: Kid, Branch: Planter})
         - Branch must be vertical or of a small tree. Pulling up on a long branch won't do anything
 - BranchPush
 - BranchSpring

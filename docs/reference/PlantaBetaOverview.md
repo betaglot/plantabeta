@@ -37,7 +37,7 @@ sidebar: false
 [BETASequence](https://docs.python.org/3/library/stdtypes.html#sequence-types-list-tuple-range)
 
 - TeamPut() is BETA
-- You don't need BETA to be a TreePlantor. BETA is just a Wrapper for communication. It's an API, an Interface between you and your coworkers.
+- You don't need BETA to be a TreePlanter. BETA is just a Wrapper for communication. It's an API, an Interface between you and your coworkers.
 - Use Code snippets to write abbreviated names to insert Tags or ElementName
 
 - Independent Modules
@@ -68,7 +68,7 @@ BETA can be a description or an instruction
 - "BETA.BETAQuestion"
 - "BETA.Overview"
 
-- VIA just gives the options, BETA is required to Solve, since solution requires MOTON. BETA occurs when more than module is required in 1stPersonPoint of view. Plantor's perspective.
+- VIA just gives the options, BETA is required to Solve, since solution requires MOTON. BETA occurs when more than module is required in 1stPersonPoint of view. Planter's perspective.
 
 - BETAglot is the Parent Organization of PlantaBeta and KlimBeta
     - BETAGLOT.org is the Website
