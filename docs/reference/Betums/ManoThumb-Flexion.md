@@ -1,4 +1,4 @@
-# ⭐Thumb🟠Flexion
+# [Thumb,Flexion]
 
 ---
 

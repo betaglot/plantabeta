@@ -1,27 +1,23 @@
 <template>
-    <v-sheet rounded="xl" border="primary lg" class="mx-auto mt-4">
+    <v-sheet rounded="xl" border="primary lg" class="mt-4 pa-4">
         <v-container class="text-h2 font-weight-bold ">
     
-            <v-row class="" v-if="l"><span>⭐</span><span class="labon pl-2">{{ l }}</span><span v-if="l && (s || e || v || m || a)" class="plantabeta">,</span></v-row>
-            <v-row class="pt-1" v-if="s"><span>🔷</span><span class="somon pl-2">{{ s }}</span><span v-if="s && (e || v || m || a)" class="plantabeta">,</span></v-row>
-            <v-row class="pt-1" v-if="e"><span>🟩</span><span class="ekon pl-2" >{{ e }}</span><span v-if="e && (v || m || a)" class="plantabeta">,</span></v-row>
-            <v-row class="pt-1" v-if="v"><span>🔻</span><span class="vion pl-2" >{{ v }}</span><span v-if="v && (m || a)" class="plantabeta">,</span></v-row>
-            <v-row class="pt-1" v-if="m"><span>🟠</span><span class="moton pl-2" >{{ m }}</span><span v-if="m && a" class="plantabeta">,</span></v-row>
-            <v-row class="pt-1" v-if="a"><span>💜</span><span class="animon pl-2" >{{ a }}</span></v-row>
+            <v-row v-if="b.l"><span>⭐</span><span class="labon pl-2">{{ b.l }}</span></v-row>
+            <v-row v-if="b.s"><span class="mt-2">🔷</span><span class="somon pl-2">{{ b.s }}</span></v-row>
+            <v-row v-if="b.e"><span class="mt-2">🟩</span><span class="ekon pl-2" >{{ b.e }}</span></v-row>
+            <v-row v-if="b.v"><span class="mt-2">🔻</span><span class="vion pl-2" >{{ b.v }}</span></v-row>
+            <v-row v-if="b.m"><span class="mt-2">🟠</span><span class="moton pl-2" >{{ b.m }}</span></v-row>
+            <v-row  v-if="b.a"><span class="mt-2">💜</span><span class="animon pl-2" >{{ b.a }}</span></v-row>
             
         </v-container>
     </v-sheet>
+ 
 </template>
   
 <script setup>
-  const props = defineProps({
-    l: String,
-    s: String,
-    e: String,
-    v: String,
-    m: String,
-    a: String
-  })
+const props = defineProps({
+  b: Object
+})
   
   
   // Use the config to make a JSON of all the Betum and their links, 
@@ -36,6 +32,25 @@
 </script>
   
 <style>
+betumTitleContainer{
+  display:flex;
+  overflow:hidden;
+}
+
+.betumChip {
+  overflow-x: auto;
+  border: solid;
+  border-width: 1px;
+  border-color: white;
+  border-radius: 6px;
+  padding-left: 4px;
+  padding-right: 4px;
+  white-space: nowrap;
+}
+
+.betumChip::-webkit-scrollbar {
+  display: none;
+}
 .labon {
 
   color: #FFCC00;
