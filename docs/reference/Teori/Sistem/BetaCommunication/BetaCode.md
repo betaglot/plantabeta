@@ -46,7 +46,7 @@ GlobalEko: OverhangWall
 
 ## Calling
 
-EKOS Elements methods can call other ElementGroups
+EKOS Elements methods can call other Faktors
 
 ## Execution Sequence
 

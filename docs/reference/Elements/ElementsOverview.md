@@ -1,10 +1,10 @@
 # <div class="text-h1 text-center"><beta>ELEMENTs</beta></div>
 
 <script setup>
-import ElementGroupGrid from '/vue/ElementsOverview_Grid.vue';
+import FaktorGrid from '/vue/ElementsOverview_Grid.vue';
 </script>
 
-<ElementGroupGrid/>
+<FaktorGrid/>
 ---
 
 <!-- =================================================== -->

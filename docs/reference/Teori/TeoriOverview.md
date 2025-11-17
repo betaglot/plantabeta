@@ -3,14 +3,14 @@ aside: false
 ---
 
 <script setup>
-import ElementGroupCarousel from '/vue/ElementGroupCarousel.vue'
+import FaktorCarousel from '/vue/FaktorCarousel.vue'
 import BTitle from '/vue/BTitle.vue'
 </script>
 
 # <div class="d-flex justify-center text-h1">TEORI</div>
 
 <div class="my-16">
-    <BTitle class="my-16" link="/PlantaBeta/Teori/Sistem/SistemOverview">Sistem</BTitle>
+    <BTitle class="my-16" link="/PlantaBeta/Teori/System/SystemOverview">System</BTitle>
 </div>
 
 The system
@@ -19,7 +19,7 @@ The system
     <BTitle  link="/PlantaBeta/Teori/Elements/ElementsOverview">Element Groups</BTitle>
 </div>
 
-<ElementGroupCarousel />
+<FaktorCarousel />
 
 <div class="my-16">
     <BTitle link="/PlantaBeta/Teori/Beta/BetaOverview">🌈<beta>BETA</beta></BTitle>

@@ -279,7 +279,7 @@ On the streets, on campus, in airports, in public transit
     - Apex of SpadeSlam is TrampBeta while Spade impact is DiveBeta. SpadeSwing is RingsBeta. Legs are doing DanceBeta Foutette at Slam. Apex to move body and to counteract any offbalancing forces from SpadeSwing
 - Compulsory Elements
     - The superclass of Elements is Apparatus since most elements. Apparatus is an Ekon.
-    - ElementGraph is not just MOTON, nodes can be any of the ElementGroups. Ekon branches down into ANIMA or move
+    - ElementGraph is not just MOTON, nodes can be any of the Faktors. Ekon branches down into ANIMA or move
 - CheerBeta see Dallas Cowboys Cheerleaders
 - (BetaQuotient)InsteadOf(BetaIndex,BETAMETRON)
 :::

@@ -1,6 +1,6 @@
 # Sequence
 
-The Sequences of each ElementGroups
+The Sequences of each Faktors
 
 🌈:Sequence is composed of Moments
 ⭐:

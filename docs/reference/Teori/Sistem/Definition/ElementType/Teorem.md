@@ -1,6 +1,6 @@
 # THEOREMA
 
-<!-- This page explains what a theorem is. The actual list of theorems are within each ElementGroup Section in the Referencia -->
+<!-- This page explains what a theorem is. The actual list of theorems are within each Faktor Section in the Referencia -->
 
 ## Proof
 

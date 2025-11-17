@@ -1,6 +1,6 @@
 # PROBLEMA
 
-<!-- This page explains what a problem is. The actual list of problems are within each ElementGroup Section in the Referencia -->
+<!-- This page explains what a problem is. The actual list of problems are within each Faktor Section in the Referencia -->
 
 > a task, that which is proposed, a question
 ---

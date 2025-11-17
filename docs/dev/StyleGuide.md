@@ -160,7 +160,7 @@ Periods
 
 Ikons are only used to represent Objects or Functions.
 
-### (ElementGroupName + BetaIkon)
+### (FaktorName + BetaIkon)
 
 Initials like ByrneEuklid
 
@@ -212,7 +212,7 @@ Groups of Animons
 - For Planters to use the Ikons
 - Each Ikon can be easily handwritten, since electronics don't do well in extreme weather, in terms of breaking and in UX. You can't easily view a screen in summer sun, or rain, definitely not in snow.
 
-The ElementGroups are aliased as Ikons.
+The Faktors are aliased as Ikons.
 
 ::: tip ?
 When is it useful for Ikons to be monochrome outlines?

@@ -2,7 +2,7 @@
 
 ## <beta>BetaAnalogy</beta>
 
-## ElementGroups
+## Faktors
 
 🔻<via>VIA</via>, 🟩<ekos>EKOS</ekos>, 🟠<motor>MOVE</motor>
 

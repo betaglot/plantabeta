@@ -28,7 +28,7 @@ See Wolfram Euclid for graphs of dependencies. All dependencies are represented 
 
 Teknik is a quantity, not a quality.
 
-Proportional to the number of Elements of any ElementGroup.
+Proportional to the number of Elements of any Faktor.
 
 For example:
 

@@ -6,7 +6,7 @@ Atributs and Metods are not Elements
 
 A method can be a Problem
 
-## Elements of each ElementGroup
+## Elements of each Faktor
 
 - 🌈<beta>BETUM</beta>
 - ⭐<labor>LABOR</labor>

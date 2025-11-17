@@ -8,14 +8,14 @@ import BIkon from '/vue/BIkon.vue'
 
 # VDev
 
-<BIkon elementGroup="via"></BIkon>
-<BIkon elementGroup="via"></BIkon>
+<BIkon Faktor="via"></BIkon>
+<BIkon Faktor="via"></BIkon>
 
-<BChip elementGroupName="motor">Ama</BChip>
-<BChip elementGroupName="labor">Spade</BChip>
-<BChip elementGroupName="via">Over</BChip>
-<BChip elementGroupName="ekos">Stump</BChip>
-<BChip elementGroupName="soma">Brazo</BChip>
-<BChip elementGroupName="anima">Memory</BChip>
+<BChip FaktorName="motor">Ama</BChip>
+<BChip FaktorName="labor">Spade</BChip>
+<BChip FaktorName="via">Over</BChip>
+<BChip FaktorName="ekos">Stump</BChip>
+<BChip FaktorName="soma">Brazo</BChip>
+<BChip FaktorName="anima">Memory</BChip>
 
 ...

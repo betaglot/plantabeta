@@ -157,13 +157,13 @@ Knowing what a HeelHook looks like is not the same thing as knowing how to perfo
 
 At a different scope, *'HeelHooks can be used to traverse a ledge'* is a Teorem which itself is not an Element. Unless, like Python, everything is an Object (all objects are classes), so *'HeelHooks can be used to traverse a ledge'* is an class. If each unqiue combination of Elements is a class, then there are millions of unqiue classes in SISTEM. Each class would be contained in a database table.
 
-<beta>*'HeelHooks can be used to traverse a ledge'*</beta> is a BetaStatement composed of instances of Elements from multiple ElementGroups:
+<beta>*'HeelHooks can be used to traverse a ledge'*</beta> is a BetaStatement composed of instances of Elements from multiple Faktors:
 
 - 🟠<motor>HeelHook</motor>
 - 🔻<via>Traverse</via>
 - 🟩<ekos>Ledge</ekos>
 
-BetaStatements are not Elements, only the Statements of ElementGroups can be Elements.
+BetaStatements are not Elements, only the Statements of Faktors can be Elements.
 
 BetaStatements which haven't been proven true are Hypotheses. Proven Hypotheses are Teorems.
 
@@ -188,7 +188,7 @@ Knowledge of Geometry is assumed.
 - Book4 is MOTON requires direction(VIA)
     - Physik.Mechanics
 
-- Book5 is Beta requires ElementGroups(ANIMA, EKOS, VIA, MOTOR)
+- Book5 is Beta requires Faktors(ANIMA, EKOS, VIA, MOTOR)
 
 ## Pose
 

@@ -104,7 +104,7 @@ source,relationshipType,target
 
 ### Skema_RadialTree_Growth
 
-The outer ring of DendroChart is a combination of ElementGroups
+The outer ring of DendroChart is a combination of Faktors
 
 ---
 

@@ -119,7 +119,7 @@ DashedCurve
 - "Dev.Element.ElementDiagram.Scale"
 - "Dev.Element.ElementDiagram.Symbols"
 - "Dev.Element.ElementFrequency"
-- "Dev.Element.ElementGroup"
+- "Dev.Element.Faktor"
 - "Dev.Element.ElementPage"
 - "Dev.Element.ElementPictogram"
 - "Dev.Element.ElementAttributes"

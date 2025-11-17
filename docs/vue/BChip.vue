@@ -1,12 +1,12 @@
 <template>
-    <v-chip :class=elementGroupName>
-        {{ elementGroupName }} {{ elementGroupName }}
+    <v-chip :class=FaktorName>
+        {{ FaktorName }} {{ FaktorName }}
     </v-chip>
 </template>
 
 <script setup>
 const props = defineProps({
-    elementGroupName: String
+    FaktorName: String
 })
 
 </script>

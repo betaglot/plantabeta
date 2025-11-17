@@ -1,3 +1,3 @@
 # <beta>TIPOS</beta>
 
-> the ElementGroup that this Element belongs to
+> the Faktor that this Element belongs to
