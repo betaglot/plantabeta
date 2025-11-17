@@ -1,7 +1,7 @@
 ---
 aside: false
 ---
-# <py>[RepairThread,Knot]</py>
+# [RepairThread,Knot]
 
 ---
 

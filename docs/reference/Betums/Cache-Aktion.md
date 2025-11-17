@@ -1,7 +1,7 @@
 ---
 aside: false
 ---
-# <py>[Cache,MOTON]</py>
+# [Cache,MOTON]
 
 ## What is a Cache?
 

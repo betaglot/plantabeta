@@ -1,7 +1,7 @@
 ---
 aside: false
 ---
-# <py>[Doru-Bump]</py>
+# [Doru-Bump]
 
 ---
 

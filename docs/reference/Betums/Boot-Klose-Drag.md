@@ -1,7 +1,7 @@
 ---
 aside: false
 ---
-# <py>[Boot,DragKlose]</py>
+# [Boot,DragKlose]
 
 ---
 

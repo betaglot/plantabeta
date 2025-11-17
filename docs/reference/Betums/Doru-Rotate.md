@@ -1,7 +1,7 @@
 ---
 aside: false
 ---
-# <py>[Doru-Rotate]</py>
+# [Doru-Rotate]
 
 ---
 

@@ -1,7 +1,7 @@
 ---
 aside: false
 ---
-# <py>[Periderm,Takt]</py>
+# [Periderm,Takt]
 
 ---
 

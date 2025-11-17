@@ -1,10 +1,10 @@
 <script setup>
-import ElementGroupIkon from '/vue/ElementGroupIkon.vue'
+import FaktorIkon from '/vue/FaktorIkon.vue'
 </script>
 
 # <div class="d-flex justify-center text-h1"><motor>MOTOR</motor></div>
 
-<ElementGroupIkon imageSource='/Ikon/Motor_Ikon.png' />
+<FaktorIkon imageSource='/Ikon/Motor_Ikon.png' />
 
 ## What is <motor>MOTOR?</motor>
 

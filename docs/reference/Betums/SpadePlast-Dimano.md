@@ -1,7 +1,7 @@
 ---
 aside: false
 ---
-# <py>[Plast,Dimano]</py>
+# [Plast,Dimano]
 
 > Gripping the Spade Plast with both hands
 

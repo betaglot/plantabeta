@@ -1,7 +1,7 @@
 ---
 aside: false
 ---
-# <py>[Spade-Neonektomi]</py>
+# [Spade-Neonektomi]
 
 ---
 

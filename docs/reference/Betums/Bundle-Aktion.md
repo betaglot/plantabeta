@@ -1,7 +1,7 @@
 ---
 aside: false
 ---
-# <py>[Bundle,MOTON]</py>
+# [Bundle,MOTON]
 
 ---
 

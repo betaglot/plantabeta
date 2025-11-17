@@ -1,7 +1,7 @@
 ---
 aside: false
 ---
-# <py>[MicrositeKlose]</py>
+# [MicrositeKlose]
 
 Aliases: HoleClose
 

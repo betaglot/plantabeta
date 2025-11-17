@@ -1,7 +1,7 @@
 ---
 aside: false
 ---
-# <py>[BoxConstruct]</py>
+# [BoxConstruct]
 
 ---
 

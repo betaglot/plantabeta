@@ -1,7 +1,7 @@
 ---
 aside: false
 ---
-# <py>[PebbleSoil,Takt]</py>
+# [PebbleSoil,Takt]
 
 ---
 

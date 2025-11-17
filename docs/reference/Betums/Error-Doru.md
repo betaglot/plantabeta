@@ -1,7 +1,7 @@
 ---
 aside: false
 ---
-# <py>[Doru-❌<error>Error</error>]</py>
+# [Doru-❌<error>Error</error>]
 
 ---
 

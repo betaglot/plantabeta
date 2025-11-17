@@ -1,7 +1,7 @@
 ---
 aside: false
 ---
-# <py>[Marka,MOTON]</py>
+# [Marka,MOTON]
 
 ## MarkaPut
 

@@ -1,7 +1,7 @@
 ---
 aside: false
 ---
-# <py>[Poales,Takt]</py>
+# [Poales,Takt]
 
 ---
 

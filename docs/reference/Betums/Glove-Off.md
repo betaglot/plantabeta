@@ -1,7 +1,7 @@
 ---
 aside: false
 ---
-# <py>[Glove,Off]</py>
+# [Glove,Off]
 
 ---
 

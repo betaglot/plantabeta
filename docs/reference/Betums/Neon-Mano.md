@@ -1,7 +1,7 @@
 ---
 aside: false
 ---
-# <py>[Neon,Mano]</py>
+# [Neon,Mano]
 
 ## NeonMano Purpose
 

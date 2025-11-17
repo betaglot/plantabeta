@@ -1,7 +1,7 @@
 ---
 aside: false
 ---
-# <py>[Kit,MOTON]</py>
+# [Kit,MOTON]
 
 AlsoKnownAs(CacheBag)
 

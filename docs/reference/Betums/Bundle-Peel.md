@@ -1,7 +1,7 @@
 ---
 aside: false
 ---
-# <py>[Bundle,Peel]</py>
+# [Bundle,Peel]
 
 ---
 

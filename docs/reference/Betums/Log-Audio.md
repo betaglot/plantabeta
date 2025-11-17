@@ -1,7 +1,7 @@
 ---
 aside: false
 ---
-# <py>[Log,Audio]</py>
+# [Log,Audio]
 
 ---
 

@@ -1,7 +1,7 @@
 ---
 aside: false
 ---
-# <py>[Layer🟠Allo]</py>
+# [Layer🟠Allo]
 
 ---
 

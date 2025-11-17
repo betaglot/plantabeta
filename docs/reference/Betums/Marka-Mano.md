@@ -1,7 +1,7 @@
 ---
 aside: false
 ---
-# <py>[Marka-Mano]</py>
+# [Marka-Mano]
 
 ---
 

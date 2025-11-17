@@ -1,7 +1,7 @@
 ---
 aside: false
 ---
-# <py>[Strap,Kontakt]</py>
+# [Strap,Kontakt]
 
 ---
 

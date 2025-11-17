@@ -1,7 +1,7 @@
 ---
 aside: false
 ---
-# <py>[Layer,MOTON]</py>
+# [Layer,MOTON]
 
 ---
 

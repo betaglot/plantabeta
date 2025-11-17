@@ -1,7 +1,7 @@
 ---
 aside: false
 ---
-# <py>[Microsite,Select]</py>
+# [Microsite,Select]
 
 ---
 

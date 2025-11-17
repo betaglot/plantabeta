@@ -1,10 +1,10 @@
 <script setup>
-import ElementGroupIkon from '/vue/ElementGroupIkon.vue'
+import FaktorIkon from '/vue/FaktorIkon.vue'
 </script>
 
 # <div class="d-flex justify-center text-h1"><soma>SOMA</soma></div>
 
-<ElementGroupIkon imageSource='/Ikon/Soma_Ikon.png' />
+<FaktorIkon imageSource='/Ikon/Soma_Ikon.png' />
 
 ## What is <soma>SOMA</soma>?
 

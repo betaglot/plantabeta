@@ -1,4 +1,4 @@
-# <py>[EKON,Audio]</py>
+# [EKON,Audio]
 
 ---
 

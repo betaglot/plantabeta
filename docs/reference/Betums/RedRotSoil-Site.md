@@ -1,7 +1,7 @@
 ---
 aside: false
 ---
-# <py>[RedRotSoil,Takt]</py>
+# [RedRotSoil,Takt]
 
 ---
 

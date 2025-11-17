@@ -1,10 +1,10 @@
 <script setup>
-import ElementGroupIkon from '/vue/ElementGroupIkon.vue'
+import FaktorIkon from '/vue/FaktorIkon.vue'
 </script>
 
 # <div class="d-flex justify-center text-h1"><ekos>EKOS</ekos></div>
 
-<ElementGroupIkon imageSource='/Ikon/Ekos_Ikon.png' />
+<FaktorIkon imageSource='/Ikon/Ekos_Ikon.png' />
 
 ## What is <ekos>EKOS</ekos>?
 

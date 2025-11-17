@@ -1,7 +1,7 @@
 ---
 aside: false
 ---
-# <py>[Xilem,Takt]</py>
+# [Xilem,Takt]
 
 ---
 

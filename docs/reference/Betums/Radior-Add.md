@@ -1,7 +1,7 @@
 ---
 aside: false
 ---
-# <py>[Radior,On]</py>
+# [Radior,On]
 
 ---
 

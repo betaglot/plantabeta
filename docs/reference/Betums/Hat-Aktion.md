@@ -1,7 +1,7 @@
 ---
 aside: false
 ---
-# <py>[Hat,MOTON]</py>
+# [Hat,MOTON]
 
 ---
 

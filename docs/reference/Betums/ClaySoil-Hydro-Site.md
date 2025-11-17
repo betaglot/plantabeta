@@ -1,7 +1,7 @@
 ---
 aside: false
 ---
-# <py>[CobbleSoilHidro,Takt]</py>
+# [ClaySoilHydro,Takt]
 
 ---
 

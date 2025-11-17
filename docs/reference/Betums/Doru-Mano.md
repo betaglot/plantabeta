@@ -1,7 +1,7 @@
 ---
 aside: false
 ---
-# <py>[Doru-Mano]</py>
+# [Doru-Mano]
 
 ---
 

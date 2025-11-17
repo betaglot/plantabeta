@@ -1,7 +1,7 @@
 ---
 aside: false
 ---
-# <py>[Neon,Load]</py>
+# [Neon,Load]
 
 ## GetTree.Error
 

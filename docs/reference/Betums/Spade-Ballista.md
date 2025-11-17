@@ -1,7 +1,7 @@
 ---
 aside: false
 ---
-# <py>[SpadeBallista]</py>
+# [SpadeBallista]
 
 - The FinishMOTON of SpadeBallista is SpadePost
 

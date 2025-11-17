@@ -1,7 +1,7 @@
 ---
 aside: false
 ---
-# <py>[Log,Launch]</py>
+# [Log,Launch]
 
 > Launch a Log away from microsite with your leg
 

@@ -1,7 +1,7 @@
 ---
 aside: false
 ---
-# <py>[Box,MOTON]</py>
+# [Box,MOTON]
 
 🔻BoxHandle is the main Contact of Box.
 

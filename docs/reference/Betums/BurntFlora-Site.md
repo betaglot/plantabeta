@@ -1,7 +1,7 @@
 ---
 aside: false
 ---
-# <py>[BurntFlora,Takt]</py>
+# [BurntFlora,Takt]
 
 ---
 

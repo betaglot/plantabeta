@@ -1,7 +1,7 @@
 ---
 aside: false
 ---
-# <py>[Kit,On]</py>
+# [Kit,On]
 
 ---
 

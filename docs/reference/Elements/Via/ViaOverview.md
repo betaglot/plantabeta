@@ -1,10 +1,10 @@
 <script setup>
-import ElementGroupIkon from '/vue/ElementGroupIkon.vue'
+import FaktorIkon from '/vue/FaktorIkon.vue'
 </script>
 
 # <div class="d-flex justify-center text-h1"><via>VIA</via></div>
 
-<ElementGroupIkon imageSource='/Ikon/Via_Ikon.png' />
+<FaktorIkon imageSource='/Ikon/Via_Ikon.png' />
 
 ## <via>What is VIA ?</via>
 

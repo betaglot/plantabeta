@@ -1,7 +1,7 @@
 ---
 aside: false
 ---
-# <py>[Spade,Aspis]</py>
+# [Spade,Aspis]
 
 > Block flora using the SpadeCollar
 

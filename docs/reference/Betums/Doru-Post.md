@@ -1,7 +1,7 @@
 ---
 aside: false
 ---
-# <py>[Doru-Post]</py>
+# [Doru-Post]
 
 - Post Doru when setting up or returning to cache for easier grabbing with full bags. No bend and easier Find(Spade)
 

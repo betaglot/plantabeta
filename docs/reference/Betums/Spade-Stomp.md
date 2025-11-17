@@ -1,7 +1,7 @@
 ---
 aside: false
 ---
-# <py>[Spade,Stall]</py>
+# [Spade,Stall]
 
 ---
 

@@ -1,7 +1,7 @@
 ---
 aside: false
 ---
-# <py>[Box-<error>Error</error>]</py>
+# [Box-<error>Error</error>]
 
 ---
 

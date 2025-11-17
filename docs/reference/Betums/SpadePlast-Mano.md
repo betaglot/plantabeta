@@ -1,7 +1,7 @@
 ---
 aside: false
 ---
-# <py>[Plast,Mano]</py>
+# [Plast,Mano]
 
 ---
 

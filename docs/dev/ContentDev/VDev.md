@@ -1,6 +1,6 @@
 <script setup>
 import NewVue from '/vue/NewVue.vue'
-import ElementGroupIkon from '/vue/ElementGroupIkon.vue'
+import FaktorIkon from '/vue/FaktorIkon.vue'
 import BChip from '/vue/BChip.vue'
 import BIkon from '/vue/BIkon.vue'
 

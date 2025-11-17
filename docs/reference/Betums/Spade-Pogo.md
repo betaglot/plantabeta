@@ -1,7 +1,7 @@
 ---
 aside: false
 ---
-# <py>[Spade-Pogo]</py>
+# [Spade-Pogo]
 
 ---
 

@@ -1,10 +1,10 @@
 <script setup>
-import ElementGroupIkon from '/vue/ElementGroupIkon.vue'
+import FaktorIkon from '/vue/FaktorIkon.vue'
 </script>
 
 # <div class="d-flex justify-center text-h1"><anima>ANIMA</anima></div>
 
-<ElementGroupIkon imageSource='/Ikon/Anima_Ikon.png' />
+<FaktorIkon imageSource='/Ikon/Anima_Ikon.png' />
 
 ## What is <anima>ANIMA</anima>?
 

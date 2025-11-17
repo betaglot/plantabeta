@@ -1,7 +1,7 @@
 ---
 aside: false
 ---
-# <py>[Spade,AlloMano]</py>
+# [Spade,AlloMano]
 
 Aliases: Hand Swap, Hand Switch
 

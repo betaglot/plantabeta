@@ -1,8 +1,11 @@
 <template>
-  <a class="text-decoration-none" :href=imageLink>
-    <v-container class="d-flex justify-center" >
+  <a class="text-decoration-none"
+     :href=imageLink>
+    <v-container class="d-flex justify-center">
       <v-img class="rounded-xl"
              cover
+             max-height="400"
+             max-width="400"
              :src=imageSource></v-img>
     </v-container>
   </a>

@@ -1,7 +1,7 @@
 ---
 aside: false
 ---
-# <py>[Spade,Audio]</py>
+# [Spade,Audio]
 
 ---
 

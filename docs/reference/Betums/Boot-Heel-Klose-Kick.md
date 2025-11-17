@@ -1,7 +1,7 @@
 ---
 aside: false
 ---
-# <py>[BootHeel,KickKlose]</py>
+# [BootHeel,KickKlose]
 
 ---
 

@@ -1,7 +1,7 @@
 ---
 aside: false
 ---
-# <py>[Lace,Adjust]</py>
+# [Lace,Adjust]
 
 ---
 

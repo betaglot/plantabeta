@@ -1,7 +1,7 @@
 ---
 aside: false
 ---
-# <py>[Doru-Skreef]</py>
+# [Doru-Skreef]
 
 ---
 

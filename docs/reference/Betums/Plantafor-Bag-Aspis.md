@@ -1,7 +1,7 @@
 ---
 aside: false
 ---
-# <py>[Bag,Aspis]</py>
+# [Bag,Aspis]
 
 ---
 

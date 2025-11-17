@@ -1,7 +1,7 @@
 ---
 aside: false
 ---
-# <py>[Flora,Slot]</py>
+# [Flora,Slot]
 
 > Passing through a cluster of Flora
 

@@ -1,7 +1,7 @@
 ---
 aside: false
 ---
-# <py>[Prep,Trench]</py>
+# [Prep,Trench]
 
 ---
 

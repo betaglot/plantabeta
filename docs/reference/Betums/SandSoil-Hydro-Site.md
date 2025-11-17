@@ -1,7 +1,4 @@
----
-aside: false
----
-# <py>[BoulderSoilHidro,Takt]</py>
+# [SandSoil.Hydro,Takt]
 
 ---
 

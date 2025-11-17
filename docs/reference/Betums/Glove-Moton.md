@@ -1,7 +1,7 @@
 ---
 aside: false
 ---
-# <py>[Glove,MOTON]</py>
+# [Glove,MOTON]
 
 ## Glove.Anatomy
 

@@ -1,7 +1,7 @@
 ---
 aside: false
 ---
-# <py>[Prep,Mound]</py>
+# [Prep,Mound]
 
 ## Mounding Error
 

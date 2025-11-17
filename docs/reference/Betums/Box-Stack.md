@@ -1,7 +1,7 @@
 ---
 aside: false
 ---
-# <py>[Box,Stack]</py>
+# [Box,Stack]
 
 ---
 

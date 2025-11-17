@@ -1,7 +1,7 @@
 ---
 aside: false
 ---
-# <py>[Cache,❌<error>Error</error>]</py>
+# [Cache,❌<error>Error</error>]
 
 ---
 

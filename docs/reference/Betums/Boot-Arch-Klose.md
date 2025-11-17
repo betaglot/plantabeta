@@ -1,7 +1,7 @@
 ---
 aside: false
 ---
-# <py>[BootArch,Klose]</py>
+# [BootArch,Klose]
 
 ---
 

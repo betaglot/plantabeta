@@ -1,7 +1,7 @@
 ---
 aside: false
 ---
-# <py>[Microsite,Mark]</py>
+# [Microsite,Mark]
 
 Aliases: Flagging your tree
 

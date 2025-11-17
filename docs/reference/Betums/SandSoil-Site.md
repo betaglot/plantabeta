@@ -1,7 +1,7 @@
 ---
 aside: false
 ---
-# <py>[SandSoil,Takt]</py>
+# [SandSoil,Takt]
 
 ---
 

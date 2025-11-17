@@ -1,7 +1,7 @@
 ---
 aside: false
 ---
-# <py>[Branch,Snap]</py>
+# [Branch,Snap]
 
 ---
 

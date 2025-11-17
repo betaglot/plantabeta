@@ -2,7 +2,7 @@
 aside: false
 ---
 
-# <py>[Spade,Skreef]</py>
+# [Spade,Skreef]
 
 <BT
     l='Spade'

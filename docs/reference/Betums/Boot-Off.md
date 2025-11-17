@@ -1,7 +1,7 @@
 ---
 aside: false
 ---
-# <py>[Boot,Off]</py>
+# [Boot,Off]
 
 ---
 

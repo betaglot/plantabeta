@@ -1,7 +1,7 @@
 ---
 aside: false
 ---
-# <py>[Karabiner,Off]</py>
+# [Karabiner,Off]
 
 ---
 

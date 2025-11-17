@@ -1,7 +1,7 @@
 ---
 aside: false
 ---
-# <py>[Doru-Prop]</py>
+# [Doru-Prop]
 
 ---
 

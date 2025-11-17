@@ -1,7 +1,7 @@
 ---
 aside: false
 ---
-# <py>[Bag,Kontakt]</py>
+# [Bag,Kontakt]
 
 ---
 

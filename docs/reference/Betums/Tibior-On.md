@@ -1,7 +1,7 @@
 ---
 aside: false
 ---
-# <py>[Tibior,Off]</py>
+# [Tibior,Off]
 
 ---
 

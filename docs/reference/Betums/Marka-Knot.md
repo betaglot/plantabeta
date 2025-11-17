@@ -1,7 +1,7 @@
 ---
 aside: false
 ---
-# <py>[MarkaKnot]</py>
+# [MarkaKnot]
 
 ## MarkaBowtie
 

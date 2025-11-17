@@ -1,7 +1,7 @@
 ---
 aside: false
 ---
-# <py>[Bottle,Clean]</py>
+# [Bottle,Clean]
 
 ---
 

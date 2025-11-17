@@ -1,7 +1,7 @@
 ---
 aside: false
 ---
-# <py>[Box,Lock]</py>
+# [Box,Lock]
 
 ---
 

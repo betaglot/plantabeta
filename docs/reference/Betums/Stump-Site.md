@@ -1,7 +1,7 @@
 ---
 aside: false
 ---
-# <py>[Stump,Takt]</py>
+# [Stump,Takt]
 
 ---
 

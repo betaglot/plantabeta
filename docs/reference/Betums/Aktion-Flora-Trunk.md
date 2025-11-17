@@ -1,7 +1,7 @@
 ---
 aside: false
 ---
-# <py>[FloraTrunk,MOTON]</py>
+# [FloraTrunk,MOTON]
 
 ---
 

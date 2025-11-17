@@ -1,4 +1,7 @@
-# <py>[SandSoilHidro,Takt]</py>
+---
+aside: false
+---
+# [PebbleSoil,Hydro,Takt]
 
 ---
 

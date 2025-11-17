@@ -1,7 +1,7 @@
 ---
 aside: false
 ---
-# <py>[Spade-Rotate]</py>
+# [Spade-Rotate]
 
 ---
 

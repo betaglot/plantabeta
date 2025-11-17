@@ -1,7 +1,7 @@
 ---
 aside: false
 ---
-# <py>[InsulationLayer,MOTON]</py>
+# [InsulationLayer,MOTON]
 
 ---
 

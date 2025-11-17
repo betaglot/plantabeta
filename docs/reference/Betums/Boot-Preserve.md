@@ -1,7 +1,7 @@
 ---
 aside: false
 ---
-# <py>[Boot,Preserve]</py>
+# [Boot,Preserve]
 
 ---
 

@@ -1,7 +1,7 @@
 ---
 aside: false
 ---
-# <py>[Instrument,Repair]</py>
+# [Instrument,Repair]
 
 Temporary Repair until you can have your Instruments repaired by a professional.
 

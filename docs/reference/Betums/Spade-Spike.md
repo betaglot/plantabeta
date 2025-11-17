@@ -1,7 +1,7 @@
 ---
 aside: false
 ---
-# <py>[Spade-Spike]</py>
+# [Spade-Spike]
 
 Aliases: SpadeSlam, SpadeThrow, SpadeChop
 

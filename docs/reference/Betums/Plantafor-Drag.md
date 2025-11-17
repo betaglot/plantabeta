@@ -1,7 +1,7 @@
 ---
 aside: false
 ---
-# <py>[PlantaforDrag]</py>
+# [PlantaforDrag]
 
 ---
 

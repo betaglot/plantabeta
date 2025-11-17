@@ -1,7 +1,7 @@
 ---
 aside: false
 ---
-# <py>[PoalesHidro,Takt]</py>
+# [BryophyteHidro,Takt]
 
 ---
 

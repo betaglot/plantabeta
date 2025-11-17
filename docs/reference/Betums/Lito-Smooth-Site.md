@@ -1,7 +1,7 @@
 ---
 aside: false
 ---
-# <py>[LitoSmooth,Takt]</py>
+# [LitoSmooth,Takt]
 
 ---
 

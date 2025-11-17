@@ -1,7 +1,7 @@
 ---
 aside: false
 ---
-# <py>[Plantafor,MOTON]</py>
+# [Plantafor,MOTON]
 
 Aliases: Planting Bags
 

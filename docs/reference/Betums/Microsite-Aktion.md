@@ -1,7 +1,7 @@
 ---
 aside: false
 ---
-# <py>[Microsite,MOTON]</py>
+# [Microsite,MOTON]
 
 ## Sit.Anatomy
 

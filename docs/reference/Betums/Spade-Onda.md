@@ -1,7 +1,7 @@
 ---
 aside: false
 ---
-# <py>[Spade,Onda]</py>
+# [Spade,Onda]
 
 Aliases: SpadeSwing
 

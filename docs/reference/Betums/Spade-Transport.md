@@ -1,7 +1,7 @@
 ---
 aside: false
 ---
-# <py>[Spade,Transport]</py>
+# [Spade,Transport]
 
 > Carrying a Spade when you're not using it to plant
 

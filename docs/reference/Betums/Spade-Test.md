@@ -1,7 +1,7 @@
 ---
 aside: false
 ---
-# <py>[Spade-Test]</py>
+# [Spade-Test]
 
 ---
 

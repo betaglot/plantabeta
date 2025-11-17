@@ -1,7 +1,7 @@
 ---
 aside: false
 ---
-# <py>[Doru-Transfer]</py>
+# [Doru-Transfer]
 
 ---
 

@@ -1,7 +1,7 @@
 ---
 aside: false
 ---
-# <py>[Doru-Anchor]</py>
+# [Doru-Anchor]
 
 ---
 

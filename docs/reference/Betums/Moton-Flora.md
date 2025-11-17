@@ -1,7 +1,7 @@
 ---
 aside: false
 ---
-# <py>[Flora,MOTON]</py>
+# [Flora,MOTON]
 
 ## FloraMOTON.Anatomy
 

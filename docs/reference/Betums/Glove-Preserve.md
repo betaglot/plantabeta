@@ -1,7 +1,7 @@
 ---
 aside: false
 ---
-# <py>[GlovePreserve]</py>
+# [GlovePreserve]
 
 ---
 

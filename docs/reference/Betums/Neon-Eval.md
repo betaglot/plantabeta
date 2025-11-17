@@ -1,7 +1,7 @@
 ---
 aside: false
 ---
-# <py>[Neon,Eval]</py>
+# [Neon,Eval]
 
 ---
 

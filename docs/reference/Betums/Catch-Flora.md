@@ -1,7 +1,7 @@
 ---
 aside: false
 ---
-# <py>[Flora,Catch]</py>
+# [Flora,Catch]
 
 > Grab vegetation before colliding with it
 

@@ -1,7 +1,7 @@
 ---
 aside: false
 ---
-# <py>[Microsite,Skreef]</py>
+# [Microsite,Skreef]
 
 ## Skreef.Anatomy
 

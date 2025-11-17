@@ -1,7 +1,7 @@
 ---
 aside: false
 ---
-# <py>[Tarp,On]</py>
+# [Tarp,On]
 
 ---
 

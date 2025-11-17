@@ -1,7 +1,7 @@
 ---
 aside: false
 ---
-# <py>[Leaf,Takt]</py>
+# [Leaf,Takt]
 
 ---
 

@@ -1,7 +1,7 @@
 ---
 aside: false
 ---
-# <py>[Flora,Deflection]</py>
+# [Flora,Deflection]
 
 > Use a FloraParry to redirect flora which is colliding with you.  
 

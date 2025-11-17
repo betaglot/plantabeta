@@ -2,7 +2,7 @@
 aside: false
 ---
 
-# <py>[BaseLayer,MOTON]</py>
+# [BaseLayer,MOTON]
 
 ---
 

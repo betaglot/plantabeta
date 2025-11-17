@@ -1,7 +1,7 @@
 ---
 aside: false
 ---
-# <py>[Marka,Load]</py>
+# [Marka,Load]
 
 ---
 

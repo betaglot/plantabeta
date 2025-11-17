@@ -1,11 +1,11 @@
 ---
 aside: false
 ---
-# <py>[Layer,🟠MOTON]</py>
+# [Layer,🟠MOTON]
 
-## <py>[Layer,🟠On]</py>
+## [Layer,🟠On]
 
-## <py>[Layer,🟠Off]</py>
+## [Layer,🟠Off]
 
 - Roll up your back bag layer to shell from water and dirt
 

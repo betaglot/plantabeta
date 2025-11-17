@@ -1,7 +1,7 @@
 ---
 aside: false
 ---
-# <py>[Spade,Purga]</py>
+# [Spade,Purga]
 
 Aliases: Spade Clean, Spade Purge
 

@@ -1,7 +1,7 @@
 ---
 aside: false
 ---
-# <py>[BootToe,KickKlose]</py>
+# [BootToe,KickKlose]
 
 ---
 

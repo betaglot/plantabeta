@@ -1,7 +1,7 @@
 ---
 aside: false
 ---
-# <py>[Spade-MuscleUp]</py>
+# [Spade-MuscleUp]
 
 ---
 

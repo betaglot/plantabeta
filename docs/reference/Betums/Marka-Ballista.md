@@ -1,7 +1,7 @@
 ---
 aside: false
 ---
-# <py>[Marka,Ballista]</py>
+# [Marka,Ballista]
 
 ---
 

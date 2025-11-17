@@ -1,7 +1,7 @@
 ---
 aside: false
 ---
-# <py>[Plantafor,Transport]</py>
+# [Plantafor,Transport]
 
 ---
 

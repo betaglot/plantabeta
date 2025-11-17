@@ -1,7 +1,7 @@
 ---
 aside: false
 ---
-# <py>[Boot-<error>Error</error>]</py>
+# [Boot-<error>Error</error>]
 
 ---
 

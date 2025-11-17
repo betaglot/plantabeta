@@ -1,7 +1,7 @@
 ---
 aside: false
 ---
-# <py>[Slash,Audio]</py>
+# [Slash,Audio]
 
 ## Falling
 

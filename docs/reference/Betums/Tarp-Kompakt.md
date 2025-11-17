@@ -1,7 +1,7 @@
 ---
 aside: false
 ---
-# <py>[Tarp,Kompakt]</py>
+# [Tarp,Kompakt]
 
 ---
 

@@ -1,7 +1,7 @@
 ---
 aside: false
 ---
-# <py>[Cream,Soil]</py>
+# [Cream,Soil]
 
 ---
 

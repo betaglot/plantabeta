@@ -1,7 +1,7 @@
 ---
 aside: false
 ---
-# <py>[Div,Density]</py>
+# [Div,Density]
 
 ---
 

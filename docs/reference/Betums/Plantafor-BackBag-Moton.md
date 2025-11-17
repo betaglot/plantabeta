@@ -1,7 +1,7 @@
 ---
 aside: false
 ---
-# <py>[BackBag,MOTON]</py>
+# [BackBag,MOTON]
 
 ---
 

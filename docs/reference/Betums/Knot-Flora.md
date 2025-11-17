@@ -1,7 +1,7 @@
 ---
 aside: false
 ---
-# <py>[Flora,Knot]</py>
+# [Flora,Knot]
 
 ---
 

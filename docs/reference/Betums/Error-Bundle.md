@@ -1,7 +1,7 @@
 ---
 aside: false
 ---
-# <py>[Bundle,Error]</py>
+# [Bundle,Error]
 
 ---
 

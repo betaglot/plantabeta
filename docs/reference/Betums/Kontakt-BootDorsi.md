@@ -1,7 +1,7 @@
 ---
 aside: false
 ---
-# <py>[BootDorsi,Kontakt]</py>
+# [BootDorsi,Kontakt]
 
 ---
 

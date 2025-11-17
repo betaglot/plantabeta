@@ -1,7 +1,7 @@
 ---
 aside: false
 ---
-# <py>[Spade,Amble]</py>
+# [Spade,Amble]
 
 ## Attributes
 
