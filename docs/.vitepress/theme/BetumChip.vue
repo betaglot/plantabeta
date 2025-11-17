@@ -51,6 +51,7 @@ const props = defineProps({
 .betumChip::-webkit-scrollbar {
   display: none;
 }
+
 .labon {
 
   color: #FFCC00;

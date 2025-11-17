@@ -212,7 +212,7 @@ function sidebarElements() {
           text: '⭐<labor>Tasks</labor>', link: '/reference/Elements/Labor/Tasks/Overview', collapsed: true, items: [
             { text: '<labor>Piece</labor>', link: '/reference/Elements/Labor/Tasks/Piece' },
             {
-              text: '⭐<labor>Aktions</labor>', link: '/reference/Elements/Labor/Tasks/Aktions/Overview', collapsed: true, items: [
+              text: '<labor>Aktions</labor>', link: '/reference/Elements/Labor/Tasks/Aktions/Overview', collapsed: true, items: [
                 { text: '<labor>Abduction</labor>', link: '/reference/Elements/Labor/Tasks/Aktions/Abduction' },
                 { text: '<labor>Absorb</labor>', link: '/reference/Elements/Labor/Tasks/Aktions/Absorb' },
                 { text: '<labor>Adduction</labor>', link: '/reference/Elements/Labor/Tasks/Aktions/Adduction' },
@@ -257,8 +257,6 @@ function sidebarElements() {
 
           ]
         },
-
-
         {
           text: '⭐<labor>Tools</labor>', link: '/reference/Elements/Labor/Tool/Overview', collapsed: true, items: [
             { text: '<labor>Boot</labor>', link: '/reference/Elements/Labor/Tool/Boot/Overview' },
@@ -279,7 +277,7 @@ function sidebarElements() {
           ]
         },
         {
-          text: '<labor>Performance</labor>', link: '', collapsed: true, items: [
+          text: '⭐<labor>Performance</labor>', link: '', collapsed: true, items: [
             { text: '<labor>Effectiveness</labor>', link: '' },
             { text: '<labor>Competition</labor>', link: '' },
             { text: '<labor>Difficulty</labor>', link: '' },
