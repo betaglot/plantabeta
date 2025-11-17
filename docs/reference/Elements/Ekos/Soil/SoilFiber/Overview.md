@@ -1,6 +1,4 @@
-# 🟩<ekos>RubbleSoil</ekos>
-
-> An accumulation of angular fragments having a diameter of 2-256 mm - [CanadianGov](https://sis.agr.gc.ca/cansis/taxa/cssc3/chpt18.html)
+# 🟩<ekos>Soil Fiber</ekos>
 
 ---
 

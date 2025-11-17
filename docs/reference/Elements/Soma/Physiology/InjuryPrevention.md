@@ -1,4 +1,4 @@
-# 🟩  <ekos>WetSoil</ekos>
+# 🔷<soma>Injury Prevention</soma>
 
 ---
 
@@ -9,8 +9,6 @@
 <!-- =================================================== -->
 ::: details 🛠
 
-- MudSoil, SloppySoil, BlackMuckSoil
-- (WetSoil != WetLand)
-- "Flood with water" instead of "Fill with water". "Fill" is a ReservedWord. ToReduceConfusion
+-
 
 :::

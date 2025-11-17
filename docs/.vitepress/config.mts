@@ -67,7 +67,7 @@ function nav() {
   return [
     {
       text: 'Guide',
-      link: 'guide/GuideOverview',
+      link: '/guide/What/WhatPlantaBeta',
       activeMatch: '/guide/'
     },
     {
@@ -211,52 +211,53 @@ function sidebarElements() {
         {
           text: '⭐<labor>Tasks</labor>', link: '/reference/Elements/Labor/Tasks/Overview', collapsed: true, items: [
             { text: '<labor>Piece</labor>', link: '/reference/Elements/Labor/Tasks/Piece' },
-            { text: '<labor>Specs</labor>', link: '/reference/Elements/Labor/Tasks/Specs' },
+            {
+              text: '⭐<labor>Aktions</labor>', link: '/reference/Elements/Labor/Tasks/Aktions/Overview', collapsed: true, items: [
+                { text: '<labor>Abduction</labor>', link: '/reference/Elements/Labor/Tasks/Aktions/Abduction' },
+                { text: '<labor>Absorb</labor>', link: '/reference/Elements/Labor/Tasks/Aktions/Absorb' },
+                { text: '<labor>Adduction</labor>', link: '/reference/Elements/Labor/Tasks/Aktions/Adduction' },
+                { text: '<labor>Adjust</labor>', link: '/reference/Elements/Labor/Tasks/Aktions/Adjust' },
+                { text: '<labor>Allo</labor>', link: '/reference/Elements/Labor/Tasks/Aktions/Allo' },
+                { text: '<labor>Ama</labor>', link: '/reference/Elements/Labor/Tasks/Aktions/Ama' },
+                { text: '<labor>Ankor</labor>', link: '/reference/Elements/Labor/Tasks/Aktions/Ankor' },
+                { text: '<labor>Catch</labor>', link: '/reference/Elements/Labor/Tasks/Aktions/Catch' },
+                { text: '<labor>Clean</labor>', link: '/reference/Elements/Labor/Tasks/Aktions/Clean' },
+                { text: '<labor>Crawl</labor>', link: '/reference/Elements/Labor/Tasks/Aktions/Crawl' },
+                { text: '<labor>Drag</labor>', link: '/reference/Elements/Labor/Tasks/Aktions/Drag' },
+                { text: '<labor>Drop</labor>', link: '/reference/Elements/Labor/Tasks/Aktions/Drop' },
+                { text: '<labor>Eval</labor>', link: '/reference/Elements/Labor/Tasks/Aktions/Eval' },
+                { text: '<labor>Fall</labor>', link: '/reference/Elements/Labor/Tasks/Aktions/Fall' },
+                { text: '<labor>Flexion</labor>', link: '/reference/Elements/Labor/Tasks/Aktions/Flexion' },
+                { text: '<labor>Hinge</labor>', link: '/reference/Elements/Labor/Tasks/Aktions/Hinge' },
+                { text: '<labor>Hook</labor>', link: '/reference/Elements/Labor/Tasks/Aktions/Hook' },
+                { text: '<labor>Insert</labor>', link: '/reference/Elements/Labor/Tasks/Aktions/Insert' },
+                { text: '<labor>Knot</labor>', link: '/reference/Elements/Labor/Tasks/Aktions/Knot' },
+                { text: '<labor>Kontakt</labor>', link: '/reference/Elements/Labor/Tasks/Aktions/Kontakt' },
+                { text: '<labor>Launch</labor>', link: '/reference/Elements/Labor/Tasks/Aktions/Launch' },
+                { text: '<labor>Lift</labor>', link: '/reference/Elements/Labor/Tasks/Aktions/Lift' },
+                { text: '<labor>Lock</labor>', link: '/reference/Elements/Labor/Tasks/Aktions/Lock' },
+                { text: '<labor>Onda</labor>', link: '/reference/Elements/Labor/Tasks/Aktions/Onda' },
+                { text: '<labor>Orbit</labor>', link: '/reference/Elements/Labor/Tasks/Aktions/Orbit' },
+                { text: '<labor>Overview</labor>', link: '/reference/Elements/Labor/Tasks/Aktions/Overview' },
+                { text: '<labor>Pop</labor>', link: '/reference/Elements/Labor/Tasks/Aktions/Pop' },
+                { text: '<labor>Preserve</labor>', link: '/reference/Elements/Labor/Tasks/Aktions/Preserve' },
+                { text: '<labor>Reach</labor>', link: '/reference/Elements/Labor/Tasks/Aktions/Reach' },
+                { text: '<labor>Rip</labor>', link: '/reference/Elements/Labor/Tasks/Aktions/Rip' },
+                { text: '<labor>Rotation</labor>', link: '/reference/Elements/Labor/Tasks/Aktions/Rotation' },
+                { text: '<labor>Slot</labor>', link: '/reference/Elements/Labor/Tasks/Aktions/Slot' },
+                { text: '<labor>Stack</labor>', link: '/reference/Elements/Labor/Tasks/Aktions/Stack' },
+                { text: '<labor>Stall</labor>', link: '/reference/Elements/Labor/Tasks/Aktions/Stall' },
+                { text: '<labor>Tangent</labor>', link: '/reference/Elements/Labor/Tasks/Aktions/Tangent' },
+                { text: '<labor>Toggle</labor>', link: '/reference/Elements/Labor/Tasks/Aktions/Toggle' },
+                { text: '<labor>Transport</labor>', link: '/reference/Elements/Labor/Tasks/Aktions/Transport' },
+                { text: '<labor>Whip</labor>', link: '/reference/Elements/Labor/Tasks/Aktions/Whip' },
+                { text: '<labor>Wrap</labor>', link: '/reference/Elements/Labor/Tasks/Aktions/Wrap' },
+              ]
+            },
+
           ]
         },
-        {
-          text: '⭐<labor>Aktions</labor>', link: '/reference/Elements/Labor/Aktions/Overview', collapsed: true, items: [
-            { text: '<labor>Abduction</labor>', link: '/reference/Elements/Labor/Aktions/Abduction' },
-            { text: '<labor>Absorb</labor>', link: '/reference/Elements/Labor/Aktions/Absorb' },
-            { text: '<labor>Adduction</labor>', link: '/reference/Elements/Labor/Aktions/Adduction' },
-            { text: '<labor>Adjust</labor>', link: '/reference/Elements/Labor/Aktions/Adjust' },
-            { text: '<labor>Allo</labor>', link: '/reference/Elements/Labor/Aktions/Allo' },
-            { text: '<labor>Ama</labor>', link: '/reference/Elements/Labor/Aktions/Ama' },
-            { text: '<labor>Ankor</labor>', link: '/reference/Elements/Labor/Aktions/Ankor' },
-            { text: '<labor>Catch</labor>', link: '/reference/Elements/Labor/Aktions/Catch' },
-            { text: '<labor>Clean</labor>', link: '/reference/Elements/Labor/Aktions/Clean' },
-            { text: '<labor>Crawl</labor>', link: '/reference/Elements/Labor/Aktions/Crawl' },
-            { text: '<labor>Drag</labor>', link: '/reference/Elements/Labor/Aktions/Drag' },
-            { text: '<labor>Drop</labor>', link: '/reference/Elements/Labor/Aktions/Drop' },
-            { text: '<labor>Eval</labor>', link: '/reference/Elements/Labor/Aktions/Eval' },
-            { text: '<labor>Fall</labor>', link: '/reference/Elements/Labor/Aktions/Fall' },
-            { text: '<labor>Flexion</labor>', link: '/reference/Elements/Labor/Aktions/Flexion' },
-            { text: '<labor>Hinge</labor>', link: '/reference/Elements/Labor/Aktions/Hinge' },
-            { text: '<labor>Hook</labor>', link: '/reference/Elements/Labor/Aktions/Hook' },
-            { text: '<labor>Insert</labor>', link: '/reference/Elements/Labor/Aktions/Insert' },
-            { text: '<labor>Knot</labor>', link: '/reference/Elements/Labor/Aktions/Knot' },
-            { text: '<labor>Kontakt</labor>', link: '/reference/Elements/Labor/Aktions/Kontakt' },
-            { text: '<labor>Launch</labor>', link: '/reference/Elements/Labor/Aktions/Launch' },
-            { text: '<labor>Lift</labor>', link: '/reference/Elements/Labor/Aktions/Lift' },
-            { text: '<labor>Lock</labor>', link: '/reference/Elements/Labor/Aktions/Lock' },
-            { text: '<labor>Onda</labor>', link: '/reference/Elements/Labor/Aktions/Onda' },
-            { text: '<labor>Orbit</labor>', link: '/reference/Elements/Labor/Aktions/Orbit' },
-            { text: '<labor>Overview</labor>', link: '/reference/Elements/Labor/Aktions/Overview' },
-            { text: '<labor>Pop</labor>', link: '/reference/Elements/Labor/Aktions/Pop' },
-            { text: '<labor>Preserve</labor>', link: '/reference/Elements/Labor/Aktions/Preserve' },
-            { text: '<labor>Reach</labor>', link: '/reference/Elements/Labor/Aktions/Reach' },
-            { text: '<labor>Rip</labor>', link: '/reference/Elements/Labor/Aktions/Rip' },
-            { text: '<labor>Rotation</labor>', link: '/reference/Elements/Labor/Aktions/Rotation' },
-            { text: '<labor>Slot</labor>', link: '/reference/Elements/Labor/Aktions/Slot' },
-            { text: '<labor>Stack</labor>', link: '/reference/Elements/Labor/Aktions/Stack' },
-            { text: '<labor>Stall</labor>', link: '/reference/Elements/Labor/Aktions/Stall' },
-            { text: '<labor>Tangent</labor>', link: '/reference/Elements/Labor/Aktions/Tangent' },
-            { text: '<labor>Toggle</labor>', link: '/reference/Elements/Labor/Aktions/Toggle' },
-            { text: '<labor>Transport</labor>', link: '/reference/Elements/Labor/Aktions/Transport' },
-            { text: '<labor>Whip</labor>', link: '/reference/Elements/Labor/Aktions/Whip' },
-            { text: '<labor>Wrap</labor>', link: '/reference/Elements/Labor/Aktions/Wrap' },
-          ]
-        },
+
 
         {
           text: '⭐<labor>Tools</labor>', link: '/reference/Elements/Labor/Tool/Overview', collapsed: true, items: [
@@ -275,6 +276,15 @@ function sidebarElements() {
             { text: '<labor>Rope</labor>', link: '/reference/Elements/Labor/Tool/Rope/Overview' },
             { text: '<labor>Spade</labor>', link: '/reference/Elements/Labor/Tool/Spade/Overview' },
             { text: '<labor>Tibior</labor>', link: '/reference/Elements/Labor/Tool/Tibior/Overview' },
+          ]
+        },
+        {
+          text: '<labor>Performance</labor>', link: '', collapsed: true, items: [
+            { text: '<labor>Effectiveness</labor>', link: '' },
+            { text: '<labor>Competition</labor>', link: '' },
+            { text: '<labor>Difficulty</labor>', link: '' },
+            { text: '<labor>Execution</labor>', link: '' },
+            { text: '<labor>Specs</labor>', link: '/reference/Elements/Labor/Tasks/Specs' },
           ]
         },
       ]
@@ -319,10 +329,11 @@ function sidebarElements() {
           ]
         },
         {
-          text: '🔷<soma>Muscle</soma>', link: '/reference/Elements/Soma/Muscle/Overview', collapsed: true, items: [
-            { text: '<soma>Endurance</soma>', link: '/reference/Elements/Soma/Muscle/Endurance' },
-            { text: '<soma>Limberness</soma>', link: '/reference/Elements/Soma/Muscle/Limberness' },
-            { text: '<soma>Strength</soma>', link: '/reference/Elements/Soma/Muscle/Strength' },
+          text: '🔷<soma>Physiology</soma>', link: '/reference/Elements/Soma/Physiology/Overview', collapsed: true, items: [
+            { text: '<soma>Endurance</soma>', link: '/reference/Elements/Soma/Physiology/Endurance' },
+            { text: '<soma>Limberness</soma>', link: '/reference/Elements/Soma/Physiology/Limberness' },
+            { text: '<soma>Strength</soma>', link: '/reference/Elements/Soma/Physiology/Strength' },
+            { text: 'Injury Prevention', link: '/reference/Elements/Soma/Physiology/InjuryPrevention' },
           ]
         },
         { text: '🔷<soma>Nutrition</soma>', link: '/reference/Elements/Soma/Nutrition/Overview', collapsed: true, items: [] },
@@ -336,7 +347,7 @@ function sidebarElements() {
       link: '/reference/Elements/Ekos/EkosOverview',
       items: [
         {
-          text: '<ekos>Atmosphere</ekos>', link: '/reference/Elements/Ekos/Atmosphere/Overview', collapsed: true, items: [
+          text: '🟩<ekos>Atmosphere</ekos>', link: '/reference/Elements/Ekos/Atmosphere/Overview', collapsed: true, items: [
             { text: '<ekos>AirTemperature</ekos>', link: '/reference/Elements/Ekos/Atmosphere/AirTemperature' },
             { text: '<ekos>Humidity</ekos>', link: '/reference/Elements/Ekos/Atmosphere/Humidity' },
             { text: '<ekos>Lightning</ekos>', link: '/reference/Elements/Ekos/Atmosphere/Lightning' },
@@ -344,7 +355,7 @@ function sidebarElements() {
           ]
         },
         {
-          text: '<ekos>Biosphere</ekos>', link: '/reference/Elements/Ekos/Biosphere/Overview', collapsed: true, items: [
+          text: '🟩<ekos>Biosphere</ekos>', link: '/reference/Elements/Ekos/Biosphere/Overview', collapsed: true, items: [
             {
               text: '<ekos>Animals</ekos>', link: '/reference/Elements/Ekos/Biosphere/Animals/Overview', collapsed: true, items: [
                 { text: '<ekos>Bird</ekos>', link: '/reference/Elements/Ekos/Biosphere/Animals/Bird' },
@@ -359,12 +370,31 @@ function sidebarElements() {
           ]
         },
         {
-          text: '<ekos>Hydrosphere</ekos>', link: '/reference/Elements/Ekos/Hydrosphere/Overview', collapsed: true, items: [
+          text: '🟩<ekos>Hydrosphere</ekos>', link: '/reference/Elements/Ekos/Hydrosphere/Overview', collapsed: true, items: [
 
           ]
         },
         {
-          text: '<ekos>Lithosphere</ekos>', link: '/reference/Elements/Ekos/Lithosphere/Overview', collapsed: true, items: [
+          text: '🟩<ekos>Lithosphere</ekos>', link: '/reference/Elements/Ekos/Lithosphere/Overview', collapsed: true, items: [
+          ]
+        },
+        {
+          text: '🟩<ekos>Soil</ekos>', link: '/reference/Elements/Ekos/Soil/Overview', collapsed: true, items: [
+            { text: '<ekos>Soil Size</ekos>', link: '/reference/Elements/Ekos/Soil/SoilSize/Overview', collapsed: true, items: [
+              { text: '<ekos>Clay</ekos>', link: '/reference/Elements/Ekos/Soil/SoilSize/ClaySoil' },
+              { text: '<ekos>Cobble</ekos>', link: '/reference/Elements/Ekos/Soil/SoilSize/CobbleSoil' },
+              { text: '<ekos>Pebble</ekos>', link: '/reference/Elements/Ekos/Soil/SoilSize/PebbleSoil' },
+              { text: '<ekos>Rubble</ekos>', link: '/reference/Elements/Ekos/Soil/SoilSize/RubbleSoil' },
+              { text: '<ekos>Sand</ekos>', link: '/reference/Elements/Ekos/Soil/SoilSize/SandSoil' },
+              { text: '<ekos>Silt</ekos>', link: '/reference/Elements/Ekos/Soil/SoilSize/SiltSoil' },
+            ]},
+            { text: '<ekos>Soil Fiber</ekos>', link: '/reference/Elements/Ekos/Soil/SoilFiber/Overview', collapsed: true, items: [
+              { text: '<ekos>Fibric</ekos>', link: '/reference/Elements/Ekos/Soil/SoilFiber/FibricSoil' },
+              { text: '<ekos>Humic</ekos>', link: '/reference/Elements/Ekos/Soil/SoilFiber/HumicSoil' },
+              { text: '<ekos>Mesic</ekos>', link: '/reference/Elements/Ekos/Soil/SoilFiber/MesicSoil' },
+              { text: '<ekos>RedRot (Woody)</ekos>', link: '/reference/Elements/Ekos/Soil/SoilFiber/WoodySoil' },
+
+            ]},
           ]
         },
         // {
@@ -378,16 +408,7 @@ function sidebarElements() {
       collapsed: true,
       link: '/reference/Elements/Via/ViaOverview',
       items: [
-        {
-          text: '🔻<via>Affordance</via>', link: '/reference/Elements/Via/Affordance/Overview', collapsed: true, items: [
-            { text: '<via>Constraint</via>', link: '/reference/Elements/Via/Affordance/Constraint/Overview', collapsed: true, items: [] },
-            { text: '<via>Dexterity</via>', link: '/reference/Elements/Via/Affordance/Dexterity/Overview', collapsed: true, items: [] },
-            { text: '<via>Limit</via>', link: '/reference/Elements/Via/Affordance/Limit/Overview', collapsed: true, items: [] },
-            { text: '<via>Probability</via>', link: '/reference/Elements/Via/Affordance/Probability/Overview', collapsed: true, items: [] },
-            { text: '<via>Site</via>', link: '/reference/Elements/Via/Affordance/Site/Overview', collapsed: true, items: [] },
 
-          ]
-        },
         {
           text: '🔻<via>Geometry</via>', link: '/reference/Elements/Via/Geometry/Overview', collapsed: true, items: [
             { text: '<via>Density</via>', link: '/reference/Elements/Via/Geometry/Density/Overview', collapsed: true, items: [] },
@@ -433,6 +454,19 @@ function sidebarElements() {
             { text: '<via>Conditional Logic</via>', link: '/reference/Elements/Via/Logic/ConditionalLogic/Overview', },
             { text: '<via>Propositional Logic</via>', link: '/reference/Elements/Via/Logic/PropositionalLogic/Overview', },
 
+          ]
+        },
+        {
+          text: '🔻<via>Probability</via>', link: '/reference/Elements/Via/Probability/Overview', collapsed: true, items: [
+            {
+              text: '<via>Affordance</via>', link: '/reference/Elements/Via/Probability/Affordance/Overview', collapsed: true, items: [
+                { text: '<via>Limit</via>', link: '/reference/Elements/Via/Probability/Affordance/Limit/Overview', collapsed: true, items: [] },
+                { text: '<via>Probability</via>', link: '/reference/Elements/Via/Probability/Affordance/Probability/Overview', collapsed: true, items: [] },
+                { text: '<via>Site</via>', link: '/reference/Elements/Via/Probability/Affordance/Site/Overview', collapsed: true, items: [] },
+              ]
+            },
+            { text: '<via>Constraint</via>', link: '/reference/Elements/Via/Probability/Constraint/Overview', collapsed: true, items: [] },
+            { text: '<via>Flexibility</via>', link: '/reference/Elements/Via/Probability/Flexibility/Overview', collapsed: true, items: [] },
           ]
         },
       ]

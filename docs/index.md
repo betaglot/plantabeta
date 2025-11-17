@@ -16,14 +16,12 @@ hero:
 
 ---
 
-<iframe class="youtube rounded-xl" src="https://www.youtube.com/embed/YkkFW0AKX6I?start=90" title="PlantaBeta_002: What is PlantaBeta?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe class="youtube rounded-xl mb-8" src="https://www.youtube.com/embed/YkkFW0AKX6I?start=90" title="PlantaBeta_002: What is PlantaBeta?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <HomeFooter/>
 
 <v-img class="rounded-xl" src="/Img-HomePage.png"></v-img>
 
-
 <script setup>
 import HomeFooter from '/vue/HomeFooter.vue'
 </script>
- 

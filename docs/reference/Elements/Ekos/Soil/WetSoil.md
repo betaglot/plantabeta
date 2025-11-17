@@ -1,12 +1,4 @@
-# 🟩  <ekos>RedRot</ekos>
-
-## When to abandon RedRot Site?
-
-If the redrot is skreefed to deeper than a blade then punch down if you don't hear or feel soil then abandon site
-
-## Dark RedRot
-
-## Wet RedRot
+# 🟩  <ekos>Wet Soil</ekos>
 
 ---
 
@@ -17,6 +9,8 @@ If the redrot is skreefed to deeper than a blade then punch down if you don't he
 <!-- =================================================== -->
 ::: details 🛠
 
-- There are no rocks in redrot
+- MudSoil, SloppySoil, BlackMuckSoil
+- (WetSoil != WetLand)
+- "Flood with water" instead of "Fill with water". "Fill" is a ReservedWord. ToReduceConfusion
 
 :::

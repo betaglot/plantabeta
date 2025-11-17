@@ -1,4 +1,4 @@
-# 🟩<ekos>IceSoil</ekos>
+# 🟩  <ekos>Mineral Soil</ekos>
 
 ---
 

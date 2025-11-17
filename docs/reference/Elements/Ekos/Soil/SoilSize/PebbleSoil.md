@@ -1,6 +1,6 @@
-# 🟩<ekos>BoulderSoil</ekos>
+# 🟩<ekos>Pebble Soil</ekos>
 
-> An accumulation of rounded particles greater than 256 mm in size. - [CanadianGov](https://sis.agr.gc.ca/cansis/taxa/cssc3/chpt18.html)
+> An accumulation of rounded particles having a diameter of 2-64 mm. - [CanadianGov](https://sis.agr.gc.ca/cansis/taxa/cssc3/chpt18.html)
 
 ---
 
