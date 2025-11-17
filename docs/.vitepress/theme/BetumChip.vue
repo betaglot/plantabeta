@@ -46,7 +46,6 @@ const props = defineProps({
   padding-left: 4px;
   padding-right: 4px;
   white-space: nowrap;
-  scroll-direction: horizontal;
 }
 
 .betumChip::-webkit-scrollbar {

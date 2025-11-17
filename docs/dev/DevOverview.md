@@ -40,6 +40,12 @@ Download Printable resources
 
 ## **&**
 
+<HorizontalScroll />
+
+<script setup>
+import HorizontalScroll from '/vue/HorizontalScroll.vue'
+</script>
+
 ---
 
 <!-- =================================================== -->
