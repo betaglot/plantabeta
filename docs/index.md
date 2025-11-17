@@ -14,14 +14,11 @@ hero:
       text: I'm new to PlantaBeta
       link: /guide/What/WhatPlantaBeta
 
-
-features:
-  - icon: 🙌
-    title: PlantaBeta is Free!
-    details: Click here to learn about Open Source Projects
-    link: https://opensource.com/resources/what-open-source
-  - icon: 🤔
-    title: Support PlantaBeta
-    details: Anything helps
-    link: https://patreon.com/plantabeta
 ---
+
+<HomeFooter/>
+
+<script setup>
+import HomeFooter from '/vue/HomeFooter.vue'
+</script>
+ 
