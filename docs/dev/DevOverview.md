@@ -26,8 +26,6 @@ Give feedback to PlantaBeta about what works and doesn't work well, what's uncle
 
 A list of questions which have come up during the design process and don't have a good answer yet.
 
-- [FieldNotes](/dev/Research/FieldNotes)
-
 ## Roadmap
 
 Directions for future developments.
@@ -39,12 +37,6 @@ Where can PlantaBeta lead.
 Download Printable resources
 
 ## **&**
-
-<HorizontalScroll />
-
-<script setup>
-import HorizontalScroll from '/vue/HorizontalScroll.vue'
-</script>
 
 ---
 
