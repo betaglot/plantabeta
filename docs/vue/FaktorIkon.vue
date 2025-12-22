@@ -2,7 +2,7 @@
   <a class="text-decoration-none"
      :href=imageLink>
     <v-container class="d-flex justify-center">
-      <v-img class="rounded-xl"
+      <v-img class="rounded-xl elevation-24"
              cover
              max-height="400"
              max-width="400"

@@ -1,6 +1,6 @@
 # 🟠 Amble
 
-![MOTONIkon](/Ikon/Motor_Ikon.png)
+![MOTONIkon](/Emblem/Motor-Emblem.png)
 
 ## Amble.Purpose
 
@@ -14,15 +14,15 @@ Small step on slab so nice Steadicam torso is difficult due to high complexity g
 
 Small step is less change between steps therefore less compensation each step
 
-Compensation is also less dynamic ie acceleration modulation is low. You don't need to monitor inframovement as much
+Compensation is also less dynamic ie acceleration modulation is low. You don't need to monitor as much
 
 Aim small miss small. Larger moves have larger potential for error
 
-## Subset of Ambleing
+## Subset of Ambling
 
 ### AmbleIn and AmbleOut
 
-- Ambleing while carrying all your gear. AmbleIn towards your cache
+- Ambling while carrying all your gear. AmbleIn towards your cache
 - AmbleIn occurs when the truck can't drop you off close to your cache.
 - Sometimes some of your gear will be brought by your supervisor on with an ATV or being carried.
     - Use case for a Cart
@@ -30,10 +30,10 @@ Aim small miss small. Larger moves have larger potential for error
 ### Deadwalk
 
 - How can Deadwalk become useful, probably for VIA.
-- Ambleing within a piece while **not** performing a planting Frase.
+- Ambling within a piece while **not** performing a planting Frase.
 - Deadwalks are required to Cover very oblong areas.
 
-## Amble.Metod
+## Amble.Metod()
 
 - LengthenStep() mid step Or ShortenStep()
 
@@ -55,7 +55,7 @@ Aim small miss small. Larger moves have larger potential for error
     - Shorten StrideLength during SlopeUpAmble or SlopeDownAmble
     - Shorten StrideLength on UnstableSlope
 - (ArmAmble + Amble) on SteepSlope
-- StompTest when LogAmbleing
+- StompTest when LogAmbling
 
 - "MOTON.BodyMOTON.Amble"
 

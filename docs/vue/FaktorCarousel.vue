@@ -3,28 +3,28 @@
               continuous>
         <v-window-item>
             <FaktorIkon imageLink="/PlantaBeta/Teori/Elements/Labor/LaborOverview"
-                              imageSource='/Ikon/Labor_Ikon.png' />
+                              imageSource='/Emblem/Labor-Emblem.png' />
         </v-window-item>
         <v-window-item>
             <FaktorIkon imageLink="/PlantaBeta/Teori/Elements/Soma/SomaOverview"
-                              imageSource='/Ikon/Soma_Ikon.png' />
+                              imageSource='/Emblem/Soma-Emblem.png' />
         </v-window-item>
 
         <v-window-item>
             <FaktorIkon imageLink="/PlantaBeta/Teori/Elements/Ekos/EkosOverview"
-                              imageSource='/Ikon/Ekos_Ikon.png' />
+                              imageSource='/Emblem/Ekos-Emblem.png' />
         </v-window-item>
         <v-window-item>
             <FaktorIkon imageLink="/PlantaBeta/Teori/Elements/Via/ViaOverview"
-                              imageSource='/Ikon/Via_Ikon.png' />
+                              imageSource='/Emblem/Via-Emblem.png' />
         </v-window-item>
         <v-window-item>
             <FaktorIkon imageLink="/PlantaBeta/Teori/Elements/Motor/MotorOverview"
-                              imageSource='/Ikon/Motor_Ikon.png' />
+                              imageSource='/Emblem/Motor-Emblem.png' />
         </v-window-item>
         <v-window-item>
             <FaktorIkon imageLink="/PlantaBeta/Teori/Elements/Anima/AnimaOverview"
-                              imageSource='/Ikon/Anima_Ikon.png' />
+                              imageSource='/Emblem/Anima-Emblem.png' />
 
         </v-window-item>
     </v-window>

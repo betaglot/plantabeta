@@ -1,4 +1,6 @@
-
+---
+search: false
+---
 # Art
 
 Art which represents Planting

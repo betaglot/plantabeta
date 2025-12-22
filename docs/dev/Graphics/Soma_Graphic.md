@@ -1,3 +1,6 @@
+---
+search: false
+---
 # 🔷<span class="soma">SomaGraphic</span>
 
 ---

@@ -1,4 +1,6 @@
-
+---
+search: false
+---
 # 🛠 Style Guide
 
 <https://developers.google.com/style>

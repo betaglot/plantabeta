@@ -1,5 +1,6 @@
 ---
 sidebar: false
+search: false
 ---
 
 # PlantaBeta Is Designed For You

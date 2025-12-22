@@ -4,7 +4,7 @@ import FaktorIkon from '/vue/FaktorIkon.vue'
 
 # <div class="d-flex justify-center text-h1"><span class="ekos">EKOS</span></div>
 
-<FaktorIkon imageSource='/Ikon/Ekos_Ikon.png' />
+<FaktorIkon imageSource='/Emblem/Ekos-Emblem.png' />
 
 ## What is <span class="ekos">EKOS</span>?
 

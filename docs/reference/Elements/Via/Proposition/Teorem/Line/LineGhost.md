@@ -1,6 +1,6 @@
 # 🔻 <span class="via">GhostLine</span>
 
-![ViaIkon](/Ikon/Via_Ikon.png)
+![ViaIkon](/Emblem/Via-Emblem.png)
 
 ---
 

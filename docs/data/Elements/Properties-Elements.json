@@ -149,6 +149,75 @@
             "elementQuote": []
         }
     },
+    "Amble": {
+        "elementEnglishName": "Amble",
+        "elementFaktor": "Labor",
+        "elementEmblem": "",
+        "elementID": "",
+        "elementTaxonomy": [
+            "Labor",
+            "Aktion",
+            "Amble"
+        ],
+        "elementAlias": [],
+        "elementDescription": "",
+        "elementBetanyms": [],
+        "elementInBetom": [],
+        "elementProfilePic": "",
+        "elementExample": {
+            "elementVideo": [],
+            "elementImage": [],
+            "elementQuote": []
+        }
+    },
+    "Aspis": {
+        "elementEnglishName": "Aspis",
+        "elementFaktor": "",
+        "elementEmblem": "",
+        "elementID": "",
+        "elementTaxonomy": [],
+        "elementDescription": "",
+        "elementBetanyms": [],
+        "elementInBetom": [],
+        "elementProfilePic": "",
+        "elementExample": {
+            "elementVideo": [],
+            "elementImage": [],
+            "elementQuote": []
+        }
+    },
+    "Ballista": {
+        "elementEnglishName": "Ballista",
+        "elementFaktor": "",
+        "elementEmblem": "",
+        "elementID": "",
+        "elementTaxonomy": [],
+        "elementDescription": "",
+        "elementBetanyms": [],
+        "elementInBetom": [],
+        "elementProfilePic": "",
+        "elementExample": {
+            "elementVideo": [],
+            "elementImage": [],
+            "elementQuote": []
+        }
+    },
+    "Construct": {
+        "elementEnglishName": "Construct",
+        "elementFaktor": "",
+        "elementEmblem": "",
+        "elementID": "",
+        "elementTaxonomy": [],
+        "elementDescription": "",
+        "elementBetanyms": [],
+        "elementInBetom": [],
+        "elementProfilePic": "",
+        "elementExample": {
+            "elementVideo": [],
+            "elementImage": [],
+            "elementQuote": []
+        }
+    },
     "Catch": {
         "elementEnglishName": "Catch",
         "elementFaktor": "Labor",
@@ -203,6 +272,22 @@
         ],
         "elementAlias": [],
         "elementDescription": "to move along on hands and knees or with your body stretched out along a surface",
+        "elementBetanyms": [],
+        "elementInBetom": [],
+        "elementProfilePic": "",
+        "elementExample": {
+            "elementVideo": [],
+            "elementImage": [],
+            "elementQuote": []
+        }
+    },
+    "Dig": {
+        "elementEnglishName": "Dig",
+        "elementFaktor": "",
+        "elementEmblem": "",
+        "elementID": "",
+        "elementTaxonomy": [],
+        "elementDescription": "",
         "elementBetanyms": [],
         "elementInBetom": [],
         "elementProfilePic": "",
@@ -338,27 +423,6 @@
             "elementQuote": []
         }
     },
-    "Suspend": {
-        "elementEnglishName": "Suspend",
-        "elementFaktor": "Labor",
-        "elementEmblem": "",
-        "elementID": "",
-        "elementTaxonomy": [
-            "Labor",
-            "Aktion",
-            "Suspend"
-        ],
-        "elementAlias": [],
-        "elementDescription": "to hang down from something",
-        "elementBetanyms": [],
-        "elementInBetom": [],
-        "elementProfilePic": "/Gifs/KlimBeta-000103_cropped.gif",
-        "elementExample": {
-            "elementVideo": [],
-            "elementImage": [],
-            "elementQuote": []
-        }
-    },
     "Insert": {
         "elementEnglishName": "Insert",
         "elementFaktor": "Labor",
@@ -371,6 +435,22 @@
         ],
         "elementAlias": [],
         "elementDescription": "to put something inside something else",
+        "elementBetanyms": [],
+        "elementInBetom": [],
+        "elementProfilePic": "",
+        "elementExample": {
+            "elementVideo": [],
+            "elementImage": [],
+            "elementQuote": []
+        }
+    },
+    "Klose": {
+        "elementEnglishName": "Klose",
+        "elementFaktor": "",
+        "elementEmblem": "",
+        "elementID": "",
+        "elementTaxonomy": [],
+        "elementDescription": "",
         "elementBetanyms": [],
         "elementInBetom": [],
         "elementProfilePic": "",
@@ -401,6 +481,38 @@
             "elementQuote": []
         }
     },
+    "Kompakt": {
+        "elementEnglishName": "Kompakt",
+        "elementFaktor": "",
+        "elementEmblem": "",
+        "elementID": "",
+        "elementTaxonomy": [],
+        "elementDescription": "",
+        "elementBetanyms": [],
+        "elementInBetom": [],
+        "elementProfilePic": "",
+        "elementExample": {
+            "elementVideo": [],
+            "elementImage": [],
+            "elementQuote": []
+        }
+    },
+    "Kompress": {
+        "elementEnglishName": "Kompress",
+        "elementFaktor": "",
+        "elementEmblem": "",
+        "elementID": "",
+        "elementTaxonomy": [],
+        "elementDescription": "",
+        "elementBetanyms": [],
+        "elementInBetom": [],
+        "elementProfilePic": "",
+        "elementExample": {
+            "elementVideo": [],
+            "elementImage": [],
+            "elementQuote": []
+        }
+    },
     "Kontakt": {
         "elementEnglishName": "Kontakt",
         "elementFaktor": "Labor",
@@ -422,6 +534,22 @@
             "elementQuote": []
         }
     },
+    "Launch": {
+        "elementEnglishName": "Launch",
+        "elementFaktor": "",
+        "elementEmblem": "",
+        "elementID": "",
+        "elementTaxonomy": [],
+        "elementDescription": "",
+        "elementBetanyms": [],
+        "elementInBetom": [],
+        "elementProfilePic": "",
+        "elementExample": {
+            "elementVideo": [],
+            "elementImage": [],
+            "elementQuote": []
+        }
+    },
     "Lift": {
         "elementEnglishName": "Lift",
         "elementFaktor": "Labor",
@@ -437,6 +565,22 @@
         "elementBetanyms": [],
         "elementInBetom": [],
         "elementProfilePic": "/Gifs/KlimBeta-000105_cropped.gif",
+        "elementExample": {
+            "elementVideo": [],
+            "elementImage": [],
+            "elementQuote": []
+        }
+    },
+    "Load": {
+        "elementEnglishName": "Load",
+        "elementFaktor": "",
+        "elementEmblem": "",
+        "elementID": "",
+        "elementTaxonomy": [],
+        "elementDescription": "",
+        "elementBetanyms": [],
+        "elementInBetom": [],
+        "elementProfilePic": "",
         "elementExample": {
             "elementVideo": [],
             "elementImage": [],
@@ -465,6 +609,22 @@
         "elementBetanyms": [],
         "elementInBetom": [],
         "elementProfilePic": "/Gifs/KlimBeta-000113_cropped.gif",
+        "elementExample": {
+            "elementVideo": [],
+            "elementImage": [],
+            "elementQuote": []
+        }
+    },
+    "Machete": {
+        "elementEnglishName": "Machete",
+        "elementFaktor": "",
+        "elementEmblem": "",
+        "elementID": "",
+        "elementTaxonomy": [],
+        "elementDescription": "",
+        "elementBetanyms": [],
+        "elementInBetom": [],
+        "elementProfilePic": "",
         "elementExample": {
             "elementVideo": [],
             "elementImage": [],
@@ -523,6 +683,22 @@
             "elementQuote": []
         }
     },
+    "Parry": {
+        "elementEnglishName": "Parry",
+        "elementFaktor": "",
+        "elementEmblem": "",
+        "elementID": "",
+        "elementTaxonomy": [],
+        "elementDescription": "",
+        "elementBetanyms": [],
+        "elementInBetom": [],
+        "elementProfilePic": "",
+        "elementExample": {
+            "elementVideo": [],
+            "elementImage": [],
+            "elementQuote": []
+        }
+    },
     "Pop": {
         "elementEnglishName": "Pop",
         "elementFaktor": "Labor",
@@ -563,6 +739,22 @@
         ],
         "elementInBetom": [],
         "elementProfilePic": "/Gifs/KlimBeta-000122_cropped.gif",
+        "elementExample": {
+            "elementVideo": [],
+            "elementImage": [],
+            "elementQuote": []
+        }
+    },
+    "Purga": {
+        "elementEnglishName": "Purga",
+        "elementFaktor": "",
+        "elementEmblem": "",
+        "elementID": "",
+        "elementTaxonomy": [],
+        "elementDescription": "",
+        "elementBetanyms": [],
+        "elementInBetom": [],
+        "elementProfilePic": "",
         "elementExample": {
             "elementVideo": [],
             "elementImage": [],
@@ -648,6 +840,59 @@
         "elementBetanyms": [],
         "elementInBetom": [],
         "elementProfilePic": "",
+        "elementExample": {
+            "elementVideo": [],
+            "elementImage": [],
+            "elementQuote": []
+        }
+    },
+    "Slam": {
+        "elementEnglishName": "Slam",
+        "elementFaktor": "",
+        "elementEmblem": "",
+        "elementID": "",
+        "elementTaxonomy": [],
+        "elementDescription": "",
+        "elementBetanyms": [],
+        "elementInBetom": [],
+        "elementProfilePic": "",
+        "elementExample": {
+            "elementVideo": [],
+            "elementImage": [],
+            "elementQuote": []
+        }
+    },
+    "Snap": {
+        "elementEnglishName": "Snap",
+        "elementFaktor": "",
+        "elementEmblem": "",
+        "elementID": "",
+        "elementTaxonomy": [],
+        "elementDescription": "",
+        "elementBetanyms": [],
+        "elementInBetom": [],
+        "elementProfilePic": "",
+        "elementExample": {
+            "elementVideo": [],
+            "elementImage": [],
+            "elementQuote": []
+        }
+    },
+    "Suspend": {
+        "elementEnglishName": "Suspend",
+        "elementFaktor": "Labor",
+        "elementEmblem": "",
+        "elementID": "",
+        "elementTaxonomy": [
+            "Labor",
+            "Aktion",
+            "Suspend"
+        ],
+        "elementAlias": [],
+        "elementDescription": "to hang down from something",
+        "elementBetanyms": [],
+        "elementInBetom": [],
+        "elementProfilePic": "/Gifs/KlimBeta-000103_cropped.gif",
         "elementExample": {
             "elementVideo": [],
             "elementImage": [],
@@ -888,6 +1133,38 @@
             "elementQuote": []
         }
     },
+    "Piece": {
+        "elementEnglishName": "Piece",
+        "elementFaktor": "",
+        "elementEmblem": "",
+        "elementID": "",
+        "elementTaxonomy": [],
+        "elementDescription": "",
+        "elementBetanyms": [],
+        "elementInBetom": [],
+        "elementProfilePic": "",
+        "elementExample": {
+            "elementVideo": [],
+            "elementImage": [],
+            "elementQuote": []
+        }
+    },
+    "Specs": {
+        "elementEnglishName": "Specs",
+        "elementFaktor": "",
+        "elementEmblem": "",
+        "elementID": "",
+        "elementTaxonomy": [],
+        "elementDescription": "",
+        "elementBetanyms": [],
+        "elementInBetom": [],
+        "elementProfilePic": "",
+        "elementExample": {
+            "elementVideo": [],
+            "elementImage": [],
+            "elementQuote": []
+        }
+    },
     "Difficulty": {
         "elementEnglishName": "Difficulty",
         "elementFaktor": "Labor",
@@ -1006,6 +1283,86 @@
         ],
         "elementAlias": [],
         "elementDescription": "an object or device which prevents a klimber from becoming injured from the impact of a fall",
+        "elementBetanyms": [],
+        "elementInBetom": [],
+        "elementProfilePic": "",
+        "elementExample": {
+            "elementVideo": [],
+            "elementImage": [],
+            "elementQuote": []
+        }
+    },
+    "Boot": {
+        "elementEnglishName": "Boot",
+        "elementFaktor": "",
+        "elementEmblem": "",
+        "elementID": "",
+        "elementTaxonomy": [],
+        "elementDescription": "",
+        "elementBetanyms": [],
+        "elementInBetom": [],
+        "elementProfilePic": "",
+        "elementExample": {
+            "elementVideo": [],
+            "elementImage": [],
+            "elementQuote": []
+        }
+    },
+    "Bottle": {
+        "elementEnglishName": "Bottle",
+        "elementFaktor": "",
+        "elementEmblem": "",
+        "elementID": "",
+        "elementTaxonomy": [],
+        "elementDescription": "",
+        "elementBetanyms": [],
+        "elementInBetom": [],
+        "elementProfilePic": "",
+        "elementExample": {
+            "elementVideo": [],
+            "elementImage": [],
+            "elementQuote": []
+        }
+    },
+    "Box": {
+        "elementEnglishName": "Box",
+        "elementFaktor": "",
+        "elementEmblem": "",
+        "elementID": "",
+        "elementTaxonomy": [],
+        "elementDescription": "",
+        "elementBetanyms": [],
+        "elementInBetom": [],
+        "elementProfilePic": "",
+        "elementExample": {
+            "elementVideo": [],
+            "elementImage": [],
+            "elementQuote": []
+        }
+    },
+    "Bundle": {
+        "elementEnglishName": "",
+        "elementFaktor": "",
+        "elementEmblem": "",
+        "elementID": "",
+        "elementTaxonomy": [],
+        "elementDescription": "",
+        "elementBetanyms": [],
+        "elementInBetom": [],
+        "elementProfilePic": "",
+        "elementExample": {
+            "elementVideo": [],
+            "elementImage": [],
+            "elementQuote": []
+        }
+    },
+    "Doru": {
+        "elementEnglishName": "Doru",
+        "elementFaktor": "",
+        "elementEmblem": "",
+        "elementID": "",
+        "elementTaxonomy": [],
+        "elementDescription": "",
         "elementBetanyms": [],
         "elementInBetom": [],
         "elementProfilePic": "",
@@ -1212,7 +1569,7 @@
             "elementQuote": []
         }
     },
-    "Carabiner": {
+    "Karabiner": {
         "elementEnglishName": "Carabiner",
         "elementFaktor": "Labor",
         "elementEmblem": "",
@@ -1480,6 +1837,120 @@
             "elementQuote": []
         }
     },
+    "Markum": {
+    "elementEnglishName": "Markum",
+    "elementFaktor": "",
+    "elementEmblem": "",
+    "elementID": "",
+    "elementTaxonomy": [],
+    "elementDescription": "",
+    "elementBetanyms": [],
+    "elementInBetom": [],
+    "elementProfilePic": "",
+    "elementExample": {
+    "elementVideo": [],
+    "elementImage": [],
+    "elementQuote": []
+    }
+    },
+    "Plantafor": {
+    "elementEnglishName": "Plantafor",
+    "elementFaktor": "",
+    "elementEmblem": "",
+    "elementID": "",
+    "elementTaxonomy": [],
+    "elementDescription": "",
+    "elementBetanyms": [],
+    "elementInBetom": [],
+    "elementProfilePic": "",
+    "elementExample": {
+    "elementVideo": [],
+    "elementImage": [],
+    "elementQuote": []
+    }
+    },
+    "PlotCord": {
+    "elementEnglishName": "Plot Cord",
+    "elementFaktor": "",
+    "elementEmblem": "",
+    "elementID": "",
+    "elementTaxonomy": [],
+    "elementDescription": "",
+    "elementBetanyms": [],
+    "elementInBetom": [],
+    "elementProfilePic": "",
+    "elementExample": {
+    "elementVideo": [],
+    "elementImage": [],
+    "elementQuote": []
+    }
+    },
+    "Radior": {
+    "elementEnglishName": "Radior",
+    "elementFaktor": "",
+    "elementEmblem": "",
+    "elementID": "",
+    "elementTaxonomy": [],
+    "elementDescription": "",
+    "elementBetanyms": [],
+    "elementInBetom": [],
+    "elementProfilePic": "",
+    "elementExample": {
+    "elementVideo": [],
+    "elementImage": [],
+    "elementQuote": []
+    }
+    },
+    "Repair": {
+    "elementEnglishName": "Repair",
+    "elementFaktor": "",
+    "elementEmblem": "",
+    "elementID": "",
+    "elementTaxonomy": [],
+    "elementDescription": "",
+    "elementBetanyms": [],
+    "elementInBetom": [],
+    "elementProfilePic": "",
+    "elementExample": {
+    "elementVideo": [],
+    "elementImage": [],
+    "elementQuote": []
+    }
+    },
+    
+    "Spade": {
+    "elementEnglishName": "Spade",
+    "elementFaktor": "",
+    "elementEmblem": "",
+    "elementID": "",
+    "elementTaxonomy": [],
+    "elementDescription": "",
+    "elementBetanyms": [],
+    "elementInBetom": [],
+    "elementProfilePic": "",
+    "elementExample": {
+    "elementVideo": [],
+    "elementImage": [],
+    "elementQuote": []
+    }
+    },
+    "Tibior": {
+    "elementEnglishName": "Tibior",
+    "elementFaktor": "",
+    "elementEmblem": "",
+    "elementID": "",
+    "elementTaxonomy": [],
+    "elementDescription": "",
+    "elementBetanyms": [],
+    "elementInBetom": [],
+    "elementProfilePic": "",
+    "elementExample": {
+    "elementVideo": [],
+    "elementImage": [],
+    "elementQuote": []
+    }
+    },
+    
     "Performance": {
         "elementEnglishName": "Performance",
         "elementFaktor": "Labor",
@@ -4728,7 +5199,7 @@
             "elementQuote": []
         }
     },
-    "Centripetal": {
+    "CentripetalForce": {
         "elementEnglishName": "Centripetal Force",
         "elementFaktor": "Motor",
         "elementID": "",
@@ -4748,7 +5219,7 @@
             "elementQuote": []
         }
     },
-    "Friction": {
+    "FrictionForce": {
         "elementEnglishName": "Friction",
         "elementFaktor": "Motor",
         "elementID": "",
@@ -4768,7 +5239,7 @@
             "elementQuote": []
         }
     },
-    "Gravity": {
+    "GravityForce": {
         "elementEnglishName": "Gravity",
         "elementFaktor": "Motor",
         "elementID": "",
@@ -4810,7 +5281,7 @@
             "elementQuote": []
         }
     },
-    "Tension": {
+    "TensionForce": {
         "elementEnglishName": "Tension",
         "elementFaktor": "Motor",
         "elementID": "",

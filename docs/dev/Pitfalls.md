@@ -1,3 +1,6 @@
+---
+search: false
+---
 # 🛠Pitfalls
 
 What not to do

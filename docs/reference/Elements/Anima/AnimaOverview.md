@@ -4,7 +4,7 @@ import FaktorIkon from '/vue/FaktorIkon.vue'
 
 # <div class="d-flex justify-center text-h1"><span class="anima">ANIMA</span></div>
 
-<FaktorIkon imageSource='/Ikon/Anima_Ikon.png' />
+<FaktorIkon imageSource='/Emblem/Anima-Emblem.png' />
 
 ## What is <span class="anima">ANIMA</span>?
 

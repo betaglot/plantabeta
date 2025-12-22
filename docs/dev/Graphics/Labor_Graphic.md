@@ -1,3 +1,6 @@
+---
+search: false
+---
 # ⭐<span class="labor">LaborGraphic</span>
 
 ---

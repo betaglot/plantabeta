@@ -1,3 +1,6 @@
+---
+search: false
+---
 # Marketing
 
 ::: tip

@@ -177,12 +177,12 @@ function sidebarGuide() {
       ]
     },
     {
-      text: 'Who are you?', collapsed: false, items: [
-        { text: 'Potential Planter', link: '/guide/Who/PotentialPlanter' },
-        { text: 'Novice Planter', link: '/guide/Who/NovicePlanter' },
-        { text: 'Veteran Planter', link: '/guide/Who/VeteranPlanter' },
-        { text: 'Supervisor', link: '/guide/Who/Supervisor' },
-        { text: 'Instructor', link: '/guide/Who/Instructor' }
+      text: 'Who is <span class="beta">PlantaBeta</span> designed for?', collapsed: false, items: [
+        { text: '<span class="labor">Potential Planter</span>', link: '/guide/Who/PotentialPlanter' },
+        { text: '<span class="labor">Novice Planter</span>', link: '/guide/Who/NovicePlanter' },
+        { text: '<span class="labor">Veteran Planter</span>', link: '/guide/Who/VeteranPlanter' },
+        { text: '<span class="labor">Supervisor</span>', link: '/guide/Who/Supervisor' },
+        { text: '<span class="labor">Instructor</span>', link: '/guide/Who/Instructor' }
       ]
     },
     { text: 'Go to Examples', link: '/examples/ExampleOverview' },

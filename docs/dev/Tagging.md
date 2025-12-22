@@ -1,4 +1,6 @@
-
+---
+search: false
+---
 # 🛠 Tagging
 
 Tag media with ElementNames

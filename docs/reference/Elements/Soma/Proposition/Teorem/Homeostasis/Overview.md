@@ -7,7 +7,7 @@ let elementName = ""
 
 # 🔷<span class="soma">Homeostasis</span>
 
-![Anima_Ikon](/Ikon/Anima_Ikon.png)
+![Anima_Ikon](/Emblem/Anima-Emblem.png)
 
 ---
 

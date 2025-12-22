@@ -1,3 +1,6 @@
+---
+search: false
+---
 # 🛠 UX Graphics
 
 Directory Structure [as a TreeView](https://d3js.org/what-is-d3#d3-is-a-low-level-Instrumentbox) on the Overview page of each Module

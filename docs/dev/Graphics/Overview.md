@@ -1,3 +1,6 @@
+---
+search: false
+---
 # 🛠 Graphics Overview
 
 All Diagrams are Graphics, but not all graphics are Diagrams. Graphics can be images, while diagrams must show how something functions.

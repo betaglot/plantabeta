@@ -1,3 +1,6 @@
+---
+search: false
+---
 # Attencide
 
 > The art of being wise is the art of knowing what to overlook.

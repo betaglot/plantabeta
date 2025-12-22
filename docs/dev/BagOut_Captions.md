@@ -1,3 +1,6 @@
+---
+search: false
+---
 # Captions
 
 ```json

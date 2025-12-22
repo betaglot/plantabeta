@@ -1,3 +1,6 @@
+---
+aside: false
+---
 # <div class="text-h2 text-center">ELEMENTs</div>
 
 <div class="text-h2 text-center">of</div>
@@ -12,8 +15,9 @@ import ElementsFilter from '/vue/ElementsFilter.vue';
 
 <FaktorGrid/>
 
+::: raw
 <ElementsFilter />
-
+:::
 ---
 
 <!-- =================================================== -->

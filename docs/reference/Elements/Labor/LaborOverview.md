@@ -4,7 +4,7 @@ import FaktorIkon from '/vue/FaktorIkon.vue'
 
 # <div class="d-flex justify-center text-h1"><span class="labor">LABOR</span></div>
 
-<FaktorIkon imageSource='/Ikon/Labor_Ikon.png' />
+<FaktorIkon imageSource='/Emblem/Labor-Emblem.png' />
 
 ## What is <span class="labor">LABOR</span>
 

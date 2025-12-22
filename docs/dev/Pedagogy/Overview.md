@@ -1,3 +1,6 @@
+---
+search: false
+---
 # Pedagogy
 
 Learn by recall instead of trial and error

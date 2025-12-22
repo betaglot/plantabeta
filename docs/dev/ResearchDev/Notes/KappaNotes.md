@@ -1,3 +1,6 @@
+---
+search: false
+---
 # KappaDev
 
 - Increase decrease density gestures when yelling is too difficult

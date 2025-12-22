@@ -1,3 +1,6 @@
+---
+search: false
+---
 # 🛠 DX Graphics
 
 ---

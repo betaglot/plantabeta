@@ -1,3 +1,6 @@
+---
+search: false
+---
 # YouDev
 
 1. Trim and Remove Audio

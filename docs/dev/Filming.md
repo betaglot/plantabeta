@@ -1,3 +1,6 @@
+---
+search: false
+---
 # Filming
 
 > record a Planter's experience with a camera

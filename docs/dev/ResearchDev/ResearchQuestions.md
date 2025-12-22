@@ -1,3 +1,6 @@
+---
+search: false
+---
 # 🛠 Research
 
 ## Questions about Planting and PlantaBeta

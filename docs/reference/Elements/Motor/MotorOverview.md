@@ -4,7 +4,7 @@ import FaktorIkon from '/vue/FaktorIkon.vue'
 
 # <div class="d-flex justify-center text-h1"><span class="motor">MOTOR</span></div>
 
-<FaktorIkon imageSource='/Ikon/Motor_Ikon.png' />
+<FaktorIkon imageSource='/Emblem/Motor-Emblem.png' />
 
 ## What is <span class="motor">MOTOR?</span>
 

@@ -7,6 +7,10 @@ let elementName = "CentripetalForce"
 
 # 🟠<span class="motor">Centripetal Force</span>
 
+<ElementTaxonomy :elementName="elementName" />
+
+<ElementInfo :elementName=elementName />
+
 ---
 
 <!-- =================================================== -->

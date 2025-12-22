@@ -1,3 +1,6 @@
+---
+search: false
+---
 # Offline
 
 How to make PlantaBeta available offline?

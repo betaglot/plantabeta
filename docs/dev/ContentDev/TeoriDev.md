@@ -1,3 +1,6 @@
+---
+search: false
+---
 # <dev>TeoriDev</dev>
 
 Find Pages for each Element

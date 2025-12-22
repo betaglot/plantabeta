@@ -1,3 +1,6 @@
+---
+search: false
+---
 # <dev>GuideDev</dev>
 
 Aliases: HowTo, Walkthrough

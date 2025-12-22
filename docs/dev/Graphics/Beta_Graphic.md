@@ -1,3 +1,6 @@
+---
+search: false
+---
 # 🛠 <beta>Beta Graphics</beta>
 
 ## BetaDiagram is a subset of BetaGraphic

@@ -1,4 +1,6 @@
-
+---
+search: false
+---
 # 🛠 Contact
 
 ::: tip Send an email to:

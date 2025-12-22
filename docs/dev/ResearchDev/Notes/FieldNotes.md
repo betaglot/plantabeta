@@ -1,3 +1,6 @@
+---
+search: false
+---
 # FieldNotes
 
 - Crystalize information into a form

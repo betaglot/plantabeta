@@ -23,32 +23,11 @@ Like the ones in Euclid's Elements
 
 ## Examples
 
-##<script setup>
-import ElementInfo from '/vue/ElementPage/Page-ElementInfo.vue'
-import ElementTaxonomy from '/vue/ElementPage/Header-ElementTaxonomy.vue'
-let elementName = ""
+### 🟠<span class="motor"></span> How to get your feet back on the wall?
 
-</script>
+### 🟩<span class="ekos"></span> How to
 
-# 🟠<span class="motor"></span> How to get your feet back on the wall?
-
-##<script setup>
-import ElementInfo from '/vue/ElementPage/Page-ElementInfo.vue'
-import ElementTaxonomy from '/vue/ElementPage/Header-ElementTaxonomy.vue'
-let elementName = ""
-
-</script>
-
-# 🟩<span class="ekos"></span> How to
-
-##<script setup>
-import ElementInfo from '/vue/ElementPage/Page-ElementInfo.vue'
-import ElementTaxonomy from '/vue/ElementPage/Header-ElementTaxonomy.vue'
-let elementName = ""
-
-</script>
-
-# 🔻<span class="via"></span> How to estimate the distance between ViaContacts
+### 🔻<span class="via"></span> How to estimate the distance between ViaContacts
 
 ## Components of a Problem
 

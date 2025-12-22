@@ -1,3 +1,6 @@
+---
+search: false
+---
 # Tandem (Shadowing)
 
 > to follow closely

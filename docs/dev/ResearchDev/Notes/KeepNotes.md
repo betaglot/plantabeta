@@ -1,3 +1,6 @@
+---
+search: false
+---
 # KeepNotes
 
 - PlantaBeta Kickstarter Ask Journalists

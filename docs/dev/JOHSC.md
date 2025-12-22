@@ -1,3 +1,6 @@
+---
+search: false
+---
 # JOHSC
 
 - Shorten to HSC

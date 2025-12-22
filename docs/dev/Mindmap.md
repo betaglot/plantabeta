@@ -1,3 +1,6 @@
+---
+search: false
+---
 # 🛠Mindmap
 
 To prove that you're in it for the long run.

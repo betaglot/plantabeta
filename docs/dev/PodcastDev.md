@@ -1,3 +1,6 @@
+---
+search: false
+---
 # PlantaBeta Podcast
 
 > 2 types of Podcast 1: For Planters, 2: For spectators

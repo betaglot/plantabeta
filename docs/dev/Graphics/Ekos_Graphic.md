@@ -1,3 +1,6 @@
+---
+search: false
+---
 # 🛠 <span class="ekos">EKOS Graphics</span>
 
 ## Simplify

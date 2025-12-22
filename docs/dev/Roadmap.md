@@ -1,4 +1,6 @@
-
+---
+search: false
+---
 # 🛠 Roadmap
 
 ## What is a Roadmap?

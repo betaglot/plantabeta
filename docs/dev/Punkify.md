@@ -1,6 +1,6 @@
 ---
 sidebar: false
-
+search: false
 ---
 
 

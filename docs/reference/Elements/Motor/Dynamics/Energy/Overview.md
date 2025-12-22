@@ -7,6 +7,10 @@ let elementName = "Energy"
 
 # 🟠<span class="motor">Energy</span>
 
+<ElementTaxonomy :elementName="elementName" />
+
+<ElementInfo :elementName=elementName />
+
 ---
 
 <!-- =================================================== -->

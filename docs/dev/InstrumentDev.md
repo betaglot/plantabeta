@@ -1,3 +1,6 @@
+---
+search: false
+---
 # 🛠 InstrumentDev
 
 The most important constraint for Instruments is the space it takes in the Truck.

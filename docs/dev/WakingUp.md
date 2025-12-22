@@ -1,3 +1,6 @@
+---
+search: false
+---
 # Waking Up Community
 
 ## Abstract

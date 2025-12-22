@@ -1,3 +1,6 @@
+---
+search: false
+---
 # 🛠 UX: User Experience of PlantaBeta
 
 ## Assumptions

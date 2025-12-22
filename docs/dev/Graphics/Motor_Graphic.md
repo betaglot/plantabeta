@@ -1,3 +1,6 @@
+---
+search: false
+---
 # 🛠 <span class="motor">MOTOR Graphics</span>
 
 ## <span class="motor">MotorCard</span>

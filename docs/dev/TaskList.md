@@ -1,3 +1,6 @@
+---
+search: false
+---
 # 🛠TaskList
 
 A list of all tasks needed for <beta>Put(<span class="ekos">Plant</span>)</beta>

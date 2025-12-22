@@ -1,6 +1,6 @@
 # 🔻 <span class="via">Neosite Tetrad Diamond</span>
 
-![ViaIkon](/Ikon/Via_Ikon.png)
+![ViaIkon](/Emblem/Via-Emblem.png)
 
 ---
 

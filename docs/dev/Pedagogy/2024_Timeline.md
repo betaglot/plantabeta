@@ -1,6 +1,7 @@
 ---
 aside: false
 sidebar: false
+search: false
 ---
 # 2024 Timeline
 

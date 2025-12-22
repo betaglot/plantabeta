@@ -1,4 +1,6 @@
-
+---
+search: false
+---
 # 🛠 Start Contributing to PlantaBeta: Your First Steps
 
 ## How you can contribute

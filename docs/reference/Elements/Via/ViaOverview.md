@@ -4,7 +4,7 @@ import FaktorIkon from '/vue/FaktorIkon.vue'
 
 # <div class="d-flex justify-center text-h1"><span class="via">VIA</span></div>
 
-<FaktorIkon imageSource='/Ikon/Via_Ikon.png' />
+<FaktorIkon imageSource='/Emblem/Via-Emblem.png' />
 
 ## <span class="via">What is VIA ?</span>
 

@@ -3,7 +3,7 @@ aside: false
 ---
 # Body-Slot
 
-![MOTONIkon](/Ikon/Motor_Ikon.png)
+![MOTONIkon](/Emblem/Motor-Emblem.png)
 
 ## 🕸 BodySlot.Skema
 

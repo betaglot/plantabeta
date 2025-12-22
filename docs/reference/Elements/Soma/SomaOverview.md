@@ -4,7 +4,7 @@ import FaktorIkon from '/vue/FaktorIkon.vue'
 
 # <div class="d-flex justify-center text-h1"><span class="soma">SOMA</span></div>
 
-<FaktorIkon imageSource='/Ikon/Soma_Ikon.png' />
+<FaktorIkon imageSource='/Emblem/Soma-Emblem.png' />
 
 ## What is <span class="soma">SOMA</span>?
 

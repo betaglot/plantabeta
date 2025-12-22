@@ -1,3 +1,6 @@
+---
+search: false
+---
 # Instructor
 
 Instructors train Gnomons

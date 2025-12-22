@@ -7,6 +7,10 @@ let elementName = "GravityForce"
 
 # 🟠<span class="motor">Gravity</span>
 
+<ElementTaxonomy :elementName="elementName" />
+
+<ElementInfo :elementName=elementName />
+
 ---
 
 <!-- =================================================== -->

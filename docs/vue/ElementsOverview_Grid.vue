@@ -3,31 +3,31 @@
         <VRow no-gutters>
             <VCol cols="12" sm="6">
                 <FaktorIkon imageLink="/reference/Elements/Labor/LaborOverview"
-                                  imageSource='/Ikon/Labor_Ikon.png' />
+                                  imageSource='/Emblem/Labor-Emblem.png' />
             </VCol>
             <VCol cols="12" sm="6">
                 <FaktorIkon imageLink="/reference/Elements/Soma/SomaOverview"
-                                  imageSource='/Ikon/Soma_Ikon.png' />
+                                  imageSource='/Emblem/Soma-Emblem.png' />
             </VCol>
         </VRow>
         <VRow no-gutters>
             <VCol cols="12" sm="6">
                 <FaktorIkon imageLink="/reference/Elements/Ekos/EkosOverview"
-                                  imageSource='/Ikon/Ekos_Ikon.png' />
+                                  imageSource='/Emblem/Ekos-Emblem.png' />
             </VCol>
             <VCol cols="12" sm="6">
                 <FaktorIkon imageLink="/reference/Elements/Via/ViaOverview"
-                                  imageSource='/Ikon/Via_Ikon.png' />
+                                  imageSource='/Emblem/Via-Emblem.png' />
             </VCol>
         </VRow>
         <VRow no-gutters>
             <VCol cols="12" sm="6">
                 <FaktorIkon imageLink="/reference/Elements/Motor/MotorOverview"
-                                  imageSource='/Ikon/Motor_Ikon.png' />
+                                  imageSource='/Emblem/Motor-Emblem.png' />
             </VCol>
             <VCol cols="12" sm="6">
                 <FaktorIkon imageLink="/reference/Elements/Anima/AnimaOverview"
-                                  imageSource='/Ikon/Anima_Ikon.png' />
+                                  imageSource='/Emblem/Anima-Emblem.png' />
             </VCol>
         </VRow>
     </VContainer>

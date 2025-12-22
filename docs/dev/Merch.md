@@ -1,3 +1,6 @@
+---
+search: false
+---
 # Merchandise
 
 Support the project by selling stuff

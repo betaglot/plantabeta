@@ -1,3 +1,6 @@
+---
+search: false
+---
 # 2025_Timeline
 
 ## Day 1:

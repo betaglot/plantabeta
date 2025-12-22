@@ -1,4 +1,6 @@
-
+---
+search: false
+---
 # 🛠 DX: Developer Experience
 
 ## How can PlantaBeta be developped while in transit?

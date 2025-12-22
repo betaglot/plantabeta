@@ -23,13 +23,32 @@ let element = props.elementName
 
 let elementTaxonomy = jsonData[element].elementTaxonomy
 
-let elementIcon = jsonData[element].elementIcon
-
 let faktor = jsonData[element].elementFaktor
 
 let elementColor = faktor.toLowerCase()
 
 let textColor = "text-" + elementColor
+
+let elementIcon = faktorName_to_emblem(faktor)
+
+function faktorName_to_emblem(faktorName) {
+    
+    faktorName = faktorName.toLowerCase()
+    
+    if (faktorName == "labor") {
+        return "⭐"
+    } else if (faktorName == "soma") {
+        return "🔷"
+    } else if (faktorName == "ekos") {
+        return "🟩"
+    } else if (faktorName == "via") {
+        return "🔻"
+    } else if (faktorName == "motor") {
+        return "🟠"
+    } else if (faktorName == "anima") {
+        return "💜"
+    }
+}
 
 </script>
 
