@@ -23,7 +23,6 @@
     "Route": {
         "elementEnglishName": "Route",
         "elementFaktor": "Labor",
-        "elementEmblem": "",
         "elementID": "",
         "elementTaxonomy": [
             "Labor",
@@ -43,7 +42,6 @@
     "Aktion": {
         "elementEnglishName": "Aktion",
         "elementFaktor": "Labor",
-        "elementEmblem": "",
         "elementID": "",
         "elementTaxonomy": [
             "Labor",
@@ -68,7 +66,6 @@
     "Absorb": {
         "elementEnglishName": "Absorb",
         "elementFaktor": "Labor",
-        "elementEmblem": "",
         "elementID": "",
         "elementTaxonomy": [
             "Labor",
@@ -89,7 +86,6 @@
     "Adjust": {
         "elementEnglishName": "Adjust",
         "elementFaktor": "Labor",
-        "elementEmblem": "",
         "elementID": "",
         "elementTaxonomy": [
             "Labor",
@@ -110,7 +106,6 @@
     "Allo": {
         "elementEnglishName": "Allo",
         "elementFaktor": "Labor",
-        "elementEmblem": "",
         "elementID": "",
         "elementTaxonomy": [
             "Labor",
@@ -131,7 +126,6 @@
     "Ama": {
         "elementEnglishName": "Ama",
         "elementFaktor": "Labor",
-        "elementEmblem": "",
         "elementID": "",
         "elementTaxonomy": [
             "Labor",
@@ -152,7 +146,6 @@
     "Amble": {
         "elementEnglishName": "Amble",
         "elementFaktor": "Labor",
-        "elementEmblem": "",
         "elementID": "",
         "elementTaxonomy": [
             "Labor",
@@ -173,7 +166,6 @@
     "Aspis": {
         "elementEnglishName": "Aspis",
         "elementFaktor": "",
-        "elementEmblem": "",
         "elementID": "",
         "elementTaxonomy": [
             "Labor",
@@ -193,7 +185,6 @@
     "Ballista": {
         "elementEnglishName": "Ballista",
         "elementFaktor": "",
-        "elementEmblem": "",
         "elementID": "",
         "elementTaxonomy": [
             "Labor",
@@ -213,7 +204,6 @@
     "Construct": {
         "elementEnglishName": "Construct",
         "elementFaktor": "",
-        "elementEmblem": "",
         "elementID": "",
         "elementTaxonomy": [
             "Labor",
@@ -233,7 +223,6 @@
     "Catch": {
         "elementEnglishName": "Catch",
         "elementFaktor": "Labor",
-        "elementEmblem": "",
         "elementID": "",
         "elementTaxonomy": [
             "Labor",
@@ -254,7 +243,6 @@
     "Clean": {
         "elementEnglishName": "Clean",
         "elementFaktor": "Labor",
-        "elementEmblem": "",
         "elementID": "",
         "elementTaxonomy": [
             "Labor",
@@ -275,7 +263,6 @@
     "Crawl": {
         "elementEnglishName": "Crawl",
         "elementFaktor": "Labor",
-        "elementEmblem": "",
         "elementID": "",
         "elementTaxonomy": [
             "Labor",
@@ -296,7 +283,6 @@
     "Dig": {
         "elementEnglishName": "Dig",
         "elementFaktor": "",
-        "elementEmblem": "",
         "elementID": "",
         "elementTaxonomy": [
             "Labor",
@@ -316,7 +302,6 @@
     "Drag": {
         "elementEnglishName": "Drag",
         "elementFaktor": "Labor",
-        "elementEmblem": "",
         "elementID": "",
         "elementTaxonomy": [
             "Labor",
@@ -337,7 +322,6 @@
     "Drop": {
         "elementEnglishName": "Drop",
         "elementFaktor": "Labor",
-        "elementEmblem": "",
         "elementID": "",
         "elementTaxonomy": [
             "Labor",
@@ -358,7 +342,6 @@
     "Eval": {
         "elementEnglishName": "Eval",
         "elementFaktor": "Labor",
-        "elementEmblem": "",
         "elementID": "",
         "elementTaxonomy": [
             "Labor",
@@ -379,7 +362,6 @@
     "Fall": {
         "elementEnglishName": "Fall",
         "elementFaktor": "Labor",
-        "elementEmblem": "",
         "elementID": "",
         "elementTaxonomy": [
             "Labor",
@@ -400,7 +382,6 @@
     "Hinge": {
         "elementEnglishName": "Hinge",
         "elementFaktor": "Labor",
-        "elementEmblem": "",
         "elementID": "",
         "elementTaxonomy": [
             "Labor",
@@ -421,7 +402,6 @@
     "Hook": {
         "elementEnglishName": "Hook",
         "elementFaktor": "Labor",
-        "elementEmblem": "",
         "elementID": "",
         "elementTaxonomy": [
             "Labor",
@@ -442,7 +422,6 @@
     "Insert": {
         "elementEnglishName": "Insert",
         "elementFaktor": "Labor",
-        "elementEmblem": "",
         "elementID": "",
         "elementTaxonomy": [
             "Labor",
@@ -463,7 +442,6 @@
     "Klose": {
         "elementEnglishName": "Klose",
         "elementFaktor": "",
-        "elementEmblem": "",
         "elementID": "",
         "elementTaxonomy": [
             "Labor",
@@ -483,7 +461,6 @@
     "Knot": {
         "elementEnglishName": "Knot",
         "elementFaktor": "Labor",
-        "elementEmblem": "",
         "elementID": "",
         "elementTaxonomy": [
             "Labor",
@@ -504,7 +481,6 @@
     "Kompakt": {
         "elementEnglishName": "Kompakt",
         "elementFaktor": "",
-        "elementEmblem": "",
         "elementID": "",
         "elementTaxonomy": [
             "Labor",
@@ -524,7 +500,6 @@
     "Kompress": {
         "elementEnglishName": "Kompress",
         "elementFaktor": "",
-        "elementEmblem": "",
         "elementID": "",
         "elementTaxonomy": [
             "Labor",
@@ -544,7 +519,6 @@
     "Kontakt": {
         "elementEnglishName": "Kontakt",
         "elementFaktor": "Labor",
-        "elementEmblem": "",
         "elementID": "",
         "elementTaxonomy": [
             "Labor",
@@ -565,7 +539,6 @@
     "Launch": {
         "elementEnglishName": "Launch",
         "elementFaktor": "",
-        "elementEmblem": "",
         "elementID": "",
         "elementTaxonomy": [
             "Labor",
@@ -585,7 +558,6 @@
     "Lift": {
         "elementEnglishName": "Lift",
         "elementFaktor": "Labor",
-        "elementEmblem": "",
         "elementID": "",
         "elementTaxonomy": [
             "Labor",
@@ -606,7 +578,6 @@
     "Load": {
         "elementEnglishName": "Load",
         "elementFaktor": "",
-        "elementEmblem": "",
         "elementID": "",
         "elementTaxonomy": [
             "Labor",
@@ -626,7 +597,6 @@
     "Kryos": {
         "elementEnglishName": "Kryos",
         "elementFaktor": "Labor",
-        "elementEmblem": "",
         "elementID": "",
         "elementTaxonomy": [
             "Labor",
@@ -654,7 +624,6 @@
     "Machete": {
         "elementEnglishName": "Machete",
         "elementFaktor": "",
-        "elementEmblem": "",
         "elementID": "",
         "elementTaxonomy": [
             "Labor",
@@ -674,7 +643,6 @@
     "Onda": {
         "elementEnglishName": "Onda",
         "elementFaktor": "Labor",
-        "elementEmblem": "",
         "elementID": "",
         "elementTaxonomy": [
             "Labor",
@@ -698,7 +666,6 @@
     "Orbit": {
         "elementEnglishName": "Orbit",
         "elementFaktor": "Labor",
-        "elementEmblem": "",
         "elementID": "",
         "elementTaxonomy": [
             "Labor",
@@ -726,7 +693,6 @@
     "Parry": {
         "elementEnglishName": "Parry",
         "elementFaktor": "",
-        "elementEmblem": "",
         "elementID": "",
         "elementTaxonomy": [
             "Labor",
@@ -746,7 +712,6 @@
     "Pop": {
         "elementEnglishName": "Pop",
         "elementFaktor": "Labor",
-        "elementEmblem": "",
         "elementID": "",
         "elementTaxonomy": [
             "Labor",
@@ -767,7 +732,6 @@
     "Pull": {
         "elementEnglishName": "Pull",
         "elementFaktor": "Labor",
-        "elementEmblem": "",
         "elementID": "",
         "elementTaxonomy": [
             "Labor",
@@ -792,7 +756,6 @@
     "Purga": {
         "elementEnglishName": "Purga",
         "elementFaktor": "",
-        "elementEmblem": "",
         "elementID": "",
         "elementTaxonomy": [
             "Labor",
@@ -812,7 +775,6 @@
     "Push": {
         "elementEnglishName": "Push",
         "elementFaktor": "Labor",
-        "elementEmblem": "",
         "elementID": "",
         "elementTaxonomy": [
             "Labor",
@@ -834,7 +796,6 @@
     "Preserve": {
         "elementEnglishName": "Preserve",
         "elementFaktor": "Labor",
-        "elementEmblem": "",
         "elementID": "",
         "elementTaxonomy": [
             "Labor",
@@ -855,7 +816,6 @@
     "Reach": {
         "elementEnglishName": "Reach",
         "elementFaktor": "Labor",
-        "elementEmblem": "",
         "elementID": "",
         "elementTaxonomy": [
             "Labor",
@@ -876,7 +836,6 @@
     "Rip": {
         "elementEnglishName": "Rip",
         "elementFaktor": "Labor",
-        "elementEmblem": "",
         "elementID": "",
         "elementTaxonomy": [
             "Labor",
@@ -897,7 +856,6 @@
     "Slam": {
         "elementEnglishName": "Slam",
         "elementFaktor": "",
-        "elementEmblem": "",
         "elementID": "",
         "elementTaxonomy": [
             "Labor",
@@ -917,7 +875,6 @@
     "Snap": {
         "elementEnglishName": "Snap",
         "elementFaktor": "",
-        "elementEmblem": "",
         "elementID": "",
         "elementTaxonomy": [
             "Labor",
@@ -937,7 +894,6 @@
     "Suspend": {
         "elementEnglishName": "Suspend",
         "elementFaktor": "Labor",
-        "elementEmblem": "",
         "elementID": "",
         "elementTaxonomy": [
             "Labor",
@@ -958,7 +914,6 @@
     "Pendulate": {
         "elementEnglishName": "Pendulate",
         "elementFaktor": "Labor",
-        "elementEmblem": "",
         "elementID": "",
         "elementTaxonomy": [
             "Labor",
@@ -979,7 +934,6 @@
     "Slot": {
         "elementEnglishName": "Slot",
         "elementFaktor": "Labor",
-        "elementEmblem": "",
         "elementID": "",
         "elementTaxonomy": [
             "Labor",
@@ -1000,7 +954,6 @@
     "Stack": {
         "elementEnglishName": "Stack",
         "elementFaktor": "Labor",
-        "elementEmblem": "",
         "elementID": "",
         "elementTaxonomy": [
             "Labor",
@@ -1021,7 +974,6 @@
     "Stall": {
         "elementEnglishName": "Stall",
         "elementFaktor": "Labor",
-        "elementEmblem": "",
         "elementID": "",
         "elementTaxonomy": [
             "Labor",
@@ -1042,7 +994,6 @@
     "Tangent": {
         "elementEnglishName": "Tangent",
         "elementFaktor": "Labor",
-        "elementEmblem": "",
         "elementID": "",
         "elementTaxonomy": [
             "Labor",
@@ -1063,7 +1014,6 @@
     "Swap": {
         "elementEnglishName": "Swap",
         "elementFaktor": "Labor",
-        "elementEmblem": "",
         "elementID": "",
         "elementTaxonomy": [
             "Labor",
@@ -1084,7 +1034,6 @@
     "Toggle": {
         "elementEnglishName": "Toggle",
         "elementFaktor": "Labor",
-        "elementEmblem": "",
         "elementID": "",
         "elementTaxonomy": [
             "Labor",
@@ -1108,7 +1057,6 @@
     "Transport": {
         "elementEnglishName": "Transport",
         "elementFaktor": "Labor",
-        "elementEmblem": "",
         "elementID": "",
         "elementTaxonomy": [
             "Labor",
@@ -1129,7 +1077,6 @@
     "Roll": {
         "elementEnglishName": "Roll",
         "elementFaktor": "Labor",
-        "elementEmblem": "",
         "elementID": "",
         "elementTaxonomy": [
             "Labor",
@@ -1150,7 +1097,6 @@
     "Whip": {
         "elementEnglishName": "Whip",
         "elementFaktor": "Labor",
-        "elementEmblem": "",
         "elementID": "",
         "elementTaxonomy": [
             "Labor",
@@ -1171,7 +1117,6 @@
     "Wrap": {
         "elementEnglishName": "Wrap",
         "elementFaktor": "Labor",
-        "elementEmblem": "",
         "elementID": "",
         "elementTaxonomy": [
             "Labor",
@@ -1192,7 +1137,6 @@
     "Piece": {
         "elementEnglishName": "Piece",
         "elementFaktor": "",
-        "elementEmblem": "",
         "elementID": "",
         "elementTaxonomy": [
             "Labor",
@@ -1212,7 +1156,6 @@
     "Specs": {
         "elementEnglishName": "Specs",
         "elementFaktor": "",
-        "elementEmblem": "",
         "elementID": "",
         "elementTaxonomy": [
             "Labor",
@@ -1232,7 +1175,6 @@
     "Difficulty": {
         "elementEnglishName": "Difficulty",
         "elementFaktor": "Labor",
-        "elementEmblem": "",
         "elementID": "",
         "elementTaxonomy": [
             "Labor",
@@ -1252,7 +1194,6 @@
     "Competition": {
         "elementEnglishName": "Competition",
         "elementFaktor": "Labor",
-        "elementEmblem": "",
         "elementID": "",
         "elementTaxonomy": [
             "Labor",
@@ -1272,7 +1213,6 @@
     "Strategy": {
         "elementEnglishName": "Strategy",
         "elementFaktor": "Labor",
-        "elementEmblem": "",
         "elementID": "",
         "elementTaxonomy": [
             "Labor",
@@ -1298,7 +1238,6 @@
     "Tactic": {
         "elementEnglishName": "Tactic",
         "elementFaktor": "Labor",
-        "elementEmblem": "",
         "elementID": "",
         "elementTaxonomy": [
             "Labor",
@@ -1318,7 +1257,6 @@
     "Tool": {
         "elementEnglishName": "Tool",
         "elementFaktor": "Labor",
-        "elementEmblem": "",
         "elementID": "",
         "elementTaxonomy": [
             "Labor",
@@ -1338,7 +1276,6 @@
     "FallProtection": {
         "elementEnglishName": "Fall Protection",
         "elementFaktor": "Labor",
-        "elementEmblem": "",
         "elementID": "",
         "elementTaxonomy": [
             "Labor",
@@ -1359,7 +1296,6 @@
     "Boot": {
         "elementEnglishName": "Boot",
         "elementFaktor": "",
-        "elementEmblem": "",
         "elementID": "",
         "elementTaxonomy": [
             "Labor",
@@ -1379,7 +1315,6 @@
     "Bottle": {
         "elementEnglishName": "Bottle",
         "elementFaktor": "",
-        "elementEmblem": "",
         "elementID": "",
         "elementTaxonomy": [
             "Labor",
@@ -1399,7 +1334,6 @@
     "Box": {
         "elementEnglishName": "Box",
         "elementFaktor": "",
-        "elementEmblem": "",
         "elementID": "",
         "elementTaxonomy": [
             "Labor",
@@ -1419,7 +1353,6 @@
     "Bundle": {
         "elementEnglishName": "",
         "elementFaktor": "",
-        "elementEmblem": "",
         "elementID": "",
         "elementTaxonomy": [
             "Labor",
@@ -1439,7 +1372,6 @@
     "Doru": {
         "elementEnglishName": "Doru",
         "elementFaktor": "",
-        "elementEmblem": "",
         "elementID": "",
         "elementTaxonomy": [
             "Labor",
@@ -1459,7 +1391,6 @@
     "Crashpad": {
         "elementEnglishName": "Crashpad",
         "elementFaktor": "Labor",
-        "elementEmblem": "",
         "elementID": "",
         "elementTaxonomy": [
             "Labor",
@@ -1481,7 +1412,6 @@
     "GriGri": {
         "elementEnglishName": "GriGri",
         "elementFaktor": "Labor",
-        "elementEmblem": "",
         "elementID": "",
         "elementTaxonomy": [
             "Labor",
@@ -1503,7 +1433,6 @@
     "Matting": {
         "elementEnglishName": "Matting",
         "elementFaktor": "Labor",
-        "elementEmblem": "",
         "elementID": "",
         "elementTaxonomy": [
             "Labor",
@@ -1525,7 +1454,6 @@
     "Quickdraw": {
         "elementEnglishName": "Quickdraw",
         "elementFaktor": "Labor",
-        "elementEmblem": "",
         "elementID": "",
         "elementTaxonomy": [
             "Labor",
@@ -1547,7 +1475,6 @@
     "TopRope": {
         "elementEnglishName": "Top Rope",
         "elementFaktor": "Labor",
-        "elementEmblem": "",
         "elementID": "",
         "elementTaxonomy": [
             "Labor",
@@ -1569,7 +1496,6 @@
     "Chalk": {
         "elementEnglishName": "Chalk",
         "elementFaktor": "Labor",
-        "elementEmblem": "",
         "elementID": "",
         "elementTaxonomy": [
             "Labor",
@@ -1591,7 +1517,6 @@
     "Chalkbag": {
         "elementEnglishName": "Chalkbag",
         "elementFaktor": "Labor",
-        "elementEmblem": "",
         "elementID": "",
         "elementTaxonomy": [
             "Labor",
@@ -1613,7 +1538,6 @@
     "KontaktTool": {
         "elementEnglishName": "Kontakt Tool",
         "elementFaktor": "Labor",
-        "elementEmblem": "",
         "elementID": "",
         "elementTaxonomy": [
             "Labor",
@@ -1634,7 +1558,6 @@
     "Rope": {
         "elementEnglishName": "Rope",
         "elementFaktor": "Labor",
-        "elementEmblem": "",
         "elementID": "",
         "elementTaxonomy": [
             "Labor",
@@ -1656,7 +1579,6 @@
     "Karabiner": {
         "elementEnglishName": "Carabiner",
         "elementFaktor": "Labor",
-        "elementEmblem": "",
         "elementID": "",
         "elementTaxonomy": [
             "Labor",
@@ -1680,7 +1602,6 @@
     "Harness": {
         "elementEnglishName": "Harness",
         "elementFaktor": "Labor",
-        "elementEmblem": "",
         "elementID": "",
         "elementTaxonomy": [
             "Labor",
@@ -1702,7 +1623,6 @@
     "Helmet": {
         "elementEnglishName": "Helmet",
         "elementFaktor": "Labor",
-        "elementEmblem": "",
         "elementID": "",
         "elementTaxonomy": [
             "Labor",
@@ -1724,7 +1644,6 @@
     "Cam": {
         "elementEnglishName": "Cam",
         "elementFaktor": "Labor",
-        "elementEmblem": "",
         "elementID": "",
         "elementTaxonomy": [
             "Labor",
@@ -1746,7 +1665,6 @@
     "Anchor": {
         "elementEnglishName": "Anchor",
         "elementFaktor": "Labor",
-        "elementEmblem": "",
         "elementID": "",
         "elementTaxonomy": [
             "Labor",
@@ -1768,7 +1686,6 @@
     "Sling": {
         "elementEnglishName": "Sling",
         "elementFaktor": "Labor",
-        "elementEmblem": "",
         "elementID": "",
         "elementTaxonomy": [
             "Labor",
@@ -1790,7 +1707,6 @@
     "Shoe": {
         "elementEnglishName": "Shoe",
         "elementFaktor": "Labor",
-        "elementEmblem": "",
         "elementID": "",
         "elementTaxonomy": [
             "Labor",
@@ -1812,7 +1728,6 @@
     "Kneepad": {
         "elementEnglishName": "Kneepad",
         "elementFaktor": "Labor",
-        "elementEmblem": "",
         "elementID": "",
         "elementTaxonomy": [
             "Labor",
@@ -1834,7 +1749,6 @@
     "Glove": {
         "elementEnglishName": "Glove",
         "elementFaktor": "Labor",
-        "elementEmblem": "",
         "elementID": "",
         "elementTaxonomy": [
             "Labor",
@@ -1856,7 +1770,6 @@
     "Piolet": {
         "elementEnglishName": "Piolet",
         "elementFaktor": "Labor",
-        "elementEmblem": "",
         "elementID": "",
         "elementTaxonomy": [
             "Labor",
@@ -1882,7 +1795,6 @@
     "Clothing": {
         "elementEnglishName": "Clothing",
         "elementFaktor": "Labor",
-        "elementEmblem": "",
         "elementID": "",
         "elementTaxonomy": [
             "Labor",
@@ -1903,7 +1815,6 @@
     "Kit": {
         "elementEnglishName": "Kit",
         "elementFaktor": "Labor",
-        "elementEmblem": "",
         "elementID": "",
         "elementTaxonomy": [
             "Labor",
@@ -1924,7 +1835,6 @@
     "Markum": {
         "elementEnglishName": "Markum",
         "elementFaktor": "",
-        "elementEmblem": "",
         "elementID": "",
         "elementTaxonomy": [
             "Labor",
@@ -1944,7 +1854,6 @@
     "Plantafor": {
         "elementEnglishName": "Plantafor",
         "elementFaktor": "",
-        "elementEmblem": "",
         "elementID": "",
         "elementTaxonomy": [
             "Labor",
@@ -1964,7 +1873,6 @@
     "PlotCord": {
         "elementEnglishName": "Plot Cord",
         "elementFaktor": "",
-        "elementEmblem": "",
         "elementID": "",
         "elementTaxonomy": [
             "Labor",
@@ -1984,7 +1892,6 @@
     "Radior": {
         "elementEnglishName": "Radior",
         "elementFaktor": "",
-        "elementEmblem": "",
         "elementID": "",
         "elementTaxonomy": [
             "Labor",
@@ -2004,7 +1911,6 @@
     "Repair": {
         "elementEnglishName": "Repair",
         "elementFaktor": "",
-        "elementEmblem": "",
         "elementID": "",
         "elementTaxonomy": [
             "Labor",
@@ -2024,7 +1930,6 @@
     "Spade": {
         "elementEnglishName": "Spade",
         "elementFaktor": "",
-        "elementEmblem": "",
         "elementID": "",
         "elementTaxonomy": [
             "Labor",
@@ -2044,7 +1949,6 @@
     "Tibior": {
         "elementEnglishName": "Tibior",
         "elementFaktor": "",
-        "elementEmblem": "",
         "elementID": "",
         "elementTaxonomy": [
             "Labor",
@@ -2064,7 +1968,6 @@
     "Performance": {
         "elementEnglishName": "Performance",
         "elementFaktor": "Labor",
-        "elementEmblem": "",
         "elementID": "",
         "elementTaxonomy": [
             "Labor",
@@ -2105,7 +2008,6 @@
     "Effectiveness": {
         "elementEnglishName": "Effectiveness",
         "elementFaktor": "Labor",
-        "elementEmblem": "",
         "elementID": "",
         "elementTaxonomy": [
             "Labor",
@@ -2126,7 +2028,6 @@
     "Efficiency": {
         "elementEnglishName": "Efficiency",
         "elementFaktor": "Labor",
-        "elementEmblem": "",
         "elementID": "",
         "elementTaxonomy": [
             "Labor",
@@ -2147,7 +2048,6 @@
     "Error": {
         "elementEnglishName": "Error",
         "elementFaktor": "Labor",
-        "elementEmblem": "",
         "elementID": "",
         "elementTaxonomy": [
             "Labor",
@@ -2859,8 +2759,7 @@
     },
     "MineralSoil": {
         "elementEnglishName": "Mineral Soil",
-        "elementFaktor": "",
-        "elementEmblem": "",
+        "elementFaktor": "Ekos",
         "elementID": "",
         "elementTaxonomy": [
             "Ekos",
@@ -2880,8 +2779,7 @@
     },
     "Soil": {
         "elementEnglishName": "Soil",
-        "elementFaktor": "",
-        "elementEmblem": "",
+        "elementFaktor": "Ekos",
         "elementID": "",
         "elementAlias": [
             "pedosphere"
@@ -2903,8 +2801,7 @@
     },
     "SoilFiber": {
         "elementEnglishName": "Soil Fiber",
-        "elementFaktor": "",
-        "elementEmblem": "",
+        "elementFaktor": "Ekos",
         "elementID": "",
         "elementTaxonomy": [
             "Ekos",
@@ -2927,8 +2824,7 @@
     },
     "FibricSoil": {
         "elementEnglishName": "Fibric Soil",
-        "elementFaktor": "",
-        "elementEmblem": "",
+        "elementFaktor": "Ekos",
         "elementID": "",
         "elementTaxonomy": [
             "Ekos",
@@ -2951,8 +2847,7 @@
     },
     "HumicSoil": {
         "elementEnglishName": "Humic Soil",
-        "elementFaktor": "",
-        "elementEmblem": "",
+        "elementFaktor": "Ekos",
         "elementID": "",
         "elementTaxonomy": [
             "Ekos",
@@ -2975,8 +2870,7 @@
     },
     "MesicSoil": {
         "elementEnglishName": "Mesic Soil",
-        "elementFaktor": "",
-        "elementEmblem": "",
+        "elementFaktor": "Ekos",
         "elementID": "",
         "elementTaxonomy": [
             "Ekos",
@@ -2999,8 +2893,7 @@
     },
     "WoodySoil": {
         "elementEnglishName": "Woody Soil",
-        "elementFaktor": "",
-        "elementEmblem": "",
+        "elementFaktor": "Ekos",
         "elementID": "",
         "elementTaxonomy": [
             "Ekos",
@@ -3023,8 +2916,7 @@
     },
     "GrainSize": {
         "elementEnglishName": "GrainSize",
-        "elementFaktor": "",
-        "elementEmblem": "",
+        "elementFaktor": "Ekos",
         "elementID": "",
         "elementTaxonomy": [
             "Ekos",
@@ -3047,8 +2939,7 @@
     },
     "ClaySoil": {
         "elementEnglishName": "Clay Soil",
-        "elementFaktor": "",
-        "elementEmblem": "",
+        "elementFaktor": "Ekos",
         "elementID": "",
         "elementTaxonomy": [
             "Ekos",
@@ -3071,8 +2962,7 @@
     },
     "BoulderSoil": {
         "elementEnglishName": "Boulder Soil",
-        "elementFaktor": "",
-        "elementEmblem": "",
+        "elementFaktor": "Ekos",
         "elementID": "",
         "elementTaxonomy": [
             "Ekos",
@@ -3095,8 +2985,7 @@
     },
     "CobbleSoil": {
         "elementEnglishName": "Cobble Soil",
-        "elementFaktor": "",
-        "elementEmblem": "",
+        "elementFaktor": "Ekos",
         "elementID": "",
         "elementTaxonomy": [
             "Ekos",
@@ -3119,8 +3008,7 @@
     },
     "PebbleSoil": {
         "elementEnglishName": "Pebble Soil",
-        "elementFaktor": "",
-        "elementEmblem": "",
+        "elementFaktor": "Ekos",
         "elementID": "",
         "elementTaxonomy": [
             "Ekos",
@@ -3143,8 +3031,7 @@
     },
     "RubbleSoil": {
         "elementEnglishName": "Rubble Soil",
-        "elementFaktor": "",
-        "elementEmblem": "",
+        "elementFaktor": "Ekos",
         "elementID": "",
         "elementTaxonomy": [
             "Ekos",
@@ -3167,8 +3054,7 @@
     },
     "SandSoil": {
         "elementEnglishName": "Sand Soil",
-        "elementFaktor": "",
-        "elementEmblem": "",
+        "elementFaktor": "Ekos",
         "elementID": "",
         "elementTaxonomy": [
             "Ekos",
@@ -3191,8 +3077,7 @@
     },
     "SiltSoil": {
         "elementEnglishName": "Silt Soil",
-        "elementFaktor": "",
-        "elementEmblem": "",
+        "elementFaktor": "Ekos",
         "elementID": "",
         "elementTaxonomy": [
             "Ekos",
