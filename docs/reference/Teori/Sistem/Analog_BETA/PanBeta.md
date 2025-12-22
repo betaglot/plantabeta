@@ -205,9 +205,23 @@ Maneuver
 
 Land=Wave
 
-### 🟠<span class="motor">SurfBeta.MOTOR: Carve,Cut,NoseRiding,SwitchStance</span>
+##<script setup>
+import ElementInfo from '/vue/ElementPage/Page-ElementInfo.vue'
+import ElementTaxonomy from '/vue/ElementPage/Header-ElementTaxonomy.vue'
+let elementName = ""
 
-### 🔻<span class="via">SurfBeta.VIA: [BarrelRide](https://www.surfertoday.com/surfing/how-to-get-barreled), [CloseoutReentry](https://www.surfertoday.com/surfing/how-to-do-a-closeout-reentry-in-surfing)</span>
+</script>
+
+# 🟠<span class="motor">SurfBeta.MOTOR: Carve,Cut,NoseRiding,SwitchStance</span>
+
+##<script setup>
+import ElementInfo from '/vue/ElementPage/Page-ElementInfo.vue'
+import ElementTaxonomy from '/vue/ElementPage/Header-ElementTaxonomy.vue'
+let elementName = ""
+
+</script>
+
+# 🔻<span class="via">SurfBeta.VIA: [BarrelRide](https://www.surfertoday.com/surfing/how-to-get-barreled), [CloseoutReentry](https://www.surfertoday.com/surfing/how-to-do-a-closeout-reentry-in-surfing)</span>
 
 ## 🌈 Swimming (SwimBeta)
 
@@ -219,7 +233,14 @@ Standing in line for a bus is Via
 
 On the streets, on campus, in airports, in public transit
 
-### 🔻<span class="via">TransitBeta.VIA</span>
+##<script setup>
+import ElementInfo from '/vue/ElementPage/Page-ElementInfo.vue'
+import ElementTaxonomy from '/vue/ElementPage/Header-ElementTaxonomy.vue'
+let elementName = ""
+
+</script>
+
+# 🔻<span class="via">TransitBeta.VIA</span>
 
 - weave
 - s curve

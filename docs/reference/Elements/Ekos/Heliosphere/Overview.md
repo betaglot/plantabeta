@@ -1,4 +1,8 @@
-# 🟩  <span class="ekos">Helios</span>
+# 🟩<span class="ekos">Helios</span>
+
+<ElementTaxonomy :elementName="elementName" />
+
+<ElementInfo :elementName=elementName />
 
 ## Shade
 

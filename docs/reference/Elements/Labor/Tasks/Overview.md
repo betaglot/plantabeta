@@ -1,4 +1,8 @@
-# <span class="labor">Tasks</span>
+# ⭐<span class="labor">Tasks</span>
+
+<ElementTaxonomy :elementName="elementName" />
+
+<ElementInfo :elementName=elementName />
 
 ---
 

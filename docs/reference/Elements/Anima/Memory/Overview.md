@@ -1,6 +1,10 @@
 
 # <span class="anima">Memory</span>
 
+<ElementTaxonomy :elementName="elementName" />
+
+<ElementInfo :elementName=elementName />
+
 > Fire together, wire together
 
 ## Saliency

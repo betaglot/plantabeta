@@ -1,5 +1,9 @@
 # HighMarkum
 
+<ElementTaxonomy :elementName="elementName" />
+
+<ElementInfo :elementName=elementName />
+
 ## Where in Eko?
 
 - LineIn

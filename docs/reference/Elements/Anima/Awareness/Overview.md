@@ -1,7 +1,15 @@
----
-aside: false
----
-# 💜 <span class="anima">Experience</span>
+<script setup>
+import ElementInfo from '/vue/ElementPage/Page-ElementInfo.vue'
+import ElementTaxonomy from '/vue/ElementPage/Header-ElementTaxonomy.vue'
+let elementName = "Awareness"
+
+</script>
+
+# 💜 <span class="anima">Awareness</span>
+
+<ElementTaxonomy :elementName="elementName" />
+
+<ElementInfo :elementName=elementName />
 
 ## Differences between Experience and Attention
 

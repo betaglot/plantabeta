@@ -1,4 +1,8 @@
-# 🔻 <span class="via">ZigzagLine</span>
+# 🔻<span class="via">ZigzagLine</span>
+
+<ElementTaxonomy :elementName="elementName" />
+
+<ElementInfo :elementName=elementName />
 
 ---
 

@@ -1,4 +1,8 @@
-# 🟩  <span class="ekos">Precipitation</span>
+# 🟩<span class="ekos">Precipitation</span>
+
+<ElementTaxonomy :elementName="elementName" />
+
+<ElementInfo :elementName=elementName />
 
 ## Rain
 

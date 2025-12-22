@@ -1,4 +1,15 @@
+<script setup>
+import ElementInfo from '/vue/ElementPage/Page-ElementInfo.vue'
+import ElementTaxonomy from '/vue/ElementPage/Header-ElementTaxonomy.vue'
+let elementName = ""
+
+</script>
+
 # ⭐<span class="labor">Neon</span>
+
+<ElementTaxonomy :elementName="elementName" />
+
+<ElementInfo :elementName=elementName />
 
 <https://www2.gov.bc.ca/assets/gov/farming-natural-resources-and-industry/forestry/tree-seed/tree-seed-publications/seed_handling_guidebook_hi.pdf>
 

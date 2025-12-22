@@ -1,3 +1,10 @@
+<script setup>
+import ElementInfo from '/vue/ElementPage/Page-ElementInfo.vue'
+import ElementTaxonomy from '/vue/ElementPage/Header-ElementTaxonomy.vue'
+let elementName = ""
+
+</script>
+
 # 🔻<span class="via">Plot</span>
 
 > The area of the circle who's radius is created by a plot cord of a given length, usually 4 meters

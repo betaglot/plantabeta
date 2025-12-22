@@ -1,5 +1,9 @@
 # 🟩  <span class="ekos">Wet Soil</span>
 
+<ElementTaxonomy :elementName="elementName" />
+
+<ElementInfo :elementName=elementName />
+
 ---
 
 <!-- =================================================== -->

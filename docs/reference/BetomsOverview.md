@@ -1,7 +1,7 @@
 # <beta>BETOMs</beta>
 
 <div class="text-h1">
-<BB :b="{ l:'LABOR',s:'SOMA',e:'EKOS',v:'VIA',m:'MOTOR', a:'ANIMA'}"/>
+<BB :b="{l:'LABOR',s:'SOMA',e:'EKOS',v:'VIA',m:'MOTOR',a:'ANIMA'}"/>
 </div>
 
 ## Syntax

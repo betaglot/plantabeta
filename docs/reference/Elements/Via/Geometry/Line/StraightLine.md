@@ -1,4 +1,8 @@
-# 🔻 <span class="via">StraightLine</span>
+# 🔻<span class="via">StraightLine</span>
+
+<ElementTaxonomy :elementName="elementName" />
+
+<ElementInfo :elementName=elementName />
 
 ---
 

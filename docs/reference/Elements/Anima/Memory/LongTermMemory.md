@@ -1,6 +1,10 @@
 
 # <span class="anima">Long Term Memory</span>
 
+<ElementTaxonomy :elementName="elementName" />
+
+<ElementInfo :elementName=elementName />
+
 ---
 
 <!-- =================================================== -->

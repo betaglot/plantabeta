@@ -1,4 +1,8 @@
-# 🟩  <span class="ekos">Atmosfera</span>
+# 🟩<span class="ekos">Atmosfera</span>
+
+<ElementTaxonomy :elementName="elementName" />
+
+<ElementInfo :elementName=elementName />
 
 ---
 

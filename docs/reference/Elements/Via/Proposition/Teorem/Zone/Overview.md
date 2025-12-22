@@ -1,3 +1,10 @@
+<script setup>
+import ElementInfo from '/vue/ElementPage/Page-ElementInfo.vue'
+import ElementTaxonomy from '/vue/ElementPage/Header-ElementTaxonomy.vue'
+let elementName = ""
+
+</script>
+
 # 🔻<span class="via">Zone</span>
 
 > an area, especially one that is different from the areas around it, because it has different characteristics or is used for different purposes - [Cambridge](https://dictionary.cambridge.org/dictionary/english/zone)

@@ -1,6 +1,10 @@
 
 # <span class="anima">Senses</span>
 
+<ElementTaxonomy :elementName="elementName" />
+
+<ElementInfo :elementName=elementName />
+
 ---
 
 <!-- =================================================== -->

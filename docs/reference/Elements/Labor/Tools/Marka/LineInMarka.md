@@ -1,5 +1,9 @@
 # LineInMarka
 
+<ElementTaxonomy :elementName="elementName" />
+
+<ElementInfo :elementName=elementName />
+
 ---
 
 <!-- =================================================== -->

@@ -1,6 +1,10 @@
 
 # <span class="anima">MindState</span>
 
+<ElementTaxonomy :elementName="elementName" />
+
+<ElementInfo :elementName=elementName />
+
 > a condition
 
 All states are continuums

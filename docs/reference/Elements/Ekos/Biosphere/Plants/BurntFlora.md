@@ -1,4 +1,8 @@
-# 🟩  <span class="ekos">BurntLand</span>
+# 🟩<span class="ekos">BurntLand</span>
+
+<ElementTaxonomy :elementName="elementName" />
+
+<ElementInfo :elementName=elementName />
 
 ---
 

@@ -1,5 +1,9 @@
 # TrenchExitMarka
 
+<ElementTaxonomy :elementName="elementName" />
+
+<ElementInfo :elementName=elementName />
+
 ---
 
 <!-- =================================================== -->

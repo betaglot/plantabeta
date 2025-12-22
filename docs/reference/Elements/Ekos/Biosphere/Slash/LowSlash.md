@@ -1,4 +1,8 @@
-# 🟩  <span class="ekos">LowSlash</span>🟩
+# 🟩<span class="ekos">LowSlash</span>🟩
+
+<ElementTaxonomy :elementName="elementName" />
+
+<ElementInfo :elementName=elementName />
 
 ---
 

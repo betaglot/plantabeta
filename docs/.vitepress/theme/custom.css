@@ -4,7 +4,8 @@
   --vp-c-brand-2: ;
   --vp-c-brand-3: ;
   --vp-nav-logo-height: 100%;
-  /* --vp-layout-max-width: 1920px; */
+  --vp-local-search-highlight-text: ;
+  --vp-local-search-highlight-bg: gray;
 
 }
 

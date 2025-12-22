@@ -1,4 +1,8 @@
-# 🟩  <span class="ekos">Humidity</span>🟩
+# 🟩<span class="ekos">Humidity</span>🟩
+
+<ElementTaxonomy :elementName="elementName" />
+
+<ElementInfo :elementName=elementName />
 
 ---
 

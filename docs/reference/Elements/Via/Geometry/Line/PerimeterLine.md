@@ -1,4 +1,8 @@
-# 🔻 <span class="via">PerimeterLine</span>
+# 🔻<span class="via">PerimeterLine</span>
+
+<ElementTaxonomy :elementName="elementName" />
+
+<ElementInfo :elementName=elementName />
 
 ---
 

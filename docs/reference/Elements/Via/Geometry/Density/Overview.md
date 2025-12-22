@@ -1,4 +1,15 @@
+<script setup>
+import ElementInfo from '/vue/ElementPage/Page-ElementInfo.vue'
+import ElementTaxonomy from '/vue/ElementPage/Header-ElementTaxonomy.vue'
+let elementName = ""
+
+</script>
+
 # 🔻<span class="via">Density</span>
+
+<ElementTaxonomy :elementName="elementName" />
+
+<ElementInfo :elementName=elementName />
 
 - 🟩<span class="ekos">HoldDensity</span>
 - 🟩<span class="ekos">AirDensity</span>

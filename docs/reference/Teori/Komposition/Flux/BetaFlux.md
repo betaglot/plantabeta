@@ -2,7 +2,14 @@
 
 Aliases: Flow, Fluidity, Fluency, Transition
 
-## 🟩<span class="ekos">Eko.Flux</span>
+#<script setup>
+import ElementInfo from '/vue/ElementPage/Page-ElementInfo.vue'
+import ElementTaxonomy from '/vue/ElementPage/Header-ElementTaxonomy.vue'
+let elementName = ""
+
+</script>
+
+# 🟩<span class="ekos">Eko.Flux</span>
 
 - A cliff has low Flux
 - Rolling Hills
@@ -11,7 +18,14 @@ Aliases: Flow, Fluidity, Fluency, Transition
 - Not Angular
     - Rounded
 
-## 🔻<span class="via">Via.Flux</span>
+#<script setup>
+import ElementInfo from '/vue/ElementPage/Page-ElementInfo.vue'
+import ElementTaxonomy from '/vue/ElementPage/Header-ElementTaxonomy.vue'
+let elementName = ""
+
+</script>
+
+# 🔻<span class="via">Via.Flux</span>
 
 - Path of least resistance
 - Transition
@@ -19,14 +33,28 @@ Aliases: Flow, Fluidity, Fluency, Transition
 - Minimize acceleration changes
     - Minimize Turns
 
-## 🟠<span class="motor">MOTON.Flux</span>
+#<script setup>
+import ElementInfo from '/vue/ElementPage/Page-ElementInfo.vue'
+import ElementTaxonomy from '/vue/ElementPage/Header-ElementTaxonomy.vue'
+let elementName = ""
+
+</script>
+
+# 🟠<span class="motor">MOTON.Flux</span>
 
 - Graceful
 - FluidMOTON
 - Linked MOTONment
     - ((CurrentMOTON.FinishMOTON == PostMOTON.StartMOTON) = (AnteMOTON.FinishMOTON == CurrentMOTON.StartMOTON))
 
-## 💜<span class="anima">ANIMA.Flux</span>
+#<script setup>
+import ElementInfo from '/vue/ElementPage/Page-ElementInfo.vue'
+import ElementTaxonomy from '/vue/ElementPage/Header-ElementTaxonomy.vue'
+let elementName = ""
+
+</script>
+
+# 💜 <span class="anima">ANIMA.Flux</span>
 
 - FlowState
 - CognitiveEase == CognitiveFluency

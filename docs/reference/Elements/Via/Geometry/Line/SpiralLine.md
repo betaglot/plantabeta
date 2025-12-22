@@ -1,4 +1,8 @@
-# 🔻 <span class="via">SpiralLine</span>
+# 🔻<span class="via">SpiralLine</span>
+
+<ElementTaxonomy :elementName="elementName" />
+
+<ElementInfo :elementName=elementName />
 
 ---
 

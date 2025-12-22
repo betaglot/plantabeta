@@ -1,4 +1,8 @@
-# 🟩 <span class="ekos">Animals</span>
+# 🟩<span class="ekos">Animals</span>
+
+<ElementTaxonomy :elementName="elementName" />
+
+<ElementInfo :elementName=elementName />
 
 ---
 

@@ -1,6 +1,11 @@
-# ⭐<span class="labor">Task</span>
+<script setup>
+import ElementInfo from '/vue/ElementPage/Page-ElementInfo.vue'
+import ElementTaxonomy from '/vue/ElementPage/Header-ElementTaxonomy.vue'
+let elementName = ""
 
-tache
+</script>
+
+# 🟩<span class="ekos">Vertical</span>
 
 ---
 
@@ -11,6 +16,6 @@ tache
 <!-- =================================================== -->
 ::: details 🛠
 
-- avoid "problem"
+-
 
 :::

@@ -81,12 +81,12 @@ function nav() {
       activeMatch: '/tutorial/'
     },
     {
-      text: '<beta>ELEMENTs</beta>',
+      text: 'ELEMENTs',
       link: '/reference/Elements/ElementsOverview',
       activeMatch: '/reference/Elements/'
     },
     {
-      text: '<beta>BETOMs</beta>',
+      text: '<span class="beta">BETOMs</span>',
       link: '/reference/Betoms/BetomsOverview',
       activeMatch: '/reference/Betoms/'
     },
@@ -95,11 +95,6 @@ function nav() {
     //   link: '/about/AboutOverview',
     //   activeMatch: '/about/'
     // },
-    {
-      text: '🛠',
-      link: 'dev/DevOverview',
-      activeMatch: '/dev/'
-    }
   ]
 }
 // Dev
@@ -123,7 +118,7 @@ function sidebarDev() {
     {
       text: '<dev>Graphics</dev>', collapsed: true, items: [
         { text: '<dev>Overview</dev>', link: '/dev/Graphics/Overview' },
-        { text: '<beta>BETA Graphics</beta>', link: '/dev/Graphics/Beta_Graphic' },
+        { text: '<span class="beta">BETA Graphics</span>', link: '/dev/Graphics/Beta_Graphic' },
         { text: '<span class="labor">LABOR</span>', link: '/dev/Graphics/Labor_Graphic' },
         { text: '<span class="soma">SOMA</span>', link: '/dev/Graphics/Soma_Graphic' },
         { text: '<span class="ekos">EKOS Graphics</span>', link: '/dev/Graphics/Ekos_Graphic' },
@@ -169,7 +164,7 @@ function sidebarGuide() {
       text: 'Introduction',
       collapsed: false,
       items: [
-        { text: 'What is <beta>PlantaBeta</beta>?', link: '/guide/What/WhatPlantaBeta' },
+        { text: 'What is <span class="beta">PlantaBeta</span>?', link: '/guide/What/WhatPlantaBeta' },
       ]
     },
     {

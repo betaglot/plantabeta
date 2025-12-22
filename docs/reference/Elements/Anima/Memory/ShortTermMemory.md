@@ -1,6 +1,10 @@
 
 # <span class="anima">Short Term Memory</span>
 
+<ElementTaxonomy :elementName="elementName" />
+
+<ElementInfo :elementName=elementName />
+
 ---
 
 <!-- =================================================== -->

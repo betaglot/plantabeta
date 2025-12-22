@@ -28,7 +28,14 @@ Etude
 
 ## Visual Komposition
 
-## 🟩<span class="ekos">MiseEnScene</span>
+#<script setup>
+import ElementInfo from '/vue/ElementPage/Page-ElementInfo.vue'
+import ElementTaxonomy from '/vue/ElementPage/Header-ElementTaxonomy.vue'
+let elementName = ""
+
+</script>
+
+# 🟩<span class="ekos">MiseEnScene</span>
 
 - the type of place and situation in which the action of a film or play happens
 - French, mise en scène literally means "the action of putting onto the stage." The term's use originated in stage drama, where it refers to the way actors and scenery props are arranged; as its usage expanded into other narrative arts, its meaning shifted. In film production, mise en scène refers to all of the elements that comprise a single shot; that includes, but is not limited to, the actors, setting, props, costumes, and lighting. The director of a play or film is called the metteur en scène—literally, "one who puts on the stage."

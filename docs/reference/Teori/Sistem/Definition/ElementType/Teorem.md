@@ -8,19 +8,54 @@ A theorem is the mathematical statement and the proof is the method by which you
 
 ## Examples
 
-### 🟠<span class="motor"></span>BodySag reduces FootFriction
+##<script setup>
+import ElementInfo from '/vue/ElementPage/Page-ElementInfo.vue'
+import ElementTaxonomy from '/vue/ElementPage/Header-ElementTaxonomy.vue'
+let elementName = ""
+
+</script>
+
+# 🟠<span class="motor"></span>BodySag reduces FootFriction
 
 BodySag is a MOTON, FootFriction is physics.
 
 Use other resources to explain Kinematics. Explaining physics is beyond the current scope of BETAGLOT
 
-### 🟠<span class="motor"></span>StraightArms reduces Muscle Strain
+##<script setup>
+import ElementInfo from '/vue/ElementPage/Page-ElementInfo.vue'
+import ElementTaxonomy from '/vue/ElementPage/Header-ElementTaxonomy.vue'
+let elementName = ""
 
-### 🔻<span class="via"></span>
+</script>
 
-### 🟩<span class="ekos"></span>
+# 🟠<span class="motor"></span>StraightArms reduces Muscle Strain
 
-### 💜<span class="anima"></span>
+##<script setup>
+import ElementInfo from '/vue/ElementPage/Page-ElementInfo.vue'
+import ElementTaxonomy from '/vue/ElementPage/Header-ElementTaxonomy.vue'
+let elementName = ""
+
+</script>
+
+# 🔻<span class="via"></span>
+
+##<script setup>
+import ElementInfo from '/vue/ElementPage/Page-ElementInfo.vue'
+import ElementTaxonomy from '/vue/ElementPage/Header-ElementTaxonomy.vue'
+let elementName = ""
+
+</script>
+
+# 🟩<span class="ekos"></span>
+
+##<script setup>
+import ElementInfo from '/vue/ElementPage/Page-ElementInfo.vue'
+import ElementTaxonomy from '/vue/ElementPage/Header-ElementTaxonomy.vue'
+let elementName = ""
+
+</script>
+
+# 💜 <span class="anima"></span>
 
 <!-- =================================================== -->
 <!-- =================================================== -->

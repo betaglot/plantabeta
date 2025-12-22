@@ -1,4 +1,15 @@
-# 💜<span class="anima">Priming Ease</span>
+<script setup>
+import ElementInfo from '/vue/ElementPage/Page-ElementInfo.vue'
+import ElementTaxonomy from '/vue/ElementPage/Header-ElementTaxonomy.vue'
+let elementName = "PrimingEase"
+
+</script>
+
+# 💜 <span class="anima">Priming Ease</span>
+
+<ElementTaxonomy :elementName="elementName" />
+
+<ElementInfo :elementName=elementName />
 
 ---
 

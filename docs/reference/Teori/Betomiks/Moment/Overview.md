@@ -24,9 +24,23 @@ Present to Past: Reflection, LearningFromFailure,
 
 Synergy
 
-## 🟩<span class="ekos">EKO to EKOS</span>
+#<script setup>
+import ElementInfo from '/vue/ElementPage/Page-ElementInfo.vue'
+import ElementTaxonomy from '/vue/ElementPage/Header-ElementTaxonomy.vue'
+let elementName = ""
 
-## 🔻<span class="via">VIA to VIA</span>
+</script>
+
+# 🟩<span class="ekos">EKO to EKOS</span>
+
+#<script setup>
+import ElementInfo from '/vue/ElementPage/Page-ElementInfo.vue'
+import ElementTaxonomy from '/vue/ElementPage/Header-ElementTaxonomy.vue'
+let elementName = ""
+
+</script>
+
+# 🔻<span class="via">VIA to VIA</span>
 
 ---
 

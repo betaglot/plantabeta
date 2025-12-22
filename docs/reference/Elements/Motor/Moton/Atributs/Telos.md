@@ -1,3 +1,10 @@
+<script setup>
+import ElementInfo from '/vue/ElementPage/Page-ElementInfo.vue'
+import ElementTaxonomy from '/vue/ElementPage/Header-ElementTaxonomy.vue'
+let elementName = ""
+
+</script>
+
 # 🟠<span class="motor">MOTONTelos</span>
 
 > Teleology, (from Greek telos, “end,” and logos, “reason”), explanation by reference to some purpose, end, goal, or function.

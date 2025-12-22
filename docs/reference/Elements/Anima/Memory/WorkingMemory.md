@@ -1,6 +1,10 @@
 
 # <span class="anima">Working Memory</span>
 
+<ElementTaxonomy :elementName="elementName" />
+
+<ElementInfo :elementName=elementName />
+
 ---
 
 <!-- =================================================== -->

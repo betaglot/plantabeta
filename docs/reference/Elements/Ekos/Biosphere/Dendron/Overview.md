@@ -2,6 +2,10 @@
 
 Aliases: Tree, Neophyte, Seedling
 
+<ElementTaxonomy :elementName="elementName" />
+
+<ElementInfo :elementName=elementName />
+
 ---
 
 <!-- =================================================== -->

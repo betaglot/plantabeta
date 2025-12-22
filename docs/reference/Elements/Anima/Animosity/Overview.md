@@ -1,5 +1,8 @@
 # Animosity
 
+<ElementTaxonomy :elementName="elementName" />
+
+<ElementInfo :elementName=elementName />
 > a feeling of hate or anger towards someone or something [🔗](https://dictionary.cambridge.org/dictionary/english/animosity)
 
 > strong dislike, opposition, or anger [🔗](https://dictionary.cambridge.org/dictionary/english/animosity)

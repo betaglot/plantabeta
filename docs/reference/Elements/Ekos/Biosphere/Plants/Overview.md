@@ -1,4 +1,8 @@
-# 🟩  <span class="ekos">Plants</span>
+# 🟩<span class="ekos">Plants</span>
+
+<ElementTaxonomy :elementName="elementName" />
+
+<ElementInfo :elementName=elementName />
 
 > all the plants which are already growing in the land
 

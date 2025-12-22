@@ -1,4 +1,15 @@
-# 💜<span class="anima">Cognitive Ease</span>
+<script setup>
+import ElementInfo from '/vue/ElementPage/Page-ElementInfo.vue'
+import ElementTaxonomy from '/vue/ElementPage/Header-ElementTaxonomy.vue'
+let elementName = "CognitiveEase"
+
+</script>
+
+# 💜 <span class="anima">Cognitive Ease</span>
+
+<ElementTaxonomy :elementName="elementName" />
+
+<ElementInfo :elementName=elementName />
 
 ## Factors to induce CognitiveEase:
 

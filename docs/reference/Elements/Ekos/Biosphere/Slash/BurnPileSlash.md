@@ -1,4 +1,8 @@
-# 🟩  <span class="ekos">BurnPileSlash</span>
+# 🟩<span class="ekos">BurnPileSlash</span>
+
+<ElementTaxonomy :elementName="elementName" />
+
+<ElementInfo :elementName=elementName />
 
 ## Spacing
 

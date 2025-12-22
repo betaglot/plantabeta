@@ -1,4 +1,9 @@
+
 # Greed
+
+<ElementTaxonomy :elementName="elementName" />
+
+<ElementInfo :elementName=elementName />
 
 ---
 

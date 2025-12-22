@@ -1,4 +1,8 @@
-# 🟩  <span class="ekos">Mineral Soil</span>
+# 🟩<span class="ekos">Mineral Soil</span>
+
+<ElementTaxonomy :elementName="elementName" />
+
+<ElementInfo :elementName=elementName />
 
 ---
 

@@ -22,9 +22,23 @@ This should be a Chart
 ---
 > "Suss it out"
 
-### 🟩<span class="ekos">Look at the EKOS</span>
+##<script setup>
+import ElementInfo from '/vue/ElementPage/Page-ElementInfo.vue'
+import ElementTaxonomy from '/vue/ElementPage/Header-ElementTaxonomy.vue'
+let elementName = ""
 
-### 🔻<span class="via">Pathfinding</span>
+</script>
+
+# 🟩<span class="ekos">Look at the EKOS</span>
+
+##<script setup>
+import ElementInfo from '/vue/ElementPage/Page-ElementInfo.vue'
+import ElementTaxonomy from '/vue/ElementPage/Header-ElementTaxonomy.vue'
+let elementName = ""
+
+</script>
+
+# 🔻<span class="via">Pathfinding</span>
 
 Usually performed before starting to climb. <span class="via">Route</span> reading also occurs while a Climber is on the <span class="via">Route</span>.
 

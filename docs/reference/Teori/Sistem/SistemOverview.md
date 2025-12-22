@@ -124,7 +124,14 @@ Propose a Proposition
 
 - ⭐<span class="labor">Spade</span>
 
-### 🔷<span class="soma">SOMA</span>
+##<script setup>
+import ElementInfo from '/vue/ElementPage/Page-ElementInfo.vue'
+import ElementTaxonomy from '/vue/ElementPage/Header-ElementTaxonomy.vue'
+let elementName = ""
+
+</script>
+
+# 🔷<span class="soma">SOMA</span>
 
 - 🔷<span class="soma">Mano</span>
 

@@ -1,5 +1,9 @@
 # 🟩  <span class="ekos">Pedosfera</span>🟩
 
+<ElementTaxonomy :elementName="elementName" />
+
+<ElementInfo :elementName=elementName />
+
 Aliases: Soil, Dirt, Ground
 
 ## Soil Layers

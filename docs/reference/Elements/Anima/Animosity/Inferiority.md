@@ -1,5 +1,8 @@
 # Inferiority
 
+<ElementTaxonomy :elementName="elementName" />
+
+<ElementInfo :elementName=elementName />
 ## Hazing
 
 ---
