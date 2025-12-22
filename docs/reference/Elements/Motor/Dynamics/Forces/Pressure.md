@@ -1,4 +1,4 @@
-# 🟠<motor>Pressure</motor>
+# 🟠<span class="motor">Pressure</span>
 
 ---
 

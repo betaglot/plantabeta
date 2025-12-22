@@ -1,4 +1,4 @@
-# 🔷<soma>SOMA: Problems</soma>
+# 🔷<span class="soma">SOMA: Problems</span>
 
 ---
 

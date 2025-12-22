@@ -1,4 +1,4 @@
-# 💜<anima>Feels Familiar</anima>
+# 💜<span class="anima">Feels Familiar</span>
 
 ---
 

@@ -1,4 +1,4 @@
-# 🔻 <via>GhostLine</via>
+# 🔻 <span class="via">GhostLine</span>
 
 ![ViaIkon](/Ikon/Via_Ikon.png)
 

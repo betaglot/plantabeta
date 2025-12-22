@@ -1,4 +1,4 @@
-# 🟩<ekos>Hornet</ekos>
+# 🟩<span class="ekos">Hornet</span>
 
 ---
 

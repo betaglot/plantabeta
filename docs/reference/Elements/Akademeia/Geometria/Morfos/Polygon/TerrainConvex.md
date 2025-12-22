@@ -1,4 +1,4 @@
-# 🟩<ekos>Convex</ekos>
+# 🟩<span class="ekos">Convex</span>
 
 ---
 

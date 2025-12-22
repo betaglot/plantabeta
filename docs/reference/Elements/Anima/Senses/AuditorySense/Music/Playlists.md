@@ -1,5 +1,5 @@
 
-# 💜 <anima>Playlists</anima>
+# 💜 <span class="anima">Playlists</span>
 
 ---
 

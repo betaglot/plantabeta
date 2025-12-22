@@ -1,4 +1,4 @@
-# 🔷<soma>Leg</soma>
+# 🔷<span class="soma">Leg</span>
 
 ---
 

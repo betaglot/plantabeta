@@ -1,4 +1,4 @@
-# 🔷<soma>Shin</soma>
+# 🔷<span class="soma">Shin</span>
 
 ---
 

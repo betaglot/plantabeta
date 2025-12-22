@@ -1,4 +1,4 @@
-# 🔻 <via>PlanPerimeter</via>
+# 🔻 <span class="via">PlanPerimeter</span>
 
 > Plant a ParaLine along the perimeter of your piece until you run out of trees, then deadwalk back.
 

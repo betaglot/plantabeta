@@ -1,4 +1,4 @@
-# ⭐<labor>Competition</labor>
+# ⭐<span class="labor">Competition</span>
 
 ---
 

@@ -1,4 +1,4 @@
-# 🟠<motor>Rhythm</motor>
+# 🟠<span class="motor">Rhythm</span>
 
 ---
 

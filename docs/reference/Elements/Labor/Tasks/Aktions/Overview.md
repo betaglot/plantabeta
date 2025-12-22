@@ -1,4 +1,4 @@
-# ⭐<labor>Aktions</labor>
+# ⭐<span class="labor">Aktions</span>
 
 ---
 

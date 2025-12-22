@@ -1,4 +1,4 @@
-# 🟩<ekos>Vertical</ekos>
+# 🟩<span class="ekos">Vertical</span>
 
 ---
 

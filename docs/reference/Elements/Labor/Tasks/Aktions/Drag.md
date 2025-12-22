@@ -1,4 +1,4 @@
-# ⭐<labor>Drag</labor>
+# ⭐<span class="labor">Drag</span>
 
 ---
 

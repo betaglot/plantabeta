@@ -1,4 +1,4 @@
-# 🟩<ekos>Flies</ekos>
+# 🟩<span class="ekos">Flies</span>
 
 ---
 

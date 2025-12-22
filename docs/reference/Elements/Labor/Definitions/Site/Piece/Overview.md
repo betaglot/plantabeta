@@ -1,4 +1,4 @@
-# ⭐<labor>Piece</labor>
+# ⭐<span class="labor">Piece</span>
 
 ## PieceAnatomy
 

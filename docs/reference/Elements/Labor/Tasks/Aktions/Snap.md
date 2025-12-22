@@ -1,4 +1,4 @@
-# ⭐<labor>Snap</labor>
+# ⭐<span class="labor">Snap</span>
 
 ---
 

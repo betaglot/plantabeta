@@ -1,4 +1,4 @@
-# ⭐<labor>LABON: Flux</labor>
+# ⭐<span class="labor">LABON: Flux</span>
 
 ---
 

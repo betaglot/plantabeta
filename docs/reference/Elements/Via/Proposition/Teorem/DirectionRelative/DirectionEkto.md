@@ -1,4 +1,4 @@
-# 🔻<via>Direction_Ekto</via>
+# 🔻<span class="via">Direction_Ekto</span>
 
 ---
 

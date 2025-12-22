@@ -1,4 +1,4 @@
-# 🔻<via>ViaTelos</via>
+# 🔻<span class="via">ViaTelos</span>
 
 > Teleology, (from Greek telos, “end,” and logos, “reason”), explanation by reference to some purpose, end, goal, or function.
 

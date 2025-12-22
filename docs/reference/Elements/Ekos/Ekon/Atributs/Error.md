@@ -1,4 +1,4 @@
-# 🟩<ekos>EKON: Error</ekos>
+# 🟩<span class="ekos">EKON: Error</span>
 
 > any errors that can occur during the practice of this Element
 

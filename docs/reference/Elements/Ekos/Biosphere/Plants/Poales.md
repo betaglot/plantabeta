@@ -1,4 +1,4 @@
-# 🟩<ekos>Poales</ekos>
+# 🟩<span class="ekos">Poales</span>
 
 > Grasses, Sedges, Rushes, Cattails
 

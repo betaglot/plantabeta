@@ -1,4 +1,4 @@
-# ⭐<labor>Whip</labor>
+# ⭐<span class="labor">Whip</span>
 
 ---
 

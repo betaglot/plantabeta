@@ -1,7 +1,7 @@
 ---
 aside: false
 ---
-# 💜 <anima>MicrositeSelection </anima>
+# 💜 <span class="anima">MicrositeSelection </span>
 
 <!-- - Choose the particular side of the stump -->
 

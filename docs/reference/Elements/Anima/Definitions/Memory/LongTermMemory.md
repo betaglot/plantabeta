@@ -1,7 +1,7 @@
 ---
 aside: false
 ---
-# <anima>Long Term Memory</anima>
+# <span class="anima">Long Term Memory</span>
 
 ---
 

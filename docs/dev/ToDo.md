@@ -22,7 +22,7 @@ LaptopOnly tasks include:
 
 :::
 
-::: danger <anima>Attencide</anima> until season start
+::: danger <span class="anima">Attencide</span> until season start
 
 - Anything related to climbing.
 - Instruments

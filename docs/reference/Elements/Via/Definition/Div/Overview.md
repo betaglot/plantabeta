@@ -1,22 +1,22 @@
-# 🔻<via>Div</via>
+# 🔻<span class="via">Div</span>
 
 > Short for "Division", a Div is any zone which is larger than a Site and smaller than a Piece
 
 Aliases: Area
 
-## Related 🟩<ekos>EKOS</ekos>
+## Related 🟩<span class="ekos">EKOS</span>
 
 - NaturalDiv
 
-### Related 🔻<via>Via</via>
+### Related 🔻<span class="via">Via</span>
 
 - (AreaPlanting == DivPlan)
 
-### Related 🟠<motor>Motor</motor>
+### Related 🟠<span class="motor">Motor</span>
 
 -
 
-### Related 💜<anima>ANIMA</anima>
+### Related 💜<span class="anima">ANIMA</span>
 
 -
 

@@ -1,4 +1,4 @@
-# 🔻 <via>SiteSquare</via>
+# 🔻 <span class="via">SiteSquare</span>
 
 > A square of Sites
 

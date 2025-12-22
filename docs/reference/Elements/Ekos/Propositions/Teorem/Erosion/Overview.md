@@ -1,4 +1,4 @@
-# 🟩<ekos>Erosion</ekos>
+# 🟩<span class="ekos">Erosion</span>
 
 ---
 

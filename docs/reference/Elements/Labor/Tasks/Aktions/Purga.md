@@ -1,4 +1,4 @@
-# ⭐<labor>Purga</labor>
+# ⭐<span class="labor">Purga</span>
 
 ---
 

@@ -1,4 +1,4 @@
-# 🔻<via>Dexterity</via>
+# 🔻<span class="via">Dexterity</span>
 
 ---
 

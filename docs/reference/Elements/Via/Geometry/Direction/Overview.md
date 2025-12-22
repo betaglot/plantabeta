@@ -1,4 +1,4 @@
-# 🔻<via>Direction</via>
+# 🔻<span class="via">Direction</span>
 
 ---
 

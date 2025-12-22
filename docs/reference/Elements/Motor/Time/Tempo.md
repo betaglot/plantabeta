@@ -1,4 +1,4 @@
-# 🟠<motor>Tempo</motor>
+# 🟠<span class="motor">Tempo</span>
 
 ---
 

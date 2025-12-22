@@ -1,4 +1,4 @@
-# 🟠<motor>MOTOR: Teorems</motor>
+# 🟠<span class="motor">MOTOR: Teorems</span>
 
 ---
 

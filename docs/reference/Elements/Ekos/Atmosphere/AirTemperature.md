@@ -1,4 +1,4 @@
-# 🟩  <ekos>Air Temperature</ekos>
+# 🟩  <span class="ekos">Air Temperature</span>
 
 ---
 

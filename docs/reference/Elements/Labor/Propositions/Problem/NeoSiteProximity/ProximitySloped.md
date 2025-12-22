@@ -1,4 +1,4 @@
-# 🔻 <via>SpacingOnSlope</via>
+# 🔻 <span class="via">SpacingOnSlope</span>
 
 Hypotenuse or Horizontal side of Right Triangle
 

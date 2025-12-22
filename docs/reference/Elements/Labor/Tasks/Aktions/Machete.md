@@ -1,4 +1,4 @@
-# ⭐<labor>Machete</labor>
+# ⭐<span class="labor">Machete</span>
 
 ---
 

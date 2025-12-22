@@ -1,4 +1,4 @@
-# 🟩<ekos>Ice Soil</ekos>
+# 🟩<span class="ekos">Ice Soil</span>
 
 ---
 

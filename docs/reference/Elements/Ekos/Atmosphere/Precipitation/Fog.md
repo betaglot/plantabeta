@@ -1,4 +1,4 @@
-# 🟩<ekos>Fog</ekos>
+# 🟩<span class="ekos">Fog</span>
 
 ---
 

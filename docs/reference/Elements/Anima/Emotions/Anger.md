@@ -1,5 +1,5 @@
 
-# 💜 <anima>Anger</anima>
+# 💜 <span class="anima">Anger</span>
 
 ---
 

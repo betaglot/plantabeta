@@ -10,8 +10,8 @@ import { createVuetify } from 'vuetify'
 import * as components from 'vuetify/components'
 import * as directives from 'vuetify/directives'
 
-import BetumChip from './BetumChip.vue'
-import BetumTitle from './BetumTitle.vue'
+import BetomChip from './BetomChip.vue'
+import BetomTitle from './BetomTitle.vue'
 import PageImage from './PageImage.vue'
 
 const vuetify = createVuetify({
@@ -44,8 +44,8 @@ export default {
     },
     enhanceApp({ app, router, siteData }) {
         app.use(vuetify)
-        app.component('BB', BetumChip)
-        app.component('BT', BetumTitle)
+        app.component('BB', BetomChip)
+        app.component('BT', BetomTitle)
         app.component('PageImage', PageImage)
     }
 } satisfies Theme

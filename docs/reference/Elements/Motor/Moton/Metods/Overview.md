@@ -1,4 +1,4 @@
-# 🟠<motor>MOTON: Metods</motor>
+# 🟠<span class="motor">MOTON: Metods</span>
 
 ---
 

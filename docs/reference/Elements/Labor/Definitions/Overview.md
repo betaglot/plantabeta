@@ -1,4 +1,4 @@
-# ⭐<labor>LABOR: Definitions</labor>
+# ⭐<span class="labor">LABOR: Definitions</span>
 
 ---
 

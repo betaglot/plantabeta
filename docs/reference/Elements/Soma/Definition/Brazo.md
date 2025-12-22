@@ -1,4 +1,4 @@
-# 🔷<soma>Brazo</soma>
+# 🔷<span class="soma">Brazo</span>
 
 ---
 

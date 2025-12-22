@@ -1,4 +1,4 @@
-# 🟠<motor>Energy</motor>
+# 🟠<span class="motor">Energy</span>
 
 ---
 

@@ -1,4 +1,4 @@
-# 🟩<ekos>Ants</ekos>
+# 🟩<span class="ekos">Ants</span>
 
 ---
 

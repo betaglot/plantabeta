@@ -1,5 +1,5 @@
 
-# 💜 <anima>Mindfulness</anima>
+# 💜 <span class="anima">Mindfulness</span>
 
 ---
 

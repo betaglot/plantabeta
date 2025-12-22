@@ -1,4 +1,4 @@
-# ⭐<labor>PickUp</labor>
+# ⭐<span class="labor">PickUp</span>
 
 ---
 

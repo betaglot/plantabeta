@@ -1,4 +1,4 @@
-# 🔻 <via>CircuitLine</via>
+# 🔻 <span class="via">CircuitLine</span>
 
 ---
 

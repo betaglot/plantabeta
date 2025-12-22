@@ -1,4 +1,4 @@
-# 🔻 <via>CircumventCurve</via>
+# 🔻 <span class="via">CircumventCurve</span>
 >
 > to avoid something by going around it
 

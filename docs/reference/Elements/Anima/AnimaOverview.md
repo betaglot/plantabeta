@@ -2,17 +2,17 @@
 import FaktorIkon from '/vue/FaktorIkon.vue'
 </script>
 
-# <div class="d-flex justify-center text-h1"><anima>ANIMA</anima></div>
+# <div class="d-flex justify-center text-h1"><span class="anima">ANIMA</span></div>
 
 <FaktorIkon imageSource='/Ikon/Anima_Ikon.png' />
 
-## What is <anima>ANIMA</anima>?
+## What is <span class="anima">ANIMA</span>?
 
 ANIMA == PSYCHE == SPIRITUS
 
 > Focus on your breath to experience anima directly
 
-::: details Why is it called <anima>ANIMA</anima>?
+::: details Why is it called <span class="anima">ANIMA</span>?
 
 ## Etymology
 
@@ -20,18 +20,18 @@ ANIMA == PSYCHE == SPIRITUS
 
 - animare
 
-### <anima>Wind</anima>
+### <span class="anima">Wind</span>
 
-- <anima>anemo</anima>ne from Greek anemonē "wind flower," literally "daughter of the wind,"
+- <span class="anima">anemo</span>ne from Greek anemonē "wind flower," literally "daughter of the wind,"
 
 - Spiritus
 
-### <anima>Breath</anima>ing
+### <span class="anima">Breath</span>ing
 
 - aspirate
-- Re<anima>spir</anima>ation
-- Con<anima>spir</anima>e
-    - catch <anima>wind</anima> of plotting con<anima>spir</anima>ators
+- Re<span class="anima">spir</span>ation
+- Con<span class="anima">spir</span>e
+    - catch <span class="anima">wind</span> of plotting con<span class="anima">spir</span>ators
 
 ### Life
 
@@ -39,46 +39,46 @@ ANIMA == PSYCHE == SPIRITUS
 
 - Spiritus
     - Cellular respiration
-    - In<anima>spir</anima>ation
-        - <anima>spir</anima>it
-        - a<anima>spir</anima>e
-        - di<anima>spir</anima>ited
+    - In<span class="anima">spir</span>ation
+        - <span class="anima">spir</span>it
+        - a<span class="anima">spir</span>e
+        - di<span class="anima">spir</span>ited
 
-- <anima>anima</anima>tion
+- <span class="anima">anima</span>tion
     - (the state of being lively): airiness, ardor, buoyancy, earnestness, energy, enthusiasm, liveliness, promptitude, spirit, sprightliness, vivacity
 
-- over<anima>anima</anima>te
-- semi<anima>anima</anima>te
-- suspended <anima>anima</anima>tion
-- re<anima>anima</anima>te
+- over<span class="anima">anima</span>te
+- semi<span class="anima">anima</span>te
+- suspended <span class="anima">anima</span>tion
+- re<span class="anima">anima</span>te
     - flat worms
-- un<anima>animo</anima>us
-- equ<anima>animi</anima>ty
-- <anima>anima</anima>tronic
-- <anima>anima</anima>te
-- in<anima>anima</anima>te
-- <anima>anima</anima>tion
-    - <anima>anime</anima>
-    - <anima>anima</anima>tor
-    - <anima>anima</anima>tic
-- <anima>anima</anima>ted
-- Quebec("<anima>anima</anima>tor")
+- un<span class="anima">animo</span>us
+- equ<span class="anima">animi</span>ty
+- <span class="anima">anima</span>tronic
+- <span class="anima">anima</span>te
+- in<span class="anima">anima</span>te
+- <span class="anima">anima</span>tion
+    - <span class="anima">anime</span>
+    - <span class="anima">anima</span>tor
+    - <span class="anima">anima</span>tic
+- <span class="anima">anima</span>ted
+- Quebec("<span class="anima">anima</span>tor")
     - host, presenter, mc
-- <anima>anima</anima>l
+- <span class="anima">anima</span>l
     - adjective of anima
     - The greek word for animal is "zoo"
-- E<anima>xpir</anima>ation
+- E<span class="anima">xpir</span>ation
     - [Monty Python Dead Parrot Sketch](https://youtu.be/4vuW6tQ0218?t=147)
 
-### <anima>Soul</anima>
+### <span class="anima">Soul</span>
 
 - WakingUp
     - ANIMA is your breath and your breath leads to NonDualExperience
     - equanimity
 
-- In<anima>spir</anima>ation
+- In<span class="anima">spir</span>ation
 
-<anima>Spir</anima>itualExperience
+<span class="anima">Spir</span>itualExperience
 
 - Psyche
     - Psychology
@@ -88,7 +88,7 @@ ANIMA == PSYCHE == SPIRITUS
 
 ---
 
-## <anima>ANIMA Simbol</anima> 💜
+## <span class="anima">ANIMA Simbol</span> 💜
 
 > Violet Heart
 

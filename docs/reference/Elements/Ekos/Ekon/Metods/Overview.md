@@ -1,4 +1,4 @@
-# 🟩<ekos>EKON: Metods</ekos>
+# 🟩<span class="ekos">EKON: Metods</span>
 
 ---
 

@@ -1,4 +1,4 @@
-# ⭐<labor>LABOR: Teorems</labor>
+# ⭐<span class="labor">LABOR: Teorems</span>
 
 ---
 

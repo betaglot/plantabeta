@@ -1,4 +1,4 @@
-# 🔻<via>Alignment</via>
+# 🔻<span class="via">Alignment</span>
 
 ---
 

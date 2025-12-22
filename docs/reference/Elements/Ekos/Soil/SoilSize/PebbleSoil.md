@@ -1,4 +1,4 @@
-# 🟩<ekos>Pebble Soil</ekos>
+# 🟩<span class="ekos">Pebble Soil</span>
 
 > An accumulation of rounded particles having a diameter of 2-64 mm. - [CanadianGov](https://sis.agr.gc.ca/cansis/taxa/cssc3/chpt18.html)
 

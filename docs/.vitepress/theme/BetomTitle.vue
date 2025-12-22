@@ -20,10 +20,10 @@ const props = defineProps({
 })
   
   
-  // Use the config to make a JSON of all the Betum and their links, 
-  // so each Betum dynamically links to their BetumPage 
+  // Use the config to make a JSON of all the Betom and their links, 
+  // so each Betom dynamically links to their BetomPage 
   // OR
-  // Use the Props to create the Folders within Betum
+  // Use the Props to create the Folders within Betom
   // Interpolate the same way as the v-ifs above, and using JS "if" instead
   // probably involves computed properties
   
@@ -32,12 +32,9 @@ const props = defineProps({
 </script>
   
 <style>
-betumTitleContainer{
-  display:flex;
-  overflow:hidden;
-}
 
-.betumChip {
+
+.betomChip {
   overflow-x: auto;
   border: solid;
   border-width: 1px;
@@ -48,7 +45,7 @@ betumTitleContainer{
   white-space: nowrap;
 }
 
-.betumChip::-webkit-scrollbar {
+.betomChip::-webkit-scrollbar {
   display: none;
 }
 .labon {

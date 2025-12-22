@@ -1,7 +1,7 @@
 ---
 aside: false
 ---
-# 💜 <anima>Experience</anima>
+# 💜 <span class="anima">Experience</span>
 
 ## Differences between Experience and Attention
 

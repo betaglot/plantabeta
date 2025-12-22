@@ -1,4 +1,4 @@
-# 🟠<motor>Inertia</motor>
+# 🟠<span class="motor">Inertia</span>
 
 ---
 

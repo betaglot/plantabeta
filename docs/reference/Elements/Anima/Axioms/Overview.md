@@ -1,4 +1,4 @@
-# 💜<anima>ANIMA: Axioms</anima>
+# 💜<span class="anima">ANIMA: Axioms</span>
 
 ---
 

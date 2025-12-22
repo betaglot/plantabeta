@@ -1,4 +1,4 @@
-# 🔻<via>Time</via>
+# 🔻<span class="via">Time</span>
 
 ---
 

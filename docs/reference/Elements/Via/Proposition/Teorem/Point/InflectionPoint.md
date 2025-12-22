@@ -1,4 +1,4 @@
-# 🔻 <via>Inflection Point</via>
+# 🔻 <span class="via">Inflection Point</span>
 
 ---
 

@@ -1,4 +1,4 @@
-# 🔻 <via>Line</via>
+# 🔻 <span class="via">Line</span>
 
 ---
 

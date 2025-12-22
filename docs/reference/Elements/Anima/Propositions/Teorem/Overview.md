@@ -1,7 +1,7 @@
 ---
 aside: false
 ---
-# 💜<anima>ANIMA: Teorem</anima>
+# 💜<span class="anima">ANIMA: Teorem</span>
 
 ---
 

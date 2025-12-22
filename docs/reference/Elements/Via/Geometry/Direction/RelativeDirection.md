@@ -1,4 +1,4 @@
-# 🔻<via>Relative Direction</via>
+# 🔻<span class="via">Relative Direction</span>
 
 ---
 

@@ -1,4 +1,4 @@
-# 🔻<via>Distance</via>
+# 🔻<span class="via">Distance</span>
 
 ---
 

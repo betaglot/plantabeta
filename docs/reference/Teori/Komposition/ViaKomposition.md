@@ -1,4 +1,4 @@
-# 🔻<via>ViaComposition</via>
+# 🔻<span class="via">ViaComposition</span>
 
 > What elements are you going to use to complete this Zone?
 

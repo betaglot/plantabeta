@@ -1,4 +1,4 @@
-# 💜<anima>Repetition Ease</anima>
+# 💜<span class="anima">Repetition Ease</span>
 
 ---
 

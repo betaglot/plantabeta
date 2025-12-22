@@ -1,4 +1,4 @@
-# 🟩<ekos>Tracking</ekos>
+# 🟩<span class="ekos">Tracking</span>
 
 ---
 

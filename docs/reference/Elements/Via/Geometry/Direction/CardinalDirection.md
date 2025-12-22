@@ -1,4 +1,4 @@
-# 🔻<via>DirectionCardinal</via>
+# 🔻<span class="via">DirectionCardinal</span>
 
 ---
 

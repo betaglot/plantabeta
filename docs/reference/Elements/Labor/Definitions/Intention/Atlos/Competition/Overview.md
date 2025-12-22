@@ -1,4 +1,4 @@
-# 💜 <anima>Competition</anima>
+# 💜 <span class="anima">Competition</span>
 
 ---
 

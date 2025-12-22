@@ -1,4 +1,4 @@
-# ⭐<labor>Wrap</labor>
+# ⭐<span class="labor">Wrap</span>
 
 ---
 

@@ -1,4 +1,4 @@
-# 🟩<ekos>EKOS: Problems</ekos>
+# 🟩<span class="ekos">EKOS: Problems</span>
 
 ---
 

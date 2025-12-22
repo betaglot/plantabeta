@@ -1,4 +1,4 @@
-# 🟩<ekos>Stump</ekos>
+# 🟩<span class="ekos">Stump</span>
 
 ---
 

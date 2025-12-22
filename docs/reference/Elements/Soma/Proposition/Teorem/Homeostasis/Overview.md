@@ -1,4 +1,4 @@
-# 🔷<soma>Homeostasis</soma>
+# 🔷<span class="soma">Homeostasis</span>
 
 ![Anima_Ikon](/Ikon/Anima_Ikon.png)
 

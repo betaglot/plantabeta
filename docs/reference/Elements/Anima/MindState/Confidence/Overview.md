@@ -1,5 +1,5 @@
 
-# 💜 <anima>Confidence</anima>
+# 💜 <span class="anima">Confidence</span>
 
 ## How to deal with Ambiguity
 

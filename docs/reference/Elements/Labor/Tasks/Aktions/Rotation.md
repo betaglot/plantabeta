@@ -1,4 +1,4 @@
-# ⭐<labor>Rotation</labor>
+# ⭐<span class="labor">Rotation</span>
 
 ---
 

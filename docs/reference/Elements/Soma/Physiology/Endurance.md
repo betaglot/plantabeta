@@ -1,4 +1,4 @@
-# 🔷<soma>Endurance</soma>
+# 🔷<span class="soma">Endurance</span>
 
 ---
 

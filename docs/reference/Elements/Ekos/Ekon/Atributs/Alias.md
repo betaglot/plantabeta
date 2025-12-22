@@ -1,4 +1,4 @@
-# 🟩<ekos>EKON: Alias</ekos>
+# 🟩<span class="ekos">EKON: Alias</span>
 
 > other names used to refer to this Element. In english or other languages.
 

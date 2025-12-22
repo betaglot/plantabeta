@@ -1,4 +1,4 @@
-# 🟩  <ekos>Wind</ekos>
+# 🟩  <span class="ekos">Wind</span>
 
 ---
 

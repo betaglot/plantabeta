@@ -1,4 +1,4 @@
-# ⭐<labor>LABOR: Axioms</labor>
+# ⭐<span class="labor">LABOR: Axioms</span>
 
 ---
 

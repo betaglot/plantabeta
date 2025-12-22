@@ -22,17 +22,17 @@ This should be a Chart
 ---
 > "Suss it out"
 
-### 🟩<ekos>Look at the EKOS</ekos>
+### 🟩<span class="ekos">Look at the EKOS</span>
 
-### 🔻<via>Pathfinding</via>
+### 🔻<span class="via">Pathfinding</span>
 
-Usually performed before starting to climb. <via>Route</via> reading also occurs while a Climber is on the <via>Route</via>.
+Usually performed before starting to climb. <span class="via">Route</span> reading also occurs while a Climber is on the <span class="via">Route</span>.
 
 Where are all the ViaContacts?
 
 What is the ViaSpace?
 
-You can know the <via>Route</via> before you know the Move.
+You can know the <span class="via">Route</span> before you know the Move.
 
 ### <beta>Mimicry</beta>
 

@@ -1,4 +1,4 @@
-# ⭐<labor>Flexion</labor>
+# ⭐<span class="labor">Flexion</span>
 
 ---
 

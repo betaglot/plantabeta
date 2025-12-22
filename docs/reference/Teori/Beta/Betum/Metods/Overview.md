@@ -1,4 +1,4 @@
-# 🌈<beta>BETUM: Metods</beta>
+# 🌈<beta>BETOM: Metods</beta>
 
 ---
 

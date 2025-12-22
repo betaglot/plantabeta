@@ -1,7 +1,7 @@
 ---
 aside: false
 ---
-# 💜 <anima>DailySchdule</anima>
+# 💜 <span class="anima">DailySchdule</span>
 
 ---
 

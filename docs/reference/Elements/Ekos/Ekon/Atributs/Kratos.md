@@ -1,4 +1,4 @@
-# 🟩<ekos>EKON: Kratos</ekos>
+# 🟩<span class="ekos">EKON: Kratos</span>
 
 ## Definition
 

@@ -1,5 +1,5 @@
 
-# 💜 <anima>Compression Sense</anima>
+# 💜 <span class="anima">Compression Sense</span>
 
 ---
 

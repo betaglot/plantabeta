@@ -1,4 +1,4 @@
-# ⭐<labor>LABON: Telos</labor>
+# ⭐<span class="labor">LABON: Telos</span>
 
 > Teleology, (from Greek telos, “end,” and logos, “reason”), explanation by reference to some purpose, end, goal, or function.
 

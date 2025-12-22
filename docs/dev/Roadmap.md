@@ -79,16 +79,16 @@ Test novel Planter Instruments
 
 ### Plant fire resistance Devices
 
-<beta>Put(<ekos>Ice</ekos>)</beta>
+<beta>Put(<span class="ekos">Ice</span>)</beta>
 
 - Plant a glacier KriosNeon
 -
 
-<beta>Put(<ekos>FireBreak</ekos>)</beta>
+<beta>Put(<span class="ekos">FireBreak</span>)</beta>
 
-<beta>Put(<ekos>Meadow</ekos>)</beta>
+<beta>Put(<span class="ekos">Meadow</span>)</beta>
 
-<beta>Put(<ekos></ekos>)</beta>
+<beta>Put(<span class="ekos"></span>)</beta>
 
 ### Urban Planting
 

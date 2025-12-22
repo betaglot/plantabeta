@@ -1,4 +1,4 @@
-# 🟩  <ekos>Precipitation</ekos>
+# 🟩  <span class="ekos">Precipitation</span>
 
 ## Rain
 

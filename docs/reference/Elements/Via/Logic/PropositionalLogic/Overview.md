@@ -1,4 +1,4 @@
-# 🔻<via>Propositional Logic</via>
+# 🔻<span class="via">Propositional Logic</span>
 
 ---
 

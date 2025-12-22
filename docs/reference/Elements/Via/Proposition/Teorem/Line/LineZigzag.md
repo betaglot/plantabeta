@@ -1,4 +1,4 @@
-# 🔻 <via>ZigzagLine</via>
+# 🔻 <span class="via">ZigzagLine</span>
 
 ---
 

@@ -1,4 +1,4 @@
-# ⭐<labor>Knot</labor>
+# ⭐<span class="labor">Knot</span>
 
 ---
 

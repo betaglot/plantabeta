@@ -1,4 +1,4 @@
-# 💜<anima>Feels True</anima>
+# 💜<span class="anima">Feels True</span>
 
 ---
 

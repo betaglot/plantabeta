@@ -1,4 +1,4 @@
-# ⭐<labor>Onda</labor>
+# ⭐<span class="labor">Onda</span>
 
 ---
 

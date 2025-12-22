@@ -1,4 +1,4 @@
-# 🔻<via>VIA: Axioms</via>
+# 🔻<span class="via">VIA: Axioms</span>
 
 ---
 

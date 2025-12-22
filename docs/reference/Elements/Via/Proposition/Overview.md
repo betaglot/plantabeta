@@ -1,4 +1,4 @@
-# 🔻<via>VIA: Propositions</via>
+# 🔻<span class="via">VIA: Propositions</span>
 
 ---
 

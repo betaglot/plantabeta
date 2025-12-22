@@ -1,4 +1,4 @@
-# ⭐<labor>Effectiveness</labor>
+# ⭐<span class="labor">Effectiveness</span>
 
 ---
 

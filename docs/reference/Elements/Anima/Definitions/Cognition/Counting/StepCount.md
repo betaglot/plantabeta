@@ -1,7 +1,7 @@
 ---
 aside: false
 ---
-# 💜 <anima>StepCount</anima>
+# 💜 <span class="anima">StepCount</span>
 
 ---
 

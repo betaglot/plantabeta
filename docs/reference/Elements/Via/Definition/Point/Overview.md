@@ -1,4 +1,4 @@
-# 🔻<via>Point</via>
+# 🔻<span class="via">Point</span>
 
 ---
 

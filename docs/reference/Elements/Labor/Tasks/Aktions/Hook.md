@@ -1,4 +1,4 @@
-# ⭐<labor>Hook</labor>
+# ⭐<span class="labor">Hook</span>
 
 ---
 

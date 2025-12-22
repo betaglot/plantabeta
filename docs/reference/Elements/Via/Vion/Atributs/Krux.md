@@ -1,4 +1,4 @@
-# 🔻<via>Krux</via>
+# 🔻<span class="via">Krux</span>
 
 > the most difficult attribute of this Element
 

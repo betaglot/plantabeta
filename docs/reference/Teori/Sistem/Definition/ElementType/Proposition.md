@@ -159,9 +159,9 @@ At a different scope, *'HeelHooks can be used to traverse a ledge'* is a Teorem 
 
 <beta>*'HeelHooks can be used to traverse a ledge'*</beta> is a BetaStatement composed of instances of Elements from multiple Faktors:
 
-- 🟠<motor>HeelHook</motor>
-- 🔻<via>Traverse</via>
-- 🟩<ekos>Ledge</ekos>
+- 🟠<span class="motor">HeelHook</span>
+- 🔻<span class="via">Traverse</span>
+- 🟩<span class="ekos">Ledge</span>
 
 BetaStatements are not Elements, only the Statements of Faktors can be Elements.
 

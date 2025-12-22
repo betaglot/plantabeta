@@ -1,4 +1,4 @@
-# 🔷<soma>SOMON</soma>
+# 🔷<span class="soma">SOMON</span>
 
 ---
 

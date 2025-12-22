@@ -1,4 +1,4 @@
-# 🟩<ekos>Quercus</ekos>
+# 🟩<span class="ekos">Quercus</span>
 
 Oak
 

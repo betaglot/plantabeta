@@ -1,4 +1,4 @@
-# ⭐<labor>Bottle</labor>
+# ⭐<span class="labor">Bottle</span>
 
 Aliases: water bottle
 

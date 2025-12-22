@@ -1,4 +1,4 @@
-# 🔻<via>BoustroLine</via>
+# 🔻<span class="via">BoustroLine</span>
 
 ---
 

@@ -1,4 +1,4 @@
-# ⭐<labor>LABON: Frekentia</labor>
+# ⭐<span class="labor">LABON: Frekentia</span>
 
 > the statistics of this Element
 

@@ -1,4 +1,4 @@
-# 💜 <anima>Decision Overview </anima>
+# 💜 <span class="anima">Decision Overview </span>
 
 ## Conscious Decision
 

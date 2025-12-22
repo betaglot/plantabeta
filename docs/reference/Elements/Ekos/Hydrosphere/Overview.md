@@ -1,4 +1,4 @@
-# 🟩<ekos>Hydrosphere</ekos>
+# 🟩<span class="ekos">Hydrosphere</span>
 
 Aliases: Water, Hydrosphere
 

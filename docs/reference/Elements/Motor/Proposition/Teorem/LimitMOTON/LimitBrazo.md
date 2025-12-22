@@ -1,4 +1,4 @@
-# 🟠<motor>BrazoLimit</motor>
+# 🟠<span class="motor">BrazoLimit</span>
 
 ---
 

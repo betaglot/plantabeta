@@ -1,4 +1,4 @@
-# 🟩<ekos>EKON: Teknik</ekos>
+# 🟩<span class="ekos">EKON: Teknik</span>
 
 ## Definition
 

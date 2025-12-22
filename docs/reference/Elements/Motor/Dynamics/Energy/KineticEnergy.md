@@ -1,4 +1,4 @@
-# 🟠<motor>Kinetic Energy</motor>
+# 🟠<span class="motor">Kinetic Energy</span>
 
 ---
 

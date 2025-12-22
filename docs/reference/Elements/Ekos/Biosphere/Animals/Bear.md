@@ -1,4 +1,4 @@
-# 🟩<ekos>Bear</ekos>
+# 🟩<span class="ekos">Bear</span>
 
 ---
 

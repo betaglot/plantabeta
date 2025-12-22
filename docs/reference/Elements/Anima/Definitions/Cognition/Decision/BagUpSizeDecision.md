@@ -1,7 +1,7 @@
 ---
 aside: false
 ---
-# 💜 <anima>BagUpSizeDecision</anima>
+# 💜 <span class="anima">BagUpSizeDecision</span>
 
 ---
 

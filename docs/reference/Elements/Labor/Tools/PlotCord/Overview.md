@@ -1,4 +1,4 @@
-# ⭐<labor>PlotCord</labor>
+# ⭐<span class="labor">PlotCord</span>
 
 ---
 

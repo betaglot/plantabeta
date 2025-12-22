@@ -1,4 +1,4 @@
-# 🟠<motor>Projectile Motion</motor>
+# 🟠<span class="motor">Projectile Motion</span>
 
 ---
 

@@ -1,4 +1,4 @@
-# 🟩<ekos>Smoke</ekos>
+# 🟩<span class="ekos">Smoke</span>
 
 ---
 

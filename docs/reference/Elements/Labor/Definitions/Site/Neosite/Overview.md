@@ -1,4 +1,4 @@
-# ⭐<labor>Neosite</labor>
+# ⭐<span class="labor">Neosite</span>
 
 ---
 
@@ -25,7 +25,7 @@
     - To create an Eddie
     - Barrier
     - Shield
-    - <ekos>BlockerHold</ekos> like in KLIMBETA
+    - <span class="ekos">BlockerHold</span> like in KLIMBETA
 
 - ObstaclePlanting
 

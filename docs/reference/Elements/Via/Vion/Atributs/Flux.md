@@ -1,4 +1,4 @@
-# 🔻<via>Flux</via>
+# 🔻<span class="via">Flux</span>
 
 Aliases: Flow, Flowing MOTONment, Fluidity, Fluid movement, Continuous, NonStop, Constantly Changing, ever moving, fleeting,
 
@@ -14,7 +14,7 @@ Aliases: Flow, Flowing MOTONment, Fluidity, Fluid movement, Continuous, NonStop,
 
 Connection Score
 
-## 🟠<motor>MOVE.Flux</motor>
+## 🟠<span class="motor">MOVE.Flux</span>
 
 ### <beta>BetaAnalogy</beta>
 
@@ -24,7 +24,7 @@ Connection of MOTONs within Phrases and connections of phrases too.
 
 MOTONs flow into each other
 
-## 🔻<via>VIA.Flux</via>: Transition
+## 🔻<span class="via">VIA.Flux</span>: Transition
 
 Making a smooth transition
 

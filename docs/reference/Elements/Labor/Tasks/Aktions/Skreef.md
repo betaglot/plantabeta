@@ -1,4 +1,4 @@
-# ⭐<labor>Skreef</labor>
+# ⭐<span class="labor">Skreef</span>
 
 ---
 

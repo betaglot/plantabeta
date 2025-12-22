@@ -1,4 +1,4 @@
-# 🟩  <ekos>Helios</ekos>
+# 🟩  <span class="ekos">Helios</span>
 
 ## Shade
 

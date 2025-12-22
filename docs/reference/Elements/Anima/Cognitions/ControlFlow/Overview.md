@@ -1,5 +1,5 @@
 
-# 💜<anima>Control Flow</anima>
+# 💜<span class="anima">Control Flow</span>
 
 ---
 

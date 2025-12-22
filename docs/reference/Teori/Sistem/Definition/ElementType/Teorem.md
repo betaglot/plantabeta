@@ -8,19 +8,19 @@ A theorem is the mathematical statement and the proof is the method by which you
 
 ## Examples
 
-### 🟠<motor></motor>BodySag reduces FootFriction
+### 🟠<span class="motor"></span>BodySag reduces FootFriction
 
 BodySag is a MOTON, FootFriction is physics.
 
 Use other resources to explain Kinematics. Explaining physics is beyond the current scope of BETAGLOT
 
-### 🟠<motor></motor>StraightArms reduces Muscle Strain
+### 🟠<span class="motor"></span>StraightArms reduces Muscle Strain
 
-### 🔻<via></via>
+### 🔻<span class="via"></span>
 
-### 🟩<ekos></ekos>
+### 🟩<span class="ekos"></span>
 
-### 💜<anima></anima>
+### 💜<span class="anima"></span>
 
 <!-- =================================================== -->
 <!-- =================================================== -->

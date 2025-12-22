@@ -1,4 +1,4 @@
-# 🟩<ekos>EKOS: Teorem</ekos>
+# 🟩<span class="ekos">EKOS: Teorem</span>
 
 ---
 

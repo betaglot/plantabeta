@@ -1,10 +1,10 @@
-# 🌈<beta>BETUM</beta>
+# 🌈<beta>BETOM</beta>
 
 > The elements that happen each Beat
 
 Pronouned "bee-tum"
 
-## Etymology of Betum
+## Etymology of Betom
 
 ### Beat from Music
 

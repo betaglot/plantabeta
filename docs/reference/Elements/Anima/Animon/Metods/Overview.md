@@ -1,4 +1,4 @@
-# 💜<anima>ANIMON: Metods</anima>
+# 💜<span class="anima">ANIMON: Metods</span>
 
 ---
 

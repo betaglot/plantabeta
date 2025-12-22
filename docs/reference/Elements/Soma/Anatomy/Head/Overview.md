@@ -1,4 +1,4 @@
-# 🔷<soma>Head</soma>
+# 🔷<span class="soma">Head</span>
 
 ---
 

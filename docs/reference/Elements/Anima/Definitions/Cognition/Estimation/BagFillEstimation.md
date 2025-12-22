@@ -1,7 +1,7 @@
 ---
 aside: false
 ---
-# 💜 <anima>BagCoverEstimation </anima>
+# 💜 <span class="anima">BagCoverEstimation </span>
 
 ---
 

@@ -1,4 +1,4 @@
-# ⭐<labor>Radior</labor>
+# ⭐<span class="labor">Radior</span>
 
 Aliases: Vambrace, Forearm Guard
 

@@ -1,4 +1,4 @@
-# ⭐<labor>Transport</labor>
+# ⭐<span class="labor">Transport</span>
 
 ---
 

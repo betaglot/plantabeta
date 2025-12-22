@@ -45,16 +45,16 @@ These are the most common languages (besides Chinese and Russian) and are the of
 
 As you can see in the Betaglot logo, there are six parts. Each part has its own color and symbol associated with it
 
-1. ⭐ <labor>LABOR</labor>
-1. 🔷 <soma>SOMA</soma>
-1. 🟩 <ekos>EKOS</ekos>
-1. 🔻 <via>VIA</via>
-1. 🟠 <motor>MOTOR</motor>
-1. 💜 <anima>ANIMA</anima>
+1. ⭐ <span class="labor">LABOR</span>
+1. 🔷 <span class="soma">SOMA</span>
+1. 🟩 <span class="ekos">EKOS</span>
+1. 🔻 <span class="via">VIA</span>
+1. 🟠 <span class="motor">MOTOR</span>
+1. 💜 <span class="anima">ANIMA</span>
 
 Each category represents a different component of an athlete's experience
 
-⭐<labor>LABOR</labor> is the goal or purpose of an experience.
+⭐<span class="labor">LABOR</span> is the goal or purpose of an experience.
 
 In climbing LABOR is experienced as the competition, the route, the other competitors, the time limit, the tools you use, the clothes you wear and any other rules or regulations.
 
@@ -64,48 +64,48 @@ A more complex element of LABOR is a route. The goal of a route is to get to the
 
 ::: details Here are some more Aktions
 
-- Going throught a <labor>Gate</labor> in Slalom Skiing, and Kayaking
-- <labor>Reaching</labor> with your foot or hand or hip
-- Performing a <labor>backflip</labor>
-- Performing a <labor>dyno</labor>
-- <labor>Heel Hook, Toe Hook</labor>
-- <labor>Falling</labor>
-- <labor>Rolling</labor> your kayak
-- <labor>Jumping</labor> off a ski jump
-- <labor>Grinding</labor> on a rail
-- Performing an <labor>Ollie</labor>
-- Performing a <labor>Handstand</labor>
-- <labor>Gripping</labor> a Sloper
-- <labor>Crimping</labor> an Edge
-- <labor>Mobility</labor>
+- Going throught a <span class="labor">Gate</span> in Slalom Skiing, and Kayaking
+- <span class="labor">Reaching</span> with your foot or hand or hip
+- Performing a <span class="labor">backflip</span>
+- Performing a <span class="labor">dyno</span>
+- <span class="labor">Heel Hook, Toe Hook</span>
+- <span class="labor">Falling</span>
+- <span class="labor">Rolling</span> your kayak
+- <span class="labor">Jumping</span> off a ski jump
+- <span class="labor">Grinding</span> on a rail
+- Performing an <span class="labor">Ollie</span>
+- Performing a <span class="labor">Handstand</span>
+- <span class="labor">Gripping</span> a Sloper
+- <span class="labor">Crimping</span> an Edge
+- <span class="labor">Mobility</span>
 
 :::
 
 ---
 
-Every person has a different body. The category 🔷<soma>SOMA</soma> (which is just greek for "body") describes the body part used to perform the Aktion and the specific properties are the body part and body in general. 
+Every person has a different body. The category 🔷<span class="soma">SOMA</span> (which is just greek for "body") describes the body part used to perform the Aktion and the specific properties are the body part and body in general. 
 
 The length of your arms, BMI, total body height, age, ape index etc. all affect the way that an athlete performs an Aktion.
 
-You can perform the same Aktion with a different body part. You can <labor>Reach</labor> with your <soma>Arm</soma> or <labor>Reach</labor> with your <soma>Leg</soma>
+You can perform the same Aktion with a different body part. You can <span class="labor">Reach</span> with your <span class="soma">Arm</span> or <span class="labor">Reach</span> with your <span class="soma">Leg</span>
 
-::: details Some elements of <soma>SOMA</soma>
+::: details Some elements of <span class="soma">SOMA</span>
 
-- <soma>Arm, Leg, Hand, Finger, Torso, Head, Foot</soma>
-- <soma>VO2 max, Lung Capacity</soma>
-- <soma>Age, Child, Teen, Senior</soma>
-- <soma>Skin, Nail, Hair</soma>
-- <soma>Injuries</soma>
-- <soma>Muscle, Limberness,Tendons, Ligaments </soma>
-- <soma>Food, Electrolytes, the need to breathe</soma>
+- <span class="soma">Arm, Leg, Hand, Finger, Torso, Head, Foot</span>
+- <span class="soma">VO2 max, Lung Capacity</span>
+- <span class="soma">Age, Child, Teen, Senior</span>
+- <span class="soma">Skin, Nail, Hair</span>
+- <span class="soma">Injuries</span>
+- <span class="soma">Muscle, Limberness,Tendons, Ligaments </span>
+- <span class="soma">Food, Electrolytes, the need to breathe</span>
 
 :::
 
 ---
 
-Athletes aren't just floating in space, they are on Earth. 🟩<ekos>EKOS</ekos> (which is based on "Ecosystem", since the "eco" is greek for home or environment).
+Athletes aren't just floating in space, they are on Earth. 🟩<span class="ekos">EKOS</span> (which is based on "Ecosystem", since the "eco" is greek for home or environment).
 
-::: details Elements of <ekos>EKOS</ekos> include:
+::: details Elements of <span class="ekos">EKOS</span> include:
 
 - Water, Rain, Snow, Ice
 - Climbing Wall, Climbing Hold
@@ -121,11 +121,11 @@ Athletes aren't just floating in space, they are on Earth. 🟩<ekos>EKOS</ekos>
 
 ---
 
-Say you're skiing down a slope and there is an obstacle in your path, you can go left or right around it. The part of your experience which deals with the particular way that you perform an Aktion is 🔻<via>VIA</via>. 
+Say you're skiing down a slope and there is an obstacle in your path, you can go left or right around it. The part of your experience which deals with the particular way that you perform an Aktion is 🔻<span class="via">VIA</span>. 
 
-The core component of <via>VIA</via> is <via>Affordance</via>. You must perceive that your path, method, location is possible.
+The core component of <span class="via">VIA</span> is <span class="via">Affordance</span>. You must perceive that your path, method, location is possible.
 
-::: details Elements of <via>VIA</via> include:
+::: details Elements of <span class="via">VIA</span> include:
 
 - Direction (up, down, in, out, across, over ...)
 - Geometry (Shape, Form)
@@ -137,15 +137,15 @@ The core component of <via>VIA</via> is <via>Affordance</via>. You must perceive
 
 ---
 
-To actually move through time and space you require 🟠<motor>MOTOR</motor>. This category represents your experience of motion in Time. <motor>MOTOR</motor> includes all of Kinematic Physics (motion, speed, acceleration, time) and Dynamics Physics (force, velocity, momentum, inertia). The person who's work best represents what <motor>MOTOR</motor> is all about is Isaac Newton.
+To actually move through time and space you require 🟠<span class="motor">MOTOR</span>. This category represents your experience of motion in Time. <span class="motor">MOTOR</span> includes all of Kinematic Physics (motion, speed, acceleration, time) and Dynamics Physics (force, velocity, momentum, inertia). The person who's work best represents what <span class="motor">MOTOR</span> is all about is Isaac Newton.
 
 ---
 
-The last, but most fundamental of all the categories is 💜<anima>ANIMA</anima> (which was "Psyche" for about a year, but I decided that it's difficult to pronounce and a lot of people have a negative view of "Psychology, Psychiatrist ..."). <anima>ANIMA</anima> can be translated as "soul". Unlike the other categories <anima>ANIMA</anima> is mostly not visible from a third person point of view. The foundation of <anima>ANIMA</anima> and all other categories is Awareness, also called consciousness . Awareness is where "you" are, it's where your thoughts and sensations occur. <anima>ANIMA</anima> is not logical, it is emotional, inuitive, instinctual and is usually non-verbal. <anima>ANIMA</anima> is anything that occurs in your nervous system.
+The last, but most fundamental of all the categories is 💜<span class="anima">ANIMA</span> (which was "Psyche" for about a year, but I decided that it's difficult to pronounce and a lot of people have a negative view of "Psychology, Psychiatrist ..."). <span class="anima">ANIMA</span> can be translated as "soul". Unlike the other categories <span class="anima">ANIMA</span> is mostly not visible from a third person point of view. The foundation of <span class="anima">ANIMA</span> and all other categories is Awareness, also called consciousness . Awareness is where "you" are, it's where your thoughts and sensations occur. <span class="anima">ANIMA</span> is not logical, it is emotional, inuitive, instinctual and is usually non-verbal. <span class="anima">ANIMA</span> is anything that occurs in your nervous system.
 
-Although your eyes are part of your body, Betaglot categorizes them as <anima>ANIMA</anima>, given that your retina is literally part of your brain. 
+Although your eyes are part of your body, Betaglot categorizes them as <span class="anima">ANIMA</span>, given that your retina is literally part of your brain. 
 
-::: details Elements of <anima>ANIMA</anima> include:
+::: details Elements of <span class="anima">ANIMA</span> include:
 
 - Attention
 - Touch, Sight, Hearing, Taste, Proprioception
@@ -159,11 +159,11 @@ Although your eyes are part of your body, Betaglot categorizes them as <anima>AN
 
 ## How do the categories go together?
 
-Betaglot is a combinatory system. The unit of combination is called a 🌈BETUM (the rainbow icon has all the colors of Betaglot).
+Betaglot is a combinatory system. The unit of combination is called a 🌈BETOM (the rainbow icon has all the colors of Betaglot).
 
-Betums must include at least two elements and are surrounded by square brackets 
+Betoms must include at least two elements and are surrounded by square brackets 
 
-[<labor>LABOR</labor>, <soma>SOMA</soma>, <ekos>EKOS</ekos>, <via>VIA</via> <motor>MOTOR</motor>, <anima>ANIMA</anima>] 
+[<span class="labor">LABOR</span>, <span class="soma">SOMA</span>, <span class="ekos">EKOS</span>, <span class="via">VIA</span> <span class="motor">MOTOR</span>, <span class="anima">ANIMA</span>] 
 
 or represented digitally as these boxes 
 
@@ -171,22 +171,22 @@ or represented digitally as these boxes
 
 The order in which the elements of each category is listed is fixed
 
-1. ⭐ <labor>LABOR</labor>
-1. 🔷 <soma>SOMA</soma>
-1. 🟩 <ekos>EKOS</ekos>
-1. 🔻 <via>VIA</via>
-1. 🟠 <motor>MOTOR</motor>
-1. 💜 <anima>ANIMA</anima>
+1. ⭐ <span class="labor">LABOR</span>
+1. 🔷 <span class="soma">SOMA</span>
+1. 🟩 <span class="ekos">EKOS</span>
+1. 🔻 <span class="via">VIA</span>
+1. 🟠 <span class="motor">MOTOR</span>
+1. 💜 <span class="anima">ANIMA</span>
 
-### Examples of Betums
+### Examples of Betoms
 
 <BC l='Skateboard, Grind's=''e='Rail'v=''m='Fast'a=''/>
 <BC l='Reach's='Arm'e='Sloper'v='Left'm=''a=''/>
 <BC l=''s=''e=''v=''m=''a=''/>
 
-## Seeing Betums in Images
+## Seeing Betoms in Images
 
-## Seeing Betums in Gifs
+## Seeing Betoms in Gifs
 
 ## Why was Betaglot created?
 

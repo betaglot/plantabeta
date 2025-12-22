@@ -1,4 +1,4 @@
-# 🟠<motor>MOTONTeknik</motor>
+# 🟠<span class="motor">MOTONTeknik</span>
 
 > the complexity of this Element
 

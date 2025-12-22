@@ -1,4 +1,4 @@
-# 🔻 <via>MidPoint</via>
+# 🔻 <span class="via">MidPoint</span>
 >
 > the middle between two point
 

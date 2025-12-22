@@ -1,4 +1,4 @@
-# ⭐<labor>Site</labor>
+# ⭐<span class="labor">Site</span>
 
 (Block > Piece > Div > Microsite )
 

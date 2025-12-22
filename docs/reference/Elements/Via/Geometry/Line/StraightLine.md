@@ -1,4 +1,4 @@
-# 🔻 <via>StraightLine</via>
+# 🔻 <span class="via">StraightLine</span>
 
 ---
 

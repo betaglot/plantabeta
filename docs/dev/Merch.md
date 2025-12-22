@@ -10,7 +10,7 @@ Scantily clad Planters
 
 No genders
 
-### <motor>Spade: ⭐<labor>Spade</labor>,🟠<motor>MOTON</motor></motor>
+### <span class="motor">Spade: ⭐<span class="labor">Spade</span>,🟠<span class="motor">MOTON</span></span>
 
 - Ace:
 - 2:
@@ -26,7 +26,7 @@ No genders
 - Q:
 - K:
 
-### <anima>Heart: ANIMA</anima>
+### <span class="anima">Heart: ANIMA</span>
 
 Focus on Emotion and feeling, not abstract computations
 
@@ -44,7 +44,7 @@ Focus on Emotion and feeling, not abstract computations
 - Q:
 - K:
 
-### <via>Diamond: BETA</via>
+### <span class="via">Diamond: BETA</span>
 
 - Ace:
 - 2:
@@ -60,7 +60,7 @@ Focus on Emotion and feeling, not abstract computations
 - Q:
 - K:
 
-### <ekos>Club: EKONS</ekos>
+### <span class="ekos">Club: EKONS</span>
 
 - Ace: Cream
 - 2:

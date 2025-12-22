@@ -1,4 +1,4 @@
-# ⭐<labor>LABON: Alias</labor>
+# ⭐<span class="labor">LABON: Alias</span>
 
 > other names used to refer to this Element. In english or other languages.
 

@@ -1,4 +1,4 @@
-# 🟠<motor>MOTONKuboi</motor>
+# 🟠<span class="motor">MOTONKuboi</span>
 
 Formery Known As: PROBABILITAS
 

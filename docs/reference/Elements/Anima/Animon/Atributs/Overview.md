@@ -1,4 +1,4 @@
-# 💜<anima>ANIMON: Atributs</anima>
+# 💜<span class="anima">ANIMON: Atributs</span>
 
 ---
 

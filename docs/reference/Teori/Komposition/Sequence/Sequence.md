@@ -14,7 +14,7 @@ The Sequences of each Faktors
 
 Aliases: Concurrent Element
 
-> A 🟠<motor>MOTON</motor> which is performed at the same time as another 🟠<motor>MOTON</motor>
+> A 🟠<span class="motor">MOTON</span> which is performed at the same time as another 🟠<span class="motor">MOTON</span>
 
 ### Concurrency or Parallelism
 

@@ -1,4 +1,4 @@
-# 🔻<via>Geometry</via>
+# 🔻<span class="via">Geometry</span>
 
 ---
 

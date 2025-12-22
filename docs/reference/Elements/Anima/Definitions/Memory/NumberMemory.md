@@ -1,7 +1,7 @@
 ---
 aside: false
 ---
-# <anima>Number Memory</anima>
+# <span class="anima">Number Memory</span>
 
 ## Mnemonics
 

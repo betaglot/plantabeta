@@ -1,4 +1,4 @@
-# 🟩<ekos>Hail</ekos>
+# 🟩<span class="ekos">Hail</span>
 
 ---
 

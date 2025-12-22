@@ -8,12 +8,12 @@ A method can be a Problem
 
 ## Elements of each Faktor
 
-- 🌈<beta>BETUM</beta>
-- ⭐<labor>LABOR</labor>
-- 🟩<ekos>EKON</ekos>
-- 🔻<via>VIUM</via>
-- 🟠<motor>MOTON</motor>
-- 💜<anima>ANIMA</anima>
+- 🌈<beta>BETOM</beta>
+- ⭐<span class="labor">LABOR</span>
+- 🟩<span class="ekos">EKON</span>
+- 🔻<span class="via">VIUM</span>
+- 🟠<span class="motor">MOTON</span>
+- 💜<span class="anima">ANIMA</span>
 
 ## Taxonomy of Elements
 
@@ -28,7 +28,7 @@ A method can be a Problem
 
 (Element_A + Element_B == Element_AB)
 
-Brazo + Onda == 🔷<soma>Brazo</soma>,🟠<motor>Onda</motor>
+Brazo + Onda == 🔷<span class="soma">Brazo</span>,🟠<span class="motor">Onda</span>
 
 Elements combined together become a new element, not a Compound like Chemistry.
 

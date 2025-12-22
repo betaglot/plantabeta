@@ -1,4 +1,4 @@
-# 🟩  <ekos>Mineral Soil</ekos>
+# 🟩  <span class="ekos">Mineral Soil</span>
 
 ---
 

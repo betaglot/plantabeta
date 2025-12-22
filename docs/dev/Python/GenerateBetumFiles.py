@@ -1,7 +1,7 @@
 ############# Convert the CSV into a List of Dictionaries
 
 
-# fileHandle = open(r'C:\Users\chris\plantabeta\docs\dev\Python\Betums.csv', 'r')
+# fileHandle = open(r'C:\Users\chris\plantabeta\docs\dev\Python\Betoms.csv', 'r')
 
 # for line in fileHandle:
 #     faktor = line.split('|') 
@@ -462,7 +462,7 @@ betumsList = [{"labor":"","soma":"","ekos":"","via":"4Density","motor":"","anima
 for index, item in enumerate(betumsList):
     print(index,item['labor'],item['soma'],item['ekos'])
 
-###################Sort the elements within each Faktor to conform to Betum Syntax
+###################Sort the elements within each Faktor to conform to Betom Syntax
 
 # Any elements nested below a subsubfaktor are Alphabetically Ordered
 

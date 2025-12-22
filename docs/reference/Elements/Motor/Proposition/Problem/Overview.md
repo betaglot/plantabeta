@@ -1,4 +1,4 @@
-# 🟠<motor>MOTOR: Problems</motor>
+# 🟠<span class="motor">MOTOR: Problems</span>
 
 ---
 

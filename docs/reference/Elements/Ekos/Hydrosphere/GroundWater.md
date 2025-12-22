@@ -1,4 +1,4 @@
-# 🟩<ekos>GroundWater</ekos>
+# 🟩<span class="ekos">GroundWater</span>
 
 ---
 

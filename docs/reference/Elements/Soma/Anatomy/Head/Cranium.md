@@ -1,4 +1,4 @@
-# 🔷<soma>Cranium</soma>
+# 🔷<span class="soma">Cranium</span>
 
 ---
 

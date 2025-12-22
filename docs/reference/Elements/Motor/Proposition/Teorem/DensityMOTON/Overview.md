@@ -1,4 +1,4 @@
-# 🟠<motor>MOTONDensity</motor>
+# 🟠<span class="motor">MOTONDensity</span>
 
 ---
 

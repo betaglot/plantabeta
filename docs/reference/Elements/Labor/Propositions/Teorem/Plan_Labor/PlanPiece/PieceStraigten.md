@@ -1,4 +1,4 @@
-# 🔻<via>PlanStraigten</via>
+# 🔻<span class="via">PlanStraigten</span>
 
 ---
 

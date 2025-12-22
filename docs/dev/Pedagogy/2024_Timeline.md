@@ -47,30 +47,30 @@ sidebar: false
 
 ## 🌈<beta>BETA</beta>
 
-### ⭐<labor>LABOR</labor>
+### ⭐<span class="labor">LABOR</span>
 
 - 800 total the first 3 days
 - J roots and what makes a tree straight
 
-### 🔷<soma>SOMA</soma>
+### 🔷<span class="soma">SOMA</span>
 
-### 🟩<ekos>EKOS</ekos>
+### 🟩<span class="ekos">EKOS</span>
 
 - It had trenches in the front, a bit of a slope in the middle which was raw, then raw at the top which was rock cap.
 
-### 🔻<via>VIA</via>
+### 🔻<span class="via">VIA</span>
 
 - how to plant rock caps
 - what a slash pile is and to not plant within a slash pile
 - told us to deadwalk into the back and start planting
 
-### 🟠<motor>MOTOR</motor>
+### 🟠<span class="motor">MOTOR</span>
 
 - how to throw the spade
 - how to properly take plots
 - how to throw the shovel
 
-### 💜<anima>ANIMA</anima>
+### 💜<span class="anima">ANIMA</span>
 
 - picking a microsite
 

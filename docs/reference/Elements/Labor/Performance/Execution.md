@@ -1,4 +1,4 @@
-# ⭐<labor>Execution</labor>
+# ⭐<span class="labor">Execution</span>
 
 ---
 

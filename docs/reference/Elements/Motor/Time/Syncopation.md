@@ -1,4 +1,4 @@
-# 🟠<motor>Syncopation</motor>
+# 🟠<span class="motor">Syncopation</span>
 
 ---
 

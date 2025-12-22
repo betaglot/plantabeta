@@ -1,4 +1,4 @@
-# 🟩<ekos>Spores</ekos>
+# 🟩<span class="ekos">Spores</span>
 
 ---
 

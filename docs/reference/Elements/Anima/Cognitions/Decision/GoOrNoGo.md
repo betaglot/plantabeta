@@ -1,4 +1,4 @@
-# 💜 <anima>GoOrNoGo </anima>
+# 💜 <span class="anima">GoOrNoGo </span>
 
 ## Unplantable?
 

@@ -1,4 +1,4 @@
-# ⭐<labor>Orbit</labor>
+# ⭐<span class="labor">Orbit</span>
 
 ---
 

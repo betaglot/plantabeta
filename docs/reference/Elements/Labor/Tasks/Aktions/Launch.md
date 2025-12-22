@@ -1,4 +1,4 @@
-# ⭐<labor>Launch</labor>
+# ⭐<span class="labor">Launch</span>
 
 ---
 

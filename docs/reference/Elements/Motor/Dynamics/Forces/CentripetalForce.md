@@ -1,4 +1,4 @@
-# 🟠<motor>Centripetal Force</motor>
+# 🟠<span class="motor">Centripetal Force</span>
 
 ---
 

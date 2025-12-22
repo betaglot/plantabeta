@@ -1,4 +1,4 @@
-# 🔷<soma>SOMON: Atributs</soma>
+# 🔷<span class="soma">SOMON: Atributs</span>
 
 ---
 

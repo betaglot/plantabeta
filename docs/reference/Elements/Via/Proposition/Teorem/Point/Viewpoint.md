@@ -1,4 +1,4 @@
-# 🔻<via>Viewpoint</via>
+# 🔻<span class="via">Viewpoint</span>
 
 Survey your land.
 

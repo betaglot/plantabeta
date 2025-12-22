@@ -1,4 +1,4 @@
-# ⭐<labor>Demobeta</labor>
+# ⭐<span class="labor">Demobeta</span>
 
 ---
 

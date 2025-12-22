@@ -1,4 +1,4 @@
-# 🟩<ekos>Biosphere</ekos>
+# 🟩<span class="ekos">Biosphere</span>
 
 ---
 

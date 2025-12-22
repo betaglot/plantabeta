@@ -235,11 +235,11 @@ for object in BetaList:
 ```vue
 
 <Beta>
-    <Via>Cover</Via>
-    <motor>Climb</motor>
-    <ekos>Log</ekos>
-    <Via>MinimumSpace</Via>
-    <motor>ArmPut</motor>
+    <span class="via">Cover</span>
+    <span class="motor">Climb</span>
+    <span class="ekos">Log</span>
+    <span class="via">MinimumSpace</span>
+    <span class="motor">ArmPut</span>
 </Beta>
 
 ```

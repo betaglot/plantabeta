@@ -1,5 +1,5 @@
 
-# 💜 <anima>Disgust </anima>
+# 💜 <span class="anima">Disgust </span>
 
 ---
 

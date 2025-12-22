@@ -1,22 +1,22 @@
-# 🟩<ekos>EKON: Anatomia</ekos>
+# 🟩<span class="ekos">EKON: Anatomia</span>
 
 > the parts of the Element
 
 ## Examples
 
-- 🟩<ekos>Stump</ekos>
+- 🟩<span class="ekos">Stump</span>
     - Top of Stump
     - Side
     - Buttress
-- 🟠<motor>HeelHook</motor>
+- 🟠<span class="motor">HeelHook</span>
     - Foot
     - Shoe
     - Leg
-- 🔻<via>Curve</via>
+- 🔻<span class="via">Curve</span>
     - Start
     - Finish
     - Middle
-- 💜<anima>ANIMA</anima>
+- 💜<span class="anima">ANIMA</span>
     - Anatomy doesn't apply to ANIMAscience. ANIMAanatomy is beyond the scope of Sistem.
 
 ---

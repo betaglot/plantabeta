@@ -1,4 +1,4 @@
-# <beta>BETUMs</beta>
+# <beta>BETOMs</beta>
 
 <div class="text-h1">
 <BB :b="{ l:'LABOR',s:'SOMA',e:'EKOS',v:'VIA',m:'MOTOR', a:'ANIMA'}"/>
@@ -6,13 +6,13 @@
 
 ## Syntax
 
-1. <labor>LABOR</labor>
-    1. <labor>Task</labor>
-    2. <labor>Tool</labor>
-    3. <labor>Performance</labor>
-1. <soma>SOMA</soma>
-1. <ekos>EKOS</ekos>
-1. <via>VIA</via>
+1. <span class="labor">LABOR</span>
+    1. <span class="labor">Task</span>
+    2. <span class="labor">Tool</span>
+    3. <span class="labor">Performance</span>
+1. <span class="soma">SOMA</span>
+1. <span class="ekos">EKOS</span>
+1. <span class="via">VIA</span>
     1. Geometry
         1. Direction
         1. Position
@@ -20,8 +20,8 @@
     1. Logic
     1. Probability
 
-1. <motor>MOTOR</motor>
-1. <anima>ANIMA</anima>
+1. <span class="motor">MOTOR</span>
+1. <span class="anima">ANIMA</span>
 
 ---
 

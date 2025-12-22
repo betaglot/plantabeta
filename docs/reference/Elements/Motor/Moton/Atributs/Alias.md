@@ -1,4 +1,4 @@
-# 🟠<motor>MOTONAlias</motor>
+# 🟠<span class="motor">MOTONAlias</span>
 
 > other names used to refer to this Element. In english or other languages.
 

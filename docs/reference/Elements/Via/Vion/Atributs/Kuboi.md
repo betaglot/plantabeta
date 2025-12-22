@@ -1,4 +1,4 @@
-# 🔻<via>ViaKuboi</via>
+# 🔻<span class="via">ViaKuboi</span>
 
 Formery Known As: PROBABILITAS
 

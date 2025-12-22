@@ -1,4 +1,4 @@
-# ⭐<labor>Plantafor</labor>
+# ⭐<span class="labor">Plantafor</span>
 
 Aliases: Planting Bags
 

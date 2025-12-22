@@ -1,4 +1,4 @@
-# 💜 <anima>Auditory Sense</anima>
+# 💜 <span class="anima">Auditory Sense</span>
 
 ---
 

@@ -2,7 +2,7 @@
 
 The most important constraint for Instruments is the space it takes in the Truck.
 
-## <labor>TrailerDev</labor>
+## <span class="labor">TrailerDev</span>
 
 A trailer loaded with everthing that PlanterS need for their season. For Planters only, not for company logistics like water purification or showers or kitchen.
 
@@ -35,16 +35,16 @@ Not a place where many duplicates items are stored
     - Door Lock
     - Chained to a building or Pole
 
-## ⭐<labor>PhoneDev</labor>
+## ⭐<span class="labor">PhoneDev</span>
 
 - Guided Planting Session
     - 3k pacer
     - 2k pacer
     - Input BagOut parameters
 
-## ⭐<labor>MarkaDev</labor>
+## ⭐<span class="labor">MarkaDev</span>
 
-> Paper Towel cut into strips and painted <soma>BLUE</soma> with non toxic paint
+> Paper Towel cut into strips and painted <span class="soma">BLUE</span> with non toxic paint
 
 ### Color
 
@@ -108,7 +108,7 @@ Recycled Paper is usually to dark to dye light blue. Tint isn't easily added to 
 
 <https://www.cbc.ca/news/canada/calgary/university-of-calgary-1.6125840>
 
-## ⭐<labor>DendroforDev</labor>
+## ⭐<span class="labor">DendroforDev</span>
 
 Hold the thing that holds the Neon
 
@@ -116,7 +116,7 @@ Clamp under wrist to allow
 
 Attaches to the underside of Radior
 
-## ⭐<labor>KiklosDev</labor>
+## ⭐<span class="labor">KiklosDev</span>
 
 Kiklos: wheel
 
@@ -125,13 +125,13 @@ Aliases: Cart, Wagon, Trolley, Dolly, WheelBarrow
 - WalkIn
 - BoxMOTON
 
-## ⭐<labor>DoruDev</labor>
+## ⭐<span class="labor">DoruDev</span>
 
 Greek for Spear
 
 Lash D to Doru
 
-## ⭐<labor>PlantaforDev</labor>
+## ⭐<span class="labor">PlantaforDev</span>
 
 > (Plantafor == "plant" + "bearer")
 
@@ -147,27 +147,27 @@ Packed up space. Fold up Bag like origami
 
 Partially Disassemble to reduce space
 
-### ⭐<labor>PieceCacheDev</labor>
+### ⭐<span class="labor">PieceCacheDev</span>
 
 Somehow use Plantafor to carry a PieceCache
 
-### ⭐<labor>BagMaterialDev</labor>
+### ⭐<span class="labor">BagMaterialDev</span>
 
 - Not plastic
 - Carbon Fiber
 -
 
-### ⭐<labor>BeltDev</labor>
+### ⭐<span class="labor">BeltDev</span>
 
 - Rope which flows into frame
 - Custom and adjust by knot like harness
 - Suspension System
 
-### ⭐<labor>BasketWallDev</labor>
+### ⭐<span class="labor">BasketWallDev</span>
 
 - Cradle board sidebag
 
-### ⭐<labor>BagFrameDev</labor>
+### ⭐<span class="labor">BagFrameDev</span>
 
 They should be rigid and woven
 
@@ -195,7 +195,7 @@ Make cardboard prototype.
 
 "Lay up"
 
-### ⭐<labor>BagSkeletonDev</labor>
+### ⭐<span class="labor">BagSkeletonDev</span>
 
 Pannier
 
@@ -203,7 +203,7 @@ Pannier
 - To keep sidebags from rubbing on legs.
 - Suspension system
 
-### ⭐<labor>BackBagDev</labor>
+### ⭐<span class="labor">BackBagDev</span>
 
 - ❌<error>There needs to be another moniker for "BackBag"</error>
     - Something like "Instrumentbox"
@@ -211,7 +211,7 @@ Pannier
 - Use waterproof Flap instead of sphincter design, since sphincter allows water to collect and slowly seep into backbag.
 - Pocket on underside of Flap
 
-### ⭐<labor>MarkaforDev</labor>
+### ⭐<span class="labor">MarkaforDev</span>
 
 - DiskShooter which shoots DiskFlag which expands and has hooks
 - Each time you pull a flag out, it triggers a geolocation
@@ -232,28 +232,28 @@ Polychrome or Polytipos
 
 More than one color
 
-## ⭐<labor>RopeDev</labor>
+## ⭐<span class="labor">RopeDev</span>
 
 Rope to transport the Instruments
 
-### ⭐<labor>PlotCordDev</labor>
+### ⭐<span class="labor">PlotCordDev</span>
 
 - Abacus plot cord
 - Storage within Bags accessible with bags on.
 
-### ⭐<labor>Lashing(SummerCache)</labor>
+### ⭐<span class="labor">Lashing(SummerCache)</span>
 
 Lashing requires a thinner rope than
 
 Use Hemp Lashing so you can leave the sticks to decompose
 
-### ⭐<labor>Abrasion Resistant MaterialDev</labor>
+### ⭐<span class="labor">Abrasion Resistant MaterialDev</span>
 
 Cordura or Kevlar
 
 - <https://www.testextextile.com/evaluating-the-abrasion-resistance-of-different-fabric-types/#Most_Abrasion-Resistant_Synthetic_Fibers>
 
-## ⭐<labor>KitDev</labor>
+## ⭐<span class="labor">KitDev</span>
 
 ### Requirements
 
@@ -287,9 +287,9 @@ Protein Powder Cookies
 
 ### Dirty Gloves
 
-## ⭐<labor>Water VolumeDev</labor>
+## ⭐<span class="labor">Water VolumeDev</span>
 
-## ⭐<labor>SuitDev</labor>
+## ⭐<span class="labor">SuitDev</span>
 
 ### SuitModularity
 
@@ -315,7 +315,7 @@ Mail at joints
 
 #### SuitSwap out parts to adapt to EKOS and MOTON
 
-### ⭐<labor>RadiorDev</labor>
+### ⭐<span class="labor">RadiorDev</span>
 
 #### Etymology(Radior)
 
@@ -341,7 +341,7 @@ The goal of vambrace is to keep the hand clean and warm. There isn't a need to p
 - You only need to worry about the back of your hands. Glabrous warms the palm
 - Wool lining
 
-### ⭐<labor>PaddingDev</labor>
+### ⭐<span class="labor">PaddingDev</span>
 
 - HipPadding
 - KneePadding
@@ -352,7 +352,7 @@ The goal of vambrace is to keep the hand clean and warm. There isn't a need to p
     - Planters wear a corset under their waist belt like a saddle pad
     - Corset restricts BendOver
 
-### ⭐<labor>PantDev</labor>
+### ⭐<span class="labor">PantDev</span>
 
 - Gusset to strengthen crotch
 
@@ -382,7 +382,7 @@ SuitParts = [
 
 ```
 
-### ⭐<labor>TibiorDev</labor>
+### ⭐<span class="labor">TibiorDev</span>
 
 #### Aliases
 
@@ -403,7 +403,7 @@ SuitParts = [
 - Extra padding to strengthen attachment point and to prevent erosion from metal wire from rubbing on boot leather.
 - Big zipper
 
-### ⭐<labor>GloveDev</labor>
+### ⭐<span class="labor">GloveDev</span>
 
 - GloveShell
     - HardSurface on palm like Starwars StormTrooper, marvel
@@ -425,18 +425,18 @@ SuitParts = [
 - Glove which does not collect dirt unlike the knitted gloves currently used by most Planters
 - Easily taken off without getting dirt inside
 
-### ⭐<labor>KranosDev</labor>
+### ⭐<span class="labor">KranosDev</span>
 
 - Etymology(Kranos) = Cranium
 - Helmet
 - SoftShell
 - BugNet
 
-### ⭐<labor>ShellDev</labor>
+### ⭐<span class="labor">ShellDev</span>
 
 <https://www.patagonia.ca/product/hose-down-slicker-jacket/27892.html?dwvar_27892_color=CMPO>
 
-#### ⭐<labor>ZipperDev</labor>
+#### ⭐<span class="labor">ZipperDev</span>
 
 - Zipper.Anatomy
     - Tape
@@ -455,7 +455,7 @@ SuitParts = [
     - to prevent getting mud on your shell while you're trying to Mano the ZipperTab
     - to allow you to lever the zipper tab so that the cinch
 
-### ⭐<labor>Bellow BackpackDev</labor>
+### ⭐<span class="labor">Bellow BackpackDev</span>
 
 Bellow which blows air into shirt for evaporative cooling during summer
 
@@ -467,7 +467,7 @@ Exchangeable Air Filter on Intake Valve
 
 One Way Valve
 
-### ⭐<labor>Cape</labor>
+### ⭐<span class="labor">Cape</span>
 
 Poncho
 
@@ -477,16 +477,16 @@ Aang Cape
 
 ### LocalizedRepair
 
-## ⭐<labor>EcoInstruments</labor>
+## ⭐<span class="labor">EcoInstruments</span>
 
-### ⭐<labor>TreeBox</labor>
+### ⭐<span class="labor">TreeBox</span>
 
 - Premixed boxes
 - PieceCache
 - U haul graphic prt boxes
     - Element poster
 
-### ⭐<labor>Treepod</labor>
+### ⭐<span class="labor">Treepod</span>
 
 Design Treepod to be like ammo.
 
@@ -494,7 +494,7 @@ Seven sided hexagon with honey glue on the last side
 
 Treepod
 
-### ⭐<labor>Bundle Wrapper</labor>
+### ⭐<span class="labor">Bundle Wrapper</span>
 
 (Untie bundle)InsteadOf(BundlePeel)
 

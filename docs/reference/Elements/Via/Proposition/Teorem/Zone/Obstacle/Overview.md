@@ -1,4 +1,4 @@
-# 🔻<via>Obstacle</via>
+# 🔻<span class="via">Obstacle</span>
 
 > a thing that blocks one's way or prevents or hinders progress.
 

@@ -1,4 +1,4 @@
-# 💜<anima>Feels Goode</anima>
+# 💜<span class="anima">Feels Goode</span>
 
 ---
 

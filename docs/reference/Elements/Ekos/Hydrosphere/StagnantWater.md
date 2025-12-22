@@ -1,4 +1,4 @@
-# 🟩<ekos>StagnantWater</ekos>
+# 🟩<span class="ekos">StagnantWater</span>
 
 ---
 

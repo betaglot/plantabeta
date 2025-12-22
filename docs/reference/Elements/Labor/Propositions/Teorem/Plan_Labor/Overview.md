@@ -1,4 +1,4 @@
-# 🔻<via>Plan</via>
+# 🔻<span class="via">Plan</span>
 
 > A plan to complete a zone by using Lines, Divs, Deadwalking, Marka
 

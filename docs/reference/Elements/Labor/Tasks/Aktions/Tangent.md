@@ -1,4 +1,4 @@
-# ⭐<labor>Tangent</labor>
+# ⭐<span class="labor">Tangent</span>
 
 ---
 

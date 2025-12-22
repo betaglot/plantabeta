@@ -1,4 +1,4 @@
-# 🔷<soma>SOMA: Propositions</soma>
+# 🔷<span class="soma">SOMA: Propositions</span>
 
 ---
 

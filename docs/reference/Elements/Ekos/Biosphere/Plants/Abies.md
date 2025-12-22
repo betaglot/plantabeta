@@ -1,4 +1,4 @@
-# 🟩<ekos>Abies</ekos>
+# 🟩<span class="ekos">Abies</span>
 
 Balsam Fir
 

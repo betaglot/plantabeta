@@ -2,13 +2,13 @@
 import FaktorIkon from '/vue/FaktorIkon.vue'
 </script>
 
-# <div class="d-flex justify-center text-h1"><motor>MOTOR</motor></div>
+# <div class="d-flex justify-center text-h1"><span class="motor">MOTOR</span></div>
 
 <FaktorIkon imageSource='/Ikon/Motor_Ikon.png' />
 
-## What is <motor>MOTOR?</motor>
+## What is <span class="motor">MOTOR?</span>
 
-::: details Why is it called <motor>MOTOR</motor>?
+::: details Why is it called <span class="motor">MOTOR</span>?
 
 :::
 

@@ -12,7 +12,7 @@ All BetaFunctions require at least 2 modules
 
 ## <beta>Ask(Beta)</beta>
 
-🟠<motor>Speak()</motor>
+🟠<span class="motor">Speak()</span>
 
 ## <beta>Link(Beta)</beta>
 
@@ -41,9 +41,9 @@ Abstract Syntax Tree
     - Leg.Step.Over(Log)
 
 3. Separate into <beta>BetaModules</beta> (optional step)
-    - 🟠<motor>Leg.Step()</motor>
-    - 🔻<via>Over</via>
-    - 🟩<ekos>Log</ekos>
+    - 🟠<span class="motor">Leg.Step()</span>
+    - 🔻<span class="via">Over</span>
+    - 🟩<span class="ekos">Log</span>
 
 ## <beta>Give(Beta)</beta>
 
@@ -53,17 +53,17 @@ Abstract Syntax Tree
 
 > There is one bag left in my piece.
 
-## <beta>Replant(<via>ViaSpace</via>)</beta>
+## <beta>Replant(<span class="via">ViaSpace</span>)</beta>
 
 ## <beta>Put()</beta>
 
 > to move something or someone into the stated place, position, or direction
 
-### <beta>Put(<ekos>Plant</ekos>)</beta>
+### <beta>Put(<span class="ekos">Plant</span>)</beta>
 
 > to plant a plant in the soil
 
-### <beta>Put(<ekos>Root</ekos>)</beta>
+### <beta>Put(<span class="ekos">Root</span>)</beta>
 
 > to place a root within a Hole
 
@@ -71,29 +71,29 @@ Stuff into hole
 
 With BareRoots you must often curl the roots into the hole
 
-<ekos>Nanosite</ekos> is a ViaPoint
+<span class="ekos">Nanosite</span> is a ViaPoint
 
-### <beta>Put(<via>Marka</via>)</beta>
+### <beta>Put(<span class="via">Marka</span>)</beta>
 
 > to place a Marka on an EkoElement
 
-<via>MarkaSite</via> is a ViaPoint
+<span class="via">MarkaSite</span> is a ViaPoint
 
 ### Put().Rate
 
 Trees/Time
 
-### <beta>Put(<motor>Hood</motor>)</beta>
+### <beta>Put(<span class="motor">Hood</span>)</beta>
 
-### <beta>Put(<motor>Boot</motor>)</beta>
+### <beta>Put(<span class="motor">Boot</span>)</beta>
 
 > put your boot onto a Contact
 
-🟠<motor>Step()</motor>
+🟠<span class="motor">Step()</span>
 
-🟠<motor>BootSlide</motor>
+🟠<span class="motor">BootSlide</span>
 
-### <beta>Put(<anima>Memory</anima>)</beta>
+### <beta>Put(<span class="anima">Memory</span>)</beta>
 
 > to remember some information
 
@@ -111,19 +111,19 @@ Trees/Time
 
 "Do you get it?"
 
-### <beta>Get(<ekos>Plant</ekos>)</beta>
+### <beta>Get(<span class="ekos">Plant</span>)</beta>
 
 > to obtain an EkoElement
 
-#### <beta>Get(<ekos>Tree</ekos>)</beta>
+#### <beta>Get(<span class="ekos">Tree</span>)</beta>
 
-#### <beta>Get(<ekos>Bundle</ekos>)</beta>
+#### <beta>Get(<span class="ekos">Bundle</span>)</beta>
 
-#### <beta>Get(<ekos>Box</ekos>)</beta>
+#### <beta>Get(<span class="ekos">Box</span>)</beta>
 
-#### <beta>Get(<ekos>Log</ekos>)</beta>
+#### <beta>Get(<span class="ekos">Log</span>)</beta>
 
-### <beta>Get(<via>Via</via>)</beta>
+### <beta>Get(<span class="via">Via</span>)</beta>
 
 > to move to a different place or into a different position
 

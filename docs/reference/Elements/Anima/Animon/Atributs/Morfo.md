@@ -1,10 +1,10 @@
-# 💜<anima>ANIMON: Morfo</anima>
+# 💜<span class="anima">ANIMON: Morfo</span>
 
 ## <beta>BetaAnalogy</beta>
 
 ## Faktors
 
-🔻<via>VIA</via>, 🟩<ekos>EKOS</ekos>, 🟠<motor>MOVE</motor>
+🔻<span class="via">VIA</span>, 🟩<span class="ekos">EKOS</span>, 🟠<span class="motor">MOVE</span>
 
 ## Relative Geometry
 

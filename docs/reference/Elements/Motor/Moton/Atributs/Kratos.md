@@ -1,4 +1,4 @@
-# 🟠<motor>MOTONKratos</motor>
+# 🟠<span class="motor">MOTONKratos</span>
 
 > the power of this Element
 >

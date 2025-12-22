@@ -1,4 +1,4 @@
-# 🔻<via>Div</via>
+# 🔻<span class="via">Div</span>
 
 > Short for "Division", a Div is any defined area
 

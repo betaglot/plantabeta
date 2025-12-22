@@ -153,7 +153,7 @@ Convert the list of Papers associated with a given tag into a markdown photos
 find -type f -print0 | xargs -0 ls -t
 ```
 
-## <anima>WTF is going on?</anima>
+## <span class="anima">WTF is going on?</span>
 
 It's ok to be confused by your own work. Complex systems don't start off being coherent.
 
@@ -167,13 +167,13 @@ Coherence is developed
 > the situation when the parts of something fit together in a natural or reasonable way
 :::
 
-### <anima> “I looked forward to another 500 pounds of squat. I looked forward to doing more and more curls until my arms would fall off. Why? Because I knew that every rep that I did and every set that I did and more weights that I lifted, I get one step closer to turning that **vision** into reality.”</anima>
+### <span class="anima"> “I looked forward to another 500 pounds of squat. I looked forward to doing more and more curls until my arms would fall off. Why? Because I knew that every rep that I did and every set that I did and more weights that I lifted, I get one step closer to turning that **vision** into reality.”</span>
 
 You're not making it worse, each workblock makes it better, deciding that what you wrote needs to be changed is an improvement. Finding out what doesn't work is a form of improvement. PlantaBeta is a really difficult project, **expect to feel its difficulties!**
 
 Just get as much information out of your head and into data structures, so that they can be processed.
 
-<motor>Keep going!!!</motor>
+<span class="motor">Keep going!!!</span>
 
 ### Differentiate(BETA, PlantaBeta)
 
@@ -205,7 +205,7 @@ PlantaBeta is the language and the
 
 Every rep
 
-<anima> “I looked forward to another 500 pounds of squat. I looked forward to doing more and more curls until my arms would fall off. Why? Because I knew that every rep that I did and every set that I did and more weights that I lifted, I get one step closer to turning that **vision** into reality.”</anima>
+<span class="anima"> “I looked forward to another 500 pounds of squat. I looked forward to doing more and more curls until my arms would fall off. Why? Because I knew that every rep that I did and every set that I did and more weights that I lifted, I get one step closer to turning that **vision** into reality.”</span>
 
 ### Sherlock Holmes
 

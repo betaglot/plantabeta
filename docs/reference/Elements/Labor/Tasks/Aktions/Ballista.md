@@ -1,4 +1,4 @@
-# ⭐<labor>Ballista</labor>
+# ⭐<span class="labor">Ballista</span>
 
 ---
 

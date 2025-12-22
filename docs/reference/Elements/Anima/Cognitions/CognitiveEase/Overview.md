@@ -1,4 +1,4 @@
-# 💜<anima>Cognitive Ease</anima>
+# 💜<span class="anima">Cognitive Ease</span>
 
 ## Factors to induce CognitiveEase:
 

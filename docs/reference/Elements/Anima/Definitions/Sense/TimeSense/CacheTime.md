@@ -1,7 +1,7 @@
 ---
 aside: false
 ---
-# 💜 <anima>CacheTime </anima>
+# 💜 <span class="anima">CacheTime </span>
 
 ## BagInTime
 

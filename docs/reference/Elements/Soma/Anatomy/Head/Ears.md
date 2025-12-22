@@ -1,4 +1,4 @@
-# 🔷<soma>Ears</soma>
+# 🔷<span class="soma">Ears</span>
 
 ---
 

@@ -1,4 +1,4 @@
-# 💜 <anima>Proprioception</anima>
+# 💜 <span class="anima">Proprioception</span>
 
 ---
 

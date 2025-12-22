@@ -1,4 +1,4 @@
-# 🔻<via>ObstaclePlan</via>
+# 🔻<span class="via">ObstaclePlan</span>
 
 ---
 

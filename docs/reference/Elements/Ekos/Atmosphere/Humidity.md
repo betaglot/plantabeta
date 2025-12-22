@@ -1,4 +1,4 @@
-# 🟩  <ekos>Humidity</ekos>🟩
+# 🟩  <span class="ekos">Humidity</span>🟩
 
 ---
 

@@ -1,4 +1,4 @@
-# 💜<anima>ANIMON</anima>
+# 💜<span class="anima">ANIMON</span>
 
 ---
 

@@ -1,4 +1,4 @@
-# ⭐<labor>Neon</labor>
+# ⭐<span class="labor">Neon</span>
 
 <https://www2.gov.bc.ca/assets/gov/farming-natural-resources-and-industry/forestry/tree-seed/tree-seed-publications/seed_handling_guidebook_hi.pdf>
 

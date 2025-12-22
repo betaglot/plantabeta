@@ -1,7 +1,7 @@
 ---
 aside: false
 ---
-# <anima>Cognition</anima>
+# <span class="anima">Cognition</span>
 
 ---
 

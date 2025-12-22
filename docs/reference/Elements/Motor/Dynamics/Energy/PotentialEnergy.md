@@ -1,4 +1,4 @@
-# 🟠<motor>Potential Energy</motor>
+# 🟠<span class="motor">Potential Energy</span>
 
 ---
 

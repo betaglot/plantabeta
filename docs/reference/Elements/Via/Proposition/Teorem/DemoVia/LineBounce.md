@@ -1,4 +1,4 @@
-# 🔻 <via>BouncingPlan</via>
+# 🔻 <span class="via">BouncingPlan</span>
 
 ## 2PlanterBounceFill
 

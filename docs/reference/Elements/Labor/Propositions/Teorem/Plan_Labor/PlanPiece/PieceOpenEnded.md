@@ -1,4 +1,4 @@
-# 🔻 <via>OpenEndedPlan</via>
+# 🔻 <span class="via">OpenEndedPlan</span>
 
 > Lacking Zone Limits
 

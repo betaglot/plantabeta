@@ -1,11 +1,11 @@
-# 🔻<via>Density</via>
+# 🔻<span class="via">Density</span>
 
-- 🟩<ekos>HoldDensity</ekos>
-- 🟩<ekos>AirDensity</ekos>
-- 🔻<via>TaktDensity</via>
+- 🟩<span class="ekos">HoldDensity</span>
+- 🟩<span class="ekos">AirDensity</span>
+- 🔻<span class="via">TaktDensity</span>
     - Kontakts per Zone
     - There's lots of places to step
-- 🟠<motor>PowerEndurance</motor>
+- 🟠<span class="motor">PowerEndurance</span>
 
 ---
 

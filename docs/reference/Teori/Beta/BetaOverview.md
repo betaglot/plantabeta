@@ -1,24 +1,24 @@
 # 🌈<beta>BETA</beta>🌈
 
-> A <beta>BETUM</beta> is a unit of <beta>BETA</beta>
+> A <beta>BETOM</beta> is a unit of <beta>BETA</beta>
 ---
 > PlantaBeta or "BETA" for short, is the **information** that you use to perform planting tasks.
 
-A <beta>BETUM</beta> must be composed of at least two Elements of a different Group which occur within the same Moment
+A <beta>BETOM</beta> must be composed of at least two Elements of a different Group which occur within the same Moment
 
-( 🔻<via>VION</via> +  🔻<via>VION</via>) ==  🔻<via>VION</via>
+( 🔻<span class="via">VION</span> +  🔻<span class="via">VION</span>) ==  🔻<span class="via">VION</span>
 
-( 🔻<via>VION</via> +  🔻<via>VION</via> +  🔻<via>VION</via>) ==  🔻<via>VION</via>
+( 🔻<span class="via">VION</span> +  🔻<span class="via">VION</span> +  🔻<span class="via">VION</span>) ==  🔻<span class="via">VION</span>
 
-(🟩<ekos>EKON</ekos> +  🔻<via>VION</via>) == 🌈<beta>BETUM</beta>
+(🟩<span class="ekos">EKON</span> +  🔻<span class="via">VION</span>) == 🌈<beta>BETOM</beta>
 
-(🟩<ekos>EKON</ekos> +  🔻<via>VION</via> +  🔻<via>VION</via>) == 🌈<beta>BETUM</beta>
+(🟩<span class="ekos">EKON</span> +  🔻<span class="via">VION</span> +  🔻<span class="via">VION</span>) == 🌈<beta>BETOM</beta>
 
-(🟩<ekos>EKON</ekos> +  🔻<via>VION</via> + 🟠<motor>MOTON</motor>) == 🌈<beta>BETUM</beta>
+(🟩<span class="ekos">EKON</span> +  🔻<span class="via">VION</span> + 🟠<span class="motor">MOTON</span>) == 🌈<beta>BETOM</beta>
 
-[⭐<labor>LABON</labor> + 🔷<soma>SOMON</soma> + 🟩<ekos>EKON</ekos> +  🔻<via>VION</via> + 🟠<motor>MOTON</motor> + 💜<anima>ANIMON</anima>) = 🌈<beta>BETUM</beta>
+[⭐<span class="labor">LABON</span> + 🔷<span class="soma">SOMON</span> + 🟩<span class="ekos">EKON</span> +  🔻<span class="via">VION</span> + 🟠<span class="motor">MOTON</span> + 💜<span class="anima">ANIMON</span>) = 🌈<beta>BETOM</beta>
 
-::: details Etymology of "<beta>BETA</beta>" and "<beta>BETUM</beta>"
+::: details Etymology of "<beta>BETA</beta>" and "<beta>BETOM</beta>"
 
 Betamax was a piece of hardware (similar to a VHS tape or cassete) which was used by climbers to record video of themselves climbing a rock. Climbers would share their Betamax tapes to give their friends information about how to climb a piece of rock.  
 
@@ -41,7 +41,7 @@ Betamax was a piece of hardware (similar to a VHS tape or cassete) which was use
 <!-- =================================================== -->
 ::: details 🛠
 
-- The Plural of Betum is Beta
+- The Plural of Betom is Beta
 - Etymology
     - Quantum
         - the smallest discrete unit of any physical entity
@@ -51,7 +51,7 @@ Betamax was a piece of hardware (similar to a VHS tape or cassete) which was use
             - Proton
             - Electron
 
-- Separate the semantics by inflecting "beta", like "Betum"
+- Separate the semantics by inflecting "beta", like "Betom"
     - BETA is:
         - An Experience: BETA PRAKTIK
             - thought can be the experience

@@ -1,4 +1,4 @@
-# 🟩<ekos>Inclined</ekos>
+# 🟩<span class="ekos">Inclined</span>
 
 ---
 

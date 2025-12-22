@@ -1,4 +1,4 @@
-# 🟩<ekos>EKON: Frekentia</ekos>
+# 🟩<span class="ekos">EKON: Frekentia</span>
 
 > the statistics of this Element
 

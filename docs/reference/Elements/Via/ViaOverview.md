@@ -2,51 +2,51 @@
 import FaktorIkon from '/vue/FaktorIkon.vue'
 </script>
 
-# <div class="d-flex justify-center text-h1"><via>VIA</via></div>
+# <div class="d-flex justify-center text-h1"><span class="via">VIA</span></div>
 
 <FaktorIkon imageSource='/Ikon/Via_Ikon.png' />
 
-## <via>What is VIA ?</via>
+## <span class="via">What is VIA ?</span>
 
 > the way
 
-::: details Why is it called <via>VIA</via>?
+::: details Why is it called <span class="via">VIA</span>?
 
-## Etymology of "<via>VIA</via> and <via>VION</via>"
+## Etymology of "<span class="via">VIA</span> and <span class="via">VION</span>"
 
 Road, Path, Route, through, using, composed of
 
-- <via>Via</via> Rail
-- <via>Via</via> Ferrata
-- <via>via</via>duct
-- <via>voy</via>age
-- en<via>voy</via>
-- <via>via</via>ticum
-- <via>via</via>tic
-- tri<via>VION</via>
-- de<via>viate</via>
-- ob<via>viate</via>
-- in<via>voice</via>
-- <via>way</via>
-- de<via>vious</via>, de<via>viant</via>
-- per<via>vious</via>, imper<via>vious</via>
-- "shipped <via>via</via> a ground carrier"
-- "to remove <via>via</via> cutting"
-- "<via>via</via> computer simulation"
-- "we got here quickly <via>via</via> a shortcut"
-- "<via>via</via> mandatory rules"
-- "by <via>way</via> of"
-- "connect <via>via</via> social media"
-- "advancing their interests <via>via</via> global partnerships"
-- "learn how to plant trees <via>via</via> the internet"
-- "get notified <via>via</via> text"
-- "on my <via>way</via>"
+- <span class="via">Via</span> Rail
+- <span class="via">Via</span> Ferrata
+- <span class="via">via</span>duct
+- <span class="via">voy</span>age
+- en<span class="via">voy</span>
+- <span class="via">via</span>ticum
+- <span class="via">via</span>tic
+- tri<span class="via">VION</span>
+- de<span class="via">viate</span>
+- ob<span class="via">viate</span>
+- in<span class="via">voice</span>
+- <span class="via">way</span>
+- de<span class="via">vious</span>, de<span class="via">viant</span>
+- per<span class="via">vious</span>, imper<span class="via">vious</span>
+- "shipped <span class="via">via</span> a ground carrier"
+- "to remove <span class="via">via</span> cutting"
+- "<span class="via">via</span> computer simulation"
+- "we got here quickly <span class="via">via</span> a shortcut"
+- "<span class="via">via</span> mandatory rules"
+- "by <span class="via">way</span> of"
+- "connect <span class="via">via</span> social media"
+- "advancing their interests <span class="via">via</span> global partnerships"
+- "learn how to plant trees <span class="via">via</span> the internet"
+- "get notified <span class="via">via</span> text"
+- "on my <span class="via">way</span>"
 
 :::
 
 ---
 
-::: details Examples of <via>VIA</via> in everyday life
+::: details Examples of <span class="via">VIA</span> in everyday life
 
 - while driving a car
     - Lanes on a highway
@@ -73,9 +73,9 @@ Road, Path, Route, through, using, composed of
 <!-- =================================================== -->
 ::: details 🛠
 
-## <via>Affordance</via>
+## <span class="via">Affordance</span>
 
-### <via>Purpose of VIA</via>
+### <span class="via">Purpose of VIA</span>
 
 - Minimize Deadwalking
 - To be able to have a detailed mental model of your land, so that you can plan how you're going to Cover your lang.
@@ -90,7 +90,7 @@ Also Known As "Land Management"
 
 > the use of a particular path or direction for something to travel or be placed
 
-## <via>VIA</via> affects <labor>LABOR</labor>
+## <span class="via">VIA</span> affects <span class="labor">LABOR</span>
 
 - VIA Affects productivity the most because via has deadwalking and cache positioning. VIA Starts and Finishes at the cache.
 

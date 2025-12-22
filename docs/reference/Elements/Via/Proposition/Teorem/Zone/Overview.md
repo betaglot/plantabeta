@@ -1,4 +1,4 @@
-# 🔻<via>Zone</via>
+# 🔻<span class="via">Zone</span>
 
 > an area, especially one that is different from the areas around it, because it has different characteristics or is used for different purposes - [Cambridge](https://dictionary.cambridge.org/dictionary/english/zone)
 

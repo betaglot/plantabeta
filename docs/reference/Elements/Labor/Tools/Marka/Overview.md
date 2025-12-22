@@ -1,4 +1,4 @@
-# ⭐<labor>Marka</labor>
+# ⭐<span class="labor">Marka</span>
 
 ## Marka Frequency
 

@@ -1,4 +1,4 @@
-# 💜<anima>Feels Effortless</anima>
+# 💜<span class="anima">Feels Effortless</span>
 
 ---
 

@@ -1,4 +1,4 @@
-# ⭐<labor>LABON: Metods</labor>
+# ⭐<span class="labor">LABON: Metods</span>
 
 ---
 

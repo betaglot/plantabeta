@@ -1,4 +1,4 @@
-# ⭐<labor>LABON: Kuboi</labor>
+# ⭐<span class="labor">LABON: Kuboi</span>
 
 ## Definition
 

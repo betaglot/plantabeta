@@ -1,4 +1,4 @@
-# 🟩<ekos>EKON</ekos>
+# 🟩<span class="ekos">EKON</span>
 
 ---
 

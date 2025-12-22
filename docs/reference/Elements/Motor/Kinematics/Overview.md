@@ -1,4 +1,4 @@
-# 🟠<motor>Kinematics</motor>
+# 🟠<span class="motor">Kinematics</span>
 
 ---
 

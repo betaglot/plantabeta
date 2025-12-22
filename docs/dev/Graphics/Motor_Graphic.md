@@ -1,12 +1,12 @@
-# 🛠 <motor>MOTOR Graphics</motor>
+# 🛠 <span class="motor">MOTOR Graphics</span>
 
-## <motor>MotorCard</motor>
+## <span class="motor">MotorCard</span>
 
 Mirror images for ambidextrous Planter
 
-## <motor>MotorTimeline</motor>
+## <span class="motor">MotorTimeline</span>
 
-## <motor>MotorTree</motor>
+## <span class="motor">MotorTree</span>
 
 ---
 

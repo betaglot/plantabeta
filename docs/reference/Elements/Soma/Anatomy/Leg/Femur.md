@@ -1,4 +1,4 @@
-# 🔷<soma>Femur</soma>
+# 🔷<span class="soma">Femur</span>
 
 ---
 

@@ -1,4 +1,4 @@
-# 🛠 <ekos>EKOS Graphics</ekos>
+# 🛠 <span class="ekos">EKOS Graphics</span>
 
 ## Simplify
 

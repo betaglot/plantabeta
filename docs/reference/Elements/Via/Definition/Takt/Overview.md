@@ -1,4 +1,4 @@
-# 🔻 <via>Takt</via>
+# 🔻 <span class="via">Takt</span>
 
 >
 

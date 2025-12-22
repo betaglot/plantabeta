@@ -1,7 +1,7 @@
 ---
 aside: false
 ---
-# 💜 <anima>Compassion</anima>
+# 💜 <span class="anima">Compassion</span>
 
 ## SelfCompassion
 

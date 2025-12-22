@@ -1,4 +1,4 @@
-# ⭐<labor>Cache</labor>
+# ⭐<span class="labor">Cache</span>
 
 ---
 

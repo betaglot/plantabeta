@@ -1,5 +1,5 @@
 
-# 💜 <anima>Emotions</anima>
+# 💜 <span class="anima">Emotions</span>
 
 😄 Joy
 😨 Fear

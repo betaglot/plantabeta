@@ -1,4 +1,4 @@
-# 🟩<ekos>EKOS: Simbols</ekos>
+# 🟩<span class="ekos">EKOS: Simbols</span>
 
 ---
 

@@ -1,4 +1,4 @@
-# 🔷<soma>Limberness</soma>
+# 🔷<span class="soma">Limberness</span>
 
 ---
 

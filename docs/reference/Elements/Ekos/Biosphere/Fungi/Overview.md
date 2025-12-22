@@ -1,4 +1,4 @@
-# 🟩<ekos>Fungi</ekos>
+# 🟩<span class="ekos">Fungi</span>
 
 ---
 

@@ -1,4 +1,4 @@
-# ⭐<labor>Kompakt</labor>
+# ⭐<span class="labor">Kompakt</span>
 
 ---
 

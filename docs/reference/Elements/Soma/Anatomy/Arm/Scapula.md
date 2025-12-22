@@ -1,4 +1,4 @@
-# 🔷<soma>Scapula</soma>
+# 🔷<span class="soma">Scapula</span>
 
 ---
 

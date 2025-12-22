@@ -1,7 +1,7 @@
 ---
 aside: false
 ---
-# 💜<anima>Mindset</anima>
+# 💜<span class="anima">Mindset</span>
 
 ## Beginner's Mindset
 

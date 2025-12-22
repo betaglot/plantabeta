@@ -1,4 +1,4 @@
-# 🟠<motor>Acceleration</motor>
+# 🟠<span class="motor">Acceleration</span>
 
 ---
 

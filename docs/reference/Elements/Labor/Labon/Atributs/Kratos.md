@@ -1,4 +1,4 @@
-# ⭐<labor>LABON: Kratos</labor>
+# ⭐<span class="labor">LABON: Kratos</span>
 
 ## Definition
 

@@ -1,4 +1,4 @@
-# 🔻<via>DivPlan</via>
+# 🔻<span class="via">DivPlan</span>
 
 Aliases: Area Planting
 

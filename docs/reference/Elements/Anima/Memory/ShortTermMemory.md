@@ -1,5 +1,5 @@
 
-# <anima>Short Term Memory</anima>
+# <span class="anima">Short Term Memory</span>
 
 ---
 

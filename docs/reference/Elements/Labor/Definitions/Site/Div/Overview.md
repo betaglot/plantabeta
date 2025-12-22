@@ -1,4 +1,4 @@
-# ⭐<labor>Div</labor>
+# ⭐<span class="labor">Div</span>
 
 Aliases: Area
 

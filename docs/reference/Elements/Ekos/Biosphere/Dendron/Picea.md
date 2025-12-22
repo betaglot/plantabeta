@@ -1,4 +1,4 @@
-# 🟩<ekos>Picea</ekos>
+# 🟩<span class="ekos">Picea</span>
 
 Aliases: Spruce
 

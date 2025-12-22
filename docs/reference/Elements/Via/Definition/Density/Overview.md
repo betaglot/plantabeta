@@ -1,11 +1,11 @@
-# 🔻<via>Density</via>
+# 🔻<span class="via">Density</span>
 
-- 🟠<motor>MOTONDensity</motor>
+- 🟠<span class="motor">MOTONDensity</span>
     - MOTONs per Zone
     - Walking is LowMOTONDensity
-- 🟩<ekos>FloraDensity</ekos>
+- 🟩<span class="ekos">FloraDensity</span>
     - Flora per Zone
-- 🔻<via>SiteDensity</via>
+- 🔻<span class="via">SiteDensity</span>
     - Sites per Zone
     - PrepDensity
     - PlantedSite
@@ -13,7 +13,7 @@
         - Site which has NOT been validated by SpadeTest yet
     - UnplantedSite
         - A site which has already been validated by SpadeTest
-- 🔻<via>KontaktDensity</via>
+- 🔻<span class="via">KontaktDensity</span>
     - Kontakts per Zone
     - There's lots of places to step
 

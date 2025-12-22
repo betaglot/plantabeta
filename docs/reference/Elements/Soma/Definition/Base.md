@@ -1,4 +1,4 @@
-# 🔷<soma>Base</soma>
+# 🔷<span class="soma">Base</span>
 
 ---
 

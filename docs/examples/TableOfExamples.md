@@ -1,7 +1,7 @@
 <script setup>
-import BetumFilter from '/vue/BetumFilter.vue'
+import BetomFilter from '/vue/BetomFilter.vue'
 </script>
 
 # Table of Examples
 
-<BetumFilter />
+<BetomFilter />

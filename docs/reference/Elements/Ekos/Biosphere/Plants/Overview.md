@@ -1,4 +1,4 @@
-# 🟩  <ekos>Plants</ekos>
+# 🟩  <span class="ekos">Plants</span>
 
 > all the plants which are already growing in the land
 

@@ -1,7 +1,7 @@
 ---
 aside: false
 ---
-# 💜 <anima>Resilience</anima>
+# 💜 <span class="anima">Resilience</span>
 
 ## Growth Mindset
 

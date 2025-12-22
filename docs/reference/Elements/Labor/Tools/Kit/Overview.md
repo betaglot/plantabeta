@@ -1,4 +1,4 @@
-# ⭐<labor>Kit</labor>
+# ⭐<span class="labor">Kit</span>
 
 Aliases: Cache Bag
 

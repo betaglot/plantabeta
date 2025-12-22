@@ -88,9 +88,9 @@ Number of Edges of a Voronoi Cell?
 
 [D3 closest neighbor and Voronoi edges](https://d3js.org/d3-delaunay/voronoi#voronoi_neighbors)
 
-### <motor>MOTONVoronoi</motor>
+### <span class="motor">MOTONVoronoi</span>
 
-### <via>VIA_Voronoi</via>
+### <span class="via">VIA_Voronoi</span>
 
 <https://www.researchgate.net/publication/228440675_Spatial_dynamics_of_team_sports_exposed_by_Voronoi_diagrams>
 
@@ -104,7 +104,7 @@ How are the edges useful for spacing or knowing where to walk when is it advanta
 
 Aim for the convergence points
 
-### <ekos>EcoVoronoi</ekos>
+### <span class="ekos">EcoVoronoi</span>
 
 Closest
 

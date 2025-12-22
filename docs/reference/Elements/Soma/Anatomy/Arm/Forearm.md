@@ -1,4 +1,4 @@
-# 🔷<soma>Forearm</soma>
+# 🔷<span class="soma">Forearm</span>
 
 ---
 

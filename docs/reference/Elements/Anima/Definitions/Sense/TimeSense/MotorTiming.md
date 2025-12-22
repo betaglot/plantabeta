@@ -1,7 +1,7 @@
 ---
 aside: false
 ---
-# 💜 <anima>MotorTiming </anima>
+# 💜 <span class="anima">MotorTiming </span>
 
 ## PlantingRate
 

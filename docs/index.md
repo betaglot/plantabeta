@@ -7,21 +7,81 @@ hero:
   image:
     src: /PlantaBeta_Logo.png
     alt: "Logo"
-  text: Everything is Connected
-  tagline: Whether you're planting in the mountains of British Columbia, the wetlands of the Canadian Shield, or anywhere in between. Take advantage of this resource to develop your ability to <strong>plant faster</strong> and with <strong>greater quality</strong>.
+  text: "Elements of Planting"
+  tagline: Science, Sport, Design, Art 
   actions:
     - theme: brand
-      text: I'm new to PlantaBeta
+      text: Get Started
       link: /guide/What/WhatPlantaBeta
 
 ---
 
-<iframe class="youtube rounded-xl mb-8" src="https://www.youtube.com/embed/YkkFW0AKX6I?start=90" title="PlantaBeta_002: What is PlantaBeta?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<HomeDendrogram />
 
-<HomeFooter/>
+<div class="d-flex justify-center">
+<v-img class="rounded-xl my-8" max-width="600px" max-height="600px" cover src="/Img-HomePage.png"></v-img>
+</div>
 
-<v-img class="rounded-xl" src="/Img-HomePage.png"></v-img>
+<div class="d-flex justify-center">
+<v-hover v-slot="{ isHovering, props }" open-delay="200">
+  <VSheet class="rounded-xl pa-4 text-center w-75 mt-12"
+        border="md"
+        :class="{ 'on-hover': isHovering }"
+        :elevation="isHovering ? 24 : 1"
+        v-bind="props">
+    <div class="text-h1 my-4">🙌</div>
+    <div class="text-h3 my-4">
+        <span class="beta">PlantaBeta</span> is Free to Use!
+    </div>
+  </VSheet>
+</v-hover>
+</div>
+
+<StartHere />
+
+<div class="d-flex justify-center">
+<v-hover v-slot="{ isHovering, props }"
+        open-delay="200">
+  <VSheet class="rounded-xl pa-4 text-center w-lg-50 mt-16"
+          border="md"
+          :class="{ 'on-hover': isHovering }"
+          :elevation="isHovering ? 24 : 1"
+          v-bind="props">
+      <div class="text-h5 my-4">
+          Under Development
+      </div>
+      <div class="py-12 text-h1" >🛠️</div>
+      <!-- Last Updated -->
+      <div class="text-h5 my-4">
+          Last Updated on
+      </div>
+        <div class="text-h6">December 19, 2025</div>
+
+  <div class="pt-16">Contact:</div>
+  <span class="beta">betaglot@betaglot.org</span>
+
+  </VSheet>
+</v-hover>
+</div>
 
 <script setup>
-import HomeFooter from '/vue/HomeFooter.vue'
+import HomeDendrogram from '/vue/Home-Dendrogram.vue'
+import StartHere from '/vue/StartHere.vue'
+import BetaTranscriptor from '/vue/BetaTranscriptor.vue'
 </script>
+
+<style>
+.VPHero .image img {
+  width: 800px;
+  height: 800px;
+  border-radius: 25px;
+}
+
+.VPHero .VPButton {
+  background-image: linear-gradient(to right, #FFCC00,#569cd6,#6a9955,#ff3131,#da680f,#c586c0);
+  /* color: transparent; */
+  /* background-clip: text;
+  -webkit-background-clip: text; */
+}
+
+</style>

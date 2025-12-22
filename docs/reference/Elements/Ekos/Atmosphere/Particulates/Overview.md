@@ -1,4 +1,4 @@
-# 🟩<ekos>Particulates</ekos>
+# 🟩<span class="ekos">Particulates</span>
 
 ---
 

@@ -1,4 +1,4 @@
-# 💜<anima>ANIMON: Krux</anima>
+# 💜<span class="anima">ANIMON: Krux</span>
 
 > the most difficult attribute of this Element
 

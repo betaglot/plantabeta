@@ -1,4 +1,4 @@
-# ⭐<labor>Kontakt</labor>
+# ⭐<span class="labor">Kontakt</span>
 
 ---
 

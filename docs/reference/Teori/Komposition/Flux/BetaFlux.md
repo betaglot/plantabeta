@@ -2,7 +2,7 @@
 
 Aliases: Flow, Fluidity, Fluency, Transition
 
-## 🟩<ekos>Eko.Flux</ekos>
+## 🟩<span class="ekos">Eko.Flux</span>
 
 - A cliff has low Flux
 - Rolling Hills
@@ -11,7 +11,7 @@ Aliases: Flow, Fluidity, Fluency, Transition
 - Not Angular
     - Rounded
 
-## 🔻<via>Via.Flux</via>
+## 🔻<span class="via">Via.Flux</span>
 
 - Path of least resistance
 - Transition
@@ -19,14 +19,14 @@ Aliases: Flow, Fluidity, Fluency, Transition
 - Minimize acceleration changes
     - Minimize Turns
 
-## 🟠<motor>MOTON.Flux</motor>
+## 🟠<span class="motor">MOTON.Flux</span>
 
 - Graceful
 - FluidMOTON
 - Linked MOTONment
     - ((CurrentMOTON.FinishMOTON == PostMOTON.StartMOTON) = (AnteMOTON.FinishMOTON == CurrentMOTON.StartMOTON))
 
-## 💜<anima>ANIMA.Flux</anima>
+## 💜<span class="anima">ANIMA.Flux</span>
 
 - FlowState
 - CognitiveEase == CognitiveFluency

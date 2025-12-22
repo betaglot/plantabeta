@@ -1,4 +1,4 @@
-# ⭐<labor>Tibior</labor>
+# ⭐<span class="labor">Tibior</span>
 
 Aliases: Gaiter, Shin Pad
 

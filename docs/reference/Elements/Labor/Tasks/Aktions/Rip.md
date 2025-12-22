@@ -1,4 +1,4 @@
-# ⭐<labor>Rip</labor>
+# ⭐<span class="labor">Rip</span>
 
 ---
 

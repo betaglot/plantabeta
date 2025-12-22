@@ -1,4 +1,4 @@
-# 🔷<soma>Nutrition</soma>
+# 🔷<span class="soma">Nutrition</span>
 
 ---
 

@@ -1,4 +1,4 @@
-# 🟠<motor>MOTONAnalogia</motor>
+# 🟠<span class="motor">MOTONAnalogia</span>
 
 > analogous Elements in other BetaSports
 

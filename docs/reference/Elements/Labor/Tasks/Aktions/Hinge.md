@@ -1,4 +1,4 @@
-# ⭐<labor>Hinge</labor>
+# ⭐<span class="labor">Hinge</span>
 
 ---
 

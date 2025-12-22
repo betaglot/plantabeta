@@ -1,4 +1,4 @@
-# 🟩  <ekos>Pedosfera</ekos>🟩
+# 🟩  <span class="ekos">Pedosfera</span>🟩
 
 Aliases: Soil, Dirt, Ground
 

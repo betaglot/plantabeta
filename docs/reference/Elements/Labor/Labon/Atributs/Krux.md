@@ -1,4 +1,4 @@
-# ⭐<labor>LABON: Krux</labor>
+# ⭐<span class="labor">LABON: Krux</span>
 
 > the most difficult attribute of this Element
 

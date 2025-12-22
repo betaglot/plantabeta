@@ -1,7 +1,7 @@
 ---
 aside: false
 ---
-# 💜 <anima>BundleCounting</anima>
+# 💜 <span class="anima">BundleCounting</span>
 
 ---
 

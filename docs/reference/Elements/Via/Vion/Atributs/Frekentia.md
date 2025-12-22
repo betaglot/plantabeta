@@ -1,4 +1,4 @@
-# 🔻<via>Frekentia</via>
+# 🔻<span class="via">Frekentia</span>
 
 > the statistics of this Element
 

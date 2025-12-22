@@ -1,4 +1,4 @@
-# ⭐<labor>Difficulty</labor>
+# ⭐<span class="labor">Difficulty</span>
 
 ---
 

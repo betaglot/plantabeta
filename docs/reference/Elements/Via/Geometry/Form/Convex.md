@@ -1,4 +1,4 @@
-# 🔻<via>Convex</via>
+# 🔻<span class="via">Convex</span>
 
 ---
 

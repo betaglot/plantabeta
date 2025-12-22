@@ -1,4 +1,4 @@
-# 🟠 <motor>Kinesiology</motor>
+# 🟠 <span class="motor">Kinesiology</span>
 
 ## Fitness and Nutrition
 

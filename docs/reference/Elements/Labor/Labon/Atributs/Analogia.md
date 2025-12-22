@@ -1,4 +1,4 @@
-# ⭐<labor>LABON: Analogia</labor>
+# ⭐<span class="labor">LABON: Analogia</span>
 
 > analogous Elements in other BetaSports
 

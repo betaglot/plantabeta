@@ -1,4 +1,4 @@
-# ⭐<labor>LABON</labor>
+# ⭐<span class="labor">LABON</span>
 
 ---
 

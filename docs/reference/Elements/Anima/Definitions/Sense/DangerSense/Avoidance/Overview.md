@@ -1,7 +1,7 @@
 ---
 aside: false
 ---
-# 💜 <anima>Avoidance</anima>
+# 💜 <span class="anima">Avoidance</span>
 
 ---
 

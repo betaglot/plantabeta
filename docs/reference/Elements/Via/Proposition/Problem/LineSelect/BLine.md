@@ -1,4 +1,4 @@
-# 🔻 <via>BeeLine</via>
+# 🔻 <span class="via">BeeLine</span>
 
 ## AlsoKnownAs
 

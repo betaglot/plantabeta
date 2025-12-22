@@ -1,4 +1,4 @@
-# 🔷<soma>Strength</soma>
+# 🔷<span class="soma">Strength</span>
 
 ---
 

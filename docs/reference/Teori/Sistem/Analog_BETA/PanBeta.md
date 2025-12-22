@@ -205,9 +205,9 @@ Maneuver
 
 Land=Wave
 
-### 🟠<motor>SurfBeta.MOTOR: Carve,Cut,NoseRiding,SwitchStance</motor>
+### 🟠<span class="motor">SurfBeta.MOTOR: Carve,Cut,NoseRiding,SwitchStance</span>
 
-### 🔻<via>SurfBeta.VIA: [BarrelRide](https://www.surfertoday.com/surfing/how-to-get-barreled), [CloseoutReentry](https://www.surfertoday.com/surfing/how-to-do-a-closeout-reentry-in-surfing)</via>
+### 🔻<span class="via">SurfBeta.VIA: [BarrelRide](https://www.surfertoday.com/surfing/how-to-get-barreled), [CloseoutReentry](https://www.surfertoday.com/surfing/how-to-do-a-closeout-reentry-in-surfing)</span>
 
 ## 🌈 Swimming (SwimBeta)
 
@@ -219,7 +219,7 @@ Standing in line for a bus is Via
 
 On the streets, on campus, in airports, in public transit
 
-### 🔻<via>TransitBeta.VIA</via>
+### 🔻<span class="via">TransitBeta.VIA</span>
 
 - weave
 - s curve

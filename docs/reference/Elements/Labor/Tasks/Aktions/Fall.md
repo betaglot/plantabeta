@@ -1,4 +1,4 @@
-# ⭐<labor>Fall</labor>
+# ⭐<span class="labor">Fall</span>
 
 ---
 

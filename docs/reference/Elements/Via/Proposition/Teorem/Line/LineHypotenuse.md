@@ -1,4 +1,4 @@
-# 🔻<via>Hypotenuse Heuristic</via>
+# 🔻<span class="via">Hypotenuse Heuristic</span>
 
 > cutting corners
 

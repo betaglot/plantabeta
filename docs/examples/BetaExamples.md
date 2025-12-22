@@ -1,88 +1,88 @@
 # 🌈 <beta>Beta Examples</beta>
 
-## <beta>"<via>Follow that <ekos>stream</ekos> up to the <ekos>top corner</ekos> <anima>then</anima> go left and BoustroCover </via> <anima>then</anima> <motor>walk </motor>back to cache"</beta>
+## <beta>"<span class="via">Follow that <span class="ekos">stream</span> up to the <span class="ekos">top corner</span> <span class="anima">then</span> go left and BoustroCover </span> <span class="anima">then</span> <span class="motor">walk </span>back to cache"</beta>
 
-🔻<via>"Follow": CoverHeuristic</via>
+🔻<span class="via">"Follow": CoverHeuristic</span>
 
-🟩<ekos>"stream": Water</ekos>
+🟩<span class="ekos">"stream": Water</span>
 
-🔻<via>"up to the": TargetPoint</via>
+🔻<span class="via">"up to the": TargetPoint</span>
 
-🟩<ekos>"top corner": PieceShape</ekos>
+🟩<span class="ekos">"top corner": PieceShape</span>
 
-💜<anima>"then": Event</anima>
+💜<span class="anima">"then": Event</span>
 
-🔻<via>"go left and BoustroCover" : Direction, BoustroCover</via>
+🔻<span class="via">"go left and BoustroCover" : Direction, BoustroCover</span>
 
-💜<anima>"then": Event</anima>
+💜<span class="anima">"then": Event</span>
 
-🟠<motor>"walk": Walk</motor>
+🟠<span class="motor">"walk": Walk</span>
 
-🔻<via>"back to the cache": FinishPoint</via>
+🔻<span class="via">"back to the cache": FinishPoint</span>
 
-## <beta>"<via>Plan</via> the <ekos>wet areas</ekos> with <labor>spruce</labor>, you don't need to <motor>skreef</motor> in the <ekos>riparian areas</ekos>"</beta>
+## <beta>"<span class="via">Plan</span> the <span class="ekos">wet areas</span> with <span class="labor">spruce</span>, you don't need to <span class="motor">skreef</span> in the <span class="ekos">riparian areas</span>"</beta>
 
-🔻<via>"Fill": Cover</via>
+🔻<span class="via">"Fill": Cover</span>
 
-🟩<ekos>"wet areas": WetLand</ekos>
+🟩<span class="ekos">"wet areas": WetLand</span>
 
-💜<anima>"don't need to": NOT</anima>
+💜<span class="anima">"don't need to": NOT</span>
 
-⭐<labor>"spruce": Neon</labor>
+⭐<span class="labor">"spruce": Neon</span>
 
-🟠<motor>"skreef": SkreefMOTON</motor>
+🟠<span class="motor">"skreef": SkreefMOTON</span>
 
-## <beta>"Only <via>Marka</via> your <via>line in</via> and <anima>if</anima> you <via>leave</via> the <ekos>trench</ekos>"</beta>
+## <beta>"Only <span class="via">Marka</span> your <span class="via">line in</span> and <span class="anima">if</span> you <span class="via">leave</span> the <span class="ekos">trench</span>"</beta>
 
 <beta>"Only": </beta>
 
-🟠<motor>"Marka": </motor>
+🟠<span class="motor">"Marka": </span>
 
-🔻<via>"line in": </via>
+🔻<span class="via">"line in": </span>
 
-💜<anima>"if": Logic</anima>
+💜<span class="anima">"if": Logic</span>
 
-🟩<ekos>"trench": </ekos>
+🟩<span class="ekos">"trench": </span>
 
-## <beta>"I've been <via>backfilling</via> this <ekos>piece</ekos>"</beta>
+## <beta>"I've been <span class="via">backfilling</span> this <span class="ekos">piece</span>"</beta>
 
-🔻<via>"backfilling": BackCover</via>
+🔻<span class="via">"backfilling": BackCover</span>
 
-🟩<ekos>"piece": Piece</ekos>
+🟩<span class="ekos">"piece": Piece</span>
 
-## <beta>"<anima>When</anima> we <via>get to</via> that <ekos>boulder</ekos> we'll <via>turn back</via>"</beta>
+## <beta>"<span class="anima">When</span> we <span class="via">get to</span> that <span class="ekos">boulder</span> we'll <span class="via">turn back</span>"</beta>
 
-💜<anima>"When": Event</anima>
+💜<span class="anima">"When": Event</span>
 
 <beta>"we": TeamBeta</beta>
 
-🔻<via>"get to": Point</via>
+🔻<span class="via">"get to": Point</span>
 
-🟩<ekos>"boulder": Rock</ekos>
+🟩<span class="ekos">"boulder": Rock</span>
 
-🔻<via>"turn back": TurnAroundCurve</via>
+🔻<span class="via">"turn back": TurnAroundCurve</span>
 
-## <beta><motor>Step</motor>.<via>Over</via>(<ekos>Log</ekos>)</beta>
+## <beta><span class="motor">Step</span>.<span class="via">Over</span>(<span class="ekos">Log</span>)</beta>
 
 is not a move, it is Beta since it is composed of 3 modules:
 
-🟠<motor>Step()</motor>
+🟠<span class="motor">Step()</span>
 
-🔻<via>Over()</via>
+🔻<span class="via">Over()</span>
 
-🟩<ekos>Log</ekos>
+🟩<span class="ekos">Log</span>
 
-## <beta>"<via>Close</via> a <ekos>piece</ekos>"</beta>
+## <beta>"<span class="via">Close</span> a <span class="ekos">piece</span>"</beta>
 
-🔻<via>Close()</via>
+🔻<span class="via">Close()</span>
 
-🟩<ekos>Piece</ekos>
+🟩<span class="ekos">Piece</span>
 
-## <beta>"<via>Close</via> a <ekos>Hole</ekos>"</beta>
+## <beta>"<span class="via">Close</span> a <span class="ekos">Hole</span>"</beta>
 
-🔻<via>Close()</via>
+🔻<span class="via">Close()</span>
 
-🟩<ekos>Hole</ekos>
+🟩<span class="ekos">Hole</span>
 
 ---
 
@@ -93,22 +93,22 @@ is not a move, it is Beta since it is composed of 3 modules:
 <!-- =================================================== -->
 ::: details 🛠 &&&
 
-## 🟩<ekos>Piece</ekos>.<via>Cover(Boustro)</via>
+## 🟩<span class="ekos">Piece</span>.<span class="via">Cover(Boustro)</span>
 
-## <beta>"<motor>Bag up heavy</motor> to <via>backPlan</via> this <ekos>long piece</ekos></beta>
+## <beta>"<span class="motor">Bag up heavy</span> to <span class="via">backPlan</span> this <span class="ekos">long piece</span></beta>
 
-🟠<motor>BagSize</motor>
+🟠<span class="motor">BagSize</span>
 
-🔻<via>BackCover</via>
+🔻<span class="via">BackCover</span>
 
-🟩<ekos>Long Piece</ekos>
+🟩<span class="ekos">Long Piece</span>
 
-## <beta>"<via>Line in through the</via> <ekos>narrow channel </ekos><anima>then</anima> <via>go left through</via> <ekos>another channel</ekos> <via>to </via>a <ekos>rectangle of PerfectTrenches</ekos>"</beta>
+## <beta>"<span class="via">Line in through the</span> <span class="ekos">narrow channel </span><span class="anima">then</span> <span class="via">go left through</span> <span class="ekos">another channel</span> <span class="via">to </span>a <span class="ekos">rectangle of PerfectTrenches</span>"</beta>
 
-1. 🔻<via>LineIn()</via>
-2. 🟩<ekos>Channel</ekos>
-3. 💜<anima>then</anima>
-4. 🔻<via>Go(Left)</via>
+1. 🔻<span class="via">LineIn()</span>
+2. 🟩<span class="ekos">Channel</span>
+3. 💜<span class="anima">then</span>
+4. 🔻<span class="via">Go(Left)</span>
 
 ## <beta>Get to the back of the piece then start backfilling</beta>
 

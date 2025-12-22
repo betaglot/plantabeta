@@ -1,7 +1,7 @@
 ---
 aside: false
 ---
-# 💜 <anima>BagOutTime </anima>
+# 💜 <span class="anima">BagOutTime </span>
 
 ---
 

@@ -1,4 +1,4 @@
-# 💜<anima>Clarity Ease</anima>
+# 💜<span class="anima">Clarity Ease</span>
 
 ---
 

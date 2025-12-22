@@ -1,4 +1,4 @@
-# 🟩<ekos>EKON: Telos</ekos>
+# 🟩<span class="ekos">EKON: Telos</span>
 
 > Teleology, (from Greek telos, “end,” and logos, “reason”), explanation by reference to some purpose, end, goal, or function.
 

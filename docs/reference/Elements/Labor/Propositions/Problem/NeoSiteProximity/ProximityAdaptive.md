@@ -1,4 +1,4 @@
-# 🔻 <via>AdaptiveProximity</via>
+# 🔻 <span class="via">AdaptiveProximity</span>
 
 > Site proximity which changes in response to changing Eko
 

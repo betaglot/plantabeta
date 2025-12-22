@@ -1,7 +1,7 @@
 ---
 aside: false
 ---
-# 💜 <anima>Sound</anima>
+# 💜 <span class="anima">Sound</span>
 
 ---
 

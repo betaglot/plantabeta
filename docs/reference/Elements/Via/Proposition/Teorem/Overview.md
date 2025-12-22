@@ -1,4 +1,4 @@
-# 🔻 <via>VIA: Teorems</via>
+# 🔻 <span class="via">VIA: Teorems</span>
 
 > a statement about VIA that can be shown to be true
 

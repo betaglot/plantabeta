@@ -1,4 +1,4 @@
-# 🔻<via>ZonePlan</via>
+# 🔻<span class="via">ZonePlan</span>
 
 ---
 

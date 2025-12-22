@@ -1,4 +1,4 @@
-# 🟩<ekos>Soil Size</ekos>
+# 🟩<span class="ekos">Soil Size</span>
 
 ---
 

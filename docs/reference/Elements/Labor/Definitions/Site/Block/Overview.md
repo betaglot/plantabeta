@@ -1,4 +1,4 @@
-# ⭐<labor>Block</labor>
+# ⭐<span class="labor">Block</span>
 
 > The space of land that your crew is planting in.
 

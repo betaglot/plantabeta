@@ -1,4 +1,4 @@
-# 🟠<motor>Time</motor>
+# 🟠<span class="motor">Time</span>
 
 ---
 

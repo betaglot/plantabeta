@@ -1,4 +1,4 @@
-# 🟩<ekos>Larix</ekos>
+# 🟩<span class="ekos">Larix</span>
 
 Larch
 

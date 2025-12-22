@@ -1,4 +1,4 @@
-# 🟠<motor>MOTON: Atributs</motor>
+# 🟠<span class="motor">MOTON: Atributs</span>
 
 ---
 

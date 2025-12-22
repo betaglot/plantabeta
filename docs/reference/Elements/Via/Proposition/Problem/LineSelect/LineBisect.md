@@ -1,4 +1,4 @@
-# 🔻<via>BisectLine</via>
+# 🔻<span class="via">BisectLine</span>
 
 > A line that Bisects a space or line
 

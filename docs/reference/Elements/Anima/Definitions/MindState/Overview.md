@@ -1,7 +1,7 @@
 ---
 aside: false
 ---
-# <anima>MindState</anima>
+# <span class="anima">MindState</span>
 
 > a condition
 

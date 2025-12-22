@@ -1,4 +1,4 @@
-# 🟩<ekos>EKON: Krux</ekos>
+# 🟩<span class="ekos">EKON: Krux</span>
 
 > the most difficult attribute of this Element
 

@@ -1,4 +1,4 @@
-# ⭐<labor>Kompress</labor>
+# ⭐<span class="labor">Kompress</span>
 
 ---
 

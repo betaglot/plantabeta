@@ -1,4 +1,4 @@
-# ⭐<labor>Toggle</labor>
+# ⭐<span class="labor">Toggle</span>
 
 ---
 

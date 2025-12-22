@@ -1,4 +1,4 @@
-# 🔻<via>LineTeorem</via>
+# 🔻<span class="via">LineTeorem</span>
 
 ---
 

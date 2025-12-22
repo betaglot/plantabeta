@@ -1,5 +1,5 @@
 
-# 💜<anima>FlowState</anima>
+# 💜<span class="anima">FlowState</span>
 
 ## Microflow
 

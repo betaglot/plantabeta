@@ -1,4 +1,4 @@
-# 🔷<soma>SomaGraphic</soma>
+# 🔷<span class="soma">SomaGraphic</span>
 
 ---
 

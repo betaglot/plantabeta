@@ -1,4 +1,4 @@
-# 🟩  <ekos>WetSlash</ekos>🟩
+# 🟩  <span class="ekos">WetSlash</span>🟩
 
 ---
 

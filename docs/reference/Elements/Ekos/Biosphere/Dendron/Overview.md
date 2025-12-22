@@ -1,4 +1,4 @@
-# 🟩 <ekos>Dendron</ekos>
+# 🟩 <span class="ekos">Dendron</span>
 
 Aliases: Tree, Neophyte, Seedling
 

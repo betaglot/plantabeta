@@ -1,7 +1,7 @@
 ---
 aside: false
 ---
-# 💜 <anima>Time</anima>
+# 💜 <span class="anima">Time</span>
 
 ---
 

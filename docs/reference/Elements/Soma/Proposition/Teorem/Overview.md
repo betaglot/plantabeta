@@ -1,4 +1,4 @@
-# 🔷<soma>SOMA: Teorems</soma>
+# 🔷<span class="soma">SOMA: Teorems</span>
 
 ---
 

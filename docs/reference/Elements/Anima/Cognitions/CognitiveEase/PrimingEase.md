@@ -1,4 +1,4 @@
-# 💜<anima>Priming Ease</anima>
+# 💜<span class="anima">Priming Ease</span>
 
 ---
 

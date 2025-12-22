@@ -24,13 +24,13 @@
         - RPM = Energy
         - Thermal Energy
     - Step Down into trench sideways to prevent knee over toes, otherwise HeelKrampon step becuase of stiff boot
-        - ⭐<labor>Boot</labor>
+        - ⭐<span class="labor">Boot</span>
 - 1.10
     - Bounce, Cross, Zone, Follow
         - Your four options when you converge with another Planter
 - 1.11
     - Fan, Partial Boustro
-    - 🔻<via>NeoVion</via>(AsymmetricBoustro)
+    - 🔻<span class="via">NeoVion</span>(AsymmetricBoustro)
 
 - 1.12
     - Triangle made from straight lines. Like a 3D printer
@@ -47,7 +47,7 @@
         - "Hit a road"
         - "Hit an [Ekon || Vion]"
 - 1.14
-    - Rip apart during NeonInsert. Trees that are attached by an intrusive root, can be ripped apart during NeonInsert instead of as separate Betum
+    - Rip apart during NeonInsert. Trees that are attached by an intrusive root, can be ripped apart during NeonInsert instead of as separate Betom
     - Planting 15s is like planting a myriad or "a lot"
         - Superlative Density
         - Maximum Practical Density
@@ -55,19 +55,19 @@
 - 1.15
     - You stop paying attention to the spade during the moton, when planting with non dominant side. MotorControl requires attention. Dominant side has more developed attention hooks
         - <BC l='Spade's='NonDominant'e=''v=''m=''a='Attention'/>
-        - You must adapt to how the ⭐<labor>Spade</labor> is moving.  
+        - You must adapt to how the ⭐<span class="labor">Spade</span> is moving.  
             - Guide
             - Herd (verb)
             - Affordance
                 - "Able to get it back under control if I do this moton"
-                    - Control = "Following a 🔻<via>line</via>"
+                    - Control = "Following a 🔻<span class="via">line</span>"
     - Motor can require AnimaInhibition.
         - "Quiet the mind"
         - "Stop thinking", "discursive thoughts"
         - Focus can be about (Exclusion = NOT Excessive Inclusion)
 - 1.16
     - <BC l='Boot.Rand's=''e=''v=''m='Purga'a=''/>
-    - Betum = Tuple
+    - Betom = Tuple
     - <BC l='Boot.Sole's=''e=''v=''m='Purga'a=''/>
 - 1.17
     - Reorient Neon while picking up by twisting. Like Spin the Bottle
@@ -79,7 +79,7 @@
     - <BC l=''s=''e=''v=''m='Purga.Scrape'a=''/>
     - Diagram of TriPlanter Fill Pattern
         - Middle Planter follows Zone.Midline
-        - Flankers do <via>FillPattern(ZigZagLine)</via>
+        - Flankers do <span class="via">FillPattern(ZigZagLine)</span>
 - 1.19
     - First submoton of Klose gathers, then secon Moton Stamps
         - Gather then Kompakt
@@ -139,16 +139,16 @@
                     - Kuboi of Injury
 - 2.09
     - Taking a step closer to hole is less Kuboi than stepping backwards, since you can see the [Boot,Anterior,Ekos]  of your Boots, but not the <BC l='Boot's='Posterior'e='EKOS'v=''m=''a=''/>
-        - 🔷<soma>Anterior</soma> is a Space relative to SOMA, not a 🔻<via>Direction</via>
-            - A 🔷<soma>SOMON</soma>, not a 🔻<via>VION</via>
+        - 🔷<span class="soma">Anterior</span> is a Space relative to SOMA, not a 🔻<span class="via">Direction</span>
+            - A 🔷<span class="soma">SOMON</span>, not a 🔻<span class="via">VION</span>
 - 2.10
     - <BC l=''s='Forearm'e=''v='(Horizontal || ParallelTo(Blade.Tip, Takt.Line))'m=''a=''/>
-        - Attributes of a 🔻<via>Takt</via>
+        - Attributes of a 🔻<span class="via">Takt</span>
             - Takt.Line
             - Takt.Shape
             - Takt.Form
 - 2.11
-    - BetumArray
+    - BetomArray
     - Wipe both your hands before reaching for this book. Soiled paper is more difficult to read
 - 2.12
     - Lunge SpadeSlam is more powerful, but should only be used when both Feet are at the same elevation when lunging, ie. not lunging up or down a slope.
@@ -161,7 +161,7 @@
     - <BC l='Boot's=''e='Skreef'v=''m='Rasp'a=''/> has no impact, unlike <BC l='Boot's=''e='Skreef'v=''m='Kick'a=''/>
     - Bellows unfold from ChestPack then attach to waist belt
     - If a Rock or hole DeflectingObstacle rotates the Blade onKontakt, then KorpoOrbit around Spade until Shoulders are SquaredUp with Spade
-        - Adapt your position relative to Spade, since the 🟩<ekos>Soil</ekos> constrains BladePosition more than SOMA
+        - Adapt your position relative to Spade, since the 🟩<span class="ekos">Soil</span> constrains BladePosition more than SOMA
 - 2.15
     - SquaredUp shoulders
         - Diagram of Square with Vions on Parallel Sides Blade on AnteriorSide and Shoulders and Hips on PosteriorSide
@@ -290,7 +290,7 @@
         - Maintain RootDepth if the hole is deeper than roots
         - Maintain Vertical Stem to prevent Leaner
 - 4.18
-    - NeoBetum(NeonSlide, NeonGuide, NeonSupport)
+    - NeoBetom(NeonSlide, NeonGuide, NeonSupport)
     - Leave space for AlloPlanter to pass by
         - <BC l=''s='Anterior'e=''v=''m='Pass'a=''/>
         - <BC l=''s='Posterior'e=''v=''m='Pass'a=''/>
@@ -319,7 +319,7 @@
 - 4.24
     - FootKlose
     - FlatPrint
-    - <ekos>Print is EKOS</ekos>
+    - <span class="ekos">Print is EKOS</span>
     - The result of Klose.Kompakt() is a Print.
         - A Print which extended past NeonStem is evidence of a leaner
     - BootPrint

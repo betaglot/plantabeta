@@ -1,7 +1,7 @@
 ---
 aside: false
 ---
-# 💜<anima>Estimation</anima>
+# 💜<span class="anima">Estimation</span>
 
 ---
 

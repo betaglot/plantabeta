@@ -1,4 +1,4 @@
-# 💜<anima>ANIMON: Kratos</anima>
+# 💜<span class="anima">ANIMON: Kratos</span>
 
 ## Definition
 

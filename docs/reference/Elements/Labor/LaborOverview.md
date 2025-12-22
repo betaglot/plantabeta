@@ -2,19 +2,19 @@
 import FaktorIkon from '/vue/FaktorIkon.vue'
 </script>
 
-# <div class="d-flex justify-center text-h1"><labor>LABOR</labor></div>
+# <div class="d-flex justify-center text-h1"><span class="labor">LABOR</span></div>
 
 <FaktorIkon imageSource='/Ikon/Labor_Ikon.png' />
 
-## What is <labor>LABOR</labor>
+## What is <span class="labor">LABOR</span>
 
 Aliases: Work, Job, Task
 
-::: details Why is it called <labor>LABOR</labor>?
+::: details Why is it called <span class="labor">LABOR</span>?
 
 :::
 
-::: details Examples of <labor>LABOR</labor> in everyday life
+::: details Examples of <span class="labor">LABOR</span> in everyday life
 
 - while driving a car
     - a stop sign
@@ -62,19 +62,19 @@ Aliases: Work, Job, Task
         - Don't take all the easy land
             - Cream someone out
             - A creamer
-- 🟩<ekos>EKOS</ekos>.Labor
+- 🟩<span class="ekos">EKOS</span>.Labor
     - SlowLand
     - TreePrice
         - EkoMetron affects TreePrice, it
         - When the Price is high, chill while making same average daily income.
-- 🔻<via>VIA</via>.Labor
+- 🔻<span class="via">VIA</span>.Labor
     - Choose the most Efficient Via
     - Path of least resistance
     - Labor defines the Boundary of a Block
-- 🟠<motor>MOTON</motor>.Labor
+- 🟠<span class="motor">MOTON</span>.Labor
     - Choose the most Efficient MOTON
     - Work as a unit of energy
-- 💜<anima>ANIMA</anima>.Labor
+- 💜<span class="anima">ANIMA</span>.Labor
     - Labor can influence Motivate
         - I've already made enough money today, so I'm calling it quits
 

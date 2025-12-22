@@ -1,4 +1,4 @@
-# 💜<anima>ANIMON: Error</anima>
+# 💜<span class="anima">ANIMON: Error</span>
 
 > any errors that can occur during the practice of this Element
 

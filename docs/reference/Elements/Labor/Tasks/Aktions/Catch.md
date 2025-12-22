@@ -1,4 +1,4 @@
-# ⭐<labor>Catch</labor>
+# ⭐<span class="labor">Catch</span>
 
 ---
 

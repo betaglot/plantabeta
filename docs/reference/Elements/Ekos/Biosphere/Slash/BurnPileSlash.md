@@ -1,4 +1,4 @@
-# 🟩  <ekos>BurnPileSlash</ekos>
+# 🟩  <span class="ekos">BurnPileSlash</span>
 
 ## Spacing
 

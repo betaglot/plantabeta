@@ -1,4 +1,4 @@
-# 🔻<via>VION</via>
+# 🔻<span class="via">VION</span>
 
 ---
 

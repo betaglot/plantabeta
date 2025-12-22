@@ -1,4 +1,4 @@
-# ⭐<labor>Adduction</labor>
+# ⭐<span class="labor">Adduction</span>
 
 ---
 

@@ -1,4 +1,4 @@
-# 🟩<ekos>Mesic Soil</ekos>
+# 🟩<span class="ekos">Mesic Soil</span>
 
 > Organic material in an intermediate stage of decomposition; intermediate amounts of fiber are present that can be identified as to their botanical origin. - [CanadianGov](https://sis.agr.gc.ca/cansis/taxa/cssc3/chpt18.html)
 

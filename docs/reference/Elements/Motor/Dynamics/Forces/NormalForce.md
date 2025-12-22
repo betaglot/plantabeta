@@ -1,4 +1,4 @@
-# 🟠<motor>Normal Force</motor>
+# 🟠<span class="motor">Normal Force</span>
 
 ---
 

@@ -1,4 +1,4 @@
-# 🟩<ekos>EKOS: Definitions</ekos>
+# 🟩<span class="ekos">EKOS: Definitions</span>
 
 ---
 

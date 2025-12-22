@@ -44,15 +44,15 @@ Use the module colors along with their icons
 
 🌈<beta>BETA</beta>
 
-🔷<soma>SOMA</soma>
+🔷<span class="soma">SOMA</span>
 
-🟩<ekos>EKOS</ekos>
+🟩<span class="ekos">EKOS</span>
 
-🔻<via>VIA</via>
+🔻<span class="via">VIA</span>
 
-🟠<motor>MOTOR</motor>
+🟠<span class="motor">MOTOR</span>
 
-💜<anima>ANIMA</anima>
+💜<span class="anima">ANIMA</span>
 
 ## Betaglot Docs
 

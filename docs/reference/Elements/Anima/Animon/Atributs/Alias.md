@@ -1,4 +1,4 @@
-# 💜<anima>ANIMON: Alias</anima>
+# 💜<span class="anima">ANIMON: Alias</span>
 
 > other names used to refer to this Element. In english or other languages.
 

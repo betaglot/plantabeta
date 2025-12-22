@@ -1,4 +1,4 @@
-# 🟩<ekos>Discern</ekos>
+# 🟩<span class="ekos">Discern</span>
 
 ---
 

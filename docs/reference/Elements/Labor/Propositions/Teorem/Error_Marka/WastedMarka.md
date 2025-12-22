@@ -1,4 +1,4 @@
-# 🔻 <via>WastedMarka</via>
+# 🔻 <span class="via">WastedMarka</span>
 
 - LowMarka
 - MarkaError

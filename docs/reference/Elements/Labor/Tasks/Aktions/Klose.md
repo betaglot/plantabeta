@@ -1,4 +1,4 @@
-# ⭐<labor>Klose</labor>
+# ⭐<span class="labor">Klose</span>
 
 ---
 

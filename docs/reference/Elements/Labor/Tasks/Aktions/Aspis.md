@@ -1,4 +1,4 @@
-# ⭐<labor>Aspis</labor>
+# ⭐<span class="labor">Aspis</span>
 
 ---
 

@@ -1,4 +1,4 @@
-# 🔷<soma>SOMON: Metods</soma>
+# 🔷<span class="soma">SOMON: Metods</span>
 
 ---
 

@@ -1,4 +1,4 @@
-# 🔻<via>WalkInPath</via>
+# 🔻<span class="via">WalkInPath</span>
 
 ---
 

@@ -1,4 +1,4 @@
-# ⭐<labor>Glove</labor>
+# ⭐<span class="labor">Glove</span>
 
 ## Glove.Anatomy
 

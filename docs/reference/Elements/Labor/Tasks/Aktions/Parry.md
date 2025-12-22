@@ -1,4 +1,4 @@
-# ⭐<labor>Parry</labor>
+# ⭐<span class="labor">Parry</span>
 
 ---
 

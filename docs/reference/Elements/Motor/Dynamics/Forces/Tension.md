@@ -1,4 +1,4 @@
-# 🟠<motor>Tension</motor>
+# 🟠<span class="motor">Tension</span>
 
 ---
 

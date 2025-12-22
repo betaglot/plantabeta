@@ -1,4 +1,4 @@
-# 🔷<soma>Injury Prevention</soma>
+# 🔷<span class="soma">Injury Prevention</span>
 
 ---
 

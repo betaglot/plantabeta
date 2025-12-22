@@ -1,7 +1,7 @@
 ---
 aside: false
 ---
-# 💜 <anima>Spatial Cognition</anima>
+# 💜 <span class="anima">Spatial Cognition</span>
 
 - Visuospatial Ability
 - Spatial Visualization

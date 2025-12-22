@@ -1,4 +1,4 @@
-# ⭐<labor>Bundle</labor>
+# ⭐<span class="labor">Bundle</span>
 
 ---
 

@@ -1,4 +1,4 @@
-# ⭐<labor>LABON: Error</labor>
+# ⭐<span class="labor">LABON: Error</span>
 
 > any errors that can occur during the practice of this Element
 

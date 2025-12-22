@@ -1,4 +1,4 @@
-# ⭐<labor>Repair</labor>
+# ⭐<span class="labor">Repair</span>
 
 Temporary Repair until you can have your Instruments repaired by a professional.
 

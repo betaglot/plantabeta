@@ -16,7 +16,7 @@ Phrase
 
 Four Four Time can be represented by quadrants
 
-## Subject to Subject: Atlete to Atlete 💜<anima>ANIMA to ANIMA</anima>
+## Subject to Subject: Atlete to Atlete 💜<span class="anima">ANIMA to ANIMA</span>
 
 Present to Future: Plan, Rehearsal,
 
@@ -24,9 +24,9 @@ Present to Past: Reflection, LearningFromFailure,
 
 Synergy
 
-## 🟩<ekos>EKO to EKOS</ekos>
+## 🟩<span class="ekos">EKO to EKOS</span>
 
-## 🔻<via>VIA to VIA</via>
+## 🔻<span class="via">VIA to VIA</span>
 
 ---
 

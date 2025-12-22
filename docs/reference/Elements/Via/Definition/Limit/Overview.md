@@ -1,4 +1,4 @@
-# 🔻<via>Limit</via>
+# 🔻<span class="via">Limit</span>
 
 - Limit of your reach
 Limit of space

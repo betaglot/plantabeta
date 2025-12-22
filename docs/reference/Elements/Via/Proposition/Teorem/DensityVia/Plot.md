@@ -1,4 +1,4 @@
-# 🔻<via>Plot</via>
+# 🔻<span class="via">Plot</span>
 
 > The area of the circle who's radius is created by a plot cord of a given length, usually 4 meters
 

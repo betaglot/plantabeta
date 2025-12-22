@@ -1,4 +1,4 @@
-# ⭐<labor>Team</labor>
+# ⭐<span class="labor">Team</span>
 
 ---
 

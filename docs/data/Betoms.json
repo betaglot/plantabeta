@@ -1,0 +1,126 @@
+[
+   {
+      "betomID": "",
+      "betomElements": {
+         "labon": [
+            "Ekon"
+         ],
+         "somon": [
+            ""
+         ],
+         "ekon": [
+            ""
+         ],
+         "vion": [
+            ""
+         ],
+         "moton": [
+            ""
+         ],
+         "animon": [
+            "Audio"
+         ]
+      },
+      "betomPath": "",
+      "betomDescription": [],
+      "betomExample": {
+         "betomExampleVideo": [],
+         "betomExampleImage": [],
+         "betomExampleQuote": []
+      },
+      "betomSubtypes": []
+   },
+   {
+      "betomID": "",
+      "betomElements": {
+         "labon": [
+            ""
+         ],
+         "somon": [
+            ""
+         ],
+         "ekon": [
+            "Flora"
+         ],
+         "vion": [
+            ""
+         ],
+         "moton": [
+            ""
+         ],
+         "animon": [
+            "Emotion"
+         ]
+      },
+      "betomPath": "",
+      "betomDescription": [],
+      "betomExample": {
+         "betomExampleVideo": [],
+         "betomExampleImage": [],
+         "betomExampleQuote": []
+      },
+      "betomSubtypes": []
+   },
+   {
+      "betomID": "",
+      "betomElements": {
+         "labon": [
+            ""
+         ],
+         "somon": [
+            ""
+         ],
+         "ekon": [
+            "Flora"
+         ],
+         "vion": [
+            ""
+         ],
+         "moton": [
+            ""
+         ],
+         "animon": [
+            "Identification"
+         ]
+      },
+      "betomPath": "",
+      "betomDescription": [],
+      "betomExample": {
+         "betomExampleVideo": [],
+         "betomExampleImage": [],
+         "betomExampleQuote": []
+      },
+      "betomSubtypes": []
+   },
+   {
+      "betomID": "",
+      "betomElements": {
+         "labon": [
+            ""
+         ],
+         "somon": [
+            ""
+         ],
+         "ekon": [
+            "Flora"
+         ],
+         "vion": [
+            ""
+         ],
+         "moton": [
+            ""
+         ],
+         "animon": [
+            ""
+         ]
+      },
+      "betomPath": "",
+      "betomDescription": [],
+      "betomExample": {
+         "betomExampleVideo": [],
+         "betomExampleImage": [],
+         "betomExampleQuote": []
+      },
+      "betomSubtypes": []
+   }
+]

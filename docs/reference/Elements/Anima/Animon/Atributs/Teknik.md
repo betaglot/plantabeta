@@ -1,4 +1,4 @@
-# 💜<anima>ANIMON: Teknik</anima>
+# 💜<span class="anima">ANIMON: Teknik</span>
 
 ## Definition
 

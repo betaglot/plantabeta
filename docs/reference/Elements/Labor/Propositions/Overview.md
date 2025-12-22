@@ -1,4 +1,4 @@
-# ⭐<labor>LABOR: Propositions</labor>
+# ⭐<span class="labor">LABOR: Propositions</span>
 
 ---
 

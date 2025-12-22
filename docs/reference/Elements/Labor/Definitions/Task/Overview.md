@@ -1,4 +1,4 @@
-# ⭐<labor>Task</labor>
+# ⭐<span class="labor">Task</span>
 
 tache
 

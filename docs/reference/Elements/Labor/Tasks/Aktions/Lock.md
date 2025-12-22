@@ -1,4 +1,4 @@
-# ⭐<labor>Lock</labor>
+# ⭐<span class="labor">Lock</span>
 
 ---
 

@@ -1,4 +1,4 @@
-# ⭐<labor>LABON: Teknik</labor>
+# ⭐<span class="labor">LABON: Teknik</span>
 
 ---
 

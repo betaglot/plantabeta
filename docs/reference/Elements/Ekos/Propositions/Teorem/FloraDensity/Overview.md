@@ -1,4 +1,4 @@
-# 🟩<ekos>FloraDensity</ekos>
+# 🟩<span class="ekos">FloraDensity</span>
 
 ---
 

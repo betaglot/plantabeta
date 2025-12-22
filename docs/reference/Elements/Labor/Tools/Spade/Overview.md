@@ -1,4 +1,4 @@
-# ⭐<labor>Spade</labor>
+# ⭐<span class="labor">Spade</span>
 
 Aliases: Shovel
 

@@ -1,4 +1,4 @@
-# 🟠<motor>Friction</motor>
+# 🟠<span class="motor">Friction</span>
 
 ---
 

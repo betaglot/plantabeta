@@ -23,7 +23,7 @@ Injury can occur in Planters when they perform the same movement repeatedly.
 
 ## Reduces Injuries from Falling
 
-PlantaBeta teaches Planters how to move through their 🟩<ekos>EKOS</ekos> safely.
+PlantaBeta teaches Planters how to move through their 🟩<span class="ekos">EKOS</span> safely.
 
 Falling is a large part of Climbing. <beta>PlantaBeta</beta> transfers the knowledge of how to fall safely from climbing to Planting.
 ::: tip Some of the MOTONs used to safely Fall

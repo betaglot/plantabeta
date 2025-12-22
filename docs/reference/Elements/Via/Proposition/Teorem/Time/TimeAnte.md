@@ -1,4 +1,4 @@
-# 🔻<via>AnteTime</via>
+# 🔻<span class="via">AnteTime</span>
 
 ---
 

@@ -1,4 +1,4 @@
-# 💜<anima>Touch Sense</anima>
+# 💜<span class="anima">Touch Sense</span>
 
 ---
 

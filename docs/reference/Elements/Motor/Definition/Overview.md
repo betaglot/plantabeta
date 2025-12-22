@@ -1,7 +1,7 @@
 ---
 aside: false
 ---
-# 🟠 <motor>MOTOR: Definitions</motor>
+# 🟠 <span class="motor">MOTOR: Definitions</span>
 
 ---
 

@@ -1,4 +1,4 @@
-# 🟩  <ekos>Slash</ekos>
+# 🟩  <span class="ekos">Slash</span>
 
 ---
 

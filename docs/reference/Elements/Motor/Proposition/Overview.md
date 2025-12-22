@@ -1,4 +1,4 @@
-# 🟠<motor>MOTOR: Propositions</motor>
+# 🟠<span class="motor">MOTOR: Propositions</span>
 
 ---
 

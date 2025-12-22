@@ -1,7 +1,7 @@
 ---
 aside: false
 ---
-# 💜 <anima>Emotion</anima>
+# 💜 <span class="anima">Emotion</span>
 
 😄 Joy
 😨 Fear

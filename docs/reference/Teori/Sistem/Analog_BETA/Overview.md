@@ -13,25 +13,25 @@ This each line are analog pairs. The equal signs = denotes where Climbing and Pl
 |                         **Climbing** | **Planting**                      |
 | -----------------------------------: | :-------------------------------- |
 |                  <beta>Beta</beta> = | = <beta>Beta</beta>               |
-|                     <ekos>EKOS</ekos> = | = <ekos>EKOS</ekos>                  |
-|                     <via>Via</via> = | = <via>Via</via>                  |
-|               <anima>ANIMA</anima> = | = <anima>ANIMA</anima>            |
-|                      <ekos>Wall</ekos> | <ekos>Land</ekos>                   |
-|              <ekos>Wall Section</ekos> | <ekos>Area</ekos>                   |
-|          <via>Contact</via> = | = <via>Contact</via>       |
-|                      <via>Hold</via> | <via>Microsite</via>              |
-|                    <ekos>Volume</ekos> | <ekos>Mound, Trench</ekos>          |
-|                 <ekos>WallAngle</ekos> | <ekos>SlopeAngle</ekos>             |
-|            <motor>ClimbingShoe</motor> | <motor>PlantingBoot</motor>         |
+|                     <span class="ekos">EKOS</span> = | = <span class="ekos">EKOS</span>                  |
+|                     <span class="via">Via</span> = | = <span class="via">Via</span>                  |
+|               <span class="anima">ANIMA</span> = | = <span class="anima">ANIMA</span>            |
+|                      <span class="ekos">Wall</span> | <span class="ekos">Land</span>                   |
+|              <span class="ekos">Wall Section</span> | <span class="ekos">Area</span>                   |
+|          <span class="via">Contact</span> = | = <span class="via">Contact</span>       |
+|                      <span class="via">Hold</span> | <span class="via">Microsite</span>              |
+|                    <span class="ekos">Volume</span> | <span class="ekos">Mound, Trench</span>          |
+|                 <span class="ekos">WallAngle</span> | <span class="ekos">SlopeAngle</span>             |
+|            <span class="motor">ClimbingShoe</span> | <span class="motor">PlantingBoot</span>         |
 |                <beta>Redpoint</beta> | <beta>Replanting Required </beta> |
 |          <beta>Flash, Onsight</beta> | <beta>No replanting </beta>       |
-|         <motor>RockOver MOTON</motor> = | = <motor>RockOver MOTON</motor>      |
-|              <via>ViaFinding</via> = | = <via>ViaFinding</via>           |
-|                <via>One Pitch</via>  | <via>One CoverLoop </via>         |
-|                  <motor>Fall</motor> = | = <motor>Fall</motor>               |
-| <via>Anchor, Belay Station</via>     | <via>Cache</via>                  |
-|              <via>Approach</via>     | <via>Walk In</via>                |
-|                     <ekos>Crag</ekos>  | <ekos>Block</ekos>                  |
+|         <span class="motor">RockOver MOTON</span> = | = <span class="motor">RockOver MOTON</span>      |
+|              <span class="via">ViaFinding</span> = | = <span class="via">ViaFinding</span>           |
+|                <span class="via">One Pitch</span>  | <span class="via">One CoverLoop </span>         |
+|                  <span class="motor">Fall</span> = | = <span class="motor">Fall</span>               |
+| <span class="via">Anchor, Belay Station</span>     | <span class="via">Cache</span>                  |
+|              <span class="via">Approach</span>     | <span class="via">Walk In</span>                |
+|                     <span class="ekos">Crag</span>  | <span class="ekos">Block</span>                  |
 
 ## How is it useful to relate Climbing to Planting?
 

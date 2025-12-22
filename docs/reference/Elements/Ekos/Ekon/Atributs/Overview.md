@@ -1,4 +1,4 @@
-# 🟩<ekos>EKON: Atributs</ekos>
+# 🟩<span class="ekos">EKON: Atributs</span>
 
 ## Class Attribute
 

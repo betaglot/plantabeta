@@ -1,4 +1,4 @@
-# 🌈<beta>BETUM: Atributs</beta>
+# 🌈<beta>BETOM: Atributs</beta>
 
 ---
 

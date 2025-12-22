@@ -1,4 +1,4 @@
-# 🟩<ekos>Lightning</ekos>
+# 🟩<span class="ekos">Lightning</span>
 
 ---
 

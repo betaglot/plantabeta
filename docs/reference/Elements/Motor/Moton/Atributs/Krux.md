@@ -1,4 +1,4 @@
-# 🟠<motor>MOTONKrux</motor>
+# 🟠<span class="motor">MOTONKrux</span>
 
 > the most difficult attribute of this Element
 

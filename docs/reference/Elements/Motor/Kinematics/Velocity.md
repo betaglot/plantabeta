@@ -1,4 +1,4 @@
-# 🟠<motor>Velocity</motor>
+# 🟠<span class="motor">Velocity</span>
 
 ---
 

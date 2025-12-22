@@ -1,4 +1,4 @@
-# 💜<anima>ANIMON: Kuboi</anima>
+# 💜<span class="anima">ANIMON: Kuboi</span>
 
 ## Definition
 

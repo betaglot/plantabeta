@@ -1,4 +1,4 @@
-# 💜<anima>ANIMON: Frekentia</anima>
+# 💜<span class="anima">ANIMON: Frekentia</span>
 
 > the statistics of this Element
 

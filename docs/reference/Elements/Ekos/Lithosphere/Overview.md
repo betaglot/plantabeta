@@ -1,4 +1,4 @@
-# 🟩<ekos>Lithosphere</ekos>
+# 🟩<span class="ekos">Lithosphere</span>
 
 ---
 

@@ -1,4 +1,4 @@
-# 🔻<via>Direction_Proximal</via>
+# 🔻<span class="via">Direction_Proximal</span>
 
 ---
 

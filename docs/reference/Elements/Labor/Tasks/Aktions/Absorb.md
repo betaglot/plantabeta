@@ -1,4 +1,4 @@
-# ⭐<labor>Absorb</labor>
+# ⭐<span class="labor">Absorb</span>
 
 ---
 

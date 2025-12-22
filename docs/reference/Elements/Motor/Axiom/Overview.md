@@ -1,4 +1,4 @@
-# 🟠<motor>MOTON: Axioms</motor>
+# 🟠<span class="motor">MOTON: Axioms</span>
 
 ---
 

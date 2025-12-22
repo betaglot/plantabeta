@@ -1,4 +1,4 @@
-# 🟠<motor>MOTONExtreme</motor>
+# 🟠<span class="motor">MOTONExtreme</span>
 
 >
 

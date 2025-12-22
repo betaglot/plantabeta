@@ -1,4 +1,4 @@
-# 🟩  <ekos>HighSlash</ekos>
+# 🟩  <span class="ekos">HighSlash</span>
 
 ---
 

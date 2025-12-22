@@ -1,4 +1,4 @@
-# ⭐<labor>Karabiner</labor>
+# ⭐<span class="labor">Karabiner</span>
 
 ---
 

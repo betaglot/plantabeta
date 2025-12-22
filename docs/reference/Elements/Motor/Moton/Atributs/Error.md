@@ -1,4 +1,4 @@
-# 🟠<motor>MOTONError</motor>
+# 🟠<span class="motor">MOTONError</span>
 
 > any errors that can occur during the practice of this Element
 

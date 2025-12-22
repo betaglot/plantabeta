@@ -10,7 +10,7 @@
 
 .VPNavBarTitle span {
   font-weight: 900;
-  background-image: linear-gradient(to right, #FFCC00,#569cd6,#6a9955,#f44747,#ca733d,#c586c0);
+  background-image: linear-gradient(to right, #ffcc00,#579dd6,#6b9b55,#ff3333,#d9670f,#c587c0);
   color: transparent;
   background-clip: text;
   -webkit-background-clip: text;
@@ -32,25 +32,24 @@
   color: inherit;
 }
 
-.VPHero .VPButton {
-  background-image: linear-gradient(to right, #FFCC00,#569cd6,#6a9955,#f44747,#ca733d,#c586c0);
-  /* color: transparent; */
-  /* background-clip: text;
-  -webkit-background-clip: text; */
+footer.VPFooter {
+    display: block !important;
 }
+
+
 
 .youtube {
   aspect-ratio: 16 / 9;
   width: 100%;
 }
 
-dev {
+.dev {
   color: #9bdbfd;
 }
 
-beta {
+.beta {
   font-weight: 900;
-  background-image: linear-gradient(to right, #FFCC00,#569cd6,#6a9955,#f44747,#ca733d,#c586c0);
+  background-image: linear-gradient(to right, #FFCC00,#569cd6,#6a9955,#ff3131,#da680f,#c586c0);
   color: transparent;
   background-clip: text;
   -webkit-background-clip: text;
@@ -61,34 +60,34 @@ thick {
   font-weight: 900;
 }
 
-labor {
+.labor {
   font-weight: 900;
   color:  #FFCC00;
   
 }
 
-soma {
+.soma {
   font-weight: 900;
   color: #569cd6;
 }
 
-ekos {
+.ekos {
   font-weight: 900;
   color: #6a9955;
 }
 
-via {
+.via {
   font-weight: 900;
-  color: #f44747;
+  color: #ff3131;
 }
 
-motor {
+.motor {
   font-weight: 900;
-  color: #ca733d;
+  color: #da680f;
 
 }
 
-anima {
+.anima {
   font-weight: 900;
   color: #c586c0;
 }
@@ -129,16 +128,25 @@ error {
 
 .via {
   font-weight: 900;
-  color: #f44747;
+  color: #ff3131;
 }
 
 .motor {
   font-weight: 900;
-  color: #ca733d;
+  color: #da680f;
 
 }
 
 .anima {
   font-weight: 900;
   color: #c586c0;
+}
+
+.rainbow {
+    background-image: linear-gradient(to right, #FFCC00, #569cd6, #6a9955, #ff3131, #da680f, #c586c0);
+    text-decoration: none;
+}
+
+a:link{
+  text-decoration: none!important;
 }

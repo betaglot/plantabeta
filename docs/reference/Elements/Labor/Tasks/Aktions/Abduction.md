@@ -1,5 +1,5 @@
 
-# ⭐<labor>Abduction</labor>
+# ⭐<span class="labor">Abduction</span>
 
 ---
 

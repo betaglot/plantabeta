@@ -1,4 +1,4 @@
-# 🔷<soma>Korpo</soma>
+# 🔷<span class="soma">Korpo</span>
 
 ---
 

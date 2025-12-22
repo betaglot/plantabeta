@@ -1,4 +1,4 @@
-# ⭐<labor>Ankor</labor>
+# ⭐<span class="labor">Ankor</span>
 
 ---
 

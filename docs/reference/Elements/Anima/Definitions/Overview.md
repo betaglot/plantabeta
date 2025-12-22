@@ -1,7 +1,7 @@
 ---
 aside: false
 ---
-# 💜<anima>ANIMA: Definitions</anima>
+# 💜<span class="anima">ANIMA: Definitions</span>
 
 ---
 

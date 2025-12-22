@@ -1,4 +1,4 @@
-# 🟠<motor>KorpoLimit</motor>
+# 🟠<span class="motor">KorpoLimit</span>
 
 ---
 

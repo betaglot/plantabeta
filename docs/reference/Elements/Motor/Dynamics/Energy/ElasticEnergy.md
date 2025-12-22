@@ -1,4 +1,4 @@
-# 🟠<motor>Elastic Energy</motor>
+# 🟠<span class="motor">Elastic Energy</span>
 
 ---
 

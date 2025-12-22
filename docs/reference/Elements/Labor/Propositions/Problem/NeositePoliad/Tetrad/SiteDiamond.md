@@ -1,4 +1,4 @@
-# 🔻 <via>Neosite Tetrad Diamond</via>
+# 🔻 <span class="via">Neosite Tetrad Diamond</span>
 
 ![ViaIkon](/Ikon/Via_Ikon.png)
 

@@ -23,11 +23,11 @@ Like the ones in Euclid's Elements
 
 ## Examples
 
-### 🟠<motor></motor> How to get your feet back on the wall?
+### 🟠<span class="motor"></span> How to get your feet back on the wall?
 
-### 🟩<ekos></ekos> How to
+### 🟩<span class="ekos"></span> How to
 
-### 🔻<via></via> How to estimate the distance between ViaContacts
+### 🔻<span class="via"></span> How to estimate the distance between ViaContacts
 
 ## Components of a Problem
 

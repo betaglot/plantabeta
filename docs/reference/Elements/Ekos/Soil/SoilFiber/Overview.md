@@ -1,4 +1,4 @@
-# 🟩<ekos>Soil Fiber</ekos>
+# 🟩<span class="ekos">Soil Fiber</span>
 
 ---
 

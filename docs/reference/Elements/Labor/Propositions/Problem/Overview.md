@@ -1,4 +1,4 @@
-# ⭐<labor>LABOR: Problems</labor>
+# ⭐<span class="labor">LABOR: Problems</span>
 
 ---
 

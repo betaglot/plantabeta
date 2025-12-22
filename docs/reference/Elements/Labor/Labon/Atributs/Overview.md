@@ -1,4 +1,4 @@
-# ⭐<labor>LABON: Atributs</labor>
+# ⭐<span class="labor">LABON: Atributs</span>
 
 ---
 

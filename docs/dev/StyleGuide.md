@@ -118,7 +118,7 @@ Periods
 
 ## Color
 
-### <motor>MOTOR_Color</motor>
+### <span class="motor">MOTOR_Color</span>
 
 ```md
 
@@ -126,25 +126,25 @@ Periods
 
 ```
 
-### <via>VIA_Color</via>
+### <span class="via">VIA_Color</span>
 
 ```ts
 #f44747
 ```
 
-### <soma>SOMA_Color</soma>
+### <span class="soma">SOMA_Color</span>
 
 ```ts
 #569cd6 
 ```
 
-### <ekos>EKOS_Color</ekos>
+### <span class="ekos">EKOS_Color</span>
 
 ```ts
 #6a9955 
 ```
 
-### <anima>ANIMA_Color</anima>
+### <span class="anima">ANIMA_Color</span>
 
 ```ts
 #c586c0 
@@ -164,7 +164,7 @@ Ikons are only used to represent Objects or Functions.
 
 Initials like ByrneEuklid
 
-⭐<labor>of Labor???</labor>
+⭐<span class="labor">of Labor???</span>
 🟩 E of EKOS
 🔻 V of VIA
 🟠 oo of MOTOR
@@ -177,11 +177,11 @@ Concept, Object Property
 MOTONTimeline is orange as a header but it is not prefixed with an Ikon.
 
 ::: warning Incorrect Syntax
-🟠<motor>Arm.🟠<motor>ArmPut()</motor></motor>
+🟠<span class="motor">Arm.🟠<span class="motor">ArmPut()</span></span>
 
-Only the 🟠<motor>Arm</motor> object is prefixed with an ikon. ArmPut is orange but has no ikon
+Only the 🟠<span class="motor">Arm</span> object is prefixed with an ikon. ArmPut is orange but has no ikon
 
-🟠<motor>Arm.<motor>ArmPut()</motor></motor>
+🟠<span class="motor">Arm.<span class="motor">ArmPut()</span></span>
 
 ### PlantaBeta_IKON
 

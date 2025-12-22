@@ -1,4 +1,4 @@
-# 🟠<motor>Gravity</motor>
+# 🟠<span class="motor">Gravity</span>
 
 ---
 

@@ -1,4 +1,4 @@
-# 🔷<soma>Hips</soma>
+# 🔷<span class="soma">Hips</span>
 
 ---
 

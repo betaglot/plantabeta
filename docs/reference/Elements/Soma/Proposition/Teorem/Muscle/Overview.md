@@ -1,4 +1,4 @@
-# 💜 <anima>Muscle</anima>
+# 💜 <span class="anima">Muscle</span>
 
 ## Slow Twitch Muscle
 

@@ -1,4 +1,4 @@
-# 🔻<via>Probability</via>
+# 🔻<span class="via">Probability</span>
 
 ---
 

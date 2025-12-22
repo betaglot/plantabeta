@@ -1,4 +1,4 @@
-# 🟠<motor>Torque</motor>
+# 🟠<span class="motor">Torque</span>
 
 ---
 

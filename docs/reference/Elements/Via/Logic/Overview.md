@@ -1,4 +1,4 @@
-# 🔻<via>Logic</via>
+# 🔻<span class="via">Logic</span>
 
 ---
 

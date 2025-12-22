@@ -1,4 +1,4 @@
-# 🟩  <ekos>Wet Soil</ekos>
+# 🟩  <span class="ekos">Wet Soil</span>
 
 ---
 

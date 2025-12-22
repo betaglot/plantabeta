@@ -1,4 +1,4 @@
-# 🟩<ekos>Thuja</ekos>
+# 🟩<span class="ekos">Thuja</span>
 
 Cedar
 

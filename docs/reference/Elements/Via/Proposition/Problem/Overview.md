@@ -1,4 +1,4 @@
-# 🔻 <via>VIA: Problems</via>
+# 🔻 <span class="via">VIA: Problems</span>
 
 > a situation, or thing that needs attention and needs to be dealt with or solved by Via
 ---
@@ -54,7 +54,7 @@ Unknown Information
 
 - ViaFinishTime
 
-## <ekos>EcoDensity</ekos>
+## <span class="ekos">EcoDensity</span>
 
 ---
 

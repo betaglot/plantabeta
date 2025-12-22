@@ -1,7 +1,7 @@
 ---
 aside: false
 ---
-# <anima>Senses</anima>
+# <span class="anima">Senses</span>
 
 ---
 

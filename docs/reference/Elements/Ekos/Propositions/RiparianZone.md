@@ -1,4 +1,4 @@
-# 🟩<ekos>RiparianZone</ekos>
+# 🟩<span class="ekos">RiparianZone</span>
 
 ---
 

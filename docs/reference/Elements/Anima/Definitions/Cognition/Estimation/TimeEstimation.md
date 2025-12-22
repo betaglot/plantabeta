@@ -1,7 +1,7 @@
 ---
 aside: false
 ---
-# <anima>Time Estimation</anima>
+# <span class="anima">Time Estimation</span>
 
 ---
 

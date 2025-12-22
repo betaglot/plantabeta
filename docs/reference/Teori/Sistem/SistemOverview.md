@@ -6,31 +6,31 @@ Sistem is in the Guide
 
 Each SistemType is structured into Praktik and Teori
 
-🌈<beta>BETUM</beta> = (Element+Element)
+🌈<beta>BETOM</beta> = (Element+Element)
 
-(🔻<via>VION</via> +🔻<via>VION</via>) = 🔻<via>VION</via>
+(🔻<span class="via">VION</span> +🔻<span class="via">VION</span>) = 🔻<span class="via">VION</span>
 
-(🔻<via>VION</via> + 🟠<motor>MOTON</motor>) = 🌈<beta>BETUM</beta>
+(🔻<span class="via">VION</span> + 🟠<span class="motor">MOTON</span>) = 🌈<beta>BETOM</beta>
 
-Betomiks(Komposition(Betum(Element)))
+Betomiks(Komposition(Betom(Element)))
 
 ## PlantaBeta Syntax for Combining Elements
 
 [Combinatorics](https://en.wikipedia.org/wiki/Combinatorics)
 
-"You need to change the VIA of the Betum that you performed using the Stump."
+"You need to change the VIA of the Betom that you performed using the Stump."
 
 1. SISTEM
-2. ⭐<labor>LABOR</labor>
-3. 🔷<soma>SOMA</soma>
-4. 🟩<ekos>EKOS</ekos>
-5. 🔻<via>VIA</via>
-6. 🟠<motor>MOTOR</motor>
-7. 💜<anima>ANIMA</anima>
+2. ⭐<span class="labor">LABOR</span>
+3. 🔷<span class="soma">SOMA</span>
+4. 🟩<span class="ekos">EKOS</span>
+5. 🔻<span class="via">VIA</span>
+6. 🟠<span class="motor">MOTOR</span>
+7. 💜<span class="anima">ANIMA</span>
 
 DotNotation for Subset
 
-Brazo.Anterior-Down,🟠<motor>Ama</motor>
+Brazo.Anterior-Down,🟠<span class="motor">Ama</span>
 
 - Timestamp
 - File being refered to
@@ -64,7 +64,7 @@ Betaglot.PlantaBeta.Sistem.Teori.Element.Ekos.Definition.Stump
 
 - Definition(Element)
     - <BC l=''s=''e='Wet_Soil'v='Takt'm=''a=''/> is not an Element
-        - 🟩<ekos>Wet_Soil</ekos> is an element of <ekos>EKOS</ekos> and 🔻<via>Takt</via> is an element of <via>VIA</via>
+        - 🟩<span class="ekos">Wet_Soil</span> is an element of <span class="ekos">EKOS</span> and 🔻<span class="via">Takt</span> is an element of <span class="via">VIA</span>
 
 ## Based on Euclid's Elements
 
@@ -120,27 +120,27 @@ Propose a Proposition
 
 ## Exemplars each of Element Group
 
-### <labor>LABOR</labor>
+### <span class="labor">LABOR</span>
 
-- ⭐<labor>Spade</labor>
+- ⭐<span class="labor">Spade</span>
 
-### 🔷<soma>SOMA</soma>
+### 🔷<span class="soma">SOMA</span>
 
-- 🔷<soma>Mano</soma>
+- 🔷<span class="soma">Mano</span>
 
-### <ekos>EKOS</ekos>
+### <span class="ekos">EKOS</span>
 
-- 🟩<ekos>Stump</ekos>
+- 🟩<span class="ekos">Stump</span>
 
-### <via>VIA</via>
+### <span class="via">VIA</span>
 
-- 🔻<via>BoustroLine</via>
+- 🔻<span class="via">BoustroLine</span>
 
-### <motor>MOTOR</motor>
+### <span class="motor">MOTOR</span>
 
 -
 
-### <anima>ANIMA</anima>
+### <span class="anima">ANIMA</span>
 
 -
 

@@ -1,4 +1,4 @@
-# 🟩<ekos>EKON: Kuboi</ekos>
+# 🟩<span class="ekos">EKON: Kuboi</span>
 
 ## Definition
 

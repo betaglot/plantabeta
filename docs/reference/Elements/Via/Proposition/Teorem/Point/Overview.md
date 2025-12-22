@@ -1,4 +1,4 @@
-# 🔻 <via>Point</via>
+# 🔻 <span class="via">Point</span>
 
 > Point is an abstract concept. You can't touch a point. You can't ever accurately represent a point, because a point has no dimensions. Points only have locations in Space.
 

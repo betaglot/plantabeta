@@ -1,4 +1,4 @@
-# 🟩<ekos>Boulder Soil</ekos>
+# 🟩<span class="ekos">Boulder Soil</span>
 
 > An accumulation of rounded particles greater than 256 mm in size. - [CanadianGov](https://sis.agr.gc.ca/cansis/taxa/cssc3/chpt18.html)
 

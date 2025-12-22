@@ -1,4 +1,4 @@
-# 🟩<ekos>Dust</ekos>
+# 🟩<span class="ekos">Dust</span>
 
 ---
 

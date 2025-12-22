@@ -1,4 +1,4 @@
-# 🔷<soma>Humerus</soma>
+# 🔷<span class="soma">Humerus</span>
 
 ---
 

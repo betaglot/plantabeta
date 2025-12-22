@@ -1,4 +1,4 @@
-# ✔<labor>Workday</labor>
+# ✔<span class="labor">Workday</span>
 
 ---
 

@@ -1,4 +1,4 @@
-# 🟩  <ekos>BurntLand</ekos>
+# 🟩  <span class="ekos">BurntLand</span>
 
 ---
 

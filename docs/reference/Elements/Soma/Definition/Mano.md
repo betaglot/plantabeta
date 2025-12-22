@@ -1,4 +1,4 @@
-# 🔷<soma>Mano</soma>
+# 🔷<span class="soma">Mano</span>
 
 ---
 

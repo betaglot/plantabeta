@@ -1,4 +1,4 @@
-# 🟠<motor>MOTON_Plane</motor>
+# 🟠<span class="motor">MOTON_Plane</span>
 
 ---
 

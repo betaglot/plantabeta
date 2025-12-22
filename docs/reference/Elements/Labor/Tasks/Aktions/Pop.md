@@ -1,4 +1,4 @@
-# ⭐<labor>Pop</labor>
+# ⭐<span class="labor">Pop</span>
 
 ---
 

@@ -1,4 +1,4 @@
-# 🟩<ekos>EKOS: Propositions</ekos>
+# 🟩<span class="ekos">EKOS: Propositions</span>
 
 ---
 

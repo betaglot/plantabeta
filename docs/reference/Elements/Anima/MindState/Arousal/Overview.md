@@ -1,5 +1,5 @@
 
-# 💜 <anima>Arousal</anima>
+# 💜 <span class="anima">Arousal</span>
 
 ::: warning Not Sexual Arousal
 :::

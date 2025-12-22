@@ -1,12 +1,12 @@
 ---
 aside: false
 ---
-# 💜 <anima>Playlists</anima>
+# 💜 <span class="anima">Playlists</span>
 
-Description of how this <anima>AnimaElement </anima>relates to a particular <motor>MOTONElement</motor>.
+Description of how this <span class="anima">AnimaElement </span>relates to a particular <span class="motor">MOTONElement</span>.
 
-- Description of how this <anima>AnimaElement </anima>relates to a particular <motor>MOTONElement</motor>.
-- Description of how this <anima>AnimaElement </anima>relates to a particular <motor>MOTONElement</motor>.
+- Description of how this <span class="anima">AnimaElement </span>relates to a particular <span class="motor">MOTONElement</span>.
+- Description of how this <span class="anima">AnimaElement </span>relates to a particular <span class="motor">MOTONElement</span>.
 
 ---
 

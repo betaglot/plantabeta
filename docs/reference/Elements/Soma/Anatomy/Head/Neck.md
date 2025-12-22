@@ -1,4 +1,4 @@
-# 🔷<soma>Neck</soma>
+# 🔷<span class="soma">Neck</span>
 
 ---
 

@@ -1,4 +1,4 @@
-# 🔷<soma>Anatomy</soma>
+# 🔷<span class="soma">Anatomy</span>
 
 ---
 

@@ -1,4 +1,4 @@
-# 💜<anima>ANIMON: Analogia</anima>
+# 💜<span class="anima">ANIMON: Analogia</span>
 
 > analogous Elements in other BetaSports
 

@@ -1,4 +1,4 @@
-# 🔻<via>Affordance</via>
+# 🔻<span class="via">Affordance</span>
 
 ---
 

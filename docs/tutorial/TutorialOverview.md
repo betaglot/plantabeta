@@ -15,11 +15,11 @@ Multiple choice tests, where Planters choose from a selection of images or a sel
 
 ## 🌈<beta>BETA Test</beta>
 
-## ⭐<labor>LABOR Test</labor>
+## ⭐<span class="labor">LABOR Test</span>
 
-## 🔷<soma>SOMA Test</soma>
+## 🔷<span class="soma">SOMA Test</span>
 
-## 🟩<ekos>EKOS Test</ekos>
+## 🟩<span class="ekos">EKOS Test</span>
 
 - Tree Genus Identification (Species Identification is more nuanced than required)
 
@@ -37,11 +37,11 @@ treeList = [
     ]
 ```
 
-## 🔻<via>VIA Test</via>
+## 🔻<span class="via">VIA Test</span>
 
-## 🟠<motor>MOTOR Test</motor>
+## 🟠<span class="motor">MOTOR Test</span>
 
-## 💜<anima>ANIMA Test</anima>
+## 💜<span class="anima">ANIMA Test</span>
 
 ---
 

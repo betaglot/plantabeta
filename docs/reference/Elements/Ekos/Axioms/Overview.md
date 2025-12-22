@@ -1,4 +1,4 @@
-# 🟩<ekos>EKOS: Axioms</ekos>
+# 🟩<span class="ekos">EKOS: Axioms</span>
 
 ---
 

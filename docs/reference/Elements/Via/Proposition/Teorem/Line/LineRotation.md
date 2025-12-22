@@ -1,4 +1,4 @@
-# 🔻<via>Rotation</via>
+# 🔻<span class="via">Rotation</span>
 
 ---
 

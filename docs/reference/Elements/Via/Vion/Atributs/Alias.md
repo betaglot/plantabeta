@@ -1,4 +1,4 @@
-# 🔻<via>Alias</via>
+# 🔻<span class="via">Alias</span>
 
 > other names used to refer to this Element. In english or other languages.
 
