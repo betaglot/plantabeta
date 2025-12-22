@@ -1,7 +1,7 @@
 <script setup>
 import ElementInfo from '/vue/ElementPage/Page-ElementInfo.vue'
 import ElementTaxonomy from '/vue/ElementPage/Header-ElementTaxonomy.vue'
-let elementName = ""
+let elementName = "Plantafor"
 
 </script>
 
@@ -28,7 +28,7 @@ Roll up your back bag layer to shell from water and dirt
 <!-- =================================================== -->
 ::: details 🛠
 
-- FertPouch
+- FertilizerPouch
 - BagMOTON.Error
     - BagSpill
 

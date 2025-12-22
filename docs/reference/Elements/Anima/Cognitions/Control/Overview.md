@@ -1,13 +1,12 @@
+
 <script setup>
 import ElementInfo from '/vue/ElementPage/Page-ElementInfo.vue'
 import ElementTaxonomy from '/vue/ElementPage/Header-ElementTaxonomy.vue'
-let elementName = ""
+let elementName = "Control"
 
 </script>
 
-# 🟩<span class="ekos">Abies</span>
-
-Balsam Fir
+# 💜 <span class="anima">Control Flow</span>
 
 <ElementTaxonomy :elementName="elementName" />
 

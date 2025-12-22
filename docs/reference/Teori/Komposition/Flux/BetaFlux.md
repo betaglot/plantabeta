@@ -2,14 +2,7 @@
 
 Aliases: Flow, Fluidity, Fluency, Transition
 
-#<script setup>
-import ElementInfo from '/vue/ElementPage/Page-ElementInfo.vue'
-import ElementTaxonomy from '/vue/ElementPage/Header-ElementTaxonomy.vue'
-let elementName = ""
-
-</script>
-
-# 🟩<span class="ekos">Eko.Flux</span>
+## 🟩<span class="ekos">Eko.Flux</span>
 
 - A cliff has low Flux
 - Rolling Hills
@@ -18,14 +11,7 @@ let elementName = ""
 - Not Angular
     - Rounded
 
-#<script setup>
-import ElementInfo from '/vue/ElementPage/Page-ElementInfo.vue'
-import ElementTaxonomy from '/vue/ElementPage/Header-ElementTaxonomy.vue'
-let elementName = ""
-
-</script>
-
-# 🔻<span class="via">Via.Flux</span>
+## 🔻<span class="via">Via.Flux</span>
 
 - Path of least resistance
 - Transition
@@ -33,28 +19,14 @@ let elementName = ""
 - Minimize acceleration changes
     - Minimize Turns
 
-#<script setup>
-import ElementInfo from '/vue/ElementPage/Page-ElementInfo.vue'
-import ElementTaxonomy from '/vue/ElementPage/Header-ElementTaxonomy.vue'
-let elementName = ""
-
-</script>
-
-# 🟠<span class="motor">MOTON.Flux</span>
+## 🟠<span class="motor">MOTON.Flux</span>
 
 - Graceful
 - FluidMOTON
 - Linked MOTONment
     - ((CurrentMOTON.FinishMOTON == PostMOTON.StartMOTON) = (AnteMOTON.FinishMOTON == CurrentMOTON.StartMOTON))
 
-#<script setup>
-import ElementInfo from '/vue/ElementPage/Page-ElementInfo.vue'
-import ElementTaxonomy from '/vue/ElementPage/Header-ElementTaxonomy.vue'
-let elementName = ""
-
-</script>
-
-# 💜 <span class="anima">ANIMA.Flux</span>
+## 💜 <span class="anima">ANIMA.Flux</span>
 
 - FlowState
 - CognitiveEase == CognitiveFluency

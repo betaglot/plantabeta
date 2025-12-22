@@ -1,4 +1,11 @@
-# 🟩  <span class="ekos">Wet Soil</span>
+<script setup>
+import ElementInfo from '/vue/ElementPage/Page-ElementInfo.vue'
+import ElementTaxonomy from '/vue/ElementPage/Header-ElementTaxonomy.vue'
+let elementName = "WetSoil"
+
+</script>
+
+# 🟩<span class="ekos">Wet Soil</span>
 
 <ElementTaxonomy :elementName="elementName" />
 

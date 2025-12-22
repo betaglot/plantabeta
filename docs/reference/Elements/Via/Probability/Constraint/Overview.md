@@ -1,13 +1,11 @@
 <script setup>
 import ElementInfo from '/vue/ElementPage/Page-ElementInfo.vue'
 import ElementTaxonomy from '/vue/ElementPage/Header-ElementTaxonomy.vue'
-let elementName = ""
+let elementName = "Constraint"
 
 </script>
 
-# 🟩<span class="ekos">Bryophyta</span>
-
-Aliases: Moss
+# 🔻<span class="via">Constraint</span>
 
 <ElementTaxonomy :elementName="elementName" />
 
@@ -22,7 +20,6 @@ Aliases: Moss
 <!-- =================================================== -->
 ::: details 🛠
 
-- MossSkreef
-- CreamSoil under moss
+-
 
 :::

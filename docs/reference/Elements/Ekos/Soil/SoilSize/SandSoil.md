@@ -1,4 +1,11 @@
-# 🟩  <span class="ekos">Sand Soil</span>
+<script setup>
+import ElementInfo from '/vue/ElementPage/Page-ElementInfo.vue'
+import ElementTaxonomy from '/vue/ElementPage/Header-ElementTaxonomy.vue'
+let elementName = "SandSoil"
+
+</script>
+
+# 🟩<span class="ekos">Sand Soil</span>
 
 <ElementTaxonomy :elementName="elementName" />
 

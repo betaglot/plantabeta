@@ -21,14 +21,7 @@ Aliases: Flow, Flowing MOTONment, Fluidity, Fluid movement, Continuous, NonStop,
 
 Connection Score
 
-#<script setup>
-import ElementInfo from '/vue/ElementPage/Page-ElementInfo.vue'
-import ElementTaxonomy from '/vue/ElementPage/Header-ElementTaxonomy.vue'
-let elementName = ""
-
-</script>
-
-# 🟠<span class="motor">MOVE.Flux</span>
+## 🟠<span class="motor">MOVE.Flux</span>
 
 ### <beta>PanBeta</beta>
 
@@ -38,14 +31,7 @@ Connection of MOTONs within Phrases and connections of phrases too.
 
 MOTONs flow into each other
 
-#<script setup>
-import ElementInfo from '/vue/ElementPage/Page-ElementInfo.vue'
-import ElementTaxonomy from '/vue/ElementPage/Header-ElementTaxonomy.vue'
-let elementName = ""
-
-</script>
-
-# 🔻<span class="via">VIA.Flux</span>: Transition
+## 🔻<span class="via">VIA.Flux</span>: Transition
 
 Making a smooth transition
 

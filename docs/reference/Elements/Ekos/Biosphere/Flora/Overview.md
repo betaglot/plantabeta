@@ -1,19 +1,17 @@
 <script setup>
 import ElementInfo from '/vue/ElementPage/Page-ElementInfo.vue'
 import ElementTaxonomy from '/vue/ElementPage/Header-ElementTaxonomy.vue'
-let elementName = ""
+let elementName = "Flora"
 
 </script>
 
-# 💜 <span class="anima">GoOrNoGo </span>
+# 🟩<span class="ekos">Flora</span>
 
-## Unplantable?
+<ElementTaxonomy :elementName="elementName" />
 
-## Skip?
+<ElementInfo :elementName=elementName />
 
-## TurnBack?
-
-## OverOrAround?
+> all the plants which are already growing in the land
 
 ---
 
@@ -24,6 +22,16 @@ let elementName = ""
 <!-- =================================================== -->
 ::: details 🛠
 
--
+- Anatomy
+    - Leaf
+    - Root
+    - Trunk
+    - Stem
+    - Crook
+    - Bifurcation (Fork)
+    - Branch
 
+- "Eko.PlantIdentification"
+- "Eko.Plants.Fireweed"
+- "Eko.Plants.ResidualPatch"
 :::

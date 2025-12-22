@@ -1,7 +1,7 @@
 <script setup>
 import ElementInfo from '/vue/ElementPage/Page-ElementInfo.vue'
 import ElementTaxonomy from '/vue/ElementPage/Header-ElementTaxonomy.vue'
-let elementName = ""
+let elementName = "Rope"
 
 </script>
 
@@ -24,7 +24,7 @@ let elementName = ""
 
 Thread Gear Loops
 
-- Rope for Tranport
+- Rope for Transport
 - Rope for Cache Construction
 
 Summer Cache

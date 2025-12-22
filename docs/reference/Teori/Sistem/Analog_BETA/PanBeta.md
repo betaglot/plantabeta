@@ -97,7 +97,7 @@ Passing
 
 ## 🌈 Hockey (PuckBeta)
 
-Puck not Hockey since Hockey requires Anatagonists
+Puck not Hockey since Hockey requires Antagonists
 
 - Deep squat while leaning into turn.
 
@@ -116,7 +116,7 @@ Puck not Hockey since Hockey requires Anatagonists
 
 ## 🌈 Kirkos (KirkosBeta)
 
-> The Beta of Travelling Rings
+> The Beta of Traveling Rings
 
 ## 🌈 Landscaping (LandscapingBeta)
 
@@ -146,7 +146,7 @@ IKEA Beta
 
 ## 🌈 Powerlifting (LiftBeta)
 
-## 🌈 Rugby (RubgyBeta)
+## 🌈 Rugby (RugbyBeta)
 
 - Gifs of Plays
     - <https://rugbyslate.com/attacking/attacking-against-a-blitz-defence/>
@@ -205,23 +205,9 @@ Maneuver
 
 Land=Wave
 
-##<script setup>
-import ElementInfo from '/vue/ElementPage/Page-ElementInfo.vue'
-import ElementTaxonomy from '/vue/ElementPage/Header-ElementTaxonomy.vue'
-let elementName = ""
+## 🟠<span class="motor">SurfBeta.MOTOR: Carve,Cut,NoseRiding,SwitchStance</span>
 
-</script>
-
-# 🟠<span class="motor">SurfBeta.MOTOR: Carve,Cut,NoseRiding,SwitchStance</span>
-
-##<script setup>
-import ElementInfo from '/vue/ElementPage/Page-ElementInfo.vue'
-import ElementTaxonomy from '/vue/ElementPage/Header-ElementTaxonomy.vue'
-let elementName = ""
-
-</script>
-
-# 🔻<span class="via">SurfBeta.VIA: [BarrelRide](https://www.surfertoday.com/surfing/how-to-get-barreled), [CloseoutReentry](https://www.surfertoday.com/surfing/how-to-do-a-closeout-reentry-in-surfing)</span>
+## 🔻<span class="via">SurfBeta.VIA: [BarrelRide](https://www.surfertoday.com/surfing/how-to-get-barreled), [CloseoutReentry](https://www.surfertoday.com/surfing/how-to-do-a-closeout-reentry-in-surfing)</span>
 
 ## 🌈 Swimming (SwimBeta)
 
@@ -233,14 +219,7 @@ Standing in line for a bus is Via
 
 On the streets, on campus, in airports, in public transit
 
-##<script setup>
-import ElementInfo from '/vue/ElementPage/Page-ElementInfo.vue'
-import ElementTaxonomy from '/vue/ElementPage/Header-ElementTaxonomy.vue'
-let elementName = ""
-
-</script>
-
-# 🔻<span class="via">TransitBeta.VIA</span>
+## 🔻<span class="via">TransitBeta.VIA</span>
 
 - weave
 - s curve
@@ -285,7 +264,7 @@ let elementName = ""
 
 ::: details 🛠
 
-- Betasports require kindness. You can't be a kind antagonist (Oppositon != Antagonist)
+- Betasports require kindness. You can't be a kind antagonist (Opposition != Antagonist)
 - MusicBeta: Elements of Music
     - Proposition, Definition, Teorem, Problem
 - Wushu

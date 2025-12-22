@@ -1,5 +1,11 @@
+<script setup>
+import ElementInfo from '/vue/ElementPage/Page-ElementInfo.vue'
+import ElementTaxonomy from '/vue/ElementPage/Header-ElementTaxonomy.vue'
+let elementName = "ViaMemory"
 
-# <span class="anima">VIA-Memory</span>
+</script>
+
+# 💜<span class="anima">VIA-Memory</span>
 
 <ElementTaxonomy :elementName="elementName" />
 

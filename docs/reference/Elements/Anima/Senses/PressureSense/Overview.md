@@ -1,11 +1,12 @@
+
 <script setup>
 import ElementInfo from '/vue/ElementPage/Page-ElementInfo.vue'
 import ElementTaxonomy from '/vue/ElementPage/Header-ElementTaxonomy.vue'
-let elementName = ""
+let elementName = "PressureSense"
 
 </script>
 
-# 🔻<span class="via">Constraint</span>
+# 💜<span class="anima">Pressure Sense</span>
 
 <ElementTaxonomy :elementName="elementName" />
 

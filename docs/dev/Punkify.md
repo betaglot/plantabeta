@@ -26,16 +26,16 @@ In all of these sports athletes, must perform specific Aktions. These Aktions go
 
 ::: info
 
-Before going any further, you will notice that some of the spellings that Betaglot uses are not English, this is because whenever possible I have tried to use names which are composed of a hybrid between Latin and Greek. This naiming convention is designed to fit into the language of Biology, Physics, Geology and Psychology, which are all based in Latin or Greek. The purpose of this is to enable people from various languages to be able use the names without translation. To ensure that the names are easy to pronounce Betaglot uses the letter "K" instead of "C" when relevant and omits silent letters. So if I were to write my name Christopher with the Betaglot naming convention it would be Kristofer, which is like how many other languages write it.
+Before going any further, you will notice that some of the spellings that Betaglot uses are not English, this is because whenever possible I have tried to use names which are composed of a hybrid between Latin and Greek. This naming convention is designed to fit into the language of Biology, Physics, Geology and Psychology, which are all based in Latin or Greek. The purpose of this is to enable people from various languages to be able use the names without translation. To ensure that the names are easy to pronounce Betaglot uses the letter "K" instead of "C" when relevant and omits silent letters. So if I were to write my name Christopher with the Betaglot naming convention it would be Kristofer, which is like how many other languages write it.
 
 The languages which Betaglot needs to be understandable in are:
 
 - English
 - French
 - Spanish
-- Portugese
+- Portuguese
 
-These are the most common languages (besides Chinese and Russian) and are the offical languages of the Americas, the majority of Europe, all of Africa and some of Asia.
+These are the most common languages (besides Chinese and Russian) and are the official languages of the Americas, the majority of Europe, all of Africa and some of Asia.
 
 :::
 
@@ -64,7 +64,7 @@ A more complex element of LABOR is a route. The goal of a route is to get to the
 
 ::: details Here are some more Aktions
 
-- Going throught a <span class="labor">Gate</span> in Slalom Skiing, and Kayaking
+- Going through a <span class="labor">Gate</span> in Slalom Skiing, and Kayaking
 - <span class="labor">Reaching</span> with your foot or hand or hip
 - Performing a <span class="labor">backflip</span>
 - Performing a <span class="labor">dyno</span>
@@ -83,7 +83,7 @@ A more complex element of LABOR is a route. The goal of a route is to get to the
 
 ---
 
-Every person has a different body. The category 🔷<span class="soma">SOMA</span> (which is just greek for "body") describes the body part used to perform the Aktion and the specific properties are the body part and body in general. 
+Every person has a different body. The category 🔷<span class="soma">SOMA</span> (which is just greek for "body") describes the body part used to perform the Aktion and the specific properties are the body part and body in general.
 
 The length of your arms, BMI, total body height, age, ape index etc. all affect the way that an athlete performs an Aktion.
 
@@ -121,7 +121,7 @@ Athletes aren't just floating in space, they are on Earth. 🟩<span class="ekos
 
 ---
 
-Say you're skiing down a slope and there is an obstacle in your path, you can go left or right around it. The part of your experience which deals with the particular way that you perform an Aktion is 🔻<span class="via">VIA</span>. 
+Say you're skiing down a slope and there is an obstacle in your path, you can go left or right around it. The part of your experience which deals with the particular way that you perform an Aktion is 🔻<span class="via">VIA</span>.
 
 The core component of <span class="via">VIA</span> is <span class="via">Affordance</span>. You must perceive that your path, method, location is possible.
 
@@ -141,9 +141,9 @@ To actually move through time and space you require 🟠<span class="motor">MOTO
 
 ---
 
-The last, but most fundamental of all the categories is 💜<span class="anima">ANIMA</span> (which was "Psyche" for about a year, but I decided that it's difficult to pronounce and a lot of people have a negative view of "Psychology, Psychiatrist ..."). <span class="anima">ANIMA</span> can be translated as "soul". Unlike the other categories <span class="anima">ANIMA</span> is mostly not visible from a third person point of view. The foundation of <span class="anima">ANIMA</span> and all other categories is Awareness, also called consciousness . Awareness is where "you" are, it's where your thoughts and sensations occur. <span class="anima">ANIMA</span> is not logical, it is emotional, inuitive, instinctual and is usually non-verbal. <span class="anima">ANIMA</span> is anything that occurs in your nervous system.
+The last, but most fundamental of all the categories is 💜<span class="anima">ANIMA</span> (which was "Psyche" for about a year, but I decided that it's difficult to pronounce and a lot of people have a negative view of "Psychology, Psychiatrist ..."). <span class="anima">ANIMA</span> can be translated as "soul". Unlike the other categories <span class="anima">ANIMA</span> is mostly not visible from a third person point of view. The foundation of <span class="anima">ANIMA</span> and all other categories is Awareness, also called consciousness . Awareness is where "you" are, it's where your thoughts and sensations occur. <span class="anima">ANIMA</span> is not logical, it is emotional, intuitive, instinctual and is usually non-verbal. <span class="anima">ANIMA</span> is anything that occurs in your nervous system.
 
-Although your eyes are part of your body, Betaglot categorizes them as <span class="anima">ANIMA</span>, given that your retina is literally part of your brain. 
+Although your eyes are part of your body, Betaglot categorizes them as <span class="anima">ANIMA</span>, given that your retina is literally part of your brain.
 
 ::: details Elements of <span class="anima">ANIMA</span> include:
 
@@ -161,11 +161,11 @@ Although your eyes are part of your body, Betaglot categorizes them as <span cla
 
 Betaglot is a combinatory system. The unit of combination is called a 🌈BETOM (the rainbow icon has all the colors of Betaglot).
 
-Betoms must include at least two elements and are surrounded by square brackets 
+Betoms must include at least two elements and are surrounded by square brackets
 
-[<span class="labor">LABOR</span>, <span class="soma">SOMA</span>, <span class="ekos">EKOS</span>, <span class="via">VIA</span> <span class="motor">MOTOR</span>, <span class="anima">ANIMA</span>] 
+[<span class="labor">LABOR</span>, <span class="soma">SOMA</span>, <span class="ekos">EKOS</span>, <span class="via">VIA</span> <span class="motor">MOTOR</span>, <span class="anima">ANIMA</span>]
 
-or represented digitally as these boxes 
+or represented digitally as these boxes
 
 <BC l='LABOR's='SOMA'e='EKOS'v='VIA'm='MOTOR'a='ANIMA'/>
 

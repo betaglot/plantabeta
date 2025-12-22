@@ -1,4 +1,11 @@
-# 🟩  <span class="ekos">Pedosfera</span>🟩
+<script setup>
+import ElementInfo from '/vue/ElementPage/Page-ElementInfo.vue'
+import ElementTaxonomy from '/vue/ElementPage/Header-ElementTaxonomy.vue'
+let elementName = "Pedosphere"
+
+</script>
+
+# 🟩<span class="ekos">Pedosfera</span>
 
 <ElementTaxonomy :elementName="elementName" />
 

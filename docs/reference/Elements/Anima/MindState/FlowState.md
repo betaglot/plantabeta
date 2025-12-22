@@ -2,11 +2,11 @@
 <script setup>
 import ElementInfo from '/vue/ElementPage/Page-ElementInfo.vue'
 import ElementTaxonomy from '/vue/ElementPage/Header-ElementTaxonomy.vue'
-let elementName = ""
+let elementName = "FlowState"
 
 </script>
 
-# 💜 <span class="anima">FlowState</span>
+# 💜<span class="anima">FlowState</span>
 
 <ElementTaxonomy :elementName="elementName" />
 

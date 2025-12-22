@@ -22,23 +22,9 @@ This should be a Chart
 ---
 > "Suss it out"
 
-##<script setup>
-import ElementInfo from '/vue/ElementPage/Page-ElementInfo.vue'
-import ElementTaxonomy from '/vue/ElementPage/Header-ElementTaxonomy.vue'
-let elementName = ""
+### 🟩<span class="ekos">Look at the EKOS</span>
 
-</script>
-
-# 🟩<span class="ekos">Look at the EKOS</span>
-
-##<script setup>
-import ElementInfo from '/vue/ElementPage/Page-ElementInfo.vue'
-import ElementTaxonomy from '/vue/ElementPage/Header-ElementTaxonomy.vue'
-let elementName = ""
-
-</script>
-
-# 🔻<span class="via">Pathfinding</span>
+### 🔻<span class="via">Pathfinding</span>
 
 Usually performed before starting to climb. <span class="via">Route</span> reading also occurs while a Climber is on the <span class="via">Route</span>.
 
@@ -66,7 +52,7 @@ You can know the <span class="via">Route</span> before you know the Move.
 
 > a way of discovering, by questions or practical activities, what someone knows, or what someone or something can do or is like
 
-- Pratice the Beta in your mind
+- Practice the Beta in your mind
 - Practice the Beta in Eko
 
 ## 4. Analysis

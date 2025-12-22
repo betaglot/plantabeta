@@ -1,5 +1,11 @@
+<script setup>
+import ElementInfo from '/vue/ElementPage/Page-ElementInfo.vue'
+import ElementTaxonomy from '/vue/ElementPage/Header-ElementTaxonomy.vue'
+let elementName = "ShortTermMemory"
 
-# <span class="anima">Short Term Memory</span>
+</script>
+
+# 💜<span class="anima">Short Term Memory</span>
 
 <ElementTaxonomy :elementName="elementName" />
 

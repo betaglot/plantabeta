@@ -1,11 +1,11 @@
 <script setup>
 import ElementInfo from '/vue/ElementPage/Page-ElementInfo.vue'
 import ElementTaxonomy from '/vue/ElementPage/Header-ElementTaxonomy.vue'
-let elementName = ""
+let elementName = "Log"
 
 </script>
 
-# 🔻<span class="via">Convex</span>
+# 🟩<span class="ekos">Log</span>
 
 <ElementTaxonomy :elementName="elementName" />
 
@@ -20,6 +20,12 @@ let elementName = ""
 <!-- =================================================== -->
 ::: details 🛠
 
+- (RedRotLog != RedRotSoil)
+- RottenLog
+- With RootMass
+- RedRotLog
+- LogDiameter
+- Bark or No Bark. Affects Safety FootSlip
 -
 
 :::
