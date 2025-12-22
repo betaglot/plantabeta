@@ -175,7 +175,11 @@
         "elementFaktor": "",
         "elementEmblem": "",
         "elementID": "",
-        "elementTaxonomy": [],
+        "elementTaxonomy": [
+            "Labor",
+            "Aktion",
+            "Aspis"
+        ],
         "elementDescription": "",
         "elementBetanyms": [],
         "elementInBetom": [],
@@ -191,7 +195,11 @@
         "elementFaktor": "",
         "elementEmblem": "",
         "elementID": "",
-        "elementTaxonomy": [],
+        "elementTaxonomy": [
+            "Labor",
+            "Aktion",
+            "Ballista"
+        ],
         "elementDescription": "",
         "elementBetanyms": [],
         "elementInBetom": [],
@@ -207,7 +215,11 @@
         "elementFaktor": "",
         "elementEmblem": "",
         "elementID": "",
-        "elementTaxonomy": [],
+        "elementTaxonomy": [
+            "Labor",
+            "Aktion",
+            "Construct"
+        ],
         "elementDescription": "",
         "elementBetanyms": [],
         "elementInBetom": [],
@@ -286,7 +298,11 @@
         "elementFaktor": "",
         "elementEmblem": "",
         "elementID": "",
-        "elementTaxonomy": [],
+        "elementTaxonomy": [
+            "Labor",
+            "Aktion",
+            "Dig"
+        ],
         "elementDescription": "",
         "elementBetanyms": [],
         "elementInBetom": [],
@@ -449,7 +465,11 @@
         "elementFaktor": "",
         "elementEmblem": "",
         "elementID": "",
-        "elementTaxonomy": [],
+        "elementTaxonomy": [
+            "Labor",
+            "Aktion",
+            "Klose"
+        ],
         "elementDescription": "",
         "elementBetanyms": [],
         "elementInBetom": [],
@@ -486,7 +506,11 @@
         "elementFaktor": "",
         "elementEmblem": "",
         "elementID": "",
-        "elementTaxonomy": [],
+        "elementTaxonomy": [
+            "Labor",
+            "Aktion",
+            "Kompakt"
+        ],
         "elementDescription": "",
         "elementBetanyms": [],
         "elementInBetom": [],
@@ -502,7 +526,11 @@
         "elementFaktor": "",
         "elementEmblem": "",
         "elementID": "",
-        "elementTaxonomy": [],
+        "elementTaxonomy": [
+            "Labor",
+            "Aktion",
+            "Kompress"
+        ],
         "elementDescription": "",
         "elementBetanyms": [],
         "elementInBetom": [],
@@ -539,7 +567,11 @@
         "elementFaktor": "",
         "elementEmblem": "",
         "elementID": "",
-        "elementTaxonomy": [],
+        "elementTaxonomy": [
+            "Labor",
+            "Aktion",
+            "Launch"
+        ],
         "elementDescription": "",
         "elementBetanyms": [],
         "elementInBetom": [],
@@ -576,7 +608,11 @@
         "elementFaktor": "",
         "elementEmblem": "",
         "elementID": "",
-        "elementTaxonomy": [],
+        "elementTaxonomy": [
+            "Labor",
+            "Aktion",
+            "Load"
+        ],
         "elementDescription": "",
         "elementBetanyms": [],
         "elementInBetom": [],
@@ -620,7 +656,11 @@
         "elementFaktor": "",
         "elementEmblem": "",
         "elementID": "",
-        "elementTaxonomy": [],
+        "elementTaxonomy": [
+            "Labor",
+            "Aktion",
+            "Machete"
+        ],
         "elementDescription": "",
         "elementBetanyms": [],
         "elementInBetom": [],
@@ -688,7 +728,11 @@
         "elementFaktor": "",
         "elementEmblem": "",
         "elementID": "",
-        "elementTaxonomy": [],
+        "elementTaxonomy": [
+            "Labor",
+            "Aktion",
+            "Parry"
+        ],
         "elementDescription": "",
         "elementBetanyms": [],
         "elementInBetom": [],
@@ -750,7 +794,11 @@
         "elementFaktor": "",
         "elementEmblem": "",
         "elementID": "",
-        "elementTaxonomy": [],
+        "elementTaxonomy": [
+            "Labor",
+            "Aktion",
+            "Purga"
+        ],
         "elementDescription": "",
         "elementBetanyms": [],
         "elementInBetom": [],
@@ -851,7 +899,11 @@
         "elementFaktor": "",
         "elementEmblem": "",
         "elementID": "",
-        "elementTaxonomy": [],
+        "elementTaxonomy": [
+            "Labor",
+            "Aktion",
+            "Slam"
+        ],
         "elementDescription": "",
         "elementBetanyms": [],
         "elementInBetom": [],
@@ -867,7 +919,11 @@
         "elementFaktor": "",
         "elementEmblem": "",
         "elementID": "",
-        "elementTaxonomy": [],
+        "elementTaxonomy": [
+            "Labor",
+            "Aktion",
+            "Snap"
+        ],
         "elementDescription": "",
         "elementBetanyms": [],
         "elementInBetom": [],
@@ -1138,7 +1194,11 @@
         "elementFaktor": "",
         "elementEmblem": "",
         "elementID": "",
-        "elementTaxonomy": [],
+        "elementTaxonomy": [
+            "Labor",
+            "Task",
+            "Piece"
+        ],
         "elementDescription": "",
         "elementBetanyms": [],
         "elementInBetom": [],
@@ -1154,7 +1214,11 @@
         "elementFaktor": "",
         "elementEmblem": "",
         "elementID": "",
-        "elementTaxonomy": [],
+        "elementTaxonomy": [
+            "Labor",
+            "Task",
+            "Specs"
+        ],
         "elementDescription": "",
         "elementBetanyms": [],
         "elementInBetom": [],
@@ -1297,7 +1361,11 @@
         "elementFaktor": "",
         "elementEmblem": "",
         "elementID": "",
-        "elementTaxonomy": [],
+        "elementTaxonomy": [
+            "Labor",
+            "Tool",
+            "Boot"
+        ],
         "elementDescription": "",
         "elementBetanyms": [],
         "elementInBetom": [],
@@ -1313,7 +1381,11 @@
         "elementFaktor": "",
         "elementEmblem": "",
         "elementID": "",
-        "elementTaxonomy": [],
+        "elementTaxonomy": [
+            "Labor",
+            "Tool",
+            "Bottle"
+        ],
         "elementDescription": "",
         "elementBetanyms": [],
         "elementInBetom": [],
@@ -1329,7 +1401,11 @@
         "elementFaktor": "",
         "elementEmblem": "",
         "elementID": "",
-        "elementTaxonomy": [],
+        "elementTaxonomy": [
+            "Labor",
+            "Tool",
+            "Box"
+        ],
         "elementDescription": "",
         "elementBetanyms": [],
         "elementInBetom": [],
@@ -1345,7 +1421,11 @@
         "elementFaktor": "",
         "elementEmblem": "",
         "elementID": "",
-        "elementTaxonomy": [],
+        "elementTaxonomy": [
+            "Labor",
+            "Tool",
+            "Bundle"
+        ],
         "elementDescription": "",
         "elementBetanyms": [],
         "elementInBetom": [],
@@ -1361,7 +1441,11 @@
         "elementFaktor": "",
         "elementEmblem": "",
         "elementID": "",
-        "elementTaxonomy": [],
+        "elementTaxonomy": [
+            "Labor",
+            "Tool",
+            "Doru"
+        ],
         "elementDescription": "",
         "elementBetanyms": [],
         "elementInBetom": [],
@@ -1838,119 +1922,145 @@
         }
     },
     "Markum": {
-    "elementEnglishName": "Markum",
-    "elementFaktor": "",
-    "elementEmblem": "",
-    "elementID": "",
-    "elementTaxonomy": [],
-    "elementDescription": "",
-    "elementBetanyms": [],
-    "elementInBetom": [],
-    "elementProfilePic": "",
-    "elementExample": {
-    "elementVideo": [],
-    "elementImage": [],
-    "elementQuote": []
-    }
+        "elementEnglishName": "Markum",
+        "elementFaktor": "",
+        "elementEmblem": "",
+        "elementID": "",
+        "elementTaxonomy": [
+            "Labor",
+            "Tool",
+            "Markum"
+        ],
+        "elementDescription": "",
+        "elementBetanyms": [],
+        "elementInBetom": [],
+        "elementProfilePic": "",
+        "elementExample": {
+            "elementVideo": [],
+            "elementImage": [],
+            "elementQuote": []
+        }
     },
     "Plantafor": {
-    "elementEnglishName": "Plantafor",
-    "elementFaktor": "",
-    "elementEmblem": "",
-    "elementID": "",
-    "elementTaxonomy": [],
-    "elementDescription": "",
-    "elementBetanyms": [],
-    "elementInBetom": [],
-    "elementProfilePic": "",
-    "elementExample": {
-    "elementVideo": [],
-    "elementImage": [],
-    "elementQuote": []
-    }
+        "elementEnglishName": "Plantafor",
+        "elementFaktor": "",
+        "elementEmblem": "",
+        "elementID": "",
+        "elementTaxonomy": [
+            "Labor",
+            "Tool",
+            "Plantafor"
+        ],
+        "elementDescription": "",
+        "elementBetanyms": [],
+        "elementInBetom": [],
+        "elementProfilePic": "",
+        "elementExample": {
+            "elementVideo": [],
+            "elementImage": [],
+            "elementQuote": []
+        }
     },
     "PlotCord": {
-    "elementEnglishName": "Plot Cord",
-    "elementFaktor": "",
-    "elementEmblem": "",
-    "elementID": "",
-    "elementTaxonomy": [],
-    "elementDescription": "",
-    "elementBetanyms": [],
-    "elementInBetom": [],
-    "elementProfilePic": "",
-    "elementExample": {
-    "elementVideo": [],
-    "elementImage": [],
-    "elementQuote": []
-    }
+        "elementEnglishName": "Plot Cord",
+        "elementFaktor": "",
+        "elementEmblem": "",
+        "elementID": "",
+        "elementTaxonomy": [
+            "Labor",
+            "Tool",
+            "PlotCord"
+        ],
+        "elementDescription": "",
+        "elementBetanyms": [],
+        "elementInBetom": [],
+        "elementProfilePic": "",
+        "elementExample": {
+            "elementVideo": [],
+            "elementImage": [],
+            "elementQuote": []
+        }
     },
     "Radior": {
-    "elementEnglishName": "Radior",
-    "elementFaktor": "",
-    "elementEmblem": "",
-    "elementID": "",
-    "elementTaxonomy": [],
-    "elementDescription": "",
-    "elementBetanyms": [],
-    "elementInBetom": [],
-    "elementProfilePic": "",
-    "elementExample": {
-    "elementVideo": [],
-    "elementImage": [],
-    "elementQuote": []
-    }
+        "elementEnglishName": "Radior",
+        "elementFaktor": "",
+        "elementEmblem": "",
+        "elementID": "",
+        "elementTaxonomy": [
+            "Labor",
+            "Tool",
+            "Radior"
+        ],
+        "elementDescription": "",
+        "elementBetanyms": [],
+        "elementInBetom": [],
+        "elementProfilePic": "",
+        "elementExample": {
+            "elementVideo": [],
+            "elementImage": [],
+            "elementQuote": []
+        }
     },
     "Repair": {
-    "elementEnglishName": "Repair",
-    "elementFaktor": "",
-    "elementEmblem": "",
-    "elementID": "",
-    "elementTaxonomy": [],
-    "elementDescription": "",
-    "elementBetanyms": [],
-    "elementInBetom": [],
-    "elementProfilePic": "",
-    "elementExample": {
-    "elementVideo": [],
-    "elementImage": [],
-    "elementQuote": []
-    }
+        "elementEnglishName": "Repair",
+        "elementFaktor": "",
+        "elementEmblem": "",
+        "elementID": "",
+        "elementTaxonomy": [
+            "Labor",
+            "Tool",
+            "Repair"
+        ],
+        "elementDescription": "",
+        "elementBetanyms": [],
+        "elementInBetom": [],
+        "elementProfilePic": "",
+        "elementExample": {
+            "elementVideo": [],
+            "elementImage": [],
+            "elementQuote": []
+        }
     },
-    
     "Spade": {
-    "elementEnglishName": "Spade",
-    "elementFaktor": "",
-    "elementEmblem": "",
-    "elementID": "",
-    "elementTaxonomy": [],
-    "elementDescription": "",
-    "elementBetanyms": [],
-    "elementInBetom": [],
-    "elementProfilePic": "",
-    "elementExample": {
-    "elementVideo": [],
-    "elementImage": [],
-    "elementQuote": []
-    }
+        "elementEnglishName": "Spade",
+        "elementFaktor": "",
+        "elementEmblem": "",
+        "elementID": "",
+        "elementTaxonomy": [
+            "Labor",
+            "Tool",
+            "Spade"
+        ],
+        "elementDescription": "",
+        "elementBetanyms": [],
+        "elementInBetom": [],
+        "elementProfilePic": "",
+        "elementExample": {
+            "elementVideo": [],
+            "elementImage": [],
+            "elementQuote": []
+        }
     },
     "Tibior": {
-    "elementEnglishName": "Tibior",
-    "elementFaktor": "",
-    "elementEmblem": "",
-    "elementID": "",
-    "elementTaxonomy": [],
-    "elementDescription": "",
-    "elementBetanyms": [],
-    "elementInBetom": [],
-    "elementProfilePic": "",
-    "elementExample": {
-    "elementVideo": [],
-    "elementImage": [],
-    "elementQuote": []
-    }
+        "elementEnglishName": "Tibior",
+        "elementFaktor": "",
+        "elementEmblem": "",
+        "elementID": "",
+        "elementTaxonomy": [
+            "Labor",
+            "Tool",
+            "Tibior"
+        ],
+        "elementDescription": "",
+        "elementBetanyms": [],
+        "elementInBetom": [],
+        "elementProfilePic": "",
+        "elementExample": {
+            "elementVideo": [],
+            "elementImage": [],
+            "elementQuote": []
+        }
     },
-    
     "Performance": {
         "elementEnglishName": "Performance",
         "elementFaktor": "Labor",
@@ -2747,13 +2857,353 @@
             "elementQuote": []
         }
     },
-    "SiteMaterial": {
-        "elementEnglishName": "Site Material",
-        "elementFaktor": "Ekos",
-        "elementID": "Ekos,SiteMaterial",
-        "elementTaxonomy": [],
-        "elementAlias": [],
-        "elementDescription": "the material of a Site",
+    "MineralSoil": {
+        "elementEnglishName": "Mineral Soil",
+        "elementFaktor": "",
+        "elementEmblem": "",
+        "elementID": "",
+        "elementTaxonomy": [
+            "Ekos",
+            "Material",
+            "Soil",
+            "MineralSoil"
+        ],
+        "elementDescription": "",
+        "elementBetanyms": [],
+        "elementInBetom": [],
+        "elementProfilePic": "",
+        "elementExample": {
+            "elementVideo": [],
+            "elementImage": [],
+            "elementQuote": []
+        }
+    },
+    "Soil": {
+        "elementEnglishName": "Soil",
+        "elementFaktor": "",
+        "elementEmblem": "",
+        "elementID": "",
+        "elementAlias": [
+            "pedosphere"
+        ],
+        "elementTaxonomy": [
+            "Ekos",
+            "Material",
+            "Soil"
+        ],
+        "elementDescription": "",
+        "elementBetanyms": [],
+        "elementInBetom": [],
+        "elementProfilePic": "",
+        "elementExample": {
+            "elementVideo": [],
+            "elementImage": [],
+            "elementQuote": []
+        }
+    },
+    "SoilFiber": {
+        "elementEnglishName": "Soil Fiber",
+        "elementFaktor": "",
+        "elementEmblem": "",
+        "elementID": "",
+        "elementTaxonomy": [
+            "Ekos",
+            "Material",
+            "Soil",
+            "SoilFiber"
+        ],
+        "elementAlias": [
+            "soil fibre"
+        ],
+        "elementDescription": "",
+        "elementBetanyms": [],
+        "elementInBetom": [],
+        "elementProfilePic": "",
+        "elementExample": {
+            "elementVideo": [],
+            "elementImage": [],
+            "elementQuote": []
+        }
+    },
+    "FibricSoil": {
+        "elementEnglishName": "Fibric Soil",
+        "elementFaktor": "",
+        "elementEmblem": "",
+        "elementID": "",
+        "elementTaxonomy": [
+            "Ekos",
+            "Material",
+            "Soil",
+            "SoilFiber"
+        ],
+        "elementAlias": [
+            "soil fibre"
+        ],
+        "elementDescription": "",
+        "elementBetanyms": [],
+        "elementInBetom": [],
+        "elementProfilePic": "",
+        "elementExample": {
+            "elementVideo": [],
+            "elementImage": [],
+            "elementQuote": []
+        }
+    },
+    "HumicSoil": {
+        "elementEnglishName": "Humic Soil",
+        "elementFaktor": "",
+        "elementEmblem": "",
+        "elementID": "",
+        "elementTaxonomy": [
+            "Ekos",
+            "Material",
+            "Soil",
+            "SoilFiber"
+        ],
+        "elementAlias": [
+            "soil fibre"
+        ],
+        "elementDescription": "",
+        "elementBetanyms": [],
+        "elementInBetom": [],
+        "elementProfilePic": "",
+        "elementExample": {
+            "elementVideo": [],
+            "elementImage": [],
+            "elementQuote": []
+        }
+    },
+    "MesicSoil": {
+        "elementEnglishName": "Mesic Soil",
+        "elementFaktor": "",
+        "elementEmblem": "",
+        "elementID": "",
+        "elementTaxonomy": [
+            "Ekos",
+            "Material",
+            "Soil",
+            "SoilFiber"
+        ],
+        "elementAlias": [
+            "soil fibre"
+        ],
+        "elementDescription": "",
+        "elementBetanyms": [],
+        "elementInBetom": [],
+        "elementProfilePic": "",
+        "elementExample": {
+            "elementVideo": [],
+            "elementImage": [],
+            "elementQuote": []
+        }
+    },
+    "WoodySoil": {
+        "elementEnglishName": "Woody Soil",
+        "elementFaktor": "",
+        "elementEmblem": "",
+        "elementID": "",
+        "elementTaxonomy": [
+            "Ekos",
+            "Material",
+            "Soil",
+            "SoilFiber"
+        ],
+        "elementAlias": [
+            "soil fibre"
+        ],
+        "elementDescription": "",
+        "elementBetanyms": [],
+        "elementInBetom": [],
+        "elementProfilePic": "",
+        "elementExample": {
+            "elementVideo": [],
+            "elementImage": [],
+            "elementQuote": []
+        }
+    },
+    "GrainSize": {
+        "elementEnglishName": "GrainSize",
+        "elementFaktor": "",
+        "elementEmblem": "",
+        "elementID": "",
+        "elementTaxonomy": [
+            "Ekos",
+            "Material",
+            "Soil",
+            "GrainSize"
+        ],
+        "elementAlias": [
+            "soil fibre"
+        ],
+        "elementDescription": "",
+        "elementBetanyms": [],
+        "elementInBetom": [],
+        "elementProfilePic": "",
+        "elementExample": {
+            "elementVideo": [],
+            "elementImage": [],
+            "elementQuote": []
+        }
+    },
+    "ClaySoil": {
+        "elementEnglishName": "Clay Soil",
+        "elementFaktor": "",
+        "elementEmblem": "",
+        "elementID": "",
+        "elementTaxonomy": [
+            "Ekos",
+            "Material",
+            "Soil",
+            "ClaySoil"
+        ],
+        "elementAlias": [
+            "soil fibre"
+        ],
+        "elementDescription": "",
+        "elementBetanyms": [],
+        "elementInBetom": [],
+        "elementProfilePic": "",
+        "elementExample": {
+            "elementVideo": [],
+            "elementImage": [],
+            "elementQuote": []
+        }
+    },
+    "BoulderSoil": {
+        "elementEnglishName": "Boulder Soil",
+        "elementFaktor": "",
+        "elementEmblem": "",
+        "elementID": "",
+        "elementTaxonomy": [
+            "Ekos",
+            "Material",
+            "Soil",
+            "BoulderSoil"
+        ],
+        "elementAlias": [
+            "soil fibre"
+        ],
+        "elementDescription": "",
+        "elementBetanyms": [],
+        "elementInBetom": [],
+        "elementProfilePic": "",
+        "elementExample": {
+            "elementVideo": [],
+            "elementImage": [],
+            "elementQuote": []
+        }
+    },
+    "CobbleSoil": {
+        "elementEnglishName": "Cobble Soil",
+        "elementFaktor": "",
+        "elementEmblem": "",
+        "elementID": "",
+        "elementTaxonomy": [
+            "Ekos",
+            "Material",
+            "Soil",
+            "CobbleSoil"
+        ],
+        "elementAlias": [
+            "soil fibre"
+        ],
+        "elementDescription": "",
+        "elementBetanyms": [],
+        "elementInBetom": [],
+        "elementProfilePic": "",
+        "elementExample": {
+            "elementVideo": [],
+            "elementImage": [],
+            "elementQuote": []
+        }
+    },
+    "PebbleSoil": {
+        "elementEnglishName": "Pebble Soil",
+        "elementFaktor": "",
+        "elementEmblem": "",
+        "elementID": "",
+        "elementTaxonomy": [
+            "Ekos",
+            "Material",
+            "Soil",
+            "PebbleSoil"
+        ],
+        "elementAlias": [
+            "soil fibre"
+        ],
+        "elementDescription": "",
+        "elementBetanyms": [],
+        "elementInBetom": [],
+        "elementProfilePic": "",
+        "elementExample": {
+            "elementVideo": [],
+            "elementImage": [],
+            "elementQuote": []
+        }
+    },
+    "RubbleSoil": {
+        "elementEnglishName": "Rubble Soil",
+        "elementFaktor": "",
+        "elementEmblem": "",
+        "elementID": "",
+        "elementTaxonomy": [
+            "Ekos",
+            "Material",
+            "Soil",
+            "RubbleSoil"
+        ],
+        "elementAlias": [
+            "soil fibre"
+        ],
+        "elementDescription": "",
+        "elementBetanyms": [],
+        "elementInBetom": [],
+        "elementProfilePic": "",
+        "elementExample": {
+            "elementVideo": [],
+            "elementImage": [],
+            "elementQuote": []
+        }
+    },
+    "SandSoil": {
+        "elementEnglishName": "Sand Soil",
+        "elementFaktor": "",
+        "elementEmblem": "",
+        "elementID": "",
+        "elementTaxonomy": [
+            "Ekos",
+            "Material",
+            "Soil",
+            "SandSoil"
+        ],
+        "elementAlias": [
+            "soil fibre"
+        ],
+        "elementDescription": "",
+        "elementBetanyms": [],
+        "elementInBetom": [],
+        "elementProfilePic": "",
+        "elementExample": {
+            "elementVideo": [],
+            "elementImage": [],
+            "elementQuote": []
+        }
+    },
+    "SiltSoil": {
+        "elementEnglishName": "Silt Soil",
+        "elementFaktor": "",
+        "elementEmblem": "",
+        "elementID": "",
+        "elementTaxonomy": [
+            "Ekos",
+            "Material",
+            "Soil",
+            "SiltSoil"
+        ],
+        "elementAlias": [
+            "soil fibre"
+        ],
+        "elementDescription": "",
         "elementBetanyms": [],
         "elementInBetom": [],
         "elementProfilePic": "",
@@ -2769,7 +3219,7 @@
         "elementID": "",
         "elementTaxonomy": [
             "Ekos",
-            "SiteMaterial",
+            "Material",
             "Natural"
         ],
         "elementAlias": [],
@@ -2789,7 +3239,7 @@
         "elementID": "",
         "elementTaxonomy": [
             "Ekos",
-            "SiteMaterial",
+            "Material",
             "Natural",
             "Lithosphere"
         ],
@@ -2810,7 +3260,7 @@
         "elementID": "",
         "elementTaxonomy": [
             "Ekos",
-            "SiteMaterial",
+            "Material",
             "Natural",
             "Hydrosphere"
         ],
@@ -2831,7 +3281,7 @@
         "elementID": "",
         "elementTaxonomy": [
             "Ekos",
-            "SiteMaterial",
+            "Material",
             "Natural",
             "Hydrosphere",
             "Ice"
@@ -2853,7 +3303,7 @@
         "elementID": "",
         "elementTaxonomy": [
             "Ekos",
-            "SiteMaterial",
+            "Material",
             "Natural",
             "Hydrosphere",
             "Water"
@@ -2875,7 +3325,7 @@
         "elementID": "",
         "elementTaxonomy": [
             "Ekos",
-            "SiteMaterial",
+            "Material",
             "Natural",
             "Hydrosphere",
             "Snow"
@@ -2897,7 +3347,7 @@
         "elementID": "",
         "elementTaxonomy": [
             "Ekos",
-            "SiteMaterial",
+            "Material",
             "Natural",
             "Hydrosphere",
             "Rain"
@@ -2919,7 +3369,7 @@
         "elementID": "",
         "elementTaxonomy": [
             "Ekos",
-            "SiteMaterial",
+            "Material",
             "Natural",
             "Plant"
         ],
@@ -2940,7 +3390,7 @@
         "elementID": "",
         "elementTaxonomy": [
             "Ekos",
-            "SiteMaterial",
+            "Material",
             "Natural",
             "Plant",
             "Bush"
@@ -2962,7 +3412,7 @@
         "elementID": "",
         "elementTaxonomy": [
             "Ekos",
-            "SiteMaterial",
+            "Material",
             "Natural",
             "Plant",
             "Grass"
@@ -2984,7 +3434,7 @@
         "elementID": "",
         "elementTaxonomy": [
             "Ekos",
-            "SiteMaterial",
+            "Material",
             "Natural",
             "Plant",
             "Moss"
@@ -3006,7 +3456,7 @@
         "elementID": "",
         "elementTaxonomy": [
             "Ekos",
-            "SiteMaterial",
+            "Material",
             "Natural",
             "Plant",
             "Tree"
@@ -3137,7 +3587,7 @@
         "elementID": "",
         "elementTaxonomy": [
             "Ekos",
-            "SiteMaterial",
+            "Material",
             "Artificial"
         ],
         "elementAlias": [],
@@ -3157,7 +3607,7 @@
         "elementID": "",
         "elementTaxonomy": [
             "Ekos",
-            "SiteMaterial",
+            "Material",
             "Artificial",
             "Plast"
         ],
@@ -3185,7 +3635,7 @@
         "elementID": "",
         "elementTaxonomy": [
             "Ekos",
-            "SiteMaterial",
+            "Material",
             "Artificial",
             "Volume"
         ],
@@ -3206,7 +3656,7 @@
         "elementID": "",
         "elementTaxonomy": [
             "Ekos",
-            "SiteMaterial",
+            "Material",
             "Artificial",
             "Wall"
         ],
@@ -3227,7 +3677,7 @@
         "elementID": "",
         "elementTaxonomy": [
             "Ekos",
-            "SiteMaterial",
+            "Material",
             "Artificial",
             "Wall",
             "TNut"
@@ -3472,42 +3922,6 @@
             "elementQuote": []
         }
     },
-    "Edifice": {
-        "elementEnglishName": "Edifice",
-        "elementFaktor": "Ekos",
-        "elementID": "",
-        "elementTaxonomy": [],
-        "elementAlias": [],
-        "elementDescription": "a large building",
-        "elementBetanyms": [],
-        "elementInBetom": [],
-        "elementProfilePic": "",
-        "elementExample": {
-            "elementVideo": [],
-            "elementImage": [],
-            "elementQuote": []
-        }
-    },
-    "Crag": {
-        "elementEnglishName": "Crag",
-        "elementFaktor": "Ekos",
-        "elementID": "",
-        "elementTaxonomy": [
-            "Ekos",
-            "Environment",
-            "Crag"
-        ],
-        "elementAlias": [],
-        "elementDescription": "a high, rough mass of rock that sticks out from the land around it",
-        "elementBetanyms": [],
-        "elementInBetom": [],
-        "elementProfilePic": "",
-        "elementExample": {
-            "elementVideo": [],
-            "elementImage": [],
-            "elementQuote": []
-        }
-    },
     "Surface": {
         "elementEnglishName": "Surface",
         "elementFaktor": "Ekos",
@@ -3550,8 +3964,12 @@
     "Angle": {
         "elementEnglishName": "Angle",
         "elementFaktor": "Via",
-        "elementID": "Via,Geometry,Angle",
-        "elementTaxonomy": [],
+        "elementID": "",
+        "elementTaxonomy": [
+            "Via",
+            "Geometry",
+            "Angle"
+        ],
         "elementAlias": [],
         "elementDescription": "",
         "elementBetanyms": [
@@ -3576,8 +3994,13 @@
     "Abduction": {
         "elementEnglishName": "Abduction",
         "elementFaktor": "Via",
-        "elementID": "Via,Geometry,Direction,Abduction",
-        "elementTaxonomy": [],
+        "elementID": "",
+        "elementTaxonomy": [
+            "Via",
+            "Geometry",
+            "Direction",
+            "Abduction"
+        ],
         "elementAlias": [],
         "elementDescription": "the movement of a part of the body away from the central part of the body or from another body part",
         "elementBetanyms": [],
@@ -4785,7 +5208,11 @@
         "elementEnglishName": "Propositional Logic",
         "elementFaktor": "Via",
         "elementID": "",
-        "elementTaxonomy": [],
+        "elementTaxonomy": [
+            "Via",
+            "Logic",
+            "PropositionalLogic"
+        ],
         "elementAlias": [],
         "elementDescription": "a formal system that studies how to combine simple declarative statements (propositions, which are either true or false) using logical connectives (like AND, OR, NOT, IF...THEN) to form complex statements, analyzing the truth and validity of these compound statements and the logical relationships between them, without delving into the internal structure of the propositions themselves. It provides a framework for constructing valid arguments and understanding truth conditions in mathematics, philosophy, and computer science",
         "elementBetanyms": [],
@@ -4801,7 +5228,11 @@
         "elementEnglishName": "Conditional Logic",
         "elementFaktor": "Via",
         "elementID": "",
-        "elementTaxonomy": [],
+        "elementTaxonomy": [
+            "Via",
+            "Logic",
+            "ConditionalLogic"
+        ],
         "elementAlias": [],
         "elementDescription": "a fundamental concept used to control the flow of a program based on whether certain conditions are met. It allows for decision-making within algorithms by executing different blocks of code depending on the evaluation of a Boolean expression (which is either true or false)",
         "elementBetanyms": [],
@@ -4838,7 +5269,11 @@
         "elementEnglishName": "Consequence",
         "elementFaktor": "Via",
         "elementID": "",
-        "elementTaxonomy": [],
+        "elementTaxonomy": [
+            "Via",
+            "Logic",
+            "Consequence"
+        ],
         "elementAlias": [],
         "elementDescription": "the result or effect of an action, decision, or event. It refers to something that follows logically from a preceding occurrence.",
         "elementBetanyms": [],
@@ -4854,7 +5289,11 @@
         "elementEnglishName": "Convex",
         "elementFaktor": "Via",
         "elementID": "",
-        "elementTaxonomy": [],
+        "elementTaxonomy": [
+            "Via",
+            "Morfos",
+            "Convex"
+        ],
         "elementAlias": [],
         "elementDescription": "curved or swelling out",
         "elementBetanyms": [],
@@ -4870,7 +5309,12 @@
         "elementEnglishName": "Zigzag Line",
         "elementFaktor": "Via",
         "elementID": "",
-        "elementTaxonomy": [],
+        "elementTaxonomy": [
+            "Via",
+            "Geometry",
+            "Line",
+            "ZigzagLine"
+        ],
         "elementAlias": [],
         "elementDescription": "a line or pattern that looks like a Z or a row of Zs joined together",
         "elementBetanyms": [],
@@ -4886,7 +5330,12 @@
         "elementEnglishName": "Concave",
         "elementFaktor": "Via",
         "elementID": "",
-        "elementTaxonomy": [],
+        "elementTaxonomy": [
+            "Via",
+            "Geometry",
+            "Morfos",
+            "Concave"
+        ],
         "elementAlias": [],
         "elementDescription": "curving in",
         "elementBetanyms": [],
@@ -5423,7 +5872,12 @@
         "elementEnglishName": "Kinetic Energy",
         "elementFaktor": "Motor",
         "elementID": "",
-        "elementTaxonomy": [],
+        "elementTaxonomy": [
+            "Motor",
+            "Dynamics",
+            "Energy",
+            "KineticEnergy"
+        ],
         "elementAlias": [],
         "elementDescription": "is the energy an object possesses due to its motion",
         "elementBetanyms": [],
