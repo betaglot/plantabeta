@@ -8,7 +8,9 @@
             "Task"
         ],
         "elementAlias": [],
-        "elementDescription": "a piece of work to be done",
+        "elementDescription": [
+            "a piece of work to be done"
+        ],
         "elementBetanyms": [
             "tasked"
         ],
@@ -30,7 +32,7 @@
             "Execution"
         ],
         "elementAlias": [],
-        "elementDescription": [""],
+        "elementDescription": [],
         "elementBetanyms": [
             ""
         ],
@@ -52,7 +54,7 @@
             "Team"
         ],
         "elementAlias": [],
-        "elementDescription": [""],
+        "elementDescription": [],
         "elementBetanyms": [
             ""
         ],
@@ -75,7 +77,7 @@
             "FillBlock"
         ],
         "elementAlias": [],
-        "elementDescription": [""],
+        "elementDescription": [],
         "elementBetanyms": [],
         "elementInBetom": [],
         "elementProfilePic": "",
@@ -95,7 +97,7 @@
             "Block"
         ],
         "elementAlias": [],
-        "elementDescription": [""],
+        "elementDescription": [],
         "elementBetanyms": [],
         "elementInBetom": [],
         "elementProfilePic": "",
@@ -117,7 +119,366 @@
             "seedling",
             "tree"
         ],
-        "elementDescription": [""],
+        "elementDescription": [],
+        "elementBetanyms": [
+            ""
+        ],
+        "elementInBetom": [],
+        "elementProfilePic": "",
+        "elementExample": {
+            "elementVideo": [],
+            "elementImage": [],
+            "elementQuote": []
+        }
+    },
+    "Antroposfera": {
+        "elementEnglishName": "Antroposfera",
+        "elementFaktor": "Ekos",
+        "elementID": "",
+        "elementTaxonomy": [
+            "Ekos",
+            "Ekosfera",
+            "Antroposfera"
+        ],
+        "elementAlias": [],
+        "elementDescription": [],
+        "elementBetanyms": [
+            ""
+        ],
+        "elementInBetom": [],
+        "elementProfilePic": "",
+        "elementExample": {
+            "elementVideo": [],
+            "elementImage": [],
+            "elementQuote": []
+        }
+    },
+    "Trench": {
+        "elementEnglishName": "Trench",
+        "elementFaktor": "Ekos",
+        "elementID": "",
+        "elementTaxonomy": [
+            "Ekos",
+            "Ekosfera",
+            "Antroposfera",
+            "Prep",
+            "Trench"
+        ],
+        "elementAlias": [],
+        "elementDescription": [],
+        "elementBetanyms": [
+            ""
+        ],
+        "elementInBetom": [],
+        "elementProfilePic": "",
+        "elementExample": {
+            "elementVideo": [],
+            "elementImage": [],
+            "elementQuote": []
+        }
+    },
+    "CutBank": {
+        "elementEnglishName": "Cut Bank",
+        "elementFaktor": "Ekos",
+        "elementID": "",
+        "elementTaxonomy": [
+            "Ekos",
+            "Ekosfera",
+            "Antroposfera",
+            "CutBank"
+        ],
+        "elementAlias": [],
+        "elementDescription": [],
+        "elementBetanyms": [
+            ""
+        ],
+        "elementInBetom": [],
+        "elementProfilePic": "",
+        "elementExample": {
+            "elementVideo": [],
+            "elementImage": [],
+            "elementQuote": []
+        }
+    },
+    "Landing": {
+        "elementEnglishName": "Landing",
+        "elementFaktor": "Ekos",
+        "elementID": "",
+        "elementTaxonomy": [
+            "Ekos",
+            "Ekosfera",
+            "Antroposfera",
+            "Landing"
+        ],
+        "elementAlias": [],
+        "elementDescription": [],
+        "elementBetanyms": [
+            ""
+        ],
+        "elementInBetom": [],
+        "elementProfilePic": "",
+        "elementExample": {
+            "elementVideo": [],
+            "elementImage": [],
+            "elementQuote": []
+        }
+    },
+    "Mound": {
+        "elementEnglishName": "Mound",
+        "elementFaktor": "Ekos",
+        "elementID": "",
+        "elementTaxonomy": [
+            "Ekos",
+            "Ekosfera",
+            "Antroposfera",
+            "Prep",
+            "Mound"
+        ],
+        "elementAlias": [],
+        "elementDescription": [],
+        "elementBetanyms": [
+            ""
+        ],
+        "elementInBetom": [],
+        "elementProfilePic": "",
+        "elementExample": {
+            "elementVideo": [],
+            "elementImage": [],
+            "elementQuote": []
+        }
+    },
+    "Prep": {
+        "elementEnglishName": "Prep",
+        "elementFaktor": "Ekos",
+        "elementID": "",
+        "elementTaxonomy": [
+            "Ekos",
+            "Ekosfera",
+            "Antroposfera",
+            "Prep"
+        ],
+        "elementAlias": [],
+        "elementDescription": [],
+        "elementBetanyms": [
+            ""
+        ],
+        "elementInBetom": [],
+        "elementProfilePic": "",
+        "elementExample": {
+            "elementVideo": [],
+            "elementImage": [],
+            "elementQuote": []
+        }
+    },
+    "Megaskreef": {
+        "elementEnglishName": "Megaskreef",
+        "elementFaktor": "Ekos",
+        "elementID": "",
+        "elementTaxonomy": [
+            "Ekos",
+            "Ekosfera",
+            "Antroposfera",
+            "Prep",
+            "Megaskreef"
+        ],
+        "elementAlias": [
+            "skreef"
+        ],
+        "elementDescription": [
+            "a large skreef made by a machine",
+            "usually at least 50cm wide"
+        ],
+        "elementBetanyms": [
+            ""
+        ],
+        "elementInBetom": [],
+        "elementProfilePic": "",
+        "elementExample": {
+            "elementVideo": [],
+            "elementImage": [],
+            "elementQuote": []
+        }
+    },
+    "Road": {
+        "elementEnglishName": "Road",
+        "elementFaktor": "Ekos",
+        "elementID": "",
+        "elementTaxonomy": [
+            "Ekos",
+            "Ekosfera",
+            "Antroposfera",
+            "Road"
+        ],
+        "elementAlias": [],
+        "elementDescription": [],
+        "elementBetanyms": [
+            ""
+        ],
+        "elementInBetom": [],
+        "elementProfilePic": "",
+        "elementExample": {
+            "elementVideo": [],
+            "elementImage": [],
+            "elementQuote": []
+        }
+    },
+    "SkidderTrail": {
+        "elementEnglishName": "Skidder Trail",
+        "elementFaktor": "Ekos",
+        "elementID": "",
+        "elementTaxonomy": [
+            "Ekos",
+            "Ekosfera",
+            "Antroposfera",
+            "SkidderTrail"
+        ],
+        "elementAlias": [],
+        "elementDescription": [],
+        "elementBetanyms": [
+            ""
+        ],
+        "elementInBetom": [],
+        "elementProfilePic": "",
+        "elementExample": {
+            "elementVideo": [],
+            "elementImage": [],
+            "elementQuote": []
+        }
+    },
+    "BurnPileSlash": {
+        "elementEnglishName": "Burn Pile",
+        "elementFaktor": "Ekos",
+        "elementID": "",
+        "elementTaxonomy": [
+            "Ekos",
+            "Ekosfera",
+            "Antroposfera",
+            "Slash",
+            "BurnPile"
+        ],
+        "elementAlias": [],
+        "elementDescription": [],
+        "elementBetanyms": [
+            ""
+        ],
+        "elementInBetom": [],
+        "elementProfilePic": "",
+        "elementExample": {
+            "elementVideo": [],
+            "elementImage": [],
+            "elementQuote": []
+        }
+    },
+    "HighSlash": {
+        "elementEnglishName": "High Slash",
+        "elementFaktor": "Ekos",
+        "elementID": "",
+        "elementTaxonomy": [
+            "Ekos",
+            "Ekosfera",
+            "Antroposfera",
+            "Slash",
+            "HighSlash"
+        ],
+        "elementAlias": [],
+        "elementDescription": [],
+        "elementBetanyms": [
+            ""
+        ],
+        "elementInBetom": [],
+        "elementProfilePic": "",
+        "elementExample": {
+            "elementVideo": [],
+            "elementImage": [],
+            "elementQuote": []
+        }
+    },
+    "LowSlash": {
+        "elementEnglishName": "Low Slash",
+        "elementFaktor": "Ekos",
+        "elementID": "",
+        "elementTaxonomy": [
+            "Ekos",
+            "Ekosfera",
+            "Antroposfera",
+            "Slash",
+            "LowSlash"
+        ],
+        "elementAlias": [],
+        "elementDescription": [],
+        "elementBetanyms": [
+            ""
+        ],
+        "elementInBetom": [],
+        "elementProfilePic": "",
+        "elementExample": {
+            "elementVideo": [],
+            "elementImage": [],
+            "elementQuote": []
+        }
+    },
+    "Stickmat": {
+        "elementEnglishName": "Stickmat",
+        "elementFaktor": "Ekos",
+        "elementID": "",
+        "elementTaxonomy": [
+            "Ekos",
+            "Ekosfera",
+            "Antroposfera",
+            "Slash",
+            "Stickmat"
+        ],
+        "elementAlias": [
+            "green trampoline"
+        ],
+        "elementDescription": [],
+        "elementBetanyms": [
+            ""
+        ],
+        "elementInBetom": [],
+        "elementProfilePic": "",
+        "elementExample": {
+            "elementVideo": [],
+            "elementImage": [],
+            "elementQuote": []
+        }
+    },
+    "WetSlash": {
+        "elementEnglishName": "Wet Slash",
+        "elementFaktor": "Ekos",
+        "elementID": "",
+        "elementTaxonomy": [
+            "Ekos",
+            "Ekosfera",
+            "Antroposfera",
+            "Slash",
+            "WetSlash"
+        ],
+        "elementAlias": [],
+        "elementDescription": [],
+        "elementBetanyms": [
+            ""
+        ],
+        "elementInBetom": [],
+        "elementProfilePic": "",
+        "elementExample": {
+            "elementVideo": [],
+            "elementImage": [],
+            "elementQuote": []
+        }
+    },
+    "Lightning": {
+        "elementEnglishName": "Lightning",
+        "elementFaktor": "Ekos",
+        "elementID": "",
+        "elementTaxonomy": [
+            "Ekos",
+            "Ekosfera",
+            "Atmosfera",
+            "Lightning"
+        ],
+        "elementAlias": [],
+        "elementDescription": [],
         "elementBetanyms": [
             ""
         ],
@@ -138,7 +499,9 @@
             "Route"
         ],
         "elementAlias": [],
-        "elementDescription": "a path with a defined start and finish",
+        "elementDescription": [
+            "a path with a defined start and finish"
+        ],
         "elementBetanyms": [],
         "elementInBetom": [],
         "elementProfilePic": "",
@@ -158,7 +521,7 @@
             "Cache"
         ],
         "elementAlias": [],
-        "elementDescription": [""],
+        "elementDescription": [],
         "elementBetanyms": [],
         "elementInBetom": [],
         "elementProfilePic": "",
@@ -182,7 +545,9 @@
             "move",
             "maneuver"
         ],
-        "elementDescription": "an action performed by a Klimber",
+        "elementDescription": [
+            "an action performed by a Klimber"
+        ],
         "elementBetanyms": [],
         "elementInBetom": [],
         "elementProfilePic": "",
@@ -202,7 +567,9 @@
             "Absorb"
         ],
         "elementAlias": [],
-        "elementDescription": "to reduce the effect of a physical force",
+        "elementDescription": [
+            "to reduce the effect of a physical force"
+        ],
         "elementBetanyms": [],
         "elementInBetom": [],
         "elementProfilePic": "",
@@ -222,7 +589,7 @@
             "Ankor"
         ],
         "elementAlias": [],
-        "elementDescription": [""],
+        "elementDescription": [],
         "elementBetanyms": [],
         "elementInBetom": [],
         "elementProfilePic": "",
@@ -242,7 +609,9 @@
             "Modify"
         ],
         "elementAlias": [],
-        "elementDescription": "to change something slightly, especially to make it more correct, effective",
+        "elementDescription": [
+            "to change something slightly, especially to make it more correct, effective"
+        ],
         "elementBetanyms": [],
         "elementInBetom": [],
         "elementProfilePic": "",
@@ -262,7 +631,9 @@
             "Allo"
         ],
         "elementAlias": [],
-        "elementDescription": "To swap hands or feet",
+        "elementDescription": [
+            "To swap hands or feet"
+        ],
         "elementBetanyms": [],
         "elementInBetom": [],
         "elementProfilePic": "",
@@ -282,7 +653,9 @@
             "Ama"
         ],
         "elementAlias": [],
-        "elementDescription": "to support something physically, often by leaning it against something else",
+        "elementDescription": [
+            "to support something physically, often by leaning it against something else"
+        ],
         "elementBetanyms": [],
         "elementInBetom": [],
         "elementProfilePic": "",
@@ -302,7 +675,7 @@
             "Amble"
         ],
         "elementAlias": [],
-        "elementDescription": [""],
+        "elementDescription": [],
         "elementBetanyms": [],
         "elementInBetom": [],
         "elementProfilePic": "",
@@ -321,7 +694,7 @@
             "Aktion",
             "Aspis"
         ],
-        "elementDescription": [""],
+        "elementDescription": [],
         "elementBetanyms": [],
         "elementInBetom": [],
         "elementProfilePic": "",
@@ -340,7 +713,7 @@
             "Aktion",
             "Ballista"
         ],
-        "elementDescription": [""],
+        "elementDescription": [],
         "elementBetanyms": [],
         "elementInBetom": [],
         "elementProfilePic": "",
@@ -359,7 +732,7 @@
             "Aktion",
             "Construct"
         ],
-        "elementDescription": [""],
+        "elementDescription": [],
         "elementBetanyms": [],
         "elementInBetom": [],
         "elementProfilePic": "",
@@ -379,7 +752,9 @@
             "Catch"
         ],
         "elementAlias": [],
-        "elementDescription": "to grip something while moving",
+        "elementDescription": [
+            "to grip something while moving"
+        ],
         "elementBetanyms": [],
         "elementInBetom": [],
         "elementProfilePic": "",
@@ -399,7 +774,9 @@
             "Clean"
         ],
         "elementAlias": [],
-        "elementDescription": "to remove chalk from something",
+        "elementDescription": [
+            "to remove chalk from something"
+        ],
         "elementBetanyms": [],
         "elementInBetom": [],
         "elementProfilePic": "",
@@ -419,7 +796,9 @@
             "Crawl"
         ],
         "elementAlias": [],
-        "elementDescription": "to move along on hands and knees or with your body stretched out along a surface",
+        "elementDescription": [
+            "to move along on hands and knees or with your body stretched out along a surface"
+        ],
         "elementBetanyms": [],
         "elementInBetom": [],
         "elementProfilePic": "",
@@ -438,7 +817,7 @@
             "Aktion",
             "Dig"
         ],
-        "elementDescription": [""],
+        "elementDescription": [],
         "elementBetanyms": [],
         "elementInBetom": [],
         "elementProfilePic": "",
@@ -458,7 +837,9 @@
             "Drag"
         ],
         "elementAlias": [],
-        "elementDescription": "to move something by pulling it along a surface",
+        "elementDescription": [
+            "to move something by pulling it along a surface"
+        ],
         "elementBetanyms": [],
         "elementInBetom": [],
         "elementProfilePic": "",
@@ -478,7 +859,9 @@
             "Drop"
         ],
         "elementAlias": [],
-        "elementDescription": "to fall or to allow something to fall",
+        "elementDescription": [
+            "to fall or to allow something to fall"
+        ],
         "elementBetanyms": [],
         "elementInBetom": [],
         "elementProfilePic": "",
@@ -498,7 +881,9 @@
             "Eval"
         ],
         "elementAlias": [],
-        "elementDescription": "the process of judging or calculating the quality, importance, amount, or value of something",
+        "elementDescription": [
+            "the process of judging or calculating the quality, importance, amount, or value of something"
+        ],
         "elementBetanyms": [],
         "elementInBetom": [],
         "elementProfilePic": "",
@@ -518,7 +903,9 @@
             "Fall"
         ],
         "elementAlias": [],
-        "elementDescription": "to suddenly go down onto the ground or towards the ground without intending to or by accident",
+        "elementDescription": [
+            "to suddenly go down onto the ground or towards the ground without intending to or by accident"
+        ],
         "elementBetanyms": [],
         "elementInBetom": [],
         "elementProfilePic": "",
@@ -538,7 +925,9 @@
             "Hinge"
         ],
         "elementAlias": [],
-        "elementDescription": "Hinging at the hips means bending forward from the hip joint while maintaining a neutral spine",
+        "elementDescription": [
+            "Hinging at the hips means bending forward from the hip joint while maintaining a neutral spine"
+        ],
         "elementBetanyms": [],
         "elementInBetom": [],
         "elementProfilePic": "",
@@ -558,7 +947,9 @@
             "Hook"
         ],
         "elementAlias": [],
-        "elementDescription": "something curved or bent like a hook used for catching, holding, or pulling",
+        "elementDescription": [
+            "something curved or bent like a hook used for catching, holding, or pulling"
+        ],
         "elementBetanyms": [],
         "elementInBetom": [],
         "elementProfilePic": "",
@@ -578,7 +969,9 @@
             "Insert"
         ],
         "elementAlias": [],
-        "elementDescription": "to put something inside something else",
+        "elementDescription": [
+            "to put something inside something else"
+        ],
         "elementBetanyms": [],
         "elementInBetom": [],
         "elementProfilePic": "",
@@ -597,7 +990,7 @@
             "Aktion",
             "Klose"
         ],
-        "elementDescription": [""],
+        "elementDescription": [],
         "elementBetanyms": [],
         "elementInBetom": [],
         "elementProfilePic": "",
@@ -617,7 +1010,9 @@
             "Knot"
         ],
         "elementAlias": [],
-        "elementDescription": "a join made by tying together the ends of a piece or pieces of rope",
+        "elementDescription": [
+            "a join made by tying together the ends of a piece or pieces of rope"
+        ],
         "elementBetanyms": [],
         "elementInBetom": [],
         "elementProfilePic": "",
@@ -636,7 +1031,7 @@
             "Aktion",
             "Kompakt"
         ],
-        "elementDescription": [""],
+        "elementDescription": [],
         "elementBetanyms": [],
         "elementInBetom": [],
         "elementProfilePic": "",
@@ -655,7 +1050,7 @@
             "Aktion",
             "Kompress"
         ],
-        "elementDescription": [""],
+        "elementDescription": [],
         "elementBetanyms": [],
         "elementInBetom": [],
         "elementProfilePic": "",
@@ -675,7 +1070,9 @@
             "Kontakt"
         ],
         "elementAlias": [],
-        "elementDescription": "to touch something",
+        "elementDescription": [
+            "to touch something"
+        ],
         "elementBetanyms": [],
         "elementInBetom": [],
         "elementProfilePic": "",
@@ -694,7 +1091,7 @@
             "Aktion",
             "Launch"
         ],
-        "elementDescription": [""],
+        "elementDescription": [],
         "elementBetanyms": [],
         "elementInBetom": [],
         "elementProfilePic": "",
@@ -714,7 +1111,9 @@
             "Lift"
         ],
         "elementAlias": [],
-        "elementDescription": "to move something from a lower to a higher position",
+        "elementDescription": [
+            "to move something from a lower to a higher position"
+        ],
         "elementBetanyms": [],
         "elementInBetom": [],
         "elementProfilePic": "",
@@ -733,7 +1132,7 @@
             "Aktion",
             "Load"
         ],
-        "elementDescription": [""],
+        "elementDescription": [],
         "elementBetanyms": [],
         "elementInBetom": [],
         "elementProfilePic": "",
@@ -760,7 +1159,9 @@
             "Keep",
             "Steadicam"
         ],
-        "elementDescription": "to freeze the Degrees of Freedom of a particular joint",
+        "elementDescription": [
+            "to freeze the Degrees of Freedom of a particular joint"
+        ],
         "elementBetanyms": [],
         "elementInBetom": [],
         "elementProfilePic": "",
@@ -779,7 +1180,7 @@
             "Aktion",
             "Machete"
         ],
-        "elementDescription": [""],
+        "elementDescription": [],
         "elementBetanyms": [],
         "elementInBetom": [],
         "elementProfilePic": "",
@@ -802,7 +1203,9 @@
             "Swing",
             "wave"
         ],
-        "elementDescription": "a movement back and forth or in a curve from a fixed point",
+        "elementDescription": [
+            "a movement back and forth or in a curve from a fixed point"
+        ],
         "elementBetanyms": [],
         "elementInBetom": [],
         "elementProfilePic": "",
@@ -824,7 +1227,9 @@
         "elementAlias": [
             "Revolve"
         ],
-        "elementDescription": "to move or cause something to move in a circular or curving path around a central point or line",
+        "elementDescription": [
+            "to move or cause something to move in a circular or curving path around a central point or line"
+        ],
         "elementBetanyms": [
             "orbit",
             "orbital",
@@ -848,7 +1253,7 @@
             "Aktion",
             "Parry"
         ],
-        "elementDescription": [""],
+        "elementDescription": [],
         "elementBetanyms": [],
         "elementInBetom": [],
         "elementProfilePic": "",
@@ -868,7 +1273,9 @@
             "Pop"
         ],
         "elementAlias": [],
-        "elementDescription": "the rapid contraction and release of muscles, producing rhythmic and precise movements",
+        "elementDescription": [
+            "the rapid contraction and release of muscles, producing rhythmic and precise movements"
+        ],
         "elementBetanyms": [],
         "elementInBetom": [],
         "elementProfilePic": "",
@@ -889,7 +1296,9 @@
             "Pull"
         ],
         "elementAlias": [],
-        "elementDescription": "to move something towards yourself",
+        "elementDescription": [
+            "to move something towards yourself"
+        ],
         "elementBetanyms": [
             "pull",
             "pull up"
@@ -911,7 +1320,7 @@
             "Aktion",
             "Purga"
         ],
-        "elementDescription": [""],
+        "elementDescription": [],
         "elementBetanyms": [],
         "elementInBetom": [],
         "elementProfilePic": "",
@@ -932,7 +1341,9 @@
             "Push"
         ],
         "elementAlias": [],
-        "elementDescription": "to move something into a different position, usually one that is further away from you",
+        "elementDescription": [
+            "to move something into a different position, usually one that is further away from you"
+        ],
         "elementBetanyms": [],
         "elementInBetom": [],
         "elementProfilePic": "",
@@ -952,7 +1363,9 @@
             "Preserve"
         ],
         "elementAlias": [],
-        "elementDescription": "to keep something as it is, especially in order to prevent it from decaying or being damaged or destroyed",
+        "elementDescription": [
+            "to keep something as it is, especially in order to prevent it from decaying or being damaged or destroyed"
+        ],
         "elementBetanyms": [],
         "elementInBetom": [],
         "elementProfilePic": "",
@@ -972,7 +1385,9 @@
             "Reach"
         ],
         "elementAlias": [],
-        "elementDescription": "to stretch out your arm or leg to get or touch something",
+        "elementDescription": [
+            "to stretch out your arm or leg to get or touch something"
+        ],
         "elementBetanyms": [],
         "elementInBetom": [],
         "elementProfilePic": "",
@@ -992,7 +1407,9 @@
             "Rip"
         ],
         "elementAlias": [],
-        "elementDescription": "to pull apart; to tear or be torn",
+        "elementDescription": [
+            "to pull apart; to tear or be torn"
+        ],
         "elementBetanyms": [],
         "elementInBetom": [],
         "elementProfilePic": "",
@@ -1011,7 +1428,7 @@
             "Aktion",
             "Slam"
         ],
-        "elementDescription": [""],
+        "elementDescription": [],
         "elementBetanyms": [],
         "elementInBetom": [],
         "elementProfilePic": "",
@@ -1030,7 +1447,7 @@
             "Aktion",
             "Snap"
         ],
-        "elementDescription": [""],
+        "elementDescription": [],
         "elementBetanyms": [],
         "elementInBetom": [],
         "elementProfilePic": "",
@@ -1050,7 +1467,9 @@
             "Suspend"
         ],
         "elementAlias": [],
-        "elementDescription": "to hang down from something",
+        "elementDescription": [
+            "to hang down from something"
+        ],
         "elementBetanyms": [],
         "elementInBetom": [],
         "elementProfilePic": "",
@@ -1070,7 +1489,9 @@
             "Pendulate"
         ],
         "elementAlias": [],
-        "elementDescription": "to move like a Pendulum",
+        "elementDescription": [
+            "to move like a Pendulum"
+        ],
         "elementBetanyms": [],
         "elementInBetom": [],
         "elementProfilePic": "",
@@ -1090,7 +1511,9 @@
             "Slot"
         ],
         "elementAlias": [],
-        "elementDescription": "to put something into a narrow hole or opening",
+        "elementDescription": [
+            "to put something into a narrow hole or opening"
+        ],
         "elementBetanyms": [],
         "elementInBetom": [],
         "elementProfilePic": "",
@@ -1110,7 +1533,7 @@
             "Slap"
         ],
         "elementAlias": [],
-        "elementDescription": [""],
+        "elementDescription": [],
         "elementBetanyms": [],
         "elementInBetom": [],
         "elementProfilePic": "",
@@ -1130,7 +1553,9 @@
             "Stack"
         ],
         "elementAlias": [],
-        "elementDescription": "things arranged one on top of another",
+        "elementDescription": [
+            "things arranged one on top of another"
+        ],
         "elementBetanyms": [],
         "elementInBetom": [],
         "elementProfilePic": "",
@@ -1150,7 +1575,9 @@
             "Stall"
         ],
         "elementAlias": [],
-        "elementDescription": "to stop suddenly",
+        "elementDescription": [
+            "to stop suddenly"
+        ],
         "elementBetanyms": [],
         "elementInBetom": [],
         "elementProfilePic": "",
@@ -1170,7 +1597,9 @@
             "Tangent"
         ],
         "elementAlias": [],
-        "elementDescription": "A tangent is also a line that touches a curve or solid at a particular point",
+        "elementDescription": [
+            "A tangent is also a line that touches a curve or solid at a particular point"
+        ],
         "elementBetanyms": [],
         "elementInBetom": [],
         "elementProfilePic": "",
@@ -1190,7 +1619,9 @@
             "Swap"
         ],
         "elementAlias": [],
-        "elementDescription": "exchanging one Kontakt for another Kontakt, usually exchanging to another limb, but you can swap within limbs such as from [Kontakt|Knee] to [Kontakt|Foot]",
+        "elementDescription": [
+            "exchanging one Kontakt for another Kontakt, usually exchanging to another limb, but you can swap within limbs such as from [Kontakt|Knee] to [Kontakt|Foot]"
+        ],
         "elementBetanyms": [],
         "elementInBetom": [],
         "elementProfilePic": "",
@@ -1213,7 +1644,9 @@
             "Rock over",
             "Rock up"
         ],
-        "elementDescription": "a linkage system (bars connected by pivots) that converts small input motion into large output force or creates a strong locking action, often using an over-center principle where resistance peaks at the center, snapping the mechanism into a locked end position, ideal for clamps, presses, and switches. It works by amplifying force as links align, making them very strong when locked but requiring significant force to move them through the locked-straight position",
+        "elementDescription": [
+            "a linkage system (bars connected by pivots) that converts small input motion into large output force or creates a strong locking action, often using an over-center principle where resistance peaks at the center, snapping the mechanism into a locked end position, ideal for clamps, presses, and switches. It works by amplifying force as links align, making them very strong when locked but requiring significant force to move them through the locked-straight position"
+        ],
         "elementBetanyms": [],
         "elementInBetom": [],
         "elementProfilePic": "",
@@ -1233,7 +1666,9 @@
             "Transport"
         ],
         "elementAlias": [],
-        "elementDescription": "to bring a tool from one place to another without using it",
+        "elementDescription": [
+            "to bring a tool from one place to another without using it"
+        ],
         "elementBetanyms": [],
         "elementInBetom": [],
         "elementProfilePic": "",
@@ -1253,7 +1688,9 @@
             "Roll"
         ],
         "elementAlias": [],
-        "elementDescription": "rolling motion, a combination of rotation and translation, like a wheel moving without slipping",
+        "elementDescription": [
+            "rolling motion, a combination of rotation and translation, like a wheel moving without slipping"
+        ],
         "elementBetanyms": [],
         "elementInBetom": [],
         "elementProfilePic": "",
@@ -1273,7 +1710,9 @@
             "Whip"
         ],
         "elementAlias": [],
-        "elementDescription": "to move like a whip",
+        "elementDescription": [
+            "to move like a whip"
+        ],
         "elementBetanyms": [],
         "elementInBetom": [],
         "elementProfilePic": "",
@@ -1293,7 +1732,9 @@
             "Wrap"
         ],
         "elementAlias": [],
-        "elementDescription": "to put a body part around something",
+        "elementDescription": [
+            "to put a body part around something"
+        ],
         "elementBetanyms": [],
         "elementInBetom": [],
         "elementProfilePic": "",
@@ -1312,7 +1753,7 @@
             "Task",
             "Piece"
         ],
-        "elementDescription": [""],
+        "elementDescription": [],
         "elementBetanyms": [],
         "elementInBetom": [],
         "elementProfilePic": "",
@@ -1331,7 +1772,7 @@
             "Task",
             "Specs"
         ],
-        "elementDescription": [""],
+        "elementDescription": [],
         "elementBetanyms": [],
         "elementInBetom": [],
         "elementProfilePic": "",
@@ -1350,7 +1791,9 @@
             "Difficulty"
         ],
         "elementAlias": [],
-        "elementDescription": "the state or quality of being hard to do, understand, or deal with, encompassing problems, obstacles, lack of ease, or a challenging nature, often measured as a level of complexity requiring significant effort or skill to overcome",
+        "elementDescription": [
+            "the state or quality of being hard to do, understand, or deal with, encompassing problems, obstacles, lack of ease, or a challenging nature, often measured as a level of complexity requiring significant effort or skill to overcome"
+        ],
         "elementBetanyms": [],
         "elementInBetom": [],
         "elementProfilePic": "",
@@ -1369,7 +1812,9 @@
             "Competition"
         ],
         "elementAlias": [],
-        "elementDescription": "a situation in which someone is trying to win something or be more successful than someone else",
+        "elementDescription": [
+            "a situation in which someone is trying to win something or be more successful than someone else"
+        ],
         "elementBetanyms": [],
         "elementInBetom": [],
         "elementProfilePic": "",
@@ -1388,7 +1833,9 @@
             "Strategy"
         ],
         "elementAlias": [],
-        "elementDescription": "a detailed plan for achieving success in situations",
+        "elementDescription": [
+            "a detailed plan for achieving success in situations"
+        ],
         "elementBetanyms": [
             "strategic",
             "strategic risk",
@@ -1413,7 +1860,9 @@
             "Tactic"
         ],
         "elementAlias": [],
-        "elementDescription": "a specific action intended to get a particular result",
+        "elementDescription": [
+            "a specific action intended to get a particular result"
+        ],
         "elementBetanyms": [],
         "elementInBetom": [],
         "elementProfilePic": "",
@@ -1432,7 +1881,9 @@
             "Tool"
         ],
         "elementAlias": [],
-        "elementDescription": "an object that helps you to do a particular activity",
+        "elementDescription": [
+            "an object that helps you to do a particular activity"
+        ],
         "elementBetanyms": [],
         "elementInBetom": [],
         "elementProfilePic": "",
@@ -1452,7 +1903,9 @@
             "FallProtection"
         ],
         "elementAlias": [],
-        "elementDescription": "an object or device which prevents a klimber from becoming injured from the impact of a fall",
+        "elementDescription": [
+            "an object or device which prevents a klimber from becoming injured from the impact of a fall"
+        ],
         "elementBetanyms": [],
         "elementInBetom": [],
         "elementProfilePic": "",
@@ -1471,7 +1924,7 @@
             "Tool",
             "Boot"
         ],
-        "elementDescription": [""],
+        "elementDescription": [],
         "elementBetanyms": [],
         "elementInBetom": [],
         "elementProfilePic": "",
@@ -1490,7 +1943,7 @@
             "Tool",
             "Bottle"
         ],
-        "elementDescription": [""],
+        "elementDescription": [],
         "elementBetanyms": [],
         "elementInBetom": [],
         "elementProfilePic": "",
@@ -1509,7 +1962,7 @@
             "Tool",
             "Box"
         ],
-        "elementDescription": [""],
+        "elementDescription": [],
         "elementBetanyms": [],
         "elementInBetom": [],
         "elementProfilePic": "",
@@ -1528,7 +1981,7 @@
             "Tool",
             "Bundle"
         ],
-        "elementDescription": [""],
+        "elementDescription": [],
         "elementBetanyms": [],
         "elementInBetom": [],
         "elementProfilePic": "",
@@ -1547,7 +2000,7 @@
             "Tool",
             "Doru"
         ],
-        "elementDescription": [""],
+        "elementDescription": [],
         "elementBetanyms": [],
         "elementInBetom": [],
         "elementProfilePic": "",
@@ -1567,7 +2020,9 @@
             "Rope"
         ],
         "elementAlias": [],
-        "elementDescription": "a strong, thick cord of strands (such as natural or synthetic fibers, or wire) that are twisted or braided together into a larger and stronger form",
+        "elementDescription": [
+            "a strong, thick cord of strands (such as natural or synthetic fibers, or wire) that are twisted or braided together into a larger and stronger form"
+        ],
         "elementBetanyms": [],
         "elementInBetom": [],
         "elementProfilePic": "",
@@ -1589,7 +2044,9 @@
         "elementAlias": [
             "Karabiner"
         ],
-        "elementDescription": "an object used for attaching two things, for example by a Klimber for attaching a rope to a harness. It is oval or like a letter D in shape, with a part that opens and closes",
+        "elementDescription": [
+            "an object used for attaching two things, for example by a Klimber for attaching a rope to a harness. It is oval or like a letter D in shape, with a part that opens and closes"
+        ],
         "elementBetanyms": [],
         "elementInBetom": [],
         "elementProfilePic": "",
@@ -1610,7 +2067,9 @@
             "Helmet"
         ],
         "elementAlias": [],
-        "elementDescription": "a strong, hard hat that covers and protects the head",
+        "elementDescription": [
+            "a strong, hard hat that covers and protects the head"
+        ],
         "elementBetanyms": [],
         "elementInBetom": [],
         "elementProfilePic": "",
@@ -1631,7 +2090,9 @@
             "Sling"
         ],
         "elementAlias": [],
-        "elementDescription": "a tied or sewn loop of webbing or cord",
+        "elementDescription": [
+            "a tied or sewn loop of webbing or cord"
+        ],
         "elementBetanyms": [],
         "elementInBetom": [],
         "elementProfilePic": "",
@@ -1652,7 +2113,9 @@
             "Glove"
         ],
         "elementAlias": [],
-        "elementDescription": "a piece of clothing that is worn on the hand and wrist for warmth or protection, with separate parts for each finger",
+        "elementDescription": [
+            "a piece of clothing that is worn on the hand and wrist for warmth or protection, with separate parts for each finger"
+        ],
         "elementBetanyms": [],
         "elementInBetom": [],
         "elementProfilePic": "",
@@ -1672,7 +2135,9 @@
             "Clothing"
         ],
         "elementAlias": [],
-        "elementDescription": "things you wear to cover your body",
+        "elementDescription": [
+            "things you wear to cover your body"
+        ],
         "elementBetanyms": [],
         "elementInBetom": [],
         "elementProfilePic": "",
@@ -1692,7 +2157,9 @@
             "Kit"
         ],
         "elementAlias": [],
-        "elementDescription": "a bag used to transport tools",
+        "elementDescription": [
+            "a bag used to transport tools"
+        ],
         "elementBetanyms": [],
         "elementInBetom": [],
         "elementProfilePic": "",
@@ -1711,7 +2178,8 @@
             "Tool",
             "Markum"
         ],
-        "elementDescription": [""],
+        "elementAlias": [],
+        "elementDescription": [],
         "elementBetanyms": [],
         "elementInBetom": [],
         "elementProfilePic": "",
@@ -1730,7 +2198,8 @@
             "Tool",
             "Plantafor"
         ],
-        "elementDescription": [""],
+        "elementAlias": [],
+        "elementDescription": [],
         "elementBetanyms": [],
         "elementInBetom": [],
         "elementProfilePic": "",
@@ -1749,7 +2218,32 @@
             "Tool",
             "PlotCord"
         ],
-        "elementDescription": [""],
+        "elementAlias": [],
+        "elementDescription": [
+            "a 4 meter long cord used as the radius of a plot"
+        ],
+        "elementBetanyms": [],
+        "elementInBetom": [],
+        "elementProfilePic": "",
+        "elementExample": {
+            "elementVideo": [],
+            "elementImage": [],
+            "elementQuote": []
+        }
+    },
+    "Plot": {
+        "elementEnglishName": "Plot",
+        "elementFaktor": "Labor",
+        "elementID": "",
+        "elementTaxonomy": [
+            "Labor",
+            "Performance",
+            "Execution"
+        ],
+        "elementAlias": [],
+        "elementDescription": [
+            "a circle 8 meters in diameter"
+        ],
         "elementBetanyms": [],
         "elementInBetom": [],
         "elementProfilePic": "",
@@ -1768,7 +2262,8 @@
             "Tool",
             "Radior"
         ],
-        "elementDescription": [""],
+        "elementAlias": [],
+        "elementDescription": [],
         "elementBetanyms": [],
         "elementInBetom": [],
         "elementProfilePic": "",
@@ -1787,7 +2282,8 @@
             "Tool",
             "Repair"
         ],
-        "elementDescription": [""],
+        "elementAlias": [],
+        "elementDescription": [],
         "elementBetanyms": [],
         "elementInBetom": [],
         "elementProfilePic": "",
@@ -1806,7 +2302,8 @@
             "Tool",
             "Spade"
         ],
-        "elementDescription": [""],
+        "elementAlias": [],
+        "elementDescription": [],
         "elementBetanyms": [],
         "elementInBetom": [],
         "elementProfilePic": "",
@@ -1825,7 +2322,13 @@
             "Tool",
             "Tibior"
         ],
-        "elementDescription": [""],
+        "elementAlias": [
+            "gaiter",
+            "spat"
+        ],
+        "elementDescription": [
+            "a protective covering, usually cloth or leather, worn over the lower leg and boot from the ankle up (to mid-calf or knee) to keep out elements like snow, mud, water, rocks, and debris, preventing them from entering your boots and keeping you dry and comfortable"
+        ],
         "elementBetanyms": [],
         "elementInBetom": [],
         "elementProfilePic": "",
@@ -1844,7 +2347,9 @@
             "Performance"
         ],
         "elementAlias": [],
-        "elementDescription": "the act of doing something",
+        "elementDescription": [
+            "the act of doing something"
+        ],
         "elementBetanyms": [
             "perform",
             "perform a new",
@@ -1885,7 +2390,9 @@
             "Effectiveness"
         ],
         "elementAlias": [],
-        "elementDescription": "successful or achieving the results that you want",
+        "elementDescription": [
+            "successful or achieving the results that you want"
+        ],
         "elementBetanyms": [],
         "elementInBetom": [],
         "elementProfilePic": "",
@@ -1905,7 +2412,9 @@
             "Efficiency"
         ],
         "elementAlias": [],
-        "elementDescription": "the quality of achieving the largest amount of useful work using as little energy, fuel, effort, etc. as possible",
+        "elementDescription": [
+            "the quality of achieving the largest amount of useful work using as little energy, fuel, effort, etc. as possible"
+        ],
         "elementBetanyms": [],
         "elementInBetom": [],
         "elementProfilePic": "",
@@ -1925,7 +2434,9 @@
             "Error"
         ],
         "elementAlias": [],
-        "elementDescription": "something performed that is not correct, not accurate, or does not give the right result",
+        "elementDescription": [
+            "something performed that is not correct, not accurate, or does not give the right result"
+        ],
         "elementBetanyms": [],
         "elementInBetom": [],
         "elementProfilePic": "",
@@ -1944,7 +2455,9 @@
             "Anatomy"
         ],
         "elementAlias": [],
-        "elementDescription": "the scientific study of the body and how its parts are arranged",
+        "elementDescription": [
+            "the scientific study of the body and how its parts are arranged"
+        ],
         "elementBetanyms": [],
         "elementInBetom": [],
         "elementProfilePic": "",
@@ -1964,7 +2477,9 @@
             "Body"
         ],
         "elementAlias": [],
-        "elementDescription": "the whole physical structure that forms a person or animal",
+        "elementDescription": [
+            "the whole physical structure that forms a person or animal"
+        ],
         "elementBetanyms": [],
         "elementInBetom": [],
         "elementProfilePic": "",
@@ -1985,7 +2500,9 @@
             "Spine"
         ],
         "elementAlias": [],
-        "elementDescription": "the line of bones down the centre of the back that provides support for the body and protects the spinal cord",
+        "elementDescription": [
+            "the line of bones down the centre of the back that provides support for the body and protects the spinal cord"
+        ],
         "elementBetanyms": [],
         "elementInBetom": [],
         "elementProfilePic": "",
@@ -2006,7 +2523,9 @@
             "Ribs"
         ],
         "elementAlias": [],
-        "elementDescription": "a set of bones that curve around from your back to your chest",
+        "elementDescription": [
+            "a set of bones that curve around from your back to your chest"
+        ],
         "elementBetanyms": [],
         "elementInBetom": [],
         "elementProfilePic": "",
@@ -2026,7 +2545,9 @@
             "Head"
         ],
         "elementAlias": [],
-        "elementDescription": "the part of the body above the neck where the eyes, nose, mouth, ears, and brain are",
+        "elementDescription": [
+            "the part of the body above the neck where the eyes, nose, mouth, ears, and brain are"
+        ],
         "elementBetanyms": [],
         "elementInBetom": [],
         "elementProfilePic": "",
@@ -2047,7 +2568,9 @@
             "Cranium"
         ],
         "elementAlias": [],
-        "elementDescription": "the hard bone case that gives an animal's or a human's head its shape and protects the brain",
+        "elementDescription": [
+            "the hard bone case that gives an animal's or a human's head its shape and protects the brain"
+        ],
         "elementBetanyms": [],
         "elementInBetom": [],
         "elementProfilePic": "",
@@ -2068,7 +2591,9 @@
             "Ear"
         ],
         "elementAlias": [],
-        "elementDescription": "either of the two organs, one on each side of the head, by which people or animals hear sounds, or the piece of skin and tissue outside the head connected to this organ",
+        "elementDescription": [
+            "either of the two organs, one on each side of the head, by which people or animals hear sounds, or the piece of skin and tissue outside the head connected to this organ"
+        ],
         "elementBetanyms": [],
         "elementInBetom": [],
         "elementProfilePic": "",
@@ -2089,7 +2614,9 @@
             "Face"
         ],
         "elementAlias": [],
-        "elementDescription": "the front of the head, where the eyes, nose, and mouth are",
+        "elementDescription": [
+            "the front of the head, where the eyes, nose, and mouth are"
+        ],
         "elementBetanyms": [],
         "elementInBetom": [],
         "elementProfilePic": "",
@@ -2110,7 +2637,9 @@
             "Neck"
         ],
         "elementAlias": [],
-        "elementDescription": "the part of the body that joins the head to the shoulders",
+        "elementDescription": [
+            "the part of the body that joins the head to the shoulders"
+        ],
         "elementBetanyms": [],
         "elementInBetom": [],
         "elementProfilePic": "",
@@ -2130,7 +2659,9 @@
             "Arm"
         ],
         "elementAlias": [],
-        "elementDescription": "either of the two long parts of the upper body that are attached to the shoulders and have the hands at the end",
+        "elementDescription": [
+            "either of the two long parts of the upper body that are attached to the shoulders and have the hands at the end"
+        ],
         "elementBetanyms": [],
         "elementInBetom": [],
         "elementProfilePic": "",
@@ -2151,7 +2682,9 @@
             "Scapula"
         ],
         "elementAlias": [],
-        "elementDescription": "a large, flat bone on each side of your back below your shoulder that helps to increase the range of movement of your arm",
+        "elementDescription": [
+            "a large, flat bone on each side of your back below your shoulder that helps to increase the range of movement of your arm"
+        ],
         "elementBetanyms": [],
         "elementInBetom": [],
         "elementProfilePic": "",
@@ -2172,7 +2705,9 @@
             "Humerus"
         ],
         "elementAlias": [],
-        "elementDescription": "the long bone in the upper half of your arm, between your shoulder and your elbow",
+        "elementDescription": [
+            "the long bone in the upper half of your arm, between your shoulder and your elbow"
+        ],
         "elementBetanyms": [],
         "elementInBetom": [],
         "elementProfilePic": "",
@@ -2193,7 +2728,9 @@
             "Forearm"
         ],
         "elementAlias": [],
-        "elementDescription": "the lower part of the arm, between the wrist and the elbow ",
+        "elementDescription": [
+            "the lower part of the arm, between the wrist and the elbow "
+        ],
         "elementBetanyms": [],
         "elementInBetom": [],
         "elementProfilePic": "",
@@ -2214,7 +2751,9 @@
             "Hand"
         ],
         "elementAlias": [],
-        "elementDescription": "the part of the body at the end of the arm that is used for holding, moving, touching, and feeling things",
+        "elementDescription": [
+            "the part of the body at the end of the arm that is used for holding, moving, touching, and feeling things"
+        ],
         "elementBetanyms": [],
         "elementInBetom": [],
         "elementProfilePic": "",
@@ -2236,7 +2775,9 @@
             "Thumb"
         ],
         "elementAlias": [],
-        "elementDescription": "the short, thick finger on the side of your hand that makes it possible to hold and pick things up easily",
+        "elementDescription": [
+            "the short, thick finger on the side of your hand that makes it possible to hold and pick things up easily"
+        ],
         "elementBetanyms": [],
         "elementInBetom": [],
         "elementProfilePic": "",
@@ -2258,7 +2799,9 @@
             "IndexFinger"
         ],
         "elementAlias": [],
-        "elementDescription": "the finger next to the thumb",
+        "elementDescription": [
+            "the finger next to the thumb"
+        ],
         "elementBetanyms": [],
         "elementInBetom": [],
         "elementProfilePic": "",
@@ -2280,7 +2823,9 @@
             "MiddleFinger"
         ],
         "elementAlias": [],
-        "elementDescription": "the longest finger on the hand",
+        "elementDescription": [
+            "the longest finger on the hand"
+        ],
         "elementBetanyms": [],
         "elementInBetom": [],
         "elementProfilePic": "",
@@ -2302,7 +2847,9 @@
             "RingFinger"
         ],
         "elementAlias": [],
-        "elementDescription": "the longest finger on the hand",
+        "elementDescription": [
+            "the longest finger on the hand"
+        ],
         "elementBetanyms": [],
         "elementInBetom": [],
         "elementProfilePic": "",
@@ -2326,7 +2873,9 @@
         "elementAlias": [
             "little finger"
         ],
-        "elementDescription": "the smallest finger on each hand",
+        "elementDescription": [
+            "the smallest finger on each hand"
+        ],
         "elementBetanyms": [],
         "elementInBetom": [],
         "elementProfilePic": "",
@@ -2346,7 +2895,9 @@
             "Leg"
         ],
         "elementAlias": [],
-        "elementDescription": "one of the parts of the body of a human or animal that is used for standing or walking",
+        "elementDescription": [
+            "one of the parts of the body of a human or animal that is used for standing or walking"
+        ],
         "elementBetanyms": [],
         "elementInBetom": [],
         "elementProfilePic": "",
@@ -2367,7 +2918,9 @@
             "Hips"
         ],
         "elementAlias": [],
-        "elementDescription": "the area below the waist and above the legs at either side of the body, or the joint that connects the leg to the upper part of the body",
+        "elementDescription": [
+            "the area below the waist and above the legs at either side of the body, or the joint that connects the leg to the upper part of the body"
+        ],
         "elementBetanyms": [],
         "elementInBetom": [],
         "elementProfilePic": "",
@@ -2390,7 +2943,9 @@
         "elementAlias": [
             "thighbone"
         ],
-        "elementDescription": "the long bone in the upper part of the leg",
+        "elementDescription": [
+            "the long bone in the upper part of the leg"
+        ],
         "elementBetanyms": [],
         "elementInBetom": [],
         "elementProfilePic": "",
@@ -2414,7 +2969,9 @@
             "shin",
             "shinbone"
         ],
-        "elementDescription": "the large bone at the front of the lower leg",
+        "elementDescription": [
+            "the large bone at the front of the lower leg"
+        ],
         "elementBetanyms": [],
         "elementInBetom": [],
         "elementProfilePic": "",
@@ -2435,7 +2992,9 @@
             "Foot"
         ],
         "elementAlias": [],
-        "elementDescription": "the part of the body at the bottom of the leg on which a person or animal stands",
+        "elementDescription": [
+            "the part of the body at the bottom of the leg on which a person or animal stands"
+        ],
         "elementBetanyms": [],
         "elementInBetom": [],
         "elementProfilePic": "",
@@ -2454,7 +3013,9 @@
             "Physiology"
         ],
         "elementAlias": [],
-        "elementDescription": "the scientific study of the way in which the bodies of animals work",
+        "elementDescription": [
+            "the scientific study of the way in which the bodies of animals work"
+        ],
         "elementBetanyms": [],
         "elementInBetom": [],
         "elementProfilePic": "",
@@ -2474,7 +3035,9 @@
             "Endurance"
         ],
         "elementAlias": [],
-        "elementDescription": "used to describe sports or activities that demand the ability to make a lot of physical effort over a long period of time",
+        "elementDescription": [
+            "used to describe sports or activities that demand the ability to make a lot of physical effort over a long period of time"
+        ],
         "elementBetanyms": [],
         "elementInBetom": [],
         "elementProfilePic": "",
@@ -2497,7 +3060,9 @@
             "flexibility",
             "limberness"
         ],
-        "elementDescription": "the quality of being able to bend easily or be bent easily",
+        "elementDescription": [
+            "the quality of being able to bend easily or be bent easily"
+        ],
         "elementBetanyms": [],
         "elementInBetom": [],
         "elementProfilePic": "",
@@ -2517,7 +3082,9 @@
             "Strength"
         ],
         "elementAlias": [],
-        "elementDescription": "the degree to which something is strong or powerful",
+        "elementDescription": [
+            "the degree to which something is strong or powerful"
+        ],
         "elementBetanyms": [],
         "elementInBetom": [],
         "elementProfilePic": "",
@@ -2537,7 +3104,9 @@
             "InjuryPrevention"
         ],
         "elementAlias": [],
-        "elementDescription": "physical harm or damage to someone's body caused by an accident",
+        "elementDescription": [
+            "physical harm or damage to someone's body caused by an accident"
+        ],
         "elementBetanyms": [],
         "elementInBetom": [],
         "elementProfilePic": "",
@@ -2556,7 +3125,9 @@
             "Nutrition"
         ],
         "elementAlias": [],
-        "elementDescription": "the substances that you take into your body as food and the way that they influence your health and athletic performance",
+        "elementDescription": [
+            "the substances that you take into your body as food and the way that they influence your health and athletic performance"
+        ],
         "elementBetanyms": [],
         "elementInBetom": [],
         "elementProfilePic": "",
@@ -2577,7 +3148,9 @@
             "Gym"
         ],
         "elementAlias": [],
-        "elementDescription": "an indoor facility with artificial walls featuring textured panels and plasts, designed for rock climbing, bouldering, and training in a safe, controlled environment",
+        "elementDescription": [
+            "an indoor facility with artificial walls featuring textured panels and plasts, designed for rock climbing, bouldering, and training in a safe, controlled environment"
+        ],
         "elementBetanyms": [],
         "elementInBetom": [],
         "elementProfilePic": "",
@@ -2598,7 +3171,9 @@
             "Sediment"
         ],
         "elementAlias": [],
-        "elementDescription": "solid material, such as dirt or minerals, that falls to the bottom of a liquid",
+        "elementDescription": [
+            "solid material, such as dirt or minerals, that falls to the bottom of a liquid"
+        ],
         "elementBetanyms": [],
         "elementInBetom": [],
         "elementProfilePic": "",
@@ -2617,7 +3192,9 @@
             "Material"
         ],
         "elementAlias": [],
-        "elementDescription": "solid material, such as dirt or minerals, that falls to the bottom of a liquid",
+        "elementDescription": [
+            "solid material, such as dirt or minerals, that falls to the bottom of a liquid"
+        ],
         "elementBetanyms": [],
         "elementInBetom": [],
         "elementProfilePic": "",
@@ -2637,7 +3214,9 @@
             "Pedosfera",
             "MineralSoil"
         ],
-        "elementDescription": [""],
+        "elementDescription": [
+            "the layer of soil which must entirely surround a seedling's roots"
+        ],
         "elementBetanyms": [],
         "elementInBetom": [],
         "elementProfilePic": "",
@@ -2647,7 +3226,7 @@
             "elementQuote": []
         }
     },
-    "Soil": {
+    "Pedosfera": {
         "elementEnglishName": "Soil",
         "elementFaktor": "Ekos",
         "elementID": "",
@@ -2659,7 +3238,9 @@
             "Ekosfera",
             "Pedosfera"
         ],
-        "elementDescription": [""],
+        "elementDescription": [
+            "the part of Earth which is composed of soil"
+        ],
         "elementBetanyms": [],
         "elementInBetom": [],
         "elementProfilePic": "",
@@ -2682,7 +3263,9 @@
         "elementAlias": [
             "soil fibre"
         ],
-        "elementDescription": [""],
+        "elementDescription": [
+            " composed largely of relatively undecomposed fibric organic material"
+        ],
         "elementBetanyms": [],
         "elementInBetom": [],
         "elementProfilePic": "",
@@ -2703,7 +3286,9 @@
             "IceSoil"
         ],
         "elementAlias": [],
-        "elementDescription": [""],
+        "elementDescription": [
+            "frozen soil, with or without visible ice crystals"
+        ],
         "elementBetanyms": [],
         "elementInBetom": [],
         "elementProfilePic": "",
@@ -2724,9 +3309,11 @@
             "SoilFiber"
         ],
         "elementAlias": [
-            "soil fibre"
+            "non-smearable soil"
         ],
-        "elementDescription": [""],
+        "elementDescription": [
+            "The least decomposed of all organic materials; large amounts of well-preserved fiber(s) are present that are readily identifiable as to their botanical origin. Fibers retain their character upon rubbing."
+        ],
         "elementBetanyms": [],
         "elementInBetom": [],
         "elementProfilePic": "",
@@ -2749,7 +3336,9 @@
         "elementAlias": [
             "soil fibre"
         ],
-        "elementDescription": [""],
+        "elementDescription": [
+            "Highly decomposed organic material; small amounts of fiber are present that can be identified as to their botanical origin. Fibers can be easily destroyed by rubbing"
+        ],
         "elementBetanyms": [],
         "elementInBetom": [],
         "elementProfilePic": "",
@@ -2772,7 +3361,9 @@
         "elementAlias": [
             "soil fibre"
         ],
-        "elementDescription": [""],
+        "elementDescription": [
+            "Organic material in an intermediate stage of decomposition; intermediate amounts of fiber are present that can be identified as to their botanical origin"
+        ],
         "elementBetanyms": [],
         "elementInBetom": [],
         "elementProfilePic": "",
@@ -2794,9 +3385,11 @@
             "WoodySoil"
         ],
         "elementAlias": [
-            "soil fibre"
+            "red rot"
         ],
-        "elementDescription": [""],
+        "elementDescription": [
+            "Organic material containing more than 50% woody fibers"
+        ],
         "elementBetanyms": [],
         "elementInBetom": [],
         "elementProfilePic": "",
@@ -2816,8 +3409,14 @@
             "Pedosfera",
             "WetSoil"
         ],
-        "elementAlias": [],
-        "elementDescription": [""],
+        "elementAlias": [
+            "muck",
+            "black muck",
+            "mud"
+        ],
+        "elementDescription": [
+            "a rich, dark, highly organic soil formed from decomposed plant matter in wet areas like swamp"
+        ],
         "elementBetanyms": [],
         "elementInBetom": [],
         "elementProfilePic": "",
@@ -2838,9 +3437,11 @@
             "SoilSize"
         ],
         "elementAlias": [
-            "grain size"
+            "particle size"
         ],
-        "elementDescription": [""],
+        "elementDescription": [
+            "he fundamental mineral components of soil, primarily categorized by size"
+        ],
         "elementBetanyms": [],
         "elementInBetom": [],
         "elementProfilePic": "",
@@ -2863,7 +3464,9 @@
         "elementAlias": [
             "soil fibre"
         ],
-        "elementDescription": [""],
+        "elementDescription": [
+            "An accumulation of particles where the fine earth fraction contains 35% or more clay (≤0.002 mm) by weight and particles greater than 2 mm are less than 35% by volume"
+        ],
         "elementBetanyms": [],
         "elementInBetom": [],
         "elementProfilePic": "",
@@ -2886,7 +3489,9 @@
         "elementAlias": [
             "soil fibre"
         ],
-        "elementDescription": [""],
+        "elementDescription": [
+            "An accumulation of rounded particles greater than 256 mm in size"
+        ],
         "elementBetanyms": [],
         "elementInBetom": [],
         "elementProfilePic": "",
@@ -2909,7 +3514,9 @@
         "elementAlias": [
             "soil fibre"
         ],
-        "elementDescription": [""],
+        "elementDescription": [
+            "An accumulation of rounded particles having a diameter of 64-256 mm."
+        ],
         "elementBetanyms": [],
         "elementInBetom": [],
         "elementProfilePic": "",
@@ -2932,7 +3539,9 @@
         "elementAlias": [
             "soil fibre"
         ],
-        "elementDescription": [""],
+        "elementDescription": [
+            "An accumulation of rounded particles having a diameter of 2-64 mm"
+        ],
         "elementBetanyms": [],
         "elementInBetom": [],
         "elementProfilePic": "",
@@ -2955,7 +3564,9 @@
         "elementAlias": [
             "soil fibre"
         ],
-        "elementDescription": [""],
+        "elementDescription": [
+            "An accumulation of angular fragments having a diameter of 2-256 mm"
+        ],
         "elementBetanyms": [],
         "elementInBetom": [],
         "elementProfilePic": "",
@@ -2978,7 +3589,9 @@
         "elementAlias": [
             "soil fibre"
         ],
-        "elementDescription": [""],
+        "elementDescription": [
+            "An accumulation of particles of which the fine earth fraction contains more than 70% by weight of fine sand or coarser particles. Particles greater than 2 mm occupy less than 35% by volume"
+        ],
         "elementBetanyms": [],
         "elementInBetom": [],
         "elementProfilePic": "",
@@ -3001,7 +3614,9 @@
         "elementAlias": [
             "soil fibre"
         ],
-        "elementDescription": [""],
+        "elementDescription": [
+            "An accumulation of particles of which the fine earth fraction contains less than 15% of fine sand or coarser particles and has less than 35% clay. Particles greater than 2 mm occupy less than 35% by volume"
+        ],
         "elementBetanyms": [],
         "elementInBetom": [],
         "elementProfilePic": "",
@@ -3021,7 +3636,9 @@
             "Natural"
         ],
         "elementAlias": [],
-        "elementDescription": "as found in nature and not involving anything made or done by people",
+        "elementDescription": [
+            "as found in nature and not involving anything made or done by people"
+        ],
         "elementBetanyms": [],
         "elementInBetom": [],
         "elementProfilePic": "",
@@ -3041,7 +3658,9 @@
             "Litosfera"
         ],
         "elementAlias": [],
-        "elementDescription": "the solid outer layer of a planet",
+        "elementDescription": [
+            "the solid outer layer of a planet"
+        ],
         "elementBetanyms": [],
         "elementInBetom": [],
         "elementProfilePic": "",
@@ -3061,7 +3680,9 @@
             "Hydrosfera"
         ],
         "elementAlias": [],
-        "elementDescription": "all of the water, ice, and water vapor at or near the surface of a planet",
+        "elementDescription": [
+            "all of the water, ice, and water vapor at or near the surface of a planet"
+        ],
         "elementBetanyms": [],
         "elementInBetom": [],
         "elementProfilePic": "",
@@ -3071,18 +3692,20 @@
             "elementQuote": []
         }
     },
-    "Condensation": {
-        "elementEnglishName": "Condensation",
+    "Dew": {
+        "elementEnglishName": "Dew",
         "elementFaktor": "Ekos",
         "elementID": "",
         "elementTaxonomy": [
             "Ekos",
             "Ekosfera",
             "Hydrosfera",
-            "Condensation"
+            "Dew"
         ],
         "elementAlias": [],
-        "elementDescription": [""],
+        "elementDescription": [
+            "tiny drops of water that form when atmospheric water condenses on cool surfaces"
+        ],
         "elementBetanyms": [],
         "elementInBetom": [],
         "elementProfilePic": "",
@@ -3103,7 +3726,9 @@
             "GroundWater"
         ],
         "elementAlias": [],
-        "elementDescription": [""],
+        "elementDescription": [
+            "fresh water found beneath the Earth's surface, filling the cracks, pores, and spaces in soil, sand, and rock formations, forming underground reservoirs called aquifers"
+        ],
         "elementBetanyms": [],
         "elementInBetom": [],
         "elementProfilePic": "",
@@ -3124,7 +3749,9 @@
             "MovingWater"
         ],
         "elementAlias": [],
-        "elementDescription": [""],
+        "elementDescription": [
+            "water that is flowing "
+        ],
         "elementBetanyms": [],
         "elementInBetom": [],
         "elementProfilePic": "",
@@ -3144,8 +3771,13 @@
             "Hydrosfera",
             "StagnantWater"
         ],
-        "elementAlias": [],
-        "elementDescription": [""],
+        "elementAlias": [
+            "pond",
+            "puddle"
+        ],
+        "elementDescription": [
+            "water that is not flowing"
+        ],
         "elementBetanyms": [],
         "elementInBetom": [],
         "elementProfilePic": "",
@@ -3166,7 +3798,9 @@
             "Wetness"
         ],
         "elementAlias": [],
-        "elementDescription": [""],
+        "elementDescription": [
+            "the state or condition of being covered or saturated with water"
+        ],
         "elementBetanyms": [],
         "elementInBetom": [],
         "elementProfilePic": "",
@@ -3187,7 +3821,9 @@
             "RockCap"
         ],
         "elementAlias": [],
-        "elementDescription": [""],
+        "elementDescription": [
+            "large areas of rock that has no soil on top of it"
+        ],
         "elementBetanyms": [],
         "elementInBetom": [],
         "elementProfilePic": "",
@@ -3208,7 +3844,9 @@
             "Ice"
         ],
         "elementAlias": [],
-        "elementDescription": "frozen water",
+        "elementDescription": [
+            "frozen water"
+        ],
         "elementBetanyms": [],
         "elementInBetom": [],
         "elementProfilePic": "",
@@ -3229,7 +3867,9 @@
             "Water"
         ],
         "elementAlias": [],
-        "elementDescription": "a clear liquid, without color or taste, that falls from the sky as rain",
+        "elementDescription": [
+            "a clear liquid, without color or taste, that falls from the sky as rain"
+        ],
         "elementBetanyms": [],
         "elementInBetom": [],
         "elementProfilePic": "",
@@ -3250,7 +3890,9 @@
             "Snow"
         ],
         "elementAlias": [],
-        "elementDescription": "the small, soft, white pieces of ice that sometimes fall from the sky when it is cold, or the white layer on the ground and other surfaces that it forms",
+        "elementDescription": [
+            "the small, soft, white pieces of ice that sometimes fall from the sky when it is cold, or the white layer on the ground and other surfaces that it forms"
+        ],
         "elementBetanyms": [],
         "elementInBetom": [],
         "elementProfilePic": "",
@@ -3271,7 +3913,9 @@
             "Rain"
         ],
         "elementAlias": [],
-        "elementDescription": "drops of water from clouds",
+        "elementDescription": [
+            "drops of water from clouds"
+        ],
         "elementBetanyms": [],
         "elementInBetom": [],
         "elementProfilePic": "",
@@ -3292,7 +3936,9 @@
             "Plant"
         ],
         "elementAlias": [],
-        "elementDescription": "a living thing that grows in earth, in water, or on other plants, usually has a stem, leaves, roots, and flowers, and produces seeds",
+        "elementDescription": [
+            "a living thing that grows in earth, in water, or on other plants, usually has a stem, leaves, roots, and flowers, and produces seeds"
+        ],
         "elementBetanyms": [],
         "elementInBetom": [],
         "elementProfilePic": "",
@@ -3315,7 +3961,9 @@
             "Bush"
         ],
         "elementAlias": [],
-        "elementDescription": "a plant with many small branches growing either directly from the ground or from a hard stem, giving the plant a rounded shape",
+        "elementDescription": [
+            "a plant with many small branches growing either directly from the ground or from a hard stem, giving the plant a rounded shape"
+        ],
         "elementBetanyms": [],
         "elementInBetom": [],
         "elementProfilePic": "",
@@ -3338,7 +3986,9 @@
             "Poales"
         ],
         "elementAlias": [],
-        "elementDescription": "a low, green plant that grows naturally over a lot of the earth's surface, having groups of very thin leaves that grow close together in large numbers",
+        "elementDescription": [
+            "a low, green plant that grows naturally over a lot of the earth's surface, having groups of very thin leaves that grow close together in large numbers"
+        ],
         "elementBetanyms": [],
         "elementInBetom": [],
         "elementProfilePic": "",
@@ -3358,7 +4008,9 @@
             "Biosfera"
         ],
         "elementAlias": [],
-        "elementDescription": [""],
+        "elementDescription": [
+            "the parts of Earth that are alive"
+        ],
         "elementBetanyms": [],
         "elementInBetom": [],
         "elementProfilePic": "",
@@ -3380,7 +4032,9 @@
             "Moss"
         ],
         "elementAlias": [],
-        "elementDescription": "a very small, green or yellow plant that grows especially in wet earth or on rocks, walls, and tree trunks",
+        "elementDescription": [
+            "a very small, green or yellow plant that grows especially in wet earth or on rocks, walls, and tree trunks"
+        ],
         "elementBetanyms": [],
         "elementInBetom": [],
         "elementProfilePic": "",
@@ -3402,7 +4056,9 @@
             "Dendron"
         ],
         "elementAlias": [],
-        "elementDescription": "a tall plant that has a wooden trunk and branches that grow from its upper part",
+        "elementDescription": [
+            "a tree which is cultivated"
+        ],
         "elementBetanyms": [],
         "elementInBetom": [],
         "elementProfilePic": "",
@@ -3424,8 +4080,13 @@
             "Dendron",
             "Larix"
         ],
-        "elementAlias": [],
-        "elementDescription": [""],
+        "elementAlias": [
+            "larch",
+            "tamarack"
+        ],
+        "elementDescription": [
+            "a larch tree which is cultivated"
+        ],
         "elementBetanyms": [],
         "elementInBetom": [],
         "elementProfilePic": "",
@@ -3447,8 +4108,13 @@
             "Dendron",
             "Picea"
         ],
-        "elementAlias": [],
-        "elementDescription": [""],
+        "elementAlias": [
+            "spruce"
+        ],
+        "elementDescription": [
+            "a spruce tree which is cultivated",
+            "spruce trees have sharply pointed needles"
+        ],
         "elementBetanyms": [],
         "elementInBetom": [],
         "elementProfilePic": "",
@@ -3470,8 +4136,13 @@
             "Dendron",
             "Pseudotsuga"
         ],
-        "elementAlias": [],
-        "elementDescription": [""],
+        "elementAlias": [
+            "fir",
+            "douglas fir"
+        ],
+        "elementDescription": [
+            "a douglas fir tree which is cultivated"
+        ],
         "elementBetanyms": [],
         "elementInBetom": [],
         "elementProfilePic": "",
@@ -3493,8 +4164,12 @@
             "Dendron",
             "Pinus"
         ],
-        "elementAlias": [],
-        "elementDescription": [""],
+        "elementAlias": [
+            "pine"
+        ],
+        "elementDescription": [
+            "a pine tree which is cultivated"
+        ],
         "elementBetanyms": [],
         "elementInBetom": [],
         "elementProfilePic": "",
@@ -3516,8 +4191,12 @@
             "Dendron",
             "Quercus"
         ],
-        "elementAlias": [],
-        "elementDescription": [""],
+        "elementAlias": [
+            "oak"
+        ],
+        "elementDescription": [
+            "an oak tree which is cultivated"
+        ],
         "elementBetanyms": [],
         "elementInBetom": [],
         "elementProfilePic": "",
@@ -3539,8 +4218,12 @@
             "Dendron",
             "Tsuga"
         ],
-        "elementAlias": [],
-        "elementDescription": [""],
+        "elementAlias": [
+            "hemlock"
+        ],
+        "elementDescription": [
+            "a hemlock tree which is cultivated"
+        ],
         "elementBetanyms": [],
         "elementInBetom": [],
         "elementProfilePic": "",
@@ -3562,8 +4245,12 @@
             "Dendron",
             "Thuja"
         ],
-        "elementAlias": [],
-        "elementDescription": [""],
+        "elementAlias": [
+            "cedar"
+        ],
+        "elementDescription": [
+            "a cedar tree which is cultivated"
+        ],
         "elementBetanyms": [],
         "elementInBetom": [],
         "elementProfilePic": "",
@@ -3585,8 +4272,12 @@
             "Flora",
             "Abies"
         ],
-        "elementAlias": [],
-        "elementDescription": [""],
+        "elementAlias": [
+            "balsam"
+        ],
+        "elementDescription": [
+            "a balsam fir"
+        ],
         "elementBetanyms": [],
         "elementInBetom": [],
         "elementProfilePic": "",
@@ -3608,8 +4299,12 @@
             "Flora",
             "Bryophyta"
         ],
-        "elementAlias": [],
-        "elementDescription": [""],
+        "elementAlias": [
+            "moss"
+        ],
+        "elementDescription": [
+            "Unlike most other plants, mosses lack true roots, woody tissue, and specialized water-conducting tissues (xylem and phloem), which is why they generally grow low to the ground and in damp environments"
+        ],
         "elementBetanyms": [],
         "elementInBetom": [],
         "elementProfilePic": "",
@@ -3632,7 +4327,9 @@
             "BurntFlora"
         ],
         "elementAlias": [],
-        "elementDescription": [""],
+        "elementDescription": [
+            "any plants which were burnt in a wildfire"
+        ],
         "elementBetanyms": [],
         "elementInBetom": [],
         "elementProfilePic": "",
@@ -3655,7 +4352,9 @@
             "Flower"
         ],
         "elementAlias": [],
-        "elementDescription": [""],
+        "elementDescription": [
+            "a flower"
+        ],
         "elementBetanyms": [],
         "elementInBetom": [],
         "elementProfilePic": "",
@@ -3678,7 +4377,9 @@
             "Log"
         ],
         "elementAlias": [],
-        "elementDescription": [""],
+        "elementDescription": [
+            "a part of the trunk or a large branch of a tree that has fallen or been cut off."
+        ],
         "elementBetanyms": [],
         "elementInBetom": [],
         "elementProfilePic": "",
@@ -3699,7 +4400,9 @@
             "Stump"
         ],
         "elementAlias": [],
-        "elementDescription": [""],
+        "elementDescription": [
+            "the bottom part of a tree left projecting from the ground after most of the trunk has fallen or been cut down"
+        ],
         "elementBetanyms": [],
         "elementInBetom": [],
         "elementProfilePic": "",
@@ -3720,7 +4423,9 @@
             "Rock"
         ],
         "elementAlias": [],
-        "elementDescription": "the dry solid part of the earth's surface, or any large piece of this that sticks up out of the ground",
+        "elementDescription": [
+            "the dry solid part of the earth's surface, or any large piece of this that sticks up out of the ground"
+        ],
         "elementBetanyms": [],
         "elementInBetom": [],
         "elementProfilePic": "",
@@ -3742,7 +4447,9 @@
             "Granite"
         ],
         "elementAlias": [],
-        "elementDescription": "is a coarse-grained, intrusive igneous rock composed primarily of quartz and feldspars. ",
+        "elementDescription": [
+            "is a coarse-grained, intrusive igneous rock composed primarily of quartz and feldspars. "
+        ],
         "elementBetanyms": [],
         "elementInBetom": [],
         "elementProfilePic": "",
@@ -3764,7 +4471,9 @@
             "Limestone"
         ],
         "elementAlias": [],
-        "elementDescription": "a sedimentary rock consisting predominantly of calcium carbonate, primarily in the form of the mineral calcite or aragonite. It is defined geologically as a rock containing at least 50% calcium carbonate. ",
+        "elementDescription": [
+            "a sedimentary rock consisting predominantly of calcium carbonate, primarily in the form of the mineral calcite or aragonite. It is defined geologically as a rock containing at least 50% calcium carbonate. "
+        ],
         "elementBetanyms": [],
         "elementInBetom": [],
         "elementProfilePic": "",
@@ -3786,7 +4495,9 @@
             "Sandstone"
         ],
         "elementAlias": [],
-        "elementDescription": "a clastic sedimentary rock composed primarily of sand-sized mineral or rock grains (specifically, particles between 0.0625 mm and 2 mm in diameter) that have been naturally cemented together",
+        "elementDescription": [
+            "a clastic sedimentary rock composed primarily of sand-sized mineral or rock grains (specifically, particles between 0.0625 mm and 2 mm in diameter) that have been naturally cemented together"
+        ],
         "elementBetanyms": [],
         "elementInBetom": [],
         "elementProfilePic": "",
@@ -3808,7 +4519,9 @@
             "Basalt"
         ],
         "elementAlias": [],
-        "elementDescription": "a dark-colored, fine-grained, extrusive igneous rock that forms from the rapid cooling of magnesium-rich and iron-rich (mafic) lava at or very near a planet's surface. It is the most common volcanic rock type on Earth, making up most of the oceanic crust",
+        "elementDescription": [
+            "a dark-colored, fine-grained, extrusive igneous rock that forms from the rapid cooling of magnesium-rich and iron-rich (mafic) lava at or very near a planet's surface. It is the most common volcanic rock type on Earth, making up most of the oceanic crust"
+        ],
         "elementBetanyms": [],
         "elementInBetom": [],
         "elementProfilePic": "",
@@ -3828,7 +4541,9 @@
             "Atmosfera"
         ],
         "elementAlias": [],
-        "elementDescription": "a mixture of gases that surrounds Earth",
+        "elementDescription": [
+            "a mixture of gases that surrounds Earth"
+        ],
         "elementBetanyms": [],
         "elementInBetom": [],
         "elementProfilePic": "",
@@ -3849,7 +4564,9 @@
             "AirTemperature"
         ],
         "elementAlias": [],
-        "elementDescription": "a measure of how hot or cold the atmosfera is, which is determined by the average thermal energy of air molecules",
+        "elementDescription": [
+            "a measure of how hot or cold the atmosfera is, which is determined by the average thermal energy of air molecules"
+        ],
         "elementBetanyms": [],
         "elementInBetom": [],
         "elementProfilePic": "",
@@ -3870,7 +4587,9 @@
             "Humidity"
         ],
         "elementAlias": [],
-        "elementDescription": " containing extremely small drops of water in the air",
+        "elementDescription": [
+            " containing extremely small drops of water in the air"
+        ],
         "elementBetanyms": [],
         "elementInBetom": [],
         "elementProfilePic": "",
@@ -3888,10 +4607,226 @@
             "Ekos",
             "Ekosfera",
             "Atmosfera",
+            "Particulates",
             "Smoke"
         ],
         "elementAlias": [],
-        "elementDescription": "the grey, black, or white mixture of gas and very small pieces of carbon that is produced when something burns",
+        "elementDescription": [
+            "the grey, black, or white mixture of gas and very small pieces of carbon that is produced when something burns"
+        ],
+        "elementBetanyms": [],
+        "elementInBetom": [],
+        "elementProfilePic": "",
+        "elementExample": {
+            "elementVideo": [],
+            "elementImage": [],
+            "elementQuote": []
+        }
+    },
+    "Ash": {
+        "elementEnglishName": "Ash",
+        "elementFaktor": "Ekos",
+        "elementID": "",
+        "elementTaxonomy": [
+            "Ekos",
+            "Ekosfera",
+            "Atmosfera",
+            "Particulates",
+            "Ash"
+        ],
+        "elementAlias": [],
+        "elementDescription": [
+            ""
+        ],
+        "elementBetanyms": [],
+        "elementInBetom": [],
+        "elementProfilePic": "",
+        "elementExample": {
+            "elementVideo": [],
+            "elementImage": [],
+            "elementQuote": []
+        }
+    },
+    "Dust": {
+        "elementEnglishName": "Dust",
+        "elementFaktor": "Ekos",
+        "elementID": "",
+        "elementTaxonomy": [
+            "Ekos",
+            "Ekosfera",
+            "Atmosfera",
+            "Particulates",
+            "Dust"
+        ],
+        "elementAlias": [],
+        "elementDescription": [
+            ""
+        ],
+        "elementBetanyms": [],
+        "elementInBetom": [],
+        "elementProfilePic": "",
+        "elementExample": {
+            "elementVideo": [],
+            "elementImage": [],
+            "elementQuote": []
+        }
+    },
+    "Pollen": {
+        "elementEnglishName": "Pollen",
+        "elementFaktor": "Ekos",
+        "elementID": "",
+        "elementTaxonomy": [
+            "Ekos",
+            "Ekosfera",
+            "Atmosfera",
+            "Particulates",
+            "Pollen"
+        ],
+        "elementAlias": [],
+        "elementDescription": [
+            ""
+        ],
+        "elementBetanyms": [],
+        "elementInBetom": [],
+        "elementProfilePic": "",
+        "elementExample": {
+            "elementVideo": [],
+            "elementImage": [],
+            "elementQuote": []
+        }
+    },
+    "Spores": {
+        "elementEnglishName": "Spores",
+        "elementFaktor": "Ekos",
+        "elementID": "",
+        "elementTaxonomy": [
+            "Ekos",
+            "Ekosfera",
+            "Atmosfera",
+            "Particulates",
+            "Spores"
+        ],
+        "elementAlias": [],
+        "elementDescription": [
+            ""
+        ],
+        "elementBetanyms": [],
+        "elementInBetom": [],
+        "elementProfilePic": "",
+        "elementExample": {
+            "elementVideo": [],
+            "elementImage": [],
+            "elementQuote": []
+        }
+    },
+    "Particulates": {
+        "elementEnglishName": "Particulates",
+        "elementFaktor": "Ekos",
+        "elementID": "",
+        "elementTaxonomy": [
+            "Ekos",
+            "Ekosfera",
+            "Atmosfera",
+            "Particulates"
+        ],
+        "elementAlias": [],
+        "elementDescription": [
+            ""
+        ],
+        "elementBetanyms": [],
+        "elementInBetom": [],
+        "elementProfilePic": "",
+        "elementExample": {
+            "elementVideo": [],
+            "elementImage": [],
+            "elementQuote": []
+        }
+    },
+    "Precipitation": {
+        "elementEnglishName": "Precipitation",
+        "elementFaktor": "Ekos",
+        "elementID": "",
+        "elementTaxonomy": [
+            "Ekos",
+            "Ekosfera",
+            "Atmosfera",
+            "Precipitation"
+        ],
+        "elementAlias": [],
+        "elementDescription": [
+            ""
+        ],
+        "elementBetanyms": [],
+        "elementInBetom": [],
+        "elementProfilePic": "",
+        "elementExample": {
+            "elementVideo": [],
+            "elementImage": [],
+            "elementQuote": []
+        }
+    },
+    "Fog": {
+        "elementEnglishName": "Fog",
+        "elementFaktor": "Ekos",
+        "elementID": "",
+        "elementTaxonomy": [
+            "Ekos",
+            "Ekosfera",
+            "Atmosfera",
+            "Precipitation",
+            "Fog"
+        ],
+        "elementAlias": [],
+        "elementDescription": [
+            ""
+        ],
+        "elementBetanyms": [],
+        "elementInBetom": [],
+        "elementProfilePic": "",
+        "elementExample": {
+            "elementVideo": [],
+            "elementImage": [],
+            "elementQuote": []
+        }
+    },
+    "Hail": {
+        "elementEnglishName": "Hail",
+        "elementFaktor": "Ekos",
+        "elementID": "",
+        "elementTaxonomy": [
+            "Ekos",
+            "Ekosfera",
+            "Atmosfera",
+            "Precipitation",
+            "Hail"
+        ],
+        "elementAlias": [],
+        "elementDescription": [
+            ""
+        ],
+        "elementBetanyms": [],
+        "elementInBetom": [],
+        "elementProfilePic": "",
+        "elementExample": {
+            "elementVideo": [],
+            "elementImage": [],
+            "elementQuote": []
+        }
+    },
+    "Sun": {
+        "elementEnglishName": "Sun",
+        "elementFaktor": "Ekos",
+        "elementID": "",
+        "elementTaxonomy": [
+            "Ekos",
+            "Ekosfera",
+            "Atmosfera",
+            "Sun"
+        ],
+        "elementAlias": [],
+        "elementDescription": [
+            ""
+        ],
         "elementBetanyms": [],
         "elementInBetom": [],
         "elementProfilePic": "",
@@ -3912,7 +4847,149 @@
             "Animal"
         ],
         "elementAlias": [],
-        "elementDescription": "anything that lives and moves, including people, birds, etc.",
+        "elementDescription": [
+            "anything that lives and moves, including people, birds, etc."
+        ],
+        "elementBetanyms": [],
+        "elementInBetom": [],
+        "elementProfilePic": "",
+        "elementExample": {
+            "elementVideo": [],
+            "elementImage": [],
+            "elementQuote": []
+        }
+    },
+    "Ant": {
+        "elementEnglishName": "Ant",
+        "elementFaktor": "Ekos",
+        "elementID": "",
+        "elementTaxonomy": [
+            "Ekos",
+            "Ekosfera",
+            "Biosfera",
+            "Animal",
+            "Ant"
+        ],
+        "elementAlias": [],
+        "elementDescription": [
+            ""
+        ],
+        "elementBetanyms": [],
+        "elementInBetom": [],
+        "elementProfilePic": "",
+        "elementExample": {
+            "elementVideo": [],
+            "elementImage": [],
+            "elementQuote": []
+        }
+    },
+    "Bear": {
+        "elementEnglishName": "Bear",
+        "elementFaktor": "Ekos",
+        "elementID": "",
+        "elementTaxonomy": [
+            "Ekos",
+            "Ekosfera",
+            "Biosfera",
+            "Animal",
+            "Bear"
+        ],
+        "elementAlias": [],
+        "elementDescription": [
+            ""
+        ],
+        "elementBetanyms": [],
+        "elementInBetom": [],
+        "elementProfilePic": "",
+        "elementExample": {
+            "elementVideo": [],
+            "elementImage": [],
+            "elementQuote": []
+        }
+    },
+    "Cow": {
+        "elementEnglishName": "Cow",
+        "elementFaktor": "Ekos",
+        "elementID": "",
+        "elementTaxonomy": [
+            "Ekos",
+            "Ekosfera",
+            "Biosfera",
+            "Animal",
+            "Cow"
+        ],
+        "elementAlias": [],
+        "elementDescription": [
+            ""
+        ],
+        "elementBetanyms": [],
+        "elementInBetom": [],
+        "elementProfilePic": "",
+        "elementExample": {
+            "elementVideo": [],
+            "elementImage": [],
+            "elementQuote": []
+        }
+    },
+    "Flies": {
+        "elementEnglishName": "Flies",
+        "elementFaktor": "Ekos",
+        "elementID": "",
+        "elementTaxonomy": [
+            "Ekos",
+            "Ekosfera",
+            "Biosfera",
+            "Animal",
+            "Flies"
+        ],
+        "elementAlias": [],
+        "elementDescription": [
+            ""
+        ],
+        "elementBetanyms": [],
+        "elementInBetom": [],
+        "elementProfilePic": "",
+        "elementExample": {
+            "elementVideo": [],
+            "elementImage": [],
+            "elementQuote": []
+        }
+    },
+    "Flora": {
+        "elementEnglishName": "Flora",
+        "elementFaktor": "Ekos",
+        "elementID": "",
+        "elementTaxonomy": [
+            "Ekos",
+            "Ekosfera",
+            "Biosfera",
+            "Flora"
+        ],
+        "elementAlias": [],
+        "elementDescription": [
+            ""
+        ],
+        "elementBetanyms": [],
+        "elementInBetom": [],
+        "elementProfilePic": "",
+        "elementExample": {
+            "elementVideo": [],
+            "elementImage": [],
+            "elementQuote": []
+        }
+    },
+    "Ekosfera": {
+        "elementEnglishName": "Ekosfera",
+        "elementFaktor": "Ekos",
+        "elementID": "",
+        "elementTaxonomy": [
+            "Ekos",
+            "Ekosfera"
+        ],
+        "elementAlias": [],
+        "elementDescription": [
+            ""
+        ],
         "elementBetanyms": [],
         "elementInBetom": [],
         "elementProfilePic": "",
@@ -3934,7 +5011,9 @@
             "Bird"
         ],
         "elementAlias": [],
-        "elementDescription": "a creature with feathers and wings, usually able to fly",
+        "elementDescription": [
+            "a creature with feathers and wings, usually able to fly"
+        ],
         "elementBetanyms": [],
         "elementInBetom": [],
         "elementProfilePic": "",
@@ -3956,29 +5035,9 @@
             "Hornet"
         ],
         "elementAlias": [],
-        "elementDescription": [""],
-        "elementBetanyms": [],
-        "elementInBetom": [],
-        "elementProfilePic": "",
-        "elementExample": {
-            "elementVideo": [],
-            "elementImage": [],
-            "elementQuote": []
-        }
-    },
-    "Insect": {
-        "elementEnglishName": "Insect",
-        "elementFaktor": "Ekos",
-        "elementID": "",
-        "elementTaxonomy": [
-            "Ekos",
-            "Ekosfera",
-            "Biosfera",
-            "Animal",
-            "Insect"
+        "elementDescription": [
+            "a large stinging flying insect which often lives underground or in dead trees"
         ],
-        "elementAlias": [],
-        "elementDescription": [""],
         "elementBetanyms": [],
         "elementInBetom": [],
         "elementProfilePic": "",
@@ -4000,7 +5059,9 @@
             "Moose"
         ],
         "elementAlias": [],
-        "elementDescription": [""],
+        "elementDescription": [
+            "a large animal with antlers"
+        ],
         "elementBetanyms": [],
         "elementInBetom": [],
         "elementProfilePic": "",
@@ -4022,7 +5083,9 @@
             "Mosquito"
         ],
         "elementAlias": [],
-        "elementDescription": "a creature with feathers and wings, usually able to fly",
+        "elementDescription": [
+            "a bloodsucking insect"
+        ],
         "elementBetanyms": [],
         "elementInBetom": [],
         "elementProfilePic": "",
@@ -4043,7 +5106,9 @@
             "Fungi"
         ],
         "elementAlias": [],
-        "elementDescription": "any of various types of organisms that get their food from decaying material or other living things",
+        "elementDescription": [
+            "any of various types of organisms that get their food from decaying material or other living things"
+        ],
         "elementBetanyms": [],
         "elementInBetom": [],
         "elementProfilePic": "",
@@ -4064,7 +5129,9 @@
             "Wind"
         ],
         "elementAlias": [],
-        "elementDescription": "a current of air moving approximately horizontally, especially one strong enough to be felt",
+        "elementDescription": [
+            "a current of air moving approximately horizontally, especially one strong enough to be felt"
+        ],
         "elementBetanyms": [],
         "elementInBetom": [],
         "elementProfilePic": "",
@@ -4083,7 +5150,9 @@
             "Klimon"
         ],
         "elementAlias": [],
-        "elementDescription": "the outer or top part or layer of something",
+        "elementDescription": [
+            "the outer or top part or layer of something"
+        ],
         "elementBetanyms": [],
         "elementInBetom": [],
         "elementProfilePic": "",
@@ -4103,7 +5172,9 @@
             "Texture"
         ],
         "elementAlias": [],
-        "elementDescription": "the quality of something that can be decided by touch",
+        "elementDescription": [
+            "the quality of something that can be decided by touch"
+        ],
         "elementBetanyms": [],
         "elementInBetom": [],
         "elementProfilePic": "",
@@ -4123,7 +5194,9 @@
             "Angle"
         ],
         "elementAlias": [],
-        "elementDescription": [""],
+        "elementDescription": [
+            "the space (usually measured in degrees) between two intersecting lines or surfaces at or close to the point where they meet."
+        ],
         "elementBetanyms": [
             "angle",
             "angle of approach",
@@ -4154,7 +5227,9 @@
             "Abduction"
         ],
         "elementAlias": [],
-        "elementDescription": "the movement of a part of the body away from the central part of the body or from another body part",
+        "elementDescription": [
+            "the movement of a part of the body away from the central part of the body or from another body part"
+        ],
         "elementBetanyms": [],
         "elementInBetom": [],
         "elementProfilePic": "",
@@ -4175,7 +5250,9 @@
             "Adduction"
         ],
         "elementAlias": [],
-        "elementDescription": "the movement of a body part toward the midline of the body or the midline of a limb. This motion primarily occurs within the coronal (frontal) plane. ",
+        "elementDescription": [
+            "the movement of a body part toward the midline of the body or the midline of a limb. This motion primarily occurs within the coronal (frontal) plane. "
+        ],
         "elementBetanyms": [],
         "elementInBetom": [],
         "elementProfilePic": "",
@@ -4196,7 +5273,9 @@
             "Extension"
         ],
         "elementAlias": [],
-        "elementDescription": "a movement that increases the angle between two bones at a joint, or the act of straightening a limb",
+        "elementDescription": [
+            "a movement that increases the angle between two bones at a joint, or the act of straightening a limb"
+        ],
         "elementBetanyms": [],
         "elementInBetom": [],
         "elementProfilePic": "",
@@ -4217,7 +5296,9 @@
             "Flexion"
         ],
         "elementAlias": [],
-        "elementDescription": "a movement that decreases the angle between two bones at a joint, or the act of bending a limb",
+        "elementDescription": [
+            "a movement that decreases the angle between two bones at a joint, or the act of bending a limb"
+        ],
         "elementBetanyms": [],
         "elementInBetom": [],
         "elementProfilePic": "",
@@ -4238,7 +5319,9 @@
             "PerimeterLine"
         ],
         "elementAlias": [],
-        "elementDescription": "the outer edge of an area of land or the border around it",
+        "elementDescription": [
+            "the outer edge of an area of land or the border around it"
+        ],
         "elementBetanyms": [],
         "elementInBetom": [],
         "elementProfilePic": "",
@@ -4259,7 +5342,9 @@
             "StraightLine"
         ],
         "elementAlias": [],
-        "elementDescription": "moving or placed in a position that continues in one direction without bending or curving",
+        "elementDescription": [
+            "moving or placed in a position that continues in one direction without bending or curving"
+        ],
         "elementBetanyms": [],
         "elementInBetom": [],
         "elementProfilePic": "",
@@ -4279,7 +5364,9 @@
             "Position"
         ],
         "elementAlias": [],
-        "elementDescription": "an object's location relative to a reference point (origin) using coordinates, distances, and directions",
+        "elementDescription": [
+            "an object's location relative to a reference point (origin) using coordinates, distances, and directions"
+        ],
         "elementBetanyms": [
             "Position",
             "position for",
@@ -4313,7 +5400,9 @@
             "CircuitPassage"
         ],
         "elementAlias": [],
-        "elementDescription": "a path which start and finishes in the same position",
+        "elementDescription": [
+            "a path which start and finishes in the same position"
+        ],
         "elementBetanyms": [],
         "elementInBetom": [],
         "elementProfilePic": "",
@@ -4335,7 +5424,9 @@
             "BoustroPassage"
         ],
         "elementAlias": [],
-        "elementDescription": "is a style of writing in which alternate lines of writing are reversed, with letters also written in reverse, mirror-style",
+        "elementDescription": [
+            "is a style of writing in which alternate lines of writing are reversed, with letters also written in reverse, mirror-style"
+        ],
         "elementBetanyms": [],
         "elementInBetom": [],
         "elementProfilePic": "",
@@ -4357,7 +5448,9 @@
             "CircumventPath"
         ],
         "elementAlias": [],
-        "elementDescription": "to avoid something by going around it",
+        "elementDescription": [
+            "to avoid something by going around it"
+        ],
         "elementBetanyms": [],
         "elementInBetom": [],
         "elementProfilePic": "",
@@ -4376,7 +5469,9 @@
             "Geometry"
         ],
         "elementAlias": [],
-        "elementDescription": "the area of mathematics relating to the study of space and the relationships between points, lines, curves, and surfaces",
+        "elementDescription": [
+            "the area of mathematics relating to the study of space and the relationships between points, lines, curves, and surfaces"
+        ],
         "elementBetanyms": [],
         "elementInBetom": [],
         "elementProfilePic": "",
@@ -4398,7 +5493,9 @@
         "elementAlias": [
             "denseness"
         ],
-        "elementDescription": "the number of people or things in a place in relation to the size of the place",
+        "elementDescription": [
+            "the number of people or things in a place in relation to the size of the place"
+        ],
         "elementBetanyms": [],
         "elementInBetom": [],
         "elementProfilePic": "",
@@ -4418,7 +5515,9 @@
             "Direction"
         ],
         "elementAlias": [],
-        "elementDescription": "the position towards which someone or something moves",
+        "elementDescription": [
+            "the position towards which someone or something moves"
+        ],
         "elementBetanyms": [
             "opposite direction",
             "other direction",
@@ -4461,7 +5560,9 @@
             "Cardinal Direction",
             "compass directions"
         ],
-        "elementDescription": "one of the four main points of the compass: north, south, east, and west",
+        "elementDescription": [
+            "one of the four main points of the compass: north, south, east, and west"
+        ],
         "elementBetanyms": [],
         "elementInBetom": [],
         "elementProfilePic": "",
@@ -4482,7 +5583,9 @@
             "RelativeDirection"
         ],
         "elementAlias": [],
-        "elementDescription": "describes location or orientation based on your own body or a nearby object, using terms like left, right, forward, backward, up, and down, as opposed to fixed compass points (north, south) which are absolute directions",
+        "elementDescription": [
+            "describes location or orientation based on your own body or a nearby object, using terms like left, right, forward, backward, up, and down, as opposed to fixed compass points (north, south) which are absolute directions"
+        ],
         "elementBetanyms": [],
         "elementInBetom": [],
         "elementProfilePic": "",
@@ -4502,7 +5605,9 @@
             "Displacement"
         ],
         "elementAlias": [],
-        "elementDescription": "the change in an object's position",
+        "elementDescription": [
+            "the change in an object's position"
+        ],
         "elementBetanyms": [],
         "elementInBetom": [],
         "elementProfilePic": "",
@@ -4522,7 +5627,9 @@
             "Distance"
         ],
         "elementAlias": [],
-        "elementDescription": "the total length of the actual path traveled by an object during its motion, irrespective of the direction of travel",
+        "elementDescription": [
+            "the total length of the actual path traveled by an object during its motion, irrespective of the direction of travel"
+        ],
         "elementBetanyms": [],
         "elementInBetom": [],
         "elementProfilePic": "",
@@ -4547,7 +5654,9 @@
             "zone",
             "area"
         ],
-        "elementDescription": "the div element serves as a versatile container for other KlimBeta elements. It doesn't inherently convey any semantic meaning about its content",
+        "elementDescription": [
+            "the div element serves as a versatile container for other KlimBeta elements. It doesn't inherently convey any semantic meaning about its content"
+        ],
         "elementBetanyms": [],
         "elementInBetom": [],
         "elementProfilePic": "",
@@ -4567,7 +5676,9 @@
             "Line"
         ],
         "elementAlias": [],
-        "elementDescription": "a long, thin mark on the surface of something",
+        "elementDescription": [
+            "a long, thin mark on the surface of something"
+        ],
         "elementBetanyms": [],
         "elementInBetom": [],
         "elementProfilePic": "",
@@ -4588,7 +5699,9 @@
             "SpiralLine"
         ],
         "elementAlias": [],
-        "elementDescription": [""],
+        "elementDescription": [
+            "winding in a continuous and gradually widening (or tightening) curve"
+        ],
         "elementBetanyms": [],
         "elementInBetom": [],
         "elementProfilePic": "",
@@ -4611,7 +5724,9 @@
             "morphology",
             "form"
         ],
-        "elementDescription": "the structure and form of animals and plants",
+        "elementDescription": [
+            "the structure and form of animals and plants"
+        ],
         "elementBetanyms": [
             "forming",
             "formless",
@@ -4637,7 +5752,9 @@
             "Orientation"
         ],
         "elementAlias": [],
-        "elementDescription": "the position of something in relation to its surroundings",
+        "elementDescription": [
+            "the position of something in relation to its surroundings"
+        ],
         "elementBetanyms": [
             "orientation"
         ],
@@ -4659,7 +5776,9 @@
             "Point"
         ],
         "elementAlias": [],
-        "elementDescription": "a fundamental, zero-dimensional object representing a precise location in space, having no size, length, or width, only position",
+        "elementDescription": [
+            "a fundamental, zero-dimensional object representing a precise location in space, having no size, length, or width, only position"
+        ],
         "elementBetanyms": [],
         "elementInBetom": [],
         "elementProfilePic": "",
@@ -4683,7 +5802,9 @@
             "central point",
             "centre point"
         ],
-        "elementDescription": [""],
+        "elementDescription": [
+            "the middle point of a circle or sphere, equidistant from every point on the circumference or surface"
+        ],
         "elementBetanyms": [
             "centrality",
             "centralized",
@@ -4710,7 +5831,9 @@
             "Reference"
         ],
         "elementAlias": [],
-        "elementDescription": [""],
+        "elementDescription": [
+            "a permanent, precisely located point used to know where you are"
+        ],
         "elementBetanyms": [],
         "elementInBetom": [],
         "elementProfilePic": "",
@@ -4731,7 +5854,9 @@
             "Reflection Point"
         ],
         "elementAlias": [],
-        "elementDescription": [""],
+        "elementDescription": [
+            "the fixed point from which a geometric figure is mirrored to create its image"
+        ],
         "elementBetanyms": [],
         "elementInBetom": [],
         "elementProfilePic": "",
@@ -4752,7 +5877,9 @@
             "TargetPoint"
         ],
         "elementAlias": [],
-        "elementDescription": [""],
+        "elementDescription": [
+            "a point toward which efforts are directed"
+        ],
         "elementBetanyms": [],
         "elementInBetom": [],
         "elementProfilePic": "",
@@ -4777,7 +5904,9 @@
             "halfway point",
             "halfway in between"
         ],
-        "elementDescription": "a fundamental, zero-dimensional object representing a precise location in space, having no size, length, or width, only position",
+        "elementDescription": [
+            "a fundamental, zero-dimensional object representing a precise location in space, having no size, length, or width, only position"
+        ],
         "elementBetanyms": [],
         "elementInBetom": [],
         "elementProfilePic": "",
@@ -4798,7 +5927,9 @@
             "Vertex"
         ],
         "elementAlias": [],
-        "elementDescription": [""],
+        "elementDescription": [
+            "each angular point of a polygon, polyhedron, or other figure"
+        ],
         "elementBetanyms": [],
         "elementInBetom": [],
         "elementProfilePic": "",
@@ -4818,7 +5949,9 @@
             "Shape"
         ],
         "elementAlias": [],
-        "elementDescription": "outline of an object. Shapes are closed by an outline or boundary, which is made up of points, lines and curves",
+        "elementDescription": [
+            "outline of an object. Shapes are closed by an outline or boundary, which is made up of points, lines and curves"
+        ],
         "elementBetanyms": [
             "shape",
             "shaped",
@@ -4843,7 +5976,9 @@
             "Logic"
         ],
         "elementAlias": [],
-        "elementDescription": "the rigorous study of valid reasoning and inference, using abstract symbols and precise rules to analyze the structure of arguments, independent of content, to determine if conclusions necessarily follow from premises. It provides the foundation for mathematical proofs, ensuring that steps taken in reasoning are deductively sound, essentially formalizing thought processes into mechanical systems. ",
+        "elementDescription": [
+            "the rigorous study of valid reasoning and inference, using abstract symbols and precise rules to analyze the structure of arguments, independent of content, to determine if conclusions necessarily follow from premises. It provides the foundation for mathematical proofs, ensuring that steps taken in reasoning are deductively sound, essentially formalizing thought processes into mechanical systems. "
+        ],
         "elementBetanyms": [],
         "elementInBetom": [],
         "elementProfilePic": "",
@@ -4862,7 +5997,9 @@
             "Probability"
         ],
         "elementAlias": [],
-        "elementDescription": "the level of possibility of something happening or being true",
+        "elementDescription": [
+            "the level of possibility of something happening or being true"
+        ],
         "elementBetanyms": [
             "less likely",
             "likely to be",
@@ -4914,7 +6051,9 @@
         "elementAlias": [
             "action possibilities"
         ],
-        "elementDescription": "a use or purpose that a thing can have, that people notice as part of the way they see or experience it",
+        "elementDescription": [
+            "a use or purpose that a thing can have, that people notice as part of the way they see or experience it"
+        ],
         "elementBetanyms": [
             "trainable",
             "reliable",
@@ -5135,7 +6274,33 @@
             "Site"
         ],
         "elementAlias": [],
-        "elementDescription": "a surface which affords a Kontakt",
+        "elementDescription": [
+            "a surface which affords a Kontakt"
+        ],
+        "elementBetanyms": [],
+        "elementInBetom": [],
+        "elementProfilePic": "",
+        "elementExample": {
+            "elementVideo": [],
+            "elementImage": [],
+            "elementQuote": []
+        }
+    },
+    "Neosite": {
+        "elementEnglishName": "Neosite",
+        "elementFaktor": "Via",
+        "elementID": "",
+        "elementTaxonomy": [
+            "Via",
+            "Probability",
+            "Affordance",
+            "Site",
+            "Neosite"
+        ],
+        "elementAlias": [],
+        "elementDescription": [
+            "a site of a Neon"
+        ],
         "elementBetanyms": [],
         "elementInBetom": [],
         "elementProfilePic": "",
@@ -5159,7 +6324,9 @@
             "trajectory",
             "path"
         ],
-        "elementDescription": "the specific continuous sequence of positions in space (or spacetime) that an object or system occupies as it moves from an initial state to a final state",
+        "elementDescription": [
+            "the specific continuous sequence of positions in space (or spacetime) that an object or system occupies as it moves from an initial state to a final state"
+        ],
         "elementBetanyms": [
             "pass",
             "pass by",
@@ -5194,7 +6361,9 @@
             "trajectory",
             "path"
         ],
-        "elementDescription": [""],
+        "elementDescription": [
+            "a passage which follows the perimeter of something"
+        ],
         "elementBetanyms": [],
         "elementInBetom": [],
         "elementProfilePic": "",
@@ -5215,7 +6384,10 @@
             "Limit"
         ],
         "elementAlias": [],
-        "elementDescription": [""],
+        "elementDescription": [
+            "a point or level beyond which something does not or may not extend or pass",
+            "a restriction on the size or amount of something permissible or possible"
+        ],
         "elementBetanyms": [],
         "elementInBetom": [],
         "elementProfilePic": "",
@@ -5240,7 +6412,9 @@
             "constraining",
             "constrained"
         ],
-        "elementDescription": "something that controls what you do by keeping you within particular limits",
+        "elementDescription": [
+            "something that controls what you do by keeping you within particular limits"
+        ],
         "elementBetanyms": [
             "spatial constraints",
             "break free",
@@ -5301,7 +6475,9 @@
             "DegreesOfFreedom"
         ],
         "elementAlias": [],
-        "elementDescription": [""],
+        "elementDescription": [
+            "to the number of planes of motion allowed at a joint"
+        ],
         "elementBetanyms": [],
         "elementInBetom": [],
         "elementProfilePic": "",
@@ -5327,7 +6503,9 @@
             "fortunate",
             "unfortunate"
         ],
-        "elementDescription": "chance and the way it affects your life",
+        "elementDescription": [
+            "chance and the way it affects your life"
+        ],
         "elementBetanyms": [],
         "elementInBetom": [],
         "elementProfilePic": "",
@@ -5347,7 +6525,9 @@
             "Frequency"
         ],
         "elementAlias": [],
-        "elementDescription": "the number of instances something happens within a particular period",
+        "elementDescription": [
+            "the number of instances something happens within a particular period"
+        ],
         "elementBetanyms": [
             "extremely rare",
             "exceedingly rare",
@@ -5387,7 +6567,9 @@
             "PropositionalLogic"
         ],
         "elementAlias": [],
-        "elementDescription": "a formal system that studies how to combine simple declarative statements (propositions, which are either true or false) using logical connectives (like AND, OR, NOT, IF...THEN) to form complex statements, analyzing the truth and validity of these compound statements and the logical relationships between them, without delving into the internal structure of the propositions themselves. It provides a framework for constructing valid arguments and understanding truth conditions in mathematics, philosophy, and computer science",
+        "elementDescription": [
+            "a formal system that studies how to combine simple declarative statements (propositions, which are either true or false) using logical connectives (like AND, OR, NOT, IF...THEN) to form complex statements, analyzing the truth and validity of these compound statements and the logical relationships between them, without delving into the internal structure of the propositions themselves. It provides a framework for constructing valid arguments and understanding truth conditions in mathematics, philosophy, and computer science"
+        ],
         "elementBetanyms": [],
         "elementInBetom": [],
         "elementProfilePic": "",
@@ -5407,7 +6589,9 @@
             "ConditionalLogic"
         ],
         "elementAlias": [],
-        "elementDescription": "a fundamental concept used to control the flow of a program based on whether certain conditions are met. It allows for decision-making within algorithms by executing different blocks of code depending on the evaluation of a Boolean expression (which is either true or false)",
+        "elementDescription": [
+            "a fundamental concept used to control the flow of a program based on whether certain conditions are met. It allows for decision-making within algorithms by executing different blocks of code depending on the evaluation of a Boolean expression (which is either true or false)"
+        ],
         "elementBetanyms": [],
         "elementInBetom": [],
         "elementProfilePic": "",
@@ -5427,8 +6611,13 @@
             "ConditionalLogic",
             "Contingency"
         ],
-        "elementAlias": [],
-        "elementDescription": [""],
+        "elementAlias": [
+            "worst case scenario",
+            "possible consequences"
+        ],
+        "elementDescription": [
+            "a future event or circumstance which is possible but cannot be predicted with certainty"
+        ],
         "elementBetanyms": [],
         "elementInBetom": [],
         "elementProfilePic": "",
@@ -5448,7 +6637,9 @@
             "Consequence"
         ],
         "elementAlias": [],
-        "elementDescription": "the result or effect of an action, decision, or event. It refers to something that follows logically from a preceding occurrence.",
+        "elementDescription": [
+            "the result or effect of an action, decision, or event. It refers to something that follows logically from a preceding occurrence."
+        ],
         "elementBetanyms": [],
         "elementInBetom": [],
         "elementProfilePic": "",
@@ -5468,7 +6659,9 @@
             "Convex"
         ],
         "elementAlias": [],
-        "elementDescription": "curved or swelling out",
+        "elementDescription": [
+            "curved or swelling out"
+        ],
         "elementBetanyms": [],
         "elementInBetom": [],
         "elementProfilePic": "",
@@ -5489,7 +6682,9 @@
             "ZigzagLine"
         ],
         "elementAlias": [],
-        "elementDescription": "a line or pattern that looks like a Z or a row of Zs joined together",
+        "elementDescription": [
+            "a line or pattern that looks like a Z or a row of Zs joined together"
+        ],
         "elementBetanyms": [],
         "elementInBetom": [],
         "elementProfilePic": "",
@@ -5510,7 +6705,9 @@
             "Concave"
         ],
         "elementAlias": [],
-        "elementDescription": "curving in",
+        "elementDescription": [
+            "curving in"
+        ],
         "elementBetanyms": [],
         "elementInBetom": [],
         "elementProfilePic": "",
@@ -5530,7 +6727,7 @@
             "Transformation"
         ],
         "elementAlias": [],
-        "elementDescription": [""],
+        "elementDescription": [],
         "elementBetanyms": [],
         "elementInBetom": [],
         "elementProfilePic": "",
@@ -5551,7 +6748,7 @@
             "Dilation"
         ],
         "elementAlias": [],
-        "elementDescription": [""],
+        "elementDescription": [],
         "elementBetanyms": [],
         "elementInBetom": [],
         "elementProfilePic": "",
@@ -5572,7 +6769,7 @@
             "Reflection"
         ],
         "elementAlias": [],
-        "elementDescription": [""],
+        "elementDescription": [],
         "elementBetanyms": [],
         "elementInBetom": [],
         "elementProfilePic": "",
@@ -5593,7 +6790,7 @@
             "Rotation"
         ],
         "elementAlias": [],
-        "elementDescription": [""],
+        "elementDescription": [],
         "elementBetanyms": [
             "axes of rotation",
             "axis of rotation",
@@ -5627,7 +6824,7 @@
             "Translation"
         ],
         "elementAlias": [],
-        "elementDescription": [""],
+        "elementDescription": [],
         "elementBetanyms": [],
         "elementInBetom": [],
         "elementProfilePic": "",
@@ -5648,7 +6845,9 @@
             "ElasticEnergy"
         ],
         "elementAlias": [],
-        "elementDescription": "the energy stored in an object when it's temporarily deformed (stretched, compressed, or twisted) by an external force, allowing it to return to its original shape and release that energy",
+        "elementDescription": [
+            "the energy stored in an object when it's temporarily deformed (stretched, compressed, or twisted) by an external force, allowing it to return to its original shape and release that energy"
+        ],
         "elementBetanyms": [],
         "elementInBetom": [],
         "elementProfilePic": "",
@@ -5669,7 +6868,9 @@
             "PotentialEnergy"
         ],
         "elementAlias": [],
-        "elementDescription": "stored energy an object has due to its position, configuration, or state",
+        "elementDescription": [
+            "stored energy an object has due to its position, configuration, or state"
+        ],
         "elementBetanyms": [],
         "elementInBetom": [],
         "elementProfilePic": "",
@@ -5690,7 +6891,9 @@
             "NormalForce"
         ],
         "elementAlias": [],
-        "elementDescription": "the support force a surface exerts on an object touching it, acting perpendicular (at a 90° angle) to the surface to prevent the object from passing through",
+        "elementDescription": [
+            "the support force a surface exerts on an object touching it, acting perpendicular (at a 90° angle) to the surface to prevent the object from passing through"
+        ],
         "elementBetanyms": [],
         "elementInBetom": [],
         "elementProfilePic": "",
@@ -5710,7 +6913,9 @@
             "ProjectileMotion"
         ],
         "elementAlias": [],
-        "elementDescription": "the movement of an object under the influence of gravity alone, following a curved path called a trajectory",
+        "elementDescription": [
+            "the movement of an object under the influence of gravity alone, following a curved path called a trajectory"
+        ],
         "elementBetanyms": [],
         "elementInBetom": [],
         "elementProfilePic": "",
@@ -5732,7 +6937,9 @@
         "elementAlias": [
             "Rhythm"
         ],
-        "elementDescription": "a regularly repeated pattern of sounds or beats used in music, poems, and dances",
+        "elementDescription": [
+            "a regularly repeated pattern of sounds or beats used in music, poems, and dances"
+        ],
         "elementBetanyms": [],
         "elementInBetom": [],
         "elementProfilePic": "",
@@ -5752,7 +6959,9 @@
             "Syncopation"
         ],
         "elementAlias": [],
-        "elementDescription": "a type of musical rhythm in which strong notes are not on the beat",
+        "elementDescription": [
+            "a type of musical rhythm in which strong notes are not on the beat"
+        ],
         "elementBetanyms": [],
         "elementInBetom": [],
         "elementProfilePic": "",
@@ -5772,7 +6981,9 @@
             "Tempo"
         ],
         "elementAlias": [],
-        "elementDescription": "the speed at which an event happens",
+        "elementDescription": [
+            "the speed at which an event happens"
+        ],
         "elementBetanyms": [],
         "elementInBetom": [],
         "elementProfilePic": "",
@@ -5791,7 +7002,9 @@
             "Dynamics"
         ],
         "elementAlias": [],
-        "elementDescription": "the branch of physics that studies how forces affect the motion of objects",
+        "elementDescription": [
+            "the branch of physics that studies how forces affect the motion of objects"
+        ],
         "elementBetanyms": [],
         "elementInBetom": [],
         "elementProfilePic": "",
@@ -5811,7 +7024,9 @@
             "Force"
         ],
         "elementAlias": [],
-        "elementDescription": "an interaction that causes a mass to accelerate, which means it can change an object's velocity or shape",
+        "elementDescription": [
+            "an interaction that causes a mass to accelerate, which means it can change an object's velocity or shape"
+        ],
         "elementBetanyms": [],
         "elementInBetom": [],
         "elementProfilePic": "",
@@ -5831,7 +7046,9 @@
             "Centripetal"
         ],
         "elementAlias": [],
-        "elementDescription": "a net force that acts on an object moving in a curved or circular path, directed toward the center of curvature or axis of rotation. This center-seeking force is necessary to constantly change the object's direction and keep it from flying off in a straight line due to inertia, as described by Newton's first law of motion",
+        "elementDescription": [
+            "a net force that acts on an object moving in a curved or circular path, directed toward the center of curvature or axis of rotation. This center-seeking force is necessary to constantly change the object's direction and keep it from flying off in a straight line due to inertia, as described by Newton's first law of motion"
+        ],
         "elementBetanyms": [],
         "elementInBetom": [],
         "elementProfilePic": "",
@@ -5851,7 +7068,9 @@
             "Friction"
         ],
         "elementAlias": [],
-        "elementDescription": "a contact force that opposes the relative motion, or attempted motion, between two systems in contact. It acts tangentially, or parallel, to the contact surface between the objects",
+        "elementDescription": [
+            "a contact force that opposes the relative motion, or attempted motion, between two systems in contact. It acts tangentially, or parallel, to the contact surface between the objects"
+        ],
         "elementBetanyms": [],
         "elementInBetom": [],
         "elementProfilePic": "",
@@ -5873,7 +7092,9 @@
         "elementAlias": [
             "gravitation"
         ],
-        "elementDescription": "the force that pulls objects toward each other",
+        "elementDescription": [
+            "the force that pulls objects toward each other"
+        ],
         "elementBetanyms": [],
         "elementInBetom": [],
         "elementProfilePic": "",
@@ -5893,7 +7114,9 @@
             "Pressure"
         ],
         "elementAlias": [],
-        "elementDescription": "the force applied perpendicular (normal) to a surface per unit area over which that force is distributed",
+        "elementDescription": [
+            "the force applied perpendicular (normal) to a surface per unit area over which that force is distributed"
+        ],
         "elementBetanyms": [],
         "elementInBetom": [],
         "elementProfilePic": "",
@@ -5913,7 +7136,9 @@
             "Tension"
         ],
         "elementAlias": [],
-        "elementDescription": "the pulling force that is transmitted axially through a string, rope, cable, or similar one-dimensional continuous object when it is pulled tight by forces acting from opposite ends",
+        "elementDescription": [
+            "the pulling force that is transmitted axially through a string, rope, cable, or similar one-dimensional continuous object when it is pulled tight by forces acting from opposite ends"
+        ],
         "elementBetanyms": [],
         "elementInBetom": [],
         "elementProfilePic": "",
@@ -5932,7 +7157,9 @@
             "Energy"
         ],
         "elementAlias": [],
-        "elementDescription": "the quantitative property of a system that enables it to do work or cause change",
+        "elementDescription": [
+            "the quantitative property of a system that enables it to do work or cause change"
+        ],
         "elementBetanyms": [],
         "elementInBetom": [],
         "elementProfilePic": "",
@@ -5953,7 +7180,9 @@
         "elementAlias": [
             "Newton's First Law"
         ],
-        "elementDescription": "the fundamental property of an object that describes its resistance to changes in its state of motion (whether at rest or moving with constant velocity). This concept is formally defined by Sir Isaac Newton's first law of motion. ",
+        "elementDescription": [
+            "the fundamental property of an object that describes its resistance to changes in its state of motion (whether at rest or moving with constant velocity). This concept is formally defined by Sir Isaac Newton's first law of motion. "
+        ],
         "elementBetanyms": [],
         "elementInBetom": [],
         "elementProfilePic": "",
@@ -5972,7 +7201,9 @@
             "Momentum"
         ],
         "elementAlias": [],
-        "elementDescription": "the quantity of motion of a moving body, measured as a product of its mass and velocity",
+        "elementDescription": [
+            "the quantity of motion of a moving body, measured as a product of its mass and velocity"
+        ],
         "elementBetanyms": [],
         "elementInBetom": [],
         "elementProfilePic": "",
@@ -5993,7 +7224,9 @@
         "elementAlias": [
             "Watts"
         ],
-        "elementDescription": "the rate at which work is done or energy is transferred, meaning how quickly energy changes form or moves from one place to another, expressed as work (W) or energy (E) per unit of time (t). Its standard SI unit is the Watt (W)",
+        "elementDescription": [
+            "the rate at which work is done or energy is transferred, meaning how quickly energy changes form or moves from one place to another, expressed as work (W) or energy (E) per unit of time (t). Its standard SI unit is the Watt (W)"
+        ],
         "elementBetanyms": [],
         "elementInBetom": [],
         "elementProfilePic": "",
@@ -6012,7 +7245,9 @@
             "Work"
         ],
         "elementAlias": [],
-        "elementDescription": "the energy transferred to or from an object when a force causes it to move over a distance",
+        "elementDescription": [
+            "the energy transferred to or from an object when a force causes it to move over a distance"
+        ],
         "elementBetanyms": [],
         "elementInBetom": [],
         "elementProfilePic": "",
@@ -6031,7 +7266,9 @@
             "Torque"
         ],
         "elementAlias": [],
-        "elementDescription": "the measure of the force that causes an object to rotate or turn around an axis",
+        "elementDescription": [
+            "the measure of the force that causes an object to rotate or turn around an axis"
+        ],
         "elementBetanyms": [],
         "elementInBetom": [],
         "elementProfilePic": "",
@@ -6052,7 +7289,9 @@
             "KineticEnergy"
         ],
         "elementAlias": [],
-        "elementDescription": "is the energy an object possesses due to its motion",
+        "elementDescription": [
+            "is the energy an object possesses due to its motion"
+        ],
         "elementBetanyms": [],
         "elementInBetom": [],
         "elementProfilePic": "",
@@ -6071,7 +7310,9 @@
             "Kinematics"
         ],
         "elementAlias": [],
-        "elementDescription": "description of motion (how objects move) without considering the forces, mass, or energy involved that cause the motion. It is often referred to as the geometry of motion",
+        "elementDescription": [
+            "description of motion (how objects move) without considering the forces, mass, or energy involved that cause the motion. It is often referred to as the geometry of motion"
+        ],
         "elementBetanyms": [],
         "elementInBetom": [],
         "elementProfilePic": "",
@@ -6091,7 +7332,9 @@
             "Speed"
         ],
         "elementAlias": [],
-        "elementDescription": "the rate at which someone or something is able to move or operate",
+        "elementDescription": [
+            "the rate at which someone or something is able to move or operate"
+        ],
         "elementBetanyms": [],
         "elementInBetom": [],
         "elementProfilePic": "",
@@ -6111,7 +7354,9 @@
             "Velocity"
         ],
         "elementAlias": [],
-        "elementDescription": "the speed of something in a given direction",
+        "elementDescription": [
+            "the speed of something in a given direction"
+        ],
         "elementBetanyms": [],
         "elementInBetom": [],
         "elementProfilePic": "",
@@ -6131,7 +7376,9 @@
             "Acceleration"
         ],
         "elementAlias": [],
-        "elementDescription": "the rate of change of the velocity of an object with respect to time",
+        "elementDescription": [
+            "the rate of change of the velocity of an object with respect to time"
+        ],
         "elementBetanyms": [],
         "elementInBetom": [],
         "elementProfilePic": "",
@@ -6151,7 +7398,9 @@
             "Jerk"
         ],
         "elementAlias": [],
-        "elementDescription": "the rate of change of an object's acceleration with respect to time. It is the third derivative of position (or displacement) and the first derivative of acceleration",
+        "elementDescription": [
+            "the rate of change of an object's acceleration with respect to time. It is the third derivative of position (or displacement) and the first derivative of acceleration"
+        ],
         "elementBetanyms": [],
         "elementInBetom": [],
         "elementProfilePic": "",
@@ -6171,7 +7420,9 @@
             "Time"
         ],
         "elementAlias": [],
-        "elementDescription": "the irreversible, continuous progression of existence and events from the past, through the present, into the future, enabling the measurement of duration, intervals, and rates of change, often conceptualized as the fourth dimension intertwined with space in spacetime. It's the fundamental framework for sequencing reality, measured by clocks and calendars, and described by physics as a dimension inseparable from the three spatial dimensions",
+        "elementDescription": [
+            "the irreversible, continuous progression of existence and events from the past, through the present, into the future, enabling the measurement of duration, intervals, and rates of change, often conceptualized as the fourth dimension intertwined with space in spacetime. It's the fundamental framework for sequencing reality, measured by clocks and calendars, and described by physics as a dimension inseparable from the three spatial dimensions"
+        ],
         "elementBetanyms": [],
         "elementInBetom": [],
         "elementProfilePic": "",
@@ -6194,7 +7445,9 @@
         "elementAlias": [
             "GoOrNoGo"
         ],
-        "elementDescription": "a promise or firm decision to do something",
+        "elementDescription": [
+            "a promise or firm decision to do something"
+        ],
         "elementBetanyms": [],
         "elementInBetom": [],
         "elementProfilePic": "",
@@ -6215,7 +7468,9 @@
             "TimeEstimation"
         ],
         "elementAlias": [],
-        "elementDescription": "the process of predicting the time needed to complete a specific task",
+        "elementDescription": [
+            "the process of predicting the time needed to complete a specific task"
+        ],
         "elementBetanyms": [],
         "elementInBetom": [],
         "elementProfilePic": "",
@@ -6236,7 +7491,9 @@
             "LongTermMemory"
         ],
         "elementAlias": [],
-        "elementDescription": "he cognitive process for storing and retrieving information over extended periods, from minutes to decades",
+        "elementDescription": [
+            "he cognitive process for storing and retrieving information over extended periods, from minutes to decades"
+        ],
         "elementBetanyms": [],
         "elementInBetom": [],
         "elementProfilePic": "",
@@ -6257,7 +7514,9 @@
             "ShortTermMemory"
         ],
         "elementAlias": [],
-        "elementDescription": "the brain's temporary workspace for holding a small amount of information (around 4-7 items) for a brief period, typically 15-30 seconds",
+        "elementDescription": [
+            "the brain's temporary workspace for holding a small amount of information (around 4-7 items) for a brief period, typically 15-30 seconds"
+        ],
         "elementBetanyms": [],
         "elementInBetom": [],
         "elementProfilePic": "",
@@ -6278,7 +7537,9 @@
             "ViaMemory"
         ],
         "elementAlias": [],
-        "elementDescription": "our brain's ability to learn, store, and recall information about locations, paths, and the arrangement of objects in space, crucial for navigation, orientation, and forming cognitive maps",
+        "elementDescription": [
+            "our brain's ability to learn, store, and recall information about locations, paths, and the arrangement of objects in space, crucial for navigation, orientation, and forming cognitive maps"
+        ],
         "elementBetanyms": [],
         "elementInBetom": [],
         "elementProfilePic": "",
@@ -6299,7 +7560,9 @@
             "WorkingMemory"
         ],
         "elementAlias": [],
-        "elementDescription": "your brain's temporary mental workspace, allowing you to hold and manipulate a small amount of information (like numbers, words, or steps) for immediate use while performing complex tasks like reasoning, learning, comprehension, and problem-solving. It's like a mental scratchpad",
+        "elementDescription": [
+            "your brain's temporary mental workspace, allowing you to hold and manipulate a small amount of information (like numbers, words, or steps) for immediate use while performing complex tasks like reasoning, learning, comprehension, and problem-solving. It's like a mental scratchpad"
+        ],
         "elementBetanyms": [],
         "elementInBetom": [],
         "elementProfilePic": "",
@@ -6318,7 +7581,9 @@
             "Compassion"
         ],
         "elementAlias": [],
-        "elementDescription": "a strong feeling of empathy and sadness for other people's suffering or bad luck and a desire to help",
+        "elementDescription": [
+            "a strong feeling of empathy and sadness for other people's suffering or bad luck and a desire to help"
+        ],
         "elementBetanyms": [],
         "elementInBetom": [],
         "elementProfilePic": "",
@@ -6337,7 +7602,9 @@
             "MindState"
         ],
         "elementAlias": [],
-        "elementDescription": "your temporary mental and emotional condition—your mood, attitude, or cognitive condition at a specific time",
+        "elementDescription": [
+            "your temporary mental and emotional condition—your mood, attitude, or cognitive condition at a specific time"
+        ],
         "elementBetanyms": [],
         "elementInBetom": [],
         "elementProfilePic": "",
@@ -6356,7 +7623,9 @@
             "Mindset"
         ],
         "elementAlias": [],
-        "elementDescription": "a person's way of thinking and their opinions",
+        "elementDescription": [
+            "a person's way of thinking and their opinions"
+        ],
         "elementBetanyms": [],
         "elementInBetom": [],
         "elementProfilePic": "",
@@ -6376,7 +7645,9 @@
             "Control"
         ],
         "elementAlias": [],
-        "elementDescription": "the ability or power to decide or strongly influence the particular way in which something will happen or someone will behave",
+        "elementDescription": [
+            "the ability or power to decide or strongly influence the particular way in which something will happen or someone will behave"
+        ],
         "elementBetanyms": [],
         "elementInBetom": [],
         "elementProfilePic": "",
@@ -6397,7 +7668,9 @@
             "GoodEase"
         ],
         "elementAlias": [],
-        "elementDescription": "a good mood itself can increase cognitive ease",
+        "elementDescription": [
+            "a good mood itself can increase cognitive ease"
+        ],
         "elementBetanyms": [],
         "elementInBetom": [],
         "elementProfilePic": "",
@@ -6418,7 +7691,9 @@
             "Music"
         ],
         "elementAlias": [],
-        "elementDescription": "a pattern of sounds made by musical instruments, voices, or computers, or a combination of these, intended to give pleasure to people listening to it",
+        "elementDescription": [
+            "a pattern of sounds made by musical instruments, voices, or computers, or a combination of these, intended to give pleasure to people listening to it"
+        ],
         "elementBetanyms": [],
         "elementInBetom": [],
         "elementProfilePic": "",
@@ -6440,7 +7715,9 @@
             "Playlist"
         ],
         "elementAlias": [],
-        "elementDescription": "a list of pieces of music chosen by someone to listen to",
+        "elementDescription": [
+            "a list of pieces of music chosen by someone to listen to"
+        ],
         "elementBetanyms": [],
         "elementInBetom": [],
         "elementProfilePic": "",
@@ -6460,7 +7737,9 @@
             "PressureSense"
         ],
         "elementAlias": [],
-        "elementDescription": "the sensory ability to perceive sustained distortion or indentation of the skin and deep tissues",
+        "elementDescription": [
+            "the sensory ability to perceive sustained distortion or indentation of the skin and deep tissues"
+        ],
         "elementBetanyms": [],
         "elementInBetom": [],
         "elementProfilePic": "",
@@ -6479,7 +7758,9 @@
             "Attention"
         ],
         "elementAlias": [],
-        "elementDescription": "the process of selectively concentrating on specific information from the environment or internal thoughts while intentionally ignoring other, irrelevant stimuli",
+        "elementDescription": [
+            "the process of selectively concentrating on specific information from the environment or internal thoughts while intentionally ignoring other, irrelevant stimuli"
+        ],
         "elementBetanyms": [],
         "elementInBetom": [],
         "elementProfilePic": "",
@@ -6498,7 +7779,30 @@
             "Cognition"
         ],
         "elementAlias": [],
-        "elementDescription": "all forms of knowing and awareness, such as perceiving, conceiving, remembering, reasoning, judging, imagining, and problem solving",
+        "elementDescription": [
+            "all forms of knowing and awareness, such as perceiving, conceiving, remembering, reasoning, judging, imagining, and problem solving"
+        ],
+        "elementBetanyms": [],
+        "elementInBetom": [],
+        "elementProfilePic": "",
+        "elementExample": {
+            "elementVideo": [],
+            "elementImage": [],
+            "elementQuote": []
+        }
+    },
+    "Awareness": {
+        "elementEnglishName": "Awareness",
+        "elementFaktor": "Anima",
+        "elementID": "",
+        "elementTaxonomy": [
+            "Anima",
+            "Awareness"
+        ],
+        "elementAlias": [],
+        "elementDescription": [
+            ""
+        ],
         "elementBetanyms": [],
         "elementInBetom": [],
         "elementProfilePic": "",
@@ -6518,7 +7822,7 @@
             "Learning"
         ],
         "elementAlias": [],
-        "elementDescription": [""],
+        "elementDescription": [],
         "elementBetanyms": [],
         "elementInBetom": [],
         "elementProfilePic": "",
@@ -6538,7 +7842,9 @@
             "CognitiveEase"
         ],
         "elementAlias": [],
-        "elementDescription": "the mental state of effortless information processing, where familiar, clear, and simple information feels true, good, and safe, leading to confidence and reduced mental strain",
+        "elementDescription": [
+            "the mental state of effortless information processing, where familiar, clear, and simple information feels true, good, and safe, leading to confidence and reduced mental strain"
+        ],
         "elementBetanyms": [],
         "elementInBetom": [],
         "elementProfilePic": "",
@@ -6548,7 +7854,7 @@
             "elementQuote": []
         }
     },
-    "Clarity": {
+    "ClarityEase": {
         "elementEnglishName": "Clarity",
         "elementFaktor": "Anima",
         "elementID": "",
@@ -6559,7 +7865,9 @@
             "Clarity"
         ],
         "elementAlias": [],
-        "elementDescription": " the mental state in which thoughts are organized, focused, and free from confusion or brain fog. It is the ability to perceive, understand, and organize information effectively, enabling clear decision-making, problem-solving, and purposeful action",
+        "elementDescription": [
+            " the mental state in which thoughts are organized, focused, and free from confusion or brain fog. It is the ability to perceive, understand, and organize information effectively, enabling clear decision-making, problem-solving, and purposeful action"
+        ],
         "elementBetanyms": [],
         "elementInBetom": [],
         "elementProfilePic": "",
@@ -6569,7 +7877,7 @@
             "elementQuote": []
         }
     },
-    "Priming": {
+    "PrimingEase": {
         "elementEnglishName": "Priming",
         "elementFaktor": "Anima",
         "elementID": "",
@@ -6580,7 +7888,9 @@
             "Priming"
         ],
         "elementAlias": [],
-        "elementDescription": "a phenomenon in which exposure to one stimulus influences how a person responds to a subsequent, related stimulus",
+        "elementDescription": [
+            "a phenomenon in which exposure to one stimulus influences how a person responds to a subsequent, related stimulus"
+        ],
         "elementBetanyms": [],
         "elementInBetom": [],
         "elementProfilePic": "",
@@ -6590,7 +7900,7 @@
             "elementQuote": []
         }
     },
-    "Repetition": {
+    "RepetitionEase": {
         "elementEnglishName": "Repetition",
         "elementFaktor": "Anima",
         "elementID": "",
@@ -6601,7 +7911,9 @@
             "Repetition"
         ],
         "elementAlias": [],
-        "elementDescription": "something that happens in the same way as something that happened before",
+        "elementDescription": [
+            "something that happens in the same way as something that happened before"
+        ],
         "elementBetanyms": [],
         "elementInBetom": [],
         "elementProfilePic": "",
@@ -6622,7 +7934,9 @@
             "FeelsGood"
         ],
         "elementAlias": [],
-        "elementDescription": "very satisfactory, enjoyable, pleasant, or interesting",
+        "elementDescription": [
+            "very satisfactory, enjoyable, pleasant, or interesting"
+        ],
         "elementBetanyms": [],
         "elementInBetom": [],
         "elementProfilePic": "",
@@ -6645,7 +7959,9 @@
         "elementAlias": [
             "familiarity"
         ],
-        "elementDescription": "the state of being well-acquainted or having good knowledge/mastery of someone or something",
+        "elementDescription": [
+            "the state of being well-acquainted or having good knowledge/mastery of someone or something"
+        ],
         "elementBetanyms": [],
         "elementInBetom": [],
         "elementProfilePic": "",
@@ -6668,7 +7984,9 @@
         "elementAlias": [
             "effortlessness"
         ],
-        "elementDescription": "seeming not to need any effort",
+        "elementDescription": [
+            "seeming not to need any effort"
+        ],
         "elementBetanyms": [],
         "elementInBetom": [],
         "elementProfilePic": "",
@@ -6689,7 +8007,51 @@
             "FeelsTrue"
         ],
         "elementAlias": [],
-        "elementDescription": "being what exists, rather than what was thought, intended, or stated",
+        "elementDescription": [
+            "being what exists, rather than what was thought, intended, or stated"
+        ],
+        "elementBetanyms": [],
+        "elementInBetom": [],
+        "elementProfilePic": "",
+        "elementExample": {
+            "elementVideo": [],
+            "elementImage": [],
+            "elementQuote": []
+        }
+    },
+    "Effort": {
+        "elementEnglishName": "Effort",
+        "elementFaktor": "Anima",
+        "elementID": "",
+        "elementTaxonomy": [
+            "Anima",
+            "Effort"
+        ],
+        "elementAlias": [],
+        "elementDescription": [
+            ""
+        ],
+        "elementBetanyms": [],
+        "elementInBetom": [],
+        "elementProfilePic": "",
+        "elementExample": {
+            "elementVideo": [],
+            "elementImage": [],
+            "elementQuote": []
+        }
+    },
+    "Event": {
+        "elementEnglishName": "Event",
+        "elementFaktor": "Anima",
+        "elementID": "",
+        "elementTaxonomy": [
+            "Anima",
+            "Event"
+        ],
+        "elementAlias": [],
+        "elementDescription": [
+            ""
+        ],
         "elementBetanyms": [],
         "elementInBetom": [],
         "elementProfilePic": "",
@@ -6709,7 +8071,9 @@
             "Decision"
         ],
         "elementAlias": [],
-        "elementDescription": "a choice that you make about something after thinking about several possibilities",
+        "elementDescription": [
+            "a choice that you make about something after thinking about several possibilities"
+        ],
         "elementBetanyms": [],
         "elementInBetom": [],
         "elementProfilePic": "",
@@ -6729,7 +8093,50 @@
             "Estimation"
         ],
         "elementAlias": [],
-        "elementDescription": "the process of finding an estimate or approximation, which is a value that is usable for some purpose even if input data may be incomplete, uncertain, or unstable",
+        "elementDescription": [
+            "the process of finding an estimate or approximation, which is a value that is usable for some purpose even if input data may be incomplete, uncertain, or unstable"
+        ],
+        "elementBetanyms": [],
+        "elementInBetom": [],
+        "elementProfilePic": "",
+        "elementExample": {
+            "elementVideo": [],
+            "elementImage": [],
+            "elementQuote": []
+        }
+    },
+    "SpaceEstimation": {
+        "elementEnglishName": "Space Estimation",
+        "elementFaktor": "Anima",
+        "elementID": "",
+        "elementTaxonomy": [
+            "Anima",
+            "Cognition",
+            "Estimation",
+            "SpaceEstimation"
+        ],
+        "elementAlias": [],
+        "elementDescription": [],
+        "elementBetanyms": [],
+        "elementInBetom": [],
+        "elementProfilePic": "",
+        "elementExample": {
+            "elementVideo": [],
+            "elementImage": [],
+            "elementQuote": []
+        }
+    },
+    "Resilience": {
+        "elementEnglishName": "Resilience",
+        "elementFaktor": "Anima",
+        "elementID": "",
+        "elementTaxonomy": [
+            "Anima",
+            "Cognition",
+            "Resilience"
+        ],
+        "elementAlias": [],
+        "elementDescription": [],
         "elementBetanyms": [],
         "elementInBetom": [],
         "elementProfilePic": "",
@@ -6749,7 +8156,9 @@
             "Identification"
         ],
         "elementAlias": [],
-        "elementDescription": "recognizing or proving what something is by categorizing it (term, class, distinguishing features)",
+        "elementDescription": [
+            "recognizing or proving what something is by categorizing it (term, class, distinguishing features)"
+        ],
         "elementBetanyms": [],
         "elementInBetom": [],
         "elementProfilePic": "",
@@ -6769,7 +8178,9 @@
             "Judgement"
         ],
         "elementAlias": [],
-        "elementDescription": "a decision that you make, or an opinion that you have, after considering all the facts in a situation",
+        "elementDescription": [
+            "a decision that you make, or an opinion that you have, after considering all the facts in a situation"
+        ],
         "elementBetanyms": [],
         "elementInBetom": [],
         "elementProfilePic": "",
@@ -6788,7 +8199,9 @@
             "Emotion"
         ],
         "elementAlias": [],
-        "elementDescription": "physiological and psychological responses that help people react to events or situations.",
+        "elementDescription": [
+            "physiological and psychological responses that help people react to events or situations."
+        ],
         "elementBetanyms": [],
         "elementInBetom": [],
         "elementProfilePic": "",
@@ -6808,7 +8221,9 @@
             "Anger"
         ],
         "elementAlias": [],
-        "elementDescription": "a strong feeling that makes you want to hurt someone or be unpleasant because of something unfair or unkind that has happened",
+        "elementDescription": [
+            "a strong feeling that makes you want to hurt someone or be unpleasant because of something unfair or unkind that has happened"
+        ],
         "elementBetanyms": [],
         "elementInBetom": [],
         "elementProfilePic": "",
@@ -6828,7 +8243,9 @@
             "Disgust"
         ],
         "elementAlias": [],
-        "elementDescription": "a strong feeling of disapproval and dislike at a situation, object or person",
+        "elementDescription": [
+            "a strong feeling of disapproval and dislike at a situation, object or person"
+        ],
         "elementBetanyms": [],
         "elementInBetom": [],
         "elementProfilePic": "",
@@ -6848,7 +8265,9 @@
             "Fear"
         ],
         "elementAlias": [],
-        "elementDescription": "a primal, protective emotion triggered by a perceived immediate threat, prompting a biochemical & physiological alarm (like increased heart rate, adrenaline) to prepare the body for fight or flight, keeping us safe from harm. Unlike anxiety, which is future-oriented and vague, fear is a direct response to a present, identifiable danger, involving brain centers like the amygdala, and serves as a vital survival mechanism, though it can become problematic if excessive",
+        "elementDescription": [
+            "a primal, protective emotion triggered by a perceived immediate threat, prompting a biochemical & physiological alarm (like increased heart rate, adrenaline) to prepare the body for fight or flight, keeping us safe from harm. Unlike anxiety, which is future-oriented and vague, fear is a direct response to a present, identifiable danger, involving brain centers like the amygdala, and serves as a vital survival mechanism, though it can become problematic if excessive"
+        ],
         "elementBetanyms": [],
         "elementInBetom": [],
         "elementProfilePic": "",
@@ -6868,7 +8287,9 @@
             "Joy"
         ],
         "elementAlias": [],
-        "elementDescription": "a profound, intense positive emotion, deeper than fleeting happiness, often stemming from meaningful connections, alignment with values, purpose, or unexpected positive events, and it signifies deep well-being, boosting resilience, motivation, and connection, with types including passive contentment and active engagement. Unlike happiness (a broader life evaluation), joy is a transcendent state that can emerge even amid hardship, characterized by a sense of blessedness, exhilaration, or deep delight",
+        "elementDescription": [
+            "a profound, intense positive emotion, deeper than fleeting happiness, often stemming from meaningful connections, alignment with values, purpose, or unexpected positive events, and it signifies deep well-being, boosting resilience, motivation, and connection, with types including passive contentment and active engagement. Unlike happiness (a broader life evaluation), joy is a transcendent state that can emerge even amid hardship, characterized by a sense of blessedness, exhilaration, or deep delight"
+        ],
         "elementBetanyms": [],
         "elementInBetom": [],
         "elementProfilePic": "",
@@ -6888,7 +8309,9 @@
             "Sadness"
         ],
         "elementAlias": [],
-        "elementDescription": "an emotion resulting from the loss of someone or something important",
+        "elementDescription": [
+            "an emotion resulting from the loss of someone or something important"
+        ],
         "elementBetanyms": [],
         "elementInBetom": [],
         "elementProfilePic": "",
@@ -6907,7 +8330,9 @@
             "Memory"
         ],
         "elementAlias": [],
-        "elementDescription": "the ability to remember information, experiences, and people",
+        "elementDescription": [
+            "the ability to remember information, experiences, and people"
+        ],
         "elementBetanyms": [],
         "elementInBetom": [],
         "elementProfilePic": "",
@@ -6928,7 +8353,9 @@
             "Arousal"
         ],
         "elementAlias": [],
-        "elementDescription": "a state of mental alertness, attention, or energy. It involves the cognitive processes that activate the brain's alertness and attentiveness. This state is distinct from physical or emotional arousal, though they are often related",
+        "elementDescription": [
+            "a state of mental alertness, attention, or energy. It involves the cognitive processes that activate the brain's alertness and attentiveness. This state is distinct from physical or emotional arousal, though they are often related"
+        ],
         "elementBetanyms": [],
         "elementInBetom": [],
         "elementProfilePic": "",
@@ -6949,7 +8376,9 @@
             "Confidence"
         ],
         "elementAlias": [],
-        "elementDescription": "a feeling of trust or belief in a person, thing, or one's own abilities. It is a state of mind marked by an absence of uncertainty, shyness, or embarrassment. ",
+        "elementDescription": [
+            "a feeling of trust or belief in a person, thing, or one's own abilities. It is a state of mind marked by an absence of uncertainty, shyness, or embarrassment. "
+        ],
         "elementBetanyms": [],
         "elementInBetom": [],
         "elementProfilePic": "",
@@ -6970,7 +8399,9 @@
             "Mindfulness"
         ],
         "elementAlias": [],
-        "elementDescription": "Mindfulness means paying attention in a particular way: on purpose, in the present moment, and non judgmentally",
+        "elementDescription": [
+            "Mindfulness means paying attention in a particular way: on purpose, in the present moment, and non judgmentally"
+        ],
         "elementBetanyms": [],
         "elementInBetom": [],
         "elementProfilePic": "",
@@ -6991,7 +8422,9 @@
             "FlowState"
         ],
         "elementAlias": [],
-        "elementDescription": "A state in which people are so involved in an activity that nothing else seems to matter; the experience is so enjoyable that people will continue to do it even at great cost, for the sheer sake of doing it",
+        "elementDescription": [
+            "A state in which people are so involved in an activity that nothing else seems to matter; the experience is so enjoyable that people will continue to do it even at great cost, for the sheer sake of doing it"
+        ],
         "elementBetanyms": [],
         "elementInBetom": [],
         "elementProfilePic": "",
@@ -7010,7 +8443,9 @@
             "Senses"
         ],
         "elementAlias": [],
-        "elementDescription": "a biological system for sensation, detecting stimuli (light, sound, chemicals) via specialized cells in sense organs, converting them into neural signals the brain interprets, encompassing traditional ones like sight/hearing but also more complex ones (balance, body position)",
+        "elementDescription": [
+            "a biological system for sensation, detecting stimuli (light, sound, chemicals) via specialized cells in sense organs, converting them into neural signals the brain interprets, encompassing traditional ones like sight/hearing but also more complex ones (balance, body position)"
+        ],
         "elementBetanyms": [],
         "elementInBetom": [],
         "elementProfilePic": "",
@@ -7030,7 +8465,9 @@
             "Audio"
         ],
         "elementAlias": [],
-        "elementDescription": "the physiological process and ability to perceive sounds by detecting vibrations (sound waves) as periodic changes in the pressure of a surrounding medium, such as air or water. ",
+        "elementDescription": [
+            "the physiological process and ability to perceive sounds by detecting vibrations (sound waves) as periodic changes in the pressure of a surrounding medium, such as air or water. "
+        ],
         "elementBetanyms": [],
         "elementInBetom": [],
         "elementProfilePic": "",
@@ -7052,7 +8489,9 @@
         "elementAlias": [
             "haptics"
         ],
-        "elementDescription": "the complex sensory system responsible for the body's ability to perceive physical stimuli through specialized receptors primarily located in the skin, as well as in muscles, joints, and internal organs",
+        "elementDescription": [
+            "the complex sensory system responsible for the body's ability to perceive physical stimuli through specialized receptors primarily located in the skin, as well as in muscles, joints, and internal organs"
+        ],
         "elementBetanyms": [],
         "elementInBetom": [],
         "elementProfilePic": "",
@@ -7072,7 +8511,9 @@
             "Compression"
         ],
         "elementAlias": [],
-        "elementDescription": "is the conscious appreciation of sustained mechanical deformation or indentation of the skin and underlying deep tissues",
+        "elementDescription": [
+            "is the conscious appreciation of sustained mechanical deformation or indentation of the skin and underlying deep tissues"
+        ],
         "elementBetanyms": [],
         "elementInBetom": [],
         "elementProfilePic": "",
@@ -7092,7 +8533,9 @@
             "Proprioception"
         ],
         "elementAlias": [],
-        "elementDescription": "the sense of self-movement, force, and body position",
+        "elementDescription": [
+            "the sense of self-movement, force, and body position"
+        ],
         "elementBetanyms": [],
         "elementInBetom": [],
         "elementProfilePic": "",
@@ -7114,7 +8557,9 @@
         "elementAlias": [
             "vision"
         ],
-        "elementDescription": "the physical sense or faculty by which light stimuli received by the eye are interpreted by the brain and constructed into a representation of objects in space",
+        "elementDescription": [
+            "the physical sense or faculty by which light stimuli received by the eye are interpreted by the brain and constructed into a representation of objects in space"
+        ],
         "elementBetanyms": [],
         "elementInBetom": [],
         "elementProfilePic": "",
