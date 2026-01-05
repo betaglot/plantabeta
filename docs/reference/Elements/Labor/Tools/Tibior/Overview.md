@@ -20,7 +20,7 @@ Aliases: Gaiter, Shin Pad
 <!-- =================================================== -->
 <!-- =================================================== -->
 <!-- =================================================== -->
-::: details 🛠
+::: details &
 
 - RemoveMud to prevent mud from slowly releasing its water content onto your leg
 

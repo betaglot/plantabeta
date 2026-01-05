@@ -14,7 +14,7 @@ let elementName = ""
 <!-- =================================================== -->
 <!-- =================================================== -->
 <!-- =================================================== -->
-::: details 🛠
+::: details &
 
 - MOTONAxiom: walking downhill is easier than walking up hill
 - Stand is the most basic move

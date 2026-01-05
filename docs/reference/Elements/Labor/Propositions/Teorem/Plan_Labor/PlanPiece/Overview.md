@@ -14,7 +14,7 @@ let elementName = ""
 <!-- =================================================== -->
 <!-- =================================================== -->
 <!-- =================================================== -->
-::: details 🛠
+::: details &
 
 - What line did you take to plant this zone?
 - What was your line through this zone?

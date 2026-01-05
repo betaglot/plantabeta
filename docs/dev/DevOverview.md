@@ -48,7 +48,7 @@ Download Printable resources
 <!-- =================================================== -->
 <!-- =================================================== -->
 <!-- =================================================== -->
-::: details 🛠 &&&
+::: details & &&&
 
 - Document everything to make PlantaBeta_Dev portable to any company
 - "Dev.Overview"

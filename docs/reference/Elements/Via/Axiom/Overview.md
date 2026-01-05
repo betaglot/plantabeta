@@ -14,7 +14,7 @@ let elementName = ""
 <!-- =================================================== -->
 <!-- =================================================== -->
 <!-- =================================================== -->
-::: details 🛠
+::: details &
 
 - Don't walk through Zones which haven't been planted
     - Adds False Tracking signs

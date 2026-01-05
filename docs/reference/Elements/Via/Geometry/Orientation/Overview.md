@@ -18,7 +18,7 @@ let elementName = "Orientation"
 <!-- =================================================== -->
 <!-- =================================================== -->
 <!-- =================================================== -->
-::: details 🛠
+::: details &
 
 - A Slope isn't an Orientation, like how a "Cliff" isn't either.
     - Landform

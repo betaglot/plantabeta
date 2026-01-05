@@ -340,60 +340,105 @@ function sidebarElements() {
       link: '/reference/Elements/Ekos/EkosOverview',
       items: [
         {
-          text: '🟩<span class="ekos">Atmosphere</span>', link: '/reference/Elements/Ekos/Atmosphere/Overview', collapsed: true, items: [
-            { text: '<span class="ekos">AirTemperature</span>', link: '/reference/Elements/Ekos/Atmosphere/AirTemperature' },
-            { text: '<span class="ekos">Humidity</span>', link: '/reference/Elements/Ekos/Atmosphere/Humidity' },
-            { text: '<span class="ekos">Lightning</span>', link: '/reference/Elements/Ekos/Atmosphere/Lightning' },
-            { text: '<span class="ekos">Wind</span>', link: '/reference/Elements/Ekos/Atmosphere/Wind' },
-          ]
-        },
-        {
-          text: '🟩<span class="ekos">Biosphere</span>', link: '/reference/Elements/Ekos/Biosphere/Overview', collapsed: true, items: [
+          text: 'Ekosfera', link: '/reference/Elements/Ekos/Ekosfera/Overview', collapsed: true, items: [
             {
-              text: '<span class="ekos">Animals</span>', link: '/reference/Elements/Ekos/Biosphere/Animals/Overview', collapsed: true, items: [
-                { text: '<span class="ekos">Bird</span>', link: '/reference/Elements/Ekos/Biosphere/Animals/Bird' },
-                { text: '<span class="ekos">Insect</span>', link: '/reference/Elements/Ekos/Biosphere/Animals/Insect' },
+              text: '🟩<span class="ekos">Antroposfera</span>', link: '/reference/Elements/Ekos/Ekosfera/Antroposfera/Overview', collapsed: true, items: [
+                {
+                  text: '<span class="ekos">Prep</span>', link: '/reference/Elements/Ekos/Ekosfera/Antroposfera/Prep/Overview', collapsed: true, items: [
+                    { text: '<span class="ekos">Mound</span>', link: '/reference/Elements/Ekos/Ekosfera/Antroposfera/Prep/Mound' },
+                    { text: '<span class="ekos">Skreef</span>', link: '/reference/Elements/Ekos/Ekosfera/Antroposfera/Prep/Skreef' },
+                    { text: '<span class="ekos">Trench</span>', link: '/reference/Elements/Ekos/Ekosfera/Antroposfera/Prep/Trench' },
+                  ]
+                },
+                {
+                  text: '<span class="ekos">Slash</span>', link: '/reference/Elements/Ekos/Ekosfera/Antroposfera/Slash/Overview', collapsed: true, items: [
+                    { text: '<span class="ekos">Burn Pile</span>', link: '/reference/Elements/Ekos/Ekosfera/Antroposfera/Slash/BurnPileSlash' },
+                    { text: '<span class="ekos">HighSlash</span>', link: '/reference/Elements/Ekos/Ekosfera/Antroposfera/Slash/HighSlash' },
+                    { text: '<span class="ekos">LowSlash</span>', link: '/reference/Elements/Ekos/Ekosfera/Antroposfera/Slash/LowSlash' },
+                    { text: '<span class="ekos">Stickmat</span>', link: '/reference/Elements/Ekos/Ekosfera/Antroposfera/Slash/Stickmat' },
+                    { text: '<span class="ekos">WetSlash</span>', link: '/reference/Elements/Ekos/Ekosfera/Antroposfera/Slash/WetSlash' },
+                  ]
+                },
+                { text: 'Cut Bank', link: '' },
+                ci
               ]
             },
-            { text: '<span class="ekos">Fungi</span>', link: '/reference/Elements/Ekos/Biosphere/Fungi/Overview', collapsed: true, items: [] },
             {
-              text: '<span class="ekos">Plants</span>', link: '/reference/Elements/Ekos/Biosphere/Plants/Overview', collapsed: true, items: [
+              text: '🟩<span class="ekos">Atmosfera</span>', link: '/reference/Elements/Ekos/Ekosfera/Atmosfera/Overview', collapsed: true, items: [
+
+                {
+                  text: '<span class="ekos">Particulates</span>', link: '/reference/Elements/Ekos/Ekosfera/Atmosfera/Particulates/Overview', collapsed: true, items: [
+                    { text: '<span class="ekos">Ash</span>', link: '/reference/Elements/Ekos/Ekosfera/Atmosfera/Particulates/Ash' },
+                    { text: '<span class="ekos">Dust</span>', link: '/reference/Elements/Ekos/Ekosfera/Atmosfera/Particulates/Dust' },
+                    { text: '<span class="ekos">Pollen</span>', link: '/reference/Elements/Ekos/Ekosfera/Atmosfera/Particulates/Pollen' },
+                    { text: '<span class="ekos">Smoke</span>', link: '/reference/Elements/Ekos/Ekosfera/Atmosfera/Particulates/Smoke' },
+                    { text: '<span class="ekos">Spores</span>', link: '/reference/Elements/Ekos/Ekosfera/Atmosfera/Particulates/Spores' },
+                  ]
+                },
+                {
+                  text: '<span class="ekos">Precipitation</span>', link: '/reference/Elements/Ekos/Ekosfera/Atmosfera/Precipitation/Overview', collapsed: true, items: [
+                    { text: '<span class="ekos">Fog</span>', link: '/reference/Elements/Ekos/Ekosfera/Atmosfera/Precipitation/Fog' },
+                    { text: '<span class="ekos">Hail</span>', link: '/reference/Elements/Ekos/Ekosfera/Atmosfera/Precipitation/Hail' },
+                    { text: '<span class="ekos">Rain</span>', link: '/reference/Elements/Ekos/Ekosfera/Atmosfera/Precipitation/Rain' },
+                    { text: '<span class="ekos">Snow</span>', link: '/reference/Elements/Ekos/Ekosfera/Atmosfera/Precipitation/Snow' },
+                  ]
+                },
+                { text: '<span class="ekos">AirTemperature</span>', link: '/reference/Elements/Ekos/Ekosfera/Atmosfera/AirTemperature' },
+                { text: '<span class="ekos">Humidity</span>', link: '/reference/Elements/Ekos/Ekosfera/Atmosfera/Humidity' },
+                { text: '<span class="ekos">Lightning</span>', link: '/reference/Elements/Ekos/Ekosfera/Atmosfera/Lightning' },
+                { text: '<span class="ekos">Wind</span>', link: '/reference/Elements/Ekos/Ekosfera/Atmosfera/Wind' },
+              ]
+            },
+            {
+              text: '🟩<span class="ekos">Biosfera</span>', link: '/reference/Elements/Ekos/Ekosfera/Biosfera/Overview', collapsed: true, items: [
+                {
+                  text: '<span class="ekos">Animal</span>', link: '/reference/Elements/Ekos/Ekosfera/Biosfera/Animals/Overview', collapsed: true, items: [
+                    { text: '<span class="ekos">Bird</span>', link: '/reference/Elements/Ekos/Ekosfera/Biosfera/Animals/Bird' },
+                    { text: '<span class="ekos">Insect</span>', link: '/reference/Elements/Ekos/Ekosfera/Biosfera/Animals/Insect' },
+                  ]
+                },
+                { text: 'Dendron', link: '', collapsed: true, items: [] },
+                { text: 'Flora', link: '', collapsed: true, items: [] },
+                { text: '<span class="ekos">Fungi</span>', link: '/reference/Elements/Ekos/Ekosfera/Biosfera/Fungi/Overview', collapsed: true, items: [] },
+                {
+                  text: '<span class="ekos">Plants</span>', link: '/reference/Elements/Ekos/Ekosfera/Biosfera/Plants/Overview', collapsed: true, items: [
+                  ]
+                },
+              ]
+            },
+            {
+              text: '🟩<span class="ekos">Hydrosfera</span>', link: '/reference/Elements/Ekos/Ekosfera/Hydrosfera/Overview', collapsed: true, items: [
+              ]
+            },
+            {
+              text: '🟩<span class="ekos">Litosfera</span>', link: '/reference/Elements/Ekos/Ekosfera/Litosfera/Overview', collapsed: true, items: [
+              ]
+            },
+            {
+              text: '🟩<span class="ekos">Soil</span>', link: '/reference/Elements/Ekos/Ekosfera/Pedosfera/Overview', collapsed: true, items: [
+                {
+                  text: '<span class="ekos">Soil Size</span>', link: '/reference/Elements/Ekos/Ekosfera/Pedosfera/SoilSize/Overview', collapsed: true, items: [
+                    { text: '<span class="ekos">Clay</span>', link: '/reference/Elements/Ekos/Ekosfera/Pedosfera/SoilSize/ClaySoil' },
+                    { text: '<span class="ekos">Cobble</span>', link: '/reference/Elements/Ekos/Ekosfera/Pedosfera/SoilSize/CobbleSoil' },
+                    { text: '<span class="ekos">Pebble</span>', link: '/reference/Elements/Ekos/Ekosfera/Pedosfera/SoilSize/PebbleSoil' },
+                    { text: '<span class="ekos">Rubble</span>', link: '/reference/Elements/Ekos/Ekosfera/Pedosfera/SoilSize/RubbleSoil' },
+                    { text: '<span class="ekos">Sand</span>', link: '/reference/Elements/Ekos/Ekosfera/Pedosfera/SoilSize/SandSoil' },
+                    { text: '<span class="ekos">Silt</span>', link: '/reference/Elements/Ekos/Ekosfera/Pedosfera/SoilSize/SiltSoil' },
+                  ]
+                },
+                {
+                  text: '<span class="ekos">Soil Fiber</span>', link: '/reference/Elements/Ekos/Ekosfera/Pedosfera/SoilFiber/Overview', collapsed: true, items: [
+                    { text: '<span class="ekos">Fibric</span>', link: '/reference/Elements/Ekos/Ekosfera/Pedosfera/SoilFiber/FibricSoil' },
+                    { text: '<span class="ekos">Humic</span>', link: '/reference/Elements/Ekos/Ekosfera/Pedosfera/SoilFiber/HumicSoil' },
+                    { text: '<span class="ekos">Mesic</span>', link: '/reference/Elements/Ekos/Ekosfera/Pedosfera/SoilFiber/MesicSoil' },
+                    { text: '<span class="ekos">RedRot (Woody)</span>', link: '/reference/Elements/Ekos/Ekosfera/Pedosfera/SoilFiber/WoodySoil' },
+
+                  ]
+                },
               ]
             },
           ]
         },
-        {
-          text: '🟩<span class="ekos">Hydrosphere</span>', link: '/reference/Elements/Ekos/Hydrosphere/Overview', collapsed: true, items: [
-
-          ]
-        },
-        {
-          text: '🟩<span class="ekos">Lithosphere</span>', link: '/reference/Elements/Ekos/Lithosphere/Overview', collapsed: true, items: [
-          ]
-        },
-        {
-          text: '🟩<span class="ekos">Soil</span>', link: '/reference/Elements/Ekos/Soil/Overview', collapsed: true, items: [
-            { text: '<span class="ekos">Soil Size</span>', link: '/reference/Elements/Ekos/Soil/SoilSize/Overview', collapsed: true, items: [
-              { text: '<span class="ekos">Clay</span>', link: '/reference/Elements/Ekos/Soil/SoilSize/ClaySoil' },
-              { text: '<span class="ekos">Cobble</span>', link: '/reference/Elements/Ekos/Soil/SoilSize/CobbleSoil' },
-              { text: '<span class="ekos">Pebble</span>', link: '/reference/Elements/Ekos/Soil/SoilSize/PebbleSoil' },
-              { text: '<span class="ekos">Rubble</span>', link: '/reference/Elements/Ekos/Soil/SoilSize/RubbleSoil' },
-              { text: '<span class="ekos">Sand</span>', link: '/reference/Elements/Ekos/Soil/SoilSize/SandSoil' },
-              { text: '<span class="ekos">Silt</span>', link: '/reference/Elements/Ekos/Soil/SoilSize/SiltSoil' },
-            ]},
-            { text: '<span class="ekos">Soil Fiber</span>', link: '/reference/Elements/Ekos/Soil/SoilFiber/Overview', collapsed: true, items: [
-              { text: '<span class="ekos">Fibric</span>', link: '/reference/Elements/Ekos/Soil/SoilFiber/FibricSoil' },
-              { text: '<span class="ekos">Humic</span>', link: '/reference/Elements/Ekos/Soil/SoilFiber/HumicSoil' },
-              { text: '<span class="ekos">Mesic</span>', link: '/reference/Elements/Ekos/Soil/SoilFiber/MesicSoil' },
-              { text: '<span class="ekos">RedRot (Woody)</span>', link: '/reference/Elements/Ekos/Soil/SoilFiber/WoodySoil' },
-
-            ]},
-          ]
-        },
-        // {
-        //   text: '<span class="ekos">EKOME</span>', link: '/reference/Elements/Ekos/Ekome/Overview', collapsed: true, items: [
-        //   ]
-        // },
       ]
     },
     {

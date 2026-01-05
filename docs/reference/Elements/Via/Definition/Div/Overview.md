@@ -34,7 +34,7 @@ Aliases: Area
 <!-- =================================================== -->
 <!-- =================================================== -->
 <!-- =================================================== -->
-::: details 🛠
+::: details &
 
 - DivPlanting or ParaLine FillPattern. You can't fill an area without walking in lines.
 - Some Divs can only have one NeoSite

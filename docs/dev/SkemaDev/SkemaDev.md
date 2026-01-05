@@ -113,7 +113,7 @@ The outer ring of DendroChart is a combination of Faktors
 <!-- =================================================== -->
 <!-- =================================================== -->
 <!-- =================================================== -->
-::: details 🛠
+::: details &
 
 - How to use Python to compare config and docs/*
 

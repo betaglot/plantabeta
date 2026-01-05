@@ -18,7 +18,7 @@ Complete the Zone by dividing it into Divs, then filling each Div at a time
 <!-- =================================================== -->
 <!-- =================================================== -->
 <!-- =================================================== -->
-::: details 🛠
+::: details &
 
 - Div comes from HTML
 - Exit near Entrance

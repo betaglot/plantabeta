@@ -14,7 +14,7 @@ let elementName = ""
 <!-- =================================================== -->
 <!-- =================================================== -->
 <!-- =================================================== -->
-::: details 🛠
+::: details &
 
 - Div can be a road. Roads aren't in Pieces and not necessarily in blocks either.
 - Div is VIA not Labor

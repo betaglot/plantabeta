@@ -61,7 +61,7 @@ Coverin spandrels to show the mortar between ideal tree spacing spgeres
 <!-- =================================================== -->
 <!-- =================================================== -->
 <!-- =================================================== -->
-::: details 🛠
+::: details &
 
 - Proximal is the nearest site
 - The method of a ViaSpace is Cover()

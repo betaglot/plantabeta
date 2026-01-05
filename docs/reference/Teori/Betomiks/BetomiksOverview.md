@@ -99,7 +99,7 @@ First Panel contains an UltimateView of Eko.
 <!-- =================================================== -->
 <!-- =================================================== -->
 <!-- =================================================== -->
-::: details 🛠
+::: details &
 
 - In-between chart
 - Debugger shows the Planters experience through Betomiks.py in slowmo

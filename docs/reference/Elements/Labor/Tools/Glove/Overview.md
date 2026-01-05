@@ -27,7 +27,7 @@ let elementName = "Glove"
 <!-- =================================================== -->
 <!-- =================================================== -->
 <!-- =================================================== -->
-::: details 🛠
+::: details &
 
 - CleanGloves to remove the grit that causes SkinErosion
 - FingerRevertMOTON

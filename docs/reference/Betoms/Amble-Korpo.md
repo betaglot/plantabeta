@@ -44,7 +44,7 @@ Aim small miss small. Larger moves have larger potential for error
 <!-- =================================================== -->
 <!-- =================================================== -->
 <!-- =================================================== -->
-::: details 🛠
+::: details &
 
 - AmbleSpeed
     - RelativeToAtlete

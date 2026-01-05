@@ -50,7 +50,7 @@ The word "<span class="ekos">EKOS</span>system" was derived from <span class="ek
 <!-- =================================================== -->
 <!-- =================================================== -->
 <!-- =================================================== -->
-::: details 🛠
+::: details &
 
 - All Land is EKOS, but not all EKOS is Land. Atmosphere
 - EKOS a subset of ANIMA. EKOS is perceived. The map is not the territory. ANIMA objectifies earth.

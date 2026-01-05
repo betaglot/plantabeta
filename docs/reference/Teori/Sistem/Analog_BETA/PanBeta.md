@@ -262,7 +262,7 @@ On the streets, on campus, in airports, in public transit
 
 ---
 
-::: details 🛠
+::: details &
 
 - Betasports require kindness. You can't be a kind antagonist (Opposition != Antagonist)
 - MusicBeta: Elements of Music

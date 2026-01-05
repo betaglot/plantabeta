@@ -54,7 +54,7 @@ There are no lines that are preventing you from jumping a kilometer into the air
 <!-- =================================================== -->
 <!-- =================================================== -->
 <!-- =================================================== -->
-::: details 🛠
+::: details &
 
 - FuzzyLimit
 - DiscreteLimit

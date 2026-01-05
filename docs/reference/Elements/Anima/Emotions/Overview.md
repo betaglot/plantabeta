@@ -25,7 +25,7 @@ let elementName = "Emotion"
 <!-- =================================================== -->
 <!-- =================================================== -->
 <!-- =================================================== -->
-::: details 🛠
+::: details &
 
 - Avoid the dichotomy of Joy and Sadness, since aren't actually opposites. Antagonists
 

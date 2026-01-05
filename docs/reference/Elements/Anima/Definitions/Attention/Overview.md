@@ -25,7 +25,7 @@ PlantingCycle
 <!-- =================================================== -->
 <!-- =================================================== -->
 <!-- =================================================== -->
-::: details 🛠
+::: details &
 
 - Balance a Spade on your hand. You must attend to the forces of the spade.
 - EKOS is not required for selecting what to attend to.

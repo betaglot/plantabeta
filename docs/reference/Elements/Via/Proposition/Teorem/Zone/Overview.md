@@ -18,7 +18,7 @@ Aliases: Area, Enclosure, Region, Section, Sector, Territory
 <!-- =================================================== -->
 <!-- =================================================== -->
 <!-- =================================================== -->
-::: details 🛠
+::: details &
 
 - NotHarvestedZone
     - ResidualZone

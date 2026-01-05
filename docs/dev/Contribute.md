@@ -133,7 +133,7 @@ Maximum Length
 <!-- =================================================== -->
 <!-- =================================================== -->
 <!-- =================================================== -->
-::: details 🛠 &&&
+::: details & &&&
 
 - What Instrument to use which allows easy uploading?
 - <https://opensource.guide/how-to-contribute/>

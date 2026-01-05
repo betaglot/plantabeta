@@ -50,7 +50,7 @@ treeList = [
 <!-- =================================================== -->
 <!-- =================================================== -->
 <!-- =================================================== -->
-::: details 🛠
+::: details &
 
 - <https://www.verywellmind.com/bronfenbrenner-ecological-model-7643403>
 - Documentation to play the (game == simulation == PlanterExperience)

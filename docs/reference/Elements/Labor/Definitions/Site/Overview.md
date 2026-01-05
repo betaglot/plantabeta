@@ -20,7 +20,7 @@ let elementName = ""
 <!-- =================================================== -->
 <!-- =================================================== -->
 <!-- =================================================== -->
-::: details 🛠
+::: details &
 
 - (Block: Website > Piece: Webpage > Div: ContainerElement > Microsite: InteractiveHTMLelement )
 

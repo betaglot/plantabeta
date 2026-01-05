@@ -41,7 +41,7 @@ Makes the Voronoi Cells more
 <!-- =================================================== -->
 <!-- =================================================== -->
 <!-- =================================================== -->
-::: details 🛠
+::: details &
 
 - Landmarking is like Markaging, but only in your mind. Marka represents ViaPoints.
 - <https://gwlucastrig.github.io/TinfourDocs/DelaunayIntro/index.html>

@@ -10,7 +10,7 @@ aside: false
 <!-- =================================================== -->
 <!-- =================================================== -->
 <!-- =================================================== -->
-::: details 🛠
+::: details &
 
 - Feel the perimeter of Rock. Sometimes following a RockCap for a couple meters if there aren't any other NeoSites near initial site
 - SpadeLogTest

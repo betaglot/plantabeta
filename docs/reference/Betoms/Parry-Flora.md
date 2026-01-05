@@ -32,7 +32,7 @@ aside: false
 <!-- =================================================== -->
 <!-- =================================================== -->
 <!-- =================================================== -->
-::: details 🛠
+::: details &
 
 - ParryUp, ParryLateral
 - FloraSwim, like BreastStroke to part a way through Flora. 2ArmMOTON

@@ -19,7 +19,7 @@ aside: false
 <!-- =================================================== -->
 <!-- =================================================== -->
 <!-- =================================================== -->
-::: details 🛠
+::: details &
 
 - CleanGloves to remove the grit that causes SkinErosion
 - FingerRevertMOTON

@@ -23,7 +23,7 @@ When a Planter follows the line of the Planter in front of them.
 <!-- =================================================== -->
 <!-- =================================================== -->
 <!-- =================================================== -->
-::: details 🛠
+::: details &
 
 - Partition into smaller Zones or Follow
 

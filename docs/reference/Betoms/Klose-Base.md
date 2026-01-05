@@ -12,7 +12,7 @@ Aliases: FootClose
 <!-- =================================================== -->
 <!-- =================================================== -->
 <!-- =================================================== -->
-::: details 🛠
+::: details &
 
 - BootPrint
     - You can tell the type of BootKlose that a Planter used by the BootPrint that they leave

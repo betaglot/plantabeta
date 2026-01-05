@@ -12,7 +12,7 @@ Aliases: Test, Probe, Validate, Verify, Examine
 <!-- =================================================== -->
 <!-- =================================================== -->
 <!-- =================================================== -->
-::: details 🛠
+::: details &
 
 -
 - DrySiltSoil must be compressed before Impact to prevent tree lean

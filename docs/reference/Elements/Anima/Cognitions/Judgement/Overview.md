@@ -63,7 +63,7 @@ Quote(ThinkingFastAndSlow(94))
 <!-- =================================================== -->
 <!-- =================================================== -->
 <!-- =================================================== -->
-::: details 🛠
+::: details &
 
 - Density is an intuitive judgement. Kahneman. Regular and lots of feedback
 

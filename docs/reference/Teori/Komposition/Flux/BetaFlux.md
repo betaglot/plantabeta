@@ -38,7 +38,7 @@ Aliases: Flow, Fluidity, Fluency, Transition
 <!-- =================================================== -->
 <!-- =================================================== -->
 <!-- =================================================== -->
-::: details 🛠
+::: details &
 
 - Smooth
 - The Space between Moments, concretely in Betomiks and abstractly

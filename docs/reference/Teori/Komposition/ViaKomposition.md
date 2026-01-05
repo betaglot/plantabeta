@@ -28,7 +28,7 @@ NormalForce vector is a parameter in area suitability computation Selection
 <!-- =================================================== -->
 <!-- =================================================== -->
 <!-- =================================================== -->
-::: details 🛠
+::: details &
 
 - What is the difference between a composition and an Element?
     - All of the elements are PanBeta

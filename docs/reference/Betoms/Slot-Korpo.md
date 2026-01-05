@@ -29,7 +29,7 @@ aside: false
 <!-- =================================================== -->
 <!-- =================================================== -->
 <!-- =================================================== -->
-::: details 🛠
+::: details &
 
 - (BodySlot != FloraPass)
     - Slotting between two trunks or between two rocks doesn't require any FloraMOTON

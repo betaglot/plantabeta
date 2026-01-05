@@ -70,7 +70,7 @@ No images of humans at a computer. It doesn't even need to be technical, just an
 <!-- =================================================== -->
 <!-- =================================================== -->
 <!-- =================================================== -->
-::: details 🛠 &&&
+::: details & &&&
 
 - ScaleBar
 - Have a BetaGraphic of your piece with recommended Line VIA-Path.

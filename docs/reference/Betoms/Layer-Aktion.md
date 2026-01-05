@@ -10,7 +10,7 @@ aside: false
 <!-- =================================================== -->
 <!-- =================================================== -->
 <!-- =================================================== -->
-::: details 🛠
+::: details &
 
 - informal
     - used by nudists to describe something relating to or restricted to people wearing clothes.

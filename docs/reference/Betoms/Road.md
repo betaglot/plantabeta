@@ -32,7 +32,7 @@ Block Start
 <!-- =================================================== -->
 <!-- =================================================== -->
 <!-- =================================================== -->
-::: details 🛠
+::: details &
 
 - CutBank
 - To a Planter a Road is more VIA than EKOS, since no planting is ever performed on road, unless it has been deactivated.

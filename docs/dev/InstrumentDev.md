@@ -544,7 +544,7 @@ Weave Tab
 <!-- =================================================== -->
 <!-- =================================================== -->
 <!-- =================================================== -->
-::: details 🛠 &&&
+::: details & &&&
 
 - What could be planted to suppress fire like a firebreak or something. Planted just before
 

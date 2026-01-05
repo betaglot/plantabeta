@@ -55,7 +55,7 @@ A greater knowledge of possible alternative moves can prevent Christmas Toe from
 <!-- =================================================== -->
 <!-- =================================================== -->
 <!-- =================================================== -->
-::: details 🛠 &&&
+::: details & &&&
 
 - Weighted Doru for Antagonists. One bag up a day
 - Athleanx  reverse lunge is easier on knees into trenches

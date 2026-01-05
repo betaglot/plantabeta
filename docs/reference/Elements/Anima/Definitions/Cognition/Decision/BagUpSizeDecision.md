@@ -17,7 +17,7 @@ let elementName = ""
 <!-- =================================================== -->
 <!-- =================================================== -->
 <!-- =================================================== -->
-::: details 🛠
+::: details &
 
 - BagUpSize affects PutRate and ViaSize
     - BagUpSize is measured by TreeCount

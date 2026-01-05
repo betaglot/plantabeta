@@ -10,7 +10,7 @@ aside: false
 <!-- =================================================== -->
 <!-- =================================================== -->
 <!-- =================================================== -->
-::: details 🛠
+::: details &
 
 - BranchSnap
 - You can tell when you hit a branch with your Spade whether it's Living or Dead by the sound it makes.

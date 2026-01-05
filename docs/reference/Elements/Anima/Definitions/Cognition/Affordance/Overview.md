@@ -17,7 +17,7 @@ let elementName = ""
 <!-- =================================================== -->
 <!-- =================================================== -->
 <!-- =================================================== -->
-::: details 🛠
+::: details &
 
 - Takta, Lines, Zones require Affordance
 - Where is Affordance found in MOTONs?

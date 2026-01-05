@@ -7,7 +7,7 @@
 <!-- =================================================== -->
 <!-- =================================================== -->
 <!-- =================================================== -->
-::: details 🛠
+::: details &
 
 - BaseOnda can be used to add energy to the Tangent before HandRelease
 - SteepDeclineWalk

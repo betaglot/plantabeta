@@ -9,7 +9,7 @@
 <!-- =================================================== -->
 <!-- =================================================== -->
 <!-- =================================================== -->
-::: details 🛠
+::: details &
 
 - Usually only used on the first couple BagOuts
 - A PerimeterLine isn't the same as a PerimeterPlan

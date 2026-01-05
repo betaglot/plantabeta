@@ -14,7 +14,7 @@ Spanish(Onda) == Wave
 <!-- =================================================== -->
 <!-- =================================================== -->
 <!-- =================================================== -->
-::: details 🛠
+::: details &
 
 - PanBeta(CookBeta) ConeMOTON is used a lot in baking. Stir with your wrist instead of whole arm.
     - ShoulderCone

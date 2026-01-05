@@ -22,7 +22,7 @@ An object is only an obstacle if it hinders your Via.
 <!-- =================================================== -->
 <!-- =================================================== -->
 <!-- =================================================== -->
-::: details 🛠
+::: details &
 
 - [SlashPile,Boulder,ResidualPatch,Water,BigStump,RockCap,Cliff,Snow,Ice,MudPit]
 - A Zone which can't be traversed

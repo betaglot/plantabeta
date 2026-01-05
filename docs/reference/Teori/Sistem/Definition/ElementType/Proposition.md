@@ -333,7 +333,7 @@ From the french dictionary [Le Robert](https://dictionnaire.lerobert.com/definit
 <!-- =================================================== -->
 <!-- =================================================== -->
 <!-- =================================================== -->
-::: details 🛠
+::: details &
 
 - QED Quod Erat Demonstratum
 

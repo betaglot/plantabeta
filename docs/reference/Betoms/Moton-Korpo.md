@@ -14,7 +14,7 @@ aside: false
 <!-- =================================================== -->
 <!-- =================================================== -->
 <!-- =================================================== -->
-::: details 🛠
+::: details &
 
 - Clamber = Definition("climb, move, or get in or out of something in an awkward and laborious way, typically using both hands and feet")
 - Scramble

@@ -39,7 +39,7 @@ Betamax was a piece of hardware (similar to a VHS tape or cassete) which was use
 <!-- =================================================== -->
 <!-- =================================================== -->
 <!-- =================================================== -->
-::: details 🛠
+::: details &
 
 - The Plural of Betom is Beta
 - Etymology

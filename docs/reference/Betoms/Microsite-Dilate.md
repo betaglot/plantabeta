@@ -12,7 +12,7 @@ Aliases: HoleOpen, Open a Hole
 <!-- =================================================== -->
 <!-- =================================================== -->
 <!-- =================================================== -->
-::: details 🛠
+::: details &
 
 - SelectSite->ValidateSite->SiteCut->SiteExpand->InsertTree->SealSite->MarkSite
 

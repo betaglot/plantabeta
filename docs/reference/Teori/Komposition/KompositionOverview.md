@@ -48,7 +48,7 @@ One of the foundations of Computational Thinking
 <!-- =================================================== -->
 <!-- =================================================== -->
 <!-- =================================================== -->
-::: details 🛠
+::: details &
 
 - Designers make Kompositions
     - DSA\"Atlete as Designer"

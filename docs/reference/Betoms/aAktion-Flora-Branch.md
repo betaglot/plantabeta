@@ -10,7 +10,7 @@ aside: false
 <!-- =================================================== -->
 <!-- =================================================== -->
 <!-- =================================================== -->
-::: details 🛠
+::: details &
 
 - BranchMano
     - When the Branch is small diameter, you can use your use your thumb to oppose your fingers, instead of using your palm

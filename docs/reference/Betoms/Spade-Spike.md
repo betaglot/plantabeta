@@ -36,7 +36,7 @@ Aliases: SpadeSlam, SpadeThrow, SpadeChop
 <!-- =================================================== -->
 <!-- =================================================== -->
 <!-- =================================================== -->
-::: details 🛠
+::: details &
 
 <https://www.youtube.com/watch?v=u-WhjYYocBs&t=115s&ab_channel=ElevateYourself>
 

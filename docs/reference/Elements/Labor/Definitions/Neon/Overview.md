@@ -38,7 +38,7 @@ let elementName = ""
 <!-- =================================================== -->
 <!-- =================================================== -->
 <!-- =================================================== -->
-::: details 🛠
+::: details &
 
 - The Seedlings that you're planting are not part of EKOS, they are brought to the Block by your company.
 
