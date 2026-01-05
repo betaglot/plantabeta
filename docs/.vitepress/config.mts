@@ -359,13 +359,15 @@ function sidebarElements() {
                     { text: '<span class="ekos">WetSlash</span>', link: '/reference/Elements/Ekos/Ekosfera/Antroposfera/Slash/WetSlash' },
                   ]
                 },
-                { text: 'Cut Bank', link: '' },
-                ci
+                { text: '<span class="ekos">Cut Bank</span>', link: '/reference/Elements/Ekos/Ekosfera/Antroposfera/CutBank' },
+                { text: '<span class="ekos">Road</span>', link: '/reference/Elements/Ekos/Ekosfera/Antroposfera/Road' },
+                { text: '<span class="ekos">Landing</span>', link: '/reference/Elements/Ekos/Ekosfera/Antroposfera/Landing' },
+                { text: '<span class="ekos">Skidder Trail</span>', link: '/reference/Elements/Ekos/Ekosfera/Antroposfera/SkidderTrail' },
+
               ]
             },
             {
               text: '🟩<span class="ekos">Atmosfera</span>', link: '/reference/Elements/Ekos/Ekosfera/Atmosfera/Overview', collapsed: true, items: [
-
                 {
                   text: '<span class="ekos">Particulates</span>', link: '/reference/Elements/Ekos/Ekosfera/Atmosfera/Particulates/Overview', collapsed: true, items: [
                     { text: '<span class="ekos">Ash</span>', link: '/reference/Elements/Ekos/Ekosfera/Atmosfera/Particulates/Ash' },
@@ -386,19 +388,46 @@ function sidebarElements() {
                 { text: '<span class="ekos">AirTemperature</span>', link: '/reference/Elements/Ekos/Ekosfera/Atmosfera/AirTemperature' },
                 { text: '<span class="ekos">Humidity</span>', link: '/reference/Elements/Ekos/Ekosfera/Atmosfera/Humidity' },
                 { text: '<span class="ekos">Lightning</span>', link: '/reference/Elements/Ekos/Ekosfera/Atmosfera/Lightning' },
+                { text: '<span class="ekos">Sun</span>', link: '/reference/Elements/Ekos/Ekosfera/Atmosfera/Sun' },
                 { text: '<span class="ekos">Wind</span>', link: '/reference/Elements/Ekos/Ekosfera/Atmosfera/Wind' },
               ]
             },
             {
               text: '🟩<span class="ekos">Biosfera</span>', link: '/reference/Elements/Ekos/Ekosfera/Biosfera/Overview', collapsed: true, items: [
                 {
-                  text: '<span class="ekos">Animal</span>', link: '/reference/Elements/Ekos/Ekosfera/Biosfera/Animals/Overview', collapsed: true, items: [
-                    { text: '<span class="ekos">Bird</span>', link: '/reference/Elements/Ekos/Ekosfera/Biosfera/Animals/Bird' },
-                    { text: '<span class="ekos">Insect</span>', link: '/reference/Elements/Ekos/Ekosfera/Biosfera/Animals/Insect' },
+                  text: '<span class="ekos">Animal</span>', link: '/reference/Elements/Ekos/Ekosfera/Biosfera/Animal/Overview', collapsed: true, items: [
+                    { text: '<span class="ekos">Ant</span>', link: '/reference/Elements/Ekos/Ekosfera/Biosfera/Animal/Ant' },
+                    { text: '<span class="ekos">Bear</span>', link: '/reference/Elements/Ekos/Ekosfera/Biosfera/Animal/Bear' },
+                    { text: '<span class="ekos">Bird</span>', link: '/reference/Elements/Ekos/Ekosfera/Biosfera/Animal/Bird' },
+                    { text: '<span class="ekos">Cow</span>', link: '/reference/Elements/Ekos/Ekosfera/Biosfera/Animal/Cow' },
+                    { text: '<span class="ekos">Flies</span>', link: '/reference/Elements/Ekos/Ekosfera/Biosfera/Animal/Bird' },
+                    { text: '<span class="ekos">Hornet</span>', link: '/reference/Elements/Ekos/Ekosfera/Biosfera/Animal/Hornet' },
+                    { text: '<span class="ekos">Moose</span>', link: '/reference/Elements/Ekos/Ekosfera/Biosfera/Animal/Moose' },
+                    { text: '<span class="ekos">Mosquito</span>', link: '/reference/Elements/Ekos/Ekosfera/Biosfera/Animal/Mosquito' },
                   ]
                 },
-                { text: 'Dendron', link: '', collapsed: true, items: [] },
-                { text: 'Flora', link: '', collapsed: true, items: [] },
+                {
+                  text: '<span class="ekos">Dendron</span>', link: '/reference/Elements/Ekos/Ekosfera/Biosfera/Dendron/Overview', collapsed: true, items: [
+                    { text: '<span class="ekos">Larix</span>', link: '/reference/Elements/Ekos/Ekosfera/Biosfera/Dendron/Larix' },
+                    { text: '<span class="ekos">Picea</span>', link: '/reference/Elements/Ekos/Ekosfera/Biosfera/Dendron/Picea' },
+                    { text: '<span class="ekos">Pinus</span>', link: '/reference/Elements/Ekos/Ekosfera/Biosfera/Dendron/Pinus' },
+                    { text: '<span class="ekos">Pseudotsuga</span>', link: '/reference/Elements/Ekos/Ekosfera/Biosfera/Dendron/Pseudotsuga' },
+                    { text: '<span class="ekos">Quercus</span>', link: '/reference/Elements/Ekos/Ekosfera/Biosfera/Dendron/Quercus' },
+                    { text: '<span class="ekos">Thuja</span>', link: '/reference/Elements/Ekos/Ekosfera/Biosfera/Dendron/Thuja' },
+                    { text: '<span class="ekos">Tsuga</span>', link: '/reference/Elements/Ekos/Ekosfera/Biosfera/Dendron/Tsuga' },
+                  ]
+                },
+                {
+                  text: 'Flora', link: '/reference/Elements/Ekos/Ekosfera/Biosfera/Flora/', collapsed: true, items: [
+                    { text: '<span class="ekos">Abies</span>', link: '/reference/Elements/Ekos/Ekosfera/Biosfera/Flora/Abies' },
+                    { text: '<span class="ekos">Bryophyta</span>', link: '/reference/Elements/Ekos/Ekosfera/Biosfera/Flora/Bryophyta' },
+                    { text: '<span class="ekos">BurntFlora</span>', link: '/reference/Elements/Ekos/Ekosfera/Biosfera/Flora/BurntFlora' },
+                    { text: '<span class="ekos">Flower</span>', link: '/reference/Elements/Ekos/Ekosfera/Biosfera/Flora/Flower' },
+                    { text: '<span class="ekos">Log</span>', link: '/reference/Elements/Ekos/Ekosfera/Biosfera/Flora/Log' },
+                    { text: '<span class="ekos">Poales</span>', link: '/reference/Elements/Ekos/Ekosfera/Biosfera/Flora/Poales' },
+                    { text: '<span class="ekos">Stump</span>', link: '/reference/Elements/Ekos/Ekosfera/Biosfera/Flora/Stump' },
+                  ]
+                },
                 { text: '<span class="ekos">Fungi</span>', link: '/reference/Elements/Ekos/Ekosfera/Biosfera/Fungi/Overview', collapsed: true, items: [] },
                 {
                   text: '<span class="ekos">Plants</span>', link: '/reference/Elements/Ekos/Ekosfera/Biosfera/Plants/Overview', collapsed: true, items: [
@@ -408,6 +437,10 @@ function sidebarElements() {
             },
             {
               text: '🟩<span class="ekos">Hydrosfera</span>', link: '/reference/Elements/Ekos/Ekosfera/Hydrosfera/Overview', collapsed: true, items: [
+                { text: '<span class="ekos">Condensation</span>', link: '/reference/Elements/Ekos/Ekosfera/Hydrosfera/Condensation' },
+                { text: '<span class="ekos">Ground Water</span>', link: '/reference/Elements/Ekos/Ekosfera/Hydrosfera/GroundWater' },
+                { text: '<span class="ekos">Moving Water</span>', link: '/reference/Elements/Ekos/Ekosfera/Hydrosfera/MovingWater' },
+                { text: '<span class="ekos">Stagnant Water</span>', link: '/reference/Elements/Ekos/Ekosfera/Hydrosfera/StagnantWater' },
               ]
             },
             {
