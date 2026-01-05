@@ -79,7 +79,7 @@ import BetaTranscriptor from '/vue/BetaTranscriptor.vue'
 }
 
 .VPHero .VPButton {
-  background-image: linear-gradient(to right, #FFCC00,#569cd6,#6a9955,#ff3131,#da680f,#c586c0);
+  background-image: linear-gradient(to right, #EFBF04, #2891e7, #49e82b, #ff3333, #d9670f, #c286bf);
   /* color: transparent; */
   /* background-clip: text;
   -webkit-background-clip: text; */

@@ -11,7 +11,7 @@
 
 .VPNavBarTitle span {
   font-weight: 900;
-  background-image: linear-gradient(to right, #ffcc00,#579dd6,#6b9b55,#ff3333,#d9670f,#c587c0);
+  background-image: linear-gradient(to right, #EFBF04, #2891e7, #49e82b, #ff3333, #d9670f, #c286bf);
   color: transparent;
   background-clip: text;
   -webkit-background-clip: text;
@@ -34,7 +34,7 @@
 }
 
 footer.VPFooter {
-    display: block !important;
+  display: block !important;
 }
 
 
@@ -50,7 +50,7 @@ footer.VPFooter {
 
 .beta {
   font-weight: 900;
-  background-image: linear-gradient(to right, #FFCC00,#569cd6,#6a9955,#ff3131,#da680f,#c586c0);
+  background-image: linear-gradient(to right, #EFBF04, #2891e7, #49e82b, #ff3333, #d9670f, #c286bf);
   color: transparent;
   background-clip: text;
   -webkit-background-clip: text;
@@ -62,35 +62,29 @@ thick {
 }
 
 .labor {
-  font-weight: 900;
-  color:  #FFCC00;
-  
+  color: #EFBF04;
+
 }
 
 .soma {
-  font-weight: 900;
-  color: #569cd6;
+  color: #2891e7;
 }
 
 .ekos {
-  font-weight: 900;
-  color: #6a9955;
+  color: #49e82b;
 }
 
 .via {
-  font-weight: 900;
-  color: #ff3131;
+  color: #ff3333;
 }
 
 .motor {
-  font-weight: 900;
   color: #da680f;
 
 }
 
 .anima {
-  font-weight: 900;
-  color: #c586c0;
+  color: #c286bf;
 }
 
 bg {
@@ -98,7 +92,6 @@ bg {
 }
 
 py {
-  font-weight: 900;
   color: #6ec08b;
 }
 
@@ -106,48 +99,11 @@ error {
   text-decoration: underline red;
 }
 
-
-.VPNavBarTitle #text {
-  color: blue;
-}
-
-.labor {
-  font-weight: 900;
-  color:  #FFCC00;
-  
-}
-
-.soma {
-  font-weight: 900;
-  color: #569cd6;
-}
-
-.ekos {
-  font-weight: 900;
-  color: #6a9955;
-}
-
-.via {
-  font-weight: 900;
-  color: #ff3131;
-}
-
-.motor {
-  font-weight: 900;
-  color: #da680f;
-
-}
-
-.anima {
-  font-weight: 900;
-  color: #c586c0;
-}
-
 .rainbow {
-    background-image: linear-gradient(to right, #FFCC00, #569cd6, #6a9955, #ff3131, #da680f, #c586c0);
-    text-decoration: none;
+  background-image: linear-gradient(to right, #FFCC00, #569cd6, #6a9955, #ff3131, #da680f, #c586c0);
+  text-decoration: none;
 }
 
-a:link{
-  text-decoration: none!important;
+a:link {
+  text-decoration: none !important;
 }

@@ -20,6 +20,93 @@
             "elementQuote": []
         }
     },
+    "Execution": {
+        "elementEnglishName": "Execution",
+        "elementFaktor": "Labor",
+        "elementID": "",
+        "elementTaxonomy": [
+            "Labor",
+            "Performance",
+            "Execution"
+        ],
+        "elementAlias": [],
+        "elementDescription": "",
+        "elementBetanyms": [
+            ""
+        ],
+        "elementInBetom": [],
+        "elementProfilePic": "",
+        "elementExample": {
+            "elementVideo": [],
+            "elementImage": [],
+            "elementQuote": []
+        }
+    },
+    "FillBlock": {
+        "elementEnglishName": "FillBlock",
+        "elementFaktor": "Labor",
+        "elementID": "",
+        "elementTaxonomy": [
+            "Labor",
+            "Task",
+            "Block",
+            "FillBlock"
+        ],
+        "elementAlias": [],
+        "elementDescription": "",
+        "elementBetanyms": [],
+        "elementInBetom": [],
+        "elementProfilePic": "",
+        "elementExample": {
+            "elementVideo": [],
+            "elementImage": [],
+            "elementQuote": []
+        }
+    },
+    "Block": {
+        "elementEnglishName": "Block",
+        "elementFaktor": "Labor",
+        "elementID": "",
+        "elementTaxonomy": [
+            "Labor",
+            "Task",
+            "Block"
+        ],
+        "elementAlias": [],
+        "elementDescription": "",
+        "elementBetanyms": [],
+        "elementInBetom": [],
+        "elementProfilePic": "",
+        "elementExample": {
+            "elementVideo": [],
+            "elementImage": [],
+            "elementQuote": []
+        }
+    },
+    "Neon": {
+        "elementEnglishName": "Neon",
+        "elementFaktor": "Labor",
+        "elementID": "",
+        "elementTaxonomy": [
+            "Labor",
+            "Neon"
+        ],
+        "elementAlias": [
+            "seedling",
+            "tree"
+        ],
+        "elementDescription": "",
+        "elementBetanyms": [
+            ""
+        ],
+        "elementInBetom": [],
+        "elementProfilePic": "",
+        "elementExample": {
+            "elementVideo": [],
+            "elementImage": [],
+            "elementQuote": []
+        }
+    },
     "Route": {
         "elementEnglishName": "Route",
         "elementFaktor": "Labor",
@@ -30,6 +117,26 @@
         ],
         "elementAlias": [],
         "elementDescription": "a path with a defined start and finish",
+        "elementBetanyms": [],
+        "elementInBetom": [],
+        "elementProfilePic": "",
+        "elementExample": {
+            "elementVideo": [],
+            "elementImage": [],
+            "elementQuote": []
+        }
+    },
+    "Cache": {
+        "elementEnglishName": "Cache",
+        "elementFaktor": "Labor",
+        "elementID": "",
+        "elementTaxonomy": [
+            "Labor",
+            "Tool",
+            "Cache"
+        ],
+        "elementAlias": [],
+        "elementDescription": "",
         "elementBetanyms": [],
         "elementInBetom": [],
         "elementProfilePic": "",
@@ -83,14 +190,34 @@
             "elementQuote": []
         }
     },
-    "Adjust": {
-        "elementEnglishName": "Adjust",
+    "Ankor": {
+        "elementEnglishName": "Ankor",
         "elementFaktor": "Labor",
         "elementID": "",
         "elementTaxonomy": [
             "Labor",
             "Aktion",
-            "Adjust"
+            "Ankor"
+        ],
+        "elementAlias": [],
+        "elementDescription": "",
+        "elementBetanyms": [],
+        "elementInBetom": [],
+        "elementProfilePic": "",
+        "elementExample": {
+            "elementVideo": [],
+            "elementImage": [],
+            "elementQuote": []
+        }
+    },
+    "Modify": {
+        "elementEnglishName": "Modify",
+        "elementFaktor": "Labor",
+        "elementID": "",
+        "elementTaxonomy": [
+            "Labor",
+            "Aktion",
+            "Modify"
         ],
         "elementAlias": [],
         "elementDescription": "to change something slightly, especially to make it more correct, effective",
@@ -165,7 +292,7 @@
     },
     "Aspis": {
         "elementEnglishName": "Aspis",
-        "elementFaktor": "",
+        "elementFaktor": "Labor",
         "elementID": "",
         "elementTaxonomy": [
             "Labor",
@@ -184,7 +311,7 @@
     },
     "Ballista": {
         "elementEnglishName": "Ballista",
-        "elementFaktor": "",
+        "elementFaktor": "Labor",
         "elementID": "",
         "elementTaxonomy": [
             "Labor",
@@ -203,7 +330,7 @@
     },
     "Construct": {
         "elementEnglishName": "Construct",
-        "elementFaktor": "",
+        "elementFaktor": "Labor",
         "elementID": "",
         "elementTaxonomy": [
             "Labor",
@@ -282,7 +409,7 @@
     },
     "Dig": {
         "elementEnglishName": "Dig",
-        "elementFaktor": "",
+        "elementFaktor": "Labor",
         "elementID": "",
         "elementTaxonomy": [
             "Labor",
@@ -441,7 +568,7 @@
     },
     "Klose": {
         "elementEnglishName": "Klose",
-        "elementFaktor": "",
+        "elementFaktor": "Labor",
         "elementID": "",
         "elementTaxonomy": [
             "Labor",
@@ -480,7 +607,7 @@
     },
     "Kompakt": {
         "elementEnglishName": "Kompakt",
-        "elementFaktor": "",
+        "elementFaktor": "Labor",
         "elementID": "",
         "elementTaxonomy": [
             "Labor",
@@ -499,7 +626,7 @@
     },
     "Kompress": {
         "elementEnglishName": "Kompress",
-        "elementFaktor": "",
+        "elementFaktor": "Labor",
         "elementID": "",
         "elementTaxonomy": [
             "Labor",
@@ -538,7 +665,7 @@
     },
     "Launch": {
         "elementEnglishName": "Launch",
-        "elementFaktor": "",
+        "elementFaktor": "Labor",
         "elementID": "",
         "elementTaxonomy": [
             "Labor",
@@ -577,7 +704,7 @@
     },
     "Load": {
         "elementEnglishName": "Load",
-        "elementFaktor": "",
+        "elementFaktor": "Labor",
         "elementID": "",
         "elementTaxonomy": [
             "Labor",
@@ -623,7 +750,7 @@
     },
     "Machete": {
         "elementEnglishName": "Machete",
-        "elementFaktor": "",
+        "elementFaktor": "Labor",
         "elementID": "",
         "elementTaxonomy": [
             "Labor",
@@ -692,7 +819,7 @@
     },
     "Parry": {
         "elementEnglishName": "Parry",
-        "elementFaktor": "",
+        "elementFaktor": "Labor",
         "elementID": "",
         "elementTaxonomy": [
             "Labor",
@@ -755,7 +882,7 @@
     },
     "Purga": {
         "elementEnglishName": "Purga",
-        "elementFaktor": "",
+        "elementFaktor": "Labor",
         "elementID": "",
         "elementTaxonomy": [
             "Labor",
@@ -855,7 +982,7 @@
     },
     "Slam": {
         "elementEnglishName": "Slam",
-        "elementFaktor": "",
+        "elementFaktor": "Labor",
         "elementID": "",
         "elementTaxonomy": [
             "Labor",
@@ -874,7 +1001,7 @@
     },
     "Snap": {
         "elementEnglishName": "Snap",
-        "elementFaktor": "",
+        "elementFaktor": "Labor",
         "elementID": "",
         "elementTaxonomy": [
             "Labor",
@@ -942,6 +1069,26 @@
         ],
         "elementAlias": [],
         "elementDescription": "to put something into a narrow hole or opening",
+        "elementBetanyms": [],
+        "elementInBetom": [],
+        "elementProfilePic": "",
+        "elementExample": {
+            "elementVideo": [],
+            "elementImage": [],
+            "elementQuote": []
+        }
+    },
+    "Slap": {
+        "elementEnglishName": "Slap",
+        "elementFaktor": "Labor",
+        "elementID": "",
+        "elementTaxonomy": [
+            "Labor",
+            "Aktion",
+            "Slap"
+        ],
+        "elementAlias": [],
+        "elementDescription": "",
         "elementBetanyms": [],
         "elementInBetom": [],
         "elementProfilePic": "",
@@ -1136,7 +1283,7 @@
     },
     "Piece": {
         "elementEnglishName": "Piece",
-        "elementFaktor": "",
+        "elementFaktor": "Labor",
         "elementID": "",
         "elementTaxonomy": [
             "Labor",
@@ -1155,7 +1302,7 @@
     },
     "Specs": {
         "elementEnglishName": "Specs",
-        "elementFaktor": "",
+        "elementFaktor": "Labor",
         "elementID": "",
         "elementTaxonomy": [
             "Labor",
@@ -1295,7 +1442,7 @@
     },
     "Boot": {
         "elementEnglishName": "Boot",
-        "elementFaktor": "",
+        "elementFaktor": "Labor",
         "elementID": "",
         "elementTaxonomy": [
             "Labor",
@@ -1314,7 +1461,7 @@
     },
     "Bottle": {
         "elementEnglishName": "Bottle",
-        "elementFaktor": "",
+        "elementFaktor": "Labor",
         "elementID": "",
         "elementTaxonomy": [
             "Labor",
@@ -1333,7 +1480,7 @@
     },
     "Box": {
         "elementEnglishName": "Box",
-        "elementFaktor": "",
+        "elementFaktor": "Labor",
         "elementID": "",
         "elementTaxonomy": [
             "Labor",
@@ -1352,7 +1499,7 @@
     },
     "Bundle": {
         "elementEnglishName": "",
-        "elementFaktor": "",
+        "elementFaktor": "Labor",
         "elementID": "",
         "elementTaxonomy": [
             "Labor",
@@ -1371,7 +1518,7 @@
     },
     "Doru": {
         "elementEnglishName": "Doru",
-        "elementFaktor": "",
+        "elementFaktor": "Labor",
         "elementID": "",
         "elementTaxonomy": [
             "Labor",
@@ -1388,173 +1535,6 @@
             "elementQuote": []
         }
     },
-    "Crashpad": {
-        "elementEnglishName": "Crashpad",
-        "elementFaktor": "Labor",
-        "elementID": "",
-        "elementTaxonomy": [
-            "Labor",
-            "Tools",
-            "FallProtection",
-            "Crashpad"
-        ],
-        "elementAlias": [],
-        "elementDescription": "a movable thick piece of shock-absorbing material",
-        "elementBetanyms": [],
-        "elementInBetom": [],
-        "elementProfilePic": "",
-        "elementExample": {
-            "elementVideo": [],
-            "elementImage": [],
-            "elementQuote": []
-        }
-    },
-    "GriGri": {
-        "elementEnglishName": "GriGri",
-        "elementFaktor": "Labor",
-        "elementID": "",
-        "elementTaxonomy": [
-            "Labor",
-            "Tools",
-            "FallProtection",
-            "GriGri"
-        ],
-        "elementAlias": [],
-        "elementDescription": "an assisted braking belay device manufactured by Petzl",
-        "elementBetanyms": [],
-        "elementInBetom": [],
-        "elementProfilePic": "",
-        "elementExample": {
-            "elementVideo": [],
-            "elementImage": [],
-            "elementQuote": []
-        }
-    },
-    "Matting": {
-        "elementEnglishName": "Matting",
-        "elementFaktor": "Labor",
-        "elementID": "",
-        "elementTaxonomy": [
-            "Labor",
-            "Tools",
-            "FallProtection",
-            "Matting"
-        ],
-        "elementAlias": [],
-        "elementDescription": "a shock-absorbing material which extends along the floor away from the wall at least 2 meters",
-        "elementBetanyms": [],
-        "elementInBetom": [],
-        "elementProfilePic": "/Gifs/KlimBeta-000080_cropped.gif",
-        "elementExample": {
-            "elementVideo": [],
-            "elementImage": [],
-            "elementQuote": []
-        }
-    },
-    "Quickdraw": {
-        "elementEnglishName": "Quickdraw",
-        "elementFaktor": "Labor",
-        "elementID": "",
-        "elementTaxonomy": [
-            "Labor",
-            "Tools",
-            "FallProtection",
-            "Quickdraw"
-        ],
-        "elementAlias": [],
-        "elementDescription": "two carabiners linked by a short, sewn sling, used to connect a klimber's rope to bolts or anchors on a route, reducing friction and allowing the rope to run smoothly for safer leading. One carabiner clips to the bolt, while the other clips to the rope",
-        "elementBetanyms": [],
-        "elementInBetom": [],
-        "elementProfilePic": "",
-        "elementExample": {
-            "elementVideo": [],
-            "elementImage": [],
-            "elementQuote": []
-        }
-    },
-    "TopRope": {
-        "elementEnglishName": "Top Rope",
-        "elementFaktor": "Labor",
-        "elementID": "",
-        "elementTaxonomy": [
-            "Labor",
-            "Tools",
-            "FallProtection",
-            "TopRope"
-        ],
-        "elementAlias": [],
-        "elementDescription": "a klimber is protected by a rope that runs from a belayer on the ground, up through a fixed anchor at the top of the route, and back down to the klimber",
-        "elementBetanyms": [],
-        "elementInBetom": [],
-        "elementProfilePic": "",
-        "elementExample": {
-            "elementVideo": [],
-            "elementImage": [],
-            "elementQuote": []
-        }
-    },
-    "Chalk": {
-        "elementEnglishName": "Chalk",
-        "elementFaktor": "Labor",
-        "elementID": "",
-        "elementTaxonomy": [
-            "Labor",
-            "Tools",
-            "KontaktTools",
-            "Chalk"
-        ],
-        "elementAlias": [],
-        "elementDescription": "a powder used by climbers to absorb sweat and moisture from their hands",
-        "elementBetanyms": [],
-        "elementInBetom": [],
-        "elementProfilePic": "",
-        "elementExample": {
-            "elementVideo": [],
-            "elementImage": [],
-            "elementQuote": []
-        }
-    },
-    "Chalkbag": {
-        "elementEnglishName": "Chalkbag",
-        "elementFaktor": "Labor",
-        "elementID": "",
-        "elementTaxonomy": [
-            "Labor",
-            "Tools",
-            "KontaktTools",
-            "Chalkbag"
-        ],
-        "elementAlias": [],
-        "elementDescription": "a small pouch, worn on a climber's waist or harness, that holds climbing chalk",
-        "elementBetanyms": [],
-        "elementInBetom": [],
-        "elementProfilePic": "",
-        "elementExample": {
-            "elementVideo": [],
-            "elementImage": [],
-            "elementQuote": []
-        }
-    },
-    "KontaktTool": {
-        "elementEnglishName": "Kontakt Tool",
-        "elementFaktor": "Labor",
-        "elementID": "",
-        "elementTaxonomy": [
-            "Labor",
-            "Tools",
-            "KontaktTool"
-        ],
-        "elementAlias": [],
-        "elementDescription": "a tool used to Kontakt a site",
-        "elementBetanyms": [],
-        "elementInBetom": [],
-        "elementProfilePic": "",
-        "elementExample": {
-            "elementVideo": [],
-            "elementImage": [],
-            "elementQuote": []
-        }
-    },
     "Rope": {
         "elementEnglishName": "Rope",
         "elementFaktor": "Labor",
@@ -1562,7 +1542,6 @@
         "elementTaxonomy": [
             "Labor",
             "Tool",
-            "FallProtection",
             "Rope"
         ],
         "elementAlias": [],
@@ -1583,34 +1562,12 @@
         "elementTaxonomy": [
             "Labor",
             "Tool",
-            "FallProtection",
             "Carabiner"
         ],
         "elementAlias": [
             "Karabiner"
         ],
         "elementDescription": "an object used for attaching two things, for example by a Klimber for attaching a rope to a harness. It is oval or like a letter D in shape, with a part that opens and closes",
-        "elementBetanyms": [],
-        "elementInBetom": [],
-        "elementProfilePic": "",
-        "elementExample": {
-            "elementVideo": [],
-            "elementImage": [],
-            "elementQuote": []
-        }
-    },
-    "Harness": {
-        "elementEnglishName": "Harness",
-        "elementFaktor": "Labor",
-        "elementID": "",
-        "elementTaxonomy": [
-            "Labor",
-            "Tool",
-            "FallProtection",
-            "Harness"
-        ],
-        "elementAlias": [],
-        "elementDescription": "a piece of equipment with straps and belts, used to control or hold in place a person",
         "elementBetanyms": [],
         "elementInBetom": [],
         "elementProfilePic": "",
@@ -1641,48 +1598,6 @@
             "elementQuote": []
         }
     },
-    "Cam": {
-        "elementEnglishName": "Cam",
-        "elementFaktor": "Labor",
-        "elementID": "",
-        "elementTaxonomy": [
-            "Labor",
-            "Tool",
-            "FallProtection",
-            "Cam"
-        ],
-        "elementAlias": [],
-        "elementDescription": " a spring-loaded camming device, is a piece of active protection equipment used to create temporary anchor points",
-        "elementBetanyms": [],
-        "elementInBetom": [],
-        "elementProfilePic": "",
-        "elementExample": {
-            "elementVideo": [],
-            "elementImage": [],
-            "elementQuote": []
-        }
-    },
-    "Anchor": {
-        "elementEnglishName": "Anchor",
-        "elementFaktor": "Labor",
-        "elementID": "",
-        "elementTaxonomy": [
-            "Labor",
-            "Tool",
-            "FallProtection",
-            "Anchor"
-        ],
-        "elementAlias": [],
-        "elementDescription": "any device or system of devices used to securely attach a klimber, rope, or load to a fixed position",
-        "elementBetanyms": [],
-        "elementInBetom": [],
-        "elementProfilePic": "",
-        "elementExample": {
-            "elementVideo": [],
-            "elementImage": [],
-            "elementQuote": []
-        }
-    },
     "Sling": {
         "elementEnglishName": "Sling",
         "elementFaktor": "Labor",
@@ -1704,48 +1619,6 @@
             "elementQuote": []
         }
     },
-    "Shoe": {
-        "elementEnglishName": "Shoe",
-        "elementFaktor": "Labor",
-        "elementID": "",
-        "elementTaxonomy": [
-            "Labor",
-            "Tool",
-            "KontaktTool",
-            "Shoe"
-        ],
-        "elementAlias": [],
-        "elementDescription": "one of a pair of coverings for your feet, usually made of a strong material such as leather, with a thick leather or plastic sole and usually a heel",
-        "elementBetanyms": [],
-        "elementInBetom": [],
-        "elementProfilePic": "",
-        "elementExample": {
-            "elementVideo": [],
-            "elementImage": [],
-            "elementQuote": []
-        }
-    },
-    "Kneepad": {
-        "elementEnglishName": "Kneepad",
-        "elementFaktor": "Labor",
-        "elementID": "",
-        "elementTaxonomy": [
-            "Labor",
-            "Tool",
-            "KontaktTool",
-            "Kneepad"
-        ],
-        "elementAlias": [],
-        "elementDescription": "artificial pad that is worn on the lower thigh to protect a Klimber when performing a kneebar",
-        "elementBetanyms": [],
-        "elementInBetom": [],
-        "elementProfilePic": "",
-        "elementExample": {
-            "elementVideo": [],
-            "elementImage": [],
-            "elementQuote": []
-        }
-    },
     "Glove": {
         "elementEnglishName": "Glove",
         "elementFaktor": "Labor",
@@ -1758,31 +1631,6 @@
         ],
         "elementAlias": [],
         "elementDescription": "a piece of clothing that is worn on the hand and wrist for warmth or protection, with separate parts for each finger",
-        "elementBetanyms": [],
-        "elementInBetom": [],
-        "elementProfilePic": "",
-        "elementExample": {
-            "elementVideo": [],
-            "elementImage": [],
-            "elementQuote": []
-        }
-    },
-    "Piolet": {
-        "elementEnglishName": "Piolet",
-        "elementFaktor": "Labor",
-        "elementID": "",
-        "elementTaxonomy": [
-            "Labor",
-            "Tool",
-            "KontaktTool",
-            "Axe"
-        ],
-        "elementAlias": [
-            "ice tool",
-            "technical axe",
-            "ice axe"
-        ],
-        "elementDescription": "a tool consisting of a shaft with a metal head that combines a pick and an adze",
         "elementBetanyms": [],
         "elementInBetom": [],
         "elementProfilePic": "",
@@ -1834,7 +1682,7 @@
     },
     "Markum": {
         "elementEnglishName": "Markum",
-        "elementFaktor": "",
+        "elementFaktor": "Labor",
         "elementID": "",
         "elementTaxonomy": [
             "Labor",
@@ -1853,7 +1701,7 @@
     },
     "Plantafor": {
         "elementEnglishName": "Plantafor",
-        "elementFaktor": "",
+        "elementFaktor": "Labor",
         "elementID": "",
         "elementTaxonomy": [
             "Labor",
@@ -1872,7 +1720,7 @@
     },
     "PlotCord": {
         "elementEnglishName": "Plot Cord",
-        "elementFaktor": "",
+        "elementFaktor": "Labor",
         "elementID": "",
         "elementTaxonomy": [
             "Labor",
@@ -1891,7 +1739,7 @@
     },
     "Radior": {
         "elementEnglishName": "Radior",
-        "elementFaktor": "",
+        "elementFaktor": "Labor",
         "elementID": "",
         "elementTaxonomy": [
             "Labor",
@@ -1910,7 +1758,7 @@
     },
     "Repair": {
         "elementEnglishName": "Repair",
-        "elementFaktor": "",
+        "elementFaktor": "Labor",
         "elementID": "",
         "elementTaxonomy": [
             "Labor",
@@ -1929,7 +1777,7 @@
     },
     "Spade": {
         "elementEnglishName": "Spade",
-        "elementFaktor": "",
+        "elementFaktor": "Labor",
         "elementID": "",
         "elementTaxonomy": [
             "Labor",
@@ -1948,7 +1796,7 @@
     },
     "Tibior": {
         "elementEnglishName": "Tibior",
-        "elementFaktor": "",
+        "elementFaktor": "Labor",
         "elementID": "",
         "elementTaxonomy": [
             "Labor",
@@ -2702,7 +2550,7 @@
         "elementID": "",
         "elementTaxonomy": [
             "Ekos",
-            "Environment",
+            "Ekosfera",
             "Edifice",
             "Gym"
         ],
@@ -2723,8 +2571,8 @@
         "elementID": "",
         "elementTaxonomy": [
             "Ekos",
-            "Environment",
-            "Lithosphere",
+            "Ekosfera",
+            "Litosfera",
             "Sediment"
         ],
         "elementAlias": [],
@@ -2763,8 +2611,8 @@
         "elementID": "",
         "elementTaxonomy": [
             "Ekos",
-            "Material",
-            "Soil",
+            "Ekosfera",
+            "Pedosfera",
             "MineralSoil"
         ],
         "elementDescription": "",
@@ -2786,8 +2634,8 @@
         ],
         "elementTaxonomy": [
             "Ekos",
-            "Material",
-            "Soil"
+            "Ekosfera",
+            "Pedosfera"
         ],
         "elementDescription": "",
         "elementBetanyms": [],
@@ -2805,13 +2653,34 @@
         "elementID": "",
         "elementTaxonomy": [
             "Ekos",
-            "Material",
-            "Soil",
+            "Ekosfera",
+            "Pedosfera",
             "SoilFiber"
         ],
         "elementAlias": [
             "soil fibre"
         ],
+        "elementDescription": "",
+        "elementBetanyms": [],
+        "elementInBetom": [],
+        "elementProfilePic": "",
+        "elementExample": {
+            "elementVideo": [],
+            "elementImage": [],
+            "elementQuote": []
+        }
+    },
+    "IceSoil": {
+        "elementEnglishName": "Ice Soil",
+        "elementFaktor": "Ekos",
+        "elementID": "",
+        "elementTaxonomy": [
+            "Ekos",
+            "Ekosfera",
+            "Pedosfera",
+            "IceSoil"
+        ],
+        "elementAlias": [],
         "elementDescription": "",
         "elementBetanyms": [],
         "elementInBetom": [],
@@ -2828,8 +2697,8 @@
         "elementID": "",
         "elementTaxonomy": [
             "Ekos",
-            "Material",
-            "Soil",
+            "Ekosfera",
+            "Pedosfera",
             "SoilFiber"
         ],
         "elementAlias": [
@@ -2851,8 +2720,8 @@
         "elementID": "",
         "elementTaxonomy": [
             "Ekos",
-            "Material",
-            "Soil",
+            "Ekosfera",
+            "Pedosfera",
             "SoilFiber"
         ],
         "elementAlias": [
@@ -2874,8 +2743,8 @@
         "elementID": "",
         "elementTaxonomy": [
             "Ekos",
-            "Material",
-            "Soil",
+            "Ekosfera",
+            "Pedosfera",
             "SoilFiber"
         ],
         "elementAlias": [
@@ -2897,9 +2766,10 @@
         "elementID": "",
         "elementTaxonomy": [
             "Ekos",
-            "Material",
-            "Soil",
-            "SoilFiber"
+            "Ekosfera",
+            "Pedosfera",
+            "SoilFiber",
+            "WoodySoil"
         ],
         "elementAlias": [
             "soil fibre"
@@ -2914,18 +2784,39 @@
             "elementQuote": []
         }
     },
-    "GrainSize": {
-        "elementEnglishName": "GrainSize",
+    "WetSoil": {
+        "elementEnglishName": "Wet Soil",
         "elementFaktor": "Ekos",
         "elementID": "",
         "elementTaxonomy": [
             "Ekos",
-            "Material",
-            "Soil",
-            "GrainSize"
+            "Ekosfera",
+            "Pedosfera",
+            "WetSoil"
+        ],
+        "elementAlias": [],
+        "elementDescription": "",
+        "elementBetanyms": [],
+        "elementInBetom": [],
+        "elementProfilePic": "",
+        "elementExample": {
+            "elementVideo": [],
+            "elementImage": [],
+            "elementQuote": []
+        }
+    },
+    "SoilSize": {
+        "elementEnglishName": "SoilSize",
+        "elementFaktor": "Ekos",
+        "elementID": "",
+        "elementTaxonomy": [
+            "Ekos",
+            "Ekosfera",
+            "Pedosfera",
+            "SoilSize"
         ],
         "elementAlias": [
-            "soil fibre"
+            "grain size"
         ],
         "elementDescription": "",
         "elementBetanyms": [],
@@ -2943,8 +2834,8 @@
         "elementID": "",
         "elementTaxonomy": [
             "Ekos",
-            "Material",
-            "Soil",
+            "Ekosfera",
+            "Pedosfera",
             "ClaySoil"
         ],
         "elementAlias": [
@@ -2966,8 +2857,8 @@
         "elementID": "",
         "elementTaxonomy": [
             "Ekos",
-            "Material",
-            "Soil",
+            "Ekosfera",
+            "Pedosfera",
             "BoulderSoil"
         ],
         "elementAlias": [
@@ -2989,8 +2880,8 @@
         "elementID": "",
         "elementTaxonomy": [
             "Ekos",
-            "Material",
-            "Soil",
+            "Ekosfera",
+            "Pedosfera",
             "CobbleSoil"
         ],
         "elementAlias": [
@@ -3012,8 +2903,8 @@
         "elementID": "",
         "elementTaxonomy": [
             "Ekos",
-            "Material",
-            "Soil",
+            "Ekosfera",
+            "Pedosfera",
             "PebbleSoil"
         ],
         "elementAlias": [
@@ -3035,8 +2926,8 @@
         "elementID": "",
         "elementTaxonomy": [
             "Ekos",
-            "Material",
-            "Soil",
+            "Ekosfera",
+            "Pedosfera",
             "RubbleSoil"
         ],
         "elementAlias": [
@@ -3058,8 +2949,8 @@
         "elementID": "",
         "elementTaxonomy": [
             "Ekos",
-            "Material",
-            "Soil",
+            "Ekosfera",
+            "Pedosfera",
             "SandSoil"
         ],
         "elementAlias": [
@@ -3081,8 +2972,8 @@
         "elementID": "",
         "elementTaxonomy": [
             "Ekos",
-            "Material",
-            "Soil",
+            "Ekosfera",
+            "Pedosfera",
             "SiltSoil"
         ],
         "elementAlias": [
@@ -3118,15 +3009,14 @@
             "elementQuote": []
         }
     },
-    "Lithosphere": {
-        "elementEnglishName": "Lithosphere",
+    "Litosfera": {
+        "elementEnglishName": "Litosfera",
         "elementFaktor": "Ekos",
         "elementID": "",
         "elementTaxonomy": [
             "Ekos",
-            "Material",
-            "Natural",
-            "Lithosphere"
+            "Ekosfera",
+            "Litosfera"
         ],
         "elementAlias": [],
         "elementDescription": "the solid outer layer of a planet",
@@ -3139,18 +3029,143 @@
             "elementQuote": []
         }
     },
-    "Hydrosphere": {
-        "elementEnglishName": "Hydrosphere",
+    "Hydrosfera": {
+        "elementEnglishName": "Hydrosfera",
         "elementFaktor": "Ekos",
         "elementID": "",
         "elementTaxonomy": [
             "Ekos",
-            "Material",
-            "Natural",
-            "Hydrosphere"
+            "Ekosfera",
+            "Hydrosfera"
         ],
         "elementAlias": [],
         "elementDescription": "all of the water, ice, and water vapor at or near the surface of a planet",
+        "elementBetanyms": [],
+        "elementInBetom": [],
+        "elementProfilePic": "",
+        "elementExample": {
+            "elementVideo": [],
+            "elementImage": [],
+            "elementQuote": []
+        }
+    },
+    "Condensation": {
+        "elementEnglishName": "Condensation",
+        "elementFaktor": "Ekos",
+        "elementID": "",
+        "elementTaxonomy": [
+            "Ekos",
+            "Ekosfera",
+            "Hydrosfera",
+            "Condensation"
+        ],
+        "elementAlias": [],
+        "elementDescription": "",
+        "elementBetanyms": [],
+        "elementInBetom": [],
+        "elementProfilePic": "",
+        "elementExample": {
+            "elementVideo": [],
+            "elementImage": [],
+            "elementQuote": []
+        }
+    },
+    "GroundWater": {
+        "elementEnglishName": "Ground Water",
+        "elementFaktor": "Ekos",
+        "elementID": "",
+        "elementTaxonomy": [
+            "Ekos",
+            "Ekosfera",
+            "Hydrosfera",
+            "GroundWater"
+        ],
+        "elementAlias": [],
+        "elementDescription": "",
+        "elementBetanyms": [],
+        "elementInBetom": [],
+        "elementProfilePic": "",
+        "elementExample": {
+            "elementVideo": [],
+            "elementImage": [],
+            "elementQuote": []
+        }
+    },
+    "MovingWater": {
+        "elementEnglishName": "Moving Water",
+        "elementFaktor": "Ekos",
+        "elementID": "",
+        "elementTaxonomy": [
+            "Ekos",
+            "Ekosfera",
+            "Hydrosfera",
+            "MovingWater"
+        ],
+        "elementAlias": [],
+        "elementDescription": "",
+        "elementBetanyms": [],
+        "elementInBetom": [],
+        "elementProfilePic": "",
+        "elementExample": {
+            "elementVideo": [],
+            "elementImage": [],
+            "elementQuote": []
+        }
+    },
+    "StagnantWater": {
+        "elementEnglishName": "Stagnant Water",
+        "elementFaktor": "Ekos",
+        "elementID": "",
+        "elementTaxonomy": [
+            "Ekos",
+            "Ekosfera",
+            "Hydrosfera",
+            "StagnantWater"
+        ],
+        "elementAlias": [],
+        "elementDescription": "",
+        "elementBetanyms": [],
+        "elementInBetom": [],
+        "elementProfilePic": "",
+        "elementExample": {
+            "elementVideo": [],
+            "elementImage": [],
+            "elementQuote": []
+        }
+    },
+    "Wetness": {
+        "elementEnglishName": "Wetness",
+        "elementFaktor": "Ekos",
+        "elementID": "",
+        "elementTaxonomy": [
+            "Ekos",
+            "Ekosfera",
+            "Hydrosfera",
+            "Wetness"
+        ],
+        "elementAlias": [],
+        "elementDescription": "",
+        "elementBetanyms": [],
+        "elementInBetom": [],
+        "elementProfilePic": "",
+        "elementExample": {
+            "elementVideo": [],
+            "elementImage": [],
+            "elementQuote": []
+        }
+    },
+    "RockCap": {
+        "elementEnglishName": "Rock Cap",
+        "elementFaktor": "Ekos",
+        "elementID": "",
+        "elementTaxonomy": [
+            "Ekos",
+            "Ekosfera",
+            "Litosfera",
+            "RockCap"
+        ],
+        "elementAlias": [],
+        "elementDescription": "",
         "elementBetanyms": [],
         "elementInBetom": [],
         "elementProfilePic": "",
@@ -3166,9 +3181,8 @@
         "elementID": "",
         "elementTaxonomy": [
             "Ekos",
-            "Material",
-            "Natural",
-            "Hydrosphere",
+            "Ekosfera",
+            "Hydrosfera",
             "Ice"
         ],
         "elementAlias": [],
@@ -3188,9 +3202,8 @@
         "elementID": "",
         "elementTaxonomy": [
             "Ekos",
-            "Material",
-            "Natural",
-            "Hydrosphere",
+            "Ekosfera",
+            "Hydrosfera",
             "Water"
         ],
         "elementAlias": [],
@@ -3210,9 +3223,8 @@
         "elementID": "",
         "elementTaxonomy": [
             "Ekos",
-            "Material",
-            "Natural",
-            "Hydrosphere",
+            "Ekosfera",
+            "Hydrosfera",
             "Snow"
         ],
         "elementAlias": [],
@@ -3232,9 +3244,8 @@
         "elementID": "",
         "elementTaxonomy": [
             "Ekos",
-            "Material",
-            "Natural",
-            "Hydrosphere",
+            "Ekosfera",
+            "Hydrosfera",
             "Rain"
         ],
         "elementAlias": [],
@@ -3254,8 +3265,8 @@
         "elementID": "",
         "elementTaxonomy": [
             "Ekos",
-            "Material",
-            "Natural",
+            "Ekosfera",
+            "Biosfera",
             "Plant"
         ],
         "elementAlias": [],
@@ -3275,9 +3286,10 @@
         "elementID": "",
         "elementTaxonomy": [
             "Ekos",
-            "Material",
-            "Natural",
+            "Ekosfera",
+            "Biosfera",
             "Plant",
+            "Flora",
             "Bush"
         ],
         "elementAlias": [],
@@ -3291,19 +3303,40 @@
             "elementQuote": []
         }
     },
-    "Grass": {
+    "Poales": {
         "elementEnglishName": "Grass",
         "elementFaktor": "Ekos",
         "elementID": "",
         "elementTaxonomy": [
             "Ekos",
-            "Material",
-            "Natural",
+            "Ekosfera",
+            "Biosfera",
             "Plant",
-            "Grass"
+            "Flora",
+            "Poales"
         ],
         "elementAlias": [],
         "elementDescription": "a low, green plant that grows naturally over a lot of the earth's surface, having groups of very thin leaves that grow close together in large numbers",
+        "elementBetanyms": [],
+        "elementInBetom": [],
+        "elementProfilePic": "",
+        "elementExample": {
+            "elementVideo": [],
+            "elementImage": [],
+            "elementQuote": []
+        }
+    },
+    "Biosfera": {
+        "elementEnglishName": "Biosphere",
+        "elementFaktor": "Ekos",
+        "elementID": "",
+        "elementTaxonomy": [
+            "Ekos",
+            "Ekosfera",
+            "Biosfera"
+        ],
+        "elementAlias": [],
+        "elementDescription": "",
         "elementBetanyms": [],
         "elementInBetom": [],
         "elementProfilePic": "",
@@ -3319,8 +3352,8 @@
         "elementID": "",
         "elementTaxonomy": [
             "Ekos",
-            "Material",
-            "Natural",
+            "Ekosfera",
+            "Biosfera",
             "Plant",
             "Moss"
         ],
@@ -3335,19 +3368,40 @@
             "elementQuote": []
         }
     },
-    "Tree": {
-        "elementEnglishName": "Tree",
+    "Dendron": {
+        "elementEnglishName": "Dendron",
         "elementFaktor": "Ekos",
         "elementID": "",
         "elementTaxonomy": [
             "Ekos",
-            "Material",
-            "Natural",
+            "Ekosfera",
+            "Biosfera",
             "Plant",
-            "Tree"
+            "Dendron"
         ],
         "elementAlias": [],
         "elementDescription": "a tall plant that has a wooden trunk and branches that grow from its upper part",
+        "elementBetanyms": [],
+        "elementInBetom": [],
+        "elementProfilePic": "",
+        "elementExample": {
+            "elementVideo": [],
+            "elementImage": [],
+            "elementQuote": []
+        }
+    },
+    "Stump": {
+        "elementEnglishName": "Stump",
+        "elementFaktor": "Ekos",
+        "elementID": "",
+        "elementTaxonomy": [
+            "Ekos",
+            "Ekosfera",
+            "Antroposfera",
+            "Stump"
+        ],
+        "elementAlias": [],
+        "elementDescription": "",
         "elementBetanyms": [],
         "elementInBetom": [],
         "elementProfilePic": "",
@@ -3363,8 +3417,8 @@
         "elementID": "",
         "elementTaxonomy": [
             "Ekos",
-            "Environment",
-            "Lithosphere",
+            "Ekosfera",
+            "Litosfera",
             "Rock"
         ],
         "elementAlias": [],
@@ -3384,8 +3438,8 @@
         "elementID": "",
         "elementTaxonomy": [
             "Ekos",
-            "Environment",
-            "Lithosphere",
+            "Ekosfera",
+            "Litosfera",
             "Rock",
             "Granite"
         ],
@@ -3406,8 +3460,8 @@
         "elementID": "",
         "elementTaxonomy": [
             "Ekos",
-            "Environment",
-            "Lithosphere",
+            "Ekosfera",
+            "Litosfera",
             "Rock",
             "Limestone"
         ],
@@ -3428,8 +3482,8 @@
         "elementID": "",
         "elementTaxonomy": [
             "Ekos",
-            "Environment",
-            "Lithosphere",
+            "Ekosfera",
+            "Litosfera",
             "Rock",
             "Sandstone"
         ],
@@ -3450,8 +3504,8 @@
         "elementID": "",
         "elementTaxonomy": [
             "Ekos",
-            "Environment",
-            "Lithosphere",
+            "Ekosfera",
+            "Litosfera",
             "Rock",
             "Basalt"
         ],
@@ -3466,145 +3520,14 @@
             "elementQuote": []
         }
     },
-    "Artificial": {
-        "elementEnglishName": "Artificial",
+    "Atmosfera": {
+        "elementEnglishName": "Atmosfera",
         "elementFaktor": "Ekos",
         "elementID": "",
         "elementTaxonomy": [
             "Ekos",
-            "Material",
-            "Artificial"
-        ],
-        "elementAlias": [],
-        "elementDescription": "made by people, often as a copy of something natural",
-        "elementBetanyms": [],
-        "elementInBetom": [],
-        "elementProfilePic": "",
-        "elementExample": {
-            "elementVideo": [],
-            "elementImage": [],
-            "elementQuote": []
-        }
-    },
-    "Plast": {
-        "elementEnglishName": "Plast",
-        "elementFaktor": "Ekos",
-        "elementID": "",
-        "elementTaxonomy": [
-            "Ekos",
-            "Material",
-            "Artificial",
-            "Plast"
-        ],
-        "elementAlias": [
-            "climbing hold",
-            "rock",
-            "hold",
-            "macro",
-            "macro hold",
-            "grip"
-        ],
-        "elementDescription": "an artificial object fixed to walls which have sites for Kontakt Aktions",
-        "elementBetanyms": [],
-        "elementInBetom": [],
-        "elementProfilePic": "",
-        "elementExample": {
-            "elementVideo": [],
-            "elementImage": [],
-            "elementQuote": []
-        }
-    },
-    "Volume": {
-        "elementEnglishName": "Volume",
-        "elementFaktor": "Ekos",
-        "elementID": "",
-        "elementTaxonomy": [
-            "Ekos",
-            "Material",
-            "Artificial",
-            "Volume"
-        ],
-        "elementAlias": [],
-        "elementDescription": "a large plast which can support other plasts, usually made of wood",
-        "elementBetanyms": [],
-        "elementInBetom": [],
-        "elementProfilePic": "",
-        "elementExample": {
-            "elementVideo": [],
-            "elementImage": [],
-            "elementQuote": []
-        }
-    },
-    "Wall": {
-        "elementEnglishName": "Wall",
-        "elementFaktor": "Ekos",
-        "elementID": "",
-        "elementTaxonomy": [
-            "Ekos",
-            "Material",
-            "Artificial",
-            "Wall"
-        ],
-        "elementAlias": [],
-        "elementDescription": "an artificial wall with places to attach plasts using TNuts and bolts, or screws",
-        "elementBetanyms": [],
-        "elementInBetom": [],
-        "elementProfilePic": "",
-        "elementExample": {
-            "elementVideo": [],
-            "elementImage": [],
-            "elementQuote": []
-        }
-    },
-    "TNut": {
-        "elementEnglishName": "T-Nut",
-        "elementFaktor": "Ekos",
-        "elementID": "",
-        "elementTaxonomy": [
-            "Ekos",
-            "Material",
-            "Artificial",
-            "Wall",
-            "TNut"
-        ],
-        "elementAlias": [],
-        "elementDescription": "",
-        "elementBetanyms": [],
-        "elementInBetom": [],
-        "elementProfilePic": "",
-        "elementExample": {
-            "elementVideo": [],
-            "elementImage": [],
-            "elementQuote": []
-        }
-    },
-    "Environment": {
-        "elementEnglishName": "Environment",
-        "elementFaktor": "Ekos",
-        "elementID": "",
-        "elementTaxonomy": [
-            "Ekos",
-            "Environment"
-        ],
-        "elementAlias": [],
-        "elementDescription": "the conditions that you perform in and the way that they influence how you feel or how effectively you can perform",
-        "elementBetanyms": [],
-        "elementInBetom": [],
-        "elementProfilePic": "",
-        "elementExample": {
-            "elementVideo": [],
-            "elementImage": [],
-            "elementQuote": []
-        }
-    },
-    "Atmosphere": {
-        "elementEnglishName": "Atmosphere",
-        "elementFaktor": "Ekos",
-        "elementID": "",
-        "elementTaxonomy": [
-            "Ekos",
-            "Environment",
-            "Atmosphere"
+            "Ekosfera",
+            "Atmosfera"
         ],
         "elementAlias": [],
         "elementDescription": "a mixture of gases that surrounds Earth",
@@ -3623,12 +3546,12 @@
         "elementID": "",
         "elementTaxonomy": [
             "Ekos",
-            "Environment",
-            "Atmosphere",
+            "Ekosfera",
+            "Atmosfera",
             "AirTemperature"
         ],
         "elementAlias": [],
-        "elementDescription": "a measure of how hot or cold the atmosphere is, which is determined by the average thermal energy of air molecules",
+        "elementDescription": "a measure of how hot or cold the atmosfera is, which is determined by the average thermal energy of air molecules",
         "elementBetanyms": [],
         "elementInBetom": [],
         "elementProfilePic": "",
@@ -3644,8 +3567,8 @@
         "elementID": "",
         "elementTaxonomy": [
             "Ekos",
-            "Environment",
-            "Atmosphere",
+            "Ekosfera",
+            "Atmosfera",
             "Humidity"
         ],
         "elementAlias": [],
@@ -3665,8 +3588,8 @@
         "elementID": "",
         "elementTaxonomy": [
             "Ekos",
-            "Environment",
-            "Atmosphere",
+            "Ekosfera",
+            "Atmosfera",
             "Smoke"
         ],
         "elementAlias": [],
@@ -3686,8 +3609,8 @@
         "elementID": "",
         "elementTaxonomy": [
             "Ekos",
-            "Environment",
-            "Biosphere",
+            "Ekosfera",
+            "Biosfera",
             "Animal"
         ],
         "elementAlias": [],
@@ -3707,35 +3630,13 @@
         "elementID": "",
         "elementTaxonomy": [
             "Ekos",
-            "Environment",
-            "Biosphere",
+            "Ekosfera",
+            "Biosfera",
             "Animal",
             "Bird"
         ],
         "elementAlias": [],
         "elementDescription": "a creature with feathers and wings, usually able to fly",
-        "elementBetanyms": [],
-        "elementInBetom": [],
-        "elementProfilePic": "",
-        "elementExample": {
-            "elementVideo": [],
-            "elementImage": [],
-            "elementQuote": []
-        }
-    },
-    "Insect": {
-        "elementEnglishName": "Insect",
-        "elementFaktor": "Ekos",
-        "elementID": "",
-        "elementTaxonomy": [
-            "Ekos",
-            "Environment",
-            "Biosphere",
-            "Animal",
-            "Insect"
-        ],
-        "elementAlias": [],
-        "elementDescription": "a type of very small animal with six legs, a body divided into three parts and usually two pairs of wings",
         "elementBetanyms": [],
         "elementInBetom": [],
         "elementProfilePic": "",
@@ -3751,29 +3652,9 @@
         "elementID": "",
         "elementTaxonomy": [
             "Ekos",
-            "Environment",
-            "Biosphere",
+            "Ekosfera",
+            "Biosfera",
             "Fungi"
-        ],
-        "elementAlias": [],
-        "elementDescription": "any of various types of organisms that get their food from decaying material or other living things",
-        "elementBetanyms": [],
-        "elementInBetom": [],
-        "elementProfilePic": "",
-        "elementExample": {
-            "elementVideo": [],
-            "elementImage": [],
-            "elementQuote": []
-        }
-    },
-    "Biosphere": {
-        "elementEnglishName": "Biosphere",
-        "elementFaktor": "Ekos",
-        "elementID": "",
-        "elementTaxonomy": [
-            "Ekos",
-            "Environment",
-            "Biosphere"
         ],
         "elementAlias": [],
         "elementDescription": "any of various types of organisms that get their food from decaying material or other living things",
@@ -3792,8 +3673,8 @@
         "elementID": "",
         "elementTaxonomy": [
             "Ekos",
-            "Environment",
-            "Atmosphere",
+            "Ekosfera",
+            "Atmosfera",
             "Wind"
         ],
         "elementAlias": [],
@@ -3807,13 +3688,13 @@
             "elementQuote": []
         }
     },
-    "Surface": {
-        "elementEnglishName": "Surface",
+    "Klimon": {
+        "elementEnglishName": "Klimon",
         "elementFaktor": "Ekos",
         "elementID": "",
         "elementTaxonomy": [
             "Ekos",
-            "Surface"
+            "Klimon"
         ],
         "elementAlias": [],
         "elementDescription": "the outer or top part or layer of something",
@@ -3832,7 +3713,7 @@
         "elementID": "",
         "elementTaxonomy": [
             "Ekos",
-            "Surface",
+            "Klimon",
             "Texture"
         ],
         "elementAlias": [],

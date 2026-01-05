@@ -22,26 +22,26 @@ const vuetify = createVuetify({
   theme: {
     defaultTheme: 'dark',
     themes: {
-      dark: {
+      dark: {                    
         colors: {
           primary: "#6ec08b",
-          labor: "#FFCC00",
-          soma: "#569cd6",
-          ekos: "#6a9955",
-          via: "#ff3131",
-          motor: "#da680f",
-          anima: "#c586c0"
+          labor: "#EFBF04",
+          soma: "#2891e7",
+          ekos: "#49e82b",
+          via: "#ff3333",
+          motor: "#d9670f",
+          anima: "#c286bf"
         }
       },
       light: {
         colors: {
           primary: "#6ec08b",
-          labor: "#FFCC00",
-          soma: "#569cd6",
-          ekos: "#6a9955",
-          via: "#ff3131",
-          motor: "#da680f",
-          anima: "#c586c0"
+          labor: "#EFBF04",
+          soma: "#2891e7",
+          ekos: "#49e82b",
+          via: "#ff3333",
+          motor: "#d9670f",
+          anima: "#c286bf"
         }
       },
     },

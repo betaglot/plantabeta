@@ -16,8 +16,11 @@ import ElementsFilter from '/vue/ElementsFilter.vue';
 <FaktorGrid/>
 
 ::: raw
+
 <ElementsFilter />
+
 :::
+
 ---
 
 <!-- =================================================== -->

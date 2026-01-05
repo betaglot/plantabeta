@@ -441,10 +441,13 @@ function sidebarElements() {
                 { text: '<span class="ekos">Ground Water</span>', link: '/reference/Elements/Ekos/Ekosfera/Hydrosfera/GroundWater' },
                 { text: '<span class="ekos">Moving Water</span>', link: '/reference/Elements/Ekos/Ekosfera/Hydrosfera/MovingWater' },
                 { text: '<span class="ekos">Stagnant Water</span>', link: '/reference/Elements/Ekos/Ekosfera/Hydrosfera/StagnantWater' },
+                { text: '<span class="ekos">Wetness</span>', link: '/reference/Elements/Ekos/Ekosfera/Hydrosfera/Wetness' },
+
               ]
             },
             {
               text: '🟩<span class="ekos">Litosfera</span>', link: '/reference/Elements/Ekos/Ekosfera/Litosfera/Overview', collapsed: true, items: [
+                { text: '<span class="ekos">Rock Cap</span>', link: '/reference/Elements/Ekos/Ekosfera/Hydrosfera/RockCap' },
               ]
             },
             {
@@ -468,6 +471,8 @@ function sidebarElements() {
 
                   ]
                 },
+                { text: '<span class="ekos">Mineral Soil (Woody)</span>', link: '/reference/Elements/Ekos/Ekosfera/Pedosfera/SoilFiber/MineralSoil' },
+                { text: '<span class="ekos">Wet Soil</span>', link: '/reference/Elements/Ekos/Ekosfera/Pedosfera/SoilFiber/WetSoil' },
               ]
             },
           ]

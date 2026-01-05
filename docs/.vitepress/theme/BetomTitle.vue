@@ -32,9 +32,12 @@ const props = defineProps({
 </script>
   
 <style>
+BetomTitleContainer{
+  display:flex;
+  overflow:hidden;
+}
 
-
-.betomChip {
+.BetomChip {
   overflow-x: auto;
   border: solid;
   border-width: 1px;
@@ -45,7 +48,7 @@ const props = defineProps({
   white-space: nowrap;
 }
 
-.betomChip::-webkit-scrollbar {
+.BetomChip::-webkit-scrollbar {
   display: none;
 }
 .labon {
@@ -66,12 +69,12 @@ const props = defineProps({
 
 .vion {
 
-  color: #f44747;
+  color: #ff3131;
 }
 
 .moton {
 
-  color: #bf6a34;
+  color: #da680f;
 
 }
 
