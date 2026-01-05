@@ -30,7 +30,29 @@
             "Execution"
         ],
         "elementAlias": [],
-        "elementDescription": "",
+        "elementDescription": [""],
+        "elementBetanyms": [
+            ""
+        ],
+        "elementInBetom": [],
+        "elementProfilePic": "",
+        "elementExample": {
+            "elementVideo": [],
+            "elementImage": [],
+            "elementQuote": []
+        }
+    },
+    "Team": {
+        "elementEnglishName": "Team",
+        "elementFaktor": "Labor",
+        "elementID": "",
+        "elementTaxonomy": [
+            "Labor",
+            "Performance",
+            "Team"
+        ],
+        "elementAlias": [],
+        "elementDescription": [""],
         "elementBetanyms": [
             ""
         ],
@@ -53,7 +75,7 @@
             "FillBlock"
         ],
         "elementAlias": [],
-        "elementDescription": "",
+        "elementDescription": [""],
         "elementBetanyms": [],
         "elementInBetom": [],
         "elementProfilePic": "",
@@ -73,7 +95,7 @@
             "Block"
         ],
         "elementAlias": [],
-        "elementDescription": "",
+        "elementDescription": [""],
         "elementBetanyms": [],
         "elementInBetom": [],
         "elementProfilePic": "",
@@ -95,7 +117,7 @@
             "seedling",
             "tree"
         ],
-        "elementDescription": "",
+        "elementDescription": [""],
         "elementBetanyms": [
             ""
         ],
@@ -136,7 +158,7 @@
             "Cache"
         ],
         "elementAlias": [],
-        "elementDescription": "",
+        "elementDescription": [""],
         "elementBetanyms": [],
         "elementInBetom": [],
         "elementProfilePic": "",
@@ -200,7 +222,7 @@
             "Ankor"
         ],
         "elementAlias": [],
-        "elementDescription": "",
+        "elementDescription": [""],
         "elementBetanyms": [],
         "elementInBetom": [],
         "elementProfilePic": "",
@@ -280,7 +302,7 @@
             "Amble"
         ],
         "elementAlias": [],
-        "elementDescription": "",
+        "elementDescription": [""],
         "elementBetanyms": [],
         "elementInBetom": [],
         "elementProfilePic": "",
@@ -299,7 +321,7 @@
             "Aktion",
             "Aspis"
         ],
-        "elementDescription": "",
+        "elementDescription": [""],
         "elementBetanyms": [],
         "elementInBetom": [],
         "elementProfilePic": "",
@@ -318,7 +340,7 @@
             "Aktion",
             "Ballista"
         ],
-        "elementDescription": "",
+        "elementDescription": [""],
         "elementBetanyms": [],
         "elementInBetom": [],
         "elementProfilePic": "",
@@ -337,7 +359,7 @@
             "Aktion",
             "Construct"
         ],
-        "elementDescription": "",
+        "elementDescription": [""],
         "elementBetanyms": [],
         "elementInBetom": [],
         "elementProfilePic": "",
@@ -416,7 +438,7 @@
             "Aktion",
             "Dig"
         ],
-        "elementDescription": "",
+        "elementDescription": [""],
         "elementBetanyms": [],
         "elementInBetom": [],
         "elementProfilePic": "",
@@ -575,7 +597,7 @@
             "Aktion",
             "Klose"
         ],
-        "elementDescription": "",
+        "elementDescription": [""],
         "elementBetanyms": [],
         "elementInBetom": [],
         "elementProfilePic": "",
@@ -614,7 +636,7 @@
             "Aktion",
             "Kompakt"
         ],
-        "elementDescription": "",
+        "elementDescription": [""],
         "elementBetanyms": [],
         "elementInBetom": [],
         "elementProfilePic": "",
@@ -633,7 +655,7 @@
             "Aktion",
             "Kompress"
         ],
-        "elementDescription": "",
+        "elementDescription": [""],
         "elementBetanyms": [],
         "elementInBetom": [],
         "elementProfilePic": "",
@@ -672,7 +694,7 @@
             "Aktion",
             "Launch"
         ],
-        "elementDescription": "",
+        "elementDescription": [""],
         "elementBetanyms": [],
         "elementInBetom": [],
         "elementProfilePic": "",
@@ -711,7 +733,7 @@
             "Aktion",
             "Load"
         ],
-        "elementDescription": "",
+        "elementDescription": [""],
         "elementBetanyms": [],
         "elementInBetom": [],
         "elementProfilePic": "",
@@ -757,7 +779,7 @@
             "Aktion",
             "Machete"
         ],
-        "elementDescription": "",
+        "elementDescription": [""],
         "elementBetanyms": [],
         "elementInBetom": [],
         "elementProfilePic": "",
@@ -826,7 +848,7 @@
             "Aktion",
             "Parry"
         ],
-        "elementDescription": "",
+        "elementDescription": [""],
         "elementBetanyms": [],
         "elementInBetom": [],
         "elementProfilePic": "",
@@ -889,7 +911,7 @@
             "Aktion",
             "Purga"
         ],
-        "elementDescription": "",
+        "elementDescription": [""],
         "elementBetanyms": [],
         "elementInBetom": [],
         "elementProfilePic": "",
@@ -989,7 +1011,7 @@
             "Aktion",
             "Slam"
         ],
-        "elementDescription": "",
+        "elementDescription": [""],
         "elementBetanyms": [],
         "elementInBetom": [],
         "elementProfilePic": "",
@@ -1008,7 +1030,7 @@
             "Aktion",
             "Snap"
         ],
-        "elementDescription": "",
+        "elementDescription": [""],
         "elementBetanyms": [],
         "elementInBetom": [],
         "elementProfilePic": "",
@@ -1088,7 +1110,7 @@
             "Slap"
         ],
         "elementAlias": [],
-        "elementDescription": "",
+        "elementDescription": [""],
         "elementBetanyms": [],
         "elementInBetom": [],
         "elementProfilePic": "",
@@ -1290,7 +1312,7 @@
             "Task",
             "Piece"
         ],
-        "elementDescription": "",
+        "elementDescription": [""],
         "elementBetanyms": [],
         "elementInBetom": [],
         "elementProfilePic": "",
@@ -1309,7 +1331,7 @@
             "Task",
             "Specs"
         ],
-        "elementDescription": "",
+        "elementDescription": [""],
         "elementBetanyms": [],
         "elementInBetom": [],
         "elementProfilePic": "",
@@ -1449,7 +1471,7 @@
             "Tool",
             "Boot"
         ],
-        "elementDescription": "",
+        "elementDescription": [""],
         "elementBetanyms": [],
         "elementInBetom": [],
         "elementProfilePic": "",
@@ -1468,7 +1490,7 @@
             "Tool",
             "Bottle"
         ],
-        "elementDescription": "",
+        "elementDescription": [""],
         "elementBetanyms": [],
         "elementInBetom": [],
         "elementProfilePic": "",
@@ -1487,7 +1509,7 @@
             "Tool",
             "Box"
         ],
-        "elementDescription": "",
+        "elementDescription": [""],
         "elementBetanyms": [],
         "elementInBetom": [],
         "elementProfilePic": "",
@@ -1506,7 +1528,7 @@
             "Tool",
             "Bundle"
         ],
-        "elementDescription": "",
+        "elementDescription": [""],
         "elementBetanyms": [],
         "elementInBetom": [],
         "elementProfilePic": "",
@@ -1525,7 +1547,7 @@
             "Tool",
             "Doru"
         ],
-        "elementDescription": "",
+        "elementDescription": [""],
         "elementBetanyms": [],
         "elementInBetom": [],
         "elementProfilePic": "",
@@ -1689,7 +1711,7 @@
             "Tool",
             "Markum"
         ],
-        "elementDescription": "",
+        "elementDescription": [""],
         "elementBetanyms": [],
         "elementInBetom": [],
         "elementProfilePic": "",
@@ -1708,7 +1730,7 @@
             "Tool",
             "Plantafor"
         ],
-        "elementDescription": "",
+        "elementDescription": [""],
         "elementBetanyms": [],
         "elementInBetom": [],
         "elementProfilePic": "",
@@ -1727,7 +1749,7 @@
             "Tool",
             "PlotCord"
         ],
-        "elementDescription": "",
+        "elementDescription": [""],
         "elementBetanyms": [],
         "elementInBetom": [],
         "elementProfilePic": "",
@@ -1746,7 +1768,7 @@
             "Tool",
             "Radior"
         ],
-        "elementDescription": "",
+        "elementDescription": [""],
         "elementBetanyms": [],
         "elementInBetom": [],
         "elementProfilePic": "",
@@ -1765,7 +1787,7 @@
             "Tool",
             "Repair"
         ],
-        "elementDescription": "",
+        "elementDescription": [""],
         "elementBetanyms": [],
         "elementInBetom": [],
         "elementProfilePic": "",
@@ -1784,7 +1806,7 @@
             "Tool",
             "Spade"
         ],
-        "elementDescription": "",
+        "elementDescription": [""],
         "elementBetanyms": [],
         "elementInBetom": [],
         "elementProfilePic": "",
@@ -1803,7 +1825,7 @@
             "Tool",
             "Tibior"
         ],
-        "elementDescription": "",
+        "elementDescription": [""],
         "elementBetanyms": [],
         "elementInBetom": [],
         "elementProfilePic": "",
@@ -2615,7 +2637,7 @@
             "Pedosfera",
             "MineralSoil"
         ],
-        "elementDescription": "",
+        "elementDescription": [""],
         "elementBetanyms": [],
         "elementInBetom": [],
         "elementProfilePic": "",
@@ -2637,7 +2659,7 @@
             "Ekosfera",
             "Pedosfera"
         ],
-        "elementDescription": "",
+        "elementDescription": [""],
         "elementBetanyms": [],
         "elementInBetom": [],
         "elementProfilePic": "",
@@ -2660,7 +2682,7 @@
         "elementAlias": [
             "soil fibre"
         ],
-        "elementDescription": "",
+        "elementDescription": [""],
         "elementBetanyms": [],
         "elementInBetom": [],
         "elementProfilePic": "",
@@ -2681,7 +2703,7 @@
             "IceSoil"
         ],
         "elementAlias": [],
-        "elementDescription": "",
+        "elementDescription": [""],
         "elementBetanyms": [],
         "elementInBetom": [],
         "elementProfilePic": "",
@@ -2704,7 +2726,7 @@
         "elementAlias": [
             "soil fibre"
         ],
-        "elementDescription": "",
+        "elementDescription": [""],
         "elementBetanyms": [],
         "elementInBetom": [],
         "elementProfilePic": "",
@@ -2727,7 +2749,7 @@
         "elementAlias": [
             "soil fibre"
         ],
-        "elementDescription": "",
+        "elementDescription": [""],
         "elementBetanyms": [],
         "elementInBetom": [],
         "elementProfilePic": "",
@@ -2750,7 +2772,7 @@
         "elementAlias": [
             "soil fibre"
         ],
-        "elementDescription": "",
+        "elementDescription": [""],
         "elementBetanyms": [],
         "elementInBetom": [],
         "elementProfilePic": "",
@@ -2774,7 +2796,7 @@
         "elementAlias": [
             "soil fibre"
         ],
-        "elementDescription": "",
+        "elementDescription": [""],
         "elementBetanyms": [],
         "elementInBetom": [],
         "elementProfilePic": "",
@@ -2795,7 +2817,7 @@
             "WetSoil"
         ],
         "elementAlias": [],
-        "elementDescription": "",
+        "elementDescription": [""],
         "elementBetanyms": [],
         "elementInBetom": [],
         "elementProfilePic": "",
@@ -2818,7 +2840,7 @@
         "elementAlias": [
             "grain size"
         ],
-        "elementDescription": "",
+        "elementDescription": [""],
         "elementBetanyms": [],
         "elementInBetom": [],
         "elementProfilePic": "",
@@ -2841,7 +2863,7 @@
         "elementAlias": [
             "soil fibre"
         ],
-        "elementDescription": "",
+        "elementDescription": [""],
         "elementBetanyms": [],
         "elementInBetom": [],
         "elementProfilePic": "",
@@ -2864,7 +2886,7 @@
         "elementAlias": [
             "soil fibre"
         ],
-        "elementDescription": "",
+        "elementDescription": [""],
         "elementBetanyms": [],
         "elementInBetom": [],
         "elementProfilePic": "",
@@ -2887,7 +2909,7 @@
         "elementAlias": [
             "soil fibre"
         ],
-        "elementDescription": "",
+        "elementDescription": [""],
         "elementBetanyms": [],
         "elementInBetom": [],
         "elementProfilePic": "",
@@ -2910,7 +2932,7 @@
         "elementAlias": [
             "soil fibre"
         ],
-        "elementDescription": "",
+        "elementDescription": [""],
         "elementBetanyms": [],
         "elementInBetom": [],
         "elementProfilePic": "",
@@ -2933,7 +2955,7 @@
         "elementAlias": [
             "soil fibre"
         ],
-        "elementDescription": "",
+        "elementDescription": [""],
         "elementBetanyms": [],
         "elementInBetom": [],
         "elementProfilePic": "",
@@ -2956,7 +2978,7 @@
         "elementAlias": [
             "soil fibre"
         ],
-        "elementDescription": "",
+        "elementDescription": [""],
         "elementBetanyms": [],
         "elementInBetom": [],
         "elementProfilePic": "",
@@ -2979,7 +3001,7 @@
         "elementAlias": [
             "soil fibre"
         ],
-        "elementDescription": "",
+        "elementDescription": [""],
         "elementBetanyms": [],
         "elementInBetom": [],
         "elementProfilePic": "",
@@ -3060,7 +3082,7 @@
             "Condensation"
         ],
         "elementAlias": [],
-        "elementDescription": "",
+        "elementDescription": [""],
         "elementBetanyms": [],
         "elementInBetom": [],
         "elementProfilePic": "",
@@ -3081,7 +3103,7 @@
             "GroundWater"
         ],
         "elementAlias": [],
-        "elementDescription": "",
+        "elementDescription": [""],
         "elementBetanyms": [],
         "elementInBetom": [],
         "elementProfilePic": "",
@@ -3102,7 +3124,7 @@
             "MovingWater"
         ],
         "elementAlias": [],
-        "elementDescription": "",
+        "elementDescription": [""],
         "elementBetanyms": [],
         "elementInBetom": [],
         "elementProfilePic": "",
@@ -3123,7 +3145,7 @@
             "StagnantWater"
         ],
         "elementAlias": [],
-        "elementDescription": "",
+        "elementDescription": [""],
         "elementBetanyms": [],
         "elementInBetom": [],
         "elementProfilePic": "",
@@ -3144,7 +3166,7 @@
             "Wetness"
         ],
         "elementAlias": [],
-        "elementDescription": "",
+        "elementDescription": [""],
         "elementBetanyms": [],
         "elementInBetom": [],
         "elementProfilePic": "",
@@ -3165,7 +3187,7 @@
             "RockCap"
         ],
         "elementAlias": [],
-        "elementDescription": "",
+        "elementDescription": [""],
         "elementBetanyms": [],
         "elementInBetom": [],
         "elementProfilePic": "",
@@ -3336,7 +3358,7 @@
             "Biosfera"
         ],
         "elementAlias": [],
-        "elementDescription": "",
+        "elementDescription": [""],
         "elementBetanyms": [],
         "elementInBetom": [],
         "elementProfilePic": "",
@@ -3390,6 +3412,282 @@
             "elementQuote": []
         }
     },
+    "Larix": {
+        "elementEnglishName": "Larix",
+        "elementFaktor": "Ekos",
+        "elementID": "",
+        "elementTaxonomy": [
+            "Ekos",
+            "Ekosfera",
+            "Biosfera",
+            "Plant",
+            "Dendron",
+            "Larix"
+        ],
+        "elementAlias": [],
+        "elementDescription": [""],
+        "elementBetanyms": [],
+        "elementInBetom": [],
+        "elementProfilePic": "",
+        "elementExample": {
+            "elementVideo": [],
+            "elementImage": [],
+            "elementQuote": []
+        }
+    },
+    "Picea": {
+        "elementEnglishName": "Picea",
+        "elementFaktor": "Ekos",
+        "elementID": "",
+        "elementTaxonomy": [
+            "Ekos",
+            "Ekosfera",
+            "Biosfera",
+            "Plant",
+            "Dendron",
+            "Picea"
+        ],
+        "elementAlias": [],
+        "elementDescription": [""],
+        "elementBetanyms": [],
+        "elementInBetom": [],
+        "elementProfilePic": "",
+        "elementExample": {
+            "elementVideo": [],
+            "elementImage": [],
+            "elementQuote": []
+        }
+    },
+    "Pseudotsuga": {
+        "elementEnglishName": "Pseudotsuga",
+        "elementFaktor": "Ekos",
+        "elementID": "",
+        "elementTaxonomy": [
+            "Ekos",
+            "Ekosfera",
+            "Biosfera",
+            "Plant",
+            "Dendron",
+            "Pseudotsuga"
+        ],
+        "elementAlias": [],
+        "elementDescription": [""],
+        "elementBetanyms": [],
+        "elementInBetom": [],
+        "elementProfilePic": "",
+        "elementExample": {
+            "elementVideo": [],
+            "elementImage": [],
+            "elementQuote": []
+        }
+    },
+    "Pinus": {
+        "elementEnglishName": "Pinus",
+        "elementFaktor": "Ekos",
+        "elementID": "",
+        "elementTaxonomy": [
+            "Ekos",
+            "Ekosfera",
+            "Biosfera",
+            "Plant",
+            "Dendron",
+            "Pinus"
+        ],
+        "elementAlias": [],
+        "elementDescription": [""],
+        "elementBetanyms": [],
+        "elementInBetom": [],
+        "elementProfilePic": "",
+        "elementExample": {
+            "elementVideo": [],
+            "elementImage": [],
+            "elementQuote": []
+        }
+    },
+    "Quercus": {
+        "elementEnglishName": "Quercus",
+        "elementFaktor": "Ekos",
+        "elementID": "",
+        "elementTaxonomy": [
+            "Ekos",
+            "Ekosfera",
+            "Biosfera",
+            "Plant",
+            "Dendron",
+            "Quercus"
+        ],
+        "elementAlias": [],
+        "elementDescription": [""],
+        "elementBetanyms": [],
+        "elementInBetom": [],
+        "elementProfilePic": "",
+        "elementExample": {
+            "elementVideo": [],
+            "elementImage": [],
+            "elementQuote": []
+        }
+    },
+    "Tsuga": {
+        "elementEnglishName": "Tsuga",
+        "elementFaktor": "Ekos",
+        "elementID": "",
+        "elementTaxonomy": [
+            "Ekos",
+            "Ekosfera",
+            "Biosfera",
+            "Plant",
+            "Dendron",
+            "Tsuga"
+        ],
+        "elementAlias": [],
+        "elementDescription": [""],
+        "elementBetanyms": [],
+        "elementInBetom": [],
+        "elementProfilePic": "",
+        "elementExample": {
+            "elementVideo": [],
+            "elementImage": [],
+            "elementQuote": []
+        }
+    },
+    "Thuja": {
+        "elementEnglishName": "Thuja",
+        "elementFaktor": "Ekos",
+        "elementID": "",
+        "elementTaxonomy": [
+            "Ekos",
+            "Ekosfera",
+            "Biosfera",
+            "Plant",
+            "Dendron",
+            "Thuja"
+        ],
+        "elementAlias": [],
+        "elementDescription": [""],
+        "elementBetanyms": [],
+        "elementInBetom": [],
+        "elementProfilePic": "",
+        "elementExample": {
+            "elementVideo": [],
+            "elementImage": [],
+            "elementQuote": []
+        }
+    },
+    "Abies": {
+        "elementEnglishName": "Abies",
+        "elementFaktor": "Ekos",
+        "elementID": "",
+        "elementTaxonomy": [
+            "Ekos",
+            "Ekosfera",
+            "Biosfera",
+            "Plant",
+            "Flora",
+            "Abies"
+        ],
+        "elementAlias": [],
+        "elementDescription": [""],
+        "elementBetanyms": [],
+        "elementInBetom": [],
+        "elementProfilePic": "",
+        "elementExample": {
+            "elementVideo": [],
+            "elementImage": [],
+            "elementQuote": []
+        }
+    },
+    "Bryophyta": {
+        "elementEnglishName": "Bryophyta",
+        "elementFaktor": "Ekos",
+        "elementID": "",
+        "elementTaxonomy": [
+            "Ekos",
+            "Ekosfera",
+            "Biosfera",
+            "Plant",
+            "Flora",
+            "Bryophyta"
+        ],
+        "elementAlias": [],
+        "elementDescription": [""],
+        "elementBetanyms": [],
+        "elementInBetom": [],
+        "elementProfilePic": "",
+        "elementExample": {
+            "elementVideo": [],
+            "elementImage": [],
+            "elementQuote": []
+        }
+    },
+    "BurntFlora": {
+        "elementEnglishName": "BurntFlora",
+        "elementFaktor": "Ekos",
+        "elementID": "",
+        "elementTaxonomy": [
+            "Ekos",
+            "Ekosfera",
+            "Biosfera",
+            "Plant",
+            "Flora",
+            "BurntFlora"
+        ],
+        "elementAlias": [],
+        "elementDescription": [""],
+        "elementBetanyms": [],
+        "elementInBetom": [],
+        "elementProfilePic": "",
+        "elementExample": {
+            "elementVideo": [],
+            "elementImage": [],
+            "elementQuote": []
+        }
+    },
+    "Flower": {
+        "elementEnglishName": "Flower",
+        "elementFaktor": "Ekos",
+        "elementID": "",
+        "elementTaxonomy": [
+            "Ekos",
+            "Ekosfera",
+            "Biosfera",
+            "Plant",
+            "Flora",
+            "Flower"
+        ],
+        "elementAlias": [],
+        "elementDescription": [""],
+        "elementBetanyms": [],
+        "elementInBetom": [],
+        "elementProfilePic": "",
+        "elementExample": {
+            "elementVideo": [],
+            "elementImage": [],
+            "elementQuote": []
+        }
+    },
+    "Log": {
+        "elementEnglishName": "Log",
+        "elementFaktor": "Ekos",
+        "elementID": "",
+        "elementTaxonomy": [
+            "Ekos",
+            "Ekosfera",
+            "Biosfera",
+            "Plant",
+            "Flora",
+            "Log"
+        ],
+        "elementAlias": [],
+        "elementDescription": [""],
+        "elementBetanyms": [],
+        "elementInBetom": [],
+        "elementProfilePic": "",
+        "elementExample": {
+            "elementVideo": [],
+            "elementImage": [],
+            "elementQuote": []
+        }
+    },
     "Stump": {
         "elementEnglishName": "Stump",
         "elementFaktor": "Ekos",
@@ -3401,7 +3699,7 @@
             "Stump"
         ],
         "elementAlias": [],
-        "elementDescription": "",
+        "elementDescription": [""],
         "elementBetanyms": [],
         "elementInBetom": [],
         "elementProfilePic": "",
@@ -3646,6 +3944,94 @@
             "elementQuote": []
         }
     },
+    "Hornet": {
+        "elementEnglishName": "Hornet",
+        "elementFaktor": "Ekos",
+        "elementID": "",
+        "elementTaxonomy": [
+            "Ekos",
+            "Ekosfera",
+            "Biosfera",
+            "Animal",
+            "Hornet"
+        ],
+        "elementAlias": [],
+        "elementDescription": [""],
+        "elementBetanyms": [],
+        "elementInBetom": [],
+        "elementProfilePic": "",
+        "elementExample": {
+            "elementVideo": [],
+            "elementImage": [],
+            "elementQuote": []
+        }
+    },
+    "Insect": {
+        "elementEnglishName": "Insect",
+        "elementFaktor": "Ekos",
+        "elementID": "",
+        "elementTaxonomy": [
+            "Ekos",
+            "Ekosfera",
+            "Biosfera",
+            "Animal",
+            "Insect"
+        ],
+        "elementAlias": [],
+        "elementDescription": [""],
+        "elementBetanyms": [],
+        "elementInBetom": [],
+        "elementProfilePic": "",
+        "elementExample": {
+            "elementVideo": [],
+            "elementImage": [],
+            "elementQuote": []
+        }
+    },
+    "Moose": {
+        "elementEnglishName": "Moose",
+        "elementFaktor": "Ekos",
+        "elementID": "",
+        "elementTaxonomy": [
+            "Ekos",
+            "Ekosfera",
+            "Biosfera",
+            "Animal",
+            "Moose"
+        ],
+        "elementAlias": [],
+        "elementDescription": [""],
+        "elementBetanyms": [],
+        "elementInBetom": [],
+        "elementProfilePic": "",
+        "elementExample": {
+            "elementVideo": [],
+            "elementImage": [],
+            "elementQuote": []
+        }
+    },
+    "Mosquito": {
+        "elementEnglishName": "Mosquito",
+        "elementFaktor": "Ekos",
+        "elementID": "",
+        "elementTaxonomy": [
+            "Ekos",
+            "Ekosfera",
+            "Biosfera",
+            "Animal",
+            "Mosquito"
+        ],
+        "elementAlias": [],
+        "elementDescription": "a creature with feathers and wings, usually able to fly",
+        "elementBetanyms": [],
+        "elementInBetom": [],
+        "elementProfilePic": "",
+        "elementExample": {
+            "elementVideo": [],
+            "elementImage": [],
+            "elementQuote": []
+        }
+    },
     "Fungi": {
         "elementEnglishName": "Fungi",
         "elementFaktor": "Ekos",
@@ -3737,7 +4123,7 @@
             "Angle"
         ],
         "elementAlias": [],
-        "elementDescription": "",
+        "elementDescription": [""],
         "elementBetanyms": [
             "angle",
             "angle of approach",
@@ -4202,7 +4588,7 @@
             "SpiralLine"
         ],
         "elementAlias": [],
-        "elementDescription": "",
+        "elementDescription": [""],
         "elementBetanyms": [],
         "elementInBetom": [],
         "elementProfilePic": "",
@@ -4297,7 +4683,7 @@
             "central point",
             "centre point"
         ],
-        "elementDescription": "",
+        "elementDescription": [""],
         "elementBetanyms": [
             "centrality",
             "centralized",
@@ -4324,7 +4710,7 @@
             "Reference"
         ],
         "elementAlias": [],
-        "elementDescription": "",
+        "elementDescription": [""],
         "elementBetanyms": [],
         "elementInBetom": [],
         "elementProfilePic": "",
@@ -4345,7 +4731,7 @@
             "Reflection Point"
         ],
         "elementAlias": [],
-        "elementDescription": "",
+        "elementDescription": [""],
         "elementBetanyms": [],
         "elementInBetom": [],
         "elementProfilePic": "",
@@ -4366,7 +4752,7 @@
             "TargetPoint"
         ],
         "elementAlias": [],
-        "elementDescription": "",
+        "elementDescription": [""],
         "elementBetanyms": [],
         "elementInBetom": [],
         "elementProfilePic": "",
@@ -4412,7 +4798,7 @@
             "Vertex"
         ],
         "elementAlias": [],
-        "elementDescription": "",
+        "elementDescription": [""],
         "elementBetanyms": [],
         "elementInBetom": [],
         "elementProfilePic": "",
@@ -4808,7 +5194,28 @@
             "trajectory",
             "path"
         ],
-        "elementDescription": "",
+        "elementDescription": [""],
+        "elementBetanyms": [],
+        "elementInBetom": [],
+        "elementProfilePic": "",
+        "elementExample": {
+            "elementVideo": [],
+            "elementImage": [],
+            "elementQuote": []
+        }
+    },
+    "Limit": {
+        "elementEnglishName": "Limit",
+        "elementFaktor": "Via",
+        "elementID": "",
+        "elementTaxonomy": [
+            "Via",
+            "Probability",
+            "Affordance",
+            "Limit"
+        ],
+        "elementAlias": [],
+        "elementDescription": [""],
         "elementBetanyms": [],
         "elementInBetom": [],
         "elementProfilePic": "",
@@ -4894,7 +5301,7 @@
             "DegreesOfFreedom"
         ],
         "elementAlias": [],
-        "elementDescription": "",
+        "elementDescription": [""],
         "elementBetanyms": [],
         "elementInBetom": [],
         "elementProfilePic": "",
@@ -5021,7 +5428,7 @@
             "Contingency"
         ],
         "elementAlias": [],
-        "elementDescription": "",
+        "elementDescription": [""],
         "elementBetanyms": [],
         "elementInBetom": [],
         "elementProfilePic": "",
@@ -5123,7 +5530,7 @@
             "Transformation"
         ],
         "elementAlias": [],
-        "elementDescription": "",
+        "elementDescription": [""],
         "elementBetanyms": [],
         "elementInBetom": [],
         "elementProfilePic": "",
@@ -5144,7 +5551,7 @@
             "Dilation"
         ],
         "elementAlias": [],
-        "elementDescription": "",
+        "elementDescription": [""],
         "elementBetanyms": [],
         "elementInBetom": [],
         "elementProfilePic": "",
@@ -5165,7 +5572,7 @@
             "Reflection"
         ],
         "elementAlias": [],
-        "elementDescription": "",
+        "elementDescription": [""],
         "elementBetanyms": [],
         "elementInBetom": [],
         "elementProfilePic": "",
@@ -5186,7 +5593,7 @@
             "Rotation"
         ],
         "elementAlias": [],
-        "elementDescription": "",
+        "elementDescription": [""],
         "elementBetanyms": [
             "axes of rotation",
             "axis of rotation",
@@ -5220,7 +5627,7 @@
             "Translation"
         ],
         "elementAlias": [],
-        "elementDescription": "",
+        "elementDescription": [""],
         "elementBetanyms": [],
         "elementInBetom": [],
         "elementProfilePic": "",
@@ -6111,7 +6518,7 @@
             "Learning"
         ],
         "elementAlias": [],
-        "elementDescription": "",
+        "elementDescription": [""],
         "elementBetanyms": [],
         "elementInBetom": [],
         "elementProfilePic": "",
