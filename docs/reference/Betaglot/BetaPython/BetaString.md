@@ -1,4 +1,4 @@
-# <beta>BetaString</beta>
+# <span class="beta">BetaString</span>
 
 People speak BetaStrings
 

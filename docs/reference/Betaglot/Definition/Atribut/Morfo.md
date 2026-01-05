@@ -1,6 +1,6 @@
-# 🌈 <beta>MORFO</beta>
+# 🌈 <span class="beta">MORFO</span>
 
-## <beta>BetaAnalogy</beta>
+## <span class="beta">BetaAnalogy</span>
 
 ## Faktors
 

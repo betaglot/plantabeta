@@ -1,12 +1,12 @@
-# <beta>Beta Objects</beta>
+# <span class="beta">Beta Objects</span>
 
 The objects of Beta are people.
 
-## <beta>Planter</beta>
+## <span class="beta">Planter</span>
 
 > a single Planter
 
-## <beta>Team</beta>
+## <span class="beta">Team</span>
 
 > More than one Planter working together in the same piece
 
@@ -14,7 +14,7 @@ The objects of Beta are people.
 
 "Cattle Planting"
 
-## <beta>Crew</beta>
+## <span class="beta">Crew</span>
 
 > the Planters and Supervisor which share a truck
 

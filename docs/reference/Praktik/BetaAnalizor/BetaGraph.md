@@ -1,4 +1,4 @@
-# <beta>BetaSetGraph</beta>
+# <span class="beta">BetaSetGraph</span>
 
 (BetaGraph != ElementAttributesGraph)
 

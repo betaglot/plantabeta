@@ -1,4 +1,4 @@
-# <beta>Kudos</beta>
+# <span class="beta">Kudos</span>
 
 ---
 

@@ -1,4 +1,4 @@
-# <beta>BetaApp</beta>
+# <span class="beta">BetaApp</span>
 
 Everything made so far is Documentation for this App. App is designed to mimic a Planter's experience. Planters create, edit, view, browse, compose, record Beta.
 

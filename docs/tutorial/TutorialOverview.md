@@ -13,7 +13,7 @@ Multiple choice tests, where Planters choose from a selection of images or a sel
 - Error Detection
 - Crosswords
 
-## 🌈<beta>BETA Test</beta>
+## 🌈<span class="beta">BETA Test</span>
 
 ## ⭐<span class="labor">LABOR Test</span>
 

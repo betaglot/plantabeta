@@ -2,7 +2,7 @@
 aside: false
 ---
 
-# <beta>2K of BETA</beta>
+# <span class="beta">2K of BETA</span>
 
 2K of Beta, to plant 2K of trees
 

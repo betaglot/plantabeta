@@ -7,7 +7,7 @@ let elementName = ""
 
 # 🟠<span class="motor">MOTONMorfo</span>
 
-## <beta>BetaAnalogy</beta>
+## <span class="beta">BetaAnalogy</span>
 
 ## Faktors
 

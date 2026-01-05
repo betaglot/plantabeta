@@ -46,7 +46,7 @@ search: false
 - A normal day of planting
 - Instructors were walking around the pieces while checking quality
 
-## 🌈<beta>BETA</beta>
+## 🌈<span class="beta">BETA</span>
 
 ### ⭐<span class="labor">LABOR</span>
 

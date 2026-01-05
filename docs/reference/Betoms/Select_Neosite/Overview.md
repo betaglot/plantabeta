@@ -1,4 +1,4 @@
-# <beta>[NeoSite,Selection]</beta>
+# <span class="beta">[NeoSite,Selection]</span>
 
 How to choose your next site
 

@@ -1,4 +1,4 @@
-# 🌈 <beta>Plantbeta</beta>
+# 🌈 <span class="beta">Plantbeta</span>
 
 Plantbeta is the Python package which is used to formally write Beta.
 
@@ -234,13 +234,13 @@ for object in BetaList:
 
 ```vue
 
-<Beta>
+<span class="beta">
     <span class="via">Cover</span>
     <span class="motor">Climb</span>
     <span class="ekos">Log</span>
     <span class="via">MinimumSpace</span>
     <span class="motor">ArmPut</span>
-</Beta>
+</span>
 
 ```
 

@@ -15,7 +15,7 @@ let elementName = ""
 
 ## Weak Analogy
 
-### <beta>BetaAnalogy</beta>
+### <span class="beta">BetaAnalogy</span>
 
 ---
 

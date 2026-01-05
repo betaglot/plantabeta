@@ -1,4 +1,4 @@
-# <beta>Flux</beta>
+# <span class="beta">Flux</span>
 
 Aliases: Flow, Fluidity, Fluency, Transition
 

@@ -3,7 +3,7 @@ search: false
 ---
 # 🛠TaskList
 
-A list of all tasks needed for <beta>Put(<span class="ekos">Plant</span>)</beta>
+A list of all tasks needed for <span class="beta">Put(<span class="ekos">Plant</span>)</span>
 
 ::: warning You can too!
 You don't need to be a programmer to contribute to this open source project.

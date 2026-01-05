@@ -7,7 +7,7 @@ let elementName = ""
 
 # ⭐<span class="labor">LABON: Morfo</span>
 
-## <beta>BetaAnalogy</beta>
+## <span class="beta">BetaAnalogy</span>
 
 ## Faktors
 

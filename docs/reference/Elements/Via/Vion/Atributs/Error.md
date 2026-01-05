@@ -9,7 +9,7 @@ let elementName = ""
 
 > any errors that can occur during the practice of this Element
 
-## <beta>BetaAnalogy</beta>
+## <span class="beta">BetaAnalogy</span>
 
 Error in performance
 

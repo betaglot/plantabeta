@@ -157,7 +157,7 @@ Knowing what a HeelHook looks like is not the same thing as knowing how to perfo
 
 At a different scope, *'HeelHooks can be used to traverse a ledge'* is a Teorem which itself is not an Element. Unless, like Python, everything is an Object (all objects are classes), so *'HeelHooks can be used to traverse a ledge'* is an class. If each unqiue combination of Elements is a class, then there are millions of unqiue classes in SISTEM. Each class would be contained in a database table.
 
-<beta>*'HeelHooks can be used to traverse a ledge'*</beta> is a BetaStatement composed of instances of Elements from multiple Faktors:
+<span class="beta">*'HeelHooks can be used to traverse a ledge'*</span> is a BetaStatement composed of instances of Elements from multiple Faktors:
 
 - 🟠<span class="motor">HeelHook</span>
 - 🔻<span class="via">Traverse</span>

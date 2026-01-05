@@ -1,8 +1,8 @@
-# <beta>KRUX</beta>
+# <span class="beta">KRUX</span>
 
 > the most difficult attribute of this Element
 
-## <beta>BetaAnalogy</beta>
+## <span class="beta">BetaAnalogy</span>
 
 ---
 

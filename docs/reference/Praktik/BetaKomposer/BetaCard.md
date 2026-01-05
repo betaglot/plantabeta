@@ -1,4 +1,4 @@
-# <beta>BetaCard</beta>
+# <span class="beta">BetaCard</span>
 
 ## BetaCardStack
 

@@ -1,8 +1,6 @@
-# <beta>BETOMs</beta>
+# <span class="beta">BETOMs</span>
 
-<div class="text-h1">
 <BB :b="{l:'LABOR',s:'SOMA',e:'EKOS',v:'VIA',m:'MOTOR',a:'ANIMA'}"/>
-</div>
 
 ## Syntax
 

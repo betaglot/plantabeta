@@ -9,7 +9,7 @@ let elementName = ""
 
 > the most difficult attribute of this Element
 
-## <beta>BetaAnalogy</beta>
+## <span class="beta">BetaAnalogy</span>
 
 ---
 

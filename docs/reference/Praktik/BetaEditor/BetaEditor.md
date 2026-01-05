@@ -1,4 +1,4 @@
-# <beta>BetaEditor</beta>
+# <span class="beta">BetaEditor</span>
 
 ---
 

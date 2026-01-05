@@ -1,4 +1,4 @@
-# <beta>Intention</beta>
+# <span class="beta">Intention</span>
 
 - Atlos
     - Beta intended to be winning

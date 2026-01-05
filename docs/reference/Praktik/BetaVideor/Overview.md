@@ -1,4 +1,4 @@
-# <beta>BetaVideo</beta>
+# <span class="beta">BetaVideo</span>
 
 ## Purpose
 

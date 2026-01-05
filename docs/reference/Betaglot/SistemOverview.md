@@ -6,11 +6,11 @@ Sistem is in the Guide
 
 Each SistemType is structured into Praktik and Teori
 
-🌈<beta>BETOM</beta> = (Element+Element)
+🌈<span class="beta">BETOM</span> = (Element+Element)
 
 (🔻<span class="via">VION</span> +🔻<span class="via">VION</span>) = 🔻<span class="via">VION</span>
 
-(🔻<span class="via">VION</span> + 🟠<span class="motor">MOTON</span>) = 🌈<beta>BETOM</beta>
+(🔻<span class="via">VION</span> + 🟠<span class="motor">MOTON</span>) = 🌈<span class="beta">BETOM</span>
 
 Betomiks(Komposition(Betom(Element)))
 

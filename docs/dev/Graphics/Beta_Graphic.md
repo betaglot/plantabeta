@@ -1,7 +1,7 @@
 ---
 search: false
 ---
-# 🛠 <beta>Beta Graphics</beta>
+# 🛠 <span class="beta">Beta Graphics</span>
 
 ## BetaDiagram is a subset of BetaGraphic
 
@@ -45,7 +45,7 @@ State is Nondual.
 
 Use the module colors along with their icons
 
-🌈<beta>BETA</beta>
+🌈<span class="beta">BETA</span>
 
 🔷<span class="soma">SOMA</span>
 

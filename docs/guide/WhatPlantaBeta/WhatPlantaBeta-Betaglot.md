@@ -2,7 +2,7 @@
 
 ## Examples of <span class="beta">BETOMs</span>
 
-<BetaTranscriptor class="d-flex flex-column">
+<span class="betaTranscriptor class="d-flex flex-column">
 <BB :b="{ l:'Match',s:'Arms',e:'E8',v:'',m:'', a:''}"/>
 <BB :b="{ l:'Reach.SoleSmear',s:'->Leg',e:'E1',v:'Up',m:'', a:''}"/>
 <BB :b="{ l:'Layback',s:'',e:'E1,E8',v:'PerpendicularTo(Wall)',m:'', a:''}"/>

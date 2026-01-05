@@ -1,4 +1,4 @@
-# <beta>ATRIBUTOS</beta>
+# <span class="beta">ATRIBUTOS</span>
 
 ## Class Attribute
 

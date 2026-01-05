@@ -1,4 +1,4 @@
-# <beta>Beta Methods</beta>
+# <span class="beta">Beta Methods</span>
 
 All BetaFunctions require at least 2 modules
 
@@ -10,42 +10,42 @@ All BetaFunctions require at least 2 modules
 
 - Recall
 
-## <beta>Ask(Beta)</beta>
+## <span class="beta">Ask(Beta)</span>
 
 🟠<span class="motor">Speak()</span>
 
-## <beta>Link(Beta)</beta>
+## <span class="beta">Link(Beta)</span>
 
 > to combine BetaBlocks
 
-## <beta>Record(Beta)</beta>
+## <span class="beta">Record(Beta)</span>
 
 BetaDiagram
 
 BetaVideo
 
-## <beta>Mime(Beta)</beta>
+## <span class="beta">Mime(Beta)</span>
 
 > to demonstrate Beta with body language without actually performing the Beta
 
-## <beta>Parse(Beta)</beta>
+## <span class="beta">Parse(Beta)</span>
 
 > to convert BetaString into Plantbeta
 
 Abstract Syntax Tree
 
-1. <beta>BetaString</beta>
+1. <span class="beta">BetaString</span>
     - "Step over the log"
 
-2. <beta>Plantbeta</beta>
+2. <span class="beta">Plantbeta</span>
     - Leg.Step.Over(Log)
 
-3. Separate into <beta>BetaModules</beta> (optional step)
+3. Separate into <span class="beta">BetaModules</span> (optional step)
     - 🟠<span class="motor">Leg.Step()</span>
     - 🔻<span class="via">Over</span>
     - 🟩<span class="ekos">Log</span>
 
-## <beta>Give(Beta)</beta>
+## <span class="beta">Give(Beta)</span>
 
 > to communicate Beta to another person
 
@@ -53,17 +53,17 @@ Abstract Syntax Tree
 
 > There is one bag left in my piece.
 
-## <beta>Replant(<span class="via">ViaSpace</span>)</beta>
+## <span class="beta">Replant(<span class="via">ViaSpace</span>)</span>
 
-## <beta>Put()</beta>
+## <span class="beta">Put()</span>
 
 > to move something or someone into the stated place, position, or direction
 
-### <beta>Put(<span class="ekos">Plant</span>)</beta>
+### <span class="beta">Put(<span class="ekos">Plant</span>)</span>
 
 > to plant a plant in the soil
 
-### <beta>Put(<span class="ekos">Root</span>)</beta>
+### <span class="beta">Put(<span class="ekos">Root</span>)</span>
 
 > to place a root within a Hole
 
@@ -73,7 +73,7 @@ With BareRoots you must often curl the roots into the hole
 
 <span class="ekos">Nanosite</span> is a ViaPoint
 
-### <beta>Put(<span class="via">Marka</span>)</beta>
+### <span class="beta">Put(<span class="via">Marka</span>)</span>
 
 > to place a Marka on an EkoElement
 
@@ -83,9 +83,9 @@ With BareRoots you must often curl the roots into the hole
 
 Trees/Time
 
-### <beta>Put(<span class="motor">Hood</span>)</beta>
+### <span class="beta">Put(<span class="motor">Hood</span>)</span>
 
-### <beta>Put(<span class="motor">Boot</span>)</beta>
+### <span class="beta">Put(<span class="motor">Boot</span>)</span>
 
 > put your boot onto a Contact
 
@@ -93,7 +93,7 @@ Trees/Time
 
 🟠<span class="motor">BootSlide</span>
 
-### <beta>Put(<span class="anima">Memory</span>)</beta>
+### <span class="beta">Put(<span class="anima">Memory</span>)</span>
 
 > to remember some information
 
@@ -101,29 +101,29 @@ Trees/Time
 
 "Remember this"
 
-## <beta>Get()</beta>
+## <span class="beta">Get()</span>
 
 > to obtain something
 
-### <beta>Get(Beta)</beta>
+### <span class="beta">Get(Beta)</span>
 
 > to understand or hear some Beta
 
 "Do you get it?"
 
-### <beta>Get(<span class="ekos">Plant</span>)</beta>
+### <span class="beta">Get(<span class="ekos">Plant</span>)</span>
 
 > to obtain an EkoElement
 
-#### <beta>Get(<span class="ekos">Tree</span>)</beta>
+#### <span class="beta">Get(<span class="ekos">Tree</span>)</span>
 
-#### <beta>Get(<span class="ekos">Bundle</span>)</beta>
+#### <span class="beta">Get(<span class="ekos">Bundle</span>)</span>
 
-#### <beta>Get(<span class="ekos">Box</span>)</beta>
+#### <span class="beta">Get(<span class="ekos">Box</span>)</span>
 
-#### <beta>Get(<span class="ekos">Log</span>)</beta>
+#### <span class="beta">Get(<span class="ekos">Log</span>)</span>
 
-### <beta>Get(<span class="via">Via</span>)</beta>
+### <span class="beta">Get(<span class="via">Via</span>)</span>
 
 > to move to a different place or into a different position
 

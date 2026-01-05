@@ -1,8 +1,8 @@
-# 🌈 <beta>KRATOS</beta>
+# 🌈 <span class="beta">KRATOS</span>
 
 > the power of this Element
 >
-## <beta>BetaAnalogy</beta>
+## <span class="beta">BetaAnalogy</span>
 
 ## Kratos = (Geometry + Via)
 

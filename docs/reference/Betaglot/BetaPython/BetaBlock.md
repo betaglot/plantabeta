@@ -1,4 +1,4 @@
-# <beta>BetaBlock</beta>
+# <span class="beta">BetaBlock</span>
 
 Code Block
 

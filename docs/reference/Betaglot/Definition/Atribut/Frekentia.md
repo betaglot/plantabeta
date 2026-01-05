@@ -1,4 +1,4 @@
-# <beta>FREKENTIA</beta>
+# <span class="beta">FREKENTIA</span>
 
 > the statistics of this Element
 

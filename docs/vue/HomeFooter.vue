@@ -17,7 +17,7 @@
                                 v-bind="props">
                             <div class="text-h1 my-4">🙌</div>
                             <div class="text-h3 my-4">
-                                <beta>PlantaBeta</beta> is Free to Use!
+                                <span class="beta">PlantaBeta</span> is Free to Use!
                             </div>
                         </VSheet>
 
@@ -40,7 +40,7 @@
                             
                             <!-- Last Updated -->
                              <div class="text-h4 my-4">
-                                <beta>PlantaBeta</beta> is under development
+                                <span class="beta">PlantaBeta</span> is under development
                             </div>
                             <div class="text-h6 my-4">
                                 Last Updated on November 17, 2025

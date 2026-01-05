@@ -34,9 +34,9 @@ What is the ViaSpace?
 
 You can know the <span class="via">Route</span> before you know the Move.
 
-### <beta>Mimicry</beta>
+### <span class="beta">Mimicry</span>
 
-### <beta>Decode</beta>
+### <span class="beta">Decode</span>
 
 > to discover the meaning of information given in a secret or complicated way
 

@@ -22,7 +22,7 @@
 
 ::: details How am I supposed to plant with 8 other planters in this piece?
 
-> <span class="anima">How</span> am I supposed to <beta>plant</beta> with 8 <span class="labor">other planters</span> in this <span class="labor">piece</span>?
+> <span class="anima">How</span> am I supposed to <span class="beta">plant</span> with 8 <span class="labor">other planters</span> in this <span class="labor">piece</span>?
 
 -
 
@@ -244,7 +244,7 @@
 
 ::: details Have I already planted on the other side of this fallen tree?
 
-> <span class="anima">Have</span> I already <beta>planted</beta> on the <span class="via">other side</span> of this <span class="ekos">fallen tree</span>?
+> <span class="anima">Have</span> I already <span class="beta">planted</span> on the <span class="via">other side</span> of this <span class="ekos">fallen tree</span>?
 
 -
 
@@ -382,7 +382,7 @@
 
 ::: details How do I plant ambidextrously?
 
-> <span class="anima">How</span> do I <beta>plant</beta> <span class="motor">ambidextrously</span>?
+> <span class="anima">How</span> do I <span class="beta">plant</span> <span class="motor">ambidextrously</span>?
 
 :::
 
@@ -436,7 +436,7 @@
 
 ::: details What is the easier way to do this movement?
 
-> <span class="anima">What</span> is the <beta>easier</beta> way to do this <span class="motor">movement</span>?
+> <span class="anima">What</span> is the <span class="beta">easier</span> way to do this <span class="motor">movement</span>?
 
 -
 
@@ -574,7 +574,7 @@
 
 ::: details How do they keep planting more trees than me?
 
-> <span class="anima">How do</span> <span class="labor">they</span> keep <beta>planting</beta> more <span class="labor">trees</span> than me?
+> <span class="anima">How do</span> <span class="labor">they</span> keep <span class="beta">planting</span> more <span class="labor">trees</span> than me?
 
 -
 
@@ -638,7 +638,7 @@
 
 ::: details How do I convince my friend to come planting this season?
 
-> <span class="anima">How do</span> I convince my friend to come <beta>planting</beta> this <span class="labor">season</span>?
+> <span class="anima">How do</span> I convince my friend to come <span class="beta">planting</span> this <span class="labor">season</span>?
 
 -
 
@@ -646,7 +646,7 @@
 
 ::: details What is the slowest part of my planting sequence?
 
-> <span class="anima">What</span> is the <span class="motor">slowest</span> part of my <beta>planting sequence</beta>?
+> <span class="anima">What</span> is the <span class="motor">slowest</span> part of my <span class="beta">planting sequence</span>?
 
 -
 

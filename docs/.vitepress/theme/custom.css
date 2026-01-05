@@ -6,38 +6,25 @@
   --vp-nav-logo-height: 100%;
   --vp-local-search-highlight-text: ;
   --vp-local-search-highlight-bg: gray;
+  /* --vp-layout-max-width: 1920px; */
 
 }
 
 .VPNavBarTitle span {
   font-weight: 900;
-  background-image: linear-gradient(to right, #EFBF04, #2891e7, #49e82b, #ff3333, #d9670f, #c286bf);
+  background-image: linear-gradient(to right, #EFBF04,#2891e7,#49e82b,#ff3333,#d9670f,#c286bf);
   color: transparent;
   background-clip: text;
   -webkit-background-clip: text;
 }
-
-/* .VPDoc:not(.has-sidebar) .container {
-  max-width: 1584px !important;
-}
-
-.VPDoc:not(.has-sidebar) .content {
-  max-width: 1264px !important;
-}
-
-.VPDoc.has-aside .content-container {
-  max-width: 1168px !important;
-} */
 
 .vp-doc a {
   color: inherit;
 }
 
 footer.VPFooter {
-  display: block !important;
+    display: block !important;
 }
-
-
 
 .youtube {
   aspect-ratio: 16 / 9;
@@ -50,20 +37,20 @@ footer.VPFooter {
 
 .beta {
   font-weight: 900;
-  background-image: linear-gradient(to right, #EFBF04, #2891e7, #49e82b, #ff3333, #d9670f, #c286bf);
+  background-image: linear-gradient(to right, #EFBF04,#2891e7,#49e82b,#ff3131,#da680f,#c286bf);
   color: transparent;
   background-clip: text;
   -webkit-background-clip: text;
 
 }
 
-thick {
+.thick {
   font-weight: 900;
 }
 
 .labor {
-  color: #EFBF04;
-
+  color:  #EFBF04;
+  
 }
 
 .soma {
@@ -75,7 +62,7 @@ thick {
 }
 
 .via {
-  color: #ff3333;
+  color: #ff3131;
 }
 
 .motor {
@@ -99,11 +86,20 @@ error {
   text-decoration: underline red;
 }
 
-.rainbow {
-  background-image: linear-gradient(to right, #FFCC00, #569cd6, #6a9955, #ff3131, #da680f, #c586c0);
-  text-decoration: none;
+.VPNavBarTitle #text {
+  color: #0078D7;
 }
 
-a:link {
-  text-decoration: none !important;
+#VPContent .VPDoc {
+  padding: 6px;
+  padding-top: 10px;
+}
+
+.rainbow {
+    background-image: linear-gradient(to right, #EFBF04, #2891e7, #49e82b, #ff3131, #da680f, #c286bf);
+    text-decoration: none;
+}
+
+a:link{
+  text-decoration: none!important;
 }

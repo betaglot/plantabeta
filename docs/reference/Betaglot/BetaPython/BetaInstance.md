@@ -1,4 +1,4 @@
-# <beta>BETA_Instance</beta>
+# <span class="beta">BETA_Instance</span>
 
 ## Definition(BETA_Instance)
 

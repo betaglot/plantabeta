@@ -123,7 +123,7 @@ Maximum Length
 ## Image Contribution
 
 ::: tip Send an email to:
-<betaglot@betaglot.org>
+<span class="betaglot@betaglot.org>
 :::
 
 ---

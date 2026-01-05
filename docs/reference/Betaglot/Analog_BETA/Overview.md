@@ -12,7 +12,7 @@ This each line are analog pairs. The equal signs = denotes where Climbing and Pl
 
 |                         **Climbing** | **Planting**                      |
 | -----------------------------------: | :-------------------------------- |
-|                  <beta>Beta</beta> = | = <beta>Beta</beta>               |
+|                  <span class="beta">Beta</span> = | = <span class="beta">Beta</span>               |
 |                     <span class="ekos">EKOS</span> = | = <span class="ekos">EKOS</span>                  |
 |                     <span class="via">Via</span> = | = <span class="via">Via</span>                  |
 |               <span class="anima">ANIMA</span> = | = <span class="anima">ANIMA</span>            |
@@ -23,8 +23,8 @@ This each line are analog pairs. The equal signs = denotes where Climbing and Pl
 |                    <span class="ekos">Volume</span> | <span class="ekos">Mound, Trench</span>          |
 |                 <span class="ekos">WallAngle</span> | <span class="ekos">SlopeAngle</span>             |
 |            <span class="motor">ClimbingShoe</span> | <span class="motor">PlantingBoot</span>         |
-|                <beta>Redpoint</beta> | <beta>Replanting Required </beta> |
-|          <beta>Flash, Onsight</beta> | <beta>No replanting </beta>       |
+|                <span class="beta">Redpoint</span> | <span class="beta">Replanting Required </span> |
+|          <span class="beta">Flash, Onsight</span> | <span class="beta">No replanting </span>       |
 |         <span class="motor">RockOver MOTON</span> = | = <span class="motor">RockOver MOTON</span>      |
 |              <span class="via">ViaFinding</span> = | = <span class="via">ViaFinding</span>           |
 |                <span class="via">One Pitch</span>  | <span class="via">One CoverLoop </span>         |

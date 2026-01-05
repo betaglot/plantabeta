@@ -57,7 +57,7 @@ Aliases: Work, Job, Task
 - You need to get it done
 - Income
 
-- <beta>SISTEM</beta>.Labor
+- <span class="beta">SISTEM</span>.Labor
     - TeamBeta
         - Don't take all the easy land
             - Cream someone out

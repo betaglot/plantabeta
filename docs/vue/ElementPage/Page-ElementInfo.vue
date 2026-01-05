@@ -1,5 +1,4 @@
 <template>
-
     <div class="d-flex justify-center w-100">
         <v-sheet :class="borderColor"
                  class="pa-2 mt-4 

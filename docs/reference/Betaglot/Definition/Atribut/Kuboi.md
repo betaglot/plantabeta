@@ -1,4 +1,4 @@
-# 🎲 <beta>KUBOI</beta>
+# 🎲 <span class="beta">KUBOI</span>
 
 Aliases: Probability, Risk
 

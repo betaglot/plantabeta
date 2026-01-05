@@ -7,7 +7,7 @@ let elementName = ""
 
 # 🔻<span class="via">ViaMorfo</span>
 
-## <beta>BetaAnalogy</beta>
+## <span class="beta">BetaAnalogy</span>
 
 ## Faktors
 

@@ -9,7 +9,7 @@ let elementName = ""
 
 > the power of this Element
 >
-## <beta>BetaAnalogy</beta>
+## <span class="beta">BetaAnalogy</span>
 
 ## Kratos = (Geometry + Via)
 

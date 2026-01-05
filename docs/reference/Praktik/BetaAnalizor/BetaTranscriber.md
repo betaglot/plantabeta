@@ -1,4 +1,4 @@
-# <beta>BetaTranscriber</beta>
+# <span class="beta">BetaTranscriber</span>
 
 ---
 

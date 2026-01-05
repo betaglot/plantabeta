@@ -1,4 +1,4 @@
-# <beta>ANATOMIA</beta>
+# <span class="beta">ANATOMIA</span>
 
 > the parts of the Element
 

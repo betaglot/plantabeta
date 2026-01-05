@@ -1,4 +1,4 @@
-# <beta>BetaDataAnalysis</beta>
+# <span class="beta">BetaDataAnalysis</span>
 
 ## Beta Frequency
 

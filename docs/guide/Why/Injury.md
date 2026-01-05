@@ -8,7 +8,7 @@ Planting can be a dangerous job.
 
 ## Choose Safer Alternatives
 
-Planters can get injured when they don't adapt MOTONS to the specific situation. <beta>PlantaBeta</beta> gives many options to adapt MOTONS for any situation.
+Planters can get injured when they don't adapt MOTONS to the specific situation. <span class="beta">PlantaBeta</span> gives many options to adapt MOTONS for any situation.
 
 <p>Some Planters only know how to <BB :b="{ l:'Klose',s:'Hand',e:'',v:'',m:'', a:''}"/> one way, but there are many different ways. Even slightly varying a MOTONS can reduce repetitive strain injuries.</p>
 
@@ -25,7 +25,7 @@ Injury can occur in Planters when they perform the same movement repeatedly.
 
 PlantaBeta teaches Planters how to move through their 🟩<span class="ekos">EKOS</span> safely.
 
-Falling is a large part of Climbing. <beta>PlantaBeta</beta> transfers the knowledge of how to fall safely from climbing to Planting.
+Falling is a large part of Climbing. <span class="beta">PlantaBeta</span> transfers the knowledge of how to fall safely from climbing to Planting.
 ::: tip Some of the MOTONs used to safely Fall
 
 - <BB :b="{ l:'Absorb',s:'Body',e:'',v:'',m:'', a:''}"/>

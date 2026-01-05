@@ -16,7 +16,7 @@ Import
 
 - Port your Beta ability from a BetaSport into Planting
 
-## What is a <beta>BetaSport</beta>
+## What is a <span class="beta">BetaSport</span>
 
 - BetaSports don't contain Antagonists, therefore all allow Kindness between participants
 
@@ -42,7 +42,7 @@ Passing
     - Planted trees are like teammates in play diagrams
 - MOTONPhrase
 
-## ### <beta>BikeBeta</beta>
+## ### <span class="beta">BikeBeta</span>
 
 - Bike beta benefits Montreal
 - UrbanBike Beta is probably the most dangerous implementation of Beta

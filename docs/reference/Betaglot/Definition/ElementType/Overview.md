@@ -1,4 +1,4 @@
-# <beta>ELEMENT</beta>
+# <span class="beta">ELEMENT</span>
 
 All Elements have Atributs and Metods
 
@@ -8,7 +8,7 @@ A method can be a Problem
 
 ## Elements of each Faktor
 
-- 🌈<beta>BETOM</beta>
+- 🌈<span class="beta">BETOM</span>
 - ⭐<span class="labor">LABOR</span>
 - 🟩<span class="ekos">EKON</span>
 - 🔻<span class="via">VIUM</span>

@@ -9,7 +9,7 @@ let elementName = ""
 
 Aliases: Flow, Flowing Movement, Fluidity, Fluid movement, Continuous, NonStop, Constantly Changing, ever moving, fleeting,
 
-## <beta>BetaAnalogy</beta>
+## <span class="beta">BetaAnalogy</span>
 
 ## Qualifiers
 
@@ -23,7 +23,7 @@ Connection Score
 
 ## 🟠<span class="motor">MOVE.Flux</span>
 
-### <beta>PanBeta</beta>
+### <span class="beta">PanBeta</span>
 
 (GymBeta, SkateBeta): ConnectionScore
 

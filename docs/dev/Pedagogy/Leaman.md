@@ -5,7 +5,7 @@ search: false
 
 # ALeaman
 
-## <dev>With</dev> <beta>BETAKROME</beta>
+## <dev>With</dev> <span class="beta">BETAKROME</span>
 
 ### <dev>Day1</dev>
 
@@ -20,7 +20,7 @@ search: false
 - <span class="labor">Taking the better part of 1-2 hours to cover that and demo that through the <span class="ekos">land</span>.</span>
 - Then <dev>I would cut them into <span class="labor">small cuts of land</span></dev>, no more than <span class="labor">100m</span>. and <dev>ideally</dev> a <span class="labor">cattle plant or group of 3</span>.
 - <span class="labor">Bag ups of 30-40 (2-3 bundles)</span> and <dev>to really emphasize</dev> the <span class="anima">practice</span> of <span class="motor">good technique</span> and <span class="labor">good quality</span>.
-- Then <span class="via">bagging out in the back</span> and <span class="motor">quality checking</span> <span class="labor">their own, and each others work</span> as <beta>they</beta> <span class="via">head back</span>
+- Then <span class="via">bagging out in the back</span> and <span class="motor">quality checking</span> <span class="labor">their own, and each others work</span> as <span class="beta">they</span> <span class="via">head back</span>
     - <span class="labor">Minimum 6-8 <span class="motor">plots</span> per bag</span>
 - for me day 1 should be between 80 - 160 trees, <span class="labor">nothing crazy</span>, just trying to  <span class="anima">understand</span> the <span class="motor">movements</span>, and the <span class="labor">specs</span>.
 
@@ -35,24 +35,24 @@ and to have a <span class="labor">quality</span>, <span class="motor">ergonomic<
     - <dev>build on</dev> <span class="via">triangle planting</span> (the tree before last, this tree, the next one)
 - <span class="labor">Aimed quota for 160-340</span>
 
-- For me I really don't mind low production in the <span class="anima">learning stage</span>, the speed comes with <span class="anima">understanding</span> of <beta>planting</beta>.
+- For me I really don't mind low production in the <span class="anima">learning stage</span>, the speed comes with <span class="anima">understanding</span> of <span class="beta">planting</span>.
 
 ### <dev>Day3</dev>
 
-- Try to give an opportunity for <beta>them</beta> to be in their own <span class="labor">piece</span>
-- by now <beta>they</beta> should <span class="anima">understand</span>
+- Try to give an opportunity for <span class="beta">them</span> to be in their own <span class="labor">piece</span>
+- by now <span class="beta">they</span> should <span class="anima">understand</span>
     - <span class="anima">looking for trees</span>
     - <span class="via">following a line and boundary</span>
     - <span class="labor">the difference between good and bad trees.</span>
 - Increase the production, add a bundle or two per bag up and try to keep those cache breaks down to less than 8 minutes, and to actually hit 8 bagups (most get hung up on day2 about doing a certain amount every bag up, instead of just getting a bag done, even if it's half the amount)
 
-- I would say by their 10th day planting if <beta>they</beta> are at 1400 in raw, <beta>they</beta>'re in a good spot. Incrementing up to it by ~200 trees a day (2 bundles extra/bag)
-- <beta>They</beta> set themselves up to be a really quality <beta>planter</beta> with some longevity.
+- I would say by their 10th day planting if <span class="beta">they</span> are at 1400 in raw, <span class="beta">they</span>'re in a good spot. Incrementing up to it by ~200 trees a day (2 bundles extra/bag)
+- <span class="beta">They</span> set themselves up to be a really quality <span class="beta">planter</span> with some longevity.
 
 ### <dev>The gist</dev>
 
-- You can tell a rookie everything <beta>they</beta> need to know, but <beta>they</beta> won't succeed until <beta>they</beta> understand.
+- You can tell a rookie everything <span class="beta">they</span> need to know, but <span class="beta">they</span> won't succeed until <span class="beta">they</span> understand.
 - I find explaining why goes a long way, and allows them to use their head a bit more.
-Learning in <span class="ekos">raw</span> is by far the <beta>easiest</beta>, then <span class="ekos">prep</span>, then <span class="ekos">fill</span>.
+Learning in <span class="ekos">raw</span> is by far the <span class="beta">easiest</span>, then <span class="ekos">prep</span>, then <span class="ekos">fill</span>.
 
-- Keep it as <span class="anima">simple</span> as possible, and no more than 3 <span class="anima">major focuses</span>/day (spec wise) with this too, their quantity is so low and <beta>they</beta> should be checking so much it should really be great
+- Keep it as <span class="anima">simple</span> as possible, and no more than 3 <span class="anima">major focuses</span>/day (spec wise) with this too, their quantity is so low and <span class="beta">they</span> should be checking so much it should really be great
