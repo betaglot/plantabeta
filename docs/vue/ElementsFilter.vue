@@ -3,7 +3,7 @@
 
   <v-card class="rounded-xl">
     <v-data-iterator :items="elements"
-                     :items-per-page="3"
+                     :items-per-page="6"
                      :search="search"
                      :filter-keys="['elementEnglishName']">
       <template v-slot:header>
@@ -31,7 +31,7 @@
                       :class="`border-${item.raw.elementFaktor.toLowerCase()}`"
                       flat
                       density="compact"
-                      width="300">
+                      width="250">
                 <div :class="`text-${item.raw.elementFaktor.toLowerCase()}`"
                      class="text-center text-h4">{{ item.raw.elementEnglishName }}</div>
                   <v-img :src="`/Emblem/${item.raw.elementFaktor}-Emblem.png`"></v-img>

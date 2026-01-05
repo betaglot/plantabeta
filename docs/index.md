@@ -5,7 +5,7 @@ titleTemplate: "PlantaBeta"
 
 hero: 
   image:
-    src: /PlantaBeta_Logo.png
+    src: /Betaglot_Logo.png
     alt: "Logo"
   text: "Elements of Planting"
   tagline: Science, Sport, Design, Art 
@@ -16,11 +16,12 @@ hero:
 
 ---
 
-<HomeDendrogram />
 
 <div class="d-flex justify-center">
 <v-img class="rounded-xl my-8" max-width="600px" max-height="600px" cover src="/Img-HomePage.png"></v-img>
 </div>
+
+<HomeDendrogram />
 
 <div class="d-flex justify-center">
 <v-hover v-slot="{ isHovering, props }" open-delay="200">
@@ -55,7 +56,7 @@ hero:
       <div class="text-h5 my-4">
           Last Updated on
       </div>
-        <div class="text-h6">December 19, 2025</div>
+        <div class="text-h6">January 5, 2026</div>
 
   <div class="pt-16">Contact:</div>
   <span class="beta">betaglot@betaglot.org</span>
