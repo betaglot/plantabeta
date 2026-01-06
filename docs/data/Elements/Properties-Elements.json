@@ -32,7 +32,9 @@
             "Execution"
         ],
         "elementAlias": [],
-        "elementDescription": [],
+        "elementDescription": [
+            "the way a planter performs an Aktion"
+        ],
         "elementBetanyms": [
             ""
         ],
@@ -54,7 +56,9 @@
             "Team"
         ],
         "elementAlias": [],
-        "elementDescription": [],
+        "elementDescription": [
+            "individuals working together in a group to achieve a common task"
+        ],
         "elementBetanyms": [
             ""
         ],
@@ -77,7 +81,9 @@
             "FillBlock"
         ],
         "elementAlias": [],
-        "elementDescription": [],
+        "elementDescription": [
+            "planting trees between trees that were already planted in a previous year"
+        ],
         "elementBetanyms": [],
         "elementInBetom": [],
         "elementProfilePic": "",
@@ -87,8 +93,31 @@
             "elementQuote": []
         }
     },
-    "Block": {
-        "elementEnglishName": "Block",
+    "BurnBlock": {
+        "elementEnglishName": "BurnBlock",
+        "elementFaktor": "Labor",
+        "elementID": "",
+        "elementTaxonomy": [
+            "Labor",
+            "Task",
+            "Block",
+            "BurnBlock"
+        ],
+        "elementAlias": [],
+        "elementDescription": [
+            "planting trees in land that was burn fully or partially in a wildfire"
+        ],
+        "elementBetanyms": [],
+        "elementInBetom": [],
+        "elementProfilePic": "",
+        "elementExample": {
+            "elementVideo": [],
+            "elementImage": [],
+            "elementQuote": []
+        }
+    },
+    "Cutblock": {
+        "elementEnglishName": "Cutblock",
         "elementFaktor": "Labor",
         "elementID": "",
         "elementTaxonomy": [
@@ -96,8 +125,12 @@
             "Task",
             "Block"
         ],
-        "elementAlias": [],
-        "elementDescription": [],
+        "elementAlias": [
+            "a block"
+        ],
+        "elementDescription": [
+            "a specified area of forest land with defined boundaries that is authorized or planned for timber harvesting"
+        ],
         "elementBetanyms": [],
         "elementInBetom": [],
         "elementProfilePic": "",
@@ -119,7 +152,11 @@
             "seedling",
             "tree"
         ],
-        "elementDescription": [],
+        "elementDescription": [
+            "the plants that are being planted",
+            "the word originates from the term \"neophyte\" which literally means \"new plant\", planters add new plants to a block",
+            "including but not limited to trees"
+        ],
         "elementBetanyms": [
             ""
         ],
@@ -132,7 +169,7 @@
         }
     },
     "Antroposfera": {
-        "elementEnglishName": "Antroposfera",
+        "elementEnglishName": "Anthroposphere",
         "elementFaktor": "Ekos",
         "elementID": "",
         "elementTaxonomy": [
@@ -141,7 +178,9 @@
             "Antroposfera"
         ],
         "elementAlias": [],
-        "elementDescription": [],
+        "elementDescription": [
+            "he Earth's human-modified sphere, encompassing everything created or significantly altered by humans, from cities, roads, and farms to technology, infrastructure, and waste. It represents humanity's total physical presence and impact on the planet, acting as a complex system of human-generated materials, energy, and information flows"
+        ],
         "elementBetanyms": [
             ""
         ],
@@ -165,7 +204,9 @@
             "Trench"
         ],
         "elementAlias": [],
-        "elementDescription": [],
+        "elementDescription": [
+            "a long hole in the ground, created in a similar manner as plowing a field"
+        ],
         "elementBetanyms": [
             ""
         ],
@@ -188,7 +229,10 @@
             "CutBank"
         ],
         "elementAlias": [],
-        "elementDescription": [],
+        "elementDescription": [
+            "the steep, eroded edge of a block along the side of roads",
+            "created when machines cut through slopes while making roads"
+        ],
         "elementBetanyms": [
             ""
         ],
@@ -210,8 +254,13 @@
             "Antroposfera",
             "Landing"
         ],
-        "elementAlias": [],
-        "elementDescription": [],
+        "elementAlias": [
+            "turn around spot",
+            "cul-de-sac"
+        ],
+        "elementDescription": [
+            "an area where timber is collected after being cut and removed from the forest"
+        ],
         "elementBetanyms": [
             ""
         ],
@@ -235,7 +284,9 @@
             "Mound"
         ],
         "elementAlias": [],
-        "elementDescription": [],
+        "elementDescription": [
+            "a mechanical site preparation technique where soil and organic matter are strategically raised to create optimal growing conditions for seedlings, particularly in wet or cool areas"
+        ],
         "elementBetanyms": [
             ""
         ],
@@ -258,7 +309,9 @@
             "Prep"
         ],
         "elementAlias": [],
-        "elementDescription": [],
+        "elementDescription": [
+            " treatments that modify a site to provide favorable conditions for the regeneration and growth of new seedlings"
+        ],
         "elementBetanyms": [
             ""
         ],
@@ -309,8 +362,14 @@
             "Antroposfera",
             "Road"
         ],
-        "elementAlias": [],
-        "elementDescription": [],
+        "elementAlias": [
+            "bush road",
+            "FSR (Forest Service Road)",
+            "forestry road"
+        ],
+        "elementDescription": [
+            "generally refers to roads built on Crown land primarily to access natural resources, such as timber for forestry operations, mining, and oil and gas. "
+        ],
         "elementBetanyms": [
             ""
         ],
@@ -333,7 +392,9 @@
             "SkidderTrail"
         ],
         "elementAlias": [],
-        "elementDescription": [],
+        "elementDescription": [
+            "a temporary path used by logging equipment (specifically skidders) to drag or transport felled trees from where they are cut in the forest to a central collection point or landing"
+        ],
         "elementBetanyms": [
             ""
         ],
@@ -357,7 +418,11 @@
             "BurnPile"
         ],
         "elementAlias": [],
-        "elementDescription": [],
+        "elementDescription": [
+            "a collection of woody debris resulting from forestry activities such as logging, forest thinning, or land clearing, which is set on fire in the winter",
+            "burn piles result in burn pits",
+            "usually only very large logs remain after the fire or wood which is along the perimeter of the burn pit"
+        ],
         "elementBetanyms": [
             ""
         ],
@@ -381,7 +446,10 @@
             "HighSlash"
         ],
         "elementAlias": [],
-        "elementDescription": [],
+        "elementDescription": [
+            "the residue left on the ground after felling, tending, or accumulating from natural disturbances like storms or fire. ",
+            "unutilized logs, uprooted stumps, broken or uprooted stems, tree limbs, tops, and other woody debris"
+        ],
         "elementBetanyms": [
             ""
         ],
@@ -405,7 +473,10 @@
             "LowSlash"
         ],
         "elementAlias": [],
-        "elementDescription": [],
+        "elementDescription": [
+            "the residue left on the ground after felling, tending, or accumulating from natural disturbances like storms or fire. ",
+            "unutilized logs, uprooted stumps, broken or uprooted stems, tree limbs, tops, and other woody debris"
+        ],
         "elementBetanyms": [
             ""
         ],
@@ -431,7 +502,7 @@
         "elementAlias": [
             "green trampoline"
         ],
-        "elementDescription": [],
+        "elementDescription": ["layers of coniferous branches which are interwoven and are difficult to get your spade through"],
         "elementBetanyms": [
             ""
         ],
@@ -455,7 +526,10 @@
             "WetSlash"
         ],
         "elementAlias": [],
-        "elementDescription": [],
+        "elementDescription": [
+            "the residue left on the ground after felling, tending, or accumulating from natural disturbances like storms or fire. ",
+            "unutilized logs, uprooted stumps, broken or uprooted stems, tree limbs, tops, and other woody debris"
+        ],
         "elementBetanyms": [
             ""
         ],
@@ -478,7 +552,9 @@
             "Lightning"
         ],
         "elementAlias": [],
-        "elementDescription": [],
+        "elementDescription": [
+            "the occurrence of a natural electrical discharge of very short duration and high voltage between a cloud and the ground or within a cloud, accompanied by a bright flash and typically also thunder."
+        ],
         "elementBetanyms": [
             ""
         ],
@@ -521,7 +597,9 @@
             "Cache"
         ],
         "elementAlias": [],
-        "elementDescription": [],
+        "elementDescription": [
+            "a temporary, designated storage area on a cutblock where boxes of neons are kept"
+        ],
         "elementBetanyms": [],
         "elementInBetom": [],
         "elementProfilePic": "",
@@ -589,7 +667,10 @@
             "Ankor"
         ],
         "elementAlias": [],
-        "elementDescription": [],
+        "elementDescription": [
+            "to use your spade like an anchor",
+            "a secure attachment point"
+        ],
         "elementBetanyms": [],
         "elementInBetom": [],
         "elementProfilePic": "",
@@ -675,7 +756,9 @@
             "Amble"
         ],
         "elementAlias": [],
-        "elementDescription": [],
+        "elementDescription": [
+            "walk or move at a slow, relaxed pace"
+        ],
         "elementBetanyms": [],
         "elementInBetom": [],
         "elementProfilePic": "",
@@ -694,7 +777,13 @@
             "Aktion",
             "Aspis"
         ],
-        "elementDescription": [],
+        "elementAlias": [
+            "block",
+            "shield"
+        ],
+        "elementDescription": [
+            "protect (someone or something) from a danger, risk, or unpleasant experience"
+        ],
         "elementBetanyms": [],
         "elementInBetom": [],
         "elementProfilePic": "",
@@ -713,7 +802,12 @@
             "Aktion",
             "Ballista"
         ],
-        "elementDescription": [],
+        "elementAlias": [
+            "throw"
+        ],
+        "elementDescription": [
+            "throwing your spade like a spear"
+        ],
         "elementBetanyms": [],
         "elementInBetom": [],
         "elementProfilePic": "",
@@ -732,9 +826,14 @@
             "Aktion",
             "Construct"
         ],
-        "elementDescription": [],
+        "elementAlias": [],
+        "elementDescription": [
+            "to build something by putting parts together"
+        ],
         "elementBetanyms": [],
-        "elementInBetom": [],
+        "elementInBetom": [
+            "[Cache.Construct]"
+        ],
         "elementProfilePic": "",
         "elementExample": {
             "elementVideo": [],
@@ -817,7 +916,10 @@
             "Aktion",
             "Dig"
         ],
-        "elementDescription": [],
+        "elementDescription": [
+            "break up and move soil with a spade",
+            "planters rarely dig with their spades"
+        ],
         "elementBetanyms": [],
         "elementInBetom": [],
         "elementProfilePic": "",
@@ -990,7 +1092,13 @@
             "Aktion",
             "Klose"
         ],
-        "elementDescription": [],
+        "elementAlias": [
+            "seal",
+            "close"
+        ],
+        "elementDescription": [
+            "to completely cover the roots of a neon with soil"
+        ],
         "elementBetanyms": [],
         "elementInBetom": [],
         "elementProfilePic": "",
@@ -1031,7 +1139,10 @@
             "Aktion",
             "Kompakt"
         ],
-        "elementDescription": [],
+        "elementAlias": [],
+        "elementDescription": [
+            "a posture where the limbs are bent and held close to the torso, minimizing the overall surface area and volume the body occupies"
+        ],
         "elementBetanyms": [],
         "elementInBetom": [],
         "elementProfilePic": "",
@@ -1039,7 +1150,12 @@
             "elementVideo": [],
             "elementImage": [],
             "elementQuote": []
-        }
+        },
+        "dev": [
+            "tuck",
+            "crouch",
+            "fetal position"
+        ]
     },
     "Kompress": {
         "elementEnglishName": "Kompress",
@@ -1050,7 +1166,9 @@
             "Aktion",
             "Kompress"
         ],
-        "elementDescription": [],
+        "elementDescription": [
+            "he act of applying inward, pushing forces to a material, causing it to decrease in volume or size by squeezing its particles closer together, leading to increased density and pressure"
+        ],
         "elementBetanyms": [],
         "elementInBetom": [],
         "elementProfilePic": "",
@@ -1073,25 +1191,6 @@
         "elementDescription": [
             "to touch something"
         ],
-        "elementBetanyms": [],
-        "elementInBetom": [],
-        "elementProfilePic": "",
-        "elementExample": {
-            "elementVideo": [],
-            "elementImage": [],
-            "elementQuote": []
-        }
-    },
-    "Launch": {
-        "elementEnglishName": "Launch",
-        "elementFaktor": "Labor",
-        "elementID": "",
-        "elementTaxonomy": [
-            "Labor",
-            "Aktion",
-            "Launch"
-        ],
-        "elementDescription": [],
         "elementBetanyms": [],
         "elementInBetom": [],
         "elementProfilePic": "",
@@ -1132,7 +1231,10 @@
             "Aktion",
             "Load"
         ],
-        "elementDescription": [],
+        "elementAlias": [],
+        "elementDescription": [
+            "put a load or large amount of something on or in a container or vehicle"
+        ],
         "elementBetanyms": [],
         "elementInBetom": [],
         "elementProfilePic": "",
@@ -1180,7 +1282,13 @@
             "Aktion",
             "Machete"
         ],
-        "elementDescription": [],
+        "elementAlias": [
+            "hack"
+        ],
+        "elementDescription": [
+            "to use your spade like a machete",
+            "cut or break with rough or heavy blows"
+        ],
         "elementBetanyms": [],
         "elementInBetom": [],
         "elementProfilePic": "",
@@ -1253,7 +1361,13 @@
             "Aktion",
             "Parry"
         ],
-        "elementDescription": [],
+        "elementAlias": [
+            "deflect"
+        ],
+        "elementDescription": [
+            "to evade or turn aside something",
+            "to cause something that's moving towards you to change direction by hitting it"
+        ],
         "elementBetanyms": [],
         "elementInBetom": [],
         "elementProfilePic": "",
@@ -1320,7 +1434,10 @@
             "Aktion",
             "Purga"
         ],
-        "elementDescription": [],
+        "elementAlias": [],
+        "elementDescription": [
+            "to remove soil which is stuck on a tool"
+        ],
         "elementBetanyms": [],
         "elementInBetom": [],
         "elementProfilePic": "",
@@ -1428,7 +1545,10 @@
             "Aktion",
             "Slam"
         ],
-        "elementDescription": [],
+        "elementAlias": [],
+        "elementDescription": [
+            "to hit something with great force in a particular direction with your spade"
+        ],
         "elementBetanyms": [],
         "elementInBetom": [],
         "elementProfilePic": "",
@@ -1447,7 +1567,10 @@
             "Aktion",
             "Snap"
         ],
-        "elementDescription": [],
+        "elementAlias": [],
+        "elementDescription": [
+            "break or cause to break suddenly and completely, typically with a sharp cracking sound"
+        ],
         "elementBetanyms": [],
         "elementInBetom": [],
         "elementProfilePic": "",
@@ -1533,7 +1656,9 @@
             "Slap"
         ],
         "elementAlias": [],
-        "elementDescription": [],
+        "elementDescription": [
+            "hit or strike with the palm of the hand or a flat object"
+        ],
         "elementBetanyms": [],
         "elementInBetom": [],
         "elementProfilePic": "",
@@ -1733,7 +1858,7 @@
         ],
         "elementAlias": [],
         "elementDescription": [
-            "to put a body part around something"
+            "to put a Body part around something"
         ],
         "elementBetanyms": [],
         "elementInBetom": [],
@@ -1753,7 +1878,9 @@
             "Task",
             "Piece"
         ],
-        "elementDescription": [],
+        "elementDescription": [
+            "a portion of a Cutblock assigned to a planter or team, to be plant"
+        ],
         "elementBetanyms": [],
         "elementInBetom": [],
         "elementProfilePic": "",
@@ -1772,7 +1899,16 @@
             "Task",
             "Specs"
         ],
-        "elementDescription": [],
+        "elementAlias": [
+            "requirements",
+            "quality standards",
+            "expectations"
+        ],
+        "elementDescription": [
+            "a shortening of \"specification\"",
+            "a thing that is compulsory",
+            "a necessary condition."
+        ],
         "elementBetanyms": [],
         "elementInBetom": [],
         "elementProfilePic": "",
@@ -1924,7 +2060,10 @@
             "Tool",
             "Boot"
         ],
-        "elementDescription": [],
+        "elementAlias": [],
+        "elementDescription": [
+            "a sturdy item of footwear covering the foot, the ankle, and sometimes the leg below the knee"
+        ],
         "elementBetanyms": [],
         "elementInBetom": [],
         "elementProfilePic": "",
@@ -1943,7 +2082,10 @@
             "Tool",
             "Bottle"
         ],
-        "elementDescription": [],
+        "elementAlias": [],
+        "elementDescription": [
+            "a container, typically made of metal or plastic and with a narrow neck, used for storing drinks or other liquids"
+        ],
         "elementBetanyms": [],
         "elementInBetom": [],
         "elementProfilePic": "",
@@ -1962,7 +2104,11 @@
             "Tool",
             "Box"
         ],
-        "elementDescription": [],
+        "elementAlias": [],
+        "elementDescription": [
+            "a container with a flat base and sides, typically square or rectangular and having a lid",
+            "a container used to store and transport neons"
+        ],
         "elementBetanyms": [],
         "elementInBetom": [],
         "elementProfilePic": "",
@@ -1981,7 +2127,10 @@
             "Tool",
             "Bundle"
         ],
-        "elementDescription": [],
+        "elementAlias": [],
+        "elementDescription": [
+            "a collection of neons or quantity of material tied or wrapped up together"
+        ],
         "elementBetanyms": [],
         "elementInBetom": [],
         "elementProfilePic": "",
@@ -2000,7 +2149,12 @@
             "Tool",
             "Doru"
         ],
-        "elementDescription": [],
+        "elementAlias": [
+            "staff"
+        ],
+        "elementDescription": [
+            "a spade with a long straight shaft without a handle"
+        ],
         "elementBetanyms": [],
         "elementInBetom": [],
         "elementProfilePic": "",
@@ -2178,8 +2332,13 @@
             "Tool",
             "Markum"
         ],
-        "elementAlias": [],
-        "elementDescription": [],
+        "elementAlias": [
+            "flagging tape",
+            "flag"
+        ],
+        "elementDescription": [
+            "a colored non-adhesive tape used to mark objects"
+        ],
         "elementBetanyms": [],
         "elementInBetom": [],
         "elementProfilePic": "",
@@ -2198,8 +2357,13 @@
             "Tool",
             "Plantafor"
         ],
-        "elementAlias": [],
-        "elementDescription": [],
+        "elementAlias": [
+            "planting bags",
+            "bags"
+        ],
+        "elementDescription": [
+            "durable waist-worn (and often shoulder straps) bags for planters to carry seedlings efficiently"
+        ],
         "elementBetanyms": [],
         "elementInBetom": [],
         "elementProfilePic": "",
@@ -2262,8 +2426,13 @@
             "Tool",
             "Radior"
         ],
-        "elementAlias": [],
-        "elementDescription": [],
+        "elementAlias": [
+            "vambrace"
+        ],
+        "elementDescription": [
+            "a protective covering for the forearm",
+            "named after the \"radius\" bone in your forearm"
+        ],
         "elementBetanyms": [],
         "elementInBetom": [],
         "elementProfilePic": "",
@@ -2283,7 +2452,9 @@
             "Repair"
         ],
         "elementAlias": [],
-        "elementDescription": [],
+        "elementDescription": [
+            "the process of fixing broken or malfunctioning equipment"
+        ],
         "elementBetanyms": [],
         "elementInBetom": [],
         "elementProfilePic": "",
@@ -2303,7 +2474,9 @@
             "Spade"
         ],
         "elementAlias": [],
-        "elementDescription": [],
+        "elementDescription": [
+            "a tool used for digging straight-edged holes"
+        ],
         "elementBetanyms": [],
         "elementInBetom": [],
         "elementProfilePic": "",
@@ -6727,7 +6900,9 @@
             "Transformation"
         ],
         "elementAlias": [],
-        "elementDescription": [],
+        "elementDescription": [
+            "an operation that changes a figure's position, size, or orientation"
+        ],
         "elementBetanyms": [],
         "elementInBetom": [],
         "elementProfilePic": "",
@@ -6747,8 +6922,16 @@
             "Transformation",
             "Dilation"
         ],
-        "elementAlias": [],
-        "elementDescription": [],
+        "elementAlias": [
+            "scale up",
+            "scale down",
+            "expand",
+            "contract",
+            "shrink"
+        ],
+        "elementDescription": [
+            "a transformation that changes the size of a figure (enlarging or shrinking it) without altering its shape, angles, or proportions, using a fixed point (center) and a scale factor"
+        ],
         "elementBetanyms": [],
         "elementInBetom": [],
         "elementProfilePic": "",
@@ -6769,7 +6952,9 @@
             "Reflection"
         ],
         "elementAlias": [],
-        "elementDescription": [],
+        "elementDescription": [
+            "a transformation that flips a figure across a line (the line of reflection) to create a mirror image, keeping the size and shape identical but reversing orientation"
+        ],
         "elementBetanyms": [],
         "elementInBetom": [],
         "elementProfilePic": "",
@@ -6790,7 +6975,9 @@
             "Rotation"
         ],
         "elementAlias": [],
-        "elementDescription": [],
+        "elementDescription": [
+            "transformation that turns a figure around a fixed point (the center of rotation) by a specific angle, either clockwise or counterclockwise, changing its position but not its size or shape"
+        ],
         "elementBetanyms": [
             "axes of rotation",
             "axis of rotation",
@@ -6824,7 +7011,9 @@
             "Translation"
         ],
         "elementAlias": [],
-        "elementDescription": [],
+        "elementDescription": [
+            "a transformation that slides a figure a fixed distance in a specific direction, moving every point the same way without changing its size, shape, or orientation"
+        ],
         "elementBetanyms": [],
         "elementInBetom": [],
         "elementProfilePic": "",
@@ -7812,26 +8001,6 @@
             "elementQuote": []
         }
     },
-    "Learning": {
-        "elementEnglishName": "Learning",
-        "elementFaktor": "Anima",
-        "elementID": "",
-        "elementTaxonomy": [
-            "Anima",
-            "Cognition",
-            "Learning"
-        ],
-        "elementAlias": [],
-        "elementDescription": [],
-        "elementBetanyms": [],
-        "elementInBetom": [],
-        "elementProfilePic": "",
-        "elementExample": {
-            "elementVideo": [],
-            "elementImage": [],
-            "elementQuote": []
-        }
-    },
     "CognitiveEase": {
         "elementEnglishName": "Cognitive Ease",
         "elementFaktor": "Anima",
@@ -8116,7 +8285,9 @@
             "SpaceEstimation"
         ],
         "elementAlias": [],
-        "elementDescription": [],
+        "elementDescription": [
+            "estimating the approximate size of something"
+        ],
         "elementBetanyms": [],
         "elementInBetom": [],
         "elementProfilePic": "",
@@ -8136,7 +8307,9 @@
             "Resilience"
         ],
         "elementAlias": [],
-        "elementDescription": [],
+        "elementDescription": [
+            "the process and outcome of successfully adapting to difficult or challenging life experiences, especially through mental, emotional, and behavioral flexibility"
+        ],
         "elementBetanyms": [],
         "elementInBetom": [],
         "elementProfilePic": "",

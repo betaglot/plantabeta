@@ -1,11 +1,11 @@
 <script setup>
 import ElementInfo from '/vue/ElementPage/Page-ElementInfo.vue'
 import ElementTaxonomy from '/vue/ElementPage/Header-ElementTaxonomy.vue'
-let elementName = ""
+let elementName = "Ektos"
 
 </script>
 
-# 🔻<span class="via">Direction_Ekto</span>
+# 🔻<span class="via">Ektos</span>
 
 ---
 

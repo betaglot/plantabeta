@@ -26,8 +26,8 @@ export default defineConfig({
   ignoreDeadLinks: true,
   appearance: 'dark',
   head: [
-    ["link", { rel: "apple-touch-icon", href: "/PlantaBeta_Logo.png" }],
-    ["link", { rel: "icon", type: "image/png", href: "/PlantaBeta_Logo.png" }]
+    ["link", { rel: "apple-touch-icon", href: "/Betaglot-Logo.png" }],
+    ["link", { rel: "icon", type: "image/png", href: "/Betaglot-Logo.png" }]
   ],
   themeConfig: {
     notFound: {
@@ -38,7 +38,7 @@ export default defineConfig({
       code: '404'
     },
     outline: [2, 4],
-    logo: '/PlantaBeta_Logo.png',
+    logo: '/Betaglot-Logo.png',
     socialLinks: [
       { icon: 'instagram', link: 'https://www.instagram.com/betaglot' },
       { icon: 'youtube', link: 'https://www.youtube.com/@BETAGLOT' },

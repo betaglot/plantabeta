@@ -1,11 +1,11 @@
 <script setup>
 import ElementInfo from '/vue/ElementPage/Page-ElementInfo.vue'
 import ElementTaxonomy from '/vue/ElementPage/Header-ElementTaxonomy.vue'
-let elementName = ""
+let elementName = "Dia"
 
 </script>
 
-# 🔻<span class="via">Direction_Dia</span>
+# 🔻<span class="via">Dia</span>
 
 ---
 

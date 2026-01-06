@@ -5,7 +5,7 @@ titleTemplate: "PlantaBeta"
 
 hero: 
   image:
-    src: /Betaglot_Logo.png
+    src: /Betaglot-Logo.png
     alt: "Logo"
   text: "Elements of Planting"
   tagline: Science, Sport, Design, Art 

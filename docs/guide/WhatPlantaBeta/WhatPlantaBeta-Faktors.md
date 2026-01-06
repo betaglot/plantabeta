@@ -1,6 +1,7 @@
 # What do the <span class="beta">Colors</span> represent?
 
-![Betaglot_Logo](/PlantaBeta_Logo.png)
+
+![Betaglot-Logo](/Betaglot-Logo.png)
 
 As you can see, are **six** colors in <span class="beta">KlimBeta</span> which corresponds to the **six** <span class="text-h5">Faktors</span> of <span class="beta">KlimBeta</span>
 

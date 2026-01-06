@@ -1,11 +1,11 @@
 <script setup>
 import ElementInfo from '/vue/ElementPage/Page-ElementInfo.vue'
 import ElementTaxonomy from '/vue/ElementPage/Header-ElementTaxonomy.vue'
-let elementName = ""
+let elementName = "Proximal"
 
 </script>
 
-# 🔻<span class="via">Direction_Proximal</span>
+# 🔻<span class="via">Proximal</span>
 
 ---
 

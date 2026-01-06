@@ -41,8 +41,6 @@ These are the most common languages (besides Chinese and Russian) and are the of
 
 ## What are the components of Betaglot?
 
-![Betaglot_Logo](/PlantaBeta_Logo.png)
-
 As you can see in the Betaglot logo, there are six parts. Each part has its own color and symbol associated with it
 
 1. ⭐ <span class="labor">LABOR</span>
