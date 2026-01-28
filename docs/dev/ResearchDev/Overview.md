@@ -1,7 +1,7 @@
 ---
 search: false
 ---
-# 🛠Research
+# 🛠 Research
 
 ---
 

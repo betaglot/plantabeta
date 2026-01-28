@@ -1,3 +1,7 @@
+---
+search: false
+---
+
 # 🌈 <span class="beta">Beta Examples</span>
 
 ## <span class="beta">"<span class="via">Follow that <span class="ekos">stream</span> up to the <span class="ekos">top corner</span> <span class="anima">then</span> go left and BoustroCover </span> <span class="anima">then</span> <span class="motor">walk </span>back to cache"</span>

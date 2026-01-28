@@ -1,3 +1,7 @@
+---
+search: false
+---
+
 # Planter Questions
 
 > <strong>What would you trade to know the answers to all these questions?</strong>

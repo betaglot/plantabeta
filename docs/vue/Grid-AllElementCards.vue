@@ -14,6 +14,7 @@
 
 <script setup>
 import ElementInfo from '/vue/ElementPage/Card-ElementInfo.vue'
+
 import jsonDataImport from '/data/Elements/Properties-Elements.json'
 
 const data = jsonDataImport

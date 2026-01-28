@@ -1,5 +1,5 @@
 <template>
-    <v-icon :color="`ikons.${Faktor}.color`"
+    <v-icon :color="`ikons.${elementGroup}.color`"
             icon="mdi-square"
             size="x-large">
     </v-icon>
@@ -9,7 +9,7 @@
 // How to use scripts to and object to dynamically render the ikon?
 
 const props = defineProps({
-    Faktor: String
+    elementGroup: String
 })
 
 
@@ -18,8 +18,8 @@ const ikons = {
     "labor": { "icon": "mdi-star", "size": "", "color": "#FFCC00" },
     "soma": { "icon": "mdi-rhombus", "size": "", "color": "#569cd6" },
     "ekos": { "icon": "mdi-square", "size": "", "color": "#6a9955" },
-    "via": { "icon": "mdi-triangle-down", "size": "", "color": "#f44747" },
-    "motor": { "icon": "mdi-circle", "size": "", "color": "#bf6a34" },
+    "via": { "icon": "mdi-triangle-down", "size": "", "color": "#ff3131" },
+    "motor": { "icon": "mdi-circle", "size": "", "color": "#da680f" },
     "anima": { "icon": "mdi-heart", "size": "", "color": "#c586c0" },
 }
 </script>

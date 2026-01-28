@@ -1,0 +1,3782 @@
+[
+    {
+        "name": "Task",
+        "faktor": "LABOR",
+        "relation": {
+            "subElementOf": {
+                "isStartElementOf": [
+                    ""
+                ],
+                "isFinishElementOf": [
+                    ""
+                ]
+            },
+            "superElementOf": [
+                ""
+            ],
+            "isAlternativeTo": [
+                ""
+            ]
+        }
+    },
+    {
+        "name": "Route",
+        "faktor": "LABOR",
+        "relation": {
+            "subElementOf": {
+                "isStartElementOf": [
+                    ""
+                ],
+                "isFinishElementOf": [
+                    ""
+                ]
+            },
+            "superElementOf": [
+                ""
+            ],
+            "isAlternativeTo": [
+                ""
+            ]
+        }
+    },
+    {
+        "name": "Aktion",
+        "faktor": "LABOR",
+        "relation": {
+            "subElementOf": {
+                "isStartElementOf": [
+                    ""
+                ],
+                "isFinishElementOf": [
+                    ""
+                ]
+            },
+            "superElementOf": [
+                ""
+            ],
+            "isAlternativeTo": [
+                ""
+            ]
+        }
+    },
+    {
+        "name": "Abduction",
+        "faktor": "LABOR",
+        "relation": {
+            "subElementOf": {
+                "isStartElementOf": [
+                    ""
+                ],
+                "isFinishElementOf": [
+                    ""
+                ]
+            },
+            "superElementOf": [
+                ""
+            ],
+            "isAlternativeTo": [
+                ""
+            ]
+        }
+    },
+    {
+        "name": "Absorb",
+        "faktor": "LABOR",
+        "relation": {
+            "subElementOf": {
+                "isStartElementOf": [
+                    ""
+                ],
+                "isFinishElementOf": [
+                    ""
+                ]
+            },
+            "superElementOf": [
+                ""
+            ],
+            "isAlternativeTo": [
+                ""
+            ]
+        }
+    },
+    {
+        "name": "Adjust",
+        "faktor": "LABOR",
+        "relation": {
+            "subElementOf": {
+                "isStartElementOf": [
+                    ""
+                ],
+                "isFinishElementOf": [
+                    ""
+                ]
+            },
+            "superElementOf": [
+                ""
+            ],
+            "isAlternativeTo": [
+                ""
+            ]
+        }
+    },
+    {
+        "name": "Allo",
+        "faktor": "LABOR",
+        "relation": {
+            "subElementOf": {
+                "isStartElementOf": [
+                    ""
+                ],
+                "isFinishElementOf": [
+                    ""
+                ]
+            },
+            "superElementOf": [
+                ""
+            ],
+            "isAlternativeTo": [
+                ""
+            ]
+        }
+    },
+    {
+        "name": "Ama",
+        "faktor": "LABOR",
+        "relation": {
+            "subElementOf": {
+                "isStartElementOf": [
+                    ""
+                ],
+                "isFinishElementOf": [
+                    ""
+                ]
+            },
+            "superElementOf": [
+                ""
+            ],
+            "isAlternativeTo": [
+                ""
+            ]
+        }
+    },
+    {
+        "name": "Ankor",
+        "faktor": "LABOR",
+        "relation": {
+            "subElementOf": {
+                "isStartElementOf": [
+                    ""
+                ],
+                "isFinishElementOf": [
+                    ""
+                ]
+            },
+            "superElementOf": [
+                ""
+            ],
+            "isAlternativeTo": [
+                ""
+            ]
+        }
+    },
+    {
+        "name": "Catch",
+        "faktor": "LABOR",
+        "relation": {
+            "subElementOf": {
+                "isStartElementOf": [
+                    ""
+                ],
+                "isFinishElementOf": [
+                    ""
+                ]
+            },
+            "superElementOf": [
+                ""
+            ],
+            "isAlternativeTo": [
+                ""
+            ]
+        }
+    },
+    {
+        "name": "Clean",
+        "faktor": "LABOR",
+        "relation": {
+            "subElementOf": {
+                "isStartElementOf": [
+                    ""
+                ],
+                "isFinishElementOf": [
+                    ""
+                ]
+            },
+            "superElementOf": [
+                ""
+            ],
+            "isAlternativeTo": [
+                ""
+            ]
+        }
+    },
+    {
+        "name": "Crawl",
+        "faktor": "LABOR",
+        "relation": {
+            "subElementOf": {
+                "isStartElementOf": [
+                    ""
+                ],
+                "isFinishElementOf": [
+                    ""
+                ]
+            },
+            "superElementOf": [
+                ""
+            ],
+            "isAlternativeTo": [
+                ""
+            ]
+        }
+    },
+    {
+        "name": "Drag",
+        "faktor": "LABOR",
+        "relation": {
+            "subElementOf": {
+                "isStartElementOf": [
+                    ""
+                ],
+                "isFinishElementOf": [
+                    ""
+                ]
+            },
+            "superElementOf": [
+                ""
+            ],
+            "isAlternativeTo": [
+                ""
+            ]
+        }
+    },
+    {
+        "name": "Drop",
+        "faktor": "LABOR",
+        "relation": {
+            "subElementOf": {
+                "isStartElementOf": [
+                    ""
+                ],
+                "isFinishElementOf": [
+                    ""
+                ]
+            },
+            "superElementOf": [
+                ""
+            ],
+            "isAlternativeTo": [
+                ""
+            ]
+        }
+    },
+    {
+        "name": "Eval",
+        "faktor": "LABOR",
+        "relation": {
+            "subElementOf": {
+                "isStartElementOf": [
+                    ""
+                ],
+                "isFinishElementOf": [
+                    ""
+                ]
+            },
+            "superElementOf": [
+                ""
+            ],
+            "isAlternativeTo": [
+                ""
+            ]
+        }
+    },
+    {
+        "name": "Fall",
+        "faktor": "LABOR",
+        "relation": {
+            "subElementOf": {
+                "isStartElementOf": [
+                    ""
+                ],
+                "isFinishElementOf": [
+                    ""
+                ]
+            },
+            "superElementOf": [
+                ""
+            ],
+            "isAlternativeTo": [
+                ""
+            ]
+        }
+    },
+    {
+        "name": "Flexion",
+        "faktor": "LABOR",
+        "relation": {
+            "subElementOf": {
+                "isStartElementOf": [
+                    ""
+                ],
+                "isFinishElementOf": [
+                    ""
+                ]
+            },
+            "superElementOf": [
+                ""
+            ],
+            "isAlternativeTo": [
+                ""
+            ]
+        }
+    },
+    {
+        "name": "Hinge",
+        "faktor": "LABOR",
+        "relation": {
+            "subElementOf": {
+                "isStartElementOf": [
+                    ""
+                ],
+                "isFinishElementOf": [
+                    ""
+                ]
+            },
+            "superElementOf": [
+                ""
+            ],
+            "isAlternativeTo": [
+                ""
+            ]
+        }
+    },
+    {
+        "name": "Hook",
+        "faktor": "LABOR",
+        "relation": {
+            "subElementOf": {
+                "isStartElementOf": [
+                    ""
+                ],
+                "isFinishElementOf": [
+                    ""
+                ]
+            },
+            "superElementOf": [
+                ""
+            ],
+            "isAlternativeTo": [
+                ""
+            ]
+        }
+    },
+    {
+        "name": "Insert",
+        "faktor": "LABOR",
+        "relation": {
+            "subElementOf": {
+                "isStartElementOf": [
+                    ""
+                ],
+                "isFinishElementOf": [
+                    ""
+                ]
+            },
+            "superElementOf": [
+                ""
+            ],
+            "isAlternativeTo": [
+                ""
+            ]
+        }
+    },
+    {
+        "name": "Knot",
+        "faktor": "LABOR",
+        "relation": {
+            "subElementOf": {
+                "isStartElementOf": [
+                    ""
+                ],
+                "isFinishElementOf": [
+                    ""
+                ]
+            },
+            "superElementOf": [
+                ""
+            ],
+            "isAlternativeTo": [
+                ""
+            ]
+        }
+    },
+    {
+        "name": "Kontakt",
+        "faktor": "LABOR",
+        "relation": {
+            "subElementOf": {
+                "isStartElementOf": [
+                    ""
+                ],
+                "isFinishElementOf": [
+                    ""
+                ]
+            },
+            "superElementOf": [
+                ""
+            ],
+            "isAlternativeTo": [
+                ""
+            ]
+        }
+    },
+    {
+        "name": "Launch",
+        "faktor": "LABOR",
+        "relation": {
+            "subElementOf": {
+                "isStartElementOf": [
+                    ""
+                ],
+                "isFinishElementOf": [
+                    ""
+                ]
+            },
+            "superElementOf": [
+                ""
+            ],
+            "isAlternativeTo": [
+                ""
+            ]
+        }
+    },
+    {
+        "name": "Lift",
+        "faktor": "LABOR",
+        "relation": {
+            "subElementOf": {
+                "isStartElementOf": [
+                    ""
+                ],
+                "isFinishElementOf": [
+                    ""
+                ]
+            },
+            "superElementOf": [
+                ""
+            ],
+            "isAlternativeTo": [
+                ""
+            ]
+        }
+    },
+    {
+        "name": "Lock",
+        "faktor": "LABOR",
+        "relation": {
+            "subElementOf": {
+                "isStartElementOf": [
+                    ""
+                ],
+                "isFinishElementOf": [
+                    ""
+                ]
+            },
+            "superElementOf": [
+                ""
+            ],
+            "isAlternativeTo": [
+                ""
+            ]
+        }
+    },
+    {
+        "name": "Onda",
+        "faktor": "LABOR",
+        "relation": {
+            "subElementOf": {
+                "isStartElementOf": [
+                    ""
+                ],
+                "isFinishElementOf": [
+                    ""
+                ]
+            },
+            "superElementOf": [
+                ""
+            ],
+            "isAlternativeTo": [
+                ""
+            ]
+        }
+    },
+    {
+        "name": "Orbit",
+        "faktor": "LABOR",
+        "relation": {
+            "subElementOf": {
+                "isStartElementOf": [
+                    ""
+                ],
+                "isFinishElementOf": [
+                    ""
+                ]
+            },
+            "superElementOf": [
+                ""
+            ],
+            "isAlternativeTo": [
+                ""
+            ]
+        }
+    },
+    {
+        "name": "Pop",
+        "faktor": "LABOR",
+        "relation": {
+            "subElementOf": {
+                "isStartElementOf": [
+                    ""
+                ],
+                "isFinishElementOf": [
+                    ""
+                ]
+            },
+            "superElementOf": [
+                ""
+            ],
+            "isAlternativeTo": [
+                ""
+            ]
+        }
+    },
+    {
+        "name": "Preserve",
+        "faktor": "LABOR",
+        "relation": {
+            "subElementOf": {
+                "isStartElementOf": [
+                    ""
+                ],
+                "isFinishElementOf": [
+                    ""
+                ]
+            },
+            "superElementOf": [
+                ""
+            ],
+            "isAlternativeTo": [
+                ""
+            ]
+        }
+    },
+    {
+        "name": "Reach",
+        "faktor": "LABOR",
+        "relation": {
+            "subElementOf": {
+                "isStartElementOf": [
+                    ""
+                ],
+                "isFinishElementOf": [
+                    ""
+                ]
+            },
+            "superElementOf": [
+                ""
+            ],
+            "isAlternativeTo": [
+                ""
+            ]
+        }
+    },
+    {
+        "name": "Rip",
+        "faktor": "LABOR",
+        "relation": {
+            "subElementOf": {
+                "isStartElementOf": [
+                    ""
+                ],
+                "isFinishElementOf": [
+                    ""
+                ]
+            },
+            "superElementOf": [
+                ""
+            ],
+            "isAlternativeTo": [
+                ""
+            ]
+        }
+    },
+    {
+        "name": "Slot",
+        "faktor": "LABOR",
+        "relation": {
+            "subElementOf": {
+                "isStartElementOf": [
+                    ""
+                ],
+                "isFinishElementOf": [
+                    ""
+                ]
+            },
+            "superElementOf": [
+                ""
+            ],
+            "isAlternativeTo": [
+                ""
+            ]
+        }
+    },
+    {
+        "name": "Stack",
+        "faktor": "LABOR",
+        "relation": {
+            "subElementOf": {
+                "isStartElementOf": [
+                    ""
+                ],
+                "isFinishElementOf": [
+                    ""
+                ]
+            },
+            "superElementOf": [
+                ""
+            ],
+            "isAlternativeTo": [
+                ""
+            ]
+        }
+    },
+    {
+        "name": "Stall",
+        "faktor": "LABOR",
+        "relation": {
+            "subElementOf": {
+                "isStartElementOf": [
+                    ""
+                ],
+                "isFinishElementOf": [
+                    ""
+                ]
+            },
+            "superElementOf": [
+                ""
+            ],
+            "isAlternativeTo": [
+                ""
+            ]
+        }
+    },
+    {
+        "name": "Tangent",
+        "faktor": "LABOR",
+        "relation": {
+            "subElementOf": {
+                "isStartElementOf": [
+                    ""
+                ],
+                "isFinishElementOf": [
+                    ""
+                ]
+            },
+            "superElementOf": [
+                ""
+            ],
+            "isAlternativeTo": [
+                ""
+            ]
+        }
+    },
+    {
+        "name": "Toggle",
+        "faktor": "LABOR",
+        "relation": {
+            "subElementOf": {
+                "isStartElementOf": [
+                    ""
+                ],
+                "isFinishElementOf": [
+                    ""
+                ]
+            },
+            "superElementOf": [
+                ""
+            ],
+            "isAlternativeTo": [
+                ""
+            ]
+        }
+    },
+    {
+        "name": "Transport",
+        "faktor": "LABOR",
+        "relation": {
+            "subElementOf": {
+                "isStartElementOf": [
+                    ""
+                ],
+                "isFinishElementOf": [
+                    ""
+                ]
+            },
+            "superElementOf": [
+                ""
+            ],
+            "isAlternativeTo": [
+                ""
+            ]
+        }
+    },
+    {
+        "name": "Whip",
+        "faktor": "LABOR",
+        "relation": {
+            "subElementOf": {
+                "isStartElementOf": [
+                    ""
+                ],
+                "isFinishElementOf": [
+                    ""
+                ]
+            },
+            "superElementOf": [
+                ""
+            ],
+            "isAlternativeTo": [
+                ""
+            ]
+        }
+    },
+    {
+        "name": "Wrap",
+        "faktor": "LABOR",
+        "relation": {
+            "subElementOf": {
+                "isStartElementOf": [
+                    ""
+                ],
+                "isFinishElementOf": [
+                    ""
+                ]
+            },
+            "superElementOf": [
+                ""
+            ],
+            "isAlternativeTo": [
+                ""
+            ]
+        }
+    },
+    {
+        "name": "Difficulty",
+        "faktor": "LABOR",
+        "relation": {
+            "subElementOf": {
+                "isStartElementOf": [
+                    ""
+                ],
+                "isFinishElementOf": [
+                    ""
+                ]
+            },
+            "superElementOf": [
+                ""
+            ],
+            "isAlternativeTo": [
+                ""
+            ]
+        }
+    },
+    {
+        "name": "",
+        "faktor": "LABOR",
+        "relation": {
+            "subElementOf": {
+                "isStartElementOf": [
+                    ""
+                ],
+                "isFinishElementOf": [
+                    ""
+                ]
+            },
+            "superElementOf": [
+                ""
+            ],
+            "isAlternativeTo": [
+                ""
+            ]
+        }
+    },
+    {
+        "name": "Competition",
+        "faktor": "LABOR",
+        "relation": {
+            "subElementOf": {
+                "isStartElementOf": [
+                    ""
+                ],
+                "isFinishElementOf": [
+                    ""
+                ]
+            },
+            "superElementOf": [
+                ""
+            ],
+            "isAlternativeTo": [
+                ""
+            ]
+        }
+    },
+    {
+        "name": "Strategy",
+        "faktor": "LABOR",
+        "relation": {
+            "subElementOf": {
+                "isStartElementOf": [
+                    ""
+                ],
+                "isFinishElementOf": [
+                    ""
+                ]
+            },
+            "superElementOf": [
+                ""
+            ],
+            "isAlternativeTo": [
+                ""
+            ]
+        }
+    },
+    {
+        "name": "Tactics",
+        "faktor": "LABOR",
+        "relation": {
+            "subElementOf": {
+                "isStartElementOf": [
+                    ""
+                ],
+                "isFinishElementOf": [
+                    ""
+                ]
+            },
+            "superElementOf": [
+                ""
+            ],
+            "isAlternativeTo": [
+                ""
+            ]
+        }
+    },
+    {
+        "name": "Tool",
+        "faktor": "LABOR",
+        "relation": {
+            "subElementOf": {
+                "isStartElementOf": [
+                    ""
+                ],
+                "isFinishElementOf": [
+                    ""
+                ]
+            },
+            "superElementOf": [
+                ""
+            ],
+            "isAlternativeTo": [
+                ""
+            ]
+        }
+    },
+    {
+        "name": "Fall Protection",
+        "faktor": "LABOR",
+        "relation": {
+            "subElementOf": {
+                "isStartElementOf": [
+                    ""
+                ],
+                "isFinishElementOf": [
+                    ""
+                ]
+            },
+            "superElementOf": [
+                ""
+            ],
+            "isAlternativeTo": [
+                ""
+            ]
+        }
+    },
+    {
+        "name": "Rope",
+        "faktor": "LABOR",
+        "relation": {
+            "subElementOf": {
+                "isStartElementOf": [
+                    ""
+                ],
+                "isFinishElementOf": [
+                    ""
+                ]
+            },
+            "superElementOf": [
+                ""
+            ],
+            "isAlternativeTo": [
+                ""
+            ]
+        }
+    },
+    {
+        "name": "Karabiner",
+        "faktor": "LABOR",
+        "relation": {
+            "subElementOf": {
+                "isStartElementOf": [
+                    ""
+                ],
+                "isFinishElementOf": [
+                    ""
+                ]
+            },
+            "superElementOf": [
+                ""
+            ],
+            "isAlternativeTo": [
+                ""
+            ]
+        }
+    },
+    {
+        "name": "Harness",
+        "faktor": "LABOR",
+        "relation": {
+            "subElementOf": {
+                "isStartElementOf": [
+                    ""
+                ],
+                "isFinishElementOf": [
+                    ""
+                ]
+            },
+            "superElementOf": [
+                ""
+            ],
+            "isAlternativeTo": [
+                ""
+            ]
+        }
+    },
+    {
+        "name": "Helmet",
+        "faktor": "LABOR",
+        "relation": {
+            "subElementOf": {
+                "isStartElementOf": [
+                    ""
+                ],
+                "isFinishElementOf": [
+                    ""
+                ]
+            },
+            "superElementOf": [
+                ""
+            ],
+            "isAlternativeTo": [
+                ""
+            ]
+        }
+    },
+    {
+        "name": "Cam",
+        "faktor": "LABOR",
+        "relation": {
+            "subElementOf": {
+                "isStartElementOf": [
+                    ""
+                ],
+                "isFinishElementOf": [
+                    ""
+                ]
+            },
+            "superElementOf": [
+                ""
+            ],
+            "isAlternativeTo": [
+                ""
+            ]
+        }
+    },
+    {
+        "name": "Anchor",
+        "faktor": "LABOR",
+        "relation": {
+            "subElementOf": {
+                "isStartElementOf": [
+                    ""
+                ],
+                "isFinishElementOf": [
+                    ""
+                ]
+            },
+            "superElementOf": [
+                ""
+            ],
+            "isAlternativeTo": [
+                ""
+            ]
+        }
+    },
+    {
+        "name": "Sling",
+        "faktor": "LABOR",
+        "relation": {
+            "subElementOf": {
+                "isStartElementOf": [
+                    ""
+                ],
+                "isFinishElementOf": [
+                    ""
+                ]
+            },
+            "superElementOf": [
+                ""
+            ],
+            "isAlternativeTo": [
+                ""
+            ]
+        }
+    },
+    {
+        "name": "Kontakt Tool",
+        "faktor": "LABOR",
+        "relation": {
+            "subElementOf": {
+                "isStartElementOf": [
+                    ""
+                ],
+                "isFinishElementOf": [
+                    ""
+                ]
+            },
+            "superElementOf": [
+                ""
+            ],
+            "isAlternativeTo": [
+                ""
+            ]
+        }
+    },
+    {
+        "name": "Shoe",
+        "faktor": "LABOR",
+        "relation": {
+            "subElementOf": {
+                "isStartElementOf": [
+                    ""
+                ],
+                "isFinishElementOf": [
+                    ""
+                ]
+            },
+            "superElementOf": [
+                ""
+            ],
+            "isAlternativeTo": [
+                ""
+            ]
+        }
+    },
+    {
+        "name": "Kneepad",
+        "faktor": "LABOR",
+        "relation": {
+            "subElementOf": {
+                "isStartElementOf": [
+                    ""
+                ],
+                "isFinishElementOf": [
+                    ""
+                ]
+            },
+            "superElementOf": [
+                ""
+            ],
+            "isAlternativeTo": [
+                ""
+            ]
+        }
+    },
+    {
+        "name": "Glove",
+        "faktor": "LABOR",
+        "relation": {
+            "subElementOf": {
+                "isStartElementOf": [
+                    ""
+                ],
+                "isFinishElementOf": [
+                    ""
+                ]
+            },
+            "superElementOf": [
+                ""
+            ],
+            "isAlternativeTo": [
+                ""
+            ]
+        }
+    },
+    {
+        "name": "Axe",
+        "faktor": "LABOR",
+        "relation": {
+            "subElementOf": {
+                "isStartElementOf": [
+                    ""
+                ],
+                "isFinishElementOf": [
+                    ""
+                ]
+            },
+            "superElementOf": [
+                ""
+            ],
+            "isAlternativeTo": [
+                ""
+            ]
+        }
+    },
+    {
+        "name": "Clothing",
+        "faktor": "LABOR",
+        "relation": {
+            "subElementOf": {
+                "isStartElementOf": [
+                    ""
+                ],
+                "isFinishElementOf": [
+                    ""
+                ]
+            },
+            "superElementOf": [
+                ""
+            ],
+            "isAlternativeTo": [
+                ""
+            ]
+        }
+    },
+    {
+        "name": "Kit",
+        "faktor": "LABOR",
+        "relation": {
+            "subElementOf": {
+                "isStartElementOf": [
+                    ""
+                ],
+                "isFinishElementOf": [
+                    ""
+                ]
+            },
+            "superElementOf": [
+                ""
+            ],
+            "isAlternativeTo": [
+                ""
+            ]
+        }
+    },
+    {
+        "name": "Performance",
+        "faktor": "LABOR",
+        "relation": {
+            "subElementOf": {
+                "isStartElementOf": [
+                    ""
+                ],
+                "isFinishElementOf": [
+                    ""
+                ]
+            },
+            "superElementOf": [
+                ""
+            ],
+            "isAlternativeTo": [
+                ""
+            ]
+        }
+    },
+    {
+        "name": "Effectiveness",
+        "faktor": "LABOR",
+        "relation": {
+            "subElementOf": {
+                "isStartElementOf": [
+                    ""
+                ],
+                "isFinishElementOf": [
+                    ""
+                ]
+            },
+            "superElementOf": [
+                ""
+            ],
+            "isAlternativeTo": [
+                ""
+            ]
+        }
+    },
+    {
+        "name": "Efficiency",
+        "faktor": "LABOR",
+        "relation": {
+            "subElementOf": {
+                "isStartElementOf": [
+                    ""
+                ],
+                "isFinishElementOf": [
+                    ""
+                ]
+            },
+            "superElementOf": [
+                ""
+            ],
+            "isAlternativeTo": [
+                ""
+            ]
+        }
+    },
+    {
+        "name": "Errors",
+        "faktor": "LABOR",
+        "relation": {
+            "subElementOf": {
+                "isStartElementOf": [
+                    ""
+                ],
+                "isFinishElementOf": [
+                    ""
+                ]
+            },
+            "superElementOf": [
+                ""
+            ],
+            "isAlternativeTo": [
+                ""
+            ]
+        }
+    },
+    {
+        "name": "Anatomy",
+        "faktor": "LABOR",
+        "relation": {
+            "subElementOf": {
+                "isStartElementOf": [
+                    ""
+                ],
+                "isFinishElementOf": [
+                    ""
+                ]
+            },
+            "superElementOf": [
+                ""
+            ],
+            "isAlternativeTo": [
+                ""
+            ]
+        }
+    },
+    {
+        "name": "Body",
+        "faktor": "SOMA",
+        "relation": {
+            "subElementOf": {
+                "isStartElementOf": [
+                    ""
+                ],
+                "isFinishElementOf": [
+                    ""
+                ]
+            },
+            "superElementOf": [
+                ""
+            ],
+            "isAlternativeTo": [
+                ""
+            ]
+        }
+    },
+    {
+        "name": "Spine",
+        "faktor": "SOMA",
+        "relation": {
+            "subElementOf": {
+                "isStartElementOf": [
+                    ""
+                ],
+                "isFinishElementOf": [
+                    ""
+                ]
+            },
+            "superElementOf": [
+                ""
+            ],
+            "isAlternativeTo": [
+                ""
+            ]
+        }
+    },
+    {
+        "name": "Ribs",
+        "faktor": "SOMA",
+        "relation": {
+            "subElementOf": {
+                "isStartElementOf": [
+                    ""
+                ],
+                "isFinishElementOf": [
+                    ""
+                ]
+            },
+            "superElementOf": [
+                ""
+            ],
+            "isAlternativeTo": [
+                ""
+            ]
+        }
+    },
+    {
+        "name": "Head",
+        "faktor": "SOMA",
+        "relation": {
+            "subElementOf": {
+                "isStartElementOf": [
+                    ""
+                ],
+                "isFinishElementOf": [
+                    ""
+                ]
+            },
+            "superElementOf": [
+                ""
+            ],
+            "isAlternativeTo": [
+                ""
+            ]
+        }
+    },
+    {
+        "name": "Cranium",
+        "faktor": "SOMA",
+        "relation": {
+            "subElementOf": {
+                "isStartElementOf": [
+                    ""
+                ],
+                "isFinishElementOf": [
+                    ""
+                ]
+            },
+            "superElementOf": [
+                ""
+            ],
+            "isAlternativeTo": [
+                ""
+            ]
+        }
+    },
+    {
+        "name": "Ears",
+        "faktor": "SOMA",
+        "relation": {
+            "subElementOf": {
+                "isStartElementOf": [
+                    ""
+                ],
+                "isFinishElementOf": [
+                    ""
+                ]
+            },
+            "superElementOf": [
+                ""
+            ],
+            "isAlternativeTo": [
+                ""
+            ]
+        }
+    },
+    {
+        "name": "Face",
+        "faktor": "SOMA",
+        "relation": {
+            "subElementOf": {
+                "isStartElementOf": [
+                    ""
+                ],
+                "isFinishElementOf": [
+                    ""
+                ]
+            },
+            "superElementOf": [
+                ""
+            ],
+            "isAlternativeTo": [
+                ""
+            ]
+        }
+    },
+    {
+        "name": "Neck",
+        "faktor": "SOMA",
+        "relation": {
+            "subElementOf": {
+                "isStartElementOf": [
+                    ""
+                ],
+                "isFinishElementOf": [
+                    ""
+                ]
+            },
+            "superElementOf": [
+                ""
+            ],
+            "isAlternativeTo": [
+                ""
+            ]
+        }
+    },
+    {
+        "name": "Arm",
+        "faktor": "SOMA",
+        "relation": {
+            "subElementOf": {
+                "isStartElementOf": [
+                    ""
+                ],
+                "isFinishElementOf": [
+                    ""
+                ]
+            },
+            "superElementOf": [
+                ""
+            ],
+            "isAlternativeTo": [
+                ""
+            ]
+        }
+    },
+    {
+        "name": "Scapula",
+        "faktor": "SOMA",
+        "relation": {
+            "subElementOf": {
+                "isStartElementOf": [
+                    ""
+                ],
+                "isFinishElementOf": [
+                    ""
+                ]
+            },
+            "superElementOf": [
+                ""
+            ],
+            "isAlternativeTo": [
+                ""
+            ]
+        }
+    },
+    {
+        "name": "Humerus",
+        "faktor": "SOMA",
+        "relation": {
+            "subElementOf": {
+                "isStartElementOf": [
+                    ""
+                ],
+                "isFinishElementOf": [
+                    ""
+                ]
+            },
+            "superElementOf": [
+                ""
+            ],
+            "isAlternativeTo": [
+                ""
+            ]
+        }
+    },
+    {
+        "name": "Forearm",
+        "faktor": "SOMA",
+        "relation": {
+            "subElementOf": {
+                "isStartElementOf": [
+                    ""
+                ],
+                "isFinishElementOf": [
+                    ""
+                ]
+            },
+            "superElementOf": [
+                ""
+            ],
+            "isAlternativeTo": [
+                ""
+            ]
+        }
+    },
+    {
+        "name": "Hand",
+        "faktor": "SOMA",
+        "relation": {
+            "subElementOf": {
+                "isStartElementOf": [
+                    ""
+                ],
+                "isFinishElementOf": [
+                    ""
+                ]
+            },
+            "superElementOf": [
+                ""
+            ],
+            "isAlternativeTo": [
+                ""
+            ]
+        }
+    },
+    {
+        "name": "Thumb",
+        "faktor": "SOMA",
+        "relation": {
+            "subElementOf": {
+                "isStartElementOf": [
+                    ""
+                ],
+                "isFinishElementOf": [
+                    ""
+                ]
+            },
+            "superElementOf": [
+                ""
+            ],
+            "isAlternativeTo": [
+                ""
+            ]
+        }
+    },
+    {
+        "name": "Index Finger",
+        "faktor": "SOMA",
+        "relation": {
+            "subElementOf": {
+                "isStartElementOf": [
+                    ""
+                ],
+                "isFinishElementOf": [
+                    ""
+                ]
+            },
+            "superElementOf": [
+                ""
+            ],
+            "isAlternativeTo": [
+                ""
+            ]
+        }
+    },
+    {
+        "name": "Middle Finger",
+        "faktor": "SOMA",
+        "relation": {
+            "subElementOf": {
+                "isStartElementOf": [
+                    ""
+                ],
+                "isFinishElementOf": [
+                    ""
+                ]
+            },
+            "superElementOf": [
+                ""
+            ],
+            "isAlternativeTo": [
+                ""
+            ]
+        }
+    },
+    {
+        "name": "Ring Finger",
+        "faktor": "SOMA",
+        "relation": {
+            "subElementOf": {
+                "isStartElementOf": [
+                    ""
+                ],
+                "isFinishElementOf": [
+                    ""
+                ]
+            },
+            "superElementOf": [
+                ""
+            ],
+            "isAlternativeTo": [
+                ""
+            ]
+        }
+    },
+    {
+        "name": "Pinky Finger",
+        "faktor": "SOMA",
+        "relation": {
+            "subElementOf": {
+                "isStartElementOf": [
+                    ""
+                ],
+                "isFinishElementOf": [
+                    ""
+                ]
+            },
+            "superElementOf": [
+                ""
+            ],
+            "isAlternativeTo": [
+                ""
+            ]
+        }
+    },
+    {
+        "name": "Leg",
+        "faktor": "SOMA",
+        "relation": {
+            "subElementOf": {
+                "isStartElementOf": [
+                    ""
+                ],
+                "isFinishElementOf": [
+                    ""
+                ]
+            },
+            "superElementOf": [
+                ""
+            ],
+            "isAlternativeTo": [
+                ""
+            ]
+        }
+    },
+    {
+        "name": "Hips",
+        "faktor": "SOMA",
+        "relation": {
+            "subElementOf": {
+                "isStartElementOf": [
+                    ""
+                ],
+                "isFinishElementOf": [
+                    ""
+                ]
+            },
+            "superElementOf": [
+                ""
+            ],
+            "isAlternativeTo": [
+                ""
+            ]
+        }
+    },
+    {
+        "name": "Femur",
+        "faktor": "SOMA",
+        "relation": {
+            "subElementOf": {
+                "isStartElementOf": [
+                    ""
+                ],
+                "isFinishElementOf": [
+                    ""
+                ]
+            },
+            "superElementOf": [
+                ""
+            ],
+            "isAlternativeTo": [
+                ""
+            ]
+        }
+    },
+    {
+        "name": "Tibia",
+        "faktor": "SOMA",
+        "relation": {
+            "subElementOf": {
+                "isStartElementOf": [
+                    ""
+                ],
+                "isFinishElementOf": [
+                    ""
+                ]
+            },
+            "superElementOf": [
+                ""
+            ],
+            "isAlternativeTo": [
+                ""
+            ]
+        }
+    },
+    {
+        "name": "Foot",
+        "faktor": "SOMA",
+        "relation": {
+            "subElementOf": {
+                "isStartElementOf": [
+                    ""
+                ],
+                "isFinishElementOf": [
+                    ""
+                ]
+            },
+            "superElementOf": [
+                ""
+            ],
+            "isAlternativeTo": [
+                ""
+            ]
+        }
+    },
+    {
+        "name": "Physiology",
+        "faktor": "SOMA",
+        "relation": {
+            "subElementOf": {
+                "isStartElementOf": [
+                    ""
+                ],
+                "isFinishElementOf": [
+                    ""
+                ]
+            },
+            "superElementOf": [
+                ""
+            ],
+            "isAlternativeTo": [
+                ""
+            ]
+        }
+    },
+    {
+        "name": "Endurance",
+        "faktor": "SOMA",
+        "relation": {
+            "subElementOf": {
+                "isStartElementOf": [
+                    ""
+                ],
+                "isFinishElementOf": [
+                    ""
+                ]
+            },
+            "superElementOf": [
+                ""
+            ],
+            "isAlternativeTo": [
+                ""
+            ]
+        }
+    },
+    {
+        "name": "Limberness",
+        "faktor": "SOMA",
+        "relation": {
+            "subElementOf": {
+                "isStartElementOf": [
+                    ""
+                ],
+                "isFinishElementOf": [
+                    ""
+                ]
+            },
+            "superElementOf": [
+                ""
+            ],
+            "isAlternativeTo": [
+                ""
+            ]
+        }
+    },
+    {
+        "name": "Strength",
+        "faktor": "SOMA",
+        "relation": {
+            "subElementOf": {
+                "isStartElementOf": [
+                    ""
+                ],
+                "isFinishElementOf": [
+                    ""
+                ]
+            },
+            "superElementOf": [
+                ""
+            ],
+            "isAlternativeTo": [
+                ""
+            ]
+        }
+    },
+    {
+        "name": "Injury Prevention",
+        "faktor": "SOMA",
+        "relation": {
+            "subElementOf": {
+                "isStartElementOf": [
+                    ""
+                ],
+                "isFinishElementOf": [
+                    ""
+                ]
+            },
+            "superElementOf": [
+                ""
+            ],
+            "isAlternativeTo": [
+                ""
+            ]
+        }
+    },
+    {
+        "name": "Nutrition",
+        "faktor": "SOMA",
+        "relation": {
+            "subElementOf": {
+                "isStartElementOf": [
+                    ""
+                ],
+                "isFinishElementOf": [
+                    ""
+                ]
+            },
+            "superElementOf": [
+                ""
+            ],
+            "isAlternativeTo": [
+                ""
+            ]
+        }
+    },
+    {
+        "name": "Kontakt Material",
+        "faktor": "EKOS",
+        "relation": {
+            "subElementOf": {
+                "isStartElementOf": [
+                    ""
+                ],
+                "isFinishElementOf": [
+                    ""
+                ]
+            },
+            "superElementOf": [
+                ""
+            ],
+            "isAlternativeTo": [
+                ""
+            ]
+        }
+    },
+    {
+        "name": "Natural",
+        "faktor": "EKOS",
+        "relation": {
+            "subElementOf": {
+                "isStartElementOf": [
+                    ""
+                ],
+                "isFinishElementOf": [
+                    ""
+                ]
+            },
+            "superElementOf": [
+                ""
+            ],
+            "isAlternativeTo": [
+                ""
+            ]
+        }
+    },
+    {
+        "name": "Lithosphere",
+        "faktor": "EKOS",
+        "relation": {
+            "subElementOf": {
+                "isStartElementOf": [
+                    ""
+                ],
+                "isFinishElementOf": [
+                    ""
+                ]
+            },
+            "superElementOf": [
+                ""
+            ],
+            "isAlternativeTo": [
+                ""
+            ]
+        }
+    },
+    {
+        "name": "Hydrosphere",
+        "faktor": "EKOS",
+        "relation": {
+            "subElementOf": {
+                "isStartElementOf": [
+                    ""
+                ],
+                "isFinishElementOf": [
+                    ""
+                ]
+            },
+            "superElementOf": [
+                ""
+            ],
+            "isAlternativeTo": [
+                ""
+            ]
+        }
+    },
+    {
+        "name": "Plants",
+        "faktor": "EKOS",
+        "relation": {
+            "subElementOf": {
+                "isStartElementOf": [
+                    ""
+                ],
+                "isFinishElementOf": [
+                    ""
+                ]
+            },
+            "superElementOf": [
+                ""
+            ],
+            "isAlternativeTo": [
+                ""
+            ]
+        }
+    },
+    {
+        "name": "Artificial",
+        "faktor": "EKOS",
+        "relation": {
+            "subElementOf": {
+                "isStartElementOf": [
+                    ""
+                ],
+                "isFinishElementOf": [
+                    ""
+                ]
+            },
+            "superElementOf": [
+                ""
+            ],
+            "isAlternativeTo": [
+                ""
+            ]
+        }
+    },
+    {
+        "name": "Plast",
+        "faktor": "EKOS",
+        "relation": {
+            "subElementOf": {
+                "isStartElementOf": [
+                    ""
+                ],
+                "isFinishElementOf": [
+                    ""
+                ]
+            },
+            "superElementOf": [
+                ""
+            ],
+            "isAlternativeTo": [
+                ""
+            ]
+        }
+    },
+    {
+        "name": "Volume",
+        "faktor": "EKOS",
+        "relation": {
+            "subElementOf": {
+                "isStartElementOf": [
+                    ""
+                ],
+                "isFinishElementOf": [
+                    ""
+                ]
+            },
+            "superElementOf": [
+                ""
+            ],
+            "isAlternativeTo": [
+                ""
+            ]
+        }
+    },
+    {
+        "name": "Wall",
+        "faktor": "EKOS",
+        "relation": {
+            "subElementOf": {
+                "isStartElementOf": [
+                    ""
+                ],
+                "isFinishElementOf": [
+                    ""
+                ]
+            },
+            "superElementOf": [
+                ""
+            ],
+            "isAlternativeTo": [
+                ""
+            ]
+        }
+    },
+    {
+        "name": "Environment",
+        "faktor": "EKOS",
+        "relation": {
+            "subElementOf": {
+                "isStartElementOf": [
+                    ""
+                ],
+                "isFinishElementOf": [
+                    ""
+                ]
+            },
+            "superElementOf": [
+                ""
+            ],
+            "isAlternativeTo": [
+                ""
+            ]
+        }
+    },
+    {
+        "name": "Atmosphere",
+        "faktor": "EKOS",
+        "relation": {
+            "subElementOf": {
+                "isStartElementOf": [
+                    ""
+                ],
+                "isFinishElementOf": [
+                    ""
+                ]
+            },
+            "superElementOf": [
+                ""
+            ],
+            "isAlternativeTo": [
+                ""
+            ]
+        }
+    },
+    {
+        "name": "Air Temperature",
+        "faktor": "EKOS",
+        "relation": {
+            "subElementOf": {
+                "isStartElementOf": [
+                    ""
+                ],
+                "isFinishElementOf": [
+                    ""
+                ]
+            },
+            "superElementOf": [
+                ""
+            ],
+            "isAlternativeTo": [
+                ""
+            ]
+        }
+    },
+    {
+        "name": "Humidity",
+        "faktor": "EKOS",
+        "relation": {
+            "subElementOf": {
+                "isStartElementOf": [
+                    ""
+                ],
+                "isFinishElementOf": [
+                    ""
+                ]
+            },
+            "superElementOf": [
+                ""
+            ],
+            "isAlternativeTo": [
+                ""
+            ]
+        }
+    },
+    {
+        "name": "Smoke",
+        "faktor": "EKOS",
+        "relation": {
+            "subElementOf": {
+                "isStartElementOf": [
+                    ""
+                ],
+                "isFinishElementOf": [
+                    ""
+                ]
+            },
+            "superElementOf": [
+                ""
+            ],
+            "isAlternativeTo": [
+                ""
+            ]
+        }
+    },
+    {
+        "name": "Wind",
+        "faktor": "EKOS",
+        "relation": {
+            "subElementOf": {
+                "isStartElementOf": [
+                    ""
+                ],
+                "isFinishElementOf": [
+                    ""
+                ]
+            },
+            "superElementOf": [
+                ""
+            ],
+            "isAlternativeTo": [
+                ""
+            ]
+        }
+    },
+    {
+        "name": "Architecture",
+        "faktor": "EKOS",
+        "relation": {
+            "subElementOf": {
+                "isStartElementOf": [
+                    ""
+                ],
+                "isFinishElementOf": [
+                    ""
+                ]
+            },
+            "superElementOf": [
+                ""
+            ],
+            "isAlternativeTo": [
+                ""
+            ]
+        }
+    },
+    {
+        "name": "Crag",
+        "faktor": "EKOS",
+        "relation": {
+            "subElementOf": {
+                "isStartElementOf": [
+                    ""
+                ],
+                "isFinishElementOf": [
+                    ""
+                ]
+            },
+            "superElementOf": [
+                ""
+            ],
+            "isAlternativeTo": [
+                ""
+            ]
+        }
+    },
+    {
+        "name": "Surface",
+        "faktor": "EKOS",
+        "relation": {
+            "subElementOf": {
+                "isStartElementOf": [
+                    ""
+                ],
+                "isFinishElementOf": [
+                    ""
+                ]
+            },
+            "superElementOf": [
+                ""
+            ],
+            "isAlternativeTo": [
+                ""
+            ]
+        }
+    },
+    {
+        "name": "Texture",
+        "faktor": "EKOS",
+        "relation": {
+            "subElementOf": {
+                "isStartElementOf": [
+                    ""
+                ],
+                "isFinishElementOf": [
+                    ""
+                ]
+            },
+            "superElementOf": [
+                ""
+            ],
+            "isAlternativeTo": [
+                ""
+            ]
+        }
+    },
+    {
+        "name": "Geometry",
+        "faktor": "VIA",
+        "relation": {
+            "subElementOf": {
+                "isStartElementOf": [
+                    ""
+                ],
+                "isFinishElementOf": [
+                    ""
+                ]
+            },
+            "superElementOf": [
+                ""
+            ],
+            "isAlternativeTo": [
+                ""
+            ]
+        }
+    },
+    {
+        "name": "Density",
+        "faktor": "VIA",
+        "relation": {
+            "subElementOf": {
+                "isStartElementOf": [
+                    ""
+                ],
+                "isFinishElementOf": [
+                    ""
+                ]
+            },
+            "superElementOf": [
+                ""
+            ],
+            "isAlternativeTo": [
+                ""
+            ]
+        }
+    },
+    {
+        "name": "Direction",
+        "faktor": "VIA",
+        "relation": {
+            "subElementOf": {
+                "isStartElementOf": [
+                    ""
+                ],
+                "isFinishElementOf": [
+                    ""
+                ]
+            },
+            "superElementOf": [
+                ""
+            ],
+            "isAlternativeTo": [
+                ""
+            ]
+        }
+    },
+    {
+        "name": "Displacement",
+        "faktor": "VIA",
+        "relation": {
+            "subElementOf": {
+                "isStartElementOf": [
+                    ""
+                ],
+                "isFinishElementOf": [
+                    ""
+                ]
+            },
+            "superElementOf": [
+                ""
+            ],
+            "isAlternativeTo": [
+                ""
+            ]
+        }
+    },
+    {
+        "name": "Distance",
+        "faktor": "VIA",
+        "relation": {
+            "subElementOf": {
+                "isStartElementOf": [
+                    ""
+                ],
+                "isFinishElementOf": [
+                    ""
+                ]
+            },
+            "superElementOf": [
+                ""
+            ],
+            "isAlternativeTo": [
+                ""
+            ]
+        }
+    },
+    {
+        "name": "Div",
+        "faktor": "VIA",
+        "relation": {
+            "subElementOf": {
+                "isStartElementOf": [
+                    ""
+                ],
+                "isFinishElementOf": [
+                    ""
+                ]
+            },
+            "superElementOf": [
+                ""
+            ],
+            "isAlternativeTo": [
+                ""
+            ]
+        }
+    },
+    {
+        "name": "Line",
+        "faktor": "VIA",
+        "relation": {
+            "subElementOf": {
+                "isStartElementOf": [
+                    ""
+                ],
+                "isFinishElementOf": [
+                    ""
+                ]
+            },
+            "superElementOf": [
+                ""
+            ],
+            "isAlternativeTo": [
+                ""
+            ]
+        }
+    },
+    {
+        "name": "Morfos",
+        "faktor": "VIA",
+        "relation": {
+            "subElementOf": {
+                "isStartElementOf": [
+                    ""
+                ],
+                "isFinishElementOf": [
+                    ""
+                ]
+            },
+            "superElementOf": [
+                ""
+            ],
+            "isAlternativeTo": [
+                ""
+            ]
+        }
+    },
+    {
+        "name": "Orientation",
+        "faktor": "VIA",
+        "relation": {
+            "subElementOf": {
+                "isStartElementOf": [
+                    ""
+                ],
+                "isFinishElementOf": [
+                    ""
+                ]
+            },
+            "superElementOf": [
+                ""
+            ],
+            "isAlternativeTo": [
+                ""
+            ]
+        }
+    },
+    {
+        "name": "Point",
+        "faktor": "VIA",
+        "relation": {
+            "subElementOf": {
+                "isStartElementOf": [
+                    ""
+                ],
+                "isFinishElementOf": [
+                    ""
+                ]
+            },
+            "superElementOf": [
+                ""
+            ],
+            "isAlternativeTo": [
+                ""
+            ]
+        }
+    },
+    {
+        "name": "Shape",
+        "faktor": "VIA",
+        "relation": {
+            "subElementOf": {
+                "isStartElementOf": [
+                    ""
+                ],
+                "isFinishElementOf": [
+                    ""
+                ]
+            },
+            "superElementOf": [
+                ""
+            ],
+            "isAlternativeTo": [
+                ""
+            ]
+        }
+    },
+    {
+        "name": "Logic",
+        "faktor": "VIA",
+        "relation": {
+            "subElementOf": {
+                "isStartElementOf": [
+                    ""
+                ],
+                "isFinishElementOf": [
+                    ""
+                ]
+            },
+            "superElementOf": [
+                ""
+            ],
+            "isAlternativeTo": [
+                ""
+            ]
+        }
+    },
+    {
+        "name": "Conditional Logic",
+        "faktor": "VIA",
+        "relation": {
+            "subElementOf": {
+                "isStartElementOf": [
+                    ""
+                ],
+                "isFinishElementOf": [
+                    ""
+                ]
+            },
+            "superElementOf": [
+                ""
+            ],
+            "isAlternativeTo": [
+                ""
+            ]
+        }
+    },
+    {
+        "name": "Propositional Logic",
+        "faktor": "VIA",
+        "relation": {
+            "subElementOf": {
+                "isStartElementOf": [
+                    ""
+                ],
+                "isFinishElementOf": [
+                    ""
+                ]
+            },
+            "superElementOf": [
+                ""
+            ],
+            "isAlternativeTo": [
+                ""
+            ]
+        }
+    },
+    {
+        "name": "Probability",
+        "faktor": "VIA",
+        "relation": {
+            "subElementOf": {
+                "isStartElementOf": [
+                    ""
+                ],
+                "isFinishElementOf": [
+                    ""
+                ]
+            },
+            "superElementOf": [
+                ""
+            ],
+            "isAlternativeTo": [
+                ""
+            ]
+        }
+    },
+    {
+        "name": "Affordance",
+        "faktor": "VIA",
+        "relation": {
+            "subElementOf": {
+                "isStartElementOf": [
+                    ""
+                ],
+                "isFinishElementOf": [
+                    ""
+                ]
+            },
+            "superElementOf": [
+                ""
+            ],
+            "isAlternativeTo": [
+                ""
+            ]
+        }
+    },
+    {
+        "name": "Site",
+        "faktor": "VIA",
+        "relation": {
+            "subElementOf": {
+                "isStartElementOf": [
+                    ""
+                ],
+                "isFinishElementOf": [
+                    ""
+                ]
+            },
+            "superElementOf": [
+                ""
+            ],
+            "isAlternativeTo": [
+                ""
+            ]
+        }
+    },
+    {
+        "name": "Path",
+        "faktor": "VIA",
+        "relation": {
+            "subElementOf": {
+                "isStartElementOf": [
+                    ""
+                ],
+                "isFinishElementOf": [
+                    ""
+                ]
+            },
+            "superElementOf": [
+                ""
+            ],
+            "isAlternativeTo": [
+                ""
+            ]
+        }
+    },
+    {
+        "name": "Constraint",
+        "faktor": "VIA",
+        "relation": {
+            "subElementOf": {
+                "isStartElementOf": [
+                    ""
+                ],
+                "isFinishElementOf": [
+                    ""
+                ]
+            },
+            "superElementOf": [
+                ""
+            ],
+            "isAlternativeTo": [
+                ""
+            ]
+        }
+    },
+    {
+        "name": "Fortuna",
+        "faktor": "VIA",
+        "relation": {
+            "subElementOf": {
+                "isStartElementOf": [
+                    ""
+                ],
+                "isFinishElementOf": [
+                    ""
+                ]
+            },
+            "superElementOf": [
+                ""
+            ],
+            "isAlternativeTo": [
+                ""
+            ]
+        }
+    },
+    {
+        "name": "Frequency",
+        "faktor": "VIA",
+        "relation": {
+            "subElementOf": {
+                "isStartElementOf": [
+                    ""
+                ],
+                "isFinishElementOf": [
+                    ""
+                ]
+            },
+            "superElementOf": [
+                ""
+            ],
+            "isAlternativeTo": [
+                ""
+            ]
+        }
+    },
+    {
+        "name": "Dynamics",
+        "faktor": "MOTOR",
+        "relation": {
+            "subElementOf": {
+                "isStartElementOf": [
+                    ""
+                ],
+                "isFinishElementOf": [
+                    ""
+                ]
+            },
+            "superElementOf": [
+                ""
+            ],
+            "isAlternativeTo": [
+                ""
+            ]
+        }
+    },
+    {
+        "name": "Force",
+        "faktor": "MOTOR",
+        "relation": {
+            "subElementOf": {
+                "isStartElementOf": [
+                    ""
+                ],
+                "isFinishElementOf": [
+                    ""
+                ]
+            },
+            "superElementOf": [
+                ""
+            ],
+            "isAlternativeTo": [
+                ""
+            ]
+        }
+    },
+    {
+        "name": "Centripetal",
+        "faktor": "MOTOR",
+        "relation": {
+            "subElementOf": {
+                "isStartElementOf": [
+                    ""
+                ],
+                "isFinishElementOf": [
+                    ""
+                ]
+            },
+            "superElementOf": [
+                ""
+            ],
+            "isAlternativeTo": [
+                ""
+            ]
+        }
+    },
+    {
+        "name": "Friction",
+        "faktor": "MOTOR",
+        "relation": {
+            "subElementOf": {
+                "isStartElementOf": [
+                    ""
+                ],
+                "isFinishElementOf": [
+                    ""
+                ]
+            },
+            "superElementOf": [
+                ""
+            ],
+            "isAlternativeTo": [
+                ""
+            ]
+        }
+    },
+    {
+        "name": "Gravity",
+        "faktor": "MOTOR",
+        "relation": {
+            "subElementOf": {
+                "isStartElementOf": [
+                    ""
+                ],
+                "isFinishElementOf": [
+                    ""
+                ]
+            },
+            "superElementOf": [
+                ""
+            ],
+            "isAlternativeTo": [
+                ""
+            ]
+        }
+    },
+    {
+        "name": "Normal Force",
+        "faktor": "MOTOR",
+        "relation": {
+            "subElementOf": {
+                "isStartElementOf": [
+                    ""
+                ],
+                "isFinishElementOf": [
+                    ""
+                ]
+            },
+            "superElementOf": [
+                ""
+            ],
+            "isAlternativeTo": [
+                ""
+            ]
+        }
+    },
+    {
+        "name": "Pressure",
+        "faktor": "MOTOR",
+        "relation": {
+            "subElementOf": {
+                "isStartElementOf": [
+                    ""
+                ],
+                "isFinishElementOf": [
+                    ""
+                ]
+            },
+            "superElementOf": [
+                ""
+            ],
+            "isAlternativeTo": [
+                ""
+            ]
+        }
+    },
+    {
+        "name": "Tension",
+        "faktor": "MOTOR",
+        "relation": {
+            "subElementOf": {
+                "isStartElementOf": [
+                    ""
+                ],
+                "isFinishElementOf": [
+                    ""
+                ]
+            },
+            "superElementOf": [
+                ""
+            ],
+            "isAlternativeTo": [
+                ""
+            ]
+        }
+    },
+    {
+        "name": "Energy",
+        "faktor": "MOTOR",
+        "relation": {
+            "subElementOf": {
+                "isStartElementOf": [
+                    ""
+                ],
+                "isFinishElementOf": [
+                    ""
+                ]
+            },
+            "superElementOf": [
+                ""
+            ],
+            "isAlternativeTo": [
+                ""
+            ]
+        }
+    },
+    {
+        "name": "Inertia",
+        "faktor": "MOTOR",
+        "relation": {
+            "subElementOf": {
+                "isStartElementOf": [
+                    ""
+                ],
+                "isFinishElementOf": [
+                    ""
+                ]
+            },
+            "superElementOf": [
+                ""
+            ],
+            "isAlternativeTo": [
+                ""
+            ]
+        }
+    },
+    {
+        "name": "Momentum",
+        "faktor": "MOTOR",
+        "relation": {
+            "subElementOf": {
+                "isStartElementOf": [
+                    ""
+                ],
+                "isFinishElementOf": [
+                    ""
+                ]
+            },
+            "superElementOf": [
+                ""
+            ],
+            "isAlternativeTo": [
+                ""
+            ]
+        }
+    },
+    {
+        "name": "Power",
+        "faktor": "MOTOR",
+        "relation": {
+            "subElementOf": {
+                "isStartElementOf": [
+                    ""
+                ],
+                "isFinishElementOf": [
+                    ""
+                ]
+            },
+            "superElementOf": [
+                ""
+            ],
+            "isAlternativeTo": [
+                ""
+            ]
+        }
+    },
+    {
+        "name": "Work",
+        "faktor": "MOTOR",
+        "relation": {
+            "subElementOf": {
+                "isStartElementOf": [
+                    ""
+                ],
+                "isFinishElementOf": [
+                    ""
+                ]
+            },
+            "superElementOf": [
+                ""
+            ],
+            "isAlternativeTo": [
+                ""
+            ]
+        }
+    },
+    {
+        "name": "Torque",
+        "faktor": "MOTOR",
+        "relation": {
+            "subElementOf": {
+                "isStartElementOf": [
+                    ""
+                ],
+                "isFinishElementOf": [
+                    ""
+                ]
+            },
+            "superElementOf": [
+                ""
+            ],
+            "isAlternativeTo": [
+                ""
+            ]
+        }
+    },
+    {
+        "name": "Kinematics",
+        "faktor": "MOTOR",
+        "relation": {
+            "subElementOf": {
+                "isStartElementOf": [
+                    ""
+                ],
+                "isFinishElementOf": [
+                    ""
+                ]
+            },
+            "superElementOf": [
+                ""
+            ],
+            "isAlternativeTo": [
+                ""
+            ]
+        }
+    },
+    {
+        "name": "Speed",
+        "faktor": "MOTOR",
+        "relation": {
+            "subElementOf": {
+                "isStartElementOf": [
+                    ""
+                ],
+                "isFinishElementOf": [
+                    ""
+                ]
+            },
+            "superElementOf": [
+                ""
+            ],
+            "isAlternativeTo": [
+                ""
+            ]
+        }
+    },
+    {
+        "name": "Velocity",
+        "faktor": "MOTOR",
+        "relation": {
+            "subElementOf": {
+                "isStartElementOf": [
+                    ""
+                ],
+                "isFinishElementOf": [
+                    ""
+                ]
+            },
+            "superElementOf": [
+                ""
+            ],
+            "isAlternativeTo": [
+                ""
+            ]
+        }
+    },
+    {
+        "name": "Acceleration",
+        "faktor": "MOTOR",
+        "relation": {
+            "subElementOf": {
+                "isStartElementOf": [
+                    ""
+                ],
+                "isFinishElementOf": [
+                    ""
+                ]
+            },
+            "superElementOf": [
+                ""
+            ],
+            "isAlternativeTo": [
+                ""
+            ]
+        }
+    },
+    {
+        "name": "Jerk",
+        "faktor": "MOTOR",
+        "relation": {
+            "subElementOf": {
+                "isStartElementOf": [
+                    ""
+                ],
+                "isFinishElementOf": [
+                    ""
+                ]
+            },
+            "superElementOf": [
+                ""
+            ],
+            "isAlternativeTo": [
+                ""
+            ]
+        }
+    },
+    {
+        "name": "Time",
+        "faktor": "MOTOR",
+        "relation": {
+            "subElementOf": {
+                "isStartElementOf": [
+                    ""
+                ],
+                "isFinishElementOf": [
+                    ""
+                ]
+            },
+            "superElementOf": [
+                ""
+            ],
+            "isAlternativeTo": [
+                ""
+            ]
+        }
+    },
+    {
+        "name": "Attention",
+        "faktor": "ANIMA",
+        "relation": {
+            "subElementOf": {
+                "isStartElementOf": [
+                    ""
+                ],
+                "isFinishElementOf": [
+                    ""
+                ]
+            },
+            "superElementOf": [
+                ""
+            ],
+            "isAlternativeTo": [
+                ""
+            ]
+        }
+    },
+    {
+        "name": "Cognition",
+        "faktor": "ANIMA",
+        "relation": {
+            "subElementOf": {
+                "isStartElementOf": [
+                    ""
+                ],
+                "isFinishElementOf": [
+                    ""
+                ]
+            },
+            "superElementOf": [
+                ""
+            ],
+            "isAlternativeTo": [
+                ""
+            ]
+        }
+    },
+    {
+        "name": "Cognitive Ease",
+        "faktor": "ANIMA",
+        "relation": {
+            "subElementOf": {
+                "isStartElementOf": [
+                    ""
+                ],
+                "isFinishElementOf": [
+                    ""
+                ]
+            },
+            "superElementOf": [
+                ""
+            ],
+            "isAlternativeTo": [
+                ""
+            ]
+        }
+    },
+    {
+        "name": "Clarity",
+        "faktor": "ANIMA",
+        "relation": {
+            "subElementOf": {
+                "isStartElementOf": [
+                    ""
+                ],
+                "isFinishElementOf": [
+                    ""
+                ]
+            },
+            "superElementOf": [
+                ""
+            ],
+            "isAlternativeTo": [
+                ""
+            ]
+        }
+    },
+    {
+        "name": "Priming",
+        "faktor": "ANIMA",
+        "relation": {
+            "subElementOf": {
+                "isStartElementOf": [
+                    ""
+                ],
+                "isFinishElementOf": [
+                    ""
+                ]
+            },
+            "superElementOf": [
+                ""
+            ],
+            "isAlternativeTo": [
+                ""
+            ]
+        }
+    },
+    {
+        "name": "Repetition",
+        "faktor": "ANIMA",
+        "relation": {
+            "subElementOf": {
+                "isStartElementOf": [
+                    ""
+                ],
+                "isFinishElementOf": [
+                    ""
+                ]
+            },
+            "superElementOf": [
+                ""
+            ],
+            "isAlternativeTo": [
+                ""
+            ]
+        }
+    },
+    {
+        "name": "Goodness",
+        "faktor": "ANIMA",
+        "relation": {
+            "subElementOf": {
+                "isStartElementOf": [
+                    ""
+                ],
+                "isFinishElementOf": [
+                    ""
+                ]
+            },
+            "superElementOf": [
+                ""
+            ],
+            "isAlternativeTo": [
+                ""
+            ]
+        }
+    },
+    {
+        "name": "Familiarity",
+        "faktor": "ANIMA",
+        "relation": {
+            "subElementOf": {
+                "isStartElementOf": [
+                    ""
+                ],
+                "isFinishElementOf": [
+                    ""
+                ]
+            },
+            "superElementOf": [
+                ""
+            ],
+            "isAlternativeTo": [
+                ""
+            ]
+        }
+    },
+    {
+        "name": "Effortlessness",
+        "faktor": "ANIMA",
+        "relation": {
+            "subElementOf": {
+                "isStartElementOf": [
+                    ""
+                ],
+                "isFinishElementOf": [
+                    ""
+                ]
+            },
+            "superElementOf": [
+                ""
+            ],
+            "isAlternativeTo": [
+                ""
+            ]
+        }
+    },
+    {
+        "name": "Truth",
+        "faktor": "ANIMA",
+        "relation": {
+            "subElementOf": {
+                "isStartElementOf": [
+                    ""
+                ],
+                "isFinishElementOf": [
+                    ""
+                ]
+            },
+            "superElementOf": [
+                ""
+            ],
+            "isAlternativeTo": [
+                ""
+            ]
+        }
+    },
+    {
+        "name": "Decision",
+        "faktor": "ANIMA",
+        "relation": {
+            "subElementOf": {
+                "isStartElementOf": [
+                    ""
+                ],
+                "isFinishElementOf": [
+                    ""
+                ]
+            },
+            "superElementOf": [
+                ""
+            ],
+            "isAlternativeTo": [
+                ""
+            ]
+        }
+    },
+    {
+        "name": "Estimation",
+        "faktor": "ANIMA",
+        "relation": {
+            "subElementOf": {
+                "isStartElementOf": [
+                    ""
+                ],
+                "isFinishElementOf": [
+                    ""
+                ]
+            },
+            "superElementOf": [
+                ""
+            ],
+            "isAlternativeTo": [
+                ""
+            ]
+        }
+    },
+    {
+        "name": "Identification",
+        "faktor": "ANIMA",
+        "relation": {
+            "subElementOf": {
+                "isStartElementOf": [
+                    ""
+                ],
+                "isFinishElementOf": [
+                    ""
+                ]
+            },
+            "superElementOf": [
+                ""
+            ],
+            "isAlternativeTo": [
+                ""
+            ]
+        }
+    },
+    {
+        "name": "Judgement",
+        "faktor": "ANIMA",
+        "relation": {
+            "subElementOf": {
+                "isStartElementOf": [
+                    ""
+                ],
+                "isFinishElementOf": [
+                    ""
+                ]
+            },
+            "superElementOf": [
+                ""
+            ],
+            "isAlternativeTo": [
+                ""
+            ]
+        }
+    },
+    {
+        "name": "Emotion",
+        "faktor": "ANIMA",
+        "relation": {
+            "subElementOf": {
+                "isStartElementOf": [
+                    ""
+                ],
+                "isFinishElementOf": [
+                    ""
+                ]
+            },
+            "superElementOf": [
+                ""
+            ],
+            "isAlternativeTo": [
+                ""
+            ]
+        }
+    },
+    {
+        "name": "Anger",
+        "faktor": "ANIMA",
+        "relation": {
+            "subElementOf": {
+                "isStartElementOf": [
+                    ""
+                ],
+                "isFinishElementOf": [
+                    ""
+                ]
+            },
+            "superElementOf": [
+                ""
+            ],
+            "isAlternativeTo": [
+                ""
+            ]
+        }
+    },
+    {
+        "name": "Disgust",
+        "faktor": "ANIMA",
+        "relation": {
+            "subElementOf": {
+                "isStartElementOf": [
+                    ""
+                ],
+                "isFinishElementOf": [
+                    ""
+                ]
+            },
+            "superElementOf": [
+                ""
+            ],
+            "isAlternativeTo": [
+                ""
+            ]
+        }
+    },
+    {
+        "name": "Fear",
+        "faktor": "ANIMA",
+        "relation": {
+            "subElementOf": {
+                "isStartElementOf": [
+                    ""
+                ],
+                "isFinishElementOf": [
+                    ""
+                ]
+            },
+            "superElementOf": [
+                ""
+            ],
+            "isAlternativeTo": [
+                ""
+            ]
+        }
+    },
+    {
+        "name": "Joy",
+        "faktor": "ANIMA",
+        "relation": {
+            "subElementOf": {
+                "isStartElementOf": [
+                    ""
+                ],
+                "isFinishElementOf": [
+                    ""
+                ]
+            },
+            "superElementOf": [
+                ""
+            ],
+            "isAlternativeTo": [
+                ""
+            ]
+        }
+    },
+    {
+        "name": "Sadness",
+        "faktor": "ANIMA",
+        "relation": {
+            "subElementOf": {
+                "isStartElementOf": [
+                    ""
+                ],
+                "isFinishElementOf": [
+                    ""
+                ]
+            },
+            "superElementOf": [
+                ""
+            ],
+            "isAlternativeTo": [
+                ""
+            ]
+        }
+    },
+    {
+        "name": "Memory",
+        "faktor": "ANIMA",
+        "relation": {
+            "subElementOf": {
+                "isStartElementOf": [
+                    ""
+                ],
+                "isFinishElementOf": [
+                    ""
+                ]
+            },
+            "superElementOf": [
+                ""
+            ],
+            "isAlternativeTo": [
+                ""
+            ]
+        }
+    },
+    {
+        "name": "Long Term Memory",
+        "faktor": "ANIMA",
+        "relation": {
+            "subElementOf": {
+                "isStartElementOf": [
+                    ""
+                ],
+                "isFinishElementOf": [
+                    ""
+                ]
+            },
+            "superElementOf": [
+                ""
+            ],
+            "isAlternativeTo": [
+                ""
+            ]
+        }
+    },
+    {
+        "name": "Short Term Memory",
+        "faktor": "ANIMA",
+        "relation": {
+            "subElementOf": {
+                "isStartElementOf": [
+                    ""
+                ],
+                "isFinishElementOf": [
+                    ""
+                ]
+            },
+            "superElementOf": [
+                ""
+            ],
+            "isAlternativeTo": [
+                ""
+            ]
+        }
+    },
+    {
+        "name": "Working Memory",
+        "faktor": "ANIMA",
+        "relation": {
+            "subElementOf": {
+                "isStartElementOf": [
+                    ""
+                ],
+                "isFinishElementOf": [
+                    ""
+                ]
+            },
+            "superElementOf": [
+                ""
+            ],
+            "isAlternativeTo": [
+                ""
+            ]
+        }
+    },
+    {
+        "name": "Mind State",
+        "faktor": "ANIMA",
+        "relation": {
+            "subElementOf": {
+                "isStartElementOf": [
+                    ""
+                ],
+                "isFinishElementOf": [
+                    ""
+                ]
+            },
+            "superElementOf": [
+                ""
+            ],
+            "isAlternativeTo": [
+                ""
+            ]
+        }
+    },
+    {
+        "name": "Arousal",
+        "faktor": "ANIMA",
+        "relation": {
+            "subElementOf": {
+                "isStartElementOf": [
+                    ""
+                ],
+                "isFinishElementOf": [
+                    ""
+                ]
+            },
+            "superElementOf": [
+                ""
+            ],
+            "isAlternativeTo": [
+                ""
+            ]
+        }
+    },
+    {
+        "name": "Confidence",
+        "faktor": "ANIMA",
+        "relation": {
+            "subElementOf": {
+                "isStartElementOf": [
+                    ""
+                ],
+                "isFinishElementOf": [
+                    ""
+                ]
+            },
+            "superElementOf": [
+                ""
+            ],
+            "isAlternativeTo": [
+                ""
+            ]
+        }
+    },
+    {
+        "name": "Mindfulness",
+        "faktor": "ANIMA",
+        "relation": {
+            "subElementOf": {
+                "isStartElementOf": [
+                    ""
+                ],
+                "isFinishElementOf": [
+                    ""
+                ]
+            },
+            "superElementOf": [
+                ""
+            ],
+            "isAlternativeTo": [
+                ""
+            ]
+        }
+    },
+    {
+        "name": "Flow State",
+        "faktor": "ANIMA",
+        "relation": {
+            "subElementOf": {
+                "isStartElementOf": [
+                    ""
+                ],
+                "isFinishElementOf": [
+                    ""
+                ]
+            },
+            "superElementOf": [
+                ""
+            ],
+            "isAlternativeTo": [
+                ""
+            ]
+        }
+    },
+    {
+        "name": "Senses",
+        "faktor": "ANIMA",
+        "relation": {
+            "subElementOf": {
+                "isStartElementOf": [
+                    ""
+                ],
+                "isFinishElementOf": [
+                    ""
+                ]
+            },
+            "superElementOf": [
+                ""
+            ],
+            "isAlternativeTo": [
+                ""
+            ]
+        }
+    },
+    {
+        "name": "Audio",
+        "faktor": "ANIMA",
+        "relation": {
+            "subElementOf": {
+                "isStartElementOf": [
+                    ""
+                ],
+                "isFinishElementOf": [
+                    ""
+                ]
+            },
+            "superElementOf": [
+                ""
+            ],
+            "isAlternativeTo": [
+                ""
+            ]
+        }
+    },
+    {
+        "name": "Touch",
+        "faktor": "ANIMA",
+        "relation": {
+            "subElementOf": {
+                "isStartElementOf": [
+                    ""
+                ],
+                "isFinishElementOf": [
+                    ""
+                ]
+            },
+            "superElementOf": [
+                ""
+            ],
+            "isAlternativeTo": [
+                ""
+            ]
+        }
+    },
+    {
+        "name": "Compression",
+        "faktor": "ANIMA",
+        "relation": {
+            "subElementOf": {
+                "isStartElementOf": [
+                    ""
+                ],
+                "isFinishElementOf": [
+                    ""
+                ]
+            },
+            "superElementOf": [
+                ""
+            ],
+            "isAlternativeTo": [
+                ""
+            ]
+        }
+    },
+    {
+        "name": "Proprioception",
+        "faktor": "ANIMA",
+        "relation": {
+            "subElementOf": {
+                "isStartElementOf": [
+                    ""
+                ],
+                "isFinishElementOf": [
+                    ""
+                ]
+            },
+            "superElementOf": [
+                ""
+            ],
+            "isAlternativeTo": [
+                ""
+            ]
+        }
+    },
+    {
+        "name": "Sight",
+        "faktor": "ANIMA",
+        "relation": {
+            "subElementOf": {
+                "isStartElementOf": [
+                    ""
+                ],
+                "isFinishElementOf": [
+                    ""
+                ]
+            },
+            "superElementOf": [
+                ""
+            ],
+            "isAlternativeTo": [
+                ""
+            ]
+        }
+    }
+]

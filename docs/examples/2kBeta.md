@@ -1,5 +1,6 @@
 ---
 aside: false
+search: false
 ---
 
 # <span class="beta">2K of BETA</span>

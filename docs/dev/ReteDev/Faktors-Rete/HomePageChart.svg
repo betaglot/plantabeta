@@ -1,0 +1,124 @@
+<svg width="1500" height="1500" viewBox="-750,-750,1500,1500" style="font: 35px sans-serif;"  xmlns="http://www.w3.org/2000/svg"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <g fill="none" stroke="gray" stroke-opacity="1" stroke-width="16">
+        <path d="M0,0C19.471,85.306,37.965,-78.835,75.93,-157.67"></path>
+        <path d="M0,0C19.471,85.306,85.306,-19.471,170.612,-38.941"></path>
+        <path d="M0,0C19.471,85.306,68.41,54.555,136.821,109.111"></path>
+        <path d="M0,0C19.471,85.306,0,87.5,0,175"></path>
+        <path d="M0,0C19.471,85.306,-68.41,54.555,-136.821,109.111"></path>
+        <path d="M0,0C19.471,85.306,-68.41,-54.555,-136.821,-109.111"></path>
+        <path d="M75.93,-157.67C113.894,-236.504,58.412,-255.919,77.882,-341.225"></path>
+        <path d="M75.93,-157.67C113.894,-236.504,113.894,-236.504,151.859,-315.339"></path>
+        <path d="M75.93,-157.67C113.894,-236.504,163.666,-205.231,218.221,-273.641"></path>
+        <path d="M170.612,-38.941C255.919,-58.412,236.504,-113.894,315.339,-151.859"></path>
+        <path d="M170.612,-38.941C255.919,-58.412,255.919,-58.412,341.225,-77.882"></path>
+        <path d="M170.612,-38.941C255.919,-58.412,262.5,0,350,0"></path>
+        <path d="M136.821,109.111C205.231,163.666,236.504,113.894,315.339,151.859"></path>
+        <path d="M136.821,109.111C205.231,163.666,205.231,163.666,273.641,218.221"></path>
+        <path d="M136.821,109.111C205.231,163.666,163.666,205.231,218.221,273.641"></path>
+        <path d="M0,175C0,262.5,58.412,255.919,77.882,341.225"></path>
+        <path d="M0,175C0,262.5,0,262.5,0,350"></path>
+        <path d="M0,175C0,262.5,-58.412,255.919,-77.882,341.225"></path>
+        <path d="M-136.821,109.111C-205.231,163.666,-163.666,205.231,-218.221,273.641"></path>
+        <path d="M-136.821,109.111C-205.231,163.666,-205.231,163.666,-273.641,218.221"></path>
+        <path d="M-136.821,109.111C-205.231,163.666,-236.504,113.894,-315.339,151.859"></path>
+        <path d="M-136.821,-109.111C-205.231,-163.666,-262.5,0,-350,0"></path>
+        <path d="M-136.821,-109.111C-205.231,-163.666,-255.919,-58.412,-341.225,-77.882"></path>
+        <path d="M-136.821,-109.111C-205.231,-163.666,-236.504,-113.894,-315.339,-151.859"></path>
+        <path d="M-136.821,-109.111C-205.231,-163.666,-205.231,-163.666,-273.641,-218.221"></path>
+        <path d="M-136.821,-109.111C-205.231,-163.666,-163.666,-205.231,-218.221,-273.641"></path>
+        <path d="M-136.821,-109.111C-205.231,-163.666,-113.894,-236.504,-151.859,-315.339"></path>
+        <path d="M-136.821,-109.111C-205.231,-163.666,-58.412,-255.919,-77.882,-341.225"></path>
+    </g>
+    <g>
+        <circle transform="rotate(77.14285714285714) translate(0,0)" fill="white" r="6"></circle>
+        <circle transform="rotate(-64.28571428571428) translate(175,0)" fill="white" r="6"></circle>
+        <circle transform="rotate(-12.857142857142847) translate(175,0)" fill="white" r="6"></circle>
+        <circle transform="rotate(38.571428571428555) translate(175,0)" fill="white" r="6"></circle>
+        <circle transform="rotate(90) translate(175,0)" fill="white" r="6"></circle>
+        <circle transform="rotate(141.42857142857142) translate(175,0)" fill="white" r="6"></circle>
+        <circle transform="rotate(218.5714285714286) translate(175,0)" fill="white" r="6"></circle>
+        <circle transform="rotate(-77.14285714285714) translate(350,0)" fill="white" r="6"></circle>
+        <circle transform="rotate(-64.28571428571428) translate(350,0)" fill="white" r="6"></circle>
+        <circle transform="rotate(-51.42857142857142) translate(350,0)" fill="white" r="6"></circle>
+        <circle transform="rotate(-25.714285714285722) translate(350,0)" fill="white" r="6"></circle>
+        <circle transform="rotate(-12.857142857142847) translate(350,0)" fill="white" r="6"></circle>
+        <circle transform="rotate(0) translate(350,0)" fill="white" r="6"></circle>
+        <circle transform="rotate(25.714285714285708) translate(350,0)" fill="white" r="6"></circle>
+        <circle transform="rotate(38.571428571428555) translate(350,0)" fill="white" r="6"></circle>
+        <circle transform="rotate(51.428571428571416) translate(350,0)" fill="white" r="6"></circle>
+        <circle transform="rotate(77.14285714285714) translate(350,0)" fill="white" r="6"></circle>
+        <circle transform="rotate(90) translate(350,0)" fill="white" r="6"></circle>
+        <circle transform="rotate(102.85714285714286) translate(350,0)" fill="white" r="6"></circle>
+        <circle transform="rotate(128.57142857142856) translate(350,0)" fill="white" r="6"></circle>
+        <circle transform="rotate(141.42857142857142) translate(350,0)" fill="white" r="6"></circle>
+        <circle transform="rotate(154.28571428571428) translate(350,0)" fill="white" r="6"></circle>
+        <circle transform="rotate(180) translate(350,0)" fill="white" r="6"></circle>
+        <circle transform="rotate(192.85714285714283) translate(350,0)" fill="white" r="6"></circle>
+        <circle transform="rotate(205.71428571428572) translate(350,0)" fill="white" r="6"></circle>
+        <circle transform="rotate(218.5714285714286) translate(350,0)" fill="white" r="6"></circle>
+        <circle transform="rotate(231.42857142857144) translate(350,0)" fill="white" r="6"></circle>
+        <circle transform="rotate(244.28571428571428) translate(350,0)" fill="white" r="6"></circle>
+        <circle transform="rotate(257.14285714285717) translate(350,0)" fill="white" r="6"></circle>
+    </g>
+    <g stroke-linejoin="round" stroke-width="12">
+        <text transform="rotate(77.14285714285714) translate(0,0) rotate(0)" dy="0.31em" x="-6"
+            text-anchor="end" paint-order="stroke" stroke="black" fill=""></text>
+        <text transform="rotate(-64.28571428571428) translate(175,0) rotate(0)" dy="0.31em" x="-6"
+            text-anchor="end" paint-order="stroke" stroke="black" fill="#EFBF04" style="font: 40px">1.LABOR</text>
+        <text transform="rotate(-12.857142857142847) translate(175,0) rotate(0)" dy="0.31em" x="-6"
+            text-anchor="end" paint-order="stroke" stroke="black" fill="#2891e7">2.SOMA</text>
+        <text transform="rotate(38.571428571428555) translate(175,0) rotate(0)" dy="0.31em" x="-6"
+            text-anchor="end" paint-order="stroke" stroke="black" fill="#49e82b">3.EKOS</text>
+        <text transform="rotate(90) translate(175,0) rotate(180)" dy="0.31em" x="6"
+            text-anchor="start" paint-order="stroke" stroke="black" fill="#ff3333">4.VIA</text>
+        <text transform="rotate(141.42857142857142) translate(175,0) rotate(180)" dy="0.31em" x="6"
+            text-anchor="start" paint-order="stroke" stroke="black" fill="#d9670f">5.MOTOR</text>
+        <text transform="rotate(218.5714285714286) translate(175,0) rotate(180)" dy="0.31em" x="6"
+            text-anchor="start" paint-order="stroke" stroke="black" fill="#c286bf">6.ANIMA</text>
+        <text transform="rotate(-77.14285714285714) translate(350,0) rotate(0)" dy="0.31em" x="6"
+            text-anchor="start" paint-order="stroke" stroke="black" fill="#FFCC00">Tasks</text>
+        <text transform="rotate(-64.28571428571428) translate(350,0) rotate(0)" dy="0.31em" x="6"
+            text-anchor="start" paint-order="stroke" stroke="black" fill="#FFCC00">Tools</text>
+        <text transform="rotate(-51.42857142857142) translate(350,0) rotate(0)" dy="0.31em" x="6"
+            text-anchor="start" paint-order="stroke" stroke="black" fill="#FFCC00">Performance</text>
+        <text transform="rotate(-25.714285714285722) translate(350,0) rotate(0)" dy="0.31em" x="6"
+            text-anchor="start" paint-order="stroke" stroke="black" fill="#569cd6">Anatomy</text>
+        <text transform="rotate(-12.857142857142847) translate(350,0) rotate(0)" dy="0.31em" x="6"
+            text-anchor="start" paint-order="stroke" stroke="black" fill="#569cd6">Physiology</text>
+        <text transform="rotate(0) translate(350,0) rotate(0)" dy="0.31em" x="6" text-anchor="start"
+            paint-order="stroke" stroke="black" fill="#569cd6">Nutrition</text>
+        <text transform="rotate(25.714285714285708) translate(350,0) rotate(0)" dy="0.31em" x="6"
+            text-anchor="start" paint-order="stroke" stroke="black" fill="#6a9955">Materials</text>
+        <text transform="rotate(38.571428571428555) translate(350,0) rotate(0)" dy="0.31em" x="6"
+            text-anchor="start" paint-order="stroke" stroke="black" fill="#6a9955">Environment</text>
+        <text transform="rotate(51.428571428571416) translate(350,0) rotate(0)" dy="0.31em" x="6"
+            text-anchor="start" paint-order="stroke" stroke="black" fill="#6a9955">Surface</text>
+        <text transform="rotate(77.14285714285714) translate(350,0) rotate(0)" dy="0.31em" x="6"
+            text-anchor="start" paint-order="stroke" stroke="black" fill="#ff3131">Geometry</text>
+        <text transform="rotate(90) translate(350,0) rotate(180)" dy="0.31em" x="-6"
+            text-anchor="end" paint-order="stroke" stroke="black" fill="#ff3131">Logic</text>
+        <text transform="rotate(102.85714285714286) translate(350,0) rotate(180)" dy="0.31em" x="-6"
+            text-anchor="end" paint-order="stroke" stroke="black" fill="#ff3131">Probability</text>
+        <text transform="rotate(128.57142857142856) translate(350,0) rotate(180)" dy="0.31em" x="-6"
+            text-anchor="end" paint-order="stroke" stroke="black" fill="#da680f">Dynamics</text>
+        <text transform="rotate(141.42857142857142) translate(350,0) rotate(180)" dy="0.31em" x="-6"
+            text-anchor="end" paint-order="stroke" stroke="black" fill="#da680f">Kinematics</text>
+        <text transform="rotate(154.28571428571428) translate(350,0) rotate(180)" dy="0.31em" x="-6"
+            text-anchor="end" paint-order="stroke" stroke="black" fill="#da680f">Time</text>
+        <text transform="rotate(180) translate(350,0) rotate(180)" dy="0.31em" x="-6"
+            text-anchor="end" paint-order="stroke" stroke="black" fill="#c586c0">Attention</text>
+        <text transform="rotate(192.85714285714283) translate(350,0) rotate(180)" dy="0.31em" x="-6"
+            text-anchor="end" paint-order="stroke" stroke="black" fill="#c586c0">Cognitions</text>
+        <text transform="rotate(205.71428571428572) translate(350,0) rotate(180)" dy="0.31em" x="-6"
+            text-anchor="end" paint-order="stroke" stroke="black" fill="#c586c0">Emotions</text>
+        <text transform="rotate(218.5714285714286) translate(350,0) rotate(180)" dy="0.31em" x="-6"
+            text-anchor="end" paint-order="stroke" stroke="black" fill="#c586c0">Learning</text>
+        <text transform="rotate(231.42857142857144) translate(350,0) rotate(180)" dy="0.31em" x="-6"
+            text-anchor="end" paint-order="stroke" stroke="black" fill="#c586c0">Memory</text>
+        <text transform="rotate(244.28571428571428) translate(350,0) rotate(180)" dy="0.31em" x="-6"
+            text-anchor="end" paint-order="stroke" stroke="black" fill="#c586c0">MindState</text>
+        <text transform="rotate(257.14285714285717) translate(350,0) rotate(180)" dy="0.31em" x="-6"
+            text-anchor="end" paint-order="stroke" stroke="black" fill="#c586c0">Senses</text>
+    </g>
+</svg>

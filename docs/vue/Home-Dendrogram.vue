@@ -3,7 +3,7 @@
         <v-img class="rounded-xl"
                max-height="600"
                max-width="600"
-               src="/Faktors-Skema.png"></v-img>
+               src="/Faktors-Rete.png"></v-img>
     </div>
 </template>
 

@@ -13,7 +13,7 @@
         <v-img class="d-flex w-66"
                aspect-ratio="1/1"
                cover
-               src="/PlantaBeta_Logo.png"></v-img>
+               src="/Betaglot_Logo.png"></v-img>
         <v-date-picker show-adjacent-months></v-date-picker>
     </v-container>
     <v-color-picker></v-color-picker>
@@ -5089,12 +5089,12 @@ const items = [
 
 .via {
     font-weight: 900;
-    color: #f44747;
+    color: #ff3131;
 }
 
 .motor {
     font-weight: 900;
-    color: #bf6a34;
+    color: #da680f;
 
 }
 

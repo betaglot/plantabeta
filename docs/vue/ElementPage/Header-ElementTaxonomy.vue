@@ -1,4 +1,5 @@
 <template>
+<div class="taxonomyContainer"> 
  <v-sheet v-if="elementTaxonomy[0]"
              elevation="24"
              class="px-2 rounded-lg mt-2 d-flex">
@@ -8,6 +9,7 @@
         <div :class="elementColor">{{ elementIcon }}{{ item }}</div>
       </v-sheet>
     </v-sheet>
+</div>
 </template>
 
 <script setup>
@@ -52,6 +54,21 @@ function faktorName_to_emblem(faktorName) {
 
 </script>
 
-<style>
+<style scoped>
+.taxonomyContainer {
+    width:auto ;
+    overflow-x: scroll; /* Enables horizontal scrolling when content overflows */
+    white-space: nowrap;
+
+
+}
+
+.taxonomyContainer::-webkit-scrollbar {
+    display: none;
+}
+
+
+
+
 
 </style>

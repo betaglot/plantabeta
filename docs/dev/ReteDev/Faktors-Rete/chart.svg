@@ -1,0 +1,208 @@
+<svg width="800" height="800" viewBox="-240,-320,800,800"
+    style="width: 100%; height: auto; font: 10px sans-serif;" xmlns="http://www.w3.org/2000/svg"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <g fill="none" stroke="blue" stroke-opacity="0.4" stroke-width="20">
+        <path d="M0,0C-6.904,61.279,49.421,-36.883,98.841,-73.767"></path>
+        <path d="M0,0C-6.904,61.279,52.734,31.968,105.468,63.935"></path>
+        <path d="M0,0C-6.904,61.279,15.642,59.65,31.284,119.3"></path>
+        <path d="M0,0C-6.904,61.279,-30.261,53.731,-60.522,107.463"></path>
+        <path d="M0,0C-6.904,61.279,-59.118,17.546,-118.236,35.092"></path>
+        <path d="M0,0C-6.904,61.279,-39.974,-46.956,-79.948,-93.912"></path>
+        <path d="M98.841,-73.767C148.262,-110.65,58.295,-175.575,77.727,-234.1"></path>
+        <path d="M98.841,-73.767C148.262,-110.65,151.732,-105.842,202.309,-141.122"></path>
+        <path d="M98.841,-73.767C148.262,-110.65,184.905,-5.93,246.54,-7.906"></path>
+        <path d="M105.468,63.935C158.201,95.903,173.617,63.893,231.489,85.19"></path>
+        <path d="M105.468,63.935C158.201,95.903,158.201,95.903,210.935,127.87"></path>
+        <path d="M105.468,63.935C158.201,95.903,136.951,124.376,182.602,165.834"></path>
+        <path d="M31.284,119.3C46.926,178.95,80.268,166.679,107.025,222.239"></path>
+        <path d="M31.284,119.3C46.926,178.95,46.926,178.95,62.568,238.599"></path>
+        <path d="M31.284,119.3C46.926,178.95,11.853,184.62,15.804,246.16"></path>
+        <path d="M-60.522,107.463C-90.783,161.194,-58.295,175.575,-77.727,234.1"></path>
+        <path d="M-60.522,107.463C-90.783,161.194,-90.783,161.194,-121.044,214.925"></path>
+        <path d="M-60.522,107.463C-90.783,161.194,-119.922,140.868,-159.896,187.823"></path>
+        <path d="M-118.236,35.092C-177.354,52.638,-164.021,85.57,-218.694,114.093"></path>
+        <path d="M-118.236,35.092C-177.354,52.638,-177.354,52.638,-236.471,70.183"></path>
+        <path d="M-118.236,35.092C-177.354,52.638,-184.145,17.764,-245.527,23.686"></path>
+        <path d="M-79.948,-93.912C-119.922,-140.868,-177.354,-52.638,-236.471,-70.183"></path>
+        <path d="M-79.948,-93.912C-119.922,-140.868,-164.021,-85.57,-218.694,-114.093"></path>
+        <path d="M-79.948,-93.912C-119.922,-140.868,-144.639,-115.346,-192.852,-153.794"></path>
+        <path d="M-79.948,-93.912C-119.922,-140.868,-119.922,-140.868,-159.896,-187.823"></path>
+        <path d="M-79.948,-93.912C-119.922,-140.868,-90.783,-161.194,-121.044,-214.925"></path>
+        <path d="M-79.948,-93.912C-119.922,-140.868,-58.295,-175.575,-77.727,-234.1"></path>
+        <path d="M-79.948,-93.912C-119.922,-140.868,-23.657,-183.481,-31.543,-244.642"></path>
+        <path d="M77.727,-234.1C97.158,-292.626,39.429,-305.802,47.315,-366.962"></path>
+        <path d="M77.727,-234.1C97.158,-292.626,78.21,-298.249,93.852,-357.899"></path>
+        <path d="M77.727,-234.1C97.158,-292.626,115.707,-285.799,138.849,-342.959"></path>
+        <path d="M77.727,-234.1C97.158,-292.626,151.305,-268.657,181.565,-322.388"></path>
+        <path d="M202.309,-141.122C252.886,-176.403,214.502,-221.491,257.403,-265.789"></path>
+        <path d="M202.309,-141.122C252.886,-176.403,241.065,-192.243,289.278,-230.691"></path>
+        <path d="M202.309,-141.122C252.886,-176.403,263.669,-159.838,316.403,-191.805"></path>
+        <path d="M202.309,-141.122C252.886,-176.403,281.944,-124.808,338.333,-149.77"></path>
+        <path d="M246.54,-7.906C308.175,-9.883,304.381,-49.21,365.257,-59.052"></path>
+        <path d="M246.54,-7.906C308.175,-9.883,308.175,-9.883,369.81,-11.859"></path>
+        <path d="M246.54,-7.906C308.175,-9.883,306.909,29.607,368.29,35.529"></path>
+    </g>
+    <g>
+        <circle transform="rotate(96.42857142857147) translate(0,0)" fill="white" r="7"></circle>
+        <circle transform="rotate(-36.73469387755101) translate(123.33333333333333,0)" fill="white"
+            r="7"></circle>
+        <circle transform="rotate(31.224489795918373) translate(123.33333333333333,0)" fill="white"
+            r="7"></circle>
+        <circle transform="rotate(75.30612244897961) translate(123.33333333333333,0)" fill="white"
+            r="7"></circle>
+        <circle transform="rotate(119.38775510204084) translate(123.33333333333333,0)" fill="white"
+            r="7"></circle>
+        <circle transform="rotate(163.46938775510205) translate(123.33333333333333,0)" fill="white"
+            r="7"></circle>
+        <circle transform="rotate(229.59183673469386) translate(123.33333333333333,0)" fill="white"
+            r="7"></circle>
+        <circle transform="rotate(-71.63265306122447) translate(246.66666666666666,0)" fill="white"
+            r="7"></circle>
+        <circle transform="rotate(-34.897959183673464) translate(246.66666666666666,0)" fill="white"
+            r="7"></circle>
+        <circle transform="rotate(-1.8367346938775313) translate(246.66666666666666,0)" fill="white"
+            r="7"></circle>
+        <circle transform="rotate(20.20408163265307) translate(246.66666666666666,0)" fill="white"
+            r="7"></circle>
+        <circle transform="rotate(31.224489795918373) translate(246.66666666666666,0)" fill="white"
+            r="7"></circle>
+        <circle transform="rotate(42.244897959183675) translate(246.66666666666666,0)" fill="white"
+            r="7"></circle>
+        <circle transform="rotate(64.2857142857143) translate(246.66666666666666,0)" fill="white"
+            r="7"></circle>
+        <circle transform="rotate(75.30612244897961) translate(246.66666666666666,0)" fill="white"
+            r="7"></circle>
+        <circle transform="rotate(86.32653061224494) translate(246.66666666666666,0)" fill="white"
+            r="7"></circle>
+        <circle transform="rotate(108.36734693877554) translate(246.66666666666666,0)" fill="white"
+            r="7"></circle>
+        <circle transform="rotate(119.38775510204084) translate(246.66666666666666,0)" fill="white"
+            r="7"></circle>
+        <circle transform="rotate(130.40816326530614) translate(246.66666666666666,0)" fill="white"
+            r="7"></circle>
+        <circle transform="rotate(152.44897959183675) translate(246.66666666666666,0)" fill="white"
+            r="7"></circle>
+        <circle transform="rotate(163.46938775510205) translate(246.66666666666666,0)" fill="white"
+            r="7"></circle>
+        <circle transform="rotate(174.48979591836735) translate(246.66666666666666,0)" fill="white"
+            r="7"></circle>
+        <circle transform="rotate(196.530612244898) translate(246.66666666666666,0)" fill="white"
+            r="7"></circle>
+        <circle transform="rotate(207.5510204081633) translate(246.66666666666666,0)" fill="white"
+            r="7"></circle>
+        <circle transform="rotate(218.5714285714286) translate(246.66666666666666,0)" fill="white"
+            r="7"></circle>
+        <circle transform="rotate(229.59183673469386) translate(246.66666666666666,0)" fill="white"
+            r="7"></circle>
+        <circle transform="rotate(240.61224489795921) translate(246.66666666666666,0)" fill="white"
+            r="7"></circle>
+        <circle transform="rotate(251.63265306122452) translate(246.66666666666666,0)" fill="white"
+            r="7"></circle>
+        <circle transform="rotate(262.6530612244899) translate(246.66666666666666,0)" fill="white"
+            r="7"></circle>
+        <circle transform="rotate(-82.65306122448979) translate(370,0)" fill="white" r="7"></circle>
+        <circle transform="rotate(-75.30612244897958) translate(370,0)" fill="white" r="7"></circle>
+        <circle transform="rotate(-67.95918367346937) translate(370,0)" fill="white" r="7"></circle>
+        <circle transform="rotate(-60.612244897959165) translate(370,0)" fill="white" r="7"></circle>
+        <circle transform="rotate(-45.918367346938766) translate(370,0)" fill="white" r="7"></circle>
+        <circle transform="rotate(-38.57142857142857) translate(370,0)" fill="white" r="7"></circle>
+        <circle transform="rotate(-31.22448979591836) translate(370,0)" fill="white" r="7"></circle>
+        <circle transform="rotate(-23.877551020408163) translate(370,0)" fill="white" r="7"></circle>
+        <circle transform="rotate(-9.183673469387742) translate(370,0)" fill="white" r="7"></circle>
+        <circle transform="rotate(-1.8367346938775313) translate(370,0)" fill="white" r="7"></circle>
+        <circle transform="rotate(5.510204081632679) translate(370,0)" fill="white" r="7"></circle>
+    </g>
+    <g stroke-linejoin="round" stroke-width="3">
+        <text transform="rotate(96.42857142857147) translate(0,0) rotate(180)" dy="0.31em" x="6"
+            text-anchor="start" paint-order="stroke" fill="currentColor">KlimBeta</text>
+        <text transform="rotate(-36.73469387755101) translate(123.33333333333333,0) rotate(0)"
+            dy="0.31em" x="-6" text-anchor="end" paint-order="stroke" stroke="#FFCC00"
+            fill="currentColor" >1.LABOR</text>
+        <text transform="rotate(31.224489795918373) translate(123.33333333333333,0) rotate(0)"
+            dy="0.31em" x="-6" text-anchor="end" paint-order="stroke" fill="currentColor">2.SOMA</text>
+        <text transform="rotate(75.30612244897961) translate(123.33333333333333,0) rotate(0)"
+            dy="0.31em" x="-6" text-anchor="end" paint-order="stroke" fill="currentColor">3.EKOS</text>
+        <text transform="rotate(119.38775510204084) translate(123.33333333333333,0) rotate(180)"
+            dy="0.31em" x="6" text-anchor="start" paint-order="stroke" fill="currentColor">4.VIA</text>
+        <text transform="rotate(163.46938775510205) translate(123.33333333333333,0) rotate(180)"
+            dy="0.31em" x="6" text-anchor="start" paint-order="stroke" fill="currentColor">5.MOTOR</text>
+        <text transform="rotate(229.59183673469386) translate(123.33333333333333,0) rotate(180)"
+            dy="0.31em" x="6" text-anchor="start" paint-order="stroke" fill="currentColor">6.ANIMA</text>
+        <text transform="rotate(-71.63265306122447) translate(246.66666666666666,0) rotate(0)"
+            dy="0.31em" x="-6" text-anchor="end" paint-order="stroke" stroke="#FFCC00"
+            fill="currentColor">Tasks</text>
+        <text transform="rotate(-34.897959183673464) translate(246.66666666666666,0) rotate(0)"
+            dy="0.31em" x="-6" text-anchor="end" paint-order="stroke" stroke="#FFCC00"
+            fill="currentColor">Tools</text>
+        <text transform="rotate(-1.8367346938775313) translate(246.66666666666666,0) rotate(0)"
+            dy="0.31em" x="-6" text-anchor="end" paint-order="stroke" stroke="#FFCC00"
+            fill="currentColor">Performance</text>
+        <text transform="rotate(20.20408163265307) translate(246.66666666666666,0) rotate(0)"
+            dy="0.31em" x="6" text-anchor="start" paint-order="stroke" fill="currentColor">Anatomy</text>
+        <text transform="rotate(31.224489795918373) translate(246.66666666666666,0) rotate(0)"
+            dy="0.31em" x="6" text-anchor="start" paint-order="stroke" fill="currentColor">
+            Physiology</text>
+        <text transform="rotate(42.244897959183675) translate(246.66666666666666,0) rotate(0)"
+            dy="0.31em" x="6" text-anchor="start" paint-order="stroke" fill="currentColor">Nutrition</text>
+        <text transform="rotate(64.2857142857143) translate(246.66666666666666,0) rotate(0)"
+            dy="0.31em" x="6" text-anchor="start" paint-order="stroke" fill="currentColor">Materials</text>
+        <text transform="rotate(75.30612244897961) translate(246.66666666666666,0) rotate(0)"
+            dy="0.31em" x="6" text-anchor="start" paint-order="stroke" fill="currentColor">
+            Environment</text>
+        <text transform="rotate(86.32653061224494) translate(246.66666666666666,0) rotate(0)"
+            dy="0.31em" x="6" text-anchor="start" paint-order="stroke" fill="currentColor">Surface</text>
+        <text transform="rotate(108.36734693877554) translate(246.66666666666666,0) rotate(180)"
+            dy="0.31em" x="-6" text-anchor="end" paint-order="stroke" fill="currentColor">Geometry</text>
+        <text transform="rotate(119.38775510204084) translate(246.66666666666666,0) rotate(180)"
+            dy="0.31em" x="-6" text-anchor="end" paint-order="stroke" fill="currentColor">Logic</text>
+        <text transform="rotate(130.40816326530614) translate(246.66666666666666,0) rotate(180)"
+            dy="0.31em" x="-6" text-anchor="end" paint-order="stroke" fill="currentColor">
+            Probability</text>
+        <text transform="rotate(152.44897959183675) translate(246.66666666666666,0) rotate(180)"
+            dy="0.31em" x="-6" text-anchor="end" paint-order="stroke" fill="currentColor">Dynamics</text>
+        <text transform="rotate(163.46938775510205) translate(246.66666666666666,0) rotate(180)"
+            dy="0.31em" x="-6" text-anchor="end" paint-order="stroke" fill="currentColor">Kinematics</text>
+        <text transform="rotate(174.48979591836735) translate(246.66666666666666,0) rotate(180)"
+            dy="0.31em" x="-6" text-anchor="end" paint-order="stroke" fill="currentColor">Time</text>
+        <text transform="rotate(196.530612244898) translate(246.66666666666666,0) rotate(180)"
+            dy="0.31em" x="-6" text-anchor="end" paint-order="stroke" fill="currentColor">Attention</text>
+        <text transform="rotate(207.5510204081633) translate(246.66666666666666,0) rotate(180)"
+            dy="0.31em" x="-6" text-anchor="end" paint-order="stroke" fill="currentColor">Cognitions</text>
+        <text transform="rotate(218.5714285714286) translate(246.66666666666666,0) rotate(180)"
+            dy="0.31em" x="-6" text-anchor="end" paint-order="stroke" fill="currentColor">Emotions</text>
+        <text transform="rotate(229.59183673469386) translate(246.66666666666666,0) rotate(180)"
+            dy="0.31em" x="-6" text-anchor="end" paint-order="stroke" fill="currentColor">Learning</text>
+        <text transform="rotate(240.61224489795921) translate(246.66666666666666,0) rotate(180)"
+            dy="0.31em" x="-6" text-anchor="end" paint-order="stroke" fill="currentColor">Memory</text>
+        <text transform="rotate(251.63265306122452) translate(246.66666666666666,0) rotate(180)"
+            dy="0.31em" x="-6" text-anchor="end" paint-order="stroke" fill="currentColor">MindState</text>
+        <text transform="rotate(262.6530612244899) translate(246.66666666666666,0) rotate(180)"
+            dy="0.31em" x="-6" text-anchor="end" paint-order="stroke" fill="currentColor">Senses</text>
+        <text transform="rotate(-82.65306122448979) translate(370,0) rotate(0)" dy="0.31em" x="6"
+            text-anchor="start" paint-order="stroke" stroke="#FFCC00" fill="currentColor">Routes</text>
+        <text transform="rotate(-75.30612244897958) translate(370,0) rotate(0)" dy="0.31em" x="6"
+            text-anchor="start" paint-order="stroke" stroke="#FFCC00" fill="currentColor">Aktions</text>
+        <text transform="rotate(-67.95918367346937) translate(370,0) rotate(0)" dy="0.31em" x="6"
+            text-anchor="start" paint-order="stroke" stroke="#FFCC00" fill="currentColor">Difficulty</text>
+        <text transform="rotate(-60.612244897959165) translate(370,0) rotate(0)" dy="0.31em" x="6"
+            text-anchor="start" paint-order="stroke" stroke="#FFCC00" fill="currentColor">
+            Competition</text>
+        <text transform="rotate(-45.918367346938766) translate(370,0) rotate(0)" dy="0.31em" x="6"
+            text-anchor="start" paint-order="stroke" stroke="#FFCC00" fill="currentColor">Fall
+            Protection</text>
+        <text transform="rotate(-38.57142857142857) translate(370,0) rotate(0)" dy="0.31em" x="6"
+            text-anchor="start" paint-order="stroke" stroke="#FFCC00" fill="currentColor">Kontakt
+            Tools</text>
+        <text transform="rotate(-31.22448979591836) translate(370,0) rotate(0)" dy="0.31em" x="6"
+            text-anchor="start" paint-order="stroke" stroke="#FFCC00" fill="currentColor">Clothing</text>
+        <text transform="rotate(-23.877551020408163) translate(370,0) rotate(0)" dy="0.31em" x="6"
+            text-anchor="start" paint-order="stroke" stroke="#FFCC00" fill="currentColor">Kit</text>
+        <text transform="rotate(-9.183673469387742) translate(370,0) rotate(0)" dy="0.31em" x="6"
+            text-anchor="start" paint-order="stroke" stroke="#FFCC00" fill="currentColor">
+            Effectiveness</text>
+        <text transform="rotate(-1.8367346938775313) translate(370,0) rotate(0)" dy="0.31em" x="6"
+            text-anchor="start" paint-order="stroke" stroke="#FFCC00" fill="currentColor">Efficiency</text>
+        <text transform="rotate(5.510204081632679) translate(370,0) rotate(0)" dy="0.31em" x="6"
+            text-anchor="start" paint-order="stroke" stroke="#FFCC00" fill="currentColor">Errors</text>
+    </g>
+</svg>

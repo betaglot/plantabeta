@@ -1,0 +1,137 @@
+{
+    "name": "",
+    "textColor": "",
+    "children": [
+        {
+            "name": "LABOR",
+            "textColor": "#EFBF04",
+            "children": [
+                {
+                    "name": "Tasks",
+                    "textColor": "#EFBF04",
+                    "children": []
+                },
+                {
+                    "name": "Tools",
+                    "textColor": "#EFBF04",
+                    "children": []
+                },
+                {
+                    "name": "Performance",
+                    "textColor": "#EFBF04",
+                    "children": []
+                }
+            ]
+        },
+        {
+            "name": "SOMA",
+            "textColor": "#2891e7",
+            "children": [
+                {
+                    "name": "Anatomy",
+                    "textColor": "#2891e7",
+                    "children": []
+                },
+                {
+                    "name": "Physiology",
+                    "textColor": "#2891e7",
+                    "children": []
+                },
+                {
+                    "name": "Nutrition",
+                    "textColor": "#2891e7",
+                    "children": []
+                }
+            ]
+        },
+        {
+            "name": "EKOS",
+            "textColor": "#49e82b",
+            "children": [
+                {
+                    "name": "Ekosfera",
+                    "textColor": "#49e82b",
+                    "children": []
+                },
+                {
+                    "name": "Klimon",
+                    "textColor": "#49e82b",
+                    "children": []
+                }
+            ]
+        },
+        {
+            "name": "VIA",
+            "textColor": "#ff3333",
+            "children": [
+                {
+                    "name": "Geometry",
+                    "textColor": "#ff3333",
+                    "children": []
+                },
+                {
+                    "name": "Logic",
+                    "textColor": "#ff3333",
+                    "children": []
+                },
+                {
+                    "name": "Probability",
+                    "textColor": "#ff3333",
+                    "children": []
+                }
+            ]
+        },
+        {
+            "name": "MOTOR",
+            "textColor": "#d9670f",
+            "children": [
+                {
+                    "name": "Dynamics",
+                    "textColor": "#d9670f",
+                    "children": []
+                },
+                {
+                    "name": "Kinematics",
+                    "textColor": "#d9670f",
+                    "children": []
+                },
+                {
+                    "name": "Time",
+                    "textColor": "#d9670f",
+                    "children": []
+                }
+            ]
+        },
+        {
+            "name": "ANIMA",
+            "textColor": "#c286bf",
+            "children": [
+                {
+                    "name": "Awareness",
+                    "textColor": "#c286bf",
+                    "children": []
+                },
+                {
+                    "name": "Cognitions",
+                    "textColor": "#c286bf",
+                    "children": []
+                },
+                {
+                    "name": "Emotions",
+                    "textColor": "#c286bf",
+                    "children": []
+                },
+                {
+                    "name": "MindState",
+                    "textColor": "#c286bf",
+                    "children": []
+                },
+                {
+                    "name": "Senses",
+                    "textColor": "#c286bf",
+                    "children": []
+                }
+            ]
+        }
+    ]
+}

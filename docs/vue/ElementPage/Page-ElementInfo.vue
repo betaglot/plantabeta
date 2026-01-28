@@ -1,7 +1,9 @@
 <template>
+
     <div class="d-flex justify-center w-100">
         <v-sheet :class="borderColor"
-                 class="pa-2 mt-4 
+                 class="mt-4 
+                        mx-xs-n20
                         border-xl 
                         rounded-xl 
                         w-100
@@ -28,15 +30,16 @@
             <v-divider :color="elementColor"
                        opacity="1"
                        gradient
-                       class="my-2"></v-divider>
+                       class="my-2">
+            </v-divider>
 
             <!-- Description -->
             <v-sheet elevation="24"
-                     class="px-8 py-2 rounded-lg mt-2">
+                     class="px-4 rounded-lg mt-2">
                 <div :class="elementColor"
                      class="text-h5">Description:</div>
-                <v-sheet class="">
-                    <div class="pl-4">{{ description }}</div>
+                <v-sheet v-for="item in description">
+                    <div>{{ elementIcon }}{{ item }}</div>
                 </v-sheet>
             </v-sheet>
 
@@ -44,14 +47,15 @@
             <v-divider :color="elementColor"
                        opacity="1"
                        gradient
-                       class="my-2"></v-divider>
+                       class="my-2">
+            </v-divider>
 
             <v-sheet elevation="24"
-                     class="px-8 py-2 rounded-lg mt-2">
+                     class="px-4 rounded-lg mt-2">
                 <div :class="elementColor"
                      class="text-h5">Also Known As:</div>
                 <v-sheet v-for="item in AlsoKnownAs">
-                    <div class="pl-4">{{ elementIcon }}{{ item }}</div>
+                    <div>{{ elementIcon }}{{ item }}</div>
                 </v-sheet>
             </v-sheet>
 
@@ -59,12 +63,11 @@
             <v-divider :color="elementColor"
                        opacity="1"
                        gradient
-                       class="my-2"></v-divider>
+                       class="my-2">
+            </v-divider>
 
             <v-sheet elevation="24"
-                     class="px-2 rounded-lg mt-2">
-
-
+                     class="rounded-lg mt-2 mb-4">
                 <v-expansion-panels>
                     <v-expansion-panel>
                         <v-expansion-panel-title>
@@ -73,20 +76,14 @@
                         </v-expansion-panel-title>
                         <v-expansion-panel-text>
                             <v-sheet v-for="item in Betanyms">
-                                <div class="pl-4">{{ elementIcon }}{{ item }}</div>
+                                <div>{{ elementIcon }}{{ item }}</div>
                             </v-sheet>
                         </v-expansion-panel-text>
                     </v-expansion-panel>
                 </v-expansion-panels>
-
             </v-sheet>
         </v-sheet>
     </div>
-
-
-
-
-
 </template>
 
 <script setup>
@@ -143,4 +140,6 @@ function faktorName_to_emblem(faktorName) {
 
 </script>
 
-<style></style>
+<style>
+
+</style>

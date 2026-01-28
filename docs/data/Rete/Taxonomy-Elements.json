@@ -1,0 +1,1017 @@
+[
+    {
+        "name": "LABOR",
+        "faktor": "",
+        "children": [
+            {
+                "name": "Task",
+                "faktor": "",
+                "children": [
+                    {
+                        "name": "Route",
+                        "faktor": "",
+                        "children": []
+                    },
+                    {
+                        "name": "Aktion",
+                        "faktor": "",
+                        "children": [
+                            {
+                                "name": "Abduction",
+                                "faktor": "",
+                                "children": []
+                            },
+                            {
+                                "name": "Absorb",
+                                "faktor": "",
+                                "children": []
+                            },
+                            {
+                                "name": "Adjust",
+                                "faktor": "",
+                                "children": []
+                            },
+                            {
+                                "name": "Allo",
+                                "faktor": "",
+                                "children": []
+                            },
+                            {
+                                "name": "Ama",
+                                "faktor": "",
+                                "children": []
+                            },
+                            {
+                                "name": "Ankor",
+                                "faktor": "",
+                                "children": []
+                            },
+                            {
+                                "name": "Catch",
+                                "faktor": "",
+                                "children": []
+                            },
+                            {
+                                "name": "Clean",
+                                "faktor": "",
+                                "children": []
+                            },
+                            {
+                                "name": "Crawl",
+                                "faktor": "",
+                                "children": []
+                            },
+                            {
+                                "name": "Drag",
+                                "faktor": "",
+                                "children": []
+                            },
+                            {
+                                "name": "Drop",
+                                "faktor": "",
+                                "children": []
+                            },
+                            {
+                                "name": "Eval",
+                                "faktor": "",
+                                "children": []
+                            },
+                            {
+                                "name": "Fall",
+                                "faktor": "",
+                                "children": []
+                            },
+                            {
+                                "name": "Flexion",
+                                "faktor": "",
+                                "children": []
+                            },
+                            {
+                                "name": "Hinge",
+                                "faktor": "",
+                                "children": []
+                            },
+                            {
+                                "name": "Hook",
+                                "faktor": "",
+                                "children": []
+                            },
+                            {
+                                "name": "Insert",
+                                "faktor": "",
+                                "children": []
+                            },
+                            {
+                                "name": "Knot",
+                                "faktor": "",
+                                "children": []
+                            },
+                            {
+                                "name": "Kontakt",
+                                "faktor": "",
+                                "children": []
+                            },
+                            {
+                                "name": "Launch",
+                                "faktor": "",
+                                "children": []
+                            },
+                            {
+                                "name": "Lift",
+                                "faktor": "",
+                                "children": []
+                            },
+                            {
+                                "name": "Lock",
+                                "faktor": "",
+                                "children": []
+                            },
+                            {
+                                "name": "Onda",
+                                "faktor": "",
+                                "children": []
+                            },
+                            {
+                                "name": "Orbit",
+                                "faktor": "",
+                                "children": []
+                            },
+                            {
+                                "name": "Pop",
+                                "faktor": "",
+                                "children": []
+                            },
+                            {
+                                "name": "Preserve",
+                                "faktor": "",
+                                "children": []
+                            },
+                            {
+                                "name": "Reach",
+                                "faktor": "",
+                                "children": []
+                            },
+                            {
+                                "name": "Rip",
+                                "faktor": "",
+                                "children": []
+                            },
+                            {
+                                "name": "Slot",
+                                "faktor": "",
+                                "children": []
+                            },
+                            {
+                                "name": "Stack",
+                                "faktor": "",
+                                "children": []
+                            },
+                            {
+                                "name": "Stall",
+                                "faktor": "",
+                                "children": []
+                            },
+                            {
+                                "name": "Tangent",
+                                "faktor": "",
+                                "children": []
+                            },
+                            {
+                                "name": "Toggle",
+                                "faktor": "",
+                                "children": []
+                            },
+                            {
+                                "name": "Transport",
+                                "faktor": "",
+                                "children": []
+                            },
+                            {
+                                "name": "Whip",
+                                "faktor": "",
+                                "children": []
+                            },
+                            {
+                                "name": "Wrap",
+                                "faktor": "",
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Difficulty",
+                        "faktor": "",
+                        "children": [
+                            {
+                                "name": "",
+                                "faktor": "",
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Competition",
+                        "faktor": "",
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "name": "Strategy",
+                "faktor": "",
+                "children": [
+                    {
+                        "name": "Tactics",
+                        "faktor": "",
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "name": "Tool",
+                "faktor": "",
+                "children": [
+                    {
+                        "name": "Fall Protection",
+                        "faktor": "",
+                        "children": [
+                            {
+                                "name": "Rope",
+                                "faktor": "",
+                                "children": []
+                            },
+                            {
+                                "name": "Karabiner",
+                                "faktor": "",
+                                "children": []
+                            },
+                            {
+                                "name": "Harness",
+                                "faktor": "",
+                                "children": []
+                            },
+                            {
+                                "name": "Helmet",
+                                "faktor": "",
+                                "children": []
+                            },
+                            {
+                                "name": "Cam",
+                                "faktor": "",
+                                "children": []
+                            },
+                            {
+                                "name": "Anchor",
+                                "faktor": "",
+                                "children": []
+                            },
+                            {
+                                "name": "Sling",
+                                "faktor": "",
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Kontakt Tool",
+                        "faktor": "",
+                        "children": [
+                            {
+                                "name": "Shoe",
+                                "faktor": "",
+                                "children": []
+                            },
+                            {
+                                "name": "Kneepad",
+                                "faktor": "",
+                                "children": []
+                            },
+                            {
+                                "name": "Glove",
+                                "faktor": "",
+                                "children": []
+                            },
+                            {
+                                "name": "Axe",
+                                "faktor": "",
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Clothing",
+                        "faktor": "",
+                        "children": []
+                    },
+                    {
+                        "name": "Kit",
+                        "faktor": "",
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "name": "Performance",
+                "faktor": "",
+                "children": [
+                    {
+                        "name": "Effectiveness",
+                        "faktor": "",
+                        "children": []
+                    },
+                    {
+                        "name": "Efficiency",
+                        "faktor": "",
+                        "children": []
+                    },
+                    {
+                        "name": "Errors",
+                        "faktor": "",
+                        "children": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "SOMA",
+        "faktor": "",
+        "children": [
+            {
+                "name": "Anatomy",
+                "faktor": "",
+                "children": [
+                    {
+                        "name": "Body",
+                        "faktor": "",
+                        "children": [
+                            {
+                                "name": "Spine",
+                                "faktor": "",
+                                "children": []
+                            },
+                            {
+                                "name": "Ribs",
+                                "faktor": "",
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Head",
+                        "faktor": "",
+                        "children": [
+                            {
+                                "name": "Cranium",
+                                "faktor": "",
+                                "children": []
+                            },
+                            {
+                                "name": "Ears",
+                                "faktor": "",
+                                "children": []
+                            },
+                            {
+                                "name": "Face",
+                                "faktor": "",
+                                "children": []
+                            },
+                            {
+                                "name": "Neck",
+                                "faktor": "",
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Arm",
+                        "faktor": "",
+                        "children": [
+                            {
+                                "name": "Scapula",
+                                "faktor": "",
+                                "children": []
+                            },
+                            {
+                                "name": "Humerus",
+                                "faktor": "",
+                                "children": []
+                            },
+                            {
+                                "name": "Forearm",
+                                "faktor": "",
+                                "children": []
+                            },
+                            {
+                                "name": "Hand",
+                                "faktor": "",
+                                "children": [
+                                    {
+                                        "name": "Thumb",
+                                        "faktor": "",
+                                        "children": []
+                                    },
+                                    {
+                                        "name": "Index Finger",
+                                        "faktor": "",
+                                        "children": []
+                                    },
+                                    {
+                                        "name": "Middle Finger",
+                                        "faktor": "",
+                                        "children": []
+                                    },
+                                    {
+                                        "name": "Ring Finger",
+                                        "faktor": "",
+                                        "children": []
+                                    },
+                                    {
+                                        "name": "Pinky Finger",
+                                        "faktor": "",
+                                        "children": []
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Leg",
+                        "faktor": "",
+                        "children": [
+                            {
+                                "name": "Hips",
+                                "faktor": "",
+                                "children": []
+                            },
+                            {
+                                "name": "Femur",
+                                "faktor": "",
+                                "children": []
+                            },
+                            {
+                                "name": "Tibia",
+                                "faktor": "",
+                                "children": []
+                            },
+                            {
+                                "name": "Foot",
+                                "faktor": "",
+                                "children": []
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Physiology",
+                "faktor": "",
+                "children": [
+                    {
+                        "name": "Endurance",
+                        "faktor": "",
+                        "children": []
+                    },
+                    {
+                        "name": "Limberness",
+                        "faktor": "",
+                        "children": []
+                    },
+                    {
+                        "name": "Strength",
+                        "faktor": "",
+                        "children": []
+                    },
+                    {
+                        "name": "Injury Prevention",
+                        "faktor": "",
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "name": "Nutrition",
+                "faktor": "",
+                "children": []
+            }
+        ]
+    },
+    {
+        "name": "EKOS",
+        "faktor": "",
+        "children": [
+            {
+                "name": "Kontakt Material",
+                "faktor": "",
+                "children": [
+                    {
+                        "name": "Natural",
+                        "faktor": "",
+                        "children": [
+                            {
+                                "name": "Lithosphere",
+                                "faktor": "",
+                                "children": []
+                            },
+                            {
+                                "name": "Hydrosphere",
+                                "faktor": "",
+                                "children": []
+                            },
+                            {
+                                "name": "Plants",
+                                "faktor": "",
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Artificial",
+                        "faktor": "",
+                        "children": [
+                            {
+                                "name": "Plast",
+                                "faktor": "",
+                                "children": []
+                            },
+                            {
+                                "name": "Volume",
+                                "faktor": "",
+                                "children": []
+                            },
+                            {
+                                "name": "Wall",
+                                "faktor": "",
+                                "children": []
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Environment",
+                "faktor": "",
+                "children": [
+                    {
+                        "name": "Atmosphere",
+                        "faktor": "",
+                        "children": [
+                            {
+                                "name": "Air Temperature",
+                                "faktor": "",
+                                "children": []
+                            },
+                            {
+                                "name": "Humidity",
+                                "faktor": "",
+                                "children": []
+                            },
+                            {
+                                "name": "Smoke",
+                                "faktor": "",
+                                "children": []
+                            },
+                            {
+                                "name": "Wind",
+                                "faktor": "",
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Architecture",
+                        "faktor": "",
+                        "children": []
+                    },
+                    {
+                        "name": "Crag",
+                        "faktor": "",
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "name": "Surface",
+                "faktor": "",
+                "children": [
+                    {
+                        "name": "Texture",
+                        "faktor": "",
+                        "children": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "VIA",
+        "faktor": "",
+        "children": [
+            {
+                "name": "Geometry",
+                "faktor": "",
+                "children": [
+                    {
+                        "name": "Density",
+                        "faktor": "",
+                        "children": []
+                    },
+                    {
+                        "name": "Direction",
+                        "faktor": "",
+                        "children": []
+                    },
+                    {
+                        "name": "Displacement",
+                        "faktor": "",
+                        "children": []
+                    },
+                    {
+                        "name": "Distance",
+                        "faktor": "",
+                        "children": []
+                    },
+                    {
+                        "name": "Div",
+                        "faktor": "",
+                        "children": []
+                    },
+                    {
+                        "name": "Line",
+                        "faktor": "",
+                        "children": []
+                    },
+                    {
+                        "name": "Morfos",
+                        "faktor": "",
+                        "children": []
+                    },
+                    {
+                        "name": "Orientation",
+                        "faktor": "",
+                        "children": []
+                    },
+                    {
+                        "name": "Point",
+                        "faktor": "",
+                        "children": []
+                    },
+                    {
+                        "name": "Shape",
+                        "faktor": "",
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "name": "Logic",
+                "faktor": "",
+                "children": [
+                    {
+                        "name": "Conditional Logic",
+                        "faktor": "",
+                        "children": []
+                    },
+                    {
+                        "name": "Propositional Logic",
+                        "faktor": "",
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "name": "Probability",
+                "faktor": "",
+                "children": [
+                    {
+                        "name": "Affordance",
+                        "faktor": "",
+                        "children": [
+                            {
+                                "name": "Site",
+                                "faktor": "",
+                                "children": []
+                            },
+                            {
+                                "name": "Path",
+                                "faktor": "",
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Constraint",
+                        "faktor": "",
+                        "children": []
+                    },
+                    {
+                        "name": "Fortuna",
+                        "faktor": "",
+                        "children": []
+                    },
+                    {
+                        "name": "Frequency",
+                        "faktor": "",
+                        "children": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "MOTOR",
+        "faktor": "",
+        "children": [
+            {
+                "name": "Dynamics",
+                "faktor": "",
+                "children": [
+                    {
+                        "name": "Force",
+                        "faktor": "",
+                        "children": [
+                            {
+                                "name": "Centripetal",
+                                "faktor": "",
+                                "children": []
+                            },
+                            {
+                                "name": "Friction",
+                                "faktor": "",
+                                "children": []
+                            },
+                            {
+                                "name": "Gravity",
+                                "faktor": "",
+                                "children": []
+                            },
+                            {
+                                "name": "Normal Force",
+                                "faktor": "",
+                                "children": []
+                            },
+                            {
+                                "name": "Pressure",
+                                "faktor": "",
+                                "children": []
+                            },
+                            {
+                                "name": "Tension",
+                                "faktor": "",
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Energy",
+                        "faktor": "",
+                        "children": []
+                    },
+                    {
+                        "name": "Inertia",
+                        "faktor": "",
+                        "children": []
+                    },
+                    {
+                        "name": "Momentum",
+                        "faktor": "",
+                        "children": []
+                    },
+                    {
+                        "name": "Power",
+                        "faktor": "",
+                        "children": []
+                    },
+                    {
+                        "name": "Work",
+                        "faktor": "",
+                        "children": []
+                    },
+                    {
+                        "name": "Torque",
+                        "faktor": "",
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "name": "Kinematics",
+                "faktor": "",
+                "children": [
+                    {
+                        "name": "Speed",
+                        "faktor": "",
+                        "children": []
+                    },
+                    {
+                        "name": "Velocity",
+                        "faktor": "",
+                        "children": []
+                    },
+                    {
+                        "name": "Acceleration",
+                        "faktor": "",
+                        "children": []
+                    },
+                    {
+                        "name": "Jerk",
+                        "faktor": "",
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "name": "Time",
+                "faktor": "",
+                "children": []
+            }
+        ]
+    },
+    {
+        "name": "ANIMA",
+        "faktor": "",
+        "children": [
+            {
+                "name": "Attention",
+                "faktor": "",
+                "children": []
+            },
+            {
+                "name": "Cognition",
+                "faktor": "",
+                "children": [
+                    {
+                        "name": "Cognitive Ease",
+                        "faktor": "",
+                        "children": [
+                            {
+                                "name": "Clarity",
+                                "faktor": "",
+                                "children": []
+                            },
+                            {
+                                "name": "Priming",
+                                "faktor": "",
+                                "children": []
+                            },
+                            {
+                                "name": "Repetition",
+                                "faktor": "",
+                                "children": []
+                            },
+                            {
+                                "name": "Goodness",
+                                "faktor": "",
+                                "children": []
+                            },
+                            {
+                                "name": "Familiarity",
+                                "faktor": "",
+                                "children": []
+                            },
+                            {
+                                "name": "Effortlessness",
+                                "faktor": "",
+                                "children": []
+                            },
+                            {
+                                "name": "Truth",
+                                "faktor": "",
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Decision",
+                        "faktor": "",
+                        "children": []
+                    },
+                    {
+                        "name": "Estimation",
+                        "faktor": "",
+                        "children": []
+                    },
+                    {
+                        "name": "Identification",
+                        "faktor": "",
+                        "children": []
+                    },
+                    {
+                        "name": "Judgement",
+                        "faktor": "",
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "name": "Emotion",
+                "faktor": "",
+                "children": [
+                    {
+                        "name": "Anger",
+                        "faktor": "",
+                        "children": []
+                    },
+                    {
+                        "name": "Disgust",
+                        "faktor": "",
+                        "children": []
+                    },
+                    {
+                        "name": "Fear",
+                        "faktor": "",
+                        "children": []
+                    },
+                    {
+                        "name": "Joy",
+                        "faktor": "",
+                        "children": []
+                    },
+                    {
+                        "name": "Sadness",
+                        "faktor": "",
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "name": "Memory",
+                "faktor": "",
+                "children": [
+                    {
+                        "name": "Long Term Memory",
+                        "faktor": "",
+                        "children": []
+                    },
+                    {
+                        "name": "Short Term Memory",
+                        "faktor": "",
+                        "children": []
+                    },
+                    {
+                        "name": "Working Memory",
+                        "faktor": "",
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "name": "Mind State",
+                "faktor": "",
+                "children": [
+                    {
+                        "name": "Arousal",
+                        "faktor": "",
+                        "children": []
+                    },
+                    {
+                        "name": "Confidence",
+                        "faktor": "",
+                        "children": []
+                    },
+                    {
+                        "name": "Mindfulness",
+                        "faktor": "",
+                        "children": []
+                    },
+                    {
+                        "name": "Flow State",
+                        "faktor": "",
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "name": "Senses",
+                "faktor": "",
+                "children": [
+                    {
+                        "name": "Audio",
+                        "faktor": "",
+                        "children": []
+                    },
+                    {
+                        "name": "Touch",
+                        "faktor": "",
+                        "children": []
+                    },
+                    {
+                        "name": "Compression",
+                        "faktor": "",
+                        "children": []
+                    },
+                    {
+                        "name": "Proprioception",
+                        "faktor": "",
+                        "children": []
+                    },
+                    {
+                        "name": "Sight",
+                        "faktor": "",
+                        "children": []
+                    }
+                ]
+            }
+        ]
+    }
+]

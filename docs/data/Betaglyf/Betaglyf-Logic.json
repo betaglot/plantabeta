@@ -1,0 +1,1495 @@
+{
+    "ListAllLabons": [
+        "Abort",
+        "Amble",
+        "Absorb",
+        "Aktion",
+        "Allo",
+        "Ama",
+        "Anchor",
+        "Ateles",
+        "Autobelay",
+        "Belayer",
+        "Bolted",
+        "Bonobo",
+        "Bump",
+        "Cam",
+        "Carabiner",
+        "Catch",
+        "Chalk",
+        "Chalkbag",
+        "Clothing",
+        "Competition",
+        "Crashpad",
+        "Crawl",
+        "Difficulty",
+        "Drag",
+        "Drop",
+        "Effectiveness",
+        "Efficiency",
+        "Errors",
+        "Eval",
+        "Fall",
+        "FallProtection",
+        "Foka",
+        "Gekko",
+        "Gibbon",
+        "GriGri",
+        "Harness",
+        "Helmet",
+        "Hinge",
+        "Iguana",
+        "Initial",
+        "Kangaroo",
+        "Kit",
+        "Knot",
+        "Koala",
+        "Kontakt",
+        "KontaktTool",
+        "Kryos",
+        "Lache",
+        "Lemur",
+        "Lift",
+        "Mantis",
+        "Matting",
+        "Modify",
+        "Onda",
+        "Orbit",
+        "Pendulate",
+        "Performance",
+        "Pinza",
+        "Pongo",
+        "Pont",
+        "Pop",
+        "Preserve",
+        "Progress",
+        "Pugnus",
+        "Pull",
+        "Purga",
+        "Push",
+        "Quickdraw",
+        "Regress",
+        "Roll",
+        "Rope",
+        "Route",
+        "Sauros",
+        "Shoe",
+        "Sling",
+        "Slot",
+        "Stack",
+        "Stall",
+        "Strategy",
+        "Swap",
+        "Tactic",
+        "Tangent",
+        "Task",
+        "Tasks",
+        "Toggle",
+        "Tool",
+        "Tools",
+        "Top",
+        "TopRope",
+        "Transport",
+        "TRex",
+        "Ungulate",
+        "Ursus",
+        "Whip",
+        "Wrap"
+    ],
+    "DictSubLabons": {
+        "Abort": [
+            "SubAbort1",
+            "SubAbort2"
+        ],
+        "Absorb": [
+            "Ama",
+            "AnteriorSoleKontakt",
+            "Ateles",
+            "Bonobo",
+            "FingerHook",
+            "Iguana",
+            "LateralSole",
+            "MedialSoleKontakt",
+            "Onda",
+            "Redirect",
+            "Roll",
+            "ToesSoleKontakt",
+            "Pendulate"
+        ],
+        "Aktion": [
+            "Abort"
+        ],
+        "Allo": [
+            "SubAllo1",
+            "SubAllo2"
+        ],
+        "Amble": [
+            "AnteriorSoleKontakt",
+            "MedialSoleKontakt"
+        ],
+        "Ama": [
+            "Gekko",
+            "Kryos",
+            "LateralSoleKontakt",
+            "MedialRandKontakt",
+            "Ursus"
+        ],
+        "Anchor": [
+            "SubAnchor1",
+            "SubAnchor2"
+        ],
+        "Ateles": [
+            "Krimp",
+            "SubAteles2"
+        ],
+        "Autobelay": [
+            "SubAutobelay1",
+            "SubAutobelay2"
+        ],
+        "Belayer": [
+            "SubBelayer1",
+            "SubBelayer2"
+        ],
+        "Bolted": [
+            "SubBolted1",
+            "SubBolted2"
+        ],
+        "Bonobo": [
+            "SubBonobo1",
+            "SubBonobo2"
+        ],
+        "Bump": [
+            "Ateles",
+            "Match"
+        ],
+        "Cam": [
+            "SubCam1",
+            "SubCam2"
+        ],
+        "Karabiner": [
+            "Clip",
+            "Gate",
+            "Slide",
+            "Transport",
+            "Unclip"
+        ],
+        "Catch": [
+            "Absorb",
+            "SubCatch2"
+        ],
+        "Chalk": [
+            "SubChalk1",
+            "SubChalk2"
+        ],
+        "Chalkbag": [
+            "Blow",
+            "On",
+            "TicMark"
+        ],
+        "Clothing": [
+            "Knot",
+            "On",
+            "Off",
+            "Open",
+            "Close",
+            "Tuck"
+        ],
+        "Competition": [
+            "SubCompetition1",
+            "SubCompetition2"
+        ],
+        "Crashpad": [
+            "Modify",
+            "Transport"
+        ],
+        "Crawl": [
+            "SubCrawl1",
+            "SubCrawl2"
+        ],
+        "Difficulty": [
+            "SubDifficulty1",
+            "SubDifficulty2"
+        ],
+        "Drag": [
+            "SubDrag1",
+            "SubDrag2"
+        ],
+        "Drop": [
+            "SubDrop1",
+            "SubDrop2"
+        ],
+        "Dyno": [
+            "Absorb",
+            "Redirect"
+        ],
+        "Effectiveness": [
+            "SubEffectiveness1",
+            "SubEffectiveness2"
+        ],
+        "Efficiency": [
+            "SubEfficiency1",
+            "SubEfficiency2"
+        ],
+        "Error": [
+            "SubErrors1",
+            "SubErrors2"
+        ],
+        "Eval": [
+            "SubEval1",
+            "SubEval2"
+        ],
+        "Fall": [
+            "Ama",
+            "SubFall2"
+        ],
+        "FallProtection": [
+            "SubFallProtection1",
+            "SubFallProtection2"
+        ],
+        "Foka": [
+            "SubFoka1",
+            "SubFoka2"
+        ],
+        "Gekko": [
+            "Charging",
+            "SubGekko2"
+        ],
+        "Gibbon": [
+            "Ateles"
+        ],
+        "GriGri": [
+            "Bonobo",
+            "Load",
+            "Unload",
+            "Clip",
+            "Unclip"
+        ],
+        "Harness": [
+            "Modify",
+            "Transport",
+            "Off",
+            "On"
+        ],
+        "Helmet": [
+            "Modify",
+            "Transport",
+            "Off",
+            "On",
+            "Tighten",
+            "Loosen",
+            "Clip"
+        ],
+        "Hook": [
+            "Kryos",
+            "SubHinge2"
+        ],
+        "Hinge": [
+            "SubHinge1",
+            "SubHinge2"
+        ],
+        "Iguana": [
+            "AnteriorSoleKontakt",
+            "LateralSoleKontakt",
+            "MedialSoleKontakt",
+            "Pivot",
+            "Roll"
+        ],
+        "Initial": [
+            "SubInitial1",
+            "SubInitial2"
+        ],
+        "Kangaroo": [
+            "SubKangaroo1",
+            "SubKangaroo2"
+        ],
+        "Kompress": [
+            "Pongo",
+            "Toggle",
+            "Wrap"
+        ],
+        "Kit": [
+            "Load",
+            "Unload",
+            "Kompress",
+            "Open",
+            "Klose",
+            "Modify",
+            "Transport"
+        ],
+        "Knot": [
+            "Figure8Knot",
+            "CowHitch",
+            "GirthHitch",
+            "OverhandKnot",
+            "Hitch",
+            "StopperKnow",
+            "DoubleFisherman",
+            "SheetBend",
+            "CloveHitch",
+            "GrannyKnot",
+            "AlpineButterfly",
+            "SquareKnot",
+            "PrussikKnot",
+            "Figure8FollowThrough",
+            "BowlineKnot"
+        ],
+        "Koala": [
+            "SubKoala1",
+            "SubKoala2"
+        ],
+        "Kontakt": [
+            "AnteriorSoleKontakt",
+            "MedialSoleKontakt",
+            "LateralSoleKontakt"
+        ],
+        "KontaktTool": [
+            "SubKontaktTool1",
+            "SubKontaktTool2"
+        ],
+        "Kryos": [
+            "AnteriorSoleKontakt",
+            "Ateles",
+            "Pongo",
+            "Trex"
+        ],
+        "Lache": [
+            "Absorb"
+        ],
+        "Lemur": [
+            "Charging"
+        ],
+        "Lift": [
+            "AnteriorSoleKontakt",
+            "MedialSoleKontakt",
+            "LateralSoleKontakt","SoleKontakt"
+        ],
+        "Mantis": [
+            "SubMantis1",
+            "SubMantis2"
+        ],
+        "Matting": [
+            "SubMatting1",
+            "SubMatting2"
+        ],
+        "Modify": [
+            "SubModify1",
+            "SubModify2"
+        ],
+        "Onda": [
+            "SubOnda1",
+            "SubOnda2"
+        ],
+        "Orbit": [
+            "SubOrbit1",
+            "SubOrbit2"
+        ],
+        "Pendulate": [
+            "SubPendulate1",
+            "SubPendulate2"
+        ],
+        "Performance": [
+            "SubPerformance1",
+            "SubPerformance2"
+        ],
+        "Pinza": [
+            "SubPinza1",
+            "SubPinza2"
+        ],
+        "Pongo": [
+            "SubPongo1",
+            "SubPongo2"
+        ],
+        "Pont": [
+            "SubPont1",
+            "SubPont2"
+        ],
+        "Pop": [
+            "SubPop1",
+            "SubPop2"
+        ],
+        "Preserve": [
+            "SubPreserve1",
+            "SubPreserve2"
+        ],
+        "Progress": [
+            "Onda",
+            "Pendulate",
+            "Lemur"
+        ],
+        "Pugnus": [
+            "SubPugnus1",
+            "SubPugnus2"
+        ],
+        "Pull": [
+            "SubPull1",
+            "SubPull2"
+        ],
+        "Purga": [
+            "SubPurga1",
+            "SubPurga2"
+        ],
+        "Push": [
+            "SubPush1",
+            "SubPush2"
+        ],
+        "Quickdraw": [
+            "SubQuickdraw1",
+            "SubQuickdraw2"
+        ],
+        "Regress": [
+            "SubRegress1",
+            "SubRegress2"
+        ],
+        "Roll": [
+            "SubRoll1",
+            "SubRoll2"
+        ],
+        "Rope": [
+            "SubRope1",
+            "SubRope2"
+        ],
+        "Route": [
+            "SubRoute1",
+            "SubRoute2"
+        ],
+        "Sauros": [
+            "SubSauros1",
+            "SubSauros2"
+        ],
+        "Shoe": [
+            "SubShoe1",
+            "SubShoe2"
+        ],
+        "Sling": [
+            "SubSling1",
+            "SubSling2"
+        ],
+        "Slot": [
+            "SubSlot1",
+            "SubSlot2"
+        ],
+        "Stack": [
+            "SubStack1",
+            "SubStack2"
+        ],
+        "Stall": [
+            "SubStall1",
+            "SubStall2"
+        ],
+        "Strategy": [
+            "SubStrategy1",
+            "SubStrategy2"
+        ],
+        "Swap": [
+            "SubSwap1",
+            "SubSwap2"
+        ],
+        "Tactic": [
+            "SubTactic1",
+            "SubTactic2"
+        ],
+        "Tangent": [
+            "SubTangent1",
+            "SubTangent2"
+        ],
+        "Task": [
+            "SubTask1",
+            "SubTask2"
+        ],
+        "Tasks": [
+            "SubTasks1",
+            "SubTasks2"
+        ],
+        "Toggle": [
+            "SubToggle1",
+            "SubToggle2"
+        ],
+        "Tool": [
+            "SubTool1",
+            "SubTool2"
+        ],
+        "Tools": [
+            "SubTools1",
+            "SubTools2"
+        ],
+        "Top": [
+            "SubTop1",
+            "SubTop2"
+        ],
+        "TopRope": [
+            "SubTopRope1",
+            "SubTopRope2"
+        ],
+        "Transport": [
+            "SubTransport1",
+            "SubTransport2"
+        ],
+        "TRex": [
+            "SubTRex1",
+            "SubTRex2"
+        ],
+        "Ungulate": [
+            "SubUngulate1",
+            "SubUngulate2"
+        ],
+        "Ursus": [
+            "SubUrsus1",
+            "SubUrsus2"
+        ],
+        "Whip": [
+            "SubWhip1",
+            "SubWhip2"
+        ],
+        "Wrap": [
+            "SubWrap1",
+            "SubWrap2"
+        ]
+    },
+    "ListAllSomons": [
+        "Arm",
+        "Body",
+        "Leg"
+    ],
+    "DictSubSomons": {
+        "Arm": [
+            "Forearm",
+            "Hand",
+            "Humerus",
+            "Scapula"
+        ],
+        "Body": [
+            "Ribs",
+            "Spine",
+            "Hips"
+        ],
+        "Leg": [
+            "Femur",
+            "Foot",
+            "Tibia"
+        ]
+    },
+    "ListAllEkons": [
+        "Air",
+        "AirTemperature",
+        "Animals",
+        "Antroposfera",
+        "Atmosfera",
+        "Basalt",
+        "Biosfera",
+        "Bird",
+        "Bush",
+        "Edifice",
+        "Ekosfera",
+        "Fungi",
+        "Granite",
+        "Grass",
+        "Gym",
+        "Humidity",
+        "Hydrosfera",
+        "Ice",
+        "Insect",
+        "Klimon",
+        "Lichen",
+        "Limestone",
+        "Litosfera",
+        "Mixture",
+        "Moss",
+        "Panel",
+        "Plants",
+        "Plast",
+        "Prokline",
+        "Rain",
+        "Rekline",
+        "Rock",
+        "Sandstone",
+        "Sediment",
+        "Smoke",
+        "Snow",
+        "Texture",
+        "TexturedPaint",
+        "TNut",
+        "Tree",
+        "Vertikal",
+        "Volume",
+        "Water",
+        "Wind"
+    ],
+    "DictSubEkons": {
+        "Air": [
+            "AirTemperature"
+        ],
+        "AirTemperature": [
+            "SubLabon1",
+            "SubLabon2"
+        ],
+        "Animals": [
+            "SubLabon1",
+            "SubLabon2"
+        ],
+        "Antroposfera": [
+            "SubLabon1",
+            "SubLabon2"
+        ],
+        "Atmosfera": [
+            "SubLabon1",
+            "SubLabon2"
+        ],
+        "Basalt": [
+            "SubLabon1",
+            "SubLabon2"
+        ],
+        "Biosfera": [
+            "SubLabon1",
+            "SubLabon2"
+        ],
+        "Bird": [
+            "SubLabon1",
+            "SubLabon2"
+        ],
+        "Bush": [
+            "SubLabon1",
+            "SubLabon2"
+        ],
+        "Edifice": [
+            "SubLabon1",
+            "SubLabon2"
+        ],
+        "Ekosfera": [
+            "SubLabon1",
+            "SubLabon2"
+        ],
+        "Fungi": [
+            "SubLabon1",
+            "SubLabon2"
+        ],
+        "Granite": [
+            "SubLabon1",
+            "SubLabon2"
+        ],
+        "Grass": [
+            "SubLabon1",
+            "SubLabon2"
+        ],
+        "Gym": [
+            "SubLabon1",
+            "SubLabon2"
+        ],
+        "Humidity": [
+            "SubLabon1",
+            "SubLabon2"
+        ],
+        "Hydrosfera": [
+            "SubLabon1",
+            "SubLabon2"
+        ],
+        "Ice": [
+            "SubLabon1",
+            "SubLabon2"
+        ],
+        "Insect": [
+            "SubLabon1",
+            "SubLabon2"
+        ],
+        "Klimon": [
+            "SubLabon1",
+            "SubLabon2"
+        ],
+        "Lichen": [
+            "SubLabon1",
+            "SubLabon2"
+        ],
+        "Limestone": [
+            "SubLabon1",
+            "SubLabon2"
+        ],
+        "Litosfera": [
+            "SubLabon1",
+            "SubLabon2"
+        ],
+        "Mixture": [
+            "SubLabon1",
+            "SubLabon2"
+        ],
+        "Moss": [
+            "SubLabon1",
+            "SubLabon2"
+        ],
+        "Panel": [
+            "SubLabon1",
+            "SubLabon2"
+        ],
+        "Plants": [
+            "SubLabon1",
+            "SubLabon2"
+        ],
+        "Plast": [
+            "SubLabon1",
+            "SubLabon2"
+        ],
+        "Prokline": [
+            "SubLabon1",
+            "SubLabon2"
+        ],
+        "Rain": [
+            "SubLabon1",
+            "SubLabon2"
+        ],
+        "Rekline": [
+            "SubLabon1",
+            "SubLabon2"
+        ],
+        "Rock": [
+            "SubLabon1",
+            "SubLabon2"
+        ],
+        "Sandstone": [
+            "SubLabon1",
+            "SubLabon2"
+        ],
+        "Sediment": [
+            "SubLabon1",
+            "SubLabon2"
+        ],
+        "Smoke": [
+            "SubLabon1",
+            "SubLabon2"
+        ],
+        "Snow": [
+            "SubLabon1",
+            "SubLabon2"
+        ],
+        "Texture": [
+            "SubLabon1",
+            "SubLabon2"
+        ],
+        "TexturedPaint": [
+            "SubLabon1",
+            "SubLabon2"
+        ],
+        "TNut": [
+            "SubLabon1",
+            "SubLabon2"
+        ],
+        "Tree": [
+            "SubLabon1",
+            "SubLabon2"
+        ],
+        "Vertikal": [
+            "SubLabon1",
+            "SubLabon2"
+        ],
+        "Volume": [
+            "SubLabon1",
+            "SubLabon2"
+        ],
+        "Water": [
+            "SubLabon1",
+            "SubLabon2"
+        ],
+        "Wind": [
+            "SubLabon1",
+            "SubLabon2"
+        ]
+    },
+    "ListAllVions": [
+        "Abduction",
+        "Adduction",
+        "Affordance",
+        "Angle",
+        "BoustroPassage",
+        "CardinalDirection",
+        "CenterPoint",
+        "CircuitPassage",
+        "CircumventPassage",
+        "Concave",
+        "ConditionalLogic",
+        "Consequence",
+        "Constraint",
+        "Contingency",
+        "Convex",
+        "DegreesOfFreedom",
+        "Density",
+        "Dilation",
+        "Direction",
+        "Displacement",
+        "Distance",
+        "Div",
+        "Extension",
+        "Flexion",
+        "Fortuna",
+        "Frequency",
+        "Geometry",
+        "Hyper",
+        "Hypo",
+        "Landing",
+        "Line",
+        "Logic",
+        "MidPoint",
+        "Morfos",
+        "Orientation",
+        "Passage",
+        "PerimeterLine",
+        "PerimeterPassage",
+        "Point",
+        "Position",
+        "Probability",
+        "PropositionalLogic",
+        "ReferencePoint",
+        "Reflection",
+        "ReflectionPoint",
+        "RelativeDirection",
+        "Rotation",
+        "Shape",
+        "Site",
+        "SpiralLine",
+        "StraightLine",
+        "TargetPoint",
+        "Transformation",
+        "Translation",
+        "VertexPoint",
+        "ZigzagLine",
+        "Up",
+        "Down",
+        "Over",
+        "Under"
+    ],
+    "DictSubVions": {
+        "Abduction": [
+            "SubVion1",
+            "SubVion2"
+        ],
+        "Adduction": [
+            "SubVion1",
+            "SubVion2"
+        ],
+        "Affordance": [
+            "SubVion1",
+            "SubVion2"
+        ],
+        "Angle": [
+            "SubVion1",
+            "SubVion2"
+        ],
+        "BoustroPassage": [
+            "SubVion1",
+            "SubVion2"
+        ],
+        "CardinalDirection": [
+            "SubVion1",
+            "SubVion2"
+        ],
+        "CenterPoint": [
+            "SubVion1",
+            "SubVion2"
+        ],
+        "CircuitPassage": [
+            "SubVion1",
+            "SubVion2"
+        ],
+        "CircumventPassage": [
+            "SubVion1",
+            "SubVion2"
+        ],
+        "Concave": [
+            "SubVion1",
+            "SubVion2"
+        ],
+        "ConditionalLogic": [
+            "SubVion1",
+            "SubVion2"
+        ],
+        "Consequence": [
+            "SubVion1",
+            "SubVion2"
+        ],
+        "Constraint": [
+            "SubVion1",
+            "SubVion2"
+        ],
+        "Contingency": [
+            "SubVion1",
+            "SubVion2"
+        ],
+        "Convex": [
+            "SubVion1",
+            "SubVion2"
+        ],
+        "DegreesOfFreedom": [
+            "SubVion1",
+            "SubVion2"
+        ],
+        "Density": [
+            "SubVion1",
+            "SubVion2"
+        ],
+        "Dilation": [
+            "SubVion1",
+            "SubVion2"
+        ],
+        "Direction": [
+            "Up",
+            "Down",
+            "Circumduction",
+            "In",
+            "Out",
+            "Over",
+            "Under"
+        ],
+        "Displacement": [
+            "SubVion1",
+            "SubVion2"
+        ],
+        "Distance": [
+            "SubVion1",
+            "SubVion2"
+        ],
+        "Div": [
+            "SubVion1",
+            "SubVion2"
+        ],
+        "Extension": [
+            "SubVion1",
+            "SubVion2"
+        ],
+        "Flexion": [
+            "SubVion1",
+            "SubVion2"
+        ],
+        "Fortuna": [
+            "SubVion1",
+            "SubVion2"
+        ],
+        "Frequency": [
+            "SubVion1",
+            "SubVion2"
+        ],
+        "Geometry": [
+            "SubVion1",
+            "SubVion2"
+        ],
+        "Hyper": [
+            "SubVion1",
+            "SubVion2"
+        ],
+        "Hypo": [
+            "SubVion1",
+            "SubVion2"
+        ],
+        "Landing": [
+            "SubVion1",
+            "SubVion2"
+        ],
+        "Line": [
+            "SubVion1",
+            "SubVion2"
+        ],
+        "Logic": [
+            "SubVion1",
+            "SubVion2"
+        ],
+        "MidPoint": [
+            "SubVion1",
+            "SubVion2"
+        ],
+        "Morfos": [
+            "SubVion1",
+            "SubVion2"
+        ],
+        "Orientation": [
+            "SubVion1",
+            "SubVion2"
+        ],
+        "Passage": [
+            "SubVion1",
+            "SubVion2"
+        ],
+        "PerimeterLine": [
+            "SubVion1",
+            "SubVion2"
+        ],
+        "PerimeterPassage": [
+            "SubVion1",
+            "SubVion2"
+        ],
+        "Point": [
+            "SubVion1",
+            "SubVion2"
+        ],
+        "Position": [
+            "SubVion1",
+            "SubVion2"
+        ],
+        "Probability": [
+            "SubVion1",
+            "SubVion2"
+        ],
+        "PropositionalLogic": [
+            "SubVion1",
+            "SubVion2"
+        ],
+        "ReferencePoint": [
+            "SubVion1",
+            "SubVion2"
+        ],
+        "Reflection": [
+            "SubVion1",
+            "SubVion2"
+        ],
+        "ReflectionPoint": [
+            "SubVion1",
+            "SubVion2"
+        ],
+        "RelativeDirection": [
+            "SubVion1",
+            "SubVion2"
+        ],
+        "Rotation": [
+            "SubVion1",
+            "SubVion2"
+        ],
+        "Shape": [
+            "SubVion1",
+            "SubVion2"
+        ],
+        "Site": [
+            "SubVion1",
+            "SubVion2"
+        ],
+        "SpiralLine": [
+            "SubVion1",
+            "SubVion2"
+        ],
+        "StraightLine": [
+            "SubVion1",
+            "SubVion2"
+        ],
+        "TargetPoint": [
+            "SubVion1",
+            "SubVion2"
+        ],
+        "Transformation": [
+            "SubVion1",
+            "SubVion2"
+        ],
+        "Translation": [
+            "SubVion1",
+            "SubVion2"
+        ],
+        "VertexPoint": [
+            "SubVion1",
+            "SubVion2"
+        ],
+        "ZigzagLine": [
+            "SubVion1",
+            "SubVion2"
+        ]
+    },
+    "ListAllMotons": [
+        "Acceleration",
+        "CentripetalForce",
+        "Dynamics",
+        "ElasticEnergy",
+        "Energy",
+        "Error",
+        "Forces",
+        "Frase",
+        "Friction",
+        "Gravity",
+        "Inertia",
+        "Jerk",
+        "Kinematics",
+        "KineticEnergy",
+        "Momentum",
+        "NormalForce",
+        "PotentialEnergy",
+        "Power",
+        "Pressure",
+        "ProjectileMotion",
+        "Ritmo",
+        "Speed",
+        "Syncopation",
+        "Telos",
+        "Tempo",
+        "Tension",
+        "Time",
+        "Torque",
+        "Velocity",
+        "Work"
+    ],
+    "DictSubMotons": {
+        "Acceleration": [
+            "SubEkon1",
+            "SubEkon2"
+        ],
+        "CentripetalForce": [
+            "SubEkon1",
+            "SubEkon2"
+        ],
+        "Dynamics": [
+            "SubEkon1",
+            "SubEkon2"
+        ],
+        "ElasticEnergy": [
+            "SubEkon1",
+            "SubEkon2"
+        ],
+        "Energy": [
+            "SubEkon1",
+            "SubEkon2"
+        ],
+        "Error": [
+            "SubEkon1",
+            "SubEkon2"
+        ],
+        "Forces": [
+            "SubEkon1",
+            "SubEkon2"
+        ],
+        "Frase": [
+            "SubEkon1",
+            "SubEkon2"
+        ],
+        "Friction": [
+            "SubEkon1",
+            "SubEkon2"
+        ],
+        "Gravity": [
+            "SubEkon1",
+            "SubEkon2"
+        ],
+        "Inertia": [
+            "SubEkon1",
+            "SubEkon2"
+        ],
+        "Jerk": [
+            "SubEkon1",
+            "SubEkon2"
+        ],
+        "Kinematics": [
+            "SubEkon1",
+            "SubEkon2"
+        ],
+        "KineticEnergy": [
+            "SubEkon1",
+            "SubEkon2"
+        ],
+        "Momentum": [
+            "SubEkon1",
+            "SubEkon2"
+        ],
+        "NormalForce": [
+            "SubEkon1",
+            "SubEkon2"
+        ],
+        "PotentialEnergy": [
+            "SubEkon1",
+            "SubEkon2"
+        ],
+        "Power": [
+            "SubEkon1",
+            "SubEkon2"
+        ],
+        "Pressure": [
+            "SubEkon1",
+            "SubEkon2"
+        ],
+        "ProjectileMotion": [
+            "SubEkon1",
+            "SubEkon2"
+        ],
+        "Ritmo": [
+            "SubEkon1",
+            "SubEkon2"
+        ],
+        "Speed": [
+            "SubEkon1",
+            "SubEkon2"
+        ],
+        "Syncopation": [
+            "SubEkon1",
+            "SubEkon2"
+        ],
+        "Telos": [
+            "SubEkon1",
+            "SubEkon2"
+        ],
+        "Tempo": [
+            "SubEkon1",
+            "SubEkon2"
+        ],
+        "Tension": [
+            "SubEkon1",
+            "SubEkon2"
+        ],
+        "Time": [
+            "SubEkon1",
+            "SubEkon2"
+        ],
+        "Torque": [
+            "SubEkon1",
+            "SubEkon2"
+        ],
+        "Velocity": [
+            "SubEkon1",
+            "SubEkon2"
+        ],
+        "Work": [
+            "SubEkon1",
+            "SubEkon2"
+        ]
+    },
+    "ListAllAnimons": [
+        "Anger",
+        "Arousal",
+        "Attention",
+        "AuditorySense",
+        "Awareness",
+        "ClarityEase",
+        "Cognitions",
+        "CognitiveEase",
+        "Commitment",
+        "Compassion",
+        "Confidence",
+        "Control",
+        "Decision",
+        "Disgust",
+        "Effort",
+        "Emotions",
+        "Estimation",
+        "Event",
+        "Fear",
+        "FeelsEffortless",
+        "FeelsFamiliar",
+        "FeelsGood",
+        "FeelsTrue",
+        "FlowState",
+        "GoodEase",
+        "Identification",
+        "Joy",
+        "Judgement",
+        "Learning",
+        "LongTermMemory",
+        "Memory",
+        "Mindfulness",
+        "Mindset",
+        "MindState",
+        "Music",
+        "Perception",
+        "Playlists",
+        "PressureSense",
+        "PrimingEase",
+        "Proprioception",
+        "RepetitionEase",
+        "Resilience",
+        "Sadness",
+        "Senses",
+        "ShortTermMemory",
+        "SpaceEstimation",
+        "TimeEstimation",
+        "TouchSense",
+        "ViaMemory",
+        "WorkingMemory"
+    ],
+    "DictSubAnimons": {
+        "Anger": [
+            "SubAnimon1",
+            "SubAnimon2"
+        ],
+        "Arousal": [
+            "SubAnimon1",
+            "SubAnimon2"
+        ],
+        "Attention": [
+            "SubAnimon1",
+            "SubAnimon2"
+        ],
+        "AuditorySense": [
+            "SubAnimon1",
+            "SubAnimon2"
+        ],
+        "Awareness": [
+            "SubAnimon1",
+            "SubAnimon2"
+        ],
+        "ClarityEase": [
+            "SubAnimon1",
+            "SubAnimon2"
+        ],
+        "Cognitions": [
+            "SubAnimon1",
+            "SubAnimon2"
+        ],
+        "CognitiveEase": [
+            "SubAnimon1",
+            "SubAnimon2"
+        ],
+        "Commitment": [
+            "SubAnimon1",
+            "SubAnimon2"
+        ],
+        "Compassion": [
+            "SubAnimon1",
+            "SubAnimon2"
+        ],
+        "Confidence": [
+            "SubAnimon1",
+            "SubAnimon2"
+        ],
+        "Control": [
+            "SubAnimon1",
+            "SubAnimon2"
+        ],
+        "Decision": [
+            "SubAnimon1",
+            "SubAnimon2"
+        ],
+        "Disgust": [
+            "SubAnimon1",
+            "SubAnimon2"
+        ],
+        "Effort": [
+            "SubAnimon1",
+            "SubAnimon2"
+        ],
+        "Emotions": [
+            "SubAnimon1",
+            "SubAnimon2"
+        ],
+        "Estimation": [
+            "SubAnimon1",
+            "SubAnimon2"
+        ],
+        "Event": [
+            "SubAnimon1",
+            "SubAnimon2"
+        ],
+        "Fear": [
+            "SubAnimon1",
+            "SubAnimon2"
+        ],
+        "FeelsEffortless": [
+            "SubAnimon1",
+            "SubAnimon2"
+        ],
+        "FeelsFamiliar": [
+            "SubAnimon1",
+            "SubAnimon2"
+        ],
+        "FeelsGood": [
+            "SubAnimon1",
+            "SubAnimon2"
+        ],
+        "FeelsTrue": [
+            "SubAnimon1",
+            "SubAnimon2"
+        ],
+        "FlowState": [
+            "SubAnimon1",
+            "SubAnimon2"
+        ],
+        "GoodEase": [
+            "SubAnimon1",
+            "SubAnimon2"
+        ],
+        "Identification": [
+            "SubAnimon1",
+            "SubAnimon2"
+        ],
+        "Joy": [
+            "SubAnimon1",
+            "SubAnimon2"
+        ],
+        "Judgement": [
+            "SubAnimon1",
+            "SubAnimon2"
+        ],
+        "Learning": [
+            "SubAnimon1",
+            "SubAnimon2"
+        ],
+        "LongTermMemory": [
+            "SubAnimon1",
+            "SubAnimon2"
+        ],
+        "Memory": [
+            "SubAnimon1",
+            "SubAnimon2"
+        ],
+        "Mindfulness": [
+            "SubAnimon1",
+            "SubAnimon2"
+        ],
+        "Mindset": [
+            "SubAnimon1",
+            "SubAnimon2"
+        ],
+        "MindState": [
+            "SubAnimon1",
+            "SubAnimon2"
+        ],
+        "Music": [
+            "SubAnimon1",
+            "SubAnimon2"
+        ],
+        "Perception": [
+            "SubAnimon1",
+            "SubAnimon2"
+        ],
+        "Playlists": [
+            "SubAnimon1",
+            "SubAnimon2"
+        ],
+        "PressureSense": [
+            "SubAnimon1",
+            "SubAnimon2"
+        ],
+        "PrimingEase": [
+            "SubAnimon1",
+            "SubAnimon2"
+        ],
+        "Proprioception": [
+            "SubAnimon1",
+            "SubAnimon2"
+        ],
+        "RepetitionEase": [
+            "SubAnimon1",
+            "SubAnimon2"
+        ],
+        "Resilience": [
+            "SubAnimon1",
+            "SubAnimon2"
+        ],
+        "Sadness": [
+            "SubAnimon1",
+            "SubAnimon2"
+        ],
+        "Senses": [
+            "SubAnimon1",
+            "SubAnimon2"
+        ],
+        "ShortTermMemory": [
+            "SubAnimon1",
+            "SubAnimon2"
+        ],
+        "SpaceEstimation": [
+            "SubAnimon1",
+            "SubAnimon2"
+        ],
+        "TimeEstimation": [
+            "SubAnimon1",
+            "SubAnimon2"
+        ],
+        "TouchSense": [
+            "SubAnimon1",
+            "SubAnimon2"
+        ],
+        "ViaMemory": [
+            "SubAnimon1",
+            "SubAnimon2"
+        ],
+        "WorkingMemory": [
+            "SubAnimon1",
+            "SubAnimon2"
+        ]
+    }
+}

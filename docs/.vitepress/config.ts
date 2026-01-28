@@ -52,12 +52,11 @@ export default defineConfig({
     // Sidebar
     sidebar: {
       '/about/': sidebarAbout(),
+      '/dev/': sidebarDev(),
       '/guide/': sidebarGuide(),
       '/examples/': sidebarExamples(),
-      '/tutorial/': sidebarTutorial(),
       '/reference/Elements/': sidebarElements(),
       '/reference/Betoms/': sidebarBetoms(),
-      '/dev/': sidebarDev(),
     }
   }
 })
@@ -74,11 +73,6 @@ function nav() {
       text: 'Examples',
       link: '/examples/ExampleOverview',
       activeMatch: '/examples/'
-    },
-    {
-      text: 'Tutorial',
-      link: 'tutorial/TutorialOverview',
-      activeMatch: '/tutorial/'
     },
     {
       text: 'ELEMENTs',

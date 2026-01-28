@@ -1,0 +1,6 @@
+---
+search: false
+---
+# 🔷🔷 BetaIntensity
+
+## Quote
