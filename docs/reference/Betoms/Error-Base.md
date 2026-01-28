@@ -1,6 +1,10 @@
 ---
 aside: false
 ---
+<script setup>
+BetomName=""
+</script>
+
 # 🔷Base-❌<error>Error</error>
 
 ## FootMOTONError

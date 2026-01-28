@@ -1,6 +1,10 @@
 ---
 aside: false
 ---
+<script setup>
+BetomName=""
+</script>
+
 # 🔷Base,🟠Kontakt
 
 > Kontakt is a Verb

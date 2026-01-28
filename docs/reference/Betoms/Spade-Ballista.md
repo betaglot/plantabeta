@@ -1,6 +1,10 @@
 ---
 aside: false
 ---
+<script setup>
+BetomName=""
+</script>
+
 # [SpadeBallista]
 
 - The FinishMOTON of SpadeBallista is SpadePost

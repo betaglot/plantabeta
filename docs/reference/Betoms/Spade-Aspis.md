@@ -1,6 +1,10 @@
 ---
 aside: false
 ---
+<script setup>
+BetomName=""
+</script>
+
 # [Spade,Aspis]
 
 > Block flora using the SpadeCollar

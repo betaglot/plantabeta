@@ -1,6 +1,10 @@
 ---
 aside: false
 ---
+<script setup>
+BetomName=""
+</script>
+
 # 🔷Korpo,🟠Lean
 
 ## 🟠 BodyLean Problem

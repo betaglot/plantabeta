@@ -1,6 +1,10 @@
 ---
 aside: false
 ---
+<script setup>
+BetomName=""
+</script>
+
 # [Flora,Aspis]
 
 > Protecting yourself from Plant as it collides into you or as it drags along you as you push through it

@@ -1,6 +1,10 @@
 ---
 aside: false
 ---
+<script setup>
+BetomName=""
+</script>
+
 # [Log,Launch]
 
 > Launch a Log away from microsite with your leg

@@ -1,16 +1,11 @@
 ---
 aside: false
 ---
-# 🔷Brazo-Amble
+<script setup>
+BetomName=""
+</script>
 
-Aliases: ArmWalk
-
-> Using your Arms like as if you were a quadruped
-
-## Related 🟩EKOS
-
-- SteepSlope
-    - Walk Up Slope with log in your ArmPit (ShoulderHook)
+# 🟠 InclineWalk
 
 ---
 
@@ -21,7 +16,14 @@ Aliases: ArmWalk
 <!-- =================================================== -->
 ::: details &
 
--
+- InclineTraverseWalk
+    - LeanIntoIncline
+        - BrazoAma
+        - SpadeAmble
+        - BranchMano to minimize DownSlopeForces on Foot to prevent FootSlip
+    - Spade on UpSlope side
+    - Turn to Facing Slope when falling
+- InclineUpWalk
+- InclineDownWalk
 
-- "MOTON.ArmMOTON.ArmWalk"
 :::

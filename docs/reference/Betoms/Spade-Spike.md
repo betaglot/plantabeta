@@ -1,6 +1,10 @@
 ---
 aside: false
 ---
+<script setup>
+BetomName=""
+</script>
+
 # [Spade-Spike]
 
 Aliases: SpadeSlam, SpadeThrow, SpadeChop

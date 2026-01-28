@@ -1,6 +1,10 @@
 ---
 aside: false
 ---
+<script setup>
+BetomName=""
+</script>
+
 # [Instrument,Repair]
 
 Temporary Repair until you can have your Instruments repaired by a professional.

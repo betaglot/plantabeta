@@ -1,6 +1,10 @@
 ---
 aside: false
 ---
+<script setup>
+BetomName=""
+</script>
+
 # [Plast,Dimano]
 
 > Gripping the Spade Plast with both hands

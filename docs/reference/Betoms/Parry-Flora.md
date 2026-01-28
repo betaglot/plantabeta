@@ -1,6 +1,10 @@
 ---
 aside: false
 ---
+<script setup>
+BetomName=""
+</script>
+
 # [Flora,Deflection]
 
 > Use a FloraParry to redirect flora which is colliding with you.  

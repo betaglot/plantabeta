@@ -1,6 +1,10 @@
 ---
 aside: false
 ---
+<script setup>
+BetomName=""
+</script>
+
 # [Flora,Slot]
 
 > Passing through a cluster of Flora

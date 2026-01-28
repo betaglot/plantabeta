@@ -1,6 +1,10 @@
 ---
 aside: false
 ---
+<script setup>
+BetomName=""
+</script>
+
 # Minimum-Proximity
 
 Aliases: Minimums, Minimum Spacing

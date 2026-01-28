@@ -1,6 +1,10 @@
 ---
 aside: false
 ---
+<script setup>
+BetomName=""
+</script>
+
 # [Spade-Post]
 
 - Post spade when setting up or returning to cache for easier grabbing with full bags. No bend and easier Find(Spade)

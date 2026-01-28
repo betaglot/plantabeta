@@ -1,6 +1,10 @@
 ---
 aside: false
 ---
+<script setup>
+BetomName=""
+</script>
+
 # 🟠 🔷Mano-MOTON
 
 ## Mano.Anatomy

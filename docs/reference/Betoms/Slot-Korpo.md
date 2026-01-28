@@ -1,6 +1,10 @@
 ---
 aside: false
 ---
+<script setup>
+BetomName=""
+</script>
+
 # Body-Slot
 
 ![MOTONIkon](/Emblem/Motor-Emblem.png)

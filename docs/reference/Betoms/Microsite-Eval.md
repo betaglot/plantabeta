@@ -1,6 +1,10 @@
 ---
 aside: false
 ---
+<script setup>
+BetomName=""
+</script>
+
 # [Microsite,Eval]
 
 Aliases: Test, Probe, Validate, Verify, Examine

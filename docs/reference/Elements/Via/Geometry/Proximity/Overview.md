@@ -1,11 +1,4 @@
----
-aside: false
----
-<script setup>
-BetomName=""
-</script>
-
-# Layer,Preserve
+# Proximity
 
 ---
 
@@ -16,9 +9,11 @@ BetomName=""
 <!-- =================================================== -->
 ::: details &
 
-- HatPreservation
-- RainShellPreservation
-- FastenerPreservation
-    - Grit erodes Zippers
+- RelativeDistance
+- Far, Close
+- Near, Far
+- Nearby
+- Further
+- Farther
 
 :::

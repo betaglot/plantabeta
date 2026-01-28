@@ -1,6 +1,10 @@
 ---
 aside: false
 ---
+<script setup>
+BetomName=""
+</script>
+
 # [Spade,Transport]
 
 > Carrying a Spade when you're not using it to plant

@@ -1,6 +1,10 @@
 ---
 aside: false
 ---
+<script setup>
+BetomName=""
+</script>
+
 # [Layer.Shell,MOTON]
 
 ## ❌<error>ShellLayerMOTON.Error</error>

@@ -1,6 +1,10 @@
 ---
 aside: false
 ---
+<script setup>
+BetomName=""
+</script>
+
 # [Flora,Catch]
 
 > Grab vegetation before colliding with it

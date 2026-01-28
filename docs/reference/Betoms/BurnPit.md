@@ -1,6 +1,10 @@
 ---
 aside: false
 ---
+<script setup>
+BetomName=""
+</script>
+
 # [BurnPit]
 
 - The area of EKOS which is the remants of a burnt BurnPile.

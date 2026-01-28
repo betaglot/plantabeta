@@ -1,7 +1,11 @@
 ---
 aside: false
 ---
-# 🔷Korpo,🟠AmbleBranta
+<script setup>
+BetomName=""
+</script>
+
+# 🔷Base,🟠Ama
 
 ---
 
@@ -12,7 +16,10 @@ aside: false
 <!-- =================================================== -->
 ::: details &
 
-- DuckWalk
-- 2 BaseExRotation
+- <https://en.wikipedia.org/wiki/Polynesian_multihull_terminology>
+
+- BaseAnteriorAma
+- BasePosteriorAma
+- BaseLateralAma
 
 :::

@@ -1,6 +1,10 @@
 ---
 aside: false
 ---
+<script setup>
+BetomName=""
+</script>
+
 # [Spade,AlloMano]
 
 Aliases: Hand Swap, Hand Switch

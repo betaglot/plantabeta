@@ -1,6 +1,10 @@
 ---
 aside: false
 ---
+<script setup>
+BetomName=""
+</script>
+
 # [Plantafor,MOTON]
 
 Aliases: Planting Bags

@@ -1,6 +1,10 @@
 ---
 aside: false
 ---
+<script setup>
+BetomName=""
+</script>
+
 # [Box,MOTON]
 
 🔻BoxHandle is the main Contact of Box.

@@ -1,6 +1,10 @@
 ---
 aside: false
 ---
+<script setup>
+BetomName=""
+</script>
+
 # [Radior,MOTON]
 
 Aliases: Vambrace, Forearm Guard
