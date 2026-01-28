@@ -66,12 +66,12 @@ function nav() {
   return [
     {
       text: 'Guide',
-      link: '/guide/What/WhatPlantaBeta',
+      link: '/guide/WhatPlantaBeta/Overview',
       activeMatch: '/guide/'
     },
     {
       text: 'Examples',
-      link: '/examples/ExampleOverview',
+      link: '/examples/ExamplesOverview',
       activeMatch: '/examples/'
     },
     {
@@ -84,11 +84,6 @@ function nav() {
       link: '/reference/Betoms/BetomsOverview',
       activeMatch: '/reference/Betoms/'
     },
-    // {
-    //   text: 'About',
-    //   link: '/about/AboutOverview',
-    //   activeMatch: '/about/'
-    // },
   ]
 }
 // Dev
@@ -158,25 +153,25 @@ function sidebarGuide() {
       text: 'Introduction',
       collapsed: false,
       items: [
-        { text: 'What is <span class="beta">PlantaBeta</span>?', link: '/guide/What/WhatPlantaBeta' },
+        { text: 'What is <span class="beta">PlantaBeta</span>?', link: '/guide/WhatPlantaBeta/Overview' },
       ]
     },
     {
       text: 'Purpose', collapsed: false, items: [
-        { text: 'To Increase Quality', link: '/guide/Why/Quality' },
-        { text: 'To Reduce Injury', link: '/guide/Why/Injury' },
-        { text: 'To Increase Productivity', link: '/guide/Why/Productivity' },
-        { text: 'To Improve Communication', link: '/guide/Why/Communication' },
-        { text: 'To Steepen Learning Curve', link: '/guide/Why/LearningCurve' },
+        { text: 'To Increase Quality', link: '/guide/WhyPlantaBeta/Quality' },
+        { text: 'To Reduce Injury', link: '/guide/WhyPlantaBeta/Injury' },
+        { text: 'To Increase Productivity', link: '/guide/WhyPlantaBeta/Productivity' },
+        { text: 'To Improve Communication', link: '/guide/WhyPlantaBeta/Communication' },
+        { text: 'To Steepen Learning Curve', link: '/guide/WhyPlantaBeta/LearningCurve' },
       ]
     },
     {
       text: 'Who is <span class="beta">PlantaBeta</span> designed for?', collapsed: false, items: [
-        { text: '<span class="labor">Potential Planter</span>', link: '/guide/Who/PotentialPlanter' },
-        { text: '<span class="labor">Novice Planter</span>', link: '/guide/Who/NovicePlanter' },
-        { text: '<span class="labor">Veteran Planter</span>', link: '/guide/Who/VeteranPlanter' },
-        { text: '<span class="labor">Supervisor</span>', link: '/guide/Who/Supervisor' },
-        { text: '<span class="labor">Instructor</span>', link: '/guide/Who/Instructor' }
+        { text: '<span class="labor">Potential Planter</span>', link: '/guide/WhoPlantaBeta/PotentialPlanter' },
+        { text: '<span class="labor">Novice Planter</span>', link: '/guide/WhoPlantaBeta/NovicePlanter' },
+        { text: '<span class="labor">Veteran Planter</span>', link: '/guide/WhoPlantaBeta/VeteranPlanter' },
+        { text: '<span class="labor">Supervisor</span>', link: '/guide/WhoPlantaBeta/Supervisor' },
+        { text: '<span class="labor">Instructor</span>', link: '/guide/WhoPlantaBeta/Instructor' }
       ]
     },
     { text: 'Go to Examples', link: '/examples/ExampleOverview' },
@@ -440,7 +435,7 @@ function sidebarElements() {
               ]
             },
             {
-              text: '🟩<span class="ekos">Litosfera</span>', link: '/reference/Elements/Ekos/Ekosfera/Litosfera/Overview', collapsed: true, items: [
+              text: '🟩<span class="ekos">Litossfera</span>', link: '/reference/Elements/Ekos/Ekosfera/Litossfera/Overview', collapsed: true, items: [
                 { text: '<span class="ekos">Rock Cap</span>', link: '/reference/Elements/Ekos/Ekosfera/Hydrosfera/RockCap' },
               ]
             },
@@ -901,10 +896,10 @@ function sidebarBetoms() {
     // { text: '[Lean-Head]', link: '/reference/Betoms/Lean-Head.md' },
     // { text: '[Lean-Korpo]', link: '/reference/Betoms/Lean-Korpo.md' },
     // { text: '[Listen-Head]', link: '/reference/Betoms/Listen-Head.md' },
-    // { text: '[Lito-Rough-Hydro-Site]', link: '/reference/Betoms/Lito-Rough-Hydro-Site.md' },
-    // { text: '[Lito-Rough-Site]', link: '/reference/Betoms/Lito-Rough-Site.md' },
-    // { text: '[Lito-Smooth-Hydro-Site]', link: '/reference/Betoms/Lito-Smooth-Hydro-Site.md' },
-    // { text: '[Lito-Smooth-Site]', link: '/reference/Betoms/Lito-Smooth-Site.md' },
+    // { text: '[Litos-Rough-Hydro-Site]', link: '/reference/Betoms/Litos-Rough-Hydro-Site.md' },
+    // { text: '[Litos-Rough-Site]', link: '/reference/Betoms/Litos-Rough-Site.md' },
+    // { text: '[Litos-Smooth-Hydro-Site]', link: '/reference/Betoms/Litos-Smooth-Hydro-Site.md' },
+    // { text: '[Litos-Smooth-Site]', link: '/reference/Betoms/Litos-Smooth-Site.md' },
     // { text: '[Lock-Brazo]', link: '/reference/Betoms/Lock-Brazo.md' },
     // { text: '[Lock-Mano]', link: '/reference/Betoms/Lock-Mano.md' },
     // { text: '[Log-Audio]', link: '/reference/Betoms/Log-Audio.md' },

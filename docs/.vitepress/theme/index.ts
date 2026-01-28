@@ -15,6 +15,7 @@ import { aliases, mdi } from 'vuetify/iconsets/mdi'
 
 import BetomChip from './BetomChip.vue'
 import BetomTitle from './BetomTitle.vue'
+import BetaglotEmblem from './Betaglot-Emblem.vue'
 
 const vuetify = createVuetify({
   components,
@@ -65,6 +66,7 @@ export default {
     app.use(vuetify)
     app.component('BB', BetomChip)
     app.component('BT', BetomTitle)
+    app.component('BE', BetaglotEmblem)
   }
 } satisfies Theme
 

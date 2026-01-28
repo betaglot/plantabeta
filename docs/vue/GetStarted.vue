@@ -14,7 +14,7 @@
                            size="x-large"
                            block>
                         <div>
-                            <div>What's <span class="beta">KlimBeta</span>?</div>
+                            <div>What's <span class="beta">PlantaBeta</span>?</div>
                         </div>
                     </v-btn>
                 </v-col>
@@ -35,13 +35,13 @@
             <v-row>
                 <v-col>
                     <v-btn class="text-none "
-                        href="/guide/WhatKlimBeta/WhatKlimBeta-Function"
+                           href="/guide/WhatKlimBeta/WhatKlimBeta-Function"
                            height="80"
                            rounded="xl"
                            size="x-large"
                            block>
                         <div>
-                            <div>Using <span class="beta">KlimBeta</span></div>
+                            <div>Using <span class="beta">PlantaBeta</span></div>
                             <small></small>
                         </div>
                     </v-btn>
@@ -60,8 +60,6 @@
                 </v-col>
             </v-row>
         </v-container>
-
-
     </div>
 </template>
 
