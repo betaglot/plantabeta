@@ -126,9 +126,9 @@ Analogy(
 
 ```
 
-Proteome is the complete set of proteins expressed by an organism. 
+Proteome is the complete set of proteins expressed by an organism.
 
-Your hair doesn't move like your kynesins but both are composed of proteins. A hold doesn't move like your Arm but both are composed of BETOMs
+Your hair doesn't move like your myosin but both are composed of proteins. A hold doesn't move like your Arm but both are composed of BETOMs
 
 ---
 

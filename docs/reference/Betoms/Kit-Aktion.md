@@ -11,7 +11,6 @@ AlsoKnownAs(CacheBag)
 ---
 > All the clothing and equipment that you leave at the cache.
 
-```py
 Kit = {
     'Carabiner',
     'DryBag',
@@ -23,7 +22,6 @@ Kit = {
     'ToiletPaper',
     'WaterBottle'
 }
-```
 
 ### BottleReCoverMOTON
 

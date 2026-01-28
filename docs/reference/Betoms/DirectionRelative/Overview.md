@@ -18,7 +18,6 @@ let elementName = "RelativeDirection"
 
 - Mostly prepositions
 
-```py
 [
     'Above', 'Across', 'Along', 'At',
     'Behind', 'Below', 'Beside', 'Between',
@@ -30,7 +29,5 @@ let elementName = "RelativeDirection"
     'Until', 'Up',
     'While',
 ]
-
-```
 
 :::

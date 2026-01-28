@@ -29,7 +29,7 @@ const vuetify = createVuetify({
           soma: "#2891e7",
           ekos: "#49e82b",
           via: "#ff3333",
-          motor: "#d9670f",
+          motor: "#da680f",
           anima: "#c286bf"
         }
       },
@@ -40,7 +40,7 @@ const vuetify = createVuetify({
           soma: "#2891e7",
           ekos: "#49e82b",
           via: "#ff3333",
-          motor: "#d9670f",
+          motor: "#da680f",
           anima: "#c286bf"
         }
       },

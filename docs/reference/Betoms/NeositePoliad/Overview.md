@@ -1,5 +1,4 @@
 
-
 # 🔻<span class="via">SitePolygon</span>
 
 > A group of Sites in the shape of a Polygon

@@ -1,5 +1,4 @@
 
-
 # 🔻<span class="via">ObstaclePlan</span>
 
 ---

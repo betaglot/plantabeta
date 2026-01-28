@@ -12,7 +12,7 @@
 
 .VPNavBarTitle span {
   font-weight: 900;
-  background-image: linear-gradient(to right, #EFBF04,#2891e7,#49e82b,#ff3333,#d9670f,#c286bf);
+  background-image: linear-gradient(to right, #EFBF04, #2891e7, #49e82b, #ff3333, #da680f, #c286bf);
   color: transparent;
   background-clip: text;
   -webkit-background-clip: text;
@@ -23,7 +23,7 @@
 }
 
 footer.VPFooter {
-    display: block !important;
+  display: block !important;
 }
 
 .youtube {
@@ -37,7 +37,7 @@ footer.VPFooter {
 
 .beta {
   font-weight: 900;
-  background-image: linear-gradient(to right, #EFBF04,#2891e7,#49e82b,#ff3131,#da680f,#c286bf);
+  background-image: linear-gradient(to right, #EFBF04, #2891e7, #49e82b, #ff3131, #da680f, #c286bf);
   color: transparent;
   background-clip: text;
   -webkit-background-clip: text;
@@ -49,8 +49,8 @@ footer.VPFooter {
 }
 
 .labor {
-  color:  #EFBF04;
-  
+  color: #EFBF04;
+
 }
 
 .soma {
@@ -96,10 +96,10 @@ error {
 }
 
 .rainbow {
-    background-image: linear-gradient(to right, #EFBF04, #2891e7, #49e82b, #ff3131, #da680f, #c286bf);
-    text-decoration: none;
+  background-image: linear-gradient(to right, #EFBF04, #2891e7, #49e82b, #ff3131, #da680f, #c286bf);
+  text-decoration: none;
 }
 
-a:link{
-  text-decoration: none!important;
+a:link {
+  text-decoration: none !important;
 }

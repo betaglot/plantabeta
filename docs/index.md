@@ -4,6 +4,7 @@ title: "PlantaBeta"
 titleTemplate: "PlantaBeta"
 
 hero: 
+  name: '<span class="beta">PlantaBeta</span>'
   image:
     src: /Betaglot-Logo.png
     alt: "Logo"
@@ -16,59 +17,65 @@ hero:
 
 ---
 
-
-<div class="d-flex justify-center">
-<v-img class="rounded-xl my-8" max-width="600px" max-height="600px" cover src="/Img-HomePage.png"></v-img>
-</div>
-
 <HomeDendrogram />
 
 <div class="d-flex justify-center">
-<v-hover v-slot="{ isHovering, props }" open-delay="200">
-  <VSheet class="rounded-xl pa-4 text-center w-75 mt-12"
-        border="md"
-        :class="{ 'on-hover': isHovering }"
-        :elevation="isHovering ? 24 : 1"
-        v-bind="props">
-    <div class="text-h1 my-4">🙌</div>
-    <div class="text-h3 my-4">
-        <span class="beta">PlantaBeta</span> is Free to Use!
-    </div>
-  </VSheet>
-</v-hover>
+  <v-img class="rounded-xl my-8" max-width="600px" max-height="600px" cover src="/Img-HomePage.png"></v-img>
 </div>
 
-<StartHere />
+<a href="https://www.youtube.com/@BETAGLOT">
+  <div class="d-flex justify-center rainbow rounded-xl my-16 py-16">
+    <v-img class="rounded-xl my-8" max-width="600px" max-height="600px" cover src="/yt_logo_white_digital.png"></v-img>
+  </div>
+</a>
 
 <div class="d-flex justify-center">
-<v-hover v-slot="{ isHovering, props }"
-        open-delay="200">
-  <VSheet class="rounded-xl pa-4 text-center w-lg-50 mt-16"
+  <v-hover v-slot="{ isHovering, props }" open-delay="200">
+    <VSheet class="rounded-xl pa-4 text-center w-75 mt-12"
           border="md"
           :class="{ 'on-hover': isHovering }"
           :elevation="isHovering ? 24 : 1"
           v-bind="props">
-      <div class="text-h5 my-4">
-          Under Development
+      <div class="text-h1 my-4">🙌</div>
+      <div class="text-h3 my-4">
+          <span class="beta">PlantaBeta</span> is Free to Use!
       </div>
-      <div class="py-12 text-h1" >🛠️</div>
-      <!-- Last Updated -->
-      <div class="text-h5 my-4">
-          Last Updated on
-      </div>
-        <div class="text-h6">January 28, 2026</div>
+    </VSheet>
+  </v-hover>
+</div>
 
-  <div class="pt-16">Contact:</div>
-  <span class="beta">betaglot@betaglot.org</span>
+<StartHere />
 
-  </VSheet>
-</v-hover>
+<BetomList class="mt-12 " />
+
+---
+
+<div class="d-flex justify-center">
+  <v-hover v-slot="{ isHovering, props }"
+          open-delay="200">
+    <VSheet class="rounded-xl pa-4 text-center w-lg-50 mt-16"
+            border="md"
+            :class="{ 'on-hover': isHovering }"
+            :elevation="isHovering ? 24 : 1"
+            v-bind="props">
+        <div class="text-h5 my-4">
+            Under Development
+        </div>
+        <div class="py-12 text-h1" >🛠️</div>
+        <!-- Last Updated -->
+        <div class="text-h5 my-4">
+            Last Updated on
+        </div>
+          <div class="text-h6">January 28, 2026</div>
+        <div class="pt-16">Contact:</div>
+        <span class="beta">betaglot@betaglot.org</span>
+    </VSheet>
+  </v-hover>
 </div>
 
 <script setup>
 import HomeDendrogram from '/vue/Home-Dendrogram.vue'
 import StartHere from '/vue/StartHere.vue'
-import BetaTranscriptor from '/vue/BetaTranscriptor.vue'
 </script>
 
 <style>

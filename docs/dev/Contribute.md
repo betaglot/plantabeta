@@ -123,7 +123,7 @@ Maximum Length
 ## Image Contribution
 
 ::: tip Send an email to:
-<span class="betaglot@betaglot.org>
+<betaglot@betaglot.org>
 :::
 
 ---
@@ -138,7 +138,7 @@ Maximum Length
 - What Instrument to use which allows easy uploading?
 - <https://opensource.guide/how-to-contribute/>
 
-- It will look good on your resume, volunteering for a Non Profit combating climat crisis
+- It will look good on your resume, volunteering for a Non Profit combating climate crisis
 - Give to the Planters that will come after you. We will always have forests to cultivate.
 - "Join a community" instead of just contribute this project. Remember that some people don't want to join a community and remain anonymous.
 - Discussion in chats contribute without pull requests. Conversation leads to code.

@@ -1,5 +1,4 @@
 
-
 # 🔻<span class="via">Rigid Proximity</span>
 
 > Proximity that doesn't change

@@ -1,5 +1,4 @@
 
-
 # 🔻<span class="via">Plan</span>
 
 > A plan to complete a zone by using Lines, Divs, Deadwalking, Marka
@@ -54,7 +53,7 @@ BlockFill Pattern Planters usually it's only supervisors that need to know Block
 - "VIA.ZoneFill.AreaBoundary.BoundaryPoint"
 - "VIA.ZoneFill.AreaBoundary.SideBoundary"
 - "VIA.ZoneFill.AreaDefinition"
-- "VIA.ZoneFill.BagUpArtithmetic"
+- "VIA.ZoneFill.BagUpArithmetic"
 - "VIA.ZoneFill.BoustroFill"
 - "VIA.ZoneFill.CircleFill"
 - "VIA.ZoneFill.CircleCover.CircleSegmentFill"

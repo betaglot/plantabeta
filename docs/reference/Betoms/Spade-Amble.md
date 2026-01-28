@@ -9,19 +9,6 @@ aside: false
 
 ### ModifyLength()
 
-```py
-
-def ModifyLength():
-    if EKOS == TooClose():
-        Length++
-    elif
-
-    else 
-        pass
-
-
-```
-
 ---
 
 <!-- =================================================== -->
