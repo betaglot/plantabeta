@@ -6,6 +6,7 @@ BetomName=""
 </script>
 
 # [BootHeel,KickKlose]
+# <BB labor="Klose.Kick.Boot.Heel" soma="" ekos="" via="" motor="" anima=""/>
 
 ---
 

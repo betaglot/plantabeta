@@ -6,7 +6,7 @@ BetomName=""
 </script>
 
 # [Boot,Preserve]
-
+# <BB labor="Preserve.Boot" soma="" ekos="" via="" motor="" anima=""/>
 ---
 
 <!-- =================================================== -->

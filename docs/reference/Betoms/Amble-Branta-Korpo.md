@@ -6,6 +6,7 @@ BetomName=""
 </script>
 
 # 🔷Korpo,🟠AmbleBranta
+# <BB labor="Branta" soma="" ekos="" via="" motor="" anima=""/>
 
 ---
 
@@ -16,6 +17,7 @@ BetomName=""
 <!-- =================================================== -->
 ::: details &
 
+- "Branta" is Duck in Latin
 - DuckWalk
 - 2 BaseExRotation
 

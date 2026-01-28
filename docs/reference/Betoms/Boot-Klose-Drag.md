@@ -6,6 +6,7 @@ BetomName=""
 </script>
 
 # [Boot,DragKlose]
+# <BB labor="Klose.Boot.Drag" soma="" ekos="" via="" motor="" anima=""/>
 
 ---
 

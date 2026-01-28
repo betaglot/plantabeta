@@ -6,7 +6,7 @@ BetomName=""
 </script>
 
 # [Lace,Adjust]
-
+# <BB labor="Boot.Lace.Modify" soma="" ekos="" via="" motor="" anima=""/>
 ---
 
 <!-- =================================================== -->

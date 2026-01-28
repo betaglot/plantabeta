@@ -6,6 +6,7 @@ BetomName=""
 </script>
 
 # Block,Density
+# <BB labor="Cutblock" soma="" ekos="" via="Density" motor="" anima=""/>
 
 ---
 

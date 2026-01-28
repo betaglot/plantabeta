@@ -6,6 +6,7 @@ BetomName=""
 </script>
 
 # 🟠 InclineWalk
+# <BB labor="Amble" soma="Body" ekos="Prokline" via="" motor="" anima=""/>
 
 ---
 

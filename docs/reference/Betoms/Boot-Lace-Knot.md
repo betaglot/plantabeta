@@ -6,6 +6,7 @@ BetomName=""
 </script>
 
 # [Lace,Knot]
+# <BB labor="Knot.Boot.Lace" soma="" ekos="" via="" motor="" anima=""/>
 
 ---
 

@@ -6,6 +6,7 @@ BetomName=""
 </script>
 
 # 🔷Base,🟠Ama
+# <BB labor="Ama" soma="Leg" ekos="" via="" motor="" anima=""/>
 
 ---
 

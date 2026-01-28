@@ -102,7 +102,8 @@ grid-template-columns: repeat(16, 1fr);
 
 1. <span class="labor">LABOR</span>
     1. <span class="labor">Task</span>
-        1. <span class="labor">Aktion</span>
+        1. <span class="labor">Piece</span>
+        2. <span class="labor">Aktion</span>
     2. <span class="labor">Tool</span>
     3. <span class="labor">Performance</span>
 2. <span class="soma">SOMA</span>
@@ -131,6 +132,7 @@ grid-template-columns: repeat(16, 1fr);
 <!-- =================================================== -->
 ::: details 🛠
 
+- [Box.Aktion] ([Aktion.Box] == [Bundle.Contain.Box] )
 - naming convention follow (x,y,z) coordinates. Time always comes after space given the Faktors' Indexing
     1. Lateral, Medial
     1. Up, Down

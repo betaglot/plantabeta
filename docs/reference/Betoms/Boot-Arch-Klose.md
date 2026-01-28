@@ -6,7 +6,7 @@ BetomName=""
 </script>
 
 # [BootArch,Klose]
-
+# <BB labor="Boot.Arch.Klose" soma="" ekos="" via="" motor="" anima=""/>
 ---
 
 <!-- =================================================== -->

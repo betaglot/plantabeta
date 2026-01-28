@@ -6,7 +6,7 @@ BetomName=""
 </script>
 
 # [Boot,Mano]
-
+# <BB labor="Grip.Boot" soma="" ekos="" via="" motor="" anima=""/>
 ---
 
 <!-- =================================================== -->
