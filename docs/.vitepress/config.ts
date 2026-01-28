@@ -242,6 +242,11 @@ function sidebarElements() {
           ]
         },
         {
+          text: '⭐<span class="labor">Strategy</span>', link: '/reference/Elements/Labor/Strategy/Overview', collapsed: true, items: [
+            { text: '<span class="labor">Tactic</span>', link: '/reference/Elements/Labor/Strategy/Tactic/Overview' },
+          ]
+        },
+        {
           text: '⭐<span class="labor">Tools</span>', link: '/reference/Elements/Labor/Tool/Overview', collapsed: true, items: [
             { text: '<span class="labor">Boot</span>', link: '/reference/Elements/Labor/Tool/Boot/Overview' },
             { text: '<span class="labor">Boot</span>', link: '/reference/Elements/Labor/Tool/Boot/Overview' },
@@ -267,6 +272,9 @@ function sidebarElements() {
             { text: '<span class="labor">Difficulty</span>', link: '' },
             { text: '<span class="labor">Execution</span>', link: '' },
             { text: '<span class="labor">Specs</span>', link: '/reference/Elements/Labor/Tasks/Specs' },
+            { text: '<span class="labor">Errors</span>', link: '/reference/Elements/Labor/Performance/Errors/Overview' },
+
+
           ]
         },
       ]
@@ -304,7 +312,7 @@ function sidebarElements() {
               text: '<span class="soma">Leg</span>', link: '/reference/Elements/Soma/Anatomy/Leg/Overview', collapsed: true, items: [
                 { text: '<span class="soma">Hips</span>', link: '/reference/Elements/Soma/Anatomy/Leg/Hips' },
                 { text: '<span class="soma">Femur</span>', link: '/reference/Elements/Soma/Anatomy/Leg/Femur' },
-                { text: '<span class="soma">Tibia</span>', link: '/reference/Elements/Soma/Anatomy/Leg/Shin' },
+                { text: '<span class="soma">Tibia</span>', link: '/reference/Elements/Soma/Anatomy/Leg/Tibia' },
                 { text: '<span class="soma">Foot</span>', link: '/reference/Elements/Soma/Anatomy/Leg/Foot' },
               ]
             },
@@ -313,14 +321,15 @@ function sidebarElements() {
         {
           text: '🔷<span class="soma">Physiology</span>', link: '/reference/Elements/Soma/Physiology/Overview', collapsed: true, items: [
             { text: '<span class="soma">Endurance</span>', link: '/reference/Elements/Soma/Physiology/Endurance' },
-            { text: '<span class="soma">Limberness</span>', link: '/reference/Elements/Soma/Physiology/Limberness' },
+            { text: '<span class="soma">Suppleness</span>', link: '/reference/Elements/Soma/Physiology/Suppleness' },
             { text: '<span class="soma">Strength</span>', link: '/reference/Elements/Soma/Physiology/Strength' },
-            { text: 'Injury Prevention', link: '/reference/Elements/Soma/Physiology/InjuryPrevention' },
+            { text: '<span class="soma">Injury Prevention</span>', link: '/reference/Elements/Soma/Physiology/InjuryPrevention' },
+            { text: '<span class="soma">WarmUp</span>', link: '/reference/Elements/Soma/Physiology/WarmUp' },
+            { text: '<span class="soma">CoolDown</span>', link: '/reference/Elements/Soma/Physiology/CoolDown' },
+            { text: '<span class="soma">Posture</span>', link: '/reference/Elements/Soma/Physiology/Posture' },
           ]
         },
         { text: '🔷<span class="soma">Nutrition</span>', link: '/reference/Elements/Soma/Nutrition/Overview', collapsed: true, items: [] },
-
-
       ]
     },
     {
@@ -329,7 +338,7 @@ function sidebarElements() {
       link: '/reference/Elements/Ekos/EkosOverview',
       items: [
         {
-          text: 'Ekosfera', link: '/reference/Elements/Ekos/Ekosfera/Overview', collapsed: true, items: [
+          text: '🟩<span class="ekos">Ekosfera</span>', link: '/reference/Elements/Ekos/Ekosfera/Overview', collapsed: true, items: [
             {
               text: '🟩<span class="ekos">Antroposfera</span>', link: '/reference/Elements/Ekos/Ekosfera/Antroposfera/Overview', collapsed: true, items: [
                 {
@@ -435,7 +444,7 @@ function sidebarElements() {
               ]
             },
             {
-              text: '🟩<span class="ekos">Litossfera</span>', link: '/reference/Elements/Ekos/Ekosfera/Litossfera/Overview', collapsed: true, items: [
+              text: '🟩<span class="ekos">Litosfera</span>', link: '/reference/Elements/Ekos/Ekosfera/Litossfera/Overview', collapsed: true, items: [
                 { text: '<span class="ekos">Rock Cap</span>', link: '/reference/Elements/Ekos/Ekosfera/Hydrosfera/RockCap' },
               ]
             },
@@ -466,6 +475,11 @@ function sidebarElements() {
             },
           ]
         },
+        {
+          text: '🟩<span class="ekos">Klimon</span>', link: '/reference/Elements/Ekos/Klimon/Overview', collapsed: true, items: [
+            { text: '<span class="ekos">Texture</span>', link: '/reference/Elements/Ekos/Klimon/Texture/Overview' },
+          ]
+        },
       ]
     },
     {
@@ -473,7 +487,6 @@ function sidebarElements() {
       collapsed: true,
       link: '/reference/Elements/Via/ViaOverview',
       items: [
-
         {
           text: '🔻<span class="via">Geometry</span>', link: '/reference/Elements/Via/Geometry/Overview', collapsed: true, items: [
             { text: '<span class="via">Density</span>', link: '/reference/Elements/Via/Geometry/Density/Overview', collapsed: true, items: [] },
@@ -487,7 +500,6 @@ function sidebarElements() {
             { text: '<span class="via">Distance</span>', link: '/reference/Elements/Via/Geometry/Distance/Overview', collapsed: true, items: [] },
             { text: '<span class="via">Div</span>', link: '/reference/Elements/Via/Geometry/Div/Overview', collapsed: true, items: [] },
             { text: '<span class="via">Form</span>', link: '/reference/Elements/Via/Geometry/Form/Overview', collapsed: true, items: [] },
-
             {
               text: '<span class="via">Line</span>', link: '/reference/Elements/Via/Geometry/Line/Overview', collapsed: true, items: [
                 { text: '<span class="via">AroundLine</span>', link: '/reference/Elements/Via/Geometry/Line/AroundLine' },
@@ -525,13 +537,31 @@ function sidebarElements() {
           text: '🔻<span class="via">Probability</span>', link: '/reference/Elements/Via/Probability/Overview', collapsed: true, items: [
             {
               text: '<span class="via">Affordance</span>', link: '/reference/Elements/Via/Probability/Affordance/Overview', collapsed: true, items: [
-                { text: '<span class="via">Limit</span>', link: '/reference/Elements/Via/Probability/Affordance/Limit/Overview', collapsed: true, items: [] },
-                { text: '<span class="via">Probability</span>', link: '/reference/Elements/Via/Probability/Affordance/Probability/Overview', collapsed: true, items: [] },
-                { text: '<span class="via">Site</span>', link: '/reference/Elements/Via/Probability/Affordance/Site/Overview', collapsed: true, items: [] },
+                {
+                  text: '<span class="via">Site</span>', link: '/reference/Elements/Via/Probability/Affordance/Site/Overview', collapsed: true, items: [
+                    { text: '<span class="via">Landing</span>', link: '/reference/Elements/Via/Probability/Affordance/Site/Landing' },
+                  ]
+                },
+                {
+                  text: '<span class="via">Passage</span>', link: '/reference/Elements/Via/Probability/Affordance/Passage/Overview', collapsed: true, items: [
+                    { text: '<span class="via">BoustroPassage</span>', link: '/reference/Elements/Via/Probability/Affordance/Passage/BoustroPassage' },
+                    { text: '<span class="via">CircuitPassage</span>', link: '/reference/Elements/Via/Probability/Affordance/Passage/CircuitPassage' },
+                    { text: '<span class="via">CircumventPassage</span>', link: '/reference/Elements/Via/Probability/Affordance/Passage/CircumventPassage' },
+                    { text: '<span class="via">PerimeterPassage</span>', link: '/reference/Elements/Via/Probability/Affordance/Passage/PerimeterPassage' },
+                  ]
+                },
               ]
             },
-            { text: '<span class="via">Constraint</span>', link: '/reference/Elements/Via/Probability/Constraint/Overview', collapsed: true, items: [] },
-            { text: '<span class="via">Flexibility</span>', link: '/reference/Elements/Via/Probability/Flexibility/Overview', collapsed: true, items: [] },
+            {
+              text: '<span class="via">Constraint</span>', link: '/reference/Elements/Via/Probability/Constraint/Overview', collapsed: true, items: [
+                { text: '<span class="via">DegreesOfFreedom</span>', link: '/reference/Elements/Via/Probability/Constraint/DegreesOfFreedom' },
+                { text: '<span class="via">Hyper</span>', link: '/reference/Elements/Via/Probability/Constraint/Hyper' },
+                { text: '<span class="via">Hypo</span>', link: '/reference/Elements/Via/Probability/Constraint/Hypo' },
+
+              ]
+            },
+            { text: '<span class="via">Fortuna</span>', link: '/reference/Elements/Via/Probability/Fortuna/Overview' },
+            { text: '<span class="via">Frequency</span>', link: '/reference/Elements/Via/Probability/Frequency/Overview' },
           ]
         },
       ]
@@ -577,12 +607,11 @@ function sidebarElements() {
         },
         {
           text: '🟠<span class="motor">Time</span>', link: '/reference/Elements/Motor/Time/Overview', collapsed: true, items: [
-            { text: '<span class="motor">Rhythm</span>', link: '/reference/Elements/Motor/Time/Rhythm' },
+            { text: '<span class="motor">Rhythm</span>', link: '/reference/Elements/Motor/Time/Ritmo' },
             { text: '<span class="motor">Syncopation</span>', link: '/reference/Elements/Motor/Time/Syncopation' },
             { text: '<span class="motor">Tempo</span>', link: '/reference/Elements/Motor/Time/Tempo' },
           ]
         },
-
       ]
     },
     {
@@ -590,9 +619,9 @@ function sidebarElements() {
       collapsed: true,
       link: '/reference/Elements/Anima/AnimaOverview',
       items: [
-        { text: '💜<span class="anima">Attention</span>', link: '/reference/Elements/Anima/Attention/Overview' },
         {
           text: '💜<span class="anima">Cognitions</span>', link: '/reference/Elements/Anima/Cognitions/Overview', collapsed: true, items: [
+            { text: '💜<span class="anima">Attention</span>', link: '/reference/Elements/Anima/Cognitions/Attention/Overview' },
             {
               text: '<span class="anima">CognitiveEase</span>', link: '/reference/Elements/Anima/Cognitions/CognitiveEase/Overview', collapsed: true, items: [
                 { text: '<span class="anima">Clarity Ease</span>', link: '/reference/Elements/Anima/Cognitions/CognitiveEase/ClarityEase' },
@@ -610,9 +639,16 @@ function sidebarElements() {
             { text: '<span class="anima">Estimation</span>', link: '/reference/Elements/Anima/Cognitions/Estimation/Overview' },
             { text: '<span class="anima">Identification</span>', link: '/reference/Elements/Anima/Cognitions/Identification/Overview' },
             { text: '<span class="anima">Judgement</span>', link: '/reference/Elements/Anima/Cognitions/Judgement/Overview' },
+            {
+              text: '💜<span class="anima">Memory</span>', link: '/reference/Elements/Anima/Cognitions/Memory/Overview', collapsed: true, items: [
+                { text: '<span class="anima">Long Term Memory</span>', link: '/reference/Elements/Anima/Cognitions/Memory/LongTermMemory' },
+                { text: '<span class="anima">Short Term Memory</span>', link: '/reference/Elements/Anima/Cognitions/Memory/ShortTermMemory' },
+                { text: '<span class="anima">Working Memory</span>', link: '/reference/Elements/Anima/Cognitions/Memory/WorkingMemory' },
+              ]
+            },
+            { text: '💜 <span class="anima">Perception</span> ', link: '' },
           ]
         },
-
         {
           text: '💜<span class="anima">Emotions</span>', link: '/reference/Elements/Anima/Emotions/Overview', collapsed: true, items: [
             { text: '<span class="anima">Anger</span>', link: '/reference/Elements/Anima/Emotions/Anger' },
@@ -623,13 +659,7 @@ function sidebarElements() {
           ]
         },
         { text: '💜<span class="anima">Learning</span>', link: '/reference/Elements/Anima/Learning/Overview', collapsed: true, items: [] },
-        {
-          text: '💜<span class="anima">Memory</span>', link: '/reference/Elements/Anima/Memory/Overview', collapsed: true, items: [
-            { text: '<span class="anima">Long Term Memory</span>', link: '/reference/Elements/Anima/Memory/LongTermMemory' },
-            { text: '<span class="anima">Short Term Memory</span>', link: '/reference/Elements/Anima/Memory/ShortTermMemory' },
-            { text: '<span class="anima">Working Memory</span>', link: '/reference/Elements/Anima/Memory/WorkingMemory' },
-          ]
-        },
+
         {
           text: '💜<span class="anima">MindState</span>', link: '/reference/Elements/Anima/MindState/Overview', collapsed: true, items: [
             { text: '<span class="anima">Arousal</span>', link: '/reference/Elements/Anima/MindState/Arousal/Overview' },
@@ -642,7 +672,7 @@ function sidebarElements() {
           text: '💜<span class="anima">Senses</span>', link: '/reference/Elements/Anima/Senses/Overview', collapsed: true, items: [
             { text: '<span class="anima">Auditory</span>', link: '/reference/Elements/Anima/Senses/AuditorySense/Overview', collapsed: true, items: [] },
             { text: '<span class="anima">Touch</span>', link: '/reference/Elements/Anima/Senses/TouchSense/Overview', collapsed: true, items: [] },
-            { text: '<span class="anima">Compression</span>', link: '/reference/Elements/Anima/Senses/CompressionSense/Overview', collapsed: true, items: [] },
+            { text: '<span class="anima">Pressure</span>', link: '/reference/Elements/Anima/Senses/PressureSense/Overview', collapsed: true, items: [] },
             { text: '<span class="anima">Proprioception</span>', link: '/reference/Elements/Anima/Senses/Proprioception/Overview', collapsed: true, items: [] },
           ]
         },
