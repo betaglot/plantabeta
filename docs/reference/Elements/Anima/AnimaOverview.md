@@ -1,10 +1,10 @@
 <script setup>
-import FaktorIkon from '/vue/FaktorIkon.vue'
+import FaktorEmblem from '/vue/FaktorEmblem.vue'
 </script>
 
 # <div class="d-flex justify-center text-h1"><span class="anima">ANIMA</span></div>
 
-<FaktorIkon imageSource='/Emblem/Anima-Emblem.png' />
+<FaktorEmblem imageSource='/Emblem/Anima-Emblem.png' />
 
 ## What is <span class="anima">ANIMA</span>?
 

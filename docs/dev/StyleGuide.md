@@ -193,7 +193,7 @@ Betaglot too
 
 Custom Ikon
 
-Planters have access to all the FaktorIkons
+Planters have access to all the FaktorEmblems
 
 Groups of Animons
 

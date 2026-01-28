@@ -502,7 +502,9 @@
         "elementAlias": [
             "green trampoline"
         ],
-        "elementDescription": ["layers of coniferous branches which are interwoven and are difficult to get your spade through"],
+        "elementDescription": [
+            "layers of coniferous branches which are interwoven and are difficult to get your spade through"
+        ],
         "elementBetanyms": [
             ""
         ],
@@ -911,6 +913,7 @@
         "elementEnglishName": "Dig",
         "elementFaktor": "Labor",
         "elementID": "",
+        "elementAlias": [],
         "elementTaxonomy": [
             "Labor",
             "Aktion",
@@ -918,7 +921,7 @@
         ],
         "elementDescription": [
             "break up and move soil with a spade",
-            "planters rarely dig with their spades"
+            "Planters rarely dig with their spades"
         ],
         "elementBetanyms": [],
         "elementInBetom": [],
@@ -1161,6 +1164,7 @@
         "elementEnglishName": "Kompress",
         "elementFaktor": "Labor",
         "elementID": "",
+        "elementAlias": [],
         "elementTaxonomy": [
             "Labor",
             "Aktion",
@@ -1873,6 +1877,7 @@
         "elementEnglishName": "Piece",
         "elementFaktor": "Labor",
         "elementID": "",
+        "elementAlias": [],
         "elementTaxonomy": [
             "Labor",
             "Task",
@@ -3381,6 +3386,9 @@
         "elementEnglishName": "Mineral Soil",
         "elementFaktor": "Ekos",
         "elementID": "",
+        "elementAlias": [
+            ""
+        ],
         "elementTaxonomy": [
             "Ekos",
             "Ekosfera",

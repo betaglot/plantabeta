@@ -1,10 +1,10 @@
 <script setup>
-import FaktorIkon from '/vue/FaktorIkon.vue'
+import FaktorEmblem from '/vue/FaktorEmblem.vue'
 </script>
 
 # <div class="d-flex justify-center text-h1"><span class="ekos">EKOS</span></div>
 
-<FaktorIkon imageSource='/Emblem/Ekos-Emblem.png' />
+<FaktorEmblem imageSource='/Emblem/Ekos-Emblem.png' />
 
 ## What is <span class="ekos">EKOS</span>?
 

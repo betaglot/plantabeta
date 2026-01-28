@@ -15,42 +15,42 @@ search: false
 - Given that most forests are sixes,nhow much space is represented by a little logging truck?
 - Prehydrate
 - Seats are shock absorbers, benches are rarely if ever absorbers
-- <BC l='Spade's=''e=''v='Anterior Hole'm=''a=''/> undercuts anterior to tree
-- <BC l='Complacency's='Fatigue'e=''v=''m=''a=''/> Complacency from fatigue
-- <BC l='Boot, Surf's=''e='LooseSoil'v='Down'm=''a=''/> Boot loosesoil down surf
+<!-- - <BC l='Spade's=''e=''v='Anterior Hole'm=''a=''/> undercuts anterior to tree -->
+<!-- - <BC l='Complacency's='Fatigue'e=''v=''m=''a=''/> Complacency from fatigue -->
+<!-- - <BC l='Boot, Surf's=''e='LooseSoil'v='Down'm=''a=''/> Boot loosesoil down surf -->
 - Having a rain shield makes you feel better even if there is no difference in cold. It's not the wetness, but the cold that people dislike. Rain layer also prevents dermal evaporative cooling
-- <BC l='WaterproofGlove, Kit, Waterproof Bag's=''e=''v=''m=''a=''/> Waterproof gloves should be stored dry in a waterproof bag
+<!-- - <BC l='WaterproofGlove, Kit, Waterproof Bag's=''e=''v=''m=''a=''/> Waterproof gloves should be stored dry in a waterproof bag -->
 - Amy would be an ideal head Planter kapoPlanter
-- <BC l='TacticalRest's=''e=''v=''m=''a=''/> TacticalRest TacticalRestDay
+<!-- - <BC l='TacticalRest's=''e=''v=''m=''a=''/> TacticalRest TacticalRestDay -->
 - Trees are mechanical pumps
-- <BC l='Team, Replant's=''e=''v='Alignment'm=''a=''/> Patrol line replant
+<!-- - <BC l='Team, Replant's=''e=''v='Alignment'm=''a=''/> Patrol line replant -->
 - Space out in the y axis to get to back faster
 - Ubc planter school
 - Practice by skimming water
-- <BC l=''s=''e='Soil'v='Compaction'm=''a=''/> Soil compaction
+<!-- - <BC l=''s=''e='Soil'v='Compaction'm=''a=''/> Soil compaction -->
 - Wine can glabrous tissue cooler sleeve.
 - Toph Beifong is good a Via
 - Use coastal autumn experience as marketing shorts for PlantaBeta
 - Find the exceptions
 - around the planet instead of around the world
 - Ekon ContourLine
-- <BC l='RepairKit's=''e=''v=''m=''a=''/> RepairKit
-- <BC l=''s=''e='Bouldery, Soil, Erosion'v=''m=''a=''/> Bouldery everywhere only top has soil washed away. Every other place has inflow of sediment
+<!-- - <BC l='RepairKit's=''e=''v=''m=''a=''/> RepairKit -->
+<!-- - <BC l=''s=''e='Bouldery, Soil, Erosion'v=''m=''a=''/> Bouldery everywhere only top has soil washed away. Every other place has inflow of sediment -->
 - Treaded wagon
-- <BC l='Markum.Folded, Throw's=''e=''v=''m=''a=''/> Flag is easier to throw folded
+<!-- - <BC l='Markum.Folded, Throw's=''e=''v=''m=''a=''/> Flag is easier to throw folded -->
 - The black swan that needs to be uncovered is the grr of training
 - Record the extremities
-- <BC l=''s=''e=''v='Map'm='Motoid'a=''/> TopographicMap blended with Motoid as a way to visualize Moton. (Motoid == EinsteinSpaghetti)
+<!-- - <BC l=''s=''e=''v='Map'm='Motoid'a=''/> TopographicMap blended with Motoid as a way to visualize Moton. (Motoid == EinsteinSpaghetti) -->
 - Tag myriad using tagspaces then display with vuetify
 - Buy your apprentise Patagonia
 - Kickstart a company where the Planters get the start up finding themselves the better they get at planting the closer we are to developping PlantaBeta
 - Schedule opening clipbox instead of work block barrier to entry into work block is lower than if the task description contained the content
 - Spruce root increases soilteknik and possibly soil Kratos
-- <BC l='MinimumWage's=''e=''v=''m=''a=''/> Wanna surpass minimum wage?
-- <BC l=''s=''e=''v='Affordance'm=''a='String'/> Unable unaffordable
+<!-- - <BC l='MinimumWage's=''e=''v=''m=''a=''/> Wanna surpass minimum wage? -->
+<!-- - <BC l=''s=''e=''v='Affordance'm=''a='String'/> Unable unaffordable -->
 - Learn how to harvest seeds
-- <BC l='BundleWrapper's=''e=''v=''m=''a=''/> BundleWrapper and Markum kickstarter
-- <BC l='Spade.Spike's=''e=''v=''m=''a=''/> <BC l=''s=''e=''v='Enable'm=''a=''/> <BC l='RootPod.RipApart's=''e=''v=''m=''a=''/> SpadeSpike to get both hands free to rip apart interrooted pods
+<!-- - <BC l='BundleWrapper's=''e=''v=''m=''a=''/> BundleWrapper and Markum kickstarter -->
+<!-- <!-- <!-- - <BC l='Spade.Spike's=''e=''v=''m=''a=''/> <BC l=''s=''e=''v='Enable'm=''a=''/> <BC l='RootPod.RipApart's=''e=''v=''m=''a=''/> SpadeSpike to get both hands free to rip apart interrooted pods --> --> -->
 - Miriad of Beta should be a DataTable to allow filtering and local search
 - SpineFlexion pulls bellow open. SpineExtension presses air out
 - Precipice Prominence
@@ -59,25 +59,25 @@ search: false
 - Get in the zone
 - Distance to the back
 - Kickstarter Give them markums
-- <BC l='RoleModel's=''e=''v=''m=''a=''/> Hyperhero
-- <BC l='Tpose's=''e=''v='FrontierLine'm=''a='Gesture'/> T pose for I'm on the line
-- <BC l='NeonMix, Cache, Teamwork, BagIn's=''e=''v=''m=''a=''/> I don't want to cream out all of the pine
+<!-- - <BC l='RoleModel's=''e=''v=''m=''a=''/> Hyperhero -->
+<!-- - <BC l='Tpose's=''e=''v='FrontierLine'm=''a='Gesture'/> T pose for I'm on the line -->
+<!-- - <BC l='NeonMix, Cache, Teamwork, BagIn's=''e=''v=''m=''a=''/> I don't want to cream out all of the pine -->
 - Could you identify a Planter by their motion captured model?
 - Go back down your line i  when you're backfillng walk iut and you won't have enough trees to BoustroLineBack. Especially in trenches since half full trench leaves a hole or forces deadwalking
 - Gripping flag on  spade doesn't affort Palm or IsometricGrip
-- <BC l='Jig's=''e=''v=''m=''a=''/> Jig Songs are jigs in the woodworking sense
+<!-- - <BC l='Jig's=''e=''v=''m=''a=''/> Jig Songs are jigs in the woodworking sense -->
 - Say the purpose of the flag, because Planters usually don't have a purpose and are just flagging by automatic convention. IntentionalFlagging
 - Invite some people into your land
-- <BC l='Neon, Piece, Markum's=''e=''v=''m=''a='Mantra, Attention'/> Mantra for where to direct your attention: piece neon line neon markum neon
-- <BC l='Plot's=''e=''v='Landmark'm=''a='Clarity'/> You don't need to start a plot on a tree if an ekon is more distinctive
+<!-- - <BC l='Neon, Piece, Markum's=''e=''v=''m=''a='Mantra, Attention'/> Mantra for where to direct your attention: piece neon line neon markum neon -->
+<!-- - <BC l='Plot's=''e=''v='Landmark'm=''a='Clarity'/> You don't need to start a plot on a tree if an ekon is more distinctive -->
 - You don't need to be conscious of the thought to look. Like looking before changing lanes or turning in a car or crossing a street
-- <BC l='Advantage's=''e=''v=''m=''a='BeginnersMind'/> Beginner's Mind can be an advantage
-- <BC l='LookTo's=''e=''v=''m='Rhythm'a=''/> Head look like breathing rhythm if swimming front crawl
-- <BC l='Priority's=''e='Stump'v='Predictability'm=''a=''/> Priority to stumps to increase predictability. affordance of neosite selection
+<!-- - <BC l='Advantage's=''e=''v=''m=''a='BeginnersMind'/> Beginner's Mind can be an advantage -->
+<!-- - <BC l='LookTo's=''e=''v=''m='Rhythm'a=''/> Head look like breathing rhythm if swimming front crawl -->
+<!-- - <BC l='Priority's=''e='Stump'v='Predictability'm=''a=''/> Priority to stumps to increase predictability. affordance of neosite selection -->
 - Ektomi is the opposite Moton of SpadeKlose
 - Focus on Anima while you wait for soma to get back into shape or into shape for the first time
-- <BC l='Shirt.Cuff.Button, Remove's=''e=''v=''m=''a=''/> Remove cuff buttons
-- <BC l='Teamwork's=''e=''v=''m=''a='Question'/> Do you mind if I Jump your line?
+<!-- - <BC l='Shirt.Cuff.Button, Remove's=''e=''v=''m=''a=''/> Remove cuff buttons -->
+<!-- - <BC l='Teamwork's=''e=''v=''m=''a='Question'/> Do you mind if I Jump your line? -->
 - Increase decrease density gestures when yelling is too difficult
 - StumpTakt Density
 - Probe on blunt spade

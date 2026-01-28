@@ -10,7 +10,7 @@ Planting can be a dangerous job.
 
 Planters can get injured when they don't adapt MOTONS to the specific situation. <span class="beta">PlantaBeta</span> gives many options to adapt MOTONS for any situation.
 
-<p>Some Planters only know how to <BB :b="{ l:'Klose',s:'Hand',e:'',v:'',m:'', a:''}"/> one way, but there are many different ways. Even slightly varying a MOTONS can reduce repetitive strain injuries.</p>
+<p>Some Planters only know how to  one way, but there are many different ways. Even slightly varying a MOTONS can reduce repetitive strain injuries.</p>
 
 ## Repetitive Strain
 
@@ -28,16 +28,11 @@ PlantaBeta teaches Planters how to move through their 🟩<span class="ekos">EKO
 Falling is a large part of Climbing. <span class="beta">PlantaBeta</span> transfers the knowledge of how to fall safely from climbing to Planting.
 ::: tip Some of the MOTONs used to safely Fall
 
-- <BB :b="{ l:'Absorb',s:'Body',e:'',v:'',m:'', a:''}"/>
-- <BB :b="{ l:'Redirect',s:'Body',e:'',v:'',m:'', a:''}"/>
-
 :::
 
 ## Wrist Tendonitis
 
 Wrist Tendonitis occurs from straining the tissues around the wrist. The strain can be acute, such as when a Planter hits a rock with full force and doesn't absorb the shock, or the strain can be from repetitive use.
-
-<div class="d-flex"><BB :b="{ l:'Absorb',s:'Arm',e:'',v:'',m:'', a:''}"/>&nbsp;during the impact of&nbsp;<BB :b="{ l:'Spade.Slam',s:'',e:'',v:'',m:'', a:''}"/></div>
 
 ## Christmas Toe
 
@@ -45,8 +40,8 @@ Planters kick To remove the layer of organic material off an intended microsite.
 
 A greater knowledge of possible alternative moves can prevent Christmas Toe from ever occuring.
 
-<div class="d-flex py-2"><BB :b="{ l:'Spade',s:'',e:'Skreef',v:'',m:'', a:''}"/>&nbsp;instead of only&nbsp;<BB :b="{ l:'Boot',s:'',e:'Skreef',v:'',m:'', a:''}"/></div>
-<div class="d-flex py-2"><BB :b="{ l:'Klose',s:'Hand',e:'',v:'',m:'', a:''}"/>&nbsp;instead of of&nbsp;<BB :b="{ l:'Klose',s:'Foot',e:'',v:'',m:'', a:''}"/></div>
+<!-- <div class="d-flex py-2"><BB :b="{ l:'Spade',s:'',e:'Skreef',v:'',m:'', a:''}"/>&nbsp;instead of only&nbsp;<BB :b="{ l:'Boot',s:'',e:'Skreef',v:'',m:'', a:''}"/></div>
+<div class="d-flex py-2"> :b="{ l:'Klose',s:'Ha<BBnd',e:'',v:'',m:'', a:''}"/>&nbsp;instead of of&nbsp;<BB :b="{ l:'Klose',s:'Foot',e:'',v:'',m:'', a:''}"/></div> -->
 
 ---
 

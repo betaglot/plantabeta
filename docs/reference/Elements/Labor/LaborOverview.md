@@ -1,10 +1,10 @@
 <script setup>
-import FaktorIkon from '/vue/FaktorIkon.vue'
+import FaktorEmblem from '/vue/FaktorEmblem.vue'
 </script>
 
 # <div class="d-flex justify-center text-h1"><span class="labor">LABOR</span></div>
 
-<FaktorIkon imageSource='/Emblem/Labor-Emblem.png' />
+<FaktorEmblem imageSource='/Emblem/Labor-Emblem.png' />
 
 ## What is <span class="labor">LABOR</span>
 

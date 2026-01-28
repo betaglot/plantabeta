@@ -1,26 +1,26 @@
 <script setup>
 import ElementInfo from '/vue/ElementPage/Page-ElementInfo.vue'
 import ElementTaxonomy from '/vue/ElementPage/Header-ElementTaxonomy.vue'
-let elementName = ""
+let elementName = "Markum"
 
 </script>
 
-# ⭐<span class="labor">Marka</span>
+# ⭐<span class="labor">Markum</span>
 
 <ElementTaxonomy :elementName="elementName" />
 
 <ElementInfo :elementName=elementName />
 
-## Marka Frequency
+## Markum Frequency
 
-- MarkaCount
+- MarkumCount
 
-## MarkaAttributes
+## MarkumAttributes
 
-- MarkaColor
-- MarkaLength
-- MarkaMaterial
-- MarkaLocation
+- MarkumColor
+- MarkumLength
+- MarkumMaterial
+- MarkumLocation
 
 ---
 
@@ -31,17 +31,17 @@ let elementName = ""
 <!-- =================================================== -->
 ::: details &
 
-- PlantaBeta.Labor.Marka
+- PlantaBeta.Labor.Markum
     - BlockBoundaryFlag
     - WildlifeTreePatch
     - RiparianArea
 
-- KLIMBETA.LaborMarka
-    - RouteTape is LaborMarka
+- KLIMBETA.LaborMarkum
+    - RouteTape is LaborMarkum
     - BonusHold
     - RouteBoundary
-    - FinishTaktMarka
-        - Takt and not Plast since you can start on a Sidewall
-    - StartTaktMarka
+    - FinishSiteMarkum
+        - Site and not Plast since you can start on a Sidewall
+    - StartSiteMarkum
 
 :::

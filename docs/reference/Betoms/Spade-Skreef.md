@@ -3,11 +3,11 @@ aside: false
 ---
 
 # [Spade,Skreef]
-
+<!-- 
 <BT
     l='Spade'
     m='Skreef'
-/>
+/> -->
 
 ## <py>Elements</py>
 
@@ -18,10 +18,10 @@ aside: false
 ### 🟠Skreef
 
 ## <py>Subtypes</py>
-
+<!-- 
 - <BC l='Spade's=''e='Stump'v=''m='Skreef.Lever'a=''/>
 - <BC l='Spade's=''e=''v=''m='Skreef.Collar.2Finger'a=''/>
-- <BC l='Spade's=''e=''v=''m='Skreef.X'a=''/>
+- <BC l='Spade's=''e=''v=''m='Skreef.X'a=''/> -->
 
 ## <py>Examples</py>
 

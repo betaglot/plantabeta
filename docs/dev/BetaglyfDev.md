@@ -23,8 +23,6 @@ Motor can be filled in after
 
 Anima usually isn't visible
 
-## <BB labor="Aktion" soma="Hand>>" ekos="" via="" motor="" a=""/>
-
 - Mouse
 
     - Rightclick <BB labor="dsd" soma="" ekos="" via="" motor="" a=""/>

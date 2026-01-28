@@ -13,9 +13,9 @@ let elementName = "Box"
 
 <PageImage source="Labor_Box.jpeg" />
 
-- <BC l='Box_Handle's=''e=''v='Takt'm=''a=''/> is the main 🔻<span class="via">Takt</span> of ⭐<span class="labor">Box</span>.
+<!-- - <BC l='Box_Handle's=''e=''v='Takt'm=''a=''/> is the main 🔻<span class="via">Takt</span> of ⭐<span class="labor">Box</span>. -->
 
-- <BC l='Box_Corner's=''e=''v='Takt'm=''a=''/> is a 🔻<span class="via">Takt</span> used only when carrying a single box.
+<!-- - <BC l='Box_Corner's=''e=''v='Takt'm=''a=''/> is a 🔻<span class="via">Takt</span> used only when carrying a single box. -->
 
 ---
 

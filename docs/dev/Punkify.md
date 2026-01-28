@@ -165,7 +165,6 @@ Betoms must include at least two elements and are surrounded by square brackets
 
 or represented digitally as these boxes
 
-<BC l='LABOR's='SOMA'e='EKOS'v='VIA'm='MOTOR'a='ANIMA'/>
 
 The order in which the elements of each category is listed is fixed
 
@@ -177,10 +176,6 @@ The order in which the elements of each category is listed is fixed
 1. 💜 <span class="anima">ANIMA</span>
 
 ### Examples of Betoms
-
-<BC l='Skateboard, Grind's=''e='Rail'v=''m='Fast'a=''/>
-<BC l='Reach's='Arm'e='Sloper'v='Left'm=''a=''/>
-<BC l=''s=''e=''v=''m=''a=''/>
 
 ## Seeing Betoms in Images
 

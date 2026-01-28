@@ -46,7 +46,7 @@ Brazo.Anterior-Down,🟠<span class="motor">Ama</span>
 
 ---
 
-- <BC l='Send's='Brazo_Anterior'e='Plast'v='Down'm='Ama'a='Delicate'/>
+<!-- - <BC l='Send's='Brazo_Anterior'e='Plast'v='Down'm='Ama'a='Delicate'/>
 
 - <BC l='Dance's='Brazo_Anterior'e='Plast'v='Down'm='Ama'a='Delicate'/>
 
@@ -54,7 +54,7 @@ Brazo.Anterior-Down,🟠<span class="motor">Ama</span>
 
 - <BC l=''s='Brazo'e=''v=''m='Ama'a=''/>
 
-- <BC l='Dance's=''e=''v=''m='Ama'a=''/>
+- <BC l='Dance's=''e=''v=''m='Ama'a=''/> -->
 
 NameSpace
 
@@ -63,7 +63,7 @@ Betaglot.PlantaBeta.Sistem.Teori.Element.Ekos.Definition.Stump
 ## By Negation
 
 - Definition(Element)
-    - <BC l=''s=''e='Wet_Soil'v='Takt'm=''a=''/> is not an Element
+    <!-- - <BC l=''s=''e='Wet_Soil'v='Takt'm=''a=''/> is not an Element -->
         - 🟩<span class="ekos">Wet_Soil</span> is an element of <span class="ekos">EKOS</span> and 🔻<span class="via">Takt</span> is an element of <span class="via">VIA</span>
 
 ## Based on Euclid's Elements

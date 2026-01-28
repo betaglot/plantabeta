@@ -57,7 +57,7 @@ search: false
             - PRAKTIK
 - 1.15
     - You stop paying attention to the spade during the moton, when planting with non dominant side. MotorControl requires attention. Dominant side has more developed attention hooks
-        - <BC l='Spade's='NonDominant'e=''v=''m=''a='Attention'/>
+        <!-- - <BC l='Spade's='NonDominant'e=''v=''m=''a='Attention'/> -->
         - You must adapt to how the ⭐<span class="labor">Spade</span> is moving.  
             - Guide
             - Herd (verb)
@@ -69,24 +69,24 @@ search: false
         - "Stop thinking", "discursive thoughts"
         - Focus can be about (Exclusion = NOT Excessive Inclusion)
 - 1.16
-    - <BC l='Boot.Rand's=''e=''v=''m='Purga'a=''/>
+    <!-- - <BC l='Boot.Rand's=''e=''v=''m='Purga'a=''/> -->
     - Betom = Tuple
-    - <BC l='Boot.Sole's=''e=''v=''m='Purga'a=''/>
+    <!-- - <BC l='Boot.Sole's=''e=''v=''m='Purga'a=''/> -->
 - 1.17
     - Reorient Neon while picking up by twisting. Like Spin the Bottle
-        - <BC l=''s='Mano'e=''v=''m='Twist'a=''/>
-        - <BC l=''s='Mano'e=''v=''m='Opposition'a=''/>
+        <!-- - <BC l=''s='Mano'e=''v=''m='Twist'a=''/> -->
+        <!-- - <BC l=''s='Mano'e=''v=''m='Opposition'a=''/> -->
 - 1.18
     - InertiaPurga or ScrapePurga
-    - <BC l=''s=''e=''v=''m='Purga.Inertia'a=''/>
-    - <BC l=''s=''e=''v=''m='Purga.Scrape'a=''/>
+    <!-- - <BC l=''s=''e=''v=''m='Purga.Inertia'a=''/> -->
+    <!-- - <BC l=''s=''e=''v=''m='Purga.Scrape'a=''/> -->
     - Diagram of TriPlanter Fill Pattern
         - Middle Planter follows Zone.Midline
         - Flankers do <span class="via">FillPattern(ZigZagLine)</span>
 - 1.19
     - First submoton of Klose gathers, then secon Moton Stamps
         - Gather then Kompakt
-    - <BC l='(Spade, Boot.Rand)'s=''e=''v=''m='Purga'a=''/>
+    <!-- - <BC l='(Spade, Boot.Rand)'s=''e=''v=''m='Purga'a=''/> -->
         - [Rand, Purga.Scrape] along SpadeEdge
         - SpadeProp.Vertical to keep Spade Stationary
 - 1.20
@@ -105,7 +105,7 @@ search: false
         - Numbered Ikon
 - 1.23
     - Blinding yourself with the sun each time you look for the drip line
-    - <BC l='Spade's=''e=''v=''m='Pry.PalmPush'a=''/>
+    <!-- - <BC l='Spade's=''e=''v=''m='Pry.PalmPush'a=''/> -->
         - Open Hand in to PalmPush to avoid hitting an Ekon with your knuckles
         - like closing a drawer
         - Don't allow anything (Labon,Somon,Ekon) to curl over edge
@@ -141,11 +141,11 @@ search: false
                 - It's easier to walk with evenly distributed Neons and WalkInPieceCache has more walking with full bags than PlantInPieceCache
                     - Kuboi of Injury
 - 2.09
-    - Taking a step closer to hole is less Kuboi than stepping backwards, since you can see the [Boot,Anterior,Ekos]  of your Boots, but not the <BC l='Boot's='Posterior'e='EKOS'v=''m=''a=''/>
+    <!-- - Taking a step closer to hole is less Kuboi than stepping backwards, since you can see the [Boot,Anterior,Ekos]  of your Boots, but not the <BC l='Boot's='Posterior'e='EKOS'v=''m=''a=''/> -->
         - 🔷<span class="soma">Anterior</span> is a Space relative to SOMA, not a 🔻<span class="via">Direction</span>
             - A 🔷<span class="soma">SOMON</span>, not a 🔻<span class="via">VION</span>
 - 2.10
-    - <BC l=''s='Forearm'e=''v='(Horizontal || ParallelTo(Blade.Tip, Takt.Line))'m=''a=''/>
+    <!-- - <BC l=''s='Forearm'e=''v='(Horizontal || ParallelTo(Blade.Tip, Takt.Line))'m=''a=''/> -->
         - Attributes of a 🔻<span class="via">Takt</span>
             - Takt.Line
             - Takt.Shape
@@ -161,7 +161,7 @@ search: false
             - Proposition
     - Definitions don't have proofs
 - 2.14
-    - <BC l='Boot's=''e='Skreef'v=''m='Rasp'a=''/> has no impact, unlike <BC l='Boot's=''e='Skreef'v=''m='Kick'a=''/>
+    <!-- <!-- - <BC l='Boot's=''e='Skreef'v=''m='Rasp'a=''/> has no impact, unlike <BC l='Boot's=''e='Skreef'v=''m='Kick'a=''/> --> -->
     - Bellows unfold from ChestPack then attach to waist belt
     - If a Rock or hole DeflectingObstacle rotates the Blade onKontakt, then KorpoOrbit around Spade until Shoulders are SquaredUp with Spade
         - Adapt your position relative to Spade, since the 🟩<span class="ekos">Soil</span> constrains BladePosition more than SOMA
@@ -295,9 +295,9 @@ search: false
 - 4.18
     - NeoBetom(NeonSlide, NeonGuide, NeonSupport)
     - Leave space for AlloPlanter to pass by
-        - <BC l=''s='Anterior'e=''v=''m='Pass'a=''/>
-        - <BC l=''s='Posterior'e=''v=''m='Pass'a=''/>
-        - <BC l=''s='Lateral'e=''v=''m='Pass'a=''/>
+        <!-- - <BC l=''s='Anterior'e=''v=''m='Pass'a=''/> -->
+        <!-- - <BC l=''s='Posterior'e=''v=''m='Pass'a=''/> -->
+        <!-- - <BC l=''s='Lateral'e=''v=''m='Pass'a=''/> -->
 - 4.19
     - Keep your Spade up like SpearFishing
     - MetalBoot armor like Toph's Daughter's Army. No Metal Heel
