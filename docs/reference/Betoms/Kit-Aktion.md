@@ -6,8 +6,7 @@ search: false
 BetomName=""
 </script>
 
-# [Kit,MOTON]
-# <BB labor="" soma="" ekos="" via="" motor="" anima=""/>
+# <BB labor="Kit.Aktion" soma="" ekos="" via="" motor="" anima=""/>
 
 AlsoKnownAs(CacheBag)
 

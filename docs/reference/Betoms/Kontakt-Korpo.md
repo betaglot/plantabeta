@@ -6,8 +6,7 @@ search: false
 BetomName=""
 </script>
 
-# 🔷Korpo,🟠Kontakt
-# <BB labor="" soma="" ekos="" via="" motor="" anima=""/>
+# <BB labor="Kontakt" soma="Korpo" ekos="" via="" motor="" anima=""/>
 
 ---
 
@@ -18,6 +17,6 @@ BetomName=""
 <!-- =================================================== -->
 ::: details &
 
--
+- Laying on the Ground is <BB labor="Kontakt" soma="Korpo" ekos="" via="" motor="" anima=""/>
 
 :::

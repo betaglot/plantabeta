@@ -6,8 +6,7 @@ search: false
 BetomName=""
 </script>
 
-# [Box,Stack]
-# <BB labor="" soma="" ekos="" via="" motor="" anima=""/>
+# <BB labor="Box.Stack" soma="" ekos="" via="" motor="" anima=""/>
 
 ---
 

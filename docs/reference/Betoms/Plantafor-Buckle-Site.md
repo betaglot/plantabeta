@@ -6,8 +6,7 @@ search: false
 BetomName=""
 </script>
 
-# [Bundle,Mano]
-# <BB labor="" soma="" ekos="" via="" motor="" anima=""/>
+# <BB labor="Plantafor.Buckle" soma="" ekos="" via="Site" motor="" anima=""/>
 
 ---
 
@@ -18,6 +17,6 @@ BetomName=""
 <!-- =================================================== -->
 ::: details &
 
-- Mano the Wrapper to avoid pulling out a Neon
+-
 
 :::

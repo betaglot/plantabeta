@@ -6,8 +6,7 @@ search: false
 BetomName=""
 </script>
 
-# 🔷Head-Away-Rotate
-# <BB labor="" soma="" ekos="" via="" motor="" anima=""/>
+# <BB labor="Rotate" soma="Head" ekos="" via="" motor="" anima=""/>
 
 ---
 
@@ -18,6 +17,9 @@ BetomName=""
 <!-- =================================================== -->
 ::: details &
 
+- ⭐<span class="labor">Aktion.Rotate</span>, 🔻<span class="via">Transformation.Rotation</span>
+    - Rotate is a Verb, Rotation is a noun
+    - Rotation is a required element of ⭐<span class="labor">Pivot</span> and ⭐<span class="labor">Rotate</span>  
 - SoilExplode
     - UnstableSlopedLand
 - ToPreventInjury

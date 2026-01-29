@@ -6,8 +6,8 @@ search: false
 BetomName=""
 </script>
 
-# [Boot,Mano]
-# <BB labor="Grip.Boot" soma="" ekos="" via="" motor="" anima=""/>
+# <BB labor="Glove.Mano" soma="" ekos="" via="" motor="" anima=""/>
+
 ---
 
 <!-- =================================================== -->
@@ -17,10 +17,14 @@ BetomName=""
 <!-- =================================================== -->
 ::: details &
 
-- BootHeelMano
-- BootHeelToeMano
-    - BootOff
-    - BootOn
-- BootToeMano
+- GloveRevert
+    - Glove can turn inside out when it's being removed
+    - How to revert your glove without getting dirt on the inside?
+    - FingerRevert
+    - GloveRevert
+- FingertipMano
+    - GloveOff
+- CuffMano
+    - Minimize Kontakt to prevent grit from getting into glove
 
 :::

@@ -6,8 +6,7 @@ search: false
 BetomName=""
 </script>
 
-# [Flora,Catch]
-# <BB labor="" soma="" ekos="" via="" motor="" anima=""/>
+# <BB labor="Catch" soma="" ekos="Flora" via="" motor="" anima=""/>
 
 > Grab vegetation before colliding with it
 

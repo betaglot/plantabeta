@@ -6,8 +6,8 @@ search: false
 BetomName=""
 </script>
 
-# [Box,MOTON]
 # <BB labor="Box.Aktion" soma="" ekos="" via="" motor="" anima=""/>
+
 🔻BoxHandle is the main Contact of Box.
 
 🔻BoxCorner is a Contact used only when carrying a single box.

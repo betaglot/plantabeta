@@ -1,18 +1,12 @@
-# 🔻 <span class="via">BeeLine</span>
-# <BB labor="" soma="" ekos="" via="" motor="" anima=""/>
+---
+aside: false
+search: false
+---
+<script setup>
+BetomName=""
+</script>
 
-## AlsoKnownAs
-
-- B-Line
-    - ShortestDistance from A to B
-- StraightLine
-- DirectLine
-
-As the crow flies
-
-As the Bee flies
-
-!Obstacles
+# <BB labor="Kompress" soma="<>Arm" ekos="" via="" motor="" anima=""/>
 
 ---
 
@@ -23,6 +17,9 @@ As the Bee flies
 <!-- =================================================== -->
 ::: details &
 
--
+- (<>Arm == Arm+Arm)
+- ArmClamp
+- Jouster
+- ArmPit
 
 :::

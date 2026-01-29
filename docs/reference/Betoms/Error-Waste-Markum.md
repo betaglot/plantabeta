@@ -6,8 +6,12 @@ search: false
 BetomName=""
 </script>
 
-# [Glove,Mano]
-# <BB labor="" soma="" ekos="" via="" motor="" anima=""/>
+# <BB labor="Error.Waste,Markum" soma="" ekos="" via="" motor="" anima=""/>
+
+- LowMarka
+- MarkaError
+- Marka will not be used in the Future
+- Marka which has blown away from it's intended position
 
 ---
 
@@ -18,14 +22,6 @@ BetomName=""
 <!-- =================================================== -->
 ::: details &
 
-- GloveRevert
-    - Glove can turn inside out when it's being removed
-    - How to revert your glove without getting dirt on the inside?
-    - FingerRevert
-    - GloveRevert
-- FingertipMano
-    - GloveOff
-- CuffMano
-    - Minimize Kontakt to prevent grit from getting into glove
+-
 
 :::

@@ -6,8 +6,8 @@ search: false
 BetomName=""
 </script>
 
-# [BootHeel,DragKlose]
 # <BB labor="Klose.Boot.Heel.Drag" soma="" ekos="" via="" motor="" anima=""/>
+
 ---
 
 <!-- =================================================== -->

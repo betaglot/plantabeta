@@ -6,8 +6,7 @@ search: false
 BetomName=""
 </script>
 
-# [Bundle,MOTON]
-# <BB labor="" soma="" ekos="" via="" motor="" anima=""/>
+# <BB labor="Bundle.Aktion" soma="" ekos="" via="" motor="" anima=""/>
 
 ---
 

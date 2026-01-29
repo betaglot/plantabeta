@@ -6,9 +6,7 @@ search: false
 BetomName=""
 </script>
 
-# 🔷Base-❌<error>Error</error>
-# <BB labor="" soma="" ekos="" via="" motor="" anima=""/>
-
+# <BB labor="Error" soma="Leg" ekos="" via="" motor="" anima=""/>
 
 ## FootMOTONError
 

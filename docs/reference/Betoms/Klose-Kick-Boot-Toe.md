@@ -6,8 +6,8 @@ search: false
 BetomName=""
 </script>
 
-# [BootToe,KickKlose]
 # <BB labor="Klose.Kick.Boot.Toe" soma="" ekos="" via="" motor="" anima=""/>
+
 ---
 
 <!-- =================================================== -->

@@ -6,8 +6,7 @@ search: false
 BetomName=""
 </script>
 
-# [Strap,Kontakt]
-# <BB labor="" soma="" ekos="" via="" motor="" anima=""/>
+# <BB labor="Bundle.Mano" soma="" ekos="" via="" motor="" anima=""/>
 
 ---
 
@@ -18,6 +17,6 @@ BetomName=""
 <!-- =================================================== -->
 ::: details &
 
--
+- Mano the Wrapper to avoid pulling out a Neon
 
 :::

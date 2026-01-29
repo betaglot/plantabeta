@@ -5,9 +5,8 @@ search: false
 <script setup>
 BetomName=""
 </script>
-# ⭐KramponAmble
-# <BB labor="" soma="" ekos="" via="" motor="" anima=""/>
 
+# <BB labor="Amble.Krampon" soma="" ekos="" via="" motor="" anima=""/>
 
 ---
 
@@ -18,6 +17,6 @@ BetomName=""
 <!-- =================================================== -->
 ::: details &
 
-- Using Krampon
+- Using Krampon or kicking your Boot into a Slope like a Krampon
 
 :::

@@ -6,8 +6,8 @@ search: false
 BetomName=""
 </script>
 
-# Bag,🔻Takt
 # <BB labor="Bag" soma="" ekos="" via="Site" motor="" anima=""/>
+
 ---
 
 <!-- =================================================== -->

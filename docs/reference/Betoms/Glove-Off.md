@@ -6,8 +6,7 @@ search: false
 BetomName=""
 </script>
 
-# [Glove,Off]
-# <BB labor="" soma="" ekos="" via="" motor="" anima=""/>
+# <BB labor="Glove.Off" soma="" ekos="" via="" motor="" anima=""/>
 
 ---
 

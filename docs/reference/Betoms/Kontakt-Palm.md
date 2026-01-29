@@ -5,8 +5,8 @@ search: false
 <script setup>
 BetomName=""
 </script>
-# ⭐PalmKontakt
-# <BB labor="" soma="" ekos="" via="" motor="" anima=""/>
+
+# <BB labor="Kontakt" soma="Hand.Palm" ekos="" via="" motor="" anima=""/>
 
 ---
 

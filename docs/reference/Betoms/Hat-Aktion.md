@@ -6,8 +6,7 @@ search: false
 BetomName=""
 </script>
 
-# [Hat,MOTON]
-# <BB labor="" soma="" ekos="" via="" motor="" anima=""/>
+# <BB labor="Hat.Aktion" soma="" ekos="" via="" motor="" anima=""/>
 
 ---
 

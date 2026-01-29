@@ -5,8 +5,8 @@ search: false
 <script setup>
 BetomName=""
 </script>
-# 🟠SpadeError
-# <BB labor="" soma="" ekos="" via="" motor="" anima=""/>
+
+# <BB labor="Error,Spade" soma="" ekos="" via="" motor="" anima=""/>
 
 ---
 

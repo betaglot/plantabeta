@@ -6,8 +6,7 @@ search: false
 BetomName=""
 </script>
 
-# 🔷Base,🟠Kneel
-# <BB labor="" soma="" ekos="" via="" motor="" anima=""/>
+# <BB labor="Kneel" soma="" ekos="Ground" via="" motor="" anima=""/>
 
 ---
 

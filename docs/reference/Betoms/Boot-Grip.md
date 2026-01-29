@@ -6,9 +6,7 @@ search: false
 BetomName=""
 </script>
 
-# 🔷Base,🟠Ama
-# <BB labor="Ama" soma="Leg" ekos="" via="" motor="" anima=""/>
-
+# <BB labor="Boot.Mano" soma="" ekos="" via="" motor="" anima=""/>
 ---
 
 <!-- =================================================== -->
@@ -18,10 +16,10 @@ BetomName=""
 <!-- =================================================== -->
 ::: details &
 
-- <https://en.wikipedia.org/wiki/Polynesian_multihull_terminology>
-
-- BaseAnteriorAma
-- BasePosteriorAma
-- BaseLateralAma
+- BootHeelMano
+- BootHeelToeMano
+    - BootOff
+    - BootOn
+- BootToeMano
 
 :::

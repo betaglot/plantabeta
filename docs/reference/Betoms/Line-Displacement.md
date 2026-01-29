@@ -5,12 +5,23 @@ search: false
 <script setup>
 BetomName=""
 </script>
-# ⭐ManoCompress
-# <BB labor="" soma="" ekos="" via="" motor="" anima=""/>
 
-Aliases: Pinch
+# <BB labor="" soma="" ekos="" via="Line.Displacement" motor="" anima=""/>
 
-If there wasn't something in your hand then HandCompress would result in a Fist
+## AlsoKnownAs
+
+- B-Line
+    - ShortestDistance from A to B
+- StraightLine
+- DirectLine
+
+- A line the same Distance as Displacement
+
+As the crow flies
+
+As the Bee flies
+
+!Obstacles
 
 ---
 

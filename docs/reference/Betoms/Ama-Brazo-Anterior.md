@@ -6,7 +6,6 @@ search: false
 BetomName=""
 </script>
 
-# 🔷Brazo,🟠Ama
 # <BB labor="Ama" soma="Arm" ekos="" via="" motor="" anima=""/>
 
 ## BrazoAma.Problem

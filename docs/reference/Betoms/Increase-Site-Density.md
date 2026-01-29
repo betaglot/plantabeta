@@ -1,6 +1,12 @@
+---
+aside: false
+search: false
+---
+<script setup>
+BetomName=""
+</script>
 
-# 🔻<span class="via">IncreaseSiteDensity</span>
-# <BB labor="" soma="" ekos="" via="" motor="" anima=""/>
+# <BB labor="Increase" soma="" ekos="" via="Site.Density" motor="" anima=""/>
 
 ---
 

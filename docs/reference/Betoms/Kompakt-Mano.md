@@ -6,8 +6,7 @@ search: false
 BetomName=""
 </script>
 
-# Mano🟠Kompakt
-# <BB labor="" soma="" ekos="" via="" motor="" anima=""/>
+# <BB labor="Kompakt.Mano" soma="" ekos="" via="" motor="" anima=""/>
 
 ---
 
@@ -18,6 +17,7 @@ BetomName=""
 <!-- =================================================== -->
 ::: details &
 
+- (Grip != Hand), (Grip = Requires(Hand))
 - Fist
 
 :::

@@ -1,6 +1,12 @@
+---
+aside: false
+search: false
+---
+<script setup>
+BetomName=""
+</script>
 
-# 🔻<span class="via">PlanTimeConstraint</span>
-# <BB labor="" soma="" ekos="" via="" motor="" anima=""/>
+# <BB labor="" soma="" ekos="" via="Constraint" motor="Time" anima=""/>
 
 After a BlockMOTON you are given a piece and you only have 70 minutes before DayFinishTime
 

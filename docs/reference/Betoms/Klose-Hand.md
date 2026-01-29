@@ -6,8 +6,7 @@ search: false
 BetomName=""
 </script>
 
-# 🟠 HandSeal
-# <BB labor="" soma="" ekos="" via="" motor="" anima=""/>
+# <BB labor="Klose.Mano" soma="" ekos="" via="" motor="" anima=""/>
 
 ---
 

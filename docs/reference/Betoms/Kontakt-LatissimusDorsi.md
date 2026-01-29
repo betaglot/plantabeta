@@ -6,8 +6,7 @@ search: false
 BetomName=""
 </script>
 
-# Latissimus,🟠Kontakt
-# <BB labor="" soma="" ekos="" via="" motor="" anima=""/>
+# <BB labor="Kontakt" soma="LatissimusDorsi" ekos="" via="" motor="" anima=""/>
 
 ---
 

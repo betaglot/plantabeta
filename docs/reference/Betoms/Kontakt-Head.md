@@ -6,8 +6,7 @@ search: false
 BetomName=""
 </script>
 
-# 🔷Head,🟠Kontakt
-# <BB labor="" soma="" ekos="" via="" motor="" anima=""/>
+# <BB labor="Kontakt" soma="Head" ekos="" via="" motor="" anima=""/>
 
 ---
 

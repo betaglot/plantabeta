@@ -6,8 +6,7 @@ search: false
 BetomName=""
 </script>
 
-# [BootDorsi,Kontakt]
-# <BB labor="" soma="" ekos="" via="" motor="" anima=""/>
+# <BB labor="Kontakt.Boot.Dorsi" soma="" ekos="" via="" motor="" anima=""/>
 
 ---
 

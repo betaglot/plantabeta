@@ -6,8 +6,7 @@ search: false
 BetomName=""
 </script>
 
-# 🔷Base,🟠Kontakt
-# <BB labor="" soma="" ekos="" via="" motor="" anima=""/>
+# <BB labor="Kontakt" soma="Leg" ekos="" via="" motor="" anima=""/>
 
 > Kontakt is a Verb
 
@@ -21,6 +20,5 @@ BetomName=""
 ::: details &
 
 - Kontakt is a Verb
-- Takt is the Ekon being Kontakted
 
 :::

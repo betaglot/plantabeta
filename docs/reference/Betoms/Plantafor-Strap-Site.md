@@ -6,8 +6,8 @@ search: false
 BetomName=""
 </script>
 
-# [Buckle,Kontakt]
-# <BB labor="" soma="" ekos="" via="" motor="" anima=""/>
+# [Strap,Kontakt]
+# <BB labor="Plantafor.Strap" soma="" ekos="" via="Site" motor="" anima=""/>
 
 ---
 

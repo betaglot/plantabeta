@@ -6,8 +6,7 @@ search: false
 BetomName=""
 </script>
 
-# [Box,Slide]
-# <BB labor="" soma="" ekos="" via="" motor="" anima=""/>
+# <BB labor="Box.Slide" soma="" ekos="" via="" motor="" anima=""/>
 
 ---
 

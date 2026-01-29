@@ -5,8 +5,8 @@ search: false
 <script setup>
 BetomName=""
 </script>
-# ⭐ManoDragSeal
-# <BB labor="" soma="" ekos="" via="" motor="" anima=""/>
+
+# <BB labor="Klose.Drag.Mano" soma="" ekos="" via="" motor="" anima=""/>
 
 <!-- =================================================== -->
 <!-- =================================================== -->
@@ -15,8 +15,10 @@ BetomName=""
 <!-- =================================================== -->
 ::: details &
 
+- ⭐<span class="labor">Mano</span> == Grip, 🔷<span class="soma">Hand</span>
+    - Klose.Mano is like Klose.Grip or Klose."Hand Move"
 - LockedClawMano
     - Isometric, not concentric
-- Diagonal or Saggital
+- Diagonal or Sagittal
 
 :::

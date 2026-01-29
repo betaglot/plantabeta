@@ -6,7 +6,6 @@ search: false
 BetomName=""
 </script>
 
-# [Boot,On]
 # <BB labor="Boot.On" soma="" ekos="" via="" motor="" anima=""/>
 
 ---
@@ -18,7 +17,7 @@ BetomName=""
 <!-- =================================================== -->
 ::: details &
 
-- [Boot.On] is an Aktion do to a Boot [Object,Verb], [Drag.Boot] is an Aktion done with a Boot [Verb,Object]. 
+- [Boot.On] is an Aktion do to a Boot [Object,Verb], [Drag.Boot] is an Aktion done with a Boot [Verb,Object].
 - TibiorOff
 
 1. LaceLoosen

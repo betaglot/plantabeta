@@ -6,8 +6,7 @@ search: false
 BetomName=""
 </script>
 
-# [Box,Transport]
-# <BB labor="" soma="" ekos="" via="" motor="" anima=""/>
+# <BB labor="Box.Transport" soma="" ekos="" via="" motor="" anima=""/>
 
 ---
 

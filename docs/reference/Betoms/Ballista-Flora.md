@@ -6,7 +6,6 @@ search: false
 BetomName=""
 </script>
 
-# [Log,Launch]
 # <BB labor="Ballista" soma="" ekos="Log" via="" motor="" anima=""/>
 
 > Launch a Log away from microsite with your leg

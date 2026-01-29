@@ -6,8 +6,8 @@ search: false
 BetomName=""
 </script>
 
-# [BootArch,Klose]
-# <BB labor="Boot.Arch.Klose" soma="" ekos="" via="" motor="" anima=""/>
+# <BB labor="Klose.Boot.Arch" soma="" ekos="" via="" motor="" anima=""/>
+
 ---
 
 <!-- =================================================== -->

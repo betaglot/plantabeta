@@ -6,8 +6,7 @@ search: false
 BetomName=""
 </script>
 
-# 🔷Korpo,🟠AmbleBranta
-# <BB labor="Branta" soma="" ekos="" via="" motor="" anima=""/>
+# <BB labor="Branta" soma="Korpo" ekos="" via="" motor="" anima=""/>
 
 ---
 
