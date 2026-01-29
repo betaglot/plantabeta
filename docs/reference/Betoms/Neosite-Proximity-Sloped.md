@@ -6,7 +6,7 @@ search: false
 BetomName=""
 </script>
 
-# <BB labor="" soma="" ekos="Prokline" via="Proximity.Adaptive" motor="" anima=""/>
+# <BB   ekos="Prokline" via="Proximity.Adaptive"  />
 
 Hypotenuse or Horizontal side of Right Triangle
 

@@ -6,7 +6,7 @@ search: false
 BetomName=""
 </script>
 
-# <BB labor="Neosite" soma="" ekos="" via="Alignment.Diamond" motor="" anima=""/>
+# <BB labor="Neosite"   via="Alignment.Diamond"  />
 
 ![ViaIkon](/Emblem/Via-Emblem.png)
 

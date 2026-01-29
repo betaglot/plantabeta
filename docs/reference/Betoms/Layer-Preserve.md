@@ -6,7 +6,7 @@ search: false
 BetomName=""
 </script>
 
-# <BB labor="Layer.Preserve" soma="" ekos="" via="" motor="" anima=""/>
+# <BB labor="Layer.Preserve"     />
 
 ---
 

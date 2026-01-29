@@ -6,7 +6,7 @@ search: false
 BetomName=""
 </script>
 
-# <BB labor="" soma="" ekos="" via="Constraint" motor="Time" anima=""/>
+# <BB    via="Constraint" motor="Time" />
 
 After a BlockMOTON you are given a piece and you only have 70 minutes before DayFinishTime
 

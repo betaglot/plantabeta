@@ -6,7 +6,7 @@ search: false
 BetomName=""
 </script>
 
-# <BB labor="Klose.Boot" soma="" ekos="" via="" motor="" anima=""/>
+# <BB labor="Klose.Boot"     />
 
 Aliases: FootClose
 

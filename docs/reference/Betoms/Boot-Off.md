@@ -6,8 +6,8 @@ search: false
 BetomName=""
 </script>
 
-# [Boot,Off]
-# <BB labor="Boot.Off" soma="" ekos="" via="" motor="" anima=""/>
+# <BB labor="Boot.Off"/>
+
 ---
 
 <!-- =================================================== -->

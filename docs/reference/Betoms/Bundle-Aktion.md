@@ -6,7 +6,7 @@ search: false
 BetomName=""
 </script>
 
-# <BB labor="Bundle.Aktion" soma="" ekos="" via="" motor="" anima=""/>
+# <BB labor="Bundle.Aktion"     />
 
 ---
 

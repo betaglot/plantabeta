@@ -6,7 +6,7 @@ search: false
 BetomName=""
 </script>
 
-# <BB labor="Mano" soma="Hand" ekos="" via="" motor="" anima=""/>
+# <BB labor="Mano" soma="Hand"    />
 
 ## Mano.Anatomy
 

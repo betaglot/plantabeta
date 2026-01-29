@@ -6,7 +6,7 @@ search: false
 BetomName=""
 </script>
 
-# <BB labor="Klose.Drag.Mano" soma="" ekos="" via="" motor="" anima=""/>
+# <BB labor="Klose.Drag.Mano"     />
 
 <!-- =================================================== -->
 <!-- =================================================== -->

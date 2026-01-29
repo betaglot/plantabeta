@@ -6,9 +6,9 @@ search: false
 BetomName=""
 </script>
 
-# Pocket,MOTON
-# <BB labor="" soma="" ekos="" via="" motor="" anima=""/>
+# <BB labor="Clothing.Pocket"     />
 
+<BB      />
 ---
 
 <!-- =================================================== -->
@@ -18,6 +18,6 @@ BetomName=""
 <!-- =================================================== -->
 ::: details &
 
--
+- Unzipping a Pocket with one Hand
 
 :::

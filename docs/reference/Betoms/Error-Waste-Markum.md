@@ -6,7 +6,7 @@ search: false
 BetomName=""
 </script>
 
-# <BB labor="Error.Waste,Markum" soma="" ekos="" via="" motor="" anima=""/>
+# <BB labor="Error.Waste,Markum"     />
 
 - LowMarka
 - MarkaError

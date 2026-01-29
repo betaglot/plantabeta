@@ -7,7 +7,7 @@ BetomName=""
 </script>
 
 # [Bag,In]
-# <BB labor="Plant" soma="" ekos="" via="" motor="" anima=""/>
+# <BB labor="Plant"     />
 
 Aliases: Bag up some trees
 

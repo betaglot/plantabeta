@@ -7,7 +7,7 @@ search: false
 BetomName=""
 </script>
 
-# <BB labor="Piece.Tactic" soma="" ekos="" via="Perimeter" motor="" anima=""/>
+# <BB labor="Piece.Tactic"   via="Perimeter"  />
 
 > Plant a ParaLine along the perimeter of your piece until you run out of trees, then deadwalk back.
 

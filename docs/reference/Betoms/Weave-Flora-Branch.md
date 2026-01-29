@@ -6,8 +6,7 @@ search: false
 BetomName=""
 </script>
 
-# [FloraBranch,Weave]
-# <BB labor="" soma="" ekos="" via="" motor="" anima=""/>
+# <BB labor="Weave" soma="" ekos="Flora.Branch" via="" motor="" anima=""/>
 
 ---
 

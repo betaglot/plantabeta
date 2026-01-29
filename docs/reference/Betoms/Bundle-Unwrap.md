@@ -6,7 +6,7 @@ search: false
 BetomName=""
 </script>
 
-# <BB labor="Bundle.Unwrap" soma="" ekos="" via="" motor="" anima=""/>
+# <BB labor="Bundle.Unwrap"     />
 
 ---
 

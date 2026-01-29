@@ -6,7 +6,7 @@ search: false
 BetomName=""
 </script>
 
-# <BB labor="" soma="" ekos="" via="Line.Displacement" motor="" anima=""/>
+# <BB    via="Line.Displacement"  />
 
 ## AlsoKnownAs
 

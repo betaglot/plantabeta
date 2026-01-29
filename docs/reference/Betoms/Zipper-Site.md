@@ -6,8 +6,7 @@ search: false
 BetomName=""
 </script>
 
-# Zipper,🔻Takt
-# <BB labor="" soma="" ekos="" via="" motor="" anima=""/>
+# <BB labor="Zipper" soma="" ekos="" via="Site" motor="" anima=""/>
 
 ---
 

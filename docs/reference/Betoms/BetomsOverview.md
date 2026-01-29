@@ -10,7 +10,7 @@ You've probably noticed that elements just exist by themselves, everything is co
 
 Betoms must include at least two elements
 
-<div class="d-flex justify-center my-4"><BB labor="LABOR" soma="SOMA" ekos="EKOS" via="VIA" motor="MOTOR" anima="ANIMA"/></div>
+<div class="d-flex justify-center my-4"><BB labor="LABOR" ekos="EKOS" via="VIA" motor="MOTOR" anima="ANIMA"/></div>
 
 The order in which the elements of each group is listed is always the same:
 
@@ -100,7 +100,7 @@ grid-template-columns: repeat(16, 1fr);
 
 <BB labor="LABOR" soma="SOMA" ekos="EKOS" via="VIA" motor="MOTOR" anima="ANIMA"/>
 
-<BB labor="Error,Task,Piece,Aktion,Tool,Strategy,Performance" soma="" ekos="" via="Geometry,Direction,X-axis,Y-axis,Z-axis,Position,Orientation,Logic,Probability" motor="" anima=""/>
+<BB labor="Error,Task,Piece,Aktion,Tool,Strategy,Performance"   via="Geometry,Direction,X-axis,Y-axis,Z-axis,Position,Orientation,Logic,Probability"  />
 
 1. <span class="labor">LABOR</span>
     1. <span class="labor">Error</span>
@@ -147,6 +147,6 @@ grid-template-columns: repeat(16, 1fr);
     1. Up, Down
     1. In, Out
 
-- <BB labor="" soma="Arm" ekos="" via="Length" motor="" anima=""/> == <BB labor="" soma="Arm" ekos="" via="Distance" motor="" anima=""/>
+- <BB  soma="Arm"  via="Length"  /> == <BB  soma="Arm"  via="Distance"  />
 
 :::

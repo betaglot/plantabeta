@@ -6,8 +6,7 @@ search: false
 BetomName=""
 </script>
 
-# Proximity
-# <BB labor="" soma="" ekos="" via="" motor="" anima=""/>
+# <BB labor="" soma="" ekos="" via="Proximity" motor="" anima=""/>
 
 > the Space that you move through while following a Line
 
@@ -49,16 +48,15 @@ Parsing Land into VoronoiCells
 
 ### Partition
 
-Spandrel art between plating plot radius cirle area circleshape
+Spandrel art between plating plot radius circle area circle shape
 
 VIA Cover
 
-Cirles make hexagons
+Circles make hexagons
 
 Center is hole
-.
 
-Coverin spandrels to show the mortar between ideal tree spacing spgeres
+Covering spandrels to show the mortar between ideal tree spacing shapes
 
 ---
 

@@ -6,7 +6,7 @@ search: false
 BetomName=""
 </script>
 
-# <BB labor="Neosite" soma="" ekos="" via="Alignment.Polygon" motor="" anima=""/>
+# <BB labor="Neosite"   via="Alignment.Polygon"  />
 
 > A group of Sites in the shape of a Polygon
 

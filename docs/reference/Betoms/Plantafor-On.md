@@ -7,7 +7,7 @@ BetomName=""
 </script>
 
 # [Plantafor,On]
-# <BB labor="" soma="" ekos="" via="" motor="" anima=""/>
+# <BB labor="Plantafor.On"     />
 
 ---
 

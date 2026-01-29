@@ -7,7 +7,7 @@ search: false
 BetomName=""
 </script>
 
-# <BB labor="Piece.Tactic" soma="" ekos="" via="ConcaveHull" motor="" anima=""/>
+# <BB labor="Piece.Tactic"   via="ConcaveHull"  />
 
 ---
 

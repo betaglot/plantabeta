@@ -6,7 +6,7 @@ search: false
 BetomName=""
 </script>
 
-# <BB labor="Workday.DropOff" soma="" ekos="" via="" motor="" anima=""/>
+# <BB labor="Workday.DropOff"     />
 
 ---
 

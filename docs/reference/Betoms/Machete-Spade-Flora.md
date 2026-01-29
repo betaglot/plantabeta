@@ -6,7 +6,7 @@ search: false
 BetomName=""
 </script>
 
-# <BB labor="Machete,Spade" soma="" ekos="Flora" via="" motor="" anima=""/>
+# <BB labor="Machete,Spade"  ekos="Flora"   />
 
 ---
 
@@ -17,6 +17,6 @@ BetomName=""
 <!-- =================================================== -->
 ::: details &
 
-- <BB labor="Machete" soma="Arm" ekos="" via="" motor="" anima=""/> is possible
+- <BB labor="Machete" soma="Arm"    /> is possible
 
 :::

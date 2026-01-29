@@ -6,7 +6,7 @@ search: false
 BetomName=""
 </script>
 
-# <BB labor="Error,Layer.Shell.Aktion" soma="" ekos="" via="" motor="" anima=""/>
+# <BB labor="Error,Layer.Shell.Aktion"     />
 
 - Snag
 - Rip

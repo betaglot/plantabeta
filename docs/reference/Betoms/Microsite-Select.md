@@ -6,8 +6,7 @@ search: false
 BetomName=""
 </script>
 
-# [Microsite,Select]
-# <BB labor="" soma="" ekos="" via="" motor="" anima=""/>
+# <BB labor="Select,Neosite" soma="" ekos="" via="" motor="" anima=""/>
 
 ---
 

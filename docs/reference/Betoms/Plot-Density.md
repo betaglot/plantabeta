@@ -6,8 +6,7 @@ search: false
 BetomName=""
 </script>
 
-# Density
-# <BB labor="" soma="" ekos="" via="" motor="" anima=""/>
+# <BB labor="Plot.Neon"   via="Density"  />
 
 Density of Sites
 

@@ -22,11 +22,11 @@ search: false
     - Throw your spade over a high obstacle so you can use two hands to climb
     - RockCap has few places for flag to snag
 - 1.09
-    - Layering is like Reving your engine.
+    - Layering is like Revving your engine.
         - Shifting up or down
         - RPM = Energy
         - Thermal Energy
-    - Step Down into trench sideways to prevent knee over toes, otherwise HeelKrampon step becuase of stiff boot
+    - Step Down into trench sideways to prevent knee over toes, otherwise HeelKrampon step because of stiff boot
         - ⭐<span class="labor">Boot</span>
 - 1.10
     - Bounce, Cross, Zone, Follow
@@ -84,11 +84,11 @@ search: false
         - Middle Planter follows Zone.Midline
         - Flankers do <span class="via">FillPattern(ZigZagLine)</span>
 - 1.19
-    - First submoton of Klose gathers, then secon Moton Stamps
+    - First SubAktion of Klose gathers, then the second Aktion Stamps
         - Gather then Kompakt
     <!-- - <BC l='(Spade, Boot.Rand)'s=''e=''v=''m='Purga'a=''/> -->
-        - [Rand, Purga.Scrape] along SpadeEdge
-        - SpadeProp.Vertical to keep Spade Stationary
+    - [Rand, Purga.Scrape] along SpadeEdge
+    - SpadeProp.Vertical to keep Spade Stationary
 - 1.20
     - MarkumDev
         - Block boundary flag becomes difficult to see when its color is sun faded, which leads to trespassing
@@ -106,9 +106,9 @@ search: false
 - 1.23
     - Blinding yourself with the sun each time you look for the drip line
     <!-- - <BC l='Spade's=''e=''v=''m='Pry.PalmPush'a=''/> -->
-        - Open Hand in to PalmPush to avoid hitting an Ekon with your knuckles
-        - like closing a drawer
-        - Don't allow anything (Labon,Somon,Ekon) to curl over edge
+    - Open Hand in to PalmPush to avoid hitting an Ekon with your knuckles
+    - like closing a drawer
+    - Don't allow anything (Labon,Somon,Ekon) to curl over edge
 - 2.02
     - Replanting for Density
         - 2 Planter Replant
@@ -142,14 +142,14 @@ search: false
                     - Kuboi of Injury
 - 2.09
     <!-- - Taking a step closer to hole is less Kuboi than stepping backwards, since you can see the [Boot,Anterior,Ekos]  of your Boots, but not the <BC l='Boot's='Posterior'e='EKOS'v=''m=''a=''/> -->
-        - 🔷<span class="soma">Anterior</span> is a Space relative to SOMA, not a 🔻<span class="via">Direction</span>
-            - A 🔷<span class="soma">SOMON</span>, not a 🔻<span class="via">VION</span>
+    - 🔷<span class="soma">Anterior</span> is a Space relative to SOMA, not a 🔻<span class="via">Direction</span>
+        - A 🔷<span class="soma">SOMON</span>, not a 🔻<span class="via">VION</span>
 - 2.10
     <!-- - <BC l=''s='Forearm'e=''v='(Horizontal || ParallelTo(Blade.Tip, Takt.Line))'m=''a=''/> -->
-        - Attributes of a 🔻<span class="via">Takt</span>
-            - Takt.Line
-            - Takt.Shape
-            - Takt.Form
+    - Attributes of a 🔻<span class="via">Takt</span>
+        - Takt.Line
+        - Takt.Shape
+        - Takt.Form
 - 2.11
     - BetomArray
     - Wipe both your hands before reaching for this book. Soiled paper is more difficult to read
@@ -195,7 +195,7 @@ search: false
 - 3.04
     - Diagram of PieceCache Silvi with Markum attached along side.
 - 3.05
-    - Diagram of PieceCache Silvi with detatchable Markum
+    - Diagram of PieceCache Silvi with detachable Markum
     - 2 Connection with side of Silvi
 - 3.06
     - Use two HighStumps or other Tall Ekons as Landmarks and then use for alignment like gunsights or stonehenge
@@ -210,7 +210,7 @@ search: false
     - `{Question:"Got it?", Answer: "Got it"}`
     - Deload week is supported by science
 - 3.09
-    - You didn't make an error, instead say "An error occured"
+    - You didn't make an error, instead say "An error occurred"
         - Anima.NonDualism
     - Give one day off a month. No saving allowed
 - 3.10, 3.11
@@ -220,7 +220,7 @@ search: false
     - Kart
         - StartWithEasy: Prefabricated wheels from used Bikes.
 - 4.02
-    - Show not tell. Demonstrate the incorrect Beta, then Betan chooses the correct Beta
+    - Show not tell. Demonstrate the incorrect Beta, then Atlete chooses the correct Beta
         - Reductio ad absurdum (Latin for "reduction to the absurd") is a logical argument that disproves a proposition by showing that its acceptance leads to absurd or contradictory conclusions
     - Show can start with an Ask, tell doesn't
 - 4.03
@@ -342,7 +342,7 @@ search: false
     - Weyerhaeuser pays for TotalPhysio
     - Houston, BC
     - Highly Repetitive work results in a small number of types of injuries
-        - (MotonVaribility)InverselyProportionalTo(InjuryTypeCount)
+        - (MotonVariability)InverselyProportionalTo(InjuryTypeCount)
         - 21 injuries from planting
     - Treat is reactive, prevent is proactive
     - During JellyPump push hips forwards like a standing Yoga.Cobra()
@@ -355,7 +355,7 @@ search: false
     - never told a planter that their Spade is too short
     - Keep shoulder straps off traps
     - Tendons don't like corners
-    - radior could cause tendo if it's too tight
+    - radior could cause tendonitis if it's too tight
     - ManoKlose.Gather() without Twist
     - BootToeSkreef is less injurious than HeelSkreef because Heel will displace Fibula
 - 5.05
@@ -368,12 +368,12 @@ search: false
     - Slick
     - Labor\Layers\Tick
     - Hybrid Planting Company, BurnsLake, BC
-    - Fill Burns whenever you encount it, unless along a LineIn or PinchableZone
+    - Fill Burns whenever you encounter it, unless along a LineIn or PinchableZone
 - 5.08
     - Pedagogy: Group work
         - How would you fill this piece?
         - Slow Planter skips a beat. How to TeamPlant with a slower Planter. Each beat, place a neosite on a diagram of the piece
-            - Brilliantoid
+            - Like Brilliant.com
 - 5.09
     - Don't remove Spade before NeonInsert
         - To prevent collapse
@@ -388,7 +388,7 @@ search: false
 - 5.11
     - FireBeta
         - CreamMoss
-        - Bryophyte grow on the sould exposed by fire
+        - Bryophyte grows on the soil exposed by fire
     - How to plant a stump hollow?
         - RootMassCasting
 - 5.12

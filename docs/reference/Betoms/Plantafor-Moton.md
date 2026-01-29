@@ -6,8 +6,7 @@ search: false
 BetomName=""
 </script>
 
-# [Plantafor,MOTON]
-# <BB labor="" soma="" ekos="" via="" motor="" anima=""/>
+# <BB labor="Plantafor.Aktion"     />
 
 Aliases: Planting Bags
 

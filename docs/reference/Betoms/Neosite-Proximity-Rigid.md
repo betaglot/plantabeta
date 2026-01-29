@@ -6,7 +6,7 @@ search: false
 BetomName=""
 </script>
 
-# <BB labor="Neosite" soma="" ekos="" via="Proximity.Fixed" motor="" anima=""/>
+# <BB labor="Neosite"   via="Proximity.Fixed"  />
 
 > Proximity that doesn't change
 

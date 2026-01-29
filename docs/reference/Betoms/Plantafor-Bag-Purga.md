@@ -6,8 +6,7 @@ search: false
 BetomName=""
 </script>
 
-# [Bag-Purga]
-# <BB labor="" soma="" ekos="" via="" motor="" anima=""/>
+# <BB labor="Plantafor.Bag.Purga"     />
 
 ---
 
@@ -18,6 +17,7 @@ BetomName=""
 <!-- =================================================== -->
 ::: details &
 
+- BagEmpty
 - ExcessSoil
 - InvertBag
 - BagMano

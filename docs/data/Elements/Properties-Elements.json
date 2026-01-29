@@ -770,14 +770,14 @@
             "elementQuote": []
         }
     },
-    "Aspis": {
-        "elementEnglishName": "Aspis",
+    "Armor": {
+        "elementEnglishName": "Armor",
         "elementFaktor": "Labor",
         "elementID": "",
         "elementTaxonomy": [
             "Labor",
             "Aktion",
-            "Aspis"
+            "Armor"
         ],
         "elementAlias": [
             "block",

@@ -6,7 +6,7 @@ search: false
 BetomName=""
 </script>
 
-# <BB labor="Cache.Aktion" soma="" ekos="" via="" motor="" anima=""/>
+# <BB labor="Cache.Aktion"     />
 
 ## What is a Cache?
 

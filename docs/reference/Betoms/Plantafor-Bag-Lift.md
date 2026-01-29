@@ -6,8 +6,7 @@ search: false
 BetomName=""
 </script>
 
-# [Bag-Lift]
-# <BB labor="" soma="" ekos="" via="" motor="" anima=""/>
+# <BB labor="Plantafor.Bag.Lift"     />
 
 ---
 
@@ -18,6 +17,9 @@ BetomName=""
 <!-- =================================================== -->
 ::: details &
 
+- Distinction(BagLift != Plantafor.On)
+    - ("Lift your bags on" == Plantafor.On)
+    - ("Lift your bags over a stump" == Bag.Lift)
 - Lift Bags when BagSnag
 - Lift and Pull bags through a thicket
 - The VIA is almost always 🔻Over

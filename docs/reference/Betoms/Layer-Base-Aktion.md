@@ -3,7 +3,7 @@ aside: false
 search: false
 ---
 
-# <BB labor="Layer.Base.Aktion" soma="" ekos="" via="" motor="" anima=""/>
+# <BB labor="Layer.Base.Aktion"     />
 
 ---
 

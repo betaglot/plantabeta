@@ -6,7 +6,7 @@ search: false
 BetomName=""
 </script>
 
-# <BB labor="Neosite" soma="" ekos="" via="Proximity.Adaptive" motor="" anima=""/>
+# <BB labor="Neosite"   via="Proximity.Adaptive"  />
 
 ---
 

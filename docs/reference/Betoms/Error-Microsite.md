@@ -6,7 +6,7 @@ search: false
 BetomName=""
 </script>
 
-# <BB labor="Error,Microsite" soma="" ekos="" via="" motor="" anima=""/>
+# <BB labor="Error,Microsite"     />
 
 ---
 

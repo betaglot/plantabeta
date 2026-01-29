@@ -6,7 +6,7 @@ search: false
 BetomName=""
 </script>
 
-# <BB labor="Kontakt,Plantafor.Bag" soma="" ekos="" via="" motor="" anima=""/>
+# <BB labor="Kontakt,Plantafor.Bag"     />
 
 ---
 

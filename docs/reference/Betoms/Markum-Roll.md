@@ -6,7 +6,7 @@ search: false
 BetomName=""
 </script>
 
-# <BB labor="Markum.Roll" soma="" ekos="" via="" motor="" anima=""/>
+# <BB labor="Markum.Roll"     />
 
 ## MarkaUnroll
 

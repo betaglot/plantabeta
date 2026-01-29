@@ -6,7 +6,7 @@ search: false
 BetomName=""
 </script>
 
-# <BB labor="" soma="" ekos="" via="Proximity,Adaptive" motor="" anima=""/>
+# <BB    via="Proximity,Adaptive"  />
 
 > Site proximity which changes in response to changing Eko
 

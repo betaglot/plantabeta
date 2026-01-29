@@ -6,7 +6,7 @@ search: false
 BetomName=""
 </script>
 
-# <BB labor="Knot.Boot.Lace" soma="" ekos="" via="" motor="" anima=""/>
+# <BB labor="Knot.Boot.Lace"     />
 
 ---
 

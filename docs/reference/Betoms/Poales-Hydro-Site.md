@@ -6,8 +6,7 @@ search: false
 BetomName=""
 </script>
 
-# [Poales.Hydro,Takt]
-# <BB labor="" soma="" ekos="" via="" motor="" anima=""/>
+# <BB   ekos="Poales.Hydro" via="Site"  />
 
 ---
 

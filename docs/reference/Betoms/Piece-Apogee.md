@@ -6,7 +6,7 @@ search: false
 BetomName=""
 </script>
 
-# <BB labor="Strategy,Piece" soma="" ekos="" via="Apogee" motor="" anima=""/>
+# <BB labor="Strategy,Piece"   via="Apogee"  />
 
 Aliases: BackFilling
 

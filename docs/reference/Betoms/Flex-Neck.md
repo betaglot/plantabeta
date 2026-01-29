@@ -6,7 +6,7 @@ search: false
 BetomName=""
 </script>
 
-# <BB labor="Flex" soma="Neck" ekos="" via="" motor="" anima=""/>
+# <BB labor="Flex" soma="Neck"    />
 
 IntoWind
 

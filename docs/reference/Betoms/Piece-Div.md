@@ -6,7 +6,7 @@ search: false
 BetomName=""
 </script>
 
-# <BB labor="Piece.Tactic" soma="" ekos="" via="Div" motor="" anima=""/>
+# <BB labor="Piece.Tactic"   via="Div"  />
 
 Aliases: Area Planting
 

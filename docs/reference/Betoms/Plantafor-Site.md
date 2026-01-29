@@ -6,8 +6,7 @@ search: false
 BetomName=""
 </script>
 
-# Plantafor,🔻Takt
-# <BB labor="" soma="" ekos="" via="" motor="" anima=""/>
+# <BB labor="Plantafor"   via="Site"  />
 
 ---
 

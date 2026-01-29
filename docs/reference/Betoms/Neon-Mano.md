@@ -6,7 +6,7 @@ search: false
 BetomName=""
 </script>
 
-# <BB labor="Neon.Mano" soma="" ekos="" via="" motor="" anima=""/>
+# <BB labor="Neon.Mano"     />
 
 ## NeonMano Purpose
 

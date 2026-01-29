@@ -6,8 +6,7 @@ search: false
 BetomName=""
 </script>
 
-# Plast,🔻Takt
-# <BB labor="" soma="" ekos="" via="" motor="" anima=""/>
+# <BB   ekos="Plast" via="Site"  />
 
 ---
 

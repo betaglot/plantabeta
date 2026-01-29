@@ -6,7 +6,7 @@ search: false
 BetomName=""
 </script>
 
-# <BB labor="Kompress" soma="<>Arm" ekos="" via="" motor="" anima=""/>
+# <BB labor="Kompress" soma="<>Arm"    />
 
 ---
 

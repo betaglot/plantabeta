@@ -6,7 +6,7 @@ search: false
 BetomName=""
 </script>
 
-# <BB labor="Amble" soma="Arm" ekos="" via="" motor="" anima=""/>
+# <BB labor="Amble" soma="Arm"    />
 
 Aliases: ArmWalk
 
