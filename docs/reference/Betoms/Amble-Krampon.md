@@ -1,4 +1,13 @@
+---
+aside: false
+search: false
+---
+<script setup>
+BetomName=""
+</script>
 # ⭐KramponAmble
+# <BB labor="" soma="" ekos="" via="" motor="" anima=""/>
+
 
 ---
 

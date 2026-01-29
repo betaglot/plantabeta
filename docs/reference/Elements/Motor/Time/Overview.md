@@ -20,6 +20,6 @@ let elementName = "Time"
 <!-- =================================================== -->
 ::: details &
 
--
+- Before, After, During, While, Forever, Constantly
 
 :::

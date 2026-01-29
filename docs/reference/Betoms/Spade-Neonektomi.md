@@ -1,11 +1,14 @@
 ---
 aside: false
+search: false
 ---
 <script setup>
 BetomName=""
 </script>
 
 # [Spade-Neonektomi]
+# <BB labor="" soma="" ekos="" via="" motor="" anima=""/>
+
 
 ---
 

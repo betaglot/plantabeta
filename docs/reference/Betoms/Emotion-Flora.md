@@ -1,11 +1,13 @@
 ---
 aside: false
+search: false
 ---
 <script setup>
 BetomName=""
 </script>
 
 # [Flora,Emotion]
+# <BB labor="" soma="" ekos="" via="" motor="" anima=""/>
 
 ---
 

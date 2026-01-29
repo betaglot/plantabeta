@@ -1,5 +1,6 @@
 ---
 aside: false
+search: false
 ---
 <script setup>
 BetomName=""

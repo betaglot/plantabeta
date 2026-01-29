@@ -1,11 +1,14 @@
 ---
 aside: false
+search: false
 ---
 <script setup>
 BetomName=""
 </script>
 
 # 🔷Base-❌<error>Error</error>
+# <BB labor="" soma="" ekos="" via="" motor="" anima=""/>
+
 
 ## FootMOTONError
 

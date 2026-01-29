@@ -1,4 +1,12 @@
+---
+aside: false
+search: false
+---
+<script setup>
+BetomName=""
+</script>
 # ⭐🔷Mano-Slide
+# <BB labor="" soma="" ekos="" via="" motor="" anima=""/>
 
 ---
 

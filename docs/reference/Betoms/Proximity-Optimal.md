@@ -1,11 +1,13 @@
 ---
 aside: false
+search: false
 ---
 <script setup>
 BetomName=""
 </script>
 
 # Optimal-Proximity
+# <BB labor="" soma="" ekos="" via="" motor="" anima=""/>
 
 Aliases: Contract Spacing
 

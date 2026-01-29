@@ -1,11 +1,13 @@
 ---
 aside: false
+search: false
 ---
 <script setup>
 BetomName=""
 </script>
 
 # [Lito_Smooth_Hidro,Takt]
+# <BB labor="" soma="" ekos="" via="" motor="" anima=""/>
 
 ---
 

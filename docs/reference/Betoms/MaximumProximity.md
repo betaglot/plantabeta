@@ -1,11 +1,13 @@
 ---
 aside: false
+search: false
 ---
 <script setup>
 BetomName=""
 </script>
 
 # MaximumProximity
+# <BB labor="" soma="" ekos="" via="" motor="" anima=""/>
 
 Aliases: Maximum Spacing
 

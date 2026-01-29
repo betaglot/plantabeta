@@ -1,11 +1,13 @@
 ---
 aside: false
+search: false
 ---
 <script setup>
 BetomName=""
 </script>
 
 # 🔷Base,🟠Kontakt
+# <BB labor="" soma="" ekos="" via="" motor="" anima=""/>
 
 > Kontakt is a Verb
 

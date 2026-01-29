@@ -1,11 +1,13 @@
 ---
 aside: false
+search: false
 ---
 <script setup>
 BetomName=""
 </script>
 
 # [Glove,MOTON]
+# <BB labor="" soma="" ekos="" via="" motor="" anima=""/>
 
 ## Glove.Anatomy
 

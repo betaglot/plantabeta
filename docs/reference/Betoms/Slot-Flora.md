@@ -1,11 +1,13 @@
 ---
 aside: false
+search: false
 ---
 <script setup>
 BetomName=""
 </script>
 
 # [Flora,Slot]
+# <BB labor="" soma="" ekos="" via="" motor="" anima=""/>
 
 > Passing through a cluster of Flora
 

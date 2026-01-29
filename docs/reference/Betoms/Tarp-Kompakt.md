@@ -1,11 +1,13 @@
 ---
 aside: false
+search: false
 ---
 <script setup>
 BetomName=""
 </script>
 
 # [Tarp,Kompakt]
+# <BB labor="" soma="" ekos="" via="" motor="" anima=""/>
 
 ---
 

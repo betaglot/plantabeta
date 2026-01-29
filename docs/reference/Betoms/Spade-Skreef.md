@@ -1,13 +1,11 @@
 ---
 aside: false
+search: false
 ---
 
 # [Spade,Skreef]
-<!-- 
-<BT
-    l='Spade'
-    m='Skreef'
-/> -->
+# <BB labor="" soma="" ekos="" via="" motor="" anima=""/>
+
 
 ## <py>Elements</py>
 

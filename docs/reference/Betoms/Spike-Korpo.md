@@ -1,11 +1,13 @@
 ---
 aside: false
+search: false
 ---
 <script setup>
 BetomName=""
 </script>
 
 # 🟠 SuperSpike
+# <BB labor="" soma="" ekos="" via="" motor="" anima=""/>
 
 - Superman Punch
 - 300 Spartan Jumping Thrust

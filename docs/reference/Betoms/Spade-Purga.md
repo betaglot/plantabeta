@@ -1,11 +1,13 @@
 ---
 aside: false
+search: false
 ---
 <script setup>
 BetomName=""
 </script>
 
 # [Spade,Purga]
+# <BB labor="" soma="" ekos="" via="" motor="" anima=""/>
 
 Aliases: Spade Clean, Spade Purge
 

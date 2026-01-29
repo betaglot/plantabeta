@@ -1,11 +1,13 @@
 ---
 aside: false
+search: false
 ---
 <script setup>
 BetomName=""
 </script>
 
 # Palm🟠Klose
+# <BB labor="" soma="" ekos="" via="" motor="" anima=""/>
 
 ---
 

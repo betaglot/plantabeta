@@ -1,11 +1,13 @@
 ---
 aside: false
+search: false
 ---
 <script setup>
 BetomName=""
 </script>
 
 # [MicrositeKlose]
+# <BB labor="" soma="" ekos="" via="" motor="" anima=""/>
 
 Aliases: HoleClose
 

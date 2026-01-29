@@ -1,11 +1,13 @@
 ---
 aside: false
+search: false
 ---
 <script setup>
 BetomName=""
 </script>
 
 # Road
+# <BB labor="" soma="" ekos="" via="" motor="" anima=""/>
 
 The dirt road
 

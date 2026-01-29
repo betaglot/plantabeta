@@ -1,4 +1,12 @@
+---
+aside: false
+search: false
+---
+<script setup>
+BetomName=""
+</script>
 # ⭐Body🟠Tangent
+# <BB labor="" soma="" ekos="" via="" motor="" anima=""/>
 
 ---
 

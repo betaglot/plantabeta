@@ -1,11 +1,13 @@
 ---
 aside: false
+search: false
 ---
 <script setup>
 BetomName=""
 </script>
 
 # [SpadeBallista]
+# <BB labor="" soma="" ekos="" via="" motor="" anima=""/>
 
 - The FinishMOTON of SpadeBallista is SpadePost
 

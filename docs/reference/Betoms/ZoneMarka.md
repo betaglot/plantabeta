@@ -1,15 +1,13 @@
-<!-- <script setup>
-import ElementInfo from '/vue/ElementPage/Page-ElementInfo.vue'
-import ElementTaxonomy from '/vue/ElementPage/Header-ElementTaxonomy.vue'
-let elementName = "ZoneMarka"
-
-</script> -->
+---
+aside: false
+search: false
+---
+<script setup>
+BetomName=""
+</script>
 
 # ZoneMarka
-<!-- 
-<ElementTaxonomy :elementName="elementName" />
-
-<ElementInfo :elementName=elementName /> -->
+# <BB labor="" soma="" ekos="" via="" motor="" anima=""/>
 
 ---
 

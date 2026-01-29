@@ -1,4 +1,12 @@
+---
+aside: false
+search: false
+---
+<script setup>
+BetomName=""
+</script>
 # [Thumb,Flexion]
+# <BB labor="" soma="" ekos="" via="" motor="" anima=""/>
 
 ---
 

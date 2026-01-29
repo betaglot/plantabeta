@@ -1,4 +1,10 @@
-
+---
+aside: false
+search: false
+---
+<script setup>
+BetomName=""
+</script>
 # Border-Marka
 # <BB labor="Piece.Boundary.Marka" soma="" ekos="" via="" motor="" anima=""/>
 

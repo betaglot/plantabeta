@@ -1,11 +1,13 @@
 ---
 aside: false
+search: false
 ---
 <script setup>
 BetomName=""
 </script>
 
 # [Instrument,Repair]
+# <BB labor="" soma="" ekos="" via="" motor="" anima=""/>
 
 Temporary Repair until you can have your Instruments repaired by a professional.
 

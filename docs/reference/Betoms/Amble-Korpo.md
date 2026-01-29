@@ -1,3 +1,10 @@
+---
+aside: false
+search: false
+---
+<script setup>
+BetomName=""
+</script>
 # 🟠 Amble
 # <BB labor="Amble" soma="Body" ekos="" via="" motor="" anima=""/>
 

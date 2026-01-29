@@ -1,11 +1,13 @@
 ---
 aside: false
+search: false
 ---
 <script setup>
 BetomName=""
 </script>
 
 # [Spade-Spike]
+# <BB labor="" soma="" ekos="" via="" motor="" anima=""/>
 
 Aliases: SpadeSlam, SpadeThrow, SpadeChop
 

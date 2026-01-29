@@ -1,11 +1,14 @@
 ---
 aside: false
+search: false
 ---
 <script setup>
 BetomName=""
 </script>
 
 # [Cache,MOTON]
+# <BB labor="" soma="" ekos="" via="" motor="" anima=""/>
+
 
 ## What is a Cache?
 

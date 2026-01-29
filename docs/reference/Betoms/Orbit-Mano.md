@@ -1,4 +1,12 @@
+---
+aside: false
+search: false
+---
+<script setup>
+BetomName=""
+</script>
 # ⭐Mano🟠Orbit
+# <BB labor="" soma="" ekos="" via="" motor="" anima=""/>
 
 ---
 

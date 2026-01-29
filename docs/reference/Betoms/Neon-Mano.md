@@ -1,11 +1,13 @@
 ---
 aside: false
+search: false
 ---
 <script setup>
 BetomName=""
 </script>
 
 # [Neon,Mano]
+# <BB labor="" soma="" ekos="" via="" motor="" anima=""/>
 
 ## NeonMano Purpose
 

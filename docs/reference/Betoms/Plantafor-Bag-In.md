@@ -1,11 +1,13 @@
 ---
 aside: false
+search: false
 ---
 <script setup>
 BetomName=""
 </script>
 
 # [Bag,In]
+# <BB labor="" soma="" ekos="" via="" motor="" anima=""/>
 
 Aliases: Bag up some trees
 

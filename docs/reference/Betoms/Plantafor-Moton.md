@@ -1,11 +1,13 @@
 ---
 aside: false
+search: false
 ---
 <script setup>
 BetomName=""
 </script>
 
 # [Plantafor,MOTON]
+# <BB labor="" soma="" ekos="" via="" motor="" anima=""/>
 
 Aliases: Planting Bags
 
