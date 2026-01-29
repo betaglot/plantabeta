@@ -6,8 +6,7 @@ search: false
 BetomName=""
 </script>
 
-# 🔷Korpo,🟠Lean
-# <BB labor="" soma="" ekos="" via="" motor="" anima=""/>
+# <BB labor="Lean" soma="Korpo" ekos="" via="" motor="" anima=""/>
 
 ## 🟠 BodyLean Problem
 

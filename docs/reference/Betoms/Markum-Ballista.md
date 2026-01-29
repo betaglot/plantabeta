@@ -7,7 +7,7 @@ BetomName=""
 </script>
 
 # [Marka,Ballista]
-# <BB labor="" soma="" ekos="" via="" motor="" anima=""/>
+# <BB labor="Ballista,Markum" soma="" ekos="" via="" motor="" anima=""/>
 
 ---
 

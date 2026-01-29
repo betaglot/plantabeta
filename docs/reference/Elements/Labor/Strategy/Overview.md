@@ -1,13 +1,4 @@
----
-aside: false
-search: false
----
-<script setup>
-BetomName=""
-</script>
-
-# Collar,Kontakt
-# <BB labor="" soma="" ekos="" via="" motor="" anima=""/>
+# <span class="labor">Strategy</span>
 
 ---
 
@@ -18,6 +9,8 @@ BetomName=""
 <!-- =================================================== -->
 ::: details &
 
--
+- Marka (Flagging) is a Tactic, Markum (Flag) is a Tool.
+- ApogeeFill
+- StartWithApogee
 
 :::

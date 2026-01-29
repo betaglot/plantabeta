@@ -1,4 +1,14 @@
+---
+aside: false
+search: false
+---
+
+<script setup>
+BetomName=""
+</script>
+
 # 🔻 <span class="via">SiteSquare</span>
+
 # <BB labor="" soma="" ekos="" via="" motor="" anima=""/>
 
 > A square of Sites

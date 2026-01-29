@@ -6,8 +6,7 @@ search: false
 BetomName=""
 </script>
 
-# Blade,Kontakt
-# <BB labor="" soma="" ekos="" via="" motor="" anima=""/>
+# <BB labor="Kontakt,Spade.Blade" soma="" ekos="" via="" motor="" anima=""/>
 
 ---
 
@@ -18,6 +17,7 @@ BetomName=""
 <!-- =================================================== -->
 ::: details &
 
+- (<BB labor="Kontakt,Spade.Blade" soma="Hand" ekos="" via="" motor="" anima=""/> != <BB labor="Mano,Spade.Blade" soma="" ekos="" via="" motor="" anima=""/>)
 - TipKontakt
 - EdgeKontakt
 

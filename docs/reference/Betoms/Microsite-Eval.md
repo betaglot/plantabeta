@@ -6,8 +6,7 @@ search: false
 BetomName=""
 </script>
 
-# [Microsite,Eval]
-# <BB labor="" soma="" ekos="" via="" motor="" anima=""/>
+# <BB labor="Microsite.Eval" soma="" ekos="" via="" motor="" anima=""/>
 
 Aliases: Test, Probe, Validate, Verify, Examine
 

@@ -6,8 +6,7 @@ search: false
 BetomName=""
 </script>
 
-# [Bag,Aspis]
-# <BB labor="" soma="" ekos="" via="" motor="" anima=""/>
+# <BB labor="Armor,Bag" soma="" ekos="" via="" motor="" anima=""/>
 
 ---
 

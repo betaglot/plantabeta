@@ -5,8 +5,8 @@ search: false
 <script setup>
 BetomName=""
 </script>
-# ⭐Mano🟠Orbit
-# <BB labor="" soma="" ekos="" via="" motor="" anima=""/>
+
+# <BB labor="Mano,Orbit" soma="" ekos="" via="" motor="" anima=""/>
 
 ---
 
@@ -17,7 +17,7 @@ BetomName=""
 <!-- =================================================== -->
 ::: details &
 
-- ManoOrbit.Submove(ManoSlide)
+- ManoOrbit.SubAktion(ManoSlide)
 - ManoOrbit around Collar, Plast, trunk, branch
 - IsometricContraction
 - SuperMOTON(SpadeOnda, SpadeMuscleUp, SpadeSpike)

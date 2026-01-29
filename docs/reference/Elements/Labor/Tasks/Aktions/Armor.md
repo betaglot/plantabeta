@@ -1,13 +1,15 @@
----
-aside: false
-search: false
----
 <script setup>
-BetomName=""
+import ElementInfo from '/vue/ElementPage/Page-ElementInfo.vue'
+import ElementTaxonomy from '/vue/ElementPage/Header-ElementTaxonomy.vue'
+let elementName = "Armor"
+
 </script>
 
-# 🟠 SpineExtension
-# <BB labor="" soma="" ekos="" via="" motor="" anima=""/>
+# ⭐<span class="labor">Armor</span>
+
+<ElementTaxonomy :elementName="elementName" />
+
+<ElementInfo :elementName=elementName />
 
 ---
 
@@ -18,7 +20,6 @@ BetomName=""
 <!-- =================================================== -->
 ::: details &
 
-- Jelly Pump to reposition Spine vertebrae back into alignment
+- Hoplite Shield
 
-- "MOTON.BodyMOTON.SpineExtension"
 :::

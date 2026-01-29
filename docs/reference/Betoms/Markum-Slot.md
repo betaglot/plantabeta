@@ -6,8 +6,7 @@ search: false
 BetomName=""
 </script>
 
-# [Marka,Slot]
-# <BB labor="" soma="" ekos="" via="" motor="" anima=""/>
+# <BB labor="Slot,Markum" soma="" ekos="" via="" motor="" anima=""/>
 
 ---
 

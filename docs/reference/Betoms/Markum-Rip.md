@@ -6,8 +6,7 @@ search: false
 BetomName=""
 </script>
 
-# [Marka,Rip]
-# <BB labor="" soma="" ekos="" via="" motor="" anima=""/>
+# <BB labor="Markum.Rip" soma="" ekos="" via="" motor="" anima=""/>
 
 ---
 

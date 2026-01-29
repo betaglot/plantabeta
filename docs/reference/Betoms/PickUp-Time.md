@@ -1,6 +1,12 @@
+---
+aside: false
+search: false
+---
+<script setup>
+BetomName=""
+</script>
 
-# ⭐<span class="labor">PickUp</span>
-# <BB labor="" soma="" ekos="" via="" motor="" anima=""/>
+# <BB labor="Workday.PickUp" soma="" ekos="" via="" motor="Time" anima=""/>
 
 ---
 

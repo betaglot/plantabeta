@@ -6,8 +6,7 @@ search: false
 BetomName=""
 </script>
 
-# [LitoRough,Takt]
-# <BB labor="" soma="" ekos="" via="" motor="" anima=""/>
+# <BB labor="" soma="" ekos="Litos.Rough" via="Site" motor="" anima=""/>
 
 ---
 

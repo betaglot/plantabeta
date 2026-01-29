@@ -6,8 +6,7 @@ search: false
 BetomName=""
 </script>
 
-# [Microsite,MOTON]
-# <BB labor="" soma="" ekos="" via="" motor="" anima=""/>
+# <BB labor="Microsite.Aktion" soma="" ekos="" via="" motor="" anima=""/>
 
 ## Sit.Anatomy
 

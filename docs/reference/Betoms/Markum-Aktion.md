@@ -6,29 +6,28 @@ search: false
 BetomName=""
 </script>
 
-# [Marka,MOTON]
-# <BB labor="" soma="" ekos="" via="" motor="" anima=""/>
+# <BB labor="Markum.Aktion" soma="" ekos="" via="" motor="" anima=""/>
 
-## MarkaPut
+## MarkumPut
 
 post verb (MAKE KNOWN)
 
 > to make information known to the public, or to put up signs on land or other property
 
-Markas are posted throughout the land.
+Markums are posted throughout the land.
 
-## MarkaMOTON.Anatomy
+## MarkumMOTON.Anatomy
 
-- MarkaBody
-- MarkaEnd
+- MarkumBody
+- MarkumEnd
 
-## MarkaMOTON.Attributes
+## MarkumMOTON.Attributes
 
-- MarkaLength
-- MarkaWidth
-- MarkaMaterial
-- MarkaHeight
-- MarkaColor
+- MarkumLength
+- MarkumWidth
+- MarkumMaterial
+- MarkumHeight
+- MarkumColor
 
 ---
 
@@ -39,11 +38,11 @@ Markas are posted throughout the land.
 <!-- =================================================== -->
 ::: details &
 
-- SpadeHand Marka Mano is obsolete from a time before Marka pouch
-- Marka follow through motion to ensure that the Marka doesn't fold back on itself, since fully extended Marka drapes over branches, while clumped Marka just falls to the ground
+- SpadeHand Markum Mano is obsolete from a time before Markum pouch
+- Markum follow through motion to ensure that the Markum doesn't fold back on itself, since fully extended Markum drapes over branches, while clumped Markum just falls to the ground
 
-- "MOTON.InstrumentMOTON.MarkaMOTON.MarkaDrop"
-- "MOTON.InstrumentMOTON.MarkaMOTON.MarkaStump"
-- "MOTON.InstrumentMOTON.MarkaMOTON.MOTONError.PlantedMarka"
-- "MOTON.InstrumentMOTON.MarkaMOTON.Overview"
+- "MOTON.InstrumentMOTON.MarkumMOTON.MarkumDrop"
+- "MOTON.InstrumentMOTON.MarkumMOTON.MarkumStump"
+- "MOTON.InstrumentMOTON.MarkumMOTON.MOTONError.PlantedMarkum"
+- "MOTON.InstrumentMOTON.MarkumMOTON.Overview"
 :::

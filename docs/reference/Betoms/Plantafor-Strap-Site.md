@@ -6,7 +6,6 @@ search: false
 BetomName=""
 </script>
 
-# [Strap,Kontakt]
 # <BB labor="Plantafor.Strap" soma="" ekos="" via="Site" motor="" anima=""/>
 
 ---

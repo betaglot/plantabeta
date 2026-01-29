@@ -1,12 +1,5 @@
----
-aside: false
-search: false
----
-<script setup>
-BetomName=""
-</script>
+# <span class="labor">Tactic</span>
 
-# <BB labor="Boot.Mano" soma="" ekos="" via="" motor="" anima=""/>
 ---
 
 <!-- =================================================== -->
@@ -16,10 +9,6 @@ BetomName=""
 <!-- =================================================== -->
 ::: details &
 
-- BootHeelMano
-- BootHeelToeMano
-    - BootOff
-    - BootOn
-- BootToeMano
+-
 
 :::

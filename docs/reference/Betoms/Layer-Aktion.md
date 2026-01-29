@@ -6,8 +6,7 @@ search: false
 BetomName=""
 </script>
 
-# [Layer,MOTON]
-# <BB labor="" soma="" ekos="" via="" motor="" anima=""/>
+# <BB labor="Layer.Aktion" soma="" ekos="" via="" motor="" anima=""/>
 
 ---
 

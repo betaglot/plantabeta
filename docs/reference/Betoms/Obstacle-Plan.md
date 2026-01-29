@@ -1,6 +1,12 @@
+---
+aside: false
+search: false
+---
+<script setup>
+BetomName=""
+</script>
 
-# 🔻<span class="via">ObstaclePlan</span>
-# <BB labor="" soma="" ekos="" via="" motor="" anima=""/>
+# <BB labor="Select,Neosite" soma="" ekos="" via="Obstacle" motor="" anima=""/>
 
 ---
 

@@ -6,8 +6,7 @@ search: false
 BetomName=""
 </script>
 
-# 🟠 🔷Mano-MOTON
-# <BB labor="" soma="" ekos="" via="" motor="" anima=""/>
+# <BB labor="Mano" soma="Hand" ekos="" via="" motor="" anima=""/>
 
 ## Mano.Anatomy
 

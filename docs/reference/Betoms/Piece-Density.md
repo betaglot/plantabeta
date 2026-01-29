@@ -6,8 +6,7 @@ search: false
 BetomName=""
 </script>
 
-# [Piece,Density]
-# <BB labor="" soma="" ekos="" via="" motor="" anima=""/>
+# <BB labor="Piece" soma="" ekos="" via="Density" motor="" anima=""/>
 
 ---
 

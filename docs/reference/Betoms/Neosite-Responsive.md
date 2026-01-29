@@ -1,6 +1,12 @@
+---
+aside: false
+search: false
+---
+<script setup>
+BetomName=""
+</script>
 
-# 🔻<span class="via">Responsive Spacing</span>
-# <BB labor="" soma="" ekos="" via="" motor="" anima=""/>
+# <BB labor="Neosite" soma="" ekos="" via="Proximity.Adaptive" motor="" anima=""/>
 
 ---
 

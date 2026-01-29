@@ -1,6 +1,12 @@
+---
+aside: false
+search: false
+---
+<script setup>
+BetomName=""
+</script>
 
-# 🔻<span class="via">SitePolygon</span>
-# <BB labor="" soma="" ekos="" via="" motor="" anima=""/>
+# <BB labor="Neosite" soma="" ekos="" via="Alignment.Polygon" motor="" anima=""/>
 
 > A group of Sites in the shape of a Polygon
 

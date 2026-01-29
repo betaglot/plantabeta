@@ -6,8 +6,7 @@ search: false
 BetomName=""
 </script>
 
-# [Layer🟠Allo]
-# <BB labor="" soma="" ekos="" via="" motor="" anima=""/>
+# <BB labor="Allo,Layer" soma="" ekos="" via="" motor="" anima=""/>
 
 ---
 
@@ -18,6 +17,6 @@ BetomName=""
 <!-- =================================================== -->
 ::: details &
 
--
+- Allo == Swap
 
 :::

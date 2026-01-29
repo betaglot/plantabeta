@@ -6,8 +6,7 @@ search: false
 BetomName=""
 </script>
 
-# MaximumProximity
-# <BB labor="" soma="" ekos="" via="" motor="" anima=""/>
+# <BB labor="" soma="" ekos="" via="Maximum,Proximity" motor="" anima=""/>
 
 Aliases: Maximum Spacing
 

@@ -1,6 +1,13 @@
+---
+aside: false
+search: false
+---
 
-# 🔻<span class="via">ZonePlan</span>
-# <BB labor="" soma="" ekos="" via="" motor="" anima=""/>
+<script setup>
+BetomName=""
+</script>
+
+# <BB labor="Piece" soma="" ekos="" via="Plan" motor="" anima=""/>
 
 ---
 

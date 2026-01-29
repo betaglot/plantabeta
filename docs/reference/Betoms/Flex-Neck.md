@@ -5,8 +5,10 @@ search: false
 <script setup>
 BetomName=""
 </script>
-# ⭐Finger-Extension
-# <BB labor="" soma="" ekos="" via="" motor="" anima=""/>
+
+# <BB labor="Flex" soma="Neck" ekos="" via="" motor="" anima=""/>
+
+IntoWind
 
 ---
 
@@ -17,6 +19,7 @@ BetomName=""
 <!-- =================================================== -->
 ::: details &
 
--
+- HeadTiltIntoWind
 
+- "MOTON.HeadMOTON.HeadTiltIntoWind"
 :::

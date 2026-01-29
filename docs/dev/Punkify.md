@@ -165,7 +165,6 @@ Betoms must include at least two elements and are surrounded by square brackets
 
 or represented digitally as these boxes
 
-
 The order in which the elements of each category is listed is fixed
 
 1. ⭐ <span class="labor">LABOR</span>

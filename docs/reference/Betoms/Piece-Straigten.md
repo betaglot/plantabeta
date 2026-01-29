@@ -1,6 +1,13 @@
+---
+aside: false
+search: false
+---
 
-# 🔻<span class="via">PlanStraigten</span>
-# <BB labor="" soma="" ekos="" via="" motor="" anima=""/>
+<script setup>
+BetomName=""
+</script>
+
+# <BB labor="Piece.Tactic" soma="" ekos="" via="ConcaveHull" motor="" anima=""/>
 
 ---
 

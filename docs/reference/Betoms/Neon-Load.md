@@ -6,8 +6,7 @@ search: false
 BetomName=""
 </script>
 
-# [Neon,Load]
-# <BB labor="" soma="" ekos="" via="" motor="" anima=""/>
+# <BB labor="Load,Neon" soma="" ekos="" via="" motor="" anima=""/>
 
 ## GetTree.Error
 

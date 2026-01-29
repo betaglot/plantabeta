@@ -1,5 +1,12 @@
-# 🔻 <span class="via">ApogeePlan</span>
-# <BB labor="" soma="" ekos="" via="" motor="" anima=""/>
+---
+aside: false
+search: false
+---
+<script setup>
+BetomName=""
+</script>
+
+# <BB labor="Strategy,Piece" soma="" ekos="" via="Apogee" motor="" anima=""/>
 
 Aliases: BackFilling
 
@@ -12,7 +19,8 @@ Aliases: BackFilling
 <!-- =================================================== -->
 ::: details &
 
-1. Use a ParaPerimeterLine for the first bag up
-2.
+- Apogee is the point of the Piece which is the furthest away from the cache.
+- StartWithApogee
+- Use a ParaPerimeterLine for the first bag up
 
 :::

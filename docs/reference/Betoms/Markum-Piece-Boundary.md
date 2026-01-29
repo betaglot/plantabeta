@@ -5,9 +5,8 @@ search: false
 <script setup>
 BetomName=""
 </script>
-# Border-Marka
-# <BB labor="Piece.Boundary.Marka" soma="" ekos="" via="" motor="" anima=""/>
 
+# <BB labor="Piece.Boundary.Marka" soma="" ekos="" via="" motor="" anima=""/>
 
 > A marka which marks the limit of a Zone
 

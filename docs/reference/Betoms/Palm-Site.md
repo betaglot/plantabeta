@@ -6,8 +6,7 @@ search: false
 BetomName=""
 </script>
 
-# Palm,🔻Takt
-# <BB labor="" soma="" ekos="" via="" motor="" anima=""/>
+# <BB labor="" soma="Palm" ekos="" via="Site" motor="" anima=""/>
 
 ---
 

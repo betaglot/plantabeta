@@ -84,7 +84,7 @@ BetomName=""
 - What determines ArmAngle to maintain Spine Position?
 - Arm prop occurs on ships
     - Boat move
-    - Polynesian dance developoed on boats
+    - Polynesian dance developed on boats
     - Especially down walk
     - Down climb
 

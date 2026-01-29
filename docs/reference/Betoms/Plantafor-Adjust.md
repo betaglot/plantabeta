@@ -6,8 +6,7 @@ search: false
 BetomName=""
 </script>
 
-# [Plantafor,Adjust]
-# <BB labor="" soma="" ekos="" via="" motor="" anima=""/>
+# <BB labor="Plantafor.Modify" soma="" ekos="" via="" motor="" anima=""/>
 
 ---
 

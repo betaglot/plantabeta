@@ -6,8 +6,7 @@ search: false
 BetomName=""
 </script>
 
-# Triceps,🟠Kontakt
-# <BB labor="" soma="" ekos="" via="" motor="" anima=""/>
+# <BB labor="Kontakt" soma="Triceps" ekos="" via="" motor="" anima=""/>
 
 ---
 

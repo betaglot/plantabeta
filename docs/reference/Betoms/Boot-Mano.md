@@ -6,7 +6,7 @@ search: false
 BetomName=""
 </script>
 
-# <BB labor="" soma="" ekos="Litos.Smooth" via="Site" motor="" anima=""/>
+# <BB labor="Boot.Mano" soma="" ekos="" via="" motor="" anima=""/>
 
 ---
 
@@ -17,6 +17,10 @@ BetomName=""
 <!-- =================================================== -->
 ::: details &
 
--
+- BootHeelMano
+- BootHeelToeMano
+    - BootOff
+    - BootOn
+- BootToeMano
 
 :::

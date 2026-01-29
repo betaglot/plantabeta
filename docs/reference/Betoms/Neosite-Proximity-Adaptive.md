@@ -1,5 +1,12 @@
-# 🔻 <span class="via">AdaptiveProximity</span>
-# <BB labor="" soma="" ekos="" via="" motor="" anima=""/>
+---
+aside: false
+search: false
+---
+<script setup>
+BetomName=""
+</script>
+
+# <BB labor="" soma="" ekos="" via="Proximity,Adaptive" motor="" anima=""/>
 
 > Site proximity which changes in response to changing Eko
 
@@ -39,6 +46,6 @@ Links to other related ViaFactors.
 <!-- =================================================== -->
 ::: details &
 
--
+- ⭐<span class="labor">Adapt</span> 🔻<span class="via">Adaptation</span>
 
 :::

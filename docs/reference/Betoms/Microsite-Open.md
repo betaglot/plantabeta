@@ -6,8 +6,7 @@ search: false
 BetomName=""
 </script>
 
-# 🔷Head-Listen
-# <BB labor="" soma="" ekos="" via="" motor="" anima=""/>
+# <BB labor="Microsite.Open" soma="" ekos="" via="" motor="" anima=""/>
 
 ---
 
@@ -18,7 +17,8 @@ BetomName=""
 <!-- =================================================== -->
 ::: details &
 
--
+- A site can be divided by
+    - SpadePogo
+    - SpadeImpact
 
-- "MOTON.HeadMOTON.ListenTo"
 :::

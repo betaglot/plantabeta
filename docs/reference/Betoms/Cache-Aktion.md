@@ -8,7 +8,6 @@ BetomName=""
 
 # <BB labor="Cache.Aktion" soma="" ekos="" via="" motor="" anima=""/>
 
-
 ## What is a Cache?
 
 ## Cache Anatomy

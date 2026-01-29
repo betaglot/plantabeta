@@ -6,8 +6,7 @@ search: false
 BetomName=""
 </script>
 
-# 🔷Mano-Lock
-# <BB labor="" soma="" ekos="" via="" motor="" anima=""/>
+# <BB labor="Kryos,Mano" soma="" ekos="" via="" motor="" anima=""/>
 
 ---
 

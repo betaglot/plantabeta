@@ -5,8 +5,8 @@ search: false
 <script setup>
 BetomName=""
 </script>
-# ⭐HipHinge
-# <BB labor="" soma="" ekos="" via="" motor="" anima=""/>
+
+# <BB labor="Hinge" soma="Hip" ekos="" via="" motor="" anima=""/>
 
 ---
 

@@ -6,8 +6,7 @@ search: false
 BetomName=""
 </script>
 
-# 🔷Base,🟠Onda
-# <BB labor="" soma="" ekos="" via="" motor="" anima=""/>
+# <BB labor="Onda" soma="Leg" ekos="" via="" motor="" anima=""/>
 
 ---
 
@@ -20,6 +19,6 @@ BetomName=""
 
 -
 
-- "MOTON.LegMOTON.LegKurve"
+- "MOTON.LegMOTON.LegCurve"
 
 :::

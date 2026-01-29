@@ -6,8 +6,7 @@ search: false
 BetomName=""
 </script>
 
-# [Microsite,Skreef]
-# <BB labor="" soma="" ekos="" via="" motor="" anima=""/>
+# <BB labor="Microsite" soma="" ekos="Skreef" via="" motor="" anima=""/>
 
 ## Skreef.Anatomy
 

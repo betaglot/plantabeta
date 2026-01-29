@@ -6,8 +6,7 @@ search: false
 BetomName=""
 </script>
 
-# [MineralSoil.Hydro,Takt]
-# <BB labor="" soma="" ekos="" via="" motor="" anima=""/>
+# <BB labor="" soma="" ekos="MineralSoil.Hydro" via="Site" motor="" anima=""/>
 
 ---
 

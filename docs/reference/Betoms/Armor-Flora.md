@@ -6,7 +6,7 @@ search: false
 BetomName=""
 </script>
 
-# <BB labor="Aspis" soma="" ekos="Flora" via="" motor="" anima=""/>
+# <BB labor="Armor" soma="" ekos="Flora" via="" motor="" anima=""/>
 
 > Protecting yourself from Plant as it collides into you or as it drags along you as you push through it
 

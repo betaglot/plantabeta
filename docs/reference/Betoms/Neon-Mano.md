@@ -6,8 +6,7 @@ search: false
 BetomName=""
 </script>
 
-# [Neon,Mano]
-# <BB labor="" soma="" ekos="" via="" motor="" anima=""/>
+# <BB labor="Neon.Mano" soma="" ekos="" via="" motor="" anima=""/>
 
 ## NeonMano Purpose
 
@@ -16,6 +15,7 @@ BetomName=""
 ## NeonMano
 
 - HandSize
+- Rizo == RootPod
 - RizoSize
 - RizoIntegrity
     - Is the Rizo falling apart?
@@ -26,13 +26,13 @@ BetomName=""
 
 ## RizoMano
 
-### Submoves
+### SubAktions
 
 - FingerCurl
 - FingerUncurl
 - Finger
 
-### Supermove
+### SuperAktion
 
 - DendroInsert
 - BagIn

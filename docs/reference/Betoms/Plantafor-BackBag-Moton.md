@@ -6,8 +6,7 @@ search: false
 BetomName=""
 </script>
 
-# [BackBag,MOTON]
-# <BB labor="" soma="" ekos="" via="" motor="" anima=""/>
+# <BB labor="Plantafor.Backbag.Aktion" soma="" ekos="" via="" motor="" anima=""/>
 
 ---
 

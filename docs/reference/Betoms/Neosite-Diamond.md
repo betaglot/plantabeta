@@ -1,5 +1,12 @@
-# 🔻 <span class="via">Neosite Tetrad Diamond</span>
-# <BB labor="" soma="" ekos="" via="" motor="" anima=""/>
+---
+aside: false
+search: false
+---
+<script setup>
+BetomName=""
+</script>
+
+# <BB labor="Neosite" soma="" ekos="" via="Alignment.Diamond" motor="" anima=""/>
 
 ![ViaIkon](/Emblem/Via-Emblem.png)
 

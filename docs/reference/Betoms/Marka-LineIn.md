@@ -5,8 +5,8 @@ search: false
 <script setup>
 BetomName=""
 </script>
-# LineInMarka
-# <BB labor="" soma="" ekos="" via="" motor="" anima=""/>
+
+# <BB labor="LineIn,Marka" soma="" ekos="" via="" motor="" anima=""/>
 
 ---
 

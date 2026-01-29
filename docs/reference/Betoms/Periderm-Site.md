@@ -6,8 +6,7 @@ search: false
 BetomName=""
 </script>
 
-# [Periderm,Takt]
-# <BB labor="" soma="" ekos="" via="" motor="" anima=""/>
+# <BB labor="" soma="" ekos="Periderm" via="Site" motor="" anima=""/>
 
 ---
 

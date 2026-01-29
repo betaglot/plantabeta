@@ -33,7 +33,7 @@ DotNotation for Subset
 Brazo.Anterior-Down,🟠<span class="motor">Ama</span>
 
 - Timestamp
-- File being refered to
+- File being referred to
 - Tree_ID is SISTEM information. Planters never count their trees, so it doesn't make sense to call Tree_ID an instance of BETA.
 
 1. SISTEM
@@ -64,7 +64,7 @@ Betaglot.PlantaBeta.Sistem.Teori.Element.Ekos.Definition.Stump
 
 - Definition(Element)
     <!-- - <BC l=''s=''e='Wet_Soil'v='Takt'm=''a=''/> is not an Element -->
-        - 🟩<span class="ekos">Wet_Soil</span> is an element of <span class="ekos">EKOS</span> and 🔻<span class="via">Takt</span> is an element of <span class="via">VIA</span>
+    - 🟩<span class="ekos">Wet_Soil</span> is an element of <span class="ekos">EKOS</span> and 🔻<span class="via">Takt</span> is an element of <span class="via">VIA</span>
 
 ## Based on Euclid's Elements
 
@@ -158,8 +158,8 @@ Propose a Proposition
     - In 100 words
 
 - Moment
-    - all the Elements occuring at a given instant
-    - Anton gormley BoxBodies are like BetaInstanceCube
+    - all the Elements occurring at a given instant
+    - Anton Gormley BoxBodies are like BetaInstanceCube
     - BetaMoment is a Tuple or at least an immutable DataStructure
 
 [The 362-Page Proof That 1+1=2](https://www.youtube.com/watch?v=v9tXHIWeK2M&ab_channel=CamGee)

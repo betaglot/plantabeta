@@ -1,15 +1,14 @@
+---
+aside: false
+search: false
+---
 <script setup>
-import ElementInfo from '/vue/ElementPage/Page-ElementInfo.vue'
-import ElementTaxonomy from '/vue/ElementPage/Header-ElementTaxonomy.vue'
-let elementName = "Aspis"
-
+BetomName=""
 </script>
 
-# ⭐<span class="labor">Aspis</span>
+# <BB labor="Armor,Spade" soma="" ekos="" via="" motor="" anima=""/>
 
-<ElementTaxonomy :elementName="elementName" />
-
-<ElementInfo :elementName=elementName />
+> Block flora using the SpadeCollar
 
 ---
 
@@ -20,6 +19,6 @@ let elementName = "Aspis"
 <!-- =================================================== -->
 ::: details &
 
-- Hoplite Shield
-
+- Can be used while Walking or while TreeInsert, like a SpadePry or with a SpadeAma (SpadeAma doesn't require BrazoAma)
+- CollarMano or HandleMano or both, 2ManoMOTON
 :::

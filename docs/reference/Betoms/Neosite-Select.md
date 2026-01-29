@@ -1,5 +1,12 @@
-# <span class="beta">[NeoSite,Selection]</span>
-# <BB labor="" soma="" ekos="" via="" motor="" anima=""/>
+---
+aside: false
+search: false
+---
+<script setup>
+BetomName=""
+</script>
+
+# <BB labor="Select,Neosite" soma="" ekos="" via="" motor="" anima=""/>
 
 How to choose your next site
 
@@ -23,6 +30,8 @@ How to choose your next site
 <!-- =================================================== -->
 ::: details &
 
--
+- <BB labor="Select" soma="" ekos="" via="Site" motor="" anima=""/>
+- <BB labor="Select" soma="" ekos="" via="Passage" motor="" anima=""/>
+- <BB labor="Select,Tool" soma="" ekos="" via="" motor="" anima=""/>
 
 :::

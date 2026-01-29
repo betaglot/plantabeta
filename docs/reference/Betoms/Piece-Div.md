@@ -1,6 +1,12 @@
+---
+aside: false
+search: false
+---
+<script setup>
+BetomName=""
+</script>
 
-# 🔻<span class="via">DivPlan</span>
-# <BB labor="" soma="" ekos="" via="" motor="" anima=""/>
+# <BB labor="Piece.Tactic" soma="" ekos="" via="Div" motor="" anima=""/>
 
 Aliases: Area Planting
 

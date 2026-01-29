@@ -6,10 +6,7 @@ search: false
 BetomName=""
 </script>
 
-# 🔷Head,🟠Lean
-# <BB labor="" soma="" ekos="" via="" motor="" anima=""/>
-
-IntoWind
+# <BB labor="Kontakt,Spade.Shaft" soma="" ekos="" via="" motor="" anima=""/>
 
 ---
 
@@ -20,7 +17,7 @@ IntoWind
 <!-- =================================================== -->
 ::: details &
 
-- HeadTiltIntoWind
+- Used when pushing and holding Flora back away from Neosite
+- <BB labor="Mano,Spade.Shaft" soma="" ekos="" via="" motor="" anima=""/> is a SubBetom of SpadeSkim
 
-- "MOTON.HeadMOTON.HeadTiltIntoWind"
 :::

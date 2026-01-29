@@ -18,6 +18,7 @@ BetomName=""
 <!-- =================================================== -->
 ::: details &
 
--
+- Periderm == Bark
+- Cortex? instead of Periderm
 
 :::

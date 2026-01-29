@@ -6,13 +6,11 @@ search: false
 BetomName=""
 </script>
 
-# [Flora,Deflection]
-# <BB labor="" soma="" ekos="" via="" motor="" anima=""/>
-
+# <BB labor="Parry" soma="" ekos="Flora" via="" motor="" anima=""/>
 
 > Use a FloraParry to redirect flora which is colliding with you.  
 
-## 🕸 FloraParry.Skema
+## 🕸 FloraParry.Betarete
 
 ### Related 🟩EKOS
 

@@ -6,10 +6,7 @@ search: false
 BetomName=""
 </script>
 
-# [Spade,Aspis]
-# <BB labor="" soma="" ekos="" via="" motor="" anima=""/>
-
-> Block flora using the SpadeCollar
+# <BB labor="Extend" soma="Spine" ekos="" via="" motor="" anima=""/>
 
 ---
 
@@ -20,6 +17,8 @@ BetomName=""
 <!-- =================================================== -->
 ::: details &
 
-- Can be used while Walking or while TreeInsert, like a SpadePry or with a SpadeAma (SpadeAma doesn't require BrazoAma)
-- CollarMano or HandleMano or both, 2ManoMOTON
+- ⭐<span class="labor">Extend</span> 🔻<span class="via">Extension</span>
+- Jelly Pump to reposition Spine vertebrae back into alignment
+
+- "MOTON.BodyMOTON.SpineExtension"
 :::

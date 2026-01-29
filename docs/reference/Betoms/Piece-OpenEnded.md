@@ -1,5 +1,12 @@
-# 🔻 <span class="via">OpenEndedPlan</span>
-# <BB labor="" soma="" ekos="" via="" motor="" anima=""/>
+---
+aside: false
+search: false
+---
+<script setup>
+BetomName=""
+</script>
+
+# <BB labor="Piece.Tactic" soma="" ekos="" via="OpenEnded" motor="" anima=""/>
 
 > Lacking Zone Limits
 

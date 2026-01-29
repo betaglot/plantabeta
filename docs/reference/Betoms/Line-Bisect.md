@@ -1,6 +1,12 @@
+---
+aside: false
+search: false
+---
+<script setup>
+BetomName=""
+</script>
 
-# 🔻<span class="via">BisectLine</span>
-# <BB labor="" soma="" ekos="" via="" motor="" anima=""/>
+# <BB labor="" soma="" ekos="" via="Line.Bisect" motor="" anima=""/>
 
 > A line that Bisects a space or line
 

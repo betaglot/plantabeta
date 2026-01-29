@@ -7,7 +7,7 @@ BetomName=""
 </script>
 
 # [Microsite,Mark]
-# <BB labor="" soma="" ekos="" via="" motor="" anima=""/>
+# <BB labor="Microsite" soma="" ekos="" via="" motor="" anima=""/>
 
 Aliases: Flagging your tree
 

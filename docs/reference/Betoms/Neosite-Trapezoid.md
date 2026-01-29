@@ -1,5 +1,12 @@
-# 🔻 <span class="via">TrapezoidCover</span>
-# <BB labor="" soma="" ekos="" via="" motor="" anima=""/>
+---
+aside: false
+search: false
+---
+<script setup>
+BetomName=""
+</script>
+
+# <BB labor="Neosite" soma="" ekos="" via="Trapezoid" motor="" anima=""/>
 
 - [TrapezoidalDecomposition](https://user.ceng.metu.edu.tr/~akifakkus/courses/ceng786/hw3.html)
 

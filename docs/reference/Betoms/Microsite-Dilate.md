@@ -6,8 +6,7 @@ search: false
 BetomName=""
 </script>
 
-# [Microsite,Dilate]
-# <BB labor="" soma="" ekos="" via="" motor="" anima=""/>
+# <BB labor="Microsite.Dilate" soma="" ekos="" via="" motor="" anima=""/>
 
 Aliases: HoleOpen, Open a Hole
 

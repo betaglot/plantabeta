@@ -6,8 +6,7 @@ search: false
 BetomName=""
 </script>
 
-# [InsulationLayer,MOTON]
-# <BB labor="" soma="" ekos="" via="" motor="" anima=""/>
+# <BB labor="Layer.Insulation.Aktion" soma="" ekos="" via="" motor="" anima=""/>
 
 ---
 

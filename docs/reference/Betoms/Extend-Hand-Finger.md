@@ -6,8 +6,7 @@ search: false
 BetomName=""
 </script>
 
-# [Microsite,Enter]
-# <BB labor="" soma="" ekos="" via="" motor="" anima=""/>
+# <BB labor="Extend" soma="Finger" ekos="" via="" motor="" anima=""/>
 
 ---
 
@@ -18,8 +17,6 @@ BetomName=""
 <!-- =================================================== -->
 ::: details &
 
-- A site can be divided by
-    - SpadePogo
-    - SpadeImpact
+-
 
 :::
