@@ -100,14 +100,20 @@ grid-template-columns: repeat(16, 1fr);
 
 <BB labor="LABOR" soma="SOMA" ekos="EKOS" via="VIA" motor="MOTOR" anima="ANIMA"/>
 
+<BB labor="Error,Task,Piece,Aktion,Tool,Strategy,Performance" soma="" ekos="" via="Geometry,Direction,X-axis,Y-axis,Z-axis,Position,Orientation,Logic,Probability" motor="" anima=""/>
+
 1. <span class="labor">LABOR</span>
-    1. <span class="labor">Task</span>
+    1. <span class="labor">Error</span>
+    2. <span class="labor">Task</span>
         1. <span class="labor">Piece</span>
         2. <span class="labor">Aktion</span>
-    2. <span class="labor">Tool</span>
-    3. <span class="labor">Performance</span>
+    3. <span class="labor">Tool</span>
+    4. <span class="labor">Strategy</span>
+    5. <span class="labor">Performance</span>
 2. <span class="soma">SOMA</span>
 3. <span class="ekos">EKOS</span>
+    1. <span class="ekos">Ekosfera</span>
+    2. <span class="ekos">Klimon</span>
 4. <span class="via">VIA</span>
     1. <span class="via">Geometry</span>
       1. <span class="via">Direction</span>
@@ -115,9 +121,12 @@ grid-template-columns: repeat(16, 1fr);
         2. <span class="via">Y-axis</span>
         3. <span class="via">Z-axis</span>
       2. <span class="via">Position</span>
+        1. <span class="via">Proximity</span>
       3. <span class="via">Orientation</span>
     2. <span class="via">Logic</span>
     3. <span class="via">Probability</span>
+        1. <span class="via">Site</span>
+        2. <span class="via">Passage</span>
 5. <span class="motor">MOTOR</span>
 6. <span class="anima">ANIMA</span>
 

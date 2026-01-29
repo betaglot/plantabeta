@@ -1,5 +1,5 @@
 <template>
-    <a href="/guide/WhatKlimBeta/Overview">
+    <a href="/guide/WhatPlantaBeta/Overview">
         <div class="rainbow rounded-xl mt-12 py-16 text-decoration-none border-opacity-100 border-xl">
             <div class="text-h1 text-center">Start Here</div>
         </div>
