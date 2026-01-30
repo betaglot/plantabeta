@@ -6,7 +6,7 @@ search: false
 BetomName=""
 </script>
 
-# <BB labor="Preserve.Boot" />
+# <BB labor="Boot.Preserve" />
 
 ---
 
