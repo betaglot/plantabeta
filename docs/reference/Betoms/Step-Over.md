@@ -23,7 +23,7 @@ BetomName=""
 - StepInto
 - StepOver
 - TestStep
-    - SlowMOTON
+    - SlowAktion
     - Like SpadeTest, Test a Kontakt before putting your full weight on it
         - UnstableSlope
         - SlipperySlope
@@ -31,9 +31,9 @@ BetomName=""
         - (StepOn != WalkOn)
         - TestKick
 
-- "MOTON.LegMOTON.Step"
-- "MOTON.LegMOTON.Step.BackStep"
-- "MOTON.LegMOTON.Step.KickStep"
-- "MOTON.LegMOTON.Step.SideStep"
+- "Aktion.LegAktion.Step"
+- "Aktion.LegAktion.Step.BackStep"
+- "Aktion.LegAktion.Step.KickStep"
+- "Aktion.LegAktion.Step.SideStep"
 
 :::

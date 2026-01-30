@@ -8,11 +8,11 @@ BetomName=""
 
 # <BB labor="Markum.Knot"     />
 
-## MarkaBowtie
+## Markum.Bowtie
 
-## MarkaGirthHitch
+## Markum.GirthHitch
 
-## MarkaOverhandKnot
+## Markum.OverhandKnot
 
 ---
 

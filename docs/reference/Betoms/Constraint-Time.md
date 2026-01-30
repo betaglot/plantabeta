@@ -8,7 +8,7 @@ BetomName=""
 
 # <BB    via="Constraint" motor="Time" />
 
-After a BlockMOTON you are given a piece and you only have 70 minutes before DayFinishTime
+After a BlockAktion you are given a piece and you only have 70 minutes before DayFinishTime
 
 - Prepare for Tomorrow
 

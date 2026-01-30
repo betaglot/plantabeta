@@ -19,6 +19,6 @@ BetomName=""
 
 - StompTest when LogWalking
 
-- "MOTON.LegMOTON.Stomp"
+- "Aktion.LegAktion.Stomp"
 
 :::

@@ -18,7 +18,7 @@ BetomName=""
 ::: details &
 
 - SpadeMuscleUp
-- TrunkMOTON
+- TrunkAktion
     - Pull on Trunk to StandUp
 - SitToStand
 - BagSpill often occurs during GetUp

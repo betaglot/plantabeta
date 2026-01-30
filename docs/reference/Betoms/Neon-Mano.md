@@ -20,7 +20,7 @@ BetomName=""
 - RizoIntegrity
     - Is the Rizo falling apart?
 
-## RequiredInstruments
+## RequiredTools
 
 - Glove
 
@@ -61,7 +61,7 @@ BetomName=""
         - No roots exposed
             - ShallowTree
 - DendroFlip
-- BlindMOTON
+- BlindAktion
 - RizoMano
 - TreeLoad
     - FeelingForHold

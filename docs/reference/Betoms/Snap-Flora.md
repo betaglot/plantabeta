@@ -19,5 +19,5 @@ BetomName=""
 
 -
 
-- "MOTON.ManoMOTON.BranchSnapMano"
+- "Aktion.ManoAktion.BranchSnapMano"
 :::

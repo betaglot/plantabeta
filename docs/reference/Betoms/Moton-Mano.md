@@ -30,39 +30,39 @@ BetomName=""
     - ScoopMano
         - When your Thumb can't oppose fingers because the Mano radius is too large
         - LogLaunch
-        - TrunkMOTON
+        - TrunkAktion
         - HandSmear
     - SleeveMano
     - PocketMano
     - PistolMano
         - Tarp
         - BagMano
-    - 2ManoMOTON
+    - 2ManoAktion
         - SMano
         - CableMano
             - No thumbs
         - ButterflyMano
         - SeatbeltMano
 
-- "MOTON.ManoMOTON.CupMano"
-- "MOTON.ManoMOTON.FingerMOTON.FingerCurl"
-- "MOTON.ManoMOTON.FingerMOTON.FingerFlexion"
-- "MOTON.ManoMOTON.FingerMOTON.FingerHook"
-- "MOTON.ManoMOTON.FingerMOTON.FingerPoke"
-- "MOTON.ManoMOTON.FingerMOTON.Overview"
-- "MOTON.ManoMOTON.FingerMOTON.ThumbHook
-- MOTON.ManoMOTON.FingerMOTON.FingerExtension"
-- "MOTON.ManoMOTON.FingerOverlapPoke"
-- "MOTON.ManoMOTON.FingertipPress"
-- "MOTON.ManoMOTON.GentleMano"
-- "MOTON.ManoMOTON.HandRoll"
-- "MOTON.ManoMOTON.HandSlide"
-- "MOTON.ManoMOTON.HandSlot"
-- "MOTON.ManoMOTON.HandSmear"
-- "MOTON.ManoMOTON.HandSwap"
-- "MOTON.ManoMOTON.Overview"
-- "MOTON.ManoMOTON.PinchMano"
-- "MOTON.ManoMOTON.TrunkMano"
-- "MOTON.ManoMOTON.UnderclingMano"
+- "Aktion.ManoAktion.CupMano"
+- "Aktion.ManoAktion.FingerAktion.FingerCurl"
+- "Aktion.ManoAktion.FingerAktion.FingerFlexion"
+- "Aktion.ManoAktion.FingerAktion.FingerHook"
+- "Aktion.ManoAktion.FingerAktion.FingerPoke"
+- "Aktion.ManoAktion.FingerAktion.Overview"
+- "Aktion.ManoAktion.FingerAktion.ThumbHook
+- Aktion.ManoAktion.FingerAktion.FingerExtension"
+- "Aktion.ManoAktion.FingerOverlapPoke"
+- "Aktion.ManoAktion.FingertipPress"
+- "Aktion.ManoAktion.GentleMano"
+- "Aktion.ManoAktion.HandRoll"
+- "Aktion.ManoAktion.HandSlide"
+- "Aktion.ManoAktion.HandSlot"
+- "Aktion.ManoAktion.HandSmear"
+- "Aktion.ManoAktion.HandSwap"
+- "Aktion.ManoAktion.Overview"
+- "Aktion.ManoAktion.PinchMano"
+- "Aktion.ManoAktion.TrunkMano"
+- "Aktion.ManoAktion.UnderclingMano"
 
 :::

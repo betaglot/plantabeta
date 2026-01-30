@@ -25,8 +25,8 @@ BetomName=""
 - HeadRetraction
     - To prevent straining posterior neck muscle
 
-- "MOTON.HeadMOTON.Find.Marka"
-- "MOTON.HeadMOTON.LookAt"
-- "MOTON.HeadMOTON.Overview"
+- "Aktion.HeadAktion.Find.Markum"
+- "Aktion.HeadAktion.LookAt"
+- "Aktion.HeadAktion.Overview"
 
 :::

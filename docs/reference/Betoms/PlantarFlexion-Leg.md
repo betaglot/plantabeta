@@ -19,5 +19,5 @@ BetomName=""
 
 -
 
-- "MOTON.FootMOTON.PlantarFlexion"
+- "Aktion.FootAktion.PlantarFlexion"
 :::

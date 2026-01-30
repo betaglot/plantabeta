@@ -17,6 +17,6 @@ BetomName=""
 <!-- =================================================== -->
 ::: details &
 
-- Reach down to a Hole is more than just BrazoReach
+- Progress down to a Hole is more than just BrazoProgress
 
 :::

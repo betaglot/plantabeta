@@ -20,7 +20,7 @@ BetomName=""
 - ManoOrbit.SubAktion(ManoSlide)
 - ManoOrbit around Collar, Plast, trunk, branch
 - IsometricContraction
-- SuperMOTON(SpadeOnda, SpadeMuscleUp, SpadeSpike)
+- SuperAktion(SpadeOnda, SpadeMuscleUp, SpadeSpike)
 - ManoOrbit
 
 :::

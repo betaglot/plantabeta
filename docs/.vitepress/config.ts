@@ -243,7 +243,7 @@ function sidebarElements() {
         },
         {
           text: '⭐<span class="labor">Strategy</span>', link: '/reference/Elements/Labor/Strategy/Overview', collapsed: true, items: [
-            { text: '<span class="labor">Tactic</span>', link: '/reference/Elements/Labor/Strategy/Tactic/Overview' },
+            { text: '<span class="labor">Taktik</span>', link: '/reference/Elements/Labor/Strategy/Taktik/Overview' },
           ]
         },
         {

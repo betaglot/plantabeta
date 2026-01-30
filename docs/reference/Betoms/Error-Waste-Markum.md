@@ -8,10 +8,10 @@ BetomName=""
 
 # <BB labor="Error.Waste,Markum"     />
 
-- LowMarka
-- MarkaError
-- Marka will not be used in the Future
-- Marka which has blown away from it's intended position
+- LowMarkum
+- MarkumError
+- Markum will not be used in the Future
+- Markum which has blown away from it's intended position
 
 ---
 

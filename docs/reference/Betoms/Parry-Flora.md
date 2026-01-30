@@ -24,7 +24,7 @@ BetomName=""
 
 ### Related 🟠MOTOR
 
-- RadiorMOTON
+- RadiorAktion
 
 ### Related 💜ANIMA
 
@@ -40,7 +40,7 @@ BetomName=""
 ::: details &
 
 - ParryUp, ParryLateral
-- FloraSwim, like BreastStroke to part a way through Flora. 2ArmMOTON
+- FloraSwim, like BreastStroke to part a way through Flora. 2ArmAktion
     - TallGrassSwim
 - Can be performed with Arm or Spade
     - Avoid having a tree in your hand
@@ -49,6 +49,6 @@ BetomName=""
 - ShrugOff a Tackle
     - TorsoTwist
 
-- "MOTON.PlantMOTON.BranchArmDeflection"
-- "MOTON.PlantMOTON.BranchDeflection"
+- "Aktion.PlantAktion.BranchArmDeflection"
+- "Aktion.PlantAktion.BranchDeflection"
 :::

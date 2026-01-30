@@ -27,7 +27,7 @@ BetomName=""
 ::: details &
 
 - CleanGloves to remove the grit that causes SkinErosion
-- FingerRevertMOTON
+- FingerRevertAktion
     - GloveOff
 - GloveWipe
     - To remove Mud

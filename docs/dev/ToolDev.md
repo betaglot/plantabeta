@@ -1,13 +1,13 @@
 ---
 search: false
 ---
-# 🛠 InstrumentDev
+# 🛠 ToolDev
 
-The most important constraint for Instruments is the space it takes in the Truck.
+The most important constraint for Tools is the space it takes in the Truck.
 
 ## <span class="labor">TrailerDev</span>
 
-A trailer loaded with everthing that PlanterS need for their season. For Planters only, not for company logistics like water purification or showers or kitchen.
+A trailer loaded with everything that PlanterS need for their season. For Planters only, not for company logistics like water purification or showers or kitchen.
 
 > What your company needs to join the cutting edge of tree Planter technology
 
@@ -45,7 +45,7 @@ Not a place where many duplicates items are stored
     - 2k pacer
     - Input BagOut parameters
 
-## ⭐<span class="labor">MarkaDev</span>
+## ⭐<span class="labor">MarkumDev</span>
 
 > Paper Towel cut into strips and painted <span class="soma">BLUE</span> with non toxic paint
 
@@ -76,12 +76,12 @@ Not a place where many duplicates items are stored
     - Bilayer that curves when stretched and released. For FloraWrap
 
 - How are notebooks perforated?
-- Marka wrap is waiter bill fold
+- Markum wrap is waiter bill fold
 - With cut corner about an inch to maximize surface during branch wrap. Like an ornament or cow ear tag
-- Wooden staple for Marka
-- Marka is a source of income for PlantaBeta
-- Paper Trombone to lock Marka like a Bookmark
-- Marka ring
+- Wooden staple for Markum
+- Markum is a source of income for PlantaBeta
+- Paper Trombone to lock Markum like a Bookmark
+- Markum ring
 - Paper
 - Conformable
 - Biodegradable
@@ -209,7 +209,7 @@ Pannier
 ### ⭐<span class="labor">BackBagDev</span>
 
 - ❌<error>There needs to be another moniker for "BackBag"</error>
-    - Something like "Instrumentbox"
+    - Something like "Toolbox"
 
 - Use waterproof Flap instead of sphincter design, since sphincter allows water to collect and slowly seep into backbag.
 - Pocket on underside of Flap
@@ -237,7 +237,7 @@ More than one color
 
 ## ⭐<span class="labor">RopeDev</span>
 
-Rope to transport the Instruments
+Rope to transport the Tools
 
 ### ⭐<span class="labor">PlotCordDev</span>
 
@@ -399,7 +399,7 @@ SuitParts = [
 
 > Protects Shins
 
-#### InstrumentRequirements(Tibior)
+#### ToolRequirements(Tibior)
 
 - Shell
 - Wire stirrup,not woven
@@ -480,7 +480,7 @@ Aang Cape
 
 ### LocalizedRepair
 
-## ⭐<span class="labor">EcoInstruments</span>
+## ⭐<span class="labor">EcoTools</span>
 
 ### ⭐<span class="labor">TreeBox</span>
 
@@ -527,7 +527,7 @@ Closed by Tabs
 
 Weave Tab
 
-## Instrument Diagram
+## Tool Diagram
 
 ### Bags Diagram
 
@@ -550,14 +550,14 @@ Weave Tab
 
 Planting Bags used all year round are no longer called planting bags. `(Silvicolum)Latin = "Inhabitor of woods"`
 
-- "Dev.InstrumentDiagram"
-- "Dev.InstrumentDiagram.BagsDiagram"
-- "Dev.Instruments"
-- "Dev.Instruments.Cart"
-- "Dev.Instruments.Marka"
-- "Dev.Instruments.Kit"
-- "Dev.Instruments.PlantingBag"
-- "Dev.Instruments.Skreefer"
-- "Dev.Instruments.Spade"
+- "Dev.ToolDiagram"
+- "Dev.ToolDiagram.BagsDiagram"
+- "Dev.Tools"
+- "Dev.Tools.Cart"
+- "Dev.Tools.Markum"
+- "Dev.Tools.Kit"
+- "Dev.Tools.PlantingBag"
+- "Dev.Tools.Skreefer"
+- "Dev.Tools.Spade"
 
 :::

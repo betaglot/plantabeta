@@ -16,12 +16,12 @@ post verb (MAKE KNOWN)
 
 Markums are posted throughout the land.
 
-## MarkumMOTON.Anatomy
+## MarkumAktion.Anatomy
 
 - MarkumBody
 - MarkumEnd
 
-## MarkumMOTON.Attributes
+## MarkumAktion.Attributes
 
 - MarkumLength
 - MarkumWidth
@@ -41,8 +41,8 @@ Markums are posted throughout the land.
 - SpadeHand Markum Mano is obsolete from a time before Markum pouch
 - Markum follow through motion to ensure that the Markum doesn't fold back on itself, since fully extended Markum drapes over branches, while clumped Markum just falls to the ground
 
-- "MOTON.InstrumentMOTON.MarkumMOTON.MarkumDrop"
-- "MOTON.InstrumentMOTON.MarkumMOTON.MarkumStump"
-- "MOTON.InstrumentMOTON.MarkumMOTON.MOTONError.PlantedMarkum"
-- "MOTON.InstrumentMOTON.MarkumMOTON.Overview"
+- "Aktion.ToolAktion.MarkumAktion.MarkumDrop"
+- "Aktion.ToolAktion.MarkumAktion.MarkumStump"
+- "Aktion.ToolAktion.MarkumAktion.AktionError.PlantedMarkum"
+- "Aktion.ToolAktion.MarkumAktion.Overview"
 :::

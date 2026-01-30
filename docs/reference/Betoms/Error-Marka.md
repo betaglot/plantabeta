@@ -6,11 +6,11 @@ search: false
 BetomName=""
 </script>
 
-# <BB labor="Error,Marka"     />
+# <BB labor="Error,Markum"  />
 
-- Don't walk into the bush that you just high Markaged the spring back to vertical will dislodge the Marka.
+- Don't walk into the bush that you just high Marked the spring back to vertical will dislodge the Markum.
 
-- Only Tie Marka when you're Markaging a boundary. All other times place or weave Marka
+- Only Tie Markum when you're Marking a boundary. All other times place or weave Markum
 
 ---
 
@@ -21,7 +21,7 @@ BetomName=""
 <!-- =================================================== -->
 ::: details &
 
-- MarkaSnag
-    - MarkaRoll can get snagged on by EKOS and unrolls as you walk away. This can waste dozens of meters of Marka.
+- MarkumSnag
+    - MarkumRoll can get snagged on by EKOS and unrolls as you walk away. This can waste dozens of meters of Markum.
 
 :::

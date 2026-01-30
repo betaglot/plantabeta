@@ -6,7 +6,7 @@ search: false
 BetomName=""
 </script>
 
-# <BB labor="Bag"   via="Site"  />
+# <BB labor="Bag" via="Site" />
 
 ---
 
@@ -17,8 +17,8 @@ BetomName=""
 <!-- =================================================== -->
 ::: details &
 
-- BagRimTakt
-- BagBodyTakt
-- BagBottomTakt
+- BagRimSite
+- BagBodySite
+- BagBottomSite
 
 :::

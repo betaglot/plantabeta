@@ -22,5 +22,5 @@ BetomName=""
     - TruckLoad
     - Deadlift over a large log
 
-- "MOTON.InstrumentMOTON.BagMOTON.BagDeadlift"
+- "Aktion.ToolAktion.BagAktion.BagDeadlift"
 :::

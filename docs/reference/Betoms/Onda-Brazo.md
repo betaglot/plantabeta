@@ -22,6 +22,6 @@ BetomName=""
     - FallRedirection
         - PanBeta(SlacklineBeta)
 
-- "MOTON.ArmMOTON.ArmKurve"
+- "Aktion.ArmAktion.ArmKurve"
 
 :::

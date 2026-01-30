@@ -8,7 +8,7 @@ BetomName=""
 
 # <BB labor="Zelcro.Aktion" soma="" ekos="" via="" motor="" anima=""/>
 
-## ❌<error>ZelcroMOTON.Error</error>
+## ❌<error>ZelcroAktion.Error</error>
 
 - Dirt in Zelcro
 

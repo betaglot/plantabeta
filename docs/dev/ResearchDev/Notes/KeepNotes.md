@@ -21,7 +21,7 @@ search: false
 - Having a rain shield makes you feel better even if there is no difference in cold. It's not the wetness, but the cold that people dislike. Rain layer also prevents dermal evaporative cooling
 <!-- - <BC l='WaterproofGlove, Kit, Waterproof Bag's=''e=''v=''m=''a=''/> Waterproof gloves should be stored dry in a waterproof bag -->
 - Amy would be an ideal head Planter kapoPlanter
-<!-- - <BC l='TacticalRest's=''e=''v=''m=''a=''/> TacticalRest TacticalRestDay -->
+<!-- - <BC l='Taktik.Rest's=''e=''v=''m=''a=''/> Taktik.Rest Taktik.RestDay -->
 - Trees are mechanical pumps
 <!-- - <BC l='Team, Replant's=''e=''v='Alignment'm=''a=''/> Patrol line replant -->
 - Space out in the y axis to get to back faster

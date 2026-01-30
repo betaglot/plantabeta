@@ -80,7 +80,7 @@
         "Stall",
         "Strategy",
         "Swap",
-        "Tactic",
+        "Taktik",
         "Tangent",
         "Task",
         "Tasks",
@@ -484,9 +484,9 @@
             "SubSwap1",
             "SubSwap2"
         ],
-        "Tactic": [
-            "SubTactic1",
-            "SubTactic2"
+        "Taktik": [
+            "SubTaktik1",
+            "SubTaktik2"
         ],
         "Tangent": [
             "SubTangent1",

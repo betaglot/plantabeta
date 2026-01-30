@@ -28,5 +28,5 @@ Aliases: ArmWalk
 
 -
 
-- "MOTON.ArmMOTON.ArmWalk"
+- "Aktion.ArmAktion.ArmWalk"
 :::

@@ -30,6 +30,6 @@ BetomName=""
 <!-- =================================================== -->
 ::: details &
 
-- SiteSkreef is a MOTON and an Ekon
+- SiteSkreef is a Aktion and an Ekon
 
 :::

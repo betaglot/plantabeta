@@ -36,6 +36,6 @@ BetomName=""
 - LeanOnSlope
 - LeanOnSpadeTab
 
-- "MOTON.BodyMOTON.BodyLean"
+- "Aktion.BodyAktion.BodyLean"
 
 :::

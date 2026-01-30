@@ -8,17 +8,17 @@ BetomName=""
 
 # <BB labor="Markum.Roll"     />
 
-## MarkaUnroll
+## Markum.Unroll
 
-## MarkaRollUp
+## Markum.RollUp
 
-## MarkaRollError
+## Markum.RollError
 
-### Unwanted MarkaUnroll
+### Unwanted Markum.Unroll
 
-- Use a lighter to melt the Marka to itself to prevent unwanted unroll.
+- Use a lighter to melt the Markum to itself to prevent unwanted unroll.
 
-- Unroll too much Marka, ie MarkaLength is too long.
+- Unroll too much Markum, ie MarkumLength is too long.
 
 ---
 
@@ -31,5 +31,5 @@ BetomName=""
 
 -
 
-- "MOTON.InstrumentMOTON.MarkaMOTON.MarkaRoll"
+- "Aktion.ToolAktion.MarkumAktion.MarkumRoll"
 :::

@@ -6,21 +6,21 @@ search: false
 BetomName=""
 </script>
 
-# <BB labor="Marka" soma="" ekos="" via="Site" motor="" anima=""/>
+# <BB labor="Markate" soma="" ekos="" via="Site" motor="" anima=""/>
 
-## StumpMarka
+## StumpMarkum
 
-## BranchMarka
+## Branch.Markum
 
-## MoundMarka
+## Mound.Markum
 
-## TrenchMarka
+## Trench.Markum
 
-## BushMarka
+## Bush.Markum
 
-## LineInMarka
+## LineIn.Markum
 
-## SlashPileMarka
+## SlashPile.Markum
 
 ---
 

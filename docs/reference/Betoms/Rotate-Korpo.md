@@ -19,6 +19,6 @@ BetomName=""
 
 - SpinAway PanBeta(RugbyBeta)
 
-- "MOTON.BodyMOTON.BodyRotate"
+- "Aktion.BodyAktion.BodyRotate"
 
 :::

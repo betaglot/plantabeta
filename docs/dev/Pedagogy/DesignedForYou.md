@@ -83,7 +83,7 @@ Beta is composed of four types, each of which can be represented by an icon:
 
 🟩<span class="ekos">EKOS </span>: All biologic and geologic objects and processes you interact with while in a planting block. For example: slash, roads, stumps, plants, soil and weather.
 
-🟠<span class="motor">MOTON </span>: The movements and Instruments you use to plant trees. For example: slamming your spade into the ground, ripping Marka, your clothing and your bags.
+🟠<span class="motor">MOTON </span>: The movements and Instruments you use to plant trees. For example: slamming your spade into the ground, ripping Markum, your clothing and your bags.
 
 🔻<span class="via">VIA </span>: The path taken by Planters. For example: your line in, backfilling, area planting, bouncing while partner planting and deadwalking
 
@@ -132,11 +132,11 @@ Beta is composed of four types, each of which can be represented by an icon:
 - 🔻<span class="via">Walkout</span>: Walkout using the most direct path unless there's a road, skidder trail or clear path near.
     - The PathOfLeastResistance is sometimes faster than ShortestPath
 
-- 🔻<span class="via">Cover-❌<error>Error</error></span>: FrontFilling is when there are trees between the cache and backline
+- 🔻<span class="via">Cover-❌<error>Error</error></span>: FrontFilling is when there are trees between the cache and Piece.BackBoundary
 
 - 🔻<span class="via">VIA-❌<error>Error</error></span>: Don't walk up and down slope, only up and across slope, during BoustroCover and ZigzagCover.
 
-- 🔻<span class="via">Marka</span>: Only Marka the "zag" of ZigzagCover.
+- 🔻<span class="via">Markate</span>: Only Markate the "zag" of ZigzagCover.
 
 - 🔻<span class="via">⭐<span class="labor">Marka</span>-❌<error>Error</error></span>: Attempt to high Marka in fill plants whenever possible. The Marka may fall to the ground, but it's worth taking the chance since a high Marka is more valuable than the time wasted from a HighMarka Fail.
 

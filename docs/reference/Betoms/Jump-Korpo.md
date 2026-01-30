@@ -20,6 +20,6 @@ BetomName=""
 - VerticalJump PanBeta(HighJump)
 - HorizontalJump PanBeta(LongJump)
 
-- "MOTON.LegMOTON.Jump"
+- "Aktion.LegAktion.Jump"
 
 :::

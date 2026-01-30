@@ -8,11 +8,11 @@ BetomName=""
 
 # <BB labor="Amble" soma="Body"    />
 
-![MOTONIkon](/Emblem/Motor-Emblem.png)
+![AktionIkon](/Emblem/Motor-Emblem.png)
 
 ## Amble.Purpose
 
-- Amble is the most frequent top level MOTON
+- Amble is the most frequent top level Aktion
 
 ## Amble.Attributes
 
@@ -65,6 +65,6 @@ Aim small miss small. Larger moves have larger potential for error
 - (ArmAmble + Amble) on SteepSlope
 - StompTest when LogAmbling
 
-- "MOTON.BodyMOTON.Amble"
+- "Aktion.BodyAktion.Amble"
 
 :::

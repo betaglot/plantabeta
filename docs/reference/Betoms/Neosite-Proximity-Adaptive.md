@@ -21,9 +21,9 @@ Aliases: Reactive Spacing, Responsive Spacing, Flexible Spacing
 
 - WorkingMemory
 
-## MOTONElements
+## AktionElements
 
-- MOTONSize
+- AktionSize
 - LookAt
 - ExtraStep
 

@@ -235,7 +235,7 @@ json_data = """
                 "faktor": "",
                 "children": [
                     {
-                        "name": "Tactics",
+                        "name": "Taktiks",
                         "faktor": "",
                         "children": []
                     }

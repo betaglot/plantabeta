@@ -19,7 +19,7 @@ BetomName=""
 
 - FeelingForKontakt to find WrapperStart
 - PinchSlideGrip
-- 2HandMOTON
+- 2HandAktion
     - (PinchMano + ScoopMano)
 
 :::

@@ -8,7 +8,7 @@ BetomName=""
 
 # <BB labor="Error" soma="Leg"    />
 
-## FootMOTONError
+## FootAktionError
 
 FootSnag
 

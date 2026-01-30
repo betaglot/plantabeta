@@ -19,6 +19,6 @@ BetomName=""
 
 -
 
-- "MOTON.ManoMOTON.HandPoke"
+- "Aktion.ManoAktion.HandPoke"
 
 :::

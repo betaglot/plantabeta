@@ -1992,13 +1992,13 @@
             "elementQuote": []
         }
     },
-    "Tactic": {
-        "elementEnglishName": "Tactic",
+    "Taktik": {
+        "elementEnglishName": "Taktik",
         "elementFaktor": "Labor",
         "elementID": "",
         "elementTaxonomy": [
             "Labor",
-            "Tactic"
+            "Taktik"
         ],
         "elementAlias": [],
         "elementDescription": [

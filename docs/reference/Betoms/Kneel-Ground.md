@@ -17,8 +17,8 @@ BetomName=""
 <!-- =================================================== -->
 ::: details &
 
-- (Kneel+ArmReach) during BagIn
+- (Kneel+ArmProgress) during BagIn
 
-- "MOTON.LegMOTON.Kneel"
+- "Aktion.LegAktion.Kneel"
 
 :::

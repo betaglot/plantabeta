@@ -14,7 +14,7 @@ BetomName=""
 
 - Plant hexagons
 
-MOTON on a hexagonal grid like CGP grey YouTube
+Aktion on a hexagonal grid like CGP grey YouTube
 <https://youtu.be/bgR3yESAEVE>
 
 ---

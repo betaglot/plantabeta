@@ -19,5 +19,5 @@ BetomName=""
 
 - PanBeta(BJJ, [PistolMano, SleeveMano, PocketMano])
 
-- "MOTON.CacheMOTON.TarpOn"
+- "Aktion.CacheAktion.TarpOn"
 :::

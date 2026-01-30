@@ -8,7 +8,7 @@ BetomName=""
 
 # <BB labor="Slot" soma="Korpo" ekos="" via="" motor="" anima=""/>
 
-![MOTONIkon](/Emblem/Motor-Emblem.png)
+![AktionIkon](/Emblem/Motor-Emblem.png)
 
 ## 🕸 BodySlot.Skema
 
@@ -25,7 +25,7 @@ BetomName=""
 - SpadeBlock
 - BodyRotate to decrease your cross sectional Width
 - FootPivot
-- TorsoTwist, so your Bags and hips are LateralMOTON, while Torso is facing Anterior
+- TorsoTwist, so your Bags and hips are LateralAktion, while Torso is facing Anterior
 
 ---
 
@@ -37,6 +37,6 @@ BetomName=""
 ::: details &
 
 - (BodySlot != FloraPass)
-    - Slotting between two trunks or between two rocks doesn't require any FloraMOTON
+    - Slotting between two trunks or between two rocks doesn't require any FloraAktion
 
 :::

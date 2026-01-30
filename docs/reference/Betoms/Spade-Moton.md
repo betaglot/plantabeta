@@ -8,7 +8,7 @@ BetomName=""
 
 # <BB labor="Spade.Aktion" soma="" ekos="" via="" motor="" anima=""/>
 
-## SpadeMOTON.Anatomy
+## SpadeAktion.Anatomy
 
 - Blade
     - BladeConvex

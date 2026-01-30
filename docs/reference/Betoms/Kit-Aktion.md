@@ -19,7 +19,7 @@ AlsoKnownAs(CacheBag)
 Kit = {
     'Carabiner',
     'DryBag',
-    'ExtraMarkaRoll',
+    'ExtraMarkumRoll',
     'ExtraGloves',
     'FoodContainer',
     'InsulationLayer',
@@ -28,7 +28,7 @@ Kit = {
     'WaterBottle'
 }
 
-### BottleReCoverMOTON
+### BottleReCoverAktion
 
 ---
 

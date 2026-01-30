@@ -6,7 +6,7 @@ search: false
 BetomName=""
 </script>
 
-# <BB labor="Marka" soma="" ekos="" via="Div" motor="" anima=""/>
+# <BB labor="Markate" soma="" ekos="" via="Div" motor="" anima=""/>
 
 ---
 
@@ -19,7 +19,7 @@ BetomName=""
 
 - AreaFlagging
     - Flag the areas that are Complete
-- ZoneMarka marks within a Zone
-- BorderMarka marks the limits of an Zone
+- Zone,Markum marks within a Zone
+- BorderMarkate marks the limits of an Zone
 
 :::

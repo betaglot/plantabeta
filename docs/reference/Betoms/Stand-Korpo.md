@@ -19,6 +19,6 @@ BetomName=""
 
 - Balance
 - MountainPose
-- MOTONAxiom
+- AktionnAxiom
 
 :::

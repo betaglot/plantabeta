@@ -28,5 +28,5 @@ BetomName=""
     - Breathing in Particles of soil
 - (LookAway != NoLookAt)
 
-- "MOTON.HeadMOTON.LookAway"
+- "Aktion.HeadAktion.LookAway"
 :::

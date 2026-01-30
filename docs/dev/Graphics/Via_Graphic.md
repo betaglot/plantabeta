@@ -31,7 +31,7 @@ DottedLine=Deadwalk
 
 SolidLine=Line
 
-CrossedLine=MarkagedLine
+CrossedLine=MarkedLine
 
 ## Montreal Metro Map
 

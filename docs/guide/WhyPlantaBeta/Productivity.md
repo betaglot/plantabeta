@@ -21,9 +21,9 @@ A greater Planter efficiency leads to:
 - Less Deadwalking
 - Fewer Injury
 - More efficient vias
-- Effective Markaging
-    - Marka which is more visible.
-    - Lower Marka expense
+- Effective Markation
+    - Markum which is more visible.
+    - Lower Markum expense
 ::: danger Unteachable Character Traits
 
 A Planter can know everything about how to be a Planter, but still not plant to their maximum potential. This is because to be an elite Planter you must have character traits which can't be taught. Perhaps they can be cultivated by a sports psychologist, but this is currently outside the scope of PlantaBeta and the rest of the planting industry.  

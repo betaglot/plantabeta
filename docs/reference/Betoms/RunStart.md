@@ -29,5 +29,5 @@ BetomName=""
 
 -
 
-- "MOTON.LegMOTON.RunningStart"
+- "Aktion.LegAktion.RunningStart"
 :::

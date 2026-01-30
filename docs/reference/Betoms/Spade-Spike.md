@@ -74,7 +74,7 @@ Aliases: SpadeSlam, SpadeThrow, SpadeChop
     - SpadeAcutePropel
     - SpadeObtusePropel
     - SpadePerpendicularPropel
-- MOTON error
+- Aktion error
     - Sequence error
     - Body Bend before SpadeSpike
     - Use body Bend to increase acceleration time to maximize velocity on impact therefore maximizing force on impact
@@ -87,6 +87,6 @@ Aliases: SpadeSlam, SpadeThrow, SpadeChop
 - Step up then drop down
 - When to pull your punch, pull your Propel?
 
-- "MOTON.InstrumentMOTON.SpadeMOTON.SpadeSpike"
+- "Aktion.ToolAktion.SpadeAktion.SpadeSpike"
 
 :::

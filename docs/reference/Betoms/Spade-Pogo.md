@@ -21,5 +21,5 @@ BetomName=""
     - HardSoil
         - CompressedSoil like in a Road
 
-- "MOTON.InstrumentMOTON.SpadeMOTON.SpadePogo"
+- "Aktion.ToolAktion.SpadeAktion.SpadePogo"
 :::

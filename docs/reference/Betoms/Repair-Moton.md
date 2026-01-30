@@ -8,9 +8,9 @@ BetomName=""
 
 # <BB labor="Tool.Repair" soma="" ekos="" via="" motor="" anima=""/>
 
-Temporary Repair until you can have your Instruments repaired by a professional.
+Temporary Repair until you can have your Tools repaired by a professional.
 
-Maintain your Instruments to ensure that they last as long a possible and to maintain their utility.
+Maintain your Tools to ensure that they last as long a possible and to maintain their utility.
 
 ## Maintenance Factors
 
@@ -35,7 +35,7 @@ Maintain your Instruments to ensure that they last as long a possible and to mai
 
 - Remove dirt
 
-## Instrument Repair Guide
+## Tool Repair Guide
 
 ### Boot Repair
 

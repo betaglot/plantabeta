@@ -29,11 +29,11 @@ BetomName=""
 - ParaLog_RottenLog_RedRot_DuffShot_
 - ParaLog_RottenLog_TreeInspector
 - ParaRock_RockSize_LithosphereInfluence
-- ParaStump_FastLand_OneManoMOTON_SpadeLeverSkreef_
+- ParaStump_FastLand_OneManoAktion_SpadeLeverSkreef_
 - Root_ThickRoot_SpadeSnag
 - Root_ThinRoot_PlantingSound
 - TreeFertilizerSite_ParaSite_SpadeThrow
 - TreeFertilizerSite_SameSite_PlantingFrase
-- Underrock_RockPry_SpadeMOTON_SpadeBlade_
+- Underrock_RockPry_SpadeAktion_SpadeBlade_
 
 :::

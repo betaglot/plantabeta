@@ -24,20 +24,20 @@ BetomName=""
 - Clamber = Definition("climb, move, or get in or out of something in an awkward and laborious way, typically using both hands and feet")
 - Scramble
 
-- "MOTON.BodyMOTON.BodyDrop.BodyDropInto"
-- "MOTON.BodyMOTON.BodyLock"
-- "MOTON.BodyMOTON.BodyPosture"
-- "MOTON.BodyMOTON.Landing"
-- "MOTON.BodyMOTON.Landing.MOTONError.BaseAma"
-- "MOTON.BodyMOTON.Mantle"
-- "MOTON.BodyMOTON.Overview"
-- "MOTON.BodyMOTON.Stemming"
-- "MOTON.BodyMOTON.Straddle"
+- "Aktion.BodyAktion.BodyDrop.BodyDropInto"
+- "Aktion.BodyAktion.BodyLock"
+- "Aktion.BodyAktion.BodyPosture"
+- "Aktion.BodyAktion.Landing"
+- "Aktion.BodyAktion.Landing.AktionError.BaseAma"
+- "Aktion.BodyAktion.Mantle"
+- "Aktion.BodyAktion.Overview"
+- "Aktion.BodyAktion.Stemming"
+- "Aktion.BodyAktion.Straddle"
 - Body move overview every single move is a body move so body move is the superset of everything because a Planter is a body so there's body moves and then there's each limb has their own particular variation for about for a body move body moves
 
 - a good image for the body move would be I think it'd be a good idea to have a picture of the body that Planters don't normally see so like a top few would be good body moves the biggest
 
-- the most important body move that Planters need to be aware of is a fall so the other thing with body moves is that since they are pretty high scope choosing the right body move really matters because like what's an example of choosing a body move I guess going climbing over something that would be a body move because it's multiple sub MOTONS to get to use your legs and your arms together in a concerted concurrent
+- the most important body move that Planters need to be aware of is a fall so the other thing with body moves is that since they are pretty high scope choosing the right body move really matters because like what's an example of choosing a body move I guess going climbing over something that would be a body move because it's multiple sub AktionS to get to use your legs and your arms together in a concerted concurrent
 
 - what's the difference between concurrent and concerted Aktion they kind of seem like they would be the same
 

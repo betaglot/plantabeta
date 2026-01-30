@@ -8,11 +8,11 @@ BetomName=""
 
 # <BB labor="Aktion"  ekos="Flora"   />
 
-## FloraMOTON.Anatomy
+## FloraAktion.Anatomy
 
-## FloraMOTON.Atributs
+## FloraAktion.Atributs
 
-## FloraMOTON.Metods
+## FloraAktion.Metods
 
 ---
 

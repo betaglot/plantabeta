@@ -51,6 +51,6 @@ Aliases: FootClose
 - Frase
     - BootKlose == Walk.Step
 
-- "MOTON.FootMOTON.BootKlose"
+- "Aktion.FootAktion.BootKlose"
 
 :::

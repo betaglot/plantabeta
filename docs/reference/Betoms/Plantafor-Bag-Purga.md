@@ -22,6 +22,6 @@ BetomName=""
 - InvertBag
 - BagMano
 
-- "MOTON.InstrumentMOTON.BagMOTON.BagEmpty"
+- "Aktion.ToolAktion.BagAktion.BagEmpty"
 
 :::

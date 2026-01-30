@@ -48,9 +48,9 @@ BetomName=""
     - BoxSide
     - BoxBase
 
-- "MOTON.InstrumentMOTON.BoxMOTON.BoxOpen"
-- "MOTON.InstrumentMOTON.BoxMOTON.BoxSlide"
-- "MOTON.InstrumentMOTON.BoxMOTON.BoxStack"
-- "MOTON.InstrumentMOTON.BoxMOTON.Overview"
+- "Aktion.ToolAktion.BoxAktion.BoxOpen"
+- "Aktion.ToolAktion.BoxAktion.BoxSlide"
+- "Aktion.ToolAktion.BoxAktion.BoxStack"
+- "Aktion.ToolAktion.BoxAktion.Overview"
 
 :::

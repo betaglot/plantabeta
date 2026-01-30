@@ -1,12 +1,15 @@
----
-aside: false
-search: false
----
 <script setup>
-BetomName=""
+import ElementInfo from '/vue/ElementPage/Page-ElementInfo.vue'
+import ElementTaxonomy from '/vue/ElementPage/Header-ElementTaxonomy.vue'
+let elementName = "BurntBlock"
+
 </script>
 
-# <BB labor="Onda" soma="Leg"    />
+# ⭐<span class="labor">BurntBlock</span>
+
+<ElementTaxonomy :elementName="elementName" />
+
+<ElementInfo :elementName=elementName />
 
 ---
 
@@ -18,7 +21,5 @@ BetomName=""
 ::: details &
 
 -
-
-- "Aktion.LegAktion.LegCurve"
 
 :::

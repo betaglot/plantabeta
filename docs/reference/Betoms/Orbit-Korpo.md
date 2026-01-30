@@ -20,6 +20,6 @@ BetomName=""
 - Revolution
 - HandSlide
 - KorpoOrbit rarely completes a full revolution
-- AroundCornerMOTON
+- AroundCornerAktion
 
 :::

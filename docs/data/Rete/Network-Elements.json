@@ -860,7 +860,7 @@
         }
     },
     {
-        "name": "Tactics",
+        "name": "Taktiks",
         "faktor": "LABOR",
         "relation": {
             "subElementOf": {
