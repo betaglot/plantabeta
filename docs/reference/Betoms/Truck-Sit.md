@@ -6,8 +6,7 @@ search: false
 BetomName=""
 </script>
 
-# Truck-Sit
-# <BB labor="" soma="" ekos="" via="" motor="" anima=""/>
+# <BB labor="Truck.Sit" soma="" ekos="" via="" motor="" anima=""/>
 
 ---
 

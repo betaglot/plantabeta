@@ -6,8 +6,7 @@ search: false
 BetomName=""
 </script>
 
-# [Spade,AlloMano]
-# <BB labor="" soma="" ekos="" via="" motor="" anima=""/>
+# <BB labor="Spade.Allo" soma="" ekos="" via="" motor="" anima=""/>
 
 Aliases: Hand Swap, Hand Switch
 

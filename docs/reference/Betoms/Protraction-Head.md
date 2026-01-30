@@ -6,8 +6,7 @@ search: false
 BetomName=""
 </script>
 
-# <BB labor="" soma="" ekos="" via="" motor="" anima=""/>
-# 🔷Head-Protraction
+# <BB labor="Protract" soma="Head" ekos="" via="" motor="" anima=""/>
 
 ---
 

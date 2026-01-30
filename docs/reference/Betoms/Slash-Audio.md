@@ -6,8 +6,7 @@ search: false
 BetomName=""
 </script>
 
-# [Slash,Audio]
-# <BB labor="" soma="" ekos="" via="" motor="" anima=""/>
+# <BB labor="" soma="" ekos="Slash" via="" motor="" anima="Audio"/>
 
 ## Falling
 

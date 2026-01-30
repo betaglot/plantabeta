@@ -6,8 +6,7 @@ search: false
 BetomName=""
 </script>
 
-# [Plast,Mano]
-# <BB labor="" soma="" ekos="" via="" motor="" anima=""/>
+# <BB labor="Spade.Handle.Mano" soma="" ekos="" via="" motor="" anima=""/>
 
 ---
 
@@ -24,7 +23,7 @@ BetomName=""
 - NeutralWrist
     - To prevent Wrist Tendonitis, which is induced when the Tendons from the forearm to the hand rub on the wrist while under tension.
 - Glove
-- Keep the handle clean to reduce abraision
+- Keep the handle clean to reduce abrasion
     - Wipe DendroMano during SpadeAlloMano
 
 :::

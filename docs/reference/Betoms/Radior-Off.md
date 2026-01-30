@@ -6,8 +6,7 @@ search: false
 BetomName=""
 </script>
 
-# [Radior,🟠Off]
-# <BB labor="" soma="" ekos="" via="" motor="" anima=""/>
+# <BB labor="Radior.Off" soma="" ekos="" via="" motor="" anima=""/>
 
 ---
 

@@ -6,8 +6,7 @@ search: false
 BetomName=""
 </script>
 
-# [Tibior,Off]
-# <BB labor="" soma="" ekos="" via="" motor="" anima=""/>
+# <BB labor="Tibior.Off" soma="" ekos="" via="" motor="" anima=""/>
 
 ---
 

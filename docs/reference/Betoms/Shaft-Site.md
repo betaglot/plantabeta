@@ -6,8 +6,7 @@ search: false
 BetomName=""
 </script>
 
-# Shaft,🔻Takt
-# <BB labor="" soma="" ekos="" via="" motor="" anima=""/>
+# <BB labor="Spade.Shaft" soma="" ekos="" via="Site" motor="" anima=""/>
 
 ---
 

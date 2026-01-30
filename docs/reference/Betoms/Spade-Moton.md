@@ -6,8 +6,7 @@ search: false
 BetomName=""
 </script>
 
-# [Spade,MOTON]
-# <BB labor="" soma="" ekos="" via="" motor="" anima=""/>
+# <BB labor="Spade.Aktion" soma="" ekos="" via="" motor="" anima=""/>
 
 ## SpadeMOTON.Anatomy
 

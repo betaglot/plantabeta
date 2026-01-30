@@ -6,8 +6,7 @@ search: false
 BetomName=""
 </script>
 
-# [Spade-Poke]
-# <BB labor="" soma="" ekos="" via="" motor="" anima=""/>
+# <BB labor="Poke,Spade" soma="" ekos="" via="" motor="" anima=""/>
 
 ---
 

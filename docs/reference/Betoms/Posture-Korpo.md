@@ -5,8 +5,8 @@ search: false
 <script setup>
 BetomName=""
 </script>
-# ⭐BodyPosture
-# <BB labor="" soma="" ekos="" via="" motor="" anima=""/>
+
+# <BB labor="" soma="Korpo" ekos="" via="Posture" motor="" anima=""/>
 
 ---
 
@@ -18,7 +18,7 @@ BetomName=""
 ::: details &
 
 - NeutralShoulderPosture
-- ExternalHumerusRotationPostute
+- ExternalHumerusRotationPosture
     - Palm direction while walking
         - ❌<error>Palm Facing Posterior</error>
 

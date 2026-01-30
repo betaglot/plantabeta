@@ -6,8 +6,7 @@ search: false
 BetomName=""
 </script>
 
-# [Spade-Spike]
-# <BB labor="" soma="" ekos="" via="" motor="" anima=""/>
+# <BB labor="Spade.Spike" soma="" ekos="" via="" motor="" anima=""/>
 
 Aliases: SpadeSlam, SpadeThrow, SpadeChop
 
@@ -66,7 +65,7 @@ Aliases: SpadeSlam, SpadeThrow, SpadeChop
     - Rock
     - Listen to SoilSound on Kontakt
         - How to describe the sounds of Sand, Gravel, Rock, RockScrape, Root, RedRot, Cream, DirectHit, Mud?
-- Sinkron(DendroLoad)
+- Synkrony(DendroLoad)
 - OneInchPunch
     - When you're already BentOver
     - To deepen Site

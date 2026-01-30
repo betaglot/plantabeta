@@ -6,8 +6,7 @@ search: false
 BetomName=""
 </script>
 
-# 🔷Base-Step
-# <BB labor="" soma="" ekos="" via="" motor="" anima=""/>
+# <BB labor="Step" soma="Leg" ekos="" via="" motor="" anima=""/>
 
 ---
 

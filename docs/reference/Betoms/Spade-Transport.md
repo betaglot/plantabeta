@@ -6,8 +6,7 @@ search: false
 BetomName=""
 </script>
 
-# [Spade,Transport]
-# <BB labor="" soma="" ekos="" via="" motor="" anima=""/>
+# <BB labor="Spade.Transport" soma="" ekos="" via="" motor="" anima=""/>
 
 > Carrying a Spade when you're not using it to plant
 

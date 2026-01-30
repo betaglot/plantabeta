@@ -6,8 +6,7 @@ search: false
 BetomName=""
 </script>
 
-# Radior,🔻Takt
-# <BB labor="" soma="" ekos="" via="" motor="" anima=""/>
+# <BB labor="Radior" soma="" ekos="" via="Site" motor="" anima=""/>
 
 ---
 

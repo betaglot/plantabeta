@@ -6,8 +6,7 @@ search: false
 BetomName=""
 </script>
 
-# [Spade-MuscleUp]
-# <BB labor="" soma="" ekos="" via="" motor="" anima=""/>
+# <BB labor="Spade.MuscleUp" soma="" ekos="" via="" motor="" anima=""/>
 
 ---
 

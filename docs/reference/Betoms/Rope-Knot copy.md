@@ -6,8 +6,7 @@ search: false
 BetomName=""
 </script>
 
-# [Rope,MOTON]
-# <BB labor="" soma="" ekos="" via="" motor="" anima=""/>
+# <BB labor="Rope.Aktion" soma="" ekos="" via="" motor="" anima=""/>
 
 ---
 
@@ -22,7 +21,7 @@ BetomName=""
 
 Thread Gear Loops
 
-- Rope for Tranport
+- Rope for Transport
 - Rope for Cache Construction
 
 Summer Cache

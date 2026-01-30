@@ -5,8 +5,8 @@ search: false
 <script setup>
 BetomName=""
 </script>
-# SiteMarka
-# <BB labor="" soma="" ekos="" via="" motor="" anima=""/>
+
+# <BB labor="Marka" soma="" ekos="" via="Site" motor="" anima=""/>
 
 ## StumpMarka
 

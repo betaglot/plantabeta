@@ -5,8 +5,8 @@ search: false
 <script setup>
 BetomName=""
 </script>
-# ⭐Thumb-Extension
-# <BB labor="" soma="" ekos="" via="" motor="" anima=""/>
+
+# <BB labor="" soma="Thumb" ekos="" via="Extension" motor="" anima=""/>
 
 ---
 

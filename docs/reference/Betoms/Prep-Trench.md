@@ -6,8 +6,7 @@ search: false
 BetomName=""
 </script>
 
-# [Prep,Trench]
-# <BB labor="" soma="" ekos="" via="" motor="" anima=""/>
+# <BB labor="Prep.Trench" soma="" ekos="" via="" motor="" anima=""/>
 
 ---
 
@@ -23,13 +22,13 @@ BetomName=""
     - PerimeterTrench
     - PeriObstacleTrench
     - TrenchBreak
-    - Spiltting trenches
+    - Splitting trenches
     - DivergingTrench
     - BoustroTrench
 
 - 🔻 Putting one in the middle of TrenchError.WideTrench
 
-- 💜 Periodically look at neighboring trench to ensure that thete are no missed trenches
+- 💜 Periodically look at neighboring trench to ensure that there are no missed trenches
 
 - 🔻 Use landmarks to define the space
 

@@ -6,8 +6,7 @@ search: false
 BetomName=""
 </script>
 
-# [Plast,Dimano]
-# <BB labor="" soma="" ekos="" via="" motor="" anima=""/>
+# <BB labor="Spade.Handle.Dimano" soma="" ekos="" via="" motor="" anima=""/>
 
 > Gripping the Spade Plast with both hands
 

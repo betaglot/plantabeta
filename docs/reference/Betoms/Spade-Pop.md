@@ -6,8 +6,7 @@ search: false
 BetomName=""
 </script>
 
-# [Spade,Pop]
-# <BB labor="" soma="" ekos="" via="" motor="" anima=""/>
+# <BB labor="Spade.Pop" soma="" ekos="" via="" motor="" anima=""/>
 
 ---
 

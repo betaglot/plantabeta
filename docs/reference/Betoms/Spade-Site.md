@@ -6,8 +6,7 @@ search: false
 BetomName=""
 </script>
 
-# Spade,🔻Takt
-# <BB labor="" soma="" ekos="" via="" motor="" anima=""/>
+# <BB labor="Spade" soma="" ekos="" via="Site" motor="" anima=""/>
 
 ---
 

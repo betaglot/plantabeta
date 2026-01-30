@@ -6,8 +6,7 @@ search: false
 BetomName=""
 </script>
 
-# [Spade,Ankor]
-# <BB labor="" soma="" ekos="" via="" motor="" anima=""/>
+# <BB labor="Spade.Ankor" soma="" ekos="" via="" motor="" anima=""/>
 
 ---
 
@@ -18,8 +17,8 @@ BetomName=""
 <!-- =================================================== -->
 ::: details &
 
-- BrazoLock
-- Bimano
+- [Kryos|Arm]
+- Dimano
     - CollarMano
     - PlastMano
 - SteepSlopeClimb

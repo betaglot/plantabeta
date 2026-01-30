@@ -6,8 +6,7 @@ search: false
 BetomName=""
 </script>
 
-# 🟠 RunStart
-# <BB labor="" soma="" ekos="" via="" motor="" anima=""/>
+# <BB labor="Run" soma="" ekos="" via="" motor="Initiation" anima=""/>
 
 ## Related 🟩EKOS
 
@@ -17,7 +16,7 @@ BetomName=""
 ### Related 🟠Motor
 
 - 🟠Jump
-    - RunStart too gain momentum to Jump horzontally
+    - RunStart too gain momentum to Jump horizontally
 
 ---
 

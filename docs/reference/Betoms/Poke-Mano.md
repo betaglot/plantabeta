@@ -6,8 +6,7 @@ search: false
 BetomName=""
 </script>
 
-# 🟠 Hand-Poke
-# <BB labor="" soma="" ekos="" via="" motor="" anima=""/>
+# <BB labor="Poke" soma="Hand" ekos="" via="" motor="" anima=""/>
 
 ---
 

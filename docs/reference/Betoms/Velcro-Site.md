@@ -6,8 +6,7 @@ search: false
 BetomName=""
 </script>
 
-# Velcro,🔻Takt
-# <BB labor="" soma="" ekos="" via="" motor="" anima=""/>
+# <BB labor="Velcro" soma="" ekos="" via="Site" motor="" anima=""/>
 
 ---
 
@@ -18,6 +17,6 @@ BetomName=""
 <!-- =================================================== -->
 ::: details &
 
--
+- The best Site is at the ends of Velcro, so you don't get dirt in the hooks
 
 :::

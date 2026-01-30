@@ -6,8 +6,7 @@ search: false
 BetomName=""
 </script>
 
-# [Spade,Purga]
-# <BB labor="" soma="" ekos="" via="" motor="" anima=""/>
+# <BB labor="Spade.Purga" soma="" ekos="" via="" motor="" anima=""/>
 
 Aliases: Spade Clean, Spade Purge
 

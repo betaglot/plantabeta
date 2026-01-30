@@ -6,8 +6,7 @@ search: false
 BetomName=""
 </script>
 
-# [Spade,Stall]
-# <BB labor="" soma="" ekos="" via="" motor="" anima=""/>
+# <BB labor="Spade.Stall" soma="" ekos="" via="" motor="" anima=""/>
 
 ---
 
@@ -18,6 +17,7 @@ BetomName=""
 <!-- =================================================== -->
 ::: details &
 
--
+- Stall at Deadpoint
+- (Stall != Kryos)
 
 :::

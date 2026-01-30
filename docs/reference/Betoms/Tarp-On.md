@@ -6,8 +6,7 @@ search: false
 BetomName=""
 </script>
 
-# [Tarp,On]
-# <BB labor="" soma="" ekos="" via="" motor="" anima=""/>
+# <BB labor="Tarp.On" soma="" ekos="" via="" motor="" anima=""/>
 
 ---
 

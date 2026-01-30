@@ -6,8 +6,7 @@ search: false
 BetomName=""
 </script>
 
-# [Instrument,Repair]
-# <BB labor="" soma="" ekos="" via="" motor="" anima=""/>
+# <BB labor="Tool.Repair" soma="" ekos="" via="" motor="" anima=""/>
 
 Temporary Repair until you can have your Instruments repaired by a professional.
 

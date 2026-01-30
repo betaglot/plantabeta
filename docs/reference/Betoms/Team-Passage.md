@@ -1,5 +1,13 @@
-# 🔻 <span class="via">DemobetaPlan</span>
-# <BB labor="" soma="" ekos="" via="" motor="" anima=""/>
+---
+aside: false
+search: false
+---
+
+<script setup>
+BetomName=""
+</script>
+
+# <BB labor="Team.Tactic" soma="" ekos="" via="" motor="" anima=""/>
 
 When Planters share the same piece of Land they are TeamPlanting, currently known as "Partner Planting" or if there are more than a couple other Planters "Cattle Planting". "Cattle Planting" refers to the situation where cattle a herd of cattle gaze randomly across a piece of land and has a connotation of chaotic Routing. "Cattle Planting" is not a useful term because it does not encourage team work.
 

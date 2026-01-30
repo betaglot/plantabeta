@@ -1,5 +1,12 @@
-# ✔<span class="labor">Workday</span>
-# <BB labor="" soma="" ekos="" via="" motor="" anima=""/>
+---
+aside: false
+search: false
+---
+<script setup>
+BetomName=""
+</script>
+
+# <BB labor="Workday" soma="" ekos="" via="" motor="Time" anima=""/>
 
 ---
 

@@ -6,8 +6,7 @@ search: false
 BetomName=""
 </script>
 
-# Tibior,🔻Takt
-# <BB labor="" soma="" ekos="" via="" motor="" anima=""/>
+# <BB labor="Tibior" soma="" ekos="" via="Site" motor="" anima=""/>
 
 ---
 

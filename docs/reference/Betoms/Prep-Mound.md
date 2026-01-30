@@ -6,8 +6,7 @@ search: false
 BetomName=""
 </script>
 
-# [Prep,Mound]
-# <BB labor="" soma="" ekos="" via="" motor="" anima=""/>
+# <BB labor="Error,Prep.Mound" soma="" ekos="" via="" motor="" anima=""/>
 
 ## Mounding Error
 

@@ -6,8 +6,7 @@ search: false
 BetomName=""
 </script>
 
-# Punch🟠Klose
-# <BB labor="" soma="" ekos="" via="" motor="" anima=""/>
+# <BB labor="Klose.Pugno" soma="" ekos="" via="" motor="" anima=""/>
 
 ---
 
@@ -18,6 +17,8 @@ BetomName=""
 <!-- =================================================== -->
 ::: details &
 
+- Pugno is Punch
+- Pugilist
 - Only really creamy soil, otherwise you'lll hurt your hand
 
 :::

@@ -6,8 +6,7 @@ search: false
 BetomName=""
 </script>
 
-# 🔷Base,🟠Pop
-# <BB labor="" soma="" ekos="" via="" motor="" anima=""/>
+# <BB labor="Pop" soma="Leg" ekos="" via="" motor="" anima=""/>
 
 ---
 

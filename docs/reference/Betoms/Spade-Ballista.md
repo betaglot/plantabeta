@@ -6,8 +6,7 @@ search: false
 BetomName=""
 </script>
 
-# [SpadeBallista]
-# <BB labor="" soma="" ekos="" via="" motor="" anima=""/>
+# <BB labor="Spade.Ballista" soma="" ekos="" via="" motor="" anima=""/>
 
 - The FinishMOTON of SpadeBallista is SpadePost
 

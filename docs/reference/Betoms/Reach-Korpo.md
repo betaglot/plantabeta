@@ -6,8 +6,7 @@ search: false
 BetomName=""
 </script>
 
-# 🟠 BodyBend
-# <BB labor="" soma="" ekos="" via="" motor="" anima=""/>
+# <BB labor="Flex" soma="Korpo" ekos="" via="" motor="" anima=""/>
 
 ---
 

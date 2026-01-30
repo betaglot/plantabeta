@@ -6,8 +6,7 @@ search: false
 BetomName=""
 </script>
 
-# 🔷Base-Stomp
-# <BB labor="" soma="" ekos="" via="" motor="" anima=""/>
+# <BB labor="Stomp" soma="Leg" ekos="" via="" motor="" anima=""/>
 
 ---
 

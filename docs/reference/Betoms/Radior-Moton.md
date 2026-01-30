@@ -6,8 +6,7 @@ search: false
 BetomName=""
 </script>
 
-# [Radior,MOTON]
-# <BB labor="" soma="" ekos="" via="" motor="" anima=""/>
+# <BB labor="Radior.Aktion" soma="" ekos="" via="" motor="" anima=""/>
 
 Aliases: Vambrace, Forearm Guard
 

@@ -6,8 +6,7 @@ search: false
 BetomName=""
 </script>
 
-# [Spade-Rotate]
-# <BB labor="" soma="" ekos="" via="" motor="" anima=""/>
+# <BB labor="Spade.Rotate" soma="" ekos="" via="" motor="" anima=""/>
 
 ---
 

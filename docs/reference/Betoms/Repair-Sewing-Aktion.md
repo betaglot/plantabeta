@@ -6,8 +6,7 @@ search: false
 BetomName=""
 </script>
 
-# [Sewing]
-# <BB labor="" soma="" ekos="" via="" motor="" anima=""/>
+# <BB labor="Repair.Sew" soma="" ekos="" via="" motor="" anima=""/>
 
 ---
 

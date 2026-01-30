@@ -6,8 +6,7 @@ search: false
 BetomName=""
 </script>
 
-# 🔷Head-Retraction
-# <BB labor="" soma="" ekos="" via="" motor="" anima=""/>
+# <BB labor="Retract" soma="Head" ekos="" via="" motor="" anima=""/>
 
 ---
 

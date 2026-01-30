@@ -6,8 +6,7 @@ search: false
 BetomName=""
 </script>
 
-# [Spade,Amble]
-# <BB labor="" soma="" ekos="" via="" motor="" anima=""/>
+# <BB labor="Amble,Spade" soma="" ekos="" via="" motor="" anima=""/>
 
 ## Attributes
 
@@ -24,6 +23,7 @@ BetomName=""
 <!-- =================================================== -->
 ::: details &
 
+- Like Walking with a Cane.
 - 🟠Walk uses the same
 
 :::

@@ -6,8 +6,7 @@ search: false
 BetomName=""
 </script>
 
-# 🔷Korpo,🟠Twist
-# <BB labor="" soma="" ekos="" via="" motor="" anima=""/>
+# <BB labor="Twist" soma="Korpo" ekos="" via="" motor="" anima=""/>
 
 ---
 
@@ -18,6 +17,6 @@ BetomName=""
 <!-- =================================================== -->
 ::: details &
 
--
+- (⭐<span class="labor">Twist</span> != 🔻<span class="via">Twisted</span>)
 
 :::

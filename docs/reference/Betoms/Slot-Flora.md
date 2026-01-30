@@ -6,8 +6,7 @@ search: false
 BetomName=""
 </script>
 
-# [Flora,Slot]
-# <BB labor="" soma="" ekos="" via="" motor="" anima=""/>
+# <BB labor="Slot" soma="" ekos="Flora" via="" motor="" anima=""/>
 
 > Passing through a cluster of Flora
 

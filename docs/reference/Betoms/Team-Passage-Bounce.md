@@ -1,5 +1,12 @@
-# 🔻 <span class="via">BouncingPlan</span>
-# <BB labor="" soma="" ekos="" via="" motor="" anima=""/>
+---
+aside: false
+search: false
+---
+<script setup>
+BetomName=""
+</script>
+
+# <BB labor="Team.Tactic.Bounce" soma="" ekos="" via="" motor="" anima=""/>
 
 ## 2PlanterBounceFill
 

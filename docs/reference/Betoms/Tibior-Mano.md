@@ -6,8 +6,7 @@ search: false
 BetomName=""
 </script>
 
-# [Tibior,Mano]
-# <BB labor="" soma="" ekos="" via="" motor="" anima=""/>
+# <BB labor="Tibior.Mano" soma="" ekos="" via="" motor="" anima=""/>
 
 ---
 

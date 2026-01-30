@@ -5,8 +5,8 @@ search: false
 <script setup>
 BetomName=""
 </script>
-# ⭐Body🟠Tangent
-# <BB labor="" soma="" ekos="" via="" motor="" anima=""/>
+
+# <BB labor="Tangent" soma="Korpo" ekos="" via="" motor="" anima=""/>
 
 ---
 

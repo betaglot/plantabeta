@@ -6,8 +6,7 @@ search: false
 BetomName=""
 </script>
 
-# 🟠 SuperSpike
-# <BB labor="" soma="" ekos="" via="" motor="" anima=""/>
+# <BB labor="Spade.SuperSpike" soma="" ekos="" via="" motor="" anima=""/>
 
 - Superman Punch
 - 300 Spartan Jumping Thrust

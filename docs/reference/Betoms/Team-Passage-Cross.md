@@ -1,5 +1,13 @@
-# 🔻 <span class="via">CrossingPlan</span>
-# <BB labor="" soma="" ekos="" via="" motor="" anima=""/>
+---
+aside: false
+search: false
+---
+
+<script setup>
+BetomName=""
+</script>
+
+# <BB labor="Team.Tactic.Cross" soma="" ekos="" via="" motor="" anima=""/>
 
 ![ViaIkon](/Emblem/Via-Emblem.png)
 

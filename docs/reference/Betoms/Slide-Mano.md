@@ -5,8 +5,8 @@ search: false
 <script setup>
 BetomName=""
 </script>
-# ⭐🔷Mano-Slide
-# <BB labor="" soma="" ekos="" via="" motor="" anima=""/>
+
+# <BB labor="Slide" soma="Hand" ekos="" via="" motor="" anima=""/>
 
 ---
 

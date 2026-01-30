@@ -5,8 +5,8 @@ search: false
 <script setup>
 BetomName=""
 </script>
-# ⭐KorpoPop
-# <BB labor="" soma="" ekos="" via="" motor="" anima=""/>
+
+# <BB labor="Pop" soma="Korpo" ekos="" via="" motor="" anima=""/>
 
 ---
 

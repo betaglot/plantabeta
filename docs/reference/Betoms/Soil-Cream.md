@@ -6,8 +6,7 @@ search: false
 BetomName=""
 </script>
 
-# [Cream,Soil]
-# <BB labor="" soma="" ekos="" via="" motor="" anima=""/>
+# <BB labor="" soma="" ekos="Soil" via="Creamy" motor="" anima=""/>
 
 ---
 
@@ -18,6 +17,7 @@ BetomName=""
 <!-- =================================================== -->
 ::: details &
 
+- Equivalent to Jug in Climbing
 - CreamSoil
 
 :::

@@ -6,9 +6,7 @@ search: false
 BetomName=""
 </script>
 
-# [Spade-Neonektomi]
-# <BB labor="" soma="" ekos="" via="" motor="" anima=""/>
-
+# <BB labor="Neonektomy,Spade" soma="" ekos="" via="" motor="" anima=""/>
 
 ---
 

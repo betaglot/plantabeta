@@ -6,8 +6,7 @@ search: false
 BetomName=""
 </script>
 
-# [Spade-Mano]
-# <BB labor="" soma="" ekos="" via="" motor="" anima=""/>
+# <BB labor="Spade.Mano" soma="" ekos="" via="" motor="" anima=""/>
 
 ---
 

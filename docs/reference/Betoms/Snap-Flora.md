@@ -6,8 +6,7 @@ search: false
 BetomName=""
 </script>
 
-# [Flora,Snap]
-# <BB labor="" soma="" ekos="" via="" motor="" anima=""/>
+# <BB labor="Snap" soma="" ekos="Flora" via="" motor="" anima=""/>
 
 ---
 

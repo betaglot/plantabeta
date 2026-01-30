@@ -3,13 +3,9 @@ aside: false
 search: false
 ---
 
-# [Spade,Skreef]
-# <BB labor="" soma="" ekos="" via="" motor="" anima=""/>
-
+# <BB labor="Skim,Spade" soma="" ekos="" via="" motor="" anima=""/>
 
 ## <py>Elements</py>
-
-<!-- V-Carousel -->
 
 ### ⭐Spade
 

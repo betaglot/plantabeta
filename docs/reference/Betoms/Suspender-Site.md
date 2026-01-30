@@ -6,8 +6,7 @@ search: false
 BetomName=""
 </script>
 
-# Strap,🔻Takt
-# <BB labor="" soma="" ekos="" via="" motor="" anima=""/>
+# <BB labor="Plantafor.Strap" soma="" ekos="" via="Site" motor="" anima=""/>
 
 ---
 
