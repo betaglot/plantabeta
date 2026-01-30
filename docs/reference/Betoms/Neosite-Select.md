@@ -6,7 +6,7 @@ search: false
 BetomName=""
 </script>
 
-# <BB labor="Select,Neosite"     />
+# <BB labor="Select,Neosite" />
 
 How to choose your next site
 
@@ -30,8 +30,8 @@ How to choose your next site
 <!-- =================================================== -->
 ::: details &
 
-- <BB labor="Select"   via="Site"  />
-- <BB labor="Select"   via="Passage"  />
-- <BB labor="Select,Tool"     />
+- <BB labor="Select"   via="Site"/>
+- <BB labor="Select"   via="Passage"/>
+- <BB labor="Select,Tool" />
 
 :::

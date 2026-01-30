@@ -6,7 +6,7 @@ search: false
 BetomName=""
 </script>
 
-# <BB labor="Layer.Aktion"     />
+# <BB labor="Layer.Aktion" />
 
 ---
 

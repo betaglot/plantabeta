@@ -3,7 +3,7 @@ aside: false
 search: false
 ---
 
-# <BB labor="Layer.Base.Aktion"     />
+# <BB labor="Layer.Base.Aktion" />
 
 ---
 

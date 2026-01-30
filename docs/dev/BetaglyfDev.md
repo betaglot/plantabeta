@@ -25,12 +25,12 @@ Anima usually isn't visible
 
 - Mouse
 
-    - Rightclick <BB labor="dsd" soma="" ekos="" via="" motor="" a=""/>
+    - Rightclick <BB labor="dsd"     a=""/>
     - Left click
     - scroll
     - drag
 
-## <BB labor="Aktion" soma="Hand<<" ekos="" via="" motor="" a=""/>
+## <BB labor="Aktion" soma="Hand<<"    a=""/>
 
 Use left hand to select faktors
 

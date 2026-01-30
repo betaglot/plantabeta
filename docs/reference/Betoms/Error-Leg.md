@@ -6,7 +6,7 @@ search: false
 BetomName=""
 </script>
 
-# <BB labor="Error" soma="Leg"    />
+# <BB labor="Error" soma="Leg"/>
 
 ## FootAktionError
 

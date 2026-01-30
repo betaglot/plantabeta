@@ -6,7 +6,7 @@ search: false
 BetomName=""
 </script>
 
-# <BB    via="Proximity,Adaptive"  />
+# <BB    via="Proximity,Adaptive"/>
 
 > Site proximity which changes in response to changing Eko
 

@@ -6,7 +6,7 @@ search: false
 BetomName=""
 </script>
 
-# <BB labor="Kneel"  ekos="Ground"   />
+# <BB labor="Kneel"  ekos="Ground" />
 
 ---
 

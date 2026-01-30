@@ -6,7 +6,7 @@ search: false
 BetomName=""
 </script>
 
-# <BB labor="" soma="" ekos="" via="Proximity.Minimum" motor="" anima=""/>
+# <BB    via="Proximity.Minimum"/>
 
 Aliases: Minimums, Minimum Spacing
 

@@ -6,7 +6,7 @@ search: false
 BetomName=""
 </script>
 
-# <BB labor="Plot.Neon"   via="Density"  />
+# <BB labor="Plot.Neon"   via="Density"/>
 
 Density of Sites
 

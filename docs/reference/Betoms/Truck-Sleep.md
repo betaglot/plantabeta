@@ -6,7 +6,7 @@ search: false
 BetomName=""
 </script>
 
-# <BB labor="Truck.Sleep" soma="" ekos="" via="" motor="" anima=""/>
+# <BB labor="Truck.Sleep" />
 
 HubermanLab Guest Series [with Dr. Matt Walker](https://www.youtube.com/playlist?list=PLPNW_gerXa4OoypUEgZI7uouI12WZrxeS)
 

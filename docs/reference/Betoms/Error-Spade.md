@@ -6,7 +6,7 @@ search: false
 BetomName=""
 </script>
 
-# <BB labor="Error,Spade"     />
+# <BB labor="Error,Spade" />
 
 ---
 

@@ -6,7 +6,7 @@ search: false
 BetomName=""
 </script>
 
-# <BB labor="Plantafor.Load" soma="" ekos="" via="" motor="" anima=""/>
+# <BB labor="Plantafor.Load" />
 
 Aliases: Bag up some trees
 

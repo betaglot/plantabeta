@@ -6,7 +6,7 @@ search: false
 BetomName=""
 </script>
 
-# <BB labor="Armor"  ekos="Flora"   />
+# <BB labor="Armor"  ekos="Flora" />
 
 > Protecting yourself from Plant as it collides into you or as it drags along you as you push through it
 

@@ -6,7 +6,7 @@ search: false
 BetomName=""
 </script>
 
-# <BB labor="Zelcro.Aktion" soma="" ekos="" via="" motor="" anima=""/>
+# <BB labor="Zelcro.Aktion" />
 
 ## ❌<error>ZelcroAktion.Error</error>
 

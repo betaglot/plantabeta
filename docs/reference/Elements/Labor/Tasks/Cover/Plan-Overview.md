@@ -1,5 +1,5 @@
 
-# 🔻<span class="via">Plan</span>
+# 🔻<span class="via">Coverage</span>
 
 > A plan to complete a zone by using Lines, Divs, Deadwalking, Marka
 

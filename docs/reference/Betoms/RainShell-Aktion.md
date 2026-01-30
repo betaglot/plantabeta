@@ -6,7 +6,7 @@ search: false
 BetomName=""
 </script>
 
-# <BB labor="RainShell.Aktion" soma="" ekos="" via="" motor="" anima=""/>
+# <BB labor="RainShell.Aktion" />
 
 ---
 

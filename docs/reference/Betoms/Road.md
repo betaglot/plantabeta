@@ -6,7 +6,7 @@ search: false
 BetomName=""
 </script>
 
-# <BB labor="Cutblock.Road" soma="" ekos="" via="" motor="" anima=""/>
+# <BB labor="Cutblock.Road" />
 
 The dirt road
 

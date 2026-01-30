@@ -6,7 +6,7 @@ search: false
 BetomName=""
 </script>
 
-# <BB labor="Piece.Boundary.Marka"     />
+# <BB labor="Piece.Boundary.Marka" />
 
 > A marka which marks the limit of a Zone
 

@@ -6,7 +6,7 @@ search: false
 BetomName=""
 </script>
 
-# <BB labor="Spade.Ballista" soma="" ekos="" via="" motor="" anima=""/>
+# <BB labor="Spade.Ballista" />
 
 - The FinishAktion of SpadeBallista is SpadePost
 

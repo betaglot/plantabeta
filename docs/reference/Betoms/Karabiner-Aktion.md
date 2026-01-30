@@ -6,7 +6,7 @@ search: false
 BetomName=""
 </script>
 
-# <BB labor="Karabiner.Aktion"     />
+# <BB labor="Karabiner.Aktion" />
 
 ---
 

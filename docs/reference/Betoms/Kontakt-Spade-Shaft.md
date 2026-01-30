@@ -6,7 +6,7 @@ search: false
 BetomName=""
 </script>
 
-# <BB labor="Kontakt,Spade.Shaft"     />
+# <BB labor="Kontakt,Spade.Shaft" />
 
 ---
 
@@ -18,6 +18,6 @@ BetomName=""
 ::: details &
 
 - Used when pushing and holding Flora back away from Neosite
-- <BB labor="Mano,Spade.Shaft"     /> is a SubBetom of SpadeSkim
+- <BB labor="Mano,Spade.Shaft" /> is a SubBetom of SpadeSkim
 
 :::

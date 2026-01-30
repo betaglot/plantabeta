@@ -6,7 +6,7 @@ search: false
 BetomName=""
 </script>
 
-# <BB    via="Maximum,Proximity"  />
+# <BB    via="Maximum,Proximity"/>
 
 Aliases: Maximum Spacing
 

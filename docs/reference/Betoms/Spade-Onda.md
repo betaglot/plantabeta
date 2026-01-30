@@ -6,7 +6,7 @@ search: false
 BetomName=""
 </script>
 
-# <BB labor="Spade.Onda" soma="" ekos="" via="" motor="" anima=""/>
+# <BB labor="Spade.Onda" />
 
 Aliases: SpadeSwing
 

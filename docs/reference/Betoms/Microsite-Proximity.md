@@ -6,7 +6,7 @@ search: false
 BetomName=""
 </script>
 
-# <BB labor="" soma="" ekos="" via="Proximity" motor="" anima=""/>
+# <BB    via="Proximity"/>
 
 > the Space that you move through while following a Line
 

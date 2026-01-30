@@ -6,7 +6,7 @@ search: false
 BetomName=""
 </script>
 
-# <BB labor="Armor,Spade"     />
+# <BB labor="Armor,Spade" />
 
 > Block flora using the SpadeCollar
 

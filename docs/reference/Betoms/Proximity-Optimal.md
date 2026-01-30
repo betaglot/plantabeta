@@ -6,7 +6,7 @@ search: false
 BetomName=""
 </script>
 
-# <BB labor="" soma="" ekos="" via="Proximity.Optimal" motor="" anima=""/>
+# <BB    via="Proximity.Optimal"/>
 
 Aliases: Contract Spacing
 

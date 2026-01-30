@@ -6,7 +6,7 @@ search: false
 BetomName=""
 </script>
 
-# <BB labor="Spade.Post" soma="" ekos="" via="" motor="" anima=""/>
+# <BB labor="Spade.Post" />
 
 - Post spade when setting up or returning to cache for easier grabbing with full bags. No bend and easier Find(Spade)
 

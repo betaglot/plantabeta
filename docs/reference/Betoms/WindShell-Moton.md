@@ -6,7 +6,7 @@ search: false
 BetomName=""
 </script>
 
-# <BB labor="WindShell.Aktion" soma="" ekos="" via="" motor="" anima=""/>
+# <BB labor="WindShell.Aktion" />
 
 ---
 

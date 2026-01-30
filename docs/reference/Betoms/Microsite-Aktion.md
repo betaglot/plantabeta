@@ -6,7 +6,7 @@ search: false
 BetomName=""
 </script>
 
-# <BB labor="Microsite.Aktion"     />
+# <BB labor="Microsite.Aktion" />
 
 ## Sit.Anatomy
 

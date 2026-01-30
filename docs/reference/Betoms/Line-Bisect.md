@@ -6,7 +6,7 @@ search: false
 BetomName=""
 </script>
 
-# <BB    via="Line.Bisect"  />
+# <BB    via="Line.Bisect"/>
 
 > A line that Bisects a space or line
 

@@ -6,7 +6,7 @@ search: false
 BetomName=""
 </script>
 
-# <BB labor="Aktion" soma="Head"    />
+# <BB labor="Aktion" soma="Head"/>
 
 ## Head Anatomy
 

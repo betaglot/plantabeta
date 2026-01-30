@@ -6,7 +6,7 @@ search: false
 BetomName=""
 </script>
 
-# <BB labor="Mano.Kompress"     />
+# <BB labor="Mano.Kompress" />
 
 Aliases: Pinch
 

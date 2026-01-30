@@ -6,7 +6,7 @@ search: false
 BetomName=""
 </script>
 
-# <BB labor="Lean" soma="Korpo"    />
+# <BB labor="Lean" soma="Korpo"/>
 
 ## 🟠 BodyLean Problem
 

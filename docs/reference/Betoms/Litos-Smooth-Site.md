@@ -6,7 +6,7 @@ search: false
 BetomName=""
 </script>
 
-# <BB   ekos="Litos.Smooth" via="Site"  />
+# <BB   ekos="Litos.Smooth" via="Site"/>
 
 ---
 

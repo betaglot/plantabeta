@@ -6,7 +6,7 @@ search: false
 BetomName=""
 </script>
 
-# <BB labor="Clothing.Sleeve" soma="" ekos="" via="Site" motor="" anima=""/>
+# <BB labor="Clothing.Sleeve"   via="Site"/>
 
 ---
 

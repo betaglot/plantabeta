@@ -6,7 +6,7 @@ search: false
 BetomName=""
 </script>
 
-# <BB labor="Piece.Tactic"   via="OpenEnded"  />
+# <BB labor="Piece.Tactic"   via="OpenEnded"/>
 
 > Lacking Zone Limits
 

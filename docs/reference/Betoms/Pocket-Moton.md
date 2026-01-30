@@ -6,9 +6,8 @@ search: false
 BetomName=""
 </script>
 
-# <BB labor="Clothing.Pocket"     />
+# <BB labor="Clothing.Pocket" />
 
-<BB      />
 ---
 
 <!-- =================================================== -->

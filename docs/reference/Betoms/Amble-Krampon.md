@@ -6,7 +6,7 @@ search: false
 BetomName=""
 </script>
 
-# <BB labor="Amble.Krampon"     />
+# <BB labor="Amble.Krampon" />
 
 ---
 

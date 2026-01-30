@@ -30,15 +30,15 @@ The order in which the elements of each group is listed is always the same:
 <v-img src="/FaktorHex/EkosVia.png" />
 <v-img src="/FaktorHex/EkosViaAnima.png" />
 <v-img src="/FaktorHex/EkosViaMotor.png" />
-<v-img src="/FaktorHex/EkosViaMotorAnima.png"  />
+<v-img src="/FaktorHex/EkosViaMotorAnima.png"/>
 <v-img src="/FaktorHex/Labor.png" />
 <v-img src="/FaktorHex/LaborAnima.png" />
 <v-img src="/FaktorHex/LaborEkos.png" />
 <v-img src="/FaktorHex/LaborEkosAnima.png" />
 <v-img src="/FaktorHex/LaborEkosMotor.png" />
-<v-img src="/FaktorHex/LaborEkosMotorAnima.png"  />
+<v-img src="/FaktorHex/LaborEkosMotorAnima.png"/>
 <v-img src="/FaktorHex/LaborEkosVia.png" />
-<v-img src="/FaktorHex/LaborEkosViaAnima.png"  />
+<v-img src="/FaktorHex/LaborEkosViaAnima.png"/>
 <v-img src="/FaktorHex/LaborEkosViaMotor.png" />
 <v-img src="/FaktorHex/laborEkosViaMotorAnima.png" />
 <v-img src="/FaktorHex/LaborMotor.png" />
@@ -49,7 +49,7 @@ The order in which the elements of each group is listed is always the same:
 <v-img src="/FaktorHex/LaborSomaEkosAnima.png" />
 <v-img src="/FaktorHex/LaborSomaEkosMotor.png" />
 <v-img src="/FaktorHex/LaborSomaEkosMotorAnima.png" />
-<v-img src="/FaktorHex/LaborSomaEkosVia.png"  />
+<v-img src="/FaktorHex/LaborSomaEkosVia.png"/>
 <v-img src="/FaktorHex/LaborSomaEkosViaAnima.png" />
 <v-img src="/FaktorHex/LaborSomaEkosViaMotor.png" />
 <v-img src="/FaktorHex/LaborSomaEkosViaMotorAnima.png" />
@@ -100,7 +100,7 @@ grid-template-columns: repeat(16, 1fr);
 
 <BB labor="LABOR" soma="SOMA" ekos="EKOS" via="VIA" motor="MOTOR" anima="ANIMA"/>
 
-<BB labor="Error,Task,Piece,Aktion,Tool,Strategy,Performance"   via="Geometry,Direction,X-axis,Y-axis,Z-axis,Position,Orientation,Logic,Probability"  />
+<BB labor="Error,Task,Piece,Aktion,Tool,Strategy,Performance"   via="Geometry,Direction,X-axis,Y-axis,Z-axis,Position,Orientation,Logic,Probability"/>
 
 1. <span class="labor">LABOR</span>
     1. <span class="labor">Error</span>
@@ -147,6 +147,6 @@ grid-template-columns: repeat(16, 1fr);
     1. Up, Down
     1. In, Out
 
-- <BB  soma="Arm"  via="Length"  /> == <BB  soma="Arm"  via="Distance"  />
+- <BB  soma="Arm"  via="Length"/> == <BB  soma="Arm"  via="Distance"/>
 
 :::

@@ -6,7 +6,7 @@ search: false
 BetomName=""
 </script>
 
-# <BB labor="Box.Aktion"     />
+# <BB labor="Box.Aktion" />
 
 🔻BoxHandle is the main Contact of Box.
 

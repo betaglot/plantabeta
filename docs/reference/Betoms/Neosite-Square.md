@@ -7,9 +7,7 @@ search: false
 BetomName=""
 </script>
 
-# 🔻 <span class="via">SiteSquare</span>
-
-# <BB labor="" soma="" ekos="" via="" motor="" anima=""/>
+# <BB labor="Neosite" soma="" ekos="" via="Square" motor="" anima=""/>
 
 > A square of Sites
 

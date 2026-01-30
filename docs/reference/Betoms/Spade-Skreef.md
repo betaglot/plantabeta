@@ -3,7 +3,7 @@ aside: false
 search: false
 ---
 
-# <BB labor="Skim,Spade" soma="" ekos="" via="" motor="" anima=""/>
+# <BB labor="Skim,Spade" />
 
 ## <py>Elements</py>
 

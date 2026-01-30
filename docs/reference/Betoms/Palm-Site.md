@@ -6,7 +6,7 @@ search: false
 BetomName=""
 </script>
 
-# <BB  soma="Palm"  via="Site"  />
+# <BB  soma="Palm"  via="Site"/>
 
 ---
 

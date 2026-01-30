@@ -98,7 +98,7 @@ Finish
 
 - Grammar
     - Inflection
-        - <BB labor="[Absorb,Landing]" soma="" ekos="" via="" motor="" anima=""/>
-        - <BB labor="[Absorb,Redirect]" soma="" ekos="" via="" motor="" anima=""/>
+        - <BB labor="[Absorb,Landing]" />
+        - <BB labor="[Absorb,Redirect]" />
 
 :::

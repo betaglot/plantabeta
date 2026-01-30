@@ -6,7 +6,7 @@ search: false
 BetomName=""
 </script>
 
-# <BB labor="Kontakt.Boot.Arch"     />
+# <BB labor="Kontakt.Boot.Arch" />
 
 ---
 
@@ -18,6 +18,6 @@ BetomName=""
 ::: details &
 
 - Kontakt anything with BootArch
-- (⭐<span class="labor">Kontakt.BootArch</span> != <BB labor="Boot.Arch"   via="Site"  />)
+- (⭐<span class="labor">Kontakt.BootArch</span> != <BB labor="Boot.Arch"   via="Site"/>)
 
 :::

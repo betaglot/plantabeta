@@ -6,7 +6,7 @@ search: false
 BetomName=""
 </script>
 
-# <BB labor="Parry"  ekos="Flora"   />
+# <BB labor="Parry"  ekos="Flora" />
 
 > Use a FloraParry to redirect flora which is colliding with you.  
 

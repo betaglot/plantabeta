@@ -6,7 +6,7 @@ search: false
 BetomName=""
 </script>
 
-# <BB labor="Plantafor.Strap"   via="Site"  />
+# <BB labor="Plantafor.Strap"   via="Site"/>
 
 ---
 

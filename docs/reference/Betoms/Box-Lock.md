@@ -6,7 +6,7 @@ search: false
 BetomName=""
 </script>
 
-# <BB labor="Box.Lock"     />
+# <BB labor="Box.Lock" />
 
 ---
 

@@ -6,7 +6,7 @@ search: false
 BetomName=""
 </script>
 
-# <BB labor="Zipper.Aktion" soma="" ekos="" via="" motor="" anima=""/>
+# <BB labor="Zipper.Aktion" />
 
 ---
 

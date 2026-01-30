@@ -6,7 +6,7 @@ search: false
 BetomName=""
 </script>
 
-# <BB labor="Microsite.Open"     />
+# <BB labor="Microsite.Open" />
 
 ---
 

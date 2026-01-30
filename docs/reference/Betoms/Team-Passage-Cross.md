@@ -7,7 +7,7 @@ search: false
 BetomName=""
 </script>
 
-# <BB labor="Team.Tactic.Cross" soma="" ekos="" via="" motor="" anima=""/>
+# <BB labor="Team.Tactic.Cross" />
 
 ![ViaIkon](/Emblem/Via-Emblem.png)
 

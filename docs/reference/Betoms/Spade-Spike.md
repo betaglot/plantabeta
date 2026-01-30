@@ -6,7 +6,7 @@ search: false
 BetomName=""
 </script>
 
-# <BB labor="Spade.Spike" soma="" ekos="" via="" motor="" anima=""/>
+# <BB labor="Spade.Spike" />
 
 Aliases: SpadeSlam, SpadeThrow, SpadeChop
 

@@ -6,7 +6,7 @@ search: false
 BetomName=""
 </script>
 
-# <BB labor="Slot" soma="Korpo" ekos="" via="" motor="" anima=""/>
+# <BB labor="Slot" soma="Korpo"/>
 
 ![AktionIkon](/Emblem/Motor-Emblem.png)
 

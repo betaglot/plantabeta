@@ -6,7 +6,7 @@ search: false
 BetomName=""
 </script>
 
-# <BB labor="Kontakt" soma="Leg"    />
+# <BB labor="Kontakt" soma="Leg"/>
 
 > Kontakt is a Verb
 

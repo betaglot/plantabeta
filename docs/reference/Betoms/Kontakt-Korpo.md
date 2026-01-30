@@ -6,7 +6,7 @@ search: false
 BetomName=""
 </script>
 
-# <BB labor="Kontakt" soma="Korpo"    />
+# <BB labor="Kontakt" soma="Korpo"/>
 
 ---
 
@@ -17,6 +17,6 @@ BetomName=""
 <!-- =================================================== -->
 ::: details &
 
-- Laying on the Ground is <BB labor="Kontakt" soma="Korpo"    />
+- Laying on the Ground is <BB labor="Kontakt" soma="Korpo"/>
 
 :::
