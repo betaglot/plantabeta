@@ -10,31 +10,31 @@ search: false
 <!-- Show don't Tell -->
 
 1. Don't tie your flag around anything
-    <!-- - <BC l='Markum's=''e=''v=''m=''a='Error'/> -->
+    - <BB labor='Markum'soma=''ekos=''via=''motor=''anima='Error'/>
 1. Double knotting your laces prevents them from unting by themselves
-    <!-- - <BC l='Boot's=''e=''v=''m='Knot'a=''/> -->
+    - <BB labor='Boot'soma=''ekos=''via=''motor='Knot'anima=''/>
 1. Having your forearm horizontal
-    <!-- - <BC l='Spade's=''e='Skreef'v=''m='Skim'a=''/> -->
+    - <BB labor='Spade'soma=''ekos='Skreef'via=''motor='Skim'anima=''/>
 1. Drop yout hips when Slamming your spade into the ground to maximize force
-    <!-- - <BC l='Spade's=''e=''v=''m='Slam'a=''/> -->
+    - <BB labor='Spade'soma=''ekos=''via=''motor='Slam'anima=''/>
 1. Make sure your spade is Perpendicular when it strikes the ground to maximize force and
-    <!-- - <BC l='Spade's=''e=''v='Perpendicular'm='Slam'a=''/> -->
+    - <BB labor='Spade'soma=''ekos=''via='Perpendicular'motor='Slam'anima=''/>
 1. don't allow your knees to cave in (called Valgus Knees)
-    <!-- - <BC l=''s=''e=''v=''m='BasePosture'a='Health'/> -->
+    - <BB labor=''soma=''ekos=''via=''motor='BasePosture'anima='Health'/>
 1. don't Lateral screef. Only foot screef forward and back
-    <!-- - <BC l='Boot's=''e='Skreef'v=''m='MOTON'a=''/> -->
+    - <BB labor='Boot'soma=''ekos='Skreef'via=''motor='MOTON'anima=''/>
 1. have an extra clothing Layer in backbag at all times
-    <!-- - <BC l='(RainLayer,Bags)'s=''e=''v=''m=''a=''/> -->
+    - <BB labor='(RainLayer,Bags)'soma=''ekos=''via=''motor=''anima=''/>
 1. plant Triangles in raw
-    <!-- - <BC l=''s=''e=''v='Triads'm=''a=''/> -->
+    - <BB labor=''soma=''ekos=''via='Triads'motor=''anima=''/>
 1. Kneel while bagging up, everything should be within arms reach
-    <!-- - <BC l='BagUp's=''e=''v=''m='Kneel'a=''/> -->
+    - <BB labor='BagUp'soma=''ekos=''via=''motor='Kneel'anima=''/>
 1. no screefing in trenches
-    <!-- - <BC l=''s=''e='Skreef'v=''m=''a='NOT'/> -->
+    - <BB labor=''soma=''ekos='Skreef'via=''motor=''anima='NOT'/>
 1. always have a tree in your hand
-    <!-- - <BC l=''s=''e='Tree'v=''m='Grip'a='Habit'/> -->
+    - <BB labor=''soma=''ekos='Tree'via=''motor='Grip'anima='Habit'/>
 1. vertical holes
-    <!-- - <BC l='Spade's=''e=''v='Vertical'm='Slam'a=''/> -->
+    - <BB labor='Spade'soma=''ekos=''via='Vertical'motor='Slam'anima=''/>
 1. fingers at the bottom of the root pod when inserting tree
 1. Drop yout hips when Slamming your spade into the ground to maximize force
 1. Make sure your spade is Perpendicular when it strikes the ground to maximize force and

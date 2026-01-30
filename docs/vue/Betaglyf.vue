@@ -13,7 +13,7 @@
                           required
                           :rules="rules"
                           v-model="BetomData.betom_ID"></v-text-field>
-            <!-- BETOM CHIP -->
+            <!-- BETOMGLYF -->
             <Betomglyf class="text-h4 mb-2"
                        :labor="LaborFaktorText"
                        :soma="SomaFaktorText"

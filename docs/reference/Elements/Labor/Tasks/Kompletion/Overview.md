@@ -30,8 +30,6 @@ let elementName = "Kompletion"
 <!-- =================================================== -->
 ::: details &
 
-
-
 - Overlaps
     - Lap Marks in Painting
 

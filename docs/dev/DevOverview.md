@@ -56,3 +56,9 @@ Download Printable resources
 - "Dev.Youtube"
 
 :::
+
+<script setup>
+import BetomsTest from '/vue/BetomsTest.vue'
+</script>
+
+<BetomsTest />

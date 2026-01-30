@@ -1,0 +1,6433 @@
+[
+	{
+		"betomKebab": "Add-Markum",
+		"betomglyf": {
+			"labor": "Add.Markum"
+		},
+		"betomEnglishName": "",
+		"betomID": "",
+		"betomAlias": [],
+		"betomDescription": [],
+		"betomBetanyms": [],
+		"betomProfilePic": "",
+		"betomExample": {
+			"betomVideo": [],
+			"betomImage": [],
+			"betomQuote": []
+		},
+		"dev": []
+	},
+	{
+		"betomKebab": "Aktion-Flora-Branch",
+		"betomglyf": {
+			"labor": "Aktion",
+			"ekos": "Branch"
+		},
+		"betomEnglishName": "",
+		"betomID": "",
+		"betomAlias": [],
+		"betomDescription": [],
+		"betomBetanyms": [],
+		"betomProfilePic": "",
+		"betomExample": {
+			"betomVideo": [],
+			"betomImage": [],
+			"betomQuote": []
+		},
+		"dev": []
+	},
+	{
+		"betomKebab": "Ama-Arm-Anterior",
+		"betomglyf": {
+			"labor": "Ama",
+			"soma": "Arm"
+		},
+		"betomEnglishName": "",
+		"betomID": "",
+		"betomAlias": [],
+		"betomDescription": [],
+		"betomBetanyms": [],
+		"betomProfilePic": "",
+		"betomExample": {
+			"betomVideo": [],
+			"betomImage": [],
+			"betomQuote": []
+		},
+		"dev": []
+	},
+	{
+		"betomKebab": "Ama-Leg",
+		"betomglyf": {
+			"labor": "Ama",
+			"soma": "Leg"
+		},
+		"betomEnglishName": "",
+		"betomID": "",
+		"betomAlias": [],
+		"betomDescription": [],
+		"betomBetanyms": [],
+		"betomProfilePic": "",
+		"betomExample": {
+			"betomVideo": [],
+			"betomImage": [],
+			"betomQuote": []
+		},
+		"dev": []
+	},
+	{
+		"betomKebab": "Ama-Spade",
+		"betomglyf": {
+			"labor": "Spade.Ama"
+		},
+		"betomEnglishName": "",
+		"betomID": "",
+		"betomAlias": [],
+		"betomDescription": [],
+		"betomBetanyms": [],
+		"betomProfilePic": "",
+		"betomExample": {
+			"betomVideo": [],
+			"betomImage": [],
+			"betomQuote": []
+		},
+		"dev": []
+	},
+	{
+		"betomKebab": "Amble-Branta-Korpo",
+		"betomglyf": {
+			"labor": "Branta",
+			"soma": "Korpo"
+		},
+		"betomEnglishName": "",
+		"betomID": "",
+		"betomAlias": [],
+		"betomDescription": [],
+		"betomBetanyms": [],
+		"betomProfilePic": "",
+		"betomExample": {
+			"betomVideo": [],
+			"betomImage": [],
+			"betomQuote": []
+		},
+		"dev": []
+	},
+	{
+		"betomKebab": "Amble-Brazo",
+		"betomglyf": {
+			"labor": "Amble",
+			"soma": "Arm"
+		},
+		"betomEnglishName": "",
+		"betomID": "",
+		"betomAlias": [],
+		"betomDescription": [],
+		"betomBetanyms": [],
+		"betomProfilePic": "",
+		"betomExample": {
+			"betomVideo": [],
+			"betomImage": [],
+			"betomQuote": []
+		},
+		"dev": []
+	},
+	{
+		"betomKebab": "Amble-Korpo",
+		"betomglyf": {
+			"labor": "Amble",
+			"soma": "Body"
+		},
+		"betomEnglishName": "",
+		"betomID": "",
+		"betomAlias": [],
+		"betomDescription": [],
+		"betomBetanyms": [],
+		"betomProfilePic": "",
+		"betomExample": {
+			"betomVideo": [],
+			"betomImage": [],
+			"betomQuote": []
+		},
+		"dev": []
+	},
+	{
+		"betomKebab": "Amble-Korpo-Cross",
+		"betomglyf": {
+			"labor": "Step",
+			"via": "CrossMidline"
+		},
+		"betomEnglishName": "",
+		"betomID": "",
+		"betomAlias": [],
+		"betomDescription": [],
+		"betomBetanyms": [],
+		"betomProfilePic": "",
+		"betomExample": {
+			"betomVideo": [],
+			"betomImage": [],
+			"betomQuote": []
+		},
+		"dev": []
+	},
+	{
+		"betomKebab": "Amble-Korpo-Incline",
+		"betomglyf": {
+			"labor": "Amble",
+			"soma": "Body",
+			"ekos": "Prokline"
+		},
+		"betomEnglishName": "",
+		"betomID": "",
+		"betomAlias": [],
+		"betomDescription": [],
+		"betomBetanyms": [],
+		"betomProfilePic": "",
+		"betomExample": {
+			"betomVideo": [],
+			"betomImage": [],
+			"betomQuote": []
+		},
+		"dev": []
+	},
+	{
+		"betomKebab": "Amble-Krampon",
+		"betomglyf": {
+			"labor": "Amble.Krampon"
+		},
+		"betomEnglishName": "",
+		"betomID": "",
+		"betomAlias": [],
+		"betomDescription": [],
+		"betomBetanyms": [],
+		"betomProfilePic": "",
+		"betomExample": {
+			"betomVideo": [],
+			"betomImage": [],
+			"betomQuote": []
+		},
+		"dev": []
+	},
+	{
+		"betomKebab": "Armor-Flora",
+		"betomglyf": {
+			"labor": "Armor",
+			"ekos": "Flora"
+		},
+		"betomEnglishName": "",
+		"betomID": "",
+		"betomAlias": [],
+		"betomDescription": [],
+		"betomBetanyms": [],
+		"betomProfilePic": "",
+		"betomExample": {
+			"betomVideo": [],
+			"betomImage": [],
+			"betomQuote": []
+		},
+		"dev": []
+	},
+	{
+		"betomKebab": "Armor-Plantafor-Bag",
+		"betomglyf": {
+			"labor": "Armor,Bag"
+		},
+		"betomEnglishName": "",
+		"betomID": "",
+		"betomAlias": [],
+		"betomDescription": [],
+		"betomBetanyms": [],
+		"betomProfilePic": "",
+		"betomExample": {
+			"betomVideo": [],
+			"betomImage": [],
+			"betomQuote": []
+		},
+		"dev": []
+	},
+	{
+		"betomKebab": "Armor-Spade",
+		"betomglyf": {
+			"labor": "Armor,Spade"
+		},
+		"betomEnglishName": "",
+		"betomID": "",
+		"betomAlias": [],
+		"betomDescription": [],
+		"betomBetanyms": [],
+		"betomProfilePic": "",
+		"betomExample": {
+			"betomVideo": [],
+			"betomImage": [],
+			"betomQuote": []
+		},
+		"dev": []
+	},
+	{
+		"betomKebab": "Bag-Site",
+		"betomglyf": {
+			"labor": "Bag",
+			"via": "Site"
+		},
+		"betomEnglishName": "",
+		"betomID": "",
+		"betomAlias": [],
+		"betomDescription": [],
+		"betomBetanyms": [],
+		"betomProfilePic": "",
+		"betomExample": {
+			"betomVideo": [],
+			"betomImage": [],
+			"betomQuote": []
+		},
+		"dev": []
+	},
+	{
+		"betomKebab": "Ballista-Flora",
+		"betomglyf": {
+			"labor": "Ballista",
+			"ekos": "Log"
+		},
+		"betomEnglishName": "",
+		"betomID": "",
+		"betomAlias": [],
+		"betomDescription": [],
+		"betomBetanyms": [],
+		"betomProfilePic": "",
+		"betomExample": {
+			"betomVideo": [],
+			"betomImage": [],
+			"betomQuote": []
+		},
+		"dev": []
+	},
+	{
+		"betomKebab": "Boot-Mano",
+		"betomglyf": {
+			"labor": "Boot.Mano"
+		},
+		"betomEnglishName": "",
+		"betomID": "",
+		"betomAlias": [],
+		"betomDescription": [],
+		"betomBetanyms": [],
+		"betomProfilePic": "",
+		"betomExample": {
+			"betomVideo": [],
+			"betomImage": [],
+			"betomQuote": []
+		},
+		"dev": []
+	},
+	{
+		"betomKebab": "Boot-Off",
+		"betomglyf": {
+			"labor": "Boot.Off"
+		},
+		"betomEnglishName": "",
+		"betomID": "",
+		"betomAlias": [],
+		"betomDescription": [],
+		"betomBetanyms": [],
+		"betomProfilePic": "",
+		"betomExample": {
+			"betomVideo": [],
+			"betomImage": [],
+			"betomQuote": []
+		},
+		"dev": []
+	},
+	{
+		"betomKebab": "Boot-On",
+		"betomglyf": {
+			"labor": "Boot.On"
+		},
+		"betomEnglishName": "",
+		"betomID": "",
+		"betomAlias": [],
+		"betomDescription": [],
+		"betomBetanyms": [],
+		"betomProfilePic": "",
+		"betomExample": {
+			"betomVideo": [],
+			"betomImage": [],
+			"betomQuote": []
+		},
+		"dev": []
+	},
+	{
+		"betomKebab": "Boot-Preserve",
+		"betomglyf": {
+			"labor": "Preserve.Boot"
+		},
+		"betomEnglishName": "",
+		"betomID": "",
+		"betomAlias": [],
+		"betomDescription": [],
+		"betomBetanyms": [],
+		"betomProfilePic": "",
+		"betomExample": {
+			"betomVideo": [],
+			"betomImage": [],
+			"betomQuote": []
+		},
+		"dev": []
+	},
+	{
+		"betomKebab": "Box-Aktion",
+		"betomglyf": {
+			"labor": "Box.Aktion"
+		},
+		"betomEnglishName": "",
+		"betomID": "",
+		"betomAlias": [],
+		"betomDescription": [],
+		"betomBetanyms": [],
+		"betomProfilePic": "",
+		"betomExample": {
+			"betomVideo": [],
+			"betomImage": [],
+			"betomQuote": []
+		},
+		"dev": []
+	},
+	{
+		"betomKebab": "Box-Construct",
+		"betomglyf": {
+			"labor": "Box.Construct"
+		},
+		"betomEnglishName": "",
+		"betomID": "",
+		"betomAlias": [],
+		"betomDescription": [],
+		"betomBetanyms": [],
+		"betomProfilePic": "",
+		"betomExample": {
+			"betomVideo": [],
+			"betomImage": [],
+			"betomQuote": []
+		},
+		"dev": []
+	},
+	{
+		"betomKebab": "Box-Lift",
+		"betomglyf": {
+			"labor": "Box.Lift"
+		},
+		"betomEnglishName": "",
+		"betomID": "",
+		"betomAlias": [],
+		"betomDescription": [],
+		"betomBetanyms": [],
+		"betomProfilePic": "",
+		"betomExample": {
+			"betomVideo": [],
+			"betomImage": [],
+			"betomQuote": []
+		},
+		"dev": []
+	},
+	{
+		"betomKebab": "Box-Lock",
+		"betomglyf": {
+			"labor": "Box.Lock"
+		},
+		"betomEnglishName": "",
+		"betomID": "",
+		"betomAlias": [],
+		"betomDescription": [],
+		"betomBetanyms": [],
+		"betomProfilePic": "",
+		"betomExample": {
+			"betomVideo": [],
+			"betomImage": [],
+			"betomQuote": []
+		},
+		"dev": []
+	},
+	{
+		"betomKebab": "Box-Mano",
+		"betomglyf": {
+			"labor": "Box.Mano"
+		},
+		"betomEnglishName": "",
+		"betomID": "",
+		"betomAlias": [],
+		"betomDescription": [],
+		"betomBetanyms": [],
+		"betomProfilePic": "",
+		"betomExample": {
+			"betomVideo": [],
+			"betomImage": [],
+			"betomQuote": []
+		},
+		"dev": []
+	},
+	{
+		"betomKebab": "Box-Slide",
+		"betomglyf": {
+			"labor": "Box.Slide"
+		},
+		"betomEnglishName": "",
+		"betomID": "",
+		"betomAlias": [],
+		"betomDescription": [],
+		"betomBetanyms": [],
+		"betomProfilePic": "",
+		"betomExample": {
+			"betomVideo": [],
+			"betomImage": [],
+			"betomQuote": []
+		},
+		"dev": []
+	},
+	{
+		"betomKebab": "Box-Stack",
+		"betomglyf": {
+			"labor": "Box.Stack"
+		},
+		"betomEnglishName": "",
+		"betomID": "",
+		"betomAlias": [],
+		"betomDescription": [],
+		"betomBetanyms": [],
+		"betomProfilePic": "",
+		"betomExample": {
+			"betomVideo": [],
+			"betomImage": [],
+			"betomQuote": []
+		},
+		"dev": []
+	},
+	{
+		"betomKebab": "Box-Transport",
+		"betomglyf": {
+			"labor": "Box.Transport"
+		},
+		"betomEnglishName": "",
+		"betomID": "",
+		"betomAlias": [],
+		"betomDescription": [],
+		"betomBetanyms": [],
+		"betomProfilePic": "",
+		"betomExample": {
+			"betomVideo": [],
+			"betomImage": [],
+			"betomQuote": []
+		},
+		"dev": []
+	},
+	{
+		"betomKebab": "Branch-Audio",
+		"betomglyf": {
+			"labor": "Branch",
+			"anima": "Audio"
+		},
+		"betomEnglishName": "",
+		"betomID": "",
+		"betomAlias": [],
+		"betomDescription": [],
+		"betomBetanyms": [],
+		"betomProfilePic": "",
+		"betomExample": {
+			"betomVideo": [],
+			"betomImage": [],
+			"betomQuote": []
+		},
+		"dev": []
+	},
+	{
+		"betomKebab": "Break-Time",
+		"betomglyf": {
+			"labor": "Break",
+			"motor": "Time"
+		},
+		"betomEnglishName": "",
+		"betomID": "",
+		"betomAlias": [],
+		"betomDescription": [],
+		"betomBetanyms": [],
+		"betomProfilePic": "",
+		"betomExample": {
+			"betomVideo": [],
+			"betomImage": [],
+			"betomQuote": []
+		},
+		"dev": []
+	},
+	{
+		"betomKebab": "Bundle-Aktion",
+		"betomglyf": {
+			"labor": "Bundle.Aktion"
+		},
+		"betomEnglishName": "",
+		"betomID": "",
+		"betomAlias": [],
+		"betomDescription": [],
+		"betomBetanyms": [],
+		"betomProfilePic": "",
+		"betomExample": {
+			"betomVideo": [],
+			"betomImage": [],
+			"betomQuote": []
+		},
+		"dev": []
+	},
+	{
+		"betomKebab": "Bundle-Mano",
+		"betomglyf": {
+			"labor": "Bundle.Mano"
+		},
+		"betomEnglishName": "",
+		"betomID": "",
+		"betomAlias": [],
+		"betomDescription": [],
+		"betomBetanyms": [],
+		"betomProfilePic": "",
+		"betomExample": {
+			"betomVideo": [],
+			"betomImage": [],
+			"betomQuote": []
+		},
+		"dev": []
+	},
+	{
+		"betomKebab": "Bundle-Unwrap",
+		"betomglyf": {
+			"labor": "Bundle.Unwrap"
+		},
+		"betomEnglishName": "",
+		"betomID": "",
+		"betomAlias": [],
+		"betomDescription": [],
+		"betomBetanyms": [],
+		"betomProfilePic": "",
+		"betomExample": {
+			"betomVideo": [],
+			"betomImage": [],
+			"betomQuote": []
+		},
+		"dev": []
+	},
+	{
+		"betomKebab": "Cache-Aktion",
+		"betomglyf": {
+			"labor": "Cache.Aktion"
+		},
+		"betomEnglishName": "",
+		"betomID": "",
+		"betomAlias": [],
+		"betomDescription": [],
+		"betomBetanyms": [],
+		"betomProfilePic": "",
+		"betomExample": {
+			"betomVideo": [],
+			"betomImage": [],
+			"betomQuote": []
+		},
+		"dev": []
+	},
+	{
+		"betomKebab": "Catch-Flora",
+		"betomglyf": {
+			"labor": "Catch",
+			"ekos": "Flora"
+		},
+		"betomEnglishName": "",
+		"betomID": "",
+		"betomAlias": [],
+		"betomDescription": [],
+		"betomBetanyms": [],
+		"betomProfilePic": "",
+		"betomExample": {
+			"betomVideo": [],
+			"betomImage": [],
+			"betomQuote": []
+		},
+		"dev": []
+	},
+	{
+		"betomKebab": "Constraint-Time",
+		"betomglyf": {
+			"via": "Constraint",
+			"motor": "Time"
+		},
+		"betomEnglishName": "",
+		"betomID": "",
+		"betomAlias": [],
+		"betomDescription": [],
+		"betomBetanyms": [],
+		"betomProfilePic": "",
+		"betomExample": {
+			"betomVideo": [],
+			"betomImage": [],
+			"betomQuote": []
+		},
+		"dev": []
+	},
+	{
+		"betomKebab": "Cutblock-Density",
+		"betomglyf": {
+			"labor": "Cutblock",
+			"via": "Density"
+		},
+		"betomEnglishName": "",
+		"betomID": "",
+		"betomAlias": [],
+		"betomDescription": [],
+		"betomBetanyms": [],
+		"betomProfilePic": "",
+		"betomExample": {
+			"betomVideo": [],
+			"betomImage": [],
+			"betomQuote": []
+		},
+		"dev": []
+	},
+	{
+		"betomKebab": "Decrease-Site-Density",
+		"betomglyf": {
+			"labor": "Decrease",
+			"via": "Site.Density"
+		},
+		"betomEnglishName": "",
+		"betomID": "",
+		"betomAlias": [],
+		"betomDescription": [],
+		"betomBetanyms": [],
+		"betomProfilePic": "",
+		"betomExample": {
+			"betomVideo": [],
+			"betomImage": [],
+			"betomQuote": []
+		},
+		"dev": []
+	},
+	{
+		"betomKebab": "Div-Plan",
+		"betomglyf": {
+			"labor": "Plan",
+			"via": "Div"
+		},
+		"betomEnglishName": "",
+		"betomID": "",
+		"betomAlias": [],
+		"betomDescription": [],
+		"betomBetanyms": [],
+		"betomProfilePic": "",
+		"betomExample": {
+			"betomVideo": [],
+			"betomImage": [],
+			"betomQuote": []
+		},
+		"dev": []
+	},
+	{
+		"betomKebab": "Emotion-Flora",
+		"betomglyf": {
+			"ekos": "Flora",
+			"anima": "Emotion"
+		},
+		"betomEnglishName": "",
+		"betomID": "",
+		"betomAlias": [],
+		"betomDescription": [],
+		"betomBetanyms": [],
+		"betomProfilePic": "",
+		"betomExample": {
+			"betomVideo": [],
+			"betomImage": [],
+			"betomQuote": []
+		},
+		"dev": []
+	},
+	{
+		"betomKebab": "Error-Fall",
+		"betomglyf": {
+			"labor": "Error,Fall"
+		},
+		"betomEnglishName": "",
+		"betomID": "",
+		"betomAlias": [],
+		"betomDescription": [],
+		"betomBetanyms": [],
+		"betomProfilePic": "",
+		"betomExample": {
+			"betomVideo": [],
+			"betomImage": [],
+			"betomQuote": []
+		},
+		"dev": []
+	},
+	{
+		"betomKebab": "Error-Leg",
+		"betomglyf": {
+			"labor": "Error",
+			"soma": "Leg"
+		},
+		"betomEnglishName": "",
+		"betomID": "",
+		"betomAlias": [],
+		"betomDescription": [],
+		"betomBetanyms": [],
+		"betomProfilePic": "",
+		"betomExample": {
+			"betomVideo": [],
+			"betomImage": [],
+			"betomQuote": []
+		},
+		"dev": []
+	},
+	{
+		"betomKebab": "Error-Marka",
+		"betomglyf": {
+			"labor": "Error,Markum"
+		},
+		"betomEnglishName": "",
+		"betomID": "",
+		"betomAlias": [],
+		"betomDescription": [],
+		"betomBetanyms": [],
+		"betomProfilePic": "",
+		"betomExample": {
+			"betomVideo": [],
+			"betomImage": [],
+			"betomQuote": []
+		},
+		"dev": []
+	},
+	{
+		"betomKebab": "Error-Microsite",
+		"betomglyf": {
+			"labor": "Error,Microsite"
+		},
+		"betomEnglishName": "",
+		"betomID": "",
+		"betomAlias": [],
+		"betomDescription": [],
+		"betomBetanyms": [],
+		"betomProfilePic": "",
+		"betomExample": {
+			"betomVideo": [],
+			"betomImage": [],
+			"betomQuote": []
+		},
+		"dev": []
+	},
+	{
+		"betomKebab": "Error-Plantafor",
+		"betomglyf": {
+			"labor": "Error,Bag"
+		},
+		"betomEnglishName": "",
+		"betomID": "",
+		"betomAlias": [],
+		"betomDescription": [],
+		"betomBetanyms": [],
+		"betomProfilePic": "",
+		"betomExample": {
+			"betomVideo": [],
+			"betomImage": [],
+			"betomQuote": []
+		},
+		"dev": []
+	},
+	{
+		"betomKebab": "Error-Spade",
+		"betomglyf": {
+			"labor": "Error,Spade"
+		},
+		"betomEnglishName": "",
+		"betomID": "",
+		"betomAlias": [],
+		"betomDescription": [],
+		"betomBetanyms": [],
+		"betomProfilePic": "",
+		"betomExample": {
+			"betomVideo": [],
+			"betomImage": [],
+			"betomQuote": []
+		},
+		"dev": []
+	},
+	{
+		"betomKebab": "Error-Waste-Markum",
+		"betomglyf": {
+			"labor": "Error.Waste,Markum"
+		},
+		"betomEnglishName": "",
+		"betomID": "",
+		"betomAlias": [],
+		"betomDescription": [],
+		"betomBetanyms": [],
+		"betomProfilePic": "",
+		"betomExample": {
+			"betomVideo": [],
+			"betomImage": [],
+			"betomQuote": []
+		},
+		"dev": []
+	},
+	{
+		"betomKebab": "Eval-Flora",
+		"betomglyf": {
+			"labor": "Eval",
+			"ekos": "Flora"
+		},
+		"betomEnglishName": "",
+		"betomID": "",
+		"betomAlias": [],
+		"betomDescription": [],
+		"betomBetanyms": [],
+		"betomProfilePic": "",
+		"betomExample": {
+			"betomVideo": [],
+			"betomImage": [],
+			"betomQuote": []
+		},
+		"dev": []
+	},
+	{
+		"betomKebab": "Extend-Hand-Finger",
+		"betomglyf": {
+			"labor": "Extend",
+			"soma": "Finger"
+		},
+		"betomEnglishName": "",
+		"betomID": "",
+		"betomAlias": [],
+		"betomDescription": [],
+		"betomBetanyms": [],
+		"betomProfilePic": "",
+		"betomExample": {
+			"betomVideo": [],
+			"betomImage": [],
+			"betomQuote": []
+		},
+		"dev": []
+	},
+	{
+		"betomKebab": "Extend-Spine",
+		"betomglyf": {
+			"labor": "Extend",
+			"soma": "Spine"
+		},
+		"betomEnglishName": "",
+		"betomID": "",
+		"betomAlias": [],
+		"betomDescription": [],
+		"betomBetanyms": [],
+		"betomProfilePic": "",
+		"betomExample": {
+			"betomVideo": [],
+			"betomImage": [],
+			"betomQuote": []
+		},
+		"dev": []
+	},
+	{
+		"betomKebab": "Flex-Neck",
+		"betomglyf": {
+			"labor": "Flex",
+			"soma": "Neck"
+		},
+		"betomEnglishName": "",
+		"betomID": "",
+		"betomAlias": [],
+		"betomDescription": [],
+		"betomBetanyms": [],
+		"betomProfilePic": "",
+		"betomExample": {
+			"betomVideo": [],
+			"betomImage": [],
+			"betomQuote": []
+		},
+		"dev": []
+	},
+	{
+		"betomKebab": "Flora-Flexion",
+		"betomglyf": {
+			"ekos": "Flora",
+			"via": "Flexion"
+		},
+		"betomEnglishName": "",
+		"betomID": "",
+		"betomAlias": [],
+		"betomDescription": [],
+		"betomBetanyms": [],
+		"betomProfilePic": "",
+		"betomExample": {
+			"betomVideo": [],
+			"betomImage": [],
+			"betomQuote": []
+		},
+		"dev": []
+	},
+	{
+		"betomKebab": "Glove-Aktion",
+		"betomglyf": {
+			"labor": "Glove.Aktion"
+		},
+		"betomEnglishName": "",
+		"betomID": "",
+		"betomAlias": [],
+		"betomDescription": [],
+		"betomBetanyms": [],
+		"betomProfilePic": "",
+		"betomExample": {
+			"betomVideo": [],
+			"betomImage": [],
+			"betomQuote": []
+		},
+		"dev": []
+	},
+	{
+		"betomKebab": "Glove-Mano",
+		"betomglyf": {
+			"labor": "Glove.Mano"
+		},
+		"betomEnglishName": "",
+		"betomID": "",
+		"betomAlias": [],
+		"betomDescription": [],
+		"betomBetanyms": [],
+		"betomProfilePic": "",
+		"betomExample": {
+			"betomVideo": [],
+			"betomImage": [],
+			"betomQuote": []
+		},
+		"dev": []
+	},
+	{
+		"betomKebab": "Glove-Off",
+		"betomglyf": {
+			"labor": "Glove.Off"
+		},
+		"betomEnglishName": "",
+		"betomID": "",
+		"betomAlias": [],
+		"betomDescription": [],
+		"betomBetanyms": [],
+		"betomProfilePic": "",
+		"betomExample": {
+			"betomVideo": [],
+			"betomImage": [],
+			"betomQuote": []
+		},
+		"dev": []
+	},
+	{
+		"betomKebab": "Glove-On",
+		"betomglyf": {
+			"labor": "Glove.On"
+		},
+		"betomEnglishName": "",
+		"betomID": "",
+		"betomAlias": [],
+		"betomDescription": [],
+		"betomBetanyms": [],
+		"betomProfilePic": "",
+		"betomExample": {
+			"betomVideo": [],
+			"betomImage": [],
+			"betomQuote": []
+		},
+		"dev": []
+	},
+	{
+		"betomKebab": "Hat-Aktion",
+		"betomglyf": {
+			"labor": "Hat.Aktion"
+		},
+		"betomEnglishName": "",
+		"betomID": "",
+		"betomAlias": [],
+		"betomDescription": [],
+		"betomBetanyms": [],
+		"betomProfilePic": "",
+		"betomExample": {
+			"betomVideo": [],
+			"betomImage": [],
+			"betomQuote": []
+		},
+		"dev": []
+	},
+	{
+		"betomKebab": "Head-Away-Rotate",
+		"betomglyf": {
+			"labor": "Rotate",
+			"soma": "Head"
+		},
+		"betomEnglishName": "",
+		"betomID": "",
+		"betomAlias": [],
+		"betomDescription": [],
+		"betomBetanyms": [],
+		"betomProfilePic": "",
+		"betomExample": {
+			"betomVideo": [],
+			"betomImage": [],
+			"betomQuote": []
+		},
+		"dev": []
+	},
+	{
+		"betomKebab": "Hook-Arm",
+		"betomglyf": {
+			"labor": "Hook",
+			"soma": "Brazo"
+		},
+		"betomEnglishName": "",
+		"betomID": "",
+		"betomAlias": [],
+		"betomDescription": [],
+		"betomBetanyms": [],
+		"betomProfilePic": "",
+		"betomExample": {
+			"betomVideo": [],
+			"betomImage": [],
+			"betomQuote": []
+		},
+		"dev": []
+	},
+	{
+		"betomKebab": "Increase-Site-Density",
+		"betomglyf": {
+			"labor": "Increase",
+			"via": "Site.Density"
+		},
+		"betomEnglishName": "",
+		"betomID": "",
+		"betomAlias": [],
+		"betomDescription": [],
+		"betomBetanyms": [],
+		"betomProfilePic": "",
+		"betomExample": {
+			"betomVideo": [],
+			"betomImage": [],
+			"betomQuote": []
+		},
+		"dev": []
+	},
+	{
+		"betomKebab": "Jump-Korpo",
+		"betomglyf": {
+			"labor": "Jump"
+		},
+		"betomEnglishName": "",
+		"betomID": "",
+		"betomAlias": [],
+		"betomDescription": [],
+		"betomBetanyms": [],
+		"betomProfilePic": "",
+		"betomExample": {
+			"betomVideo": [],
+			"betomImage": [],
+			"betomQuote": []
+		},
+		"dev": []
+	},
+	{
+		"betomKebab": "Karabiner-Aktion",
+		"betomglyf": {
+			"labor": "Karabiner.Aktion"
+		},
+		"betomEnglishName": "",
+		"betomID": "",
+		"betomAlias": [],
+		"betomDescription": [],
+		"betomBetanyms": [],
+		"betomProfilePic": "",
+		"betomExample": {
+			"betomVideo": [],
+			"betomImage": [],
+			"betomQuote": []
+		},
+		"dev": []
+	},
+	{
+		"betomKebab": "Kit-Aktion",
+		"betomglyf": {
+			"labor": "Kit.Aktion"
+		},
+		"betomEnglishName": "",
+		"betomID": "",
+		"betomAlias": [],
+		"betomDescription": [],
+		"betomBetanyms": [],
+		"betomProfilePic": "",
+		"betomExample": {
+			"betomVideo": [],
+			"betomImage": [],
+			"betomQuote": []
+		},
+		"dev": []
+	},
+	{
+		"betomKebab": "Klose-Boot-Arch",
+		"betomglyf": {
+			"labor": "Klose.Boot.Arch"
+		},
+		"betomEnglishName": "",
+		"betomID": "",
+		"betomAlias": [],
+		"betomDescription": [],
+		"betomBetanyms": [],
+		"betomProfilePic": "",
+		"betomExample": {
+			"betomVideo": [],
+			"betomImage": [],
+			"betomQuote": []
+		},
+		"dev": []
+	},
+	{
+		"betomKebab": "Klose-Drag-Boot",
+		"betomglyf": {
+			"labor": "Klose.Boot.Drag"
+		},
+		"betomEnglishName": "",
+		"betomID": "",
+		"betomAlias": [],
+		"betomDescription": [],
+		"betomBetanyms": [],
+		"betomProfilePic": "",
+		"betomExample": {
+			"betomVideo": [],
+			"betomImage": [],
+			"betomQuote": []
+		},
+		"dev": []
+	},
+	{
+		"betomKebab": "Klose-Drag-Boot-Heel",
+		"betomglyf": {
+			"labor": "Klose.Boot.Heel.Drag"
+		},
+		"betomEnglishName": "",
+		"betomID": "",
+		"betomAlias": [],
+		"betomDescription": [],
+		"betomBetanyms": [],
+		"betomProfilePic": "",
+		"betomExample": {
+			"betomVideo": [],
+			"betomImage": [],
+			"betomQuote": []
+		},
+		"dev": []
+	},
+	{
+		"betomKebab": "Klose-Drag-Boot-Toe",
+		"betomglyf": {
+			"labor": "Klose.Drag.Boot"
+		},
+		"betomEnglishName": "",
+		"betomID": "",
+		"betomAlias": [],
+		"betomDescription": [],
+		"betomBetanyms": [],
+		"betomProfilePic": "",
+		"betomExample": {
+			"betomVideo": [],
+			"betomImage": [],
+			"betomQuote": []
+		},
+		"dev": []
+	},
+	{
+		"betomKebab": "Klose-Drag-Hand",
+		"betomglyf": {
+			"labor": "Klose.Drag.Mano"
+		},
+		"betomEnglishName": "",
+		"betomID": "",
+		"betomAlias": [],
+		"betomDescription": [],
+		"betomBetanyms": [],
+		"betomProfilePic": "",
+		"betomExample": {
+			"betomVideo": [],
+			"betomImage": [],
+			"betomQuote": []
+		},
+		"dev": []
+	},
+	{
+		"betomKebab": "Klose-Hand",
+		"betomglyf": {
+			"labor": "Klose.Mano"
+		},
+		"betomEnglishName": "",
+		"betomID": "",
+		"betomAlias": [],
+		"betomDescription": [],
+		"betomBetanyms": [],
+		"betomProfilePic": "",
+		"betomExample": {
+			"betomVideo": [],
+			"betomImage": [],
+			"betomQuote": []
+		},
+		"dev": []
+	},
+	{
+		"betomKebab": "Klose-Kick-Boot-Heel",
+		"betomglyf": {
+			"labor": "Klose.Kick.Boot.Heel"
+		},
+		"betomEnglishName": "",
+		"betomID": "",
+		"betomAlias": [],
+		"betomDescription": [],
+		"betomBetanyms": [],
+		"betomProfilePic": "",
+		"betomExample": {
+			"betomVideo": [],
+			"betomImage": [],
+			"betomQuote": []
+		},
+		"dev": []
+	},
+	{
+		"betomKebab": "Klose-Kick-Boot-Toe",
+		"betomglyf": {
+			"labor": "Klose.Kick.Boot.Toe"
+		},
+		"betomEnglishName": "",
+		"betomID": "",
+		"betomAlias": [],
+		"betomDescription": [],
+		"betomBetanyms": [],
+		"betomProfilePic": "",
+		"betomExample": {
+			"betomVideo": [],
+			"betomImage": [],
+			"betomQuote": []
+		},
+		"dev": []
+	},
+	{
+		"betomKebab": "Klose-Leg",
+		"betomglyf": {
+			"labor": "Klose.Boot"
+		},
+		"betomEnglishName": "",
+		"betomID": "",
+		"betomAlias": [],
+		"betomDescription": [],
+		"betomBetanyms": [],
+		"betomProfilePic": "",
+		"betomExample": {
+			"betomVideo": [],
+			"betomImage": [],
+			"betomQuote": []
+		},
+		"dev": []
+	},
+	{
+		"betomKebab": "Kneel-Ground",
+		"betomglyf": {
+			"labor": "Kneel",
+			"ekos": "Ground"
+		},
+		"betomEnglishName": "",
+		"betomID": "",
+		"betomAlias": [],
+		"betomDescription": [],
+		"betomBetanyms": [],
+		"betomProfilePic": "",
+		"betomExample": {
+			"betomVideo": [],
+			"betomImage": [],
+			"betomQuote": []
+		},
+		"dev": []
+	},
+	{
+		"betomKebab": "Knot-Boot-Lace",
+		"betomglyf": {
+			"labor": "Knot.Boot.Lace"
+		},
+		"betomEnglishName": "",
+		"betomID": "",
+		"betomAlias": [],
+		"betomDescription": [],
+		"betomBetanyms": [],
+		"betomProfilePic": "",
+		"betomExample": {
+			"betomVideo": [],
+			"betomImage": [],
+			"betomQuote": []
+		},
+		"dev": []
+	},
+	{
+		"betomKebab": "Kompakt-Brazo",
+		"betomglyf": {
+			"labor": "Kompakt.Brazo"
+		},
+		"betomEnglishName": "",
+		"betomID": "",
+		"betomAlias": [],
+		"betomDescription": [],
+		"betomBetanyms": [],
+		"betomProfilePic": "",
+		"betomExample": {
+			"betomVideo": [],
+			"betomImage": [],
+			"betomQuote": []
+		},
+		"dev": []
+	},
+	{
+		"betomKebab": "Kompakt-Mano",
+		"betomglyf": {
+			"labor": "Kompakt.Mano"
+		},
+		"betomEnglishName": "",
+		"betomID": "",
+		"betomAlias": [],
+		"betomDescription": [],
+		"betomBetanyms": [],
+		"betomProfilePic": "",
+		"betomExample": {
+			"betomVideo": [],
+			"betomImage": [],
+			"betomQuote": []
+		},
+		"dev": []
+	},
+	{
+		"betomKebab": "Kompress-Arm-Arm",
+		"betomglyf": {
+			"labor": "Kompress",
+			"soma": "<>Arm"
+		},
+		"betomEnglishName": "",
+		"betomID": "",
+		"betomAlias": [],
+		"betomDescription": [],
+		"betomBetanyms": [],
+		"betomProfilePic": "",
+		"betomExample": {
+			"betomVideo": [],
+			"betomImage": [],
+			"betomQuote": []
+		},
+		"dev": []
+	},
+	{
+		"betomKebab": "Kontakt-Boot-Arch",
+		"betomglyf": {
+			"labor": "Kontakt.Boot.Arch"
+		},
+		"betomEnglishName": "",
+		"betomID": "",
+		"betomAlias": [],
+		"betomDescription": [],
+		"betomBetanyms": [],
+		"betomProfilePic": "",
+		"betomExample": {
+			"betomVideo": [],
+			"betomImage": [],
+			"betomQuote": []
+		},
+		"dev": []
+	},
+	{
+		"betomKebab": "Kontakt-Boot-Dorsi",
+		"betomglyf": {
+			"labor": "Kontakt.Boot.Dorsi"
+		},
+		"betomEnglishName": "",
+		"betomID": "",
+		"betomAlias": [],
+		"betomDescription": [],
+		"betomBetanyms": [],
+		"betomProfilePic": "",
+		"betomExample": {
+			"betomVideo": [],
+			"betomImage": [],
+			"betomQuote": []
+		},
+		"dev": []
+	},
+	{
+		"betomKebab": "Kontakt-Elbow",
+		"betomglyf": {
+			"labor": "Kontakt",
+			"soma": "Elbow"
+		},
+		"betomEnglishName": "",
+		"betomID": "",
+		"betomAlias": [],
+		"betomDescription": [],
+		"betomBetanyms": [],
+		"betomProfilePic": "",
+		"betomExample": {
+			"betomVideo": [],
+			"betomImage": [],
+			"betomQuote": []
+		},
+		"dev": []
+	},
+	{
+		"betomKebab": "Kontakt-Head",
+		"betomglyf": {
+			"labor": "Kontakt",
+			"soma": "Head"
+		},
+		"betomEnglishName": "",
+		"betomID": "",
+		"betomAlias": [],
+		"betomDescription": [],
+		"betomBetanyms": [],
+		"betomProfilePic": "",
+		"betomExample": {
+			"betomVideo": [],
+			"betomImage": [],
+			"betomQuote": []
+		},
+		"dev": []
+	},
+	{
+		"betomKebab": "Kontakt-Korpo",
+		"betomglyf": {
+			"labor": "Kontakt",
+			"soma": "Korpo"
+		},
+		"betomEnglishName": "",
+		"betomID": "",
+		"betomAlias": [],
+		"betomDescription": [],
+		"betomBetanyms": [],
+		"betomProfilePic": "",
+		"betomExample": {
+			"betomVideo": [],
+			"betomImage": [],
+			"betomQuote": []
+		},
+		"dev": []
+	},
+	{
+		"betomKebab": "Kontakt-Korpo-Abdominal",
+		"betomglyf": {
+			"labor": "Kontakt",
+			"soma": "Abdominal"
+		},
+		"betomEnglishName": "",
+		"betomID": "",
+		"betomAlias": [],
+		"betomDescription": [],
+		"betomBetanyms": [],
+		"betomProfilePic": "",
+		"betomExample": {
+			"betomVideo": [],
+			"betomImage": [],
+			"betomQuote": []
+		},
+		"dev": []
+	},
+	{
+		"betomKebab": "Kontakt-LatissimusDorsi",
+		"betomglyf": {
+			"labor": "Kontakt",
+			"soma": "LatissimusDorsi"
+		},
+		"betomEnglishName": "",
+		"betomID": "",
+		"betomAlias": [],
+		"betomDescription": [],
+		"betomBetanyms": [],
+		"betomProfilePic": "",
+		"betomExample": {
+			"betomVideo": [],
+			"betomImage": [],
+			"betomQuote": []
+		},
+		"dev": []
+	},
+	{
+		"betomKebab": "Kontakt-Leg",
+		"betomglyf": {
+			"labor": "Kontakt",
+			"soma": "Leg"
+		},
+		"betomEnglishName": "",
+		"betomID": "",
+		"betomAlias": [],
+		"betomDescription": [],
+		"betomBetanyms": [],
+		"betomProfilePic": "",
+		"betomExample": {
+			"betomVideo": [],
+			"betomImage": [],
+			"betomQuote": []
+		},
+		"dev": []
+	},
+	{
+		"betomKebab": "Kontakt-Markum",
+		"betomglyf": {
+			"labor": "Kontakt,Markum"
+		},
+		"betomEnglishName": "",
+		"betomID": "",
+		"betomAlias": [],
+		"betomDescription": [],
+		"betomBetanyms": [],
+		"betomProfilePic": "",
+		"betomExample": {
+			"betomVideo": [],
+			"betomImage": [],
+			"betomQuote": []
+		},
+		"dev": []
+	},
+	{
+		"betomKebab": "Kontakt-Palm",
+		"betomglyf": {
+			"labor": "Kontakt",
+			"soma": "Hand.Palm"
+		},
+		"betomEnglishName": "",
+		"betomID": "",
+		"betomAlias": [],
+		"betomDescription": [],
+		"betomBetanyms": [],
+		"betomProfilePic": "",
+		"betomExample": {
+			"betomVideo": [],
+			"betomImage": [],
+			"betomQuote": []
+		},
+		"dev": []
+	},
+	{
+		"betomKebab": "Kontakt-Plantafor-Bag",
+		"betomglyf": {
+			"labor": "Kontakt,Plantafor.Bag"
+		},
+		"betomEnglishName": "",
+		"betomID": "",
+		"betomAlias": [],
+		"betomDescription": [],
+		"betomBetanyms": [],
+		"betomProfilePic": "",
+		"betomExample": {
+			"betomVideo": [],
+			"betomImage": [],
+			"betomQuote": []
+		},
+		"dev": []
+	},
+	{
+		"betomKebab": "Kontakt-Scapula",
+		"betomglyf": {
+			"labor": "Kontakt",
+			"soma": "Scapula"
+		},
+		"betomEnglishName": "",
+		"betomID": "",
+		"betomAlias": [],
+		"betomDescription": [],
+		"betomBetanyms": [],
+		"betomProfilePic": "",
+		"betomExample": {
+			"betomVideo": [],
+			"betomImage": [],
+			"betomQuote": []
+		},
+		"dev": []
+	},
+	{
+		"betomKebab": "Kontakt-Spade-Blade",
+		"betomglyf": {
+			"labor": "Kontakt,Spade.Blade"
+		},
+		"betomEnglishName": "",
+		"betomID": "",
+		"betomAlias": [],
+		"betomDescription": [],
+		"betomBetanyms": [],
+		"betomProfilePic": "",
+		"betomExample": {
+			"betomVideo": [],
+			"betomImage": [],
+			"betomQuote": []
+		},
+		"dev": []
+	},
+	{
+		"betomKebab": "Kontakt-Spade-Plast",
+		"betomglyf": {
+			"labor": "Kontakt",
+			"via": "Plast"
+		},
+		"betomEnglishName": "",
+		"betomID": "",
+		"betomAlias": [],
+		"betomDescription": [],
+		"betomBetanyms": [],
+		"betomProfilePic": "",
+		"betomExample": {
+			"betomVideo": [],
+			"betomImage": [],
+			"betomQuote": []
+		},
+		"dev": []
+	},
+	{
+		"betomKebab": "Kontakt-Spade-Shaft",
+		"betomglyf": {
+			"labor": "Kontakt,Spade.Shaft"
+		},
+		"betomEnglishName": "",
+		"betomID": "",
+		"betomAlias": [],
+		"betomDescription": [],
+		"betomBetanyms": [],
+		"betomProfilePic": "",
+		"betomExample": {
+			"betomVideo": [],
+			"betomImage": [],
+			"betomQuote": []
+		},
+		"dev": []
+	},
+	{
+		"betomKebab": "Kontakt-Spade-Tab",
+		"betomglyf": {
+			"labor": "Kontakt,Spade.Tab"
+		},
+		"betomEnglishName": "",
+		"betomID": "",
+		"betomAlias": [],
+		"betomDescription": [],
+		"betomBetanyms": [],
+		"betomProfilePic": "",
+		"betomExample": {
+			"betomVideo": [],
+			"betomImage": [],
+			"betomQuote": []
+		},
+		"dev": []
+	},
+	{
+		"betomKebab": "Kontakt-Trapezius",
+		"betomglyf": {
+			"labor": "Kontakt",
+			"soma": "Trapezius"
+		},
+		"betomEnglishName": "",
+		"betomID": "",
+		"betomAlias": [],
+		"betomDescription": [],
+		"betomBetanyms": [],
+		"betomProfilePic": "",
+		"betomExample": {
+			"betomVideo": [],
+			"betomImage": [],
+			"betomQuote": []
+		},
+		"dev": []
+	},
+	{
+		"betomKebab": "Kontakt-Triceps",
+		"betomglyf": {
+			"labor": "Kontakt",
+			"soma": "Triceps"
+		},
+		"betomEnglishName": "",
+		"betomID": "",
+		"betomAlias": [],
+		"betomDescription": [],
+		"betomBetanyms": [],
+		"betomProfilePic": "",
+		"betomExample": {
+			"betomVideo": [],
+			"betomImage": [],
+			"betomQuote": []
+		},
+		"dev": []
+	},
+	{
+		"betomKebab": "Korpo-Hip-Hinge",
+		"betomglyf": {
+			"labor": "Hinge",
+			"soma": "Hip"
+		},
+		"betomEnglishName": "",
+		"betomID": "",
+		"betomAlias": [],
+		"betomDescription": [],
+		"betomBetanyms": [],
+		"betomProfilePic": "",
+		"betomExample": {
+			"betomVideo": [],
+			"betomImage": [],
+			"betomQuote": []
+		},
+		"dev": []
+	},
+	{
+		"betomKebab": "Kryos-Brazo",
+		"betomglyf": {
+			"labor": "Kryos",
+			"soma": "Arm"
+		},
+		"betomEnglishName": "",
+		"betomID": "",
+		"betomAlias": [],
+		"betomDescription": [],
+		"betomBetanyms": [],
+		"betomProfilePic": "",
+		"betomExample": {
+			"betomVideo": [],
+			"betomImage": [],
+			"betomQuote": []
+		},
+		"dev": []
+	},
+	{
+		"betomKebab": "Kryos-Hand",
+		"betomglyf": {
+			"labor": "Kryos,Mano"
+		},
+		"betomEnglishName": "",
+		"betomID": "",
+		"betomAlias": [],
+		"betomDescription": [],
+		"betomBetanyms": [],
+		"betomProfilePic": "",
+		"betomExample": {
+			"betomVideo": [],
+			"betomImage": [],
+			"betomQuote": []
+		},
+		"dev": []
+	},
+	{
+		"betomKebab": "Lace-Adjust-Boot",
+		"betomglyf": {
+			"labor": "Boot.Lace.Modify"
+		},
+		"betomEnglishName": "",
+		"betomID": "",
+		"betomAlias": [],
+		"betomDescription": [],
+		"betomBetanyms": [],
+		"betomProfilePic": "",
+		"betomExample": {
+			"betomVideo": [],
+			"betomImage": [],
+			"betomQuote": []
+		},
+		"dev": []
+	},
+	{
+		"betomKebab": "Layer-Aktion",
+		"betomglyf": {
+			"labor": "Layer.Aktion"
+		},
+		"betomEnglishName": "",
+		"betomID": "",
+		"betomAlias": [],
+		"betomDescription": [],
+		"betomBetanyms": [],
+		"betomProfilePic": "",
+		"betomExample": {
+			"betomVideo": [],
+			"betomImage": [],
+			"betomQuote": []
+		},
+		"dev": []
+	},
+	{
+		"betomKebab": "Layer-Allo",
+		"betomglyf": {
+			"labor": "Allo,Layer"
+		},
+		"betomEnglishName": "",
+		"betomID": "",
+		"betomAlias": [],
+		"betomDescription": [],
+		"betomBetanyms": [],
+		"betomProfilePic": "",
+		"betomExample": {
+			"betomVideo": [],
+			"betomImage": [],
+			"betomQuote": []
+		},
+		"dev": []
+	},
+	{
+		"betomKebab": "Layer-Base-Aktion",
+		"betomglyf": {
+			"labor": "Layer.Base.Aktion"
+		},
+		"betomEnglishName": "",
+		"betomID": "",
+		"betomAlias": [],
+		"betomDescription": [],
+		"betomBetanyms": [],
+		"betomProfilePic": "",
+		"betomExample": {
+			"betomVideo": [],
+			"betomImage": [],
+			"betomQuote": []
+		},
+		"dev": []
+	},
+	{
+		"betomKebab": "Layer-Insulation-Aktion",
+		"betomglyf": {
+			"labor": "Layer.Insulation.Aktion"
+		},
+		"betomEnglishName": "",
+		"betomID": "",
+		"betomAlias": [],
+		"betomDescription": [],
+		"betomBetanyms": [],
+		"betomProfilePic": "",
+		"betomExample": {
+			"betomVideo": [],
+			"betomImage": [],
+			"betomQuote": []
+		},
+		"dev": []
+	},
+	{
+		"betomKebab": "Layer-Knot",
+		"betomglyf": {
+			"labor": "Layer.Knot"
+		},
+		"betomEnglishName": "",
+		"betomID": "",
+		"betomAlias": [],
+		"betomDescription": [],
+		"betomBetanyms": [],
+		"betomProfilePic": "",
+		"betomExample": {
+			"betomVideo": [],
+			"betomImage": [],
+			"betomQuote": []
+		},
+		"dev": []
+	},
+	{
+		"betomKebab": "Layer-Preserve",
+		"betomglyf": {
+			"labor": "Layer.Preserve"
+		},
+		"betomEnglishName": "",
+		"betomID": "",
+		"betomAlias": [],
+		"betomDescription": [],
+		"betomBetanyms": [],
+		"betomProfilePic": "",
+		"betomExample": {
+			"betomVideo": [],
+			"betomImage": [],
+			"betomQuote": []
+		},
+		"dev": []
+	},
+	{
+		"betomKebab": "Layer-Shell-Aktion",
+		"betomglyf": {
+			"labor": "Error,Layer.Shell.Aktion"
+		},
+		"betomEnglishName": "",
+		"betomID": "",
+		"betomAlias": [],
+		"betomDescription": [],
+		"betomBetanyms": [],
+		"betomProfilePic": "",
+		"betomExample": {
+			"betomVideo": [],
+			"betomImage": [],
+			"betomQuote": []
+		},
+		"dev": []
+	},
+	{
+		"betomKebab": "Layer-Site",
+		"betomglyf": {
+			"labor": "Layer",
+			"via": "Site"
+		},
+		"betomEnglishName": "",
+		"betomID": "",
+		"betomAlias": [],
+		"betomDescription": [],
+		"betomBetanyms": [],
+		"betomProfilePic": "",
+		"betomExample": {
+			"betomVideo": [],
+			"betomImage": [],
+			"betomQuote": []
+		},
+		"dev": []
+	},
+	{
+		"betomKebab": "Layering",
+		"betomglyf": {
+			"labor": "Layering.Aktion"
+		},
+		"betomEnglishName": "",
+		"betomID": "",
+		"betomAlias": [],
+		"betomDescription": [],
+		"betomBetanyms": [],
+		"betomProfilePic": "",
+		"betomExample": {
+			"betomVideo": [],
+			"betomImage": [],
+			"betomQuote": []
+		},
+		"dev": []
+	},
+	{
+		"betomKebab": "Leaf-Site",
+		"betomglyf": {
+			"ekos": "Leaf",
+			"via": "Site"
+		},
+		"betomEnglishName": "",
+		"betomID": "",
+		"betomAlias": [],
+		"betomDescription": [],
+		"betomBetanyms": [],
+		"betomProfilePic": "",
+		"betomExample": {
+			"betomVideo": [],
+			"betomImage": [],
+			"betomQuote": []
+		},
+		"dev": []
+	},
+	{
+		"betomKebab": "Lean-Body",
+		"betomglyf": {
+			"labor": "Lean",
+			"soma": "Korpo"
+		},
+		"betomEnglishName": "",
+		"betomID": "",
+		"betomAlias": [],
+		"betomDescription": [],
+		"betomBetanyms": [],
+		"betomProfilePic": "",
+		"betomExample": {
+			"betomVideo": [],
+			"betomImage": [],
+			"betomQuote": []
+		},
+		"dev": []
+	},
+	{
+		"betomKebab": "Line-Bisect",
+		"betomglyf": {
+			"via": "Line.Bisect"
+		},
+		"betomEnglishName": "",
+		"betomID": "",
+		"betomAlias": [],
+		"betomDescription": [],
+		"betomBetanyms": [],
+		"betomProfilePic": "",
+		"betomExample": {
+			"betomVideo": [],
+			"betomImage": [],
+			"betomQuote": []
+		},
+		"dev": []
+	},
+	{
+		"betomKebab": "Line-Displacement",
+		"betomglyf": {
+			"via": "Line.Displacement"
+		},
+		"betomEnglishName": "",
+		"betomID": "",
+		"betomAlias": [],
+		"betomDescription": [],
+		"betomBetanyms": [],
+		"betomProfilePic": "",
+		"betomExample": {
+			"betomVideo": [],
+			"betomImage": [],
+			"betomQuote": []
+		},
+		"dev": []
+	},
+	{
+		"betomKebab": "Litos-Rough-Hydro-Site",
+		"betomglyf": {
+			"ekos": "Litos.Rough.Hydro",
+			"via": "Site"
+		},
+		"betomEnglishName": "",
+		"betomID": "",
+		"betomAlias": [],
+		"betomDescription": [],
+		"betomBetanyms": [],
+		"betomProfilePic": "",
+		"betomExample": {
+			"betomVideo": [],
+			"betomImage": [],
+			"betomQuote": []
+		},
+		"dev": []
+	},
+	{
+		"betomKebab": "Litos-Rough-Site",
+		"betomglyf": {
+			"ekos": "Litos.Rough",
+			"via": "Site"
+		},
+		"betomEnglishName": "",
+		"betomID": "",
+		"betomAlias": [],
+		"betomDescription": [],
+		"betomBetanyms": [],
+		"betomProfilePic": "",
+		"betomExample": {
+			"betomVideo": [],
+			"betomImage": [],
+			"betomQuote": []
+		},
+		"dev": []
+	},
+	{
+		"betomKebab": "Litos-Smooth-Hydro-Site",
+		"betomglyf": {
+			"ekos": "Litos.Smooth.Hydro",
+			"via": "Site"
+		},
+		"betomEnglishName": "",
+		"betomID": "",
+		"betomAlias": [],
+		"betomDescription": [],
+		"betomBetanyms": [],
+		"betomProfilePic": "",
+		"betomExample": {
+			"betomVideo": [],
+			"betomImage": [],
+			"betomQuote": []
+		},
+		"dev": []
+	},
+	{
+		"betomKebab": "Litos-Smooth-Site",
+		"betomglyf": {
+			"ekos": "Litos.Smooth",
+			"via": "Site"
+		},
+		"betomEnglishName": "",
+		"betomID": "",
+		"betomAlias": [],
+		"betomDescription": [],
+		"betomBetanyms": [],
+		"betomProfilePic": "",
+		"betomExample": {
+			"betomVideo": [],
+			"betomImage": [],
+			"betomQuote": []
+		},
+		"dev": []
+	},
+	{
+		"betomKebab": "Log-Audio",
+		"betomglyf": {
+			"ekos": "Log",
+			"anima": "Audio"
+		},
+		"betomEnglishName": "",
+		"betomID": "",
+		"betomAlias": [],
+		"betomDescription": [],
+		"betomBetanyms": [],
+		"betomProfilePic": "",
+		"betomExample": {
+			"betomVideo": [],
+			"betomImage": [],
+			"betomQuote": []
+		},
+		"dev": []
+	},
+	{
+		"betomKebab": "Machete-Spade-Flora",
+		"betomglyf": {
+			"labor": "Machete,Spade",
+			"ekos": "Flora"
+		},
+		"betomEnglishName": "",
+		"betomID": "",
+		"betomAlias": [],
+		"betomDescription": [],
+		"betomBetanyms": [],
+		"betomProfilePic": "",
+		"betomExample": {
+			"betomVideo": [],
+			"betomImage": [],
+			"betomQuote": []
+		},
+		"dev": []
+	},
+	{
+		"betomKebab": "Mano-Flora",
+		"betomglyf": {
+			"labor": "Mano",
+			"ekos": "Flora"
+		},
+		"betomEnglishName": "",
+		"betomID": "",
+		"betomAlias": [],
+		"betomDescription": [],
+		"betomBetanyms": [],
+		"betomProfilePic": "",
+		"betomExample": {
+			"betomVideo": [],
+			"betomImage": [],
+			"betomQuote": []
+		},
+		"dev": []
+	},
+	{
+		"betomKebab": "Mano-Kompress",
+		"betomglyf": {
+			"labor": "Mano.Kompress"
+		},
+		"betomEnglishName": "",
+		"betomID": "",
+		"betomAlias": [],
+		"betomDescription": [],
+		"betomBetanyms": [],
+		"betomProfilePic": "",
+		"betomExample": {
+			"betomVideo": [],
+			"betomImage": [],
+			"betomQuote": []
+		},
+		"dev": []
+	},
+	{
+		"betomKebab": "Mano-Thumb-Adduction",
+		"betomglyf": {
+			"soma": "Thumb",
+			"via": "Adduction"
+		},
+		"betomEnglishName": "",
+		"betomID": "",
+		"betomAlias": [],
+		"betomDescription": [],
+		"betomBetanyms": [],
+		"betomProfilePic": "",
+		"betomExample": {
+			"betomVideo": [],
+			"betomImage": [],
+			"betomQuote": []
+		},
+		"dev": []
+	},
+	{
+		"betomKebab": "Marka-LineIn",
+		"betomglyf": {
+			"labor": "LineIn,Marka"
+		},
+		"betomEnglishName": "",
+		"betomID": "",
+		"betomAlias": [],
+		"betomDescription": [],
+		"betomBetanyms": [],
+		"betomProfilePic": "",
+		"betomExample": {
+			"betomVideo": [],
+			"betomImage": [],
+			"betomQuote": []
+		},
+		"dev": []
+	},
+	{
+		"betomKebab": "Markum-Aktion",
+		"betomglyf": {
+			"labor": "Markum.Aktion"
+		},
+		"betomEnglishName": "",
+		"betomID": "",
+		"betomAlias": [],
+		"betomDescription": [],
+		"betomBetanyms": [],
+		"betomProfilePic": "",
+		"betomExample": {
+			"betomVideo": [],
+			"betomImage": [],
+			"betomQuote": []
+		},
+		"dev": []
+	},
+	{
+		"betomKebab": "Markum-Ballista",
+		"betomglyf": {
+			"labor": "Ballista,Markum"
+		},
+		"betomEnglishName": "",
+		"betomID": "",
+		"betomAlias": [],
+		"betomDescription": [],
+		"betomBetanyms": [],
+		"betomProfilePic": "",
+		"betomExample": {
+			"betomVideo": [],
+			"betomImage": [],
+			"betomQuote": []
+		},
+		"dev": []
+	},
+	{
+		"betomKebab": "Markum-High",
+		"betomglyf": {
+			"labor": "Markum",
+			"via": "High"
+		},
+		"betomEnglishName": "",
+		"betomID": "",
+		"betomAlias": [],
+		"betomDescription": [],
+		"betomBetanyms": [],
+		"betomProfilePic": "",
+		"betomExample": {
+			"betomVideo": [],
+			"betomImage": [],
+			"betomQuote": []
+		},
+		"dev": []
+	},
+	{
+		"betomKebab": "Markum-Knot",
+		"betomglyf": {
+			"labor": "Markum.Knot"
+		},
+		"betomEnglishName": "",
+		"betomID": "",
+		"betomAlias": [],
+		"betomDescription": [],
+		"betomBetanyms": [],
+		"betomProfilePic": "",
+		"betomExample": {
+			"betomVideo": [],
+			"betomImage": [],
+			"betomQuote": []
+		},
+		"dev": []
+	},
+	{
+		"betomKebab": "Markum-Load",
+		"betomglyf": {
+			"labor": "Markum.Load"
+		},
+		"betomEnglishName": "",
+		"betomID": "",
+		"betomAlias": [],
+		"betomDescription": [],
+		"betomBetanyms": [],
+		"betomProfilePic": "",
+		"betomExample": {
+			"betomVideo": [],
+			"betomImage": [],
+			"betomQuote": []
+		},
+		"dev": []
+	},
+	{
+		"betomKebab": "Markum-Mano",
+		"betomglyf": {
+			"labor": "Markum.Mano"
+		},
+		"betomEnglishName": "",
+		"betomID": "",
+		"betomAlias": [],
+		"betomDescription": [],
+		"betomBetanyms": [],
+		"betomProfilePic": "",
+		"betomExample": {
+			"betomVideo": [],
+			"betomImage": [],
+			"betomQuote": []
+		},
+		"dev": []
+	},
+	{
+		"betomKebab": "Markum-Piece-Boundary",
+		"betomglyf": {
+			"labor": "Piece.Boundary.Marka"
+		},
+		"betomEnglishName": "",
+		"betomID": "",
+		"betomAlias": [],
+		"betomDescription": [],
+		"betomBetanyms": [],
+		"betomProfilePic": "",
+		"betomExample": {
+			"betomVideo": [],
+			"betomImage": [],
+			"betomQuote": []
+		},
+		"dev": []
+	},
+	{
+		"betomKebab": "Markum-Rip",
+		"betomglyf": {
+			"labor": "Markum.Rip"
+		},
+		"betomEnglishName": "",
+		"betomID": "",
+		"betomAlias": [],
+		"betomDescription": [],
+		"betomBetanyms": [],
+		"betomProfilePic": "",
+		"betomExample": {
+			"betomVideo": [],
+			"betomImage": [],
+			"betomQuote": []
+		},
+		"dev": []
+	},
+	{
+		"betomKebab": "Markum-Roll",
+		"betomglyf": {
+			"labor": "Markum.Roll"
+		},
+		"betomEnglishName": "",
+		"betomID": "",
+		"betomAlias": [],
+		"betomDescription": [],
+		"betomBetanyms": [],
+		"betomProfilePic": "",
+		"betomExample": {
+			"betomVideo": [],
+			"betomImage": [],
+			"betomQuote": []
+		},
+		"dev": []
+	},
+	{
+		"betomKebab": "Markum-Site",
+		"betomglyf": {
+			"labor": "Markum",
+			"via": "Site"
+		},
+		"betomEnglishName": "",
+		"betomID": "",
+		"betomAlias": [],
+		"betomDescription": [],
+		"betomBetanyms": [],
+		"betomProfilePic": "",
+		"betomExample": {
+			"betomVideo": [],
+			"betomImage": [],
+			"betomQuote": []
+		},
+		"dev": []
+	},
+	{
+		"betomKebab": "Markum-Slot",
+		"betomglyf": {
+			"labor": "Slot,Markum"
+		},
+		"betomEnglishName": "",
+		"betomID": "",
+		"betomAlias": [],
+		"betomDescription": [],
+		"betomBetanyms": [],
+		"betomProfilePic": "",
+		"betomExample": {
+			"betomVideo": [],
+			"betomImage": [],
+			"betomQuote": []
+		},
+		"dev": []
+	},
+	{
+		"betomKebab": "Markum-Wrap",
+		"betomglyf": {
+			"labor": "Wrap,Markum"
+		},
+		"betomEnglishName": "",
+		"betomID": "",
+		"betomAlias": [],
+		"betomDescription": [],
+		"betomBetanyms": [],
+		"betomProfilePic": "",
+		"betomExample": {
+			"betomVideo": [],
+			"betomImage": [],
+			"betomQuote": []
+		},
+		"dev": []
+	},
+	{
+		"betomKebab": "MaximumProximity",
+		"betomglyf": {
+			"via": "Maximum,Proximity"
+		},
+		"betomEnglishName": "",
+		"betomID": "",
+		"betomAlias": [],
+		"betomDescription": [],
+		"betomBetanyms": [],
+		"betomProfilePic": "",
+		"betomExample": {
+			"betomVideo": [],
+			"betomImage": [],
+			"betomQuote": []
+		},
+		"dev": []
+	},
+	{
+		"betomKebab": "Microsite-Aktion",
+		"betomglyf": {
+			"labor": "Microsite.Aktion"
+		},
+		"betomEnglishName": "",
+		"betomID": "",
+		"betomAlias": [],
+		"betomDescription": [],
+		"betomBetanyms": [],
+		"betomProfilePic": "",
+		"betomExample": {
+			"betomVideo": [],
+			"betomImage": [],
+			"betomQuote": []
+		},
+		"dev": []
+	},
+	{
+		"betomKebab": "Microsite-Dilate",
+		"betomglyf": {
+			"labor": "Microsite.Dilate"
+		},
+		"betomEnglishName": "",
+		"betomID": "",
+		"betomAlias": [],
+		"betomDescription": [],
+		"betomBetanyms": [],
+		"betomProfilePic": "",
+		"betomExample": {
+			"betomVideo": [],
+			"betomImage": [],
+			"betomQuote": []
+		},
+		"dev": []
+	},
+	{
+		"betomKebab": "Microsite-Eval",
+		"betomglyf": {
+			"labor": "Microsite.Eval"
+		},
+		"betomEnglishName": "",
+		"betomID": "",
+		"betomAlias": [],
+		"betomDescription": [],
+		"betomBetanyms": [],
+		"betomProfilePic": "",
+		"betomExample": {
+			"betomVideo": [],
+			"betomImage": [],
+			"betomQuote": []
+		},
+		"dev": []
+	},
+	{
+		"betomKebab": "Microsite-Klose",
+		"betomglyf": {
+			"labor": "Microsite.Klose"
+		},
+		"betomEnglishName": "",
+		"betomID": "",
+		"betomAlias": [],
+		"betomDescription": [],
+		"betomBetanyms": [],
+		"betomProfilePic": "",
+		"betomExample": {
+			"betomVideo": [],
+			"betomImage": [],
+			"betomQuote": []
+		},
+		"dev": []
+	},
+	{
+		"betomKebab": "Microsite-Marka",
+		"betomglyf": {
+			"labor": "Microsite,Markum"
+		},
+		"betomEnglishName": "",
+		"betomID": "",
+		"betomAlias": [],
+		"betomDescription": [],
+		"betomBetanyms": [],
+		"betomProfilePic": "",
+		"betomExample": {
+			"betomVideo": [],
+			"betomImage": [],
+			"betomQuote": []
+		},
+		"dev": []
+	},
+	{
+		"betomKebab": "Microsite-Open",
+		"betomglyf": {
+			"labor": "Microsite.Open"
+		},
+		"betomEnglishName": "",
+		"betomID": "",
+		"betomAlias": [],
+		"betomDescription": [],
+		"betomBetanyms": [],
+		"betomProfilePic": "",
+		"betomExample": {
+			"betomVideo": [],
+			"betomImage": [],
+			"betomQuote": []
+		},
+		"dev": []
+	},
+	{
+		"betomKebab": "Microsite-Proximity",
+		"betomglyf": {
+			"via": "Proximity"
+		},
+		"betomEnglishName": "",
+		"betomID": "",
+		"betomAlias": [],
+		"betomDescription": [],
+		"betomBetanyms": [],
+		"betomProfilePic": "",
+		"betomExample": {
+			"betomVideo": [],
+			"betomImage": [],
+			"betomQuote": []
+		},
+		"dev": []
+	},
+	{
+		"betomKebab": "Microsite-Select",
+		"betomglyf": {
+			"labor": "Select,Neosite"
+		},
+		"betomEnglishName": "",
+		"betomID": "",
+		"betomAlias": [],
+		"betomDescription": [],
+		"betomBetanyms": [],
+		"betomProfilePic": "",
+		"betomExample": {
+			"betomVideo": [],
+			"betomImage": [],
+			"betomQuote": []
+		},
+		"dev": []
+	},
+	{
+		"betomKebab": "Microsite-Skreef",
+		"betomglyf": {
+			"labor": "Microsite",
+			"ekos": "Skreef"
+		},
+		"betomEnglishName": "",
+		"betomID": "",
+		"betomAlias": [],
+		"betomDescription": [],
+		"betomBetanyms": [],
+		"betomProfilePic": "",
+		"betomExample": {
+			"betomVideo": [],
+			"betomImage": [],
+			"betomQuote": []
+		},
+		"dev": []
+	},
+	{
+		"betomKebab": "MineralSoil-Hydro-Site",
+		"betomglyf": {
+			"ekos": "MineralSoil.Hydro",
+			"via": "Site"
+		},
+		"betomEnglishName": "",
+		"betomID": "",
+		"betomAlias": [],
+		"betomDescription": [],
+		"betomBetanyms": [],
+		"betomProfilePic": "",
+		"betomExample": {
+			"betomVideo": [],
+			"betomImage": [],
+			"betomQuote": []
+		},
+		"dev": []
+	},
+	{
+		"betomKebab": "MineralSoil-Site",
+		"betomglyf": {
+			"labor": "MineralSoil",
+			"via": "Site"
+		},
+		"betomEnglishName": "",
+		"betomID": "",
+		"betomAlias": [],
+		"betomDescription": [],
+		"betomBetanyms": [],
+		"betomProfilePic": "",
+		"betomExample": {
+			"betomVideo": [],
+			"betomImage": [],
+			"betomQuote": []
+		},
+		"dev": []
+	},
+	{
+		"betomKebab": "Modify-Zone-Density",
+		"betomglyf": {
+			"labor": "Modify",
+			"via": "Zone.Density"
+		},
+		"betomEnglishName": "",
+		"betomID": "",
+		"betomAlias": [],
+		"betomDescription": [],
+		"betomBetanyms": [],
+		"betomProfilePic": "",
+		"betomExample": {
+			"betomVideo": [],
+			"betomImage": [],
+			"betomQuote": []
+		},
+		"dev": []
+	},
+	{
+		"betomKebab": "Morning-DropOff-Time",
+		"betomglyf": {
+			"labor": "Workday.DropOff"
+		},
+		"betomEnglishName": "",
+		"betomID": "",
+		"betomAlias": [],
+		"betomDescription": [],
+		"betomBetanyms": [],
+		"betomProfilePic": "",
+		"betomExample": {
+			"betomVideo": [],
+			"betomImage": [],
+			"betomQuote": []
+		},
+		"dev": []
+	},
+	{
+		"betomKebab": "Moton-Flora",
+		"betomglyf": {
+			"labor": "Aktion",
+			"ekos": "Flora"
+		},
+		"betomEnglishName": "",
+		"betomID": "",
+		"betomAlias": [],
+		"betomDescription": [],
+		"betomBetanyms": [],
+		"betomProfilePic": "",
+		"betomExample": {
+			"betomVideo": [],
+			"betomImage": [],
+			"betomQuote": []
+		},
+		"dev": []
+	},
+	{
+		"betomKebab": "Moton-Head",
+		"betomglyf": {
+			"labor": "Aktion",
+			"soma": "Head"
+		},
+		"betomEnglishName": "",
+		"betomID": "",
+		"betomAlias": [],
+		"betomDescription": [],
+		"betomBetanyms": [],
+		"betomProfilePic": "",
+		"betomExample": {
+			"betomVideo": [],
+			"betomImage": [],
+			"betomQuote": []
+		},
+		"dev": []
+	},
+	{
+		"betomKebab": "Moton-Korpo",
+		"betomglyf": {
+			"labor": "Aktion",
+			"soma": "Korpo"
+		},
+		"betomEnglishName": "",
+		"betomID": "",
+		"betomAlias": [],
+		"betomDescription": [],
+		"betomBetanyms": [],
+		"betomProfilePic": "",
+		"betomExample": {
+			"betomVideo": [],
+			"betomImage": [],
+			"betomQuote": []
+		},
+		"dev": []
+	},
+	{
+		"betomKebab": "Moton-Mano",
+		"betomglyf": {
+			"labor": "Mano",
+			"soma": "Hand"
+		},
+		"betomEnglishName": "",
+		"betomID": "",
+		"betomAlias": [],
+		"betomDescription": [],
+		"betomBetanyms": [],
+		"betomProfilePic": "",
+		"betomExample": {
+			"betomVideo": [],
+			"betomImage": [],
+			"betomQuote": []
+		},
+		"dev": []
+	},
+	{
+		"betomKebab": "NaturalMarka",
+		"betomglyf": {
+			"labor": "Marka,CropTree"
+		},
+		"betomEnglishName": "",
+		"betomID": "",
+		"betomAlias": [],
+		"betomDescription": [],
+		"betomBetanyms": [],
+		"betomProfilePic": "",
+		"betomExample": {
+			"betomVideo": [],
+			"betomImage": [],
+			"betomQuote": []
+		},
+		"dev": []
+	},
+	{
+		"betomKebab": "Neon-Eval",
+		"betomglyf": {
+			"labor": "Eval,Neon"
+		},
+		"betomEnglishName": "",
+		"betomID": "",
+		"betomAlias": [],
+		"betomDescription": [],
+		"betomBetanyms": [],
+		"betomProfilePic": "",
+		"betomExample": {
+			"betomVideo": [],
+			"betomImage": [],
+			"betomQuote": []
+		},
+		"dev": []
+	},
+	{
+		"betomKebab": "Neon-Insert",
+		"betomglyf": {
+			"labor": "Insert,Neon"
+		},
+		"betomEnglishName": "",
+		"betomID": "",
+		"betomAlias": [],
+		"betomDescription": [],
+		"betomBetanyms": [],
+		"betomProfilePic": "",
+		"betomExample": {
+			"betomVideo": [],
+			"betomImage": [],
+			"betomQuote": []
+		},
+		"dev": []
+	},
+	{
+		"betomKebab": "Neon-Load",
+		"betomglyf": {
+			"labor": "Load,Neon"
+		},
+		"betomEnglishName": "",
+		"betomID": "",
+		"betomAlias": [],
+		"betomDescription": [],
+		"betomBetanyms": [],
+		"betomProfilePic": "",
+		"betomExample": {
+			"betomVideo": [],
+			"betomImage": [],
+			"betomQuote": []
+		},
+		"dev": []
+	},
+	{
+		"betomKebab": "Neon-Mano",
+		"betomglyf": {
+			"labor": "Neon.Mano"
+		},
+		"betomEnglishName": "",
+		"betomID": "",
+		"betomAlias": [],
+		"betomDescription": [],
+		"betomBetanyms": [],
+		"betomProfilePic": "",
+		"betomExample": {
+			"betomVideo": [],
+			"betomImage": [],
+			"betomQuote": []
+		},
+		"dev": []
+	},
+	{
+		"betomKebab": "Neon-Moton",
+		"betomglyf": {
+			"labor": "Neon.Aktion"
+		},
+		"betomEnglishName": "",
+		"betomID": "",
+		"betomAlias": [],
+		"betomDescription": [],
+		"betomBetanyms": [],
+		"betomProfilePic": "",
+		"betomExample": {
+			"betomVideo": [],
+			"betomImage": [],
+			"betomQuote": []
+		},
+		"dev": []
+	},
+	{
+		"betomKebab": "Neon-Site",
+		"betomglyf": {
+			"labor": "Neon",
+			"via": "Site"
+		},
+		"betomEnglishName": "",
+		"betomID": "",
+		"betomAlias": [],
+		"betomDescription": [],
+		"betomBetanyms": [],
+		"betomProfilePic": "",
+		"betomExample": {
+			"betomVideo": [],
+			"betomImage": [],
+			"betomQuote": []
+		},
+		"dev": []
+	},
+	{
+		"betomKebab": "Neosite-Diamond",
+		"betomglyf": {
+			"labor": "Neosite",
+			"via": "Alignment.Diamond"
+		},
+		"betomEnglishName": "",
+		"betomID": "",
+		"betomAlias": [],
+		"betomDescription": [],
+		"betomBetanyms": [],
+		"betomProfilePic": "",
+		"betomExample": {
+			"betomVideo": [],
+			"betomImage": [],
+			"betomQuote": []
+		},
+		"dev": []
+	},
+	{
+		"betomKebab": "Neosite-Dyad",
+		"betomglyf": {
+			"labor": "Neosite",
+			"via": "Dyad"
+		},
+		"betomEnglishName": "",
+		"betomID": "",
+		"betomAlias": [],
+		"betomDescription": [],
+		"betomBetanyms": [],
+		"betomProfilePic": "",
+		"betomExample": {
+			"betomVideo": [],
+			"betomImage": [],
+			"betomQuote": []
+		},
+		"dev": []
+	},
+	{
+		"betomKebab": "Neosite-Hexad",
+		"betomglyf": {
+			"labor": "Neosite",
+			"via": "Hexad"
+		},
+		"betomEnglishName": "",
+		"betomID": "",
+		"betomAlias": [],
+		"betomDescription": [],
+		"betomBetanyms": [],
+		"betomProfilePic": "",
+		"betomExample": {
+			"betomVideo": [],
+			"betomImage": [],
+			"betomQuote": []
+		},
+		"dev": []
+	},
+	{
+		"betomKebab": "Neosite-Pentad",
+		"betomglyf": {
+			"labor": "Neosite",
+			"via": "Pentad"
+		},
+		"betomEnglishName": "",
+		"betomID": "",
+		"betomAlias": [],
+		"betomDescription": [],
+		"betomBetanyms": [],
+		"betomProfilePic": "",
+		"betomExample": {
+			"betomVideo": [],
+			"betomImage": [],
+			"betomQuote": []
+		},
+		"dev": []
+	},
+	{
+		"betomKebab": "Neosite-Polygon",
+		"betomglyf": {
+			"labor": "Neosite",
+			"via": "Alignment.Polygon"
+		},
+		"betomEnglishName": "",
+		"betomID": "",
+		"betomAlias": [],
+		"betomDescription": [],
+		"betomBetanyms": [],
+		"betomProfilePic": "",
+		"betomExample": {
+			"betomVideo": [],
+			"betomImage": [],
+			"betomQuote": []
+		},
+		"dev": []
+	},
+	{
+		"betomKebab": "Neosite-Proximity-Adaptive",
+		"betomglyf": {
+			"via": "Proximity,Adaptive"
+		},
+		"betomEnglishName": "",
+		"betomID": "",
+		"betomAlias": [],
+		"betomDescription": [],
+		"betomBetanyms": [],
+		"betomProfilePic": "",
+		"betomExample": {
+			"betomVideo": [],
+			"betomImage": [],
+			"betomQuote": []
+		},
+		"dev": []
+	},
+	{
+		"betomKebab": "Neosite-Proximity-Rigid",
+		"betomglyf": {
+			"labor": "Neosite",
+			"via": "Proximity.Fixed"
+		},
+		"betomEnglishName": "",
+		"betomID": "",
+		"betomAlias": [],
+		"betomDescription": [],
+		"betomBetanyms": [],
+		"betomProfilePic": "",
+		"betomExample": {
+			"betomVideo": [],
+			"betomImage": [],
+			"betomQuote": []
+		},
+		"dev": []
+	},
+	{
+		"betomKebab": "Neosite-Proximity-Sloped",
+		"betomglyf": {
+			"ekos": "Prokline",
+			"via": "Proximity.Adaptive"
+		},
+		"betomEnglishName": "",
+		"betomID": "",
+		"betomAlias": [],
+		"betomDescription": [],
+		"betomBetanyms": [],
+		"betomProfilePic": "",
+		"betomExample": {
+			"betomVideo": [],
+			"betomImage": [],
+			"betomQuote": []
+		},
+		"dev": []
+	},
+	{
+		"betomKebab": "Neosite-Responsive",
+		"betomglyf": {
+			"labor": "Neosite",
+			"via": "Proximity.Adaptive"
+		},
+		"betomEnglishName": "",
+		"betomID": "",
+		"betomAlias": [],
+		"betomDescription": [],
+		"betomBetanyms": [],
+		"betomProfilePic": "",
+		"betomExample": {
+			"betomVideo": [],
+			"betomImage": [],
+			"betomQuote": []
+		},
+		"dev": []
+	},
+	{
+		"betomKebab": "Neosite-Select",
+		"betomglyf": {
+			"labor": "Select,Neosite"
+		},
+		"betomEnglishName": "",
+		"betomID": "",
+		"betomAlias": [],
+		"betomDescription": [],
+		"betomBetanyms": [],
+		"betomProfilePic": "",
+		"betomExample": {
+			"betomVideo": [],
+			"betomImage": [],
+			"betomQuote": []
+		},
+		"dev": []
+	},
+	{
+		"betomKebab": "Neosite-Square",
+		"betomglyf": {
+			"labor": "Neosite",
+			"via": "Square"
+		},
+		"betomEnglishName": "",
+		"betomID": "",
+		"betomAlias": [],
+		"betomDescription": [],
+		"betomBetanyms": [],
+		"betomProfilePic": "",
+		"betomExample": {
+			"betomVideo": [],
+			"betomImage": [],
+			"betomQuote": []
+		},
+		"dev": []
+	},
+	{
+		"betomKebab": "Neosite-Tetrad",
+		"betomglyf": {
+			"labor": "Neosite",
+			"via": "Tetrad"
+		},
+		"betomEnglishName": "",
+		"betomID": "",
+		"betomAlias": [],
+		"betomDescription": [],
+		"betomBetanyms": [],
+		"betomProfilePic": "",
+		"betomExample": {
+			"betomVideo": [],
+			"betomImage": [],
+			"betomQuote": []
+		},
+		"dev": []
+	},
+	{
+		"betomKebab": "Neosite-Trapezoid",
+		"betomglyf": {
+			"labor": "Neosite",
+			"via": "Trapezoid"
+		},
+		"betomEnglishName": "",
+		"betomID": "",
+		"betomAlias": [],
+		"betomDescription": [],
+		"betomBetanyms": [],
+		"betomProfilePic": "",
+		"betomExample": {
+			"betomVideo": [],
+			"betomImage": [],
+			"betomQuote": []
+		},
+		"dev": []
+	},
+	{
+		"betomKebab": "Neosite-Triangle",
+		"betomglyf": {
+			"labor": "Neosite",
+			"via": "Triad"
+		},
+		"betomEnglishName": "",
+		"betomID": "",
+		"betomAlias": [],
+		"betomDescription": [],
+		"betomBetanyms": [],
+		"betomProfilePic": "",
+		"betomExample": {
+			"betomVideo": [],
+			"betomImage": [],
+			"betomQuote": []
+		},
+		"dev": []
+	},
+	{
+		"betomKebab": "Obstacle-Plan",
+		"betomglyf": {
+			"labor": "Select,Neosite",
+			"via": "Obstacle"
+		},
+		"betomEnglishName": "",
+		"betomID": "",
+		"betomAlias": [],
+		"betomDescription": [],
+		"betomBetanyms": [],
+		"betomProfilePic": "",
+		"betomExample": {
+			"betomVideo": [],
+			"betomImage": [],
+			"betomQuote": []
+		},
+		"dev": []
+	},
+	{
+		"betomKebab": "Onda-Brazo",
+		"betomglyf": {
+			"labor": "Onda",
+			"soma": "Arm"
+		},
+		"betomEnglishName": "",
+		"betomID": "",
+		"betomAlias": [],
+		"betomDescription": [],
+		"betomBetanyms": [],
+		"betomProfilePic": "",
+		"betomExample": {
+			"betomVideo": [],
+			"betomImage": [],
+			"betomQuote": []
+		},
+		"dev": []
+	},
+	{
+		"betomKebab": "Onda-Leg",
+		"betomglyf": {
+			"labor": "Onda",
+			"soma": "Leg"
+		},
+		"betomEnglishName": "",
+		"betomID": "",
+		"betomAlias": [],
+		"betomDescription": [],
+		"betomBetanyms": [],
+		"betomProfilePic": "",
+		"betomExample": {
+			"betomVideo": [],
+			"betomImage": [],
+			"betomQuote": []
+		},
+		"dev": []
+	},
+	{
+		"betomKebab": "Orbit-Arm",
+		"betomglyf": {
+			"labor": "Orbit",
+			"soma": "Arm"
+		},
+		"betomEnglishName": "",
+		"betomID": "",
+		"betomAlias": [],
+		"betomDescription": [],
+		"betomBetanyms": [],
+		"betomProfilePic": "",
+		"betomExample": {
+			"betomVideo": [],
+			"betomImage": [],
+			"betomQuote": []
+		},
+		"dev": []
+	},
+	{
+		"betomKebab": "Orbit-Korpo",
+		"betomglyf": {
+			"labor": "Orbit",
+			"soma": "Korpo"
+		},
+		"betomEnglishName": "",
+		"betomID": "",
+		"betomAlias": [],
+		"betomDescription": [],
+		"betomBetanyms": [],
+		"betomProfilePic": "",
+		"betomExample": {
+			"betomVideo": [],
+			"betomImage": [],
+			"betomQuote": []
+		},
+		"dev": []
+	},
+	{
+		"betomKebab": "Orbit-Mano",
+		"betomglyf": {
+			"labor": "Mano,Orbit"
+		},
+		"betomEnglishName": "",
+		"betomID": "",
+		"betomAlias": [],
+		"betomDescription": [],
+		"betomBetanyms": [],
+		"betomProfilePic": "",
+		"betomExample": {
+			"betomVideo": [],
+			"betomImage": [],
+			"betomQuote": []
+		},
+		"dev": []
+	},
+	{
+		"betomKebab": "Palm-Klose",
+		"betomglyf": {
+			"labor": "Klose",
+			"soma": "Palm"
+		},
+		"betomEnglishName": "",
+		"betomID": "",
+		"betomAlias": [],
+		"betomDescription": [],
+		"betomBetanyms": [],
+		"betomProfilePic": "",
+		"betomExample": {
+			"betomVideo": [],
+			"betomImage": [],
+			"betomQuote": []
+		},
+		"dev": []
+	},
+	{
+		"betomKebab": "Palm-Site",
+		"betomglyf": {
+			"soma": "Palm",
+			"via": "Site"
+		},
+		"betomEnglishName": "",
+		"betomID": "",
+		"betomAlias": [],
+		"betomDescription": [],
+		"betomBetanyms": [],
+		"betomProfilePic": "",
+		"betomExample": {
+			"betomVideo": [],
+			"betomImage": [],
+			"betomQuote": []
+		},
+		"dev": []
+	},
+	{
+		"betomKebab": "Parry-Flora",
+		"betomglyf": {
+			"labor": "Parry",
+			"ekos": "Flora"
+		},
+		"betomEnglishName": "",
+		"betomID": "",
+		"betomAlias": [],
+		"betomDescription": [],
+		"betomBetanyms": [],
+		"betomProfilePic": "",
+		"betomExample": {
+			"betomVideo": [],
+			"betomImage": [],
+			"betomQuote": []
+		},
+		"dev": []
+	},
+	{
+		"betomKebab": "PebbleSoil-Hydro-Site",
+		"betomglyf": {
+			"ekos": "PebbleSoil.Hydro",
+			"via": "Site"
+		},
+		"betomEnglishName": "",
+		"betomID": "",
+		"betomAlias": [],
+		"betomDescription": [],
+		"betomBetanyms": [],
+		"betomProfilePic": "",
+		"betomExample": {
+			"betomVideo": [],
+			"betomImage": [],
+			"betomQuote": []
+		},
+		"dev": []
+	},
+	{
+		"betomKebab": "PebbleSoil-Site",
+		"betomglyf": {
+			"ekos": "PebbleSoil",
+			"via": "Site"
+		},
+		"betomEnglishName": "",
+		"betomID": "",
+		"betomAlias": [],
+		"betomDescription": [],
+		"betomBetanyms": [],
+		"betomProfilePic": "",
+		"betomExample": {
+			"betomVideo": [],
+			"betomImage": [],
+			"betomQuote": []
+		},
+		"dev": []
+	},
+	{
+		"betomKebab": "Periderm-Hydro-Site",
+		"betomglyf": {
+			"ekos": "Periderm.Hydro",
+			"via": "Site"
+		},
+		"betomEnglishName": "",
+		"betomID": "",
+		"betomAlias": [],
+		"betomDescription": [],
+		"betomBetanyms": [],
+		"betomProfilePic": "",
+		"betomExample": {
+			"betomVideo": [],
+			"betomImage": [],
+			"betomQuote": []
+		},
+		"dev": []
+	},
+	{
+		"betomKebab": "Periderm-Site",
+		"betomglyf": {
+			"ekos": "Periderm",
+			"via": "Site"
+		},
+		"betomEnglishName": "",
+		"betomID": "",
+		"betomAlias": [],
+		"betomDescription": [],
+		"betomBetanyms": [],
+		"betomProfilePic": "",
+		"betomExample": {
+			"betomVideo": [],
+			"betomImage": [],
+			"betomQuote": []
+		},
+		"dev": []
+	},
+	{
+		"betomKebab": "PickUp-Time",
+		"betomglyf": {
+			"labor": "Workday.PickUp",
+			"motor": "Time"
+		},
+		"betomEnglishName": "",
+		"betomID": "",
+		"betomAlias": [],
+		"betomDescription": [],
+		"betomBetanyms": [],
+		"betomProfilePic": "",
+		"betomExample": {
+			"betomVideo": [],
+			"betomImage": [],
+			"betomQuote": []
+		},
+		"dev": []
+	},
+	{
+		"betomKebab": "Piece-Apogee",
+		"betomglyf": {
+			"labor": "Strategy,Piece",
+			"via": "Apogee"
+		},
+		"betomEnglishName": "",
+		"betomID": "",
+		"betomAlias": [],
+		"betomDescription": [],
+		"betomBetanyms": [],
+		"betomProfilePic": "",
+		"betomExample": {
+			"betomVideo": [],
+			"betomImage": [],
+			"betomQuote": []
+		},
+		"dev": []
+	},
+	{
+		"betomKebab": "Piece-Density",
+		"betomglyf": {
+			"labor": "Piece",
+			"via": "Density"
+		},
+		"betomEnglishName": "",
+		"betomID": "",
+		"betomAlias": [],
+		"betomDescription": [],
+		"betomBetanyms": [],
+		"betomProfilePic": "",
+		"betomExample": {
+			"betomVideo": [],
+			"betomImage": [],
+			"betomQuote": []
+		},
+		"dev": []
+	},
+	{
+		"betomKebab": "Piece-Div",
+		"betomglyf": {
+			"labor": "Piece.Tactic",
+			"via": "Div"
+		},
+		"betomEnglishName": "",
+		"betomID": "",
+		"betomAlias": [],
+		"betomDescription": [],
+		"betomBetanyms": [],
+		"betomProfilePic": "",
+		"betomExample": {
+			"betomVideo": [],
+			"betomImage": [],
+			"betomQuote": []
+		},
+		"dev": []
+	},
+	{
+		"betomKebab": "Piece-OpenEnded",
+		"betomglyf": {
+			"labor": "Piece.Tactic",
+			"via": "OpenEnded"
+		},
+		"betomEnglishName": "",
+		"betomID": "",
+		"betomAlias": [],
+		"betomDescription": [],
+		"betomBetanyms": [],
+		"betomProfilePic": "",
+		"betomExample": {
+			"betomVideo": [],
+			"betomImage": [],
+			"betomQuote": []
+		},
+		"dev": []
+	},
+	{
+		"betomKebab": "Piece-Perimeter",
+		"betomglyf": {
+			"labor": "Piece.Tactic",
+			"via": "Perimeter"
+		},
+		"betomEnglishName": "",
+		"betomID": "",
+		"betomAlias": [],
+		"betomDescription": [],
+		"betomBetanyms": [],
+		"betomProfilePic": "",
+		"betomExample": {
+			"betomVideo": [],
+			"betomImage": [],
+			"betomQuote": []
+		},
+		"dev": []
+	},
+	{
+		"betomKebab": "Piece-Plan",
+		"betomglyf": {
+			"labor": "Piece",
+			"via": "Plan"
+		},
+		"betomEnglishName": "",
+		"betomID": "",
+		"betomAlias": [],
+		"betomDescription": [],
+		"betomBetanyms": [],
+		"betomProfilePic": "",
+		"betomExample": {
+			"betomVideo": [],
+			"betomImage": [],
+			"betomQuote": []
+		},
+		"dev": []
+	},
+	{
+		"betomKebab": "Piece-Straigten",
+		"betomglyf": {
+			"labor": "Piece.Tactic",
+			"via": "ConcaveHull"
+		},
+		"betomEnglishName": "",
+		"betomID": "",
+		"betomAlias": [],
+		"betomDescription": [],
+		"betomBetanyms": [],
+		"betomProfilePic": "",
+		"betomExample": {
+			"betomVideo": [],
+			"betomImage": [],
+			"betomQuote": []
+		},
+		"dev": []
+	},
+	{
+		"betomKebab": "Plantafor-Adjust",
+		"betomglyf": {
+			"labor": "Plantafor.Modify"
+		},
+		"betomEnglishName": "",
+		"betomID": "",
+		"betomAlias": [],
+		"betomDescription": [],
+		"betomBetanyms": [],
+		"betomProfilePic": "",
+		"betomExample": {
+			"betomVideo": [],
+			"betomImage": [],
+			"betomQuote": []
+		},
+		"dev": []
+	},
+	{
+		"betomKebab": "Plantafor-BackBag-Moton",
+		"betomglyf": {
+			"labor": "Plantafor.Backbag.Aktion"
+		},
+		"betomEnglishName": "",
+		"betomID": "",
+		"betomAlias": [],
+		"betomDescription": [],
+		"betomBetanyms": [],
+		"betomProfilePic": "",
+		"betomExample": {
+			"betomVideo": [],
+			"betomImage": [],
+			"betomQuote": []
+		},
+		"dev": []
+	},
+	{
+		"betomKebab": "Plantafor-Bag-In",
+		"betomglyf": {
+			"labor": "Plantafor.Load"
+		},
+		"betomEnglishName": "",
+		"betomID": "",
+		"betomAlias": [],
+		"betomDescription": [],
+		"betomBetanyms": [],
+		"betomProfilePic": "",
+		"betomExample": {
+			"betomVideo": [],
+			"betomImage": [],
+			"betomQuote": []
+		},
+		"dev": []
+	},
+	{
+		"betomKebab": "Plantafor-Bag-Lift",
+		"betomglyf": {
+			"labor": "Plantafor.Bag.Lift"
+		},
+		"betomEnglishName": "",
+		"betomID": "",
+		"betomAlias": [],
+		"betomDescription": [],
+		"betomBetanyms": [],
+		"betomProfilePic": "",
+		"betomExample": {
+			"betomVideo": [],
+			"betomImage": [],
+			"betomQuote": []
+		},
+		"dev": []
+	},
+	{
+		"betomKebab": "Plantafor-Bag-Purga",
+		"betomglyf": {
+			"labor": "Plantafor.Bag.Purga"
+		},
+		"betomEnglishName": "",
+		"betomID": "",
+		"betomAlias": [],
+		"betomDescription": [],
+		"betomBetanyms": [],
+		"betomProfilePic": "",
+		"betomExample": {
+			"betomVideo": [],
+			"betomImage": [],
+			"betomQuote": []
+		},
+		"dev": []
+	},
+	{
+		"betomKebab": "Plantafor-Buckle-Site",
+		"betomglyf": {
+			"labor": "Plantafor.Buckle",
+			"via": "Site"
+		},
+		"betomEnglishName": "",
+		"betomID": "",
+		"betomAlias": [],
+		"betomDescription": [],
+		"betomBetanyms": [],
+		"betomProfilePic": "",
+		"betomExample": {
+			"betomVideo": [],
+			"betomImage": [],
+			"betomQuote": []
+		},
+		"dev": []
+	},
+	{
+		"betomKebab": "Plantafor-Drag",
+		"betomglyf": {
+			"labor": "Plantafor.Drag"
+		},
+		"betomEnglishName": "",
+		"betomID": "",
+		"betomAlias": [],
+		"betomDescription": [],
+		"betomBetanyms": [],
+		"betomProfilePic": "",
+		"betomExample": {
+			"betomVideo": [],
+			"betomImage": [],
+			"betomQuote": []
+		},
+		"dev": []
+	},
+	{
+		"betomKebab": "Plantafor-Lift",
+		"betomglyf": {
+			"labor": "Plantafor.Lift"
+		},
+		"betomEnglishName": "",
+		"betomID": "",
+		"betomAlias": [],
+		"betomDescription": [],
+		"betomBetanyms": [],
+		"betomProfilePic": "",
+		"betomExample": {
+			"betomVideo": [],
+			"betomImage": [],
+			"betomQuote": []
+		},
+		"dev": []
+	},
+	{
+		"betomKebab": "Plantafor-Moton",
+		"betomglyf": {
+			"labor": "Plantafor.Aktion"
+		},
+		"betomEnglishName": "",
+		"betomID": "",
+		"betomAlias": [],
+		"betomDescription": [],
+		"betomBetanyms": [],
+		"betomProfilePic": "",
+		"betomExample": {
+			"betomVideo": [],
+			"betomImage": [],
+			"betomQuote": []
+		},
+		"dev": []
+	},
+	{
+		"betomKebab": "Plantafor-Off",
+		"betomglyf": {
+			"labor": "Plantafor.Off"
+		},
+		"betomEnglishName": "",
+		"betomID": "",
+		"betomAlias": [],
+		"betomDescription": [],
+		"betomBetanyms": [],
+		"betomProfilePic": "",
+		"betomExample": {
+			"betomVideo": [],
+			"betomImage": [],
+			"betomQuote": []
+		},
+		"dev": []
+	},
+	{
+		"betomKebab": "Plantafor-On",
+		"betomglyf": {
+			"labor": "Plantafor.On"
+		},
+		"betomEnglishName": "",
+		"betomID": "",
+		"betomAlias": [],
+		"betomDescription": [],
+		"betomBetanyms": [],
+		"betomProfilePic": "",
+		"betomExample": {
+			"betomVideo": [],
+			"betomImage": [],
+			"betomQuote": []
+		},
+		"dev": []
+	},
+	{
+		"betomKebab": "Plantafor-Pop",
+		"betomglyf": {
+			"labor": "Plantafor.Pop"
+		},
+		"betomEnglishName": "",
+		"betomID": "",
+		"betomAlias": [],
+		"betomDescription": [],
+		"betomBetanyms": [],
+		"betomProfilePic": "",
+		"betomExample": {
+			"betomVideo": [],
+			"betomImage": [],
+			"betomQuote": []
+		},
+		"dev": []
+	},
+	{
+		"betomKebab": "Plantafor-Preserve",
+		"betomglyf": {
+			"labor": "Plantafor.Preserve"
+		},
+		"betomEnglishName": "",
+		"betomID": "",
+		"betomAlias": [],
+		"betomDescription": [],
+		"betomBetanyms": [],
+		"betomProfilePic": "",
+		"betomExample": {
+			"betomVideo": [],
+			"betomImage": [],
+			"betomQuote": []
+		},
+		"dev": []
+	},
+	{
+		"betomKebab": "Plantafor-Site",
+		"betomglyf": {
+			"labor": "Plantafor",
+			"via": "Site"
+		},
+		"betomEnglishName": "",
+		"betomID": "",
+		"betomAlias": [],
+		"betomDescription": [],
+		"betomBetanyms": [],
+		"betomProfilePic": "",
+		"betomExample": {
+			"betomVideo": [],
+			"betomImage": [],
+			"betomQuote": []
+		},
+		"dev": []
+	},
+	{
+		"betomKebab": "Plantafor-Strap-Site",
+		"betomglyf": {
+			"labor": "Plantafor.Strap",
+			"via": "Site"
+		},
+		"betomEnglishName": "",
+		"betomID": "",
+		"betomAlias": [],
+		"betomDescription": [],
+		"betomBetanyms": [],
+		"betomProfilePic": "",
+		"betomExample": {
+			"betomVideo": [],
+			"betomImage": [],
+			"betomQuote": []
+		},
+		"dev": []
+	},
+	{
+		"betomKebab": "Plantafor-Transport",
+		"betomglyf": {
+			"labor": "Plantafor.Transport"
+		},
+		"betomEnglishName": "",
+		"betomID": "",
+		"betomAlias": [],
+		"betomDescription": [],
+		"betomBetanyms": [],
+		"betomProfilePic": "",
+		"betomExample": {
+			"betomVideo": [],
+			"betomImage": [],
+			"betomQuote": []
+		},
+		"dev": []
+	},
+	{
+		"betomKebab": "PlantarFlexion-Leg",
+		"betomglyf": {
+			"labor": "Flex",
+			"soma": "Foot",
+			"via": "Plantar"
+		},
+		"betomEnglishName": "",
+		"betomID": "",
+		"betomAlias": [],
+		"betomDescription": [],
+		"betomBetanyms": [],
+		"betomProfilePic": "",
+		"betomExample": {
+			"betomVideo": [],
+			"betomImage": [],
+			"betomQuote": []
+		},
+		"dev": []
+	},
+	{
+		"betomKebab": "Plast-Site",
+		"betomglyf": {
+			"ekos": "Plast",
+			"via": "Site"
+		},
+		"betomEnglishName": "",
+		"betomID": "",
+		"betomAlias": [],
+		"betomDescription": [],
+		"betomBetanyms": [],
+		"betomProfilePic": "",
+		"betomExample": {
+			"betomVideo": [],
+			"betomImage": [],
+			"betomQuote": []
+		},
+		"dev": []
+	},
+	{
+		"betomKebab": "Plot-Density",
+		"betomglyf": {
+			"labor": "Plot.Neon",
+			"via": "Density"
+		},
+		"betomEnglishName": "",
+		"betomID": "",
+		"betomAlias": [],
+		"betomDescription": [],
+		"betomBetanyms": [],
+		"betomProfilePic": "",
+		"betomExample": {
+			"betomVideo": [],
+			"betomImage": [],
+			"betomQuote": []
+		},
+		"dev": []
+	},
+	{
+		"betomKebab": "Poales-Hydro-Site",
+		"betomglyf": {
+			"ekos": "Poales.Hydro",
+			"via": "Site"
+		},
+		"betomEnglishName": "",
+		"betomID": "",
+		"betomAlias": [],
+		"betomDescription": [],
+		"betomBetanyms": [],
+		"betomProfilePic": "",
+		"betomExample": {
+			"betomVideo": [],
+			"betomImage": [],
+			"betomQuote": []
+		},
+		"dev": []
+	},
+	{
+		"betomKebab": "Poales-Site",
+		"betomglyf": {
+			"ekos": "Poales",
+			"via": "Site"
+		},
+		"betomEnglishName": "",
+		"betomID": "",
+		"betomAlias": [],
+		"betomDescription": [],
+		"betomBetanyms": [],
+		"betomProfilePic": "",
+		"betomExample": {
+			"betomVideo": [],
+			"betomImage": [],
+			"betomQuote": []
+		},
+		"dev": []
+	},
+	{
+		"betomKebab": "Pocket-Moton",
+		"betomglyf": {
+			"labor": "Clothing.Pocket"
+		},
+		"betomEnglishName": "",
+		"betomID": "",
+		"betomAlias": [],
+		"betomDescription": [],
+		"betomBetanyms": [],
+		"betomProfilePic": "",
+		"betomExample": {
+			"betomVideo": [],
+			"betomImage": [],
+			"betomQuote": []
+		},
+		"dev": []
+	},
+	{
+		"betomKebab": "Poke-Mano",
+		"betomglyf": {
+			"labor": "Poke",
+			"soma": "Hand"
+		},
+		"betomEnglishName": "",
+		"betomID": "",
+		"betomAlias": [],
+		"betomDescription": [],
+		"betomBetanyms": [],
+		"betomProfilePic": "",
+		"betomExample": {
+			"betomVideo": [],
+			"betomImage": [],
+			"betomQuote": []
+		},
+		"dev": []
+	},
+	{
+		"betomKebab": "Pop-Arm",
+		"betomglyf": {
+			"labor": "Pop",
+			"soma": "Arm"
+		},
+		"betomEnglishName": "",
+		"betomID": "",
+		"betomAlias": [],
+		"betomDescription": [],
+		"betomBetanyms": [],
+		"betomProfilePic": "",
+		"betomExample": {
+			"betomVideo": [],
+			"betomImage": [],
+			"betomQuote": []
+		},
+		"dev": []
+	},
+	{
+		"betomKebab": "Pop-Flora",
+		"betomglyf": {
+			"labor": "Pop",
+			"ekos": "Flora"
+		},
+		"betomEnglishName": "",
+		"betomID": "",
+		"betomAlias": [],
+		"betomDescription": [],
+		"betomBetanyms": [],
+		"betomProfilePic": "",
+		"betomExample": {
+			"betomVideo": [],
+			"betomImage": [],
+			"betomQuote": []
+		},
+		"dev": []
+	},
+	{
+		"betomKebab": "Pop-Korpo",
+		"betomglyf": {
+			"labor": "Pop",
+			"soma": "Korpo"
+		},
+		"betomEnglishName": "",
+		"betomID": "",
+		"betomAlias": [],
+		"betomDescription": [],
+		"betomBetanyms": [],
+		"betomProfilePic": "",
+		"betomExample": {
+			"betomVideo": [],
+			"betomImage": [],
+			"betomQuote": []
+		},
+		"dev": []
+	},
+	{
+		"betomKebab": "Pop-Leg",
+		"betomglyf": {
+			"labor": "Pop",
+			"soma": "Leg"
+		},
+		"betomEnglishName": "",
+		"betomID": "",
+		"betomAlias": [],
+		"betomDescription": [],
+		"betomBetanyms": [],
+		"betomProfilePic": "",
+		"betomExample": {
+			"betomVideo": [],
+			"betomImage": [],
+			"betomQuote": []
+		},
+		"dev": []
+	},
+	{
+		"betomKebab": "Pop-Mano",
+		"betomglyf": {
+			"labor": "Pop",
+			"soma": "Hand"
+		},
+		"betomEnglishName": "",
+		"betomID": "",
+		"betomAlias": [],
+		"betomDescription": [],
+		"betomBetanyms": [],
+		"betomProfilePic": "",
+		"betomExample": {
+			"betomVideo": [],
+			"betomImage": [],
+			"betomQuote": []
+		},
+		"dev": []
+	},
+	{
+		"betomKebab": "Posture-Korpo",
+		"betomglyf": {
+			"soma": "Korpo",
+			"via": "Posture"
+		},
+		"betomEnglishName": "",
+		"betomID": "",
+		"betomAlias": [],
+		"betomDescription": [],
+		"betomBetanyms": [],
+		"betomProfilePic": "",
+		"betomExample": {
+			"betomVideo": [],
+			"betomImage": [],
+			"betomQuote": []
+		},
+		"dev": []
+	},
+	{
+		"betomKebab": "Prep-Mound",
+		"betomglyf": {
+			"labor": "Error,Prep.Mound"
+		},
+		"betomEnglishName": "",
+		"betomID": "",
+		"betomAlias": [],
+		"betomDescription": [],
+		"betomBetanyms": [],
+		"betomProfilePic": "",
+		"betomExample": {
+			"betomVideo": [],
+			"betomImage": [],
+			"betomQuote": []
+		},
+		"dev": []
+	},
+	{
+		"betomKebab": "Prep-Skreef",
+		"betomglyf": {
+			"labor": "Prep.Megaskreef"
+		},
+		"betomEnglishName": "",
+		"betomID": "",
+		"betomAlias": [],
+		"betomDescription": [],
+		"betomBetanyms": [],
+		"betomProfilePic": "",
+		"betomExample": {
+			"betomVideo": [],
+			"betomImage": [],
+			"betomQuote": []
+		},
+		"dev": []
+	},
+	{
+		"betomKebab": "Prep-Trench",
+		"betomglyf": {
+			"labor": "Prep.Trench"
+		},
+		"betomEnglishName": "",
+		"betomID": "",
+		"betomAlias": [],
+		"betomDescription": [],
+		"betomBetanyms": [],
+		"betomProfilePic": "",
+		"betomExample": {
+			"betomVideo": [],
+			"betomImage": [],
+			"betomQuote": []
+		},
+		"dev": []
+	},
+	{
+		"betomKebab": "Protraction-Head",
+		"betomglyf": {
+			"labor": "Protract",
+			"soma": "Head"
+		},
+		"betomEnglishName": "",
+		"betomID": "",
+		"betomAlias": [],
+		"betomDescription": [],
+		"betomBetanyms": [],
+		"betomProfilePic": "",
+		"betomExample": {
+			"betomVideo": [],
+			"betomImage": [],
+			"betomQuote": []
+		},
+		"dev": []
+	},
+	{
+		"betomKebab": "Proximity-Minimum",
+		"betomglyf": {
+			"via": "Proximity.Minimum"
+		},
+		"betomEnglishName": "",
+		"betomID": "",
+		"betomAlias": [],
+		"betomDescription": [],
+		"betomBetanyms": [],
+		"betomProfilePic": "",
+		"betomExample": {
+			"betomVideo": [],
+			"betomImage": [],
+			"betomQuote": []
+		},
+		"dev": []
+	},
+	{
+		"betomKebab": "Proximity-Optimal",
+		"betomglyf": {
+			"via": "Proximity.Optimal"
+		},
+		"betomEnglishName": "",
+		"betomID": "",
+		"betomAlias": [],
+		"betomDescription": [],
+		"betomBetanyms": [],
+		"betomProfilePic": "",
+		"betomExample": {
+			"betomVideo": [],
+			"betomImage": [],
+			"betomQuote": []
+		},
+		"dev": []
+	},
+	{
+		"betomKebab": "Punch-Klose",
+		"betomglyf": {
+			"labor": "Klose.Pugno"
+		},
+		"betomEnglishName": "",
+		"betomID": "",
+		"betomAlias": [],
+		"betomDescription": [],
+		"betomBetanyms": [],
+		"betomProfilePic": "",
+		"betomExample": {
+			"betomVideo": [],
+			"betomImage": [],
+			"betomQuote": []
+		},
+		"dev": []
+	},
+	{
+		"betomKebab": "Radior-Add",
+		"betomglyf": {
+			"labor": "Radior.On"
+		},
+		"betomEnglishName": "",
+		"betomID": "",
+		"betomAlias": [],
+		"betomDescription": [],
+		"betomBetanyms": [],
+		"betomProfilePic": "",
+		"betomExample": {
+			"betomVideo": [],
+			"betomImage": [],
+			"betomQuote": []
+		},
+		"dev": []
+	},
+	{
+		"betomKebab": "Radior-Moton",
+		"betomglyf": {
+			"labor": "Radior.Aktion"
+		},
+		"betomEnglishName": "",
+		"betomID": "",
+		"betomAlias": [],
+		"betomDescription": [],
+		"betomBetanyms": [],
+		"betomProfilePic": "",
+		"betomExample": {
+			"betomVideo": [],
+			"betomImage": [],
+			"betomQuote": []
+		},
+		"dev": []
+	},
+	{
+		"betomKebab": "Radior-Off",
+		"betomglyf": {
+			"labor": "Radior.Off"
+		},
+		"betomEnglishName": "",
+		"betomID": "",
+		"betomAlias": [],
+		"betomDescription": [],
+		"betomBetanyms": [],
+		"betomProfilePic": "",
+		"betomExample": {
+			"betomVideo": [],
+			"betomImage": [],
+			"betomQuote": []
+		},
+		"dev": []
+	},
+	{
+		"betomKebab": "Radior-Preserve",
+		"betomglyf": {
+			"labor": "Radior.Preserve"
+		},
+		"betomEnglishName": "",
+		"betomID": "",
+		"betomAlias": [],
+		"betomDescription": [],
+		"betomBetanyms": [],
+		"betomProfilePic": "",
+		"betomExample": {
+			"betomVideo": [],
+			"betomImage": [],
+			"betomQuote": []
+		},
+		"dev": []
+	},
+	{
+		"betomKebab": "Radior-Site",
+		"betomglyf": {
+			"labor": "Radior",
+			"via": "Site"
+		},
+		"betomEnglishName": "",
+		"betomID": "",
+		"betomAlias": [],
+		"betomDescription": [],
+		"betomBetanyms": [],
+		"betomProfilePic": "",
+		"betomExample": {
+			"betomVideo": [],
+			"betomImage": [],
+			"betomQuote": []
+		},
+		"dev": []
+	},
+	{
+		"betomKebab": "RainShell-Aktion",
+		"betomglyf": {
+			"labor": "RainShell.Aktion"
+		},
+		"betomEnglishName": "",
+		"betomID": "",
+		"betomAlias": [],
+		"betomDescription": [],
+		"betomBetanyms": [],
+		"betomProfilePic": "",
+		"betomExample": {
+			"betomVideo": [],
+			"betomImage": [],
+			"betomQuote": []
+		},
+		"dev": []
+	},
+	{
+		"betomKebab": "Reach-Korpo",
+		"betomglyf": {
+			"labor": "Flex",
+			"soma": "Korpo"
+		},
+		"betomEnglishName": "",
+		"betomID": "",
+		"betomAlias": [],
+		"betomDescription": [],
+		"betomBetanyms": [],
+		"betomProfilePic": "",
+		"betomExample": {
+			"betomVideo": [],
+			"betomImage": [],
+			"betomQuote": []
+		},
+		"dev": []
+	},
+	{
+		"betomKebab": "Reach-Leg",
+		"betomglyf": {
+			"labor": "Progress",
+			"soma": "Leg"
+		},
+		"betomEnglishName": "",
+		"betomID": "",
+		"betomAlias": [],
+		"betomDescription": [],
+		"betomBetanyms": [],
+		"betomProfilePic": "",
+		"betomExample": {
+			"betomVideo": [],
+			"betomImage": [],
+			"betomQuote": []
+		},
+		"dev": []
+	},
+	{
+		"betomKebab": "RedRotSoil-Hydro-Site",
+		"betomglyf": {
+			"ekos": "RedRotSoil.Hydro",
+			"via": "Site"
+		},
+		"betomEnglishName": "",
+		"betomID": "",
+		"betomAlias": [],
+		"betomDescription": [],
+		"betomBetanyms": [],
+		"betomProfilePic": "",
+		"betomExample": {
+			"betomVideo": [],
+			"betomImage": [],
+			"betomQuote": []
+		},
+		"dev": []
+	},
+	{
+		"betomKebab": "RedRotSoil-Site",
+		"betomglyf": {
+			"ekos": "RedRotSoil",
+			"via": "Site"
+		},
+		"betomEnglishName": "",
+		"betomID": "",
+		"betomAlias": [],
+		"betomDescription": [],
+		"betomBetanyms": [],
+		"betomProfilePic": "",
+		"betomExample": {
+			"betomVideo": [],
+			"betomImage": [],
+			"betomQuote": []
+		},
+		"dev": []
+	},
+	{
+		"betomKebab": "Remove-Markum",
+		"betomglyf": {
+			"labor": "Markum.Off"
+		},
+		"betomEnglishName": "",
+		"betomID": "",
+		"betomAlias": [],
+		"betomDescription": [],
+		"betomBetanyms": [],
+		"betomProfilePic": "",
+		"betomExample": {
+			"betomVideo": [],
+			"betomImage": [],
+			"betomQuote": []
+		},
+		"dev": []
+	},
+	{
+		"betomKebab": "Repair-Moton",
+		"betomglyf": {
+			"labor": "Tool.Repair"
+		},
+		"betomEnglishName": "",
+		"betomID": "",
+		"betomAlias": [],
+		"betomDescription": [],
+		"betomBetanyms": [],
+		"betomProfilePic": "",
+		"betomExample": {
+			"betomVideo": [],
+			"betomImage": [],
+			"betomQuote": []
+		},
+		"dev": []
+	},
+	{
+		"betomKebab": "Repair-Sewing-Aktion",
+		"betomglyf": {
+			"labor": "Repair.Sew"
+		},
+		"betomEnglishName": "",
+		"betomID": "",
+		"betomAlias": [],
+		"betomDescription": [],
+		"betomBetanyms": [],
+		"betomProfilePic": "",
+		"betomExample": {
+			"betomVideo": [],
+			"betomImage": [],
+			"betomQuote": []
+		},
+		"dev": []
+	},
+	{
+		"betomKebab": "Repair-Thread-Knot",
+		"betomglyf": {
+			"labor": "Repair.Sew.Knot"
+		},
+		"betomEnglishName": "",
+		"betomID": "",
+		"betomAlias": [],
+		"betomDescription": [],
+		"betomBetanyms": [],
+		"betomProfilePic": "",
+		"betomExample": {
+			"betomVideo": [],
+			"betomImage": [],
+			"betomQuote": []
+		},
+		"dev": []
+	},
+	{
+		"betomKebab": "Retraction-Head",
+		"betomglyf": {
+			"labor": "Retract",
+			"soma": "Head"
+		},
+		"betomEnglishName": "",
+		"betomID": "",
+		"betomAlias": [],
+		"betomDescription": [],
+		"betomBetanyms": [],
+		"betomProfilePic": "",
+		"betomExample": {
+			"betomVideo": [],
+			"betomImage": [],
+			"betomQuote": []
+		},
+		"dev": []
+	},
+	{
+		"betomKebab": "Rim-Site",
+		"betomglyf": {
+			"labor": "Bag.Rim",
+			"via": "Site"
+		},
+		"betomEnglishName": "",
+		"betomID": "",
+		"betomAlias": [],
+		"betomDescription": [],
+		"betomBetanyms": [],
+		"betomProfilePic": "",
+		"betomExample": {
+			"betomVideo": [],
+			"betomImage": [],
+			"betomQuote": []
+		},
+		"dev": []
+	},
+	{
+		"betomKebab": "Road",
+		"betomglyf": {
+			"labor": "Cutblock.Road"
+		},
+		"betomEnglishName": "",
+		"betomID": "",
+		"betomAlias": [],
+		"betomDescription": [],
+		"betomBetanyms": [],
+		"betomProfilePic": "",
+		"betomExample": {
+			"betomVideo": [],
+			"betomImage": [],
+			"betomQuote": []
+		},
+		"dev": []
+	},
+	{
+		"betomKebab": "Root-Site",
+		"betomglyf": {
+			"ekos": "Root",
+			"via": "Site"
+		},
+		"betomEnglishName": "",
+		"betomID": "",
+		"betomAlias": [],
+		"betomDescription": [],
+		"betomBetanyms": [],
+		"betomProfilePic": "",
+		"betomExample": {
+			"betomVideo": [],
+			"betomImage": [],
+			"betomQuote": []
+		},
+		"dev": []
+	},
+	{
+		"betomKebab": "Rope-Knot",
+		"betomglyf": {
+			"labor": "Rope.Knot"
+		},
+		"betomEnglishName": "",
+		"betomID": "",
+		"betomAlias": [],
+		"betomDescription": [],
+		"betomBetanyms": [],
+		"betomProfilePic": "",
+		"betomExample": {
+			"betomVideo": [],
+			"betomImage": [],
+			"betomQuote": []
+		},
+		"dev": []
+	},
+	{
+		"betomKebab": "Rope-Knot copy",
+		"betomglyf": {
+			"labor": "Rope.Aktion"
+		},
+		"betomEnglishName": "",
+		"betomID": "",
+		"betomAlias": [],
+		"betomDescription": [],
+		"betomBetanyms": [],
+		"betomProfilePic": "",
+		"betomExample": {
+			"betomVideo": [],
+			"betomImage": [],
+			"betomQuote": []
+		},
+		"dev": []
+	},
+	{
+		"betomKebab": "Rotate-Korpo",
+		"betomglyf": {
+			"labor": "Rotate",
+			"soma": "Korpo"
+		},
+		"betomEnglishName": "",
+		"betomID": "",
+		"betomAlias": [],
+		"betomDescription": [],
+		"betomBetanyms": [],
+		"betomProfilePic": "",
+		"betomExample": {
+			"betomVideo": [],
+			"betomImage": [],
+			"betomQuote": []
+		},
+		"dev": []
+	},
+	{
+		"betomKebab": "RunStart",
+		"betomglyf": {
+			"labor": "Run",
+			"motor": "Initiation"
+		},
+		"betomEnglishName": "",
+		"betomID": "",
+		"betomAlias": [],
+		"betomDescription": [],
+		"betomBetanyms": [],
+		"betomProfilePic": "",
+		"betomExample": {
+			"betomVideo": [],
+			"betomImage": [],
+			"betomQuote": []
+		},
+		"dev": []
+	},
+	{
+		"betomKebab": "SandSoil-Hydro-Site",
+		"betomglyf": {
+			"ekos": "SandSoil.Hydro",
+			"via": "Site"
+		},
+		"betomEnglishName": "",
+		"betomID": "",
+		"betomAlias": [],
+		"betomDescription": [],
+		"betomBetanyms": [],
+		"betomProfilePic": "",
+		"betomExample": {
+			"betomVideo": [],
+			"betomImage": [],
+			"betomQuote": []
+		},
+		"dev": []
+	},
+	{
+		"betomKebab": "SandSoil-Site",
+		"betomglyf": {
+			"ekos": "SandSoil",
+			"via": "Site"
+		},
+		"betomEnglishName": "",
+		"betomID": "",
+		"betomAlias": [],
+		"betomDescription": [],
+		"betomBetanyms": [],
+		"betomProfilePic": "",
+		"betomExample": {
+			"betomVideo": [],
+			"betomImage": [],
+			"betomQuote": []
+		},
+		"dev": []
+	},
+	{
+		"betomKebab": "Season-Time",
+		"betomglyf": {
+			"labor": "Season",
+			"motor": "Time"
+		},
+		"betomEnglishName": "",
+		"betomID": "",
+		"betomAlias": [],
+		"betomDescription": [],
+		"betomBetanyms": [],
+		"betomProfilePic": "",
+		"betomExample": {
+			"betomVideo": [],
+			"betomImage": [],
+			"betomQuote": []
+		},
+		"dev": []
+	},
+	{
+		"betomKebab": "Session-Time",
+		"betomglyf": {
+			"labor": "Workday",
+			"motor": "Time"
+		},
+		"betomEnglishName": "",
+		"betomID": "",
+		"betomAlias": [],
+		"betomDescription": [],
+		"betomBetanyms": [],
+		"betomProfilePic": "",
+		"betomExample": {
+			"betomVideo": [],
+			"betomImage": [],
+			"betomQuote": []
+		},
+		"dev": []
+	},
+	{
+		"betomKebab": "Shaft-Site",
+		"betomglyf": {
+			"labor": "Spade.Shaft",
+			"via": "Site"
+		},
+		"betomEnglishName": "",
+		"betomID": "",
+		"betomAlias": [],
+		"betomDescription": [],
+		"betomBetanyms": [],
+		"betomProfilePic": "",
+		"betomExample": {
+			"betomVideo": [],
+			"betomImage": [],
+			"betomQuote": []
+		},
+		"dev": []
+	},
+	{
+		"betomKebab": "Shift-Time",
+		"betomglyf": {},
+		"betomEnglishName": "",
+		"betomID": "",
+		"betomAlias": [],
+		"betomDescription": [],
+		"betomBetanyms": [],
+		"betomProfilePic": "",
+		"betomExample": {
+			"betomVideo": [],
+			"betomImage": [],
+			"betomQuote": []
+		},
+		"dev": []
+	},
+	{
+		"betomKebab": "SiltSoil-Hydro-Site",
+		"betomglyf": {
+			"ekos": "SiltSoil.Hydro",
+			"via": "Site"
+		},
+		"betomEnglishName": "",
+		"betomID": "",
+		"betomAlias": [],
+		"betomDescription": [],
+		"betomBetanyms": [],
+		"betomProfilePic": "",
+		"betomExample": {
+			"betomVideo": [],
+			"betomImage": [],
+			"betomQuote": []
+		},
+		"dev": []
+	},
+	{
+		"betomKebab": "SiltSoil-Site",
+		"betomglyf": {
+			"ekos": "SiltSoil",
+			"via": "Site"
+		},
+		"betomEnglishName": "",
+		"betomID": "",
+		"betomAlias": [],
+		"betomDescription": [],
+		"betomBetanyms": [],
+		"betomProfilePic": "",
+		"betomExample": {
+			"betomVideo": [],
+			"betomImage": [],
+			"betomQuote": []
+		},
+		"dev": []
+	},
+	{
+		"betomKebab": "Silvi-Site",
+		"betomglyf": {
+			"labor": "SilviBag",
+			"via": "Site"
+		},
+		"betomEnglishName": "",
+		"betomID": "",
+		"betomAlias": [],
+		"betomDescription": [],
+		"betomBetanyms": [],
+		"betomProfilePic": "",
+		"betomExample": {
+			"betomVideo": [],
+			"betomImage": [],
+			"betomQuote": []
+		},
+		"dev": []
+	},
+	{
+		"betomKebab": "Site-Density",
+		"betomglyf": {},
+		"betomEnglishName": "",
+		"betomID": "",
+		"betomAlias": [],
+		"betomDescription": [],
+		"betomBetanyms": [],
+		"betomProfilePic": "",
+		"betomExample": {
+			"betomVideo": [],
+			"betomImage": [],
+			"betomQuote": []
+		},
+		"dev": []
+	},
+	{
+		"betomKebab": "SiteMarka",
+		"betomglyf": {
+			"labor": "Markate",
+			"via": "Site"
+		},
+		"betomEnglishName": "",
+		"betomID": "",
+		"betomAlias": [],
+		"betomDescription": [],
+		"betomBetanyms": [],
+		"betomProfilePic": "",
+		"betomExample": {
+			"betomVideo": [],
+			"betomImage": [],
+			"betomQuote": []
+		},
+		"dev": []
+	},
+	{
+		"betomKebab": "Skreef-Leg",
+		"betomglyf": {
+			"labor": "Skim",
+			"soma": "Leg"
+		},
+		"betomEnglishName": "",
+		"betomID": "",
+		"betomAlias": [],
+		"betomDescription": [],
+		"betomBetanyms": [],
+		"betomProfilePic": "",
+		"betomExample": {
+			"betomVideo": [],
+			"betomImage": [],
+			"betomQuote": []
+		},
+		"dev": []
+	},
+	{
+		"betomKebab": "Skreef-Mano",
+		"betomglyf": {
+			"labor": "Skim",
+			"soma": "Hand"
+		},
+		"betomEnglishName": "",
+		"betomID": "",
+		"betomAlias": [],
+		"betomDescription": [],
+		"betomBetanyms": [],
+		"betomProfilePic": "",
+		"betomExample": {
+			"betomVideo": [],
+			"betomImage": [],
+			"betomQuote": []
+		},
+		"dev": []
+	},
+	{
+		"betomKebab": "Slap-Klose",
+		"betomglyf": {
+			"labor": "Klose.Slap"
+		},
+		"betomEnglishName": "",
+		"betomID": "",
+		"betomAlias": [],
+		"betomDescription": [],
+		"betomBetanyms": [],
+		"betomProfilePic": "",
+		"betomExample": {
+			"betomVideo": [],
+			"betomImage": [],
+			"betomQuote": []
+		},
+		"dev": []
+	},
+	{
+		"betomKebab": "Slash-Audio",
+		"betomglyf": {
+			"ekos": "Slash",
+			"anima": "Audio"
+		},
+		"betomEnglishName": "",
+		"betomID": "",
+		"betomAlias": [],
+		"betomDescription": [],
+		"betomBetanyms": [],
+		"betomProfilePic": "",
+		"betomExample": {
+			"betomVideo": [],
+			"betomImage": [],
+			"betomQuote": []
+		},
+		"dev": []
+	},
+	{
+		"betomKebab": "Sleeve-Site",
+		"betomglyf": {
+			"labor": "Clothing.Sleeve",
+			"via": "Site"
+		},
+		"betomEnglishName": "",
+		"betomID": "",
+		"betomAlias": [],
+		"betomDescription": [],
+		"betomBetanyms": [],
+		"betomProfilePic": "",
+		"betomExample": {
+			"betomVideo": [],
+			"betomImage": [],
+			"betomQuote": []
+		},
+		"dev": []
+	},
+	{
+		"betomKebab": "Slide-Mano",
+		"betomglyf": {
+			"labor": "Slide",
+			"soma": "Hand"
+		},
+		"betomEnglishName": "",
+		"betomID": "",
+		"betomAlias": [],
+		"betomDescription": [],
+		"betomBetanyms": [],
+		"betomProfilePic": "",
+		"betomExample": {
+			"betomVideo": [],
+			"betomImage": [],
+			"betomQuote": []
+		},
+		"dev": []
+	},
+	{
+		"betomKebab": "Slot-Flora",
+		"betomglyf": {
+			"labor": "Slot",
+			"ekos": "Flora"
+		},
+		"betomEnglishName": "",
+		"betomID": "",
+		"betomAlias": [],
+		"betomDescription": [],
+		"betomBetanyms": [],
+		"betomProfilePic": "",
+		"betomExample": {
+			"betomVideo": [],
+			"betomImage": [],
+			"betomQuote": []
+		},
+		"dev": []
+	},
+	{
+		"betomKebab": "Slot-Korpo",
+		"betomglyf": {
+			"labor": "Slot",
+			"soma": "Korpo"
+		},
+		"betomEnglishName": "",
+		"betomID": "",
+		"betomAlias": [],
+		"betomDescription": [],
+		"betomBetanyms": [],
+		"betomProfilePic": "",
+		"betomExample": {
+			"betomVideo": [],
+			"betomImage": [],
+			"betomQuote": []
+		},
+		"dev": []
+	},
+	{
+		"betomKebab": "Snap-Flora",
+		"betomglyf": {
+			"labor": "Snap",
+			"ekos": "Flora"
+		},
+		"betomEnglishName": "",
+		"betomID": "",
+		"betomAlias": [],
+		"betomDescription": [],
+		"betomBetanyms": [],
+		"betomProfilePic": "",
+		"betomExample": {
+			"betomVideo": [],
+			"betomImage": [],
+			"betomQuote": []
+		},
+		"dev": []
+	},
+	{
+		"betomKebab": "Snap-Flora-Branch",
+		"betomglyf": {
+			"labor": "Snap",
+			"ekos": "Branch"
+		},
+		"betomEnglishName": "",
+		"betomID": "",
+		"betomAlias": [],
+		"betomDescription": [],
+		"betomBetanyms": [],
+		"betomProfilePic": "",
+		"betomExample": {
+			"betomVideo": [],
+			"betomImage": [],
+			"betomQuote": []
+		},
+		"dev": []
+	},
+	{
+		"betomKebab": "Soil-Audio",
+		"betomglyf": {
+			"ekos": "Soil",
+			"anima": "Audio"
+		},
+		"betomEnglishName": "",
+		"betomID": "",
+		"betomAlias": [],
+		"betomDescription": [],
+		"betomBetanyms": [],
+		"betomProfilePic": "",
+		"betomExample": {
+			"betomVideo": [],
+			"betomImage": [],
+			"betomQuote": []
+		},
+		"dev": []
+	},
+	{
+		"betomKebab": "Soil-Cream",
+		"betomglyf": {
+			"ekos": "Soil",
+			"via": "Creamy"
+		},
+		"betomEnglishName": "",
+		"betomID": "",
+		"betomAlias": [],
+		"betomDescription": [],
+		"betomBetanyms": [],
+		"betomProfilePic": "",
+		"betomExample": {
+			"betomVideo": [],
+			"betomImage": [],
+			"betomQuote": []
+		},
+		"dev": []
+	},
+	{
+		"betomKebab": "Spade-Amble",
+		"betomglyf": {
+			"labor": "Amble,Spade"
+		},
+		"betomEnglishName": "",
+		"betomID": "",
+		"betomAlias": [],
+		"betomDescription": [],
+		"betomBetanyms": [],
+		"betomProfilePic": "",
+		"betomExample": {
+			"betomVideo": [],
+			"betomImage": [],
+			"betomQuote": []
+		},
+		"dev": []
+	},
+	{
+		"betomKebab": "Spade-Ankor",
+		"betomglyf": {
+			"labor": "Spade.Ankor"
+		},
+		"betomEnglishName": "",
+		"betomID": "",
+		"betomAlias": [],
+		"betomDescription": [],
+		"betomBetanyms": [],
+		"betomProfilePic": "",
+		"betomExample": {
+			"betomVideo": [],
+			"betomImage": [],
+			"betomQuote": []
+		},
+		"dev": []
+	},
+	{
+		"betomKebab": "Spade-Audio",
+		"betomglyf": {
+			"labor": "Spade",
+			"anima": "Audio"
+		},
+		"betomEnglishName": "",
+		"betomID": "",
+		"betomAlias": [],
+		"betomDescription": [],
+		"betomBetanyms": [],
+		"betomProfilePic": "",
+		"betomExample": {
+			"betomVideo": [],
+			"betomImage": [],
+			"betomQuote": []
+		},
+		"dev": []
+	},
+	{
+		"betomKebab": "Spade-Ballista",
+		"betomglyf": {
+			"labor": "Spade.Ballista"
+		},
+		"betomEnglishName": "",
+		"betomID": "",
+		"betomAlias": [],
+		"betomDescription": [],
+		"betomBetanyms": [],
+		"betomProfilePic": "",
+		"betomExample": {
+			"betomVideo": [],
+			"betomImage": [],
+			"betomQuote": []
+		},
+		"dev": []
+	},
+	{
+		"betomKebab": "Spade-Drag",
+		"betomglyf": {
+			"labor": "Spade.Drag"
+		},
+		"betomEnglishName": "",
+		"betomID": "",
+		"betomAlias": [],
+		"betomDescription": [],
+		"betomBetanyms": [],
+		"betomProfilePic": "",
+		"betomExample": {
+			"betomVideo": [],
+			"betomImage": [],
+			"betomQuote": []
+		},
+		"dev": []
+	},
+	{
+		"betomKebab": "Spade-Hook",
+		"betomglyf": {
+			"labor": "Spade.Hook"
+		},
+		"betomEnglishName": "",
+		"betomID": "",
+		"betomAlias": [],
+		"betomDescription": [],
+		"betomBetanyms": [],
+		"betomProfilePic": "",
+		"betomExample": {
+			"betomVideo": [],
+			"betomImage": [],
+			"betomQuote": []
+		},
+		"dev": []
+	},
+	{
+		"betomKebab": "Spade-Klose",
+		"betomglyf": {
+			"labor": "Klose.Spade"
+		},
+		"betomEnglishName": "",
+		"betomID": "",
+		"betomAlias": [],
+		"betomDescription": [],
+		"betomBetanyms": [],
+		"betomProfilePic": "",
+		"betomExample": {
+			"betomVideo": [],
+			"betomImage": [],
+			"betomQuote": []
+		},
+		"dev": []
+	},
+	{
+		"betomKebab": "Spade-Machete",
+		"betomglyf": {
+			"labor": "Machete.Spade"
+		},
+		"betomEnglishName": "",
+		"betomID": "",
+		"betomAlias": [],
+		"betomDescription": [],
+		"betomBetanyms": [],
+		"betomProfilePic": "",
+		"betomExample": {
+			"betomVideo": [],
+			"betomImage": [],
+			"betomQuote": []
+		},
+		"dev": []
+	},
+	{
+		"betomKebab": "Spade-Mano",
+		"betomglyf": {
+			"labor": "Spade.Mano"
+		},
+		"betomEnglishName": "",
+		"betomID": "",
+		"betomAlias": [],
+		"betomDescription": [],
+		"betomBetanyms": [],
+		"betomProfilePic": "",
+		"betomExample": {
+			"betomVideo": [],
+			"betomImage": [],
+			"betomQuote": []
+		},
+		"dev": []
+	},
+	{
+		"betomKebab": "Spade-ManoAllo",
+		"betomglyf": {
+			"labor": "Spade.Allo"
+		},
+		"betomEnglishName": "",
+		"betomID": "",
+		"betomAlias": [],
+		"betomDescription": [],
+		"betomBetanyms": [],
+		"betomProfilePic": "",
+		"betomExample": {
+			"betomVideo": [],
+			"betomImage": [],
+			"betomQuote": []
+		},
+		"dev": []
+	},
+	{
+		"betomKebab": "Spade-Moton",
+		"betomglyf": {
+			"labor": "Spade.Aktion"
+		},
+		"betomEnglishName": "",
+		"betomID": "",
+		"betomAlias": [],
+		"betomDescription": [],
+		"betomBetanyms": [],
+		"betomProfilePic": "",
+		"betomExample": {
+			"betomVideo": [],
+			"betomImage": [],
+			"betomQuote": []
+		},
+		"dev": []
+	},
+	{
+		"betomKebab": "Spade-MuscleUp",
+		"betomglyf": {
+			"labor": "Spade.MuscleUp"
+		},
+		"betomEnglishName": "",
+		"betomID": "",
+		"betomAlias": [],
+		"betomDescription": [],
+		"betomBetanyms": [],
+		"betomProfilePic": "",
+		"betomExample": {
+			"betomVideo": [],
+			"betomImage": [],
+			"betomQuote": []
+		},
+		"dev": []
+	},
+	{
+		"betomKebab": "Spade-Neonektomy",
+		"betomglyf": {
+			"labor": "Neonektomy,Spade"
+		},
+		"betomEnglishName": "",
+		"betomID": "",
+		"betomAlias": [],
+		"betomDescription": [],
+		"betomBetanyms": [],
+		"betomProfilePic": "",
+		"betomExample": {
+			"betomVideo": [],
+			"betomImage": [],
+			"betomQuote": []
+		},
+		"dev": []
+	},
+	{
+		"betomKebab": "Spade-Onda",
+		"betomglyf": {
+			"labor": "Spade.Onda"
+		},
+		"betomEnglishName": "",
+		"betomID": "",
+		"betomAlias": [],
+		"betomDescription": [],
+		"betomBetanyms": [],
+		"betomProfilePic": "",
+		"betomExample": {
+			"betomVideo": [],
+			"betomImage": [],
+			"betomQuote": []
+		},
+		"dev": []
+	},
+	{
+		"betomKebab": "Spade-Open",
+		"betomglyf": {
+			"labor": "Open.Spade"
+		},
+		"betomEnglishName": "",
+		"betomID": "",
+		"betomAlias": [],
+		"betomDescription": [],
+		"betomBetanyms": [],
+		"betomProfilePic": "",
+		"betomExample": {
+			"betomVideo": [],
+			"betomImage": [],
+			"betomQuote": []
+		},
+		"dev": []
+	},
+	{
+		"betomKebab": "Spade-Pogo",
+		"betomglyf": {
+			"labor": "Spade.Pogo"
+		},
+		"betomEnglishName": "",
+		"betomID": "",
+		"betomAlias": [],
+		"betomDescription": [],
+		"betomBetanyms": [],
+		"betomProfilePic": "",
+		"betomExample": {
+			"betomVideo": [],
+			"betomImage": [],
+			"betomQuote": []
+		},
+		"dev": []
+	},
+	{
+		"betomKebab": "Spade-Poke",
+		"betomglyf": {
+			"labor": "Poke,Spade"
+		},
+		"betomEnglishName": "",
+		"betomID": "",
+		"betomAlias": [],
+		"betomDescription": [],
+		"betomBetanyms": [],
+		"betomProfilePic": "",
+		"betomExample": {
+			"betomVideo": [],
+			"betomImage": [],
+			"betomQuote": []
+		},
+		"dev": []
+	},
+	{
+		"betomKebab": "Spade-Pop",
+		"betomglyf": {
+			"labor": "Spade.Pop"
+		},
+		"betomEnglishName": "",
+		"betomID": "",
+		"betomAlias": [],
+		"betomDescription": [],
+		"betomBetanyms": [],
+		"betomProfilePic": "",
+		"betomExample": {
+			"betomVideo": [],
+			"betomImage": [],
+			"betomQuote": []
+		},
+		"dev": []
+	},
+	{
+		"betomKebab": "Spade-Post",
+		"betomglyf": {
+			"labor": "Spade.Post"
+		},
+		"betomEnglishName": "",
+		"betomID": "",
+		"betomAlias": [],
+		"betomDescription": [],
+		"betomBetanyms": [],
+		"betomProfilePic": "",
+		"betomExample": {
+			"betomVideo": [],
+			"betomImage": [],
+			"betomQuote": []
+		},
+		"dev": []
+	},
+	{
+		"betomKebab": "Spade-Preserve",
+		"betomglyf": {
+			"labor": "Spade.Preserve"
+		},
+		"betomEnglishName": "",
+		"betomID": "",
+		"betomAlias": [],
+		"betomDescription": [],
+		"betomBetanyms": [],
+		"betomProfilePic": "",
+		"betomExample": {
+			"betomVideo": [],
+			"betomImage": [],
+			"betomQuote": []
+		},
+		"dev": []
+	},
+	{
+		"betomKebab": "Spade-Purga",
+		"betomglyf": {
+			"labor": "Spade.Purga"
+		},
+		"betomEnglishName": "",
+		"betomID": "",
+		"betomAlias": [],
+		"betomDescription": [],
+		"betomBetanyms": [],
+		"betomProfilePic": "",
+		"betomExample": {
+			"betomVideo": [],
+			"betomImage": [],
+			"betomQuote": []
+		},
+		"dev": []
+	},
+	{
+		"betomKebab": "Spade-Rotate",
+		"betomglyf": {
+			"labor": "Spade.Rotate"
+		},
+		"betomEnglishName": "",
+		"betomID": "",
+		"betomAlias": [],
+		"betomDescription": [],
+		"betomBetanyms": [],
+		"betomProfilePic": "",
+		"betomExample": {
+			"betomVideo": [],
+			"betomImage": [],
+			"betomQuote": []
+		},
+		"dev": []
+	},
+	{
+		"betomKebab": "Spade-Site",
+		"betomglyf": {
+			"labor": "Spade",
+			"via": "Site"
+		},
+		"betomEnglishName": "",
+		"betomID": "",
+		"betomAlias": [],
+		"betomDescription": [],
+		"betomBetanyms": [],
+		"betomProfilePic": "",
+		"betomExample": {
+			"betomVideo": [],
+			"betomImage": [],
+			"betomQuote": []
+		},
+		"dev": []
+	},
+	{
+		"betomKebab": "Spade-Skreef",
+		"betomglyf": {
+			"labor": "Skim,Spade"
+		},
+		"betomEnglishName": "",
+		"betomID": "",
+		"betomAlias": [],
+		"betomDescription": [],
+		"betomBetanyms": [],
+		"betomProfilePic": "",
+		"betomExample": {
+			"betomVideo": [],
+			"betomImage": [],
+			"betomQuote": []
+		},
+		"dev": []
+	},
+	{
+		"betomKebab": "Spade-Slap",
+		"betomglyf": {
+			"labor": "Slap,Spade"
+		},
+		"betomEnglishName": "",
+		"betomID": "",
+		"betomAlias": [],
+		"betomDescription": [],
+		"betomBetanyms": [],
+		"betomProfilePic": "",
+		"betomExample": {
+			"betomVideo": [],
+			"betomImage": [],
+			"betomQuote": []
+		},
+		"dev": []
+	},
+	{
+		"betomKebab": "Spade-Spike",
+		"betomglyf": {
+			"labor": "Spade.Spike"
+		},
+		"betomEnglishName": "",
+		"betomID": "",
+		"betomAlias": [],
+		"betomDescription": [],
+		"betomBetanyms": [],
+		"betomProfilePic": "",
+		"betomExample": {
+			"betomVideo": [],
+			"betomImage": [],
+			"betomQuote": []
+		},
+		"dev": []
+	},
+	{
+		"betomKebab": "Spade-Stall",
+		"betomglyf": {
+			"labor": "Spade.Stall"
+		},
+		"betomEnglishName": "",
+		"betomID": "",
+		"betomAlias": [],
+		"betomDescription": [],
+		"betomBetanyms": [],
+		"betomProfilePic": "",
+		"betomExample": {
+			"betomVideo": [],
+			"betomImage": [],
+			"betomQuote": []
+		},
+		"dev": []
+	},
+	{
+		"betomKebab": "Spade-Stomp",
+		"betomglyf": {
+			"labor": "Spade.Stomp"
+		},
+		"betomEnglishName": "",
+		"betomID": "",
+		"betomAlias": [],
+		"betomDescription": [],
+		"betomBetanyms": [],
+		"betomProfilePic": "",
+		"betomExample": {
+			"betomVideo": [],
+			"betomImage": [],
+			"betomQuote": []
+		},
+		"dev": []
+	},
+	{
+		"betomKebab": "Spade-Test",
+		"betomglyf": {
+			"labor": "Eval,Spade"
+		},
+		"betomEnglishName": "",
+		"betomID": "",
+		"betomAlias": [],
+		"betomDescription": [],
+		"betomBetanyms": [],
+		"betomProfilePic": "",
+		"betomExample": {
+			"betomVideo": [],
+			"betomImage": [],
+			"betomQuote": []
+		},
+		"dev": []
+	},
+	{
+		"betomKebab": "Spade-Transport",
+		"betomglyf": {
+			"labor": "Spade.Transport"
+		},
+		"betomEnglishName": "",
+		"betomID": "",
+		"betomAlias": [],
+		"betomDescription": [],
+		"betomBetanyms": [],
+		"betomProfilePic": "",
+		"betomExample": {
+			"betomVideo": [],
+			"betomImage": [],
+			"betomQuote": []
+		},
+		"dev": []
+	},
+	{
+		"betomKebab": "SpadeCollar-Mano",
+		"betomglyf": {
+			"labor": "Spade.Shaft.Mano"
+		},
+		"betomEnglishName": "",
+		"betomID": "",
+		"betomAlias": [],
+		"betomDescription": [],
+		"betomBetanyms": [],
+		"betomProfilePic": "",
+		"betomExample": {
+			"betomVideo": [],
+			"betomImage": [],
+			"betomQuote": []
+		},
+		"dev": []
+	},
+	{
+		"betomKebab": "SpadePlast-Dimano",
+		"betomglyf": {
+			"labor": "Spade.Handle.Dimano"
+		},
+		"betomEnglishName": "",
+		"betomID": "",
+		"betomAlias": [],
+		"betomDescription": [],
+		"betomBetanyms": [],
+		"betomProfilePic": "",
+		"betomExample": {
+			"betomVideo": [],
+			"betomImage": [],
+			"betomQuote": []
+		},
+		"dev": []
+	},
+	{
+		"betomKebab": "SpadePlast-Mano",
+		"betomglyf": {
+			"labor": "Spade.Handle.Mano"
+		},
+		"betomEnglishName": "",
+		"betomID": "",
+		"betomAlias": [],
+		"betomDescription": [],
+		"betomBetanyms": [],
+		"betomProfilePic": "",
+		"betomExample": {
+			"betomVideo": [],
+			"betomImage": [],
+			"betomQuote": []
+		},
+		"dev": []
+	},
+	{
+		"betomKebab": "Spike-Korpo",
+		"betomglyf": {
+			"labor": "Spade.SuperSpike"
+		},
+		"betomEnglishName": "",
+		"betomID": "",
+		"betomAlias": [],
+		"betomDescription": [],
+		"betomBetanyms": [],
+		"betomProfilePic": "",
+		"betomExample": {
+			"betomVideo": [],
+			"betomImage": [],
+			"betomQuote": []
+		},
+		"dev": []
+	},
+	{
+		"betomKebab": "Stand-Korpo",
+		"betomglyf": {
+			"labor": "Stand"
+		},
+		"betomEnglishName": "",
+		"betomID": "",
+		"betomAlias": [],
+		"betomDescription": [],
+		"betomBetanyms": [],
+		"betomProfilePic": "",
+		"betomExample": {
+			"betomVideo": [],
+			"betomImage": [],
+			"betomQuote": []
+		},
+		"dev": []
+	},
+	{
+		"betomKebab": "Stand-Korpo-Up",
+		"betomglyf": {
+			"labor": "StandUp",
+			"soma": "Korpo"
+		},
+		"betomEnglishName": "",
+		"betomID": "",
+		"betomAlias": [],
+		"betomDescription": [],
+		"betomBetanyms": [],
+		"betomProfilePic": "",
+		"betomExample": {
+			"betomVideo": [],
+			"betomImage": [],
+			"betomQuote": []
+		},
+		"dev": []
+	},
+	{
+		"betomKebab": "Stem-Site",
+		"betomglyf": {
+			"ekos": "Stem",
+			"via": "Site"
+		},
+		"betomEnglishName": "",
+		"betomID": "",
+		"betomAlias": [],
+		"betomDescription": [],
+		"betomBetanyms": [],
+		"betomProfilePic": "",
+		"betomExample": {
+			"betomVideo": [],
+			"betomImage": [],
+			"betomQuote": []
+		},
+		"dev": []
+	},
+	{
+		"betomKebab": "Step-Into",
+		"betomglyf": {
+			"labor": "Step",
+			"via": "Into"
+		},
+		"betomEnglishName": "",
+		"betomID": "",
+		"betomAlias": [],
+		"betomDescription": [],
+		"betomBetanyms": [],
+		"betomProfilePic": "",
+		"betomExample": {
+			"betomVideo": [],
+			"betomImage": [],
+			"betomQuote": []
+		},
+		"dev": []
+	},
+	{
+		"betomKebab": "Step-Over",
+		"betomglyf": {
+			"labor": "Step",
+			"soma": "Leg"
+		},
+		"betomEnglishName": "",
+		"betomID": "",
+		"betomAlias": [],
+		"betomDescription": [],
+		"betomBetanyms": [],
+		"betomProfilePic": "",
+		"betomExample": {
+			"betomVideo": [],
+			"betomImage": [],
+			"betomQuote": []
+		},
+		"dev": []
+	},
+	{
+		"betomKebab": "Stomp-Leg",
+		"betomglyf": {
+			"labor": "Stomp",
+			"soma": "Leg"
+		},
+		"betomEnglishName": "",
+		"betomID": "",
+		"betomAlias": [],
+		"betomDescription": [],
+		"betomBetanyms": [],
+		"betomProfilePic": "",
+		"betomExample": {
+			"betomVideo": [],
+			"betomImage": [],
+			"betomQuote": []
+		},
+		"dev": []
+	},
+	{
+		"betomKebab": "Stump-Site",
+		"betomglyf": {
+			"ekos": "Stump",
+			"via": "Site"
+		},
+		"betomEnglishName": "",
+		"betomID": "",
+		"betomAlias": [],
+		"betomDescription": [],
+		"betomBetanyms": [],
+		"betomProfilePic": "",
+		"betomExample": {
+			"betomVideo": [],
+			"betomImage": [],
+			"betomQuote": []
+		},
+		"dev": []
+	},
+	{
+		"betomKebab": "Suspender-Site",
+		"betomglyf": {
+			"labor": "Plantafor.Strap",
+			"via": "Site"
+		},
+		"betomEnglishName": "",
+		"betomID": "",
+		"betomAlias": [],
+		"betomDescription": [],
+		"betomBetanyms": [],
+		"betomProfilePic": "",
+		"betomExample": {
+			"betomVideo": [],
+			"betomImage": [],
+			"betomQuote": []
+		},
+		"dev": []
+	},
+	{
+		"betomKebab": "Tab-Site",
+		"betomglyf": {
+			"labor": "Spade.Tab",
+			"via": "Site"
+		},
+		"betomEnglishName": "",
+		"betomID": "",
+		"betomAlias": [],
+		"betomDescription": [],
+		"betomBetanyms": [],
+		"betomProfilePic": "",
+		"betomExample": {
+			"betomVideo": [],
+			"betomImage": [],
+			"betomQuote": []
+		},
+		"dev": []
+	},
+	{
+		"betomKebab": "Tangent-Korpo",
+		"betomglyf": {
+			"labor": "Tangent",
+			"soma": "Korpo"
+		},
+		"betomEnglishName": "",
+		"betomID": "",
+		"betomAlias": [],
+		"betomDescription": [],
+		"betomBetanyms": [],
+		"betomProfilePic": "",
+		"betomExample": {
+			"betomVideo": [],
+			"betomImage": [],
+			"betomQuote": []
+		},
+		"dev": []
+	},
+	{
+		"betomKebab": "Tarp-Kompakt",
+		"betomglyf": {
+			"labor": "Tarp.Kompakt"
+		},
+		"betomEnglishName": "",
+		"betomID": "",
+		"betomAlias": [],
+		"betomDescription": [],
+		"betomBetanyms": [],
+		"betomProfilePic": "",
+		"betomExample": {
+			"betomVideo": [],
+			"betomImage": [],
+			"betomQuote": []
+		},
+		"dev": []
+	},
+	{
+		"betomKebab": "Tarp-Off",
+		"betomglyf": {
+			"labor": "Tarp.Off"
+		},
+		"betomEnglishName": "",
+		"betomID": "",
+		"betomAlias": [],
+		"betomDescription": [],
+		"betomBetanyms": [],
+		"betomProfilePic": "",
+		"betomExample": {
+			"betomVideo": [],
+			"betomImage": [],
+			"betomQuote": []
+		},
+		"dev": []
+	},
+	{
+		"betomKebab": "Tarp-On",
+		"betomglyf": {
+			"labor": "Tarp.On"
+		},
+		"betomEnglishName": "",
+		"betomID": "",
+		"betomAlias": [],
+		"betomDescription": [],
+		"betomBetanyms": [],
+		"betomProfilePic": "",
+		"betomExample": {
+			"betomVideo": [],
+			"betomImage": [],
+			"betomQuote": []
+		},
+		"dev": []
+	},
+	{
+		"betomKebab": "Team-Passage",
+		"betomglyf": {
+			"labor": "Team.Tactic"
+		},
+		"betomEnglishName": "",
+		"betomID": "",
+		"betomAlias": [],
+		"betomDescription": [],
+		"betomBetanyms": [],
+		"betomProfilePic": "",
+		"betomExample": {
+			"betomVideo": [],
+			"betomImage": [],
+			"betomQuote": []
+		},
+		"dev": []
+	},
+	{
+		"betomKebab": "Team-Passage-Bounce",
+		"betomglyf": {
+			"labor": "Team.Tactic.Bounce"
+		},
+		"betomEnglishName": "",
+		"betomID": "",
+		"betomAlias": [],
+		"betomDescription": [],
+		"betomBetanyms": [],
+		"betomProfilePic": "",
+		"betomExample": {
+			"betomVideo": [],
+			"betomImage": [],
+			"betomQuote": []
+		},
+		"dev": []
+	},
+	{
+		"betomKebab": "Team-Passage-Cross",
+		"betomglyf": {
+			"labor": "Team.Tactic.Cross"
+		},
+		"betomEnglishName": "",
+		"betomID": "",
+		"betomAlias": [],
+		"betomDescription": [],
+		"betomBetanyms": [],
+		"betomProfilePic": "",
+		"betomExample": {
+			"betomVideo": [],
+			"betomImage": [],
+			"betomQuote": []
+		},
+		"dev": []
+	},
+	{
+		"betomKebab": "Thumb-Extension",
+		"betomglyf": {
+			"soma": "Thumb",
+			"via": "Extension"
+		},
+		"betomEnglishName": "",
+		"betomID": "",
+		"betomAlias": [],
+		"betomDescription": [],
+		"betomBetanyms": [],
+		"betomProfilePic": "",
+		"betomExample": {
+			"betomVideo": [],
+			"betomImage": [],
+			"betomQuote": []
+		},
+		"dev": []
+	},
+	{
+		"betomKebab": "Thumb-Flexion",
+		"betomglyf": {
+			"soma": "Thumb",
+			"via": "Flexion"
+		},
+		"betomEnglishName": "",
+		"betomID": "",
+		"betomAlias": [],
+		"betomDescription": [],
+		"betomBetanyms": [],
+		"betomProfilePic": "",
+		"betomExample": {
+			"betomVideo": [],
+			"betomImage": [],
+			"betomQuote": []
+		},
+		"dev": []
+	},
+	{
+		"betomKebab": "Tibior-Mano",
+		"betomglyf": {
+			"labor": "Tibior.Mano"
+		},
+		"betomEnglishName": "",
+		"betomID": "",
+		"betomAlias": [],
+		"betomDescription": [],
+		"betomBetanyms": [],
+		"betomProfilePic": "",
+		"betomExample": {
+			"betomVideo": [],
+			"betomImage": [],
+			"betomQuote": []
+		},
+		"dev": []
+	},
+	{
+		"betomKebab": "Tibior-Off",
+		"betomglyf": {
+			"labor": "Tibior.Off"
+		},
+		"betomEnglishName": "",
+		"betomID": "",
+		"betomAlias": [],
+		"betomDescription": [],
+		"betomBetanyms": [],
+		"betomProfilePic": "",
+		"betomExample": {
+			"betomVideo": [],
+			"betomImage": [],
+			"betomQuote": []
+		},
+		"dev": []
+	},
+	{
+		"betomKebab": "Tibior-On",
+		"betomglyf": {
+			"labor": "Tibior.On"
+		},
+		"betomEnglishName": "",
+		"betomID": "",
+		"betomAlias": [],
+		"betomDescription": [],
+		"betomBetanyms": [],
+		"betomProfilePic": "",
+		"betomExample": {
+			"betomVideo": [],
+			"betomImage": [],
+			"betomQuote": []
+		},
+		"dev": []
+	},
+	{
+		"betomKebab": "Tibior-Preservation",
+		"betomglyf": {
+			"labor": "Tibior.Preserve"
+		},
+		"betomEnglishName": "",
+		"betomID": "",
+		"betomAlias": [],
+		"betomDescription": [],
+		"betomBetanyms": [],
+		"betomProfilePic": "",
+		"betomExample": {
+			"betomVideo": [],
+			"betomImage": [],
+			"betomQuote": []
+		},
+		"dev": []
+	},
+	{
+		"betomKebab": "Tibior-Site",
+		"betomglyf": {
+			"labor": "Tibior",
+			"via": "Site"
+		},
+		"betomEnglishName": "",
+		"betomID": "",
+		"betomAlias": [],
+		"betomDescription": [],
+		"betomBetanyms": [],
+		"betomProfilePic": "",
+		"betomExample": {
+			"betomVideo": [],
+			"betomImage": [],
+			"betomQuote": []
+		},
+		"dev": []
+	},
+	{
+		"betomKebab": "Toggle-Brazo",
+		"betomglyf": {
+			"labor": "Iguana",
+			"soma": "Arm"
+		},
+		"betomEnglishName": "",
+		"betomID": "",
+		"betomAlias": [],
+		"betomDescription": [],
+		"betomBetanyms": [],
+		"betomProfilePic": "",
+		"betomExample": {
+			"betomVideo": [],
+			"betomImage": [],
+			"betomQuote": []
+		},
+		"dev": []
+	},
+	{
+		"betomKebab": "TrenchExitMarkum",
+		"betomglyf": {
+			"labor": "Markate,Trench",
+			"via": "Exit"
+		},
+		"betomEnglishName": "",
+		"betomID": "",
+		"betomAlias": [],
+		"betomDescription": [],
+		"betomBetanyms": [],
+		"betomProfilePic": "",
+		"betomExample": {
+			"betomVideo": [],
+			"betomImage": [],
+			"betomQuote": []
+		},
+		"dev": []
+	},
+	{
+		"betomKebab": "Trot-Korpo",
+		"betomglyf": {
+			"labor": "Trot",
+			"soma": "Korpo"
+		},
+		"betomEnglishName": "",
+		"betomID": "",
+		"betomAlias": [],
+		"betomDescription": [],
+		"betomBetanyms": [],
+		"betomProfilePic": "",
+		"betomExample": {
+			"betomVideo": [],
+			"betomImage": [],
+			"betomQuote": []
+		},
+		"dev": []
+	},
+	{
+		"betomKebab": "Truck-Sit",
+		"betomglyf": {
+			"labor": "Truck.Sit"
+		},
+		"betomEnglishName": "",
+		"betomID": "",
+		"betomAlias": [],
+		"betomDescription": [],
+		"betomBetanyms": [],
+		"betomProfilePic": "",
+		"betomExample": {
+			"betomVideo": [],
+			"betomImage": [],
+			"betomQuote": []
+		},
+		"dev": []
+	},
+	{
+		"betomKebab": "Truck-Sleep",
+		"betomglyf": {
+			"labor": "Truck.Sleep"
+		},
+		"betomEnglishName": "",
+		"betomID": "",
+		"betomAlias": [],
+		"betomDescription": [],
+		"betomBetanyms": [],
+		"betomProfilePic": "",
+		"betomExample": {
+			"betomVideo": [],
+			"betomImage": [],
+			"betomQuote": []
+		},
+		"dev": []
+	},
+	{
+		"betomKebab": "Twist-Korpo",
+		"betomglyf": {
+			"labor": "Twist",
+			"soma": "Korpo"
+		},
+		"betomEnglishName": "",
+		"betomID": "",
+		"betomAlias": [],
+		"betomDescription": [],
+		"betomBetanyms": [],
+		"betomProfilePic": "",
+		"betomExample": {
+			"betomVideo": [],
+			"betomImage": [],
+			"betomQuote": []
+		},
+		"dev": []
+	},
+	{
+		"betomKebab": "Under-Korpo",
+		"betomglyf": {
+			"labor": "Amble",
+			"soma": "Korpo",
+			"via": "Under"
+		},
+		"betomEnglishName": "",
+		"betomID": "",
+		"betomAlias": [],
+		"betomDescription": [],
+		"betomBetanyms": [],
+		"betomProfilePic": "",
+		"betomExample": {
+			"betomVideo": [],
+			"betomImage": [],
+			"betomQuote": []
+		},
+		"dev": []
+	},
+	{
+		"betomKebab": "Velcro-Site",
+		"betomglyf": {
+			"labor": "Velcro",
+			"via": "Site"
+		},
+		"betomEnglishName": "",
+		"betomID": "",
+		"betomAlias": [],
+		"betomDescription": [],
+		"betomBetanyms": [],
+		"betomProfilePic": "",
+		"betomExample": {
+			"betomVideo": [],
+			"betomImage": [],
+			"betomQuote": []
+		},
+		"dev": []
+	},
+	{
+		"betomKebab": "Weave-Flora-Branch",
+		"betomglyf": {
+			"labor": "Weave",
+			"ekos": "Flora.Branch"
+		},
+		"betomEnglishName": "",
+		"betomID": "",
+		"betomAlias": [],
+		"betomDescription": [],
+		"betomBetanyms": [],
+		"betomProfilePic": "",
+		"betomExample": {
+			"betomVideo": [],
+			"betomImage": [],
+			"betomQuote": []
+		},
+		"dev": []
+	},
+	{
+		"betomKebab": "WindShell-Moton",
+		"betomglyf": {
+			"labor": "WindShell.Aktion"
+		},
+		"betomEnglishName": "",
+		"betomID": "",
+		"betomAlias": [],
+		"betomDescription": [],
+		"betomBetanyms": [],
+		"betomProfilePic": "",
+		"betomExample": {
+			"betomVideo": [],
+			"betomImage": [],
+			"betomQuote": []
+		},
+		"dev": []
+	},
+	{
+		"betomKebab": "Xylem-Hydro-Site",
+		"betomglyf": {
+			"ekos": "Xylem.Hydro",
+			"via": "Site"
+		},
+		"betomEnglishName": "",
+		"betomID": "",
+		"betomAlias": [],
+		"betomDescription": [],
+		"betomBetanyms": [],
+		"betomProfilePic": "",
+		"betomExample": {
+			"betomVideo": [],
+			"betomImage": [],
+			"betomQuote": []
+		},
+		"dev": []
+	},
+	{
+		"betomKebab": "Xylem-Site",
+		"betomglyf": {
+			"ekos": "Xylem",
+			"via": "Site"
+		},
+		"betomEnglishName": "",
+		"betomID": "",
+		"betomAlias": [],
+		"betomDescription": [],
+		"betomBetanyms": [],
+		"betomProfilePic": "",
+		"betomExample": {
+			"betomVideo": [],
+			"betomImage": [],
+			"betomQuote": []
+		},
+		"dev": []
+	},
+	{
+		"betomKebab": "Zelcro-Aktion",
+		"betomglyf": {
+			"labor": "Zelcro.Aktion"
+		},
+		"betomEnglishName": "",
+		"betomID": "",
+		"betomAlias": [],
+		"betomDescription": [],
+		"betomBetanyms": [],
+		"betomProfilePic": "",
+		"betomExample": {
+			"betomVideo": [],
+			"betomImage": [],
+			"betomQuote": []
+		},
+		"dev": []
+	},
+	{
+		"betomKebab": "Zipper-Aktion",
+		"betomglyf": {
+			"labor": "Zipper.Aktion"
+		},
+		"betomEnglishName": "",
+		"betomID": "",
+		"betomAlias": [],
+		"betomDescription": [],
+		"betomBetanyms": [],
+		"betomProfilePic": "",
+		"betomExample": {
+			"betomVideo": [],
+			"betomImage": [],
+			"betomQuote": []
+		},
+		"dev": []
+	},
+	{
+		"betomKebab": "Zipper-Site",
+		"betomglyf": {
+			"labor": "Zipper",
+			"via": "Site"
+		},
+		"betomEnglishName": "",
+		"betomID": "",
+		"betomAlias": [],
+		"betomDescription": [],
+		"betomBetanyms": [],
+		"betomProfilePic": "",
+		"betomExample": {
+			"betomVideo": [],
+			"betomImage": [],
+			"betomQuote": []
+		},
+		"dev": []
+	},
+	{
+		"betomKebab": "ZoneMarka",
+		"betomglyf": {
+			"labor": "Markate",
+			"via": "Div"
+		},
+		"betomEnglishName": "",
+		"betomID": "",
+		"betomAlias": [],
+		"betomDescription": [],
+		"betomBetanyms": [],
+		"betomProfilePic": "",
+		"betomExample": {
+			"betomVideo": [],
+			"betomImage": [],
+			"betomQuote": []
+		},
+		"dev": []
+	}
+]

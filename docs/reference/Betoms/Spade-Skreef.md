@@ -12,10 +12,10 @@ search: false
 ### 🟠Skreef
 
 ## <py>Subtypes</py>
-<!-- 
-- <BC l='Spade's=''e='Stump'v=''m='Skreef.Lever'a=''/>
-- <BC l='Spade's=''e=''v=''m='Skreef.Collar.2Finger'a=''/>
-- <BC l='Spade's=''e=''v=''m='Skreef.X'a=''/> -->
+
+- <BB labor='Spade'ekos='Stump'm='Skreef.Lever'/>
+- <BB labor='Spade'ekos=''m='Skreef.Collar.2Finger'/>
+- <BB labor='Spade'ekos=''m='Skreef.X'/> -->
 
 ## <py>Examples</py>
 
