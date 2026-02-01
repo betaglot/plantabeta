@@ -9,6 +9,16 @@
 <!-- =================================================== -->
 ::: details &
 
+- Chess
+    - Opening == First BagOut of the Piece
+    - Middlegame
+    - Endgame == Closing the Piece
+    - Transpose
+        - In chess, a transposition is a sequence of moves that leads to a position reachable by a different, usually more standard, move orde
+
+- Sitrep (Situation Report)
+    - a concise, periodic, and structured update used to communicate the status of an ongoing operation, incident, or project.
+
 - Quotes about Strategy
     - "adopt a strategy to achieve "
     - long-term approach

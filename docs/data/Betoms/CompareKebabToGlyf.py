@@ -6463,7 +6463,9 @@ for betom in PropertiesBetoms:
     
 
     if not Kebab == Glyf:
-        print(f"{Kebab} != {Glyf}")
+        print(Kebab)
+        print(Glyf)
+        print()
  
         
 
