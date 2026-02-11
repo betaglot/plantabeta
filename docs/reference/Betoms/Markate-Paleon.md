@@ -6,9 +6,7 @@ search: false
 BetomName=""
 </script>
 
-# <BB labor="Piece.Boundary.Marka" />
-
-> A marka which marks the limit of a Zone
+# <BB labor="Markate,Paleon" />
 
 ---
 
@@ -19,6 +17,6 @@ BetomName=""
 <!-- =================================================== -->
 ::: details &
 
-- Markum or Paint or HighStump
+- Marking Natural Crop Trees
 
 :::

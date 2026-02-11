@@ -1,12 +1,4 @@
----
-aside: false
-search: false
----
-<script setup>
-BetomName=""
-</script>
-
-# <BB labor="Mikrosite,Marka" />
+# <span class="via">Perigee</span>
 
 ---
 

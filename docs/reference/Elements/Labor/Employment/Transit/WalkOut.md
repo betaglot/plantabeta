@@ -1,12 +1,4 @@
----
-aside: false
-search: false
----
-<script setup>
-BetomName=""
-</script>
-
-# <BB labor="LineIn,Marka" />
+# <span class="labor">Walk Out</span>
 
 ---
 
@@ -17,6 +9,6 @@ BetomName=""
 <!-- =================================================== -->
 ::: details &
 
--
+- Carry out Boxes
 
 :::

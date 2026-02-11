@@ -20,6 +20,22 @@ let elementName = "Boot"
 <!-- =================================================== -->
 ::: details &
 
+- Boot.SubElements
+    - Lace
+    - Heel
+    - ToeCap
+    - Rand
+        - AnteriorRand
+        - MedialRand
+        - LateralRand
+        - HeelRand
+    - Sole
+        - AnteriorSole
+        - MedialSole
+        - LateralSole
+    - Upper
+    - Arch
+
 - BootMano
 - "MOTON.InstrumentMOTON.BootMOTON.BootOff"
 - "MOTON.InstrumentMOTON.BootMOTON.BootOn"

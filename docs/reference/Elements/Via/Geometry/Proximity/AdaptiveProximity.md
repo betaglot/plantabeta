@@ -1,12 +1,4 @@
----
-aside: false
-search: false
----
-<script setup>
-BetomName=""
-</script>
-
-# <BB labor="Markate,CropTree" />
+# <span class="via">Adaptive Proximity</span>
 
 ---
 
@@ -17,6 +9,6 @@ BetomName=""
 <!-- =================================================== -->
 ::: details &
 
-- Marking Natural Crop Trees
+-
 
 :::

@@ -1,4 +1,14 @@
-# Proximity
+---
+aside: false
+search: false
+---
+<script setup>
+BetomName=""
+</script>
+
+# <BB labor="Piece.Boundary.Markum" />
+
+> A markum which marks the limit of a Zone
 
 ---
 
@@ -9,12 +19,6 @@
 <!-- =================================================== -->
 ::: details &
 
-- Adaptive
-- RelativeDistance
-- Far, Close
-- Near, Far
-- Nearby
-- Further
-- Farther
+- Markum or Paint or HighStump
 
 :::

@@ -1,4 +1,4 @@
-# Proximity
+# <span class="labor">Transit</span>
 
 ---
 
@@ -9,12 +9,12 @@
 <!-- =================================================== -->
 ::: details &
 
-- Adaptive
-- RelativeDistance
-- Far, Close
-- Near, Far
-- Nearby
-- Further
-- Farther
+- Truck
+- Crummy
+- Treaded Vehichle
+- Helicopter
+- Boat
+- Walk In
+- Walk Out
 
 :::

@@ -1,4 +1,4 @@
-# Proximity
+# <span class="via">Apogee</span>
 
 ---
 
@@ -9,12 +9,7 @@
 <!-- =================================================== -->
 ::: details &
 
-- Adaptive
-- RelativeDistance
-- Far, Close
-- Near, Far
-- Nearby
-- Further
-- Farther
+- Apocache
+- Pericache
 
 :::

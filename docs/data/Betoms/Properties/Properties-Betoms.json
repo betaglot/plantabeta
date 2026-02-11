@@ -1,23 +1,5 @@
 [
     {
-        "betomKebab": "Add-Markum",
-        "betomglyf": {
-            "labor": "Add.Markum"
-        },
-        "betomEnglishName": "",
-        "betomID": "",
-        "betomAlias": [],
-        "betomDescription": [],
-        "betomBetanyms": [],
-        "betomProfilePic": "",
-        "betomExample": {
-            "betomVideo": [],
-            "betomImage": [],
-            "betomQuote": []
-        },
-        "dev": []
-    },
-    {
         "betomKebab": "Aktion-Flora-Branch",
         "betomglyf": {
             "labor": "Aktion",
@@ -2243,10 +2225,10 @@
         "dev": []
     },
     {
-        "betomKebab": "Kontakt-Korpo-Abdominal",
+        "betomKebab": "Kontakt-Korpo-Abdomen",
         "betomglyf": {
             "labor": "Kontakt",
-            "soma": "Korpo.Abdominal"
+            "soma": "Korpo.Abdomen"
         },
         "betomEnglishName": "",
         "betomID": "",
@@ -2706,9 +2688,9 @@
         "dev": []
     },
     {
-        "betomKebab": "LineIn-Marka",
+        "betomKebab": "Markate-LineIn",
         "betomglyf": {
-            "labor": "LineIn,Marka"
+            "labor": "Markate,LineIn"
         },
         "betomEnglishName": "",
         "betomID": "",
@@ -2929,9 +2911,9 @@
         "dev": []
     },
     {
-        "betomKebab": "Markate-CropTree",
+        "betomKebab": "Markate-Paleon",
         "betomglyf": {
-            "labor": "Markate,CropTree"
+            "labor": "Markate,Paleon"
         },
         "betomEnglishName": "",
         "betomID": "",

@@ -1,12 +1,4 @@
----
-aside: false
-search: false
----
-<script setup>
-BetomName=""
-</script>
-
-# <BB labor="Kontakt" soma="Korpo.Abdominal"/>
+# <span class="via">Away</span>
 
 ---
 

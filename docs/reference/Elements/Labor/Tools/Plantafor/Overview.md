@@ -11,10 +11,6 @@ let elementName = "Plantafor"
 
 <ElementInfo :elementName=elementName />
 
-Aliases: Planting Bags
-
-Roll up your back bag layer to shell from water and dirt
-
 ## PlantaforAnatomy
 
 ## PlantaforAttributes
@@ -28,7 +24,33 @@ Roll up your back bag layer to shell from water and dirt
 <!-- =================================================== -->
 ::: details &
 
-- FertilizerPouch
+- Plantafor.Aktion
+    - Roll up your back bag layer to shell from water and dirt
+    - Bag.Purga
+    - Bag.Klose
+    - Pack into itself for Transit, especially PostSeason
+
+- Plantafor.SubElements
+    - Bag
+        - Rim
+        - SilviBag
+            - SilviBag.Klose
+            - SilviBag.Open
+            - SilviBag.Preserve
+            - SilviBag.
+    - Backbag
+    - ShoulderStraps
+    - SternumStrap
+        - SternumStrap.Loosen
+        - SternumStrap.Tighten
+    - Belt
+        - Belt.Loosen
+        - Belt.Tighten
+    - Buckle
+        - Buckle.Unlock
+        - Buckle.Lock
+    - Flagger Pouch
+    - FertilizerPouch
 - BagMOTON.Error
     - BagSpill
 

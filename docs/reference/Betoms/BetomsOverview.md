@@ -24,7 +24,7 @@ The order in which the elements of each group is listed is always the same:
 
 <BB labor="LABOR" soma="SOMA" ekos="EKOS" via="VIA" motor="MOTOR" anima="ANIMA"/>
 
-- <span class="labor">Error,Task,Piece,Aktion,Tool,Strategy,Performance  </span> 
+- <span class="labor">Error,Task,Piece,Aktion,Tool,Strategy,Performance  </span>
 - <span class="via">Geometry,Direction,X-axis,Y-axis,Z-axis,Position,Orientation,Logic,Probability</span>
 
 1. <span class="labor">LABOR</span>

@@ -1,4 +1,12 @@
-# Proximity
+---
+aside: false
+search: false
+---
+<script setup>
+BetomName=""
+</script>
+
+# <BB labor="Markate,LineIn" />
 
 ---
 
@@ -9,12 +17,6 @@
 <!-- =================================================== -->
 ::: details &
 
-- Adaptive
-- RelativeDistance
-- Far, Close
-- Near, Far
-- Nearby
-- Further
-- Farther
+-
 
 :::

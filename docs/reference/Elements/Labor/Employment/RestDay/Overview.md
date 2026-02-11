@@ -1,4 +1,4 @@
-# Proximity
+# <span class="labor">Rest Day</span>
 
 ---
 
@@ -9,12 +9,6 @@
 <!-- =================================================== -->
 ::: details &
 
-- Adaptive
-- RelativeDistance
-- Far, Close
-- Near, Far
-- Nearby
-- Further
-- Farther
+-
 
 :::

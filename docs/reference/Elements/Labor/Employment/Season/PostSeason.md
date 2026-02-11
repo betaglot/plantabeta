@@ -1,12 +1,4 @@
----
-aside: false
-search: false
----
-<script setup>
-BetomName=""
-</script>
-
-# <BB labor="Add.Markum" />
+# <span class="labor">Post Season</span>
 
 ---
 

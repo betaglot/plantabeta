@@ -17,6 +17,8 @@ let elementName = "RelativeDirection"
 ::: details &
 
 - Mostly prepositions
+- Away from
+- Away to
 
 [
     'Above', 'Across', 'Along', 'At',

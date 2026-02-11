@@ -1,4 +1,89 @@
 {
+    "Transit": {
+        "elementEnglishName": "Transit",
+        "elementFaktor": "Labor",
+        "elementID": "",
+        "elementTaxonomy": [
+            "Labor",
+            "Employment",
+            "Workday",
+            "Transit"
+        ],
+        "elementAlias": [],
+        "elementDescription": "",
+        "elementBetanyms": [],
+        "elementInBetom": [],
+        "elementProfilePic": "",
+        "elementExample": {
+            "elementVideo": [],
+            "elementImage": [],
+            "elementQuote": []
+        }
+    },
+    "Workday": {
+        "elementEnglishName": "Workday",
+        "elementFaktor": "Labor",
+        "elementID": "",
+        "elementTaxonomy": [
+            "Labor",
+            "Employment",
+            "Workday"
+        ],
+        "elementAlias": [
+            "day on"
+        ],
+        "elementDescription": "",
+        "elementBetanyms": [],
+        "elementInBetom": [],
+        "elementProfilePic": "",
+        "elementExample": {
+            "elementVideo": [],
+            "elementImage": [],
+            "elementQuote": []
+        }
+    },
+    "WorkShift": {
+        "elementEnglishName": "Shift",
+        "elementFaktor": "Labor",
+        "elementID": "",
+        "elementTaxonomy": [
+            "Labor",
+            "Employment",
+            "WorkShift"
+        ],
+        "elementAlias": [],
+        "elementDescription": "",
+        "elementBetanyms": [],
+        "elementInBetom": [],
+        "elementProfilePic": "",
+        "elementExample": {
+            "elementVideo": [],
+            "elementImage": [],
+            "elementQuote": []
+        }
+    },
+    "RestDay": {
+        "elementEnglishName": "RestDay",
+        "elementFaktor": "Labor",
+        "elementID": "",
+        "elementTaxonomy": [
+            "Labor",
+            "Employment",
+            "RestDay"
+        ],
+        "elementAlias": [
+            "day off"
+        ],
+        "elementDescription": "",
+        "elementBetanyms": [],
+        "elementInBetom": [],
+        "elementProfilePic": "",
+        "elementExample": {
+            "elementVideo": [],
+            "elementImage": [],
+            "elementQuote": []
+        }
+    },
     "Task": {
         "elementEnglishName": "Task",
         "elementFaktor": "Labor",
@@ -704,18 +789,19 @@
             "elementQuote": []
         }
     },
-    "Allo": {
-        "elementEnglishName": "Allo",
+    "Allos": {
+        "elementEnglishName": "Allos",
         "elementFaktor": "Labor",
         "elementID": "",
         "elementTaxonomy": [
             "Labor",
             "Aktion",
-            "Allo"
+            "Allos"
         ],
         "elementAlias": [],
         "elementDescription": [
-            "To swap hands or feet"
+            "To swap hands or feet",
+            "To pass an object from one hand to the other"
         ],
         "elementBetanyms": [],
         "elementInBetom": [],
@@ -1496,14 +1582,14 @@
             "elementQuote": []
         }
     },
-    "Reach": {
-        "elementEnglishName": "Reach",
+    "Progress": {
+        "elementEnglishName": "Progress",
         "elementFaktor": "Labor",
         "elementID": "",
         "elementTaxonomy": [
             "Labor",
             "Aktion",
-            "Reach"
+            "Progress"
         ],
         "elementAlias": [],
         "elementDescription": [
@@ -2319,6 +2405,29 @@
         "elementDescription": [
             "a bag used to transport tools"
         ],
+        "elementBetanyms": [],
+        "elementInBetom": [],
+        "elementProfilePic": "",
+        "elementExample": {
+            "elementVideo": [],
+            "elementImage": [],
+            "elementQuote": []
+        }
+    },
+    "Markate": {
+        "elementEnglishName": "Markate",
+        "elementFaktor": "Labor",
+        "elementID": "",
+        "elementTaxonomy": [
+            "Labor",
+            "Task",
+            "Aktion",
+            "Markate"
+        ],
+        "elementAlias": [
+            "to flag (verb)"
+        ],
+        "elementDescription": "",
         "elementBetanyms": [],
         "elementInBetom": [],
         "elementProfilePic": "",
@@ -5365,6 +5474,26 @@
             "elementQuote": []
         }
     },
+    "Alignment": {
+        "elementEnglishName": "Alignment",
+        "elementFaktor": "Labor",
+        "elementID": "",
+        "elementTaxonomy": [
+            "Labor",
+            "Geometry",
+            "Alignment"
+        ],
+        "elementAlias": [],
+        "elementDescription": "",
+        "elementBetanyms": [],
+        "elementInBetom": [],
+        "elementProfilePic": "",
+        "elementExample": {
+            "elementVideo": [],
+            "elementImage": [],
+            "elementQuote": []
+        }
+    },
     "Angle": {
         "elementEnglishName": "Angle",
         "elementFaktor": "Via",
@@ -5959,6 +6088,29 @@
         "elementAlias": [],
         "elementDescription": [
             "a fundamental, zero-dimensional object representing a precise location in space, having no size, length, or width, only position"
+        ],
+        "elementBetanyms": [],
+        "elementInBetom": [],
+        "elementProfilePic": "",
+        "elementExample": {
+            "elementVideo": [],
+            "elementImage": [],
+            "elementQuote": []
+        }
+    },
+    "Apogee": {
+        "elementEnglishName": "Apogee",
+        "elementFaktor": "Via",
+        "elementID": "",
+        "elementTaxonomy": [
+            "Via",
+            "Geometry",
+            "Point",
+            "Apogee"
+        ],
+        "elementAlias": [],
+        "elementDescription": [
+            "Point the furthest distance away from the cache"
         ],
         "elementBetanyms": [],
         "elementInBetom": [],
