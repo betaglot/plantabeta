@@ -7,7 +7,7 @@ search: false
 BetomName=""
 </script>
 
-# <BB labor="Neosite" soma="" ekos="" via="Square" motor="" anima=""/>
+# <BB labor="Crop"   via="Square"  />
 
 > A square of Sites
 

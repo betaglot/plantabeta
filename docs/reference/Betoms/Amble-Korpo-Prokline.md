@@ -6,7 +6,7 @@ search: false
 BetomName=""
 </script>
 
-# <BB labor="Modify"   via="Zone.Density"  />
+# <BB labor="Amble" soma="Korpo" ekos="Prokline" />
 
 ---
 
@@ -17,6 +17,14 @@ BetomName=""
 <!-- =================================================== -->
 ::: details &
 
--
+- InclineTraverseWalk
+    - LeanIntoIncline
+        - ArmAma
+        - SpadeAmble
+        - BranchMano to minimize DownSlopeForces on Foot to prevent FootSlip
+    - Spade on UpSlope side
+    - Turn to Facing Slope when falling
+- InclineUpWalk
+- InclineDownWalk
 
 :::

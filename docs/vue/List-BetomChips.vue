@@ -4,12 +4,12 @@
         <VContainer class="betomListContainer">
             <div class="text-h4 my-1"
                  v-for="betom in betoms">
-                <BB :labor="betom.Labor"
-                    :soma="betom.Soma"
-                    :ekos="betom.Ekos"
-                    :via="betom.Via"
-                    :m="betom.Motor"
-                    :anima="betom.Anima" />
+                <BB :labor="betom.betomglyf.labor"
+                    :soma="betom.betomglyf.soma"
+                    :ekos="betom.betomglyf.ekos"
+                    :via="betom.betomglyf.via"
+                    :motor="betom.betomglyf.motor"
+                    :anima="betom.betomglyf.anima" />
             </div>
         </VContainer>
     </VSheet>
@@ -19,14947 +19,6399 @@
 
 const betoms = [
     {
-        "Labor":"(Iguana&Lift).Roll.MedialSole",
-        "Soma":"Leg",
-        "Ekos":null,
-        "Via":"Medial",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Abduction",
-        "Soma":"Thumb",
-        "Ekos":null,
-        "Via":"Palmar",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Abduction",
-        "Soma":"Thumb",
-        "Ekos":null,
-        "Via":"Radial",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Absorb",
-        "Soma":"Arm",
-        "Ekos":"Plast",
-        "Via":"Jug,Extension,Posterior",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Absorb",
-        "Soma":"Arm",
-        "Ekos":null,
-        "Via":"Down",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Absorb",
-        "Soma":"Arm",
-        "Ekos":null,
-        "Via":"Flexion,Down",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Absorb",
-        "Soma":"Arm",
-        "Ekos":null,
-        "Via":"Up",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Absorb",
-        "Soma":"Arm",
-        "Ekos":null,
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Absorb",
-        "Soma":"Arm<>",
-        "Ekos":"Plast",
-        "Via":"Jug,Extension",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Absorb",
-        "Soma":"Body",
-        "Ekos":"Plast,Volume",
-        "Via":"Down",
-        "Motor":"Gravity",
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Absorb",
-        "Soma":"Body",
-        "Ekos":null,
-        "Via":"Anterior",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Absorb",
-        "Soma":"Body",
-        "Ekos":null,
-        "Via":"Down",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Absorb",
-        "Soma":"Body",
-        "Ekos":null,
-        "Via":"Lateral&Anterior",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Absorb",
-        "Soma":"Body",
-        "Ekos":null,
-        "Via":"Lateral&Posterior",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Absorb",
-        "Soma":"Body",
-        "Ekos":null,
-        "Via":"Posterior",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Absorb",
-        "Soma":"Body",
-        "Ekos":null,
-        "Via":"Rotate",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Absorb",
-        "Soma":"Body",
-        "Ekos":null,
-        "Via":"Twist",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Absorb",
-        "Soma":"Body",
-        "Ekos":null,
-        "Via":"Up",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Absorb",
-        "Soma":"Body",
-        "Ekos":null,
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Absorb",
-        "Soma":"Head",
-        "Ekos":null,
-        "Via":"Down",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Absorb",
-        "Soma":"Head",
-        "Ekos":null,
-        "Via":"Up",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Absorb",
-        "Soma":"Head",
-        "Ekos":null,
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Absorb",
-        "Soma":"Leg",
-        "Ekos":"Plast",
-        "Via":"Anterior&Down",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Absorb",
-        "Soma":"Leg",
-        "Ekos":"Plast",
-        "Via":"Down",
-        "Motor":"Gravity",
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Absorb",
-        "Soma":"Leg",
-        "Ekos":null,
-        "Via":"Arc",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Absorb",
-        "Soma":"Leg",
-        "Ekos":null,
-        "Via":"Tangent",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Absorb",
-        "Soma":"Leg",
-        "Ekos":null,
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Absorb",
-        "Soma":"Leg.Knee",
-        "Ekos":null,
-        "Via":"Up",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Absorb",
-        "Soma":null,
-        "Ekos":null,
-        "Via":"Down",
-        "Motor":"Gravity",
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Absorb",
-        "Soma":null,
-        "Ekos":null,
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Absorb.Ama",
-        "Soma":"Arm",
-        "Ekos":null,
-        "Via":"Abduction",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Absorb.Ama",
-        "Soma":"Arm",
-        "Ekos":null,
-        "Via":"Above",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Absorb.Ama",
-        "Soma":"Arm",
-        "Ekos":null,
-        "Via":"Anterior",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Absorb.Ama",
-        "Soma":"Arm",
-        "Ekos":null,
-        "Via":"Arc",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Absorb.Ama",
-        "Soma":"Arm",
-        "Ekos":null,
-        "Via":"Below",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Absorb.Ama",
-        "Soma":"Arm",
-        "Ekos":null,
-        "Via":"Cross",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Absorb.Ama",
-        "Soma":"Arm",
-        "Ekos":null,
-        "Via":"CrossArm",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Absorb.Ama",
-        "Soma":"Arm",
-        "Ekos":null,
-        "Via":"CrossArmAbove",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Absorb.Ama",
-        "Soma":"Arm",
-        "Ekos":null,
-        "Via":"CrossArmAboveAnterior",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Absorb.Ama",
-        "Soma":"Arm",
-        "Ekos":null,
-        "Via":"CrossArmAbovePosterior",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Absorb.Ama",
-        "Soma":"Arm",
-        "Ekos":null,
-        "Via":"CrossLeg",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Absorb.Ama",
-        "Soma":"Arm",
-        "Ekos":null,
-        "Via":"CrossMidline",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Absorb.Ama",
-        "Soma":"Arm",
-        "Ekos":null,
-        "Via":"Distal",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Absorb.Ama",
-        "Soma":"Arm",
-        "Ekos":null,
-        "Via":"Down",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Absorb.Ama",
-        "Soma":"Arm",
-        "Ekos":null,
-        "Via":"Lateral",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Absorb.Ama",
-        "Soma":"Arm",
-        "Ekos":null,
-        "Via":"Medial",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Absorb.Ama",
-        "Soma":"Arm",
-        "Ekos":null,
-        "Via":"Posterior",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Absorb.Ama",
-        "Soma":"Arm",
-        "Ekos":null,
-        "Via":"Radial",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Absorb.Ama",
-        "Soma":"Arm",
-        "Ekos":null,
-        "Via":"Up",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Absorb.AnteriorSole",
-        "Soma":"Leg",
-        "Ekos":null,
-        "Via":null,
-        "Motor":"Gravity",
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Absorb.AnteriorSole",
-        "Soma":"Leg",
-        "Ekos":null,
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Absorb.AnteriorSole",
-        "Soma":"Leg.Ankle",
-        "Ekos":null,
-        "Via":"Down",
-        "Motor":"Gravity",
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Absorb.Ateles",
-        "Soma":"Arm",
-        "Ekos":"Plast",
-        "Via":"Down",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Absorb.Ateles",
-        "Soma":"Arm",
-        "Ekos":"Plast",
-        "Via":"Down&Flexion",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Absorb.Ateles",
-        "Soma":"Arm",
-        "Ekos":null,
-        "Via":"Down",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Absorb.Ateles",
-        "Soma":"Arm",
-        "Ekos":null,
-        "Via":"Down&ToKlimon",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Absorb.Ateles",
-        "Soma":"Arm",
-        "Ekos":null,
-        "Via":"Posterior",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Absorb.Ateles",
-        "Soma":"Arm",
-        "Ekos":null,
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Absorb.Ateles",
-        "Soma":"Arm<>",
-        "Ekos":"Plast",
-        "Via":"Jug",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Absorb.Ateles",
-        "Soma":"Arm<>",
-        "Ekos":null,
-        "Via":"AwayFrom.Klimon",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Absorb.Ateles",
-        "Soma":"Arm<>",
-        "Ekos":null,
-        "Via":"Down",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Absorb.Bonobo",
-        "Soma":null,
-        "Ekos":null,
-        "Via":"Down",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Absorb.Bonobo",
-        "Soma":null,
-        "Ekos":null,
-        "Via":"Lateral",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Absorb.FingerHook",
-        "Soma":"Arm",
-        "Ekos":"Plast",
-        "Via":"Down",
-        "Motor":"Gravity",
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Absorb.Iguana",
-        "Soma":"Leg",
-        "Ekos":"Plast",
-        "Via":"Down,Lateral",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Absorb.Iguana",
-        "Soma":"Leg",
-        "Ekos":"Plast",
-        "Via":"Lateral",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Absorb.Iguana",
-        "Soma":"Leg",
-        "Ekos":null,
-        "Via":"Down",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Absorb.Iguana",
-        "Soma":"Leg",
-        "Ekos":null,
-        "Via":"Medial",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Absorb.Iguana.",
-        "Soma":"Leg",
-        "Ekos":null,
-        "Via":"Down",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Absorb.Iguana.AnteriorSole",
-        "Soma":"Leg",
-        "Ekos":null,
-        "Via":"Anterior",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Absorb.Iguana.AnteriorSole",
-        "Soma":"Leg",
-        "Ekos":null,
-        "Via":"Down&To.Klimon",
-        "Motor":"Gravity",
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Absorb.Iguana.MedialSole",
-        "Soma":"Leg",
-        "Ekos":"Plast",
-        "Via":"Down",
-        "Motor":"Gravity",
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Absorb.Iguana.MedialSole",
-        "Soma":"Leg",
-        "Ekos":"Plast",
-        "Via":"Down",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Absorb.Iguana.MedialSole",
-        "Soma":"Leg",
-        "Ekos":null,
-        "Via":"Down",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Absorb.LateralSole",
-        "Soma":"Leg",
-        "Ekos":"Plast",
-        "Via":"Down",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Absorb.MedialSole",
-        "Soma":"Leg",
-        "Ekos":"Plast",
-        "Via":"Down",
-        "Motor":"Gravity",
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Absorb.MedialSole",
-        "Soma":"Leg",
-        "Ekos":"Plast",
-        "Via":"Down",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Absorb.Onda",
-        "Soma":"Arm",
-        "Ekos":null,
-        "Via":"Flexion(90),ToPosterior",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Absorb.Onda",
-        "Soma":"Arm",
-        "Ekos":null,
-        "Via":"Up",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Absorb.Onda",
-        "Soma":"Arm",
-        "Ekos":null,
-        "Via":"[ToKlimon&ExternalRotation&Up]",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Absorb.Onda",
-        "Soma":"Leg",
-        "Ekos":"Air",
-        "Via":"AwayFrom.Klimon",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Absorb.Onda",
-        "Soma":"Leg",
-        "Ekos":"Air",
-        "Via":"Posterior",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Absorb.Onda",
-        "Soma":null,
-        "Ekos":null,
-        "Via":"Back",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Absorb.Onda",
-        "Soma":null,
-        "Ekos":null,
-        "Via":"Twist",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Absorb.Onda",
-        "Soma":null,
-        "Ekos":null,
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Absorb.Redirect",
-        "Soma":null,
-        "Ekos":null,
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Absorb.Roll.MedialSole",
-        "Soma":"Leg",
-        "Ekos":"Plast",
-        "Via":"Down",
-        "Motor":"Gravity",
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Absorb.ToesSole",
-        "Soma":"Leg",
-        "Ekos":"Plast",
-        "Via":"Down",
-        "Motor":"Gravity",
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Absorb.Twist",
-        "Soma":null,
-        "Ekos":null,
-        "Via":"Down",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Absorb.Twist",
-        "Soma":null,
-        "Ekos":null,
-        "Via":"Up",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Absorb.Twist",
-        "Soma":null,
-        "Ekos":null,
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Absorb.Whip",
-        "Soma":"Leg",
-        "Ekos":null,
-        "Via":"Down",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Absorb.Whip",
-        "Soma":"Leg",
-        "Ekos":null,
-        "Via":"IntoKlimon",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Absorb.Whip",
-        "Soma":"Leg",
-        "Ekos":null,
-        "Via":"Over",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Absorb.Whip",
-        "Soma":"Leg",
-        "Ekos":null,
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Adduction.MedialSole",
-        "Soma":"Leg",
-        "Ekos":"Plast",
-        "Via":"ParallelTo.Klimon",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Air",
-        "Soma":"Foot",
-        "Ekos":null,
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Air",
-        "Soma":"Hand",
-        "Ekos":null,
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Air",
-        "Soma":"Leg",
-        "Ekos":null,
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Aktion.Abort",
-        "Soma":null,
-        "Ekos":null,
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Ama",
-        "Soma":"Arm",
-        "Ekos":"HorizontalCornerKlimon",
-        "Via":"Anterior",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Ama",
-        "Soma":"Arm",
-        "Ekos":"Panel",
-        "Via":"Posterior",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Ama",
-        "Soma":"Arm",
-        "Ekos":"Panel",
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Ama",
-        "Soma":"Arm",
-        "Ekos":null,
-        "Via":"Abduction",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Ama",
-        "Soma":"Arm",
-        "Ekos":null,
-        "Via":"Above",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Ama",
-        "Soma":"Arm",
-        "Ekos":null,
-        "Via":"Anterior",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Ama",
-        "Soma":"Arm",
-        "Ekos":null,
-        "Via":"Arc",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Ama",
-        "Soma":"Arm",
-        "Ekos":null,
-        "Via":"Below",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Ama",
-        "Soma":"Arm",
-        "Ekos":null,
-        "Via":"Cross",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Ama",
-        "Soma":"Arm",
-        "Ekos":null,
-        "Via":"CrossArm",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Ama",
-        "Soma":"Arm",
-        "Ekos":null,
-        "Via":"CrossArmAbove",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Ama",
-        "Soma":"Arm",
-        "Ekos":null,
-        "Via":"CrossArmAboveAnterior",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Ama",
-        "Soma":"Arm",
-        "Ekos":null,
-        "Via":"CrossArmAbovePosterior",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Ama",
-        "Soma":"Arm",
-        "Ekos":null,
-        "Via":"CrossLeg",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Ama",
-        "Soma":"Arm",
-        "Ekos":null,
-        "Via":"CrossMidline",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Ama",
-        "Soma":"Arm",
-        "Ekos":null,
-        "Via":"Distal",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Ama",
-        "Soma":"Arm",
-        "Ekos":null,
-        "Via":"Down",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Ama",
-        "Soma":"Arm",
-        "Ekos":null,
-        "Via":"Lateral",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Ama",
-        "Soma":"Arm",
-        "Ekos":null,
-        "Via":"Medial",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Ama",
-        "Soma":"Arm",
-        "Ekos":null,
-        "Via":"Posterior",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Ama",
-        "Soma":"Arm",
-        "Ekos":null,
-        "Via":"Radial",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Ama",
-        "Soma":"Arm",
-        "Ekos":null,
-        "Via":"Up",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Ama",
-        "Soma":"Arm",
-        "Ekos":null,
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Ama",
-        "Soma":"Leg",
-        "Ekos":"Plast",
-        "Via":"Anterior",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Ama",
-        "Soma":"Leg",
-        "Ekos":null,
-        "Via":"Anterior",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Ama",
-        "Soma":"Leg",
-        "Ekos":null,
-        "Via":"Anterior&Cross",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Ama",
-        "Soma":"Leg",
-        "Ekos":null,
-        "Via":"Arc",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Ama",
-        "Soma":"Leg",
-        "Ekos":null,
-        "Via":"Cross",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Ama",
-        "Soma":"Leg",
-        "Ekos":null,
-        "Via":"CrossArm",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Ama",
-        "Soma":"Leg",
-        "Ekos":null,
-        "Via":"CrossLeg",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Ama",
-        "Soma":"Leg",
-        "Ekos":null,
-        "Via":"CrossMidline",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Ama",
-        "Soma":"Leg",
-        "Ekos":null,
-        "Via":"Distal",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Ama",
-        "Soma":"Leg",
-        "Ekos":null,
-        "Via":"Down",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Ama",
-        "Soma":"Leg",
-        "Ekos":null,
-        "Via":"Lateral",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Ama",
-        "Soma":"Leg",
-        "Ekos":null,
-        "Via":"Medial",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Ama",
-        "Soma":"Leg",
-        "Ekos":null,
-        "Via":"Posterior",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Ama",
-        "Soma":"Leg",
-        "Ekos":null,
-        "Via":"Posterior&Cross",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Ama",
-        "Soma":"Leg",
-        "Ekos":null,
-        "Via":"Radial",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Ama",
-        "Soma":"Leg",
-        "Ekos":null,
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Ama",
-        "Soma":null,
-        "Ekos":null,
-        "Via":"Up",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Ama",
-        "Soma":null,
-        "Ekos":null,
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Ama.Gekko",
-        "Soma":"Arm",
-        "Ekos":null,
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Ama.Kryos",
-        "Soma":"Arm",
-        "Ekos":null,
-        "Via":"Abduction",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Ama.Kryos",
-        "Soma":"Arm",
-        "Ekos":null,
-        "Via":"Above",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Ama.Kryos",
-        "Soma":"Arm",
-        "Ekos":null,
-        "Via":"Anterior",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Ama.Kryos",
-        "Soma":"Arm",
-        "Ekos":null,
-        "Via":"Arc",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Ama.Kryos",
-        "Soma":"Arm",
-        "Ekos":null,
-        "Via":"Below",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Ama.Kryos",
-        "Soma":"Arm",
-        "Ekos":null,
-        "Via":"Cross",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Ama.Kryos",
-        "Soma":"Arm",
-        "Ekos":null,
-        "Via":"CrossArm",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Ama.Kryos",
-        "Soma":"Arm",
-        "Ekos":null,
-        "Via":"CrossArmAbove",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Ama.Kryos",
-        "Soma":"Arm",
-        "Ekos":null,
-        "Via":"CrossArmAboveAnterior",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Ama.Kryos",
-        "Soma":"Arm",
-        "Ekos":null,
-        "Via":"CrossArmAbovePosterior",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Ama.Kryos",
-        "Soma":"Arm",
-        "Ekos":null,
-        "Via":"CrossLeg",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Ama.Kryos",
-        "Soma":"Arm",
-        "Ekos":null,
-        "Via":"CrossMidline",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Ama.Kryos",
-        "Soma":"Arm",
-        "Ekos":null,
-        "Via":"Distal",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Ama.Kryos",
-        "Soma":"Arm",
-        "Ekos":null,
-        "Via":"Down",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Ama.Kryos",
-        "Soma":"Arm",
-        "Ekos":null,
-        "Via":"Lateral",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Ama.Kryos",
-        "Soma":"Arm",
-        "Ekos":null,
-        "Via":"Medial",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Ama.Kryos",
-        "Soma":"Arm",
-        "Ekos":null,
-        "Via":"Posterior",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Ama.Kryos",
-        "Soma":"Arm",
-        "Ekos":null,
-        "Via":"Radial",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Ama.Kryos",
-        "Soma":"Arm",
-        "Ekos":null,
-        "Via":"Up",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Ama.LateralRand",
-        "Soma":"Leg",
-        "Ekos":null,
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Ama.LateralSole",
-        "Soma":"Leg",
-        "Ekos":null,
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":"InsideFlag"
-    },
-    {
-        "Labor":"Ama.MedialRand",
-        "Soma":"Leg",
-        "Ekos":null,
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Ama.Ursus",
-        "Soma":"Arm",
-        "Ekos":null,
-        "Via":"Down",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Ama.Ursus",
-        "Soma":"Arm",
-        "Ekos":null,
-        "Via":"Down,Extension",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Amble",
-        "Soma":"Leg",
-        "Ekos":null,
-        "Via":"Posterior&Down",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Amble",
-        "Soma":"Leg<>",
-        "Ekos":"Volume",
-        "Via":"Up",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Amble",
-        "Soma":null,
-        "Ekos":"Panel",
-        "Via":"Down",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Amble.AnteriorSole",
-        "Soma":"Leg<>",
-        "Ekos":"Panel",
-        "Via":"Down",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Arch",
-        "Soma":"Arm",
-        "Ekos":null,
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Arch",
-        "Soma":"Body",
-        "Ekos":null,
-        "Via":"Anterior",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Arch",
-        "Soma":"Body",
-        "Ekos":null,
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Arch",
-        "Soma":"Leg",
-        "Ekos":null,
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Arch",
-        "Soma":null,
-        "Ekos":null,
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Ateles",
-        "Soma":"1Finger",
-        "Ekos":null,
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Ateles",
-        "Soma":"2Finger",
-        "Ekos":null,
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Ateles",
-        "Soma":"3Finger",
-        "Ekos":null,
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Ateles",
-        "Soma":"4Finger",
-        "Ekos":null,
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Ateles",
-        "Soma":"Arm<>",
-        "Ekos":null,
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":"Ateles implies Arm, so you only need to glyf SOMA when both arms are Ateles"
-    },
-    {
-        "Labor":"Ateles",
-        "Soma":null,
-        "Ekos":"Klimon",
-        "Via":"Horizontal",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Ateles",
-        "Soma":null,
-        "Ekos":"Klimon",
-        "Via":"VerticalCorner",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Ateles",
-        "Soma":null,
-        "Ekos":"Plast",
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Ateles",
-        "Soma":null,
-        "Ekos":"Sloper",
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Ateles",
-        "Soma":null,
-        "Ekos":"Volume",
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Ateles",
-        "Soma":null,
-        "Ekos":null,
-        "Via":"Jug",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Ateles",
-        "Soma":null,
-        "Ekos":null,
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Ateles.Krimp",
-        "Soma":null,
-        "Ekos":null,
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Ballista",
-        "Soma":null,
-        "Ekos":null,
-        "Via":null,
-        "Motor":"ProjectileMotion",
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Ballista",
-        "Soma":null,
-        "Ekos":null,
-        "Via":null,
-        "Motor":"ProjectileMotion,Dynamic",
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Bend",
-        "Soma":"Spine",
-        "Ekos":null,
-        "Via":"Anterior",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Bolt",
-        "Soma":null,
-        "Ekos":null,
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Bolt.Insert",
-        "Soma":null,
-        "Ekos":null,
-        "Via":"Down",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Bolt.Insert",
-        "Soma":null,
-        "Ekos":null,
-        "Via":"Up",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Bolt.Insert",
-        "Soma":null,
-        "Ekos":null,
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Bolt.Remove",
-        "Soma":null,
-        "Ekos":null,
-        "Via":"Down",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Bolt.Remove",
-        "Soma":null,
-        "Ekos":null,
-        "Via":"Up",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Bolt.Remove",
-        "Soma":null,
-        "Ekos":null,
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Bolt.Screw",
-        "Soma":null,
-        "Ekos":null,
-        "Via":"Clockwise,Down",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Bolt.Screw",
-        "Soma":null,
-        "Ekos":null,
-        "Via":"Clockwise,Up",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Bolt.Screw",
-        "Soma":null,
-        "Ekos":null,
-        "Via":"Counterclockwise,Down",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Bolt.Screw",
-        "Soma":null,
-        "Ekos":null,
-        "Via":"Counterclockwise,Up",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Bolt.Test",
-        "Soma":null,
-        "Ekos":null,
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Brachiation",
-        "Soma":null,
-        "Ekos":null,
-        "Via":"180",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Brachiation",
-        "Soma":null,
-        "Ekos":null,
-        "Via":"Anterior",
-        "Motor":null,
-        "Anima":null,
-        "Dev":"(Anterior ?= Forwards)"
-    },
-    {
-        "Labor":"Brachiation",
-        "Soma":null,
-        "Ekos":null,
-        "Via":"Lateral",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Brachiation",
-        "Soma":null,
-        "Ekos":null,
-        "Via":"Posterior",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Brachiation",
-        "Soma":null,
-        "Ekos":null,
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Brachiation.180",
-        "Soma":null,
-        "Ekos":null,
-        "Via":null,
-        "Motor":"Dynamic",
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Brachiation.180",
-        "Soma":null,
-        "Ekos":null,
-        "Via":null,
-        "Motor":"Static",
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Brachiation.180.Match",
-        "Soma":null,
-        "Ekos":null,
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Brachiation.Redirect",
-        "Soma":null,
-        "Ekos":null,
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Brachiation.Ricochet",
-        "Soma":null,
-        "Ekos":null,
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Brush",
-        "Soma":null,
-        "Ekos":null,
-        "Via":null,
-        "Motor":"Dynamic",
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Brush",
-        "Soma":null,
-        "Ekos":null,
-        "Via":null,
-        "Motor":"Static",
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Brush",
-        "Soma":null,
-        "Ekos":null,
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Brush(Chalk)",
-        "Soma":"Hand<>",
-        "Ekos":"Plast",
-        "Via":null,
-        "Motor":"Pressure",
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Brush(Lichen)",
-        "Soma":"Hand<>",
-        "Ekos":"Plast",
-        "Via":null,
-        "Motor":"Pressure",
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Brush(Sediment)",
-        "Soma":"Hand<>",
-        "Ekos":"Rock",
-        "Via":null,
-        "Motor":"Pressure",
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Buckle",
-        "Soma":"Arm",
-        "Ekos":null,
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Buckle",
-        "Soma":"Finger",
-        "Ekos":null,
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Buckle",
-        "Soma":"Leg",
-        "Ekos":null,
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Buckle",
-        "Soma":null,
-        "Ekos":null,
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Bump",
-        "Soma":"Arm",
-        "Ekos":"Klimon",
-        "Via":"Corner.Horizontal,Down",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Bump",
-        "Soma":"Arm",
-        "Ekos":"Klimon",
-        "Via":"Prokline,In",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Bump",
-        "Soma":"Arm",
-        "Ekos":"Klimon",
-        "Via":"Rekline,In",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Bump",
-        "Soma":"Arm",
-        "Ekos":"Klimon",
-        "Via":"VerticalCorner(270)",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Bump",
-        "Soma":"Arm",
-        "Ekos":"Plast",
-        "Via":"Up",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Bump",
-        "Soma":"Arm",
-        "Ekos":null,
-        "Via":"Lateral",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Bump",
-        "Soma":"Arm",
-        "Ekos":null,
-        "Via":"Medial",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Bump",
-        "Soma":"Arm",
-        "Ekos":null,
-        "Via":"Out",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Bump",
-        "Soma":"Arm",
-        "Ekos":null,
-        "Via":"Up",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Bump",
-        "Soma":"Arm",
-        "Ekos":null,
-        "Via":null,
-        "Motor":"Dynamic",
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Bump",
-        "Soma":"Arm",
-        "Ekos":null,
-        "Via":null,
-        "Motor":"Static",
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Bump",
-        "Soma":"Arm",
-        "Ekos":null,
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":"Make room for another Kontakt"
-    },
-    {
-        "Labor":"Bump",
-        "Soma":"Arm",
-        "Ekos":null,
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Bump",
-        "Soma":"Arm<>",
-        "Ekos":"Panel",
-        "Via":"VerticalCorner(270)",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Bump",
-        "Soma":"Arm<>",
-        "Ekos":null,
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Bump",
-        "Soma":"Leg",
-        "Ekos":null,
-        "Via":"Down",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Bump",
-        "Soma":"Leg",
-        "Ekos":null,
-        "Via":"In",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Bump",
-        "Soma":"Leg",
-        "Ekos":null,
-        "Via":"Lateral",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Bump",
-        "Soma":"Leg",
-        "Ekos":null,
-        "Via":"Medial",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Bump",
-        "Soma":"Leg",
-        "Ekos":null,
-        "Via":"Out",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Bump",
-        "Soma":"Leg",
-        "Ekos":null,
-        "Via":"Up",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Bump",
-        "Soma":"Leg",
-        "Ekos":null,
-        "Via":null,
-        "Motor":"Dynamic",
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Bump",
-        "Soma":"Leg",
-        "Ekos":null,
-        "Via":null,
-        "Motor":"Static",
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Bump",
-        "Soma":"Leg",
-        "Ekos":null,
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":"Make room for another Kontakt"
-    },
-    {
-        "Labor":"Bump",
-        "Soma":"Leg",
-        "Ekos":null,
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Bump",
-        "Soma":null,
-        "Ekos":null,
-        "Via":null,
-        "Motor":"Dynamic",
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Bump",
-        "Soma":null,
-        "Ekos":null,
-        "Via":null,
-        "Motor":"Static",
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Bump",
-        "Soma":null,
-        "Ekos":null,
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Bump.Ateles",
-        "Soma":"Arm",
-        "Ekos":null,
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Bump.Match",
-        "Soma":"Arm<>",
-        "Ekos":"Plast",
-        "Via":"Jug,Up",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Cam",
-        "Soma":"Heel,Toe",
-        "Ekos":null,
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Catch",
-        "Soma":"Arm",
-        "Ekos":null,
-        "Via":"Above(Shoulder)",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Catch",
-        "Soma":"Arm",
-        "Ekos":null,
-        "Via":null,
-        "Motor":"Compression",
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Catch",
-        "Soma":"Arm",
-        "Ekos":null,
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Catch",
-        "Soma":"Foot",
-        "Ekos":null,
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Catch",
-        "Soma":"Hand",
-        "Ekos":null,
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Catch",
-        "Soma":"Leg",
-        "Ekos":null,
-        "Via":null,
-        "Motor":"Compression",
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Catch",
-        "Soma":"Leg",
-        "Ekos":null,
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Catch",
-        "Soma":"Toe",
-        "Ekos":null,
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Catch",
-        "Soma":null,
-        "Ekos":null,
-        "Via":null,
-        "Motor":null,
-        "Anima":"Blind",
-        "Dev":null
-    },
-    {
-        "Labor":"Catch",
-        "Soma":null,
-        "Ekos":null,
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Catch.Absorb.Onda.Redirect",
-        "Soma":"Leg<>",
-        "Ekos":"Air",
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Chalk",
-        "Soma":null,
-        "Ekos":null,
-        "Via":null,
-        "Motor":"Dynamic",
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Chalk",
-        "Soma":null,
-        "Ekos":null,
-        "Via":null,
-        "Motor":"Static",
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Chalk",
-        "Soma":null,
-        "Ekos":null,
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Chalk.Blow",
-        "Soma":null,
-        "Ekos":null,
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Chalk.On",
-        "Soma":null,
-        "Ekos":null,
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Chalk.TicMark",
-        "Soma":null,
-        "Ekos":null,
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"ChalkBag",
-        "Soma":null,
-        "Ekos":null,
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"ChalkBag.Klose",
-        "Soma":null,
-        "Ekos":null,
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"ChalkBag.Open",
-        "Soma":null,
-        "Ekos":null,
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Clamp",
-        "Soma":null,
-        "Ekos":null,
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Climb",
-        "Soma":null,
-        "Ekos":null,
-        "Via":"Down",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Clip(Rope)",
-        "Soma":null,
-        "Ekos":null,
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Clipping",
-        "Soma":"Arm",
-        "Ekos":null,
-        "Via":"Extension",
-        "Motor":"Dynamic",
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Clipping",
-        "Soma":"Arm",
-        "Ekos":null,
-        "Via":"Extension",
-        "Motor":"Static",
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Clipping",
-        "Soma":null,
-        "Ekos":null,
-        "Via":null,
-        "Motor":"Dynamic",
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Clipping",
-        "Soma":null,
-        "Ekos":null,
-        "Via":null,
-        "Motor":"Static",
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Clipping",
-        "Soma":null,
-        "Ekos":null,
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Clothes.Knot",
-        "Soma":null,
-        "Ekos":null,
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Clothing.Knot",
-        "Soma":null,
-        "Ekos":null,
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Compression",
-        "Soma":"Arm",
-        "Ekos":null,
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Compression",
-        "Soma":null,
-        "Ekos":null,
-        "Via":null,
-        "Motor":"Dynamic",
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Compression",
-        "Soma":null,
-        "Ekos":null,
-        "Via":null,
-        "Motor":"Static",
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Compression",
-        "Soma":null,
-        "Ekos":null,
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"ConcentricContraction",
-        "Soma":"Finger",
-        "Ekos":null,
-        "Via":"Extension",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"ConcentricContraction",
-        "Soma":"Finger",
-        "Ekos":null,
-        "Via":"Flexion",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"ConcentricContraction",
-        "Soma":"Leg",
-        "Ekos":null,
-        "Via":"Extension",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"ConcentricContraction",
-        "Soma":"Leg",
-        "Ekos":null,
-        "Via":"Flexion",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"ConcentricContraction",
-        "Soma":"Spine",
-        "Ekos":null,
-        "Via":"Extension",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Crimp,Pinza",
-        "Soma":null,
-        "Ekos":null,
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Crimp.Nudge",
-        "Soma":"4Finger",
-        "Ekos":"Plast",
-        "Via":"Site",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Crimp.Wrap",
-        "Soma":"Thumb",
-        "Ekos":null,
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Deadpoint",
-        "Soma":null,
-        "Ekos":null,
-        "Via":"Down",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Deadpoint",
-        "Soma":null,
-        "Ekos":null,
-        "Via":"Up",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Deflection",
-        "Soma":null,
-        "Ekos":null,
-        "Via":"Down",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Deflection",
-        "Soma":null,
-        "Ekos":null,
-        "Via":"Up",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Dismount.Amble",
-        "Soma":"Leg<>",
-        "Ekos":null,
-        "Via":"Posterior",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Double.Progress",
-        "Soma":"Arm&Leg",
-        "Ekos":"Plast",
-        "Via":null,
-        "Motor":"Synkrony",
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"DoubleProgress",
-        "Soma":"Arm&Leg",
-        "Ekos":"Plast",
-        "Via":"Down",
-        "Motor":"Synkrony",
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"DoubleProgress",
-        "Soma":"Arm&Leg",
-        "Ekos":null,
-        "Via":"Up",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"DoubleProgress.Tandem",
-        "Soma":"[Arm,Leg]",
-        "Ekos":null,
-        "Via":"Down",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"DoubleProgress.Tandem",
-        "Soma":"[Arm,Leg]",
-        "Ekos":null,
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"DoubleProgress.Tandem",
-        "Soma":"[Leg,Arm]",
-        "Ekos":null,
-        "Via":"Up",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"DoubleProgress.Tandem",
-        "Soma":"[Leg,Leg]",
-        "Ekos":"Plast",
-        "Via":"Down",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Drag",
-        "Soma":"Arm",
-        "Ekos":null,
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Drag",
-        "Soma":"Leg",
-        "Ekos":null,
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Driver",
-        "Soma":null,
-        "Ekos":null,
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Driver.Button.Press",
-        "Soma":"Finger",
-        "Ekos":null,
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Driver.Button.Press",
-        "Soma":"Thumb",
-        "Ekos":null,
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Driver.Holster",
-        "Soma":null,
-        "Ekos":null,
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Driver.Load(Bolt)",
-        "Soma":null,
-        "Ekos":null,
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Driver.Load(Screw)",
-        "Soma":null,
-        "Ekos":null,
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Driver.Unholster",
-        "Soma":null,
-        "Ekos":null,
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Driver.Unload(Bolt)",
-        "Soma":null,
-        "Ekos":null,
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Driver.Unload(Screw)",
-        "Soma":null,
-        "Ekos":null,
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Drop",
-        "Soma":"Arm",
-        "Ekos":null,
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Drop",
-        "Soma":"Body",
-        "Ekos":null,
-        "Via":"Down",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Drop",
-        "Soma":"Body",
-        "Ekos":null,
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Drop",
-        "Soma":"Leg",
-        "Ekos":null,
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Dyno",
-        "Soma":null,
-        "Ekos":null,
-        "Via":"180",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Dyno",
-        "Soma":null,
-        "Ekos":null,
-        "Via":"90",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Dyno",
-        "Soma":null,
-        "Ekos":null,
-        "Via":"Down",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Dyno",
-        "Soma":null,
-        "Ekos":null,
-        "Via":"Lateral",
-        "Motor":"Deadpoint",
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Dyno",
-        "Soma":null,
-        "Ekos":null,
-        "Via":"Lateral",
-        "Motor":"Dynamic",
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Dyno",
-        "Soma":null,
-        "Ekos":null,
-        "Via":"Lateral",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Dyno",
-        "Soma":null,
-        "Ekos":null,
-        "Via":"Up",
-        "Motor":"Deadpoint",
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Dyno",
-        "Soma":null,
-        "Ekos":null,
-        "Via":"Up",
-        "Motor":"Dynamic",
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Dyno",
-        "Soma":null,
-        "Ekos":null,
-        "Via":"Up",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Dyno.Absorb",
-        "Soma":"Arm",
-        "Ekos":"Plast",
-        "Via":"Jug,Extension,Posterior",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Dyno.Absorb",
-        "Soma":"Arm",
-        "Ekos":null,
-        "Via":"Down",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Dyno.Absorb",
-        "Soma":"Arm",
-        "Ekos":null,
-        "Via":"Flexion,Down",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Dyno.Absorb",
-        "Soma":"Arm",
-        "Ekos":null,
-        "Via":"Up",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Dyno.Absorb",
-        "Soma":"Arm",
-        "Ekos":null,
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Dyno.Absorb",
-        "Soma":"Arm<>",
-        "Ekos":"Plast",
-        "Via":"Jug,Extension",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Dyno.Absorb",
-        "Soma":"Body",
-        "Ekos":"Plast,Volume",
-        "Via":"Down",
-        "Motor":"Gravity",
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Dyno.Absorb",
-        "Soma":"Body",
-        "Ekos":null,
-        "Via":"Anterior",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Dyno.Absorb",
-        "Soma":"Body",
-        "Ekos":null,
-        "Via":"Down",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Dyno.Absorb",
-        "Soma":"Body",
-        "Ekos":null,
-        "Via":"Lateral&Anterior",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Dyno.Absorb",
-        "Soma":"Body",
-        "Ekos":null,
-        "Via":"Lateral&Posterior",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Dyno.Absorb",
-        "Soma":"Body",
-        "Ekos":null,
-        "Via":"Posterior",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Dyno.Absorb",
-        "Soma":"Body",
-        "Ekos":null,
-        "Via":"Rotate",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Dyno.Absorb",
-        "Soma":"Body",
-        "Ekos":null,
-        "Via":"Twist",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Dyno.Absorb",
-        "Soma":"Body",
-        "Ekos":null,
-        "Via":"Up",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Dyno.Absorb",
-        "Soma":"Body",
-        "Ekos":null,
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Dyno.Redirect",
-        "Soma":null,
-        "Ekos":null,
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Dyno.Redirect.Absorb",
-        "Soma":"Arm",
-        "Ekos":null,
-        "Via":"Down",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Dyno.Redirect.Absorb",
-        "Soma":"Arm<>",
-        "Ekos":null,
-        "Via":"Down",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Dyno.Redirect.Absorb.Onda",
-        "Soma":"Arm",
-        "Ekos":null,
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Dyno.Redirect.Absorb.Onda",
-        "Soma":"Arm<>",
-        "Ekos":null,
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Dyno.Redirect.Absorb.Onda",
-        "Soma":"Leg",
-        "Ekos":null,
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Dyno.Redirect.Absorb.Onda",
-        "Soma":"Leg<>",
-        "Ekos":null,
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Dyno.Redirect.Onda",
-        "Soma":"Arm",
-        "Ekos":null,
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Dyno.Redirect.Onda",
-        "Soma":"Arm<>",
-        "Ekos":null,
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Dyno.Redirect.Onda",
-        "Soma":"Leg",
-        "Ekos":null,
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Dyno.Redirect.Onda",
-        "Soma":"Leg<>",
-        "Ekos":null,
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Dyno.Redirect.Pendulate",
-        "Soma":"Arm",
-        "Ekos":null,
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Dyno.Redirect.Pendulate",
-        "Soma":"Arm<>",
-        "Ekos":null,
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Dyno.Redirect.Pendulate",
-        "Soma":"Leg",
-        "Ekos":null,
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Dyno.Redirect.Pendulate",
-        "Soma":"Leg<>",
-        "Ekos":null,
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"EccentricContraction",
-        "Soma":"Leg",
-        "Ekos":null,
-        "Via":"Extension",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"EccentricContraction",
-        "Soma":"Leg",
-        "Ekos":null,
-        "Via":"Flexion",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"EccentricContraction",
-        "Soma":"Spine",
-        "Ekos":null,
-        "Via":"Extension",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Error",
-        "Soma":"AnteriorDeltoid",
-        "Ekos":null,
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Error",
-        "Soma":"Arm",
-        "Ekos":null,
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Error",
-        "Soma":"Bicep",
-        "Ekos":null,
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Error",
-        "Soma":"Cheek",
-        "Ekos":null,
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Error",
-        "Soma":"Chin",
-        "Ekos":null,
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Error",
-        "Soma":"Deltoid",
-        "Ekos":null,
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Error",
-        "Soma":"Elbow",
-        "Ekos":null,
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Error",
-        "Soma":"Finger",
-        "Ekos":null,
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Error",
-        "Soma":"Fingertip",
-        "Ekos":null,
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Error",
-        "Soma":"Forearm",
-        "Ekos":null,
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Error",
-        "Soma":"Gastrocnemius",
-        "Ekos":null,
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Error",
-        "Soma":"Hamstrings",
-        "Ekos":null,
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Error",
-        "Soma":"Hand.Dorsal",
-        "Ekos":null,
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Error",
-        "Soma":"Hand.Palm",
-        "Ekos":null,
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Error",
-        "Soma":"Head",
-        "Ekos":null,
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Error",
-        "Soma":"Hypothenar",
-        "Ekos":null,
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Error",
-        "Soma":"InnerThigh",
-        "Ekos":null,
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Error",
-        "Soma":"Knee",
-        "Ekos":null,
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Error",
-        "Soma":"LatissimusDorsi",
-        "Ekos":null,
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Error",
-        "Soma":"Leg",
-        "Ekos":null,
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Error",
-        "Soma":"MedialDeltoid",
-        "Ekos":null,
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Error",
-        "Soma":"Neck",
-        "Ekos":null,
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Error",
-        "Soma":"ObliquusExternus",
-        "Ekos":null,
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Error",
-        "Soma":"Pectoral",
-        "Ekos":null,
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Error",
-        "Soma":"PosteriorDeltoid",
-        "Ekos":null,
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Error",
-        "Soma":"Quadriceps",
-        "Ekos":null,
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Error",
-        "Soma":"RectusAbdominis",
-        "Ekos":null,
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Error",
-        "Soma":"Scapula",
-        "Ekos":null,
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Error",
-        "Soma":"Shoulder",
-        "Ekos":null,
-        "Via":"Rotation.Medial&Protraction",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Error",
-        "Soma":"Shoulder",
-        "Ekos":null,
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Error",
-        "Soma":"Thenar",
-        "Ekos":null,
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Error",
-        "Soma":"Thigh",
-        "Ekos":null,
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Error",
-        "Soma":"Tricep",
-        "Ekos":null,
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Error",
-        "Soma":"UpperTrapezius",
-        "Ekos":null,
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Error",
-        "Soma":"Wrist",
-        "Ekos":null,
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Error",
-        "Soma":null,
-        "Ekos":null,
-        "Via":"Hyper",
-        "Motor":"Acceleration",
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Error",
-        "Soma":null,
-        "Ekos":null,
-        "Via":"Hyper",
-        "Motor":"Dynamic",
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Error",
-        "Soma":null,
-        "Ekos":null,
-        "Via":"Hyper",
-        "Motor":"Energy",
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Error",
-        "Soma":null,
-        "Ekos":null,
-        "Via":"Hyper",
-        "Motor":"Momentum",
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Error",
-        "Soma":null,
-        "Ekos":null,
-        "Via":"Hyper",
-        "Motor":"Velocity",
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Error",
-        "Soma":null,
-        "Ekos":null,
-        "Via":"Hyper(Displacement)",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Error",
-        "Soma":null,
-        "Ekos":null,
-        "Via":"Hyper(Distance)",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Error",
-        "Soma":null,
-        "Ekos":null,
-        "Via":"Hypo",
-        "Motor":"Acceleration",
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Error",
-        "Soma":null,
-        "Ekos":null,
-        "Via":"Hypo",
-        "Motor":"Energy",
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Error",
-        "Soma":null,
-        "Ekos":null,
-        "Via":"Hypo",
-        "Motor":"Momentum",
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Error",
-        "Soma":null,
-        "Ekos":null,
-        "Via":"Hypo",
-        "Motor":"Velocity",
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Error",
-        "Soma":null,
-        "Ekos":null,
-        "Via":"Hypo(Displacement)",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Error",
-        "Soma":null,
-        "Ekos":null,
-        "Via":null,
-        "Motor":null,
-        "Anima":"Hesitation",
-        "Dev":null
-    },
-    {
-        "Labor":"Error,Absorb",
-        "Soma":null,
-        "Ekos":null,
-        "Via":"Hypo(Distance)",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Error,ChickenWing",
-        "Soma":"Fatigue",
-        "Ekos":null,
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Error,Fall",
-        "Soma":null,
-        "Ekos":null,
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Error,Fall.Ama",
-        "Soma":"Arm",
-        "Ekos":null,
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Error,Fall.Ama",
-        "Soma":"Leg",
-        "Ekos":null,
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Error,Gibbon.Charging",
-        "Soma":null,
-        "Ekos":null,
-        "Via":"Hypo(Distance)",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Error,Lemur.Charging",
-        "Soma":null,
-        "Ekos":null,
-        "Via":"Hypo(Distance)",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Error,Progress",
-        "Soma":"Arm",
-        "Ekos":null,
-        "Via":"Hyper",
-        "Motor":"Dynamic",
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Error,Progress",
-        "Soma":"Arm",
-        "Ekos":null,
-        "Via":"Hyper",
-        "Motor":"Static",
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Error,Progress",
-        "Soma":"Arm",
-        "Ekos":null,
-        "Via":"Hypo",
-        "Motor":"Dynamic",
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Error,Progress",
-        "Soma":"Arm",
-        "Ekos":null,
-        "Via":"Hypo",
-        "Motor":"Static",
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Error,Progress",
-        "Soma":"Leg",
-        "Ekos":null,
-        "Via":"Hyper",
-        "Motor":"Dynamic",
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Error,Progress",
-        "Soma":"Leg",
-        "Ekos":null,
-        "Via":"Hyper",
-        "Motor":"Static",
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Error,Progress",
-        "Soma":"Leg",
-        "Ekos":null,
-        "Via":"Hypo",
-        "Motor":"Dynamic",
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Error,Progress",
-        "Soma":"Leg",
-        "Ekos":null,
-        "Via":"Hypo",
-        "Motor":"Static",
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Error,Progress",
-        "Soma":null,
-        "Ekos":null,
-        "Via":"Hyper",
-        "Motor":"Dynamic",
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Error,Progress",
-        "Soma":null,
-        "Ekos":null,
-        "Via":"Hyper",
-        "Motor":"Static",
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Error,Progress",
-        "Soma":null,
-        "Ekos":null,
-        "Via":"Hypo",
-        "Motor":"Dynamic",
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Error,Progress",
-        "Soma":null,
-        "Ekos":null,
-        "Via":"Hypo",
-        "Motor":"Static",
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Error,Rope.Wrap",
-        "Soma":"Leg",
-        "Ekos":null,
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":"Tangle"
-    },
-    {
-        "Labor":"Error,Slip",
-        "Soma":"Foot",
-        "Ekos":"WetSite",
-        "Via":null,
-        "Motor":"Friction",
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Error,Slip",
-        "Soma":"Foot",
-        "Ekos":null,
-        "Via":null,
-        "Motor":"Friction",
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Error,Slip",
-        "Soma":"Hand",
-        "Ekos":"WetSite",
-        "Via":null,
-        "Motor":"Friction",
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Error,Slip",
-        "Soma":"Hand",
-        "Ekos":null,
-        "Via":null,
-        "Motor":"Friction",
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Error,Slip",
-        "Soma":null,
-        "Ekos":null,
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Etrier.Ateles",
-        "Soma":null,
-        "Ekos":null,
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Eval",
-        "Soma":"Arm",
-        "Ekos":null,
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Eval",
-        "Soma":"Leg",
-        "Ekos":null,
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Expand",
-        "Soma":"Arm",
-        "Ekos":null,
-        "Via":"ExternalRotation",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Expansion",
-        "Soma":null,
-        "Ekos":null,
-        "Via":null,
-        "Motor":"Dynamic",
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Expansion",
-        "Soma":null,
-        "Ekos":null,
-        "Via":null,
-        "Motor":"Static",
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Extension",
-        "Soma":"Thumb",
-        "Ekos":null,
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Fall",
-        "Soma":null,
-        "Ekos":null,
-        "Via":"Twist",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Fall",
-        "Soma":null,
-        "Ekos":null,
-        "Via":null,
-        "Motor":"Gravity",
-        "Anima":"Controlled",
-        "Dev":null
-    },
-    {
-        "Labor":"Fall",
-        "Soma":null,
-        "Ekos":null,
-        "Via":null,
-        "Motor":"Gravity",
-        "Anima":"Uncontrolled",
-        "Dev":null
-    },
-    {
-        "Labor":"Figure4.Pongo.Ateles",
-        "Soma":"Leg(Arm)",
-        "Ekos":null,
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Figure4.Pongo.Pinza",
-        "Soma":"Leg(Arm)",
-        "Ekos":null,
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Figure4.Wrap",
-        "Soma":"Leg(Arm)",
-        "Ekos":null,
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Figure9.Piolet",
-        "Soma":null,
-        "Ekos":null,
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Figure9.Wrap",
-        "Soma":"Leg(Arm)",
-        "Ekos":null,
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Finish.Match.Ateles",
-        "Soma":null,
-        "Ekos":"Plast",
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Finish.Progress",
-        "Soma":"Arm",
-        "Ekos":"Plast",
-        "Via":"Up",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Foka",
-        "Soma":null,
-        "Ekos":null,
-        "Via":"Anterior",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Foka",
-        "Soma":null,
-        "Ekos":null,
-        "Via":"Lateral",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Foka",
-        "Soma":null,
-        "Ekos":null,
-        "Via":"Posterior",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"GearLoop.Clip",
-        "Soma":null,
-        "Ekos":null,
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"GearLoop.Unclip",
-        "Soma":null,
-        "Ekos":null,
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"GriGri.Ateles",
-        "Soma":null,
-        "Ekos":null,
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"GriGri.Bonobo",
-        "Soma":null,
-        "Ekos":null,
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"GriGri.Transport",
-        "Soma":null,
-        "Ekos":null,
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Grip",
-        "Soma":"2Finger",
-        "Ekos":null,
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Grip",
-        "Soma":"3Finger",
-        "Ekos":null,
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Grip",
-        "Soma":"4Finger",
-        "Ekos":null,
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Grip",
-        "Soma":null,
-        "Ekos":null,
-        "Via":"Jug",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Hammer",
-        "Soma":null,
-        "Ekos":null,
-        "Via":"Down",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Hammer",
-        "Soma":null,
-        "Ekos":null,
-        "Via":"In",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Hammer",
-        "Soma":null,
-        "Ekos":null,
-        "Via":"Lateral",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Hammer",
-        "Soma":null,
-        "Ekos":null,
-        "Via":"Medial",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Hammer",
-        "Soma":null,
-        "Ekos":null,
-        "Via":"Up",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Hammer",
-        "Soma":null,
-        "Ekos":null,
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Hammer.Holster",
-        "Soma":null,
-        "Ekos":null,
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Hammer.Modify",
-        "Soma":null,
-        "Ekos":null,
-        "Via":"Up",
-        "Motor":null,
-        "Anima":null,
-        "Dev":"Choke up on the handle for finer Aktion control"
-    },
-    {
-        "Labor":"Hammer.Modify",
-        "Soma":null,
-        "Ekos":null,
-        "Via":"Up",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Hammer.Transport",
-        "Soma":null,
-        "Ekos":null,
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"HammerHit",
-        "Soma":null,
-        "Ekos":null,
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Hang",
-        "Soma":"Arm",
-        "Ekos":null,
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Hang",
-        "Soma":"Leg",
-        "Ekos":null,
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Hanger.Clip",
-        "Soma":null,
-        "Ekos":null,
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"HangingFootTransfer",
-        "Soma":null,
-        "Ekos":null,
-        "Via":null,
-        "Motor":"Dynamic",
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"HangingFootTransfer",
-        "Soma":null,
-        "Ekos":null,
-        "Via":null,
-        "Motor":"Static",
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Harness",
-        "Soma":null,
-        "Ekos":null,
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Harness.Modify",
-        "Soma":null,
-        "Ekos":null,
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Harness.Off",
-        "Soma":null,
-        "Ekos":null,
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Harness.On",
-        "Soma":null,
-        "Ekos":null,
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Helix(\"Bring elbow down in an arc, like a screw. AdductionArm\")",
-        "Soma":"Arm",
-        "Ekos":null,
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Helmet",
-        "Soma":null,
-        "Ekos":null,
-        "Via":null,
-        "Motor":"Impakt",
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Helmet.Clip",
-        "Soma":null,
-        "Ekos":null,
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Helmet.Loosen",
-        "Soma":null,
-        "Ekos":null,
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Helmet.Modify",
-        "Soma":null,
-        "Ekos":null,
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Helmet.On",
-        "Soma":null,
-        "Ekos":null,
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Helmet.Remove",
-        "Soma":null,
-        "Ekos":null,
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Helmet.Tighten",
-        "Soma":null,
-        "Ekos":null,
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Hook",
-        "Soma":"Arm",
-        "Ekos":null,
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Hook",
-        "Soma":"Elbow",
-        "Ekos":null,
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Hook",
-        "Soma":"Finger",
-        "Ekos":null,
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Hook",
-        "Soma":"Heel",
-        "Ekos":null,
-        "Via":"AboveHead",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Hook",
-        "Soma":"Heel",
-        "Ekos":null,
-        "Via":"Below",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Hook",
-        "Soma":"Heel",
-        "Ekos":null,
-        "Via":"Horizontal",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Hook",
-        "Soma":"Heel",
-        "Ekos":null,
-        "Via":"Lateral",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Hook",
-        "Soma":"Heel",
-        "Ekos":null,
-        "Via":"Medial",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Hook",
-        "Soma":"Heel",
-        "Ekos":null,
-        "Via":"Vertical",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Hook",
-        "Soma":"Heel<>",
-        "Ekos":null,
-        "Via":"AboveHead",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Hook",
-        "Soma":"Heel<>",
-        "Ekos":null,
-        "Via":"Below",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Hook",
-        "Soma":"Heel<>",
-        "Ekos":null,
-        "Via":"Horizontal",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Hook",
-        "Soma":"Heel<>",
-        "Ekos":null,
-        "Via":"Lateral",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Hook",
-        "Soma":"Heel<>",
-        "Ekos":null,
-        "Via":"Medial",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Hook",
-        "Soma":"Heel<>",
-        "Ekos":null,
-        "Via":"Vertical",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Hook",
-        "Soma":"Knee",
-        "Ekos":null,
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Hook",
-        "Soma":"Leg",
-        "Ekos":null,
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Hook",
-        "Soma":"Shoulder",
-        "Ekos":null,
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Hook",
-        "Soma":"Toe",
-        "Ekos":null,
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Hook",
-        "Soma":"Wrist",
-        "Ekos":null,
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Hook",
-        "Soma":null,
-        "Ekos":null,
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Hook,Push",
-        "Soma":"Heel",
-        "Ekos":null,
-        "Via":"Horizontal,To.Klimon",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Hook.Kryos",
-        "Soma":"Arm",
-        "Ekos":null,
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Hook.Kryos",
-        "Soma":"Elbow",
-        "Ekos":null,
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Hook.Kryos",
-        "Soma":"Finger",
-        "Ekos":null,
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Hook.Kryos",
-        "Soma":"Heel",
-        "Ekos":null,
-        "Via":"Horizontal",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Hook.Kryos",
-        "Soma":"Heel",
-        "Ekos":null,
-        "Via":"Vertical",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Hook.Kryos",
-        "Soma":"Heel",
-        "Ekos":null,
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Hook.Kryos",
-        "Soma":"Knee",
-        "Ekos":null,
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Hook.Kryos",
-        "Soma":"Leg",
-        "Ekos":null,
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Hook.Kryos",
-        "Soma":"Shoulder",
-        "Ekos":null,
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Hook.Kryos",
-        "Soma":"Toe",
-        "Ekos":null,
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Hook.Kryos",
-        "Soma":"Wrist",
-        "Ekos":null,
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Hook.Kryos",
-        "Soma":null,
-        "Ekos":null,
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Hook.Vertical",
-        "Soma":"Heel",
-        "Ekos":null,
-        "Via":"Above(Hips)",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Hook.Vertical",
-        "Soma":"Heel",
-        "Ekos":null,
-        "Via":"Below(Hips)",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"HookPull",
-        "Soma":"Heel",
-        "Ekos":null,
-        "Via":"HorizontalHook,From.Klimon",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Hop.MedialSole",
-        "Soma":"Leg",
-        "Ekos":"Plast",
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Hug",
-        "Soma":"Arm,Chest",
-        "Ekos":null,
-        "Via":null,
-        "Motor":"Compression",
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Iguana",
-        "Soma":"Arm",
-        "Ekos":null,
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Iguana",
-        "Soma":"Leg",
-        "Ekos":"Plast",
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Iguana",
-        "Soma":"Leg",
-        "Ekos":null,
-        "Via":"Adduction",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Iguana",
-        "Soma":"Leg",
-        "Ekos":null,
-        "Via":"To.Klimon&Lateral)",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Iguana",
-        "Soma":"Leg",
-        "Ekos":null,
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Iguana",
-        "Soma":"Leg<>",
-        "Ekos":null,
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Iguana",
-        "Soma":null,
-        "Ekos":null,
-        "Via":"Anterior",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Iguana",
-        "Soma":null,
-        "Ekos":null,
-        "Via":"Down",
-        "Motor":null,
-        "Anima":null,
-        "Dev":"AlsoKnownAs(\"Drop Knee\")"
-    },
-    {
-        "Labor":"Iguana",
-        "Soma":null,
-        "Ekos":null,
-        "Via":"Down",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Iguana",
-        "Soma":null,
-        "Ekos":null,
-        "Via":"Lateral",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Iguana",
-        "Soma":null,
-        "Ekos":null,
-        "Via":"Up",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Iguana",
-        "Soma":null,
-        "Ekos":null,
-        "Via":null,
-        "Motor":"Dynamic",
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Iguana",
-        "Soma":null,
-        "Ekos":null,
-        "Via":null,
-        "Motor":"Static",
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Iguana",
-        "Soma":null,
-        "Ekos":null,
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":"(PerpendicularTo.Klimon&Down == OverhangKlimon)"
-    },
-    {
-        "Labor":"Iguana.AnteriorSole",
-        "Soma":"Leg",
-        "Ekos":"Volume",
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Iguana.AnteriorSole",
-        "Soma":null,
-        "Ekos":null,
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Iguana.LateralSole",
-        "Soma":null,
-        "Ekos":null,
-        "Via":"Down",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Iguana.LateralSole",
-        "Soma":null,
-        "Ekos":null,
-        "Via":"Medial",
-        "Motor":null,
-        "Anima":null,
-        "Dev":"AlsoKnownAs(\"Back step\")"
-    },
-    {
-        "Labor":"Iguana.MedialSole",
-        "Soma":"Leg",
-        "Ekos":"Plast",
-        "Via":"Down&Lateral",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Iguana.MedialSole",
-        "Soma":"Leg",
-        "Ekos":"Plast",
-        "Via":"Lateral",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Iguana.MedialSole",
-        "Soma":"Leg",
-        "Ekos":null,
-        "Via":"Lateral",
-        "Motor":"Dynamic",
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Iguana.MedialSole",
-        "Soma":"Leg",
-        "Ekos":null,
-        "Via":"Lateral",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Iguana.MedialSole",
-        "Soma":"Leg",
-        "Ekos":null,
-        "Via":"Lateral&In,Flexion(>90)",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Iguana.MedialSole",
-        "Soma":"Leg",
-        "Ekos":null,
-        "Via":"Lateral&Up",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Iguana.Pivot.AnteriorSole",
-        "Soma":"Leg",
-        "Ekos":"Volume",
-        "Via":"To.Lateral)",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Iguana.Pivot.AnteriorSole",
-        "Soma":"Leg",
-        "Ekos":null,
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Iguana.Roll.LateralSole",
-        "Soma":"Leg",
-        "Ekos":"Plast",
-        "Via":"Lateral",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Iguana.Roll.MedialSole",
-        "Soma":"Leg",
-        "Ekos":"Plast",
-        "Via":"Anterior&ParallelKlimon",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Iguana.Roll.MedialSole",
-        "Soma":"Leg",
-        "Ekos":"Plast",
-        "Via":"Lateral",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"IsometricContraction",
-        "Soma":"Spine",
-        "Ekos":null,
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Jam",
-        "Soma":"Arm",
-        "Ekos":null,
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Jam",
-        "Soma":"Body",
-        "Ekos":null,
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Jam",
-        "Soma":"Foot",
-        "Ekos":null,
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Jam",
-        "Soma":"Hand",
-        "Ekos":null,
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Jam",
-        "Soma":"Knee",
-        "Ekos":null,
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Jam",
-        "Soma":"Leg",
-        "Ekos":null,
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Jam",
-        "Soma":null,
-        "Ekos":null,
-        "Via":null,
-        "Motor":"Dynamic",
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Jam",
-        "Soma":null,
-        "Ekos":null,
-        "Via":null,
-        "Motor":"Static",
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Jam.Slot",
-        "Soma":"Hand",
-        "Ekos":null,
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Jam.Slot",
-        "Soma":"Leg",
-        "Ekos":null,
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Kangaroo",
-        "Soma":"Leg",
-        "Ekos":null,
-        "Via":"Up",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Karabiner.Clip",
-        "Soma":null,
-        "Ekos":null,
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Karabiner.Clip.Chain",
-        "Soma":null,
-        "Ekos":null,
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Karabiner.Clip.Etrier",
-        "Soma":null,
-        "Ekos":null,
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Karabiner.Clip.GriGri",
-        "Soma":null,
-        "Ekos":null,
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Karabiner.Clip.Hanger",
-        "Soma":null,
-        "Ekos":null,
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Karabiner.Clip.Harness",
-        "Soma":null,
-        "Ekos":null,
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Karabiner.Clip.Karabiner",
-        "Soma":null,
-        "Ekos":null,
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Karabiner.Clip.Rope",
-        "Soma":null,
-        "Ekos":null,
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Karabiner.Clip.Sling",
-        "Soma":null,
-        "Ekos":null,
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Karabiner.Gate.Close",
-        "Soma":null,
-        "Ekos":null,
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Karabiner.Gate.Open",
-        "Soma":null,
-        "Ekos":null,
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Karabiner.Slide",
-        "Soma":null,
-        "Ekos":null,
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Karabiner.Transport",
-        "Soma":null,
-        "Ekos":null,
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Karabiner.Unclip",
-        "Soma":null,
-        "Ekos":null,
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Kneebar",
-        "Soma":"Leg",
-        "Ekos":"Prokline",
-        "Via":"Anterior",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Kneebar",
-        "Soma":"Leg",
-        "Ekos":"Prokline",
-        "Via":"Lateral",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Kneebar",
-        "Soma":"Leg<>",
-        "Ekos":"Prokline",
-        "Via":"Anterior",
-        "Motor":null,
-        "Anima":null,
-        "Dev":"Find a name for Armbar what is the name of this mechanism like a fastening device, they can probably be found from premodern clothing design "
-    },
-    {
-        "Labor":"Kneebar",
-        "Soma":"Leg<>",
-        "Ekos":"Prokline",
-        "Via":"Lateral",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Kneebar",
-        "Soma":"Leg<>",
-        "Ekos":null,
-        "Via":"Anterior",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Kneebar",
-        "Soma":"Leg<>",
-        "Ekos":null,
-        "Via":"Lateral",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Kneebar",
-        "Soma":null,
-        "Ekos":null,
-        "Via":"Anterior",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Kneebar",
-        "Soma":null,
-        "Ekos":null,
-        "Via":"Lateral",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Kneebar.Match",
-        "Soma":"Leg<>",
-        "Ekos":null,
-        "Via":"Anterior",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Kneebar.Match",
-        "Soma":"Leg<>",
-        "Ekos":null,
-        "Via":"Lateral",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Knot.Figure8",
-        "Soma":null,
-        "Ekos":null,
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Kompress",
-        "Soma":"Arm",
-        "Ekos":null,
-        "Via":"InternalRotation",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Kompress",
-        "Soma":"Arm<>",
-        "Ekos":"Arete",
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Kompress",
-        "Soma":"Arm<>",
-        "Ekos":"Bulge",
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Kompress",
-        "Soma":"Arm<>",
-        "Ekos":"Prokline&Arete",
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Kompress",
-        "Soma":"Arm<>",
-        "Ekos":"Prokline&Bulge",
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Kompress",
-        "Soma":"Arm<>",
-        "Ekos":"Prow",
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Kompress",
-        "Soma":"Arm<>",
-        "Ekos":"Rekline&Arete",
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Kompress",
-        "Soma":"Arm<>",
-        "Ekos":"Rekline&Bulge",
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Kompress",
-        "Soma":"Arm<>",
-        "Ekos":null,
-        "Via":"Asymmetric",
-        "Motor":"Dynamic",
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Kompress",
-        "Soma":"Arm<>",
-        "Ekos":null,
-        "Via":"Asymmetric",
-        "Motor":"Static",
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Kompress",
-        "Soma":"Arm<>",
-        "Ekos":null,
-        "Via":"Asymmetric",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Kompress",
-        "Soma":"Arm<>",
-        "Ekos":null,
-        "Via":"Symmetric",
-        "Motor":"Dynamic",
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Kompress",
-        "Soma":"Arm<>",
-        "Ekos":null,
-        "Via":"Symmetric",
-        "Motor":"Static",
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Kompress",
-        "Soma":"Arm<>",
-        "Ekos":null,
-        "Via":"Symmetric",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Kompress",
-        "Soma":"Arm<>",
-        "Ekos":null,
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Kompress",
-        "Soma":"Leg<>",
-        "Ekos":null,
-        "Via":"Asymmetric",
-        "Motor":"Dynamic",
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Kompress",
-        "Soma":"Leg<>",
-        "Ekos":null,
-        "Via":"Asymmetric",
-        "Motor":"Static",
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Kompress",
-        "Soma":"Leg<>",
-        "Ekos":null,
-        "Via":"Symmetric",
-        "Motor":"Dynamic",
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Kompress",
-        "Soma":"Leg<>",
-        "Ekos":null,
-        "Via":"Symmetric",
-        "Motor":"Static",
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Kompress.Pongo",
-        "Soma":"Arm<>",
-        "Ekos":null,
-        "Via":"Above",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Kompress.Pongo",
-        "Soma":"Arm<>",
-        "Ekos":null,
-        "Via":"Anterior",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Kompress.Pongo",
-        "Soma":"Arm<>",
-        "Ekos":null,
-        "Via":"Lateral",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Kompress.Pongo",
-        "Soma":"Arm<>",
-        "Ekos":null,
-        "Via":"Lateral&Anterior",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Kompress.Toggle",
-        "Soma":"Arm<>",
-        "Ekos":null,
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Kompress.Wrap",
-        "Soma":"Arm<>",
-        "Ekos":null,
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":"Hug"
-    },
-    {
-        "Labor":"Kontakt",
-        "Soma":"AnteriorDeltoid",
-        "Ekos":null,
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Kontakt",
-        "Soma":"Arm",
-        "Ekos":null,
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Kontakt",
-        "Soma":"Bicep",
-        "Ekos":null,
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Kontakt",
-        "Soma":"Cheek",
-        "Ekos":null,
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Kontakt",
-        "Soma":"Chin",
-        "Ekos":null,
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Kontakt",
-        "Soma":"Deltoid",
-        "Ekos":null,
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Kontakt",
-        "Soma":"Elbow",
-        "Ekos":null,
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Kontakt",
-        "Soma":"Finger",
-        "Ekos":null,
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Kontakt",
-        "Soma":"Fingertip",
-        "Ekos":null,
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Kontakt",
-        "Soma":"Forearm",
-        "Ekos":null,
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Kontakt",
-        "Soma":"Gastrocnemius",
-        "Ekos":null,
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Kontakt",
-        "Soma":"Hamstrings",
-        "Ekos":null,
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Kontakt",
-        "Soma":"Hand.Dorsal",
-        "Ekos":null,
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Kontakt",
-        "Soma":"Hand.Palm",
-        "Ekos":null,
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Kontakt",
-        "Soma":"Head",
-        "Ekos":null,
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Kontakt",
-        "Soma":"Hypothenar",
-        "Ekos":null,
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Kontakt",
-        "Soma":"InnerThigh",
-        "Ekos":null,
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Kontakt",
-        "Soma":"Knee",
-        "Ekos":null,
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Kontakt",
-        "Soma":"LatissimusDorsi",
-        "Ekos":null,
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Kontakt",
-        "Soma":"Leg",
-        "Ekos":null,
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Kontakt",
-        "Soma":"Leg.Hip",
-        "Ekos":null,
-        "Via":"Extension",
-        "Motor":null,
-        "Anima":null,
-        "Dev":"Preventing BarnDoor"
-    },
-    {
-        "Labor":"Kontakt",
-        "Soma":"MedialDeltoid",
-        "Ekos":null,
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Kontakt",
-        "Soma":"Neck",
-        "Ekos":null,
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Kontakt",
-        "Soma":"ObliquusExternus",
-        "Ekos":null,
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Kontakt",
-        "Soma":"Pectoral",
-        "Ekos":null,
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Kontakt",
-        "Soma":"PosteriorDeltoid",
-        "Ekos":null,
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Kontakt",
-        "Soma":"Quadriceps",
-        "Ekos":null,
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Kontakt",
-        "Soma":"RectusAbdominis",
-        "Ekos":null,
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Kontakt",
-        "Soma":"Scapula",
-        "Ekos":null,
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Kontakt",
-        "Soma":"Shoulder",
-        "Ekos":null,
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Kontakt",
-        "Soma":"Thenar",
-        "Ekos":null,
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Kontakt",
-        "Soma":"Thigh",
-        "Ekos":null,
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Kontakt",
-        "Soma":"Tricep",
-        "Ekos":null,
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Kontakt",
-        "Soma":"UpperTrapezius",
-        "Ekos":null,
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Kontakt",
-        "Soma":"Wrist",
-        "Ekos":null,
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Kontakt.AnteriorSole",
-        "Soma":"Leg",
-        "Ekos":"Plast",
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Kontakt.AnteriorSole",
-        "Soma":null,
-        "Ekos":null,
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Kontakt.MedialSole",
-        "Soma":"Leg",
-        "Ekos":"Plast",
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Kryos",
-        "Soma":"Arm",
-        "Ekos":"Plast",
-        "Via":"Flexion",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Kryos",
-        "Soma":"Arm",
-        "Ekos":"Plast",
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Kryos",
-        "Soma":"Arm",
-        "Ekos":null,
-        "Via":"Flexion",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Kryos",
-        "Soma":"Arm",
-        "Ekos":null,
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Kryos",
-        "Soma":"Arm<>",
-        "Ekos":null,
-        "Via":"Proximity",
-        "Motor":null,
-        "Anima":null,
-        "Dev":"Maintain chest proximity to Klimon"
-    },
-    {
-        "Labor":"Kryos",
-        "Soma":"Elbow",
-        "Ekos":null,
-        "Via":"Neutral",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Kryos",
-        "Soma":"Foot",
-        "Ekos":null,
-        "Via":null,
-        "Motor":"Friction",
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Kryos",
-        "Soma":"Foot",
-        "Ekos":null,
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Kryos",
-        "Soma":"Hips",
-        "Ekos":null,
-        "Via":"PerpendicularTo.Klimon",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Kryos",
-        "Soma":"Hips",
-        "Ekos":null,
-        "Via":"PerpendicularToKlimon",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Kryos",
-        "Soma":"Hips&Shoulder",
-        "Ekos":null,
-        "Via":"ParallelTo.Klimon",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Kryos",
-        "Soma":"Hips&Shoulder",
-        "Ekos":null,
-        "Via":"PerpendicularTo.Klimon",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Kryos",
-        "Soma":"Leg",
-        "Ekos":"Air",
-        "Via":null,
-        "Motor":null,
-        "Anima":"Balance",
-        "Dev":null
-    },
-    {
-        "Labor":"Kryos",
-        "Soma":"Leg",
-        "Ekos":"Plast",
-        "Via":"Flexion",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Kryos",
-        "Soma":"Leg",
-        "Ekos":"Plast",
-        "Via":"Posterior,Extension",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Kryos",
-        "Soma":"Leg",
-        "Ekos":null,
-        "Via":"Extension",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Kryos",
-        "Soma":"Leg",
-        "Ekos":null,
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Kryos",
-        "Soma":"Leg<>",
-        "Ekos":"Panel",
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Kryos",
-        "Soma":"Leg<>.Hips",
-        "Ekos":null,
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Kryos",
-        "Soma":"Spine",
-        "Ekos":null,
-        "Via":"Extension",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Kryos",
-        "Soma":"Spine",
-        "Ekos":null,
-        "Via":"Flexion",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Kryos",
-        "Soma":"Spine",
-        "Ekos":null,
-        "Via":"Neutral",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Kryos",
-        "Soma":"Tibia",
-        "Ekos":null,
-        "Via":"Position",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Kryos",
-        "Soma":"Tibia",
-        "Ekos":null,
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Kryos",
-        "Soma":"Torso",
-        "Ekos":null,
-        "Via":"ParallelTo.Klimon",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Kryos",
-        "Soma":"Torso",
-        "Ekos":null,
-        "Via":"PerpendicularTo.Klimon",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Kryos",
-        "Soma":"Torso",
-        "Ekos":null,
-        "Via":"PerpendicularToKlimon",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Kryos",
-        "Soma":"Wrist",
-        "Ekos":null,
-        "Via":"Neutral",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Kryos(Smear)",
-        "Soma":"Chin",
-        "Ekos":null,
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Kryos(Smear)",
-        "Soma":"Cranium",
-        "Ekos":null,
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Kryos(Smear)",
-        "Soma":"Foot",
-        "Ekos":"Klimon",
-        "Via":"Slab",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Kryos(Smear)",
-        "Soma":"Foot",
-        "Ekos":"Plast",
-        "Via":"Slab",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Kryos(Smear)",
-        "Soma":"Foot",
-        "Ekos":null,
-        "Via":"Slab",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Kryos(Smear)",
-        "Soma":"Hand",
-        "Ekos":"HorizontalCornerKlimon",
-        "Via":"Slab",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Kryos(Smear)",
-        "Soma":"Hand",
-        "Ekos":"Klimon",
-        "Via":"Slab",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Kryos(Smear)",
-        "Soma":"Hand",
-        "Ekos":"Plast",
-        "Via":"Slab",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Kryos(Smear)",
-        "Soma":"Hand",
-        "Ekos":"VerticalCorner",
-        "Via":"Slab",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Kryos(Smear)",
-        "Soma":"Hand",
-        "Ekos":"Volume",
-        "Via":"Slab",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Kryos(Smear)",
-        "Soma":"Hand",
-        "Ekos":null,
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Kryos(Smear)",
-        "Soma":"Head",
-        "Ekos":null,
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Kryos(Smear)",
-        "Soma":"Hip",
-        "Ekos":null,
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Kryos(Smear)",
-        "Soma":"Leg",
-        "Ekos":null,
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Kryos(Smear)",
-        "Soma":null,
-        "Ekos":null,
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Kryos.AnteriorSole",
-        "Soma":"Leg",
-        "Ekos":null,
-        "Via":"Extension",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Kryos.Ateles",
-        "Soma":"Arm",
-        "Ekos":null,
-        "Via":"Flexion",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Kryos.Kontakt",
-        "Soma":"Leg",
-        "Ekos":"Volume",
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Kryos.Pongo.Ateles",
-        "Soma":"Arm",
-        "Ekos":"Plast",
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Kryos.Trex.Ateles",
-        "Soma":"Arm",
-        "Ekos":null,
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Labor",
-        "Soma":"Soma",
-        "Ekos":"Ekos",
-        "Via":"Via",
-        "Motor":"Motor",
-        "Anima":"Anima",
-        "Dev":"Dev"
-    },
-    {
-        "Labor":"Lace.Knot",
-        "Soma":null,
-        "Ekos":null,
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Lache.Absorb",
-        "Soma":"Arm",
-        "Ekos":"Plast",
-        "Via":"Jug,Extension,Posterior",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Lache.Absorb",
-        "Soma":"Arm",
-        "Ekos":null,
-        "Via":"Down",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Lache.Absorb",
-        "Soma":"Arm",
-        "Ekos":null,
-        "Via":"Flexion,Down",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Lache.Absorb",
-        "Soma":"Arm",
-        "Ekos":null,
-        "Via":"Up",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Lache.Absorb",
-        "Soma":"Arm",
-        "Ekos":null,
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Lache.Absorb",
-        "Soma":"Arm<>",
-        "Ekos":"Plast",
-        "Via":"Jug,Extension",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Lache.Absorb",
-        "Soma":"Body",
-        "Ekos":"Plast,Volume",
-        "Via":"Down",
-        "Motor":"Gravity",
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Lache.Absorb",
-        "Soma":"Body",
-        "Ekos":null,
-        "Via":"Anterior",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Lache.Absorb",
-        "Soma":"Body",
-        "Ekos":null,
-        "Via":"Down",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Lache.Absorb",
-        "Soma":"Body",
-        "Ekos":null,
-        "Via":"Lateral&Anterior",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Lache.Absorb",
-        "Soma":"Body",
-        "Ekos":null,
-        "Via":"Lateral&Posterior",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Lache.Absorb",
-        "Soma":"Body",
-        "Ekos":null,
-        "Via":"Posterior",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Lache.Absorb",
-        "Soma":"Body",
-        "Ekos":null,
-        "Via":"Rotate",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Lache.Absorb",
-        "Soma":"Body",
-        "Ekos":null,
-        "Via":"Twist",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Lache.Absorb",
-        "Soma":"Body",
-        "Ekos":null,
-        "Via":"Up",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Lache.Absorb",
-        "Soma":"Body",
-        "Ekos":null,
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Land.Absorb",
-        "Soma":null,
-        "Ekos":null,
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Land.Run",
-        "Soma":null,
-        "Ekos":null,
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Layback",
-        "Soma":"Arm,Leg",
-        "Ekos":"Plast",
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Layback",
-        "Soma":"Arm<>&Leg",
-        "Ekos":"Plast,Volume",
-        "Via":"Out",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Layback",
-        "Soma":"Body",
-        "Ekos":null,
-        "Via":"PerpendicularTo.Klimon",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Layback",
-        "Soma":"Torso",
-        "Ekos":null,
-        "Via":"ParallelToKlimon",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Layback",
-        "Soma":null,
-        "Ekos":null,
-        "Via":"From.Klimon",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Lead,Harness.Sit",
-        "Soma":null,
-        "Ekos":null,
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"LeadClimb,Rope",
-        "Soma":null,
-        "Ekos":null,
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Lean",
-        "Soma":null,
-        "Ekos":null,
-        "Via":null,
-        "Motor":"Dynamic",
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Lean",
-        "Soma":null,
-        "Ekos":null,
-        "Via":null,
-        "Motor":"Static",
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Lemur",
-        "Soma":null,
-        "Ekos":null,
-        "Via":"Asymmetric",
-        "Motor":"Dynamic",
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Lemur",
-        "Soma":null,
-        "Ekos":null,
-        "Via":"Asymmetric",
-        "Motor":"Static",
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Lemur",
-        "Soma":null,
-        "Ekos":null,
-        "Via":"Posterior",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Lemur",
-        "Soma":null,
-        "Ekos":null,
-        "Via":"Symmetric",
-        "Motor":"Dynamic",
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Lemur",
-        "Soma":null,
-        "Ekos":null,
-        "Via":"Symmetric",
-        "Motor":"Static",
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Lemur",
-        "Soma":null,
-        "Ekos":null,
-        "Via":"Up",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Lever",
-        "Soma":"Arm",
-        "Ekos":null,
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Lever",
-        "Soma":"Leg",
-        "Ekos":null,
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Lift",
-        "Soma":"Arm",
-        "Ekos":null,
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Lift",
-        "Soma":"Leg",
-        "Ekos":"Plast",
-        "Via":"Extension,Up",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Lift",
-        "Soma":"Leg",
-        "Ekos":"Plast",
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Lift",
-        "Soma":"Leg",
-        "Ekos":"Volume",
-        "Via":"Up",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Lift",
-        "Soma":"Leg",
-        "Ekos":null,
-        "Via":"Up",
-        "Motor":null,
-        "Anima":null,
-        "Dev":"Lift up to add Tension to Arm"
-    },
-    {
-        "Labor":"Lift",
-        "Soma":"Leg",
-        "Ekos":null,
-        "Via":"Up",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Lift",
-        "Soma":"Leg",
-        "Ekos":null,
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Lift&Pivot.AnteriorSole",
-        "Soma":"Leg",
-        "Ekos":"Plast",
-        "Via":"To.Lateral",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Lift.AnteriorSole",
-        "Soma":"Leg",
-        "Ekos":"Plast",
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Lift.AnteriorSole",
-        "Soma":"Leg",
-        "Ekos":null,
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Lift.LateralSole",
-        "Soma":"Foot",
-        "Ekos":"Plast",
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Lift.LateralSole",
-        "Soma":"Leg",
-        "Ekos":"Plast",
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Lift.LateralSole",
-        "Soma":"Leg",
-        "Ekos":null,
-        "Via":"Up",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Lift.MedialSole",
-        "Soma":"Leg",
-        "Ekos":"Plast",
-        "Via":"Up",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Lift.MedialSole",
-        "Soma":"Leg",
-        "Ekos":null,
-        "Via":"Up",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Lift.MedialSole",
-        "Soma":"Leg",
-        "Ekos":null,
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Lift.MedialSole",
-        "Soma":null,
-        "Ekos":"Plast",
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Lift.Sole",
-        "Soma":"Leg",
-        "Ekos":null,
-        "Via":"Up",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Lock",
-        "Soma":"Body",
-        "Ekos":null,
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Maintain",
-        "Soma":"Hips&Shoulder",
-        "Ekos":null,
-        "Via":"ParallelTo.Klimon",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Mantle.Iguana",
-        "Soma":null,
-        "Ekos":null,
-        "Via":"Up",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Mantle.Iguana",
-        "Soma":null,
-        "Ekos":null,
-        "Via":"Up&Anterior",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Mantle.RockOver",
-        "Soma":null,
-        "Ekos":null,
-        "Via":"Anterior",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Mantle.RockOver",
-        "Soma":null,
-        "Ekos":null,
-        "Via":"Lateral",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Mantle.Toggle",
-        "Soma":null,
-        "Ekos":null,
-        "Via":"Up",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Match",
-        "Soma":"Arm&Leg",
-        "Ekos":null,
-        "Via":"Overhang",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Match",
-        "Soma":"Arm&Leg",
-        "Ekos":null,
-        "Via":"Slab",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Match",
-        "Soma":"Arm&Leg",
-        "Ekos":null,
-        "Via":"Vertical",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Match",
-        "Soma":"Arm<>",
-        "Ekos":"Klimon",
-        "Via":"VerticalCorner(270)",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Match",
-        "Soma":"Arm<>",
-        "Ekos":"Plast",
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Match",
-        "Soma":"Arm<>",
-        "Ekos":null,
-        "Via":"Overhang",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Match",
-        "Soma":"Arm<>",
-        "Ekos":null,
-        "Via":"Slab",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Match",
-        "Soma":"Arm<>",
-        "Ekos":null,
-        "Via":"Vertical",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Match",
-        "Soma":"Arm<>",
-        "Ekos":null,
-        "Via":null,
-        "Motor":null,
-        "Anima":"Blind",
-        "Dev":null
-    },
-    {
-        "Labor":"Match",
-        "Soma":"Arm<>",
-        "Ekos":null,
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Match",
-        "Soma":"Foot",
-        "Ekos":null,
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Match",
-        "Soma":"Hand",
-        "Ekos":null,
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Match",
-        "Soma":"Hand,Foot,Foot",
-        "Ekos":null,
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Match",
-        "Soma":"Hand,Hand,Foot,Foot",
-        "Ekos":null,
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Match",
-        "Soma":"HandFoot",
-        "Ekos":null,
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Match",
-        "Soma":"Leg<>",
-        "Ekos":null,
-        "Via":"Overhang",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Match",
-        "Soma":"Leg<>",
-        "Ekos":null,
-        "Via":"Slab",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Match",
-        "Soma":"Leg<>",
-        "Ekos":null,
-        "Via":"Vertical",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Match",
-        "Soma":"Leg<>",
-        "Ekos":null,
-        "Via":null,
-        "Motor":null,
-        "Anima":"Blind",
-        "Dev":null
-    },
-    {
-        "Labor":"Match",
-        "Soma":null,
-        "Ekos":null,
-        "Via":null,
-        "Motor":"Dynamic",
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Match",
-        "Soma":null,
-        "Ekos":null,
-        "Via":null,
-        "Motor":"Static",
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Match",
-        "Soma":null,
-        "Ekos":null,
-        "Via":null,
-        "Motor":null,
-        "Anima":"Blind",
-        "Dev":null
-    },
-    {
-        "Labor":"Match.FingerHook",
-        "Soma":"Arm",
-        "Ekos":"Plast",
-        "Via":"Down",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Match.FingerHook",
-        "Soma":"Arm",
-        "Ekos":"Plast",
-        "Via":"Up",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Match.FingerHook",
-        "Soma":"Arm",
-        "Ekos":"Plast",
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Match.Overlap",
-        "Soma":null,
-        "Ekos":null,
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Match.Pongo.Ateles",
-        "Soma":"Arm<>",
-        "Ekos":null,
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Modify",
-        "Soma":"Arm",
-        "Ekos":null,
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":"Modify position of Hand on Site to load Down instead of Medially"
-    },
-    {
-        "Labor":"Modify",
-        "Soma":"Arm",
-        "Ekos":null,
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Modify",
-        "Soma":"Leg",
-        "Ekos":"Ground",
-        "Via":"Medial",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Modify",
-        "Soma":"Leg",
-        "Ekos":null,
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Modify.Bump",
-        "Soma":"Arm",
-        "Ekos":null,
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Modify.Step",
-        "Soma":"Leg",
-        "Ekos":null,
-        "Via":"Medial",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"MuscleUp",
-        "Soma":"Arm<>",
-        "Ekos":null,
-        "Via":"Up",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Narrow",
-        "Soma":"Leg<>",
-        "Ekos":"Plast",
-        "Via":"Adduction",
-        "Motor":"AngularMomentum",
-        "Anima":null,
-        "Dev":"Narrow is a verb. Narrow the stance to shift hips and Leg towards the PlumbLine of Progress.Site "
-    },
-    {
-        "Labor":"Nudge",
-        "Soma":"Hip",
-        "Ekos":null,
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Nudge",
-        "Soma":null,
-        "Ekos":null,
-        "Via":null,
-        "Motor":"Dynamic",
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Nudge",
-        "Soma":null,
-        "Ekos":null,
-        "Via":null,
-        "Motor":"Static",
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Onda",
-        "Soma":"Arm",
-        "Ekos":"Air",
-        "Via":"Circumduction.Counterclockwise",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Onda",
-        "Soma":"Arm",
-        "Ekos":null,
-        "Via":"Flexion(90),Up",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Onda",
-        "Soma":"Arm",
-        "Ekos":null,
-        "Via":"Forwards",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Onda",
-        "Soma":"Arm",
-        "Ekos":null,
-        "Via":"Lateral",
-        "Motor":null,
-        "Anima":"Balance",
-        "Dev":null
-    },
-    {
-        "Labor":"Onda",
-        "Soma":"Arm",
-        "Ekos":null,
-        "Via":"Posterior",
-        "Motor":"Passive",
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Onda",
-        "Soma":"Arm",
-        "Ekos":null,
-        "Via":"Rotation,ToKlimon",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Onda",
-        "Soma":"Arm",
-        "Ekos":null,
-        "Via":"Twist",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Onda",
-        "Soma":"Arm",
-        "Ekos":null,
-        "Via":null,
-        "Motor":"Initiation",
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Onda",
-        "Soma":"Arm",
-        "Ekos":null,
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Onda",
-        "Soma":"Arm<>",
-        "Ekos":"Air",
-        "Via":"Down",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Onda",
-        "Soma":"Arm<>",
-        "Ekos":null,
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Onda",
-        "Soma":"Body",
-        "Ekos":null,
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Onda",
-        "Soma":"Leg",
-        "Ekos":"Air",
-        "Via":"Lateral",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Onda",
-        "Soma":"Leg",
-        "Ekos":null,
-        "Via":"Back",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Onda",
-        "Soma":"Leg",
-        "Ekos":null,
-        "Via":"Circumduction",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Onda",
-        "Soma":"Leg",
-        "Ekos":null,
-        "Via":"Forwards",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Onda",
-        "Soma":"Leg",
-        "Ekos":null,
-        "Via":"Twist",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Onda",
-        "Soma":"Leg",
-        "Ekos":null,
-        "Via":null,
-        "Motor":"Initiation",
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Onda",
-        "Soma":"Leg",
-        "Ekos":null,
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Onda",
-        "Soma":"Leg<>",
-        "Ekos":null,
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Onda",
-        "Soma":null,
-        "Ekos":null,
-        "Via":"Back",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Onda",
-        "Soma":null,
-        "Ekos":null,
-        "Via":"ToKlimon&Up",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Onda",
-        "Soma":null,
-        "Ekos":null,
-        "Via":"Twist",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Onda.",
-        "Soma":"Arm",
-        "Ekos":"Plast",
-        "Via":"Up",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Onda.Helix.Sauros",
-        "Soma":"Body&Arm",
-        "Ekos":null,
-        "Via":"FromDown",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Onda.MedialSole",
-        "Soma":"Leg",
-        "Ekos":null,
-        "Via":"ToSite",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Onda.Redirect",
-        "Soma":null,
-        "Ekos":null,
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Opposition",
-        "Soma":"Arm&Leg",
-        "Ekos":"Panel,Plast",
-        "Via":"Corner",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Opposition",
-        "Soma":"Arm<>",
-        "Ekos":null,
-        "Via":"Convergence",
-        "Motor":"Compression",
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Opposition",
-        "Soma":"Arm<>",
-        "Ekos":null,
-        "Via":"Vertical,Expansion",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Opposition",
-        "Soma":"Leg<>",
-        "Ekos":null,
-        "Via":"Rotation",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Opposition",
-        "Soma":"Thumb",
-        "Ekos":null,
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Orbit",
-        "Soma":"Arm",
-        "Ekos":null,
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Orbit",
-        "Soma":"Leg",
-        "Ekos":null,
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Overlap",
-        "Soma":"Foot",
-        "Ekos":null,
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"PaddleDyno.Redirect",
-        "Soma":null,
-        "Ekos":null,
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Pendulate",
-        "Soma":"Arm",
-        "Ekos":"Plast",
-        "Via":"Medial",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Pendulate",
-        "Soma":"Arm",
-        "Ekos":"Plast",
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Pendulate",
-        "Soma":"Arm",
-        "Ekos":null,
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Pendulate",
-        "Soma":"Arm<>",
-        "Ekos":"Plast",
-        "Via":"Into.Klimon",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Pendulate",
-        "Soma":"Leg",
-        "Ekos":null,
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Pendulate.Ateles",
-        "Soma":"Arm",
-        "Ekos":"Plast",
-        "Via":"Flexion",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Pendulate.Ateles",
-        "Soma":"Arm",
-        "Ekos":"Plast",
-        "Via":"ToPosterior",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Pendulate.Ateles",
-        "Soma":"Arm",
-        "Ekos":"Plast",
-        "Via":"Up",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Pendulate.FingerHook",
-        "Soma":"Arm<>",
-        "Ekos":"Plast",
-        "Via":"Up,Left",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Pendulate.Pongo.Ateles",
-        "Soma":"Arm",
-        "Ekos":"Panel",
-        "Via":"VerticalCorner(270)",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Pendulate.Pongo.Ateles",
-        "Soma":"Arm",
-        "Ekos":null,
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"PianoSwap",
-        "Soma":null,
-        "Ekos":null,
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Pinza",
-        "Soma":"Thumb",
-        "Ekos":null,
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Pinza",
-        "Soma":null,
-        "Ekos":null,
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Pinza,Catch",
-        "Soma":null,
-        "Ekos":null,
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Piton.Remove",
-        "Soma":null,
-        "Ekos":null,
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Piton.Test",
-        "Soma":null,
-        "Ekos":null,
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Pivot",
-        "Soma":"Finger",
-        "Ekos":null,
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Pivot",
-        "Soma":"Foot",
-        "Ekos":null,
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Pivot",
-        "Soma":"Head",
-        "Ekos":null,
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Pivot",
-        "Soma":"Heel",
-        "Ekos":null,
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Pivot",
-        "Soma":"Hip",
-        "Ekos":null,
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Pivot",
-        "Soma":"Knee",
-        "Ekos":null,
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Pivot",
-        "Soma":"Leg",
-        "Ekos":null,
-        "Via":"Rotation",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Pivot",
-        "Soma":"Palm",
-        "Ekos":null,
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Pivot",
-        "Soma":"Toe",
-        "Ekos":null,
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Pivot.AnteriorSole",
-        "Soma":"Leg",
-        "Ekos":"Plast",
-        "Via":"Lateral",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Pivot.AnteriorSole",
-        "Soma":"Leg",
-        "Ekos":"Plast",
-        "Via":"Medial",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Pivot.AnteriorSole",
-        "Soma":"Leg",
-        "Ekos":null,
-        "Via":"RotateTo.Lateral",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Pivot.ToesSole",
-        "Soma":"Leg",
-        "Ekos":"Plast",
-        "Via":"Lateral",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Pivot.ToesSole",
-        "Soma":"Leg",
-        "Ekos":"Plast",
-        "Via":"Medial",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Pivot.ToesSole",
-        "Soma":"Leg",
-        "Ekos":"Plast",
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Pivot[MedialSole,AnteriorSole]",
-        "Soma":"Leg",
-        "Ekos":"Plast",
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Plant.Knot",
-        "Soma":null,
-        "Ekos":null,
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"PoleClimb",
-        "Soma":"Arm,Chest",
-        "Ekos":null,
-        "Via":null,
-        "Motor":"Compression",
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Pongo",
-        "Soma":"Arm",
-        "Ekos":"Plast",
-        "Via":"Jug",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Pongo",
-        "Soma":"Arm",
-        "Ekos":"Plast",
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Pongo.Ateles",
-        "Soma":"Arm",
-        "Ekos":"Panel",
-        "Via":"Corner",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Pongo.Ateles",
-        "Soma":"Arm",
-        "Ekos":"Panel",
-        "Via":"VerticalCorner(270)",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Pongo.Ateles",
-        "Soma":"Arm",
-        "Ekos":null,
-        "Via":"Down",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Pongo.Ateles",
-        "Soma":"Arm",
-        "Ekos":null,
-        "Via":"Lateral&ShoulderHeight",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Pongo.Ateles",
-        "Soma":"Arm",
-        "Ekos":null,
-        "Via":"Up",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Pongo.Ateles",
-        "Soma":"Arm",
-        "Ekos":null,
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Pongo.Ateles",
-        "Soma":null,
-        "Ekos":null,
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Pongo.FingerHook",
-        "Soma":"Arm",
-        "Ekos":"Plast",
-        "Via":"Jug",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Pongo.FingerHook",
-        "Soma":"Arm",
-        "Ekos":"Plast",
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Pongo.FingerHook",
-        "Soma":"Arm<>",
-        "Ekos":"Plast",
-        "Via":"AwayFromKlimon",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Pongo.FingerHook",
-        "Soma":"Arm<>",
-        "Ekos":"Plast",
-        "Via":"Out",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Pongo.FingerHook",
-        "Soma":null,
-        "Ekos":"Plast",
-        "Via":"Jug,AwayFromKlimon",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Pongo.Match",
-        "Soma":"Arm<>",
-        "Ekos":"Plast",
-        "Via":"Jug",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Pongo.Match.FingerHook",
-        "Soma":null,
-        "Ekos":null,
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Pongo.Pinza",
-        "Soma":null,
-        "Ekos":"Prokline",
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Pongo.Pinza",
-        "Soma":null,
-        "Ekos":"Rekline",
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Pop",
-        "Soma":"Arm",
-        "Ekos":null,
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Pop",
-        "Soma":"Leg",
-        "Ekos":"Air",
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Pop",
-        "Soma":"Leg",
-        "Ekos":null,
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Positioning",
-        "Soma":null,
-        "Ekos":null,
-        "Via":null,
-        "Motor":"Dynamic",
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Positioning",
-        "Soma":null,
-        "Ekos":null,
-        "Via":null,
-        "Motor":"Static",
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Positioning",
-        "Soma":null,
-        "Ekos":null,
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Posture",
-        "Soma":null,
-        "Ekos":null,
-        "Via":null,
-        "Motor":"Dynamic",
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Posture",
-        "Soma":null,
-        "Ekos":null,
-        "Via":null,
-        "Motor":"Static",
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Progress",
-        "Soma":"Arm",
-        "Ekos":"Plast",
-        "Via":"Down",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Progress",
-        "Soma":"Arm",
-        "Ekos":"Plast",
-        "Via":"Down&CrossMidline",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Progress",
-        "Soma":"Arm",
-        "Ekos":"Plast",
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Progress",
-        "Soma":"Arm",
-        "Ekos":null,
-        "Via":"Arc",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Progress",
-        "Soma":"Arm",
-        "Ekos":null,
-        "Via":"Cross",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Progress",
-        "Soma":"Arm",
-        "Ekos":null,
-        "Via":"CrossArm",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Progress",
-        "Soma":"Arm",
-        "Ekos":null,
-        "Via":"CrossArmAbove",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Progress",
-        "Soma":"Arm",
-        "Ekos":null,
-        "Via":"CrossArmAboveAnterior",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Progress",
-        "Soma":"Arm",
-        "Ekos":null,
-        "Via":"CrossArmAbovePosterior",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Progress",
-        "Soma":"Arm",
-        "Ekos":null,
-        "Via":"CrossLeg",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Progress",
-        "Soma":"Arm",
-        "Ekos":null,
-        "Via":"CrossMidline",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Progress",
-        "Soma":"Arm",
-        "Ekos":null,
-        "Via":"Distal",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Progress",
-        "Soma":"Arm",
-        "Ekos":null,
-        "Via":"Down",
-        "Motor":"Deadpoint",
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Progress",
-        "Soma":"Arm",
-        "Ekos":null,
-        "Via":"Down",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Progress",
-        "Soma":"Arm",
-        "Ekos":null,
-        "Via":"Lateral",
-        "Motor":"Deadpoint",
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Progress",
-        "Soma":"Arm",
-        "Ekos":null,
-        "Via":"Lateral",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Progress",
-        "Soma":"Arm",
-        "Ekos":null,
-        "Via":"Medial",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Progress",
-        "Soma":"Arm",
-        "Ekos":null,
-        "Via":"Posterior",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Progress",
-        "Soma":"Arm",
-        "Ekos":null,
-        "Via":"Radial",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Progress",
-        "Soma":"Arm",
-        "Ekos":null,
-        "Via":"Slab",
-        "Motor":null,
-        "Anima":"Balance",
-        "Dev":null
-    },
-    {
-        "Labor":"Progress",
-        "Soma":"Arm",
-        "Ekos":null,
-        "Via":"Up",
-        "Motor":"Deadpoint",
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Progress",
-        "Soma":"Arm",
-        "Ekos":null,
-        "Via":"Up",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Progress",
-        "Soma":"Arm",
-        "Ekos":null,
-        "Via":"Up&CrossArm",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Progress",
-        "Soma":"Arm",
-        "Ekos":null,
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Progress",
-        "Soma":"Arm&Leg",
-        "Ekos":null,
-        "Via":"Down",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Progress",
-        "Soma":"Arm<>",
-        "Ekos":null,
-        "Via":"Asymmetric",
-        "Motor":"Dynamic",
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Progress",
-        "Soma":"Leg",
-        "Ekos":"Ground",
-        "Via":"Down",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Progress",
-        "Soma":"Leg",
-        "Ekos":"Plast",
-        "Via":"Jug",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Progress",
-        "Soma":"Leg",
-        "Ekos":"Plast",
-        "Via":"Jug,Down",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Progress",
-        "Soma":"Leg",
-        "Ekos":"Plast",
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Progress",
-        "Soma":"Leg",
-        "Ekos":"Volume",
-        "Via":"Up",
-        "Motor":null,
-        "Anima":"Look.Site",
-        "Dev":null
-    },
-    {
-        "Labor":"Progress",
-        "Soma":"Leg",
-        "Ekos":null,
-        "Via":"Arc",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Progress",
-        "Soma":"Leg",
-        "Ekos":null,
-        "Via":"Cross",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Progress",
-        "Soma":"Leg",
-        "Ekos":null,
-        "Via":"CrossArm",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Progress",
-        "Soma":"Leg",
-        "Ekos":null,
-        "Via":"CrossLeg",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Progress",
-        "Soma":"Leg",
-        "Ekos":null,
-        "Via":"CrossMidline",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Progress",
-        "Soma":"Leg",
-        "Ekos":null,
-        "Via":"Distal",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Progress",
-        "Soma":"Leg",
-        "Ekos":null,
-        "Via":"Down",
-        "Motor":"Deadpoint",
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Progress",
-        "Soma":"Leg",
-        "Ekos":null,
-        "Via":"Down",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Progress",
-        "Soma":"Leg",
-        "Ekos":null,
-        "Via":"Lateral",
-        "Motor":"Deadpoint",
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Progress",
-        "Soma":"Leg",
-        "Ekos":null,
-        "Via":"Lateral",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Progress",
-        "Soma":"Leg",
-        "Ekos":null,
-        "Via":"Medial",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Progress",
-        "Soma":"Leg",
-        "Ekos":null,
-        "Via":"Posterior",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Progress",
-        "Soma":"Leg",
-        "Ekos":null,
-        "Via":"Posterior&CrossMidline",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Progress",
-        "Soma":"Leg",
-        "Ekos":null,
-        "Via":"Radial",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Progress",
-        "Soma":"Leg",
-        "Ekos":null,
-        "Via":"Slab",
-        "Motor":null,
-        "Anima":"Balance",
-        "Dev":null
-    },
-    {
-        "Labor":"Progress",
-        "Soma":"Leg",
-        "Ekos":null,
-        "Via":"Up",
-        "Motor":"Deadpoint",
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Progress",
-        "Soma":"Leg",
-        "Ekos":null,
-        "Via":"Up&CrossMidline",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Progress",
-        "Soma":"Leg",
-        "Ekos":null,
-        "Via":null,
-        "Motor":null,
-        "Anima":"Hesitation,Look.Site",
-        "Dev":null
-    },
-    {
-        "Labor":"Progress",
-        "Soma":"Leg",
-        "Ekos":null,
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Progress",
-        "Soma":null,
-        "Ekos":null,
-        "Via":"Down",
-        "Motor":"Deadpoint",
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Progress",
-        "Soma":null,
-        "Ekos":null,
-        "Via":"Lateral",
-        "Motor":"Deadpoint",
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Progress",
-        "Soma":null,
-        "Ekos":null,
-        "Via":"Up",
-        "Motor":"Deadpoint",
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Progress",
-        "Soma":null,
-        "Ekos":null,
-        "Via":"[Over,Up]",
-        "Motor":"Dynamic",
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Progress",
-        "Soma":null,
-        "Ekos":null,
-        "Via":"[Over,Up]",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Progress",
-        "Soma":null,
-        "Ekos":null,
-        "Via":"[Up,Over]",
-        "Motor":"Dynamic",
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Progress",
-        "Soma":null,
-        "Ekos":null,
-        "Via":"[Up,Over]",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Progress",
-        "Soma":null,
-        "Ekos":null,
-        "Via":null,
-        "Motor":"AntiGravity",
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Progress",
-        "Soma":null,
-        "Ekos":null,
-        "Via":null,
-        "Motor":"ProGravity",
-        "Anima":null,
-        "Dev":"Fall Over"
-    },
-    {
-        "Labor":"Progress",
-        "Soma":null,
-        "Ekos":null,
-        "Via":null,
-        "Motor":null,
-        "Anima":"Blind",
-        "Dev":null
-    },
-    {
-        "Labor":"Progress.Absorb.Ateles",
-        "Soma":"Arm",
-        "Ekos":"Plast",
-        "Via":"Down",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Progress.Ama.AnteriorSole",
-        "Soma":"Leg",
-        "Ekos":"Volume",
-        "Via":"Down,Lateral",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Progress.Ama.LateralRand",
-        "Soma":"Leg",
-        "Ekos":"Panel",
-        "Via":"CrossMidline",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Progress.Ama.Ursus",
-        "Soma":"Arm",
-        "Ekos":"Panel",
-        "Via":"Down",
-        "Motor":null,
-        "Anima":"Look.Site",
-        "Dev":null
-    },
-    {
-        "Labor":"Progress.AnteriorSole",
-        "Soma":"Leg",
-        "Ekos":"Plast",
-        "Via":"CrossMidline",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Progress.AnteriorSole",
-        "Soma":"Leg",
-        "Ekos":"Plast",
-        "Via":"Down",
-        "Motor":null,
-        "Anima":"Look",
-        "Dev":null
-    },
-    {
-        "Labor":"Progress.AnteriorSole",
-        "Soma":"Leg",
-        "Ekos":"Plast",
-        "Via":"Down",
-        "Motor":null,
-        "Anima":"Look.Site",
-        "Dev":null
-    },
-    {
-        "Labor":"Progress.AnteriorSole",
-        "Soma":"Leg",
-        "Ekos":"Plast",
-        "Via":"Up",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Progress.AnteriorSole",
-        "Soma":"Leg",
-        "Ekos":"Volume",
-        "Via":"Site.Large",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Progress.AnteriorSole",
-        "Soma":"Leg",
-        "Ekos":"Volume",
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Progress.AnteriorSole",
-        "Soma":"Leg",
-        "Ekos":null,
-        "Via":"Down",
-        "Motor":null,
-        "Anima":"Look.Site",
-        "Dev":null
-    },
-    {
-        "Labor":"Progress.AnteriorSole",
-        "Soma":"Leg",
-        "Ekos":null,
-        "Via":"Down",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Progress.AnteriorSole",
-        "Soma":"Leg",
-        "Ekos":null,
-        "Via":"PosteriorCrossMidline",
-        "Motor":null,
-        "Anima":"Look.Site",
-        "Dev":null
-    },
-    {
-        "Labor":"Progress.AnteriorSole",
-        "Soma":null,
-        "Ekos":null,
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Progress.Ateles",
-        "Soma":">.Arm",
-        "Ekos":null,
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Progress.Ateles",
-        "Soma":"Arm",
-        "Ekos":"Plast",
-        "Via":"Up&CrossMidline",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Progress.Ateles",
-        "Soma":"Arm",
-        "Ekos":"Plast",
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Progress.Ateles",
-        "Soma":"Arm",
-        "Ekos":null,
-        "Via":"CrossMidline",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Progress.Ateles",
-        "Soma":"Arm",
-        "Ekos":null,
-        "Via":"Down",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Progress.Ateles",
-        "Soma":"Arm",
-        "Ekos":null,
-        "Via":"Up&MaximumRange",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Progress.Ateles",
-        "Soma":"Arm",
-        "Ekos":null,
-        "Via":null,
-        "Motor":"Static",
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Progress.Ateles",
-        "Soma":"Arm",
-        "Ekos":null,
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Progress.FingerHook",
-        "Soma":"Arm",
-        "Ekos":"Plast",
-        "Via":"Down",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Progress.FingerHook",
-        "Soma":"Arm",
-        "Ekos":"Plast",
-        "Via":"To.Klimon",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Progress.FingerHook",
-        "Soma":"Arm",
-        "Ekos":"Plast",
-        "Via":"Up",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Progress.FingerHook",
-        "Soma":"Arm",
-        "Ekos":"Plast",
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Progress.FingerHook",
-        "Soma":"Arm",
-        "Ekos":null,
-        "Via":"Down",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Progress.FingerHook",
-        "Soma":"Arm<>",
-        "Ekos":"Plast",
-        "Via":"Up",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Progress.FingerHook",
-        "Soma":"Arm<>",
-        "Ekos":"Plast",
-        "Via":"Up,Left",
-        "Motor":"Dynamic",
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Progress.FingerHook",
-        "Soma":"Arm<>",
-        "Ekos":null,
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Progress.LateralSole",
-        "Soma":"Leg",
-        "Ekos":"Plast",
-        "Via":"Anterior,Up",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Progress.LateralSole",
-        "Soma":"Leg",
-        "Ekos":"Plast",
-        "Via":"Up",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Progress.LateralSole",
-        "Soma":"Leg",
-        "Ekos":"Plast",
-        "Via":"Up&CrossMidline",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Progress.LateralSole",
-        "Soma":"Leg",
-        "Ekos":null,
-        "Via":null,
-        "Motor":null,
-        "Anima":"Look.Site",
-        "Dev":null
-    },
-    {
-        "Labor":"Progress.Match",
-        "Soma":"Arm<>",
-        "Ekos":"Plast",
-        "Via":"Jug",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Progress.MedialSole",
-        "Soma":"Leg",
-        "Ekos":"Plast",
-        "Via":"Down",
-        "Motor":null,
-        "Anima":"Look",
-        "Dev":null
-    },
-    {
-        "Labor":"Progress.MedialSole",
-        "Soma":"Leg",
-        "Ekos":"Plast",
-        "Via":"Down",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Progress.MedialSole",
-        "Soma":"Leg",
-        "Ekos":"Plast",
-        "Via":"Posterior&Medial",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Progress.MedialSole",
-        "Soma":"Leg",
-        "Ekos":"Plast",
-        "Via":"PosteriorCrossMidline",
-        "Motor":null,
-        "Anima":"Look.Site",
-        "Dev":null
-    },
-    {
-        "Labor":"Progress.MedialSole",
-        "Soma":"Leg",
-        "Ekos":"Plast",
-        "Via":"Up",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Progress.MedialSole",
-        "Soma":"Leg",
-        "Ekos":"Plast",
-        "Via":"Up&Anterior&ParallelTo.Klimon",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Progress.MedialSole",
-        "Soma":"Leg",
-        "Ekos":"Plast",
-        "Via":"Up&FromCrossMidline",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Progress.MedialSole",
-        "Soma":"Leg",
-        "Ekos":"Plast",
-        "Via":"Up,KneeHeight",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Progress.MedialSole",
-        "Soma":"Leg",
-        "Ekos":"Plast",
-        "Via":"Up,Lateral",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Progress.MedialSole",
-        "Soma":"Leg",
-        "Ekos":"Plast",
-        "Via":null,
-        "Motor":null,
-        "Anima":"Look.Site",
-        "Dev":null
-    },
-    {
-        "Labor":"Progress.MedialSole",
-        "Soma":"Leg",
-        "Ekos":"Plast",
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Progress.MedialSole",
-        "Soma":"Leg",
-        "Ekos":null,
-        "Via":"Down",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Progress.MedialSole",
-        "Soma":"Leg",
-        "Ekos":null,
-        "Via":"FromPosterior",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Progress.MedialSole",
-        "Soma":"Leg",
-        "Ekos":null,
-        "Via":"Up&HipHeight",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Progress.MedialSole",
-        "Soma":"Leg",
-        "Ekos":null,
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Progress.MedialSole",
-        "Soma":"Leg,Arm",
-        "Ekos":"Plast",
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Progress.Onda",
-        "Soma":"Arm",
-        "Ekos":null,
-        "Via":"Down&Medial",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Progress.Onda.Ateles",
-        "Soma":"Arm",
-        "Ekos":"Plast",
-        "Via":"Up",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Progress.Sauros",
-        "Soma":"Body",
-        "Ekos":null,
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Progress.Sauros",
-        "Soma":"Torso",
-        "Ekos":null,
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Progress.Sauros",
-        "Soma":null,
-        "Ekos":"Prokline",
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Progress.Sauros",
-        "Soma":null,
-        "Ekos":"Rekline",
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Progress.Sauros",
-        "Soma":null,
-        "Ekos":"Vertikal",
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Progress.Sole",
-        "Soma":"Leg",
-        "Ekos":"Ground",
-        "Via":"Down",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Progress.Sole",
-        "Soma":"Leg",
-        "Ekos":"Volume",
-        "Via":"Down",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Progress.Sole",
-        "Soma":"Leg",
-        "Ekos":"Volume",
-        "Via":"Up",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Progress.Stab",
-        "Soma":"Foot",
-        "Ekos":null,
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Progress.Stab",
-        "Soma":"Hand",
-        "Ekos":null,
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Progress.Stab",
-        "Soma":null,
-        "Ekos":null,
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Progress.Stemming.Splits",
-        "Soma":null,
-        "Ekos":null,
-        "Via":"Anterior",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Progress.Stemming.Splits",
-        "Soma":null,
-        "Ekos":null,
-        "Via":"Lateral",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Progress.ToesSole",
-        "Soma":"Leg",
-        "Ekos":"Plast",
-        "Via":"Down",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Progress.ToesSole",
-        "Soma":"Leg",
-        "Ekos":"Plast",
-        "Via":"Posterior",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Progress.ToesSole",
-        "Soma":"Leg",
-        "Ekos":"Plast",
-        "Via":"Up",
-        "Motor":null,
-        "Anima":"Look.Site",
-        "Dev":null
-    },
-    {
-        "Labor":"Progress.ToesSole",
-        "Soma":"Leg",
-        "Ekos":"Plast",
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Progress.ToesSole",
-        "Soma":"Leg",
-        "Ekos":"Volume",
-        "Via":"Down",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Progress.ToesSole",
-        "Soma":"Leg",
-        "Ekos":"Volume",
-        "Via":"Up",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Progress.ToesSole",
-        "Soma":"Leg",
-        "Ekos":"Volume",
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Protection.Insert",
-        "Soma":null,
-        "Ekos":null,
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Protection.Remove",
-        "Soma":null,
-        "Ekos":null,
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Protection.Test",
-        "Soma":null,
-        "Ekos":null,
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Pull",
-        "Soma":"Arm",
-        "Ekos":"Plast",
-        "Via":"Into",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Pull",
-        "Soma":"Arm",
-        "Ekos":"Plast",
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Pull",
-        "Soma":"Arm",
-        "Ekos":null,
-        "Via":"Distal",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Pull",
-        "Soma":"Arm",
-        "Ekos":null,
-        "Via":"Flexion",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Pull",
-        "Soma":"Arm",
-        "Ekos":null,
-        "Via":"Medial",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Pull",
-        "Soma":"Arm",
-        "Ekos":null,
-        "Via":"To.Kontakt",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Pull",
-        "Soma":"Arm",
-        "Ekos":null,
-        "Via":"To.Plast",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Pull",
-        "Soma":"Arm",
-        "Ekos":null,
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Pull",
-        "Soma":"Arm<>",
-        "Ekos":"Plast",
-        "Via":"Into.Klimon",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Pull",
-        "Soma":"Arm<>",
-        "Ekos":"Plast",
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Pull",
-        "Soma":"Arm<>",
-        "Ekos":null,
-        "Via":null,
-        "Motor":"Dynamic",
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Pull",
-        "Soma":"Arm<>",
-        "Ekos":null,
-        "Via":null,
-        "Motor":"Static",
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Pull",
-        "Soma":"Leg",
-        "Ekos":null,
-        "Via":"Distal",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Pull",
-        "Soma":"Leg",
-        "Ekos":null,
-        "Via":"Medial",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Pull",
-        "Soma":"Leg",
-        "Ekos":null,
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Pull",
-        "Soma":null,
-        "Ekos":null,
-        "Via":null,
-        "Motor":"Dynamic",
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Pull",
-        "Soma":null,
-        "Ekos":null,
-        "Via":null,
-        "Motor":"Static",
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Pull",
-        "Soma":null,
-        "Ekos":null,
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Pull.Ateles",
-        "Soma":"Arm",
-        "Ekos":"Plast",
-        "Via":"To.Kontakt",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Pull.FingerHook",
-        "Soma":"Arm",
-        "Ekos":"Plast",
-        "Via":"Lateral",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Pull.FingerHook",
-        "Soma":"Arm",
-        "Ekos":"Plast",
-        "Via":"To.Plast",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Pull.FingerHook",
-        "Soma":"Arm",
-        "Ekos":"Plast",
-        "Via":"Up",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Pull.FingerHook",
-        "Soma":"Arm",
-        "Ekos":"Plast",
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Pull.FingerHook",
-        "Soma":"Arm<>",
-        "Ekos":"Plast",
-        "Via":"Into.Klimon",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Pull.FingerHook",
-        "Soma":"Arm<>",
-        "Ekos":"Plast",
-        "Via":"Jug,Into.Klimon",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Pump",
-        "Soma":"Arm",
-        "Ekos":null,
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Pump",
-        "Soma":"Leg",
-        "Ekos":null,
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Pump",
-        "Soma":null,
-        "Ekos":null,
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Purga(Chalk).Drag",
-        "Soma":null,
-        "Ekos":null,
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":"(Drag ?= Slide)"
-    },
-    {
-        "Labor":"Purga(Chalk).Shake",
-        "Soma":null,
-        "Ekos":null,
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":"(Shake != ShakeOut)"
-    },
-    {
-        "Labor":"Push",
-        "Soma":"Arm",
-        "Ekos":null,
-        "Via":"Distal",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Push",
-        "Soma":"Arm",
-        "Ekos":null,
-        "Via":"Medial",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Push",
-        "Soma":"Arm",
-        "Ekos":null,
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Push",
-        "Soma":"Leg",
-        "Ekos":null,
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Push",
-        "Soma":null,
-        "Ekos":null,
-        "Via":null,
-        "Motor":"Dynamic",
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Push",
-        "Soma":null,
-        "Ekos":null,
-        "Via":null,
-        "Motor":"Static",
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Push",
-        "Soma":null,
-        "Ekos":null,
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Push.Ateles",
-        "Soma":"Arm",
-        "Ekos":null,
-        "Via":"Lateral",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Push.Bonobo",
-        "Soma":null,
-        "Ekos":"Panel",
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Push.Bonobo",
-        "Soma":null,
-        "Ekos":null,
-        "Via":"Lateral",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Push.Bonobo",
-        "Soma":null,
-        "Ekos":null,
-        "Via":"Up",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Push.Smear",
-        "Soma":"Arm.Palm",
-        "Ekos":null,
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Push.Smear",
-        "Soma":"Hand",
-        "Ekos":"Klimon",
-        "Via":"AwayFrom.Klimon",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Push.StickShifter",
-        "Soma":"Arm",
-        "Ekos":"Volume",
-        "Via":"ObliquePyramidCorner",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Quickdraw.Bonobo",
-        "Soma":null,
-        "Ekos":null,
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Quickdraw.Clip",
-        "Soma":null,
-        "Ekos":null,
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Recovery.Redirect",
-        "Soma":null,
-        "Ekos":null,
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Regress",
-        "Soma":null,
-        "Ekos":null,
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Release",
-        "Soma":"Arm<>",
-        "Ekos":"Plast",
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Rest",
-        "Soma":"Arm",
-        "Ekos":null,
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Rest",
-        "Soma":"Leg",
-        "Ekos":null,
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Rest",
-        "Soma":null,
-        "Ekos":"Ground",
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Rest",
-        "Soma":null,
-        "Ekos":"Ledge",
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Rest",
-        "Soma":null,
-        "Ekos":"Prokline",
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Rest",
-        "Soma":null,
-        "Ekos":"Rekline",
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Rest",
-        "Soma":null,
-        "Ekos":null,
-        "Via":"Jug",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Rest",
-        "Soma":null,
-        "Ekos":null,
-        "Via":null,
-        "Motor":"Dynamic",
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Rest",
-        "Soma":null,
-        "Ekos":null,
-        "Via":null,
-        "Motor":"Static",
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Rest.ShakeOut",
-        "Soma":"Arm",
-        "Ekos":null,
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Rest.ShakeOut",
-        "Soma":"Leg",
-        "Ekos":null,
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Rest.Sit",
-        "Soma":null,
-        "Ekos":"Ground",
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Rest.Stand",
-        "Soma":null,
-        "Ekos":"Ground",
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Rest.Swap.Shake",
-        "Soma":"Arm",
-        "Ekos":null,
-        "Via":"Hyper,Up&Down",
-        "Motor":"Cycle",
-        "Anima":"Hesitation",
-        "Dev":null
-    },
-    {
-        "Labor":"Rest.Swap.Shake",
-        "Soma":"Arm",
-        "Ekos":null,
-        "Via":"Hypo,Up&Down",
-        "Motor":"Cycle",
-        "Anima":"Fear",
-        "Dev":null
-    },
-    {
-        "Labor":"Rest.Swap.Shake",
-        "Soma":"Arm",
-        "Ekos":null,
-        "Via":"Up&Down",
-        "Motor":"Cycle",
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Rest.Toggle",
-        "Soma":"Leg<>",
-        "Ekos":null,
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Roll",
-        "Soma":"Body",
-        "Ekos":null,
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Roll",
-        "Soma":"Finger",
-        "Ekos":null,
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Roll",
-        "Soma":"Foot",
-        "Ekos":"Plast",
-        "Via":"ParallelTo.Klimon",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Roll",
-        "Soma":"Leg",
-        "Ekos":"Plast",
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Roll",
-        "Soma":"Leg<>",
-        "Ekos":"Plast",
-        "Via":null,
-        "Motor":"Dynamic",
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Roll",
-        "Soma":"Wrist",
-        "Ekos":null,
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Roll.AnteriorSole",
-        "Soma":"Leg",
-        "Ekos":"Plast",
-        "Via":"Medial",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Roll.AnteriorSole",
-        "Soma":"Leg",
-        "Ekos":"Plast",
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Roll.MedialSole",
-        "Soma":"Leg",
-        "Ekos":"Plast",
-        "Via":"ParallelTo.Klimon",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Rope",
-        "Soma":null,
-        "Ekos":null,
-        "Via":null,
-        "Motor":"Dynamic",
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Rope",
-        "Soma":null,
-        "Ekos":null,
-        "Via":null,
-        "Motor":"Static",
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Rope.Ateles",
-        "Soma":null,
-        "Ekos":null,
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Rope.Bite",
-        "Soma":null,
-        "Ekos":null,
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Rope.Bonobo",
-        "Soma":null,
-        "Ekos":null,
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Rope.Knot",
-        "Soma":null,
-        "Ekos":null,
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":"(Wrap(Rope) != Rope.Wrap())"
-    },
-    {
-        "Labor":"Rope.Knot",
-        "Soma":null,
-        "Ekos":null,
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Rope.Knot.CowHitch",
-        "Soma":null,
-        "Ekos":null,
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Rope.Knot.Figure8",
-        "Soma":null,
-        "Ekos":null,
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Rope.Knot.GirthHitch",
-        "Soma":null,
-        "Ekos":null,
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Rope.Knot.Granny",
-        "Soma":null,
-        "Ekos":null,
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Rope.Knot.Hitch",
-        "Soma":null,
-        "Ekos":null,
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Rope.Knot.Stopper",
-        "Soma":null,
-        "Ekos":null,
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Rope.Pendulate.Harness.Sit",
-        "Soma":null,
-        "Ekos":null,
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Rope.RodeoClip",
-        "Soma":null,
-        "Ekos":null,
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Rope.Slide",
-        "Soma":null,
-        "Ekos":null,
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Route",
-        "Soma":"Pumped",
-        "Ekos":null,
-        "Via":null,
-        "Motor":"Duration",
-        "Anima":"Event",
-        "Dev":null
-    },
-    {
-        "Labor":"Route",
-        "Soma":null,
-        "Ekos":null,
-        "Via":"Height",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Route",
-        "Soma":null,
-        "Ekos":null,
-        "Via":"Height(10%)",
-        "Motor":"Duration",
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Route",
-        "Soma":null,
-        "Ekos":null,
-        "Via":"Height(100%)",
-        "Motor":"Duration",
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Route",
-        "Soma":null,
-        "Ekos":null,
-        "Via":"Height(20%)",
-        "Motor":"Duration",
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Route",
-        "Soma":null,
-        "Ekos":null,
-        "Via":"Height(30%)",
-        "Motor":"Duration",
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Route",
-        "Soma":null,
-        "Ekos":null,
-        "Via":"Height(40%)",
-        "Motor":"Duration",
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Route",
-        "Soma":null,
-        "Ekos":null,
-        "Via":"Height(50%)",
-        "Motor":"Duration",
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Route",
-        "Soma":null,
-        "Ekos":null,
-        "Via":"Height(60%)",
-        "Motor":"Duration",
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Route",
-        "Soma":null,
-        "Ekos":null,
-        "Via":"Height(70%)",
-        "Motor":"Duration",
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Route",
-        "Soma":null,
-        "Ekos":null,
-        "Via":"Height(80%)",
-        "Motor":"Duration",
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Route",
-        "Soma":null,
-        "Ekos":null,
-        "Via":"Height(90%)",
-        "Motor":"Duration",
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Route",
-        "Soma":null,
-        "Ekos":null,
-        "Via":"Length",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Route",
-        "Soma":null,
-        "Ekos":null,
-        "Via":"Length(10%)",
-        "Motor":"Duration",
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Route",
-        "Soma":null,
-        "Ekos":null,
-        "Via":"Length(100%)",
-        "Motor":"Duration",
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Route",
-        "Soma":null,
-        "Ekos":null,
-        "Via":"Length(20%)",
-        "Motor":"Duration",
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Route",
-        "Soma":null,
-        "Ekos":null,
-        "Via":"Length(30%)",
-        "Motor":"Duration",
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Route",
-        "Soma":null,
-        "Ekos":null,
-        "Via":"Length(40%)",
-        "Motor":"Duration",
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Route",
-        "Soma":null,
-        "Ekos":null,
-        "Via":"Length(50%)",
-        "Motor":"Duration",
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Route",
-        "Soma":null,
-        "Ekos":null,
-        "Via":"Length(60%)",
-        "Motor":"Duration",
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Route",
-        "Soma":null,
-        "Ekos":null,
-        "Via":"Length(70%)",
-        "Motor":"Duration",
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Route",
-        "Soma":null,
-        "Ekos":null,
-        "Via":"Length(80%)",
-        "Motor":"Duration",
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Route",
-        "Soma":null,
-        "Ekos":null,
-        "Via":"Length(90%)",
-        "Motor":"Duration",
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Route",
-        "Soma":null,
-        "Ekos":null,
-        "Via":"Minimum",
-        "Motor":"Duration",
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Route",
-        "Soma":null,
-        "Ekos":null,
-        "Via":"Width",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Route",
-        "Soma":null,
-        "Ekos":null,
-        "Via":"Width(10%)",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Route",
-        "Soma":null,
-        "Ekos":null,
-        "Via":"Width(100%)",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Route",
-        "Soma":null,
-        "Ekos":null,
-        "Via":"Width(20%)",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Route",
-        "Soma":null,
-        "Ekos":null,
-        "Via":"Width(30%)",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Route",
-        "Soma":null,
-        "Ekos":null,
-        "Via":"Width(40%)",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Route",
-        "Soma":null,
-        "Ekos":null,
-        "Via":"Width(50%)",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Route",
-        "Soma":null,
-        "Ekos":null,
-        "Via":"Width(60%)",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Route",
-        "Soma":null,
-        "Ekos":null,
-        "Via":"Width(70%)",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Route",
-        "Soma":null,
-        "Ekos":null,
-        "Via":"Width(80%)",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Route",
-        "Soma":null,
-        "Ekos":null,
-        "Via":"Width(90%)",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Route",
-        "Soma":null,
-        "Ekos":null,
-        "Via":null,
-        "Motor":"Duration",
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Route.Abort",
-        "Soma":null,
-        "Ekos":null,
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Route.Difficulty",
-        "Soma":null,
-        "Ekos":null,
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Route.Error,ChickenWing",
-        "Soma":"Fatigue",
-        "Ekos":null,
-        "Via":null,
-        "Motor":"Countdown",
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Route.Error,ChickenWing",
-        "Soma":"Fatigue",
-        "Ekos":null,
-        "Via":null,
-        "Motor":"LongTime",
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Route.Execution",
-        "Soma":null,
-        "Ekos":null,
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Route.Finish",
-        "Soma":null,
-        "Ekos":null,
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Route.OneHanded",
-        "Soma":null,
-        "Ekos":"Klimon",
-        "Via":"Vertical",
-        "Motor":"LeadingWithHips",
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Route.OneHanded",
-        "Soma":null,
-        "Ekos":"Klimon",
-        "Via":"Vertical",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Route.OneHanded",
-        "Soma":null,
-        "Ekos":null,
-        "Via":"Vertical",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Route.OneHanded",
-        "Soma":null,
-        "Ekos":null,
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Route.OneHanded,DoubleProgress",
-        "Soma":"Leg<>",
-        "Ekos":null,
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Route.OneHanded,DoubleProgress.Tandem",
-        "Soma":"[Arm,Leg]",
-        "Ekos":null,
-        "Via":"Vertical",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Route.OneHanded,Twist",
-        "Soma":"Torso",
-        "Ekos":null,
-        "Via":"To.PerpendicularTo.Klimon",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Route.Rule.OneHanded",
-        "Soma":null,
-        "Ekos":null,
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Route.Start",
-        "Soma":null,
-        "Ekos":null,
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Route.Start.Run",
-        "Soma":null,
-        "Ekos":null,
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Route.TimeLimit",
-        "Soma":null,
-        "Ekos":null,
-        "Via":null,
-        "Motor":"Countdown",
-        "Anima":"Fear",
-        "Dev":null
-    },
-    {
-        "Labor":"Route.TimeLimit",
-        "Soma":null,
-        "Ekos":null,
-        "Via":null,
-        "Motor":"Countdown",
-        "Anima":"Joy",
-        "Dev":"Pleasantly surprised about how much time you have left"
-    },
-    {
-        "Labor":"Route.TimeLimit",
-        "Soma":null,
-        "Ekos":null,
-        "Via":null,
-        "Motor":"Countdown",
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Row",
-        "Soma":"Arm",
-        "Ekos":"Plast",
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Run",
-        "Soma":null,
-        "Ekos":"Prokline",
-        "Via":"Up",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Run",
-        "Soma":null,
-        "Ekos":null,
-        "Via":"Anterior",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Run",
-        "Soma":null,
-        "Ekos":null,
-        "Via":"ParallelTo.Klimon",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Run",
-        "Soma":null,
-        "Ekos":null,
-        "Via":"PerpendicularTo.Klimon",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Sauros",
-        "Soma":"Body",
-        "Ekos":null,
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":"Lateral Flexion of Torso while Progressing with other side's arm"
-    },
-    {
-        "Labor":"Sauros",
-        "Soma":"Body",
-        "Ekos":null,
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":"Sauros implies Progress"
-    },
-    {
-        "Labor":"Sauros",
-        "Soma":"Body",
-        "Ekos":null,
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Sauros",
-        "Soma":"Torso",
-        "Ekos":null,
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Sauros",
-        "Soma":null,
-        "Ekos":"Prokline",
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Sauros",
-        "Soma":null,
-        "Ekos":"Rekline",
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Sauros",
-        "Soma":null,
-        "Ekos":"Vertikal",
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Sauros.Iguana",
-        "Soma":null,
-        "Ekos":null,
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Sauros.Pivot.AnteriorSole",
-        "Soma":"Leg",
-        "Ekos":"Plast",
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Screw",
-        "Soma":null,
-        "Ekos":null,
-        "Via":"Clockwise",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Screw",
-        "Soma":null,
-        "Ekos":null,
-        "Via":"Counterclockwise",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Set.Route",
-        "Soma":null,
-        "Ekos":null,
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Set.Route.Blok",
-        "Soma":null,
-        "Ekos":null,
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Set.Route.Lead",
-        "Soma":null,
-        "Ekos":null,
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Setting,Driver",
-        "Soma":null,
-        "Ekos":null,
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Shake",
-        "Soma":"Arm",
-        "Ekos":null,
-        "Via":"Circumduction,Down",
-        "Motor":"Slow",
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Shake",
-        "Soma":"Arm",
-        "Ekos":null,
-        "Via":"Circumduction,Rotation",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Shake",
-        "Soma":"Arm",
-        "Ekos":null,
-        "Via":"Circumduction,Up",
-        "Motor":"Slow",
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Shake",
-        "Soma":"Arm",
-        "Ekos":null,
-        "Via":"Down",
-        "Motor":"Slow",
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Shake",
-        "Soma":"Arm",
-        "Ekos":null,
-        "Via":"Rotation",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Shake",
-        "Soma":"Arm",
-        "Ekos":null,
-        "Via":"Up",
-        "Motor":"Slow",
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Shake",
-        "Soma":"Leg",
-        "Ekos":null,
-        "Via":"Circumduction,Down",
-        "Motor":"Slow",
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Shake",
-        "Soma":"Leg",
-        "Ekos":null,
-        "Via":"Circumduction,Rotation",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Shake",
-        "Soma":"Leg",
-        "Ekos":null,
-        "Via":"Circumduction,Up",
-        "Motor":"Slow",
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Shake",
-        "Soma":"Leg",
-        "Ekos":null,
-        "Via":"Rotation",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Shake.Onda",
-        "Soma":"Arm",
-        "Ekos":null,
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Shake.Onda",
-        "Soma":"Leg",
-        "Ekos":null,
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Sit",
-        "Soma":null,
-        "Ekos":"Ground",
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Sit",
-        "Soma":null,
-        "Ekos":"Ledge",
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Sit.Straddle",
-        "Soma":null,
-        "Ekos":null,
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Slide",
-        "Soma":"Elbow",
-        "Ekos":null,
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Slide",
-        "Soma":"Finger",
-        "Ekos":null,
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Slide",
-        "Soma":"Foot",
-        "Ekos":null,
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Slide",
-        "Soma":"Hand",
-        "Ekos":null,
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Slide",
-        "Soma":"Knee",
-        "Ekos":null,
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Slide.LateralSole",
-        "Soma":"Leg",
-        "Ekos":"Panel",
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Slide.LateralSole",
-        "Soma":"Leg",
-        "Ekos":"Plast",
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Slide.MedialSole",
-        "Soma":"Leg",
-        "Ekos":"Panel",
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Slide.MedialSole",
-        "Soma":"Leg",
-        "Ekos":"Plast",
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Sling.GirthHitch",
-        "Soma":null,
-        "Ekos":null,
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Sling.Knot",
-        "Soma":null,
-        "Ekos":null,
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Slot",
-        "Soma":"Arm",
-        "Ekos":null,
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Slot",
-        "Soma":"Body",
-        "Ekos":"PocketSite",
-        "Via":"Passage",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Slot",
-        "Soma":"Body",
-        "Ekos":null,
-        "Via":"Passage,Sideways",
-        "Motor":null,
-        "Anima":null,
-        "Dev":"Betanym(\"between\")"
-    },
-    {
-        "Labor":"Slot",
-        "Soma":"Leg",
-        "Ekos":null,
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Smear",
-        "Soma":"Chin",
-        "Ekos":null,
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Smear",
-        "Soma":"Cranium",
-        "Ekos":null,
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Smear",
-        "Soma":"Foot",
-        "Ekos":"Plast",
-        "Via":"Slab",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Smear",
-        "Soma":"Foot",
-        "Ekos":"Prokline",
-        "Via":"Slab",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Smear",
-        "Soma":"Foot",
-        "Ekos":null,
-        "Via":"Slab",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Smear",
-        "Soma":"Hand",
-        "Ekos":"Horizontal&Corner",
-        "Via":"Slab",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Smear",
-        "Soma":"Hand",
-        "Ekos":"Panel",
-        "Via":"Slab",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Smear",
-        "Soma":"Hand",
-        "Ekos":"Plast",
-        "Via":"Slab",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Smear",
-        "Soma":"Hand",
-        "Ekos":"Prokline",
-        "Via":"Slab",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Smear",
-        "Soma":"Hand",
-        "Ekos":"Vertical&Corner",
-        "Via":"Slab",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Smear",
-        "Soma":"Hand",
-        "Ekos":"Volume",
-        "Via":"Slab",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Smear",
-        "Soma":"Hand",
-        "Ekos":null,
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Smear",
-        "Soma":"Hand<>",
-        "Ekos":"Volume",
-        "Via":"Slab",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Smear",
-        "Soma":"Head",
-        "Ekos":null,
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Smear",
-        "Soma":"Hip",
-        "Ekos":null,
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Smear",
-        "Soma":"Leg",
-        "Ekos":null,
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Smear",
-        "Soma":null,
-        "Ekos":null,
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Splits",
-        "Soma":"Leg<>",
-        "Ekos":null,
-        "Via":"Anterior",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Splits",
-        "Soma":"Leg<>",
-        "Ekos":null,
-        "Via":"Lateral",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Splits",
-        "Soma":null,
-        "Ekos":null,
-        "Via":"Anterior",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Splits.LateralSole",
-        "Soma":"Leg<>",
-        "Ekos":null,
-        "Via":"Anterior",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Splits.LateralSole",
-        "Soma":"Leg<>",
-        "Ekos":null,
-        "Via":"Lateral",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Splits.MedialSole",
-        "Soma":"Leg<>",
-        "Ekos":null,
-        "Via":"Anterior",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Splits.MedialSole",
-        "Soma":"Leg<>",
-        "Ekos":null,
-        "Via":"Lateral",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Spotting",
-        "Soma":null,
-        "Ekos":null,
-        "Via":null,
-        "Motor":"Dynamic",
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Spotting",
-        "Soma":null,
-        "Ekos":null,
-        "Via":null,
-        "Motor":"Static",
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Spotting",
-        "Soma":null,
-        "Ekos":null,
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Stack",
-        "Soma":"2Finger",
-        "Ekos":null,
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Stack",
-        "Soma":"3Finger",
-        "Ekos":null,
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Stack",
-        "Soma":"4Finger",
-        "Ekos":null,
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Stack",
-        "Soma":"Arm",
-        "Ekos":null,
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Stack",
-        "Soma":"Body",
-        "Ekos":null,
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Stack",
-        "Soma":"Finger",
-        "Ekos":null,
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Stack",
-        "Soma":"Hand",
-        "Ekos":null,
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Stack",
-        "Soma":"Leg",
-        "Ekos":null,
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Stack",
-        "Soma":"Spine",
-        "Ekos":null,
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Stack",
-        "Soma":null,
-        "Ekos":null,
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Stall",
-        "Soma":"Arm",
-        "Ekos":null,
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Stall",
-        "Soma":"Leg",
-        "Ekos":null,
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Stand",
-        "Soma":null,
-        "Ekos":null,
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Standing",
-        "Soma":null,
-        "Ekos":"Ground",
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Start.Jump",
-        "Soma":null,
-        "Ekos":null,
-        "Via":"Lateral",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Start.Jump",
-        "Soma":null,
-        "Ekos":null,
-        "Via":"Posterior",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Start.Jump",
-        "Soma":null,
-        "Ekos":null,
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Start.Jump.Amble",
-        "Soma":null,
-        "Ekos":null,
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Start.Jump.Match",
-        "Soma":null,
-        "Ekos":null,
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Start.Pongo.Ateles",
-        "Soma":"Arm<>",
-        "Ekos":"Plast",
-        "Via":"AwayFrom.Klimon",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Start.Progress.AnteriorSole",
-        "Soma":"Leg",
-        "Ekos":"Volume",
-        "Via":"Up",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Start.Progress.Ateles",
-        "Soma":"Arm<>",
-        "Ekos":"Plast",
-        "Via":"Up",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Start.Run",
-        "Soma":null,
-        "Ekos":null,
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Stemming",
-        "Soma":"Arm",
-        "Ekos":null,
-        "Via":"Posterior",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Stemming",
-        "Soma":"Arm",
-        "Ekos":null,
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Stemming",
-        "Soma":"Body",
-        "Ekos":null,
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Stemming",
-        "Soma":"Hand",
-        "Ekos":null,
-        "Via":"Roll",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Stemming",
-        "Soma":"Leg",
-        "Ekos":null,
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Stemming",
-        "Soma":null,
-        "Ekos":"Dihedral",
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Stemming.Splits",
-        "Soma":null,
-        "Ekos":null,
-        "Via":"Lateral",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Straddle",
-        "Soma":null,
-        "Ekos":null,
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Straddle.RockOver",
-        "Soma":"Leg<>",
-        "Ekos":null,
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Style.Flow",
-        "Soma":null,
-        "Ekos":null,
-        "Via":null,
-        "Motor":"Smooth,Dynamic",
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Style.Static",
-        "Soma":null,
-        "Ekos":null,
-        "Via":null,
-        "Motor":"Smooth,Static",
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Suspend",
-        "Soma":"Arm",
-        "Ekos":null,
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Suspend",
-        "Soma":"Leg",
-        "Ekos":null,
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Suspend.FingerHook",
-        "Soma":"Arm",
-        "Ekos":"Plast",
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Suspend.FingerHook",
-        "Soma":"Arm<>",
-        "Ekos":"Plast",
-        "Via":"Out",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Swap",
-        "Soma":"Arm<>",
-        "Ekos":"Plast",
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Swap",
-        "Soma":"Arm<>",
-        "Ekos":null,
-        "Via":null,
-        "Motor":null,
-        "Anima":"Blind",
-        "Dev":null
-    },
-    {
-        "Labor":"Swap",
-        "Soma":"Finger",
-        "Ekos":null,
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Swap",
-        "Soma":"Foot",
-        "Ekos":"Hop",
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Swap",
-        "Soma":"Foot",
-        "Ekos":null,
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Swap",
-        "Soma":"Foot,Hand",
-        "Ekos":null,
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Swap",
-        "Soma":"Foot.Heel,Hand",
-        "Ekos":null,
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Swap",
-        "Soma":"Foot.Toe,Hand",
-        "Ekos":null,
-        "Via":"Jug",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Swap",
-        "Soma":"Foot.Toe,Hand",
-        "Ekos":null,
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Swap",
-        "Soma":"Hand",
-        "Ekos":null,
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Swap",
-        "Soma":"Hand&Foot",
-        "Ekos":null,
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Swap",
-        "Soma":"Hand&Head",
-        "Ekos":null,
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Swap",
-        "Soma":"Hand&Heel",
-        "Ekos":null,
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Swap",
-        "Soma":"Hand&Hip",
-        "Ekos":null,
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Swap",
-        "Soma":"Hand&Knee",
-        "Ekos":null,
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Swap",
-        "Soma":"Hand&Toe",
-        "Ekos":null,
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Swap",
-        "Soma":"Head&Hand",
-        "Ekos":null,
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Swap",
-        "Soma":"Heel&Hand",
-        "Ekos":null,
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Swap",
-        "Soma":"Hip&Hand",
-        "Ekos":null,
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Swap",
-        "Soma":"Knee&Hand",
-        "Ekos":null,
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Swap",
-        "Soma":"Leg<>",
-        "Ekos":"Plast",
-        "Via":null,
-        "Motor":null,
-        "Anima":"Look",
-        "Dev":null
-    },
-    {
-        "Labor":"Swap",
-        "Soma":"Leg<>",
-        "Ekos":null,
-        "Via":null,
-        "Motor":null,
-        "Anima":"Blind",
-        "Dev":null
-    },
-    {
-        "Labor":"Swap",
-        "Soma":"ShoulderHand",
-        "Ekos":null,
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Swap",
-        "Soma":"[Hand,Toe]",
-        "Ekos":null,
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":"[] SquareBrackets are for sequences since they are indexed"
-    },
-    {
-        "Labor":"Swap",
-        "Soma":"[Toe,Hand]",
-        "Ekos":null,
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Swap",
-        "Soma":null,
-        "Ekos":null,
-        "Via":null,
-        "Motor":"Dynamic",
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Swap",
-        "Soma":null,
-        "Ekos":null,
-        "Via":null,
-        "Motor":"Static",
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Swap",
-        "Soma":null,
-        "Ekos":null,
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Swap,Crimp",
-        "Soma":"Foot.Toe,Hand",
-        "Ekos":null,
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Swap.FingerHook",
-        "Soma":"Arm<>",
-        "Ekos":"Plast",
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Swap.Overlap",
-        "Soma":"Foot<>",
-        "Ekos":null,
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Swap.Roll",
-        "Soma":"Foot,Hand",
-        "Ekos":null,
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Swap.Shake",
-        "Soma":"Arm",
-        "Ekos":null,
-        "Via":"Up&Down",
-        "Motor":"Cycle",
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Swap.Smear",
-        "Soma":"Foot",
-        "Ekos":null,
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Swing",
-        "Soma":null,
-        "Ekos":null,
-        "Via":"Forward",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Swing",
-        "Soma":null,
-        "Ekos":null,
-        "Via":null,
-        "Motor":"Initiation",
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Tangent",
-        "Soma":"Arm",
-        "Ekos":null,
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Tangent",
-        "Soma":"Leg",
-        "Ekos":null,
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Task.Abort",
-        "Soma":null,
-        "Ekos":null,
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Task.Abort.Drop",
-        "Soma":null,
-        "Ekos":null,
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Task.Abort.Fall",
-        "Soma":null,
-        "Ekos":null,
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Tendu",
-        "Soma":"Arm<>",
-        "Ekos":null,
-        "Via":"Compression",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Tendu&Kontakt.HeelSole",
-        "Soma":"Arm&Leg",
-        "Ekos":null,
-        "Via":"Compression",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Tendu&Kontakt.MedialSole",
-        "Soma":"Arm&Leg",
-        "Ekos":null,
-        "Via":"Compression",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Tendu&Kontakt.UpperRubber",
-        "Soma":"Arm&Leg",
-        "Ekos":null,
-        "Via":"Compression",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Tendu&Pongo",
-        "Soma":"Arm<>",
-        "Ekos":null,
-        "Via":"Compression",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Toggle",
-        "Soma":"Arm",
-        "Ekos":null,
-        "Via":"Anterior",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Toggle",
-        "Soma":"Arm",
-        "Ekos":null,
-        "Via":"Down",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Toggle",
-        "Soma":"Arm",
-        "Ekos":null,
-        "Via":"Lateral",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Toggle",
-        "Soma":"Arm",
-        "Ekos":null,
-        "Via":"Up",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Toggle",
-        "Soma":"Leg",
-        "Ekos":"Plast",
-        "Via":"Lateral",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Toggle",
-        "Soma":"Leg",
-        "Ekos":"Plast",
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Toggle",
-        "Soma":"Leg",
-        "Ekos":null,
-        "Via":"Anterior",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Toggle",
-        "Soma":"Leg",
-        "Ekos":null,
-        "Via":"Down",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Toggle",
-        "Soma":"Leg",
-        "Ekos":null,
-        "Via":"Lateral",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Toggle",
-        "Soma":"Leg",
-        "Ekos":null,
-        "Via":"Up",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Tool",
-        "Soma":null,
-        "Ekos":null,
-        "Via":"Site",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Tool",
-        "Soma":null,
-        "Ekos":null,
-        "Via":null,
-        "Motor":"Dynamic",
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Tool",
-        "Soma":null,
-        "Ekos":null,
-        "Via":null,
-        "Motor":"Static",
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Tool.",
-        "Soma":null,
-        "Ekos":null,
-        "Via":"Site",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Tool.Handle",
-        "Soma":null,
-        "Ekos":null,
-        "Via":"Site",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Tool.Kit",
-        "Soma":null,
-        "Ekos":null,
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Tool.Kontakt",
-        "Soma":null,
-        "Ekos":null,
-        "Via":"Site",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Tool.Repair",
-        "Soma":null,
-        "Ekos":null,
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Tool.Transport",
-        "Soma":null,
-        "Ekos":null,
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Top,Match",
-        "Soma":"Arm<>",
-        "Ekos":"Plast",
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"TopOut",
-        "Soma":null,
-        "Ekos":"Surface.Polished",
-        "Via":"High",
-        "Motor":"Dynamic",
-        "Anima":"Fear",
-        "Dev":null
-    },
-    {
-        "Labor":"TopOut",
-        "Soma":null,
-        "Ekos":null,
-        "Via":"High",
-        "Motor":"Dynamic",
-        "Anima":"Fear",
-        "Dev":"High is relative. 'High' is not Absolute. High is Affordance"
-    },
-    {
-        "Labor":"TopOut,Foka",
-        "Soma":null,
-        "Ekos":"Panel",
-        "Via":"Vertical",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"TopOut,Foka",
-        "Soma":null,
-        "Ekos":"Panel",
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"TopOut,Foka",
-        "Soma":null,
-        "Ekos":null,
-        "Via":"Anterior",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"TopOut,Foka",
-        "Soma":null,
-        "Ekos":null,
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"TopOut.Mantle",
-        "Soma":null,
-        "Ekos":null,
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"TopOut.MuscleUp",
-        "Soma":null,
-        "Ekos":null,
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"TopRope,Harness.Sit",
-        "Soma":null,
-        "Ekos":null,
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"TopRope,Rope",
-        "Soma":null,
-        "Ekos":null,
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Translate",
-        "Soma":"Body",
-        "Ekos":null,
-        "Via":"ParallelTo.Klimon",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Twist",
-        "Soma":"Arm",
-        "Ekos":null,
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Twist",
-        "Soma":"Body",
-        "Ekos":null,
-        "Via":"To.Site",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Twist",
-        "Soma":"Hips",
-        "Ekos":null,
-        "Via":"To.Perpendicular",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Twist",
-        "Soma":"Leg",
-        "Ekos":null,
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Twist",
-        "Soma":"Torso",
-        "Ekos":null,
-        "Via":"To.Klimon",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Twist",
-        "Soma":null,
-        "Ekos":null,
-        "Via":null,
-        "Motor":"Initiation",
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Twist.Kryos",
-        "Soma":"Arm<>&Leg",
-        "Ekos":null,
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Wave",
-        "Soma":"Body",
-        "Ekos":null,
-        "Via":"Backswing",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Wave",
-        "Soma":"Body",
-        "Ekos":null,
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Webbing.Knot.",
-        "Soma":null,
-        "Ekos":null,
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Whip",
-        "Soma":"Arm",
-        "Ekos":null,
-        "Via":"AwayFrom.Klimon",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Whip",
-        "Soma":"Arm",
-        "Ekos":null,
-        "Via":"Into.Klimon",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Whip",
-        "Soma":"Arm",
-        "Ekos":null,
-        "Via":"Over",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Whip",
-        "Soma":"Arm",
-        "Ekos":null,
-        "Via":"Up",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Whip",
-        "Soma":"Arm",
-        "Ekos":null,
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Whip",
-        "Soma":"Body",
-        "Ekos":null,
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Whip",
-        "Soma":"Leg",
-        "Ekos":"Twist",
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Whip",
-        "Soma":"Leg",
-        "Ekos":null,
-        "Via":"Down",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Whip",
-        "Soma":"Leg",
-        "Ekos":null,
-        "Via":"IntoKlimon",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Whip",
-        "Soma":"Leg",
-        "Ekos":null,
-        "Via":"Over",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Whip",
-        "Soma":"Leg",
-        "Ekos":null,
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Wrap",
-        "Soma":"Arm",
-        "Ekos":"Pole",
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Wrap",
-        "Soma":"Arm",
-        "Ekos":"Rope",
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Wrap",
-        "Soma":"Arm",
-        "Ekos":"Tree",
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Wrap",
-        "Soma":"Arm",
-        "Ekos":null,
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Wrap",
-        "Soma":"Arm(Leg)",
-        "Ekos":null,
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Wrap",
-        "Soma":"Leg",
-        "Ekos":null,
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Wrap",
-        "Soma":"Leg(Arm)",
-        "Ekos":null,
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Wrap",
-        "Soma":"Thumb",
-        "Ekos":null,
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Wrap(Collar)",
-        "Soma":"Thumb",
-        "Ekos":null,
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"Wrap(Rope)",
-        "Soma":"Thumb",
-        "Ekos":null,
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"[Absorb,Pongo,Release]",
-        "Soma":"Arm",
-        "Ekos":null,
-        "Via":"Down",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"[Absorb,Pongo].Ateles",
-        "Soma":"Arm",
-        "Ekos":"Plast",
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"[Absorb,Pongo].Ateles",
-        "Soma":"Arm",
-        "Ekos":null,
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"[Ama,Progress.Ateles]",
-        "Soma":"Arm",
-        "Ekos":"Panel",
-        "Via":"Up&CrossMidline",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"[Ama.Smear,Absorb]",
-        "Soma":"Arm.Palm",
-        "Ekos":"Klimon",
-        "Via":"To.Klimon",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"[Bump,Absorb.Ateles]",
-        "Soma":"Arm",
-        "Ekos":"Plast",
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"[Iguana,Lift]",
-        "Soma":"Leg",
-        "Ekos":null,
-        "Via":"Lateral",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"[Iguana,Lift].MedialSole",
-        "Soma":"Leg",
-        "Ekos":"Plast",
-        "Via":"Up",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"[Iguana,Lift].MedialSole",
-        "Soma":"Leg",
-        "Ekos":null,
-        "Via":"Up&Lateral",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"[Iguana,Lift].MedialSole",
-        "Soma":"Leg",
-        "Ekos":null,
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"[Iguana,Lift].Roll.MedialSole",
-        "Soma":"Leg",
-        "Ekos":null,
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"[Iguana,Toggle]",
-        "Soma":"Leg",
-        "Ekos":"Plast",
-        "Via":"Lateral",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"[Iguana.Roll,Toggle].MedialSole",
-        "Soma":"Leg",
-        "Ekos":null,
-        "Via":"[In,Lateral]",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"[Kangaroo,Onda]",
-        "Soma":"Leg",
-        "Ekos":null,
-        "Via":"Lateral",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"[Kangaroo.AnteriorSole,Progress.MedialSole,Iguana.MedialSole]",
-        "Soma":"Leg",
-        "Ekos":null,
-        "Via":"[Up,Up,Lateral]",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"[Kryos,Pull]",
-        "Soma":null,
-        "Ekos":null,
-        "Via":null,
-        "Motor":"Dynamic",
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"[Kryos,Pull]",
-        "Soma":null,
-        "Ekos":null,
-        "Via":null,
-        "Motor":"Static",
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"[Kryos,Push]",
-        "Soma":null,
-        "Ekos":null,
-        "Via":null,
-        "Motor":"Dynamic",
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"[Kryos,Push]",
-        "Soma":null,
-        "Ekos":null,
-        "Via":null,
-        "Motor":"Static",
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"[Lift,Pivot]",
-        "Soma":"Leg",
-        "Ekos":null,
-        "Via":"[Up,Medial]",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"[Modify,Pull.Ateles]",
-        "Soma":"Arm",
-        "Ekos":null,
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"[MuscleUp,Progress.Match",
-        "Soma":"Arm<>",
-        "Ekos":null,
-        "Via":"MaximumHeight",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"[Pendulate,Pull,Progress].Ateles",
-        "Soma":"Arm",
-        "Ekos":null,
-        "Via":"[Medial,To.Kontakt,Up]",
-        "Motor":"Deadpoint",
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"[Pendulate.Pongo.Ateles,Pull]",
-        "Soma":"Arm",
-        "Ekos":null,
-        "Via":"Up&To.Kontakt",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"[Pongo,Progress].Ateles",
-        "Soma":"Arm",
-        "Ekos":"Plast",
-        "Via":"Down",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"[Pongo,Pull].Ateles",
-        "Soma":"Arm",
-        "Ekos":"Plast",
-        "Via":"Jug",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"[Progress,Match]",
-        "Soma":"Arm",
-        "Ekos":null,
-        "Via":"Down",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"[Progress.AnteriorSole,Pivot.AnteriorSole]",
-        "Soma":"Leg",
-        "Ekos":"Plast",
-        "Via":"Down&Lateral",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"[Progress.LateralSole,Pivot]",
-        "Soma":"Leg",
-        "Ekos":null,
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"[Pull,Absorb.Pendulate,Pongo].Ateles",
-        "Soma":"Arm",
-        "Ekos":"Plast",
-        "Via":"[ToKlimon,Lateral]",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"[Pull,Pendulate.Progress].Ateles",
-        "Soma":"Arm",
-        "Ekos":null,
-        "Via":"To.[Medial,Lateral,Up]",
-        "Motor":"Deadpoint",
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"[Pull,Progress,Absorb].Ateles",
-        "Soma":"Arm",
-        "Ekos":null,
-        "Via":"[In,Down,Down]",
-        "Motor":"[Deadpoint,Gravity]",
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"[Pull,Progress.Ateles]",
-        "Soma":"Arm",
-        "Ekos":null,
-        "Via":"To.Klimon",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"[Pull,Progress.Ateles]",
-        "Soma":"Arm",
-        "Ekos":null,
-        "Via":"[To.Klimon,Down]",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"[Pull,Progress].Ateles",
-        "Soma":"Arm",
-        "Ekos":"Plast",
-        "Via":"To.Klimon&Up",
-        "Motor":"Deadpoint",
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"[Pull,Progress].Match",
-        "Soma":"Arm<>",
-        "Ekos":"Plast",
-        "Via":"Jug,Down",
-        "Motor":"Deadpoint",
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"[RockOverToggle]",
-        "Soma":"Arm",
-        "Ekos":null,
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"[Shake,Chalk.Slap]",
-        "Soma":"Arm",
-        "Ekos":null,
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"[Shake,Chalk.Slap]",
-        "Soma":"Arm<>",
-        "Ekos":null,
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":"[Suspend,Pull]",
-        "Soma":"Arm",
-        "Ekos":null,
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":null,
-        "Soma":"Arm",
-        "Ekos":"Air",
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":null,
-        "Soma":"Arm",
-        "Ekos":null,
-        "Via":"Abduction",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":null,
-        "Soma":"Arm",
-        "Ekos":null,
-        "Via":"Abduction,Horizontal",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":null,
-        "Soma":"Arm",
-        "Ekos":null,
-        "Via":"Abduction,Vertical",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":null,
-        "Soma":"Arm",
-        "Ekos":null,
-        "Via":"Above(Shoulder)",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":null,
-        "Soma":"Arm",
-        "Ekos":null,
-        "Via":"Align",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":null,
-        "Soma":"Arm",
-        "Ekos":null,
-        "Via":"Back",
-        "Motor":"Swing",
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":null,
-        "Soma":"Arm",
-        "Ekos":null,
-        "Via":"Below(Shoulder)",
-        "Motor":"Dynamic",
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":null,
-        "Soma":"Arm",
-        "Ekos":null,
-        "Via":"Below(Shoulder)",
-        "Motor":"Static",
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":null,
-        "Soma":"Arm",
-        "Ekos":null,
-        "Via":"Below(Shoulder)",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":null,
-        "Soma":"Arm",
-        "Ekos":null,
-        "Via":"Circumduction",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":null,
-        "Soma":"Arm",
-        "Ekos":null,
-        "Via":"ConcentricExtension",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":null,
-        "Soma":"Arm",
-        "Ekos":null,
-        "Via":"ConcentricFlexion",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":null,
-        "Soma":"Arm",
-        "Ekos":null,
-        "Via":"EccentricExtension",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":null,
-        "Soma":"Arm",
-        "Ekos":null,
-        "Via":"EccentricFlexion",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":null,
-        "Soma":"Arm",
-        "Ekos":null,
-        "Via":"Extension",
-        "Motor":"Dynamic",
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":null,
-        "Soma":"Arm",
-        "Ekos":null,
-        "Via":"Extension",
-        "Motor":"Static",
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":null,
-        "Soma":"Arm",
-        "Ekos":null,
-        "Via":"Extension",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":null,
-        "Soma":"Arm",
-        "Ekos":null,
-        "Via":"Extension,Down",
-        "Motor":"Dynamic",
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":null,
-        "Soma":"Arm",
-        "Ekos":null,
-        "Via":"Extension,Down",
-        "Motor":"Static",
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":null,
-        "Soma":"Arm",
-        "Ekos":null,
-        "Via":"ExternalRotation",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":null,
-        "Soma":"Arm",
-        "Ekos":null,
-        "Via":"IsometricContraction",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":null,
-        "Soma":"Arm",
-        "Ekos":null,
-        "Via":"Rotation",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":null,
-        "Soma":"Arm",
-        "Ekos":null,
-        "Via":"Slot",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":null,
-        "Soma":"Arm",
-        "Ekos":null,
-        "Via":"Tangent",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":null,
-        "Soma":"Arm",
-        "Ekos":null,
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":null,
-        "Soma":"Arm,Chest",
-        "Ekos":null,
-        "Via":null,
-        "Motor":"Compression",
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":null,
-        "Soma":"Arm,Leg",
-        "Ekos":null,
-        "Via":"Vertical",
-        "Motor":"Compression",
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":null,
-        "Soma":"Arm,Leg",
-        "Ekos":null,
-        "Via":null,
-        "Motor":"Compression",
-        "Anima":null,
-        "Dev":"Bicycle move"
-    },
-    {
-        "Labor":null,
-        "Soma":"Arm,Leg",
-        "Ekos":null,
-        "Via":null,
-        "Motor":"Compression",
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":null,
-        "Soma":"Arm<>",
-        "Ekos":"Plast",
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":"The right side is pulling along like a watts engine. Torso lateral flexion adds extra energy"
-    },
-    {
-        "Labor":null,
-        "Soma":"Arm<>",
-        "Ekos":null,
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":null,
-        "Soma":"Body",
-        "Ekos":null,
-        "Via":"Align",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":null,
-        "Soma":"Body",
-        "Ekos":null,
-        "Via":"Circumduction",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":null,
-        "Soma":"Body",
-        "Ekos":null,
-        "Via":"ClockwiseTwist",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":null,
-        "Soma":"Body",
-        "Ekos":null,
-        "Via":"CounterclockwiseTwist",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":null,
-        "Soma":"Body",
-        "Ekos":null,
-        "Via":"MaximumHeight",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":null,
-        "Soma":"Body",
-        "Ekos":null,
-        "Via":"Twist",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":null,
-        "Soma":"Body",
-        "Ekos":null,
-        "Via":null,
-        "Motor":"Lever",
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":null,
-        "Soma":"Elbow",
-        "Ekos":null,
-        "Via":"Neutral",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":null,
-        "Soma":"Finger",
-        "Ekos":null,
-        "Via":"Abduction",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":null,
-        "Soma":"Finger",
-        "Ekos":null,
-        "Via":"EccentricExtension",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":null,
-        "Soma":"Finger",
-        "Ekos":null,
-        "Via":"EccentricFlexion",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":null,
-        "Soma":"Finger",
-        "Ekos":null,
-        "Via":"Extension",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":null,
-        "Soma":"Finger",
-        "Ekos":null,
-        "Via":null,
-        "Motor":"Lock",
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":null,
-        "Soma":"Finger",
-        "Ekos":null,
-        "Via":null,
-        "Motor":"Nudge",
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":null,
-        "Soma":"Foot",
-        "Ekos":null,
-        "Via":"Above(Shoulder)",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":null,
-        "Soma":"Foot",
-        "Ekos":null,
-        "Via":"Below(Hip)",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":null,
-        "Soma":"Foot",
-        "Ekos":null,
-        "Via":"Pronation",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":null,
-        "Soma":"Foot",
-        "Ekos":null,
-        "Via":"Roll",
-        "Motor":"Swap",
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":null,
-        "Soma":"Foot",
-        "Ekos":null,
-        "Via":"Roll",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":null,
-        "Soma":"Foot",
-        "Ekos":null,
-        "Via":"Rotation",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":null,
-        "Soma":"Foot",
-        "Ekos":null,
-        "Via":"Slot",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":null,
-        "Soma":"Foot",
-        "Ekos":null,
-        "Via":"Supination",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":null,
-        "Soma":"Foot",
-        "Ekos":null,
-        "Via":null,
-        "Motor":"Nudge",
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":null,
-        "Soma":"Hand",
-        "Ekos":null,
-        "Via":"Above(Shoulder)",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":null,
-        "Soma":"Hand",
-        "Ekos":null,
-        "Via":"Below(Shoulder)",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":null,
-        "Soma":"Hand",
-        "Ekos":null,
-        "Via":"Deviation",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":null,
-        "Soma":"Hand",
-        "Ekos":null,
-        "Via":"Pronation",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":null,
-        "Soma":"Hand",
-        "Ekos":null,
-        "Via":"Rotation",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":null,
-        "Soma":"Hand",
-        "Ekos":null,
-        "Via":"Supination",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":null,
-        "Soma":"Hand",
-        "Ekos":null,
-        "Via":"UlnarDeviation",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":null,
-        "Soma":"Hand",
-        "Ekos":null,
-        "Via":null,
-        "Motor":"Nudge",
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":null,
-        "Soma":"Hip",
-        "Ekos":null,
-        "Via":"ConcentricFlexion",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":null,
-        "Soma":"Hip",
-        "Ekos":null,
-        "Via":"EccentricFlexion",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":null,
-        "Soma":"Hips",
-        "Ekos":null,
-        "Via":"ToKlimon",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":null,
-        "Soma":"Hips&Shoulder",
-        "Ekos":null,
-        "Via":"PerpendicularTo.Klimon",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":null,
-        "Soma":"Leg",
-        "Ekos":"Plast",
-        "Via":"Adduction",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":null,
-        "Soma":"Leg",
-        "Ekos":null,
-        "Via":"Abduction",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":null,
-        "Soma":"Leg",
-        "Ekos":null,
-        "Via":"Abduction,Horizontal",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":null,
-        "Soma":"Leg",
-        "Ekos":null,
-        "Via":"Abduction,Vertical",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":null,
-        "Soma":"Leg",
-        "Ekos":null,
-        "Via":"Align",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":null,
-        "Soma":"Leg",
-        "Ekos":null,
-        "Via":"AroundPassage(Circumduction)",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":null,
-        "Soma":"Leg",
-        "Ekos":null,
-        "Via":"Circumduction",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":null,
-        "Soma":"Leg",
-        "Ekos":null,
-        "Via":"Extension",
-        "Motor":"Dynamic",
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":null,
-        "Soma":"Leg",
-        "Ekos":null,
-        "Via":"Extension",
-        "Motor":"Static",
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":null,
-        "Soma":"Leg",
-        "Ekos":null,
-        "Via":"Extension",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":null,
-        "Soma":"Leg",
-        "Ekos":null,
-        "Via":"Extension,Medial",
-        "Motor":"Dynamic",
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":null,
-        "Soma":"Leg",
-        "Ekos":null,
-        "Via":"Extension,Medial",
-        "Motor":"Static",
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":null,
-        "Soma":"Leg",
-        "Ekos":null,
-        "Via":"Extension,Up",
-        "Motor":"Dynamic",
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":null,
-        "Soma":"Leg",
-        "Ekos":null,
-        "Via":"Extension,Up",
-        "Motor":"Static",
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":null,
-        "Soma":"Leg",
-        "Ekos":null,
-        "Via":"IsometricContraction",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":null,
-        "Soma":"Leg",
-        "Ekos":null,
-        "Via":"Rotation",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":null,
-        "Soma":"Leg",
-        "Ekos":null,
-        "Via":"Rotation.Medial",
-        "Motor":null,
-        "Anima":null,
-        "Dev":"(Rotation.Medial != Rotation&Medial)"
-    },
-    {
-        "Labor":null,
-        "Soma":"Leg",
-        "Ekos":null,
-        "Via":"Tangent",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":null,
-        "Soma":"Leg",
-        "Ekos":null,
-        "Via":"Up",
-        "Motor":"Progress",
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":null,
-        "Soma":"Leg",
-        "Ekos":null,
-        "Via":"Up",
-        "Motor":"Whip",
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":null,
-        "Soma":"Leg",
-        "Ekos":null,
-        "Via":null,
-        "Motor":"Compression",
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":null,
-        "Soma":"Leg",
-        "Ekos":null,
-        "Via":null,
-        "Motor":"Lever",
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":null,
-        "Soma":"Leg",
-        "Ekos":null,
-        "Via":null,
-        "Motor":"Lock",
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":null,
-        "Soma":"Leg<>",
-        "Ekos":null,
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":null,
-        "Soma":"Neck",
-        "Ekos":null,
-        "Via":"Extension",
-        "Motor":null,
-        "Anima":"Look",
-        "Dev":null
-    },
-    {
-        "Labor":null,
-        "Soma":"Neck",
-        "Ekos":null,
-        "Via":"Flexion",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":null,
-        "Soma":"Radial",
-        "Ekos":null,
-        "Via":"Deviation",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":null,
-        "Soma":"ReciprocalInhibition",
-        "Ekos":null,
-        "Via":null,
-        "Motor":"Dynamic",
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":null,
-        "Soma":"ReciprocalInhibition",
-        "Ekos":null,
-        "Via":null,
-        "Motor":"Static",
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":null,
-        "Soma":"Scapula",
-        "Ekos":null,
-        "Via":"Depression",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":null,
-        "Soma":"Scapula",
-        "Ekos":null,
-        "Via":"Down,Rotation",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":null,
-        "Soma":"Scapula",
-        "Ekos":null,
-        "Via":"Elevation",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":null,
-        "Soma":"Scapula",
-        "Ekos":null,
-        "Via":"Protraction",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":null,
-        "Soma":"Scapula",
-        "Ekos":null,
-        "Via":"Retraction",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":null,
-        "Soma":"Scapula",
-        "Ekos":null,
-        "Via":"Up,Rotation",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":null,
-        "Soma":"Shoulders",
-        "Ekos":"Plast",
-        "Via":"PerpendicularToKlimon",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":null,
-        "Soma":"Spine",
-        "Ekos":null,
-        "Via":"Align",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":null,
-        "Soma":"Spine",
-        "Ekos":null,
-        "Via":"Extension",
-        "Motor":"Dynamic",
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":null,
-        "Soma":"Spine",
-        "Ekos":null,
-        "Via":"Extension",
-        "Motor":"Static",
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":null,
-        "Soma":"Spine",
-        "Ekos":null,
-        "Via":"Extension",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":null,
-        "Soma":"Spine",
-        "Ekos":null,
-        "Via":"Extension,Lateral",
-        "Motor":"Dynamic",
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":null,
-        "Soma":"Spine",
-        "Ekos":null,
-        "Via":"Extension,Lateral",
-        "Motor":"Static",
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":null,
-        "Soma":"Thumb",
-        "Ekos":null,
-        "Via":"Abduction,",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":null,
-        "Soma":"Thumb",
-        "Ekos":null,
-        "Via":"Flexion",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":null,
-        "Soma":"Torso",
-        "Ekos":"Klimon",
-        "Via":"Parallel",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":null,
-        "Soma":"Torso",
-        "Ekos":"Klimon",
-        "Via":"ParallelTo.Klimon",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":null,
-        "Soma":"Torso",
-        "Ekos":"Klimon",
-        "Via":"PerpendicularTo.Klimon",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":null,
-        "Soma":"Torso",
-        "Ekos":null,
-        "Via":"Flexion&ParallelTo.Klimon",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":null,
-        "Soma":"Torso",
-        "Ekos":null,
-        "Via":"ParallelTo.Klimon",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":null,
-        "Soma":"Torso",
-        "Ekos":null,
-        "Via":"ParallelToKlimon",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":null,
-        "Soma":"Torso",
-        "Ekos":null,
-        "Via":"PerpendicularTo.Klimon",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":null,
-        "Soma":"Torso",
-        "Ekos":null,
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":null,
-        "Soma":"Volume",
-        "Ekos":"Plast,",
-        "Via":"Jug",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":null,
-        "Soma":"Wrist",
-        "Ekos":null,
-        "Via":"Neutral",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":null,
-        "Soma":null,
-        "Ekos":"Klimon",
-        "Via":"Align.Parallel",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":null,
-        "Soma":null,
-        "Ekos":"Klimon",
-        "Via":"Align.Perpendicular",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":null,
-        "Soma":null,
-        "Ekos":"Plast",
-        "Via":"Up",
-        "Motor":null,
-        "Anima":"Look.Site",
-        "Dev":null
-    },
-    {
-        "Labor":null,
-        "Soma":null,
-        "Ekos":"Vertikal",
-        "Via":"Vertical",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":null,
-        "Soma":null,
-        "Ekos":null,
-        "Via":"Abduction",
-        "Motor":"Dynamic",
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":null,
-        "Soma":null,
-        "Ekos":null,
-        "Via":"Abduction",
-        "Motor":"Static",
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":null,
-        "Soma":null,
-        "Ekos":null,
-        "Via":"Abduction",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":null,
-        "Soma":null,
-        "Ekos":null,
-        "Via":"Accurate",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":null,
-        "Soma":null,
-        "Ekos":null,
-        "Via":"Align",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":null,
-        "Soma":null,
-        "Ekos":null,
-        "Via":"Align,Line",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":null,
-        "Soma":null,
-        "Ekos":null,
-        "Via":"Align,Point",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":null,
-        "Soma":null,
-        "Ekos":null,
-        "Via":"Align,Shape",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":null,
-        "Soma":null,
-        "Ekos":null,
-        "Via":"Angular,Deflection",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":null,
-        "Soma":null,
-        "Ekos":null,
-        "Via":"Anterior",
-        "Motor":"Deadpoint",
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":null,
-        "Soma":null,
-        "Ekos":null,
-        "Via":"Asymmetric",
-        "Motor":"Dynamic",
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":null,
-        "Soma":null,
-        "Ekos":null,
-        "Via":"Asymmetric",
-        "Motor":"Static",
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":null,
-        "Soma":null,
-        "Ekos":null,
-        "Via":"Asymmetric,Horizontal",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":null,
-        "Soma":null,
-        "Ekos":null,
-        "Via":"Asymmetric,Vertical",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":null,
-        "Soma":null,
-        "Ekos":null,
-        "Via":"Circumduction,Horizontal",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":null,
-        "Soma":null,
-        "Ekos":null,
-        "Via":"Circumduction,Vertical",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":null,
-        "Soma":null,
-        "Ekos":null,
-        "Via":"Deflection",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":null,
-        "Soma":null,
-        "Ekos":null,
-        "Via":"Diagonal",
-        "Motor":"Deadpoint",
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":null,
-        "Soma":null,
-        "Ekos":null,
-        "Via":"Diagonal",
-        "Motor":"Dyno",
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":null,
-        "Soma":null,
-        "Ekos":null,
-        "Via":"Distal",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":null,
-        "Soma":null,
-        "Ekos":null,
-        "Via":"Down",
-        "Motor":"Deadpoint",
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":null,
-        "Soma":null,
-        "Ekos":null,
-        "Via":"Down",
-        "Motor":"Dynamic",
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":null,
-        "Soma":null,
-        "Ekos":null,
-        "Via":"Down",
-        "Motor":"Passive,Dynamic",
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":null,
-        "Soma":null,
-        "Ekos":null,
-        "Via":"Down",
-        "Motor":"Passive,Static",
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":null,
-        "Soma":null,
-        "Ekos":null,
-        "Via":"Down",
-        "Motor":null,
-        "Anima":"Look",
-        "Dev":null
-    },
-    {
-        "Labor":null,
-        "Soma":null,
-        "Ekos":null,
-        "Via":"Down",
-        "Motor":null,
-        "Anima":"Look.Site",
-        "Dev":null
-    },
-    {
-        "Labor":null,
-        "Soma":null,
-        "Ekos":null,
-        "Via":"Down",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":null,
-        "Soma":null,
-        "Ekos":null,
-        "Via":"Down&Posterior",
-        "Motor":null,
-        "Anima":"Look",
-        "Dev":null
-    },
-    {
-        "Labor":null,
-        "Soma":null,
-        "Ekos":null,
-        "Via":"Flexion",
-        "Motor":"Dynamic",
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":null,
-        "Soma":null,
-        "Ekos":null,
-        "Via":"Flexion",
-        "Motor":"Static",
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":null,
-        "Soma":null,
-        "Ekos":null,
-        "Via":"Horizontal",
-        "Motor":"Deadpoint",
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":null,
-        "Soma":null,
-        "Ekos":null,
-        "Via":"Horizontal",
-        "Motor":"Dyno",
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":null,
-        "Soma":null,
-        "Ekos":null,
-        "Via":"Isometric,Contraction",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":null,
-        "Soma":null,
-        "Ekos":null,
-        "Via":"Lateral",
-        "Motor":"Deadpoint",
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":null,
-        "Soma":null,
-        "Ekos":null,
-        "Via":"Lateral",
-        "Motor":"Dynamic",
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":null,
-        "Soma":null,
-        "Ekos":null,
-        "Via":"Lateral",
-        "Motor":"Static",
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":null,
-        "Soma":null,
-        "Ekos":null,
-        "Via":"Lateral",
-        "Motor":null,
-        "Anima":"Look",
-        "Dev":null
-    },
-    {
-        "Labor":null,
-        "Soma":null,
-        "Ekos":null,
-        "Via":"Lateral",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":null,
-        "Soma":null,
-        "Ekos":null,
-        "Via":"Medial",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":null,
-        "Soma":null,
-        "Ekos":null,
-        "Via":"Optimize",
-        "Motor":"Friction",
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":null,
-        "Soma":null,
-        "Ekos":null,
-        "Via":"Optimize",
-        "Motor":"Friction,Dynamic",
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":null,
-        "Soma":null,
-        "Ekos":null,
-        "Via":"Optimize",
-        "Motor":"Friction,Static",
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":null,
-        "Soma":null,
-        "Ekos":null,
-        "Via":"Optimize,To.Parallel)",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":null,
-        "Soma":null,
-        "Ekos":null,
-        "Via":"Optimize,To.Perpendicular)",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":null,
-        "Soma":null,
-        "Ekos":null,
-        "Via":"OverThenUp",
-        "Motor":"Deadpoint",
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":null,
-        "Soma":null,
-        "Ekos":null,
-        "Via":"Position",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":null,
-        "Soma":null,
-        "Ekos":null,
-        "Via":"Posterior",
-        "Motor":"Deadpoint",
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":null,
-        "Soma":null,
-        "Ekos":null,
-        "Via":"Posterior",
-        "Motor":"Dyno",
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":null,
-        "Soma":null,
-        "Ekos":null,
-        "Via":"Posterior",
-        "Motor":null,
-        "Anima":"Look",
-        "Dev":null
-    },
-    {
-        "Labor":null,
-        "Soma":null,
-        "Ekos":null,
-        "Via":"Precise",
-        "Motor":"Dynamic",
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":null,
-        "Soma":null,
-        "Ekos":null,
-        "Via":"Precise",
-        "Motor":"Static",
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":null,
-        "Soma":null,
-        "Ekos":null,
-        "Via":"Precise",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":null,
-        "Soma":null,
-        "Ekos":null,
-        "Via":"Proximal",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":null,
-        "Soma":null,
-        "Ekos":null,
-        "Via":"Rotation",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":null,
-        "Soma":null,
-        "Ekos":null,
-        "Via":"Slab",
-        "Motor":null,
-        "Anima":"Balance",
-        "Dev":null
-    },
-    {
-        "Labor":null,
-        "Soma":null,
-        "Ekos":null,
-        "Via":"Slot",
-        "Motor":"Dynamic",
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":null,
-        "Soma":null,
-        "Ekos":null,
-        "Via":"Slot",
-        "Motor":"Static",
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":null,
-        "Soma":null,
-        "Ekos":null,
-        "Via":"Slot",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":null,
-        "Soma":null,
-        "Ekos":null,
-        "Via":"Symmetric",
-        "Motor":"Dynamic",
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":null,
-        "Soma":null,
-        "Ekos":null,
-        "Via":"Symmetric",
-        "Motor":"Static",
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":null,
-        "Soma":null,
-        "Ekos":null,
-        "Via":"Symmetric",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":null,
-        "Soma":null,
-        "Ekos":null,
-        "Via":"Tangent",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":null,
-        "Soma":null,
-        "Ekos":null,
-        "Via":"To.Stand)",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":null,
-        "Soma":null,
-        "Ekos":null,
-        "Via":"Twist",
-        "Motor":"Dynamic",
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":null,
-        "Soma":null,
-        "Ekos":null,
-        "Via":"Twist",
-        "Motor":"Static",
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":null,
-        "Soma":null,
-        "Ekos":null,
-        "Via":"Twist",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":null,
-        "Soma":null,
-        "Ekos":null,
-        "Via":"Twist,Deflection",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":null,
-        "Soma":null,
-        "Ekos":null,
-        "Via":"Up",
-        "Motor":"Passive,Dynamic",
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":null,
-        "Soma":null,
-        "Ekos":null,
-        "Via":"Up",
-        "Motor":"Passive,Static",
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":null,
-        "Soma":null,
-        "Ekos":null,
-        "Via":"Up",
-        "Motor":null,
-        "Anima":"Look",
-        "Dev":null
-    },
-    {
-        "Labor":null,
-        "Soma":null,
-        "Ekos":null,
-        "Via":"UpThenOver",
-        "Motor":"Deadpoint",
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":null,
-        "Soma":null,
-        "Ekos":null,
-        "Via":"Vertical",
-        "Motor":"Deadpoint",
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":null,
-        "Soma":null,
-        "Ekos":null,
-        "Via":"Vertical",
-        "Motor":"Dynamic",
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":null,
-        "Soma":null,
-        "Ekos":null,
-        "Via":"Vertical",
-        "Motor":"Dyno",
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":null,
-        "Soma":null,
-        "Ekos":null,
-        "Via":"Vertical",
-        "Motor":"Static",
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":null,
-        "Soma":null,
-        "Ekos":null,
-        "Via":"While(Twist)",
-        "Motor":null,
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":null,
-        "Soma":null,
-        "Ekos":null,
-        "Via":null,
-        "Motor":"Passive,Gravity",
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":null,
-        "Soma":null,
-        "Ekos":null,
-        "Via":null,
-        "Motor":"Static",
-        "Anima":null,
-        "Dev":null
-    },
-    {
-        "Labor":null,
-        "Soma":null,
-        "Ekos":null,
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":"Gaston"
-    },
-    {
-        "Labor":null,
-        "Soma":null,
-        "Ekos":null,
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":"Layback"
-    },
-    {
-        "Labor":null,
-        "Soma":null,
-        "Ekos":null,
-        "Via":null,
-        "Motor":null,
-        "Anima":null,
-        "Dev":"Twistlock"
+        "betomKebab": "Add-Markum",
+        "betomglyf": {
+            "labor": "Add.Markum"
+        },
+        "betomEnglishName": "",
+        "betomID": "",
+        "betomAlias": [],
+        "betomDescription": [],
+        "betomBetanyms": [],
+        "betomProfilePic": "",
+        "betomExample": {
+            "betomVideo": [],
+            "betomImage": [],
+            "betomQuote": []
+        },
+        "dev": []
+    },
+    {
+        "betomKebab": "Aktion-Flora-Branch",
+        "betomglyf": {
+            "labor": "Aktion",
+            "ekos": "Flora.Branch"
+        },
+        "betomEnglishName": "",
+        "betomID": "",
+        "betomAlias": [],
+        "betomDescription": [],
+        "betomBetanyms": [],
+        "betomProfilePic": "",
+        "betomExample": {
+            "betomVideo": [],
+            "betomImage": [],
+            "betomQuote": []
+        },
+        "dev": []
+    },
+    {
+        "betomKebab": "Aktion-Flora",
+        "betomglyf": {
+            "labor": "Aktion",
+            "ekos": "Flora"
+        },
+        "betomEnglishName": "",
+        "betomID": "",
+        "betomAlias": [],
+        "betomDescription": [],
+        "betomBetanyms": [],
+        "betomProfilePic": "",
+        "betomExample": {
+            "betomVideo": [],
+            "betomImage": [],
+            "betomQuote": []
+        },
+        "dev": []
+    },
+    {
+        "betomKebab": "Aktion-Hand",
+        "betomglyf": {
+            "labor": "Aktion",
+            "soma": "Hand"
+        },
+        "betomEnglishName": "",
+        "betomID": "",
+        "betomAlias": [],
+        "betomDescription": [],
+        "betomBetanyms": [],
+        "betomProfilePic": "",
+        "betomExample": {
+            "betomVideo": [],
+            "betomImage": [],
+            "betomQuote": []
+        },
+        "dev": []
+    },
+    {
+        "betomKebab": "Aktion-Head",
+        "betomglyf": {
+            "labor": "Aktion",
+            "soma": "Head"
+        },
+        "betomEnglishName": "",
+        "betomID": "",
+        "betomAlias": [],
+        "betomDescription": [],
+        "betomBetanyms": [],
+        "betomProfilePic": "",
+        "betomExample": {
+            "betomVideo": [],
+            "betomImage": [],
+            "betomQuote": []
+        },
+        "dev": []
+    },
+    {
+        "betomKebab": "Aktion-Korpo",
+        "betomglyf": {
+            "labor": "Aktion",
+            "soma": "Korpo"
+        },
+        "betomEnglishName": "",
+        "betomID": "",
+        "betomAlias": [],
+        "betomDescription": [],
+        "betomBetanyms": [],
+        "betomProfilePic": "",
+        "betomExample": {
+            "betomVideo": [],
+            "betomImage": [],
+            "betomQuote": []
+        },
+        "dev": []
+    },
+    {
+        "betomKebab": "Allos-Layer",
+        "betomglyf": {
+            "labor": "Allos,Layer"
+        },
+        "betomEnglishName": "",
+        "betomID": "",
+        "betomAlias": [],
+        "betomDescription": [],
+        "betomBetanyms": [],
+        "betomProfilePic": "",
+        "betomExample": {
+            "betomVideo": [],
+            "betomImage": [],
+            "betomQuote": []
+        },
+        "dev": []
+    },
+    {
+        "betomKebab": "Ama-Arm",
+        "betomglyf": {
+            "labor": "Ama",
+            "soma": "Arm"
+        },
+        "betomEnglishName": "",
+        "betomID": "",
+        "betomAlias": [],
+        "betomDescription": [],
+        "betomBetanyms": [],
+        "betomProfilePic": "",
+        "betomExample": {
+            "betomVideo": [],
+            "betomImage": [],
+            "betomQuote": []
+        },
+        "dev": []
+    },
+    {
+        "betomKebab": "Ama-Leg",
+        "betomglyf": {
+            "labor": "Ama",
+            "soma": "Leg"
+        },
+        "betomEnglishName": "",
+        "betomID": "",
+        "betomAlias": [],
+        "betomDescription": [],
+        "betomBetanyms": [],
+        "betomProfilePic": "",
+        "betomExample": {
+            "betomVideo": [],
+            "betomImage": [],
+            "betomQuote": []
+        },
+        "dev": []
+    },
+    {
+        "betomKebab": "Ama-Spade",
+        "betomglyf": {
+            "labor": "Ama,Spade"
+        },
+        "betomEnglishName": "",
+        "betomID": "",
+        "betomAlias": [],
+        "betomDescription": [],
+        "betomBetanyms": [],
+        "betomProfilePic": "",
+        "betomExample": {
+            "betomVideo": [],
+            "betomImage": [],
+            "betomQuote": []
+        },
+        "dev": []
+    },
+    {
+        "betomKebab": "Amble-Arm",
+        "betomglyf": {
+            "labor": "Amble",
+            "soma": "Arm"
+        },
+        "betomEnglishName": "",
+        "betomID": "",
+        "betomAlias": [],
+        "betomDescription": [],
+        "betomBetanyms": [],
+        "betomProfilePic": "",
+        "betomExample": {
+            "betomVideo": [],
+            "betomImage": [],
+            "betomQuote": []
+        },
+        "dev": []
+    },
+    {
+        "betomKebab": "Amble-Branta-Korpo",
+        "betomglyf": {
+            "labor": "Amble.Branta",
+            "soma": "Korpo"
+        },
+        "betomEnglishName": "",
+        "betomID": "",
+        "betomAlias": [],
+        "betomDescription": [],
+        "betomBetanyms": [],
+        "betomProfilePic": "",
+        "betomExample": {
+            "betomVideo": [],
+            "betomImage": [],
+            "betomQuote": []
+        },
+        "dev": []
+    },
+    {
+        "betomKebab": "Amble-Korpo-Cross",
+        "betomglyf": {
+            "labor": "Amble",
+            "soma": "Korpo",
+            "via": "Cross"
+        },
+        "betomEnglishName": "",
+        "betomID": "",
+        "betomAlias": [],
+        "betomDescription": [],
+        "betomBetanyms": [],
+        "betomProfilePic": "",
+        "betomExample": {
+            "betomVideo": [],
+            "betomImage": [],
+            "betomQuote": []
+        },
+        "dev": []
+    },
+    {
+        "betomKebab": "Amble-Korpo-Prokline",
+        "betomglyf": {
+            "labor": "Amble",
+            "soma": "Korpo",
+            "ekos": "Prokline"
+        },
+        "betomEnglishName": "",
+        "betomID": "",
+        "betomAlias": [],
+        "betomDescription": [],
+        "betomBetanyms": [],
+        "betomProfilePic": "",
+        "betomExample": {
+            "betomVideo": [],
+            "betomImage": [],
+            "betomQuote": []
+        },
+        "dev": []
+    },
+    {
+        "betomKebab": "Amble-Korpo-Under",
+        "betomglyf": {
+            "labor": "Amble",
+            "soma": "Korpo",
+            "via": "Under"
+        },
+        "betomEnglishName": "",
+        "betomID": "",
+        "betomAlias": [],
+        "betomDescription": [],
+        "betomBetanyms": [],
+        "betomProfilePic": "",
+        "betomExample": {
+            "betomVideo": [],
+            "betomImage": [],
+            "betomQuote": []
+        },
+        "dev": []
+    },
+    {
+        "betomKebab": "Amble-Korpo",
+        "betomglyf": {
+            "labor": "Amble",
+            "soma": "Korpo"
+        },
+        "betomEnglishName": "",
+        "betomID": "",
+        "betomAlias": [],
+        "betomDescription": [],
+        "betomBetanyms": [],
+        "betomProfilePic": "",
+        "betomExample": {
+            "betomVideo": [],
+            "betomImage": [],
+            "betomQuote": []
+        },
+        "dev": []
+    },
+    {
+        "betomKebab": "Amble-Krampon",
+        "betomglyf": {
+            "labor": "Amble.Krampon"
+        },
+        "betomEnglishName": "",
+        "betomID": "",
+        "betomAlias": [],
+        "betomDescription": [],
+        "betomBetanyms": [],
+        "betomProfilePic": "",
+        "betomExample": {
+            "betomVideo": [],
+            "betomImage": [],
+            "betomQuote": []
+        },
+        "dev": []
+    },
+    {
+        "betomKebab": "Amble-Spade",
+        "betomglyf": {
+            "labor": "Amble,Spade"
+        },
+        "betomEnglishName": "",
+        "betomID": "",
+        "betomAlias": [],
+        "betomDescription": [],
+        "betomBetanyms": [],
+        "betomProfilePic": "",
+        "betomExample": {
+            "betomVideo": [],
+            "betomImage": [],
+            "betomQuote": []
+        },
+        "dev": []
+    },
+    {
+        "betomKebab": "Armor-Flora",
+        "betomglyf": {
+            "labor": "Armor",
+            "ekos": "Flora"
+        },
+        "betomEnglishName": "",
+        "betomID": "",
+        "betomAlias": [],
+        "betomDescription": [],
+        "betomBetanyms": [],
+        "betomProfilePic": "",
+        "betomExample": {
+            "betomVideo": [],
+            "betomImage": [],
+            "betomQuote": []
+        },
+        "dev": []
+    },
+    {
+        "betomKebab": "Armor-Plantafor-Bag",
+        "betomglyf": {
+            "labor": "Armor,Plantafor.Bag"
+        },
+        "betomEnglishName": "",
+        "betomID": "",
+        "betomAlias": [],
+        "betomDescription": [],
+        "betomBetanyms": [],
+        "betomProfilePic": "",
+        "betomExample": {
+            "betomVideo": [],
+            "betomImage": [],
+            "betomQuote": []
+        },
+        "dev": []
+    },
+    {
+        "betomKebab": "Armor-Spade",
+        "betomglyf": {
+            "labor": "Armor,Spade"
+        },
+        "betomEnglishName": "",
+        "betomID": "",
+        "betomAlias": [],
+        "betomDescription": [],
+        "betomBetanyms": [],
+        "betomProfilePic": "",
+        "betomExample": {
+            "betomVideo": [],
+            "betomImage": [],
+            "betomQuote": []
+        },
+        "dev": []
+    },
+    {
+        "betomKebab": "Bag-Rim-Site",
+        "betomglyf": {
+            "labor": "Bag.Rim",
+            "via": "Site"
+        },
+        "betomEnglishName": "",
+        "betomID": "",
+        "betomAlias": [],
+        "betomDescription": [],
+        "betomBetanyms": [],
+        "betomProfilePic": "",
+        "betomExample": {
+            "betomVideo": [],
+            "betomImage": [],
+            "betomQuote": []
+        },
+        "dev": []
+    },
+    {
+        "betomKebab": "Bag-Site",
+        "betomglyf": {
+            "labor": "Bag",
+            "via": "Site"
+        },
+        "betomEnglishName": "",
+        "betomID": "",
+        "betomAlias": [],
+        "betomDescription": [],
+        "betomBetanyms": [],
+        "betomProfilePic": "",
+        "betomExample": {
+            "betomVideo": [],
+            "betomImage": [],
+            "betomQuote": []
+        },
+        "dev": []
+    },
+    {
+        "betomKebab": "Ballista-Flora",
+        "betomglyf": {
+            "labor": "Ballista",
+            "ekos": "Flora"
+        },
+        "betomEnglishName": "",
+        "betomID": "",
+        "betomAlias": [],
+        "betomDescription": [],
+        "betomBetanyms": [],
+        "betomProfilePic": "",
+        "betomExample": {
+            "betomVideo": [],
+            "betomImage": [],
+            "betomQuote": []
+        },
+        "dev": []
+    },
+    {
+        "betomKebab": "Ballista-Markum",
+        "betomglyf": {
+            "labor": "Ballista,Markum"
+        },
+        "betomEnglishName": "",
+        "betomID": "",
+        "betomAlias": [],
+        "betomDescription": [],
+        "betomBetanyms": [],
+        "betomProfilePic": "",
+        "betomExample": {
+            "betomVideo": [],
+            "betomImage": [],
+            "betomQuote": []
+        },
+        "dev": []
+    },
+    {
+        "betomKebab": "Boot-Lace-Modify",
+        "betomglyf": {
+            "labor": "Boot.Lace.Modify"
+        },
+        "betomEnglishName": "",
+        "betomID": "",
+        "betomAlias": [],
+        "betomDescription": [],
+        "betomBetanyms": [],
+        "betomProfilePic": "",
+        "betomExample": {
+            "betomVideo": [],
+            "betomImage": [],
+            "betomQuote": []
+        },
+        "dev": []
+    },
+    {
+        "betomKebab": "Boot-Mano",
+        "betomglyf": {
+            "labor": "Boot.Mano"
+        },
+        "betomEnglishName": "",
+        "betomID": "",
+        "betomAlias": [],
+        "betomDescription": [],
+        "betomBetanyms": [],
+        "betomProfilePic": "",
+        "betomExample": {
+            "betomVideo": [],
+            "betomImage": [],
+            "betomQuote": []
+        },
+        "dev": []
+    },
+    {
+        "betomKebab": "Boot-Off",
+        "betomglyf": {
+            "labor": "Boot.Off"
+        },
+        "betomEnglishName": "",
+        "betomID": "",
+        "betomAlias": [],
+        "betomDescription": [],
+        "betomBetanyms": [],
+        "betomProfilePic": "",
+        "betomExample": {
+            "betomVideo": [],
+            "betomImage": [],
+            "betomQuote": []
+        },
+        "dev": []
+    },
+    {
+        "betomKebab": "Boot-On",
+        "betomglyf": {
+            "labor": "Boot.On"
+        },
+        "betomEnglishName": "",
+        "betomID": "",
+        "betomAlias": [],
+        "betomDescription": [],
+        "betomBetanyms": [],
+        "betomProfilePic": "",
+        "betomExample": {
+            "betomVideo": [],
+            "betomImage": [],
+            "betomQuote": []
+        },
+        "dev": []
+    },
+    {
+        "betomKebab": "Boot-Preserve",
+        "betomglyf": {
+            "labor": "Boot.Preserve"
+        },
+        "betomEnglishName": "",
+        "betomID": "",
+        "betomAlias": [],
+        "betomDescription": [],
+        "betomBetanyms": [],
+        "betomProfilePic": "",
+        "betomExample": {
+            "betomVideo": [],
+            "betomImage": [],
+            "betomQuote": []
+        },
+        "dev": []
+    },
+    {
+        "betomKebab": "Box-Aktion",
+        "betomglyf": {
+            "labor": "Box.Aktion"
+        },
+        "betomEnglishName": "",
+        "betomID": "",
+        "betomAlias": [],
+        "betomDescription": [],
+        "betomBetanyms": [],
+        "betomProfilePic": "",
+        "betomExample": {
+            "betomVideo": [],
+            "betomImage": [],
+            "betomQuote": []
+        },
+        "dev": []
+    },
+    {
+        "betomKebab": "Box-Construct",
+        "betomglyf": {
+            "labor": "Box.Construct"
+        },
+        "betomEnglishName": "",
+        "betomID": "",
+        "betomAlias": [],
+        "betomDescription": [],
+        "betomBetanyms": [],
+        "betomProfilePic": "",
+        "betomExample": {
+            "betomVideo": [],
+            "betomImage": [],
+            "betomQuote": []
+        },
+        "dev": []
+    },
+    {
+        "betomKebab": "Box-Lift",
+        "betomglyf": {
+            "labor": "Box.Lift"
+        },
+        "betomEnglishName": "",
+        "betomID": "",
+        "betomAlias": [],
+        "betomDescription": [],
+        "betomBetanyms": [],
+        "betomProfilePic": "",
+        "betomExample": {
+            "betomVideo": [],
+            "betomImage": [],
+            "betomQuote": []
+        },
+        "dev": []
+    },
+    {
+        "betomKebab": "Box-Lock",
+        "betomglyf": {
+            "labor": "Box.Lock"
+        },
+        "betomEnglishName": "",
+        "betomID": "",
+        "betomAlias": [],
+        "betomDescription": [],
+        "betomBetanyms": [],
+        "betomProfilePic": "",
+        "betomExample": {
+            "betomVideo": [],
+            "betomImage": [],
+            "betomQuote": []
+        },
+        "dev": []
+    },
+    {
+        "betomKebab": "Box-Mano",
+        "betomglyf": {
+            "labor": "Box.Mano"
+        },
+        "betomEnglishName": "",
+        "betomID": "",
+        "betomAlias": [],
+        "betomDescription": [],
+        "betomBetanyms": [],
+        "betomProfilePic": "",
+        "betomExample": {
+            "betomVideo": [],
+            "betomImage": [],
+            "betomQuote": []
+        },
+        "dev": []
+    },
+    {
+        "betomKebab": "Box-Slide",
+        "betomglyf": {
+            "labor": "Box.Slide"
+        },
+        "betomEnglishName": "",
+        "betomID": "",
+        "betomAlias": [],
+        "betomDescription": [],
+        "betomBetanyms": [],
+        "betomProfilePic": "",
+        "betomExample": {
+            "betomVideo": [],
+            "betomImage": [],
+            "betomQuote": []
+        },
+        "dev": []
+    },
+    {
+        "betomKebab": "Box-Stack",
+        "betomglyf": {
+            "labor": "Box.Stack"
+        },
+        "betomEnglishName": "",
+        "betomID": "",
+        "betomAlias": [],
+        "betomDescription": [],
+        "betomBetanyms": [],
+        "betomProfilePic": "",
+        "betomExample": {
+            "betomVideo": [],
+            "betomImage": [],
+            "betomQuote": []
+        },
+        "dev": []
+    },
+    {
+        "betomKebab": "Box-Transport",
+        "betomglyf": {
+            "labor": "Box.Transport"
+        },
+        "betomEnglishName": "",
+        "betomID": "",
+        "betomAlias": [],
+        "betomDescription": [],
+        "betomBetanyms": [],
+        "betomProfilePic": "",
+        "betomExample": {
+            "betomVideo": [],
+            "betomImage": [],
+            "betomQuote": []
+        },
+        "dev": []
+    },
+    {
+        "betomKebab": "Branch-Audio",
+        "betomglyf": {
+            "labor": "Branch",
+            "anima": "Audio"
+        },
+        "betomEnglishName": "",
+        "betomID": "",
+        "betomAlias": [],
+        "betomDescription": [],
+        "betomBetanyms": [],
+        "betomProfilePic": "",
+        "betomExample": {
+            "betomVideo": [],
+            "betomImage": [],
+            "betomQuote": []
+        },
+        "dev": []
+    },
+    {
+        "betomKebab": "Break-Time",
+        "betomglyf": {
+            "labor": "Break",
+            "motor": "Time"
+        },
+        "betomEnglishName": "",
+        "betomID": "",
+        "betomAlias": [],
+        "betomDescription": [],
+        "betomBetanyms": [],
+        "betomProfilePic": "",
+        "betomExample": {
+            "betomVideo": [],
+            "betomImage": [],
+            "betomQuote": []
+        },
+        "dev": []
+    },
+    {
+        "betomKebab": "Bundle-Aktion",
+        "betomglyf": {
+            "labor": "Bundle.Aktion"
+        },
+        "betomEnglishName": "",
+        "betomID": "",
+        "betomAlias": [],
+        "betomDescription": [],
+        "betomBetanyms": [],
+        "betomProfilePic": "",
+        "betomExample": {
+            "betomVideo": [],
+            "betomImage": [],
+            "betomQuote": []
+        },
+        "dev": []
+    },
+    {
+        "betomKebab": "Bundle-Mano",
+        "betomglyf": {
+            "labor": "Bundle.Mano"
+        },
+        "betomEnglishName": "",
+        "betomID": "",
+        "betomAlias": [],
+        "betomDescription": [],
+        "betomBetanyms": [],
+        "betomProfilePic": "",
+        "betomExample": {
+            "betomVideo": [],
+            "betomImage": [],
+            "betomQuote": []
+        },
+        "dev": []
+    },
+    {
+        "betomKebab": "Bundle-Unwrap",
+        "betomglyf": {
+            "labor": "Bundle.Unwrap"
+        },
+        "betomEnglishName": "",
+        "betomID": "",
+        "betomAlias": [],
+        "betomDescription": [],
+        "betomBetanyms": [],
+        "betomProfilePic": "",
+        "betomExample": {
+            "betomVideo": [],
+            "betomImage": [],
+            "betomQuote": []
+        },
+        "dev": []
+    },
+    {
+        "betomKebab": "Cache-Aktion",
+        "betomglyf": {
+            "labor": "Cache.Aktion"
+        },
+        "betomEnglishName": "",
+        "betomID": "",
+        "betomAlias": [],
+        "betomDescription": [],
+        "betomBetanyms": [],
+        "betomProfilePic": "",
+        "betomExample": {
+            "betomVideo": [],
+            "betomImage": [],
+            "betomQuote": []
+        },
+        "dev": []
+    },
+    {
+        "betomKebab": "Catch-Flora",
+        "betomglyf": {
+            "labor": "Catch",
+            "ekos": "Flora"
+        },
+        "betomEnglishName": "",
+        "betomID": "",
+        "betomAlias": [],
+        "betomDescription": [],
+        "betomBetanyms": [],
+        "betomProfilePic": "",
+        "betomExample": {
+            "betomVideo": [],
+            "betomImage": [],
+            "betomQuote": []
+        },
+        "dev": []
+    },
+    {
+        "betomKebab": "Clothing-Pocket-Aktion",
+        "betomglyf": {
+            "labor": "Clothing.Pocket.Aktion"
+        },
+        "betomEnglishName": "",
+        "betomID": "",
+        "betomAlias": [],
+        "betomDescription": [],
+        "betomBetanyms": [],
+        "betomProfilePic": "",
+        "betomExample": {
+            "betomVideo": [],
+            "betomImage": [],
+            "betomQuote": []
+        },
+        "dev": []
+    },
+    {
+        "betomKebab": "Clothing-Sleeve-Site",
+        "betomglyf": {
+            "labor": "Clothing.Sleeve",
+            "via": "Site"
+        },
+        "betomEnglishName": "",
+        "betomID": "",
+        "betomAlias": [],
+        "betomDescription": [],
+        "betomBetanyms": [],
+        "betomProfilePic": "",
+        "betomExample": {
+            "betomVideo": [],
+            "betomImage": [],
+            "betomQuote": []
+        },
+        "dev": []
+    },
+    {
+        "betomKebab": "Constraint-Time",
+        "betomglyf": {
+            "via": "Constraint",
+            "motor": "Time"
+        },
+        "betomEnglishName": "",
+        "betomID": "",
+        "betomAlias": [],
+        "betomDescription": [],
+        "betomBetanyms": [],
+        "betomProfilePic": "",
+        "betomExample": {
+            "betomVideo": [],
+            "betomImage": [],
+            "betomQuote": []
+        },
+        "dev": []
+    },
+    {
+        "betomKebab": "Crop-Alignment-Diamond",
+        "betomglyf": {
+            "labor": "Crop",
+            "via": "Alignment.Diamond"
+        },
+        "betomEnglishName": "",
+        "betomID": "",
+        "betomAlias": [],
+        "betomDescription": [],
+        "betomBetanyms": [],
+        "betomProfilePic": "",
+        "betomExample": {
+            "betomVideo": [],
+            "betomImage": [],
+            "betomQuote": []
+        },
+        "dev": []
+    },
+    {
+        "betomKebab": "Crop-Alignment-Polygon",
+        "betomglyf": {
+            "labor": "Crop",
+            "via": "Alignment.Polygon"
+        },
+        "betomEnglishName": "",
+        "betomID": "",
+        "betomAlias": [],
+        "betomDescription": [],
+        "betomBetanyms": [],
+        "betomProfilePic": "",
+        "betomExample": {
+            "betomVideo": [],
+            "betomImage": [],
+            "betomQuote": []
+        },
+        "dev": []
+    },
+    {
+        "betomKebab": "Crop-Alignment-Triangle",
+        "betomglyf": {
+            "labor": "Crop",
+            "via": "Alignment.Triangle"
+        },
+        "betomEnglishName": "",
+        "betomID": "",
+        "betomAlias": [],
+        "betomDescription": [],
+        "betomBetanyms": [],
+        "betomProfilePic": "",
+        "betomExample": {
+            "betomVideo": [],
+            "betomImage": [],
+            "betomQuote": []
+        },
+        "dev": []
+    },
+    {
+        "betomKebab": "Crop-Diad",
+        "betomglyf": {
+            "labor": "Crop",
+            "via": "Diad"
+        },
+        "betomEnglishName": "",
+        "betomID": "",
+        "betomAlias": [],
+        "betomDescription": [],
+        "betomBetanyms": [],
+        "betomProfilePic": "",
+        "betomExample": {
+            "betomVideo": [],
+            "betomImage": [],
+            "betomQuote": []
+        },
+        "dev": []
+    },
+    {
+        "betomKebab": "Crop-Hexad",
+        "betomglyf": {
+            "labor": "Crop",
+            "via": "Hexad"
+        },
+        "betomEnglishName": "",
+        "betomID": "",
+        "betomAlias": [],
+        "betomDescription": [],
+        "betomBetanyms": [],
+        "betomProfilePic": "",
+        "betomExample": {
+            "betomVideo": [],
+            "betomImage": [],
+            "betomQuote": []
+        },
+        "dev": []
+    },
+    {
+        "betomKebab": "Crop-Pentad",
+        "betomglyf": {
+            "labor": "Crop",
+            "via": "Pentad"
+        },
+        "betomEnglishName": "",
+        "betomID": "",
+        "betomAlias": [],
+        "betomDescription": [],
+        "betomBetanyms": [],
+        "betomProfilePic": "",
+        "betomExample": {
+            "betomVideo": [],
+            "betomImage": [],
+            "betomQuote": []
+        },
+        "dev": []
+    },
+    {
+        "betomKebab": "Crop-Prokline-Proximity-Adaptive",
+        "betomglyf": {
+            "labor": "Crop",
+            "ekos": "Prokline",
+            "via": "Proximity.Adaptive"
+        },
+        "betomEnglishName": "",
+        "betomID": "",
+        "betomAlias": [],
+        "betomDescription": [],
+        "betomBetanyms": [],
+        "betomProfilePic": "",
+        "betomExample": {
+            "betomVideo": [],
+            "betomImage": [],
+            "betomQuote": []
+        },
+        "dev": []
+    },
+    {
+        "betomKebab": "Crop-Proximity-Adaptive",
+        "betomglyf": {
+            "labor": "Crop",
+            "via": "Proximity,Adaptive"
+        },
+        "betomEnglishName": "",
+        "betomID": "",
+        "betomAlias": [],
+        "betomDescription": [],
+        "betomBetanyms": [],
+        "betomProfilePic": "",
+        "betomExample": {
+            "betomVideo": [],
+            "betomImage": [],
+            "betomQuote": []
+        },
+        "dev": []
+    },
+    {
+        "betomKebab": "Crop-Proximity-Fixed",
+        "betomglyf": {
+            "labor": "Crop",
+            "via": "Proximity.Fixed"
+        },
+        "betomEnglishName": "",
+        "betomID": "",
+        "betomAlias": [],
+        "betomDescription": [],
+        "betomBetanyms": [],
+        "betomProfilePic": "",
+        "betomExample": {
+            "betomVideo": [],
+            "betomImage": [],
+            "betomQuote": []
+        },
+        "dev": []
+    },
+    {
+        "betomKebab": "Crop-Square",
+        "betomglyf": {
+            "labor": "Crop",
+            "via": "Square"
+        },
+        "betomEnglishName": "",
+        "betomID": "",
+        "betomAlias": [],
+        "betomDescription": [],
+        "betomBetanyms": [],
+        "betomProfilePic": "",
+        "betomExample": {
+            "betomVideo": [],
+            "betomImage": [],
+            "betomQuote": []
+        },
+        "dev": []
+    },
+    {
+        "betomKebab": "Crop-Tetrad",
+        "betomglyf": {
+            "labor": "Crop",
+            "via": "Tetrad"
+        },
+        "betomEnglishName": "",
+        "betomID": "",
+        "betomAlias": [],
+        "betomDescription": [],
+        "betomBetanyms": [],
+        "betomProfilePic": "",
+        "betomExample": {
+            "betomVideo": [],
+            "betomImage": [],
+            "betomQuote": []
+        },
+        "dev": []
+    },
+    {
+        "betomKebab": "Crop-Trapezoid",
+        "betomglyf": {
+            "labor": "Crop",
+            "via": "Trapezoid"
+        },
+        "betomEnglishName": "",
+        "betomID": "",
+        "betomAlias": [],
+        "betomDescription": [],
+        "betomBetanyms": [],
+        "betomProfilePic": "",
+        "betomExample": {
+            "betomVideo": [],
+            "betomImage": [],
+            "betomQuote": []
+        },
+        "dev": []
+    },
+    {
+        "betomKebab": "Crop-Triad",
+        "betomglyf": {
+            "labor": "Crop",
+            "via": "Triad"
+        },
+        "betomEnglishName": "",
+        "betomID": "",
+        "betomAlias": [],
+        "betomDescription": [],
+        "betomBetanyms": [],
+        "betomProfilePic": "",
+        "betomExample": {
+            "betomVideo": [],
+            "betomImage": [],
+            "betomQuote": []
+        },
+        "dev": []
+    },
+    {
+        "betomKebab": "Cutblock-Density",
+        "betomglyf": {
+            "labor": "Cutblock",
+            "via": "Density"
+        },
+        "betomEnglishName": "",
+        "betomID": "",
+        "betomAlias": [],
+        "betomDescription": [],
+        "betomBetanyms": [],
+        "betomProfilePic": "",
+        "betomExample": {
+            "betomVideo": [],
+            "betomImage": [],
+            "betomQuote": []
+        },
+        "dev": []
+    },
+    {
+        "betomKebab": "Cutblock-Road",
+        "betomglyf": {
+            "labor": "Cutblock.Road"
+        },
+        "betomEnglishName": "",
+        "betomID": "",
+        "betomAlias": [],
+        "betomDescription": [],
+        "betomBetanyms": [],
+        "betomProfilePic": "",
+        "betomExample": {
+            "betomVideo": [],
+            "betomImage": [],
+            "betomQuote": []
+        },
+        "dev": []
+    },
+    {
+        "betomKebab": "Decrease-Site-Density",
+        "betomglyf": {
+            "labor": "Decrease",
+            "via": "Site.Density"
+        },
+        "betomEnglishName": "",
+        "betomID": "",
+        "betomAlias": [],
+        "betomDescription": [],
+        "betomBetanyms": [],
+        "betomProfilePic": "",
+        "betomExample": {
+            "betomVideo": [],
+            "betomImage": [],
+            "betomQuote": []
+        },
+        "dev": []
+    },
+    {
+        "betomKebab": "Dilate-Mano",
+        "betomglyf": {
+            "labor": "Dilate.Mano"
+        },
+        "betomEnglishName": "",
+        "betomID": "",
+        "betomAlias": [],
+        "betomDescription": [],
+        "betomBetanyms": [],
+        "betomProfilePic": "",
+        "betomExample": {
+            "betomVideo": [],
+            "betomImage": [],
+            "betomQuote": []
+        },
+        "dev": []
+    },
+    {
+        "betomKebab": "Dilate-Spade",
+        "betomglyf": {
+            "labor": "Dilate.Spade"
+        },
+        "betomEnglishName": "",
+        "betomID": "",
+        "betomAlias": [],
+        "betomDescription": [],
+        "betomBetanyms": [],
+        "betomProfilePic": "",
+        "betomExample": {
+            "betomVideo": [],
+            "betomImage": [],
+            "betomQuote": []
+        },
+        "dev": []
+    },
+    {
+        "betomKebab": "Error-Fall",
+        "betomglyf": {
+            "labor": "Error,Fall"
+        },
+        "betomEnglishName": "",
+        "betomID": "",
+        "betomAlias": [],
+        "betomDescription": [],
+        "betomBetanyms": [],
+        "betomProfilePic": "",
+        "betomExample": {
+            "betomVideo": [],
+            "betomImage": [],
+            "betomQuote": []
+        },
+        "dev": []
+    },
+    {
+        "betomKebab": "Error-Layer-Shell-Aktion",
+        "betomglyf": {
+            "labor": "Error,Layer.Shell.Aktion"
+        },
+        "betomEnglishName": "",
+        "betomID": "",
+        "betomAlias": [],
+        "betomDescription": [],
+        "betomBetanyms": [],
+        "betomProfilePic": "",
+        "betomExample": {
+            "betomVideo": [],
+            "betomImage": [],
+            "betomQuote": []
+        },
+        "dev": []
+    },
+    {
+        "betomKebab": "Error-Leg",
+        "betomglyf": {
+            "labor": "Error",
+            "soma": "Leg"
+        },
+        "betomEnglishName": "",
+        "betomID": "",
+        "betomAlias": [],
+        "betomDescription": [],
+        "betomBetanyms": [],
+        "betomProfilePic": "",
+        "betomExample": {
+            "betomVideo": [],
+            "betomImage": [],
+            "betomQuote": []
+        },
+        "dev": []
+    },
+    {
+        "betomKebab": "Error-Markum",
+        "betomglyf": {
+            "labor": "Error,Markum"
+        },
+        "betomEnglishName": "",
+        "betomID": "",
+        "betomAlias": [],
+        "betomDescription": [],
+        "betomBetanyms": [],
+        "betomProfilePic": "",
+        "betomExample": {
+            "betomVideo": [],
+            "betomImage": [],
+            "betomQuote": []
+        },
+        "dev": []
+    },
+    {
+        "betomKebab": "Error-Mikrosite",
+        "betomglyf": {
+            "labor": "Error,Mikrosite"
+        },
+        "betomEnglishName": "",
+        "betomID": "",
+        "betomAlias": [],
+        "betomDescription": [],
+        "betomBetanyms": [],
+        "betomProfilePic": "",
+        "betomExample": {
+            "betomVideo": [],
+            "betomImage": [],
+            "betomQuote": []
+        },
+        "dev": []
+    },
+    {
+        "betomKebab": "Error-Plantafor",
+        "betomglyf": {
+            "labor": "Error,Plantafor"
+        },
+        "betomEnglishName": "",
+        "betomID": "",
+        "betomAlias": [],
+        "betomDescription": [],
+        "betomBetanyms": [],
+        "betomProfilePic": "",
+        "betomExample": {
+            "betomVideo": [],
+            "betomImage": [],
+            "betomQuote": []
+        },
+        "dev": []
+    },
+    {
+        "betomKebab": "Error-Prep-Mound",
+        "betomglyf": {
+            "labor": "Error,Prep.Mound"
+        },
+        "betomEnglishName": "",
+        "betomID": "",
+        "betomAlias": [],
+        "betomDescription": [],
+        "betomBetanyms": [],
+        "betomProfilePic": "",
+        "betomExample": {
+            "betomVideo": [],
+            "betomImage": [],
+            "betomQuote": []
+        },
+        "dev": []
+    },
+    {
+        "betomKebab": "Error-Spade",
+        "betomglyf": {
+            "labor": "Error,Spade"
+        },
+        "betomEnglishName": "",
+        "betomID": "",
+        "betomAlias": [],
+        "betomDescription": [],
+        "betomBetanyms": [],
+        "betomProfilePic": "",
+        "betomExample": {
+            "betomVideo": [],
+            "betomImage": [],
+            "betomQuote": []
+        },
+        "dev": []
+    },
+    {
+        "betomKebab": "Error-Waste-Markum",
+        "betomglyf": {
+            "labor": "Error.Waste,Markum"
+        },
+        "betomEnglishName": "",
+        "betomID": "",
+        "betomAlias": [],
+        "betomDescription": [],
+        "betomBetanyms": [],
+        "betomProfilePic": "",
+        "betomExample": {
+            "betomVideo": [],
+            "betomImage": [],
+            "betomQuote": []
+        },
+        "dev": []
+    },
+    {
+        "betomKebab": "Eval-Flora",
+        "betomglyf": {
+            "labor": "Eval",
+            "ekos": "Flora"
+        },
+        "betomEnglishName": "",
+        "betomID": "",
+        "betomAlias": [],
+        "betomDescription": [],
+        "betomBetanyms": [],
+        "betomProfilePic": "",
+        "betomExample": {
+            "betomVideo": [],
+            "betomImage": [],
+            "betomQuote": []
+        },
+        "dev": []
+    },
+    {
+        "betomKebab": "Eval-Neon",
+        "betomglyf": {
+            "labor": "Eval,Neon"
+        },
+        "betomEnglishName": "",
+        "betomID": "",
+        "betomAlias": [],
+        "betomDescription": [],
+        "betomBetanyms": [],
+        "betomProfilePic": "",
+        "betomExample": {
+            "betomVideo": [],
+            "betomImage": [],
+            "betomQuote": []
+        },
+        "dev": []
+    },
+    {
+        "betomKebab": "Eval-Spade",
+        "betomglyf": {
+            "labor": "Eval,Spade"
+        },
+        "betomEnglishName": "",
+        "betomID": "",
+        "betomAlias": [],
+        "betomDescription": [],
+        "betomBetanyms": [],
+        "betomProfilePic": "",
+        "betomExample": {
+            "betomVideo": [],
+            "betomImage": [],
+            "betomQuote": []
+        },
+        "dev": []
+    },
+    {
+        "betomKebab": "Extend-Hand-Finger",
+        "betomglyf": {
+            "labor": "Extend",
+            "soma": "Hand.Finger"
+        },
+        "betomEnglishName": "",
+        "betomID": "",
+        "betomAlias": [],
+        "betomDescription": [],
+        "betomBetanyms": [],
+        "betomProfilePic": "",
+        "betomExample": {
+            "betomVideo": [],
+            "betomImage": [],
+            "betomQuote": []
+        },
+        "dev": []
+    },
+    {
+        "betomKebab": "Extend-Spine",
+        "betomglyf": {
+            "labor": "Extend",
+            "soma": "Spine"
+        },
+        "betomEnglishName": "",
+        "betomID": "",
+        "betomAlias": [],
+        "betomDescription": [],
+        "betomBetanyms": [],
+        "betomProfilePic": "",
+        "betomExample": {
+            "betomVideo": [],
+            "betomImage": [],
+            "betomQuote": []
+        },
+        "dev": []
+    },
+    {
+        "betomKebab": "Flex-Foot-Plantar",
+        "betomglyf": {
+            "labor": "Flex",
+            "soma": "Foot",
+            "via": "Plantar"
+        },
+        "betomEnglishName": "",
+        "betomID": "",
+        "betomAlias": [],
+        "betomDescription": [],
+        "betomBetanyms": [],
+        "betomProfilePic": "",
+        "betomExample": {
+            "betomVideo": [],
+            "betomImage": [],
+            "betomQuote": []
+        },
+        "dev": []
+    },
+    {
+        "betomKebab": "Flex-Korpo-Down",
+        "betomglyf": {
+            "labor": "Flex",
+            "soma": "Korpo",
+            "via": "Down"
+        },
+        "betomEnglishName": "",
+        "betomID": "",
+        "betomAlias": [],
+        "betomDescription": [],
+        "betomBetanyms": [],
+        "betomProfilePic": "",
+        "betomExample": {
+            "betomVideo": [],
+            "betomImage": [],
+            "betomQuote": []
+        },
+        "dev": []
+    },
+    {
+        "betomKebab": "Flex-Neck",
+        "betomglyf": {
+            "labor": "Flex",
+            "soma": "Neck"
+        },
+        "betomEnglishName": "",
+        "betomID": "",
+        "betomAlias": [],
+        "betomDescription": [],
+        "betomBetanyms": [],
+        "betomProfilePic": "",
+        "betomExample": {
+            "betomVideo": [],
+            "betomImage": [],
+            "betomQuote": []
+        },
+        "dev": []
+    },
+    {
+        "betomKebab": "Flora-Emotion",
+        "betomglyf": {
+            "ekos": "Flora",
+            "anima": "Emotion"
+        },
+        "betomEnglishName": "",
+        "betomID": "",
+        "betomAlias": [],
+        "betomDescription": [],
+        "betomBetanyms": [],
+        "betomProfilePic": "",
+        "betomExample": {
+            "betomVideo": [],
+            "betomImage": [],
+            "betomQuote": []
+        },
+        "dev": []
+    },
+    {
+        "betomKebab": "Flora-Flexion",
+        "betomglyf": {
+            "ekos": "Flora",
+            "via": "Flexion"
+        },
+        "betomEnglishName": "",
+        "betomID": "",
+        "betomAlias": [],
+        "betomDescription": [],
+        "betomBetanyms": [],
+        "betomProfilePic": "",
+        "betomExample": {
+            "betomVideo": [],
+            "betomImage": [],
+            "betomQuote": []
+        },
+        "dev": []
+    },
+    {
+        "betomKebab": "Glove-Aktion",
+        "betomglyf": {
+            "labor": "Glove.Aktion"
+        },
+        "betomEnglishName": "",
+        "betomID": "",
+        "betomAlias": [],
+        "betomDescription": [],
+        "betomBetanyms": [],
+        "betomProfilePic": "",
+        "betomExample": {
+            "betomVideo": [],
+            "betomImage": [],
+            "betomQuote": []
+        },
+        "dev": []
+    },
+    {
+        "betomKebab": "Glove-Mano",
+        "betomglyf": {
+            "labor": "Glove.Mano"
+        },
+        "betomEnglishName": "",
+        "betomID": "",
+        "betomAlias": [],
+        "betomDescription": [],
+        "betomBetanyms": [],
+        "betomProfilePic": "",
+        "betomExample": {
+            "betomVideo": [],
+            "betomImage": [],
+            "betomQuote": []
+        },
+        "dev": []
+    },
+    {
+        "betomKebab": "Glove-Off",
+        "betomglyf": {
+            "labor": "Glove.Off"
+        },
+        "betomEnglishName": "",
+        "betomID": "",
+        "betomAlias": [],
+        "betomDescription": [],
+        "betomBetanyms": [],
+        "betomProfilePic": "",
+        "betomExample": {
+            "betomVideo": [],
+            "betomImage": [],
+            "betomQuote": []
+        },
+        "dev": []
+    },
+    {
+        "betomKebab": "Glove-On",
+        "betomglyf": {
+            "labor": "Glove.On"
+        },
+        "betomEnglishName": "",
+        "betomID": "",
+        "betomAlias": [],
+        "betomDescription": [],
+        "betomBetanyms": [],
+        "betomProfilePic": "",
+        "betomExample": {
+            "betomVideo": [],
+            "betomImage": [],
+            "betomQuote": []
+        },
+        "dev": []
+    },
+    {
+        "betomKebab": "Hand-Thumb-Adduction",
+        "betomglyf": {
+            "soma": "Hand.Thumb",
+            "via": "Adduction"
+        },
+        "betomEnglishName": "",
+        "betomID": "",
+        "betomAlias": [],
+        "betomDescription": [],
+        "betomBetanyms": [],
+        "betomProfilePic": "",
+        "betomExample": {
+            "betomVideo": [],
+            "betomImage": [],
+            "betomQuote": []
+        },
+        "dev": []
+    },
+    {
+        "betomKebab": "Hat-Aktion",
+        "betomglyf": {
+            "labor": "Hat.Aktion"
+        },
+        "betomEnglishName": "",
+        "betomID": "",
+        "betomAlias": [],
+        "betomDescription": [],
+        "betomBetanyms": [],
+        "betomProfilePic": "",
+        "betomExample": {
+            "betomVideo": [],
+            "betomImage": [],
+            "betomQuote": []
+        },
+        "dev": []
+    },
+    {
+        "betomKebab": "Hinge-Korpo-Hip",
+        "betomglyf": {
+            "labor": "Hinge",
+            "soma": "Korpo.Hip"
+        },
+        "betomEnglishName": "",
+        "betomID": "",
+        "betomAlias": [],
+        "betomDescription": [],
+        "betomBetanyms": [],
+        "betomProfilePic": "",
+        "betomExample": {
+            "betomVideo": [],
+            "betomImage": [],
+            "betomQuote": []
+        },
+        "dev": []
+    },
+    {
+        "betomKebab": "Hook-Arm",
+        "betomglyf": {
+            "labor": "Hook",
+            "soma": "Arm"
+        },
+        "betomEnglishName": "",
+        "betomID": "",
+        "betomAlias": [],
+        "betomDescription": [],
+        "betomBetanyms": [],
+        "betomProfilePic": "",
+        "betomExample": {
+            "betomVideo": [],
+            "betomImage": [],
+            "betomQuote": []
+        },
+        "dev": []
+    },
+    {
+        "betomKebab": "Iguana-Arm",
+        "betomglyf": {
+            "labor": "Iguana",
+            "soma": "Arm"
+        },
+        "betomEnglishName": "",
+        "betomID": "",
+        "betomAlias": [],
+        "betomDescription": [],
+        "betomBetanyms": [],
+        "betomProfilePic": "",
+        "betomExample": {
+            "betomVideo": [],
+            "betomImage": [],
+            "betomQuote": []
+        },
+        "dev": []
+    },
+    {
+        "betomKebab": "Increase-Site-Density",
+        "betomglyf": {
+            "labor": "Increase",
+            "via": "Site.Density"
+        },
+        "betomEnglishName": "",
+        "betomID": "",
+        "betomAlias": [],
+        "betomDescription": [],
+        "betomBetanyms": [],
+        "betomProfilePic": "",
+        "betomExample": {
+            "betomVideo": [],
+            "betomImage": [],
+            "betomQuote": []
+        },
+        "dev": []
+    },
+    {
+        "betomKebab": "Jump-Korpo",
+        "betomglyf": {
+            "labor": "Jump",
+            "soma": "Korpo"
+        },
+        "betomEnglishName": "",
+        "betomID": "",
+        "betomAlias": [],
+        "betomDescription": [],
+        "betomBetanyms": [],
+        "betomProfilePic": "",
+        "betomExample": {
+            "betomVideo": [],
+            "betomImage": [],
+            "betomQuote": []
+        },
+        "dev": []
+    },
+    {
+        "betomKebab": "Karabiner-Aktion",
+        "betomglyf": {
+            "labor": "Karabiner.Aktion"
+        },
+        "betomEnglishName": "",
+        "betomID": "",
+        "betomAlias": [],
+        "betomDescription": [],
+        "betomBetanyms": [],
+        "betomProfilePic": "",
+        "betomExample": {
+            "betomVideo": [],
+            "betomImage": [],
+            "betomQuote": []
+        },
+        "dev": []
+    },
+    {
+        "betomKebab": "Kit-Aktion",
+        "betomglyf": {
+            "labor": "Kit.Aktion"
+        },
+        "betomEnglishName": "",
+        "betomID": "",
+        "betomAlias": [],
+        "betomDescription": [],
+        "betomBetanyms": [],
+        "betomProfilePic": "",
+        "betomExample": {
+            "betomVideo": [],
+            "betomImage": [],
+            "betomQuote": []
+        },
+        "dev": []
+    },
+    {
+        "betomKebab": "Klose-Boot-Arch",
+        "betomglyf": {
+            "labor": "Klose.Boot.Arch"
+        },
+        "betomEnglishName": "",
+        "betomID": "",
+        "betomAlias": [],
+        "betomDescription": [],
+        "betomBetanyms": [],
+        "betomProfilePic": "",
+        "betomExample": {
+            "betomVideo": [],
+            "betomImage": [],
+            "betomQuote": []
+        },
+        "dev": []
+    },
+    {
+        "betomKebab": "Klose-Boot",
+        "betomglyf": {
+            "labor": "Klose.Boot"
+        },
+        "betomEnglishName": "",
+        "betomID": "",
+        "betomAlias": [],
+        "betomDescription": [],
+        "betomBetanyms": [],
+        "betomProfilePic": "",
+        "betomExample": {
+            "betomVideo": [],
+            "betomImage": [],
+            "betomQuote": []
+        },
+        "dev": []
+    },
+    {
+        "betomKebab": "Klose-Drag-Boot-Heel",
+        "betomglyf": {
+            "labor": "Klose.Drag.Boot.Heel"
+        },
+        "betomEnglishName": "",
+        "betomID": "",
+        "betomAlias": [],
+        "betomDescription": [],
+        "betomBetanyms": [],
+        "betomProfilePic": "",
+        "betomExample": {
+            "betomVideo": [],
+            "betomImage": [],
+            "betomQuote": []
+        },
+        "dev": []
+    },
+    {
+        "betomKebab": "Klose-Drag-Boot-Toe",
+        "betomglyf": {
+            "labor": "Klose.Drag.Boot.Toe"
+        },
+        "betomEnglishName": "",
+        "betomID": "",
+        "betomAlias": [],
+        "betomDescription": [],
+        "betomBetanyms": [],
+        "betomProfilePic": "",
+        "betomExample": {
+            "betomVideo": [],
+            "betomImage": [],
+            "betomQuote": []
+        },
+        "dev": []
+    },
+    {
+        "betomKebab": "Klose-Drag-Boot",
+        "betomglyf": {
+            "labor": "Klose.Drag.Boot"
+        },
+        "betomEnglishName": "",
+        "betomID": "",
+        "betomAlias": [],
+        "betomDescription": [],
+        "betomBetanyms": [],
+        "betomProfilePic": "",
+        "betomExample": {
+            "betomVideo": [],
+            "betomImage": [],
+            "betomQuote": []
+        },
+        "dev": []
+    },
+    {
+        "betomKebab": "Klose-Drag-Hand",
+        "betomglyf": {
+            "labor": "Klose.Drag.Hand"
+        },
+        "betomEnglishName": "",
+        "betomID": "",
+        "betomAlias": [],
+        "betomDescription": [],
+        "betomBetanyms": [],
+        "betomProfilePic": "",
+        "betomExample": {
+            "betomVideo": [],
+            "betomImage": [],
+            "betomQuote": []
+        },
+        "dev": []
+    },
+    {
+        "betomKebab": "Klose-Hand",
+        "betomglyf": {
+            "labor": "Klose.Hand"
+        },
+        "betomEnglishName": "",
+        "betomID": "",
+        "betomAlias": [],
+        "betomDescription": [],
+        "betomBetanyms": [],
+        "betomProfilePic": "",
+        "betomExample": {
+            "betomVideo": [],
+            "betomImage": [],
+            "betomQuote": []
+        },
+        "dev": []
+    },
+    {
+        "betomKebab": "Klose-Kick-Boot-Heel",
+        "betomglyf": {
+            "labor": "Klose.Kick.Boot.Heel"
+        },
+        "betomEnglishName": "",
+        "betomID": "",
+        "betomAlias": [],
+        "betomDescription": [],
+        "betomBetanyms": [],
+        "betomProfilePic": "",
+        "betomExample": {
+            "betomVideo": [],
+            "betomImage": [],
+            "betomQuote": []
+        },
+        "dev": []
+    },
+    {
+        "betomKebab": "Klose-Kick-Boot-Toe",
+        "betomglyf": {
+            "labor": "Klose.Kick.Boot.Toe"
+        },
+        "betomEnglishName": "",
+        "betomID": "",
+        "betomAlias": [],
+        "betomDescription": [],
+        "betomBetanyms": [],
+        "betomProfilePic": "",
+        "betomExample": {
+            "betomVideo": [],
+            "betomImage": [],
+            "betomQuote": []
+        },
+        "dev": []
+    },
+    {
+        "betomKebab": "Klose-Palm",
+        "betomglyf": {
+            "labor": "Klose",
+            "soma": "Palm"
+        },
+        "betomEnglishName": "",
+        "betomID": "",
+        "betomAlias": [],
+        "betomDescription": [],
+        "betomBetanyms": [],
+        "betomProfilePic": "",
+        "betomExample": {
+            "betomVideo": [],
+            "betomImage": [],
+            "betomQuote": []
+        },
+        "dev": []
+    },
+    {
+        "betomKebab": "Klose-Pugno",
+        "betomglyf": {
+            "labor": "Klose.Pugno"
+        },
+        "betomEnglishName": "",
+        "betomID": "",
+        "betomAlias": [],
+        "betomDescription": [],
+        "betomBetanyms": [],
+        "betomProfilePic": "",
+        "betomExample": {
+            "betomVideo": [],
+            "betomImage": [],
+            "betomQuote": []
+        },
+        "dev": []
+    },
+    {
+        "betomKebab": "Klose-Slap",
+        "betomglyf": {
+            "labor": "Klose.Slap"
+        },
+        "betomEnglishName": "",
+        "betomID": "",
+        "betomAlias": [],
+        "betomDescription": [],
+        "betomBetanyms": [],
+        "betomProfilePic": "",
+        "betomExample": {
+            "betomVideo": [],
+            "betomImage": [],
+            "betomQuote": []
+        },
+        "dev": []
+    },
+    {
+        "betomKebab": "Klose-Spade",
+        "betomglyf": {
+            "labor": "Klose.Spade"
+        },
+        "betomEnglishName": "",
+        "betomID": "",
+        "betomAlias": [],
+        "betomDescription": [],
+        "betomBetanyms": [],
+        "betomProfilePic": "",
+        "betomExample": {
+            "betomVideo": [],
+            "betomImage": [],
+            "betomQuote": []
+        },
+        "dev": []
+    },
+    {
+        "betomKebab": "Kneel-Ground",
+        "betomglyf": {
+            "labor": "Kneel",
+            "ekos": "Ground"
+        },
+        "betomEnglishName": "",
+        "betomID": "",
+        "betomAlias": [],
+        "betomDescription": [],
+        "betomBetanyms": [],
+        "betomProfilePic": "",
+        "betomExample": {
+            "betomVideo": [],
+            "betomImage": [],
+            "betomQuote": []
+        },
+        "dev": []
+    },
+    {
+        "betomKebab": "Knot-Boot-Lace",
+        "betomglyf": {
+            "labor": "Knot.Boot.Lace"
+        },
+        "betomEnglishName": "",
+        "betomID": "",
+        "betomAlias": [],
+        "betomDescription": [],
+        "betomBetanyms": [],
+        "betomProfilePic": "",
+        "betomExample": {
+            "betomVideo": [],
+            "betomImage": [],
+            "betomQuote": []
+        },
+        "dev": []
+    },
+    {
+        "betomKebab": "Kompakt-Arm",
+        "betomglyf": {
+            "labor": "Kompakt",
+            "soma": "Arm"
+        },
+        "betomEnglishName": "",
+        "betomID": "",
+        "betomAlias": [],
+        "betomDescription": [],
+        "betomBetanyms": [],
+        "betomProfilePic": "",
+        "betomExample": {
+            "betomVideo": [],
+            "betomImage": [],
+            "betomQuote": []
+        },
+        "dev": []
+    },
+    {
+        "betomKebab": "Kompakt-Mano",
+        "betomglyf": {
+            "labor": "Kompakt.Mano"
+        },
+        "betomEnglishName": "",
+        "betomID": "",
+        "betomAlias": [],
+        "betomDescription": [],
+        "betomBetanyms": [],
+        "betomProfilePic": "",
+        "betomExample": {
+            "betomVideo": [],
+            "betomImage": [],
+            "betomQuote": []
+        },
+        "dev": []
+    },
+    {
+        "betomKebab": "Kompress-Arm-Arm",
+        "betomglyf": {
+            "labor": "Kompress",
+            "soma": "Arm+Arm"
+        },
+        "betomEnglishName": "",
+        "betomID": "",
+        "betomAlias": [],
+        "betomDescription": [],
+        "betomBetanyms": [],
+        "betomProfilePic": "",
+        "betomExample": {
+            "betomVideo": [],
+            "betomImage": [],
+            "betomQuote": []
+        },
+        "dev": []
+    },
+    {
+        "betomKebab": "Kontakt-Boot-Arch",
+        "betomglyf": {
+            "labor": "Kontakt.Boot.Arch"
+        },
+        "betomEnglishName": "",
+        "betomID": "",
+        "betomAlias": [],
+        "betomDescription": [],
+        "betomBetanyms": [],
+        "betomProfilePic": "",
+        "betomExample": {
+            "betomVideo": [],
+            "betomImage": [],
+            "betomQuote": []
+        },
+        "dev": []
+    },
+    {
+        "betomKebab": "Kontakt-Boot-Dorsi",
+        "betomglyf": {
+            "labor": "Kontakt.Boot.Dorsi"
+        },
+        "betomEnglishName": "",
+        "betomID": "",
+        "betomAlias": [],
+        "betomDescription": [],
+        "betomBetanyms": [],
+        "betomProfilePic": "",
+        "betomExample": {
+            "betomVideo": [],
+            "betomImage": [],
+            "betomQuote": []
+        },
+        "dev": []
+    },
+    {
+        "betomKebab": "Kontakt-Elbow",
+        "betomglyf": {
+            "labor": "Kontakt",
+            "soma": "Elbow"
+        },
+        "betomEnglishName": "",
+        "betomID": "",
+        "betomAlias": [],
+        "betomDescription": [],
+        "betomBetanyms": [],
+        "betomProfilePic": "",
+        "betomExample": {
+            "betomVideo": [],
+            "betomImage": [],
+            "betomQuote": []
+        },
+        "dev": []
+    },
+    {
+        "betomKebab": "Kontakt-Hand-Palm",
+        "betomglyf": {
+            "labor": "Kontakt",
+            "soma": "Hand.Palm"
+        },
+        "betomEnglishName": "",
+        "betomID": "",
+        "betomAlias": [],
+        "betomDescription": [],
+        "betomBetanyms": [],
+        "betomProfilePic": "",
+        "betomExample": {
+            "betomVideo": [],
+            "betomImage": [],
+            "betomQuote": []
+        },
+        "dev": []
+    },
+    {
+        "betomKebab": "Kontakt-Head",
+        "betomglyf": {
+            "labor": "Kontakt",
+            "soma": "Head"
+        },
+        "betomEnglishName": "",
+        "betomID": "",
+        "betomAlias": [],
+        "betomDescription": [],
+        "betomBetanyms": [],
+        "betomProfilePic": "",
+        "betomExample": {
+            "betomVideo": [],
+            "betomImage": [],
+            "betomQuote": []
+        },
+        "dev": []
+    },
+    {
+        "betomKebab": "Kontakt-Korpo-Abdominal",
+        "betomglyf": {
+            "labor": "Kontakt",
+            "soma": "Korpo.Abdominal"
+        },
+        "betomEnglishName": "",
+        "betomID": "",
+        "betomAlias": [],
+        "betomDescription": [],
+        "betomBetanyms": [],
+        "betomProfilePic": "",
+        "betomExample": {
+            "betomVideo": [],
+            "betomImage": [],
+            "betomQuote": []
+        },
+        "dev": []
+    },
+    {
+        "betomKebab": "Kontakt-Korpo",
+        "betomglyf": {
+            "labor": "Kontakt",
+            "soma": "Korpo"
+        },
+        "betomEnglishName": "",
+        "betomID": "",
+        "betomAlias": [],
+        "betomDescription": [],
+        "betomBetanyms": [],
+        "betomProfilePic": "",
+        "betomExample": {
+            "betomVideo": [],
+            "betomImage": [],
+            "betomQuote": []
+        },
+        "dev": []
+    },
+    {
+        "betomKebab": "Kontakt-LatissimusDorsi",
+        "betomglyf": {
+            "labor": "Kontakt",
+            "soma": "LatissimusDorsi"
+        },
+        "betomEnglishName": "",
+        "betomID": "",
+        "betomAlias": [],
+        "betomDescription": [],
+        "betomBetanyms": [],
+        "betomProfilePic": "",
+        "betomExample": {
+            "betomVideo": [],
+            "betomImage": [],
+            "betomQuote": []
+        },
+        "dev": []
+    },
+    {
+        "betomKebab": "Kontakt-Leg",
+        "betomglyf": {
+            "labor": "Kontakt",
+            "soma": "Leg"
+        },
+        "betomEnglishName": "",
+        "betomID": "",
+        "betomAlias": [],
+        "betomDescription": [],
+        "betomBetanyms": [],
+        "betomProfilePic": "",
+        "betomExample": {
+            "betomVideo": [],
+            "betomImage": [],
+            "betomQuote": []
+        },
+        "dev": []
+    },
+    {
+        "betomKebab": "Kontakt-Markum",
+        "betomglyf": {
+            "labor": "Kontakt,Markum"
+        },
+        "betomEnglishName": "",
+        "betomID": "",
+        "betomAlias": [],
+        "betomDescription": [],
+        "betomBetanyms": [],
+        "betomProfilePic": "",
+        "betomExample": {
+            "betomVideo": [],
+            "betomImage": [],
+            "betomQuote": []
+        },
+        "dev": []
+    },
+    {
+        "betomKebab": "Kontakt-Plantafor-Bag",
+        "betomglyf": {
+            "labor": "Kontakt,Plantafor.Bag"
+        },
+        "betomEnglishName": "",
+        "betomID": "",
+        "betomAlias": [],
+        "betomDescription": [],
+        "betomBetanyms": [],
+        "betomProfilePic": "",
+        "betomExample": {
+            "betomVideo": [],
+            "betomImage": [],
+            "betomQuote": []
+        },
+        "dev": []
+    },
+    {
+        "betomKebab": "Kontakt-Scapula",
+        "betomglyf": {
+            "labor": "Kontakt",
+            "soma": "Scapula"
+        },
+        "betomEnglishName": "",
+        "betomID": "",
+        "betomAlias": [],
+        "betomDescription": [],
+        "betomBetanyms": [],
+        "betomProfilePic": "",
+        "betomExample": {
+            "betomVideo": [],
+            "betomImage": [],
+            "betomQuote": []
+        },
+        "dev": []
+    },
+    {
+        "betomKebab": "Kontakt-Spade-Blade",
+        "betomglyf": {
+            "labor": "Kontakt,Spade.Blade"
+        },
+        "betomEnglishName": "",
+        "betomID": "",
+        "betomAlias": [],
+        "betomDescription": [],
+        "betomBetanyms": [],
+        "betomProfilePic": "",
+        "betomExample": {
+            "betomVideo": [],
+            "betomImage": [],
+            "betomQuote": []
+        },
+        "dev": []
+    },
+    {
+        "betomKebab": "Kontakt-Spade-Shaft",
+        "betomglyf": {
+            "labor": "Kontakt,Spade.Shaft"
+        },
+        "betomEnglishName": "",
+        "betomID": "",
+        "betomAlias": [],
+        "betomDescription": [],
+        "betomBetanyms": [],
+        "betomProfilePic": "",
+        "betomExample": {
+            "betomVideo": [],
+            "betomImage": [],
+            "betomQuote": []
+        },
+        "dev": []
+    },
+    {
+        "betomKebab": "Kontakt-Spade-Tab",
+        "betomglyf": {
+            "labor": "Kontakt,Spade.Tab"
+        },
+        "betomEnglishName": "",
+        "betomID": "",
+        "betomAlias": [],
+        "betomDescription": [],
+        "betomBetanyms": [],
+        "betomProfilePic": "",
+        "betomExample": {
+            "betomVideo": [],
+            "betomImage": [],
+            "betomQuote": []
+        },
+        "dev": []
+    },
+    {
+        "betomKebab": "Kontakt-Trapezius",
+        "betomglyf": {
+            "labor": "Kontakt",
+            "soma": "Trapezius"
+        },
+        "betomEnglishName": "",
+        "betomID": "",
+        "betomAlias": [],
+        "betomDescription": [],
+        "betomBetanyms": [],
+        "betomProfilePic": "",
+        "betomExample": {
+            "betomVideo": [],
+            "betomImage": [],
+            "betomQuote": []
+        },
+        "dev": []
+    },
+    {
+        "betomKebab": "Kontakt-Triceps",
+        "betomglyf": {
+            "labor": "Kontakt",
+            "soma": "Triceps"
+        },
+        "betomEnglishName": "",
+        "betomID": "",
+        "betomAlias": [],
+        "betomDescription": [],
+        "betomBetanyms": [],
+        "betomProfilePic": "",
+        "betomExample": {
+            "betomVideo": [],
+            "betomImage": [],
+            "betomQuote": []
+        },
+        "dev": []
+    },
+    {
+        "betomKebab": "Korpo-Posture",
+        "betomglyf": {
+            "soma": "Korpo",
+            "via": "Posture"
+        },
+        "betomEnglishName": "",
+        "betomID": "",
+        "betomAlias": [],
+        "betomDescription": [],
+        "betomBetanyms": [],
+        "betomProfilePic": "",
+        "betomExample": {
+            "betomVideo": [],
+            "betomImage": [],
+            "betomQuote": []
+        },
+        "dev": []
+    },
+    {
+        "betomKebab": "Kryos-Arm",
+        "betomglyf": {
+            "labor": "Kryos",
+            "soma": "Arm"
+        },
+        "betomEnglishName": "",
+        "betomID": "",
+        "betomAlias": [],
+        "betomDescription": [],
+        "betomBetanyms": [],
+        "betomProfilePic": "",
+        "betomExample": {
+            "betomVideo": [],
+            "betomImage": [],
+            "betomQuote": []
+        },
+        "dev": []
+    },
+    {
+        "betomKebab": "Kryos-Hand",
+        "betomglyf": {
+            "labor": "Kryos",
+            "soma": "Hand"
+        },
+        "betomEnglishName": "",
+        "betomID": "",
+        "betomAlias": [],
+        "betomDescription": [],
+        "betomBetanyms": [],
+        "betomProfilePic": "",
+        "betomExample": {
+            "betomVideo": [],
+            "betomImage": [],
+            "betomQuote": []
+        },
+        "dev": []
+    },
+    {
+        "betomKebab": "Layer-Aktion",
+        "betomglyf": {
+            "labor": "Layer.Aktion"
+        },
+        "betomEnglishName": "",
+        "betomID": "",
+        "betomAlias": [],
+        "betomDescription": [],
+        "betomBetanyms": [],
+        "betomProfilePic": "",
+        "betomExample": {
+            "betomVideo": [],
+            "betomImage": [],
+            "betomQuote": []
+        },
+        "dev": []
+    },
+    {
+        "betomKebab": "Layer-Base-Aktion",
+        "betomglyf": {
+            "labor": "Layer.Base.Aktion"
+        },
+        "betomEnglishName": "",
+        "betomID": "",
+        "betomAlias": [],
+        "betomDescription": [],
+        "betomBetanyms": [],
+        "betomProfilePic": "",
+        "betomExample": {
+            "betomVideo": [],
+            "betomImage": [],
+            "betomQuote": []
+        },
+        "dev": []
+    },
+    {
+        "betomKebab": "Layer-Insulation-Aktion",
+        "betomglyf": {
+            "labor": "Layer.Insulation.Aktion"
+        },
+        "betomEnglishName": "",
+        "betomID": "",
+        "betomAlias": [],
+        "betomDescription": [],
+        "betomBetanyms": [],
+        "betomProfilePic": "",
+        "betomExample": {
+            "betomVideo": [],
+            "betomImage": [],
+            "betomQuote": []
+        },
+        "dev": []
+    },
+    {
+        "betomKebab": "Layer-Knot",
+        "betomglyf": {
+            "labor": "Layer.Knot"
+        },
+        "betomEnglishName": "",
+        "betomID": "",
+        "betomAlias": [],
+        "betomDescription": [],
+        "betomBetanyms": [],
+        "betomProfilePic": "",
+        "betomExample": {
+            "betomVideo": [],
+            "betomImage": [],
+            "betomQuote": []
+        },
+        "dev": []
+    },
+    {
+        "betomKebab": "Layer-Preserve",
+        "betomglyf": {
+            "labor": "Layer.Preserve"
+        },
+        "betomEnglishName": "",
+        "betomID": "",
+        "betomAlias": [],
+        "betomDescription": [],
+        "betomBetanyms": [],
+        "betomProfilePic": "",
+        "betomExample": {
+            "betomVideo": [],
+            "betomImage": [],
+            "betomQuote": []
+        },
+        "dev": []
+    },
+    {
+        "betomKebab": "Layer-Site",
+        "betomglyf": {
+            "labor": "Layer",
+            "via": "Site"
+        },
+        "betomEnglishName": "",
+        "betomID": "",
+        "betomAlias": [],
+        "betomDescription": [],
+        "betomBetanyms": [],
+        "betomProfilePic": "",
+        "betomExample": {
+            "betomVideo": [],
+            "betomImage": [],
+            "betomQuote": []
+        },
+        "dev": []
+    },
+    {
+        "betomKebab": "Leaf-Site",
+        "betomglyf": {
+            "ekos": "Leaf",
+            "via": "Site"
+        },
+        "betomEnglishName": "",
+        "betomID": "",
+        "betomAlias": [],
+        "betomDescription": [],
+        "betomBetanyms": [],
+        "betomProfilePic": "",
+        "betomExample": {
+            "betomVideo": [],
+            "betomImage": [],
+            "betomQuote": []
+        },
+        "dev": []
+    },
+    {
+        "betomKebab": "Lean-Korpo",
+        "betomglyf": {
+            "labor": "Lean",
+            "soma": "Korpo"
+        },
+        "betomEnglishName": "",
+        "betomID": "",
+        "betomAlias": [],
+        "betomDescription": [],
+        "betomBetanyms": [],
+        "betomProfilePic": "",
+        "betomExample": {
+            "betomVideo": [],
+            "betomImage": [],
+            "betomQuote": []
+        },
+        "dev": []
+    },
+    {
+        "betomKebab": "Line-Bisect",
+        "betomglyf": {
+            "via": "Line.Bisect"
+        },
+        "betomEnglishName": "",
+        "betomID": "",
+        "betomAlias": [],
+        "betomDescription": [],
+        "betomBetanyms": [],
+        "betomProfilePic": "",
+        "betomExample": {
+            "betomVideo": [],
+            "betomImage": [],
+            "betomQuote": []
+        },
+        "dev": []
+    },
+    {
+        "betomKebab": "Line-Displacement",
+        "betomglyf": {
+            "via": "Line.Displacement"
+        },
+        "betomEnglishName": "",
+        "betomID": "",
+        "betomAlias": [],
+        "betomDescription": [],
+        "betomBetanyms": [],
+        "betomProfilePic": "",
+        "betomExample": {
+            "betomVideo": [],
+            "betomImage": [],
+            "betomQuote": []
+        },
+        "dev": []
+    },
+    {
+        "betomKebab": "LineIn-Marka",
+        "betomglyf": {
+            "labor": "LineIn,Marka"
+        },
+        "betomEnglishName": "",
+        "betomID": "",
+        "betomAlias": [],
+        "betomDescription": [],
+        "betomBetanyms": [],
+        "betomProfilePic": "",
+        "betomExample": {
+            "betomVideo": [],
+            "betomImage": [],
+            "betomQuote": []
+        },
+        "dev": []
+    },
+    {
+        "betomKebab": "Litos-Rough-Hydro-Site",
+        "betomglyf": {
+            "ekos": "Litos.Rough.Hydro",
+            "via": "Site"
+        },
+        "betomEnglishName": "",
+        "betomID": "",
+        "betomAlias": [],
+        "betomDescription": [],
+        "betomBetanyms": [],
+        "betomProfilePic": "",
+        "betomExample": {
+            "betomVideo": [],
+            "betomImage": [],
+            "betomQuote": []
+        },
+        "dev": []
+    },
+    {
+        "betomKebab": "Litos-Rough-Site",
+        "betomglyf": {
+            "ekos": "Litos.Rough",
+            "via": "Site"
+        },
+        "betomEnglishName": "",
+        "betomID": "",
+        "betomAlias": [],
+        "betomDescription": [],
+        "betomBetanyms": [],
+        "betomProfilePic": "",
+        "betomExample": {
+            "betomVideo": [],
+            "betomImage": [],
+            "betomQuote": []
+        },
+        "dev": []
+    },
+    {
+        "betomKebab": "Litos-Smooth-Hydro-Site",
+        "betomglyf": {
+            "ekos": "Litos.Smooth.Hydro",
+            "via": "Site"
+        },
+        "betomEnglishName": "",
+        "betomID": "",
+        "betomAlias": [],
+        "betomDescription": [],
+        "betomBetanyms": [],
+        "betomProfilePic": "",
+        "betomExample": {
+            "betomVideo": [],
+            "betomImage": [],
+            "betomQuote": []
+        },
+        "dev": []
+    },
+    {
+        "betomKebab": "Litos-Smooth-Site",
+        "betomglyf": {
+            "ekos": "Litos.Smooth",
+            "via": "Site"
+        },
+        "betomEnglishName": "",
+        "betomID": "",
+        "betomAlias": [],
+        "betomDescription": [],
+        "betomBetanyms": [],
+        "betomProfilePic": "",
+        "betomExample": {
+            "betomVideo": [],
+            "betomImage": [],
+            "betomQuote": []
+        },
+        "dev": []
+    },
+    {
+        "betomKebab": "Load-Neon",
+        "betomglyf": {
+            "labor": "Load,Neon"
+        },
+        "betomEnglishName": "",
+        "betomID": "",
+        "betomAlias": [],
+        "betomDescription": [],
+        "betomBetanyms": [],
+        "betomProfilePic": "",
+        "betomExample": {
+            "betomVideo": [],
+            "betomImage": [],
+            "betomQuote": []
+        },
+        "dev": []
+    },
+    {
+        "betomKebab": "Log-Audio",
+        "betomglyf": {
+            "ekos": "Log",
+            "anima": "Audio"
+        },
+        "betomEnglishName": "",
+        "betomID": "",
+        "betomAlias": [],
+        "betomDescription": [],
+        "betomBetanyms": [],
+        "betomProfilePic": "",
+        "betomExample": {
+            "betomVideo": [],
+            "betomImage": [],
+            "betomQuote": []
+        },
+        "dev": []
+    },
+    {
+        "betomKebab": "Machete-Spade-Flora",
+        "betomglyf": {
+            "labor": "Machete,Spade",
+            "ekos": "Flora"
+        },
+        "betomEnglishName": "",
+        "betomID": "",
+        "betomAlias": [],
+        "betomDescription": [],
+        "betomBetanyms": [],
+        "betomProfilePic": "",
+        "betomExample": {
+            "betomVideo": [],
+            "betomImage": [],
+            "betomQuote": []
+        },
+        "dev": []
+    },
+    {
+        "betomKebab": "Machete-Spade",
+        "betomglyf": {
+            "labor": "Machete.Spade"
+        },
+        "betomEnglishName": "",
+        "betomID": "",
+        "betomAlias": [],
+        "betomDescription": [],
+        "betomBetanyms": [],
+        "betomProfilePic": "",
+        "betomExample": {
+            "betomVideo": [],
+            "betomImage": [],
+            "betomQuote": []
+        },
+        "dev": []
+    },
+    {
+        "betomKebab": "Mano-Flora",
+        "betomglyf": {
+            "labor": "Mano",
+            "ekos": "Flora"
+        },
+        "betomEnglishName": "",
+        "betomID": "",
+        "betomAlias": [],
+        "betomDescription": [],
+        "betomBetanyms": [],
+        "betomProfilePic": "",
+        "betomExample": {
+            "betomVideo": [],
+            "betomImage": [],
+            "betomQuote": []
+        },
+        "dev": []
+    },
+    {
+        "betomKebab": "Mano-Kompress",
+        "betomglyf": {
+            "labor": "Mano.Kompress"
+        },
+        "betomEnglishName": "",
+        "betomID": "",
+        "betomAlias": [],
+        "betomDescription": [],
+        "betomBetanyms": [],
+        "betomProfilePic": "",
+        "betomExample": {
+            "betomVideo": [],
+            "betomImage": [],
+            "betomQuote": []
+        },
+        "dev": []
+    },
+    {
+        "betomKebab": "Mano-Orbit",
+        "betomglyf": {
+            "labor": "Mano.Orbit"
+        },
+        "betomEnglishName": "",
+        "betomID": "",
+        "betomAlias": [],
+        "betomDescription": [],
+        "betomBetanyms": [],
+        "betomProfilePic": "",
+        "betomExample": {
+            "betomVideo": [],
+            "betomImage": [],
+            "betomQuote": []
+        },
+        "dev": []
+    },
+    {
+        "betomKebab": "Markate-CropTree",
+        "betomglyf": {
+            "labor": "Markate,CropTree"
+        },
+        "betomEnglishName": "",
+        "betomID": "",
+        "betomAlias": [],
+        "betomDescription": [],
+        "betomBetanyms": [],
+        "betomProfilePic": "",
+        "betomExample": {
+            "betomVideo": [],
+            "betomImage": [],
+            "betomQuote": []
+        },
+        "dev": []
+    },
+    {
+        "betomKebab": "Markate-Div",
+        "betomglyf": {
+            "labor": "Markate",
+            "via": "Div"
+        },
+        "betomEnglishName": "",
+        "betomID": "",
+        "betomAlias": [],
+        "betomDescription": [],
+        "betomBetanyms": [],
+        "betomProfilePic": "",
+        "betomExample": {
+            "betomVideo": [],
+            "betomImage": [],
+            "betomQuote": []
+        },
+        "dev": []
+    },
+    {
+        "betomKebab": "Markate-Site",
+        "betomglyf": {
+            "labor": "Markate",
+            "via": "Site"
+        },
+        "betomEnglishName": "",
+        "betomID": "",
+        "betomAlias": [],
+        "betomDescription": [],
+        "betomBetanyms": [],
+        "betomProfilePic": "",
+        "betomExample": {
+            "betomVideo": [],
+            "betomImage": [],
+            "betomQuote": []
+        },
+        "dev": []
+    },
+    {
+        "betomKebab": "Markate-Trench-Exit",
+        "betomglyf": {
+            "labor": "Markate,Trench",
+            "via": "Exit"
+        },
+        "betomEnglishName": "",
+        "betomID": "",
+        "betomAlias": [],
+        "betomDescription": [],
+        "betomBetanyms": [],
+        "betomProfilePic": "",
+        "betomExample": {
+            "betomVideo": [],
+            "betomImage": [],
+            "betomQuote": []
+        },
+        "dev": []
+    },
+    {
+        "betomKebab": "Markum-Aktion",
+        "betomglyf": {
+            "labor": "Markum.Aktion"
+        },
+        "betomEnglishName": "",
+        "betomID": "",
+        "betomAlias": [],
+        "betomDescription": [],
+        "betomBetanyms": [],
+        "betomProfilePic": "",
+        "betomExample": {
+            "betomVideo": [],
+            "betomImage": [],
+            "betomQuote": []
+        },
+        "dev": []
+    },
+    {
+        "betomKebab": "Markum-High",
+        "betomglyf": {
+            "labor": "Markum",
+            "via": "High"
+        },
+        "betomEnglishName": "",
+        "betomID": "",
+        "betomAlias": [],
+        "betomDescription": [],
+        "betomBetanyms": [],
+        "betomProfilePic": "",
+        "betomExample": {
+            "betomVideo": [],
+            "betomImage": [],
+            "betomQuote": []
+        },
+        "dev": []
+    },
+    {
+        "betomKebab": "Markum-Knot",
+        "betomglyf": {
+            "labor": "Markum.Knot"
+        },
+        "betomEnglishName": "",
+        "betomID": "",
+        "betomAlias": [],
+        "betomDescription": [],
+        "betomBetanyms": [],
+        "betomProfilePic": "",
+        "betomExample": {
+            "betomVideo": [],
+            "betomImage": [],
+            "betomQuote": []
+        },
+        "dev": []
+    },
+    {
+        "betomKebab": "Markum-Load",
+        "betomglyf": {
+            "labor": "Markum.Load"
+        },
+        "betomEnglishName": "",
+        "betomID": "",
+        "betomAlias": [],
+        "betomDescription": [],
+        "betomBetanyms": [],
+        "betomProfilePic": "",
+        "betomExample": {
+            "betomVideo": [],
+            "betomImage": [],
+            "betomQuote": []
+        },
+        "dev": []
+    },
+    {
+        "betomKebab": "Markum-Mano",
+        "betomglyf": {
+            "labor": "Markum.Mano"
+        },
+        "betomEnglishName": "",
+        "betomID": "",
+        "betomAlias": [],
+        "betomDescription": [],
+        "betomBetanyms": [],
+        "betomProfilePic": "",
+        "betomExample": {
+            "betomVideo": [],
+            "betomImage": [],
+            "betomQuote": []
+        },
+        "dev": []
+    },
+    {
+        "betomKebab": "Markum-Off",
+        "betomglyf": {
+            "labor": "Markum.Off"
+        },
+        "betomEnglishName": "",
+        "betomID": "",
+        "betomAlias": [],
+        "betomDescription": [],
+        "betomBetanyms": [],
+        "betomProfilePic": "",
+        "betomExample": {
+            "betomVideo": [],
+            "betomImage": [],
+            "betomQuote": []
+        },
+        "dev": []
+    },
+    {
+        "betomKebab": "Markum-Rip",
+        "betomglyf": {
+            "labor": "Markum.Rip"
+        },
+        "betomEnglishName": "",
+        "betomID": "",
+        "betomAlias": [],
+        "betomDescription": [],
+        "betomBetanyms": [],
+        "betomProfilePic": "",
+        "betomExample": {
+            "betomVideo": [],
+            "betomImage": [],
+            "betomQuote": []
+        },
+        "dev": []
+    },
+    {
+        "betomKebab": "Markum-Roll",
+        "betomglyf": {
+            "labor": "Markum.Roll"
+        },
+        "betomEnglishName": "",
+        "betomID": "",
+        "betomAlias": [],
+        "betomDescription": [],
+        "betomBetanyms": [],
+        "betomProfilePic": "",
+        "betomExample": {
+            "betomVideo": [],
+            "betomImage": [],
+            "betomQuote": []
+        },
+        "dev": []
+    },
+    {
+        "betomKebab": "Markum-Site",
+        "betomglyf": {
+            "labor": "Markum",
+            "via": "Site"
+        },
+        "betomEnglishName": "",
+        "betomID": "",
+        "betomAlias": [],
+        "betomDescription": [],
+        "betomBetanyms": [],
+        "betomProfilePic": "",
+        "betomExample": {
+            "betomVideo": [],
+            "betomImage": [],
+            "betomQuote": []
+        },
+        "dev": []
+    },
+    {
+        "betomKebab": "Maximum-Proximity",
+        "betomglyf": {
+            "via": "Maximum,Proximity"
+        },
+        "betomEnglishName": "",
+        "betomID": "",
+        "betomAlias": [],
+        "betomDescription": [],
+        "betomBetanyms": [],
+        "betomProfilePic": "",
+        "betomExample": {
+            "betomVideo": [],
+            "betomImage": [],
+            "betomQuote": []
+        },
+        "dev": []
+    },
+    {
+        "betomKebab": "Mikrosite-Aktion",
+        "betomglyf": {
+            "labor": "Mikrosite.Aktion"
+        },
+        "betomEnglishName": "",
+        "betomID": "",
+        "betomAlias": [],
+        "betomDescription": [],
+        "betomBetanyms": [],
+        "betomProfilePic": "",
+        "betomExample": {
+            "betomVideo": [],
+            "betomImage": [],
+            "betomQuote": []
+        },
+        "dev": []
+    },
+    {
+        "betomKebab": "Mikrosite-Eval",
+        "betomglyf": {
+            "labor": "Mikrosite.Eval"
+        },
+        "betomEnglishName": "",
+        "betomID": "",
+        "betomAlias": [],
+        "betomDescription": [],
+        "betomBetanyms": [],
+        "betomProfilePic": "",
+        "betomExample": {
+            "betomVideo": [],
+            "betomImage": [],
+            "betomQuote": []
+        },
+        "dev": []
+    },
+    {
+        "betomKebab": "Mikrosite-Klose",
+        "betomglyf": {
+            "labor": "Mikrosite.Klose"
+        },
+        "betomEnglishName": "",
+        "betomID": "",
+        "betomAlias": [],
+        "betomDescription": [],
+        "betomBetanyms": [],
+        "betomProfilePic": "",
+        "betomExample": {
+            "betomVideo": [],
+            "betomImage": [],
+            "betomQuote": []
+        },
+        "dev": []
+    },
+    {
+        "betomKebab": "Mikrosite-Marka",
+        "betomglyf": {
+            "labor": "Mikrosite,Marka"
+        },
+        "betomEnglishName": "",
+        "betomID": "",
+        "betomAlias": [],
+        "betomDescription": [],
+        "betomBetanyms": [],
+        "betomProfilePic": "",
+        "betomExample": {
+            "betomVideo": [],
+            "betomImage": [],
+            "betomQuote": []
+        },
+        "dev": []
+    },
+    {
+        "betomKebab": "Mikrosite-Proximity",
+        "betomglyf": {
+            "labor": "Mikrosite",
+            "via": "Proximity"
+        },
+        "betomEnglishName": "",
+        "betomID": "",
+        "betomAlias": [],
+        "betomDescription": [],
+        "betomBetanyms": [],
+        "betomProfilePic": "",
+        "betomExample": {
+            "betomVideo": [],
+            "betomImage": [],
+            "betomQuote": []
+        },
+        "dev": []
+    },
+    {
+        "betomKebab": "Mikrosite-Select",
+        "betomglyf": {
+            "labor": "Mikrosite,Select"
+        },
+        "betomEnglishName": "",
+        "betomID": "",
+        "betomAlias": [],
+        "betomDescription": [],
+        "betomBetanyms": [],
+        "betomProfilePic": "",
+        "betomExample": {
+            "betomVideo": [],
+            "betomImage": [],
+            "betomQuote": []
+        },
+        "dev": []
+    },
+    {
+        "betomKebab": "Mikrosite-Skreef",
+        "betomglyf": {
+            "labor": "Mikrosite",
+            "ekos": "Skreef"
+        },
+        "betomEnglishName": "",
+        "betomID": "",
+        "betomAlias": [],
+        "betomDescription": [],
+        "betomBetanyms": [],
+        "betomProfilePic": "",
+        "betomExample": {
+            "betomVideo": [],
+            "betomImage": [],
+            "betomQuote": []
+        },
+        "dev": []
+    },
+    {
+        "betomKebab": "MineralSoil-Hydro-Site",
+        "betomglyf": {
+            "ekos": "MineralSoil.Hydro",
+            "via": "Site"
+        },
+        "betomEnglishName": "",
+        "betomID": "",
+        "betomAlias": [],
+        "betomDescription": [],
+        "betomBetanyms": [],
+        "betomProfilePic": "",
+        "betomExample": {
+            "betomVideo": [],
+            "betomImage": [],
+            "betomQuote": []
+        },
+        "dev": []
+    },
+    {
+        "betomKebab": "MineralSoil-Site",
+        "betomglyf": {
+            "labor": "MineralSoil",
+            "via": "Site"
+        },
+        "betomEnglishName": "",
+        "betomID": "",
+        "betomAlias": [],
+        "betomDescription": [],
+        "betomBetanyms": [],
+        "betomProfilePic": "",
+        "betomExample": {
+            "betomVideo": [],
+            "betomImage": [],
+            "betomQuote": []
+        },
+        "dev": []
+    },
+    {
+        "betomKebab": "Modify-Zone-Density",
+        "betomglyf": {
+            "labor": "Modify",
+            "via": "Zone.Density"
+        },
+        "betomEnglishName": "",
+        "betomID": "",
+        "betomAlias": [],
+        "betomDescription": [],
+        "betomBetanyms": [],
+        "betomProfilePic": "",
+        "betomExample": {
+            "betomVideo": [],
+            "betomImage": [],
+            "betomQuote": []
+        },
+        "dev": []
+    },
+    {
+        "betomKebab": "Neon-Aktion",
+        "betomglyf": {
+            "labor": "Neon.Aktion"
+        },
+        "betomEnglishName": "",
+        "betomID": "",
+        "betomAlias": [],
+        "betomDescription": [],
+        "betomBetanyms": [],
+        "betomProfilePic": "",
+        "betomExample": {
+            "betomVideo": [],
+            "betomImage": [],
+            "betomQuote": []
+        },
+        "dev": []
+    },
+    {
+        "betomKebab": "Neon-Mano",
+        "betomglyf": {
+            "labor": "Neon.Mano"
+        },
+        "betomEnglishName": "",
+        "betomID": "",
+        "betomAlias": [],
+        "betomDescription": [],
+        "betomBetanyms": [],
+        "betomProfilePic": "",
+        "betomExample": {
+            "betomVideo": [],
+            "betomImage": [],
+            "betomQuote": []
+        },
+        "dev": []
+    },
+    {
+        "betomKebab": "Neon-Site",
+        "betomglyf": {
+            "labor": "Neon",
+            "via": "Site"
+        },
+        "betomEnglishName": "",
+        "betomID": "",
+        "betomAlias": [],
+        "betomDescription": [],
+        "betomBetanyms": [],
+        "betomProfilePic": "",
+        "betomExample": {
+            "betomVideo": [],
+            "betomImage": [],
+            "betomQuote": []
+        },
+        "dev": []
+    },
+    {
+        "betomKebab": "Neonektomy-Mano",
+        "betomglyf": {
+            "labor": "Neonektomy,Mano"
+        },
+        "betomEnglishName": "",
+        "betomID": "",
+        "betomAlias": [],
+        "betomDescription": [],
+        "betomBetanyms": [],
+        "betomProfilePic": "",
+        "betomExample": {
+            "betomVideo": [],
+            "betomImage": [],
+            "betomQuote": []
+        },
+        "dev": []
+    },
+    {
+        "betomKebab": "Neonektomy-Spade",
+        "betomglyf": {
+            "labor": "Neonektomy,Spade"
+        },
+        "betomEnglishName": "",
+        "betomID": "",
+        "betomAlias": [],
+        "betomDescription": [],
+        "betomBetanyms": [],
+        "betomProfilePic": "",
+        "betomExample": {
+            "betomVideo": [],
+            "betomImage": [],
+            "betomQuote": []
+        },
+        "dev": []
+    },
+    {
+        "betomKebab": "Onda-Arm",
+        "betomglyf": {
+            "labor": "Onda",
+            "soma": "Arm"
+        },
+        "betomEnglishName": "",
+        "betomID": "",
+        "betomAlias": [],
+        "betomDescription": [],
+        "betomBetanyms": [],
+        "betomProfilePic": "",
+        "betomExample": {
+            "betomVideo": [],
+            "betomImage": [],
+            "betomQuote": []
+        },
+        "dev": []
+    },
+    {
+        "betomKebab": "Onda-Leg",
+        "betomglyf": {
+            "labor": "Onda",
+            "soma": "Leg"
+        },
+        "betomEnglishName": "",
+        "betomID": "",
+        "betomAlias": [],
+        "betomDescription": [],
+        "betomBetanyms": [],
+        "betomProfilePic": "",
+        "betomExample": {
+            "betomVideo": [],
+            "betomImage": [],
+            "betomQuote": []
+        },
+        "dev": []
+    },
+    {
+        "betomKebab": "Orbit-Arm",
+        "betomglyf": {
+            "labor": "Orbit",
+            "soma": "Arm"
+        },
+        "betomEnglishName": "",
+        "betomID": "",
+        "betomAlias": [],
+        "betomDescription": [],
+        "betomBetanyms": [],
+        "betomProfilePic": "",
+        "betomExample": {
+            "betomVideo": [],
+            "betomImage": [],
+            "betomQuote": []
+        },
+        "dev": []
+    },
+    {
+        "betomKebab": "Orbit-Korpo",
+        "betomglyf": {
+            "labor": "Orbit",
+            "soma": "Korpo"
+        },
+        "betomEnglishName": "",
+        "betomID": "",
+        "betomAlias": [],
+        "betomDescription": [],
+        "betomBetanyms": [],
+        "betomProfilePic": "",
+        "betomExample": {
+            "betomVideo": [],
+            "betomImage": [],
+            "betomQuote": []
+        },
+        "dev": []
+    },
+    {
+        "betomKebab": "Palm-Site",
+        "betomglyf": {
+            "soma": "Palm",
+            "via": "Site"
+        },
+        "betomEnglishName": "",
+        "betomID": "",
+        "betomAlias": [],
+        "betomDescription": [],
+        "betomBetanyms": [],
+        "betomProfilePic": "",
+        "betomExample": {
+            "betomVideo": [],
+            "betomImage": [],
+            "betomQuote": []
+        },
+        "dev": []
+    },
+    {
+        "betomKebab": "Parry-Flora",
+        "betomglyf": {
+            "labor": "Parry",
+            "ekos": "Flora"
+        },
+        "betomEnglishName": "",
+        "betomID": "",
+        "betomAlias": [],
+        "betomDescription": [],
+        "betomBetanyms": [],
+        "betomProfilePic": "",
+        "betomExample": {
+            "betomVideo": [],
+            "betomImage": [],
+            "betomQuote": []
+        },
+        "dev": []
+    },
+    {
+        "betomKebab": "PebbleSoil-Hydro-Site",
+        "betomglyf": {
+            "ekos": "PebbleSoil.Hydro",
+            "via": "Site"
+        },
+        "betomEnglishName": "",
+        "betomID": "",
+        "betomAlias": [],
+        "betomDescription": [],
+        "betomBetanyms": [],
+        "betomProfilePic": "",
+        "betomExample": {
+            "betomVideo": [],
+            "betomImage": [],
+            "betomQuote": []
+        },
+        "dev": []
+    },
+    {
+        "betomKebab": "PebbleSoil-Site",
+        "betomglyf": {
+            "ekos": "PebbleSoil",
+            "via": "Site"
+        },
+        "betomEnglishName": "",
+        "betomID": "",
+        "betomAlias": [],
+        "betomDescription": [],
+        "betomBetanyms": [],
+        "betomProfilePic": "",
+        "betomExample": {
+            "betomVideo": [],
+            "betomImage": [],
+            "betomQuote": []
+        },
+        "dev": []
+    },
+    {
+        "betomKebab": "Periderm-Hydro-Site",
+        "betomglyf": {
+            "ekos": "Periderm.Hydro",
+            "via": "Site"
+        },
+        "betomEnglishName": "",
+        "betomID": "",
+        "betomAlias": [],
+        "betomDescription": [],
+        "betomBetanyms": [],
+        "betomProfilePic": "",
+        "betomExample": {
+            "betomVideo": [],
+            "betomImage": [],
+            "betomQuote": []
+        },
+        "dev": []
+    },
+    {
+        "betomKebab": "Periderm-Site",
+        "betomglyf": {
+            "ekos": "Periderm",
+            "via": "Site"
+        },
+        "betomEnglishName": "",
+        "betomID": "",
+        "betomAlias": [],
+        "betomDescription": [],
+        "betomBetanyms": [],
+        "betomProfilePic": "",
+        "betomExample": {
+            "betomVideo": [],
+            "betomImage": [],
+            "betomQuote": []
+        },
+        "dev": []
+    },
+    {
+        "betomKebab": "Piece-Boundary-Marka",
+        "betomglyf": {
+            "labor": "Piece.Boundary.Marka"
+        },
+        "betomEnglishName": "",
+        "betomID": "",
+        "betomAlias": [],
+        "betomDescription": [],
+        "betomBetanyms": [],
+        "betomProfilePic": "",
+        "betomExample": {
+            "betomVideo": [],
+            "betomImage": [],
+            "betomQuote": []
+        },
+        "dev": []
+    },
+    {
+        "betomKebab": "Piece-Density",
+        "betomglyf": {
+            "labor": "Piece",
+            "via": "Density"
+        },
+        "betomEnglishName": "",
+        "betomID": "",
+        "betomAlias": [],
+        "betomDescription": [],
+        "betomBetanyms": [],
+        "betomProfilePic": "",
+        "betomExample": {
+            "betomVideo": [],
+            "betomImage": [],
+            "betomQuote": []
+        },
+        "dev": []
+    },
+    {
+        "betomKebab": "Piece-Plan",
+        "betomglyf": {
+            "labor": "Piece",
+            "via": "Plan"
+        },
+        "betomEnglishName": "",
+        "betomID": "",
+        "betomAlias": [],
+        "betomDescription": [],
+        "betomBetanyms": [],
+        "betomProfilePic": "",
+        "betomExample": {
+            "betomVideo": [],
+            "betomImage": [],
+            "betomQuote": []
+        },
+        "dev": []
+    },
+    {
+        "betomKebab": "Piece-Strategy-Apogee",
+        "betomglyf": {
+            "labor": "Piece.Strategy",
+            "via": "Apogee"
+        },
+        "betomEnglishName": "",
+        "betomID": "",
+        "betomAlias": [],
+        "betomDescription": [],
+        "betomBetanyms": [],
+        "betomProfilePic": "",
+        "betomExample": {
+            "betomVideo": [],
+            "betomImage": [],
+            "betomQuote": []
+        },
+        "dev": []
+    },
+    {
+        "betomKebab": "Piece-Strategy-OpenEnded",
+        "betomglyf": {
+            "labor": "Piece.Strategy",
+            "via": "OpenEnded"
+        },
+        "betomEnglishName": "",
+        "betomID": "",
+        "betomAlias": [],
+        "betomDescription": [],
+        "betomBetanyms": [],
+        "betomProfilePic": "",
+        "betomExample": {
+            "betomVideo": [],
+            "betomImage": [],
+            "betomQuote": []
+        },
+        "dev": []
+    },
+    {
+        "betomKebab": "Piece-Strategy-Perimeter",
+        "betomglyf": {
+            "labor": "Piece.Strategy",
+            "via": "Perimeter"
+        },
+        "betomEnglishName": "",
+        "betomID": "",
+        "betomAlias": [],
+        "betomDescription": [],
+        "betomBetanyms": [],
+        "betomProfilePic": "",
+        "betomExample": {
+            "betomVideo": [],
+            "betomImage": [],
+            "betomQuote": []
+        },
+        "dev": []
+    },
+    {
+        "betomKebab": "Piece-Strategy-Simplify",
+        "betomglyf": {
+            "labor": "Piece.Strategy.Simplify"
+        },
+        "betomEnglishName": "",
+        "betomID": "",
+        "betomAlias": [],
+        "betomDescription": [],
+        "betomBetanyms": [],
+        "betomProfilePic": "",
+        "betomExample": {
+            "betomVideo": [],
+            "betomImage": [],
+            "betomQuote": []
+        },
+        "dev": []
+    },
+    {
+        "betomKebab": "Piece-Taktik-ConcaveHull",
+        "betomglyf": {
+            "labor": "Piece.Taktik",
+            "via": "ConcaveHull"
+        },
+        "betomEnglishName": "",
+        "betomID": "",
+        "betomAlias": [],
+        "betomDescription": [],
+        "betomBetanyms": [],
+        "betomProfilePic": "",
+        "betomExample": {
+            "betomVideo": [],
+            "betomImage": [],
+            "betomQuote": []
+        },
+        "dev": []
+    },
+    {
+        "betomKebab": "Piece-Taktik-ConvexHull",
+        "betomglyf": {
+            "labor": "Piece.Taktik",
+            "via": "ConvexHull"
+        },
+        "betomEnglishName": "",
+        "betomID": "",
+        "betomAlias": [],
+        "betomDescription": [],
+        "betomBetanyms": [],
+        "betomProfilePic": "",
+        "betomExample": {
+            "betomVideo": [],
+            "betomImage": [],
+            "betomQuote": []
+        },
+        "dev": []
+    },
+    {
+        "betomKebab": "Piece-Taktik-Div",
+        "betomglyf": {
+            "labor": "Piece.Taktik",
+            "via": "Div"
+        },
+        "betomEnglishName": "",
+        "betomID": "",
+        "betomAlias": [],
+        "betomDescription": [],
+        "betomBetanyms": [],
+        "betomProfilePic": "",
+        "betomExample": {
+            "betomVideo": [],
+            "betomImage": [],
+            "betomQuote": []
+        },
+        "dev": []
+    },
+    {
+        "betomKebab": "Plan-Div",
+        "betomglyf": {
+            "labor": "Plan",
+            "via": "Div"
+        },
+        "betomEnglishName": "",
+        "betomID": "",
+        "betomAlias": [],
+        "betomDescription": [],
+        "betomBetanyms": [],
+        "betomProfilePic": "",
+        "betomExample": {
+            "betomVideo": [],
+            "betomImage": [],
+            "betomQuote": []
+        },
+        "dev": []
+    },
+    {
+        "betomKebab": "Plantafor-Aktion",
+        "betomglyf": {
+            "labor": "Plantafor.Aktion"
+        },
+        "betomEnglishName": "",
+        "betomID": "",
+        "betomAlias": [],
+        "betomDescription": [],
+        "betomBetanyms": [],
+        "betomProfilePic": "",
+        "betomExample": {
+            "betomVideo": [],
+            "betomImage": [],
+            "betomQuote": []
+        },
+        "dev": []
+    },
+    {
+        "betomKebab": "Plantafor-BackBag-Aktion",
+        "betomglyf": {
+            "labor": "Plantafor.BackBag.Aktion"
+        },
+        "betomEnglishName": "",
+        "betomID": "",
+        "betomAlias": [],
+        "betomDescription": [],
+        "betomBetanyms": [],
+        "betomProfilePic": "",
+        "betomExample": {
+            "betomVideo": [],
+            "betomImage": [],
+            "betomQuote": []
+        },
+        "dev": []
+    },
+    {
+        "betomKebab": "Plantafor-Bag-Lift",
+        "betomglyf": {
+            "labor": "Plantafor.Bag.Lift"
+        },
+        "betomEnglishName": "",
+        "betomID": "",
+        "betomAlias": [],
+        "betomDescription": [],
+        "betomBetanyms": [],
+        "betomProfilePic": "",
+        "betomExample": {
+            "betomVideo": [],
+            "betomImage": [],
+            "betomQuote": []
+        },
+        "dev": []
+    },
+    {
+        "betomKebab": "Plantafor-Bag-Purga",
+        "betomglyf": {
+            "labor": "Plantafor.Bag.Purga"
+        },
+        "betomEnglishName": "",
+        "betomID": "",
+        "betomAlias": [],
+        "betomDescription": [],
+        "betomBetanyms": [],
+        "betomProfilePic": "",
+        "betomExample": {
+            "betomVideo": [],
+            "betomImage": [],
+            "betomQuote": []
+        },
+        "dev": []
+    },
+    {
+        "betomKebab": "Plantafor-Buckle-Site",
+        "betomglyf": {
+            "labor": "Plantafor.Buckle",
+            "via": "Site"
+        },
+        "betomEnglishName": "",
+        "betomID": "",
+        "betomAlias": [],
+        "betomDescription": [],
+        "betomBetanyms": [],
+        "betomProfilePic": "",
+        "betomExample": {
+            "betomVideo": [],
+            "betomImage": [],
+            "betomQuote": []
+        },
+        "dev": []
+    },
+    {
+        "betomKebab": "Plantafor-Drag",
+        "betomglyf": {
+            "labor": "Plantafor.Drag"
+        },
+        "betomEnglishName": "",
+        "betomID": "",
+        "betomAlias": [],
+        "betomDescription": [],
+        "betomBetanyms": [],
+        "betomProfilePic": "",
+        "betomExample": {
+            "betomVideo": [],
+            "betomImage": [],
+            "betomQuote": []
+        },
+        "dev": []
+    },
+    {
+        "betomKebab": "Plantafor-Lift",
+        "betomglyf": {
+            "labor": "Plantafor.Lift"
+        },
+        "betomEnglishName": "",
+        "betomID": "",
+        "betomAlias": [],
+        "betomDescription": [],
+        "betomBetanyms": [],
+        "betomProfilePic": "",
+        "betomExample": {
+            "betomVideo": [],
+            "betomImage": [],
+            "betomQuote": []
+        },
+        "dev": []
+    },
+    {
+        "betomKebab": "Plantafor-Load",
+        "betomglyf": {
+            "labor": "Plantafor.Load"
+        },
+        "betomEnglishName": "",
+        "betomID": "",
+        "betomAlias": [],
+        "betomDescription": [],
+        "betomBetanyms": [],
+        "betomProfilePic": "",
+        "betomExample": {
+            "betomVideo": [],
+            "betomImage": [],
+            "betomQuote": []
+        },
+        "dev": []
+    },
+    {
+        "betomKebab": "Plantafor-Modify",
+        "betomglyf": {
+            "labor": "Plantafor.Modify"
+        },
+        "betomEnglishName": "",
+        "betomID": "",
+        "betomAlias": [],
+        "betomDescription": [],
+        "betomBetanyms": [],
+        "betomProfilePic": "",
+        "betomExample": {
+            "betomVideo": [],
+            "betomImage": [],
+            "betomQuote": []
+        },
+        "dev": []
+    },
+    {
+        "betomKebab": "Plantafor-Off",
+        "betomglyf": {
+            "labor": "Plantafor.Off"
+        },
+        "betomEnglishName": "",
+        "betomID": "",
+        "betomAlias": [],
+        "betomDescription": [],
+        "betomBetanyms": [],
+        "betomProfilePic": "",
+        "betomExample": {
+            "betomVideo": [],
+            "betomImage": [],
+            "betomQuote": []
+        },
+        "dev": []
+    },
+    {
+        "betomKebab": "Plantafor-On",
+        "betomglyf": {
+            "labor": "Plantafor.On"
+        },
+        "betomEnglishName": "",
+        "betomID": "",
+        "betomAlias": [],
+        "betomDescription": [],
+        "betomBetanyms": [],
+        "betomProfilePic": "",
+        "betomExample": {
+            "betomVideo": [],
+            "betomImage": [],
+            "betomQuote": []
+        },
+        "dev": []
+    },
+    {
+        "betomKebab": "Plantafor-Pop",
+        "betomglyf": {
+            "labor": "Plantafor.Pop"
+        },
+        "betomEnglishName": "",
+        "betomID": "",
+        "betomAlias": [],
+        "betomDescription": [],
+        "betomBetanyms": [],
+        "betomProfilePic": "",
+        "betomExample": {
+            "betomVideo": [],
+            "betomImage": [],
+            "betomQuote": []
+        },
+        "dev": []
+    },
+    {
+        "betomKebab": "Plantafor-Preserve",
+        "betomglyf": {
+            "labor": "Plantafor.Preserve"
+        },
+        "betomEnglishName": "",
+        "betomID": "",
+        "betomAlias": [],
+        "betomDescription": [],
+        "betomBetanyms": [],
+        "betomProfilePic": "",
+        "betomExample": {
+            "betomVideo": [],
+            "betomImage": [],
+            "betomQuote": []
+        },
+        "dev": []
+    },
+    {
+        "betomKebab": "Plantafor-Site",
+        "betomglyf": {
+            "labor": "Plantafor",
+            "via": "Site"
+        },
+        "betomEnglishName": "",
+        "betomID": "",
+        "betomAlias": [],
+        "betomDescription": [],
+        "betomBetanyms": [],
+        "betomProfilePic": "",
+        "betomExample": {
+            "betomVideo": [],
+            "betomImage": [],
+            "betomQuote": []
+        },
+        "dev": []
+    },
+    {
+        "betomKebab": "Plantafor-Strap-Site",
+        "betomglyf": {
+            "labor": "Plantafor.Strap",
+            "via": "Site"
+        },
+        "betomEnglishName": "",
+        "betomID": "",
+        "betomAlias": [],
+        "betomDescription": [],
+        "betomBetanyms": [],
+        "betomProfilePic": "",
+        "betomExample": {
+            "betomVideo": [],
+            "betomImage": [],
+            "betomQuote": []
+        },
+        "dev": []
+    },
+    {
+        "betomKebab": "Plantafor-Transport",
+        "betomglyf": {
+            "labor": "Plantafor.Transport"
+        },
+        "betomEnglishName": "",
+        "betomID": "",
+        "betomAlias": [],
+        "betomDescription": [],
+        "betomBetanyms": [],
+        "betomProfilePic": "",
+        "betomExample": {
+            "betomVideo": [],
+            "betomImage": [],
+            "betomQuote": []
+        },
+        "dev": []
+    },
+    {
+        "betomKebab": "Plot-Crop-Density",
+        "betomglyf": {
+            "labor": "Plot.Crop",
+            "via": "Density"
+        },
+        "betomEnglishName": "",
+        "betomID": "",
+        "betomAlias": [],
+        "betomDescription": [],
+        "betomBetanyms": [],
+        "betomProfilePic": "",
+        "betomExample": {
+            "betomVideo": [],
+            "betomImage": [],
+            "betomQuote": []
+        },
+        "dev": []
+    },
+    {
+        "betomKebab": "Poales-Hydro-Site",
+        "betomglyf": {
+            "ekos": "Poales.Hydro",
+            "via": "Site"
+        },
+        "betomEnglishName": "",
+        "betomID": "",
+        "betomAlias": [],
+        "betomDescription": [],
+        "betomBetanyms": [],
+        "betomProfilePic": "",
+        "betomExample": {
+            "betomVideo": [],
+            "betomImage": [],
+            "betomQuote": []
+        },
+        "dev": []
+    },
+    {
+        "betomKebab": "Poales-Site",
+        "betomglyf": {
+            "ekos": "Poales",
+            "via": "Site"
+        },
+        "betomEnglishName": "",
+        "betomID": "",
+        "betomAlias": [],
+        "betomDescription": [],
+        "betomBetanyms": [],
+        "betomProfilePic": "",
+        "betomExample": {
+            "betomVideo": [],
+            "betomImage": [],
+            "betomQuote": []
+        },
+        "dev": []
+    },
+    {
+        "betomKebab": "Poke-Boot",
+        "betomglyf": {
+            "labor": "Poke",
+            "soma": "Boot"
+        },
+        "betomEnglishName": "",
+        "betomID": "",
+        "betomAlias": [],
+        "betomDescription": [],
+        "betomBetanyms": [],
+        "betomProfilePic": "",
+        "betomExample": {
+            "betomVideo": [],
+            "betomImage": [],
+            "betomQuote": []
+        },
+        "dev": []
+    },
+    {
+        "betomKebab": "Poke-Hand",
+        "betomglyf": {
+            "labor": "Poke",
+            "soma": "Hand"
+        },
+        "betomEnglishName": "",
+        "betomID": "",
+        "betomAlias": [],
+        "betomDescription": [],
+        "betomBetanyms": [],
+        "betomProfilePic": "",
+        "betomExample": {
+            "betomVideo": [],
+            "betomImage": [],
+            "betomQuote": []
+        },
+        "dev": []
+    },
+    {
+        "betomKebab": "Poke-Spade",
+        "betomglyf": {
+            "labor": "Poke",
+            "soma": "Spade"
+        },
+        "betomEnglishName": "",
+        "betomID": "",
+        "betomAlias": [],
+        "betomDescription": [],
+        "betomBetanyms": [],
+        "betomProfilePic": "",
+        "betomExample": {
+            "betomVideo": [],
+            "betomImage": [],
+            "betomQuote": []
+        },
+        "dev": []
+    },
+    {
+        "betomKebab": "Pop-Arm",
+        "betomglyf": {
+            "labor": "Pop",
+            "soma": "Arm"
+        },
+        "betomEnglishName": "",
+        "betomID": "",
+        "betomAlias": [],
+        "betomDescription": [],
+        "betomBetanyms": [],
+        "betomProfilePic": "",
+        "betomExample": {
+            "betomVideo": [],
+            "betomImage": [],
+            "betomQuote": []
+        },
+        "dev": []
+    },
+    {
+        "betomKebab": "Pop-Flora",
+        "betomglyf": {
+            "labor": "Pop",
+            "ekos": "Flora"
+        },
+        "betomEnglishName": "",
+        "betomID": "",
+        "betomAlias": [],
+        "betomDescription": [],
+        "betomBetanyms": [],
+        "betomProfilePic": "",
+        "betomExample": {
+            "betomVideo": [],
+            "betomImage": [],
+            "betomQuote": []
+        },
+        "dev": []
+    },
+    {
+        "betomKebab": "Pop-Hand",
+        "betomglyf": {
+            "labor": "Pop",
+            "soma": "Hand"
+        },
+        "betomEnglishName": "",
+        "betomID": "",
+        "betomAlias": [],
+        "betomDescription": [],
+        "betomBetanyms": [],
+        "betomProfilePic": "",
+        "betomExample": {
+            "betomVideo": [],
+            "betomImage": [],
+            "betomQuote": []
+        },
+        "dev": []
+    },
+    {
+        "betomKebab": "Pop-Korpo",
+        "betomglyf": {
+            "labor": "Pop",
+            "soma": "Korpo"
+        },
+        "betomEnglishName": "",
+        "betomID": "",
+        "betomAlias": [],
+        "betomDescription": [],
+        "betomBetanyms": [],
+        "betomProfilePic": "",
+        "betomExample": {
+            "betomVideo": [],
+            "betomImage": [],
+            "betomQuote": []
+        },
+        "dev": []
+    },
+    {
+        "betomKebab": "Pop-Leg",
+        "betomglyf": {
+            "labor": "Pop",
+            "soma": "Leg"
+        },
+        "betomEnglishName": "",
+        "betomID": "",
+        "betomAlias": [],
+        "betomDescription": [],
+        "betomBetanyms": [],
+        "betomProfilePic": "",
+        "betomExample": {
+            "betomVideo": [],
+            "betomImage": [],
+            "betomQuote": []
+        },
+        "dev": []
+    },
+    {
+        "betomKebab": "Prep-Megaskreef",
+        "betomglyf": {
+            "labor": "Prep.Megaskreef"
+        },
+        "betomEnglishName": "",
+        "betomID": "",
+        "betomAlias": [],
+        "betomDescription": [],
+        "betomBetanyms": [],
+        "betomProfilePic": "",
+        "betomExample": {
+            "betomVideo": [],
+            "betomImage": [],
+            "betomQuote": []
+        },
+        "dev": []
+    },
+    {
+        "betomKebab": "Prep-Trench",
+        "betomglyf": {
+            "labor": "Prep.Trench"
+        },
+        "betomEnglishName": "",
+        "betomID": "",
+        "betomAlias": [],
+        "betomDescription": [],
+        "betomBetanyms": [],
+        "betomProfilePic": "",
+        "betomExample": {
+            "betomVideo": [],
+            "betomImage": [],
+            "betomQuote": []
+        },
+        "dev": []
+    },
+    {
+        "betomKebab": "Progress-Leg",
+        "betomglyf": {
+            "labor": "Progress",
+            "soma": "Leg"
+        },
+        "betomEnglishName": "",
+        "betomID": "",
+        "betomAlias": [],
+        "betomDescription": [],
+        "betomBetanyms": [],
+        "betomProfilePic": "",
+        "betomExample": {
+            "betomVideo": [],
+            "betomImage": [],
+            "betomQuote": []
+        },
+        "dev": []
+    },
+    {
+        "betomKebab": "Protrakt-Head",
+        "betomglyf": {
+            "labor": "Protrakt",
+            "soma": "Head"
+        },
+        "betomEnglishName": "",
+        "betomID": "",
+        "betomAlias": [],
+        "betomDescription": [],
+        "betomBetanyms": [],
+        "betomProfilePic": "",
+        "betomExample": {
+            "betomVideo": [],
+            "betomImage": [],
+            "betomQuote": []
+        },
+        "dev": []
+    },
+    {
+        "betomKebab": "Proximity-Minimum",
+        "betomglyf": {
+            "via": "Proximity.Minimum"
+        },
+        "betomEnglishName": "",
+        "betomID": "",
+        "betomAlias": [],
+        "betomDescription": [],
+        "betomBetanyms": [],
+        "betomProfilePic": "",
+        "betomExample": {
+            "betomVideo": [],
+            "betomImage": [],
+            "betomQuote": []
+        },
+        "dev": []
+    },
+    {
+        "betomKebab": "Proximity-Optimal",
+        "betomglyf": {
+            "via": "Proximity.Optimal"
+        },
+        "betomEnglishName": "",
+        "betomID": "",
+        "betomAlias": [],
+        "betomDescription": [],
+        "betomBetanyms": [],
+        "betomProfilePic": "",
+        "betomExample": {
+            "betomVideo": [],
+            "betomImage": [],
+            "betomQuote": []
+        },
+        "dev": []
+    },
+    {
+        "betomKebab": "Radior-Aktion",
+        "betomglyf": {
+            "labor": "Radior.Aktion"
+        },
+        "betomEnglishName": "",
+        "betomID": "",
+        "betomAlias": [],
+        "betomDescription": [],
+        "betomBetanyms": [],
+        "betomProfilePic": "",
+        "betomExample": {
+            "betomVideo": [],
+            "betomImage": [],
+            "betomQuote": []
+        },
+        "dev": []
+    },
+    {
+        "betomKebab": "Radior-Off",
+        "betomglyf": {
+            "labor": "Radior.Off"
+        },
+        "betomEnglishName": "",
+        "betomID": "",
+        "betomAlias": [],
+        "betomDescription": [],
+        "betomBetanyms": [],
+        "betomProfilePic": "",
+        "betomExample": {
+            "betomVideo": [],
+            "betomImage": [],
+            "betomQuote": []
+        },
+        "dev": []
+    },
+    {
+        "betomKebab": "Radior-On",
+        "betomglyf": {
+            "labor": "Radior.On"
+        },
+        "betomEnglishName": "",
+        "betomID": "",
+        "betomAlias": [],
+        "betomDescription": [],
+        "betomBetanyms": [],
+        "betomProfilePic": "",
+        "betomExample": {
+            "betomVideo": [],
+            "betomImage": [],
+            "betomQuote": []
+        },
+        "dev": []
+    },
+    {
+        "betomKebab": "Radior-Preserve",
+        "betomglyf": {
+            "labor": "Radior.Preserve"
+        },
+        "betomEnglishName": "",
+        "betomID": "",
+        "betomAlias": [],
+        "betomDescription": [],
+        "betomBetanyms": [],
+        "betomProfilePic": "",
+        "betomExample": {
+            "betomVideo": [],
+            "betomImage": [],
+            "betomQuote": []
+        },
+        "dev": []
+    },
+    {
+        "betomKebab": "Radior-Site",
+        "betomglyf": {
+            "labor": "Radior",
+            "via": "Site"
+        },
+        "betomEnglishName": "",
+        "betomID": "",
+        "betomAlias": [],
+        "betomDescription": [],
+        "betomBetanyms": [],
+        "betomProfilePic": "",
+        "betomExample": {
+            "betomVideo": [],
+            "betomImage": [],
+            "betomQuote": []
+        },
+        "dev": []
+    },
+    {
+        "betomKebab": "RainShell-Aktion",
+        "betomglyf": {
+            "labor": "RainShell.Aktion"
+        },
+        "betomEnglishName": "",
+        "betomID": "",
+        "betomAlias": [],
+        "betomDescription": [],
+        "betomBetanyms": [],
+        "betomProfilePic": "",
+        "betomExample": {
+            "betomVideo": [],
+            "betomImage": [],
+            "betomQuote": []
+        },
+        "dev": []
+    },
+    {
+        "betomKebab": "RedRotSoil-Hydro-Site",
+        "betomglyf": {
+            "ekos": "RedRotSoil.Hydro",
+            "via": "Site"
+        },
+        "betomEnglishName": "",
+        "betomID": "",
+        "betomAlias": [],
+        "betomDescription": [],
+        "betomBetanyms": [],
+        "betomProfilePic": "",
+        "betomExample": {
+            "betomVideo": [],
+            "betomImage": [],
+            "betomQuote": []
+        },
+        "dev": []
+    },
+    {
+        "betomKebab": "RedRotSoil-Site",
+        "betomglyf": {
+            "ekos": "RedRotSoil",
+            "via": "Site"
+        },
+        "betomEnglishName": "",
+        "betomID": "",
+        "betomAlias": [],
+        "betomDescription": [],
+        "betomBetanyms": [],
+        "betomProfilePic": "",
+        "betomExample": {
+            "betomVideo": [],
+            "betomImage": [],
+            "betomQuote": []
+        },
+        "dev": []
+    },
+    {
+        "betomKebab": "Repair-Sew-Knot",
+        "betomglyf": {
+            "labor": "Repair.Sew.Knot"
+        },
+        "betomEnglishName": "",
+        "betomID": "",
+        "betomAlias": [],
+        "betomDescription": [],
+        "betomBetanyms": [],
+        "betomProfilePic": "",
+        "betomExample": {
+            "betomVideo": [],
+            "betomImage": [],
+            "betomQuote": []
+        },
+        "dev": []
+    },
+    {
+        "betomKebab": "Repair-Sew",
+        "betomglyf": {
+            "labor": "Repair.Sew"
+        },
+        "betomEnglishName": "",
+        "betomID": "",
+        "betomAlias": [],
+        "betomDescription": [],
+        "betomBetanyms": [],
+        "betomProfilePic": "",
+        "betomExample": {
+            "betomVideo": [],
+            "betomImage": [],
+            "betomQuote": []
+        },
+        "dev": []
+    },
+    {
+        "betomKebab": "Retrakt-Head",
+        "betomglyf": {
+            "labor": "Retrakt",
+            "soma": "Head"
+        },
+        "betomEnglishName": "",
+        "betomID": "",
+        "betomAlias": [],
+        "betomDescription": [],
+        "betomBetanyms": [],
+        "betomProfilePic": "",
+        "betomExample": {
+            "betomVideo": [],
+            "betomImage": [],
+            "betomQuote": []
+        },
+        "dev": []
+    },
+    {
+        "betomKebab": "Root-Site",
+        "betomglyf": {
+            "ekos": "Root",
+            "via": "Site"
+        },
+        "betomEnglishName": "",
+        "betomID": "",
+        "betomAlias": [],
+        "betomDescription": [],
+        "betomBetanyms": [],
+        "betomProfilePic": "",
+        "betomExample": {
+            "betomVideo": [],
+            "betomImage": [],
+            "betomQuote": []
+        },
+        "dev": []
+    },
+    {
+        "betomKebab": "Rope-Knot",
+        "betomglyf": {
+            "labor": "Rope.Knot"
+        },
+        "betomEnglishName": "",
+        "betomID": "",
+        "betomAlias": [],
+        "betomDescription": [],
+        "betomBetanyms": [],
+        "betomProfilePic": "",
+        "betomExample": {
+            "betomVideo": [],
+            "betomImage": [],
+            "betomQuote": []
+        },
+        "dev": []
+    },
+    {
+        "betomKebab": "Rotate-Head-Away",
+        "betomglyf": {
+            "labor": "Rotate",
+            "soma": "Head",
+            "via": "Away"
+        },
+        "betomEnglishName": "",
+        "betomID": "",
+        "betomAlias": [],
+        "betomDescription": [],
+        "betomBetanyms": [],
+        "betomProfilePic": "",
+        "betomExample": {
+            "betomVideo": [],
+            "betomImage": [],
+            "betomQuote": []
+        },
+        "dev": []
+    },
+    {
+        "betomKebab": "Rotate-Korpo",
+        "betomglyf": {
+            "labor": "Rotate",
+            "soma": "Korpo"
+        },
+        "betomEnglishName": "",
+        "betomID": "",
+        "betomAlias": [],
+        "betomDescription": [],
+        "betomBetanyms": [],
+        "betomProfilePic": "",
+        "betomExample": {
+            "betomVideo": [],
+            "betomImage": [],
+            "betomQuote": []
+        },
+        "dev": []
+    },
+    {
+        "betomKebab": "Run-Initiation",
+        "betomglyf": {
+            "labor": "Run",
+            "motor": "Initiation"
+        },
+        "betomEnglishName": "",
+        "betomID": "",
+        "betomAlias": [],
+        "betomDescription": [],
+        "betomBetanyms": [],
+        "betomProfilePic": "",
+        "betomExample": {
+            "betomVideo": [],
+            "betomImage": [],
+            "betomQuote": []
+        },
+        "dev": []
+    },
+    {
+        "betomKebab": "SandSoil-Hydro-Site",
+        "betomglyf": {
+            "ekos": "SandSoil.Hydro",
+            "via": "Site"
+        },
+        "betomEnglishName": "",
+        "betomID": "",
+        "betomAlias": [],
+        "betomDescription": [],
+        "betomBetanyms": [],
+        "betomProfilePic": "",
+        "betomExample": {
+            "betomVideo": [],
+            "betomImage": [],
+            "betomQuote": []
+        },
+        "dev": []
+    },
+    {
+        "betomKebab": "SandSoil-Site",
+        "betomglyf": {
+            "ekos": "SandSoil",
+            "via": "Site"
+        },
+        "betomEnglishName": "",
+        "betomID": "",
+        "betomAlias": [],
+        "betomDescription": [],
+        "betomBetanyms": [],
+        "betomProfilePic": "",
+        "betomExample": {
+            "betomVideo": [],
+            "betomImage": [],
+            "betomQuote": []
+        },
+        "dev": []
+    },
+    {
+        "betomKebab": "Season-Time",
+        "betomglyf": {
+            "labor": "Season",
+            "via": "Time"
+        },
+        "betomEnglishName": "",
+        "betomID": "",
+        "betomAlias": [],
+        "betomDescription": [],
+        "betomBetanyms": [],
+        "betomProfilePic": "",
+        "betomExample": {
+            "betomVideo": [],
+            "betomImage": [],
+            "betomQuote": []
+        },
+        "dev": []
+    },
+    {
+        "betomKebab": "Select-Mikrosite-Protektor",
+        "betomglyf": {
+            "labor": "Select,Mikrosite",
+            "via": "Protektor"
+        },
+        "betomEnglishName": "",
+        "betomID": "",
+        "betomAlias": [],
+        "betomDescription": [],
+        "betomBetanyms": [],
+        "betomProfilePic": "",
+        "betomExample": {
+            "betomVideo": [],
+            "betomImage": [],
+            "betomQuote": []
+        },
+        "dev": []
+    },
+    {
+        "betomKebab": "Shift-Time",
+        "betomglyf": {
+            "labor": "Shift",
+            "motor": "Time"
+        },
+        "betomEnglishName": "",
+        "betomID": "",
+        "betomAlias": [],
+        "betomDescription": [],
+        "betomBetanyms": [],
+        "betomProfilePic": "",
+        "betomExample": {
+            "betomVideo": [],
+            "betomImage": [],
+            "betomQuote": []
+        },
+        "dev": []
+    },
+    {
+        "betomKebab": "SiltSoil-Hydro-Site",
+        "betomglyf": {
+            "ekos": "SiltSoil.Hydro",
+            "via": "Site"
+        },
+        "betomEnglishName": "",
+        "betomID": "",
+        "betomAlias": [],
+        "betomDescription": [],
+        "betomBetanyms": [],
+        "betomProfilePic": "",
+        "betomExample": {
+            "betomVideo": [],
+            "betomImage": [],
+            "betomQuote": []
+        },
+        "dev": []
+    },
+    {
+        "betomKebab": "SiltSoil-Site",
+        "betomglyf": {
+            "ekos": "SiltSoil",
+            "via": "Site"
+        },
+        "betomEnglishName": "",
+        "betomID": "",
+        "betomAlias": [],
+        "betomDescription": [],
+        "betomBetanyms": [],
+        "betomProfilePic": "",
+        "betomExample": {
+            "betomVideo": [],
+            "betomImage": [],
+            "betomQuote": []
+        },
+        "dev": []
+    },
+    {
+        "betomKebab": "SilviBag-Site",
+        "betomglyf": {
+            "labor": "SilviBag",
+            "via": "Site"
+        },
+        "betomEnglishName": "",
+        "betomID": "",
+        "betomAlias": [],
+        "betomDescription": [],
+        "betomBetanyms": [],
+        "betomProfilePic": "",
+        "betomExample": {
+            "betomVideo": [],
+            "betomImage": [],
+            "betomQuote": []
+        },
+        "dev": []
+    },
+    {
+        "betomKebab": "Site-Density",
+        "betomglyf": {
+            "via": "Site,Density"
+        },
+        "betomEnglishName": "",
+        "betomID": "",
+        "betomAlias": [],
+        "betomDescription": [],
+        "betomBetanyms": [],
+        "betomProfilePic": "",
+        "betomExample": {
+            "betomVideo": [],
+            "betomImage": [],
+            "betomQuote": []
+        },
+        "dev": []
+    },
+    {
+        "betomKebab": "Skim-Hand",
+        "betomglyf": {
+            "labor": "Skim",
+            "soma": "Hand"
+        },
+        "betomEnglishName": "",
+        "betomID": "",
+        "betomAlias": [],
+        "betomDescription": [],
+        "betomBetanyms": [],
+        "betomProfilePic": "",
+        "betomExample": {
+            "betomVideo": [],
+            "betomImage": [],
+            "betomQuote": []
+        },
+        "dev": []
+    },
+    {
+        "betomKebab": "Skim-Leg",
+        "betomglyf": {
+            "labor": "Skim",
+            "soma": "Leg"
+        },
+        "betomEnglishName": "",
+        "betomID": "",
+        "betomAlias": [],
+        "betomDescription": [],
+        "betomBetanyms": [],
+        "betomProfilePic": "",
+        "betomExample": {
+            "betomVideo": [],
+            "betomImage": [],
+            "betomQuote": []
+        },
+        "dev": []
+    },
+    {
+        "betomKebab": "Skim-Spade",
+        "betomglyf": {
+            "labor": "Skim,Spade"
+        },
+        "betomEnglishName": "",
+        "betomID": "",
+        "betomAlias": [],
+        "betomDescription": [],
+        "betomBetanyms": [],
+        "betomProfilePic": "",
+        "betomExample": {
+            "betomVideo": [],
+            "betomImage": [],
+            "betomQuote": []
+        },
+        "dev": []
+    },
+    {
+        "betomKebab": "Slap-Spade",
+        "betomglyf": {
+            "labor": "Slap,Spade"
+        },
+        "betomEnglishName": "",
+        "betomID": "",
+        "betomAlias": [],
+        "betomDescription": [],
+        "betomBetanyms": [],
+        "betomProfilePic": "",
+        "betomExample": {
+            "betomVideo": [],
+            "betomImage": [],
+            "betomQuote": []
+        },
+        "dev": []
+    },
+    {
+        "betomKebab": "Slash-Audio",
+        "betomglyf": {
+            "ekos": "Slash",
+            "anima": "Audio"
+        },
+        "betomEnglishName": "",
+        "betomID": "",
+        "betomAlias": [],
+        "betomDescription": [],
+        "betomBetanyms": [],
+        "betomProfilePic": "",
+        "betomExample": {
+            "betomVideo": [],
+            "betomImage": [],
+            "betomQuote": []
+        },
+        "dev": []
+    },
+    {
+        "betomKebab": "Slide-Hand",
+        "betomglyf": {
+            "labor": "Slide",
+            "soma": "Hand"
+        },
+        "betomEnglishName": "",
+        "betomID": "",
+        "betomAlias": [],
+        "betomDescription": [],
+        "betomBetanyms": [],
+        "betomProfilePic": "",
+        "betomExample": {
+            "betomVideo": [],
+            "betomImage": [],
+            "betomQuote": []
+        },
+        "dev": []
+    },
+    {
+        "betomKebab": "Slot-Flora",
+        "betomglyf": {
+            "labor": "Slot",
+            "ekos": "Flora"
+        },
+        "betomEnglishName": "",
+        "betomID": "",
+        "betomAlias": [],
+        "betomDescription": [],
+        "betomBetanyms": [],
+        "betomProfilePic": "",
+        "betomExample": {
+            "betomVideo": [],
+            "betomImage": [],
+            "betomQuote": []
+        },
+        "dev": []
+    },
+    {
+        "betomKebab": "Slot-Korpo",
+        "betomglyf": {
+            "labor": "Slot",
+            "soma": "Korpo"
+        },
+        "betomEnglishName": "",
+        "betomID": "",
+        "betomAlias": [],
+        "betomDescription": [],
+        "betomBetanyms": [],
+        "betomProfilePic": "",
+        "betomExample": {
+            "betomVideo": [],
+            "betomImage": [],
+            "betomQuote": []
+        },
+        "dev": []
+    },
+    {
+        "betomKebab": "Slot-Markum",
+        "betomglyf": {
+            "labor": "Slot,Markum"
+        },
+        "betomEnglishName": "",
+        "betomID": "",
+        "betomAlias": [],
+        "betomDescription": [],
+        "betomBetanyms": [],
+        "betomProfilePic": "",
+        "betomExample": {
+            "betomVideo": [],
+            "betomImage": [],
+            "betomQuote": []
+        },
+        "dev": []
+    },
+    {
+        "betomKebab": "Slot-Neon",
+        "betomglyf": {
+            "labor": "Slot,Neon"
+        },
+        "betomEnglishName": "",
+        "betomID": "",
+        "betomAlias": [],
+        "betomDescription": [],
+        "betomBetanyms": [],
+        "betomProfilePic": "",
+        "betomExample": {
+            "betomVideo": [],
+            "betomImage": [],
+            "betomQuote": []
+        },
+        "dev": []
+    },
+    {
+        "betomKebab": "Snap-Flora-Branch",
+        "betomglyf": {
+            "labor": "Snap",
+            "ekos": "Flora-Branch"
+        },
+        "betomEnglishName": "",
+        "betomID": "",
+        "betomAlias": [],
+        "betomDescription": [],
+        "betomBetanyms": [],
+        "betomProfilePic": "",
+        "betomExample": {
+            "betomVideo": [],
+            "betomImage": [],
+            "betomQuote": []
+        },
+        "dev": []
+    },
+    {
+        "betomKebab": "Snap-Flora",
+        "betomglyf": {
+            "labor": "Snap",
+            "ekos": "Flora"
+        },
+        "betomEnglishName": "",
+        "betomID": "",
+        "betomAlias": [],
+        "betomDescription": [],
+        "betomBetanyms": [],
+        "betomProfilePic": "",
+        "betomExample": {
+            "betomVideo": [],
+            "betomImage": [],
+            "betomQuote": []
+        },
+        "dev": []
+    },
+    {
+        "betomKebab": "Soil-Audio",
+        "betomglyf": {
+            "ekos": "Soil",
+            "anima": "Audio"
+        },
+        "betomEnglishName": "",
+        "betomID": "",
+        "betomAlias": [],
+        "betomDescription": [],
+        "betomBetanyms": [],
+        "betomProfilePic": "",
+        "betomExample": {
+            "betomVideo": [],
+            "betomImage": [],
+            "betomQuote": []
+        },
+        "dev": []
+    },
+    {
+        "betomKebab": "Soil-Creamy",
+        "betomglyf": {
+            "ekos": "Soil",
+            "via": "Creamy"
+        },
+        "betomEnglishName": "",
+        "betomID": "",
+        "betomAlias": [],
+        "betomDescription": [],
+        "betomBetanyms": [],
+        "betomProfilePic": "",
+        "betomExample": {
+            "betomVideo": [],
+            "betomImage": [],
+            "betomQuote": []
+        },
+        "dev": []
+    },
+    {
+        "betomKebab": "Spade-Aktion",
+        "betomglyf": {
+            "labor": "Spade.Aktion"
+        },
+        "betomEnglishName": "",
+        "betomID": "",
+        "betomAlias": [],
+        "betomDescription": [],
+        "betomBetanyms": [],
+        "betomProfilePic": "",
+        "betomExample": {
+            "betomVideo": [],
+            "betomImage": [],
+            "betomQuote": []
+        },
+        "dev": []
+    },
+    {
+        "betomKebab": "Spade-Allos",
+        "betomglyf": {
+            "labor": "Spade.Allos"
+        },
+        "betomEnglishName": "",
+        "betomID": "",
+        "betomAlias": [],
+        "betomDescription": [],
+        "betomBetanyms": [],
+        "betomProfilePic": "",
+        "betomExample": {
+            "betomVideo": [],
+            "betomImage": [],
+            "betomQuote": []
+        },
+        "dev": []
+    },
+    {
+        "betomKebab": "Spade-Ankor",
+        "betomglyf": {
+            "labor": "Spade.Ankor"
+        },
+        "betomEnglishName": "",
+        "betomID": "",
+        "betomAlias": [],
+        "betomDescription": [],
+        "betomBetanyms": [],
+        "betomProfilePic": "",
+        "betomExample": {
+            "betomVideo": [],
+            "betomImage": [],
+            "betomQuote": []
+        },
+        "dev": []
+    },
+    {
+        "betomKebab": "Spade-Audio",
+        "betomglyf": {
+            "labor": "Spade",
+            "anima": "Audio"
+        },
+        "betomEnglishName": "",
+        "betomID": "",
+        "betomAlias": [],
+        "betomDescription": [],
+        "betomBetanyms": [],
+        "betomProfilePic": "",
+        "betomExample": {
+            "betomVideo": [],
+            "betomImage": [],
+            "betomQuote": []
+        },
+        "dev": []
+    },
+    {
+        "betomKebab": "Spade-Ballista",
+        "betomglyf": {
+            "labor": "Spade.Ballista"
+        },
+        "betomEnglishName": "",
+        "betomID": "",
+        "betomAlias": [],
+        "betomDescription": [],
+        "betomBetanyms": [],
+        "betomProfilePic": "",
+        "betomExample": {
+            "betomVideo": [],
+            "betomImage": [],
+            "betomQuote": []
+        },
+        "dev": []
+    },
+    {
+        "betomKebab": "Spade-Drag",
+        "betomglyf": {
+            "labor": "Spade.Drag"
+        },
+        "betomEnglishName": "",
+        "betomID": "",
+        "betomAlias": [],
+        "betomDescription": [],
+        "betomBetanyms": [],
+        "betomProfilePic": "",
+        "betomExample": {
+            "betomVideo": [],
+            "betomImage": [],
+            "betomQuote": []
+        },
+        "dev": []
+    },
+    {
+        "betomKebab": "Spade-Handle-Dimano",
+        "betomglyf": {
+            "labor": "Spade.Handle.Dimano"
+        },
+        "betomEnglishName": "",
+        "betomID": "",
+        "betomAlias": [],
+        "betomDescription": [],
+        "betomBetanyms": [],
+        "betomProfilePic": "",
+        "betomExample": {
+            "betomVideo": [],
+            "betomImage": [],
+            "betomQuote": []
+        },
+        "dev": []
+    },
+    {
+        "betomKebab": "Spade-Handle-Mano",
+        "betomglyf": {
+            "labor": "Spade.Handle.Mano"
+        },
+        "betomEnglishName": "",
+        "betomID": "",
+        "betomAlias": [],
+        "betomDescription": [],
+        "betomBetanyms": [],
+        "betomProfilePic": "",
+        "betomExample": {
+            "betomVideo": [],
+            "betomImage": [],
+            "betomQuote": []
+        },
+        "dev": []
+    },
+    {
+        "betomKebab": "Spade-Handle-Site",
+        "betomglyf": {
+            "labor": "Spade.Handle",
+            "via": "Site"
+        },
+        "betomEnglishName": "",
+        "betomID": "",
+        "betomAlias": [],
+        "betomDescription": [],
+        "betomBetanyms": [],
+        "betomProfilePic": "",
+        "betomExample": {
+            "betomVideo": [],
+            "betomImage": [],
+            "betomQuote": []
+        },
+        "dev": []
+    },
+    {
+        "betomKebab": "Spade-Hook",
+        "betomglyf": {
+            "labor": "Spade.Hook"
+        },
+        "betomEnglishName": "",
+        "betomID": "",
+        "betomAlias": [],
+        "betomDescription": [],
+        "betomBetanyms": [],
+        "betomProfilePic": "",
+        "betomExample": {
+            "betomVideo": [],
+            "betomImage": [],
+            "betomQuote": []
+        },
+        "dev": []
+    },
+    {
+        "betomKebab": "Spade-Mano",
+        "betomglyf": {
+            "labor": "Spade.Mano"
+        },
+        "betomEnglishName": "",
+        "betomID": "",
+        "betomAlias": [],
+        "betomDescription": [],
+        "betomBetanyms": [],
+        "betomProfilePic": "",
+        "betomExample": {
+            "betomVideo": [],
+            "betomImage": [],
+            "betomQuote": []
+        },
+        "dev": []
+    },
+    {
+        "betomKebab": "Spade-MuscleUp",
+        "betomglyf": {
+            "labor": "Spade.MuscleUp"
+        },
+        "betomEnglishName": "",
+        "betomID": "",
+        "betomAlias": [],
+        "betomDescription": [],
+        "betomBetanyms": [],
+        "betomProfilePic": "",
+        "betomExample": {
+            "betomVideo": [],
+            "betomImage": [],
+            "betomQuote": []
+        },
+        "dev": []
+    },
+    {
+        "betomKebab": "Spade-Onda",
+        "betomglyf": {
+            "labor": "Spade.Onda"
+        },
+        "betomEnglishName": "",
+        "betomID": "",
+        "betomAlias": [],
+        "betomDescription": [],
+        "betomBetanyms": [],
+        "betomProfilePic": "",
+        "betomExample": {
+            "betomVideo": [],
+            "betomImage": [],
+            "betomQuote": []
+        },
+        "dev": []
+    },
+    {
+        "betomKebab": "Spade-Pogo",
+        "betomglyf": {
+            "labor": "Spade.Pogo"
+        },
+        "betomEnglishName": "",
+        "betomID": "",
+        "betomAlias": [],
+        "betomDescription": [],
+        "betomBetanyms": [],
+        "betomProfilePic": "",
+        "betomExample": {
+            "betomVideo": [],
+            "betomImage": [],
+            "betomQuote": []
+        },
+        "dev": []
+    },
+    {
+        "betomKebab": "Spade-Pop",
+        "betomglyf": {
+            "labor": "Spade.Pop"
+        },
+        "betomEnglishName": "",
+        "betomID": "",
+        "betomAlias": [],
+        "betomDescription": [],
+        "betomBetanyms": [],
+        "betomProfilePic": "",
+        "betomExample": {
+            "betomVideo": [],
+            "betomImage": [],
+            "betomQuote": []
+        },
+        "dev": []
+    },
+    {
+        "betomKebab": "Spade-Post",
+        "betomglyf": {
+            "labor": "Spade.Post"
+        },
+        "betomEnglishName": "",
+        "betomID": "",
+        "betomAlias": [],
+        "betomDescription": [],
+        "betomBetanyms": [],
+        "betomProfilePic": "",
+        "betomExample": {
+            "betomVideo": [],
+            "betomImage": [],
+            "betomQuote": []
+        },
+        "dev": []
+    },
+    {
+        "betomKebab": "Spade-Preserve",
+        "betomglyf": {
+            "labor": "Spade.Preserve"
+        },
+        "betomEnglishName": "",
+        "betomID": "",
+        "betomAlias": [],
+        "betomDescription": [],
+        "betomBetanyms": [],
+        "betomProfilePic": "",
+        "betomExample": {
+            "betomVideo": [],
+            "betomImage": [],
+            "betomQuote": []
+        },
+        "dev": []
+    },
+    {
+        "betomKebab": "Spade-Purga",
+        "betomglyf": {
+            "labor": "Spade.Purga"
+        },
+        "betomEnglishName": "",
+        "betomID": "",
+        "betomAlias": [],
+        "betomDescription": [],
+        "betomBetanyms": [],
+        "betomProfilePic": "",
+        "betomExample": {
+            "betomVideo": [],
+            "betomImage": [],
+            "betomQuote": []
+        },
+        "dev": []
+    },
+    {
+        "betomKebab": "Spade-Rotate",
+        "betomglyf": {
+            "labor": "Spade.Rotate"
+        },
+        "betomEnglishName": "",
+        "betomID": "",
+        "betomAlias": [],
+        "betomDescription": [],
+        "betomBetanyms": [],
+        "betomProfilePic": "",
+        "betomExample": {
+            "betomVideo": [],
+            "betomImage": [],
+            "betomQuote": []
+        },
+        "dev": []
+    },
+    {
+        "betomKebab": "Spade-Shaft-Mano",
+        "betomglyf": {
+            "labor": "Spade.Shaft.Mano"
+        },
+        "betomEnglishName": "",
+        "betomID": "",
+        "betomAlias": [],
+        "betomDescription": [],
+        "betomBetanyms": [],
+        "betomProfilePic": "",
+        "betomExample": {
+            "betomVideo": [],
+            "betomImage": [],
+            "betomQuote": []
+        },
+        "dev": []
+    },
+    {
+        "betomKebab": "Spade-Shaft-Site",
+        "betomglyf": {
+            "labor": "Spade.Shaft",
+            "via": "Site"
+        },
+        "betomEnglishName": "",
+        "betomID": "",
+        "betomAlias": [],
+        "betomDescription": [],
+        "betomBetanyms": [],
+        "betomProfilePic": "",
+        "betomExample": {
+            "betomVideo": [],
+            "betomImage": [],
+            "betomQuote": []
+        },
+        "dev": []
+    },
+    {
+        "betomKebab": "Spade-Site",
+        "betomglyf": {
+            "labor": "Spade",
+            "via": "Site"
+        },
+        "betomEnglishName": "",
+        "betomID": "",
+        "betomAlias": [],
+        "betomDescription": [],
+        "betomBetanyms": [],
+        "betomProfilePic": "",
+        "betomExample": {
+            "betomVideo": [],
+            "betomImage": [],
+            "betomQuote": []
+        },
+        "dev": []
+    },
+    {
+        "betomKebab": "Spade-Spike",
+        "betomglyf": {
+            "labor": "Spade.Spike"
+        },
+        "betomEnglishName": "",
+        "betomID": "",
+        "betomAlias": [],
+        "betomDescription": [],
+        "betomBetanyms": [],
+        "betomProfilePic": "",
+        "betomExample": {
+            "betomVideo": [],
+            "betomImage": [],
+            "betomQuote": []
+        },
+        "dev": []
+    },
+    {
+        "betomKebab": "Spade-Stall",
+        "betomglyf": {
+            "labor": "Spade.Stall"
+        },
+        "betomEnglishName": "",
+        "betomID": "",
+        "betomAlias": [],
+        "betomDescription": [],
+        "betomBetanyms": [],
+        "betomProfilePic": "",
+        "betomExample": {
+            "betomVideo": [],
+            "betomImage": [],
+            "betomQuote": []
+        },
+        "dev": []
+    },
+    {
+        "betomKebab": "Spade-Stomp",
+        "betomglyf": {
+            "labor": "Spade.Stomp"
+        },
+        "betomEnglishName": "",
+        "betomID": "",
+        "betomAlias": [],
+        "betomDescription": [],
+        "betomBetanyms": [],
+        "betomProfilePic": "",
+        "betomExample": {
+            "betomVideo": [],
+            "betomImage": [],
+            "betomQuote": []
+        },
+        "dev": []
+    },
+    {
+        "betomKebab": "Spade-SuperSpike",
+        "betomglyf": {
+            "labor": "Spade.SuperSpike"
+        },
+        "betomEnglishName": "",
+        "betomID": "",
+        "betomAlias": [],
+        "betomDescription": [],
+        "betomBetanyms": [],
+        "betomProfilePic": "",
+        "betomExample": {
+            "betomVideo": [],
+            "betomImage": [],
+            "betomQuote": []
+        },
+        "dev": []
+    },
+    {
+        "betomKebab": "Spade-Tab-Site",
+        "betomglyf": {
+            "labor": "Spade.Tab",
+            "via": "Site"
+        },
+        "betomEnglishName": "",
+        "betomID": "",
+        "betomAlias": [],
+        "betomDescription": [],
+        "betomBetanyms": [],
+        "betomProfilePic": "",
+        "betomExample": {
+            "betomVideo": [],
+            "betomImage": [],
+            "betomQuote": []
+        },
+        "dev": []
+    },
+    {
+        "betomKebab": "Spade-Transport",
+        "betomglyf": {
+            "labor": "Spade.Transport"
+        },
+        "betomEnglishName": "",
+        "betomID": "",
+        "betomAlias": [],
+        "betomDescription": [],
+        "betomBetanyms": [],
+        "betomProfilePic": "",
+        "betomExample": {
+            "betomVideo": [],
+            "betomImage": [],
+            "betomQuote": []
+        },
+        "dev": []
+    },
+    {
+        "betomKebab": "Stand-Korpo",
+        "betomglyf": {
+            "labor": "Stand",
+            "soma": "Korpo"
+        },
+        "betomEnglishName": "",
+        "betomID": "",
+        "betomAlias": [],
+        "betomDescription": [],
+        "betomBetanyms": [],
+        "betomProfilePic": "",
+        "betomExample": {
+            "betomVideo": [],
+            "betomImage": [],
+            "betomQuote": []
+        },
+        "dev": []
+    },
+    {
+        "betomKebab": "Stem-Site",
+        "betomglyf": {
+            "ekos": "Stem",
+            "via": "Site"
+        },
+        "betomEnglishName": "",
+        "betomID": "",
+        "betomAlias": [],
+        "betomDescription": [],
+        "betomBetanyms": [],
+        "betomProfilePic": "",
+        "betomExample": {
+            "betomVideo": [],
+            "betomImage": [],
+            "betomQuote": []
+        },
+        "dev": []
+    },
+    {
+        "betomKebab": "Step-Into",
+        "betomglyf": {
+            "labor": "Step",
+            "via": "Into"
+        },
+        "betomEnglishName": "",
+        "betomID": "",
+        "betomAlias": [],
+        "betomDescription": [],
+        "betomBetanyms": [],
+        "betomProfilePic": "",
+        "betomExample": {
+            "betomVideo": [],
+            "betomImage": [],
+            "betomQuote": []
+        },
+        "dev": []
+    },
+    {
+        "betomKebab": "Step-Leg",
+        "betomglyf": {
+            "labor": "Step",
+            "soma": "Leg"
+        },
+        "betomEnglishName": "",
+        "betomID": "",
+        "betomAlias": [],
+        "betomDescription": [],
+        "betomBetanyms": [],
+        "betomProfilePic": "",
+        "betomExample": {
+            "betomVideo": [],
+            "betomImage": [],
+            "betomQuote": []
+        },
+        "dev": []
+    },
+    {
+        "betomKebab": "Stomp-Leg",
+        "betomglyf": {
+            "labor": "Stomp",
+            "soma": "Leg"
+        },
+        "betomEnglishName": "",
+        "betomID": "",
+        "betomAlias": [],
+        "betomDescription": [],
+        "betomBetanyms": [],
+        "betomProfilePic": "",
+        "betomExample": {
+            "betomVideo": [],
+            "betomImage": [],
+            "betomQuote": []
+        },
+        "dev": []
+    },
+    {
+        "betomKebab": "Stump-Site",
+        "betomglyf": {
+            "ekos": "Stump",
+            "via": "Site"
+        },
+        "betomEnglishName": "",
+        "betomID": "",
+        "betomAlias": [],
+        "betomDescription": [],
+        "betomBetanyms": [],
+        "betomProfilePic": "",
+        "betomExample": {
+            "betomVideo": [],
+            "betomImage": [],
+            "betomQuote": []
+        },
+        "dev": []
+    },
+    {
+        "betomKebab": "Tangent-Korpo",
+        "betomglyf": {
+            "labor": "Tangent",
+            "soma": "Korpo"
+        },
+        "betomEnglishName": "",
+        "betomID": "",
+        "betomAlias": [],
+        "betomDescription": [],
+        "betomBetanyms": [],
+        "betomProfilePic": "",
+        "betomExample": {
+            "betomVideo": [],
+            "betomImage": [],
+            "betomQuote": []
+        },
+        "dev": []
+    },
+    {
+        "betomKebab": "Tarp-Kompakt",
+        "betomglyf": {
+            "labor": "Tarp.Kompakt"
+        },
+        "betomEnglishName": "",
+        "betomID": "",
+        "betomAlias": [],
+        "betomDescription": [],
+        "betomBetanyms": [],
+        "betomProfilePic": "",
+        "betomExample": {
+            "betomVideo": [],
+            "betomImage": [],
+            "betomQuote": []
+        },
+        "dev": []
+    },
+    {
+        "betomKebab": "Tarp-Off",
+        "betomglyf": {
+            "labor": "Tarp.Off"
+        },
+        "betomEnglishName": "",
+        "betomID": "",
+        "betomAlias": [],
+        "betomDescription": [],
+        "betomBetanyms": [],
+        "betomProfilePic": "",
+        "betomExample": {
+            "betomVideo": [],
+            "betomImage": [],
+            "betomQuote": []
+        },
+        "dev": []
+    },
+    {
+        "betomKebab": "Tarp-On",
+        "betomglyf": {
+            "labor": "Tarp.On"
+        },
+        "betomEnglishName": "",
+        "betomID": "",
+        "betomAlias": [],
+        "betomDescription": [],
+        "betomBetanyms": [],
+        "betomProfilePic": "",
+        "betomExample": {
+            "betomVideo": [],
+            "betomImage": [],
+            "betomQuote": []
+        },
+        "dev": []
+    },
+    {
+        "betomKebab": "Team-Taktik-Bounce",
+        "betomglyf": {
+            "labor": "Team.Taktik.Bounce"
+        },
+        "betomEnglishName": "",
+        "betomID": "",
+        "betomAlias": [],
+        "betomDescription": [],
+        "betomBetanyms": [],
+        "betomProfilePic": "",
+        "betomExample": {
+            "betomVideo": [],
+            "betomImage": [],
+            "betomQuote": []
+        },
+        "dev": []
+    },
+    {
+        "betomKebab": "Team-Taktik-Cross",
+        "betomglyf": {
+            "labor": "Team.Taktik.Cross"
+        },
+        "betomEnglishName": "",
+        "betomID": "",
+        "betomAlias": [],
+        "betomDescription": [],
+        "betomBetanyms": [],
+        "betomProfilePic": "",
+        "betomExample": {
+            "betomVideo": [],
+            "betomImage": [],
+            "betomQuote": []
+        },
+        "dev": []
+    },
+    {
+        "betomKebab": "Team-Taktik",
+        "betomglyf": {
+            "labor": "Team.Taktik"
+        },
+        "betomEnglishName": "",
+        "betomID": "",
+        "betomAlias": [],
+        "betomDescription": [],
+        "betomBetanyms": [],
+        "betomProfilePic": "",
+        "betomExample": {
+            "betomVideo": [],
+            "betomImage": [],
+            "betomQuote": []
+        },
+        "dev": []
+    },
+    {
+        "betomKebab": "Thumb-Extension",
+        "betomglyf": {
+            "soma": "Thumb",
+            "via": "Extension"
+        },
+        "betomEnglishName": "",
+        "betomID": "",
+        "betomAlias": [],
+        "betomDescription": [],
+        "betomBetanyms": [],
+        "betomProfilePic": "",
+        "betomExample": {
+            "betomVideo": [],
+            "betomImage": [],
+            "betomQuote": []
+        },
+        "dev": []
+    },
+    {
+        "betomKebab": "Thumb-Flexion",
+        "betomglyf": {
+            "soma": "Thumb",
+            "via": "Flexion"
+        },
+        "betomEnglishName": "",
+        "betomID": "",
+        "betomAlias": [],
+        "betomDescription": [],
+        "betomBetanyms": [],
+        "betomProfilePic": "",
+        "betomExample": {
+            "betomVideo": [],
+            "betomImage": [],
+            "betomQuote": []
+        },
+        "dev": []
+    },
+    {
+        "betomKebab": "Tibior-Mano",
+        "betomglyf": {
+            "labor": "Tibior.Mano"
+        },
+        "betomEnglishName": "",
+        "betomID": "",
+        "betomAlias": [],
+        "betomDescription": [],
+        "betomBetanyms": [],
+        "betomProfilePic": "",
+        "betomExample": {
+            "betomVideo": [],
+            "betomImage": [],
+            "betomQuote": []
+        },
+        "dev": []
+    },
+    {
+        "betomKebab": "Tibior-Off",
+        "betomglyf": {
+            "labor": "Tibior.Off"
+        },
+        "betomEnglishName": "",
+        "betomID": "",
+        "betomAlias": [],
+        "betomDescription": [],
+        "betomBetanyms": [],
+        "betomProfilePic": "",
+        "betomExample": {
+            "betomVideo": [],
+            "betomImage": [],
+            "betomQuote": []
+        },
+        "dev": []
+    },
+    {
+        "betomKebab": "Tibior-On",
+        "betomglyf": {
+            "labor": "Tibior.On"
+        },
+        "betomEnglishName": "",
+        "betomID": "",
+        "betomAlias": [],
+        "betomDescription": [],
+        "betomBetanyms": [],
+        "betomProfilePic": "",
+        "betomExample": {
+            "betomVideo": [],
+            "betomImage": [],
+            "betomQuote": []
+        },
+        "dev": []
+    },
+    {
+        "betomKebab": "Tibior-Preserve",
+        "betomglyf": {
+            "labor": "Tibior.Preserve"
+        },
+        "betomEnglishName": "",
+        "betomID": "",
+        "betomAlias": [],
+        "betomDescription": [],
+        "betomBetanyms": [],
+        "betomProfilePic": "",
+        "betomExample": {
+            "betomVideo": [],
+            "betomImage": [],
+            "betomQuote": []
+        },
+        "dev": []
+    },
+    {
+        "betomKebab": "Tibior-Site",
+        "betomglyf": {
+            "labor": "Tibior",
+            "via": "Site"
+        },
+        "betomEnglishName": "",
+        "betomID": "",
+        "betomAlias": [],
+        "betomDescription": [],
+        "betomBetanyms": [],
+        "betomProfilePic": "",
+        "betomExample": {
+            "betomVideo": [],
+            "betomImage": [],
+            "betomQuote": []
+        },
+        "dev": []
+    },
+    {
+        "betomKebab": "Tool-Repair",
+        "betomglyf": {
+            "labor": "Tool.Repair"
+        },
+        "betomEnglishName": "",
+        "betomID": "",
+        "betomAlias": [],
+        "betomDescription": [],
+        "betomBetanyms": [],
+        "betomProfilePic": "",
+        "betomExample": {
+            "betomVideo": [],
+            "betomImage": [],
+            "betomQuote": []
+        },
+        "dev": []
+    },
+    {
+        "betomKebab": "Trot-Korpo",
+        "betomglyf": {
+            "labor": "Trot",
+            "soma": "Korpo"
+        },
+        "betomEnglishName": "",
+        "betomID": "",
+        "betomAlias": [],
+        "betomDescription": [],
+        "betomBetanyms": [],
+        "betomProfilePic": "",
+        "betomExample": {
+            "betomVideo": [],
+            "betomImage": [],
+            "betomQuote": []
+        },
+        "dev": []
+    },
+    {
+        "betomKebab": "Truck-Sit",
+        "betomglyf": {
+            "labor": "Truck.Sit"
+        },
+        "betomEnglishName": "",
+        "betomID": "",
+        "betomAlias": [],
+        "betomDescription": [],
+        "betomBetanyms": [],
+        "betomProfilePic": "",
+        "betomExample": {
+            "betomVideo": [],
+            "betomImage": [],
+            "betomQuote": []
+        },
+        "dev": []
+    },
+    {
+        "betomKebab": "Truck-Sleep",
+        "betomglyf": {
+            "labor": "Truck.Sleep"
+        },
+        "betomEnglishName": "",
+        "betomID": "",
+        "betomAlias": [],
+        "betomDescription": [],
+        "betomBetanyms": [],
+        "betomProfilePic": "",
+        "betomExample": {
+            "betomVideo": [],
+            "betomImage": [],
+            "betomQuote": []
+        },
+        "dev": []
+    },
+    {
+        "betomKebab": "Twist-Korpo",
+        "betomglyf": {
+            "labor": "Twist",
+            "soma": "Korpo"
+        },
+        "betomEnglishName": "",
+        "betomID": "",
+        "betomAlias": [],
+        "betomDescription": [],
+        "betomBetanyms": [],
+        "betomProfilePic": "",
+        "betomExample": {
+            "betomVideo": [],
+            "betomImage": [],
+            "betomQuote": []
+        },
+        "dev": []
+    },
+    {
+        "betomKebab": "Velcro-Site",
+        "betomglyf": {
+            "labor": "Velcro",
+            "via": "Site"
+        },
+        "betomEnglishName": "",
+        "betomID": "",
+        "betomAlias": [],
+        "betomDescription": [],
+        "betomBetanyms": [],
+        "betomProfilePic": "",
+        "betomExample": {
+            "betomVideo": [],
+            "betomImage": [],
+            "betomQuote": []
+        },
+        "dev": []
+    },
+    {
+        "betomKebab": "Weave-Flora-Branch",
+        "betomglyf": {
+            "labor": "Weave",
+            "ekos": "Flora.Branch"
+        },
+        "betomEnglishName": "",
+        "betomID": "",
+        "betomAlias": [],
+        "betomDescription": [],
+        "betomBetanyms": [],
+        "betomProfilePic": "",
+        "betomExample": {
+            "betomVideo": [],
+            "betomImage": [],
+            "betomQuote": []
+        },
+        "dev": []
+    },
+    {
+        "betomKebab": "WindShell-Aktion",
+        "betomglyf": {
+            "labor": "WindShell.Aktion"
+        },
+        "betomEnglishName": "",
+        "betomID": "",
+        "betomAlias": [],
+        "betomDescription": [],
+        "betomBetanyms": [],
+        "betomProfilePic": "",
+        "betomExample": {
+            "betomVideo": [],
+            "betomImage": [],
+            "betomQuote": []
+        },
+        "dev": []
+    },
+    {
+        "betomKebab": "Workday-Arrival-Time",
+        "betomglyf": {
+            "labor": "Workday.Arrival",
+            "motor": "Time"
+        },
+        "betomEnglishName": "",
+        "betomID": "",
+        "betomAlias": [],
+        "betomDescription": [],
+        "betomBetanyms": [],
+        "betomProfilePic": "",
+        "betomExample": {
+            "betomVideo": [],
+            "betomImage": [],
+            "betomQuote": []
+        },
+        "dev": []
+    },
+    {
+        "betomKebab": "Workday-Departure-Time",
+        "betomglyf": {
+            "labor": "Workday.Departure",
+            "motor": "Time"
+        },
+        "betomEnglishName": "",
+        "betomID": "",
+        "betomAlias": [],
+        "betomDescription": [],
+        "betomBetanyms": [],
+        "betomProfilePic": "",
+        "betomExample": {
+            "betomVideo": [],
+            "betomImage": [],
+            "betomQuote": []
+        },
+        "dev": []
+    },
+    {
+        "betomKebab": "Workday-Time",
+        "betomglyf": {
+            "labor": "Workday",
+            "motor": "Time"
+        },
+        "betomEnglishName": "",
+        "betomID": "",
+        "betomAlias": [],
+        "betomDescription": [],
+        "betomBetanyms": [],
+        "betomProfilePic": "",
+        "betomExample": {
+            "betomVideo": [],
+            "betomImage": [],
+            "betomQuote": []
+        },
+        "dev": []
+    },
+    {
+        "betomKebab": "Wrap-Markum",
+        "betomglyf": {
+            "labor": "Wrap,Markum"
+        },
+        "betomEnglishName": "",
+        "betomID": "",
+        "betomAlias": [],
+        "betomDescription": [],
+        "betomBetanyms": [],
+        "betomProfilePic": "",
+        "betomExample": {
+            "betomVideo": [],
+            "betomImage": [],
+            "betomQuote": []
+        },
+        "dev": []
+    },
+    {
+        "betomKebab": "Xylem-Hydro-Site",
+        "betomglyf": {
+            "ekos": "Xylem.Hydro",
+            "via": "Site"
+        },
+        "betomEnglishName": "",
+        "betomID": "",
+        "betomAlias": [],
+        "betomDescription": [],
+        "betomBetanyms": [],
+        "betomProfilePic": "",
+        "betomExample": {
+            "betomVideo": [],
+            "betomImage": [],
+            "betomQuote": []
+        },
+        "dev": []
+    },
+    {
+        "betomKebab": "Xylem-Site",
+        "betomglyf": {
+            "ekos": "Xylem",
+            "via": "Site"
+        },
+        "betomEnglishName": "",
+        "betomID": "",
+        "betomAlias": [],
+        "betomDescription": [],
+        "betomBetanyms": [],
+        "betomProfilePic": "",
+        "betomExample": {
+            "betomVideo": [],
+            "betomImage": [],
+            "betomQuote": []
+        },
+        "dev": []
+    },
+    {
+        "betomKebab": "Zelcro-Aktion",
+        "betomglyf": {
+            "labor": "Zelcro.Aktion"
+        },
+        "betomEnglishName": "",
+        "betomID": "",
+        "betomAlias": [],
+        "betomDescription": [],
+        "betomBetanyms": [],
+        "betomProfilePic": "",
+        "betomExample": {
+            "betomVideo": [],
+            "betomImage": [],
+            "betomQuote": []
+        },
+        "dev": []
+    },
+    {
+        "betomKebab": "Zipper-Aktion",
+        "betomglyf": {
+            "labor": "Zipper.Aktion"
+        },
+        "betomEnglishName": "",
+        "betomID": "",
+        "betomAlias": [],
+        "betomDescription": [],
+        "betomBetanyms": [],
+        "betomProfilePic": "",
+        "betomExample": {
+            "betomVideo": [],
+            "betomImage": [],
+            "betomQuote": []
+        },
+        "dev": []
+    },
+    {
+        "betomKebab": "Zipper-Site",
+        "betomglyf": {
+            "labor": "Zipper",
+            "via": "Site"
+        },
+        "betomEnglishName": "",
+        "betomID": "",
+        "betomAlias": [],
+        "betomDescription": [],
+        "betomBetanyms": [],
+        "betomProfilePic": "",
+        "betomExample": {
+            "betomVideo": [],
+            "betomImage": [],
+            "betomQuote": []
+        },
+        "dev": []
     }
 ]
-
 </script>
 
 <style>

@@ -31,4 +31,4 @@ def extract_markdown_tags(directory_path, output_csv):
     print(f"Extraction complete! Data saved to {output_csv}")
 
 # Usage: Change '.' to your specific folder path if needed
-extract_markdown_tags(directory_path=r'C:\Users\chris\plantabeta\docs\reference\Betoms', output_csv=r'C:\Users\chris\plantabeta\docs\data\Betoms\Output\extracted_data.csv')
+extract_markdown_tags(directory_path=r'C:\Users\chris\plantabeta\docs\reference\Betoms', output_csv=r'C:\Users\chris\plantabeta\docs\data\Betoms\Output\BetomsFromDirectory_data.csv')

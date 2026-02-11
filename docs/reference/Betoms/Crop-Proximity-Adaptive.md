@@ -6,7 +6,7 @@ search: false
 BetomName=""
 </script>
 
-# <BB labor="Neosite" via="Proximity,Adaptive"/>
+# <BB labor="Crop" via="Proximity,Adaptive"/>
 
 > Site proximity which changes in response to changing Eko
 

@@ -6,7 +6,7 @@ search: false
 BetomName=""
 </script>
 
-# <BB labor="Amble" soma="Body" ekos="Prokline" />
+# <BB labor="Dilate.Mano" />
 
 ---
 
@@ -17,14 +17,6 @@ BetomName=""
 <!-- =================================================== -->
 ::: details &
 
-- InclineTraverseWalk
-    - LeanIntoIncline
-        - ArmAma
-        - SpadeAmble
-        - BranchMano to minimize DownSlopeForces on Foot to prevent FootSlip
-    - Spade on UpSlope side
-    - Turn to Facing Slope when falling
-- InclineUpWalk
-- InclineDownWalk
+- Open the hole when with your hand if stuff falls in or if the soil is chunky or you can lift a rock to open a hole
 
 :::

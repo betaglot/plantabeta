@@ -6,7 +6,7 @@ search: false
 BetomName=""
 </script>
 
-# <BB labor="Step"   via="CrossMidline"/>
+# <BB labor="Amble" soma="Korpo" via="Cross"/>
 
 Aliases: French Step
 

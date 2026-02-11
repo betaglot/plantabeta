@@ -6,7 +6,7 @@ search: false
 BetomName=""
 </script>
 
-# <BB labor="Aktion"  ekos="Branch" />
+# <BB labor="Aktion" ekos="Flora.Branch" />
 
 ---
 

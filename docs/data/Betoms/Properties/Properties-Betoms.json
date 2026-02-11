@@ -1,4 +1,4 @@
-PropertiesBetoms = [
+[
     {
         "betomKebab": "Add-Markum",
         "betomglyf": {
@@ -37,11 +37,104 @@ PropertiesBetoms = [
         "dev": []
     },
     {
-        "betomKebab": "Ama-Arm-Anterior",
+        "betomKebab": "Aktion-Flora",
+        "betomglyf": {
+            "labor": "Aktion",
+            "ekos": "Flora"
+        },
+        "betomEnglishName": "",
+        "betomID": "",
+        "betomAlias": [],
+        "betomDescription": [],
+        "betomBetanyms": [],
+        "betomProfilePic": "",
+        "betomExample": {
+            "betomVideo": [],
+            "betomImage": [],
+            "betomQuote": []
+        },
+        "dev": []
+    },
+    {
+        "betomKebab": "Aktion-Hand",
+        "betomglyf": {
+            "labor": "Aktion",
+            "soma": "Hand"
+        },
+        "betomEnglishName": "",
+        "betomID": "",
+        "betomAlias": [],
+        "betomDescription": [],
+        "betomBetanyms": [],
+        "betomProfilePic": "",
+        "betomExample": {
+            "betomVideo": [],
+            "betomImage": [],
+            "betomQuote": []
+        },
+        "dev": []
+    },
+    {
+        "betomKebab": "Aktion-Head",
+        "betomglyf": {
+            "labor": "Aktion",
+            "soma": "Head"
+        },
+        "betomEnglishName": "",
+        "betomID": "",
+        "betomAlias": [],
+        "betomDescription": [],
+        "betomBetanyms": [],
+        "betomProfilePic": "",
+        "betomExample": {
+            "betomVideo": [],
+            "betomImage": [],
+            "betomQuote": []
+        },
+        "dev": []
+    },
+    {
+        "betomKebab": "Aktion-Korpo",
+        "betomglyf": {
+            "labor": "Aktion",
+            "soma": "Korpo"
+        },
+        "betomEnglishName": "",
+        "betomID": "",
+        "betomAlias": [],
+        "betomDescription": [],
+        "betomBetanyms": [],
+        "betomProfilePic": "",
+        "betomExample": {
+            "betomVideo": [],
+            "betomImage": [],
+            "betomQuote": []
+        },
+        "dev": []
+    },
+    {
+        "betomKebab": "Allos-Layer",
+        "betomglyf": {
+            "labor": "Allos,Layer"
+        },
+        "betomEnglishName": "",
+        "betomID": "",
+        "betomAlias": [],
+        "betomDescription": [],
+        "betomBetanyms": [],
+        "betomProfilePic": "",
+        "betomExample": {
+            "betomVideo": [],
+            "betomImage": [],
+            "betomQuote": []
+        },
+        "dev": []
+    },
+    {
+        "betomKebab": "Ama-Arm",
         "betomglyf": {
             "labor": "Ama",
-            "soma": "Arm",
-            "via": "Anterior"
+            "soma": "Arm"
         },
         "betomEnglishName": "",
         "betomID": "",
@@ -94,25 +187,6 @@ PropertiesBetoms = [
         "dev": []
     },
     {
-        "betomKebab": "Amble-Branta-Korpo",
-        "betomglyf": {
-            "labor": "Amble.Branta",
-            "soma": "Korpo"
-        },
-        "betomEnglishName": "",
-        "betomID": "",
-        "betomAlias": [],
-        "betomDescription": [],
-        "betomBetanyms": [],
-        "betomProfilePic": "",
-        "betomExample": {
-            "betomVideo": [],
-            "betomImage": [],
-            "betomQuote": []
-        },
-        "dev": []
-    },
-    {
         "betomKebab": "Amble-Arm",
         "betomglyf": {
             "labor": "Amble",
@@ -132,9 +206,9 @@ PropertiesBetoms = [
         "dev": []
     },
     {
-        "betomKebab": "Amble-Korpo",
+        "betomKebab": "Amble-Branta-Korpo",
         "betomglyf": {
-            "labor": "Amble",
+            "labor": "Amble.Branta",
             "soma": "Korpo"
         },
         "betomEnglishName": "",
@@ -151,10 +225,11 @@ PropertiesBetoms = [
         "dev": []
     },
     {
-        "betomKebab": "Step-CrossMidline",
+        "betomKebab": "Amble-Korpo-Cross",
         "betomglyf": {
-            "labor": "Step",
-            "via": "CrossMidline"
+            "labor": "Amble",
+            "soma": "Korpo",
+            "via": "Cross"
         },
         "betomEnglishName": "",
         "betomID": "",
@@ -190,9 +265,66 @@ PropertiesBetoms = [
         "dev": []
     },
     {
+        "betomKebab": "Amble-Korpo-Under",
+        "betomglyf": {
+            "labor": "Amble",
+            "soma": "Korpo",
+            "via": "Under"
+        },
+        "betomEnglishName": "",
+        "betomID": "",
+        "betomAlias": [],
+        "betomDescription": [],
+        "betomBetanyms": [],
+        "betomProfilePic": "",
+        "betomExample": {
+            "betomVideo": [],
+            "betomImage": [],
+            "betomQuote": []
+        },
+        "dev": []
+    },
+    {
+        "betomKebab": "Amble-Korpo",
+        "betomglyf": {
+            "labor": "Amble",
+            "soma": "Korpo"
+        },
+        "betomEnglishName": "",
+        "betomID": "",
+        "betomAlias": [],
+        "betomDescription": [],
+        "betomBetanyms": [],
+        "betomProfilePic": "",
+        "betomExample": {
+            "betomVideo": [],
+            "betomImage": [],
+            "betomQuote": []
+        },
+        "dev": []
+    },
+    {
         "betomKebab": "Amble-Krampon",
         "betomglyf": {
             "labor": "Amble.Krampon"
+        },
+        "betomEnglishName": "",
+        "betomID": "",
+        "betomAlias": [],
+        "betomDescription": [],
+        "betomBetanyms": [],
+        "betomProfilePic": "",
+        "betomExample": {
+            "betomVideo": [],
+            "betomImage": [],
+            "betomQuote": []
+        },
+        "dev": []
+    },
+    {
+        "betomKebab": "Amble-Spade",
+        "betomglyf": {
+            "labor": "Amble,Spade"
         },
         "betomEnglishName": "",
         "betomID": "",
@@ -229,7 +361,7 @@ PropertiesBetoms = [
     {
         "betomKebab": "Armor-Plantafor-Bag",
         "betomglyf": {
-            "labor": "Armor,Plantafor-Bag"
+            "labor": "Armor,Plantafor.Bag"
         },
         "betomEnglishName": "",
         "betomID": "",
@@ -248,6 +380,25 @@ PropertiesBetoms = [
         "betomKebab": "Armor-Spade",
         "betomglyf": {
             "labor": "Armor,Spade"
+        },
+        "betomEnglishName": "",
+        "betomID": "",
+        "betomAlias": [],
+        "betomDescription": [],
+        "betomBetanyms": [],
+        "betomProfilePic": "",
+        "betomExample": {
+            "betomVideo": [],
+            "betomImage": [],
+            "betomQuote": []
+        },
+        "dev": []
+    },
+    {
+        "betomKebab": "Bag-Rim-Site",
+        "betomglyf": {
+            "labor": "Bag.Rim",
+            "via": "Site"
         },
         "betomEnglishName": "",
         "betomID": "",
@@ -282,10 +433,46 @@ PropertiesBetoms = [
         "dev": []
     },
     {
-        "betomKebab": "Ballista-Log",
+        "betomKebab": "Ballista-Flora",
         "betomglyf": {
             "labor": "Ballista",
-            "ekos": "Log"
+            "ekos": "Flora"
+        },
+        "betomEnglishName": "",
+        "betomID": "",
+        "betomAlias": [],
+        "betomDescription": [],
+        "betomBetanyms": [],
+        "betomProfilePic": "",
+        "betomExample": {
+            "betomVideo": [],
+            "betomImage": [],
+            "betomQuote": []
+        },
+        "dev": []
+    },
+    {
+        "betomKebab": "Ballista-Markum",
+        "betomglyf": {
+            "labor": "Ballista,Markum"
+        },
+        "betomEnglishName": "",
+        "betomID": "",
+        "betomAlias": [],
+        "betomDescription": [],
+        "betomBetanyms": [],
+        "betomProfilePic": "",
+        "betomExample": {
+            "betomVideo": [],
+            "betomImage": [],
+            "betomQuote": []
+        },
+        "dev": []
+    },
+    {
+        "betomKebab": "Boot-Lace-Modify",
+        "betomglyf": {
+            "labor": "Boot.Lace.Modify"
         },
         "betomEnglishName": "",
         "betomID": "",
@@ -357,7 +544,7 @@ PropertiesBetoms = [
     {
         "betomKebab": "Boot-Preserve",
         "betomglyf": {
-            "labor": "Preserve.Boot"
+            "labor": "Boot.Preserve"
         },
         "betomEnglishName": "",
         "betomID": "",
@@ -646,10 +833,295 @@ PropertiesBetoms = [
         "dev": []
     },
     {
+        "betomKebab": "Clothing-Pocket-Aktion",
+        "betomglyf": {
+            "labor": "Clothing.Pocket.Aktion"
+        },
+        "betomEnglishName": "",
+        "betomID": "",
+        "betomAlias": [],
+        "betomDescription": [],
+        "betomBetanyms": [],
+        "betomProfilePic": "",
+        "betomExample": {
+            "betomVideo": [],
+            "betomImage": [],
+            "betomQuote": []
+        },
+        "dev": []
+    },
+    {
+        "betomKebab": "Clothing-Sleeve-Site",
+        "betomglyf": {
+            "labor": "Clothing.Sleeve",
+            "via": "Site"
+        },
+        "betomEnglishName": "",
+        "betomID": "",
+        "betomAlias": [],
+        "betomDescription": [],
+        "betomBetanyms": [],
+        "betomProfilePic": "",
+        "betomExample": {
+            "betomVideo": [],
+            "betomImage": [],
+            "betomQuote": []
+        },
+        "dev": []
+    },
+    {
         "betomKebab": "Constraint-Time",
         "betomglyf": {
             "via": "Constraint",
             "motor": "Time"
+        },
+        "betomEnglishName": "",
+        "betomID": "",
+        "betomAlias": [],
+        "betomDescription": [],
+        "betomBetanyms": [],
+        "betomProfilePic": "",
+        "betomExample": {
+            "betomVideo": [],
+            "betomImage": [],
+            "betomQuote": []
+        },
+        "dev": []
+    },
+    {
+        "betomKebab": "Crop-Alignment-Diamond",
+        "betomglyf": {
+            "labor": "Crop",
+            "via": "Alignment.Diamond"
+        },
+        "betomEnglishName": "",
+        "betomID": "",
+        "betomAlias": [],
+        "betomDescription": [],
+        "betomBetanyms": [],
+        "betomProfilePic": "",
+        "betomExample": {
+            "betomVideo": [],
+            "betomImage": [],
+            "betomQuote": []
+        },
+        "dev": []
+    },
+    {
+        "betomKebab": "Crop-Alignment-Polygon",
+        "betomglyf": {
+            "labor": "Crop",
+            "via": "Alignment.Polygon"
+        },
+        "betomEnglishName": "",
+        "betomID": "",
+        "betomAlias": [],
+        "betomDescription": [],
+        "betomBetanyms": [],
+        "betomProfilePic": "",
+        "betomExample": {
+            "betomVideo": [],
+            "betomImage": [],
+            "betomQuote": []
+        },
+        "dev": []
+    },
+    {
+        "betomKebab": "Crop-Alignment-Triangle",
+        "betomglyf": {
+            "labor": "Crop",
+            "via": "Alignment.Triangle"
+        },
+        "betomEnglishName": "",
+        "betomID": "",
+        "betomAlias": [],
+        "betomDescription": [],
+        "betomBetanyms": [],
+        "betomProfilePic": "",
+        "betomExample": {
+            "betomVideo": [],
+            "betomImage": [],
+            "betomQuote": []
+        },
+        "dev": []
+    },
+    {
+        "betomKebab": "Crop-Diad",
+        "betomglyf": {
+            "labor": "Crop",
+            "via": "Diad"
+        },
+        "betomEnglishName": "",
+        "betomID": "",
+        "betomAlias": [],
+        "betomDescription": [],
+        "betomBetanyms": [],
+        "betomProfilePic": "",
+        "betomExample": {
+            "betomVideo": [],
+            "betomImage": [],
+            "betomQuote": []
+        },
+        "dev": []
+    },
+    {
+        "betomKebab": "Crop-Hexad",
+        "betomglyf": {
+            "labor": "Crop",
+            "via": "Hexad"
+        },
+        "betomEnglishName": "",
+        "betomID": "",
+        "betomAlias": [],
+        "betomDescription": [],
+        "betomBetanyms": [],
+        "betomProfilePic": "",
+        "betomExample": {
+            "betomVideo": [],
+            "betomImage": [],
+            "betomQuote": []
+        },
+        "dev": []
+    },
+    {
+        "betomKebab": "Crop-Pentad",
+        "betomglyf": {
+            "labor": "Crop",
+            "via": "Pentad"
+        },
+        "betomEnglishName": "",
+        "betomID": "",
+        "betomAlias": [],
+        "betomDescription": [],
+        "betomBetanyms": [],
+        "betomProfilePic": "",
+        "betomExample": {
+            "betomVideo": [],
+            "betomImage": [],
+            "betomQuote": []
+        },
+        "dev": []
+    },
+    {
+        "betomKebab": "Crop-Prokline-Proximity-Adaptive",
+        "betomglyf": {
+            "labor": "Crop",
+            "ekos": "Prokline",
+            "via": "Proximity.Adaptive"
+        },
+        "betomEnglishName": "",
+        "betomID": "",
+        "betomAlias": [],
+        "betomDescription": [],
+        "betomBetanyms": [],
+        "betomProfilePic": "",
+        "betomExample": {
+            "betomVideo": [],
+            "betomImage": [],
+            "betomQuote": []
+        },
+        "dev": []
+    },
+    {
+        "betomKebab": "Crop-Proximity-Adaptive",
+        "betomglyf": {
+            "labor": "Crop",
+            "via": "Proximity,Adaptive"
+        },
+        "betomEnglishName": "",
+        "betomID": "",
+        "betomAlias": [],
+        "betomDescription": [],
+        "betomBetanyms": [],
+        "betomProfilePic": "",
+        "betomExample": {
+            "betomVideo": [],
+            "betomImage": [],
+            "betomQuote": []
+        },
+        "dev": []
+    },
+    {
+        "betomKebab": "Crop-Proximity-Fixed",
+        "betomglyf": {
+            "labor": "Crop",
+            "via": "Proximity.Fixed"
+        },
+        "betomEnglishName": "",
+        "betomID": "",
+        "betomAlias": [],
+        "betomDescription": [],
+        "betomBetanyms": [],
+        "betomProfilePic": "",
+        "betomExample": {
+            "betomVideo": [],
+            "betomImage": [],
+            "betomQuote": []
+        },
+        "dev": []
+    },
+    {
+        "betomKebab": "Crop-Square",
+        "betomglyf": {
+            "labor": "Crop",
+            "via": "Square"
+        },
+        "betomEnglishName": "",
+        "betomID": "",
+        "betomAlias": [],
+        "betomDescription": [],
+        "betomBetanyms": [],
+        "betomProfilePic": "",
+        "betomExample": {
+            "betomVideo": [],
+            "betomImage": [],
+            "betomQuote": []
+        },
+        "dev": []
+    },
+    {
+        "betomKebab": "Crop-Tetrad",
+        "betomglyf": {
+            "labor": "Crop",
+            "via": "Tetrad"
+        },
+        "betomEnglishName": "",
+        "betomID": "",
+        "betomAlias": [],
+        "betomDescription": [],
+        "betomBetanyms": [],
+        "betomProfilePic": "",
+        "betomExample": {
+            "betomVideo": [],
+            "betomImage": [],
+            "betomQuote": []
+        },
+        "dev": []
+    },
+    {
+        "betomKebab": "Crop-Trapezoid",
+        "betomglyf": {
+            "labor": "Crop",
+            "via": "Trapezoid"
+        },
+        "betomEnglishName": "",
+        "betomID": "",
+        "betomAlias": [],
+        "betomDescription": [],
+        "betomBetanyms": [],
+        "betomProfilePic": "",
+        "betomExample": {
+            "betomVideo": [],
+            "betomImage": [],
+            "betomQuote": []
+        },
+        "dev": []
+    },
+    {
+        "betomKebab": "Crop-Triad",
+        "betomglyf": {
+            "labor": "Crop",
+            "via": "Triad"
         },
         "betomEnglishName": "",
         "betomID": "",
@@ -684,6 +1156,24 @@ PropertiesBetoms = [
         "dev": []
     },
     {
+        "betomKebab": "Cutblock-Road",
+        "betomglyf": {
+            "labor": "Cutblock.Road"
+        },
+        "betomEnglishName": "",
+        "betomID": "",
+        "betomAlias": [],
+        "betomDescription": [],
+        "betomBetanyms": [],
+        "betomProfilePic": "",
+        "betomExample": {
+            "betomVideo": [],
+            "betomImage": [],
+            "betomQuote": []
+        },
+        "dev": []
+    },
+    {
         "betomKebab": "Decrease-Site-Density",
         "betomglyf": {
             "labor": "Decrease",
@@ -703,10 +1193,9 @@ PropertiesBetoms = [
         "dev": []
     },
     {
-        "betomKebab": "Div-Plan",
+        "betomKebab": "Dilate-Mano",
         "betomglyf": {
-            "labor": "Plan",
-            "via": "Div"
+            "labor": "Dilate.Mano"
         },
         "betomEnglishName": "",
         "betomID": "",
@@ -722,10 +1211,9 @@ PropertiesBetoms = [
         "dev": []
     },
     {
-        "betomKebab": "Emotion-Flora",
+        "betomKebab": "Dilate-Spade",
         "betomglyf": {
-            "ekos": "Flora",
-            "anima": "Emotion"
+            "labor": "Dilate.Spade"
         },
         "betomEnglishName": "",
         "betomID": "",
@@ -744,6 +1232,24 @@ PropertiesBetoms = [
         "betomKebab": "Error-Fall",
         "betomglyf": {
             "labor": "Error,Fall"
+        },
+        "betomEnglishName": "",
+        "betomID": "",
+        "betomAlias": [],
+        "betomDescription": [],
+        "betomBetanyms": [],
+        "betomProfilePic": "",
+        "betomExample": {
+            "betomVideo": [],
+            "betomImage": [],
+            "betomQuote": []
+        },
+        "dev": []
+    },
+    {
+        "betomKebab": "Error-Layer-Shell-Aktion",
+        "betomglyf": {
+            "labor": "Error,Layer.Shell.Aktion"
         },
         "betomEnglishName": "",
         "betomID": "",
@@ -778,7 +1284,7 @@ PropertiesBetoms = [
         "dev": []
     },
     {
-        "betomKebab": "Error-Marka",
+        "betomKebab": "Error-Markum",
         "betomglyf": {
             "labor": "Error,Markum"
         },
@@ -816,7 +1322,25 @@ PropertiesBetoms = [
     {
         "betomKebab": "Error-Plantafor",
         "betomglyf": {
-            "labor": "Error,Bag"
+            "labor": "Error,Plantafor"
+        },
+        "betomEnglishName": "",
+        "betomID": "",
+        "betomAlias": [],
+        "betomDescription": [],
+        "betomBetanyms": [],
+        "betomProfilePic": "",
+        "betomExample": {
+            "betomVideo": [],
+            "betomImage": [],
+            "betomQuote": []
+        },
+        "dev": []
+    },
+    {
+        "betomKebab": "Error-Prep-Mound",
+        "betomglyf": {
+            "labor": "Error,Prep.Mound"
         },
         "betomEnglishName": "",
         "betomID": "",
@@ -887,10 +1411,46 @@ PropertiesBetoms = [
         "dev": []
     },
     {
+        "betomKebab": "Eval-Neon",
+        "betomglyf": {
+            "labor": "Eval,Neon"
+        },
+        "betomEnglishName": "",
+        "betomID": "",
+        "betomAlias": [],
+        "betomDescription": [],
+        "betomBetanyms": [],
+        "betomProfilePic": "",
+        "betomExample": {
+            "betomVideo": [],
+            "betomImage": [],
+            "betomQuote": []
+        },
+        "dev": []
+    },
+    {
+        "betomKebab": "Eval-Spade",
+        "betomglyf": {
+            "labor": "Eval,Spade"
+        },
+        "betomEnglishName": "",
+        "betomID": "",
+        "betomAlias": [],
+        "betomDescription": [],
+        "betomBetanyms": [],
+        "betomProfilePic": "",
+        "betomExample": {
+            "betomVideo": [],
+            "betomImage": [],
+            "betomQuote": []
+        },
+        "dev": []
+    },
+    {
         "betomKebab": "Extend-Hand-Finger",
         "betomglyf": {
             "labor": "Extend",
-            "soma": "Finger"
+            "soma": "Hand.Finger"
         },
         "betomEnglishName": "",
         "betomID": "",
@@ -925,10 +1485,69 @@ PropertiesBetoms = [
         "dev": []
     },
     {
+        "betomKebab": "Flex-Foot-Plantar",
+        "betomglyf": {
+            "labor": "Flex",
+            "soma": "Foot",
+            "via": "Plantar"
+        },
+        "betomEnglishName": "",
+        "betomID": "",
+        "betomAlias": [],
+        "betomDescription": [],
+        "betomBetanyms": [],
+        "betomProfilePic": "",
+        "betomExample": {
+            "betomVideo": [],
+            "betomImage": [],
+            "betomQuote": []
+        },
+        "dev": []
+    },
+    {
+        "betomKebab": "Flex-Korpo-Down",
+        "betomglyf": {
+            "labor": "Flex",
+            "soma": "Korpo",
+            "via": "Down"
+        },
+        "betomEnglishName": "",
+        "betomID": "",
+        "betomAlias": [],
+        "betomDescription": [],
+        "betomBetanyms": [],
+        "betomProfilePic": "",
+        "betomExample": {
+            "betomVideo": [],
+            "betomImage": [],
+            "betomQuote": []
+        },
+        "dev": []
+    },
+    {
         "betomKebab": "Flex-Neck",
         "betomglyf": {
             "labor": "Flex",
             "soma": "Neck"
+        },
+        "betomEnglishName": "",
+        "betomID": "",
+        "betomAlias": [],
+        "betomDescription": [],
+        "betomBetanyms": [],
+        "betomProfilePic": "",
+        "betomExample": {
+            "betomVideo": [],
+            "betomImage": [],
+            "betomQuote": []
+        },
+        "dev": []
+    },
+    {
+        "betomKebab": "Flora-Emotion",
+        "betomglyf": {
+            "ekos": "Flora",
+            "anima": "Emotion"
         },
         "betomEnglishName": "",
         "betomID": "",
@@ -1035,6 +1654,25 @@ PropertiesBetoms = [
         "dev": []
     },
     {
+        "betomKebab": "Hand-Thumb-Adduction",
+        "betomglyf": {
+            "soma": "Hand.Thumb",
+            "via": "Adduction"
+        },
+        "betomEnglishName": "",
+        "betomID": "",
+        "betomAlias": [],
+        "betomDescription": [],
+        "betomBetanyms": [],
+        "betomProfilePic": "",
+        "betomExample": {
+            "betomVideo": [],
+            "betomImage": [],
+            "betomQuote": []
+        },
+        "dev": []
+    },
+    {
         "betomKebab": "Hat-Aktion",
         "betomglyf": {
             "labor": "Hat.Aktion"
@@ -1053,10 +1691,10 @@ PropertiesBetoms = [
         "dev": []
     },
     {
-        "betomKebab": "Head-Away-Rotate",
+        "betomKebab": "Hinge-Korpo-Hip",
         "betomglyf": {
-            "labor": "Rotate",
-            "soma": "Head"
+            "labor": "Hinge",
+            "soma": "Korpo.Hip"
         },
         "betomEnglishName": "",
         "betomID": "",
@@ -1075,6 +1713,25 @@ PropertiesBetoms = [
         "betomKebab": "Hook-Arm",
         "betomglyf": {
             "labor": "Hook",
+            "soma": "Arm"
+        },
+        "betomEnglishName": "",
+        "betomID": "",
+        "betomAlias": [],
+        "betomDescription": [],
+        "betomBetanyms": [],
+        "betomProfilePic": "",
+        "betomExample": {
+            "betomVideo": [],
+            "betomImage": [],
+            "betomQuote": []
+        },
+        "dev": []
+    },
+    {
+        "betomKebab": "Iguana-Arm",
+        "betomglyf": {
+            "labor": "Iguana",
             "soma": "Arm"
         },
         "betomEnglishName": "",
@@ -1112,7 +1769,8 @@ PropertiesBetoms = [
     {
         "betomKebab": "Jump-Korpo",
         "betomglyf": {
-            "labor": "Jump"
+            "labor": "Jump",
+            "soma": "Korpo"
         },
         "betomEnglishName": "",
         "betomID": "",
@@ -1182,9 +1840,9 @@ PropertiesBetoms = [
         "dev": []
     },
     {
-        "betomKebab": "Klose-Drag-Boot",
+        "betomKebab": "Klose-Boot",
         "betomglyf": {
-            "labor": "Klose.Boot.Drag"
+            "labor": "Klose.Boot"
         },
         "betomEnglishName": "",
         "betomID": "",
@@ -1202,7 +1860,7 @@ PropertiesBetoms = [
     {
         "betomKebab": "Klose-Drag-Boot-Heel",
         "betomglyf": {
-            "labor": "Klose.Boot.Heel.Drag"
+            "labor": "Klose.Drag.Boot.Heel"
         },
         "betomEnglishName": "",
         "betomID": "",
@@ -1219,6 +1877,24 @@ PropertiesBetoms = [
     },
     {
         "betomKebab": "Klose-Drag-Boot-Toe",
+        "betomglyf": {
+            "labor": "Klose.Drag.Boot.Toe"
+        },
+        "betomEnglishName": "",
+        "betomID": "",
+        "betomAlias": [],
+        "betomDescription": [],
+        "betomBetanyms": [],
+        "betomProfilePic": "",
+        "betomExample": {
+            "betomVideo": [],
+            "betomImage": [],
+            "betomQuote": []
+        },
+        "dev": []
+    },
+    {
+        "betomKebab": "Klose-Drag-Boot",
         "betomglyf": {
             "labor": "Klose.Drag.Boot"
         },
@@ -1238,7 +1914,7 @@ PropertiesBetoms = [
     {
         "betomKebab": "Klose-Drag-Hand",
         "betomglyf": {
-            "labor": "Klose.Drag.Mano"
+            "labor": "Klose.Drag.Hand"
         },
         "betomEnglishName": "",
         "betomID": "",
@@ -1256,7 +1932,7 @@ PropertiesBetoms = [
     {
         "betomKebab": "Klose-Hand",
         "betomglyf": {
-            "labor": "Klose.Mano"
+            "labor": "Klose.Hand"
         },
         "betomEnglishName": "",
         "betomID": "",
@@ -1308,9 +1984,64 @@ PropertiesBetoms = [
         "dev": []
     },
     {
-        "betomKebab": "Klose-Leg",
+        "betomKebab": "Klose-Palm",
         "betomglyf": {
-            "labor": "Klose.Boot"
+            "labor": "Klose",
+            "soma": "Palm"
+        },
+        "betomEnglishName": "",
+        "betomID": "",
+        "betomAlias": [],
+        "betomDescription": [],
+        "betomBetanyms": [],
+        "betomProfilePic": "",
+        "betomExample": {
+            "betomVideo": [],
+            "betomImage": [],
+            "betomQuote": []
+        },
+        "dev": []
+    },
+    {
+        "betomKebab": "Klose-Pugno",
+        "betomglyf": {
+            "labor": "Klose.Pugno"
+        },
+        "betomEnglishName": "",
+        "betomID": "",
+        "betomAlias": [],
+        "betomDescription": [],
+        "betomBetanyms": [],
+        "betomProfilePic": "",
+        "betomExample": {
+            "betomVideo": [],
+            "betomImage": [],
+            "betomQuote": []
+        },
+        "dev": []
+    },
+    {
+        "betomKebab": "Klose-Slap",
+        "betomglyf": {
+            "labor": "Klose.Slap"
+        },
+        "betomEnglishName": "",
+        "betomID": "",
+        "betomAlias": [],
+        "betomDescription": [],
+        "betomBetanyms": [],
+        "betomProfilePic": "",
+        "betomExample": {
+            "betomVideo": [],
+            "betomImage": [],
+            "betomQuote": []
+        },
+        "dev": []
+    },
+    {
+        "betomKebab": "Klose-Spade",
+        "betomglyf": {
+            "labor": "Klose.Spade"
         },
         "betomEnglishName": "",
         "betomID": "",
@@ -1365,7 +2096,8 @@ PropertiesBetoms = [
     {
         "betomKebab": "Kompakt-Arm",
         "betomglyf": {
-            "labor": "Kompakt.Arm"
+            "labor": "Kompakt",
+            "soma": "Arm"
         },
         "betomEnglishName": "",
         "betomID": "",
@@ -1402,7 +2134,7 @@ PropertiesBetoms = [
         "betomKebab": "Kompress-Arm-Arm",
         "betomglyf": {
             "labor": "Kompress",
-            "soma": "<>Arm"
+            "soma": "Arm+Arm"
         },
         "betomEnglishName": "",
         "betomID": "",
@@ -1473,6 +2205,25 @@ PropertiesBetoms = [
         "dev": []
     },
     {
+        "betomKebab": "Kontakt-Hand-Palm",
+        "betomglyf": {
+            "labor": "Kontakt",
+            "soma": "Hand.Palm"
+        },
+        "betomEnglishName": "",
+        "betomID": "",
+        "betomAlias": [],
+        "betomDescription": [],
+        "betomBetanyms": [],
+        "betomProfilePic": "",
+        "betomExample": {
+            "betomVideo": [],
+            "betomImage": [],
+            "betomQuote": []
+        },
+        "dev": []
+    },
+    {
         "betomKebab": "Kontakt-Head",
         "betomglyf": {
             "labor": "Kontakt",
@@ -1492,10 +2243,10 @@ PropertiesBetoms = [
         "dev": []
     },
     {
-        "betomKebab": "Kontakt-Korpo",
+        "betomKebab": "Kontakt-Korpo-Abdominal",
         "betomglyf": {
             "labor": "Kontakt",
-            "soma": "Korpo"
+            "soma": "Korpo.Abdominal"
         },
         "betomEnglishName": "",
         "betomID": "",
@@ -1511,10 +2262,10 @@ PropertiesBetoms = [
         "dev": []
     },
     {
-        "betomKebab": "Kontakt-Korpo-Abdominal",
+        "betomKebab": "Kontakt-Korpo",
         "betomglyf": {
             "labor": "Kontakt",
-            "soma": "Abdominal"
+            "soma": "Korpo"
         },
         "betomEnglishName": "",
         "betomID": "",
@@ -1586,25 +2337,6 @@ PropertiesBetoms = [
         "dev": []
     },
     {
-        "betomKebab": "Kontakt-Palm",
-        "betomglyf": {
-            "labor": "Kontakt",
-            "soma": "Hand.Palm"
-        },
-        "betomEnglishName": "",
-        "betomID": "",
-        "betomAlias": [],
-        "betomDescription": [],
-        "betomBetanyms": [],
-        "betomProfilePic": "",
-        "betomExample": {
-            "betomVideo": [],
-            "betomImage": [],
-            "betomQuote": []
-        },
-        "dev": []
-    },
-    {
         "betomKebab": "Kontakt-Plantafor-Bag",
         "betomglyf": {
             "labor": "Kontakt,Plantafor.Bag"
@@ -1645,25 +2377,6 @@ PropertiesBetoms = [
         "betomKebab": "Kontakt-Spade-Blade",
         "betomglyf": {
             "labor": "Kontakt,Spade.Blade"
-        },
-        "betomEnglishName": "",
-        "betomID": "",
-        "betomAlias": [],
-        "betomDescription": [],
-        "betomBetanyms": [],
-        "betomProfilePic": "",
-        "betomExample": {
-            "betomVideo": [],
-            "betomImage": [],
-            "betomQuote": []
-        },
-        "dev": []
-    },
-    {
-        "betomKebab": "Kontakt-Spade-Plast",
-        "betomglyf": {
-            "labor": "Kontakt",
-            "via": "Plast"
         },
         "betomEnglishName": "",
         "betomID": "",
@@ -1753,10 +2466,10 @@ PropertiesBetoms = [
         "dev": []
     },
     {
-        "betomKebab": "Korpo-Hip-Hinge",
+        "betomKebab": "Korpo-Posture",
         "betomglyf": {
-            "labor": "Hinge",
-            "soma": "Hip"
+            "soma": "Korpo",
+            "via": "Posture"
         },
         "betomEnglishName": "",
         "betomID": "",
@@ -1793,25 +2506,8 @@ PropertiesBetoms = [
     {
         "betomKebab": "Kryos-Hand",
         "betomglyf": {
-            "labor": "Kryos,Mano"
-        },
-        "betomEnglishName": "",
-        "betomID": "",
-        "betomAlias": [],
-        "betomDescription": [],
-        "betomBetanyms": [],
-        "betomProfilePic": "",
-        "betomExample": {
-            "betomVideo": [],
-            "betomImage": [],
-            "betomQuote": []
-        },
-        "dev": []
-    },
-    {
-        "betomKebab": "Lace-Adjust-Boot",
-        "betomglyf": {
-            "labor": "Boot.Lace.Modify"
+            "labor": "Kryos",
+            "soma": "Hand"
         },
         "betomEnglishName": "",
         "betomID": "",
@@ -1830,24 +2526,6 @@ PropertiesBetoms = [
         "betomKebab": "Layer-Aktion",
         "betomglyf": {
             "labor": "Layer.Aktion"
-        },
-        "betomEnglishName": "",
-        "betomID": "",
-        "betomAlias": [],
-        "betomDescription": [],
-        "betomBetanyms": [],
-        "betomProfilePic": "",
-        "betomExample": {
-            "betomVideo": [],
-            "betomImage": [],
-            "betomQuote": []
-        },
-        "dev": []
-    },
-    {
-        "betomKebab": "Layer-Allo",
-        "betomglyf": {
-            "labor": "Allo,Layer"
         },
         "betomEnglishName": "",
         "betomID": "",
@@ -1935,46 +2613,10 @@ PropertiesBetoms = [
         "dev": []
     },
     {
-        "betomKebab": "Layer-Shell-Aktion",
-        "betomglyf": {
-            "labor": "Error,Layer.Shell.Aktion"
-        },
-        "betomEnglishName": "",
-        "betomID": "",
-        "betomAlias": [],
-        "betomDescription": [],
-        "betomBetanyms": [],
-        "betomProfilePic": "",
-        "betomExample": {
-            "betomVideo": [],
-            "betomImage": [],
-            "betomQuote": []
-        },
-        "dev": []
-    },
-    {
         "betomKebab": "Layer-Site",
         "betomglyf": {
             "labor": "Layer",
             "via": "Site"
-        },
-        "betomEnglishName": "",
-        "betomID": "",
-        "betomAlias": [],
-        "betomDescription": [],
-        "betomBetanyms": [],
-        "betomProfilePic": "",
-        "betomExample": {
-            "betomVideo": [],
-            "betomImage": [],
-            "betomQuote": []
-        },
-        "dev": []
-    },
-    {
-        "betomKebab": "Layering",
-        "betomglyf": {
-            "labor": "Layering.Aktion"
         },
         "betomEnglishName": "",
         "betomID": "",
@@ -2049,6 +2691,24 @@ PropertiesBetoms = [
         "betomKebab": "Line-Displacement",
         "betomglyf": {
             "via": "Line.Displacement"
+        },
+        "betomEnglishName": "",
+        "betomID": "",
+        "betomAlias": [],
+        "betomDescription": [],
+        "betomBetanyms": [],
+        "betomProfilePic": "",
+        "betomExample": {
+            "betomVideo": [],
+            "betomImage": [],
+            "betomQuote": []
+        },
+        "dev": []
+    },
+    {
+        "betomKebab": "LineIn-Marka",
+        "betomglyf": {
+            "labor": "LineIn,Marka"
         },
         "betomEnglishName": "",
         "betomID": "",
@@ -2140,6 +2800,24 @@ PropertiesBetoms = [
         "dev": []
     },
     {
+        "betomKebab": "Load-Neon",
+        "betomglyf": {
+            "labor": "Load,Neon"
+        },
+        "betomEnglishName": "",
+        "betomID": "",
+        "betomAlias": [],
+        "betomDescription": [],
+        "betomBetanyms": [],
+        "betomProfilePic": "",
+        "betomExample": {
+            "betomVideo": [],
+            "betomImage": [],
+            "betomQuote": []
+        },
+        "dev": []
+    },
+    {
         "betomKebab": "Log-Audio",
         "betomglyf": {
             "ekos": "Log",
@@ -2163,6 +2841,24 @@ PropertiesBetoms = [
         "betomglyf": {
             "labor": "Machete,Spade",
             "ekos": "Flora"
+        },
+        "betomEnglishName": "",
+        "betomID": "",
+        "betomAlias": [],
+        "betomDescription": [],
+        "betomBetanyms": [],
+        "betomProfilePic": "",
+        "betomExample": {
+            "betomVideo": [],
+            "betomImage": [],
+            "betomQuote": []
+        },
+        "dev": []
+    },
+    {
+        "betomKebab": "Machete-Spade",
+        "betomglyf": {
+            "labor": "Machete.Spade"
         },
         "betomEnglishName": "",
         "betomID": "",
@@ -2215,10 +2911,9 @@ PropertiesBetoms = [
         "dev": []
     },
     {
-        "betomKebab": "Mano-Thumb-Adduction",
+        "betomKebab": "Mano-Orbit",
         "betomglyf": {
-            "soma": "Thumb",
-            "via": "Adduction"
+            "labor": "Mano.Orbit"
         },
         "betomEnglishName": "",
         "betomID": "",
@@ -2234,9 +2929,66 @@ PropertiesBetoms = [
         "dev": []
     },
     {
-        "betomKebab": "Marka-LineIn",
+        "betomKebab": "Markate-CropTree",
         "betomglyf": {
-            "labor": "LineIn,Marka"
+            "labor": "Markate,CropTree"
+        },
+        "betomEnglishName": "",
+        "betomID": "",
+        "betomAlias": [],
+        "betomDescription": [],
+        "betomBetanyms": [],
+        "betomProfilePic": "",
+        "betomExample": {
+            "betomVideo": [],
+            "betomImage": [],
+            "betomQuote": []
+        },
+        "dev": []
+    },
+    {
+        "betomKebab": "Markate-Div",
+        "betomglyf": {
+            "labor": "Markate",
+            "via": "Div"
+        },
+        "betomEnglishName": "",
+        "betomID": "",
+        "betomAlias": [],
+        "betomDescription": [],
+        "betomBetanyms": [],
+        "betomProfilePic": "",
+        "betomExample": {
+            "betomVideo": [],
+            "betomImage": [],
+            "betomQuote": []
+        },
+        "dev": []
+    },
+    {
+        "betomKebab": "Markate-Site",
+        "betomglyf": {
+            "labor": "Markate",
+            "via": "Site"
+        },
+        "betomEnglishName": "",
+        "betomID": "",
+        "betomAlias": [],
+        "betomDescription": [],
+        "betomBetanyms": [],
+        "betomProfilePic": "",
+        "betomExample": {
+            "betomVideo": [],
+            "betomImage": [],
+            "betomQuote": []
+        },
+        "dev": []
+    },
+    {
+        "betomKebab": "Markate-Trench-Exit",
+        "betomglyf": {
+            "labor": "Markate,Trench",
+            "via": "Exit"
         },
         "betomEnglishName": "",
         "betomID": "",
@@ -2255,24 +3007,6 @@ PropertiesBetoms = [
         "betomKebab": "Markum-Aktion",
         "betomglyf": {
             "labor": "Markum.Aktion"
-        },
-        "betomEnglishName": "",
-        "betomID": "",
-        "betomAlias": [],
-        "betomDescription": [],
-        "betomBetanyms": [],
-        "betomProfilePic": "",
-        "betomExample": {
-            "betomVideo": [],
-            "betomImage": [],
-            "betomQuote": []
-        },
-        "dev": []
-    },
-    {
-        "betomKebab": "Markum-Ballista",
-        "betomglyf": {
-            "labor": "Ballista,Markum"
         },
         "betomEnglishName": "",
         "betomID": "",
@@ -2361,9 +3095,9 @@ PropertiesBetoms = [
         "dev": []
     },
     {
-        "betomKebab": "Markum-Piece-Boundary",
+        "betomKebab": "Markum-Off",
         "betomglyf": {
-            "labor": "Piece.Boundary.Marka"
+            "labor": "Markum.Off"
         },
         "betomEnglishName": "",
         "betomID": "",
@@ -2434,43 +3168,7 @@ PropertiesBetoms = [
         "dev": []
     },
     {
-        "betomKebab": "Markum-Slot",
-        "betomglyf": {
-            "labor": "Slot,Markum"
-        },
-        "betomEnglishName": "",
-        "betomID": "",
-        "betomAlias": [],
-        "betomDescription": [],
-        "betomBetanyms": [],
-        "betomProfilePic": "",
-        "betomExample": {
-            "betomVideo": [],
-            "betomImage": [],
-            "betomQuote": []
-        },
-        "dev": []
-    },
-    {
-        "betomKebab": "Markum-Wrap",
-        "betomglyf": {
-            "labor": "Wrap,Markum"
-        },
-        "betomEnglishName": "",
-        "betomID": "",
-        "betomAlias": [],
-        "betomDescription": [],
-        "betomBetanyms": [],
-        "betomProfilePic": "",
-        "betomExample": {
-            "betomVideo": [],
-            "betomImage": [],
-            "betomQuote": []
-        },
-        "dev": []
-    },
-    {
-        "betomKebab": "MaximumProximity",
+        "betomKebab": "Maximum-Proximity",
         "betomglyf": {
             "via": "Maximum,Proximity"
         },
@@ -2491,24 +3189,6 @@ PropertiesBetoms = [
         "betomKebab": "Mikrosite-Aktion",
         "betomglyf": {
             "labor": "Mikrosite.Aktion"
-        },
-        "betomEnglishName": "",
-        "betomID": "",
-        "betomAlias": [],
-        "betomDescription": [],
-        "betomBetanyms": [],
-        "betomProfilePic": "",
-        "betomExample": {
-            "betomVideo": [],
-            "betomImage": [],
-            "betomQuote": []
-        },
-        "dev": []
-    },
-    {
-        "betomKebab": "Mikrosite-Dilate",
-        "betomglyf": {
-            "labor": "Mikrosite.Dilate"
         },
         "betomEnglishName": "",
         "betomID": "",
@@ -2562,25 +3242,7 @@ PropertiesBetoms = [
     {
         "betomKebab": "Mikrosite-Marka",
         "betomglyf": {
-            "labor": "Mikrosite,Markum"
-        },
-        "betomEnglishName": "",
-        "betomID": "",
-        "betomAlias": [],
-        "betomDescription": [],
-        "betomBetanyms": [],
-        "betomProfilePic": "",
-        "betomExample": {
-            "betomVideo": [],
-            "betomImage": [],
-            "betomQuote": []
-        },
-        "dev": []
-    },
-    {
-        "betomKebab": "Mikrosite-Open",
-        "betomglyf": {
-            "labor": "Mikrosite.Open"
+            "labor": "Mikrosite,Marka"
         },
         "betomEnglishName": "",
         "betomID": "",
@@ -2598,6 +3260,7 @@ PropertiesBetoms = [
     {
         "betomKebab": "Mikrosite-Proximity",
         "betomglyf": {
+            "labor": "Mikrosite",
             "via": "Proximity"
         },
         "betomEnglishName": "",
@@ -2616,7 +3279,7 @@ PropertiesBetoms = [
     {
         "betomKebab": "Mikrosite-Select",
         "betomglyf": {
-            "labor": "Select,Neosite"
+            "labor": "Mikrosite,Select"
         },
         "betomEnglishName": "",
         "betomID": "",
@@ -2708,157 +3371,9 @@ PropertiesBetoms = [
         "dev": []
     },
     {
-        "betomKebab": "Morning-DropOff-Time",
+        "betomKebab": "Neon-Aktion",
         "betomglyf": {
-            "labor": "Workday.DropOff"
-        },
-        "betomEnglishName": "",
-        "betomID": "",
-        "betomAlias": [],
-        "betomDescription": [],
-        "betomBetanyms": [],
-        "betomProfilePic": "",
-        "betomExample": {
-            "betomVideo": [],
-            "betomImage": [],
-            "betomQuote": []
-        },
-        "dev": []
-    },
-    {
-        "betomKebab": "Moton-Flora",
-        "betomglyf": {
-            "labor": "Aktion",
-            "ekos": "Flora"
-        },
-        "betomEnglishName": "",
-        "betomID": "",
-        "betomAlias": [],
-        "betomDescription": [],
-        "betomBetanyms": [],
-        "betomProfilePic": "",
-        "betomExample": {
-            "betomVideo": [],
-            "betomImage": [],
-            "betomQuote": []
-        },
-        "dev": []
-    },
-    {
-        "betomKebab": "Moton-Head",
-        "betomglyf": {
-            "labor": "Aktion",
-            "soma": "Head"
-        },
-        "betomEnglishName": "",
-        "betomID": "",
-        "betomAlias": [],
-        "betomDescription": [],
-        "betomBetanyms": [],
-        "betomProfilePic": "",
-        "betomExample": {
-            "betomVideo": [],
-            "betomImage": [],
-            "betomQuote": []
-        },
-        "dev": []
-    },
-    {
-        "betomKebab": "Moton-Korpo",
-        "betomglyf": {
-            "labor": "Aktion",
-            "soma": "Korpo"
-        },
-        "betomEnglishName": "",
-        "betomID": "",
-        "betomAlias": [],
-        "betomDescription": [],
-        "betomBetanyms": [],
-        "betomProfilePic": "",
-        "betomExample": {
-            "betomVideo": [],
-            "betomImage": [],
-            "betomQuote": []
-        },
-        "dev": []
-    },
-    {
-        "betomKebab": "Moton-Mano",
-        "betomglyf": {
-            "labor": "Mano",
-            "soma": "Hand"
-        },
-        "betomEnglishName": "",
-        "betomID": "",
-        "betomAlias": [],
-        "betomDescription": [],
-        "betomBetanyms": [],
-        "betomProfilePic": "",
-        "betomExample": {
-            "betomVideo": [],
-            "betomImage": [],
-            "betomQuote": []
-        },
-        "dev": []
-    },
-    {
-        "betomKebab": "NaturalMarka",
-        "betomglyf": {
-            "labor": "Marka,CropTree"
-        },
-        "betomEnglishName": "",
-        "betomID": "",
-        "betomAlias": [],
-        "betomDescription": [],
-        "betomBetanyms": [],
-        "betomProfilePic": "",
-        "betomExample": {
-            "betomVideo": [],
-            "betomImage": [],
-            "betomQuote": []
-        },
-        "dev": []
-    },
-    {
-        "betomKebab": "Neon-Eval",
-        "betomglyf": {
-            "labor": "Eval,Neon"
-        },
-        "betomEnglishName": "",
-        "betomID": "",
-        "betomAlias": [],
-        "betomDescription": [],
-        "betomBetanyms": [],
-        "betomProfilePic": "",
-        "betomExample": {
-            "betomVideo": [],
-            "betomImage": [],
-            "betomQuote": []
-        },
-        "dev": []
-    },
-    {
-        "betomKebab": "Neon-Insert",
-        "betomglyf": {
-            "labor": "Insert,Neon"
-        },
-        "betomEnglishName": "",
-        "betomID": "",
-        "betomAlias": [],
-        "betomDescription": [],
-        "betomBetanyms": [],
-        "betomProfilePic": "",
-        "betomExample": {
-            "betomVideo": [],
-            "betomImage": [],
-            "betomQuote": []
-        },
-        "dev": []
-    },
-    {
-        "betomKebab": "Neon-Load",
-        "betomglyf": {
-            "labor": "Load,Neon"
+            "labor": "Neon.Aktion"
         },
         "betomEnglishName": "",
         "betomID": "",
@@ -2877,24 +3392,6 @@ PropertiesBetoms = [
         "betomKebab": "Neon-Mano",
         "betomglyf": {
             "labor": "Neon.Mano"
-        },
-        "betomEnglishName": "",
-        "betomID": "",
-        "betomAlias": [],
-        "betomDescription": [],
-        "betomBetanyms": [],
-        "betomProfilePic": "",
-        "betomExample": {
-            "betomVideo": [],
-            "betomImage": [],
-            "betomQuote": []
-        },
-        "dev": []
-    },
-    {
-        "betomKebab": "Neon-Moton",
-        "betomglyf": {
-            "labor": "Neon.Aktion"
         },
         "betomEnglishName": "",
         "betomID": "",
@@ -2929,10 +3426,9 @@ PropertiesBetoms = [
         "dev": []
     },
     {
-        "betomKebab": "Neosite-Diamond",
+        "betomKebab": "Neonektomy-Mano",
         "betomglyf": {
-            "labor": "Neosite",
-            "via": "Alignment.Diamond"
+            "labor": "Neonektomy,Mano"
         },
         "betomEnglishName": "",
         "betomID": "",
@@ -2948,255 +3444,9 @@ PropertiesBetoms = [
         "dev": []
     },
     {
-        "betomKebab": "Neosite-Dyad",
+        "betomKebab": "Neonektomy-Spade",
         "betomglyf": {
-            "labor": "Neosite",
-            "via": "Dyad"
-        },
-        "betomEnglishName": "",
-        "betomID": "",
-        "betomAlias": [],
-        "betomDescription": [],
-        "betomBetanyms": [],
-        "betomProfilePic": "",
-        "betomExample": {
-            "betomVideo": [],
-            "betomImage": [],
-            "betomQuote": []
-        },
-        "dev": []
-    },
-    {
-        "betomKebab": "Neosite-Hexad",
-        "betomglyf": {
-            "labor": "Neosite",
-            "via": "Hexad"
-        },
-        "betomEnglishName": "",
-        "betomID": "",
-        "betomAlias": [],
-        "betomDescription": [],
-        "betomBetanyms": [],
-        "betomProfilePic": "",
-        "betomExample": {
-            "betomVideo": [],
-            "betomImage": [],
-            "betomQuote": []
-        },
-        "dev": []
-    },
-    {
-        "betomKebab": "Neosite-Pentad",
-        "betomglyf": {
-            "labor": "Neosite",
-            "via": "Pentad"
-        },
-        "betomEnglishName": "",
-        "betomID": "",
-        "betomAlias": [],
-        "betomDescription": [],
-        "betomBetanyms": [],
-        "betomProfilePic": "",
-        "betomExample": {
-            "betomVideo": [],
-            "betomImage": [],
-            "betomQuote": []
-        },
-        "dev": []
-    },
-    {
-        "betomKebab": "Neosite-Polygon",
-        "betomglyf": {
-            "labor": "Neosite",
-            "via": "Alignment.Polygon"
-        },
-        "betomEnglishName": "",
-        "betomID": "",
-        "betomAlias": [],
-        "betomDescription": [],
-        "betomBetanyms": [],
-        "betomProfilePic": "",
-        "betomExample": {
-            "betomVideo": [],
-            "betomImage": [],
-            "betomQuote": []
-        },
-        "dev": []
-    },
-    {
-        "betomKebab": "Neosite-Proximity-Adaptive",
-        "betomglyf": {
-            "via": "Proximity,Adaptive"
-        },
-        "betomEnglishName": "",
-        "betomID": "",
-        "betomAlias": [],
-        "betomDescription": [],
-        "betomBetanyms": [],
-        "betomProfilePic": "",
-        "betomExample": {
-            "betomVideo": [],
-            "betomImage": [],
-            "betomQuote": []
-        },
-        "dev": []
-    },
-    {
-        "betomKebab": "Neosite-Proximity-Rigid",
-        "betomglyf": {
-            "labor": "Neosite",
-            "via": "Proximity.Fixed"
-        },
-        "betomEnglishName": "",
-        "betomID": "",
-        "betomAlias": [],
-        "betomDescription": [],
-        "betomBetanyms": [],
-        "betomProfilePic": "",
-        "betomExample": {
-            "betomVideo": [],
-            "betomImage": [],
-            "betomQuote": []
-        },
-        "dev": []
-    },
-    {
-        "betomKebab": "Neosite-Proximity-Sloped",
-        "betomglyf": {
-            "ekos": "Prokline",
-            "via": "Proximity.Adaptive"
-        },
-        "betomEnglishName": "",
-        "betomID": "",
-        "betomAlias": [],
-        "betomDescription": [],
-        "betomBetanyms": [],
-        "betomProfilePic": "",
-        "betomExample": {
-            "betomVideo": [],
-            "betomImage": [],
-            "betomQuote": []
-        },
-        "dev": []
-    },
-    {
-        "betomKebab": "Neosite-Responsive",
-        "betomglyf": {
-            "labor": "Neosite",
-            "via": "Proximity.Adaptive"
-        },
-        "betomEnglishName": "",
-        "betomID": "",
-        "betomAlias": [],
-        "betomDescription": [],
-        "betomBetanyms": [],
-        "betomProfilePic": "",
-        "betomExample": {
-            "betomVideo": [],
-            "betomImage": [],
-            "betomQuote": []
-        },
-        "dev": []
-    },
-    {
-        "betomKebab": "Neosite-Select",
-        "betomglyf": {
-            "labor": "Select,Neosite"
-        },
-        "betomEnglishName": "",
-        "betomID": "",
-        "betomAlias": [],
-        "betomDescription": [],
-        "betomBetanyms": [],
-        "betomProfilePic": "",
-        "betomExample": {
-            "betomVideo": [],
-            "betomImage": [],
-            "betomQuote": []
-        },
-        "dev": []
-    },
-    {
-        "betomKebab": "Neosite-Square",
-        "betomglyf": {
-            "labor": "Neosite",
-            "via": "Square"
-        },
-        "betomEnglishName": "",
-        "betomID": "",
-        "betomAlias": [],
-        "betomDescription": [],
-        "betomBetanyms": [],
-        "betomProfilePic": "",
-        "betomExample": {
-            "betomVideo": [],
-            "betomImage": [],
-            "betomQuote": []
-        },
-        "dev": []
-    },
-    {
-        "betomKebab": "Neosite-Tetrad",
-        "betomglyf": {
-            "labor": "Neosite",
-            "via": "Tetrad"
-        },
-        "betomEnglishName": "",
-        "betomID": "",
-        "betomAlias": [],
-        "betomDescription": [],
-        "betomBetanyms": [],
-        "betomProfilePic": "",
-        "betomExample": {
-            "betomVideo": [],
-            "betomImage": [],
-            "betomQuote": []
-        },
-        "dev": []
-    },
-    {
-        "betomKebab": "Neosite-Trapezoid",
-        "betomglyf": {
-            "labor": "Neosite",
-            "via": "Trapezoid"
-        },
-        "betomEnglishName": "",
-        "betomID": "",
-        "betomAlias": [],
-        "betomDescription": [],
-        "betomBetanyms": [],
-        "betomProfilePic": "",
-        "betomExample": {
-            "betomVideo": [],
-            "betomImage": [],
-            "betomQuote": []
-        },
-        "dev": []
-    },
-    {
-        "betomKebab": "Neosite-Triangle",
-        "betomglyf": {
-            "labor": "Neosite",
-            "via": "Triad"
-        },
-        "betomEnglishName": "",
-        "betomID": "",
-        "betomAlias": [],
-        "betomDescription": [],
-        "betomBetanyms": [],
-        "betomProfilePic": "",
-        "betomExample": {
-            "betomVideo": [],
-            "betomImage": [],
-            "betomQuote": []
-        },
-        "dev": []
-    },
-    {
-        "betomKebab": "Obstacle-Plan",
-        "betomglyf": {
-            "labor": "Select,Neosite",
-            "via": "Obstacle"
+            "labor": "Neonektomy,Spade"
         },
         "betomEnglishName": "",
         "betomID": "",
@@ -3273,43 +3523,6 @@ PropertiesBetoms = [
         "betomglyf": {
             "labor": "Orbit",
             "soma": "Korpo"
-        },
-        "betomEnglishName": "",
-        "betomID": "",
-        "betomAlias": [],
-        "betomDescription": [],
-        "betomBetanyms": [],
-        "betomProfilePic": "",
-        "betomExample": {
-            "betomVideo": [],
-            "betomImage": [],
-            "betomQuote": []
-        },
-        "dev": []
-    },
-    {
-        "betomKebab": "Orbit-Mano",
-        "betomglyf": {
-            "labor": "Mano,Orbit"
-        },
-        "betomEnglishName": "",
-        "betomID": "",
-        "betomAlias": [],
-        "betomDescription": [],
-        "betomBetanyms": [],
-        "betomProfilePic": "",
-        "betomExample": {
-            "betomVideo": [],
-            "betomImage": [],
-            "betomQuote": []
-        },
-        "dev": []
-    },
-    {
-        "betomKebab": "Palm-Klose",
-        "betomglyf": {
-            "labor": "Klose",
-            "soma": "Palm"
         },
         "betomEnglishName": "",
         "betomID": "",
@@ -3439,29 +3652,9 @@ PropertiesBetoms = [
         "dev": []
     },
     {
-        "betomKebab": "PickUp-Time",
+        "betomKebab": "Piece-Boundary-Marka",
         "betomglyf": {
-            "labor": "Workday.PickUp",
-            "motor": "Time"
-        },
-        "betomEnglishName": "",
-        "betomID": "",
-        "betomAlias": [],
-        "betomDescription": [],
-        "betomBetanyms": [],
-        "betomProfilePic": "",
-        "betomExample": {
-            "betomVideo": [],
-            "betomImage": [],
-            "betomQuote": []
-        },
-        "dev": []
-    },
-    {
-        "betomKebab": "Piece-Apogee",
-        "betomglyf": {
-            "labor": "Strategy,Piece",
-            "via": "Apogee"
+            "labor": "Piece.Boundary.Marka"
         },
         "betomEnglishName": "",
         "betomID": "",
@@ -3496,63 +3689,6 @@ PropertiesBetoms = [
         "dev": []
     },
     {
-        "betomKebab": "Piece-Div",
-        "betomglyf": {
-            "labor": "Piece.Taktik",
-            "via": "Div"
-        },
-        "betomEnglishName": "",
-        "betomID": "",
-        "betomAlias": [],
-        "betomDescription": [],
-        "betomBetanyms": [],
-        "betomProfilePic": "",
-        "betomExample": {
-            "betomVideo": [],
-            "betomImage": [],
-            "betomQuote": []
-        },
-        "dev": []
-    },
-    {
-        "betomKebab": "Piece-OpenEnded",
-        "betomglyf": {
-            "labor": "Piece.Taktik",
-            "via": "OpenEnded"
-        },
-        "betomEnglishName": "",
-        "betomID": "",
-        "betomAlias": [],
-        "betomDescription": [],
-        "betomBetanyms": [],
-        "betomProfilePic": "",
-        "betomExample": {
-            "betomVideo": [],
-            "betomImage": [],
-            "betomQuote": []
-        },
-        "dev": []
-    },
-    {
-        "betomKebab": "Piece-Perimeter",
-        "betomglyf": {
-            "labor": "Piece.Taktik",
-            "via": "Perimeter"
-        },
-        "betomEnglishName": "",
-        "betomID": "",
-        "betomAlias": [],
-        "betomDescription": [],
-        "betomBetanyms": [],
-        "betomProfilePic": "",
-        "betomExample": {
-            "betomVideo": [],
-            "betomImage": [],
-            "betomQuote": []
-        },
-        "dev": []
-    },
-    {
         "betomKebab": "Piece-Plan",
         "betomglyf": {
             "labor": "Piece",
@@ -3572,7 +3708,82 @@ PropertiesBetoms = [
         "dev": []
     },
     {
-        "betomKebab": "Piece-Straigten",
+        "betomKebab": "Piece-Strategy-Apogee",
+        "betomglyf": {
+            "labor": "Piece.Strategy",
+            "via": "Apogee"
+        },
+        "betomEnglishName": "",
+        "betomID": "",
+        "betomAlias": [],
+        "betomDescription": [],
+        "betomBetanyms": [],
+        "betomProfilePic": "",
+        "betomExample": {
+            "betomVideo": [],
+            "betomImage": [],
+            "betomQuote": []
+        },
+        "dev": []
+    },
+    {
+        "betomKebab": "Piece-Strategy-OpenEnded",
+        "betomglyf": {
+            "labor": "Piece.Strategy",
+            "via": "OpenEnded"
+        },
+        "betomEnglishName": "",
+        "betomID": "",
+        "betomAlias": [],
+        "betomDescription": [],
+        "betomBetanyms": [],
+        "betomProfilePic": "",
+        "betomExample": {
+            "betomVideo": [],
+            "betomImage": [],
+            "betomQuote": []
+        },
+        "dev": []
+    },
+    {
+        "betomKebab": "Piece-Strategy-Perimeter",
+        "betomglyf": {
+            "labor": "Piece.Strategy",
+            "via": "Perimeter"
+        },
+        "betomEnglishName": "",
+        "betomID": "",
+        "betomAlias": [],
+        "betomDescription": [],
+        "betomBetanyms": [],
+        "betomProfilePic": "",
+        "betomExample": {
+            "betomVideo": [],
+            "betomImage": [],
+            "betomQuote": []
+        },
+        "dev": []
+    },
+    {
+        "betomKebab": "Piece-Strategy-Simplify",
+        "betomglyf": {
+            "labor": "Piece.Strategy.Simplify"
+        },
+        "betomEnglishName": "",
+        "betomID": "",
+        "betomAlias": [],
+        "betomDescription": [],
+        "betomBetanyms": [],
+        "betomProfilePic": "",
+        "betomExample": {
+            "betomVideo": [],
+            "betomImage": [],
+            "betomQuote": []
+        },
+        "dev": []
+    },
+    {
+        "betomKebab": "Piece-Taktik-ConcaveHull",
         "betomglyf": {
             "labor": "Piece.Taktik",
             "via": "ConcaveHull"
@@ -3591,9 +3802,10 @@ PropertiesBetoms = [
         "dev": []
     },
     {
-        "betomKebab": "Plantafor-Adjust",
+        "betomKebab": "Piece-Taktik-ConvexHull",
         "betomglyf": {
-            "labor": "Plantafor.Modify"
+            "labor": "Piece.Taktik",
+            "via": "ConvexHull"
         },
         "betomEnglishName": "",
         "betomID": "",
@@ -3609,9 +3821,10 @@ PropertiesBetoms = [
         "dev": []
     },
     {
-        "betomKebab": "Plantafor-BackBag-Moton",
+        "betomKebab": "Piece-Taktik-Div",
         "betomglyf": {
-            "labor": "Plantafor.Backbag.Aktion"
+            "labor": "Piece.Taktik",
+            "via": "Div"
         },
         "betomEnglishName": "",
         "betomID": "",
@@ -3627,9 +3840,46 @@ PropertiesBetoms = [
         "dev": []
     },
     {
-        "betomKebab": "Plantafor-Bag-In",
+        "betomKebab": "Plan-Div",
         "betomglyf": {
-            "labor": "Plantafor.Load"
+            "labor": "Plan",
+            "via": "Div"
+        },
+        "betomEnglishName": "",
+        "betomID": "",
+        "betomAlias": [],
+        "betomDescription": [],
+        "betomBetanyms": [],
+        "betomProfilePic": "",
+        "betomExample": {
+            "betomVideo": [],
+            "betomImage": [],
+            "betomQuote": []
+        },
+        "dev": []
+    },
+    {
+        "betomKebab": "Plantafor-Aktion",
+        "betomglyf": {
+            "labor": "Plantafor.Aktion"
+        },
+        "betomEnglishName": "",
+        "betomID": "",
+        "betomAlias": [],
+        "betomDescription": [],
+        "betomBetanyms": [],
+        "betomProfilePic": "",
+        "betomExample": {
+            "betomVideo": [],
+            "betomImage": [],
+            "betomQuote": []
+        },
+        "dev": []
+    },
+    {
+        "betomKebab": "Plantafor-BackBag-Aktion",
+        "betomglyf": {
+            "labor": "Plantafor.BackBag.Aktion"
         },
         "betomEnglishName": "",
         "betomID": "",
@@ -3736,9 +3986,27 @@ PropertiesBetoms = [
         "dev": []
     },
     {
-        "betomKebab": "Plantafor-Moton",
+        "betomKebab": "Plantafor-Load",
         "betomglyf": {
-            "labor": "Plantafor.Aktion"
+            "labor": "Plantafor.Load"
+        },
+        "betomEnglishName": "",
+        "betomID": "",
+        "betomAlias": [],
+        "betomDescription": [],
+        "betomBetanyms": [],
+        "betomProfilePic": "",
+        "betomExample": {
+            "betomVideo": [],
+            "betomImage": [],
+            "betomQuote": []
+        },
+        "dev": []
+    },
+    {
+        "betomKebab": "Plantafor-Modify",
+        "betomglyf": {
+            "labor": "Plantafor.Modify"
         },
         "betomEnglishName": "",
         "betomID": "",
@@ -3882,48 +4150,9 @@ PropertiesBetoms = [
         "dev": []
     },
     {
-        "betomKebab": "PlantarFlexion-Leg",
+        "betomKebab": "Plot-Crop-Density",
         "betomglyf": {
-            "labor": "Flex",
-            "soma": "Foot",
-            "via": "Plantar"
-        },
-        "betomEnglishName": "",
-        "betomID": "",
-        "betomAlias": [],
-        "betomDescription": [],
-        "betomBetanyms": [],
-        "betomProfilePic": "",
-        "betomExample": {
-            "betomVideo": [],
-            "betomImage": [],
-            "betomQuote": []
-        },
-        "dev": []
-    },
-    {
-        "betomKebab": "Plast-Site",
-        "betomglyf": {
-            "ekos": "Plast",
-            "via": "Site"
-        },
-        "betomEnglishName": "",
-        "betomID": "",
-        "betomAlias": [],
-        "betomDescription": [],
-        "betomBetanyms": [],
-        "betomProfilePic": "",
-        "betomExample": {
-            "betomVideo": [],
-            "betomImage": [],
-            "betomQuote": []
-        },
-        "dev": []
-    },
-    {
-        "betomKebab": "Plot-Density",
-        "betomglyf": {
-            "labor": "Plot.Neon",
+            "labor": "Plot.Crop",
             "via": "Density"
         },
         "betomEnglishName": "",
@@ -3978,9 +4207,10 @@ PropertiesBetoms = [
         "dev": []
     },
     {
-        "betomKebab": "Pocket-Moton",
+        "betomKebab": "Poke-Boot",
         "betomglyf": {
-            "labor": "Clothing.Pocket"
+            "labor": "Poke",
+            "soma": "Boot"
         },
         "betomEnglishName": "",
         "betomID": "",
@@ -3996,10 +4226,29 @@ PropertiesBetoms = [
         "dev": []
     },
     {
-        "betomKebab": "Poke-Mano",
+        "betomKebab": "Poke-Hand",
         "betomglyf": {
             "labor": "Poke",
             "soma": "Hand"
+        },
+        "betomEnglishName": "",
+        "betomID": "",
+        "betomAlias": [],
+        "betomDescription": [],
+        "betomBetanyms": [],
+        "betomProfilePic": "",
+        "betomExample": {
+            "betomVideo": [],
+            "betomImage": [],
+            "betomQuote": []
+        },
+        "dev": []
+    },
+    {
+        "betomKebab": "Poke-Spade",
+        "betomglyf": {
+            "labor": "Poke",
+            "soma": "Spade"
         },
         "betomEnglishName": "",
         "betomID": "",
@@ -4053,6 +4302,25 @@ PropertiesBetoms = [
         "dev": []
     },
     {
+        "betomKebab": "Pop-Hand",
+        "betomglyf": {
+            "labor": "Pop",
+            "soma": "Hand"
+        },
+        "betomEnglishName": "",
+        "betomID": "",
+        "betomAlias": [],
+        "betomDescription": [],
+        "betomBetanyms": [],
+        "betomProfilePic": "",
+        "betomExample": {
+            "betomVideo": [],
+            "betomImage": [],
+            "betomQuote": []
+        },
+        "dev": []
+    },
+    {
         "betomKebab": "Pop-Korpo",
         "betomglyf": {
             "labor": "Pop",
@@ -4091,63 +4359,7 @@ PropertiesBetoms = [
         "dev": []
     },
     {
-        "betomKebab": "Pop-Mano",
-        "betomglyf": {
-            "labor": "Pop",
-            "soma": "Hand"
-        },
-        "betomEnglishName": "",
-        "betomID": "",
-        "betomAlias": [],
-        "betomDescription": [],
-        "betomBetanyms": [],
-        "betomProfilePic": "",
-        "betomExample": {
-            "betomVideo": [],
-            "betomImage": [],
-            "betomQuote": []
-        },
-        "dev": []
-    },
-    {
-        "betomKebab": "Posture-Korpo",
-        "betomglyf": {
-            "soma": "Korpo",
-            "via": "Posture"
-        },
-        "betomEnglishName": "",
-        "betomID": "",
-        "betomAlias": [],
-        "betomDescription": [],
-        "betomBetanyms": [],
-        "betomProfilePic": "",
-        "betomExample": {
-            "betomVideo": [],
-            "betomImage": [],
-            "betomQuote": []
-        },
-        "dev": []
-    },
-    {
-        "betomKebab": "Prep-Mound",
-        "betomglyf": {
-            "labor": "Error,Prep.Mound"
-        },
-        "betomEnglishName": "",
-        "betomID": "",
-        "betomAlias": [],
-        "betomDescription": [],
-        "betomBetanyms": [],
-        "betomProfilePic": "",
-        "betomExample": {
-            "betomVideo": [],
-            "betomImage": [],
-            "betomQuote": []
-        },
-        "dev": []
-    },
-    {
-        "betomKebab": "Prep-Skreef",
+        "betomKebab": "Prep-Megaskreef",
         "betomglyf": {
             "labor": "Prep.Megaskreef"
         },
@@ -4183,9 +4395,28 @@ PropertiesBetoms = [
         "dev": []
     },
     {
-        "betomKebab": "Protraction-Head",
+        "betomKebab": "Progress-Leg",
         "betomglyf": {
-            "labor": "Protract",
+            "labor": "Progress",
+            "soma": "Leg"
+        },
+        "betomEnglishName": "",
+        "betomID": "",
+        "betomAlias": [],
+        "betomDescription": [],
+        "betomBetanyms": [],
+        "betomProfilePic": "",
+        "betomExample": {
+            "betomVideo": [],
+            "betomImage": [],
+            "betomQuote": []
+        },
+        "dev": []
+    },
+    {
+        "betomKebab": "Protrakt-Head",
+        "betomglyf": {
+            "labor": "Protrakt",
             "soma": "Head"
         },
         "betomEnglishName": "",
@@ -4238,43 +4469,7 @@ PropertiesBetoms = [
         "dev": []
     },
     {
-        "betomKebab": "Punch-Klose",
-        "betomglyf": {
-            "labor": "Klose.Pugno"
-        },
-        "betomEnglishName": "",
-        "betomID": "",
-        "betomAlias": [],
-        "betomDescription": [],
-        "betomBetanyms": [],
-        "betomProfilePic": "",
-        "betomExample": {
-            "betomVideo": [],
-            "betomImage": [],
-            "betomQuote": []
-        },
-        "dev": []
-    },
-    {
-        "betomKebab": "Radior-Add",
-        "betomglyf": {
-            "labor": "Radior.On"
-        },
-        "betomEnglishName": "",
-        "betomID": "",
-        "betomAlias": [],
-        "betomDescription": [],
-        "betomBetanyms": [],
-        "betomProfilePic": "",
-        "betomExample": {
-            "betomVideo": [],
-            "betomImage": [],
-            "betomQuote": []
-        },
-        "dev": []
-    },
-    {
-        "betomKebab": "Radior-Moton",
+        "betomKebab": "Radior-Aktion",
         "betomglyf": {
             "labor": "Radior.Aktion"
         },
@@ -4295,6 +4490,24 @@ PropertiesBetoms = [
         "betomKebab": "Radior-Off",
         "betomglyf": {
             "labor": "Radior.Off"
+        },
+        "betomEnglishName": "",
+        "betomID": "",
+        "betomAlias": [],
+        "betomDescription": [],
+        "betomBetanyms": [],
+        "betomProfilePic": "",
+        "betomExample": {
+            "betomVideo": [],
+            "betomImage": [],
+            "betomQuote": []
+        },
+        "dev": []
+    },
+    {
+        "betomKebab": "Radior-On",
+        "betomglyf": {
+            "labor": "Radior.On"
         },
         "betomEnglishName": "",
         "betomID": "",
@@ -4365,44 +4578,6 @@ PropertiesBetoms = [
         "dev": []
     },
     {
-        "betomKebab": "Reach-Korpo",
-        "betomglyf": {
-            "labor": "Flex",
-            "soma": "Korpo"
-        },
-        "betomEnglishName": "",
-        "betomID": "",
-        "betomAlias": [],
-        "betomDescription": [],
-        "betomBetanyms": [],
-        "betomProfilePic": "",
-        "betomExample": {
-            "betomVideo": [],
-            "betomImage": [],
-            "betomQuote": []
-        },
-        "dev": []
-    },
-    {
-        "betomKebab": "Reach-Leg",
-        "betomglyf": {
-            "labor": "Progress",
-            "soma": "Leg"
-        },
-        "betomEnglishName": "",
-        "betomID": "",
-        "betomAlias": [],
-        "betomDescription": [],
-        "betomBetanyms": [],
-        "betomProfilePic": "",
-        "betomExample": {
-            "betomVideo": [],
-            "betomImage": [],
-            "betomQuote": []
-        },
-        "dev": []
-    },
-    {
         "betomKebab": "RedRotSoil-Hydro-Site",
         "betomglyf": {
             "ekos": "RedRotSoil.Hydro",
@@ -4441,61 +4616,7 @@ PropertiesBetoms = [
         "dev": []
     },
     {
-        "betomKebab": "Remove-Markum",
-        "betomglyf": {
-            "labor": "Markum.Off"
-        },
-        "betomEnglishName": "",
-        "betomID": "",
-        "betomAlias": [],
-        "betomDescription": [],
-        "betomBetanyms": [],
-        "betomProfilePic": "",
-        "betomExample": {
-            "betomVideo": [],
-            "betomImage": [],
-            "betomQuote": []
-        },
-        "dev": []
-    },
-    {
-        "betomKebab": "Repair-Moton",
-        "betomglyf": {
-            "labor": "Tool.Repair"
-        },
-        "betomEnglishName": "",
-        "betomID": "",
-        "betomAlias": [],
-        "betomDescription": [],
-        "betomBetanyms": [],
-        "betomProfilePic": "",
-        "betomExample": {
-            "betomVideo": [],
-            "betomImage": [],
-            "betomQuote": []
-        },
-        "dev": []
-    },
-    {
-        "betomKebab": "Repair-Sewing-Aktion",
-        "betomglyf": {
-            "labor": "Repair.Sew"
-        },
-        "betomEnglishName": "",
-        "betomID": "",
-        "betomAlias": [],
-        "betomDescription": [],
-        "betomBetanyms": [],
-        "betomProfilePic": "",
-        "betomExample": {
-            "betomVideo": [],
-            "betomImage": [],
-            "betomQuote": []
-        },
-        "dev": []
-    },
-    {
-        "betomKebab": "Repair-Thread-Knot",
+        "betomKebab": "Repair-Sew-Knot",
         "betomglyf": {
             "labor": "Repair.Sew.Knot"
         },
@@ -4513,47 +4634,28 @@ PropertiesBetoms = [
         "dev": []
     },
     {
-        "betomKebab": "Retraction-Head",
+        "betomKebab": "Repair-Sew",
         "betomglyf": {
-            "labor": "Retract",
+            "labor": "Repair.Sew"
+        },
+        "betomEnglishName": "",
+        "betomID": "",
+        "betomAlias": [],
+        "betomDescription": [],
+        "betomBetanyms": [],
+        "betomProfilePic": "",
+        "betomExample": {
+            "betomVideo": [],
+            "betomImage": [],
+            "betomQuote": []
+        },
+        "dev": []
+    },
+    {
+        "betomKebab": "Retrakt-Head",
+        "betomglyf": {
+            "labor": "Retrakt",
             "soma": "Head"
-        },
-        "betomEnglishName": "",
-        "betomID": "",
-        "betomAlias": [],
-        "betomDescription": [],
-        "betomBetanyms": [],
-        "betomProfilePic": "",
-        "betomExample": {
-            "betomVideo": [],
-            "betomImage": [],
-            "betomQuote": []
-        },
-        "dev": []
-    },
-    {
-        "betomKebab": "Rim-Site",
-        "betomglyf": {
-            "labor": "Bag.Rim",
-            "via": "Site"
-        },
-        "betomEnglishName": "",
-        "betomID": "",
-        "betomAlias": [],
-        "betomDescription": [],
-        "betomBetanyms": [],
-        "betomProfilePic": "",
-        "betomExample": {
-            "betomVideo": [],
-            "betomImage": [],
-            "betomQuote": []
-        },
-        "dev": []
-    },
-    {
-        "betomKebab": "Road",
-        "betomglyf": {
-            "labor": "Cutblock.Road"
         },
         "betomEnglishName": "",
         "betomID": "",
@@ -4606,9 +4708,11 @@ PropertiesBetoms = [
         "dev": []
     },
     {
-        "betomKebab": "Rope-Knot copy",
+        "betomKebab": "Rotate-Head-Away",
         "betomglyf": {
-            "labor": "Rope.Aktion"
+            "labor": "Rotate",
+            "soma": "Head",
+            "via": "Away"
         },
         "betomEnglishName": "",
         "betomID": "",
@@ -4643,7 +4747,7 @@ PropertiesBetoms = [
         "dev": []
     },
     {
-        "betomKebab": "RunStart",
+        "betomKebab": "Run-Initiation",
         "betomglyf": {
             "labor": "Run",
             "motor": "Initiation"
@@ -4703,7 +4807,7 @@ PropertiesBetoms = [
         "betomKebab": "Season-Time",
         "betomglyf": {
             "labor": "Season",
-            "motor": "Time"
+            "via": "Time"
         },
         "betomEnglishName": "",
         "betomID": "",
@@ -4719,29 +4823,10 @@ PropertiesBetoms = [
         "dev": []
     },
     {
-        "betomKebab": "Session-Time",
+        "betomKebab": "Select-Mikrosite-Protektor",
         "betomglyf": {
-            "labor": "Workday",
-            "motor": "Time"
-        },
-        "betomEnglishName": "",
-        "betomID": "",
-        "betomAlias": [],
-        "betomDescription": [],
-        "betomBetanyms": [],
-        "betomProfilePic": "",
-        "betomExample": {
-            "betomVideo": [],
-            "betomImage": [],
-            "betomQuote": []
-        },
-        "dev": []
-    },
-    {
-        "betomKebab": "Shaft-Site",
-        "betomglyf": {
-            "labor": "Spade.Shaft",
-            "via": "Site"
+            "labor": "Select,Mikrosite",
+            "via": "Protektor"
         },
         "betomEnglishName": "",
         "betomID": "",
@@ -4758,7 +4843,10 @@ PropertiesBetoms = [
     },
     {
         "betomKebab": "Shift-Time",
-        "betomglyf": {},
+        "betomglyf": {
+            "labor": "Shift",
+            "motor": "Time"
+        },
         "betomEnglishName": "",
         "betomID": "",
         "betomAlias": [],
@@ -4811,7 +4899,7 @@ PropertiesBetoms = [
         "dev": []
     },
     {
-        "betomKebab": "Silvi-Site",
+        "betomKebab": "SilviBag-Site",
         "betomglyf": {
             "labor": "SilviBag",
             "via": "Site"
@@ -4831,25 +4919,8 @@ PropertiesBetoms = [
     },
     {
         "betomKebab": "Site-Density",
-        "betomglyf": {},
-        "betomEnglishName": "",
-        "betomID": "",
-        "betomAlias": [],
-        "betomDescription": [],
-        "betomBetanyms": [],
-        "betomProfilePic": "",
-        "betomExample": {
-            "betomVideo": [],
-            "betomImage": [],
-            "betomQuote": []
-        },
-        "dev": []
-    },
-    {
-        "betomKebab": "SiteMarka",
         "betomglyf": {
-            "labor": "Markate",
-            "via": "Site"
+            "via": "Site,Density"
         },
         "betomEnglishName": "",
         "betomID": "",
@@ -4865,26 +4936,7 @@ PropertiesBetoms = [
         "dev": []
     },
     {
-        "betomKebab": "Skreef-Leg",
-        "betomglyf": {
-            "labor": "Skim",
-            "soma": "Leg"
-        },
-        "betomEnglishName": "",
-        "betomID": "",
-        "betomAlias": [],
-        "betomDescription": [],
-        "betomBetanyms": [],
-        "betomProfilePic": "",
-        "betomExample": {
-            "betomVideo": [],
-            "betomImage": [],
-            "betomQuote": []
-        },
-        "dev": []
-    },
-    {
-        "betomKebab": "Skreef-Mano",
+        "betomKebab": "Skim-Hand",
         "betomglyf": {
             "labor": "Skim",
             "soma": "Hand"
@@ -4903,9 +4955,46 @@ PropertiesBetoms = [
         "dev": []
     },
     {
-        "betomKebab": "Slap-Klose",
+        "betomKebab": "Skim-Leg",
         "betomglyf": {
-            "labor": "Klose.Slap"
+            "labor": "Skim",
+            "soma": "Leg"
+        },
+        "betomEnglishName": "",
+        "betomID": "",
+        "betomAlias": [],
+        "betomDescription": [],
+        "betomBetanyms": [],
+        "betomProfilePic": "",
+        "betomExample": {
+            "betomVideo": [],
+            "betomImage": [],
+            "betomQuote": []
+        },
+        "dev": []
+    },
+    {
+        "betomKebab": "Skim-Spade",
+        "betomglyf": {
+            "labor": "Skim,Spade"
+        },
+        "betomEnglishName": "",
+        "betomID": "",
+        "betomAlias": [],
+        "betomDescription": [],
+        "betomBetanyms": [],
+        "betomProfilePic": "",
+        "betomExample": {
+            "betomVideo": [],
+            "betomImage": [],
+            "betomQuote": []
+        },
+        "dev": []
+    },
+    {
+        "betomKebab": "Slap-Spade",
+        "betomglyf": {
+            "labor": "Slap,Spade"
         },
         "betomEnglishName": "",
         "betomID": "",
@@ -4940,26 +5029,7 @@ PropertiesBetoms = [
         "dev": []
     },
     {
-        "betomKebab": "Sleeve-Site",
-        "betomglyf": {
-            "labor": "Clothing.Sleeve",
-            "via": "Site"
-        },
-        "betomEnglishName": "",
-        "betomID": "",
-        "betomAlias": [],
-        "betomDescription": [],
-        "betomBetanyms": [],
-        "betomProfilePic": "",
-        "betomExample": {
-            "betomVideo": [],
-            "betomImage": [],
-            "betomQuote": []
-        },
-        "dev": []
-    },
-    {
-        "betomKebab": "Slide-Mano",
+        "betomKebab": "Slide-Hand",
         "betomglyf": {
             "labor": "Slide",
             "soma": "Hand"
@@ -5016,10 +5086,27 @@ PropertiesBetoms = [
         "dev": []
     },
     {
-        "betomKebab": "Snap-Flora",
+        "betomKebab": "Slot-Markum",
         "betomglyf": {
-            "labor": "Snap",
-            "ekos": "Flora"
+            "labor": "Slot,Markum"
+        },
+        "betomEnglishName": "",
+        "betomID": "",
+        "betomAlias": [],
+        "betomDescription": [],
+        "betomBetanyms": [],
+        "betomProfilePic": "",
+        "betomExample": {
+            "betomVideo": [],
+            "betomImage": [],
+            "betomQuote": []
+        },
+        "dev": []
+    },
+    {
+        "betomKebab": "Slot-Neon",
+        "betomglyf": {
+            "labor": "Slot,Neon"
         },
         "betomEnglishName": "",
         "betomID": "",
@@ -5038,7 +5125,26 @@ PropertiesBetoms = [
         "betomKebab": "Snap-Flora-Branch",
         "betomglyf": {
             "labor": "Snap",
-            "ekos": "Branch"
+            "ekos": "Flora-Branch"
+        },
+        "betomEnglishName": "",
+        "betomID": "",
+        "betomAlias": [],
+        "betomDescription": [],
+        "betomBetanyms": [],
+        "betomProfilePic": "",
+        "betomExample": {
+            "betomVideo": [],
+            "betomImage": [],
+            "betomQuote": []
+        },
+        "dev": []
+    },
+    {
+        "betomKebab": "Snap-Flora",
+        "betomglyf": {
+            "labor": "Snap",
+            "ekos": "Flora"
         },
         "betomEnglishName": "",
         "betomID": "",
@@ -5073,7 +5179,7 @@ PropertiesBetoms = [
         "dev": []
     },
     {
-        "betomKebab": "Soil-Cream",
+        "betomKebab": "Soil-Creamy",
         "betomglyf": {
             "ekos": "Soil",
             "via": "Creamy"
@@ -5092,9 +5198,27 @@ PropertiesBetoms = [
         "dev": []
     },
     {
-        "betomKebab": "Spade-Amble",
+        "betomKebab": "Spade-Aktion",
         "betomglyf": {
-            "labor": "Amble,Spade"
+            "labor": "Spade.Aktion"
+        },
+        "betomEnglishName": "",
+        "betomID": "",
+        "betomAlias": [],
+        "betomDescription": [],
+        "betomBetanyms": [],
+        "betomProfilePic": "",
+        "betomExample": {
+            "betomVideo": [],
+            "betomImage": [],
+            "betomQuote": []
+        },
+        "dev": []
+    },
+    {
+        "betomKebab": "Spade-Allos",
+        "betomglyf": {
+            "labor": "Spade.Allos"
         },
         "betomEnglishName": "",
         "betomID": "",
@@ -5183,45 +5307,64 @@ PropertiesBetoms = [
         "dev": []
     },
     {
+        "betomKebab": "Spade-Handle-Dimano",
+        "betomglyf": {
+            "labor": "Spade.Handle.Dimano"
+        },
+        "betomEnglishName": "",
+        "betomID": "",
+        "betomAlias": [],
+        "betomDescription": [],
+        "betomBetanyms": [],
+        "betomProfilePic": "",
+        "betomExample": {
+            "betomVideo": [],
+            "betomImage": [],
+            "betomQuote": []
+        },
+        "dev": []
+    },
+    {
+        "betomKebab": "Spade-Handle-Mano",
+        "betomglyf": {
+            "labor": "Spade.Handle.Mano"
+        },
+        "betomEnglishName": "",
+        "betomID": "",
+        "betomAlias": [],
+        "betomDescription": [],
+        "betomBetanyms": [],
+        "betomProfilePic": "",
+        "betomExample": {
+            "betomVideo": [],
+            "betomImage": [],
+            "betomQuote": []
+        },
+        "dev": []
+    },
+    {
+        "betomKebab": "Spade-Handle-Site",
+        "betomglyf": {
+            "labor": "Spade.Handle",
+            "via": "Site"
+        },
+        "betomEnglishName": "",
+        "betomID": "",
+        "betomAlias": [],
+        "betomDescription": [],
+        "betomBetanyms": [],
+        "betomProfilePic": "",
+        "betomExample": {
+            "betomVideo": [],
+            "betomImage": [],
+            "betomQuote": []
+        },
+        "dev": []
+    },
+    {
         "betomKebab": "Spade-Hook",
         "betomglyf": {
             "labor": "Spade.Hook"
-        },
-        "betomEnglishName": "",
-        "betomID": "",
-        "betomAlias": [],
-        "betomDescription": [],
-        "betomBetanyms": [],
-        "betomProfilePic": "",
-        "betomExample": {
-            "betomVideo": [],
-            "betomImage": [],
-            "betomQuote": []
-        },
-        "dev": []
-    },
-    {
-        "betomKebab": "Spade-Klose",
-        "betomglyf": {
-            "labor": "Klose.Spade"
-        },
-        "betomEnglishName": "",
-        "betomID": "",
-        "betomAlias": [],
-        "betomDescription": [],
-        "betomBetanyms": [],
-        "betomProfilePic": "",
-        "betomExample": {
-            "betomVideo": [],
-            "betomImage": [],
-            "betomQuote": []
-        },
-        "dev": []
-    },
-    {
-        "betomKebab": "Spade-Machete",
-        "betomglyf": {
-            "labor": "Machete.Spade"
         },
         "betomEnglishName": "",
         "betomID": "",
@@ -5255,63 +5398,9 @@ PropertiesBetoms = [
         "dev": []
     },
     {
-        "betomKebab": "Spade-ManoAllo",
-        "betomglyf": {
-            "labor": "Spade.Allo"
-        },
-        "betomEnglishName": "",
-        "betomID": "",
-        "betomAlias": [],
-        "betomDescription": [],
-        "betomBetanyms": [],
-        "betomProfilePic": "",
-        "betomExample": {
-            "betomVideo": [],
-            "betomImage": [],
-            "betomQuote": []
-        },
-        "dev": []
-    },
-    {
-        "betomKebab": "Spade-Moton",
-        "betomglyf": {
-            "labor": "Spade.Aktion"
-        },
-        "betomEnglishName": "",
-        "betomID": "",
-        "betomAlias": [],
-        "betomDescription": [],
-        "betomBetanyms": [],
-        "betomProfilePic": "",
-        "betomExample": {
-            "betomVideo": [],
-            "betomImage": [],
-            "betomQuote": []
-        },
-        "dev": []
-    },
-    {
         "betomKebab": "Spade-MuscleUp",
         "betomglyf": {
             "labor": "Spade.MuscleUp"
-        },
-        "betomEnglishName": "",
-        "betomID": "",
-        "betomAlias": [],
-        "betomDescription": [],
-        "betomBetanyms": [],
-        "betomProfilePic": "",
-        "betomExample": {
-            "betomVideo": [],
-            "betomImage": [],
-            "betomQuote": []
-        },
-        "dev": []
-    },
-    {
-        "betomKebab": "Spade-Neonektomy",
-        "betomglyf": {
-            "labor": "Neonektomy,Spade"
         },
         "betomEnglishName": "",
         "betomID": "",
@@ -5345,45 +5434,9 @@ PropertiesBetoms = [
         "dev": []
     },
     {
-        "betomKebab": "Spade-Open",
-        "betomglyf": {
-            "labor": "Open.Spade"
-        },
-        "betomEnglishName": "",
-        "betomID": "",
-        "betomAlias": [],
-        "betomDescription": [],
-        "betomBetanyms": [],
-        "betomProfilePic": "",
-        "betomExample": {
-            "betomVideo": [],
-            "betomImage": [],
-            "betomQuote": []
-        },
-        "dev": []
-    },
-    {
         "betomKebab": "Spade-Pogo",
         "betomglyf": {
             "labor": "Spade.Pogo"
-        },
-        "betomEnglishName": "",
-        "betomID": "",
-        "betomAlias": [],
-        "betomDescription": [],
-        "betomBetanyms": [],
-        "betomProfilePic": "",
-        "betomExample": {
-            "betomVideo": [],
-            "betomImage": [],
-            "betomQuote": []
-        },
-        "dev": []
-    },
-    {
-        "betomKebab": "Spade-Poke",
-        "betomglyf": {
-            "labor": "Poke,Spade"
         },
         "betomEnglishName": "",
         "betomID": "",
@@ -5489,9 +5542,27 @@ PropertiesBetoms = [
         "dev": []
     },
     {
-        "betomKebab": "Spade-Site",
+        "betomKebab": "Spade-Shaft-Mano",
         "betomglyf": {
-            "labor": "Spade",
+            "labor": "Spade.Shaft.Mano"
+        },
+        "betomEnglishName": "",
+        "betomID": "",
+        "betomAlias": [],
+        "betomDescription": [],
+        "betomBetanyms": [],
+        "betomProfilePic": "",
+        "betomExample": {
+            "betomVideo": [],
+            "betomImage": [],
+            "betomQuote": []
+        },
+        "dev": []
+    },
+    {
+        "betomKebab": "Spade-Shaft-Site",
+        "betomglyf": {
+            "labor": "Spade.Shaft",
             "via": "Site"
         },
         "betomEnglishName": "",
@@ -5508,27 +5579,10 @@ PropertiesBetoms = [
         "dev": []
     },
     {
-        "betomKebab": "Spade-Skreef",
+        "betomKebab": "Spade-Site",
         "betomglyf": {
-            "labor": "Skim,Spade"
-        },
-        "betomEnglishName": "",
-        "betomID": "",
-        "betomAlias": [],
-        "betomDescription": [],
-        "betomBetanyms": [],
-        "betomProfilePic": "",
-        "betomExample": {
-            "betomVideo": [],
-            "betomImage": [],
-            "betomQuote": []
-        },
-        "dev": []
-    },
-    {
-        "betomKebab": "Spade-Slap",
-        "betomglyf": {
-            "labor": "Slap,Spade"
+            "labor": "Spade",
+            "via": "Site"
         },
         "betomEnglishName": "",
         "betomID": "",
@@ -5598,9 +5652,28 @@ PropertiesBetoms = [
         "dev": []
     },
     {
-        "betomKebab": "Spade-Test",
+        "betomKebab": "Spade-SuperSpike",
         "betomglyf": {
-            "labor": "Eval,Spade"
+            "labor": "Spade.SuperSpike"
+        },
+        "betomEnglishName": "",
+        "betomID": "",
+        "betomAlias": [],
+        "betomDescription": [],
+        "betomBetanyms": [],
+        "betomProfilePic": "",
+        "betomExample": {
+            "betomVideo": [],
+            "betomImage": [],
+            "betomQuote": []
+        },
+        "dev": []
+    },
+    {
+        "betomKebab": "Spade-Tab-Site",
+        "betomglyf": {
+            "labor": "Spade.Tab",
+            "via": "Site"
         },
         "betomEnglishName": "",
         "betomID": "",
@@ -5634,99 +5707,9 @@ PropertiesBetoms = [
         "dev": []
     },
     {
-        "betomKebab": "SpadeCollar-Mano",
-        "betomglyf": {
-            "labor": "Spade.Shaft.Mano"
-        },
-        "betomEnglishName": "",
-        "betomID": "",
-        "betomAlias": [],
-        "betomDescription": [],
-        "betomBetanyms": [],
-        "betomProfilePic": "",
-        "betomExample": {
-            "betomVideo": [],
-            "betomImage": [],
-            "betomQuote": []
-        },
-        "dev": []
-    },
-    {
-        "betomKebab": "SpadePlast-Dimano",
-        "betomglyf": {
-            "labor": "Spade.Handle.Dimano"
-        },
-        "betomEnglishName": "",
-        "betomID": "",
-        "betomAlias": [],
-        "betomDescription": [],
-        "betomBetanyms": [],
-        "betomProfilePic": "",
-        "betomExample": {
-            "betomVideo": [],
-            "betomImage": [],
-            "betomQuote": []
-        },
-        "dev": []
-    },
-    {
-        "betomKebab": "SpadePlast-Mano",
-        "betomglyf": {
-            "labor": "Spade.Handle.Mano"
-        },
-        "betomEnglishName": "",
-        "betomID": "",
-        "betomAlias": [],
-        "betomDescription": [],
-        "betomBetanyms": [],
-        "betomProfilePic": "",
-        "betomExample": {
-            "betomVideo": [],
-            "betomImage": [],
-            "betomQuote": []
-        },
-        "dev": []
-    },
-    {
-        "betomKebab": "Spike-Korpo",
-        "betomglyf": {
-            "labor": "Spade.SuperSpike"
-        },
-        "betomEnglishName": "",
-        "betomID": "",
-        "betomAlias": [],
-        "betomDescription": [],
-        "betomBetanyms": [],
-        "betomProfilePic": "",
-        "betomExample": {
-            "betomVideo": [],
-            "betomImage": [],
-            "betomQuote": []
-        },
-        "dev": []
-    },
-    {
         "betomKebab": "Stand-Korpo",
         "betomglyf": {
-            "labor": "Stand"
-        },
-        "betomEnglishName": "",
-        "betomID": "",
-        "betomAlias": [],
-        "betomDescription": [],
-        "betomBetanyms": [],
-        "betomProfilePic": "",
-        "betomExample": {
-            "betomVideo": [],
-            "betomImage": [],
-            "betomQuote": []
-        },
-        "dev": []
-    },
-    {
-        "betomKebab": "Stand-Korpo-Up",
-        "betomglyf": {
-            "labor": "StandUp",
+            "labor": "Stand",
             "soma": "Korpo"
         },
         "betomEnglishName": "",
@@ -5781,7 +5764,7 @@ PropertiesBetoms = [
         "dev": []
     },
     {
-        "betomKebab": "Step-Over",
+        "betomKebab": "Step-Leg",
         "betomglyf": {
             "labor": "Step",
             "soma": "Leg"
@@ -5822,44 +5805,6 @@ PropertiesBetoms = [
         "betomKebab": "Stump-Site",
         "betomglyf": {
             "ekos": "Stump",
-            "via": "Site"
-        },
-        "betomEnglishName": "",
-        "betomID": "",
-        "betomAlias": [],
-        "betomDescription": [],
-        "betomBetanyms": [],
-        "betomProfilePic": "",
-        "betomExample": {
-            "betomVideo": [],
-            "betomImage": [],
-            "betomQuote": []
-        },
-        "dev": []
-    },
-    {
-        "betomKebab": "Suspender-Site",
-        "betomglyf": {
-            "labor": "Plantafor.Strap",
-            "via": "Site"
-        },
-        "betomEnglishName": "",
-        "betomID": "",
-        "betomAlias": [],
-        "betomDescription": [],
-        "betomBetanyms": [],
-        "betomProfilePic": "",
-        "betomExample": {
-            "betomVideo": [],
-            "betomImage": [],
-            "betomQuote": []
-        },
-        "dev": []
-    },
-    {
-        "betomKebab": "Tab-Site",
-        "betomglyf": {
-            "labor": "Spade.Tab",
             "via": "Site"
         },
         "betomEnglishName": "",
@@ -5949,25 +5894,7 @@ PropertiesBetoms = [
         "dev": []
     },
     {
-        "betomKebab": "Team-Passage",
-        "betomglyf": {
-            "labor": "Team.Taktik"
-        },
-        "betomEnglishName": "",
-        "betomID": "",
-        "betomAlias": [],
-        "betomDescription": [],
-        "betomBetanyms": [],
-        "betomProfilePic": "",
-        "betomExample": {
-            "betomVideo": [],
-            "betomImage": [],
-            "betomQuote": []
-        },
-        "dev": []
-    },
-    {
-        "betomKebab": "Team-Passage-Bounce",
+        "betomKebab": "Team-Taktik-Bounce",
         "betomglyf": {
             "labor": "Team.Taktik.Bounce"
         },
@@ -5985,9 +5912,27 @@ PropertiesBetoms = [
         "dev": []
     },
     {
-        "betomKebab": "Team-Passage-Cross",
+        "betomKebab": "Team-Taktik-Cross",
         "betomglyf": {
             "labor": "Team.Taktik.Cross"
+        },
+        "betomEnglishName": "",
+        "betomID": "",
+        "betomAlias": [],
+        "betomDescription": [],
+        "betomBetanyms": [],
+        "betomProfilePic": "",
+        "betomExample": {
+            "betomVideo": [],
+            "betomImage": [],
+            "betomQuote": []
+        },
+        "dev": []
+    },
+    {
+        "betomKebab": "Team-Taktik",
+        "betomglyf": {
+            "labor": "Team.Taktik"
         },
         "betomEnglishName": "",
         "betomID": "",
@@ -6095,7 +6040,7 @@ PropertiesBetoms = [
         "dev": []
     },
     {
-        "betomKebab": "Tibior-Preservation",
+        "betomKebab": "Tibior-Preserve",
         "betomglyf": {
             "labor": "Tibior.Preserve"
         },
@@ -6132,29 +6077,9 @@ PropertiesBetoms = [
         "dev": []
     },
     {
-        "betomKebab": "Toggle-Arm",
+        "betomKebab": "Tool-Repair",
         "betomglyf": {
-            "labor": "Iguana",
-            "soma": "Arm"
-        },
-        "betomEnglishName": "",
-        "betomID": "",
-        "betomAlias": [],
-        "betomDescription": [],
-        "betomBetanyms": [],
-        "betomProfilePic": "",
-        "betomExample": {
-            "betomVideo": [],
-            "betomImage": [],
-            "betomQuote": []
-        },
-        "dev": []
-    },
-    {
-        "betomKebab": "TrenchExitMarkum",
-        "betomglyf": {
-            "labor": "Markate,Trench",
-            "via": "Exit"
+            "labor": "Tool.Repair"
         },
         "betomEnglishName": "",
         "betomID": "",
@@ -6244,26 +6169,6 @@ PropertiesBetoms = [
         "dev": []
     },
     {
-        "betomKebab": "Under-Korpo",
-        "betomglyf": {
-            "labor": "Amble",
-            "soma": "Korpo",
-            "via": "Under"
-        },
-        "betomEnglishName": "",
-        "betomID": "",
-        "betomAlias": [],
-        "betomDescription": [],
-        "betomBetanyms": [],
-        "betomProfilePic": "",
-        "betomExample": {
-            "betomVideo": [],
-            "betomImage": [],
-            "betomQuote": []
-        },
-        "dev": []
-    },
-    {
         "betomKebab": "Velcro-Site",
         "betomglyf": {
             "labor": "Velcro",
@@ -6302,9 +6207,84 @@ PropertiesBetoms = [
         "dev": []
     },
     {
-        "betomKebab": "WindShell-Moton",
+        "betomKebab": "WindShell-Aktion",
         "betomglyf": {
             "labor": "WindShell.Aktion"
+        },
+        "betomEnglishName": "",
+        "betomID": "",
+        "betomAlias": [],
+        "betomDescription": [],
+        "betomBetanyms": [],
+        "betomProfilePic": "",
+        "betomExample": {
+            "betomVideo": [],
+            "betomImage": [],
+            "betomQuote": []
+        },
+        "dev": []
+    },
+    {
+        "betomKebab": "Workday-Arrival-Time",
+        "betomglyf": {
+            "labor": "Workday.Arrival",
+            "motor": "Time"
+        },
+        "betomEnglishName": "",
+        "betomID": "",
+        "betomAlias": [],
+        "betomDescription": [],
+        "betomBetanyms": [],
+        "betomProfilePic": "",
+        "betomExample": {
+            "betomVideo": [],
+            "betomImage": [],
+            "betomQuote": []
+        },
+        "dev": []
+    },
+    {
+        "betomKebab": "Workday-Departure-Time",
+        "betomglyf": {
+            "labor": "Workday.Departure",
+            "motor": "Time"
+        },
+        "betomEnglishName": "",
+        "betomID": "",
+        "betomAlias": [],
+        "betomDescription": [],
+        "betomBetanyms": [],
+        "betomProfilePic": "",
+        "betomExample": {
+            "betomVideo": [],
+            "betomImage": [],
+            "betomQuote": []
+        },
+        "dev": []
+    },
+    {
+        "betomKebab": "Workday-Time",
+        "betomglyf": {
+            "labor": "Workday",
+            "motor": "Time"
+        },
+        "betomEnglishName": "",
+        "betomID": "",
+        "betomAlias": [],
+        "betomDescription": [],
+        "betomBetanyms": [],
+        "betomProfilePic": "",
+        "betomExample": {
+            "betomVideo": [],
+            "betomImage": [],
+            "betomQuote": []
+        },
+        "dev": []
+    },
+    {
+        "betomKebab": "Wrap-Markum",
+        "betomglyf": {
+            "labor": "Wrap,Markum"
         },
         "betomEnglishName": "",
         "betomID": "",
@@ -6411,61 +6391,5 @@ PropertiesBetoms = [
             "betomQuote": []
         },
         "dev": []
-    },
-    {
-        "betomKebab": "Markate-Div",
-        "betomglyf": {
-            "labor": "Markate",
-            "via": "Div"
-        },
-        "betomEnglishName": "",
-        "betomID": "",
-        "betomAlias": [],
-        "betomDescription": [],
-        "betomBetanyms": [],
-        "betomProfilePic": "",
-        "betomExample": {
-            "betomVideo": [],
-            "betomImage": [],
-            "betomQuote": []
-        },
-        "dev": []
     }
 ]
-
-import re
-import string
-
-def MakeKebabFromGlyf(GlyfDict):
-    GlyfList = []
-
-    non_empty_values = [value for value in GlyfDict.values() if value]
-    
-    GlyfList.extend(non_empty_values)
-
-    output_string = "-".join(GlyfList)
-
-    # Create a translation table that maps all punctuation characters to a hyphen
-    # The use of re.escape ensures special regex characters in string.punctuation
-    # are handled correctly.
-    punctuation_pattern = '[' + re.escape(string.punctuation) + ']'
-  
-  # Use re.sub to replace any character matching the pattern with a hyphen
-    return re.sub(punctuation_pattern, '-', output_string)
-    
-
-for betom in PropertiesBetoms:
-    Kebab = betom["betomKebab"]
-    GlyfDict = betom["betomglyf"]
-
-    Glyf = MakeKebabFromGlyf(GlyfDict)
-
-    
-
-    if not Kebab == Glyf:
-        print(Kebab)
-        print(Glyf)
-        print()
- 
-        
-
