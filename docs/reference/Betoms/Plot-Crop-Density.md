@@ -6,7 +6,9 @@ search: false
 BetomName=""
 </script>
 
-# <BB labor="Plantafor.Strap" via="Site"/>
+# <BB labor="Plot.Crop" via="Density"/>
+
+Density of Crops
 
 ---
 
@@ -17,6 +19,6 @@ BetomName=""
 <!-- =================================================== -->
 ::: details &
 
--
+- <BB labor="Plot.Mikrosite" via="Density"/>
 
 :::

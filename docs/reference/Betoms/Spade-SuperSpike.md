@@ -6,7 +6,10 @@ search: false
 BetomName=""
 </script>
 
-# <BB labor="Plantafor.Strap" via="Site"/>
+# <BB labor="Spade.SuperSpike" />
+
+- Superman Punch
+- 300 Spartan Jumping Thrust
 
 ---
 
@@ -17,6 +20,6 @@ BetomName=""
 <!-- =================================================== -->
 ::: details &
 
--
+- Spike is what you use to get the Blade into the Soil, then you <BB labor="Spade.Dilate"/>
 
 :::

@@ -6,7 +6,7 @@ search: false
 BetomName=""
 </script>
 
-# <BB labor="Plantafor.Strap" via="Site"/>
+# <BB soma="Korpo" via="Posture"/>
 
 ---
 
@@ -17,6 +17,9 @@ BetomName=""
 <!-- =================================================== -->
 ::: details &
 
--
+- NeutralShoulderPosture
+- ExternalHumerusRotationPosture
+    - Palm direction while walking
+        - ❌<error>Palm Facing Posterior</error>
 
 :::

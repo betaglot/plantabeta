@@ -1,1 +1,1 @@
-# <BB  />
+# <BB labor="Shift" motor="Time" />

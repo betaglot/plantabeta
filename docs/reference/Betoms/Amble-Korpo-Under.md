@@ -6,7 +6,7 @@ search: false
 BetomName=""
 </script>
 
-# <BB labor="Plantafor.Strap" via="Site"/>
+# <BB labor="Amble" soma="Korpo" via="Under"/>
 
 ---
 
@@ -19,4 +19,5 @@ BetomName=""
 
 -
 
+- "Aktion.BodyAktion.StepUnderLog"
 :::

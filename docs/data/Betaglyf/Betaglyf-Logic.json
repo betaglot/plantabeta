@@ -596,7 +596,6 @@
         "Moss",
         "Panel",
         "Plants",
-        "Plast",
         "Prokline",
         "Rain",
         "Rekline",
@@ -719,10 +718,6 @@
             "SubLabon2"
         ],
         "Plants": [
-            "SubLabon1",
-            "SubLabon2"
-        ],
-        "Plast": [
             "SubLabon1",
             "SubLabon2"
         ],

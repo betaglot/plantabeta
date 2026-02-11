@@ -6,7 +6,9 @@ search: false
 BetomName=""
 </script>
 
-# <BB labor="Plantafor.Strap" via="Site"/>
+# <BB labor="Spade.Allos" />
+
+Aliases: Hand Swap, Hand Switch
 
 ---
 

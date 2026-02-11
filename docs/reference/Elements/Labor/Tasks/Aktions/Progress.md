@@ -1,12 +1,15 @@
----
-aside: false
-search: false
----
 <script setup>
-BetomName=""
+import ElementInfo from '/vue/ElementPage/Page-ElementInfo.vue'
+import ElementTaxonomy from '/vue/ElementPage/Header-ElementTaxonomy.vue'
+let elementName = "Progress"
+
 </script>
 
-# <BB labor="Plantafor.Strap" via="Site"/>
+# ⭐<span class="labor">Progress</span>
+
+<ElementTaxonomy :elementName="elementName" />
+
+<ElementInfo :elementName=elementName />
 
 ---
 

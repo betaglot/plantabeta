@@ -6,7 +6,17 @@ search: false
 BetomName=""
 </script>
 
-# <BB labor="Plantafor.Strap" via="Site"/>
+# <BB labor="Run" motor="Initiation" />
+
+## Related 🟩EKOS
+
+- 🟩SteepSlope
+    - RunStart too gain momentum to climb a SteepSlope
+
+### Related 🟠Motor
+
+- 🟠Jump
+    - RunStart too gain momentum to Jump horizontally
 
 ---
 
@@ -19,4 +29,5 @@ BetomName=""
 
 -
 
+- "Aktion.LegAktion.RunningStart"
 :::

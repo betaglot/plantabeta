@@ -6,7 +6,11 @@ search: false
 BetomName=""
 </script>
 
-# <BB labor="Plantafor.Strap" via="Site"/>
+# <BB labor="Spade.Handle.Dimano" />
+
+> Gripping the Spade Handle with both hands
+
+Aliases: Handle Match
 
 ---
 
@@ -17,6 +21,7 @@ BetomName=""
 <!-- =================================================== -->
 ::: details &
 
--
+- SpadeMuscleUp
+- SpadePogo
 
 :::

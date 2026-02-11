@@ -20,7 +20,7 @@ BetomName=""
 - [Kryos|Arm]
 - Dimano
     - CollarMano
-    - PlastMano
+    - HandleMano
 - SteepSlopeClimb
 - SelfArrest
     - IceAxe

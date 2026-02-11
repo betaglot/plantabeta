@@ -2,11 +2,12 @@
 aside: false
 search: false
 ---
+
 <script setup>
 BetomName=""
 </script>
 
-# <BB labor="Plantafor.Strap" via="Site"/>
+# <BB labor="Team.Taktik.Cross" />
 
 ---
 

@@ -6,7 +6,7 @@ search: false
 BetomName=""
 </script>
 
-# <BB labor="Plantafor.Strap" via="Site"/>
+# <BB labor="Retrakt" soma="Head"/>
 
 ---
 
@@ -19,4 +19,5 @@ BetomName=""
 
 -
 
+- "Aktion.HeadAktion.HeadRetraction"
 :::

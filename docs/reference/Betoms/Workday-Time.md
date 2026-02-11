@@ -6,7 +6,7 @@ search: false
 BetomName=""
 </script>
 
-# <BB labor="Plantafor.Strap" via="Site"/>
+# <BB labor="Workday" motor="Time" />
 
 ---
 
@@ -17,6 +17,9 @@ BetomName=""
 <!-- =================================================== -->
 ::: details &
 
--
+- WorkdayFinishTime
+    - Be at the Trucks by `time`
+    - We're rolling at `time`
+    - Plant until `time`
 
 :::

@@ -6,7 +6,7 @@ search: false
 BetomName=""
 </script>
 
-# <BB labor="Stand" />
+# <BB labor="Stand" soma="Korpo"/>
 
 ---
 
@@ -17,8 +17,14 @@ BetomName=""
 <!-- =================================================== -->
 ::: details &
 
-- Balance
-- MountainPose
-- AktionnAxiom
+- Stand != Standing
+- Stand == Verb
+- SpadeMuscleUp
+- TrunkAktion
+    - Pull on Trunk to StandUp
+- SitToStand
+- BagSpill often occurs during GetUp
+    - Contents shifted
+    - Angle of Bag
 
 :::

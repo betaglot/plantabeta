@@ -323,7 +323,7 @@ search: false
     - ArmExternalRotation
     - InsideGrip twirl
     - OutsideGrip has no twirl
-    - Grip loop and Plast at same time
+    - Grip loop and Handle at same time
     - TailDrag
     - Loop, Markum and Tail
     - ManoSlide.Distal

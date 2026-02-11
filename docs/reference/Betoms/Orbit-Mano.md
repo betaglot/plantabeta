@@ -20,7 +20,7 @@ BetomName=""
 - Orbit = Revolve
 - Orbit could be around a Cylinder or Sphere
 - ManoOrbit.SubAktion(ManoSlide)
-- ManoOrbit around Collar, Plast, trunk, branch
+- ManoOrbit around Collar, Handle, trunk, branch
 - IsometricContraction
 - SuperAktion(SpadeOnda, SpadeMuscleUp, SpadeSpike)
 - ManoOrbit

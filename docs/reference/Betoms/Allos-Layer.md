@@ -6,7 +6,7 @@ search: false
 BetomName=""
 </script>
 
-# <BB labor="Plantafor.Strap" via="Site"/>
+# <BB labor="Allos,Layer" />
 
 ---
 
@@ -17,6 +17,7 @@ BetomName=""
 <!-- =================================================== -->
 ::: details &
 
+- Allos == Swap, Other
 -
 
 :::

@@ -36,12 +36,4 @@ let elementName = "Markum"
     - WildlifeTreePatch
     - RiparianArea
 
-- KLIMBETA.LaborMarkum
-    - RouteTape is LaborMarkum
-    - BonusHold
-    - RouteBoundary
-    - FinishSiteMarkum
-        - Site and not Plast since you can start on a Sidewall
-    - StartSiteMarkum
-
 :::

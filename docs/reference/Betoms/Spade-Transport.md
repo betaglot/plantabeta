@@ -20,6 +20,6 @@ BetomName=""
 ::: details &
 
 - SpadeCollarMano
-- SpadePlastMano
+- SpadeHandleMano
     - Use in Terrain where you may need to SpadeAma
 :::
