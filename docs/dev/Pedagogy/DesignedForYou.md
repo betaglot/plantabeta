@@ -140,7 +140,7 @@ Beta is composed of four types, each of which can be represented by an icon:
 
 - 🔻<span class="via">⭐<span class="labor">Marka</span>-❌<error>Error</error></span>: Attempt to high Marka in fill plants whenever possible. The Marka may fall to the ground, but it's worth taking the chance since a high Marka is more valuable than the time wasted from a HighMarka Fail.
 
-- <span class="beta">Lesson</span>: Point out microsites so Planter can work on walking speed while not thinking about SiteSelection
+- <span class="beta">Lesson</span>: Point out Mikrosites so Planter can work on walking speed while not thinking about SiteSelection
     - Isolate Elements, Isolate Skills. Decompose Elements into subelements then instruct them in isolation.
 
 - <span class="beta">Lesson</span>: Follow the instructor. Follow the instructor while they plant. Instructor can make error on purpose to test student's 💜<span class="anima">ErrorDetection</span> ability. You integrate information more deeply when teaching it, students become teachers in this lesson.

@@ -214,7 +214,7 @@ EKOS is decomposed by composing a VIA
 - PlantingProcess_LastBagUp_FinishByTreeCount_TargetTreeCount
 - PlantingProcess_LastBagUp_WalkOut_WalkOutTime
 - PlantingProcess_Replant_MissedLand_TreeMarka
-- PlantingProcess_Replant_MissedMicrosite_TreeMarka
+- PlantingProcess_Replant_MissedMikrosite_TreeMarka
 
 > Optimal vialine has zero displacement from via start to via finish, both are at the cache
 

@@ -657,10 +657,10 @@ const elementsList = JSON.parse(`[
         }
     },
     {
-        "elementName": "Tactics",
+        "elementName": "Taktiks",
         "elementFaktor": "Labor",
         "elementID": "",
-        "elementPath": "Labor,Tactics",
+        "elementPath": "Labor,Taktiks",
         "elementAlias": [],
         "elementDescription": "a specific action intended to get a particular result",
         "elementIkon": "",

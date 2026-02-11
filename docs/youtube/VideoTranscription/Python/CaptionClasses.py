@@ -2,21 +2,21 @@
 Each Class represents a BetaElement
 """
 
-class Brazo:
+class Arm:
     class Anterior:
         class Glove:
             class Rock:
                 class Down:
                     def Ama():
-                        print("Brazo.Anterior.Glove_Rock_Down_Ama")
+                        print("Arm.Anterior.Glove_Rock_Down_Ama")
     class Lateral:
         class Stump:
             class Up:
-                def BrazoAma():
-                        print("Brazo.Anterior_Stump_Down_Ama")
+                def ArmAma():
+                        print("Arm.Anterior_Stump_Down_Ama")
             class Down:
-                def BrazoAma():
-                    print("Brazo.Anterior_Stump_Down_Ama")
+                def ArmAma():
+                    print("Arm.Anterior_Stump_Down_Ama")
 
 
 

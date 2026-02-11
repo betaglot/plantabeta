@@ -278,7 +278,7 @@ search: false
 - The backs of pieces. Piece distal to road is more raw since less slash has been dragged through it
 - The space between road and piles is often better than prep
 - Raw is a continuum
-- SpadeLeg and BrazoOnda and Spade.Moton at same time
+- SpadeLeg and ArmOnda and Spade.Moton at same time
     - DuckStep during SpadeSlam uses the same physics as a double universal pendulum's motion  
 - Gather data for Betaglot
     - Strava
@@ -303,7 +303,7 @@ search: false
     - Accordion reinforced folds
 - Rotate blade to perpendicular to cut roots during skim
     - Perpendicular Blade leads with BladeEdge therefore increases pressure on Impakt
-- NeoAktion Brazo thread through straps during PlantaforOn
+- NeoAktion Arm thread through straps during PlantaforOn
 - Soil type affords Hole variation
     - Derivative isn't variation
     - Soil type determines hole
@@ -320,7 +320,7 @@ search: false
     - RadialLine
     - Center==Spade
     - Maintain tension like walking a dog
-    - BrazoExternalRotation
+    - ArmExternalRotation
     - InsideGrip twirl
     - OutsideGrip has no twirl
     - Grip loop and Plast at same time
@@ -455,7 +455,7 @@ search: false
 - MarkumDev
     - Blue ink qr code for flag
     - What happens if you tile a qr code, does it mess up the reading. What is the minimum spacing between qrcodes relative to size
-- [Step, (Brazo, Finger)]
+- [Step, (Arm, Finger)]
     - Arms can step
     - Fingers can step
     - Step your arms

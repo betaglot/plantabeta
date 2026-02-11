@@ -57,11 +57,11 @@ Aliases: SpadeSlam, SpadeThrow, SpadeChop
     - SpadeStall like Spear fishing
     - ManoCompress to lock Spade Orientation until SpadeImpact
 - LeadingWithBase
-    - Bend your Knees first then BrazoOnda
+    - Bend your Knees first then ArmOnda
 - SpadeSpike.BackOnda
 - HandleMano
     - IsometricMano, GentleMano, LooseMano
-- BrazoAbsorb
+- ArmAbsorb
     - Rock
     - Listen to SoilSound on Kontakt
         - How to describe the sounds of Sand, Gravel, Rock, RockScrape, Root, RedRot, Cream, DirectHit, Mud?

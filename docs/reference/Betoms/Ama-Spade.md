@@ -28,7 +28,7 @@ BetomName=""
 - Sinkron(BaseSkreef)
     - To Support UpperBody during BaseSkreef
 - Sinkron(NeonInsert)
-    - BrazoEccentric(Flexion, Elevation) to support Korpo during NeonInsert
+    - ArmEccentric(Flexion, Elevation) to support Korpo during NeonInsert
 - ManoHandleCompress
 - SpadeAnteriorAma
 - SpadePosteriorAma

@@ -19,5 +19,5 @@ def CreateCaptionClass(
     print(f"                    def {MOTONs}():")
     print(f'                        print("{beta}.{PlanterZone}.{labor}_{ekos}_{via}_{MOTONs}")')
 
-CreateCaptionClass("Brazo","Anterior","Glove","Rock","Down","Ama")
+CreateCaptionClass("Arm","Anterior","Glove","Rock","Down","Ama")
 

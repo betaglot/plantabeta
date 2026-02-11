@@ -8,7 +8,7 @@ BetomName=""
 
 # <BB labor="Ballista"  ekos="Log" />
 
-> Launch a Log away from microsite with your leg
+> Launch a Log away from Mikrosite with your leg
 
 No Impact
 

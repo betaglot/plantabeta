@@ -35,7 +35,7 @@ search: false
 
 - As a group, went through each Planter's piece and took plots.
 - Discussed why each tree was good or bad, and how to properly take plots.
-- Explained how to pick a microsite
+- Explained how to pick a Mikrosite
 
 ### 1-4
 
@@ -73,7 +73,7 @@ search: false
 
 ### 💜<span class="anima">ANIMA</span>
 
-- picking a microsite
+- picking a Mikrosite
 
 ---
 

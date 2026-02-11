@@ -17,6 +17,8 @@ BetomName=""
 <!-- =================================================== -->
 ::: details &
 
--
+- Collar
+- RootPod
+- Needle as in <BB labor="Eval,Neon"/> needle test for tightness of Neon in the ground
 
 :::

@@ -101,7 +101,7 @@
     "dev": []
     },
     {
-    "betomKebab": "Amble-Brazo",
+    "betomKebab": "Amble-Arm",
     "betomglyf": {"labor"="Amble" ,"soma"="Arm"
     },
     "betomEnglishName": "",
@@ -730,8 +730,8 @@
     "dev": []
     },
     {
-    "betomKebab": "Error-Microsite",
-    "betomglyf": {"labor"="Error,Microsite"
+    "betomKebab": "Error-Mikrosite",
+    "betomglyf": {"labor"="Error,Mikrosite"
     },
     "betomEnglishName": "",
     "betomID": "",
@@ -986,7 +986,7 @@
     },
     {
     "betomKebab": "Hook-Arm",
-    "betomglyf": {"labor"="Hook" ,"soma"="Brazo"
+    "betomglyf": {"labor"="Hook" ,"soma"="Arm"
     },
     "betomEnglishName": "",
     "betomID": "",
@@ -1257,8 +1257,8 @@
     "dev": []
     },
     {
-    "betomKebab": "Kompakt-Brazo",
-    "betomglyf": {"labor"="Kompakt.Brazo"
+    "betomKebab": "Kompakt-Arm",
+    "betomglyf": {"labor"="Kompakt.Arm"
     },
     "betomEnglishName": "",
     "betomID": "",
@@ -1631,7 +1631,7 @@
     "dev": []
     },
     {
-    "betomKebab": "Kryos-Brazo",
+    "betomKebab": "Kryos-Arm",
     "betomglyf": {"labor"="Kryos" ,"soma"="Arm"
     },
     "betomEnglishName": "",
@@ -2294,8 +2294,8 @@
     "dev": []
     },
     {
-    "betomKebab": "Microsite-Aktion",
-    "betomglyf": {"labor"="Microsite.Aktion"
+    "betomKebab": "Mikrosite-Aktion",
+    "betomglyf": {"labor"="Mikrosite.Aktion"
     },
     "betomEnglishName": "",
     "betomID": "",
@@ -2311,8 +2311,8 @@
     "dev": []
     },
     {
-    "betomKebab": "Microsite-Dilate",
-    "betomglyf": {"labor"="Microsite.Dilate"
+    "betomKebab": "Mikrosite-Dilate",
+    "betomglyf": {"labor"="Mikrosite.Dilate"
     },
     "betomEnglishName": "",
     "betomID": "",
@@ -2328,8 +2328,8 @@
     "dev": []
     },
     {
-    "betomKebab": "Microsite-Eval",
-    "betomglyf": {"labor"="Microsite.Eval"
+    "betomKebab": "Mikrosite-Eval",
+    "betomglyf": {"labor"="Mikrosite.Eval"
     },
     "betomEnglishName": "",
     "betomID": "",
@@ -2345,8 +2345,8 @@
     "dev": []
     },
     {
-    "betomKebab": "Microsite-Klose",
-    "betomglyf": {"labor"="Microsite.Klose"
+    "betomKebab": "Mikrosite-Klose",
+    "betomglyf": {"labor"="Mikrosite.Klose"
     },
     "betomEnglishName": "",
     "betomID": "",
@@ -2362,8 +2362,8 @@
     "dev": []
     },
     {
-    "betomKebab": "Microsite-Marka",
-    "betomglyf": {"labor"="Microsite,Markum"
+    "betomKebab": "Mikrosite-Marka",
+    "betomglyf": {"labor"="Mikrosite,Markum"
     },
     "betomEnglishName": "",
     "betomID": "",
@@ -2379,8 +2379,8 @@
     "dev": []
     },
     {
-    "betomKebab": "Microsite-Open",
-    "betomglyf": {"labor"="Microsite.Open"
+    "betomKebab": "Mikrosite-Open",
+    "betomglyf": {"labor"="Mikrosite.Open"
     },
     "betomEnglishName": "",
     "betomID": "",
@@ -2396,7 +2396,7 @@
     "dev": []
     },
     {
-    "betomKebab": "Microsite-Proximity",
+    "betomKebab": "Mikrosite-Proximity",
     "betomglyf": {,"via"="Proximity"
     },
     "betomEnglishName": "",
@@ -2413,7 +2413,7 @@
     "dev": []
     },
     {
-    "betomKebab": "Microsite-Select",
+    "betomKebab": "Mikrosite-Select",
     "betomglyf": {"labor"="Select,Neosite"
     },
     "betomEnglishName": "",
@@ -2430,8 +2430,8 @@
     "dev": []
     },
     {
-    "betomKebab": "Microsite-Skreef",
-    "betomglyf": {"labor"="Microsite"  ,"ekos"="Skreef"
+    "betomKebab": "Mikrosite-Skreef",
+    "betomglyf": {"labor"="Mikrosite"  ,"ekos"="Skreef"
     },
     "betomEnglishName": "",
     "betomID": "",
@@ -2957,7 +2957,7 @@
     "dev": []
     },
     {
-    "betomKebab": "Onda-Brazo",
+    "betomKebab": "Onda-Arm",
     "betomglyf": {"labor"="Onda" ,"soma"="Arm"
     },
     "betomEnglishName": "",
@@ -3213,7 +3213,7 @@
     },
     {
     "betomKebab": "Piece-Div",
-    "betomglyf": {"labor"="Piece.Tactic"   ,"via"="Div"
+    "betomglyf": {"labor"="Piece.Taktik"   ,"via"="Div"
     },
     "betomEnglishName": "",
     "betomID": "",
@@ -3230,7 +3230,7 @@
     },
     {
     "betomKebab": "Piece-OpenEnded",
-    "betomglyf": {"labor"="Piece.Tactic"   ,"via"="OpenEnded"
+    "betomglyf": {"labor"="Piece.Taktik"   ,"via"="OpenEnded"
     },
     "betomEnglishName": "",
     "betomID": "",
@@ -3247,7 +3247,7 @@
     },
     {
     "betomKebab": "Piece-Perimeter",
-    "betomglyf": {"labor"="Piece.Tactic"   ,"via"="Perimeter"
+    "betomglyf": {"labor"="Piece.Taktik"   ,"via"="Perimeter"
     },
     "betomEnglishName": "",
     "betomID": "",
@@ -3281,7 +3281,7 @@
     },
     {
     "betomKebab": "Piece-Straigten",
-    "betomglyf": {"labor"="Piece.Tactic"   ,"via"="ConcaveHull"
+    "betomglyf": {"labor"="Piece.Taktik"   ,"via"="ConcaveHull"
     },
     "betomEnglishName": "",
     "betomID": "",
@@ -5472,7 +5472,7 @@
     },
     {
     "betomKebab": "Team-Passage-Bounce",
-    "betomglyf": {"labor"="Team.Tactic.Bounce"
+    "betomglyf": {"labor"="Team.Taktik.Bounce"
     },
     "betomEnglishName": "",
     "betomID": "",
@@ -5489,7 +5489,7 @@
     },
     {
     "betomKebab": "Team-Passage-Cross",
-    "betomglyf": {"labor"="Team.Tactic.Cross"
+    "betomglyf": {"labor"="Team.Taktik.Cross"
     },
     "betomEnglishName": "",
     "betomID": "",
@@ -5506,7 +5506,7 @@
     },
     {
     "betomKebab": "Team-Passage",
-    "betomglyf": {"labor"="Team.Tactic"
+    "betomglyf": {"labor"="Team.Taktik"
     },
     "betomEnglishName": "",
     "betomID": "",
@@ -5641,7 +5641,7 @@
     "dev": []
     },
     {
-    "betomKebab": "Toggle-Brazo",
+    "betomKebab": "Toggle-Arm",
     "betomglyf": {"labor"="Iguana" ,"soma"="Arm"
     },
     "betomEnglishName": "",

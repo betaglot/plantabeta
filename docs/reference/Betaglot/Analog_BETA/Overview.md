@@ -19,7 +19,7 @@ This each line are analog pairs. The equal signs = denotes where Climbing and Pl
 |                      <span class="ekos">Wall</span> | <span class="ekos">Land</span>                   |
 |              <span class="ekos">Wall Section</span> | <span class="ekos">Area</span>                   |
 |          <span class="via">Contact</span> = | = <span class="via">Contact</span>       |
-|                      <span class="via">Hold</span> | <span class="via">Microsite</span>              |
+|                      <span class="via">Hold</span> | <span class="via">Mikrosite</span>              |
 |                    <span class="ekos">Volume</span> | <span class="ekos">Mound, Trench</span>          |
 |                 <span class="ekos">WallAngle</span> | <span class="ekos">SlopeAngle</span>             |
 |            <span class="motor">ClimbingShoe</span> | <span class="motor">PlantingBoot</span>         |

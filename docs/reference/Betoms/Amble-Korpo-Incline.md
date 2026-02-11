@@ -19,7 +19,7 @@ BetomName=""
 
 - InclineTraverseWalk
     - LeanIntoIncline
-        - BrazoAma
+        - ArmAma
         - SpadeAmble
         - BranchMano to minimize DownSlopeForces on Foot to prevent FootSlip
     - Spade on UpSlope side

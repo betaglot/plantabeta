@@ -17,6 +17,6 @@ BetomName=""
 <!-- =================================================== -->
 ::: details &
 
-- Progress down to a Hole is more than just BrazoProgress
+- Progress down to a Hole is more than just ArmProgress
 
 :::

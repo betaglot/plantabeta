@@ -1016,84 +1016,84 @@
         "Namespace": "reference/MOTONs/TeoriMOTONs/PropositionsMOTONs/TeoremsMOTONs/PlanterMOTONs/BaseMOTONs/TeoremsBaseKontakt"
     },
     {
-        "ElementName": "BrazoMOTONs",
-        "Namespace": "reference/MOTONs/TeoriMOTONs/PropositionsMOTONs/TeoremsMOTONs/PlanterMOTONs/BrazoMOTONs"
+        "ElementName": "ArmMOTONs",
+        "Namespace": "reference/MOTONs/TeoriMOTONs/PropositionsMOTONs/TeoremsMOTONs/PlanterMOTONs/ArmMOTONs"
     },
     {
-        "ElementName": "BrazoAma",
-        "Namespace": "reference/MOTONs/TeoriMOTONs/PropositionsMOTONs/TeoremsMOTONs/PlanterMOTONs/BrazoMOTONs/BrazoAma"
+        "ElementName": "ArmAma",
+        "Namespace": "reference/MOTONs/TeoriMOTONs/PropositionsMOTONs/TeoremsMOTONs/PlanterMOTONs/ArmMOTONs/ArmAma"
     },
     {
-        "ElementName": "BrazoAnteriorAma",
-        "Namespace": "reference/MOTONs/TeoriMOTONs/PropositionsMOTONs/TeoremsMOTONs/PlanterMOTONs/BrazoMOTONs/BrazoAma/BrazoAnteriorAma"
+        "ElementName": "ArmAnteriorAma",
+        "Namespace": "reference/MOTONs/TeoriMOTONs/PropositionsMOTONs/TeoremsMOTONs/PlanterMOTONs/ArmMOTONs/ArmAma/ArmAnteriorAma"
     },
     {
-        "ElementName": "BrazoAnteriorUpAma",
-        "Namespace": "reference/MOTONs/TeoriMOTONs/PropositionsMOTONs/TeoremsMOTONs/PlanterMOTONs/BrazoMOTONs/BrazoAma/BrazoAnteriorAma/BrazoAnteriorUpAma"
+        "ElementName": "ArmAnteriorUpAma",
+        "Namespace": "reference/MOTONs/TeoriMOTONs/PropositionsMOTONs/TeoremsMOTONs/PlanterMOTONs/ArmMOTONs/ArmAma/ArmAnteriorAma/ArmAnteriorUpAma"
     },
     {
-        "ElementName": "BrazoAnterior_Down_Ama",
-        "Namespace": "reference/MOTONs/TeoriMOTONs/PropositionsMOTONs/TeoremsMOTONs/PlanterMOTONs/BrazoMOTONs/BrazoAma/BrazoAnteriorAma/BrazoAnterior_Down_Ama"
+        "ElementName": "ArmAnterior_Down_Ama",
+        "Namespace": "reference/MOTONs/TeoriMOTONs/PropositionsMOTONs/TeoremsMOTONs/PlanterMOTONs/ArmMOTONs/ArmAma/ArmAnteriorAma/ArmAnterior_Down_Ama"
     },
     {
-        "ElementName": "BrazoAmble",
-        "Namespace": "reference/MOTONs/TeoriMOTONs/PropositionsMOTONs/TeoremsMOTONs/PlanterMOTONs/BrazoMOTONs/BrazoAmble"
+        "ElementName": "ArmAmble",
+        "Namespace": "reference/MOTONs/TeoriMOTONs/PropositionsMOTONs/TeoremsMOTONs/PlanterMOTONs/ArmMOTONs/ArmAmble"
     },
     {
-        "ElementName": "BrazoCompress",
-        "Namespace": "reference/MOTONs/TeoriMOTONs/PropositionsMOTONs/TeoremsMOTONs/PlanterMOTONs/BrazoMOTONs/BrazoCompress"
+        "ElementName": "ArmCompress",
+        "Namespace": "reference/MOTONs/TeoriMOTONs/PropositionsMOTONs/TeoremsMOTONs/PlanterMOTONs/ArmMOTONs/ArmCompress"
     },
     {
-        "ElementName": "BrazoError",
-        "Namespace": "reference/MOTONs/TeoriMOTONs/PropositionsMOTONs/TeoremsMOTONs/PlanterMOTONs/BrazoMOTONs/BrazoError"
+        "ElementName": "ArmError",
+        "Namespace": "reference/MOTONs/TeoriMOTONs/PropositionsMOTONs/TeoremsMOTONs/PlanterMOTONs/ArmMOTONs/ArmError"
     },
     {
-        "ElementName": "BrazoExRotation",
-        "Namespace": "reference/MOTONs/TeoriMOTONs/PropositionsMOTONs/TeoremsMOTONs/PlanterMOTONs/BrazoMOTONs/BrazoExRotation"
+        "ElementName": "ArmExRotation",
+        "Namespace": "reference/MOTONs/TeoriMOTONs/PropositionsMOTONs/TeoremsMOTONs/PlanterMOTONs/ArmMOTONs/ArmExRotation"
     },
     {
-        "ElementName": "BrazoExtension",
-        "Namespace": "reference/MOTONs/TeoriMOTONs/PropositionsMOTONs/TeoremsMOTONs/PlanterMOTONs/BrazoMOTONs/BrazoExtension"
+        "ElementName": "ArmExtension",
+        "Namespace": "reference/MOTONs/TeoriMOTONs/PropositionsMOTONs/TeoremsMOTONs/PlanterMOTONs/ArmMOTONs/ArmExtension"
     },
     {
-        "ElementName": "BrazoFlexion",
-        "Namespace": "reference/MOTONs/TeoriMOTONs/PropositionsMOTONs/TeoremsMOTONs/PlanterMOTONs/BrazoMOTONs/BrazoFlexion"
+        "ElementName": "ArmFlexion",
+        "Namespace": "reference/MOTONs/TeoriMOTONs/PropositionsMOTONs/TeoremsMOTONs/PlanterMOTONs/ArmMOTONs/ArmFlexion"
     },
     {
-        "ElementName": "BrazoHook",
-        "Namespace": "reference/MOTONs/TeoriMOTONs/PropositionsMOTONs/TeoremsMOTONs/PlanterMOTONs/BrazoMOTONs/BrazoHook"
+        "ElementName": "ArmHook",
+        "Namespace": "reference/MOTONs/TeoriMOTONs/PropositionsMOTONs/TeoremsMOTONs/PlanterMOTONs/ArmMOTONs/ArmHook"
     },
     {
-        "ElementName": "BrazoInRotation",
-        "Namespace": "reference/MOTONs/TeoriMOTONs/PropositionsMOTONs/TeoremsMOTONs/PlanterMOTONs/BrazoMOTONs/BrazoInRotation"
+        "ElementName": "ArmInRotation",
+        "Namespace": "reference/MOTONs/TeoriMOTONs/PropositionsMOTONs/TeoremsMOTONs/PlanterMOTONs/ArmMOTONs/ArmInRotation"
     },
     {
-        "ElementName": "BrazoKontakt",
-        "Namespace": "reference/MOTONs/TeoriMOTONs/PropositionsMOTONs/TeoremsMOTONs/PlanterMOTONs/BrazoMOTONs/BrazoKontakt"
+        "ElementName": "ArmKontakt",
+        "Namespace": "reference/MOTONs/TeoriMOTONs/PropositionsMOTONs/TeoremsMOTONs/PlanterMOTONs/ArmMOTONs/ArmKontakt"
     },
     {
-        "ElementName": "BrazoLock",
-        "Namespace": "reference/MOTONs/TeoriMOTONs/PropositionsMOTONs/TeoremsMOTONs/PlanterMOTONs/BrazoMOTONs/BrazoLock"
+        "ElementName": "ArmLock",
+        "Namespace": "reference/MOTONs/TeoriMOTONs/PropositionsMOTONs/TeoremsMOTONs/PlanterMOTONs/ArmMOTONs/ArmLock"
     },
     {
-        "ElementName": "BrazoOnda",
-        "Namespace": "reference/MOTONs/TeoriMOTONs/PropositionsMOTONs/TeoremsMOTONs/PlanterMOTONs/BrazoMOTONs/BrazoOnda"
+        "ElementName": "ArmOnda",
+        "Namespace": "reference/MOTONs/TeoriMOTONs/PropositionsMOTONs/TeoremsMOTONs/PlanterMOTONs/ArmMOTONs/ArmOnda"
     },
     {
-        "ElementName": "BrazoOrbit",
-        "Namespace": "reference/MOTONs/TeoriMOTONs/PropositionsMOTONs/TeoremsMOTONs/PlanterMOTONs/BrazoMOTONs/BrazoOrbit"
+        "ElementName": "ArmOrbit",
+        "Namespace": "reference/MOTONs/TeoriMOTONs/PropositionsMOTONs/TeoremsMOTONs/PlanterMOTONs/ArmMOTONs/ArmOrbit"
     },
     {
-        "ElementName": "BrazoPop",
-        "Namespace": "reference/MOTONs/TeoriMOTONs/PropositionsMOTONs/TeoremsMOTONs/PlanterMOTONs/BrazoMOTONs/BrazoPop"
+        "ElementName": "ArmPop",
+        "Namespace": "reference/MOTONs/TeoriMOTONs/PropositionsMOTONs/TeoremsMOTONs/PlanterMOTONs/ArmMOTONs/ArmPop"
     },
     {
-        "ElementName": "BrazoRockOver",
-        "Namespace": "reference/MOTONs/TeoriMOTONs/PropositionsMOTONs/TeoremsMOTONs/PlanterMOTONs/BrazoMOTONs/BrazoRockOver"
+        "ElementName": "ArmRockOver",
+        "Namespace": "reference/MOTONs/TeoriMOTONs/PropositionsMOTONs/TeoremsMOTONs/PlanterMOTONs/ArmMOTONs/ArmRockOver"
     },
     {
         "ElementName": "Frase",
-        "Namespace": "reference/MOTONs/TeoriMOTONs/PropositionsMOTONs/TeoremsMOTONs/PlanterMOTONs/BrazoMOTONs/Frase"
+        "Namespace": "reference/MOTONs/TeoriMOTONs/PropositionsMOTONs/TeoremsMOTONs/PlanterMOTONs/ArmMOTONs/Frase"
     },
     {
         "ElementName": "HeadMOTONs",

@@ -130,6 +130,36 @@ grid-template-columns: repeat(16, 1fr);
 5. <span class="motor">MOTOR</span>
 6. <span class="anima">ANIMA</span>
 
+### <span class="beta">BETOMGLYF</span> Symbols
+
+#### Square Brackets []
+
+<BB labor="Box.Transport" soma="" ekos="" via="" motor="" anima=""/>
+
+#### Pipe |
+
+<BB labor="Box.Transport" soma="" ekos="" via="2m" motor="" anima=""/>
+
+#### Comma ,
+
+<BB labor="Box.Transport" soma="" ekos="" via="2m,Right" motor="" anima=""/>
+
+#### Plus Sign +
+
+<BB labor="Box.Transport" soma="" ekos="" via="2m,Right" motor="" anima=""/>
+
+#### Parenthesis ()
+
+#### Double Quotes ""
+
+#### Left Side <<  
+
+#### Right Side >>
+
+#### Both Sides <>
+
+<BB soma="<>Arm"/> is the same as <BB soma="Arm+Arm"/>
+
 <BetomList />
 
 ---

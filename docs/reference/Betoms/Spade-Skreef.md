@@ -46,7 +46,7 @@ search: false
 - SpadeXSkreef
     - CollarHand crosses from left to right while skreefing, making an X with the shaft and also an X shaped skreef on the ground
     - Use when skreefing through a thick layer of duff which is collapsing into the site
-    - Use when skreefing through a loose layer of duff to search for the best microsite
+    - Use when skreefing through a loose layer of duff to search for the best Mikrosite
 - ArmWrestleSkreef. ArmLock then use your whole body
 
 :::

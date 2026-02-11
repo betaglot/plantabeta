@@ -50,8 +50,8 @@ Purpose
 To increase speed
 To improve observation
 Remember landmarks for land management
-Decrease MicrositeSelection time
-Improve the quality and quantity of data to make a strategic decisions (like where to plant next (MicrositeSelection, LandMGMT, BodyAwareness))
+Decrease MikrositeSelection time
+Improve the quality and quantity of data to make a strategic decisions (like where to plant next (MikrositeSelection, LandMGMT, BodyAwareness))
 To reduce wasted time from mind wandering
 To cope with discomfort caused by LandTypes, Weather, Dehydration, RockyLand
 Reduce the refractory period of emotions to

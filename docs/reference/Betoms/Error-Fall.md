@@ -29,7 +29,7 @@ BetomName=""
     - "Catch your fall" before you get to the ground
     - ArmAbsborb
     - BodyAbsorb
-    - BrazoAma
+    - ArmAma
     - HandCatch
     - LegAbsorb
     - BaseAma

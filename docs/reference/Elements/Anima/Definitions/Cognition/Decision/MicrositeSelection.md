@@ -8,7 +8,7 @@ let elementName = ""
 
 </script>
 
-# 💜 <span class="anima">MicrositeSelection </span>
+# 💜 <span class="anima">MikrositeSelection </span>
 
 <!-- - Choose the particular side of the stump -->
 

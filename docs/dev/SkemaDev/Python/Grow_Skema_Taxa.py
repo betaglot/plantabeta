@@ -5,7 +5,7 @@ def AddTaks():
 
     directionsList = ["Up","Down","Medial","Distal"]
 
-    MOTONNameList = ["BrazoMOTON"]
+    MOTONNameList = ["ArmMOTON"]
 
     for namespace in namespaceList:
         

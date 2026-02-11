@@ -115,7 +115,7 @@ What fits the current BetaInstance?
 ### to provide
 
 - to provide support for such a long reach
-- that stump provides a good microsite for a tree
+- that stump provides a good Mikrosite for a tree
 - affords you the means to live this type of lifestyle
 
 ## Betaglot Examples

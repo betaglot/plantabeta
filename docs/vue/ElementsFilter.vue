@@ -1074,14 +1074,14 @@ const elements = [
     }
   },
   {
-    "elementEnglishName": "Tactic",
+    "elementEnglishName": "Taktik",
     "elementFaktor": "Labor",
     "elementIcon": "⭐",
     "elementEmblem": "",
     "elementID": "",
     "elementTaxonomy": [
       "Labor",
-      "Tactic"
+      "Taktik"
     ],
     "elementAlias": [],
     "elementDescription": "a specific action intended to get a particular result",

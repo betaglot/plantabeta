@@ -6,7 +6,7 @@ search: false
 BetomName=""
 </script>
 
-# <BB labor="Mano,Orbit" />
+# <BB labor="Mano.Orbit" />
 
 ---
 
@@ -17,6 +17,8 @@ BetomName=""
 <!-- =================================================== -->
 ::: details &
 
+- Orbit = Revolve
+- Orbit could be around a Cylinder or Sphere
 - ManoOrbit.SubAktion(ManoSlide)
 - ManoOrbit around Collar, Plast, trunk, branch
 - IsometricContraction

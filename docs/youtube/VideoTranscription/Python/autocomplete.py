@@ -33,7 +33,7 @@ def update(data):
 
 
 # Driver code 
-Planter = ('Brazo','Base','Korpo', 
+Planter = ('Arm','Base','Korpo', 
 	'Mano','Head') 
 
 

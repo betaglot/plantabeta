@@ -6,7 +6,7 @@ search: false
 BetomName=""
 </script>
 
-# <BB labor="Hinge" soma="Hip"/>
+# <BB labor="Hinge" soma="Korpo.Hip"/>
 
 ---
 

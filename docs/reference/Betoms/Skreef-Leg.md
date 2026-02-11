@@ -24,7 +24,7 @@ BetomName=""
 - Don't BaseSkreef Poa
 - Minimize BaseSkreef
 - Stabilize your body during BaseSkreef
-    - BrazoAma
+    - ArmAma
         - HandSmear on Trunk
     - SpadeAma
 

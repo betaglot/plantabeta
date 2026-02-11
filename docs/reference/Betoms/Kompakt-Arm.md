@@ -17,6 +17,6 @@ BetomName=""
 <!-- =================================================== -->
 ::: details &
 
-- Brazo_Kompact for Korpo_Slot
+- Arm_Kompact for Korpo_Slot
 
 :::

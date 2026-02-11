@@ -88,9 +88,9 @@ BetomName=""
     - Especially down walk
     - Down climb
 
-- BrazoAnteriorAma
-- BrazoPosteriorAma
-- BrazoLateralAma
+- ArmAnteriorAma
+- ArmPosteriorAma
+- ArmLateralAma
 
 - "Aktion.ArmAktion.[Ama|Arm]"
 

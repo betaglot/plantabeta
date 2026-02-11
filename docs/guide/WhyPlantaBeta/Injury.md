@@ -36,7 +36,7 @@ Wrist Tendonitis occurs from straining the tissues around the wrist. The strain 
 
 ## Christmas Toe
 
-Planters kick To remove the layer of organic material off an intended microsite. Christmas Toe is when your big toe becomes numb from all the kicking impacts and you only regain sensation around Christmas time (six months after the season is over). Christmas Toe not only affects feet, it also affects how Planters walk therefore affecting the biomechanics of the entire lower body.
+Planters kick To remove the layer of organic material off an intended Mikrosite. Christmas Toe is when your big toe becomes numb from all the kicking impacts and you only regain sensation around Christmas time (six months after the season is over). Christmas Toe not only affects feet, it also affects how Planters walk therefore affecting the biomechanics of the entire lower body.
 
 A greater knowledge of possible alternative moves can prevent Christmas Toe from ever occuring.
 

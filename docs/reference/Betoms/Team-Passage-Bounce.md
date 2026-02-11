@@ -6,7 +6,7 @@ search: false
 BetomName=""
 </script>
 
-# <BB labor="Team.Tactic.Bounce" />
+# <BB labor="Team.Taktik.Bounce" />
 
 ## 2PlanterBounceFill
 

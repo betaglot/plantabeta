@@ -164,9 +164,9 @@ search: false
 
 :::
 
-::: details Is this microsite too wet?
+::: details Is this Mikrosite too wet?
 
-> <span class="anima">Is</span> this <span class="labor">microsite</span> too <span class="ekos">wet</span>?
+> <span class="anima">Is</span> this <span class="labor">Mikrosite</span> too <span class="ekos">wet</span>?
 
 -
 
@@ -366,9 +366,9 @@ search: false
 
 :::
 
-::: details Is this microsite close enough to the obstacle?
+::: details Is this Mikrosite close enough to the obstacle?
 
-> <span class="anima">Is</span> this <span class="labor">microsite</span> <span class="via">close enough</span> to the <span class="labor">obstacle</span>?
+> <span class="anima">Is</span> this <span class="labor">Mikrosite</span> <span class="via">close enough</span> to the <span class="labor">obstacle</span>?
 
 -
 

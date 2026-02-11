@@ -20,6 +20,6 @@ let elementName = "Doru"
 <!-- =================================================== -->
 ::: details &
 
-- Distance height of microsite above foot equals distance from DoruNeck
+- Distance height of Mikrosite above foot equals distance from DoruNeck
 
 :::

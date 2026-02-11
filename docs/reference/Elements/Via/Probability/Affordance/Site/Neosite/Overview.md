@@ -20,10 +20,10 @@ let elementName = "Neosite"
 <!-- =================================================== -->
 ::: details &
 
-- <https://www2.gov.bc.ca/assets/gov/farming-natural-resources-and-industry/forestry/silviculture/micrositeselection_informedplanter.pdf>
+- <https://www2.gov.bc.ca/assets/gov/farming-natural-resources-and-industry/forestry/silviculture/Mikrositeselection_informedplanter.pdf>
 
 - Macrosite
-- Microsite
+- Mikrosite
 
 - Obstacle for Cows
 

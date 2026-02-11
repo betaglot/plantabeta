@@ -53,12 +53,12 @@ Sequence
 ```py
 
 for Tree in bag:
-    if ValidMicrosite:
+    if ValidMikrosite:
         Put(Tree)
         Get(Tree)
     else:
         Test()
-# test another Microsite
+# test another Mikrosite
 
 ```
 

@@ -39,7 +39,7 @@ Bottle
 BoulderSoil
 Box
 BranchBreakSound
-Brazo
+Arm
 Break
 Bryophyta
 Bundle
@@ -185,7 +185,7 @@ Lightning
 Limit
 LimitAnima
 LimitBase
-LimitBrazo
+LimitArm
 LimitKorpo
 LimitMOTON
 LimitMano
@@ -226,9 +226,9 @@ MaterialModifiers
 Memory
 MesicSoil
 Metods
-Microsite
-MicrositeMarka
-MicrositeSelection
+Mikrosite
+MikrositeMarka
+MikrositeSelection
 MidPoint
 Mindset
 MineralSoil

@@ -796,9 +796,9 @@ PropertiesBetoms = [
         "dev": []
     },
     {
-        "betomKebab": "Error-Microsite",
+        "betomKebab": "Error-Mikrosite",
         "betomglyf": {
-            "labor": "Error,Microsite"
+            "labor": "Error,Mikrosite"
         },
         "betomEnglishName": "",
         "betomID": "",
@@ -2488,9 +2488,9 @@ PropertiesBetoms = [
         "dev": []
     },
     {
-        "betomKebab": "Microsite-Aktion",
+        "betomKebab": "Mikrosite-Aktion",
         "betomglyf": {
-            "labor": "Microsite.Aktion"
+            "labor": "Mikrosite.Aktion"
         },
         "betomEnglishName": "",
         "betomID": "",
@@ -2506,9 +2506,9 @@ PropertiesBetoms = [
         "dev": []
     },
     {
-        "betomKebab": "Microsite-Dilate",
+        "betomKebab": "Mikrosite-Dilate",
         "betomglyf": {
-            "labor": "Microsite.Dilate"
+            "labor": "Mikrosite.Dilate"
         },
         "betomEnglishName": "",
         "betomID": "",
@@ -2524,9 +2524,9 @@ PropertiesBetoms = [
         "dev": []
     },
     {
-        "betomKebab": "Microsite-Eval",
+        "betomKebab": "Mikrosite-Eval",
         "betomglyf": {
-            "labor": "Microsite.Eval"
+            "labor": "Mikrosite.Eval"
         },
         "betomEnglishName": "",
         "betomID": "",
@@ -2542,9 +2542,9 @@ PropertiesBetoms = [
         "dev": []
     },
     {
-        "betomKebab": "Microsite-Klose",
+        "betomKebab": "Mikrosite-Klose",
         "betomglyf": {
-            "labor": "Microsite.Klose"
+            "labor": "Mikrosite.Klose"
         },
         "betomEnglishName": "",
         "betomID": "",
@@ -2560,9 +2560,9 @@ PropertiesBetoms = [
         "dev": []
     },
     {
-        "betomKebab": "Microsite-Marka",
+        "betomKebab": "Mikrosite-Marka",
         "betomglyf": {
-            "labor": "Microsite,Markum"
+            "labor": "Mikrosite,Markum"
         },
         "betomEnglishName": "",
         "betomID": "",
@@ -2578,9 +2578,9 @@ PropertiesBetoms = [
         "dev": []
     },
     {
-        "betomKebab": "Microsite-Open",
+        "betomKebab": "Mikrosite-Open",
         "betomglyf": {
-            "labor": "Microsite.Open"
+            "labor": "Mikrosite.Open"
         },
         "betomEnglishName": "",
         "betomID": "",
@@ -2596,7 +2596,7 @@ PropertiesBetoms = [
         "dev": []
     },
     {
-        "betomKebab": "Microsite-Proximity",
+        "betomKebab": "Mikrosite-Proximity",
         "betomglyf": {
             "via": "Proximity"
         },
@@ -2614,7 +2614,7 @@ PropertiesBetoms = [
         "dev": []
     },
     {
-        "betomKebab": "Microsite-Select",
+        "betomKebab": "Mikrosite-Select",
         "betomglyf": {
             "labor": "Select,Neosite"
         },
@@ -2632,9 +2632,9 @@ PropertiesBetoms = [
         "dev": []
     },
     {
-        "betomKebab": "Microsite-Skreef",
+        "betomKebab": "Mikrosite-Skreef",
         "betomglyf": {
-            "labor": "Microsite",
+            "labor": "Mikrosite",
             "ekos": "Skreef"
         },
         "betomEnglishName": "",
@@ -3498,7 +3498,7 @@ PropertiesBetoms = [
     {
         "betomKebab": "Piece-Div",
         "betomglyf": {
-            "labor": "Piece.Tactic",
+            "labor": "Piece.Taktik",
             "via": "Div"
         },
         "betomEnglishName": "",
@@ -3517,7 +3517,7 @@ PropertiesBetoms = [
     {
         "betomKebab": "Piece-OpenEnded",
         "betomglyf": {
-            "labor": "Piece.Tactic",
+            "labor": "Piece.Taktik",
             "via": "OpenEnded"
         },
         "betomEnglishName": "",
@@ -3536,7 +3536,7 @@ PropertiesBetoms = [
     {
         "betomKebab": "Piece-Perimeter",
         "betomglyf": {
-            "labor": "Piece.Tactic",
+            "labor": "Piece.Taktik",
             "via": "Perimeter"
         },
         "betomEnglishName": "",
@@ -3574,7 +3574,7 @@ PropertiesBetoms = [
     {
         "betomKebab": "Piece-Straigten",
         "betomglyf": {
-            "labor": "Piece.Tactic",
+            "labor": "Piece.Taktik",
             "via": "ConcaveHull"
         },
         "betomEnglishName": "",
@@ -5951,7 +5951,7 @@ PropertiesBetoms = [
     {
         "betomKebab": "Team-Passage",
         "betomglyf": {
-            "labor": "Team.Tactic"
+            "labor": "Team.Taktik"
         },
         "betomEnglishName": "",
         "betomID": "",
@@ -5969,7 +5969,7 @@ PropertiesBetoms = [
     {
         "betomKebab": "Team-Passage-Bounce",
         "betomglyf": {
-            "labor": "Team.Tactic.Bounce"
+            "labor": "Team.Taktik.Bounce"
         },
         "betomEnglishName": "",
         "betomID": "",
@@ -5987,7 +5987,7 @@ PropertiesBetoms = [
     {
         "betomKebab": "Team-Passage-Cross",
         "betomglyf": {
-            "labor": "Team.Tactic.Cross"
+            "labor": "Team.Taktik.Cross"
         },
         "betomEnglishName": "",
         "betomID": "",
