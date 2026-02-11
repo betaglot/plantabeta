@@ -2523,9 +2523,9 @@
         "dev": []
     },
     {
-        "betomKebab": "Layer-Base-Aktion",
+        "betomKebab": "Layer-BaseLayer-Aktion",
         "betomglyf": {
-            "labor": "Layer.Base.Aktion"
+            "labor": "Layer.BaseLayer.Aktion"
         },
         "betomEnglishName": "",
         "betomID": "",
