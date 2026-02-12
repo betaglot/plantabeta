@@ -23,6 +23,9 @@ let elementName = "Tops"
 - Jacket
 - Rain Shell
 - Insulation Layer
--
+- Sleeve
+- Collar
+- Hem
+- Cuff
 
 :::

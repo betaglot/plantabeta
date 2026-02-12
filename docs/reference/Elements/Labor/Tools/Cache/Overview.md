@@ -20,12 +20,25 @@ let elementName = "Cache"
 <!-- =================================================== -->
 ::: details &
 
-- PieceCache
-- RoadCache
-- SummerCache
-- SpringCache
+- <BB labor="Cutblock,Cache" soma="" ekos="" via="" motor="" anima=""/>
+- <BB labor="Piece,Cache" soma="" ekos="" via="" motor="" anima=""/>
+- <BB labor="Cache" soma="" ekos="Road" via="" motor="" anima=""/>
+- <BB labor="Cache" soma="" ekos="QuadTrail" via="" motor="" anima=""/>
+
+- SubTypes
+    - SummerCache
+    - SpringCache
+
 - CacheTarp
-- Eating
-- KitLocation
+    - Weights
+        - Rock
+        - Log
+        - Scrap Metal
+
+- ⭐<span class="labor">Aktions</span>
+    - Eating
+
+- 🔻<span class="via">Layout</span>
+    - KitLocation
 
 :::

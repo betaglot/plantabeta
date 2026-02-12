@@ -20,6 +20,6 @@ let elementName = "Arm"
 <!-- =================================================== -->
 ::: details &
 
--
+- The muscles listed are used to describe the different surfaces of the arm, ie the part of the skin or armor which covers the muscle
 
 :::

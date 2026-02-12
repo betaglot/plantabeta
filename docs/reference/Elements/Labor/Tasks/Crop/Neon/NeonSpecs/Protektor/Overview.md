@@ -1,16 +1,15 @@
----
-aside: false
-search: false
----
 <script setup>
-BetomName=""
+import ElementInfo from '/vue/ElementPage/Page-ElementInfo.vue'
+import ElementTaxonomy from '/vue/ElementPage/Header-ElementTaxonomy.vue'
+let elementName = "Protektor"
+
 </script>
 
-# <BB labor="Zelcro.Aktion" />
+# ⭐<span class="labor">Protektor</span>
 
-## ❌<error>ZelcroAktion.Error</error>
+<ElementTaxonomy :elementName="elementName" />
 
-- Dirt in Zelcro
+<ElementInfo :elementName=elementName />
 
 ---
 

@@ -20,6 +20,6 @@ let elementName = "CenterPoint"
 <!-- =================================================== -->
 ::: details &
 
--
+- Centroid
 
 :::

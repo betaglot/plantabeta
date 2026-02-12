@@ -1,11 +1,11 @@
 <script setup>
 import ElementInfo from '/vue/ElementPage/Page-ElementInfo.vue'
 import ElementTaxonomy from '/vue/ElementPage/Header-ElementTaxonomy.vue'
-let elementName = "Texture"
+let elementName = "Tarp"
 
 </script>
 
-# 🟩<span class="ekos">Texture</span>
+# ⭐<span class="labor">Tarp</span>
 
 <ElementTaxonomy :elementName="elementName" />
 
@@ -20,9 +20,14 @@ let elementName = "Texture"
 <!-- =================================================== -->
 ::: details &
 
-- Rough
-- Smooth
-- Soft
-- Hairy
+- Aktions
+    - Fold Tarp
+    - Unfold Tarp
+    - Weight Tarp
+    - Unweight Tarp
+    - Tarp.On
+    - Tarp.Off
+    - Tarp.Modify
+    - Tarp.Tent
 
 :::

@@ -1,15 +1,16 @@
+---
+aside: false
+search: false
+---
 <script setup>
-import ElementInfo from '/vue/ElementPage/Page-ElementInfo.vue'
-import ElementTaxonomy from '/vue/ElementPage/Header-ElementTaxonomy.vue'
-let elementName = "Texture"
-
+BetomName=""
 </script>
 
-# 🟩<span class="ekos">Texture</span>
+# <BB labor="Velcro.Aktion" />
 
-<ElementTaxonomy :elementName="elementName" />
+## ❌<error>ZelcroAktion.Error</error>
 
-<ElementInfo :elementName=elementName />
+- Dirt in Velcro
 
 ---
 
@@ -20,9 +21,6 @@ let elementName = "Texture"
 <!-- =================================================== -->
 ::: details &
 
-- Rough
-- Smooth
-- Soft
-- Hairy
+-
 
 :::

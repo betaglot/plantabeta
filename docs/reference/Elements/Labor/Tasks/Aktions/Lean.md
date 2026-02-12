@@ -1,11 +1,11 @@
 <script setup>
 import ElementInfo from '/vue/ElementPage/Page-ElementInfo.vue'
 import ElementTaxonomy from '/vue/ElementPage/Header-ElementTaxonomy.vue'
-let elementName = "Texture"
+let elementName = "Lean"
 
 </script>
 
-# 🟩<span class="ekos">Texture</span>
+# ⭐<span class="labor">Lean</span>
 
 <ElementTaxonomy :elementName="elementName" />
 
@@ -20,9 +20,7 @@ let elementName = "Texture"
 <!-- =================================================== -->
 ::: details &
 
-- Rough
-- Smooth
-- Soft
-- Hairy
+- Lean can be supported or unsupported
+    - Unsupported in running or lean into slope, lean into wind
 
 :::

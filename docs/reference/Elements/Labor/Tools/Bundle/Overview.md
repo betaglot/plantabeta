@@ -20,7 +20,8 @@ let elementName = "Bundle"
 <!-- =================================================== -->
 ::: details &
 
-- BundleWrap
+- Bundle.Unwrap
+- Bundle.Wrap
     - BlockClose
     - Wrap up excess trees
 - BundleTuck: Roll bundles in to bags during BagIn

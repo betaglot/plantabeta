@@ -1,11 +1,11 @@
 <script setup>
 import ElementInfo from '/vue/ElementPage/Page-ElementInfo.vue'
 import ElementTaxonomy from '/vue/ElementPage/Header-ElementTaxonomy.vue'
-let elementName = "Hips"
+let elementName = "Neonektomy"
 
 </script>
 
-# 🔷<span class="soma">Hips</span>
+# ⭐<span class="labor">Neonektomy</span>
 
 <ElementTaxonomy :elementName="elementName" />
 

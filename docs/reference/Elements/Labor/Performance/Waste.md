@@ -1,11 +1,11 @@
 <script setup>
 import ElementInfo from '/vue/ElementPage/Page-ElementInfo.vue'
 import ElementTaxonomy from '/vue/ElementPage/Header-ElementTaxonomy.vue'
-let elementName = "Texture"
+let elementName = "Waste"
 
 </script>
 
-# 🟩<span class="ekos">Texture</span>
+# ⭐<span class="labor">Waste</span>
 
 <ElementTaxonomy :elementName="elementName" />
 
@@ -20,9 +20,10 @@ let elementName = "Texture"
 <!-- =================================================== -->
 ::: details &
 
-- Rough
-- Smooth
-- Soft
-- Hairy
+- Waste of Energy
+- Waste of Tools
+- Waste of Neons
+- Waste of Markums
+- Waste of Time
 
 :::

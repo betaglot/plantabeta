@@ -41,5 +41,11 @@ let elementName = "Neon"
 ::: details &
 
 - The Seedlings that you're planting are not part of EKOS, they are brought to the Block by your company.
+- NeonAnatomy
+    - Stem
+    - RootPod
+    - Apical End
+    - Needle
+    - Leaf
 
 :::

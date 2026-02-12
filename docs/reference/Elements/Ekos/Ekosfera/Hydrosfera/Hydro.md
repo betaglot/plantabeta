@@ -1,11 +1,11 @@
 <script setup>
 import ElementInfo from '/vue/ElementPage/Page-ElementInfo.vue'
 import ElementTaxonomy from '/vue/ElementPage/Header-ElementTaxonomy.vue'
-let elementName = "Texture"
+let elementName = "Hydro"
 
 </script>
 
-# 🟩<span class="ekos">Texture</span>
+# 🟩<span class="ekos">Hydro</span>
 
 <ElementTaxonomy :elementName="elementName" />
 
@@ -20,9 +20,7 @@ let elementName = "Texture"
 <!-- =================================================== -->
 ::: details &
 
-- Rough
-- Smooth
-- Soft
-- Hairy
+- Wet
+- Thin layer of water on a surface
 
 :::
