@@ -1,11 +1,11 @@
 <script setup>
 import ElementInfo from '/vue/ElementPage/Page-ElementInfo.vue'
 import ElementTaxonomy from '/vue/ElementPage/Header-ElementTaxonomy.vue'
-let elementName = "PerimeterLine"
+let elementName = "Don"
 
 </script>
 
-# 🔻<span class="via">PerimeterLine</span>
+# ⭐<span class="labor">Don</span>
 
 <ElementTaxonomy :elementName="elementName" />
 
@@ -20,6 +20,6 @@ let elementName = "PerimeterLine"
 <!-- =================================================== -->
 ::: details &
 
--
+- Contraction of "Do on"
 
 :::
