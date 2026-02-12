@@ -1,15 +1,15 @@
 <script setup>
 import ElementInfo from '/vue/ElementPage/Page-ElementInfo.vue'
 import ElementTaxonomy from '/vue/ElementPage/Header-ElementTaxonomy.vue'
-// let elementName = "ClosestPair"
+let elementName = "Combinatorics"
 
 </script>
 
-# 🔻<span class="via">Closest Pair</span>
+# 🔻<span class="via">Combinatorics</span>
 
-<!-- <ElementTaxonomy :elementName="elementName" />
+<ElementTaxonomy :elementName="elementName" />
 
-<ElementInfo :elementName=elementName /> -->
+<ElementInfo :elementName=elementName />
 
 ---
 
@@ -21,3 +21,5 @@ import ElementTaxonomy from '/vue/ElementPage/Header-ElementTaxonomy.vue'
 ::: details &
 
 -
+
+:::

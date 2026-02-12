@@ -1,11 +1,11 @@
 <script setup>
 import ElementInfo from '/vue/ElementPage/Page-ElementInfo.vue'
 import ElementTaxonomy from '/vue/ElementPage/Header-ElementTaxonomy.vue'
-let elementName = "ConcaveHull"
+let elementName = "Dilate"
 
 </script>
 
-# 🔻<span class="via">Concave Hull</span>
+# ⭐<span class="labor">Dilate</span>
 
 <ElementTaxonomy :elementName="elementName" />
 
@@ -20,6 +20,8 @@ let elementName = "ConcaveHull"
 <!-- =================================================== -->
 ::: details &
 
--
+- Dilate is in x-axis
+- To make wider
+- To spread apart
 
 :::

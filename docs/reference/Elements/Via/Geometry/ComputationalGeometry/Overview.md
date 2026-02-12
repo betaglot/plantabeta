@@ -7,9 +7,9 @@ import ElementTaxonomy from '/vue/ElementPage/Header-ElementTaxonomy.vue'
 
 # 🔻<span class="via">Computational Geometry</span>
 
-<!-- <ElementTaxonomy :elementName="elementName" />
+<ElementTaxonomy :elementName="elementName" />
 
-<ElementInfo :elementName=elementName /> -->
+<ElementInfo :elementName=elementName />
 
 ---
 

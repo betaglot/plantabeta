@@ -1,11 +1,11 @@
 <script setup>
 import ElementInfo from '/vue/ElementPage/Page-ElementInfo.vue'
 import ElementTaxonomy from '/vue/ElementPage/Header-ElementTaxonomy.vue'
-let elementName = "Armor"
+let elementName = "Octad"
 
 </script>
 
-# ⭐<span class="labor">Armor</span>
+# 🔻<span class="via">Octad</span>
 
 <ElementTaxonomy :elementName="elementName" />
 
@@ -20,6 +20,6 @@ let elementName = "Armor"
 <!-- =================================================== -->
 ::: details &
 
-- Hoplite Shield
+-
 
 :::

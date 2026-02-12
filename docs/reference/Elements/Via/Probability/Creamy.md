@@ -1,11 +1,12 @@
+
 <script setup>
 import ElementInfo from '/vue/ElementPage/Page-ElementInfo.vue'
 import ElementTaxonomy from '/vue/ElementPage/Header-ElementTaxonomy.vue'
-let elementName = "ConcaveHull"
+let elementName = "Creamy"
 
 </script>
 
-# 🔻<span class="via">Concave Hull</span>
+# 🔻<span class="via">Creamy</span>
 
 <ElementTaxonomy :elementName="elementName" />
 
@@ -20,6 +21,8 @@ let elementName = "ConcaveHull"
 <!-- =================================================== -->
 ::: details &
 
--
-
+- "Cream Show"
+- Creamy
+- Definition: High Probability that the Sites or Piece will be easy to plant
+    - Expand on "easy"
 :::

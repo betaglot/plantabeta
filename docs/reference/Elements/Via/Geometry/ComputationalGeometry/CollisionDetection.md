@@ -1,15 +1,15 @@
 <script setup>
 import ElementInfo from '/vue/ElementPage/Page-ElementInfo.vue'
 import ElementTaxonomy from '/vue/ElementPage/Header-ElementTaxonomy.vue'
-// let elementName = "ClosestPair"
+let elementName = "CollisionDetection"
 
 </script>
 
 # 🔻<span class="via">Collision Detection</span>
 
-<!-- <ElementTaxonomy :elementName="elementName" />
+<ElementTaxonomy :elementName="elementName" />
 
-<ElementInfo :elementName=elementName /> -->
+<ElementInfo :elementName=elementName />
 
 ---
 
@@ -20,4 +20,6 @@ import ElementTaxonomy from '/vue/ElementPage/Header-ElementTaxonomy.vue'
 <!-- =================================================== -->
 ::: details &
 
--
+- Detect it before it happens like walking in crowds
+
+:::

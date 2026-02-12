@@ -17,7 +17,7 @@ let elementName = "Piece"
 
 - Easiest part of Piece. Creamiest part.
 
-### PieceBoundary
+### Piece.Boundary
 
 - TreeLine
 - Road

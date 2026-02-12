@@ -20,6 +20,8 @@ let elementName = "Team"
 <!-- =================================================== -->
 ::: details &
 
--
+- Teammate
+- Teamwork
+- Team player
 
 :::

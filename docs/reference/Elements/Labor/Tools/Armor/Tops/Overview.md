@@ -1,11 +1,11 @@
 <script setup>
 import ElementInfo from '/vue/ElementPage/Page-ElementInfo.vue'
 import ElementTaxonomy from '/vue/ElementPage/Header-ElementTaxonomy.vue'
-let elementName = "ConcaveHull"
+let elementName = "Tops"
 
 </script>
 
-# 🔻<span class="via">Concave Hull</span>
+# ⭐<span class="labor">Tops</span>
 
 <ElementTaxonomy :elementName="elementName" />
 
@@ -20,6 +20,9 @@ let elementName = "ConcaveHull"
 <!-- =================================================== -->
 ::: details &
 
+- Jacket
+- Rain Shell
+- Insulation Layer
 -
 
 :::
