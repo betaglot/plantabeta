@@ -1,3 +1,11 @@
+---
+aside: false
+search: false
+---
+<script setup>
+// BetomName=""
+</script>
+
 # <BB via="Site,Density"/>
 
 ---

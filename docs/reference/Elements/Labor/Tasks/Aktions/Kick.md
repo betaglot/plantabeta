@@ -22,5 +22,4 @@ let elementName = "Kick"
 
 - Stomp is Down, Kick is Anterior or Lateral
 
-
 :::

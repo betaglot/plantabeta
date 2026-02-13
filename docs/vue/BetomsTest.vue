@@ -12,7 +12,7 @@
 </template>
 
 <script setup>
-import jsonDataImport from '/data/Betoms/Properties-Betoms.json'
+import jsonDataImport from '/data/Betoms/Properties/Properties-Betoms.json'
 import Betomglyf from '/vue/Betomglyf.vue';
 
 const betoms = jsonDataImport

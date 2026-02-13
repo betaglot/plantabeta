@@ -1,15 +1,15 @@
 <script setup>
 import ElementInfo from '/vue/ElementPage/Page-ElementInfo.vue'
 import ElementTaxonomy from '/vue/ElementPage/Header-ElementTaxonomy.vue'
-let elementName = ""
+let elementName = "Exit"
 
 </script>
 
-# 🔻<span class="via">Alias</span>
+# ⭐<span class="labor">Exit</span>
 
-> other names used to refer to this Element. In english or other languages.
+<ElementTaxonomy :elementName="elementName" />
 
-## <span class="beta">BetaAnalogy</span>
+<ElementInfo :elementName=elementName />
 
 ---
 

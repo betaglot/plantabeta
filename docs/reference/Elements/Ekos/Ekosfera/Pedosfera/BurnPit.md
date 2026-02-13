@@ -2,7 +2,7 @@
 aside: false
 ---
 <script setup>
-BetomName=""
+// BetomName=""
 </script>
 
 # [BurnPit]

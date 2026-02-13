@@ -3,7 +3,7 @@ aside: false
 search: false
 ---
 <script setup>
-BetomName=""
+// BetomName=""
 </script>
 
 # <BB labor="Team.Taktik.Bounce" />

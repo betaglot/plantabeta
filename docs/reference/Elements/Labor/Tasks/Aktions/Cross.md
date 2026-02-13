@@ -1,26 +1,15 @@
 <script setup>
 import ElementInfo from '/vue/ElementPage/Page-ElementInfo.vue'
 import ElementTaxonomy from '/vue/ElementPage/Header-ElementTaxonomy.vue'
-let elementName = ""
+let elementName = "Cross"
 
 </script>
 
-# 🟩<span class="ekos">EKON: Atributs</span>
+# ⭐<span class="labor">Cross</span>
 
-## Class Attribute
+<ElementTaxonomy :elementName="elementName" />
 
-> the attributes of this Element regardless of how it is implemented
-
-- Analogia
-- Anatomia
-- Alias
-- Error
-- Skema
-- Tipos
-
-## Instance Attributo
-
-> the attributes of a particular instance of this Element within a BetaPlan
+<ElementInfo :elementName=elementName />
 
 ---
 
@@ -31,11 +20,6 @@ let elementName = ""
 <!-- =================================================== -->
 ::: details &
 
-- Purpose
-    - Postulate
-    - Propose
-    - Place it here in preparation
-    - Position it to
-- Properties is an Instance Atribut which has Getters and Setters
+-
 
 :::

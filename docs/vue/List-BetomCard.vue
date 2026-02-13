@@ -38,7 +38,7 @@
 
 <script setup>
 import BE from '/vue/Hex.vue'
-import ParsedBetoms from '/data/Betoms/ParsedBetoms/ParsedBetoms.json'
+import ParsedBetoms from '/data/Betoms/ParsedBetomGifs/ParsedBetoms.json'
 
 </script>
 

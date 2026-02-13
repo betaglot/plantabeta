@@ -1,4 +1,2696 @@
 {
+    "ComputationalGeometry": {
+        "elementEnglishName": "Computational Geometry",
+        "elementFaktor": "Via",
+        "elementID": "",
+        "elementTaxonomy": [
+            "Via",
+            "Geometry",
+            "ComputationalGeometry"
+        ],
+        "elementAlias": [],
+        "elementDescription": "",
+        "elementBetanyms": [],
+        "elementInBetom": [],
+        "elementProfilePic": "",
+        "elementExample": {
+            "elementVideo": [],
+            "elementImage": [],
+            "elementQuote": []
+        },
+        "dev": [
+            ""
+        ]
+    },
+    "Triad": {
+        "elementEnglishName": "Triad",
+        "elementFaktor": "Via",
+        "elementID": "",
+        "elementTaxonomy": [
+            "Via",
+            "Combinatorics",
+            "GraphTheory",
+            "Triad"
+        ],
+        "elementAlias": [],
+        "elementDescription": "",
+        "elementBetanyms": [],
+        "elementInBetom": [],
+        "elementProfilePic": "",
+        "elementExample": {
+            "elementVideo": [],
+            "elementImage": [],
+            "elementQuote": []
+        },
+        "dev": [
+            ""
+        ]
+    },
+    "Perimeter": {
+        "elementEnglishName": "Perimeter",
+        "elementFaktor": "Via",
+        "elementID": "",
+        "elementTaxonomy": [
+            "Via",
+            "Geometry",
+            "Shape",
+            "Perimeter"
+        ],
+        "elementAlias": [],
+        "elementDescription": "",
+        "elementBetanyms": [],
+        "elementInBetom": [],
+        "elementProfilePic": "",
+        "elementExample": {
+            "elementVideo": [],
+            "elementImage": [],
+            "elementQuote": []
+        },
+        "dev": [
+            ""
+        ]
+    },
+    "Deltoid": {
+        "elementEnglishName": "Deltoid",
+        "elementFaktor": "Soma",
+        "elementID": "",
+        "elementTaxonomy": [
+            "Soma",
+            "Anatomy",
+            "Arm",
+            "Deltoid"
+        ],
+        "elementAlias": [],
+        "elementDescription": "",
+        "elementBetanyms": [],
+        "elementInBetom": [],
+        "elementProfilePic": "",
+        "elementExample": {
+            "elementVideo": [],
+            "elementImage": [],
+            "elementQuote": []
+        },
+        "dev": [
+            ""
+        ]
+    },
+    "CollisionDetection": {
+        "elementEnglishName": "Collision Detection",
+        "elementFaktor": "Via",
+        "elementID": "",
+        "elementTaxonomy": [
+            "Via",
+            "Geometry",
+            "ComputationalGeometry",
+            "CollisionDetection"
+        ],
+        "elementAlias": [],
+        "elementDescription": "",
+        "elementBetanyms": [],
+        "elementInBetom": [],
+        "elementProfilePic": "",
+        "elementExample": {
+            "elementVideo": [],
+            "elementImage": [],
+            "elementQuote": []
+        },
+        "dev": [
+            ""
+        ]
+    },
+    "AroundLine": {
+        "elementEnglishName": "Around Line",
+        "elementFaktor": "Via",
+        "elementID": "",
+        "elementTaxonomy": [
+            "Via",
+            "Geometry",
+            "Line",
+            "AroundLine"
+        ],
+        "elementAlias": [],
+        "elementDescription": "",
+        "elementBetanyms": [],
+        "elementInBetom": [],
+        "elementProfilePic": "",
+        "elementExample": {
+            "elementVideo": [],
+            "elementImage": [],
+            "elementQuote": []
+        },
+        "dev": [
+            ""
+        ]
+    },
+    "Wrist": {
+        "elementEnglishName": "Wrist",
+        "elementFaktor": "Soma",
+        "elementID": "",
+        "elementTaxonomy": [
+            "Soma",
+            "Anatomy",
+            "Arm",
+            "Wrist"
+        ],
+        "elementAlias": [],
+        "elementDescription": "",
+        "elementBetanyms": [],
+        "elementInBetom": [],
+        "elementProfilePic": "",
+        "elementExample": {
+            "elementVideo": [],
+            "elementImage": [],
+            "elementQuote": []
+        },
+        "dev": [
+            ""
+        ]
+    },
+    "RainShell": {
+        "elementEnglishName": "Rain Shell",
+        "elementFaktor": "Labor",
+        "elementID": "",
+        "elementTaxonomy": [
+            "Labor",
+            "Tools",
+            "Armor",
+            "Tops",
+            "RainShell"
+        ],
+        "elementAlias": [],
+        "elementDescription": "",
+        "elementBetanyms": [],
+        "elementInBetom": [],
+        "elementProfilePic": "",
+        "elementExample": {
+            "elementVideo": [],
+            "elementImage": [],
+            "elementQuote": []
+        },
+        "dev": [
+            ""
+        ]
+    },
+    "ShortestPath": {
+        "elementEnglishName": "Shortest Path",
+        "elementFaktor": "Via",
+        "elementID": "",
+        "elementTaxonomy": [
+            "Via",
+            "Combinatorics",
+            "GraphTheory",
+            "ShortestPath"
+        ],
+        "elementAlias": [],
+        "elementDescription": "",
+        "elementBetanyms": [],
+        "elementInBetom": [],
+        "elementProfilePic": "",
+        "elementExample": {
+            "elementVideo": [],
+            "elementImage": [],
+            "elementQuote": []
+        },
+        "dev": [
+            ""
+        ]
+    },
+    "Leaf": {
+        "elementEnglishName": "Leaf",
+        "elementFaktor": "Ekos",
+        "elementID": "",
+        "elementTaxonomy": [
+            "Ekos",
+            "Ekosfera",
+            "Biosfera",
+            "Flora",
+            "Leaf"
+        ],
+        "elementAlias": [],
+        "elementDescription": "",
+        "elementBetanyms": [],
+        "elementInBetom": [],
+        "elementProfilePic": "",
+        "elementExample": {
+            "elementVideo": [],
+            "elementImage": [],
+            "elementQuote": []
+        },
+        "dev": [
+            ""
+        ]
+    },
+    "Ground": {
+        "elementEnglishName": "Ground",
+        "elementFaktor": "Ekos",
+        "elementID": "",
+        "elementTaxonomy": [
+            "Ekos",
+            "Klimon",
+            "Ground"
+        ],
+        "elementAlias": [],
+        "elementDescription": "",
+        "elementBetanyms": [],
+        "elementInBetom": [],
+        "elementProfilePic": "",
+        "elementExample": {
+            "elementVideo": [],
+            "elementImage": [],
+            "elementQuote": []
+        },
+        "dev": [
+            ""
+        ]
+    },
+    "Defend": {
+        "elementEnglishName": "Defend",
+        "elementFaktor": "Labor",
+        "elementID": "",
+        "elementTaxonomy": [
+            "Labor",
+            "Tasks",
+            "Aktions",
+            "Defend"
+        ],
+        "elementAlias": [],
+        "elementDescription": "",
+        "elementBetanyms": [],
+        "elementInBetom": [],
+        "elementProfilePic": "",
+        "elementExample": {
+            "elementVideo": [],
+            "elementImage": [],
+            "elementQuote": []
+        },
+        "dev": [
+            ""
+        ]
+    },
+    "Branta": {
+        "elementEnglishName": "Branta",
+        "elementFaktor": "Labor",
+        "elementID": "",
+        "elementTaxonomy": [
+            "Labor",
+            "Tasks",
+            "Aktions",
+            "Branta"
+        ],
+        "elementAlias": [],
+        "elementDescription": "",
+        "elementBetanyms": [],
+        "elementInBetom": [],
+        "elementProfilePic": "",
+        "elementExample": {
+            "elementVideo": [],
+            "elementImage": [],
+            "elementQuote": []
+        },
+        "dev": [
+            ""
+        ]
+    },
+    "WalkOut": {
+        "elementEnglishName": "Walk Out",
+        "elementFaktor": "Labor",
+        "elementID": "",
+        "elementTaxonomy": [
+            "Labor",
+            "Employment",
+            "Transit",
+            "WalkOut"
+        ],
+        "elementAlias": [],
+        "elementDescription": "",
+        "elementBetanyms": [],
+        "elementInBetom": [],
+        "elementProfilePic": "",
+        "elementExample": {
+            "elementVideo": [],
+            "elementImage": [],
+            "elementQuote": []
+        },
+        "dev": [
+            ""
+        ]
+    },
+    "Crummy": {
+        "elementEnglishName": "Crummy",
+        "elementFaktor": "Labor",
+        "elementID": "",
+        "elementTaxonomy": [
+            "Labor",
+            "Employment",
+            "Transit",
+            "Crummy"
+        ],
+        "elementAlias": [],
+        "elementDescription": "",
+        "elementBetanyms": [],
+        "elementInBetom": [],
+        "elementProfilePic": "",
+        "elementExample": {
+            "elementVideo": [],
+            "elementImage": [],
+            "elementQuote": []
+        },
+        "dev": [
+            ""
+        ]
+    },
+    "Hydro": {
+        "elementEnglishName": "Hydro",
+        "elementFaktor": "Ekos",
+        "elementID": "",
+        "elementTaxonomy": [
+            "Ekos",
+            "Ekosfera",
+            "Hydrosfera",
+            "Hydro"
+        ],
+        "elementAlias": [],
+        "elementDescription": "",
+        "elementBetanyms": [],
+        "elementInBetom": [],
+        "elementProfilePic": "",
+        "elementExample": {
+            "elementVideo": [],
+            "elementImage": [],
+            "elementQuote": []
+        },
+        "dev": [
+            ""
+        ]
+    },
+    "Dilate": {
+        "elementEnglishName": "Dilate",
+        "elementFaktor": "Labor",
+        "elementID": "",
+        "elementTaxonomy": [
+            "Labor",
+            "Tasks",
+            "Aktions",
+            "Dilate"
+        ],
+        "elementAlias": [],
+        "elementDescription": "",
+        "elementBetanyms": [],
+        "elementInBetom": [],
+        "elementProfilePic": "",
+        "elementExample": {
+            "elementVideo": [],
+            "elementImage": [],
+            "elementQuote": []
+        },
+        "dev": [
+            ""
+        ]
+    },
+    "Abdukt": {
+        "elementEnglishName": "Abdukt",
+        "elementFaktor": "Labor",
+        "elementID": "",
+        "elementTaxonomy": [
+            "Labor",
+            "Tasks",
+            "Aktions",
+            "Abdukt"
+        ],
+        "elementAlias": [],
+        "elementDescription": "",
+        "elementBetanyms": [],
+        "elementInBetom": [],
+        "elementProfilePic": "",
+        "elementExample": {
+            "elementVideo": [],
+            "elementImage": [],
+            "elementQuote": []
+        },
+        "dev": [
+            ""
+        ]
+    },
+    "Root": {
+        "elementEnglishName": "Root",
+        "elementFaktor": "Ekos",
+        "elementID": "",
+        "elementTaxonomy": [
+            "Ekos",
+            "Ekosfera",
+            "Biosfera",
+            "Flora",
+            "Root"
+        ],
+        "elementAlias": [],
+        "elementDescription": "",
+        "elementBetanyms": [],
+        "elementInBetom": [],
+        "elementProfilePic": "",
+        "elementExample": {
+            "elementVideo": [],
+            "elementImage": [],
+            "elementQuote": []
+        },
+        "dev": [
+            ""
+        ]
+    },
+    "Prokline": {
+        "elementEnglishName": "Prokline",
+        "elementFaktor": "Ekos",
+        "elementID": "",
+        "elementTaxonomy": [
+            "Ekos",
+            "Klimon",
+            "Prokline"
+        ],
+        "elementAlias": [],
+        "elementDescription": "",
+        "elementBetanyms": [],
+        "elementInBetom": [],
+        "elementProfilePic": "",
+        "elementExample": {
+            "elementVideo": [],
+            "elementImage": [],
+            "elementQuote": []
+        },
+        "dev": [
+            ""
+        ]
+    },
+    "Doff": {
+        "elementEnglishName": "Doff",
+        "elementFaktor": "Labor",
+        "elementID": "",
+        "elementTaxonomy": [
+            "Labor",
+            "Tasks",
+            "Aktions",
+            "Doff"
+        ],
+        "elementAlias": [],
+        "elementDescription": "",
+        "elementBetanyms": [],
+        "elementInBetom": [],
+        "elementProfilePic": "",
+        "elementExample": {
+            "elementVideo": [],
+            "elementImage": [],
+            "elementQuote": []
+        },
+        "dev": [
+            ""
+        ]
+    },
+    "Waste": {
+        "elementEnglishName": "Waste",
+        "elementFaktor": "Labor",
+        "elementID": "",
+        "elementTaxonomy": [
+            "Labor",
+            "Performance",
+            "Waste"
+        ],
+        "elementAlias": [],
+        "elementDescription": "",
+        "elementBetanyms": [],
+        "elementInBetom": [],
+        "elementProfilePic": "",
+        "elementExample": {
+            "elementVideo": [],
+            "elementImage": [],
+            "elementQuote": []
+        },
+        "dev": [
+            ""
+        ]
+    },
+    "Truck": {
+        "elementEnglishName": "Truck",
+        "elementFaktor": "Labor",
+        "elementID": "",
+        "elementTaxonomy": [
+            "Labor",
+            "Employment",
+            "Transit",
+            "Truck"
+        ],
+        "elementAlias": [],
+        "elementDescription": "",
+        "elementBetanyms": [],
+        "elementInBetom": [],
+        "elementProfilePic": "",
+        "elementExample": {
+            "elementVideo": [],
+            "elementImage": [],
+            "elementQuote": []
+        },
+        "dev": [
+            ""
+        ]
+    },
+    "Don": {
+        "elementEnglishName": "Don",
+        "elementFaktor": "Labor",
+        "elementID": "",
+        "elementTaxonomy": [
+            "Labor",
+            "Tasks",
+            "Aktions",
+            "Don"
+        ],
+        "elementAlias": [],
+        "elementDescription": "",
+        "elementBetanyms": [],
+        "elementInBetom": [],
+        "elementProfilePic": "",
+        "elementExample": {
+            "elementVideo": [],
+            "elementImage": [],
+            "elementQuote": []
+        },
+        "dev": [
+            ""
+        ]
+    },
+    "Rekline": {
+        "elementEnglishName": "Rekline",
+        "elementFaktor": "Ekos",
+        "elementID": "",
+        "elementTaxonomy": [
+            "Ekos",
+            "Klimon",
+            "Rekline"
+        ],
+        "elementAlias": [],
+        "elementDescription": "",
+        "elementBetanyms": [],
+        "elementInBetom": [],
+        "elementProfilePic": "",
+        "elementExample": {
+            "elementVideo": [],
+            "elementImage": [],
+            "elementQuote": []
+        },
+        "dev": [
+            ""
+        ]
+    },
+    "Cross": {
+        "elementEnglishName": "Cross",
+        "elementFaktor": "Labor",
+        "elementID": "",
+        "elementTaxonomy": [
+            "Labor",
+            "Tasks",
+            "Aktions",
+            "Cross"
+        ],
+        "elementAlias": [],
+        "elementDescription": "",
+        "elementBetanyms": [],
+        "elementInBetom": [],
+        "elementProfilePic": "",
+        "elementExample": {
+            "elementVideo": [],
+            "elementImage": [],
+            "elementQuote": []
+        },
+        "dev": [
+            ""
+        ]
+    },
+    "Sleep": {
+        "elementEnglishName": "Sleep",
+        "elementFaktor": "Anima",
+        "elementID": "",
+        "elementTaxonomy": [
+            "Anima",
+            "Sleep"
+        ],
+        "elementAlias": [],
+        "elementDescription": "",
+        "elementBetanyms": [],
+        "elementInBetom": [],
+        "elementProfilePic": "",
+        "elementExample": {
+            "elementVideo": [],
+            "elementImage": [],
+            "elementQuote": []
+        },
+        "dev": [
+            ""
+        ]
+    },
+    "WalkIn": {
+        "elementEnglishName": "Walk In",
+        "elementFaktor": "Labor",
+        "elementID": "",
+        "elementTaxonomy": [
+            "Labor",
+            "Employment",
+            "Transit",
+            "WalkIn"
+        ],
+        "elementAlias": [],
+        "elementDescription": "",
+        "elementBetanyms": [],
+        "elementInBetom": [],
+        "elementProfilePic": "",
+        "elementExample": {
+            "elementVideo": [],
+            "elementImage": [],
+            "elementQuote": []
+        },
+        "dev": [
+            ""
+        ]
+    },
+    "Addukt": {
+        "elementEnglishName": "Addukt",
+        "elementFaktor": "Labor",
+        "elementID": "",
+        "elementTaxonomy": [
+            "Labor",
+            "Tasks",
+            "Aktions",
+            "Addukt"
+        ],
+        "elementAlias": [],
+        "elementDescription": "",
+        "elementBetanyms": [],
+        "elementInBetom": [],
+        "elementProfilePic": "",
+        "elementExample": {
+            "elementVideo": [],
+            "elementImage": [],
+            "elementQuote": []
+        },
+        "dev": [
+            ""
+        ]
+    },
+    "Rekky": {
+        "elementEnglishName": "Rekky",
+        "elementFaktor": "Labor",
+        "elementID": "",
+        "elementTaxonomy": [
+            "Labor",
+            "Strategy",
+            "Rekky"
+        ],
+        "elementAlias": [],
+        "elementDescription": "",
+        "elementBetanyms": [],
+        "elementInBetom": [],
+        "elementProfilePic": "",
+        "elementExample": {
+            "elementVideo": [],
+            "elementImage": [],
+            "elementQuote": []
+        },
+        "dev": [
+            ""
+        ]
+    },
+    "Bus": {
+        "elementEnglishName": "Bus",
+        "elementFaktor": "Labor",
+        "elementID": "",
+        "elementTaxonomy": [
+            "Labor",
+            "Employment",
+            "Transit",
+            "Bus"
+        ],
+        "elementAlias": [],
+        "elementDescription": "",
+        "elementBetanyms": [],
+        "elementInBetom": [],
+        "elementProfilePic": "",
+        "elementExample": {
+            "elementVideo": [],
+            "elementImage": [],
+            "elementQuote": []
+        },
+        "dev": [
+            ""
+        ]
+    },
+    "GraphTheory": {
+        "elementEnglishName": "Graph Theory",
+        "elementFaktor": "Via",
+        "elementID": "",
+        "elementTaxonomy": [
+            "Via",
+            "Combinatorics",
+            "GraphTheory"
+        ],
+        "elementAlias": [],
+        "elementDescription": "",
+        "elementBetanyms": [],
+        "elementInBetom": [],
+        "elementProfilePic": "",
+        "elementExample": {
+            "elementVideo": [],
+            "elementImage": [],
+            "elementQuote": []
+        },
+        "dev": [
+            ""
+        ]
+    },
+    "ConcaveHull": {
+        "elementEnglishName": "Concave Hull",
+        "elementFaktor": "Via",
+        "elementID": "",
+        "elementTaxonomy": [
+            "Via",
+            "Geometry",
+            "ComputationalGeometry",
+            "ConcaveHull"
+        ],
+        "elementAlias": [],
+        "elementDescription": "",
+        "elementBetanyms": [],
+        "elementInBetom": [],
+        "elementProfilePic": "",
+        "elementExample": {
+            "elementVideo": [],
+            "elementImage": [],
+            "elementQuote": []
+        },
+        "dev": [
+            ""
+        ]
+    },
+    "CircuitLine": {
+        "elementEnglishName": "Circuit Line",
+        "elementFaktor": "Via",
+        "elementID": "",
+        "elementTaxonomy": [
+            "Via",
+            "Geometry",
+            "Line",
+            "CircuitLine"
+        ],
+        "elementAlias": [],
+        "elementDescription": "",
+        "elementBetanyms": [],
+        "elementInBetom": [],
+        "elementProfilePic": "",
+        "elementExample": {
+            "elementVideo": [],
+            "elementImage": [],
+            "elementQuote": []
+        },
+        "dev": [
+            ""
+        ]
+    },
+    "DelaunayTriangulation": {
+        "elementEnglishName": "Delaunay Triangulation",
+        "elementFaktor": "Via",
+        "elementID": "",
+        "elementTaxonomy": [
+            "Via",
+            "Geometry",
+            "ComputationalGeometry",
+            "DelaunayTriangulation"
+        ],
+        "elementAlias": [],
+        "elementDescription": "",
+        "elementBetanyms": [],
+        "elementInBetom": [],
+        "elementProfilePic": "",
+        "elementExample": {
+            "elementVideo": [],
+            "elementImage": [],
+            "elementQuote": []
+        },
+        "dev": [
+            ""
+        ]
+    },
+    "Palm": {
+        "elementEnglishName": "Palm",
+        "elementFaktor": "Soma",
+        "elementID": "",
+        "elementTaxonomy": [
+            "Soma",
+            "Anatomy",
+            "Arm",
+            "Palm"
+        ],
+        "elementAlias": [],
+        "elementDescription": "",
+        "elementBetanyms": [],
+        "elementInBetom": [],
+        "elementProfilePic": "",
+        "elementExample": {
+            "elementVideo": [],
+            "elementImage": [],
+            "elementQuote": []
+        },
+        "dev": [
+            ""
+        ]
+    },
+    "Biceps": {
+        "elementEnglishName": "Biceps",
+        "elementFaktor": "Soma",
+        "elementID": "",
+        "elementTaxonomy": [
+            "Soma",
+            "Anatomy",
+            "Arm",
+            "Biceps"
+        ],
+        "elementAlias": [],
+        "elementDescription": "",
+        "elementBetanyms": [],
+        "elementInBetom": [],
+        "elementProfilePic": "",
+        "elementExample": {
+            "elementVideo": [],
+            "elementImage": [],
+            "elementQuote": []
+        },
+        "dev": [
+            ""
+        ]
+    },
+    "VoronoiDiagram": {
+        "elementEnglishName": "Voronoi Diagram",
+        "elementFaktor": "Via",
+        "elementID": "",
+        "elementTaxonomy": [
+            "Via",
+            "Geometry",
+            "ComputationalGeometry",
+            "VoronoiDiagram"
+        ],
+        "elementAlias": [],
+        "elementDescription": "",
+        "elementBetanyms": [],
+        "elementInBetom": [],
+        "elementProfilePic": "",
+        "elementExample": {
+            "elementVideo": [],
+            "elementImage": [],
+            "elementQuote": []
+        },
+        "dev": [
+            ""
+        ]
+    },
+    "Tops": {
+        "elementEnglishName": "Tops",
+        "elementFaktor": "Labor",
+        "elementID": "",
+        "elementTaxonomy": [
+            "Labor",
+            "Tools",
+            "Armor",
+            "Tops"
+        ],
+        "elementAlias": [],
+        "elementDescription": "",
+        "elementBetanyms": [],
+        "elementInBetom": [],
+        "elementProfilePic": "",
+        "elementExample": {
+            "elementVideo": [],
+            "elementImage": [],
+            "elementQuote": []
+        },
+        "dev": [
+            ""
+        ]
+    },
+    "Tetrad": {
+        "elementEnglishName": "Tetrad",
+        "elementFaktor": "Via",
+        "elementID": "",
+        "elementTaxonomy": [
+            "Via",
+            "Combinatorics",
+            "GraphTheory",
+            "Tetrad"
+        ],
+        "elementAlias": [],
+        "elementDescription": "",
+        "elementBetanyms": [],
+        "elementInBetom": [],
+        "elementProfilePic": "",
+        "elementExample": {
+            "elementVideo": [],
+            "elementImage": [],
+            "elementQuote": []
+        },
+        "dev": [
+            ""
+        ]
+    },
+    "LatissimusDorsi": {
+        "elementEnglishName": "Latissimus Dorsi",
+        "elementFaktor": "Soma",
+        "elementID": "",
+        "elementTaxonomy": [
+            "Soma",
+            "Anatomy",
+            "Arm",
+            "LatissimusDorsi"
+        ],
+        "elementAlias": [],
+        "elementDescription": "",
+        "elementBetanyms": [],
+        "elementInBetom": [],
+        "elementProfilePic": "",
+        "elementExample": {
+            "elementVideo": [],
+            "elementImage": [],
+            "elementQuote": []
+        },
+        "dev": [
+            ""
+        ]
+    },
+    "Pentad": {
+        "elementEnglishName": "Pentad",
+        "elementFaktor": "Via",
+        "elementID": "",
+        "elementTaxonomy": [
+            "Via",
+            "Combinatorics",
+            "GraphTheory",
+            "Pentad"
+        ],
+        "elementAlias": [],
+        "elementDescription": "",
+        "elementBetanyms": [],
+        "elementInBetom": [],
+        "elementProfilePic": "",
+        "elementExample": {
+            "elementVideo": [],
+            "elementImage": [],
+            "elementQuote": []
+        },
+        "dev": [
+            ""
+        ]
+    },
+    "Elbow": {
+        "elementEnglishName": "Elbow",
+        "elementFaktor": "Soma",
+        "elementID": "",
+        "elementTaxonomy": [
+            "Soma",
+            "Anatomy",
+            "Arm",
+            "Elbow"
+        ],
+        "elementAlias": [],
+        "elementDescription": "",
+        "elementBetanyms": [],
+        "elementInBetom": [],
+        "elementProfilePic": "",
+        "elementExample": {
+            "elementVideo": [],
+            "elementImage": [],
+            "elementQuote": []
+        },
+        "dev": [
+            ""
+        ]
+    },
+    "Elevation": {
+        "elementEnglishName": "Elevation",
+        "elementFaktor": "Via",
+        "elementID": "",
+        "elementTaxonomy": [
+            "Via",
+            "Geometry",
+            "Elevation"
+        ],
+        "elementAlias": [],
+        "elementDescription": "",
+        "elementBetanyms": [],
+        "elementInBetom": [],
+        "elementProfilePic": "",
+        "elementExample": {
+            "elementVideo": [],
+            "elementImage": [],
+            "elementQuote": []
+        },
+        "dev": [
+            ""
+        ]
+    },
+    "Triceps": {
+        "elementEnglishName": "Triceps",
+        "elementFaktor": "Soma",
+        "elementID": "",
+        "elementTaxonomy": [
+            "Soma",
+            "Anatomy",
+            "Arm",
+            "Triceps"
+        ],
+        "elementAlias": [],
+        "elementDescription": "",
+        "elementBetanyms": [],
+        "elementInBetom": [],
+        "elementProfilePic": "",
+        "elementExample": {
+            "elementVideo": [],
+            "elementImage": [],
+            "elementQuote": []
+        },
+        "dev": [
+            ""
+        ]
+    },
+    "Dyad": {
+        "elementEnglishName": "Dyad",
+        "elementFaktor": "Via",
+        "elementID": "",
+        "elementTaxonomy": [
+            "Via",
+            "Combinatorics",
+            "GraphTheory",
+            "Dyad"
+        ],
+        "elementAlias": [],
+        "elementDescription": "",
+        "elementBetanyms": [],
+        "elementInBetom": [],
+        "elementProfilePic": "",
+        "elementExample": {
+            "elementVideo": [],
+            "elementImage": [],
+            "elementQuote": []
+        },
+        "dev": [
+            ""
+        ]
+    },
+    "Heptad": {
+        "elementEnglishName": "Heptad",
+        "elementFaktor": "Via",
+        "elementID": "",
+        "elementTaxonomy": [
+            "Via",
+            "Combinatorics",
+            "GraphTheory",
+            "Heptad"
+        ],
+        "elementAlias": [],
+        "elementDescription": "",
+        "elementBetanyms": [],
+        "elementInBetom": [],
+        "elementProfilePic": "",
+        "elementExample": {
+            "elementVideo": [],
+            "elementImage": [],
+            "elementQuote": []
+        },
+        "dev": [
+            ""
+        ]
+    },
+    "ConvexHull": {
+        "elementEnglishName": "Convex Hull",
+        "elementFaktor": "Via",
+        "elementID": "",
+        "elementTaxonomy": [
+            "Via",
+            "Geometry",
+            "ComputationalGeometry",
+            "ConvexHull"
+        ],
+        "elementAlias": [],
+        "elementDescription": "",
+        "elementBetanyms": [],
+        "elementInBetom": [],
+        "elementProfilePic": "",
+        "elementExample": {
+            "elementVideo": [],
+            "elementImage": [],
+            "elementQuote": []
+        },
+        "dev": [
+            ""
+        ]
+    },
+    "Hip": {
+        "elementEnglishName": "Hip",
+        "elementFaktor": "Soma",
+        "elementID": "",
+        "elementTaxonomy": [
+            "Soma",
+            "Anatomy",
+            "Leg",
+            "Hip"
+        ],
+        "elementAlias": [],
+        "elementDescription": "",
+        "elementBetanyms": [],
+        "elementInBetom": [],
+        "elementProfilePic": "",
+        "elementExample": {
+            "elementVideo": [],
+            "elementImage": [],
+            "elementQuote": []
+        },
+        "dev": [
+            ""
+        ]
+    },
+    "Octad": {
+        "elementEnglishName": "Octad",
+        "elementFaktor": "Via",
+        "elementID": "",
+        "elementTaxonomy": [
+            "Via",
+            "Combinatorics",
+            "GraphTheory",
+            "Octad"
+        ],
+        "elementAlias": [],
+        "elementDescription": "",
+        "elementBetanyms": [],
+        "elementInBetom": [],
+        "elementProfilePic": "",
+        "elementExample": {
+            "elementVideo": [],
+            "elementImage": [],
+            "elementQuote": []
+        },
+        "dev": [
+            ""
+        ]
+    },
+    "Finger": {
+        "elementEnglishName": "Finger",
+        "elementFaktor": "Soma",
+        "elementID": "",
+        "elementTaxonomy": [
+            "Soma",
+            "Anatomy",
+            "Arm",
+            "Finger"
+        ],
+        "elementAlias": [],
+        "elementDescription": "",
+        "elementBetanyms": [],
+        "elementInBetom": [],
+        "elementProfilePic": "",
+        "elementExample": {
+            "elementVideo": [],
+            "elementImage": [],
+            "elementQuote": []
+        },
+        "dev": [
+            ""
+        ]
+    },
+    "Sock": {
+        "elementEnglishName": "Sock",
+        "elementFaktor": "Labor",
+        "elementID": "",
+        "elementTaxonomy": [
+            "Labor",
+            "Tools",
+            "Armor",
+            "Sock"
+        ],
+        "elementAlias": [],
+        "elementDescription": "",
+        "elementBetanyms": [],
+        "elementInBetom": [],
+        "elementProfilePic": "",
+        "elementExample": {
+            "elementVideo": [],
+            "elementImage": [],
+            "elementQuote": []
+        },
+        "dev": [
+            ""
+        ]
+    },
+    "Trapezius": {
+        "elementEnglishName": "Trapezius",
+        "elementFaktor": "Soma",
+        "elementID": "",
+        "elementTaxonomy": [
+            "Soma",
+            "Anatomy",
+            "Arm",
+            "Trapezius"
+        ],
+        "elementAlias": [],
+        "elementDescription": "",
+        "elementBetanyms": [],
+        "elementInBetom": [],
+        "elementProfilePic": "",
+        "elementExample": {
+            "elementVideo": [],
+            "elementImage": [],
+            "elementQuote": []
+        },
+        "dev": [
+            ""
+        ]
+    },
+    "ClosestPair": {
+        "elementEnglishName": "Closest Pair",
+        "elementFaktor": "Via",
+        "elementID": "",
+        "elementTaxonomy": [
+            "Via",
+            "Combinatorics",
+            "GraphTheory",
+            "ClosestPair"
+        ],
+        "elementAlias": [],
+        "elementDescription": "",
+        "elementBetanyms": [],
+        "elementInBetom": [],
+        "elementProfilePic": "",
+        "elementExample": {
+            "elementVideo": [],
+            "elementImage": [],
+            "elementQuote": []
+        },
+        "dev": [
+            ""
+        ]
+    },
+    "Tarp": {
+        "elementEnglishName": "Tarp",
+        "elementFaktor": "Labor",
+        "elementID": "",
+        "elementTaxonomy": [
+            "Labor",
+            "Tools",
+            "Cache",
+            "Tarp"
+        ],
+        "elementAlias": [],
+        "elementDescription": "",
+        "elementBetanyms": [],
+        "elementInBetom": [],
+        "elementProfilePic": "",
+        "elementExample": {
+            "elementVideo": [],
+            "elementImage": [],
+            "elementQuote": []
+        },
+        "dev": [
+            ""
+        ]
+    },
+    "Hexad": {
+        "elementEnglishName": "Hexad",
+        "elementFaktor": "Via",
+        "elementID": "",
+        "elementTaxonomy": [
+            "Via",
+            "Combinatorics",
+            "GraphTheory",
+            "Hexad"
+        ],
+        "elementAlias": [],
+        "elementDescription": "",
+        "elementBetanyms": [],
+        "elementInBetom": [],
+        "elementProfilePic": "",
+        "elementExample": {
+            "elementVideo": [],
+            "elementImage": [],
+            "elementQuote": []
+        },
+        "dev": [
+            ""
+        ]
+    },
+    "InsulationTop": {
+        "elementEnglishName": "Insulation Top",
+        "elementFaktor": "Labor",
+        "elementID": "",
+        "elementTaxonomy": [
+            "Labor",
+            "Tools",
+            "Armor",
+            "Tops",
+            "InsulationTop"
+        ],
+        "elementAlias": [],
+        "elementDescription": "",
+        "elementBetanyms": [],
+        "elementInBetom": [],
+        "elementProfilePic": "",
+        "elementExample": {
+            "elementVideo": [],
+            "elementImage": [],
+            "elementQuote": []
+        },
+        "dev": [
+            ""
+        ]
+    },
+    "Exit": {
+        "elementEnglishName": "Exit",
+        "elementFaktor": "Labor",
+        "elementID": "",
+        "elementTaxonomy": [
+            "Labor",
+            "Tasks",
+            "Aktions",
+            "Exit"
+        ],
+        "elementAlias": [],
+        "elementDescription": "",
+        "elementBetanyms": [],
+        "elementInBetom": [],
+        "elementProfilePic": "",
+        "elementExample": {
+            "elementVideo": [],
+            "elementImage": [],
+            "elementQuote": []
+        },
+        "dev": [
+            ""
+        ]
+    },
+    "MuscleUp": {
+        "elementEnglishName": "Muscle Up",
+        "elementFaktor": "Labor",
+        "elementID": "",
+        "elementTaxonomy": [
+            "Labor",
+            "Tasks",
+            "Aktions",
+            "MuscleUp"
+        ],
+        "elementAlias": [],
+        "elementDescription": "",
+        "elementBetanyms": [],
+        "elementInBetom": [],
+        "elementProfilePic": "",
+        "elementExample": {
+            "elementVideo": [],
+            "elementImage": [],
+            "elementQuote": []
+        },
+        "dev": [
+            ""
+        ]
+    },
+    "Bottoms": {
+        "elementEnglishName": "Bottoms",
+        "elementFaktor": "Labor",
+        "elementID": "",
+        "elementTaxonomy": [
+            "Labor",
+            "Tools",
+            "Armor",
+            "Bottoms"
+        ],
+        "elementAlias": [],
+        "elementDescription": "",
+        "elementBetanyms": [],
+        "elementInBetom": [],
+        "elementProfilePic": "",
+        "elementExample": {
+            "elementVideo": [],
+            "elementImage": [],
+            "elementQuote": []
+        },
+        "dev": [
+            ""
+        ]
+    },
+    "Retrakt": {
+        "elementEnglishName": "Retrakt",
+        "elementFaktor": "Labor",
+        "elementID": "",
+        "elementTaxonomy": [
+            "Labor",
+            "Tasks",
+            "Aktions",
+            "Retrakt"
+        ],
+        "elementAlias": [],
+        "elementDescription": "",
+        "elementBetanyms": [],
+        "elementInBetom": [],
+        "elementProfilePic": "",
+        "elementExample": {
+            "elementVideo": [],
+            "elementImage": [],
+            "elementQuote": []
+        },
+        "dev": [
+            ""
+        ]
+    },
+    "Stand": {
+        "elementEnglishName": "Stand",
+        "elementFaktor": "Labor",
+        "elementID": "",
+        "elementTaxonomy": [
+            "Labor",
+            "Tasks",
+            "Aktions",
+            "Stand"
+        ],
+        "elementAlias": [],
+        "elementDescription": "",
+        "elementBetanyms": [],
+        "elementInBetom": [],
+        "elementProfilePic": "",
+        "elementExample": {
+            "elementVideo": [],
+            "elementImage": [],
+            "elementQuote": []
+        },
+        "dev": [
+            ""
+        ]
+    },
+    "Crop": {
+        "elementEnglishName": "Crop",
+        "elementFaktor": "Labor",
+        "elementID": "",
+        "elementTaxonomy": [
+            "Labor",
+            "Tasks",
+            "Crop"
+        ],
+        "elementAlias": [],
+        "elementDescription": "",
+        "elementBetanyms": [],
+        "elementInBetom": [],
+        "elementProfilePic": "",
+        "elementExample": {
+            "elementVideo": [],
+            "elementImage": [],
+            "elementQuote": []
+        },
+        "dev": [
+            ""
+        ]
+    },
+    "Pogo": {
+        "elementEnglishName": "Pogo",
+        "elementFaktor": "Labor",
+        "elementID": "",
+        "elementTaxonomy": [
+            "Labor",
+            "Tasks",
+            "Aktions",
+            "Pogo"
+        ],
+        "elementAlias": [],
+        "elementDescription": "",
+        "elementBetanyms": [],
+        "elementInBetom": [],
+        "elementProfilePic": "",
+        "elementExample": {
+            "elementVideo": [],
+            "elementImage": [],
+            "elementQuote": []
+        },
+        "dev": [
+            ""
+        ]
+    },
+    "Rotate": {
+        "elementEnglishName": "Rotate",
+        "elementFaktor": "Labor",
+        "elementID": "",
+        "elementTaxonomy": [
+            "Labor",
+            "Tasks",
+            "Aktions",
+            "Rotate"
+        ],
+        "elementAlias": [],
+        "elementDescription": "",
+        "elementBetanyms": [],
+        "elementInBetom": [],
+        "elementProfilePic": "",
+        "elementExample": {
+            "elementVideo": [],
+            "elementImage": [],
+            "elementQuote": []
+        },
+        "dev": [
+            ""
+        ]
+    },
+    "Slide": {
+        "elementEnglishName": "Slide",
+        "elementFaktor": "Labor",
+        "elementID": "",
+        "elementTaxonomy": [
+            "Labor",
+            "Tasks",
+            "Aktions",
+            "Slide"
+        ],
+        "elementAlias": [],
+        "elementDescription": "",
+        "elementBetanyms": [],
+        "elementInBetom": [],
+        "elementProfilePic": "",
+        "elementExample": {
+            "elementVideo": [],
+            "elementImage": [],
+            "elementQuote": []
+        },
+        "dev": [
+            ""
+        ]
+    },
+    "Velcro": {
+        "elementEnglishName": "Velcro",
+        "elementFaktor": "Labor",
+        "elementID": "",
+        "elementTaxonomy": [
+            "Labor",
+            "Tools",
+            "Armor",
+            "Fastener",
+            "Velcro"
+        ],
+        "elementAlias": [],
+        "elementDescription": "",
+        "elementBetanyms": [],
+        "elementInBetom": [],
+        "elementProfilePic": "",
+        "elementExample": {
+            "elementVideo": [],
+            "elementImage": [],
+            "elementQuote": []
+        },
+        "dev": [
+            ""
+        ]
+    },
+    "Lean": {
+        "elementEnglishName": "Lean",
+        "elementFaktor": "Labor",
+        "elementID": "",
+        "elementTaxonomy": [
+            "Labor",
+            "Tasks",
+            "Aktions",
+            "Lean"
+        ],
+        "elementAlias": [],
+        "elementDescription": "",
+        "elementBetanyms": [],
+        "elementInBetom": [],
+        "elementProfilePic": "",
+        "elementExample": {
+            "elementVideo": [],
+            "elementImage": [],
+            "elementQuote": []
+        },
+        "dev": [
+            ""
+        ]
+    },
+    "Poke": {
+        "elementEnglishName": "Poke",
+        "elementFaktor": "Labor",
+        "elementID": "",
+        "elementTaxonomy": [
+            "Labor",
+            "Tasks",
+            "Aktions",
+            "Poke"
+        ],
+        "elementAlias": [],
+        "elementDescription": "",
+        "elementBetanyms": [],
+        "elementInBetom": [],
+        "elementProfilePic": "",
+        "elementExample": {
+            "elementVideo": [],
+            "elementImage": [],
+            "elementQuote": []
+        },
+        "dev": [
+            ""
+        ]
+    },
+    "Kneel": {
+        "elementEnglishName": "Kneel",
+        "elementFaktor": "Labor",
+        "elementID": "",
+        "elementTaxonomy": [
+            "Labor",
+            "Tasks",
+            "Aktions",
+            "Kneel"
+        ],
+        "elementAlias": [],
+        "elementDescription": "",
+        "elementBetanyms": [],
+        "elementInBetom": [],
+        "elementProfilePic": "",
+        "elementExample": {
+            "elementVideo": [],
+            "elementImage": [],
+            "elementQuote": []
+        },
+        "dev": [
+            ""
+        ]
+    },
+    "BurntBlock": {
+        "elementEnglishName": "Burnt Block",
+        "elementFaktor": "Labor",
+        "elementID": "",
+        "elementTaxonomy": [
+            "Labor",
+            "Tasks",
+            "Kompletion",
+            "Block",
+            "BurntBlock"
+        ],
+        "elementAlias": [],
+        "elementDescription": "",
+        "elementBetanyms": [],
+        "elementInBetom": [],
+        "elementProfilePic": "",
+        "elementExample": {
+            "elementVideo": [],
+            "elementImage": [],
+            "elementQuote": []
+        },
+        "dev": [
+            ""
+        ]
+    },
+    "NearestNeighbor": {
+        "elementEnglishName": "Nearest Neighbor",
+        "elementFaktor": "Via",
+        "elementID": "",
+        "elementTaxonomy": [
+            "Via",
+            "Combinatorics",
+            "GraphTheory",
+            "NearestNeighbor"
+        ],
+        "elementAlias": [],
+        "elementDescription": "",
+        "elementBetanyms": [],
+        "elementInBetom": [],
+        "elementProfilePic": "",
+        "elementExample": {
+            "elementVideo": [],
+            "elementImage": [],
+            "elementQuote": []
+        },
+        "dev": [
+            ""
+        ]
+    },
+    "Stomp": {
+        "elementEnglishName": "Stomp",
+        "elementFaktor": "Labor",
+        "elementID": "",
+        "elementTaxonomy": [
+            "Labor",
+            "Tasks",
+            "Aktions",
+            "Stomp"
+        ],
+        "elementAlias": [],
+        "elementDescription": "",
+        "elementBetanyms": [],
+        "elementInBetom": [],
+        "elementProfilePic": "",
+        "elementExample": {
+            "elementVideo": [],
+            "elementImage": [],
+            "elementQuote": []
+        },
+        "dev": [
+            ""
+        ]
+    },
+    "Jump": {
+        "elementEnglishName": "Jump",
+        "elementFaktor": "Labor",
+        "elementID": "",
+        "elementTaxonomy": [
+            "Labor",
+            "Tasks",
+            "Aktions",
+            "Jump"
+        ],
+        "elementAlias": [],
+        "elementDescription": "",
+        "elementBetanyms": [],
+        "elementInBetom": [],
+        "elementProfilePic": "",
+        "elementExample": {
+            "elementVideo": [],
+            "elementImage": [],
+            "elementQuote": []
+        },
+        "dev": [
+            ""
+        ]
+    },
+    "Kick": {
+        "elementEnglishName": "Kick",
+        "elementFaktor": "Labor",
+        "elementID": "",
+        "elementTaxonomy": [
+            "Labor",
+            "Tasks",
+            "Aktions",
+            "Kick"
+        ],
+        "elementAlias": [],
+        "elementDescription": "",
+        "elementBetanyms": [],
+        "elementInBetom": [],
+        "elementProfilePic": "",
+        "elementExample": {
+            "elementVideo": [],
+            "elementImage": [],
+            "elementQuote": []
+        },
+        "dev": [
+            ""
+        ]
+    },
+    "Protektor": {
+        "elementEnglishName": "Protektor",
+        "elementFaktor": "Labor",
+        "elementID": "",
+        "elementTaxonomy": [
+            "Labor",
+            "Tasks",
+            "Crop",
+            "Neon",
+            "NeonSpecs",
+            "Protektor"
+        ],
+        "elementAlias": [],
+        "elementDescription": "",
+        "elementBetanyms": [],
+        "elementInBetom": [],
+        "elementProfilePic": "",
+        "elementExample": {
+            "elementVideo": [],
+            "elementImage": [],
+            "elementQuote": []
+        },
+        "dev": [
+            ""
+        ]
+    },
+    "Konstrukt": {
+        "elementEnglishName": "Konstrukt",
+        "elementFaktor": "Labor",
+        "elementID": "",
+        "elementTaxonomy": [
+            "Labor",
+            "Tasks",
+            "Aktions",
+            "Konstrukt"
+        ],
+        "elementAlias": [],
+        "elementDescription": "",
+        "elementBetanyms": [],
+        "elementInBetom": [],
+        "elementProfilePic": "",
+        "elementExample": {
+            "elementVideo": [],
+            "elementImage": [],
+            "elementQuote": []
+        },
+        "dev": [
+            ""
+        ]
+    },
+    "Neonektomy": {
+        "elementEnglishName": "Neonektomy",
+        "elementFaktor": "Labor",
+        "elementID": "",
+        "elementTaxonomy": [
+            "Labor",
+            "Tasks",
+            "Aktions",
+            "Neonektomy"
+        ],
+        "elementAlias": [],
+        "elementDescription": "",
+        "elementBetanyms": [],
+        "elementInBetom": [],
+        "elementProfilePic": "",
+        "elementExample": {
+            "elementVideo": [],
+            "elementImage": [],
+            "elementQuote": []
+        },
+        "dev": [
+            ""
+        ]
+    },
+    "Trot": {
+        "elementEnglishName": "Trot",
+        "elementFaktor": "Labor",
+        "elementID": "",
+        "elementTaxonomy": [
+            "Labor",
+            "Tasks",
+            "Aktions",
+            "Trot"
+        ],
+        "elementAlias": [],
+        "elementDescription": "",
+        "elementBetanyms": [],
+        "elementInBetom": [],
+        "elementProfilePic": "",
+        "elementExample": {
+            "elementVideo": [],
+            "elementImage": [],
+            "elementQuote": []
+        },
+        "dev": [
+            ""
+        ]
+    },
+    "Fastener": {
+        "elementEnglishName": "Fastener",
+        "elementFaktor": "Labor",
+        "elementID": "",
+        "elementTaxonomy": [
+            "Labor",
+            "Tools",
+            "Armor",
+            "Fastener"
+        ],
+        "elementAlias": [],
+        "elementDescription": "",
+        "elementBetanyms": [],
+        "elementInBetom": [],
+        "elementProfilePic": "",
+        "elementExample": {
+            "elementVideo": [],
+            "elementImage": [],
+            "elementQuote": []
+        },
+        "dev": [
+            ""
+        ]
+    },
+    "Krampon": {
+        "elementEnglishName": "Krampon",
+        "elementFaktor": "Labor",
+        "elementID": "",
+        "elementTaxonomy": [
+            "Labor",
+            "Tasks",
+            "Aktions",
+            "Krampon"
+        ],
+        "elementAlias": [],
+        "elementDescription": "",
+        "elementBetanyms": [],
+        "elementInBetom": [],
+        "elementProfilePic": "",
+        "elementExample": {
+            "elementVideo": [],
+            "elementImage": [],
+            "elementQuote": []
+        },
+        "dev": [
+            ""
+        ]
+    },
+    "Regress": {
+        "elementEnglishName": "Regress",
+        "elementFaktor": "Labor",
+        "elementID": "",
+        "elementTaxonomy": [
+            "Labor",
+            "Tasks",
+            "Aktions",
+            "Regress"
+        ],
+        "elementAlias": [],
+        "elementDescription": "",
+        "elementBetanyms": [],
+        "elementInBetom": [],
+        "elementProfilePic": "",
+        "elementExample": {
+            "elementVideo": [],
+            "elementImage": [],
+            "elementQuote": []
+        },
+        "dev": [
+            ""
+        ]
+    },
+    "Kompletion": {
+        "elementEnglishName": "Kompletion",
+        "elementFaktor": "Labor",
+        "elementID": "",
+        "elementTaxonomy": [
+            "Labor",
+            "Tasks",
+            "Kompletion"
+        ],
+        "elementAlias": [],
+        "elementDescription": "",
+        "elementBetanyms": [],
+        "elementInBetom": [],
+        "elementProfilePic": "",
+        "elementExample": {
+            "elementVideo": [],
+            "elementImage": [],
+            "elementQuote": []
+        },
+        "dev": [
+            ""
+        ]
+    },
+    "Pocket": {
+        "elementEnglishName": "Pocket",
+        "elementFaktor": "Labor",
+        "elementID": "",
+        "elementTaxonomy": [
+            "Labor",
+            "Tools",
+            "Armor",
+            "Pocket"
+        ],
+        "elementAlias": [],
+        "elementDescription": "",
+        "elementBetanyms": [],
+        "elementInBetom": [],
+        "elementProfilePic": "",
+        "elementExample": {
+            "elementVideo": [],
+            "elementImage": [],
+            "elementQuote": []
+        },
+        "dev": [
+            ""
+        ]
+    },
+    "Hat": {
+        "elementEnglishName": "Hat",
+        "elementFaktor": "Labor",
+        "elementID": "",
+        "elementTaxonomy": [
+            "Labor",
+            "Tools",
+            "Armor",
+            "Hat"
+        ],
+        "elementAlias": [],
+        "elementDescription": "",
+        "elementBetanyms": [],
+        "elementInBetom": [],
+        "elementProfilePic": "",
+        "elementExample": {
+            "elementVideo": [],
+            "elementImage": [],
+            "elementQuote": []
+        },
+        "dev": [
+            ""
+        ]
+    },
+    "HiVis": {
+        "elementEnglishName": "HiVis",
+        "elementFaktor": "Labor",
+        "elementID": "",
+        "elementTaxonomy": [
+            "Labor",
+            "Tools",
+            "Armor",
+            "HiVis"
+        ],
+        "elementAlias": [],
+        "elementDescription": "",
+        "elementBetanyms": [],
+        "elementInBetom": [],
+        "elementProfilePic": "",
+        "elementExample": {
+            "elementVideo": [],
+            "elementImage": [],
+            "elementQuote": []
+        },
+        "dev": [
+            ""
+        ]
+    },
+    "Spike": {
+        "elementEnglishName": "Spike",
+        "elementFaktor": "Labor",
+        "elementID": "",
+        "elementTaxonomy": [
+            "Labor",
+            "Tasks",
+            "Aktions",
+            "Spike"
+        ],
+        "elementAlias": [],
+        "elementDescription": "",
+        "elementBetanyms": [],
+        "elementInBetom": [],
+        "elementProfilePic": "",
+        "elementExample": {
+            "elementVideo": [],
+            "elementImage": [],
+            "elementQuote": []
+        },
+        "dev": [
+            ""
+        ]
+    },
+    "Weave": {
+        "elementEnglishName": "Weave",
+        "elementFaktor": "Labor",
+        "elementID": "",
+        "elementTaxonomy": [
+            "Labor",
+            "Tasks",
+            "Aktions",
+            "Weave"
+        ],
+        "elementAlias": [],
+        "elementDescription": "",
+        "elementBetanyms": [],
+        "elementInBetom": [],
+        "elementProfilePic": "",
+        "elementExample": {
+            "elementVideo": [],
+            "elementImage": [],
+            "elementQuote": []
+        },
+        "dev": [
+            ""
+        ]
+    },
+    "Mano": {
+        "elementEnglishName": "Mano",
+        "elementFaktor": "Labor",
+        "elementID": "",
+        "elementTaxonomy": [
+            "Labor",
+            "Tasks",
+            "Aktions",
+            "Mano"
+        ],
+        "elementAlias": [],
+        "elementDescription": "",
+        "elementBetanyms": [],
+        "elementInBetom": [],
+        "elementProfilePic": "",
+        "elementExample": {
+            "elementVideo": [],
+            "elementImage": [],
+            "elementQuote": []
+        },
+        "dev": [
+            ""
+        ]
+    },
+    "Run": {
+        "elementEnglishName": "Run",
+        "elementFaktor": "Labor",
+        "elementID": "",
+        "elementTaxonomy": [
+            "Labor",
+            "Tasks",
+            "Aktions",
+            "Run"
+        ],
+        "elementAlias": [],
+        "elementDescription": "",
+        "elementBetanyms": [],
+        "elementInBetom": [],
+        "elementProfilePic": "",
+        "elementExample": {
+            "elementVideo": [],
+            "elementImage": [],
+            "elementQuote": []
+        },
+        "dev": [
+            ""
+        ]
+    },
+    "SuperSpike": {
+        "elementEnglishName": "SuperSpike",
+        "elementFaktor": "Labor",
+        "elementID": "",
+        "elementTaxonomy": [
+            "Labor",
+            "Tasks",
+            "Aktions",
+            "SuperSpike"
+        ],
+        "elementAlias": [],
+        "elementDescription": "",
+        "elementBetanyms": [],
+        "elementInBetom": [],
+        "elementProfilePic": "",
+        "elementExample": {
+            "elementVideo": [],
+            "elementImage": [],
+            "elementQuote": []
+        },
+        "dev": [
+            ""
+        ]
+    },
+    "Post": {
+        "elementEnglishName": "Post",
+        "elementFaktor": "Labor",
+        "elementID": "",
+        "elementTaxonomy": [
+            "Labor",
+            "Tasks",
+            "Aktions",
+            "Post"
+        ],
+        "elementAlias": [],
+        "elementDescription": "",
+        "elementBetanyms": [],
+        "elementInBetom": [],
+        "elementProfilePic": "",
+        "elementExample": {
+            "elementVideo": [],
+            "elementImage": [],
+            "elementQuote": []
+        },
+        "dev": [
+            ""
+        ]
+    },
+    "Pugno": {
+        "elementEnglishName": "Pugno",
+        "elementFaktor": "Labor",
+        "elementID": "",
+        "elementTaxonomy": [
+            "Labor",
+            "Tasks",
+            "Aktions",
+            "Pugno"
+        ],
+        "elementAlias": [],
+        "elementDescription": "",
+        "elementBetanyms": [],
+        "elementInBetom": [],
+        "elementProfilePic": "",
+        "elementExample": {
+            "elementVideo": [],
+            "elementImage": [],
+            "elementQuote": []
+        },
+        "dev": [
+            ""
+        ]
+    },
+    "Flex": {
+        "elementEnglishName": "Flex",
+        "elementFaktor": "Labor",
+        "elementID": "",
+        "elementTaxonomy": [
+            "Labor",
+            "Tasks",
+            "Aktions",
+            "Flex"
+        ],
+        "elementAlias": [],
+        "elementDescription": "",
+        "elementBetanyms": [],
+        "elementInBetom": [],
+        "elementProfilePic": "",
+        "elementExample": {
+            "elementVideo": [],
+            "elementImage": [],
+            "elementQuote": []
+        },
+        "dev": [
+            ""
+        ]
+    },
+    "Sit": {
+        "elementEnglishName": "Sit",
+        "elementFaktor": "Labor",
+        "elementID": "",
+        "elementTaxonomy": [
+            "Labor",
+            "Tasks",
+            "Aktions",
+            "Sit"
+        ],
+        "elementAlias": [],
+        "elementDescription": "",
+        "elementBetanyms": [],
+        "elementInBetom": [],
+        "elementProfilePic": "",
+        "elementExample": {
+            "elementVideo": [],
+            "elementImage": [],
+            "elementQuote": []
+        },
+        "dev": [
+            ""
+        ]
+    },
+    "Twist": {
+        "elementEnglishName": "Twist",
+        "elementFaktor": "Labor",
+        "elementID": "",
+        "elementTaxonomy": [
+            "Labor",
+            "Tasks",
+            "Aktions",
+            "Twist"
+        ],
+        "elementAlias": [],
+        "elementDescription": "",
+        "elementBetanyms": [],
+        "elementInBetom": [],
+        "elementProfilePic": "",
+        "elementExample": {
+            "elementVideo": [],
+            "elementImage": [],
+            "elementQuote": []
+        },
+        "dev": [
+            ""
+        ]
+    },
+    "Iguana": {
+        "elementEnglishName": "Iguana",
+        "elementFaktor": "Labor",
+        "elementID": "",
+        "elementTaxonomy": [
+            "Labor",
+            "Tasks",
+            "Aktions",
+            "Iguana"
+        ],
+        "elementAlias": [],
+        "elementDescription": "",
+        "elementBetanyms": [],
+        "elementInBetom": [],
+        "elementProfilePic": "",
+        "elementExample": {
+            "elementVideo": [],
+            "elementImage": [],
+            "elementQuote": []
+        },
+        "dev": [
+            ""
+        ]
+    },
+    "Button": {
+        "elementEnglishName": "Button",
+        "elementFaktor": "Labor",
+        "elementID": "",
+        "elementTaxonomy": [
+            "Labor",
+            "Tools",
+            "Armor",
+            "Fastener",
+            "Button"
+        ],
+        "elementAlias": [],
+        "elementDescription": "",
+        "elementBetanyms": [],
+        "elementInBetom": [],
+        "elementProfilePic": "",
+        "elementExample": {
+            "elementVideo": [],
+            "elementImage": [],
+            "elementQuote": []
+        },
+        "dev": [
+            ""
+        ]
+    },
+    "Zipper": {
+        "elementEnglishName": "Zipper",
+        "elementFaktor": "Labor",
+        "elementID": "",
+        "elementTaxonomy": [
+            "Labor",
+            "Tools",
+            "Armor",
+            "Fastener",
+            "Zipper"
+        ],
+        "elementAlias": [],
+        "elementDescription": "",
+        "elementBetanyms": [],
+        "elementInBetom": [],
+        "elementProfilePic": "",
+        "elementExample": {
+            "elementVideo": [],
+            "elementImage": [],
+            "elementQuote": []
+        },
+        "dev": [
+            ""
+        ]
+    },
+    "ATV": {
+        "elementEnglishName": "ATV",
+        "elementFaktor": "Labor",
+        "elementID": "",
+        "elementTaxonomy": [
+            "Labor",
+            "Tools",
+            "ATV"
+        ],
+        "elementAlias": [],
+        "elementDescription": "",
+        "elementBetanyms": [],
+        "elementInBetom": [],
+        "elementProfilePic": "",
+        "elementExample": {
+            "elementVideo": [],
+            "elementImage": [],
+            "elementQuote": []
+        },
+        "dev": [
+            ""
+        ]
+    },
+    "Protrakt": {
+        "elementEnglishName": "Protrakt",
+        "elementFaktor": "Labor",
+        "elementID": "",
+        "elementTaxonomy": [
+            "Labor",
+            "Tasks",
+            "Aktions",
+            "Protrakt"
+        ],
+        "elementAlias": [],
+        "elementDescription": "",
+        "elementBetanyms": [],
+        "elementInBetom": [],
+        "elementProfilePic": "",
+        "elementExample": {
+            "elementVideo": [],
+            "elementImage": [],
+            "elementQuote": []
+        },
+        "dev": [
+            ""
+        ]
+    },
+    "Initiate": {
+        "elementEnglishName": "Initiate",
+        "elementFaktor": "Labor",
+        "elementID": "",
+        "elementTaxonomy": [
+            "Labor",
+            "Tasks",
+            "Aktions",
+            "Initiate"
+        ],
+        "elementAlias": [],
+        "elementDescription": "",
+        "elementBetanyms": [],
+        "elementInBetom": [],
+        "elementProfilePic": "",
+        "elementExample": {
+            "elementVideo": [],
+            "elementImage": [],
+            "elementQuote": []
+        },
+        "dev": [
+            ""
+        ]
+    },
+    "Permutation": {
+        "elementEnglishName": "Permutation",
+        "elementFaktor": "Via",
+        "elementID": "",
+        "elementTaxonomy": [
+            "Via",
+            "Combinatorics",
+            "Permutation"
+        ],
+        "elementAlias": [],
+        "elementDescription": "",
+        "elementBetanyms": [],
+        "elementInBetom": [],
+        "elementProfilePic": "",
+        "elementExample": {
+            "elementVideo": [],
+            "elementImage": [],
+            "elementQuote": []
+        },
+        "dev": [
+            ""
+        ]
+    },
+    "Pentagon": {
+        "elementEnglishName": "Pentagon",
+        "elementFaktor": "Via",
+        "elementID": "",
+        "elementTaxonomy": [
+            "Via",
+            "Geometry",
+            "Shape",
+            "Polygon",
+            "Pentagon"
+        ],
+        "elementAlias": [],
+        "elementDescription": "",
+        "elementBetanyms": [],
+        "elementInBetom": [],
+        "elementProfilePic": "",
+        "elementExample": {
+            "elementVideo": [],
+            "elementImage": [],
+            "elementQuote": []
+        },
+        "dev": [
+            ""
+        ]
+    },
+    "Diamond": {
+        "elementEnglishName": "Diamond",
+        "elementFaktor": "Via",
+        "elementID": "",
+        "elementTaxonomy": [
+            "Via",
+            "Geometry",
+            "Shape",
+            "Polygon",
+            "Diamond"
+        ],
+        "elementAlias": [],
+        "elementDescription": "",
+        "elementBetanyms": [],
+        "elementInBetom": [],
+        "elementProfilePic": "",
+        "elementExample": {
+            "elementVideo": [],
+            "elementImage": [],
+            "elementQuote": []
+        },
+        "dev": [
+            ""
+        ]
+    },
+    "Heptagon": {
+        "elementEnglishName": "Heptagon",
+        "elementFaktor": "Via",
+        "elementID": "",
+        "elementTaxonomy": [
+            "Via",
+            "Geometry",
+            "Shape",
+            "Polygon",
+            "Heptagon"
+        ],
+        "elementAlias": [],
+        "elementDescription": "",
+        "elementBetanyms": [],
+        "elementInBetom": [],
+        "elementProfilePic": "",
+        "elementExample": {
+            "elementVideo": [],
+            "elementImage": [],
+            "elementQuote": []
+        },
+        "dev": [
+            ""
+        ]
+    },
+    "Hexagon": {
+        "elementEnglishName": "Hexagon",
+        "elementFaktor": "Via",
+        "elementID": "",
+        "elementTaxonomy": [
+            "Via",
+            "Geometry",
+            "Shape",
+            "Polygon",
+            "Hexagon"
+        ],
+        "elementAlias": [],
+        "elementDescription": "",
+        "elementBetanyms": [],
+        "elementInBetom": [],
+        "elementProfilePic": "",
+        "elementExample": {
+            "elementVideo": [],
+            "elementImage": [],
+            "elementQuote": []
+        },
+        "dev": [
+            ""
+        ]
+    },
+    "Square": {
+        "elementEnglishName": "Square",
+        "elementFaktor": "Via",
+        "elementID": "",
+        "elementTaxonomy": [
+            "Via",
+            "Geometry",
+            "Shape",
+            "Polygon",
+            "Square"
+        ],
+        "elementAlias": [],
+        "elementDescription": "",
+        "elementBetanyms": [],
+        "elementInBetom": [],
+        "elementProfilePic": "",
+        "elementExample": {
+            "elementVideo": [],
+            "elementImage": [],
+            "elementQuote": []
+        },
+        "dev": [
+            ""
+        ]
+    },
+    "Creamy": {
+        "elementEnglishName": "Creamy",
+        "elementFaktor": "Via",
+        "elementID": "",
+        "elementTaxonomy": [
+            "Via",
+            "Probability",
+            "Affordance",
+            "Creamy"
+        ],
+        "elementAlias": [],
+        "elementDescription": "",
+        "elementBetanyms": [],
+        "elementInBetom": [],
+        "elementProfilePic": "",
+        "elementExample": {
+            "elementVideo": [],
+            "elementImage": [],
+            "elementQuote": []
+        },
+        "dev": [
+            ""
+        ]
+    },
+    "Minimum": {
+        "elementEnglishName": "Minimum",
+        "elementFaktor": "",
+        "elementID": "",
+        "elementTaxonomy": [
+            "Via",
+            "Probability",
+            "Affordance",
+            "Limit",
+            "Minimum"
+        ],
+        "elementAlias": [],
+        "elementDescription": "",
+        "elementBetanyms": [],
+        "elementInBetom": [],
+        "elementProfilePic": "",
+        "elementExample": {
+            "elementVideo": [],
+            "elementImage": [],
+            "elementQuote": []
+        },
+        "dev": [
+            ""
+        ]
+    },
+    "Triangle": {
+        "elementEnglishName": "Triangle",
+        "elementFaktor": "",
+        "elementID": "",
+        "elementTaxonomy": [
+            "Via",
+            "Geometry",
+            "Shape",
+            "Polygon",
+            "Triangle"
+        ],
+        "elementAlias": [],
+        "elementDescription": "",
+        "elementBetanyms": [],
+        "elementInBetom": [],
+        "elementProfilePic": "",
+        "elementExample": {
+            "elementVideo": [],
+            "elementImage": [],
+            "elementQuote": []
+        },
+        "dev": [
+            ""
+        ]
+    },
+    "Maximum": {
+        "elementEnglishName": "Maximum",
+        "elementFaktor": "Via",
+        "elementID": "",
+        "elementTaxonomy": [
+            "Via",
+            "Probability",
+            "Affordance",
+            "Limit",
+            "Maximum"
+        ],
+        "elementAlias": [],
+        "elementDescription": "",
+        "elementBetanyms": [],
+        "elementInBetom": [],
+        "elementProfilePic": "",
+        "elementExample": {
+            "elementVideo": [],
+            "elementImage": [],
+            "elementQuote": []
+        },
+        "dev": [
+            ""
+        ]
+    },
     "Transit": {
         "elementEnglishName": "Transit",
         "elementFaktor": "Labor",
@@ -2210,7 +4902,7 @@
         }
     },
     "Bundle": {
-        "elementEnglishName": "",
+        "elementEnglishName": "Bundle",
         "elementFaktor": "Labor",
         "elementID": "",
         "elementTaxonomy": [

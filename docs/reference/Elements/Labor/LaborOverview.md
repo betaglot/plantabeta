@@ -95,10 +95,9 @@ Aliases: Work, Job, Task
 - "Like it's your job"
 - How to make money
 
-
 - Job
 - Strategy
-    - The abstract of How 
+    - The abstract of How
 - Performance
     - The results of your efforts
 - Task
