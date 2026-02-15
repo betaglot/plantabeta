@@ -2870,29 +2870,6 @@
             "elementQuote": []
         }
     },
-    "BurnBlock": {
-        "elementEnglishName": "BurnBlock",
-        "elementFaktor": "Labor",
-        "elementID": "",
-        "elementTaxonomy": [
-            "Labor",
-            "Task",
-            "Block",
-            "BurnBlock"
-        ],
-        "elementAlias": [],
-        "elementDescription": [
-            "planting trees in land that was burn fully or partially in a wildfire"
-        ],
-        "elementBetanyms": [],
-        "elementInBetom": [],
-        "elementProfilePic": "",
-        "elementExample": {
-            "elementVideo": [],
-            "elementImage": [],
-            "elementQuote": []
-        }
-    },
     "Cutblock": {
         "elementEnglishName": "Cutblock",
         "elementFaktor": "Labor",
@@ -3337,27 +3314,6 @@
         "elementBetanyms": [
             ""
         ],
-        "elementInBetom": [],
-        "elementProfilePic": "",
-        "elementExample": {
-            "elementVideo": [],
-            "elementImage": [],
-            "elementQuote": []
-        }
-    },
-    "Route": {
-        "elementEnglishName": "Route",
-        "elementFaktor": "Labor",
-        "elementID": "",
-        "elementTaxonomy": [
-            "Labor",
-            "Route"
-        ],
-        "elementAlias": [],
-        "elementDescription": [
-            "a path with a defined start and finish"
-        ],
-        "elementBetanyms": [],
         "elementInBetom": [],
         "elementProfilePic": "",
         "elementExample": {
@@ -4516,53 +4472,6 @@
             "elementQuote": []
         }
     },
-    "Swap": {
-        "elementEnglishName": "Swap",
-        "elementFaktor": "Labor",
-        "elementID": "",
-        "elementTaxonomy": [
-            "Labor",
-            "Aktion",
-            "Swap"
-        ],
-        "elementAlias": [],
-        "elementDescription": [
-            "exchanging one Kontakt for another Kontakt, usually exchanging to another limb, but you can swap within limbs such as from [Kontakt|Knee] to [Kontakt|Foot]"
-        ],
-        "elementBetanyms": [],
-        "elementInBetom": [],
-        "elementProfilePic": "",
-        "elementExample": {
-            "elementVideo": [],
-            "elementImage": [],
-            "elementQuote": []
-        }
-    },
-    "Toggle": {
-        "elementEnglishName": "Toggle",
-        "elementFaktor": "Labor",
-        "elementID": "",
-        "elementTaxonomy": [
-            "Labor",
-            "Aktion",
-            "Toggle"
-        ],
-        "elementAlias": [
-            "Rock over",
-            "Rock up"
-        ],
-        "elementDescription": [
-            "a linkage system (bars connected by pivots) that converts small input motion into large output force or creates a strong locking action, often using an over-center principle where resistance peaks at the center, snapping the mechanism into a locked end position, ideal for clamps, presses, and switches. It works by amplifying force as links align, making them very strong when locked but requiring significant force to move them through the locked-straight position"
-        ],
-        "elementBetanyms": [],
-        "elementInBetom": [],
-        "elementProfilePic": "",
-        "elementExample": {
-            "elementVideo": [],
-            "elementImage": [],
-            "elementQuote": []
-        }
-    },
     "Transport": {
         "elementEnglishName": "Transport",
         "elementFaktor": "Labor",
@@ -4923,14 +4832,14 @@
             "elementQuote": []
         }
     },
-    "Doru": {
-        "elementEnglishName": "Doru",
+    "Dory": {
+        "elementEnglishName": "Dory",
         "elementFaktor": "Labor",
         "elementID": "",
         "elementTaxonomy": [
             "Labor",
             "Tool",
-            "Doru"
+            "Dory"
         ],
         "elementAlias": [
             "staff"
@@ -4959,76 +4868,6 @@
         "elementAlias": [],
         "elementDescription": [
             "a strong, thick cord of strands (such as natural or synthetic fibers, or wire) that are twisted or braided together into a larger and stronger form"
-        ],
-        "elementBetanyms": [],
-        "elementInBetom": [],
-        "elementProfilePic": "",
-        "elementExample": {
-            "elementVideo": [],
-            "elementImage": [],
-            "elementQuote": []
-        }
-    },
-    "Karabiner": {
-        "elementEnglishName": "Carabiner",
-        "elementFaktor": "Labor",
-        "elementID": "",
-        "elementTaxonomy": [
-            "Labor",
-            "Tool",
-            "Carabiner"
-        ],
-        "elementAlias": [
-            "Karabiner"
-        ],
-        "elementDescription": [
-            "an object used for attaching two things, for example by a Klimber for attaching a rope to a harness. It is oval or like a letter D in shape, with a part that opens and closes"
-        ],
-        "elementBetanyms": [],
-        "elementInBetom": [],
-        "elementProfilePic": "",
-        "elementExample": {
-            "elementVideo": [],
-            "elementImage": [],
-            "elementQuote": []
-        }
-    },
-    "Helmet": {
-        "elementEnglishName": "Helmet",
-        "elementFaktor": "Labor",
-        "elementID": "",
-        "elementTaxonomy": [
-            "Labor",
-            "Tool",
-            "FallProtection",
-            "Helmet"
-        ],
-        "elementAlias": [],
-        "elementDescription": [
-            "a strong, hard hat that covers and protects the head"
-        ],
-        "elementBetanyms": [],
-        "elementInBetom": [],
-        "elementProfilePic": "",
-        "elementExample": {
-            "elementVideo": [],
-            "elementImage": [],
-            "elementQuote": []
-        }
-    },
-    "Sling": {
-        "elementEnglishName": "Sling",
-        "elementFaktor": "Labor",
-        "elementID": "",
-        "elementTaxonomy": [
-            "Labor",
-            "Tool",
-            "FallProtection",
-            "Sling"
-        ],
-        "elementAlias": [],
-        "elementDescription": [
-            "a tied or sewn loop of webbing or cord"
         ],
         "elementBetanyms": [],
         "elementInBetom": [],
@@ -6116,29 +5955,6 @@
             "elementQuote": []
         }
     },
-    "Gym": {
-        "elementEnglishName": "Gym",
-        "elementFaktor": "Ekos",
-        "elementID": "",
-        "elementTaxonomy": [
-            "Ekos",
-            "Ekosfera",
-            "Edifice",
-            "Gym"
-        ],
-        "elementAlias": [],
-        "elementDescription": [
-            "an indoor facility with artificial walls featuring textured panels and plasts, designed for rock climbing, bouldering, and training in a safe, controlled environment"
-        ],
-        "elementBetanyms": [],
-        "elementInBetom": [],
-        "elementProfilePic": "",
-        "elementExample": {
-            "elementVideo": [],
-            "elementImage": [],
-            "elementQuote": []
-        }
-    },
     "Sediment": {
         "elementEnglishName": "Sediment",
         "elementFaktor": "Ekos",
@@ -6674,15 +6490,15 @@
             "elementQuote": []
         }
     },
-    "Dew": {
-        "elementEnglishName": "Dew",
+    "Condensation": {
+        "elementEnglishName": "Condensation",
         "elementFaktor": "Ekos",
         "elementID": "",
         "elementTaxonomy": [
             "Ekos",
             "Ekosfera",
             "Hydrosfera",
-            "Dew"
+            "Condensation"
         ],
         "elementAlias": [],
         "elementDescription": [
@@ -7455,54 +7271,6 @@
         "elementAlias": [],
         "elementDescription": [
             "a sedimentary rock consisting predominantly of calcium carbonate, primarily in the form of the mineral calcite or aragonite. It is defined geologically as a rock containing at least 50% calcium carbonate. "
-        ],
-        "elementBetanyms": [],
-        "elementInBetom": [],
-        "elementProfilePic": "",
-        "elementExample": {
-            "elementVideo": [],
-            "elementImage": [],
-            "elementQuote": []
-        }
-    },
-    "Sandstone": {
-        "elementEnglishName": "Sandstone",
-        "elementFaktor": "Ekos",
-        "elementID": "",
-        "elementTaxonomy": [
-            "Ekos",
-            "Ekosfera",
-            "Litosfera",
-            "Rock",
-            "Sandstone"
-        ],
-        "elementAlias": [],
-        "elementDescription": [
-            "a clastic sedimentary rock composed primarily of sand-sized mineral or rock grains (specifically, particles between 0.0625 mm and 2 mm in diameter) that have been naturally cemented together"
-        ],
-        "elementBetanyms": [],
-        "elementInBetom": [],
-        "elementProfilePic": "",
-        "elementExample": {
-            "elementVideo": [],
-            "elementImage": [],
-            "elementQuote": []
-        }
-    },
-    "Basalt": {
-        "elementEnglishName": "Basalt",
-        "elementFaktor": "Ekos",
-        "elementID": "",
-        "elementTaxonomy": [
-            "Ekos",
-            "Ekosfera",
-            "Litosfera",
-            "Rock",
-            "Basalt"
-        ],
-        "elementAlias": [],
-        "elementDescription": [
-            "a dark-colored, fine-grained, extrusive igneous rock that forms from the rapid cooling of magnesium-rich and iron-rich (mafic) lava at or very near a planet's surface. It is the most common volcanic rock type on Earth, making up most of the oceanic crust"
         ],
         "elementBetanyms": [],
         "elementInBetom": [],
@@ -9311,30 +9079,7 @@
             "elementQuote": []
         }
     },
-    "Neosite": {
-        "elementEnglishName": "Neosite",
-        "elementFaktor": "Via",
-        "elementID": "",
-        "elementTaxonomy": [
-            "Via",
-            "Probability",
-            "Affordance",
-            "Site",
-            "Neosite"
-        ],
-        "elementAlias": [],
-        "elementDescription": [
-            "a site of a Neon"
-        ],
-        "elementBetanyms": [],
-        "elementInBetom": [],
-        "elementProfilePic": "",
-        "elementExample": {
-            "elementVideo": [],
-            "elementImage": [],
-            "elementQuote": []
-        }
-    },
+    
     "Passage": {
         "elementEnglishName": "Passage",
         "elementFaktor": "Via",

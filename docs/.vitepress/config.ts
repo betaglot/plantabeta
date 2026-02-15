@@ -193,51 +193,154 @@ function sidebarElements() {
       collapsed: true,
       items: [
         {
-          text: '⭐<span class="labor">Tasks</span>', link: '/reference/Elements/Labor/Tasks/Overview', collapsed: true, items: [
-            { text: '<span class="labor">Piece</span>', link: '/reference/Elements/Labor/Tasks/Piece' },
+          text: '<span class="labor">Employment</span>', link: '/reference/Elements/Labor/Employment/Overview', collapsed: true, items: [
+            { text: '<span class="labor">RestDay</span>', link: '/reference/Elements/Labor/Employment/RestDay' },
             {
-              text: '<span class="labor">Aktions</span>', link: '/reference/Elements/Labor/Tasks/Aktions/Overview', collapsed: true, items: [
-                { text: '<span class="labor">Abduction</span>', link: '/reference/Elements/Labor/Tasks/Aktions/Abduction' },
-                { text: '<span class="labor">Absorb</span>', link: '/reference/Elements/Labor/Tasks/Aktions/Absorb' },
-                { text: '<span class="labor">Adduction</span>', link: '/reference/Elements/Labor/Tasks/Aktions/Adduction' },
-                { text: '<span class="labor">Allos</span>', link: '/reference/Elements/Labor/Tasks/Aktions/Allos' },
-                { text: '<span class="labor">Ama</span>', link: '/reference/Elements/Labor/Tasks/Aktions/Ama' },
-                { text: '<span class="labor">Ankor</span>', link: '/reference/Elements/Labor/Tasks/Aktions/Ankor' },
-                { text: '<span class="labor">Catch</span>', link: '/reference/Elements/Labor/Tasks/Aktions/Catch' },
-                { text: '<span class="labor">Clean</span>', link: '/reference/Elements/Labor/Tasks/Aktions/Clean' },
-                { text: '<span class="labor">Crawl</span>', link: '/reference/Elements/Labor/Tasks/Aktions/Crawl' },
-                { text: '<span class="labor">Drag</span>', link: '/reference/Elements/Labor/Tasks/Aktions/Drag' },
-                { text: '<span class="labor">Drop</span>', link: '/reference/Elements/Labor/Tasks/Aktions/Drop' },
-                { text: '<span class="labor">Eval</span>', link: '/reference/Elements/Labor/Tasks/Aktions/Eval' },
-                { text: '<span class="labor">Fall</span>', link: '/reference/Elements/Labor/Tasks/Aktions/Fall' },
-                { text: '<span class="labor">Flexion</span>', link: '/reference/Elements/Labor/Tasks/Aktions/Flexion' },
-                { text: '<span class="labor">Hinge</span>', link: '/reference/Elements/Labor/Tasks/Aktions/Hinge' },
-                { text: '<span class="labor">Hook</span>', link: '/reference/Elements/Labor/Tasks/Aktions/Hook' },
-                { text: '<span class="labor">Insert</span>', link: '/reference/Elements/Labor/Tasks/Aktions/Insert' },
-                { text: '<span class="labor">Knot</span>', link: '/reference/Elements/Labor/Tasks/Aktions/Knot' },
-                { text: '<span class="labor">Kontakt</span>', link: '/reference/Elements/Labor/Tasks/Aktions/Kontakt' },
-                { text: '<span class="labor">Launch</span>', link: '/reference/Elements/Labor/Tasks/Aktions/Launch' },
-                { text: '<span class="labor">Lift</span>', link: '/reference/Elements/Labor/Tasks/Aktions/Lift' },
-                { text: '<span class="labor">Lock</span>', link: '/reference/Elements/Labor/Tasks/Aktions/Lock' },
-                { text: '<span class="labor">Onda</span>', link: '/reference/Elements/Labor/Tasks/Aktions/Onda' },
-                { text: '<span class="labor">Orbit</span>', link: '/reference/Elements/Labor/Tasks/Aktions/Orbit' },
-                { text: '<span class="labor">Overview</span>', link: '/reference/Elements/Labor/Tasks/Aktions/Overview' },
-                { text: '<span class="labor">Pop</span>', link: '/reference/Elements/Labor/Tasks/Aktions/Pop' },
-                { text: '<span class="labor">Preserve</span>', link: '/reference/Elements/Labor/Tasks/Aktions/Preserve' },
-                { text: '<span class="labor">Reach</span>', link: '/reference/Elements/Labor/Tasks/Aktions/Reach' },
-                { text: '<span class="labor">Rip</span>', link: '/reference/Elements/Labor/Tasks/Aktions/Rip' },
-                { text: '<span class="labor">Rotation</span>', link: '/reference/Elements/Labor/Tasks/Aktions/Rotation' },
-                { text: '<span class="labor">Slot</span>', link: '/reference/Elements/Labor/Tasks/Aktions/Slot' },
-                { text: '<span class="labor">Stack</span>', link: '/reference/Elements/Labor/Tasks/Aktions/Stack' },
-                { text: '<span class="labor">Stall</span>', link: '/reference/Elements/Labor/Tasks/Aktions/Stall' },
-                { text: '<span class="labor">Tangent</span>', link: '/reference/Elements/Labor/Tasks/Aktions/Tangent' },
-                { text: '<span class="labor">Toggle</span>', link: '/reference/Elements/Labor/Tasks/Aktions/Toggle' },
-                { text: '<span class="labor">Transport</span>', link: '/reference/Elements/Labor/Tasks/Aktions/Transport' },
-                { text: '<span class="labor">Whip</span>', link: '/reference/Elements/Labor/Tasks/Aktions/Whip' },
-                { text: '<span class="labor">Wrap</span>', link: '/reference/Elements/Labor/Tasks/Aktions/Wrap' },
+              text: '<span class="labor">Season</span>', link: '/reference/Elements/Labor/Employment/Season', collapsed: true, items: [
+                { text: '<span class="labor">PreSeason</span>', link: '/reference/Elements/Labor/Employment/Season/PreSeason' },
+                { text: '<span class="labor">PostSeason</span>', link: '/reference/Elements/Labor/Employment/Season/PostSeason' },
+
               ]
             },
+            { text: '<span class="labor">Shift</span>', link: '/reference/Elements/Labor/Employment/Shift' },
+            { text: '<span class="labor">Sleep</span>', link: '/reference/Elements/Labor/Employment/Sleep' },
+            {
+              text: '<span class="labor">Transit</span>', link: '/reference/Elements/Labor/Employment/Transit', collapsed: true, items: [
+                { text: '<span class="labor">Bus</span>', link: '/reference/Elements/Labor/Employment/Transit/Bus' },
+                { text: '<span class="labor">Crummy</span>', link: '/reference/Elements/Labor/Employment/Transit/Crummy' },
+                { text: '<span class="labor">Truck</span>', link: '/reference/Elements/Labor/Employment/Transit/Truck' },
+                { text: '<span class="labor">WalkIn</span>', link: '/reference/Elements/Labor/Employment/Transit/WalkIn' },
+                { text: '<span class="labor">WalkOut</span>', link: '/reference/Elements/Labor/Employment/Transit/WalkOut' },
+              ]
+            },
+            { text: '<span class="labor">Workday</span>', link: '/reference/Elements/Labor/Employment/Workday' },
+          ]
+        },
+        {
+          text: '⭐<span class="labor">Tasks</span>', link: '/reference/Elements/Labor/Task/Overview', collapsed: true, items: [
+            {
+              text: '<span class="labor">Crop</span>', link: '/reference/Elements/Labor/Task/Crop/Overview', collapsed: true, items: [
+                {
+                  text: '<span class="labor">Neon</span>', link: '/reference/Elements/Labor/Task/Crop/Neon', collapsed: true, items: [
+                    {
+                      text: '<span class="labor">Specs</span>', link: '/reference/Elements/Labor/Task/Crop/Neon/Specs', collapsed: true, items: [
+                        { text: '<span class="labor">Makrosite</span>', link: '/reference/Elements/Labor/Task/Crop/Neon/Specs/Makrosite/Overview' },
+                        {
+                          text: '<span class="labor">Mikrosite</span>', link: '/reference/Elements/Labor/Task/Crop/Neon/Specs/Mikrosite/Overview', collapsed: true, items: [
+                            { text: '<span class="labor">Protektor</span>', link: '/reference/Elements/Labor/Task/Crop/Neon/Specs/Mikrosite/Overview' },
+                          ]
+                        },
+                      ]
+                    },
+                  ]
+                },
+                { text: '<span class="labor">Paleon</span>', link: '/reference/Elements/Labor/Task/Crop/Paleon/Overview', collapsed: true, items: [] },
 
+              ]
+            },
+            { text: '<span class="labor">Piece</span>', link: '/reference/Elements/Labor/Task/Piece' },
+            {
+              text: '<span class="labor">Aktions</span>', link: '/reference/Elements/Labor/Task/Aktion/Overview', collapsed: true, items: [
+                { text: '<span class="labor">Abdukt</span>', link: '/reference/Elements/Labor/Task/Aktion/Abdukt' },
+                { text: '<span class="labor">Absorb</span>', link: '/reference/Elements/Labor/Task/Aktion/Absorb' },
+                { text: '<span class="labor">Addukt</span>', link: '/reference/Elements/Labor/Task/Aktion/Adduction' },
+                { text: '<span class="labor">Allos</span>', link: '/reference/Elements/Labor/Task/Aktion/Allos' },
+                { text: '<span class="labor">Ama</span>', link: '/reference/Elements/Labor/Task/Aktion/Ama' },
+                { text: '<span class="labor">Amble</span>', link: '/reference/Elements/Labor/Task/Aktion/Amble' },
+                { text: '<span class="labor">Ankor</span>', link: '/reference/Elements/Labor/Task/Aktion/Ankor' },
+                { text: '<span class="labor">Ballista</span>', link: '/reference/Elements/Labor/Task/Aktion/Ballista' },
+                { text: '<span class="labor">Catch</span>', link: '/reference/Elements/Labor/Task/Aktion/Catch' },
+                { text: '<span class="labor">Clean</span>', link: '/reference/Elements/Labor/Task/Aktion/Clean' },
+                { text: '<span class="labor">Crawl</span>', link: '/reference/Elements/Labor/Task/Aktion/Crawl' },
+                { text: '<span class="labor">Defend</span>', link: '/reference/Elements/Labor/Task/Aktion/Defend' },
+                { text: '<span class="labor">Dig</span>', link: '/reference/Elements/Labor/Task/Aktion/Dig' },
+                { text: '<span class="labor">Dilate</span>', link: '/reference/Elements/Labor/Task/Aktion/Dilate' },
+                { text: '<span class="labor">Doff</span>', link: '/reference/Elements/Labor/Task/Aktion/Doff' },
+                { text: '<span class="labor">Don</span>', link: '/reference/Elements/Labor/Task/Aktion/Don' },
+                { text: '<span class="labor">Drag</span>', link: '/reference/Elements/Labor/Task/Aktion/Drag' },
+                { text: '<span class="labor">Drop</span>', link: '/reference/Elements/Labor/Task/Aktion/Drop' },
+                { text: '<span class="labor">Eval</span>', link: '/reference/Elements/Labor/Task/Aktion/Eval' },
+                { text: '<span class="labor">Exit</span>', link: '/reference/Elements/Labor/Task/Aktion/Eval' },
+                { text: '<span class="labor">Fall</span>', link: '/reference/Elements/Labor/Task/Aktion/Fall' },
+                { text: '<span class="labor">Flex</span>', link: '/reference/Elements/Labor/Task/Aktion/Flexion' },
+                { text: '<span class="labor">Hinge</span>', link: '/reference/Elements/Labor/Task/Aktion/Hinge' },
+                { text: '<span class="labor">Hook</span>', link: '/reference/Elements/Labor/Task/Aktion/Hook' },
+                { text: '<span class="labor">Iguana</span>', link: '/reference/Elements/Labor/Task/Aktion/Iguana' },
+                { text: '<span class="labor">Jump</span>', link: '/reference/Elements/Labor/Task/Aktion/Jump' },
+                { text: '<span class="labor">Kick</span>', link: '/reference/Elements/Labor/Task/Aktion/Kick' },
+                { text: '<span class="labor">Klose</span>', link: '/reference/Elements/Labor/Task/Aktion/Kick' },
+                { text: '<span class="labor">Kneel</span>', link: '/reference/Elements/Labor/Task/Aktion/Kneel' },
+                { text: '<span class="labor">Knot</span>', link: '/reference/Elements/Labor/Task/Aktion/Knot' },
+                { text: '<span class="labor">Kompakt</span>', link: '/reference/Elements/Labor/Task/Aktion/Kompakt' },
+                { text: '<span class="labor">Kompress</span>', link: '/reference/Elements/Labor/Task/Aktion/Kompress' },
+                { text: '<span class="labor">Kontakt</span>', link: '/reference/Elements/Labor/Task/Aktion/Kontakt' },
+                { text: '<span class="labor">Konstrukt</span>', link: '/reference/Elements/Labor/Task/Aktion/Konstrukt' },
+                { text: '<span class="labor">Krampon</span>', link: '/reference/Elements/Labor/Task/Aktion/Krampon' },
+                { text: '<span class="labor">Kryos</span>', link: '/reference/Elements/Labor/Task/Aktion/Kryos' },
+                { text: '<span class="labor">Launch</span>', link: '/reference/Elements/Labor/Task/Aktion/Launch' },
+                { text: '<span class="labor">Lean</span>', link: '/reference/Elements/Labor/Task/Aktion/Lean' },
+                { text: '<span class="labor">Lift</span>', link: '/reference/Elements/Labor/Task/Aktion/Lift' },
+                { text: '<span class="labor">Load</span>', link: '/reference/Elements/Labor/Task/Aktion/Load' },
+                { text: '<span class="labor">Lock</span>', link: '/reference/Elements/Labor/Task/Aktion/Lock' },
+                { text: '<span class="labor">Machete</span>', link: '/reference/Elements/Labor/Task/Aktion/Machete' },
+                { text: '<span class="labor">Mano</span>', link: '/reference/Elements/Labor/Task/Aktion/Mano' },
+                { text: '<span class="labor">Markate</span>', link: '/reference/Elements/Labor/Task/Aktion/Markate' },
+                { text: '<span class="labor">Modify</span>', link: '/reference/Elements/Labor/Task/Aktion/Modify' },
+                { text: '<span class="labor">Muscle Up</span>', link: '/reference/Elements/Labor/Task/Aktion/MuscleUp' },
+                { text: '<span class="labor">Neonektomy</span>', link: '/reference/Elements/Labor/Task/Aktion/Neonektomy' },
+                { text: '<span class="labor">Onda</span>', link: '/reference/Elements/Labor/Task/Aktion/Onda' },
+                { text: '<span class="labor">Orbit</span>', link: '/reference/Elements/Labor/Task/Aktion/Orbit' },
+                { text: '<span class="labor">Overview</span>', link: '/reference/Elements/Labor/Task/Aktion/Overview' },
+                { text: '<span class="labor">Pendulate</span>', link: '/reference/Elements/Labor/Task/Aktion/Pendulate' },
+                { text: '<span class="labor">Parry</span>', link: '/reference/Elements/Labor/Task/Aktion/Parry' },
+                { text: '<span class="labor">Poke</span>', link: '/reference/Elements/Labor/Task/Aktion/Poke' },
+                { text: '<span class="labor">Pogo</span>', link: '/reference/Elements/Labor/Task/Aktion/Pogo' },
+                { text: '<span class="labor">Post</span>', link: '/reference/Elements/Labor/Task/Aktion/Post' },
+                { text: '<span class="labor">Preserve</span>', link: '/reference/Elements/Labor/Task/Aktion/Preserve' },
+                { text: '<span class="labor">Progress</span>', link: '/reference/Elements/Labor/Task/Aktion/Progress' },
+                { text: '<span class="labor">Protrakt</span>', link: '/reference/Elements/Labor/Task/Aktion/Protrakt' },
+                { text: '<span class="labor">Pugno</span>', link: '/reference/Elements/Labor/Task/Aktion/Pugno' },
+                { text: '<span class="labor">Pull</span>', link: '/reference/Elements/Labor/Task/Aktion/Pull' },
+                { text: '<span class="labor">Purga</span>', link: '/reference/Elements/Labor/Task/Aktion/Purga' },
+                { text: '<span class="labor">Push</span>', link: '/reference/Elements/Labor/Task/Aktion/Push' },
+                { text: '<span class="labor">Regress</span>', link: '/reference/Elements/Labor/Task/Aktion/Regress' },
+                { text: '<span class="labor">Retrakt</span>', link: '/reference/Elements/Labor/Task/Aktion/Retrakt' },
+                { text: '<span class="labor">Rip</span>', link: '/reference/Elements/Labor/Task/Aktion/Rip' },
+                { text: '<span class="labor">Roll</span>', link: '/reference/Elements/Labor/Task/Aktion/Roll' },
+                { text: '<span class="labor">Rotate</span>', link: '/reference/Elements/Labor/Task/Aktion/Rotate' },
+                { text: '<span class="labor">Run</span>', link: '/reference/Elements/Labor/Task/Aktion/Run' },
+                { text: '<span class="labor">Sit</span>', link: '/reference/Elements/Labor/Task/Aktion/Sit' },
+                { text: '<span class="labor">Slam</span>', link: '/reference/Elements/Labor/Task/Aktion/Slam' },
+                { text: '<span class="labor">Slap</span>', link: '/reference/Elements/Labor/Task/Aktion/Slap' },
+                { text: '<span class="labor">Slide</span>', link: '/reference/Elements/Labor/Task/Aktion/Slide' },
+                { text: '<span class="labor">Slot</span>', link: '/reference/Elements/Labor/Task/Aktion/Slot' },
+                { text: '<span class="labor">Snap</span>', link: '/reference/Elements/Labor/Task/Aktion/Snap' },
+                { text: '<span class="labor">Spike</span>', link: '/reference/Elements/Labor/Task/Aktion/Spike' },
+                { text: '<span class="labor">SuperSpike</span>', link: '/reference/Elements/Labor/Task/Aktion/SuperSpike' },
+                { text: '<span class="labor">Stack</span>', link: '/reference/Elements/Labor/Task/Aktion/Stack' },
+                { text: '<span class="labor">Stall</span>', link: '/reference/Elements/Labor/Task/Aktion/Stall' },
+                { text: '<span class="labor">Stand</span>', link: '/reference/Elements/Labor/Task/Aktion/Stand' },
+                { text: '<span class="labor">Stomp</span>', link: '/reference/Elements/Labor/Task/Aktion/Stomp' },
+                { text: '<span class="labor">Tangent</span>', link: '/reference/Elements/Labor/Task/Aktion/Tangent' },
+                { text: '<span class="labor">Trot</span>', link: '/reference/Elements/Labor/Task/Aktion/Trot' },
+                { text: '<span class="labor">Transport</span>', link: '/reference/Elements/Labor/Task/Aktion/Transport' },
+                { text: '<span class="labor">Twist</span>', link: '/reference/Elements/Labor/Task/Aktion/Twist' },
+                { text: '<span class="labor">Weave</span>', link: '/reference/Elements/Labor/Task/Aktion/Weave' },
+                { text: '<span class="labor">Whip</span>', link: '/reference/Elements/Labor/Task/Aktion/Whip' },
+                { text: '<span class="labor">Wrap</span>', link: '/reference/Elements/Labor/Task/Aktion/Wrap' },
+              ]
+            },
+            {
+              text: '<span class="labor">Block</span>', link: '/reference/Elements/Labor/Task/Block/Overview', collapsed: true, items: [
+                {
+                  text: '<span class="labor">Piece</span>', link: '/reference/Elements/Labor/Task/Block/Piece/Overview', collapsed: true, items: [
+                  ]
+                },
+                { text: '<span class="labor">Burnt Block</span>', link: '/reference/Elements/Labor/Task/Block/BurntBlock' },
+                { text: '<span class="labor">Clearcut Block</span>', link: '/reference/Elements/Labor/Task/Block/ClearcutBlock' },
+                { text: '<span class="labor">Fill Block</span>', link: '/reference/Elements/Labor/Task/Block/FillBlock' },
+              ]
+            },
           ]
         },
         {
@@ -247,21 +350,64 @@ function sidebarElements() {
         },
         {
           text: '⭐<span class="labor">Tools</span>', link: '/reference/Elements/Labor/Tool/Overview', collapsed: true, items: [
-            { text: '<span class="labor">Boot</span>', link: '/reference/Elements/Labor/Tool/Boot/Overview' },
-            { text: '<span class="labor">Boot</span>', link: '/reference/Elements/Labor/Tool/Boot/Overview' },
+            { text: '<span class="labor">ATV</span>', link: '' },
+            {
+              text: '<span class="labor">Armor</span>', link: '/reference/Elements/Labor/Tool/Armor/Overview', collapsed: true, items: [
+                { text: '<span class="labor">Boot</span>', link: '/reference/Elements/Labor/Tool/Boot/Overview' },
+                {
+                  text: '<span class="labor">Bottoms</span>', link: '/reference/Elements/Labor/Tool/Armor/Bottoms/Overview', collapsed: true, items: [
+                    { text: '<span class="labor">Insulation Bottom</span>', link: '/reference/Elements/Labor/Tool/Armor/Bottoms/InsulationBottom' },
+                    { text: '<span class="labor">Sock</span>', link: '/reference/Elements/Labor/Tool/Armor/Bottoms/Sock/Overview' },
+                  ]
+                },
+                {
+                  text: ' <span class="labor">Fastener</span>', link: '/reference/Elements/Labor/Tool/Armor/Fastener/Overview', collapsed: true, items: [
+                    { text: '<span class="labor">Button</span>', link: '/reference/Elements/Labor/Tool/Armor/Fastener/Button' },
+                    { text: '<span class="labor">Velcro</span>', link: '/reference/Elements/Labor/Tool/Armor/Fastener/Velcro' },
+                    { text: '<span class="labor">Zipper</span>', link: '/reference/Elements/Labor/Tool/Armor/Fastener/Zipper' }
+                  ]
+                },
+                { text: '<span class="labor">Glove</span>', link: '/reference/Elements/Labor/Tool/Armor/Glove/Overview' },
+                { text: '<span class="labor">Hat</span>', link: '/reference/Elements/Labor/Tool/Armor/Hat/Overview' },
+                { text: '<span class="labor">Helmet</span>', link: '/reference/Elements/Labor/Tool/Armor/Helmet/Overview' },
+                { text: '<span class="labor">HiVis</span>', link: '/reference/Elements/Labor/Tool/Armor/HiVis/Overview' },
+                { text: '<span class="labor">Radior</span>', link: '/reference/Elements/Labor/Tool/Armor/Radior/Overview' },
+                {
+                  text: '<span class="labor">Tops</span>', link: '/reference/Elements/Labor/Tool/Armor/Tops/Overview', collapsed: true, items: [
+                    { text: '<span class="labor">Insulation Top</span>', link: '/reference/Elements/Labor/Tool/Tops/InsulationTop' },
+                  ]
+                },
+                { text: '<span class="labor">Tibior</span>', link: '/reference/Elements/Labor/Tool/Tibior/Overview' },
+              ]
+            },
             { text: '<span class="labor">Box</span>', link: '/reference/Elements/Labor/Tool/Box/Overview' },
             { text: '<span class="labor">Bundle</span>', link: '/reference/Elements/Labor/Tool/Bundle/Overview' },
-            { text: '<span class="labor">Doru</span>', link: '/reference/Elements/Labor/Tool/Doru/Overview' },
-            { text: '<span class="labor">Glove</span>', link: '/reference/Elements/Labor/Tool/Glove/Overview' },
+            { text: '<span class="labor">Dory</span>', link: '/reference/Elements/Labor/Tool/Dory/Overview' },
+
             { text: '<span class="labor">Karabiner</span>', link: '/reference/Elements/Labor/Tool/Karabiner/Overview' },
-            { text: '<span class="labor">Kit</span>', link: '/reference/Elements/Labor/Tool/Kit/Overview' },
+            {
+              text: '<span class="labor">Kit</span>', link: '/reference/Elements/Labor/Tool/Kit/Overview', collapsed: true, items: [
+                { text: '<span class="labor">Repair</span>', link: '/reference/Elements/Labor/Tool/Repair/Overview' },
+                { text: '<span class="labor">Knife</span>', link: '/reference/Elements/Labor/Tool/Knife/Overview' },
+                { text: '<span class="labor">Multitool</span>', link: '/reference/Elements/Labor/Tool/Multitool/Overview' },
+
+                { text: '<span class="labor">Rope</span>', link: '/reference/Elements/Labor/Tool/Rope/Overview' },
+                { text: '<span class="labor">Bottle</span>', link: '/reference/Elements/Labor/Tool/Bottle/Overview' },
+                { text: '<span class="labor">Jug</span>', link: '/reference/Elements/Labor/Tool/Jug/Overview' },
+                {
+                  text: '<span class="labor">Food Tool</span>', link: '/reference/Elements/Labor/Tool/FoodTool/Overview', collapsed: true, items: [
+                    { text: '<span class="labor">Fork</span>', link: '' },
+                    { text: '<span class="labor">Spoon</span>', link: '' },
+                    { text: '<span class="labor">Food Container</span>', link: '' },
+                    { text: '<span class="labor">Food Bag</span>', link: '' },
+                  ]
+                },
+
+              ]
+            },
             { text: '<span class="labor">Plantafor</span>', link: '/reference/Elements/Labor/Tool/Plantafor/Overview' },
             { text: '<span class="labor">PlotCord</span>', link: '/reference/Elements/Labor/Tool/PlotCord/Overview' },
-            { text: '<span class="labor">Radior</span>', link: '/reference/Elements/Labor/Tool/Radior/Overview' },
-            { text: '<span class="labor">Repair</span>', link: '/reference/Elements/Labor/Tool/Repair/Overview' },
-            { text: '<span class="labor">Rope</span>', link: '/reference/Elements/Labor/Tool/Rope/Overview' },
             { text: '<span class="labor">Spade</span>', link: '/reference/Elements/Labor/Tool/Spade/Overview' },
-            { text: '<span class="labor">Tibior</span>', link: '/reference/Elements/Labor/Tool/Tibior/Overview' },
           ]
         },
         {
@@ -270,7 +416,7 @@ function sidebarElements() {
             { text: '<span class="labor">Competition</span>', link: '' },
             { text: '<span class="labor">Difficulty</span>', link: '' },
             { text: '<span class="labor">Execution</span>', link: '' },
-            { text: '<span class="labor">Specs</span>', link: '/reference/Elements/Labor/Tasks/Specs' },
+            { text: '<span class="labor">Specs</span>', link: '/reference/Elements/Labor/Task/Specs' },
             { text: '<span class="labor">Errors</span>', link: '/reference/Elements/Labor/Performance/Errors/Overview' },
 
 
@@ -301,10 +447,28 @@ function sidebarElements() {
             },
             {
               text: '<span class="soma">Arm</span>', link: '/reference/Elements/Soma/Anatomy/Arm/Overview', collapsed: true, items: [
+                { text: '<span class="soma">Shoulder</span>', link: '/reference/Elements/Soma/Anatomy/Arm/Shoulder' },
+                { text: '<span class="soma">Elbow</span>', link: '/reference/Elements/Soma/Anatomy/Arm/Shoulder' },
                 { text: '<span class="soma">Scapula</span>', link: '/reference/Elements/Soma/Anatomy/Arm/Scapula' },
                 { text: '<span class="soma">Humerus</span>', link: '/reference/Elements/Soma/Anatomy/Arm/Humerus' },
                 { text: '<span class="soma">Forearm</span>', link: '/reference/Elements/Soma/Anatomy/Arm/Forearm' },
-                { text: '<span class="soma">Hand</span>', link: '/reference/Elements/Soma/Anatomy/Arm/Hand' },
+                { text: '<span class="soma">Deltoid</span>', link: '/reference/Elements/Soma/Anatomy/Arm/Deltoid' },
+                { text: '<span class="soma">Trapezius</span>', link: '/reference/Elements/Soma/Anatomy/Arm/Trapezius' },
+                { text: '<span class="soma">Triceps</span>', link: '/reference/Elements/Soma/Anatomy/Arm/Triceps' },
+                { text: '<span class="soma">Biceps</span>', link: '/reference/Elements/Soma/Anatomy/Arm/Biceps' },
+                { text: '<span class="soma">Latissimus Dorsi</span>', link: '/reference/Elements/Soma/Anatomy/Arm/LatissimusDorsi' },
+                {
+                  text: '<span class="soma">Hand</span>', link: '/reference/Elements/Soma/Anatomy/Arm/Hand', collapsed: true, items: [
+                    { text: '<span class="soma">Palm</span>', link: '/reference/Elements/Soma/Anatomy/Arm/Hand/Palm' },
+                    { text: '<span class="soma">Pinky Finger</span>', link: '/reference/Elements/Soma/Anatomy/Arm/Hand/PinkyFinger' },
+                    { text: '<span class="soma">Middle Finger</span>', link: '/reference/Elements/Soma/Anatomy/Arm/Hand/MiddleFinger' },
+                    { text: '<span class="soma">Index Finger</span>', link: '/reference/Elements/Soma/Anatomy/Arm/Hand/IndexFinger' },
+                    { text: '<span class="soma">Ring Finger</span>', link: '/reference/Elements/Soma/Anatomy/Arm/Hand/RingFinger' },
+                    { text: '<span class="soma">Wrist</span>', link: '/reference/Elements/Soma/Anatomy/Arm/Hand/Wrist' },
+                    { text: '<span class="soma">Thumb</span>', link: '/reference/Elements/Soma/Anatomy/Arm/Hand/Thumb' },
+
+                  ]
+                },
               ]
             },
             {
@@ -419,6 +583,7 @@ function sidebarElements() {
                     { text: '<span class="ekos">Abies</span>', link: '/reference/Elements/Ekos/Ekosfera/Biosfera/Flora/Abies' },
                     { text: '<span class="ekos">Bryophyta</span>', link: '/reference/Elements/Ekos/Ekosfera/Biosfera/Flora/Bryophyta' },
                     { text: '<span class="ekos">BurntFlora</span>', link: '/reference/Elements/Ekos/Ekosfera/Biosfera/Flora/BurntFlora' },
+                    { text: '<span class="ekos">Bush</span>', link: '/reference/Elements/Ekos/Ekosfera/Biosfera/Flora/Bush' },
                     { text: '<span class="ekos">Flower</span>', link: '/reference/Elements/Ekos/Ekosfera/Biosfera/Flora/Flower' },
                     { text: '<span class="ekos">Log</span>', link: '/reference/Elements/Ekos/Ekosfera/Biosfera/Flora/Log' },
                     { text: '<span class="ekos">Poales</span>', link: '/reference/Elements/Ekos/Ekosfera/Biosfera/Flora/Poales' },
@@ -443,7 +608,7 @@ function sidebarElements() {
               ]
             },
             {
-              text: '🟩<span class="ekos">Litosfera</span>', link: '/reference/Elements/Ekos/Ekosfera/Litossfera/Overview', collapsed: true, items: [
+              text: '🟩<span class="ekos">Litosfera</span>', link: '/reference/Elements/Ekos/Ekosfera/Litosfera/Overview', collapsed: true, items: [
                 { text: '<span class="ekos">Rock Cap</span>', link: '/reference/Elements/Ekos/Ekosfera/Hydrosfera/RockCap' },
               ]
             },
@@ -469,7 +634,8 @@ function sidebarElements() {
                   ]
                 },
                 { text: '<span class="ekos">Mineral Soil (Woody)</span>', link: '/reference/Elements/Ekos/Ekosfera/Pedosfera/SoilFiber/MineralSoil' },
-                { text: '<span class="ekos">Wet Soil</span>', link: '/reference/Elements/Ekos/Ekosfera/Pedosfera/SoilFiber/WetSoil' },
+                { text: '<span class="ekos">Wet Soil</span>', link: '/reference/Elements/Ekos/Ekosfera/Pedosfera/WetSoil' },
+                { text: '<span class="ekos">Ice Soil</span>', link: '/reference/Elements/Ekos/Ekosfera/Pedosfera/IceSoil' },
               ]
             },
           ]
@@ -487,18 +653,51 @@ function sidebarElements() {
       link: '/reference/Elements/Via/ViaOverview',
       items: [
         {
+          text: '<span class="via">Combinatorics</span>', link: '/reference/Elements/Via/Combinatorics/Overview', collapsed: true, items: [
+            {
+              text: '<span class="via">Graph Theory</span>', link: '/reference/Elements/Via/Combinatorics/GraphTheory/Overview', collapsed: true, items: [
+                { text: '<span class="via">ClosestPair</span>', link: '/reference/Elements/Via/Combinatorics/GraphTheory/ClosestPair' },
+                { text: '<span class="via">ShortestPath</span>', link: '/reference/Elements/Via/Combinatorics/GraphTheory/ShortestPath' },
+                { text: '<span class="via">Dyad</span>', link: '/reference/Elements/Via/Combinatorics/GraphTheory/Dyad' },
+                { text: '<span class="via">Triad</span>', link: '/reference/Elements/Via/Combinatorics/GraphTheory/Triad' },
+                { text: '<span class="via">Tetrad</span>', link: '/reference/Elements/Via/Combinatorics/GraphTheory/Tetrad' },
+                { text: '<span class="via">Pentad</span>', link: '/reference/Elements/Via/Combinatorics/GraphTheory/Pentad' },
+                { text: '<span class="via">Hexad</span>', link: '/reference/Elements/Via/Combinatorics/GraphTheory/Hexad' },
+                { text: '<span class="via">Heptad</span>', link: '/reference/Elements/Via/Combinatorics/GraphTheory/Heptad' },
+                { text: '<span class="via">Octad</span>', link: '/reference/Elements/Via/Combinatorics/GraphTheory/Octad' },
+              ]
+            },
+          ]
+        },
+        {
           text: '🔻<span class="via">Geometry</span>', link: '/reference/Elements/Via/Geometry/Overview', collapsed: true, items: [
+            {
+              text: '<span class="via">Computational Geometry</span>', collapsed: true, items: [
+                { text: '<span class="via">Voronoi Diagram</span>', link: '/reference/Elements/Via/Geometry/ComputationalGeometry/VoronoiDiagram' },
+                { text: '<span class="via">Concave Hull</span>', link: '/reference/Elements/Via/Geometry/ComputationalGeometry/ConcaveHull' },
+                { text: '<span class="via">Convex Hull</span>', link: '/reference/Elements/Via/Geometry/ComputationalGeometry/ConvexHull' },
+                { text: '<span class="via">Delaunay Triangulation</span>', link: '/reference/Elements/Via/Geometry/ComputationalGeometry/DelaunayTriangulation' },
+                { text: '<span class="via">Collision Detection</span>', link: '/reference/Elements/Via/Geometry/ComputationalGeometry/CollisionDetection' },
+              ]
+            },
             { text: '<span class="via">Density</span>', link: '/reference/Elements/Via/Geometry/Density/Overview', collapsed: true, items: [] },
             {
               text: '<span class="via">Direction</span>', link: '/reference/Elements/Via/Geometry/Direction/Overview', collapsed: true, items: [
                 { text: '<span class="via">CardinalDirection</span>', link: '/reference/Elements/Via/Geometry/Direction/CardinalDirection' },
-                { text: '<span class="via">RelativeDirection</span>', link: '/reference/Elements/Via/Geometry/Direction/RelativeDirection' },
+                {
+                  text: '<span class="via">RelativeDirection</span>', link: '/reference/Elements/Via/Geometry/Direction/RelativeDirection', items: [
+                    { text: '<span class="via">Dilation</span>', link: '/reference/Elements/Via/Geometry/Direction/Dilation' },
+                    { text: '<span class="via">Extension</span>', link: '/reference/Elements/Via/Geometry/Direction/Extension' },
+                    { text: '<span class="via">Flexion</span>', link: '/reference/Elements/Via/Geometry/Direction/Flexion' },
+
+                  ]
+                },
               ]
             },
             { text: '<span class="via">Displacement</span>', link: '/reference/Elements/Via/Geometry/Displacement/Overview', collapsed: true, items: [] },
             { text: '<span class="via">Distance</span>', link: '/reference/Elements/Via/Geometry/Distance/Overview', collapsed: true, items: [] },
             { text: '<span class="via">Div</span>', link: '/reference/Elements/Via/Geometry/Div/Overview', collapsed: true, items: [] },
-            { text: '<span class="via">Form</span>', link: '/reference/Elements/Via/Geometry/Form/Overview', collapsed: true, items: [] },
+
             {
               text: '<span class="via">Line</span>', link: '/reference/Elements/Via/Geometry/Line/Overview', collapsed: true, items: [
                 { text: '<span class="via">AroundLine</span>', link: '/reference/Elements/Via/Geometry/Line/AroundLine' },
@@ -510,6 +709,7 @@ function sidebarElements() {
                 { text: '<span class="via">BoustroLine</span>', link: '/reference/Elements/Via/Geometry/Line/BoustroLine' },
               ]
             },
+            { text: '<span class="via">Morfos</span>', link: '/reference/Elements/Via/Geometry/Morfos/Overview', collapsed: true, items: [] },
             { text: '<span class="via">Orientation</span>', link: '/reference/Elements/Via/Geometry/Orientation/Overview', collapsed: true, items: [] },
             {
               text: '<span class="via">Point</span>', link: '/reference/Elements/Via/Geometry/Point/Overview', collapsed: true, items: [
@@ -521,15 +721,31 @@ function sidebarElements() {
                 { text: '<span class="via">VertexPoint</span>', link: '/reference/Elements/Via/Geometry/Point/VertexPoint' },
               ]
             },
-            { text: '<span class="via">Shape</span>', link: '/reference/Elements/Via/Geometry/Shape/Overview', collapsed: true, items: [] },
-
+            {
+              text: '<span class="via">Shape</span>', link: '/reference/Elements/Via/Geometry/Shape/Overview', collapsed: true, items: [
+                { text: '<span class="via">Circle</span>', link: '/reference/Elements/Via/Geometry/Shape/Circle' },
+                { text: '<span class="via">Concave</span>', link: '/reference/Elements/Via/Geometry/Shape/Concave' },
+                { text: '<span class="via">Convex</span>', link: '/reference/Elements/Via/Geometry/Shape/Convex' },
+                {
+                  text: '<span class="via">Polygon</span>', link: '/reference/Elements/Via/Geometry/Shape/Polygon/Overview', collapsed: true, items: [
+                    { text: '<span class="via">Triangle</span>', link: '/reference/Elements/Via/Geometry/Shape/Polygon/Triangle' },
+                    { text: '<span class="via">Square</span>', link: '/reference/Elements/Via/Geometry/Shape/Polygon/Square' },
+                    { text: '<span class="via">Diamond</span>', link: '/reference/Elements/Via/Geometry/Shape/Polygon/Diamond' },
+                    { text: '<span class="via">Pentagon</span>', link: '/reference/Elements/Via/Geometry/Shape/Polygon/Pentagon' },
+                    { text: '<span class="via">Hexagon</span>', link: '/reference/Elements/Via/Geometry/Shape/Polygon/Hexagon' },
+                    { text: '<span class="via">Heptagon</span>', link: '/reference/Elements/Via/Geometry/Shape/Polygon/Heptagon' },
+                    { text: '<span class="via">Octagon</span>', link: '/reference/Elements/Via/Geometry/Shape/Polygon/Octagon' },
+                    { text: '<span class="via">Nonagon</span>', link: '/reference/Elements/Via/Geometry/Shape/Polygon/Nonagon' },
+                  ]
+                },
+              ]
+            },
           ]
         },
         {
           text: '🔻<span class="via">Logic</span>', link: '/reference/Elements/Via/Logic/Overview', collapsed: true, items: [
             { text: '<span class="via">Conditional Logic</span>', link: '/reference/Elements/Via/Logic/ConditionalLogic/Overview', },
             { text: '<span class="via">Propositional Logic</span>', link: '/reference/Elements/Via/Logic/PropositionalLogic/Overview', },
-
           ]
         },
         {
@@ -549,6 +765,12 @@ function sidebarElements() {
                     { text: '<span class="via">PerimeterPassage</span>', link: '/reference/Elements/Via/Probability/Affordance/Passage/PerimeterPassage' },
                   ]
                 },
+                {
+                  text: '<span class="Via">Limit</span>', link: '/reference/Elements/Via/Probability/Affordance/Limit/Overview', collapsed: true, items: [
+                    { text: '<span class="via">Maximum</span>', link: '/reference/Elements/Via/Probability/Affordance/Limit/Maximum' },
+                    { text: '<span class="via">Minimum</span>', link: '/reference/Elements/Via/Probability/Affordance/Limit/Minimum' },
+                  ]
+                },
               ]
             },
             {
@@ -556,7 +778,6 @@ function sidebarElements() {
                 { text: '<span class="via">DegreesOfFreedom</span>', link: '/reference/Elements/Via/Probability/Constraint/DegreesOfFreedom' },
                 { text: '<span class="via">Hyper</span>', link: '/reference/Elements/Via/Probability/Constraint/Hyper' },
                 { text: '<span class="via">Hypo</span>', link: '/reference/Elements/Via/Probability/Constraint/Hypo' },
-
               ]
             },
             { text: '<span class="via">Fortuna</span>', link: '/reference/Elements/Via/Probability/Fortuna/Overview' },
@@ -580,6 +801,7 @@ function sidebarElements() {
                 { text: '<span class="motor">NormalForce</span>', link: '/reference/Elements/Motor/Dynamics/Forces/NormalForce' },
                 { text: '<span class="motor">Pressure</span>', link: '/reference/Elements/Motor/Dynamics/Forces/Pressure' },
                 { text: '<span class="motor">Tension</span>', link: '/reference/Elements/Motor/Dynamics/Forces/Tension' },
+                { text: '<span class="motor">Compression</span>', link: '/reference/Elements/Motor/Dynamics/Forces/Compression' },
               ]
             },
             {
@@ -631,7 +853,6 @@ function sidebarElements() {
                 { text: '<span class="anima">Feels Effortless</span>', link: '/reference/Elements/Anima/Cognitions/CognitiveEase/FeelsEffortless' },
                 { text: '<span class="anima">Feels Good</span>', link: '/reference/Elements/Anima/Cognitions/CognitiveEase/FeelsGood' },
                 { text: '<span class="anima">Feels True</span>', link: '/reference/Elements/Anima/Cognitions/CognitiveEase/FeelsTrue' },
-
               ]
             },
             { text: '<span class="anima">Decision</span>', link: '/reference/Elements/Anima/Cognitions/Decision/Overview' },
