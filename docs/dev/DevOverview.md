@@ -5,6 +5,16 @@ search: false
 
 <video class="rounded-xl" src="/Video/Site_1.mp4" controls loop width="100%"></video>
 
+<video class="rounded-xl" src="/Video/Site_2.mp4" controls loop width="100%"></video>
+
+<video class="rounded-xl" src="/Video/Site_3.mp4" controls loop width="100%"></video>
+
+<video class="rounded-xl" src="/Video/Site_4.mp4" controls loop width="100%"></video>
+
+<video class="rounded-xl" src="/Video/Site_5.mp4" controls loop width="100%"></video>
+
+<video class="rounded-xl" src="/Video/Site_6.mp4" controls loop width="100%"></video>
+
 <!-- 
 <iframe class="youtube" src="https://www.youtube.com/embed/5jzchxfzF28?playlist=pzqD7SZoZcQ,llfZYq7NwI0" title="0001 PlantaBeta 2024 05 05 01 GH010209" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe> -->
 
