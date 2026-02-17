@@ -20,7 +20,8 @@ def convert_mp4_to_gif(input_dir, output_dir):
 
         # Define the desired video filters: 12 fps, 480px width (height auto-adjusted)
         # and use the lanczos scaling algorithm for better quality
-        video_filters = "fps=4,scale=720:-1:flags=lanczos"
+        video_filters = "fps=8,scale=720:-1:flags=lanczos"
+        # video_filters = ""
 
         # Step 1: Generate an optimized color palette for the video
         palette_command = [
@@ -56,6 +57,6 @@ def convert_mp4_to_gif(input_dir, output_dir):
 
 if __name__ == "__main__":
     # Set your input and output directory paths here
-    input_directory = r"C:\Users\chris\klimbeta\docs\dev\GifDev\ConvertVideoToGif\input_videos"
-    output_directory = r"C:\Users\chris\klimbeta\docs\dev\GifDev\ConvertVideoToGif\output_gifs"
+    input_directory = r"C:\Users\chris\OneDrive\Desktop\Betaglot_Video\PlantaBeta-VideoToGif"
+    output_directory = r"C:\Users\chris\plantabeta\docs\dev\GifDev\ConvertVideoToGif\output_gifs"
     convert_mp4_to_gif(input_directory, output_directory)
