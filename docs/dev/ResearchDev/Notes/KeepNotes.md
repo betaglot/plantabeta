@@ -12,12 +12,12 @@ search: false
 - The real world implementation of UBCsoft is fall planting and New Zealand
 - Learn how yo collect flower seeds then you'll have something to farm and sell
 - Ubc must precede kickstart
-- Given that most forests are sixes,nhow much space is represented by a little logging truck?
+- Given that most forests are sixes,how much space is represented by a little logging truck?
 - Prehydrate
 - Seats are shock absorbers, benches are rarely if ever absorbers
 - <BB labor='Spade'soma=''ekos=''via='Anterior Hole'motor=''anima=''/> undercuts anterior to tree
 - <BB labor='Complacency'soma='Fatigue'ekos=''via=''motor=''anima=''/> Complacency from fatigue
-- <BB labor='Boot, Surf'soma=''ekos='LooseSoil'via='Down'motor=''anima=''/> Boot loosesoil down surf
+- <BB labor='Boot, Surf'soma=''ekos='LooseSoil'via='Down'motor=''anima=''/> Boot loose soil down surf
 - Having a rain shield makes you feel better even if there is no difference in cold. It's not the wetness, but the cold that people dislike. Rain layer also prevents dermal evaporative cooling
 - <BB labor='WaterproofGlove, Kit, Waterproof Bag'soma=''ekos=''via=''motor=''anima=''/> Waterproof gloves should be stored dry in a waterproof bag
 - Amy would be an ideal head Planter kapoPlanter
@@ -44,14 +44,14 @@ search: false
 - Tag myriad using tagspaces then display with vuetify
 - Buy your apprentise Patagonia
 - Kickstart a company where the Planters get the start up finding themselves the better they get at planting the closer we are to developping PlantaBeta
-- Schedule opening clipbox instead of work block barrier to entry into work block is lower than if the task description contained the content
-- Spruce root increases soilteknik and possibly soil Kratos
+- Schedule opening clipboard instead of work block barrier to entry into work block is lower than if the task description contained the content
+- Spruce root increases soil teknik and possibly soil Kratos
 - <BB labor='MinimumWage'soma=''ekos=''via=''motor=''anima=''/> Wanna surpass minimum wage?
 - <BB labor=''soma=''ekos=''via='Affordance'motor=''anima='String'/> Unable unaffordable
 - Learn how to harvest seeds
 - <BB labor='BundleWrapper'soma=''ekos=''via=''motor=''anima=''/> BundleWrapper and Markum kickstarter
 - <BB labor='Spade.Spike'soma=''ekos=''via=''motor=''anima=''/> <BB labor=''soma=''ekos=''via='Enable'motor=''anima=''/> <BB labor='RootPod.RipApart'soma=''ekos=''via=''motor=''anima=''/> SpadeSpike to get both hands free to rip apart interrooted pods -->
-- Miriad of Beta should be a DataTable to allow filtering and local search
+- Myriad of Beta should be a DataTable to allow filtering and local search
 - SpineFlexion pulls bellow open. SpineExtension presses air out
 - Precipice Prominence
 - Look for the leaves and flowers in stick mat, since they only grow in soil. Conifers don't always grow in soil
@@ -60,10 +60,10 @@ search: false
 - Distance to the back
 - Kickstarter Give them markums
 - <BB labor='RoleModel'soma=''ekos=''via=''motor=''anima=''/> Hyperhero
-- <BB labor='Tpose'soma=''ekos=''via='FrontierLine'motor=''anima='Gesture'/> T pose for I'm on the line
+- <BB labor='Tpose' soma=''ekos=''via='FrontierLine'motor=''anima='Gesture'/> T pose for I'm on the line. Semaphore
 - <BB labor='NeonMix, Cache, Teamwork, BagIn'soma=''ekos=''via=''motor=''anima=''/> I don't want to cream out all of the pine
 - Could you identify a Planter by their motion captured model?
-- Go back down your line i  when you're backfillng walk iut and you won't have enough trees to BoustroLineBack. Especially in trenches since half full trench leaves a hole or forces deadwalking
+- Go back down your line i  when you're backfilling walk iut and you won't have enough trees to BoustroLineBack. Especially in trenches since half full trench leaves a hole or forces deadwalking
 - Gripping flag on  spade doesn't affort Palm or IsometricGrip
 - <BB labor='Jig'soma=''ekos=''via=''motor=''anima=''/> Jig Songs are jigs in the woodworking sense
 - Say the purpose of the flag, because Planters usually don't have a purpose and are just flagging by automatic convention. IntentionalFlagging
@@ -81,16 +81,16 @@ search: false
 - Increase decrease density gestures when yelling is too difficult
 - StumpTakt Density
 - Probe on blunt spade
-- The probability of piecepinch increases proportional to Planter count
+- The probability of piece pinch increases proportional to Planter count
 - Drink and Eat before replanting
 - If i had already sold twelve works of art then I'd know how to sell one
 - Tension when backswing
 - Accusations while replanting a cattle plant
 - Elevation instead of level
 - Low D in the flat high d in the slope
-- AreaPlant the culdesac
+- AreaPlant the cul-de-sac
 - Overtake Pass
-- Pull a bit more out with SoadeHand after ripping with TreeHand
+- Pull a bit more out with SpadeHand after ripping with TreeHand
 - Maintain a couple trees buffer between Planters
 - PlantaforCarry: One Shoulder strap when one side is empty
 - Fireweed MarkumTakt
@@ -99,10 +99,10 @@ search: false
 - Soil so soft that the blade goes in a stays by itself when dropped from a given height
 - Trench DeadEnds
 - Ting your Spade to get someone's attention
-- Reky
+- Rekky
 - RookieFreeze is more apt than rookieStare
 - U instead of O Grip GentleGrip SpadeGrip
-- Where to buy a hook needle for asolo heel panel
+- Where to buy a hook needle for Asolo heel panel
 - Deep enough neons are less floppy
 - Vertical Blade in constrained area
 - Repeat pry to get under a big chunk of redrot or other low density duff
@@ -131,15 +131,15 @@ search: false
 - BootFender
 - BlueWax
 - Rugby Goose Step
-- Send PaperTowel compnay a message about Markums
+- Send PaperTowel company a message about Markums
 - Constrain PlantaBeta to students
 - Grant
 - Add japanese crowd walk to via overview
-- Ferrous weighted markalim allows magnetic storage
+- Ferrous weighted markum allows magnetic storage
 - Calendar for motel
 - Gray honey paint tryptic at NAG
 - Norah isochrone
-- Bonzai instead of toddler trees
+- Bonsai instead of toddler trees
 - are you interested in Beta testing PlantaBeta?
 - Tie or loop or button on the inside of jacket to allow fully unzipped while also maintaining the structure of the jacket. Stop your jacket from flapping open
 - Unit instead of team
@@ -148,24 +148,24 @@ search: false
 - Stomp for boot purga
 - SetUp a job for September
 - Find a Canadian Mossy Earth
-- Aditojnal use of goggles is as an ankor point for glabrous skin air pneuma aero wind
+- Additional use of goggles is as an ankor point for glabrous skin air pneuma aero wind
 - Labor of love
 - Tree planter dance meme for Shorts
 - Voronoi are mosaics
 - Sift
-- KramponMoove requires rigid BootSole
+- Krampon Aktion requires rigid BootSole
 - Use protein powder jar for nut mix
 - Plantafor folds into a hoplite shield
-- PropositionEkos: There is a type of moss which grows only on creamsoil
+- PropositionEkos: There is a type of moss which grows only on Creamy Soil
 - Planters carry spray can
 - Biodegradable has nothing to do with Biology. bio is life, so over the lifetime of the plastic, it degrades
 - Coffee filters don't fall apart when wet, neither do napkins
 - Truckers hitch for quad
-- Delta is chance and via and agreek triangle letter
+- Delta is chance and via and a greek triangle letter
 - Via: get through before the door closes
 - When removing Midlayer and the shell is wet, ensure that the inside of the shell remains dry by not letting
 - Shade is a Shadow large enough to sit in
-- Soccerball control is flora move
+- Soccer ball control is flora move
 - BirchBark Marka dyed
 - KickerPlate is the Hilt of a Spade
 - Branch rope burn
@@ -177,7 +177,7 @@ search: false
 - ViaLine InsteadOf ViaCurve
 - Cowl
 - authentikos "original, genuine, principal,"
-- Pythogoras for theorem example and first via proposition after definitions
+- Pythagoras for theorem example and first via proposition after definitions
 - Time is a cycle
 - Footprints in snow show via
 - stuffed pepper
@@ -207,15 +207,15 @@ search: false
 - Flag pineapple
 - Markoid
 - If seedlings are neons, then what are crop trees in fill plants. Paleon
-- Certified that they completed Kendra's course and are therefore muscularily ready for the upcoming season
+- Certified that they completed Kendra's course and are therefore muscularly ready for the upcoming season
 - Double serrated bookbinding sides for markum stack and markum rip
 - Playback on ipad like nhl
 - BagAdjust ManoBagRim instead of SilviMoton
-- Patagonia Orange Epaulets on bags and niunt for ventilator. Copy Paramedic Ventilator
+- Patagonia Orange Epaulets on bags and mount for ventilator. Copy Paramedic Ventilator
 - Pacer is the TA of planting  Low bar for entry, lower than becoming an Instructor
 - Plant hypotenuse in flat terrain and "L" on slope
-- ManoSlideCheck uses Kinetic Friction to pull on tree while needletest uses static, same with StaticCheck
-- Teaching noflag, but its optional maybe isn't good
+- ManoSlideCheck uses Kinetic Friction to pull on tree while needle test uses static, same with StaticCheck
+- Teaching no flag, but its optional maybe isn't good
 - Only the first moton is a pry the rest are skim
 - Cedar Bark Flag
 - Planter communication  I'm gonna area plant this section
@@ -241,7 +241,7 @@ search: false
 - Affordance: You can grab it here. If you walk over here, the n you'll be able to see it better
 - Quality decreases at the end of day
 - Planters and Supervisors should be hired for their character
-- Planters should be saying That's good enough, insteadof Fuck it!
+- Planters should be saying That's good enough, instead of Fuck it!
 - Bundle wrappers which haven't been frozen
 - Finger step to start zipper. Hold anterior fabric fixed to prevent zipper kink
 - Teach someone to teach. Triad. Student teacher me
@@ -253,11 +253,11 @@ search: false
 - Missing Front pocket for camera is limiting the data collection for PlantaBeta. Accessibility is low to GoPro
 - Run a line. Run to the back
 - Broaden your idea of a PlantaBeta sponsor to any person or company involved with Plantations. For example Gransfors Bruk
-- A skfreef is a Labon. You don't need to skreef that
+- A skreef is a Labon. You don't need to skreef that
 - Define the range for NovicePlanters, so they know what to expect
     - This is as steep as it gets
 - The goal is to dance while planting
-- NeoMoton BootSlideSkreef is a Skid
+- NeoAktion BootSlideSkreef is a Skid
     - Skid
     - Skim
     - Skreef
@@ -265,8 +265,8 @@ search: false
     - Skour
     - Ski down loose slopes like going down snowbanks in ski boots
 - TibiorDev Sagging gaiters collect water.
-- AlloPlanter needs to know if you're planting off density so they can compensate
-    - AlloPlanter implies Polyplantad
+- AllosPlanter needs to know if you're planting off density so they can compensate
+    - AllosPlanter implies Polyplantad
     - Diplantad
     - Triplantad
     - Polyplantad
@@ -299,7 +299,7 @@ search: false
 - Chestpack Accordion Bucket Acoustic Amplifier for phone
     - Double doors with finger loops to open intake vent at anterior of bellows
     - Washable Air filter
-    - Chestpack bellow allows two arms to operate and minimizez tubing
+    - Chestpack bellow allows two arms to operate and minimizes tubing
     - Accordion reinforced folds
 - Rotate blade to perpendicular to cut roots during skim
     - Perpendicular Blade leads with BladeEdge therefore increases pressure on Impakt
@@ -331,7 +331,7 @@ search: false
     - LookDistal, look Medial, DistalMedialLook
     - Hook along Tail
     - Saddle slide between thumb and index
-- PlantforDev: Phone case front bag attachment
+- PlantaforDev: Phone case front bag attachment
     - HardShell
     - Coil Kord around Kase
 - RainJacket which turns into a Bellow
@@ -364,7 +364,7 @@ search: false
     - Angled Down to anterior decreases probability of neons slipping out during bend over
     - Especially important when silvi is more than 75% full
 - MarkumDev: Flag length doesn't need to be variable
-    - Design Constraint: Flag length must be standarized
+    - Design Constraint: Flag length must be standardized
     - Press
     - SkateboardPress
     - Extruder
@@ -372,10 +372,10 @@ search: false
     - Punch
     - Former like a bumper maker
 - Neon blue
-- Follow the Fireline
+- Follow the Fire Line
 - PlantaBeta: DataStructures
     - Everything is an Object, like in Python
-    - Poliads are DataStructures
+    - Polyads are DataStructures
     - Plots
     - Which to Pop() from a Plot?
         - To Density--
@@ -544,22 +544,22 @@ search: false
 - Efficiency.Strategy: BatchProcessing, ParallelProcessing, SequentialProcessing
     - Efficiency and Effectiveness are the goals to which Strategies aim to achieve
 - Strategy is a stream of decisions. I'll have to wait and see. GameTimeDecision. We'll cross that bridge when we get there
-- Stratgey is measured in strong or weak. Qualitative 
-    - Exploit a weakness 
+- Strategy is measured in strong or weak. Qualitative
+    - Exploit a weakness
     - Exploy ploy plan labor
 - Let's bounce off each other plan
     - Let's bounce off each other plan
 - I'll meet you in the middle is a plan not a strategy
-    - There's no goal mentioned 
-- Im gonna do that dofferntly next time
+    - There's no goal mentioned
+- Im gonna do that differently next time
     - Strategy selects the aktions
-    - Strategos delegate to legatus
+    - Strategos delegate to legates
 - Strategy is a stream of decisions
     - Where do I go next?
     - How much should I bag up?
 - TeamBeta: Pressure
-    - Pressure (Offensive): Quick player and/or puck movement which causes the defence to react more quickly than they may be capable of doing. 
-    - Pressure (Defensive): Just as offensive speed creates pressure, defensive speed creates pressure, but on the offensive players. This results in reducing the time and space available to the attackers. 
+    - Pressure (Offensive): Quick player and/or puck movement which causes the defense to react more quickly than they may be capable of doing.
+    - Pressure (Defensive): Just as offensive speed creates pressure, defensive speed creates pressure, but on the offensive players. This results in reducing the time and space available to the attackers.
 - Videos explaining how an Image  or video represents Via
 - FillPlant == PaleonPlant
     - PaleonKompletion
@@ -574,87 +574,87 @@ search: false
 - PlantaBeta.Strategy: Simplify things
     - Piece Shape
 - We have achieved a strategically rich position full of imbalances
-- The opposite of Strategic is Aggressive 
+- The opposite of Strategic is Aggressive
 - Taktik
     - All Taktiks are Aktions, but not all Aktions are Taktikal
-- PlantaBeta.Strategy: TeamBeta is an effort to avoid capturing, which is the opposite Strategy of Chess. 
-    - You want to constantly avoid overlapping Passages. 
-    - Avoid AntiPassage. 
+- PlantaBeta.Strategy: TeamBeta is an effort to avoid capturing, which is the opposite Strategy of Chess.
+    - You want to constantly avoid overlapping Passages.
+    - Avoid AntiPassage.
     - AntagonisticPassage, ProPassage, SymPassage
-    - ProPassage leaves open Space for the other planters to keep planting without being boxed in and therefore Deadwalking. What is a more apt word than Deadwalking. 
+    - ProPassage leaves open Space for the other planters to keep planting without being boxed in and therefore Deadwalking. What is a more apt word than Deadwalking.
 - Short: Is using your spade less complex shooting a puck? Shorts are the posters of the 2026 social media
 - PlantaBeta: Phases Fases: Opening, Middle, End
 - ChessBeta: SemiOpen Files and Rank. Files and ranks would be a useful concept for PlantaBeta
 - Taktik: Desperado
-    - In chess, a desperado is a tactic where a piece, already trapped or certain to be captured, makes a final, valuable move—capturing an enemy piece or creating a significant threat—before it is lost, extracting maximum compensation from a doomed piece. 
+    - In chess, a desperado is a tactic where a piece, already trapped or certain to be captured, makes a final, valuable move—capturing an enemy piece or creating a significant threat—before it is lost, extracting maximum compensation from a doomed piece.
 - KKR: Share anything that you've published in Academia or Journalism  
-- PlantaBetaShorts: Pull element carfs out of your bags like trees
-- KKR, Reddit: Ask for help getting and writing a grant for plantabeta
+- PlantaBetaShorts: Pull element cards out of your bags like trees
+- KKR, Reddit: Ask for help getting and writing a grant for PlantaBeta
 - Reddit: Are you able to dance while planting
 - Reddit: Show bayesian for the likelihood that you'll be on the same crew with someone who wants to teach you how to plant
-- Slush is mud. Video of you walkng in slush
+- Slush is mud. Video of you walking in slush
 - Hurdle is like Spade over Stump in BeachBeta video
 - KKR: Cattle Plant Strategy
     - PlantaBeta climate
     - tree quality
     - efficiency reduces overhead costs to climate
     - food, shelter, transport
-- Stick handling of goalee or players hockey spafe move . Andre Doru
+- Stick handling of goalie or players hockey spade move . Andre Doru
 - Bonobo Klose
 - FacebookKappa
     - Watch out for people always In and around You’re piece calling 4’s and taking out trees behind you’re back.  
     - Consistently giving you the worst piece, making you wait for trees or telling you they will be right back and never come, giving everyone a price bump except you. Sticking you in a room with a stranger of the opposite gender telling you don’t tell the bosses !!
-    Lying to you about what pestes are in the rooms you stay at. Gaslighting others into following their lead of tormenting you. Don’t be better then anyone or they will make up a reason to get rid of you. Holes not closed etc .. they will do whatever they can to make sure you aren’t getting fast and are miserable out there. Leave these places and never look back!!
+    Lying to you about what pests are in the rooms you stay at. Gaslighting others into following their lead of tormenting you. Don’t be better then anyone or they will make up a reason to get rid of you. Holes not closed etc .. they will do whatever they can to make sure you aren’t getting fast and are miserable out there. Leave these places and never look back!!
     If they are overweight and miserable / always complaining about someone or something the chances of this happening to you goes up by 80% they will plant you’re piece for you if you allow them in the land to cream you out 100% of the time!
     Kiss ass show up everyday shut up and do you’re best because no one will do it for you and you are the only one who will and can take responsibility.
-    - Writing / leaving notes for updates at your cashe if you have not seen them but know they are around. trees (The big ones), boxes, rocks with flagger tied to it. ANYTHING. Duct tape works amazing as well for this. If you have a cashe and you know you always miss your crew boss leaving a quick note saying "im ok but need more trees" can save you both a lot of time find more stuff to plant. 
-    - being a good planter doesn't make you a good crew boss. Crew bossing is its own beast and there's no real comparison to planting. 
-    - I like when theyre nice to me. Maybe a concrete version of this is the tone of voice and body language 
-    - When you ask them why they foreman and they say "Because I didn't want to plant anymore". I hate that shit so much. 
-    - Dont say "one more bag up" 20 times 
-    - eating and sleeping, sometimes you have to feed your crew boss for everybody’s benefit. 
+    - Writing / leaving notes for updates at your cache if you have not seen them but know they are around. trees (The big ones), boxes, rocks with flagger tied to it. ANYTHING. Duct tape works amazing as well for this. If you have a cache and you know you always miss your crew boss leaving a quick note saying "im ok but need more trees" can save you both a lot of time find more stuff to plant.
+    - being a good planter doesn't make you a good crew boss. Crew bossing is its own beast and there's no real comparison to planting.
+    - I like when they're nice to me. Maybe a concrete version of this is the tone of voice and body language
+    - When you ask them why they foreman and they say "Because I didn't want to plant anymore". I hate that shit so much.
+    - Don't say "one more bag up" 20 times
+    - eating and sleeping, sometimes you have to feed your crew boss for everybody’s benefit.
     - Kindness is huge. Rude comments make for bad work environment. Only happened with one small company though.
     Great crew bosses are kind, encouraging and good at understanding how to move you around and how trees go in etc. They also provide good instruction for you so you can quickly orient yourself in a piece.
     - don't EVER say we're going home early unless we're in the truck on the way home
-    -  Increase: when they know that you are making money for them, and they prepare every cache you need, internal and external; when they fix a couple of trees for you instead of smoking joints in the block and make you replant.
+    - Increase: when they know that you are making money for them, and they prepare every cache you need, internal and external; when they fix a couple of trees for you instead of smoking joints in the block and make you replant.
     Decrease: when they just have ego and they need to increase their ego instead of the motivation of their planters.
     - willing to move a box / tray into the back of my piece when the back line is really far
     - doesn’t make promises they can’t keep
     - has a thorough block plan so people aren’t waiting for trees. Shit happens , but showing they are prepared for multiple contingencies
     - there for a chat when I need to let off steam, but leaves me alone when I just want to pound
     - has an even temper / keeps calm. Bad moods are infectious and they especially roll downhill. Bad days are easier when your crew boss is stoic and cool about it.
-    - I think the main thing crew bosses need to realize is that they work for you. A good crew boss will do what needs to be done to make your job easier. Also, being open to suggestions wrt to your piece. If you can suggest an upgrade to your plan without creaming someone, and your foreman is open/receptive to it - that's huge (Speaking from a lifer's perspective). Young planters obviously have to earn the trust of their foreman before they're accommodated / taken seriously. 
-    - Text back planters in the off season about returning, even if they don’t wanna hire them again, just letting them know, probably goes a long way 
+    - I think the main thing crew bosses need to realize is that they work for you. A good crew boss will do what needs to be done to make your job easier. Also, being open to suggestions wrt to your piece. If you can suggest an upgrade to your plan without creaming someone, and your foreman is open/receptive to it - that's huge (Speaking from a lifer's perspective). Young planters obviously have to earn the trust of their foreman before they're accommodated / taken seriously.
+    - Text back planters in the off season about returning, even if they don’t wanna hire them again, just letting them know, probably goes a long way
     - When I was a rookie, my foreman planting with me was gold. Especially in technical land.
     When I was a crew leader, a one-size-fits-all leadership approach was not always effective. I found that giving talented, competent vets more freedom was great, but don't forget that they can also have bad days psychologically, and they won't be a superstar every single day. Checking in with them (or forgetting to) and reading facial and body languages (or not) led both to successes and mistakes for me.
-    - Had a crew boss buy a set of personal radios- different than the company ones that crew bosses used. He'd leave you with one if you were isolated or close to wrapping your piece so you could call him when you were close to finishing. I don't think I waited for trees or land that entire season. A bit of an investment but it paid off for everyone 
+    - Had a crew boss buy a set of personal radios- different than the company ones that crew bosses used. He'd leave you with one if you were isolated or close to wrapping your piece so you could call him when you were close to finishing. I don't think I waited for trees or land that entire season. A bit of an investment but it paid off for everyone
     - When I was a rookie, my foreman planting with me was gold. Especially in technical land.
     When I was a crew leader, a one-size-fits-all leadership approach was not always effective. I found that giving talented, competent vets more freedom was great, but don't forget that they can also have bad days psychologically, and they won't be a superstar every single day. Checking in with them (or forgetting to) and reading facial and body languages (or not) led both to successes and mistakes for me.
     - A crew boss who will sit and chat / share snacks / darts when going through a tough one is really nice.
     That might not "increase" the efficiency of my crew boss, but it might make me wrap a piece that I wasn't planning on finishing.
-    Decrease: spending hours packing trees in land, like tf hire someone to pack trees I need my foreman to be fit and energised.
-    - Well cut peices timming knowing your planters, establishing the realationship of how you work, oh yea respect and manners or im just leaving knowing how to help someone do better, saying its all shit and garbage is social suicide 
-    - My crew boss once saw me struggling. She broght me a full bag up of trees to the end of piece so I didnt have to walk all the way back to the catche without planting 
-    - Plant a couple bundies in shit land is always nice 
-    - First season of having a crewboss set up caches days or even a week ahead was definitely a positive change, willingness or even just lugging boxes to the back of a piece or to a choke point... And naturally having extra smokes for the planters. Not treating a planter like a baby and letting them, and supporting them doing their own thing is great, too (as far as completing a piece). 
-    - Can confirm my foreman from my rookie season was the ONLY one who didnt set up on days off and we ran out of trees and had fuck around days more in a season than my boyfriend in 6 years. She was also a rookie foreman with 9 rookies on her crew but she had 10 years of experience in the bush. When I came back last year this other girl had only been planting for 4 years when she tried to foreman, she had ballers on her crew and was killing it every day. 
-    - Best crew bosses I've had did shit in the background that I had no idea needed to be done, 
-    - tagging ng along for stuff crew bosses are supposed to do before or after planters are dropped off fuckin sucks. 8-10 hours of physical labour I want the most recovery time possible (sitting in a truck is not recovery) 
-    - when they need to demonstrate that they are the best, full of experience and you are f*cking them over planting too close, or something wrong. When they think that they have the power to talk to you like shit because they are foreman... etc 
-    - Well if you know i will for sure be the person that puts in 4k 3k then it helps you plan and i dont have warm up days or ooh my lunch is better then just working. i will plant trees every day knowing this type of thing will help with planning who you want in a peice. You know the most common question people ask is how long they think the contract will go... are you going to put your baller in the snarbie corner probably not it will require lot of space so, why i find is faster you are the more consistent peices become. Rookie on some road side peice close by so can check them easier. 
+    Decrease: spending hours packing trees in land, like tf hire someone to pack trees I need my foreman to be fit and energized.
+    - Well cut pieces timing knowing your planters, establishing the relationship of how you work, oh yea respect and manners or im just leaving knowing how to help someone do better, saying its all shit and garbage is social suicide
+    - My crew boss once saw me struggling. She brought me a full bag up of trees to the end of piece so I didn't have to walk all the way back to the cache without planting
+    - Plant a couple bundies in shit land is always nice
+    - First season of having a crewboss set up caches days or even a week ahead was definitely a positive change, willingness or even just lugging boxes to the back of a piece or to a choke point... And naturally having extra smokes for the planters. Not treating a planter like a baby and letting them, and supporting them doing their own thing is great, too (as far as completing a piece).
+    - Can confirm my foreman from my rookie season was the ONLY one who didn't set up on days off and we ran out of trees and had fuck around days more in a season than my boyfriend in 6 years. She was also a rookie foreman with 9 rookies on her crew but she had 10 years of experience in the bush. When I came back last year this other girl had only been planting for 4 years when she tried to foreman, she had ballers on her crew and was killing it every day.
+    - Best crew bosses I've had did shit in the background that I had no idea needed to be done,
+    - tagging ng along for stuff crew bosses are supposed to do before or after planters are dropped off sucks. 8-10 hours of physical labour I want the most recovery time possible (sitting in a truck is not recovery)
+    - when they need to demonstrate that they are the best, full of experience and you are f*cking them over planting too close, or something wrong. When they think that they have the power to talk to you like shit because they are foreman... etc
+    - Well if you know i will for sure be the person that puts in 4k 3k then it helps you plan and i don't have warm up days or ooh my lunch is better then just working. i will plant trees every day knowing this type of thing will help with planning who you want in a piece. You know the most common question people ask is how long they think the contract will go... are you going to put your baller in the snarbie corner probably not it will require lot of space so, why i find is faster you are the more consistent pieces become. Rookie on some road side piece close by so can check them easier.
     - believe open, non judgement communication is the answer. Let the planters know in advance they’re allowed to tell you how they really feel and you’ll respect it. Even if they’re a bit snappy and curt , don’t take it personal. Planting is hard and we all have bad moods. Just give them space and you can always decompress once the day is done. They’re allows to protect their energy and be alone.
     Conversely , if I see a planter having a bad day who’s just sitting at the cache, don’t hover over them and remind them about quotas. It’s one thing if it’s a late day block close and everyone needs to work together , but just ask them if they want some space or some company. I feel like my crew bosses were always understanding when I needed some down time or a chill day, so I feel I have to pay it forward to my planters. If they’re chronically under performing that’s another issue , but even if in your mind you think “damn, I really wished they would finish this piece today”, its better for team cohesion in the long run to smile and say “okay, do what you need to do. Let me know if there’s anything I can do to help”
     TL;DR - establish from the start with your crew that 2 way honesty solves most every problem. Talk it out and take nothing personal
     - One little trick I like is to put sticks with flagger on them at intersections to help with directions, if you're working a large block system. That way, if you're at a contract where it may be necessary to direct people to their next piece without accompanying them, you can say things like "Walk that way, take a left at the intersection with two red flags, follow that to the turn with two blue flags, then turn right. Yours is the 2nd cache down. Your piece is on the left side of the road. Cut in straight and work left back to Sally's line."
     Obvs this is likely unnecessary on a truck access block but can be very useful in the prairie provinces, where you're likely working with quad access and bigger crews. Very helpful with making people more certain they're going the right way.
-- Are are the most technical specs that youve ecer had to plant?
+- Are are the most technical specs that you've ever had to plant?
 - Once like 6 years ago now BCTS had these test plots that was a tiny fraction of the contract that needed to be planted, and I ended up being the one planting most of it. I think I was getting 6-8 cents more than the base price at the time which .28-.30 cents tree.
     - It was the strangest planting I've ever done. They were determining the effects of planting two shade trees in close proximity to a crop tree rather than obstacle planting. It was in pretty concrete rocky rips as well. Basically I would plant a crop tree in the rip which I believe was Fir, and then plant two aspen 20 cm exactly South and South West of the crop tree I just planted outside of the rip, basically making a right-angled Isosceles triangle. The hard part was if I found a good spot for the crop tree, the shade trees literally had to go in the next already determined spots based on the specs, and sometimes you would run into rock or an unplantable spot which would cause you to have to choose a new spot for the crop tree.
     - They wanted a density of 10s for the crop tree, which means 30 a plot with the shade trees since you'll also have two shade trees planted on each crop tree, which meant 6000 stems per hectare lol. I've never moved so little in a day and this ended up being pretty bad for my arms too from all the opening. I think I was only putting in 1600-1800 a day because it was more about doing a great job since these were experimental.
     - The forester came in and checked my stuff, and decided he wanted the trees in more of an "equilateral triangle" rather than right-angled Isosceles, and I asked him if he still wanted them to be 20 cm away and still South and South West facing on the crop tree which he said yes that needs to remain the same. I knew at the time that this was impossible if the orientation was to remain the same, but I wasn't about to argue triangles specifics with the forester in the middle of this experimental piece so I just said, "YOU GOT IT!!", and went right back to doing exactly what I was doing before and they ended up being super happy with it lol.
     - Most species I've planted in a day was 6 I think around Lumby up Sugar on a burn 4 years ago. Can't remember them all, but I remember the ratio that day was insane, I specifically remember it being 2% cedar so one bundle every other bag up or some shit.
 - Planting Dance. Planting Music. Plant to a drum
-- A tessalation is not a triangulation 
+- A tesselation is not a triangulation
 - Baseball pitch is spade is accessible to millions
 - Tibia spade is a concrete panbeta and should be the first
 - PlantaBeta Shorts
@@ -662,4 +662,9 @@ search: false
     - do you want to pay for university?
     - do you want to get injured?
 - Climate Change will take less time than the tree needs to grow large enough to be cut down
-    - In 30 years nobody will want to cut it down 
+    - In 30 years nobody will want to cut it down
+- PlantaBeta: To plant efficiently and effectively by using Beta
+    - Beta implies Strategy, but not every Betom
+- Taktik: IntermediateAktion
+    - A zwischenzug (German for "intermediate move") is a chess tactic where a player, instead of making an expected move (usually a recapture), first plays an unexpected move that creates an immediate, severe threat, forcing the opponent to respond. Also known as an intermezzo, this "in-between" move often changes the situation to the player's advantage, such as winning material or avoiding a bad exchange
+- The most efficient Motor is where the energy either comes from gravity of as a result of AnteAktion. Energy flows from one Aktion to the next.
