@@ -77,4 +77,11 @@ Aliases: Soil, Dirt, Ground
 - Geology_Soil_SoilLayer_HLayer
 - Geology_Soil_SoilLayer_Humus
 - Geology_Soil_SoilType_Linguistics
+- Use shallow nautical terms to describe soil thin enough to
+    - Clearance between the bottom of the Hole and the Bedrock
+    - Touch and Go: Describes a risky situation with an uncertain outcome. It originates from a ship navigating shallow water where it might briefly "touch" the seabed but continue moving ("go").
+    - High and Dry: Meaning to be left stranded or without support.
+    - Shallows (noun)
+    -
+
 :::

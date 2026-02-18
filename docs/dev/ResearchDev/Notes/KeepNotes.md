@@ -3,54 +3,53 @@ search: false
 ---
 # KeepNotes
 
-- PlantaBeta Kickstarter Ask Journalists
+<!-- - PlantaBeta Kickstarter Ask Journalists -->
 - 1 one second of time saved as sponsor level
-- Forests are fractals. use for testing ease
-- Use shallow nautical terms to describe soil thin enough to
+<!-- - Forests are fractals. use for testing ease -->
+<!-- - Use shallow nautical terms to describe soil thin enough to -->
 - Urban Planting This is a creamshow how long would it take for YOU to plant it?
-- Planted trees are trail delimiters
+<!-- - Planted trees are trail delimiters -->
 - The real world implementation of UBCsoft is fall planting and New Zealand
 - Learn how yo collect flower seeds then you'll have something to farm and sell
 - Ubc must precede kickstart
-- Given that most forests are sixes,how much space is represented by a little logging truck?
-- Prehydrate
-- Seats are shock absorbers, benches are rarely if ever absorbers
-- <BB labor='Spade'soma=''ekos=''via='Anterior Hole'motor=''anima=''/> undercuts anterior to tree
-- <BB labor='Complacency'soma='Fatigue'ekos=''via=''motor=''anima=''/> Complacency from fatigue
-- <BB labor='Boot, Surf'soma=''ekos='LooseSoil'via='Down'motor=''anima=''/> Boot loose soil down surf
-- Having a rain shield makes you feel better even if there is no difference in cold. It's not the wetness, but the cold that people dislike. Rain layer also prevents dermal evaporative cooling
-- <BB labor='WaterproofGlove, Kit, Waterproof Bag'soma=''ekos=''via=''motor=''anima=''/> Waterproof gloves should be stored dry in a waterproof bag
-- Amy would be an ideal head Planter kapoPlanter
-- <BB labor='Taktik.Rest'soma=''ekos=''via=''motor=''anima=''/> Taktik.Rest Taktik.RestDay
+- Given that most forests are sixes, How much area of the forest does a logging truck carry?
+<!-- - Prehydrate -->
+<!-- - Seats are shock absorbers, benches are rarely if ever absorbers -->
+<!-- - <BB labor='Spade'via='Anterior Hole'/> undercuts anterior to tree -->
+<!-- - <BB labor='Complacency'soma='Fatigue'/> Complacency from fatigue -->
+<!-- - <BB labor='Boot, Ski'ekos='LooseSoil'via='Down'/> Boot loose soil down surf -->
+<!-- - Having a rain shield makes you feel better even if there is no difference in cold. It's not the wetness, but the cold that people dislike. Rain layer also prevents dermal evaporative cooling -->
+<!-- - <BB labor='WaterproofGlove, Kit, Waterproof Bag'/> Waterproof gloves should be stored dry in a waterproof bag -->
+- <BB labor='Taktik.Rest'/> Taktik.Rest Taktik.RestDay
 - Trees are mechanical pumps
-- <BB labor='Team, Replant'soma=''ekos=''via='Alignment'motor=''anima=''/> Patrol line replant
+- <BB labor='Team, Replant'via='Alignment'/> Patrol line replant
 - Space out in the y axis to get to back faster
 - Ubc planter school
 - Practice by skimming water
-- <BB labor=''soma=''ekos='Soil'via='Compaction'motor=''anima=''/> Soil compaction
+- <BB labor=''ekos='Soil'via='Compaction'/> Soil compaction
 - Wine can glabrous tissue cooler sleeve.
 - Toph Beifong is good a Via
 - Use coastal autumn experience as marketing shorts for PlantaBeta
 - Find the exceptions
 - around the planet instead of around the world
 - Ekon ContourLine
-- <BB labor='RepairKit'soma=''ekos=''via=''motor=''anima=''/> RepairKit
-- <BB labor=''soma=''ekos='Bouldery, Soil, Erosion'via=''motor=''anima=''/> Bouldery everywhere only top has soil washed away. Every other place has inflow of sediment
+- <BB labor='RepairKit'/> RepairKit
+- <BB labor=''ekos='Bouldery, Soil, Erosion'/> Bouldery everywhere only top has soil washed away. Every other place has inflow of sediment
 - Treaded wagon
-- <BB labor='Markum.Folded, Throw'soma=''ekos=''via=''motor=''anima=''/> Flag is easier to throw folded
+- <BB labor='Markum.Folded, Throw'/> Flag is easier to throw folded
 - The black swan that needs to be uncovered is the grr of training
 - Record the extremities
-- <BB labor=''soma=''ekos=''via='Map'motor='Motoid'anima=''/> TopographicMap blended with Motoid as a way to visualize Moton. (Motoid == EinsteinSpaghetti)
+- <BB labor=''via='Map'motor='Motoid'/> TopographicMap blended with Motoid as a way to visualize Moton. (Motoid == EinsteinSpaghetti)
 - Tag myriad using tagspaces then display with vuetify
 - Buy your apprentise Patagonia
-- Kickstart a company where the Planters get the start up finding themselves the better they get at planting the closer we are to developping PlantaBeta
+- Kickstart a company where the Planters get the start up finding themselves the better they get at planting the closer we are to developing PlantaBeta
 - Schedule opening clipboard instead of work block barrier to entry into work block is lower than if the task description contained the content
 - Spruce root increases soil teknik and possibly soil Kratos
-- <BB labor='MinimumWage'soma=''ekos=''via=''motor=''anima=''/> Wanna surpass minimum wage?
-- <BB labor=''soma=''ekos=''via='Affordance'motor=''anima='String'/> Unable unaffordable
+- <BB labor='MinimumWage'/> Wanna surpass minimum wage?
+- <BB labor=''via='Affordance'anima='String'/> Unable unaffordable
 - Learn how to harvest seeds
-- <BB labor='BundleWrapper'soma=''ekos=''via=''motor=''anima=''/> BundleWrapper and Markum kickstarter
-- <BB labor='Spade.Spike'soma=''ekos=''via=''motor=''anima=''/> <BB labor=''soma=''ekos=''via='Enable'motor=''anima=''/> <BB labor='RootPod.RipApart'soma=''ekos=''via=''motor=''anima=''/> SpadeSpike to get both hands free to rip apart interrooted pods -->
+- <BB labor='BundleWrapper'/> BundleWrapper and Markum kickstarter
+- <BB labor='Spade.Spike'/> <BB labor=''via='Enable'/> <BB labor='RootPod.RipApart'/> SpadeSpike to get both hands free to rip apart interrooted pods -->
 - Myriad of Beta should be a DataTable to allow filtering and local search
 - SpineFlexion pulls bellow open. SpineExtension presses air out
 - Precipice Prominence
@@ -59,25 +58,25 @@ search: false
 - Get in the zone
 - Distance to the back
 - Kickstarter Give them markums
-- <BB labor='RoleModel'soma=''ekos=''via=''motor=''anima=''/> Hyperhero
-- <BB labor='Tpose' soma=''ekos=''via='FrontierLine'motor=''anima='Gesture'/> T pose for I'm on the line. Semaphore
-- <BB labor='NeonMix, Cache, Teamwork, BagIn'soma=''ekos=''via=''motor=''anima=''/> I don't want to cream out all of the pine
+- <BB labor='RoleModel'/> Hyperhero
+- <BB labor='Tpose' via='FrontierLine'anima='Gesture'/> T pose for I'm on the line. Semaphore
+- <BB labor='NeonMix, Cache, Teamwork, BagIn'/> I don't want to cream out all of the pine
 - Could you identify a Planter by their motion captured model?
 - Go back down your line i  when you're backfilling walk iut and you won't have enough trees to BoustroLineBack. Especially in trenches since half full trench leaves a hole or forces deadwalking
-- Gripping flag on  spade doesn't affort Palm or IsometricGrip
-- <BB labor='Jig'soma=''ekos=''via=''motor=''anima=''/> Jig Songs are jigs in the woodworking sense
+- Gripping flag on  spade doesn't afford Palm or IsometricGrip
+- <BB labor='Jig'/> Jig Songs are jigs in the woodworking sense
 - Say the purpose of the flag, because Planters usually don't have a purpose and are just flagging by automatic convention. IntentionalFlagging
 - Invite some people into your land
-- <BB labor='Neon, Piece, Markum'soma=''ekos=''via=''motor=''anima='Mantra, Attention'/> Mantra for where to direct your attention: piece neon line neon markum neon
-- <BB labor='Plot'soma=''ekos=''via='Landmark'motor=''anima='Clarity'/> You don't need to start a plot on a tree if an ekon is more distinctive
+- <BB labor='Neon, Piece, Markum'anima='Mantra, Attention'/> Mantra for where to direct your attention: piece neon line neon markum neon
+- <BB labor='Plot'via='Landmark'anima='Clarity'/> You don't need to start a plot on a tree if an ekon is more distinctive
 - You don't need to be conscious of the thought to look. Like looking before changing lanes or turning in a car or crossing a street
-- <BB labor='Advantage'soma=''ekos=''via=''motor=''anima='BeginnersMind'/> Beginner's Mind can be an advantage
-- <BB labor='LookTo'soma=''ekos=''via=''motor='Rhythm'anima=''/> Head look like breathing rhythm if swimming front crawl
-- <BB labor='Priority'soma=''ekos='Stump'via='Predictability'motor=''anima=''/> Priority to stumps to increase predictability. affordance of neosite selection
-- Ektomi is the opposite Moton of SpadeKlose
+- <BB labor='Advantage'anima='BeginnersMind'/> Beginner's Mind can be an advantage
+- <BB labor='LookTo'motor='Rhythm'/> Head look like breathing rhythm if swimming front crawl
+- <BB labor='Priority'ekos='Stump'via='Predictability'/> Priority to stumps to increase predictability. affordance of neosite selection
+- Ektomy is the opposite Moton of SpadeKlose
 - Focus on Anima while you wait for soma to get back into shape or into shape for the first time
-- <BB labor='Shirt.Cuff.Button, Remove'soma=''ekos=''via=''motor=''anima=''/> Remove cuff buttons
-- <BB labor='Teamwork'soma=''ekos=''via=''motor=''anima='Question'/> Do you mind if I Jump your line?
+- <BB labor='Shirt.Cuff.Button, Remove'/> Remove cuff buttons
+- <BB labor='Teamwork'anima='Question'/> Do you mind if I Jump your line?
 - Increase decrease density gestures when yelling is too difficult
 - StumpTakt Density
 - Probe on blunt spade
@@ -601,7 +600,7 @@ search: false
     - food, shelter, transport
 - Stick handling of goalie or players hockey spade move . Andre Doru
 - Bonobo Klose
-- FacebookKappa
+- FacebookGubern
     - Watch out for people always In and around You’re piece calling 4’s and taking out trees behind you’re back.  
     - Consistently giving you the worst piece, making you wait for trees or telling you they will be right back and never come, giving everyone a price bump except you. Sticking you in a room with a stranger of the opposite gender telling you don’t tell the bosses !!
     Lying to you about what pests are in the rooms you stay at. Gaslighting others into following their lead of tormenting you. Don’t be better then anyone or they will make up a reason to get rid of you. Holes not closed etc .. they will do whatever they can to make sure you aren’t getting fast and are miserable out there. Leave these places and never look back!!

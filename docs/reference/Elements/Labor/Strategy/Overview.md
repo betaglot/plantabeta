@@ -9,6 +9,10 @@
 <!-- =================================================== -->
 ::: details &
 
+- SailingStrategy
+    - Try a Different Tack
+        - Try a different Taktik
+        - Try a different direction, angle of approach
 - Chess
     - Opening == First BagOut of the Piece
     - Middlegame

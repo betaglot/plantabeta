@@ -20,6 +20,7 @@ let elementName = "Direction"
 <!-- =================================================== -->
 ::: details &
 
--
+- Forwards
+- Reverse
 
 :::

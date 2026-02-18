@@ -4450,6 +4450,77 @@
             "elementQuote": []
         }
     },
+    "Recursion": {
+        "elementEnglishName": "Recursion",
+        "elementFaktor": "Via",
+        "elementID": "",
+        "elementTaxonomy": [
+            "Via",
+            "Logic",
+            "Recursion"
+        ],
+        "elementAlias": [],
+        "elementDescription": "",
+        "elementBetanyms": [],
+        "elementInBetom": [],
+        "elementProfilePic": "",
+        "elementExample": {
+            "elementVideo": [],
+            "elementImage": [],
+            "elementQuote": []
+        },
+        "dev": [
+            ""
+        ]
+    },
+     "Ski": {
+        "elementEnglishName": "Ski",
+        "elementFaktor": "Labor",
+        "elementID": "",
+        "elementTaxonomy": [
+            "Labor",
+            "Task",
+            "Aktion",
+            "Ski"
+        ],
+        "elementAlias": [],
+        "elementDescription": "",
+        "elementBetanyms": [],
+        "elementInBetom": [],
+        "elementProfilePic": "",
+        "elementExample": {
+            "elementVideo": [],
+            "elementImage": [],
+            "elementQuote": []
+        },
+        "dev": [
+            ""
+        ]
+    },
+    "Pry": {
+        "elementEnglishName": "Pry",
+        "elementFaktor": "Labor",
+        "elementID": "",
+        "elementTaxonomy": [
+            "Labor",
+            "Task",
+            "Aktion",
+            "Pry"
+        ],
+        "elementAlias": [],
+        "elementDescription": "",
+        "elementBetanyms": [],
+        "elementInBetom": [],
+        "elementProfilePic": "",
+        "elementExample": {
+            "elementVideo": [],
+            "elementImage": [],
+            "elementQuote": []
+        },
+        "dev": [
+            ""
+        ]
+    },
     "Tangent": {
         "elementEnglishName": "Tangent",
         "elementFaktor": "Labor",
@@ -9079,7 +9150,6 @@
             "elementQuote": []
         }
     },
-    
     "Passage": {
         "elementEnglishName": "Passage",
         "elementFaktor": "Via",

@@ -20,6 +20,7 @@ let elementName = "AbsoluteDirection"
 <!-- =================================================== -->
 ::: details &
 
--
+- Compass Bearing (technically isn't static)
+- Up, Down, In, Out
 
 :::

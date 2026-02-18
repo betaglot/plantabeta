@@ -1,7 +1,7 @@
 ---
 search: false
 ---
-# KappaDev
+# GuberDev
 
 - Increase decrease density gestures when yelling is too difficult
 - Pull up slow to reduce the momentum of dust cloud
@@ -11,8 +11,8 @@ search: false
 - Planter pick up sequence
 - flag bag shovel at every drop off
 - break down boxes
-- rock on flatyened boxes
-- when to KappaPlanter
+- rock on flattened boxes
+- when to Guber
     - block close
 - music selection
     - bpm
@@ -22,8 +22,8 @@ search: false
 - specs
     - say ratio slowly
     - number before species
-- flag bag shovel finish time at moring drop off
-- Kappa puts on Planters bags to demonstrate something
+- flag bag shovel finish time at morning drop off
+- Guber puts on Planters bags to demonstrate something
 - maps in dropbox
 - fold tarps using creases
 - pothole via
@@ -49,7 +49,7 @@ search: false
 - i just want you to see what I'm seeing
 - spotter for truck
 - Ting your Spade to get someone's attention
-- Polykappa on a block
+- PolyGuber on a block
     - Homogeneous crew mixture
     - Heterogeneous crew mix
 - Take a picture to point out landmarks

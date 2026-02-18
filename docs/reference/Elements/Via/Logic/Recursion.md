@@ -1,11 +1,11 @@
 <script setup>
 import ElementInfo from '/vue/ElementPage/Page-ElementInfo.vue'
 import ElementTaxonomy from '/vue/ElementPage/Header-ElementTaxonomy.vue'
-let elementName = "Time"
+let elementName = "Recursion"
 
 </script>
 
-# 🟠<span class="motor">Time</span>
+# 🔻<span class="via">Recursion</span>
 
 <ElementTaxonomy :elementName="elementName" />
 
@@ -20,8 +20,8 @@ let elementName = "Time"
 <!-- =================================================== -->
 ::: details &
 
-- Before, After, During, While, Forever, Constantly
-- Reverse
-- Process
+- <BB via="Recursion+Geometry"/> == Fractal
+- Forests are fractals. use for testing ease
+- Boustro within Boustro
 
 :::

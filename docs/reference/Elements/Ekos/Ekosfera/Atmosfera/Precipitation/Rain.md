@@ -21,5 +21,6 @@ let elementName = "Rain"
 ::: details &
 
 -
+- <BB ekos="Rain" anima="Emotion"/>
 
 :::

@@ -29,7 +29,9 @@ Kit = {
     'InsulationLayer',
     'Notebook',
     'ToiletPaper',
-    'WaterBottle'
+    'WaterBottle',
+    'WaterproofGlove',
+    'Waterproof Bag'
 }
 ```
 
@@ -44,6 +46,6 @@ Kit = {
 <!-- =================================================== -->
 ::: details &
 
--
+- <BB labor='WaterproofGlove, Kit, WaterproofBag'/> Waterproof gloves should be stored dry in a waterproof bag
 
 :::

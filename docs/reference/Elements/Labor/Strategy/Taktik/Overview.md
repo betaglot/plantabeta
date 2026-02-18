@@ -20,6 +20,7 @@ let elementName = "Taktik"
 <!-- =================================================== -->
 ::: details &
 
+- <BB labor='Taktik.Rest'/> Taktik.Rest Taktik.RestDay
 - Taktik.Rest
 - Taktik.RestDay
 - Taktik is like the concept of Phrasing in Dance, especially when dancing as a team where members must coordinate. They must be in particular places at particular times to achieve an emergent phenomenon.

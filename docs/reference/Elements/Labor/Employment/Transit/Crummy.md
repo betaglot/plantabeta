@@ -21,6 +21,7 @@ let elementName = "Crummy"
 <!-- =================================================== -->
 ::: details &
 
+- Seats are shock absorbers, benches are rarely if ever absorbers
 -
 
 :::

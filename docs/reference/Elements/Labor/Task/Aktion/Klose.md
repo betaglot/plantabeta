@@ -20,6 +20,6 @@ let elementName = "Klose"
 <!-- =================================================== -->
 ::: details &
 
--
+- Pitch, Yaw, Roll of Boot or Hand determines the surface of a Klosed hole.
 
 :::

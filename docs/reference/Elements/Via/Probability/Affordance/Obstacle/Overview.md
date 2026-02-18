@@ -1,11 +1,11 @@
 <script setup>
 import ElementInfo from '/vue/ElementPage/Page-ElementInfo.vue'
 import ElementTaxonomy from '/vue/ElementPage/Header-ElementTaxonomy.vue'
-let elementName = "Time"
+let elementName = "Obstacle"
 
 </script>
 
-# 🟠<span class="motor">Time</span>
+# 🔻<span class="via">Obstacle</span>
 
 <ElementTaxonomy :elementName="elementName" />
 
@@ -20,8 +20,6 @@ let elementName = "Time"
 <!-- =================================================== -->
 ::: details &
 
-- Before, After, During, While, Forever, Constantly
-- Reverse
-- Process
+-
 
 :::

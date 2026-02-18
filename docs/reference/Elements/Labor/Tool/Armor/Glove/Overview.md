@@ -29,6 +29,7 @@ let elementName = "Glove"
 <!-- =================================================== -->
 ::: details &
 
+- <BB labor='WaterproofGlove, Kit, Waterproof Bag'soma=''ekos=''via=''motor=''anima=''/> Waterproof gloves should be stored dry in a waterproof bag
 - CleanGloves to remove the grit that causes SkinErosion
 - FingerRevertMOTON
     - GloveOff
