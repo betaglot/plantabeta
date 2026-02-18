@@ -22,6 +22,6 @@ let elementName = "BoulderSoil"
 <!-- =================================================== -->
 ::: details &
 
--
+- <BB labor=''ekos='Bouldery, Soil, Erosion'/> Bouldery everywhere only top has soil washed away. Every other place has inflow of sediment. Like at the top of Crater Mountain
 
 :::

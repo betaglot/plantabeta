@@ -1,3 +1,6 @@
+---
+search: false
+---
 
 # To Steepen Learning Curve
 

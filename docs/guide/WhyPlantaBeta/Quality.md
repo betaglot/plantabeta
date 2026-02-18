@@ -1,3 +1,7 @@
+---
+search: false
+---
+
 # To Increase the Quality
 
 ## Maximize Survival

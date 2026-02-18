@@ -20,49 +20,49 @@ search: false
 <!-- - <BB labor='Boot, Ski'ekos='LooseSoil'via='Down'/> Boot loose soil down surf -->
 <!-- - Having a rain shield makes you feel better even if there is no difference in cold. It's not the wetness, but the cold that people dislike. Rain layer also prevents dermal evaporative cooling -->
 <!-- - <BB labor='WaterproofGlove, Kit, Waterproof Bag'/> Waterproof gloves should be stored dry in a waterproof bag -->
-- <BB labor='Taktik.Rest'/> Taktik.Rest Taktik.RestDay
-- Trees are mechanical pumps
-- <BB labor='Team, Replant'via='Alignment'/> Patrol line replant
-- Space out in the y axis to get to back faster
+<!-- - <BB labor='Taktik.Rest'/> Taktik.Rest Taktik.RestDay -->
+<!-- - Trees are mechanical pumps -->
+<!-- - <BB labor='Team, Replant'via='Alignment'/> Patrol line replant -->
+<!-- - Space out in the y axis to get to back faster -->
 - Ubc planter school
-- Practice by skimming water
-- <BB labor=''ekos='Soil'via='Compaction'/> Soil compaction
-- Wine can glabrous tissue cooler sleeve.
-- Toph Beifong is good a Via
+<!-- - Practice by skimming water -->
+<!-- - <BB labor=''ekos='Soil'via='Compaction'/> Soil compaction -->
+<!-- - Wine can glabrous tissue cooler sleeve. -->
+<!-- - Toph Beifong is good a Via -->
 - Use coastal autumn experience as marketing shorts for PlantaBeta
-- Find the exceptions
+<!-- - Find the exceptions -->
 - around the planet instead of around the world
 - Ekon ContourLine
-- <BB labor='RepairKit'/> RepairKit
-- <BB labor=''ekos='Bouldery, Soil, Erosion'/> Bouldery everywhere only top has soil washed away. Every other place has inflow of sediment
-- Treaded wagon
-- <BB labor='Markum.Folded, Throw'/> Flag is easier to throw folded
-- The black swan that needs to be uncovered is the grr of training
-- Record the extremities
-- <BB labor=''via='Map'motor='Motoid'/> TopographicMap blended with Motoid as a way to visualize Moton. (Motoid == EinsteinSpaghetti)
-- Tag myriad using tagspaces then display with vuetify
+<!-- - <BB labor='RepairKit'/> RepairKit -->
+<!-- - <BB labor=''ekos='Bouldery, Soil, Erosion'/> Bouldery everywhere only top has soil washed away. Every other place has inflow of sediment -->
+<!-- - Treaded wagon -->
+<!-- - <BB labor='Markum.Folded, Throw'/> Flag is easier to throw folded -->
+<!-- - The black swan that needs to be uncovered is the grr of training -->
+<!-- - Record the extremities -->
+<!-- - <BB labor=''via='Map'motor='Motoid'/> TopographicMap blended with Motoid as a way to visualize Moton. (Motoid == EinsteinSpaghetti) -->
+<!-- - Tag myriad using tagspaces then display with vuetify -->
 - Buy your apprentise Patagonia
 - Kickstart a company where the Planters get the start up finding themselves the better they get at planting the closer we are to developing PlantaBeta
 - Schedule opening clipboard instead of work block barrier to entry into work block is lower than if the task description contained the content
-- Spruce root increases soil teknik and possibly soil Kratos
+<!-- - Spruce root increases soil teknik and possibly soil Kratos -->
 - <BB labor='MinimumWage'/> Wanna surpass minimum wage?
 - <BB labor=''via='Affordance'anima='String'/> Unable unaffordable
 - Learn how to harvest seeds
 - <BB labor='BundleWrapper'/> BundleWrapper and Markum kickstarter
-- <BB labor='Spade.Spike'/> <BB labor=''via='Enable'/> <BB labor='RootPod.RipApart'/> SpadeSpike to get both hands free to rip apart interrooted pods -->
+<!-- - <BB labor='Spade.Spike'/> <BB labor=''via='Enable'/> <BB labor='RootPod.RipApart'/> SpadeSpike to get both hands free to rip apart interrooted pods -->
 - Myriad of Beta should be a DataTable to allow filtering and local search
-- SpineFlexion pulls bellow open. SpineExtension presses air out
-- Precipice Prominence
-- Look for the leaves and flowers in stick mat, since they only grow in soil. Conifers don't always grow in soil
+<!-- - SpineFlexion pulls bellow open. SpineExtension presses air out -->
+<!-- - Precipice Prominence -->
+<!-- - Look for the leaves and flowers in stick mat, since they only grow in soil. Conifers don't always grow in soil -->
 - Markum Telos Speed isn't a benefit if it leads to waste
 - Get in the zone
 - Distance to the back
 - Kickstarter Give them markums
 - <BB labor='RoleModel'/> Hyperhero
-- <BB labor='Tpose' via='FrontierLine'anima='Gesture'/> T pose for I'm on the line. Semaphore
-- <BB labor='NeonMix, Cache, Teamwork, BagIn'/> I don't want to cream out all of the pine
+<!-- - <BB labor='Tpose' via='FrontierLine'anima='Gesture'/> T pose for I'm on the line. Semaphore -->
+<!-- - <BB labor='NeonMix, Cache, Teamwork, BagIn'/> I don't want to cream out all of the pine -->
 - Could you identify a Planter by their motion captured model?
-- Go back down your line i  when you're backfilling walk iut and you won't have enough trees to BoustroLineBack. Especially in trenches since half full trench leaves a hole or forces deadwalking
+- Go back down your line in  when you're backfilling walk out and you won't have enough trees to BoustroLineBack. Especially in trenches since half full trench leaves a hole or forces deadwalking
 - Gripping flag on  spade doesn't afford Palm or IsometricGrip
 - <BB labor='Jig'/> Jig Songs are jigs in the woodworking sense
 - Say the purpose of the flag, because Planters usually don't have a purpose and are just flagging by automatic convention. IntentionalFlagging

@@ -119,20 +119,19 @@ Clamp under wrist to allow
 
 Attaches to the underside of Radior
 
-## ⭐<span class="labor">KiklosDev</span>
-
-Kiklos: wheel
+## ⭐<span class="labor">KartDev</span>
 
 Aliases: Cart, Wagon, Trolley, Dolly, WheelBarrow
 
 - WalkIn
 - BoxMOTON
+- Treaded wagon
 
-## ⭐<span class="labor">DoruDev</span>
+## ⭐<span class="labor">DoryDev</span>
 
 Greek for Spear
 
-Lash D to Doru
+Lash D to Dory
 
 ## ⭐<span class="labor">PlantaforDev</span>
 
@@ -459,6 +458,8 @@ SuitParts = [
     - to allow you to lever the zipper tab so that the cinch
 
 ### ⭐<span class="labor">Bellow BackpackDev</span>
+
+- SpineFlexion pulls bellow open. SpineExtension presses air out
 
 Bellow which blows air into shirt for evaporative cooling during summer
 

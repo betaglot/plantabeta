@@ -1,3 +1,7 @@
+---
+search: false
+---
+
 # Prevent Injury
 
 ## Lost Time due to Injury

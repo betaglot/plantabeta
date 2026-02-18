@@ -31,6 +31,7 @@ let elementName = "Markum"
 <!-- =================================================== -->
 ::: details &
 
+- <BB labor='Throw,Markum.Folded'/> Flag is easier to throw when its folded
 - PlantaBeta.Labor.Markum
     - BlockBoundaryFlag
     - WildlifeTreePatch

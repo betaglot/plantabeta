@@ -1,14 +1,8 @@
 ---
-aside: false
 search: false
 ---
-<script setup>
-// BetomName=""
-</script>
 
-# <BB labor="Piece.Strategy" via="Apogee"/>
-
-Aliases: BackFilling
+# <span class="beta">BETAGLOT</span>Dev (Scientific Method)
 
 ---
 
@@ -19,9 +13,7 @@ Aliases: BackFilling
 <!-- =================================================== -->
 ::: details &
 
-- Apogee is the point of the Piece which is the furthest away from the cache.
-- StartWithApogee
-- Use a ParaPerimeterLine for the first bag up
-- Space out in the y axis to get to back faster. x-axis is along the road
+- Record the extremities
+- Find the exceptions
 
 :::

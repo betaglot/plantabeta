@@ -21,5 +21,6 @@ let elementName = "Stickmat"
 ::: details &
 
 -
+- Look for the leaves and flowers in stick mat, since they only grow in soil. Conifers don't always grow in soil
 
 :::

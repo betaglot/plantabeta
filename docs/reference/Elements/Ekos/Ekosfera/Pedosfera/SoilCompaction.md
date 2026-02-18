@@ -1,17 +1,15 @@
 <script setup>
 import ElementInfo from '/vue/ElementPage/Page-ElementInfo.vue'
 import ElementTaxonomy from '/vue/ElementPage/Header-ElementTaxonomy.vue'
-let elementName = "WoodySoil"
+let elementName = "SoilCompaction"
 
 </script>
 
-# 🟩<span class="ekos">RedRot (Woody) Soil</span>
+# 🟩<span class="ekos">Soil Compaction</span>
 
 <ElementTaxonomy :elementName="elementName" />
 
 <ElementInfo :elementName=elementName />
-
-> Organic material containing more than 50% woody fibers. - [CanadianGov](https://sis.agr.gc.ca/cansis/taxa/cssc3/chpt18.html)
 
 ---
 
@@ -22,7 +20,7 @@ let elementName = "WoodySoil"
 <!-- =================================================== -->
 ::: details &
 
-- Interrooted
-- Spruce root increases soil teknik and possibly soil Kratos
+- Stomp or Press fluffy Silt Soil before opening a hole.
+- <BB labor=''ekos='Soil'via='Compaction'/> Soil compaction
 
 :::

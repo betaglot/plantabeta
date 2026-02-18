@@ -1,17 +1,16 @@
+
 <script setup>
 import ElementInfo from '/vue/ElementPage/Page-ElementInfo.vue'
 import ElementTaxonomy from '/vue/ElementPage/Header-ElementTaxonomy.vue'
-let elementName = "WoodySoil"
+let elementName = "Replant"
 
 </script>
 
-# 🟩<span class="ekos">RedRot (Woody) Soil</span>
+# ⭐<span class="labor">Replant</span>
 
 <ElementTaxonomy :elementName="elementName" />
 
 <ElementInfo :elementName=elementName />
-
-> Organic material containing more than 50% woody fibers. - [CanadianGov](https://sis.agr.gc.ca/cansis/taxa/cssc3/chpt18.html)
 
 ---
 
@@ -22,7 +21,13 @@ let elementName = "WoodySoil"
 <!-- =================================================== -->
 ::: details &
 
-- Interrooted
-- Spruce root increases soil teknik and possibly soil Kratos
+- NeonEval
+- MikrositeEval
+- ErrorDetection
+- DensityEval
+- HoleEval
+- KloseEval
+- Replant without Neonektomy
+- SkreefEval
 
 :::

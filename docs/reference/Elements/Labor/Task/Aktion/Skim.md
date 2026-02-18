@@ -23,5 +23,7 @@ let elementName = "Slam"
 - SpadeSkim
 - ManoSkim
 - BootSkim
+- Practice by skimming water
+-
 
 :::

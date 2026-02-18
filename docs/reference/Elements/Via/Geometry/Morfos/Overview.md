@@ -21,5 +21,7 @@ let elementName = "Morfos"
 ::: details &
 
 - 3 Dimensional Form
+- Precipice Prominence
+    - Prominence of a mountain starts at the base, not sea level
 
 :::

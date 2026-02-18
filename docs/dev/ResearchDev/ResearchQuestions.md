@@ -77,7 +77,9 @@ search: false
 - When did tree planting start in Canada?
 - Are there any 5th generation Planters in Canada?
 - Why do Planters use spades instead of hoes?
-- What is the difference between a spade and a Spade?
+- What is the difference between a spade and a shovel?
+- The black swan that needs to be uncovered is the grr of training
+-
 -
 
 ## DataCollection

@@ -21,5 +21,7 @@ let elementName = "Klose"
 ::: details &
 
 - Pitch, Yaw, Roll of Boot or Hand determines the surface of a Klosed hole.
+- <BB labor=''ekos='Soil'via='Compaction'/> Soil compaction
+-
 
 :::

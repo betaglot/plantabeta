@@ -23,5 +23,7 @@ let elementName = "Team"
 - Teammate
 - Teamwork
 - Team player
+    - <BB labor='NeonMix, Cache, Teamwork, BagIn'/> I don't want to cream out all of the pine
+- <BB labor='Replant,Team'via='Alignment'/> Patrol Line (FireBeta) replant
 
 :::

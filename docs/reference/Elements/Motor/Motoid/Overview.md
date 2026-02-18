@@ -1,14 +1,8 @@
 ---
-aside: false
 search: false
 ---
-<script setup>
-// BetomName=""
-</script>
 
-# <BB labor="Piece.Strategy" via="Apogee"/>
-
-Aliases: BackFilling
+# <span class="motor">Motoid</span>
 
 ---
 
@@ -19,9 +13,9 @@ Aliases: BackFilling
 <!-- =================================================== -->
 ::: details &
 
-- Apogee is the point of the Piece which is the furthest away from the cache.
-- StartWithApogee
-- Use a ParaPerimeterLine for the first bag up
-- Space out in the y axis to get to back faster. x-axis is along the road
+- All Positions in Space aggregated and shown at once
+- Motion Blur
+- <BB labor=''via='Map'motor='Motoid'/> TopographicMap blended with Motoid as a way to visualize Moton. (Motoid == EinsteinSpaghetti)
+- Worldline in Physics
 
 :::

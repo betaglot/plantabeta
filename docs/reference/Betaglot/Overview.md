@@ -1,3 +1,7 @@
+---
+search: false
+---
+
 # BETAGLOT
 
 Betaglot is the structure that sews together all the elements and also defines how elements are made
@@ -43,7 +47,7 @@ Each element is an Object, each object has methods and Attributes. Faktors are c
 
 Faktors contribute to , they're fellows
 
-BETA is an emergent property resulting from the combination of at least two elements of experience. 
+BETA is an emergent property resulting from the combination of at least two elements of experience.
 
 Where are you when you're adding 2 + 2? The experience is math.
 

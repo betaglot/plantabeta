@@ -4473,6 +4473,23 @@
             ""
         ]
     },
+    "Replant": {
+    "elementEnglishName": "Replant",
+    "elementFaktor": "Labor",
+    "elementID": "",
+    "elementTaxonomy": ["Labor","Employment","Replant"],
+    "elementAlias": [],
+    "elementDescription": "",
+    "elementBetanyms": [],
+    "elementInBetom": [],
+    "elementProfilePic": "",
+    "elementExample": {
+    "elementVideo": [],
+    "elementImage": [],
+    "elementQuote": []
+    },
+    "dev" : [""]
+    },
      "Ski": {
         "elementEnglishName": "Ski",
         "elementFaktor": "Labor",

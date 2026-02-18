@@ -25,4 +25,11 @@ let elementName = "Creamy"
 - Creamy
 - Definition: High Probability that the Sites or Piece will be easy to plant
     - Expand on "easy"
+- <BB labor='NeonMix, Cache, Teamwork, BagIn'/> I don't want to cream out all of the pine
+- "Cream out"
+    - "Cream someone out"
+    - "I got creamed out"
+    - "They creamed me out"
+    - "They're a creamer"
+    - "They creamed out the front"
 :::
