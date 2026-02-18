@@ -79,7 +79,8 @@ search: false
 - Why do Planters use spades instead of hoes?
 - What is the difference between a spade and a shovel?
 - The black swan that needs to be uncovered is the grr of training
--
+- Could you identify a Planter by their motion captured model?
+
 -
 
 ## DataCollection

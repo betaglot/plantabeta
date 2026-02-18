@@ -20,7 +20,7 @@ search: false
 <!-- - <BB labor='Boot, Ski'ekos='LooseSoil'via='Down'/> Boot loose soil down surf -->
 <!-- - Having a rain shield makes you feel better even if there is no difference in cold. It's not the wetness, but the cold that people dislike. Rain layer also prevents dermal evaporative cooling -->
 <!-- - <BB labor='WaterproofGlove, Kit, Waterproof Bag'/> Waterproof gloves should be stored dry in a waterproof bag -->
-<!-- - <BB labor='Taktik.Rest'/> Taktik.Rest Taktik.RestDay -->
+<!-- - <BB labor='Siteik.Rest'/> Siteik.Rest Siteik.RestDay -->
 <!-- - Trees are mechanical pumps -->
 <!-- - <BB labor='Team, Replant'via='Alignment'/> Patrol line replant -->
 <!-- - Space out in the y axis to get to back faster -->
@@ -56,35 +56,35 @@ search: false
 <!-- - Look for the leaves and flowers in stick mat, since they only grow in soil. Conifers don't always grow in soil -->
 - Markum Telos Speed isn't a benefit if it leads to waste
 - Get in the zone
-- Distance to the back
+<!-- - Distance to the back -->
 - Kickstarter Give them markums
 - <BB labor='RoleModel'/> Hyperhero
 <!-- - <BB labor='Tpose' via='FrontierLine'anima='Gesture'/> T pose for I'm on the line. Semaphore -->
 <!-- - <BB labor='NeonMix, Cache, Teamwork, BagIn'/> I don't want to cream out all of the pine -->
-- Could you identify a Planter by their motion captured model?
-- Go back down your line in  when you're backfilling walk out and you won't have enough trees to BoustroLineBack. Especially in trenches since half full trench leaves a hole or forces deadwalking
-- Gripping flag on  spade doesn't afford Palm or IsometricGrip
-- <BB labor='Jig'/> Jig Songs are jigs in the woodworking sense
-- Say the purpose of the flag, because Planters usually don't have a purpose and are just flagging by automatic convention. IntentionalFlagging
+<!-- - Could you identify a Planter by their motion captured model? -->
+<!-- - Go back down your line in  when you're backfilling walk out and you won't have enough trees to BoustroLineBack. Especially in trenches since half full trench leaves a hole or forces deadwalking -->
+<!-- - Gripping flag on  spade doesn't afford Palm or IsometricGrip -->
+<!-- - <BB labor='Jig'/> Jig Songs are jigs in the woodworking sense -->
+<!-- - Say the purpose of the flag, because Planters usually don't have a purpose and are just flagging by automatic convention. IntentionalFlagging -->
 - Invite some people into your land
-- <BB labor='Neon, Piece, Markum'anima='Mantra, Attention'/> Mantra for where to direct your attention: piece neon line neon markum neon
-- <BB labor='Plot'via='Landmark'anima='Clarity'/> You don't need to start a plot on a tree if an ekon is more distinctive
-- You don't need to be conscious of the thought to look. Like looking before changing lanes or turning in a car or crossing a street
-- <BB labor='Advantage'anima='BeginnersMind'/> Beginner's Mind can be an advantage
-- <BB labor='LookTo'motor='Rhythm'/> Head look like breathing rhythm if swimming front crawl
-- <BB labor='Priority'ekos='Stump'via='Predictability'/> Priority to stumps to increase predictability. affordance of neosite selection
-- Ektomy is the opposite Moton of SpadeKlose
-- Focus on Anima while you wait for soma to get back into shape or into shape for the first time
-- <BB labor='Shirt.Cuff.Button, Remove'/> Remove cuff buttons
-- <BB labor='Teamwork'anima='Question'/> Do you mind if I Jump your line?
-- Increase decrease density gestures when yelling is too difficult
-- StumpTakt Density
-- Probe on blunt spade
-- The probability of piece pinch increases proportional to Planter count
-- Drink and Eat before replanting
+<!-- - <BB labor='Neon, Piece, Markum'anima='Mantra, Attention'/> Mantra for where to direct your attention: piece neon line neon markum neon -->
+<!-- - <BB labor='Plot'via='Landmark'anima='Clarity'/> You don't need to start a plot on a tree if an ekon is more distinctive -->
+<!-- - You don't need to be conscious of the thought to look. Like looking before changing lanes or turning in a car or crossing a street -->
+<!-- - <BB labor='Advantage'anima='BeginnersMind'/> Beginner's Mind can be an advantage -->
+<!-- - <BB labor='LookTo'motor='Rhythm'/> Head look like breathing rhythm if swimming front crawl -->
+<!-- - <BB labor='Priority'ekos='Stump'via='Predictability'/> Priority to stumps to increase predictability. affordance of neosite selection -->
+<!-- - Ektomy is the opposite Aktion of SpadeKlose -->
+<!-- - Focus on Anima while you wait for soma to get back into shape or into shape for the first time -->
+<!-- - <BB labor='Shirt.Cuff.Button, Remove'/> Remove cuff buttons -->
+<!-- - <BB labor='Teamwork'anima='Question'/> Do you mind if I Jump your line? -->
+<!-- - Increase decrease density gestures when yelling is too difficult -->
+<!-- - StumpSite Density -->
+<!-- - Probe on blunt spade -->
+<!-- - The probability of piece pinch increases proportional to Planter count -->
+<!-- - Drink and Eat before replanting -->
 - If i had already sold twelve works of art then I'd know how to sell one
 - Tension when backswing
-- Accusations while replanting a cattle plant
+<!-- - Accusations while replanting a cattle plant -->
 - Elevation instead of level
 - Low D in the flat high d in the slope
 - AreaPlant the cul-de-sac
@@ -92,7 +92,7 @@ search: false
 - Pull a bit more out with SpadeHand after ripping with TreeHand
 - Maintain a couple trees buffer between Planters
 - PlantaforCarry: One Shoulder strap when one side is empty
-- Fireweed MarkumTakt
+- Fireweed MarkumSite
 - Defined Leader in trenches
 - ManoSkreef before BootKlose, but after NeonInsert
 - Soil so soft that the blade goes in a stays by itself when dropped from a given height
@@ -209,13 +209,13 @@ search: false
 - Certified that they completed Kendra's course and are therefore muscularly ready for the upcoming season
 - Double serrated bookbinding sides for markum stack and markum rip
 - Playback on ipad like nhl
-- BagAdjust ManoBagRim instead of SilviMoton
+- BagAdjust ManoBagRim instead of SilviAktion
 - Patagonia Orange Epaulets on bags and mount for ventilator. Copy Paramedic Ventilator
 - Pacer is the TA of planting  Low bar for entry, lower than becoming an Instructor
 - Plant hypotenuse in flat terrain and "L" on slope
 - ManoSlideCheck uses Kinetic Friction to pull on tree while needle test uses static, same with StaticCheck
 - Teaching no flag, but its optional maybe isn't good
-- Only the first moton is a pry the rest are skim
+- Only the first Aktion is a pry the rest are skim
 - Cedar Bark Flag
 - Planter communication  I'm gonna area plant this section
 - Be a checker for a short time
@@ -277,12 +277,12 @@ search: false
 - The backs of pieces. Piece distal to road is more raw since less slash has been dragged through it
 - The space between road and piles is often better than prep
 - Raw is a continuum
-- SpadeLeg and ArmOnda and Spade.Moton at same time
+- SpadeLeg and ArmOnda and Spade.Aktion at same time
     - DuckStep during SpadeSlam uses the same physics as a double universal pendulum's motion  
 - Gather data for Betaglot
     - Strava
     - GoPro
-- Record SpadeMoton with drawings
+- Record Spade.Aktion with drawings
     - Inertia
     - Rotation
     - Torque
@@ -395,8 +395,8 @@ search: false
     - Greeting before business talk
 - Thumbs up for spade hypomano skreef
     - Thumbs up for spade hypomano skreef
-    - Full palm kontakt requires crouch to align forearms then wrist
-    - More fingers increases kratos of manoMOTON
+    - Full palm konSite requires crouch to align forearms then wrist
+    - More fingers increases kratos of Hand.Aktion
     - Test
     - Drag Planter into alignment or multiple choice choose the optimal alignment image. Photo or diagram
 - Team formation is labor and via, not motor
@@ -410,7 +410,7 @@ search: false
     - Protector is Labor
     - Obstacle is Via
 - CrummyDev
-    - All tools for adjustment bag spade
+    - All tools for adjustment Bag Spade
 - Genius Loci CrummyDev
     - Treadcart remove tread for flat transport
     - CrummyWhiteboard
@@ -433,8 +433,8 @@ search: false
 - Worst case scenario
     - Best case scenario
     - Most likely case scenario
-- Start moton of (Spade,Skreef)
-- ArmOnda to BladeTipKontakt OR BladeTipKontakt
+- Start Aktion of (Spade,Skreef)
+- ArmOnda to BladeTipKonSite OR BladeTipKonSite
 
 - PlantaMaki
     - When you're tired or the land is shit
@@ -574,8 +574,8 @@ search: false
     - Piece Shape
 - We have achieved a strategically rich position full of imbalances
 - The opposite of Strategic is Aggressive
-- Taktik
-    - All Taktiks are Aktions, but not all Aktions are Taktikal
+- Siteik
+    - All Siteiks are Aktions, but not all Aktions are Siteikal
 - PlantaBeta.Strategy: TeamBeta is an effort to avoid capturing, which is the opposite Strategy of Chess.
     - You want to constantly avoid overlapping Passages.
     - Avoid AntiPassage.
@@ -584,7 +584,7 @@ search: false
 - Short: Is using your spade less complex shooting a puck? Shorts are the posters of the 2026 social media
 - PlantaBeta: Phases Fases: Opening, Middle, End
 - ChessBeta: SemiOpen Files and Rank. Files and ranks would be a useful concept for PlantaBeta
-- Taktik: Desperado
+- Siteik: Desperado
     - In chess, a desperado is a tactic where a piece, already trapped or certain to be captured, makes a final, valuable move—capturing an enemy piece or creating a significant threat—before it is lost, extracting maximum compensation from a doomed piece.
 - KKR: Share anything that you've published in Academia or Journalism  
 - PlantaBetaShorts: Pull element cards out of your bags like trees
@@ -664,6 +664,6 @@ search: false
     - In 30 years nobody will want to cut it down
 - PlantaBeta: To plant efficiently and effectively by using Beta
     - Beta implies Strategy, but not every Betom
-- Taktik: IntermediateAktion
+- Siteik: IntermediateAktion
     - A zwischenzug (German for "intermediate move") is a chess tactic where a player, instead of making an expected move (usually a recapture), first plays an unexpected move that creates an immediate, severe threat, forcing the opponent to respond. Also known as an intermezzo, this "in-between" move often changes the situation to the player's advantage, such as winning material or avoiding a bad exchange
 - The most efficient Motor is where the energy either comes from gravity of as a result of AnteAktion. Energy flows from one Aktion to the next.

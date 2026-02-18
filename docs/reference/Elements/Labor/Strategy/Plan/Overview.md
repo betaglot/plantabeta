@@ -9,6 +9,9 @@
 <!-- =================================================== -->
 ::: details &
 
--
+- Givens
+    - Size of Piece
+        - Distance to the back
+        - Alloted TreeCount
 
 :::

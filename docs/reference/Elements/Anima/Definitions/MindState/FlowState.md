@@ -25,6 +25,8 @@ let elementName = ""
 <!-- =================================================== -->
 ::: details &
 
--
+- <BB labor='Jig'/> Jig Songs are jigs in the woodworking sense
+
+- <BB labor='Neon, Piece, Markum'anima='Mantra, Attention'/> Mantra for where to direct your attention: piece neon line neon markum neon
 
 :::

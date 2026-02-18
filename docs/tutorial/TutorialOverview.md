@@ -69,6 +69,9 @@ treeList = [
 
 - Keep a list of all the BetaElements which have been included in a test. Each BetaElement should appear as many times as possible. Minimum 3 times in each format Image, Text, Video.
 
+- Focus on Anima while you wait for soma to get back into shape or into shape for the first time
+-
+
 - "Test.LabelDiagram"
 - "Tests.BetaDecomposition"
 - "Tests.FillInBlank"

@@ -20,6 +20,9 @@ let elementName = "TeamCommunication"
 <!-- =================================================== -->
 ::: details &
 
+- <BB labor='Teamwork'anima='Question'/> Do you mind if I Jump your line?
+- Increase decrease density gestures when yelling is too difficult
+
 - <BB labor='Tpose' via='FrontierLine'anima='Gesture'/> T pose for I'm on the line. Semaphore
 - Yelling
 - Get someone's attention

@@ -22,6 +22,6 @@ let elementName = "Klose"
 
 - Pitch, Yaw, Roll of Boot or Hand determines the surface of a Klosed hole.
 - <BB labor=''ekos='Soil'via='Compaction'/> Soil compaction
--
+- Ektomy is the opposite Aktion of SpadeKlose
 
 :::

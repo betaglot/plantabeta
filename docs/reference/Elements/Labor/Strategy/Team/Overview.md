@@ -20,9 +20,12 @@ let elementName = "Team"
 <!-- =================================================== -->
 ::: details &
 
+- The probability of piece pinch increases proportional to Planter count
+
 - Teammate
 - Teamwork
 - Team player
+    - Accusations while replanting a cattle plant
     - <BB labor='NeonMix, Cache, Teamwork, BagIn'/> I don't want to cream out all of the pine
 - <BB labor='Replant,Team'via='Alignment'/> Patrol Line (FireBeta) replant
 

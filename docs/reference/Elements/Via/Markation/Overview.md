@@ -20,7 +20,8 @@ let elementName = "Markation"
 <!-- =================================================== -->
 ::: details &
 
-- Using Crops, Tools or EKONs to guide VIA.
+- Markoid
+    - Using Crops, Tools or EKONs to guide VIA.
 - Concretizing VIA as Markums or LandMarks
 - Planted trees are trail delimiters.
 

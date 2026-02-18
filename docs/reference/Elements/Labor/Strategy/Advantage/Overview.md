@@ -1,11 +1,11 @@
 <script setup>
 import ElementInfo from '/vue/ElementPage/Page-ElementInfo.vue'
 import ElementTaxonomy from '/vue/ElementPage/Header-ElementTaxonomy.vue'
-let elementName = "Tops"
+let elementName = "Advantage"
 
 </script>
 
-# ⭐<span class="labor">Tops</span>
+# ⭐<span class="labor">Advantage</span>
 
 <ElementTaxonomy :elementName="elementName" />
 
@@ -20,14 +20,7 @@ let elementName = "Tops"
 <!-- =================================================== -->
 ::: details &
 
-- <BB labor='Shirt.Cuff.Button, Remove'/> Remove cuff buttons
+- <BB labor='Advantage'anima='BeginnersMind'/> Beginner's Mind can be an advantage
 
-- Jacket
-- Rain Shell
-- Insulation Layer
-- Sleeve
-- Collar
-- Hem
-- Cuff
-
+- Advantages increase the probability of Success
 :::

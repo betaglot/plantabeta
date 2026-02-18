@@ -9,6 +9,7 @@
 <!-- =================================================== -->
 ::: details &
 
+- [Error,Piece.Strategy] The probability of piece pinch increases proportional to Planter count
 - SailingStrategy
     - Try a Different Tack
         - Try a different Taktik

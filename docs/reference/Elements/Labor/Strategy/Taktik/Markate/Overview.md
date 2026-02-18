@@ -38,6 +38,8 @@ let elementName = "Markate"
 <!-- =================================================== -->
 ::: details &
 
+- Gripping flag on  spade doesn't afford Palm or IsometricGrip
+- Say the purpose of the flag, because Planters usually don't have a purpose and are just flagging by automatic convention. IntentionalFlagging
 - Markation is a Taktik
 
 :::

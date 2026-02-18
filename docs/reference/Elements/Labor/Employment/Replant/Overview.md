@@ -21,6 +21,7 @@ let elementName = "Replant"
 <!-- =================================================== -->
 ::: details &
 
+- Drink and Eat before replanting
 - NeonEval
 - MikrositeEval
 - ErrorDetection
