@@ -48,6 +48,8 @@ Aliases: Shovel
 <!-- =================================================== -->
 ::: details &
 
+- SpadeSkreef isn't a move
+
 - Push off like swimming with your arms or legs or Spade
 - BladeMano
     - BladePinchCheekMano

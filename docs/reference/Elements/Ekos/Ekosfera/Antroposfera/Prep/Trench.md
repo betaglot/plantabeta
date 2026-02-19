@@ -21,5 +21,6 @@ let elementName = "Trench"
 ::: details &
 
 -
+- NeonMano on FlipSide of trench. Perpendicular Blade
 
 :::

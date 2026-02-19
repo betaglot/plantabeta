@@ -1,12 +1,15 @@
----
-aside: false
-search: false
----
 <script setup>
-// BetomName=""
+import ElementInfo from '/vue/ElementPage/Page-ElementInfo.vue'
+import ElementTaxonomy from '/vue/ElementPage/Header-ElementTaxonomy.vue'
+let elementName = "Gimbal"
+
 </script>
 
-# <BB   ekos="Stump" via="Site"/>
+# ⭐<span class="labor">Gimbal</span>
+
+<ElementTaxonomy :elementName="elementName" />
+
+<ElementInfo :elementName=elementName />
 
 ---
 
@@ -17,7 +20,6 @@ search: false
 <!-- =================================================== -->
 ::: details &
 
-- Only the first Aktion is a pry the rest are skim
-- 
+-
 
 :::

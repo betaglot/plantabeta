@@ -218,4 +218,6 @@ EKOS is decomposed by composing a VIA
 
 > Optimal vialine has zero displacement from via start to via finish, both are at the cache
 
+- See Daredevil for Via like ACreed
+
 :::

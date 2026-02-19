@@ -21,5 +21,6 @@ let elementName = "Stump"
 ::: details &
 
 -
+- Octopus Stump
 
 :::

@@ -21,5 +21,11 @@ let elementName = "Megaskreef"
 ::: details &
 
 -
+- NeoAktion BootSlideSkreef is a Skid
+    - Skid to a stop
+    - Skim the surface
+    - Skrape off
+    - Skour 
+    - Ski down loose slopes like going down snowbanks in ski boots
 
 :::

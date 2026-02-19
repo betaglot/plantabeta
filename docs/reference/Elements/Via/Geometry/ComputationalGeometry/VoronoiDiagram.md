@@ -21,5 +21,7 @@ let elementName = "VoronoiDiagram"
 ::: details &
 
 -
+- Voronoi are mosaics
+
 
 :::

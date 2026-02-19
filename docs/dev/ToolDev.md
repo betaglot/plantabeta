@@ -5,6 +5,20 @@ search: false
 
 The most important constraint for Tools is the space it takes in the Truck.
 
+## <span class="labor">ArmorDev</span>
+
+- Cowl
+- ClothingDev: Jacket Backpack straps like Rudsak
+- Inside of cape can be a mount
+    - bellows
+    - fan
+    - water
+    - map
+    - Webbing down the middle with gear loops
+    - Less accessible than back bag
+    - Or but everything in the cape so back bag can carry bundles
+    - Pocket curtains beechfern
+
 ## <span class="labor">TrailerDev</span>
 
 A trailer loaded with everything that PlanterS need for their season. For Planters only, not for company logistics like water purification or showers or kitchen.
@@ -49,17 +63,41 @@ Not a place where many duplicates items are stored
 
 > Paper Towel cut into strips and painted <span class="soma">BLUE</span> with non toxic paint
 
+- MarkumDev
+    - Blue ink qr code for flag
+    - What happens if you tile a qr code, does it mess up the reading. What is the minimum spacing between qrcodes relative to size
+- Double serrated bookbinding sides for markum stack and markum rip
+- MarkumDev: Flag length doesn't need to be variable
+    - Design Constraint: Flag length must be standardized
+    - Press
+    - SkateboardPress
+    - Extruder
+    - CandyExtruder
+    - Punch
+    - Former like a bumper maker
+
 ### Color
 
 ```md
 #3fb0df
 ```
 
+- Light Blue is difficult to see since sun bleached wood is white
+- Neon blue
+- Coffee filters don't fall apart when wet, neither do napkins
+- BirchBark Marka dyed
+
+- BlueWax
+    - Gray wax paint tryptic at NAG
+- Cedar Bark Flag
+
 ### Form
 
 #### Kirigami
 
 > Kirigami is a variation of origami, the Japanese art of folding paper. In kirigami, the paper is cut as well as being folded, resulting in a three-dimensional design that stands away from the page.
+
+- Fold Markum into figure 4
 
 - Rigid Foldable Origami
     - <https://www.youtube.com/watch?v=YkTPpWPU0ZE&ab_channel=BYUCompliantMechanismsResearchGroup>
@@ -218,8 +256,11 @@ Pannier
 - DiskShooter which shoots DiskFlag which expands and has hooks
 - Each time you pull a flag out, it triggers a geolocation
     - How long does it take to send the signal? You can't stop moving to wait for the transmission.
+- Tablet markafor case
 
 Ideally there would be a Markor on each Radior
+
+- Markafor triggers a Geolocation event when Markum is dispensed
 
 - Stored in many places like a knife thrower in Assassins Creed doesn't throw from the same place each time. Take from wherever is most convenient.
 
@@ -386,13 +427,15 @@ SuitParts = [
 
 ### ⭐<span class="labor">TibiorDev</span>
 
+- TibiorDev Sagging gaiters collect water.
+
 #### Aliases
 
 - Greaves
 - Tibior
 - ShinGuard
 
-#### Etimologi(Tibior)
+#### Etymology(Tibior)
 
 "Tibia" + "or" :: Agent of Tibia
 
@@ -459,9 +502,27 @@ SuitParts = [
 
 ### ⭐<span class="labor">Bellow BackpackDev</span>
 
+- RainJacket which turns into a Bellow
+    - You're never too sweaty when it's raining
+    - If it's waterproof then it's also AirProof too
+
+- BellowDev
+    - Slight taper distally with help to pull all joints to 180 degrees. To overcome paper stiffness
+    - kraft paper
+    - spatula creaser
+    - dominoes frame on both sides. Double thick
+    - double garbage bag for transport and hydrophobia
+- Chestpack Accordion Bucket Acoustic Amplifier for phone
+    - Double doors with finger loops to open intake vent at anterior of bellows
+    - Washable Air filter
+    - Chestpack bellow allows two arms to operate and minimizes tubing
+    - Accordion reinforced folds
+
 - SpineFlexion pulls bellow open. SpineExtension presses air out
 
 Bellow which blows air into shirt for evaporative cooling during summer
+
+- Aquarium bubbler for ventilator
 
 Compress during BendOver
 

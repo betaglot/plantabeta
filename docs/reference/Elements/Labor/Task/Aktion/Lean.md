@@ -20,6 +20,8 @@ let elementName = "Lean"
 <!-- =================================================== -->
 ::: details &
 
+- Lean into a banked turn
+
 - Lean can be supported or unsupported
     - Unsupported in running or lean into slope, lean into wind
 

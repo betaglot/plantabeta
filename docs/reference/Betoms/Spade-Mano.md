@@ -26,5 +26,6 @@ search: false
     - SpadeCollarSlide
     - SpadeCollarSlip
 - SpadeHandleMano
+- U instead of O Grip GentleGrip SpadeGrip
 
 :::

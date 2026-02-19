@@ -18,5 +18,6 @@ search: false
 ::: details &
 
 -
+- Where to buy a hook needle for Asolo heel panel
 
 :::

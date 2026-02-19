@@ -1,11 +1,12 @@
+
 <script setup>
 import ElementInfo from '/vue/ElementPage/Page-ElementInfo.vue'
 import ElementTaxonomy from '/vue/ElementPage/Header-ElementTaxonomy.vue'
-let elementName = "Spike"
+let elementName = "Worm"
 
 </script>
 
-# ⭐<span class="labor">Spike</span>
+# ⭐<span class="labor">Worm</span>
 
 <ElementTaxonomy :elementName="elementName" />
 
@@ -20,14 +21,11 @@ let elementName = "Spike"
 <!-- =================================================== -->
 ::: details &
 
-- NeoAktion(SpadeSpike)
-    - SpikeBall
-    - Spike the Spade into ground when Reloading Flag or when you need both hands
-- DorySpike
-- SpadeSpike
-- SuperSpike
-- Spike instead of Propel or Slam or Throw
-    - SpadeSpike
-    - DoruSpike
-    - Train rail spike
+-
+- Worm into. Use SpadePalm to change the angles while pressing down. Worm between rocks
+- <BB labor="Worm" soma="Hand" ekos="" via="" motor="" anima=""/>
+- <BB labor="Worm,Spade" soma="" ekos="" via="" motor="" anima=""/>
+- <BB labor="Worm,Dory" soma="" ekos="" via="" motor="" anima=""/>
+- <BB labor="Worm" soma="Finger" ekos="" via="" motor="" anima=""/>
+
 :::

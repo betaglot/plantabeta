@@ -21,5 +21,6 @@ let elementName = "Armor"
 ::: details &
 
 -
+- When removing Midlayer and the shell is wet, ensure that the inside of the shell remains dry by not letting
 
 :::

@@ -20,7 +20,14 @@ let elementName = "Team"
 <!-- =================================================== -->
 ::: details &
 
+- Defined Leader in trenches
+- AllosPlanter needs to know if you're planting off density so they can compensate
+    - AllosPlanter implies Polyplantad
+    - Diplantad
+    - Triplantad
+    - Polyplantad
 - The probability of piece pinch increases proportional to Planter count
+- Maintain a couple trees buffer between Planters
 
 - Teammate
 - Teamwork

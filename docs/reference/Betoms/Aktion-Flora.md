@@ -23,6 +23,8 @@ search: false
 <!-- =================================================== -->
 ::: details &
 
+- Soccer ball control is flora move. Constant contact and no kicking
+
 - WristHook
 - Useful when the TreeHand is Loaded with a tree, so you can't use your fingers to move the Flora
 - RungMano

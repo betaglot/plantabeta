@@ -16,6 +16,8 @@ let elementName = ""
 <!-- =================================================== -->
 ::: details &
 
+- Footprints in snow show via
+
 - Spanish("rastrear")
 - When the Marka blow away in the wind
 - Anticipation

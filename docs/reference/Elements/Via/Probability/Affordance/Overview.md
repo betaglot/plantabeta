@@ -138,4 +138,7 @@ Route.Complexity(PerceptibleAffordance < HiddenAffordance < FalseAffordance)
 
 A relationship between the attributes of an Econ and the capabilities of the Planter that determine how the Econ could possibly be used
 
+
+- Affordance: You can grab it here. If you walk over here, the n you'll be able to see it better
+
 :::

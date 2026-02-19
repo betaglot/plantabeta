@@ -21,5 +21,10 @@ let elementName = "Protektor"
 ::: details &
 
 -
+- (Protector)InsteadOf(Obstacle)
+    - Buffer for cows
+    - Protection from sun or snow
+    - Protector is Labor
+    - Obstacle is Via
 
 :::

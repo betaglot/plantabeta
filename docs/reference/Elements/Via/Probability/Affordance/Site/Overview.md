@@ -18,6 +18,7 @@ Aliases: Contact point, Contact surface
 ::: details &
 
 - The Plural of "Site" is "Sites"
+- Footprints in snow show via
 
 - SomaSite
 - LaboSite

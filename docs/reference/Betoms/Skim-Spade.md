@@ -46,4 +46,21 @@ search: false
     - Use when skreefing through a loose layer of duff to search for the best Mikrosite
 - ArmWrestleSkreef. ArmLock then use your whole body
 
+- Only the first Aktion is a pry the rest are skim
+- SpadeSkim
+    - Lower HypoMano decreases the force required to grip the spade
+    - And Lower HypoMano also reduces energy loss. The movement of the Spade takes energy which could have been transferred into the SkreefSite
+- Thumbs up for spade hypomano skreef
+    - Thumbs up for spade hypomano skreef
+    - Full palm konSite requires crouch to align forearms then wrist
+    - More fingers increases kratos of Hand.Aktion
+    - Test
+    - Drag Planter into alignment or multiple choice choose the optimal alignment image. Photo or diagram
+- Spade.Shaft,Markum,Skreef.Hypomano
+    - Put tape on the shaft
+    - Some part of your lower hand must be touching this tape when you're skreefing
+    - Physics experiment
+    - I put from the tip as they vary hypomano position along shaft
+    - Ensure that instructor is standing at an angle to reduce probability of getting hit by the blade
+
 :::
