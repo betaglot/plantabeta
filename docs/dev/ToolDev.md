@@ -7,6 +7,8 @@ The most important constraint for Tools is the space it takes in the Truck.
 
 ## <span class="labor">ArmorDev</span>
 
+- Cache Poncho
+
 - Cowl
 - ClothingDev: Jacket Backpack straps like Rudsak
 - Inside of cape can be a mount
@@ -177,6 +179,11 @@ Lash D to Dory
 
 Plantafors are not planting bags, in the same way that a Jeep is not a Model-T
 
+- Plantafor folds into a hoplite shield
+- PlantaforDev: Phone case front bag attachment
+    - HardShell
+    - Coil Kord around Kase
+
 ### Patagonia
 
 Email Ottawa franchise of Patagonia. Then you can communicate in person and probably to a Canadian
@@ -257,6 +264,7 @@ Pannier
 - Each time you pull a flag out, it triggers a geolocation
     - How long does it take to send the signal? You can't stop moving to wait for the transmission.
 - Tablet markafor case
+- Flag pineapple
 
 Ideally there would be a Markor on each Radior
 
@@ -332,7 +340,7 @@ Protein Powder Cookies
 
 ## ⭐<span class="labor">Water VolumeDev</span>
 
-## ⭐<span class="labor">SuitDev</span>
+## ⭐<span class="labor">ArmorDev</span>
 
 ### SuitModularity
 
@@ -383,6 +391,20 @@ The goal of vambrace is to keep the hand clean and warm. There isn't a need to p
 - Gaunlet which extends up forarm for protection and warmth.
 - You only need to worry about the back of your hands. Glabrous warms the palm
 - Wool lining
+
+### ⭐<span class="labor">SpadeDev</span>
+
+- SpadeDev: Piezoelectric SpadeSlam to recharge a planter battery used for cooling system
+- Exchangeable Blade
+    - Blade Morfos
+    - Blade Weight
+- Hollow Shaft
+
+### ⭐<span class="labor">PodDev</span>
+
+- Pods should be planar instead of cylinder
+    - Envelope is easier to design than cylinder
+    - Stack
 
 ### ⭐<span class="labor">PaddingDev</span>
 

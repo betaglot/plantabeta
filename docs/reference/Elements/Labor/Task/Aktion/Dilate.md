@@ -20,6 +20,10 @@ let elementName = "Dilate"
 <!-- =================================================== -->
 ::: details &
 
+- Soil type affords Hole variation
+    - Derivative isn't variation
+    - Soil type determines hole
+
 - Dilate is in x-axis
 - To make wider
 - To spread apart

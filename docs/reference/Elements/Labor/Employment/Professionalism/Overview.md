@@ -1,4 +1,4 @@
-# ⭐<span class="labor">Plan</span>
+# ⭐<span class="labor">Professionalism</span>
 
 ---
 
@@ -9,14 +9,7 @@
 <!-- =================================================== -->
 ::: details &
 
-- Givens
-    - Size of Piece
-        - Distance to the back
-        - Alloted TreeCount
-
-- Let's bounce off each other plan
-    - Let's bounce off each other plan
-- I'll meet you in the middle is a plan not a strategy
-    - There's no goal mentioned
+-
+- Professionalism: Leave nothing to chance
 
 :::

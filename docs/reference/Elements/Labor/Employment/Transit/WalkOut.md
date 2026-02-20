@@ -20,7 +20,9 @@ let elementName = "WalkOut"
 <!-- =================================================== -->
 ::: details &
 
--
+- BlockWalkOut
 - Carry out Boxes
+- PieceWalkOut => PieceExit
+    - PieceWalkOut => PieceExit
 
 :::

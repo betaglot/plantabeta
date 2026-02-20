@@ -20,7 +20,7 @@ search: false
 <!-- - <BB labor='Boot, Ski'ekos='LooseSoil'via='Down'/> Boot loose soil down surf -->
 <!-- - Having a rain shield makes you feel better even if there is no difference in cold. It's not the wetness, but the cold that people dislike. Rain layer also prevents dermal evaporative cooling -->
 <!-- - <BB labor='WaterproofGlove, Kit, Waterproof Bag'/> Waterproof gloves should be stored dry in a waterproof bag -->
-<!-- - <BB labor='Siteik.Rest'/> Siteik.Rest Siteik.RestDay -->
+<!-- - <BB labor='Taktik.Rest'/> Taktik.Rest Taktik.RestDay -->
 <!-- - Trees are mechanical pumps -->
 <!-- - <BB labor='Team, Replant'via='Alignment'/> Patrol line replant -->
 <!-- - Space out in the y axis to get to back faster -->
@@ -152,9 +152,9 @@ search: false
 - Tree planter dance meme for Shorts
 - Voronoi are mosaics
 - Sift
-- Krampon Aktion requires rigid BootSole
+<!-- - Krampon Aktion requires rigid BootSole -->
 - Use protein powder jar for nut mix
-- Plantafor folds into a hoplite shield
+<!-- - Plantafor folds into a hoplite shield -->
 - PropositionEkos: There is a type of moss which grows only on Creamy Soil
 - Planters carry spray can
 - Biodegradable has nothing to do with Biology. bio is life, so over the lifetime of the plastic, it degrades
@@ -178,7 +178,7 @@ search: false
 - authentikos "original, genuine, principal,"
 - Pythagoras for theorem example and first via proposition after definitions
 - Time is a cycle
-- Footprints in snow show via
+<!-- - Footprints in snow show via -->
 - stuffed pepper
 - Axiom: Gravity
 - PlantaBeta: A video game that's designed to be not fun
@@ -190,7 +190,7 @@ search: false
 <!-- - Eat in your wind eddie. Back to wind -->
 <!-- - Lean into a banked turn -->
 <!-- - Tibior anchors around foot in boot. Not how it's currently around boot -->
-- Change to Korpo
+<!-- - Change to Korpo -->
 - Gyro Gyrate
 - Stance
 - AtClimbingGym Reset for Quastuco demo
@@ -203,7 +203,7 @@ search: false
 - Master != Elite  
 - MechanicalDryer
 - Crossing the street because you someone else start to move. Intention.mimik
-- Flag pineapple
+<!-- - Flag pineapple -->
 <!-- - Markoid -->
 <!-- - If seedlings are neons, then what are crop trees in fill plants. Paleon -->
 - Certified that they completed Kendra's course and are therefore muscularly ready for the upcoming season
@@ -238,11 +238,11 @@ search: false
 - SpadeDribble PanBeta(Basketball)
 - Cherries fluffing neon packing error
 <!-- - Affordance: You can grab it here. If you walk over here, the n you'll be able to see it better -->
-- Quality decreases at the end of day
+<!-- - Quality decreases at the end of day -->
 - Planters and Supervisors should be hired for their character
 - Planters should be saying That's good enough, instead of Fuck it!
-- Bundle wrappers which haven't been frozen
-- Finger step to start zipper. Hold anterior fabric fixed to prevent zipper kink
+<!-- - Bundle wrappers which haven't been frozen are more elastic and clingy -->
+<!-- - Finger step to start zipper. Hold anterior fabric fixed to prevent zipper kink -->
 - Teach someone to teach. Triad. Student teacher me
 - First bagIn with insulation layer since it's usually cold in the morning
 - 4g blue paper cup for salt
@@ -252,7 +252,7 @@ search: false
 - Missing Front pocket for camera is limiting the data collection for PlantaBeta. Accessibility is low to GoPro
 - Run a line. Run to the back
 - Broaden your idea of a PlantaBeta sponsor to any person or company involved with Plantations. For example Gransfors Bruk
-- A skreef is a Labon. You don't need to skreef that
+<!-- - A skreef is a Labon. You don't need to skreef that -->
 - Define the range for NovicePlanters, so they know what to expect
     - This is as steep as it gets
 - The goal is to dance while planting
@@ -282,12 +282,12 @@ search: false
 - Gather data for Betaglot
     - Strava
     - GoPro
-- Record Spade.Aktion with drawings
+<!-- - Record Spade.Aktion with drawings
     - Inertia
     - Rotation
     - Torque
     - Cycle
-    - Embellishment
+    - Embellishment -->
 - Walking to prevent pinch is rhe same amount of deadwalking as uf walking through the pinch, but deadwalking in first has a more clear start, especially when the start is high flagged
 <!-- - BellowDev
     - Slight taper distally with help to pull all joints to 180 degrees. To overcome paper stiffness
@@ -300,12 +300,12 @@ search: false
     - Washable Air filter
     - Chestpack bellow allows two arms to operate and minimizes tubing
     - Accordion reinforced folds -->
-- Rotate blade to perpendicular to cut roots during skim
-    - Perpendicular Blade leads with BladeEdge therefore increases pressure on Impakt
+<!-- - Rotate blade to perpendicular to cut roots during skim
+    - Perpendicular Blade leads with BladeEdge therefore increases pressure on Impakt -->
 - NeoAktion Arm thread through straps during PlantaforOn
-- Soil type affords Hole variation
+<!-- - Soil type affords Hole variation
     - Derivative isn't variation
-    - Soil type determines hole
+    - Soil type determines hole -->
 <!-- - PlotKord.Aktion
     - Helix over a tree
     - See Rodeo for terminology
@@ -330,9 +330,9 @@ search: false
     - LookDistal, look Medial, DistalMedialLook
     - Hook along Tail
     - Saddle slide between thumb and index -->
-- PlantaforDev: Phone case front bag attachment
+<!-- - PlantaforDev: Phone case front bag attachment
     - HardShell
-    - Coil Kord around Kase
+    - Coil Kord around Kase -->
 <!-- - RainJacket which turns into a Bellow
     - You're never too sweaty when it's raining
     - If it's waterproof then it's also AirProof too -->
@@ -353,7 +353,7 @@ search: false
 - Proof us more important for getting experienced Planters to use PlantaBeta than rookies
     - Rookies aren't set in their ways
     - If it's not broke don't fix it. I'll need to prove that it's broken
-- Vary Kayak Paddle grip to reduce tendonitis OKC
+<!-- - Vary Kayak Paddle grip to reduce tendonitis OKC -->
 - Heuristic then algorithm
     - If: Plant the low spots
     - Else: use a proposition
@@ -372,14 +372,14 @@ search: false
     - Former like a bumper maker -->
 <!-- - Neon blue -->
 - Follow the Fire Line
-- PlantaBeta: DataStructures
+<!-- - PlantaBeta: DataStructures
     - Everything is an Object, like in Python
     - Polyads are DataStructures
     - Plots
     - Which to Pop() from a Plot?
         - To Density--
     - Where to Plot.Insert() into a Plot?
-        - To Density++
+        - To Density++ -->
 - The edge is more precise than line
     - Edge of what's been completed
     - Front. WeatherFront. All quiet on the Western Front
@@ -399,11 +399,11 @@ search: false
     - More fingers increases kratos of Hand.Aktion
     - Test
     - Drag Planter into alignment or multiple choice choose the optimal alignment image. Photo or diagram -->
-- Team formation is labor and via, not motor
+<!-- - Team formation is labor and via, not motor
     - "Form up!"
     - Form a line
     - Testudo
-    - Attack V
+    - Attack V -->
 <!-- - (Protector)InsteadOf(Obstacle)
     - Buffer for cows
     - Protection from sun or snow
@@ -444,19 +444,19 @@ search: false
 - BetaSelection
     - Injury weights the BetaAlternatives
     - Knee injury increases the weight of ManoKlose
-- Error.KitTransport
+<!-- - Error.KitTransport
     - Things swinging while you walk
     - Like a cowbell
-    - For example a water bottle
+    - For example a water bottle -->
 - Analysis during morning crummy faster than real
     - Analyze planters during the ride to the block in the morning
 <!-- - MarkumDev
     - Blue ink qr code for flag
     - What happens if you tile a qr code, does it mess up the reading. What is the minimum spacing between qrcodes relative to size -->
-- [Step, (Arm, Finger)]
+<!-- - [Step, (Arm, Finger)]
     - Arms can step
     - Fingers can step
-    - Step your arms
+    - Step your arms -->
 - Be a "Stoic", not a "roman" or a "greek"
     - Be a "Stoic", not a "roman" or a "greek"
 <!-- - Spike instead of Propel or Slam or Throw
@@ -465,25 +465,25 @@ search: false
     - Train rail spike -->
 <!-- - Close Glove to keep thermal energy
     - When removing a mid layer, keep the outer layer wrapped -->
-- Professionalism: Leave nothing to chance
+<!-- - Professionalism: Leave nothing to chance -->
 - Thousand mile stare. RookieStare. RookieFreeze
-- PieceWalkOut => PieceExit
-    - PieceWalkOut => PieceExit
-- Paint instead of complete or cover
-    - Paint yourself into a corner
+<!-- - PieceWalkOut => PieceExit
+    - PieceWalkOut => PieceExit -->
+<!-- - Paint instead of complete or cover
+    - Paint yourself into a corner -->
 <!-- - ClothingDev: Jacket Backpack straps -->
 - L-notch planting
     - Special form of slit planting involving two slits at right angles with the seedling placed at the apex of the L.
-- Pull the outer layer of clothing in the opposite direction to precompensate
+<!-- - Pull the outer layer of clothing in the opposite direction to precompensate
     - Ratchet
     - When your sleeve getting jammed
     - Sleeve or pant
-- ClothingDev: Sleeve Tab or loop at cuff for layer subtract and add to prevent crumple snag of inner layers
-- TeamBeta
+- ClothingDev: Sleeve Tab or loop at cuff for layer subtract and add to prevent crumple snag of inner layers -->
+<!-- - TeamBeta
     - Leader
     - Captain
     - Quarterback
-    - NOT necessarily by Seniority!
+    - NOT necessarily by Seniority! -->
 - Thermocline
     - "abrupt temperature gradient" in a lake, ocean, etc., 1897, from thermo- "temperature, heat" + -cline, from Greek klinein "to slope" (see cline).
 - Where is your line?
@@ -496,28 +496,28 @@ search: false
 <!-- - Box ollie
     - BoxPop
     - (Pop)InsteadOf(Ollie) -->
-- Trencher
+<!-- - Trencher
     - I guess continuing the lines after going around obstacles
     Foresight into exit strategies for pinch points.
     - Oblong areas or fingers require backing up to create squares to work off of for rest of blocks
     - Backing up to the danger zone of wet areas
     - The GPS is set at 10 second intervals if I remember correct so yes spacing would be related to speed.
     - I did deadwalk down a road to the furthest point of the block to start, mostly so I end my day closer to my truck.
-    - I don't really get much feedback on how it looks only asked why I wasn't able to hit areas.
+    - I don't really get much feedback on how it looks only asked why I wasn't able to hit areas. -->
 - Via Merge into Follow
     - PlantingSynergy
     - After going around different sides of a residual patch then merging back together
     - On ramp merge lane. Highway is an established multilane
     - Lane is ViaSpace
-- SpadeDev: Piezoelectric SpadeSlam to recharge a planter battery used for cooling system
-- Pods should be planar instead of cylinder
+<!-- - SpadeDev: Piezoelectric SpadeSlam to recharge a planter battery used for cooling system -->
+<!-- - Pods should be planar instead of cylinder
     - Envelope is easier to design than cylinder
-    - Stack
+    - Stack -->
 - NovelVia(NeoSite)
     - Abandon CurrentSite for Neosite when you determine that CurrentSite isn't good
     - Stop wasting time screefing through redrot and just find another site
 - Lokhmē "thicket": from the fact that one lays ambushes (lokhân) in such places. But Philoxenus derives it from the verb lazō "to seize", thick things being easier to grasp. Lazō, future laxō, noun lakhmos, as from krazō "to croak", kraxō and kragmos "croaking"; and the [g] having changed to [kh], *lakhmos; the feminine of the latter, lokhmē
-- Gather ExcessSoil at Posterior Bottom of Silvi
+<!-- - Gather ExcessSoil at Posterior Bottom of Silvi -->
 - Via Radar
     - Proximal tree
     - Like a plot
@@ -538,33 +538,33 @@ search: false
     - train pacers
     - not therapy physical or mental
     - train instructors
-- Cache Poncho
-- Efficiency.Strategy: BatchProcessing, ParallelProcessing, SequentialProcessing
+<!-- - Cache Poncho -->
+<!-- - Efficiency.Strategy: BatchProcessing, ParallelProcessing, SequentialProcessing
     - Efficiency and Effectiveness are the goals to which Strategies aim to achieve
 - Strategy is a stream of decisions. I'll have to wait and see. GameTimeDecision. We'll cross that bridge when we get there
 - Strategy is measured in strong or weak. Qualitative
     - Exploit a weakness
-    - Exploy ploy plan labor
-- Let's bounce off each other plan
+    - Exploy ploy plan labor -->
+<!-- - Let's bounce off each other plan
     - Let's bounce off each other plan
 - I'll meet you in the middle is a plan not a strategy
-    - There's no goal mentioned
-- Im gonna do that differently next time
+    - There's no goal mentioned -->
+<!-- - Im gonna do that differently next time
     - Strategy selects the aktions
     - Strategos delegate to legates
 - Strategy is a stream of decisions
     - Where do I go next?
-    - How much should I bag up?
-- TeamBeta: Pressure
+    - How much should I bag up? -->
+<!-- - TeamBeta: Pressure
     - Pressure (Offensive): Quick player and/or puck movement which causes the defense to react more quickly than they may be capable of doing.
-    - Pressure (Defensive): Just as offensive speed creates pressure, defensive speed creates pressure, but on the offensive players. This results in reducing the time and space available to the attackers.
+    - Pressure (Defensive): Just as offensive speed creates pressure, defensive speed creates pressure, but on the offensive players. This results in reducing the time and space available to the attackers. -->
 - Videos explaining how an Image  or video represents Via
 - FillPlant == PaleonPlant
     - PaleonKompletion
-- What are the hubs of Betaretetome
+<!-- - What are the hubs of Betaretetome
     - What Betoms are most connected to other Betoms
     - Is this different from asking about Betom Frequency?
-    - A climber's IdioBetaRete grows as they learn. Preferential Attachment to the hubs that they already have. Slab climbers get more growth at Prokline clusters than Rekline. A well rounded climber has more hubs?
+    - A climber's IdioBetaRete grows as they learn. Preferential Attachment to the hubs that they already have. Slab climbers get more growth at Prokline clusters than Rekline. A well rounded climber has more hubs? -->
 - PlantaChess: You want to fork your Teammate to give them options to escape. What's a better term instead of escape, since escape implies that there is an intention to entrap (which is AntiTeam)
 - Error,TeamBeta = Smother
     - Smother = BoxedIn
@@ -573,18 +573,18 @@ search: false
     - Piece Shape
 - We have achieved a strategically rich position full of imbalances
 - The opposite of Strategic is Aggressive
-- Siteik
-    - All Siteiks are Aktions, but not all Aktions are Siteikal
-- PlantaBeta.Strategy: TeamBeta is an effort to avoid capturing, which is the opposite Strategy of Chess.
+<!-- - Taktik
+    - All Taktiks are Aktions, but not all Aktions are Taktikal -->
+<!-- - PlantaBeta.Strategy: TeamBeta is an effort to avoid capturing, which is the opposite Strategy of Chess.
     - You want to constantly avoid overlapping Passages.
     - Avoid AntiPassage.
     - AntagonisticPassage, ProPassage, SymPassage
-    - ProPassage leaves open Space for the other planters to keep planting without being boxed in and therefore Deadwalking. What is a more apt word than Deadwalking.
+    - ProPassage leaves open Space for the other planters to keep planting without being boxed in and therefore Deadwalking. What is a more apt word than Deadwalking. -->
 - Short: Is using your spade less complex shooting a puck? Shorts are the posters of the 2026 social media
 - PlantaBeta: Phases Fases: Opening, Middle, End
 - ChessBeta: SemiOpen Files and Rank. Files and ranks would be a useful concept for PlantaBeta
-- Siteik: Desperado
-    - In chess, a desperado is a tactic where a piece, already trapped or certain to be captured, makes a final, valuable move—capturing an enemy piece or creating a significant threat—before it is lost, extracting maximum compensation from a doomed piece.
+<!-- - Taktik: Desperado
+    - In chess, a desperado is a tactic where a piece, already trapped or certain to be captured, makes a final, valuable move—capturing an enemy piece or creating a significant threat—before it is lost, extracting maximum compensation from a doomed piece. -->
 - KKR: Share anything that you've published in Academia or Journalism  
 - PlantaBetaShorts: Pull element cards out of your bags like trees
 - KKR, Reddit: Ask for help getting and writing a grant for PlantaBeta
@@ -598,7 +598,7 @@ search: false
     - efficiency reduces overhead costs to climate
     - food, shelter, transport
 - Stick handling of goalie or players hockey spade move . Andre Doru
-- Bonobo Klose
+<!-- - Bonobo Klose -->
 - FacebookGubern
     - Watch out for people always In and around You’re piece calling 4’s and taking out trees behind you’re back.  
     - Consistently giving you the worst piece, making you wait for trees or telling you they will be right back and never come, giving everyone a price bump except you. Sticking you in a room with a stranger of the opposite gender telling you don’t tell the bosses !!
@@ -663,6 +663,6 @@ search: false
     - In 30 years nobody will want to cut it down
 - PlantaBeta: To plant efficiently and effectively by using Beta
     - Beta implies Strategy, but not every Betom
-- Siteik: IntermediateAktion
-    - A zwischenzug (German for "intermediate move") is a chess tactic where a player, instead of making an expected move (usually a recapture), first plays an unexpected move that creates an immediate, severe threat, forcing the opponent to respond. Also known as an intermezzo, this "in-between" move often changes the situation to the player's advantage, such as winning material or avoiding a bad exchange
-- The most efficient Motor is where the energy either comes from gravity of as a result of AnteAktion. Energy flows from one Aktion to the next.
+<!-- - Taktik: IntermediateAktion
+    - A zwischenzug (German for "intermediate move") is a chess tactic where a player, instead of making an expected move (usually a recapture), first plays an unexpected move that creates an immediate, severe threat, forcing the opponent to respond. Also known as an intermezzo, this "in-between" move often changes the situation to the player's advantage, such as winning material or avoiding a bad exchange -->
+<!-- - The most efficient Motor is where the energy either comes from gravity of as a result of AnteAktion. Energy flows from one Aktion to the next. -->

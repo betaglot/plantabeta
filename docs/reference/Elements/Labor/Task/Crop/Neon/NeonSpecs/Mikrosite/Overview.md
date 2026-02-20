@@ -14,5 +14,9 @@
 - <BB labor='Priority'ekos='Stump'via='Predictability'/> Priority to stumps to increase predictability. affordance of neosite selection
 - StumpSite Density <BB labor="Mikrosite"ekos="Stump" via="Density"/>
 
+- Soil type affords Hole variation
+    - Derivative isn't variation
+    - Soil type determines hole
+
 :::
 f

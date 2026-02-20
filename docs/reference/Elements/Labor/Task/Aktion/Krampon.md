@@ -21,5 +21,7 @@ let elementName = "Krampon"
 ::: details &
 
 -
+- Krampon Aktion requires rigid BootSole
+
 
 :::

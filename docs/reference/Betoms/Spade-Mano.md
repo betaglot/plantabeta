@@ -27,5 +27,6 @@ search: false
     - SpadeCollarSlip
 - SpadeHandleMano
 - U instead of O Grip GentleGrip SpadeGrip
+- Vary Kayak Paddle grip to reduce tendonitis OKC
 
 :::

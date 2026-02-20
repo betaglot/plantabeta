@@ -20,6 +20,21 @@ let elementName = "Team"
 <!-- =================================================== -->
 ::: details &
 
+- TeamBeta
+    - Leader
+    - Captain
+    - Quarterback
+    - NOT necessarily by Seniority!
+
+- TeamBeta: Pressure
+    - Pressure (Offensive): Quick player and/or puck movement which causes the defense to react more quickly than they may be capable of doing.
+    - Pressure (Defensive): Just as offensive speed creates pressure, defensive speed creates pressure, but on the offensive players. This results in reducing the time and space available to the attackers.
+
+- Team formation is labor and via, not motor
+    - "Form up!"
+    - Form a line
+    - Testudo
+    - Attack V
 - Defined Leader in trenches
 - AllosPlanter needs to know if you're planting off density so they can compensate
     - AllosPlanter implies Polyplantad

@@ -20,6 +20,8 @@ let elementName = "Bundle"
 <!-- =================================================== -->
 ::: details &
 
+- Bundle wrappers which haven't been frozen are more elastic and clingy
+
 - Bundle.Unwrap
 - Bundle.Wrap
     - BlockClose

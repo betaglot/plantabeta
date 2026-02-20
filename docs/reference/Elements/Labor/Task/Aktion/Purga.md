@@ -20,6 +20,8 @@ let elementName = "Purga"
 <!-- =================================================== -->
 ::: details &
 
+- <BB labor="Silvi.Purga" soma="" ekos="" via="" motor="" anima=""/>
+- Gather ExcessSoil at Posterior Bottom of Silvi
 -
 
 :::

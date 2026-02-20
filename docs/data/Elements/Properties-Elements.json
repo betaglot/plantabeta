@@ -4473,24 +4473,80 @@
             ""
         ]
     },
+    "Step": {
+        "elementEnglishName": "Step",
+        "elementFaktor": "Labor",
+        "elementID": "",
+        "elementTaxonomy": [
+            "Labor",
+            "Task",
+            "Aktion",
+            "Step"
+        ],
+        "elementAlias": [],
+        "elementDescription": "",
+        "elementBetanyms": [],
+        "elementInBetom": [],
+        "elementProfilePic": "",
+        "elementExample": {
+            "elementVideo": [],
+            "elementImage": [],
+            "elementQuote": []
+        },
+        "dev": [
+            ""
+        ]
+    },
+    "ElementDev": {
+        "elementEnglishName": "ElementDev",
+        "elementFaktor": "Labor",
+        "elementID": "",
+        "elementTaxonomy": [
+            "Taxon-1",
+            "Taxon-1.2",
+            "Taxon-1.2.3",
+            "Taxon-1.2.3.4"
+        ],
+        "elementAlias": [
+            "Alias"
+        ],
+        "elementDescription": "Description",
+        "elementBetanyms": [],
+        "elementInBetom": [],
+        "elementProfilePic": "",
+        "elementExample": {
+            "elementVideo": [],
+            "elementImage": [],
+            "elementQuote": []
+        },
+        "dev": [
+            ""
+        ]
+    },
     "Replant": {
-    "elementEnglishName": "Replant",
-    "elementFaktor": "Labor",
-    "elementID": "",
-    "elementTaxonomy": ["Labor","Employment","Replant"],
-    "elementAlias": [],
-    "elementDescription": "",
-    "elementBetanyms": [],
-    "elementInBetom": [],
-    "elementProfilePic": "",
-    "elementExample": {
-    "elementVideo": [],
-    "elementImage": [],
-    "elementQuote": []
+        "elementEnglishName": "Replant",
+        "elementFaktor": "Labor",
+        "elementID": "",
+        "elementTaxonomy": [
+            "Labor",
+            "Employment",
+            "Replant"
+        ],
+        "elementAlias": [],
+        "elementDescription": "",
+        "elementBetanyms": [],
+        "elementInBetom": [],
+        "elementProfilePic": "",
+        "elementExample": {
+            "elementVideo": [],
+            "elementImage": [],
+            "elementQuote": []
+        },
+        "dev": [
+            ""
+        ]
     },
-    "dev" : [""]
-    },
-     "Ski": {
+    "Ski": {
         "elementEnglishName": "Ski",
         "elementFaktor": "Labor",
         "elementID": "",

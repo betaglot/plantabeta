@@ -43,6 +43,13 @@ search: false
 <!-- =================================================== -->
 ::: details &
 
+- Record Spade.Aktion with drawings
+    - Inertia
+    - Rotation
+    - Torque
+    - Cycle
+    - Embellishment
+
 - Push off like swimming with your arms or legs or Spade
 - BladeMano
     - BladePinchCheekMano

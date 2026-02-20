@@ -29,10 +29,19 @@ PlantingCycle
 <!-- =================================================== -->
 ::: details &
 
+- To remember a thought, say it aloud and gesture. Like Japanese Train Conductors
+
 - Balance a Spade on your hand. You must attend to the forces of the spade.
 - EKOS is not required for selecting what to attend to.
 - You don't need to pay attention to look where you're going
 
 - "ANIMA.Attention"
+
+- Balance a Spade on your hand. You must attend to the forces of the spade.
+- EKOS is not required for selecting what to attend to.
+- You don't need to pay attention to look where you're going
+
+- "ANIMA.Attention"
+
 
 :::

@@ -9,6 +9,32 @@
 <!-- =================================================== -->
 ::: details &
 
+- Strategy to Keep Warm on cold days
+- Strategy to stay hyrdated
+    - Taktik: WaterTimer
+        - Aktion: Drink Water
+            - Tool: Bottle, (Watch OR Phone)
+
+- PlantaBeta.Strategy: TeamBeta is an effort to avoid capturing, which is the opposite Strategy of Chess.
+    - You want to constantly avoid overlapping Passages.
+    - Avoid AntiPassage.
+    - AntagonisticPassage, ProPassage, SymPassage
+    - ProPassage leaves open Space for the other planters to keep planting without being boxed in and therefore Deadwalking. What is a more apt word than Deadwalking.
+
+- Im gonna do that differently next time
+    - Strategy selects the aktions
+    - Strategos delegate to legates
+- Strategy is a stream of decisions
+    - Where do I go next?
+    - How much should I bag up?
+
+- Efficiency.Strategy: BatchProcessing, ParallelProcessing, SequentialProcessing
+    - Efficiency and Effectiveness are the goals to which Strategies aim to achieve
+- Strategy is a stream of decisions. I'll have to wait and see. GameTimeDecision. We'll cross that bridge when we get there
+- Strategy is measured in strong or weak. Qualitative
+    - Exploit a weakness
+    - Exploy ploy plan labor
+
 - [Error,Piece.Strategy] The probability of piece pinch increases proportional to Planter count
 - SailingStrategy
     - Try a Different Tack

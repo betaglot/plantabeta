@@ -1,11 +1,11 @@
 <script setup>
 import ElementInfo from '/vue/ElementPage/Page-ElementInfo.vue'
 import ElementTaxonomy from '/vue/ElementPage/Header-ElementTaxonomy.vue'
-let elementName = "Armor"
+let elementName = "Megaskreef"
 
 </script>
 
-# ⭐<span class="labor">Armor</span>
+# 🟩<span class="ekos">Megaskreef</span>
 
 <ElementTaxonomy :elementName="elementName" />
 
@@ -20,12 +20,12 @@ let elementName = "Armor"
 <!-- =================================================== -->
 ::: details &
 
--
-- Pull the outer layer of clothing in the opposite direction to precompensate
-    - Ratchet
-    - When your sleeve getting jammed
-    - Sleeve or pant
-- ClothingDev: Sleeve Tab or loop at cuff for layer subtract and add to prevent crumple snag of inner layers
-- When removing Midlayer and the shell is wet, ensure that the inside of the shell remains dry by not letting
+- A skreef is a Labon. You don't need to skreef that
+- NeoAktion BootSlideSkreef is a Skid
+    - Skid to a stop
+    - Skim the surface
+    - Skrape off
+    - Skour 
+    - Ski down loose slopes like going down snowbanks in ski boots
 
 :::

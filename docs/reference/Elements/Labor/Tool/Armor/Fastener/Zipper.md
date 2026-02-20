@@ -21,5 +21,6 @@ let elementName = "Zipper"
 ::: details &
 
 -
+- Finger step to start zipper. Hold anterior fabric fixed to prevent zipper kink
 
 :::

@@ -141,4 +141,8 @@ A relationship between the attributes of an Econ and the capabilities of the Pla
 
 - Affordance: You can grab it here. If you walk over here, the n you'll be able to see it better
 
+- Soil type affords Hole variation
+    - Derivative isn't variation
+    - Soil type determines hole
+
 :::

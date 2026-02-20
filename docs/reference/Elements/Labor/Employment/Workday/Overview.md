@@ -9,6 +9,8 @@
 <!-- =================================================== -->
 ::: details &
 
+- Quality decreases at the end of day
+
 - Workday.SubElements
     - Arrival
         - Time

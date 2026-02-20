@@ -246,12 +246,23 @@ for object in BetaList:
 
 ---
 
+
 <!-- =================================================== -->
 <!-- =================================================== -->
 <!-- =================================================== -->
 <!-- =================================================== -->
 <!-- =================================================== -->
+
 ::: details &
+
+- PlantaBeta: DataStructures
+    - Everything is an Object, like in Python
+    - Polyads are DataStructures
+    - Plots
+    - Which to Pop() from a Plot?
+        - To Density--
+    - Where to Plot.Insert() into a Plot?
+        - To Density++
 
 1. Introduction
 
