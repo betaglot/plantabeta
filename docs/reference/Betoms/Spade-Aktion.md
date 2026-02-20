@@ -43,6 +43,8 @@ search: false
 <!-- =================================================== -->
 ::: details &
 
+- throw your spade over a high obstacle first, so you can use two hands to climb
+
 - Record Spade.Aktion with drawings
     - Inertia
     - Rotation

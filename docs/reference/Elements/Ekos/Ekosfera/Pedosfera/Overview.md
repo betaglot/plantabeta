@@ -29,7 +29,9 @@ Aliases: Soil, Dirt, Ground
 <!-- =================================================== -->
 ::: details &
 
-- MaleableSoil
+- Drum Sand in dune Drum Clay Drum RedrotSoil Skin is Moss or dense roots
+
+- MalleableSoil
 - StiffSoil, HardSoil, DrySoil
 - BrittleSoil
 - FrozenSoil

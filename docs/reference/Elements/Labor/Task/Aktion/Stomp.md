@@ -20,6 +20,8 @@ let elementName = "Stomp"
 <!-- =================================================== -->
 ::: details &
 
+- Stomp for boot [Purga|Inertia]
+
 - Stomp is the Boot equivalent to Pugno
 
 :::

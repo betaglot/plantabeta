@@ -31,6 +31,8 @@ let elementName = "Markum"
 <!-- =================================================== -->
 ::: details &
 
+- Markum Telos Speed isn't a benefit if it leads to waste
+
 - <BB labor='Throw,Markum.Folded'/> Flag is easier to throw when its folded
 - PlantaBeta.Labor.Markum
     - BlockBoundaryFlag

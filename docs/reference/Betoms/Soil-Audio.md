@@ -6,7 +6,7 @@ search: false
 // BetomName=""
 </script>
 
-# <BB   ekos="Soil"   anima="Audio"/>
+# <BB ekos="Soil" anima="Audio"/>
 
 ---
 
@@ -18,5 +18,6 @@ search: false
 ::: details &
 
 -
+- Drum Sand in dune Drum Clay Drum RedrotSoil Skin is Moss or dense roots
 
 :::

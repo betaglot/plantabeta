@@ -21,5 +21,7 @@ let elementName = "Drop"
 ::: details &
 
 -
+- Soil so soft that the blade goes in a stays by itself when dropped from a given height
+
 
 :::

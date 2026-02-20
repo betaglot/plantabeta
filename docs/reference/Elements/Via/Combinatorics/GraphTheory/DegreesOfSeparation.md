@@ -1,11 +1,12 @@
+
 <script setup>
 import ElementInfo from '/vue/ElementPage/Page-ElementInfo.vue'
 import ElementTaxonomy from '/vue/ElementPage/Header-ElementTaxonomy.vue'
-let elementName = "Fortuna"
+let elementName = "DegreesOfSeparation"
 
 </script>
 
-# 🔻<span class="via">Fortuna</span>
+# 🔻<span class="via">Degrees Of Separation</span>
 
 <ElementTaxonomy :elementName="elementName" />
 
@@ -19,8 +20,6 @@ let elementName = "Fortuna"
 <!-- =================================================== -->
 <!-- =================================================== -->
 ::: details &
-
-- Delta is chance and via and a greek triangle letter
 
 -
 

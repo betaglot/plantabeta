@@ -48,6 +48,9 @@ Aliases: Shovel
 <!-- =================================================== -->
 ::: details &
 
+- KickerPlate is the Hilt of a Spade
+
+- Spade with a Shaft that's too long leads to overuse of tab and tears along medial side of boot sole and rand
 - SpadeSkreef isn't a move
 
 - Push off like swimming with your arms or legs or Spade

@@ -8,7 +8,7 @@ The most important constraint for Tools is the space it takes in the Truck.
 ## <span class="labor">ArmorDev</span>
 
 - Cache Poncho
-
+- Tie or loop or button on the inside of jacket to allow fully unzipped while also maintaining the structure of the jacket. Stop your jacket from flapping open
 - Cowl
 - ClothingDev: Jacket Backpack straps like Rudsak
 - Inside of cape can be a mount
@@ -178,6 +178,8 @@ Lash D to Dory
 > (Plantafor == "plant" + "bearer")
 
 Plantafors are not planting bags, in the same way that a Jeep is not a Model-T
+
+- PlantaforDev: Overall+Bags. Built-in Bags
 
 - Plantafor folds into a hoplite shield
 - PlantaforDev: Phone case front bag attachment

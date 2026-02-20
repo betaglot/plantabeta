@@ -22,5 +22,7 @@ let elementName = "Trench"
 
 -
 - NeonMano on FlipSide of trench. Perpendicular Blade
+- Respect Paleons not just in the Trench. Also in the Land around the trench. Trench Area
+
 
 :::

@@ -1,10 +1,6 @@
-# <span class="beta">BETAGRAFIA</span>
+# <span class="beta">BETAGLYF</span>
 
 The written form of <span class="beta">BETA</span>
-
-## <span class="beta">BETAGRAFA</span>
-
-A person who writes <span class="beta">BETA</span>
 
 ---
 

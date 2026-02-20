@@ -46,7 +46,7 @@ search: false
 - Schedule opening clipboard instead of work block barrier to entry into work block is lower than if the task description contained the content
 <!-- - Spruce root increases soil teknik and possibly soil Kratos -->
 - <BB labor='MinimumWage'/> Wanna surpass minimum wage?
-- <BB labor=''via='Affordance'anima='String'/> Unable unaffordable
+<!-- - <BB labor=''via='Affordance'anima='String'/> Unable unaffordable -->
 - Learn how to harvest seeds
 - <BB labor='BundleWrapper'/> BundleWrapper and Markum kickstarter
 <!-- - <BB labor='Spade.Spike'/> <BB labor=''via='Enable'/> <BB labor='RootPod.RipApart'/> SpadeSpike to get both hands free to rip apart interrooted pods -->
@@ -54,7 +54,7 @@ search: false
 <!-- - SpineFlexion pulls bellow open. SpineExtension presses air out -->
 <!-- - Precipice Prominence -->
 <!-- - Look for the leaves and flowers in stick mat, since they only grow in soil. Conifers don't always grow in soil -->
-- Markum Telos Speed isn't a benefit if it leads to waste
+<!-- - Markum Telos Speed isn't a benefit if it leads to waste -->
 - Get in the zone
 <!-- - Distance to the back -->
 - Kickstarter Give them markums
@@ -95,16 +95,16 @@ search: false
 <!-- - Fireweed MarkumSite -->
 <!-- - Defined Leader in trenches -->
 - ManoSkreef before BootKlose, but after NeonInsert
-- Soil so soft that the blade goes in a stays by itself when dropped from a given height
+<!-- - Soil so soft that the blade goes in a stays by itself when dropped from a given height -->
 - Trench DeadEnds
-- Ting your Spade to get someone's attention
+<!-- - Ting your Spade to get someone's attention -->
 <!-- - Rekky -->
 - RookieFreeze is more apt than rookieStare
 <!-- - U instead of O Grip GentleGrip SpadeGrip -->
 - Where to buy a hook needle for Asolo heel panel
 - Deep enough neons are less floppy
 - Vertical Blade in constrained area
-- Repeat pry to get under a big chunk of redrot or other low density duff
+<!-- - Repeat pry to get under a big chunk of redrot or other low density duff worm -->
 - Email Jared to build planter confidence
 <!-- - PlotKord Coil -->
 - Use stump as step on steep slopes
@@ -114,7 +114,7 @@ search: false
 - Teorem: On a slope there shouldn't be trees below you
 - Teorem to know if you're ghost lining
 - Seek out good teachers to learn the practice of teaching
-- ClusterPlanting within Plots
+<!-- - ClusterPlanting within Plots -->
 - Morning meeting: Circle crowd is not ideal
 - Bonus Tree stumped trees don't count in  plots
 - Dot instead of point in glyphs
@@ -122,7 +122,7 @@ search: false
 <!-- - It seems like you view me negatively -->
 <!-- - Aquarium bubbler for ventilator -->
 <!-- - Fold Markum into figure 4 -->
-- Spade Peck
+<!-- - Spade Peck -->
 <!-- - Plant triads instead of triangles -->
 - VillaBeta
 - Day Off Map of Penticton
@@ -140,11 +140,11 @@ search: false
 - Norah isochrone
 - Bonsai instead of toddler trees
 - are you interested in Beta testing PlantaBeta?
-- Tie or loop or button on the inside of jacket to allow fully unzipped while also maintaining the structure of the jacket. Stop your jacket from flapping open
+<!-- - Tie or loop or button on the inside of jacket to allow fully unzipped while also maintaining the structure of the jacket. Stop your jacket from flapping open -->
 - Unit instead of team
 - You have the money for PlantaforDev
 - Via: Hold the door open for someone anterior posterior lateral relative to you
-- Stomp for boot purga
+<!-- - Stomp for boot purga -->
 - SetUp a job for September
 - Find a Canadian Mossy Earth
 - Additional use of goggles is as an ankor point for glabrous skin air pneuma aero wind
@@ -160,13 +160,13 @@ search: false
 - Biodegradable has nothing to do with Biology. bio is life, so over the lifetime of the plastic, it degrades
 <!-- - Coffee filters don't fall apart when wet, neither do napkins -->
 - Truckers hitch for quad
-- Delta is chance and via and a greek triangle letter
+<!-- - Delta is chance and via and a greek triangle letter -->
 - Via: get through before the door closes
 <!-- - When removing Midlayer and the shell is wet, ensure that the inside of the shell remains dry by not letting -->
 - Shade is a Shadow large enough to sit in
 <!-- - Soccer ball control is flora move -->
 <!-- - BirchBark Marka dyed -->
-- KickerPlate is the Hilt of a Spade
+<!-- - KickerPlate is the Hilt of a Spade -->
 - Branch rope burn
 - Slink
 - Sfagnum
@@ -195,48 +195,47 @@ search: false
 - Stance
 - AtClimbingGym Reset for Quastuco demo
 - Maybe painting the paper with nontoxic blue paint will be easier.
-- Pacer is easier than teacher
+<!-- - Pacer is easier than teacher -->
 - Div ToVia
 <!-- - Piece to Labor -->
-- throw your spade over a high obstacle first, so you cab use two hands to climb
+<!-- - throw your spade over a high obstacle first, so you can use two hands to climb -->
 - Drink when you're not thirsty and stop eating while you're still hungry
-- Master != Elite  
+<!-- - Master != Elite   -->
 - MechanicalDryer
-- Crossing the street because you someone else start to move. Intention.mimik
+<!-- - Crossing the street because you someone else start to move. Intention.mimik -->
 <!-- - Flag pineapple -->
 <!-- - Markoid -->
 <!-- - If seedlings are neons, then what are crop trees in fill plants. Paleon -->
 - Certified that they completed Kendra's course and are therefore muscularly ready for the upcoming season
 <!-- - Double serrated bookbinding sides for markum stack and markum rip -->
-- Playback on ipad like nhl
+<!-- - Playback on ipad like nhl -->
 - BagAdjust ManoBagRim instead of SilviAktion
 - Patagonia Orange Epaulets on bags and mount for ventilator. Copy Paramedic Ventilator
 - Pacer is the TA of planting  Low bar for entry, lower than becoming an Instructor
 - Plant hypotenuse in flat terrain and "L" on slope
-- ManoSlideCheck uses Kinetic Friction to pull on tree while needle test uses static, same with StaticCheck
+<!-- - ManoSlideCheck uses Kinetic Friction to pull on tree while needle test uses static, same with StaticCheck -->
 - Teaching no flag, but its optional maybe isn't good
 <!-- - Only the first Aktion is a pry the rest are skim -->
 <!-- - Cedar Bark Flag -->
-- Planter communication  I'm gonna area plant this section
+<!-- - Planter communication  I'm gonna area plant this section -->
 - Be a checker for a short time
 <!-- - Tablet markafor case -->
 <!-- - Octopus Stump -->
-- Drum Sand in dune Drum Clay Drum RedrotSoil Skin is Moss or dense roots
+<!-- - Drum Sand in dune Drum Clay Drum RedrotSoil Skin is Moss or dense roots -->
 <!-- - NeonMano on FlipSide of trench. Perpendicular Blade -->
-- Respect not just in trench also. Trench Area
+<!-- - Respect not just in trench also. Trench Area -->
 - Each page of Booklet has a qr code which links to PlantaBeta
 <!-- - Markafor triggers a Geolocation event when Markum is dispensed -->
 - To remember a thought, say it aloud and gesture. Like Japanese Train Conductors
 <!-- - Worm into. Use SpadePalm -->
 - Squire Page Support GlialCell Scaffold Framework SupportStaff PitCrew
 - Refereeing benefits players the same way as surveying benefits Planters
-- Spade that's too long leads to overuse of tab and tears along medial side of boot sole and rand
+<!-- - Spade with a Shaft that's too long leads to overuse of tab and tears along medial side of boot sole and rand -->
 - 2$ for anyone that can provide evidence from a scientific paper
 - Start doing fastBagOuts to experiment with Stoicism for Anima
-- What will you sacrifice? Nothing is free
 - Minute physics mountain valley illusion for Ekon Form
 - SpadeDribble PanBeta(Basketball)
-- Cherries fluffing neon packing error
+<!-- - Cherries fluffing neon packing error -->
 <!-- - Affordance: You can grab it here. If you walk over here, the n you'll be able to see it better -->
 <!-- - Quality decreases at the end of day -->
 - Planters and Supervisors should be hired for their character
@@ -244,14 +243,14 @@ search: false
 <!-- - Bundle wrappers which haven't been frozen are more elastic and clingy -->
 <!-- - Finger step to start zipper. Hold anterior fabric fixed to prevent zipper kink -->
 - Teach someone to teach. Triad. Student teacher me
-- First bagIn with insulation layer since it's usually cold in the morning
+<!-- - First bagIn with insulation layer since it's usually cold in the morning -->
 - 4g blue paper cup for salt
 - If you want to know more, there is a place you can go. If you're at all interested in PlantaBeta
 - Decisions evaporate when you're following wanting. The choice is always obvious
 - They were going ham. Implies density. Anima can be a descriptor of density
 - Missing Front pocket for camera is limiting the data collection for PlantaBeta. Accessibility is low to GoPro
 - Run a line. Run to the back
-- Broaden your idea of a PlantaBeta sponsor to any person or company involved with Plantations. For example Gransfors Bruk
+<!-- - Broaden your idea of a PlantaBeta sponsor to any person or company involved with Plantations. For example Gransfors Bruk -->
 <!-- - A skreef is a Labon. You don't need to skreef that -->
 - Define the range for NovicePlanters, so they know what to expect
     - This is as steep as it gets
@@ -277,8 +276,8 @@ search: false
 - The backs of pieces. Piece distal to road is more raw since less slash has been dragged through it
 - The space between road and piles is often better than prep
 - Raw is a continuum
-- SpadeLeg and ArmOnda and Spade.Aktion at same time
-    - DuckStep during SpadeSlam uses the same physics as a double universal pendulum's motion  
+<!-- - SpadeLeg and ArmOnda and Spade.Aktion at same time
+    - DuckStep during SpadeSlam uses the same physics as a double universal pendulum's motion   -->
 - Gather data for Betaglot
     - Strava
     - GoPro
@@ -302,7 +301,7 @@ search: false
     - Accordion reinforced folds -->
 <!-- - Rotate blade to perpendicular to cut roots during skim
     - Perpendicular Blade leads with BladeEdge therefore increases pressure on Impakt -->
-- NeoAktion Arm thread through straps during PlantaforOn
+<!-- - NeoAktion Arm thread through straps during PlantaforOn -->
 <!-- - Soil type affords Hole variation
     - Derivative isn't variation
     - Soil type determines hole -->
@@ -342,7 +341,7 @@ search: false
     - Fascile is bound
     - Bind bundle with Mano -->
 - LookDown the slope to reduce chance of high Density
-    - Choose the next spot before walking up hill
+    - Choose the next spot before walking up hill to it
     - Turning around on a hill is more difficult since turn around step is more difficult on slope land than on flat
     - KorpoRotate
     - KorpoTwist
@@ -380,14 +379,14 @@ search: false
         - To Density--
     - Where to Plot.Insert() into a Plot?
         - To Density++ -->
-- The edge is more precise than line
+<!-- - The edge is more precise than line
     - Edge of what's been completed
     - Front. WeatherFront. All quiet on the Western Front
     - Frontier
     - Frontline
     - Cutting edge
     - Bleeding edge
-    - Pushing the envelope
+    - Pushing the envelope -->
 - Each interaction needs to eased into with small talk
     - You're the only person that they've interacted with in the last few hours
     - Beginnings are delicate
@@ -434,7 +433,7 @@ search: false
     - Best case scenario
     - Most likely case scenario
 - Start Aktion of (Spade,Skreef)
-- ArmOnda to BladeTipKonSite OR BladeTipKonSite
+<!-- - ArmOnda to BladeTipKonSite OR BladeTipKonSite -->
 - PlantaMaki
     - When you're tired or the land is shit
     - Just lock in on planting
@@ -448,8 +447,8 @@ search: false
     - Things swinging while you walk
     - Like a cowbell
     - For example a water bottle -->
-- Analysis during morning crummy faster than real
-    - Analyze planters during the ride to the block in the morning
+<!-- - Analysis during morning crummy faster than real
+    - Analyze planters during the ride to the block in the morning -->
 <!-- - MarkumDev
     - Blue ink qr code for flag
     - What happens if you tile a qr code, does it mess up the reading. What is the minimum spacing between qrcodes relative to size -->
@@ -492,7 +491,7 @@ search: false
 <!-- - NeoAktion(SpadeSpike)
     - SpikeBall
     - Spike the Spade into ground when Reloading Flag or when you need both hands -->
-- PlantaforDev: Overall+Bags. Built-in Bags
+<!-- - PlantaforDev: Overall+Bags. Built-in Bags -->
 <!-- - Box ollie
     - BoxPop
     - (Pop)InsteadOf(Ollie) -->
@@ -504,11 +503,11 @@ search: false
     - The GPS is set at 10 second intervals if I remember correct so yes spacing would be related to speed.
     - I did deadwalk down a road to the furthest point of the block to start, mostly so I end my day closer to my truck.
     - I don't really get much feedback on how it looks only asked why I wasn't able to hit areas. -->
-- Via Merge into Follow
+<!-- - Via Merge into Follow
     - PlantingSynergy
     - After going around different sides of a residual patch then merging back together
     - On ramp merge lane. Highway is an established multilane
-    - Lane is ViaSpace
+    - Lane is ViaSpace -->
 <!-- - SpadeDev: Piezoelectric SpadeSlam to recharge a planter battery used for cooling system -->
 <!-- - Pods should be planar instead of cylinder
     - Envelope is easier to design than cylinder
@@ -559,8 +558,8 @@ search: false
     - Pressure (Offensive): Quick player and/or puck movement which causes the defense to react more quickly than they may be capable of doing.
     - Pressure (Defensive): Just as offensive speed creates pressure, defensive speed creates pressure, but on the offensive players. This results in reducing the time and space available to the attackers. -->
 - Videos explaining how an Image  or video represents Via
-- FillPlant == PaleonPlant
-    - PaleonKompletion
+<!-- - FillPlant == PaleonPlant
+    - PaleonKompletion -->
 <!-- - What are the hubs of Betaretetome
     - What Betoms are most connected to other Betoms
     - Is this different from asking about Betom Frequency?

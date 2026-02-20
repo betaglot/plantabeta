@@ -17,6 +17,8 @@ search: false
 <!-- =================================================== -->
 ::: details &
 
+- Spade Peck
+
 - Feel the perimeter of Rock. Sometimes following a RockCap for a couple meters if there aren't any other NeoSites near initial site
 - SpadeLogTest
     - Can I stand on this without it breaking

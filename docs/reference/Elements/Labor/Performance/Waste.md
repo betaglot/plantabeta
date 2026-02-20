@@ -20,6 +20,8 @@ let elementName = "Waste"
 <!-- =================================================== -->
 ::: details &
 
+- Markum Telos Speed isn't a benefit if it leads to waste
+
 - Waste of Energy
 - Waste of Tools
 - Waste of Neons

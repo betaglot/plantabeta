@@ -30,6 +30,20 @@ let elementName = "Kompletion"
 <!-- =================================================== -->
 ::: details &
 
+- FillPlant == PaleonPlant
+    - PaleonKompletion
+
+- FrontierEdge
+    - The edge is more precise than line
+    - Edge of what's been completed
+    - Front. WeatherFront. All quiet on the Western Front
+    - Frontier
+    - Frontline
+    - WesternFront
+    - Cutting edge
+    - Bleeding edge
+    - Pushing the envelope
+
 - Overlaps
     - Lap Marks in Painting
 

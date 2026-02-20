@@ -18,5 +18,7 @@ search: false
 ::: details &
 
 -
+- First bagIn with insulation layer since it's usually cold in the morning
+
 
 :::

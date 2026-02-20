@@ -21,5 +21,7 @@ let elementName = "Slam"
 ::: details &
 
 -
+- SpadeLeg and ArmOnda and Spade.Aktion at same time
+    - DuckStep during SpadeSlam uses the same physics as a double universal pendulum's motion  
 
 :::

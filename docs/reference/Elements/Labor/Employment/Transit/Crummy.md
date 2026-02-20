@@ -22,6 +22,7 @@ let elementName = "Crummy"
 ::: details &
 
 - Seats are shock absorbers, benches are rarely if ever absorbers
--
+- Analysis during morning crummy faster than real
+    - Analyze planters during the ride to the block in the morning
 
 :::

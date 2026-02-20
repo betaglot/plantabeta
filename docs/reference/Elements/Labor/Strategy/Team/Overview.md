@@ -20,6 +20,18 @@ let elementName = "Team"
 <!-- =================================================== -->
 ::: details &
 
+- Via Merge into Follow
+    - PlantingSynergy
+    - After going around different sides of a residual patch then merging back together
+    - On ramp merge lane. Highway is an established multilane
+    - Lane is ViaSpace
+
+- Mimik
+    - Crossing the street because you someone else start to move. Intention.mimik
+
+- Pacer is easier than teacher
+
+
 - TeamBeta
     - Leader
     - Captain

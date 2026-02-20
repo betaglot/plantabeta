@@ -21,5 +21,7 @@ let elementName = "Ballista"
 ::: details &
 
 -
+- throw your spade over a high obstacle first, so you can use two hands to climb
+
 
 :::

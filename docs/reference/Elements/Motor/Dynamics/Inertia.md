@@ -21,5 +21,6 @@ let elementName = "Inertia"
 ::: details &
 
 -
+- Stomp for boot [Purga|Inertia]
 
 :::

@@ -1,11 +1,11 @@
 <script setup>
 import ElementInfo from '/vue/ElementPage/Page-ElementInfo.vue'
 import ElementTaxonomy from '/vue/ElementPage/Header-ElementTaxonomy.vue'
-let elementName = "Fortuna"
+let elementName = "Pendulate"
 
 </script>
 
-# 🔻<span class="via">Fortuna</span>
+# ⭐<span class="labor">Pendulate</span>
 
 <ElementTaxonomy :elementName="elementName" />
 
@@ -20,8 +20,8 @@ let elementName = "Fortuna"
 <!-- =================================================== -->
 ::: details &
 
-- Delta is chance and via and a greek triangle letter
-
 -
+- SpadeLeg and ArmOnda and Spade.Aktion at same time
+    - DuckStep during SpadeSlam uses the same physics as a double universal pendulum's motion  
 
 :::

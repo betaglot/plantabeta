@@ -17,6 +17,12 @@ search: false
 <!-- =================================================== -->
 ::: details &
 
+- NeedleTest
+
+- VisualEval
+
+- ManoSlideEval uses Kinetic Friction to pull on tree while needle test uses static, same with StaticEval
+
 - Evaluate the Quality of a Neon
     - LooseNeon
     - ShallowNeon
