@@ -11,7 +11,7 @@ search: false
 - Cycle
 - Diameter
 - Radius
-- 
+-
 
 ### Graph Operations and Algorithms
 
@@ -62,9 +62,15 @@ source,relationshipType,target
 
 ### Hubs
 
+> Elements which are connected to many Elements
+
 - Gravity
+    - Most Aktions
 - Vision
+    - Most Aktions
 - Attention
+    - Most Aktions
+    - Most Animons
 
 ### RelationshipTypes
 
@@ -233,6 +239,6 @@ Your hair doesn't move like your myosin but both are composed of proteins. A hol
 
 - Make all Links Bidirectional using a PythonScript
 
-- 
+-
 
 :::
