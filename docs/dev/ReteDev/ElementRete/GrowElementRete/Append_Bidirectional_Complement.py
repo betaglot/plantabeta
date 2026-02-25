@@ -1,23 +1,28 @@
-# Digraph Complement
-
 import pandas as pd
-from datetime import datetime
+
+def csv_to_dict_pandas(filename):
+    """
+    Converts a CSV file to a list of dictionaries using pandas.
+    """
+    df = pd.read_csv(filename)
+    return df.to_dict(orient='records') # orient='records' creates a list of dictionaries
+
+# Example Usage:
+data_pandas = csv_to_dict_pandas(r'C:\Users\chris\plantabeta\docs\dev\ReteDev\ElementRete\Current_ElementRete.csv')
+# print(data_pandas)
 
 
-current_datetime = datetime.now()
+def AddComplement(RelationshipClass,ComplementRelationshipClass):
 
-timecode = current_datetime.strftime("%y%m%d-%H%M%S")
+    for row in data_pandas:
+        
+        if row['_Relationship_'] == RelationshipClass:
+        
+            print(f"{row['_Out_']},{ComplementRelationshipClass},{row['_In_']}")
 
-# Load the CSV file
-df = pd.read_csv(r'C:\Users\chris\plantabeta\docs\dev\ReteDev\ElementRete\Current_ElementRete.csv')
+        if row['_Relationship_'] == ComplementRelationshipClass:
+        
+            print(f"{row['_Out_']},{RelationshipClass},{row['_In_']}")
+        
+# AddComplement("IsSuperTaxonOf","IsSubTaxonOf")
 
-
-
-# Sort by 'Name' (ascending) and then by 'Age' (descending)
-df_sorted = df.sort_values(by=['_In_', '_Relationship_', '_Out_', '_Description_', '_Dev_'])
-
-# View the first few rows of the sorted DataFrame
-print(df_sorted.head())
-
-# Save the sorted data to a new CSV file
-df_sorted.to_csv(rf'C:\Users\chris\plantabeta\docs\dev\ReteDev\ElementRete\GrowElementRete\{timecode}-Grow_ElementRete.csv', index=False)

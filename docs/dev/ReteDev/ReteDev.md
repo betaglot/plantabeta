@@ -25,7 +25,7 @@ search: false
         - OrderBy(RelationshipClass)
     - RelationshipClassFrequency
 
--
+- UsesSomon
 
 ### Knowledge Graph
 
