@@ -665,3 +665,84 @@ search: false
 <!-- - Taktik: IntermediateAktion
     - A zwischenzug (German for "intermediate move") is a chess tactic where a player, instead of making an expected move (usually a recapture), first plays an unexpected move that creates an immediate, severe threat, forcing the opponent to respond. Also known as an intermezzo, this "in-between" move often changes the situation to the player's advantage, such as winning material or avoiding a bad exchange -->
 <!-- - The most efficient Motor is where the energy either comes from gravity of as a result of AnteAktion. Energy flows from one Aktion to the next. -->
+- Walking in tread print line.
+    - To Prevent need for Purga
+    - Because you can choose which footprints to follow. Take the successful paths, and avoid the
+    - The prints that filled up with water probably not good to follow
+- A turnkey solution is a fully developed, ready-to-use product or service that a provider supplies, installs, and commissions, allowing the client to start using it immediately without further configuration. These all-in-one packages, common in IT, manufacturing, and construction, streamline processes by handling design, construction, and implementation, essentially allowing the user to simply "turn the key" to begin operations.  
+- When to step in puddles
+- Duff
+- Necessary but not sufficient
+- Plan
+    - Where to start
+    - How to start
+    - Talk it through
+    - Run me through how you're going to do that
+    - Run me through the plan
+    - repeat the plan back to me
+- Performance
+    - Strengths and weaknesses
+- Strategy
+    - Clear the way for
+    - Clear a path for
+    - Jeopardize
+    - Hamper
+    - Negligible
+    - In case we want to go that route
+    - Just in case
+    - Case is logic
+    - Contingency plan
+    - Strategy: It's a perfect match
+    - Resist avoid
+    - In line with your views
+        - In accordance
+        - Concord
+        - Concordance
+    - Strategy.Decision
+    - Give and take
+    - "Angling for"
+    - How does agenda relate to strategy
+    - If anything gets between me and the goal line
+    - Strategy: A cheap ploy
+    - Let it happen, then
+    - Exit strategy
+        - Cut off their exit
+    - Strategy strong or weak on defense
+    - Small Steps, Chess is played one move at a time, you don't need clusters.
+    - PlantaBeta.Local and Global Strategy
+        - BoustroKomplete is a Taktik
+
+- On my way
+- I can't see any advantage
+    - But is there any disadvantage
+    - Advantage isn't binary
+    - Advantageous != Disadvantageous
+    - Neutral ActualName
+- TeamBeta: allow for
+    - Allow for coplanter's VIA
+    - ChessBeta: Restrict to add pressure
+    - Minimize Pressure when TeamBeta
+- Motor
+    - In chess, tempo (plural: tempi) refers to a single turn or "unit of time" used to move a piece. Gaining a tempo means achieving a goal in fewer moves or forcing an opponent to waste a move responding to a threat, while losing a tempo involves wasted moves. It is crucial for rapid development and attacking initiative.
+    - Gaining a tempo in chess means achieving a desirable position or strategic advantage in one fewer move than necessary, essentially making a move that forces the opponent to respond rather than continuing their own plan. A move "with tempo" often develops a piece while simultaneously attacking an opponent's piece, forcing them to waste a turn defending or moving it.  
+- Self-avoiding walk Passage
+    - <https://en.wikipedia.org/wiki/Self-avoiding_walk>
+- Baker for handklose
+- Box yourself in
+- Weave is via
+- Disconnected boundary voronoi
+- Spade Ollie is as useful as board ollie
+- Planters on lakeside beach
+- You've planted a tree as every emotion
+- BisBoxTransport
+- Lane
+    - Passing Lane
+    - Stay in your lane
+    - TeamBeta
+    - Defense Lane
+    - To gain control of the area
+- Cut out your section
+    - TeamBeta
+    - Claim your area
+- Hamiltonian path
+- Eulerian path

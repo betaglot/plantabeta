@@ -6,7 +6,19 @@ search: false
 
 > Networks are graphs where the vertices and edges have attributes
 
-## Knowledge GRaph
+## Graph Theory
+
+- Cycle
+- Diameter
+- Radius
+- 
+
+### Graph Operations and Algorithms
+
+- Find ShortestPath
+- Find the Hubs
+
+### Knowledge Graph
 
 Rete is a knowledge graph. The nodes are Elements and the Connectors are Relationships between Elements
 
@@ -48,67 +60,142 @@ source,relationshipType,target
 
 ## NodeLinks
 
+### Hubs
+
+- Gravity
+- Vision
+- Attention
+
 ### RelationshipTypes
+
+#### Possible Aktion
+
+- HasPossibleAktion
+- IsPossibleAktionOf
+
+#### Requires
+
+- Requires
+- IsRequiredBy
+
+- RequiresLabon
+- IsLabonRequiredBy
+
+- RequiresSomon
+- IsSomonRequiredBy
+
+- RequiresEkon
+- IsEkonRequiredBy
+
+- RequiresVion
+- IsVionRequiredBy
+
+- RequiresMoton
+- IsMotonRequiredBy
+
+- RequiresAnimon
+- IsAnimonRequiredBy
+
+#### Tool
+
+- IsToolUsedBy
+- UsesTool
+
+#### Method
+
+>
+
+- IsMethodOf
+- HasMethod
+
+#### Partonomy
+
+> Hand isSubPartOf Mano
+
+> Leg isSubPartOf Stand
+
+- IsSubPartOf
+- IsSuperPartOf
 
 #### Taxonomy
 
-- isA
-- hasA
+> Hand isSubTaxonOf Arm
 
-#### Modify ElementAttribute
-
-- Kratos++
-- Teknik++
-- Kuboi++
-- Frekentia++
-- Kratos--
-- Teknik--
-- Kuboi--
-- Frekentia--
+- IsSubTaxonOf (ChildOf)
+- IsSuperTaxonOf (ParentOf)
 
 #### ElementSequence
 
-##### SimElement
+<!-- ##### SimElement
 
-- isSimAnimaOf
-- isSimMOTONOf
-- isSimBetaOf
-- isSimVionOf
-- isSimEkonOf
-- isSimLaborOf
+- IsSimAnimaOf
+- IsSimMOTONOf
+- IsSimBetaOf
+- IsSimVionOf
+- IsSimEkonOf
+- IsSimLaborOf -->
 
 ##### AnteElement
 
-- isAnteAnimaOf
-- isAnteMOTONOf
-- isAnteBetaOf
-- isAnteVionOf
-- isAnteEkonOf
-- isAnteLaborOf
+- IsAnteAnimaOf
+- IsAnteMOTONOf
+- IsAnteBetaOf
+- IsAnteVionOf
+- IsAnteEkonOf
+- IsAnteLaborOf
 
 ##### PostElement
 
-- isPostAnimaOf
-- isPostMOTONOf
-- isPostBetaOf
-- isPostVionOf
-- isPostEkonOf
-- isPostLaborOf
+- IsPostAnimaOf
+- IsPostMotonOf
+- IsPostVionOf
+- IsPostEkonOf
+- IsPostLaborOf
+- IsPostSomonOf
 
-#### GeneralRelation
+#### Relation to Other Faktor
 
-- relatedToAnima
-- relatedToMOTON
-- relatedToBeta
-- relatedToVion
-- relatedToEkon
-- relatedToLabor
+- HasSomon
+- HasAnimon
+- HasMoton
+- HasVion
+- HasEkon
+- HasLabon
+
+- IsSomonOf
+- IsAnimonOf
+- IsMotonOf
+- IsVionOf
+- IsEkonOf
+- IsLabonOf
 
 #### Causality
 
-- isInitiatorOf
-- isErrorOf
-- isResultOf
+- IsInitiatorOf
+- IsErrorOf
+- IsResultOf
+
+#### Modify ElementAttribute
+
+- IncreasesKratosOf
+- IncreasesTeknikOf
+- IncreasesKuboiOf
+- IncreasesFrekentiaOf
+
+- DecreasesKratosOf
+- DecreasesTeknikOf
+- DecreasesKuboiOf
+- DecreasesFrekentiaOf
+
+- KratosIncreasedBy
+- TeknikIncreasedBy
+- KuboiIncreasedBy
+- FrekentiaIncreasedBy
+
+- DecreasesKratosOf
+- DecreasesTeknikOf
+- DecreasesKuboiOf
+- DecreasesFrekentiaOf
 
 ## Rete_Taxa
 
@@ -141,5 +228,11 @@ Your hair doesn't move like your myosin but both are composed of proteins. A hol
 
 - It . Network theory analyses these networks over the symmetric relations or asymmetric relations between their (discrete) components.
 - How to use Python to compare config and docs/*
+
+- How can you use Relationships which have already been recorded?
+
+- Make all Links Bidirectional using a PythonScript
+
+- 
 
 :::
