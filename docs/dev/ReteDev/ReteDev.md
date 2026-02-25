@@ -15,8 +15,17 @@ search: false
 
 ### Graph Operations and Algorithms
 
-- Find ShortestPath
-- Find the Hubs
+- Find GraphShortestPath
+- Find GraphDiameter
+- Find the GraphHubs
+- Calculate the (InDegree, OutDegree, TotalDegree) of each Element
+- RelationshipStatistics
+    - RelationshipDistribution
+    - RelationshipFrequency
+        - OrderBy(RelationshipClass)
+    - RelationshipClassFrequency
+
+-
 
 ### Knowledge Graph
 
@@ -59,6 +68,18 @@ source,relationshipType,target
 ```
 
 ## NodeLinks
+
+### RelationshipClasses
+
+Most useful for inheritance.
+
+- If it seems like you're adding too much redundancy, then chill, RefinementRequiresExcess. You're nowhere near computing limits. Maybe once you get to a million rows, then you can worry about redundancy.
+    - The greatest danger of redundancy is corruption, where changes don't cascade out, ripple out. Things will change during dev. Betaglot hasn't stabilized yet
+
+- IsFaktor
+- HasLabon
+    - IsSubAktionOf
+    - IsSuperAktionOf
 
 ### Hubs
 
@@ -236,6 +257,12 @@ Your hair doesn't move like your myosin but both are composed of proteins. A hol
 - How to use Python to compare config and docs/*
 
 - How can you use Relationships which have already been recorded?
+    - HasLabon
+        - UsesTool
+        - IsSubAktion
+            - Append "HasLabon" Relationship when
+        - RelationshipClasses
+    - IsFaktor
 
 - Make all Links Bidirectional using a PythonScript
 

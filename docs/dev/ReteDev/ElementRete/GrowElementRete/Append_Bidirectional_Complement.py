@@ -1,3 +1,5 @@
+# Digraph Complement
+
 import pandas as pd
 from datetime import datetime
 
@@ -10,6 +12,7 @@ timecode = current_datetime.strftime("%y%m%d-%H%M%S")
 df = pd.read_csv(r'C:\Users\chris\plantabeta\docs\dev\ReteDev\ElementRete\Current_ElementRete.csv')
 
 
+
 # Sort by 'Name' (ascending) and then by 'Age' (descending)
 df_sorted = df.sort_values(by=['_In_', '_Relationship_', '_Out_', '_Description_', '_Dev_'])
 
@@ -17,4 +20,4 @@ df_sorted = df.sort_values(by=['_In_', '_Relationship_', '_Out_', '_Description_
 print(df_sorted.head())
 
 # Save the sorted data to a new CSV file
-df_sorted.to_csv(rf'C:\Users\chris\plantabeta\docs\dev\ReteDev\ElementRete\SortingElementRete\{timecode}-Sorted_ElementRete.csv', index=False)
+df_sorted.to_csv(rf'C:\Users\chris\plantabeta\docs\dev\ReteDev\ElementRete\GrowElementRete\{timecode}-Grow_ElementRete.csv', index=False)
