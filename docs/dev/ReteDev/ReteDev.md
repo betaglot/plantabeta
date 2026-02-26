@@ -112,38 +112,22 @@ Make the Relationships Phrases instead of just Names, to be more semantically pr
 
 #### Requires
 
-- Requires
-- IsRequiredBy
-
-- RequiresLabon
-- IsLabonRequiredBy
-
-- RequiresSomon
-- IsSomonRequiredBy
-
-- RequiresEkon
-- IsEkonRequiredBy
-
-- RequiresVion
-- IsVionRequiredBy
-
-- RequiresMoton
-- IsMotonRequiredBy
-
-- RequiresAnimon
-- IsAnimonRequiredBy
+- "_Requires_The_Labon_","_Is_A_Labon_Required_By_"
+- "_Requires_The_Somon_","_Is_A_Somon_Required_By_"
+- "_Requires_The_Ekon_","_Is_An_Ekon_Required_By_"
+- "_Requires_The_Vion_","_Is_A_Vion_Required_By_"
+- "_Requires_The_Moton_","_Is_A_Moton_Required_By_"
+- "_Requires_The_Animon_","_Is_An_Animon_Required_By_"
 
 #### Tool
 
-- IsPossibleToolOf
-- HasPossibleTool
+- "_Is_A_Possible_Tool_Of_","_Has_A_Possible_Tool_"
 
 #### Method
 
 > Plantafor,HasTheMethod,Don
 
-- IsAMethodOf
-- HasTheMethod
+- "_Is_A_Possible_Method_Of_","_Has_The_Possible_Method_"
 
 #### Partonomy
 
@@ -161,8 +145,7 @@ taxonomy divides things into kinds (types/species) based on similarities, while 
 
 The SuperPart doesn't exist without SubPart
 
-- IsASubPartOf
-- IsASuperPartOf
+- "_Is_A_Part_Of_","_Has_The_Part_"
 
 #### Taxonomy
 
@@ -174,7 +157,7 @@ taxonomy divides things into kinds (types/species) based on similarities, while 
 - "_Is_A_SuperTaxon_Of_", (ParentOf)
 
 - "_Is_An_Ancestor_Of_","_Has_The_Ancestor_"
-- 
+-
 
 #### ElementSequence
 
