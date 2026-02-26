@@ -135,15 +135,15 @@ Make the Relationships Phrases instead of just Names, to be more semantically pr
 
 #### Tool
 
-- IsToolUsedBy
-- UsesTool
+- IsPossibleToolOf
+- HasPossibleTool
 
 #### Method
 
->
+> Plantafor,HasTheMethod,Don   
 
-- IsMethodOf
-- HasMethod
+- IsAMethodOf
+- HasTheMethod
 
 #### Partonomy
 
@@ -155,17 +155,23 @@ Leg is NOT a SubPart of Stand, Kryos IsSubPartOf Stand since Kryos and Stand are
 
 :::
 
-> Hand isSubPartOf Mano
+> Orbit IsSuperPartOf Mano
 
-- IsSubPartOf
-- IsSuperPartOf
+taxonomy divides things into kinds (types/species) based on similarities, while partonomy divides a whole into its constituent parts (components). Taxonomies focus on is-a relationships (e.g., a car is-a vehicle), whereas partonomies focus on part-of relationships (e.g., a wheel is part-of a car).
+
+The SuperPart doesn't exist without SubPart
+
+- IsASubPartOf
+- IsASuperPartOf
 
 #### Taxonomy
 
 > Hand isSubTaxonOf Arm
 
-- IsSubTaxonOf (ChildOf)
-- IsSuperTaxonOf (ParentOf)
+taxonomy divides things into kinds (types/species) based on similarities, while partonomy divides a whole into its constituent parts (components). Taxonomies focus on is-a relationships (e.g., a car is-a vehicle), whereas partonomies focus on part-of relationships (e.g., a wheel is part-of a car).
+
+- IsASubTaxonOf (ChildOf)
+- IsASuperTaxonOf (ParentOf)
 
 #### ElementSequence
 
